@@ -4614,6 +4614,40 @@ export const DE_TOURS: Record<string, TourT> = {
    "Wagen für die Besichtigungen (falls die Option mit Wagen nicht gewählt wurde)"
   ]
  },
+ "ho-chi-minh-trail-dirtbike-tour-from-saigon-to-hanoi-12-days": {
+  "title": "Der Ho-Chi-Minh-Pfad mit dem Geländemotorrad: von Saigon nach Hanoi in 12 Tagen",
+  "fullDescription": "Dies ist ein 12-tägiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Treffen und Abfahrt, Fahrt über Landstraßen und Mittagessen. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHo-Chi-Minh-Stadt, für alle, die dort leben, immer noch Saigon, ist Vietnams größte Stadt und sein wirtschaftlicher Motor, und ein Tag dort heißt Distrikt 1 und Cholon: das Kriegsopfermuseum, der Wiedervereinigungspalast, wo 1975 die Panzer durch das Tor brachen, die französische Hauptpost und die Kathedrale Notre-Dame, der Ben-Thanh-Markt und das chinesische Viertel Cholon mit dem Thien-Hau-Tempel. Es ist außerdem die Stadt des Straßenessens: pho, banh mi, com tam und Bruchreis an Tischen auf dem Gehweg, am besten auf einer Abendtour per Motorrad, denn so bewegt sich diese Stadt. Der Verkehr ist die Sehenswürdigkeit und die Gefahr zugleich; gehen Sie gleichmäßig weiter, und die Roller fließen um Sie herum. Cu Chi und das Mekong-Delta sind die beiden Tagesausflüge.\n\nIm Preis enthalten sind 1 CRF300L inklusive Benzin, 1 englischsprachiger Reiseleiter, 1 Mechaniker als Schlusslicht, Abholung und Rückfahrt am Flughafen und 1 Lkw für das Gepäck. Nicht enthalten sind Persönliche Versicherung, Flugticket, Bier und Persönliche Ausgaben und sonstige Kosten, die nicht im, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Treffen und Abfahrt",
+   "Fahrt über Landstraßen",
+   "Mittagessen",
+   "Abendessen",
+   "Dauer: 12 Tage",
+   "1 CRF300L inklusive Benzin"
+  ],
+  "included": [
+   "1 CRF300L inklusive Benzin",
+   "1 englischsprachiger Reiseleiter, der die Routen führt",
+   "1 Mechaniker als Schlusslicht",
+   "Abholung und Rückfahrt am Flughafen",
+   "1 Lkw für das Gepäck",
+   "Bootsfahrten auf Seen oder Flüssen und Fähre",
+   "Unterkunft wie angegeben",
+   "Alle Mahlzeiten",
+   "Wasser, Kaffee und Softdrink tagsüber und zum Mittagessen (nichts beim Abendessen)",
+   "Versicherung für Schäden am Motorrad (nicht für mutwillige Handlungen oder durch Fahrweise verbrannte Kupplung bzw. Reifen)",
+   "Fahrertrikot (T-Shirt)"
+  ],
+  "notIncluded": [
+   "Persönliche Versicherung und Reiseversicherung (auf eigenes Risiko)",
+   "Flugticket",
+   "Bier, alkoholische Getränke und Softdrinks zum Abendessen",
+   "Persönliche Ausgaben und sonstige Kosten, die nicht im Programm beschrieben sind"
+  ],
+  "shortDescription": "12-tägige Tour in Ho-Chi-Minh-Stadt, mit Treffen und Abfahrt, Fahrt über Landstraßen und Mittagessen. Durchgeführt von VIETNAM ADVENTURE COMPANY LIMITED, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Der Ho-Chi-Minh-Pfad mit dem Geländemotorrad: von Saigon nach Hanoi in 12 Tagen",
+  "metaDescription": "12-tägige Tour in Ho-Chi-Minh-Stadt. Enthalten: 1 CRF300L inklusive Benzin. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "from-hcm-private-ben-tre-canals-crafts-and-fruit-lunch-ho-chi-minh-city": {
   "title": "Ab Ho-Chi-Minh-Stadt: private Kanäle von Ben Tre, Handwerk und Obst-Mittagessen",
   "fullDescription": "Dies ist ein 9-stündiges Erlebnis in Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDas Mekong-Delta beginnt zwei Stunden südlich von Ho-Chi-Minh-Stadt, wo sich der Fluss in neun Arme teilt und eine flache grüne Provinz aus Reis, Kokospalmen und Obstgärten durchzieht. Tagestouren erreichen My Tho und Ben Tre: ein Boot auf dem Hauptarm, ein Sampan durch die Kokospalmen-Kanäle, eine Kokosbonbon-Werkstatt, Honigtee und Obst mit Volksmusik sowie eine Runde mit Fahrrad oder Tuk-Tuk durch die Obstgärten. Die schwimmenden Märkte liegen weiter weg: Cai Be ist auf eine Handvoll Boote geschrumpft, während Cai Rang bei Can Tho, vier Stunden von der Stadt entfernt, der echte ist und nur von 5:00 bis 8:00 Uhr läuft, also eine Übernachtung in Can Tho erfordert. Das Delta ist ganzjährig heiß und feucht; in der Regenzeit von Mai bis November hängen die Obstgärten am vollsten.\n\nIm Preis enthalten sind Fahrten mit Privatboot und Tretboot, Guide, Besuch einer Kokosbonbon-Werkstatt, Besuch einer Kakao- und Schokoladenmanufaktur und Mittagessen in einem Obstgarten. Nicht enthalten sind Persönliche Ausgaben, Zusätzliche Getränke und Trinkgelder für Guide und Fahrer, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ho-Chi-Minh-Stadt. MDC Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -4671,6 +4705,41 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Ho-Chi-Minh-Stadt, mit Book Street, Saigon, Hauptpost von Saigon und Hủ Tiếu Sườn Sụn Liên. Durchgeführt von Vietnam Signature Tours, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ho-Chi-Minh-Stadt: authentische Michelin-Küche und Rooftop bei Sonnenuntergang, privat",
   "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Enthalten: Englischsprachiger einheimischer Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "from-ho-chi-minh-to-ph-qu-c-the-3-day-hidden-mekong-journey-ho-chi-minh-city": {
+  "title": "Von Ho-Chi-Minh-Stadt nach Phu Quoc: 3 Tage im verborgenen Mekong (Ho-Chi-Minh-Stadt)",
+  "fullDescription": "Dies ist ein 3-tägiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Ankunft auf Phu Quoc. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 2 Nächte in einer sorgfältig ausgewählten Unterkunft auf dem Land, 2 Frühstücke, 2 Mittagessen und 2 Abendessen mit frischen, Tägliches Frühstück, Privater Transport während der gesamten Reise und Ein eigener englischsprachiger Gastgeber von Mekong Realism. Nicht enthalten sind Reiseversicherung und persönliche Ausgaben, Getränke oder Mahlzeiten, die nicht im Programm stehen, Persönliche Einkäufe und Souvenirs und Optionale Erlebnisse oder Leistungen, die außerhalb der, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Ankunft auf Phu Quoc",
+   "Dauer: 3 Tage",
+   "2 Nächte in einer sorgfältig ausgewählten Unterkunft auf dem Land",
+   "2 Frühstücke, 2 Mittagessen und 2 Abendessen mit frischen Aromen aus dem Mekong-Delta",
+   "Tägliches Frühstück, tropische Früchte der Saison und Erfrischungen",
+   "Privater Transport während der gesamten Reise"
+  ],
+  "included": [
+   "2 Nächte in einer sorgfältig ausgewählten Unterkunft auf dem Land",
+   "2 Frühstücke, 2 Mittagessen und 2 Abendessen mit frischen Aromen aus dem Mekong-Delta",
+   "Tägliches Frühstück, tropische Früchte der Saison und Erfrischungen",
+   "Privater Transport während der gesamten Reise",
+   "Ein eigener englischsprachiger Gastgeber von Mekong Realism",
+   "Traditionelles Sampan und intime Erlebnisse auf den Wasserwegen des Mekong",
+   "Schwimmender Markt von Cai Rang, mit Frühstück und vietnamesischem Kaffee",
+   "Erlebnisse rund um Reisnudeln und Kakao in Familienbetrieben",
+   "Feuchtgebietsreservat Mua Xuan, einschließlich Aussichtsturm",
+   "Spaziergänge durch Dörfer auf dem Land und echte Begegnungen mit Einheimischen",
+   "Alle Eintrittsgebühren für die genannten Erlebnisse",
+   "Ticket für die Schnellfähre von Rach Gia nach Phu Quoc"
+  ],
+  "notIncluded": [
+   "Reiseversicherung und persönliche Ausgaben",
+   "Getränke oder Mahlzeiten, die nicht im Programm stehen",
+   "Persönliche Einkäufe und Souvenirs",
+   "Optionale Erlebnisse oder Leistungen, die außerhalb der zusammengestellten Reise angefragt werden"
+  ],
+  "shortDescription": "3-tägige Tour in Ho-Chi-Minh-Stadt, mit Day Three — From the Mekong to Phú Quốc und Ankunft auf Phu Quoc. Durchgeführt von Rec, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Von Ho-Chi-Minh-Stadt nach Phu Quoc: 3 Tage im verborgenen Mekong (Ho-Chi-Minh-Stadt)",
+  "metaDescription": "3-tägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "guided-vegetarian-food-tour-by-motorbike-in-ho-chi-minh-city": {
   "title": "Ho-Chi-Minh-Stadt: geführte vegetarische Food-Tour per Motorrad",
@@ -4732,6 +4801,40 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, mit Cu-Chi-Tunnel, Abschnitt Ben Duoc. Durchgeführt von Tong Vn bike Tour, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Cu-Chi-Tunnel in Ben Duoc und Befreiungsgebiet",
   "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "mekong-delta-2-day-1-night-my-tho-ben-tre-cai-rang-floating-market": {
+  "title": "Mekong-Delta in 2 Tagen und 1 Nacht: My Tho, Ben Tre und der schwimmende Markt von Cai Rang",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel in festgelegten zentralen Bereichen von Ho-Chi-Minh, Transport im klimatisierten Fahrzeug, Englischsprachiger Reiseleiter, Bootsfahrten auf dem Mekong und Fahrt im traditionellen Ruder-Sampan. Nicht enthalten sind x Trinkgelder für den Reiseleiter, x Zuschlag für die Feiertage in Vietnam und x Zuschlag für das Hotel im Mekong-Delta, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ho-Chi-Minh-Stadt. Global Explore bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Abholung und Rückfahrt am Hotel in festgelegten zentralen Bereichen von Ho-Chi-Minh-Stadt",
+   "Transport im klimatisierten Fahrzeug",
+   "Professioneller englischsprachiger Reiseleiter (Zuschlag für andere Sprachen)",
+   "Bootsfahrten auf dem Mekong",
+   "Fahrt im traditionellen Ruder-Sampan"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel in festgelegten zentralen Bereichen von Ho-Chi-Minh-Stadt",
+   "Transport im klimatisierten Fahrzeug",
+   "Professioneller englischsprachiger Reiseleiter (Zuschlag für andere Sprachen)",
+   "Bootsfahrten auf dem Mekong",
+   "Fahrt im traditionellen Ruder-Sampan",
+   "Eintrittsgebühren für die im Programm enthaltenen Attraktionen",
+   "Verkostung tropischer Früchte und südvietnamesische Volksmusik",
+   "Verkostung von Honigtee und Besuch einer Kokosbonbon-Werkstatt",
+   "Im Programm genannte Mahlzeiten: Mittag- und Abendessen an Tag 1, Frühstück und Mittagessen an Tag 2",
+   "Bootsfahrt zum schwimmenden Markt von Cai Rang",
+   "Workshop für traditionelle Nudeln und Besuch eines Obstgartens",
+   "Trinkwasser in Flaschen"
+  ],
+  "notIncluded": [
+   "x Trinkgelder für Reiseleiter, Fahrer und Bootscrew (freiwillig)",
+   "x Zuschlag für die Feiertage in Vietnam",
+   "x Zuschlag für das Hotel im Mekong-Delta"
+  ],
+  "shortDescription": "2-tägige Tour in Ho-Chi-Minh-Stadt, inklusive Abholung und Rückfahrt am Hotel in festgelegten zentralen Bereichen von Ho-Chi-Minh, Transport im klimatisierten Fahrzeug und Englischsprachiger Reiseleiter. Durchgeführt von Global Explore, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Mekong-Delta in 2 Tagen und 1 Nacht: My Tho, Ben Tre und der schwimmende Markt von Cai Rang",
+  "metaDescription": "2-tägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "2-day-mekong-delta-tour-with-homestay": {
   "title": "Mekongdelta: 2 Tage mit Homestay",
@@ -5281,6 +5384,70 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Stadttour per Motorrad mit Kriegsmuseum und Wiedervereinigungspalast",
   "metaDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt. Enthalten: Reiseleiter. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "1-day-mekong-cai-rang-floating-market-ancient-house-ho-chi-minh-city": {
+  "title": "Mekong an 1 Tag: schwimmender Markt von Cai Rang und altes Wohnhaus (Ho-Chi-Minh-Stadt)",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Schwimmender Markt Cai Rang und Cái Bè. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab District 3, District 1 und Ho-Chi-Minh-Stadt möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit KIM TRAVEL abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Eintrittsgebühr, Reisesicherheitsversicherung, Weizenkuchen, Neues Fahrzeug mit Klimaanlage und Frühstück im lokalen Restaurant. Nicht enthalten sind Trinkgelder und Weitere oben nicht genannte Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ho-Chi-Minh-Stadt. KIM TRAVEL bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Schwimmender Markt Cai Rang",
+   "Cái Bè",
+   "Dauer: 10 Stunden",
+   "Eintrittsgebühr",
+   "Reisesicherheitsversicherung",
+   "Weizenkuchen, Feuchttücher und eine Flasche Wasser"
+  ],
+  "included": [
+   "Eintrittsgebühr",
+   "Reisesicherheitsversicherung",
+   "Weizenkuchen, Feuchttücher und eine Flasche Wasser",
+   "Neues Fahrzeug mit Klimaanlage",
+   "Frühstück im lokalen Restaurant",
+   "Vietnamesisches Mittagsmenü (vegane Gerichte möglich)",
+   "Erfahrener englischsprachiger Reiseleiter",
+   "Vietnamesische Pfannkuchen und Nudeln zubereiten und genießen",
+   "Motorbootfahrt über den schwimmenden Markt und Radfahren im Dorf",
+   "Traditionelle Musikdarbietung, von der UNESCO anerkannt",
+   "Genießen Sie tropische Früchte (ganzjährig)",
+   "Abholung am Hotel im Zentrum der Bezirke 1, 3 und 4 und Absetzen im Bezirk 1"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Weitere oben nicht genannte Ausgaben"
+  ],
+  "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, mit Schwimmender Markt Cai Rang und Cái Bè. Durchgeführt von KIM TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Mekong an 1 Tag: schwimmender Markt von Cai Rang und altes Wohnhaus (Ho-Chi-Minh-Stadt)",
+  "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Enthalten: Eintrittsgebühr. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "depart-from-ho-chi-minh-city-mekong-dream-4-day-3-night": {
+  "title": "Ab Ho-Chi-Minh-Stadt: Mekong Dream, 4 Tage und 3 Nächte",
+  "fullDescription": "Dies ist ein 4-tägiges Erlebnis in Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 3 Frühstücke, 2 Mittagessen, 2 lokale Abendessen, Getränke auf der Tour: Kaffee und Tropische Früchte: Mango. Nicht enthalten sind Persönliche Ausgaben sind nicht in der Tour enthalten, Getränke im Hotel und Versicherung, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 4 Tage",
+   "3 Frühstücke",
+   "2 Mittagessen",
+   "2 lokale Abendessen",
+   "Getränke auf der Tour: Kaffee, Schokolade, Kokosnuss, Maracujasaft und eine Flasche Wasser",
+   "Tropische Früchte: Mango, Ananas, Jackfrucht und Rambutan"
+  ],
+  "included": [
+   "3 Frühstücke",
+   "2 Mittagessen",
+   "2 lokale Abendessen",
+   "Getränke auf der Tour: Kaffee, Schokolade, Kokosnuss, Maracujasaft und eine Flasche Wasser",
+   "Tropische Früchte: Mango, Ananas, Jackfrucht und Rambutan",
+   "Einheimischer englischsprachiger Reiseleiter",
+   "Transport: Auto, Longtailboot, Sampan und Fahrrad",
+   "Eintrittskarte",
+   "Unterkunft: 3 Nächte in einem Eco-Resort mit Pool oder einem Luxushotel in Can Tho"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben sind nicht in der Tour enthalten",
+   "Getränke im Hotel",
+   "Versicherung"
+  ],
+  "shortDescription": "4-tägige Tour in Ho-Chi-Minh-Stadt, inklusive 3 Frühstücke, 2 Mittagessen und 2 lokale Abendessen. Durchgeführt von Rec, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ab Ho-Chi-Minh-Stadt: Mekong Dream, 4 Tage und 3 Nächte",
+  "metaDescription": "4-tägige Tour in Ho-Chi-Minh-Stadt. Enthalten: 3 Frühstücke und 2 Mittagessen. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "cu-chi-tunnels-historical-adventure": {
   "title": "Cu-Chi-Tunnel: ein historisches Abenteuer",
   "fullDescription": "Dies ist ein 6-stündiges Erlebnis in Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt im Distrikt 1, Professioneller Reiseleiter, Transfer im klimatisierten Auto, Reiseleiter und Wasser in Flaschen im Auto. Nicht enthalten sind Trinkgelder, Ticket, Munitionsgebühr auf dem Schießstand von Cu Chi und Zuschlag an vietnamesischen Feiertagen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -5560,6 +5727,37 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, mit Tien-Fluss. Durchgeführt von Luma Vietnam Travel, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Mekongdelta und Ben Tre: Sampan, Kokosbonbons und lokales Leben",
   "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "mekong-delta-boat-tour": {
+  "title": "Bootstour durch das Mekong-Delta",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Mekongdelta. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Ho Chi Minh City Opera House und Statue of Ho Chi Minh möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Coko Tours abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Transport in einem privaten, Aufschlussreiche Erläuterungen eines zertifizierten englischsprachigen, Exklusive private Flussfahrt in einem traditionellen Holz, Ruhige Fahrt im handgeruderten Sampan durch versteckte Palmen und Im Voraus organisierte Eintrittskarten für alle Kulturstätten des. Nicht enthalten sind Persönliche Einkäufe und zusätzliche Snacks, Optionale Trinkgelder für die Ruderer und Ihren Reiseleiter, Getränke außerhalb des Standard-Mittagsmenüs und Transfers über das Zentrum von Bezirk 1 hinaus, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ho-Chi-Minh-Stadt. Coko Tours bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Mekongdelta",
+   "Dauer: 8 Stunden",
+   "Transport in einem privaten, modernen Fahrzeug passend zu Ihrer Gruppengröße",
+   "Aufschlussreiche Erläuterungen eines zertifizierten einheimischen englischsprachigen Experten",
+   "Exklusive private Flussfahrt in einem traditionellen Holzboot",
+   "Ruhige Fahrt im handgeruderten Sampan durch versteckte Palmenkanäle"
+  ],
+  "included": [
+   "Transport in einem privaten, modernen Fahrzeug passend zu Ihrer Gruppengröße",
+   "Aufschlussreiche Erläuterungen eines zertifizierten einheimischen englischsprachigen Experten",
+   "Exklusive private Flussfahrt in einem traditionellen Holzboot",
+   "Ruhige Fahrt im handgeruderten Sampan durch versteckte Palmenkanäle",
+   "Im Voraus organisierte Eintrittskarten für alle Kulturstätten des Programms",
+   "Vom Küchenchef zubereitetes regionales Mittagessen mit authentischen Aromen des Deltas",
+   "Gekühltes Trinkwasser den ganzen Tag über",
+   "Abholung und Rückfahrt von Tür zu Tür im Bezirk 1"
+  ],
+  "notIncluded": [
+   "Persönliche Einkäufe und zusätzliche Snacks",
+   "Optionale Trinkgelder für die Ruderer und Ihren Reiseleiter",
+   "Getränke außerhalb des Standard-Mittagsmenüs",
+   "Transfers über das Zentrum von Bezirk 1 hinaus"
+  ],
+  "shortDescription": "Tour in Ho-Chi-Minh-Stadt, mit Mekongdelta. Durchgeführt von Coko Tours, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Bootstour durch das Mekong-Delta",
+  "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Enthalten: Transport in einem privaten. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "cu-chi-tunnels-and-mekong-floating-market-from-hcm-city-2-days": {
   "title": "Cu-Chi-Tunnel und schwimmender Markt am Mekong: 2 Tage ab Ho-Chi-Minh-Stadt",
@@ -5966,6 +6164,75 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Cu-Chi-Tunnel am Vormittag oder Nachmittag, optional mit Limousine",
   "metaDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "hcm-mekong-delta-full-day-tour-with-cooking-class-ho-chi-minh-city": {
+  "title": "Ho-Chi-Minh-Stadt: Tagestour ins Mekong-Delta mit Kochkurs (Ho-Chi-Minh-Stadt)",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Vinh-Trang-Pagode, My Tho und Provinz Ben Tre. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDas Mekong-Delta beginnt zwei Stunden südlich von Ho-Chi-Minh-Stadt, wo sich der Fluss in neun Arme teilt und eine flache grüne Provinz aus Reis, Kokospalmen und Obstgärten durchzieht. Tagestouren erreichen My Tho und Ben Tre: ein Boot auf dem Hauptarm, ein Sampan durch die Kokospalmen-Kanäle, eine Kokosbonbon-Werkstatt, Honigtee und Obst mit Volksmusik sowie eine Runde mit Fahrrad oder Tuk-Tuk durch die Obstgärten. Die schwimmenden Märkte liegen weiter weg: Cai Be ist auf eine Handvoll Boote geschrumpft, während Cai Rang bei Can Tho, vier Stunden von der Stadt entfernt, der echte ist und nur von 5:00 bis 8:00 Uhr läuft, also eine Übernachtung in Can Tho erfordert. Das Delta ist ganzjährig heiß und feucht; in der Regenzeit von Mai bis November hängen die Obstgärten am vollsten.\n\nIm Preis enthalten sind Klimatisiertes Fahrzeug, lizenzierter Reiseleiter, Abholung und Rückfahrt am Hotel im Distrikt 1, Halt an der Vinh-Trang-Pagode und Motorbootfahrt auf dem Tien. Nicht enthalten sind Trinkgelder, Persönliche Einkäufe und Souvenirs und Alkoholische Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ho-Chi-Minh-Stadt. AN TAN TRAVEL bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Vinh-Trang-Pagode",
+   "My Tho",
+   "Provinz Ben Tre",
+   "Dauer: 8 Stunden",
+   "Klimatisiertes Fahrzeug",
+   "Professioneller lizenzierter Reiseleiter (standardmäßig Englisch; andere Sprachen bei der privaten Option möglich)"
+  ],
+  "included": [
+   "Klimatisiertes Fahrzeug",
+   "Professioneller lizenzierter Reiseleiter (standardmäßig Englisch; andere Sprachen bei der privaten Option möglich)",
+   "Abholung und Rückfahrt am Hotel im Bezirk 1 (andere Bezirke nur bei der privaten Option)",
+   "Halt an der Vinh-Trang-Pagode (15 bis 20 Minuten)",
+   "Motorbootfahrt auf dem Tien mit Blick auf die 4 Inseln",
+   "Handgerudertes Sampan durch die Kokospalmen-Kanäle",
+   "Besuch einer Honigfarm mit Verkostung von Honigtee und Bananenwein",
+   "Verkostung tropischer Früchte der Saison (frisch aus dem Garten)",
+   "Live-Darbietung der Volksmusik Don Ca Tai Tu",
+   "Besuch einer Kokosbonbon-Werkstatt mit Verkostung in Ben Tre",
+   "Praktischer Kochkurs: Banh Xeo oder Banh Khot (nur bei der privaten Option)",
+   "Vietnamesisches Mittagsmenü im Eco Restaurant"
+  ],
+  "notIncluded": [
+   "Trinkgelder (willkommen, aber nie erwartet)",
+   "Persönliche Einkäufe und Souvenirs",
+   "Alkoholische Getränke"
+  ],
+  "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, mit Vinh-Trang-Pagode, My Tho und Provinz Ben Tre. Durchgeführt von AN TAN TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ho-Chi-Minh-Stadt: Tagestour ins Mekong-Delta mit Kochkurs (Ho-Chi-Minh-Stadt)",
+  "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Enthalten: Klimatisiertes Fahrzeug. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "cu-chi-and-mekong-delta-premium-tour-max-11-pax": {
+  "title": "Cu Chi und Mekong-Delta: Premium-Tour mit maximal 11 Personen",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Cu-Chi-Tunnel und Mekongdelta. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Transport im klimatisierten 16-sitzigen Minibus, Abholung und Rückfahrt am Hotel in den Bezirken 1 und 3, Reiseleiter, Eintritt zu den Cu-Chi-Tunneln und Eintrittsgebühren im Mekong-Delta. Nicht enthalten sind Optionales Schießerlebnis mit AK-47 oder M16, Abholung in Bezirken außerhalb von Bezirk 1 und 3, Persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHo-Chi-Minh-Stadt. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Cu-Chi-Tunnel",
+   "Mekongdelta",
+   "Dauer: 10 Stunden",
+   "Transport im klimatisierten 16-sitzigen Minibus, begrenzt auf 11 Gäste",
+   "Abholung und Rückfahrt am Hotel in den Bezirken 1 und 3",
+   "Englischsprachiger Reiseleiter"
+  ],
+  "included": [
+   "Transport im klimatisierten 16-sitzigen Minibus, begrenzt auf 11 Gäste",
+   "Abholung und Rückfahrt am Hotel in den Bezirken 1 und 3",
+   "Englischsprachiger Reiseleiter",
+   "Eintritt zu den Cu-Chi-Tunneln",
+   "Eintrittsgebühren im Mekong-Delta",
+   "Bootsfahrten im Mekongdelta",
+   "Vietnamesisches Mittagsmenü",
+   "Trinkwasser in Flaschen",
+   "Honigtee",
+   "Gekochter Maniok",
+   "Tropische Früchte der Saison",
+   "Kokossaft"
+  ],
+  "notIncluded": [
+   "Optionales Schießerlebnis mit AK-47 oder M16",
+   "Abholung in Bezirken außerhalb von Bezirk 1 und 3: 7 USD Aufpreis pro Person",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, mit Cu-Chi-Tunnel und Mekongdelta. Durchgeführt von GIA QUAN EXPRESS, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Cu Chi und Mekong-Delta: Premium-Tour mit maximal 11 Personen",
+  "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "long-tan-and-nui-dat-battlefield-real-story-from-the-vietnam-war-ho-chi-minh-city": {
   "title": "Schlachtfelder Long Tan und Nui Dat: die wahre Geschichte des Vietnamkriegs",
   "fullDescription": "Dies ist ein 5-stündiges Erlebnis in Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel in Ho-Chi-Minh-Stadt, Klimatisierter Transport, Reiseleiter, Eintrittsgebühren für alle genannten Orte und Trinkwasser in Flaschen. Nicht enthalten sind Trinkgelder und Zuschlag an vietnamesischen Feiertagen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ho-Chi-Minh-Stadt. Vietnam Homies Tour bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -6175,6 +6442,38 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt, mit Vegetarisches Restaurant Giác Đức, Chuối nếp nướng Võ Văn Tần und chung cư Nguyễn Thiện Thuật. Durchgeführt von Vietnam Signature Tours, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ho-Chi-Minh-Stadt: vegetarisches Streetfood",
   "metaDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt. Enthalten: 7 bis 8 vegetarische Gerichte. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "cu-chi-tunnels-and-mekong-delta-day-trip": {
+  "title": "Cu-Chi-Tunnel und Mekong-Delta an einem Tag",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Bus/Reisebus, Cu-Chi-Tunnel und Lokales Restaurant. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Central Palace Hotel und District 1 möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit TRAVEL BUDDY COMPANY LIMITED abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Fahrservice mit Abholung und Rückfahrt am Hotel im Zentrum des, und ein engagierter englischsprachiger Reiseleiter, Alle Eintrittsgebühren, Fahrt mit Motorboot und Sampan und Frisches Obst. Nicht enthalten sind Ausgaben außerhalb des Programms, Trinkgelder für Reiseleiter und Fahrer, Optional an den Cu-Chi-Tunneln und AK, M16, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ho-Chi-Minh-Stadt. TRAVEL BUDDY COMPANY LIMITED bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Cu-Chi-Tunnel",
+   "Lokales Restaurant",
+   "Flussboot",
+   "Dauer: 10 Stunden",
+   "Fahrservice mit Abholung und Rückfahrt am Hotel im Zentrum des Bezirks 1 (ohne die Viertel Tan Dinh und Dakao)"
+  ],
+  "included": [
+   "Fahrservice mit Abholung und Rückfahrt am Hotel im Zentrum des Bezirks 1 (ohne die Viertel Tan Dinh und Dakao)",
+   "Erfahrener und engagierter englischsprachiger Reiseleiter",
+   "Alle Eintrittsgebühren",
+   "Fahrt mit Motorboot und Sampan",
+   "Frisches Obst",
+   "Vietnamesisches Mittagessen als Menü (vegane Gerichte möglich)",
+   "Wasser in Flaschen (1 Flasche pro Person)"
+  ],
+  "notIncluded": [
+   "Ausgaben außerhalb des Programms",
+   "Trinkgelder für Reiseleiter und Fahrer",
+   "Optional an den Cu-Chi-Tunneln:",
+   "Munition für AK, M16 und M60: 75.000 VND pro Schuss.",
+   "Munition für Karabiner und K54: 60.000 VND pro Schuss.",
+   "Minimum purchase: 10 rounds per order."
+  ],
+  "shortDescription": "Tour in Ho-Chi-Minh-Stadt, mit Cu-Chi-Tunnel, Lokales Restaurant und Flussboot. Durchgeführt von TRAVEL BUDDY COMPANY LIMITED, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Cu-Chi-Tunnel und Mekong-Delta an einem Tag",
+  "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "from-hiep-phuoc-phu-my-port-shore-excursion-hcm-city-tour-in-ho-chi-minh-city": {
   "title": "Ab dem Hafen Hiep Phuoc oder Phu My: Landausflug nach Ho-Chi-Minh-Stadt",
@@ -6415,6 +6714,40 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Cu Chi: halber Tag an den weniger besuchten Ben-Duoc-Tunneln",
   "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Enthalten: Eintrittskarte für die Tunnel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "cu-chi-tunnels-and-mekong-delta-2-day-tour": {
+  "title": "Cu-Chi-Tunnel und Mekong-Delta in 2 Tagen",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ho-Chi-Minh-Stadt, rund um Landschaftlich schöner Transfer, Ankunft in Cu Chi und ein historischer Dokumentarfilm und Erkundung unter der Erde. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Tunnel von Cu Chi, 60 Kilometer nordwestlich von Ho-Chi-Minh-Stadt, sind ein 250 Kilometer langes Netz, das der Vietcong ab den 1940er-Jahren grub und während des Amerikanischen Krieges als Unterkunft, Lazarett, Küche und Weg bis nach Saigon hinein nutzte; der Distrikt wurde flächendeckend bombardiert und entlaubt, ohne je geräumt zu werden. Zwei Abschnitte sind zugänglich, Ben Dinh (näher, voller) und Ben Duoc (das Original, ruhiger, mit Gedenktempel); beide zeigen die Falltüren, die Fallen, einen verbreiterten Tunnelabschnitt, den Besucher auf 20 bis 100 Metern durchkriechen können, und einen Schießstand, dessen AK-47-Salven über das ganze Gelände zu hören sind. Halbtagestouren fahren vormittags und nachmittags, oft per Schnellboot den Saigon-Fluss hinauf, und werden meist mit dem Mekong oder der Stadt kombiniert.\n\nIm Preis enthalten sind Transport im modernen klimatisierten Van, Reiseleiter mit fließendem Englisch, Alle Eintrittsgebühren, Fahrt mit dem Motorboot und Fahrt im handgeruderten Sampan. Nicht enthalten sind Hotelunterkunft, Reiseversicherung, Persönliche Ausgaben und Gebühren für den Schießstand, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Landschaftlich schöner Transfer",
+   "Ankunft in Cu Chi und ein historischer Dokumentarfilm",
+   "Erkundung unter der Erde",
+   "Snack-Erlebnis aus der Kriegszeit",
+   "Dauer: 2 Tage",
+   "Transport im modernen klimatisierten Van"
+  ],
+  "included": [
+   "Transport im modernen klimatisierten Van",
+   "Professioneller Reiseleiter mit fließendem Englisch",
+   "Alle Eintrittsgebühren",
+   "Fahrt mit dem Motorboot",
+   "Fahrt im handgeruderten Sampan",
+   "Mittagessen am Flussufer (Tag 2)",
+   "Verkostung tropischer Früchte",
+   "Honigtee",
+   "Maniok-Snacks",
+   "Mineralwasser (1 Flasche pro Person und Tag)"
+  ],
+  "notIncluded": [
+   "Hotelunterkunft",
+   "Reiseversicherung",
+   "Persönliche Ausgaben",
+   "Gebühren für den Schießstand",
+   "Trinkgelder"
+  ],
+  "shortDescription": "2-tägige Tour in Ho-Chi-Minh-Stadt, mit Abholung, Landschaftlich schöner Transfer und Erkundung unter der Erde. Durchgeführt von TNK TRAVEL CO., LTD, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Cu-Chi-Tunnel und Mekong-Delta in 2 Tagen",
+  "metaDescription": "2-tägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "classic-mekong-delta-1-day": {
   "title": "Klassisches Mekongdelta: 1 Tag",
   "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDas Mekong-Delta beginnt zwei Stunden südlich von Ho-Chi-Minh-Stadt, wo sich der Fluss in neun Arme teilt und eine flache grüne Provinz aus Reis, Kokospalmen und Obstgärten durchzieht. Tagestouren erreichen My Tho und Ben Tre: ein Boot auf dem Hauptarm, ein Sampan durch die Kokospalmen-Kanäle, eine Kokosbonbon-Werkstatt, Honigtee und Obst mit Volksmusik sowie eine Runde mit Fahrrad oder Tuk-Tuk durch die Obstgärten. Die schwimmenden Märkte liegen weiter weg: Cai Be ist auf eine Handvoll Boote geschrumpft, während Cai Rang bei Can Tho, vier Stunden von der Stadt entfernt, der echte ist und nur von 5:00 bis 8:00 Uhr läuft, also eine Übernachtung in Can Tho erfordert. Das Delta ist ganzjährig heiß und feucht; in der Regenzeit von Mai bis November hängen die Obstgärten am vollsten.\n\nIm Preis enthalten sind Abhol- und Rückfahrservice im Zentrum von Saigon, Guide vor Ort, Transport im klimatisierten Auto oder Minivan, Ruderboot und 1 Hauptmahlzeit im Restaurant. Nicht enthalten sind Trinkgelder und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHo-Chi-Minh-Stadt. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -6442,6 +6775,35 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, inklusive Abhol- und Rückfahrservice im Zentrum von Saigon, Guide vor Ort und Transport im klimatisierten Auto oder Minivan. Durchgeführt von Vn biketour, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Klassisches Mekongdelta: 1 Tag",
+  "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "from-hcm-cao-dai-temple-noon-mass-and-cu-chi-tunnels-day-tour-ho-chi-minh-city": {
+  "title": "Ab Ho-Chi-Minh-Stadt: Mittagsmesse im Cao-Dai-Tempel und Cu-Chi-Tunnel (Ho-Chi-Minh-Stadt)",
+  "fullDescription": "Dies ist ein 9-stündiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Cao-Dai-Tempel. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Tunnel von Cu Chi, 60 Kilometer nordwestlich von Ho-Chi-Minh-Stadt, sind ein 250 Kilometer langes Netz, das der Vietcong ab den 1940er-Jahren grub und während des Amerikanischen Krieges als Unterkunft, Lazarett, Küche und Weg bis nach Saigon hinein nutzte; der Distrikt wurde flächendeckend bombardiert und entlaubt, ohne je geräumt zu werden. Zwei Abschnitte sind zugänglich, Ben Dinh (näher, voller) und Ben Duoc (das Original, ruhiger, mit Gedenktempel); beide zeigen die Falltüren, die Fallen, einen verbreiterten Tunnelabschnitt, den Besucher auf 20 bis 100 Metern durchkriechen können, und einen Schießstand, dessen AK-47-Salven über das ganze Gelände zu hören sind. Halbtagestouren fahren vormittags und nachmittags, oft per Schnellboot den Saigon-Fluss hinauf, und werden meist mit dem Mekong oder der Stadt kombiniert.\n\nIm Preis enthalten sind Hin- und Rücktransfer im modernen klimatisierten Fahrzeug, Englischsprachiger Reiseleiter, Alle Eintrittsgebühren, Authentisches vietnamesisches Mittagessen und Trinkwasser in Flaschen und Verkostung von gekochtem Maniok und heißer Tee an den Cu-Chi-Tunneln. Nicht enthalten sind Persönliche Ausgaben, Munitionsgebühr auf dem Schießstand in Cu Chi, Trinkgelder für Reiseleiter und Fahrer und Zuschlag für Abholung am Hotel außerhalb von Bezirk 1, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHo-Chi-Minh-Stadt. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Cao-Dai-Tempel",
+   "Dauer: 9 Stunden",
+   "Hin- und Rücktransfer im modernen klimatisierten Fahrzeug (geteilte Kleingruppe oder privat, je nach Wahl)",
+   "Professioneller englischsprachiger Reiseleiter",
+   "Alle Eintrittsgebühren (Cu-Chi-Tunnel und Heiliger Stuhl der Cao Dai)",
+   "Authentisches vietnamesisches Mittagessen und Trinkwasser in Flaschen"
+  ],
+  "included": [
+   "Hin- und Rücktransfer im modernen klimatisierten Fahrzeug (geteilte Kleingruppe oder privat, je nach Wahl)",
+   "Professioneller englischsprachiger Reiseleiter",
+   "Alle Eintrittsgebühren (Cu-Chi-Tunnel und Heiliger Stuhl der Cao Dai)",
+   "Authentisches vietnamesisches Mittagessen und Trinkwasser in Flaschen",
+   "Verkostung von gekochtem Maniok und heißer Tee an den Cu-Chi-Tunneln",
+   "Abholung und Rückfahrt am Hotel im Zentrum von Ho-Chi-Minh-Stadt (Bezirk 1)"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben, Souvenirs und zusätzliche Getränke",
+   "Munitionsgebühr auf dem Schießstand in Cu Chi (optional)",
+   "Trinkgelder für Reiseleiter und Fahrer (freiwillig)",
+   "Zuschlag für Abholung am Hotel außerhalb von Bezirk 1"
+  ],
+  "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, mit Củ Chi, Ho-Chi-Minh-Stadt und Cao-Dai-Tempel. Durchgeführt von VN Bike Tours Shore Excursion, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ab Ho-Chi-Minh-Stadt: Mittagsmesse im Cao-Dai-Tempel und Cu-Chi-Tunnel (Ho-Chi-Minh-Stadt)",
   "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "2-day-1-night-mekong-delta-can-tho-floating-market": {
@@ -6660,6 +7022,35 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, inklusive Abholung und Rückfahrt im Zentrum von Saigon, Professioneller Reiseleiter und Reiseleiter. Durchgeführt von VN BIKE TOUR COMPANY LIMTIED, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Mekongdelta: Leben am Fluss, lokale Aromen und Dorfkultur",
   "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "saigon-in-color-pink-church-sacred-temples-and-mosque-ho-chi-minh-city": {
+  "title": "Saigon in Farbe: rosa Kirche, heilige Tempel und Moschee (Ho-Chi-Minh-Stadt)",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Tan-Dinh-Kirche, Lokales Café und Hindu-Tempel Mariamman. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHo-Chi-Minh-Stadt, für alle, die dort leben, immer noch Saigon, ist Vietnams größte Stadt und sein wirtschaftlicher Motor, und ein Tag dort heißt Distrikt 1 und Cholon: das Kriegsopfermuseum, der Wiedervereinigungspalast, wo 1975 die Panzer durch das Tor brachen, die französische Hauptpost und die Kathedrale Notre-Dame, der Ben-Thanh-Markt und das chinesische Viertel Cholon mit dem Thien-Hau-Tempel. Es ist außerdem die Stadt des Straßenessens: pho, banh mi, com tam und Bruchreis an Tischen auf dem Gehweg, am besten auf einer Abendtour per Motorrad, denn so bewegt sich diese Stadt. Der Verkehr ist die Sehenswürdigkeit und die Gefahr zugleich; gehen Sie gleichmäßig weiter, und die Roller fließen um Sie herum. Cu Chi und das Mekong-Delta sind die beiden Tagesausflüge.\n\nIm Preis enthalten sind Kostenloses Getränk während der Tour, Ein Getränk nach Wahl in einem vietnamesischen Café, Transport während der Tour, Eintrittsgebühren im Rahmen der Tour und Englisch-, Chinesisch-, Spanisch- oder Französischsprachiger Reiseleiter. Nicht enthalten sind Getränke und weitere Mahlzeiten, die nicht im Programm stehen, Weitere Leistungen, die nicht im Programm genannt sind und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDistrict 1. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Tan-Dinh-Kirche",
+   "Lokales Café",
+   "Hindu-Tempel Mariamman",
+   "Đền Thendayuthapani",
+   "Dauer: 3 Stunden",
+   "Kostenloses Getränk während der Tour (1 Flasche Wasser pro Person und Tag)"
+  ],
+  "included": [
+   "Kostenloses Getränk während der Tour (1 Flasche Wasser pro Person und Tag)",
+   "Ein Getränk nach Wahl in einem vietnamesischen Café",
+   "Transport während der Tour",
+   "Eintrittsgebühren im Rahmen der Tour",
+   "Reiseleiter mit Englisch, Chinesisch, Spanisch oder Französisch (bitte wählen Sie den Tarif für Ihre gewünschte Sprache)",
+   "Trinkgeld für Reiseleiter und Fahrer",
+   "Reiseversicherung"
+  ],
+  "notIncluded": [
+   "Getränke und weitere Mahlzeiten, die nicht im Programm stehen",
+   "Weitere Leistungen, die nicht im Programm genannt sind",
+   "Persönliche Ausgaben (Einkäufe, Unterkunft usw.)"
+  ],
+  "shortDescription": "3-stündige Tour in Ho-Chi-Minh-Stadt, mit Tan-Dinh-Kirche, Lokales Café und Hindu-Tempel Mariamman. Durchgeführt von H.I.S SONG HAN VIETNAM TOURIST CO., LTD, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Saigon in Farbe: rosa Kirche, heilige Tempel und Moschee (Ho-Chi-Minh-Stadt)",
+  "metaDescription": "3-stündige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "cuchi-tunnel-and-mekong-delta-superior-service-full-day-tour-ho-chi-minh-city": {
   "title": "Cu-Chi-Tunnel und Mekongdelta: ganzer Tag mit gehobenem Service",
@@ -6919,6 +7310,39 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Cyclo-Fahrt und Nachttour durch den Zoo von Saigon",
   "metaDescription": "3-stündige Tour in Ho-Chi-Minh-Stadt. Enthalten: Fahrt mit dem Cyclo. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "cu-chi-tunnels-small-group-max-6-with-local-storyteller-ho-chi-minh-city": {
+  "title": "Cu-Chi-Tunnel in der Kleingruppe (max. 6) mit einem einheimischen Erzähler (Ho-Chi-Minh-Stadt)",
+  "fullDescription": "Dies ist ein 5,5-stündiges Erlebnis in Ho-Chi-Minh-Stadt, rund um Ho-Chi-Minh-Stadt und Cu-Chi-Tunnel. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung in der Innenstadt von Saigon, International lizenzierter Reiseleiter, geboren und aufgewachsen in, Ein Banh Mi aus Saigon als Mittagessen, Maniok und Pandan-Tee und Eine Flasche Wasser. Nicht enthalten sind Kauf scharfer Munition für die AK-47, Trinkgeld für den Reiseleiter, Reiseversicherung und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ho-Chi-Minh-Stadt. OG Saigon Experience & Transport bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Ho-Chi-Minh-Stadt",
+   "Cu-Chi-Tunnel",
+   "Dauer: 5,5 Stunden",
+   "Abholung in der Innenstadt von Saigon",
+   "International lizenzierter Reiseleiter, geboren und aufgewachsen in Saigon",
+   "Ein Banh Mi aus Saigon als Mittagessen (nur bei der privaten Option)"
+  ],
+  "included": [
+   "Abholung in der Innenstadt von Saigon",
+   "International lizenzierter Reiseleiter, geboren und aufgewachsen in Saigon",
+   "Ein Banh Mi aus Saigon als Mittagessen (nur bei der privaten Option)",
+   "Maniok und Pandan-Tee",
+   "Eine Flasche Wasser",
+   "Bier oder Cola (nur bei der privaten Option)",
+   "Check-in und Erinnerungsfotos",
+   "Eintrittskarte",
+   "Führung durch die Cu-Chi-Tunnel",
+   "Schießerlebnis mit einer AK-47"
+  ],
+  "notIncluded": [
+   "Kauf scharfer Munition für die AK-47",
+   "Trinkgeld für den Reiseleiter (empfohlen)",
+   "Reiseversicherung",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Tour in Ho-Chi-Minh-Stadt, mit Ho-Chi-Minh-Stadt, Cu Chi Tunnels and Củ Chi und Ho-Chi-Minh-Stadt. Durchgeführt von OG Saigon Experience & Transport, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Cu-Chi-Tunnel in der Kleingruppe (max. 6) mit einem einheimischen Erzähler (Ho-Chi-Minh-Stadt)",
+  "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Enthalten: Abholung in der Innenstadt von Saigon. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "can-gio-mangroves-forest-and-monkey-island-eco-tour-in-ho-chi-minh-city": {
   "title": "Can Gio: Mangrovenwald und Affeninsel, Öko-Tour",
   "fullDescription": "Dies ist ein 9-stündiges Erlebnis in Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel im Distrikt 1, Reiseleiter, Klimatisierter Transport, Eintrittsgebühren für alle Sehenswürdigkeiten und Vietnamesisches Mittagessen in einem lokalen Restaurant. Nicht enthalten sind Trinkgelder, Zuschlag an vietnamesischen Feiertagen und Schnellbootzuschlag von 200.000 VND pro Person, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ho-Chi-Minh-Stadt. Global Explore bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -7102,6 +7526,37 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt, inklusive Abholung und Rückfahrt im Distrikt 1, Professioneller Reiseleiter und Transfer im klimatisierten Auto. Durchgeführt von VN BIKE TOUR COMPANY LIMTIED, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Cu-Chi-Tunnel: Geschichte, Gänge und lokales Leben",
   "metaDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "rach-gia-to-ho-chi-minh-city-4-day-mekong-delta-tour-by-local-operator": {
+  "title": "Von Rach Gia nach Ho-Chi-Minh-Stadt: 4 Tage im Mekong-Delta, von einem lokalen Anbieter",
+  "fullDescription": "Dies ist ein 4-tägiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Rach Gia, Vogelschutzgebiet Tra Su und Vi-Thanh-Markt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 4 Frühstücke, 2 Mittagessen, 2 Abendessen, 3 Übernachtungen in der Unterkunft in Rach Gia und 1 Übernachtung in der Unterkunft in Can Tho. Nicht enthalten sind Persönliche Ausgaben sind nicht in der Tour enthalten, Getränke im Hotel und Versicherung, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nVincom Plaza Kiên Giang. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Rach Gia",
+   "Vogelschutzgebiet Tra Su",
+   "Vi-Thanh-Markt",
+   "Can Tho",
+   "Dauer: 4 Tage",
+   "4 Frühstücke"
+  ],
+  "included": [
+   "4 Frühstücke",
+   "2 Mittagessen",
+   "2 Abendessen",
+   "3 Übernachtungen in der Unterkunft in Rach Gia",
+   "1 Übernachtung in der Unterkunft in Can Tho",
+   "Getränke: Kokosnuss und Wasser",
+   "Obst: Mango und Ananas",
+   "Einheimischer englischsprachiger Reiseleiter",
+   "Transport: Fahrrad, klimatisiertes Auto und Boot"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben sind nicht in der Tour enthalten",
+   "Getränke im Hotel",
+   "Versicherung"
+  ],
+  "shortDescription": "4-tägige Tour in Ho-Chi-Minh-Stadt, mit Rach Gia, Vogelschutzgebiet Tra Su und Vi-Thanh-Markt. Durchgeführt von Rec, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Von Rach Gia nach Ho-Chi-Minh-Stadt: 4 Tage im Mekong-Delta, von einem lokalen Anbieter",
+  "metaDescription": "4-tägige Tour in Ho-Chi-Minh-Stadt. Enthalten: 4 Frühstücke und 2 Mittagessen. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "city-highlights-and-unseen-tour-in-ho-chi-minh-city": {
   "title": "Ho-Chi-Minh-Stadt: Highlights und unbekannte Seiten",
@@ -7343,6 +7798,39 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Ho-Chi-Minh-Stadt, mit Cu-Chi-Tunnel und Mekongdelta. Durchgeführt von VN BIKE TOUR COMPANY LIMTIED, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Cu-Chi-Tunnel und Mekongdelta: Geschichte, Kultur und Leben am Fluss",
   "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "max-14-discover-cu-chi-tunnels-system-and-mekong-delta-ho-chi-minh-city": {
+  "title": "Maximal 14 Personen: das Cu-Chi-Tunnelsystem und das Mekong-Delta (Ho-Chi-Minh-Stadt)",
+  "fullDescription": "Dies ist ein 11-stündiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Cu-Chi-Tunnel und Mekongdelta. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab District 3, Ho-Chi-Minh-Stadt und District 1 möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit KIM TRAVEL abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Eintrittsgebühr, Tickets für die Sehenswürdigkeiten, Reisesicherheitsversicherung, Englischsprachiger Guide und Weizenkuchen und Feuchttücher. Nicht enthalten sind Trinkgelder und Weitere oben nicht genannte Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Cu-Chi-Tunnel",
+   "Mekongdelta",
+   "Dauer: 11 Stunden",
+   "Eintrittsgebühr",
+   "Tickets für die Sehenswürdigkeiten",
+   "Reisesicherheitsversicherung"
+  ],
+  "included": [
+   "Eintrittsgebühr",
+   "Tickets für die Sehenswürdigkeiten",
+   "Reisesicherheitsversicherung",
+   "Erfahrener englischsprachiger Reiseleiter",
+   "Weizenkuchen, Feuchttücher und Wasser in Flaschen",
+   "Moderner klimatisierter Transport",
+   "Verkostung des Kriegszeit-Manioks und heißen vietnamesischen Tees",
+   "Geführte Entdeckung der Kriegsfallen, Artefakte und Originalbunker",
+   "Vorführung echter Guerilla-Überlebenstechniken",
+   "Genießen Sie lokale Früchte bei einer traditionellen Musikdarbietung",
+   "Landschaftlich schöne Motorbootfahrt mit Kokossaft und ruhige Ruderbootfahrt",
+   "Tuk-Tuk-Fahrt durch das Kokosdorf mit Verkostung von Honigtee und Kokosbonbons"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Weitere oben nicht genannte Ausgaben"
+  ],
+  "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, mit Cu-Chi-Tunnel und Mekongdelta. Durchgeführt von KIM TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Maximal 14 Personen: das Cu-Chi-Tunnelsystem und das Mekong-Delta (Ho-Chi-Minh-Stadt)",
+  "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Enthalten: Eintrittsgebühr. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "mekong-delta-3-day-2-night-floating-market-and-river-life-and-6-provinces": {
   "title": "Mekongdelta: 3 Tage mit schwimmendem Markt, Leben am Fluss und 6 Provinzen",
@@ -7663,6 +8151,65 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Mekongdelta: 4 Tage im privaten Sampan",
   "metaDescription": "4-tägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "premium-walking-street-food-tour-in-ho-chi-minh-city": {
+  "title": "Premium-Streetfood-Tour zu Fuß in Ho-Chi-Minh-Stadt",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHo-Chi-Minh-Stadt, für alle, die dort leben, immer noch Saigon, ist Vietnams größte Stadt und sein wirtschaftlicher Motor, und ein Tag dort heißt Distrikt 1 und Cholon: das Kriegsopfermuseum, der Wiedervereinigungspalast, wo 1975 die Panzer durch das Tor brachen, die französische Hauptpost und die Kathedrale Notre-Dame, der Ben-Thanh-Markt und das chinesische Viertel Cholon mit dem Thien-Hau-Tempel. Es ist außerdem die Stadt des Straßenessens: pho, banh mi, com tam und Bruchreis an Tischen auf dem Gehweg, am besten auf einer Abendtour per Motorrad, denn so bewegt sich diese Stadt. Der Verkehr ist die Sehenswürdigkeit und die Gefahr zugleich; gehen Sie gleichmäßig weiter, und die Roller fließen um Sie herum. Cu Chi und das Mekong-Delta sind die beiden Tagesausflüge.\n\nIm Preis enthalten sind Unfallversicherung, Lebensmittelhygiene und -sicherheit bestätigt, Ein Getränk an jedem Essensstopp und ein Bier am letzten Halt, Vegetarier sind bei uns herzlich willkommen. Hinterlassen Sie einfach einen Hinweis bei und Besuch des Blumenmarkts. Nicht enthalten sind Hoteltransfer, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Stunden",
+   "Unfallversicherung",
+   "Lebensmittelhygiene und -sicherheit bestätigt: alle Speisen und Getränke sind wie angegeben enthalten",
+   "Ein Getränk an jedem Essensstopp und ein Bier am letzten Halt",
+   "Vegetarier sind bei uns herzlich willkommen. Hinterlassen Sie einfach bei der Buchung einen Hinweis oder schicken Sie uns danach eine kurze Nachricht",
+   "Besuch des Blumenmarkts"
+  ],
+  "included": [
+   "Unfallversicherung",
+   "Lebensmittelhygiene und -sicherheit bestätigt: alle Speisen und Getränke sind wie angegeben enthalten",
+   "Ein Getränk an jedem Essensstopp und ein Bier am letzten Halt.",
+   "Vegetarier sind bei uns herzlich willkommen. Hinterlassen Sie einfach bei der Buchung einen Hinweis oder schicken Sie uns danach eine kurze Nachricht.",
+   "Besuch des Blumenmarkts",
+   "Besuch eines Wohnkomplexes",
+   "Besuch eines Teils von Chinatown",
+   "Begleitet von jungen, energiegeladenen Foodies aus Saigon",
+   "Regenponcho (bei Bedarf)"
+  ],
+  "notIncluded": [
+   "Hoteltransfer (wir treffen Sie am Treffpunkt)"
+  ],
+  "shortDescription": "3-stündige Tour in Ho-Chi-Minh-Stadt, inklusive Unfallversicherung, Lebensmittelhygiene und -sicherheit bestätigt und Ein Getränk an jedem Essensstopp und ein Bier am letzten Halt. Durchgeführt von SAIGON ADVENTURE COMPANY LIMITED, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Premium-Streetfood-Tour zu Fuß in Ho-Chi-Minh-Stadt",
+  "metaDescription": "3-stündige Tour in Ho-Chi-Minh-Stadt. Enthalten: Unfallversicherung. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "one-perfect-day-in-the-mekong-delta": {
+  "title": "Ein perfekter Tag im Mekong-Delta",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um My Tho und Einhorninsel. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Rücktransfer ab Ho-Chi-Minh-Stadt, Lizenzierter englischsprachiger Reiseleiter, Bequeme Fahrt im Holzboot auf dem Mekong, Fahrt im kleinen Sampan durch die Kokospalmen-Kanäle und Fahrräder und Helme für die geführte Radtour über die Insel. Nicht enthalten sind Persönliche Ausgaben und Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nSaigon Opera House. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "My Tho",
+   "Einhorninsel",
+   "Dauer: 8 Stunden",
+   "Rücktransfer ab Ho-Chi-Minh-Stadt",
+   "Lizenzierter englischsprachiger Reiseleiter",
+   "Bequeme Fahrt im Holzboot auf dem Mekong"
+  ],
+  "included": [
+   "Rücktransfer ab Ho-Chi-Minh-Stadt",
+   "Lizenzierter englischsprachiger Reiseleiter",
+   "Bequeme Fahrt im Holzboot auf dem Mekong",
+   "Fahrt im kleinen Sampan durch die Kokospalmen-Kanäle",
+   "Fahrräder und Helme für die geführte Radtour durch die Inseldörfer",
+   "Alle Besuche bei Familien und Verkostungen",
+   "Alle Aktivitäts- und Eintrittsgebühren",
+   "Vollständiges lokales Mittagessen bei einer Familie auf der Insel",
+   "Gekühlte Willkommens-Kokosnuss und Obst an Bord, durchgehend Mineralwasser"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Abholung und Rückfahrt zum Hotel"
+  ],
+  "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, mit My Tho und Einhorninsel. Durchgeführt von Discova Vietnam, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ein perfekter Tag im Mekong-Delta",
+  "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "mekong-delta-authentic-day-trip-with-pineapple-kingdom-ho-chi-minh-city": {
   "title": "Mekongdelta: authentischer Tagesausflug ins Ananas-Königreich",
   "fullDescription": "Dies ist ein 4,5-stündiges Erlebnis in Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Englischsprachiger Guide, Boots- und Sampanfahrten mit einem Bootsführer, Fahrräder, Eintrittsgebühren und Frisches Obst und Kokossaft. Nicht enthalten sind Trinkgelder und Motorradfahrer, falls Sie nicht Rad fahren möchten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -7974,6 +8521,36 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "2-tägige Tour in Ho-Chi-Minh-Stadt, inklusive Transport und Besichtigungen laut Programm, Bootsfahrt im Mekongdelta und Guide. Durchgeführt von TNK TRAVEL CO., LTD, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Mekongdelta: 2 Tage mit schwimmenden Märkten und Kultur",
   "metaDescription": "2-tägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "3-days-in-the-mekong-delta-canals-markets-and-river-life-ho-chi-minh-city": {
+  "title": "3 Tage im Mekong-Delta: Kanäle, Märkte und das Leben am Fluss (Ho-Chi-Minh-Stadt)",
+  "fullDescription": "Dies ist ein 3-tägiges Erlebnis in Ho-Chi-Minh-Stadt, rund um Besuch von Cai Be, Jahrhundertealtes Haus von Ba Kiet und Schwimmender Markt Cai Rang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Transport im klimatisierten Bus oder Van, Bootsfahrten im Mekongdelta, Englischsprachiger Reiseleiter, Alle Eintrittsgebühren und 2 Hotelfrühstücke, 2 Mittagessen und 1 Abendessen als Set-Menü. Nicht enthalten sind Unterkunft, Ticket für Schnellboot oder Bus nach Phnom Penh, Zusätzliche Getränke und Alkohol und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Besuch von Cai Be",
+   "Jahrhundertealtes Haus von Ba Kiet",
+   "Schwimmender Markt Cai Rang",
+   "Besuch der Khmer-Pagode Munir Ansay",
+   "Dauer: 3 Tage",
+   "Transport im klimatisierten Bus oder Van"
+  ],
+  "included": [
+   "Transport im klimatisierten Bus oder Van",
+   "Bootsfahrten im Mekongdelta",
+   "Professioneller englischsprachiger Reiseleiter",
+   "Alle Eintrittsgebühren",
+   "2 Hotelfrühstücke, 2 Mittagessen und 1 Abendessen als Set-Menü mit vietnamesischer Küche",
+   "Radfahren, tropische Früchte, Honigtee und Kokosbonbons",
+   "Mineralwasser (1 Flasche pro Tag)"
+  ],
+  "notIncluded": [
+   "Unterkunft",
+   "Ticket für Schnellboot oder Bus nach Phnom Penh",
+   "Zusätzliche Getränke und Alkohol",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "3-tägige Tour in Ho-Chi-Minh-Stadt, mit Besuch von Cai Be, Jahrhundertealtes Haus von Ba Kiet und Schwimmender Markt Cai Rang. Durchgeführt von Viet Horizons Journeys, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "3 Tage im Mekong-Delta: Kanäle, Märkte und das Leben am Fluss (Ho-Chi-Minh-Stadt)",
+  "metaDescription": "3-tägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "from-phu-my-or-hiep-phuoc-port-mekong-delta-discovery-ho-chi-minh-city": {
   "title": "Ab dem Hafen Phu My oder Hiep Phuoc: Entdeckung des Mekongdeltas",
@@ -8344,6 +8921,34 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Vung Tau: Küstentour mit Meeresfrüchte-Mittagessen",
   "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Enthalten: Hin- und Rücktransport ab Saigon. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "mekong-delta-full-day-trip-from-ho-chi-minh-city-by-local-operator": {
+  "title": "Mekong-Delta: Ganztagesausflug ab Ho-Chi-Minh-Stadt, von einem lokalen Anbieter",
+  "fullDescription": "Dies ist ein 12-stündiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Bus/Reisebus, Ben Tre und Mekong. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDas Mekong-Delta beginnt zwei Stunden südlich von Ho-Chi-Minh-Stadt, wo sich der Fluss in neun Arme teilt und eine flache grüne Provinz aus Reis, Kokospalmen und Obstgärten durchzieht. Tagestouren erreichen My Tho und Ben Tre: ein Boot auf dem Hauptarm, ein Sampan durch die Kokospalmen-Kanäle, eine Kokosbonbon-Werkstatt, Honigtee und Obst mit Volksmusik sowie eine Runde mit Fahrrad oder Tuk-Tuk durch die Obstgärten. Die schwimmenden Märkte liegen weiter weg: Cai Be ist auf eine Handvoll Boote geschrumpft, während Cai Rang bei Can Tho, vier Stunden von der Stadt entfernt, der echte ist und nur von 5:00 bis 8:00 Uhr läuft, also eine Übernachtung in Can Tho erfordert. Das Delta ist ganzjährig heiß und feucht; in der Regenzeit von Mai bis November hängen die Obstgärten am vollsten.\n\nIm Preis enthalten sind Abholung und Rückfahrt: bequemer Transport von Ho-Chi, einheimischer Reiseleiter, der Sie bei der Ankunft in Ben Tre empfängt, Roller- oder Tuk-Tuk-Fahrt: sichere, landschaftlich schöne Fahrt mit Helmen und, Dorferlebnis: Besuch von Dörfern abseits des Tourismus und Getränke unterwegs: Zuckerrohrsaft oder Kokoswasser. Nicht enthalten sind Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDistrict 1. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Ben Tre",
+   "Mekong",
+   "Dauer: 12 Stunden",
+   "Abholung und Rückfahrt: bequemer Transport von Ho-Chi-Minh-Stadt nach Ben Tre im Mekong-Delta und zurück",
+   "Einheimischer englischsprachiger Reiseleiter, der Sie bei der Ankunft in Ben Tre im Mekong-Delta empfängt"
+  ],
+  "included": [
+   "Abholung und Rückfahrt: bequemer Transport von Ho-Chi-Minh-Stadt nach Ben Tre im Mekong-Delta und zurück.",
+   "Einheimischer englischsprachiger Reiseleiter, der Sie bei der Ankunft in Ben Tre im Mekong-Delta empfängt.",
+   "Roller- oder Tuk-Tuk-Fahrt: sichere, landschaftlich schöne Fahrt mit Helmen und einheimischen Fahrern",
+   "Dorferlebnis: Besuchen Sie Dörfer abseits des Tourismus, lernen Sie Lebensweise und Kultur kennen und probieren Sie Bio-Kokosbonbons.",
+   "Getränke unterwegs: Zuckerrohrsaft oder Kokoswasser sowie Wasser in Flaschen zur Erfrischung.",
+   "Hausgemachtes Mittagessen: ein frisches, leckeres Essen mit 4 bis 5 Gerichten, zubereitet von einer einheimischen Familie.",
+   "Hängematten-Pause (falls die Zeit reicht): nach dem Mittagessen entspannen und ein Nickerchen machen.",
+   "Segelfahrt: etwa 1 bis 1,5 Stunden ruhige Fahrt auf Sitzsäcken durch die grünen Kanäle des Mekong-Deltas."
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ],
+  "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, mit Ben Tre und Mekong. Durchgeführt von Mekong ZigZag, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Mekong-Delta: Ganztagesausflug ab Ho-Chi-Minh-Stadt, von einem lokalen Anbieter",
+  "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "mui-ne-jeep-day-trip-sand-dunes-and-atv-option-in-ho-chi-minh-city": {
   "title": "Mui Ne: Jeep-Tagesausflug, Sanddünen und Quad-Option",
   "fullDescription": "Dies ist ein 14-stündiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Bus/Reisebus, Provinz Binh Thuan und Jeep oder SUV. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfer Ho-Chi-Minh-Stadt - Mui Ne - Ho-Chi-Minh-Stadt, Traditionelle Jeep-Tour zu den Highlights von Mui Ne, Eintrittsgebühren für alle Sehenswürdigkeiten, Fahrer mit Grundkenntnissen in Englisch oder Übersetzungshilfe und Küstenpanoramen und Fotostopps. Nicht enthalten sind Mahlzeiten und zusätzliche Getränke, Quad-Erlebnis, Persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\n229 Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Bến Thành, Hồ Chí Minh 700000, Vietnam. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -8650,6 +9255,41 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ho-Chi-Minh-Stadt: halber Tag Kulturerbe und Kultur",
   "metaDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "10-days-beauty-of-vietnam-ho-chi-minh-city": {
+  "title": "Die Schönheit Vietnams in 10 Tagen (Ho-Chi-Minh-Stadt)",
+  "fullDescription": "Dies ist ein 10-tägiges Erlebnis in Ho-Chi-Minh-Stadt, rund um Ha-Long-Bucht, Sa Pa und Provinz Lao Cai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Unterkunft im 3- oder 4-Sterne-Hotel, Private Flughafen- und Bahntransfers in neuen, Alle Eintritts- und Besichtigungsgebühren während der Reise, Reiseleiter bei allen Touren und Mahlzeiten gemäß Programm. Nicht enthalten sind Persönliche Ausgaben und zusätzliche Einkäufe unterwegs, Trinkgelder für Reiseleiter und Fahrer, Getränke, die nicht im Programm genannt sind, und optionale Spa-Anwendungen und Optionale Aktivitäten, die nicht in den Leistungen genannt sind, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHanoi. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Ha-Long-Bucht",
+   "Sa Pa",
+   "Provinz Lao Cai",
+   "Hanoi",
+   "Dauer: 10 Tage",
+   "Unterkunft wahlweise im 3-, 4- oder 5-Sterne-Hotel"
+  ],
+  "included": [
+   "Unterkunft wahlweise im 3-, 4- oder 5-Sterne-Hotel",
+   "Private Flughafen- und Bahntransfers in neuen Fahrzeugen mit Kindersitz",
+   "Alle Eintritts- und Besichtigungsgebühren während der Reise",
+   "Englischsprachige Reiseleiter bei allen Touren",
+   "Mahlzeiten gemäß Programm (Frühstück, Mittagessen, Abendessen)",
+   "Premium-Kabine auf der Halong-Bucht-Kreuzfahrt mit Aktivitäten an Bord",
+   "Inlandsflug von Hanoi nach Ho-Chi-Minh-Stadt",
+   "Nachtzugtickets von Hanoi nach Sapa und von Sapa nach Hanoi",
+   "Trekking durch die saftig grünen Reisfelder und Terrassen von Sapa",
+   "Alle im Programm genannten Führungen und Ausflüge",
+   "Trinkwasser in Flaschen während der Transfers und Ausflüge",
+   "Staatliche Steuern und Servicegebühren"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben und zusätzliche Einkäufe unterwegs",
+   "Trinkgelder für Reiseleiter und Fahrer",
+   "Getränke, die nicht im Programm genannt sind, und optionale Spa-Behandlungen",
+   "Optionale Aktivitäten, die nicht in den Leistungen genannt sind"
+  ],
+  "shortDescription": "10-tägige Tour in Ho-Chi-Minh-Stadt, mit Ha-Long-Bucht, Sa Pa und Provinz Lao Cai. Durchgeführt von PLATFORMPOINTS LLC, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Die Schönheit Vietnams in 10 Tagen (Ho-Chi-Minh-Stadt)",
+  "metaDescription": "10-tägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "authentic-mekong-delta-and-cu-chi-tunnels-experience-3-days": {
   "title": "Authentisches Mekongdelta und Cu-Chi-Tunnel: 3 Tage",
   "fullDescription": "Dies ist ein 3-tägiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Saigon: Streetfood-Tour per Roller. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Unfallversicherung, Persönlicher englischsprachiger Reiseleiter, Kostenlose Abholung und Rückfahrt an Ihrem Hotel, Keine Zusatzgebühr für Gruppen- oder Privattour und Alle Speisen und Getränke nach Belieben. Nicht enthalten sind Alle weiteren Leistungen, die oben nicht genannt sind und Trinkgelder für Reiseleiter und Fahrer, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -8701,6 +9341,35 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, mit Nam Cat Tien. Durchgeführt von VIVA VIETNAM, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Nam-Cat-Tien-Nationalpark: Tagesausflug",
+  "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "authentic-boat-trip-cai-rang-floating-market": {
+  "title": "Authentische Bootsfahrt zum schwimmenden Markt von Cai Rang",
+  "fullDescription": "Dies ist ein 12-stündiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Bus/Reisebus, Mekong und Schwimmender Markt Cai Rang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Bình Tân, La Vela Saigon Hotel, La Opera Saigon Hotel, 43 Đ. Nguyễn Cư Trinh, Western Bus Station und District 1 möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit FME travel abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Abholung in der Lobby Ihres Hotels oder am Treffpunkt in der Stadt, ausgezeichneter englischsprachiger Reiseleiter, Transporte, Sampan und Frühstück. Nicht enthalten sind Geschenke, Alkoholische Getränke und Französischsprachiger Reiseleiter gegen einen Aufpreis von 8 $, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Mekong",
+   "Schwimmender Markt Cai Rang",
+   "Flussboot",
+   "Dauer: 12 Stunden",
+   "Abholung in der Lobby Ihres Hotels oder am Treffpunkt im Stadtzentrum"
+  ],
+  "included": [
+   "Abholung in der Lobby Ihres Hotels oder am Treffpunkt im Stadtzentrum",
+   "Kompetenter und ausgezeichneter englischsprachiger Reiseleiter",
+   "Transporte",
+   "Sampan (kleines Boot) und Bootsführer",
+   "Frühstück (vegetarisch möglich), frisches Obst und ein Getränk",
+   "Eintrittsgebühren und Besuch des schwimmenden Markts von Cai Rang, einer traditionellen Reisnudel-Manufaktur und einer Kakaofarm, Dorfspaziergang und ein Glas Kakaomilch",
+   "Hinweis: Bitte kontaktieren Sie uns vorab, wenn Sie außerhalb des Zentrums wohnen"
+  ],
+  "notIncluded": [
+   "Geschenke",
+   "Alkoholische Getränke",
+   "Französischsprachiger Reiseleiter gegen einen Aufpreis von 8 $"
+  ],
+  "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, mit Mekong, Schwimmender Markt Cai Rang und Flussboot. Durchgeführt von FME travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Authentische Bootsfahrt zum schwimmenden Markt von Cai Rang",
   "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "city-unseen-highlights-2h-tour-in-ho-chi-minh-city": {
@@ -8970,6 +9639,29 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt, inklusive Abholung und Rückfahrt am Hotel ab Ho-Chi-Minh-Stadt oder Vung Tau, Klimatisierter Transport und Guide. Durchgeführt von Vintage Vietnam, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Schlachtfelder Long Tan und Nui Dat: private Tour",
   "metaDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "from-ho-chi-minh-to-mui-ne-2-days-tour": {
+  "title": "Von Ho-Chi-Minh-Stadt nach Mui Ne: 2-tägige Tour",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 4-Sterne-Strandresort, 1 Mittagessen und 1 Frühstücksbuffet. Nicht enthalten sind Trinkgeld, Die Quadfahrt kostet 300.000 bis 350.000 VND, Die Miete eines Quads für 20 Minuten kostet 800.000 VND und 1 Quad für 2 Personen plus Fahrer, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "4-Sterne-Strandresort, 1 Mittagessen, 1 Frühstücksbuffet, Luxus-Schlafbus hin und zurück, private Jeep-Tour in Mui Ne, englischsprachiger Reiseleiter, Eintrittskarten und Wasser"
+  ],
+  "included": [
+   "4-Sterne-Strandresort, 1 Mittagessen, 1 Frühstücksbuffet, Luxus-Schlafbus hin und zurück, private Jeep-Tour in Mui Ne, englischsprachiger Reiseleiter, Eintrittskarten und Wasser."
+  ],
+  "notIncluded": [
+   "Trinkgeld, persönliche Ausgaben und Quad zu den weißen Sanddünen.",
+   "Die Quadfahrt kostet 300.000 bis 350.000 VND (15 USD) pro Person, wenn ein Fahrer Sie fährt",
+   "Die Miete eines Quads für 20 Minuten kostet 800.000 VND (35 USD)",
+   "1 Quad für 2 Personen plus Fahrer",
+   "Das Sandbrett kostet 50.000 VND (2 USD)",
+   "Für Alleinreisende berechnen wir 40 USD Aufpreis für das Einzelzimmer.",
+   "Achtung: Während des Mondneujahrs liegt der Preis 30 % über dem regulären Tarif"
+  ],
+  "shortDescription": "2-tägige Tour in Ho-Chi-Minh-Stadt, inklusive 4-Sterne-Strandresort, 1 Mittagessen und 1 Frühstücksbuffet. Durchgeführt von Johnny Tours Mui Ne, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Von Ho-Chi-Minh-Stadt nach Mui Ne: 2-tägige Tour",
+  "metaDescription": "2-tägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "can-gio-monkey-island-guerilla-camp-mangrove-forest-in-ho-chi-minh-city": {
   "title": "Can Gio: Affeninsel, Guerillalager und Mangrovenwald",
@@ -10559,6 +11251,95 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Dak Nong: 3 Tage mit Mahlzeiten und Reiseleiter",
   "metaDescription": "3-tägige Tour in Ho-Chi-Minh-Stadt. Enthalten: Japanischsprachiger Reiseleiter. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "immersive-cooking-class-and-market-tour-with-chef-in-ho-chi-minh-city": {
+  "title": "Intensiver Kochkurs und Markttour mit einem Küchenchef in Ho-Chi-Minh-Stadt",
+  "fullDescription": "Dies ist ein Erlebnis in Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHo-Chi-Minh-Stadt, für alle, die dort leben, immer noch Saigon, ist Vietnams größte Stadt und sein wirtschaftlicher Motor, und ein Tag dort heißt Distrikt 1 und Cholon: das Kriegsopfermuseum, der Wiedervereinigungspalast, wo 1975 die Panzer durch das Tor brachen, die französische Hauptpost und die Kathedrale Notre-Dame, der Ben-Thanh-Markt und das chinesische Viertel Cholon mit dem Thien-Hau-Tempel. Es ist außerdem die Stadt des Straßenessens: pho, banh mi, com tam und Bruchreis an Tischen auf dem Gehweg, am besten auf einer Abendtour per Motorrad, denn so bewegt sich diese Stadt. Der Verkehr ist die Sehenswürdigkeit und die Gefahr zugleich; gehen Sie gleichmäßig weiter, und die Roller fließen um Sie herum. Cu Chi und das Mekong-Delta sind die beiden Tagesausflüge.\n\nIm Preis enthalten sind Alkoholische Getränke, Kostenloser Cocktail, Abendessen, Genießen Sie in geselliger Runde am Tisch all Ihre kulinarischen und Ein schönes vietnamesisches Kochbuch mit über 25 Rezepten. Nicht enthalten sind Bier, Cola und Wein, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Alkoholische Getränke",
+   "Kostenloser Cocktail",
+   "Abendessen",
+   "Genießen Sie in geselliger Runde am Tisch all Ihre im Kurs zubereiteten Kreationen",
+   "Ein schönes vietnamesisches Kochbuch mit über 25 Rezepten",
+   "Trinkgeld inbegriffen"
+  ],
+  "included": [
+   "Alkoholische Getränke",
+   "Kostenloser Cocktail",
+   "Abendessen",
+   "Genießen Sie in geselliger Runde am Tisch all Ihre im Kurs zubereiteten Kreationen.",
+   "Ein schönes vietnamesisches Kochbuch mit über 25 Rezepten",
+   "Trinkgeld inbegriffen",
+   "Transport ab der Markttour",
+   "Eigene Kochstationen",
+   "Vegetarische Optionen auf Anfrage"
+  ],
+  "notIncluded": [
+   "Bier",
+   "Cola",
+   "Wein"
+  ],
+  "shortDescription": "Tour in Ho-Chi-Minh-Stadt, inklusive Alkoholische Getränke, Kostenloser Cocktail und Abendessen. Durchgeführt von Provincial Table Compay Limited, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Intensiver Kochkurs und Markttour mit einem Küchenchef in Ho-Chi-Minh-Stadt",
+  "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Enthalten: Alkoholische Getränke. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "super-niche-walking-street-food-tour-in-ho-chi-minh-city": {
+  "title": "Streetfood-Tour zu Fuß abseits der ausgetretenen Pfade in Ho-Chi-Minh-Stadt",
+  "fullDescription": "Dies ist ein 3,5-stündiges Erlebnis in Ho-Chi-Minh-Stadt, rund um Ho-Chi-Minh-Stadt, Essensstraße Ho Thi Ky und Distrikt 10, Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHo-Chi-Minh-Stadt, für alle, die dort leben, immer noch Saigon, ist Vietnams größte Stadt und sein wirtschaftlicher Motor, und ein Tag dort heißt Distrikt 1 und Cholon: das Kriegsopfermuseum, der Wiedervereinigungspalast, wo 1975 die Panzer durch das Tor brachen, die französische Hauptpost und die Kathedrale Notre-Dame, der Ben-Thanh-Markt und das chinesische Viertel Cholon mit dem Thien-Hau-Tempel. Es ist außerdem die Stadt des Straßenessens: pho, banh mi, com tam und Bruchreis an Tischen auf dem Gehweg, am besten auf einer Abendtour per Motorrad, denn so bewegt sich diese Stadt. Der Verkehr ist die Sehenswürdigkeit und die Gefahr zugleich; gehen Sie gleichmäßig weiter, und die Roller fließen um Sie herum. Cu Chi und das Mekong-Delta sind die beiden Tagesausflüge.\n\nAbholung ist ab Ho Chi Minh City Opera House und District 1 möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Saigon Vibes Travel Tour abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind 10 Gerichte, Kostenlose Abholung und Rückfahrt direkt an Ihrem Hotel in den Bezirken 1, 3, Englischsprachiger Reiseleiter, Transport per Taxi oder Grab und Handdesinfektionsmittel und Masken. Nicht enthalten sind Alles inklusive, keine versteckten Kosten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ho-Chi-Minh-Stadt. Saigon Vibes Travel Tour bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Ho-Chi-Minh-Stadt",
+   "Essensstraße Ho Thi Ky",
+   "Distrikt 10, Ho-Chi-Minh-Stadt",
+   "Geheimer Halt",
+   "Dauer: 3,5 Stunden",
+   "10 Gerichte, Snacks, Getränke und lokales Bier inklusive (keine versteckten Kosten)"
+  ],
+  "included": [
+   "10 Gerichte, Snacks, Getränke und lokales Bier inklusive (keine versteckten Kosten).",
+   "Kostenlose Abholung und Rückfahrt direkt an Ihrem Hotel in den Bezirken 1, 3 und 4",
+   "Freundlicher englischsprachiger Reiseleiter",
+   "Transport per Taxi oder Grab",
+   "Handdesinfektionsmittel und Masken (auf Anfrage per Nachricht vor der Tour)",
+   "Unfallversicherung bis 5.000 $ pro Fall"
+  ],
+  "notIncluded": [
+   "Alles inklusive, keine versteckten Kosten"
+  ],
+  "shortDescription": "Tour in Ho-Chi-Minh-Stadt, mit Ho-Chi-Minh-Stadt, Essensstraße Ho Thi Ky und Distrikt 10, Ho-Chi-Minh-Stadt. Durchgeführt von Saigon Vibes Travel Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Streetfood-Tour zu Fuß abseits der ausgetretenen Pfade in Ho-Chi-Minh-Stadt",
+  "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Enthalten: 10 Gerichte. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "mui-ne-best-day-trip-in-ho-chi-minh-city": {
+  "title": "Mui Ne: der beste Tagesausflug ab Ho-Chi-Minh-Stadt",
+  "fullDescription": "Dies ist ein 12-stündiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Bus/Reisebus. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Ein bequemer Jeep, Reiseleiter, Abendessen, Wasser, Säfte, Kokosnuss und Softdrinks und Kostenlose Fotos, aufgenommen und bearbeitet vom Johnny-Tours-Team. Nicht enthalten sind Nicht enthalten: Trinkgeld und persönliche Ausgaben, Quad, Die Quadfahrt kostet 300.000 bis 350.000 VND, Die Miete eines Quads für 20 Minuten kostet 800.000 VND und 1 Quad für 2 Personen plus Fahrer, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\n229 Đ. Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh, Vietnam. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Dauer: 12 Stunden",
+   "Ein bequemer Jeep",
+   "Englischsprachiger Reiseleiter",
+   "Lokales Abendessen",
+   "Wasser, Säfte, Kokosnuss und Softdrinks"
+  ],
+  "included": [
+   "Ein bequemer Jeep",
+   "Englischsprachiger Reiseleiter",
+   "Lokales Abendessen",
+   "Wasser, Säfte, Kokosnuss und Softdrinks",
+   "Kostenlose Fotos, aufgenommen und bearbeitet vom Johnny-Tours-Team",
+   "Schlafbus hin und zurück von Ho-Chi-Minh-Stadt nach Mui Ne."
+  ],
+  "notIncluded": [
+   "Nicht enthalten: Trinkgeld und persönliche Ausgaben, Quad und Sandrutschbrett.",
+   "Die Quadfahrt kostet 300.000 bis 350.000 VND (15 USD) pro Person, wenn ein Fahrer Sie fährt",
+   "Die Miete eines Quads für 20 Minuten kostet 800.000 VND (35 USD)",
+   "1 Quad für 2 Personen plus Fahrer",
+   "Das Sandbrett kostet 50.000 VND (2 USD)",
+   "Zuschlagstabelle:",
+   "Während der 8 Tage des Mondneujahrs vom 17. bis 25. Februar 2026 fällt ein Zuschlag von 460.000 VND pro Person an, bar im Johnny-Tours-Büro in Mui Ne zu zahlen"
+  ],
+  "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, inklusive Ein bequemer Jeep, Reiseleiter und Abendessen. Durchgeführt von Johnny Tours Mui Ne, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Mui Ne: der beste Tagesausflug ab Ho-Chi-Minh-Stadt",
+  "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Enthalten: Ein bequemer Jeep. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "loaloa-culture-and-dining-show-ticket-at-independence-palace-in-ho-chi-minh-city": {
   "title": "Ticket für die LoaLoa Culture & Dining Show im Unabhängigkeitspalast",
   "fullDescription": "Dies ist ein 90-minütiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Unabhängigkeitspalast. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHo-Chi-Minh-Stadt, für alle, die dort leben, immer noch Saigon, ist Vietnams größte Stadt und sein wirtschaftlicher Motor, und ein Tag dort heißt Distrikt 1 und Cholon: das Kriegsopfermuseum, der Wiedervereinigungspalast, wo 1975 die Panzer durch das Tor brachen, die französische Hauptpost und die Kathedrale Notre-Dame, der Ben-Thanh-Markt und das chinesische Viertel Cholon mit dem Thien-Hau-Tempel. Es ist außerdem die Stadt des Straßenessens: pho, banh mi, com tam und Bruchreis an Tischen auf dem Gehweg, am besten auf einer Abendtour per Motorrad, denn so bewegt sich diese Stadt. Der Verkehr ist die Sehenswürdigkeit und die Gefahr zugleich; gehen Sie gleichmäßig weiter, und die Roller fließen um Sie herum. Cu Chi und das Mekong-Delta sind die beiden Tagesausflüge.\n\nIm Preis enthalten sind Eintrittskarte für die VietCharm Culture & Dining Show, Vietnamesisches 8-Gänge-Gourmetmenü und Standard-Willkommensgetränk. Nicht enthalten sind Abholung und Rückfahrt zum Hotel, Persönliche Ausgaben, Alkoholische Getränke und zusätzliche Softdrinks außerhalb des und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDinh Độc Lập. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -10668,6 +11449,39 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Schwarzer-Jungfrau-Berg mit Seilbahn, Reiseleiter und Transfer",
   "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "3-day-southern-vietnam-tour-saigon-mui-ne-and-mekong-ho-chi-minh-city": {
+  "title": "Südvietnam in 3 Tagen: Saigon, Mui Ne und der Mekong (Ho-Chi-Minh-Stadt)",
+  "fullDescription": "Dies ist ein 3-tägiges Erlebnis in Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfers zum Flughafen, 2 Hotelübernachtungen im Zentrum von Ho-Chi-Minh-Stadt, Tägliches Frühstück im Hotel, Alle geplanten Fahrten und Reiseleiter während der gesamten Tour. Nicht enthalten sind Trinkgelder und Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Tage",
+   "Hin- und Rücktransfers zum Flughafen (gemeinsam mit anderen Gästen)",
+   "2 Hotelübernachtungen im Zentrum von Ho-Chi-Minh-Stadt (Superior-Kategorie)",
+   "Tägliches Frühstück im Hotel",
+   "Alle geplanten Fahrten (gemeinsam mit anderen Gästen)",
+   "Englischsprachiger Reiseleiter während der gesamten Tour"
+  ],
+  "included": [
+   "Hin- und Rücktransfers zum Flughafen (gemeinsam mit anderen Gästen)",
+   "2 Hotelübernachtungen im Zentrum von Ho-Chi-Minh-Stadt (Superior-Kategorie)",
+   "Tägliches Frühstück im Hotel",
+   "Alle geplanten Fahrten (gemeinsam mit anderen Gästen)",
+   "Englischsprachiger Reiseleiter während der gesamten Tour",
+   "Nächtliche Fahrt auf dem Saigon-Fluss mit vietnamesischem Abendessen",
+   "Tagesausflug nach Mui Ne mit den weißen und roten Dünen, dem Fairy Stream und den Cham-Ruinen",
+   "Mittagessen mit Meeresfrüchten und lokales Abendessen in Mui Ne",
+   "Vormittägliche Mekong-Fahrt mit Obst- und Kokosbonbon-Verkostung",
+   "Ruderbootfahrt durch die Mekong-Kanäle",
+   "Abendessen bei Pizza 4P's, einer beliebten Pizzeria in Ho-Chi-Minh-Stadt",
+   "Eintrittsgebühren für alle enthaltenen Attraktionen"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Getränke"
+  ],
+  "shortDescription": "3-tägige Tour in Ho-Chi-Minh-Stadt, inklusive Hin- und Rücktransfers zum Flughafen, 2 Hotelübernachtungen im Zentrum von Ho-Chi-Minh-Stadt und Tägliches Frühstück im Hotel. Durchgeführt von Southern Breeze Joint stock company, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Südvietnam in 3 Tagen: Saigon, Mui Ne und der Mekong (Ho-Chi-Minh-Stadt)",
+  "metaDescription": "3-tägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "teddy-caf-and-monet-art-tour-in-saigon": {
   "title": "Saigon: Teddy Café und Monet-Kunsttour",
   "fullDescription": "Dies ist ein 3-stündiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Tan-Dinh-Kirche, Geheimtipp und Geheimer Halt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Eintrittskarte für die Monet-Ausstellung, 1 Getränk im Teddy Bear Café und Guide. Nicht enthalten sind Persönliche Ausgaben sowie zusätzliche Speisen und Getränke und Transport, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nNhà Thờ Giáo Xứ Tân Định. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -10747,6 +11561,39 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Schwarzer-Jungfrau-Berg, Cao-Dai-Tempel und Cu Chi",
   "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Enthalten: Klimatisierter Transfer. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "female-rider-award-winning-street-food-tour-in-ho-chi-minh-ho-chi-minh-city": {
+  "title": "Fahrerinnen: die preisgekrönte Streetfood-Tour in Ho-Chi-Minh-Stadt (Ho-Chi-Minh-Stadt)",
+  "fullDescription": "Dies ist ein 3,5-stündiges Erlebnis in Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHo-Chi-Minh-Stadt, für alle, die dort leben, immer noch Saigon, ist Vietnams größte Stadt und sein wirtschaftlicher Motor, und ein Tag dort heißt Distrikt 1 und Cholon: das Kriegsopfermuseum, der Wiedervereinigungspalast, wo 1975 die Panzer durch das Tor brachen, die französische Hauptpost und die Kathedrale Notre-Dame, der Ben-Thanh-Markt und das chinesische Viertel Cholon mit dem Thien-Hau-Tempel. Es ist außerdem die Stadt des Straßenessens: pho, banh mi, com tam und Bruchreis an Tischen auf dem Gehweg, am besten auf einer Abendtour per Motorrad, denn so bewegt sich diese Stadt. Der Verkehr ist die Sehenswürdigkeit und die Gefahr zugleich; gehen Sie gleichmäßig weiter, und die Roller fließen um Sie herum. Cu Chi und das Mekong-Delta sind die beiden Tagesausflüge.\n\nIm Preis enthalten sind Unfallversicherung, Lebensmittelhygiene und -sicherheit bestätigt, Ein Getränk an jedem Essensstopp und ein Bier am letzten Halt, Vegetarier sind bei uns herzlich willkommen. Hinterlassen Sie einfach einen Hinweis bei und Kostenlose Abholung und Rückfahrt. Nicht enthalten sind Trinkgelder, Wir versprechen keine Touristenfallen und keine Einkaufsstopps. Sie erleben nur ein und Langweilige Momente, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3,5 Stunden",
+   "Unfallversicherung",
+   "Lebensmittelhygiene und -sicherheit bestätigt: alle Speisen und Getränke sind wie angegeben enthalten",
+   "Ein Getränk an jedem Essensstopp und ein Bier am letzten Halt",
+   "Vegetarier sind bei uns herzlich willkommen. Hinterlassen Sie einfach bei der Buchung einen Hinweis oder schicken Sie uns danach eine kurze Nachricht",
+   "Kostenlose Abholung und Rückfahrt (Hotels in den Bezirken 1, 3 und 4)"
+  ],
+  "included": [
+   "Unfallversicherung",
+   "Lebensmittelhygiene und -sicherheit bestätigt: alle Speisen und Getränke sind wie angegeben enthalten",
+   "Ein Getränk an jedem Essensstopp und ein Bier am letzten Halt.",
+   "Vegetarier sind bei uns herzlich willkommen. Hinterlassen Sie einfach bei der Buchung einen Hinweis oder schicken Sie uns danach eine kurze Nachricht.",
+   "Kostenlose Abholung und Rückfahrt (Hotels in den Bezirken 1, 3 und 4).",
+   "Besuch des Blumenmarkts",
+   "Besuch eines Wohnkomplexes",
+   "Besuch eines Teils von Chinatown",
+   "Motorrad, Helm, Fahrerinnen und eine Reiseleiterin. Lehnen Sie sich hinter unseren sicheren Fahrerinnen zurück, selbst fahren müssen Sie nicht.",
+   "Begleitet von jungen, energiegeladenen Foodies aus Saigon",
+   "Regenponcho (bei Bedarf)"
+  ],
+  "notIncluded": [
+   "Trinkgelder (nur wenn Ihnen die Tour gefallen hat).",
+   "Wir versprechen keine Touristenfallen und keine Einkaufsstopps, sondern nur ein wirklich hochwertiges lokales Erlebnis.",
+   "Boring moments."
+  ],
+  "shortDescription": "Tour in Ho-Chi-Minh-Stadt, inklusive Unfallversicherung, Lebensmittelhygiene und -sicherheit bestätigt und Ein Getränk an jedem Essensstopp und ein Bier am letzten Halt. Durchgeführt von SAIGON ADVENTURE COMPANY LIMITED, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Fahrerinnen: die preisgekrönte Streetfood-Tour in Ho-Chi-Minh-Stadt (Ho-Chi-Minh-Stadt)",
+  "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Enthalten: Unfallversicherung. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "black-virgin-mount-and-cao-dai-temple-1-day-trip-from-hcm-in-ho-chi-minh-city": {
   "title": "Schwarzer-Jungfrau-Berg und Cao-Dai-Tempel: Tagesausflug ab Ho-Chi-Minh-Stadt",
   "fullDescription": "Dies ist ein 12-stündiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Schwarzer-Jungfrau-Berg und Cao-Dai-Tempel. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHo-Chi-Minh-Stadt, für alle, die dort leben, immer noch Saigon, ist Vietnams größte Stadt und sein wirtschaftlicher Motor, und ein Tag dort heißt Distrikt 1 und Cholon: das Kriegsopfermuseum, der Wiedervereinigungspalast, wo 1975 die Panzer durch das Tor brachen, die französische Hauptpost und die Kathedrale Notre-Dame, der Ben-Thanh-Markt und das chinesische Viertel Cholon mit dem Thien-Hau-Tempel. Es ist außerdem die Stadt des Straßenessens: pho, banh mi, com tam und Bruchreis an Tischen auf dem Gehweg, am besten auf einer Abendtour per Motorrad, denn so bewegt sich diese Stadt. Der Verkehr ist die Sehenswürdigkeit und die Gefahr zugleich; gehen Sie gleichmäßig weiter, und die Roller fließen um Sie herum. Cu Chi und das Mekong-Delta sind die beiden Tagesausflüge.\n\nIm Preis enthalten sind Kostenlose Abholung und Rückfahrt im Distrikt 1, Klimatisierter Transport während der gesamten Reise, professioneller Reiseleiter, Eintrittsgebühren für den Berg Ba Den und den Heiligen Stuhl der Cao Dai und Mittagessen in einem lokalen Restaurant. Nicht enthalten sind Trinkgelder und persönliche Ausgaben, Seilbahn und Zuschlag an vietnamesischen Feiertagen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHo-Chi-Minh-Stadt. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -10801,6 +11648,43 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt, mit Ho-Chi-Minh-Mausoleum, Einsäulenpagode und Museum des B-52-Siegs. Durchgeführt von Johnson Excursions Travel, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Kriegstunnel oder Ho-Chi-Minh-Komplex und Gefängnismuseum",
   "metaDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt. Enthalten: Einheimischer Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "20-day-tour-from-hanoi-to-ho-chi-minh": {
+  "title": "20-tägige Reise von Hanoi nach Ho-Chi-Minh-Stadt",
+  "fullDescription": "Dies ist ein 20-tägiges Erlebnis ab Ho-Chi-Minh-Stadt, rund um Abend: Beginn Ihres Vietnam-Abenteuers, Vormittag: Willkommen in den Bergen und Vormittag: Trekking durch das Muong-Hoa-Tal. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHanoi ist tausend Jahre alt und zugleich eine französische Kolonialhauptstadt, beides auf einmal: die 36 Gassen der Altstadt, jede nach der Zunft benannt, die dort handelte, der See des zurückgegebenen Schwertes in ihrer Mitte, der Literaturtempel von 1070, das Mausoleum, in dem Ho Chi Minh aufgebahrt liegt (nur vormittags, montags und freitags geschlossen sowie zwei Monate im Herbst), und das baumbestandene französische Viertel mit seinen Villen und dem Opernhaus. Die Cafés der Train Street, wo die Bahn einen Meter neben den Tischen vorbeifährt, öffnen und schließen, je nachdem, wie die Behörden gerade entscheiden. Der Eierkaffee wurde hier 1946 erfunden, bun cha ist das Mittagessen, und das Wasserpuppentheater am See ist der Abend. Von Dezember bis Februar ist Hanoi kühl und grau, von Mai bis September heiß; Oktober und November sind die besten Monate.\n\nIm Preis enthalten sind Abholung vom Hotel in der Altstadt von Hanoi, Transport im Schlafbus in der VIP-Kabine, Alle Transfers gemäß dem Programm, Einnächtige Kreuzfahrt in der Lan-Ha-Bucht und Hotel. Nicht enthalten sind Internationale Flüge und Inlandsflüge, Visum für Vietnam, Reiseversicherung und Getränke zu den Mahlzeiten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ho-Chi-Minh-Stadt. CÔNG TY TNHH MTV GO VIETNAM TRIP HÀ NỘI bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Abend: Beginn Ihres Vietnam-Abenteuers",
+   "Vormittag: Willkommen in den Bergen",
+   "Vormittag: Trekking durch das Muong-Hoa-Tal",
+   "Abend: Nachtfahrt zurück nach Hanoi",
+   "Dauer: 20 Tage",
+   "Abholung vom Hotel in der Altstadt von Hanoi"
+  ],
+  "included": [
+   "Abholung vom Hotel in der Altstadt von Hanoi",
+   "Transport im Schlafbus in der VIP-Kabine",
+   "Alle Transfers gemäß dem Programm",
+   "Einnächtige Kreuzfahrt in der Lan-Ha-Bucht",
+   "Unterkunft in Hotel, Bungalow und Homestay",
+   "Englischsprachige Reiseleiter",
+   "Mahlzeiten wie im Programm angegeben",
+   "Eintrittsgebühren für die im Programm genannten Attraktionen",
+   "Bootsfahrten, Kajaktouren und enthaltene Besichtigungen",
+   "Zugticket über den Hai-Van-Pass",
+   "Trinkwasser bei ausgewählten Transfers"
+  ],
+  "notIncluded": [
+   "Internationale Flüge und Inlandsflüge",
+   "Visum für Vietnam (falls erforderlich)",
+   "Reiseversicherung",
+   "Getränke zu den Mahlzeiten",
+   "Persönliche Ausgaben",
+   "Optionale, nicht aufgeführte Aktivitäten",
+   "Trinkgelder für Reiseleiter und Fahrer"
+  ],
+  "shortDescription": "20-tägige Tour in Ho-Chi-Minh-Stadt, mit Abend: Beginn Ihres Vietnam-Abenteuers, Vormittag: Willkommen in den Bergen und Evening | Explore Sapa at Your Own Pace. Durchgeführt von CÔNG TY TNHH MTV GO VIETNAM TRIP HÀ NỘI, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "20-tägige Reise von Hanoi nach Ho-Chi-Minh-Stadt",
+  "metaDescription": "20-tägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "hanoi-to-sapa-terraced-fields-culture-and-cuisine-3-days-by-local-operator": {
   "title": "Von Hanoi nach Sapa: Reisterrassen, Kultur und Küche in 3 Tagen",
@@ -49112,6 +49996,35 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Tay Ninh: Schwarzer-Jungfrau-Berg und Cao-Dai-Tempel",
   "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "from-hcm-can-tho-sunrise-at-floating-market-and-zen-monastery-in-ho-chi-minh-city": {
+  "title": "Ab Ho-Chi-Minh-Stadt oder Can Tho: Sonnenaufgang am schwimmenden Markt und Zen-Kloster (Ho-Chi-Minh-Stadt)",
+  "fullDescription": "Dies ist ein 4,5-stündiges Erlebnis in Ho-Chi-Minh-Stadt, rund um Bus/Reisebus und Schwimmender Markt Cai Rang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Klimatisierter Transfer verfügbar, Einheimischer Guide, Transport: Fahrt in einem charmanten Sampan, Eintrittsgebühren und Besuch des schwimmenden Markts von Cai Rang und Besuch eines lokalen Obstgartens mit Obstverkostung. Nicht enthalten sind Persönliche Ausgaben, Trinkgelder für Reiseleiter und Fahrer, Alle zusätzlichen Speisen oder Getränke, die nicht im Programm stehen und Es fällt ein Feiertagszuschlag an, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Schwimmender Markt Cai Rang",
+   "Dauer: 4,5 Stunden",
+   "Klimatisierter Transfer verfügbar (Option ab Ho-Chi-Minh-Stadt)",
+   "Englischsprachiger einheimischer Guide",
+   "Transport: Fahrt in einem charmanten Sampan"
+  ],
+  "included": [
+   "Klimatisierter Transfer verfügbar (Option ab Ho-Chi-Minh-Stadt).",
+   "English-speaking local guide.",
+   "Transport: Fahrt in einem charmanten Sampan.",
+   "Eintrittsgebühren und Besuch des schwimmenden Markts von Cai Rang.",
+   "Besuch eines lokalen Obstgartens mit Obstverkostung.",
+   "Traditionelles vietnamesisches Frühstück an Bord."
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben (z. B. Souvenirs).",
+   "Trinkgelder für Reiseleiter und Fahrer.",
+   "Alle zusätzlichen Speisen oder Getränke, die nicht im Programm stehen.",
+   "Holiday surcharge applies (please see Important Information)."
+  ],
+  "shortDescription": "Tour in Ho-Chi-Minh-Stadt, mit On foot und Schwimmender Markt Cai Rang. Durchgeführt von SST Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ab Ho-Chi-Minh-Stadt oder Can Tho: Sonnenaufgang am schwimmenden Markt und Zen-Kloster (Ho-Chi-Minh-Stadt)",
+  "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Enthalten: Klimatisierter Transfer verfügbar. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "saigon-street-food-flower-market-and-old-apartment-tour": {
   "title": "Saigon: Streetfood, Blumenmarkt und altes Wohnhaus",
   "fullDescription": "Dies ist ein 3,5-stündiges Erlebnis in Ho-Chi-Minh-Stadt, rund um Ho-Chi-Minh-Stadt, Essensstraße Ho Thi Ky und Distrikt 10, Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt in den Distrikten 1, 3, 4 und 5, Privatwagen, Motorradfahrt mit einem einheimischen Fahrer, studentische Guides und Eintrittsgebühren an den Stopps. Nicht enthalten sind Trinkgeld für den Guide und Es fällt ein Feiertagszuschlag an, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ho-Chi-Minh-Stadt. SST Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -49250,6 +50163,35 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt, inklusive Mosaik-Workshop, Alle nötigen Materialien und Werkzeuge und Erfrischungen. Durchgeführt von VIVA VIETNAM, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ho-Chi-Minh-Stadt: Mosaik-Workshop an einem geheimen Ort",
   "metaDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt. Enthalten: Mosaik-Workshop. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "lively-saigon-skyline-view-river-cruise-walking-tour-ho-chi-minh-city": {
+  "title": "Lebendiges Saigon: Flussfahrt mit Skyline-Blick und Rundgang (Ho-Chi-Minh-Stadt)",
+  "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Ho-Chi-Minh-Stadt, rund um Fußgängerzone Nguyen Hue, Bach Dang und Saigon-Fluss. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Geführter Rundgang täglich um 15 Uhr, Englischsprachiger Guide, Begleitung zum Anleger der Sightseeing-Fahrt, Willkommensgetränk und Eintrittskarte. Nicht enthalten sind Abholung und Rückfahrt zum Hotel, Speisen und Getränke, Zusätzliche, nicht genannte Aktivitäten und Das Cruise-Ticket ist nicht enthalten, wenn Sie nur die Walking-Tour buchen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nNhà hát Thành phố Hồ Chí Minh. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Fußgängerzone Nguyen Hue",
+   "Bach Dang",
+   "Saigon-Fluss",
+   "Dauer: 1 Stunde",
+   "Geführter Rundgang täglich um 15 Uhr",
+   "Professioneller englischsprachiger Guide"
+  ],
+  "included": [
+   "Geführter Rundgang täglich um 15 Uhr",
+   "Professioneller englischsprachiger Guide",
+   "Begleitung zum Anleger der Sightseeing-Fahrt",
+   "Willkommensgetränk (in der Cruise-Option enthalten; bei der reinen Walking-Tour ist das Ticket nicht dabei)",
+   "Eintrittskarte (in der Cruise-Option enthalten; bei der reinen Walking-Tour ist das Ticket nicht dabei)",
+   "45-minütige Fahrt auf dem Saigon-Fluss (in der Cruise-Option enthalten; bei der reinen Walking-Tour ist das Ticket nicht dabei)"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Speisen und Getränke",
+   "Zusätzliche, nicht genannte Aktivitäten",
+   "Das Cruise-Ticket ist nicht enthalten, wenn Sie nur die Walking-Tour-Option buchen"
+  ],
+  "shortDescription": "1-stündige Tour in Ho-Chi-Minh-Stadt, mit Fußgängerzone Nguyen Hue, Bach Dang und Saigon-Fluss. Durchgeführt von VIVA VIETNAM, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lebendiges Saigon: Flussfahrt mit Skyline-Blick und Rundgang (Ho-Chi-Minh-Stadt)",
+  "metaDescription": "1-stündige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "shopping-tour-with-local-guide-in-saigon": {
   "title": "Saigon: Shoppingtour mit einheimischem Guide",
@@ -49506,6 +50448,72 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ho-Chi-Minh-Stadt: Premium-Streetfood per Roller, Michelin optional",
   "metaDescription": "3-stündige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "hcm-mekong-delta-islands-boat-and-tuk-tuk-tour-with-tastings-ho-chi-minh-city": {
+  "title": "Ho-Chi-Minh-Stadt: die Inseln des Mekong-Deltas per Boot und Tuk-Tuk, mit Kostproben (Ho-Chi-Minh-Stadt)",
+  "fullDescription": "Dies ist ein 9-stündiges Erlebnis in Ho-Chi-Minh-Stadt, rund um Vinh-Trang-Pagode, Flussboot und Provinz Tien Giang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung an Hotels in den Bezirken 1, 3 und 4, Absetzen im Bezirk 1, Transport im klimatisierten Minivan oder Touristenbus, Guide und Besuch der alten Vinh-Trang-Pagode. Nicht enthalten sind Persönliche Ausgaben, Zusätzliche Getränke und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ho-Chi-Minh-Stadt. KIM TRAVEL bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Vinh-Trang-Pagode",
+   "Flussboot",
+   "Provinz Tien Giang",
+   "Provinz Ben Tre",
+   "Dauer: 9 Stunden",
+   "Abholung an Hotels in den Bezirken 1, 3 und 4"
+  ],
+  "included": [
+   "Abholung an Hotels in den Bezirken 1, 3 und 4",
+   "Absetzen im Bezirk 1",
+   "Transport im klimatisierten Minivan oder Touristenbus (je nach gewählter Option)",
+   "Englischsprachiger Guide",
+   "Besuch der alten Vinh-Trang-Pagode",
+   "Fahrt mit Motorboot und Ruderboot",
+   "Fahrt mit Tuk-Tuk oder Elektroauto durch das Dorf",
+   "Radfahren durch den Kokosgarten",
+   "Vietnamesisches Mittagsmenü (vegan möglich)",
+   "Cracker, Mineralwasser und Feuchttücher",
+   "Verkostung tropischer Früchte (ganzjährig)",
+   "Honigtee und Kokosbonbons"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Zusätzliche Getränke",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, mit Vinh-Trang-Pagode, Flussboot und Provinz Tien Giang. Durchgeführt von KIM TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ho-Chi-Minh-Stadt: die Inseln des Mekong-Deltas per Boot und Tuk-Tuk, mit Kostproben (Ho-Chi-Minh-Stadt)",
+  "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "hcm-mekong-delta-my-tho-and-ben-tre-coconut-village-ho-chi-minh-city": {
+  "title": "Ho-Chi-Minh-Stadt: Mekong-Delta, My Tho und das Kokosdorf Ben Tre (Ho-Chi-Minh-Stadt)",
+  "fullDescription": "Dies ist ein 9-stündiges Erlebnis in Ho-Chi-Minh-Stadt, rund um Vinh-Trang-Pagode, Flussboot und Provinz Tien Giang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung an Hotels in den Bezirken 1, 3 und 4, Absetzen im Bezirk 1, Klimatisierter Transport im Minivan oder Bus, Englischsprachiger Guide und Eintritt zu allen aufgeführten Sehenswürdigkeiten. Nicht enthalten sind Persönliche Ausgaben, Zusätzliche Getränke und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ho-Chi-Minh-Stadt. KIM TRAVEL bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Vinh-Trang-Pagode",
+   "Flussboot",
+   "Provinz Tien Giang",
+   "Provinz Ben Tre",
+   "Dauer: 9 Stunden",
+   "Abholung an Hotels in den Bezirken 1, 3 und 4"
+  ],
+  "included": [
+   "Abholung an Hotels in den Bezirken 1, 3 und 4",
+   "Absetzen im Bezirk 1.",
+   "Klimatisierter Transport im Minivan oder Bus",
+   "Erfahrener englischsprachiger Reiseleiter",
+   "Eintritt zu allen aufgeführten Sehenswürdigkeiten",
+   "Motorboot- und Sampanfahrten auf dem Mekong",
+   "Fahrt mit Tuk-Tuk oder Elektroauto im Kokosnussdorf",
+   "Radtour durch die Kokosgärten",
+   "Vietnamesisches Mittagessen (vegane Option möglich)",
+   "Traditionelle Musikvorführung"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Zusätzliche Getränke",
+   "Trinkgelder (optional)"
+  ],
+  "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, mit Vinh-Trang-Pagode, Flussboot und Provinz Tien Giang. Durchgeführt von KIM TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ho-Chi-Minh-Stadt: Mekong-Delta, My Tho und das Kokosdorf Ben Tre (Ho-Chi-Minh-Stadt)",
+  "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "hcm-cu-chi-tunnels-mekong-delta-and-coconut-village-tour-ho-chi-minh-city": {
   "title": "Cu-Chi-Tunnel, Mekongdelta und Kokosnussdorf",
   "fullDescription": "Dies ist ein 11-stündiges Erlebnis in Ho-Chi-Minh-Stadt, rund um Cu-Chi-Tunnel, Flussboot und Provinz Tien Giang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel im Zentrum der Distrikte 1 und 3, Klimatisierter Transport im Minivan oder Bus, Englischsprachiger Guide, Motorboot- und Sampanfahrten auf dem Mekong und Fahrt mit Tuk-Tuk oder Elektroauto im Kokosnussdorf. Nicht enthalten sind Persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ho-Chi-Minh-Stadt. KIM TRAVEL bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -49674,6 +50682,35 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Cu-Chi-Tunnel und Mekongdelta mit Kokosnussdorf",
   "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "saigon-urban-pulse-motorbike-cultural-tour": {
+  "title": "Saigon im Stadtrhythmus: kulturelle Motorradtour",
+  "fullDescription": "Dies ist ein 4,5-stündiges Erlebnis in Ho-Chi-Minh-Stadt, rund um Tan-Dinh-Markt, Tan-Dinh-Kirche und Binh-Tay-Markt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Kostenlose Abholung und Rückfahrt am Hotel, Englischsprachiger Reiseleiter und sicherer Fahrer, Hochwertiger Helm, Mittagessen und Eintrittsgebühren für die Sehenswürdigkeiten. Nicht enthalten sind Kauf eines Ao Dai, Persönliche Ausgaben und Einkäufe und Reiseversicherung, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ho-Chi-Minh-Stadt. TNK TRAVEL CO., LTD bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Tan-Dinh-Markt",
+   "Tan-Dinh-Kirche",
+   "Binh-Tay-Markt",
+   "Quan-Am-Pagode",
+   "Dauer: 4,5 Stunden",
+   "Kostenlose Abholung und Rückfahrt am Hotel (Bezirke 1, 3 und 4)"
+  ],
+  "included": [
+   "Kostenlose Abholung und Rückfahrt am Hotel (Bezirke 1, 3 und 4).",
+   "Professional English-speaking guide & Safe driver.",
+   "Hochwertiger Helm (Jet- oder Integralhelm).",
+   "Local Lunch (1 Main dish + 1 Drink).",
+   "Eintrittsgebühren für die Attraktionen.",
+   "Bottled water.",
+   "Shopping Assistance (Translation & Bargaining support)."
+  ],
+  "notIncluded": [
+   "Ao Dai purchase (at guest's own expense).",
+   "Personal expenses & Shopping.",
+   "Travel Insurance."
+  ],
+  "shortDescription": "Tour in Ho-Chi-Minh-Stadt, mit Tan-Dinh-Markt, Tan-Dinh-Kirche und Binh-Tay-Markt. Durchgeführt von TNK TRAVEL CO., LTD, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Saigon im Stadtrhythmus: kulturelle Motorradtour",
+  "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "water-puppet-show-ticket-in-ho-chi-minh-city": {
   "title": "Ho-Chi-Minh-Stadt: Ticket für das Wasserpuppentheater",
   "fullDescription": "Dies ist ein 45-minütiges Erlebnis in Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Ticket für die Wasserpuppenshow. Nicht enthalten sind Transport zum Theater, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -49817,6 +50854,33 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Ho-Chi-Minh-Stadt, mit Fußgängerzone Nguyen Hue, Fußgängerstraße Bui Vien und Geheimer Halt. Durchgeführt von VIVA VIETNAM, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ho-Chi-Minh-Stadt: abendlicher Rundgang mit Halt an einem versteckten Ort",
   "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Enthalten: Guide und 1 Getränk am geheimen Ort. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "ho-chi-minh-fast-track-service-at-tan-son-nhat-airport-ho-chi-minh-city": {
+  "title": "Ho-Chi-Minh-Stadt: Fast-Track-Service am Flughafen Tan Son Nhat (Ho-Chi-Minh-Stadt)",
+  "fullDescription": "Dies ist ein 10-minütiges Erlebnis in Ho-Chi-Minh-Stadt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Meet-and-Greet-Service mit Namensschild, Betreuung durch das Personal im Einreisebereich, Zugang zur Fast-Track-Spur bei der Einreise und Gepäckhilfe und durchgehende Begleitung. Nicht enthalten sind Gebühren für den Visumstempel oder die Bearbeitung des Visa-on-Arrival, Flughafentransfer und Transportservice, Persönliche Ausgaben und Trinkgelder und Unterstützung beim Check-in, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTan Son Nhat International Airport. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 10 Minuten",
+   "Meet-and-Greet-Service mit Namensschild",
+   "Betreuung durch das Personal im Einreisebereich",
+   "Zugang zur Fast-Track-Spur bei der Einreise (Standard- oder VIP-Option)",
+   "Gepäckhilfe und durchgehende Begleitung (Zusatzleistung)"
+  ],
+  "included": [
+   "Meet-and-Greet-Service mit Namensschild",
+   "Betreuung durch das Personal im Einreisebereich",
+   "Zugang zur Fast-Track-Spur bei der Einreise (Standard- oder VIP-Option)",
+   "Gepäckhilfe und durchgehende Begleitung (Zusatzleistung)"
+  ],
+  "notIncluded": [
+   "Gebühren für den Visumstempel oder die Bearbeitung des Visa-on-Arrival",
+   "Flughafentransfer und Transportservice",
+   "Persönliche Ausgaben und Trinkgelder",
+   "Unterstützung beim Check-in",
+   "Alle Leistungen, die nicht in den enthaltenen Leistungen stehen"
+  ],
+  "shortDescription": "Eintrittskarte in Ho-Chi-Minh-Stadt, mit On foot. Durchgeführt von Up Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ho-Chi-Minh-Stadt: Fast-Track-Service am Flughafen Tan Son Nhat (Ho-Chi-Minh-Stadt)",
+  "metaDescription": "Eintrittskarte in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  }
 };
 export const DE_PAGES: Record<string, PageT> = {
