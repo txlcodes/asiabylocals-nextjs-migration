@@ -13781,16 +13781,6 @@ export const THAILAND_REVIEWS: Record<string, TourReviewData> = {
                 { author: "Rassa", country: "Verified traveller review", rating: 5, date: "2026-08-18", text: "L'activité est très récréative" }
             ]
         },
-  'luge-zipline-skywalk-and-adventure-combo-experience-in-phuket': {
-            averageRating: 5.0,
-            totalReviews: 4,
-            guideRating: 5.0,
-            valueRating: 5.0,
-            reviews: [
-                { author: "Tamy", country: "Verified traveller review", rating: 5, date: "2025-12-17", text: "It was an amazing experience. We did zipline, roller, luge and skywalk. Everything went perfect! It’s pure adrenaline rush. We also got some awesome photos and videos. I’d recommend to get there early around 8 in the morning. There few people and no lones to wait. Around 10 it gets crowdy." },
-                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-02-11", text: "we did the luge and zip line activities. we had a little misunderstanding with the booking at first but the lady who booked our trip was really helpful and sorted everything out for us. 10/10 customer satisfaction would definitely recommend" }
-            ]
-        },
   'james-bond-island-by-big-boat-with-sea-cave-canoeing': {
             averageRating: 4.87,
             totalReviews: 373,
@@ -14311,26 +14301,6 @@ export const THAILAND_REVIEWS: Record<string, TourReviewData> = {
                 { author: "Jean-Christophe", country: "Verified traveller review", rating: 4, date: "2026-09-05", text: "Excellent Any chance to get the photo made by our guide?" },
                 { author: "Michelle", country: "Verified traveller review", rating: 4, date: "2024-03-01", text: "The driver taking us there was excellent. When he left us at the destination, the tour people were not overly excited to see/greet us. It all felt a little strange. When we started the walk, our guide was not very talkative and I felt she did not really ant to be there but she became much more engaging when the white dog appeared. From then on it was great, if a little fast paced in areas which was not great due to the really rough ground (at least 2 out of our 10 fell). I think the tour should state that you need to be fit as there is a steep climb at the start of which even took my breath aw" },
                 { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-04-18", text: "We loved it! Beautiful and informative!" }
-            ]
-        },
-  'coral-island-speedboat-tour-early-or-lazy-day': {
-            averageRating: 4.16,
-            totalReviews: 56,
-            guideRating: 4.45,
-            valueRating: 4.2,
-            reviews: [
-                { author: "Yasmina", country: "Verified traveller review", rating: 4, date: "2025-12-24", text: "Had an joyful day! The service was good and the tourguides are kind!", photos: ["https://images.asiabylocals.com/asiabylocals/reviews/coral-island-speedboat-tour-early-or-lazy-day/4986478/1600.webp", "https://images.asiabylocals.com/asiabylocals/reviews/coral-island-speedboat-tour-early-or-lazy-day/4986479/1600.webp", "https://images.asiabylocals.com/asiabylocals/reviews/coral-island-speedboat-tour-early-or-lazy-day/4986480/1600.webp"] },
-                { author: "Abdelaziz", country: "Verified traveller review", rating: 5, date: "2026-08-05", text: "In short, take the morning trip. It's so good. We spent a lot of time in the beach and it was not crowded. People started showing up around 12:30-13:00 by that time we have had our early lunch and enjoyed the nice, clean beach. Unfortunately, the weather was not favourable for a good snorkling but I got the snorkling kit and swam near the yellow objects (baloon-like). I managed to see a small number of fish , though." },
-                { author: "Simon", country: "Verified traveller review", rating: 5, date: "2026-02-25", text: "We were looking for a single island half day tour in a relatively small group and this was perfect. An enjoyable time snorkelling on the free trip and plenty of free soft drinks when you were on the boat. We spent decent amount time on the beach with hornbills in the trees that provided shade if you wanted it." },
-                { author: "Maria", country: "Verified traveller review", rating: 5, date: "2025-12-22", text: "Nice half day trip to Coral island for a family of six. Good snorkling and nice beach. We are all really happy with the day." },
-                { author: "Victoria", country: "Verified traveller review", rating: 4, date: "2026-03-28", text: "We enjoyed the trip very much. It was well organised and the snorkelling experience was good. It was a shame that the beach at Coral Island beyond Coral Bay was strewn with litter and rubbish. Surely something could be done to improve this. Also there were no life jackets on board the boat on the journey back to Chalong pier. We wore them on the way over but not on the way back." },
-                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2026-08-31", text: "La verdad bastante decepcionada. Estuve en esta playa hace 4 años y el snorkeling era fantástico. Me lo encontré que está muriendo, además, basura dentro y fuera de la playa. Horrible hacer snorkeling escuchando todo el tiempo a las lanchas de la banana o parasailing que antes no existía. Es caro el tour comparado con otros al menos tengan limpia la playa. Prohibir parasailing o la banana hoy darán dinero pero cuando ya no tengan coral nadie va a querer ir." },
-                { author: "Traveller", country: "Verified traveller review", rating: 2, date: "2026-08-21", text: "De fortalte os først da vi ankom, at snorkling ikke kunne gennemføres pga. vind, dvs. 3,5 timer på en strand, kedeligt. De skulle have informeret os før turen." },
-                { author: "Séverine", country: "Verified traveller review", rating: 5, date: "2026-08-19", text: "Belle plage. Il s’agit juste d’un transport en speed boat jusqu’à l’île." },
-                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2026-08-08", text: "Temps de snorkling trop court 20 mn. Plage agréable." },
-                { author: "Karim", country: "Verified traveller review", rating: 5, date: "2026-07-23", text: "Awesome - snorkelling the best" },
-                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2026-04-25", text: "If you can I suggest to take the morning one, as the late one for us allow us to stay in on the beach just 3 hours (even if skipping the snorkeling). A part for that all good" },
-                { author: "Traveller", country: "Verified traveller review", rating: 3, date: "2026-04-09", text: "Nous avons pas trop apprécié, on vous fais tout payer sur l’île , en gros c juste un bateau qui vous amène et qui vous ramène" }
             ]
         },
   'scuba-diving-for-beginner-shore-dive-in-kata-beach': {
@@ -15787,18 +15757,6 @@ export const THAILAND_REVIEWS: Record<string, TourReviewData> = {
                 { author: "Samantha", country: "Verified traveller review", rating: 4, date: "2025-01-13", text: "fantastisch! wat een beleving je kijkt je ogen uit. de parade buiten om 19.15 is super leuken de show binnen is immens ! heerlijk al die neon kleuren en al die prikkels! Wow zeker aan te raden met kids vanaf 3jr. De muziek tijdens de show is erg hard voor de allerkleinste" }
             ]
         },
-  'lazy-half-day-3-khai-islands-speedboat-tour-in-phuket': {
-            averageRating: 4.68,
-            totalReviews: 8,
-            guideRating: 4.68,
-            valueRating: 4.68,
-            reviews: [
-                { author: "Martina", country: "Verified traveller review", rating: 5, date: "2026-08-04", text: "Personale competente e molto disponibile. Ci hanno seguito durante tutto il tour e ci hanno anche fornito una bella quantità di cibo per i gattini dell'isola. Giro consigliatissimo a chiunque avvoglia unire animali e natura in un tour di mezza giornata.", photos: ["https://images.asiabylocals.com/asiabylocals/reviews/lazy-half-day-3-khai-islands-speedboat-tour-in-phuket/7942659/1600.webp", "https://images.asiabylocals.com/asiabylocals/reviews/lazy-half-day-3-khai-islands-speedboat-tour-in-phuket/7942660/1600.webp", "https://images.asiabylocals.com/asiabylocals/reviews/lazy-half-day-3-khai-islands-speedboat-tour-in-phuket/7942662/1600.webp"] },
-                { author: "Thomas", country: "Verified traveller review", rating: 5, date: "2026-04-13", text: "It was so much fun packed in this activity. There’s something to do for everyone!" },
-                { author: "Michenna", country: "Verified traveller review", rating: 5, date: "2026-03-22", text: "Definitely recommend this tour! We didn’t feel like a full day tour so this was perfect. Omi the tour guide was awesome! 10/10 experience!" },
-                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-04-14", text: "well organised jana was our guide she was lovely the islands we visited were so clean great for a first time speed boat trip highley recommend" }
-            ]
-        },
   'phi-phi-islands-2-days-1-night-trip-with-activities-phuket': {
             averageRating: 4.11,
             totalReviews: 11,
@@ -16761,18 +16719,6 @@ export const THAILAND_REVIEWS: Record<string, TourReviewData> = {
                 { author: "Michael", country: "Verified traveller review", rating: 5, date: "2025-12-29", text: "Incredible experience! Our guide Sarah was the best. Would recommend 100%." },
                 { author: "Heidi", country: "Verified traveller review", rating: 5, date: "2026-03-28", text: "Dee and her crew were awesome! A very well organized tour! Thank you!!!" },
                 { author: "John", country: "Verified traveller review", rating: 5, date: "2026-01-31", text: "The entire staff and boat crew were fantastic, ensuring we had a wonderful time. We were well-fed, provided with snorkels, masks, and fins, and never felt rushed." }
-            ]
-        },
-  'coral-island-and-kahung-beach-speedboat-day-trip': {
-            averageRating: 4.5,
-            totalReviews: 7,
-            guideRating: 4.5,
-            valueRating: 4.5,
-            reviews: [
-                { author: "Mariah", country: "Verified traveller review", rating: 5, date: "2026-02-10", text: "You get a full day on an incredible island with the clearest water! The food that’s provided was great, the staff was cool, and all the alternative options of activities on this island will fit any need. If you wanna chill— you can chill, but if you wanna scuba dive, snorkel, go parasailing, go jet ski, or even get drunk(lol), all options are available. 10/10", photos: ["https://images.asiabylocals.com/asiabylocals/reviews/coral-island-and-kahung-beach-speedboat-day-trip/5443574/1600.webp", "https://images.asiabylocals.com/asiabylocals/reviews/coral-island-and-kahung-beach-speedboat-day-trip/5443576/1600.webp", "https://images.asiabylocals.com/asiabylocals/reviews/coral-island-and-kahung-beach-speedboat-day-trip/5443578/1600.webp"] },
-                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-07-26", text: "Good experience and good service ❤️" },
-                { author: "Arlen", country: "Verified traveller review", rating: 3, date: "2026-02-06", text: "The trip was described as four hours , but actually took six. its our honeymoon so we cherished every hour. the island was great, and beach was great, but they wanted to charge us extra for beach chairs??? highlight was watching all of the incoming and outgoing groups trying to offload and unload onto the speedboat, but they had to navigate the dreaded floating blue pier with choppy waves. hilarious. won $100 baht off my wife betting on who would go down next 🤣" },
-                { author: "Traveller", country: "Verified traveller review", rating: 4, date: "2026-02-04", text: "Les organisateurs sont au top, la prise en charge ainsi que l’excursion aussi" }
             ]
         },
   'phang-nga-bay-s-grottoes-and-golden-hour-glow': {

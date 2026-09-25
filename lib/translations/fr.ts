@@ -1009,6 +1009,475 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ]
  },
+ "taj-mahal-guided-tour-with-skip-the-line-entry": {
+  "title": "Taj Mahal : visite guidée avec billets coupe-file",
+  "metaTitle": "Taj Mahal coupe-file avec guide agréé, 3 heures, transfert à Agra",
+  "metaDescription": "Trois heures au Taj Mahal avec un guide agréé et une entrée coupe-file. Transfert en voiture privée dans Agra, et vous choisissez si les billets, la voiture et le guide sont compris.",
+  "shortDescription": "Trois heures au Taj Mahal avec un guide agréé et une entrée coupe-file. Transfert en voiture privée dans Agra, et vous choisissez si les billets, la voiture ou le guide sont compris.",
+  "fullDescription": "**Le Taj Mahal avec quelqu'un capable de vraiment l'expliquer.**\n\nTrois heures, c'est la bonne durée pour le Taj. Assez pour parcourir les jardins, entrer dans le mausolée et faire le tour jusqu'à la terrasse sur la rivière. Assez court pour repartir avant le milieu de journée, quand le marbre renvoie la chaleur et que l'affluence atteint son maximum.\n\n**Comment ça se passe**\n\nVotre guide vous retrouve à l'entrée, billets déjà en main : vous passez par la file d'accès au lieu de faire la queue pour les acheter. Depuis la Grande Porte, vous découvrez la première vue encadrée du dôme, puis les jardins et le bassin, la plateforme principale, et l'intérieur avec les cénotaphes et les claustras de marbre sculpté. Votre guide revient sur la construction, le travail d'incrustation, la calligraphie dont la taille augmente à mesure qu'elle s'élève pour se lire de façon régulière depuis le sol, et sur celles des fameuses histoires de Shah Jahan qui tiennent vraiment la route.\n\n**Quatre façons de réserver**\n\nLes options vont du guide seul au guide avec billet d'entrée, puis à la voiture privée avec chauffeur et guide, et enfin à la formule complète billets compris. Choisissez celle qui correspond à ce que vous avez déjà organisé. Si votre hôtel est à Agra et que rejoindre l'entrée par vos propres moyens ne vous dérange pas, l'option guide seul est la version utile la moins chère.\n\n**Bon à savoir**\n\n- Le Taj Mahal est **fermé tous les vendredis**.\n- L'entrée pour les ressortissants étrangers est de 1 100 ₹, plus 200 ₹ si vous souhaitez monter sur la plateforme du mausolée. Les ressortissants indiens paient 50 ₹ plus 200 ₹.\n- Le lever du soleil offre la plus belle lumière et le moins de monde. La porte ouvre environ 30 minutes avant l'aube.\n- Trépieds, nourriture, tabac et grands sacs sont interdits à l'intérieur. Téléphones et appareils photo sont autorisés.\n- Des surchaussures sont distribuées pour la plateforme.\n\n**À qui cela convient**\n\nÀ toute personne déjà installée à Agra qui souhaite une vraie explication du monument sans y consacrer une journée entière.",
+  "highlights": [
+   "Entrée coupe-file pour l'emblématique Taj Mahal : évitez les longues files et gagnez du temps."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture climatisée privée avec chauffeur pour les transferts",
+   "Guide local expert agréé par le gouvernement",
+   "Billets d'entrée du Taj Mahal (si l'option est choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "from-delhi-full-day-taj-mahal-fort-fatehpur-sikri": {
+  "title": "Au départ de Delhi : journée Taj Mahal, fort d'Agra et Fatehpur Sikri",
+  "metaTitle": "Delhi-Agra en 1 jour : Taj Mahal, fort d'Agra et Fatehpur Sikri",
+  "metaDescription": "De Delhi à Agra aller-retour dans la journée : Taj Mahal, fort d'Agra et Fatehpur Sikri. Voiture privée, guide agréé, billets et déjeuner en options.",
+  "shortDescription": "De Delhi à Agra et retour dans la journée, avec le Taj Mahal, le fort d'Agra et Fatehpur Sikri. Voiture privée, guide agréé, billets et déjeuner en options.",
+  "fullDescription": "**Trois sites moghols en une journée, dont celui que la plupart des circuits laissent de côté.**\n\nLa plupart des excursions d'une journée au départ de Delhi voient le Taj et font demi-tour. Celle-ci continue. Après le Taj Mahal et le fort d'Agra, vous roulez 40 km vers l'ouest jusqu'à Fatehpur Sikri, la capitale de grès rouge qu'Akbar a fait bâtir puis abandonnée en moins de quinze ans. C'est le plus calme des trois et, pour beaucoup, celui dont on se souvient.\n\n**La journée**\n\nLa prise en charge se fait à Delhi, Gurugram ou Noida en voiture climatisée privée. La Yamuna Expressway prend environ trois heures : un départ matinal vous amène au Taj avant les autocars. Vous passez à peu près trois heures au Taj Mahal, deux au fort d'Agra et deux à Fatehpur Sikri, avec une heure entre-temps dans un atelier d'incrustation de marbre où vous voyez la technique du pietra dura exécutée à la main. Personne n'attend de vous que vous achetiez quoi que ce soit. Puis le retour, avec dépose à votre hôtel.\n\nVotre guide est agréé par le gouvernement et reste avec vous sur les trois sites.\n\n**Compris et en option**\n\nLa voiture, le chauffeur, le guide, l'eau en bouteille et tous les péages et stationnements sont dans le prix de base. Les billets des monuments et le déjeuner cinq étoiles sont des options distinctes au moment de la réservation, donc le prix affiché correspond à ce que vous prenez vraiment.\n\n**Bon à savoir**\n\n- **Le Taj est fermé le vendredi.** Tous les autres jours conviennent.\n- Tarifs des billets pour les ressortissants étrangers : Taj 1 100 ₹ plus 200 ₹ pour le mausolée, fort d'Agra 650 ₹, Fatehpur Sikri 610 ₹. Choisissez l'option billets et votre guide les a en main à chaque entrée.\n- C'est une journée de douze heures de porte à porte. Des chaussures confortables comptent plus que tout le reste.\n- Fatehpur Sikri suppose une courte navette entre le parking et le site.\n\n**À qui cela convient**\n\nAux voyageurs basés à Delhi qui ont une journée libre et veulent une vue d'ensemble plutôt qu'un aller-retour limité au Taj. Si vous n'avez qu'une demi-journée, les formules express vers le Taj sont plus adaptées.",
+  "highlights": [
+   "Prise en charge pratique à votre hôtel ou à votre résidence en véhicule privé."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture climatisée privée avec chauffeur pour toute la durée du circuit",
+   "Guide agréé par le gouvernement présent sur place",
+   "Billets d'entrée des monuments (si l'option est choisie)",
+   "Déjeuner dans un hôtel 5 étoiles (si l'option est choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "from-delhi-all-inclusive-taj-mahal-sunrise-photogr": {
+  "title": "Au départ de Delhi : Taj Mahal au lever du soleil avec photographe, tout compris",
+  "metaTitle": "Taj Mahal au lever du soleil depuis Delhi avec photographe professionnel",
+  "metaDescription": "Partez de Delhi avant l'aube pour être au Taj Mahal au lever du soleil, avec un photographe professionnel qui réalise cinq photos finies de vous. Retour à Delhi en début d'après-midi.",
+  "shortDescription": "Partez de Delhi avant l'aube et rejoignez le Taj Mahal pour le lever du soleil, avec un photographe professionnel qui réalise cinq photos finies de vous. De retour à Delhi en début d'après-midi.",
+  "fullDescription": "**Le lever du soleil au Taj, avec quelqu'un qui sait où se placer.**\n\nLe Taj aux premières lueurs, c'est la version dont on se souvient. Le marbre paraît gris avant que le soleil ne passe l'horizon, vire au rose, puis se fixe sur le blanc. La foule à 6 h du matin représente une fraction de celle de 10 h, et la température reste supportable même en mai.\n\nCe qui change ici, c'est le photographe. Pas un guide avec un téléphone, mais quelqu'un qui travaille le site tous les jours et connaît les endroits qui donnent le dôme encadré depuis la Grande Porte, le reflet dans le long bassin, le banc, et les angles sur le côté devant lesquels la plupart des visiteurs passent sans s'arrêter. Vous repartez avec cinq photographies finies, en version papier et numérique, de votre groupe et non cinq par personne.\n\n**Les horaires**\n\nPrise en charge à votre hôtel de Delhi au milieu de la nuit pour rejoindre la Yamuna Expressway. Vous arrivez à l'entrée avant l'ouverture, et c'est tout l'intérêt : vous entrez avec le premier groupe. Environ deux heures à l'intérieur avec le photographe et le guide, puis le retour vers Delhi. Cinq heures et demie en tout.\n\n**Compris**\n\nVoiture climatisée privée avec chauffeur, photographe professionnel, cinq photographies retouchées en version papier et numérique, eau en bouteille, péages et stationnement. Les billets d'entrée et un guide sont des options au moment de la réservation.\n\n**Bon à savoir**\n\n- **Le Taj est fermé le vendredi.**\n- L'heure du lever du soleil change au fil de l'année. En décembre, la porte ouvre vers 6 h 45 ; en juin, plutôt vers 5 h 15. Votre heure de prise en charge suit.\n- L'entrée pour les ressortissants étrangers est de 1 100 ₹, plus 200 ₹ pour la plateforme du mausolée.\n- Les trépieds sont interdits à l'intérieur, ce qui explique en partie pourquoi un photographe qui connaît la lumière fait la différence.\n- C'est un départ très matinal après une nuit courte. La voiture est confortable et le trajet du retour est un bon moment pour dormir.\n\n**À qui cela convient**\n\nAux couples, aux familles et à tous ceux qui veulent de vraies photographies d'eux-mêmes au Taj plutôt qu'un cliché pris au téléphone par un inconnu.",
+  "highlights": [
+   "Séance photo professionnelle au Taj Mahal réalisée par un photographe expert."
+  ],
+  "included": [
+   "5 meilleures photos au total, et non par personne, avec le Taj Mahal (tirages papier et fichiers numériques)",
+   "Séance photo avec un photographe professionnel",
+   "Service de guide officiel pour le Taj Mahal",
+   "Sari et tenue de maharaja pour la photo au Taj Mahal, en location (si l'option est choisie)",
+   "Bouteilles d'eau"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "from-delhi-taj-mahal-agra-private-day-trip-w": {
+  "title": "Au départ de Delhi : Taj Mahal et Agra, excursion privée avec transport",
+  "metaTitle": "Excursion privée Delhi-Agra : Taj Mahal avec voiture, chauffeur et guide",
+  "metaDescription": "Excursion privée d'une journée de Delhi au Taj Mahal et à Agra, avec voiture, chauffeur et guide agréé. Environ dix heures de porte à porte, billets en option.",
+  "shortDescription": "Excursion privée d'une journée de Delhi au Taj Mahal et à Agra, avec voiture, chauffeur et guide agréé. Environ dix heures de porte à porte, billets en option au moment de la réservation.",
+  "fullDescription": "**La journée Delhi-Agra sans complication, en privé.**\n\nPas de groupe à attendre, pas d'horaire de départ imposé, pas d'autocar avec vingt autres personnes. Une voiture vient vous chercher à votre hôtel de Delhi, vous allez à Agra, vous voyez ce que vous êtes venu voir, et vous rentrez. Environ dix heures de porte à porte.\n\n**Comment ça se déroule**\n\nPrise en charge à votre hôtel ou à l'aéroport de Delhi. La Yamuna Expressway mène à Agra en trois heures environ, en voiture climatisée privée. Au Taj Mahal, votre guide agréé par le gouvernement vous fait découvrir l'arrivée par la Grande Porte, les jardins, la plateforme et l'intérieur, et explique comme il faut le travail d'incrustation et les jeux de symétrie. Il reste ensuite du temps pour le fort d'Agra, et la possibilité de s'arrêter dans un atelier de marbre où la technique du pietra dura se pratique encore à la main.\n\nPuis retour à Delhi, avec dépose là où vous avez été pris en charge.\n\n**Options**\n\nQuatre versions au moment de la réservation, du guide seul à la formule complète en voiture privée avec billets compris. Le prix de base correspond à l'option la plus légère : vous ne payez pas pour ce que vous avez déjà organisé.\n\n**Bon à savoir**\n\n- **Le Taj est fermé tous les vendredis.**\n- L'entrée pour les ressortissants étrangers est de 1 100 ₹ plus 200 ₹ pour le mausolée ; le fort d'Agra coûte 650 ₹. Choisissez l'option billets et votre guide s'en occupe à l'entrée.\n- L'heure de départ est la vôtre. Tôt, vous avez une meilleure lumière et moins de monde ; un départ à 7 h est un bon compromis si vous n'êtes pas du matin.\n- Les grands sacs, les trépieds et la nourriture restent dans la voiture.\n\n**À qui cela convient**\n\nÀ toute personne à Delhi qui veut voir le Taj sans passer une nuit sur place, et qui préfère suivre son propre rythme plutôt qu'un groupe.",
+  "highlights": [
+   "Trajet privé dans la journée de Delhi à Agra en véhicule climatisé."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture climatisée privée avec chauffeur pour toute la durée du circuit",
+   "Guide expert agréé par le gouvernement",
+   "Billets d'entrée des monuments (si l'option est choisie)",
+   "Déjeuner au restaurant (si l'option est choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "taj-mahal-tour-from-delhi-by-superfast-train-gatim": {
+  "title": "Taj Mahal au départ de Delhi en train rapide Gatimaan Express",
+  "metaTitle": "Taj Mahal depuis Delhi en Gatimaan Express : 100 minutes de trajet",
+  "metaDescription": "De Delhi à Agra à bord du Gatimaan Express, le train le plus rapide d'Inde, avec guide et voiture privée à l'arrivée. Environ 100 minutes par trajet au lieu de trois heures par la route.",
+  "shortDescription": "De Delhi à Agra à bord du Gatimaan Express, le train le plus rapide d'Inde, avec un guide et une voiture privée qui vous attendent à l'arrivée. Environ 100 minutes par trajet au lieu de trois heures par la route.",
+  "fullDescription": "**Le trajet rapide, et le plus confortable.**\n\nLe Gatimaan Express relie Hazrat Nizamuddin à Agra Cantt en 100 minutes environ, soit à peu près la moitié du même trajet par la route, et vous le passez dans une voiture climatisée avec petit-déjeuner servi plutôt qu'à regarder défiler la Yamuna Expressway. Pour une excursion d'une journée, cela change tout le calcul : plus d'heures à Agra, moins en transit, et aucun risque de perdre une heure dans les embouteillages en sortant de Delhi.\n\n**Comment se passe la journée**\n\nOn vient vous chercher à votre hôtel, à l'aéroport ou à la gare, partout dans Delhi et ses environs, pour vous conduire à Hazrat Nizamuddin pour le départ du matin. À Agra Cantt, une voiture et votre guide agréé par le gouvernement attendent le train. De là, place au Taj Mahal, au fort d'Agra et à tout ce que comprend l'option choisie, la voiture restant avec vous toute la journée. En fin d'après-midi, retour à la gare pour le train du retour, et une voiture vous retrouve à Delhi pour vous ramener.\n\n**Compris**\n\nLes billets de train aller-retour, la prise en charge et la dépose à Delhi, une voiture climatisée privée à Agra avec chauffeur, et un guide agréé. Les billets des monuments sont une option au moment de la réservation.\n\n**Bon à savoir**\n\n- **Le Taj est fermé le vendredi.**\n- Le Gatimaan ne circule pas non plus le vendredi, ce qui tombe bien.\n- Les places de train se réservent à l'avance et sont liées à votre date : cette formule est donc moins souple qu'un circuit en voiture. Confirmez votre date avant de réserver.\n- Entrée pour les ressortissants étrangers : Taj 1 100 ₹ plus 200 ₹ pour le mausolée, fort d'Agra 650 ₹.\n- Le petit-déjeuner est servi dans le train du matin et compris dans le billet.\n\n**À qui cela convient**\n\nÀ qui trouve que six heures de voiture gâchent une journée, aux voyageurs sujets au mal des transports, et à ceux qui veulent une journée réglée sur un horaire plutôt que sur la circulation.",
+  "highlights": [
+   "Trajet confortable et rapide à bord du Gatimaan Express."
+  ],
+  "included": [
+   "Prise en charge et retour depuis ou vers tout hôtel, aéroport ou gare de Delhi et ses environs.",
+   "Billet de train Delhi - Agra - Delhi en 1re et 2e classe climatisée (si l'option est choisie).",
+   "Visites en berline ou SUV climatisé privé dans la ville d'Agra.",
+   "Billets d'entrée des monuments (si l'option est choisie).",
+   "Déjeuner buffet dans un restaurant propre et soigné proposant plusieurs cuisines (si l'option est choisie).",
+   "Service de guide professionnel dans votre langue.",
+   "Bouteilles d'eau minérale."
+  ],
+  "notIncluded": [
+   "Pourboires pour le guide et le chauffeur.",
+   "Tout ce qui n'est pas mentionné dans les prestations comprises."
+  ]
+ },
+ "agra-taj-mahal-express-entry-tour-with-professiona": {
+  "title": "Agra : Taj Mahal en entrée express avec guide professionnel",
+  "metaTitle": "Taj Mahal entrée express avec guide agréé, 3 heures, prise en charge à Agra",
+  "metaDescription": "Trois heures au Taj Mahal avec entrée express et un guide local agréé, prise en charge à l'hôtel dans Agra comprise. Vous repartez avant la chaleur de la journée.",
+  "shortDescription": "Trois heures au Taj Mahal avec entrée express et un guide local agréé, prise en charge à l'hôtel dans Agra comprise. Vous repartez avant la chaleur de la journée.",
+  "fullDescription": "**Le Taj Mahal en une matinée, bien guidé.**\n\nC'est la visite format court, pensée pour ceux qui séjournent déjà à Agra. Une voiture privée vient vous chercher à votre hôtel, votre guide vous retrouve à l'entrée avec l'accès déjà réglé, et vous passez par la file express plutôt que par la queue des billets.\n\n**Ce que donnent trois heures**\n\nDe quoi bien faire. L'arrivée par la Grande Porte, où le dôme apparaît encadré dans l'arche et où l'échelle devient soudain évidente. Les jardins et le long bassin. La plateforme principale, l'intérieur du mausolée avec les cénotaphes et les claustras de marbre ajouré, et le tour jusqu'à la terrasse au bord de la rivière que beaucoup de visiteurs négligent. Votre guide raconte l'histoire à un rythme raisonnable : pourquoi il a été bâti, comment le marbre change au fil de la journée, et l'ingénierie des minarets, légèrement inclinés vers l'extérieur pour tomber loin du tombeau plutôt que dessus.\n\n**Compris**\n\nPrise en charge et retour à l'hôtel ou à l'aéroport dans Agra en voiture climatisée privée, un guide local agréé par le gouvernement pendant toute la visite, l'eau en bouteille, les péages et le stationnement. Les billets d'entrée sont une option au moment de la réservation.\n\n**Bon à savoir**\n\n- **Fermé tous les vendredis.**\n- Le lever du soleil est le meilleur créneau : le plus frais, le plus calme, et la lumière sur le marbre est incomparable. La porte ouvre environ 30 minutes avant l'aube.\n- L'entrée pour les ressortissants étrangers est de 1 100 ₹, plus 200 ₹ pour la plateforme du mausolée.\n- L'entrée express concerne la file des billets. Le contrôle de sécurité s'applique à tout le monde mais va vite tôt le matin.\n- Ni trépieds, ni nourriture, ni tabac, ni grands sacs à l'intérieur. Votre chauffeur les garde.\n\n**À qui cela convient**\n\nÀ toute personne disposant d'une matinée libre à Agra. Si vous voulez aussi le fort d'Agra ou Fatehpur Sikri, les formules d'une journée couvrent les trois.",
+  "highlights": [
+   "Évitez les longues files grâce aux billets d'entrée express pour l'emblématique Taj Mahal."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture climatisée privée avec chauffeur pour les transferts",
+   "Guide local expert agréé par le gouvernement",
+   "Billets d'entrée des monuments (si l'option est choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "from-delhi-taj-mahal-agra-car-tour-with-guide": {
+  "title": "Au départ de Delhi : Taj Mahal et Agra en voiture avec guide et déjeuner",
+  "metaTitle": "Delhi NCR vers Agra en voiture privée : Taj Mahal, fort et déjeuner",
+  "metaDescription": "Voiture privée depuis n'importe où dans Delhi NCR vers le Taj Mahal et le fort d'Agra, avec guide agréé et déjeuner. Environ neuf heures, billets en option.",
+  "shortDescription": "Voiture privée depuis n'importe où dans Delhi NCR vers le Taj Mahal et le fort d'Agra, avec un guide agréé et le déjeuner. Environ neuf heures, billets en option.",
+  "fullDescription": "**Agra dans la journée depuis n'importe où dans Delhi NCR, déjeuner compris.**\n\nLa prise en charge se fait partout dans la région de la capitale, ce qui compte si vous logez à Gurugram ou Noida plutôt qu'au centre de Delhi et que vous perdriez sinon la première heure rien que pour rejoindre le point de rendez-vous. Aéroport, hôtel ou gare : la voiture vient à vous.\n\n**La journée**\n\nVoiture climatisée privée sur la Yamuna Expressway, environ trois heures. Au Taj Mahal, votre guide agréé par le gouvernement vous fait passer l'entrée, puis les jardins, la plateforme et l'intérieur, et explique ce qui échappe facilement : la calligraphie qui grandit à mesure qu'elle s'élève pour se lire de façon régulière d'en bas, les incrustations de pierres semi-précieuses, l'asymétrie voulue du cénotaphe de Shah Jahan lui-même.\n\nVient ensuite le fort d'Agra, où le même empereur a passé ses dernières années, emprisonné par son fils, avec une vue dégagée sur le Taj de l'autre côté de la rivière. Le déjeuner est compris. Puis le retour, avec dépose là où vous avez commencé.\n\nEnviron neuf heures en tout.\n\n**Compris**\n\nPrise en charge et retour partout dans Delhi NCR, voiture climatisée privée avec chauffeur pour toute la journée, guide agréé, déjeuner, eau en bouteille, péages et stationnement. Les billets des monuments sont une option au moment de la réservation.\n\n**Bon à savoir**\n\n- **Le Taj est fermé tous les vendredis.**\n- Entrée pour les ressortissants étrangers : Taj 1 100 ₹ plus 200 ₹ pour le mausolée, fort d'Agra 650 ₹.\n- Un départ matinal vous offre une meilleure lumière et moins de monde au Taj. Quitter Delhi vers 6 h est la version raisonnable de cette journée.\n- Signalez à l'avance vos contraintes alimentaires pour le déjeuner et tout sera organisé.\n\n**À qui cela convient**\n\nÀ toute personne logée à Gurugram, Noida ou en périphérie de Delhi qui veut voir le Taj et le fort d'Agra en une journée sans devoir d'abord rejoindre le centre-ville à l'aube.",
+  "highlights": [
+   "Découvrez la beauté magique du Taj Mahal dans la lumière douce du matin."
+  ],
+  "included": [
+   "Prise en charge et retour partout dans Delhi NCR (aéroport, hôtels, gare)",
+   "Voiture climatisée privée pour toute la durée du circuit",
+   "Guide professionnel",
+   "Repas dans un hôtel 5 étoiles (si l'option est choisie)",
+   "Billets d'entrée (si l'option est choisie)",
+   "Déjeuner (si l'option est choisie)",
+   "Bouteilles d'eau et surchaussures",
+   "Tous les péages, taxes et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "agra-delhi-guided-tour": {
+  "title": "Au départ de Delhi : Taj Mahal, fort d'Agra et Fatehpur Sikri en une journée",
+  "metaTitle": "3 sites UNESCO en 1 jour : Taj Mahal, fort d'Agra, Fatehpur Sikri",
+  "metaDescription": "Trois sites du patrimoine mondial de l'UNESCO en une journée depuis Delhi ou Agra : Taj Mahal, fort d'Agra et Fatehpur Sikri, avec voiture privée et guide agréé.",
+  "shortDescription": "Trois sites du patrimoine mondial de l'UNESCO en une seule journée depuis Delhi ou Agra : le Taj Mahal, le fort d'Agra et Fatehpur Sikri, avec voiture privée et guide agréé.",
+  "fullDescription": "**Trois sites UNESCO, une journée, une voiture.**\n\nAgra compte trois inscriptions au patrimoine mondial et la plupart des visiteurs n'en voient qu'une. Cette journée couvre les trois, ce qui fonctionne parce qu'ils sont alignés : le Taj et le fort sont à quelques minutes l'un de l'autre en ville, et Fatehpur Sikri se trouve à 40 km à l'ouest, sur la route de sortie.\n\n**Ce que vous voyez**\n\nLe **Taj Mahal** n'a pas besoin d'être défendu. Votre guide vous fait passer l'entrée et vous emmène dans les jardins, sur la plateforme et à l'intérieur du mausolée, en expliquant les incrustations de pietra dura et la façon dont la calligraphie est dimensionnée pour se lire de façon régulière depuis le sol.\n\nLe **fort d'Agra** est celui que l'on sous-estime. C'est une forteresse en activité plutôt qu'un monument, en grès rouge plutôt qu'en marbre, et c'est là que Shah Jahan a passé ses huit dernières années, enfermé par son fils Aurangzeb, avec vue sur la Yamuna et sur le tombeau qu'il avait fait bâtir pour son épouse.\n\n**Fatehpur Sikri** est le plus calme et le plus étrange. Akbar y a bâti une capitale entière dans les années 1570 et l'a abandonnée en moins de quinze ans, très probablement à cause de l'eau. La porte Buland Darwaza, le Panch Mahal et le tombeau de marbre de Salim Chishti sont toujours debout, et largement vides.\n\n**Options**\n\nCinq versions au moment de la réservation, du guide seul à la journée complète depuis Delhi avec voiture, billets et déjeuner. Choisissez la ville de départ qui correspond à votre lieu de séjour.\n\n**Bon à savoir**\n\n- **Le Taj est fermé tous les vendredis.** Le fort d'Agra et Fatehpur Sikri restent ouverts.\n- Entrée pour les ressortissants étrangers : Taj 1 100 ₹ plus 200 ₹ pour le mausolée, fort d'Agra 650 ₹, Fatehpur Sikri 610 ₹.\n- Depuis Delhi, c'est une journée de douze heures. Depuis Agra, cinq ou six suffisent confortablement.\n- Fatehpur Sikri suppose une courte navette entre le parking et le site.\n\n**À qui cela convient**\n\nAux primo-visiteurs qui veulent tout l'arc moghol et pas seulement la partie célèbre, et à quiconque n'a qu'une seule journée pour Agra.",
+  "highlights": [
+   "Découvrez 3 sites UNESCO avec guide, voiture privée et prise en charge à l'hôtel comprise"
+  ],
+  "included": [
+   "Prise en charge et retour",
+   "Voiture privée climatisée",
+   "Guide privé",
+   "Entrée des monuments (si l'option est choisie)",
+   "Déjeuner (si l'option est choisie)",
+   "Surchaussures",
+   "Bouteille d'eau",
+   "Toutes les taxes et tous les frais"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "agra-taj-mahal-agra-fort-private-tour-with-5lunch": {
+  "title": "Agra : Taj Mahal et fort d'Agra en visite privée avec déjeuner 5 étoiles",
+  "metaTitle": "Taj Mahal et fort d'Agra en demi-journée privée avec déjeuner 5 étoiles",
+  "metaDescription": "Taj Mahal et fort d'Agra en demi-journée privée depuis votre hôtel d'Agra, avec un déjeuner dans un hôtel cinq étoiles pour finir. Environ quatre heures de visite.",
+  "shortDescription": "Taj Mahal et fort d'Agra en demi-journée privée depuis votre hôtel d'Agra, avec pour finir un déjeuner dans un hôtel cinq étoiles. Environ quatre heures de visite.",
+  "fullDescription": "**Les deux grands sites, puis un vrai déjeuner.**\n\nSi vous séjournez à Agra, le Taj et le fort tiennent confortablement dans une matinée. Cette visite fait exactement cela, puis vous installe dans une salle à manger cinq étoiles au lieu de vous renvoyer à votre hôtel le ventre vide, ce qui compte plus qu'il n'y paraît après trois heures sur le marbre en plein soleil.\n\n**La matinée**\n\nPrise en charge à votre hôtel, partout dans la ville d'Agra, en voiture climatisée privée. Le Taj Mahal d'abord, idéalement tôt, quand la lumière est la meilleure et l'affluence la plus faible. Votre guide s'occupe de l'entrée et vous fait découvrir l'arrivée par la Grande Porte, les jardins, la plateforme et l'intérieur du mausolée.\n\nPuis le fort d'Agra, à dix minutes. Bâti par Akbar et remanié en marbre par Shah Jahan, il abrite le Diwan-i-Am, le palais de Jahangir et le Musamman Burj, la tour octogonale où Shah Jahan fut retenu et d'où l'on voit le Taj au détour de la rivière.\n\nLe déjeuner suit, dans un hôtel cinq étoiles. Puis retour à votre lieu de séjour.\n\n**Compris**\n\nPrise en charge et retour à l'hôtel dans la ville d'Agra, voiture climatisée privée avec chauffeur, guide agréé et eau en bouteille. Les billets d'entrée et le déjeuner cinq étoiles sont des options au moment de la réservation, donc le prix affiché correspond à la version la plus légère.\n\n**Bon à savoir**\n\n- **Le Taj est fermé le vendredi.** Le fort d'Agra est ouvert tous les jours.\n- Entrée pour les ressortissants étrangers : Taj 1 100 ₹ plus 200 ₹ pour le mausolée, fort d'Agra 650 ₹.\n- Environ quatre heures de visite, déjeuner en plus. C'est une demi-journée, pas un marathon.\n- Signalez vos contraintes alimentaires à la réservation et le restaurant s'en chargera.\n\n**À qui cela convient**\n\nÀ qui n'a qu'une matinée à Agra, aux voyageurs qui veulent les deux sites phares sans le trajet jusqu'à Fatehpur Sikri, et à ceux qui préfèrent bien manger plutôt que caser un troisième monument.",
+  "highlights": [
+   "Profitez d'une journée fluide avec prise en charge et retour à l'hôtel"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel dans la ville d'Agra",
+   "Voiture climatisée privée avec chauffeur",
+   "Billets d'entrée des monuments (si l'option est choisie)",
+   "Guide local anglophone agréé",
+   "Déjeuner 5 étoiles (si l'option est choisie)",
+   "Eau minérale en bouteille pendant la visite",
+   "Tous les frais de stationnement, péages et taxes"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "from-delhi-private-taj-mahal-sunrise-tour-with-bre": {
+  "title": "Au départ de Delhi : Taj Mahal au lever du soleil en privé, avec petit-déjeuner",
+  "metaTitle": "Taj Mahal au lever du soleil depuis Delhi, voiture privée et petit-déjeuner",
+  "metaDescription": "Quittez Delhi de nuit pour être au Taj Mahal à l'ouverture, avec petit-déjeuner ensuite. Voiture privée, guide agréé, environ huit heures de porte à porte.",
+  "shortDescription": "Quittez Delhi de nuit et soyez au Taj Mahal au moment de l'ouverture, avec petit-déjeuner ensuite. Voiture privée, guide agréé, environ huit heures de porte à porte.",
+  "fullDescription": "**À la porte avant l'ouverture.**\n\nL'argument en faveur du Taj au lever du soleil est simple. Le premier groupe de visiteurs trouve un monument presque vide, un air qui n'a pas encore atteint quarante degrés, et la seule heure de la journée où le marbre change vraiment de couleur, du gris au rose puis au blanc à mesure que le soleil passe l'horizon derrière lui.\n\nLe prix à payer, c'est le réveil. Vous quittez Delhi au milieu de la nuit pour faire les trois heures de la Yamuna Expressway et être à la porte avant l'ouverture. Cela en vaut la peine, et la voiture est un bon endroit pour dormir au retour.\n\n**Comment se passe la journée**\n\nPrise en charge à votre hôtel, à l'aéroport ou à la gare de Delhi. Véhicule climatisé privé pour tout le trajet. Vous arrivez à Agra avant l'aube et entrez avec les premiers. Environ deux heures à l'intérieur avec votre guide agréé, puis le petit-déjeuner. Selon l'option choisie, il reste du temps pour le fort d'Agra, puis vient le retour. Environ huit heures en tout.\n\n**Compris**\n\nPrise en charge et retour partout dans Delhi, véhicule climatisé privé pour tout le trajet, guide agréé, petit-déjeuner, eau en bouteille, péages et stationnement. Les billets d'entrée sont une option au moment de la réservation.\n\n**Bon à savoir**\n\n- **Le Taj est fermé le vendredi.**\n- L'heure du lever du soleil change au fil de l'année. Fin décembre, la porte ouvre vers 6 h 45 ; en juin, plutôt vers 5 h 15 : votre heure de prise en charge suit la saison. Nous la confirmons à la réservation.\n- L'entrée pour les ressortissants étrangers est de 1 100 ₹ plus 200 ₹ pour le mausolée.\n- Les matins d'hiver à Agra amènent du brouillard venu de la rivière. Il se lève en général vers neuf heures et peut donner des photographies remarquables avant cela, mais lors d'un matin de décembre bien chargé, le dôme peut rester caché la première heure.\n- Prévoyez une couche supplémentaire. À 5 h du matin, de novembre à février, il fait vraiment froid.\n\n**À qui cela convient**\n\nAux photographes, à ceux qui voyagent pendant les mois chauds, et à ceux qui préfèrent perdre une nuit de sommeil plutôt que de partager le Taj avec dix mille personnes.",
+  "highlights": [
+   "Assistez en toute tranquillité à un lever de soleil saisissant sur l'emblématique Taj Mahal"
+  ],
+  "included": [
+   "Prise en charge et retour depuis l'aéroport, la gare ou votre hôtel à Delhi",
+   "Véhicule climatisé privé pour tout le trajet",
+   "Guide professionnel présent sur place",
+   "Petit-déjeuner dans un hôtel 5 étoiles à Agra (si l'option est choisie)",
+   "Eau minérale en bouteille fournie dans la voiture",
+   "Billets d'entrée réservés à l'avance pour le Taj Mahal et le fort d'Agra (si l'option est choisie)",
+   "Toutes les taxes publiques, péages, frais de carburant et de stationnement"
+  ],
+  "notIncluded": [
+   "Pourboires ou dépenses personnelles",
+   "Boissons alcoolisées"
+  ]
+ },
+ "from-delhi-taj-mahal-agra-tour-by-gatimaan-express": {
+  "title": "Au départ de Delhi : Taj Mahal et Agra en train Gatimaan Express",
+  "metaTitle": "Agra en Gatimaan Express depuis Delhi : billets, voiture privée et guide",
+  "metaDescription": "Aller-retour à Agra à bord du Gatimaan Express, billets de train compris, avec voiture privée et guide à Agra. Prise en charge partout dans Delhi NCR.",
+  "shortDescription": "Aller-retour à Agra à bord du Gatimaan Express, billets de train compris, avec une voiture privée et un guide à Agra. Prise en charge partout dans Delhi NCR.",
+  "fullDescription": "**Delhi-Agra en 100 minutes, avec petit-déjeuner dans le train.**\n\nLe Gatimaan Express est le train le plus rapide d'Inde et il transforme l'excursion à Agra : au lieu de six heures de voiture aller-retour, on arrive à environ trois heures et demie de trajet, passées dans une voiture climatisée avec un repas servi plutôt qu'à regarder l'autoroute.\n\nIl supprime aussi la variable qui gâche la plupart des excursions depuis Delhi : la circulation. Le train part quand il part.\n\n**Comment se déroule la journée**\n\nPrise en charge partout dans Delhi NCR, ce qui compte si vous logez à Gurugram ou Noida. On vous conduit à Hazrat Nizamuddin pour le départ du matin. À Agra Cantt, une voiture privée et votre guide vous attendent. De là, le Taj Mahal, le fort d'Agra et tout ce que couvre l'option choisie, la voiture restant avec vous toute la journée. En fin d'après-midi, retour à la gare pour le train du retour, et une voiture vous retrouve à Delhi.\n\n**Compris**\n\nBillets aller-retour du Gatimaan Express, prise en charge et retour partout dans Delhi NCR, voiture climatisée privée à Agra avec chauffeur, et guide agréé. Les repas à bord font partie du billet de train. Les billets des monuments sont une option au moment de la réservation.\n\n**Bon à savoir**\n\n- **Le Taj est fermé le vendredi**, et le Gatimaan ne circule pas non plus ce jour-là, ce qui tombe bien.\n- Les places de train sont liées à votre date de voyage et réservées à l'avance : cette formule est donc moins souple qu'un circuit en voiture. Confirmez votre date avant de réserver.\n- Les options comprennent la deuxième classe et la classe affaires. La différence porte sur la largeur du siège et le service de repas, pas sur la durée du trajet.\n- Entrée pour les ressortissants étrangers : Taj 1 100 ₹ plus 200 ₹ pour le mausolée, fort d'Agra 650 ₹.\n\n**À qui cela convient**\n\nAux voyageurs qui trouvent que six heures de voiture gâchent une journée, à ceux qui sont sujets au mal des transports, et à ceux qui veulent une journée réglée sur un horaire plutôt que sur la circulation de Delhi.",
+  "highlights": [
+   "Voyagez confortablement en train à grande vitesse avec repas servis à bord"
+  ],
+  "included": [
+   "Prise en charge et retour partout dans Delhi NCR",
+   "Aller-retour en train Gatimaan Express (billets compris)",
+   "Voiture climatisée privée pour les visites à Agra",
+   "Petit-déjeuner servi à bord du train",
+   "Repas servi dans le train du retour",
+   "Guide professionnel pour la visite de la ville d'Agra",
+   "Eau minérale pendant la visite d'Agra",
+   "Billets d'entrée de tous les monuments (si l'option tout compris est choisie)",
+   "Déjeuner dans un hôtel 5 étoiles à Agra (si l'option tout compris est choisie)"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Tout service supplémentaire non mentionné dans les prestations comprises"
+  ]
+ },
+ "from-delhiagra-taj-mahal-tour-with-rental-saree-ex": {
+  "title": "Au départ de Delhi ou d'Agra : Taj Mahal avec location de sari",
+  "metaTitle": "Taj Mahal en tenue indienne : sari en location, guide agréé et voiture privée",
+  "metaDescription": "Visite du Taj Mahal avec un sari ou une tenue indienne à porter, au départ de Delhi ou d'Agra. Guide agréé, voiture privée, environ dix heures depuis Delhi.",
+  "shortDescription": "Visite du Taj Mahal avec un sari ou une tenue indienne à porter, au départ de Delhi ou d'Agra. Guide agréé, voiture privée, environ dix heures depuis Delhi.",
+  "fullDescription": "**Le Taj en tenue indienne, depuis Delhi ou Agra.**\n\nPorter un sari au Taj tient moins du déguisement que d'une décision sur l'allure de vos photographies ensuite. La tenue est fournie et on vous aide à l'enfiler, ce qui avec un sari n'est pas facultatif, et le résultat donne une série d'images qui se lisent comme un vrai choix.\n\n**Comment ça se passe**\n\nLe départ, c'est vous qui le choisissez. Depuis Agra, c'est une demi-journée. Depuis Delhi, comptez une dizaine d'heures, avec une voiture climatisée privée sur la Yamuna Expressway à l'aller comme au retour. Dans les deux cas, vous avez un guide local agréé par le gouvernement pour la visite.\n\nAu Taj, votre guide vous fait découvrir l'arrivée par la Grande Porte, les jardins, l'intérieur du mausolée avec les cénotaphes et les claustras sculptés, et la terrasse au bord de la rivière. Les incrustations et la calligraphie sont vraiment expliquées, et pas seulement montrées du doigt.\n\n**Options**\n\nTrois versions au moment de la réservation : guide seul si vous avez votre propre transport, voiture privée depuis Agra, ou la formule complète depuis Delhi. L'expérience du sari est comprise dans toutes.\n\n**Bon à savoir**\n\n- **Le Taj est fermé le vendredi.**\n- L'entrée pour les ressortissants étrangers est de 1 100 ₹ plus 200 ₹ pour la plateforme du mausolée. Les billets sont une option au moment de la réservation.\n- Le lever du soleil offre la meilleure lumière pour les photos, et en été c'est le seul moment confortable de la journée.\n- Les saris existent en plusieurs tailles et couleurs. Indiquez votre préférence à la réservation et nous apporterons des options.\n- Des surchaussures sont fournies pour la plateforme de marbre, et elles se mettent par-dessus ce que vous portez.\n\n**À qui cela convient**\n\nÀ qui marque une occasion particulière, aux voyageurs qui veulent des photographies qui ressemblent à un choix plutôt qu'à un cliché pris au hasard, et aux visiteurs curieux de porter une tenue indienne là où elle a tout son sens.",
+  "highlights": [
+   "Visitez l'emblématique Taj Mahal avec un guide privé qui connaît son sujet."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture climatisée privée avec chauffeur pour toute la durée du circuit",
+   "Guide local expert agréé par le gouvernement",
+   "Billets d'entrée des monuments (si l'option est choisie)",
+   "Déjeuner dans un hôtel 5 étoiles (si l'option est choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Saris et kurtas pour femmes et hommes en location pour la visite du Taj Mahal",
+   "Toute dépense personnelle"
+  ]
+ },
+ "from-delhi-private-agra-taj-mahal-tour-with-5lunch": {
+  "title": "Au départ de Delhi : Taj Mahal à Agra en privé avec déjeuner 5 étoiles",
+  "metaTitle": "Agra depuis Delhi en privé : accès coupe-file et déjeuner 5 étoiles",
+  "metaDescription": "Journée privée de Delhi à Agra avec accès coupe-file garanti aux monuments et déjeuner dans un hôtel cinq étoiles. Environ huit heures et demie.",
+  "shortDescription": "Journée privée de Delhi à Agra avec accès coupe-file garanti aux monuments et déjeuner dans un hôtel cinq étoiles. Environ huit heures et demie.",
+  "fullDescription": "**Une journée pensée pour ne pas faire la queue.**\n\nLa promesse ici, c'est l'accès coupe-file, et lors d'une matinée chargée au Taj, c'est la différence entre commencer votre visite à sept heures ou à huit. Les billets sont réglés à l'avance : votre guide vous conduit directement à la file d'accès et non au guichet.\n\n**Comment se déroule la journée**\n\nPrise en charge dans n'importe quel hôtel de Delhi et ses environs. Voiture climatisée privée pour tout le trajet Delhi-Agra-Delhi, environ trois heures dans chaque sens sur la Yamuna Expressway. Un guide local vous rejoint à Agra.\n\nLe Taj Mahal d'abord, idéalement tôt. Puis le fort d'Agra, où le Diwan-i-Am, le palais de Jahangir et le Musamman Burj s'enchaînent sur un même parcours, et où la vue sur la Yamuna jusqu'au Taj explique les dernières années de Shah Jahan mieux que n'importe quel panneau.\n\nDéjeuner dans un hôtel cinq étoiles, puis le retour. Environ huit heures et demie.\n\n**Compris**\n\nPrise en charge et retour dans n'importe quel hôtel de Delhi et ses environs, voiture climatisée privée pour tout l'itinéraire, un guide local dans votre langue selon disponibilité, eau en bouteille, péages et stationnement. L'entrée des monuments et le déjeuner cinq étoiles sont des options au moment de la réservation, et la formule tout compris réunit les deux.\n\n**Bon à savoir**\n\n- **Le Taj est fermé le vendredi.**\n- Entrée pour les ressortissants étrangers : Taj 1 100 ₹ plus 200 ₹ pour le mausolée, fort d'Agra 650 ₹.\n- Le coupe-file concerne la billetterie. Le contrôle de sécurité s'applique à tout le monde, mais il va vite tôt le matin.\n- Des guides sont disponibles dans d'autres langues que l'anglais. Demandez à la réservation et nous confirmerons la disponibilité pour votre date.\n- Les contraintes alimentaires pour le déjeuner peuvent être prises en compte si vous prévenez.\n\n**À qui cela convient**\n\nAux voyageurs qui veulent une journée prise en charge de bout en bout, aux visiteurs dont l'emploi du temps se limite à une journée, et à ceux qui préfèrent payer une fois plutôt que de régler à trois guichets.",
+  "highlights": [
+   "Accès coupe-file garanti aux monuments."
+  ],
+  "included": [
+   "Prise en charge et retour depuis ou vers tout hôtel de Delhi et ses environs.",
+   "Voiture climatisée privée Delhi - Agra - Delhi.",
+   "Guide local dans la langue de votre choix.",
+   "Déjeuner buffet dans un hôtel 5 étoiles, hors boissons (si l'option est choisie).",
+   "Droits d'entrée des monuments (si l'option est choisie).",
+   "Tous les frais de stationnement, péages et carburant.",
+   "Bouteilles d'eau pendant la visite.",
+   "Surchaussures pour la visite du Taj Mahal."
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle et les boissons.",
+   "Pourboires pour le guide et le chauffeur."
+  ]
+ },
+ "taj-mahal-moonlight-viewing-tour-from-the-yamuna-r": {
+  "title": "Taj Mahal au clair de lune depuis les rives de la Yamuna",
+  "metaTitle": "Taj Mahal au clair de lune depuis Mehtab Bagh, en face sur la Yamuna",
+  "metaDescription": "Le Taj Mahal vu de l'autre côté de la Yamuna depuis Mehtab Bagh, le jardin de la lune bâti face à lui. Environ trois heures, départ en soirée depuis Agra.",
+  "shortDescription": "Le Taj Mahal vu de l'autre côté de la Yamuna depuis Mehtab Bagh, le jardin de la lune conçu pour lui faire face. Environ trois heures, départ en soirée depuis Agra.",
+  "fullDescription": "**La vue depuis l'autre rive.**\n\nMehtab Bagh se trouve juste en face du Taj Mahal, de l'autre côté de la Yamuna, et il a été dessiné exactement pour cela : un jardin aligné sur le tombeau pour que l'édifice puisse être contemplé de loin, reflété dans un bassin, le soir. L'alignement est précis. Placez-vous au bon endroit et le dôme se centre entre les minarets, la rivière devant lui.\n\nC'est la plus belle vue du Taj sans entrer à l'intérieur, et lors d'une soirée claire proche de la pleine lune, le marbre semble vraiment luire.\n\n**Comment ça se passe**\n\nPrise en charge à l'hôtel ou à l'aéroport dans Agra, en voiture climatisée privée. Votre guide agréé par le gouvernement vous emmène de l'autre côté de la rivière jusqu'à Mehtab Bagh pour la soirée, explique l'histoire du jardin et les lignes de vue, et trouve les angles qui fonctionnent. Environ trois heures en tout.\n\nDeux options au moment de la réservation : guide seul si vous avez un moyen de transport, ou la formule complète avec voiture privée et chauffeur.\n\n**Compris**\n\nPrise en charge et retour à l'hôtel ou à l'aéroport à Agra, voiture climatisée privée avec chauffeur, guide local agréé par le gouvernement, eau en bouteille, péages et stationnement. L'entrée à Mehtab Bagh est une option au moment de la réservation.\n\n**Bon à savoir**\n\n- Mehtab Bagh est ouvert tous les jours, **y compris le vendredi**, ce qui en fait l'une des rares expériences du Taj possibles le jour où le monument lui-même est fermé.\n- L'entrée à Mehtab Bagh pour les ressortissants étrangers est de 300 ₹.\n- Ce n'est pas la visite nocturne officielle du Taj. Celle-ci fait l'objet d'un billet ASI distinct, vendu uniquement à leur bureau 24 heures à l'avance, limité à 400 personnes sur cinq nuits par mois autour de la pleine lune, et elle vous place à l'intérieur du complexe et non de l'autre côté de la rivière.\n- Le clair de lune dépend de la lune. Réservez à quelques jours d'une pleine lune pour l'effet que promet le nom ; les autres soirs, cela reste la plus belle vue d'ensemble de l'édifice.\n- Les trépieds sont autorisés ici, contrairement à l'intérieur du complexe du Taj, et c'est pour cela que les photographes sérieux viennent.\n\n**À qui cela convient**\n\nAux photographes, à ceux qui reviennent à Agra, à quiconque s'y trouve un vendredi, et aux voyageurs qui veulent le Taj sans la foule devant.",
+  "highlights": [
+   "Voyez le Taj Mahal luire sous la douce lumière de la lune depuis les rives de la Yamuna"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture climatisée privée avec chauffeur pour les visites",
+   "Guide local expert agréé par le gouvernement",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "agra-taj-mahal-agra-fort-fatehpur-sikri-guided-tou": {
+  "title": "Agra : Taj Mahal, fort d'Agra et Fatehpur Sikri en visite guidée",
+  "metaTitle": "Taj Mahal, fort d'Agra et Fatehpur Sikri : billets d'entrée compris",
+  "metaDescription": "Les trois sites UNESCO d'Agra avec les droits d'entrée déjà compris : rien à acheter à aucune entrée. Voiture privée, guide agréé, prise en charge depuis Agra ou Delhi.",
+  "shortDescription": "Les trois sites UNESCO d'Agra avec les droits d'entrée déjà compris, donc rien à acheter à aucune entrée. Voiture privée, guide agréé, prise en charge depuis Agra ou Delhi.",
+  "fullDescription": "**Tout est couvert, rien à payer à l'entrée.**\n\nLa différence ici, c'est que les droits d'entrée des trois sites sont dans le prix plutôt que vendus en supplément. Taj Mahal, fort d'Agra et Fatehpur Sikri, billets compris : vous arrivez à chaque entrée et vous entrez.\n\nCela supprime la friction la plus courante d'une journée à Agra : trois transactions de billetterie distinctes, dont deux dans des files où l'on paie en espèces, pendant que votre guide attend et que la belle lumière passe.\n\n**L'itinéraire**\n\nPrise en charge à votre hôtel d'Agra, ou à Delhi pour la version plus longue. Le **Taj Mahal** d'abord, pour la meilleure lumière, votre guide couvrant l'arrivée par la porte, les jardins, les incrustations et l'intérieur. Puis le **fort d'Agra**, à dix minutes, où Shah Jahan fut enfermé par son fils à portée de vue du Taj. Ensuite direction l'ouest vers **Fatehpur Sikri**, la capitale de grès d'Akbar, abandonnée moins de quinze ans après son achèvement et encore largement intacte.\n\n**Compris**\n\nGuide professionnel agréé, véhicule climatisé privé avec chauffeur, prise en charge et retour à l'hôtel, et droits d'entrée des trois sites. Eau en bouteille, péages et stationnement.\n\n**Bon à savoir**\n\n- **Le Taj est fermé le vendredi.** Les deux autres sont ouverts : une réservation un vendredi reste donc valable en journée à deux sites.\n- Les droits compris couvrent les billets standard pour les ressortissants étrangers. Les 200 ₹ supplémentaires pour la plateforme du mausolée du Taj méritent d'être confirmés à la réservation.\n- Depuis Agra, cela tient confortablement en six heures. Depuis Delhi, c'est une journée complète de douze heures.\n- Fatehpur Sikri suppose une courte navette depuis le parking.\n\n**À qui cela convient**\n\nÀ qui préfère tout régler d'avance plutôt que de porter des espèces à trois guichets, et aux primo-visiteurs qui veulent les trois sites sans tracas administratif.",
+  "highlights": [
+   "Découvrez trois sites du patrimoine mondial de l'UNESCO en une journée riche"
+  ],
+  "included": [
+   "Guide professionnel agréé",
+   "Véhicule climatisé privé avec chauffeur",
+   "Prise en charge et retour à l'hôtel",
+   "Droits d'entrée du Taj Mahal, du fort d'Agra et de Fatehpur Sikri (si l'option tout compris est réservée)",
+   "Déjeuner (si l'option tout compris est réservée)",
+   "Eau en bouteille pendant les visites",
+   "Tous les péages, stationnements et frais de carburant"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "from-delhi-sunrise-taj-mahal-baby-taj-agra-fort": {
+  "title": "Au départ de Delhi : Taj Mahal au lever du soleil, Baby Taj et fort d'Agra",
+  "metaTitle": "Taj Mahal au lever du soleil depuis Delhi, avec Baby Taj et fort d'Agra",
+  "metaDescription": "Lever du soleil au Taj Mahal depuis Delhi, avec le Baby Taj et le fort d'Agra dans la même journée. Environ neuf heures, quatre options à partir du guide seul.",
+  "shortDescription": "Lever du soleil au Taj Mahal depuis Delhi, plus le Baby Taj et le fort d'Agra dans la même journée. Environ neuf heures, quatre options à partir du guide seul.",
+  "fullDescription": "**Le lever du soleil, puis les deux monuments que la plupart des excursions sautent.**\n\nLe Taj au lever du soleil vaut bien le réveil : la première lumière sur le marbre, peu de monde, et un air qui n'est pas encore devenu brûlant. Cette excursion ajoute les deux édifices que l'on supprime d'habitude quand la journée se réduit.\n\n**Ce que vous voyez**\n\n**Le Taj Mahal au lever du soleil.** Vous quittez Delhi de nuit pour être à la porte à l'ouverture. Le marbre paraît gris, puis rose, puis blanc à mesure que le soleil se lève derrière lui, et la première heure est le moment le plus vide du complexe.\n\n**Itimad-ud-Daulah**, le Baby Taj, bâti par Nur Jahan pour son père deux décennies avant le Taj. C'est le premier édifice moghol entièrement revêtu de marbre blanc avec des incrustations de pietra dura, et c'est là que se sont mises au point les techniques que le Taj a rendues célèbres. Petit, ombragé et presque vide.\n\n**Le fort d'Agra**, en grès rouge et en marbre, avec le Musamman Burj qui regarde la Yamuna jusqu'au Taj, là où Shah Jahan a fini ses jours.\n\n**Options**\n\nQuatre au moment de la réservation, du guide professionnel seul à la voiture avec chauffeur depuis Agra, jusqu'à la formule privée complète depuis Delhi avec tout compris. Le prix affiché correspond à l'option la plus légère.\n\n**Compris**\n\nPrise en charge et retour à l'hôtel ou à l'aéroport, voiture climatisée privée pour toute la journée, guide agréé par le gouvernement présent sur place, eau en bouteille, péages et stationnement. L'entrée des monuments est une option au moment de la réservation.\n\n**Bon à savoir**\n\n- **Le Taj est fermé le vendredi.**\n- L'heure du lever du soleil change au fil de l'année, environ 6 h 45 fin décembre et 5 h 15 en juin : votre heure de prise en charge suit. Nous la confirmons à la réservation.\n- Entrée pour les ressortissants étrangers : Taj 1 100 ₹ plus 200 ₹ pour le mausolée, fort d'Agra 650 ₹, Itimad-ud-Daulah 310 ₹.\n- Les matins d'hiver amènent un brouillard de rivière qui peut cacher le dôme la première heure. Il se lève en général vers neuf heures et donne entre-temps des photographies inhabituelles.\n- Prévoyez une couche supplémentaire. Agra à 5 h du matin, de novembre à février, est vraiment froide.\n\n**À qui cela convient**\n\nAux voyageurs qui n'ont qu'une journée depuis Delhi et veulent plus que le seul édifice célèbre, et aux photographes qui veulent la lumière et les sites plus calmes dans le même trajet.",
+  "highlights": [
+   "Excursion privée d'une journée de Delhi à Agra en transport climatisé confortable."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture climatisée privée avec chauffeur pour toute la durée du circuit",
+   "Guide agréé par le gouvernement présent sur place",
+   "Billets d'entrée des monuments (si l'option est choisie)",
+   "Déjeuner dans un hôtel 5 étoiles (si l'option est choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "agra-skip-the-line-taj-mahal-agra-private-tour": {
+  "title": "Agra : Taj Mahal coupe-file et visite privée d'Agra en voiture",
+  "metaTitle": "Agra en privé : Taj Mahal coupe-file, guide, voiture et déjeuner",
+  "metaDescription": "Journée privée à Agra en voiture avec entrée coupe-file au Taj Mahal, un guide et le déjeuner. Environ six heures, au départ de votre hôtel d'Agra.",
+  "shortDescription": "Journée privée à Agra en voiture avec entrée coupe-file au Taj Mahal, un guide et le déjeuner. Environ six heures, au départ de votre hôtel d'Agra.",
+  "fullDescription": "**Une journée complète à Agra sans le trajet depuis Delhi.**\n\nSi vous séjournez à Agra, vous consacrez toute la journée à la ville au lieu d'en perdre six heures sur l'autoroute. C'est cette version-là : entrée coupe-file au Taj, une voiture privée pour la journée, un guide, et le déjeuner compris.\n\n**Comment ça se passe**\n\nPrise en charge à l'hôtel ou à l'aéroport dans Agra, en voiture climatisée privée avec chauffeur. Au **Taj Mahal**, votre guide vous fait passer par la file d'accès plutôt que par la queue des billets, puis vous emmène dans les jardins, sur la plateforme et à l'intérieur du mausolée, en expliquant vraiment les incrustations, la calligraphie et la construction plutôt qu'en accéléré.\n\nVient ensuite le **fort d'Agra**, à dix minutes. Le Diwan-i-Am, le palais de Jahangir, et le Musamman Burj avec sa vue sur la rivière jusqu'au Taj.\n\nLe déjeuner est compris. La voiture reste avec vous toute la journée : sacs, eau et vestes ne posent jamais problème.\n\nEnviron six heures.\n\n**Compris**\n\nPrise en charge et retour à l'hôtel ou à l'aéroport, voiture climatisée privée avec chauffeur pour tout le circuit, guide professionnel, déjeuner, eau en bouteille, péages et stationnement. L'entrée des monuments est une option au moment de la réservation.\n\n**Bon à savoir**\n\n- **Le Taj est fermé tous les vendredis.**\n- Entrée pour les ressortissants étrangers : Taj 1 100 ₹ plus 200 ₹ pour le mausolée, fort d'Agra 650 ₹.\n- Le coupe-file concerne la billetterie, pas la sécurité. Le contrôle va vite en début de journée.\n- Commencer tôt en vaut la peine : meilleure lumière au Taj, moins de monde, et un déjeuner à une heure raisonnable.\n- Signalez-nous vos contraintes alimentaires à la réservation.\n\n**À qui cela convient**\n\nÀ toute personne qui passe la nuit à Agra et veut une journée vraiment guidée plutôt qu'une matinée pressée, et aux voyageurs qui préfèrent prendre un vrai déjeuner plutôt que de le sauter.",
+  "highlights": [
+   "Visite privée d'une journée avec guide professionnel et voiture"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture climatisée privée avec chauffeur pour les visites",
+   "Guide professionnel",
+   "Déjeuner dans un hôtel 5 étoiles (si l'option est choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle",
+   "Billets d'entrée des monuments (si l'option est choisie)"
+  ]
+ },
+ "from-agra-taj-mahal-guided-tour-with-fast-track": {
+  "title": "Au départ d'Agra : Taj Mahal en visite guidée avec entrée prioritaire",
+  "metaTitle": "Taj Mahal depuis Agra : entrée prioritaire, guide professionnel, 3 heures",
+  "metaDescription": "Trois heures au Taj Mahal depuis votre hôtel d'Agra avec entrée prioritaire et un guide professionnel. Voiture privée, vous entrez et repartez avant la chaleur.",
+  "shortDescription": "Trois heures au Taj Mahal depuis votre hôtel d'Agra avec entrée prioritaire et un guide professionnel. Voiture privée, vous entrez et repartez avant que la journée ne chauffe.",
+  "fullDescription": "**Entrée prioritaire, visite bien guidée, et vous ressortez en trois heures.**\n\nLa visite compacte du Taj pour ceux qui sont déjà à Agra. Voiture privée depuis votre hôtel, guide qui vous retrouve à l'entrée avec l'accès déjà réglé, et passage par la file prioritaire plutôt que par la queue des billets.\n\n**Ce que couvrent trois heures**\n\nL'arrivée par la Grande Porte, où le dôme apparaît d'abord encadré dans l'arche et où l'échelle se comprend vraiment. Les jardins charbagh et le long bassin. La plateforme de marbre et l'intérieur du mausolée, avec les cénotaphes et les claustras ajourés. Et le tour jusqu'à la terrasse au bord de la rivière, que bien des visiteurs sautent complètement.\n\nVotre guide explique ce que vous regardez : les incrustations de pietra dura, pierres semi-précieuses serties dans le marbre, la calligraphie coranique dont la taille augmente à mesure qu'elle s'élève pour se lire de façon régulière depuis le sol, et les minarets construits avec une inclinaison volontaire vers l'extérieur pour qu'en cas de séisme ils tombent loin du tombeau.\n\n**Compris**\n\nPrise en charge et retour à l'hôtel ou à l'aéroport dans Agra, voiture climatisée privée avec chauffeur, guide professionnel, eau en bouteille, péages et stationnement. L'entrée des monuments est une option au moment de la réservation.\n\n**Bon à savoir**\n\n- **Le Taj est fermé tous les vendredis.**\n- Le lever du soleil est de loin le meilleur créneau. L'air le plus frais, le moins de monde, et le marbre change vraiment de couleur quand la lumière arrive. Les portes ouvrent environ 30 minutes avant l'aube.\n- L'entrée pour les ressortissants étrangers est de 1 100 ₹, plus 200 ₹ pour la plateforme du mausolée.\n- L'entrée prioritaire concerne la billetterie. Tout le monde passe la sécurité, mais cela va vite tôt le matin.\n- Trépieds, nourriture, tabac et grands sacs restent dans la voiture. Téléphones et appareils photo sont autorisés.\n\n**À qui cela convient**\n\nÀ toute personne disposant d'une matinée libre à Agra qui veut que le monument lui soit expliqué et pas seulement visité. Pour le fort d'Agra ou Fatehpur Sikri en plus, les formules d'une journée couvrent les trois.",
+  "highlights": [
+   "Profitez d'une entrée prioritaire au Taj Mahal et évitez les longues files."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture climatisée privée avec chauffeur pour les visites",
+   "Guide professionnel",
+   "Billets d'entrée des monuments (si l'option est choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "sunrise-taj-mahal-guided-tour-with-skip-the-line": {
+  "title": "Taj Mahal au lever du soleil, visite guidée coupe-file avec transferts",
+  "metaTitle": "Taj Mahal au lever du soleil : coupe-file, guide privé et transferts",
+  "metaDescription": "Lever du soleil au Taj Mahal avec entrée coupe-file et transferts depuis l'hôtel compris. L'heure la plus calme, la plus fraîche et la mieux éclairée de la journée.",
+  "shortDescription": "Lever du soleil au Taj Mahal avec entrée coupe-file et transferts depuis l'hôtel compris. L'heure la plus calme, la plus fraîche et la mieux éclairée de la journée au monument.",
+  "fullDescription": "**La première heure, la seule qui compte vraiment.**\n\nIl y a une vraie différence entre le Taj à 6 h et le Taj à 11 h, et elle n'a rien de subtil. À l'ouverture, le complexe accueille quelques centaines de personnes plutôt que plusieurs milliers, le marbre est assez frais pour y marcher, et la pierre passe du gris au rose puis au blanc à mesure que le soleil monte derrière le dôme. En fin de matinée, c'est un bâtiment blanc et brûlant rempli de monde.\n\nCette visite existe pour vous y amener au premier de ces deux moments.\n\n**Comment ça se passe**\n\nPrise en charge à votre hôtel en voiture climatisée, à une heure calculée pour arriver à la porte avant l'ouverture. Entrée coupe-file, donc vous passez la billetterie et entrez avec le premier groupe. Votre guide privé vous fait découvrir l'arrivée par la porte, les jardins, la plateforme et l'intérieur, à un rythme dicté par la lumière plutôt que par un horaire, puis retour à votre hôtel.\n\n**Compris**\n\nPrise en charge et retour à l'hôtel, voiture climatisée, eau en bouteille dans la voiture, péages, et un guide privé. L'entrée coupe-file est organisée.\n\n**Bon à savoir**\n\n- **Le Taj est fermé le vendredi.**\n- L'heure du lever du soleil change au fil de l'année, environ 6 h 45 fin décembre et 5 h 15 en juin : l'heure de prise en charge suit la saison. Nous confirmons la vôtre à la réservation.\n- L'entrée pour les ressortissants étrangers est de 1 100 ₹ plus 200 ₹ pour la plateforme du mausolée.\n- De novembre à février, le brouillard venu de la Yamuna peut masquer le dôme la première heure. Il se dissipe en général vers neuf heures, et tant qu'il dure, il donne des photographies impossibles à obtenir à une autre saison.\n- Prévoyez une couche supplémentaire. Agra avant l'aube en hiver est vraiment froide, quoi que fasse l'après-midi.\n- Des surchaussures sont distribuées pour la plateforme.\n\n**À qui cela convient**\n\nAux photographes, aux voyageurs d'été pour qui le créneau matinal est le seul supportable, et à ceux qui préfèrent perdre une heure de sommeil plutôt que de partager le Taj avec la foule.",
+  "highlights": [
+   "Assistez au lever du soleil sur le Taj Mahal, accompagné d'un expert local"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Transport en voiture climatisée",
+   "Eau en bouteille (dans la voiture)",
+   "Péages",
+   "Chauffeur privé",
+   "Guide privé",
+   "Droits d'entrée des monuments (si l'option est choisie)",
+   "Déjeuner buffet dans un hôtel 5 étoiles (si l'option est choisie)"
+  ],
+  "notIncluded": [
+   "Repas et en-cas personnels",
+   "Pourboires pour le guide et le chauffeur (facultatifs)"
+  ]
+ },
+ "from-agra-private-taj-mahal-agra-fort-skip-the": {
+  "title": "Au départ d'Agra : Taj Mahal et fort d'Agra en privé, coupe-file",
+  "metaTitle": "Taj Mahal et fort d'Agra en privé, coupe-file, demi-journée depuis Agra",
+  "metaDescription": "Taj Mahal et fort d'Agra en demi-journée privée depuis votre hôtel d'Agra, avec entrée coupe-file aux deux et un guide agréé. Environ six heures.",
+  "shortDescription": "Taj Mahal et fort d'Agra en demi-journée privée depuis votre hôtel d'Agra, avec entrée coupe-file aux deux sites et un guide agréé. Environ six heures.",
+  "fullDescription": "**Les deux monuments phares, sans faire la queue.**\n\nLe Taj Mahal et le fort d'Agra se trouvent à dix minutes l'un de l'autre et, ensemble, ils racontent une seule histoire : c'est pour cela que les enchaîner a plus de sens que de les répartir sur deux jours.\n\n**L'itinéraire**\n\nPrise en charge à l'hôtel ou à l'aéroport dans Agra, en voiture climatisée privée. Le **Taj Mahal** d'abord, tôt si vous suivez le conseil, avec entrée coupe-file et un guide agréé par le gouvernement qui couvre les incrustations de pietra dura, la calligraphie et l'histoire de la construction.\n\nPuis le **fort d'Agra**. C'est celui que l'on prend pour une version mineure du Taj, et il ne l'est pas : c'est une forteresse de grès rouge en activité, avec des palais de marbre à l'intérieur, et le Musamman Burj, la tour octogonale où Shah Jahan a passé ses huit dernières années emprisonné par son fils Aurangzeb, regarde droit par-dessus la Yamuna le tombeau qu'il avait bâti pour son épouse. C'est en se tenant là que le Taj prend tout son sens.\n\nEnviron six heures, la voiture restant avec vous d'un bout à l'autre.\n\n**Compris**\n\nPrise en charge et retour à l'hôtel ou à l'aéroport, voiture climatisée privée avec chauffeur pour les visites, guide agréé par le gouvernement présent sur place, eau en bouteille, péages et stationnement. L'entrée des monuments est une option au moment de la réservation.\n\n**Bon à savoir**\n\n- **Le Taj est fermé tous les vendredis.** Le fort d'Agra est ouvert tous les jours.\n- Entrée pour les ressortissants étrangers : Taj 1 100 ₹ plus 200 ₹ pour le mausolée, fort d'Agra 650 ₹.\n- Le coupe-file s'applique à la billetterie ; le contrôle de sécurité s'applique à tout le monde.\n- Le fort d'Agra demande pas mal de marche sur du grès irrégulier, avec par endroits des rampes plutôt que des marches.\n- Visitez le fort après le Taj et non avant. La vue sur la rivière a bien plus de poids une fois que vous avez été à l'intérieur de l'édifice que vous regardez.\n\n**À qui cela convient**\n\nÀ qui dispose d'une demi-journée à Agra, et aux primo-visiteurs qui veulent le contexte et pas seulement la photographie.",
+  "highlights": [
+   "Visite guidée privée pour une expérience personnalisée."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture climatisée privée avec chauffeur pour les visites",
+   "Guide agréé par le gouvernement présent sur place",
+   "Billets d'entrée des monuments (si l'option est choisie)",
+   "Déjeuner dans un hôtel 5 étoiles (si l'option est choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "all-inclusive-sunrise-taj-mahal-agra-fort-baby-taj": {
+  "title": "Tout compris : Taj Mahal au lever du soleil, fort d'Agra et Baby Taj",
+  "metaTitle": "Taj Mahal au lever du soleil, fort d'Agra et Baby Taj, entrées comprises",
+  "metaDescription": "Lever du soleil au Taj Mahal depuis Delhi, plus le fort d'Agra et le Baby Taj, droits d'entrée compris. Une journée complète de neuf heures sur les trois monuments d'Agra.",
+  "shortDescription": "Lever du soleil au Taj Mahal depuis Delhi, plus le fort d'Agra et le Baby Taj, droits d'entrée compris. Une journée complète de neuf heures couvrant les trois monuments d'Agra.",
+  "fullDescription": "**Le lever du soleil d'abord, puis les deux que l'on supprime d'habitude.**\n\nLa version tout compris de la journée à Agra depuis Delhi. Les droits d'entrée sont dans le prix au lieu d'être vendus à part : il n'y a rien à régler à aucune entrée, et le programme couvre les trois grands édifices moghols de la ville, pas seulement le plus célèbre.\n\n**Ce que vous voyez**\n\n**Le Taj Mahal au lever du soleil.** Vous quittez Delhi de nuit pour être à la porte à l'ouverture. La première heure compte une fraction de la foule, et le marbre change vraiment de couleur quand la lumière arrive.\n\n**Le fort d'Agra**, grès rouge à l'extérieur et marbre à l'intérieur, où le Diwan-i-Am, le palais de Jahangir et le Musamman Burj se suivent sur un même parcours. Shah Jahan a été retenu dans cette tour par son fils, le regard tourné vers le Taj de l'autre côté de la rivière.\n\n**Itimad-ud-Daulah**, le Baby Taj, bâti par Nur Jahan pour son père deux décennies avant le Taj. C'est le premier édifice moghol entièrement revêtu de marbre blanc avec des incrustations, assez petit pour être examiné de près, et en général presque vide.\n\n**Compris**\n\nPrise en charge et retour à l'hôtel à Delhi en voiture climatisée privée, un guide professionnel agréé à Agra, et les droits d'entrée. Eau en bouteille, péages et stationnement.\n\n**Bon à savoir**\n\n- **Le Taj est fermé le vendredi.** Le fort et le Baby Taj restent ouverts.\n- Le lever du soleil change avec la saison, d'environ 6 h 45 fin décembre à 5 h 15 en juin : l'heure de départ suit. Nous confirmons à la réservation.\n- Environ neuf heures, dont six sur la route. Partir de nuit est le prix à payer pour voir le Taj dans ses meilleures conditions.\n- Les matins d'hiver amènent un brouillard de rivière qui peut cacher le dôme la première heure avant de se lever.\n- Le Baby Taj se trouve de l'autre côté de la Yamuna par rapport aux deux autres : l'itinéraire est donc pensé en fonction de la lumière plutôt que de la distance.\n\n**À qui cela convient**\n\nAux voyageurs qui n'ont qu'une journée depuis Delhi et veulent le tableau complet d'Agra sans rien avoir à payer sur place.",
+  "highlights": [
+   "Vue du Taj Mahal au lever du soleil, un moment magique à cocher sur votre liste"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Delhi (voiture climatisée privée)",
+   "Guide professionnel agréé à Agra",
+   "Droits d'entrée du Taj Mahal, du fort d'Agra et du Baby Taj (si l'option est choisie)",
+   "Déjeuner dans un restaurant local très bien noté (si l'option est choisie)",
+   "Eau en bouteille et rafraîchissements",
+   "Toutes les taxes, péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Réservez un guide officiel pour explorer Bengaluru",
   "metaTitle": "Bengaluru avec guide : palais, Lalbagh, temples et bazars",

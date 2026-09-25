@@ -62,6 +62,7 @@ export const SLUG_REDIRECTS: Record<string, string> = {
   // copyright complaint about its images, so both it and the slug that used to
   // redirect into it now land on the city's guided tour instead.
   'jaipur-block-printing-workshop': 'jaipur-city-tour-with-official-guide',
+
   // Bangkok — slug fixes
   'learn-hands-on-photography-skills': 'bangkok-photography-class-workshop',
   'bangkok-phography-photo-walk-with': 'bangkok-private-photography-tour',
