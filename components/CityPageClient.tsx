@@ -3202,9 +3202,11 @@ export default function CityPageClient({ tours: initialTours, city, country, h1 
 
                       {/* Rating & Activity Provider Row */}
                       <div className="flex items-center justify-between mb-1 md:mb-3">
-                        {/* Rating */}
+                        {/* Rating. A tour with no rating yet shows nothing here --
+                            "New on AsiaByLocals" announced the absence of reviews on
+                            every card, which reads as a warning rather than a fact. */}
                         {rating === null ? (
-                          <span className="text-[12px] md:text-[13px] font-semibold text-gray-500">New on AsiaByLocals</span>
+                          <span />
                         ) : (
                         <div className="flex items-center gap-1.5">
                           <div className="flex items-center gap-0.5">
