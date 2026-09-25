@@ -34228,6 +34228,1863 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Michelin-Dinner, Kaffee und Kreuzfahrt auf dem Han-Fluss",
   "metaDescription": "Halbtägige Tour in Ha Long. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "hai-van-pass-and-hue-city-explore-1-day-tour-da-nang": {
+  "title": "Hai-Van-Pass und Hue: Tagestour",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Transport und englischsprachiger Reiseleiter, Mittagsmenü mit 7 Gerichten, Mineralwasser: 500 ml pro Person und Reiseversicherung. Nicht enthalten sind Persönliche Ausgaben und oben nicht genannte Leistungen, Trinkgelder für Guides und Fahrer und Eintrittsgebühren, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 10 Stunden",
+   "Transport und englischsprachiger Reiseleiter",
+   "Mittagsmenü mit 7 Gerichten (Küche aus Hue)",
+   "Mineralwasser: 500 ml pro Person",
+   "Reiseversicherung"
+  ],
+  "included": [
+   "Transportation & English-speaking tour guide.",
+   "Mittagsmenü mit 7 Gerichten (Küche aus Hue).",
+   "Mineral water: 500ml/pax.",
+   "Travel insurance."
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben und oben nicht genannte Leistungen.",
+   "Trinkgelder für Reiseleiter und Fahrer.",
+   "Eintrittsgebühren"
+  ],
+  "shortDescription": "Ganztägige Tour in Da Nang, inklusive Transport und englischsprachiger Reiseleiter, Mittagsmenü mit 7 Gerichten und Mineralwasser: 500 ml pro Person. Durchgeführt von HAIVAN TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hai-Van-Pass und Hue: Tagestour",
+  "metaDescription": "Ganztägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "discover-marble-mountains-and-waterfall-sliding-adventure-da-nang": {
+  "title": "Marmorberge und Wasserfallrutschen",
+  "fullDescription": "Dies ist ein 9,5-stündiges Erlebnis ab Da Nang, rund um Marmorberge, Dong Am Phu und Lokales Restaurant. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt an Hotels in Hoi An und Da Nang, Guide, Eintrittsgebühren, Hausgemachtes Mittagessen bei einer einheimischen Familie und Wasserfallrutschen. Nicht enthalten sind Kinder unter 14 Jahren und unter 40 kg, Persönliche Ausgaben und Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHoi An. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Marmorberge",
+   "Dong Am Phu",
+   "Lokales Restaurant",
+   "Geheimer Halt",
+   "Dauer: 9,5 Stunden",
+   "Abholung und Rückfahrt an Hotels in Hoi An und Da Nang"
+  ],
+  "included": [
+   "Abholung und Rückfahrt an Hotels in Hoi An und Da Nang",
+   "Englischsprachiger Reiseleiter",
+   "Eintrittsgebühren",
+   "Hausgemachtes Mittagessen bei einer einheimischen Familie",
+   "Wasserfallrutschen (Rafting), nur für Personen über 14 Jahren und mindestens 40 kg",
+   "Fischmassage",
+   "Zipline",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Kinder unter 14 Jahren und unter 40 kg dürfen NICHT am Rafting teilnehmen.",
+   "Persönliche Ausgaben",
+   "Getränke"
+  ],
+  "shortDescription": "Tour in Da Nang, mit Marmorberge, Dong Am Phu und Lokales Restaurant. Durchgeführt von Simply Vietnam Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Marmorberge und Wasserfallrutschen",
+  "metaDescription": "Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "ba-na-hills-by-night-golden-bridge-and-experience-craft-beer-da-nang": {
+  "title": "Ba Na Hills bei Nacht: Goldene Brücke und Craft Beer",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel in Da Nang, Reiseleiter, Hin- und Rücktickets für die Seilbahn zu Ba Na Hills, Eintrittsgebühr für Ba Na Hills und Zugang zur Goldenen Brücke, zu den Blumengärten, zum französischen Dorf und. Nicht enthalten sind Trinkgelder für Guide und Fahrer und Zuschlag an vietnamesischen Feiertagen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. Atlas Vietnam Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 8 Stunden",
+   "Abholung und Rückfahrt am Hotel in Da Nang (Zuschlag in Hoi An)",
+   "Englischsprachiger Reiseleiter (Zuschlag für andere Sprachen)",
+   "Hin- und Rücktickets für die Seilbahn zu Ba Na Hills",
+   "Eintrittsgebühr für Ba Na Hills",
+   "Zugang zur Goldenen Brücke, zu den Blumengärten, zum französischen Dorf und zu den spirituellen Stätten"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel in Da Nang (Zuschlag in Hoi An)",
+   "Englischsprachiger Reiseleiter (Zuschlag für andere Sprachen)",
+   "Hin- und Rücktickets für die Seilbahn zu Ba Na Hills",
+   "Eintrittsgebühr für Ba Na Hills",
+   "Zugang zur Goldenen Brücke, zu den Blumengärten, zum französischen Dorf und zu den spirituellen Stätten",
+   "Abendbuffet im Restaurant Beer Plaza",
+   "Trinkwasser in Flaschen im Auto"
+  ],
+  "notIncluded": [
+   "Trinkgelder für Guide und Fahrer (optional)",
+   "Zuschlag an vietnamesischen Feiertagen"
+  ],
+  "shortDescription": "Ganztägige Tour in Da Nang, inklusive Abholung und Rückfahrt am Hotel in Da Nang, Reiseleiter und Hin- und Rücktickets für die Seilbahn zu Ba Na Hills. Durchgeführt von Atlas Vietnam Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ba Na Hills bei Nacht: Goldene Brücke und Craft Beer",
+  "metaDescription": "Ganztägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "marble-mountain-am-phu-cave-and-lady-buddha": {
+  "title": "Marmorberg, Am-Phu-Höhle und Lady Buddha",
+  "fullDescription": "Dies ist ein Erlebnis ab Da Nang, rund um Marmorberge. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Da Nang und Da Nang möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Vietnam Orange Tours abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Klimatisierter Transport, Eintrittsgebühren, Guide und Vietnamesisches Mittagessen. Nicht enthalten sind Trinkgelder, Persönliche Ausgaben und Aufzugsgebühr am Marmorberg, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. Vietnam Orange Tours bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Marmorberge",
+   "Abholung und Rückfahrt am Hotel (Strandbereich Da Nang oder Zentrum Hoi An)",
+   "Klimatisierter Transport",
+   "Eintrittsgebühren",
+   "Englischsprachiger Guide",
+   "Vietnamesisches Mittagessen (nur Vormittagstour)"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel (Strandbereich Da Nang oder Zentrum Hoi An)",
+   "Klimatisierter Transport",
+   "Eintrittsgebühren",
+   "Englischsprachiger Guide",
+   "Vietnamesisches Mittagessen (nur Vormittagstour)"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben",
+   "Aufzugsgebühr am Marmorberg (optional)"
+  ],
+  "shortDescription": "Tour in Da Nang, mit Marble Mountains and Linh Ung Pagoda und Son Tra. Durchgeführt von Vietnam Orange Tours, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Marmorberg, Am-Phu-Höhle und Lady Buddha",
+  "metaDescription": "Tour in Da Nang. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "pro-surf-group-lessons-in-da-nang-vietnam-by-local-operator": {
+  "title": "Da Nang: Pro-Surfkurse in der Gruppe",
+  "fullDescription": "Dies ist ein Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind 90-minütige Surfstunde und Surfbrett. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "90-minütige Surfstunde",
+   "Surfbrett, Lycra-Shirts und Sonnencreme inklusive"
+  ],
+  "included": [
+   "90-minütige Surfstunde",
+   "Surfbrett, Lycra-Shirts und Sonnencreme inklusive"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour in Da Nang, inklusive 90-minütige Surfstunde und Surfbrett. Durchgeführt von Vietnam Epic Experience, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Pro-Surfkurse in der Gruppe",
+  "metaDescription": "Tour in Da Nang. Enthalten: 90-minütige Surfstunde und Surfbrett. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "marble-mountains-am-phu-and-monkey-mountain": {
+  "title": "Marmorberge, Am Phu und Affenberg",
+  "fullDescription": "Dies ist ein Erlebnis ab Da Nang, rund um Marmorberge. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Transport im klimatisierten Minivan, Eintrittsgebühren, Guide und Mittagessen. Nicht enthalten sind Persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDa Nang. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Marmorberge",
+   "Abholung und Rückfahrt zum Hotel",
+   "Transport im klimatisierten Minivan",
+   "Eintrittsgebühren",
+   "Englischsprachiger Guide",
+   "Lokales Mittagessen (bei Wahl der Vormittagstour in der Gruppe)"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Transport im klimatisierten Minivan",
+   "Eintrittsgebühren",
+   "Englischsprachiger Guide",
+   "Lokales Mittagessen (bei Wahl der Vormittagstour in der Gruppe)"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Tour in Da Nang, mit Marble Mountains and Linh Ung Pagoda und Son Tra. Durchgeführt von orange tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Marmorberge, Am Phu und Affenberg",
+  "metaDescription": "Tour in Da Nang. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "da-nang-half-day-tour-monkey-mountain-and-marble-mountains-by-local-operator": {
+  "title": "Da Nang: halber Tag, Affenberg und Marmorberge",
+  "fullDescription": "Dies ist ein 5-stündiges Erlebnis in Da Nang, rund um Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel im Zentrum von Da Nang, Klimatisierter Transport während der Tour, Englischsprachiger Reiseleiter, Eintrittskarten für die im Programm genannten Sehenswürdigkeiten und Trinkwasser in Flaschen im Auto. Nicht enthalten sind Trinkgelder für Reiseleiter und Fahrer, Mittag- oder Abendessen und Zuschlag an vietnamesischen Feiertagen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHoi An. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Da Nang",
+   "Dauer: 5 Stunden",
+   "Abholung und Rückfahrt am Hotel im Zentrum von Da Nang (Zuschlag in Hoi An)",
+   "Klimatisierter Transport während der Tour",
+   "Professioneller englischsprachiger Reiseleiter (Zuschlag für andere Sprachen)",
+   "Eintrittskarten für die im Programm genannten Sehenswürdigkeiten"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel im Zentrum von Da Nang (Zuschlag in Hoi An)",
+   "Klimatisierter Transport während der Tour",
+   "Professioneller englischsprachiger Reiseleiter (Zuschlag für andere Sprachen)",
+   "Eintrittskarten für die im Programm genannten Sehenswürdigkeiten",
+   "Trinkwasser in Flaschen im Auto",
+   "Reiseversicherung"
+  ],
+  "notIncluded": [
+   "Trinkgelder für Reiseleiter und Fahrer (optional)",
+   "Mittag- oder Abendessen",
+   "Zuschlag an vietnamesischen Feiertagen"
+  ],
+  "shortDescription": "Halbtägige Tour in Da Nang, mit Da Nang. Durchgeführt von VN BIKE TOUR COMPANY LIMTIED, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: halber Tag, Affenberg und Marmorberge",
+  "metaDescription": "Halbtägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "lady-buddha-marble-mountains-am-phu-cave-tour": {
+  "title": "Lady Buddha, Marmorberge und Am-Phu-Höhle",
+  "fullDescription": "Dies ist ein Erlebnis ab Da Nang, rund um Marmorberge. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Điện Dương, Sơn Trà und Ngũ Hành Sơn möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit AN AN TRAVEL HOI AN abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Klimatisierter Transport, Reiseleiter, Eintrittskarten für die Marmorberge und die Am-Phu-Höhle und Vietnamesisches Mittagessen. Nicht enthalten sind Aufzug in den Marmorbergen, Persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. AN AN TRAVEL HOI AN bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Marmorberge",
+   "Abholung und Rückfahrt am Hotel (Zentrum von Da Nang und Hoi An)",
+   "Klimatisierter Transport",
+   "Englischsprachiger Reiseleiter",
+   "Eintrittskarten für die Marmorberge und die Am-Phu-Höhle",
+   "Vietnamesisches Mittagessen (nur bei der Vormittagstour in der Gruppe)"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel (Zentrum von Da Nang und Hoi An)",
+   "Klimatisierter Transport",
+   "Englischsprachiger Reiseleiter",
+   "Eintrittskarten für die Marmorberge und die Am-Phu-Höhle",
+   "Vietnamesisches Mittagessen (nur bei der Vormittagstour in der Gruppe)",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Aufzug in den Marmorbergen (optional)",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Tour in Da Nang, mit Linh Ung Pagoda, Son Tra und Marmorberge. Durchgeführt von AN AN TRAVEL HOI AN, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lady Buddha, Marmorberge und Am-Phu-Höhle",
+  "metaDescription": "Tour in Da Nang. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "marble-mountains-lady-buddha-and-am-phu-cave-tour-da-nang": {
+  "title": "Marmorberge, Lady Buddha und Am-Phu-Höhle",
+  "fullDescription": "Dies ist ein Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Da Nang, Ngũ Hành Sơn, Điện Dương, Hội An und Sơn Trà möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Thien Hoang Travel abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Transport im klimatisierten Minivan, Eintrittsgebühr, Guide und Vietnamesisches Mittagessen. Nicht enthalten sind Persönliche Ausgaben und Oben nicht genannte Leistungen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. Thien Hoang Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Transport im klimatisierten Minivan",
+   "Eintrittsgebühr",
+   "Englischsprachiger Guide",
+   "Vietnamesisches Mittagessen (bei Wahl der Vormittagstour)",
+   "Flasche Wasser"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Transport im klimatisierten Minivan",
+   "Eintrittsgebühr",
+   "Englischsprachiger Guide",
+   "Vietnamesisches Mittagessen (bei Wahl der Vormittagstour)",
+   "Flasche Wasser"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Oben nicht genannte Leistungen (wie der Aufzug nach oben)"
+  ],
+  "shortDescription": "Tour in Da Nang, inklusive Abholung und Rückfahrt zum Hotel, Transport im klimatisierten Minivan und Eintrittsgebühr. Durchgeführt von Thien Hoang Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Marmorberge, Lady Buddha und Am-Phu-Höhle",
+  "metaDescription": "Tour in Da Nang. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "da-nang-ba-na-hills-golden-bridge-cable-cars-private-tour-by-local-operator": {
+  "title": "Ba Na Hills, Goldene Brücke und Seilbahn: private Tour ab Da Nang",
+  "fullDescription": "Dies ist ein 6-stündiges Erlebnis ab Da Nang, rund um Ba Na Hills und Goldene Brücke in Ba Na Hills. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nAbholung ist ab Da Nang, Hội An und Hội An möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Local Buddy Tours Vietnam abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Ba Na Hills",
+   "Goldene Brücke in Ba Na Hills",
+   "Dauer: 6 Stunden"
+  ],
+  "included": [],
+  "notIncluded": [
+   "Weitere kostenpflichtige Attraktionen und Besichtigungen, die nicht im Eintritt enthalten sind (Wachsfigurenkabinett, Alpine Coaster, Weinkeller und Weinprobe)",
+   "Upgrade: Wow-Pass, um alle Warteschlangen an der Seilbahn zu umgehen, 12 USD bzw. 300.000 VND pro Person (bitte bar an den Reiseleiter zahlen)",
+   "Hinweis: Kinder über 1 Meter Körpergröße benötigen ein eigenes Eintrittsticket (nicht im Preis enthalten)."
+  ],
+  "shortDescription": "Halbtägige Tour in Da Nang, mit Ba Na Hills, Golden Bridge Bà Nà Hills and Hàn River und Da Nang. Durchgeführt von Local Buddy Tours Vietnam, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ba Na Hills, Goldene Brücke und Seilbahn: private Tour ab Da Nang",
+  "metaDescription": "Halbtägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "chan-may-port-to-golden-bridge-ba-na-hill-by-private-car-da-nang": {
+  "title": "Vom Hafen Chan May zur Goldenen Brücke und nach Ba Na Hills im Privatwagen",
+  "fullDescription": "Dies ist ein 7-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hafen Chan May in beide Richtungen, Privatwagen mit Fahrer und Eine Flasche Wasser. Nicht enthalten sind Guide, Seilbahnticket hin und zurück: 1.000.000 VND bzw. 40 USD pro Person, Mittagsbuffet in Ba Na: 380.000 VND pro Person und Zusätzliche Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 7 Stunden",
+   "Abholung und Rückfahrt am Hafen Chan May in beide Richtungen",
+   "Privatwagen mit Fahrer",
+   "Eine Flasche Wasser"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hafen Chan May in beide Richtungen",
+   "Privatwagen mit Fahrer",
+   "Eine Flasche Wasser"
+  ],
+  "notIncluded": [
+   "Englischsprachiger Reiseleiter (60 USD Aufpreis pro Gruppe, direkt an den Reiseleiter zu zahlen)",
+   "Seilbahnticket hin und zurück: 1.000.000 VND bzw. 40 USD pro Person",
+   "Mittagsbuffet in Ba Na: 380.000 VND pro Person",
+   "Zusätzliche Getränke",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Ganztägige Tour in Da Nang, inklusive Abholung und Rückfahrt am Hafen Chan May in beide Richtungen, Privatwagen mit Fahrer und Eine Flasche Wasser. Durchgeführt von Hiep Hoi An Travel II, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Vom Hafen Chan May zur Goldenen Brücke und nach Ba Na Hills im Privatwagen",
+  "metaDescription": "Ganztägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "marble-mountains-lady-buddha-and-am-phu-cave": {
+  "title": "Marmorberge, Lady Buddha und Am-Phu-Höhle",
+  "fullDescription": "Dies ist ein 4,5-stündiges Erlebnis ab Da Nang, rund um Marmorberge und Der Affenberg. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Hội An und Hội An möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Vietnam Orange Tour abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Guide, Eintrittsgebühr für die Marmorberge, Eintrittsgebühr für die Am-Phu-Höhle und Klimatisierter Transport. Nicht enthalten sind Aufzugsticket in den Marmorbergen, Persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. Vietnam Orange Tour bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Marmorberge",
+   "Der Affenberg",
+   "Dauer: 4,5 Stunden",
+   "Abholung und Rückfahrt zum Hotel",
+   "Englischsprachiger Guide",
+   "Eintrittsgebühr für die Marmorberge"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Englischsprachiger Guide",
+   "Eintrittsgebühr für die Marmorberge",
+   "Eintrittsgebühr für die Am-Phu-Höhle",
+   "Klimatisierter Transport",
+   "Wasser in Flaschen",
+   "Mittagessen (nur bei den Vormittags- und Privatoptionen)"
+  ],
+  "notIncluded": [
+   "Aufzugsticket in den Marmorbergen",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Tour in Da Nang, mit Marmorberge und Der Affenberg. Durchgeführt von Vietnam Orange Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Marmorberge, Lady Buddha und Am-Phu-Höhle",
+  "metaDescription": "Tour in Da Nang. Enthalten: Abholung und Rückfahrt zum Hotel und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "marble-mountain-and-monkey-mountain-halfday-tour": {
+  "title": "Marmorberg und Affenberg: halber Tag",
+  "fullDescription": "Dies ist ein 4,5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Abholung und Rückfahrt ab Hoi An oder Da Nang, Englischsprachiger Reiseleiter, Mittagessen, Eintrittsgebühr für die Am-Phu-Höhle im Marmorberg und Eine Flasche Wasser. Nicht enthalten sind Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 4,5 Stunden",
+   "Abholung und Rückfahrt ab Hoi An oder Da Nang",
+   "Englischsprachiger Reiseleiter",
+   "Mittagessen",
+   "Eintrittsgebühr für die Am-Phu-Höhle im Marmorberg",
+   "Eine Flasche Wasser"
+  ],
+  "included": [
+   "Abholung und Rückfahrt ab Hoi An oder Da Nang",
+   "Englischsprachiger Reiseleiter",
+   "Mittagessen",
+   "Eintrittsgebühr für die Am-Phu-Höhle im Marmorberg",
+   "Eine Flasche Wasser"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Tour in Da Nang, inklusive Abholung und Rückfahrt ab Hoi An oder Da Nang, Englischsprachiger Reiseleiter und Mittagessen. Durchgeführt von Da Nang Happy Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Marmorberg und Affenberg: halber Tag",
+  "metaDescription": "Tour in Da Nang. Enthalten: Abholung und Rückfahrt ab Hoi An oder Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "ba-na-hills-tour-with-cable-car": {
+  "title": "Ba Na Hills mit der Seilbahn",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Da Nang, rund um Ba Na Hills. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel im Zentrum von Da Nang, Englischsprachiger Guide, Hin- und Rücktransport im klimatisierten Fahrzeug, Hin- und Rücktickets für die Seilbahn zu Ba Na Hills und Eintrittsgebühren für die Attraktionen von Ba Na Hills. Nicht enthalten sind Trinkgelder für Reiseleiter und Fahrer, Zuschlag an vietnamesischen Feiertagen, Mittagsbuffet und Ticket für die Attraktionen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. VN BIKE TOUR COMPANY LIMTIED bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Ba Na Hills",
+   "Dauer: 8 Stunden",
+   "Abholung und Rückfahrt am Hotel im Zentrum von Da Nang (Zuschlag in Hoi An)",
+   "Professioneller englischsprachiger Reiseleiter (Zuschlag für andere Sprachen)",
+   "Hin- und Rücktransport im klimatisierten Fahrzeug",
+   "Hin- und Rücktickets für die Seilbahn zu Ba Na Hills"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel im Zentrum von Da Nang (Zuschlag in Hoi An)",
+   "Professioneller englischsprachiger Reiseleiter (Zuschlag für andere Sprachen)",
+   "Hin- und Rücktransport im klimatisierten Fahrzeug",
+   "Hin- und Rücktickets für die Seilbahn zu Ba Na Hills",
+   "Eintrittsgebühren für die Attraktionen von Ba Na Hills",
+   "Trinkwasser in Flaschen im Auto",
+   "Reiseversicherung"
+  ],
+  "notIncluded": [
+   "Trinkgelder für Reiseleiter und Fahrer (optional)",
+   "Zuschlag an vietnamesischen Feiertagen",
+   "Mittagsbuffet",
+   "Ticket für die Attraktionen"
+  ],
+  "shortDescription": "Ganztägige Tour in Da Nang, mit Ba Na Hills. Durchgeführt von VN BIKE TOUR COMPANY LIMTIED, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ba Na Hills mit der Seilbahn",
+  "metaDescription": "Ganztägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "da-nang-food-tour-and-waterfall-sliding-adventure-by-local-operator": {
+  "title": "Da Nang: Food-Tour und Wasserfallrutschen",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Da Nang, rund um Lokales Restaurant und Geheimtipp. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Abholung und Rückfahrt an Hotels in Hoi An und Da Nang, Guide, Eintrittsgebühren, Verkostung von mehr als 5 lokalen Gerichten und Wasserfallrutschen. Nicht enthalten sind Kinder unter 14 Jahren und unter 40 kg, Persönliche Ausgaben und Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHoi An. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Lokales Restaurant",
+   "Geheimtipp",
+   "Dauer: 8 Stunden",
+   "Abholung und Rückfahrt an Hotels in Hoi An und Da Nang",
+   "Englischsprachiger Reiseleiter",
+   "Eintrittsgebühren"
+  ],
+  "included": [
+   "Abholung und Rückfahrt an Hotels in Hoi An und Da Nang",
+   "Englischsprachiger Reiseleiter",
+   "Eintrittsgebühren",
+   "Verkostung von mehr als 5 lokalen Gerichten",
+   "Wasserfallrutschen (Rafting), nur für Personen über 14 Jahren und mindestens 40 kg",
+   "Fischmassage",
+   "Zipline",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Kinder unter 14 Jahren und unter 40 kg dürfen NICHT am Rafting teilnehmen.",
+   "Persönliche Ausgaben",
+   "Getränke"
+  ],
+  "shortDescription": "Ganztägige Tour in Da Nang, mit Lokales Restaurant und Geheimtipp. Durchgeführt von Simply Vietnam Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Food-Tour und Wasserfallrutschen",
+  "metaDescription": "Ganztägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "marble-mountains-monkey-mountains-and-lady-buddha": {
+  "title": "Marmorberge, Affenberg und Lady Buddha",
+  "fullDescription": "Dies ist ein 4,5-stündiges Erlebnis ab Da Nang, rund um Marmorberge und Heiligtum My Son. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Sơn Trà, Ngũ Hành Sơn, Ngũ Hành Sơn, Hội An, Hải Châu District und Sơn Trà möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Du Lịch Kim Ty abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Transport im klimatisierten Minivan, Eintrittsgebühr für die Marmorberge und die Am-Phu-Höhle, Guide und Mittagessen. Nicht enthalten sind Persönliche Ausgaben und oben nicht genannte Leistungen, Trinkgelder für Guide und Fahrer und Eintrittskarte für das Heiligtum My Son und Elektroautos, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. Du Lịch Kim Ty bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Marmorberge",
+   "Heiligtum My Son",
+   "Dauer: 4,5 Stunden",
+   "Abholung und Rückfahrt zum Hotel",
+   "Transport im klimatisierten Minivan",
+   "Eintrittsgebühr für die Marmorberge und die Am-Phu-Höhle"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Transport im klimatisierten Minivan",
+   "Eintrittsgebühr für die Marmorberge und die Am-Phu-Höhle",
+   "Englischsprachiger Guide",
+   "Lokales Mittagessen (bei Wahl der Vormittagstour in der Gruppe)",
+   "Flasche Wasser"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben und oben nicht genannte Leistungen (wie der Aufzug nach oben)",
+   "Trinkgelder für Guide und Fahrer",
+   "Eintrittskarte für das Heiligtum My Son und Elektroautos (150.000 VND pro Erwachsenen, 30.000 VND pro Kind), bei der Ganztagesoption Marmorberge und My Son"
+  ],
+  "shortDescription": "Tour in Da Nang, mit Linh Ung Pagoda, Son Tra, Marmorberge und Heiligtum My Son. Durchgeführt von Du Lịch Kim Ty, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Marmorberge, Affenberg und Lady Buddha",
+  "metaDescription": "Tour in Da Nang. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "da-nang-scenic-train-journey-through-vietnam": {
+  "title": "Da Nang: Panorama-Zugreise durch Vietnam",
+  "fullDescription": "Dies ist ein 16-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Zugticket für die gewählte Strecke Hanoi, Reservierter Schlafwagenplatz, Organisation der Zugbuchung und Reiseinformationen und Buchungsdetails. Nicht enthalten sind Abholung und Rückfahrt zum Hotel, Speisen und Getränke, Im Zug gekaufte Speisen oder Getränke und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 16 Stunden",
+   "Zugticket für die gewählte Strecke Hanoi - Da Nang oder Da Nang - Hanoi",
+   "Reservierter Schlafwagenplatz",
+   "Organisation der Zugbuchung",
+   "Reiseinformationen und Buchungsdetails"
+  ],
+  "included": [
+   "Zugticket für die gewählte Strecke Hanoi - Da Nang oder Da Nang - Hanoi",
+   "Reservierter Schlafwagenplatz",
+   "Organisation der Zugbuchung",
+   "Reiseinformationen und Buchungsdetails"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Speisen und Getränke",
+   "Im Zug gekaufte Speisen oder Getränke",
+   "Persönliche Ausgaben",
+   "Leistungen, die in der gewählten Option nicht ausdrücklich genannt sind"
+  ],
+  "shortDescription": "Ganztägige Tour in Da Nang, inklusive Zugticket für die gewählte Strecke Hanoi, Reservierter Schlafwagenplatz und Organisation der Zugbuchung. Durchgeführt von DaNang Smile Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Panorama-Zugreise durch Vietnam",
+  "metaDescription": "Ganztägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "private-hue-day-trip-with-imperial-via-hai-van-pass": {
+  "title": "Hue privat: die Kaiserstadt über den Hai-Van-Pass",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Privater Transport mit englischsprachigem Fahrer, Besuch des Hai-Van-Passes, Besuch von Lang Co, Besuch der Lap-An-Lagune und Besuch der Thien-Mu-Pagode. Nicht enthalten sind Eintrittsgebühren für die Sehenswürdigkeiten, Trinkgeld, Essen und Guide, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 10 Stunden",
+   "Privater Transport mit englischsprachigem Fahrer",
+   "Besuch des Hai-Van-Passes",
+   "Besuch von Lang Co",
+   "Besuch der Lap-An-Lagune",
+   "Besuch der Thien-Mu-Pagode"
+  ],
+  "included": [
+   "Privater Transport mit englischsprachigem Fahrer",
+   "Besuch des Hai-Van-Passes",
+   "Besuch von Lang Co",
+   "Besuch der Lap-An-Lagune",
+   "Besuch der Thien-Mu-Pagode",
+   "Besuch der Kaiserstadt Hue",
+   "Besuch des Khai-Dinh-Grabmals",
+   "Mautgebühren",
+   "Wasser"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für die Sehenswürdigkeiten",
+   "Trinkgeld",
+   "Essen",
+   "Guide"
+  ],
+  "shortDescription": "Ganztägige Tour in Da Nang, inklusive Privater Transport mit englischsprachigem Fahrer, Besuch des Hai-Van-Passes und Besuch von Lang Co. Durchgeführt von SANG HO EXPLORER DAY TRIP, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hue privat: die Kaiserstadt über den Hai-Van-Pass",
+  "metaDescription": "Ganztägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "ninh-binh-scenic-train-experience": {
+  "title": "Ninh Binh: Panorama-Zugerlebnis",
+  "fullDescription": "Dies ist ein 15-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Zugfahrt zwischen Da Nang und Ninh Binh, Weicher Sitz oder weicher Schlafwagenplatz je nach gewählter Option, Reservierter Sitzplatz oder Schlafwagenplatz und Zugbuchung und Reiseinformationen. Nicht enthalten sind Abholung und Rückfahrt zum Hotel, Speisen und Getränke, Im Zug gekaufte Speisen oder Getränke und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 15 Stunden",
+   "Zugfahrt zwischen Da Nang und Ninh Binh",
+   "Weicher Sitz oder weicher Schlafwagenplatz je nach gewählter Option",
+   "Reservierter Sitzplatz oder Schlafwagenplatz",
+   "Zugbuchung und Reiseinformationen"
+  ],
+  "included": [
+   "Zugfahrt zwischen Da Nang und Ninh Binh",
+   "Weicher Sitz oder weicher Schlafwagenplatz je nach gewählter Option",
+   "Reservierter Sitzplatz oder Schlafwagenplatz",
+   "Zugbuchung und Reiseinformationen"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Speisen und Getränke",
+   "Im Zug gekaufte Speisen oder Getränke",
+   "Persönliche Ausgaben",
+   "Leistungen, die in der gewählten Option nicht ausdrücklich genannt sind"
+  ],
+  "shortDescription": "Ganztägige Tour in Da Nang, inklusive Zugfahrt zwischen Da Nang und Ninh Binh, Weicher Sitz oder weicher Schlafwagenplatz je nach gewählter Option und Reservierter Sitzplatz oder Schlafwagenplatz. Durchgeführt von DaNang Smile Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ninh Binh: Panorama-Zugerlebnis",
+  "metaDescription": "Ganztägige Tour in Da Nang. Enthalten: Zugfahrt zwischen Da Nang und Ninh Binh. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "sunrise-photo-tour-and-discover-da-nang-city-by-local-operator": {
+  "title": "Da Nang: Fototour bei Sonnenaufgang und Stadterkundung",
+  "fullDescription": "Dies ist ein 7-stündiges Erlebnis ab Da Nang, rund um Fischerdorf, Radarstation Son Tra und Ban-Co-Gipfel. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel in Hoi An und Da Nang, Guide, Alle Eintrittskarten für sämtliche Aktivitäten und Vietnamesisches Mittagessen. Nicht enthalten sind Persönliche Ausgaben und Getränke und Reiseversicherung, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHoi An. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Fischerdorf",
+   "Radarstation Son Tra",
+   "Ban-Co-Gipfel",
+   "Marmorberge",
+   "Dauer: 7 Stunden",
+   "Abholung und Rückfahrt am Hotel in Hoi An und Da Nang"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel in Hoi An und Da Nang",
+   "Englischsprachiger Guide",
+   "Alle Eintrittskarten für sämtliche Aktivitäten",
+   "Vietnamesisches Mittagessen"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben und Getränke",
+   "Reiseversicherung"
+  ],
+  "shortDescription": "Ganztägige Tour in Da Nang, mit Fischerdorf, Radarstation Son Tra und 7P8C47G7+V3R. Durchgeführt von Simply Vietnam Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Fototour bei Sonnenaufgang und Stadterkundung",
+  "metaDescription": "Ganztägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "b-p-12-m-a-da-nang-seasonal-seafood-dining-experience-by-local-operator": {
+  "title": "Bep 12 Mua in Da Nang: saisonale Meeresfrüchte",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Meeresfrüchte à discrétion, Menü Mua Song Vo im Bep 12 Mua und Vietnamesischer Pfannkuchen mit Languste. Nicht enthalten sind Abholung und Rückfahrt zum Hotel, Transport, Sonstige persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Stunden",
+   "Meeresfrüchte à discrétion, Menü Mua Song Vo im Restaurant Bep 12 Mua in Da Nang",
+   "Vietnamesischer Pfannkuchen mit Languste (nur einmal pro Buchung, mindestens 2 Personen)"
+  ],
+  "included": [
+   "Meeresfrüchte à discrétion, Menü Mua Song Vo im Restaurant Bep 12 Mua in Da Nang",
+   "Vietnamesischer Pfannkuchen mit Languste (nur einmal pro Buchung, mindestens 2 Personen)"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Transport",
+   "Sonstige persönliche Ausgaben",
+   "Trinkgelder",
+   "Getränke"
+  ],
+  "shortDescription": "3-stündige Tour in Da Nang, inklusive Meeresfrüchte à discrétion, Menü Mua Song Vo im Bep 12 Mua und Vietnamesischer Pfannkuchen mit Languste. Durchgeführt von The Phan Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Bep 12 Mua in Da Nang: saisonale Meeresfrüchte",
+  "metaDescription": "3-stündige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "2-day-private-mang-den-highland-tour-by-car-in-da-nang": {
+  "title": "Hochland von Mang Den: 2 Tage im Privatwagen",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Privates klimatisiertes Fahrzeug, Fahrer, Abholung und Rückfahrt am Hotel in Da Nang, Kraftstoff und Wasser in Flaschen. Nicht enthalten sind Hotel oder Homestay in Mang Den, Mahlzeiten und Getränke, Eintrittskarten und Gebühren fürs Reiten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. Danang Private Driver bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Privates klimatisiertes Fahrzeug",
+   "Englischsprachiger Fahrer",
+   "Abholung und Rückfahrt am Hotel in Da Nang",
+   "Kraftstoff, Maut und Parkgebühren",
+   "Wasser in Flaschen"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug",
+   "Englischsprachiger Fahrer",
+   "Abholung und Rückfahrt am Hotel in Da Nang",
+   "Kraftstoff, Maut und Parkgebühren",
+   "Wasser in Flaschen",
+   "Flexibles privates Programm",
+   "Unterkunft und Verpflegung des Fahrers"
+  ],
+  "notIncluded": [
+   "Hotel oder Homestay in Mang Den",
+   "Mahlzeiten und Getränke",
+   "Eintrittskarten",
+   "Gebühren fürs Reiten",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ],
+  "shortDescription": "2-tägige Tour in Da Nang, inklusive Privates klimatisiertes Fahrzeug, Fahrer und Abholung und Rückfahrt am Hotel in Da Nang. Durchgeführt von Danang Private Driver, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hochland von Mang Den: 2 Tage im Privatwagen",
+  "metaDescription": "2-tägige Tour in Da Nang. Enthalten: Privates klimatisiertes Fahrzeug. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "private-surfing-lesson-with-instructor-in-da-nang": {
+  "title": "Da Nang: private Surfstunde mit Instructor",
+  "fullDescription": "Dies ist ein 1,5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Private Surfstunde, und erfahrene Kursleitung, Surfausrüstung, Surf-Lycra und Sonnencreme. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1,5 Stunden",
+   "Private Surfstunde",
+   "Professionelle, erfahrene Kursleitung",
+   "Surfausrüstung",
+   "Surf-Lycra",
+   "Sonnencreme"
+  ],
+  "included": [
+   "Private Surfstunde",
+   "Professionelle, erfahrene Kursleitung",
+   "Surfausrüstung",
+   "Surf-Lycra",
+   "Sonnencreme",
+   "Foto- und Videoaufnahmen zur Selbstanalyse"
+  ],
+  "notIncluded": [],
+  "shortDescription": "1,5-stündige Tour in Da Nang, inklusive Private Surfstunde, und erfahrene Kursleitung und Surfausrüstung. Durchgeführt von Vietnam Epic Experience, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: private Surfstunde mit Instructor",
+  "metaDescription": "1,5-stündige Tour in Da Nang. Enthalten: Private Surfstunde. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "da-nang-evening-experience-charming-show-and-relaxing-massage-by-local-operator": {
+  "title": "Da Nang am Abend: Charming-Show und entspannende Massage",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Ticket für die Charming-Show, 60-minütige Massage und Abhol- und Rückfahrservice. Nicht enthalten sind Mahlzeit und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. Da Nang Ghost Tour bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Stunden",
+   "Ticket für die Charming-Show",
+   "60-minütige Massage",
+   "Abhol- und Rückfahrservice"
+  ],
+  "included": [
+   "Ticket für die Charming-Show",
+   "60-minütige Massage",
+   "Abhol- und Rückfahrservice"
+  ],
+  "notIncluded": [
+   "Mahlzeit",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "3-stündige Tour in Da Nang, inklusive Ticket für die Charming-Show, 60-minütige Massage und Abhol- und Rückfahrservice. Durchgeführt von Da Nang Ghost Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang am Abend: Charming-Show und entspannende Massage",
+  "metaDescription": "3-stündige Tour in Da Nang. Enthalten: Ticket für die Charming-Show. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "vegan-local-food-tasting-experience-no-cooking-in-da-nang": {
+  "title": "Da Nang: Verkostung veganer lokaler Küche",
+  "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind 1 ausgewähltes veganes Combo und In jedem Combo enthaltene Getränke. Nicht enthalten sind Abholung und Rückfahrt zum Hotel, Persönliche Ausgaben, Zusätzliche, nicht genannte Speisen oder Getränke und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1 Stunde",
+   "1 ausgewähltes veganes Combo (Option 1 oder 2)",
+   "In jedem Combo enthaltene Getränke"
+  ],
+  "included": [
+   "1 ausgewähltes veganes Combo (Option 1 oder 2)",
+   "In jedem Combo enthaltene Getränke"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Persönliche Ausgaben",
+   "Zusätzliche, nicht genannte Speisen oder Getränke",
+   "Trinkgelder (optional)"
+  ],
+  "shortDescription": "1-stündige Tour in Da Nang, inklusive 1 ausgewähltes veganes Combo und In jedem Combo enthaltene Getränke. Durchgeführt von DaNang Smile Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Verkostung veganer lokaler Küche",
+  "metaDescription": "1-stündige Tour in Da Nang. Enthalten: 1 ausgewähltes veganes Combo. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "fitness-class-private-personal-trainer-all-levels-in-da-nang": {
+  "title": "Da Nang: Fitnesskurs mit Personal Trainer, alle Level",
+  "fullDescription": "Dies ist ein 1,5-stündiges Erlebnis ab Da Nang, rund um Marmorberge (Ngu Hanh Son). Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Erfahrener Fitness-Coach, Privater 1:1-Coach und Wasserflaschen. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\n38 Gym. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Marmorberge (Ngu Hanh Son)",
+   "Dauer: 1,5 Stunden",
+   "Erfahrener Fitness-Coach",
+   "Privater 1:1-Coach",
+   "Wasserflaschen"
+  ],
+  "included": [
+   "Erfahrener Fitness-Coach",
+   "Privater 1:1-Coach",
+   "Wasserflaschen"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour in Da Nang, mit Marmorberge (Ngu Hanh Son). Durchgeführt von Danang Cooking Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Fitnesskurs mit Personal Trainer, alle Level",
+  "metaDescription": "Tour in Da Nang. Enthalten: Erfahrener Fitness-Coach und Privater 1:1-Coach. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "coffee-making-and-cooking-class-in-da-nang": {
+  "title": "Da Nang: Kaffee- und Kochkurs",
+  "fullDescription": "Dies ist ein 4,5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Workshop zur vietnamesischen Kaffeezubereitung, Praktischer Kochkurs, Zutaten und Ausrüstung für die Kaffeezubereitung, Frische lokale Zutaten für die Kochaktivitäten und Verkostung des Kaffees und der im Kurs zubereiteten Gerichte. Nicht enthalten sind Abholung und Rückfahrt zum Hotel und Speisen oder Getränke außerhalb des Kurses, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 4,5 Stunden",
+   "Workshop zur vietnamesischen Kaffeezubereitung",
+   "Praktischer Kochkurs",
+   "Zutaten und Ausrüstung für die Kaffeezubereitung",
+   "Frische lokale Zutaten für die Kochaktivitäten",
+   "Verkostung des Kaffees und der im Kurs zubereiteten Gerichte"
+  ],
+  "included": [
+   "Workshop zur vietnamesischen Kaffeezubereitung",
+   "Praktischer Kochkurs",
+   "Zutaten und Ausrüstung für die Kaffeezubereitung",
+   "Frische lokale Zutaten für die Kochaktivitäten",
+   "Verkostung des Kaffees und der im Kurs zubereiteten Gerichte",
+   "Einheimischer englischsprachiger Gastgeber"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Speisen oder Getränke außerhalb des Kurses"
+  ],
+  "shortDescription": "Tour in Da Nang, inklusive Workshop zur vietnamesischen Kaffeezubereitung, Praktischer Kochkurs und Zutaten und Ausrüstung für die Kaffeezubereitung. Durchgeführt von Jolie Cooking Class, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Kaffee- und Kochkurs",
+  "metaDescription": "Tour in Da Nang. Enthalten: Workshop zur vietnamesischen Kaffeezubereitung. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "sun-world-ba-na-hills-entry-ticket-show": {
+  "title": "Sun World Ba Na Hills: Eintrittskarte und Show",
+  "fullDescription": "Dies ist ein Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Eintrittskarte für Sun World Ba Na Hills, Zugang zur Seilbahn und Ticket für die Charming-Da-Nang-Show. Nicht enthalten sind Transport nach Ba Na Hills, Speisen und Getränke und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Eintrittskarte für Sun World Ba Na Hills (alle Optionen inklusive)",
+   "Zugang zur Seilbahn (bei Wahl dieser Option)",
+   "Ticket für die Charming-Da-Nang-Show (bei Wahl dieser Option)"
+  ],
+  "included": [
+   "Eintrittskarte für Sun World Ba Na Hills (alle Optionen inklusive)",
+   "Zugang zur Seilbahn (bei Wahl dieser Option)",
+   "Ticket für die Charming-Da-Nang-Show (bei Wahl dieser Option)"
+  ],
+  "notIncluded": [
+   "Transport nach Ba Na Hills",
+   "Speisen und Getränke",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Eintrittskarte in Da Nang, inklusive Eintrittskarte für Sun World Ba Na Hills, Zugang zur Seilbahn und Ticket für die Charming-Da-Nang-Show. Durchgeführt von KENT HOLIDAYS TRAVEL COMPANY LIMITED, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Sun World Ba Na Hills: Eintrittskarte und Show",
+  "metaDescription": "Eintrittskarte in Da Nang. Enthalten: Eintrittskarte für Sun World Ba Na Hills. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "traditional-cooking-class-and-pho-with-local-girl-in-da-nang": {
+  "title": "Da Nang: traditioneller Kochkurs und Pho mit einer Einheimischen",
+  "fullDescription": "Dies ist ein 2,5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Chefkoch, Zutaten für den Kochkurs, Maracujasaft nach Belieben und Mahlzeit mit Spezialitäten. Nicht enthalten sind Abholung und Rückfahrt zum Hotel und Weitere nicht genannte persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2,5 Stunden",
+   "Englischsprachiger Chefkoch",
+   "Zutaten für den Kochkurs",
+   "Maracujasaft nach Belieben",
+   "Mahlzeit mit Spezialitäten"
+  ],
+  "included": [
+   "Englischsprachiger Chefkoch",
+   "Zutaten für den Kochkurs",
+   "Maracujasaft nach Belieben",
+   "Mahlzeit mit Spezialitäten"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Weitere nicht genannte persönliche Ausgaben"
+  ],
+  "shortDescription": "2,5-stündige Tour in Da Nang, inklusive Chefkoch, Zutaten für den Kochkurs und Maracujasaft nach Belieben. Durchgeführt von Dich vu du lich lang que Cam Thanh, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: traditioneller Kochkurs und Pho mit einer Einheimischen",
+  "metaDescription": "2,5-stündige Tour in Da Nang. Enthalten: Chefkoch und Zutaten für den Kochkurs. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "hue-imperial-citadel-tombs-perfume-river-boat-tour-and-van-da-nang": {
+  "title": "Hue: Zitadelle, Gräber und Bootsfahrt auf dem Parfümfluss, mit dem Van",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis ab Da Nang, rund um Flussboot, Pagode der Himmlischen Dame und Historische Zitadelle von Hue. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt im Stadtzentrum, Hochwertiger klimatisierter Transport, Guide, Mittagessen und Eintrittsgebühren. Nicht enthalten sind Getränke zum Mittagessen, Trinkgelder für Fahrer und Reiseleiter und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. VM Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Flussboot",
+   "Pagode der Himmlischen Dame",
+   "Historische Zitadelle von Hue",
+   "Lokales Restaurant",
+   "Dauer: 4 Stunden",
+   "Abholung und Rückfahrt im Stadtzentrum"
+  ],
+  "included": [
+   "Abholung und Rückfahrt im Stadtzentrum",
+   "Hochwertiger klimatisierter Transport",
+   "Englischsprachiger Guide",
+   "Mittagessen (Gerichte aus Hue)",
+   "Eintrittsgebühren",
+   "Traditionelles Kräuter-Fußbad",
+   "Wasser und Tücher"
+  ],
+  "notIncluded": [
+   "Getränke zum Mittagessen",
+   "Trinkgelder für Fahrer und Reiseleiter (optional)",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Tour in Da Nang, mit Flussboot, Pagode der Himmlischen Dame und Historische Zitadelle von Hue. Durchgeführt von VM Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hue: Zitadelle, Gräber und Bootsfahrt auf dem Parfümfluss, mit dem Van",
+  "metaDescription": "Tour in Da Nang. Enthalten: Abholung und Rückfahrt im Stadtzentrum. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "da-nang-or-hue-hai-van-pass-scenic-train-ticket-by-local-operator": {
+  "title": "Da Nang oder Hue: Panorama-Zugticket über den Hai-Van-Pass",
+  "fullDescription": "Dies ist ein 3,5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Einfaches Zugticket, Von Vietnam Railways zugewiesener reservierter Sitzplatz, Bahnfahrt über den Hai-Van-Pass und Standard-Gepäckfreimenge gemäß den Bestimmungen von Vietnam Railways. Nicht enthalten sind Abholung oder Rückfahrt zum Hotel, Mahlzeiten und Getränke, Guide und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3,5 Stunden",
+   "Einfaches Zugticket",
+   "Von Vietnam Railways zugewiesener reservierter Sitzplatz",
+   "Bahnfahrt über den Hai-Van-Pass",
+   "Standard-Gepäckfreimenge gemäß den Bestimmungen von Vietnam Railways"
+  ],
+  "included": [
+   "Einfaches Zugticket",
+   "Von Vietnam Railways zugewiesener reservierter Sitzplatz",
+   "Bahnfahrt über den Hai-Van-Pass",
+   "Standard-Gepäckfreimenge gemäß den Bestimmungen von Vietnam Railways"
+  ],
+  "notIncluded": [
+   "Abholung oder Rückfahrt zum Hotel",
+   "Mahlzeiten und Getränke",
+   "Guide",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Eintrittskarte in Da Nang, inklusive Einfaches Zugticket, Von Vietnam Railways zugewiesener reservierter Sitzplatz und Bahnfahrt über den Hai-Van-Pass. Durchgeführt von Viet Nam Daily Tours, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang oder Hue: Panorama-Zugticket über den Hai-Van-Pass",
+  "metaDescription": "Eintrittskarte in Da Nang. Enthalten: Einfaches Zugticket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "ba-na-hills-early-access-and-golden-bridge-tour": {
+  "title": "Ba Na Hills mit Früheinlass und Goldene Brücke",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Da Nang, rund um Sun World Ba Na Hills. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Hoi An und Da Nang möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit R Vietnam Travel Expert abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Seilbahnfahrt, Führung durch Ba Na Hills, Besuch der Goldenen Brücke und Mittagessen. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. R Vietnam Travel Expert bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Sun World Ba Na Hills",
+   "Dauer: 8 Stunden",
+   "Abholung und Rückfahrt zum Hotel",
+   "Seilbahnfahrt",
+   "Führung durch Ba Na Hills",
+   "Besuch der Goldenen Brücke"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Seilbahnfahrt",
+   "Führung durch Ba Na Hills",
+   "Besuch der Goldenen Brücke",
+   "Mittagessen"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Ganztägige Tour in Da Nang, mit Sun World Ba Na Hills. Durchgeführt von R Vietnam Travel Expert, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ba Na Hills mit Früheinlass und Goldene Brücke",
+  "metaDescription": "Ganztägige Tour in Da Nang. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "depart-from-da-nang-ba-na-hills-and-golden-bridge-day-tour-by-local-operator": {
+  "title": "Ab Da Nang: Ba Na Hills und Goldene Brücke an einem Tag",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Seilbahn hin und zurück, Mittagsbuffet in Ba Na, Eintrittsgebühren für die Besichtigungen, Mineralwasser und Transfer im Reisebus. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 10 Stunden",
+   "Seilbahn hin und zurück",
+   "Mittagsbuffet in Ba Na",
+   "Eintrittsgebühren für die Besichtigungen",
+   "Mineralwasser",
+   "Transfer im Reisebus"
+  ],
+  "included": [
+   "Seilbahn hin und zurück",
+   "Mittagsbuffet in Ba Na",
+   "Eintrittsgebühren für die Besichtigungen",
+   "Mineralwasser",
+   "Transfer im Reisebus",
+   "Englischsprachiger Guide"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Ganztägige Tour in Da Nang, inklusive Seilbahn hin und zurück, Mittagsbuffet in Ba Na und Eintrittsgebühren für die Besichtigungen. Durchgeführt von Vietnam in your palm, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ab Da Nang: Ba Na Hills und Goldene Brücke an einem Tag",
+  "metaDescription": "Ganztägige Tour in Da Nang. Enthalten: Seilbahn hin und zurück. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "hue-heritage-train-journey-and-cultural-experience": {
+  "title": "Hue: Fahrt mit dem Heritage-Zug und Kulturerlebnis",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Unterstützung bei der Buchung der Heritage-Zugtickets, Reservierter Zugsitzplatz, Buchungsunterstützung vor der Abreise und Einfache Fahrt oder Hin- und Rückfahrt. Nicht enthalten sind Betreuung während der Zugfahrt, Abholung und Rückfahrt zum Hotel, Mahlzeiten oder Getränke und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Stunden",
+   "Unterstützung bei der Buchung der Heritage-Zugtickets",
+   "Reservierter Zugsitzplatz",
+   "Buchungsunterstützung vor der Abreise",
+   "Einfache Fahrt oder Hin- und Rückfahrt (je nach gewählter Option)"
+  ],
+  "included": [
+   "Unterstützung bei der Buchung der Heritage-Zugtickets",
+   "Reservierter Zugsitzplatz",
+   "Buchungsunterstützung vor der Abreise",
+   "Einfache Fahrt oder Hin- und Rückfahrt (je nach gewählter Option)"
+  ],
+  "notIncluded": [
+   "Betreuung während der Zugfahrt",
+   "Abholung und Rückfahrt zum Hotel",
+   "Mahlzeiten oder Getränke",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "3-stündige Tour in Da Nang, inklusive Unterstützung bei der Buchung der Heritage-Zugtickets, Reservierter Zugsitzplatz und Buchungsunterstützung vor der Abreise. Durchgeführt von DaNang Smile Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hue: Fahrt mit dem Heritage-Zug und Kulturerlebnis",
+  "metaDescription": "3-stündige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "tour-trekking-hue-bach-ma-national-park-daily-da-nang": {
+  "title": "Hue: tägliche Wanderung im Bach-Ma-Nationalpark",
+  "fullDescription": "Dies ist ein 6-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Neues klimatisiertes Auto, Motorrad, Guide, Picknick-Mittagessen und Eintrittsgebühr. Nicht enthalten sind Persönliche Ausgaben, Trinkgeld und Alkoholische Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 6 Stunden",
+   "Neues klimatisiertes Auto",
+   "Motorrad",
+   "Guide",
+   "Picknick-Mittagessen",
+   "Eintrittsgebühr"
+  ],
+  "included": [
+   "Neues klimatisiertes Auto",
+   "Motorrad",
+   "Guide",
+   "Picknick-Mittagessen",
+   "Eintrittsgebühr",
+   "Mineralwasser (2 Flaschen pro Person)",
+   "Tee und Kaffee",
+   "Inländische Touristenversicherung, Höchstentschädigung 25.000.000 VND"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgeld",
+   "Alkoholische Getränke (vor Ort erhältlich)"
+  ],
+  "shortDescription": "Halbtägige Tour in Da Nang, inklusive Neues klimatisiertes Auto, Motorrad und Guide. Durchgeführt von TNT TRAVEL CO,. LTD, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hue: tägliche Wanderung im Bach-Ma-Nationalpark",
+  "metaDescription": "Halbtägige Tour in Da Nang. Enthalten: Neues klimatisiertes Auto und Motorrad. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "woodblock-printing-workshop-and-craft-village-visit-in-da-nang": {
+  "title": "Da Nang: Holzschnitt-Workshop und Besuch eines Handwerksdorfs",
+  "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Kursleiter, 60-minütiges Holzschnitt-Erlebnis, Handwerkstour durch das Dorf, 1 Willkommensgetränk und 1 kühles Handtuch. Nicht enthalten sind Mahlzeiten und Transport zum und vom Ort, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1 Stunde",
+   "Kursleiter",
+   "60-minütiges Holzschnitt-Erlebnis",
+   "Handwerkstour durch das Dorf",
+   "1 Willkommensgetränk",
+   "1 kühles Handtuch"
+  ],
+  "included": [
+   "Kursleiter",
+   "60-minütiges Holzschnitt-Erlebnis",
+   "Handwerkstour durch das Dorf",
+   "1 Willkommensgetränk",
+   "1 kühles Handtuch",
+   "1 fertiger Holzschnitt auf Do-Papier, verpackt in einer Papprolle und einer Papiertüte",
+   "120-minütiges Erlebnis: Holzschnitt und Herstellung eines vietnamesischen Do-Notizbuchs",
+   "1 farbiger Holzschnitt und 1 handgefertigtes Notizbuch aus Do-Papier"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Transport zum und vom Ort"
+  ],
+  "shortDescription": "1-stündige Tour in Da Nang, inklusive Kursleiter, 60-minütiges Holzschnitt-Erlebnis und Handwerkstour durch das Dorf. Durchgeführt von The Hangart Da Nang, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Holzschnitt-Workshop und Besuch eines Handwerksdorfs",
+  "metaDescription": "1-stündige Tour in Da Nang. Enthalten: Kursleiter. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "ba-na-hills-tour-with-cable-car-and-lunch-options-da-nang": {
+  "title": "Ba Na Hills mit Seilbahn und Mittagsoptionen",
+  "fullDescription": "Dies ist ein 9-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel im Zentrum von Da Nang, Geteilter Transport, Guide, Seilbahnticket für Ba Na Hills und Eintrittsgebühren. Nicht enthalten sind Ticket für das Wachsfigurenkabinett, Alpine Coaster, Persönliche Ausgaben und Reiseversicherung, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. The Luxe Trails bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 9 Stunden",
+   "Abholung und Rückfahrt am Hotel im Zentrum von Da Nang",
+   "Geteilter Transport",
+   "Englischsprachiger Guide",
+   "Seilbahnticket für Ba Na Hills",
+   "Eintrittsgebühren"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel im Zentrum von Da Nang",
+   "Geteilter Transport",
+   "Englischsprachiger Guide",
+   "Seilbahnticket für Ba Na Hills",
+   "Eintrittsgebühren",
+   "Mittagsbuffet (falls in der Option enthalten)",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Ticket für das Wachsfigurenkabinett",
+   "Alpine Coaster",
+   "Persönliche Ausgaben",
+   "Reiseversicherung",
+   "Trinkgelder (optional)"
+  ],
+  "shortDescription": "Tour in Da Nang, inklusive Abholung und Rückfahrt am Hotel im Zentrum von Da Nang, Geteilter Transport und Guide. Durchgeführt von The Luxe Trails, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ba Na Hills mit Seilbahn und Mittagsoptionen",
+  "metaDescription": "Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "gourmet-lunch-and-drinks-at-citron-in-da-nang": {
+  "title": "Da Nang: Gourmet-Mittagessen und Getränke im Citron",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Mittagsmenü mit 4 Gängen, All-you-can-drink-Optionen und Reservierung im Voraus. Nicht enthalten sind Transport zum und vom Restaurant Citron und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 4 Stunden",
+   "Mittagsmenü mit 4 Gängen (Vorspeise, Suppe, Hauptgang, Dessert)",
+   "All-you-can-drink-Optionen",
+   "Reservierung im Voraus"
+  ],
+  "included": [
+   "Mittagsmenü mit 4 Gängen (Vorspeise, Suppe, Hauptgang, Dessert)",
+   "All-you-can-drink-Optionen",
+   "Reservierung im Voraus"
+  ],
+  "notIncluded": [
+   "Transport zum und vom Restaurant Citron",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Halbtägige Tour in Da Nang, inklusive Mittagsmenü mit 4 Gängen, All-you-can-drink-Optionen und Reservierung im Voraus. Durchgeführt von Southern Breeze Joint stock company, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Gourmet-Mittagessen und Getränke im Citron",
+  "metaDescription": "Halbtägige Tour in Da Nang. Enthalten: Mittagsmenü mit 4 Gängen. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "tandoori-naan-bread-making-class-in-da-nang": {
+  "title": "Da Nang: Kurs zum Backen von Tandoori-Naan",
+  "fullDescription": "Dies ist ein Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Kurs zum Backen von Tandoori-Naan, Praktisches Erlebnis, Anleitung durch einen Profikoch, Verkostung von frisch gebackenem Naan und Hausgemachte Dips. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Kurs zum Backen von Tandoori-Naan",
+   "Praktisches Erlebnis",
+   "Anleitung durch einen Profikoch",
+   "Verkostung von frisch gebackenem Naan",
+   "Hausgemachte Dips"
+  ],
+  "included": [
+   "Kurs zum Backen von Tandoori-Naan",
+   "Praktisches Erlebnis",
+   "Anleitung durch einen Profikoch",
+   "Verkostung von frisch gebackenem Naan",
+   "Hausgemachte Dips"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour in Da Nang, inklusive Kurs zum Backen von Tandoori-Naan, Praktisches Erlebnis und Anleitung durch einen Profikoch. Durchgeführt von RANG Danang, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Kurs zum Backen von Tandoori-Naan",
+  "metaDescription": "Tour in Da Nang. Enthalten: Kurs zum Backen von Tandoori-Naan. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "luxury-nail-and-lash-experience-pickup-included-in-da-nang": {
+  "title": "Da Nang: hochwertige Nagel- und Wimpernbehandlung inklusive Abholung",
+  "fullDescription": "Dies ist ein 20-minütiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Kostenlose Gepäckaufbewahrung, Duschraum, Tee, Handtuch und Hausschuhe. Nicht enthalten sind Transport zum und vom Spa und Mahlzeiten und Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 20 Minuten",
+   "Kostenlose Gepäckaufbewahrung",
+   "Duschraum",
+   "Tee",
+   "Handtuch",
+   "Hausschuhe"
+  ],
+  "included": [
+   "Kostenlose Gepäckaufbewahrung",
+   "Duschraum",
+   "Tee",
+   "Handtuch",
+   "Hausschuhe",
+   "Schließfach"
+  ],
+  "notIncluded": [
+   "Transport zum und vom Spa",
+   "Mahlzeiten und Getränke"
+  ],
+  "shortDescription": "0,3333333333333333-stündige Tour in Da Nang, inklusive Kostenlose Gepäckaufbewahrung, Duschraum und Tee. Durchgeführt von Bee honey Spa, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: hochwertige Nagel- und Wimpernbehandlung inklusive Abholung",
+  "metaDescription": "0,3333333333333333-stündige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "chan-may-port-golden-bridge-ba-na-hills-full-day-trip-da-nang": {
+  "title": "Hafen Chan May: Goldene Brücke und Ba Na Hills, ganzer Tag",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Da Nang, rund um Hai-Van-Pass und Goldene Brücke in Ba Na Hills. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hafen Chan May, Privates klimatisiertes Fahrzeug, Reiseleiter, Seilbahnticket und Mittagsbuffet. Nicht enthalten sind Mittagessen, Tickets für den Weinkeller und das Wachsfigurenkabinett, Andere Getränke und persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nCHAN MAY PORT JOINT STOCK COMPANY - Công ty Cổ phần Cảng Chân Mây. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Hai-Van-Pass",
+   "Goldene Brücke in Ba Na Hills",
+   "Dauer: 8 Stunden",
+   "Abholung und Rückfahrt am Hafen Chan May",
+   "Privates klimatisiertes Fahrzeug",
+   "Englischsprachiger Reiseleiter (Optionen 1 und 2)"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hafen Chan May",
+   "Privates klimatisiertes Fahrzeug",
+   "Englischsprachiger Reiseleiter (Optionen 1 und 2)",
+   "Seilbahnticket (Optionen 1 und 2)",
+   "Mittagsbuffet (Option 1)",
+   "Alle Steuern und Servicegebühren"
+  ],
+  "notIncluded": [
+   "Mittagessen (Optionen 2 und 3)",
+   "Seilbahnticket (Option 3)",
+   "Tickets für den Weinkeller und das Wachsfigurenkabinett",
+   "Andere Getränke und persönliche Ausgaben",
+   "Trinkgelder (optional)"
+  ],
+  "shortDescription": "Ganztägige Tour in Da Nang, mit Hai-Van-Pass und Goldene Brücke in Ba Na Hills. Durchgeführt von AN AN TRAVEL HOI AN, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hafen Chan May: Goldene Brücke und Ba Na Hills, ganzer Tag",
+  "metaDescription": "Ganztägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "ba-na-hills-and-golden-bridge-cable-car-ticket": {
+  "title": "Ba Na Hills und Goldene Brücke: Seilbahnticket",
+  "fullDescription": "Dies ist ein Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Seilbahnticket für Ba Na Hills und die Goldene Brücke und Mittagsbuffet. Nicht enthalten sind Persönliche Ausgaben und Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Seilbahnticket für Ba Na Hills und die Goldene Brücke",
+   "Mittagsbuffet (bei Wahl dieser Option)"
+  ],
+  "included": [
+   "Seilbahnticket für Ba Na Hills und die Goldene Brücke",
+   "Mittagsbuffet (bei Wahl dieser Option)"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Abholung und Rückfahrt zum Hotel"
+  ],
+  "shortDescription": "Eintrittskarte in Da Nang, inklusive Seilbahnticket für Ba Na Hills und die Goldene Brücke und Mittagsbuffet. Durchgeführt von Hoi An Express, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ba Na Hills und Goldene Brücke: Seilbahnticket",
+  "metaDescription": "Eintrittskarte in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "charming-da-nang-show-culture-history-art-vietnamese-show-by-local-operator": {
+  "title": "Charming-Da-Nang-Show: vietnamesische Kultur, Geschichte und Kunst",
+  "fullDescription": "Dies ist ein 70-minütiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Eintrittskarten für 11 verschiedene Vorführungen. Nicht enthalten sind Abholung oder Rückfahrt, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 70 Minuten",
+   "Eintrittskarten für 11 verschiedene Vorführungen"
+  ],
+  "included": [
+   "Eintrittskarten für 11 verschiedene Vorführungen."
+  ],
+  "notIncluded": [
+   "Abholung oder Rückfahrt."
+  ],
+  "shortDescription": "Tour in Da Nang, inklusive Eintrittskarten für 11 verschiedene Vorführungen. Durchgeführt von Funtastic Basket Boat Tours and Cooking Class, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Charming-Da-Nang-Show: vietnamesische Kultur, Geschichte und Kunst",
+  "metaDescription": "Tour in Da Nang. Enthalten: Eintrittskarten für 11 verschiedene Vorführungen. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "full-day-tour-explore-hue-imperial-city": {
+  "title": "Ganztagestour durch die Kaiserstadt Hue",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHue war von 1802 bis 1945 die Hauptstadt der Nguyen-Kaiser und birgt die Kaiserstadt in ihrer Zitadelle am Parfümfluss, eine ummauerte Anlage nach dem Vorbild der Pekinger Verbotenen Stadt, 1968 schwer beschädigt und Gebäude für Gebäude in Restaurierung. Außerhalb der Stadt liegen am Fluss die Kaisergräber, jedes vom Kaiser selbst entworfen: Tu Ducs Seen und Pavillons, Minh Mangs Symmetrie, Khai Dinhs Beton-und-Mosaik-Überschwang am Ende von 127 Stufen. Der siebenstöckige Turm der Thien-Mu-Pagode am Ufer ist das Wahrzeichen der Stadt. Von Da Nang oder Hoi An erreicht man Hue in zwei bis drei Stunden über den Hai-Van-Pass; Tagestouren packen die Zitadelle, zwei Gräber und die Pagode in acht Stunden, und das Essen, von bun bo Hue bis zu den Gerichten des Kaiserbanketts, ist das beste des Landes.\n\nIm Preis enthalten sind Klimatisierter Transport, Reiseleiter, Mittagessen in einem lokalen Restaurant, Mineralwasser: 500 ml pro Person und Reiseversicherung. Nicht enthalten sind Persönliche Ausgaben, Eintrittsgebühren, Zuschlag bei Abholung in Hoi An und Feiertagszuschlag, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 10 Stunden",
+   "Klimatisierter Transport",
+   "Englischsprachiger Reiseleiter (Zuschlag für andere Sprachen)",
+   "Mittagessen in einem lokalen Restaurant",
+   "Mineralwasser: 500 ml pro Person",
+   "Reiseversicherung"
+  ],
+  "included": [
+   "Klimatisierter Transport",
+   "Englischsprachiger Reiseleiter (Zuschlag für andere Sprachen)",
+   "Mittagessen in einem lokalen Restaurant",
+   "Mineralwasser: 500 ml pro Person",
+   "Reiseversicherung"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Eintrittsgebühren (350.000 VND pro Person)",
+   "Zuschlag bei Abholung in Hoi An",
+   "Feiertagszuschlag",
+   "Verfügbarkeit über WhatsApp oder telefonisch unter +84 888 348 800 prüfen"
+  ],
+  "shortDescription": "Ganztägige Tour in Da Nang, inklusive Klimatisierter Transport, Reiseleiter und Mittagessen in einem lokalen Restaurant. Durchgeführt von BEST TADY TOUR, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ganztagestour durch die Kaiserstadt Hue",
+  "metaDescription": "Ganztägige Tour in Da Nang. Enthalten: Klimatisierter Transport. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "small-group-speedboat-and-fishing-experience-in-da-nang": {
+  "title": "Da Nang: Schnellboot und Angeln in kleiner Gruppe",
+  "fullDescription": "Dies ist ein 2-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Schnellboot-Erlebnis in kleiner Gruppe, Angelausrüstung, Schnorchelausrüstung, SUP-Board und Schwimmweste. Nicht enthalten sind Abholung und Rückfahrt zum Hotel, Persönliche Ausgaben, Mahlzeiten und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Stunden",
+   "Schnellboot-Erlebnis in kleiner Gruppe",
+   "Angelausrüstung",
+   "Schnorchelausrüstung",
+   "SUP-Board",
+   "Schwimmweste"
+  ],
+  "included": [
+   "Schnellboot-Erlebnis in kleiner Gruppe",
+   "Angelausrüstung",
+   "Schnorchelausrüstung",
+   "SUP-Board",
+   "Schwimmweste",
+   "Trinkwasser in Flaschen",
+   "Frisches Obst",
+   "Reiseversicherung",
+   "Unterstützung durch die Crew"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Persönliche Ausgaben",
+   "Mahlzeiten",
+   "Trinkgelder"
+  ],
+  "shortDescription": "2-stündige Tour in Da Nang, inklusive Schnellboot-Erlebnis in kleiner Gruppe, Angelausrüstung und Schnorchelausrüstung. Durchgeführt von DaNang Smile Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Schnellboot und Angeln in kleiner Gruppe",
+  "metaDescription": "2-stündige Tour in Da Nang. Enthalten: Schnellboot-Erlebnis in kleiner Gruppe. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "son-tra-peninsula-sunrise-or-sunset-jeep-tour-in-da-nang": {
+  "title": "Halbinsel Son Tra: Jeep-Tour bei Sonnenauf- oder -untergang",
+  "fullDescription": "Dies ist ein 4,5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Panoramafahrt im Jeep über die Halbinsel Son Tra, Besuch von Ban Co, Besuch des Aussichtspunkts Son Tra und Besuch des Hubschrauberlandeplatzes. Nicht enthalten sind Mahlzeiten und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. Authentic Vietnam Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 4,5 Stunden",
+   "Abholung und Rückfahrt zum Hotel",
+   "Panoramafahrt im Jeep über die Halbinsel Son Tra",
+   "Besuch von Ban Co, dem Schachbrett-Gipfel",
+   "Besuch des Aussichtspunkts Son Tra",
+   "Besuch des Hubschrauberlandeplatzes"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Panoramafahrt im Jeep über die Halbinsel Son Tra",
+   "Besuch von Ban Co, dem Schachbrett-Gipfel",
+   "Besuch des Aussichtspunkts Son Tra",
+   "Besuch des Hubschrauberlandeplatzes",
+   "Kaffeepause mit Panoramablick",
+   "Besuch der Linh-Ung-Pagode",
+   "Englischsprachiger Guide"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Tour in Da Nang, inklusive Abholung und Rückfahrt zum Hotel, Panoramafahrt im Jeep über die Halbinsel Son Tra und Besuch von Ban Co. Durchgeführt von Authentic Vietnam Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Halbinsel Son Tra: Jeep-Tour bei Sonnenauf- oder -untergang",
+  "metaDescription": "Tour in Da Nang. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "cooking-pho-and-vietnamese-dishes-with-local-chef": {
+  "title": "Pho und vietnamesische Gerichte mit einem einheimischen Koch zubereiten",
+  "fullDescription": "Dies ist ein 2,5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nVietnamesisches Essen ändert sich alle 300 Kilometer, und eine Food-Tour ist der schnellste Weg, eine Stadt kennenzulernen: in Hanoi sind es pho, bun cha, banh cuon und Eierkaffee in der Altstadt; in Hue die kaiserlichen kleinen Gerichte und bun bo Hue; in Hoi An cao lau, White-Rose-Teigtaschen und banh mi von dem Stand, den Anthony Bourdain berühmt gemacht hat; in Saigon die südliche Süße, Bruchreis, banh xeo und die Straßentische von Distrikt 4. Kochkurse beginnen auf dem Markt bei Kräutern, Reispapier und Fischsauce und kochen vier oder fünf Gerichte; Frühlingsrollen und pho sind gesetzt. Vegetarisch lässt sich vorab leicht einrichten, und „khong cay“ heißt nicht scharf.\n\nIm Preis enthalten sind Kochzutaten, Maracujasaft nach Belieben, Mittag- oder Abendessen und Rezept. Nicht enthalten sind Abholung und Rückfahrt zum Hotel, Weitere Getränke und Weitere nicht genannte Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2,5 Stunden",
+   "Kochzutaten",
+   "Maracujasaft nach Belieben",
+   "Mittag- oder Abendessen",
+   "Rezept"
+  ],
+  "included": [
+   "Kochzutaten",
+   "Maracujasaft nach Belieben",
+   "Mittag- oder Abendessen",
+   "Rezept"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Weitere Getränke",
+   "Weitere nicht genannte Ausgaben"
+  ],
+  "shortDescription": "Tour in Da Nang, inklusive Kochzutaten, Maracujasaft nach Belieben und Mittag- oder Abendessen. Durchgeführt von Da Nang Happy Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Pho und vietnamesische Gerichte mit einem einheimischen Koch zubereiten",
+  "metaDescription": "Tour in Da Nang. Enthalten: Kochzutaten und Maracujasaft nach Belieben. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "ba-na-hills-golden-bridge-and-fantasy-park-adventure": {
+  "title": "Ba Na Hills, Goldene Brücke und Fantasy Park",
+  "fullDescription": "Dies ist ein 9-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Autoservice mit Abholung und Rückfahrt im Zentrum von Da Nang, Reiseleiter, Seilbahnticket hin und zurück und Wasser in Flaschen. Nicht enthalten sind Ticket für die Attraktionen, Mittagsbuffet, Trinkgelder für Reiseleiter und Fahrer und Zuschlag an vietnamesischen Feiertagen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. Luxury Vietnam Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 9 Stunden",
+   "Autoservice mit Abholung und Rückfahrt im Zentrum von Da Nang (Zuschlag in Hoi An und außerhalb des Zentrums)",
+   "Englischsprachiger Reiseleiter (Zuschlag für andere Sprachen)",
+   "Seilbahnticket hin und zurück",
+   "Wasser in Flaschen (1 Flasche pro Person)"
+  ],
+  "included": [
+   "Autoservice mit Abholung und Rückfahrt im Zentrum von Da Nang (Zuschlag in Hoi An und außerhalb des Zentrums)",
+   "Englischsprachiger Reiseleiter (Zuschlag für andere Sprachen)",
+   "Seilbahnticket hin und zurück",
+   "Wasser in Flaschen (1 Flasche pro Person)"
+  ],
+  "notIncluded": [
+   "Ticket für die Attraktionen",
+   "Mittagsbuffet (gegen Aufpreis)",
+   "Trinkgelder für Reiseleiter und Fahrer (optional)",
+   "Zuschlag an vietnamesischen Feiertagen"
+  ],
+  "shortDescription": "Ganztägige Tour in Da Nang, inklusive Autoservice mit Abholung und Rückfahrt im Zentrum von Da Nang, Reiseleiter und Seilbahnticket hin und zurück. Durchgeführt von Luxury Vietnam Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ba Na Hills, Goldene Brücke und Fantasy Park",
+  "metaDescription": "Ganztägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "charming-danang-show-ticket": {
+  "title": "Ticket für die Charming-Da-Nang-Show",
+  "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Eintrittskarte. Nicht enthalten sind Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1 Stunde",
+   "Eintrittskarte"
+  ],
+  "included": [
+   "Eintrittskarte"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel"
+  ],
+  "shortDescription": "Eintrittskarte in Da Nang, inklusive Eintrittskarte. Durchgeführt von Da Nang Ghost Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ticket für die Charming-Da-Nang-Show",
+  "metaDescription": "Eintrittskarte in Da Nang. Enthalten: Eintrittskarte. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "sun-world-ba-na-hills-entry-ticket-with-cable-car": {
+  "title": "Sun World Ba Na Hills: Eintrittskarte mit Seilbahn",
+  "fullDescription": "Dies ist ein ganztägiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Eintritt zu den Attraktionen mit Seilbahn hin und zurück. Nicht enthalten sind Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: ganztägig",
+   "Eintritt zu den Attraktionen mit Seilbahn hin und zurück"
+  ],
+  "included": [
+   "Eintritt zu den Attraktionen mit Seilbahn hin und zurück"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Eintrittskarte in Da Nang, inklusive Eintritt zu den Attraktionen mit Seilbahn hin und zurück. Durchgeführt von FLEXIBLE SOLUTIONS TRADING AND TOURISM ONE MEMBER COMPANY LIMITED, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Sun World Ba Na Hills: Eintrittskarte mit Seilbahn",
+  "metaDescription": "Eintrittskarte in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "ba-na-by-night-from-da-nang-by-local-operator": {
+  "title": "Ba Na bei Nacht ab Da Nang",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Bus hin und zurück von Da Nang nach Ba Na Hills, Seilbahnticket hin und zurück, Abendbuffet und Getränke und Der Preis beinhaltet alle genannten Leistungen. Nicht enthalten sind Persönliche Ausgaben und Tickets für das Wachsfigurenkabinett, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 8 Stunden",
+   "Bus hin und zurück von Da Nang nach Ba Na Hills",
+   "Seilbahnticket hin und zurück",
+   "Abendbuffet und Getränke",
+   "Der Preis beinhaltet alle genannten Leistungen"
+  ],
+  "included": [
+   "Bus hin und zurück von Da Nang nach Ba Na Hills",
+   "Seilbahnticket hin und zurück",
+   "Abendbuffet und Getränke",
+   "Der Preis beinhaltet alle genannten Leistungen"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Tickets für das Wachsfigurenkabinett"
+  ],
+  "shortDescription": "Ganztägige Tour in Da Nang, inklusive Bus hin und zurück von Da Nang nach Ba Na Hills, Seilbahnticket hin und zurück und Abendbuffet und Getränke. Durchgeführt von Hava Tourist, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ba Na bei Nacht ab Da Nang",
+  "metaDescription": "Ganztägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "guided-painting-workshop-with-coffee-in-da-nang": {
+  "title": "Da Nang: geführter Malworkshop mit Kaffee",
+  "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind 1 Getränk nach Wahl von der Karte des Hangart, Freies Malerlebnis und Tour durch traditionelle Handwerksdörfer. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1 Stunde",
+   "1 Getränk nach Wahl von der Karte des Hangart",
+   "Freies Malerlebnis (60 bis 90 Minuten) mit Anleitung",
+   "Tour durch traditionelle Handwerksdörfer"
+  ],
+  "included": [
+   "1 Getränk nach Wahl von der Karte des Hangart",
+   "Freies Malerlebnis (60 bis 90 Minuten) mit Anleitung",
+   "Tour durch traditionelle Handwerksdörfer"
+  ],
+  "notIncluded": [],
+  "shortDescription": "1-stündige Tour in Da Nang, inklusive 1 Getränk nach Wahl von der Karte des Hangart, Freies Malerlebnis und Tour durch traditionelle Handwerksdörfer. Durchgeführt von The Hangart Da Nang, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: geführter Malworkshop mit Kaffee",
+  "metaDescription": "1-stündige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "da-nang-half-day-city-tour-linh-ung-marble-and-am-phu-cave-by-local-operator": {
+  "title": "Da Nang: halber Tag mit Linh-Ung-Pagode, Marmorbergen und Am-Phu-Höhle",
+  "fullDescription": "Dies ist ein 4,5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Transport im klimatisierten Minivan, Guide, Mittagessen und Flasche Wasser. Nicht enthalten sind Persönliche Ausgaben, Eintrittsgebühr für die Marmorberge und die Am-Phu-Höhle und Trinkgelder für Guide und Fahrer, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. BEST TADY TOUR bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 4,5 Stunden",
+   "Abholung und Rückfahrt zum Hotel",
+   "Transport im klimatisierten Minivan",
+   "Englischsprachiger Guide",
+   "Lokales Mittagessen (bei Wahl der Vormittagstour in der Gruppe)",
+   "Flasche Wasser"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Transport im klimatisierten Minivan",
+   "Englischsprachiger Guide",
+   "Lokales Mittagessen (bei Wahl der Vormittagstour in der Gruppe)",
+   "Flasche Wasser"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Eintrittsgebühr für die Marmorberge und die Am-Phu-Höhle (100.000 VND)",
+   "Trinkgelder für Guide und Fahrer"
+  ],
+  "shortDescription": "Tour in Da Nang, inklusive Abholung und Rückfahrt zum Hotel, Transport im klimatisierten Minivan und Guide. Durchgeführt von BEST TADY TOUR, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: halber Tag mit Linh-Ung-Pagode, Marmorbergen und Am-Phu-Höhle",
+  "metaDescription": "Tour in Da Nang. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "charming-da-nang-show-ticket": {
+  "title": "Ticket für die Charming-Da-Nang-Show",
+  "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Ticket für die Charming-Show in Da Nang. Nicht enthalten sind Abholung und Rückfahrt zum Hotel, Speisen und Getränke und Weitere nicht genannte Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1 Stunde",
+   "Ticket für die Charming-Show in Da Nang"
+  ],
+  "included": [
+   "Ticket für die Charming-Show in Da Nang"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Speisen und Getränke",
+   "Weitere nicht genannte Ausgaben"
+  ],
+  "shortDescription": "Eintrittskarte in Da Nang, inklusive Ticket für die Charming-Show in Da Nang. Durchgeführt von Da Nang Happy Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ticket für die Charming-Da-Nang-Show",
+  "metaDescription": "Eintrittskarte in Da Nang. Enthalten: Ticket für die Charming-Show in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "full-day-fishing-trip-by-local-boat-in-da-nang": {
+  "title": "Da Nang: ganztägiger Angelausflug im lokalen Boot",
+  "fullDescription": "Dies ist ein 7-stündiges Erlebnis in Da Nang, rund um Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Angelausrüstung, Geführte Angeltour, Tauchen und Korallen beobachten und Öko-Tour-Erlebnis. Nicht enthalten sind Mahlzeiten und Transport zum Startpunkt, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDa Nang. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Da Nang",
+   "Dauer: 7 Stunden",
+   "Professionelle Angelausrüstung",
+   "Geführte Angeltour",
+   "Tauchen und Korallen beobachten",
+   "Öko-Tour-Erlebnis"
+  ],
+  "included": [
+   "Professionelle Angelausrüstung",
+   "Geführte Angeltour",
+   "Tauchen und Korallen beobachten",
+   "Öko-Tour-Erlebnis"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Transport zum Startpunkt"
+  ],
+  "shortDescription": "Ganztägige Tour in Da Nang, mit Da Nang. Durchgeführt von Fishing tour Danang, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: ganztägiger Angelausflug im lokalen Boot",
+  "metaDescription": "Ganztägige Tour in Da Nang. Enthalten: Angelausrüstung und Geführte Angeltour. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "the-heritage-show-ticket-in-da-nang-by-local-operator": {
+  "title": "Da Nang: Ticket für die Heritage Show",
+  "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 1 Ticket für die Heritage Show und 1 Flasche Wasser. Nicht enthalten sind Transport und Sonstige persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1 Stunde",
+   "1 Ticket für die Heritage Show",
+   "1 Flasche Wasser"
+  ],
+  "included": [
+   "1 Ticket für die Heritage Show",
+   "1 Flasche Wasser"
+  ],
+  "notIncluded": [
+   "Transport",
+   "Sonstige persönliche Ausgaben"
+  ],
+  "shortDescription": "Eintrittskarte in Da Nang, inklusive 1 Ticket für die Heritage Show und 1 Flasche Wasser. Durchgeführt von La Ban Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Ticket für die Heritage Show",
+  "metaDescription": "Eintrittskarte in Da Nang. Enthalten: 1 Ticket für die Heritage Show. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "explore-ba-na-hill-golden-bridge-in-the-sunset-with-dinner-da-nang": {
+  "title": "Ba Na Hills und Goldene Brücke bei Sonnenuntergang, mit Abendessen",
+  "fullDescription": "Dies ist ein 7-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt im Raum Hoi An oder an einem, Guide, Vietnamesisches Abendessen bei einer einheimischen Familie, Trinkwasser in Flaschen und Eintritt: Seilbahn Sun World Ba Na Hills hin und zurück. Nicht enthalten sind Getränke und Sonstige persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. Viet Nam Happy Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 7 Stunden",
+   "Abholung und Rückfahrt im Raum Hoi An oder an einem Treffpunkt in Da Nang (315 Le Van Hien)",
+   "Englischsprachiger Guide",
+   "Vietnamesisches Abendessen bei einer einheimischen Familie",
+   "Trinkwasser in Flaschen",
+   "Eintritt: Seilbahn Sun World Ba Na Hills hin und zurück und Fantasy Park (bei Wahl dieser Option)"
+  ],
+  "included": [
+   "Abholung und Rückfahrt im Raum Hoi An oder an einem Treffpunkt in Da Nang (315 Le Van Hien)",
+   "Englischsprachiger Guide",
+   "Vietnamesisches Abendessen bei einer einheimischen Familie",
+   "Trinkwasser in Flaschen",
+   "Eintritt: Seilbahn Sun World Ba Na Hills hin und zurück und Fantasy Park (bei Wahl dieser Option)."
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Sonstige persönliche Ausgaben"
+  ],
+  "shortDescription": "Ganztägige Tour in Da Nang, inklusive Abholung und Rückfahrt im Raum Hoi An oder an einem, Guide und Vietnamesisches Abendessen bei einer einheimischen Familie. Durchgeführt von Viet Nam Happy Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ba Na Hills und Goldene Brücke bei Sonnenuntergang, mit Abendessen",
+  "metaDescription": "Ganztägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "da-nang-street-food-walking-tour-by-local-operator": {
+  "title": "Da Nang: Streetfood-Rundgang zu Fuß",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Reiseleiter, Stopps in 3 bis 4 Restaurants und 1 Café und Speisen und Getränke. Nicht enthalten sind Trinkgelder für den einheimischen Reiseleiter und Abholung und Rückfahrt, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Stunden",
+   "Englischsprachiger Reiseleiter",
+   "Stopps in 3 bis 4 Restaurants und 1 Café",
+   "Speisen und Getränke"
+  ],
+  "included": [
+   "Englischsprachiger Reiseleiter",
+   "Stopps in 3 bis 4 Restaurants und 1 Café",
+   "Speisen und Getränke"
+  ],
+  "notIncluded": [
+   "Trinkgelder für den einheimischen Reiseleiter",
+   "Abholung und Rückfahrt (je nach gewählter Option)"
+  ],
+  "shortDescription": "Tour in Da Nang, mit On foot. Durchgeführt von Hoi An Scooter Adventures, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Streetfood-Rundgang zu Fuß",
+  "metaDescription": "Tour in Da Nang. Enthalten: Reiseleiter. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "premium-massage-and-spa-treatments-pickup-included-in-da-nang": {
+  "title": "Da Nang: Premium-Massage und Spa-Behandlungen inklusive Abholung",
+  "fullDescription": "Dies ist ein 60-minütiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Snacks, Kostenlose Gepäckaufbewahrung, Duschraum, Tee und Handtuch. Nicht enthalten sind Trinkgelder sind freiwillig, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 60 Minuten",
+   "Snacks",
+   "Kostenlose Gepäckaufbewahrung",
+   "Duschraum",
+   "Tee",
+   "Handtuch"
+  ],
+  "included": [
+   "Snacks",
+   "Kostenlose Gepäckaufbewahrung",
+   "Duschraum",
+   "Tee",
+   "Handtuch",
+   "Hausschuhe",
+   "Schließfach",
+   "Kostenlose Hin- und Rücktransfers im Umkreis von 6 km um das Spa (bitte bei der Reservierung bestätigen lassen)"
+  ],
+  "notIncluded": [
+   "Trinkgelder sind freiwillig"
+  ],
+  "shortDescription": "Tour in Da Nang, inklusive Snacks, Kostenlose Gepäckaufbewahrung und Duschraum. Durchgeführt von Bee honey Spa, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Premium-Massage und Spa-Behandlungen inklusive Abholung",
+  "metaDescription": "Tour in Da Nang. Enthalten: Snacks und Kostenlose Gepäckaufbewahrung. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "culinary-tour-by-night-in-da-nang": {
+  "title": "Da Nang: kulinarische Tour bei Nacht",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Reiseleiter, Meeresfrüchte-Abendessen, 45-minütige Bootsfahrt, Abholung und Rückfahrt am Hotel im Stadtzentrum und Motorräder und Helme oder Van. Nicht enthalten sind Trinkgelder, Abholung im Resort-Viertel und Ein Aufpreis von 150.000 VND pro Person an, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. HOI AN FOOD TOUR bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 4 Stunden",
+   "Englischsprachiger Reiseleiter",
+   "Meeresfrüchte-Abendessen",
+   "45-minütige Bootsfahrt",
+   "Abholung und Rückfahrt am Hotel im Stadtzentrum",
+   "Motorräder und Helme oder Van"
+  ],
+  "included": [
+   "Englischsprachiger Reiseleiter",
+   "Meeresfrüchte-Abendessen",
+   "45-minütige Bootsfahrt",
+   "Abholung und Rückfahrt am Hotel im Stadtzentrum",
+   "Motorräder und Helme oder Van",
+   "Wasser",
+   "Regenponcho (bei Bedarf)"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Abholung im Resort-Viertel",
+   "Ein Aufpreis von 150.000 VND pro Person an Feiertagen: 1. Januar, 30. April, 1. Mai und 2. September"
+  ],
+  "shortDescription": "Halbtägige Tour in Da Nang, inklusive Reiseleiter, Meeresfrüchte-Abendessen und 45-minütige Bootsfahrt. Durchgeführt von HOI AN FOOD TOUR, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: kulinarische Tour bei Nacht",
+  "metaDescription": "Halbtägige Tour in Da Nang. Enthalten: Reiseleiter. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "traditional-cooking-class-with-meal-in-local-family-in-da-nang": {
+  "title": "Da Nang: traditioneller Kochkurs mit Essen bei einer einheimischen Familie",
+  "fullDescription": "Dies ist ein 2,5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Chefkoch, Zutaten für den Kochkurs, Maracujasaft nach Belieben und Mahlzeit mit Spezialitäten. Nicht enthalten sind Abholung und Rückfahrt zum Hotel und Weitere nicht genannte persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2,5 Stunden",
+   "Englischsprachiger Chefkoch",
+   "Zutaten für den Kochkurs",
+   "Maracujasaft nach Belieben",
+   "Mahlzeit mit Spezialitäten"
+  ],
+  "included": [
+   "Englischsprachiger Chefkoch",
+   "Zutaten für den Kochkurs",
+   "Maracujasaft nach Belieben",
+   "Mahlzeit mit Spezialitäten"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Weitere nicht genannte persönliche Ausgaben"
+  ],
+  "shortDescription": "2,5-stündige Tour in Da Nang, inklusive Chefkoch, Zutaten für den Kochkurs und Maracujasaft nach Belieben. Durchgeführt von Thao Nguyen Travel Company, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: traditioneller Kochkurs mit Essen bei einer einheimischen Familie",
+  "metaDescription": "2,5-stündige Tour in Da Nang. Enthalten: Chefkoch und Zutaten für den Kochkurs. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "am-phu-cave-marble-mountains-and-monkey-mountain-sunset-trip-da-nang": {
+  "title": "Am-Phu-Höhle, Marmorberge und Affenberg bei Sonnenuntergang",
+  "fullDescription": "Dies ist ein 5-stündiges Erlebnis ab Da Nang, rund um Marmorberge. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Tân An, Ngũ Hành Sơn, Thanh Hà, Cẩm Thanh, Mỹ An und Cẩm Châu möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Hiep Hoi An Travel II abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel in beide Richtungen, Eintrittsgebühren für die Marmorberge und die Am-Phu-Höhle, Guide und Eine Flasche Wasser. Nicht enthalten sind Persönliche Ausgaben und oben nicht genannte Leistungen und Trinkgelder für Reiseleiter und Fahrer, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. Hiep Hoi An Travel II bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Marmorberge",
+   "Dauer: 5 Stunden",
+   "Abholung und Rückfahrt am Hotel in beide Richtungen (90 km hin und zurück)",
+   "Eintrittsgebühren für die Marmorberge und die Am-Phu-Höhle",
+   "Englischsprachiger Guide",
+   "Eine Flasche Wasser"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel in beide Richtungen (90 km hin und zurück)",
+   "Eintrittsgebühren für die Marmorberge und die Am-Phu-Höhle",
+   "Englischsprachiger Guide",
+   "Eine Flasche Wasser"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben und oben nicht genannte Leistungen (wie der Aufzug nach oben)",
+   "Trinkgelder für Reiseleiter und Fahrer"
+  ],
+  "shortDescription": "Halbtägige Tour in Da Nang, mit Marmorberge. Durchgeführt von Hiep Hoi An Travel II, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Am-Phu-Höhle, Marmorberge und Affenberg bei Sonnenuntergang",
+  "metaDescription": "Halbtägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "da-nang-vegetarian-food-walking-tour-by-local-operator": {
+  "title": "Da Nang: vegetarischer Food-Rundgang",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Essen und Getränk. Nicht enthalten sind Abholung und Rückfahrt, Weitere Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 4 Stunden",
+   "Essen",
+   "Getränk"
+  ],
+  "included": [
+   "Essen",
+   "Getränk"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt (je nach gewählter Option)",
+   "Weitere Ausgaben",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Halbtägige Tour in Da Nang, mit On foot. Durchgeführt von Hoi An Scooter Adventures, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: vegetarischer Food-Rundgang",
+  "metaDescription": "Halbtägige Tour in Da Nang. Enthalten: Essen und Getränk. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "silver-jewelry-making-workshop-with-instructor-in-da-nang": {
+  "title": "Da Nang: Silberschmuck-Workshop mit Anleitung",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Alle Materialien, Schritt-für-Schritt-Anleitung durch eine erfahrene Kursleitung und 1 fertiger Silberring zum Mitnehmen. Nicht enthalten sind Transport zum und vom Atelier, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Stunden",
+   "Alle Materialien (Sterlingsilber, Werkzeuge, Schutzausrüstung)",
+   "Schritt-für-Schritt-Anleitung durch eine erfahrene Kursleitung",
+   "1 fertiger Silberring zum Mitnehmen"
+  ],
+  "included": [
+   "Alle Materialien (Sterlingsilber, Werkzeuge, Schutzausrüstung)",
+   "Schritt-für-Schritt-Anleitung durch eine erfahrene Kursleitung",
+   "1 fertiger Silberring zum Mitnehmen"
+  ],
+  "notIncluded": [
+   "Transport zum und vom Atelier"
+  ],
+  "shortDescription": "3-stündige Tour in Da Nang, inklusive Alle Materialien, Schritt-für-Schritt-Anleitung durch eine erfahrene Kursleitung und 1 fertiger Silberring zum Mitnehmen. Durchgeführt von VIVA VIETNAM, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Silberschmuck-Workshop mit Anleitung",
+  "metaDescription": "3-stündige Tour in Da Nang. Enthalten: Alle Materialien. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "the-private-trip-to-golden-bridge-da-nang": {
+  "title": "Private Tour zur Goldenen Brücke",
+  "fullDescription": "Dies ist ein 5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Englischsprachiger Reiseleiter und Wasser. Nicht enthalten sind Die Eintrittskarte, Mittagessen und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 5 Stunden",
+   "Englischsprachiger Reiseleiter",
+   "Wasser"
+  ],
+  "included": [
+   "Englischsprachiger Reiseleiter",
+   "Wasser"
+  ],
+  "notIncluded": [
+   "Die Eintrittskarte",
+   "Mittagessen",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Halbtägige Tour in Da Nang, inklusive Englischsprachiger Reiseleiter und Wasser. Durchgeführt von Hoi An Scooter Adventures, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Private Tour zur Goldenen Brücke",
+  "metaDescription": "Halbtägige Tour in Da Nang. Enthalten: Englischsprachiger Reiseleiter. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "private-half-day-city-highlights-tour-in-da-nang": {
+  "title": "Da Nang: private Halbtagestour zu den Highlights",
+  "fullDescription": "Dies ist ein 6-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Privates klimatisiertes Auto, Reiseleiter, Kraftstoff und Wasser in Flaschen. Nicht enthalten sind Mahlzeiten und weitere persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 6 Stunden",
+   "Privates klimatisiertes Auto",
+   "Englischsprachiger Reiseleiter (Zuschlag für andere Sprachen)",
+   "Benzin, Maut und Parkgebühren",
+   "Wasser in Flaschen (1 Flasche pro Person)"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto",
+   "Englischsprachiger Reiseleiter (Zuschlag für andere Sprachen)",
+   "Benzin, Maut und Parkgebühren",
+   "Wasser in Flaschen (1 Flasche pro Person)"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und weitere persönliche Ausgaben",
+   "Trinkgelder (optional)"
+  ],
+  "shortDescription": "Halbtägige Tour in Da Nang, inklusive Privates klimatisiertes Auto, Reiseleiter und Kraftstoff. Durchgeführt von BEST TADY TOUR, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: private Halbtagestour zu den Highlights",
+  "metaDescription": "Halbtägige Tour in Da Nang. Enthalten: Privates klimatisiertes Auto. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "da-nang-city-tour-half-day-with-group-tour-or-private-tour-by-local-operator": {
+  "title": "Da Nang: halber Tag als Gruppen- oder Privattour",
+  "fullDescription": "Dies ist ein 5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel in Da Nang, Klimatisierter Transport, Reiseleiter und Trinkwasser in Flaschen. Nicht enthalten sind Trinkgelder, Eintrittskarte, Aufzugsgebühr in den Marmorbergen und Zuschlag an vietnamesischen Feiertagen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. Vietnam Homies Tour bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 5 Stunden",
+   "Abholung und Rückfahrt am Hotel in Da Nang (Zuschlag in Hoi An)",
+   "Klimatisierter Transport",
+   "Englischsprachiger Reiseleiter (Zuschlag für andere Sprachen)",
+   "Trinkwasser in Flaschen"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel in Da Nang (Zuschlag in Hoi An)",
+   "Klimatisierter Transport",
+   "Englischsprachiger Reiseleiter (Zuschlag für andere Sprachen)",
+   "Trinkwasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Trinkgelder (optional)",
+   "Eintrittskarte",
+   "Aufzugsgebühr in den Marmorbergen",
+   "Zuschlag an vietnamesischen Feiertagen"
+  ],
+  "shortDescription": "Halbtägige Tour in Da Nang, inklusive Abholung und Rückfahrt am Hotel in Da Nang, Klimatisierter Transport und Reiseleiter. Durchgeführt von Vietnam Homies Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: halber Tag als Gruppen- oder Privattour",
+  "metaDescription": "Halbtägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "danang-night-squid-fishing-experience-da-nang": {
+  "title": "Da Nang: Tintenfischangeln bei Nacht",
+  "fullDescription": "Dies ist ein 4,5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Angelausrüstung, einheimische Fischer, Frisch zubereitete Mahlzeit aus Ihrem Fang, Trinkwasser in Flaschen und Schwimmweste. Nicht enthalten sind Persönliche Ausgaben, Alkoholische Getränke, Trinkgelder und Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 4,5 Stunden",
+   "Professionelle Angelausrüstung",
+   "Erfahrene einheimische Fischer",
+   "Frisch zubereitete Mahlzeit aus Ihrem Fang",
+   "Trinkwasser in Flaschen",
+   "Schwimmweste"
+  ],
+  "included": [
+   "Professionelle Angelausrüstung",
+   "Erfahrene einheimische Fischer",
+   "Frisch zubereitete Mahlzeit aus Ihrem Fang",
+   "Trinkwasser in Flaschen",
+   "Schwimmweste",
+   "Bootsfahrt",
+   "Angelköder"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Alkoholische Getränke",
+   "Trinkgelder (optional)",
+   "Abholung und Rückfahrt zum Hotel"
+  ],
+  "shortDescription": "Tour in Da Nang, inklusive Angelausrüstung, einheimische Fischer und Frisch zubereitete Mahlzeit aus Ihrem Fang. Durchgeführt von Thanh Van, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Tintenfischangeln bei Nacht",
+  "metaDescription": "Tour in Da Nang. Enthalten: Angelausrüstung und einheimische Fischer. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "han-river-night-boat-trip-with-show-on-weekends-in-da-nang": {
+  "title": "Da Nang: abendliche Bootsfahrt auf dem Han-Fluss mit Show am Wochenende",
+  "fullDescription": "Dies ist ein 1,5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Kreuzfahrt, Tanzvorführung und Versicherung. Nicht enthalten sind Speisen und Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1,5 Stunden",
+   "Kreuzfahrt",
+   "Tanzvorführung",
+   "Versicherung"
+  ],
+  "included": [
+   "Kreuzfahrt",
+   "Tanzvorführung",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke (vor Ort erhältlich)"
+  ],
+  "shortDescription": "Tour in Da Nang, inklusive Kreuzfahrt, Tanzvorführung und Versicherung. Durchgeführt von TAU RONG SONG HAN, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: abendliche Bootsfahrt auf dem Han-Fluss mit Show am Wochenende",
+  "metaDescription": "Tour in Da Nang. Enthalten: Kreuzfahrt, Tanzvorführung und Versicherung. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "dong-giang-heaven-gate-tour-with-lunch-in-da-nang": {
+  "title": "Himmelstor von Dong Giang mit Mittagessen",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Fahrer, Abholung und Rückfahrt am My Khe Spa, Eintrittskarte für die Perlentore, Eintrittskarte für die Glasbrücke und Mittagessen. Nicht enthalten sind Abholung und Rückfahrt zum Hotel und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. Da Nang Ghost Tour bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 8 Stunden",
+   "Fahrer",
+   "Abholung und Rückfahrt am My Khe Spa",
+   "Eintrittskarte für die Perlentore (Seilbahn inklusive)",
+   "Eintrittskarte für die Glasbrücke",
+   "Mittagessen"
+  ],
+  "included": [
+   "Fahrer",
+   "Abholung und Rückfahrt am My Khe Spa",
+   "Eintrittskarte für die Perlentore (Seilbahn inklusive)",
+   "Eintrittskarte für die Glasbrücke",
+   "Mittagessen",
+   "Getränk im Café"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Ganztägige Tour in Da Nang, inklusive Fahrer, Abholung und Rückfahrt am My Khe Spa und Eintrittskarte für die Perlentore. Durchgeführt von Da Nang Ghost Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Himmelstor von Dong Giang mit Mittagessen",
+  "metaDescription": "Ganztägige Tour in Da Nang. Enthalten: Fahrer. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "da-nang-l-michelin-inspired-vietnamese-meal-at-madame-l-n-by-local-operator": {
+  "title": "Da Nang: vietnamesisches Menü im Michelin-Stil im Madame Lân",
+  "fullDescription": "Dies ist ein Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Reservierung im Voraus im Madame Lân, Vietnamesisches Menü mit regionalen Spezialitäten und Bevorzugter Sitzplatz zur gewählten Reservierungszeit. Nicht enthalten sind Transporte, Getränk und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Reservierung im Voraus im Madame Lân (Auswahl des Guide Michelin 2024)",
+   "Vietnamesisches Menü mit regionalen Spezialitäten",
+   "Bevorzugter Sitzplatz zur gewählten Reservierungszeit"
+  ],
+  "included": [
+   "Reservierung im Voraus im Madame Lân (Auswahl des Guide Michelin 2024)",
+   "Vietnamesisches Menü mit regionalen Spezialitäten",
+   "Bevorzugter Sitzplatz zur gewählten Reservierungszeit"
+  ],
+  "notIncluded": [
+   "Transporte",
+   "Getränk",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Tour in Da Nang, inklusive Reservierung im Voraus im Madame Lân, Vietnamesisches Menü mit regionalen Spezialitäten und Bevorzugter Sitzplatz zur gewählten Reservierungszeit. Durchgeführt von Southern Breeze Joint stock company, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: vietnamesisches Menü im Michelin-Stil im Madame Lân",
+  "metaDescription": "Tour in Da Nang. Enthalten: Reservierung im Voraus im Madame Lân. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "natural-dyeing-and-free-fabric-fan-painting-workshop-in-da-nang": {
+  "title": "Da Nang: Naturfärben und kostenloser Fächermal-Workshop",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDa Nang ist die Stadt der Zentralküste, dreißig Kilometer Strand von der Halbinsel Son Tra bis zu den Marmorbergen, und von hier starten die Tagesausflüge Zentralvietnams. Ba Na Hills, 40 Kilometer westlich, ist eine französische Bergstation, die auf 1.400 Metern als Themenpark wieder aufgebaut wurde, erreichbar mit einer der längsten Seilbahnen der Welt, mit der Goldenen Brücke, die zwei riesige steinerne Hände tragen; fahren Sie früh, es ist kühl und voll. Die Marmorberge sind fünf Kalksteinhügel voller Höhlen und Pagoden mit Blick auf die Küste. Auf Son Tra stehen die 67 Meter hohe Lady Buddha und leben die letzten Rotschenkligen Kleideraffen. Der Hai-Van-Pass, die Straße nach Norden Richtung Hue, ist die landschaftlich schönste Fahrt des Landes, mit dem Motorrad oder Auto und Stopps an den alten französischen und amerikanischen Bunkern auf der Passhöhe.\n\nIm Preis enthalten sind 180-minütige Workshop-Einheit, Seidenschal aus Ma Chau, Kostenloser Workshop zum Bemalen von Stofffächern, Handwerkstour durch das Dorf und Willkommensgetränk. Nicht enthalten sind Mahlzeiten und zusätzliche Getränke, Transport zum und vom Treffpunkt und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Stunden",
+   "180-minütige Workshop-Einheit",
+   "Seidenschal aus Ma Chau (42 × 200 cm oder 85 × 85 cm)",
+   "Kostenloser Workshop zum Bemalen von Stofffächern",
+   "Handwerkstour durch das Dorf",
+   "Willkommensgetränk"
+  ],
+  "included": [
+   "180-minütige Workshop-Einheit",
+   "Seidenschal aus Ma Chau (42 × 200 cm oder 85 × 85 cm)",
+   "Kostenloser Workshop zum Bemalen von Stofffächern",
+   "Handwerkstour durch das Dorf",
+   "Willkommensgetränk",
+   "Kühles Handtuch"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und zusätzliche Getränke",
+   "Transport zum und vom Treffpunkt",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "3-stündige Tour in Da Nang, inklusive 180-minütige Workshop-Einheit, Seidenschal aus Ma Chau und Kostenloser Workshop zum Bemalen von Stofffächern. Durchgeführt von The Hangart Da Nang, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Naturfärben und kostenloser Fächermal-Workshop",
+  "metaDescription": "3-stündige Tour in Da Nang. Enthalten: 180-minütige Workshop-Einheit. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "elegant-dinner-at-citron-intercontinental-danang-da-nang": {
+  "title": "Elegantes Abendessen im Citron, InterContinental Danang",
+  "fullDescription": "Dies ist ein Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abendessen mit einer Auswahl internationaler und lokaler Gerichte, Weiß- und Rotweine nach Belieben, ausgewählt von einem Weinexperten und Beeindruckende Terrasse in Form eines traditionellen Kegelhuts. Nicht enthalten sind Transport und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Abendessen mit einer Auswahl internationaler und lokaler Gerichte",
+   "Weiß- und Rotweine nach Belieben gemäß den Empfehlungen eines Weinexperten sowie Biere, Softdrinks und Säfte",
+   "Beeindruckende Terrasse in Form eines traditionellen Kegelhuts (nach Verfügbarkeit)"
+  ],
+  "included": [
+   "Abendessen mit einer Auswahl internationaler und lokaler Gerichte",
+   "Weiß- und Rotweine nach Belieben gemäß den Empfehlungen eines Weinexperten sowie Biere, Softdrinks und Säfte.",
+   "Beeindruckende Terrasse in Form eines traditionellen Kegelhuts (nach Verfügbarkeit)"
+  ],
+  "notIncluded": [
+   "Transport",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Tour in Da Nang, inklusive Abendessen mit einer Auswahl internationaler und lokaler Gerichte, Weiß- und Rotweine nach Belieben, ausgewählt von einem Weinexperten und Beeindruckende Terrasse in Form eines traditionellen Kegelhuts. Durchgeführt von Southern Breeze Joint stock company, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Elegantes Abendessen im Citron, InterContinental Danang",
+  "metaDescription": "Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "ba-na-hills-tour-with-golden-bridge-and-lunch": {
+  "title": "Ba Na Hills mit Goldener Brücke und Mittagessen",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel im Zentrum von Da Nang, Englischsprachiger Guide, Hin- und Rücktransport im klimatisierten Fahrzeug, Hin- und Rücktickets für die Seilbahn zu Ba Na Hills und Eintrittsgebühren für die Attraktionen von Ba Na Hills. Nicht enthalten sind Trinkgelder für Reiseleiter und Fahrer, Zuschlag an vietnamesischen Feiertagen, Mittagsbuffet und Ticket für die Attraktionen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. Vn biketour bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 8 Stunden",
+   "Abholung und Rückfahrt am Hotel im Zentrum von Da Nang (Zuschlag in Hoi An)",
+   "Professioneller englischsprachiger Reiseleiter (Zuschlag für andere Sprachen)",
+   "Hin- und Rücktransport im klimatisierten Fahrzeug",
+   "Hin- und Rücktickets für die Seilbahn zu Ba Na Hills",
+   "Eintrittsgebühren für die Attraktionen von Ba Na Hills"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel im Zentrum von Da Nang (Zuschlag in Hoi An)",
+   "Professioneller englischsprachiger Reiseleiter (Zuschlag für andere Sprachen)",
+   "Hin- und Rücktransport im klimatisierten Fahrzeug",
+   "Hin- und Rücktickets für die Seilbahn zu Ba Na Hills",
+   "Eintrittsgebühren für die Attraktionen von Ba Na Hills",
+   "Trinkwasser in Flaschen im Auto",
+   "Reiseversicherung"
+  ],
+  "notIncluded": [
+   "Trinkgelder für Reiseleiter und Fahrer",
+   "Zuschlag an vietnamesischen Feiertagen",
+   "Mittagsbuffet",
+   "Ticket für die Attraktionen"
+  ],
+  "shortDescription": "Ganztägige Tour in Da Nang, inklusive Abholung und Rückfahrt am Hotel im Zentrum von Da Nang, Englischsprachiger Guide und Hin- und Rücktransport im klimatisierten Fahrzeug. Durchgeführt von Vn biketour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ba Na Hills mit Goldener Brücke und Mittagessen",
+  "metaDescription": "Ganztägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "my-son-sanctuary-and-hoi-an-private-car-day-tour": {
   "title": "Heiligtum My Son und Hoi An: Tagestour im Privatwagen",
   "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Hoi An. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Privatfahrzeug mit Fahrer, Kraftstoff und Wasser in Flaschen. Nicht enthalten sind Eintrittskarte für die heilige Stätte My Son und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -36209,6 +38066,449 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "3-stündige Tour in Hanoi, mit Altstadt von Hanoi und Finish at. Durchgeführt von Crossing Vietnam Tour, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Hanoi: Streetfood zu Fuß in kleiner Gruppe",
   "metaDescription": "3-stündige Tour in Hanoi. Enthalten: Abholung von Hotels in der Altstadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "coconut-village-boat-and-hoi-an-city-tour": {
+  "title": "Bootsfahrt im Kokosnussdorf und Stadttour durch Hoi An",
+  "fullDescription": "Dies ist ein 6,5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel mit dem Van im Zentrum von Da Nang, Guide, Eintrittsgebühren für Hoi An und Cam Thanh, Korbbootfahrt im Kokosnussdorf und Bootsfahrt und Laternen aussetzen auf dem Hoai-Fluss. Nicht enthalten sind Trinkgelder für Reiseleiter und Fahrer, Transfers außerhalb der festgelegten Abholgebiete und Bootsticket für Kinder unter 4 Jahren, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. Venus Travel Hoi An bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 6,5 Stunden",
+   "Abholung und Rückfahrt am Hotel mit dem Van im Zentrum von Da Nang oder Hoi An",
+   "Englischsprachiger Guide",
+   "Eintrittsgebühren für Hoi An und Cam Thanh",
+   "Korbbootfahrt im Kokosnussdorf",
+   "Bootsfahrt und Laternen aussetzen auf dem Hoai-Fluss"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel mit dem Van im Zentrum von Da Nang oder Hoi An",
+   "Englischsprachiger Guide",
+   "Eintrittsgebühren für Hoi An und Cam Thanh",
+   "Korbbootfahrt im Kokosnussdorf",
+   "Bootsfahrt und Laternen aussetzen auf dem Hoai-Fluss",
+   "Lokales Abendessen",
+   "Mineralwasser"
+  ],
+  "notIncluded": [
+   "Trinkgelder für Reiseleiter und Fahrer",
+   "Transfers außerhalb der festgelegten Abholgebiete",
+   "Bootsticket für Kinder unter 4 Jahren"
+  ],
+  "shortDescription": "Tour in Da Nang, inklusive Abholung und Rückfahrt am Hotel mit dem Van im Zentrum von Da Nang, Guide und Eintrittsgebühren für Hoi An und Cam Thanh. Durchgeführt von Venus Travel Hoi An, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Bootsfahrt im Kokosnussdorf und Stadttour durch Hoi An",
+  "metaDescription": "Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "lady-buddha-marble-mountains-and-am-phu-cave-in-da-nang": {
+  "title": "Lady Buddha, Marmorberge und Am-Phu-Höhle in Da Nang",
+  "fullDescription": "Dies ist ein 4,5-stündiges Erlebnis in Da Nang, rund um Lady Buddha, Marmorberge und Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Transport im klimatisierten Minivan, Eintrittsgebühren für die Marmorberge und die Am-Phu-Höhle, Guide und Mittagessen. Nicht enthalten sind Persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. Venus Travel Hoi An bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Lady Buddha",
+   "Marmorberge",
+   "Da Nang",
+   "Dauer: 4,5 Stunden",
+   "Abholung und Rückfahrt zum Hotel",
+   "Transport im klimatisierten Minivan"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Transport im klimatisierten Minivan",
+   "Eintrittsgebühren für die Marmorberge und die Am-Phu-Höhle",
+   "Englischsprachiger Guide",
+   "Lokales Mittagessen (bei Wahl dieser Option)",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder (optional)"
+  ],
+  "shortDescription": "Tour in Da Nang, mit Lady Buddha, Marmorberge und Da Nang. Durchgeführt von Venus Travel Hoi An, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lady Buddha, Marmorberge und Am-Phu-Höhle in Da Nang",
+  "metaDescription": "Tour in Da Nang. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "marble-mountain-am-phu-cave-monkey-mountain-in-da-nang": {
+  "title": "Marmorberg, Am-Phu-Höhle und Affenberg in Da Nang",
+  "fullDescription": "Dies ist ein 5-stündiges Erlebnis in Da Nang, rund um Marmorberge und Steinmetzdorf Non Nuoc. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel in Da Nang oder Hoi An, Hochwertiges klimatisiertes Fahrzeug, Reiseleiter, Eintrittsgebühr für die Marmorberge und die Am-Phu-Höhle und Mittagessen. Nicht enthalten sind Aufzugsgebühren, Persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. VM Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Marmorberge",
+   "Steinmetzdorf Non Nuoc",
+   "Dauer: 5 Stunden",
+   "Abholung und Rückfahrt am Hotel in Da Nang oder Hoi An",
+   "Hochwertiges klimatisiertes Fahrzeug",
+   "Einheimischer Reiseleiter"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel in Da Nang oder Hoi An",
+   "Hochwertiges klimatisiertes Fahrzeug",
+   "Einheimischer Reiseleiter",
+   "Eintrittsgebühr für die Marmorberge und die Am-Phu-Höhle",
+   "Lokales Mittagessen (nur Vormittagstour)",
+   "Mineralwasser",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Aufzugsgebühren",
+   "Persönliche Ausgaben",
+   "Trinkgelder (optional)"
+  ],
+  "shortDescription": "Halbtägige Tour in Da Nang, mit Linh Ung Pagoda, Son Tra, Marmorberge und Steinmetzdorf Non Nuoc. Durchgeführt von VM Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Marmorberg, Am-Phu-Höhle und Affenberg in Da Nang",
+  "metaDescription": "Halbtägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "vietnamese-cooking-class-with-transportation-in-da-nang": {
+  "title": "Da Nang: vietnamesischer Kochkurs mit Transport",
+  "fullDescription": "Dies ist ein 2,5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Guide, Kochkurs und Flasche Wasser. Nicht enthalten sind Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. HOI AN FOOD TOUR bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2,5 Stunden",
+   "Abholung und Rückfahrt zum Hotel",
+   "Guide",
+   "Kochkurs",
+   "Flasche Wasser"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Guide",
+   "Kochkurs",
+   "Flasche Wasser"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ],
+  "shortDescription": "Tour in Da Nang, inklusive Abholung und Rückfahrt zum Hotel, Guide und Kochkurs. Durchgeführt von HOI AN FOOD TOUR, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: vietnamesischer Kochkurs mit Transport",
+  "metaDescription": "Tour in Da Nang. Enthalten: Abholung und Rückfahrt zum Hotel und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "buffalo-riding-basket-boat-and-cooking-class-hoian-da-nang-da-nang": {
+  "title": "Büffelreiten, Korbboot und Kochkurs (Hoi An oder Da Nang)",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Guide, Abholung und Rückfahrt zum Hotel, Fahrt im Bambus-Korbboot, Büffelreiten und Kochkurs. Nicht enthalten sind Trinkgelder für die Einheimischen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 4 Stunden",
+   "Englischsprachiger Guide",
+   "Abholung und Rückfahrt zum Hotel",
+   "Fahrt im Bambus-Korbboot",
+   "Büffelreiten",
+   "Kochkurs"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Abholung und Rückfahrt zum Hotel",
+   "Fahrt im Bambus-Korbboot",
+   "Büffelreiten",
+   "Kochkurs",
+   "Schwimmweste",
+   "Eine Flasche Wasser"
+  ],
+  "notIncluded": [
+   "Trinkgelder für die Einheimischen"
+  ],
+  "shortDescription": "Halbtägige Tour in Da Nang, inklusive Guide, Abholung und Rückfahrt zum Hotel und Fahrt im Bambus-Korbboot. Durchgeführt von HOI AN FOOD TOUR, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Büffelreiten, Korbboot und Kochkurs (Hoi An oder Da Nang)",
+  "metaDescription": "Halbtägige Tour in Da Nang. Enthalten: Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "vegetarian-cooking-class-with-janny-in-da-nang": {
+  "title": "Da Nang: vegetarischer Kochkurs mit Janny",
+  "fullDescription": "Dies ist ein 2,5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Chefkoch, Zutaten für den Kochkurs, Maracujasaft nach Belieben und Vegetarische Mahlzeit. Nicht enthalten sind Abholung und Rückfahrt zum Hotel und Weitere nicht genannte persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2,5 Stunden",
+   "Englischsprachiger Chefkoch",
+   "Zutaten für den Kochkurs",
+   "Maracujasaft nach Belieben",
+   "Vegetarische Mahlzeit"
+  ],
+  "included": [
+   "Englischsprachiger Chefkoch",
+   "Zutaten für den Kochkurs",
+   "Maracujasaft nach Belieben",
+   "Vegetarische Mahlzeit"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Weitere nicht genannte persönliche Ausgaben"
+  ],
+  "shortDescription": "Tour in Da Nang, inklusive Chefkoch, Zutaten für den Kochkurs und Maracujasaft nach Belieben. Durchgeführt von Hoi An Eco Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: vegetarischer Kochkurs mit Janny",
+  "metaDescription": "Tour in Da Nang. Enthalten: Chefkoch und Zutaten für den Kochkurs. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "marble-mountains-monkey-mountain-my-son-sanctuary-day-tour-in-da-nang": {
+  "title": "Marmorberge, Affenberg und Heiligtum My Son an einem Tag",
+  "fullDescription": "Dies ist ein 11-stündiges Erlebnis in Da Nang, rund um Steinmetzdorf Non Nuoc, Marmorberge und Hoi An. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Hochwertiges klimatisiertes Fahrzeug, Guide, Tour in kleiner Gruppe mit maximal 13 Personen und Alle Eintrittsgebühren. Nicht enthalten sind Persönliche Ausgaben, Getränke zum Essen, Trinkgelder für Guide und Fahrer und Aufzug in den Marmorbergen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nDa Nang. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Steinmetzdorf Non Nuoc",
+   "Marmorberge",
+   "Hoi An",
+   "Heiligtum My Son",
+   "Dauer: 11 Stunden",
+   "Abholung und Rückfahrt zum Hotel"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Hochwertiges klimatisiertes Fahrzeug",
+   "Englischsprachiger Guide",
+   "Tour in kleiner Gruppe mit maximal 13 Personen",
+   "Alle Eintrittsgebühren (150.000 VND pro Person in My Son, 60.000 VND an den Marmorbergen)",
+   "Mittagessen mit lokalen Speisen",
+   "Vietnamesisches Banh Mi (bei Wahl von My Son am Nachmittag)",
+   "Bootsfahrt auf dem Thu-Bon-Fluss",
+   "Eine Flasche Wasser"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben und oben nicht genannte Leistungen",
+   "Getränke zum Essen",
+   "Trinkgelder für Guide und Fahrer",
+   "Aufzug in den Marmorbergen"
+  ],
+  "shortDescription": "Ganztägige Tour in Da Nang, mit Linh Ung Pagoda, Son Tra, Steinmetzdorf Non Nuoc und Marmorberge. Durchgeführt von VM Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Marmorberge, Affenberg und Heiligtum My Son an einem Tag",
+  "metaDescription": "Ganztägige Tour in Da Nang. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "private-my-son-sanctuary-half-day-tour-in-da-nang": {
+  "title": "Heiligtum My Son: private Halbtagestour ab Da Nang",
+  "fullDescription": "Dies ist ein 5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel ab Da Nang oder Hoi An, Transport im modernen klimatisierten Fahrzeug, Der Leistungsumfang hängt von der gewählten, Reiseleiter und Eintrittsgebühren. Nicht enthalten sind Speisen und Getränke, Weitere nicht genannte Besichtigungen und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. Hiep Hoi An Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 5 Stunden",
+   "Abholung und Rückfahrt zum Hotel ab Da Nang oder Hoi An",
+   "Transport im modernen klimatisierten Fahrzeug",
+   "Der Leistungsumfang hängt von der gewählten Option ab",
+   "Englischsprachiger Reiseleiter",
+   "Eintrittsgebühren"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel ab Da Nang oder Hoi An",
+   "Transport im modernen klimatisierten Fahrzeug",
+   "Der Leistungsumfang hängt von der gewählten Option ab.",
+   "Englischsprachiger Reiseleiter",
+   "Eintrittsgebühren",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke",
+   "Weitere nicht genannte Besichtigungen",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Halbtägige Tour in Da Nang, inklusive Abholung und Rückfahrt zum Hotel ab Da Nang oder Hoi An, Transport im modernen klimatisierten Fahrzeug und Der Leistungsumfang hängt von der gewählten. Durchgeführt von Hiep Hoi An Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Heiligtum My Son: private Halbtagestour ab Da Nang",
+  "metaDescription": "Halbtägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "michelin-selected-street-food-tour-with-local-guide-in-da-nang": {
+  "title": "Da Nang: Michelin-ausgewähltes Streetfood mit einheimischem Guide",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Da Nang, rund um Lokales Restaurant und Lokales Café. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Reiseleiter, 4 Kostproben in den im Programm genannten Michelin-Adressen und 1 Getränk. Nicht enthalten sind Transport und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nCông viên APEC. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Lokales Restaurant",
+   "Lokales Café",
+   "Dauer: 3 Stunden",
+   "Englischsprachiger Reiseleiter",
+   "4 Kostproben in den im Programm genannten Michelin-Adressen",
+   "1 Getränk (Kaffee, Tee, Saft ...) in einem lokalen Café"
+  ],
+  "included": [
+   "Englischsprachiger Reiseleiter",
+   "4 Kostproben in den im Programm genannten Michelin-Adressen",
+   "1 Getränk (Kaffee, Tee, Saft ...) in einem lokalen Café"
+  ],
+  "notIncluded": [
+   "Transport",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "3-stündige Tour in Da Nang, mit Lokales Restaurant und Lokales Café. Durchgeführt von VIVA VIETNAM, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Michelin-ausgewähltes Streetfood mit einheimischem Guide",
+  "metaDescription": "3-stündige Tour in Da Nang. Enthalten: Reiseleiter. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "vegetarian-cooking-class-and-basket-boat-ride-in-da-nang": {
+  "title": "Da Nang: vegetarischer Kochkurs und Korbbootfahrt",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Fahrer, Eintritt in das Kokosnussdorf Bay Mau, Fahrt im Korbboot und Kochkurs. Nicht enthalten sind Trinkgeld für die Korbboot-Ruderin, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. HOI AN FOOD TOUR bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Stunden",
+   "Abholung und Rückfahrt zum Hotel",
+   "Fahrer",
+   "Eintritt in das Kokosnussdorf Bay Mau",
+   "Fahrt im Korbboot",
+   "Kochkurs"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Fahrer",
+   "Eintritt in das Kokosnussdorf Bay Mau",
+   "Fahrt im Korbboot",
+   "Kochkurs"
+  ],
+  "notIncluded": [
+   "Trinkgeld für die Korbboot-Ruderin"
+  ],
+  "shortDescription": "3-stündige Tour in Da Nang, inklusive Abholung und Rückfahrt zum Hotel, Fahrer und Eintritt in das Kokosnussdorf Bay Mau. Durchgeführt von HOI AN FOOD TOUR, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: vegetarischer Kochkurs und Korbbootfahrt",
+  "metaDescription": "3-stündige Tour in Da Nang. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "da-nang-cooking-market-tour-farming-and-cooking-class-da-nang": {
+  "title": "Da Nang: Markt, Feldarbeit und Kochkurs",
+  "fullDescription": "Dies ist ein 2,5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Kräutertee, Wasser, englischsprachiger Reiseleiter, Dessert und alle. Nicht enthalten sind Abholung und Rückfahrt an Ihrem Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2,5 Stunden",
+   "Kräutertee, Wasser, englischsprachiger Reiseleiter, Dessert, alle Zutaten sowie die Rezepte auf Englisch, Marktbesuch und Landwirtschaftsaktivität (bei der 4-stündigen Komplettoption)"
+  ],
+  "included": [
+   "Kräutertee, Wasser, englischsprachiger Reiseleiter, Dessert, alle Zutaten sowie die Rezepte auf Englisch, Marktbesuch und Landwirtschaftsaktivität (bei der 4-stündigen Komplettoption)"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt an Ihrem Hotel"
+  ],
+  "shortDescription": "Tour in Da Nang, inklusive Kräutertee, Wasser, englischsprachiger Reiseleiter, Dessert und alle. Durchgeführt von HOI AN FOOD TOUR, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Markt, Feldarbeit und Kochkurs",
+  "metaDescription": "Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "ba-na-hills-and-golden-bridge-cable-car-ticket-in-da-nang": {
+  "title": "Ba Na Hills und Goldene Brücke: Seilbahnticket ab Da Nang",
+  "fullDescription": "Dies ist ein Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Seilbahnticket für Ba Na Hills und die Goldene Brücke und Mittagsbuffet. Nicht enthalten sind Persönliche Ausgaben und Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHoi An Express schickt Ihnen Treffpunkt und Uhrzeit per E-Mail, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Seilbahnticket für Ba Na Hills und die Goldene Brücke",
+   "Mittagsbuffet (bei Wahl dieser Option)"
+  ],
+  "included": [
+   "Seilbahnticket für Ba Na Hills und die Goldene Brücke",
+   "Mittagsbuffet (bei Wahl dieser Option)"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Abholung und Rückfahrt zum Hotel"
+  ],
+  "shortDescription": "Eintrittskarte in Da Nang, inklusive Seilbahnticket für Ba Na Hills und die Goldene Brücke und Mittagsbuffet. Durchgeführt von Hoi An Express, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ba Na Hills und Goldene Brücke: Seilbahnticket ab Da Nang",
+  "metaDescription": "Eintrittskarte in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "marble-mountain-monkey-mountain-and-am-phu-cave-tour-in-da-nang": {
+  "title": "Marmorberg, Affenberg und Am-Phu-Höhle in Da Nang",
+  "fullDescription": "Dies ist ein 4,5-stündiges Erlebnis in Da Nang, rund um Bus/Reisebus, Marmorberge und Dong Am Phu. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel im Zentrum von Da Nang, Abholung und Rückfahrt zum Hotel in Hoi An, Klimatisiertes Fahrzeug, Leichte Mahlzeit: Mi-Quang-Nudeln oder vietnamesischer Pfannkuchen Banh Xeo und Eintritt in die Linh-Ung-Pagode am Affenberg. Nicht enthalten sind Persönliche Ausgaben, Trinkgelder für Guide und Fahrer, Mahlzeit und Zuschlag für Abholungen außerhalb des Zentrums von Da, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. Dacotours bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Marmorberge",
+   "Dong Am Phu",
+   "Da Nang",
+   "Dauer: 4,5 Stunden",
+   "Abholung und Rückfahrt am Hotel im Zentrum von Da Nang"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel im Zentrum von Da Nang",
+   "Abholung und Rückfahrt am Hotel in Hoi An (bei der Option „Gruppe ab Hoi An“)",
+   "Klimatisiertes Fahrzeug",
+   "Engagierter, erfahrener und professioneller einheimischer englischsprachiger Reiseleiter",
+   "Leichte Mahlzeit: Mi-Quang-Nudeln oder Banh Xeo (bei Wahl dieser Option)",
+   "Eintritt in die Linh-Ung-Pagode am Affenberg",
+   "Eintritt in die Marmorberge",
+   "Eintritt in die Am-Phu-Höhle",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder für Guide und Fahrer",
+   "Mahlzeit (bei Wahl der Option ohne Essen)",
+   "Zuschlag für Abholungen außerhalb des Zentrums von Da Nang",
+   "Zuschlag an vietnamesischen Feiertagen (wir informieren Sie vorab per WhatsApp oder E-Mail)"
+  ],
+  "shortDescription": "Halbtägige Tour in Da Nang, mit Linh Ung Pagoda, Son Tra, Marmorberge und Dong Am Phu. Durchgeführt von Dacotours, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Marmorberg, Affenberg und Am-Phu-Höhle in Da Nang",
+  "metaDescription": "Halbtägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "monkey-mountain-marble-mountain-am-phu-cave-in-da-nang": {
+  "title": "Affenberg, Marmorberg und Am-Phu-Höhle in Da Nang",
+  "fullDescription": "Dies ist ein 4,5-stündiges Erlebnis in Da Nang, rund um Bus/Reisebus, Marmorberge und Dong Am Phu. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel im Zentrum von Da Nang, Abholung und Rückfahrt zum Hotel in Hoi An, Klimatisiertes Fahrzeug, Guide und Leichte Mahlzeit: Mi-Quang-Nudeln oder vietnamesischer Pfannkuchen Banh Xeo. Nicht enthalten sind Persönliche Ausgaben, Trinkgelder für Guide und Fahrer, Mahlzeit und Zuschlag für Abholungen außerhalb des Zentrums von Da, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Da Nang. Dacotours bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Marmorberge",
+   "Dong Am Phu",
+   "Da Nang",
+   "Dauer: 4,5 Stunden",
+   "Abholung und Rückfahrt am Hotel im Zentrum von Da Nang"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel im Zentrum von Da Nang",
+   "Abholung und Rückfahrt am Hotel in Hoi An (bei der Option „ab Hoi An“)",
+   "Klimatisiertes Fahrzeug",
+   "Guide",
+   "Leichte Mahlzeit: Mi-Quang-Nudeln oder Banh Xeo (bei Wahl dieser Option)",
+   "Wasser in Flaschen",
+   "Eintritt in die Linh-Ung-Pagode am Affenberg",
+   "Eintritt in die Marmorberge",
+   "Eintritt in die Am-Phu-Höhle"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder für Guide und Fahrer",
+   "Mahlzeit (bei Wahl der Option ohne Essen)",
+   "Zuschlag für Abholungen außerhalb des Zentrums von Da Nang",
+   "Zuschlag an vietnamesischen Feiertagen (wir informieren Sie vorab per WhatsApp oder E-Mail)"
+  ],
+  "shortDescription": "Tour in Da Nang, mit Linh Ung Pagoda, Son Tra, Marmorberge und Dong Am Phu. Durchgeführt von Dacotours, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Affenberg, Marmorberg und Am-Phu-Höhle in Da Nang",
+  "metaDescription": "Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "transfer-from-da-nang-to-hoian-or-vice-versa": {
+  "title": "Transfer zwischen Da Nang und Hoi An",
+  "fullDescription": "Dies ist ein 45-minütiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Transfer, Fahrer, Klimatisiertes Fahrzeug und 5 Minuten Wartezeit. Nicht enthalten sind Trinkgelder und Speisen und Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 45 Minuten",
+   "Transfer",
+   "Fahrer",
+   "Klimatisiertes Fahrzeug",
+   "5 Minuten Wartezeit"
+  ],
+  "included": [
+   "Transfer",
+   "Fahrer",
+   "Klimatisiertes Fahrzeug",
+   "5 Minuten Wartezeit"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Speisen und Getränke"
+  ],
+  "shortDescription": "0,75-stündige Tour in Da Nang, inklusive Transfer, Fahrer und Klimatisiertes Fahrzeug. Durchgeführt von Go Travel Da Nang- Vietnam Package Tours, Airport Transfers & Car Rental, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Transfer zwischen Da Nang und Hoi An",
+  "metaDescription": "0,75-stündige Tour in Da Nang. Enthalten: Transfer und Fahrer. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "da-nang-coffee-making-workshop-da-nang": {
+  "title": "Da Nang: Kaffee-Workshop",
+  "fullDescription": "Dies ist ein 1,5-stündiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Utensilien zur Kaffeezubereitung, Zubereitung von 4 Kaffeesorten, Kursleitung und englischsprachiger Reiseleiter und Mittagessen. Nicht enthalten sind Abholung und Rückfahrt, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1,5 Stunden",
+   "Utensilien zur Kaffeezubereitung",
+   "Zubereitung von 4 Kaffeesorten",
+   "Kursleitung und englischsprachiger Reiseleiter",
+   "Mittagessen (beim Paket Kaffeekurs und Mittagessen)"
+  ],
+  "included": [
+   "Utensilien zur Kaffeezubereitung",
+   "Zubereitung von 4 Kaffeesorten",
+   "Kursleitung und englischsprachiger Reiseleiter,",
+   "Mittagessen (beim Paket Kaffeekurs und Mittagessen)"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt"
+  ],
+  "shortDescription": "1,5-stündige Tour in Da Nang, inklusive Utensilien zur Kaffeezubereitung, Zubereitung von 4 Kaffeesorten und Kursleitung und englischsprachiger Reiseleiter. Durchgeführt von HOI AN FOOD TOUR, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: Kaffee-Workshop",
+  "metaDescription": "1,5-stündige Tour in Da Nang. Enthalten: Utensilien zur Kaffeezubereitung. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "han-river-local-cruise-by-night-in-da-nang": {
+  "title": "Da Nang: lokale Nachtfahrt auf dem Han-Fluss",
+  "fullDescription": "Dies ist ein 50-minütiges Erlebnis in Da Nang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Kreuzfahrtticket, Kurze Tanzvorführung, Drachenbrücken-Show und Wochenendzuschlag für die Reservierung. Nicht enthalten sind Abholung und Rückfahrt zum Hotel, Abendessen, Getränk und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 50 Minuten",
+   "Kreuzfahrtticket",
+   "Kurze Tanzvorführung",
+   "Drachenbrücken-Show (bei Wahl dieser Option)",
+   "Wochenendzuschlag für die Reservierung"
+  ],
+  "included": [
+   "Kreuzfahrtticket",
+   "Kurze Tanzvorführung",
+   "Drachenbrücken-Show (bei Wahl dieser Option)",
+   "Wochenendzuschlag für die Reservierung"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Abendessen",
+   "Getränk",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "0,8333333333333334-stündige Tour in Da Nang, mit Hàn River, Da Nang, Dragon Bridge, Da Nang and Hàn River und Da NangTransfer. Durchgeführt von My Viet Trip, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: lokale Nachtfahrt auf dem Han-Fluss",
+  "metaDescription": "0,8333333333333334-stündige Tour in Da Nang. Enthalten: Kreuzfahrtticket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "ban-khoang-and-ta-phin-villages-motorbike-tour-in-sapa": {
   "title": "Sapa: Motorradtour zu den Dörfern Ban Khoang und Ta Phin",
