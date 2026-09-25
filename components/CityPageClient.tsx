@@ -3006,17 +3006,91 @@ export default function CityPageClient({ tours: initialTours, city, country, h1 
                 }
 
                 // PRIORITY 2: Check tour options for groupPricingTiers
+                //
+                // A tier's `price` is the TOTAL for that headcount, so tiers[0] is
+                // what one person pays for the whole vehicle -- the most expensive
+                // per-head case, not a "starting from". The honest starting price is
+                // the lowest PER-PERSON rate, which on a private tour lands at the
+                // largest group size.
+                //
+                // Guide-only options are also skipped when the tour promises
+                // transport: they are a component for travellers who already have a
+                // car, and headlining one put "From Agra: Fatehpur Sikri By Private
+                // Car" on the card at $5.21, a price with no car in it.
                 if (lowestPrice === 0 && tour.options && Array.isArray(tour.options) && tour.options.length > 0) {
-                  for (const opt of tour.options) {
+
+                  // Guide-only options are named inconsistently ("Guide included",
+                  // "Only Professional Tour Guide", "Local Expert Tour Guide Only").
+                  // What they share: they mention a guide and no transport.
+                  const isGuideOnly = (o: any) => {
+                    const t = o.optionDescription || o.title || '';
+                    // "Guide Only - (Without Car & Driver)" names a car in order to
+                    // rule it out; reading that as transport put a $5 guide fee on
+                    // the card for a full-day Delhi tour.
+                    const negated = /\b(without|no|excl|not includ|ticket not)\b/i.test(t);
+                    const hasTransport = !negated && /\bcar\b|vehicle|transport|transfer|driver|train|flight|tuk.?tuk|coach|bus|pick.?up/i.test(t);
+                    return /guide/i.test(t) && !hasTransport;
+                  };
+                  // A car and driver in India is not $5 for an afternoon. Where an
+                  // option claims transport at a total below this, the source listing
+                  // is wrong (GYG has one at $5.21 for "guide and car" next to its own
+                  // $62.50 equivalent), so it must not set the headline.
+                  const impossibleTransport = (o: any) => {
+                    const t = o.optionDescription || o.title || '';
+                    if (!/\bcar\b|vehicle|driver|transfer/i.test(t)) return false;
+                    try {
+                      const tiers = typeof o.groupPricingTiers === 'string' ? JSON.parse(o.groupPricingTiers) : o.groupPricingTiers;
+                      const two = tiers?.find((x: any) => parseInt(x?.minPeople) === 2) || tiers?.[0];
+                      return two ? parseFloat(two.price) < 12 : false;
+                    } catch { return false; }
+                  };
+                  // A guide-only option is a component, never the product on the
+                  // card -- gating this on the title missed "All Inclusive ... Day
+                  // Tour", which then advertised at $3.13 a head for a guide alone.
+                  // Where a tour sells nothing BUT guiding, the fallback keeps it.
+                  let eligible = tour.options.filter((o: any) => !isGuideOnly(o) && !impossibleTransport(o));
+                  if (!eligible.length) eligible = tour.options;
+
+                  // A tour titled "From Delhi: ..." must not advertise its "Tour in
+                  // Agra" option. That option starts where the traveller already is
+                  // and skips the 3-hour drive, so it costs a fraction: the Delhi
+                  // sunrise trip was showing $5.21 when its Delhi option is $62.51.
+                  const cities = ['delhi', 'agra', 'jaipur', 'mumbai', 'chennai', 'bangalore', 'pune'];
+                  const originOf = (text: string) => {
+                    const t = (text || '').toLowerCase();
+                    const head = (t.split(/[:\-–]/)[0] || '').slice(0, 40);
+                    const inHead = cities.find(c => head.includes(c));
+                    if (inHead) return inHead;
+                    const m = t.match(new RegExp('\\b(?:from|in)\\s+(?:new\\s+)?(' + cities.join('|') + ')\\b'));
+                    return m ? m[1] : null;
+                  };
+                  const tourOrigin = originOf(tour.title || '');
+                  if (tourOrigin) {
+                    const same = eligible.filter((o: any) => {
+                      const oo = originOf(o.optionDescription || o.title || '');
+                      return !oo || oo === tourOrigin;
+                    });
+                    if (same.length) eligible = same;
+                  }
+                  for (const opt of (eligible.length ? eligible : tour.options)) {
                     if (opt.groupPricingTiers) {
                       try {
                         const tiers = typeof opt.groupPricingTiers === 'string'
                           ? JSON.parse(opt.groupPricingTiers)
                           : opt.groupPricingTiers;
-                        if (Array.isArray(tiers) && tiers.length > 0 && tiers[0]?.price) {
-                          const firstTierPrice = parseFloat(tiers[0].price) || 0;
-                          if (firstTierPrice > 0) {
-                            lowestPrice = lowestPrice === 0 ? firstTierPrice : Math.min(lowestPrice, firstTierPrice);
+                        if (Array.isArray(tiers)) {
+                          // Quote the rate for TWO travellers, not the cheapest tier.
+                          // Many of these are flat-fee products -- an Agra Fort guided
+                          // walk is about $11.90 for the group however many come -- so
+                          // the 6-person tier reads $1.98 a head, six times under what
+                          // a couple actually pays. Two is the common booking and the
+                          // only figure that compares fairly across tours.
+                          const two = tiers.find((x: any) => parseInt(x?.minPeople) === 2) || tiers[0];
+                          const total = parseFloat(two?.price) || 0;
+                          const heads = parseInt(two?.minPeople) || 1;
+                          const perPerson = total / heads;
+                          if (perPerson > 0) {
+                            lowestPrice = lowestPrice === 0 ? perPerson : Math.min(lowestPrice, perPerson);
                           }
                         }
                       } catch (e) {
@@ -3024,6 +3098,7 @@ export default function CityPageClient({ tours: initialTours, city, country, h1 
                       }
                     }
                   }
+                  lowestPrice = Math.round(lowestPrice * 100) / 100;
                 }
 
                 // FALLBACK: Use pricePerPerson only if no tiers found
@@ -3194,7 +3269,7 @@ export default function CityPageClient({ tours: initialTours, city, country, h1 
                   onClick={() => setVisibleCount((c) => c + PAGE)}
                   className="px-6 py-3 rounded-xl bg-[#10B981] text-white font-black text-[15px] hover:bg-[#0ea371] transition-colors shadow-sm"
                 >
-                  Show more ({sortedTours.length - visibleCount} left)
+                  Show more
                 </button>
               </div>
             )}
