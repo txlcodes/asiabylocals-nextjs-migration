@@ -11275,6 +11275,41 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "2-tägige Kreuzfahrt in der Lan-Ha-Bucht und auf Cat Ba",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Willkommensgetränk. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "ha-long-bay-retreat-luxury-balcony-cruise-2-3-days-by-local-operator": {
+  "title": "Ha-Long-Bucht: Luxuskreuzfahrt mit Balkon, 2 oder 3 Tage",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hinweis: Bitte schreiben Sie Stella unter +84888588700, um, Guide an Bord, Geteilter Hin- und Rücktransfer zwischen Hanoi und dem Hafen, Private Luxuskabine mit Balkon und Badewanne und Alle Mahlzeiten laut Programm. Nicht enthalten sind Persönliche Ausgaben und nicht genannte Getränke, Trinkgelder für Guide und Fahrer, Einzelzuschlag für Alleinreisende oder Zusatzbetten und Feiertagszuschläge, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 8 Stunden",
+   "Hinweis: Bitte schreiben Sie Stella unter +84888588700, um vor der Buchung die Verfügbarkeit des Schiffs zu prüfen.",
+   "Englischsprachiger Guide an Bord",
+   "Geteilter Hin- und Rücktransfer zwischen Hanoi und dem Hafen (klimatisiertes Fahrzeug)",
+   "Private Luxuskabine mit Balkon und Badewanne",
+   "Alle Mahlzeiten laut Programm"
+  ],
+  "included": [
+   "Hinweis: Bitte schreiben Sie Stella unter +84888588700, um vor der Buchung die Verfügbarkeit des Schiffs zu prüfen.",
+   "Englischsprachiger Guide an Bord",
+   "Geteilter Hin- und Rücktransfer zwischen Hanoi und dem Hafen (klimatisiertes Fahrzeug)",
+   "Private Luxuskabine mit Balkon und Badewanne",
+   "Alle Mahlzeiten laut Programm:",
+   "2 Tage/1 Nacht: 2 Mittagessen, 1 Abendessen, 1 Frühstück",
+   "3 Tage/2 Nächte: 3 Mittagessen, 2 Abendessen, 2 Frühstücke",
+   "Erlebnis mit Kajak oder Bambusboot",
+   "Eintrittsgebühren für alle Besichtigungsorte",
+   "Willkommensgetränk beim Einschiffen",
+   "Aktivitäten an Bord: Kochkurs, Tintenfischangeln und leichte Wellness-Einheiten",
+   "Zugang zu den Einrichtungen des Schiffs (Sonnendeck, Pool, soweit vorhanden)"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben und nicht genannte Getränke",
+   "Trinkgelder für Guide und Fahrer (optional)",
+   "Einzelzuschlag für Alleinreisende oder Zusatzbetten",
+   "Feiertagszuschläge (falls zutreffend)"
+  ],
+  "shortDescription": "Ganztägige Tour in Ha Long, inklusive Hinweis: Bitte schreiben Sie Stella unter +84888588700, um, Guide an Bord und Geteilter Hin- und Rücktransfer zwischen Hanoi und dem Hafen. Durchgeführt von Vn biketour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht: Luxuskreuzfahrt mit Balkon, 2 oder 3 Tage",
+  "metaDescription": "Ganztägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "premium-halong-day-cruise-buffet-jacuzzi-and-caves": {
   "title": "Ha Long: Premium-Tageskreuzfahrt mit Buffet, Jacuzzi und Höhlen",
   "fullDescription": "Dies ist ein 6-stündiges Erlebnis in Ha Long, rund um Limousine, Ha Long und Sung-Sot-Höhle. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Moderne 5-Sterne-Luxuskreuzfahrt, Hochwertiges Mittagessen an Bord, Kostenloses Mineralwasser im Bus, Willkommensgetränk an Bord und Eintritts- und Besichtigungsgebühren. Nicht enthalten sind Getränke, Persönliche Ausgaben und Kajak- oder Bambusbootfahrt, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -11375,6 +11410,43 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ruhe in der Bai-Tu-Long-Bucht: 2 Tage/1 Nacht auf einer Luxuskreuzfahrt",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "2-day-jeep-city-tour-and-ha-long-bay-luxury-cruise": {
+  "title": "Stadttour im Jeep und Luxuskreuzfahrt in Ha Long: 2 Tage",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi, Offener Jeep und professioneller Fahrer am Tag 1, Guide, Mittag- oder Abendessen am Tag 1 und Obst und hausgemachter grüner Tee auf der Bananeninsel. Nicht enthalten sind Übernachtung in Hanoi, Frühstück auf der Fahrt zur Ha-Long-Bucht, Zusätzliche Getränke und Reiseversicherung, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. GETGO TRAVEL bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi",
+   "Offener Jeep und professioneller Fahrer am Tag 1",
+   "Englischsprachiger Guide",
+   "Lokales Mittag- oder Abendessen am Tag 1",
+   "Obst und hausgemachter grüner Tee auf der Bananeninsel, je nach Verfügbarkeit"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi",
+   "Offener Jeep und professioneller Fahrer am Tag 1",
+   "Englischsprachiger Guide",
+   "Lokales Mittag- oder Abendessen am Tag 1",
+   "Obst und hausgemachter grüner Tee auf der Bananeninsel, je nach Verfügbarkeit",
+   "Trinkwasser",
+   "Regenponcho bei Bedarf",
+   "Shuttlebus am Tag 2",
+   "Etwa sechsstündige Kreuzfahrt in der Ha-Long-Bucht",
+   "Willkommensgetränk",
+   "Mittagsmenü an Bord",
+   "Kajak oder Sampan an der Luon-Höhle"
+  ],
+  "notIncluded": [
+   "Übernachtung in Hanoi",
+   "Frühstück auf der Fahrt zur Ha-Long-Bucht",
+   "Zusätzliche Getränke",
+   "Reiseversicherung",
+   "Persönliche Ausgaben",
+   "Leistungen, die nicht ausdrücklich unter „Inklusive“ stehen"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, inklusive Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi, Offener Jeep und professioneller Fahrer am Tag 1 und Guide. Durchgeführt von GETGO TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Stadttour im Jeep und Luxuskreuzfahrt in Ha Long: 2 Tage",
+  "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "2-days-lan-ha-bay-hiking-biking-kayaking-2": {
   "title": "Lan-Ha-Bucht in 2 Tagen: Wandern, Radfahren und Kajak",
   "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Ha-Long-Bucht besteht aus rund 1.600 Kalksteininseln und -felsnadeln, die aus dem Golf von Tonkin aufragen, seit 1994 UNESCO-Welterbe, und man sieht sie am besten vom Wasser aus: Tagesfahrten ab Tuan Chau oder dem Hafen von Ha Long dauern sechs bis acht Stunden, mit einer Höhle (Sung Sot oder Thien Cung), einer Kajak- oder Bambusboot-Fahrt in eine Lagune und Mittagessen an Bord; Übernachtungskreuzfahrten fahren weiter hinaus und sind das deutlich bessere Erlebnis, weil die Bucht im Morgengrauen leer ist. Die Lan-Ha-Bucht südlich der Insel Cat Ba hat denselben Karst mit einem Bruchteil der Boote, und dorthin fahren die neueren Schiffe. Bai Tu Long im Nordosten ist die ruhigste der drei. Von Dezember bis Februar ist die Bucht diesig und kühl, am klarsten von März bis Mai und von September bis November; die 2,5-stündige Schnellstraße ab Hanoi hat Tagesausflüge zur Routine gemacht.\n\nIm Preis enthalten sind Abholung von Ihrem Hotel im Zentrum von Ninh Binh und in Tam Coc, Eintrittskarten, Reiseleiter, Alle Mahlzeiten der Reise und Kajakfahren, Schwimmen. Nicht enthalten sind Getränk, Steuern und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -11401,6 +11473,111 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Abholung von Ihrem Hotel im Zentrum von Ninh Binh und in Tam Coc, Eintrittskarten und Reiseleiter. Durchgeführt von Beka Travel Co. Ltd, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Lan-Ha-Bucht in 2 Tagen: Wandern, Radfahren und Kajak",
+  "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "visit-ha-long-bay-on-a-luxury-6-star-cruise-for-2-day-1-night-or-3-day-2-night": {
+  "title": "Ha-Long-Bucht auf einer 6-Sterne-Luxuskreuzfahrt: 2 Tage/1 Nacht oder 3 Tage/2 Nächte",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel, Reiseleiter an Bord, Alle Eintrittskarten, Kreuzfahrt über 3 Tage/2 Nächte oder 2 Tage/1 Nacht und Kajak oder Bambusboot. Nicht enthalten sind Getränke im Restaurant und aus der Minibar, Trinkgelder für Reiseleiter und Fahrer, Zuschlag für Einzelzimmer und Zusatzbett und Zuschlag an vietnamesischen Feiertagen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. VN BIKE TOUR COMPANY LIMTIED bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel in Hanoi oder Ninh Binh",
+   "Englischsprachiger Reiseleiter an Bord (Zuschlag für andere Sprachen)",
+   "Alle Eintrittskarten",
+   "Kreuzfahrt über 3 Tage/2 Nächte oder 2 Tage/1 Nacht",
+   "Kajak oder Bambusboot"
+  ],
+  "included": [
+   "Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel in Hanoi oder Ninh Binh",
+   "Englischsprachiger Reiseleiter an Bord (Zuschlag für andere Sprachen)",
+   "Alle Eintrittskarten",
+   "Kreuzfahrt über 3 Tage/2 Nächte oder 2 Tage/1 Nacht",
+   "Kajak oder Bambusboot",
+   "Private Luxuskabine mit Badewanne",
+   "Eintrittsgebühren, Steuern und Servicegebühr",
+   "Luxusunterkunft mit Klimaanlage, Dusche und 1 Flasche Wasser pro Person",
+   "Willkommensgetränke",
+   "Mahlzeiten an Bord (3 Hauptmahlzeiten und 1 Frühstück bei 2 Tagen/1 Nacht oder 5 Hauptmahlzeiten und 2 Frühstücke bei 3 Tagen/2 Nächten)",
+   "Tai-Chi-Vorführung bei Sonnenaufgang",
+   "Kochkurs an Bord"
+  ],
+  "notIncluded": [
+   "Getränke im Restaurant und aus der Minibar",
+   "Trinkgelder für Reiseleiter und Fahrer",
+   "Zuschlag für Einzelzimmer und Zusatzbett",
+   "Zuschlag an vietnamesischen Feiertagen",
+   "Hinweis: Bitte kontaktieren Sie uns vor der Buchung unter +84 941 692 765, um die Verfügbarkeit des Schiffs zu prüfen"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, inklusive Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel, Reiseleiter an Bord und Alle Eintrittskarten. Durchgeführt von VN BIKE TOUR COMPANY LIMTIED, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht auf einer 6-Sterne-Luxuskreuzfahrt: 2 Tage/1 Nacht oder 3 Tage/2 Nächte",
+  "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "halong-bay-2-day-1-night-cruise": {
+  "title": "Ha-Long-Bucht: Kreuzfahrt über 2 Tage und 1 Nacht",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Voll ausgestattete Deluxe-Kabine mit eigenem Bad und Klimaanlage, Alle Mahlzeiten an Bord, Kostenloser Tee und Kaffee am Morgen, Kostenloses Wasser in Flaschen und Willkommensgetränk. Nicht enthalten sind Shuttle-Transfer von Ihrem Hotel, Upgrade des Transfers auf den Limousinenbus, Zuschlag für Alleinreisende und Softdrinks und Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Voll ausgestattete Deluxe-Kabine mit eigenem Bad, Klimaanlage und Warmwasser",
+   "Alle Mahlzeiten an Bord (2 Mittagessen, 1 Abendessen, 1 Frühstück)",
+   "Kostenloser Tee und Kaffee am Morgen",
+   "Kostenloses Wasser in Flaschen",
+   "Willkommensgetränk"
+  ],
+  "included": [
+   "Voll ausgestattete Deluxe-Kabine mit eigenem Bad, Klimaanlage und Warmwasser",
+   "Alle Mahlzeiten an Bord (2 Mittagessen, 1 Abendessen, 1 Frühstück)",
+   "Kostenloser Tee und Kaffee am Morgen",
+   "Kostenloses Wasser in Flaschen",
+   "Willkommensgetränk",
+   "Kochvorführungen",
+   "Eintritts- und Besichtigungsgebühren",
+   "Kajakfahren",
+   "Englischsprachiger Reiseleiter",
+   "Kostenloses WLAN"
+  ],
+  "notIncluded": [
+   "Shuttle-Transfer von Ihrem Hotel (+15 $ pro Strecke)",
+   "Upgrade des Transfers auf den Limousinenbus (+20 $ pro Strecke)",
+   "Zuschlag für Alleinreisende (60 $)",
+   "Softdrinks und Getränke",
+   "Persönliche Ausgaben",
+   "Feiertagszuschlag nicht enthalten",
+   "Hinweis: Bitte schreiben Sie VOR DER BUCHUNG an +84888348800, um die Verfügbarkeit des Schiffs zu prüfen."
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, inklusive Voll ausgestattete Deluxe-Kabine mit eigenem Bad und Klimaanlage, Alle Mahlzeiten an Bord und Kostenloser Tee und Kaffee am Morgen. Durchgeführt von GUU TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht: Kreuzfahrt über 2 Tage und 1 Nacht",
+  "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "2-day-1-night-lan-ha-bay-boutique-small-group-cruise": {
+  "title": "Lan-Ha-Bucht: Boutique-Kreuzfahrt in kleiner Gruppe, 2 Tage/1 Nacht",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis ab Ha Long, rund um Frühstück und Brunch an Bord. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Deluxe-Kabinen mit Klimaanlage und eigenem Bad, Alle Mahlzeiten an Bord laut Programm, Kostenloses Wasser in Flaschen in der Kabine, Kajakfahren und Schwimmen in weniger touristischen Gebieten und Kochvorführung. Nicht enthalten sind Getränke, Trinkgelder und sonstige persönliche Ausgaben, Alle weiteren Leistungen, die nicht ausdrücklich genannt sind und Aufpreis von 50 $ bei Buchung für nur eine Person, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Frühstück",
+   "Brunch an Bord",
+   "Dauer: 2 Tage",
+   "Deluxe-Kabinen mit Klimaanlage und eigenem Bad (großes Fenster)",
+   "Alle Mahlzeiten an Bord laut Programm",
+   "Kostenloses Wasser in Flaschen in der Kabine"
+  ],
+  "included": [
+   "Deluxe-Kabinen mit Klimaanlage und eigenem Bad (großes Fenster)",
+   "Alle Mahlzeiten an Bord laut Programm",
+   "Kostenloses Wasser in Flaschen in der Kabine",
+   "Kajakfahren und Schwimmen in weniger touristischen Gebieten",
+   "Kochvorführung",
+   "Tintenfischangeln und Karaoke",
+   "Radfahren, Fußmassage und lokale Spirituosen im Dorf Viet Hai (Nationalpark Cat Ba)",
+   "Professioneller einheimischer englischsprachiger Guide",
+   "Alle Eintrittsgebühren, staatlichen Abgaben und Tickets"
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Trinkgelder und sonstige persönliche Ausgaben",
+   "Alle weiteren Leistungen, die nicht ausdrücklich genannt sind",
+   "Aufpreis von 50 $ bei Buchung für nur eine Person (Einzelzimmer)",
+   "Bustransfers sind optional und hängen von der gebuchten Option ab"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, mit Enjoy Dinner, Frühstück und Brunch an Bord. Durchgeführt von Venezia Cruises, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lan-Ha-Bucht: Boutique-Kreuzfahrt in kleiner Gruppe, 2 Tage/1 Nacht",
   "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "from-lan-ha-bay-3-day-2-night-cruise-with-meals-and-kayaking-ha-long": {
@@ -11498,6 +11675,40 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ha-Long-Bucht 2 Tage/1 Nacht an Bord der Arcady, einem Boutique-Schiff",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Bustransfer ab Hanoi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "halong-bay-2-day-cruise-with-arcady-boutique-cruise": {
+  "title": "Ha-Long-Bucht: 2-Tages-Kreuzfahrt mit Arcady Boutique Cruise",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long, rund um Limousine, Ha-Long-Bucht und Ti-Top-Insel. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung am Hotel im Altstadtviertel von Hanoi, Eintritts- und Besichtigungsgebühren, Erfrischendes Willkommensgetränk bei der Ankunft, hauseigener englischsprachiger Reiseleiter und Luxuriöse Kabinen mit Klimaanlage und. Nicht enthalten sind Getränke, Persönliche Ausgaben, Trinkgelder und Aufenthalt im Einzelzimmer für Alleinreisende, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. Arcady Group Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Limousine",
+   "Ha-Long-Bucht",
+   "Ti-Top-Insel",
+   "Sung-Sot-Höhle",
+   "Dauer: 2 Tage",
+   "Abholung am Hotel im Altstadtviertel von Hanoi (bei Wahl dieser Option)"
+  ],
+  "included": [
+   "Abholung am Hotel im Altstadtviertel von Hanoi (bei Wahl dieser Option)",
+   "Eintritts- und Besichtigungsgebühren",
+   "Erfrischendes Willkommensgetränk bei der Ankunft",
+   "Professioneller hauseigener englischsprachiger Reiseleiter",
+   "Luxuriöse Kabinen mit Klimaanlage und eigenem Bad",
+   "Zwei kostenlose Flaschen Wasser in jedem Zimmer",
+   "Alle im Programm angegebenen Mahlzeiten",
+   "Nutzung von Kajaks und Bambusbooten zur Erkundung der Bucht",
+   "Mitmach-Kochkurs und Cocktail vor dem Abendessen",
+   "Tintenfischangeln bei Nacht",
+   "Umfassender Versicherungsschutz an Bord"
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Persönliche Ausgaben",
+   "Trinkgelder",
+   "Aufenthalt im Einzelzimmer für Alleinreisende (2.000.000 VND)"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, mit Ha-Long-Bucht, Luon Cave, Ha-Long-Bucht und Ti-Top-Insel. Durchgeführt von Arcady Group Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht: 2-Tages-Kreuzfahrt mit Arcady Boutique Cruise",
+  "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "halong-bay-day-tour-with-5-star-cruise-and-transfer": {
   "title": "Ha-Long-Bucht an einem Tag: 5-Sterne-Kreuzfahrt und Transfer",
   "fullDescription": "Dies ist ein 12-stündiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfer per Limousine oder Bus während der Reise, Kostenlose Flasche Wasser im Bus, Guide, Tees und Willkommensgetränk an Bord. Nicht enthalten sind Getränke, Trinkgelder für den Reiseleiter und Feiertagszuschlag: Mondneujahr, Neujahr, Weihnachten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. Victory Era Travel Company bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -11527,6 +11738,74 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Ha Long, inklusive Hin- und Rücktransfer per Limousine oder Bus während der Reise, Kostenlose Flasche Wasser im Bus und Guide. Durchgeführt von Victory Era Travel Company, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ha-Long-Bucht an einem Tag: 5-Sterne-Kreuzfahrt und Transfer",
   "metaDescription": "Ganztägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "halong-explorer-3-day-deluxe-cruise": {
+  "title": "Halong Explorer: 3-tägige Deluxe-Kreuzfahrt",
+  "fullDescription": "Dies ist ein 3-tägiges Erlebnis in Ha Long, rund um Fahrt von Hanoi zur Ha-Long-Bucht, Einschiffung an der Marina Tuan Chau und Kajak an der Luon-Höhle. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Guide, Eintrittsgebühren, Sit-on-Top-Kajaks nach internationalem Standard, Kajak-Einweisung durch einen erfahrenen Guide und Vorführung zur Zubereitung von Frühlingsrollen. Nicht enthalten sind Persönliche Getränkebestellungen an der Bar, Einzelzuschlag von 50 $ pro Nacht, Zuschlag von 35 $ pro Person für das Galadinner im Dezember und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Fahrt von Hanoi zur Ha-Long-Bucht",
+   "Einschiffung an der Marina Tuan Chau",
+   "Kajak an der Luon-Höhle",
+   "Entspannen an Bord bei Sonnenuntergang",
+   "Dauer: 3 Tage",
+   "Englischsprachiger Guide"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Eintrittsgebühren",
+   "Sit-on-Top-Kajaks nach internationalem Standard",
+   "Kajak-Einweisung durch einen erfahrenen Guide",
+   "Vorführung zur Zubereitung von Frühlingsrollen",
+   "2 Flaschen Trinkwasser pro Kabine",
+   "Genannte Mahlzeiten (2 Frühstücke, 3 Mittagessen, 2 Abendessen)",
+   "Hin- und Rücktransfer zwischen Hanoi und der Ha-Long-Bucht im klimatisierten Fahrzeug"
+  ],
+  "notIncluded": [
+   "Persönliche Getränkebestellungen an der Bar",
+   "Einzelzuschlag von 50 $ pro Nacht (insgesamt 100 $ für 2 Nächte)",
+   "Zuschlag von 35 $ pro Person für das Galadinner am 24. und 31. Dezember",
+   "Trinkgelder (am Ende der Tour empfohlen)"
+  ],
+  "shortDescription": "3-tägige Tour in Ha Long, mit Fahrt von Hanoi zur Ha-Long-Bucht, Einschiffung an der Marina Tuan Chau und Kajak an der Luon-Höhle. Durchgeführt von Phoenix Cruise, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Halong Explorer: 3-tägige Deluxe-Kreuzfahrt",
+  "metaDescription": "3-tägige Tour in Ha Long. Enthalten: Guide und Eintrittsgebühren. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "3-day-5-star-lan-ha-and-halong-bay": {
+  "title": "Lan-Ha- und Ha-Long-Bucht: 3-tägige 5-Sterne-Kreuzfahrt",
+  "fullDescription": "Dies ist ein 3-tägiges Erlebnis ab Ha Long, rund um Sunset-Party und Kochkurs, Tai Chi Class und Breakfast and Three Peaches. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi, Kreuzfahrt in der Ha-Long- und der Lan-Ha-Bucht, Willkommensgetränk, Vietnamesische Meeresfrüchte- und vegetarische Gerichte und Kajak- und Badeaktivitäten. Nicht enthalten sind Getränke im Restaurant und aus der Minibar, Trinkgelder für Reiseleiter und Fahrer, Persönliche Ausgaben und Alle Leistungen und Artikel, die nicht ausdrücklich in der, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. AMOUR CRUISE bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Sunset-Party und Kochkurs",
+   "Tai-Chi-Einheit und Frühstück",
+   "Drei Pfirsiche",
+   "Sunset-Party, Kochkurs und Abendessen",
+   "Dauer: 3 Tage",
+   "Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi",
+   "Kreuzfahrt in der Ha-Long- und der Lan-Ha-Bucht",
+   "Willkommensgetränk",
+   "Vietnamesische Meeresfrüchte- und vegetarische Gerichte",
+   "Kajak- und Badeaktivitäten",
+   "Kochkurs",
+   "Tai-Chi-Einheit",
+   "Besuch des Dorfes Viet Hai",
+   "Besuch der Hellen und Dunklen Höhle",
+   "Sonnenuntergangsparty",
+   "Abendunterhaltung"
+  ],
+  "notIncluded": [
+   "Getränke im Restaurant und aus der Minibar",
+   "Trinkgelder für Reiseleiter und Fahrer",
+   "Persönliche Ausgaben",
+   "Alle Leistungen und Artikel, die oben nicht ausdrücklich aufgeführt sind",
+   "Einzelzuschlag: 80 USD pro Nacht für eine Einzelkabine",
+   "Kinder teilen sich das Bett mit den Eltern. Für ein separates Bett fällt ein Zuschlag an.",
+   "Zuschlag an Heiligabend (24.12.) und Silvester (31.12.): 35 USD pro Person"
+  ],
+  "shortDescription": "3-tägige Tour in Ha Long, mit Lunch time and Explore Ha Long Bay, Sunset-Party und Cooking Class and Dinner and Evening Entertainment. Durchgeführt von AMOUR CRUISE, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lan-Ha- und Ha-Long-Bucht: 3-tägige 5-Sterne-Kreuzfahrt",
+  "metaDescription": "3-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "ha-noi-cat-ba-lan-ha-bay-cruise-viet-hai-cycle-and-kayak-tour-ha-long": {
   "title": "Hanoi oder Cat Ba: Lan-Ha-Kreuzfahrt, Radtour in Viet Hai und Kajak",
@@ -11853,6 +12132,39 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ha-Long-Bucht: Tageskreuzfahrt mit Mittagessen, Höhle und Kajak",
   "metaDescription": "Halbtägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "3-day-lan-ha-bay-and-cat-ba-cruise-with-2-nights-on-venezia": {
+  "title": "Lan Ha und Cat Ba: 3-tägige Kreuzfahrt mit 2 Nächten an Bord der Venezia",
+  "fullDescription": "Dies ist ein 3-tägiges Erlebnis ab Ha Long, rund um Treffpunkt am Kreuzfahrthafen, Kajakfahren und Schwimmen und Happy Hour an Bord. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Deluxe-Kabinen mit Klimaanlage und eigenem Bad, Alle Mahlzeiten an Bord, Kostenloses Wasser in Flaschen in der Kabine, Willkommensgetränk und Kajakfahren und Schwimmen in weniger touristischen Gebieten. Nicht enthalten sind Getränke, Aufpreis von 100 $ bei Buchung für 1 Gast und Trinkgelder und sonstige persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHanoi. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Treffpunkt am Kreuzfahrthafen",
+   "Kajakfahren und Schwimmen",
+   "Happy Hour an Bord",
+   "Kochkurs",
+   "Dauer: 3 Tage",
+   "Deluxe-Kabinen mit Klimaanlage und eigenem Bad"
+  ],
+  "included": [
+   "Deluxe-Kabinen mit Klimaanlage und eigenem Bad",
+   "Alle Mahlzeiten an Bord",
+   "Kostenloses Wasser in Flaschen in der Kabine",
+   "Willkommensgetränk",
+   "Kajakfahren und Schwimmen in weniger touristischen Gebieten",
+   "Kajakfahren zur Hellen und Dunklen Höhle",
+   "Kochvorführung und Happy Hour",
+   "Tintenfischangeln und Karaoke",
+   "Radfahrt zu einem Dorf, Fußmassage und lokale Spirituosen in Viet Hai, Nationalpark Cat Ba",
+   "Alle Eintritts-, Besichtigungs- und staatlichen Gebühren",
+   "Professioneller einheimischer englischsprachiger Guide, unterhaltsam und informativ"
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Aufpreis von 100 $ bei Buchung für 1 Gast (Einzelzuschlag)",
+   "Trinkgelder und sonstige persönliche Ausgaben"
+  ],
+  "shortDescription": "3-tägige Tour in Ha Long, mit Treffpunkt am Kreuzfahrthafen, Mittagessen und Kajakfahren und Schwimmen. Durchgeführt von Venezia Cruises, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lan Ha und Cat Ba: 3-tägige Kreuzfahrt mit 2 Nächten an Bord der Venezia",
+  "metaDescription": "3-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "lan-ha-bay-full-day-boat-tour": {
   "title": "Lan-Ha-Bucht: Ganztags-Bootstour",
   "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Ha Long, rund um Bus/Reisebus. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Ha-Long-Bucht besteht aus rund 1.600 Kalksteininseln und -felsnadeln, die aus dem Golf von Tonkin aufragen, seit 1994 UNESCO-Welterbe, und man sieht sie am besten vom Wasser aus: Tagesfahrten ab Tuan Chau oder dem Hafen von Ha Long dauern sechs bis acht Stunden, mit einer Höhle (Sung Sot oder Thien Cung), einer Kajak- oder Bambusboot-Fahrt in eine Lagune und Mittagessen an Bord; Übernachtungskreuzfahrten fahren weiter hinaus und sind das deutlich bessere Erlebnis, weil die Bucht im Morgengrauen leer ist. Die Lan-Ha-Bucht südlich der Insel Cat Ba hat denselben Karst mit einem Bruchteil der Boote, und dorthin fahren die neueren Schiffe. Bai Tu Long im Nordosten ist die ruhigste der drei. Von Dezember bis Februar ist die Bucht diesig und kühl, am klarsten von März bis Mai und von September bis November; die 2,5-stündige Schnellstraße ab Hanoi hat Tagesausflüge zur Routine gemacht.\n\nIm Preis enthalten sind Abholung vom Hotel und einfache Busfahrt von Hanoi nach, Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi, Shuttlebus hin und zurück ab dem Zentrum von Cat Ba, Besichtigungstickets und Mittagessen an Bord. Nicht enthalten sind Getränke an Bord und Feiertagszuschlag, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. Beka Travel Co. Ltd bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -11881,6 +12193,42 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Ha Long, inklusive Abholung vom Hotel und einfache Busfahrt von Hanoi nach, Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi und Shuttlebus hin und zurück ab dem Zentrum von Cat Ba. Durchgeführt von Beka Travel Co. Ltd, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Lan-Ha-Bucht: Ganztags-Bootstour",
   "metaDescription": "Ganztägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "ha-long-bay-luxury-voyage-2-day-1-night-or-3-day-2-night-6-star-yacht": {
+  "title": "Ha-Long-Bucht auf einer 6-Sterne-Yacht: 2 Tage/1 Nacht oder 3 Tage/2 Nächte",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel, Reiseleiter an Bord, Alle Eintrittskarten, Kreuzfahrt über 3 Tage/2 Nächte oder 2 Tage/1 Nacht und Kajak oder Bambusboot. Nicht enthalten sind Getränke im Restaurant und aus der Minibar, Trinkgelder für Reiseleiter und Fahrer, Zuschlag für Einzelzimmer und Zusatzbett und Zuschlag an vietnamesischen Feiertagen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. Vietnam Vision Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel in Hanoi oder Ninh Binh",
+   "Englischsprachiger Reiseleiter an Bord (Zuschlag für andere Sprachen)",
+   "Alle Eintrittskarten",
+   "Kreuzfahrt über 3 Tage/2 Nächte oder 2 Tage/1 Nacht",
+   "Kajak oder Bambusboot"
+  ],
+  "included": [
+   "Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel in Hanoi oder Ninh Binh",
+   "Englischsprachiger Reiseleiter an Bord (Zuschlag für andere Sprachen)",
+   "Alle Eintrittskarten",
+   "Kreuzfahrt über 3 Tage/2 Nächte oder 2 Tage/1 Nacht",
+   "Kajak oder Bambusboot",
+   "Private Luxuskabine mit Badewanne",
+   "Eintrittsgebühren, Steuern und Servicegebühr",
+   "Luxusunterkunft mit Klimaanlage, Dusche und 1 Flasche Wasser pro Person",
+   "Willkommensgetränke",
+   "Mahlzeiten an Bord (3 Hauptmahlzeiten und 1 Frühstück bei 2 Tagen/1 Nacht oder 5 Hauptmahlzeiten und 2 Frühstücke bei 3 Tagen/2 Nächten)",
+   "Tai-Chi-Vorführung bei Sonnenaufgang",
+   "Kochkurs an Bord"
+  ],
+  "notIncluded": [
+   "Getränke im Restaurant und aus der Minibar",
+   "Trinkgelder für Reiseleiter und Fahrer",
+   "Zuschlag für Einzelzimmer und Zusatzbett",
+   "Zuschlag an vietnamesischen Feiertagen",
+   "Hinweis: Bitte kontaktieren Sie uns vor der Buchung unter +84 941 692 765, um die Verfügbarkeit des Schiffs zu prüfen"
+  ],
+  "shortDescription": "Tour in Ha Long, inklusive Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel, Reiseleiter an Bord und Alle Eintrittskarten. Durchgeführt von Vietnam Vision Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht auf einer 6-Sterne-Yacht: 2 Tage/1 Nacht oder 3 Tage/2 Nächte",
+  "metaDescription": "Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "3-day-halong-bay-and-lan-ha-bay-cruise-with-meals": {
   "title": "Ha-Long- und Lan-Ha-Bucht: 3-tägige Kreuzfahrt mit Verpflegung",
@@ -12079,6 +12427,75 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ab Hanoi: Ha-Long-Bucht als Tageskreuzfahrt",
   "metaDescription": "Ganztägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "halong-bay-cruise-and-ninh-binh-3-day-tour": {
+  "title": "Kreuzfahrt in der Ha-Long-Bucht und Ninh Binh: 3-Tages-Tour",
+  "fullDescription": "Dies ist ein 3-tägiges Erlebnis ab Ha Long, rund um Einschiffung auf der Fantasea, Sung-Sot-Höhle und Perlenfarm und Kajak. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel im Altstadtviertel von Hanoi, Transport im klimatisierten Reisebus und in der geteilten Limousine, 1 Nacht an Bord der Fantasea, 1 Nacht im Phat Diem Plaza Hotel und Mahlzeiten laut Programm: 2 Frühstücke, 3 Mittagessen. Nicht enthalten sind Reiseversicherung, Getränke und Persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. Culture Adventure Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Einschiffung auf der Fantasea",
+   "Sung-Sot-Höhle",
+   "Perlenfarm und Kajak",
+   "Sunset-Party",
+   "Dauer: 3 Tage",
+   "Abholung und Rückfahrt am Hotel im Altstadtviertel von Hanoi"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel im Altstadtviertel von Hanoi",
+   "Transport im klimatisierten Reisebus und in der geteilten Limousine",
+   "1 Nacht an Bord der Fantasea",
+   "1 Nacht im Phat Diem Plaza Hotel",
+   "Mahlzeiten laut Programm: 2 Frühstücke, 3 Mittagessen und 2 Abendessen",
+   "Führung durch die Sung-Sot-Höhle",
+   "Kajakfahren oder Entspannen beim Perlenfarm-Bereich",
+   "Besuch der Ti-Top-Insel",
+   "Vietnamesische Kochvorführung an Bord",
+   "Besuch der Steinkathedrale von Phat Diem",
+   "Besuch des lokalen Marktes in Phat Diem",
+   "Praktisches vietnamesisches Kocherlebnis"
+  ],
+  "notIncluded": [
+   "Reiseversicherung",
+   "Getränke",
+   "Persönliche Ausgaben und Trinkgelder"
+  ],
+  "shortDescription": "3-tägige Tour in Ha Long, mit Einschiffung auf der Fantasea, Sung-Sot-Höhle und Perlenfarm und Kajak. Durchgeführt von Culture Adventure Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Kreuzfahrt in der Ha-Long-Bucht und Ninh Binh: 3-Tages-Tour",
+  "metaDescription": "3-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "ha-long-luxury-full-day-tour": {
+  "title": "Ha-Long-Bucht: Tagesausflug mit Luxuskreuzfahrt und Mittagsbuffet",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Ha Long, rund um Bus/Reisebus. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfer mit dem Bus ab dem Altstadtviertel von Hanoi, Guide, Eintrittsgebühr für die Ha-Long-Bucht, Kajak oder Bambusboot an der Luon-Höhle und Erkundung der Sung-Sot-Höhle. Nicht enthalten sind Zuschlag zum Mondneujahr, Getränk, Getränke und Reiseversicherung und Trinkgelder für den Reiseleiter, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Dauer: 8 Stunden",
+   "Hin- und Rücktransfer mit dem Bus ab dem Altstadtviertel von Hanoi (bei Wahl dieser Option)",
+   "Englischsprachiger Guide",
+   "Eintrittsgebühr für die Ha-Long-Bucht",
+   "Kajak oder Bambusboot an der Luon-Höhle"
+  ],
+  "included": [
+   "Hin- und Rücktransfer mit dem Bus ab dem Altstadtviertel von Hanoi (bei Wahl dieser Option).",
+   "English-speaking guide.",
+   "Ha Long Bay entrance fee.",
+   "Kajak oder Bambusboot an der Luon-Höhle.",
+   "Erkundung der Sung-Sot-Höhle.",
+   "Aufstieg auf der Ti-Top-Insel und Baden am Strand.",
+   "1 Flasche Wasser im Bus ab Hanoi.",
+   "Zugang zum Whirlpool auf der Luxuskreuzfahrt.",
+   "Mittagsbuffet auf einer Luxuskreuzfahrt.",
+   "Vegetarische und glutenfreie Mittagsoptionen auf Anfrage.",
+   "Enjoy Sunset Party."
+  ],
+  "notIncluded": [
+   "Zuschlag zum Mondneujahr (250.000 VND pro Person vom 16.02.2026 bis 19.02.2026).",
+   "Drink.",
+   "Beverages & travel insurance.",
+   "Trinkgelder für Reiseleiter und Fahrer sowie persönliche Ausgaben.",
+   "Weitere im Programm nicht genannte Punkte."
+  ],
+  "shortDescription": "Ganztägige Tour in Ha Long, inklusive Hin- und Rücktransfer mit dem Bus ab dem Altstadtviertel von Hanoi, Guide und Eintrittsgebühr für die Ha-Long-Bucht. Durchgeführt von RED LION TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht: Tagesausflug mit Luxuskreuzfahrt und Mittagsbuffet",
+  "metaDescription": "Ganztägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "halong-bay-lan-ha-bay-kayak-swimming-luxury-day-cruise": {
   "title": "Ha Long und Lan Ha: Luxus-Tageskreuzfahrt mit Kajak und Schwimmen",
   "fullDescription": "Dies ist ein 7-stündiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Bustransfer von Ihrem Hotel oder Ihrer Unterkunft in der Altstadt von Hanoi nach, 2 Flaschen Wasser pro Person im Bus, 7-stündige Luxuskreuzfahrt, Bambusbootfahrt zur gut zugänglichen Hellen und Dunklen Höhle und Kajakfahren und Schwimmen im Gebiet Ao Ech in der Lan-Ha-Bucht. Nicht enthalten sind Zusätzliche Getränke und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -12108,6 +12525,39 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Ha Long, inklusive Bustransfer von Ihrem Hotel oder Ihrer Unterkunft in der Altstadt von Hanoi nach, 2 Flaschen Wasser pro Person im Bus und 7-stündige Luxuskreuzfahrt. Durchgeführt von Doria Cruise 5 star, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ha Long und Lan Ha: Luxus-Tageskreuzfahrt mit Kajak und Schwimmen",
   "metaDescription": "Ganztägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "ha-long-bay-cruise-kayaking-and-sunset-tea-party": {
+  "title": "Ha-Long-Bucht: Kreuzfahrt, Kajak und Tee-Party zum Sonnenuntergang",
+  "fullDescription": "Dies ist ein Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Transfers im bequemen, klimatisierten Fahrzeug, Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi, Reiseleiter, Luxus-Tageskreuzfahrt in der Ha-Long-Bucht und Eintritt zur Sung-Sot-Höhle. Nicht enthalten sind Trinkgelder und Feiertagszuschlag in Vietnam, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. Dang Khoa bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Transfers im bequemen, klimatisierten Fahrzeug",
+   "Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi (bei Wahl der Option)",
+   "Englischsprachiger Reiseleiter (andere Sprachen gegen Aufpreis)",
+   "Luxus-Tageskreuzfahrt in der Ha-Long-Bucht",
+   "Eintritt zur Sung-Sot-Höhle (Überraschungshöhle)",
+   "Besuch der Luon-Höhle per Kajak oder traditionellem Bambusboot"
+  ],
+  "included": [
+   "Transfers im bequemen, klimatisierten Fahrzeug",
+   "Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi (bei Wahl der Option)",
+   "Englischsprachiger Reiseleiter (andere Sprachen gegen Aufpreis)",
+   "Luxus-Tageskreuzfahrt in der Ha-Long-Bucht",
+   "Eintritt zur Sung-Sot-Höhle (Überraschungshöhle)",
+   "Besuch der Luon-Höhle per Kajak oder traditionellem Bambusboot",
+   "Besuch der Ti-Top-Insel",
+   "Gutes vietnamesisches Mittagsbuffet an Bord",
+   "Nachmittagstee mit Kuchen und saisonalem Obst",
+   "Entspannte Sonnenuntergangsparty auf dem Sonnendeck",
+   "Zugang zum Panoramapool des Schiffs",
+   "Kostenloses Wasser in Flaschen während des Transfers"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Feiertagszuschlag in Vietnam"
+  ],
+  "shortDescription": "Tour in Ha Long, inklusive Transfers im bequemen, klimatisierten Fahrzeug, Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi und Reiseleiter. Durchgeführt von Dang Khoa, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht: Kreuzfahrt, Kajak und Tee-Party zum Sonnenuntergang",
+  "metaDescription": "Tour in Ha Long. Enthalten: Transfers im bequemen, klimatisierten Fahrzeug. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "ha-long-bay-1-or-2-day-5-star-cruise": {
   "title": "Ha-Long-Bucht: 5-Sterne-Kreuzfahrt über 1 oder 2 Tage",
@@ -12142,6 +12592,103 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Ha Long, mit Ha Long. Durchgeführt von Tinny Travel Co.Ltd, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ha-Long-Bucht: 5-Sterne-Kreuzfahrt über 1 oder 2 Tage",
   "metaDescription": "Tour in Ha Long. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "ha-noi-ha-long-bay-day-trip-titop-sung-sot-luon-cave-by-local-operator": {
+  "title": "Ab Hanoi: Ha-Long-Bucht an einem Tag, Ti Top, Sung Sot und Luon-Höhle",
+  "fullDescription": "Dies ist ein 6-stündiges Erlebnis ab Ha Long, rund um Bus/Reisebus. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Moderner Hin- und Rücktransfer zwischen Hanoi und Ha Long über, Mittagsbuffet mit über 35 Gerichten, Englischsprachiger Reiseleiter, Eintritt: Überraschungshöhle und Ti-Top-Insel und Aktivitäten: Sonnenuntergangsparty mit Tee. Nicht enthalten sind Andere Getränke zur Mahlzeit, Trinkgelder, Persönliche Ausgaben und Feiertagszuschlag: 1. Januar sowie 1., 2. und 3. Tet-Tag, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Dauer: 6 Stunden",
+   "Moderner Hin- und Rücktransfer zwischen Hanoi und Ha Long über die Schnellstraße",
+   "Mittagsbuffet mit über 35 Gerichten: Meeresfrüchte, westliche und asiatische Küche, vegetarische Optionen",
+   "Professioneller englischsprachiger Reiseleiter",
+   "Eintritt: Überraschungshöhle, Ti-Top-Insel, Kajak oder Bambusboot"
+  ],
+  "included": [
+   "Moderner Hin- und Rücktransfer zwischen Hanoi und Ha Long über die Schnellstraße",
+   "Mittagsbuffet mit über 35 Gerichten: Meeresfrüchte, westliche und asiatische Küche, vegetarische Optionen",
+   "Professioneller englischsprachiger Reiseleiter",
+   "Eintritt: Überraschungshöhle, Ti-Top-Insel, Kajak oder Bambusboot",
+   "Aktivitäten: Sonnenuntergangsparty mit Tee, Kuchen und Obst sowie Jacuzzi an Bord",
+   "Flasche Wasser im Bus",
+   "Willkommensgetränk an Bord"
+  ],
+  "notIncluded": [
+   "Andere Getränke zur Mahlzeit",
+   "Trinkgelder",
+   "Persönliche Ausgaben",
+   "Feiertagszuschlag: 1. Januar sowie 1., 2. und 3. Tet-Tag (6 $ pro Person)"
+  ],
+  "shortDescription": "Tour in Ha Long, inklusive Moderner Hin- und Rücktransfer zwischen Hanoi und Ha Long über, Mittagsbuffet mit über 35 Gerichten und Englischsprachiger Reiseleiter. Durchgeführt von Victory Era Travel Company, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ab Hanoi: Ha-Long-Bucht an einem Tag, Ti Top, Sung Sot und Luon-Höhle",
+  "metaDescription": "Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "3-day-lan-ha-bay-ninh-binh-excursion-small-group": {
+  "title": "Lan-Ha-Bucht und Ninh Binh: 3-tägiger Ausflug in kleiner Gruppe",
+  "fullDescription": "Dies ist ein 3-tägiges Erlebnis ab Ha Long, rund um Radtour im Dorf Viet Hai, Landschaftliche Bootsfahrt in Trang An und Entdeckung der Bich-Dong-Pagode. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Transfer Hanoi - Kreuzfahrt - Ninh Binh - Hanoi, Abholung und Rückfahrt zum Hotel, 3 Mittagessen, 2 Frühstücke, Schwimmen und Kajakfahren während der Kreuzfahrt in der Lan-Ha-Bucht und Zimmer an Bord. Nicht enthalten sind Persönliche Ausgaben und Zuschlag von 65 $ für Alleinreisende mit privatem Einzelzimmer, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Radtour im Dorf Viet Hai",
+   "Landschaftliche Bootsfahrt in Trang An",
+   "Entdeckung der Bich-Dong-Pagode",
+   "Dauer: 3 Tage",
+   "Transfer Hanoi - Kreuzfahrt - Ninh Binh - Hanoi",
+   "Abholung und Rückfahrt zum Hotel"
+  ],
+  "included": [
+   "Transfer Hanoi - Kreuzfahrt - Ninh Binh - Hanoi",
+   "Abholung und Rückfahrt zum Hotel",
+   "3 Mittagessen, 2 Frühstücke und 1 Abendessen",
+   "Schwimmen und Kajakfahren während der Kreuzfahrt in der Lan-Ha-Bucht",
+   "Zimmer an Bord",
+   "Ganzer Tag in Ninh Binh",
+   "Alle Eintrittskarten während der Kreuzfahrt",
+   "Tour in kleiner Gruppe",
+   "Homestay in Ninh Binh",
+   "Bootsticket für Trang An",
+   "Ticket für die Mua-Höhle"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Zuschlag von 65 $ für Alleinreisende mit privatem Einzelzimmer"
+  ],
+  "shortDescription": "3-tägige Tour in Ha Long, mit Radtour im Dorf Viet Hai, Visit Mua Cave und Landschaftliche Bootsfahrt in Trang An. Durchgeführt von NINH BINH FOOTPRINT TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lan-Ha-Bucht und Ninh Binh: 3-tägiger Ausflug in kleiner Gruppe",
+  "metaDescription": "3-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "2-3-day-lan-ha-bay-erina-5-cruise-kayak-swimming-and-cooking-class-ha-long": {
+  "title": "Lan-Ha-Bucht: Erina-5-Sterne-Kreuzfahrt über 2 oder 3 Tage mit Kajak, Schwimmen und Kochkurs",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransport von und nach Hanoi oder Ninh Binh mit, Eintrittsgebühren, Guide, Kostenloses Upgrade nach Verfügbarkeit und Kostenlose Feier zum Geburtstag, zu Flitterwochen oder zum Jahrestag. Nicht enthalten sind Zusätzliches Getränk, Trinkgelder, Persönliche Ausgaben und Zuschlag, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Hin- und Rücktransport von und nach Hanoi oder Ninh Binh im geteilten Limousinenbus (bei Buchung der Option mit Transfer)",
+   "Eintrittsgebühren",
+   "Englischsprachiger Guide",
+   "Kostenloses Upgrade nach Verfügbarkeit",
+   "Kostenlose Feier zum Geburtstag, zu Flitterwochen oder zum Jahrestag am Abend im Restaurant (bitte vorab per E-Mail an info@erinacruise.com oder über WhatsApp +84 8909813523 Bescheid geben)"
+  ],
+  "included": [
+   "Hin- und Rücktransport von und nach Hanoi oder Ninh Binh im geteilten Limousinenbus (bei Buchung der Option mit Transfer)",
+   "Eintrittsgebühren",
+   "Englischsprachiger Guide",
+   "Kostenloses Upgrade nach Verfügbarkeit",
+   "Kostenlose Feier zum Geburtstag, zu Flitterwochen oder zum Jahrestag am Abend im Restaurant (bitte vorab per E-Mail an info@erinacruise.com oder über WhatsApp +84 8909813523 Bescheid geben)",
+   "Kostenloses frisches Obst im Zimmer und Bettdekoration bei Wunsch nach einem Doppelbett",
+   "Kostenlose Nutzung des Außenpools und des Karaoke",
+   "Luxuriöse Unterkunft mit privatem Balkon, Badewanne, kompletten Pflegeprodukten und moderner Ausstattung",
+   "Täglich kostenloses Mineralwasser in der Kabine",
+   "Kochkurse",
+   "Sunset-Party und Tintenfischangeln",
+   "Kajakfahren und eine Fahrt im Bambusboot, gerudert von einer einheimischen Person"
+  ],
+  "notIncluded": [
+   "Zusätzliches Getränk",
+   "Trinkgelder",
+   "Persönliche Ausgaben",
+   "Zuschlag von 30 USD für das Galadinner am 24.12. und 31.12."
+  ],
+  "shortDescription": "Tour in Ha Long, inklusive Hin- und Rücktransport von und nach Hanoi oder Ninh Binh mit, Eintrittsgebühren und Guide. Durchgeführt von Erina Cruise 5 Star, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lan-Ha-Bucht: Erina-5-Sterne-Kreuzfahrt über 2 oder 3 Tage mit Kajak, Schwimmen und Kochkurs",
+  "metaDescription": "Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "2-days-ha-long-bay-5-star-cruise": {
   "title": "Ha-Long-Bucht: 2-tägige 5-Sterne-Kreuzfahrt",
@@ -12402,6 +12949,105 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ha-Long-Bucht in 2 Tagen an Bord der La Pandora, einem Boutique-Schiff",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Shuttlebus hin und zurück und Reiseleiter. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "lan-ha-bay-cruise-with-private-balcony-biking-kayak-meals-ha-long": {
+  "title": "Lan-Ha-Bucht mit Privatbalkon-Kreuzfahrt: Radfahren, Kajak und Verpflegung",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis ab Ha Long, rund um Einschiffung, Mittagessen und Fahrt durch die Lan-Ha-Bucht, Kajakfahren, Schwimmen, Kochkurs und Happy Hour und Morgenkaffee und Frühstück. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Deluxe-Kabinen mit Klimaanlage und eigenem Bad, Alle Mahlzeiten an Bord laut Programm, Kostenloses Wasser in Flaschen in der Kabine, Willkommensgetränk und Radfahren im Dorf Viet Hai im Nationalpark Cat Ba. Nicht enthalten sind Bustransfer hin und zurück, Getränke und Trinkgeld, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Einschiffung, Mittagessen und Fahrt durch die Lan-Ha-Bucht",
+   "Kajakfahren, Schwimmen, Kochkurs und Happy Hour",
+   "Morgenkaffee und Frühstück",
+   "Dorf Viet Hai: Radtour und Fischmassage",
+   "Dauer: 2 Tage",
+   "Deluxe-Kabinen mit Klimaanlage und eigenem Bad"
+  ],
+  "included": [
+   "Deluxe-Kabinen mit Klimaanlage und eigenem Bad.",
+   "Alle Mahlzeiten an Bord laut Programm.",
+   "Kostenloses Wasser in Flaschen in der Kabine.",
+   "Welcome drink.",
+   "Radfahren im Dorf Viet Hai im Nationalpark Cat Ba.",
+   "Kayaking.",
+   "Cooking demonstration.",
+   "Happy Hours deal.",
+   "Squid Fishing.",
+   "English speaking guide.",
+   "Alle Eintrittskarten.",
+   "Alle Mahlzeiten an Bord."
+  ],
+  "notIncluded": [
+   "Bustransfer hin und zurück.",
+   "Drinks.",
+   "Trinkgeld (optional)"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, mit Check_ In Cruise- Lunch- Cruising Lan Ha, Morning coffee- Breakfast. und Viet Hai Village- Biking Tour- Fish Spa. Durchgeführt von Cat Ba Eco Tours, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lan-Ha-Bucht mit Privatbalkon-Kreuzfahrt: Radfahren, Kajak und Verpflegung",
+  "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "2-day-and-1-night-halong-bay-tour": {
+  "title": "Ha-Long-Bucht: 2 Tage/1 Nacht",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long, rund um Fahrt von Hanoi zur Ha-Long-Bucht, Einschiffung an der Marina Tuan Chau und Entspannen an Bord. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Sightseeing-Kreuzfahrt, Guide, Alle Eintrittsgebühren, Bambusbootfahrt oder Kajak und Vorführung zur Zubereitung von Frühlingsrollen. Nicht enthalten sind Zuschlag für Alleinreisende, Zuschlag von 35 $ pro Person für das Galadinner im Dezember und Getränke an der Bar, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. Phoenix Cruise bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Fahrt von Hanoi zur Ha-Long-Bucht",
+   "Einschiffung an der Marina Tuan Chau",
+   "Entspannen an Bord",
+   "Kreuzfahrt und Mittagessen in der Ha-Long-Bucht",
+   "Dauer: 2 Tage",
+   "Sightseeing-Kreuzfahrt"
+  ],
+  "included": [
+   "Sightseeing-Kreuzfahrt",
+   "Guide",
+   "Alle Eintrittsgebühren",
+   "Bambusbootfahrt oder Kajak",
+   "Vorführung zur Zubereitung von Frühlingsrollen",
+   "Trinkwasser in der Kabine (2 Flaschen)",
+   "Mahlzeiten (1 Frühstück, 2 Mittagessen, 1 Abendessen)",
+   "Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi",
+   "Unterkunft an Bord (2 Personen in einer Doppel- oder Twin-Kabine)"
+  ],
+  "notIncluded": [
+   "Zuschlag für Alleinreisende (50 $ pro Nacht)",
+   "Zuschlag von 35 $ pro Person für das Galadinner am 24. und 31. Dezember",
+   "Getränke an der Bar"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, mit Fahrt von Hanoi zur Ha-Long-Bucht, Take a break en route to Ha Long Bay und Einschiffung an der Marina Tuan Chau. Durchgeführt von Phoenix Cruise, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht: 2 Tage/1 Nacht",
+  "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Sightseeing-Kreuzfahrt und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "3-day-halong-bay-5-star-arcady-cruise": {
+  "title": "Ha-Long-Bucht: 3-tägige 5-Sterne-Arcady-Kreuzfahrt",
+  "fullDescription": "Dies ist ein 3-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Klimatisierter Bus und Limousinenbus laut unserem Programm, Reiseleiter, Bootsfahrt in der Ha-Long-Bucht, Bootsfahrt in Trang An oder Tam Coc und Alle im Programm genannten Unterkünfte. Nicht enthalten sind Getränk, Einzelzuschlag auf unserer Luxuskreuzfahrt und im Bungalow und Zuschlag zu Neujahr und Weihnachten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Tage",
+   "Klimatisierter Bus und Limousinenbus laut unserem Programm",
+   "Englischsprachiger Reiseleiter",
+   "Bootsfahrt in der Ha-Long-Bucht",
+   "Bootsfahrt in Trang An oder Tam Coc",
+   "Alle im Programm genannten Unterkünfte"
+  ],
+  "included": [
+   "Klimatisierter Bus und Limousinenbus laut unserem Programm",
+   "Englischsprachiger Reiseleiter",
+   "Bootsfahrt in der Ha-Long-Bucht",
+   "Bootsfahrt in Trang An oder Tam Coc",
+   "Alle im Programm genannten Unterkünfte:",
+   "1 Nacht an Bord unserer 5-Sterne-Arcady-Kreuzfahrt in der Ha-Long-Bucht",
+   "1 Nacht im Hotel oder Bungalow in Tam Coc, Ninh Binh",
+   "Besichtigungen und Eintritt laut Programm.",
+   "Alle spannenden Aktivitäten:",
+   "Kreuzfahrt in der Ha-Long-Bucht zur Sung-Sot-Höhle und Ruderbootfahrt in Tam Coc oder Trang An",
+   "Besuch der Ti-Top-Insel oder Schwimmen am Strand",
+   "Wanderung zur Mua-Höhle mit großartiger Aussicht"
+  ],
+  "notIncluded": [
+   "Getränke, Mehrwertsteuer, Trinkgelder für Reiseleiter und Fahrer, weitere Mahlzeiten, persönliche Ausgaben und nicht genannte Leistungen",
+   "Einzelzuschlag auf unserer Luxuskreuzfahrt und im Bungalow (98 $ für Alleinreisende)",
+   "Zuschlag zu Neujahr, Weihnachten und an Feiertagen"
+  ],
+  "shortDescription": "3-tägige Tour in Ha Long, inklusive Klimatisierter Bus und Limousinenbus laut unserem Programm, Reiseleiter und Bootsfahrt in der Ha-Long-Bucht. Durchgeführt von Tam Coc Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht: 3-tägige 5-Sterne-Arcady-Kreuzfahrt",
+  "metaDescription": "3-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "ha-long-bay-day-trip-luxury-cruise": {
   "title": "Ha-Long-Bucht: Tagesausflug mit Luxuskreuzfahrt",
   "fullDescription": "Dies ist ein 10-stündiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Guide, Geteilte Limousine mit 22 Sitzen, Mittagsbuffet, Wasser in Flaschen und Kajak. Nicht enthalten sind Eintrittsgebühr, Trinkgelder und Getränk, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -12460,6 +13106,39 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Ha Long, inklusive Abholung und Rückfahrt zum Hotel, Guide und Eintrittsgebühren und Besichtigungstickets. Durchgeführt von Vn biketour, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ha-Long-Bucht: 6-Sterne-Tageskreuzfahrt der Spitzenklasse",
   "metaDescription": "Ganztägige Tour in Ha Long. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "2-day-lan-ha-bay-cruise-with-meals-and-activities": {
+  "title": "Lan-Ha-Bucht: 2-tägige Kreuzfahrt mit Verpflegung und Aktivitäten",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis ab Ha Long, rund um Frühstück und Brunch an Bord. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Privatkabine mit Klimaanlage und eigenem Bad, Alle Mahlzeiten an Bord laut Programm, Kostenloses Wasser in Flaschen in der Kabine, Kajakfahren und Schwimmen in weniger touristischen Gebieten und Kochvorführung. Nicht enthalten sind Getränke, Trinkgelder und sonstige persönliche Ausgaben, Alle weiteren Leistungen, die nicht genannt sind und Aufpreis von 50 $ für Alleinreisende, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Frühstück",
+   "Brunch an Bord",
+   "Dauer: 2 Tage",
+   "Privatkabine mit Klimaanlage und eigenem Bad",
+   "Alle Mahlzeiten an Bord laut Programm",
+   "Kostenloses Wasser in Flaschen in der Kabine"
+  ],
+  "included": [
+   "Privatkabine mit Klimaanlage und eigenem Bad",
+   "Alle Mahlzeiten an Bord laut Programm",
+   "Kostenloses Wasser in Flaschen in der Kabine",
+   "Kajakfahren und Schwimmen in weniger touristischen Gebieten",
+   "Kochvorführung",
+   "Tintenfischangeln und Karaoke",
+   "Radfahren, Fußmassage und lokale Spirituosen im Dorf Viet Hai (Nationalpark Cat Ba)",
+   "Professioneller einheimischer englischsprachiger Guide, unterhaltsam und informativ",
+   "Alle Eintrittsgebühren, staatlichen Abgaben und Tickets"
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Trinkgelder und sonstige persönliche Ausgaben",
+   "Alle weiteren Leistungen, die nicht genannt sind",
+   "Aufpreis von 50 $ für Alleinreisende (Einzelzimmer)",
+   "Bustransfers sind optional und hängen von der gebuchten Option ab"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, mit Enjoy Dinner, Frühstück und Brunch an Bord. Durchgeführt von Venezia Cruises, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lan-Ha-Bucht: 2-tägige Kreuzfahrt mit Verpflegung und Aktivitäten",
+  "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "taliya-day-cruise-lan-h-bay-kayaking-swimming-and-cave-in-ha-long": {
   "title": "Taliya-Tageskreuzfahrt in der Lan-Ha-Bucht: Kajak, Schwimmen und Höhle",
@@ -12613,6 +13292,42 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ha-Long-Bucht: 2 Tage mit Übernachtung auf einer 5-Sterne- oder Premium-Kreuzfahrt",
   "metaDescription": "Tour in Ha Long. Enthalten: Abholung und Rückfahrt zum Hotel und Guide an Bord. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "3-days-luxury-5-star-halong-bay-cruise-cat-ba-island": {
+  "title": "3 Tage 5-Sterne-Luxuskreuzfahrt in der Ha-Long-Bucht und auf Cat Ba",
+  "fullDescription": "Dies ist ein 3-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Neu: kostenloser Shuttle-Transfer in eine Richtung von Hanoi nach, Luxusunterkunft mit Privatbalkon, Alle Eintrittsgebühren, Reiseleiter und Alle Gourmet-Mahlzeiten des Programms. Nicht enthalten sind Getränk, Persönliche Ausgaben, Transport zwischen der Altstadt von Hanoi und Ha Long: 25 und Alle weiteren Leistungen, die oben nicht ausdrücklich genannt sind, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Tage",
+   "Neu: kostenloser Shuttle-Transfer in eine Richtung von Hanoi nach Ha Long für Gruppen ab 4 Personen bei Buchung eines Hin- und Rücktransfers. Gültig für alle Neubuchungen mit Check-in vom 1. Juli bis 30. September",
+   "Luxusunterkunft mit Privatbalkon, Badewanne, kompletten Pflegeprodukten und moderner Ausstattung (2 bis 3 Personen pro Zimmer)",
+   "Alle Eintrittsgebühren",
+   "Englischsprachiger Reiseleiter",
+   "Alle Gourmet-Mahlzeiten des Programms (insgesamt 7)"
+  ],
+  "included": [
+   "Neu: kostenloser Shuttle-Transfer in eine Richtung von Hanoi nach Ha Long für Gruppen ab 4 Personen bei Buchung eines Hin- und Rücktransfers. Gültig für alle Neubuchungen mit Check-in vom 1. Juli bis 30. September",
+   "Luxusunterkunft mit Privatbalkon, Badewanne, kompletten Pflegeprodukten und moderner Ausstattung (2 bis 3 Personen pro Zimmer)",
+   "Alle Eintrittsgebühren",
+   "Englischsprachiger Reiseleiter",
+   "Alle Gourmet-Mahlzeiten des Programms (insgesamt 7)",
+   "Vegetarische Mahlzeiten auf Anfrage",
+   "Kostenloser Zugang zu Pool und Fitnessraum",
+   "Kochkurs",
+   "Sonnenuntergangsparty",
+   "Tintenfischangeln",
+   "Fahrt mit Kajak oder Bambusboot",
+   "Schwimmen"
+  ],
+  "notIncluded": [
+   "Getränk",
+   "Persönliche Ausgaben (Getränke an der Bar, Spa, Massagen, Trinkgelder usw.)",
+   "Transport zwischen der Altstadt von Hanoi und Ha Long: 25 $ pro Person hin und zurück, 15 $ einfach",
+   "Alle weiteren Leistungen, die oben nicht ausdrücklich genannt sind",
+   "Zuschlag an Weihnachten, Neujahr, während des Tet und an vietnamesischen Feiertagen"
+  ],
+  "shortDescription": "3-tägige Tour in Ha Long, inklusive Neu: kostenloser Shuttle-Transfer in eine Richtung von Hanoi nach, Luxusunterkunft mit Privatbalkon und Alle Eintrittsgebühren. Durchgeführt von Ocean Journey Services, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "3 Tage 5-Sterne-Luxuskreuzfahrt in der Ha-Long-Bucht und auf Cat Ba",
+  "metaDescription": "3-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "2-day-lan-ha-bay-cruise-with-plankton-excursion": {
   "title": "2-tägige Kreuzfahrt in der Lan-Ha-Bucht mit Plankton-Ausflug",
   "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel in Cat Ba Town, Abendessen und Frühstück im schwimmenden Homestay, Mittagessen an Bord, Kajakausrüstung und Schwimmwesten. Nicht enthalten sind Getränke, Persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. CAT BA GREEN TRAIL TRAVEL bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -12641,6 +13356,71 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Abholung und Rückfahrt zum Hotel in Cat Ba Town, Abendessen und Frühstück im schwimmenden Homestay und Mittagessen an Bord. Durchgeführt von CAT BA GREEN TRAIL TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "2-tägige Kreuzfahrt in der Lan-Ha-Bucht mit Plankton-Ausflug",
+  "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "ha-long-bay-day-tour-on-a-cruise-with-5-stars-by-local-operator": {
+  "title": "Ha-Long-Bucht an einem Tag auf einer 5-Sterne-Kreuzfahrt",
+  "fullDescription": "Dies ist ein 11-stündiges Erlebnis ab Ha Long, rund um Bus/Reisebus. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfers über die Schnellstraße im modernen und, Englisch- und vietnamesischsprachiger Reiseleiter, Kostenlose Flasche Wasser pro Person, Mittagsbuffet mit guter lokaler Küche und 5-Sterne-Luxuskreuzfahrt zur Sung-Sot-Höhle und Ti-Top-Insel. Nicht enthalten sind Getränke zum Mittagessen, Trinkgelder für Reiseleiter und Fahrer, Freitag und Neujahrszuschlag, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Dauer: 11 Stunden",
+   "Hin- und Rücktransfers über die Schnellstraße im modernen, bequemen Bus",
+   "Professioneller englisch- und vietnamesischsprachiger Reiseleiter",
+   "Kostenlose Flasche Wasser pro Person",
+   "Mittagsbuffet mit guter lokaler Küche"
+  ],
+  "included": [
+   "Hin- und Rücktransfers über die Schnellstraße im modernen, bequemen Bus",
+   "Professioneller englisch- und vietnamesischsprachiger Reiseleiter",
+   "Kostenlose Flasche Wasser pro Person",
+   "Mittagsbuffet mit guter lokaler Küche",
+   "5-Sterne-Luxuskreuzfahrt zur Sung-Sot-Höhle, Ti-Top-Insel und Luon-Höhle",
+   "Alle Besichtigungsgebühren und Eintrittskarten inklusive",
+   "Kajakfahren oder Rudern im Bambusboot"
+  ],
+  "notIncluded": [
+   "Getränke zum Mittagessen",
+   "Trinkgelder für Reiseleiter und Fahrer",
+   "Freitag bis Sonntag kann die Rückfahrt wegen der Fußgängerzonen in der Nähe Ihres Hotels enden.",
+   "Neujahrszuschlag"
+  ],
+  "shortDescription": "Tour in Ha Long, inklusive Hin- und Rücktransfers über die Schnellstraße im modernen und, Englisch- und vietnamesischsprachiger Reiseleiter und Kostenlose Flasche Wasser pro Person. Durchgeführt von GETGO TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht an einem Tag auf einer 5-Sterne-Kreuzfahrt",
+  "metaDescription": "Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "2-day-lanha-luxury-cruise-balcony-kayaking-and-infinity-pool-in-ha-long": {
+  "title": "Lan Ha: 2-tägige Luxuskreuzfahrt mit Balkon, Kajak und Infinity-Pool",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 1 Übernachtung in einer Kabine mit Privatbalkon, Alle Eintrittsgebühren, 2 Mittagessen, 1 Abendessen, Vegetarische Mahlzeiten auf Anfrage und Hauseigener englischsprachiger Reiseleiter. Nicht enthalten sind Transport zwischen der Altstadt von Hanoi und Ha Long, Getränke, Spa und Alle weiteren Leistungen, die oben nicht ausdrücklich genannt sind, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "1 Übernachtung in einer Kabine mit Privatbalkon und Badewanne (2 bis 3 Personen pro Buchung teilen sich eine Kabine)",
+   "Alle Eintrittsgebühren",
+   "2 Mittagessen, 1 Abendessen und 1 Frühstück an Bord",
+   "Vegetarische Mahlzeiten auf Anfrage",
+   "Hauseigener englischsprachiger Reiseleiter"
+  ],
+  "included": [
+   "1 Übernachtung in einer Kabine mit Privatbalkon und Badewanne (2 bis 3 Personen pro Buchung teilen sich eine Kabine)",
+   "Alle Eintrittsgebühren",
+   "2 Mittagessen, 1 Abendessen und 1 Frühstück an Bord",
+   "Vegetarische Mahlzeiten auf Anfrage",
+   "Hauseigener englischsprachiger Reiseleiter",
+   "Willkommensgetränk und warmes Handtuch",
+   "Kostenlose Wasserflaschen im Zimmer",
+   "Kochkurs an Bord",
+   "Morgendliche Tai-Chi-Stunde",
+   "Kajakfahren",
+   "Tintenfischangeln",
+   "Happy Hour (17:30-18:00 Uhr: 2 kaufen, 1 gratis)"
+  ],
+  "notIncluded": [
+   "Transport zwischen der Altstadt von Hanoi und Ha Long (vor oder nach der Kreuzfahrt): 25 $ pro Person hin und zurück oder 15 $ einfach",
+   "Getränke, persönliche Ausgaben",
+   "Spa-, Massage- und Saunaleistungen",
+   "Alle weiteren Leistungen, die oben nicht ausdrücklich genannt sind"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, inklusive 1 Übernachtung in einer Kabine mit Privatbalkon, Alle Eintrittsgebühren und 2 Mittagessen, 1 Abendessen. Durchgeführt von Ocean Journey Services, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lan Ha: 2-tägige Luxuskreuzfahrt mit Balkon, Kajak und Infinity-Pool",
   "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "ha-long-bay-luxury-overnight-cruise-2-day-1-night-or-3-day-2-night": {
@@ -12758,6 +13538,40 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Ha Long, mit Hafen von Tuan Chau, Ha Long und Ti-Top-Insel. Durchgeführt von Halong Excursion, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ha-Long-Ausflug: 5-Sterne-Luxuskreuzfahrt mit Buffet",
   "metaDescription": "Ganztägige Tour in Ha Long. Enthalten: Hin- und Rückfahrt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "2-day-lan-ha-bay-cruise-navy-peak-trekking-tour": {
+  "title": "Lan-Ha-Bucht: 2-tägige Kreuzfahrt und Trekking zum Navy Peak",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Eintritt zum Nationalpark Cat Ba und zur Bucht, Mittagessen in Cat Ba Town am ersten Tag und an Bord am zweiten, Fahrt mit dem Schnellboot, Radfahren im Dorf Viet Hai und Trekking zum Navy Peak. Nicht enthalten sind Persönliche Ausgaben, Reiseversicherung und Transfer ab Hanoi um 6 oder 8 Uhr oder ab Ninh Binh, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Eintritt zum Nationalpark Cat Ba und zur Bucht",
+   "Mittagessen in Cat Ba Town am ersten Tag und an Bord am zweiten",
+   "Fahrt mit dem Schnellboot",
+   "Radfahren im Dorf Viet Hai",
+   "Trekking zum Navy Peak"
+  ],
+  "included": [
+   "Eintritt zum Nationalpark Cat Ba und zur Bucht",
+   "Mittagessen in Cat Ba Town am ersten Tag und an Bord am zweiten",
+   "Fahrt mit dem Schnellboot",
+   "Radfahren im Dorf Viet Hai",
+   "Trekking zum Navy Peak",
+   "Abendessen im Dorf Viet Hai",
+   "Privater Bungalow oder Privatzimmer im Homestay",
+   "Frühstück",
+   "1 große Flasche Wasser am ersten Tag, danach Wasser an Bord zum Nachfüllen",
+   "Kreuzfahrt in der Lan-Ha- und der Ha-Long-Bucht",
+   "Kajakfahren durch die Fledermaushöhle und die Helle Höhle",
+   "Schwimmen und Schnorcheln am Drei-Pfirsiche-Strand"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Reiseversicherung",
+   "Transfer ab Hanoi um 6 oder 8 Uhr oder ab Ninh Binh (Tam Coc) um 7 Uhr"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, inklusive Eintritt zum Nationalpark Cat Ba und zur Bucht, Mittagessen in Cat Ba Town am ersten Tag und an Bord am zweiten und Fahrt mit dem Schnellboot. Durchgeführt von CAT BA GREEN TRAIL TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lan-Ha-Bucht: 2-tägige Kreuzfahrt und Trekking zum Navy Peak",
+  "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "ha-long-bay-and-lan-ha-bay-luxury-cruise-in-1-day-by-local-operator": {
   "title": "Ha-Long- und Lan-Ha-Bucht: Luxuskreuzfahrt an einem Tag",
@@ -12919,6 +13733,41 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ha-Long-Bucht an einem Tag mit der Arcady Premium",
   "metaDescription": "Ganztägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "2-day-1-night-lan-ha-bay-by-le-journey-luxury-cruise": {
+  "title": "Lan-Ha-Bucht: 2 Tage und 1 Nacht auf der Le Journey Luxury Cruise",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 1 Abendessen, 1 Frühstück, 2 Mittagessen, Wasser in Flaschen und Deluxe-Kabine mit Meerblick auf dem ersten Deck. Nicht enthalten sind Alkoholische Getränke und Softdrinks, andere Getränke auf Anfrage, Zuschlag von 30 bis 40 $ pro Person rund um den Tag der Befreiung des Südens, Upgrade-Option: Deluxe-Kabine auf Präsidentensuite = und Wenn Sie in der Gruppe reisen, aber eine Einzelkabine möchten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "1 Abendessen",
+   "1 Frühstück",
+   "2 Mittagessen",
+   "Wasser in Flaschen",
+   "Deluxe-Kabine mit Meerblick auf dem ersten Deck"
+  ],
+  "included": [
+   "1 Abendessen",
+   "1 Frühstück",
+   "2 Mittagessen",
+   "Wasser in Flaschen",
+   "Deluxe-Kabine mit Meerblick auf dem ersten Deck",
+   "Ebenerdige Dusche, Warmwasser und eigenes Bad; Badewanne in den Suite-Kabinen",
+   "Voll ausgestattetes Bad auf Anfrage",
+   "Kostenloses WLAN in den öffentlichen Bereichen des Schiffs und im Büro der Reederei",
+   "Alle Mahlzeiten und alle Eintrittskarten für die Aktivitäten",
+   "Kajak oder Bambusboot, Badezeit am Strand, Kochkurs, Tai-Chi-Stunde und Happy Hour",
+   "Hin- und Rücktransfer Hanoi – Ha Long (3 Stunden über die Schnellstraße im Bus oder in der Limousine), nur bei der Option Abfahrt ab Hanoi.",
+   "Eintritt: Quan-Y-Höhle, Dorf Tra Bau, Lan-Ha-Bucht"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke und Softdrinks, andere Getränke auf Anfrage",
+   "Zuschlag von 30 bis 40 $ pro Person am Tag der Befreiung des Südens, zum chinesischen Neujahr, an Silvester und Weihnachten",
+   "Upgrade-Option: Deluxe-Kabine auf Präsidentensuite, 50 USD pro Person",
+   "Wenn Sie in der Gruppe reisen, aber eine Einzelkabine möchten, buchen Sie bitte separat"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, inklusive 1 Abendessen, 1 Frühstück und 2 Mittagessen. Durchgeführt von AN LAM HA LONG TOURISM SERVICES, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lan-Ha-Bucht: 2 Tage und 1 Nacht auf der Le Journey Luxury Cruise",
+  "metaDescription": "2-tägige Tour in Ha Long. Enthalten: 1 Abendessen und 1 Frühstück. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "cat-ba-national-park-museum-cave-and-sunset-cruise": {
   "title": "Nationalpark Cat Ba: Museum, Höhle und Sonnenuntergangsfahrt",
   "fullDescription": "Dies ist ein 12-stündiges Erlebnis ab Ha Long, rund um Lan-Ha-Bucht, Aussichtspunkt und Nationalpark Cat Ba. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Eintritt zu den Sehenswürdigkeiten: Trung-Trang-Höhle, Nationalpark Cat Ba, Englisch- und vietnamesischsprachiger Guide, Mittagsbuffet an Bord, Hin- und Rücktransfers von und zu Ihrem Hotel in der Altstadt von Hanoi und Kajakfahren. Nicht enthalten sind Sonstige persönliche Ausgaben, Trinkgelder, Getränke an der Bar und Getränke zur Mahlzeit, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHanoi Opera House. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -13049,6 +13898,40 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Bai-Tu-Long-Bucht: Kreuzfahrt über 2 Tage/1 Nacht mit Aktivitäten",
   "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "2-day-ha-long-unesco-overnight-with-hotel-and-yen-tu": {
+  "title": "Ha Long (UNESCO): 2 Tage mit Hotelübernachtung und Berg Yen Tu",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi, Hin- und Rücktransport im komfortablen klimatisierten, Reiseleiter für die Tageskreuzfahrt in der Ha-Long-Bucht, einheimischer Reiseleiter für die Tour zum Berg Yen Tu und Panorama-Bootsfahrt und Besichtigungen in der UNESCO-gelisteten Ha-Long-Bucht. Nicht enthalten sind Seilbahntickets in Yen Tu, Trinkgelder und Es fällt ein Feiertagszuschlag an, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. SST Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Abholung und Rückfahrt am Hotel im Altstadtviertel von Hanoi (zentraler Bereich)",
+   "Hin- und Rücktransport im komfortablen klimatisierten Fahrzeug",
+   "Englischsprachiger Reiseleiter für die Tageskreuzfahrt in der Ha-Long-Bucht",
+   "Professioneller einheimischer Reiseleiter für die Tour zum Berg Yen Tu",
+   "Panorama-Bootsfahrt und Besichtigungen in der UNESCO-gelisteten Ha-Long-Bucht"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel im Altstadtviertel von Hanoi (zentraler Bereich)",
+   "Hin- und Rücktransport im komfortablen klimatisierten Fahrzeug",
+   "Englischsprachiger Reiseleiter für die Tageskreuzfahrt in der Ha-Long-Bucht",
+   "Professioneller einheimischer Reiseleiter für die Tour zum Berg Yen Tu",
+   "Panorama-Bootsfahrt und Besichtigungen in der UNESCO-gelisteten Ha-Long-Bucht",
+   "Kajak- oder Bambusboot-Erlebnis in der Ha-Long-Bucht",
+   "1 Nacht in einem 3-, 4- oder 5-Sterne-Hotel in Ha Long City (Privatzimmer)",
+   "Enthaltene Mahlzeiten: 1 Mittagessen an Tag 1, Frühstück und Mittagessen an Tag 2",
+   "Eintrittskarten für die Sehenswürdigkeiten am Berg Yen Tu",
+   "Traditionelle Volksmusikdarbietung",
+   "Fische füttern am Mondsee",
+   "Trinkwasser in Flaschen während der Tour"
+  ],
+  "notIncluded": [
+   "Seilbahntickets in Yen Tu",
+   "Trinkgelder",
+   "Es fällt ein Feiertagszuschlag an (siehe Wichtige Informationen)"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, inklusive Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi, Hin- und Rücktransport im komfortablen klimatisierten und Reiseleiter für die Tageskreuzfahrt in der Ha-Long-Bucht. Durchgeführt von SST Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha Long (UNESCO): 2 Tage mit Hotelübernachtung und Berg Yen Tu",
+  "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "dragon-king-99-ha-long-bay-day-cruise-by-local-operator": {
   "title": "Dragon King 99: Tageskreuzfahrt in der Ha-Long-Bucht",
   "fullDescription": "Dies ist ein ganztägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt im Standardbus von Ihrem Hotel, Guide, Mittagessen an Bord, Alle in unserem Programm genannten Eintrittsgebühren und Kajak oder Bambusboot. Nicht enthalten sind Getränke und Reiseversicherung, Trinkgelder für den Reiseleiter und Alles Weitere, was nicht im Programm steht, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. HNK Vietnam Travel & Tour Hanoi bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -13104,6 +13987,40 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "3-tägige Tour in Ha Long, inklusive Willkommensgetränke, Abholung und Rückfahrt im Zentrum von Cat Ba und Boutique. Durchgeführt von Beka Travel Co. Ltd, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "3-tägige Kreuzfahrt in der Lan-Ha-Bucht und auf Cat Ba",
   "metaDescription": "3-tägige Tour in Ha Long. Enthalten: Willkommensgetränke. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "ha-long-2-day-1-night-or-3-day-2-night-with-balcony-and-bathtub-on-5-star-cruise": {
+  "title": "Ha Long 2 Tage/1 Nacht oder 3 Tage/2 Nächte auf 5-Sterne-Kreuzfahrt mit Balkon und Badewanne",
+  "fullDescription": "Dies ist ein Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel in, Englischsprachiger Reiseleiter an Bord, Alle Eintrittskarten, Kreuzfahrt über 3 Tage/2 Nächte oder 2 Tage/1 Nacht und Kajak oder Bambusboot. Nicht enthalten sind Trinkgelder für Reiseleiter und Fahrer, Zuschlag an vietnamesischen Feiertagen und Zuschlag für Einzelzimmer oder Zusatzbett für Alleinreisende, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. VN BIKE TOUR COMPANY LIMTIED bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel in Hanoi",
+   "Englischsprachiger Reiseleiter an Bord (Zuschlag für andere Sprachen)",
+   "Alle Eintrittskarten",
+   "Kreuzfahrt über 3 Tage/2 Nächte oder 2 Tage/1 Nacht",
+   "Kajak oder Bambusboot",
+   "Private Luxuskabine mit Badewanne"
+  ],
+  "included": [
+   "Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel in Hanoi",
+   "Englischsprachiger Reiseleiter an Bord (Zuschlag für andere Sprachen)",
+   "Alle Eintrittskarten",
+   "Kreuzfahrt über 3 Tage/2 Nächte oder 2 Tage/1 Nacht",
+   "Kajak oder Bambusboot",
+   "Private Luxuskabine mit Badewanne",
+   "Eintrittsgebühren, Steuern und Servicegebühr",
+   "Luxusunterkunft mit Klimaanlage, Dusche und 1 Flasche Wasser pro Person",
+   "Willkommensgetränke",
+   "Mahlzeiten an Bord (3 Hauptmahlzeiten und 1 Frühstück bei 2 Tagen/1 Nacht; 5 Hauptmahlzeiten und 2 Frühstücke bei 3 Tagen/2 Nächten)",
+   "Tai-Chi-Vorführung bei Sonnenaufgang",
+   "Kochkurs an Bord"
+  ],
+  "notIncluded": [
+   "Trinkgelder für Reiseleiter und Fahrer (optional)",
+   "Zuschlag an vietnamesischen Feiertagen",
+   "Zuschlag für Einzelzimmer oder Zusatzbett für Alleinreisende"
+  ],
+  "shortDescription": "Tour in Ha Long, inklusive Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel in, Englischsprachiger Reiseleiter an Bord und Alle Eintrittskarten. Durchgeführt von VN BIKE TOUR COMPANY LIMTIED, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha Long 2 Tage/1 Nacht oder 3 Tage/2 Nächte auf 5-Sterne-Kreuzfahrt mit Balkon und Badewanne",
+  "metaDescription": "Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "half-day-cruise-with-lunch-kayaking-and-swimming-in-ha-long": {
   "title": "Halbtageskreuzfahrt mit Mittagessen, Kajak und Schwimmen",
@@ -13163,6 +14080,41 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "4-tägige Tour in Ha Long, inklusive Hoteltransfer, Luxuskreuzfahrt und Mittagessen. Durchgeführt von Taha Travel Agency Vn, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ninh Binh und Lan-Ha-Bucht: 4 Tage mit Kreuzfahrt",
   "metaDescription": "4-tägige Tour in Ha Long. Enthalten: Hoteltransfer und Luxuskreuzfahrt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "6-day-5-night-ninh-binh-ha-giang-loop-ha-long-bay-by-arcady-cruise": {
+  "title": "6 Tage/5 Nächte: Ninh Binh, Ha-Giang-Loop und Ha-Long-Bucht an Bord der Arcady",
+  "fullDescription": "Dies ist ein 6-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Klimatisierter Bus und Limousinenbus laut unserem Programm, Reiseleiter, Bootsfahrt auf dem Nho-Que-Fluss und in der Ha-Long-Bucht, Bootsfahrt in Tam Coc oder Trang An in Ninh Binh und Alle im Programm genannten Unterkünfte. Nicht enthalten sind Getränk, Zuschlag zu Neujahr und Weihnachten, Persönliche Ausgaben und Trinkgelder für Guide und Fahrer, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 6 Tage",
+   "Klimatisierter Bus und Limousinenbus laut unserem Programm",
+   "Englischsprachiger Reiseleiter",
+   "Bootsfahrt auf dem Nho-Que-Fluss und in der Ha-Long-Bucht",
+   "Bootsfahrt in Tam Coc oder Trang An in Ninh Binh",
+   "Alle im Programm genannten Unterkünfte"
+  ],
+  "included": [
+   "Klimatisierter Bus und Limousinenbus laut unserem Programm",
+   "Englischsprachiger Reiseleiter",
+   "Bootsfahrt auf dem Nho-Que-Fluss und in der Ha-Long-Bucht",
+   "Bootsfahrt in Tam Coc oder Trang An in Ninh Binh",
+   "Alle im Programm genannten Unterkünfte:",
+   "2 Nächte im Hostel oder Homestay in Ha Giang",
+   "1 Hotelnacht in Hanoi",
+   "1 Nacht im Hotel oder Bungalow in Ninh Binh",
+   "1 Nacht an Bord in der Ha-Long-Bucht",
+   "Besichtigungen und Eintritt laut Programm.",
+   "Besuch der Ti-Top-Insel oder Schwimmen am Strand",
+   "Bambusboot oder Kajak"
+  ],
+  "notIncluded": [
+   "Getränke und Einzelzimmerzuschlag von 169 $ für Alleinreisende",
+   "Zuschlag zu Neujahr, Weihnachten und an Feiertagen",
+   "Persönliche Ausgaben und alle Leistungen, die nicht im Programm genannt sind.",
+   "Trinkgelder für Guide und Fahrer"
+  ],
+  "shortDescription": "6-tägige Tour in Ha Long, inklusive Klimatisierter Bus und Limousinenbus laut unserem Programm, Reiseleiter und Bootsfahrt auf dem Nho-Que-Fluss und in der Ha-Long-Bucht. Durchgeführt von Tam Coc Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "6 Tage/5 Nächte: Ninh Binh, Ha-Giang-Loop und Ha-Long-Bucht an Bord der Arcady",
+  "metaDescription": "6-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "ha-long-bay-day-cruise-from-hanoi-kayaking-swimming-lunch-by-local-operator": {
   "title": "Ha-Long-Bucht ab Hanoi: Tageskreuzfahrt, Kajak, Schwimmen und Mittagessen",
@@ -13385,6 +14337,74 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Ha Long, mit Lan-Ha-Bucht. Durchgeführt von orange tour, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Lan-Ha-Bucht: Luxuskreuzfahrt mit Kajak",
   "metaDescription": "Ganztägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "2-days-luxury-tour-ha-long-bay-on-cruise-5-stars": {
+  "title": "Ha-Long-Bucht: 2 Luxustage auf einer 5-Sterne-Kreuzfahrt",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 2 Tage/1 Nacht auf einer 5-Sterne-Kreuzfahrt, Englischsprachiger Reiseleiter, Willkommensgetränk, Kabine mit Privatbalkon und Meerblick und Voll ausgestattete Kabine mit eigenem Bad und Klimaanlage. Nicht enthalten sind Hin- und Rückfahrt per Limousine: 25 $, Getränke, Persönliche Versicherung und Zuschlag zu Neujahr, Weihnachten und an Feiertagen: 45, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "2 Tage/1 Nacht auf einer 5-Sterne-Kreuzfahrt",
+   "Englischsprachiger Reiseleiter",
+   "Willkommensgetränk (Softdrink, Tee oder Kaffee)",
+   "Kabine mit Privatbalkon und Meerblick",
+   "Voll ausgestattete Kabine mit eigenem Bad und Klimaanlage"
+  ],
+  "included": [
+   "2 Tage/1 Nacht auf einer 5-Sterne-Kreuzfahrt",
+   "Englischsprachiger Reiseleiter",
+   "Willkommensgetränk (Softdrink, Tee oder Kaffee)",
+   "Kabine mit Privatbalkon und Meerblick",
+   "Voll ausgestattete Kabine mit eigenem Bad und Klimaanlage",
+   "Täglich 2 Flaschen Wasser pro Kabine",
+   "Alle Mahlzeiten an Bord (Frühstück, Mittagsbuffet, Abendmenü, vegetarische Optionen)",
+   "Alle Eintrittsgebühren und Tickets",
+   "Kajakfahren",
+   "Tai-Chi an Bord",
+   "Tintenfischangeln",
+   "Schwimmen"
+  ],
+  "notIncluded": [
+   "Hin- und Rückfahrt per Limousine: 25 $ (Hanoi – Ha Long – Hanoi, Ninh Binh – Ha Long – Hanoi oder Hanoi – Ha Long – Ninh Binh)",
+   "Getränke",
+   "Persönliche Versicherung",
+   "Zuschlag zu Neujahr, Weihnachten und an Feiertagen: 45 $ pro Person"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, inklusive 2 Tage/1 Nacht auf einer 5-Sterne-Kreuzfahrt, Englischsprachiger Reiseleiter und Willkommensgetränk. Durchgeführt von Azotar Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht: 2 Luxustage auf einer 5-Sterne-Kreuzfahrt",
+  "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "cat-ba-lan-ha-and-ha-long-bay-luxury-cruise-with-lunch": {
+  "title": "Cat Ba, Lan Ha und Ha-Long-Bucht: Luxuskreuzfahrt mit Mittagessen",
+  "fullDescription": "Dies ist ein Erlebnis ab Ha Long, rund um Bus/Reisebus. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel in Hanoi oder Cat Ba Town, Transfer nach Cat Ba Town, Tageskreuzfahrt, Guide und Mittagessen an Bord. Nicht enthalten sind Mehrwertsteuer, Stand-up-Paddling, Zusätzliche Getränke an Bord und Trinkgelder für Reiseleiter und Crew, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. Vietnamtravelers bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Abholung und Rückfahrt am Hotel in Hanoi oder Cat Ba Town (je nach gewählter Option)",
+   "Transfer nach Cat Ba Town",
+   "Tageskreuzfahrt (bei Wahl einer Kreuzfahrtoption)",
+   "Reiseleiter (bei Wahl einer Kreuzfahrtoption)",
+   "Mittagessen an Bord (bei Wahl einer Kreuzfahrtoption)"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel in Hanoi oder Cat Ba Town (je nach gewählter Option)",
+   "Transfer nach Cat Ba Town",
+   "Tageskreuzfahrt (bei Wahl einer Kreuzfahrtoption)",
+   "Reiseleiter (bei Wahl einer Kreuzfahrtoption)",
+   "Mittagessen an Bord (bei Wahl einer Kreuzfahrtoption)",
+   "Kajakfahren (bei Wahl einer Kreuzfahrtoption)",
+   "Fahrt mit Elektroauto oder Fahrrad im Dorf Viet Hai (bei Wahl einer Kreuzfahrtoption)",
+   "Eintrittsgebühren für alle Sehenswürdigkeiten (bei Wahl einer Kreuzfahrtoption)",
+   "1 kostenloses Willkommensgetränk (bei Wahl einer Kreuzfahrtoption)"
+  ],
+  "notIncluded": [
+   "Mehrwertsteuer",
+   "Stand-up-Paddling",
+   "Zusätzliche Getränke an Bord",
+   "Trinkgelder für Reiseleiter und Crew",
+   "Feiertagszuschlag von 150.000 VND (30. April, 2. September) und traditionelles Neujahr (29. Dezember bis 4. Januar)"
+  ],
+  "shortDescription": "Tour in Ha Long, inklusive Abholung und Rückfahrt am Hotel in Hanoi oder Cat Ba Town, Transfer nach Cat Ba Town und Tageskreuzfahrt. Durchgeführt von Vietnamtravelers, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Cat Ba, Lan Ha und Ha-Long-Bucht: Luxuskreuzfahrt mit Mittagessen",
+  "metaDescription": "Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "halfday-trek-to-ngu-lam-peak-and-trung-trang-cave-in-ha-long": {
   "title": "Halbtages-Trekking zum Ngu-Lam-Gipfel und zur Trung-Trang-Höhle",
@@ -13712,6 +14732,36 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ab Hanoi: Ha-Long-Bucht an einem Tag mit 6-stündiger Kreuzfahrt",
   "metaDescription": "Ganztägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "lanhabay-with-luxury-cruise-full-day-in-ha-long": {
+  "title": "Lan-Ha-Bucht: ganzer Tag auf einer Luxuskreuzfahrt",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Ha Long, rund um Bus/Reisebus, Fähre und Lan-Ha-Bucht. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfer ab Hanoi, Vietnamesisch- und englischsprachiger Guide an Bord, Willkommensgetränk, Mittagessen an Bord und Professioneller Reiseleiter. Nicht enthalten sind Eintrittskarte, Trinkgelder für Reiseleiter und Bordpersonal und Getränke an der Bar, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHoàn Kiếm. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Fähre",
+   "Lan-Ha-Bucht",
+   "Dorf Viet Hai",
+   "Dauer: 8 Stunden",
+   "Hin- und Rücktransfer Hanoi – Lan-Ha-Bucht"
+  ],
+  "included": [
+   "Hin- und Rücktransfer Hanoi – Lan-Ha-Bucht",
+   "Vietnamesisch- und englischsprachiger Guide an Bord.",
+   "Welcome drink.",
+   "Mittagessen an Bord.",
+   "Erfahrener und professioneller Reiseleiter.",
+   "Kayaking, swimming, cycling.",
+   "1 Flasche Wasser gratis.",
+   "Mehrwertsteuer"
+  ],
+  "notIncluded": [
+   "Eintritts- und Besichtigungsticket: 10 $ (250.000 VND) pro Person.",
+   "Trinkgelder für Reiseleiter und Bordpersonal.",
+   "Getränke an der Bar."
+  ],
+  "shortDescription": "Ganztägige Tour in Ha Long, mit Ben Beo harbour, Cat Ba Island, Lan-Ha-Bucht und Dorf Viet Hai. Durchgeführt von Sunlight International Travel Company Limited, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lan-Ha-Bucht: ganzer Tag auf einer Luxuskreuzfahrt",
+  "metaDescription": "Ganztägige Tour in Ha Long. Enthalten: Hin- und Rücktransfer ab Hanoi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "luxury-2-day-1-night-cruise-l-ha-long-and-lan-ha-bay-with-fine-dining": {
   "title": "Luxuskreuzfahrt 2 Tage/1 Nacht in Ha Long und Lan Ha mit Gourmetküche",
   "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Transfer ab Hanoi in der luxuriösen 7-Sitzer-Limousine, Gourmet-Erlebnis unter Michelin-Aufsicht, Privatbalkon in jeder Kabine, Livemusik-Unterhaltung und Ausflug ins Dorf Viet Hai. Nicht enthalten sind Spa-Anwendungen, Getränke während der Livemusik und Abholung vom Hotel außerhalb der Altstadt, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -13741,6 +14791,42 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Transfer ab Hanoi in der luxuriösen 7-Sitzer-Limousine, Gourmet-Erlebnis unter Michelin-Aufsicht und Privatbalkon in jeder Kabine. Durchgeführt von Southern Breeze Joint stock company, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Luxuskreuzfahrt 2 Tage/1 Nacht in Ha Long und Lan Ha mit Gourmetküche",
   "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "lan-ha-bay-5-star-yacht-escape-2-day-1-night-or-3-day-2-night": {
+  "title": "Lan-Ha-Bucht auf einer 5-Sterne-Yacht: 2 Tage/1 Nacht oder 3 Tage/2 Nächte",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel, Reiseleiter an Bord, Alle Eintrittskarten, Kreuzfahrt über 3 Tage/2 Nächte oder 2 Tage/1 Nacht und Kajak oder Bambusboot. Nicht enthalten sind Getränke im Restaurant und aus der Minibar, Trinkgelder für Reiseleiter und Fahrer, Zuschlag für Einzelzimmer und Zusatzbett und Zuschlag an vietnamesischen Feiertagen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. Vietnam Vision Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel in Hanoi oder Ninh Binh",
+   "Englischsprachiger Reiseleiter an Bord (Zuschlag für andere Sprachen)",
+   "Alle Eintrittskarten",
+   "Kreuzfahrt über 3 Tage/2 Nächte oder 2 Tage/1 Nacht",
+   "Kajak oder Bambusboot"
+  ],
+  "included": [
+   "Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel in Hanoi oder Ninh Binh",
+   "Englischsprachiger Reiseleiter an Bord (Zuschlag für andere Sprachen)",
+   "Alle Eintrittskarten",
+   "Kreuzfahrt über 3 Tage/2 Nächte oder 2 Tage/1 Nacht",
+   "Kajak oder Bambusboot",
+   "Private Luxuskabine mit Badewanne",
+   "Eintrittsgebühren, Steuern und Servicegebühr",
+   "Luxusunterkunft mit Klimaanlage, Dusche und 1 Flasche Wasser pro Person",
+   "Willkommensgetränke",
+   "Mahlzeiten an Bord (3 Hauptmahlzeiten und 1 Frühstück bei 2 Tagen/1 Nacht oder 5 Hauptmahlzeiten und 2 Frühstücke bei 3 Tagen/2 Nächten)",
+   "Tai-Chi-Vorführung bei Sonnenaufgang",
+   "Kochkurs an Bord"
+  ],
+  "notIncluded": [
+   "Getränke im Restaurant und aus der Minibar",
+   "Trinkgelder für Reiseleiter und Fahrer (optional)",
+   "Zuschlag für Einzelzimmer und Zusatzbett",
+   "Zuschlag an vietnamesischen Feiertagen",
+   "Hinweis: Bitte kontaktieren Sie uns vor der Buchung unter +84 941 692 765, um die Verfügbarkeit des Schiffs zu prüfen"
+  ],
+  "shortDescription": "Tour in Ha Long, inklusive Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel, Reiseleiter an Bord und Alle Eintrittskarten. Durchgeführt von Vietnam Vision Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lan-Ha-Bucht auf einer 5-Sterne-Yacht: 2 Tage/1 Nacht oder 3 Tage/2 Nächte",
+  "metaDescription": "Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "2-day-1-night-halong-bay-on-5-star-cruise-and-drop-in-ninh-binh": {
   "title": "Ha-Long-Bucht 2 Tage/1 Nacht auf 5-Sterne-Kreuzfahrt, Rückfahrt nach Ninh Binh",
@@ -13776,6 +14862,42 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "2-tägige Tour in Ha Long, mit Ha-Long-Bucht, Luon Cave, Ha-Long-Bucht und Ti-Top-Insel. Durchgeführt von Arcady Group Travel, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ha-Long-Bucht 2 Tage/1 Nacht auf 5-Sterne-Kreuzfahrt, Rückfahrt nach Ninh Binh",
   "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "halong-bay-2-day-1-night-or-3-day-2-night-cruise-with-6-star-yacht": {
+  "title": "Ha-Long-Bucht auf einer 6-Sterne-Yacht: 2 Tage/1 Nacht oder 3 Tage/2 Nächte",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel in, Englischsprachiger Reiseleiter an Bord, Alle Eintrittskarten, Kreuzfahrt über 3 Tage/2 Nächte oder 2 Tage/1 Nacht und Kajak oder Bambusboot. Nicht enthalten sind Getränke im Restaurant und aus der Minibar, Trinkgelder für Reiseleiter und Fahrer, Zuschlag für Einzelzimmer und Zusatzbett und Zuschlag an vietnamesischen Feiertagen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. VN BIKE TOUR COMPANY LIMTIED bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel in Hanoi",
+   "Englischsprachiger Reiseleiter an Bord (Zuschlag für andere Sprachen)",
+   "Alle Eintrittskarten",
+   "Kreuzfahrt über 3 Tage/2 Nächte oder 2 Tage/1 Nacht",
+   "Kajak oder Bambusboot"
+  ],
+  "included": [
+   "Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel in Hanoi",
+   "Englischsprachiger Reiseleiter an Bord (Zuschlag für andere Sprachen)",
+   "Alle Eintrittskarten",
+   "Kreuzfahrt über 3 Tage/2 Nächte oder 2 Tage/1 Nacht",
+   "Kajak oder Bambusboot",
+   "Private Luxuskabine mit Badewanne",
+   "Eintrittsgebühren, Steuern und Servicegebühr",
+   "Luxusunterkunft mit Klimaanlage, Dusche und 1 Flasche Wasser pro Person",
+   "Willkommensgetränke",
+   "Mahlzeiten an Bord (3 Hauptmahlzeiten und 1 Frühstück bei 2 Tagen/1 Nacht; 5 Hauptmahlzeiten und 2 Frühstücke bei 3 Tagen/2 Nächten)",
+   "Tai-Chi-Vorführung bei Sonnenaufgang",
+   "Kochkurs an Bord"
+  ],
+  "notIncluded": [
+   "Getränke im Restaurant und aus der Minibar",
+   "Trinkgelder für Reiseleiter und Fahrer",
+   "Zuschlag für Einzelzimmer und Zusatzbett",
+   "Zuschlag an vietnamesischen Feiertagen",
+   "Hinweis: Bitte kontaktieren Sie uns vor der Buchung unter +84 941 692 765, um die Verfügbarkeit des Schiffs zu prüfen"
+  ],
+  "shortDescription": "Tour in Ha Long, inklusive Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel in, Englischsprachiger Reiseleiter an Bord und Alle Eintrittskarten. Durchgeführt von VN BIKE TOUR COMPANY LIMTIED, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht auf einer 6-Sterne-Yacht: 2 Tage/1 Nacht oder 3 Tage/2 Nächte",
+  "metaDescription": "Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "luxury-ha-long-bay-day-trip-from-harbor-buffet-lunch-kayak-by-local-operator": {
   "title": "Ha-Long-Bucht an einem Tag ab dem Hafen: Luxuskreuzfahrt, Buffet und Kajak",
@@ -13891,6 +15013,39 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Luxuskreuzfahrt über 2 Tage und 1 Nacht, Suite-Kabine mit Meerblick und Badewanne und Im Programm genannte Mahlzeiten. Durchgeführt von Southern Breeze Joint stock company, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "2-tägige Heritage-Kreuzfahrt: Ha-Long- und Lan-Ha-Bucht, UNESCO-Welterbe",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Luxuskreuzfahrt über 2 Tage und 1 Nacht. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "halong-bay-cruise-cave-titop-island-and-kayak-bamboo-boat-ha-long": {
+  "title": "Ha-Long-Bucht: Kreuzfahrt, Höhle, Ti-Top-Insel und Kajak oder Bambusboot",
+  "fullDescription": "Dies ist ein 13-stündiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Ha-Long-Bucht besteht aus rund 1.600 Kalksteininseln und -felsnadeln, die aus dem Golf von Tonkin aufragen, seit 1994 UNESCO-Welterbe, und man sieht sie am besten vom Wasser aus: Tagesfahrten ab Tuan Chau oder dem Hafen von Ha Long dauern sechs bis acht Stunden, mit einer Höhle (Sung Sot oder Thien Cung), einer Kajak- oder Bambusboot-Fahrt in eine Lagune und Mittagessen an Bord; Übernachtungskreuzfahrten fahren weiter hinaus und sind das deutlich bessere Erlebnis, weil die Bucht im Morgengrauen leer ist. Die Lan-Ha-Bucht südlich der Insel Cat Ba hat denselben Karst mit einem Bruchteil der Boote, und dorthin fahren die neueren Schiffe. Bai Tu Long im Nordosten ist die ruhigste der drei. Von Dezember bis Februar ist die Bucht diesig und kühl, am klarsten von März bis Mai und von September bis November; die 2,5-stündige Schnellstraße ab Hanoi hat Tagesausflüge zur Routine gemacht.\n\nIm Preis enthalten sind Hin- und Rücktransfers zwischen Hanoi und Ha Long über die Schnellstraße, Willkommensgetränk, Besuch der Überraschungshöhle, Kajak- oder Bambusbootfahrt in der Lo-Aung-Höhle und Wandern und Schwimmen auf der Insel To Phuc. Nicht enthalten sind Getränke zu den Mahlzeiten inklusive, Zusätzliche Servicegebühren für Guides und Fahrer und Leistungen, die nicht im Abschnitt „Inklusive“ genannt sind, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 13 Stunden",
+   "Hin- und Rücktransfers zwischen Hanoi und Ha Long über die Schnellstraße: Luxus- oder Standardfahrzeug",
+   "Willkommensgetränk",
+   "Besuch der Überraschungshöhle",
+   "Kajak- oder Bambusbootfahrt in der Lo-Aung-Höhle",
+   "Wandern und Schwimmen auf der Insel To Phuc"
+  ],
+  "included": [
+   "Hin- und Rücktransfers zwischen Hanoi und Ha Long über die Schnellstraße: Luxus- oder Standardfahrzeug",
+   "Willkommensgetränk",
+   "Besuch der Überraschungshöhle",
+   "Kajak- oder Bambusbootfahrt in der Lo-Aung-Höhle",
+   "Wandern und Schwimmen auf der Insel To Phuc",
+   "Jacuzzi und Handtücher",
+   "Ticket für die Ha-Long-Bucht (Linie 2)",
+   "Englisch- und vietnamesischsprachiger Guide",
+   "1 Flasche Wasser pro Person und Fahrt",
+   "Mittagsbuffet mit vegetarischen und Fleischgerichten",
+   "Afternoon tea: desserts, tea, wine, etc."
+  ],
+  "notIncluded": [
+   "Getränke zu den Mahlzeiten inklusive",
+   "Zusätzliche Servicegebühren für Guides und Fahrer",
+   "Leistungen, die nicht im Abschnitt „Inklusive“ genannt sind"
+  ],
+  "shortDescription": "Ganztägige Tour in Ha Long, inklusive Hin- und Rücktransfers zwischen Hanoi und Ha Long über die Schnellstraße, Willkommensgetränk und Besuch der Überraschungshöhle. Durchgeführt von Overseas International Travel Group China, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht: Kreuzfahrt, Höhle, Ti-Top-Insel und Kajak oder Bambusboot",
+  "metaDescription": "Ganztägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "halong-bay-1-day-trip-visit-cave-island-kayak": {
   "title": "Ha-Long-Bucht an einem Tag: Höhle, Insel und Kajak",
@@ -14016,6 +15171,41 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Kreuzfahrt in der Bai-Tu-Long-Bucht mit dem Fischerdorf Vung Vieng",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Willkommensgetränk. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "2-day-1-night-ha-long-and-lan-ha-bay-by-le-journey-elegance-cruise": {
+  "title": "Ha-Long- und Lan-Ha-Bucht: 2 Tage und 1 Nacht auf der Le Journey Elegance",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 1 Abendessen, 1 Frühstück, 2 Mittagessen, Wasser in Flaschen und Deluxe-Kabine mit Meerblick auf dem ersten Deck. Nicht enthalten sind Alkoholische Getränke und Softdrinks, andere Getränke auf Anfrage, Zuschlag von 30 bis 40 $ pro Person rund um den Tag der Befreiung des Südens, Upgrade-Option: Deluxe-Kabine auf Präsidentensuite = und Wenn Sie in der Gruppe reisen, aber eine Einzelkabine möchten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "1 Abendessen",
+   "1 Frühstück",
+   "2 Mittagessen",
+   "Wasser in Flaschen",
+   "Deluxe-Kabine mit Meerblick auf dem ersten Deck"
+  ],
+  "included": [
+   "1 Abendessen",
+   "1 Frühstück",
+   "2 Mittagessen",
+   "Wasser in Flaschen",
+   "Deluxe-Kabine mit Meerblick auf dem ersten Deck",
+   "Ebenerdige Dusche, Warmwasser und eigenes Bad; Badewanne in den Suite-Kabinen",
+   "Voll ausgestattetes Bad auf Anfrage",
+   "Kostenloses WLAN in den öffentlichen Bereichen des Schiffs und im Büro der Reederei",
+   "Alle Mahlzeiten und alle Eintrittskarten für die Aktivitäten",
+   "Kajak oder Bambusboot, Badezeit am Strand, Kochkurs, Tai-Chi-Stunde und Happy Hour",
+   "Hin- und Rücktransfer Hanoi – Ha Long (3 Stunden über die Schnellstraße im Bus oder in der Limousine), nur bei der Option Abfahrt ab Hanoi.",
+   "Eintritt: Helle und Dunkle Höhle, schwimmendes Dorf Tra Bau, Drei-Pfirsiche-Insel, Lan-Ha-Bucht"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke und Softdrinks, andere Getränke auf Anfrage",
+   "Zuschlag von 30 bis 40 $ pro Person am Tag der Befreiung des Südens, zum chinesischen Neujahr, an Silvester und Weihnachten",
+   "Upgrade-Option: Deluxe-Kabine auf Präsidentensuite, 50 USD pro Person",
+   "Wenn Sie in der Gruppe reisen, aber eine Einzelkabine möchten, buchen Sie bitte separat"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, inklusive 1 Abendessen, 1 Frühstück und 2 Mittagessen. Durchgeführt von AN LAM HA LONG TOURISM SERVICES, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long- und Lan-Ha-Bucht: 2 Tage und 1 Nacht auf der Le Journey Elegance",
+  "metaDescription": "2-tägige Tour in Ha Long. Enthalten: 1 Abendessen und 1 Frühstück. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "ha-long-bay-bay-with-private-car-and-private-luxury-crruise-by-local-operator": {
   "title": "Ha-Long-Bucht mit Privatwagen und privater Luxuskreuzfahrt",
   "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Privater Hin- und Rücktransfer im Auto ab Hanoi, Luxuskreuzfahrt-Erlebnis, Eintrittsgebühren und Besichtigungstickets, Guide an Bord und Willkommensgetränk. Nicht enthalten sind Trinkgelder für Guide oder Fahrer und Zuschlag an vietnamesischen Feiertagen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -14074,6 +15264,42 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Abholung und Rückfahrt zum Hotel im Luxus-Shuttle, Alle Mahlzeiten an Bord und Willkommensgetränk. Durchgeführt von Southern Breeze Joint stock company, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ha-Long-Bucht 2 Tage/1 Nacht an Bord der Hermes, ab Hanoi",
+  "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "luxury-lan-ha-bay-cruise-on-2-day-1-night-or-3-day-2-night": {
+  "title": "Lan-Ha-Bucht als Luxuskreuzfahrt: 2 Tage/1 Nacht oder 3 Tage/2 Nächte",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel in, Englischsprachiger Reiseleiter an Bord, Alle Eintrittskarten, Kreuzfahrt über 3 Tage/2 Nächte oder 2 Tage/1 Nacht und Kajak oder Bambusboot. Nicht enthalten sind Getränke im Restaurant und aus der Minibar, Trinkgelder für Reiseleiter und Fahrer, Zuschlag für Einzelzimmer und Zusatzbett und Zuschlag an vietnamesischen Feiertagen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. Vietora Journeys bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel in Hanoi",
+   "Englischsprachiger Reiseleiter an Bord (Zuschlag für andere Sprachen)",
+   "Alle Eintrittskarten",
+   "Kreuzfahrt über 3 Tage/2 Nächte oder 2 Tage/1 Nacht",
+   "Kajak oder Bambusboot"
+  ],
+  "included": [
+   "Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel in Hanoi",
+   "Englischsprachiger Reiseleiter an Bord (Zuschlag für andere Sprachen)",
+   "Alle Eintrittskarten",
+   "Kreuzfahrt über 3 Tage/2 Nächte oder 2 Tage/1 Nacht",
+   "Kajak oder Bambusboot",
+   "Private Luxuskabine mit Badewanne",
+   "Eintrittsgebühren, Steuern und Servicegebühr",
+   "Luxusunterkunft mit Klimaanlage, Dusche und 1 Flasche Wasser pro Person",
+   "Willkommensgetränke",
+   "Mahlzeiten an Bord (3 Hauptmahlzeiten und 1 Frühstück bei 2 Tagen/1 Nacht; 5 Hauptmahlzeiten und 2 Frühstücke bei 3 Tagen/2 Nächten)",
+   "Tai-Chi-Vorführung bei Sonnenaufgang",
+   "Kochkurs an Bord"
+  ],
+  "notIncluded": [
+   "Getränke im Restaurant und aus der Minibar",
+   "Trinkgelder für Reiseleiter und Fahrer",
+   "Zuschlag für Einzelzimmer und Zusatzbett",
+   "Zuschlag an vietnamesischen Feiertagen",
+   "Hinweis: Bitte kontaktieren Sie uns vor der Buchung unter +84 941 692 765, um die Verfügbarkeit des Schiffs zu prüfen"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, inklusive Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel in, Englischsprachiger Reiseleiter an Bord und Alle Eintrittskarten. Durchgeführt von Vietora Journeys, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lan-Ha-Bucht als Luxuskreuzfahrt: 2 Tage/1 Nacht oder 3 Tage/2 Nächte",
   "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "1-day-ha-long-bay-luxury-cruise-with-buffet": {
@@ -14195,6 +15421,70 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Kreuzfahrt in der Ha-Long-Bucht mit Transfer ab Ninh Binh",
   "metaDescription": "Ganztägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "tam-coc-e-bike-and-dundj-valley-tour": {
+  "title": "Tam Coc: E-Bike-Tour und Dundj-Tal",
+  "fullDescription": "Dies ist ein 7,5-stündiges Erlebnis ab Ha Long, rund um Tam Coc, Thai-Vi-Tempel und Bich-Dong-Pagode. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nNinh Binh, zwei Stunden südlich von Hanoi, ist derselbe Kalksteinkarst wie die Ha-Long-Bucht, steht aber in Reisfeldern statt im Meer, weshalb man es das Ha Long an Land nennt. Trang An ist das UNESCO-Gebiet, das man auf einer zwei- bis dreistündigen Sampan-Runde durch eine Kette von Höhlen und Tempeln rudert, fast ohne Motorenlärm; Tam Coc ist die ältere, kürzere Fahrt an den Feldern entlang, am schönsten Ende Mai, wenn der Reis golden steht. Hoa Lu war im zehnten Jahrhundert Vietnams Hauptstadt und bewahrt zwei Dynastietempel; die Mua-Höhle sind 500 Stufen hinauf zum Drachen-Aussichtspunkt über das ganze Tal; Bai Dinh ist die größte buddhistische Anlage des Landes. Tagestouren ab Hanoi decken zwei oder drei davon ab; die Ruderinnen erwarten ein Trinkgeld, und die Radfahrt zwischen den Sehenswürdigkeiten ist der beste Teil des Tages.\n\nAbholung ist ab 02 Đ. Hoàng Quốc Việt, WX9Q+CRH und Old Quarter möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Tuan Chau Island Tourism Trading Services Company Limited abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Abholung bei Tuan Chau Island Journeys, Einfacher Transfer im klimatisierten Minivan von Ha Long nach, Gepäcktransport und -aufbewahrung während der Tour, Vietnamesisches Mittagessen in einem lokalen Restaurant und Englischsprachiger Reiseleiter. Nicht enthalten sind Rücktransport von Ninh Binh nach Ha Long, Abholung oder Rückfahrt außerhalb der angegebenen Bereiche, Zusätzliche Speisen und Getränke und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. Tuan Chau Island Tourism Trading Services Company Limited bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Tam Coc",
+   "Thai-Vi-Tempel",
+   "Bich-Dong-Pagode",
+   "Ninh Binh",
+   "Dauer: 7,5 Stunden",
+   "Abholung bei Tuan Chau Island Journeys (D9, Ngoc Chau, Tuan Chau, Quang Ninh)"
+  ],
+  "included": [
+   "Abholung bei Tuan Chau Island Journeys (D9, Ngoc Chau, Tuan Chau, Quang Ninh)",
+   "Einfacher Transfer im klimatisierten Minivan von Ha Long nach Ninh Binh oder von Hanoi nach Ninh Binh",
+   "Gepäcktransport und -aufbewahrung während der Tour",
+   "Vietnamesisches Mittagessen in einem lokalen Restaurant",
+   "Einheimischer englischsprachiger Reiseleiter",
+   "E-Bike und Schutzhelm",
+   "Sicherheitseinweisung und geführte Fahrt durch die Landschaft",
+   "Wasser in Flaschen",
+   "Besuch des Thai-Vi-Tempels und der Bich-Dong-Pagode",
+   "Erlebnis im Dundj-Tal, entweder mit Sampanfahrt oder geführter Wanderung durch die Landschaft, je nach Wasserstand, Wetter und Sicherheitslage",
+   "Absetzen an ausgewählten Hotels in Tam Coc, Trang An oder Ninh Binh"
+  ],
+  "notIncluded": [
+   "Rücktransport von Ninh Binh nach Ha Long",
+   "Abholung oder Rückfahrt außerhalb der angegebenen Bereiche",
+   "Zusätzliche Speisen und Getränke",
+   "Persönliche Ausgaben",
+   "Reiseversicherung",
+   "Trinkgelder für Guide und Fahrer"
+  ],
+  "shortDescription": "Tour in Ha Long, mit Tam Coc, Thai-Vi-Tempel und Bich-Dong-Pagode. Durchgeführt von Tuan Chau Island Tourism Trading Services Company Limited, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Tam Coc: E-Bike-Tour und Dundj-Tal",
+  "metaDescription": "Tour in Ha Long. Enthalten: Abholung bei Tuan Chau Island Journeys. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "otis-ha-long-bay-luxury-cruise-buffet-and-stylish-deck": {
+  "title": "Otis: Luxuskreuzfahrt in der Ha-Long-Bucht mit Buffet und stilvollem Deck",
+  "fullDescription": "Dies ist ein Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt an Ihrem Hotel im Altstadtviertel, 6-stündige Kreuzfahrt, Eintrittsgebühren und Tickets, Mittagessen an Bord und Eine kleine Flasche Wasser im Bus. Nicht enthalten sind Trinkgelder für Reiseleiter und Fahrer, Optional: Kajak oder Fahrt im Bambusboot und Weitere oben nicht genannte Punkte, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. City Tour Hanoi bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Abholung und Rückfahrt an Ihrem Hotel im Altstadtviertel",
+   "6-stündige Kreuzfahrt",
+   "Eintrittsgebühren und Tickets",
+   "Mittagessen an Bord",
+   "Eine kleine Flasche Wasser im Bus",
+   "Englischsprachiger Reiseleiter"
+  ],
+  "included": [
+   "Abholung und Rückfahrt an Ihrem Hotel im Altstadtviertel.",
+   "6-stündige Kreuzfahrt.",
+   "Eintrittsgebühren und Tickets.",
+   "Mittagessen an Bord.",
+   "Eine kleine Flasche Wasser im Bus.",
+   "English - speaking tour guide."
+  ],
+  "notIncluded": [
+   "Trinkgelder für Reiseleiter und Fahrer.",
+   "Optional: Kajak oder Fahrt im Bambusboot.",
+   "Other items not mentioned above."
+  ],
+  "shortDescription": "Tour in Ha Long, inklusive Abholung und Rückfahrt an Ihrem Hotel im Altstadtviertel, 6-stündige Kreuzfahrt und Eintrittsgebühren und Tickets. Durchgeführt von City Tour Hanoi, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Otis: Luxuskreuzfahrt in der Ha-Long-Bucht mit Buffet und stilvollem Deck",
+  "metaDescription": "Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "lan-ha-bay-catamaran-escape-with-kayak-trampoline-and-sunset-ha-long": {
   "title": "Lan-Ha-Bucht per Katamaran: Kajak, Trampolin und Sonnenuntergang",
   "fullDescription": "Dies ist ein 12-stündiges Erlebnis ab Ha Long, rund um Lan-Ha-Bucht. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Ha-Long-Bucht besteht aus rund 1.600 Kalksteininseln und -felsnadeln, die aus dem Golf von Tonkin aufragen, seit 1994 UNESCO-Welterbe, und man sieht sie am besten vom Wasser aus: Tagesfahrten ab Tuan Chau oder dem Hafen von Ha Long dauern sechs bis acht Stunden, mit einer Höhle (Sung Sot oder Thien Cung), einer Kajak- oder Bambusboot-Fahrt in eine Lagune und Mittagessen an Bord; Übernachtungskreuzfahrten fahren weiter hinaus und sind das deutlich bessere Erlebnis, weil die Bucht im Morgengrauen leer ist. Die Lan-Ha-Bucht südlich der Insel Cat Ba hat denselben Karst mit einem Bruchteil der Boote, und dorthin fahren die neueren Schiffe. Bai Tu Long im Nordosten ist die ruhigste der drei. Von Dezember bis Februar ist die Bucht diesig und kühl, am klarsten von März bis Mai und von September bis November; die 2,5-stündige Schnellstraße ab Hanoi hat Tagesausflüge zur Routine gemacht.\n\nIm Preis enthalten sind Mittagessen an Bord, Kostenloses Trinkwasser zum Mittagessen, Willkommensgetränk, Kajakfahren und Netz-Lounge des Katamarans. Nicht enthalten sind Oben nicht genannte Getränke, Alle weiteren, oben nicht genannten Leistungen und Servicesteuer und Gebühren, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -14224,6 +15514,69 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Ha Long, mit Lan Ha Bay and Dark Cave und Cat Ba Island. Durchgeführt von Halong Catamaran Cruise, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Lan-Ha-Bucht per Katamaran: Kajak, Trampolin und Sonnenuntergang",
   "metaDescription": "Ganztägige Tour in Ha Long. Enthalten: Mittagessen an Bord. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "2-3-day-lanhabay-doris-5-cruise-swimming-kayak-and-cookingclass-in-ha-long": {
+  "title": "Lan-Ha-Bucht: Doris-5-Sterne-Kreuzfahrt über 2 oder 3 Tage mit Schwimmen, Kajak und Kochkurs",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Eintrittsgebühren, Guide, Luxuriöse Unterkunft mit Klimaanlage, Kajak oder Ruderboot und Willkommensgetränke. Nicht enthalten sind Getränke im Restaurant und aus der Minibar, Trinkgelder für Reiseleiter und Fahrer, Persönliche Ausgaben und Transferleistungen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Eintrittsgebühren, Steuern und Servicegebühr",
+   "Englischsprachiger Guide",
+   "Luxuriöse Unterkunft mit Klimaanlage, Dusche und 1 Flasche Wasser pro Person",
+   "Kajak oder Ruderboot",
+   "Willkommensgetränke"
+  ],
+  "included": [
+   "Eintrittsgebühren, Steuern und Servicegebühr",
+   "Englischsprachiger Reiseleiter",
+   "Luxuriöse Unterkunft mit Klimaanlage, Dusche und 1 Flasche Wasser pro Person.",
+   "Kajak oder Ruderboot",
+   "Willkommensgetränke",
+   "Mahlzeiten an Bord",
+   "Tai-Chi-Vorführung bei Sonnenaufgang"
+  ],
+  "notIncluded": [
+   "Getränke im Restaurant und aus der Minibar",
+   "Trinkgelder für Reiseleiter und Fahrer",
+   "Persönliche Ausgaben",
+   "Transferleistungen",
+   "Alle Leistungen und Artikel, die oben nicht ausdrücklich aufgeführt sind"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, inklusive Eintrittsgebühren, Guide und Luxuriöse Unterkunft mit Klimaanlage. Durchgeführt von Doris Cruise 5 Star, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lan-Ha-Bucht: Doris-5-Sterne-Kreuzfahrt über 2 oder 3 Tage mit Schwimmen, Kajak und Kochkurs",
+  "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Eintrittsgebühren und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "ha-long-bay-premium-day-cruise-with-sunset-by-local-operator": {
+  "title": "Ha-Long-Bucht: Premium-Tageskreuzfahrt mit Sonnenuntergang",
+  "fullDescription": "Dies ist ein 7,5-stündiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi, Hin- und Rückfahrt ab Hanoi, Luxuskreuzfahrt, Willkommensgetränk an Bord und Mittagsbuffet mit vietnamesischer und internationaler Küche oder. Nicht enthalten sind Persönliche Ausgaben und Trinkgelder, Zuschlag an vietnamesischen Feiertagen und Kajakaktivität, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. Vn biketour bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 7,5 Stunden",
+   "Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi (je nach gewählter Option)",
+   "Hin- und Rückfahrt Hanoi – Ha Long – Hanoi im klimatisierten Auto (je nach gewählter Option)",
+   "Luxuskreuzfahrt",
+   "Willkommensgetränk an Bord",
+   "Mittagsbuffet mit vietnamesischer und internationaler Küche oder Menü"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi (je nach gewählter Option)",
+   "Hin- und Rückfahrt Hanoi – Ha Long – Hanoi im klimatisierten Auto (je nach gewählter Option)",
+   "Luxuskreuzfahrt",
+   "Willkommensgetränk an Bord",
+   "Mittagsbuffet mit vietnamesischer und internationaler Küche oder Menü",
+   "Eintrittsgebühren für alle im Programm genannten Sehenswürdigkeiten",
+   "Englischsprachiger Guide (Zuschlag für andere Sprachen)",
+   "Trinkwasser in Flaschen im Auto",
+   "Frisches Obst und Erfrischungen zum Sonnenuntergang an Bord",
+   "Versicherung an Bord"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben und Trinkgelder (optional)",
+   "Zuschlag an vietnamesischen Feiertagen",
+   "Kajakaktivität, vor Ort auf eigene Kosten zu zahlen"
+  ],
+  "shortDescription": "Tour in Ha Long, inklusive Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi, Hin- und Rückfahrt ab Hanoi und Luxuskreuzfahrt. Durchgeführt von Vn biketour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht: Premium-Tageskreuzfahrt mit Sonnenuntergang",
+  "metaDescription": "Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "lan-ha-bay-2-3-day-cruise-with-private-cabin-with-balcony-ha-long": {
   "title": "Lan-Ha-Bucht: Kreuzfahrt über 2 bis 3 Tage, Privatkabine mit Balkon",
@@ -14533,6 +15886,42 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ab Hanoi: Ha-Long-Bucht mit 5-Sterne-Kreuzfahrt, Kajak und Mittagsbuffet",
   "metaDescription": "Halbtägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "shore-excursion-halong-5-star-cruise-and-sacred-pearl-show-ha-long": {
+  "title": "Landausflug in Ha Long: 5-Sterne-Kreuzfahrt und Sacred-Pearl-Show",
+  "fullDescription": "Dies ist ein 12,5-stündiges Erlebnis in Ha Long, rund um Bus/Reisebus, Ha-Long-Bucht und Sung-Sot-Höhle. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Route und Programm der Tageskreuzfahrt, 1 leichtes Frühstück und 1 hochwertiges Mittagessen an Bord, Romantische Fotoplätze auf dem Sonnendeck und der Glasbrücke, Kundenbetreuung rund um die Uhr durch Ambassador Services und Versicherung an Bord. Nicht enthalten sind Getränke, die nicht in der Leistung enthalten sind, Kabinen an Bord, Massage und Kajakfahren und Bambusbootrudern, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Ha-Long-Bucht",
+   "Sung-Sot-Höhle",
+   "Ti-Top-Insel",
+   "Dauer: 12,5 Stunden",
+   "Route und Programm der Tageskreuzfahrt"
+  ],
+  "included": [
+   "Route und Programm der Tageskreuzfahrt",
+   "1 leichtes Frühstück und 1 hochwertiges Mittagessen an Bord",
+   "Romantische Fotoplätze auf dem Sonnendeck und der Glasbrücke",
+   "Kundenbetreuung rund um die Uhr durch Ambassador Services",
+   "Versicherung an Bord, Steuern und Servicegebühren",
+   "Eintritts- und Besichtigungsgebühren",
+   "Unterhaltungsprogramm in der Dragon-Pearl-Höhle",
+   "Abendessen während der Show",
+   "Englischsprachiger Reiseleiter auf der Ambassador Day Cruise",
+   "Hin- und Rücktransfer vom Internationalen Hafen Ha Long zur Show"
+  ],
+  "notIncluded": [
+   "Getränke, die nicht in der Leistung enthalten sind",
+   "Kabinen an Bord",
+   "Massagen und Spa-Behandlungen",
+   "Kajakfahren und Bambusbootrudern",
+   "Reiseleiter in der Dragon-Pearl-Höhle",
+   "Trinkgelder und andere Leistungen, die nicht in den Inklusivleistungen stehen",
+   "Zusätzliche Servicegebühr an Feiertagen (45 $ pro Person)"
+  ],
+  "shortDescription": "Tour in Ha Long, mit Ha-Long-Bucht, Sung-Sot-Höhle und Ti-Top-Insel. Durchgeführt von Up Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Landausflug in Ha Long: 5-Sterne-Kreuzfahrt und Sacred-Pearl-Show",
+  "metaDescription": "Tour in Ha Long. Enthalten: Route und Programm der Tageskreuzfahrt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "ha-long-bay-cruise-with-lunch-and-activities": {
   "title": "Kreuzfahrt in der Ha-Long-Bucht mit Mittagessen und Aktivitäten",
   "fullDescription": "Dies ist ein ganztägiges Erlebnis ab Ha Long, rund um Bus/Reisebus. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hochwertiges Mittagsbuffet an Bord, Guide, Besichtigungen: Sung Sot, Aktivitäten an Bord: Sonnenuntergangsparty und Außen-Jacuzzi und Ganztägiges Kreuzfahrtprogramm. Nicht enthalten sind Getränke, die nicht im Menü enthalten sind, Korkgeld, wenn Sie eigene Getränke an Bord mitbringen, Gebühren für Sonderwünsche beim Essen oder privaten Kochservice und Persönliche Ausgaben und alle Leistungen, die nicht ausdrücklich, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAltstadt. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -14788,6 +16177,41 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ha-Long-Bucht an einem Tag auf einer Luxusyacht",
   "metaDescription": "Ganztägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "halong-bay-luxury-cruise-kayak-and-swim-cave-party-best-seller-ha-long": {
+  "title": "Ha-Long-Bucht als Luxuskreuzfahrt: Kajak, Schwimmen, Höhle und Party",
+  "fullDescription": "Dies ist ein ganztägiges Erlebnis in Ha Long, rund um Ha-Long-Bucht. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfers über die Schnellstraße, 6 Stunden auf einer Luxuskreuzfahrt, Jacuzzi und Handtuch, Eintritts- und Besichtigungsgebühren und Guide. Nicht enthalten sind Trinkgelder für Guide und Fahrer, Getränke zum Mittagessen, Persönliche Ausgaben und Alles, was nicht im Abschnitt „Inklusive“ steht, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Ha-Long-Bucht",
+   "Dauer: ganztägig",
+   "Hin- und Rücktransfers über die Schnellstraße (bei der Option „Ab Hanoi“)",
+   "6 Stunden auf einer Luxuskreuzfahrt",
+   "Jacuzzi und Handtuch",
+   "Eintritts- und Besichtigungsgebühren"
+  ],
+  "included": [
+   "Hin- und Rücktransfers über die Schnellstraße (bei der Option „Ab Hanoi“)",
+   "6 Stunden auf einer Luxuskreuzfahrt",
+   "Jacuzzi und Handtuch",
+   "Eintritts- und Besichtigungsgebühren",
+   "Englischsprachiger Reiseleiter",
+   "Besuch der Sung-Sot-Höhle (Überraschungshöhle)",
+   "Kajak- oder Bambusbootfahrt an der Luon-Höhle",
+   "Schwimmen oder Wandern auf der Ti-Top-Insel",
+   "Flasche Wasser im Bus bei der Option „Ab Hanoi“ (nicht bei der Option „Ab Ha Long“)",
+   "Mittagsbuffet mit vegetarischen und nicht vegetarischen Gerichten",
+   "Sonnenuntergangsparty: Rotwein, Tee, Kuchen, Garnelenchips, frisches Obst usw."
+  ],
+  "notIncluded": [
+   "Hin- und Rücktransfers über die Schnellstraße (bei der Option „Ab Ha Long“)",
+   "Trinkgelder für Guide und Fahrer",
+   "Getränke zum Mittagessen",
+   "Persönliche Ausgaben",
+   "Alles, was nicht im Abschnitt „Inklusive“ steht"
+  ],
+  "shortDescription": "Ganztägige Tour in Ha Long, mit Ha-Long-Bucht. Durchgeführt von VIETNAM TRIP 24h, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht als Luxuskreuzfahrt: Kajak, Schwimmen, Höhle und Party",
+  "metaDescription": "Ganztägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "ha-long-bay-best-cruise-kayak-swim-cave-and-buffet": {
   "title": "Ha-Long-Bucht: Kreuzfahrt, Kajak, Schwimmen, Höhle und Buffet",
   "fullDescription": "Dies ist ein ganztägiges Erlebnis ab Ha Long, rund um Ti-Top-Insel und Sung-Sot-Höhle. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Ab Juli 2026, Hin- und Rücktransfer ab Hanoi mit Abholung und Rückfahrt, Willkommen an Bord, Reiseleiter und Eintritts- und Besichtigungsgebühren für die Sung-Sot-Höhle. Nicht enthalten sind Getränke während der Reise, Reiseversicherung und Trinkgelder für den Guide, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. Go Asia Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -14816,6 +16240,44 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Ha Long, mit Ti-Top-Insel, Luon Cave, Ha-Long-Bucht und Sung-Sot-Höhle. Durchgeführt von Go Asia Travel, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ha-Long-Bucht: Kreuzfahrt, Kajak, Schwimmen, Höhle und Buffet",
   "metaDescription": "Ganztägige Tour in Ha Long. Enthalten: Ab Juli 2026. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "best-2-day-halong-bay-cruise-with-cooking-class": {
+  "title": "Ha-Long-Bucht: 2-Tages-Kreuzfahrt mit Kochkurs",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 1 Übernachtung auf einer traditionellen Dschunke in Ha Long, Willkommensgetränk und kühles Handtuch, Tee, 4 Standardmahlzeiten und Besuch der Sung-Sot-Höhle. Nicht enthalten sind Getränk, Kajak, Trinkgelder für Reiseleiter und Fahrer und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "1 Übernachtung auf einer traditionellen Dschunke in Ha Long",
+   "Willkommensgetränk und kühles Handtuch",
+   "Tee, Kaffee, Mineralwasser und Pflegeprodukte je nach Zimmerkategorie",
+   "4 Standardmahlzeiten",
+   "Besuch der Sung-Sot-Höhle"
+  ],
+  "included": [
+   "1 Übernachtung auf einer traditionellen Dschunke in Ha Long",
+   "Willkommensgetränk und kühles Handtuch",
+   "Tee, Kaffee, Mineralwasser und Pflegeprodukte je nach Zimmerkategorie",
+   "4 Standardmahlzeiten",
+   "Besuch der Sung-Sot-Höhle",
+   "Besuch der Ti-Top-Insel",
+   "Kochkurs: frische Frühlingsrollen",
+   "Shuttlebus Altstadtviertel Hanoi - Ha Long - Altstadtviertel Hanoi",
+   "WLAN an Bord",
+   "Besichtigungstickets",
+   "Servicegebühr und Versicherung gemäß den Besichtigungstickets"
+  ],
+  "notIncluded": [
+   "Getränk",
+   "Kajak",
+   "Trinkgelder für Reiseleiter und Fahrer",
+   "Persönliche Ausgaben",
+   "Flugtickets und Transport vom Flughafen",
+   "Andere Getränke und Tabak",
+   "Trinkgelder für das Personal",
+   "Weitere oben nicht aufgeführte Ausgaben"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, inklusive 1 Übernachtung auf einer traditionellen Dschunke in Ha Long, Willkommensgetränk und kühles Handtuch und Tee. Durchgeführt von Vacation-Indochina-Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht: 2-Tages-Kreuzfahrt mit Kochkurs",
+  "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "2-days-hanoi-ninh-binh-landscapes-and-ha-long-bay-cruise-by-local-operator": {
   "title": "2 Tage ab Hanoi: Landschaften von Ninh Binh und Kreuzfahrt in der Ha-Long-Bucht",
@@ -15063,6 +16525,109 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ha-Long-Bucht: Premium-Tageskreuzfahrt der 6-Sterne-Klasse",
   "metaDescription": "Tour in Ha Long. Enthalten: Abholung und Rückfahrt zum Hotel ab Hanoi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "ha-long-bay-luxury-cruise-with-buffet-kayak-sunset-party-by-local-operator": {
+  "title": "Ha-Long-Bucht als Luxuskreuzfahrt: Buffet, Kajak und Sonnenuntergangsparty",
+  "fullDescription": "Dies ist ein 6-stündiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Mittagsbuffet, Kajak- oder Bambusbootfahrt zur Luon-Höhle, Besuch der Sung-Sot-Höhle, Schwimmen und Wandern auf der Ti-Top-Insel und Jacuzzi-Becken. Nicht enthalten sind Von der Karte bestellte Getränke, Sonstige persönliche Ausgaben, Andere oben nicht genannte Leistungen und 8 % Mehrwertsteuer, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 6 Stunden",
+   "Mittagsbuffet",
+   "Kajak- oder Bambusbootfahrt zur Luon-Höhle",
+   "Besuch der Sung-Sot-Höhle (Überraschungshöhle)",
+   "Schwimmen und Wandern auf der Ti-Top-Insel",
+   "Jacuzzi-Becken"
+  ],
+  "included": [
+   "Mittagsbuffet",
+   "Kajak- oder Bambusbootfahrt zur Luon-Höhle",
+   "Besuch der Sung-Sot-Höhle (Überraschungshöhle)",
+   "Schwimmen und Wandern auf der Ti-Top-Insel",
+   "Jacuzzi-Becken",
+   "Sonnenuntergangsparty: Fruchtsaft, Obst und Gebäck",
+   "Besichtigungsgebühren und Eintrittskarten",
+   "Moderner Limousinen- oder Shuttlebus hin und zurück: Altstadt von Hanoi – Tuan Chau – Hanoi",
+   "Mineralwasser",
+   "Englischsprachiger Reiseleiter"
+  ],
+  "notIncluded": [
+   "Von der Karte bestellte Getränke",
+   "Sonstige persönliche Ausgaben",
+   "Andere oben nicht genannte Leistungen",
+   "8 % Mehrwertsteuer (optional)",
+   "Kartenzahlung an Bord: 4 bis 5 % Bankgebühr",
+   "Feiertagszuschlag"
+  ],
+  "shortDescription": "Halbtägige Tour in Ha Long, inklusive Mittagsbuffet, Kajak- oder Bambusbootfahrt zur Luon-Höhle und Besuch der Sung-Sot-Höhle. Durchgeführt von David’s Vietnam Tours, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht als Luxuskreuzfahrt: Buffet, Kajak und Sonnenuntergangsparty",
+  "metaDescription": "Halbtägige Tour in Ha Long. Enthalten: Mittagsbuffet. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "halong-bay-by-overnight-cruise-with-kayak-and-squid-fishing-ha-long": {
+  "title": "Ha-Long-Bucht: Kreuzfahrt mit Übernachtung, Kajak und Tintenfischangeln",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Lounge im Kreuzfahrthafen, Willkommensgetränk, Mahlzeiten an Bord laut Programm (F = Frühstück, M =, Tai-Chi-Vorführung bei Sonnenaufgang und Eintrittsgebühren. Nicht enthalten sind Getränke, Transport, Essen für Kinder unter 6 Jahren und Persönliche Reiseversicherung, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Lounge im Kreuzfahrthafen",
+   "Willkommensgetränk",
+   "Mahlzeiten an Bord laut Programm (F = Frühstück, M = Mittagessen, A = Abendessen)",
+   "Tai-Chi-Vorführung bei Sonnenaufgang",
+   "Eintrittsgebühren, Steuern und Servicegebühr"
+  ],
+  "included": [
+   "Lounge im Kreuzfahrthafen",
+   "Willkommensgetränk",
+   "Mahlzeiten an Bord laut Programm (F = Frühstück, M = Mittagessen, A = Abendessen)",
+   "Tai-Chi-Vorführung bei Sonnenaufgang",
+   "Eintrittsgebühren, Steuern und Servicegebühr",
+   "Kochkurs",
+   "Bambus-Ruderboot oder Kajak",
+   "Luxuriöse Unterkunft mit Klimaanlage, Whirlwanne, Dusche und Minibar",
+   "Happy Hour: zwei Getränke kaufen, eines gratis",
+   "Kostenloses Mineralwasser an den Wasserspendern in jedem Gang",
+   "Tintenfischangeln oder Karaoke bis 22 Uhr",
+   "Internet an Bord"
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Transport",
+   "Essen für Kinder unter 6 Jahren (nach Geburtsjahr)",
+   "Persönliche Reiseversicherung",
+   "Aufpreis für das Einzelzimmer",
+   "Feiertagszuschlag (Mondneujahr, Weihnachten, Neujahr usw.)"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, inklusive Lounge im Kreuzfahrthafen, Willkommensgetränk und Mahlzeiten an Bord laut Programm (F = Frühstück, M =. Durchgeführt von Anh Tourist Hanoi Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht: Kreuzfahrt mit Übernachtung, Kajak und Tintenfischangeln",
+  "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Lounge im Kreuzfahrthafen. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "ha-long-bay-and-lan-ha-bay-luxury-cruise-2-days-1-night": {
+  "title": "Ha-Long- und Lan-Ha-Bucht: Luxuskreuzfahrt über 2 Tage/1 Nacht",
+  "fullDescription": "Dies ist ein Erlebnis ab Ha Long, rund um Bus/Reisebus, Marina Tuan Chau und Ti-Top-Insel. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung vom Hotel per Bus in der Altstadt, Ticket für die Übernachtungskreuzfahrt, Guide an Bord, Mahlzeiten laut Programm und Eintrittskarten für die genannten Orte. Nicht enthalten sind Getränk an Bord, Einzelzimmerzuschlag für Alleinreisende, Feiertagszuschlag und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. Go Asia Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Marina Tuan Chau",
+   "Ti-Top-Insel",
+   "Sung-Sot-Höhle",
+   "Abholung vom Hotel per Bus in der Altstadt (optional)",
+   "Ticket für die Übernachtungskreuzfahrt"
+  ],
+  "included": [
+   "Abholung vom Hotel per Bus in der Altstadt (optional)",
+   "Ticket für die Übernachtungskreuzfahrt",
+   "Englischsprachiger Guide an Bord",
+   "Mahlzeiten laut Programm (2 Mittagessen, 1 Abendessen, 1 Frühstück)",
+   "Eintrittskarten für die genannten Orte",
+   "Übernachtung in einer privaten Luxuskabine",
+   "Kajakfahren und Schwimmen",
+   "Morgendliche Tai-Chi-Stunde"
+  ],
+  "notIncluded": [
+   "Getränk an Bord",
+   "Einzelzimmerzuschlag für Alleinreisende (85 $ pro Person)",
+   "Feiertagszuschlag (700.000 VND pro Person, vor Ort zu zahlen am 30. April, 1. Mai, 1., 2. und 3. September, 24. und 31. Dezember, 1. Januar und zum Mondneujahr)",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Tour in Ha Long, mit Marina Tuan Chau, Luon Cave, Ha-Long-Bucht und Ti-Top-Insel. Durchgeführt von Go Asia Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long- und Lan-Ha-Bucht: Luxuskreuzfahrt über 2 Tage/1 Nacht",
+  "metaDescription": "Tour in Ha Long. Enthalten: Abholung vom Hotel per Bus in der Altstadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "halong-bay-cruise-with-lunch-cave-and-island-visit": {
   "title": "Kreuzfahrt in der Ha-Long-Bucht: Mittagessen, Höhle und Insel",
   "fullDescription": "Dies ist ein ganztägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab 54 P. Hàng Tre und Altstadt von Hanoi möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Halong Alina Daily Cruise abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Abholung und Rückfahrt in der Altstadt oder am Opernhaus, Guide, Eintritt für die Höhle und die Ti-Top-Insel, Mittagessen mit vietnamesischen Gerichten und Nachmittagstee. Nicht enthalten sind Getränke und sonstige persönliche Ausgaben, Versicherung, Mehrwertsteuer und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -15189,6 +16754,42 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Insel Cat Ba: Ganztagestour in der Lan-Ha-Bucht mit Luxuskreuzfahrt",
   "metaDescription": "Ganztägige Tour in Ha Long. Enthalten: Luxuskreuzfahrt und Eintrittskarten. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "lan-ha-bay-cat-ba-island-1-day-from-hanoi-or-tuan-chau-ha-long": {
+  "title": "Lan-Ha-Bucht und Insel Cat Ba an einem Tag (ab Hanoi oder Tuan Chau)",
+  "fullDescription": "Dies ist ein ganztägiges Erlebnis ab Ha Long, rund um Bus/Reisebus. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Eintritt zu den Sehenswürdigkeiten: Trung-Trang-Höhle, Nationalpark Cat Ba, Englisch- und vietnamesischsprachiger Guide, Mittagsbuffet an Bord, Hin- und Rücktransfers von und zur Altstadt von Hanoi und Kajakfahren. Nicht enthalten sind Sonstige persönliche Ausgaben, Trinkgelder, Getränke an der Bar und Getränke zu den Mahlzeiten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Dauer: ganztägig",
+   "Eintritt zu den Sehenswürdigkeiten: Trung-Trang-Höhle, Museum des Nationalparks Cat Ba und Lan-Ha-Bucht",
+   "Englisch- und vietnamesischsprachiger Guide",
+   "Mittagsbuffet an Bord",
+   "Hin- und Rücktransfers von und zur Altstadt von Hanoi (Option ab Hanoi)"
+  ],
+  "included": [
+   "Eintritt zu den Sehenswürdigkeiten: Trung-Trang-Höhle, Museum des Nationalparks Cat Ba und Lan-Ha-Bucht",
+   "Englisch- und vietnamesischsprachiger Guide",
+   "Mittagsbuffet an Bord",
+   "Hin- und Rücktransfers von und zur Altstadt von Hanoi (Option ab Hanoi)",
+   "Kajakfahren und Schwimmen",
+   "Sonnenuntergangsparty",
+   "Willkommensgetränk",
+   "Eine Flasche Wasser pro Person im Bus (Option ab Hanoi)",
+   "Kajakfahren, Pool, Jacuzzi und Wasserrutsche",
+   "Fahrten im Elektrowagen",
+   "Eintrittskarten",
+   "Süßwasserdusche"
+  ],
+  "notIncluded": [
+   "Sonstige persönliche Ausgaben",
+   "Trinkgelder",
+   "Getränke an der Bar",
+   "Getränke zu den Mahlzeiten",
+   "Feiertagszuschläge (Mondneujahr, Weihnachten, Neujahr und andere Feiertage)"
+  ],
+  "shortDescription": "Ganztägige Tour in Ha Long, inklusive Eintritt zu den Sehenswürdigkeiten: Trung-Trang-Höhle, Nationalpark Cat Ba, Englisch- und vietnamesischsprachiger Guide und Mittagsbuffet an Bord. Durchgeführt von Anh Tourist Hanoi Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lan-Ha-Bucht und Insel Cat Ba an einem Tag (ab Hanoi oder Tuan Chau)",
+  "metaDescription": "Ganztägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "ha-long-bay-small-deluxe-cruise-day-trip-with-kayak-and-lunch-by-local-operator": {
   "title": "Ha-Long-Bucht: kleine Deluxe-Tageskreuzfahrt mit Kajak und Mittagessen",
   "fullDescription": "Dies ist ein 6-stündiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Guide, Wasser im Bus, Eintrittsgebühren während der Tour, Mittagsmenü und Sonnenuntergangsparty: Rotwein. Nicht enthalten sind Mehrwertsteuer, Getränke, Persönliche Ausgaben und Trinkgelder für Guide und Fahrer, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nCảng tàu khách Quốc tế Hạ Long. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -15221,6 +16822,41 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Halbtägige Tour in Ha Long, inklusive Guide, Wasser im Bus und Eintrittsgebühren während der Tour. Durchgeführt von Anh Tourist Hanoi Travel, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ha-Long-Bucht: kleine Deluxe-Tageskreuzfahrt mit Kajak und Mittagessen",
   "metaDescription": "Halbtägige Tour in Ha Long. Enthalten: Guide und Wasser im Bus. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "2-day-1-night-ha-long-bay-by-hera-boutique-cruise": {
+  "title": "Ha-Long-Bucht: 2 Tage und 1 Nacht auf der Hera Boutique Cruise",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Luxuriöse Übernachtung in einer Deluxe-Kabine mit, Hera-Suite mit privater Terrasse, optional buchbar, Das Erlebnis umfasst ein Willkommensgetränk, Verpflegung an Bord und Tag 1: Mittag- und Abendessen. Nicht enthalten sind Trinkgelder für Reiseleiter und Fahrer, Trinkgelder für Bord- und Servicepersonal, Persönliche Ausgaben während der Reise und Flugtickets und Flughafentransfers, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Luxuriöse Übernachtung in einer Deluxe-Kabine mit Meerblick auf der Hera Boutique Classic Cruise",
+   "Hera-Suite mit privater Terrasse als optionales Upgrade",
+   "Das Erlebnis umfasst ein Willkommensgetränk, ein kühles Handtuch, Tee und Kaffee im Zimmer, Wasser in Flaschen, tägliche Pflegeprodukte, frisches Obst und ein entspannendes Kräuter-Fußbad",
+   "Verpflegung an Bord",
+   "Tag 1: Mittag- und Abendessen"
+  ],
+  "included": [
+   "Luxuriöse Übernachtung in einer Deluxe-Kabine mit Meerblick auf der Hera Boutique Classic Cruise.",
+   "Hera-Suite mit privater Terrasse als optionales Upgrade.",
+   "Das Erlebnis umfasst ein Willkommensgetränk, ein kühles Handtuch, Tee und Kaffee im Zimmer, Wasser in Flaschen, tägliche Pflegeprodukte, frisches Obst und ein entspannendes Kräuter-Fußbad.",
+   "Verpflegung an Bord:",
+   "Tag 1: Mittag- und Abendessen",
+   "Tag 2: Frühstück und Brunch",
+   "Getränke auf Anfrage erhältlich.",
+   "Shuttleservice ab der Altstadt von Hanoi oder dem Opernhaus (bei Abfahrt ab Hanoi), Limousinen-Upgrade auf Anfrage.",
+   "Sommer-Gutschein: kostenloses Kabinen-Upgrade nach Verfügbarkeit (Aufenthalt Mai bis September)."
+  ],
+  "notIncluded": [
+   "Trinkgelder für Reiseleiter und Fahrer",
+   "Trinkgelder für Bord- und Servicepersonal",
+   "Persönliche Ausgaben während der Reise",
+   "Flugtickets und Flughafentransfers",
+   "Visumgebühren und damit verbundene Bearbeitungskosten",
+   "Alle zusätzlichen Kosten, die nicht ausdrücklich genannt sind",
+   "Zuschlag am Tag der Befreiung, zum chinesischen Neujahr, an Silvester und an Weihnachten"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, inklusive Luxuriöse Übernachtung in einer Deluxe-Kabine mit, Hera-Suite mit privater Terrasse, optional buchbar und Das Erlebnis umfasst ein Willkommensgetränk. Durchgeführt von AN LAM HA LONG TOURISM SERVICES, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht: 2 Tage und 1 Nacht auf der Hera Boutique Cruise",
+  "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "cat-ba-island-lan-ha-bay-boat-tour-lunch-beach-kayaking-ha-long": {
   "title": "Insel Cat Ba: Lan-Ha-Bucht per Boot, Mittagessen, Strand und Kajak",
@@ -15399,6 +17035,36 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ha-Long-Bucht an einem Tag mit Luxuskreuzfahrt",
   "metaDescription": "Tour in Ha Long. Enthalten: 7,5-stündige Fahrt mit der Amethyst Luxury Cruise. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "halong-bay-6-hours-deluxe-cruise-trip-lunch-kayaking-swim-ha-long": {
+  "title": "Ha-Long-Bucht: 6-stündige Deluxe-Kreuzfahrt mit Mittagessen, Kajak und Schwimmen",
+  "fullDescription": "Dies ist ein 6-stündiges Erlebnis in Ha Long, rund um Ha Long, Sung-Sot-Höhle und Ti-Top-Insel. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Guide, Meeresfrüchte-Mittagessen und Eintrittsgebühren, Kajak zu zweit, Schwimmen und Sung-Sot-Höhle, Luon-Höhle und Ti-Top-Insel. Nicht enthalten sind Getränke, Vorschrift der Verwaltung der Ha-Long-Bucht: Zum Schutz, Shuttlebus hin und zurück vom Hotel zum Hafen und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTuần Châu Harbor / Tuan Chau Port. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Ha Long",
+   "Sung-Sot-Höhle",
+   "Ti-Top-Insel",
+   "Dauer: 6 Stunden",
+   "Englischsprachiger Guide",
+   "Meeresfrüchte-Mittagessen und Eintrittsgebühren"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Meeresfrüchte-Mittagessen und Eintrittsgebühren",
+   "Kajak zu zweit (2 Personen pro Kajak)",
+   "Schwimmen und Bergsteigen",
+   "Sung-Sot-Höhle, Luon-Höhle und Ti-Top-Insel",
+   "Gruppentour: geteilte einfache Bootsfahrt",
+   "Mittagessen als Set-Menü, Reiseleiter, Kajak ..."
+  ],
+  "notIncluded": [
+   "Getränke und anderes, was oben nicht ausdrücklich genannt ist",
+   "Vorschrift der Verwaltung der Ha-Long-Bucht: Zum Schutz der Umwelt sind Einweg-Plastikflaschen nicht erlaubt; Mehrwegflaschen, Glasflaschen oder Thermosflaschen dürfen Sie mitbringen.",
+   "Shuttlebus hin und zurück vom Hotel zum Hafen",
+   "Trinkgelder (nicht erforderlich, ganz nach Ihrem Ermessen; geben Sie kein Trinkgeld, wenn man Sie darum bittet)"
+  ],
+  "shortDescription": "Halbtägige Tour in Ha Long, mit Ha Long, Sung Sot Cave and Luon Cave und Ha-Long-Bucht. Durchgeführt von Vietnam Wonder Travel and Trading Company Limited, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht: 6-stündige Deluxe-Kreuzfahrt mit Mittagessen, Kajak und Schwimmen",
+  "metaDescription": "Halbtägige Tour in Ha Long. Enthalten: Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "ha-long-bay-day-cruise-kayaking-buffet-lunch-cave": {
   "title": "Ha-Long-Bucht: Tageskreuzfahrt, Kajak, Mittagsbuffet und Höhle",
   "fullDescription": "Dies ist ein 7,5-stündiges Erlebnis ab Ha Long, rund um Bus/Reisebus, Sung-Sot-Höhle und Ti-Top-Insel. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt im Bereich der Altstadt von Hanoi, Eintrittsgebühren, Fahrt mit Kajak oder Bambusboot, Reiseleiter und Flasche Wasser im Bus. Nicht enthalten sind Getränke, Persönliche Ausgaben, Trinkgelder für Guide und Fahrer und Alles, was nicht im Tourprogramm steht, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. Caroline's Travel Agency bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -15461,6 +17127,41 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Ha Long, mit Lan-Ha-Bucht, Ha-Long-Bucht und Aussichtspunkt. Durchgeführt von Cat Ba Sonder, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Lan-Ha-Bucht und Affeninsel: Ganztags-Bootstour",
   "metaDescription": "Ganztägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "3-day-2-night-ha-long-lan-ha-bay-by-le-journey-luxury-cruise": {
+  "title": "Ha-Long- und Lan-Ha-Bucht: 3 Tage und 2 Nächte auf der Le Journey Luxury Cruise",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 2 Abendessen, 2 Frühstücke, 3 Mittagessen, Wasser in Flaschen und Deluxe-Kabine mit Meerblick auf dem ersten Deck. Nicht enthalten sind Alkoholische Getränke, Softdrinks und weitere Getränke auf Anfrage, Zuschlag von 30 $, Upgrade-Option: Deluxe-Kabine auf Präsidentensuite = und Wenn Sie in der Gruppe reisen, aber eine Einzelkabine möchten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "2 Abendessen",
+   "2 Frühstücke",
+   "3 Mittagessen",
+   "Wasser in Flaschen",
+   "Deluxe-Kabine mit Meerblick auf dem ersten Deck"
+  ],
+  "included": [
+   "2 Abendessen",
+   "2 Frühstücke",
+   "3 Mittagessen",
+   "Wasser in Flaschen",
+   "Deluxe-Kabine mit Meerblick auf dem ersten Deck",
+   "Ebenerdige Dusche, Warmwasser und eigenes Bad; Badewanne in den Suite-Kabinen",
+   "Voll ausgestattetes Bad auf Anfrage",
+   "Kostenloses WLAN in den öffentlichen Bereichen des Schiffs und im Büro der Reederei",
+   "Alle Mahlzeiten und alle Eintrittskarten für die Aktivitäten",
+   "Kajak oder Bambusboot, Badezeit am Strand, Kochkurs, Tai-Chi-Stunde und Happy Hour",
+   "Hin- und Rücktransfer Hanoi – Ha Long (3 Stunden über die Schnellstraße im Bus oder in der Limousine), nur bei der Option Abfahrt ab Hanoi",
+   "Eintritt: Quan-Y-Höhle, schwimmendes Dorf Tra Bau, Drei-Pfirsiche-Insel, Lan-Ha-Bucht"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke, Softdrinks und weitere Getränke auf Anfrage",
+   "Zuschlag von 30 bis 40 $ pro Person am Tag der Befreiung des Südens, zum chinesischen Neujahr, an Silvester und Weihnachten",
+   "Upgrade-Option: Deluxe-Kabine auf Präsidentensuite, 50 USD pro Person",
+   "Wenn Sie in der Gruppe reisen, aber eine Einzelkabine möchten, buchen Sie bitte separat"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, inklusive 2 Abendessen, 2 Frühstücke und 3 Mittagessen. Durchgeführt von AN LAM HA LONG TOURISM SERVICES, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long- und Lan-Ha-Bucht: 3 Tage und 2 Nächte auf der Le Journey Luxury Cruise",
+  "metaDescription": "2-tägige Tour in Ha Long. Enthalten: 2 Abendessen und 2 Frühstücke. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "lan-ha-bay-1-day-biking-kayaking-lunch-and-swimming": {
   "title": "Lan-Ha-Bucht an einem Tag: Radfahren, Kajak, Mittagessen und Schwimmen",
@@ -15676,6 +17377,38 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Lan-Ha-Bucht: 2-tägige Kreuzfahrt mit Übernachtung an Bord",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Willkommensgetränk und Tee. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "2-day-cat-ba-island-adventure-and-lan-ha-bay-cruise": {
+  "title": "Insel Cat Ba und Lan-Ha-Bucht: 2-tägiges Abenteuer mit Kreuzfahrt",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis ab Ha Long, rund um Wanderung im Cat-Ba-Nationalpark, Eintägige Kreuzfahrt in der Lan-Ha-Bucht und Kreuzfahrt in der Lan-Ha-Bucht. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Transfer Ninh Binh - Insel Cat Ba - Hanoi, Privatzimmer im Cat Ba New Horizon Hotel, Fahrt im alten US-Army-Jeep durch den Dschungel und entlang der, Guide und Besuch des Cat-Ba-Nationalparks. Nicht enthalten sind Persönliche Ausgaben, Getränk an Bord, Mittag- und Abendessen am ersten Tag und Zuschlag von 10 $ für ein Einzelzimmer, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Wanderung im Cat-Ba-Nationalpark",
+   "Eintägige Kreuzfahrt in der Lan-Ha-Bucht",
+   "Kreuzfahrt in der Lan-Ha-Bucht",
+   "Dauer: 2 Tage",
+   "Transfer Ninh Binh - Insel Cat Ba - Hanoi",
+   "Privatzimmer im Cat Ba New Horizon Hotel"
+  ],
+  "included": [
+   "Transfer Ninh Binh - Insel Cat Ba - Hanoi",
+   "Privatzimmer im Cat Ba New Horizon Hotel",
+   "Fahrt im alten US-Army-Jeep durch den Dschungel und entlang der Küstenstraße",
+   "Guide",
+   "Besuch des Cat-Ba-Nationalparks",
+   "Aufstieg zum Ngu-Lam-Gipfel",
+   "Entdeckung der Krankenhaushöhle",
+   "Tageskreuzfahrt in der Lan-Ha-Bucht mit Kajak, Schwimmen und Schnorcheln",
+   "Frühstück im Hotel und Mittagessen an Bord"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Getränk an Bord",
+   "Mittag- und Abendessen am ersten Tag",
+   "Zuschlag von 10 $ für ein Einzelzimmer"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long, mit Wanderung im Cat-Ba-Nationalpark, Eintägige Kreuzfahrt in der Lan-Ha-Bucht und Kreuzfahrt in der Lan-Ha-Bucht. Durchgeführt von NINH BINH FOOTPRINT TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Insel Cat Ba und Lan-Ha-Bucht: 2-tägiges Abenteuer mit Kreuzfahrt",
+  "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Transfer Ninh Binh - Insel Cat Ba - Hanoi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "halong-bay-and-ninh-binh-2-day-sightseeing-and-activities-tour-ha-long": {
   "title": "Ha-Long-Bucht und Ninh Binh: 2 Tage Besichtigungen und Aktivitäten",
   "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Transfer im modernen, klimatisierten Van oder Bus, Geteilte Bootsfahrt in der Ha-Long-Bucht, Voll ausgestattetes Deluxe-Zimmer mit eigenem Bad im Homestay, Besichtigungen und Eintritt laut Programm und Guide für Ninh Binh und die Ha-Long-Bucht. Nicht enthalten sind Getränke, Einzelzimmerzuschlag für Alleinreisende, Tet-Fest und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -15802,6 +17535,76 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Ha Long, inklusive Abholung und Rückfahrt zu Ihrem Hotel in der Stadt, Eintrittskarten und Mittagessen. Durchgeführt von Blue Swimmer Outdoors, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Lan-Ha- und Ha-Long-Bucht per Boot, mit Kajak und Höhle",
   "metaDescription": "Tour in Ha Long. Enthalten: Abholung und Rückfahrt zu Ihrem Hotel in der Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "4-day-3-night-ninh-binh-halong-bay-by-5-star-arcady-cruise": {
+  "title": "Ninh Binh und Ha-Long-Bucht: 4 Tage und 3 Nächte auf der 5-Sterne-Arcady",
+  "fullDescription": "Dies ist ein 3-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Klimatisierter Bus und Limousinenservice gemäß unserem, Reiseleiter, Elektrowagen für den Besuch der Bai-Dinh-Pagode, Bootsfahrt in der Ha-Long-Bucht und Bootsfahrt in Trang An und Tam Coc. Nicht enthalten sind Getränke und Mehrwertsteuer, Einzelzuschlag für eine Nacht auf unserer Luxuskreuzfahrt und und Zuschlag zu Neujahr und Weihnachten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Tage",
+   "Klimatisierter Bus und Limousinenservice gemäß unserem Programm",
+   "Englischsprachiger Reiseleiter",
+   "Elektrowagen für den Besuch der Bai-Dinh-Pagode",
+   "Bootsfahrt in der Ha-Long-Bucht",
+   "Bootsfahrt in Trang An und Tam Coc"
+  ],
+  "included": [
+   "Klimatisierter Bus und Limousinenservice gemäß unserem Programm",
+   "Englischsprachiger Reiseleiter",
+   "Elektrowagen für den Besuch der Bai-Dinh-Pagode",
+   "Bootsfahrt in der Ha-Long-Bucht",
+   "Bootsfahrt in Trang An und Tam Coc",
+   "Alle im Programm genannten Unterkünfte",
+   "1 Nacht an Bord unserer 5-Sterne-Arcady-Kreuzfahrt in der Ha-Long-Bucht",
+   "2 Nächte im Hotel oder Bungalow in Tam Coc, Ninh Binh",
+   "Besichtigungen und Eintritt laut Programm",
+   "Alle spannenden Aktivitäten:",
+   "Kreuzfahrt in der Ha-Long-Bucht zur Sung-Sot-Höhle und Ruderbootfahrt in Tam Coc und Trang An",
+   "Besuch der Ti-Top-Insel oder Schwimmen am Strand"
+  ],
+  "notIncluded": [
+   "Getränke, Mehrwertsteuer, Trinkgelder für Reiseleiter und Fahrer, weitere Mahlzeiten, persönliche Ausgaben und nicht genannte Leistungen",
+   "Einzelzuschlag für eine Nacht auf unserer Luxuskreuzfahrt und zwei Nächte im Hotel oder Bungalow (118 USD für Alleinreisende)",
+   "Zuschlag zu Neujahr, Weihnachten und an Feiertagen"
+  ],
+  "shortDescription": "3-tägige Tour in Ha Long, inklusive Klimatisierter Bus und Limousinenservice gemäß unserem, Reiseleiter und Elektrowagen für den Besuch der Bai-Dinh-Pagode. Durchgeführt von Tam Coc Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ninh Binh und Ha-Long-Bucht: 4 Tage und 3 Nächte auf der 5-Sterne-Arcady",
+  "metaDescription": "3-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "3-day-2-night-lan-ha-bay-by-calypso-cruises": {
+  "title": "Lan-Ha-Bucht: 3 Tage und 2 Nächte mit Calypso Cruises",
+  "fullDescription": "Dies ist ein 3-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Mahlzeit laut Programm, Luxuriöses Deluxe-Zimmer, Tai-Chi mit einem erfahrenen Lehrer, Kostenloses WLAN in den öffentlichen Bereichen und Alle Eintrittsgebühren. Nicht enthalten sind Getränke, Persönliche Ausgaben, Trinkgelder und Einzelzuschlag von 65 $ bei Alleinreisenden oder bei einer, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Tage",
+   "Mahlzeit laut Programm",
+   "Luxuriöses Deluxe-Zimmer (Doppel-, Einzel- oder Twinzimmer)",
+   "Tai-Chi mit einem erfahrenen Lehrer",
+   "Kostenloses WLAN in den öffentlichen Bereichen",
+   "Alle Eintrittsgebühren"
+  ],
+  "included": [
+   "Mahlzeit laut Programm",
+   "Luxuriöses Deluxe-Zimmer (Doppel-, Einzel- oder Twinzimmer)",
+   "Tai-Chi mit einem erfahrenen Lehrer",
+   "Kostenloses WLAN in den öffentlichen Bereichen",
+   "Alle Eintrittsgebühren",
+   "Willkommensgetränke und vietnamesischer Abschiedstee",
+   "Eine Flasche Wasser im Bus (bei Shuttle-Service) und 1 Flasche pro Person im Zimmer",
+   "Kochvorführung traditioneller Frühlingsrollen (Nem)",
+   "Aktivitäten im Freien:",
+   "Rudersampan mit einer einheimischen Ruderin am ersten Tag",
+   "Kajakfahren auf eigene Faust am zweiten und dritten Tag",
+   "Kostenloser Pool auf dem Sonnendeck"
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Persönliche Ausgaben",
+   "Trinkgelder",
+   "Einzelzuschlag von 65 $ bei Alleinreisenden oder Gruppen mit ungerader Personenzahl",
+   "Abholung und Rückfahrt am Hotel (im Altstadtviertel) mit einem Zuschlag von 20 USD pro Person für Hin- und Rückweg"
+  ],
+  "shortDescription": "3-tägige Tour in Ha Long, inklusive Mahlzeit laut Programm, Luxuriöses Deluxe-Zimmer und Tai-Chi mit einem erfahrenen Lehrer. Durchgeführt von Oriental Sails Jsc, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lan-Ha-Bucht: 3 Tage und 2 Nächte mit Calypso Cruises",
+  "metaDescription": "3-tägige Tour in Ha Long. Enthalten: Mahlzeit laut Programm. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "lan-ha-bay-half-day-tour-with-kayaking-swimming": {
   "title": "Lan-Ha-Bucht in einem halben Tag, Kajak und Schwimmen",
@@ -16070,6 +17873,37 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Lan-Ha-Bucht: Sonnenuntergang und Kajaktour zum biolumineszenten Plankton",
   "metaDescription": "3-stündige Tour in Ha Long. Enthalten: Kajaktour in der Lan-Ha-Bucht. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "hoi-an-luxury-sunset-cruise-5-course-spice-menu-and-cocktails-ha-long": {
+  "title": "Hoi An: Luxus-Sonnenuntergangsfahrt mit 5-Gänge-Gewürzmenü und Cocktails",
+  "fullDescription": "Dies ist ein 2,5-stündiges Erlebnis ab Ha Long, rund um Hoi An. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 2,5-stündige Fahrt an Bord der Merchant River Cruise, Sundowner-Cocktail und Canapés zur Begrüßung, Saisonales 5-Gänge-Menü, inspiriert von der Gewürzroute, Kostenloses stilles Wasser oder Sprudelwasser und Getränkepaket je nach gewählter Option. Nicht enthalten sind Persönliche Ausgaben, Zusätzliche alkoholische Getränke und Hoteltransfers, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\n232 Trần Nhân Tông, Hội An Đông, Da Nang 560000, Vietnam. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Hoi An",
+   "Dauer: 2,5 Stunden",
+   "2,5-stündige Fahrt an Bord der Merchant River Cruise",
+   "Sundowner-Cocktail und Canapés zur Begrüßung",
+   "Saisonales 5-Gänge-Menü, inspiriert von der Gewürzroute (mit einem Hummergang)",
+   "Kostenloses stilles Wasser oder Sprudelwasser"
+  ],
+  "included": [
+   "2,5-stündige Fahrt an Bord der Merchant River Cruise",
+   "Sundowner-Cocktail und Canapés zur Begrüßung",
+   "Saisonales 5-Gänge-Menü, inspiriert von der Gewürzroute (mit einem Hummergang)",
+   "Kostenloses stilles Wasser oder Sprudelwasser",
+   "Getränkepaket je nach gewählter Option",
+   "Kulturelle Erzählungen, inspiriert vom Erbe Hoi Ans",
+   "Handgefertigtes Abschiedsgeschenk",
+   "Kostenlose Festtagstorte (auf Anfrage)",
+   "20 % Rabatt auf Getränke im Merchant Restaurant nach der Fahrt (20:00-22:00 Uhr)"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Zusätzliche alkoholische Getränke",
+   "Hoteltransfers"
+  ],
+  "shortDescription": "2,5-stündige Tour in Ha Long, mit Hoi An. Durchgeführt von NAMIA RIVER RETREAT, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hoi An: Luxus-Sonnenuntergangsfahrt mit 5-Gänge-Gewürzmenü und Cocktails",
+  "metaDescription": "2,5-stündige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "da-nang-river-night-cruise-ha-long": {
   "title": "Da Nang: Nachtkreuzfahrt auf dem Fluss",
   "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Leichtes Buffet, Obst und Softdrinks und DJ-Show. Nicht enthalten sind Guide, Transport und Alkoholische Getränke und persönliche Kosten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -16148,6 +17982,69 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "3-stündige Tour in Ha Long, mit Da Nang, Han River Bridge, Da Nang and Dragon Bridge und Da Nang. Durchgeführt von H.I.S SONG HAN VIETNAM TOURIST CO., LTD, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Poseidon-Dinnerkreuzfahrt, privat oder in der Gruppe",
   "metaDescription": "3-stündige Tour in Ha Long. Enthalten: Transfers im klimatisierten Fahrzeug. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "da-nang-night-river-cruise-with-dinner-and-dragon-bridge-ha-long": {
+  "title": "Da Nang: abendliche Flusskreuzfahrt mit Abendessen und Drachenbrücke",
+  "fullDescription": "Dies ist ein Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel im Zentrum von Da Nang, Ticket für die Dinnerkreuzfahrt, Kreuzfahrtticket, Vietnamesisches Abendessen an Bord, Menü oder Buffet und Guide. Nicht enthalten sind Trinkgelder, Zuschlag für Abholung und Rückfahrt in Hoi An, Zuschlag an vietnamesischen Feiertagen und Zuschlag für Tickets zum DIFF-2026-Feuerwerk, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long. VN BIKE TOUR COMPANY LIMTIED bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Abholung und Rückfahrt am Hotel im Zentrum von Da Nang (optional)",
+   "Ticket für die Dinnerkreuzfahrt (optional)",
+   "Kreuzfahrtticket",
+   "Vietnamesisches Abendessen an Bord, Menü oder Buffet (je nach Verfügbarkeit des Schiffs)",
+   "Englischsprachiger Reiseleiter (optional; Zuschlag für andere Sprachen)",
+   "Alle im Programm genannten Besichtigungen"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel im Zentrum von Da Nang (optional)",
+   "Ticket für die Dinnerkreuzfahrt (optional)",
+   "Kreuzfahrtticket",
+   "Vietnamesisches Abendessen an Bord, Menü oder Buffet (je nach Verfügbarkeit des Schiffs)",
+   "Englischsprachiger Reiseleiter (optional; Zuschlag für andere Sprachen)",
+   "Alle im Programm genannten Besichtigungen",
+   "Reiseversicherung",
+   "Mini-Buffet (Obst, Gebäck und ein alkoholfreier Cocktail); kein Abendessen, wenn Ihr Schiff eine Yacht ist",
+   "Staatliche Steuern und Servicegebühren",
+   "Hinweis: Wir haben mehrere Schiffe und teilen Ihnen je nach Verfügbarkeit eines zu."
+  ],
+  "notIncluded": [
+   "Trinkgelder (optional)",
+   "Zuschlag für Abholung und Rückfahrt in Hoi An",
+   "Zuschlag an vietnamesischen Feiertagen",
+   "Zuschlag für Tickets, um das DIFF-2026-Feuerwerk vom Schiff aus zu sehen"
+  ],
+  "shortDescription": "Tour in Ha Long, inklusive Abholung und Rückfahrt am Hotel im Zentrum von Da Nang, Ticket für die Dinnerkreuzfahrt und Kreuzfahrtticket. Durchgeführt von VN BIKE TOUR COMPANY LIMTIED, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Da Nang: abendliche Flusskreuzfahrt mit Abendessen und Drachenbrücke",
+  "metaDescription": "Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "poseidon-cruise-with-dinner-and-dragon-bridge-show-in-ha-long": {
+  "title": "Poseidon: Kreuzfahrt mit Abendessen und Drachenbrücken-Show",
+  "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Panoramafahrt von 60 bis 75 Minuten auf dem Han-Fluss, Da Nangs beleuchtete Wahrzeichen bei Nacht bewundern, Drachenbrücke, Han-Fluss-Brücke, Tran-Thi-Ly-Brücke, Thuan, Spektakuläre Feuer- und Wassershow der Drachenbrücke und Bezaubernde traditionelle Apsara-Tanzvorführung. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1 Stunde",
+   "Panoramafahrt von 60 bis 75 Minuten auf dem Han-Fluss",
+   "Da Nangs beleuchtete Wahrzeichen bei Nacht bewundern",
+   "Drachenbrücke, Han-Fluss-Brücke, Tran-Thi-Ly-Brücke, Thuan-Phuoc-Brücke und das strahlende Sun Wheel",
+   "Spektakuläre Feuer- und Wassershow der Drachenbrücke (jeden Freitag-, Samstag- und Sonntagabend)",
+   "Bezaubernde traditionelle Apsara-Tanzvorführung"
+  ],
+  "included": [
+   "Panoramafahrt von 60 bis 75 Minuten auf dem Han-Fluss",
+   "Da Nangs beleuchtete Wahrzeichen bei Nacht bewundern:",
+   "Drachenbrücke, Han-Fluss-Brücke, Tran-Thi-Ly-Brücke, Thuan-Phuoc-Brücke und das strahlende Sun Wheel",
+   "Spektakuläre Feuer- und Wassershow der Drachenbrücke (jeden Freitag-, Samstag- und Sonntagabend)",
+   "Bezaubernde traditionelle Apsara-Tanzvorführung",
+   "Energiegeladene, kreative moderne Timber-Tanzshow",
+   "Fotogelegenheiten mit den Künstlerinnen und Künstlern",
+   "Interaktive Tanzeinheit mit professionellen Tänzerinnen und Tänzern",
+   "Ausgelassene DJ-Party auf Deck 2",
+   "Traditionelle Live-Musik am Wochenende (Freitag, Samstag, Sonntag) auf Deck 1",
+   "Hochwertiges Abendessen (nur bei Wahl der Dinner-Option)",
+   "Steuern und Gebühren inklusive"
+  ],
+  "notIncluded": [],
+  "shortDescription": "1-stündige Tour in Ha Long, mit Hàn River, Da Nang and Dragon Bridge und Da Nang. Durchgeführt von POSEIDON CRUISE DA NANG, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Poseidon: Kreuzfahrt mit Abendessen und Drachenbrücken-Show",
+  "metaDescription": "1-stündige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "hoi-an-ancient-town-heritage-lanterns-and-river-cruise-ha-long": {
   "title": "Altstadt von Hoi An: Erbe, Laternen und Flussfahrt",
@@ -17700,6 +19597,73 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "3 Tage: Hanoi, Ninh Binh und Ha-Long-Bucht auf einer 5-Sterne-Kreuzfahrt mit Balkon",
   "metaDescription": "3-tägige Tour in Ha Long Bay. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "2-day-lan-ha-bay-5-star-cruise-with-balcony-in-ha-long-bay": {
+  "title": "Lan-Ha-Bucht: 2-tägige 5-Sterne-Kreuzfahrt mit Balkon",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long, rund um Hanoi oder Ninh Binh – Ha-Long-Bucht – Lan-Ha-Bucht und Ha Long und Lan Ha: Kajakfahren und Schwimmen in Ao Ech. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 5-Sterne-Kreuzfahrt über 2 Tage/1 Nacht, Privatbalkon und Badewanne, Pool oder Jacuzzi, Kabine mit eigenem Bad und Klimaanlage, 2 Flaschen Wasser pro Kabine und Tag und Alle Mahlzeiten an Bord. Nicht enthalten sind Hin- und Rücktransfer ab Hanoi, Zuschlag von 80 $ für Alleinreisende im privaten Einzelzimmer und Getränke, Reiseversicherung und Mehrwertsteuer, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Hanoi oder Ninh Binh – Ha-Long-Bucht – Lan-Ha-Bucht",
+   "Ha Long und Lan Ha: Kajakfahren und Schwimmen in Ao Ech",
+   "Dauer: 2 Tage",
+   "5-Sterne-Kreuzfahrt über 2 Tage/1 Nacht, Privatbalkon und Badewanne",
+   "Pool oder Jacuzzi",
+   "Kabine mit eigenem Bad und Klimaanlage"
+  ],
+  "included": [
+   "5-Sterne-Kreuzfahrt über 2 Tage/1 Nacht, Privatbalkon und Badewanne",
+   "Pool oder Jacuzzi",
+   "Kabine mit eigenem Bad und Klimaanlage",
+   "2 Flaschen Wasser pro Kabine und Tag",
+   "Alle Mahlzeiten an Bord",
+   "Reiseleiter an Bord",
+   "Alle Eintrittsgebühren und Besichtigungstickets",
+   "Willkommensgetränk (Softdrink, Tee oder Kaffee)",
+   "Kajak und Bambusboot",
+   "Sonnenuntergangsparty",
+   "Tai-Chi-Stunde",
+   "Tintenfischangeln"
+  ],
+  "notIncluded": [
+   "Hin- und Rücktransfer ab Hanoi (25 $ pro Person): Hanoi – Ha Long – Hanoi, Ninh Binh – Ha Long – Hanoi oder Hanoi – Ha Long – Ninh Binh, Abholung und Rückfahrt auch in Ninh Binh",
+   "Zuschlag von 80 $ für Alleinreisende im privaten Einzelzimmer",
+   "Getränke, Reiseversicherung und Mehrwertsteuer"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long Bay, mit Hanoi oder Ninh Binh – Ha-Long-Bucht – Lan-Ha-Bucht, Dinner on Cruise und Lunch On Cruise. Durchgeführt von Halongbayluxcruises - Marvel Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lan-Ha-Bucht: 2-tägige 5-Sterne-Kreuzfahrt mit Balkon",
+  "metaDescription": "2-tägige Tour in Ha Long Bay. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "2-day-hanoi-ninh-binh-halong-bay-luxury-cruise-ha-long-bay": {
+  "title": "2 Tage: Hanoi, Ninh Binh und Luxuskreuzfahrt in der Ha-Long-Bucht",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Alle Eintrittskarten in Ninh Binh und der Ha-Long-Bucht, Mahlzeiten an Bord und in Ninh Binh, Hoa Lu, Trang An, Mua-Höhle, Ti-Top-Insel und Sung Sot entdecken und Eine kleine Flasche Wasser im Bus. Nicht enthalten sind Getränke, Trinkgelder und Unterkunft, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long Bay. Halongbayluxcruises - Marvel Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Abholung und Rückfahrt zum Hotel",
+   "Alle Eintrittskarten in Ninh Binh und der Ha-Long-Bucht",
+   "Mahlzeiten an Bord und in Ninh Binh",
+   "Hoa Lu, Trang An, Mua-Höhle, Ti-Top-Insel, Sung-Sot-Höhle und Luon-Höhle entdecken",
+   "Eine kleine Flasche Wasser im Bus"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Alle Eintrittskarten in Ninh Binh und der Ha-Long-Bucht",
+   "Mahlzeiten an Bord und in Ninh Binh",
+   "Hoa Lu, Trang An, Mua-Höhle, Ti-Top-Insel, Sung-Sot-Höhle und Luon-Höhle entdecken",
+   "Eine kleine Flasche Wasser im Bus",
+   "Englischsprachiger Reiseleiter während der gesamten Tour",
+   "Kajak oder Bambusboot an der Luon-Höhle",
+   "Sonnenuntergangsparty an Bord",
+   "Rotwein, Tee und Obst bei der Sonnenuntergangsparty",
+   "Schwimmen am Strand der Ti-Top-Insel",
+   "Aufstieg auf der Ti-Top-Insel"
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Trinkgelder",
+   "Unterkunft"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long Bay, inklusive Abholung und Rückfahrt zum Hotel, Alle Eintrittskarten in Ninh Binh und der Ha-Long-Bucht und Mahlzeiten an Bord und in Ninh Binh. Durchgeführt von Halongbayluxcruises - Marvel Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "2 Tage: Hanoi, Ninh Binh und Luxuskreuzfahrt in der Ha-Long-Bucht",
+  "metaDescription": "2-tägige Tour in Ha Long Bay. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "ha-long-bay-day-cruise-swimming-meal-kayaking": {
   "title": "Ha-Long-Bucht: Tageskreuzfahrt mit Schwimmen, Essen und Kajak",
   "fullDescription": "Dies ist ein 1-tägiges Erlebnis in Ha Long, rund um Sung-Sot-Höhle, Ti-Top-Insel und Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt im Bereich der Altstadt von Hanoi, Reiseleiter während der Reise, Kreuzfahrt in der Ha-Long-Bucht, Mittagsmenü und Kajak oder Bambusboot. Nicht enthalten sind Andere nicht genannte Getränke und Mahlzeiten, Schnellbootgebühr, Neujahrszuschlag und Reiseversicherung und Trinkgelder für Reiseleiter und Fahrer, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long Bay. DGB - INDOCHINATODAYTRAVEL bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -17768,6 +19732,37 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "2-tägige Kreuzfahrt in der Ha-Long-Bucht und Ninh Binh, UNESCO-Welterbe",
   "metaDescription": "2-tägige Tour in Ha Long Bay. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "2-day-lan-ha-ha-long-bay-5-star-cruise-meals-cabin": {
+  "title": "Lan-Ha- und Ha-Long-Bucht: 2-tägige 5-Sterne-Kreuzfahrt mit Mahlzeiten und Kabine",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long, rund um Ha-Long-Bucht, Schnellboot und Lan-Ha-Bucht. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 5-Sterne-Kreuzfahrt mit Übernachtung, Willkommensgetränk, Ausgestattete klimatisierte Kabine mit privatem Balkon und, und unterhaltsamer englischsprachiger Reiseleiter und Vollpension auf einer 5-Sterne-Kreuzfahrt. Nicht enthalten sind Getränke, Zuschlag an Weihnachten und Neujahr, Einzelzuschlag von 80 $ für ein Privatzimmer mit großem und Zuschlag für Limousinentransfer 25 $ pro Person für Hin- und Rückweg Hanoi/Ninh, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHanoi. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Ha-Long-Bucht",
+   "Schnellboot",
+   "Lan-Ha-Bucht",
+   "Trung-Trang-Höhle",
+   "Dauer: 2 Tage",
+   "5-Sterne-Kreuzfahrt mit Übernachtung"
+  ],
+  "included": [
+   "5-Sterne-Kreuzfahrt mit Übernachtung",
+   "Willkommensgetränk",
+   "Ausgestattete klimatisierte Kabine mit privatem Balkon und Bad mit Badewanne und Meerblick",
+   "Professioneller, unterhaltsamer englischsprachiger Reiseleiter",
+   "Vollpension auf einer 5-Sterne-Kreuzfahrt (1 Mittagessen, 1 Abendessen, 1 Brunch)",
+   "2 Flaschen Wasser pro Kabine und Tag",
+   "Eintrittsgebühren für die Sehenswürdigkeiten",
+   "Kochvorführung, Tai-Chi-Einheit, Tintenfischangeln, Kajak und Schwimmen"
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Zuschlag an Weihnachten, Neujahr und zum Mondneujahr",
+   "Einzelzuschlag von 80 $ für ein Privatzimmer mit großem Bett",
+   "Zuschlag für Limousinentransfer 25 $ pro Person für Hin- und Rückweg Hanoi/Ninh Binh - Ha Long - Hanoi/Ninh Binh"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long Bay, mit Ha-Long-Bucht, Schnellboot und Lan-Ha-Bucht. Durchgeführt von DGB Travel & Event Company, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lan-Ha- und Ha-Long-Bucht: 2-tägige 5-Sterne-Kreuzfahrt mit Mahlzeiten und Kabine",
+  "metaDescription": "2-tägige Tour in Ha Long Bay. Enthalten: 5-Sterne-Kreuzfahrt mit Übernachtung. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "ha-long-bay-5-cruise-buffet-jacuzzi-cave-kayak": {
   "title": "Ha-Long-Bucht auf 5-Sterne-Kreuzfahrt: Buffet, Jacuzzi, Höhle und Kajak",
   "fullDescription": "Dies ist ein 1-tägiges Erlebnis in Ha Long, rund um Sung-Sot-Höhle und Ti-Top-Insel. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt im Bereich der Altstadt von Hanoi im modernen Bus, Reiseleiter während der Reise, 5-Sterne-Kreuzfahrt in der Ha-Long-Bucht mit Jacuzzi, Mittagsbuffet und Kajak oder Bambusboot. Nicht enthalten sind Andere nicht genannte Getränke und Mahlzeiten, Schnellbootgebühr, Zuschlag zum Mondneujahr und Reiseversicherung und Trinkgelder für Reiseleiter und Fahrer, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long Bay. DGB - INDOCHINATODAYTRAVEL bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -17832,6 +19827,108 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ha-Long-Bucht: 2-tägige Luxuskreuzfahrt mit Aktivitäten, Verpflegung und Guide",
   "metaDescription": "2-tägige Tour in Ha Long Bay. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "2-day-1-night-ha-long-bay-by-amanda-premier-cruise": {
+  "title": "Ha-Long-Bucht: 2 Tage und 1 Nacht auf der Amanda Premier Cruise",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 1 Abendessen, 1 Frühstück, 2 Mittagessen, Wasser in Flaschen und Ebenerdige Dusche, Warmwasser und eigenes Bad; Badewanne für. Nicht enthalten sind Alkoholische Getränke und Softdrinks, andere Getränke auf Anfrage, Zuschlag von 35 $ pro Person am Tag der Befreiung des Südens, Alle weiteren Leistungen, die oben nicht ausdrücklich genannt sind und Upgrade-Option: Deluxe-Kabine auf Präsidentensuite =, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "1 Abendessen",
+   "1 Frühstück",
+   "2 Mittagessen",
+   "Wasser in Flaschen",
+   "Ebenerdige Dusche, Warmwasser und eigenes Bad; Badewanne in den Suite-Kabinen"
+  ],
+  "included": [
+   "1 Abendessen",
+   "1 Frühstück",
+   "2 Mittagessen",
+   "Wasser in Flaschen",
+   "Ebenerdige Dusche, Warmwasser und eigenes Bad; Badewanne in den Suite-Kabinen",
+   "Voll ausgestattetes Bad auf Anfrage",
+   "Kostenloses WLAN in den öffentlichen Bereichen des Schiffs und im Büro der Reederei",
+   "Alle Mahlzeiten und alle Eintrittskarten für die Aktivitäten",
+   "Kajak oder Bambusboot, Badezeit am Strand, Kochkurs, Tai-Chi-Stunde und Happy Hour",
+   "Hin- und Rücktransfer Hanoi – Ha Long (3 Stunden über die Schnellstraße im Bus oder in der Limousine)",
+   "Eintritt: Sung-Sot-Höhle, Ti-Top-Insel, Luon-Höhle, Ha-Long-Bucht"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke und Softdrinks, andere Getränke auf Anfrage",
+   "Zuschlag von 35 $ pro Person am Tag der Befreiung des Südens, zum chinesischen Neujahr, an Silvester und Weihnachten",
+   "Alle weiteren Leistungen, die oben nicht ausdrücklich genannt sind",
+   "Upgrade-Option: Deluxe-Kabine auf Präsidentensuite, 50 USD pro Person"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long Bay, inklusive 1 Abendessen, 1 Frühstück und 2 Mittagessen. Durchgeführt von AN LAM HA LONG TOURISM SERVICES, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht: 2 Tage und 1 Nacht auf der Amanda Premier Cruise",
+  "metaDescription": "2-tägige Tour in Ha Long Bay. Enthalten: 1 Abendessen und 1 Frühstück. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "amanda-pearl-cruise-ha-long-and-lan-ha-bay-multi-day-cruise-ha-long-bay": {
+  "title": "Amanda Pearl: mehrtägige Kreuzfahrt in Ha Long und Lan Ha",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Upgrade auf die Präsidentensuite auf Anfrage, Verpflegung an Bord, Tag 1: Mittag- und Abendessen, Tag 2: Frühstück und Brunch und Getränke auf Anfrage erhältlich. Nicht enthalten sind Trinkgelder für Reiseleiter und Fahrer, Trinkgelder für Bord- und Servicepersonal, Persönliche Ausgaben während der Reise und Flugtickets und Flughafentransfers, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Upgrade auf die Präsidentensuite auf Anfrage",
+   "Verpflegung an Bord",
+   "Tag 1: Mittag- und Abendessen",
+   "Tag 2: Frühstück und Brunch",
+   "Getränke auf Anfrage erhältlich"
+  ],
+  "included": [
+   "Upgrade auf die Präsidentensuite auf Anfrage",
+   "Verpflegung an Bord:",
+   "Tag 1: Mittag- und Abendessen",
+   "Tag 2: Frühstück und Brunch",
+   "Getränke auf Anfrage erhältlich.",
+   "Shuttleservice ab der Altstadt von Hanoi oder dem Opernhaus (bei Abfahrt ab Hanoi), Limousinen-Upgrade auf Anfrage.",
+   "Sommer-Gutschein: kostenloses Kabinen-Upgrade nach Verfügbarkeit (Aufenthalt Mai bis September)."
+  ],
+  "notIncluded": [
+   "Trinkgelder für Reiseleiter und Fahrer",
+   "Trinkgelder für Bord- und Servicepersonal",
+   "Persönliche Ausgaben während der Reise",
+   "Flugtickets und Flughafentransfers (Flughafentransfer auf Anfrage möglich)",
+   "Visumgebühren und damit verbundene Bearbeitungskosten",
+   "Alle zusätzlichen Kosten, die nicht ausdrücklich genannt sind"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long Bay, inklusive Upgrade auf die Präsidentensuite auf Anfrage, Verpflegung an Bord und Tag 1: Mittag- und Abendessen. Durchgeführt von AN LAM HA LONG TOURISM SERVICES, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Amanda Pearl: mehrtägige Kreuzfahrt in Ha Long und Lan Ha",
+  "metaDescription": "2-tägige Tour in Ha Long Bay. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "3-day-2-night-ha-long-bay-lan-ha-bay-by-hera-boutique-cruise": {
+  "title": "Ha-Long- und Lan-Ha-Bucht: 3 Tage und 2 Nächte auf der Hera Boutique Cruise",
+  "fullDescription": "Dies ist ein 3-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Zwei luxuriöse Nächte in einer Deluxe-Kabine mit, Hera-Suite mit privater Terrasse, optional buchbar, Das Erlebnis umfasst ein Willkommensgetränk, Verpflegung an Bord und Tag 1: Mittag- und Abendessen. Nicht enthalten sind Trinkgelder für Reiseleiter und Fahrer, Trinkgelder für Bord- und Servicepersonal, Persönliche Ausgaben während der Reise und Flugtickets und Flughafentransfers, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Tage",
+   "Zwei luxuriöse Nächte in einer Deluxe-Kabine mit Meerblick auf der Hera Classic Boutique Cruise",
+   "Hera-Suite mit privater Terrasse als optionales Upgrade",
+   "Das Erlebnis umfasst ein Willkommensgetränk, ein kühles Handtuch, Tee und Kaffee im Zimmer, Wasser in Flaschen, tägliche Pflegeprodukte, frisches Obst und ein entspannendes Kräuter-Fußbad",
+   "Verpflegung an Bord",
+   "Tag 1: Mittag- und Abendessen"
+  ],
+  "included": [
+   "Zwei luxuriöse Nächte in einer Deluxe-Kabine mit Meerblick auf der Hera Classic Boutique Cruise.",
+   "Hera-Suite mit privater Terrasse als optionales Upgrade.",
+   "Das Erlebnis umfasst ein Willkommensgetränk, ein kühles Handtuch, Tee und Kaffee im Zimmer, Wasser in Flaschen, tägliche Pflegeprodukte, frisches Obst und ein entspannendes Kräuter-Fußbad.",
+   "Verpflegung an Bord:",
+   "Tag 1: Mittag- und Abendessen",
+   "Tag 2: alle Mahlzeiten",
+   "Tag 3: Frühstück und Brunch",
+   "Getränke auf Anfrage erhältlich.",
+   "Shuttleservice ab der Altstadt von Hanoi oder dem Opernhaus (bei Abfahrt ab Hanoi), Limousinen-Upgrade auf Anfrage.",
+   "Sommer-Gutschein: kostenloses Kabinen-Upgrade nach Verfügbarkeit (Aufenthalt Mai bis September)."
+  ],
+  "notIncluded": [
+   "Trinkgelder für Reiseleiter und Fahrer",
+   "Trinkgelder für Bord- und Servicepersonal",
+   "Persönliche Ausgaben während der Reise",
+   "Flugtickets und Flughafentransfers",
+   "Visumgebühren und damit verbundene Bearbeitungskosten",
+   "Alle zusätzlichen Kosten, die nicht ausdrücklich genannt sind",
+   "Zuschlag am Tag der Befreiung, zum chinesischen Neujahr, an Silvester und an Weihnachten"
+  ],
+  "shortDescription": "3-tägige Tour in Ha Long Bay, inklusive Zwei luxuriöse Nächte in einer Deluxe-Kabine mit, Hera-Suite mit privater Terrasse, optional buchbar und Das Erlebnis umfasst ein Willkommensgetränk. Durchgeführt von AN LAM HA LONG TOURISM SERVICES, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long- und Lan-Ha-Bucht: 3 Tage und 2 Nächte auf der Hera Boutique Cruise",
+  "metaDescription": "3-tägige Tour in Ha Long Bay. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "ha-long-and-lan-ha-bay-day-tour-by-hera-luxury-cruise": {
   "title": "Ha Long und Lan Ha an einem Tag an Bord der Hera",
   "fullDescription": "Dies ist ein 7,5-stündiges Erlebnis in Ha Long, rund um Bus/Reisebus. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 7,5-stündige Kreuzfahrt in der Lan-Ha-Bucht, Willkommensgetränke, Traditionelle Darbietungen, Üppiges Meeresfrüchte-Buffet und Kajak- oder Bambusbootfahrten. Nicht enthalten sind Persönliche Ausgaben, Reiseversicherung, Trinkgelder für Bord- und Servicepersonal und Flugtickets und Flughafentransfers, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -17863,6 +19960,75 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Ha Long Bay, inklusive 7,5-stündige Kreuzfahrt in der Lan-Ha-Bucht, Willkommensgetränke und Traditionelle Darbietungen. Durchgeführt von AN LAM HA LONG TOURISM SERVICES, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ha Long und Lan Ha an einem Tag an Bord der Hera",
   "metaDescription": "Tour in Ha Long Bay. Enthalten: 7,5-stündige Kreuzfahrt in der Lan-Ha-Bucht. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "2-day-1-night-ha-long-bay-by-amanda-cruise": {
+  "title": "Ha-Long-Bucht 2 Tage/1 Nacht an Bord der Amanda",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Upgrade auf die Präsidentensuite auf Anfrage, Verpflegung an Bord, Tag 1: Mittag- und Abendessen, Tag 2: Frühstück und Brunch und Getränke auf Anfrage erhältlich. Nicht enthalten sind Trinkgelder für Reiseleiter und Fahrer, Trinkgelder für Bord- und Servicepersonal, Persönliche Ausgaben während der Reise und Flugtickets und Flughafentransfers, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Upgrade auf die Präsidentensuite auf Anfrage",
+   "Verpflegung an Bord",
+   "Tag 1: Mittag- und Abendessen",
+   "Tag 2: Frühstück und Brunch",
+   "Getränke auf Anfrage erhältlich"
+  ],
+  "included": [
+   "Upgrade auf die Präsidentensuite auf Anfrage",
+   "Verpflegung an Bord:",
+   "Tag 1: Mittag- und Abendessen",
+   "Tag 2: Frühstück und Brunch",
+   "Getränke auf Anfrage erhältlich.",
+   "Shuttleservice ab der Altstadt von Hanoi oder dem Opernhaus (bei Abfahrt ab Hanoi), Limousinen-Upgrade auf Anfrage.",
+   "Sommer-Gutschein: kostenloses Kabinen-Upgrade nach Verfügbarkeit (Aufenthalt Mai bis September)."
+  ],
+  "notIncluded": [
+   "Trinkgelder für Reiseleiter und Fahrer",
+   "Trinkgelder für Bord- und Servicepersonal",
+   "Persönliche Ausgaben während der Reise",
+   "Flugtickets und Flughafentransfers (Flughafentransfer auf Anfrage möglich)",
+   "Visumgebühren und damit verbundene Bearbeitungskosten",
+   "Alle zusätzlichen Kosten, die nicht ausdrücklich genannt sind"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long Bay, inklusive Upgrade auf die Präsidentensuite auf Anfrage, Verpflegung an Bord und Tag 1: Mittag- und Abendessen. Durchgeführt von AN LAM HA LONG TOURISM SERVICES, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha-Long-Bucht 2 Tage/1 Nacht an Bord der Amanda",
+  "metaDescription": "2-tägige Tour in Ha Long Bay. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "hera-grand-luxury-cruise-ha-long-bay-multi-day-tour-ha-long-bay": {
+  "title": "Hera Grand Luxury Cruise: mehrtägige Tour in der Ha-Long-Bucht",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Ein oder zwei Nächte in einer Junior Suite mit Meerblick, Ocean-Suite mit privatem Balkon und Badewanne, Willkommensgetränk und kühles Handtuch, Tee im Zimmer und Verpflegung an Bord. Nicht enthalten sind Trinkgelder für Reiseleiter und Fahrer, Trinkgelder für Bord- und Servicepersonal, Persönliche Ausgaben während der Reise und Flugtickets und Flughafentransfers, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Ein oder zwei Nächte in einer Junior Suite mit Meerblick",
+   "Ocean-Suite mit privatem Balkon und Badewanne (als optionales Upgrade)",
+   "Willkommensgetränk und kühles Handtuch",
+   "Tee und Kaffee im Zimmer, Wasser in Flaschen, tägliche Pflegeprodukte, frisches Obst und ein entspannendes Kräuter-Fußbad",
+   "Verpflegung an Bord"
+  ],
+  "included": [
+   "Ein oder zwei Nächte in einer Junior Suite mit Meerblick",
+   "Ocean-Suite mit privatem Balkon und Badewanne (als optionales Upgrade)",
+   "Willkommensgetränk und kühles Handtuch",
+   "Tee und Kaffee im Zimmer, Wasser in Flaschen, tägliche Pflegeprodukte, frisches Obst und ein entspannendes Kräuter-Fußbad",
+   "Verpflegung an Bord:",
+   "Tag 1: Mittag- und Abendessen",
+   "Tag 2: alle Mahlzeiten",
+   "Tag 3: Frühstück und Brunch",
+   "Getränke auf Anfrage erhältlich",
+   "Aktivitäten: Kajak oder Bambusboot an der Ti-Top-Insel und der Sung-Sot-Höhle, Kochkurs, Nachmittagstee und kostenloses WLAN.",
+   "Besondere Zimmerdekoration für Geburtstage, Jahrestage und Flitterwochen.",
+   "Alle Besichtigungstickets, Servicegebühren und Pflichtversicherungen sind enthalten."
+  ],
+  "notIncluded": [
+   "Trinkgelder für Reiseleiter und Fahrer",
+   "Trinkgelder für Bord- und Servicepersonal",
+   "Persönliche Ausgaben während der Reise",
+   "Flugtickets und Flughafentransfers",
+   "Visumgebühren und damit verbundene Bearbeitungskosten",
+   "Alle zusätzlichen Kosten, die nicht ausdrücklich genannt sind"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long Bay, inklusive Ein oder zwei Nächte in einer Junior Suite mit Meerblick, Ocean-Suite mit privatem Balkon und Badewanne und Willkommensgetränk und kühles Handtuch. Durchgeführt von AN LAM HA LONG TOURISM SERVICES, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hera Grand Luxury Cruise: mehrtägige Tour in der Ha-Long-Bucht",
+  "metaDescription": "2-tägige Tour in Ha Long Bay. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "2-day-1-night-ha-long-bay-by-le-journey-cruise": {
   "title": "Ha-Long-Bucht 2 Tage/1 Nacht an Bord der Le Journey",
@@ -17899,6 +20065,41 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ha-Long-Bucht 2 Tage/1 Nacht an Bord der Le Journey",
   "metaDescription": "2-tägige Tour in Ha Long Bay. Enthalten: 1 Abendessen und 1 Frühstück. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "ha-long-and-lan-ha-bay-6-star-cruise-balcony-tub-and-pool-2-days": {
+  "title": "Ha Long und Lan Ha als 6-Sterne-Kreuzfahrt: Balkon, Badewanne und Pool, 2 Tage",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long, rund um Ha-Long-Bucht – Hanoi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 6-Sterne-Kreuzfahrt über 2 Tage/1 Nacht, Guide, Willkommensgetränk, Kabine mit Privatbalkon und Meerblick und Eigenes Bad mit Badewanne und Meerblick. Nicht enthalten sind Getränke, Transferzuschlag von 25 $ pro Person im Limousinenbus, Zuschlag von 110 $ für Alleinreisende und Zuschlag zu Neujahr und Weihnachten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Ha-Long-Bucht – Hanoi",
+   "Dauer: 2 Tage",
+   "6-Sterne-Kreuzfahrt über 2 Tage/1 Nacht",
+   "Guide",
+   "Willkommensgetränk (Softdrink, Tee oder Kaffee)",
+   "Kabine mit Privatbalkon und Meerblick"
+  ],
+  "included": [
+   "6-Sterne-Kreuzfahrt über 2 Tage/1 Nacht",
+   "Guide",
+   "Willkommensgetränk (Softdrink, Tee oder Kaffee)",
+   "Kabine mit Privatbalkon und Meerblick",
+   "Eigenes Bad mit Badewanne und Meerblick",
+   "Voll ausgestattete Kabine mit eigenem Bad und Klimaanlage",
+   "2 Flaschen Wasser in jeder Kabine",
+   "Alle Mahlzeiten an Bord (Frühstück, Mittagsbuffet, Abendmenü, vegetarische Optionen)",
+   "Alle Eintrittsgebühren und Tickets",
+   "Kajakfahren",
+   "Tai-Chi an Bord",
+   "Tintenfischangeln"
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Transferzuschlag von 25 $ pro Person im Limousinenbus (Hanoi – Ha Long – Hanoi, Ninh Binh – Ha Long – Hanoi oder Hanoi – Ha Long – Ninh Binh)",
+   "Zuschlag von 110 $ für Alleinreisende, an Bord zu zahlen",
+   "Zuschlag zu Neujahr, Weihnachten und an Feiertagen"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long Bay, mit Ao Ech/Tra Bau Area Or Trung Trang Cave. Durchgeführt von Halongbayluxcruises - Marvel Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ha Long und Lan Ha als 6-Sterne-Kreuzfahrt: Balkon, Badewanne und Pool, 2 Tage",
+  "metaDescription": "2-tägige Tour in Ha Long Bay. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "2-day-ninh-binh-ha-long-bay-meals-cruise-transfer": {
   "title": "Ninh Binh und Ha-Long-Bucht in 2 Tagen: Verpflegung, Kreuzfahrt und Transfers",
   "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Ganzer Tag Ninh Binh: Bai Dinh, Trang An und Mua-Höhle, Ganzer Tag Ha-Long-Bucht: Sung-Sot-Höhle, Ti-Top-Insel und Luon-Höhle, Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi, Limousinenbus Hanoi – Ninh Binh und Ninh Binh – Ha Long und Klimatisiertes Fahrzeug. Nicht enthalten sind Persönliche Artikel und Getränke, Trinkgeld für Reiseleiter und Fahrer, Einzelzuschlag für Alleinreisende: 15 $ und Zuschlag von 10 % am Nationalfeiertag, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Ha Long Bay. DGB - INDOCHINATODAYTRAVEL bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -17932,6 +20133,40 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "shortDescription": "2-tägige Tour in Ha Long Bay, inklusive Ganzer Tag Ninh Binh: Bai Dinh, Trang An und Mua-Höhle, Ganzer Tag Ha-Long-Bucht: Sung-Sot-Höhle, Ti-Top-Insel und Luon-Höhle und Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi. Durchgeführt von DGB - INDOCHINATODAYTRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ninh Binh und Ha-Long-Bucht in 2 Tagen: Verpflegung, Kreuzfahrt und Transfers",
+  "metaDescription": "2-tägige Tour in Ha Long Bay. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "6-star-cruise-bai-tu-long-bay-2-day-bath-tub-balcony-in-ha-long-bay": {
+  "title": "Bai-Tu-Long-Bucht: 2-tägige 6-Sterne-Kreuzfahrt mit Badewanne und Balkon",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long, rund um Bai-Tu-Long-Bucht, Thien-Canh-Son-Höhle und Cong Do. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 1 Nacht auf einer 6-Sterne-Kreuzfahrt in der Ha-Long- und Bai-Tu-Long-Bucht, Englischsprachiger Guide an Bord, Voll ausgestattete Kabine mit eigenem Bad und Klimaanlage, Willkommensgetränke und Eintrittsgebühren für die Ha-Long- und die Bai-Tu-Long-Bucht. Nicht enthalten sind Alkoholische Getränke und Softdrinks, Ein Zuschlag von 125 $ beim Check-in der Kreuzfahrt, Ein Zuschlag an Weihnachten und Neujahr und Limousinenbus Hanoi/Ninh Binh - Ha Long - Hanoi/Ninh Binh, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHạ Long. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bai-Tu-Long-Bucht",
+   "Thien-Canh-Son-Höhle",
+   "Cong Do",
+   "Vung Vieng",
+   "Dauer: 2 Tage",
+   "1 Nacht auf einer 6-Sterne-Kreuzfahrt in der Ha-Long- und Bai-Tu-Long-Bucht"
+  ],
+  "included": [
+   "1 Nacht auf einer 6-Sterne-Kreuzfahrt in der Ha-Long- und Bai-Tu-Long-Bucht",
+   "Professioneller englischsprachiger Guide an Bord",
+   "Voll ausgestattete Kabine mit eigenem Bad, Klimaanlage, privatem Balkon und Badewanne (Twin- oder Doppelbett)",
+   "Willkommensgetränke und warme oder kalte Handtücher",
+   "Eintrittsgebühren für die Ha-Long- und die Bai-Tu-Long-Bucht",
+   "Kajak und Bambusboot zum Fischerdorf",
+   "Alle Mahlzeiten an Bord (2 Mittagessen, 1 Abendessen, 1 Frühstück)",
+   "Sunset-Party und Anprobe des Ao Dai, der traditionellen Tracht",
+   "Kleine traditionelle vietnamesische Musikshow",
+   "Kostenlose Dekoration der Kabine für Flitterwochen oder Jahrestag und Geburtstagskuchen am Tag laut Pass (mindestens 1 Tag vor Abfahrt mitteilen)",
+   "1 Flasche Wasser (pro Person an Bord)"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke und Softdrinks",
+   "Ein Zuschlag von 125 $ beim Check-in (Einzelkabine)",
+   "Ein Zuschlag an Weihnachten, Neujahr und an Feiertagen.",
+   "Limousinenbus Hanoi/Ninh Binh - Ha Long - Hanoi/Ninh Binh für 25 USD pro Person"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long Bay, mit Bai-Tu-Long-Bucht, Thien-Canh-Son-Höhle und Cong Do. Durchgeführt von DGB Travel & Event Company, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Bai-Tu-Long-Bucht: 2-tägige 6-Sterne-Kreuzfahrt mit Badewanne und Balkon",
   "metaDescription": "2-tägige Tour in Ha Long Bay. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "ha-long-bay-2-day-5-star-cruise-balcony-meals-cave-kayak-ha-long-bay": {
@@ -18106,6 +20341,41 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Ha Long Bay, inklusive 1. Schlafbus-Ticket von Ha Long nach Ha Giang und ab Ha, 2. Abholung am Treffpunkt in Ha Long und Rückfahrt und 3. Motorrad 110 ccm. Durchgeführt von TripBestie, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ha-Giang-Loop in 3 Tagen mit sicherem Fahrer (max. 8 Personen)",
   "metaDescription": "Tour in Ha Long Bay. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "amanda-luxury-cruise-ha-long-and-lan-ha-bay-multi-day-cruise-ha-long-bay": {
+  "title": "Amanda Luxury Cruise: mehrtägige Kreuzfahrt in der Ha-Long- und der Lan-Ha-Bucht",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Ha Long. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 1 Abendessen, 1 Frühstück, 2 Mittagessen, Wasser in Flaschen und Deluxe-Kabine mit Meerblick auf dem ersten Deck. Nicht enthalten sind Alkoholische Getränke und Softdrinks, andere Getränke auf Anfrage, Zuschlag von 30 bis 40 $ pro Person rund um den Tag der Befreiung des Südens, Upgrade-Option: Deluxe-Kabine auf Präsidentensuite = und Wenn Sie in der Gruppe reisen, aber eine Einzelkabine möchten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "1 Abendessen",
+   "1 Frühstück",
+   "2 Mittagessen",
+   "Wasser in Flaschen",
+   "Deluxe-Kabine mit Meerblick auf dem ersten Deck"
+  ],
+  "included": [
+   "1 Abendessen",
+   "1 Frühstück",
+   "2 Mittagessen",
+   "Wasser in Flaschen",
+   "Deluxe-Kabine mit Meerblick auf dem ersten Deck",
+   "Ebenerdige Dusche, Warmwasser und eigenes Bad; Badewanne in den Suite-Kabinen",
+   "Voll ausgestattetes Bad auf Anfrage",
+   "Kostenloses WLAN in den öffentlichen Bereichen des Schiffs und im Büro der Reederei",
+   "Alle Mahlzeiten und alle Eintrittskarten für die Aktivitäten",
+   "Kajak oder Bambusboot, Badezeit am Strand, Kochkurs, Tai-Chi-Stunde und Happy Hour",
+   "Hin- und Rücktransfer Hanoi – Ha Long (3 Stunden über die Schnellstraße im Bus oder in der Limousine), nur bei der Option Abfahrt ab Hanoi.",
+   "Eintritt: Helle und Dunkle Höhle, schwimmendes Dorf Tra Bau, Drei-Pfirsiche-Insel, Lan-Ha-Bucht"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke und Softdrinks, andere Getränke auf Anfrage",
+   "Zuschlag von 30 bis 40 $ pro Person am Tag der Befreiung des Südens, zum chinesischen Neujahr, an Silvester und Weihnachten",
+   "Upgrade-Option: Deluxe-Kabine auf Präsidentensuite, 50 USD pro Person",
+   "Wenn Sie in der Gruppe reisen, aber eine Einzelkabine möchten, buchen Sie bitte separat"
+  ],
+  "shortDescription": "2-tägige Tour in Ha Long Bay, inklusive 1 Abendessen, 1 Frühstück und 2 Mittagessen. Durchgeführt von AN LAM HA LONG TOURISM SERVICES, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Amanda Luxury Cruise: mehrtägige Kreuzfahrt in der Ha-Long- und der Lan-Ha-Bucht",
+  "metaDescription": "2-tägige Tour in Ha Long Bay. Enthalten: 1 Abendessen und 1 Frühstück. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "lan-ha-bay-halong-6-star-cruise-balcony-bathtub-pool-3-days": {
   "title": "Lan Ha und Ha Long als 6-Sterne-Kreuzfahrt: Balkon, Badewanne und Pool, 3 Tage",
