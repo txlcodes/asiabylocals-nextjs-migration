@@ -4737,7 +4737,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Compras personales y recuerdos",
    "Experiencias o servicios solicitados fuera del recorrido previsto"
   ],
-  "shortDescription": "Tour de 3 días en Ciudad Ho Chi Minh, con Day Three — From the Mekong to Phú Quốc y Llegada a Phu Quoc. Operador: Rec, con reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Tour de 3 días en Ciudad Ho Chi Minh, con Día 3: del Mekong a Phu Quoc y Llegada a Phu Quoc. Operador: Rec, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "De Ciudad Ho Chi Minh a Phu Quoc: 3 días por el Mekong escondido (Ciudad Ho Chi Minh)",
   "metaDescription": "Tour de 3 días en Ciudad Ho Chi Minh. Reserva directa con el operador local y confirmación antes de cerrar la"
  },

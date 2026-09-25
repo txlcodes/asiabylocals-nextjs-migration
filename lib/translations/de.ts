@@ -4737,7 +4737,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Einkäufe und Souvenirs",
    "Optionale Erlebnisse oder Leistungen, die außerhalb der zusammengestellten Reise angefragt werden"
   ],
-  "shortDescription": "3-tägige Tour in Ho-Chi-Minh-Stadt, mit Day Three — From the Mekong to Phú Quốc und Ankunft auf Phu Quoc. Durchgeführt von Rec, direkt gebucht statt über einen Wiederverkäufer.",
+  "shortDescription": "3-tägige Tour in Ho-Chi-Minh-Stadt, mit Tag 3: vom Mekong nach Phu Quoc und Ankunft auf Phu Quoc. Durchgeführt von Rec, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Von Ho-Chi-Minh-Stadt nach Phu Quoc: 3 Tage im verborgenen Mekong (Ho-Chi-Minh-Stadt)",
   "metaDescription": "3-tägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
