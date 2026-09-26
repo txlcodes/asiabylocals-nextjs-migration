@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useState, useEffect, useRef } from 'react';
+import { formatBookingDate } from '@/lib/bookingDate';
 import { Star, Camera, X, Loader2, CheckCircle, AlertCircle } from 'lucide-react';
 import Link from 'next/link';
 import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
@@ -243,7 +244,7 @@ export default function ReviewClient({ token }: { token: string }) {
     </div>
   );
 
-  const formattedDate = booking ? new Date(booking.bookingDate).toLocaleDateString('en-US', {
+  const formattedDate = booking ? formatBookingDate(booking.bookingDate, {
     weekday: 'long',
     month: 'long',
     day: 'numeric',

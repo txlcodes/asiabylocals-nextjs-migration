@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
+import { parseBookingDate } from '@/lib/bookingDate';
 import {
   User,
   LogOut,
@@ -2192,7 +2193,7 @@ export default function SupplierDashboard({ supplier, onLogout }: SupplierDashbo
               ) : (
                 <div className="space-y-4">
                   {bookings.map((booking) => {
-                    const bookingDate = new Date(booking.bookingDate);
+                    const bookingDate = parseBookingDate(booking.bookingDate) ?? new Date();
                     const formattedDate = bookingDate.toLocaleDateString('en-US', {
                       weekday: 'long',
                       year: 'numeric',

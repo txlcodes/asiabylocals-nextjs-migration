@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useState, useEffect, useRef } from 'react';
+import { formatBookingDate } from '@/lib/bookingDate';
 import Link from 'next/link';
 import {
   Star,
@@ -3897,7 +3898,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                   <div className="flex justify-between">
                     <span className="text-gray-600 font-semibold">Date:</span>
                     <span className="font-black text-[#001A33]">
-                      {new Date(guideContactInfo.bookingDate).toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' })}
+                      {formatBookingDate(guideContactInfo.bookingDate, { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' })}
                     </span>
                   </div>
                   <div className="flex justify-between">

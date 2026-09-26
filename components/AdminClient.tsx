@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect, Fragment } from 'react';
+import { parseBookingDate } from '@/lib/bookingDate';
 import Link from 'next/link';
 import {
   CheckCircle2,
@@ -2200,7 +2201,7 @@ export default function AdminClient() {
               ) : (
                 <div className="space-y-4">
                   {bookings.map((booking) => {
-                    const bookingDate = new Date(booking.bookingDate);
+                    const bookingDate = parseBookingDate(booking.bookingDate) ?? new Date();
                     const formattedDate = bookingDate.toLocaleDateString('en-US', {
                       weekday: 'long',
                       year: 'numeric',

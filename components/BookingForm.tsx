@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
+import { formatBookingDate } from '@/lib/bookingDate';
 import { X, User, Mail, Phone, MapPin, MessageSquare, Loader2 } from 'lucide-react';
 import { COUNTRIES_LIST } from '@/lib/countries_list';
 
@@ -170,7 +171,7 @@ const BookingForm: React.FC<BookingFormProps> = ({
                     <div className="text-right">
                         <div className="text-xs font-bold text-gray-400 uppercase tracking-wider">Date</div>
                         <div className="font-black text-[#001A33]">
-                            {new Date(bookingDate).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
+                            {formatBookingDate(bookingDate, { month: 'short', day: 'numeric' })}
                         </div>
                     </div>
                 </div>

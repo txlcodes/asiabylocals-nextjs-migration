@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
+import { formatBookingDate } from '@/lib/bookingDate';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { CheckCircle, Download, Mail, Phone, MessageCircle, User, Calendar, Users, MapPin, ArrowLeft, X } from 'lucide-react';
@@ -79,7 +80,7 @@ export default function BookingConfirmationClient({ bookingId }: BookingConfirma
   }
 
   const bookingReference = booking.bookingReference || `ABL-${booking.id.toString().padStart(6, '0')}-${new Date(booking.createdAt).getFullYear()}`;
-  const formattedDate = new Date(booking.bookingDate).toLocaleDateString('en-US', {
+  const formattedDate = formatBookingDate(booking.bookingDate, {
     weekday: 'long',
     month: 'long',
     day: 'numeric',

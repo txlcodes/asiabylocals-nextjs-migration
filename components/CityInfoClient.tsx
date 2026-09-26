@@ -260,6 +260,10 @@ const PHNOM_PENH_SIDEBAR = [
     { name: 'Food & Markets', slug: 'phnom-penh-food-and-markets' },
     { name: 'To Siem Reap', slug: 'phnom-penh-to-siem-reap-transport' },
     { name: 'Best Time to Visit', slug: 'best-time-to-visit-phnom-penh' },
+    { name: '1-Day Itinerary', slug: 'phnom-penh-1-day-itinerary' },
+    { name: 'Koh Dach Silk Island', slug: 'koh-dach-silk-island' },
+    { name: 'Kampot & Kep Day Trip', slug: 'kampot-and-kep-day-trip' },
+    { name: 'Street Art & Architecture', slug: 'phnom-penh-street-art' },
 ];
 
 const SIEM_REAP_SIDEBAR = [
@@ -271,6 +275,17 @@ const SIEM_REAP_SIDEBAR = [
     { name: '3-Day Itinerary', slug: 'siem-reap-3-day-itinerary' },
     { name: 'Airport to Town', slug: 'siem-reap-airport-to-town' },
     { name: 'Food Guide', slug: 'siem-reap-food-guide' },
+    { name: 'Angkor in One Day', slug: 'angkor-wat-one-day-itinerary' },
+    { name: 'Banteay Srei', slug: 'banteay-srei-guide' },
+    { name: 'Ta Prohm', slug: 'ta-prohm-tomb-raider-temple' },
+    { name: 'Angkor by Bike', slug: 'angkor-by-bike' },
+    { name: 'Where to Stay', slug: 'where-to-stay-in-siem-reap' },
+    { name: '2-Day Itinerary', slug: 'siem-reap-2-day-itinerary' },
+    { name: 'With Children', slug: 'siem-reap-with-kids' },
+    { name: 'Angkor Thom & Bayon', slug: 'bayon-and-angkor-thom-guide' },
+    { name: 'Beng Mealea & Koh Ker', slug: 'beng-mealea-and-koh-ker' },
+    { name: 'Phnom Kulen', slug: 'phnom-kulen-guide' },
+    { name: 'Photography Guide', slug: 'angkor-photography-guide' },
 ];
 
 const KRABI_SIDEBAR = [
