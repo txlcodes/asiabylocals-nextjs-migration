@@ -142,6 +142,28 @@ export const PATTAYA_INFO_SLUGS = [
   'best-time-to-visit-pattaya', 'nong-nooch-tropical-garden-pattaya',
   'pattaya-2-day-itinerary', 'pattaya-cabaret-shows-guide'
 ];
+// Cambodia. isInfoSlug() gates the route, so a page missing from here 404s
+// however good the content is.
+export const PHNOM_PENH_INFO_SLUGS = [
+    'tuol-sleng-and-choeung-ek-guide',
+    'royal-palace-phnom-penh',
+    'phnom-penh-2-day-itinerary',
+    'phnom-penh-food-and-markets',
+    'phnom-penh-to-siem-reap-transport',
+    'best-time-to-visit-phnom-penh',
+];
+
+export const SIEM_REAP_INFO_SLUGS = [
+    'angkor-wat-tickets-and-pass-guide',
+    'angkor-wat-sunrise-guide',
+    'angkor-temples-small-vs-grand-circuit',
+    'best-time-to-visit-siem-reap',
+    'tonle-sap-floating-villages-guide',
+    'siem-reap-3-day-itinerary',
+    'siem-reap-airport-to-town',
+    'siem-reap-food-guide',
+];
+
 export const KRABI_INFO_SLUGS = [
   'best-time-to-visit-krabi', 'railay-beach-krabi',
   'krabi-4-islands-tour-guide', 'tiger-cave-temple-krabi',

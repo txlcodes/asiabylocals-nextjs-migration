@@ -68,6 +68,29 @@ const JAIPUR_SIDEBAR = [
 
 // Recommended tour links for internal linking from authority pages to tour pages (SEO: pass link juice)
 const CITY_RECOMMENDED_TOURS: Record<string, { title: string; slug: string; description: string; image?: string; price?: string; rating?: string }[]> = {
+    // Siem Reap. Without an entry here the "Top-Rated Tours" block renders
+    // empty and the authority pages pass no link equity to the tour pages —
+    // which is exactly what happened to Phuket for eleven pages.
+    'phnom-penh': [
+        { title: "Tuol Sleng and Killing Fields Guided Tour", slug: 'tuol-sleng-and-killing-fields-guided-tour', description: "Tuol Sleng and Choeung Ek in one half-day, with transport between them and a guide", image: 'https://images.asiabylocals.com/asiabylocals/tours/tuol-sleng-and-killing-fields-guided-tour/img0/1600.webp', price: 'From $78', rating: '4.58' },
+        { title: "Royal Palace, National Museum and Wat Phnom with Private tour in Phnom Penh", slug: 'royal-palace-national-museum-and-wat-phnom-with-pr', description: "The Silver Pagoda, the best Khmer sculpture anywhere, and the hill the city is named after", image: 'https://images.asiabylocals.com/asiabylocals/tours/royal-palace-national-museum-and-wat-phnom-with-private-tour-in-phnom-penh/img0/1600.webp', price: 'From $163', rating: '4.88' },
+        { title: "Phnom Penh Morning Market and Street Art Tour by Tuk Tuk", slug: 'phnom-penh-morning-market-and-street-art-tour-by', description: "The markets while they are still working, then the murals that have gone up since 2015", image: 'https://images.asiabylocals.com/asiabylocals/tours/phnom-penh-morning-market-and-street-art-tour-by-tuk-tuk/img0/1600.webp', price: 'From $64', rating: '4.95' },
+        { title: "Street Art and Food Tour with Pickup and Beer in Phnom Penh", slug: 'street-art-and-food-tour-with-pickup-and-beer', description: "Eating where the city eats, with the ordering handled - the actual barrier in Cambodia", image: 'https://images.asiabylocals.com/asiabylocals/tours/street-art-and-food-tour-with-pickup-and-beer-in-phnom-penh/img0/1600.webp', price: 'From $51', rating: '5.0' },
+        { title: "Phnom Penh Haft Day Tour to Silk Island by Tuk Tuk", slug: 'phnom-penh-haft-day-tour-to-silk-island-by', description: "A short ferry upstream to the island where weavers still sell at the loom", image: 'https://images.asiabylocals.com/asiabylocals/tours/phnom-penh-haft-day-tour-to-silk-island-by-tuk-tuk-phnom-penh/img0/1600.webp', price: 'From $46', rating: '5.0' },
+        { title: "Phnom Penh in Colour: Street Art and Sunset Mekong Cruise", slug: 'phnom-penh-in-colour-street-art-and-sunset-mekong', description: "Street art in the afternoon, then an hour where the Mekong, Tonle Sap and Bassac meet", image: 'https://images.asiabylocals.com/asiabylocals/tours/phnom-penh-in-colour-street-art-and-sunset-mekong-cruise/img0/1600.webp', price: 'From $72', rating: '5.0' },
+        { title: "A Day Trip to Kep Beach and Kampot from Phnom Penh", slug: 'a-day-trip-to-kep-beach-and-kampot-from', description: "Kampot pepper smallholdings under Bokor, and blue swimmer crab at the Kep crab market", image: 'https://images.asiabylocals.com/asiabylocals/tours/a-day-trip-to-kep-beach-and-kampot-from-phnom-penh-phnom-penh/img0/1600.webp', price: 'From $306', rating: '4.8' },
+        { title: "Oudong Mountain and Phnom Penh Full Day Private Tour", slug: 'oudong-mountain-and-phnom-penh-full-day-private-to', description: "Royal capital for 250 years until 1866, with hilltop stupas holding the ashes of kings", image: 'https://images.asiabylocals.com/asiabylocals/tours/oudong-mountain-and-phnom-penh-full-day-private-tour/img0/1600.webp', price: 'From $376', rating: '5.0' },
+    ],
+    'siem-reap': [
+        { title: "Angkor Wat, Angkor Thom, and Ta Prohm Day Trip with Sunset", slug: 'angkor-wat-angkor-thom-and-ta-prohm-day-trip', description: "Angkor Wat, Angkor Thom and Ta Prohm in one day with sunset - the small circuit, done properly", image: 'https://images.asiabylocals.com/asiabylocals/tours/angkor-wat-angkor-thom-and-ta-prohm-day-trip-with-sunset-siem-reap/img0/1600.webp', price: 'From $25', rating: '5.0' },
+        { title: "Banteay Srei and Grand Circuit Heritage Tour", slug: 'banteay-srei-and-grand-circuit-heritage-tour', description: "Banteay Srei carving plus the grand circuit, the loop most visitors never reach", image: 'https://images.asiabylocals.com/asiabylocals/tours/banteay-srei-and-grand-circuit-heritage-tour/img0/1600.webp', price: 'From $25', rating: '4.86' },
+        { title: "Grand Circle Tour and Sunset on Bakheng Hill with Guide in Siem Reap", slug: 'grand-circle-tour-and-sunset-on-bakheng-hill-with', description: "Preah Khan, Neak Pean and Ta Som, finishing on Bakheng hill for sunset", image: 'https://images.asiabylocals.com/asiabylocals/tours/grand-circle-tour-and-sunset-on-bakheng-hill-with-guide-in-siem-reap/img0/1600.webp', price: 'From $25', rating: '4.89' },
+        { title: "Kulen Waterfall and Banteay Srei Exploration", slug: 'kulen-waterfall-and-banteay-srei-exploration', description: "Banteay Srei pink sandstone and the Kulen waterfall, a full day out of town", image: 'https://images.asiabylocals.com/asiabylocals/tours/kulen-waterfall-and-banteay-srei-exploration/img0/1600.webp', price: 'From $64', rating: '5.0' },
+        { title: "Angkor International Airport (SAI) Private/Shared Transfers", slug: 'angkor-international-airport-sai-privateshared-tra', description: "The 45 km run in from Siem Reap-Angkor International, with a driver already waiting", image: 'https://images.asiabylocals.com/asiabylocals/tours/angkor-international-airport-sai-private-shared-transfers-siem-reap/img0/1600.webp', price: 'From $33', rating: '4.83' },
+        { title: "Phare: The Cambodian Circus Show with Pickup and Drop-off", slug: 'phare-the-cambodian-circus-show-with-pickup-and-dr', description: "Modern acrobatic theatre staged by graduates of the Battambang circus school", image: 'https://images.asiabylocals.com/asiabylocals/tours/phare-the-cambodian-circus-show-with-pickup-and-drop-off/img0/1600.webp', price: 'From $57', rating: '5.0' },
+        { title: "Ultimate Street Food Tour with 20+ Tastings in Siem Reap", slug: 'ultimate-street-food-tour-with-20-tastings-in-siem', description: "Twenty-plus tastings at stalls with no English menu, in the order a Khmer family eats them", image: 'https://images.asiabylocals.com/asiabylocals/tours/ultimate-street-food-tour-with-20-tastings-in-siem-reap/img0/1600.webp', price: 'From $64', rating: '5.0' },
+        { title: "Authentic Countryside Sunset Tuk Tuk Tour in Siem Reap", slug: 'authentic-countryside-sunset-tuk-tuk-tour-in-siem-', description: "Rice fields, sugar palms and villages five minutes off the temple road, at last light", image: 'https://images.asiabylocals.com/asiabylocals/tours/authentic-countryside-sunset-tuk-tuk-tour-in-siem-reap/img0/1600.webp', price: 'From $103', rating: '5.0' },
+    ],
     'agra': [
         { title: 'Book Official Tour Guide for Taj Mahal', slug: 'taj-mahal-official-guided-tour', description: 'Licensed ASI-certified guide with skip-the-line entry — 3 hours', image: '/things-to-do/agra-official-guide.webp', price: 'From $15', rating: '4.9' },
         { title: 'Taj Mahal Entry Ticket Assistance', slug: 'taj-mahal-entry-ticket', description: 'Pre-booked digital tickets with preferred time slot secured', image: '/things-to-do/agra-taj-ticket.webp', price: 'From $18', rating: '4.8' },
@@ -228,6 +251,26 @@ const PATTAYA_SIDEBAR = [
     { name: 'Nong Nooch Garden', slug: 'nong-nooch-tropical-garden-pattaya' },
     { name: '2-Day Itinerary', slug: 'pattaya-2-day-itinerary' },
     { name: 'Cabaret Shows', slug: 'pattaya-cabaret-shows-guide' },
+];
+
+const PHNOM_PENH_SIDEBAR = [
+    { name: 'S-21 & Killing Fields', slug: 'tuol-sleng-and-choeung-ek-guide' },
+    { name: 'Royal Palace', slug: 'royal-palace-phnom-penh' },
+    { name: '2-Day Itinerary', slug: 'phnom-penh-2-day-itinerary' },
+    { name: 'Food & Markets', slug: 'phnom-penh-food-and-markets' },
+    { name: 'To Siem Reap', slug: 'phnom-penh-to-siem-reap-transport' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-phnom-penh' },
+];
+
+const SIEM_REAP_SIDEBAR = [
+    { name: 'Angkor Tickets & Pass', slug: 'angkor-wat-tickets-and-pass-guide' },
+    { name: 'Angkor Sunrise', slug: 'angkor-wat-sunrise-guide' },
+    { name: 'Small vs Grand Circuit', slug: 'angkor-temples-small-vs-grand-circuit' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-siem-reap' },
+    { name: 'Tonle Sap Villages', slug: 'tonle-sap-floating-villages-guide' },
+    { name: '3-Day Itinerary', slug: 'siem-reap-3-day-itinerary' },
+    { name: 'Airport to Town', slug: 'siem-reap-airport-to-town' },
+    { name: 'Food Guide', slug: 'siem-reap-food-guide' },
 ];
 
 const KRABI_SIDEBAR = [
@@ -517,6 +560,8 @@ export default function CityInfoClient({ country, city, slug, data = null }: Pro
         'chiang-mai': CHIANG_MAI_SIDEBAR,
         pattaya: PATTAYA_SIDEBAR,
         krabi: KRABI_SIDEBAR,
+        'siem-reap': SIEM_REAP_SIDEBAR,
+        'phnom-penh': PHNOM_PENH_SIDEBAR,
         colombo: COLOMBO_SIDEBAR,
         kandy: KANDY_SIDEBAR,
         sigiriya: SIGIRIYA_SIDEBAR,

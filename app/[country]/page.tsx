@@ -47,6 +47,18 @@ const COUNTRY_META: Record<string, {
       { name: 'Nusa Penida', slug: 'nusa-penida', image: 'https://images.asiabylocals.com/asiabylocals/tours/kelingking-beach-broken-beach-and-sunset-dinner-in-nusa-penida/img2/1600.webp', tagline: 'Kelingking, Angel\'s Billabong and manta rays' },
     ],
   },
+  // Cambodia launch 2026-09-26. Angkor Wat is the anchor the way the Taj is in
+  // Agra: one monument with a paid multi-day pass, a sunrise everyone wants and
+  // a guide effectively required, which is the shape our Agra pages already
+  // rank for.
+  cambodia: {
+    title: 'Cambodia Tours & Experiences | Angkor Wat and Phnom Penh | AsiaByLocals',
+    description: 'Book Cambodia tours run by local operators. Angkor Wat at sunrise, the faces of the Bayon and the roots of Ta Prohm, the floating villages of the Tonle Sap, and the Royal Palace and memorials of Phnom Penh. Prices are the operator\'s own, taken per party size rather than per head.',
+    cities: [
+      { name: 'Siem Reap', slug: 'siem-reap', image: 'https://images.asiabylocals.com/asiabylocals/tours/angkor-wat-angkor-thom-and-ta-prohm-day-trip-with-sunset-siem-reap/img0/1600.webp', tagline: 'Angkor Wat, the Bayon and Ta Prohm' },
+      { name: 'Phnom Penh', slug: 'phnom-penh', image: 'https://images.asiabylocals.com/asiabylocals/tours/royal-palace-national-museum-and-wat-phnom-with-private-tour-in-phnom-penh/img0/1600.webp', tagline: 'Royal Palace, the Mekong and the memorials' },
+    ],
+  },
   india: {
     title: 'India Tours & Experiences | Local Guides Across India | AsiaByLocals',
     description: 'Discover the best tours across India with licensed local guides. Explore the Golden Triangle — Delhi, Agra & Jaipur — plus Mumbai, Goa, Varanasi & more. Authentic cultural experiences, heritage walks, food tours & private day trips.',

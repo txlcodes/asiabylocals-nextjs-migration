@@ -28,6 +28,8 @@ import { getNuwaraEliyaInfoContent } from './nuwaraEliyaInfoContent';
 import { getNegomboInfoContent } from './negomboInfoContent';
 import { getGalleInfoContent } from './galleInfoContent';
 import { getEllaInfoContent } from './ellaInfoContent';
+import { getSiemReapInfoContent } from './siemReapInfoContent';
+import { getPhnomPenhInfoContent } from './phnomPenhInfoContent';
 
 export interface CityInfoData {
     /** On-page H1. Can be long and descriptive. */
@@ -47,6 +49,10 @@ export interface CityInfoData {
 }
 
 export function getCityInfoContent(slug: string): CityInfoData | null {
+    const siemReapPage = getSiemReapInfoContent(slug);
+    if (siemReapPage) return siemReapPage;
+    const phnomPenhPage = getPhnomPenhInfoContent(slug);
+    if (phnomPenhPage) return phnomPenhPage;
     const tokyoPage = getTokyoInfoContent(slug);
     if (tokyoPage) return tokyoPage;
 

@@ -90,8 +90,11 @@ const nextConfig: NextConfig = {
           { source: `/india/${slug}/:path*`, destination: `/${m.country}/${slug}/:path*`, permanent: true },
         ]),
       // Country pages that never existed but were linked from an old homepage list.
-      { source: '/:c(cambodia|china|macau|hong-kong|taiwan|philippines|malaysia|myanmar|singapore|south-korea)', destination: '/explore', permanent: true },
-      { source: '/:c(cambodia|china|macau|hong-kong|taiwan|philippines|malaysia|myanmar|singapore|south-korea)/:path*', destination: '/explore', permanent: true },
+      // Cambodia came OFF this list when it launched in September 2026 with 487
+      // tours across Siem Reap and Phnom Penh - leaving it here 308s the whole
+      // country to /explore, including every tour, guide and itinerary page.
+      { source: '/:c(china|macau|hong-kong|taiwan|philippines|malaysia|myanmar|singapore|south-korea)', destination: '/explore', permanent: true },
+      { source: '/:c(china|macau|hong-kong|taiwan|philippines|malaysia|myanmar|singapore|south-korea)/:path*', destination: '/explore', permanent: true },
       // City hubs with no supply (GSC held 25 of them as noindex for months). Send them to
       // the live country page until they get tours; delete the line when a city launches.
       { source: '/india/:c(bangalore|leh-ladakh|mysore)', destination: '/india', permanent: true },

@@ -89,6 +89,15 @@ const CITY_META: Record<string, { title: string; description: string }> = {
     title: 'Kolkata Tours & Things to Do 2026 | Local Guided Experiences',
     description: 'Kolkata tours with verified local guides. Victoria Memorial visits, Howrah Bridge & Old Kolkata heritage walks, Kalighat Temple tours & street food experiences. Free cancellation.',
   },
+  // --- CAMBODIA ---
+  'Siem Reap': {
+    title: 'Siem Reap Tours & Things to Do 2026 | Angkor Wat Sunrise & Temples',
+    description: 'Siem Reap tours with local operators. Angkor Wat at sunrise, the Bayon and Ta Prohm, Banteay Srei, the Tonle Sap floating villages and Kulen waterfall. Priced per party, not per head.',
+  },
+  'Phnom Penh': {
+    title: 'Phnom Penh Tours & Things to Do 2026 | Royal Palace & Mekong',
+    description: 'Phnom Penh tours with local operators. The Royal Palace and Silver Pagoda, Tuol Sleng and Choeung Ek, Mekong sunset cruises, Central and Russian markets, and Oudong. Priced per party, not per head.',
+  },
   // --- SRI LANKA ---
   'Colombo': {
     title: 'Colombo Tours & Things to Do 2026 | Sri Lanka Guided Experiences',
@@ -202,6 +211,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     'dubai', 'abu-dhabi',
     'hanoi', 'ho-chi-minh-city', 'hoi-an', 'da-nang', 'ha-long', 'sapa',
     'ubud', 'canggu', 'uluwatu', 'nusa-penida',
+    'siem-reap', 'phnom-penh',
   ]);
   const noIndex = ALWAYS_INDEX_CITIES.has(city.toLowerCase())
     ? false
