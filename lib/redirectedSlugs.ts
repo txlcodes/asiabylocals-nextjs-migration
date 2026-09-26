@@ -63,6 +63,42 @@ export const SLUG_REDIRECTS: Record<string, string> = {
   // redirect into it now land on the city's guided tour instead.
   'jaipur-block-printing-workshop': 'jaipur-city-tour-with-official-guide',
 
+  // Taken off the site 2026-09-26: the source had nothing bookable on any date,
+  // so these pages were selling something nobody could actually supply. Each one
+  // points at the same product from an operator who is still running it, rather
+  // than leaving the traffic on a dead end.
+  'furano-and-biei-1-day-tour-with-melon-and-blue-pond': 'hokkaido-biei-furano-flower-sea-tour-blue-pond',
+  'private-walking-shore-excursion-kobe-kyoto-nara-osaka': 'private-walking-shore-excursion-kyoto-osaka-nara-kobe',
+  '3-day-wildlife-photography-experience-in-son-tra-in-da-nang': 'son-tra-wildlife-experience-in-da-nang',
+  'halong-bay-2-day-overnight-with-5-star-or-high-end-cruise-ha-long': '2-day-halong-and-bai-tu-long-bay-5-star-cruise',
+  'badminton-in-osaka-and-kyoto-with-locals-by-local-operator': 'pickleball-in-osaka-kobe-and-kyoto-with-locals-by-local-operator',
+  'private-snorkeling-trip-to-blue-lagoon-and-tanjung-jepun-in-ubud': 'blue-lagoon-and-tanjung-jepun-snorkeling-tour-in-ubud',
+  'ubud-kuber-atv-adventure-with-waterfall-long-tunnel-and-lunch-ubud': 'kuber-atv-quad-bike-with-long-tunnel-and-waterfall-in-ubud',
+  'carnival-magic-phuket-ticket-with-transfer': 'carnival-magic-entry-ticket-with-optional-transfer-in-phuket',
+  'koh-daeng-sunset-included-bioluminescent-plankton-in-krabi': 'daeng-island-sunset-and-bioluminescent-plankton-in-krabi',
+  'japanese-calligraphy-workshop-in-kyoto': 'japanese-calligraphy-workshop-with-a-calligrapher-in-kyoto',
+  'tenryu-ji-bamboo-grove-kinkaku-ji-and-fushimi-inari': 'fushimi-inari-kinkakuji-bamboo-grove-1-day-bus-tour',
+  '2-day-sapa-fansipan-peak-and-trek-and-ha-giang-bus': 'sapa-trek-villages-and-fansipan-peak-3-day-2-night',
+  'carnival-magic-show-royal-seat-with-dinner-in-phuket': 'carnival-magic-experience-with-dinner-and-show-in-phuket',
+  'mt-fuji-5th-station-group-bus-tour-with-english-guide': 'mount-fuji-private-tour-with-english-guide-3-2',
+  'sticky-waterfall-half-day-tour-in-chiang-mai': '225cc-atv-zipline-and-sticky-waterfall-day-trip-in-chiang-mai',
+  'phang-nga-bay-trip-to-hong-panak-james-bond-island': 'james-bond-phang-nga-bay-and-hong-island-tour-from-phuket-krabi',
+  'private-lantern-boat-ride-and-floating-lantern-release-in-hoi-an': 'hoi-an-city-tour-with-boat-ride-and-lantern-release',
+  'sea-of-mount-fuji-hakone-ropeway-wakudani-enoshima': 'mt-fuji-and-hakone-ropeway-small-group-day-tour-from-tokyo-mount-fuji',
+  'chiang-mai-sky-lantern-festival-experience-with-transfer-by-local-operator': 'chiang-mai-yi-peng-sky-lantern-festival-ticket-by-local-operator',
+  'nam-cang-2-day-1-night-tour-villages-and-terraced-rice-fields-in-sapa': 'villages-and-rice-fields-private-half-day-car-tour-in-sapa',
+  'kyoto-customized-guided-private-tour-by-local-operator': 'kyoto-customized-private-tour-in-1-day-with-licensed-guide-by-local-operator',
+  'rafting-atv-adventure-and-jungle-experience-in-phuket': 'rafting-atv-zipline-and-jungle-tour-in-phuket',
+  'red-temple-golden-triangle-boat-trip-with-lunch-in-chiang-mai': '3-temples-golden-triangle-boat-trip-in-chiang-mai',
+  'carnival-magic-ticket-with-dinner-and-transfer-in-phuket': 'carnival-magic-entry-ticket-with-optional-transfer-in-phuket',
+  'half-day-private-city-tour-by-car-in-ho-chi-minh-city': 'mui-ne-best-day-trip-in-ho-chi-minh-city',
+  'lantern-boat-trip-and-release-lantern-in-hoi-an': 'private-lantern-boat-with-lantern-release-in-hoi-an',
+  'cu-chi-tunnels-and-mekong-delta-river-tour-by-canoe': 'cu-chi-tunnels-and-mekong-delta-2-day-tour',
+  'doi-suthep-wat-umong-and-hmong-village-tour': 'doi-suthep-and-hmong-village-half-day-tour',
+  'the-mystical-land-show-in-ho-chi-minh-city-by-local-operator': 'ho-chi-minh-city-half-day-with-loa-loa-show-by-local-operator',
+  'noboribetsu-hell-valley-and-lake-toya-day-trip': 'toya-lake-and-noboribetsu-hell-valley-tour',
+  'nikko-autumn-kegon-falls-lake-chuzenji-and-toshogu': 'kegon-falls-lake-chuzenji-and-toshogu-temple-in-tokyo',
+
   // Bangkok — slug fixes
   'learn-hands-on-photography-skills': 'bangkok-photography-class-workshop',
   'bangkok-phography-photo-walk-with': 'bangkok-private-photography-tour',
