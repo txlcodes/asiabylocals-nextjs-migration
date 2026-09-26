@@ -264,6 +264,10 @@ const PHNOM_PENH_SIDEBAR = [
     { name: 'Koh Dach Silk Island', slug: 'koh-dach-silk-island' },
     { name: 'Kampot & Kep Day Trip', slug: 'kampot-and-kep-day-trip' },
     { name: 'Street Art & Architecture', slug: 'phnom-penh-street-art' },
+    { name: 'Where to Stay', slug: 'where-to-stay-in-phnom-penh' },
+    { name: 'To Battambang', slug: 'phnom-penh-to-battambang' },
+    { name: 'Oudong', slug: 'oudong-guide' },
+    { name: 'With Children', slug: 'phnom-penh-with-kids' },
 ];
 
 const SIEM_REAP_SIDEBAR = [
@@ -286,6 +290,8 @@ const SIEM_REAP_SIDEBAR = [
     { name: 'Beng Mealea & Koh Ker', slug: 'beng-mealea-and-koh-ker' },
     { name: 'Phnom Kulen', slug: 'phnom-kulen-guide' },
     { name: 'Photography Guide', slug: 'angkor-photography-guide' },
+    { name: 'Nightlife & Pub Street', slug: 'siem-reap-nightlife-and-pub-street' },
+    { name: 'To Battambang', slug: 'siem-reap-to-battambang' },
 ];
 
 const KRABI_SIDEBAR = [

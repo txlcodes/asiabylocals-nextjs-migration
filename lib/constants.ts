@@ -151,6 +151,14 @@ export const PHNOM_PENH_INFO_SLUGS = [
     'phnom-penh-food-and-markets',
     'phnom-penh-to-siem-reap-transport',
     'best-time-to-visit-phnom-penh',
+    'phnom-penh-1-day-itinerary',
+    'koh-dach-silk-island',
+    'kampot-and-kep-day-trip',
+    'phnom-penh-street-art',
+    'where-to-stay-in-phnom-penh',
+    'phnom-penh-to-battambang',
+    'oudong-guide',
+    'phnom-penh-with-kids',
 ];
 
 export const SIEM_REAP_INFO_SLUGS = [
@@ -162,6 +170,19 @@ export const SIEM_REAP_INFO_SLUGS = [
     'siem-reap-3-day-itinerary',
     'siem-reap-airport-to-town',
     'siem-reap-food-guide',
+    'angkor-wat-one-day-itinerary',
+    'banteay-srei-guide',
+    'ta-prohm-tomb-raider-temple',
+    'angkor-by-bike',
+    'where-to-stay-in-siem-reap',
+    'siem-reap-2-day-itinerary',
+    'siem-reap-with-kids',
+    'bayon-and-angkor-thom-guide',
+    'beng-mealea-and-koh-ker',
+    'phnom-kulen-guide',
+    'angkor-photography-guide',
+    'siem-reap-nightlife-and-pub-street',
+    'siem-reap-to-battambang',
 ];
 
 export const KRABI_INFO_SLUGS = [

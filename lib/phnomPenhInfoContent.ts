@@ -322,6 +322,374 @@ export function getPhnomPenhInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case 'phnom-penh-1-day-itinerary':
+            return {
+                title: 'One Day in Phnom Penh: The Order That Makes It Bearable',
+                seoTitle: 'One Day in Phnom Penh: Hour-by-Hour Plan',
+                description: 'A one-day Phnom Penh plan that puts the Khmer Rouge sites in the afternoon and the palace in the cool of the morning, with real timings and what to drop.',
+                heroImage: IMG.city,
+                fastFacts: [
+                    { icon: 'Clock', label: 'Museum closes', value: 'For lunch - go early' },
+                    { icon: 'AlertTriangle', label: 'Palace dress code', value: 'Shoulders and knees, enforced' },
+                    { icon: 'Clock', label: 'S-21 + Choeung Ek', value: 'About half a day' },
+                    { icon: 'MapPin', label: 'Airport', value: 'Techo, 20-24 km south' },
+                ],
+                sections: [
+                    {
+                        title: 'Morning: palace, museum, and the heat you are beating',
+                        icon: 'Clock',
+                        content: "One day in Phnom Penh works if you do the sights in the cool and the history in the afternoon. The reverse - which is how most combined tours sell it - finishes your day at a mass grave and then asks you to enjoy the riverfront.\n\n**08:00 Royal Palace.** Royal residence since 1866 and still lived in, so the apartments are shut and the Throne Hall is seen from outside. The **Silver Pagoda** in the same compound is floored with five thousand solid silver tiles, mostly under carpet now with a corner left exposed, and holds a Maitreya Buddha of **90 kilograms of gold set with more than 2,000 diamonds**. Shoulders and knees covered, enforced at the gate, for men too. Shoes off at the pagoda.\n\n**10:00 National Museum**, a hundred metres away. The best Khmer sculpture collection in the world, in a terracotta pavilion built in 1920 around an open courtyard. **It closes for lunch**, which is the single scheduling constraint of the day. If you have come from Siem Reap it lands hard: these are the same figures you saw weathered and headless on the temple walls, here intact and at eye level.\n\n**11:30 Wat Phnom** if you have energy, a short ride north. The hill the city is named after - *phnom* - where Lady Penh is said to have found four Buddha statues in a floating koki tree around 1372. It is a working temple and the only real shade in the centre.",
+                        tourCard: CARD.palace,
+                    },
+                    {
+                        title: 'Afternoon: Tuol Sleng and Choeung Ek',
+                        icon: 'Info',
+                        content: "Give the afternoon to these two and put nothing after them.\n\n**Tuol Sleng** was an ordinary secondary school until the Khmer Rouge turned it into **Security Prison 21** in 1975. The classrooms still have the blackboards, the tiled floors and the iron bed frames, and room after room is filled with the photographs the regime took of every prisoner on arrival. Between **12,000 and 20,000** people were held there. Around a dozen survived.\n\n**Choeung Ek** is fifteen kilometres out, where most of them were taken to be killed. The memorial stupa holds some **5,000 skulls**, arranged and labelled. **Take the audio guide** - it is narrated in part by a survivor, it paces you around the site, and it is the difference between walking a field and understanding it.\n\nAllow about an hour and a half at each plus the drive: half a day for the pair. Photography is prohibited inside some cell blocks and at the stupa, and the signs are clear. Neither site suits young children.\n\nOur [full guide to both](/cambodia/phnom-penh/tuol-sleng-and-choeung-ek-guide) covers hours, what to read first, and what the tribunal did.",
+                        tourCard: CARD.s21,
+                    },
+                    {
+                        title: 'Evening: the river, and nothing demanding',
+                        icon: 'Star',
+                        content: "Plan this before you go, because you will not want to make decisions afterwards.\n\n**Sisowath Quay** at dusk is the right weight. Phnom Penh sits where the **Mekong, the Tonle Sap and the Bassac** meet, and the promenade is where the city walks after work - families, food carts, aerobics classes in the park. The fact that this is a loud, ordinary, functioning capital is genuinely part of what you came to understand.\n\n**An hour on the water** costs very little and is the best way to see the confluence. Sunset cruises leave from the quay all evening.\n\n**Eat simply.** Kuy teav, the pork-bone noodle soup the city runs on, or lok lak with a lime and Kampot pepper sauce. The [food and markets guide](/cambodia/phnom-penh/phnom-penh-food-and-markets) has where.\n\nWhat does not work is a rooftop bar at seven. It is not disrespect exactly - it just does not fit.",
+                        tourCard: CARD.cruise,
+                    },
+                    {
+                        title: 'What one day cannot do',
+                        icon: 'AlertTriangle',
+                        content: "**The markets.** Psar Thmei's art deco dome opened in 1937 and Psar Toul Tom Poung, the Russian Market, is the one for silver and silk - but market food is a morning thing, finished by nine or ten, and your morning is spoken for.\n\n**Koh Dach, the silk island.** A short ferry upstream where weavers still work handlooms under their houses and sell at the loom. It is a half-day and it is the best thing in Phnom Penh that one day cannot reach.\n\n**Oudong**, the royal capital for more than 250 years until 1866, 40 kilometres north-west with hilltop stupas holding the ashes of kings. A full day.\n\n**Kampot and Kep.** Three to four hours each way. Not in one day in Phnom Penh, though they are a day trip in their own right.\n\n**The honest recommendation is two nights.** Our [two-day itinerary](/cambodia/phnom-penh/phnom-penh-2-day-itinerary) gives the Khmer Rouge sites their own afternoon and the city its own morning without either being rushed.\n\n**And leave for the airport early.** Phnom Penh moved to **Techo International on 9 September 2025**, about 20 to 24 kilometres south - a 40 to 50 minute run, more in the evening peak, and roughly double the old airport.",
+                        tourCard: CARD.silk,
+                    },
+                ],
+                faqs: [
+                    { q: 'Can you see Phnom Penh in one day?', a: 'Yes, if you take the Royal Palace and National Museum in the cool of the morning and give the afternoon to Tuol Sleng and Choeung Ek. You will miss the markets, Koh Dach silk island and Oudong. Two nights is the honest recommendation.' },
+                    { q: 'What order should I see Phnom Penh in?', a: 'Palace and museum first - the museum closes for lunch and the palace is unshaded. Khmer Rouge sites in the afternoon with nothing scheduled after them. River at dusk. Doing it the other way round finishes your day at a mass grave.' },
+                    { q: 'How long do Tuol Sleng and Choeung Ek take?', a: 'About an hour and a half each plus the fifteen kilometres between, so roughly half a day. Take the Choeung Ek audio guide - it is narrated in part by a survivor and it is what makes the site legible.' },
+                    { q: 'What is the dress code for the Royal Palace?', a: 'Shoulders and knees covered, for everyone including men, and it is enforced at the gate rather than suggested. Shoes come off at the Silver Pagoda. Light long trousers are the answer and you want them in the sun anyway.' },
+                    { q: 'How far is Phnom Penh airport from the city?', a: 'Techo International opened on 9 September 2025 about 20 to 24 km south of the centre - a 40 to 50 minute drive and longer in the evening peak, roughly double the airport it replaced.' },
+                    { q: 'Is one day enough for Phnom Penh?', a: 'It covers the two things people come for. Two days adds the markets, Koh Dach silk island or Oudong, and lets the Khmer Rouge afternoon sit on its own without the palace crammed around it.' },
+                ],
+            };
+
+        case 'koh-dach-silk-island':
+            return {
+                title: 'Koh Dach: The Silk Island, and Why You Buy at the Loom',
+                seoTitle: 'Koh Dach Silk Island Guide from Phnom Penh',
+                description: 'Koh Dach is a short ferry upstream from Phnom Penh where weavers still work handlooms under their houses. How to get there, what silk costs, and what to look for.',
+                heroImage: IMG.silk,
+                fastFacts: [
+                    { icon: 'MapPin', label: 'Getting there', value: 'Ferry ~30 min north of centre' },
+                    { icon: 'Clock', label: 'Time needed', value: 'Half day by tuk-tuk' },
+                    { icon: 'Star', label: 'What to buy', value: 'Hol ikat, at the loom' },
+                    { icon: 'AlertTriangle', label: 'Watch for', value: 'Machine-made "silk"' },
+                ],
+                sections: [
+                    {
+                        title: 'A working island, twenty minutes from the capital',
+                        icon: 'Star',
+                        content: "Koh Dach - **Silk Island** - is a long sandbank in the Mekong a short ferry ride upstream from Phnom Penh, and the striking thing about it is how ordinary it is. There is no entrance, no ticket and no show. It is a flat, green, almost traffic-free island of villages where a large number of households still keep a handloom under the stilts of the house, and weave.\n\nYou hear it before you see it: the wooden clack of a loom beater from under a house as you cycle past. Walk up and someone will wave you in. There is no obligation to buy and usually no English, and it is one of the least packaged things you can do in Cambodia.\n\nThe island also grows things - the sandy soil takes vegetables and mulberry - and in the dry season sandbanks appear along the edge that Phnom Penh families come out to picnic on at weekends. Go on a weekday for weaving, a Sunday if you want to see the city at leisure.\n\n**Getting there** is a short ride north of the centre to the ferry, then a few minutes across the water. Tuk-tuk tours do the round trip as a half-day; by bicycle it becomes a full day and a very good one, because the island is flat and the lanes are shaded.",
+                        tourCard: CARD.silk,
+                    },
+                    {
+                        title: 'What Cambodian silk actually is',
+                        icon: 'Info',
+                        content: "Knowing three words turns a souvenir stop into something worth the trip.\n\n**Hol** is Cambodian **ikat**: the weft threads are tied off and dyed *before* weaving, so the pattern exists in the thread rather than being printed on the cloth. When it is woven the edges of the motif come out slightly feathered, and that softness is the tell. Cambodian hol uses an uneven twill that gives the surface a particular sheen. It is slow - a complex piece is weeks of work.\n\n**Pidan** is the pictorial version, silk ikat woven with figurative scenes, historically hung in pagodas. The most technically demanding thing on the island.\n\n**Golden silk** is the thread of the indigenous Cambodian yellow silkworm. Most Cambodian weaving today uses imported white thread from Vietnam and China because the domestic supply collapsed, so genuine golden silk is rarer, warmer in colour and costs more. It is worth asking about specifically.\n\n**How to tell silk from polyester**: real silk is warm to the touch rather than cool, it creases and the crease softens, and it has an uneven sheen rather than a flat shine. The classic burn test - real silk smells of burnt hair and crumbles to ash, polyester melts to a hard bead - is one a weaver will happily do for you on a loose thread.",
+                    },
+                    {
+                        title: 'Buying well',
+                        icon: 'Wallet',
+                        content: "**Buy at the loom.** The same scarf is a fraction of the Russian Market price and the person taking the money is the person who made it. You can usually see the piece on the loom half-finished, which is the best provenance there is.\n\n**Prices** are modest by any Western standard - a simple scarf is a few dollars, a good hol piece considerably more, and a pidan hanging is a serious purchase that reflects weeks of work. Pay the asking price for handwoven work; haggling hard over a fortnight of labour to save two dollars is not a good look.\n\n**What is not local.** Plenty of what is sold on the island and across Phnom Penh is machine-made and imported. That is not a scam if it is priced as what it is, but do not pay handwoven prices for it. If a stall has fifty identical scarves, they were not woven under that house.\n\n**Beyond scarves**: krama, the checked cotton scarf every Cambodian owns and uses as a towel, a sling, a hat and a bag, is the most useful thing you will buy in this country and costs almost nothing.\n\nIf you would rather buy in the city, **Psar Toul Tom Poung**, the Russian Market, is the place - see the [food and markets guide](/cambodia/phnom-penh/phnom-penh-food-and-markets) - but you will pay more and learn less.",
+                        tourCard: CARD.market,
+                    },
+                    {
+                        title: 'Making a day of it',
+                        icon: 'MapPin',
+                        content: "**By bicycle** is the best version. The island is flat, the lanes are shaded and there is almost no traffic, which is a genuine relief after Phnom Penh. Several operators run bike or e-bike day trips that include the ferry.\n\n**By tuk-tuk** is the half-day version and the right one if it is hot or you are short of time.\n\n**Combine it with the city.** A common and good shape is Koh Dach in the morning and the [Royal Palace and National Museum](/cambodia/phnom-penh/royal-palace-phnom-penh) in the afternoon, or the reverse.\n\n**Or with Oudong**, 40 kilometres north-west - the royal capital for more than 250 years until 1866, with hilltop stupas holding the ashes of kings. Both are north of the city and pair into a full day.\n\n**Bring**: small dollar notes, because nobody on the island is taking a card; water; and a hat, because the lanes are shaded but the ferry and the riverbank are not.\n\n**Manners.** You are walking into people's houses. Ask before photographing a weaver, and if you spend twenty minutes watching someone work, buy something.",
+                        tourCard: CARD.oudong,
+                    },
+                ],
+                faqs: [
+                    { q: 'Is Koh Dach silk island worth visiting?', a: 'Yes, and it is the least packaged thing you can do near Phnom Penh. Households still keep handlooms under their stilt houses, there is no entrance or ticket, and the island is flat, green and almost traffic-free.' },
+                    { q: 'How do you get to Koh Dach from Phnom Penh?', a: 'A short ride north of the centre to the ferry, then a few minutes across the Mekong. Tuk-tuk tours do it as a half-day; by bicycle it becomes a full day and a better one, because the island is flat with shaded lanes.' },
+                    { q: 'What is hol silk?', a: 'Cambodian ikat - the weft threads are tied and dyed before weaving, so the pattern lives in the thread. The motif edges come out slightly feathered and the uneven twill gives it a particular sheen. A complex piece is weeks of work.' },
+                    { q: 'How can you tell real silk from fake?', a: 'Real silk feels warm rather than cool, creases and softens, and has an uneven sheen rather than a flat shine. A weaver will usually burn a loose thread for you: silk smells of burnt hair and crumbles, polyester melts into a hard bead.' },
+                    { q: 'Is silk cheaper on Koh Dach than in Phnom Penh?', a: 'Considerably, and the person taking the money is the person who made it. You can often see the piece half-finished on the loom, which is the best provenance available. Do not haggle hard over handwoven work.' },
+                    { q: 'What is golden silk?', a: 'Thread from the indigenous Cambodian yellow silkworm. Most weaving here now uses imported white thread because the domestic supply collapsed, so genuine golden silk is rarer, warmer in colour and costs more. Ask for it by name.' },
+                ],
+            };
+
+        case 'kampot-and-kep-day-trip':
+            return {
+                title: 'Kampot and Kep from Phnom Penh: Pepper, Crab and a Ruined Riviera',
+                seoTitle: 'Kampot & Kep Day Trip from Phnom Penh',
+                description: 'Kampot pepper farms, Bokor hill station and the Kep crab market as a day trip from Phnom Penh - the real drive times and why a night there is better.',
+                heroImage: IMG.kampot,
+                fastFacts: [
+                    { icon: 'MapPin', label: 'Phnom Penh to Kampot', value: '~150 km, 3-4 hours' },
+                    { icon: 'MapPin', label: 'Kampot to Kep', value: 'About 30 minutes' },
+                    { icon: 'Star', label: 'The thing to eat', value: 'Crab with green Kampot pepper' },
+                    { icon: 'AlertTriangle', label: 'Honest verdict', value: 'Better as an overnight' },
+                ],
+                sections: [
+                    {
+                        title: 'What is down there',
+                        icon: 'Star',
+                        content: "South of Phnom Penh the country changes completely. No temples, no Khmer Rouge sites - pepper, sea, and the wreckage of two French projects.\n\n**Kampot** is a low river town of French shophouses under Bokor mountain. The pepper grown on smallholdings around it carries a **protected geographical indication, the first Cambodia registered**, and you have been eating it all trip without being told - it is what makes the lok lak dipping sauce work. The farms are visitable and the difference between green peppercorns picked that morning, still on the stem and cooked whole, and the grey dust in a shaker is not marketing.\n\n**Kep**, half an hour on, is stranger. It was built as an elite seaside town, first under the French and then by the Cambodian upper class, and the modernist villas were gutted in the war years. They are still standing - roofless, trees through them, scattered through scrub nobody has decided what to do with. Its **crab market** sells blue swimmer crab taken from baskets sitting in the shallows and cooked with green Kampot pepper while you wait. It is the best meal in the country and it is not close.\n\n**Bokor Hill Station** above Kampot is a French retreat abandoned in the 1940s, reoccupied, and abandoned again in the 1970s, with a casino shell that sits in cloud most mornings. The road up is good now and there is new development on the plateau, so temper the ruin-porn expectations.",
+                        tourCard: CARD.kampot,
+                    },
+                    {
+                        title: 'The honest arithmetic of doing it in a day',
+                        icon: 'AlertTriangle',
+                        content: "Phnom Penh to Kampot is about **150 kilometres and three to four hours**, most of it getting clear of the capital. Kep is another thirty minutes. Back is the same.\n\nThat is **seven to eight hours in a vehicle** for what will be four or five hours on the ground. A day trip leaves at six and gets back after dark.\n\n**Can it be done? Yes**, and it is sold that way. What fits: a pepper farm, lunch at the Kep crab market, a walk among the villas, and back. What does not fit: Bokor, the Kampot river at sunset, the caves, or anything unhurried.\n\n**Is it worth it?** If your dates are fixed and this is the only way to see the south, yes - the crab and the pepper farms are genuinely worth a long drive. If you can spare one night in Kampot, do that instead and the whole thing stops being an endurance event. People who book two nights in Kampot routinely stay four.\n\n**The train** is the other option and an underrated one: Cambodia's rehabilitated railway runs Phnom Penh to Kampot and Sihanoukville a few days a week. It is slow, it is cheap, and it is a much more pleasant way to cover that ground than the road. Check current days before planning around it.",
+                    },
+                    {
+                        title: 'Doing the pepper properly',
+                        icon: 'Info',
+                        content: "The pepper farms are the part most day trips rush and they are the most interesting stop.\n\n**Kampot pepper is a protected geographical indication** - Cambodia's first, and it also carries EU protected status. That means a defined growing area, defined varieties and defined methods, and it is why the name is worth something.\n\n**The four colours are one plant at different stages.** **Green** is the unripe berry, picked and used fresh - this is what goes in the Kep crab and it cannot be exported easily, so tasting it there is the point of going. **Black** is green, dried. **Red** is the ripened berry, sweeter and more aromatic, picked when it turns. **White** is the red berry soaked and the skin removed, leaving the pale core - sharper, cleaner.\n\n**Red and white cost more than black** and are the two worth carrying home. Buy at the farm, not in a Phnom Penh market.\n\n**The plants** climb poles to three or four metres and are shaded; the farms are quiet, green and completely unlike a field crop. Most welcome visitors and several have a tasting.\n\n**Salt fields** line the road between Kampot and Kep - shallow evaporation pans worked by hand, best seen in the dry months.",
+                        tourCard: CARD.kampot,
+                    },
+                    {
+                        title: 'If you can stay the night',
+                        icon: 'Calendar',
+                        content: "One night turns this from a drive into a destination.\n\n**Kampot in the evening** is the argument. The river runs wide and slow under Bokor, the sunsets over the water are the best in the country, and an hour in a small boat through the mangrove channels is the most restful thing in Cambodia.\n\n**Bokor** needs a morning. The plateau is often in cloud before ten, which is exactly when the abandoned casino is worth seeing.\n\n**The caves** - Phnom Chhnork and Phnom Sorsia, between Kampot and Kep - hold pre-Angkorian brick shrines inside limestone caves, seventh century, with a local child guiding you through by torchlight for a dollar. Completely off the standard circuit.\n\n**Rabbit Island** (Koh Tonsay), a short boat from Kep, is a simple beach with basic bungalows. Not a luxury island; a quiet one.\n\n**Onward** rather than back: Kampot and Kep sit on the way to **Sihanoukville** and the ferry to **Koh Rong**, which is 35 to 50 minutes by fast boat. That is the shape of our [ten-day Cambodia itinerary](/cambodia/itineraries/10-days), and it is a much better trip than driving back to Phnom Penh the same night.",
+                    },
+                ],
+                faqs: [
+                    { q: 'Can you do Kampot and Kep as a day trip from Phnom Penh?', a: 'Yes, and it is sold that way, but it is three to four hours each way for four or five hours on the ground. You get a pepper farm, crab at the Kep market and the villas. You do not get Bokor, the river at sunset or the caves.' },
+                    { q: 'How far is Kampot from Phnom Penh?', a: 'About 150 km and three to four hours, most of it getting clear of the capital. Kep is another thirty minutes beyond. The rehabilitated railway also runs the route a few days a week and is slower but far more pleasant than the road.' },
+                    { q: 'What is special about Kampot pepper?', a: 'It carries a protected geographical indication - Cambodia’s first - with a defined growing area, varieties and methods. Green peppercorns picked that morning and cooked whole are a different ingredient from ground pepper, and they are what makes the Kep crab work.' },
+                    { q: 'What is the difference between green, black, red and white Kampot pepper?', a: 'One plant at four stages. Green is the unripe berry used fresh, black is green dried, red is the ripened berry and sweeter, white is the red berry with the skin removed and is sharper. Red and white cost more and are the two worth taking home.' },
+                    { q: 'Is Kep beach worth going for?', a: 'No. The beach is modest and grey and nobody should travel for it. Go for the crab market, the ruined modernist villas and the pepper farms. If you want sand, the islands are the answer.' },
+                    { q: 'Should I stay overnight in Kampot instead?', a: 'If you can, yes. One night gets you Bokor in the morning, the river at sunset, the pre-Angkorian cave shrines and a boat through the mangroves. People who book two nights in Kampot routinely stay four.' },
+                ],
+            };
+
+        case 'phnom-penh-street-art':
+            return {
+                title: 'Phnom Penh Street Art: A City That Started Painting in 2015',
+                seoTitle: 'Phnom Penh Street Art: Where to Find the Murals',
+                description: 'Phnom Penh has a real street-art scene, largely Cambodian and much of it about the city’s own recent history. Where the work is and how to see it.',
+                heroImage: IMG.market,
+                fastFacts: [
+                    { icon: 'Calendar', label: 'Scene took off', value: 'Around 2015' },
+                    { icon: 'MapPin', label: 'Densest area', value: 'Lanes off the riverfront' },
+                    { icon: 'Clock', label: 'Best time', value: 'Late afternoon' },
+                    { icon: 'Star', label: 'Pairs with', value: 'A tuk-tuk food run' },
+                ],
+                sections: [
+                    {
+                        title: 'Why a city with this history started painting walls',
+                        icon: 'Star',
+                        content: "Phnom Penh is not an obvious street-art city, which is exactly why the scene here is worth an afternoon.\n\nCambodia lost most of a generation of artists between 1975 and 1979. The Khmer Rouge targeted the educated and the creative specifically, and the classical arts - **Apsara dance, shadow puppetry, silk weaving** - were rebuilt after 1979 from the handful of practitioners who survived. That rebuilding is the dominant story of Cambodian culture for forty years, and it is a story about recovering the past.\n\nStreet art is the first significant Cambodian art form that is not about recovery. It arrived properly around **2015**, it is largely made by Cambodians in their twenties and thirties, and a lot of it is not about the Khmer Rouge at all - it is about the city now, about development, about the river, about ordinary people.\n\nSome of it is about the history, and when it is, it is oblique rather than literal in a way the memorials cannot be.\n\nYou will find work on shophouse gables, on the blind walls of new construction, in the lanes behind the riverfront, and on the shutters of businesses that only show it when they are closed - which is one reason to walk this in the evening.",
+                        tourCard: CARD.market,
+                    },
+                    {
+                        title: 'Where the work is',
+                        icon: 'MapPin',
+                        content: "The scene is concentrated rather than scattered, which makes it walkable.\n\n**The lanes off Sisowath Quay.** Step one street back from the riverfront promenade and the side alleys between the quay and Street 19 carry a lot of work. This is the densest area and the easiest to do on foot.\n\n**Around the old White Building site.** The White Building was a 1963 low-cost housing block by the New Khmer Architecture movement, home to hundreds of artists and musicians, and one of the most photographed buildings in the city. It was demolished in 2017. The area around where it stood remains a centre of gravity for the scene, and some of the work there is directly about its loss.\n\n**Street 93 and 95 and the lanes around Boeung Keng Kang**, where several galleries and studios sit among the murals.\n\n**Toul Tom Poung**, around the Russian Market, where shop shutters carry a lot of smaller work.\n\n**New construction hoardings** anywhere in the centre. Phnom Penh is building fast and the hoardings get painted, which means the scene turns over - a wall you photograph this year may be gone next.\n\nA guided tuk-tuk run is genuinely worth it here, more than for most things. The work moves, the good pieces are in lanes you would not turn down, and the guides know which artist did what.",
+                    },
+                    {
+                        title: 'The architecture underneath it',
+                        icon: 'Info',
+                        content: "Half the pleasure of walking for murals is what you walk past, and Phnom Penh has two architectural layers most visitors never notice.\n\n**French colonial shophouses**, roughly 1900 to 1940, with shuttered upper floors and arcaded walkways, line whole blocks of the old centre. Many are derelict, some are beautifully restored, and they are the canvas a lot of the street art is painted on.\n\n**New Khmer Architecture** is the one worth learning to spot. Between independence in 1953 and 1970, under Sihanouk, Cambodian architects - above all **Vann Molyvann** - built a modernism that was genuinely its own: raised floors for airflow, deep overhangs and brise-soleil for the sun, ponds for cooling, and forms drawn from Angkorian geometry. It is one of the most interesting bodies of mid-century architecture anywhere and it is disappearing to development.\n\nWhat survives in the centre: the **Independence Monument** (1958), a lotus-shaped tower by Vann Molyvann that is best seen lit at night; the **Chaktomuk Conference Hall** on the riverfront, fan-shaped and facing the confluence; and the **National Sports Complex**, still extraordinary.\n\nThe **Central Market**'s art deco dome, 1937, is a different era again and was briefly one of the largest domed structures in Asia.",
+                        tourCard: CARD.cruise,
+                    },
+                    {
+                        title: 'Making an afternoon of it',
+                        icon: 'Clock',
+                        content: "**Go from about four.** The light is better, the heat has broken, and the shutters with work on them start coming down as businesses close.\n\n**Pair it with food.** This is the standard and correct combination, and most tuk-tuk tours here do both: murals while the light is good, eating as it goes, then the river. Phnom Penh's street food is a morning and evening thing - see the [food and markets guide](/cambodia/phnom-penh/phnom-penh-food-and-markets) - so an afternoon that ends in eating works with the city's own rhythm.\n\n**Finish on the water.** An hour on the Mekong at sunset costs very little and is the best way to understand why a capital is here at all, where three rivers meet.\n\n**By tuk-tuk** rather than on foot if you want range - the city is flat but spread out, and four hours by tuk-tuk covers what a day on foot would not.\n\n**Photography.** Ask before photographing people, and be aware that some walls are on private property where the owner commissioned the work. Nobody minds a photograph of a wall.\n\n**Buying.** Several of the artists sell through galleries around Street 240 and Boeung Keng Kang, and there are Cambodian-run print shops where the money goes to the artist rather than a middleman. Worth asking a guide.",
+                    },
+                ],
+                faqs: [
+                    { q: 'Does Phnom Penh have street art?', a: 'Yes, and a real one. It took off around 2015, it is largely made by Cambodians in their twenties and thirties, and much of it is about the city now rather than about the Khmer Rouge - which makes it the first significant Cambodian art form not primarily about recovering the past.' },
+                    { q: 'Where is the street art in Phnom Penh?', a: 'Densest in the lanes one street back from Sisowath Quay, around the former White Building site, on Streets 93 and 95 near Boeung Keng Kang, and on shop shutters around the Russian Market. Construction hoardings across the centre get painted too, so the scene turns over.' },
+                    { q: 'What was the White Building?', a: 'A 1963 low-cost housing block by the New Khmer Architecture movement, home to hundreds of artists and musicians and one of the most photographed buildings in Phnom Penh. It was demolished in 2017, and some of the street art around the site is directly about its loss.' },
+                    { q: 'What is New Khmer Architecture?', a: 'The modernism built between independence in 1953 and 1970, above all by Vann Molyvann - raised floors, deep overhangs, ponds for cooling, and forms drawn from Angkorian geometry. The Independence Monument, Chaktomuk Conference Hall and National Sports Complex survive in the centre.' },
+                    { q: 'When is the best time to see Phnom Penh street art?', a: 'From about four in the afternoon. The light is better, the heat has broken, and shop shutters with work painted on them come down as businesses close. It pairs naturally with a food run and an hour on the Mekong at sunset.' },
+                    { q: 'Is a guided street art tour worth it in Phnom Penh?', a: 'More than for most things here. The work moves as buildings come and go, the best pieces are in lanes you would not turn down on your own, and guides know which artist did what and where to buy prints so the money reaches them.' },
+                ],
+            };
+        case 'where-to-stay-in-phnom-penh':
+            return {
+                title: 'Where to Stay in Phnom Penh: Four Areas and What Each Trades',
+                seoTitle: 'Where to Stay in Phnom Penh: Areas Compared',
+                description: 'Riverside, BKK1, Daun Penh and Toul Tom Poung compared - noise, walkability, safety after dark and what a good room actually costs.',
+                heroImage: IMG.city,
+                fastFacts: [
+                    { icon: 'Star', label: 'Best all-round', value: 'BKK1' },
+                    { icon: 'MapPin', label: 'Most walkable to sights', value: 'Daun Penh / Riverside' },
+                    { icon: 'Wallet', label: 'Good pool hotel', value: 'USD 40 - 80' },
+                    { icon: 'AlertTriangle', label: 'Main risk', value: 'Bag-snatching from motorbikes' },
+                ],
+                sections: [
+                    {
+                        title: 'The four areas',
+                        icon: 'MapPin',
+                        content: "Phnom Penh is bigger and less walkable than Siem Reap, and where you sleep genuinely changes the trip.\n\n**Riverside / Sisowath Quay.** The promenade along the confluence, and where the city walks in the evening. You can walk to the **Royal Palace**, the **National Museum** and the Central Market. It is also the most touristed strip, with the hawking and the hostess bars at the northern end that come with that. Good for two nights and for people who want to step out of the door into the city.\n\n**Daun Penh**, the colonial grid just back from the river. Quieter than the quay, still walkable to everything, and full of French shophouses. Where the heritage properties are. The best compromise if walking to the sights matters to you.\n\n**BKK1 (Boeung Keng Kang)**, a kilometre or so south. The expat district: leafy streets, the best concentration of good restaurants and cafes, most of the mid-range and boutique hotels with pools, and genuinely quiet at night. You will tuk-tuk to the sights, which costs a couple of dollars. **This is the best all-round answer** for three nights or more.\n\n**Toul Tom Poung**, around the Russian Market, further south. Cheaper, more residential, a growing cluster of small guesthouses and cafes, and the market on your doorstep for the [morning food](/cambodia/phnom-penh/phnom-penh-food-and-markets). Least convenient for the palace.",
+                        tourCard: CARD.city,
+                    },
+                    {
+                        title: 'What it costs',
+                        icon: 'Wallet',
+                        content: "Phnom Penh is cheaper than Siem Reap for equivalent quality and much less seasonal, because it is a working capital rather than a tourism town. The December-January peak lifts rates but nothing like the temple economy up north.\n\n**Hostel dorm** USD 6-12. **Guesthouse double** USD 15-30.\n\n**Good mid-range hotel with a pool** USD 40-80, and this is where the value is.\n\n**Boutique and riverside heritage** USD 100-200.\n\n**The handful of serious luxury properties** USD 250 and up.\n\n**A pool matters** here as much as in Siem Reap. Phnom Penh is hot, almost everything you do is outdoors and unshaded, and the workable shape of a day is out early, indoors from twelve to three, out again at four.\n\n**Rooftops.** A lot of BKK1 and riverside hotels have one, and in a flat city at the meeting of three rivers that is worth more than it sounds.\n\n**Cash.** Small guesthouses want US dollars and many add a card fee. Clean, untorn notes - damaged bills get refused, and riel comes back as change under a dollar.",
+                    },
+                    {
+                        title: 'Getting around, and the airport',
+                        icon: 'Clock',
+                        content: "**Tuk-tuks** cost a couple of dollars across the centre. **PassApp** and **Grab** both work and remove the negotiation, which is worth it at night.\n\n**Walking** is fine in Daun Penh and along the river and less pleasant elsewhere - pavements are parked on and crossings are a matter of walking steadily and letting traffic flow around you, which works and feels wrong for the first two days.\n\n**The airport moved.** Phnom Penh switched to **Techo International on 9 September 2025**, about **20 to 24 kilometres south** of the centre. Allow 40 to 50 minutes and more in the evening peak - roughly double the airport it replaced, and any hotel listing quoting 20 minutes predates the change. Ask whether a transfer is included.\n\n**Bus and boat stations** are mostly north and west of the centre. If you are taking the road to [Siem Reap](/cambodia/phnom-penh/phnom-penh-to-siem-reap-transport) or the train south to Kampot, staying central saves a fiddly early-morning ride.\n\n**Safety.** Ordinary city caution, with one specific local pattern: **bag-snatching from passing motorbikes**. Keep bags on the inside shoulder away from the road, do not walk with a phone out at the kerb, and be particularly aware on the riverfront at night. Violent crime against visitors is rare; this is the thing that actually happens.",
+                        tourCard: CARD.cruise,
+                    },
+                    {
+                        title: 'How many nights',
+                        icon: 'Calendar',
+                        content: "**One night** is a stopover between Siem Reap and somewhere else. You get either the Khmer Rouge sites or the palace, not both properly - our [one-day plan](/cambodia/phnom-penh/phnom-penh-1-day-itinerary) squeezes both and is honest about what it drops.\n\n**Two nights** is the right answer for most trips and what the [two-day itinerary](/cambodia/phnom-penh/phnom-penh-2-day-itinerary) is built for: Tuol Sleng and Choeung Ek their own afternoon, the palace and museum their own morning, an evening on the river.\n\n**Three nights** adds [Koh Dach silk island](/cambodia/phnom-penh/koh-dach-silk-island) or Oudong, and lets the city be a city rather than a list.\n\n**Four or more** reaches [Kampot and Kep](/cambodia/phnom-penh/kampot-and-kep-day-trip) as a day trip, though staying a night down there is much better.\n\nOne scheduling note: **do Siem Reap first** if you can. You have the most energy for Angkor on the days you have just arrived, the Khmer Rouge sites land differently once you have seen what Cambodia built, and it puts your last day near the nearer airport. Fly open-jaw in to Siem Reap and out of Phnom Penh - regional carriers price the legs separately, so it usually costs the same as a return.",
+                    },
+                ],
+                faqs: [
+                    { q: 'What is the best area to stay in Phnom Penh?', a: 'BKK1 for three nights or more - leafy, quiet at night, the best restaurants and most of the mid-range pool hotels, with a couple of dollars of tuk-tuk to the sights. Daun Penh or Riverside if walking to the palace and museum matters more.' },
+                    { q: 'Is Riverside a good place to stay in Phnom Penh?', a: 'Good for two nights and for stepping straight into the city - you can walk to the Royal Palace, National Museum and Central Market. It is also the most touristed strip, with hawking and hostess bars at the northern end.' },
+                    { q: 'How much is a hotel in Phnom Penh?', a: 'Guesthouse doubles USD 15-30, a good mid-range hotel with a pool USD 40-80, boutique USD 100-200. It is cheaper than Siem Reap for equivalent quality and much less seasonal, because it is a working capital.' },
+                    { q: 'How far is Techo airport from central Phnom Penh?', a: 'About 20 to 24 km south, so 40 to 50 minutes and longer in the evening peak. The airport moved on 9 September 2025 and any listing quoting 20 minutes predates that.' },
+                    { q: 'Is Phnom Penh safe at night?', a: 'Broadly yes with ordinary city caution. The specific local pattern is bag-snatching from passing motorbikes - keep bags on the inside shoulder, do not walk with a phone out at the kerb, and use Grab or PassApp rather than walking far after dark.' },
+                    { q: 'How many nights do you need in Phnom Penh?', a: 'Two is right for most trips: the Khmer Rouge sites get their own afternoon and the palace and museum their own morning. Three adds Koh Dach silk island or Oudong. One night means choosing between the two halves.' },
+                ],
+            };
+
+        case 'phnom-penh-to-battambang':
+            return {
+                title: 'Phnom Penh to Battambang: The Detour Most People Skip',
+                seoTitle: 'Phnom Penh to Battambang: Bus, Train & Times',
+                description: 'Five hours on National Road 5 to Cambodia’s calmest city - the bamboo train, the bat cave at Phnom Sampeau, and why the detour costs less road than it looks.',
+                heroImage: IMG.battambang,
+                fastFacts: [
+                    { icon: 'MapPin', label: 'Distance', value: '~290 km, National Road 5' },
+                    { icon: 'Clock', label: 'By road', value: 'About 5 hours' },
+                    { icon: 'Star', label: 'Be there for', value: 'Dusk at Phnom Sampeau' },
+                    { icon: 'MapPin', label: 'On to Siem Reap', value: '~170 km, 3-3.5 hrs' },
+                ],
+                sections: [
+                    {
+                        title: 'Why it costs less road than it looks',
+                        icon: 'MapPin',
+                        content: "Battambang is Cambodia's second city and almost nobody on the standard circuit stops there, which is the main argument for going.\n\nThe geography is the thing people get wrong. Battambang is **not** on National Road 6 between Phnom Penh and Siem Reap - it sits west, on National Road 5. That sounds like a detour, and it is, but a small one:\n\n**Phnom Penh to Battambang** is about **290 km and five hours** on NR5.\n**Battambang to Siem Reap** is about **170 km and three to three and a half hours**.\n\nThat is roughly eight and a half hours of road against the six you would spend going direct. **Two and a half extra hours buys you a whole city**, and the direct run is six hours of nothing.\n\nIt also sits in the right place for the history. Phnom Sampeau outside Battambang has a **killing cave** with a memorial at the bottom of the shaft, and meeting that before Tuol Sleng - or after, if you are heading south - gives the Khmer Rouge story a shape that Phnom Penh alone does not.\n\nOur [six-day](/cambodia/itineraries/6-days) and [seven-day](/cambodia/itineraries/7-days) Cambodia itineraries both put Battambang here for exactly this reason.",
+                        tourCard: CARD.battambang,
+                    },
+                    {
+                        title: 'Getting there',
+                        icon: 'Clock',
+                        content: "**Bus** is the default. Several operators run air-conditioned coaches on NR5, roughly USD 8-20 depending on the operator and the seat, about five hours with a rest stop. Book a day or two ahead in the November-to-February peak; the morning of is usually fine otherwise.\n\n**Minivan** is faster and less comfortable, four to four and a half hours if the driver is in a hurry, which is not always something to wish for.\n\n**Private car with driver** runs from about USD 80-110 and is the obvious choice for two or more people. It also lets you stop, and there are things to stop for: **Oudong**, the royal capital for more than 250 years until 1866, is 40 km out of Phnom Penh on the way, and **Kampong Chhnang** has pottery villages and a floating community on the Tonle Sap.\n\n**The train.** Cambodia's rehabilitated railway runs Phnom Penh to Battambang and on to Poipet a few days a week. It is slower than the bus and much more pleasant - check current days and times locally, because the schedule changes.\n\n**Leave in the morning** whichever way you go. Arriving in daylight matters, and NR5 after dark with livestock and unlit motorbikes is not the part of Cambodia to experience.",
+                    },
+                    {
+                        title: 'What to do when you get there',
+                        icon: 'Star',
+                        content: "**Phnom Sampeau at dusk, and build the day around it.** Millions of wrinkle-lipped bats pour out of a cliff cave in an unbroken ribbon for about half an hour. There is no build-up: nothing, then a stream that does not stop. People sit at the roadside stalls below with a drink and watch it. It is free and it is one of the best things in the country.\n\nThe same hill holds a **killing cave** - a Khmer Rouge execution site where victims were thrown through a shaft in the rock - with a memorial and a reclining Buddha at the bottom. It is quiet, unvisited and harder in its way than Choeung Ek.\n\n**The bamboo train (norry)** is a bamboo platform on wheels with a small motor, run down a single track. When two meet, the lighter one is lifted off the rails by hand. Say plainly that the **original line at O Dambong was replaced by a purpose-built tourist track at Banan** - the carts and the lifting ritual are real, the route is for visitors, and it is still twenty good minutes.\n\n**The town itself** is the quietest place on the circuit: French shophouses along the Sangker river, a working market, and an arts scene - **Phare Ponleu Selpak**, the school the Cambodian circus came out of, is here and can be visited.\n\n**Banan temple** and **Ek Phnom** are eleventh-century and almost empty.",
+                        tourCard: CARD.battambang,
+                    },
+                    {
+                        title: 'The boat, and onward',
+                        icon: 'Calendar',
+                        content: "**The Sangker river boat to Siem Reap** is the best transfer in Cambodia and most people never hear about it. It runs six to nine hours down the river and across the top of the Tonle Sap, through floating villages and flooded forest, and it is a day out rather than a journey.\n\n**It only runs when the water is high** - roughly **August to January** - and in the dry months it either does not run or gets stuck. Check before planning around it. Seats are limited and it is worth booking ahead.\n\nIf the water is low, the road to Siem Reap is three to three and a half hours and perfectly fine.\n\n**How long to stay.** One night is enough for the bamboo train and the bats. Two nights lets you add Banan, the countryside and Phare Ponleu Selpak without hurrying, and Battambang is a pleasant place to do nothing for a day.\n\n**Direction.** Most people do Siem Reap → Battambang → Phnom Penh, which puts Angkor on the freshest days and the Khmer Rouge sites last. Coming the other way works too, and the [Phnom Penh to Siem Reap options](/cambodia/phnom-penh/phnom-penh-to-siem-reap-transport) compare the direct route if you would rather skip the detour.",
+                    },
+                ],
+                faqs: [
+                    { q: 'How long is Phnom Penh to Battambang?', a: 'About 290 km and five hours on National Road 5, by bus for USD 8-20 or private car from around USD 80-110. A minivan does it in four to four and a half if the driver hurries.' },
+                    { q: 'Is Battambang worth the detour?', a: 'Phnom Penh to Battambang to Siem Reap is about eight and a half hours of road against six going direct. Two and a half extra hours buys a whole city - the bamboo train, the bat exodus at Phnom Sampeau, French shophouses and almost no other visitors.' },
+                    { q: 'What is the bamboo train?', a: 'A bamboo platform on wheels with a small motor, run down a single track; when two meet the lighter one is lifted off by hand. The original O Dambong line was replaced by a purpose-built tourist track at Banan - the mechanism is real, the route is for visitors.' },
+                    { q: 'What time do the bats come out at Phnom Sampeau?', a: 'At dusk, and it lasts about half an hour with no build-up. Be in place twenty minutes before sunset; arriving late means arriving after. It is free and people watch from the roadside stalls below.' },
+                    { q: 'Can you take a boat from Battambang to Siem Reap?', a: 'Yes, down the Sangker river and across the Tonle Sap, six to nine hours through floating villages. It only runs when the water is high, roughly August to January, and in the dry months it either does not run or gets stuck.' },
+                    { q: 'Is there a train from Phnom Penh to Battambang?', a: 'Yes, on the rehabilitated railway, a few days a week and continuing to Poipet. It is slower than the bus and much more pleasant. The schedule changes, so check current days locally rather than planning around an old timetable.' },
+                ],
+            };
+        case 'oudong-guide':
+            return {
+                title: 'Oudong: The Capital Before Phnom Penh, and the Ashes of Kings',
+                seoTitle: 'Oudong Guide: Cambodia’s Former Royal Capital',
+                description: 'Oudong was the Cambodian capital for more than 250 years until 1866. Hilltop stupas holding royal ashes, 40 km from Phnom Penh, and almost no visitors.',
+                heroImage: IMG.oudong,
+                fastFacts: [
+                    { icon: 'MapPin', label: 'Distance', value: '~40 km north-west' },
+                    { icon: 'Calendar', label: 'Capital', value: 'c. 1618 - 1866' },
+                    { icon: 'Star', label: 'On the hill', value: 'Stupas of three kings' },
+                    { icon: 'Clock', label: 'Time needed', value: 'Half to a full day' },
+                ],
+                sections: [
+                    {
+                        title: 'A capital most visitors have never heard of',
+                        icon: 'Star',
+                        content: "Between Angkor and Phnom Penh there is a gap in most people's mental map of Cambodia - roughly four hundred years where, in the usual telling, nothing happened. Oudong is that gap.\n\nAfter Angkor was abandoned in the fifteenth century the court moved south, and from about **1618 until 1866** Oudong was the royal capital. That is **more than 250 years**, longer than Phnom Penh has been the capital. Kings were crowned here, the court lived here, and then in 1866 Norodom moved the capital to Phnom Penh under French pressure and Oudong simply stopped.\n\nWhat is left is a long ridge with **stupas along the top**, reached by a staircase, holding the ashes of Cambodian kings - among them **Soriyopor**, who founded the capital, **Ang Duong**, the nineteenth-century reforming king, and **Monivong**, who died in 1941. A more recent stupa on the ridge holds a relic of the Buddha.\n\nThe hill was **shelled and mined in the war years** and some of the structures are reconstructions, which the site does not hide.\n\nWhat strikes people is how quiet it is. This is a place of national importance with almost nobody at it on a weekday - a few pilgrims, some monks, and children selling birds to release for merit.",
+                        tourCard: CARD.oudong,
+                    },
+                    {
+                        title: 'What is on the hill',
+                        icon: 'MapPin',
+                        content: "**The staircase.** A long covered flight up the ridge, with naga balustrades. It is a real climb in the heat - go early or late.\n\n**The royal stupas.** Three main ones along the ridge, each in a different style, each holding a king's ashes. They are close enough together that you walk the whole line in twenty minutes and far enough apart that each has its own view over the plain.\n\n**Vihear Preah Ath Roes**, the ruined temple with a seated Buddha. The original figure was destroyed in the war years and what stands now is a reconstruction; the surrounding shell was left as it was.\n\n**The view.** From the ridge the plain runs flat to the horizon in every direction, with rice, sugar palms and the glint of water in the wet months. On a clear day you can see a long way.\n\n**Vipassana Dhura Buddhist Centre** at the foot of the hill is a working meditation centre with hundreds of resident monks and nuns and a large modern complex. Visitors are welcome; dress and behave as you would at any active monastery.\n\n**A memorial** near the base commemorates victims of the Khmer Rouge found in mass graves in the area. Like Battambang's killing cave, it is a reminder that what happened in Phnom Penh happened everywhere.",
+                    },
+                    {
+                        title: 'Getting there and combining it',
+                        icon: 'Clock',
+                        content: "**About 40 kilometres north-west of Phnom Penh** on National Road 5, an hour or a little more depending on traffic getting out of the city.\n\n**Private car or tuk-tuk** is how almost everyone goes; there is no convenient public option and no reason to want one. A half-day private trip is straightforward and a full day lets you combine it.\n\n**Combine with [Koh Dach silk island](/cambodia/phnom-penh/koh-dach-silk-island).** Both are north of the city and they make a natural full day - looms in the morning, the hill in the late afternoon when it has cooled and the light is good on the stupas.\n\n**Or with Kampong Chhnang**, further up NR5, where there are pottery villages and a floating community on the Tonle Sap. That is a longer day.\n\n**Or on the way to Battambang.** Oudong is directly on National Road 5, so if you are taking the [road to Battambang](/cambodia/phnom-penh/phnom-penh-to-battambang) it costs you almost nothing to stop - an hour on the hill and back in the car.\n\n**Timing.** Early morning or from about four. The staircase and the ridge are completely unshaded and the middle of the day is punishing from March to May.\n\n**Food** at the base is basic stalls. Bring water.",
+                        tourCard: CARD.silk,
+                    },
+                    {
+                        title: 'Behaving well at a working religious site',
+                        icon: 'Info',
+                        content: "Oudong is not a ruin, it is a place Cambodians come to pray, and the difference matters.\n\n**Dress.** Shoulders and knees covered. Nobody will stop you at a barrier the way they do at the [Royal Palace](/cambodia/phnom-penh/royal-palace-phnom-penh), which is exactly why it is worth getting right on your own.\n\n**Shoes off** inside any vihear and at the stupas where it is indicated.\n\n**Monks.** Ask before photographing, every time. Women should not hand anything directly to a monk or sit beside one - place an item down for him to pick up. This is not squeamishness, it is the rule they live under.\n\n**Feet** should not point at a Buddha image or at a person. Sit with your legs folded to one side.\n\n**Caged birds** are sold at the base to release for merit. It looks charitable and it is a trade: the birds are caught to be sold, many die in the process, and buying one funds catching more. Cambodian conservation groups ask visitors not to.\n\n**Children selling** at the base - the same rule as everywhere in Cambodia. Buying from children keeps them out of school by making them earning assets. Give to an organisation instead.\n\n**Donations** at the vihear or the meditation centre are the right place for money, and a small note is normal.",
+                    },
+                ],
+                faqs: [
+                    { q: 'What is Oudong?', a: 'Cambodia’s royal capital from about 1618 until 1866 - more than 250 years, longer than Phnom Penh has held the role. A ridge of stupas holds the ashes of Cambodian kings including Soriyopor, Ang Duong and Monivong.' },
+                    { q: 'How far is Oudong from Phnom Penh?', a: 'About 40 km north-west on National Road 5, an hour or a little more depending on traffic out of the city. Almost everyone goes by private car or tuk-tuk; there is no convenient public option.' },
+                    { q: 'Is Oudong worth visiting?', a: 'If you have a third day in Phnom Penh, yes. It fills the four-hundred-year gap between Angkor and Phnom Penh that most itineraries skip entirely, and it is a site of national importance with almost nobody at it on a weekday.' },
+                    { q: 'What can you combine Oudong with?', a: 'Koh Dach silk island - both are north of the city and make a natural full day, looms in the morning and the hill in the late afternoon. It is also directly on National Road 5, so it is nearly a free stop on the way to Battambang.' },
+                    { q: 'When is the best time of day to visit Oudong?', a: 'Early morning or from about four. The staircase and the ridge are completely unshaded and the middle of the day is punishing from March to May. Late afternoon also puts good light on the stupas.' },
+                    { q: 'Should I buy birds to release at Oudong?', a: 'No. The birds are caught specifically to be sold, many die in the process, and buying one funds catching more. Cambodian conservation groups ask visitors not to, however charitable the merit-release looks.' },
+                ],
+            };
+
+        case 'phnom-penh-with-kids':
+            return {
+                title: 'Phnom Penh With Children: What to Do, and What to Leave Out',
+                seoTitle: 'Phnom Penh With Kids: What Works, What to Skip',
+                description: 'Phnom Penh with children - the palace, the river, silk island and the wildlife centre, plus a straight answer on the Khmer Rouge sites and orphanage tours.',
+                heroImage: IMG.cruise,
+                fastFacts: [
+                    { icon: 'AlertTriangle', label: 'S-21 & Choeung Ek', value: 'Not for young children' },
+                    { icon: 'Star', label: 'Biggest hit', value: 'A boat on the Mekong' },
+                    { icon: 'Clock', label: 'Plan around', value: 'Indoors 12:00 - 15:00' },
+                    { icon: 'AlertTriangle', label: 'Never', value: 'Orphanage visits' },
+                ],
+                sections: [
+                    {
+                        title: 'What works',
+                        icon: 'Star',
+                        content: "Phnom Penh is a harder city for children than Siem Reap - it is hot, flat, and most of what adults come for is heavy. But there is a real day here.\n\n**A boat on the Mekong** is the easiest win. The city sits where three rivers meet, boats leave the quay all evening, an hour costs very little, and being on the water is a break from the heat as well as a sight. Sunset is the time.\n\n**Koh Dach, the silk island**, a short ferry upstream. Flat, green, almost no traffic, weavers working handlooms under the houses, and in the dry season sandbanks along the edge that local families picnic on. By bike it is a proper day out. See the [silk island guide](/cambodia/phnom-penh/koh-dach-silk-island).\n\n**The Royal Palace** holds up better with children than you would expect - the Silver Pagoda's floor is literally five thousand silver tiles and the gold Buddha has two thousand diamonds in it, both of which are facts a child can do something with. Shoulders and knees covered applies to them too, and it is a lot of walking in the sun, so go at opening.\n\n**Phnom Tamao Wildlife Rescue Centre**, about 40 km south, takes in animals confiscated from the illegal trade - elephants, bears, gibbons, tigers. It is a genuine rescue operation rather than a zoo with a good story. A full day with the drive.\n\n**The Central Market's** art deco dome is cool underneath and full of things to look at.",
+                        tourCard: CARD.cruise,
+                    },
+                    {
+                        title: 'The Khmer Rouge sites, plainly',
+                        icon: 'AlertTriangle',
+                        content: "**Tuol Sleng and Choeung Ek are not suitable for young children, and both sites say so.**\n\nS-21 has room after room of intake photographs of people who were about to be killed, the cells and the iron bed frames, and images of what was done there. Choeung Ek is a field of excavated mass graves with a stupa of **around 5,000 skulls** arranged by age and injury, and fragments of bone and cloth still surface in the paths after rain.\n\nThere is no version of this that is child-appropriate below about twelve, and nothing is gained by trying.\n\n**Teenagers who have been prepared usually manage well** and often take more from it than the adults do. Prepare them: what happened, roughly when, why it is there. The Choeung Ek audio guide, narrated in part by a survivor, does a lot of that work and is what makes the site legible rather than just grim.\n\n**The practical answer for a family** is to split. One parent takes the [Khmer Rouge sites](/cambodia/phnom-penh/tuol-sleng-and-choeung-ek-guide) in the afternoon while the other does the palace, the river or the market with the children, and swap the next day if there is one. That is what most families here actually do.\n\nDo not take a small child and stay outside with them either - it is half a day of standing in a car park.",
+                    },
+                    {
+                        title: 'The heat, and the shape of a day',
+                        icon: 'Clock',
+                        content: "The heat is the thing that decides whether a family day in Phnom Penh works.\n\nAlmost everything here is outdoors and unshaded, and from **March to May** it is high thirties with thick humidity. Children overheat faster than adults and say so later than is useful.\n\n**The workable shape**: out at eight, one thing, back by eleven-thirty. **Indoors or in the pool from twelve to three** - this is non-negotiable in the hot months, not a nice-to-have. Out again at four for the market, the street art or the river, and eat early.\n\n**A pool is part of the itinerary**, not a luxury. Filter for one before anything else - see [where to stay](/cambodia/phnom-penh/where-to-stay-in-phnom-penh), where BKK1 has most of the mid-range hotels with pools and is quiet at night.\n\n**November to February** is a different city - mid-twenties mornings and a bearable afternoon. If you have any choice of dates with children, take these months.\n\n**Traffic.** Crossings work by walking steadily and letting traffic flow around you, which is alarming with a small child. Hold hands, cross with a local if you can, and use tuk-tuks freely - they cost a couple of dollars and remove the problem.\n\n**Mosquitoes.** Dengue is present and Phnom Penh is an urban dengue environment. Repellent at dusk, covered ankles.",
+                        tourCard: CARD.market,
+                    },
+                    {
+                        title: 'Two things to refuse',
+                        icon: 'Info',
+                        content: "**Orphanage visits.** Do not go, and decline any tour that offers one. Paid visits to institutions housing children cause documented harm: they turn children into an attraction, expose them to a stream of strangers, and the money has demonstrably driven children **into** institutions who have living parents. Cambodia has been a centre of this problem and reputable operators stopped offering it years ago. If a driver or a guide suggests it, say no and mean it.\n\nThe same applies to volunteering at one for a day, to \"visiting a village school\" as a paid stop, and to buying milk powder or supplies from a shop somebody leads you to.\n\n**Giving money to begging children.** It is the hardest one because the impulse is decent. Cambodian NGOs are unanimous: money given to a child on the street makes that child an earning asset and keeps them out of school, and organised begging exists here. Give to an organisation working on it instead.\n\n**ChildSafe** is the Cambodian network to know about - posters are everywhere and there is a hotline for concerns. Use it rather than intervening yourself.\n\n**What to do instead**, if you want the money to land: the wildlife centre, the arts schools, Cambodian-run social enterprises and the training restaurants that teach hospitality to young people from hard backgrounds. Several of those cook as well as anywhere in the city, which makes it an easy choice.",
+                    },
+                ],
+                faqs: [
+                    { q: 'Is Phnom Penh good for children?', a: 'Harder than Siem Reap - hot, flat, and most of what adults come for is heavy. But a boat on the Mekong, Koh Dach silk island, the Royal Palace and the Phnom Tamao wildlife rescue centre make a real few days.' },
+                    { q: 'Should children visit Tuol Sleng or the Killing Fields?', a: 'Not under about twelve, and both sites say so - the intake photographs, the cells and a stupa of some 5,000 skulls are explicit. Prepared teenagers usually manage well. Most families split: one parent goes while the other takes the children to the palace or the river.' },
+                    { q: 'What is there to do with kids in Phnom Penh?', a: 'An hour on the Mekong at sunset, Koh Dach silk island by bike, the Royal Palace early, the Central Market under its 1937 dome, and Phnom Tamao Wildlife Rescue Centre 40 km south, which takes in animals confiscated from the illegal trade.' },
+                    { q: 'How do you handle the heat in Phnom Penh with children?', a: 'Out at eight, one thing, back by eleven-thirty, indoors or in the pool from twelve to three, out again at four. In March to May that is not a preference. Book a hotel with a pool and treat the pool as part of the itinerary.' },
+                    { q: 'Should we visit an orphanage in Cambodia?', a: 'No, and decline any tour that offers one. Paid visits turn children into an attraction and the money has demonstrably driven children into institutions who have living parents. Reputable Cambodian operators stopped offering it years ago.' },
+                    { q: 'Should I give money to begging children in Phnom Penh?', a: 'Cambodian NGOs are unanimous that you should not - it makes the child an earning asset and keeps them out of school, and organised begging exists here. Give to an organisation instead, and use the ChildSafe hotline for concerns.' },
+                ],
+            };
         default:
             return null;
     }
