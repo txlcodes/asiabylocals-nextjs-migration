@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import { notFound, permanentRedirect } from 'next/navigation';
 import { CITY_URL_MAP } from '@/lib/cityCountryMap';
 import { DUPLICATE_CANONICAL_MAP } from '@/lib/duplicateCanonical';
+import { offerRange } from '@/lib/offerPrice';
 import { isLang, tourT, pageT, optionT, alternatesFor, canonicalFor, type Lang } from '@/lib/translations';
 import { AGRA_INFO_SLUGS, UBUD_INFO_SLUGS, CANGGU_INFO_SLUGS, ULUWATU_INFO_SLUGS, NUSA_PENIDA_INFO_SLUGS, DELHI_INFO_SLUGS, JAIPUR_INFO_SLUGS, PHUKET_INFO_SLUGS, BANGKOK_INFO_SLUGS, KASHMIR_INFO_SLUGS, CHIANG_MAI_INFO_SLUGS, PATTAYA_INFO_SLUGS, KRABI_INFO_SLUGS, TOKYO_INFO_SLUGS, KYOTO_INFO_SLUGS, OSAKA_INFO_SLUGS, HIROSHIMA_INFO_SLUGS, SAPPORO_INFO_SLUGS, NARA_INFO_SLUGS, NAGOYA_INFO_SLUGS, HAKONE_INFO_SLUGS, MOUNT_FUJI_INFO_SLUGS, COLOMBO_INFO_SLUGS, KANDY_INFO_SLUGS, SIGIRIYA_INFO_SLUGS, ELLA_INFO_SLUGS , GALLE_INFO_SLUGS , NEGOMBO_INFO_SLUGS , NUWARA_ELIYA_INFO_SLUGS , BENTOTA_INFO_SLUGS , MIRISSA_INFO_SLUGS, DUBAI_INFO_SLUGS, ABU_DHABI_INFO_SLUGS, HA_LONG_INFO_SLUGS, HANOI_INFO_SLUGS, SAPA_INFO_SLUGS, HOI_AN_INFO_SLUGS, DA_NANG_INFO_SLUGS, HO_CHI_MINH_CITY_INFO_SLUGS, SIEM_REAP_INFO_SLUGS, PHNOM_PENH_INFO_SLUGS } from '@/lib/constants';
 import { getCityInfoContent } from '@/lib/cityInfoContent';
@@ -515,8 +516,8 @@ export default async function SlugPage({ params }: Props) {
         brand: { '@type': 'Brand', name: 'AsiaByLocals' },
         offers: {
           '@type': 'AggregateOffer',
-          lowPrice: tour?.pricePerPerson || 0,
-          highPrice: tour?.pricePerPerson || 0,
+          lowPrice: offerRange(tour?.options, tour?.pricePerPerson)?.low ?? 0,
+          highPrice: offerRange(tour?.options, tour?.pricePerPerson)?.high ?? 0,
           offerCount: Array.isArray(tour?.options) && tour.options.length > 0 ? tour.options.length : 1,
           priceCurrency: tour?.currency || 'USD',
           availability: 'https://schema.org/InStock',
@@ -556,7 +557,7 @@ export default async function SlugPage({ params }: Props) {
         itinerary: itinerarySchema,
         offers: {
           '@type': 'Offer',
-          price: tour?.pricePerPerson || 0,
+          price: offerRange(tour?.options, tour?.pricePerPerson)?.low ?? 0,
           priceCurrency: tour?.currency || 'USD',
           availability: 'https://schema.org/InStock',
           url: tourUrl,
