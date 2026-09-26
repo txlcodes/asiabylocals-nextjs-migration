@@ -1,4 +1,5 @@
 import { translatedLangs } from '@/lib/translations';
+import { isDuplicateSlug } from '@/lib/duplicateCanonical';
 import { MetadataRoute } from 'next';
 import { ITINERARY_COUNTRIES, getItinerarySlugs } from '@/lib/japanItineraries';
 import { CITY_URL_MAP } from '@/lib/constants';
@@ -138,6 +139,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   // Krabi info pages
   const phnomPenhInfoPages = [
     'tuol-sleng-and-choeung-ek-guide', 'royal-palace-phnom-penh', 'phnom-penh-2-day-itinerary', 'phnom-penh-food-and-markets', 'phnom-penh-to-siem-reap-transport', 'best-time-to-visit-phnom-penh',
+    'phnom-penh-1-day-itinerary', 'koh-dach-silk-island', 'kampot-and-kep-day-trip', 'phnom-penh-street-art',
   ].map(slug => ({
     url: `${BASE_URL}/cambodia/phnom-penh/${slug}`,
     lastModified: new Date(),
@@ -148,6 +150,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const siemReapInfoPages = [
     'angkor-wat-tickets-and-pass-guide', 'angkor-wat-sunrise-guide', 'angkor-temples-small-vs-grand-circuit', 'best-time-to-visit-siem-reap',
     'tonle-sap-floating-villages-guide', 'siem-reap-3-day-itinerary', 'siem-reap-airport-to-town', 'siem-reap-food-guide',
+    'angkor-wat-one-day-itinerary', 'banteay-srei-guide', 'ta-prohm-tomb-raider-temple', 'angkor-by-bike', 'where-to-stay-in-siem-reap', 'siem-reap-2-day-itinerary', 'siem-reap-with-kids', 'bayon-and-angkor-thom-guide', 'beng-mealea-and-koh-ker', 'phnom-kulen-guide', 'angkor-photography-guide',
   ].map(slug => ({
     url: `${BASE_URL}/cambodia/siem-reap/${slug}`,
     lastModified: new Date(),
@@ -508,6 +511,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     const allTours = results.flatMap((data: any) => data.tours || data || []);
     tourPages = allTours
       .filter((t: any) => t.slug && t.city)
+      // A duplicate page declares another page as canonical, so submitting it
+      // asks Google to crawl a URL we have already told it to ignore. It burns
+      // crawl budget on the three biggest Indian cities and slows the
+      // consolidation down. Only champions and distinct tours go in.
+      .filter((t: any) => !isDuplicateSlug(t.slug))
       .map((t: any) => {
         const cityKey = t.city.toLowerCase().replace(/\s+/g, '-');
         const mapping = CITY_URL_MAP[cityKey];
