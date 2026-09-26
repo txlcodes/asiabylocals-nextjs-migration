@@ -11,8 +11,6 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   //
   // NOT mapped: the two Apple Vacations Colombo tuk-tuk tours look like clones
   // by title, but one is Private and the other Group. Different products.
-  'private-udawalawe-elephant-safari-day-trip-transit-home-visit':
-    'udawalawe-elephant-safari-transit-home-private-day-trip',
   // Second clone: Ranweli Tours lists the same private Yala day trip from Ella
   // twice. Same operator, same park, same origin, same lead photo — only the
   // stated duration and price differ ($286/8h vs $260/10h). Cheaper and longer
@@ -54,10 +52,6 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   // cruise fleet all stay unmapped. Cheaper page wins unless the other is an
   // owned tour.
   // Da Nang: Marble Mountain + Monkey Mountain + Am Phu Cave, three listings
-  'marble-mountain-monkey-mountain-and-am-phu-cave-tour-in-da-nang':
-    'monkey-mountain-marble-mountain-am-phu-cave-in-da-nang',
-  'marble-mountain-am-phu-cave-monkey-mountain-in-da-nang':
-    'monkey-mountain-marble-mountain-am-phu-cave-in-da-nang',
   // Hoi An: My Son + Marble Mountains day trip, $60 vs $29
   'marble-mountains-and-my-son-sanctuary-day-trip-in-hoi-an':
     'my-son-sanctuary-and-marble-mountains-guided-tour-in-hoi-an',
@@ -65,8 +59,6 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   'cu-chi-tunnels-and-mekong-delta-with-coconut-village-tour-ho-chi-minh-city':
     'hcm-cu-chi-tunnels-mekong-delta-and-coconut-village-tour-ho-chi-minh-city',
   // Hanoi: TripBestie listed the same 3-day Ha Giang loop twice
-  '3-day-ha-giang-loop-w-safe-rider-max-8pax':
-    '3-day-ha-giang-loop-with-safe-rider-max-8-pax-3-3',
   // Ha Long: same operator, same 3-day 6-star cruise, listed twice
   'hanoi-ninh-binh-halong-bay-6-star-cruise-3-days':
     '3-days-hanoi-ninh-binh-halong-lan-ha-bay-6-star-cruise-ha-long-bay',
@@ -251,8 +243,6 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   // ---- BALI (2026-09-17): the only true clones in the 934-tour batch are two
   // same-operator double listings (Bali paradise tour) with identical titles.
   // Same-title pages from different operators are left alone.
-  'bangli-hidden-gems-waterfall-tour-in-ubud-2': 'bangli-hidden-gems-waterfall-tour-in-ubud',
-  'ubud-hidden-gems-waterfall-tour-ubud-2': 'ubud-hidden-gems-waterfall-tour-ubud',
   // ---- JAPAN density batch (2026-09-18): one same-operator double listing.
   'hiroshima-and-miyajima-day-trip-by-bullet-train-2': 'miyajima-trip-full-day-tour',
 
@@ -734,6 +724,372 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
     'private-full-day-jaipur-city-tour-with-hotel-pick',
   'jaipur-private-guided-city-tour-with-hotel-pickup-':
     'private-full-day-jaipur-city-tour-with-hotel-pick',
+
+  // ---- CATALOGUE-WIDE SWEEP (2026-09-27) ----
+  // Same pass as the Agra/Delhi/Jaipur one, run over all 6,420 live tours.
+  // 126 duplicates across Vietnam, Indonesia, Japan, Thailand and Sri Lanka.
+  // Two guards did most of the work here. A proper-noun guard keeps products
+  // apart when either title carries a distinctive name the other lacks, which
+  // is what separates Le Journey from Amanda in the Ha Long fleet and the
+  // Colosseum cabaret from Tiffany's in Pattaya. A feature guard does the same
+  // for swing, monkey forest, snowmobile, yacht, watersports, Cat Ba, quad,
+  // rafting, diving, onsen, and a guide who speaks a named language.
+  // 15 more pairs were dropped by hand after reading all 141 candidates:
+  // star ratings inside one fleet, 60 vs 90 minute spas, 4 vs 24 hour bus
+  // passes, opposite transfer directions, and one itinerary that adds Cu Chi.
+  // Nothing absorbed here has a review or a booking on it.
+  // Indonesia / Nusa Penida: 2 pages -> nusa-penida-day-tour-and-snorkeling
+  'nusa-penida-snorkeling-day-trip':
+    'nusa-penida-day-tour-and-snorkeling',
+  // Indonesia / Ubud: 2 pages -> bangli-hidden-gems-waterfall-tour-in-ubud
+  'bangli-hidden-gems-waterfall-tour-in-ubud-2':
+    'bangli-hidden-gems-waterfall-tour-in-ubud',
+  // Indonesia / Ubud: 2 pages -> east-bali-private-tour-with-lempuyang-temple-2
+  'east-bali-private-tour-with-lempuyang-temple':
+    'east-bali-private-tour-with-lempuyang-temple-2',
+  // Indonesia / Ubud: 2 pages -> jungle-swing-rice-terrace-and-waterfall-experience-in-ubud
+  'ubud-jungle-swing-rice-terrace-and-waterfall-tour':
+    'jungle-swing-rice-terrace-and-waterfall-experience-in-ubud',
+  // Indonesia / Ubud: 2 pages -> kuber-atv-quad-bike-with-long-tunnel-and-waterfall-in-ubud
+  'ubud-bali-kuber-atv-quad-bike-with-long-tunnel-and-waterfalls-ubud':
+    'kuber-atv-quad-bike-with-long-tunnel-and-waterfall-in-ubud',
+  // Indonesia / Ubud: 2 pages -> mount-agung-sunrise-trekking-all-inclusive-tour-in-ubud
+  'mount-agung-sunrise-trekking-tour-in-ubud':
+    'mount-agung-sunrise-trekking-all-inclusive-tour-in-ubud',
+  // Indonesia / Ubud: 2 pages -> mount-agung-sunrise-trekking-with-breakfast-all-inclusive-in-ubud
+  'mount-agung-sunrise-trekking-with-breakfast-in-ubud':
+    'mount-agung-sunrise-trekking-with-breakfast-all-inclusive-in-ubud',
+  // Indonesia / Ubud: 2 pages -> mount-batur-sunrise-trekking-and-breakfast-tour
+  'mount-batur-sunrise-jeep-trekking-or-combo-with-breakfast-ubud':
+    'mount-batur-sunrise-trekking-and-breakfast-tour',
+  // Indonesia / Ubud: 3 pages -> snorkeling-at-blue-lagoon-and-tanjung-jepun-all-inclusive-in-ubud
+  'all-inclusive-blue-lagoon-and-tanjung-jepun-snorkeling-in-ubud':
+    'snorkeling-at-blue-lagoon-and-tanjung-jepun-all-inclusive-in-ubud',
+  'blue-lagoon-and-tanjung-jepun-snorkeling-tour-in-ubud':
+    'snorkeling-at-blue-lagoon-and-tanjung-jepun-all-inclusive-in-ubud',
+  // Indonesia / Ubud: 3 pages -> snorkeling-at-blue-lagoon-and-waterfall-all-inclusive-in-ubud
+  'blue-lagoon-snorkeling-temple-and-waterfall-tour-in-ubud':
+    'snorkeling-at-blue-lagoon-and-waterfall-all-inclusive-in-ubud',
+  'blue-lagoon-snorkeling-with-option-waterfall-and-temple-in-ubud':
+    'snorkeling-at-blue-lagoon-and-waterfall-all-inclusive-in-ubud',
+  // Indonesia / Ubud: 2 pages -> snorkeling-menjangan-island-tours-in-ubud
+  'menjangan-island-snorkeling-tour-with-transport-in-ubud':
+    'snorkeling-menjangan-island-tours-in-ubud',
+  // Indonesia / Ubud: 3 pages -> tirta-empul-purification-ritual-and-temple-tour-in-ubud
+  'tirta-empul-temple-purification-ritual-with-guide-in-ubud':
+    'tirta-empul-purification-ritual-and-temple-tour-in-ubud',
+  'tirta-empul-temple-tour-and-sacred-purification-ritual-in-ubud':
+    'tirta-empul-purification-ritual-and-temple-tour-in-ubud',
+  // Indonesia / Ubud: 2 pages -> ubud-hidden-gems-waterfall-tour-ubud
+  'ubud-hidden-gems-waterfall-tour-ubud-2':
+    'ubud-hidden-gems-waterfall-tour-ubud',
+  // Indonesia / Ubud: 2 pages -> ubud-private-tour-swing-rice-terrace-temple-and-waterfalls-ubud
+  'private-tour-to-3-waterfalls-rice-terrace-and-swing-in-ubud':
+    'ubud-private-tour-swing-rice-terrace-temple-and-waterfalls-ubud',
+  // Indonesia / Ubud: 4 pages -> ubud-private-tour-with-waterfall-and-rice-terrace-ubud
+  'private-tour-with-rice-terrace-temple-and-waterfall-in-ubud':
+    'ubud-private-tour-with-waterfall-and-rice-terrace-ubud',
+  'ubud-private-tour-with-waterfall-temple-and-rice-terrace-ubud':
+    'ubud-private-tour-with-waterfall-and-rice-terrace-ubud',
+  'ubud-temple-waterfalls-and-rice-terrace-private-to':
+    'ubud-private-tour-with-waterfall-and-rice-terrace-ubud',
+  // Indonesia / Ubud: 3 pages -> waterfall-rice-terrace-temple-and-monkey-forest-tour-in-ubud
+  'monkey-forest-temple-waterfall-and-rice-terrace-tour-in-ubud':
+    'waterfall-rice-terrace-temple-and-monkey-forest-tour-in-ubud',
+  'monkey-forest-waterfall-and-rice-terrace-tour-in-ubud':
+    'waterfall-rice-terrace-temple-and-monkey-forest-tour-in-ubud',
+  // Indonesia / Uluwatu: 3 pages -> uluwatu-temple-and-kecak-fire-dance-sunset-experience-uluwatu
+  'uluwatu-temple-sunset-tour-with-kecak-fire-dance':
+    'uluwatu-temple-and-kecak-fire-dance-sunset-experience-uluwatu',
+  'uluwatu-temple-tour-with-sunset-kecak-fire-dance':
+    'uluwatu-temple-and-kecak-fire-dance-sunset-experience-uluwatu',
+  // Japan / Hiroshima: 2 pages -> miyajima-trip-full-day-tour
+  'hiroshima-and-miyajima-day-trip-by-bullet-train-2-2':
+    'miyajima-trip-full-day-tour',
+  // Japan / Kyoto: 2 pages -> amanohashidate-and-ine-funaya-and-ine-bay-day-tour-in-kyoto
+  'amanohashidate-and-ine-funaya-day-tour-in-kyoto':
+    'amanohashidate-and-ine-funaya-and-ine-bay-day-tour-in-kyoto',
+  // Japan / Kyoto: 2 pages -> fushimi-sake-brewery-tour-18-tastings-in-2-5-hours
+  'fushimi-sake-tour-with-brewery-visit-and-tastings':
+    'fushimi-sake-brewery-tour-18-tastings-in-2-5-hours',
+  // Japan / Kyoto: 2 pages -> gion-hidden-gems-and-geisha-culture-tour
+  'gion-hidden-gems-and-geisha-culture-guided-tour':
+    'gion-hidden-gems-and-geisha-culture-tour',
+  // Japan / Kyoto: 2 pages -> gion-private-photoshoot-professional-and-guided-tour
+  'gion-private-professional-photoshoot':
+    'gion-private-photoshoot-professional-and-guided-tour',
+  // Japan / Kyoto: 2 pages -> ring-making-workshop-with-vintage-coin-in-kyoto
+  'vintage-coin-ring-making-workshop-with-in-kyoto':
+    'ring-making-workshop-with-vintage-coin-in-kyoto',
+  // Japan / Mount Fuji: 2 pages -> mount-fuji-private-tour-with-english-guide-3-2
+  'mount-fuji-english-private-tour':
+    'mount-fuji-private-tour-with-english-guide-3-2',
+  // Japan / Nagoya: 2 pages -> takayama-and-shirakawa-go-day-tour-from-nagoya-by-local-operator
+  'shirakawa-go-and-takayama-day-tour-from-nagoya-by-local-operator':
+    'takayama-and-shirakawa-go-day-tour-from-nagoya-by-local-operator',
+  // Japan / Nara: 2 pages -> great-buddha-kasuga-shrine-and-sacred-deer-tour-in-nara
+  'great-buddha-kasuga-shrine-and-deer-park-tour-in-nara':
+    'great-buddha-kasuga-shrine-and-sacred-deer-tour-in-nara',
+  // Japan / Nara: 2 pages -> kyoto-and-nara-small-group-tour-with-temples-and-deer-park
+  'kyoto-temples-and-nara-deer-park-small-group-tour':
+    'kyoto-and-nara-small-group-tour-with-temples-and-deer-park',
+  // Japan / Osaka: 2 pages -> katsuo-ji-temple-kobe-and-arima-onsen-day-trip-2
+  'temple-katsuo-full-day-tour':
+    'katsuo-ji-temple-kobe-and-arima-onsen-day-trip-2',
+  // Japan / Tokyo: 2 pages -> asakusa-walking-tour-with-sensoji-temple-visit
+  'asakusa-and-sensoji-walking-tour':
+    'asakusa-walking-tour-with-sensoji-temple-visit',
+  // Japan / Tokyo: 2 pages -> imperial-palace-and-shogun-walking-tour-in-tokyo
+  'imperial-palace-and-shogun-walking-tour-with-a-local-guide-in-tokyo':
+    'imperial-palace-and-shogun-walking-tour-in-tokyo',
+  // Japan / Tokyo: 2 pages -> sushi-making-with-pro-chef-and-tsukiji-fish-market-tour
+  'tsukiji-fish-market-sushi-making-class-with-pro-chef':
+    'sushi-making-with-pro-chef-and-tsukiji-fish-market-tour',
+  // Japan / Tokyo: 2 pages -> tokyo-tsukiji-fish-market-street-food-and-walking-tour-by-local-operator-2
+  'tokyo-tower-walking-food-tour':
+    'tokyo-tsukiji-fish-market-street-food-and-walking-tour-by-local-operator-2',
+  // Sri Lanka / Colombo: 2 pages -> udawalawe-elephant-safari-transit-home-private-day-trip
+  'private-udawalawe-elephant-safari-day-trip-transit-home-visit':
+    'udawalawe-elephant-safari-transit-home-private-day-trip',
+  // Thailand / Bangkok: 2 pages -> bangkok-grand-palace-wat-pho-wat-arun-guided-tour
+  'grand-palace-wat-arun-and-wat-pho-guided-tour':
+    'bangkok-grand-palace-wat-pho-wat-arun-guided-tour',
+  // Thailand / Bangkok: 2 pages -> golden-dome-cabaret-show-entry-ticket-in-bangkok-2
+  'bangkok-cabaret-entry-ticket':
+    'golden-dome-cabaret-show-entry-ticket-in-bangkok-2',
+  // Thailand / Bangkok: 2 pages -> royal-princess-river-dinner-cruise-with-live-music-in-bangkok-2
+  'bangkok-royal-boat-tour':
+    'royal-princess-river-dinner-cruise-with-live-music-in-bangkok-2',
+  // Thailand / Chiang Mai: 2 pages -> white-temple-blue-red-temples-and-lalitta-cafe-in-chiang-mai
+  'lalitta-cafe-and-white-blue-red-temples-tour-in-chiang-mai':
+    'white-temple-blue-red-temples-and-lalitta-cafe-in-chiang-mai',
+  // Thailand / Krabi: 2 pages -> phi-phi-island-tour-by-speedboat-with-buffet-lunch
+  'phi-phi-islands-speedboat-tour-with-buffet-lunch':
+    'phi-phi-island-tour-by-speedboat-with-buffet-lunch',
+  // Thailand / Pattaya: 2 pages -> pattaya-sina-floating-beach-club-experience
+  'sina-floating-beach-club-in-pattaya':
+    'pattaya-sina-floating-beach-club-experience',
+  // Thailand / Pattaya: 2 pages -> the-sanctuary-of-truth-admission-ticket-in-pattaya-2
+  'sanctuary-of-truth-sanctuary-entry-ticket':
+    'the-sanctuary-of-truth-admission-ticket-in-pattaya-2',
+  // Thailand / Phuket: 2 pages -> all-inclusive-cheow-lan-lake-cave-kayak-and-lunch-in-phuket-2
+  'phuket-cheow-guided-tour':
+    'all-inclusive-cheow-lan-lake-cave-kayak-and-lunch-in-phuket-2',
+  // Thailand / Phuket: 2 pages -> james-bond-and-sea-cave-canoeing-by-big-boat
+  'james-bond-island-by-big-boat-with-sea-cave-canoeing':
+    'james-bond-and-sea-cave-canoeing-by-big-boat',
+  // Thailand / Phuket: 2 pages -> james-bond-island-and-phang-nga-bay-by-speedboat
+  'james-bond-and-phang-nga-bay-tour-by-speedboat':
+    'james-bond-island-and-phang-nga-bay-by-speedboat',
+  // Thailand / Phuket: 3 pages -> james-bond-island-speedboat-tour-phuket
+  'james-bond-island-by-speedboat-w-canoeing-and-lunch':
+    'james-bond-island-speedboat-tour-phuket',
+  'james-bond-island-canoeing-tour-by-speedboat-lunch':
+    'james-bond-island-speedboat-tour-phuket',
+  // Thailand / Phuket: 2 pages -> phi-phi-maya-bay-and-khai-islands-day-trip
+  'phi-phi-maya-bay-and-khai-island-speedboat-day-tour':
+    'phi-phi-maya-bay-and-khai-islands-day-trip',
+  // Thailand / Phuket: 2 pages -> racha-islands-day-tour-with-snorkel-beach-and-lunch-2
+  'patong-beach-islands-guided-tour':
+    'racha-islands-day-tour-with-snorkel-beach-and-lunch-2',
+  // Vietnam / Da Nang: 3 pages -> ba-na-hills-and-golden-bridge-day-trip
+  'ba-na-hills-and-golden-bridge-day-trip-2':
+    'ba-na-hills-and-golden-bridge-day-trip',
+  'golden-bridge-ba-na-hills-day-tour-in-da-nang':
+    'ba-na-hills-and-golden-bridge-day-trip',
+  // Vietnam / Da Nang: 2 pages -> ba-na-hills-golden-bridge-and-marble-mountains
+  'golden-bridge-ba-na-hills-and-marble-mountains-in-da-nang':
+    'ba-na-hills-golden-bridge-and-marble-mountains',
+  // Vietnam / Da Nang: 3 pages -> best-tours-transfer-to-bana-hills-and-golden-bridge-da-nang-2
+  'best-tours-transfer-to-bana-hills-and-golden-bridg':
+    'best-tours-transfer-to-bana-hills-and-golden-bridge-da-nang-2',
+  'bridge-transfer-guided-tour':
+    'best-tours-transfer-to-bana-hills-and-golden-bridge-da-nang-2',
+  // Vietnam / Da Nang: 5 pages -> marble-mountain-am-phu-cave-and-lady-buddha
+  'lady-buddha-marble-mountains-am-phu-cave-tour':
+    'marble-mountain-am-phu-cave-and-lady-buddha',
+  'lady-buddha-marble-mountains-and-am-phu-cave-in-da-nang':
+    'marble-mountain-am-phu-cave-and-lady-buddha',
+  'marble-mountains-lady-buddha-and-am-phu-cave':
+    'marble-mountain-am-phu-cave-and-lady-buddha',
+  'marble-mountains-lady-buddha-and-am-phu-cave-tour-da-nang':
+    'marble-mountain-am-phu-cave-and-lady-buddha',
+  // Vietnam / Da Nang: 3 pages -> monkey-mountain-marble-mountain-am-phu-cave-in-da-nang
+  'marble-mountain-am-phu-cave-monkey-mountain-in-da-nang':
+    'monkey-mountain-marble-mountain-am-phu-cave-in-da-nang',
+  'marble-mountain-monkey-mountain-and-am-phu-cave-tour-in-da-nang':
+    'monkey-mountain-marble-mountain-am-phu-cave-in-da-nang',
+  // Vietnam / Ha Long: 2 pages -> 2-day-lan-ha-bay-cruise-with-meals-and-activities
+  'lan-ha-bay-2-day-cruise-with-meals-and-activities':
+    '2-day-lan-ha-bay-cruise-with-meals-and-activities',
+  // Vietnam / Ha Long: 2 pages -> 2-day-ninh-binh-and-ha-long-bay-all-inclusive
+  'combo-ninh-binh-tour-and-ha-long-bay-tour-in-2-day':
+    '2-day-ninh-binh-and-ha-long-bay-all-inclusive',
+  // Vietnam / Ha Long: 2 pages -> 2-days-lan-ha-bay-cruise-cat-ba-island
+  '2day-lan-ha-bay-cruise-cat-ba-island':
+    '2-days-lan-ha-bay-cruise-cat-ba-island',
+  // Vietnam / Ha Long: 3 pages -> 2-days-lan-ha-bay-hiking-biking-kayaking-2
+  '2-days-lan-ha-bay-hiking-biking-kayaking':
+    '2-days-lan-ha-bay-hiking-biking-kayaking-2',
+  'ha-long-kayaking-adventure-tour':
+    '2-days-lan-ha-bay-hiking-biking-kayaking-2',
+  // Vietnam / Ha Long: 3 pages -> 3-day-lan-ha-bay-cruise-cat-ba-island
+  '3-day-cat-ba-island-and-lan-ha-bay-cruise-with-meals':
+    '3-day-lan-ha-bay-cruise-cat-ba-island',
+  'lan-ha-bay-and-cat-ba-island-3-day-boat-cruise':
+    '3-day-lan-ha-bay-cruise-cat-ba-island',
+  // Vietnam / Ha Long: 2 pages -> cat-ba-island-and-lan-ha-bay-day-trip-with-cruise
+  'ha-long-bay-to-lan-ha-bay-cat-ba-island-day-tour':
+    'cat-ba-island-and-lan-ha-bay-day-trip-with-cruise',
+  // Vietnam / Ha Long: 2 pages -> ha-long-bay-1-or-2-day-5-star-cruise
+  '2-days-ha-long-bay-5-star-cruise':
+    'ha-long-bay-1-or-2-day-5-star-cruise',
+  // Vietnam / Ha Long: 2 pages -> ha-long-bay-2-day-1-night-or-3-day-2-night-on-a-luxury-cruise
+  'ha-long-bay-on-a-luxury-6-star-cruise-2-day-1-night-and-3-day-2-night':
+    'ha-long-bay-2-day-1-night-or-3-day-2-night-on-a-luxury-cruise',
+  // Vietnam / Ha Long: 2 pages -> ha-long-bay-day-trip-luxury-cruise
+  'ha-long-bay-day-trip-with-luxury-cruise':
+    'ha-long-bay-day-trip-luxury-cruise',
+  // Vietnam / Ha Long: 3 pages -> ha-long-bay-day-trip-luxury-cruise-and-buffet-lunch-2
+  'ha-long-bay-day-trip-luxury-cruise-and-buffet':
+    'ha-long-bay-day-trip-luxury-cruise-and-buffet-lunch-2',
+  'ha-long-luxury-full-day-tour':
+    'ha-long-bay-day-trip-luxury-cruise-and-buffet-lunch-2',
+  // Vietnam / Ha Long: 2 pages -> ha-long-bay-luxury-cruise-cave-kayak-and-titop-island-by-local-operator
+  'ha-long-bay-luxury-day-cruise-with-cave-kayak-titop-island-by-local-operator':
+    'ha-long-bay-luxury-cruise-cave-kayak-and-titop-island-by-local-operator',
+  // Vietnam / Ha Long: 2 pages -> halong-bay-2-day-1-night-cruise
+  '2-day-and-1-night-halong-bay-tour':
+    'halong-bay-2-day-1-night-cruise',
+  // Vietnam / Ha Long: 3 pages -> luxury-lan-ha-bay-cruise-on-2-day-1-night-or-3-day-2-night
+  'ha-long-bay-and-lan-ha-bay-2-day-1-night-or-3-day-2-night-with-a-luxury-cruise':
+    'luxury-lan-ha-bay-cruise-on-2-day-1-night-or-3-day-2-night',
+  'ha-long-bay-and-lan-ha-bay-luxury-cruise-2-days-1-night':
+    'luxury-lan-ha-bay-cruise-on-2-day-1-night-or-3-day-2-night',
+  // Vietnam / Ha Long: 2 pages -> my-son-sanctuary-thu-bon-river-cruise-from-hoi-an-ha-long
+  'my-son-sanctuary-and-thu-bon-river-cruise-from-hoi-an-ha-long':
+    'my-son-sanctuary-thu-bon-river-cruise-from-hoi-an-ha-long',
+  // Vietnam / Ha Long: 2 pages -> visit-ha-long-bay-on-a-luxury-6-star-cruise-for-2-day-1-night-or-3-day-2-night
+  'ha-long-bay-2-day-1-night-or-3-day-2-night-with-a-6-star-cruise':
+    'visit-ha-long-bay-on-a-luxury-6-star-cruise-for-2-day-1-night-or-3-day-2-night',
+  // Vietnam / Ha Long: 2 pages -> water-puppet-show-and-luxury-dinner-cruise-experience-in-ha-long
+  'water-puppet-show-and-dinner-cruise-in-ha-long':
+    'water-puppet-show-and-luxury-dinner-cruise-experience-in-ha-long',
+  // Vietnam / Hanoi: 2 pages -> 3-day-ha-giang-loop-with-safe-rider-max-8-pax-3-3
+  '3-day-ha-giang-loop-w-safe-rider-max-8pax':
+    '3-day-ha-giang-loop-with-safe-rider-max-8-pax-3-3',
+  // Vietnam / Hanoi: 2 pages -> 4-day-ha-giang-loop-w-safe-rider-max-8pax-in-hanoi
+  '4-day-ha-giang-loop-w-safe-rider-max-8-pax-2-2':
+    '4-day-ha-giang-loop-w-safe-rider-max-8pax-in-hanoi',
+  // Vietnam / Hanoi: 2 pages -> guided-street-food-tour-with-train-street-experience-in-hanoi
+  'guided-food-tour-with-train-street-visit-in-hanoi':
+    'guided-street-food-tour-with-train-street-experience-in-hanoi',
+  // Vietnam / Hanoi: 2 pages -> vegan-local-street-food-and-train-street-in-hanoi
+  'hanoi-vegan-street-food-and-train-street-tour-hanoi':
+    'vegan-local-street-food-and-train-street-in-hanoi',
+  // Vietnam / Hanoi: 2 pages -> water-puppet-show-tickets-skip-the-line-in-hanoi
+  'water-puppet-show-skip-the-line-entry-ticket-in-hanoi':
+    'water-puppet-show-tickets-skip-the-line-in-hanoi',
+  // Vietnam / Ho Chi Minh City: 2 pages -> city-highlights-and-unseen-tour-in-ho-chi-minh-city
+  'city-unseen-highlights-2h-tour-in-ho-chi-minh-city':
+    'city-highlights-and-unseen-tour-in-ho-chi-minh-city',
+  // Vietnam / Ho Chi Minh City: 2 pages -> cu-chi-tunnels-and-mekong-delta-day-trip
+  'cu-chi-tunnels-and-mekong-delta-day-tour':
+    'cu-chi-tunnels-and-mekong-delta-day-trip',
+  // Vietnam / Ho Chi Minh City: 2 pages -> cu-chi-tunnels-and-mekong-delta-history-river-life-and-culture-ho-chi-minh-city
+  'cu-chi-tunnels-and-mekong-delta-history-culture-and-river-life-ho-chi-minh-city':
+    'cu-chi-tunnels-and-mekong-delta-history-river-life-and-culture-ho-chi-minh-city',
+  // Vietnam / Ho Chi Minh City: 2 pages -> cu-chi-tunnels-guided-tour-2
+  'cu-chi-tunnels-tunnels-guided-tour':
+    'cu-chi-tunnels-guided-tour-2',
+  // Vietnam / Ho Chi Minh City: 2 pages -> discover-cu-chi-tunnels-morning-afternoon-tour-ho-chi-minh-city
+  'cu-chi-tunnels-morning-or-afternoon-tour-in-ho-chi-minh-city':
+    'discover-cu-chi-tunnels-morning-afternoon-tour-ho-chi-minh-city',
+  // Vietnam / Ho Chi Minh City: 2 pages -> hcm-mekong-delta-my-tho-and-ben-tre-coconut-village-ho-chi-minh-city
+  'hcm-mekong-delta-my-tho-and-ben-tre-coconut':
+    'hcm-mekong-delta-my-tho-and-ben-tre-coconut-village-ho-chi-minh-city',
+  // Vietnam / Ho Chi Minh City: 2 pages -> ho-chi-minh-city-history-and-culture-half-day-tour-by-local-operator
+  'ho-chi-minh-city-half-day-tour-markets-history-and-culture-by-local-operator':
+    'ho-chi-minh-city-history-and-culture-half-day-tour-by-local-operator',
+  // Vietnam / Ho Chi Minh City: 3 pages -> kisstour-in-ho-chi-minh-city-3
+  'cu-chi-tunnels-kisstour-guided-tour':
+    'kisstour-in-ho-chi-minh-city-3',
+  'ho-chi-minh-city-minh-guided-tour':
+    'kisstour-in-ho-chi-minh-city-3',
+  // Vietnam / Ho Chi Minh City: 2 pages -> mekong-delta-tour-with-lunch-and-boat-ride
+  'mekong-delta-boat-tour-with-local-lunch':
+    'mekong-delta-tour-with-lunch-and-boat-ride',
+  // Vietnam / Hoi An: 2 pages -> ba-na-hills-and-golden-bridge-day-trip-from-da-nang-hoi-an-by-local-operator
+  'ba-na-hills-and-golden-bridge-day-trip-from-da-nang-or-hoi-an-by-local-operator':
+    'ba-na-hills-and-golden-bridge-day-trip-from-da-nang-hoi-an-by-local-operator',
+  // Vietnam / Hoi An: 2 pages -> ba-na-hills-and-golden-bridge-full-day-tour
+  'golden-bridge-ba-na-hills-full-day-tour-in-hoi-an':
+    'ba-na-hills-and-golden-bridge-full-day-tour',
+  // Vietnam / Hoi An: 3 pages -> ba-na-hills-and-golden-bridge-tour-from-hoi-an-da-nang-by-local-operator
+  'ba-na-hills-and-golden-bridge-tour-from-da-nang-hoi-an-by-local-operator':
+    'ba-na-hills-and-golden-bridge-tour-from-hoi-an-da-nang-by-local-operator',
+  'from-da-nang-or-hoi-an-ba-na-hills-golden-bridge-tour-by-local-operator':
+    'ba-na-hills-and-golden-bridge-tour-from-hoi-an-da-nang-by-local-operator',
+  // Vietnam / Hoi An: 2 pages -> basket-boat-ride-cooking-class-by-hangcoconut-in-hoi-an
+  'market-tour-basket-boat-ride-and-cooking-class-by-hangcoconut-in-hoi-an':
+    'basket-boat-ride-cooking-class-by-hangcoconut-in-hoi-an',
+  // Vietnam / Hoi An: 2 pages -> cham-island-snorkeling-experience
+  'cham-island-daily-tour-with-snorkeling':
+    'cham-island-snorkeling-experience',
+  // Vietnam / Hoi An: 2 pages -> cham-islands-snorkeling-trip-by-speedboat-with-lunch
+  'cham-islands-snorkeling-trip-with-lunch':
+    'cham-islands-snorkeling-trip-by-speedboat-with-lunch',
+  // Vietnam / Hoi An: 2 pages -> coconut-forest-basket-boat-ride-with-pickup-in-hoi-an
+  'basket-boat-ride-with-local-guide-in-coconut-forest-in-hoi-an':
+    'coconut-forest-basket-boat-ride-with-pickup-in-hoi-an',
+  // Vietnam / Hoi An: 3 pages -> hoai-river-boat-trip-by-night-and-floating-lantern-in-hoi-an-2
+  'hoai-river-night-boat-trip-and-floating-lantern-in-hoi-an':
+    'hoai-river-boat-trip-by-night-and-floating-lantern-in-hoi-an-2',
+  'hoi-an-night-evening-tour':
+    'hoai-river-boat-trip-by-night-and-floating-lantern-in-hoi-an-2',
+  // Vietnam / Hoi An: 2 pages -> hoi-an-hidden-food-adventure-by-local-operator
+  'hoi-an-food-tour-by-local-operator':
+    'hoi-an-hidden-food-adventure-by-local-operator',
+  // Vietnam / Hoi An: 2 pages -> hoi-an-memories-land-entry-ticket-with-show-by-local-operator
+  'hoi-an-memories-show-and-land-entry-ticket-by-local-operator':
+    'hoi-an-memories-land-entry-ticket-with-show-by-local-operator',
+  // Vietnam / Hoi An: 2 pages -> marble-and-monkey-mountains-with-am-phu-cave-in-hoi-an
+  'marble-mountain-am-phu-cave-and-monkey-mountain-in-hoi-an':
+    'marble-and-monkey-mountains-with-am-phu-cave-in-hoi-an',
+  // Vietnam / Hoi An: 6 pages -> marble-mountains-am-phu-cave-and-lady-buddha
+  'lady-buddha-marble-mountains-am-phu-cave-tour-2':
+    'marble-mountains-am-phu-cave-and-lady-buddha',
+  'marble-mountain-am-phu-cave-and-lady-buddha-2':
+    'marble-mountains-am-phu-cave-and-lady-buddha',
+  'marble-mountain-am-phu-cave-lady-buddha-tour':
+    'marble-mountains-am-phu-cave-and-lady-buddha',
+  'marble-mountains-am-phu-cave-lady-buddha':
+    'marble-mountains-am-phu-cave-and-lady-buddha',
+  'marble-mountains-lady-buddha-and-am-phu-cave-tour':
+    'marble-mountains-am-phu-cave-and-lady-buddha',
+  // Vietnam / Hoi An: 2 pages -> market-tour-basket-boat-ride-cooking-class-in-hoi-an
+  'cooking-class-market-visit-and-basket-boat-ride-in-hoi-an':
+    'market-tour-basket-boat-ride-cooking-class-in-hoi-an',
+  // Vietnam / Hoi An: 2 pages -> my-son-sanctuary-guided-half-day-tour
+  'my-son-sanctuary-half-day-tour':
+    'my-son-sanctuary-guided-half-day-tour',
+  // Vietnam / Hoi An: 2 pages -> snorkeling-or-scuba-diving-in-cham-islands
+  'cham-island-snorkeling-and-scuba-diving':
+    'snorkeling-or-scuba-diving-in-cham-islands',
+  // Vietnam / Sapa: 2 pages -> 2-day-sapa-tour-trekking-and-homestay-experience
+  '2-day-sapa-trekking-tour-with-homestay-and-meals':
+    '2-day-sapa-tour-trekking-and-homestay-experience',
+  // Vietnam / Sapa: 2 pages -> 4-day-trekking-tour-with-homestay-in-sapa
+  '4-day-trekking-tour-with-homestay-and-meals-in-sapa':
+    '4-day-trekking-tour-with-homestay-in-sapa',
+  // Vietnam / Sapa: 2 pages -> sapa-trekking-tour-overnight-in-ta-van-village-2-days
+  'sapa-tour-overnight-in-ta-van-village-all-in-one-2-days':
+    'sapa-trekking-tour-overnight-in-ta-van-village-2-days',
+  // Vietnam / Sapa: 3 pages -> trekking-to-y-linh-ho-lao-chai-and-ta-van-villages-in-sapa
+  'sapa-trekking-adventure-tour':
+    'trekking-to-y-linh-ho-lao-chai-and-ta-van-villages-in-sapa',
+  'y-linh-ho-lao-chai-and-ta-van-trekking-tour-in-sapa-2':
+    'trekking-to-y-linh-ho-lao-chai-and-ta-van-villages-in-sapa',
 };
 
 export const canonicalSlugFor = (slug: string) => DUPLICATE_CANONICAL_MAP[slug] || slug;
