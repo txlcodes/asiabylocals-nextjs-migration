@@ -298,6 +298,8 @@ const SIEM_REAP_SIDEBAR = [
     { name: 'Money & Costs', slug: 'siem-reap-money-and-costs' },
     { name: 'Preah Vihear', slug: 'preah-vihear-temple-guide' },
     { name: 'Angkor in the Rains', slug: 'angkor-temples-in-the-rainy-season' },
+    { name: 'Limited Mobility', slug: 'angkor-with-limited-mobility' },
+    { name: 'Where to Watch Sunset', slug: 'angkor-sunset-where-to-go' },
 ];
 
 const KRABI_SIDEBAR = [

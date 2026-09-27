@@ -189,6 +189,8 @@ export const SIEM_REAP_INFO_SLUGS = [
     'siem-reap-money-and-costs',
     'preah-vihear-temple-guide',
     'angkor-temples-in-the-rainy-season',
+    'angkor-with-limited-mobility',
+    'angkor-sunset-where-to-go',
 ];
 
 export const KRABI_INFO_SLUGS = [

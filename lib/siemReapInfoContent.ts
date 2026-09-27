@@ -1193,6 +1193,98 @@ export function getSiemReapInfoContent(slug: string): CityInfoData | null {
                     { q: 'Is November wet or dry at Angkor?', a: 'It is the turn, and widely the best month of the year - the rains have stopped, the landscape is still green, the lake is still full from the monsoon, and peak pricing has not fully arrived.' },
                 ],
             };
+        case 'angkor-with-limited-mobility':
+            return {
+                title: 'Angkor With Limited Mobility: What Is Reachable and What Is Not',
+                seoTitle: 'Angkor Accessibility: Wheelchair & Mobility Guide',
+                description: 'An honest look at Angkor with a wheelchair, a walking stick or bad knees - which temples work, where the ramps are, and which stairs cannot be avoided.',
+                heroImage: IMG.smallCircuit,
+                fastFacts: [
+                    { icon: 'Star', label: 'Most workable', value: 'Angkor Wat ground level' },
+                    { icon: 'AlertTriangle', label: 'Not reachable', value: 'Angkor Wat upper level' },
+                    { icon: 'MapPin', label: 'Best surface', value: 'Terrace of the Elephants' },
+                    { icon: 'Info', label: 'Vehicle', value: 'Car, not tuk-tuk' },
+                ],
+                sections: [
+                    {
+                        title: 'The honest picture',
+                        icon: 'Info',
+                        content: "Angkor is a nine-hundred-year-old sandstone city and nothing about it was designed for wheels. That said, a great deal more of it is reachable than most people assume, and the difference between a good day and a bad one is planning rather than luck.\n\n**What works in your favour**: the park is **flat**, the causeways and main approaches are broad, drivers can bring a car very close to most entrances, and there is no requirement to walk between temples - you are driven.\n\n**What does not**: thresholds. Khmer temples are built with raised stone sills in every doorway, often thirty centimetres or more, and they are everywhere. Galleries have steps between levels. Surfaces are uneven sandstone, loose gravel or, at Ta Prohm and Beng Mealea, rubble.\n\n**The single hardest fact**: the **upper level of Angkor Wat**, the central sanctuary, is reached only by a steep modern staircase. There is no lift and no alternative route. It cannot be done in a wheelchair and it is hard with bad knees. Everything else at Angkor Wat - the causeway, the outer gallery with its 600 metres of bas-relief, the courtyards - is on the flat.\n\nAn electric wheelchair or a strong pusher makes a very large difference, as does a **licensed guide told in advance** what you need.",
+                        tourCard: CARD.smallCircuit,
+                    },
+                    {
+                        title: 'Temple by temple',
+                        icon: 'MapPin',
+                        content: "**Angkor Wat** - the causeway is broad and mostly smooth, and a temporary floating causeway has been in use during restoration work. The outer gallery, where the great bas-reliefs are, is at ground level and is the best carving in the temple. The upper level is stairs only. **Verdict: most of what matters is reachable.**\n\n**Angkor Thom's south gate** - you can be driven through it and stop. The causeway of gods and demons is viewable from the vehicle or a few steps from it. **Easy.**\n\n**The Bayon** - the hardest of the famous three. The outer gallery, which carries the everyday-life carvings worth seeing, is at ground level but with thresholds. The upper terrace with the faces is up narrow steep steps. **Partly reachable; the faces are not.**\n\n**Terrace of the Elephants and Terrace of the Leper King** - 350 metres of carved wall viewed from a flat open area alongside. **The best single stop**, and the one to prioritise.\n\n**Ta Prohm** - wooden walkways carry most of the route, which helps, but there are steps on and off them and rubble at the edges. **Partly reachable with help.**\n\n**Banteay Srei** - small, flat approach, and the temple is viewed from walkways since the towers are roped off anyway. **Among the better options.**\n\n**Beng Mealea, Koh Ker, Phnom Bakheng, Preah Vihear** - not realistic.",
+                    },
+                    {
+                        title: 'Practical arrangements',
+                        icon: 'Clock',
+                        content: "**Take a car, not a tuk-tuk.** A tuk-tuk requires a step up and offers nothing to hold. A private car with driver is USD 35-55 a day, air-conditioned, and the driver will position it as close as the barriers allow - which at several temples is very close.\n\n**Tell the guide in advance.** A licensed guide who knows what you need will reorder the day, pick entrances rather than the standard ones, and know which side of a temple has the flatter approach. Booked blind, they will take the usual route.\n\n**Go early and stop early.** Heat compounds everything, and from March to May the middle of the day is genuinely dangerous for anyone who tires easily. Out at 05:30, back by 11:00.\n\n**The Angkor Pass** must be bought in person at the Angkor Enterprise office with your photograph taken - there is no postal or proxy option. The office is drive-up.\n\n**Toilets** at the main temples are reasonable; at the outlying ones they are not.\n\n**Hotels.** Ask specifically about a step-free room and bathroom rather than trusting a listing - see [where to stay](/cambodia/siem-reap/where-to-stay-in-siem-reap). The newer mid-range pool hotels are generally better on this than the heritage properties.\n\n**Siem Reap-Angkor International** is a 2023 airport and step-free throughout, though the run into town is 45 km and 45-60 minutes.",
+                        tourCard: CARD.transfer,
+                    },
+                    {
+                        title: 'The alternatives worth building a trip around',
+                        icon: 'Star',
+                        content: "If the temples are going to be limited, several of the best things in Siem Reap are not temples at all.\n\n**A [countryside drive](/cambodia/siem-reap/best-time-to-visit-siem-reap) in the late afternoon** - rice fields, sugar palms and villages five minutes off the temple road, all of it seen from the vehicle, with the light doing the work.\n\n**[Phare, the Cambodian Circus](/cambodia/siem-reap/siem-reap-nightlife-and-pub-street)** - a big top with proper seating, ninety minutes, step-free access. It is the best evening in the country and mobility is not a factor.\n\n**A Tonle Sap boat**, with a caveat: getting on and off the boat is the hard part and it varies by pier and by season. Ask the operator directly rather than assuming - the [floating village guide](/cambodia/siem-reap/tonle-sap-floating-villages-guide) covers which village suits which month.\n\n**A cooking class** - seated, indoors, and most schools will accommodate if told.\n\n**The Angkor National Museum** in town is modern, air-conditioned and step-free, and it is the best place to actually understand what you are looking at in the park.\n\n**Sunset from a vehicle.** Pre Rup requires a climb, but the western baray and several roadside points give you the light without the steps.",
+                        tourCard: CARD.circus,
+                    },
+                ],
+                faqs: [
+                    { q: 'Is Angkor Wat wheelchair accessible?', a: 'The causeway, the courtyards and the outer gallery with its 600 metres of bas-relief are at ground level and reachable. The upper level - the central sanctuary - is a steep staircase with no lift and no alternative route, so it is not.' },
+                    { q: 'Which Angkor temples are easiest with limited mobility?', a: 'The Terrace of the Elephants is the best single stop - 350 metres of carved wall viewed from flat open ground. Angkor Wat at ground level and Banteay Srei, which is small and seen from walkways, are the next best.' },
+                    { q: 'Can I see the Bayon faces with a wheelchair?', a: 'No. The upper terrace where the faces are is up narrow steep steps. The outer gallery at ground level, which carries the everyday-life carvings most visitors walk past, is partly reachable with thresholds to negotiate.' },
+                    { q: 'Should I use a tuk-tuk or a car at Angkor with mobility issues?', a: 'A car. A tuk-tuk needs a step up and gives you nothing to hold. A private car with driver is USD 35-55 a day, air-conditioned, and the driver will get you as close to each entrance as the barriers allow.' },
+                    { q: 'Do I have to collect the Angkor Pass in person?', a: 'Yes - they photograph you at the counter and print your face on the pass, so there is no postal or proxy option. The Angkor Enterprise ticket office is drive-up, and the pass is checked at every temple.' },
+                    { q: 'What can I do at Siem Reap if the temples are too hard?', a: 'Phare’s circus has proper seating and step-free access, the Angkor National Museum in town is modern and air-conditioned, a late-afternoon countryside drive works entirely from the vehicle, and a cooking class is seated throughout.' },
+                ],
+            };
+
+        case 'angkor-sunset-where-to-go':
+            return {
+                title: 'Angkor at Sunset: Why Everyone Goes to the Wrong Hill',
+                seoTitle: 'Angkor Sunset: Pre Rup vs Phnom Bakheng',
+                description: 'Phnom Bakheng caps its numbers and queues from mid-afternoon. Pre Rup, the western baray and Srah Srang give better light with no crowd control.',
+                heroImage: IMG.grandCircuit,
+                fastFacts: [
+                    { icon: 'Star', label: 'Best temple sunset', value: 'Pre Rup' },
+                    { icon: 'AlertTriangle', label: 'Phnom Bakheng', value: 'Capped, queues from mid-afternoon' },
+                    { icon: 'Clock', label: 'Park closes', value: '18:30 (Bakheng 19:00)' },
+                    { icon: 'MapPin', label: 'No climb', value: 'Western baray, Srah Srang' },
+                ],
+                sections: [
+                    {
+                        title: 'The Bakheng problem',
+                        icon: 'AlertTriangle',
+                        content: "**Phnom Bakheng** is the sunset every tour sells, and it is the one to avoid.\n\nIt is a genuine hill temple - late 9th century, the first state temple built at Angkor, on a natural rise with a view over the plain and a distant glimpse of Angkor Wat's towers. On paper it is perfect.\n\nIn practice: the summit **caps the number of visitors allowed up**, for conservation reasons, and on a dry-season afternoon the queue at the bottom starts forming in the **middle of the afternoon**. People spend two hours of their one temple day standing on a path to watch the sun go down shoulder to shoulder with three hundred others.\n\nThe view is also not what people expect. Angkor Wat is **distant** from up there - a small silhouette, not a foreground. What you are looking at is mostly forest canopy, which is lovely and is not the photograph people came for.\n\nIt stays open until **19:00** when the rest of the park closes at 18:30, which is the one concrete thing in its favour.\n\nIf you are set on it, arrive by 16:00 and accept the wait. Otherwise, read on.",
+                        tourCard: CARD.grandCircuit,
+                    },
+                    {
+                        title: 'Pre Rup, which is simply better',
+                        icon: 'Star',
+                        content: "**Pre Rup** is a 10th-century temple-mountain on the [grand circuit](/cambodia/siem-reap/angkor-temples-small-vs-grand-circuit), and it is the sunset most guides will take you to if you ask.\n\n**The stone does the work.** Pre Rup is built largely of **laterite and brick** rather than the grey sandstone of the later temples. Laterite is rust-red and it takes low sun extraordinarily - in the last half hour the whole structure glows in a way Angkor Wat's grey sandstone never does.\n\n**There is no cap and no queue.** You walk up when you arrive.\n\n**The view is forest to the horizon**, with the towers of the temple itself as foreground - which is the shot, rather than a distant silhouette.\n\n**It is a climb**, steep stone stairs to the upper terrace, and that is the trade. Anyone unsteady should see the [mobility guide](/cambodia/siem-reap/angkor-with-limited-mobility).\n\nThe name means \"turning the body\" and the temple is traditionally associated with funerary rites, which the guides will tell you and the inscriptions do not confirm. It is a good story and the stone tub in the eastern courtyard makes it stick.\n\n**Get there by 17:00** for a 17:45-18:15 sunset depending on the month, and be off the terrace by closing at 18:30.",
+                    },
+                    {
+                        title: 'The sunsets with no climb at all',
+                        icon: 'MapPin',
+                        content: "**Srah Srang**, the royal bathing pond opposite Banteay Kdei, is the most underrated sunset at Angkor. A stone landing with naga balustrades looks west over 700 metres of open water. You sit on the steps. That is the whole thing, and on a still evening the reflection is better than anything you will get from a hilltop. Almost nobody is there because it is not on the tour scripts.\n\n**The West Baray** is an enormous artificial reservoir - eight kilometres by two, built in the 11th century and still holding water - on the western edge of the park. Cambodian families come out here at weekends to swim, eat and sit. It is a sunset over open water with a local crowd rather than a tourist one, and it is free.\n\n**Angkor Wat's moat**, from the western causeway, after the crowds have gone to Bakheng. The light on the water and the towers behind it, with the park emptying around you, and **blue hour afterwards** which very few people stay for - see the [photography guide](/cambodia/siem-reap/angkor-photography-guide).\n\n**The countryside**, five minutes off the temple road: rice fields, sugar palms, and the light doing what it does. A [tuk-tuk out at four](/cambodia/siem-reap/best-time-to-visit-siem-reap) costs almost nothing.\n\n**Phnom Krom**, a hill temple towards the Tonle Sap, gives a sunset over the lake. Further out, a climb, and worth it if you are doing the [floating villages](/cambodia/siem-reap/tonle-sap-floating-villages-guide) that afternoon anyway.",
+                        tourCard: CARD.countryside,
+                    },
+                    {
+                        title: 'Timing, seasons and the rules',
+                        icon: 'Clock',
+                        content: "**The park closes at 18:30.** Phnom Bakheng is the exception at 19:00. Guards clear the temples and they mean it, so plan to be walking back at closing rather than still climbing down.\n\n**Sunset times** run roughly 17:40 to 18:20 across the year - Cambodia is close to the equator so the swing is small, and dusk is short. The light goes quickly once it starts.\n\n**Season matters more than the spot.** In the dry months the sky is often an empty pale blue that photographs as nothing. In and just after the rains, **June to November**, there is cloud with structure in it and the colour is far better. The [rainy season page](/cambodia/siem-reap/angkor-temples-in-the-rainy-season) makes the full argument.\n\n**Your Angkor Pass** is checked on the way in as usual, and a sunset does not need a separate ticket.\n\n**Take a torch.** Coming down Pre Rup's stairs in the dark is the one genuinely risky moment of an Angkor day, and the road back to town is unlit in places if you are cycling.\n\n**Mosquitoes** arrive with dusk. Repellent before you settle in, not after.\n\n**A last practical point**: after sunset every vehicle in the park leaves at once. Agree with your driver exactly where he will be, because a car park in the dark with three hundred identical tuk-tuks is its own adventure.",
+                    },
+                ],
+                faqs: [
+                    { q: 'Where is the best sunset at Angkor?', a: 'Pre Rup. It is built of laterite and brick rather than grey sandstone, so it glows rust-red in the last half hour, there is no cap on numbers and no queue, and the view is forest to the horizon with the temple towers as foreground.' },
+                    { q: 'Is Phnom Bakheng worth it for sunset?', a: 'Rarely. The summit caps visitor numbers and the queue starts forming in the middle of the afternoon, so you can spend two hours of your temple day waiting. Angkor Wat is also distant from up there - a small silhouette rather than a foreground.' },
+                    { q: 'Is there a sunset spot at Angkor without a climb?', a: 'Srah Srang, the royal bathing pond - a stone landing with naga balustrades looking west over 700 metres of water, where you simply sit on the steps. The West Baray is the other, an 8 km reservoir where Cambodian families come out at weekends.' },
+                    { q: 'What time does Angkor close?', a: '18:30 for the park, with Phnom Bakheng open until 19:00. Sunset runs roughly 17:40 to 18:20 across the year and dusk is short, so plan to be walking back at closing rather than still climbing down.' },
+                    { q: 'What is the best season for sunset at Angkor?', a: 'June to November. Dry-season skies are often an empty pale blue that photographs as nothing, while monsoon cloud has structure in it and takes colour far better. You are gambling on the cloud not being total.' },
+                    { q: 'Do I need a separate ticket for sunset at Angkor?', a: 'No, your Angkor Pass covers it and is checked on the way in as usual. Take a torch though - coming down Pre Rup’s stairs in the dark is the one genuinely risky moment of an Angkor day.' },
+                ],
+            };
         default:
             return null;
     }
