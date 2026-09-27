@@ -5,6 +5,15 @@ import { ITINERARY_COUNTRIES, getItinerarySlugs } from '@/lib/japanItineraries';
 import { CITY_URL_MAP } from '@/lib/constants';
 import { REDIRECTED_SLUGS } from '@/lib/redirectedSlugs';
 
+// ⚠️ Without this the sitemap is a fully static route: Next builds it once per
+// deploy and serves that copy for ever (x-nextjs-cache: HIT on every request),
+// so the `revalidate: 3600` on the tour fetch below never gets a chance to
+// matter. Approving 804 Cambodian tours put 187 of them in the sitemap and
+// left 617 invisible to Google until somebody happened to deploy. Tours are
+// approved from a script, not from a commit, so "it updates on the next
+// deploy" means "it updates whenever, if ever".
+export const revalidate = 3600;
+
 const BASE_URL = 'https://www.asiabylocals.com';
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:3001';
 
