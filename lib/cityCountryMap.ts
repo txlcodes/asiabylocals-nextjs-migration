@@ -87,6 +87,7 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'busan': { country: 'south-korea', city: 'busan' },
   'seoul': { country: 'south-korea', city: 'seoul' },
   'kashmir': { country: 'india', city: 'kashmir' },
+  'lucknow': { country: 'india', city: 'lucknow' },
   'dubai': { country: 'uae', city: 'dubai' },
   'abu-dhabi': { country: 'uae', city: 'abu-dhabi' },
   'singapore': { country: 'singapore', city: 'singapore' },

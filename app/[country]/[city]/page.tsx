@@ -244,7 +244,11 @@ export default async function CityPage({ params }: Props) {
   // mint a fresh indexable duplicate. Known cities under the wrong country are
   // 308-redirected in middleware.ts before they ever reach here; this catches
   // the rest. See lib/cityCountryMap.ts for the source of truth.
-  if (!VALID_COUNTRIES.has(country.toLowerCase()) && !CITY_URL_MAP[city.toLowerCase()]) {
+  // `&&` here let every made-up city under a real country through: /cambodia/foobar,
+  // /japan/xyztest and /india/madeupcity all returned 200 with an empty "No tours
+  // found" body, which is an unbounded supply of thin pages for anyone who links
+  // one. The city itself has to be known; the country check stays for the rest.
+  if (!CITY_URL_MAP[city.toLowerCase()] || !VALID_COUNTRIES.has(country.toLowerCase())) {
     notFound();
   }
 
