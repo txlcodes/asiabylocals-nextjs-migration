@@ -54,3 +54,87 @@ export const CITY_H1: Record<Lang | 'en', (city: string) => string> = {
   de: c => `Geführte Touren und Aktivitäten in ${c}`,
   es: c => `Tours guiados y actividades en ${c}`,
 };
+
+// City-page chrome. Every string below was hardcoded English inside
+// CityPageClient, so a visitor on /fr/india/agra read a French H1 and French
+// tour cards wrapped in "Starting from", "Show more" and "Sort by:". The page
+// already resolves `lang` on the server, so it is passed down as a prop and the
+// route decides the chrome — the localStorage switcher only governs the neutral
+// English routes, where a crawler has no language to infer anyway.
+export const CITY_UI: Record<Lang | 'en', Record<string, string>> = {
+  en: {
+    back: 'Back', noImage: 'No image', topRated: 'Top rated', startingFrom: 'Starting from',
+    showMore: 'Show more', expanding: "We're currently expanding our offerings. Check back soon for new experiences!",
+    refresh: 'Refresh Results', guidesBlurb: 'Researched guides on timing, tides, queues and what each place is really like.',
+    dates: 'Dates', dayTrips: 'Day trips', multiDay: 'Multi-day', photography: 'Photography',
+    sunrise: 'Sunrise', privateTours: 'Private tours', walkingTours: 'Walking tours', filters: 'Filters',
+    sortBy: 'Sort by:', sortRecommended: 'Recommended', sortPriceLow: 'Price: Low to High',
+    sortPriceHigh: 'Price: High to Low', noToursYet: 'No tours available yet',
+    tryFilters: 'Try adjusting your filters',
+  },
+  fr: {
+    back: 'Retour', noImage: 'Pas d’image', topRated: 'Les mieux notées', startingFrom: 'À partir de',
+    showMore: 'Voir plus', expanding: 'Nous étoffons actuellement notre offre. Revenez bientôt pour de nouvelles expériences.',
+    refresh: 'Actualiser les résultats', guidesBlurb: 'Des guides documentés sur les horaires, les marées, les files d’attente et ce que chaque lieu est vraiment.',
+    dates: 'Dates', dayTrips: 'Excursions à la journée', multiDay: 'Plusieurs jours', photography: 'Photographie',
+    sunrise: 'Lever du soleil', privateTours: 'Visites privées', walkingTours: 'Visites à pied', filters: 'Filtres',
+    sortBy: 'Trier par :', sortRecommended: 'Recommandé', sortPriceLow: 'Prix : croissant',
+    sortPriceHigh: 'Prix : décroissant', noToursYet: 'Aucune visite disponible pour l’instant',
+    tryFilters: 'Essayez d’ajuster vos filtres',
+  },
+  de: {
+    back: 'Zurück', noImage: 'Kein Bild', topRated: 'Bestbewertet', startingFrom: 'Ab',
+    showMore: 'Mehr anzeigen', expanding: 'Wir bauen unser Angebot gerade aus. Schauen Sie bald wieder vorbei für neue Erlebnisse.',
+    refresh: 'Ergebnisse aktualisieren', guidesBlurb: 'Recherchierte Reiseführer zu Zeiten, Gezeiten, Warteschlangen und dazu, wie jeder Ort wirklich ist.',
+    dates: 'Termine', dayTrips: 'Tagesausflüge', multiDay: 'Mehrtägig', photography: 'Fotografie',
+    sunrise: 'Sonnenaufgang', privateTours: 'Private Touren', walkingTours: 'Rundgänge', filters: 'Filter',
+    sortBy: 'Sortieren nach:', sortRecommended: 'Empfohlen', sortPriceLow: 'Preis: aufsteigend',
+    sortPriceHigh: 'Preis: absteigend', noToursYet: 'Noch keine Touren verfügbar',
+    tryFilters: 'Passen Sie Ihre Filter an',
+  },
+  es: {
+    back: 'Volver', noImage: 'Sin imagen', topRated: 'Mejor valorados', startingFrom: 'Desde',
+    showMore: 'Ver más', expanding: 'Estamos ampliando nuestra oferta. Vuelva pronto para ver nuevas experiencias.',
+    refresh: 'Actualizar resultados', guidesBlurb: 'Guías documentadas sobre horarios, mareas, colas y cómo es de verdad cada lugar.',
+    dates: 'Fechas', dayTrips: 'Excursiones de un día', multiDay: 'Varios días', photography: 'Fotografía',
+    sunrise: 'Amanecer', privateTours: 'Visitas privadas', walkingTours: 'Visitas a pie', filters: 'Filtros',
+    sortBy: 'Ordenar por:', sortRecommended: 'Recomendado', sortPriceLow: 'Precio: de menor a mayor',
+    sortPriceHigh: 'Precio: de mayor a menor', noToursYet: 'Aún no hay tours disponibles',
+    tryFilters: 'Pruebe a ajustar los filtros',
+  },
+};
+
+// The city name sits inside these rather than in front of them, so they are
+// templates. "Aucune visite trouvée dans Agra" needs the preposition the
+// language actually uses, and a results count needs its own plural.
+export const CITY_TPL: Record<Lang | 'en', {
+  noToursFound: (city: string) => string;
+  everythingBefore: (city: string) => string;
+  results: (n: number, city: string) => string;
+  beTheFirst: (city: string) => string;
+}> = {
+  en: {
+    noToursFound: c => `No tours found in ${c}`,
+    everythingBefore: c => `Everything You Need to Know Before Visiting ${c}`,
+    results: (n, c) => `${n} ${n === 1 ? 'result' : 'results'}: ${c}`,
+    beTheFirst: c => `Be the first to create a tour in ${c}!`,
+  },
+  fr: {
+    noToursFound: c => `Aucune visite trouvée à ${c}`,
+    everythingBefore: c => `Tout ce qu’il faut savoir avant de visiter ${c}`,
+    results: (n, c) => `${n} ${n === 1 ? 'résultat' : 'résultats'} : ${c}`,
+    beTheFirst: c => `Soyez le premier à créer une visite à ${c} !`,
+  },
+  de: {
+    noToursFound: c => `Keine Touren in ${c} gefunden`,
+    everythingBefore: c => `Alles, was Sie vor einem Besuch in ${c} wissen sollten`,
+    results: (n, c) => `${n} ${n === 1 ? 'Ergebnis' : 'Ergebnisse'}: ${c}`,
+    beTheFirst: c => `Seien Sie der Erste, der eine Tour in ${c} erstellt!`,
+  },
+  es: {
+    noToursFound: c => `No se han encontrado tours en ${c}`,
+    everythingBefore: c => `Todo lo que hay que saber antes de visitar ${c}`,
+    results: (n, c) => `${n} ${n === 1 ? 'resultado' : 'resultados'}: ${c}`,
+    beTheFirst: c => `Sea el primero en crear un tour en ${c}.`,
+  },
+};

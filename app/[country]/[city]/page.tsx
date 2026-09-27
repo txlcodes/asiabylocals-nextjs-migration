@@ -447,7 +447,7 @@ export default async function CityPage({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <CityPageClient tours={tours} city={cityName} country={countryName}
+      <CityPageClient tours={tours} city={cityName} country={countryName} lang={lang ?? undefined}
         h1={cityT(lang, city.toLowerCase())?.h1 || CITY_H1[lang || 'en'](cityName)} />
     </>
   );
