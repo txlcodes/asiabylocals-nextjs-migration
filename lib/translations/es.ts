@@ -64566,5 +64566,369 @@ export const ES_ITINERARIES: Record<string, ItineraryT> = {
     "answer": "Los trenes abren 60 días antes de la salida en IRCTC y el Gatimaan Express se llena en temporada, así que resérvalo el día que confirmes fechas. Los hoteles de Udaipur y Jaisalmer con vistas al lago o al fuerte son la otra restricción de noviembre a febrero. Guías y tours se pueden organizar más cerca, pero los turnos de amanecer en el Taj y los campamentos del desierto conviene cerrarlos unas semanas antes."
    }
   ]
+ },
+ "vietnam:3-days": {
+  "title": "3 días en Vietnam: Hanói y la bahía de Ha Long",
+  "metaTitle": "Vietnam en 3 días: Hanói y la bahía de Ha Long",
+  "metaDescription": "Un itinerario realista de 3 días por Vietnam: el casco antiguo de Hanói y un día completo en la bahía de Ha Long, con horarios y renuncias explicadas.",
+  "routeSummary": "Hanói → bahía de Ha Long → Hanói",
+  "quickAnswer": "Con tres días en Vietnam, quédese en el norte. Dos días en Hanói para el casco antiguo, la comida callejera y una mañana en el lago, y un día completo a la bahía de Ha Long. No intente añadir el centro ni el sur: solo los vuelos internos se comerían uno de los tres días.",
+  "intro": "Tres días son una sola región, y en Vietnam el norte es la que más da en ese tiempo. Hanói es lo bastante compacta para recorrerla a pie, y Ha Long lo bastante cercana para ir y volver en el día. La tentación es colar Hoi An o Saigón; resístase, porque cada una cuesta un vuelo y medio día de aeropuertos.",
+  "bestFor": "Una primera visita, un fin de semana largo o una escala alargada hasta convertirse en algo que merece la pena.",
+  "days_detail": [
+   {
+    "day": 1,
+    "base": "Hanói",
+    "heading": "El casco antiguo, a pie",
+    "narrative": "Empiece temprano. Hanói está en su mejor momento antes de las ocho, cuando los mercados son más ruidosos y los puestos de pho están más llenos, y buena parte de eso ha terminado a las nueve.\n\nCamine por el casco antiguo sin lista. Las treinta y seis calles eran cada una un gremio de oficio y la mayoría siguen vendiendo más o menos lo que siempre vendieron, así que el género cambia a ambos lados en casi cada cruce. Ese patrón es la atracción.\n\nPase el centro caluroso del día bajo techo, en el templo de la Literatura o en el museo de la Mujer, y vuelva a salir a las cinco. Por la noche, coma donde haya cola de vecinos; esa regla sirve aquí mejor que cualquier lista.",
+    "travel": null,
+    "tip": "Cruce la calle a un paso lento y constante, y siga andando. Las motos le esquivan; pararse de golpe es lo que causa el problema."
+   },
+   {
+    "day": 2,
+    "base": "Bahía de Ha Long",
+    "heading": "Un día completo sobre el agua",
+    "narrative": "El viaje son unas dos horas y media en cada sentido por la autopista, así que es un día de doce horas de puerta a puerta, y un traslado compartido añade encima una hora de recogidas en hoteles.\n\nUn crucero de un día le pone en la bahía a mediodía, que es la franja más concurrida y la luz más plana. Ese es el intercambio honesto: ve los karsts, pero no los tiene en calma. Un día típico encadena una cueva, una parada de kayak o barca de bambú, un baño en temporada y el almuerzo a bordo.\n\nSi puede mover una noche de Hanói al barco, hágalo. Es la mayor mejora disponible en tres días.",
+    "travel": "Hanói a Ha Long: unas 2,5 horas en cada sentido por carretera",
+    "tip": "Reserve un traslado privado en lugar de uno compartido. A partir de dos personas es el cambio con mejor relación calidad-precio de este día y elimina por completo la ronda de recogidas."
+   },
+   {
+    "day": 3,
+    "base": "Hanói",
+    "heading": "Marionetas de agua, café y un último paseo",
+    "narrative": "Deje este día ligero, porque probablemente vuele. El teatro de marionetas de agua dura una hora y es genuinamente antiguo, no montado para visitantes: la forma viene de los arrozales inundados.\n\nEl café con huevo es la otra cosa que hacer antes de marcharse: yema batida y leche condensada sobre café caliente, inventado en Hanói cuando la leche escaseaba, y más cerca de un postre que de una bebida.\n\nSi su vuelo es tarde, añada los pueblos artesanos a una hora de la ciudad: Bat Trang para cerámica o Quang Phu Cau para incienso.",
+    "travel": null,
+    "tip": "El aeropuerto de Noi Bai está a unos 45 minutos del casco antiguo, más con el pico de la tarde. Deje más margen del que sugiere el mapa."
+   }
+  ],
+  "logistics": [
+   {
+    "heading": "Cómo moverse",
+    "content": "Hanói se camina en el centro y las aplicaciones de transporte cubren el resto por poco dinero. Para Ha Long, reserve el traslado con el crucero en lugar de por separado: los barcos no esperan."
+   },
+   {
+    "heading": "Cuándo venir",
+    "content": "De octubre a diciembre y de marzo a abril son las mejores ventanas: seco, suave y claro. El verano es caluroso, húmedo y lluvioso. Enero y febrero son frescos y a menudo con llovizna, y la bahía queda bajo una niebla que es bonita en persona y que en foto sale como un cielo blanco y plano."
+   },
+   {
+    "heading": "Lo que este itinerario deja fuera",
+    "content": "Todo lo que está al sur de Hanói. Hoi An queda a un vuelo, Saigón a dos horas de avión y Sapa a cinco o seis horas por carretera en cada sentido. Ninguno entra en tres días sin convertir el viaje en transporte."
+   }
+  ],
+  "faqs": [
+   {
+    "question": "¿Puedo añadir Sapa a tres días?",
+    "answer": "No. Sapa está a cinco o seis horas de Hanói en cada sentido, así que una visita necesita dos noches para valer algo, y eso es la mayor parte de este itinerario. Todo lo que se vende como excursión de un día a Sapa desde Hanói es un viaje en autobús con una parada corta en medio."
+   },
+   {
+    "question": "¿Merece la pena un día en Ha Long, o mejor saltárselo?",
+    "answer": "Merece la pena. Un crucero de un día le da la bahía en su hora más concurrida y con la luz más plana, pero el paisaje lo sostiene igual. La otra opción a considerar es mover una noche de Hanói a un barco con noche a bordo, lo que le compra el atardecer y el amanecer sobre el agua, cuando la flota del día ya se ha ido."
+   },
+   {
+    "question": "¿A qué aeropuerto debo volar?",
+    "answer": "A Hanói, Noi Bai. Aterrizar en Ciudad Ho Chi Minh para un viaje de tres días significa o un vuelo interno en cada sentido, o un itinerario completamente distinto en el sur."
+   }
+  ]
+ },
+ "vietnam:5-days": {
+  "title": "5 días en Vietnam: Hanói, Ha Long y Hoi An",
+  "metaTitle": "Vietnam en 5 días: Hanói, Ha Long y Hoi An",
+  "metaDescription": "Cinco días en Vietnam de dos formas: la ruta clásica de Hanói, Ha Long y Hoi An, o el norte con dos noches en Sapa. Vuelos, horarios y renuncias.",
+  "routeSummary": "Hanói → bahía de Ha Long → vuelo a Da Nang → Hoi An",
+  "quickAnswer": "Cinco días en Vietnam funcionan mejor como el norte más un vuelo. Dos días en Hanói, uno en la bahía de Ha Long y después vuelo a Da Nang para dos días montados en torno al casco antiguo de Hoi An y My Son. La alternativa es quedarse en el norte y darle dos noches a Sapa.",
+  "intro": "Cinco días bastan para dos regiones si acepta un vuelo interno. La forma habitual es el norte durante tres días y el centro durante dos, lo que junta la ciudad más animada de Vietnam con su casco antiguo más tranquilo. La alternativa, quedarse en el norte y añadir Sapa, cambia Hoi An por montaña y es la mejor opción en otoño.",
+  "bestFor": "Un primer viaje que busca variedad antes que profundidad, y viajeros dispuestos a volar una vez.",
+  "days_detail": [
+   {
+    "day": 1,
+    "base": "Hanói",
+    "heading": "Llegar y caminar el casco antiguo",
+    "narrative": "Aterrice, deje las maletas y salga a pie. El casco antiguo premia el deambular más que una lista, y la primera tarde es el momento más fácil para empezar, porque las calles de Ta Hien se llenan después de las siete y la ciudad se vuelve legible de inmediato.\n\nSi aterriza lo bastante temprano, haga la ruta de comida callejera la primera tarde y no la última. Le cartografía el barrio y todo lo demás resulta más fácil después.",
+    "travel": "Del aeropuerto de Noi Bai al casco antiguo: unos 45 minutos",
+    "tip": "Del viernes por la tarde al domingo por la noche las calles alrededor del lago Hoan Kiem se cierran al tráfico y se llenan de familias y juegos de calle. Si sus fechas incluyen un fin de semana, reserve una tarde para eso."
+   },
+   {
+    "day": 2,
+    "base": "Bahía de Ha Long",
+    "heading": "Una noche en la bahía",
+    "narrative": "Coja el crucero con noche a bordo y no el de un día si el presupuesto lo permite. La diferencia no es el barco, son las horas: la flota del día se marcha hacia las cuatro, y desde entonces hasta la mañana siguiente la bahía está tranquila de un modo que ninguna excursión de un día alcanza.\n\nLa tarde encadena una cueva y una parada de kayak, y luego el barco fondea para el atardecer. La cena es a bordo, después pesca de calamar para quien aguante, y una actividad por la mañana antes de la vuelta.\n\nLea el programa y no el título: un crucero llamado crucero de Ha Long puede pasar la mayor parte del tiempo en la bahía de Lan Ha, más tranquila, lo que suele ser mejor.",
+    "travel": "Hanói a Ha Long: unas 2,5 horas por carretera",
+    "tip": "El balcón privado es la mejora de la que la gente dice después que valió la pena, porque todo el sentido está en las horas en que se está fondeado y los demás están dentro."
+   },
+   {
+    "day": 3,
+    "base": "Hanói → Da Nang",
+    "heading": "Vuelta a Hanói y vuelo al sur",
+    "narrative": "El barco vuelve al puerto a última hora de la mañana y usted está de regreso en Hanói a media tarde. Coja un vuelo de tarde a Da Nang: es de unas una hora y cuarto y hay muchos.\n\nEl aeropuerto de Da Nang está dentro de la ciudad, y Hoi An queda unos cuarenta y cinco minutos más allá por carretera. Llegará tarde; reserve el traslado con antelación en lugar de resolverlo en el aeropuerto.\n\nAlójese en Hoi An y no en Da Nang, salvo que quiera unas vacaciones de playa en resort.",
+    "travel": "Ha Long a Hanói por carretera, y después Hanói a Da Nang en avión, unas 1 h 15",
+    "tip": "No reserve el último vuelo del día. Si el crucero se retrasa, y el tiempo en la bahía puede retrasar una vuelta, no hay nada después."
+   },
+   {
+    "day": 4,
+    "base": "Hoi An",
+    "heading": "El casco antiguo, temprano y tarde",
+    "narrative": "Salga antes de las ocho. El casco antiguo está casi vacío, la luz es baja y el mercado trabaja en lugar de actuar. Esa hora es lo mejor de Hoi An y no cuesta nada.\n\nLa entrada de patrimonio da acceso a un número fijo de los edificios protegidos: la casa Tan Ky y la casa de asambleas de Fujian son las dos en las que conviene gastar las entradas. Recorrer las calles en sí es gratis.\n\nPase el centro caluroso del día en la playa de An Bang o con un sastre, y vuelva a las cinco, cuando se encienden los farolillos y los grupos del día ya se han ido.",
+    "travel": null,
+    "tip": "Si quiere ropa hecha a medida, encárguela hoy, no mañana. Dos días completos son el mínimo realista para un traje, y una sola prueba no basta."
+   },
+   {
+    "day": 5,
+    "base": "Hoi An",
+    "heading": "My Son al amanecer y vuelta a casa",
+    "narrative": "Coja la salida más temprana a My Son. En ese valle casi no hay sombra y a las diez de la mañana es castigador buena parte del año; al amanecer está fresco, tranquilo y mucho mejor iluminado.\n\nEl ladrillo cham es lo que hay que mirar: construido sin mortero visible, y cómo lo unían sigue sin estar del todo resuelto. Las partes restauradas se delatan porque las juntas modernas se ven.\n\nEstará de vuelta en Hoi An a primera hora de la tarde, lo que deja tiempo para la playa o un último paseo antes del aeropuerto.",
+    "travel": "Hoi An al aeropuerto de Da Nang: unos 45 minutos",
+    "tip": "Faltan partes de My Son porque el valle fue bombardeado durante la guerra. Pregúntele a su guía: sin eso, los huecos parecen simple deterioro, y no lo son."
+   }
+  ],
+  "logistics": [
+   {
+    "heading": "El único vuelo",
+    "content": "Hanói a Da Nang es de una hora y cuarto y sale varias veces al día con distintas compañías. Resérvelo con antelación y no al llegar; las tarifas se mueven mucho a última hora y los vuelos tempranos se llenan primero."
+   },
+   {
+    "heading": "La alternativa del norte",
+    "content": "En lugar de volar al sur, quédese en el norte y dedique los días tres a cinco a Sapa: cinco o seis horas por carretera en cada sentido, dos noches como mínimo y una caminata por el valle en medio. Mejor en septiembre y octubre, cuando las terrazas están doradas, peor de enero a marzo, cuando el valle queda metido en la nube."
+   },
+   {
+    "heading": "El centro de Vietnam tiene su propio clima",
+    "content": "La estación húmeda de Hoi An va de septiembre a noviembre, distinta de la del norte. El otoño en Hanói es la mejor época del año; en Hoi An es la más lluviosa, y el casco antiguo se inunda casi todos los años en octubre o noviembre."
+   }
+  ],
+  "faqs": [
+   {
+    "question": "¿Cinco días son suficientes para Vietnam?",
+    "answer": "Para dos regiones, sí. Para todo el país, no: Vietnam mide unos 1.600 km de punta a punta y el norte, el centro y el sur necesitan cada uno su propio vuelo. Cinco días como dos regiones son un buen viaje; cinco días como cuatro ciudades son cuatro aeropuertos."
+   },
+   {
+    "question": "¿Debería saltarme Ha Long e ir directo a Hoi An?",
+    "answer": "Solo si el tiempo está en contra. Entre julio y septiembre la autoridad portuaria puede suspender las salidas por tifones, y un crucero cancelado en un viaje de cinco días es un día perdido. Fuera de esos meses, Ha Long se gana su sitio."
+   },
+   {
+    "question": "¿Hoi An o Da Nang como base?",
+    "answer": "Hoi An, para casi todo el mundo. Da Nang es una ciudad costera moderna con una playa larga y un aeropuerto; Hoi An es el casco antiguo, y es la razón por la que se viene al centro de Vietnam. Inviértalo solo si quiere unas vacaciones de resort con una excursión añadida."
+   }
+  ]
+ },
+ "vietnam:7-days": {
+  "title": "7 días en Vietnam: de norte a sur",
+  "metaTitle": "Vietnam en 7 días: Hanói, Hoi An y Saigón",
+  "metaDescription": "La ruta clásica de siete días por Vietnam, de Hanói a Ciudad Ho Chi Minh, con una noche en la bahía de Ha Long, el casco antiguo de Hoi An y un día en el delta del Mekong.",
+  "routeSummary": "Hanói → bahía de Ha Long → vuelo a Da Nang → Hoi An → vuelo a Ciudad Ho Chi Minh → delta del Mekong",
+  "quickAnswer": "Siete días cubren las tres paradas clásicas de Vietnam con dos vuelos internos: tres días en el norte para Hanói y una noche en la bahía de Ha Long, dos en el centro para Hoi An y My Son, y dos en el sur para Saigón y el delta del Mekong. Es la ruta estándar porque funciona.",
+  "intro": "Siete días son la duración para la que está hecho Vietnam. El país se extiende 1.600 km de norte a sur y las tres regiones son realmente distintas, en comida, en clima y en lo que transmiten las calles. Dos vuelos internos cortos las unen, y la ruta de abajo es la que siguen la mayoría de los primeros viajes, porque las alternativas cuestan más tiempo de transporte del que ganan.",
+  "bestFor": "Un primer viaje completo, y cualquiera que quiera entender por qué se habla del norte y del sur de Vietnam como de dos lugares distintos.",
+  "days_detail": [
+   {
+    "day": 1,
+    "base": "Hanói",
+    "heading": "Llegar, y el casco antiguo al caer la noche",
+    "narrative": "Aterrice y camine. El casco antiguo es pequeño, denso y más fácil de leer por la tarde, cuando abren las calles de la comida y las aceras se llenan.\n\nUna ruta de comida callejera la primera noche vale más que la última, porque le enseña los tiempos: la mayoría de los puestos de Hanói hacen un solo plato, lo hacen desde hace décadas y paran cuando la olla se vacía. Saber a qué hora se come cada cosa cambia todo el resto del viaje.",
+    "travel": "Del aeropuerto de Noi Bai al casco antiguo: unos 45 minutos",
+    "tip": "El pho es desayuno aquí y el bun cha es comida, y la mayoría de los sitios de bun cha dejan de servir a primera hora de la tarde. No es una rareza, es como come la ciudad."
+   },
+   {
+    "day": 2,
+    "base": "Hanói",
+    "heading": "La ciudad en sí, o Ninh Binh",
+    "narrative": "Dos maneras de pasar este día. En la ciudad: el templo de la Literatura, los museos, el lago al amanecer y, entre medias, las calles de los oficios.\n\nO tome Ninh Binh, que es la mejor excursión de un día del norte de Vietnam. Dos horas en cada sentido, karst calizo de geología idéntica al de Ha Long pero visto desde una barca de remos en un río, y la escalera de la cueva de Mua para la vista de todo el valle.\n\nSi mañana hace Ha Long, el día de ciudad es la mejor opción: Ninh Binh y Ha Long seguidos son más repetitivos de lo que suena.",
+    "travel": null,
+    "tip": "Reserve el traslado del crucero de mañana en privado. El minibús compartido recoge en varios hoteles y añade sin falta una hora al principio del día."
+   },
+   {
+    "day": 3,
+    "base": "Bahía de Ha Long",
+    "heading": "Una noche sobre el agua",
+    "narrative": "Esta es la noche que marca la diferencia. Los barcos de día se marchan hacia las cuatro de la tarde, y desde entonces hasta la mañana siguiente la bahía pertenece al puñado de barcos que se quedan.\n\nAtardecer desde la cubierta, cena a bordo y los karsts al amanecer con niebla entre ellos: la imagen por la que se viene, y que no está disponible en una excursión de un día.\n\nLea el programa y no el nombre. Ha Long, Bai Tu Long y Lan Ha están una junto a otra y se venden de forma intercambiable; Lan Ha tiene las playas, Bai Tu Long tiene menos barcos.",
+    "travel": "Hanói a Ha Long: unas 2,5 horas por carretera",
+    "tip": "Entre julio y septiembre la autoridad portuaria puede detener todas las salidas por el tiempo. Deje Ha Long al principio del viaje, para que un día perdido se pueda mover."
+   },
+   {
+    "day": 4,
+    "base": "Da Nang → Hoi An",
+    "heading": "Vuelta a Hanói y vuelo al centro",
+    "narrative": "El barco atraca a última hora de la mañana y a media tarde está en Hanói. Vuele a Da Nang a primera hora de la tarde: alrededor de una hora y cuarto.\n\nHoi An está a cuarenta y cinco minutos del aeropuerto. Llegue, coma y camine el casco antiguo de noche: los farolillos se encienden todas las tardes, no solo en fiestas, y la primera vez que se ve iluminado es la que se recuerda.",
+    "travel": "Ha Long a Hanói por carretera, y después Hanói a Da Nang en avión, unas 1 h 15",
+    "tip": "No coja el último vuelo. Un retraso por el tiempo en la bahía sin nada detrás le deja tirado en Hanói toda la noche."
+   },
+   {
+    "day": 5,
+    "base": "Hoi An",
+    "heading": "Casco antiguo, playa y un sastre si lo quiere",
+    "narrative": "Fuera antes de las ocho para las calles vacías, y luego la entrada de patrimonio para dos o tres de las casas antiguas: Tan Ky y la casa de asambleas de Fujian son las que merecen una entrada.\n\nEl centro del día en la playa de An Bang o con un sastre. Si quiere ropa hecha, hoy es el día de encargarla: dos días completos y dos pruebas son el mínimo realista, y las veinticuatro horas de entrega que todos anuncian son la vía por la que llegan las decepciones.\n\nDe vuelta a la calle a las cinco para los farolillos.",
+    "travel": null,
+    "tip": "Lleve al sastre una prenda cuyo corte ya le guste, para que la copie. Copiar algo real es mejor que describir algo imaginado por encima de una barrera de idioma."
+   },
+   {
+    "day": 6,
+    "base": "Hoi An → Ciudad Ho Chi Minh",
+    "heading": "My Son al amanecer y vuelo al sur",
+    "narrative": "La salida más temprana a My Son, vuelta a primera hora de la tarde y después el vuelo a Saigón: unas una hora y veinte.\n\nEl cambio es inmediato. Saigón es más grande, más ruidosa, más tardía y más calurosa, la comida es más dulce y llega con un plato de hierbas, y la ciudad sigue en marcha bien entrada la noche como Hanói no lo hace.\n\nCene tarde. Lo mejor de la comida de calle en Saigón empieza después de las nueve.",
+    "travel": "Hoi An al aeropuerto de Da Nang 45 minutos, y después Da Nang a Ciudad Ho Chi Minh en avión, unas 1 h 20",
+    "tip": "El pho del sur llega con albahaca, brotes de soja y lima para añadir uno mismo. No es una versión menor del norteño; es un plato distinto con el mismo nombre."
+   },
+   {
+    "day": 7,
+    "base": "Ciudad Ho Chi Minh",
+    "heading": "Cu Chi o el Mekong, y salida",
+    "narrative": "Una cosa grande, no dos. Cu Chi está al noroeste de la ciudad; el Mekong, al sur. Hacer los dos en un día se vende, y es casi todo carretera.\n\nCu Chi es la red de túneles, los sistemas de trampas y un tramo al que se puede bajar: estrecho, caluroso y no para todo el mundo, con salidas a intervalos que los guías señalan antes de entrar.\n\nEl día del Mekong llega a My Tho y Ben Tre: cocotales, canales estrechos en barca de remos y talleres. Ben Tre es el más tranquilo de los dos.\n\nSi tiene vuelo por la tarde, el Museo de los Vestigios de la Guerra, en la ciudad, es la tercera opción y solo necesita un par de horas.",
+    "travel": "El aeropuerto de Tan Son Nhat está dentro de la ciudad, a unos 30 minutos del Distrito 1 con tráfico",
+    "tip": "El famoso mercado flotante de Cai Rang está cerca de Can Tho, a cuatro horas, y ya va cerrando a las ocho de la mañana. No se puede hacer como excursión de un día desde Saigón, diga lo que diga el anuncio."
+   }
+  ],
+  "logistics": [
+   {
+    "heading": "Los dos vuelos",
+    "content": "Hanói a Da Nang y Da Nang a Ciudad Ho Chi Minh, unas 1 h 15 y 1 h 20. Varias compañías cubren ambas rutas muchas veces al día. Reserve con antelación, coja salidas de mañana o de primera hora de la tarde en lugar de la última del día, y recuerde que el aeropuerto de Da Nang está dentro de la ciudad mientras que Hoi An queda 45 minutos más allá."
+   },
+   {
+    "heading": "Tres climas, una maleta",
+    "content": "En la misma semana Hanói puede estar fresca y húmeda, Hoi An calurosa y lluviosa, y Saigón calurosa y seca. Lleve capas ligeras y algo verdaderamente impermeable. El invierno del norte sorprende: los edificios no tienen calefacción, así que 15 °C se notan todo el día."
+   },
+   {
+    "heading": "Dinero y reservas",
+    "content": "El efectivo sigue siendo lo normal para la comida de calle y los operadores pequeños, y la tarjeta va bien en hoteles y restaurantes grandes. Reserve el crucero de Ha Long y los dos vuelos antes de llegar; todo lo demás de esta ruta se organiza con uno o dos días de antelación."
+   }
+  ],
+  "faqs": [
+   {
+    "question": "¿Siete días bastan para ver Vietnam?",
+    "answer": "Bastan para ver bien sus tres regiones principales, que es lo que la mayoría quiere decir. No bastan para añadir Sapa, el bucle de Ha Giang o Phu Quoc: cada uno necesita dos noches propias, y colar uno convierte una buena semana en una semana agotadora."
+   },
+   {
+    "question": "¿De norte a sur, o de sur a norte?",
+    "answer": "Las dos funcionan y los vuelos duran lo mismo. De norte a sur es ligeramente mejor, porque lo compacto de Hanói es un aterrizaje más suave que la escala de Saigón, y porque acabar en el sur deja el tiempo más cálido para el final y no para el principio."
+   },
+   {
+    "question": "¿Puedo coger el tren en lugar de volar?",
+    "answer": "Para el tramo de Da Nang a Hue, sí, y es uno de los mejores trayectos de tren de Asia. Para Hanói a Da Nang o Da Nang a Saigón, el tren tarda de 15 a 20 horas frente a 90 minutos en avión. En un viaje de siete días eso es un día y medio que no tiene."
+   },
+   {
+    "question": "¿Necesito visado?",
+    "answer": "La mayoría de las nacionalidades necesitan o un visado electrónico solicitado en línea con antelación, o entran en una exención de corta duración, y las normas cambian de un año a otro. Compruebe la situación actual para su pasaporte antes de reservar vuelos, no después."
+   }
+  ]
+ },
+ "vietnam:10-days": {
+  "title": "10 días en Vietnam: Hanói, Sapa, Hoi An y el Mekong",
+  "metaTitle": "Vietnam en 10 días: norte, centro y sur",
+  "metaDescription": "Diez días en Vietnam: Hanói, una noche en la bahía de Ha Long, dos noches de trekking en Sapa, Hoi An y My Son, y el delta del Mekong desde Saigón.",
+  "routeSummary": "Hanói → bahía de Ha Long → Sapa → vuelo a Da Nang → Hoi An → vuelo a Ciudad Ho Chi Minh → delta del Mekong",
+  "quickAnswer": "Diez días en Vietnam permiten añadir la montaña a la ruta clásica. Tres días en el norte para Hanói y Ha Long, dos noches en Sapa para las caminatas del valle, dos en Hoi An para el casco antiguo y My Son, y dos en el sur para Saigón y el delta del Mekong, unidos por dos vuelos internos.",
+  "intro": "Con diez días Vietnam deja de ser un recorrido de titulares. Los tres días de más sobre la semana estándar compran lo que la mayoría de los primeros viajes se pierde: las montañas del norte, donde el país es lo que menos se parece a sus propias postales. La ruta sigue usando solo dos vuelos, y cada traslado largo por carretera es uno que se pasa durmiendo o mirando por la ventanilla.",
+  "bestFor": "Viajeros que quieren la ruta clásica más una región que casi ningún itinerario incluye, y cualquiera que prefiera caminar antes que visitar.",
+  "days_detail": [
+   {
+    "day": 1,
+    "base": "Hanói",
+    "heading": "Llegar y comer",
+    "narrative": "Aterrice, deje las maletas, camine. El casco antiguo al caer la noche es la introducción más fácil a la ciudad, y una ruta gastronómica la primera tarde le cartografía el barrio para todo lo que venga después.",
+    "travel": "Del aeropuerto de Noi Bai al casco antiguo: unos 45 minutos",
+    "tip": "Acuéstese temprano. Mañana empieza antes de las ocho, porque Hanói empieza antes de las ocho."
+   },
+   {
+    "day": 2,
+    "base": "Hanói",
+    "heading": "La ciudad, como es debido",
+    "narrative": "El lago al amanecer, el templo de la Literatura antes del calor, los museos en el centro del día y las calles de los oficios a última hora de la tarde.\n\nEl sistema de calles por gremios es lo que hay que notar: cada calle era un gremio y la mayoría siguen vendiendo más o menos lo que siempre vendieron. Camine unas manzanas y observe cómo el género cambia a ambos lados en cada cruce.",
+    "travel": null,
+    "tip": "Si sus fechas incluyen un fin de semana, las calles del lago Hoan Kiem se cierran al tráfico desde el viernes por la tarde. Deje esa noche libre."
+   },
+   {
+    "day": 3,
+    "base": "Bahía de Ha Long",
+    "heading": "Una noche en la bahía",
+    "narrative": "La tarde sobre el agua, una cueva y una parada de kayak, y luego el barco fondea para el atardecer una vez que la flota del día se ha ido. Cena a bordo y los karsts al amanecer con la niebla asentada entre ellos.\n\nEsta es la noche de la que depende toda la cuestión de Ha Long, y por eso una excursión de un día es un apaño y no una versión.",
+    "travel": "Hanói a Ha Long: unas 2,5 horas por carretera",
+    "tip": "Ponga Ha Long al principio de un viaje largo. Si el tiempo lo cancela, un itinerario de diez días tiene sitio para moverlo; uno de siete no."
+   },
+   {
+    "day": 4,
+    "base": "Sapa",
+    "heading": "Vuelta por Hanói y subida a la montaña",
+    "narrative": "El barco atraca a última hora de la mañana, y desde Hanói hay cinco o seis horas hasta Sapa por la autopista: un autobús cama con literas planas, o una furgoneta limusina con asientos de verdad y recogida en el hotel.\n\nLlegue por la tarde. La propia ciudad de Sapa está muy construida y no es la razón de venir; el valle de abajo sí. Coma, duerma y salga temprano.",
+    "travel": "Ha Long a Hanói por carretera, y luego Hanói a Sapa, unas 5 o 6 horas",
+    "tip": "La última subida a Sapa es una sucesión continua de curvas cerradas y afecta a gente a la que el autobús no suele molestar. Tome algo antes de salir y no cuando empiece a notarlo."
+   },
+   {
+    "day": 5,
+    "base": "Sapa",
+    "heading": "El valle de Muong Hoa a pie",
+    "narrative": "La caminata clásica baja de la ciudad por Y Linh Ho, Lao Chai y Ta Van, siguiendo el valle con terrazas a ambos lados. Unas seis horas con comida, casi todo cuesta abajo.\n\nNada de esto es técnico. Lo que lo hace duro es el terreno: los caminos son de arcilla, y la arcilla mojada en bajada resbala de verdad. Un calzado con agarre importa más que la forma física.\n\nLas guías son en su mayoría mujeres hmong y dao rojas de los pueblos por los que se pasa, y esa es la diferencia entre un paseo y un día en el terreno de alguien.",
+    "travel": null,
+    "tip": "Dígale pronto a su guía si quiere un ritmo más lento. La ruta se puede acortar al principio, no tres horas más abajo en el valle."
+   },
+   {
+    "day": 6,
+    "base": "Sapa → Hanói",
+    "heading": "Fansipan o un segundo valle, y la vuelta",
+    "narrative": "Dos buenas opciones. El teleférico sube casi hasta la cima del Fansipan en unos quince minutos, cubriendo un terreno que antes costaba un día y medio: extraordinario por encima de la nube, y una habitación blanca cuando se está dentro de ella. Tenga en cuenta que se detiene en una estación superior, y de ahí arriba quedan unos seiscientos escalones salvo que coja el funicular.\n\nO haga un segundo trekking, más tranquilo, hacia Su Pan o Giang Ta Chai, con menos gente en el sendero.\n\nAutobús de tarde de vuelta a Hanói, con llegada ya de noche.",
+    "travel": "Sapa a Hanói: unas 5 o 6 horas",
+    "tip": "Si al despertar la montaña está bajo la nube, cambie el plan y camine. Aquí las mañanas son más claras que las tardes en todas las estaciones."
+   },
+   {
+    "day": 7,
+    "base": "Da Nang → Hoi An",
+    "heading": "Vuelo al centro",
+    "narrative": "Un vuelo de mañana a Da Nang, de unas una hora y cuarto, y después cuarenta y cinco minutos por carretera hasta Hoi An.\n\nLlega con la tarde intacta. Pásela en la playa de An Bang y después camine el casco antiguo pasadas las cinco, cuando los farolillos están encendidos y los grupos del día se han marchado.",
+    "travel": "Hanói a Da Nang en avión, unas 1 h 15, y después 45 minutos por carretera",
+    "tip": "Encargue hoy cualquier cosa que quiera a medida. Dos días completos y dos pruebas son el mínimo honesto."
+   },
+   {
+    "day": 8,
+    "base": "Hoi An",
+    "heading": "El casco antiguo y My Son",
+    "narrative": "My Son en la salida más temprana, de vuelta a primera hora de la tarde. El valle casi no tiene sombra y a las diez de la mañana es castigador; al amanecer está fresco y tranquilo.\n\nDe vuelta en Hoi An, use la entrada de patrimonio en dos o tres de las casas antiguas, pase el centro del día en algún sitio fresco y vuelva al pueblo a las cinco.\n\nSi durante su estancia cae una luna llena, el casco antiguo apaga las luces eléctricas en la decimocuarta noche del mes lunar y enciende farolillos. Ocurre cada mes, no cada año.",
+    "travel": null,
+    "tip": "Hoi An se inunda casi todos los años en octubre o noviembre. Si sus fechas caen entonces, deje el plan holgado en lugar de reservar algo imprescindible para una fecha fija."
+   },
+   {
+    "day": 9,
+    "base": "Ciudad Ho Chi Minh",
+    "heading": "Vuelo al sur y la ciudad de noche",
+    "narrative": "Vuelo a última hora de la mañana a Saigón, de unas una hora y veinte. El cambio es inmediato: más grande, más ruidosa, más tardía, más calurosa.\n\nPase la tarde en el Museo de los Vestigios de la Guerra o en los antiguos bloques de apartamentos de Nguyen Hue, y la noche comiendo. La buena comida de calle de Saigón está repartida por distritos en lugar de concentrada en un barrio, y por eso aquí cuajaron las rutas gastronómicas en moto: va de paquete y cubre un terreno que no podría andar.",
+    "travel": "Da Nang a Ciudad Ho Chi Minh en avión, unas 1 h 20",
+    "tip": "El banh mi es mejor en el sur, y la razón es el pan. Empiece por ahí."
+   },
+   {
+    "day": 10,
+    "base": "Ciudad Ho Chi Minh",
+    "heading": "El delta del Mekong y vuelta a casa",
+    "narrative": "Un día de delta llega a My Tho y Ben Tre, a unas dos horas: cocotales, canales estrechos en barca de remos y talleres que hacen caramelo de coco y papel de arroz. Ben Tre es el más tranquilo de los dos y la mejor opción.\n\nLa diferencia entre una buena y una mala excursión al Mekong es el ritmo, no el contenido. Una buena hace cuatro cosas bien; una mala enumera siete y le da quince minutos en cada una, casi todas acabando en el mostrador de una tienda.\n\nDe vuelta en la ciudad a primera hora de la noche, lo que encaja con un vuelo nocturno.",
+    "travel": "Unas 2 horas en cada sentido hasta el delta; el aeropuerto de Tan Son Nhat está dentro de la ciudad",
+    "tip": "Las excursiones al Mekong en grupo reducido cuestan más y son toda la diferencia, porque en las barcas de remos caben unas pocas personas y un grupo grande significa esperar al sol a que llegue su turno."
+   }
+  ],
+  "logistics": [
+   {
+    "heading": "Dos vuelos y una carretera larga",
+    "content": "Hanói a Da Nang y Da Nang a Ciudad Ho Chi Minh son los únicos vuelos. A Sapa se llega por carretera, cinco o seis horas en cada sentido, y por eso necesita dos noches y no una, y por eso se coloca entre Ha Long y el vuelo al sur y no al final."
+   },
+   {
+    "heading": "La temporada, y qué región sale perdiendo",
+    "content": "No hay ningún mes que sea bueno en todas partes. Octubre y noviembre son los mejores del año en Hanói y Sapa y los más lluviosos en Hoi An. De febrero a abril es seco en el centro y puede ser gris y con llovizna en el norte. Elija según la región que más le importe."
+   },
+   {
+    "heading": "Qué añadir si tiene más tiempo",
+    "content": "Dos días más irían al bucle de Ha Giang, al norte de Sapa, que es la mejor carretera en moto del país, o a Phu Quoc si quiere terminar el viaje en una playa. Ninguno entra en diez días sin recortar algo de lo que ya hay."
+   }
+  ],
+  "faqs": [
+   {
+    "question": "¿Merece Sapa tres días de un viaje de diez?",
+    "answer": "Si le gusta caminar, sí: es la parte de Vietnam que menos se parece al resto, y la caminata del valle es lo que la gente recuerda después. Si prefiere visitar antes que caminar, dedique esos días a Hue y al paso de Hai Van, que quedan entre Hanói y Hoi An en la misma ruta."
+   },
+   {
+    "question": "¿Puedo hacer Sapa en un día y ahorrar dos jornadas?",
+    "answer": "No. Son cinco o seis horas en cada sentido, así que una excursión de un día son diez o doce horas en un asiento para unas pocas horas en la montaña. Dos noches es el mínimo que da dos mañanas, y es por la mañana cuando el valle está despejado."
+   },
+   {
+    "question": "¿Debería añadir Hue?",
+    "answer": "Hue queda entre Da Nang y el norte y tiene la ciudadela imperial y las tumbas a lo largo del río de los Perfumes. Es una adición natural si viaja por carretera o en tren entre Hoi An y el norte, e incómoda si lo sobrevuela, que es lo que hace esta ruta."
+   },
+   {
+    "question": "¿Qué presupuesto debo prever?",
+    "answer": "Vietnam es barato para los estándares de la región, salvo el crucero. Los dos vuelos internos y el barco de Ha Long son las partidas importantes; la comida, el transporte local y los días con guía son todos moderados, y una comida de calle para dos cuesta menos que un café en la mayoría de las ciudades occidentales."
+   }
+  ]
  }
 };
