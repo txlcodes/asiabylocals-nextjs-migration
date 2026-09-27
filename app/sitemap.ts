@@ -512,7 +512,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     const results = await Promise.all(
       cities.map(city => {
         const cityQuery = city.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
-        return fetch(`${API_URL}/api/public/tours?city=${encodeURIComponent(cityQuery)}`, { next: { revalidate: 3600 } })
+        // no-store, not a second cache. The route above already limits how
+        // often this runs to once an hour; giving the fetch its own 3600s
+        // window on top meant the route could regenerate with hour-old data.
+        // That is how a sitemap written at 16:58, with 804 Cambodian tours
+        // approved, went out carrying 187 of them and none at all for
+        // Phnom Penh.
+        return fetch(`${API_URL}/api/public/tours?city=${encodeURIComponent(cityQuery)}`, { cache: 'no-store' })
           .then(r => r.ok ? r.json() : { tours: [] })
           .catch(() => ({ tours: [] }));
       })
