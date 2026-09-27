@@ -11168,7 +11168,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles et autres frais non décrits au programme"
   ],
   "shortDescription": "Excursion de 12 jours à Hô Chi Minh-Ville, avec Rendez-vous et départ, Parcours sur les routes de campagne et Déjeuner. Opérateur : VIETNAM ADVENTURE COMPANY LIMITED, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "La piste Ho Chi Minh à moto tout-terrain : de Saïgon à Hanoï en 12 jours",
+  "metaTitle": "Piste Ho Chi Minh à moto : Saïgon-Hanoï en 12 jours",
   "metaDescription": "Excursion de 12 jours à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "from-hcm-private-ben-tre-canals-crafts-and-fruit-lunch-ho-chi-minh-city": {
@@ -11226,7 +11226,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Nourriture et boissons supplémentaires non mentionnées"
   ],
   "shortDescription": "Excursion à Hô Chi Minh-Ville, avec Book Street, Saigon, Poste centrale de Saigon et Hủ Tiếu Sườn Sụn Liên. Opérateur : Vietnam Signature Tours, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hô Chi Minh-Ville : cuisine Michelin authentique et rooftop au coucher du soleil, en privé",
+  "metaTitle": "Saigon : cuisine Michelin et rooftop au coucher du soleil",
   "metaDescription": "Excursion à Hô Chi Minh-Ville. Comprend guide local anglophone. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "from-ho-chi-minh-to-ph-qu-c-the-3-day-hidden-mekong-journey-ho-chi-minh-city": {
@@ -11356,7 +11356,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "x Supplément pour l'hôtel dans le delta du Mékong"
   ],
   "shortDescription": "Excursion de 2 jours à Hô Chi Minh-Ville, comprenant prise en charge et retour à l'hôtel dans les zones centrales désignées de Hô Chi Minh, transport en véhicule climatisé et guide anglophone. Opérateur : Global Explore, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Delta du Mékong en 2 jours et 1 nuit : My Tho, Ben Tre et le marché flottant de Cai Rang",
+  "metaTitle": "Delta du Mékong en 2 jours : My Tho, Ben Tre et Cai Rang",
   "metaDescription": "Excursion de 2 jours à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "2-day-mekong-delta-tour-with-homestay": {
@@ -11453,7 +11453,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion d'une demi-journée à Hô Chi Minh-Ville, comprenant billet pour 1 tour de bus à Hô Chi Minh-Ville, entrée au spectacle de marionnettes sur l'eau et billet électronique accepté sur mobile. Opérateur : ANH VIET HOP ON - HOP OFF VIET NAM, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Bus à toit ouvert et spectacle de marionnettes sur l'eau à Hô Chi Minh-Ville",
+  "metaTitle": "Bus à toit ouvert et marionnettes sur l'eau à Saigon",
   "metaDescription": "Excursion d'une demi-journée à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "shore-excursion-cu-chi-tunnel-ho-chi-minh-city-phu-my-port-by-local-operator": {
@@ -11481,7 +11481,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires facultatifs"
   ],
   "shortDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville, comprenant voiture privée climatisée avec prise en charge et retour au port de Phu, eau minérale et le contenu varie selon l'option que vous choisissez. Opérateur : Hiep Hoi An Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Escale : tunnels de Cu Chi et Hô Chi Minh-Ville depuis le port de Phu My",
+  "metaTitle": "Escale : tunnels de Cu Chi et Saigon depuis Phu My",
   "metaDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "cu-chi-tunnels-and-mekong-delta-river-tour-by-canoe": {
@@ -11563,7 +11563,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Personal expenses."
   ],
   "shortDescription": "Excursion d'une demi-journée à Hô Chi Minh-Ville, avec Tunnels de Cu Chi et Delta du Mékong. Opérateur : Amigos Tours & Transport, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Delta du Mékong et tunnels de Cu Chi : journée avec guide hispanophone",
+  "metaTitle": "Delta du Mékong et Cu Chi : guide hispanophone",
   "metaDescription": "Excursion d'une demi-journée à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "cu-chi-tunnels-eco-speedboat-day-tour": {
@@ -11622,7 +11622,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires (facultatifs)"
   ],
   "shortDescription": "Excursion d'une demi-journée à Hô Chi Minh-Ville, avec Cyclo-pousse et Arrêt secret. Opérateur : ASIANA LINK TRAVEL, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hô Chi Minh-Ville : 4 heures de séance photo en ao dai avec balade en cyclo-pousse",
+  "metaTitle": "Saigon : 4 heures de photo en ao dai et cyclo-pousse",
   "metaDescription": "Excursion d'une demi-journée à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "3-day-mekong-tour-and-cai-rang-floating-market": {
@@ -11696,7 +11696,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Autres éléments non mentionnés ci-dessus"
   ],
   "shortDescription": "Excursion de 1 heure à Hô Chi Minh-Ville, comprenant tous les ingrédients nécessaires au café aux œufs, le rouleau de printemps vous est servi une fois votre café préparé et eau potable. Opérateur : Hoang's Kitchen Saigon Cooking Class, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hô Chi Minh-Ville : atelier café aux œufs d'1 heure avec instructeur local et en-cas",
+  "metaTitle": "Saigon : atelier café aux œufs d'une heure",
   "metaDescription": "Excursion de 1 heure à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "private-cu-chi-tunnels-tour-from-hcm-city-guide-optional-ho-chi-minh-city": {
@@ -11856,7 +11856,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Autres prestations non mentionnées"
   ],
   "shortDescription": "Excursion d'une demi-journée à Hô Chi Minh-Ville, avec Tunnels de Cu Chi, site de Ben Duoc. Opérateur : TNK TRAVEL CO., LTD, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Tunnels de Cu Chi : demi-journée dans le réseau souterrain de la guerre du Vietnam",
+  "metaTitle": "Tunnels de Cu Chi : demi-journée sous terre",
   "metaDescription": "Excursion d'une demi-journée à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "mekong-delta-bike-and-kayak-and-cu-chi-tunnels-private-tour-ho-chi-minh-city": {
@@ -11936,7 +11936,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires (facultatifs)"
   ],
   "shortDescription": "Excursion d'une demi-journée à Hô Chi Minh-Ville, comprenant guide, scooter avec pilote et droits d'entrée. Opérateur : SAIGON ADVENTURE COMPANY LIMITED, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Visite de la ville à moto avec le musée de la Guerre et le palais de la Réunification",
+  "metaTitle": "Saigon à moto : musée de la Guerre et palais de la Réunification",
   "metaDescription": "Excursion d'une demi-journée à Hô Chi Minh-Ville. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "1-day-mekong-cai-rang-floating-market-ancient-house-ho-chi-minh-city": {
@@ -12191,7 +12191,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville, avec Tunnels de Cu Chi et Hô Chi Minh-Ville. Opérateur : Joy_Journeys, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Histoire de Saigon et tunnels de Cu Chi avec le musée de la Guerre : journée complète",
+  "metaTitle": "Histoire de Saigon, Cu Chi et musée de la Guerre",
   "metaDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "vegan-food-tour-with-local-students-in-ho-chi-minh-city": {
@@ -12341,7 +12341,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Un supplément jours fériés s'applique (voir les informations importantes)"
   ],
   "shortDescription": "Excursion de 2 jours à Hô Chi Minh-Ville, comprenant bus ou minibus climatisé, guide et déjeuner dans un restaurant local. Opérateur : SST Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Tunnels de Cu Chi et marché flottant du Mékong : 2 jours depuis Hô Chi Minh-Ville",
+  "metaTitle": "Tunnels de Cu Chi et marché flottant du Mékong : 2 jours",
   "metaDescription": "Excursion de 2 jours à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "mekong-delta-river-life-coconut-village-vinh-trang-pagoda-ho-chi-minh-city": {
@@ -12373,7 +12373,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément de 30 % du prix total les jours fériés au Vietnam"
   ],
   "shortDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville, comprenant prise en charge et retour dans le centre de Saigon, guide professionnel et guide. Opérateur : Atlas Vietnam Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Delta du Mékong : vie fluviale, village de cocotiers et pagode de Vinh Trang",
+  "metaTitle": "Delta du Mékong : cocotiers et pagode de Vinh Trang",
   "metaDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "rug-tufting-workshop-in-saigon": {
@@ -12750,7 +12750,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Boissons alcoolisées"
   ],
   "shortDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville, avec Pagode de Vinh Trang, My Tho et Province de Ben Tre. Opérateur : AN TAN TRAVEL, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hô Chi Minh-Ville : journée dans le delta du Mékong avec cours de cuisine (Hô Chi Minh-Ville)",
+  "metaTitle": "Delta du Mékong : journée avec cours de cuisine",
   "metaDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "cu-chi-and-mekong-delta-premium-tour-max-11-pax": {
@@ -12811,7 +12811,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément jours fériés au Vietnam"
   ],
   "shortDescription": "Excursion à Hô Chi Minh-Ville, comprenant prise en charge et retour à l'hôtel à Hô Chi Minh-Ville, transport climatisé et guide. Opérateur : Vietnam Homies Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Champs de bataille de Long Tan et Nui Dat : l'histoire vraie de la guerre du Vietnam",
+  "metaTitle": "Long Tan et Nui Dat : l'histoire vraie de la guerre",
   "metaDescription": "Excursion à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "mekong-delta-tour-with-lunch-and-boat-ride": {
@@ -13054,7 +13054,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément jours fériés au Vietnam"
   ],
   "shortDescription": "Excursion à Hô Chi Minh-Ville, comprenant transport privé climatisé, prise en charge et retour au port de Hiep Phuoc ou de Phu My et guide anglophone. Opérateur : Global Explore, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Depuis le port de Hiep Phuoc ou Phu My : escale à Hô Chi Minh-Ville",
+  "metaTitle": "Ports de Hiep Phuoc et Phu My : escale à Saigon",
   "metaDescription": "Excursion à Hô Chi Minh-Ville. Comprend transport privé climatisé. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "hcm-private-2-day-floating-market-and-mekong-delta-tour-ho-chi-minh-city": {
@@ -13210,7 +13210,7 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [],
   "shortDescription": "Billet d'entrée à Hô Chi Minh-Ville, comprenant billet d'entrée du musée des Vestiges de la guerre. Opérateur : KENT HOLIDAYS TRAVEL COMPANY LIMITED, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hô Chi Minh-Ville : billet d'entrée du musée des Vestiges de la guerre",
+  "metaTitle": "Saigon : billet du musée des Vestiges de la guerre",
   "metaDescription": "Billet d'entrée à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "motorbike-tour-with-female-driver-option-in-ho-chi-minh-city": {
@@ -13383,7 +13383,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément pour une prise en charge hors du district 1"
   ],
   "shortDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville, avec Củ Chi, Hô Chi Minh-Ville et Temple caodaïste. Opérateur : VN Bike Tours Shore Excursion, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Au départ de Hô Chi Minh-Ville : messe de midi au temple caodaïste et tunnels de Cu Chi (Hô Chi Minh-Ville)",
+  "metaTitle": "Messe de midi au temple caodaïste et tunnels de Cu Chi",
   "metaDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "2-day-1-night-mekong-delta-can-tho-floating-market": {
@@ -13415,7 +13415,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément pour les autres langues"
   ],
   "shortDescription": "Excursion de 2 jours à Hô Chi Minh-Ville, comprenant prise en charge et retour à l'hôtel dans le centre de Hô Chi Minh-Ville, transport climatisé et guide. Opérateur : Atlas Vietnam Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Delta du Mékong : 2 jours et 1 nuit avec le marché flottant de Can Tho",
+  "metaTitle": "Delta du Mékong : 2 jours, marché flottant de Can Tho",
   "metaDescription": "Excursion de 2 jours à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "cu-chi-tunnels-half-day-adventure-with-shooting-range-ho-chi-minh-city": {
@@ -13600,7 +13600,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément de 30 % du prix total les jours fériés au Vietnam"
   ],
   "shortDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville, comprenant prise en charge et retour dans le centre de Saigon, guide professionnel et guide. Opérateur : VN BIKE TOUR COMPANY LIMTIED, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Delta du Mékong : vie fluviale, saveurs locales et culture villageoise",
+  "metaTitle": "Delta du Mékong : vie fluviale et saveurs locales",
   "metaDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "saigon-in-color-pink-church-sacred-temples-and-mosque-ho-chi-minh-city": {
@@ -13641,7 +13641,7 @@ export const FR_TOURS: Record<string, TourT> = {
   "included": [],
   "notIncluded": [],
   "shortDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville. Opérateur : Ace Travels Viet Nam, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Tunnels de Cu Chi et delta du Mékong : journée complète en service supérieur",
+  "metaTitle": "Tunnels de Cu Chi et delta du Mékong : journée complète",
   "metaDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "archery-and-hidden-caf-experience-in-ho-chi-minh-city": {
@@ -13757,7 +13757,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Autres prestations non précisées dans la liste des inclusions"
   ],
   "shortDescription": "Excursion à Hô Chi Minh-Ville, comprenant hébergement en chambre double, à lits jumeaux ou triple partagée, avec, repas mentionnés : petit-déjeuner et véhicule privé climatisé selon le programme. Opérateur : ANHFLY TRAVEL CO.,LTD, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Parc national de Nam Cat Tien : aventure en forêt depuis Hô Chi Minh-Ville",
+  "metaTitle": "Parc national de Nam Cat Tien : aventure en forêt",
   "metaDescription": "Excursion à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "budget-friendly-guided-walking-tour-in-ho-chi-minh-city": {
@@ -13920,7 +13920,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ],
   "shortDescription": "Excursion à Hô Chi Minh-Ville, avec Hô Chi Minh-Ville, Cu Chi Tunnels and Củ Chi et Hô Chi Minh-Ville. Opérateur : OG Saigon Experience & Transport, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Tunnels de Cu Chi en petit groupe (6 personnes max) avec un conteur local (Hô Chi Minh-Ville)",
+  "metaTitle": "Tunnels de Cu Chi en petit groupe avec un conteur local",
   "metaDescription": "Excursion à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "can-gio-mangroves-forest-and-monkey-island-eco-tour-in-ho-chi-minh-city": {
@@ -14312,7 +14312,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ],
   "shortDescription": "Excursion à Hô Chi Minh-Ville, comprenant dégustation de cuisine de rue en 8 services, guide du district 4 et balade à pied dans le district 4. Opérateur : OG Saigon Experience & Transport, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hô Chi Minh-Ville : cuisine de rue dans l'ancienne ruelle de la pègre et sky bar",
+  "metaTitle": "Saigon : cuisine de rue dans la ruelle de la pègre",
   "metaDescription": "Excursion à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "cu-chi-tunnels-and-mekong-delta-history-river-life-and-culture-ho-chi-minh-city": {
@@ -14409,7 +14409,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Autres dépenses non mentionnées ci-dessus"
   ],
   "shortDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville, avec Tunnels de Cu Chi et Delta du Mékong. Opérateur : KIM TRAVEL, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "14 personnes maximum : les tunnels de Cu Chi et le delta du Mékong (Hô Chi Minh-Ville)",
+  "metaTitle": "Tunnels de Cu Chi et delta du Mékong, 14 personnes max",
   "metaDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "mekong-delta-3-day-2-night-floating-market-and-river-life-and-6-provinces": {
@@ -14931,7 +14931,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires (facultatifs)"
   ],
   "shortDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville, comprenant prise en charge et retour à l'hôtel à, transport en bus climatisé et guide. Opérateur : VN Bike Tours Shore Excursion, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Pagode de Vinh Trang et delta du Mékong en privé depuis Hô Chi Minh-Ville",
+  "metaTitle": "Pagode de Vinh Trang et delta du Mékong en privé",
   "metaDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ho-chi-minh-city-guide-half-day-with-6-places-and-small-group-by-local-operator": {
@@ -15099,7 +15099,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboire"
   ],
   "shortDescription": "Excursion de 2 jours à Hô Chi Minh-Ville, comprenant transport et visites prévus au programme, balade en bateau dans le delta du Mékong et guide. Opérateur : TNK TRAVEL CO., LTD, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Delta du Mékong : 2 jours entre marchés flottants et découverte culturelle",
+  "metaTitle": "Delta du Mékong : 2 jours et marchés flottants",
   "metaDescription": "Excursion de 2 jours à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "3-days-in-the-mekong-delta-canals-markets-and-river-life-ho-chi-minh-city": {
@@ -15129,7 +15129,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ],
   "shortDescription": "Excursion de 3 jours à Hô Chi Minh-Ville, avec Visite de Cai Be, Maison centenaire de Ba Kiet et Marché flottant de Cai Rang. Opérateur : Viet Horizons Journeys, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "3 jours dans le delta du Mékong : canaux, marchés et vie du fleuve (Hô Chi Minh-Ville)",
+  "metaTitle": "3 jours dans le delta du Mékong : canaux et marchés",
   "metaDescription": "Excursion de 3 jours à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "from-phu-my-or-hiep-phuoc-port-mekong-delta-discovery-ho-chi-minh-city": {
@@ -15162,7 +15162,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément jours fériés au Vietnam"
   ],
   "shortDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville, comprenant prise en charge et retour au port de Phu My ou de Hiep Phuoc, transport privé climatisé et guide anglophone. Opérateur : Vietnam Vision Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Depuis le port de Phu My ou Hiep Phuoc : découverte du delta du Mékong",
+  "metaTitle": "Ports de Phu My et Hiep Phuoc : le delta du Mékong",
   "metaDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "street-food-and-hidden-gems-in-ho-chi-minh-city": {
@@ -16077,7 +16077,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Aliments et boissons non mentionnés au programme"
   ],
   "shortDescription": "Excursion d'une demi-journée à Hô Chi Minh-Ville, avec Tunnels de Cu Chi. Opérateur : TNK TRAVEL CO., LTD, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Tunnels de Cu Chi : demi-journée privée sur l'histoire de la guerre",
+  "metaTitle": "Tunnels de Cu Chi : demi-journée privée",
   "metaDescription": "Excursion d'une demi-journée à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "cu-chi-tunnels-half-day-tour": {
@@ -16695,7 +16695,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville, avec Montagne de la Dame Noire, Ẩm Thực TK Tây Ninh et Saint-Siège caodaïste de Tay Ninh. Opérateur : THE SUN TOURIST, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Tay Ninh : journée à la montagne de la Dame Noire et au temple caodaïste",
+  "metaTitle": "Tay Ninh : la Dame Noire et le temple caodaïste",
   "metaDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ho-chi-minh-city-half-or-full-day-history-chinatown-by-car-by-local-operator": {
@@ -16723,7 +16723,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément jours fériés au Vietnam"
   ],
   "shortDescription": "Excursion d'une demi-journée à Hô Chi Minh-Ville, comprenant prise en charge et retour dans le district 1, guide professionnel et guide. Opérateur : VN BIKE TOUR COMPANY LIMTIED, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hô Chi Minh-Ville : demi-journée ou journée entre histoire et quartier chinois, en voiture",
+  "metaTitle": "Saigon : histoire et quartier chinois, en voiture",
   "metaDescription": "Excursion d'une demi-journée à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "24h-ho-chi-minh-city-tour-hop-on-hop-off-bus-by-local-operator": {
@@ -16957,7 +16957,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément jours fériés au Vietnam"
   ],
   "shortDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville, comprenant transport climatisé, guide anglophone et déjeuner. Opérateur : GUU TRAVEL, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Temple caodaïste et montagne de la Dame Noire depuis Hô Chi Minh-Ville",
+  "metaTitle": "Temple caodaïste et montagne de la Dame Noire",
   "metaDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ho-chi-minh-city-jeep-tour-landmarks-culture-and-hidden-alley-by-local-operator": {
@@ -17462,7 +17462,7 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [],
   "shortDescription": "Excursion de 3 heures à Hô Chi Minh-Ville, comprenant 4 lieux secrets à découvrir, 4 cocktails originaux et de bons en-cas et un hôte expérimenté pour vous guider dans notre sélection. Opérateur : Secret Experiences, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hô Chi Minh-Ville : dégustation de cocktails dans des lieux secrets",
+  "metaTitle": "Saigon : cocktails dans des lieux secrets",
   "metaDescription": "Excursion de 3 heures à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "tay-ninh-1-day-with-black-virgin-mountain-and-cao-dai-temple-in-ho-chi-minh-city": {
@@ -17909,7 +17909,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Vin"
   ],
   "shortDescription": "Excursion à Hô Chi Minh-Ville, comprenant boissons alcoolisées, cocktail offert et dîner. Opérateur : Provincial Table Compay Limited, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Cours de cuisine immersif et visite du marché avec un chef à Hô Chi Minh-Ville",
+  "metaTitle": "Cours de cuisine et visite du marché avec un chef",
   "metaDescription": "Excursion à Hô Chi Minh-Ville. Comprend boissons alcoolisées. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "super-niche-walking-street-food-tour-in-ho-chi-minh-city": {
@@ -17967,7 +17967,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Un supplément s'applique pendant les 8 jours du Nouvel An lunaire, du 17 au 25 février 2026 : 460 000 VND par personne, à régler en espèces au bureau de Johnny Tours à Mui Ne"
   ],
   "shortDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville, comprenant une jeep confortable, guide et dîner. Opérateur : Johnny Tours Mui Ne, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Mui Ne : la meilleure excursion d'une journée depuis Hô Chi Minh-Ville",
+  "metaTitle": "Mui Ne : la meilleure journée depuis Saigon",
   "metaDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "loaloa-culture-and-dining-show-ticket-at-independence-palace-in-ho-chi-minh-city": {
@@ -17992,7 +17992,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires (facultatifs)"
   ],
   "shortDescription": "Billet d'entrée à Hô Chi Minh-Ville, avec Palais de l'Indépendance. Opérateur : VIETNAM ADVENTURE & HERITAGE, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Billet pour le spectacle LoaLoa, culture et dîner, au palais de l'Indépendance",
+  "metaTitle": "Spectacle LoaLoa, culture et dîner, au palais",
   "metaDescription": "Billet d'entrée à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "bao-loc-waterfalls-and-tea-hills-private-day-trip-from-mui-ne-in-ho-chi-minh-city": {
@@ -18020,7 +18020,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville, comprenant prise en charge et retour à l'hôtel à Mui Ne, transport climatisé et et sympathique, chauffeur. Opérateur : Freedom Nguyen travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Cascades de Bao Loc et plantations de thé : journée privée depuis Mui Ne",
+  "metaTitle": "Cascades de Bao Loc et thé : journée depuis Mui Ne",
   "metaDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ho-chi-minh-city-half-day-tour-markets-history-and-culture-by-local-operator": {
@@ -18250,7 +18250,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément jours fériés au Vietnam"
   ],
   "shortDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville, avec Montagne de la Dame Noire et Temple caodaïste. Opérateur : Saigon Homies Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Montagne de la Dame Noire et temple caodaïste : journée depuis Hô Chi Minh-Ville",
+  "metaTitle": "Dame Noire et temple caodaïste : journée depuis Saigon",
   "metaDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "wartime-tunnel-or-ho-chi-minh-complex-and-prison-museum": {
@@ -18951,7 +18951,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles (souvenirs, artisanat des villages)"
   ],
   "shortDescription": "Excursion de 2 jours à Sapa, avec Taxi noir et Sa Pa. Opérateur : Mimi SaPa Trekking Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa en 2 jours et 1 nuit : montagnes et trek dans la vallée avec un guide local, par un opérateur local",
+  "metaTitle": "Sapa en 2 jours : montagnes et trek avec un guide local",
   "metaDescription": "Excursion de 2 jours à Sapa. Comprend guide pendant tout le voyage. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "half-day-scenic-car-tour-with-local-art-experience-in-sapa": {
@@ -18980,7 +18980,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion d'une demi-journée à Sapa, comprenant visite du village de Cat Cat, visite du village de Lao Chai et visite du village de Ta Van. Opérateur : Local Guide Vietnam's Community, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa : demi-journée panoramique en voiture avec atelier d'art local",
+  "metaTitle": "Sapa : demi-journée en voiture et atelier d'art local",
   "metaDescription": "Excursion d'une demi-journée à Sapa. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "2-day-motorbike-tour-from-mountain-to-valley-in-sapa": {
@@ -19100,7 +19100,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Assurance voyage"
   ],
   "shortDescription": "Excursion de 4 jours à Sapa, comprenant randonnée guidée de 4 jours, 3 nuits en bungalow privé et guide. Opérateur : Ethnic Community Cultural Tours, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa : randonnée de 4 jours entre villages avec nuits en bungalow privé",
+  "metaTitle": "Sapa : randonnée de 4 jours et bungalow privé",
   "metaDescription": "Excursion de 4 jours à Sapa. Comprend randonnée guidée de 4 jours. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "5-day-ha-giang-loop-adventure-with-homestays-in-sapa": {
@@ -19246,7 +19246,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion d'une demi-journée à Sapa, comprenant transport en voiture privée, guide et atelier de dessin à la cire d'abeille hmong. Opérateur : ASu Sa Pa Trekking Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa : dessin à la cire d'abeille hmong et bain aux herbes à Ta Phin",
+  "metaTitle": "Sapa : dessin à la cire hmong et bain aux herbes à Ta Phin",
   "metaDescription": "Excursion d'une demi-journée à Sapa. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "easy-rider-ha-giang-to-cao-bang-5-day-tour-in-sapa": {
@@ -19279,7 +19279,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Hôtel à Hanoï ou dans la ville suivante de votre choix."
   ],
   "shortDescription": "Excursion de 5 jours à Sapa, comprenant ce qui est compris, repas du circuit : 4 petits-déjeuners, 5 déjeuners et 4 dîners et moto récente et guide anglophone - moto. Opérateur : Top Gear Ha Giang Loop, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Easy rider de Ha Giang à Cao Bang : circuit de 5 jours au départ de Sapa",
+  "metaTitle": "Easy rider de Ha Giang à Cao Bang : 5 jours depuis Sapa",
   "metaDescription": "Excursion de 5 jours à Sapa. Comprend ce qui est compris. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "3-day-private-sapa-trip-with-driver-and-meals": {
@@ -19331,7 +19331,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le guide (facultatifs)"
   ],
   "shortDescription": "Excursion de 2 jours à Sapa, avec Breakfast & Coffee in Muong Hoa Valley, Visit Tien Son Cave et Explore the village with a local guide. Opérateur : Morning Vietnam, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Lai Chau : circuit à moto de 2 jours et 3 nuits au départ de Hanoï",
+  "metaTitle": "Lai Chau : circuit à moto de 2 jours depuis Hanoï",
   "metaDescription": "Excursion de 2 jours à Sapa. Comprend transport pendant le circuit. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "2-day-private-mu-cang-chai-trek-and-homestay-in-sapa": {
@@ -19386,7 +19386,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ],
   "shortDescription": "Excursion de 2 jours à Sapa, avec Enjoy specialty at local restaurant, Trekking through Y Linh Ho, Ta Van and Trekking through Giang Ta Chai et Nam Cang. Opérateur : Morning Vietnam, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Nam Cang : 2 jours et 1 nuit entre villages et rizières en terrasses",
+  "metaTitle": "Nam Cang : 2 jours entre villages et rizières en terrasses",
   "metaDescription": "Excursion de 2 jours à Sapa. Comprend guide local. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "6-day-motorbike-tour-to-ha-giang-and-cao-bang-in-sapa": {
@@ -19850,7 +19850,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Travel Insurance."
   ],
   "shortDescription": "Excursion d'une demi-journée à Sapa, comprenant guide hmong, déjeuner traditionnel et randonnée en forêt. Opérateur : ASu Sa Pa Trekking Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa : randonnée d'une journée entre villages et rizières en terrasses",
+  "metaTitle": "Sapa : une journée entre villages et rizières en terrasses",
   "metaDescription": "Excursion d'une demi-journée à Sapa. Comprend guide hmong. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "y-linh-ho-to-ta-van-mong-village-trek-with-lunch-in-sapa": {
@@ -20089,7 +20089,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ],
   "shortDescription": "Excursion d'une journée entière à Sapa, avec Bản Ý Linh Hồ, Village de Lao Chai et Ta Van. Opérateur : Black Hmong Adventure – Sapa Trekking, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Vallée de Muong Hoa : randonnée avec déjeuner et prise en charge à l'hôtel",
+  "metaTitle": "Vallée de Muong Hoa : randonnée avec déjeuner",
   "metaDescription": "Excursion d'une journée entière à Sapa. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "private-1-day-sapa-valley-trek-local-and-mountain-landscapes-by-local-operator": {
@@ -20116,7 +20116,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le guide"
   ],
   "shortDescription": "Excursion d'une journée entière à Sapa, avec Vallée de Muong Hoa, Ta Van et Thôn Giàng Tả Chải Xã Mường Hoa. Opérateur : Taha Travel Agency Vn, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa : randonnée privée d'une journée dans la vallée, entre villages et montagnes",
+  "metaTitle": "Sapa : randonnée privée d'une journée dans la vallée",
   "metaDescription": "Excursion d'une journée entière à Sapa. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "dragon-cloud-glass-bridge-and-love-waterfall-tour-in-sapa": {
@@ -20337,7 +20337,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Assurance voyage"
   ],
   "shortDescription": "Excursion de 2 jours à Sapa, comprenant nuit d'arrivée à l'hôtel à Cao Bang, homestay au village de pierre et 2 petits-déjeuners. Opérateur : SERENITY CRUISES - LAN HA BAY, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Cao Bang : 2 jours entre la cascade de Ban Gioc et un village de pierre",
+  "metaTitle": "Cao Bang : 2 jours, cascade de Ban Gioc et village de pierre",
   "metaDescription": "Excursion de 2 jours à Sapa. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "2-day-trekking-tour-with-local-villages-and-lunch-in-sapa": {
@@ -20423,7 +20423,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Prestations non clairement mentionnées ci-dessus"
   ],
   "shortDescription": "Excursion d'une demi-journée à Sapa, comprenant guide, repas : déjeuner pique-nique et transfert retour après la visite. Opérateur : Sapa Pathfinder Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa : randonnée guidée vers des villages reculés et les rizières en terrasses",
+  "metaTitle": "Sapa : randonnée guidée vers des villages reculés",
   "metaDescription": "Excursion d'une demi-journée à Sapa. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "fansipan-peak-and-cat-cat-village-roof-of-indochina-adventure-sapa": {
@@ -20704,7 +20704,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément de 30 USD par personne pour le Nouvel An lunaire (du 26 janvier au 2 février 2025, à régler au point de rendez-vous)"
   ],
   "shortDescription": "Excursion de 2 jours à Sapa, comprenant guide, tous les billets d'entrée aux sites indiqués et 2 déjeuners dans un restaurant local. Opérateur : Vietnam Nomadtrails, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa : randonnée de 2 jours avec homestay chez une minorité locale",
+  "metaTitle": "Sapa : randonnée de 2 jours, homestay chez une minorité",
   "metaDescription": "Excursion de 2 jours à Sapa. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "3-day-sapa-trek-tour-with-homestay-and-fansipan": {
@@ -20762,7 +20762,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Assurance voyage"
   ],
   "shortDescription": "Excursion d'une journée entière à Sapa, avec Ta Van. Opérateur : SaPa Native Tours, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sa Pa : randonnée d'une journée entre villages et rizières en terrasses",
+  "metaTitle": "Sa Pa : une journée entre villages et rizières",
   "metaDescription": "Excursion d'une journée entière à Sapa. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "2-day-sapa-red-dao-trek-with-hotel-stay": {
@@ -21026,7 +21026,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Assurance voyage"
   ],
   "shortDescription": "Excursion d'une demi-journée à Sapa, avec Bản Ý Linh Hồ et Village de Lao Chai. Opérateur : Sapa Odyssey Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Vallée de Muong Hoa : randonnée d'une journée dans les rizières en terrasses",
+  "metaTitle": "Vallée de Muong Hoa : une journée dans les rizières",
   "metaDescription": "Excursion d'une demi-journée à Sapa. Comprend guide, déjeuner et eau. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "lai-chau-2-day-3-night-car-tour-from-hanoi": {
@@ -21053,7 +21053,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le guide (facultatifs)"
   ],
   "shortDescription": "Excursion de 2 jours à Sapa, avec Sa Pa, Vallée de Muong Hoa et Động Tiên Sơn Xã Bình Lư Tỉnh Lai Châu. Opérateur : Morning Vietnam, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Lai Chau : circuit en voiture de 2 jours et 3 nuits au départ de Hanoï",
+  "metaTitle": "Lai Chau : circuit en voiture de 2 jours depuis Hanoï",
   "metaDescription": "Excursion de 2 jours à Sapa. Comprend transport pendant le circuit. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "best-2-day-sapa-trekking-and-local-homestay-with-trains": {
@@ -21136,7 +21136,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Eau"
   ],
   "shortDescription": "Excursion d'une demi-journée à Sapa, comprenant billet, guide et les motos sont rapatriées à Sapa à la fin du circuit. Opérateur : Sa Pa Authentic tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Mont Ham Rong et village de Hang Da : randonnée guidée d'une journée",
+  "metaTitle": "Mont Ham Rong et village de Hang Da : randonnée guidée",
   "metaDescription": "Excursion d'une demi-journée à Sapa. Comprend billet et guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "sapa-trekking-waterfalls-and-h-mong-villages-by-local-operator": {
@@ -21192,7 +21192,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Transport aller-retour Hanoï - Sapa"
   ],
   "shortDescription": "Excursion de 2 jours à Sapa, avec Colline de Sa Xeng, Bản Hang Đá et Village de Hau Thao. Opérateur : HELEN, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa : randonnée guidée de 2 jours dans la vallée avec nuit en homestay",
+  "metaTitle": "Sapa : randonnée guidée de 2 jours dans la vallée",
   "metaDescription": "Excursion de 2 jours à Sapa. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "trekking-to-villages-and-cooking-class-in-town-in-sapa": {
@@ -21579,7 +21579,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Boissons supplémentaires (soda, café...)"
   ],
   "shortDescription": "Excursion à Sapa, comprenant prise en charge et retour à l'hôtel, droit d'entrée dans les villages et guide anglophone. Opérateur : Sapa Trekking Hiking Tours, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa : randonnée privée dans les plus belles rizières en terrasses",
+  "metaTitle": "Sapa : randonnée privée dans les plus belles rizières",
   "metaDescription": "Excursion à Sapa. Comprend prise en charge et retour à l'hôtel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "1-day-trek-through-rice-terraces-and-villages-in-sapa": {
@@ -21726,7 +21726,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Transfert séparé en option depuis ou vers Sapa, Ninh Binh, la baie d'Ha Long ou Cat Ba (sur demande)"
   ],
   "shortDescription": "Excursion de 4 jours à Sapa, comprenant 1 nuit offerte au Jasmine Hostel avant le circuit, 1 tee-shirt pour ceux qui terminent et grande consigne à bagages. Opérateur : Jasmine Tour Ha Giang, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Boucle de Ha Giang en autonomie, 3 jours et 2 nuits avec Jasmine Tours, au départ de Sapa",
+  "metaTitle": "Boucle de Ha Giang en autonomie : 3 jours depuis Sapa",
   "metaDescription": "Excursion de 4 jours à Sapa. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "herbal-trekking-tour-with-red-dao-people-1-day-in-sapa": {
@@ -21874,7 +21874,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément jours fériés de 700 000 VND par personne, à régler au guide le jour même (30 avril, 1er mai, 1er, 2 et 3 septembre, 24 et 31 décembre, 1er janvier)"
   ],
   "shortDescription": "Excursion de 2 jours à Sapa, comprenant Transfert Hanoï - Sapa - Hanoï, un guide local anglophone à Sapa et tous les repas prévus au programme. Opérateur : CÔNG TY TNHH NINH BINH GETAWAY, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa et le marché de Bac Ha en 2 jours : train de nuit et nuit chez l'habitant, par un opérateur local",
+  "metaTitle": "Sapa et le marché de Bac Ha : 2 jours, train de nuit",
   "metaDescription": "Excursion de 2 jours à Sapa. Comprend Transfert Hanoï - Sapa - Hanoï. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "2-day-guided-trek-with-homestay-guide-english-french-in-sapa": {
@@ -22268,7 +22268,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément pendant le Nouvel An lunaire, du 26 janvier au 2 février 2025 : 15 USD par personne, à régler sur place."
   ],
   "shortDescription": "Excursion d'une journée entière à Sapa, comprenant guide anglophone, déjeuner et 2 bouteilles d'eau par personne. Opérateur : Vietnam Nomadtrails, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Villages de Suoi Ho et Ma Tra : excursion privée d'une journée à Sapa",
+  "metaTitle": "Villages de Suoi Ho et Ma Tra : journée privée à Sapa",
   "metaDescription": "Excursion d'une journée entière à Sapa. Comprend guide anglophone. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "sapa-3-day-trek-with-culture-and-cozy-bungalow": {
@@ -22411,7 +22411,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Repas"
   ],
   "shortDescription": "Excursion de 3 jours à Sapa, avec Cascade de Thac Bac, Cascade de l'Amour et L'arbre solitaire. Opérateur : Ethnic Community Tours, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "De Hanoï à Sapa : circuit privé de 3 jours avec expériences locales",
+  "metaTitle": "De Hanoï à Sapa : circuit privé de 3 jours",
   "metaDescription": "Excursion de 3 jours à Sapa. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "mountain-views-and-red-dao-herbal-bath-at-a-local-home-in-sapa": {
@@ -22443,7 +22443,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Visite de la passerelle de verre"
   ],
   "shortDescription": "Excursion d'une journée entière à Sapa, avec Cascade d'Argent de Sa Pa, Cascade de l'Amour et L'arbre solitaire d'O Quy Ho. Opérateur : Ethnic Community Cultural Tours, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa : panoramas de montagne et bain aux herbes dao rouge chez l'habitant",
+  "metaTitle": "Sapa : panoramas et bain aux herbes dao rouge",
   "metaDescription": "Excursion d'une journée entière à Sapa. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "fansipan-peak-one-day-hiking-tour-with-local-guide": {
@@ -22918,7 +22918,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Guide francophone : 19 USD par personne, à régler à la confirmation"
   ],
   "shortDescription": "Excursion d'une demi-journée à Sapa, comprenant prise en charge à l'hôtel, guide et billets d'entrée. Opérateur : Vietnam Nomadtrails, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Vallée de Muong Hoa : randonnée et villages des communautés locales",
+  "metaTitle": "Vallée de Muong Hoa : randonnée et villages locaux",
   "metaDescription": "Excursion d'une demi-journée à Sapa. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "real-local-life-of-dao-people-herbal-bath-local-food-in-sapa": {
@@ -23061,7 +23061,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles (souvenirs, artisanat des villages)"
   ],
   "shortDescription": "Excursion de 3 jours à Sapa, comprenant guide local pendant tout le voyage, transport simple des bagages entre les étapes et 2 nuits chez l'habitant. Opérateur : Mimi SaPa Trekking Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa : trek de 3 jours entre villages cachés et nature avec Mama Shushu, par un opérateur local",
+  "metaTitle": "Sapa : trek de 3 jours avec Mama Shushu",
   "metaDescription": "Excursion de 3 jours à Sapa. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "cat-cat-village-waterfall-and-mountain-tour-with-lunch-in-sapa": {
@@ -23463,7 +23463,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément chambre individuelle (700 000 VND par personne, à régler sur place)"
   ],
   "shortDescription": "Excursion d'une journée entière à Sapa, comprenant billet aller-retour de bus limousine entre Hanoï et Sapa, 1 nuit en hôtel 3 étoiles et 2 déjeuners, 1 dîner. Opérateur : CÔNG TY TNHH NINH BINH GETAWAY, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa : 2 jours, sommet du Fansipan, randonnée et bus pour Ha Giang",
+  "metaTitle": "Sapa : 2 jours, sommet du Fansipan et bus pour Ha Giang",
   "metaDescription": "Excursion d'une journée entière à Sapa. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "sapa-beautiful-rice-field-village-easy-walking-kid-senior-by-local-operator": {
@@ -23621,7 +23621,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Moto ou voiture si vous souhaitez faire une halte en chemin et rejoindre le homestay en voiture"
   ],
   "shortDescription": "Excursion de 2 jours à Sapa, comprenant guide en personne, déjeuner les deux jours et dîner du jour 1. Opérateur : LALA SAPA TREKKING & HOMESTAY., en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa : randonnée de 2 jours avec guide local et nuit au LaLa Homestay",
+  "metaTitle": "Sapa : randonnée de 2 jours et nuit au LaLa Homestay",
   "metaDescription": "Excursion de 2 jours à Sapa. Comprend guide en personne. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "1-day-amazing-sapa-trek-to-terrace-rice-field": {
@@ -24299,7 +24299,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense non mentionnée au programme"
   ],
   "shortDescription": "Excursion de 2 jours à Sapa, avec Keep trek et finish the tour. Opérateur : Isee Hmoob Company Limited, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa : trek de 2 jours et 1 nuit, nuit chez l'habitant et culture hmong avec iSee Hmoob",
+  "metaTitle": "Sapa : trek de 2 jours et culture hmong avec iSee Hmoob",
   "metaDescription": "Excursion de 2 jours à Sapa. Comprend ce qui est compris. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "exclusive-sapa-lonely-tree-and-secret-cave-by-car-by-local-operator": {
@@ -24325,7 +24325,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Déjeuner et dépenses personnelles"
   ],
   "shortDescription": "Excursion d'une journée entière à Sapa, avec L'arbre solitaire d'O Quy Ho, Cascade de Tac Tinh et Đồi Thông Tả Lèng Huyện Tam đường. Opérateur : Ethnic Community Cultural Tours, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa en exclusivité : l'Arbre solitaire et la grotte secrète en voiture, par un opérateur local",
+  "metaTitle": "Sapa : l'Arbre solitaire et la grotte secrète en voiture",
   "metaDescription": "Excursion d'une journée entière à Sapa. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "sapa-tour-with-hotel-stay-and-beautiful-natural-views-2-days": {
@@ -24386,7 +24386,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément les jours fériés, comme le réveillon du Nouvel An ou la fête nationale..."
   ],
   "shortDescription": "Excursion d'une demi-journée à Sapa, avec Passerelle de verre de Rong May et Cascade de Thac Bac. Opérateur : Cyclo Travel & Leisure, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa : demi-journée à la passerelle de verre et à la cascade d'Argent",
+  "metaTitle": "Sapa : passerelle de verre et cascade d'Argent",
   "metaDescription": "Excursion d'une demi-journée à Sapa. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "fansipan-one-day-trek-with-local-guide": {
@@ -24684,7 +24684,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Téléphérique jusqu'au sommet du Fansipan et train de Muong Hoa"
   ],
   "shortDescription": "Excursion de 2 jours à Sapa, comprenant aller-retour depuis Hanoï, hébergement à l'hôtel et guide. Opérateur : VN BIKE TOUR COMPANY LIMTIED, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa : 2 jours et 1 nuit, village de Cat Cat et sommet du Fansipan",
+  "metaTitle": "Sapa : 2 jours, village de Cat Cat et Fansipan",
   "metaDescription": "Excursion de 2 jours à Sapa. Comprend aller-retour depuis Hanoï. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "3-day-ninh-binh-and-sapa-trekking-with-train": {
@@ -24956,7 +24956,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Boissons et pourboires"
   ],
   "shortDescription": "Excursion de 2 jours à Sapa, comprenant transport aller-retour en bus limousine climatisé, guide à Sapa et 2 déjeuners et 1 petit-déjeuner. Opérateur : DragonflyCruise, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa : randonnée de 2 jours avec transfert en limousine de standing",
+  "metaTitle": "Sapa : randonnée de 2 jours, transfert en limousine",
   "metaDescription": "Excursion de 2 jours à Sapa. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "sapa-ha-giang-and-ban-gioc-waterfall-private-car": {
@@ -25071,7 +25071,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément pour un guide non anglophone (visite privée)"
   ],
   "shortDescription": "Excursion de 3 jours à Sapa, comprenant bus climatisé moderne, bus moderne à Sapa avec des chauffeurs expérimentés et guide accompagnateur à Sapa. Opérateur : Enni tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Aventure de 3 jours à Sapa : Lao Chai, Cat Cat et le sommet du Fansipan",
+  "metaTitle": "Sapa en 3 jours : Lao Chai, Cat Cat et le Fansipan",
   "metaDescription": "Excursion de 3 jours à Sapa. Comprend bus climatisé moderne. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "sapa-package-tour-2-days-1-night-at-hotel-by-local-operator": {
@@ -25208,7 +25208,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Le bus de Sapa vers Hanoï ou une autre destination n'est pas compris, mais peut être organisé selon les disponibilités."
   ],
   "shortDescription": "Excursion de 6 jours à Sapa, comprenant guides anglophones à Sapa, moto et carburant et un pilote easy rider à Ha Giang. Opérateur : ZingHome Ha Giang Loop Tours, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Ha Giang : boucle de Ha Giang et trek à Sapa en 6 jours, par un opérateur local",
+  "metaTitle": "Boucle de Ha Giang et trek à Sapa en 6 jours",
   "metaDescription": "Excursion de 6 jours à Sapa. Comprend guides anglophones à Sapa. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "5-day-ninh-binh-halong-overnight-cruise-and-sapa-local": {
@@ -25418,7 +25418,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Prise en charge et retour à l'hôtel"
   ],
   "shortDescription": "Billet d'entrée à Hanoï, comprenant billets réservés à l'avance pour le spectacle de marionnettes sur l'eau de Hanoï, programme du spectacle disponible dans votre langue et retrait facile du billet papier au bureau. Opérateur : Tinny Travel Co.Ltd, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hanoï : billet VIP six premiers rangs pour les marionnettes sur l'eau",
+  "metaTitle": "Hanoï : billet VIP, six premiers rangs, marionnettes",
   "metaDescription": "Billet d'entrée à Hanoï. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "hanoi-incense-village-ao-dai-rental-and-photoshoot-by-local-operator": {
@@ -25838,7 +25838,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ],
   "shortDescription": "Excursion de 1 heure à Hanoï, comprenant conteur culturel, dégustations de thés d'exception comprises dans la formule choisie et récits culturels interactifs et séance de questions-réponses. Opérateur : Rose Kitchen Hanoi, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Thé au lotus de Hanoï : fabrication, dégustation et culture vietnamienne",
+  "metaTitle": "Thé au lotus de Hanoï : fabrication et dégustation",
   "metaDescription": "Excursion de 1 heure à Hanoï. Comprend conteur culturel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "4-day-ha-giang-loop-to-all-highlights-by-car-stay-resort-4-in-hanoi": {
@@ -25869,7 +25869,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le guide et le chauffeur"
   ],
   "shortDescription": "Excursion de 4 jours à Hanoï, avec Hà Giang, Village de Du Gia et Meo Vac. Opérateur : Ha Giang Loop Tours - Hai Dang Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Boucle de Ha Giang en 4 jours en voiture, tous les incontournables, resort 4 étoiles",
+  "metaTitle": "Boucle de Ha Giang : 4 jours en voiture, resort 4 étoiles",
   "metaDescription": "Excursion de 4 jours à Hanoï. Comprend récent et tous les repas. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "ha-giang-loop-4-night-4-day-with-easy-rider-in-hanoi": {
@@ -26023,7 +26023,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ],
   "shortDescription": "Excursion d'une demi-journée à Hanoï, comprenant prise en charge et retour à l'hôtel dans le vieux quartier de Hanoï et ses abords, guide local et jeep légendaire de l'Armée populaire du Vietnam et chauffeur professionnel. Opérateur : Amazing VietNam tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hanoï en Jeep : incontournables de la ville et village de Bat Trang",
+  "metaTitle": "Hanoï en Jeep : la ville et le village de Bat Trang",
   "metaDescription": "Excursion d'une demi-journée à Hanoï. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ceramic-village-dong-ho-painting-and-carpentry-village-in-hanoi": {
@@ -26051,7 +26051,7 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [],
   "shortDescription": "Excursion d'une demi-journée à Hanoï, comprenant guide personnel, prise en charge et retour à l'hôtel et visite du village de céramique de Bat Trang. Opérateur : Vietnam Craft Village, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hanoï : village de céramique, estampes de Dong Ho et village de menuiserie",
+  "metaTitle": "Hanoï : village de céramique et estampes de Dong Ho",
   "metaDescription": "Excursion d'une demi-journée à Hanoï. Comprend guide personnel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "vegan-local-street-food-and-train-street-in-hanoi": {
@@ -26349,7 +26349,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Billet pour la grotte de Mua : 100 000 VND par personne"
   ],
   "shortDescription": "Excursion d'une journée entière à Hanoï, comprenant transfert aller-retour en Jeep militaire à travers la campagne, guide anglophone connaissant bien la région et eau en bouteille offerte pendant tout le trajet. Opérateur : NINH BINH AUTHENTIC TRAVEL, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Trang An en barque, Bich Dong et coucher de soleil à la grotte de Mua",
+  "metaTitle": "Trang An en barque, Bich Dong et la grotte de Mua",
   "metaDescription": "Excursion d'une journée entière à Hanoï. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "vietnamese-coffee-workshop-6-brews-10-tastings-wines": {
@@ -26466,7 +26466,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Tout ce qui n'est pas clairement mentionné ci-dessus"
   ],
   "shortDescription": "Excursion à Hanoï, comprenant jeep vintage avec chauffeur professionnel, guide connaissant la ville en profondeur et dîner authentique de bún chả et café à l'œuf ou thé au lotus rue du Train. Opérateur : City Tour Hanoi, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hanoï en Jeep au coucher du soleil : rue du Train et lumières de la ville",
+  "metaTitle": "Hanoï en Jeep au coucher du soleil : la rue du Train",
   "metaDescription": "Excursion à Hanoï. Comprend jeep vintage avec chauffeur professionnel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "rose-kitchen-pho-bun-cha-nem-free-egg-salt-coffee-in-hanoi": {
@@ -26524,7 +26524,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément jours fériés au Vietnam"
   ],
   "shortDescription": "Excursion d'une demi-journée à Hanoï, avec Hanoï. Opérateur : VN BIKE TOUR COMPANY LIMTIED, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hanoï en Jeep : patrimoine méconnu, rue du Train et escapade sur l'île",
+  "metaTitle": "Hanoï en Jeep : patrimoine méconnu et rue du Train",
   "metaDescription": "Excursion d'une demi-journée à Hanoï. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "hanoi-countryside-tour-with-female-riders-and-hidden-villages-by-local-operator": {
@@ -26713,7 +26713,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute prestation supplémentaire non listée dans la formule (disponible moyennant supplément)"
   ],
   "shortDescription": "Excursion à Hanoï, comprenant location d'ao dai, séance photo et accompagnement par un photographe. Opérateur : H22 Hanoi Photography, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Vieux quartier de Hanoï : location d'ao dai et séance photo professionnelle",
+  "metaTitle": "Vieux quartier de Hanoï : ao dai et séance photo",
   "metaDescription": "Excursion à Hanoï. Comprend location d'ao dai et séance photo. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "half-day-city-tour-with-veg-lunch-opt-max-22-guests-in-hanoi": {
@@ -27074,7 +27074,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément Nouvel An lunaire (250 000 VND par personne)"
   ],
   "shortDescription": "Excursion d'une demi-journée à Hanoï, comprenant visite du temple de Truc, visite du site naturel de Ngu Dong Thi Son et exploration des Cinq Grottes. Opérateur : Vietnam Craft Village, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Temple de Truc et les 5 grottes, ou Tam Chuc, la plus grande pagode du monde",
+  "metaTitle": "Temple de Truc et les 5 grottes, ou la pagode Tam Chuc",
   "metaDescription": "Excursion d'une demi-journée à Hanoï. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "safe-indoor-shooting-experience-with-1-on-1-coach-in-hanoi": {
@@ -27530,7 +27530,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Prise en charge et retour à l'hôtel"
   ],
   "shortDescription": "Excursion de 0,75 heures à Hanoï, comprenant billets réservés à l'avance pour le spectacle de marionnettes sur l'eau de Hanoï, programme du spectacle disponible dans votre langue et retrait facile du billet papier au bureau. Opérateur : vietnamtraditionalvillages.com, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hanoï : billets pour le spectacle de marionnettes sur l'eau Thang Long",
+  "metaTitle": "Hanoï : billets pour les marionnettes sur l'eau Thang Long",
   "metaDescription": "Excursion de 0,75 heures à Hanoï. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ride-vietnam-s-historic-railway-ha-noi-lao-cai-night-train-hanoi": {
@@ -27819,7 +27819,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément Nouvel An lunaire (250 000 VND par personne)"
   ],
   "shortDescription": "Excursion d'une demi-journée à Hanoï, comprenant visite de la pagode Khai Nguyen, voir la plus grande statue du bouddha Amitabha d'Asie du Sud-Est et découvrir l'architecture singulière de la pagode. Opérateur : Vietnam Craft Village, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Village de Duong Lam ou pagode Khai Nguyen, et village de l'encens",
+  "metaTitle": "Village de Duong Lam et village de l'encens, depuis Hanoï",
   "metaDescription": "Excursion d'une demi-journée à Hanoï. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "water-puppet-show-tickets-skip-the-line-in-hanoi": {
@@ -28497,7 +28497,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Repas en option : supplément par personne"
   ],
   "shortDescription": "Excursion de 1,5 heures à Hanoï, comprenant tout le matériel de broderie, cours pas à pas avec un artisan local réputé et interprète. Opérateur : Up Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Patrimoine de Hanoï : atelier de broderie dans une maison ancienne",
+  "metaTitle": "Hanoï : atelier de broderie dans une maison ancienne",
   "metaDescription": "Excursion de 1,5 heures à Hanoï. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "cao-bang-loop-tour-4-days-3-nights-with-a-local-guide-in-hanoi": {
@@ -28732,7 +28732,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Audioguide"
   ],
   "shortDescription": "Billet d'entrée à Hanoï, avec Finish at. Opérateur : Vietnamtravelers, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hanoï : billet coupe-file pour le spectacle de marionnettes sur l'eau",
+  "metaTitle": "Hanoï : billet coupe-file, marionnettes sur l'eau",
   "metaDescription": "Billet d'entrée à Hanoï. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "vietnam-war-stories-hoa-lo-prison-and-subsidy-era-area": {
@@ -28757,7 +28757,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion de 3 heures à Hanoï, comprenant visite de la prison de Hoa Lo, visite de l'ancien marché de la période des subventions et guide local. Opérateur : ONETRIP WITH LOCAL TRAVEL CO., LTD, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Récits de la guerre du Vietnam : prison de Hoa Lo et quartier des subventions",
+  "metaTitle": "Guerre du Vietnam : prison de Hoa Lo et quartier des subventions",
   "metaDescription": "Excursion de 3 heures à Hanoï. Comprend visite de la prison de Hoa Lo. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "hanoi-paragliding-tour-roundtrip-transfer-from-city-by-local-operator": {
@@ -29524,7 +29524,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Surclassement en chambre individuelle privée"
   ],
   "shortDescription": "Excursion de 2 jours à Hanoï, avec District de Trung Khanh. Opérateur : RED LION TRAVEL, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "De Hanoï : chutes de Ban Gioc, grotte et village artisanal en 2 jours",
+  "metaTitle": "De Hanoï : chutes de Ban Gioc et village artisanal, 2 jours",
   "metaDescription": "Excursion de 2 jours à Hanoï. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "hanoi-city-motorbike-tour-with-female-riders-and-train-street-by-local-operator": {
@@ -29660,7 +29660,7 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [],
   "shortDescription": "Excursion à Hanoï, comprenant massage corporel vietnamien traditionnel, huiles essentielles et praticien. Opérateur : Rosie's Magical Spa, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Vieux quartier de Hanoï : massage corporel vietnamien traditionnel",
+  "metaTitle": "Vieux quartier de Hanoï : massage vietnamien traditionnel",
   "metaDescription": "Excursion à Hanoï. Comprend massage corporel vietnamien traditionnel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "ninh-binh-2-day-1-night-stay-at-homestay-bungalow-hanoi": {
@@ -29962,7 +29962,7 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [],
   "shortDescription": "Billet d'entrée à Hanoï, comprenant billet d'entrée au spectacle de marionnettes sur l'eau Thang Long et dépliant détaillant le programme. Opérateur : Asia Travel Legend Company Vietnam, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hanoï : billet pour le spectacle traditionnel de marionnettes sur l'eau",
+  "metaTitle": "Hanoï : spectacle traditionnel de marionnettes sur l'eau",
   "metaDescription": "Billet d'entrée à Hanoï. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "7-tastings-street-food-tour-with-train-street-in-hanoi": {
@@ -30153,7 +30153,7 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [],
   "shortDescription": "Excursion de 2,5 heures à Hanoï, comprenant atelier pratique de fabrication de couteau, toutes les matières premières et tous les outils et instructions et accompagnement direct d'un maître forgeron. Opérateur : Hoang Bich Phuong, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hanoï : atelier pratique de forge de couteau avec un maître forgeron",
+  "metaTitle": "Hanoï : atelier de forge de couteau avec un forgeron",
   "metaDescription": "Excursion de 2,5 heures à Hanoï. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "trang-an-tam-coc-mua-cave-hoa-lu-day-tour": {
@@ -30714,7 +30714,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Prise en charge à l'hôtel ou au logement hors du vieux quartier de Hanoï"
   ],
   "shortDescription": "Excursion d'une journée entière à Hanoï, avec Province de Ninh Binh. Opérateur : Nest Asia Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Ninh Binh : incontournables en petit groupe, limousine DCAR 9 places (Hanoï)",
+  "metaTitle": "Ninh Binh en petit groupe, limousine DCAR 9 places",
   "metaDescription": "Excursion d'une journée entière à Hanoï. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ninh-binh-trang-an-hoa-lu-and-incense-village": {
@@ -31139,7 +31139,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion à Hoi An, avec Village écologique de cocotiers de Cam Thanh et Vieille ville de Hoi An. Opérateur : orange tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : visite de la ville, balade en bateau et lâcher de lanternes",
+  "metaTitle": "Hoi An : la ville, le bateau et le lâcher de lanternes",
   "metaDescription": "Excursion à Hoi An. Comprend prise en charge et retour à l'hôtel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "hoi-an-cooking-class-and-tra-que-vegetable-village-by-bike-by-local-operator": {
@@ -31221,7 +31221,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toutes les prestations non expressément mentionnées dans « Ce qui est compris »"
   ],
   "shortDescription": "Excursion de 1 heure à Hoi An, avec Village de cocotiers de Cam Thanh. Opérateur : GIA QUAN EXPRESS, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : barque dans la cocoteraie, lancer de filet et pêche à la crevette",
+  "metaTitle": "Hoi An : barque dans la cocoteraie et lancer de filet",
   "metaDescription": "Excursion de 1 heure à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "my-son-sanctuary-ancient-hoi-an-and-da-nang-by-local-operator": {
@@ -31276,7 +31276,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ],
   "shortDescription": "Excursion d'une demi-journée à Hoi An, avec Voiturette électrique, Duy Vinh et Duy Hai. Opérateur : Hoi An Vibes Tours, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : trottinette électrique, barque ronde et dégustations locales",
+  "metaTitle": "Hoi An : trottinette électrique et barque ronde",
   "metaDescription": "Excursion d'une demi-journée à Hoi An. Comprend guide anglophone. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "10-days-vietnam-family-tour-hoi-an": {
@@ -31417,7 +31417,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Prestations non mentionnées"
   ],
   "shortDescription": "Excursion à Hoi An, avec La montagne du Singe, Péninsule de Son Tra et Da Nang. Opérateur : Rose Kitchen Hanoi, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Ba Na Hills et Pont d'Or : excursion d'une journée depuis Da Nang ou Hoi An, par un opérateur local",
+  "metaTitle": "Ba Na Hills et Pont d'Or : journée depuis Da Nang",
   "metaDescription": "Excursion à Hoi An. Comprend prise en charge et retour à l'hôtel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "hue-hoi-an-and-da-nang-transfer-with-sightseeing-by-local-operator": {
@@ -32305,7 +32305,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Boisson pendant le repas"
   ],
   "shortDescription": "Excursion d'une demi-journée à Hoi An, comprenant prise en charge et retour à l'hôtel à Hoi An, véhicule climatisé et guide. Opérateur : My Son Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : sanctuaire de My Son et bateau avec déjeuner spécial, départ 5 h 30 ou 8 h (Hoi An)",
+  "metaTitle": "Hoi An : sanctuaire de My Son et bateau avec déjeuner",
   "metaDescription": "Excursion d'une demi-journée à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "cham-islands-scuba-diving-experience-with-2-divemaster-opts-hoi-an": {
@@ -32365,7 +32365,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Boissons personnelles (bière, sodas, etc.)"
   ],
   "shortDescription": "Excursion à Hoi An, avec Linh Ung Pagoda, Son Tra, Montagnes de Marbre et Sanctuaire de My Son. Opérateur : AN AN TRAVEL HOI AN, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Depuis Hoi An ou Da Nang : sanctuaire de My Son et montagnes de Marbre",
+  "metaTitle": "Sanctuaire de My Son et montagnes de Marbre",
   "metaDescription": "Excursion à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "lady-buddha-marble-mountains-hoi-an-ancient-town": {
@@ -32454,7 +32454,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Droits d'entrée"
   ],
   "shortDescription": "Excursion d'une demi-journée à Hoi An, comprenant prise en charge et retour à l'hôtel, véhicule climatisé et guide anglophone. Opérateur : HAIVAN TRAVEL, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : demi-journée aux villages de potiers de Thanh Ha et de menuisiers de Kim Bong",
+  "metaTitle": "Hoi An : villages de Thanh Ha et de Kim Bong",
   "metaDescription": "Excursion d'une demi-journée à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "vietnamese-calligraphy-workshop-and-tea-ceremony": {
@@ -32509,7 +32509,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Autres dépenses non mentionnées ci-dessus"
   ],
   "shortDescription": "Excursion de 0,25 heures à Hoi An, comprenant balade de 15 minutes en bateau sur la rivière, possibilité de lâcher une lanterne fleurie sur la rivière et une expérience culturelle unique à la nuit tombée. Opérateur : Hai An Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : balade privée en bateau aux lanternes sur la rivière Hoai",
+  "metaTitle": "Hoi An : bateau aux lanternes privé sur la rivière Hoai",
   "metaDescription": "Excursion de 0,25 heures à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "from-hoian-danang-hue-imperial-city-tour-with-haivan-pass-hoi-an": {
@@ -32536,7 +32536,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour les guides et les chauffeurs"
   ],
   "shortDescription": "Excursion d'une journée entière à Hoi An, avec Col de Hai Van, Lagune de Lap An et Citadelle historique de Hué. Opérateur : Venus Travel Hoi An, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Depuis Hoi An ou Da Nang : cité impériale de Hué par le col de Hai Van",
+  "metaTitle": "Cité impériale de Hué par le col de Hai Van",
   "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "vegan-cooking-class-market-tour-and-basket-boat-in-hoi-an": {
@@ -32621,7 +32621,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "vous choisissez celui qui vous plaît"
   ],
   "shortDescription": "Excursion d'une journée entière à Hoi An, avec Tam Giang Lagoon, Thua Thien-Hue, Dream Spring et Lagune de Lap An. Opérateur : Rew Rew Adventures, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "De Hué à Hoi An par le col de Hai Van, à moto avec des easy riders",
+  "metaTitle": "De Hué à Hoi An par le col de Hai Van, à moto",
   "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "hoi-an-ancient-town-and-coconut-village-tour": {
@@ -32678,7 +32678,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Autres dépenses non mentionnées ci-dessus"
   ],
   "shortDescription": "Excursion de 0,25 heures à Hoi An, avec Bateau sur la rivière Hoai. Opérateur : GJ Travel Viet Nam, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : balade nocturne sur la rivière Hoai avec lâcher de lanternes",
+  "metaTitle": "Hoi An : rivière Hoai de nuit avec lâcher de lanternes",
   "metaDescription": "Excursion de 0,25 heures à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "lantern-making-workshop-in-hoi-an-old-town": {
@@ -33128,7 +33128,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Billet d'entrée"
   ],
   "shortDescription": "Excursion à Hoi An, avec Da Nang et Vieille ville de Hoi An. Opérateur : VN BIKE TOUR COMPANY LIMTIED, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Da Nang et Hoi An : journée complète entre montagnes, barque ronde et lanternes",
+  "metaTitle": "Da Nang et Hoi An : montagnes, barque ronde et lanternes",
   "metaDescription": "Excursion à Hoi An. Comprend transport climatisé. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "lantern-and-coffee-making-class-in-hoi-an": {
@@ -33267,7 +33267,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion à Hoi An, avec Hoi An, On foot et Rivière Thu Bon. Opérateur : orange tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : atelier café et balade en bateau à lanternes, prise en charge à Da Nang, par un opérateur local",
+  "metaTitle": "Hoi An : atelier café et bateau à lanternes",
   "metaDescription": "Excursion à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "cham-islands-with-2-snorkeling-options": {
@@ -33602,7 +33602,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ],
   "shortDescription": "Excursion à Hoi An, comprenant prise en charge et retour à l'hôtel, chef anglophone et visite du marché. Opérateur : Vietnam Orange Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : cours de cuisine végétarienne, village de cocotiers en option",
+  "metaTitle": "Hoi An : cuisine végétarienne, cocotiers en option",
   "metaDescription": "Excursion à Hoi An. Comprend prise en charge et retour à l'hôtel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "hidden-countryside-atv-adventure-organic-farm-and-bbq-lunch-in-hoi-an": {
@@ -33778,7 +33778,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion d'une journée entière à Hoi An, avec Col de Hai Van, Pont du Dragon, Da Nang et Montagnes de Marbre. Opérateur : Local Buddy Tours Vietnam, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Depuis le port de Chan May ou Tien Sa : les incontournables de Da Nang et Hoi An",
+  "metaTitle": "Ports de Chan May et Tien Sa : Da Nang et Hoi An",
   "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "hoi-an-bronze-rings-bracelet-making-worshop-by-art-craftman-by-local-operator": {
@@ -33806,7 +33806,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboire"
   ],
   "shortDescription": "Excursion de 3 heures à Hoi An, comprenant prise en charge et retour en voiture moderne privée, encadrement direct par des bronziers locaux et hôte anglophone, également votre chauffeur. Opérateur : Funtastic Basket Boat Tours and Cooking Class, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : atelier de bagues et bracelets en bronze avec un artisan d'art, par un opérateur local",
+  "metaTitle": "Hoi An : atelier de bagues et bracelets en bronze",
   "metaDescription": "Excursion de 3 heures à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "hoai-river-night-boat-trip-and-floating-lantern-in-hoi-an": {
@@ -33971,7 +33971,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires (facultatifs)"
   ],
   "shortDescription": "Excursion de 3 heures à Hoi An, comprenant prise en charge et retour à l'hôtel à Hoi An, chef ou instructeur et boisson de bienvenue. Opérateur : GJ Travel Viet Nam, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : cours de cuisine végétarienne et visite du village de cocotiers",
+  "metaTitle": "Hoi An : cuisine végétarienne et village de cocotiers",
   "metaDescription": "Excursion de 3 heures à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "coconut-village-ancient-town-and-lantern-release-in-hoi-an": {
@@ -33999,7 +33999,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément pour les autres langues et les jours fériés"
   ],
   "shortDescription": "Excursion d'une journée entière à Hoi An, comprenant remarque : écrivez au +84 888 588 700 pour vérifier la disponibilité., prise en charge et retour à votre hôtel et guide. Opérateur : Vn biketour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : village de cocotiers, vieille ville et lâcher de lanternes",
+  "metaTitle": "Hoi An : cocoteraie, vieille ville et lâcher de lanternes",
   "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "tra-que-herb-village-cooking-class-in-hoi-an": {
@@ -34053,7 +34053,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Aliments et boissons supplémentaires"
   ],
   "shortDescription": "Excursion à Hoi An, avec Woodart Vietnam. Opérateur : Authentic Vietnam Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Atelier de sculpture sur bois avec prise en charge à l'hôtel à Hoi An",
+  "metaTitle": "Hoi An : atelier de sculpture sur bois avec transfert",
   "metaDescription": "Excursion à Hoi An. Comprend prise en charge et retour à l'hôtel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "hoi-an-ancient-town-lantern-boat-ride-and-memories-show-by-local-operator": {
@@ -34082,7 +34082,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément jours fériés au Vietnam"
   ],
   "shortDescription": "Excursion de 1 heure à Hoi An, comprenant prise en charge et retour gratuits à l'hôtel dans le centre de Hoi An, guide local et billets d'entrée aux sites mentionnés au programme. Opérateur : Global Explore, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Vieille ville de Hoi An, bateau aux lanternes et spectacle Memories",
+  "metaTitle": "Hoi An : bateau aux lanternes et spectacle Memories",
   "metaDescription": "Excursion de 1 heure à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "bach-ma-national-park-trekking-tour-hoi-an-da-nang-hue-by-local-operator": {
@@ -34258,7 +34258,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires (facultatifs)"
   ],
   "shortDescription": "Excursion de 1 heure à Hoi An, comprenant barista-instructeur, atelier participatif de préparation du café et tous les ustensiles et ingrédients nécessaires pour le café. Opérateur : GJ Travel Viet Nam, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Atelier de préparation du café vietnamien dans une torréfaction locale",
+  "metaTitle": "Atelier de café vietnamien dans une torréfaction locale",
   "metaDescription": "Excursion de 1 heure à Hoi An. Comprend barista-instructeur. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "hoi-an-incense-making-workshop-experience": {
@@ -34407,7 +34407,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Prise en charge et retour hors du centre de Da Nang"
   ],
   "shortDescription": "Excursion d'une journée entière à Hoi An, avec Village écologique de cocotiers de Cam Thanh, Vieille ville de Hoi An et Pont couvert japonais. Opérateur : Dacotours, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Barque ronde dans la cocoteraie, coucher de soleil et vieille ville de Hoi An",
+  "metaTitle": "Barque ronde dans la cocoteraie et vieille ville de Hoi An",
   "metaDescription": "Excursion d'une journée entière à Hoi An. Comprend récent. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "marble-mountains-am-phu-cave-and-lady-buddha": {
@@ -34631,7 +34631,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion d'une demi-journée à Hoi An, comprenant vélo et casque, guide et balade en barque ronde. Opérateur : Momo Travel Limited Company, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : vélo à la campagne, marché, barque ronde et cuisine à la ferme bio",
+  "metaTitle": "Hoi An : vélo, marché, barque ronde et ferme bio",
   "metaDescription": "Excursion d'une demi-journée à Hoi An. Comprend vélo et casque. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "private-lantern-boat-with-lantern-release-in-hoi-an": {
@@ -35139,7 +35139,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Autres dépenses non mentionnées ci-dessus"
   ],
   "shortDescription": "Excursion de 0,3333333333333333 heures à Hoi An, comprenant balade en bateau de 15 minutes et 1 lanterne flottante par personne. Opérateur : Anna Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : balade nocturne en bateau et lanterne flottante sur la rivière Hoai",
+  "metaTitle": "Rivière Hoai de nuit : bateau et lanterne flottante",
   "metaDescription": "Excursion de 0,3333333333333333 heures à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "hoi-an-coconut-boat-lantern-making-and-cooking-class-organic-by-local-operator": {
@@ -35192,7 +35192,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Autres dépenses non mentionnées ci-dessus"
   ],
   "shortDescription": "Excursion de 0,25 heures à Hoi An, avec On foot et Rivière Thu Bon. Opérateur : HOANG THIEN COMPANY, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : bateau de nuit et lanterne en papier flottante sur la rivière Hoai",
+  "metaTitle": "Hoi An : bateau de nuit et lanterne sur la rivière Hoai",
   "metaDescription": "Excursion de 0,25 heures à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "coconut-forest-marble-mountains-and-boat-tour": {
@@ -35396,7 +35396,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ],
   "shortDescription": "Excursion de 3 heures à Hoi An, avec Zone des rizières, Pont de Đế Võng et Village maraîcher de Tra Que. Opérateur : SUNRISE TOUR Hoi An, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : balade à vélo de 3 heures dans la campagne, ludique et sûre, par un opérateur local",
+  "metaTitle": "Hoi An : 3 heures à vélo dans la campagne",
   "metaDescription": "Excursion de 3 heures à Hoi An. Comprend guide anglophone. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "hue-hoian-danang-easy-riders-motobike-trip-via-hai-van-pass-hoi-an": {
@@ -35426,7 +35426,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion d'une journée entière à Hoi An, avec Pont du Dragon, Da Nang, Péninsule de Son Tra et Col de Hai Van. Opérateur : Rew Rew Adventures, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hué, Hoi An et Da Nang : virée à moto en easy rider par le col de Hai Van (Hoi An)",
+  "metaTitle": "Hué, Hoi An et Da Nang : easy rider au col de Hai Van",
   "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ba-na-hills-and-golden-bridge-full-day-tour": {
@@ -35481,7 +35481,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ],
   "shortDescription": "Excursion de 0,8333333333333334 heures à Hoi An, comprenant guide, droit d'entrée et bouteille d'eau. Opérateur : Viet Nam Happy Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : la fabrication traditionnelle de la soie au village de la soie",
+  "metaTitle": "Hoi An : la soie traditionnelle au village de la soie",
   "metaDescription": "Excursion de 0,8333333333333334 heures à Hoi An. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "hoi-an-lantern-alley-food-and-story-walk": {
@@ -35788,7 +35788,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ],
   "shortDescription": "Excursion de 2,5 heures à Hoi An, avec Vieille ville de Hoi An et Finish at. Opérateur : BEEP BEEP TRAVEL, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Vieille ville de Hoi An : voyage dans le temps avec un guide local",
+  "metaTitle": "Vieille ville de Hoi An : à pied avec un guide local",
   "metaDescription": "Excursion de 2,5 heures à Hoi An. Comprend guide anglophone. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "hoi-an-eco-cycling-tour-ride-into-the-real-local-life-by-local-operator": {
@@ -36078,7 +36078,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Billet d'entrée au sanctuaire de My Son, environ 6 USD, soit 150 000 VND par personne"
   ],
   "shortDescription": "Excursion d'une demi-journée à Hoi An, avec Finish at. Opérateur : My Son Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sanctuaire de My Son avec options jungle de cocotiers, au départ de Hoi An ou Da Nang (Hoi An)",
+  "metaTitle": "My Son avec option jungle de cocotiers, depuis Hoi An",
   "metaDescription": "Excursion d'une demi-journée à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "bach-ma-national-park-trekking-and-discovery-tour-from-hue-hoi-an": {
@@ -36108,7 +36108,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le guide et le chauffeur (facultatifs)"
   ],
   "shortDescription": "Excursion d'une journée entière à Hoi An, avec Parc national de Bach Ma. Opérateur : Green Adventure Viet Nam, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Parc national de Bach Ma : randonnée et découverte au départ de Hué",
+  "metaTitle": "Parc national de Bach Ma : randonnée depuis Hué",
   "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "3-hours-hoi-an-countryside-motorbike-tour-fun-and-safe-by-local-operator": {
@@ -36477,7 +36477,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Prestations non mentionnées ci-dessus (comme l'ascenseur jusqu'au sommet)"
   ],
   "shortDescription": "Excursion à Hoi An, comprenant transferts aller-retour depuis et vers l'hôtel, droits d'entrée des montagnes de Marbre et de la grotte d'Am Phu et guide. Opérateur : Da Nang Happy Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "De la montagne de Marbre à la montagne du Singe : visite guidée en groupe",
+  "metaTitle": "De la montagne de Marbre à la montagne du Singe",
   "metaDescription": "Excursion à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "silk-village-tour-with-artisan-and-local-meal-in-hoi-an": {
@@ -36726,7 +36726,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Nourriture et boissons"
   ],
   "shortDescription": "Excursion de 0,25 heures à Hoi An, avec Hoi An. Opérateur : Hoi An Lantern Boat Tours, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : balade privée en bateau aux lanternes et lâcher de lanterne flottante",
+  "metaTitle": "Hoi An : bateau aux lanternes privé et lanterne flottante",
   "metaDescription": "Excursion de 0,25 heures à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "hoi-an-biking-river-islands-village-crafts-private-tour-by-local-operator": {
@@ -37119,7 +37119,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément jours fériés au Vietnam"
   ],
   "shortDescription": "Excursion à Hoi An, comprenant transfert privé climatisé, guide et dîner. Opérateur : Luxury Vietnam Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Vieille ville de Hoi An, lâcher de lanternes et spectacle Hoi An Memories",
+  "metaTitle": "Hoi An : lâcher de lanternes et spectacle Hoi An Memories",
   "metaDescription": "Excursion à Hoi An. Comprend transfert privé climatisé et guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "hue-imperial-city-by-bus-or-train-experience": {
@@ -37206,7 +37206,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Prise en charge et retour à Da Nang ou à Hué"
   ],
   "shortDescription": "Excursion à Hoi An, avec Hoi An, Cẩm Kim et V942+Qh5. Opérateur : Local Buddy Tours Vietnam, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : visite privée des villages de campagne et des îles fluviales, par un opérateur local",
+  "metaTitle": "Hoi An : villages de campagne et îles fluviales en privé",
   "metaDescription": "Excursion à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "from-hoian-and-danang-hue-city-tour-with-haivan-pass-hoi-an": {
@@ -37566,7 +37566,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Demande particulière pour les bagages (transport en bus, 3 USD par bagage)"
   ],
   "shortDescription": "Excursion d'une journée entière à Hoi An, comprenant tous les billets d'entrée et frais de stationnement, pilote easy rider anglophone et une moto. Opérateur : Easy Rider Tour via Hai Van Pass from Hue - Da Nang - Hoi An (1Way/RoundTrip), en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Circuit à moto en easy rider par le col de Hai Van : Hoi An, Da Nang et Hué, par un opérateur local",
+  "metaTitle": "Easy rider au col de Hai Van : Hoi An, Da Nang et Hué",
   "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "hoi-an-evening-ancient-town-lantern-boat-and-memories-show-by-local-operator": {
@@ -37637,7 +37637,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Transport aller-retour vers le restaurant"
   ],
   "shortDescription": "Excursion à Hoi An, comprenant déjeuner à menu fixe au Hai Cafe Restaurant & BBQ Courtyard et places réservées. Opérateur : Southern Breeze Joint stock company, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : déjeuner à menu fixe au Hai Cafe Restaurant & BBQ Courtyard",
+  "metaTitle": "Hoi An : déjeuner à menu fixe au Hai Cafe & BBQ Courtyard",
   "metaDescription": "Excursion à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "hoi-an-city-tour-boat-ride-flower-lantern-release-on-the-river-by-local-operator": {
@@ -37664,7 +37664,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le guide et le chauffeur"
   ],
   "shortDescription": "Excursion de 3 heures à Hoi An, avec Marché de Hoi An, Maison commune du Fujian et Vieille maison de Tan Ky. Opérateur : Golden Bridge Trip, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : visite de la ville, balade en bateau et lâcher de lanternes fleuries sur la rivière, par un opérateur local",
+  "metaTitle": "Hoi An : la ville, le bateau et les lanternes fleuries",
   "metaDescription": "Excursion de 3 heures à Hoi An. Comprend véhicule climatisé. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "vinwonders-nam-hoi-an-safari-and-water-park": {
@@ -37845,7 +37845,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Autres dépenses non mentionnées ci-dessus"
   ],
   "shortDescription": "Excursion de 0,25 heures à Hoi An, avec On foot et Rivière Thu Bon. Opérateur : Vietnam Orange Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Balade nocturne en bateau sur la rivière Hoai et lâcher de lanternes, à Hoi An",
+  "metaTitle": "Hoi An : rivière Hoai de nuit et lanternes flottantes",
   "metaDescription": "Excursion de 0,25 heures à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "hanoi-afternoon-escape-trang-an-bac-pagoda-and-lantern-boat-hoi-an": {
@@ -37875,7 +37875,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le guide et le chauffeur (facultatifs)"
   ],
   "shortDescription": "Excursion d'une journée entière à Hoi An, avec Trang An et Hoa Lu. Opérateur : Up Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Escapade d'un après-midi : Trang An, pagode de Bai Dinh et bateau aux lanternes",
+  "metaTitle": "Après-midi : Trang An, Bai Dinh et bateau aux lanternes",
   "metaDescription": "Excursion d'une journée entière à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "my-son-marble-and-monkey-mountains-tour": {
@@ -38131,7 +38131,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour les guides et les chauffeurs"
   ],
   "shortDescription": "Excursion à Hoi An, avec Village écologique de cocotiers de Cam Thanh et Hoi An. Opérateur : HOANG THIEN COMPANY, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Village de cocotiers et vieille ville de Hoi An avec lâcher de lanternes",
+  "metaTitle": "Cocoteraie et vieille ville de Hoi An, lâcher de lanternes",
   "metaDescription": "Excursion à Hoi An. Comprend prise en charge et retour à l'hôtel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "best-tour-transfer-to-my-son-sanctuary-hoi-an": {
@@ -38407,7 +38407,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Si votre hôtel est hors de notre zone de prise en charge, rejoignez-nous au 14 An Nhon 10, Son Tra, ou au point le plus proche pour vous."
   ],
   "shortDescription": "Excursion à Hoi An, avec Sanctuaire de My Son et Điện Bàn. Opérateur : VENUS TRAVEL DANANG, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sanctuaire de My Son et galettes de riz : circuit Deluxe depuis Da Nang",
+  "metaTitle": "My Son et galettes de riz : circuit Deluxe depuis Da Nang",
   "metaDescription": "Excursion à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "explore-hai-van-pass-by-us-army-jeep-in-hoi-an": {
@@ -38715,7 +38715,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Location de yukata japonais, 4e étage"
   ],
   "shortDescription": "Billet d'entrée à Hoi An, comprenant billet pour le parc aquatique Mikazuki 365, transfert privé aller-retour depuis l'hôtel et accès aux parcs aquatiques couverts et en plein air. Opérateur : Linda Vn bike Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Parc aquatique Mikazuki : billet et transfert depuis l'hôtel à Hoi An",
+  "metaTitle": "Parc aquatique Mikazuki : billet et transfert à Hoi An",
   "metaDescription": "Billet d'entrée à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "hue-imperial-city-tour-and-dragon-cruise-experience-ha-long": {
@@ -38771,7 +38771,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour les guides et les chauffeurs"
   ],
   "shortDescription": "Excursion d'une demi-journée à Ha Long, avec Sanctuaire de My Son. Opérateur : Vietnam Orange Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sanctuaire de My Son et croisière sur la rivière Thu Bon depuis Hoi An",
+  "metaTitle": "My Son et la rivière Thu Bon en croisière, depuis Hoi An",
   "metaDescription": "Excursion d'une demi-journée à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "14-day-family-tour-with-halong-bay-cruise": {
@@ -38889,7 +38889,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires (facultatifs)"
   ],
   "shortDescription": "Excursion d'une demi-journée à Ha Long, avec Sanctuaire de My Son, District de Duy Xuyen et Bateau fluvial. Opérateur : Viet Nam Daily Tours, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "My Son le matin ou l'après-midi depuis Hoi An, avec croisière panoramique",
+  "metaTitle": "My Son depuis Hoi An, avec croisière panoramique",
   "metaDescription": "Excursion d'une demi-journée à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "sunset-bbq-fishing-tour-with-locals-by-boat-cruise-in-ha-long": {
@@ -38946,7 +38946,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires (facultatifs)"
   ],
   "shortDescription": "Excursion d'une demi-journée à Ha Long, avec Sanctuaire de My Son, Restaurant Mỹ Sơn et Bateau fluvial. Opérateur : AN AN TRAVEL HOI AN, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sanctuaire de My Son et croisière sur la rivière Thu Bon au départ de Hoi An",
+  "metaTitle": "My Son et croisière sur la rivière Thu Bon, depuis Hoi An",
   "metaDescription": "Excursion d'une demi-journée à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "mekong-delta-cruise-with-meals-and-accomodation-3-days": {
@@ -39083,7 +39083,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles et pourboires"
   ],
   "shortDescription": "Excursion de 3 heures à Ha Long, avec Rivière de Saïgon et Hô Chi Minh-Ville. Opérateur : VIETNAM ADVENTURE & HERITAGE, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Croisière ICON au coucher du soleil et open bus avec prise en charge privée",
+  "metaTitle": "Croisière ICON au coucher du soleil et open bus",
   "metaDescription": "Excursion de 3 heures à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "saigon-river-luxury-dinner-cruise-and-night-skyline-ha-long": {
@@ -39113,7 +39113,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément jours fériés au Vietnam"
   ],
   "shortDescription": "Excursion de 3 heures à Ha Long, comprenant transfert en voiture climatisée, guide et tous les billets d'entrée. Opérateur : Vietnam Vision Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Dîner-croisière de standing sur la rivière de Saïgon et gratte-ciel de nuit",
+  "metaTitle": "Dîner-croisière de standing sur la rivière de Saïgon",
   "metaDescription": "Excursion de 3 heures à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "luxury-river-cruise-with-dinner-and-transfer-in-ha-long": {
@@ -39167,7 +39167,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion de 3 heures à Ha Long, avec Vedette rapide et Rivière de Saïgon. Opérateur : Saigon River Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hô Chi Minh-Ville : croisière de standing du Nouvel An 2027 avec feu d'artifice",
+  "metaTitle": "Saigon : croisière du Nouvel An 2027 et feu d'artifice",
   "metaDescription": "Excursion de 3 heures à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "romantic-saigon-nights-dinner-cruise-experience-ha-long": {
@@ -39276,7 +39276,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Guide"
   ],
   "shortDescription": "Excursion de 1 heure à Ha Long, comprenant billet d'entrée, musique live et glace ou boissons. Opérateur : Viet Horizons Journeys, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hô Chi Minh-Ville : croisière panoramique sur la rivière de Saïgon avec musique live",
+  "metaTitle": "Croisière sur la rivière de Saïgon avec musique live",
   "metaDescription": "Excursion de 1 heure à Ha Long. Comprend billet d'entrée. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "watch-the-sunset-or-enjoy-dinner-on-luxury-cruise-in-saigon-ha-long": {
@@ -39307,7 +39307,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément jours fériés au Vietnam"
   ],
   "shortDescription": "Excursion de 1 heure à Ha Long, comprenant transfert en voiture climatisée, guide et tous les billets d'entrée. Opérateur : VN BIKE TOUR COMPANY LIMTIED, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Saïgon : coucher de soleil ou dîner à bord d'une croisière de standing",
+  "metaTitle": "Saïgon : coucher de soleil ou dîner en croisière",
   "metaDescription": "Excursion de 1 heure à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "dinner-cruise-with-buffet-and-live-music-in-ha-long": {
@@ -39408,7 +39408,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Important : vérifiez la disponibilité auprès de nous avant de réserver, par WhatsApp ou par téléphone au +84 888 348 800 (informations sur les circuits), pour confirmer votre réservation"
   ],
   "shortDescription": "Excursion à Ha Long, comprenant prise en charge et retour à votre hôtel, guide anglophone et droits d'entrée. Opérateur : GUU TRAVEL, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hô Chi Minh-Ville de nuit : dîner-croisière sur la rivière de Saïgon",
+  "metaTitle": "Saigon de nuit : dîner-croisière sur la rivière",
   "metaDescription": "Excursion à Ha Long. Comprend prise en charge et retour à votre hôtel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "landmark-81-skyview-and-dinner-cruise-in-ha-long": {
@@ -39765,7 +39765,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément chambre individuelle : 1 000 000 VND par personne"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long, comprenant hanoï, guide et croisière en bateau dans la baie d'Ha Long. Opérateur : Sunlight Travel & Cruise, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie d'Ha Long 2 jours / 1 nuit : kayak, grottes et coucher de soleil",
+  "metaTitle": "Baie d'Ha Long 2 jours : kayak, grottes et coucher de soleil",
   "metaDescription": "Excursion de 2 jours à Ha Long. Comprend hanoï et guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "ha-long-bay-full-day-cruise-buffet-kayak-and-sung-sot-cave-by-local-operator": {
@@ -39833,7 +39833,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Assurance voyage, supplément au Nouvel An, à Noël et les jours fériés"
   ],
   "shortDescription": "Excursion de 3 jours à Ha Long, avec Visit Hoa Lu and Cycling At Hoa Lu, Visit Trang An et Grotte de Mua et bungalow à Ninh Binh. Opérateur : Halongbayluxcruises - Marvel Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Ninh Binh, Ha Long et Bai Tu Long : croisière 5 étoiles de 3 jours",
+  "metaTitle": "Ninh Binh, Ha Long et Bai Tu Long : 3 jours, 5 étoiles",
   "metaDescription": "Excursion de 3 jours à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ha-long-bay-day-cruise": {
@@ -40064,7 +40064,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément jours fériés (Nouvel An lunaire, Noël, Nouvel An, etc.)"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long, comprenant guide, droits d'entrée et frais de visite et croisière de standing dans la baie de Bai Tu Long. Opérateur : Anh Tourist Hanoi Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie de Bai Tu Long au calme : 2 jours / 1 nuit en croisière de standing",
+  "metaTitle": "Baie de Bai Tu Long au calme : 2 jours en croisière",
   "metaDescription": "Excursion de 2 jours à Ha Long. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "2-day-jeep-city-tour-and-ha-long-bay-luxury-cruise": {
@@ -40659,7 +40659,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion à Ha Long, comprenant prise en charge et retour à l'hôtel, et transport aller-retour en, guide et croisière 5 étoiles partagée de 2 jours. Opérateur : Azotar Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie d'Ha Long et île de Cat Ba : croisière de standing de 3 jours",
+  "metaTitle": "Baie d'Ha Long et île de Cat Ba : croisière de 3 jours",
   "metaDescription": "Excursion à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "3-day-2-night-ha-long-bay-lan-ha-bay-by-amanda-luxury-cruise": {
@@ -40695,7 +40695,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Si vous voyagez en groupe mais souhaitez une cabine individuelle, réservez séparément"
   ],
   "shortDescription": "Excursion à Ha Long, avec Restaurant local, Village de pêcheurs de Tra Bau et Ha Long. Opérateur : AN LAM HA LONG TOURISM SERVICES, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baies d'Ha Long et de Lan Ha : 3 jours / 2 nuits à bord de l'Amanda",
+  "metaTitle": "Ha Long et Lan Ha : 3 jours à bord de l'Amanda",
   "metaDescription": "Excursion à Ha Long. Comprend 2 dîners et 2 petits-déjeuners. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "cat-ba-island-and-lan-ha-bay-day-trip-with-cruise": {
@@ -40758,7 +40758,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément jours fériés au Vietnam"
   ],
   "shortDescription": "Excursion à Ha Long, comprenant prise en charge et retour à l'hôtel dans le vieux quartier de Hanoï, transport aller-retour par l'autoroute récente et croisière en yacht de standing. Opérateur : Atlas Vietnam Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Croisière de standing à Ha Long et Lan Ha, kayak et coucher de soleil",
+  "metaTitle": "Croisière de standing à Ha Long et Lan Ha, avec kayak",
   "metaDescription": "Excursion à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "3-day-trip-to-ninh-binh-with-ha-long-bay-cruise": {
@@ -40891,7 +40891,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires et autres dépenses personnelles"
   ],
   "shortDescription": "Excursion de 3 jours à Ha Long, avec Point de rendez-vous au port de croisière, Déjeuner et Kayak et baignade. Opérateur : Venezia Cruises, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Lan Ha et Cat Ba : croisière de 3 jours avec 2 nuits à bord du Venezia",
+  "metaTitle": "Lan Ha et Cat Ba : 3 jours à bord du Venezia",
   "metaDescription": "Excursion de 3 jours à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "lan-ha-bay-full-day-boat-tour": {
@@ -41123,7 +41123,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Assurance individuelle"
   ],
   "shortDescription": "Excursion de 3 jours à Ha Long, comprenant Limousine Hanoï - Ninh Binh - baie d'Ha Long - Hanoï, 1 nuit à bord d'une croisière 4 ou 5 étoiles à Ha Long et 1 nuit dans un hôtel 3 ou 4 étoiles à Ninh Binh. Opérateur : Azotar Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "3 jours de standing : Ninh Binh et croisière dans la baie d'Ha Long",
+  "metaTitle": "3 jours : Ninh Binh et croisière dans la baie d'Ha Long",
   "metaDescription": "Excursion de 3 jours à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ha-noi-ha-long-bay-day-cruise-in-one-day-tour-by-local-operator": {
@@ -41187,7 +41187,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles et pourboires"
   ],
   "shortDescription": "Excursion de 3 jours à Ha Long, avec Embarquement à bord du Fantasea, Grotte de Sung Sot et Ferme perlière et kayak. Opérateur : Culture Adventure Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Croisière dans la baie d'Ha Long et Ninh Binh : circuit de 3 jours",
+  "metaTitle": "Croisière à Ha Long et Ninh Binh : circuit de 3 jours",
   "metaDescription": "Excursion de 3 jours à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ha-long-luxury-full-day-tour": {
@@ -41381,7 +41381,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément de 65 $ pour les voyageurs seuls souhaitant une chambre individuelle privée"
   ],
   "shortDescription": "Excursion de 3 jours à Ha Long, avec Balade à vélo dans le village de Viet Hai, Visit Mua Cave et Balade en barque à Trang An. Opérateur : NINH BINH FOOTPRINT TRAVEL, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie de Lan Ha et Ninh Binh : excursion de 3 jours en petit groupe",
+  "metaTitle": "Baie de Lan Ha et Ninh Binh : 3 jours en petit groupe",
   "metaDescription": "Excursion de 3 jours à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "2-3-day-lan-ha-bay-erina-5-cruise-kayak-swimming-and-cooking-class-ha-long": {
@@ -41416,7 +41416,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément de 30 USD pour le dîner de gala du 24/12 et du 31/12"
   ],
   "shortDescription": "Excursion à Ha Long, comprenant transport aller-retour depuis et vers Hanoï ou Ninh Binh en, droits d'entrée et guide. Opérateur : Erina Cruise 5 Star, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie de Lan Ha : croisière Erina 5 étoiles de 2 ou 3 jours avec kayak, baignade et cours de cuisine",
+  "metaTitle": "Baie de Lan Ha : croisière Erina 5 étoiles, 2 ou 3 jours",
   "metaDescription": "Excursion à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "2-days-ha-long-bay-5-star-cruise": {
@@ -41641,7 +41641,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément les jours fériés"
   ],
   "shortDescription": "Excursion à Ha Long, avec Île de Cat Ba, Ben Beo harbour, Cat Ba Island et Baie de Lan Ha. Opérateur : GREEN VOYAGE CO. LTD, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hanoï, Ninh Binh ou Cat Ba : croisière de standing dans la baie de Lan Ha avec jacuzzi",
+  "metaTitle": "Baie de Lan Ha : croisière de standing avec jacuzzi",
   "metaDescription": "Excursion à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ha-long-bay-2-day-tour-with-la-pandora-boutique-cruise-by-local-operator": {
@@ -41961,7 +41961,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires (facultatifs)"
   ],
   "shortDescription": "Excursion d'une journée entière à Ha Long, comprenant transport en limousine de standing, guide et Croisière Sunlight Crystal. Opérateur : CÔNG TY TNHH MTV GO VIETNAM TRIP HÀ NỘI, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie d'Ha Long : croisière premium à la journée avec limousine de standing",
+  "metaTitle": "Baie d'Ha Long : croisière premium avec limousine",
   "metaDescription": "Excursion d'une journée entière à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "lan-ha-bay-cozy-cruise-biking-kayaking-small-group-meals-ha-long": {
@@ -42053,7 +42053,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément jours fériés de 700 000 VND par personne, à régler directement au guide (30 avril, 1er mai, 1er, 2 et 3 septembre, 24 et 31 décembre, 1er janvier, Nouvel An lunaire)"
   ],
   "shortDescription": "Excursion à Ha Long, comprenant prise en charge et retour à l'hôtel, guide à bord et nuit à bord en cabine privée avec salle de bains privative. Opérateur : CÔNG TY TNHH NINH BINH GETAWAY, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie d'Ha Long : 2 jours avec nuit à bord d'une croisière 5 étoiles ou haut de gamme",
+  "metaTitle": "Baie d'Ha Long : 2 jours avec nuit en croisière 5 étoiles",
   "metaDescription": "Excursion à Ha Long. Comprend prise en charge et retour à l'hôtel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "3-days-luxury-5-star-halong-bay-cruise-cat-ba-island": {
@@ -42184,7 +42184,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toutes les autres prestations non clairement mentionnées ci-dessus"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long, comprenant 1 nuit en cabine avec balcon privé, tous les droits d'entrée et 2 déjeuners, 1 dîner. Opérateur : Ocean Journey Services, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Lan Ha : croisière de standing de 2 jours, balcon, kayak et piscine à débordement",
+  "metaTitle": "Lan Ha : croisière 2 jours, balcon et piscine",
   "metaDescription": "Excursion de 2 jours à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ha-long-bay-luxury-overnight-cruise-2-day-1-night-or-3-day-2-night": {
@@ -42214,7 +42214,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le guide et le chauffeur (facultatifs)"
   ],
   "shortDescription": "Excursion à Ha Long, comprenant prise en charge et retour à l'hôtel dans le centre de Hanoï, guide local et kayak ou barque de bambou. Opérateur : Global Explore, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie d'Ha Long : croisière de standing avec nuit à bord, 2 jours / 1 nuit ou 3 jours / 2 nuits",
+  "metaTitle": "Baie d'Ha Long : croisière avec nuit à bord, 2 ou 3 jours",
   "metaDescription": "Excursion à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ha-long-bay-day-trip-luxury-cruise-and-buffet-lunch-2": {
@@ -42249,7 +42249,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute prestation non mentionnée au programme"
   ],
   "shortDescription": "Excursion d'une journée entière à Ha Long, comprenant transfert aller-retour en bus depuis le Vieux Quartier de Hanoï, guide et droit d'entrée à la baie d'Ha Long. Opérateur : Real Vietnam Travel Company, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie d'Ha Long : journée en croisière de luxe avec déjeuner buffet",
+  "metaTitle": "Baie d'Ha Long : croisière de luxe et déjeuner buffet",
   "metaDescription": "Excursion d'une journée entière à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "from-hanoi-or-ha-long-2-day-ha-long-bay-and-lan-ha-bay-cruise-by-local-operator": {
@@ -42279,7 +42279,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toutes les autres prestations non clairement mentionnées ci-dessus"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long, comprenant guide parlant anglais et vietnamien à bord, cabine de standing avec balcon privé et tous les repas à bord mentionnés au programme. Opérateur : La Regina Cruises, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "De Hanoï ou Ha Long : croisière de 2 jours dans les baies d'Ha Long et de Lan Ha",
+  "metaTitle": "De Hanoï : 2 jours de croisière à Ha Long et Lan Ha",
   "metaDescription": "Excursion de 2 jours à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "cat-ba-island-2-days-lan-ha-bay-hiking-biking-kayaking-ha-long": {
@@ -42401,7 +42401,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément jours fériés au Vietnam"
   ],
   "shortDescription": "Excursion à Ha Long, comprenant prise en charge et retour à l'hôtel dans le vieux quartier de Hanoï, transport aller-retour depuis Hanoï et croisière de standing. Opérateur : Global Explore, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baies d'Ha Long et de Lan Ha : croisière de standing en une journée",
+  "metaTitle": "Ha Long et Lan Ha : croisière de standing en une journée",
   "metaDescription": "Excursion à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ha-long-bay-new-5-star-cruise-from-hanoi-with-limousine-by-local-operator": {
@@ -42499,7 +42499,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Boissons"
   ],
   "shortDescription": "Excursion d'une demi-journée à Ha Long, avec Hai Duong, Ha Long et Baie d'Ha Long. Opérateur : Dragon King Viet Nam, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie d'Ha Long à la journée : croisière 5 étoiles et activités comprises",
+  "metaTitle": "Baie d'Ha Long : journée en croisière 5 étoiles",
   "metaDescription": "Excursion d'une demi-journée à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "halong-bay-1-day-trip-by-luxury-arcady-premium-cruise-ha-long": {
@@ -42564,7 +42564,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Si vous voyagez en groupe mais souhaitez une cabine individuelle, réservez séparément"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long, comprenant 1 dîner, 1 petit-déjeuner et 2 déjeuners. Opérateur : AN LAM HA LONG TOURISM SERVICES, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie de Lan Ha : 2 jours et 1 nuit à bord du Le Journey Luxury Cruise",
+  "metaTitle": "Baie de Lan Ha : 2 jours à bord du Le Journey Luxury",
   "metaDescription": "Excursion de 2 jours à Ha Long. Comprend 1 dîner et 1 petit-déjeuner. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "cat-ba-national-park-museum-cave-and-sunset-cruise": {
@@ -42599,7 +42599,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Boissons pendant le repas"
   ],
   "shortDescription": "Excursion d'une journée entière à Ha Long, avec Baie de Lan Ha, Point de vue et Parc national de Cat Ba. Opérateur : Halong Alina Daily Cruise, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Parc national de Cat Ba : musée, grotte et croisière au coucher du soleil",
+  "metaTitle": "Parc national de Cat Ba : musée, grotte et croisière",
   "metaDescription": "Excursion d'une journée entière à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "4-day-ha-giang-loop-small-group-motorbike-tour-with-rider-in-ha-long": {
@@ -42818,7 +42818,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément chambre individuelle ou lit supplémentaire pour les voyageurs seuls"
   ],
   "shortDescription": "Excursion à Ha Long, comprenant transfert en voiture partagée avec prise en charge et retour à votre hôtel à, guide anglophone à bord et tous les billets d'entrée. Opérateur : VN BIKE TOUR COMPANY LIMTIED, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Ha Long 2 jours / 1 nuit ou 3 jours / 2 nuits en croisière 5 étoiles, balcon et baignoire",
+  "metaTitle": "Ha Long : 2 ou 3 jours en croisière 5 étoiles avec balcon",
   "metaDescription": "Excursion à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "halong-bay-cat-ba-island-3-day-2-night-cave-view-point-trekking": {
@@ -42856,7 +42856,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "4. La gratuité ne s'applique qu'à un seul enfant de moins de 4 ans partageant la chambre de deux adultes."
   ],
   "shortDescription": "Excursion de 3 jours à Ha Long, avec Déjeuner, Visite de la grotte de Sung Sot et Visite de l'île de Ti Top. Opérateur : Sunlight Travel & Cruise, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie d'Ha Long et île de Cat Ba : 3 jours et 2 nuits entre grottes, panoramas et randonnée",
+  "metaTitle": "Ha Long et Cat Ba : 3 jours entre grottes et randonnée",
   "metaDescription": "Excursion de 3 jours à Ha Long. Comprend 1. Hanoï. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "half-day-cruise-with-lunch-kayaking-and-swimming-in-ha-long": {
@@ -42981,7 +42981,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le guide et le chauffeur"
   ],
   "shortDescription": "Excursion de 6 jours à Ha Long, comprenant bus climatisé et bus limousine selon notre programme, guide et balade en bateau sur la rivière Nho Que et dans la baie d'Ha Long. Opérateur : Tam Coc Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "6 jours / 5 nuits : Ninh Binh, boucle de Ha Giang et baie d'Ha Long à bord de l'Arcady",
+  "metaTitle": "6 jours : Ninh Binh, Ha Giang et Ha Long sur l'Arcady",
   "metaDescription": "Excursion de 6 jours à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ha-long-bay-day-cruise-from-hanoi-kayaking-swimming-lunch-by-local-operator": {
@@ -43137,7 +43137,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute prestation non expressément mentionnée au programme"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long, avec Croisière au lever du soleil et exploration de grotte. Opérateur : Casa Viet Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "De Hanoï : croisière de standing de 2 jours dans la baie de Lan Ha, repas compris",
+  "metaTitle": "De Hanoï : 2 jours de croisière dans la baie de Lan Ha",
   "metaDescription": "Excursion de 2 jours à Ha Long. Comprend hébergement en cabine privée. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "lan-ha-bay-5-stars-luxury-cruise-2-day-trip-ha-long": {
@@ -43300,7 +43300,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion à Ha Long, avec Parc national de Cat Ba, Grotte de Trung Trang et Pic de Ngu Lam. Opérateur : Cat Ba Sonder, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Demi-journée de trek au pic de Ngu Lam et à la grotte de Trung Trang",
+  "metaTitle": "Pic de Ngu Lam et grotte de Trung Trang : demi-journée",
   "metaDescription": "Excursion à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ha-long-and-lan-ha-bay-luxury-cruise-caves-kayak-and-sunset-by-local-operator": {
@@ -43539,7 +43539,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Assurance voyage"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long, comprenant transfert pratique de Hanoï à Cat Ba, randonnée dans le parc national de Cat Ba et kayak à travers la grotte Claire. Opérateur : CÔNG TY TNHH VIỆT NAM TRAVEL TOURISM, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "De Hanoï, 2 jours / 1 nuit : trek à Cat Ba et aventure dans la baie de Lan Ha",
+  "metaTitle": "De Hanoï, 2 jours : trek à Cat Ba et baie de Lan Ha",
   "metaDescription": "Excursion de 2 jours à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "lan-ha-bay-cruise-2-or-3-day-6-luxury-cruise": {
@@ -43597,7 +43597,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ],
   "shortDescription": "Excursion d'une journée entière à Ha Long, comprenant prise en charge et retour à l'hôtel dans le secteur du vieux quartier de Hanoï, une bouteille d'eau par personne et guide pendant tout le circuit. Opérateur : Da Nang Happy Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "De Hanoï : baie d'Ha Long en une journée avec 6 heures de croisière",
+  "metaTitle": "De Hanoï : baie d'Ha Long et 6 heures de croisière",
   "metaDescription": "Excursion d'une journée entière à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "lanhabay-with-luxury-cruise-full-day-in-ha-long": {
@@ -43663,7 +43663,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Les enfants partagent le lit des parents"
   ],
   "shortDescription": "Excursion à Ha Long, comprenant transport aller-retour depuis et vers Hanoï ou Ninh Binh en, droits d'entrée et guide anglophone et surclassement offert selon disponibilité. Opérateur : Doris Cruise 5 Star, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie de Lan Ha : croisière Doris Grand 5 étoiles de 2 ou 3 jours avec randonnée, vélo et kayak",
+  "metaTitle": "Baie de Lan Ha : croisière Doris Grand, 2 ou 3 jours",
   "metaDescription": "Excursion à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "luxury-2-day-1-night-cruise-l-ha-long-and-lan-ha-bay-with-fine-dining": {
@@ -43868,7 +43868,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Place en navette ou bus standard : 300 000 VND de plus par personne."
   ],
   "shortDescription": "Excursion d'une demi-journée à Ha Long, comprenant sortie en kayak ou en barque de bambou, cours de cuisine et apéritif au coucher du soleil avec thé. Opérateur : Anh Tourist Hanoi Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie d'Ha Long à la journée depuis le port : croisière de standing, buffet et kayak",
+  "metaTitle": "Baie d'Ha Long : journée depuis le port, buffet et kayak",
   "metaDescription": "Excursion d'une demi-journée à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "symphony-cruise-5-star-cruise-for-day-and-night-halong-bay-ha-long": {
@@ -43898,7 +43898,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Éléments non mentionnés dans « Inclus »"
   ],
   "shortDescription": "Excursion à Ha Long, comprenant boisson de bienvenue, tous les droits d'entrée et frais de visite et 1 déjeuner buffet. Opérateur : La Passion, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Symphony Cruise : croisière 5 étoiles de jour et de nuit dans la baie d'Ha Long",
+  "metaTitle": "Symphony Cruise : 5 étoiles, de jour et de nuit à Ha Long",
   "metaDescription": "Excursion à Ha Long. Comprend boisson de bienvenue. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "hanoi-private-2-day-bhaya-classic-cruise-to-ha-long-bay-by-local-operator": {
@@ -43927,7 +43927,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Boissons"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long, comprenant prise en charge et retour à l'hôtel, transfert en limousine de standing par l'autoroute et hébergement à bord du Bhaya Classic. Opérateur : Southern Breeze Joint stock company, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "De Hanoï en privé : 2 jours dans la baie d'Ha Long à bord du Bhaya Classic",
+  "metaTitle": "Baie d'Ha Long en privé : 2 jours sur le Bhaya Classic",
   "metaDescription": "Excursion de 2 jours à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "heritage-cruise-2-day-l-ha-long-bay-and-lan-ha-bay-unesco-tour-by-local-operator": {
@@ -44077,7 +44077,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément chambre individuelle ou lits supplémentaires"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long, comprenant prise en charge et retour à l'hôtel offerts à Ha Long, Hanoï et Ninh Binh, transport en véhicule climatisé partagé et guide local. Opérateur : Global Explore, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Escapade de standing à Ha Long : 2 jours / 1 nuit ou 3 jours / 2 nuits sur un yacht 6 étoiles",
+  "metaTitle": "Ha Long : 2 ou 3 jours sur un yacht 6 étoiles",
   "metaDescription": "Excursion de 2 jours à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "bai-tu-long-bay-cruise-with-vung-vieng-fishing-village-in-ha-long": {
@@ -44111,7 +44111,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toutes les autres prestations non clairement indiquées comme incluses"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long, avec Embarquement à bord, Déjeuner et Cruise Through Bai Tu Long Bay and Vung Vieng Fishing Village. Opérateur : Caroline's Travel Agency, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Croisière dans la baie de Bai Tu Long et village de pêcheurs de Vung Vieng",
+  "metaTitle": "Baie de Bai Tu Long et village flottant de Vung Vieng",
   "metaDescription": "Excursion de 2 jours à Ha Long. Comprend boisson de bienvenue. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "2-day-1-night-ha-long-and-lan-ha-bay-by-le-journey-elegance-cruise": {
@@ -44146,7 +44146,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Si vous voyagez en groupe mais souhaitez une cabine individuelle, réservez séparément"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long, comprenant 1 dîner, 1 petit-déjeuner et 2 déjeuners. Opérateur : AN LAM HA LONG TOURISM SERVICES, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baies d'Ha Long et de Lan Ha : 2 jours et 1 nuit à bord du Le Journey Elegance",
+  "metaTitle": "Ha Long et Lan Ha : 2 jours à bord du Le Journey Elegance",
   "metaDescription": "Excursion de 2 jours à Ha Long. Comprend 1 dîner et 1 petit-déjeuner. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "ha-long-bay-bay-with-private-car-and-private-luxury-crruise-by-local-operator": {
@@ -44305,7 +44305,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion à Ha Long, avec Ben Beo harbour, Cat Ba Island, Lan Ha Bay and Ba Trai Dao beach et Baie de Lan Ha. Opérateur : CAT BA PANORAMA TRAVEL LIMITED COMPANY, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie de Lan Ha : croisière d'une journée, kayak et coucher de soleil",
+  "metaTitle": "Baie de Lan Ha : journée de croisière et kayak",
   "metaDescription": "Excursion à Ha Long. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "from-halong-cruise-port-private-tour-visit-hanoi-city-ha-long": {
@@ -44455,7 +44455,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Taxes et frais de service"
   ],
   "shortDescription": "Excursion d'une journée entière à Ha Long, avec Lan Ha Bay and Dark Cave et Cat Ba Island. Opérateur : Halong Catamaran Cruise, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie de Lan Ha en catamaran : kayak, trampoline et coucher de soleil",
+  "metaTitle": "Baie de Lan Ha en catamaran : kayak et trampoline",
   "metaDescription": "Excursion d'une journée entière à Ha Long. Comprend déjeuner à bord. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "2-3-day-lanhabay-doris-5-cruise-swimming-kayak-and-cookingclass-in-ha-long": {
@@ -44486,7 +44486,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toutes les prestations et éléments non expressément mentionnés dans la liste ci-dessus"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long, comprenant droits d'entrée, guide et hébergement de standing climatisé. Opérateur : Doris Cruise 5 Star, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie de Lan Ha : croisière Doris 5 étoiles de 2 ou 3 jours avec baignade, kayak et cours de cuisine",
+  "metaTitle": "Baie de Lan Ha : croisière Doris 5 étoiles, 2 ou 3 jours",
   "metaDescription": "Excursion de 2 jours à Ha Long. Comprend droits d'entrée et guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "ha-long-bay-premium-day-cruise-with-sunset-by-local-operator": {
@@ -44518,7 +44518,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Activité kayak, à régler sur place à vos frais"
   ],
   "shortDescription": "Excursion à Ha Long, comprenant prise en charge et retour à l'hôtel dans le vieux quartier de Hanoï, transport aller-retour depuis Hanoï et croisière de standing. Opérateur : Vn biketour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie d'Ha Long : croisière premium à la journée avec coucher de soleil",
+  "metaTitle": "Baie d'Ha Long : croisière premium et coucher de soleil",
   "metaDescription": "Excursion à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "lan-ha-bay-2-3-day-cruise-with-private-cabin-with-balcony-ha-long": {
@@ -44638,7 +44638,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion de 3 jours à Ha Long, comprenant guide, 3 déjeuners, 2 petits-déjeuners et apéritif au coucher du soleil et cours de cuisine. Opérateur : Taha Travel Agency Vn, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Ninh Binh et croisière avec nuit à bord dans la baie de Lan Ha, cabine avec balcon : 3 jours",
+  "metaTitle": "Ninh Binh et Lan Ha : 3 jours, cabine avec balcon",
   "metaDescription": "Excursion de 3 jours à Ha Long. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "ha-long-bay-signature-escape-with-luxury-cruise-in-1-day-by-local-operator": {
@@ -44670,7 +44670,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément jours fériés au Vietnam"
   ],
   "shortDescription": "Excursion à Ha Long, avec Ha Long. Opérateur : VN BIKE TOUR COMPANY LIMTIED, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie d'Ha Long : notre escapade signature en croisière de standing, en une journée",
+  "metaTitle": "Baie d'Ha Long : escapade signature en une journée",
   "metaDescription": "Excursion à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "1-day-halong-bay-cruise-with-big-and-small-groups": {
@@ -45096,7 +45096,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément chambre individuelle pour les voyageurs seuls"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long, comprenant prise en charge et retour à l'hôtel offerts à Ha Long, Hanoï et Ninh Binh, transport en véhicule climatisé partagé et guide local. Opérateur : Vietnam Homies Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie d'Ha Long : 2 jours / 1 nuit ou 3 jours / 2 nuits en croisière de standing",
+  "metaTitle": "Baie d'Ha Long : 2 ou 3 jours en croisière de standing",
   "metaDescription": "Excursion de 2 jours à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ha-giang-and-ha-long-3-day-a-mountains-to-sea-journey-by-local-operator": {
@@ -45324,7 +45324,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "TVA"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long, comprenant transferts depuis et vers le vieux quartier de Hanoï, guide et droits d'entrée et billets de visite. Opérateur : Amazing VietNam tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "2 jours depuis Hanoï : paysages de Ninh Binh et croisière dans la baie d'Ha Long",
+  "metaTitle": "2 jours : paysages de Ninh Binh et croisière à Ha Long",
   "metaDescription": "Excursion de 2 jours à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "2day-lan-ha-bay-cruise-cat-ba-island": {
@@ -45420,7 +45420,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément chambre individuelle ou lits supplémentaires"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long, comprenant prise en charge et retour à l'hôtel offerts à Ha Long, Hanoï et Ninh Binh, transport en véhicule climatisé partagé et guide local. Opérateur : VN BIKE TOUR COMPANY LIMTIED, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Ha Long 3 jours / 2 nuits ou 2 jours / 1 nuit en croisière de standing, baignoire et balcon",
+  "metaTitle": "Ha Long : 3 ou 2 jours en croisière avec balcon et baignoire",
   "metaDescription": "Excursion de 2 jours à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "halong-bay-5-star-cruise-with-cave-visits-and-titop-island-ha-long": {
@@ -45609,7 +45609,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément jours fériés"
   ],
   "shortDescription": "Excursion d'une demi-journée à Ha Long, comprenant déjeuner buffet, kayak ou barque de bambou pour visiter la grotte de Luon et visite de la grotte de Sung Sot. Opérateur : David’s Vietnam Tours, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie d'Ha Long en croisière de standing : buffet, kayak et apéritif au coucher du soleil",
+  "metaTitle": "Baie d'Ha Long en croisière : buffet, kayak et apéritif",
   "metaDescription": "Excursion d'une demi-journée à Ha Long. Comprend déjeuner buffet. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "ha-long-bay-premium-cruise-6-star-day-trip-by-local-operator-2": {
@@ -45640,7 +45640,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Kayak"
   ],
   "shortDescription": "Excursion à Ha Long, comprenant remarque : écrivez au +84 888 588 700 pour vérifier la disponibilité., prise en charge et retour à l'hôtel depuis Hanoï et boisson de bienvenue à bord du Dolphin Cruise. Opérateur : Vn biketour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie d'Ha Long : journée en croisière premium 6 étoiles, par un opérateur local",
+  "metaTitle": "Baie d'Ha Long : journée en croisière premium 6 étoiles",
   "metaDescription": "Excursion à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "halong-bay-by-overnight-cruise-with-kayak-and-squid-fishing-ha-long": {
@@ -45708,7 +45708,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion à Ha Long, avec Marina de Tuan Chau, Luon Cave, Baie d'Ha Long et Île de Ti Top. Opérateur : Go Asia Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baies d'Ha Long et de Lan Ha : croisière de standing 2 jours / 1 nuit",
+  "metaTitle": "Ha Long et Lan Ha : croisière de standing de 2 jours",
   "metaDescription": "Excursion à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "halong-bay-cruise-with-lunch-cave-and-island-visit": {
@@ -45772,7 +45772,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Le retour en bus de Ha Giang vers Hanoï ou une autre destination n'est pas compris, mais peut être organisé selon les disponibilités."
   ],
   "shortDescription": "Excursion de 3 jours à Ha Long, comprenant 1 nuit d'hébergement offerte avant le départ, easy rider ou location de moto pendant toute la durée du circuit et repas : 3 petits-déjeuners, 3 déjeuners et 2 dîners. Opérateur : ZingHome Ha Giang Loop Tours, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Boucle de Ha Giang : 3 jours et 2 nuits au-delà de l'itinéraire classique",
+  "metaTitle": "Boucle de Ha Giang : 3 jours hors itinéraire classique",
   "metaDescription": "Excursion de 3 jours à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ha-long-bay-luxury-cruise-sung-sot-cave-luon-cave-and-ti-top-by-local-operator": {
@@ -45868,7 +45868,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles non clairement mentionnées ci-dessus"
   ],
   "shortDescription": "Excursion d'une journée entière à Ha Long, avec Baie de Lan Ha et Village de Viet Hai. Opérateur : CAT BA PANORAMA TRAVEL LIMITED COMPANY, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Île de Cat Ba : journée dans la baie de Lan Ha en croisière de standing",
+  "metaTitle": "Île de Cat Ba : journée dans la baie de Lan Ha",
   "metaDescription": "Excursion d'une journée entière à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "lan-ha-bay-cat-ba-island-1-day-from-hanoi-or-tuan-chau-ha-long": {
@@ -45904,7 +45904,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Suppléments jours fériés (Nouvel An lunaire, Noël, Nouvel An et autres fêtes)"
   ],
   "shortDescription": "Excursion d'une journée entière à Ha Long, comprenant entrée aux sites : grotte de Trung Trang, parc national de Cat Ba, guide parlant anglais et vietnamien et déjeuner buffet à bord. Opérateur : Anh Tourist Hanoi Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie de Lan Ha et île de Cat Ba en une journée (depuis Hanoï ou Tuan Chau)",
+  "metaTitle": "Baie de Lan Ha et île de Cat Ba en une journée",
   "metaDescription": "Excursion d'une journée entière à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ha-long-bay-small-deluxe-cruise-day-trip-with-kayak-and-lunch-by-local-operator": {
@@ -46350,7 +46350,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Si vous voyagez en groupe mais souhaitez une cabine individuelle, réservez séparément"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long, comprenant 2 dîners, 2 petits-déjeuners et 3 déjeuners. Opérateur : AN LAM HA LONG TOURISM SERVICES, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baies d'Ha Long et de Lan Ha : 3 jours et 2 nuits à bord du Le Journey Luxury Cruise",
+  "metaTitle": "Ha Long et Lan Ha : 3 jours à bord du Le Journey Luxury",
   "metaDescription": "Excursion de 2 jours à Ha Long. Comprend 2 dîners. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "lan-ha-bay-1-day-biking-kayaking-lunch-and-swimming": {
@@ -46540,7 +46540,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le guide et le chauffeur"
   ],
   "shortDescription": "Excursion d'une journée entière à Ha Long, avec Grotte de Sung Sot, Ti Top Island and Luon Cave et Baie d'Ha Long. Opérateur : Nest Asia Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie d'Ha Long : croisière à la journée, grottes, kayak et apéritif au coucher du soleil",
+  "metaTitle": "Baie d'Ha Long : journée, grottes, kayak et apéritif",
   "metaDescription": "Excursion d'une journée entière à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "bhaya-cruises-2-day-halong-bay-tour-ha-long": {
@@ -46603,7 +46603,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément chambre individuelle pour les voyageurs seuls ou lits supplémentaires"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long, comprenant transfert en voiture partagée avec prise en charge et retour à Hanoï, Ninh, cabine privée avec balcon privé et baignoire et guide. Opérateur : Vietnam Homies Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie d'Ha Long : 2 jours / 1 nuit ou 3 jours / 2 nuits en croisière 6 étoiles",
+  "metaTitle": "Baie d'Ha Long : 2 ou 3 jours en croisière 6 étoiles",
   "metaDescription": "Excursion de 2 jours à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "lan-ha-bay-2-day-overnight-cruise": {
@@ -46667,7 +46667,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément de 10 $ pour une chambre individuelle"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long, avec Randonnée dans le parc national de Cat Ba, Croisière d'une journée dans la baie de Lan Ha et Croisière dans la baie de Lan Ha. Opérateur : NINH BINH FOOTPRINT TRAVEL, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Île de Cat Ba et baie de Lan Ha : aventure et croisière de 2 jours",
+  "metaTitle": "Île de Cat Ba et baie de Lan Ha : 2 jours",
   "metaDescription": "Excursion de 2 jours à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "halong-bay-and-ninh-binh-2-day-sightseeing-and-activities-tour-ha-long": {
@@ -46799,7 +46799,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toutes les autres prestations non clairement mentionnées au programme"
   ],
   "shortDescription": "Excursion d'une journée entière à Ha Long, comprenant prise en charge et retour au port de Cai Lan, sortie de 7 h 30 avec l'Amethyst Daily Cruise et déjeuner buffet à bord. Opérateur : Da Nang Happy Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Découverte de la baie d'Ha Long : croisière d'une journée depuis le port de Cai Lan",
+  "metaTitle": "Baie d'Ha Long : journée depuis le port de Cai Lan",
   "metaDescription": "Excursion d'une journée entière à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "lan-ha-and-ha-long-bay-boat-tour-with-kayaking-cave": {
@@ -46863,7 +46863,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément au Nouvel An, à Noël et les jours fériés"
   ],
   "shortDescription": "Excursion de 3 jours à Ha Long, comprenant bus climatisé et service de limousine selon notre, guide et voiturette électrique pour visiter la pagode Bai Dinh. Opérateur : Tam Coc Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Ninh Binh et baie d'Ha Long : 4 jours et 3 nuits à bord de l'Arcady 5 étoiles",
+  "metaTitle": "Ninh Binh et Ha Long : 4 jours à bord de l'Arcady",
   "metaDescription": "Excursion de 3 jours à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "3-day-2-night-lan-ha-bay-by-calypso-cruises": {
@@ -47136,7 +47136,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément au Nouvel An, à Noël et les jours fériés"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long, avec Arrêt à mi-parcours, Dinner Served on Cruise et Lunch On The Cruise. Opérateur : Ha Long Bay Lux Cruises - Marvel Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baies d'Ha Long et de Bai Tu Long : croisière 5 étoiles de 2 jours",
+  "metaTitle": "Ha Long et Bai Tu Long : croisière 5 étoiles, 2 jours",
   "metaDescription": "Excursion de 2 jours à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "yen-tu-mountain-unesco-cultural-heritage-day-tour-in-ha-long": {
@@ -47201,7 +47201,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément chambre individuelle ou lits supplémentaires"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long, comprenant prise en charge et retour à l'hôtel offerts à Ha Long, Hanoï et Ninh Binh, transport en véhicule climatisé partagé et guide local. Opérateur : Atlas Vietnam Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baies d'Ha Long et de Lan Ha : 2 jours / 1 nuit ou 3 jours / 2 nuits en croisière de standing",
+  "metaTitle": "Ha Long et Lan Ha : 2 ou 3 jours en croisière de standing",
   "metaDescription": "Excursion de 2 jours à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ha-long-and-lan-ha-bay-luxury-cruise-caves-kayaking-and-sunset-by-local-operator": {
@@ -47262,7 +47262,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion de 3 heures à Ha Long, avec Transfert au village flottant de Cai Beo, Monkey Island, Vietnam et Baie de Lan Ha. Opérateur : Blue Swimmer Outdoors, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie de Lan Ha : coucher de soleil et kayak au plancton bioluminescent",
+  "metaTitle": "Baie de Lan Ha : kayak au plancton bioluminescent",
   "metaDescription": "Excursion de 3 heures à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "hoi-an-luxury-sunset-cruise-5-course-spice-menu-and-cocktails-ha-long": {
@@ -47293,7 +47293,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Transferts à l'hôtel"
   ],
   "shortDescription": "Excursion de 2,5 heures à Ha Long, avec Hoi An. Opérateur : NAMIA RIVER RETREAT, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : croisière de standing au coucher du soleil, menu épices en 5 services et cocktails",
+  "metaTitle": "Hoi An : croisière au coucher du soleil, menu en 5 services",
   "metaDescription": "Excursion de 2,5 heures à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "da-nang-river-night-cruise-ha-long": {
@@ -47499,7 +47499,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément jours fériés au Vietnam"
   ],
   "shortDescription": "Excursion d'une demi-journée à Ha Long, comprenant transfert en voiture climatisée, prise en charge et retour à Hoi An et guide. Opérateur : Vietora Journeys, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Vieille ville de Hoi An : patrimoine, lanternes et croisière sur le fleuve",
+  "metaTitle": "Vieille ville de Hoi An : lanternes et croisière",
   "metaDescription": "Excursion d'une demi-journée à Ha Long. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "michelin-dinner-coffee-and-han-river-cruise-in-ha-long": {
@@ -47959,7 +47959,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Remarque : les enfants de plus d'1 mètre doivent avoir leur propre billet d'entrée (non compris dans le prix)."
   ],
   "shortDescription": "Excursion d'une demi-journée à Da Nang, avec Ba Na Hills, Golden Bridge Bà Nà Hills and Hàn River et Da Nang. Opérateur : Local Buddy Tours Vietnam, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Ba Na Hills, Pont d'Or et téléphérique : visite privée depuis Da Nang",
+  "metaTitle": "Ba Na Hills et Pont d'Or : visite privée depuis Da Nang",
   "metaDescription": "Excursion d'une demi-journée à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ba-na-hills-and-golden-bridge-shared-or-private": {
@@ -48108,7 +48108,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion d'une journée entière à Da Nang, comprenant prise en charge et retour au port de Chan May, dans les deux sens, voiture privée avec chauffeur et une bouteille d'eau. Opérateur : Hiep Hoi An Travel II, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Du port de Chan May au Pont d'Or et à Ba Na Hills en voiture privée",
+  "metaTitle": "Du port de Chan May au Pont d'Or et à Ba Na Hills",
   "metaDescription": "Excursion d'une journée entière à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "marble-mountains-lady-buddha-and-am-phu-cave": {
@@ -48169,7 +48169,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Demande particulière pour les bagages (transport en bus, 3 USD par bagage)"
   ],
   "shortDescription": "Excursion d'une journée entière à Da Nang, comprenant pilote easy rider anglophone, moto et prise en charge et retour à l'hôtel. Opérateur : Easy Rider Tour via Hai Van Pass from Hue - Da Nang - Hoi An (1Way/RoundTrip), en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Expédition easy rider par le col de Hai Van et les pistes Ho Chi Minh (Da Nang)",
+  "metaTitle": "Easy rider : col de Hai Van et pistes Ho Chi Minh",
   "metaDescription": "Excursion d'une journée entière à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "marble-mountain-and-monkey-mountain-halfday-tour": {
@@ -48607,7 +48607,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion de 1,5 heures à Da Nang, comprenant soin head spa vietnamien aux herbes de 90 minutes, nettoyage du visage et exfoliation douce du visage. Opérateur : Stari Wellness Spa, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Da Nang : head spa aux herbes de 90 minutes près du pont du Dragon",
+  "metaTitle": "Da Nang : head spa aux herbes de 90 minutes",
   "metaDescription": "Excursion de 1,5 heures à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "b-p-12-m-a-da-nang-seasonal-seafood-dining-experience-by-local-operator": {
@@ -48695,7 +48695,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion de 1 heure à Da Nang, comprenant soin head spa vietnamien de 60 minutes, nettoyage du visage et techniques de relaxation par points de pression. Opérateur : Stari Wellness Spa, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Da Nang : head spa aux herbes de 60 minutes près du pont du Dragon",
+  "metaTitle": "Da Nang : head spa aux herbes de 60 minutes",
   "metaDescription": "Excursion de 1 heure à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "private-surfing-lesson-with-instructor-in-da-nang": {
@@ -49080,7 +49080,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Déconseillé en cas d'allergies sévères, de régime halal ou de maladie cœliaque, en raison du risque de traces et de contamination croisée."
   ],
   "shortDescription": "Excursion d'une demi-journée à Da Nang, avec Da Nang. Opérateur : A Chef's Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Da Nang by night : tour gastronomique avec plus de 15 dégustations, par un opérateur local",
+  "metaTitle": "Da Nang by night : tour gastronomique, 15 dégustations",
   "metaDescription": "Excursion d'une demi-journée à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "da-nang-golden-bridge-sunset-and-ba-na-hills-tour": {
@@ -49373,7 +49373,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Sodas et boissons fraîches supplémentaires non compris"
   ],
   "shortDescription": "Excursion de 3 heures à Da Nang, comprenant panoramas côtiers spectaculaires, découverte de la célèbre montagne du Singe et découverte de la beauté naturelle de la péninsule de Son Tra. Opérateur : HO KINH DOANH DI CUNG BAN DIA, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Péninsule de Son Tra : aventure en jeep militaire américaine d'époque à Da Nang",
+  "metaTitle": "Péninsule de Son Tra en jeep militaire d'époque",
   "metaDescription": "Excursion de 3 heures à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "3-day-wildlife-photography-experience-in-son-tra-in-da-nang": {
@@ -49430,7 +49430,7 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [],
   "shortDescription": "Excursion de 3 heures à Da Nang, comprenant ce qui est compris, une expérience de surf complète, tout est et douches après le cours. Opérateur : Da Nang Outdoor Adventures, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Cours de surf d'une heure et location de planche pendant deux heures à Da Nang",
+  "metaTitle": "Da Nang : cours de surf d'une heure et location de planche",
   "metaDescription": "Excursion de 3 heures à Da Nang. Comprend ce qui est compris. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "da-nang-or-hue-hai-van-pass-scenic-train-ticket-by-local-operator": {
@@ -49456,7 +49456,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ],
   "shortDescription": "Billet d'entrée à Da Nang, comprenant billet de train aller simple, place réservée attribuée par Vietnam Railways et trajet en train par le col de Hai Van. Opérateur : Viet Nam Daily Tours, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Da Nang ou Hué : billet de train panoramique par le col de Hai Van",
+  "metaTitle": "Da Nang ou Hué : train panoramique du col de Hai Van",
   "metaDescription": "Billet d'entrée à Da Nang. Comprend billet de train aller simple. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "ba-na-hills-early-access-and-golden-bridge-tour": {
@@ -49588,7 +49588,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Transport aller-retour jusqu'au lieu de l'activité"
   ],
   "shortDescription": "Excursion de 1 heure à Da Nang, comprenant instructeur, atelier de gravure sur bois de 60 minutes et visite artisanale du village. Opérateur : The Hangart Da Nang, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Da Nang : atelier de gravure sur bois et visite d'un village d'artisans",
+  "metaTitle": "Da Nang : gravure sur bois et village d'artisans",
   "metaDescription": "Excursion de 1 heure à Da Nang. Comprend instructeur. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "da-nang-my-khe-beach-surfing-tour-by-local-operator": {
@@ -49800,7 +49800,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Transport jusqu'au lieu"
   ],
   "shortDescription": "Excursion de 0,5 heures à Da Nang, comprenant séance photo privée avec un photographe local professionnel, 20, 50 et 30, 60. Opérateur : Picster, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Da Nang, pont du Dragon et plage : séance photo privée, par un opérateur local",
+  "metaTitle": "Da Nang, pont du Dragon et plage : séance photo privée",
   "metaDescription": "Excursion de 0,5 heures à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "gourmet-lunch-and-drinks-at-citron-in-da-nang": {
@@ -49905,7 +49905,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Arrêts supplémentaires non prévus au programme"
   ],
   "shortDescription": "Excursion d'une journée entière à Da Nang, comprenant transport privé en voiture, prise en charge et retour à l'hôtel dans le centre de Da Nang et chauffeur. Opérateur : Cong ty TNHH DaNangByCar Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Excursion privée au col de Hai Van avec options gourmandes à Da Nang",
+  "metaTitle": "Col de Hai Van en privé, avec options gourmandes",
   "metaDescription": "Excursion d'une journée entière à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "explore-michelin-recommended-street-food-favorites-in-da-nang": {
@@ -50340,7 +50340,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Autres repas, boissons et prestations non mentionnés dans les inclusions"
   ],
   "shortDescription": "Excursion d'une demi-journée à Da Nang, comprenant guide local anglophone et mécanicien vélo, transport aller-retour en voiture de Da Nang au point de départ de Hoa et VTT Trek Marlin 5 de qualité et casques. Opérateur : BEEBIKEHUB, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Balade à vélo dans la campagne, déjeuner et baignade en rivière à Da Nang",
+  "metaTitle": "Da Nang : vélo à la campagne, déjeuner et baignade",
   "metaDescription": "Excursion d'une demi-journée à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "charming-danang-show-ticket": {
@@ -50403,7 +50403,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ],
   "shortDescription": "Excursion de 1 heure à Da Nang, comprenant croisière privée sur un yacht de standing, vue privilégiée sur le spectacle de feu et d'eau du pont du Dragon et plateaux de fruits tropicaux frais. Opérateur : POSEIDON CRUISE DA NANG, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Yacht de luxe privé et spectacle de feu du pont du Dragon à Da Nang",
+  "metaTitle": "Yacht privé et spectacle de feu du pont du Dragon",
   "metaDescription": "Excursion de 1 heure à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ba-na-by-night-from-da-nang-by-local-operator": {
@@ -50788,7 +50788,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Autres dépenses personnelles non mentionnées"
   ],
   "shortDescription": "Excursion de 2,5 heures à Da Nang, comprenant chef principal, ingrédients pour le cours de cuisine et jus de fruit de la passion à volonté. Opérateur : Thao Nguyen Travel Company, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Da Nang : cours de cuisine traditionnelle et repas chez une famille locale",
+  "metaTitle": "Da Nang : cuisine traditionnelle chez une famille locale",
   "metaDescription": "Excursion de 2,5 heures à Da Nang. Comprend chef principal. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "am-phu-cave-marble-mountains-and-monkey-mountain-sunset-trip-da-nang": {
@@ -50813,7 +50813,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour les guides et les chauffeurs"
   ],
   "shortDescription": "Excursion d'une demi-journée à Da Nang, avec Montagnes de Marbre. Opérateur : Hiep Hoi An Travel II, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Grotte d'Am Phu, montagnes de Marbre et montagne du Singe au coucher du soleil",
+  "metaTitle": "Grotte d'Am Phu, montagnes de Marbre et montagne du Singe",
   "metaDescription": "Excursion d'une demi-journée à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "da-nang-vegetarian-food-walking-tour-by-local-operator": {
@@ -50907,7 +50907,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ],
   "shortDescription": "Excursion à Da Nang, comprenant prise en charge et retour pour les voyageurs situés à 4-5 km du centre, goûtez 5 à 6 bières artisanales avant de choisir la et dégustation de 3 plats emblématiques. Opérateur : Funtastic Basket Boat Tours and Cooking Class, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "12 plats de rue et 6 bières artisanales en scooter avec une conductrice à Da Nang",
+  "metaTitle": "Da Nang : 12 plats de rue et 6 bières en scooter",
   "metaDescription": "Excursion à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "private-city-tour-by-scooter-with-ao-dai-lady-rider-in-da-nang": {
@@ -50935,7 +50935,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Other personal expenses."
   ],
   "shortDescription": "Excursion d'une demi-journée à Da Nang, comprenant prise en charge et retour en scooter dans le centre de Da Nang, pilote et guide et casque de moto. Opérateur : Dich vu du lich lang que Cam Thanh, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Visite privée de la ville en scooter avec une conductrice en ao dai à Da Nang",
+  "metaTitle": "Da Nang en scooter avec une conductrice en ao dai",
   "metaDescription": "Excursion d'une demi-journée à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "private-half-day-city-highlights-tour-in-da-nang": {
@@ -50991,7 +50991,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Prise en charge et retour à l'hôtel"
   ],
   "shortDescription": "Excursion à Da Nang, comprenant massage corps entier ou des pieds à l'huile, salle de soin privée climatisée avec musique et boisson de bienvenue. Opérateur : Nón Spa, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Nón Spa : massage, manucure, shampoing, soin du visage et de la peau à Da Nang",
+  "metaTitle": "Nón Spa à Da Nang : massage, manucure et soin du visage",
   "metaDescription": "Excursion à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "rafting-tour-with-lunch-or-dinner-in-da-nang": {
@@ -51150,7 +51150,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Aliments et boissons (en vente sur place)"
   ],
   "shortDescription": "Excursion à Da Nang, comprenant croisière, spectacle de danse et assurance. Opérateur : TAU RONG SONG HAN, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Da Nang : balade nocturne sur la rivière Han avec spectacle le week-end",
+  "metaTitle": "Da Nang : balade nocturne sur la rivière Han et spectacle",
   "metaDescription": "Excursion à Da Nang. Comprend croisière et spectacle de danse. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "safari-finding-the-most-endangered-monkey-in-the-world-in-da-nang": {
@@ -51310,7 +51310,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ],
   "shortDescription": "Excursion de 3 heures à Da Nang, comprenant atelier de 180 minutes, écharpe en soie de Ma Chau et atelier gratuit de peinture sur éventail en tissu. Opérateur : The Hangart Da Nang, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Da Nang : teinture naturelle et atelier gratuit de peinture sur éventail",
+  "metaTitle": "Da Nang : teinture naturelle et peinture sur éventail",
   "metaDescription": "Excursion de 3 heures à Da Nang. Comprend atelier de 180 minutes. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "da-nang-luxury-afternoon-tea-at-intercontinental-citron-by-local-operator": {
@@ -51338,7 +51338,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Prise en charge et retour à l'hôtel"
   ],
   "shortDescription": "Excursion d'une demi-journée à Da Nang, avec Citron. Opérateur : Southern Breeze Joint stock company, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Thé de l'après-midi de luxe au Citron de l'InterContinental à Da Nang, par un opérateur local",
+  "metaTitle": "Da Nang : thé de l'après-midi au Citron de l'InterContinental",
   "metaDescription": "Excursion d'une demi-journée à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "da-nang-aerobar-paradise-park-entry-ticket-by-local-operator": {
@@ -51441,7 +51441,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Tip."
   ],
   "shortDescription": "Excursion d'une demi-journée à Hoi An, comprenant entrée aux anciennes tours cham et au tunnel de Ky Anh, guide anglophone diplômé, spécialiste d'histoire et chauffeur privé anglophone qui fait aussi office d'hôte local. Opérateur : Funtastic Basket Boat Tours and Cooking Class, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Tunnel de Ky Anh et tour cham : visite privée sur la guerre du Vietnam à Hoi An",
+  "metaTitle": "Tunnel de Ky Anh et tour cham : visite privée à Hoi An",
   "metaDescription": "Excursion d'une demi-journée à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "my-son-sanctuary-and-hoi-an-private-car-day-tour": {
@@ -51489,7 +51489,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Travel Insurance."
   ],
   "shortDescription": "Excursion à Hoi An, comprenant véhicule de qualité avec un chauffeur prudent, prise en charge et retour au port de Tien Sa ou de Chan May et tous les droits d'entrée. Opérateur : Hiep Hoi An Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Depuis le port de Chan May ou Tien Sa : Hoi An et les incontournables de Da Nang",
+  "metaTitle": "Ports de Chan May et Tien Sa : Hoi An et Da Nang",
   "metaDescription": "Excursion à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "private-photoshoot-and-guided-walk-experience-in-hoi-an": {
@@ -51762,7 +51762,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Autres dépenses non mentionnées"
   ],
   "shortDescription": "Excursion de 2 heures à Hoi An, comprenant votre tableau terminé, à emporter, bouteille d'eau et artiste. Opérateur : Hoi An Eco Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : 2 heures de peinture avec un artiste local dans la vieille ville",
+  "metaTitle": "Hoi An : 2 heures de peinture avec un artiste local",
   "metaDescription": "Excursion de 2 heures à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "my-son-early-morning-with-banh-my-and-coffee-6-am-in-hoi-an": {
@@ -51905,7 +51905,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion à Hoi An, avec Sanctuaire de My Son. Opérateur : Hoi An Local Tours Company Limited, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sanctuaire de My Son avec déjeuner champa (départs 5 h 30, 8 h ou 13 h)",
+  "metaTitle": "Sanctuaire de My Son avec déjeuner champa",
   "metaDescription": "Excursion à Hoi An. Comprend prise en charge et retour à l'hôtel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "vietnamese-lacquer-painting-workshop-in-hoi-an": {
@@ -52095,7 +52095,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Autres dépenses non mentionnées"
   ],
   "shortDescription": "Excursion de 2 heures à Hoi An, comprenant guide, thé vietnamien traditionnel et matériel et outils artistiques. Opérateur : Hoi An Eco Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : cours de calligraphie vietnamienne traditionnelle dans la vieille ville",
+  "metaTitle": "Hoi An : calligraphie vietnamienne en vieille ville",
   "metaDescription": "Excursion de 2 heures à Hoi An. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "evening-food-tour-with-7-tastings-and-boat-trip-in-hoi-an": {
@@ -52292,7 +52292,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ],
   "shortDescription": "Excursion à Hoi An, comprenant chef, thé de bienvenue et tous les ingrédients du cours de cuisine. Opérateur : Hoi An Eco Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : cours de cuisine traditionnelle et repas chez une famille locale",
+  "metaTitle": "Hoi An : cuisine traditionnelle chez une famille locale",
   "metaDescription": "Excursion à Hoi An. Comprend chef et thé de bienvenue. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "my-son-sanctuary-early-morning-sunset-w-champa-food-in-hoi-an": {
@@ -52367,7 +52367,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Prise en charge et retour à l'hôtel"
   ],
   "shortDescription": "Excursion à Hoi An, comprenant boisson de bienvenue : thé vietnamien traditionnel, atelier de lanternes avec instructeur et interprète et votre lanterne pliable à emporter. Opérateur : Hoian Handicraft Tours, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hoi An : atelier de fabrication de lanternes pliables vietnamiennes",
+  "metaTitle": "Hoi An : atelier de lanternes pliables vietnamiennes",
   "metaDescription": "Excursion à Hoi An. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "guided-evening-food-tour-w-lantern-and-river-boat-in-hoi-an": {
@@ -52528,7 +52528,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Si vous voyagez en groupe mais souhaitez une cabine individuelle, réservez séparément"
   ],
   "shortDescription": "Excursion de 3 jours à Hanoï, comprenant 2 dîners, 2 petits-déjeuners et 3 déjeuners. Opérateur : AN LAM HA LONG TOURISM SERVICES, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baies d'Ha Long et de Lan Ha : 3 jours / 2 nuits à bord du Le Journey",
+  "metaTitle": "Ha Long et Lan Ha : 3 jours à bord du Le Journey",
   "metaDescription": "Excursion de 3 jours à Hanoï. Comprend 2 dîners et 2 petits-déjeuners. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "3-day-ha-giang-loop-w-safe-rider-max-8pax": {
@@ -53782,7 +53782,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Billet d'entrée à Da Nang, comprenant accueil au terminal des arrivées internationales avant, accompagnement dans la file standard ou la file VIP prioritaire et accompagnement dans les formalités d'immigration et de douane. Opérateur : Up Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Coupe-file dans les aéroports du Vietnam : évitez la queue à l'arrivée à Da Nang",
+  "metaTitle": "Coupe-file à l'aéroport de Da Nang, à l'arrivée",
   "metaDescription": "Billet d'entrée à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "golden-bridge-bana-hills-lady-buddha-and-marble-mountains-in-da-nang": {
@@ -53814,7 +53814,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément pour une prise en charge éloignée du centre"
   ],
   "shortDescription": "Excursion d'une journée entière à Da Nang, avec Ba Na Hills, Pont d'Or de Ba Na Hills et Le Jardin d'Amour. Opérateur : Dacotours, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Pont d'Or des Ba Na Hills, Dame Bouddha et montagnes de Marbre à Da Nang",
+  "metaTitle": "Pont d'Or, Dame Bouddha et montagnes de Marbre à Da Nang",
   "metaDescription": "Excursion d'une journée entière à Da Nang. Comprend déjeuner buffet. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "my-son-sanctuary-mountain-hiking-and-the-secret-waterfall-in-da-nang": {
@@ -53843,7 +53843,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion à Da Nang, avec Sanctuaire de My Son. Opérateur : Hoi An Local Tours Company Limited, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sanctuaire de My Son, randonnée en montagne et cascade secrète à Da Nang",
+  "metaTitle": "My Son, randonnée en montagne et cascade secrète",
   "metaDescription": "Excursion à Da Nang. Comprend prise en charge et retour à l'hôtel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "coconut-village-boat-and-hoi-an-city-tour": {
@@ -53957,7 +53957,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires (facultatifs)"
   ],
   "shortDescription": "Excursion d'une demi-journée à Da Nang, avec Linh Ung Pagoda, Son Tra, Montagnes de Marbre et Village de sculpteurs sur pierre de Non Nuoc. Opérateur : VM Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Montagne de Marbre, grotte d'Am Phu et montagne du Singe à Da Nang",
+  "metaTitle": "Montagne de Marbre, grotte d'Am Phu et montagne du Singe",
   "metaDescription": "Excursion d'une demi-journée à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "vietnamese-cooking-class-with-transportation-in-da-nang": {
@@ -54160,7 +54160,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément jours fériés de 150 000 VND par personne (24-25 et 31 décembre, 1er janvier, 29-30 avril, 1er-2 mai et Nouvel An lunaire)"
   ],
   "shortDescription": "Excursion de 0,8333333333333334 heures à Da Nang, avec Cocoteraie de Bay Mau. Opérateur : My Viet Trip, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Balade en bateau dans la forêt de cocotiers et massage en option à Da Nang",
+  "metaTitle": "Da Nang : balade en bateau dans la cocoteraie et massage",
   "metaDescription": "Excursion de 0,8333333333333334 heures à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "off-road-atv-adventure-with-bbq-feast-in-da-nang": {
@@ -54304,7 +54304,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Ascenseur des montagnes de Marbre"
   ],
   "shortDescription": "Excursion d'une journée entière à Da Nang, avec Linh Ung Pagoda, Son Tra, Village de sculpteurs sur pierre de Non Nuoc et Montagnes de Marbre. Opérateur : VM Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Montagnes de Marbre, montagne du Singe et sanctuaire de My Son en une journée",
+  "metaTitle": "Montagnes de Marbre, montagne du Singe et My Son",
   "metaDescription": "Excursion d'une journée entière à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "private-my-son-sanctuary-half-day-tour-in-da-nang": {
@@ -54469,7 +54469,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Tip."
   ],
   "shortDescription": "Excursion d'une demi-journée à Da Nang, comprenant prise en charge et retour pour les voyageurs situés à 3-4 km du centre, dîner avec des nouilles locales et 1 bière locale ou boisson sans alcool par personne lors de la croisière sur la Han pour. Opérateur : Funtastic Basket Boat Tours and Cooking Class, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Da Nang by night à moto et croisière sur la Han avec des conductrices en ao dai (Da Nang)",
+  "metaTitle": "Da Nang by night à moto et croisière sur la Han",
   "metaDescription": "Excursion d'une demi-journée à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "da-nang-cooking-market-tour-farming-and-cooking-class-da-nang": {
@@ -54586,7 +54586,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pick up/drop off."
   ],
   "shortDescription": "Excursion de 3 heures à Da Nang, comprenant guide privé spécialiste de l'histoire et de l'armée, billets d'entrée de la base militaire et billets d'entrée du musée cham. Opérateur : Funtastic Basket Boat Tours and Cooking Class, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Da Nang, sur les traces de la guerre : de la sculpture du royaume Champa à l'armement (Da Nang)",
+  "metaTitle": "Da Nang et la guerre : du royaume Champa à l'armement",
   "metaDescription": "Excursion de 3 heures à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "marble-mountain-monkey-mountain-and-am-phu-cave-tour-in-da-nang": {
@@ -54619,7 +54619,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément les jours fériés vietnamiens (nous vous prévenons à l'avance par WhatsApp ou e-mail)"
   ],
   "shortDescription": "Excursion d'une demi-journée à Da Nang, avec Linh Ung Pagoda, Son Tra, Montagnes de Marbre et Dong Am Phu. Opérateur : Dacotours, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Montagne de Marbre, montagne du Singe et grotte d'Am Phu à Da Nang",
+  "metaTitle": "Montagne de Marbre, montagne du Singe et grotte d'Am Phu",
   "metaDescription": "Excursion d'une demi-journée à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "monkey-mountain-marble-mountain-am-phu-cave-in-da-nang": {
@@ -54652,7 +54652,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément les jours fériés vietnamiens (nous vous prévenons à l'avance par WhatsApp ou e-mail)"
   ],
   "shortDescription": "Excursion à Da Nang, avec Linh Ung Pagoda, Son Tra, Montagnes de Marbre et Dong Am Phu. Opérateur : Dacotours, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Montagne du Singe, montagne de Marbre et grotte d'Am Phu à Da Nang",
+  "metaTitle": "Montagne du Singe, montagne de Marbre et Am Phu",
   "metaDescription": "Excursion à Da Nang. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "hue-imperial-day-trip-hai-van-pass-train-and-lunch": {
@@ -55014,7 +55014,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Un supplément jours fériés s'applique (voir les informations importantes)"
   ],
   "shortDescription": "Excursion de 2 jours à Sapa, comprenant prise en charge et retour à l'hôtel dans le centre de Sapa, transport pour les portions nécessitant un véhicule et guide de randonnée anglophone. Opérateur : SST Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa : randonnée de 2 jours au village de Sin Chai et dans la vallée de Muong Hoa",
+  "metaTitle": "Sapa : 2 jours, village de Sin Chai et vallée de Muong Hoa",
   "metaDescription": "Excursion de 2 jours à Sapa. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ultimate-motorbike-odyssey-waterfalls-and-o-quy-ho-pass-in-sapa": {
@@ -55183,7 +55183,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion de 2 jours à Sapa, avec Colline de Mam Xoi et Bamboo Forest and Dinosaur Backbone Ridge. Opérateur : Ethnic Community Tours, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Mu Cang Chai : circuit à moto de 2 jours jusqu'à Sapa avec nuit chez l'habitant (Sapa)",
+  "metaTitle": "Mu Cang Chai : 2 jours à moto jusqu'à Sapa",
   "metaDescription": "Excursion de 2 jours à Sapa. Comprend circuit à moto de 2 jours. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "21km-guided-trail-running-tour-in-sapa": {
@@ -55282,7 +55282,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Autres éléments non mentionnés au programme"
   ],
   "shortDescription": "Excursion d'une demi-journée à Sapa, comprenant assurance, guide et transferts à Pu Luong selon le programme. Opérateur : Tinny Travel Co.Ltd, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Depuis Pu Luong : demi-journée de randonnée hors des sentiers battus",
+  "metaTitle": "Pu Luong : demi-journée hors des sentiers battus",
   "metaDescription": "Excursion d'une demi-journée à Sapa. Comprend assurance et guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "easy-rider-4-day-motorcycle-tour-of-ha-giang-loop-sapa": {
@@ -56085,7 +56085,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le guide ou le chauffeur"
   ],
   "shortDescription": "Excursion de 3 jours à Sapa, comprenant limousine climatisée moderne de Hanoï à Sapa et, bus moderne à Sapa avec chauffeur expérimenté et guide local à Sapa. Opérateur : Crossing Vietnam Tour, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Sapa : randonnée de 3 jours de niveau moyen et trajet en limousine",
+  "metaTitle": "Sapa : randonnée de 3 jours et trajet en limousine",
   "metaDescription": "Excursion de 3 jours à Sapa. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "sapa-2-day-tour-with-easy-rider-and-bus-transfer": {
@@ -56201,7 +56201,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion de 5 jours à Sapa, avec Free Morning, Village de Cat Cat et Sleeper Bus. Opérateur : SST Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "5 jours au patrimoine de l'UNESCO : Ha Long, Ninh Binh et Sapa en bus-couchettes",
+  "metaTitle": "5 jours : Ha Long, Ninh Binh et Sapa en bus-couchettes",
   "metaDescription": "Excursion de 5 jours à Sapa. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "high-altitude-pass-and-glass-bridge-private-tour-in-sapa": {
@@ -56928,7 +56928,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Noël, Nouvel An et fête nationale"
   ],
   "shortDescription": "Excursion de 3 jours à Ha Long Bay, avec Visit Bai Dinh Pagoda, Déjeuner et Visit Trang An Boat Tour and Mua Cave and Dinner at Ninh Binh. Opérateur : Halongbayluxcruises - Marvel Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "3 jours : Hanoï, Ninh Binh et baie d'Ha Long en croisière 5 étoiles avec balcon",
+  "metaTitle": "3 jours : Ninh Binh et Ha Long en croisière 5 étoiles",
   "metaDescription": "Excursion de 3 jours à Ha Long Bay. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "2-day-lan-ha-bay-5-star-cruise-with-balcony-in-ha-long-bay": {
@@ -56995,7 +56995,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Hébergement"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long Bay, comprenant prise en charge et retour à l'hôtel, tous les billets d'entrée à Ninh Binh et dans la baie d'Ha Long et repas à bord et à Ninh Binh. Opérateur : Halongbayluxcruises - Marvel Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "2 jours : Hanoï, Ninh Binh et croisière de standing dans la baie d'Ha Long",
+  "metaTitle": "2 jours : Hanoï, Ninh Binh et croisière à Ha Long",
   "metaDescription": "Excursion de 2 jours à Ha Long Bay. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ha-long-bay-day-cruise-swimming-meal-kayaking": {
@@ -57260,7 +57260,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément le jour de la Libération, au Nouvel An chinois, au réveillon du Nouvel An et à Noël"
   ],
   "shortDescription": "Excursion de 3 jours à Ha Long Bay, comprenant deux nuits de standing en cabine Deluxe avec, Suite Hera avec terrasse privée, disponible en option et l'expérience comprend une boisson de bienvenue. Opérateur : AN LAM HA LONG TOURISM SERVICES, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baies d'Ha Long et de Lan Ha : 3 jours et 2 nuits à bord du Hera Boutique",
+  "metaTitle": "Ha Long et Lan Ha : 3 jours à bord du Hera Boutique",
   "metaDescription": "Excursion de 3 jours à Ha Long Bay. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ha-long-and-lan-ha-bay-day-tour-by-hera-luxury-cruise": {
@@ -57361,7 +57361,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense supplémentaire non expressément mentionnée dans les inclusions"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long Bay, comprenant une ou deux nuits en Junior Suite vue mer, Suite Ocean avec balcon privé et baignoire et boisson de bienvenue et serviette fraîche. Opérateur : AN LAM HA LONG TOURISM SERVICES, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hera Grand Luxury Cruise : circuit de plusieurs jours dans la baie d'Ha Long",
+  "metaTitle": "Hera Grand : plusieurs jours dans la baie d'Ha Long",
   "metaDescription": "Excursion de 2 jours à Ha Long Bay. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "2-day-1-night-ha-long-bay-by-le-journey-cruise": {
@@ -57500,7 +57500,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Bus limousine Hanoï/Ninh Binh - Ha Long - Hanoï/Ninh Binh à 25 USD par personne"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long Bay, avec Baie de Bai Tu Long, Grotte de Thien Canh Son et Cong Do. Opérateur : DGB Travel & Event Company, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Baie de Bai Tu Long : croisière 6 étoiles de 2 jours avec baignoire et balcon",
+  "metaTitle": "Bai Tu Long : croisière 6 étoiles de 2 jours avec balcon",
   "metaDescription": "Excursion de 2 jours à Ha Long Bay. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "ha-long-bay-2-day-5-star-cruise-balcony-meals-cave-kayak-ha-long-bay": {
@@ -57569,7 +57569,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Noël, Nouvel An et fête nationale"
   ],
   "shortDescription": "Excursion de 3 jours à Ha Long Bay, avec Lunch and Visit Tam Coc Bamboo Boat, Déjeuner et Visit Sung Sot Cave and Dinner and Fishing. Opérateur : Halongbayluxcruises - Marvel Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hanoï, Ninh Binh et baie d'Ha Long : croisière 6 étoiles de 3 jours",
+  "metaTitle": "Ninh Binh et Ha Long : croisière 6 étoiles de 3 jours",
   "metaDescription": "Excursion de 3 jours à Ha Long Bay. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "3-days-hanoi-ninh-binh-halong-lan-ha-bay-6-star-cruise-ha-long-bay": {
@@ -57708,7 +57708,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Si vous voyagez en groupe mais souhaitez une cabine individuelle, réservez séparément"
   ],
   "shortDescription": "Excursion de 2 jours à Ha Long Bay, comprenant 1 dîner, 1 petit-déjeuner et 2 déjeuners. Opérateur : AN LAM HA LONG TOURISM SERVICES, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Amanda Luxury Cruise : croisière de plusieurs jours dans les baies d'Ha Long et de Lan Ha",
+  "metaTitle": "Amanda Luxury Cruise : Ha Long et Lan Ha, plusieurs jours",
   "metaDescription": "Excursion de 2 jours à Ha Long Bay. Comprend 1 dîner. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "lan-ha-bay-halong-6-star-cruise-balcony-bathtub-pool-3-days": {
@@ -57828,7 +57828,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Holiday surcharge applies (please see Important Information)."
   ],
   "shortDescription": "Excursion à Hô Chi Minh-Ville, avec On foot et Marché flottant de Cai Rang. Opérateur : SST Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Depuis Hô Chi Minh-Ville ou Can Tho : lever du soleil au marché flottant et monastère zen (Hô Chi Minh-Ville)",
+  "metaTitle": "Can Tho : lever du soleil au marché flottant et monastère",
   "metaDescription": "Excursion à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "saigon-street-food-flower-market-and-old-apartment-tour": {
@@ -57996,7 +57996,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Le billet de croisière n'est pas compris si vous réservez uniquement l'option visite à pied"
   ],
   "shortDescription": "Excursion de 1 heure à Hô Chi Minh-Ville, avec Rue piétonne Nguyen Hue, Bach Dang et Rivière de Saïgon. Opérateur : VIVA VIETNAM, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Saïgon en mouvement : croisière avec vue sur les gratte-ciel et visite à pied (Hô Chi Minh-Ville)",
+  "metaTitle": "Saïgon : croisière vue gratte-ciel et visite à pied",
   "metaDescription": "Excursion de 1 heure à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "shopping-tour-with-local-guide-in-saigon": {
@@ -58285,7 +58285,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville, avec Pagode de Vinh Trang, Bateau fluvial et Province de Tien Giang. Opérateur : KIM TRAVEL, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hô Chi Minh-Ville : îles du delta du Mékong en bateau et en tuk-tuk, avec dégustations (Hô Chi Minh-Ville)",
+  "metaTitle": "Îles du delta du Mékong en bateau et en tuk-tuk",
   "metaDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "hcm-mekong-delta-my-tho-and-ben-tre-coconut-village-ho-chi-minh-city": {
@@ -58317,7 +58317,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires (facultatifs)"
   ],
   "shortDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville, avec Pagode de Vinh Trang, Bateau fluvial et Province de Tien Giang. Opérateur : KIM TRAVEL, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hô Chi Minh-Ville : delta du Mékong, My Tho et le village des cocotiers de Ben Tre (Hô Chi Minh-Ville)",
+  "metaTitle": "Delta du Mékong : My Tho et les cocotiers de Ben Tre",
   "metaDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "hcm-cu-chi-tunnels-mekong-delta-and-coconut-village-tour-ho-chi-minh-city": {
@@ -58456,7 +58456,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ],
   "shortDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville, comprenant transport en véhicule climatisé, guide et balades en bateau et assurance voyage. Opérateur : Vietnam Adventure Tours JSC, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Delta du Mékong depuis Hô Chi Minh-Ville, avec visite d'un village de cocotiers",
+  "metaTitle": "Delta du Mékong depuis Saigon et village de cocotiers",
   "metaDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "cu-chi-tunnels-and-mekong-delta-with-coconut-village-tour-ho-chi-minh-city": {
@@ -58531,7 +58531,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Transport jusqu'au théâtre"
   ],
   "shortDescription": "Billet d'entrée à Hô Chi Minh-Ville, comprenant billet pour le spectacle de marionnettes sur l'eau. Opérateur : TNK TRAVEL CO., LTD, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hô Chi Minh-Ville : billet pour le spectacle de marionnettes sur l'eau",
+  "metaTitle": "Saigon : billet pour les marionnettes sur l'eau",
   "metaDescription": "Billet d'entrée à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "real-saigon-off-the-beaten-path-experience": {
@@ -58581,7 +58581,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ],
   "shortDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville, avec Restaurant local et Réserve ornithologique de Tra Su. Opérateur : VIVA VIETNAM, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Can Tho : forêt de cajeputiers de Tra Su et pagode de Ta Pa en une journée",
+  "metaTitle": "Can Tho : forêt de Tra Su et pagode de Ta Pa en un jour",
   "metaDescription": "Excursion d'une journée entière à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "iconic-apartments-walking-tour-in-ho-chi-minh-city": {
@@ -58608,7 +58608,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le guide (facultatifs)"
   ],
   "shortDescription": "Excursion de 3 heures à Hô Chi Minh-Ville, avec Rue piétonne Nguyen Hue, Trésor caché et Arrêt secret. Opérateur : VIVA VIETNAM, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hô Chi Minh-Ville : balade à pied dans les immeubles emblématiques",
+  "metaTitle": "Saigon : les immeubles emblématiques à pied",
   "metaDescription": "Excursion de 3 heures à Hô Chi Minh-Ville. Comprend guide local. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "koi-fish-caf-and-hidden-gems-tour-in-ho-chi-minh-city": {
@@ -58658,7 +58658,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ],
   "shortDescription": "Excursion à Hô Chi Minh-Ville, avec Rue piétonne Nguyen Hue, Rue piétonne de Bui Vien et Arrêt secret. Opérateur : VIVA VIETNAM, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hô Chi Minh-Ville : balade nocturne avec halte dans un lieu secret",
+  "metaTitle": "Saigon : balade nocturne avec halte secrète",
   "metaDescription": "Excursion à Hô Chi Minh-Ville. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "ho-chi-minh-fast-track-service-at-tan-son-nhat-airport-ho-chi-minh-city": {
@@ -58685,7 +58685,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute prestation non mentionnée dans les inclusions"
   ],
   "shortDescription": "Billet d'entrée à Hô Chi Minh-Ville, avec On foot. Opérateur : Up Travel, en réservation directe plutôt que via un revendeur.",
-  "metaTitle": "Hô Chi Minh-Ville : service coupe-file à l'aéroport de Tan Son Nhat (Hô Chi Minh-Ville)",
+  "metaTitle": "Service coupe-file à l'aéroport de Tan Son Nhat",
   "metaDescription": "Billet d'entrée à Hô Chi Minh-Ville. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "heritage-train-ticket-hai-van-pass-train-from-da-nang-and-hue-da-nang": {

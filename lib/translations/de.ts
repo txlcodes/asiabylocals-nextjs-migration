@@ -11168,7 +11168,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben und sonstige Kosten, die nicht im Programm beschrieben sind"
   ],
   "shortDescription": "12-tägige Tour in Ho-Chi-Minh-Stadt, mit Treffen und Abfahrt, Fahrt über Landstraßen und Mittagessen. Durchgeführt von VIETNAM ADVENTURE COMPANY LIMITED, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Der Ho-Chi-Minh-Pfad mit dem Geländemotorrad: von Saigon nach Hanoi in 12 Tagen",
+  "metaTitle": "Ho-Chi-Minh-Pfad per Enduro: Saigon bis Hanoi, 12 Tage",
   "metaDescription": "12-tägige Tour in Ho-Chi-Minh-Stadt. Enthalten: 1 CRF300L inklusive Benzin. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "from-hcm-private-ben-tre-canals-crafts-and-fruit-lunch-ho-chi-minh-city": {
@@ -11226,7 +11226,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zusätzliche, nicht genannte Speisen und Getränke"
   ],
   "shortDescription": "Tour in Ho-Chi-Minh-Stadt, mit Book Street, Saigon, Hauptpost von Saigon und Hủ Tiếu Sườn Sụn Liên. Durchgeführt von Vietnam Signature Tours, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ho-Chi-Minh-Stadt: authentische Michelin-Küche und Rooftop bei Sonnenuntergang, privat",
+  "metaTitle": "Saigon: Michelin-Küche und Rooftop bei Sonnenuntergang",
   "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Enthalten: Englischsprachiger einheimischer Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "from-ho-chi-minh-to-ph-qu-c-the-3-day-hidden-mekong-journey-ho-chi-minh-city": {
@@ -11356,7 +11356,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "x Zuschlag für das Hotel im Mekong-Delta"
   ],
   "shortDescription": "2-tägige Tour in Ho-Chi-Minh-Stadt, inklusive Abholung und Rückfahrt am Hotel in festgelegten zentralen Bereichen von Ho-Chi-Minh, Transport im klimatisierten Fahrzeug und Englischsprachiger Reiseleiter. Durchgeführt von Global Explore, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Mekong-Delta in 2 Tagen und 1 Nacht: My Tho, Ben Tre und der schwimmende Markt von Cai Rang",
+  "metaTitle": "Mekong-Delta in 2 Tagen: My Tho, Ben Tre und Cai Rang",
   "metaDescription": "2-tägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "2-day-mekong-delta-tour-with-homestay": {
@@ -11481,7 +11481,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Optionale Trinkgelder"
   ],
   "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, inklusive Privatwagen mit Klimaanlage, Abholung und Rückfahrt am Hafen Phu, Mineralwasser und Der Leistungsumfang hängt von der gewählten Option ab. Durchgeführt von Hiep Hoi An Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Landausflug: Cu-Chi-Tunnel und Ho-Chi-Minh-Stadt ab dem Hafen Phu My",
+  "metaTitle": "Landausflug: Cu-Chi-Tunnel und Saigon ab Hafen Phu My",
   "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "cu-chi-tunnels-and-mekong-delta-river-tour-by-canoe": {
@@ -11563,7 +11563,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Personal expenses."
   ],
   "shortDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt, mit Cu-Chi-Tunnel und Mekongdelta. Durchgeführt von Amigos Tours & Transport, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Mekongdelta und Cu-Chi-Tunnel: Tagesausflug mit spanischsprachigem Reiseleiter",
+  "metaTitle": "Mekongdelta und Cu-Chi-Tunnel: mit Guide auf Spanisch",
   "metaDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "cu-chi-tunnels-eco-speedboat-day-tour": {
@@ -11696,7 +11696,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Weiteres, das oben nicht genannt ist"
   ],
   "shortDescription": "1-stündige Tour in Ho-Chi-Minh-Stadt, inklusive Alle Zutaten für den Eierkaffee, Die Frühlingsrolle wird serviert, sobald Sie den Kaffee und Trinkwasser. Durchgeführt von Hoang's Kitchen Saigon Cooking Class, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ho-Chi-Minh-Stadt: 1-stündiger Eierkaffee-Kurs mit einheimischer Kursleitung und Snack",
+  "metaTitle": "Saigon: 1-stündiger Eierkaffee-Kurs mit Snack",
   "metaDescription": "1-stündige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "private-cu-chi-tunnels-tour-from-hcm-city-guide-optional-ho-chi-minh-city": {
@@ -11727,7 +11727,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Es fällt ein Feiertagszuschlag an (siehe Wichtige Informationen)"
   ],
   "shortDescription": "8-tägige Tour in Ho-Chi-Minh-Stadt, inklusive Abholung und Rückfahrt zum Hotel, Klimatisierter Transport und Eintrittskarte für Cu Chi. Durchgeführt von SST Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Private Cu-Chi-Tunnel-Tour ab Ho-Chi-Minh-Stadt, Reiseleiter optional",
+  "metaTitle": "Private Cu-Chi-Tunnel-Tour ab Ho-Chi-Minh-Stadt",
   "metaDescription": "8-tägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "private-tour-mekong-delta-kayak-bike-and-cooking-experience-ho-chi-minh-city": {
@@ -11805,7 +11805,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Transport zum und vom Palast"
   ],
   "shortDescription": "Eintrittskarte in Ho-Chi-Minh-Stadt, inklusive Eintrittsgebühr für den Wiedervereinigungspalast. Durchgeführt von KENT HOLIDAYS TRAVEL COMPANY LIMITED, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ho-Chi-Minh-Stadt: Eintrittskarte für den Wiedervereinigungspalast",
+  "metaTitle": "Saigon: Eintrittskarte für den Wiedervereinigungspalast",
   "metaDescription": "Eintrittskarte in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "vietnamese-floral-clock-making-workshop": {
@@ -11856,7 +11856,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Andere nicht genannte Leistungen"
   ],
   "shortDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt, mit Cu-Chi-Tunnel, Abschnitt Ben Duoc. Durchgeführt von TNK TRAVEL CO., LTD, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Cu-Chi-Tunnel: halber Tag im unterirdischen Netz des Vietnamkriegs",
+  "metaTitle": "Cu-Chi-Tunnel: halber Tag im unterirdischen Netz",
   "metaDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "mekong-delta-bike-and-kayak-and-cu-chi-tunnels-private-tour-ho-chi-minh-city": {
@@ -11936,7 +11936,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder (optional)"
   ],
   "shortDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt, inklusive Reiseleiter, Roller mit Fahrer und Eintrittsgebühren. Durchgeführt von SAIGON ADVENTURE COMPANY LIMITED, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Stadttour per Motorrad mit Kriegsmuseum und Wiedervereinigungspalast",
+  "metaTitle": "Saigon per Motorrad: Kriegsmuseum und Wiedervereinigungspalast",
   "metaDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt. Enthalten: Reiseleiter. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "1-day-mekong-cai-rang-floating-market-ancient-house-ho-chi-minh-city": {
@@ -11969,7 +11969,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Weitere oben nicht genannte Ausgaben"
   ],
   "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, mit Schwimmender Markt Cai Rang und Cái Bè. Durchgeführt von KIM TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Mekong an 1 Tag: schwimmender Markt von Cai Rang und altes Wohnhaus (Ho-Chi-Minh-Stadt)",
+  "metaTitle": "Mekong an 1 Tag: schwimmender Markt von Cai Rang",
   "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Enthalten: Eintrittsgebühr. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "depart-from-ho-chi-minh-city-mekong-dream-4-day-3-night": {
@@ -12341,7 +12341,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Es fällt ein Feiertagszuschlag an (siehe Wichtige Informationen)"
   ],
   "shortDescription": "2-tägige Tour in Ho-Chi-Minh-Stadt, inklusive Klimatisierter Bus oder Van, Reiseleiter und Mittagessen in einem lokalen Restaurant. Durchgeführt von SST Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Cu-Chi-Tunnel und schwimmender Markt am Mekong: 2 Tage ab Ho-Chi-Minh-Stadt",
+  "metaTitle": "Cu-Chi-Tunnel und schwimmender Mekong-Markt: 2 Tage",
   "metaDescription": "2-tägige Tour in Ho-Chi-Minh-Stadt. Enthalten: Klimatisierter Bus oder Van. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "mekong-delta-river-life-coconut-village-vinh-trang-pagoda-ho-chi-minh-city": {
@@ -12811,7 +12811,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag an vietnamesischen Feiertagen"
   ],
   "shortDescription": "Tour in Ho-Chi-Minh-Stadt, inklusive Abholung und Rückfahrt am Hotel in Ho-Chi-Minh-Stadt, Klimatisierter Transport und Reiseleiter. Durchgeführt von Vietnam Homies Tour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Schlachtfelder Long Tan und Nui Dat: die wahre Geschichte des Vietnamkriegs",
+  "metaTitle": "Long Tan und Nui Dat: die wahre Geschichte des Krieges",
   "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "mekong-delta-tour-with-lunch-and-boat-ride": {
@@ -12969,7 +12969,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Transport zur Destillerie"
   ],
   "shortDescription": "3-stündige Tour in Ho-Chi-Minh-Stadt, inklusive Besichtigung der Destillerie, Workshop: eigenen Gin herstellen und Alle Botanicals und Zutaten. Durchgeführt von Saigon Boat Company, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Eigenen Gin herstellen und die Destillerie Saigon Baigur besichtigen",
+  "metaTitle": "Eigenen Gin machen und die Saigon Baigur besichtigen",
   "metaDescription": "3-stündige Tour in Ho-Chi-Minh-Stadt. Enthalten: Besichtigung der Destillerie. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "vegetarian-street-food-in-ho-chi-minh-city": {
@@ -13054,7 +13054,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag an vietnamesischen Feiertagen"
   ],
   "shortDescription": "Tour in Ho-Chi-Minh-Stadt, inklusive Privater klimatisierter Transport, Abholung und Rückfahrt am Hafen Hiep Phuoc oder Phu My und Englischsprachiger Reiseleiter. Durchgeführt von Global Explore, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ab dem Hafen Hiep Phuoc oder Phu My: Landausflug nach Ho-Chi-Minh-Stadt",
+  "metaTitle": "Ab Hafen Hiep Phuoc oder Phu My: Landausflug nach Saigon",
   "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Enthalten: Privater klimatisierter Transport. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "hcm-private-2-day-floating-market-and-mekong-delta-tour-ho-chi-minh-city": {
@@ -13162,7 +13162,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Getränke (Bier, Softdrinks ...)"
   ],
   "shortDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt, mit Unabhängigkeitspalast, Kriegsopfermuseum und Jade-Kaiser-Pagode. Durchgeführt von ASIANA LINK TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ho-Chi-Minh-Stadt: halber Tag zu den Wahrzeichen mit einheimischem Guide",
+  "metaTitle": "Saigon: halber Tag zu den Wahrzeichen mit Guide",
   "metaDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "mekong-delta-boat-tour-with-local-lunch": {
@@ -13383,7 +13383,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag für Abholung am Hotel außerhalb von Bezirk 1"
   ],
   "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, mit Củ Chi, Ho-Chi-Minh-Stadt und Cao-Dai-Tempel. Durchgeführt von VN Bike Tours Shore Excursion, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ab Ho-Chi-Minh-Stadt: Mittagsmesse im Cao-Dai-Tempel und Cu-Chi-Tunnel (Ho-Chi-Minh-Stadt)",
+  "metaTitle": "Mittagsmesse im Cao-Dai-Tempel und Cu-Chi-Tunnel",
   "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "2-day-1-night-mekong-delta-can-tho-floating-market": {
@@ -13415,7 +13415,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag für andere Sprachen"
   ],
   "shortDescription": "2-tägige Tour in Ho-Chi-Minh-Stadt, inklusive Abholung und Rückfahrt am Hotel im Zentrum von Ho-Chi-Minh-Stadt, Klimatisierter Transport und Reiseleiter. Durchgeführt von Atlas Vietnam Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Mekongdelta: 2 Tage und 1 Nacht mit dem schwimmenden Markt von Can Tho",
+  "metaTitle": "Mekongdelta: 2 Tage, schwimmender Markt von Can Tho",
   "metaDescription": "2-tägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "cu-chi-tunnels-half-day-adventure-with-shooting-range-ho-chi-minh-city": {
@@ -13757,7 +13757,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Weitere Leistungen, die nicht in der Leistungsliste genannt sind"
   ],
   "shortDescription": "Tour in Ho-Chi-Minh-Stadt, inklusive Unterkunft im geteilten Doppel-, Twin- oder Dreibettzimmer mit täglichem, Genannte Mahlzeiten: Frühstück und Privates klimatisiertes Fahrzeug laut Programm. Durchgeführt von ANHFLY TRAVEL CO.,LTD, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Nam-Cat-Tien-Nationalpark: Dschungelabenteuer ab Ho-Chi-Minh-Stadt",
+  "metaTitle": "Nam-Cat-Tien-Nationalpark: Dschungelabenteuer",
   "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "budget-friendly-guided-walking-tour-in-ho-chi-minh-city": {
@@ -13920,7 +13920,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ],
   "shortDescription": "Tour in Ho-Chi-Minh-Stadt, mit Ho-Chi-Minh-Stadt, Cu Chi Tunnels and Củ Chi und Ho-Chi-Minh-Stadt. Durchgeführt von OG Saigon Experience & Transport, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Cu-Chi-Tunnel in der Kleingruppe (max. 6) mit einem einheimischen Erzähler (Ho-Chi-Minh-Stadt)",
+  "metaTitle": "Cu-Chi-Tunnel in der Kleingruppe, max. 6 Personen",
   "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Enthalten: Abholung in der Innenstadt von Saigon. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "can-gio-mangroves-forest-and-monkey-island-eco-tour-in-ho-chi-minh-city": {
@@ -14135,7 +14135,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Versicherung"
   ],
   "shortDescription": "4-tägige Tour in Ho-Chi-Minh-Stadt, mit Rach Gia, Vogelschutzgebiet Tra Su und Vi-Thanh-Markt. Durchgeführt von Rec, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Von Rach Gia nach Ho-Chi-Minh-Stadt: 4 Tage im Mekong-Delta, von einem lokalen Anbieter",
+  "metaTitle": "Von Rach Gia nach Saigon: 4 Tage im Mekong-Delta",
   "metaDescription": "4-tägige Tour in Ho-Chi-Minh-Stadt. Enthalten: 4 Frühstücke und 2 Mittagessen. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "city-highlights-and-unseen-tour-in-ho-chi-minh-city": {
@@ -14958,7 +14958,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag an vietnamesischen Feiertagen"
   ],
   "shortDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt, inklusive Abholung und Rückfahrt am Hotel im Distrikt 1, Klimatisierter Transport und Reiseleiter. Durchgeführt von Global Explore, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ho-Chi-Minh-Stadt: geführter halber Tag mit 6 Orten in kleiner Gruppe",
+  "metaTitle": "Saigon: geführter halber Tag mit 6 Orten",
   "metaDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "from-hcm-cu-chi-tunnels-and-mekong-delta-tour": {
@@ -15266,7 +15266,7 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [],
   "shortDescription": "Tour in Ho-Chi-Minh-Stadt, inklusive vier Kaffeeverkostungen und ihre Zubereitung, ein einfacher lokaler Snack und klimatisierte, bequeme Sitze. Durchgeführt von Vietnam Coffee Journey - Day, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Drei ikonische vietnamesische Kaffees selbst machen: braun, gesalzen und Eierkaffee",
+  "metaTitle": "Drei vietnamesische Kaffees selbst machen, in Saigon",
   "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "cu-chi-tunnels-kisstour-guided-tour": {
@@ -15489,7 +15489,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag an Feiertagen"
   ],
   "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, inklusive Abholung und Rückfahrt am Hotel im Distrikt 1, Klimatisierter Transport während der gesamten Tour und Reiseleiter. Durchgeführt von Vietnam Vision Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Mekongdelta und schwimmender Markt Cai Rang: authentisches Leben am Fluss",
+  "metaTitle": "Mekongdelta und schwimmender Markt Cai Rang",
   "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "can-gio-mangrove-forest-and-monkey-island-in-ho-chi-minh-city": {
@@ -15576,7 +15576,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ],
   "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, mit Ben Tre und Mekong. Durchgeführt von Mekong ZigZag, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Mekong-Delta: Ganztagesausflug ab Ho-Chi-Minh-Stadt, von einem lokalen Anbieter",
+  "metaTitle": "Mekong-Delta: Ganztagesausflug ab Ho-Chi-Minh-Stadt",
   "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "mui-ne-jeep-day-trip-sand-dunes-and-atv-option-in-ho-chi-minh-city": {
@@ -16695,7 +16695,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ],
   "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, mit Schwarzer-Jungfrau-Berg, Ẩm Thực TK Tây Ninh und Heiliger Stuhl der Cao Dai in Tay Ninh. Durchgeführt von THE SUN TOURIST, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Tay Ninh: Tagesausflug zum Schwarzen-Jungfrau-Berg und zum Cao-Dai-Tempel",
+  "metaTitle": "Tay Ninh: Schwarzer-Jungfrau-Berg und Cao-Dai-Tempel",
   "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "ho-chi-minh-city-half-or-full-day-history-chinatown-by-car-by-local-operator": {
@@ -16723,7 +16723,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag an vietnamesischen Feiertagen"
   ],
   "shortDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt, inklusive Abholung und Rückfahrt im Distrikt 1, Professioneller Reiseleiter und Reiseleiter. Durchgeführt von VN BIKE TOUR COMPANY LIMTIED, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ho-Chi-Minh-Stadt: halber oder ganzer Tag mit Geschichte und Chinatown, mit dem Auto",
+  "metaTitle": "Saigon: Geschichte und Chinatown, mit dem Auto",
   "metaDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "24h-ho-chi-minh-city-tour-hop-on-hop-off-bus-by-local-operator": {
@@ -16811,7 +16811,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ],
   "shortDescription": "Tour in Ho-Chi-Minh-Stadt, mit Bitexco Financial Tower, Flaggen der ASEAN-Staaten und Alter Markt Ton That Dam. Durchgeführt von Cai Chien Co., Ltd., direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ho-Chi-Minh-Stadt: Rundgang zu Höhepunkten und versteckten Schätzen",
+  "metaTitle": "Saigon: Rundgang zu Höhepunkten und Schätzen",
   "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Enthalten: Einheimischer Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "cu-chi-tunnels-and-mekong-delta-day-tour": {
@@ -16984,7 +16984,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag an vietnamesischen Feiertagen"
   ],
   "shortDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt, mit Ho-Chi-Minh-Stadt. Durchgeführt von VN BIKE TOUR COMPANY LIMTIED, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ho-Chi-Minh-Stadt im Jeep: Wahrzeichen, Kultur und versteckte Gassen",
+  "metaTitle": "Saigon im Jeep: Wahrzeichen, Kultur und Gassen",
   "metaDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "private-ben-tre-visit-mekong-delta-region-ho-chi-minh-city": {
@@ -17129,7 +17129,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ],
   "shortDescription": "3-tägige Tour in Ho-Chi-Minh-Stadt, inklusive Transport im klimatisierten Bus oder Van, Bootsfahrten im Mekongdelta und Reiseleiter. Durchgeführt von TNK TRAVEL CO., LTD, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Mekongdelta in 3 Tagen, mit optionaler Weiterreise nach Phnom Penh",
+  "metaTitle": "Mekongdelta in 3 Tagen, optional weiter nach Phnom Penh",
   "metaDescription": "3-tägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "day-trip-to-mui-ne-with-atv-quad-and-private-jeep-in-ho-chi-minh-city": {
@@ -17295,7 +17295,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Upgrade auf eine private Tour (1.000.000 VND): Bitte teilen Sie uns dies nach der Buchung mit."
   ],
   "shortDescription": "3-stündige Tour in Ho-Chi-Minh-Stadt, mit Lokale Bäckerei. Durchgeführt von VIVA VIETNAM, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ho-Chi-Minh-Stadt: geführte Tour zu Michelin-ausgewähltem Streetfood",
+  "metaTitle": "Saigon: geführte Tour zu Michelin-Streetfood",
   "metaDescription": "3-stündige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "grandma-noodles-good-coffee-exotic-fruits-and-little-history-in-ho-chi-minh-city": {
@@ -17312,7 +17312,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Transport zum Treffpunkt und wieder zurück."
   ],
   "shortDescription": "3-stündige Tour in Ho-Chi-Minh-Stadt, inklusive Alles ist enthalten. Durchgeführt von Spring Saigon Tours, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Omas Nudeln, guter Kaffee, exotische Früchte und ein wenig Geschichte",
+  "metaTitle": "Omas Nudeln, guter Kaffee und exotische Früchte in Saigon",
   "metaDescription": "3-stündige Tour in Ho-Chi-Minh-Stadt. Enthalten: Alles ist enthalten. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "midnight-motorbike-tour-in-ho-chi-minh-city": {
@@ -17606,7 +17606,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag an vietnamesischen Feiertagen"
   ],
   "shortDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt, inklusive Abholung und Rückfahrt an Ihrem Hotel, Privater klimatisierter Transport und professioneller Reiseleiter. Durchgeführt von VN BIKE TOUR COMPANY LIMTIED, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Long Tan und Nui Dat: Kriegsgeschichte, ab Vung Tau oder Ho-Chi-Minh-Stadt",
+  "metaTitle": "Long Tan und Nui Dat: Kriegsgeschichte ab Vung Tau",
   "metaDescription": "Halbtägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "discover-ho-chi-minh-city-highlights-with-6-attractions-by-local-operator": {
@@ -17909,7 +17909,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Wein"
   ],
   "shortDescription": "Tour in Ho-Chi-Minh-Stadt, inklusive Alkoholische Getränke, Kostenloser Cocktail und Abendessen. Durchgeführt von Provincial Table Compay Limited, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Intensiver Kochkurs und Markttour mit einem Küchenchef in Ho-Chi-Minh-Stadt",
+  "metaTitle": "Kochkurs und Markttour mit einem Küchenchef in Saigon",
   "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Enthalten: Alkoholische Getränke. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "super-niche-walking-street-food-tour-in-ho-chi-minh-city": {
@@ -17935,7 +17935,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alles inklusive, keine versteckten Kosten"
   ],
   "shortDescription": "Tour in Ho-Chi-Minh-Stadt, mit Ho-Chi-Minh-Stadt, Essensstraße Ho Thi Ky und Distrikt 10, Ho-Chi-Minh-Stadt. Durchgeführt von Saigon Vibes Travel Tour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Streetfood-Tour zu Fuß abseits der ausgetretenen Pfade in Ho-Chi-Minh-Stadt",
+  "metaTitle": "Saigon: Streetfood-Tour zu Fuß abseits der Pfade",
   "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Enthalten: 10 Gerichte. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "mui-ne-best-day-trip-in-ho-chi-minh-city": {
@@ -17992,7 +17992,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder (optional)"
   ],
   "shortDescription": "Eintrittskarte in Ho-Chi-Minh-Stadt, mit Unabhängigkeitspalast. Durchgeführt von VIETNAM ADVENTURE & HERITAGE, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ticket für die LoaLoa Culture & Dining Show im Unabhängigkeitspalast",
+  "metaTitle": "Ticket für die LoaLoa Culture & Dining Show",
   "metaDescription": "Eintrittskarte in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "bao-loc-waterfalls-and-tea-hills-private-day-trip-from-mui-ne-in-ho-chi-minh-city": {
@@ -18221,7 +18221,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Boring moments."
   ],
   "shortDescription": "Tour in Ho-Chi-Minh-Stadt, inklusive Unfallversicherung, Lebensmittelhygiene und -sicherheit bestätigt und Ein Getränk an jedem Essensstopp und ein Bier am letzten Halt. Durchgeführt von SAIGON ADVENTURE COMPANY LIMITED, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Fahrerinnen: die preisgekrönte Streetfood-Tour in Ho-Chi-Minh-Stadt (Ho-Chi-Minh-Stadt)",
+  "metaTitle": "Saigon: preisgekrönte Streetfood-Tour mit Fahrerinnen",
   "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Enthalten: Unfallversicherung. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "black-virgin-mount-and-cao-dai-temple-1-day-trip-from-hcm-in-ho-chi-minh-city": {
@@ -18250,7 +18250,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag an vietnamesischen Feiertagen"
   ],
   "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, mit Schwarzer-Jungfrau-Berg und Cao-Dai-Tempel. Durchgeführt von Saigon Homies Tour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Schwarzer-Jungfrau-Berg und Cao-Dai-Tempel: Tagesausflug ab Ho-Chi-Minh-Stadt",
+  "metaTitle": "Schwarzer-Jungfrau-Berg und Cao-Dai-Tempel: 1 Tag",
   "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "wartime-tunnel-or-ho-chi-minh-complex-and-prison-museum": {
@@ -18570,7 +18570,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Besuch eines kommerziellen Spas"
   ],
   "shortDescription": "Tour in Sapa, mit Ban Khoang, Ta Phin und Ta-Phin-Höhle. Durchgeführt von Local Guide Vietnam's Community, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Sapa: versteckte Nebenstraßen von Ban Khoang und Ta Phin per Motorrad",
+  "metaTitle": "Sapa: Ban Khoang und Ta Phin per Motorrad",
   "metaDescription": "Tour in Sapa. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "sa-seng-hang-da-and-hau-thao-villages-guided-trek-in-sapa": {
@@ -18951,7 +18951,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben (Souvenirs, Handarbeiten aus den Dörfern)"
   ],
   "shortDescription": "2-tägige Tour in Sapa, mit Schwarzes Taxi und Sa Pa. Durchgeführt von Mimi SaPa Trekking Tour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Sapa in 2 Tagen und 1 Nacht: Berge und Trekking im Tal mit einheimischem Guide, von einem lokalen Anbieter",
+  "metaTitle": "Sapa in 2 Tagen: Berge und Trekking mit Guide",
   "metaDescription": "2-tägige Tour in Sapa. Enthalten: Reiseleiter während der gesamten Reise. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "half-day-scenic-car-tour-with-local-art-experience-in-sapa": {
@@ -19100,7 +19100,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Reiseversicherung"
   ],
   "shortDescription": "4-tägige Tour in Sapa, inklusive 4-tägige geführte Trekkingtour, 3 Nächte im privaten Bungalow und Guide. Durchgeführt von Ethnic Community Cultural Tours, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Sapa: 4-tägige Dorfwanderung mit Übernachtung im privaten Bungalow",
+  "metaTitle": "Sapa: 4-tägige Dorfwanderung mit privatem Bungalow",
   "metaDescription": "4-tägige Tour in Sapa. Enthalten: 4-tägige geführte Trekkingtour. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "5-day-ha-giang-loop-adventure-with-homestays-in-sapa": {
@@ -20337,7 +20337,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Reiseversicherung"
   ],
   "shortDescription": "2-tägige Tour in Sapa, inklusive Hotelnacht bei der Ankunft in Cao Bang, Homestay im Steindorf und 2 Frühstücke. Durchgeführt von SERENITY CRUISES - LAN HA BAY, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Cao Bang: 2 Tage mit Ban-Gioc-Wasserfall und Übernachtung im Steindorf",
+  "metaTitle": "Cao Bang: 2 Tage, Ban-Gioc-Wasserfall und Steindorf",
   "metaDescription": "2-tägige Tour in Sapa. Enthalten: Hotelnacht bei der Ankunft in Cao Bang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "2-day-trekking-tour-with-local-villages-and-lunch-in-sapa": {
@@ -20704,7 +20704,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag von 30 USD pro Person zum Mondneujahr (26. Januar bis 2. Februar 2025, zahlbar am Treffpunkt)"
   ],
   "shortDescription": "2-tägige Tour in Sapa, inklusive Guide, Alle Eintrittskarten für die genannten Orte und 2 Mittagessen in einem lokalen Restaurant. Durchgeführt von Vietnam Nomadtrails, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Sapa: 2-tägige Wanderung mit Homestay bei einer lokalen Minderheit",
+  "metaTitle": "Sapa: 2-tägige Wanderung, Homestay bei einer Minderheit",
   "metaDescription": "2-tägige Tour in Sapa. Enthalten: Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "3-day-sapa-trek-tour-with-homestay-and-fansipan": {
@@ -20940,7 +20940,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ],
   "shortDescription": "Ganztägige Tour in Sapa, mit Dorf Hau Thao. Durchgeführt von HELEN, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Muong Hoa: Wanderung mit Bergblick und Dörfern, inklusive Mittagessen",
+  "metaTitle": "Muong Hoa: Wanderung mit Bergblick und Dörfern",
   "metaDescription": "Ganztägige Tour in Sapa. Enthalten: Hin- und Rückfahrt im Van und Fahrer. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "terraced-fields-and-culture-motorbike-tour-with-lunch-in-sapa": {
@@ -21550,7 +21550,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld"
   ],
   "shortDescription": "2-tägige Tour in Sapa, inklusive Reiseleiter für 2 Tage, 2 Mittagessen und 1 Abendessen mit lokalen Spezialitäten und Hmong-Reisschnaps. Durchgeführt von Sapa Mountain Trails, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Sapa: 2 Tage authentische Wanderung und Homestay mit einheimischem Guide",
+  "metaTitle": "Sapa: 2 Tage Wanderung und Homestay mit Guide",
   "metaDescription": "2-tägige Tour in Sapa. Enthalten: Reiseleiter für 2 Tage und 2 Mittagessen. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "private-the-most-beautiful-terraced-fields-trekking-in-sapa": {
@@ -21726,7 +21726,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Optionaler separater Transfer von und nach Sapa, Ninh Binh, Halong-Bucht oder Cat Ba (auf Anfrage)"
   ],
   "shortDescription": "4-tägige Tour in Sapa, inklusive 1 kostenlose Nacht im Jasmine Hostel vor der Tour, 1 T-Shirt für alle, die es schaffen und Großer Gepäckaufbewahrungsraum. Durchgeführt von Jasmine Tour Ha Giang, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha-Giang-Runde zum Selbstfahren, 3 Tage und 2 Nächte mit Jasmine Tours ab Sapa",
+  "metaTitle": "Ha-Giang-Runde zum Selbstfahren: 3 Tage ab Sapa",
   "metaDescription": "4-tägige Tour in Sapa. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "herbal-trekking-tour-with-red-dao-people-1-day-in-sapa": {
@@ -21843,7 +21843,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Wasser"
   ],
   "shortDescription": "2-tägige Tour in Sapa, inklusive Frühstück, Mittagessen und Abendessen. Durchgeführt von Sa Pa Authentic tour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Sapa: 2-tägige Wanderung und Homestay mit französischsprachigem Guide",
+  "metaTitle": "Sapa: 2 Tage Wandern und Homestay, Guide auf Französisch",
   "metaDescription": "2-tägige Tour in Sapa. Enthalten: Frühstück, Mittagessen und Abendessen. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "2-day-sapa-bac-ha-market-night-train-and-homestay-overnight-by-local-operator": {
@@ -21874,7 +21874,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Feiertagszuschlag von 700.000 VND pro Person, am Tag selbst beim Reiseleiter zu zahlen (30. April, 1. Mai, 1., 2. und 3. September, 24. und 31. Dezember, 1. Januar)"
   ],
   "shortDescription": "2-tägige Tour in Sapa, inklusive Transfer Hanoi - Sapa - Hanoi, Ein einheimischer englischsprachiger Reiseleiter in Sapa und Alle im Programm vorgesehenen Mahlzeiten. Durchgeführt von CÔNG TY TNHH NINH BINH GETAWAY, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Sapa und der Markt von Bac Ha in 2 Tagen: Nachtzug und Übernachtung im Homestay, von einem lokalen Anbieter",
+  "metaTitle": "Sapa und der Markt von Bac Ha: 2 Tage, Nachtzug",
   "metaDescription": "2-tägige Tour in Sapa. Enthalten: Transfer Hanoi - Sapa - Hanoi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "2-day-guided-trek-with-homestay-guide-english-french-in-sapa": {
@@ -21891,7 +21891,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Getränke während der Wanderung, beim Mittagessen oder im Homestay sind nicht enthalten."
   ],
   "shortDescription": "Ganztägige Tour in Sapa, inklusive Diese Tour beinhaltet einen Reiseleiter. Durchgeführt von Chan Giang, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Sapa: 2-tägige geführte Wanderung mit Homestay, Guide spricht Englisch und Französisch",
+  "metaTitle": "Sapa: 2 Tage geführte Wanderung mit Homestay",
   "metaDescription": "Ganztägige Tour in Sapa. Enthalten: Diese Tour beinhaltet einen Reiseleiter. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "motorbike-adventure-to-love-waterfall-and-villages-in-sapa": {
@@ -22056,7 +22056,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ],
   "shortDescription": "Tour in Sapa, inklusive Guide, Motorrad und Ausrüstung und Besuch des Silberwasserfalls. Durchgeführt von ASu Sa Pa Trekking Tour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Sapa: halbtägige Fahrt zu Wasserfällen und Kräuterbad der Roten Dao",
+  "metaTitle": "Sapa: Wasserfälle und Kräuterbad der Roten Dao",
   "metaDescription": "Tour in Sapa. Enthalten: Guide und Motorrad und Ausrüstung. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "local-hmong-cooking-class-in-sapa": {
@@ -22137,7 +22137,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ],
   "shortDescription": "2-tägige Tour in Sapa, inklusive Reiseleiter, der Englisch spricht, 1 kleine Flasche Wasser pro Person und Tag und Mittagessen für die 2 Wandertage. Durchgeführt von ASu Sa Pa Trekking Tour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Sapa: 2 Tage Wandern und 1 Nacht im Homestay mit einheimischem Guide",
+  "metaTitle": "Sapa: 2 Tage Wandern und 1 Nacht im Homestay mit Guide",
   "metaDescription": "2-tägige Tour in Sapa. Enthalten: Reiseleiter, der Englisch spricht. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "sapa-open-air-jeep-half-days-off-the-beaten-track-backroad-by-local-operator": {
@@ -22697,7 +22697,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Feiertagszuschlag (Mondneujahr, Weihnachten, Neujahr usw.)"
   ],
   "shortDescription": "Ganztägige Tour in Sapa, inklusive 1 Mahlzeit, Guide und Alle Eintrittsgebühren. Durchgeführt von Anh Tourist Hanoi Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Sapa: Tageswanderung durch die Reisterrassen mit einheimischem Guide",
+  "metaTitle": "Sapa: Tageswanderung durch die Reisterrassen",
   "metaDescription": "Ganztägige Tour in Sapa. Enthalten: 1 Mahlzeit und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "waterfalls-tea-farm-and-cave-full-day-tour-by-car-in-sapa": {
@@ -23061,7 +23061,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben (Souvenirs, Handarbeiten aus den Dörfern)"
   ],
   "shortDescription": "3-tägige Tour in Sapa, inklusive einheimischer Reiseleiter während der gesamten Reise, Einfacher Gepäcktransport zwischen den Übernachtungsorten und 2 Übernachtungen in einem lokalen Homestay. Durchgeführt von Mimi SaPa Trekking Tour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Sapa: 3-tägiges Trekking durch versteckte Dörfer und Natur mit Mama Shushu, von einem lokalen Anbieter",
+  "metaTitle": "Sapa: 3-tägiges Trekking mit Mama Shushu",
   "metaDescription": "3-tägige Tour in Sapa. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "cat-cat-village-waterfall-and-mountain-tour-with-lunch-in-sapa": {
@@ -23228,7 +23228,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Kräuterbad"
   ],
   "shortDescription": "2-tägige Tour in Sapa, inklusive Guide, 2 Mittagessen und 1 Frühstück. Durchgeführt von Sapa Original Trek Company Limited, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Sapa: 2-tägige Wanderung zu Dörfern, Reisfeldern und Liebeswasserfall",
+  "metaTitle": "Sapa: 2 Tage Wandern, Dörfer und Liebeswasserfall",
   "metaDescription": "2-tägige Tour in Sapa. Enthalten: Guide, 2 Mittagessen und 1 Frühstück. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "2-day-fansipan-summit-trek": {
@@ -23621,7 +23621,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Motorrad oder Auto, wenn Sie unterwegs anhalten und mit dem Auto zum Homestay fahren möchten"
   ],
   "shortDescription": "2-tägige Tour in Sapa, inklusive Guide vor Ort, Mittagessen an beiden Tagen und Abendessen am Tag 1. Durchgeführt von LALA SAPA TREKKING & HOMESTAY., direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Sapa: 2-tägige Wanderung mit einheimischem Guide und Nacht im LaLa Homestay",
+  "metaTitle": "Sapa: 2-tägige Wanderung und Nacht im LaLa Homestay",
   "metaDescription": "2-tägige Tour in Sapa. Enthalten: Guide vor Ort. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "1-day-amazing-sapa-trek-to-terrace-rice-field": {
@@ -23853,7 +23853,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Ticket für die Glasbrücke"
   ],
   "shortDescription": "Halbtägige Tour in Sapa, mit Thac-Bac-Wasserfall, Liebeswasserfall und Glasbrücke Rong May. Durchgeführt von SaPa Native Tours, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Sapa: halbtägige Motorradtour mit Sonnenuntergang am O-Quy-Ho-Pass",
+  "metaTitle": "Sapa: halber Tag per Motorrad zum O-Quy-Ho-Pass",
   "metaDescription": "Halbtägige Tour in Sapa. Enthalten: Englischsprachiger Reiseleiter. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "sapa-limousine-bus-rice-terrace-trail-and-fansipan-peak": {
@@ -23938,7 +23938,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Souvenirs oder persönliche Ausgaben"
   ],
   "shortDescription": "2-tägige Tour in Sapa, inklusive Englischsprachiger Hmong-Guide, 1 Nacht im Cozy Homestay und Alle Mahlzeiten: Mittag- und Abendessen. Durchgeführt von LALA SAPA TREKKING & HOMESTAY., direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "2 Tage Trekking und 1 Nacht in einem authentischen Homestay in Sapa",
+  "metaTitle": "Sapa: 2 Tage Trekking und 1 Nacht im Homestay",
   "metaDescription": "2-tägige Tour in Sapa. Enthalten: Englischsprachiger Hmong-Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "90-min-daily-sapa-paragliding-tour-hotel-transfer-included-by-local-operator": {
@@ -24299,7 +24299,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alle nicht im Programm genannten Ausgaben"
   ],
   "shortDescription": "2-tägige Tour in Sapa, mit Keep trek und finish the tour. Durchgeführt von Isee Hmoob Company Limited, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Sapa: 2-tägiges Trekking mit 1 Übernachtung, Homestay und Hmong-Kultur mit iSee Hmoob",
+  "metaTitle": "Sapa: 2 Tage Trekking und Hmong-Kultur mit iSee Hmoob",
   "metaDescription": "2-tägige Tour in Sapa. Enthalten: Enthaltene Leistungen. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "exclusive-sapa-lonely-tree-and-secret-cave-by-car-by-local-operator": {
@@ -24325,7 +24325,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mittagessen und persönliche Ausgaben"
   ],
   "shortDescription": "Ganztägige Tour in Sapa, mit Der einsame Baum von O Quy Ho, Tac-Tinh-Wasserfall und Đồi Thông Tả Lèng Huyện Tam đường. Durchgeführt von Ethnic Community Cultural Tours, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Sapa exklusiv: der einsame Baum und die geheime Höhle mit dem Auto, von einem lokalen Anbieter",
+  "metaTitle": "Sapa: der einsame Baum und die geheime Höhle per Auto",
   "metaDescription": "Ganztägige Tour in Sapa. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "sapa-tour-with-hotel-stay-and-beautiful-natural-views-2-days": {
@@ -25071,7 +25071,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag für einen nicht englischsprachigen Guide (private Tour)"
   ],
   "shortDescription": "3-tägige Tour in Sapa, inklusive Moderner klimatisierter Bus, Moderner Bus in Sapa mit erfahrenen Fahrern und begleitender Reiseleiter in Sapa. Durchgeführt von Enni tour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "3-tägiges Sapa-Abenteuer: Lao Chai, Cat Cat und der Fansipan-Gipfel",
+  "metaTitle": "Sapa in 3 Tagen: Lao Chai, Cat Cat und der Fansipan",
   "metaDescription": "3-tägige Tour in Sapa. Enthalten: Moderner klimatisierter Bus. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "sapa-package-tour-2-days-1-night-at-hotel-by-local-operator": {
@@ -25136,7 +25136,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag zum Mondneujahr vom 26. Januar bis 2. Februar 2025: 120 USD pro Person, zahlbar am Treffpunkt."
   ],
   "shortDescription": "5-tägige Tour in Sapa, inklusive 1. Abholung und Rückfahrt am Hotel, 2. Transport im geteilten Bus und 3. Englischsprachiger Reiseleiter. Durchgeführt von Vietnam Nomadtrails, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Highlights Nordvietnams: Hanoi, Sapa, Ninh Binh und Halong in 5 Tagen",
+  "metaTitle": "Nordvietnam: Hanoi, Sapa, Ninh Binh und Halong in 5 Tagen",
   "metaDescription": "5-tägige Tour in Sapa. Enthalten: 1. Abholung und Rückfahrt am Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "4-day-ha-long-bay-ninh-binh-and-sapa-trekking-and-train": {
@@ -25208,7 +25208,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Die Busfahrt von Sapa nach Hanoi oder zu anderen Zielen ist nicht enthalten, kann aber je nach Verfügbarkeit organisiert werden."
   ],
   "shortDescription": "6-tägige Tour in Sapa, inklusive englischsprachige Guides in Sapa, Motorrad und Benzin und Ein Easy-Rider-Fahrer in Ha Giang. Durchgeführt von ZingHome Ha Giang Loop Tours, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha Giang: 6-tägige Ha-Giang-Runde und Trekking in Sapa, von einem lokalen Anbieter",
+  "metaTitle": "6-tägige Ha-Giang-Runde und Trekking in Sapa",
   "metaDescription": "6-tägige Tour in Sapa. Enthalten: englischsprachige Guides in Sapa. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "5-day-ninh-binh-halong-overnight-cruise-and-sapa-local": {
@@ -25418,7 +25418,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Abholung und Rückfahrt zum Hotel"
   ],
   "shortDescription": "Eintrittskarte in Hanoi, inklusive Vorab gebuchte Tickets für die Wasserpuppenshow in Hanoi, Programmheft in Ihrer Sprache erhältlich und Einfache Abholung des Papiertickets im Büro. Durchgeführt von Tinny Travel Co.Ltd, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hanoi: VIP-Ticket für die ersten sechs Reihen der Wasserpuppenshow",
+  "metaTitle": "Hanoi: VIP-Ticket, erste sechs Reihen, Wasserpuppen",
   "metaDescription": "Eintrittskarte in Hanoi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "hanoi-incense-village-ao-dai-rental-and-photoshoot-by-local-operator": {
@@ -25838,7 +25838,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ],
   "shortDescription": "1-stündige Tour in Hanoi, inklusive Kulturerzähler, Premium-Teeverkostungen im gewählten Paket enthalten und Interaktive kulturelle Erzählungen und Fragerunde. Durchgeführt von Rose Kitchen Hanoi, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hanois Lotustee: Herstellung, Verkostung und vietnamesische Kultur",
+  "metaTitle": "Hanois Lotustee: Herstellung und Verkostung",
   "metaDescription": "1-stündige Tour in Hanoi. Enthalten: Kulturerzähler. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "4-day-ha-giang-loop-to-all-highlights-by-car-stay-resort-4-in-hanoi": {
@@ -26466,7 +26466,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alles, was oben nicht ausdrücklich genannt ist"
   ],
   "shortDescription": "Tour in Hanoi, inklusive Oldtimer-Jeep mit professionellem Fahrer, Guide mit tiefer Ortskenntnis und Authentisches Bún-Chả-Abendessen und Eierkaffee oder Lotustee an der Train. Durchgeführt von City Tour Hanoi, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hanoi per Jeep bei Sonnenuntergang: Train Street und Lichter der Stadt",
+  "metaTitle": "Hanoi per Jeep bei Sonnenuntergang: die Train Street",
   "metaDescription": "Tour in Hanoi. Enthalten: Oldtimer-Jeep mit professionellem Fahrer. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "rose-kitchen-pho-bun-cha-nem-free-egg-salt-coffee-in-hanoi": {
@@ -26713,7 +26713,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alle zusätzlichen Leistungen, die nicht im Paket aufgeführt sind (gegen Aufpreis erhältlich)"
   ],
   "shortDescription": "Tour in Hanoi, inklusive Ao-Dai-Verleih, Fotoshooting und Betreuung durch einen Fotografen. Durchgeführt von H22 Hanoi Photography, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Altstadt von Hanoi: Ao-Dai-Verleih und professionelles Fotoshooting",
+  "metaTitle": "Altstadt von Hanoi: Ao-Dai-Verleih und Fotoshooting",
   "metaDescription": "Tour in Hanoi. Enthalten: Ao-Dai-Verleih und Fotoshooting. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "half-day-city-tour-with-veg-lunch-opt-max-22-guests-in-hanoi": {
@@ -27074,7 +27074,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag zum Mondneujahr (250.000 VND pro Person)"
   ],
   "shortDescription": "Halbtägige Tour in Hanoi, inklusive Besuch des Truc-Tempels, Besuch des Landschaftsgebiets Ngu Dong Thi Son und Erkundung der Fünf Höhlen. Durchgeführt von Vietnam Craft Village, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Truc-Tempel und die 5 Höhlen oder Tam Chuc, die größte Pagode der Welt",
+  "metaTitle": "Truc-Tempel und die 5 Höhlen oder die Tam-Chuc-Pagode",
   "metaDescription": "Halbtägige Tour in Hanoi. Enthalten: Besuch des Truc-Tempels. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "safe-indoor-shooting-experience-with-1-on-1-coach-in-hanoi": {
@@ -27952,7 +27952,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ],
   "shortDescription": "Tour in Hanoi, inklusive Willkommensgetränk: traditioneller Kräutertee, Mineralwasser im 20-Liter-Kanister und Snacks und Kekse. Durchgeführt von Su Quan Roastery Tea & Coffee Experience, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hanoi: Banh-Troi-Küchlein zubereiten und frischen Lotustee probieren",
+  "metaTitle": "Hanoi: Banh-Troi-Küchlein und frischer Lotustee",
   "metaDescription": "Tour in Hanoi. Enthalten: Willkommensgetränk: traditioneller Kräutertee. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "private-street-food-walking-tour-w-a-real-foodie-in-hanoi": {
@@ -27978,7 +27978,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ],
   "shortDescription": "3-stündige Tour in Hanoi, mit Altstadt von Hanoi. Durchgeführt von Crossing Vietnam Tour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hanoi: private Streetfood-Tour zu Fuß mit einem echten Feinschmecker",
+  "metaTitle": "Hanoi: private Streetfood-Tour zu Fuß",
   "metaDescription": "3-stündige Tour in Hanoi. Enthalten: Abholung in der Altstadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "3-night-2-day-ha-giang-loop-tour-with-easy-rider-in-hanoi": {
@@ -28757,7 +28757,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ],
   "shortDescription": "3-stündige Tour in Hanoi, inklusive Besuch des Hoa-Lo-Gefängnisses, Besuch des ehemaligen Marktes aus der Subventionszeit und Einheimischer Guide. Durchgeführt von ONETRIP WITH LOCAL TRAVEL CO., LTD, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Geschichten des Vietnamkriegs: Hoa-Lo-Gefängnis und Subventionsviertel",
+  "metaTitle": "Vietnamkrieg: Hoa-Lo-Gefängnis und Subventionsviertel",
   "metaDescription": "3-stündige Tour in Hanoi. Enthalten: Besuch des Hoa-Lo-Gefängnisses. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "hanoi-paragliding-tour-roundtrip-transfer-from-city-by-local-operator": {
@@ -29180,7 +29180,7 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [],
   "shortDescription": "Ganztägige Tour in Hanoi, inklusive Besuch der Duyen-Ninh-Pagode, Die alte Architektur erkunden und Die friedliche Atmosphäre erleben. Durchgeführt von Hands On Tour Vietnam, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hanoi: Tam-Chuc-Pagode, die größte, per Boot, und Duyen-Ninh-Pagode",
+  "metaTitle": "Hanoi: Tam-Chuc-Pagode per Boot und Duyen-Ninh-Pagode",
   "metaDescription": "Ganztägige Tour in Hanoi. Enthalten: Besuch der Duyen-Ninh-Pagode. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "silver-jewelry-making-workshop-in-hanoi": {
@@ -29524,7 +29524,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Upgrade auf ein privates Einzelzimmer"
   ],
   "shortDescription": "2-tägige Tour in Hanoi, mit Bezirk Trung Khanh. Durchgeführt von RED LION TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ab Hanoi: Ban-Gioc-Wasserfall, Höhle und Handwerkerdorf in 2 Tagen",
+  "metaTitle": "Ab Hanoi: Ban-Gioc-Wasserfall und Handwerkerdorf, 2 Tage",
   "metaDescription": "2-tägige Tour in Hanoi. Enthalten: Transport: hochwertiges Reisefahrzeug. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "hanoi-city-motorbike-tour-with-female-riders-and-train-street-by-local-operator": {
@@ -30153,7 +30153,7 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [],
   "shortDescription": "2,5-stündige Tour in Hanoi, inklusive Praktischer Messerschmiede-Workshop, Alle Materialien und Werkzeuge und Direkte Anleitung und Betreuung durch einen Schmiedemeister. Durchgeführt von Hoang Bich Phuong, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hanoi: praktischer Messerschmiede-Workshop mit einem Schmiedemeister",
+  "metaTitle": "Hanoi: Messerschmiede-Workshop mit einem Schmiedemeister",
   "metaDescription": "2,5-stündige Tour in Hanoi. Enthalten: Praktischer Messerschmiede-Workshop. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "trang-an-tam-coc-mua-cave-hoa-lu-day-tour": {
@@ -31417,7 +31417,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Nicht genannte Leistungen"
   ],
   "shortDescription": "Tour in Hoi An, mit Der Affenberg, Halbinsel Son Tra und Da Nang. Durchgeführt von Rose Kitchen Hanoi, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ba Na Hills und Goldene Brücke: Tagesausflug ab Da Nang oder Hoi An, von einem lokalen Anbieter",
+  "metaTitle": "Ba Na Hills und Goldene Brücke: Tagesausflug ab Da Nang",
   "metaDescription": "Tour in Hoi An. Enthalten: Abholung und Rückfahrt am Hotel und Reiseleiter. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "hue-hoi-an-and-da-nang-transfer-with-sightseeing-by-local-operator": {
@@ -31958,7 +31958,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben und zusätzliche Souvenirs"
   ],
   "shortDescription": "Tour in Hoi An, mit Töpferdorf Thanh Ha, Zimmererdorf Kim Bong und Finish at. Durchgeführt von One guy Hoi An travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hoi An: private Tour zu den Zimmerer- und Töpferdörfern, von einem lokalen Anbieter",
+  "metaTitle": "Hoi An: private Tour zu Zimmerer- und Töpferdörfern",
   "metaDescription": "Tour in Hoi An. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "from-hoi-an-or-da-nang-my-son-sanctuary-heritage-discovery-by-local-operator": {
@@ -32305,7 +32305,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Getränk zur Mahlzeit"
   ],
   "shortDescription": "Halbtägige Tour in Hoi An, inklusive Abholung und Rückfahrt am Hotel in Hoi An, Klimatisiertes Fahrzeug und Reiseleiter. Durchgeführt von My Son Tour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hoi An: Heiligtum My Son und Bootsfahrt mit besonderem Mittagessen, Start 5:30 oder 8:00 Uhr (Hoi An)",
+  "metaTitle": "Hoi An: Heiligtum My Son und Bootsfahrt mit Essen",
   "metaDescription": "Halbtägige Tour in Hoi An. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "cham-islands-scuba-diving-experience-with-2-divemaster-opts-hoi-an": {
@@ -32454,7 +32454,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittsgebühren"
   ],
   "shortDescription": "Halbtägige Tour in Hoi An, inklusive Abholung und Rückfahrt zum Hotel, Klimatisiertes Fahrzeug und Englischsprachiger Reiseleiter. Durchgeführt von HAIVAN TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hoi An: halber Tag im Töpferdorf Thanh Ha und im Tischlerdorf Kim Bong",
+  "metaTitle": "Hoi An: Töpferdorf Thanh Ha und Tischlerdorf Kim Bong",
   "metaDescription": "Halbtägige Tour in Hoi An. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "vietnamese-calligraphy-workshop-and-tea-ceremony": {
@@ -32678,7 +32678,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Weitere oben nicht genannte Ausgaben"
   ],
   "shortDescription": "0,25-stündige Tour in Hoi An, mit Boot auf dem Hoai-Fluss. Durchgeführt von GJ Travel Viet Nam, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hoi An: abendliche Fahrt auf dem Hoai-Fluss mit Laternen aussetzen",
+  "metaTitle": "Hoi An: abendliche Fahrt auf dem Hoai mit Laternen",
   "metaDescription": "0,25-stündige Tour in Hoi An. Enthalten: 15-minütige Bootsfahrt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "lantern-making-workshop-in-hoi-an-old-town": {
@@ -32864,7 +32864,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld ist freiwillig, aber willkommen"
   ],
   "shortDescription": "Ganztägige Tour in Hoi An, mit Altstadt von Hoi An. Durchgeführt von HOANG THIEN COMPANY, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ab dem Hafen Chan May: die Highlights von Da Nang und Hoi An an einem Tag",
+  "metaTitle": "Ab Hafen Chan May: Da Nang und Hoi An an einem Tag",
   "metaDescription": "Ganztägige Tour in Hoi An. Enthalten: Abholung und Rückfahrt am Hafen Chan May. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "hoi-an-become-a-farmer-herbal-tea-and-foot-soak": {
@@ -33182,7 +33182,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Hin- und Rückfahrt zum Veranstaltungsort"
   ],
   "shortDescription": "1-stündige Tour in Hoi An, inklusive Einführung in die vietnamesische Teekultur mit Einblicken in, Live-Vorführung der Lotustee-Zubereitung, die die eleganten und und Verkostung und Aromatisierung von Lotustee. Durchgeführt von CÔNG TY CỔ PHẦN SẢN XUẤT THƯƠNG MẠI DỊCH VỤ TRÀ VIỆT, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Vietnamesischer Tee und königlicher Lotustee: ein kulturelles Erlebnis",
+  "metaTitle": "Vietnamesischer Tee und königlicher Lotustee",
   "metaDescription": "1-stündige Tour in Hoi An. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "walking-local-food-tour-in-hoi-an": {
@@ -33267,7 +33267,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ],
   "shortDescription": "Tour in Hoi An, mit Hoi An, On foot und Thu-Bon-Fluss. Durchgeführt von orange tour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hoi An: Kaffee-Workshop und Laternen-Bootsfahrt, Abholung in Da Nang, von einem lokalen Anbieter",
+  "metaTitle": "Hoi An: Kaffee-Workshop und Laternen-Bootsfahrt",
   "metaDescription": "Tour in Hoi An. Enthalten: Workshop zur Zubereitung von vietnamesischem Kaffee. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "cham-islands-with-2-snorkeling-options": {
@@ -33331,7 +33331,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Kinderzuschlag ab einer Größe von 1,39 m (Abrechnung zum Erwachsenentarif)"
   ],
   "shortDescription": "Tour in Hoi An, mit Goldene Brücke in Ba Na Hills. Durchgeführt von Viet Nam Daily Tours, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ba Na Hills und Goldene Brücke: Tagestour ab Da Nang oder Hoi An, von einem lokalen Anbieter",
+  "metaTitle": "Ba Na Hills und Goldene Brücke: Tagestour ab Da Nang",
   "metaDescription": "Tour in Hoi An. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "hoi-an-night-escape-lanterns-culture-and-river-boat-by-local-operator": {
@@ -33806,7 +33806,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld"
   ],
   "shortDescription": "3-stündige Tour in Hoi An, inklusive Abholung und Rückfahrt im modernen Privatwagen, Direkte Anleitung durch einheimische Bronzehandwerker und englischsprachiger Gastgeber, zugleich Ihr Fahrer. Durchgeführt von Funtastic Basket Boat Tours and Cooking Class, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hoi An: Workshop für Bronzeringe und -armbänder bei einem Kunsthandwerker, von einem lokalen Anbieter",
+  "metaTitle": "Hoi An: Workshop für Bronzeringe und -armbänder",
   "metaDescription": "3-stündige Tour in Hoi An. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "hoai-river-night-boat-trip-and-floating-lantern-in-hoi-an": {
@@ -34258,7 +34258,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder (optional)"
   ],
   "shortDescription": "1-stündige Tour in Hoi An, inklusive Barista bzw. Kursleiter, Praktischer Kaffee-Workshop und Alle nötigen Kaffee-Utensilien und Zutaten. Durchgeführt von GJ Travel Viet Nam, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Workshop zur vietnamesischen Kaffeezubereitung in einer lokalen Rösterei",
+  "metaTitle": "Vietnamesischer Kaffee: Workshop in einer Rösterei",
   "metaDescription": "1-stündige Tour in Hoi An. Enthalten: Barista bzw. Kursleiter. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "hoi-an-incense-making-workshop-experience": {
@@ -34631,7 +34631,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ],
   "shortDescription": "Halbtägige Tour in Hoi An, inklusive Fahrrad und Helm, Guide und Fahrt im Korbboot. Durchgeführt von Momo Travel Limited Company, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hoi An: Radtour aufs Land, Markt, Korbboot und Kochen auf dem Biohof",
+  "metaTitle": "Hoi An: Radtour, Markt, Korbboot und Biohof",
   "metaDescription": "Halbtägige Tour in Hoi An. Enthalten: Fahrrad und Helm und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "private-lantern-boat-with-lantern-release-in-hoi-an": {
@@ -35139,7 +35139,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Weitere oben nicht genannte Ausgaben"
   ],
   "shortDescription": "0,3333333333333333-stündige Tour in Hoi An, inklusive 15-minütige Bootsfahrt und 1 Schwimmlaterne pro Person. Durchgeführt von Anna Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hoi An: abendliche Bootsfahrt und Schwimmlaterne auf dem Hoai-Fluss",
+  "metaTitle": "Hoi An: abendliche Bootsfahrt und Schwimmlaterne",
   "metaDescription": "0,3333333333333333-stündige Tour in Hoi An. Enthalten: 15-minütige Bootsfahrt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "hoi-an-coconut-boat-lantern-making-and-cooking-class-organic-by-local-operator": {
@@ -35192,7 +35192,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Weitere oben nicht genannte Ausgaben"
   ],
   "shortDescription": "0,25-stündige Tour in Hoi An, mit On foot und Thu-Bon-Fluss. Durchgeführt von HOANG THIEN COMPANY, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hoi An: Nachtboot und schwimmende Papierlaterne auf dem Hoai-Fluss",
+  "metaTitle": "Hoi An: Nachtboot und Papierlaterne auf dem Hoai",
   "metaDescription": "0,25-stündige Tour in Hoi An. Enthalten: 15-minütige Bootsfahrt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "coconut-forest-marble-mountains-and-boat-tour": {
@@ -35268,7 +35268,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Nicht genannte persönliche Ausgaben"
   ],
   "shortDescription": "3-stündige Tour in Hoi An, inklusive Alle Zutaten, Eine traditionelle Mahlzeit und Abholung und Rückfahrt am Hotel im Raum Hoi An. Durchgeführt von Da Nang Happy Tour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hoi An: authentischer Kochkurs mit einem Profikoch in kleiner Gruppe",
+  "metaTitle": "Hoi An: Kochkurs mit einem Profikoch in kleiner Gruppe",
   "metaDescription": "3-stündige Tour in Hoi An. Enthalten: Alle Zutaten. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "hoi-an-impression-show-hoi-an-history-by-local-operator": {
@@ -35396,7 +35396,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ],
   "shortDescription": "3-stündige Tour in Hoi An, mit Reisfeldbereich, Đế-Võng-Brücke und Gemüsedorf Tra Que. Durchgeführt von SUNRISE TOUR Hoi An, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hoi An: 3-stündige Radtour über Land, unterhaltsam und sicher, von einem lokalen Anbieter",
+  "metaTitle": "Hoi An: 3-stündige Radtour über Land",
   "metaDescription": "3-stündige Tour in Hoi An. Enthalten: Englischsprachiger Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "hue-hoian-danang-easy-riders-motobike-trip-via-hai-van-pass-hoi-an": {
@@ -35426,7 +35426,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ],
   "shortDescription": "Ganztägige Tour in Hoi An, mit Drachenbrücke, Da Nang, Halbinsel Son Tra und Hai-Van-Pass. Durchgeführt von Rew Rew Adventures, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hue, Hoi An und Da Nang: Easy-Rider-Motorradtour über den Hai-Van-Pass (Hoi An)",
+  "metaTitle": "Hue, Hoi An und Da Nang: Easy Rider am Hai-Van-Pass",
   "metaDescription": "Ganztägige Tour in Hoi An. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "ba-na-hills-and-golden-bridge-full-day-tour": {
@@ -35912,7 +35912,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder (optional)"
   ],
   "shortDescription": "Halbtägige Tour in Hoi An, mit Finish at. Durchgeführt von Ho Hai Hue Car Rental, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Von Hue nach Hoi An auf der Panoramastrecke, von einem lokalen Anbieter",
+  "metaTitle": "Von Hue nach Hoi An auf der Panoramastrecke",
   "metaDescription": "Halbtägige Tour in Hoi An. Enthalten: Klimatisierter Transport. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "impression-theme-park-and-memories-show-tickets-in-hoi-an": {
@@ -35931,7 +35931,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ],
   "shortDescription": "1-stündige Tour in Hoi An, inklusive Eintrittskarten für die Hoi An Memories Show und den Hoi An Impression. Durchgeführt von Thao Nguyen Travel Company, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hoi An: Tickets für den Impression-Themenpark und die Memories Show",
+  "metaTitle": "Hoi An: Tickets für Impression-Park und Memories Show",
   "metaDescription": "1-stündige Tour in Hoi An. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "street-food-tour-with-a-local-guide-in-hoi-an": {
@@ -36078,7 +36078,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittskarte für das Heiligtum My Son, etwa 6 USD bzw. 150.000 VND pro Person"
   ],
   "shortDescription": "Halbtägige Tour in Hoi An, mit Finish at. Durchgeführt von My Son Tour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Heiligtum My Son mit Optionen für den Kokospalmen-Dschungel, ab Hoi An oder Da Nang (Hoi An)",
+  "metaTitle": "Heiligtum My Son mit Kokospalmen-Dschungel, ab Hoi An",
   "metaDescription": "Halbtägige Tour in Hoi An. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "bach-ma-national-park-trekking-and-discovery-tour-from-hue-hoi-an": {
@@ -36726,7 +36726,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Speisen und Getränke"
   ],
   "shortDescription": "0,25-stündige Tour in Hoi An, mit Hoi An. Durchgeführt von Hoi An Lantern Boat Tours, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hoi An: private Laternen-Bootsfahrt und Aussetzen einer Schwimmlaterne",
+  "metaTitle": "Hoi An: private Laternen-Bootsfahrt mit Schwimmlaterne",
   "metaDescription": "0,25-stündige Tour in Hoi An. Enthalten: Laternen-Bootsfahrt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "hoi-an-biking-river-islands-village-crafts-private-tour-by-local-operator": {
@@ -37206,7 +37206,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Abholung und Rückfahrt in Da Nang oder Hue"
   ],
   "shortDescription": "Tour in Hoi An, mit Hoi An, Cẩm Kim und V942+Qh5. Durchgeführt von Local Buddy Tours Vietnam, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hoi An: private Tour zu den Dörfern auf dem Land und den Flussinseln, von einem lokalen Anbieter",
+  "metaTitle": "Hoi An: private Tour zu Dörfern und Flussinseln",
   "metaDescription": "Tour in Hoi An. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "from-hoian-and-danang-hue-city-tour-with-haivan-pass-hoi-an": {
@@ -37537,7 +37537,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Aufpreis von 100.000 VND pro Person an Feiertagen (31. Dezember-1. Januar, 29.-30. April, 1.-2. Mai, 24.-25. Dezember und Mondneujahr)"
   ],
   "shortDescription": "Ganztägige Tour in Hoi An, mit Sun World Ba Na Hills, Goldene Brücke in Ba Na Hills und Fantasy Park. Durchgeführt von Happy Holiday Travel - Viet Nam, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ab Da Nang oder Hoi An: Ba Na Hills und Goldene Brücke, von einem lokalen Anbieter",
+  "metaTitle": "Ab Da Nang oder Hoi An: Ba Na Hills und Goldene Brücke",
   "metaDescription": "Ganztägige Tour in Hoi An. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "easy-rider-motorbike-tour-via-hai-van-pass-hoi-an-da-nang-hue-by-local-operator": {
@@ -37566,7 +37566,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Besondere Gepäckanfrage (Gepäcktransport per Bus, 3 USD pro Gepäckstück)"
   ],
   "shortDescription": "Ganztägige Tour in Hoi An, inklusive Alle Eintrittskarten und Parkgebühren, Englischsprachiger Easy Rider und Ein Motorrad. Durchgeführt von Easy Rider Tour via Hai Van Pass from Hue - Da Nang - Hoi An (1Way/RoundTrip), direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Easy-Rider-Motorradtour über den Hai-Van-Pass: Hoi An, Da Nang und Hue, von einem lokalen Anbieter",
+  "metaTitle": "Easy Rider am Hai-Van-Pass: Hoi An, Da Nang und Hue",
   "metaDescription": "Ganztägige Tour in Hoi An. Enthalten: Alle Eintrittskarten und Parkgebühren. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "hoi-an-evening-ancient-town-lantern-boat-and-memories-show-by-local-operator": {
@@ -37664,7 +37664,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder für Guide und Fahrer"
   ],
   "shortDescription": "3-stündige Tour in Hoi An, mit Markt von Hoi An, Fujian-Versammlungshalle und Altes Haus Tan Ky. Durchgeführt von Golden Bridge Trip, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hoi An: Stadtrundgang, Bootsfahrt und Blumenlaternen auf dem Fluss, von einem lokalen Anbieter",
+  "metaTitle": "Hoi An: Stadtrundgang, Bootsfahrt und Blumenlaternen",
   "metaDescription": "3-stündige Tour in Hoi An. Enthalten: Klimatisiertes Fahrzeug. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "vinwonders-nam-hoi-an-safari-and-water-park": {
@@ -37845,7 +37845,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Weitere oben nicht genannte Ausgaben"
   ],
   "shortDescription": "0,25-stündige Tour in Hoi An, mit On foot und Thu-Bon-Fluss. Durchgeführt von Vietnam Orange Tour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Nächtliche Bootsfahrt auf dem Hoai und schwimmende Laternen in Hoi An",
+  "metaTitle": "Hoi An: der Hoai bei Nacht und schwimmende Laternen",
   "metaDescription": "0,25-stündige Tour in Hoi An. Enthalten: Fahrt im traditionellen Holzboot. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "hanoi-afternoon-escape-trang-an-bac-pagoda-and-lantern-boat-hoi-an": {
@@ -38189,7 +38189,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Speisen und Getränke sind nicht enthalten (wenn Sie zum Fotografieren in Cafés gehen)."
   ],
   "shortDescription": "1-stündige Tour in Hoi An, inklusive Alle nötigen Informationen für eine, Unterstützung beim Kauf oder der Miete von Kostümen und Foto und Hilfe beim Posieren während des Shootings. Die Standard. Durchgeführt von Da Nang, Hoi An Photographer and Videographer, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Vietnam: Fotoshooting in Hoi An mit einem einheimischen Fotografen, von einem lokalen Anbieter",
+  "metaTitle": "Hoi An: Fotoshooting mit einem einheimischen Fotografen",
   "metaDescription": "1-stündige Tour in Hoi An. Enthalten: Alle nötigen Informationen für eine. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "hoi-an-basket-boat-and-coconut-forest-experience-from-da-nang-by-local-operator": {
@@ -38889,7 +38889,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder (optional)"
   ],
   "shortDescription": "Halbtägige Tour in Ha Long, mit Heiligtum My Son, Bezirk Duy Xuyen und Flussboot. Durchgeführt von Viet Nam Daily Tours, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "My Son vormittags oder nachmittags ab Hoi An, mit Panoramabootsfahrt",
+  "metaTitle": "My Son ab Hoi An, mit Panoramabootsfahrt",
   "metaDescription": "Halbtägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "sunset-bbq-fishing-tour-with-locals-by-boat-cruise-in-ha-long": {
@@ -39357,7 +39357,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag von 30 % an Feiertagen"
   ],
   "shortDescription": "3-stündige Tour in Ha Long, inklusive Abendbuffet oder Abendmenü, Saigon bei Nacht genießen und Eintrittsgebühren. Durchgeführt von Izitour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Dinnerkreuzfahrt auf dem Saigon-Fluss mit Blick auf die Stadt bei Nacht",
+  "metaTitle": "Dinnerkreuzfahrt auf dem Saigon-Fluss bei Nacht",
   "metaDescription": "3-stündige Tour in Ha Long. Enthalten: Abendbuffet oder Abendmenü. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "icon-saigon-luxury-dinner-cruise": {
@@ -39408,7 +39408,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Wichtig: Bitte prüfen Sie die Verfügbarkeit vor der Buchung mit uns über WhatsApp oder telefonisch unter +84 888 348 800 (Tourinformationen), um Ihre Buchung abzusichern"
   ],
   "shortDescription": "Tour in Ha Long, inklusive Abholung und Rückfahrt zu Ihrem Hotel, Englischsprachiger Reiseleiter und Eintrittsgebühren. Durchgeführt von GUU TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ho-Chi-Minh-Stadt bei Nacht: Dinnerkreuzfahrt auf dem Saigon-Fluss",
+  "metaTitle": "Saigon bei Nacht: Dinnerkreuzfahrt auf dem Fluss",
   "metaDescription": "Tour in Ha Long. Enthalten: Abholung und Rückfahrt zu Ihrem Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "landmark-81-skyview-and-dinner-cruise-in-ha-long": {
@@ -40064,7 +40064,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Feiertagszuschlag (Mondneujahr, Weihnachten, Neujahr usw.)"
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Guide, Eintritts- und Besichtigungsgebühren und Luxuskreuzfahrt durch die Bai-Tu-Long-Bucht. Durchgeführt von Anh Tourist Hanoi Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ruhe in der Bai-Tu-Long-Bucht: 2 Tage/1 Nacht auf einer Luxuskreuzfahrt",
+  "metaTitle": "Ruhe in der Bai-Tu-Long-Bucht: 2 Tage/1 Nacht",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "2-day-jeep-city-tour-and-ha-long-bay-luxury-cruise": {
@@ -40364,7 +40364,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Getränke, Mehrwertsteuer, Trinkgelder, Einzelzimmerzuschlag von 109 $ pro Person für Alleinreisende, Neujahrszuschlag von 45 $ pro Person, weitere Mahlzeiten, persönliche Ausgaben und alle Leistungen, die nicht im Programm genannt sind"
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Bustransfer ab Hanoi, Deluxe-Zimmer und gebuchte Leistungen und Bootsfahrt in der Ha-Long-Bucht. Durchgeführt von Tam Coc Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha-Long-Bucht 2 Tage/1 Nacht an Bord der Arcady, einem Boutique-Schiff",
+  "metaTitle": "Ha-Long-Bucht: 2 Tage/1 Nacht auf der Arcady",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Bustransfer ab Hanoi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "halong-bay-2-day-cruise-with-arcady-boutique-cruise": {
@@ -40891,7 +40891,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder und sonstige persönliche Ausgaben"
   ],
   "shortDescription": "3-tägige Tour in Ha Long, mit Treffpunkt am Kreuzfahrthafen, Mittagessen und Kajakfahren und Schwimmen. Durchgeführt von Venezia Cruises, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Lan Ha und Cat Ba: 3-tägige Kreuzfahrt mit 2 Nächten an Bord der Venezia",
+  "metaTitle": "Lan Ha und Cat Ba: 3 Tage an Bord der Venezia",
   "metaDescription": "3-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "lan-ha-bay-full-day-boat-tour": {
@@ -41285,7 +41285,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Feiertagszuschlag in Vietnam"
   ],
   "shortDescription": "Tour in Ha Long, inklusive Transfers im bequemen, klimatisierten Fahrzeug, Abholung und Rückfahrt zum Hotel in der Altstadt von Hanoi und Reiseleiter. Durchgeführt von Dang Khoa, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha-Long-Bucht: Kreuzfahrt, Kajak und Tee-Party zum Sonnenuntergang",
+  "metaTitle": "Ha-Long-Bucht: Kreuzfahrt, Kajak und Tee am Abend",
   "metaDescription": "Tour in Ha Long. Enthalten: Transfers im bequemen, klimatisierten Fahrzeug. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "ha-long-bay-1-or-2-day-5-star-cruise": {
@@ -41416,7 +41416,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag von 30 USD für das Galadinner am 24.12. und 31.12."
   ],
   "shortDescription": "Tour in Ha Long, inklusive Hin- und Rücktransport von und nach Hanoi oder Ninh Binh mit, Eintrittsgebühren und Guide. Durchgeführt von Erina Cruise 5 Star, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Lan-Ha-Bucht: Erina-5-Sterne-Kreuzfahrt über 2 oder 3 Tage mit Kajak, Schwimmen und Kochkurs",
+  "metaTitle": "Lan-Ha-Bucht: Erina, 5-Sterne-Kreuzfahrt, 2 oder 3 Tage",
   "metaDescription": "Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "2-days-ha-long-bay-5-star-cruise": {
@@ -41675,7 +41675,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Shuttlebus hin und zurück, Reiseleiter und Eintritts- und Besichtigungsgebühren. Durchgeführt von La Pandora cruises - THD Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha-Long-Bucht in 2 Tagen an Bord der La Pandora, einem Boutique-Schiff",
+  "metaTitle": "Ha-Long-Bucht in 2 Tagen an Bord der La Pandora",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Shuttlebus hin und zurück und Reiseleiter. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "halong-and-lan-ha-2-day-1-night-celina-of-the-sea-6-star-luxury-cruise": {
@@ -41710,7 +41710,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Schnelles WLAN an Bord über Starlink, Übernachtung in einer geräumigen Luxussuite und Vollpension mit zwei getrennten. Durchgeführt von Celina Cruise Joint Stock Company, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha Long und Lan Ha: 2 Tage und 1 Nacht auf der 6-Sterne-Luxuskreuzfahrt Celina of the Sea",
+  "metaTitle": "Ha Long und Lan Ha: 2 Tage auf der Celina of the Sea",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Schnelles WLAN an Bord über Starlink. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "lan-ha-bay-cruise-with-private-balcony-biking-kayak-meals-ha-long": {
@@ -41994,7 +41994,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Tips."
   ],
   "shortDescription": "2-tägige Tour in Ha Long, mit Cat Ba Island- Lunch- Kayaking- Swimming, Enjoying Lunch And Kayaking Excursion und Sonnenuntergangsparty und Happy Hour. Durchgeführt von Cat Ba Eco Tours, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Lan-Ha-Bucht auf einem gemütlichen Schiff: Radfahren, Kajak, kleine Gruppe und Verpflegung",
+  "metaTitle": "Lan-Ha-Bucht: gemütliches Schiff, Rad, Kajak, Verpflegung",
   "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "la-regina-4-star-cruise-bai-tu-long-bay-in-ha-long": {
@@ -42053,7 +42053,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Feiertagszuschlag von 700.000 VND pro Person, direkt beim Guide zu zahlen (30. April, 1. Mai, 1., 2. und 3. September, 24. und 31. Dezember, 1. Januar, Mondneujahr)"
   ],
   "shortDescription": "Tour in Ha Long, inklusive Abholung und Rückfahrt zum Hotel, Guide an Bord und Übernachtung an Bord in einer Privatkabine mit eigenem Bad. Durchgeführt von CÔNG TY TNHH NINH BINH GETAWAY, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha-Long-Bucht: 2 Tage mit Übernachtung auf einer 5-Sterne- oder Premium-Kreuzfahrt",
+  "metaTitle": "Ha-Long-Bucht: 2 Tage mit Nacht auf 5-Sterne-Kreuzfahrt",
   "metaDescription": "Tour in Ha Long. Enthalten: Abholung und Rückfahrt zum Hotel und Guide an Bord. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "3-days-luxury-5-star-halong-bay-cruise-cat-ba-island": {
@@ -42499,7 +42499,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Getränke"
   ],
   "shortDescription": "Halbtägige Tour in Ha Long, mit Hai Duong, Ha Long und Ha-Long-Bucht. Durchgeführt von Dragon King Viet Nam, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha-Long-Bucht an einem Tag: 5-Sterne-Kreuzfahrt mit allen Aktivitäten",
+  "metaTitle": "Ha-Long-Bucht an einem Tag: 5-Sterne-Kreuzfahrt",
   "metaDescription": "Halbtägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "halong-bay-1-day-trip-by-luxury-arcady-premium-cruise-ha-long": {
@@ -42818,7 +42818,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag für Einzelzimmer oder Zusatzbett für Alleinreisende"
   ],
   "shortDescription": "Tour in Ha Long, inklusive Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel in, Englischsprachiger Reiseleiter an Bord und Alle Eintrittskarten. Durchgeführt von VN BIKE TOUR COMPANY LIMTIED, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha Long 2 Tage/1 Nacht oder 3 Tage/2 Nächte auf 5-Sterne-Kreuzfahrt mit Balkon und Badewanne",
+  "metaTitle": "Ha Long: 2 oder 3 Tage, 5-Sterne-Kreuzfahrt mit Balkon",
   "metaDescription": "Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "halong-bay-cat-ba-island-3-day-2-night-cave-view-point-trekking": {
@@ -42856,7 +42856,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "4. Kostenlos ist nur ein Kind unter 4 Jahren, das das Zimmer mit zwei Erwachsenen teilt."
   ],
   "shortDescription": "3-tägige Tour in Ha Long, mit Mittagessen, Besuch der Sung-Sot-Höhle und Besuch der Ti-Top-Insel. Durchgeführt von Sunlight Travel & Cruise, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha-Long-Bucht und Insel Cat Ba: 3 Tage und 2 Nächte mit Höhlen, Aussichtspunkten und Wandern",
+  "metaTitle": "Ha Long und Cat Ba: 3 Tage mit Höhlen und Wanderungen",
   "metaDescription": "3-tägige Tour in Ha Long. Enthalten: 1. Hanoi und 2. Eintrittsgebühren. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "half-day-cruise-with-lunch-kayaking-and-swimming-in-ha-long": {
@@ -42981,7 +42981,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder für Guide und Fahrer"
   ],
   "shortDescription": "6-tägige Tour in Ha Long, inklusive Klimatisierter Bus und Limousinenbus laut unserem Programm, Reiseleiter und Bootsfahrt auf dem Nho-Que-Fluss und in der Ha-Long-Bucht. Durchgeführt von Tam Coc Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "6 Tage/5 Nächte: Ninh Binh, Ha-Giang-Loop und Ha-Long-Bucht an Bord der Arcady",
+  "metaTitle": "6 Tage: Ninh Binh, Ha Giang und Ha Long auf der Arcady",
   "metaDescription": "6-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "ha-long-bay-day-cruise-from-hanoi-kayaking-swimming-lunch-by-local-operator": {
@@ -43539,7 +43539,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Reiseversicherung"
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Bequemer Transfer von Hanoi nach Cat Ba, Trekking durch den Nationalpark Cat Ba und Kajakfahren durch die Helle Höhle. Durchgeführt von CÔNG TY TNHH VIỆT NAM TRAVEL TOURISM, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ab Hanoi, 2 Tage/1 Nacht: Trekking auf Cat Ba und Abenteuer in der Lan-Ha-Bucht",
+  "metaTitle": "Ab Hanoi, 2 Tage: Trekking auf Cat Ba und Lan-Ha-Bucht",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Bequemer Transfer von Hanoi nach Cat Ba. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "lan-ha-bay-cruise-2-or-3-day-6-luxury-cruise": {
@@ -43663,7 +43663,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Kinder teilen sich das Bett mit den Eltern"
   ],
   "shortDescription": "Tour in Ha Long, inklusive Hin- und Rücktransport von und nach Hanoi oder Ninh Binh mit, Eintrittsgebühren und englischsprachiger Reiseleiter und Kostenloses Upgrade nach Verfügbarkeit. Durchgeführt von Doris Cruise 5 Star, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Lan-Ha-Bucht: Doris-Grand-5-Sterne-Kreuzfahrt über 2 oder 3 Tage mit Wandern, Radfahren und Kajak",
+  "metaTitle": "Lan-Ha-Bucht: Doris Grand, 5 Sterne, 2 oder 3 Tage",
   "metaDescription": "Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "luxury-2-day-1-night-cruise-l-ha-long-and-lan-ha-bay-with-fine-dining": {
@@ -43803,7 +43803,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder und persönliche Ausgaben, die nicht in den Leistungen stehen"
   ],
   "shortDescription": "2-tägige Tour in Ha Long, mit Ha-Long-Bucht, Luon Cave, Ha-Long-Bucht und Ti-Top-Insel. Durchgeführt von Arcady Group Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha-Long-Bucht 2 Tage/1 Nacht auf 5-Sterne-Kreuzfahrt, Rückfahrt nach Ninh Binh",
+  "metaTitle": "Ha Long 2 Tage, 5 Sterne, Rückfahrt nach Ninh Binh",
   "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "halong-bay-2-day-1-night-or-3-day-2-night-cruise-with-6-star-yacht": {
@@ -43898,7 +43898,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Punkte, die nicht unter „Inklusive“ stehen"
   ],
   "shortDescription": "Tour in Ha Long, inklusive Willkommensgetränk, Alle Eintritts- und Besichtigungsgebühren und 1 Mittagsbuffet. Durchgeführt von La Passion, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Symphony Cruise: 5-Sterne-Kreuzfahrt bei Tag und Nacht in der Ha-Long-Bucht",
+  "metaTitle": "Symphony Cruise: 5 Sterne, bei Tag und Nacht in Ha Long",
   "metaDescription": "Tour in Ha Long. Enthalten: Willkommensgetränk. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "hanoi-private-2-day-bhaya-classic-cruise-to-ha-long-bay-by-local-operator": {
@@ -43927,7 +43927,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Getränke"
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Abholung und Rückfahrt zum Hotel, Transfer in der Luxuslimousine über die Schnellstraße und Unterkunft an Bord der Bhaya Classic. Durchgeführt von Southern Breeze Joint stock company, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ab Hanoi privat: 2 Tage in der Ha-Long-Bucht an Bord der Bhaya Classic",
+  "metaTitle": "Ha-Long-Bucht privat: 2 Tage an Bord der Bhaya Classic",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "heritage-cruise-2-day-l-ha-long-bay-and-lan-ha-bay-unesco-tour-by-local-operator": {
@@ -44077,7 +44077,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag für Einzelzimmer oder Zusatzbetten"
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Kostenlose Abholung und Rückfahrt zum Hotel in Ha Long, Hanoi und Ninh Binh, Transport im geteilten klimatisierten Fahrzeug und Einheimischer Guide. Durchgeführt von Global Explore, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Luxusauszeit in Ha Long: 2 Tage/1 Nacht oder 3 Tage/2 Nächte auf einer 6-Sterne-Yacht",
+  "metaTitle": "Ha Long: 2 oder 3 Tage auf einer 6-Sterne-Yacht",
   "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "bai-tu-long-bay-cruise-with-vung-vieng-fishing-village-in-ha-long": {
@@ -44111,7 +44111,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alle weiteren Leistungen, die nicht ausdrücklich als enthalten genannt sind"
   ],
   "shortDescription": "2-tägige Tour in Ha Long, mit Einschiffung, Mittagessen und Cruise Through Bai Tu Long Bay and Vung Vieng Fishing Village. Durchgeführt von Caroline's Travel Agency, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Kreuzfahrt in der Bai-Tu-Long-Bucht mit dem Fischerdorf Vung Vieng",
+  "metaTitle": "Bai-Tu-Long-Bucht und das Fischerdorf Vung Vieng",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Willkommensgetränk. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "2-day-1-night-ha-long-and-lan-ha-bay-by-le-journey-elegance-cruise": {
@@ -44146,7 +44146,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Wenn Sie in der Gruppe reisen, aber eine Einzelkabine möchten, buchen Sie bitte separat"
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive 1 Abendessen, 1 Frühstück und 2 Mittagessen. Durchgeführt von AN LAM HA LONG TOURISM SERVICES, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha-Long- und Lan-Ha-Bucht: 2 Tage und 1 Nacht auf der Le Journey Elegance",
+  "metaTitle": "Ha Long und Lan Ha: 2 Tage auf der Le Journey Elegance",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: 1 Abendessen und 1 Frühstück. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "ha-long-bay-bay-with-private-car-and-private-luxury-crruise-by-local-operator": {
@@ -44242,7 +44242,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Hinweis: Bitte kontaktieren Sie uns vor der Buchung unter +84 941 692 765, um die Verfügbarkeit des Schiffs zu prüfen"
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Transfer im geteilten Auto mit Abholung und Rückfahrt zu Ihrem Hotel in, Englischsprachiger Reiseleiter an Bord und Alle Eintrittskarten. Durchgeführt von Vietora Journeys, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Lan-Ha-Bucht als Luxuskreuzfahrt: 2 Tage/1 Nacht oder 3 Tage/2 Nächte",
+  "metaTitle": "Lan-Ha-Bucht als Luxuskreuzfahrt: 2 oder 3 Tage",
   "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "1-day-ha-long-bay-luxury-cruise-with-buffet": {
@@ -44486,7 +44486,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alle Leistungen und Artikel, die oben nicht ausdrücklich aufgeführt sind"
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Eintrittsgebühren, Guide und Luxuriöse Unterkunft mit Klimaanlage. Durchgeführt von Doris Cruise 5 Star, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Lan-Ha-Bucht: Doris-5-Sterne-Kreuzfahrt über 2 oder 3 Tage mit Schwimmen, Kajak und Kochkurs",
+  "metaTitle": "Lan-Ha-Bucht: Doris, 5-Sterne-Kreuzfahrt, 2 oder 3 Tage",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Eintrittsgebühren und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "ha-long-bay-premium-day-cruise-with-sunset-by-local-operator": {
@@ -44670,7 +44670,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag an vietnamesischen Feiertagen"
   ],
   "shortDescription": "Tour in Ha Long, mit Ha Long. Durchgeführt von VN BIKE TOUR COMPANY LIMTIED, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha-Long-Bucht: unsere Signature-Auszeit mit Luxuskreuzfahrt an einem Tag",
+  "metaTitle": "Ha-Long-Bucht: Signature-Auszeit an einem Tag",
   "metaDescription": "Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "1-day-halong-bay-cruise-with-big-and-small-groups": {
@@ -45096,7 +45096,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Einzelzimmerzuschlag für Alleinreisende"
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Kostenlose Abholung und Rückfahrt zum Hotel in Ha Long, Hanoi und Ninh Binh, Transport im geteilten klimatisierten Fahrzeug und Einheimischer Guide. Durchgeführt von Vietnam Homies Tour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha-Long-Bucht: 2 Tage/1 Nacht oder 3 Tage/2 Nächte auf einer Luxuskreuzfahrt",
+  "metaTitle": "Ha-Long-Bucht: 2 oder 3 Tage auf einer Luxuskreuzfahrt",
   "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "ha-giang-and-ha-long-3-day-a-mountains-to-sea-journey-by-local-operator": {
@@ -45324,7 +45324,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mehrwertsteuer"
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Transfers von und zur Altstadt von Hanoi, Guide und Eintrittsgebühren und Besichtigungstickets. Durchgeführt von Amazing VietNam tour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "2 Tage ab Hanoi: Landschaften von Ninh Binh und Kreuzfahrt in der Ha-Long-Bucht",
+  "metaTitle": "2 Tage: Ninh Binh und Kreuzfahrt in der Ha-Long-Bucht",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Transfers von und zur Altstadt von Hanoi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "2day-lan-ha-bay-cruise-cat-ba-island": {
@@ -45420,7 +45420,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag für Einzelzimmer oder Zusatzbetten"
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Kostenlose Abholung und Rückfahrt zum Hotel in Ha Long, Hanoi und Ninh Binh, Transport im geteilten klimatisierten Fahrzeug und Einheimischer Guide. Durchgeführt von VN BIKE TOUR COMPANY LIMTIED, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha Long 3 Tage/2 Nächte oder 2 Tage/1 Nacht auf einer Luxuskreuzfahrt mit Badewanne und Balkon",
+  "metaTitle": "Ha Long: 3 oder 2 Tage Luxuskreuzfahrt mit Balkon",
   "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "halong-bay-5-star-cruise-with-cave-visits-and-titop-island-ha-long": {
@@ -45609,7 +45609,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Feiertagszuschlag"
   ],
   "shortDescription": "Halbtägige Tour in Ha Long, inklusive Mittagsbuffet, Kajak- oder Bambusbootfahrt zur Luon-Höhle und Besuch der Sung-Sot-Höhle. Durchgeführt von David’s Vietnam Tours, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha-Long-Bucht als Luxuskreuzfahrt: Buffet, Kajak und Sonnenuntergangsparty",
+  "metaTitle": "Ha-Long-Bucht: Luxuskreuzfahrt mit Buffet und Kajak",
   "metaDescription": "Halbtägige Tour in Ha Long. Enthalten: Mittagsbuffet. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "ha-long-bay-premium-cruise-6-star-day-trip-by-local-operator-2": {
@@ -45640,7 +45640,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Kajakfahren"
   ],
   "shortDescription": "Tour in Ha Long, inklusive Hinweis: Bitte schreiben Sie an +84 888 588 700, um die Verfügbarkeit zu prüfen., Abholung und Rückfahrt zum Hotel ab Hanoi und Willkommensgetränk an Bord der Dolphin Cruise. Durchgeführt von Vn biketour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Halong-Bucht: Tagesausflug mit 6-Sterne-Premium-Kreuzfahrt, von einem lokalen Anbieter",
+  "metaTitle": "Halong-Bucht: Tagesausflug, 6-Sterne-Premium-Kreuzfahrt",
   "metaDescription": "Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "halong-bay-by-overnight-cruise-with-kayak-and-squid-fishing-ha-long": {
@@ -45677,7 +45677,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Feiertagszuschlag (Mondneujahr, Weihnachten, Neujahr usw.)"
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Lounge im Kreuzfahrthafen, Willkommensgetränk und Mahlzeiten an Bord laut Programm (F = Frühstück, M =. Durchgeführt von Anh Tourist Hanoi Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha-Long-Bucht: Kreuzfahrt mit Übernachtung, Kajak und Tintenfischangeln",
+  "metaTitle": "Ha-Long-Bucht: Nachtkreuzfahrt, Kajak und Tintenfischangeln",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Lounge im Kreuzfahrthafen. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "ha-long-bay-and-lan-ha-bay-luxury-cruise-2-days-1-night": {
@@ -45904,7 +45904,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Feiertagszuschläge (Mondneujahr, Weihnachten, Neujahr und andere Feiertage)"
   ],
   "shortDescription": "Ganztägige Tour in Ha Long, inklusive Eintritt zu den Sehenswürdigkeiten: Trung-Trang-Höhle, Nationalpark Cat Ba, Englisch- und vietnamesischsprachiger Guide und Mittagsbuffet an Bord. Durchgeführt von Anh Tourist Hanoi Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Lan-Ha-Bucht und Insel Cat Ba an einem Tag (ab Hanoi oder Tuan Chau)",
+  "metaTitle": "Lan-Ha-Bucht und Insel Cat Ba an einem Tag",
   "metaDescription": "Ganztägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "ha-long-bay-small-deluxe-cruise-day-trip-with-kayak-and-lunch-by-local-operator": {
@@ -46350,7 +46350,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Wenn Sie in der Gruppe reisen, aber eine Einzelkabine möchten, buchen Sie bitte separat"
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive 2 Abendessen, 2 Frühstücke und 3 Mittagessen. Durchgeführt von AN LAM HA LONG TOURISM SERVICES, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha-Long- und Lan-Ha-Bucht: 3 Tage und 2 Nächte auf der Le Journey Luxury Cruise",
+  "metaTitle": "Ha Long und Lan Ha: 3 Tage auf der Le Journey Luxury",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: 2 Abendessen und 2 Frühstücke. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "lan-ha-bay-1-day-biking-kayaking-lunch-and-swimming": {
@@ -46511,7 +46511,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Unterkunft in Cat Ba Town"
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Minibus-Transfer zum Anleger, Kreuzfahrt in der Lan-Ha- und der Ha-Long-Bucht und Kajak- und Schnorchelausrüstung. Durchgeführt von CAT BA VENTURES CO.,LTD, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha-Long-Bucht 2 Tage/1 Nacht: Boot und Kajak abseits der Touristenströme",
+  "metaTitle": "Ha-Long-Bucht 2 Tage: Boot und Kajak abseits der Ströme",
   "metaDescription": "2-tägige Tour in Ha Long. Enthalten: Minibus-Transfer zum Anleger. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "halong-bay-day-cruise-with-caves-kayaking-and-sunset-party-ha-long": {
@@ -46540,7 +46540,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder für Reiseleiter und Fahrer"
   ],
   "shortDescription": "Ganztägige Tour in Ha Long, mit Sung-Sot-Höhle, Ti Top Island and Luon Cave und Ha-Long-Bucht. Durchgeführt von Nest Asia Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha-Long-Bucht: Tageskreuzfahrt mit Höhlen, Kajak und Sonnenuntergangsparty",
+  "metaTitle": "Ha-Long-Bucht: Tageskreuzfahrt mit Höhlen und Kajak",
   "metaDescription": "Ganztägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "bhaya-cruises-2-day-halong-bay-tour-ha-long": {
@@ -46603,7 +46603,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag für Einzelzimmer für Alleinreisende oder Zusatzbetten"
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Transfer im geteilten Auto mit Abholung und Rückfahrt in Hanoi, Ninh, Privatkabine mit Privatbalkon und Badewanne und Guide. Durchgeführt von Vietnam Homies Tour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha-Long-Bucht: 2 Tage/1 Nacht oder 3 Tage/2 Nächte auf einer 6-Sterne-Kreuzfahrt",
+  "metaTitle": "Ha-Long-Bucht: 2 oder 3 Tage, 6-Sterne-Kreuzfahrt",
   "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "lan-ha-bay-2-day-overnight-cruise": {
@@ -46863,7 +46863,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag zu Neujahr, Weihnachten und an Feiertagen"
   ],
   "shortDescription": "3-tägige Tour in Ha Long, inklusive Klimatisierter Bus und Limousinenservice gemäß unserem, Reiseleiter und Elektrowagen für den Besuch der Bai-Dinh-Pagode. Durchgeführt von Tam Coc Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ninh Binh und Ha-Long-Bucht: 4 Tage und 3 Nächte auf der 5-Sterne-Arcady",
+  "metaTitle": "Ninh Binh und Ha Long: 4 Tage auf der 5-Sterne-Arcady",
   "metaDescription": "3-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "3-day-2-night-lan-ha-bay-by-calypso-cruises": {
@@ -47201,7 +47201,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag für Einzelzimmer oder Zusatzbetten"
   ],
   "shortDescription": "2-tägige Tour in Ha Long, inklusive Kostenlose Abholung und Rückfahrt zum Hotel in Ha Long, Hanoi und Ninh Binh, Transport im geteilten klimatisierten Fahrzeug und Einheimischer Guide. Durchgeführt von Atlas Vietnam Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha-Long- und Lan-Ha-Bucht: 2 Tage/1 Nacht oder 3 Tage/2 Nächte auf einer Luxuskreuzfahrt",
+  "metaTitle": "Ha Long und Lan Ha: 2 oder 3 Tage auf einer Luxuskreuzfahrt",
   "metaDescription": "2-tägige Tour in Ha Long. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "ha-long-and-lan-ha-bay-luxury-cruise-caves-kayaking-and-sunset-by-local-operator": {
@@ -47262,7 +47262,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ],
   "shortDescription": "3-stündige Tour in Ha Long, mit Transfer zum schwimmenden Dorf Cai Beo, Monkey Island, Vietnam und Lan-Ha-Bucht. Durchgeführt von Blue Swimmer Outdoors, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Lan-Ha-Bucht: Sonnenuntergang und Kajaktour zum biolumineszenten Plankton",
+  "metaTitle": "Lan-Ha-Bucht: Kajaktour zum leuchtenden Plankton",
   "metaDescription": "3-stündige Tour in Ha Long. Enthalten: Kajaktour in der Lan-Ha-Bucht. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "hoi-an-luxury-sunset-cruise-5-course-spice-menu-and-cocktails-ha-long": {
@@ -48025,7 +48025,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Guide"
   ],
   "shortDescription": "Eintrittskarte in Da Nang, inklusive Seilbahnfahrt hin und zurück, 1 Ticket für Ba Na Hills und Zugang zur Goldenen Brücke. Durchgeführt von HAIVAN TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Eintritt zu den Ba Na Hills mit Seilbahn und optionalem Mittagessen (Da Nang)",
+  "metaTitle": "Ba Na Hills: Eintritt mit Seilbahn (Da Nang)",
   "metaDescription": "Eintrittskarte in Da Nang. Enthalten: Seilbahnfahrt hin und zurück. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "ba-na-hills-and-golden-bridge-day-trip-2": {
@@ -48108,7 +48108,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ],
   "shortDescription": "Ganztägige Tour in Da Nang, inklusive Abholung und Rückfahrt am Hafen Chan May in beide Richtungen, Privatwagen mit Fahrer und Eine Flasche Wasser. Durchgeführt von Hiep Hoi An Travel II, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Vom Hafen Chan May zur Goldenen Brücke und nach Ba Na Hills im Privatwagen",
+  "metaTitle": "Vom Hafen Chan May zur Goldenen Brücke und Ba Na Hills",
   "metaDescription": "Ganztägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "marble-mountains-lady-buddha-and-am-phu-cave": {
@@ -48169,7 +48169,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Besondere Gepäckanfrage (Gepäcktransport per Bus, 3 USD pro Gepäckstück)"
   ],
   "shortDescription": "Ganztägige Tour in Da Nang, inklusive Englischsprachiger Easy-Rider-Fahrer, Motorrad und Abholung und Rückfahrt zum Hotel. Durchgeführt von Easy Rider Tour via Hai Van Pass from Hue - Da Nang - Hoi An (1Way/RoundTrip), direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Easy-Rider-Expedition über den Hai-Van-Pass und die Ho-Chi-Minh-Pfade (Da Nang)",
+  "metaTitle": "Easy Rider: Hai-Van-Pass und Ho-Chi-Minh-Pfade",
   "metaDescription": "Ganztägige Tour in Da Nang. Enthalten: Englischsprachiger Easy-Rider-Fahrer. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "marble-mountain-and-monkey-mountain-halfday-tour": {
@@ -49080,7 +49080,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Nicht geeignet bei schweren Allergien, Halal-Ernährung und Zöliakie, da Spuren und Kreuzkontamination möglich sind."
   ],
   "shortDescription": "Halbtägige Tour in Da Nang, mit Da Nang. Durchgeführt von A Chef's Tour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Da Nang bei Nacht: kulinarische Tour mit über 15 Kostproben von einem lokalen Anbieter",
+  "metaTitle": "Da Nang bei Nacht: kulinarische Tour, über 15 Kostproben",
   "metaDescription": "Halbtägige Tour in Da Nang. Enthalten: Mehr als 15 Kostproben inklusive. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "da-nang-golden-bridge-sunset-and-ba-na-hills-tour": {
@@ -49373,7 +49373,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zusätzliche Softdrinks und kalte Getränke nicht enthalten"
   ],
   "shortDescription": "3-stündige Tour in Da Nang, inklusive Spektakuläre Küstenpanoramen, Erkundung des berühmten Affenbergs und Die Naturschönheit der Halbinsel Son Tra entdecken. Durchgeführt von HO KINH DOANH DI CUNG BAN DIA, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Halbinsel Son Tra: Abenteuer im klassischen US-Army-Jeep in Da Nang",
+  "metaTitle": "Halbinsel Son Tra: Abenteuer im US-Army-Jeep",
   "metaDescription": "3-stündige Tour in Da Nang. Enthalten: Spektakuläre Küstenpanoramen. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "3-day-wildlife-photography-experience-in-son-tra-in-da-nang": {
@@ -49800,7 +49800,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Transport zum Ort"
   ],
   "shortDescription": "0,5-stündige Tour in Da Nang, inklusive Privates Fotoshooting mit einem professionellen einheimischen Fotografen, 20, 50 und 30, 60. Durchgeführt von Picster, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Da Nang, Drachenbrücke und Strand: privates Fotoshooting, von einem lokalen Anbieter",
+  "metaTitle": "Da Nang, Drachenbrücke und Strand: privates Fotoshooting",
   "metaDescription": "0,5-stündige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "gourmet-lunch-and-drinks-at-citron-in-da-nang": {
@@ -49871,7 +49871,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten und Getränke"
   ],
   "shortDescription": "0,3333333333333333-stündige Tour in Da Nang, inklusive Kostenlose Gepäckaufbewahrung, Duschraum und Tee. Durchgeführt von Bee honey Spa, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Da Nang: hochwertige Nagel- und Wimpernbehandlung inklusive Abholung",
+  "metaTitle": "Da Nang: Nagel- und Wimpernbehandlung mit Abholung",
   "metaDescription": "0,3333333333333333-stündige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "private-hai-van-pass-tour-with-food-options-in-da-nang": {
@@ -49905,7 +49905,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zusätzliche Stopps, die nicht im Programm enthalten sind"
   ],
   "shortDescription": "Ganztägige Tour in Da Nang, inklusive Privater Transport mit dem Auto, Abholung und Rückfahrt am Hotel im Zentrum von Da Nang und Fahrer. Durchgeführt von Cong ty TNHH DaNangByCar Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Private Tour über den Hai-Van-Pass mit kulinarischen Optionen in Da Nang",
+  "metaTitle": "Private Tour über den Hai-Van-Pass, kulinarisch",
   "metaDescription": "Ganztägige Tour in Da Nang. Enthalten: Privater Transport mit dem Auto. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "explore-michelin-recommended-street-food-favorites-in-da-nang": {
@@ -50261,7 +50261,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Weitere nicht genannte Ausgaben"
   ],
   "shortDescription": "Tour in Da Nang, inklusive Kochzutaten, Maracujasaft nach Belieben und Mittag- oder Abendessen. Durchgeführt von Da Nang Happy Tour, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Pho und vietnamesische Gerichte mit einem einheimischen Koch zubereiten",
+  "metaTitle": "Pho und vietnamesische Gerichte mit einem Koch kochen",
   "metaDescription": "Tour in Da Nang. Enthalten: Kochzutaten und Maracujasaft nach Belieben. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "ba-na-hills-golden-bridge-and-fantasy-park-adventure": {
@@ -50315,7 +50315,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Markenfassungen (z. B. Ray-Ban, Oakley)"
   ],
   "shortDescription": "1-stündige Tour in Da Nang, inklusive Eine maßgefertigte Brillenfassung, Individueller Sehtest und Vietnamesischer Tee oder Kaffee und traditionelle Snacks. Durchgeführt von Khanh Hung Optical, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Maßgefertigte Korrekturbrillen beim Optiker im Kolonialstil in Da Nang",
+  "metaTitle": "Maßgefertigte Brillen beim Optiker in Da Nang",
   "metaDescription": "1-stündige Tour in Da Nang. Enthalten: Eine maßgefertigte Brillenfassung. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "scenic-countryside-bike-tour-lunch-and-stream-dip-in-da-nang": {
@@ -50788,7 +50788,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Weitere nicht genannte persönliche Ausgaben"
   ],
   "shortDescription": "2,5-stündige Tour in Da Nang, inklusive Chefkoch, Zutaten für den Kochkurs und Maracujasaft nach Belieben. Durchgeführt von Thao Nguyen Travel Company, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Da Nang: traditioneller Kochkurs mit Essen bei einer einheimischen Familie",
+  "metaTitle": "Da Nang: Kochkurs und Essen bei einer Familie",
   "metaDescription": "2,5-stündige Tour in Da Nang. Enthalten: Chefkoch und Zutaten für den Kochkurs. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "am-phu-cave-marble-mountains-and-monkey-mountain-sunset-trip-da-nang": {
@@ -50907,7 +50907,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alle persönlichen Ausgaben"
   ],
   "shortDescription": "Tour in Da Nang, inklusive Abholung und Rückfahrt für Gäste 4 bis 5 km außerhalb des Zentrums, Probieren Sie 5 bis 6 verschiedene Craft-Biere, bevor Sie das und Verkostung von 3 Signature-Gerichten. Durchgeführt von Funtastic Basket Boat Tours and Cooking Class, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "12 Streetfood-Gerichte und 6 Craft-Biere mit dem Roller und einer Fahrerin in Da Nang",
+  "metaTitle": "Da Nang: 12 Streetfood-Gerichte und 6 Biere per Roller",
   "metaDescription": "Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "private-city-tour-by-scooter-with-ao-dai-lady-rider-in-da-nang": {
@@ -50935,7 +50935,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Other personal expenses."
   ],
   "shortDescription": "Halbtägige Tour in Da Nang, inklusive Abholung und Rückfahrt mit dem Roller im Zentrum von Da Nang, Fahrer und Reiseleiter und Motorradhelm. Durchgeführt von Dich vu du lich lang que Cam Thanh, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Private Stadttour mit dem Roller und einer Fahrerin im Ao Dai in Da Nang",
+  "metaTitle": "Da Nang per Roller mit einer Fahrerin im Ao Dai",
   "metaDescription": "Halbtägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "private-half-day-city-highlights-tour-in-da-nang": {
@@ -50991,7 +50991,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Abholung und Rückfahrt zum Hotel"
   ],
   "shortDescription": "Tour in Da Nang, inklusive Ganzkörper- oder Fußmassage mit Öl, Privater Behandlungsraum mit Klimaanlage und entspannender und Willkommensgetränk. Durchgeführt von Nón Spa, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Nón Spa: Massage, Nagelpflege, Haarwäsche, Gesichts- und Hautpflege in Da Nang",
+  "metaTitle": "Nón Spa in Da Nang: Massage, Nagel- und Gesichtspflege",
   "metaDescription": "Tour in Da Nang. Enthalten: Ganzkörper- oder Fußmassage mit Öl. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "rafting-tour-with-lunch-or-dinner-in-da-nang": {
@@ -51150,7 +51150,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Speisen und Getränke (vor Ort erhältlich)"
   ],
   "shortDescription": "Tour in Da Nang, inklusive Kreuzfahrt, Tanzvorführung und Versicherung. Durchgeführt von TAU RONG SONG HAN, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Da Nang: abendliche Bootsfahrt auf dem Han-Fluss mit Show am Wochenende",
+  "metaTitle": "Da Nang: abendliche Fahrt auf dem Han-Fluss mit Show",
   "metaDescription": "Tour in Da Nang. Enthalten: Kreuzfahrt, Tanzvorführung und Versicherung. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "safari-finding-the-most-endangered-monkey-in-the-world-in-da-nang": {
@@ -51173,7 +51173,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ],
   "shortDescription": "3-stündige Tour in Da Nang, inklusive Um die sehr scheuen Affen zu beobachten, Und während der Fahrt und Wir fahren mit dem Motorrad. Durchgeführt von SON TRANG DUNG COMPANY LIMITED, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Da Nang: Safari auf der Suche nach dem bedrohtesten Affen der Welt",
+  "metaTitle": "Da Nang: Safari zum bedrohtesten Affen der Welt",
   "metaDescription": "3-stündige Tour in Da Nang. Enthalten: Um die sehr scheuen Affen zu beobachten. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "dong-giang-heaven-gate-tour-with-lunch-in-da-nang": {
@@ -51338,7 +51338,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Abholung und Rückfahrt zum Hotel"
   ],
   "shortDescription": "Halbtägige Tour in Da Nang, mit Citron. Durchgeführt von Southern Breeze Joint stock company, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Luxuriöser Afternoon Tea im Citron des InterContinental in Da Nang, von einem lokalen Anbieter",
+  "metaTitle": "Da Nang: Afternoon Tea im Citron des InterContinental",
   "metaDescription": "Halbtägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "da-nang-aerobar-paradise-park-entry-ticket-by-local-operator": {
@@ -51489,7 +51489,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Travel Insurance."
   ],
   "shortDescription": "Tour in Hoi An, inklusive Hochwertiges Fahrzeug mit umsichtigem Fahrer, Abholung und Rückfahrt am Hafen Tien Sa oder Chan May und Alle Eintrittsgebühren. Durchgeführt von Hiep Hoi An Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ab dem Hafen Chan May oder Tien Sa: Hoi An und die Highlights von Da Nang",
+  "metaTitle": "Ab Hafen Chan May oder Tien Sa: Hoi An und Da Nang",
   "metaDescription": "Tour in Hoi An. Enthalten: Hochwertiges Fahrzeug mit umsichtigem Fahrer. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "private-photoshoot-and-guided-walk-experience-in-hoi-an": {
@@ -51762,7 +51762,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Weitere nicht genannte Ausgaben"
   ],
   "shortDescription": "2-stündige Tour in Hoi An, inklusive Ihr fertiges Bild zum Mitnehmen, Flasche Wasser und Künstler. Durchgeführt von Hoi An Eco Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hoi An: 2 Stunden Malen mit einem einheimischen Künstler in der Altstadt",
+  "metaTitle": "Hoi An: 2 Stunden Malen mit einheimischem Künstler",
   "metaDescription": "2-stündige Tour in Hoi An. Enthalten: Ihr fertiges Bild zum Mitnehmen. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "my-son-early-morning-with-banh-my-and-coffee-6-am-in-hoi-an": {
@@ -51905,7 +51905,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ],
   "shortDescription": "Tour in Hoi An, mit Heiligtum My Son. Durchgeführt von Hoi An Local Tours Company Limited, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Heiligtum My Son mit Champa-Mittagessen (Start 5:30, 8:00 oder 13:00 Uhr)",
+  "metaTitle": "Heiligtum My Son mit Champa-Mittagessen",
   "metaDescription": "Tour in Hoi An. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "vietnamese-lacquer-painting-workshop-in-hoi-an": {
@@ -52095,7 +52095,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Weitere nicht genannte Ausgaben"
   ],
   "shortDescription": "2-stündige Tour in Hoi An, inklusive Guide, Traditioneller vietnamesischer Tee und Kunstmaterialien und Werkzeuge. Durchgeführt von Hoi An Eco Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hoi An: Kurs für traditionelle vietnamesische Kalligrafie in der Altstadt",
+  "metaTitle": "Hoi An: vietnamesische Kalligrafie in der Altstadt",
   "metaDescription": "2-stündige Tour in Hoi An. Enthalten: Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "evening-food-tour-with-7-tastings-and-boat-trip-in-hoi-an": {
@@ -52267,7 +52267,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Person expense."
   ],
   "shortDescription": "1-stündige Tour in Hoi An, inklusive Keramikkurs, Kurs zur Kaffeezubereitung und Reiten auf Wasserbüffeln. Durchgeführt von Funtastic Basket Boat Tours and Cooking Class, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Büffelreiten, Keramik, Kaffee, Laternenkurs, Korbboot und Mittagessen in Hoi An",
+  "metaTitle": "Hoi An: Büffelreiten, Keramik, Laternenkurs und Korbboot",
   "metaDescription": "1-stündige Tour in Hoi An. Enthalten: Keramikkurs. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "traditional-cooking-class-and-meal-with-local-family-in-hoi-an": {
@@ -52292,7 +52292,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ],
   "shortDescription": "Tour in Hoi An, inklusive Koch, Willkommenstee und Alle Zutaten für den Kochkurs. Durchgeführt von Hoi An Eco Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Hoi An: traditioneller Kochkurs und Essen bei einer einheimischen Familie",
+  "metaTitle": "Hoi An: Kochkurs und Essen bei einer Familie",
   "metaDescription": "Tour in Hoi An. Enthalten: Koch und Willkommenstee. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "my-son-sanctuary-early-morning-sunset-w-champa-food-in-hoi-an": {
@@ -53169,7 +53169,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Einzelzimmerzuschlag von 25 $ für Alleinreisende"
   ],
   "shortDescription": "2-tägige Tour in Hanoi, inklusive Abholung und Rückfahrt ab der Altstadt von Hanoi, Reiseleiter und Transfer mit modernem Bus oder Van. Durchgeführt von DGB - INDOCHINATODAYTRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ban-Gioc-Wasserfall in 2 Tagen: Höhle, Berge und Mahlzeiten inklusive",
+  "metaTitle": "Ban-Gioc-Wasserfall in 2 Tagen: Höhle und Berge",
   "metaDescription": "2-tägige Tour in Hanoi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "4-day-ha-giang-loop-w-safe-rider-max-8-pax-2-2": {
@@ -53458,7 +53458,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Sonstige persönliche Ausgaben …"
   ],
   "shortDescription": "Ganztägige Tour in Hanoi, mit Insel Cat Ba, Ba Trai Dao beach, Lan-Ha-Bucht und Lan-Ha-Bucht. Durchgeführt von Tinny Travel Co.Ltd, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Lan-Ha-Bucht: Tageskreuzfahrt mit der Hellen und der Dunklen Höhle",
+  "metaTitle": "Lan-Ha-Bucht: Tagesfahrt zur Hellen und Dunklen Höhle",
   "metaDescription": "Ganztägige Tour in Hanoi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "incense-village-hat-and-fish-trap-soy-sauce-tour-in-hanoi": {
@@ -53782,7 +53782,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ],
   "shortDescription": "Eintrittskarte in Da Nang, inklusive Empfang am internationalen Ankunftsterminal vor, Begleitung durch die Standard- oder VIP-Fast-Track-Spur und Unterstützung bei den Einreise- und Zollformalitäten. Durchgeführt von Up Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Fast Track an Vietnams Flughäfen: ohne Warteschlange bei der Ankunft in Da Nang",
+  "metaTitle": "Fast Track am Flughafen Da Nang, bei der Ankunft",
   "metaDescription": "Eintrittskarte in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "golden-bridge-bana-hills-lady-buddha-and-marble-mountains-in-da-nang": {
@@ -53814,7 +53814,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag für Abholung weit außerhalb des Zentrums"
   ],
   "shortDescription": "Ganztägige Tour in Da Nang, mit Ba Na Hills, Goldene Brücke in Ba Na Hills und Le Jardin d'Amour. Durchgeführt von Dacotours, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Goldene Brücke der Ba Na Hills, Lady Buddha und Marmorberge in Da Nang",
+  "metaTitle": "Goldene Brücke, Lady Buddha und Marmorberge in Da Nang",
   "metaDescription": "Ganztägige Tour in Da Nang. Enthalten: Mittagsbuffet. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "my-son-sanctuary-mountain-hiking-and-the-secret-waterfall-in-da-nang": {
@@ -53843,7 +53843,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ],
   "shortDescription": "Tour in Da Nang, mit Heiligtum My Son. Durchgeführt von Hoi An Local Tours Company Limited, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Heiligtum My Son, Bergwanderung und geheimer Wasserfall in Da Nang",
+  "metaTitle": "Heiligtum My Son, Bergwanderung und geheimer Wasserfall",
   "metaDescription": "Tour in Da Nang. Enthalten: Abholung und Rückfahrt am Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "coconut-village-boat-and-hoi-an-city-tour": {
@@ -54160,7 +54160,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Feiertagszuschlag von 150.000 VND pro Person (24.-25. und 31. Dezember, 1. Januar, 29.-30. April, 1.-2. Mai und Mondneujahr)"
   ],
   "shortDescription": "0,8333333333333334-stündige Tour in Da Nang, mit Kokoswald Bay Mau. Durchgeführt von My Viet Trip, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Bootsfahrt durch den Kokospalmenwald und optionale Massage in Da Nang",
+  "metaTitle": "Da Nang: Bootsfahrt durch den Kokospalmenwald",
   "metaDescription": "0,8333333333333334-stündige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "off-road-atv-adventure-with-bbq-feast-in-da-nang": {
@@ -54469,7 +54469,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Tip."
   ],
   "shortDescription": "Halbtägige Tour in Da Nang, inklusive Abholung und Rückfahrt für Gäste 3 bis 4 km außerhalb des Zentrums, Abendessen mit lokalen Nudeln und 1 lokales Bier oder Softdrink pro Person auf der Han-Fahrt für. Durchgeführt von Funtastic Basket Boat Tours and Cooking Class, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Da Nang bei Nacht mit dem Motorrad und Han-Flussfahrt mit Fahrerinnen im Ao Dai (Da Nang)",
+  "metaTitle": "Da Nang bei Nacht per Motorrad und Fahrt auf dem Han",
   "metaDescription": "Halbtägige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "da-nang-cooking-market-tour-farming-and-cooking-class-da-nang": {
@@ -54586,7 +54586,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Pick up/drop off."
   ],
   "shortDescription": "3-stündige Tour in Da Nang, inklusive Privater Reiseleiter mit Hintergrund in Geschichte und Militär, Eintrittskarten für den Militärstützpunkt und Eintrittskarten für das Cham-Museum. Durchgeführt von Funtastic Basket Boat Tours and Cooking Class, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Da Nang und der Krieg: von der Skulptur des Champa-Reichs bis zu den Waffen (Da Nang)",
+  "metaTitle": "Da Nang und der Krieg: vom Champa-Reich zu den Waffen",
   "metaDescription": "3-stündige Tour in Da Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "marble-mountain-monkey-mountain-and-am-phu-cave-tour-in-da-nang": {
@@ -55953,7 +55953,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Reiseversicherung"
   ],
   "shortDescription": "Halbtägige Tour in Sapa, mit Dorf Cat Cat, Dorf Sin Chai und Thac-Bac-Wasserfall. Durchgeführt von Ethnic Community Tours, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Sapa per Motorrad: Cat Cat, Sin Chai und die bekanntesten Aussichten",
+  "metaTitle": "Sapa per Motorrad: Cat Cat, Sin Chai und die Aussichten",
   "metaDescription": "Halbtägige Tour in Sapa. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "food-tour-in-sa-pa-sapa": {
@@ -56767,7 +56767,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder für den Guide"
   ],
   "shortDescription": "Halbtägige Tour in Sapa, mit Giang Ta Chai und Su Pan. Durchgeführt von Saigonese Trekking House, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Von Ta Van nach Su Pan: geführte Wanderung mit einheimischem Guide",
+  "metaTitle": "Von Ta Van nach Su Pan: geführte Wanderung",
   "metaDescription": "Halbtägige Tour in Sapa. Enthalten: Wanderung durch das Dorf Ta Van. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "sa-pa-private-tour-glass-bridge-cat-cat-moana-best-view-sapa": {
@@ -56928,7 +56928,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Weihnachten, Neujahr und Nationalfeiertag"
   ],
   "shortDescription": "3-tägige Tour in Ha Long Bay, mit Visit Bai Dinh Pagoda, Mittagessen und Visit Trang An Boat Tour and Mua Cave and Dinner at Ninh Binh. Durchgeführt von Halongbayluxcruises - Marvel Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "3 Tage: Hanoi, Ninh Binh und Ha-Long-Bucht auf einer 5-Sterne-Kreuzfahrt mit Balkon",
+  "metaTitle": "3 Tage: Ninh Binh und Ha Long, 5-Sterne-Kreuzfahrt",
   "metaDescription": "3-tägige Tour in Ha Long Bay. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "2-day-lan-ha-bay-5-star-cruise-with-balcony-in-ha-long-bay": {
@@ -57094,7 +57094,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag für Limousinentransfer 25 $ pro Person für Hin- und Rückweg Hanoi/Ninh Binh - Ha Long - Hanoi/Ninh Binh"
   ],
   "shortDescription": "2-tägige Tour in Ha Long Bay, mit Ha-Long-Bucht, Schnellboot und Lan-Ha-Bucht. Durchgeführt von DGB Travel & Event Company, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Lan-Ha- und Ha-Long-Bucht: 2-tägige 5-Sterne-Kreuzfahrt mit Mahlzeiten und Kabine",
+  "metaTitle": "Lan Ha und Ha Long: 2 Tage, 5-Sterne-Kreuzfahrt",
   "metaDescription": "2-tägige Tour in Ha Long Bay. Enthalten: 5-Sterne-Kreuzfahrt mit Übernachtung. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "ha-long-bay-5-cruise-buffet-jacuzzi-cave-kayak": {
@@ -57260,7 +57260,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuschlag am Tag der Befreiung, zum chinesischen Neujahr, an Silvester und an Weihnachten"
   ],
   "shortDescription": "3-tägige Tour in Ha Long Bay, inklusive Zwei luxuriöse Nächte in einer Deluxe-Kabine mit, Hera-Suite mit privater Terrasse, optional buchbar und Das Erlebnis umfasst ein Willkommensgetränk. Durchgeführt von AN LAM HA LONG TOURISM SERVICES, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha-Long- und Lan-Ha-Bucht: 3 Tage und 2 Nächte auf der Hera Boutique Cruise",
+  "metaTitle": "Ha Long und Lan Ha: 3 Tage auf der Hera Boutique",
   "metaDescription": "3-tägige Tour in Ha Long Bay. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "ha-long-and-lan-ha-bay-day-tour-by-hera-luxury-cruise": {
@@ -57534,7 +57534,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Aufpreis für Alleinreisende von 80 $ für eine Privatkabine."
   ],
   "shortDescription": "2-tägige Tour in Ha Long Bay, inklusive Junior-Kabine mit Privatbalkon, Guide an Bord und Eintritts- und Besichtigungsgebühren. Durchgeführt von DGB - INDOCHINATODAYTRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ha-Long-Bucht: 2-tägige 5-Sterne-Kreuzfahrt mit Balkon, Verpflegung, Höhle und Kajak",
+  "metaTitle": "Ha-Long-Bucht: 2 Tage, 5 Sterne, Balkon, Höhle und Kajak",
   "metaDescription": "2-tägige Tour in Ha Long Bay. Enthalten: Junior-Kabine mit Privatbalkon. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "hanoi-ninh-binh-halong-bay-6-star-cruise-3-days": {
@@ -57828,7 +57828,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Holiday surcharge applies (please see Important Information)."
   ],
   "shortDescription": "Tour in Ho-Chi-Minh-Stadt, mit On foot und Schwimmender Markt Cai Rang. Durchgeführt von SST Travel, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ab Ho-Chi-Minh-Stadt oder Can Tho: Sonnenaufgang am schwimmenden Markt und Zen-Kloster (Ho-Chi-Minh-Stadt)",
+  "metaTitle": "Can Tho: Sonnenaufgang am schwimmenden Markt und Kloster",
   "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Enthalten: Klimatisierter Transfer verfügbar. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "saigon-street-food-flower-market-and-old-apartment-tour": {
@@ -58198,7 +58198,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ],
   "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, inklusive Transport im klimatisierten Fahrzeug, Reiseleiter und Bootsfahrten und Reiseversicherung. Durchgeführt von Vietnam Adventure Tours JSC, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Mekongdelta ab Ho-Chi-Minh-Stadt: Sampanfahrt und lokales Mittagessen",
+  "metaTitle": "Mekongdelta ab Saigon: Sampanfahrt und Mittagessen",
   "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "cu-chi-tunnels-guided-tour-with-am-pm-departure-in-ho-chi-minh-city": {
@@ -58285,7 +58285,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ],
   "shortDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt, mit Vinh-Trang-Pagode, Flussboot und Provinz Tien Giang. Durchgeführt von KIM TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ho-Chi-Minh-Stadt: die Inseln des Mekong-Deltas per Boot und Tuk-Tuk, mit Kostproben (Ho-Chi-Minh-Stadt)",
+  "metaTitle": "Die Inseln des Mekong-Deltas per Boot und Tuk-Tuk",
   "metaDescription": "Ganztägige Tour in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "hcm-mekong-delta-my-tho-and-ben-tre-coconut-village-ho-chi-minh-city": {
@@ -58658,7 +58658,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ],
   "shortDescription": "Tour in Ho-Chi-Minh-Stadt, mit Fußgängerzone Nguyen Hue, Fußgängerstraße Bui Vien und Geheimer Halt. Durchgeführt von VIVA VIETNAM, direkt gebucht statt über einen Wiederverkäufer.",
-  "metaTitle": "Ho-Chi-Minh-Stadt: abendlicher Rundgang mit Halt an einem versteckten Ort",
+  "metaTitle": "Saigon: abendlicher Rundgang mit versteckter Halt",
   "metaDescription": "Tour in Ho-Chi-Minh-Stadt. Enthalten: Guide und 1 Getränk am geheimen Ort. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "ho-chi-minh-fast-track-service-at-tan-son-nhat-airport-ho-chi-minh-city": {
