@@ -94,6 +94,29 @@ const formatDurationHours = (hours: number | string) => {
   return `${h} ${h === 1 ? 'hour' : 'hours'}`;
 };
 
+// The tour's length in HOURS, for the virtual "main tour" option.
+//
+// This used to be `parseFloat(duration.replace(/[^0-9.]/g, ''))`, which throws
+// the unit away: "1 day" became 1 and the booking box told the guest the tour
+// lasts 1 hour, "2 days" became 2 hours, and a range like "4-8 hours" lost its
+// dash and became 48 -- which the formatter then printed as "2 days".
+//
+// `durationHours` on the row is already correct wherever it is set, so trust it
+// first and only parse the text as a fallback.
+const tourDurationInHours = (tour: any): number => {
+  const stored = typeof tour?.durationHours === 'string'
+    ? parseFloat(tour.durationHours)
+    : tour?.durationHours;
+  if (stored && !isNaN(stored) && stored > 0) return stored;
+
+  const text = (tour?.duration || '').toString();
+  // On a range ("4-8 hours") take the upper bound: it is the length to plan for.
+  const nums = text.match(/\d+(?:\.\d+)?/g);
+  if (!nums) return 3;
+  const value = Math.max(...nums.map(parseFloat));
+  return /day/i.test(text) ? value * 24 : value;
+};
+
 const formatDurationDisplay = (durationStr: string | null | undefined) => {
   if (!durationStr) return null;
 
@@ -104,10 +127,8 @@ const formatDurationDisplay = (durationStr: string | null | undefined) => {
   const num = parseFloat(match[1]);
   const unit = match[2].toLowerCase();
 
-  // Special override: 6 hours = 6 days
-  if (unit.startsWith('h') && num === 6) {
-    return '6 days';
-  }
+  // There was a "6 hours means 6 days" override here. It was wrong on 389 live
+  // tours: a 6 hour Jaipur sightseeing day was reading as a six day trip.
 
   // Convert hours to days if multiples of 24
   if (unit.startsWith('h') && num >= 24 && num % 24 === 0) {
@@ -1870,7 +1891,7 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                         tourId: tour.id,
                         optionTitle: tour.title,
                         optionDescription: tour.shortDescription || tour.fullDescription?.substring(0, 200) || '',
-                        durationHours: parseFloat(tour.duration?.replace(/[^0-9.]/g, '')) || 3,
+                        durationHours: tourDurationInHours(tour),
                         price: tour.pricePerPerson || 0,
                         currency: tour.currency || 'USD',
                         language: tour.languages?.[0] || 'English',
