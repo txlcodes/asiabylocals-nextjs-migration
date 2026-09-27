@@ -159,6 +159,8 @@ export const PHNOM_PENH_INFO_SLUGS = [
     'phnom-penh-to-battambang',
     'oudong-guide',
     'phnom-penh-with-kids',
+    'phnom-penh-to-sihanoukville-and-the-islands',
+    'phnom-penh-airport-guide',
 ];
 
 export const SIEM_REAP_INFO_SLUGS = [
@@ -185,6 +187,8 @@ export const SIEM_REAP_INFO_SLUGS = [
     'siem-reap-to-battambang',
     'angkor-wat-dress-code',
     'siem-reap-money-and-costs',
+    'preah-vihear-temple-guide',
+    'angkor-temples-in-the-rainy-season',
 ];
 
 export const KRABI_INFO_SLUGS = [

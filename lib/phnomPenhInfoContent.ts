@@ -690,6 +690,96 @@ export function getPhnomPenhInfoContent(slug: string): CityInfoData | null {
                     { q: 'Should I give money to begging children in Phnom Penh?', a: 'Cambodian NGOs are unanimous that you should not - it makes the child an earning asset and keeps them out of school, and organised begging exists here. Give to an organisation instead, and use the ChildSafe hotline for concerns.' },
                 ],
             };
+        case 'phnom-penh-to-sihanoukville-and-the-islands':
+            return {
+                title: 'Phnom Penh to Koh Rong: The Ferry, the Road, and Which Island',
+                seoTitle: 'Phnom Penh to Koh Rong: Ferry & Island Guide',
+                description: 'Getting to Cambodia’s islands from Phnom Penh - the expressway to Sihanoukville, ferry times to Koh Rong and Koh Rong Sanloem, and which island suits you.',
+                heroImage: IMG.kampot,
+                fastFacts: [
+                    { icon: 'MapPin', label: 'Phnom Penh to Sihanoukville', value: '~230 km' },
+                    { icon: 'Clock', label: 'Fast ferry', value: '35 - 50 minutes' },
+                    { icon: 'Clock', label: 'Wooden boat', value: 'About 2.5 hours' },
+                    { icon: 'AlertTriangle', label: 'Never', value: 'Island night before an early flight' },
+                ],
+                sections: [
+                    {
+                        title: 'The road south',
+                        icon: 'MapPin',
+                        content: "Sihanoukville is about **230 kilometres** south-west of Phnom Penh and it is the only way to the islands - there is no ferry from the capital.\n\n**The expressway** changed this route. Cambodia's first expressway runs Phnom Penh to Sihanoukville and cuts the drive substantially against the old National Road 4; buses and private cars both use it. Expect somewhere in the region of three to four hours door to door depending on the service and on getting clear of Phnom Penh, which is always the slow part.\n\n**Bus** is cheap and frequent, several operators daily.\n\n**Private car** from roughly USD 80-110, and worth it for two or more, particularly if you want to stop.\n\n**Flying** is possible - Sihanoukville has a domestic airport - and is mainly useful on the way home rather than out.\n\n**The train.** Cambodia's rehabilitated railway runs Phnom Penh to Sihanoukville a few days a week, via Kampot. It is slow and it is much more pleasant than the road, and it turns the journey into part of the trip. Check current days locally; the schedule moves.\n\n**Sihanoukville itself** is a port and a construction site rather than a destination. The town went through an enormous, largely unfinished casino building boom and it is not somewhere to spend a night by choice. Time your arrival to catch a boat.",
+                        tourCard: CARD.kampot,
+                    },
+                    {
+                        title: 'The ferry, and the one rule',
+                        icon: 'Clock',
+                        content: "Boats leave from the ferry terminal in Sihanoukville throughout the day.\n\n**Fast ferry: 35 to 50 minutes** to Koh Rong or Koh Rong Sanloem, depending on which pier you are heading for.\n\n**Wooden boats: about two and a half hours.** Cheaper, slower, and a genuinely different experience if you have the time.\n\nTickets are bought at the terminal or in advance, and most are open-dated on the return leg, which matters because of the rule below.\n\n**⚠️ Ferries are weather-dependent and they do get cancelled**, particularly from **May to October**. This is the single most important thing on this page:\n\n**Never plan an international flight for the morning after an island night.** Come off the island the day before and sleep in Sihanoukville, Kampot or Phnom Penh. A cancelled boat is the one thing on a Cambodian itinerary that can genuinely strand you, and the airport is 20 to 24 km south of Phnom Penh on top of a four-hour drive.\n\n**Last sailings** are in the late afternoon. If you are coming down from Kampot or Kep for the day, build the day backwards from the last boat, not forwards from lunch.",
+                    },
+                    {
+                        title: 'Which island',
+                        icon: 'Star',
+                        content: "**Koh Rong Sanloem** is the quieter one and the right answer for most people. Saracen Bay is a long crescent of white sand with a strip of low-key resorts and guesthouses behind it, no roads to speak of, and genuinely little to do. Lazy Beach and M'Pai Bay on the other sides are quieter again.\n\n**Koh Rong** is the larger island with more infrastructure, more nightlife and more people. Koh Touch is the party end; the north and east beaches - Long Set, Sok San, Palm Beach - are much calmer and are where most of the better accommodation has gone.\n\n**What to actually do**: not much, which is the point after a hard-working Cambodian itinerary. **Bioluminescent plankton** after dark on a moonless night, away from beach lighting, is the local speciality and it is real. Snorkelling trips run from both islands and are pleasant rather than world-class - the reefs took a beating and are recovering unevenly.\n\n**What to expect and not be surprised by**: **power and water are limited** on both islands, many places run generators with set hours, wifi is variable to absent, and **ATMs are scarce or non-existent**. Take cash in small US dollars for the whole stay.\n\n**Sandflies** on some beaches are worse than mosquitoes. Repellent, and do not lie directly on the sand at dusk.",
+                    },
+                    {
+                        title: 'Where the islands fit in a trip',
+                        icon: 'Calendar',
+                        content: "Be honest about this one: **Cambodia's islands are good, and they are not why anyone books Cambodia.** Thailand's are better and easier. What these have is emptiness and price.\n\n**They need ten days.** Our [ten-day itinerary](/cambodia/itineraries/10-days) is the shortest that reaches them without wrecking what comes before - four nights Siem Reap, one Battambang, two Phnom Penh, two on the [Kampot pepper coast](/cambodia/phnom-penh/kampot-and-kep-day-trip), one island.\n\n**At eight or nine days, skip them.** A second night in Kampot or a fifth temple day gives you more. The [eight-day route](/cambodia/itineraries/8-days) stops at the coast for exactly that reason.\n\n**Two island nights beat one.** One night means arriving in the afternoon and leaving in the morning, which is a boat trip rather than a stay.\n\n**The natural route** is Phnom Penh → Kampot and Kep → Sihanoukville → island, which strings the whole south together and never doubles back. Coming from Kampot the ferry terminal is about two to two and a half hours.\n\n**Season.** November to April for the islands - calm seas, reliable boats. May to October is when sailings get cancelled, which is the same window that makes the [temples green and cheap](/cambodia/siem-reap/angkor-temples-in-the-rainy-season). The country does not give you both.",
+                    },
+                ],
+                faqs: [
+                    { q: 'How do you get from Phnom Penh to Koh Rong?', a: 'Road to Sihanoukville - about 230 km, three to four hours on the expressway by bus or private car - then a fast ferry of 35 to 50 minutes, or a wooden boat of about two and a half hours. There is no ferry direct from Phnom Penh.' },
+                    { q: 'Should I stay in Sihanoukville?', a: 'Not by choice. It is a port and a largely unfinished casino construction boom rather than a destination. Time your arrival to catch a boat out to the islands the same day.' },
+                    { q: 'Koh Rong or Koh Rong Sanloem?', a: 'Sanloem for most people - quieter, Saracen Bay is a long white crescent with low-key places behind it and little to do. Koh Rong is bigger with more nightlife at Koh Touch, though its north and east beaches are calm.' },
+                    { q: 'Are the Cambodian island ferries reliable?', a: 'In the dry season yes. From May to October they are genuinely weather-dependent and get cancelled. Never plan an international flight for the morning after an island night - come off the day before and sleep on the mainland.' },
+                    { q: 'Is there an ATM on Koh Rong?', a: 'Scarce to non-existent, and power and water are limited with generators on set hours. Take enough cash in small US dollars for your whole stay and do not count on wifi.' },
+                    { q: 'Are Cambodia’s islands worth it?', a: 'They are good and they are not why anyone books Cambodia - Thailand’s are better and easier. What these have is emptiness and price. They need a ten-day trip; at eight or nine days a second night in Kampot gives you more.' },
+                ],
+            };
+
+        case 'phnom-penh-airport-guide':
+            return {
+                title: 'Techo International: The New Phnom Penh Airport, and What Moved',
+                seoTitle: 'Phnom Penh Airport Guide: Techo (KTI) Transfers',
+                description: 'Phnom Penh switched to Techo International on 9 September 2025, 20-24 km south. Transfer times and costs, and what old advice gets wrong.',
+                heroImage: IMG.city,
+                fastFacts: [
+                    { icon: 'Calendar', label: 'Opened', value: '9 September 2025' },
+                    { icon: 'MapPin', label: 'Distance', value: '20 - 24 km south' },
+                    { icon: 'Clock', label: 'To the centre', value: '40 - 50 min, more at peak' },
+                    { icon: 'AlertTriangle', label: 'Old advice says', value: '20 minutes. It is wrong.' },
+                ],
+                sections: [
+                    {
+                        title: 'The airport moved, and most advice has not caught up',
+                        icon: 'AlertTriangle',
+                        content: "**Phnom Penh switched to Techo International Airport (KTI) on 9 September 2025**, and was formally inaugurated the following month. The old Phnom Penh International, close to the city on the north-west side, no longer handles the traffic.\n\nTecho sits roughly **20 to 24 kilometres south** of the centre - about 24 km from the Independence Monument. Allow **40 to 50 minutes**, and more in the evening peak.\n\nThat is roughly **double** the old airport's run, and it is the single most common out-of-date fact in Phnom Penh travel advice. Hotel listings, guidebooks and blog posts written before September 2025 quote twenty minutes, and a great many of them have not been revised.\n\n**Cambodia's other airport moved too.** Siem Reap-Angkor International opened on 16 October 2023 about **45 kilometres east** of Siem Reap, a 45 to 60 minute drive against the old field's ten minutes - see the [Siem Reap airport guide](/cambodia/siem-reap/siem-reap-airport-to-town).\n\n**Both moves together change the domestic maths.** Phnom Penh to Siem Reap is 55 minutes in the air but about **four and a half hours door to door**, against five and a half to six on a bus that drops you in the middle of town. The [transport comparison](/cambodia/phnom-penh/phnom-penh-to-siem-reap-transport) sets that out.",
+                        tourCard: CARD.city,
+                    },
+                    {
+                        title: 'Getting in and out',
+                        icon: 'Clock',
+                        content: "**Pre-booked private car** is the least friction on arrival - a driver waiting with your name, air conditioning for a 45-minute run, and no negotiation after a flight.\n\n**Airport taxi** at the official counter is straightforward and fixed-rate, typically a little more than a pre-booked car because you are buying it at the point of need.\n\n**Grab and PassApp** both work and are usually the cheapest option, though pickup can be restricted to designated bays.\n\n**Hotel transfer** - a lot of Phnom Penh hotels include or offer one, and now that the run is 40-50 minutes it is worth real money. Ask before booking anything separately.\n\n**Leaving**: allow **two and a half to three hours from your hotel** for an international departure. That is 45 to 50 minutes of road plus normal airport time plus slack, and the evening peak south out of the city is genuinely slow.\n\n**Do not fly out the morning after an island night.** Ferries from Koh Rong get cancelled in the wet months and there is a four-hour drive between the coast and this airport on top of the crossing.",
+                    },
+                    {
+                        title: 'Arriving in Cambodia',
+                        icon: 'Info',
+                        content: "**Visa.** Most nationalities can get a **visa on arrival**, or an **e-Visa** in advance from the official Cambodian government site. The e-Visa removes the queue after a flight; be careful to use the government domain rather than one of the many lookalike sites that add a fee.\n\n**Money.** **Cambodia runs on US dollars.** ATMs dispense them, prices are quoted in them, and riel comes back only as change under a dollar at about 4,000 to the dollar - there are no US coins in circulation. **Bring clean, untorn notes**; damaged bills are routinely refused. Airport ATMs charge around USD 4-6 per withdrawal on top of your own bank.\n\n**SIM.** Cellcard, Smart and Metfone all sell tourist data SIMs at the airport cheaply, with sensible allowances. Buy there rather than in town; the price difference is negligible.\n\n**Onward.** Phnom Penh's bus and boat stations are mostly north and west of the centre, so staying central saves a fiddly cross-city run if you are heading to [Siem Reap](/cambodia/phnom-penh/phnom-penh-to-siem-reap-transport), [Battambang](/cambodia/phnom-penh/phnom-penh-to-battambang) or [the coast](/cambodia/phnom-penh/phnom-penh-to-sihanoukville-and-the-islands) the next morning.\n\n**Open-jaw is better than a return.** Fly into Siem Reap and out of Phnom Penh and you never repeat the 315 km between them. Regional carriers price the legs separately, so it usually costs the same.",
+                        tourCard: CARD.s21,
+                    },
+                    {
+                        title: 'Planning around it',
+                        icon: 'Calendar',
+                        content: "**Arrival day is not a sightseeing day.** Landing at two in the afternoon means reaching your hotel around three-thirty. Plan an easy evening: the riverfront along Sisowath Quay, where the city walks, and an early dinner.\n\n**Land before mid-afternoon** if you want anything of the day. The Royal Palace and the National Museum are both morning propositions - the museum closes for lunch - so a late arrival costs you a full morning the next day too.\n\n**Departure day.** The palace and museum in the morning and a mid-afternoon flight is workable if your bags are with the hotel. Anything tighter is not.\n\n**Two nights is the minimum** for Phnom Penh and now more so, because the airport eats an extra hour at each end. Our [two-day itinerary](/cambodia/phnom-penh/phnom-penh-2-day-itinerary) is built around that.\n\n**Where to sleep for an early flight**: anywhere central is 40-50 minutes out, so there is no real advantage in picking a southern neighbourhood - stay where the city is good, in BKK1 or Daun Penh, and leave early. See [where to stay](/cambodia/phnom-penh/where-to-stay-in-phnom-penh).",
+                    },
+                ],
+                faqs: [
+                    { q: 'Which airport does Phnom Penh use now?', a: 'Techo International (KTI), which opened on 9 September 2025 about 20 to 24 km south of the centre. The old Phnom Penh International close to the city no longer handles the traffic.' },
+                    { q: 'How long from Techo airport to central Phnom Penh?', a: '40 to 50 minutes, and longer in the evening peak - roughly double the old airport. Any listing or guide quoting twenty minutes predates September 2025 and has not been revised.' },
+                    { q: 'How early should I leave for a flight from Phnom Penh?', a: 'Two and a half to three hours from your hotel for an international departure: 45 to 50 minutes of road, normal airport time, and slack for the slow run south out of the city.' },
+                    { q: 'Can I get a visa on arrival at Phnom Penh airport?', a: 'Most nationalities can, and the e-Visa is also available in advance from the official Cambodian government site. The e-Visa removes the queue; use the government domain rather than a lookalike that adds a service fee.' },
+                    { q: 'What currency do I need at Phnom Penh airport?', a: 'US dollars - they are the working currency across Cambodia, with riel only as change under a dollar. Bring clean untorn notes because damaged bills get refused, and expect USD 4-6 ATM fees on top of your own bank.' },
+                    { q: 'Does the new airport change whether I should fly to Siem Reap?', a: 'Yes. With both airports now well outside their cities, the 55-minute flight is about four and a half hours door to door against five and a half to six on a bus that drops you in the centre of town. The plane buys about ninety useful minutes.' },
+                ],
+            };
         default:
             return null;
     }

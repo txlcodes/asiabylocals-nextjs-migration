@@ -268,6 +268,8 @@ const PHNOM_PENH_SIDEBAR = [
     { name: 'To Battambang', slug: 'phnom-penh-to-battambang' },
     { name: 'Oudong', slug: 'oudong-guide' },
     { name: 'With Children', slug: 'phnom-penh-with-kids' },
+    { name: 'To the Islands', slug: 'phnom-penh-to-sihanoukville-and-the-islands' },
+    { name: 'Airport Guide', slug: 'phnom-penh-airport-guide' },
 ];
 
 const SIEM_REAP_SIDEBAR = [
@@ -294,6 +296,8 @@ const SIEM_REAP_SIDEBAR = [
     { name: 'To Battambang', slug: 'siem-reap-to-battambang' },
     { name: 'Dress Code', slug: 'angkor-wat-dress-code' },
     { name: 'Money & Costs', slug: 'siem-reap-money-and-costs' },
+    { name: 'Preah Vihear', slug: 'preah-vihear-temple-guide' },
+    { name: 'Angkor in the Rains', slug: 'angkor-temples-in-the-rainy-season' },
 ];
 
 const KRABI_SIDEBAR = [

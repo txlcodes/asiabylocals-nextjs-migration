@@ -1102,6 +1102,97 @@ export function getSiemReapInfoContent(slug: string): CityInfoData | null {
                     { q: 'Is bargaining expected in Siem Reap markets?', a: 'Yes, and it is good-humoured rather than adversarial. Ask, offer somewhat less, settle. Do not grind down a weaver over a piece that took a fortnight - the two-dollar gap is trivial to you and is not to them.' },
                 ],
             };
+        case 'preah-vihear-temple-guide':
+            return {
+                title: 'Preah Vihear: A Temple on a Cliff, and a Border That Was Fought Over',
+                seoTitle: 'Preah Vihear Guide: The Cliff Temple & 4x4',
+                description: 'Preah Vihear sits on a 525-metre cliff on the Thai border - 12 hours from Siem Reap, its own admission, a 4x4 for the last climb, and almost no visitors.',
+                heroImage: IMG.kohKer,
+                fastFacts: [
+                    { icon: 'MapPin', label: 'From Siem Reap', value: '~210 km, 3-3.5 hrs each way' },
+                    { icon: 'Star', label: 'Cliff drop', value: 'About 525 m' },
+                    { icon: 'Wallet', label: 'Entry', value: 'Its own, NOT the Angkor Pass' },
+                    { icon: 'AlertTriangle', label: 'Last climb', value: 'Local 4x4 or moto only' },
+                ],
+                sections: [
+                    {
+                        title: 'The most dramatically sited temple in Cambodia',
+                        icon: 'Star',
+                        content: "Preah Vihear is not like the other Khmer temples and the difference is the ground it stands on.\n\nMost of Angkor is laid out as a square mandala on a flat plain. Preah Vihear is built along a **north-south axis nearly 800 metres long**, climbing a spur of the Dangrek mountains through five successive gopuras - gateways - each on its own terrace, until the final sanctuary sits at the edge of a **cliff that drops about 525 metres** to the Cambodian plain below. You walk uphill through the whole temple and then the ground simply ends.\n\nConstruction spans roughly the **9th to the 12th centuries**, mostly under Suryavarman I and Suryavarman II - the same king who built Angkor Wat. It was dedicated to Shiva as Sikharesvara, lord of the summit, which given the site is about as literal as a dedication gets.\n\nThe carving on the gopura pediments is good, and the **Churning of the Ocean of Milk** appears here too, but the temple is not really about detail. It is about the walk up and the view off the end, and it is the one Khmer site where the setting outranks the architecture.\n\n**UNESCO listed it in 2008**, and that listing is directly tied to why it was closed for years.",
+                        tourCard: CARD.kohKer,
+                    },
+                    {
+                        title: 'Why it was closed, and what that means now',
+                        icon: 'AlertTriangle',
+                        content: "The temple sits **on the border**, and the border here has been genuinely contested.\n\nThe **International Court of Justice awarded the temple to Cambodia in 1962**, and confirmed the surrounding promontory in **2013**. Between those two dates, and especially after the 2008 UNESCO listing, there were **armed clashes between Cambodian and Thai forces** in 2008 and again in 2011, with casualties on both sides and damage to the temple itself. Parts of the site were closed for long periods.\n\nWhat that means practically today:\n\n**Access is from the Cambodian side only**, up the escarpment, which is why the journey is long. The Thai side is much closer to the temple but the access route is closed.\n\n**There is a military presence** on site. Soldiers are around, some of the outbuildings are theirs, and photographing installations rather than the temple is not welcome.\n\n**The area was mined.** Cleared paths are marked; **stay on them**. This is not a formality anywhere in this part of Cambodia and it particularly is not here.\n\n**Check the current situation before you plan around it.** Border conditions here have changed more than once, and a tour operator in Siem Reap will know today's position better than anything written down.",
+                    },
+                    {
+                        title: 'Getting there, and the last four kilometres',
+                        icon: 'Clock',
+                        content: "**From Siem Reap it is about 210 kilometres and three to three and a half hours each way** on surfaced road, so a twelve-hour day door to door. Leave at six.\n\n**From Koh Ker** it is closer, which is why the two are often combined - and if you are making this trip, combining them is the right call. See [Beng Mealea and Koh Ker](/cambodia/siem-reap/beng-mealea-and-koh-ker).\n\n**Your car does not go up.** The last stretch to the top of the escarpment is a very steep road, and at the base station you transfer to a **local 4x4 pickup or the back of a moto**, paid separately, a few dollars. That transfer is not optional and not negotiable - it is a local arrangement and it is how everyone goes up.\n\n**Then you walk**, uphill, through the temple. It is a real climb in the open, several hundred metres of ascent in stages with almost no shade.\n\n**Entry is separate from the Angkor Pass.** So is Koh Ker's. Confirm with your operator what the price includes before you set off.\n\n**Take**: water, a hat, proper shoes, cash in small dollars for the 4x4, and your passport - you are in a border zone and it can be asked for.",
+                        tourCard: CARD.farTemples,
+                    },
+                    {
+                        title: 'Is it worth twelve hours?',
+                        icon: 'Calendar',
+                        content: "Honestly: for most visitors, no. For some, it is the best day of the trip.\n\n**Go if** you have four or more temple days, you have already done the small circuit, Banteay Srei and Beng Mealea, and what you want now is scale and emptiness rather than more carving. The view from the end of the sanctuary is not available anywhere else in Cambodia and you may well have it to yourself.\n\n**Do not go if** you have three days or fewer. Twelve hours is a third of a three-day trip, and you would be spending it on driving rather than on [the grand circuit](/cambodia/siem-reap/angkor-temples-small-vs-grand-circuit) or the [Tonle Sap](/cambodia/siem-reap/tonle-sap-floating-villages-guide), both of which give more per hour.\n\n**Do not go with young children.** It is a long drive, a steep transfer and an exposed climb.\n\n**The cheaper substitute** is Koh Ker on its own - two hours each way, a 36-metre stepped pyramid you can climb, and forest to the horizon from the top. It gives you the emptiness without the twelve hours.\n\n**If you do go**, the seven-day Angkor Pass at USD 72 is almost certainly your ticket by now - see the [pass guide](/cambodia/siem-reap/angkor-wat-tickets-and-pass-guide) - though remember Preah Vihear is not on it.",
+                    },
+                ],
+                faqs: [
+                    { q: 'Is Preah Vihear worth visiting?', a: 'If you have four or more temple days and want scale and emptiness rather than more carving, yes - it is the most dramatically sited temple in Cambodia, on a cliff dropping about 525 metres, and you may have it to yourself. On a three-day trip it costs a third of your time in a car.' },
+                    { q: 'How do you get to Preah Vihear from Siem Reap?', a: 'About 210 km and three to three and a half hours each way on surfaced road, so a twelve-hour day. Your car stops at the base station and you transfer to a local 4x4 pickup or moto for the very steep last stretch, paid separately.' },
+                    { q: 'Is Preah Vihear included in the Angkor Pass?', a: 'No. It charges its own admission, as does Koh Ker, which is often combined with it. Confirm what a tour price covers before setting off rather than at the gate.' },
+                    { q: 'Is Preah Vihear safe to visit?', a: 'It is open and visited, with a military presence on site. The border here was genuinely contested - the ICJ awarded the temple to Cambodia in 1962 and confirmed the promontory in 2013, with armed clashes in 2008 and 2011. The area was mined, so stay on the marked paths, and check current conditions locally.' },
+                    { q: 'Why is Preah Vihear built differently from other Khmer temples?', a: 'Instead of a square mandala on a plain, it runs nearly 800 metres north-south up a spur of the Dangrek mountains through five gopuras on successive terraces, ending at a cliff edge. It was dedicated to Shiva as Sikharesvara, lord of the summit.' },
+                    { q: 'What can I do instead of Preah Vihear?', a: 'Koh Ker - two hours each way rather than three and a half, with a seven-tiered 36-metre pyramid you can climb and forest to the horizon from the top. It gives you the emptiness without the twelve-hour day.' },
+                ],
+            };
+
+        case 'angkor-temples-in-the-rainy-season':
+            return {
+                title: 'Angkor in the Rains: The Season Everyone Avoids and Photographers Choose',
+                seoTitle: 'Angkor in the Rainy Season: What It Is Really Like',
+                description: 'June to October at Angkor - one heavy hour rather than all-day rain, full moats, green stone, thin crowds and 30-50% off rooms. What actually goes wrong.',
+                heroImage: IMG.sunriseLake,
+                fastFacts: [
+                    { icon: 'Calendar', label: 'Wet season', value: 'Roughly June - October' },
+                    { icon: 'Clock', label: 'Typical rain', value: 'One heavy afternoon hour' },
+                    { icon: 'Wallet', label: 'Rooms', value: '30-50% below peak' },
+                    { icon: 'Star', label: 'Lake at its fullest', value: 'September - November' },
+                ],
+                sections: [
+                    {
+                        title: 'What the rains are actually like',
+                        icon: 'Star',
+                        content: "The phrase \"rainy season\" does a lot of damage here, because it makes people picture British drizzle for a fortnight.\n\nWhat happens at Angkor from roughly **June to October** is: hot bright mornings, cloud building through the middle of the day, and **one heavy hour in the afternoon** - genuinely heavy, streets running with water - and then it stops and the evening is cool and clear. Some days it does not rain at all. September and October are the wettest and even then an all-day washout is the exception, not the pattern.\n\nSo the working day barely changes. You are at the temples from 05:00 anyway because of the heat, you are off the stone by noon anyway, and the rain arrives while you are at the pool.\n\nWhat you get in exchange is substantial:\n\n**The moats and reflecting pools are full.** In March the northern pool at Angkor Wat can be low or drained, and there is no reflection at all. In September there is.\n\n**The stone goes green.** Moss on the laterite, moss on the terraces, and the forest around Ta Prohm and Preah Khan at full saturation.\n\n**The crowds thin out** sharply, and rooms are **30-50% below peak**.",
+                        tourCard: CARD.sunriseLake,
+                    },
+                    {
+                        title: 'Why photographers come now',
+                        icon: 'Info',
+                        content: "The people who know this site best mostly shoot it in the wet months, for reasons worth understanding even if you only have a phone.\n\n**Skies with structure.** A dry-season sunrise is often an empty pale blue that photographs as nothing. Monsoon cloud catches colour and gives the towers something to sit against. It can also kill the sunrise completely - that is the gamble.\n\n**Overcast is the best light at [Ta Prohm](/cambodia/siem-reap/ta-prohm-tomb-raider-temple)**, by a wide margin. On a bright day the shaded galleries and blazing courtyards exceed what any sensor handles and you get black roots or a white sky. Cloud fixes that.\n\n**Wet stone saturates.** Sandstone goes warm, moss goes vivid, and the whole park stops looking grey.\n\n**Reflections** in the moats, the barays and every puddle on the causeways.\n\n**Empty frames.** The 06:30 half-hour when the sunrise crowd leaves for breakfast is emptier still in September, and the outlying temples can be genuinely deserted.\n\nMore on angles and timings in the [photography guide](/cambodia/siem-reap/angkor-photography-guide).",
+                    },
+                    {
+                        title: 'What actually goes wrong',
+                        icon: 'AlertTriangle',
+                        content: "This is not a free lunch and the honest list is short but real.\n\n**Wet sandstone is slippery.** The upper-level stairs at Angkor Wat and the rubble at Beng Mealea are the two places it matters. People do fall.\n\n**Unsealed roads to the outlying temples** get difficult. Koh Ker and Preah Vihear are surfaced now, but the last stretches and the tracks around Beng Mealea can be soft. A car rather than a tuk-tuk, and a driver who will say no.\n\n**Cycling** is workable between showers and unpleasant during one. Fine as a plan, bad as a commitment - see [cycling Angkor](/cambodia/siem-reap/angkor-by-bike).\n\n**Mosquitoes** are worse. Dengue is present in Cambodia; repellent at dusk, covered ankles, and take it seriously around the lake.\n\n**Humidity fogs camera glass** when you come out of air conditioning. Let the kit acclimatise.\n\n**Some boats stop.** Paradoxically this is the season the [Tonle Sap](/cambodia/siem-reap/tonle-sap-floating-villages-guide) is at its best, but a severe storm cancels a day on the water.\n\n**Carry a poncho, not an umbrella.** The wind comes with the rain.",
+                        tourCard: CARD.cycle,
+                    },
+                    {
+                        title: 'Month by month, and who should do it',
+                        icon: 'Calendar',
+                        content: "**June** - the turn. Hot and humid with the first real storms. Still plenty of dry days.\n\n**July to August** - established wet season, an afternoon hour most days, everything green. European summer keeps hotels moderately busy regardless, so this is not the cheapest window despite the weather.\n\n**September** - the wettest month and the quietest. Lowest rates of the year. This is the connoisseur's month if you can take the gamble.\n\n**October** - still wet, and **the Tonle Sap is at maximum**. The stilt villages stand in water, the flooded forest is navigable by boat, and the lake is several times its dry-season size. If the lake is a reason you are coming, October is the month.\n\n**November** - the rains stop, the landscape is still green, the lake is still full, and peak pricing has not fully arrived. Widely the best month of the year at Angkor, and it is the tail of the wet season rather than the start of the dry one.\n\n**Who should come in the rains**: photographers, anyone on a budget, anyone who hates crowds, and anyone who specifically wants the floating villages. **Who should not**: a once-in-a-lifetime trip with fixed dates and no slack, where a washed-out sunrise cannot be tried again tomorrow.",
+                    },
+                ],
+                faqs: [
+                    { q: 'Is it worth visiting Angkor in the rainy season?', a: 'Yes, and it is underrated. June to October usually means one heavy afternoon hour rather than all-day rain, while the moats and reflecting pools are full, the stone goes green, the crowds thin and rooms are 30-50% below peak.' },
+                    { q: 'How much does it actually rain at Angkor?', a: 'Typically hot bright mornings, cloud building, and one heavy hour in the afternoon - then it stops. Some days it does not rain at all. September and October are wettest and even then an all-day washout is the exception.' },
+                    { q: 'What is the best month to photograph Angkor?', a: 'The wet months. Monsoon cloud gives the towers something to sit against, overcast is by far the best light at Ta Prohm, wet stone saturates, and the moats hold reflections that a dry March simply does not have.' },
+                    { q: 'What are the downsides of Angkor in the rains?', a: 'Wet sandstone is slippery on Angkor Wat’s upper stairs and Beng Mealea’s rubble, unsealed tracks to outlying temples get soft, mosquitoes are worse with dengue present, and a severe storm can cancel a day on the lake.' },
+                    { q: 'When is the Tonle Sap at its fullest?', a: 'September to November, with October the peak. The stilt villages stand in water and the flooded forest is navigable. By March the lake has drained and the same houses sit on bare six-metre legs.' },
+                    { q: 'Is November wet or dry at Angkor?', a: 'It is the turn, and widely the best month of the year - the rains have stopped, the landscape is still green, the lake is still full from the monsoon, and peak pricing has not fully arrived.' },
+                ],
+            };
         default:
             return null;
     }
