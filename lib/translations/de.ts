@@ -7820,6 +7820,2136 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittskarten"
   ]
  },
+ "jaipur-albert-hall-museum-guided-walking-tour": {
+  "title": "Jaipur: geführter Rundgang durch das Albert Hall Museum",
+  "metaTitle": "Jaipur: Führung durch das Albert Hall Museum",
+  "metaDescription": "Zwei Stunden im Albert Hall Museum mit privatem Guide: indo-sarazenische Architektur, Handwerk aus Rajasthan und die ägyptische Mumie. Eintritt inklusive.",
+  "shortDescription": "Zwei Stunden im Albert Hall Museum mit einem Guide: indo-sarazenische Architektur, Handwerk aus Rajasthan und die ägyptische Mumie.",
+  "fullDescription": "**Rajasthans ältestes Museum, richtig erklärt**\n\nZwei Stunden, ein Gebäude und ein Guide, der Ihnen sagen kann, was Sie da vor sich haben. Das Albert Hall belohnt das weit mehr als das Umherschlendern, denn seine Sammlung ist nach Material und Handwerk geordnet und nicht nach einer Geschichte, die Sie erraten könnten.\n\n**Das Gebäude**\n\n1887 für die Öffentlichkeit eröffnet, entworfen von Sir Samuel Swinton Jacob, und das beste Beispiel indo-sarazenischer Architektur in der Stadt: Rajputen-Chhatris und Jali-Gitter, aufgesetzt auf einen europäischen Museumsgrundriss, im hellen Stein der Hügel um Jaipur.\n\nEs steht im Ram-Niwas-Garten und wird abends angestrahlt, umgeben von Tauben in einer Zahl, die man gesehen haben muss.\n\n**Innen**\n\nDie **ägyptische Mumie** ist das, weswegen die meisten Besucher kommen: eine Frau namens Tutu aus einer Priesterfamilie in Panopolis, rund 2.300 Jahre alt, dem Museum 1887 übergeben. Sie liegt in der Galerie für ägyptische und ausländische Kunst, mit einer guten Darstellung dazu, wie sie untersucht wurde.\n\nDie eigentliche Stärke darüber hinaus ist das Handwerk Rajasthans: **blaue Keramik** aus Jaipurs eigenen Brennöfen, **Waffen und Rüstungen**, **Miniaturmalerei** der Schulen von Jaipur und Kishangarh, Elfenbein, Metallarbeiten und eine Teppichgalerie, deren Mittelstück ein persischer Gartenteppich aus dem 17. Jahrhundert ist, aus Lahore mitgebracht.\n\nDazu gibt es einen vollständigen Satz Tonmodelle aus den 1880er Jahren, die Yoga-Haltungen zeigen, und das ist eine der ältesten Aufzeichnungen dieser Art überhaupt.\n\n**Praktisch**\n\nRund zwei Stunden auf den Beinen, vollständig in Innenräumen, was es mitten an einem heißen Tag oder im Monsun zu einer wirklich guten Wahl macht.\n\nDer Eintritt wird am Tor bezahlt, eine geringe Gebühr, für ausländische Gäste höher, mit einem separaten Kombiticket, wenn Sie am selben Tag weitere Monumente Jaipurs sehen wollen. Es gibt einen Sammelpass, nach dem Sie Ihren Guide fragen sollten.\n\nFotografieren ist in den meisten Galerien erlaubt. An Feiertagen ist das Museum geschlossen; prüfen Sie es vor einem Montag.",
+  "highlights": [
+   "Bewundern Sie die indo-sarazenische Architektur des Albert Hall Museums"
+  ],
+  "included": [
+   "Eintrittskarten",
+   "Rundgang durch das Albert Hall Museum",
+   "Professioneller privater Guide"
+  ],
+  "notIncluded": [
+   "Keine"
+  ]
+ },
+ "de-copas-jaipur-pub-crawl-ultimate-nightlife-exper": {
+  "title": "De Copas Jaipur: Kneipentour durch das Nachtleben der Stadt",
+  "metaTitle": "Jaipur: Kneipentour mit Partybus und Eintritt inklusive",
+  "metaDescription": "Vier Adressen in Jaipur in einer Nacht, mit Partybus dazwischen, einem Getränk an jedem Stopp, bevorzugtem Eintritt und reservierten Tischen.",
+  "shortDescription": "Vier Adressen in Jaipur in einer Nacht, mit einem Partybus dazwischen, einem Getränk an jedem Stopp, bevorzugtem Eintritt und reservierten Tischen.",
+  "fullDescription": "**Jaipurs Nachtleben, ohne das Problem an der Tür**\n\nJaipur ist nicht Delhi und nicht Mumbai, und als ausländischer Gast an einem Samstag in die besseren Adressen zu kommen kann eine Gästeliste bedeuten, auf der Sie nicht stehen. Diese Tour nimmt das vollständig weg: vier ausgewählte Adressen, bevorzugter Eintritt an jeder, und ein Tisch, der schon freigehalten wird.\n\n**Der Ablauf des Abends**\n\nEin Partybus bringt die Gruppe von Adresse zu Adresse, was das andere Jaipur-Problem löst: die guten Orte liegen über die Stadt verteilt und sind zu Fuß nicht voneinander zu erreichen.\n\nAn jedem der vier Stopps ist ein alkoholisches Getränk enthalten. Örtliche Gastgeber führen durch den Abend, und zwischen den Adressen gibt es Karaoke im Bus, was je nach Temperament der beste oder der schlimmste Teil der Nacht ist.\n\nEin Fotograf kommt mit, die Bilder kommen also hinterher und werden nicht von der Person gemacht, die am wenigsten getrunken hat.\n\n**Wer bucht**\n\nVor allem Alleinreisende und kleine Gruppen, die den Abend nicht damit verbringen möchten herauszufinden, wohin man geht. Man geht daraus hervor und hat den Rest des Busses kennengelernt, was meist der Sinn der Sache ist.\n\n**Was enthalten ist**\n\nEintritt in alle vier Adressen, ein Getränk in jeder, der Bus dazwischen, Gastgeber für die volle sechs Stunden, und die Fotos. Alles über die vier enthaltenen Getränke hinaus zahlen Sie selbst.\n\n**Praktisch**\n\nBringen Sie einen Lichtbildausweis mit. Das gesetzliche Mindestalter für Alkohol in Rajasthan ist 21 Jahre, und die besseren Adressen prüfen es, nehmen Sie also einen Pass mit und nicht ein Foto davon.\n\nSmart casual genügt an den meisten Stopps: keine Shorts, keine Flip-Flops, geschlossene Schuhe für Männer.\n\nRajasthan hat an bestimmten nationalen Feiertagen und an Wahltagen trockene Tage, an denen im gesamten Bundesstaat kein Alkohol ausgeschenkt wird. Fällt Ihr Termin darauf, kann die Tour nicht stattfinden, und Sie werden umgebucht oder erstattet.\n\nBuchen Sie das nicht, wenn Sie nicht trinken. Der ganze Abend ist darum herum gebaut.",
+  "highlights": [
+   "Spüren Sie die Energie von Jaipurs Nachtleben auf einer vergnüglichen Kneipentour"
+  ],
+  "included": [
+   "Eintrittsgelder und Cover Charges",
+   "1 Getränk in jeder Adresse",
+   "Transport im Partybus",
+   "Foto- und Videobegleitung",
+   "Örtlicher Gastgeber oder Guide"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt am Hotel",
+   "Zusätzliche, nicht genannte Speisen und Getränke"
+  ]
+ },
+ "jaipur-morning-monkey-temple-guided-tour-with-loca": {
+  "title": "Jaipur: Affentempel am Morgen, Führung mit örtlichem Markt",
+  "metaTitle": "Jaipur: Affentempel am Morgen und örtlicher Markt",
+  "metaDescription": "Ein Besuch von Galta Ji, dem Affentempel, früh am Morgen vor dem Andrang, gefolgt von einem Gang über einen örtlichen Markt. Guide und privates Fahrzeug.",
+  "shortDescription": "Ein Besuch von Galta Ji, dem Affentempel, früh am Morgen vor dem Andrang, gefolgt von einem Gang über einen örtlichen Markt.",
+  "fullDescription": "**Im Morgengrauen hingehen oder gar nicht**\n\nGalta Ji um sieben Uhr morgens und Galta Ji um die Mittagszeit sind zwei verschiedene Orte. Früh kommt das Licht über den Grat in die Schlucht, Pilger baden in den Becken, die Makaken sind ruhig, und es ist fast niemand sonst da. Um die Mittagszeit ist es heiß, voll, und die Affen sind dreister.\n\nDiese Tour ist um die frühe Stunde gebaut, mit Abholung vor Sonnenaufgang.\n\n**Galta Ji**\n\nEine Tempelanlage, in eine Schlucht der Aravalli-Berge geklemmt, zehn Kilometer östlich der Altstadt. Natürliche Quellen laufen durch eine Reihe steinerner Kunds hinab, und der **Galta Kund** oben ist noch nie trocken gesehen worden; Pilger baden hier seit Jahrhunderten.\n\nDie Gebäude sind rosa Sandstein aus dem 18. Jahrhundert, mit bemalten Innenräumen, die so verblassen, dass es sich lohnt, sie jetzt zu sehen. Über der Anlage liegt der **Surya-Tempel** auf dem Grat, dem Sonnenaufgang zugewandt, mit der ganzen Stadt unter Ihnen.\n\n**Zu den Affen**\n\nEs gibt zwei Trupps, Rhesusaffen und Languren, und sie leben hier, weshalb der Ort den Beinamen Affentempel trägt.\n\nSie sind wild. Halten Sie kein Essen in der Hand, halten Sie Ihr Telefon nicht über eine Mauer, und nehmen Sie die Sonnenbrille vom Kopf. Wer sich daran hält, ist noch nie verletzt worden; viele Leute haben ihre Snacks verloren, weil sie es ignoriert haben.\n\n**Der Gang über den Markt**\n\nDanach ein Gang über einen tatsächlich arbeitenden Markt in dem Moment, in dem er öffnet: Gemüsekarren, Blumenverkäufer, die Ringelblumen für die Opfergaben des Morgens auffädeln, Chai und Kachori als Frühstück im Stehen.\n\n**Optionen**\n\nFünf davon: nur Guide, Tuk-Tuk mit englischsprachigem Fahrer, privater Wagen mit Fahrer, oder beide Fahrzeuge zusätzlich mit Guide. Das Tuk-Tuk ist im Winter die angenehme Wahl, der Wagen ab April die vernünftige.\n\nRund vier Stunden. Der Eintritt ist eine geringe Gebühr, am Tor zu zahlen.",
+  "highlights": [
+   "Führung durch den Affentempel (Galta Ji), bevor der Andrang beginnt"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater Wagen oder Tuk-Tuk mit Fahrer für die Besichtigungen",
+   "Staatlich zugelassener Experte als Guide",
+   "Flasche Mineralwasser",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Alle persönlichen Ausgaben"
+  ]
+ },
+ "jaipur-natural-dyeing-and-shibori-tie-dye-workshop": {
+  "title": "Jaipur: Workshop für Naturfärben und Shibori",
+  "metaTitle": "Jaipur: Workshop für Naturfärben und Shibori",
+  "metaDescription": "Ein vierstündiger Praxisworkshop zu Naturfärben und Shibori, mit Farben aus Pflanzen und Küchenabfällen. Ihren Stoff nehmen Sie mit nach Hause.",
+  "shortDescription": "Ein vierstündiger Praxisworkshop zu Naturfärben und Shibori, mit Farben aus Pflanzen und Küchenabfällen. Ihren Stoff nehmen Sie mit nach Hause.",
+  "fullDescription": "**Farbe aus Abfall**\n\nDie Farben in diesem Workshop kommen aus Dingen, die sonst weggeworfen würden: Zwiebelschalen, Granatapfelschalen, Ringelblumenköpfe aus Tempelopfern, Tee, Kurkuma, Krappwurzel, Indigo. Jedes davon ist eine Farbe, und am Ende der Sitzung haben Sie mehrere davon selbst hergestellt.\n\nRajasthan färbt Stoff seit Jahrhunderten so; die synthetischen Farben, die das verdrängt haben, gehören zu den größeren Verschmutzern indischer Flüsse. Es hier auf die alte Weise zu tun ist ein praktischer und kein sentimentaler Punkt.\n\n**Shibori**\n\nDie Reservetechnik: Sie binden, falten, drehen, klemmen oder nähen den Stoff so, dass die Farbe Teile davon nicht erreicht, und das Muster ist, was die Bindung übrig lässt.\n\nSie lernen mehrere der klassischen Methoden: **Itajime**, falten und zwischen Formen klemmen; **Kumo**, um kleine Gegenstände gebunden für spinnennetzartige Sterne; **Arashi**, um eine Stange gewickelt für diagonale Regenlinien; und einfache Nähreserve.\n\nDas Auswickeln am Ende ist der Teil, den alle mögen, weil man es wirklich nicht vorhersagen kann.\n\n**Der Ablauf der Sitzung**\n\nHandwerkerinnen und Handwerker leiten sie in einem arbeitenden Studio, nicht in einem Klassenzimmer. Sie bereiten den Stoff vor, mischen und erhitzen die Farbbäder, binden Ihr Stück, färben es, oxidieren es (Indigo kommt grün aus dem Kessel und wird an der Luft blau, was nie aufhört befriedigend zu sein), dann spülen und trocknen.\n\nRund vier Stunden, und den größten Teil davon machen Sie etwas statt zuzusehen.\n\n**Was Sie mitnehmen**\n\nDie Stücke, die Sie gefärbt haben. Sie können auch ein eigenes Kleidungsstück, einen Schal oder einen Beutel mitbringen, an dem Sie arbeiten: ein schlichtes Teil aus Baumwolle oder Seide, nichts Synthetisches, denn die Farben ziehen dort nicht ein.\n\n**Praktisch**\n\nTragen Sie Kleidung, bei der Flecken nichts ausmachen, oder krempeln Sie die Ärmel richtig hoch. Schürzen und Handschuhe gibt es vor Ort, und Naturfarbe geht ohnehin in einem oder zwei Tagen von der Haut ab.\n\nAlle Materialien und der Stoff sind enthalten.",
+  "highlights": [
+   "Lernen Sie Naturfärben und Shibori in einem einzigen umweltfreundlichen Workshop"
+  ],
+  "included": [
+   "1. Selbstgestaltete Tasche aus Bio-Baumwolle",
+   "2. Fadenset zum Binden und Färben im Shibori-Stil",
+   "3. Notizblock und Stift für Notizen und Skizzen",
+   "4. Vier Päckchen Naturfarben in den Farben Ihrer Wahl",
+   "5. Ein Bio-Kleidungsstück (Schal aus Leinen oder Wolle, T-Shirt, Kissenhülle oder Tischsets)",
+   "7. Abendtee zum entspannten Abschluss",
+   "8. Untadelige Erinnerungen an ein kreatives und kulturelles Erlebnis"
+  ],
+  "notIncluded": [
+   "1. Essen.",
+   "2. Die Anreise zum und vom Veranstaltungsort (gegen Aufpreis organisierbar)",
+   "3. Unterkunft (nicht gestellt)",
+   "4. Färbematerial über das Vorgesehene hinaus; Teilnehmende dürfen jedoch bis zu 3 eigene Kleidungsstücke und 2 Meter Stoff zum Färben mitbringen.",
+   "5. Persönliche Ausgaben wie Einkäufe, Trinkgelder oder zusätzliche Speisen und Getränke",
+   "6. Reiseversicherung und besondere Ernährungswünsche",
+   "7. Versand der gefärbten Stücke (gegen Aufpreis möglich, falls gewünscht)"
+  ]
+ },
+ "jaipur-spiritual-walk-guided-tour-with-tuktuk-ride": {
+  "title": "Jaipur: spiritueller Rundgang mit Tuk-Tuk-Fahrt",
+  "metaTitle": "Jaipur: spiritueller Rundgang mit Tuk-Tuk-Fahrt",
+  "metaDescription": "Drei Stunden durch Jaipurs Tempel zu Fuß und im Tuk-Tuk: Hawa Mahal, Kalki, Tarkeshwar Mahadev und die Schreine der Altstadt.",
+  "shortDescription": "Drei Stunden durch Jaipurs Tempel zu Fuß und im Tuk-Tuk: Hawa Mahal, Kalki, Tarkeshwar Mahadev und die Schreine der Altstadt.",
+  "fullDescription": "**Die andere Schicht der Stadt**\n\nJaipurs Forts bekommen die Besucher, seine Tempel bekommen die Stadt. Diese kurze Tour bewegt sich zwischen ihnen im Tuk-Tuk, zu Fuß dort, wo die Gassen zu eng sind, und sie ist auf die Aarti abgestimmt, nicht auf Fotos.\n\n**Hawa Mahal, zum Anfang**\n\nNicht als Monument, sondern als Wegmarke: das Bienenwabengitter am Sireh Deori Bazaar, 1799 als Erweiterung der Zenana des City Palace gebaut, damit die Frauen des Hofes die Straßenprozessionen ungesehen verfolgen konnten. Es ist Krishna geweiht, und von der Straße aus soll die Fassade seiner Krone gleichen.\n\n**Shree-Kalki-Tempel**\n\nDirekt gegenüber, und fast niemand geht über die Straße, um ihn zu sehen. Er ist Kalki geweiht, dem Avatar Vishnus, der noch nicht gekommen ist, dem zehnten und letzten, für das Ende dieses Zeitalters prophezeit. Ein Tempel für einen Gott, der noch nicht eingetroffen ist, ist eine seltsame und interessante Sache, und im Hof steht ein Marmorpferd und wartet auf ihn.\n\nJai Singh II. ließ ihn in den 1720er Jahren bauen.\n\n**Tarkeshwar Mahadev**\n\nEin Shiva-Tempel mitten in Chaura Rasta, mehr als dreihundert Jahre alt und montags dicht voll, denn der Montag ist Shivas Tag. Während Shravan, dem Monsunmonat, reicht die Schlange die Straße hinunter.\n\n**Govind Dev Ji, meistens**\n\nJaipurs beliebtester Tempel, in den Gärten des City Palace, wohin das Krishna-Bild aus Vrindavan gebracht wurde, um es vor Aurangzeb zu retten. Sieben Aartis werden täglich vollzogen, und die Halle füllt sich für jede davon. Der Maharaja ließ seinen eigenen Palast so bauen, dass er die Gottheit von seinem Fenster aus sehen konnte.\n\n**Was erwartet wird**\n\nSchuhe aus, Schultern bedeckt, kein Fotografieren in den Schreinen. Ledergürtel und -taschen bleiben am besten im Tuk-Tuk. Ihr Guide sagt Ihnen, wann Sie stehen sollen und wann nicht.\n\nDrei Stunden, Tuk-Tuk und Guide inklusive.",
+  "highlights": [
+   "Spüren Sie die spirituelle Energie Jaipurs auf einer geführten Tuk-Tuk-Tour"
+  ],
+  "included": [
+   "Guide vor Ort, der Englisch oder Hindi spricht",
+   "Gute Gespräche über die religiöse Seite, Glaubensvorstellungen und die örtliche Bedeutung",
+   "Ein Heißgetränk und örtliches Prasad",
+   "Kostenlose Tuk-Tuk-Fahrt"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persönliche Ausgaben",
+   "Abholung und Rückfahrt am Hotel"
+  ]
+ },
+ "jaipur-darshan-2-day-entry-pass-for-7-iconic": {
+  "title": "Jaipur Darshan: 2-Tage-Pass für 7 ikonische Monumente",
+  "metaTitle": "Jaipur Darshan: 2-Tage-Pass für 7 Monumente",
+  "metaDescription": "Ein Kombiticket für sieben Monumente in Jaipur über zwei Tage, darunter Amber Fort, Hawa Mahal und Jantar Mantar.",
+  "shortDescription": "Ein Kombiticket für sieben Monumente in Jaipur über zwei Tage, darunter Amber Fort, Hawa Mahal und Jantar Mantar.",
+  "fullDescription": "**Ein Ticket statt sieben Schlangen**\n\nDie Regierung von Rajasthan verkauft einen Kombipass für Jaipurs staatliche Monumente, und er ist klar günstiger als der Einzelkauf, vorausgesetzt Sie besuchen wirklich vier oder mehr der sieben. Wenn Sie nur Amber Fort und Hawa Mahal machen, kaufen Sie diese einzeln und sparen Sie das Geld.\n\n**Was er abdeckt**\n\n**Amber Fort**: die Anlage auf dem Hügel über dem Maota-See, begonnen 1592. Das Ganesh-Pol-Tor, der Spiegelsaal Sheesh Mahal und der Zenana-Hof. Rechnen Sie mit zwei bis drei Stunden; es ist mit Abstand das Größte auf dieser Liste.\n\n**Hawa Mahal**: das fünfgeschossige Bienenwabengitter mit 953 Fenstern. Die meisten fotografieren es von der Straße; der Pass bringt Sie hinein und hinauf, wo Rampen die Treppen ersetzen und farbiges Glas Licht über den Boden wirft.\n\n**Jantar Mantar**: UNESCO-gelistet, neunzehn gemauerte astronomische Instrumente, darunter das 27 Meter hohe Samrat Yantra, noch auf etwa zwei Sekunden genau. Ein Guide lohnt sich, mindestens der Audioguide, denn ohne einen ist es ein Feld aus Formen.\n\n**Albert Hall Museum**: Rajasthans ältestes, indo-sarazenisch, mit der ägyptischen Mumie und einer starken Handwerkssammlung.\n\n**Nahargarh Fort**: das Bergfort nordwestlich der Stadt, und der beste Sonnenuntergangsblick auf Jaipur, den es gibt.\n\n**Sisodia-Rani-Garten**: terrassierte Gärten im Mogulstil, von Jai Singh II. für eine Königin aus Udaipur angelegt, mit Krishna-Wandbildern bemalt.\n\n**Vidyadhar-Garten**: benannt nach dem Architekten, der die Stadt selbst geplant hat, und an den meisten Tagen fast leer.\n\n**Wie man ihn nutzt**\n\nGültig für zwei aufeinanderfolgende Tage ab der ersten Nutzung. Eine sinnvolle Aufteilung: Amber Fort und Jaigarh an Tag eins, die Altstadtstätten und das Albert Hall an Tag zwei, Nahargarh zum Sonnenuntergang an einem der beiden.\n\nBeachten Sie: **der City Palace ist nicht auf diesem Pass.** Er gehört der königlichen Familie, nicht dem Staat, und wird separat bezahlt.\n\n**Zwei Optionen**\n\nDer Zwei-Tage-Pass allein, oder eine Ein-Tages-Variante mit einem örtlichen Guide.",
+  "highlights": [
+   "Erkunden Sie Jaipur mit einem einzigen Kombiticket für 2 Tage"
+  ],
+  "included": [
+   "Eintritt zum Amber Fort",
+   "Eintritt zum Nahargarh Fort",
+   "Eintritt zum Hawa Mahal",
+   "Eintritt zum Jantar Mantar",
+   "Eintritt zum Albert Hall Museum",
+   "Eintritt zum Sisodia-Rani-Garten",
+   "Eintritt zum Vidhyadhar-Garten"
+  ],
+  "notIncluded": [
+   "Geführte Touren",
+   "Transport"
+  ]
+ },
+ "womens-wellness-culture-yoga-henna-jaipur-cooking": {
+  "title": "Wellness und Kultur für Frauen: Yoga, Henna und Kochen in Jaipur",
+  "metaTitle": "Jaipur: Yoga, Henna und Kochen, ein Tag für Frauen",
+  "metaDescription": "Ein ganzer Tag mit Yoga, Henna und rajasthanischem Kochen in Jaipur, von Frauen geleitet. Rund acht Stunden inklusive Mittagessen.",
+  "shortDescription": "Ein ganzer Tag mit Yoga, Henna und rajasthanischem Kochen in Jaipur, von Frauen geleitet. Rund acht Stunden inklusive Mittagessen.",
+  "fullDescription": "**Ein Tag, von Frauen gemacht, für Frauen auf Reisen**\n\nDie Lehrerin, die Henna-Künstlerin und die Köchin sind alle Frauen, und die Räume sind privat und nicht öffentlich. Das ist der Sinn dieses Tages, und deshalb buchen ihn allein reisende Frauen.\n\nEs ist kein Spa-Paket. Alles darin wird von jemandem unterrichtet, der davon lebt.\n\n**Yoga zum Anfang**\n\nFünfundvierzig Minuten bis eine Stunde mit einer zertifizierten Lehrerin, angelegt für echte Anfängerinnen: Atmung, sanfte Dehnungen, Grundhaltungen, und einige Erklärungen dazu, woher die Praxis kommt und wozu sie tatsächlich gedacht war, was eine längere und interessantere Geschichte ist, als die meisten Kurse sich zu erzählen die Mühe machen.\n\nSie müssen vorher kein Yoga gemacht haben, und Sie müssen nicht beweglich sein.\n\n**Henna**\n\nMehndi wird in Rajasthan zu Hochzeiten aufgetragen, zu Karva Chauth und Teej, und ohne jeden Anlass. Die Paste ist gemahlenes Hennablatt; sie geht grün auf, trocknet, blättert ab und lässt einen Ton zurück, der über vierundzwanzig Stunden von Orange zu tiefem Braun nachdunkelt, bevor er in zwei Wochen verblasst.\n\nSie bekommen ein Muster auf die Hände, von jemandem, der Brautarbeit macht, und sie erklärt Ihnen dabei die Motive: das Paisley, den Pfau, das rajasthanische Blumenraster.\n\nEine Warnung, und sie ist wichtig: hier wird ausschließlich natürliches braunes Henna verwendet. Wenn Ihnen irgendwo in Indien \"schwarzes Henna\" angeboten wird, lehnen Sie ab. Es enthält PPD und verbrennt die Haut.\n\n**Kochen, dann Mittagessen**\n\nEin praktischer rajasthanischer Kurs in einer Hausküche: ein Dal, ein Saisongemüse, Brote auf dem Tawa, und die Gewürzlogik dahinter. Sie essen, was Sie gemacht haben.\n\n**Praktisch**\n\nRund acht Stunden mit Abholung und Rückfahrt. Tragen Sie etwas, in dem Sie sich dehnen können und das Sie später wechseln.\n\nHenna braucht ein paar Stunden, in denen man die Hände nicht richtig benutzt, es ist deshalb so gelegt, dass es vor dem Mittagessen einzieht und nicht danach.\n\nAlle Materialien, die Kurse und die Mahlzeit sind enthalten.",
+  "highlights": [
+   "Tauchen Sie mit Yogastunde, Kochkurs und Henna in die indische Kultur ein"
+  ],
+  "included": [
+   "Yogaeinheit",
+   "Kochkurs",
+   "Henna-Sitzung",
+   "Vegetarisches Mittagessen",
+   "Professionelle Yogalehrerin",
+   "Örtliche Kochexpertin",
+   "Henna-Künstlerin"
+  ],
+  "notIncluded": [
+   "Keine"
+  ]
+ },
+ "jaipur-sunrise-sunset-city-tour-by-tuk-tuk-or": {
+  "title": "Jaipur: Stadttour zu Sonnenaufgang und Sonnenuntergang, Tuk-Tuk oder Wagen",
+  "metaTitle": "Jaipur: Sonnenaufgang oder Sonnenuntergang, Tuk-Tuk",
+  "metaDescription": "Jaipur zum Sonnenaufgang vom Jaigarh Fort oder zum Sonnenuntergang von Nahargarh, im Tuk-Tuk oder privaten Wagen, mit der Altstadt unterwegs.",
+  "shortDescription": "Jaipur zum Sonnenaufgang vom Jaigarh Fort oder zum Sonnenuntergang von Nahargarh, im Tuk-Tuk oder privaten Wagen, mit der Altstadt unterwegs.",
+  "fullDescription": "**Buchen Sie die Stunde, nicht die Tour**\n\nJaipur sieht an den beiden Enden des Tages völlig anders aus, und genau diese beiden Stunden lassen Pauschaltouren weg. Hier wählen Sie eine davon, oder in der Ganztagsvariante beide.\n\n**Sonnenaufgang in Jaigarh**\n\nJaigarh liegt auf dem Grat über Amber, mit ihm durch einen Tunnel verbunden, über den die königliche Familie fliehen konnte. Es war das Arsenal, nicht die Residenz, und deshalb steht **Jaivana**, die größte je gegossene Räderkanone, dort oben noch auf ihrer Bastion. Sie wurde einmal abgefeuert, bei einem Test.\n\nUm sechs Uhr morgens hält das Tal darunter Nebel, das Fort ist leer, und Sie hören Papageien und sonst nichts.\n\n**Sonnenuntergang in Nahargarh**\n\nDas andere Bergfort, auf dem nordwestlichen Grat, 1734 von Jai Singh II. gebaut, um den Zugang zu seiner neuen Stadt zu überwachen. Ganz Jaipur liegt flach darunter, und wenn das Licht fällt, wird der rosa Stein der Altstadt tieforange und die Straßenlaternen gehen in einem Raster an, das man lesen kann.\n\nDer Weg zu den Wehrgängen ist kurz. Kommen Sie früh genug für einen Platz auf der Mauer.\n\n**Die Altstadt unterwegs**\n\nIn beide Richtungen führt die Route durch die Mauerstadt, wenn sie erwacht oder schließt: **Chhoti Chopad** und **Badi Chopad**, die großen Kreuzungen im Raster Jai Singhs; **Jalebi Chowk**; und der **Blumenmarkt**, der vor sieben am besten ist, aufgeschüttet mit Ringelblumen und Rosen für die Tempelopfer des Tages.\n\n**Tuk-Tuk oder Wagen**\n\nEin Tuk-Tuk ist offen, günstig und von Oktober bis März die vergnüglichere Fahrt. Ein Wagen ist im Hochsommer die richtige Wahl und in der Ganztagsvariante, die viel Strecke macht.\n\nSechs Optionen insgesamt: Sonnenaufgang oder Sonnenuntergang, im Tuk-Tuk oder Wagen, und zwei Ganztagsvarianten, die auch die Heritage-Runde einschließen.\n\nEintrittsgebühren kommen separat; Nahargarh und Jaigarh sind beide moderat.",
+  "highlights": [
+   "Erleben Sie einen schönen Sonnenaufgang über Jaipur vom historischen Jaigarh Fort"
+  ],
+  "included": [
+   "Transport im Wagen oder Tuk-Tuk, je nach gewählter Option",
+   "Professioneller Fahrer",
+   "Abholung und Rückfahrt am Hotel innerhalb der Stadtgrenzen von Jaipur",
+   "Parkgebühren und Maut",
+   "Wasser in Flaschen gratis",
+   "Örtliches Masala-Chai-Erlebnis",
+   "Eintrittsgebühren für Monumente und Sehenswürdigkeiten der gewählten Route (wenn die Option gewählt ist)"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Essen, außer dem enthaltenen Masala Chai",
+   "Persönliche Ausgaben und Einkäufe",
+   "Reiseversicherung",
+   "Optionale Aktivitäten, die nicht in der Route genannt sind",
+   "Trinkgelder",
+   "Reiseleitung oder Guide-Dienste"
+  ]
+ },
+ "jaipur-market-tour-cooking-class-and-lunch": {
+  "title": "Jaipur: Marktbesuch, Kochkurs und Mittagessen",
+  "metaTitle": "Jaipur: Marktbesuch, Kochkurs und Mittagessen",
+  "metaDescription": "Kaufen Sie Ihre Zutaten auf dem Markt, kochen Sie dann ein vegetarisches rajasthanisches Thali mit einem Gastgeber und essen Sie es. Rund drei Stunden.",
+  "shortDescription": "Kaufen Sie Ihre Zutaten auf dem Markt, kochen Sie dann ein vegetarisches rajasthanisches Thali mit einem örtlichen Gastgeber und essen Sie es zu Mittag. Rund drei Stunden.",
+  "fullDescription": "**Kaufen, kochen, essen**\n\nDer Kurs beginnt auf einem Markt und nicht in einer Küche, und das verändert ihn. Sie wählen das Gemüse, riechen die Gewürze, bevor sie gemahlen werden, und hören, worauf Ihr Gastgeber dabei achtet: welcher Koriander frisch ist, warum man den Ingwer mit der dünnen Schale nimmt, wie viel von einer Ganzgewürzmischung vor die Zwiebeln kommt.\n\nDann eine Hausküche, und Sie kochen.\n\n**Was Sie machen**\n\nEin vegetarisches Thali, was in Rajasthan mehrere kleine Gerichte um Reis und Brot bedeutet statt eines einzigen Hauptgangs.\n\nMeist ist das ein **Dal**, eine trockene **Sabzi** aus Saisongemüse, ein **Raita**, und Brote auf dem Tawa: Roti, und oft **Bajra**-Fladenbrot, das aus Perlhirse, das zu dieser Wüste gehört und nicht zu Nordindien allgemein.\n\nWenn Sie ein bestimmtes Gericht wollen, **Gatte ki Sabzi**, **Ker Sangri**, **Dal Baati Churma**, sagen Sie es vorher und die Speisenfolge biegt sich. Es ist ein Gastgeber und eine kleine Gruppe, kein Fließband.\n\n**Warum rajasthanisches Essen eigen ist**\n\nDie Küche hier ist um Knappheit herum entstanden: wenig Wasser, also wurde in Ghee, Milch und Buttermilch gekocht; wenige frische Gemüse, also trugen Kichererbsenmehl, Linsen und getrocknete Wüstenbohnen den Teller; keine Kühlung, also ist viel davon trocken gewürzt und hält sich Tage.\n\nWenn Ihnen das einmal in einer Küche gesagt wird, hört die ganze Küche auf, eine Liste unbekannter Namen zu sein.\n\n**Dann das Mittagessen**\n\nSie essen, was Sie gekocht haben, mit Ihrem Gastgeber, im Sitzen. Damit endet der Kurs.\n\n**Praktisch**\n\nRund drei Stunden insgesamt. Durchgehend vegetarisch. Sagen Sie vorher, wenn Sie es ohne Chili, ohne Knoblauch und Zwiebel oder glutenfrei brauchen: alle drei sind hier normale Bitten und alle drei sind einfach.\n\nZutaten, der Marktbesuch, der Kurs und die Mahlzeit sind enthalten. Die Rezepte nehmen Sie mit.",
+  "highlights": [
+   "Entdecken Sie die kräftigen Aromen Indiens in einem Kochkurs zum Mitmachen"
+  ],
+  "included": [
+   "Marktbesuch",
+   "Kochen zum Mitmachen",
+   "Mittagessen"
+  ],
+  "notIncluded": [
+   "Der Transport zum Kochstudio"
+  ]
+ },
+ "jaipur-private-khimsar-desert-safari-day-trip-with": {
+  "title": "Jaipur: private Wüstensafari nach Khimsar, mit Guide",
+  "metaTitle": "Jaipur: private Wüstensafari nach Khimsar mit Guide",
+  "metaDescription": "Ein langer Tag von Jaipur in die Thar bei Khimsar: Dünen, Jeepsafari und Wüstendörfer, im privaten Wagen mit Guide und Mittagessen.",
+  "shortDescription": "Ein langer Tag von Jaipur in die Thar bei Khimsar: Dünen, eine Jeepsafari und Wüstendörfer, im privaten Wagen mit Guide.",
+  "fullDescription": "**Die echte Wüste, und am selben Tag zurück**\n\nKhimsar liegt etwa 300 km von Jaipur entfernt, nordwestlich Richtung Nagaur, und dort weicht das Dornbuschland endlich echtem Sand. Der Tag dauert wegen dieser Entfernung fünfzehn Stunden, und Sie sollten ihn in dem Wissen buchen, dass die Fahrt ein erheblicher Teil davon ist.\n\nWas Sie dafür bekommen, sind Dünen ohne die Tourismusmaschinerie von Jaisalmer, das noch 280 km weiter liegt.\n\n**Die Dünen**\n\nKhimsars Sand liegt in einer Tasche der Thar hinter dem Dorf, und die Safari fährt am späten Nachmittag mit dem Jeep hinein, wenn das Licht lang wird und die Hitze gefallen ist. Die Dünen sind nicht riesig, aber sie sind echt, und es ist niemand darauf.\n\nDer Sonnenuntergang von einem Grat dort draußen, mit nichts in irgendeiner Richtung, ist der Grund, warum Leute diese Fahrt machen.\n\n**Die Dörfer**\n\nSiedlungen der Bishnoi und Jat liegen über dieses Land verstreut, und die Tour hält an einer. Die Bishnoi lohnen das Wissen: eine im 15. Jahrhundert gegründete Gemeinschaft mit neunundzwanzig Grundsätzen, von denen mehrere das Fällen grüner Bäume oder das Verletzen von Tieren verbieten. 1730 wurden dreihundertdreiundsechzig von ihnen getötet, als sie einen Hain von Khejri-Bäumen gegen die Äxte eines Maharadschas verteidigten, und deshalb weiden Hirschziegenantilope und Chinkara um ihre Dörfer noch frei, während sie überall sonst gejagt werden.\n\nSie werden wahrscheinlich beide sehen, dazu Wüstenfüchse und sehr viele Vögel.\n\n**Das Fort**\n\nKhimsar Fort stammt von 1523, gebaut von einem Sohn des Rathore-Herrschers von Jodhpur, und ein Teil davon ist noch Familienwohnsitz. Das Äußere und die Lage sind der Reiz.\n\n**Praktisch**\n\nFünfzehn Stunden von Tür zu Tür, privater klimatisierter Wagen mit Fahrer und ein Guide durchgehend. Früher Start, späte Rückkehr.\n\nWüstennächte sind von November bis Februar kalt: eine Jacke, auch wenn der Tag warm war. Mahlzeiten, die Safarigebühr und ein etwaiger Kamelritt werden vor Ort bezahlt.",
+  "highlights": [
+   "Spüren Sie den Reiz einer Wüstensafari, während Sie über die Dünen fahren"
+  ],
+  "included": [
+   "Transport im privaten Wagen",
+   "Reiseleitung",
+   "Wüstensafari-Erlebnis",
+   "Mittagessen"
+  ],
+  "notIncluded": [
+   "Keine"
+  ]
+ },
+ "from-jaipur-abhaneri-stepwell-bhangarh-fort-day-tr": {
+  "title": "Ab Jaipur: Stufenbrunnen von Abhaneri und Bhangarh Fort",
+  "metaTitle": "Ab Jaipur: Stufenbrunnen Abhaneri und Bhangarh Fort",
+  "metaDescription": "Ein ganzer Tag ab Jaipur zum Stufenbrunnen von Abhaneri und den Ruinen des Bhangarh Fort, im privaten Wagen mit einem Guide.",
+  "shortDescription": "Ein ganzer Tag ab Jaipur zum Stufenbrunnen von Abhaneri und den Ruinen des Bhangarh Fort, im privaten Wagen mit einem Guide.",
+  "fullDescription": "**Zwei Orte, an die die meisten Leute nie kommen**\n\nBeide liegen an der Straße östlich von Jaipur, und beide sind auf eine Weise außergewöhnlich, wie die Postkartenrunde es nicht ist. Acht Stunden, ein privater Wagen, und ein Guide, der erklären kann, worin Sie da stehen.\n\n**Chand Baori in Abhaneri**\n\nDas ist der tiefste und geometrisch unverschämteste Stufenbrunnen Indiens: 3.500 Stufen in perfekten Doppelläufen dreizehn Geschosse hinab zu einem Quadrat grünen Wassers am Boden. Er wurde im 9. Jahrhundert von König Chanda geschlagen, für ein Dorf, das durch einen Wüstensommer Wasser brauchte.\n\nDie Temperatur unten liegt fünf oder sechs Grad unter der an der Oberfläche, und genau darum ging es: ein Ort, um Wasser zu holen, und auch einer, um die Hitze abzusitzen. Die Treppen bilden ein Muster, das sich wie eine optische Täuschung fotografiert, und Sie haben es in Filmen gesehen, ohne zu wissen, wo es war.\n\nZum Wasser hinunter kann man nicht. Die obere Galerie und der Harshat-Mata-Tempel daneben sind offen.\n\n**Bhangarh Fort**\n\nEine vollständige Stadt aus dem 17. Jahrhundert, Palast, Marktstraße, Tempel, Havelis, Mauern, verlassen und am Fuß der Aravallis stehen gelassen.\n\nSie ist in Indien als der am stärksten verwunschene Ort des Landes berühmt, und der Archaeological Survey hat dort ein Schild, das den Zutritt zwischen Sonnenuntergang und Sonnenaufgang verbietet, das einzige derartige Schild an einem ASI-Monument. Die Legenden sprechen von einem Zauberer und einer Prinzessin; die wahrscheinlichere Geschichte sind Hungersnot, eine verlegte Handelsroute und eine versiegte Wasserquelle.\n\nWas Sie tatsächlich bekommen, ist eine ganze verlassene Stadt, die Sie durchwandern können und in der fast niemand ist: die von Banyanbäumen beschattete Marktstraße, die Tempelsockel, der Palast hinten am Hang. Gehen Sie dafür hin und nicht für Geister.\n\n**Praktisch**\n\nEtwa 90 km pro Richtung, rund acht Stunden von Tür zu Tür. Bhangarh bedeutet echtes Gehen auf unebenem Stein, und in den Ruinen gibt es kaum Schatten. Nehmen Sie Wasser mit; die Stände am Tor sind begrenzt.\n\nPrivater Wagen, Fahrer und Guide inklusive; die Eintrittsgebühren sind gering und werden vor Ort bezahlt.",
+  "highlights": [
+   "Ergründen Sie die Geheimnisse des Bhangarh Fort und seine faszinierende Geschichte"
+  ],
+  "included": [
+   "Transport im privaten Wagen",
+   "Sachkundiger Guide",
+   "Besuch des Bhangarh Fort",
+   "Besuch des Stufenbrunnens von Abhaneri"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Eintrittsgebühren"
+  ]
+ },
+ "jaipur-local-bapu-bazaar-walking-tour-with-street-": {
+  "title": "Jaipur: Rundgang durch den Bapu Bazaar mit Streetfood",
+  "metaTitle": "Jaipur: Bapu Bazaar zu Fuß, mit Streetfood",
+  "metaDescription": "Ein geführter Gang durch den Bapu Bazaar mit Streetfood-Stopps: Textilien, Mojari-Schuhe, Lackarmreifen und Kachori, mit einem Einheimischen.",
+  "shortDescription": "Ein geführter Gang durch den Bapu Bazaar mit Streetfood-Stopps: Textilien, Mojari-Schuhe, Lackarmreifen und Kachori, mit jemandem von hier, der die Preise kennt.",
+  "fullDescription": "**Jaipurs arbeitender Markt, mit jemandem, der die Preise kennt**\n\nDer Bapu Bazaar läuft innen entlang der alten Stadtmauer zwischen Sanganeri Gate und New Gate, und dort kauft Jaipur selbst ein. Das ist der Unterschied zu einer Souvenirrunde: die Preise hier sind echt, und das Risiko, das Vierfache davon zu zahlen, ist es auch, wenn Sie in Indien noch nie etwas gekauft haben.\n\n**Was verkauft wird, und wo**\n\n**Mojari**, die Lederpantoffeln mit gebogener Spitze, handgenäht, aus Läden, die das seit Generationen tun. Ein gutes Paar sollte sich in der Hand leicht biegen.\n\n**Bandhani**- und **Leheriya**-Textilien, in den kleinen Punkten und diagonalen Wellen reservegefärbt, die es nur in Rajasthan gibt, und wattierte Razais, leicht genug, um in einen Koffer zu passen.\n\n**Lackarmreifen** aus den Gassen bei Tripolia, noch über der Flamme gemacht, während Sie zusehen.\n\n**Juttis, Dupattas, Kamelledertaschen, blaue Keramik**, und eine Menge maschinell Gemachtes, das als Handarbeit verkauft wird, was genau das ist, was Ihr Guide auseinanderhalten soll.\n\n**Das Essen**\n\n**Pyaaz Kachori**, das mit Zwiebeln gefüllte, das Jaipur besser macht als alle anderen. **Mirchi Vada**, wenn Sie die Schärfe aushalten. **Lassi** im Tonkulhad aus einem Laden, der nichts anderes verkauft. **Ghewar** in der Saison, eine Scheibe getränkten, wabenartigen Teigs, die zu Rajasthans Monsunfesten gehört.\n\n**Zum Handeln**\n\nIn den Stoff- und Schmuckläden wird es erwartet, an den Essensständen nicht. Ihr Guide sagt Ihnen, was was ist, und führt Sie nicht in einen Laden, der Provision zahlt; sagen Sie am Anfang klar, dass Sie dorthin wollen, wo Einheimische kaufen.\n\n**Zwei Optionen**\n\nDer Gang mit Guide, oder der Gang mit Transfers ab Ihrem Hotel. Was Sie kaufen, zahlen Sie selbst; nichts davon ist im Preis eingebaut.",
+  "highlights": [
+   "Entdecken Sie farbenfrohe Textilien, handgefertigten Schmuck und besondere Wohnaccessoires"
+  ],
+  "included": [
+   "Rundgang durch den Bapu Bazaar",
+   "Erleben Sie die örtliche Kultur Rajasthans",
+   "Gelegenheit zum Kauf von Textilien, Schmuck, Mojari-Schuhen und Wohnaccessoires",
+   "Streetfood-Probe mit Kachoris und Lassi",
+   "Transfer vom und zum Hotel (wenn gewählt)"
+  ],
+  "notIncluded": [
+   "Keine"
+  ]
+ },
+ "jaipur-galta-peeth-jawahar-kala-kendra-and-more": {
+  "title": "Jaipur: Galta Peeth, Jawahar Kala Kendra und mehr",
+  "metaTitle": "Jaipur: Galta Peeth, Jawahar Kala Kendra und mehr",
+  "metaDescription": "Das Jaipur jenseits der Postkartenrunde: die Quelltempel von Galta Ji, das Jawahar Kala Kendra und weitere Stopps, mit Wagen und Guide.",
+  "shortDescription": "Das Jaipur jenseits der Postkartenrunde: die Quelltempel von Galta Ji, das Jawahar Kala Kendra und weitere Stopps, mit Wagen und Guide.",
+  "fullDescription": "**Für einen zweiten Tag in Jaipur**\n\nWenn Sie Amber Fort und City Palace schon gemacht haben, ist das die bessere Verwendung für sechs Stunden. Keiner dieser Stopps ist geheim, aber es sind die, zu denen Einheimische Sie schicken würden, und nicht die, die die Reisebusse anfahren.\n\n**Galta Ji**\n\nEine Tempelanlage, in eine Schlucht der Aravalli-Berge gebaut, 10 km östlich der Altstadt. Natürliche Quellen füllen eine Reihe steinerner Becken, und der Galta Kund oben ist der, der nie trockenfällt; Pilger baden darin.\n\nDie Gebäude sind aus dem 18. Jahrhundert, rosa Sandstein, innen mit Fresken bemalt, die genau so verblassen, dass es sich lohnt, sie jetzt zu sehen. Ein Trupp Rhesusaffen lebt hier, weshalb der Ort online als \"Affentempel\" auftaucht. Es sind wilde Tiere. Tragen Sie kein Essen in der Hand, halten Sie das Telefon nicht hin, dann lassen sie Sie in Ruhe.\n\nDer Weg den Grat hinauf vom Tor des Surya-Tempels gibt Ihnen in der Dämmerung die ganze Stadt.\n\n**Jawahar Kala Kendra**\n\nIn jeder Hinsicht das andere Ende Jaipurs: ein Kunstzentrum von Charles Correa aus den 1990er Jahren, gebaut als neun Quadrate, die den Neun-Quadrate-Plan aufgreifen, den Jai Singh II. für die Stadt selbst benutzte, mit einem Quadrat, das genauso gedreht ist wie das der Altstadt. Es beherbergt Galerien, ein Museum, Theater und ein Café, und dort verbringen die Künstler der Stadt tatsächlich Zeit.\n\nWenn Architektur Sie überhaupt interessiert, ist das das Gebäude in Jaipur, das nicht vierhundert Jahre alt ist und trotzdem eine Stunde wert.\n\n**Dazu**\n\nDie Route füllt sich mit Stopps, die nach Tag und Jahreszeit gewählt werden: ein Stufenbrunnen, eine Basargasse, ein Tempel, den Ihr Guide schätzt. Fragen Sie nach dem, was Sie interessiert; in sechs Stunden ist Platz.\n\n**Inklusive**\n\nAbholung am Hotel, privater Wagen mit Fahrer und ein örtlicher Guide. Eintrittsgebühren und Mahlzeiten kommen separat; die meisten dieser Stätten sind gratis oder kosten ein paar Rupien.",
+  "highlights": [
+   "Besuchen Sie die heiligen Quellen und Tempel von Galta Peeth"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Flughafen oder Hotel in Jaipur.",
+   "Privater klimatisierter Wagen mit Fahrer.",
+   "Guide vor Ort an allen Stationen.",
+   "Flaschen Mineralwasser.",
+   "Fahrerpauschalen.",
+   "Alle Maut-, Park- und Steuerkosten."
+  ],
+  "notIncluded": [
+   "Eintrittskarten für die Monumente.",
+   "Mahlzeiten und Getränke.",
+   "Trinkgelder (freiwillig)"
+  ]
+ },
+ "pushkar-jaipur-pink-city-private-day-tour": {
+  "title": "Von Pushkar nach Jaipur: privater Tag in der Rosa Stadt",
+  "metaTitle": "Von Pushkar nach Jaipur: privater Tag, Rosa Stadt",
+  "metaDescription": "Pushkar nach Jaipur und zurück an einem Tag, im privaten klimatisierten Wagen mit englischsprachigem Guide. Amber Fort, City Palace, Jantar Mantar.",
+  "shortDescription": "Pushkar nach Jaipur und zurück an einem Tag, im privaten klimatisierten Wagen mit einem englischsprachigen Guide in der Stadt.",
+  "fullDescription": "**Jaipur, ohne das Hotel zu wechseln**\n\nViele Leute wohnen in Pushkar wegen des Sees und der Ruhe und wollen dann einen Tag Rosa Stadt, ohne zu packen. Es sind 145 km, etwa drei Stunden pro Richtung auf ordentlicher Straße, was einen Tagesausflug völlig vernünftig macht: Sie fahren nach einem frühen Frühstück los und sind zum Abendessen zurück.\n\nDer Wagen ist privat und klimatisiert und bleibt den ganzen Tag bei Ihnen. Ein lizenzierter englischsprachiger Guide stößt in Jaipur dazu.\n\n**Was der Tag abdeckt**\n\n**Amber Fort**, die 1592 begonnene Anlage auf dem Hügel über dem Maota-See. Sandstein und Marmor, das Ganesh-Pol-Tor, und das Sheesh Mahal, dessen Spiegeldecke eine einzige Kerze in einen Himmel aus Licht verwandeln sollte.\n\n**Jal Mahal**, fotografiert vom Damm am Seeufer. Vier seiner fünf Geschosse stehen unter Wasser, und hinein geht es nicht.\n\n**City Palace**, wo Rajputen-, Mogul- und europäische Architektur über eine Folge von Höfen aufeinandertreffen, teils noch von der früheren königlichen Familie bewohnt.\n\n**Jantar Mantar**, das Observatorium aus dem 18. Jahrhundert mit neunzehn steinernen Instrumenten, UNESCO-gelistet, wo die Sonnenuhr Samrat Yantra noch auf ein paar Sekunden genau abzulesen ist.\n\n**Hawa Mahal**, das fünfgeschossige Gitterwerk am Sireh Deori Bazaar: 953 Fenster, und auf dem größten Teil seiner Höhe weniger als einen Meter tief.\n\nWenn noch Lust da ist, sind die Basare um Johari und Tripolia die wirklich arbeitende Stadt: Edelsteinschleifer, Stoffdrucker, Armreifenmacher.\n\n**Praktisch**\n\nDer Transport hin und zurück von Ihrer Unterkunft in Pushkar ist enthalten. Eintrittsgebühren und Mahlzeiten nicht: rechnen Sie mit rund 1.500 ₹ pro ausländischem Erwachsenen, wenn Sie überall hineingehen.\n\nFahren Sie früh. Amber Fort vor zehn ist ein anderes Gebäude als Amber Fort um die Mittagszeit.",
+  "highlights": [
+   "Erkunden Sie die historische Rosa Stadt Jaipur"
+  ],
+  "included": [
+   "Transfer hin und zurück von Pushkar nach Jaipur",
+   "Privates klimatisiertes Fahrzeug",
+   "Professioneller englischsprachiger Guide",
+   "Private Besichtigungstour durch Jaipur",
+   "Besuch von Amber Fort und Palast",
+   "Besuch des City Palace",
+   "Besuch des Jantar Mantar",
+   "Fotostopp am Hawa Mahal",
+   "Fotostopp am Jal Mahal",
+   "Abholung und Rückfahrt am Hotel in Pushkar",
+   "Kraftstoff, Maut und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren der Monumente",
+   "Mahlzeiten und Getränke",
+   "Persönliche Ausgaben",
+   "Kamera- oder Fotogebühren, falls anfallend",
+   "Trinkgelder",
+   "Alle Aktivitäten, die nicht in der Route genannt sind"
+  ]
+ },
+ "jaipur-pink-city-heritage-day-trip": {
+  "title": "Jaipur: Heritage-Tagestour durch die Rosa Stadt",
+  "metaTitle": "Jaipur: Heritage-Tagestour durch die Rosa Stadt",
+  "metaDescription": "Ein ganzer Tag an Jaipurs Heritage-Stätten, darunter Panna Meena ka Kund und die königlichen Kenotaphe, mit Abholung in ganz Delhi NCR.",
+  "shortDescription": "Ein ganzer Tag an Jaipurs Heritage-Stätten, darunter Panna Meena ka Kund und die königlichen Kenotaphe, mit Abholung in ganz Delhi NCR.",
+  "fullDescription": "**Zwei Stopps, die die meisten Tagesausflüge weglassen**\n\nDie Standardrunde in Jaipur besteht aus fünf Stätten, und alle fahren sie. Diese ergänzt **Panna Meena ka Kund** und **Gaitor ki Chhatriyan**, und deshalb lohnt es sich, über den Titel hinaus zu lesen.\n\n**Panna Meena ka Kund** ist ein Stufenbrunnen aus dem 16. Jahrhundert unterhalb des Amber Fort: symmetrisch sich kreuzende Treppen, die acht Geschosse in den Boden hinabführen, gebaut, damit das Dorf zu jeder Jahreszeit an Wasser kam. Er fotografiert sich wie eine Escher-Zeichnung und ist fast immer ruhig, weil die Busse dort nicht halten. Zum Wasser hinunter kann man nicht, und man sollte es nicht versuchen.\n\n**Gaitor ki Chhatriyan** ist die Verbrennungsstätte der Kachwaha-Maharadschas, ein von Mauern umschlossener Garten aus geschnitzten Marmorkenotaphen am Fuß des Nahargarh-Hügels. Jai Singh II., der die Stadt gründete und das Observatorium baute, liegt hier. Sehr wenige Besucher sind hier.\n\n**Der Rest des Tages**\n\n**Hawa Mahal**: die Bienenwabenfassade mit 953 Fenstern, ein Sichtschutz für die Frauen des Hofes und kein Palast.\n\n**Amber Fort**: die Anlage auf dem Hügel über dem Maota-See, mit dem Spiegelsaal Sheesh Mahal und dem Ganesh-Pol-Tor.\n\n**Jal Mahal**: ein Fotostopp an der Seestraße, kein Eintritt.\n\n**City Palace**: Höfe, Waffenkammer und Textilien, teils noch königliche Residenz.\n\n**Jantar Mantar**: das UNESCO-gelistete steinerne Observatorium, mit der größten gemauerten Sonnenuhr der Welt.\n\n**Die Anreise**\n\nAbholung und Rückfahrt an sieben Punkten in Delhi NCR, darunter Alt-Delhi, Gurugram und Greater Noida, was das üblich Taxi quer durch die Stadt vor Morgengrauen erspart. Es ist ein langer Tag, rechnen Sie mit sechzehn Stunden von Tür zu Tür, und die Fahrt dauert je Richtung etwa viereinhalb Stunden.\n\nEintrittsgebühren der Monumente und Mahlzeiten sind nicht enthalten.",
+  "highlights": [
+   "Bewundern Sie den Jal Mahal, der auf dem Man-Sagar-See zu schweben scheint"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel",
+   "Private klimatisierte Limousine, SUV oder Van",
+   "Lizenzierter professioneller Guide",
+   "Eintrittskarten für die Monumente (wenn die Option gewählt ist)",
+   "Wasser in Flaschen",
+   "Parkgebühren und Kraftstoff"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben für Einkäufe",
+   "Kameragebühren an den Monumenten",
+   "Alkohol und Drogen",
+   "Trinkgelder",
+   "Eintrittskarten",
+   "Mahlzeiten"
+  ]
+ },
+ "jaipur-full-day-private-tour-with-guide-lunch": {
+  "title": "Jaipur: privater Ganztag mit Guide und Mittagessen",
+  "metaTitle": "Jaipur: privater Ganztag mit Guide und Mittagessen",
+  "metaDescription": "Ein ganzer Tag bei Jaipurs Forts und Palästen mit lizenziertem Guide, privatem Wagen und Mittagessen. Abholung und Rückfahrt am Hotel.",
+  "shortDescription": "Ein ganzer Tag bei Jaipurs Forts und Palästen mit lizenziertem Guide, privatem Wagen und Mittagessen. Abholung und Rückfahrt am Hotel.",
+  "fullDescription": "**Ein Tag, richtig gemacht**\n\nJaipurs große Stätten verteilen sich über 15 km, und die beiden wichtigsten liegen an den gegenüberliegenden Enden davon. Es mit der Rikscha zu machen heißt, den Tag in der Sonne mit Preisverhandlungen zu verbringen. Ein privater Wagen und ein Guide für den Tag nehmen beide Probleme weg, und das Mittagessen ist eingebaut, damit niemand um zwei Uhr nachmittags mit leerem Magen Entscheidungen trifft.\n\n**Amber Fort**\n\nUNESCO-Welterbe, ab 1592 von Raja Man Singh gebaut, im hellgelben und rosa Sandstein der Hügel hier. Das Tor **Ganesh Pol**, das **Sheesh Mahal**, in dem Spiegelsplitter so gesetzt wurden, dass Kerzenlicht den Raum füllte, und das **Sukh Niwas**, wo Wasser durch Kanäle in der Wand lief, als Klimaanlage vierhundert Jahre vor dem Wort.\n\nGehen Sie früh. Gegen elf füllen sich die Höfe.\n\n**Jal Mahal**\n\nEin Fotostopp auf dem Rückweg. Der Palast hat fünf Geschosse, und vier davon liegen unter dem Man-Sagar-See; es gibt kein Boot und keinen Eintritt, und jede Tour, die anderes andeutet, verkauft Ihnen etwas.\n\n**City Palace**\n\nMogul- und Rajputen-Architektur um eine Folge von Höfen, teils noch Wohnsitz der früheren Herrscherfamilie. Die Waffenkammer und die Textilräume sind die Teile, für die es sich lohnt langsamer zu werden.\n\n**Jantar Mantar**\n\nEin Observatorium aus dem 18. Jahrhundert mit neunzehn gemauerten Instrumenten, UNESCO-gelistet, darunter die 27 Meter hohe Sonnenuhr Samrat Yantra, noch auf etwa zwei Sekunden genau.\n\n**Hawa Mahal**\n\n953 Fenster, fünf Geschosse, stellenweise kaum einen Meter tief. Gebaut, damit die Frauen des Hofes die Straße beobachten konnten, ohne von ihr gesehen zu werden.\n\n**Mittagessen**\n\nIn einem rajasthanischen Restaurant, enthalten. Sagen Sie uns vorher, wenn es vegetarisch, jainistisch oder ohne Chili sein muss, dann richtet sich die Küche danach.\n\n**Nicht enthalten**\n\nEintrittsgebühren der Monumente, rund 1.500 ₹ pro ausländischem Erwachsenen für das ganze Set.",
+  "highlights": [
+   "Tauchen Sie ein in das Erbe Rajasthans"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit Fahrer",
+   "Monumentstickets",
+   "Privater Guide",
+   "Mittagessen",
+   "Mineralwasser",
+   "Alle Steuern"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "08-days-royal-rajasthan-tour-jaipur-udaipur-jodhpu": {
+  "title": "Königliches Rajasthan in 8 Tagen: Jaipur, Udaipur und Jodhpur",
+  "metaTitle": "Rajasthan in 8 Tagen: Jaipur, Udaipur und Jodhpur",
+  "metaDescription": "Acht Tage durch Jaipur, Udaipur und Jodhpur im privaten Wagen mit Fahrer, mit Hoteloptionen von drei bis fünf Sternen und örtlichen Guides.",
+  "shortDescription": "Acht Tage durch Jaipur, Udaipur und Jodhpur im privaten Wagen mit Fahrer, mit Hoteloptionen von drei, vier oder fünf Sternen.",
+  "fullDescription": "**Acht Tage ist die ehrliche Länge für Rajasthan**\n\nDie Entfernungen sind der Grund. Von Jaipur nach Udaipur sind es fast 400 km, von Udaipur nach Jodhpur weitere 250, und jede dieser Straßen führt an etwas vorbei, für das ein Stopp lohnt. Sechs Tage machen daraus eine Autoreise. Acht machen daraus eine Reise.\n\n**Jaipur**\n\nDie Anlage des **Amber Fort** über dem Maota-See, der **City Palace**, in dem die frühere königliche Familie noch lebt, die Steininstrumente des **Jantar Mantar** und der **Hawa Mahal**. Ein Abend in den Basaren der Altstadt: Johari für Edelsteine, Tripolia für Lackarmreifen und Messing.\n\n**Pushkar**, meist auf dem Weg nach Süden: eine kleine Seestadt um einen der ganz wenigen Brahma-Tempel der Welt, mit 52 Badeghats und weder Fleisch noch Alkohol innerhalb der Stadtgrenzen.\n\n**Udaipur**\n\nDer **City Palace** entlang des Pichola-Sees, der **Jagdish-Tempel** aus dem 17. Jahrhundert, und **Saheliyon ki Bari**, ein Garten aus Springbrunnen und Marmorelefanten, für die achtundvierzig Hofdamen einer Königin angelegt. Ein Boot auf dem See zum Sonnenuntergang ist der Abend, von dem Leute später erzählen.\n\n**Jodhpur**\n\n**Mehrangarh**, 120 Meter hoch auf senkrechtem Felsen, ist wohl das schönste Fort Indiens und ganz sicher das am besten präsentierte. Die Einschläge von Kanonenkugeln am zweiten Tor stammen von einer Belagerung aus Jaipur. Darunter das **Jaswant Thada** aus weißem Marmor, und die blauen Gassen der Altstadt um den Uhrturm.\n\n**Der Ablauf**\n\nPrivates klimatisiertes Fahrzeug mit Fahrer für alle acht Tage, die Überlandetappen eingeschlossen. Örtliche Guides in jeder Stadt für die Besichtigungen.\n\n**Die Hotels**\n\nDrei, vier oder fünf Sterne, separat bepreist, oder buchen Sie nur die Rate für Transport und Guide und organisieren Ihre Zimmer selbst. Monumentstickets und Mahlzeiten sind nicht enthalten.",
+  "highlights": [
+   "Reisen Sie während der gesamten Tour im privaten klimatisierten Fahrzeug mit Fahrer"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die gesamte Tour",
+   "Staatlich zugelassener Experte als Guide in jeder Stadt",
+   "7 Nächte Hotelunterkunft (wenn die Option gewählt ist)",
+   "Frühstück im Hotel",
+   "Flasche Mineralwasser",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Eintrittskarten",
+   "Mittag- und Abendessen",
+   "Alle persönlichen Ausgaben"
+  ]
+ },
+ "from-delhi-jaipur-day-trip-with-private-car-and": {
+  "title": "Ab Delhi: Jaipur an einem Tag, privater Wagen und Guide",
+  "metaTitle": "Ab Delhi: Jaipur an einem Tag, Wagen und Guide",
+  "metaDescription": "Delhi nach Jaipur und zurück an einem Tag, privater klimatisierter Wagen mit örtlichem Guide in der Stadt. Abholung in ganz Delhi NCR.",
+  "shortDescription": "Delhi nach Jaipur und zurück an einem Tag, privater klimatisierter Wagen mit einem örtlichen Guide in der Stadt. Abholung in ganz Delhi NCR.",
+  "fullDescription": "**Ein Tagesausflug, der nach Plan läuft**\n\nDie Abholung ist vor dem Morgengrauen, meist zwischen 5 und 6 Uhr morgens, von überall in Delhi, Noida oder Gurgaon. Das klingt brutal, und es ist der einzige Grund, warum der Tag funktioniert: fahren Sie um sechs los, dann sind Sie vor dem Verkehr durch Gurgaon, gegen elf auf der Rampe des Amber Fort und um zehn Uhr abends zurück in Delhi.\n\nDie Fahrt sind 270 km über die Jaipur-Schnellstraße, mit einer Pause. Der Wagen ist privat und klimatisiert, und er gehört den ganzen Tag Ihnen und ist kein geteilter Bus mit festem Fahrplan.\n\n**In Jaipur**\n\nEin lizenzierter örtlicher Guide trifft Sie am ersten Stopp. Das ist wichtig: ein Fahrer aus Delhi bringt Sie zum Amber Fort, kann Ihnen aber nicht sagen, worin Sie da stehen.\n\n**Amber Fort**, auf seinem Grat über dem Maota-See. Das Ganesh-Pol-Tor, das Sheesh Mahal mit seiner Spiegelarbeit, und der Zenana-Hof, in dem die Gemächer von zwölf Königinnen so angelegt waren, dass keine in die einer anderen sehen konnte.\n\n**Jal Mahal**, von der Seestraße. Fotografieren und weiter; hinein geht es nicht.\n\n**City Palace** und **Jantar Mantar**, nebeneinander in der Altstadt. Das Samrat Yantra des Observatoriums ist 27 Meter Mauerwerk und gibt die Ortszeit noch genau an.\n\n**Hawa Mahal**, das Bienenwabengitter am Sireh Deori Bazaar.\n\n**Zwei Optionen**\n\nDie Basisrate umfasst den privaten Wagen und den Guide. Die volle Rate ergänzt Mittagessen und alle Eintrittsgebühren, was die Ticketschlange zu 1.500 ₹ pro Kopf aus Ihrem Tag nimmt.\n\n**Bevor Sie buchen**\n\nSechzehn bis achtzehn Stunden von Tür zu Tür. Wer neun davon nicht im Auto sitzen kann, sollte das nicht buchen. Alle anderen bekommen Jaipurs fünf beste Stätten und schlafen im eigenen Bett.",
+  "highlights": [
+   "Privater Wagentransfer: bequem und zügig hin und zurück ab Delhi und der NCR"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel in Delhi.",
+   "Professioneller Guide.",
+   "Privater klimatisierter Wagen.",
+   "Buffet-Mittagessen ohne Getränke (wenn die Option gewählt ist)",
+   "Eintrittsgebühren der Monumente (wenn die Option gewählt ist)",
+   "Wasser in Flaschen für die Gäste.",
+   "Parkgebühren",
+   "Kraftstoff",
+   "Alle staatlichen Steuern, einschließlich der Waren- und Dienstleistungssteuer (GST)."
+  ],
+  "notIncluded": [
+   "Alle persönlichen Ausgaben.",
+   "Alles, was nicht in den Leistungen oben genannt ist.",
+   "Trinkgelder für Guide und Fahrer."
+  ]
+ },
+ "from-delhi-all-inclusive-jaipur-tour-with-lunch-tr": {
+  "title": "Ab Delhi: Jaipur all inclusive, mit Mittagessen und Transfers",
+  "metaTitle": "Ab Delhi: Jaipur all inclusive, mit Mittagessen",
+  "metaDescription": "Jaipur an einem Tag ab Delhi mit privatem Wagen, Guide, Mittagessen und Monumentstickets, alles enthalten. Langer Tag, ein Preis.",
+  "shortDescription": "Jaipur an einem Tag ab Delhi mit privatem Wagen, Guide, Mittagessen und Monumentstickets, alles enthalten. Langer Tag, ein Preis.",
+  "fullDescription": "**Was \"all inclusive\" hier tatsächlich heißt**\n\nDie volle Variante dieser Tour umfasst den Wagen, den Fahrer, Kraftstoff und Maut, einen lizenzierten Guide in Jaipur, Mittagessen in einem rajasthanischen Restaurant und die Eintrittsgebühren der Monumente. Letzteres lassen die meisten Tagesausflüge von Delhi nach Jaipur weg, und es sind rund 1.500 ₹ pro Kopf für einen ausländischen Erwachsenen, es lohnt sich also zu prüfen, welche Option Sie vor sich haben.\n\nEs gibt eine günstigere Variante ohne Tickets und Mittagessen, und eine Rate nur mit Wagen und Guide für Leute, die schon in Jaipur sind.\n\n**Die Form des Tages**\n\nEr ist lang. Delhi nach Jaipur sind rund 270 km über die NH-48, vier bis fünf Stunden pro Richtung, die Abholung ist also früh und Sie sind spät zurück. In beiden Richtungen gibt es eine Pause unterwegs.\n\n**Amber Fort** ist der erste Stopp nach der Ankunft. Auf dem Hügel, Rajputen und Mogul zugleich, und das Sheesh Mahal, der Spiegelsaal, ist das, was die Fotos zeigen.\n\n**Jal Mahal** vom Damm: ein Fotostopp, fünf Minuten, kein Eintritt.\n\n**Mittagessen** in einem traditionellen Restaurant. Lal Maas, wenn Sie Fleisch essen, Dal Baati Churma, wenn nicht. Sagen Sie vorher, wenn Sie vegetarisch essen oder es ohne Chili brauchen; die Küchen hier machen beides routiniert.\n\n**City Palace**, wo Mogul-, Rajputen- und europäischer Stil in denselben Höfen stehen und die frühere königliche Familie noch einen Teil bewohnt.\n\n**Hawa Mahal**, meist von der Straße gegenüber, dem Winkel, für den die Fassade gebaut wurde.\n\n**Ein ehrlicher Rat**\n\nDas sind neun Stunden Besichtigung, verpackt in neun Stunden Fahrt. Es funktioniert, Tausende machen es, und es ist die richtige Wahl, wenn Jaipur auf einer kurzen Indienreise ein Haken auf der Liste ist. Wenn Sie eine Nacht übrig haben, ist Übernachten besser.",
+  "highlights": [
+   "Besuchen Sie den City Palace, eine Mischung aus Mogul-, Rajputen- und europäischem Stil"
+  ],
+  "included": [
+   "Abholung und Rückfahrt ab Delhi im klimatisierten Wagen",
+   "Alle Besichtigungen im privaten klimatisierten Wagen",
+   "Privater Guide für alle Besichtigungen",
+   "Mittagessen (wenn die Option gewählt ist)",
+   "Eintrittskarten für alle Monumente (wenn die Option gebucht ist)",
+   "Mineralwasser",
+   "Alle Steuern"
+  ],
+  "notIncluded": [
+   "Trinkgeld"
+  ]
+ },
+ "06-days-splendor-of-rajasthan-jaipur-jodhpur-udaip": {
+  "title": "Rajasthans Glanz in 6 Tagen: Jaipur, Jodhpur und Udaipur",
+  "metaTitle": "Rajasthan in 6 Tagen: Jaipur, Jodhpur und Udaipur",
+  "metaDescription": "Sechs Tage durch Jaipur, Jodhpur und Udaipur im privaten Wagen mit Fahrer. Hoteloptionen von drei bis fünf Sternen, örtliche Guides in jeder Stadt.",
+  "shortDescription": "Sechs Tage durch Jaipur, Jodhpur und Udaipur im privaten Wagen mit Fahrer. Hoteloptionen von drei bis fünf Sternen.",
+  "fullDescription": "**Die drei Städte, richtig verteilt**\n\nRajasthan wird ständig in Zwei-Tage-Routen gepresst und übersteht diese Behandlung nicht. Sechs Tage sind der Punkt, an dem Jodhpur aufhört ein Fortbesuch zu sein und eine Stadt wird, und an dem Udaipur einen Abend auf dem Wasser bekommt statt eines gehetzten Nachmittags.\n\n**Jaipur, zwei Tage**\n\n**Amber Fort** am Morgen, wenn das Licht auf dem Ganesh Pol liegt und die Busgruppen noch nicht da sind. **City Palace**, **Jantar Mantar** und **Hawa Mahal** in der Altstadt. Ein Abend in den Basaren um Johari und Tripolia, wo Jaipur sein Geld tatsächlich verdient: Edelsteinschliff, Stoffdruck, Emailarbeit.\n\n**Jodhpur, die Blaue Stadt**\n\n**Mehrangarh** ist das Fort, das die Meinung von Leuten über indische Forts ändert. Es steigt 120 Meter senkrecht vom Felsen auf, die Mauern sind nie durchbrochen worden, und das Museum darin ist das bestgeführte in Rajasthan. Schauen Sie von den Wehrgängen hinunter, dann ergeben die blauen Häuser Sinn: die Farbe war ursprünglich eine Kalk-Kupfer-Tünche, die Termiten fernhielt.\n\nDas **Jaswant Thada**, der Kenotaph aus weißem Marmor darunter, ist das Ziel, wenn das Fort Sie erschöpft hat.\n\n**Udaipur, an den Seen**\n\nDer **City Palace** an der Pichola-Uferfront, der **Jagdish-Tempel**, und ein Boot zum Sonnenuntergang, wenn die Aravalli-Hügel hinter dem Wasser flach und dunkel werden. **Saheliyon ki Bari**, der für den Hofstaat einer Königin angelegte Garten, wenn Zeit bleibt.\n\n**Wie es läuft**\n\nPrivater klimatisierter Wagen mit Fahrer für die vollen sechs Tage, die Straßenetappen eingeschlossen: Jaipur nach Jodhpur sind etwa 330 km, Jodhpur nach Udaipur etwa 250 km, beides ordentliche Straßen mit Haltemöglichkeiten.\n\nÖrtliche Guides kommen an den Besichtigungstagen in jeder Stadt dazu.\n\n**Die Hotels**\n\nDrei Optionen: ohne Unterkunft, wenn Sie Ihre selbst organisieren, mit Drei-Sterne-Hotels, oder mit Vier-Sterne. Eintrittsgebühren der Monumente, Mittag- und Abendessen kommen separat.",
+  "highlights": [
+   "Besuchen Sie Mehrangarh Fort, eines der größten Forts Indiens, und sehen Sie das Jaswant Thada"
+  ],
+  "included": [
+   "Klimatisierte Hotelunterkunft im Einzel-, Doppel- oder Dreibettzimmer (wenn die Option gewählt ist)",
+   "05 köstliche Frühstücke im Hotel, pro Person (wenn die Option gewählt ist)",
+   "Privater professioneller Guide (wenn die Option gewählt ist)",
+   "Bootsfahrt auf dem Pichola-See in Udaipur (wenn die Option gewählt ist)",
+   "Elefantenritt am Amber Fort in Jaipur (wenn die Option gewählt ist)",
+   "An- und Abreise im klimatisierten privaten Wagen.",
+   "Transport im klimatisierten privaten Wagen während der Tour.",
+   "02 Flaschen Mineralwasser pro Person und Tag.",
+   "Alle anfallenden Kosten wie Kraftstoff, Park- und Mautgebühren"
+  ],
+  "notIncluded": [
+   "Alle persönlichen Ausgaben.",
+   "Eintrittsgebühren der Monumente.",
+   "Kameragebühren.",
+   "Alle internationalen und nationalen Flüge.",
+   "Galadinner zu Weihnachten und Neujahr."
+  ]
+ },
+ "jaipur-to-mathura-vrindavan-spiritual-tour-with-ag": {
+  "title": "Von Jaipur nach Mathura und Vrindavan, mit Absetzen in Agra",
+  "metaTitle": "Jaipur, Mathura und Vrindavan, mit Absetzen in Agra",
+  "metaDescription": "Von Jaipur nach Mathura und Vrindavan, Krishnas Geburtsort und Kindheitsstädte, mit Absetzen in Agra am Ende. Privater Wagen mit Fahrer und Guide.",
+  "shortDescription": "Von Jaipur nach Mathura und Vrindavan, Krishnas Geburtsort und Kindheitsstädte, mit Absetzen in Agra am Ende. Privater Wagen und Fahrer.",
+  "fullDescription": "**Eine nützliche Streckenführung**\n\nDie meisten Leute fahren Jaipur nach Agra in vier Stunden und sehen dazwischen nichts. Diese Tour macht denselben Tag nordwärts über Mathura und Vrindavan und setzt Sie trotzdem am Abend in Agra ab, Sie gewinnen also zwei der wichtigsten Tempelstädte Indiens, ohne einen Reisetag zu verlieren.\n\n**Mathura**\n\nHindus halten daran fest, dass Krishna hier geboren wurde, in einer Gefängniszelle, die heute unter der Tempelanlage Shri Krishna Janmabhoomi liegt. Die Sicherheitskontrolle dort ist streng, keine Telefone, keine Taschen, keine Kameras, und das ist nicht verhandelbar: lassen Sie alles im Wagen.\n\nDie Yamuna-Ghats unterhalb der Stadt sind ruhiger und den Weg wert, wenn Ihr Fahrer Zeit hat.\n\n**Vrindavan**\n\nElf Kilometer weiter, und eine andere Atmosphäre. Hier soll Krishna aufgewachsen sein, und die Stadt hat etwa fünftausend Tempel.\n\n**Prem Mandir** ist der, zu dem die meisten Besucher gebracht werden: weißer italienischer Marmor, 2012 fertiggestellt, nach Einbruch der Dunkelheit in wechselnden Farben beleuchtet und von geschnitzten Szenen aus Krishnas Leben umgeben. Er ist modern und steht dazu.\n\n**Banke Bihari** ist das Gegenteil: aus den 1860er Jahren, eng, laut, und der Tempel, an dem Vrindavan selbst am meisten hängt. Der Vorhang vor der Gottheit wird traditionsgemäß alle paar Minuten auf- und wieder zugezogen, damit niemand Krishnas Blick zu lange hält.\n\n**Praktische Hinweise**\n\nBeide Städte sind streng vegetarisch und alkoholfrei. Schuhe kommen an jedem Tempel aus, und der Stein wird ab April heiß: Socken helfen.\n\nWitwen kommen seit Jahrhunderten nach Vrindavan, um dort ihr Leben zu beenden, und Sie werden sie sehen. Es ist ein echter Ort, keine Kulisse.\n\n**Das Absetzen**\n\nDer Tag endet in Agra, an Ihrem Hotel. Es gibt auch eine Variante mit Übernachtung, die dieselbe Route in ruhigerem Tempo auf zwei Tage verteilt.\n\nSpenden am Eingang, Mahlzeiten und Monumentstickets in Agra sind nicht enthalten.",
+  "highlights": [
+   "Bequeme Abholung an Ihrem Hotel, am Flughafen oder am Bahnhof in Jaipur"
+  ],
+  "included": [
+   "Privater Transport",
+   "Privater Guide",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Spenden",
+   "Trinkgelder"
+  ]
+ },
+ "jaipur-elephant-sanctuary-local-village-experience": {
+  "title": "Jaipur: Elefantenschutzzentrum und örtliches Dorf",
+  "metaTitle": "Jaipur: Elefantenschutzzentrum und örtliches Dorf",
+  "metaDescription": "Zeit mit gerettenen Elefanten in einem Schutzzentrum bei Jaipur: füttern, waschen und spazieren, kein Reiten. Private Abholung inklusive.",
+  "shortDescription": "Zeit mit gerettenen Elefanten in einem Schutzzentrum bei Jaipur: füttern, waschen und mit ihnen gehen, ohne Reiten. Private Abholung inklusive.",
+  "fullDescription": "**Kein Reiten. Genau darum geht es.**\n\nDie Elefanten in diesem Schutzzentrum werden nicht geritten, und es gibt kein Howdah auf dem Gelände. Mehrere kommen aus der Reitschlange am Amber Fort oder aus Tempel- und Hochzeitsarbeit, die Füßen und Wirbelsäule zusetzt. Hier besteht der Tag aus Fressen, Baden, Gehen und In-Ruhe-gelassen-werden.\n\nWenn Sie ein Foto auf einem Elefantenrücken wollen, ist das die falsche Buchung, und das sollten Sie vorher wissen und nicht danach.\n\n**Wie ein Besuch aussieht**\n\nSie werden einem bestimmten Elefanten vorgestellt und nicht einer Herde, und Sie verbringen Ihre Zeit mit diesem einen. Sie füttern ihn, Zuckerrohr, Bananen, von Hand gepresste Jaggery-Kugeln, und das Füttern dauert, denn ein erwachsenes Tier frisst fast 150 kg am Tag.\n\nDann das Waschen. Elefantenhaut ist zweieinhalb Zentimeter dick und bekommt trotzdem Sonnenbrand, weshalb die Tiere sich in der Wildnis mit Schlamm bewerfen. Einen Elefanten im Wasser mit einer Bürste zu schrubben ist der Teil, von dem die meisten nicht erwartet hätten, dass er so viel Freude macht.\n\nDie Mahouts, die hier arbeiten, sind meist seit Jahren beim selben Tier, und sie sind die interessantesten Menschen auf dem Gelände. Fragen Sie sie.\n\n**Das Dorf**\n\nDas Schutzzentrum liegt in Hathi Gaon, dem Elefantendorf, das in den 2000er Jahren außerhalb Jaipurs gebaut wurde, damit Tiere und Pfleger einen Ort mit Bäumen und Wasser haben und nicht eine Stadtgasse. Der geführte Gang hindurch ist in den längeren Optionen enthalten.\n\n**Optionen**\n\nDie kürzeste ist Fotografieren und Füttern. Die mittlere ergänzt das Waschen und den Dorfgang. Die längste ergänzt ein Schlammbad, was heißt, dass Sie ebenfalls schlammig werden: bringen Sie Wechselkleidung mit und tragen Sie nichts, an dem Sie hängen.\n\nPrivate klimatisierte Abholung an Ihrem Hotel in Jaipur ist im Komplettpaket enthalten.",
+  "highlights": [
+   "Bauen Sie eine persönliche Bindung auf, während Sie diese sanften Riesen füttern und neben ihnen gehen"
+  ],
+  "included": [
+   "Privater Transport hin und zurück im klimatisierten Wagen (je nach Option)",
+   "Eintrittsgebühren und Aktivitäten im Schutzzentrum (wenn die Option gewählt ist)",
+   "Professioneller englischsprachiger Guide oder Pfleger",
+   "Traditionelle, hausgemachte vegetarische Mahlzeit",
+   "Wasser in Flaschen und Willkommensgetränke"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen",
+   "Trinkgelder: für Fahrer und Guides.",
+   "Persönliche Ausgaben: Einkäufe, Wäsche und andere persönliche Ausgaben."
+  ]
+ },
+ "jaipur-private-halffull-day-sightseeing-with-car-a": {
+  "title": "Jaipur: private Besichtigung, halber oder ganzer Tag, Wagen und Guide",
+  "metaTitle": "Jaipur: private Besichtigung, halber oder ganzer Tag",
+  "metaDescription": "Jaipur besichtigen, wie Sie wollen: halber oder ganzer Tag, im Tuk-Tuk oder privaten Wagen, mit oder ohne Guide. Abholung am Hotel inklusive.",
+  "shortDescription": "Jaipur besichtigen, wie Sie wollen: halber oder ganzer Tag, im Tuk-Tuk oder privaten Wagen, mit oder ohne Guide. Abholung am Hotel inklusive.",
+  "fullDescription": "**Wählen Sie die Variante, die zu Ihrem Tag passt**\n\nEs ist dieselbe Route in vier Formen, und die ehrliche Antwort ist, dass die meisten Leute zu viel kaufen. Lesen Sie das, bevor Sie wählen.\n\n**Ein halber Tag im Tuk-Tuk** ist die günstigste und beim Wetter von Oktober bis März wirklich die schönste Art, sich durch die Altstadt zu bewegen. Offene Seiten, keine Scheibe zwischen Ihnen und der Straße, und es passt in Gassen, in die ein Wagen nicht kommt. Vier oder fünf Stunden decken Hawa Mahal, City Palace, Jantar Mantar und Jal Mahal ab.\n\n**Ein halber Tag im privaten Wagen** sind dieselben Stopps mit Klimaanlage. Im April, Mai und Juni ist das kein Luxus.\n\n**Ein ganzer Tag im Tuk-Tuk** ergänzt das Amber Fort, das 11 km pro Richtung bergauf liegt. Ein Tuk-Tuk schafft diesen Anstieg, langsam.\n\n**Der ganze Tag mit Wagen, Guide und Mittagessen** ist die vollständige Variante und die einzige, bei der jemand erklärt, was Sie da ansehen.\n\n**Was Sie sehen**\n\n**Hawa Mahal**: fünf Geschosse, 953 Fenster, und stellenweise nur etwa einen Meter tief. Es war ein Sichtschutz für die Frauen des Hofes, kein Palast zum Wohnen.\n\n**City Palace**: Mogul- und Rajputen-Architektur um Höfe, mit den beiden Silberurnen im Diwan-i-Khas, die ein Maharadscha für eine Reise nach England mit Gangeswasser füllen ließ.\n\n**Jantar Mantar**: eine UNESCO-Stätte gemauerter astronomischer Instrumente, darunter die größte steinerne Sonnenuhr der Welt.\n\n**Jal Mahal**: von der Seestraße aus. Es gibt kein Boot und keinen Eintritt.\n\n**Albert Hall Museum**: indo-sarazenisch, mit einer ägyptischen Mumie und einer guten Textilsammlung aus Rajasthan.\n\n**Amber Fort** in den Ganztagsvarianten.\n\n**Was nicht enthalten ist**\n\nMonumentstickets. Rechnen Sie mit rund 1.500 ₹ pro ausländischem Erwachsenen, wenn Sie alle großen Stätten betreten, weniger, wenn Sie den Hawa Mahal wie die meisten von der Straße fotografieren.",
+  "highlights": [
+   "Erkunden Sie den Hawa Mahal, den Palast der Winde, bekannt für seine Bienenwabenfassade"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die gesamte Tour",
+   "Staatlich zugelassener örtlicher Experte als Guide",
+   "Mittagessen im Restaurant (wenn die Option gewählt ist)",
+   "Flasche Mineralwasser",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für die Monumente",
+   "Alle persönlichen Ausgaben"
+  ]
+ },
+ "jaipur-private-full-day-city-tour-with-female-tour": {
+  "title": "Jaipur: privater Ganztag in der Stadt mit weiblichem Guide",
+  "metaTitle": "Jaipur: privater Ganztag mit weiblichem Guide",
+  "metaDescription": "Ein ganzer Tag durch Jaipurs Forts und Paläste mit einer lizenzierten Guide, privatem Wagen und Fahrer. Rund 8,5 Stunden, von Hotel zu Hotel.",
+  "shortDescription": "Ein ganzer Tag durch Jaipurs Forts und Paläste mit einer lizenzierten Guide, privatem Wagen und Fahrer. Rund 8,5 Stunden, von Hotel zu Hotel.",
+  "fullDescription": "**Warum es diese Tour gibt**\n\nDas Führen in Rajasthan machen überwiegend Männer. Viele Reisende, allein reisende Frauen, Mütter mit Töchtern, ältere Paare, würden neun Stunden einfach lieber mit einer Frau verbringen, und bis vor kurzem gab es keinen einfachen Weg, danach zu fragen. Diese Tour macht es zum Normalfall und nicht zum Gefallen.\n\nDie Guides, die sie führen, sind vom Tourismusministerium Rajasthans lizenziert, dieselbe Qualifikation, die ihre männlichen Kollegen haben. Sie tauschen keine Sachkenntnis gegen Komfort.\n\n**Der Tag**\n\nDie Abholung ist an Ihrem Hotel, und der Wagen bleibt den ganzen Tag bei Ihnen, was mehr zählt, als es klingt: das Amber Fort liegt 11 km außerhalb, der Jal Mahal auf dem Rückweg, und die Altstadtstätten liegen beieinander, sind aber in der Hitze des Mai nicht zu Fuß zu machen.\n\nZuerst das **Amber Fort**, bevor der Andrang dichter wird. Das Sheesh Mahal ist der Raum, den alle fotografieren, Tausende Spiegelsplitter so gesetzt, dass einst eine einzige Kerze die ganze Kammer erhellte, aber das Ganesh-Pol-Tor und der terrassierte Garten am Maota-See darunter sind die Teile, an die man sich erinnert.\n\n**Jal Mahal**, ein Fotostopp. Der Palast steht im Man-Sagar-See, vier seiner fünf Geschosse unter Wasser; hinein kann man nicht, und niemand behauptet etwas anderes.\n\n**Hawa Mahal**, die Bienenwabenfassade mit 953 Fenstern. Er wurde gebaut, damit die Frauen des Hofes die Straßenprozessionen ungesehen verfolgen konnten, was ihn zu einem etwas anderen Gebäude macht, sobald man das weiß.\n\n**City Palace**, teils noch Wohnsitz der früheren königlichen Familie, und daneben **Jantar Mantar**, ein Observatorium aus dem 18. Jahrhundert mit Steininstrumenten, die die Zeit noch auf zwei Sekunden genau angeben.\n\n**Zu den Eintrittsgebühren**\n\nTickets sind nicht in der Basisrate. Amber Fort, City Palace und Jantar Mantar zusammen kommen auf rund 1.500 ₹ pro ausländischem Erwachsenen. Ihre Guide sagt Ihnen, welche am Tag Ihres Besuchs den Innenbesuch wert sind.\n\n**Optionen**\n\nEs gibt eine Rate nur mit Guide, wenn Sie schon einen Wagen haben, eine Rate mit Wagen und Guide, und eine Variante mit Mittagessen in einem rajasthanischen Restaurant.",
+  "highlights": [
+   "Erkunden Sie das königliche Erbe Jaipurs mit einer professionellen Reiseleiterin"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die gesamte Tour",
+   "Staatlich zugelassene örtliche Expertin als Guide",
+   "Mittagessen im Restaurant (wenn die Option gewählt ist)",
+   "Flasche Mineralwasser",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Alle persönlichen Ausgaben"
+  ]
+ },
+ "jaipur-3-hour-morning-bike-tour-of-jaipur-old": {
+  "title": "Jaipur: 3-stündige Morgentour mit dem Rad durch die Altstadt",
+  "metaTitle": "Jaipur: Altstadt mit dem Rad, 3 Stunden am Morgen",
+  "metaDescription": "Eine dreistündige Radtour am Morgen durch Jaipurs Altstadt auf einem richtigen Rennrad, bevor der Verkehr einsetzt. Kleine Gruppe, früher Start.",
+  "shortDescription": "Eine dreistündige Radtour am Morgen durch Jaipurs Altstadt auf einem richtigen Rennrad, bevor der Verkehr einsetzt. Klein und früh.",
+  "fullDescription": "**Die Altstadt um 6 Uhr morgens, auf dem Rad, bevor sie erwacht.**\n\nJaipurs Mauerstadt ist in Indien ungewöhnlich: 1727 auf einem strengen Raster angelegt, mit breiten Hauptachsen. Dieses Raster macht Radfahren hier überhaupt möglich, und der frühe Morgen macht es angenehm: die Straßen sind leer, das Licht ist gut, und die Temperatur ist noch kein Streitpunkt.\n\nGegen neun wäre dieselbe Strecke nicht fahrbar.\n\n**Was Sie sehen**\n\nDas **Raster selbst**, und darum geht es: neun rechteckige Sektoren nach einem vedischen Plan, mit den Basaren an den Hauptachsen und den Wohngassen dahinter. Nichts sonst in Indien wurde im achtzehnten Jahrhundert so gebaut.\n\nDie **Basare** beim Erwachen: Rollläden gehen hoch, die ersten Lieferungen, Blumenverkäufer fädeln Ringelblumen, Milch kommt in Stahlkannen.\n\nDer **Hawa Mahal** mit niemandem davor, was etwa eine Stunde am Tag vorkommt.\n\nDie **Morgenrituale**: Tempelglocken, Menschen, die an den Stufenbecken baden, Chai-Stände, die anheizen.\n\nUnd die Gassen hinter den Basarfronten, wo Stoffdrucker und Lackarmreifenmacher mit der Arbeit beginnen.\n\n**Die Räder**\n\nRichtige Renn- und Hybridräder, Trek, Giant und Merida, und nicht, was im Schuppen stand. Helme werden gestellt.\n\n**Inklusive**\n\nHochwertige Räder und ein Guide.\n\n**Gut zu wissen**\n\n- **Es beginnt früh**, gegen 6 bis 6:30, und das ist nicht verhandelbar: es ist der ganze Grund, warum die Tour funktioniert.\n- Das Gelände ist flach und das Tempo gemächlich. **Grundlegendes Radfahren genügt**; das ist keine Sportfahrt.\n- Indischer Verkehr bleibt indischer Verkehr, auch um sechs. Bleiben Sie hinter dem Guide, dann geht es gut.\n- **Oktober bis März** ist angenehm. Im Mai und Juni ist sogar 6 Uhr morgens warm.\n- Nehmen Sie eine Sonnenbrille und etwas gegen Staub mit.\n\n**Für wen sie passt**\n\nFür Frühaufsteher, Radfahrer, Fotografen und alle, die Jaipur sehen wollen, bevor es für Besucher auftritt.",
+  "highlights": [
+   "Ein Team von 3 bis 4 erfahrenen Guides sorgt auf der Radtour für die Sicherheit der Gäste"
+  ],
+  "included": [
+   "Enthalten:",
+   "Hochwertige Räder: Trek, Giant und Merida sind die Marken, die wir auf unseren Touren nutzen. Wir haben Räder in allen Größen, einschließlich Anhängestangen für Kinder und Tandems für Nichtfahrer und Paare",
+   "Helme in guter Qualität.",
+   "Ein Team von 3 bis 4 erfahrenen Radguides, die vorne und hinten fahren und darauf achten, dass alle sicher unterwegs sind.",
+   "Ein Begleitfahrzeug (Elektrorikscha), das der Gruppe folgt."
+  ],
+  "notIncluded": [
+   "Bitte beachten Sie, dass Transfers zum und vom Hotel nicht im Tourpreis enthalten sind."
+  ]
+ },
+ "jaipur-namaste-bollywood-l-dance-like-a-star": {
+  "title": "Jaipur: Namaste Bollywood, tanzen wie ein Star",
+  "metaTitle": "Jaipur: Namaste Bollywood, tanzen wie ein Star",
+  "metaDescription": "Ein Bollywood-Tanzkurs in Jaipur mit einem professionellen Lehrer, in der Gruppe oder privat. Choreografie, Musik und ein Video Ihrer Nummer.",
+  "shortDescription": "Ein Bollywood-Tanzkurs in Jaipur mit einem professionellen Lehrer, in der öffentlichen Gruppe oder privat. Choreografie, Musik und ein Video Ihrer Nummer.",
+  "fullDescription": "**Lernen Sie eine echte Nummer, schlecht, und haben Sie riesigen Spaß dabei.**\n\nBollywood-Tanz ist in Indien nicht dekorativ: er ist die Art, wie ein sehr großer Teil der meistgesehenen Filme des Landes sich ausdrückt, und auf jeder Hochzeit, an der Sie in Jaipur vorbeikommen, machen Leute diese Schritte.\n\nEin professioneller Lehrer bringt Ihnen eine vollständige Choreografie zu einem bekannten Lied bei. Die ersten zwanzig Minuten werden Sie schlecht darin sein und am Ende deutlich weniger schlecht, und das ist der ganze Bogen der Sache.\n\n**Was passiert**\n\nAufwärmen, dann die Choreografie in Teile zerlegt und wieder zusammengesetzt. Der Lehrer wählt ein Lied und einen Stil, klassisches Bollywood oder etwas Zeitgenössischeres, und es gibt eine **kulturelle Einführung** dazu, woher die Bewegungen kommen, denn Bollywood-Tanz borgt offen bei Kathak, Bhangra, Volksformen und westlichem Pop.\n\nAm Ende laufen Sie die ganze Nummer durch, und auf Wunsch wird ein **Video aufgenommen**, damit Sie einen Beweis haben.\n\n**Optionen**\n\nDrei bei der Buchung: **öffentliche Gruppe**, **ganz privat**, oder öffentliche Gruppe mit privatem Lehrer.\n\n**Inklusive**\n\nEin Tanzkurs mit einem professionellen Lehrer, auf Wunsch ein Video Ihres Tanzes, und eine kulturelle Einführung.\n\n**Gut zu wissen**\n\n- **Tanzerfahrung ist nicht nötig.** Der Kurs ist für Leute gemacht, die das noch nie getan haben.\n- Tragen Sie etwas, in dem Sie sich bewegen können, und Schuhe, in denen Sie drehen können. Turnschuhe sind gut, Flip-Flops nicht.\n- Die private Variante lohnt, wenn Sie sich unwohl fühlen, die Gruppe lohnt, wenn nicht.\n- Es ist eine Stunde lang wirklich Sport. Bringen Sie Wasser mit.\n- Gut für alle Altersgruppen: Kinder nehmen die Schritte meist schneller auf als ihre Eltern.\n\n**Für wen es passt**\n\nFür Familien, Freundesgruppen, alle, die einen Anlass feiern, und Reisende, die in Jaipur eine Sache wollen, die kein Gebäude ist.",
+  "highlights": [
+   "Spüren Sie den Rhythmus Indiens, während Sie traditionelle Tanzschritte lernen"
+  ],
+  "included": [
+   "Tanzkurs mit einem professionellen Lehrer",
+   "Video Ihres Tanzes auf Wunsch",
+   "Kulturelle Einführung in den indischen Tanz"
+  ],
+  "notIncluded": [
+   "Der Transport zum und vom Tanzinstitut",
+   "Die Miete traditioneller Kleidung",
+   "Der Henna-Tattoo-Service"
+  ]
+ },
+ "jaipur-authentic-home-cooking-class-with-a-local-f": {
+  "title": "Jaipur: authentischer Kochkurs bei einer einheimischen Familie",
+  "metaTitle": "Jaipur: Kochkurs bei einer einheimischen Familie",
+  "metaDescription": "Ein praktischer rajasthanischer Kochkurs in einer echten Familienküche in Jaipur, alle Zutaten gestellt. In kleiner Gruppe oder privat.",
+  "shortDescription": "Ein praktischer rajasthanischer Kochkurs in einer echten Familienküche in Jaipur, alle Zutaten gestellt. Kleine Gruppe oder privat.",
+  "fullDescription": "**Eine echte Küche, und Ihre Hände im Essen.**\n\nDas ist keine Vorführung mit einem Küchenchef hinter einer Theke. Sie sind in einem Familienhaus, kochen, was dort gekocht wird, und essen es danach mit der Familie.\n\n**Warum rajasthanisches Essen anders ist**\n\nDie Wüste hat es geformt. Wasser war knapp, also wurde stattdessen in Ghee und Buttermilch gekocht. Frisches Gemüse war knapp, also trugen Linsen, Kichererbsenmehl und getrocknete Bohnen den Teller. Essen musste sich ohne Kühlung Tage halten, und deshalb ist so viel davon trocken gewürzt statt saucig.\n\nWenn Sie das wissen, ergibt die ganze Küche Sinn, und genau das lehrt ein guter Kurs hier neben den Rezepten.\n\n**Was Sie wahrscheinlich kochen**\n\n**Dal Baati Churma**, das Gericht des Bundesstaats: harte Weizenbrötchen, gebacken bis sie aufreißen, in Ghee gebrochen, mit einem gewürzten Dal und einem süßen, zerbröselten Churma daneben.\n\n**Gatte ki Sabzi**, Klößchen aus Kichererbsenmehl in einem Joghurt-Curry gesimmert, erfunden eben deshalb, weil es kein Gemüse dafür gab.\n\nDazu ein Brot auf dem Tawa, Reis, und was Saison hat. Die Gewürzdose kommt früh heraus und wird erklärt, und das ist der Teil, von dem die meisten Gäste sagen, dass er ihr Kochen zu Hause verändert hat.\n\n**Optionen**\n\nVier bei der Buchung: Kurse in kleiner Gruppe und ganz private Varianten.\n\n**Inklusive**\n\nAlle frischen Zutaten, Gemüse und Gewürze, und ein zu 100 % praktischer Kurs in einer echten Familienküche.\n\n**Gut zu wissen**\n\n- **Nennen Sie Allergien oder Ernährungswünsche bei der Buchung**, nicht am Tag selbst: die Speisenfolge wird darum herum geplant.\n- Rajasthanisches Hausessen ist scharf und reich an Ghee. Sagen Sie, wenn Sie es milder möchten; das stört niemanden.\n- Das ist ein Privathaus. Die Schuhe kommen meist an der Tür aus, und man kleidet sich, wie man jemanden besucht.\n- **Bitten Sie vor dem Gehen um die Rezepte schriftlich.** Die meisten Gäste wünschen sich hinterher, sie hätten es getan.\n- Sie essen am Ende, buchen Sie also danach kein Abendessen.\n\n**Für wen es passt**\n\nFür alle, die zu Hause kochen, für Reisende, die eine Pause von Forts wollen, und für Besucher, die neugierig sind, warum rajasthanisches Essen nichts wie das indische Essen schmeckt, das sie kennen.",
+  "highlights": [
+   "Lernen Sie, traditionelle indische Gerichte mit einer einheimischen Familie zu kochen"
+  ],
+  "included": [
+   "Alle frischen Zutaten, Gemüse und Gewürze",
+   "Zu 100 % praktischer Kochkurs in einem echten Familienhaus",
+   "Mahlzeit ohne Limit: das Thali, das Sie selbst gekocht haben",
+   "Willkommensgetränk und hausgemachtes Dessert",
+   "Trinkwasser in Flaschen",
+   "E-Book mit Familienrezepten für daheim"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt am Hotel",
+   "Der Transport zu und von unserem Haus"
+  ]
+ },
+ "jaipur-food-walk-l-eat-just-like-locals": {
+  "title": "Jaipur: Food Walk, essen wie die Einheimischen",
+  "metaTitle": "Jaipur: Food Walk, essen wie die Einheimischen",
+  "metaDescription": "Ein geführter Food Walk durch Jaipur mit Proben an mehreren Stopps, mit vegetarischen und veganen Optionen. In der Gruppe oder privat.",
+  "shortDescription": "Ein geführter Food Walk durch Jaipur mit Proben an mehreren Stopps, mit vegetarischen und veganfreundlichen Optionen. In der Gruppe oder privat.",
+  "fullDescription": "**Wo Jaipur tatsächlich isst.**\n\nEin kulinarischer Guide führt Sie durch die Altstadt und hält an Adressen, die danach ausgewählt sind, was jede gut macht, und nicht danach, welche am nächsten liegt. In Jaipur zählt dieser Unterschied, denn mehrere der besten Läden machen seit drei Generationen nur eine Sache.\n\n**Was Sie wahrscheinlich essen**\n\n**Pyaaz Kachori**, das blättrige Gebäck mit gewürzter Zwiebelfüllung, das Rajasthan besser macht als alle anderen. Heiß gegessen, und so soll es sein.\n\n**Mirchi Bada**, eine ganze grüne Chili im Kichererbsenmehlteig, weniger brutal als es klingt und der Grund, warum Leute ein zweites bestellen.\n\n**Ghewar**, die scheibenförmige, wabenartige Süßigkeit in Sirup getränkt. Sie wird nur in Rajasthan richtig gemacht und ist mit keiner anderen indischen Süßigkeit vergleichbar.\n\n**Lassi** im Tonbecher, den man danach wegwirft, **Masala Chai** aus einem Topf, der seit dem Morgen läuft, und **Kulfi** zum Schluss.\n\nDazu Chaat in richtiger Form, Papdi, Aloo Tikki, Dahi Bhalla, und was Saison hat.\n\n**Optionen**\n\nDrei bei der Buchung: zwei Gruppenvarianten und ein **privater Food Walk**.\n\n**Inklusive**\n\nEin kulinarischer Guide, Proben an mehreren Adressen, und vegetarische oder veganfreundliche Optionen.\n\n**Gut zu wissen**\n\n- **Kommen Sie hungrig.** Leute unterschätzen durchgehend, wie viel Essen das ist.\n- **Vegan wird wirklich bedacht**, was auf einer Streetfood-Tour unüblich ist: sagen Sie es bei der Buchung, dann passt sich die Route an.\n- Ihr Guide wählt die Stände: hoher Durchsatz, vor Ihnen gekocht. Trinken Sie nur Wasser aus Flaschen.\n- **Ghewar ist saisonal**, vor allem um Teej und Raksha Bandhan. Außerhalb der Saison sagt Ihr Guide das, statt still etwas zu ersetzen.\n- Zu Fuß durch enge Gassen. Bequeme Schuhe und eine Tasche, die Sie vor sich tragen.\n\n**Für wen es passt**\n\nFür Reisende mit Interesse am Essen, für Veganer, die auf Foodtouren meist zu kurz kommen, und für alle, die die Forts hinter sich haben.",
+  "highlights": [
+   "Genießen Sie die Aromen authentischer nordindischer Spezialitäten und des Streetfood"
+  ],
+  "included": [
+   "Kulinarischer Guide",
+   "Essensproben an mehreren Adressen",
+   "Vegetarische und veganfreundliche Optionen",
+   "Hausgemachtes Dessert",
+   "Händedesinfektion und Servietten"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt am Hotel",
+   "Trinkgelder"
+  ]
+ },
+ "jaipur-elefantastic-elephant-sanctuary-tour": {
+  "title": "Jaipur: Besuch im Elefantenschutzzentrum Elefantastic",
+  "metaTitle": "Jaipur: Elefantenschutzzentrum Elefantastic",
+  "metaDescription": "Zwei Stunden bei Elefantastic, einem familiengeführten Elefantenschutzzentrum bei Jaipur, wo jeder Elefant seinen eigenen Pfleger hat. Kein Reiten.",
+  "shortDescription": "Zwei Stunden bei Elefantastic, einem familiengeführten Elefantenschutzzentrum bei Jaipur, wo jeder Elefant seinen eigenen Pfleger hat. Kein Reiten.",
+  "fullDescription": "**Ein Schutzzentrum, in dem die Elefanten niemanden tragen.**\n\nJaipur hat eine lange und unangenehme Geschichte mit Elefantenritten die Rampe des Amer Fort hinauf. **Elefantastic** existiert als Alternative: ein familiengeführtes Schutzzentrum, in dem gerettete und aus dem Dienst genommene Elefanten leben, jeder mit seinem eigenen **Mahout**, der meist seit Jahren bei diesem Tier ist.\n\nHier reitet sie niemand.\n\n**Was Sie tun**\n\nSie treffen die Elefanten und ihre Pfleger, die Ihnen erzählen, woher jedes Tier kommt; mehrere waren vorher auf der Fortrampe oder im Bettelbetrieb der Straße. Sie füttern sie, und die Mengen überraschen: Zuckerrohr und Bananen in Armladungen.\n\nSie gehen mit ihnen. Je nach Tag helfen Sie beim Baden, was sie erheblich mehr genießen, als Sie trocken bleiben werden.\n\nUnd es bleibt Zeit, einfach in ihrer Nähe zu sein, und das ist der Teil, an den sich die meisten Besucher erinnern. Ein Elefant in Ruhe, von nah und ohne Auftritt, ist ein anderes Tier als einer, der mit Touristen auf dem Rücken eine Rampe hinaufgeht.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel, Willkommensgetränke bei der Ankunft, und ein Guide.\n\n**Gut zu wissen**\n\n- **Kein Reiten.** Wenn Ihnen ein Anbieter in Jaipur einen Elefantenritt anbietet, ist das eine andere Art von Geschäft.\n- Tragen Sie Kleidung, bei der es nicht schlimm ist, wenn sie hinüber ist, falls Sie beim Baden mithelfen. Sie werden nass und schlammig.\n- **Elefanten sind groß und unberechenbar.** Hören Sie auf den Mahout; die Anweisungen sind nicht dekorativ.\n- **Der Morgen ist besser**: kühler für die Tiere und für Sie, und sie sind aktiver.\n- Zwei Stunden ist der Standardbesuch. Das genügt, und es überzieht die Geduld der Tiere nicht.\n\n**Für wen es passt**\n\nFür Familien mit Kindern, für Reisende, die Elefanten sehen wollen, ohne sie zu reiten, und für alle, denen unwohl ist bei dem, was auf der Amer-Rampe passiert.",
+  "highlights": [
+   "Ein einmaliges, unglaublich fürsorgliches Erlebnis"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel",
+   "Willkommensgetränke bei der Ankunft",
+   "Guide"
+  ],
+  "notIncluded": [
+   "Trinkgelder für das Personal."
+  ]
+ },
+ "jaipur-traditional-cooking-class-and-storytelling-": {
+  "title": "Jaipur: traditioneller Kochkurs und Erzählabend",
+  "metaTitle": "Jaipur: traditioneller Kochkurs und Erzählabend",
+  "metaDescription": "Ein traditioneller Kochkurs mit Geschichten im Haus des Gastgebers in Jaipur, danach Abendessen. Dreieinhalb Stunden, Gewürzkorb zum Mitnehmen.",
+  "shortDescription": "Ein traditioneller Kochkurs mit Geschichten im Haus des Gastgebers in Jaipur, danach Abendessen. Dreieinhalb Stunden.",
+  "fullDescription": "**Kochen, und die Geschichten, die zu den Gerichten gehören.**\n\nWas das hier von einem üblichen Kurs unterscheidet, sind die Geschichten. Rajasthanische Gerichte tragen ihre Geschichte offen: **Dal Baati** wurde von Rajputen-Heeren gekocht, weil Baati im Sand backen und sich Tage halten konnte; **Ker Sangri** existiert, weil das die einzigen zwei Dinge waren, die die Wüste zuverlässig hervorbrachte; **Gatte ki Sabzi** ist Kichererbsenmehl, das für Gemüse einsteht, das nicht da war.\n\nIhr Gastgeber erzählt Ihnen das, während Sie kochen, im eigenen Haus.\n\n**Was Sie machen**\n\nJe nach Tag und Jahreszeit: **Dal Baati Churma**, Weizenbrötchen, gebacken bis sie aufreißen, in Ghee gebrochen, mit Dal und einer süßen Bröselmasse. **Gatte ki Sabzi**, Klößchen aus Kichererbsenmehl in einem Joghurt-Curry. Ein Brot auf dem Tawa. Reis, und welches Gemüse diese Woche gut ist.\n\nDie Gewürzdose wird früh geöffnet und erklärt, und das ist es, was die Leute nach Hause tragen: was Kreuzkümmel tut, was Koriander nicht tut, warum Garam Masala zuletzt und Kurkuma zuerst hineinkommt, wofür Asant gut ist.\n\nDann Abendessen, mit der Familie, von dem, was Sie gemacht haben.\n\n**Inklusive**\n\nEin Kochkurs im Haus des Gastgebers, und Abendessen im Anschluss an die Praxiseinheit.\n\n**Gut zu wissen**\n\n- **Nennen Sie Allergien oder Ernährungswünsche bei der Buchung.** Rajasthanisches Hausessen ist ohnehin weitgehend vegetarisch.\n- Es ist reich an Ghee. Das ist die Küche, nicht der Koch.\n- Das ist jemandes Haus: Schuhe an der Tür aus, und kleiden Sie sich wie zu einem Besuch.\n- **Bitten Sie um die Rezepte schriftlich.** Die meisten Gäste vergessen es und bedauern es.\n- Dreieinhalb Stunden, und Sie essen am Ende, buchen Sie also danach kein Restaurant.\n\n**Für wen es passt**\n\nFür Reisende, die das Warum genauso wollen wie das Wie, für alle, die kochen, und für Besucher, die lieber mit einer Familie essen als im Restaurant.",
+  "highlights": [
+   "Erzählabend zu Mythologie durch den Gastgeber, nach Kochkurs und Abendessen"
+  ],
+  "included": [
+   "Ein Kochkurs im Haus des Gastgebers.",
+   "Abendessen im Anschluss an den praktischen Kochkurs",
+   "Erzählabend zu Mythologie, geleitet vom Gastgeber, nach dem Essen",
+   "Gewürzkorb für Gäste (eine Auswahl indischer Gewürze für die Verwendung im Heimatland)",
+   "Wasser in Flaschen für alles Kochen und Trinken",
+   "Besondere Häppchen und Getränke (ohne Alkohol)",
+   "Abschiedsgeschenk oder Souvenir zum Mitnehmen",
+   "GST (Waren- und Dienstleistungssteuer)",
+   "Wir glauben an ein rundes Erlebnis und stellen daher alles bereit, was in unserer Reichweite liegt, um unseren Gästen das Beste zu bieten."
+  ],
+  "notIncluded": [
+   "Leider servieren wir weder Alkohol oder klassifizierte Substanzen, noch erlauben wir deren Gebrauch während unserer Sitzungen."
+  ]
+ },
+ "from-delhi-private-jaipur-amber-fort-guided-tour-b": {
+  "title": "Ab Delhi: Jaipur und Amber Fort im Wagen, private Führung",
+  "metaTitle": "Ab Delhi: Jaipur und Amber Fort im Wagen",
+  "metaDescription": "Jaipur und Amber Fort ab Delhi mit Guide, Wagen und Eintrittskarten. Vier Optionen, darunter eine Variante nur mit Guide.",
+  "shortDescription": "Jaipur und Amber Fort ab Delhi mit Guide, Wagen und Eintrittskarten. Vier Optionen, darunter eine Variante nur mit Guide.",
+  "fullDescription": "**Jaipur an einem Tag ab Delhi, die Tickets sind geregelt.**\n\nDer Eintritt an Jaipurs großen Stätten kommt auf rund 1.600 ₹ pro ausländischem Gast, an vier verschiedenen Kassen. Sie gebündelt zu haben nimmt den mühsamsten Teil aus einem Tag, der ohnehin lang ist.\n\n**Amer Fort**\n\nDer Grund herzukommen. 1592 über dem Maota-See begonnen, außen ein Fort und innen ein Palast. Das **Sheesh Mahal**, wo Tausende konvexer Spiegelplättchen in Wand und Decke eine einzige Kerze durch den Raum vervielfachen. Das bemalte Tor **Ganesh Pol**. Und das **Sukh Niwas**, durch Wasserkanäle im Marmor gekühlt: Klimatisierung des sechzehnten Jahrhunderts auf einem Hügel.\n\n**Die Mauerstadt**\n\n**City Palace**, teils noch von der königlichen Familie bewohnt, mit den beiden Urnen aus Sterlingsilber im Diwan-i-Khas, die noch heute die größten je gefertigten Einzelstücke aus Silber sind. **Hawa Mahal**, die Fassade mit 953 Fenstern. **Jantar Mantar**, wenn die Zeit reicht.\n\n**Optionen**\n\nVier bei der Buchung: nur Guide, Wagen mit Fahrer und Guide, Wagen mit Guide und Tickets, und die All-inclusive-Variante.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel, Transport hin und zurück im klimatisierten Wagen, und Eintrittskarten bei den Optionen, die sie aufführen.\n\n**Gut zu wissen**\n\n- Delhi nach Jaipur sind etwa 270 km, rund fünf Stunden pro Richtung. **Gegen 6 Uhr morgens losfahren ist das, was den Tag funktionieren lässt.**\n- **Amer öffnet um 8 und füllt sich gegen 10:30**: die frühe Abfahrt erkauft Ihnen das Sheesh Mahal ohne Schlange.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.**\n- Die Variante nur mit Guide setzt eigenen Transport voraus. Prüfen Sie, was Sie buchen.\n- **Wenn Sie eine Nacht erübrigen können, übernachten Sie.** Dieselbe Route wird weit angenehmer.\n\n**Für wen sie passt**\n\nFür Reisende mit einem freien Tag in Delhi, und für alle, die nicht an vier Ticketschaltern abrechnen wollen.",
+  "highlights": [
+   "Erkunden Sie das Beste von Jaipur, darunter das Amber Fort und den City Palace"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel",
+   "Transport hin und zurück im klimatisierten Wagen",
+   "Eintrittskarten für die Monumente (wenn die Option gewählt ist)",
+   "Guide",
+   "Mittagessen (wenn die Option gewählt ist)",
+   "Wasserflaschen",
+   "Regenschirme"
+  ],
+  "notIncluded": [
+   "Zusätzliche Getränke",
+   "Trinkgelder"
+  ]
+ },
+ "jaipur-private-city-tour-with-hotel-pick-up-drop": {
+  "title": "Jaipur: private Stadttour mit Abholung am Hotel, 4 bis 8 Std.",
+  "metaTitle": "Jaipur: private Stadttour, 4 bis 8 Stunden",
+  "metaDescription": "Eine private Stadttour durch Jaipur mit Abholung am Hotel oder Flughafen, im Tuk-Tuk oder Wagen, anpassbar. Vier Optionen.",
+  "shortDescription": "Eine private Stadttour durch Jaipur mit Abholung am Hotel oder Flughafen, im Tuk-Tuk oder Wagen, anpassbar. Vier Optionen, bis zu neuneinhalb Stunden.",
+  "fullDescription": "**Anpassbar, und Sie wählen das Fahrzeug.**\n\nVier Optionen für **Tuk-Tuk** und **Wagen**, halber und ganzer Tag, und eine vollständig **individuelle** Variante, bei der Sie die Stopps festlegen.\n\nDie Fahrzeugwahl ist hier nicht kosmetisch. Ein Tuk-Tuk kommt in die Basargassen der Altstadt, die ein Wagen umfahren muss; ein Wagen ist klimatisiert, was von April bis September den Tag völlig verändert.\n\n**Was Sie sehen könnten**\n\n**Amer Fort** über dem Maota-See: den Spiegelsaal **Sheesh Mahal**, das bemalte **Ganesh Pol**, und das **Sukh Niwas**, gekühlt durch Wasserkanäle im Marmor.\n\n**City Palace**, teils noch königliche Residenz, mit den beiden riesigen Urnen aus Sterlingsilber im Diwan-i-Khas.\n\n**Jantar Mantar**, neunzehn funktionierende Steininstrumente, darunter eine 27 Meter hohe Sonnenuhr, genau auf zwei Sekunden.\n\n**Hawa Mahal**, die Fassade mit 953 Fenstern, von innen gesehen, was die meisten Besucher weglassen.\n\nIn der individuellen Variante außerdem: **Panna Meena ka Kund**, der Stufenbrunnen unterhalb von Amer; **Nahargarh** zum Sonnenuntergang; **Patrika Gate** für die bemalten Bögen; oder die Basare.\n\n**Optionen**\n\nVier bei der Buchung: Tuk-Tuk mit Guide, private individuelle Variante, und zwei Ganztagsvarianten im Wagen.\n\n**Inklusive**\n\nUnterstützung bei Abholung und Rückfahrt am Flughafen oder Hotel, und ein privater klimatisierter Wagen mit Fahrer oder ein Tuk-Tuk, je nach Option.\n\n**Gut zu wissen**\n\n- **Nennen Sie uns bei der Buchung Ihre Prioritäten**, wenn Sie die individuelle Variante nehmen: nur so kann der Guide eine Route planen statt sie zu improvisieren.\n- Eintritt für ausländische Gäste: Amer 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Hawa Mahal 200 ₹.\n- **Amer öffnet um 8 und füllt sich gegen 10:30.** Fangen Sie bei jeder Option, die es enthält, dort an.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.**\n- Vier oder fünf Stopps sind ein bequemer Tag; sieben sind Hetze.\n\n**Für wen sie passt**\n\nFür Wiederkehrer, für Reisende mit bestimmten Interessen, und für alle, die sowohl die Route als auch das Fahrzeug wählen wollen.",
+  "highlights": [
+   "Genießen Sie den Komfort eines privaten klimatisierten Wagens mit professionellem Fahrer und privatem Guide"
+  ],
+  "included": [
+   "Unterstützung bei Abholung und Rückfahrt am Flughafen oder Hotel.",
+   "Privater klimatisierter Wagen mit Fahrer.",
+   "Guide vor Ort an allen Stationen.",
+   "Eintrittskarten für die Monumente an allen Stationen (wenn die Option gebucht ist)",
+   "Flaschen Mineralwasser.",
+   "Alle Maut-, Park- und Steuerkosten."
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke.",
+   "Persönliche Ausgaben.",
+   "Trinkgelder."
+  ]
+ },
+ "private-jaipur-city-tour-from-delhi-by-car": {
+  "title": "Private Stadttour nach Jaipur ab Delhi im Wagen",
+  "metaTitle": "Private Stadttour nach Jaipur ab Delhi im Wagen",
+  "metaDescription": "Eine private Stadttour nach Jaipur ab Delhi im Wagen, mit oder ohne Monumentstickets. Dreizehn Stunden, privater Guide durchgehend.",
+  "shortDescription": "Eine private Stadttour nach Jaipur ab Delhi im Wagen, mit oder ohne Monumentstickets. Dreizehn Stunden, privater Guide durchgehend.",
+  "fullDescription": "**Ein Wagen, ein Guide, Delhi nach Jaipur und zurück.**\n\nDie unkomplizierte Variante: ein privates klimatisiertes Fahrzeug für jeden Kilometer, ein privater Guide für die Besichtigungen, und die Wahl, ob die Monumentstickets gebündelt sind oder am Tor bezahlt werden.\n\n**Was Sie sehen**\n\n**Amer Fort**, 1592 von Raja Man Singh begonnen, über dem Maota-See. Der Spiegelsaal **Sheesh Mahal**: die Geschichte sagt, die Königin durfte nicht im Freien schlafen, also wurde ihr eine Decke aus Sternen im Inneren gebaut. Das Tor **Ganesh Pol** mit Fresken, die nach vier Jahrhunderten noch Farbe halten. Das **Sukh Niwas**, gekühlt von Wasser, das durch Kanäle im Marmor läuft.\n\n**City Palace**, teils noch von der königlichen Familie bewohnt. Die Kostümsammlung des Mubarak Mahal, die beiden riesigen Silberurnen, und die vier bemalten Jahreszeitentore des Pritam Niwas Chowk.\n\n**Hawa Mahal** und **Jantar Mantar**, soweit die Stunden es zulassen, und **Jal Mahal** am See.\n\n**Optionen**\n\nZwei bei der Buchung: **mit** oder **ohne** Monumentstickets.\n\n**Inklusive**\n\nEin privates klimatisiertes Fahrzeug für alle Transfers und Besichtigungen, und die Dienste eines privaten Guides. Die Tickets hängen von der Option ab.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer 500 ₹, City Palace 700 ₹, Hawa Mahal 200 ₹, Jantar Mantar 200 ₹, also rund 1.600 ₹, wenn Sie am Tor zahlen.\n- **Dreizehn Stunden von Tür zu Tür**, fünf pro Richtung auf der Straße. Delhi gegen 6 Uhr morgens zu verlassen lässt es funktionieren.\n- **Amer öffnet um 8 und füllt sich gegen 10:30.**\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.**\n- Wenn Sie eine Nacht erübrigen können, ist die Variante dieser Route mit Übernachtung erheblich angenehmer.\n\n**Für wen sie passt**\n\nFür Reisende mit einem freien Tag in Delhi, und für alle, die eine einzige klare Buchung einem Menü von Optionen vorziehen.",
+  "highlights": [
+   "Entdecken Sie Jaipurs majestätische Forts, Paläste und königliches Erbe an einem Tag"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug für alle Transfers und Besichtigungen",
+   "Dienste eines privaten Guides vor Ort während der gesamten Route",
+   "Vorab gebuchte Eintrittskarten für die Monumente (nur enthalten, wenn die Option mit Tickets gewählt ist)",
+   "Trinkwasser in Flaschen und Regenschirme gratis",
+   "Alle Park-, Maut- und Kraftstoffkosten sowie anfallende Steuern enthalten"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben jeder Art",
+   "Trinkgelder für Guide und Fahrer",
+   "Mahlzeiten (als Zusatzleistung buchbar)"
+  ]
+ },
+ "from-jaipur-one-day-trip-to-ranthambore-tiger-safa": {
+  "title": "Ab Jaipur: Tagesausflug zur Tigersafari in Ranthambore",
+  "metaTitle": "Ab Jaipur: Tagesausflug zur Tigersafari Ranthambore",
+  "metaDescription": "Ein Tagesausflug zur Tigersafari in Ranthambore ab Jaipur mit Abholung am Hotel und klimatisiertem Transfer. Vierzehn Stunden, zwei Optionen.",
+  "shortDescription": "Ein Tagesausflug zur Tigersafari in Ranthambore ab Jaipur mit Abholung am Hotel und klimatisiertem Transfer. Vierzehn Stunden, zwei Optionen.",
+  "fullDescription": "**Eine Safari, und am selben Abend zurück in Ihrem Hotel in Jaipur.**\n\nRanthambore liegt etwa vier Stunden von Jaipur. Es als Tagesausflug zu machen heißt eine Safari statt zwei, und das zählt: Sichtungen hängen von Zone, Zeitpunkt und Glück ab, ein einziger Versuch ist also etwas wirklich anderes als zwei. Was Sie behalten, ist Ihr Hotel und Ihr Zeitplan.\n\n**Der Park**\n\nUm ein Fort aus dem 10. Jahrhundert herum entstanden, mit trockenem Laubwald, der darum aufgewachsen ist. Alte Tore, Chhatris und ein Stufenbrunnen liegen über das Reservat verstreut, was Ranthambore ein Aussehen gibt, das kein anderer indischer Park hat.\n\nEs hat eine echte Tigerpopulation, und die Tiere hier sind an Fahrzeuge gewöhnt, was die Sichtungsquoten erklärt. Dazu **Leopard**, **Lippenbär**, **Sambar**, **Sumpfkrokodil**, und eine lange Vogelliste.\n\n**Optionen**\n\nZwei bei der Buchung, die sich darin unterscheiden, was gebündelt ist.\n\n**Inklusive**\n\nAbholung und Rückfahrt an Ihrem Hotel oder am Flughafen, und Transport im klimatisierten Fahrzeug.\n\n**Gut zu wissen**\n\n- **Der Park ist vom 1. Juli bis 30. September geschlossen**, wegen des Monsuns. Die Zonen 6 bis 10 bleiben manchmal offen, die Kernzonen nicht.\n- **Safariplätze werden staatlich zugeteilt, sind begrenzt und sind ausverkauft** in der Saison und um indische Feiertage. Buchen Sie so früh wie möglich.\n- **Die Zone teilt die Forstbehörde zu, sie wird nicht gewählt.** Niemand kann ehrlicherweise eine bestimmte anfordern.\n- **Kein Tiger ist garantiert.** Jeder Anbieter, der einen verspricht, lügt.\n- Vierzehn Stunden von Tür zu Tür, davon acht im Auto, für eine Safari. **Wenn Sie eine Nacht erübrigen können, verdoppelt die Zwei-Tage-Variante Ihre Chancen etwa.**\n- Offene Fahrzeuge sind von Dezember bis Februar im Morgengrauen richtig kalt. Ziehen Sie sich in Schichten an.\n\n**Für wen es passt**\n\nFür Reisende, die keine Übernachtung erübrigen können, und für alle, die lieber einen ehrlichen Versuch auf einen Tiger machen als ihn ganz auszulassen.",
+  "highlights": [
+   "Erkunden Sie die aufregende Tierwelt des Ranthambore-Nationalparks"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Transport im klimatisierten Fahrzeug",
+   "Transfer hin und zurück von Jaipur zum Ranthambore-Nationalpark",
+   "Eintrittsgebühr des Parks und Safarikosten (Jeep oder Canter) (wenn die Option gewählt ist)",
+   "Kraftstoffkosten, Parken, Maut und alle weiteren Steuern",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke",
+   "Persönliche Ausgaben",
+   "Trinkgelder (freiwillig)"
+  ]
+ },
+ "from-delhi-all-inclusive-same-day-jaipur-tour-by": {
+  "title": "Ab Delhi: Jaipur an einem Tag, all inclusive im Wagen",
+  "metaTitle": "Ab Delhi: Jaipur an einem Tag, all inclusive",
+  "metaDescription": "Eine All-inclusive-Tagestour nach Jaipur ab Delhi im privaten Wagen, mit drei Optionen, darunter eine Variante nur in Jaipur.",
+  "shortDescription": "Eine All-inclusive-Tagestour nach Jaipur ab Delhi im privaten Wagen, mit drei Optionen, darunter eine Variante nur in Jaipur.",
+  "fullDescription": "**Alles geregelt, Delhi nach Jaipur und zurück.**\n\nDie All-inclusive-Variante: privater Wagen hin und zurück, Guide, und die Besichtigungen arrangiert, sodass am Tag selbst nichts mehr zu klären ist.\n\n**Was Sie sehen**\n\n**Amer Fort** über dem Maota-See, 1592 begonnen: der Spiegelsaal **Sheesh Mahal**, das bemalte Tor **Ganesh Pol**, und das **Sukh Niwas**, gekühlt durch Wasserkanäle im Marmor.\n\n**City Palace**, teils noch königliche Residenz, mit den Textilien des Mubarak Mahal und den beiden Urnen aus Sterlingsilber im Diwan-i-Khas.\n\n**Jantar Mantar**, neunzehn Steininstrumente, die noch funktionieren, darunter die 27 Meter hohe Sonnenuhr **Samrat Yantra**, genau auf zwei Sekunden.\n\n**Hawa Mahal**, die rosa Fassade mit 953 Fenstern von 1799, und **Jal Mahal** am Man-Sagar-See als Aussichtsstopp.\n\n**Optionen**\n\nDrei bei der Buchung, darunter eine Variante mit **Ganztagsbesichtigung nur in Jaipur**, wenn Sie schon in der Stadt sind, und zwei ab Delhi.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel, Hin- und Rückfahrt von Neu-Delhi nach Jaipur im privaten klimatisierten Wagen, und ein Guide.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Hawa Mahal 200 ₹.\n- Delhi nach Jaipur sind etwa 270 km, rund fünf Stunden pro Richtung. **Eine Abfahrt um 6 Uhr morgens lässt den Tag funktionieren.**\n- **Amer öffnet um 8 und füllt sich gegen 10:30**: der frühe Start erkauft Ihnen das Sheesh Mahal ohne Schlange.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.**\n- **Prüfen Sie, welche Option Sie buchen**: die Variante nur in Jaipur hat keine Fahrt ab Delhi und ist ein völlig anderer Tag.\n\n**Für wen es passt**\n\nFür Erstbesucher, die den Tag von Anfang bis Ende geregelt haben wollen, und für Reisende, die schon in Jaipur sind und die Stadtvariante möchten.",
+  "highlights": [
+   "Verpassen Sie nicht den ikonischen Hawa Mahal, das Amber Fort, den City Palace, den Jal Mahal und mehr"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel",
+   "Hin- und Rückfahrt von Neu-Delhi nach Jaipur im privaten klimatisierten Wagen.",
+   "Privater Guide",
+   "Eintrittskarten für die Monumente (wenn die Option gewählt ist)",
+   "Mineralwasser zum Trinken",
+   "Besichtigungen im privaten klimatisierten Wagen",
+   "Mittagessen in Jaipur (wenn die Option gewählt ist)",
+   "Alle Steuern und Gebühren."
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "from-delhi-private-full-day-jaipur-highlights-tour": {
+  "title": "Ab Delhi: privater Ganztag zu Jaipurs Höhepunkten",
+  "metaTitle": "Ab Delhi: privater Ganztag zu Jaipurs Höhepunkten",
+  "metaDescription": "Ein ganzer Tag zu Jaipurs Höhepunkten ab Delhi, mit Abholung überall in der NCR. Vierzehn Stunden, zwei Optionen.",
+  "shortDescription": "Ein ganzer Tag zu Jaipurs Höhepunkten ab Delhi, mit Abholung überall in der NCR. Vierzehn Stunden, zwei Optionen.",
+  "fullDescription": "**Vierzehn Stunden, und Abholung dort, wo Sie tatsächlich sind.**\n\nDie Abholung erfolgt von jedem Ort in **Delhi, Ghaziabad, Faridabad, Noida oder Gurugram**, was am Anfang eine verlorene Stunde erspart, wenn Sie außerhalb des Zentrums wohnen.\n\nVierzehn Stunden sind ein langer Tag, und man sollte dazu ehrlich sein: etwa zehn davon sind Jaipur und vier sind Fahrt, mit rund 270 km pro Richtung.\n\n**Was Sie sehen**\n\n**Amer Fort**, von 1592, über dem Maota-See. Der Spiegelpalast **Sheesh Mahal**, das bemalte **Ganesh Pol**, und das wassergekühlte **Sukh Niwas**.\n\n**City Palace**, teils noch königliche Residenz: die Textilsammlung des Mubarak Mahal, und das **Diwan-i-Khas** mit seinen beiden Silberurnen, gebaut, damit ein Maharadscha 1901 Gangeswasser nach England mitnehmen konnte, statt etwas anderes zu trinken.\n\n**Jantar Mantar**, das Observatorium aus den 1730er Jahren mit neunzehn funktionierenden Instrumenten, darunter eine 27 Meter hohe Sonnenuhr, genau auf zwei Sekunden.\n\n**Hawa Mahal**, die Fassade mit 953 Fenstern, 1799 gebaut, damit königliche Frauen die Straßenprozessionen ungesehen verfolgen konnten.\n\nDazu **Jal Mahal** am Man-Sagar-See als Aussichtsstopp.\n\n**Optionen**\n\nZwei bei der Buchung: klimatisierter Wagen mit Guide, oder Wagen, Guide, Eintrittsgebühren und mehr.\n\n**Inklusive**\n\nTransport von und zu jedem Ort in Delhi, Ghaziabad, Faridabad, Noida oder Gurugram, und ein Guide. Der Eintritt hängt von der Option ab.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Hawa Mahal 200 ₹.\n- **Vierzehn Stunden von Tür zu Tür.** Ein früher Start ist nicht optional: gegen 5:30 oder 6 losfahren ist das, was die Besichtigungshälfte funktionieren lässt.\n- **Amer öffnet um 8 und füllt sich gegen 10:30.**\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.**\n- **Oktober bis März** ist die Saison; im Mai und Juni ist das ein strafender Tag.\n\n**Für wen es passt**\n\nFür Reisende, die in Gurugram, Noida oder am Rand von Delhi wohnen, und für alle, die Jaipur ohne Übernachtung wollen.",
+  "highlights": [
+   "Durchstreifen Sie Amers majestätische Hallen und sehen Sie Jaipurs königlichen Glanz"
+  ],
+  "included": [
+   "Transport von und zu jedem Ort in Delhi, Ghaziabad, Faridabad, Noida und Gurugram",
+   "Abholung und Rückfahrt im privaten klimatisierten Fahrzeug",
+   "Privater Guide vor Ort",
+   "Wasserflaschen und Windjacken gratis",
+   "Alle Steuern, Benzin, Maut und Parkgebühren",
+   "Eintrittskarten für die Monumente (wenn die Option gewählt ist)"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "jaipur-jhalana-amagarh-leopard-reserve-44-jeep-saf": {
+  "title": "Jaipur: 4x4-Jeepsafari im Leopardenreservat Jhalana und Amagarh",
+  "metaTitle": "Jaipur: 4x4-Safari zu den Leoparden von Jhalana",
+  "metaDescription": "Eine Leopardensafari im 4x4 im Reservat Jhalana oder Amagarh, innerhalb der Stadtgrenzen von Jaipur. Geteilter oder privater Jeep, fünf Optionen.",
+  "shortDescription": "Eine Leopardensafari im 4x4 im Reservat Jhalana oder Amagarh, innerhalb der Stadtgrenzen von Jaipur. Geteilter oder privater Jeep, fünf Optionen.",
+  "fullDescription": "**Ein Leopardenreservat mitten in der Stadt.**\n\n**Jhalana** ist ungewöhnlich: ein Leopardenreservat von etwa 23 Quadratkilometern innerhalb der Stadtgrenze von Jaipur, zwanzig Minuten von der Mauerstadt. **Amagarh**, später eröffnet, liegt auf der anderen Seite. Zusammen halten sie eine gut untersuchte Leopardenpopulation, die seit Jahren fotografiert und benannt wird.\n\nWeil das Gelände trockener Dornbusch auf niedrigen Hügeln ist und kein dichter Wald, sind die Sichtungsquoten hier wirklich hoch, erheblich besser als in den meisten Tigerreservaten, und Sie verlieren keinen Tag mit der Anreise.\n\n**Was es sonst gibt**\n\nStreifenhyäne, Schakal, Wüstenfuchs, Rohrkatze, Nilgauantilope, indische Palmenzibetkatze, und rund 100 Vogelarten. Die alten **Ruinen des Jhalana-Forts** und ein Shiva-Tempel liegen im Reservat.\n\n**Die Safari**\n\nEtwa drei Stunden im 4x4, in festen Morgen- und Abendfenstern. Der Morgen ist kühler; am Abend sind Leoparden am aktivsten und das Licht ist besser.\n\n**Optionen**\n\nFünf bei der Buchung: geteilter 4x4 oder privater Jeep, in Jhalana oder Amagarh, im Morgen- oder Abendfenster.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel im privaten Fahrzeug, Maut und Parkgebühren, alle Steuern, und die Safari selbst.\n\n**Gut zu wissen**\n\n- **Die Plätze sind begrenzt und staatlich kontrolliert** und in der Saison ausverkauft. Buchen Sie vorab.\n- **Keine Sichtung ist garantiert**, auch wenn Jhalanas Quoten für Leoparden zu den besten Indiens gehören.\n- **Ein geteilter Jeep heißt andere Leute und ihr Lärm.** Wenn Fotografie zählt, nehmen Sie die private Variante: es ist der Unterschied zwischen einem Jeep, der wartet, und einem, der weiterfährt.\n- Morgensafaris im Dezember und Januar sind im offenen Fahrzeug kalt. Ziehen Sie sich in Schichten an.\n- Sprechen Sie leise und bleiben Sie sitzen. Leoparden ziehen sich von Lärm zurück, und das ist der üblich Grund, warum eine Gruppe nichts sieht.\n\n**Für wen es passt**\n\nFür Naturfotografen, Familien, und alle, die eine echte Chance auf eine Großkatze wollen, ohne Jaipur zu verlassen.",
+  "highlights": [
+   "Entdecken Sie den natürlichen Lebensraum von Leoparden, Panthern und anderen Wildtieren"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel im privaten Fahrzeug",
+   "Maut- und Parkgebühren",
+   "Alle Steuern",
+   "Private Safari im 4x4-Gypsy (wenn die Option gewählt ist)",
+   "Klimatisiertes Fahrzeug (für Abholung und Rückfahrt)",
+   "4x4-Safari im Jeep",
+   "Eintrittsgebühren des Safariparks",
+   "Besuch des Elefantendorf-Parks (wenn die Option gewählt ist)",
+   "Wasserflasche"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke",
+   "Trinkgelder für Fahrer und Guide",
+   "Alle persönlichen Ausgaben",
+   "Aktivität mit Elefanten"
+  ]
+ },
+ "jaipur-private-halffull-day-sightseeing-by-car-wit": {
+  "title": "Jaipur: private Besichtigung im Wagen mit Guide, halber oder ganzer Tag",
+  "metaTitle": "Jaipur: private Besichtigung im Wagen mit Guide",
+  "metaDescription": "Jaipur besichtigen im Tuk-Tuk oder klimatisierten Wagen, halber oder ganzer Tag, in sechs Zusammenstellungen, darunter eine nur zum Amber Fort.",
+  "shortDescription": "Jaipur besichtigen im Tuk-Tuk oder klimatisierten Wagen, halber oder ganzer Tag, in sechs Zusammenstellungen, darunter eine Option nur zum Amber Fort.",
+  "fullDescription": "**Sechs Wege, es zu dimensionieren, und zwei Wege, sich zu bewegen.**\n\nDie Bandbreite ist der Punkt. Wenn Sie nur das **Amer Fort** wollen, gibt es eine Vier-Stunden-Option für genau das. Wenn Sie einen ganzen Tag wollen, gibt es den auch. Und Sie wählen zwischen einem **Tuk-Tuk**, das in die Altstadtgassen kommt, in die ein Wagen nicht einfahren kann, und einem **klimatisierten Wagen**, was zwischen April und September keine Kleinigkeit ist.\n\n**Amer Fort**\n\nDer Grund, aus dem die meisten kommen. Ab 1592 über dem Maota-See gebaut. Der Spiegelsaal **Sheesh Mahal**, das bemalte Tor **Ganesh Pol**, und das **Sukh Niwas**, gekühlt durch Wasserkanäle im Marmor. Es verdient allein zwei bis drei Stunden, und genau das gibt ihm die Vier-Stunden-Option.\n\n**Die Mauerstadt**\n\n**City Palace**, teils noch von der königlichen Familie bewohnt, mit den beiden riesigen Silberurnen im Diwan-i-Khas. **Jantar Mantar**, neunzehn funktionierende Instrumente, darunter eine 27 Meter hohe Sonnenuhr. **Hawa Mahal**, die Fassade mit 953 Fenstern, und der Innenraum, den die meisten Besucher weglassen.\n\n**Optionen**\n\nSechs bei der Buchung: halber Tag im Tuk-Tuk, vier Stunden Amer Fort, ganzer Tag im Tuk-Tuk, halber Tag im Wagen, und die Ganztagsvarianten im Wagen.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel oder Flughafen, und ein privater klimatisierter Wagen mit Fahrer oder ein Tuk-Tuk, je nach Option.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Hawa Mahal 200 ₹.\n- **Amer öffnet um 8 und ist um 10:30 voll.** Fangen Sie bei jeder Option, die es enthält, dort an.\n- **Ein Tuk-Tuk ist seitlich offen**: hervorragend von Oktober bis März, strafend im Mai und Juni.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.**\n- Prüfen Sie, welche Option Sie gebucht haben; halbe und ganze Tage unterscheiden sich um vier Stunden.\n\n**Für wen es passt**\n\nFür Reisende, die ihre Länge selbst festlegen wollen, für Besuche in den kühleren Monaten, und für Besucher, die nur Amer wollen.",
+  "highlights": [
+   "Tauchen Sie ein in die lebhaften Farben, Düfte und Klänge des Blumenmarkts"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer (wenn die Option gewählt ist)",
+   "Privates Tuk-Tuk mit Fahrer (wenn die Option gewählt ist)",
+   "Reiseleitung (wenn die Option gewählt ist)",
+   "Wasser in Flaschen",
+   "Kraftstoffzuschlag, alle Steuern, Gebühren und Bearbeitungskosten",
+   "Staatliche Steuern (Waren- und Dienstleistungssteuer)",
+   "Tee oder Kaffee mit Snacks"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren der Sehenswürdigkeiten",
+   "Mahlzeiten",
+   "Trinkgelder (freiwillig)"
+  ]
+ },
+ "from-jaipur-ranthambore-national-park-day-trip-wit": {
+  "title": "Ab Jaipur: Ranthambore-Nationalpark mit Safari, 12 Stunden",
+  "metaTitle": "Ab Jaipur: Ranthambore mit Safari, 12 Stunden",
+  "metaDescription": "Eine Tigersafari in Ranthambore als Tagesausflug ab Jaipur, morgens oder abends. Transfer hin und zurück, Parkeintritt, zwölf Stunden.",
+  "shortDescription": "Eine Tigersafari in Ranthambore als Tagesausflug ab Jaipur, morgens oder abends. Transfer hin und zurück, Parkeintritt, zwölf Stunden.",
+  "fullDescription": "**Ein Tigerreservat und an einem Tag zurück ab Jaipur.**\n\nRanthambore liegt etwa vier Stunden von Jaipur, was eine einzige Safari als langen Tagesausflug machbar macht, wenn Sie keine Nacht erübrigen können. Sie verlieren die zweite Safari, die eine Übernachtung bringt, und die Sichtungschancen damit, aber Sie behalten Ihr Hotel in Jaipur und Ihren Zeitplan.\n\n**Der Park**\n\nRanthambore ist um ein Fort aus dem 10. Jahrhundert herum entstanden, mit trockenem Laubwald, der darum aufgewachsen ist. Alte Tore, Chhatris und ein Stufenbrunnen liegen über das Reservat verstreut, was ihm ein Aussehen gibt, das nichts sonst in Indien hat.\n\nEs hat eine echte Tigerpopulation, und die Tiere hier sind an Fahrzeuge gewöhnt, was die Sichtungsquoten erklärt. Dazu **Leopard**, **Lippenbär**, **Sambar**, **Sumpfkrokodil** und eine sehr lange Vogelliste.\n\n**Optionen**\n\nZwei bei der Buchung: eine Safari am **Morgen** oder am **Abend**. Morgen ist kälter und meist besser für Sichtungen; Abende sind milder und das Licht ist besser für Fotos.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel in Jaipur, Transfer hin und zurück zum Ranthambore-Nationalpark, und der Parkeintritt.\n\n**Gut zu wissen**\n\n- **Der Park ist vom 1. Juli bis 30. September geschlossen**, wegen des Monsuns. Die Zonen 6 bis 10 bleiben manchmal offen, die Kernzonen nicht.\n- **Safariplätze werden staatlich zugeteilt und sind ausverkauft** in der Saison und um indische Feiertage. Buchen Sie so früh wie möglich: das ist die eigentliche Einschränkung.\n- **Die Zone teilt die Forstbehörde zu, sie wird nicht gewählt.** Manche Zonen haben bessere Bilanzen als andere, und niemand kann ehrlicherweise eine anfordern.\n- **Kein Tiger ist garantiert.** Wer einen verspricht, belügt Sie.\n- Zwölf Stunden von Tür zu Tür, davon acht im Auto, für eine Safari. **Wenn Sie eine Nacht erübrigen können, verdoppelt die Zwei-Tage-Variante Ihre Chancen.**\n- Offene Fahrzeuge sind von Dezember bis Februar im Morgengrauen wirklich kalt. Ziehen Sie sich in Schichten an.\n\n**Für wen es passt**\n\nFür Reisende, die keine Übernachtung unterbringen, und für alle, die lieber einen ehrlichen Versuch auf einen Tiger haben als keinen.",
+  "highlights": [
+   "Entdecken Sie auf einer Safari die vielfältige Tierwelt des Ranthambore-Nationalparks"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel",
+   "Transfer hin und zurück von Jaipur zum Ranthambore-Nationalpark",
+   "Privates klimatisiertes Fahrzeug",
+   "Die Eintrittsgebühr des Nationalparks (wenn die Option gewählt ist)",
+   "Safarikosten",
+   "Naturkundlicher Guide im Nationalpark",
+   "Kraftstoffkosten, Straßenmaut und Steuern",
+   "Wasserflasche gratis"
+  ],
+  "notIncluded": [
+   "Alle Mahlzeiten oder Getränke",
+   "Alle persönlichen Ausgaben",
+   "Trinkgelder für den Fahrer"
+  ]
+ },
+ "private-jaipur-city-tour-from-delhi-by-express-tra": {
+  "title": "Private Stadttour nach Jaipur ab Delhi mit dem Expresszug",
+  "metaTitle": "Private Stadttour nach Jaipur ab Delhi mit dem Zug",
+  "metaDescription": "Jaipur ab Delhi mit dem Expresszug, privatem Wagen und Guide vor Ort. Achtzehn Stunden, Frühstück an Bord.",
+  "shortDescription": "Jaipur ab Delhi mit dem Expresszug, mit privatem Wagen und Guide am anderen Ende. Achtzehn Stunden, Frühstück an Bord.",
+  "fullDescription": "**Der Zug nimmt das Fahren heraus.**\n\nDelhi nach Jaipur auf der Straße sind etwa fünf Stunden pro Richtung. Mit dem Expresszug ist es erheblich weniger, und es ist immun gegen das, was die meisten Tagesausflüge ab Delhi ruiniert: der Verkehr beim Verlassen der Stadt. Auf der Morgenverbindung wird Frühstück serviert.\n\n**Der Ablauf des Tages**\n\nAbholung in Delhi für den Morgenzug in der klimatisierten Standardklasse. In Jaipur erwarten Sie ein privater Wagen und Ihr Guide, und der Wagen bleibt den ganzen Tag bei Ihnen.\n\nZuerst **Amer Fort**: der Spiegelsaal **Sheesh Mahal**, das bemalte **Ganesh Pol**, und das **Sukh Niwas**, gekühlt durch Wasserkanäle im Marmor.\n\nDann die Mauerstadt: **City Palace** mit seinen beiden riesigen Silberurnen, **Jantar Mantar** mit einer 27 Meter hohen Sonnenuhr, noch genau auf zwei Sekunden, und **Hawa Mahal**, die Fassade mit 953 Fenstern, gebaut, damit königliche Frauen die Straße ungesehen beobachten konnten.\n\nAbendzug zurück, und ein Wagen wartet in Delhi.\n\n**Optionen**\n\nZwei bei der Buchung: mit oder ohne Monumentstickets.\n\n**Inklusive**\n\nZugtickets hin und zurück in der klimatisierten Standardklasse auf einer der schnellsten Expressverbindungen Indiens, Frühstück an Bord, ein privater Wagen in Jaipur, und ein Guide. Monumentseintritt bei der Option, die ihn aufführt.\n\n**Gut zu wissen**\n\n- **Zugplätze hängen an Ihrem Datum** und werden vorab gebucht, das ist der unflexibelste Teil des Tages. Klären Sie das, bevor Sie etwas anderes darum herum planen.\n- Nehmen Sie einen Lichtbildausweis mit; die indische Bahn kontrolliert ihn im Zug.\n- Eintritt für ausländische Gäste: Amer 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Hawa Mahal 200 ₹.\n- **Achtzehn Stunden von Tür zu Tür**, den frühen Start und die späte Rückkehr eingeschlossen. Der Zug macht die Mitte bequem, nicht den Tag kurz.\n- **Amer öffnet um 8 und füllt sich gegen 10:30**, die Zugzeiten entscheiden also, wie viel davon Sie in Ruhe bekommen.\n\n**Für wen sie passt**\n\nFür Reisende, die nicht zehn Stunden im Auto sitzen wollen, für alle, die leicht reisekrank werden, und für Besucher, die einen Zeitplan wollen, der hält.",
+  "highlights": [
+   "Entdecken Sie Jaipurs majestätische Forts, Paläste und königliches Erbe an einem Tag"
+  ],
+  "included": [
+   "Zugtickets hin und zurück in der klimatisierten Standardklasse an Bord eines der schnellsten Expresszüge Indiens",
+   "Frühstück und Abendimbiss an Bord des Zuges",
+   "Privates klimatisiertes Fahrzeug für die Besichtigungen in Jaipur",
+   "Privater lizenzierter örtlicher Guide während der gesamten Besichtigung",
+   "Vorab gebuchte Eintrittskarten für die Monumente (nur enthalten, wenn die Option mit Tickets gewählt ist)",
+   "Wasser in Flaschen und Regenschirme gratis während der Tour",
+   "Alle Parkgebühren, Maut, Kraftstoffkosten und anfallenden Steuern"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben jeder Art",
+   "Trinkgelder für Guide und Fahrer",
+   "Mahlzeiten (als Zusatzleistung buchbar)"
+  ]
+ },
+ "jaipur-full-day-private-sightseeing-tour-by-tuk-tu": {
+  "title": "Jaipur: privater Ganztag mit Besichtigungen im Tuk-Tuk",
+  "metaTitle": "Jaipur: privater Ganztag im Tuk-Tuk",
+  "metaDescription": "Ein privater Ganztag in Jaipur im Tuk-Tuk mit Fahrer, Kraftstoff und Wasser. Acht Stunden, Abholung am Hotel, Flughafen oder Bahnhof.",
+  "shortDescription": "Ein privater Ganztag in Jaipur im Tuk-Tuk mit Fahrer, Kraftstoff und Wasser inklusive. Acht Stunden, Abholung am Hotel, Flughafen oder Bahnhof.",
+  "fullDescription": "**Ein Tuk-Tuk für den ganzen Tag, und hier ist es das richtige Fahrzeug.**\n\nJaipurs Basargassen sind eng und dauerhaft voll, und ein Wagen muss die meisten umfahren. Ein Tuk-Tuk fährt hinein und parkt überall. Über acht Stunden summiert sich das zu einem deutlich anderen Tag: Sie landen dort, wo eine Autotour vorbeifährt.\n\nEs ist außerdem seitlich offen, was von Oktober bis März die beste Art ist, die Stadt zu sehen, und im Mai nicht.\n\n**Wohin Sie fahren**\n\n**Amer Fort** über dem Maota-See: der Spiegelsaal **Sheesh Mahal**, das bemalte **Ganesh Pol**, das wassergekühlte **Sukh Niwas**.\n\n**Panna Meena ka Kund**, fünf Minuten darunter, der achtgeschossige Stufenbrunnen mit sich kreuzenden symmetrischen Treppen, meist leer.\n\n**City Palace**, **Jantar Mantar** und **Hawa Mahal** in der Mauerstadt, nah genug beieinander, um zu Fuß zu wechseln, während das Tuk-Tuk wartet.\n\n**Jal Mahal** am Man-Sagar-See als Aussichtsstopp, und die **Altstadtgassen**: Stoffdrucker, Lackarmreifenmacher, die Basare hinter den Hauptstraßen.\n\n**Optionen**\n\nZwei bei der Buchung, beide im privaten Tuk-Tuk, die sich darin unterscheiden, was gebündelt ist.\n\n**Inklusive**\n\nAbholung und Rückfahrt an Ihrem Hotel, am Flughafen oder am Bahnhof, ein Fahrer, Wasser in Flaschen, und Kraftstoff.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Hawa Mahal 200 ₹. **Panna Meena ist kostenlos.**\n- **Ein Tuk-Tuk ist dem Wetter und dem Staub ausgesetzt.** Eine Sonnenbrille hilft, ein Schal auch.\n- **Amer öffnet um 8 und füllt sich gegen 10:30.** Fangen Sie dort an.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.**\n- Die Abholung am Bahnhof macht es einfach, wenn Sie für den Tag mit dem Zug ankommen.\n\n**Für wen es passt**\n\nFür Reisende zwischen Oktober und März, für alle, die lieber in der Stadt sind als durch sie gefahren zu werden, und für Besucher, die mit dem Zug ankommen.",
+  "highlights": [
+   "Erleben Sie Jaipurs Königlichkeit, während Sie durch die Hallen des Amber Fort gehen"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel, Flughafen oder Bahnhof",
+   "Fahrer",
+   "Wasser in Flaschen",
+   "Kraftstoff",
+   "Parkgebühren",
+   "Maut und Steuern zwischen den Bundesstaaten",
+   "Alle staatlichen Steuern"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Eintrittsgebühren der Monumente",
+   "Kameragebühren",
+   "Alkoholische Getränke (käuflich erhältlich)",
+   "Trinkgelder (empfohlen)"
+  ]
+ },
+ "jaipur-private-half-day-tour-with-guide-flower-mar": {
+  "title": "Jaipur: privater halber Tag mit Guide und Blumenmarkt",
+  "metaTitle": "Jaipur: privater halber Tag mit Blumenmarkt",
+  "metaDescription": "Ein privater halber Tag von fünf Stunden in Jaipur im Tuk-Tuk oder Wagen, mit Guide und Besuch des Blumenmarkts. Drei Optionen.",
+  "shortDescription": "Ein privater halber Tag von fünf Stunden in Jaipur im Tuk-Tuk oder Wagen, mit Guide und Besuch des Blumenmarkts. Drei Optionen.",
+  "fullDescription": "**Ein halber Tag, der am Blumenmarkt endet.**\n\nDer Blumenmarkt ist das, was diese Tour unterscheidet. Jaipurs Blumengroßhandel läuft in den frühen Stunden: Ringelblumen sackweise, Rosen, Jasmin, Nachthyazinthe, alles gewogen und gebündelt für Tempel und Hochzeiten in der ganzen Stadt. Es ist laut, schnell und völlig ungestellt, und fast keine Tour geht hin.\n\n**Der Rest des halben Tages**\n\nJe nach Option und Startpunkt: **Amer Fort** mit Sheesh Mahal und Ganesh Pol, oder die Gruppe in der Mauerstadt aus **City Palace**, **Jantar Mantar** und **Hawa Mahal**.\n\nFünf Stunden reichen für zwei richtige Stopps plus den Markt, statt für vier gehetzte.\n\n**Optionen**\n\nDrei bei der Buchung: halber Tag im **Tuk-Tuk**, halber Tag im **Wagen**, oder im Wagen mit zusätzlichen Leistungen. Das Tuk-Tuk kommt weiter in die Altstadtgassen; der Wagen ist bei Hitze besser.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel oder Flughafen, eine fünfstündige private Stadttour, und Transport im Tuk-Tuk oder Wagen je nach Option.\n\n**Gut zu wissen**\n\n- **Der Blumenmarkt läuft früh.** Wenn er Ihnen wichtig ist, nehmen Sie das Morgenfenster: am späten Morgen ist der Handel vorbei und es ist nur eine Straße.\n- Eintritt für ausländische Gäste: Amer 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Hawa Mahal 200 ₹.\n- **Amer öffnet um 8 und füllt sich gegen 10:30**, ein früher halber Tag deckt also Markt und Fort gut ab.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.**\n- Der Markt ist nass unter den Füßen und voll. Schuhe, bei denen es nichts ausmacht.\n\n**Für wen es passt**\n\nFür Fotografen, Frühaufsteher, und Reisende, die einen Stopp wollen, der kein Monument ist.",
+  "highlights": [
+   "Erleben Sie den Charme Jaipurs auf einer Stadttour am halben Tag"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Private Stadttour am halben Tag (5 Stunden)",
+   "Transport im privaten Tuk-Tuk oder klimatisierten Wagen mit freundlichem, höflichem Fahrer (Option verfügbar)",
+   "Wasser in Flaschen",
+   "Kraftstoffzuschlag, alle Steuern, Gebühren und Bearbeitungskosten",
+   "Staatliche Steuern (Waren- und Dienstleistungssteuer)"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren der Monumente.",
+   "Alle Mahlzeiten oder das Mittagessen",
+   "Trinkgelder (freiwillig)"
+  ]
+ },
+ "jaipur-jaipur-amber-fort-full-or-half-day-guided": {
+  "title": "Jaipur: Jaipur und Amber Fort, Führung am halben oder ganzen Tag",
+  "metaTitle": "Jaipur und Amber Fort: Führung, halber oder ganzer Tag",
+  "metaDescription": "Jaipur und Amber Fort an einem halben oder ganzen Tag mit Wagen, Guide und Mittagessen. Vier Optionen, darunter eine All-inclusive-Variante.",
+  "shortDescription": "Jaipur und Amber Fort an einem halben oder ganzen Tag mit Wagen, Guide und Mittagessen. Vier Optionen, darunter eine All-inclusive-Variante.",
+  "fullDescription": "**Amer oder die Stadt, oder beides, mit geregeltem Mittagessen.**\n\nVier Optionen teilen den Tag sinnvoll auf: das **Amber Fort allein** als halber Tag, die **Gruppe um den City Palace** als halber Tag, oder die ganze Runde. Mittagessen in einem Restaurant mit gemischter Küche ist in den umfangreicheren Varianten enthalten, was nach drei Stunden auf dem Stein von Amer zählt.\n\n**Amber Fort**\n\n1592 über dem Maota-See begonnen. Das **Sheesh Mahal**, der Spiegelpalast, in dem eine einzige Kerze sich über Tausende konvexer Plättchen vervielfacht; die Geschichte besagt, die Königin habe nicht im Freien schlafen können, also wurde ihr eine Decke aus Sternen im Inneren gebaut. Das bemalte **Ganesh Pol**. Das **Sukh Niwas**, gekühlt von Wasser, das durch Kanäle im Marmor läuft.\n\n**Die Mauerstadt**\n\n**City Palace**, teils noch königliche Residenz, mit der Textilsammlung des Mubarak Mahal und den beiden Urnen aus Sterlingsilber im Diwan-i-Khas. **Jantar Mantar**, neunzehn Steininstrumente, die noch funktionieren. **Hawa Mahal**, die Fassade mit 953 Fenstern, gebaut, damit königliche Frauen die Straße ungesehen beobachten konnten.\n\n**Optionen**\n\nVier bei der Buchung: halber Tag Amber Fort, halber Tag City Palace, privater ganzer Tag, und all inclusive mit Mittagessen und Tickets.\n\n**Inklusive**\n\nAbholung und Rückfahrt im Wagen, klimatisierter Wagen für die Besichtigungen, eine Reiseleitung, und Mittagessen in einem Restaurant mit gemischter Küche bei den Optionen, die es aufführen.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Hawa Mahal 200 ₹.\n- **Amer öffnet um 8 und füllt sich gegen 10:30.** Nehmen Sie bei der Halbtagsoption zum Amber Fort das frühe Fenster.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.**\n- **Nennen Sie uns Ernährungswünsche bei der Buchung**, dann wird das Mittagessen entsprechend arrangiert.\n- Fünfeinhalb Stunden bei den Halbtagsoptionen; der ganze Tag kommt auf etwa acht.\n\n**Für wen es passt**\n\nFür Reisende, die zwischen dem Fort und der Stadt wählen wollen, und für alle, die mittags lieber richtig essen als durchzuhalten.",
+  "highlights": [
+   "Erkunden Sie das erstaunliche Amer Fort mit einem Guide, der Ihnen alles erklärt"
+  ],
+  "included": [
+   "Abholung und Rückfahrt mit Wagen",
+   "Klimatisierter Wagen für die Besichtigungen",
+   "Eine Reiseleitung",
+   "Mittagessen in einem Restaurant mit gemischter Küche (wenn Sie die Option wählen)",
+   "Eintrittskarten für die Monumente (wenn Sie die Option wählen)",
+   "Flaschen Mineralwasser im Wagen.",
+   "Kraftstoffzuschlag, Parkgebühren und Steuern."
+  ],
+  "notIncluded": [
+   "Getränke jeder Art",
+   "Persönliche Ausgaben jeder Art",
+   "Trinkgelder"
+  ]
+ },
+ "jaipur-private-jaipur-guided-full-or-half-day-tour": {
+  "title": "Jaipur: private Führung im Wagen, halber oder ganzer Tag",
+  "metaTitle": "Jaipur: private Führung im Wagen, halber oder ganzer Tag",
+  "metaDescription": "Eine private geführte Tour durch Jaipur, halber oder ganzer Tag, im Wagen, mit Monumentstickets bei einigen Optionen. Fünf Zusammenstellungen.",
+  "shortDescription": "Eine private geführte Tour durch Jaipur, halber oder ganzer Tag, im Wagen, mit Monumentstickets bei einigen Optionen. Fünf Zusammenstellungen.",
+  "fullDescription": "**Fünf Formen für einen Jaipur-Tag, alle privat, alle im Wagen.**\n\nWas sich zwischen den Optionen unterscheidet, ist die Länge und ob die Monumentstickets gebündelt sind, was über Jaipurs vier Hauptstätten auf rund 1.600 ₹ pro ausländischem Gast kommt, an vier getrennten Kassen bezahlt.\n\n**Was Sie sehen**\n\n**Amer Fort**, von 1592, über dem Maota-See. Das **Sheesh Mahal**, wo Tausende konvexer Spiegelplättchen eine einzige Flamme vervielfachen. Das **Ganesh Pol**, das nach vier Jahrhunderten seine bemalte Farbe noch hält. Und das **Sukh Niwas**, gekühlt durch Wasserkanäle im Marmorboden.\n\n**City Palace**, teils noch königliche Residenz, mit der Kostümsammlung des Mubarak Mahal und den beiden Silberurnen im Diwan-i-Khas.\n\n**Jantar Mantar**, neunzehn Steininstrumente, die noch funktionieren. Ihr Guide kann Ihnen das **Samrat Yantra** zeigen, das die richtige Zeit auf zwei Sekunden genau anzeigt.\n\n**Hawa Mahal**, die fünfgeschossige Fassade mit 953 Fenstern, und der Innenraum, den die meisten Besucher nicht betreten, für den Blick hinaus durch sie.\n\n**Optionen**\n\nFünf bei der Buchung: halber Tag im Wagen mit Guide, und vier Ganztagsvarianten mit unterschiedlichem Leistungsumfang.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel in Jaipur, ein privater Fahrer mit klimatisiertem Wagen, ein privater Guide, und Monumentstickets bei den Optionen, die sie aufführen.\n\n**Gut zu wissen**\n\n- **Amer öffnet um 8 und füllt sich gegen 10:30.** Fangen Sie bei jeder Option, die es enthält, dort an.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.** Jeeps fahren dieselbe Rampe.\n- **Jantar Mantar braucht Sonne**: die Instrumente werden an ihren Schatten gelesen, ein bedeckter Morgen schwächt es also ab.\n- Ein halber Tag deckt die drei Stätten in der Mauerstadt ab; Amer dazu macht daraus einen ganzen Tag, keinen langen halben.\n- Bequeme Schuhe. Amer ist viel Treppe und unebener Stein.\n\n**Für wen es passt**\n\nFür Reisende, die ihre Länge selbst wählen wollen, und für alle, die die Tickets lieber in einer Transaktion erledigen.",
+  "highlights": [
+   "Erleben Sie die reiche Geschichte Jaipurs auf einer Besichtigung am ganzen oder halben Tag"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel in Jaipur",
+   "Privater Fahrer mit klimatisiertem Wagen",
+   "Privater Guide",
+   "Monumentseintritt (wenn die Option gewählt ist)",
+   "Mahlzeiten in einem 5-Sterne-Restaurant (wenn die Option gewählt ist)",
+   "Mineralwasser im Wagen",
+   "Alle Fahrzeug- und Reisekosten",
+   "Alle anfallenden Steuern"
+  ],
+  "notIncluded": [
+   "Getränke zum Mittagessen",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "jaipur-private-sightseeing-day-tour-with-guide-by-": {
+  "title": "Jaipur: privater Besichtigungstag mit Guide im Wagen",
+  "metaTitle": "Jaipur: privater Besichtigungstag mit Guide im Wagen",
+  "metaDescription": "Ein privater Besichtigungstag in Jaipur mit Guide und klimatisierter Limousine oder SUV. Acht Stunden, Abholung am Hotel, zwei Optionen.",
+  "shortDescription": "Ein privater Besichtigungstag in Jaipur mit Guide und klimatisierter Limousine oder SUV. Acht Stunden, Abholung am Hotel, zwei Optionen.",
+  "fullDescription": "**Acht Stunden, ein Wagen, der wartet, und die richtige Reihenfolge.**\n\nWas entscheidet, ob ein Jaipur-Tag funktioniert, ist nicht, welche Stätten Sie wählen, sondern wann Sie ankommen. Amer vor den Bussen, die Mauerstadt in der Mitte, wenn sie beschattet ist, der Grat am Ende. Ein Fahrer und ein Guide, die das wissen, sind das Wesentliche, was Sie hier kaufen.\n\n**Was Sie sehen**\n\n**Amer Fort**, 1592 über dem Maota-See begonnen: außen ein Fort, innen ein Palast. Das **Sheesh Mahal**, wo Tausende konvexer Spiegelplättchen in Wand und Decke eine einzige Flamme über den ganzen Raum vervielfachen. Das bemalte Tor **Ganesh Pol**, dessen Fresken nach vier Jahrhunderten noch Farbe halten. Und das **Sukh Niwas**, gekühlt durch Wasserkanäle im Marmor, eine echte Ingenieurleistung auf einem Hügel im sechzehnten Jahrhundert.\n\n**City Palace**, teils noch königliche Residenz. Das **Diwan-i-Khas** hält zwei Urnen aus Sterlingsilber, die noch heute die größten je gefertigten Einzelobjekte aus Silber sind, gebaut, damit Sawai Madho Singh II. 1901 Gangeswasser nach England mitnehmen konnte, statt etwas anderes zu trinken.\n\n**Jantar Mantar**, das Observatorium aus den 1730er Jahren, mit neunzehn funktionierenden Steininstrumenten, darunter eine 27 Meter hohe Sonnenuhr, genau auf zwei Sekunden.\n\n**Hawa Mahal**, die Fassade mit 953 Fenstern von 1799.\n\n**Optionen**\n\nZwei bei der Buchung, beide privat mit Wagen und Guide, die sich darin unterscheiden, was gebündelt ist.\n\n**Inklusive**\n\nAbholung und Rückfahrt, eine private klimatisierte Limousine oder ein SUV, und ein Guide.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Hawa Mahal 200 ₹, über den Tag rund 1.600 ₹.\n- **Amer öffnet um 8 und füllt sich gegen 10:30.** Zuerst dorthin zu gehen ist die beste Entscheidung dieses Tages.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.** Jeeps fahren dieselbe Rampe.\n- **Jantar Mantar braucht klare Sonne**: die Instrumente werden an ihren Schatten gelesen.\n- Bequeme Schuhe. Amer allein ist sehr viel unebener Stein.\n\n**Für wen es passt**\n\nFür Erstbesucher mit einem ganzen Tag, und für alle, die lieber einen wartenden Wagen haben als zwischen den Stätten mit Autorikschas zu verhandeln.",
+  "highlights": [
+   "Erleben Sie auf einer Ganztagesbesichtigung die majestätischen Ausblicke und das reiche Erbe Jaipurs"
+  ],
+  "included": [
+   "Abhol- und Rückfahrtservice.",
+   "Ein privates Fahrzeug (Limousine oder SUV) mit Klimaanlage.",
+   "Ein professioneller Guide, der Sie auf der Tour begleitet.",
+   "Wasserflaschen",
+   "Parkgebühren, Kraftstoff",
+   "Alle staatlichen Steuern, einschließlich der Waren- und Dienstleistungssteuer (GST)."
+  ],
+  "notIncluded": [
+   "Eintrittskarten für die Monumente",
+   "Trinkgelder"
+  ]
+ },
+ "heritage-walk-street-food-tasting-in-jaipur": {
+  "title": "Jaipur: Heritage-Rundgang mit Streetfood-Probe",
+  "metaTitle": "Jaipur: Heritage-Rundgang mit Streetfood-Probe",
+  "metaDescription": "Ein dreistündiger Heritage-Rundgang durch Jaipurs Altstadt mit Streetfood-Proben unterwegs. Zu Fuß, in kleiner Gruppe, mit Einheimischen.",
+  "shortDescription": "Ein dreistündiger Heritage-Rundgang durch Jaipurs Altstadt mit Streetfood-Proben unterwegs. Zu Fuß, klein und örtlich geführt.",
+  "fullDescription": "**Jaipur zu Fuß, und dabei essen.**\n\nDie Mauerstadt wurde 1727 auf einem Raster angelegt, was für eine indische Altstadt ungewöhnlich ist und sie wirklich begehbar macht. Was man aus einem Wagen nicht kann, ist dort zu halten, wo das Essen ist, und das ist das Meiste an diesen drei Stunden.\n\n**Was Sie essen**\n\n**Pyaaz Kachori**: ein blättriges Gebäck mit gewürzter Zwiebelfüllung, frittiert und heiß gegessen. Rajasthans Beitrag zum indischen Frühstück, und hier besser als überall.\n\n**Samosa**, die Jaipur-Version, trockener und kräftiger gewürzt als die in Delhi.\n\n**Mirchi Bada**, eine ganze grüne Chili im Kichererbsenmehlteig, weniger brutal als es klingt und der Grund, warum Leute ein zweites bestellen.\n\n**Ghewar**, die scheibenförmige, wabenartige Süßigkeit in Sirup, nur in Rajasthan richtig gemacht. Dazu **Lassi** im Tonbecher, den man danach wegwirft, und **Masala Chai** aus einem Topf, der seit dem Morgen läuft.\n\n**Der Heritage-Teil**\n\nZwischen den Stopps die Gebäude und Gassen: die bemalten Havelis hinter den Basarfronten, die Lackarmreifenmacher, die Harz über offener Flamme in türbreiten Läden verarbeiten, die Stoffdrucker, und die Rasterlogik einer Stadt, die nach Plan gebaut wurde, als fast nichts sonst in Indien es war.\n\n**Inklusive**\n\nStreetfood durchgehend, Samosa, Kachori, bekannte örtliche Süßigkeiten, Masala Chai und mehr in örtlichen Läden, mit einem Guide.\n\n**Gut zu wissen**\n\n- **Kommen Sie hungrig.** Drei Stunden Proben sind eine Mahlzeit und mehr.\n- Ihr Guide wählt die Stände: hoher Durchsatz, vor Ihnen gekocht. Trinken Sie nur Wasser aus Flaschen.\n- Durchgehend vegetarisch, was Jaipurs Streetfood ohnehin meist ist. **Nennen Sie Allergien bei der Buchung.**\n- **Ghewar ist saisonal**, vor allem um Teej und Raksha Bandhan. Außerhalb der Saison sagt Ihr Guide das, statt zu ersetzen.\n- Alles zu Fuß auf unebenen, vollen Gassen. Bequeme Schuhe und eine Tasche, die Sie vor sich tragen.\n\n**Für wen es passt**\n\nFür Reisende mit Interesse am Essen, für alle, die die Forts hinter sich haben, und für Besucher, die die arbeitende Stadt wollen statt der Monumentsrunde.",
+  "highlights": [
+   "Essen Sie Streetfood wie die Einheimischen: Samosa, Kachori, bekannte Süßigkeiten, Masala Chai"
+  ],
+  "included": [
+   "Streetfood (Samosa, Kachori, bekannte Süßigkeiten, Masala Chai und mehr in örtlichen Läden)",
+   "Wasserflasche",
+   "Ein begleitender Kulturentdecker",
+   "Geführter Heritage-Rundgang"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt am Hotel.",
+   "Alkoholische Getränke.",
+   "Trinkgelder."
+  ]
+ },
+ "jaipur-private-guided-city-tour-with-hotel-pickup-": {
+  "title": "Jaipur: private geführte Stadttour mit Abholung am Hotel",
+  "metaTitle": "Jaipur: private geführte Stadttour mit Abholung",
+  "metaDescription": "Eine private geführte Stadttour durch Jaipur mit Abholung am Hotel oder Flughafen und einem Guide vor Ort. Acht Stunden, zwei Optionen.",
+  "shortDescription": "Eine private geführte Stadttour durch Jaipur mit Abholung am Hotel oder Flughafen und einem Guide vor Ort. Acht Stunden, zwei Optionen.",
+  "fullDescription": "**Ein ganzer Tag, ein Guide vor Ort, und ein Wagen, der wartet.**\n\nAcht Stunden decken Jaipurs Hauptrunde richtig ab, mit einem Guide, der an jeder Stätte bei Ihnen ist, und nicht einem Fahrer, der Sie am Tor absetzt.\n\n**Amer Fort**\n\n1592 von Raja Man Singh über dem Maota-See begonnen. Der Spiegelpalast **Sheesh Mahal**: Tausende konvexe Plättchen in Wand und Decke, sodass eine einzige Kerzenflamme sich über den ganzen Raum vervielfacht. Das bemalte Tor **Ganesh Pol** zu den privaten Palästen. Und das **Sukh Niwas**, gekühlt von Wasser, das durch Kanäle im Marmor läuft, also Klimatisierung des sechzehnten Jahrhunderts auf einem Hügel.\n\n**City Palace**\n\nTeils noch von der königlichen Familie bewohnt. Die Textil- und Kostümsammlung des **Mubarak Mahal**, das **Diwan-i-Khas** mit den beiden größten je gefertigten Einzelstücken aus Silber, und **Pritam Niwas Chowk** mit seinen vier bemalten Toren für die vier Jahreszeiten.\n\n**Jantar Mantar**\n\nDas Observatorium aus den 1730er Jahren. Neunzehn Instrumente, alle funktionsfähig, darunter eine 27 Meter hohe Sonnenuhr, genau auf zwei Sekunden.\n\n**Hawa Mahal**\n\nDie Fassade mit 953 Fenstern, 1799 gebaut, damit die Frauen des Hauses die Straßenprozessionen ungesehen verfolgen konnten.\n\n**Optionen**\n\nZwei bei der Buchung, beide private Führungen, die sich in den Leistungen unterscheiden.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Flughafen oder Hotel, ein privater klimatisierter Wagen mit Fahrer, und ein Guide vor Ort.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Hawa Mahal 200 ₹.\n- **Amer öffnet um 8 und füllt sich gegen 10:30.** Zuerst dorthin zu gehen macht das Sheesh Mahal sehenswert.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.**\n- Die Abholung am Flughafen macht daraus eine gute Nutzung eines langen Zwischenstopps oder eines Ankunftstags.\n- Bequeme Schuhe; Amer bedeutet sehr viel unebenen Stein.\n\n**Für wen es passt**\n\nFür Erstbesucher mit einem ganzen Tag, für Reisende am Ankunftstag, und für alle, die einen Guide wollen und nicht nur einen Fahrer.",
+  "highlights": [
+   "Erkunden Sie Jaipurs wichtigste Sehenswürdigkeiten auf einer privaten Führung"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Flughafen oder Hotel.",
+   "Privater klimatisierter Wagen mit Fahrer.",
+   "Guide vor Ort an allen Stationen.",
+   "Eintrittsgebühren (wenn die Option gebucht ist).",
+   "Flaschen Mineralwasser.",
+   "Fahrerpauschalen.",
+   "Alle Maut-, Kraftstoff-, Park- und Steuerkosten."
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke.",
+   "Trinkgelder (freiwillig)."
+  ]
+ },
+ "jaipur-day-tour-from-delhi-by-private-car-pink": {
+  "title": "Jaipur an einem Tag ab Delhi im privaten Wagen, die Rosa Stadt",
+  "metaTitle": "Jaipur an einem Tag ab Delhi im privaten Wagen",
+  "metaDescription": "Jaipur an einem Tag ab Delhi im privaten Wagen, mit den Forts und Palästen. Dreizehn Stunden, Abholung überall in der NCR.",
+  "shortDescription": "Jaipur an einem Tag ab Delhi im privaten Wagen, mit den Forts und Palästen. Dreizehn Stunden, Abholung überall in der NCR.",
+  "fullDescription": "**Delhi nach Jaipur und zurück an einem Tag, lang, aber machbar.**\n\nEtwa 270 km pro Richtung auf einer guten Schnellstraße, also rund fünf Stunden Fahrt über den Tag. Die Abholung erfolgt von überall in **Delhi, Noida, Greater Noida, Gurugram, Ghaziabad oder Faridabad**, was eine Stunde spart, wenn Sie außerhalb des Zentrums sind.\n\n**Was Sie sehen**\n\n**Amer Fort**, 1592 über dem Maota-See begonnen: außen ein Fort, innen ein Palast. Das **Sheesh Mahal**, der Spiegelsaal, in dem Tausende konvexer Plättchen eine einzige Kerze über den Raum vervielfachen. Das bemalte Tor **Ganesh Pol**, und das **Sukh Niwas**, gekühlt durch Wasserkanäle im Marmor.\n\n**City Palace**, teils noch von der königlichen Familie bewohnt: die Textilien des Mubarak Mahal, und die beiden Urnen aus Sterlingsilber im Diwan-i-Khas, die noch heute die größten je gefertigten Einzelstücke aus Silber sind.\n\n**Hawa Mahal**, die Fassade mit 953 Fenstern von 1799, und **Jantar Mantar**, wenn die Zeit reicht. **Jal Mahal** am Man-Sagar-See als Aussichtsstopp auf dem Weg hinein.\n\n**Optionen**\n\nZwei bei der Buchung, beide privat ab Delhi, die sich darin unterscheiden, was gebündelt ist.\n\n**Inklusive**\n\nPrivate Abholung und Rückfahrt überall in Delhi, Noida, Greater Noida, Gurugram, Ghaziabad oder Faridabad, und ein privater klimatisierter Wagen mit Fahrer.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer 500 ₹, City Palace 700 ₹, Hawa Mahal 200 ₹, Jantar Mantar 200 ₹.\n- **Dreizehn Stunden von Tür zu Tür.** Delhi gegen 5:30 oder 6 zu verlassen lässt es funktionieren; später und Sie erreichen Amer, wenn es schon voll ist.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.**\n- **Wenn Sie eine Nacht erübrigen können, übernachten Sie.** Dieselbe Route wird weit angenehmer, und Sie bekommen Nahargarh zum Sonnenuntergang.\n- **Oktober bis März** ist die Saison; im Mai und Juni ist das ein harter Tag.\n\n**Für wen es passt**\n\nFür Reisende mit einem freien Tag in Delhi, die Rajasthan sehen wollen, und für alle, die keine Übernachtung unterbringen.",
+  "highlights": [
+   "Erkunden Sie Jaigarh Fort, oder besuchen Sie auf Wunsch stattdessen das Amber Fort"
+  ],
+  "included": [
+   "Private Abholung und Rückfahrt überall in Delhi, Noida, Greater Noida, Gurugram (Gurgaon), Ghaziabad oder Faridabad, einschließlich der Flughäfen Delhi (IGI), Hindon (Ghaziabad) und Noida International (Jewar)",
+   "Privater klimatisierter Wagen für Abholung, Besichtigungen und Rückfahrt",
+   "Privater Guide vor Ort gemäß Route",
+   "Vorab gebuchte Tickets für Jaipurs Monumente, wenn die All-inclusive-Option gewählt ist",
+   "Vorab organisiertes Mittagessen in Jaipur, wenn die All-inclusive-Option gewählt ist",
+   "Wasser in Flaschen und Regenschirme gratis",
+   "Alle Parkgebühren, Maut, Kraftstoff und anfallenden Steuern"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder",
+   "Mahlzeiten (als Zusatzleistung buchbar)"
+  ]
+ },
+ "jaipur-private-full-day-sightseeing-tour-by-car-wi": {
+  "title": "Jaipur: privater Besichtigungstag im Wagen mit Guide",
+  "metaTitle": "Jaipur: privater Besichtigungstag im Wagen mit Guide",
+  "metaDescription": "Ein privater Besichtigungstag in Jaipur im Wagen mit professionellem Guide. Abholung am Hotel, Limousine oder SUV, und eine Option mit deutschsprachigem Guide.",
+  "shortDescription": "Ein privater Besichtigungstag in Jaipur im Wagen mit professionellem Guide. Abholung am Hotel, Limousine oder SUV, und eine Option mit deutschsprachigem Guide.",
+  "fullDescription": "**Jaipurs vier Stätten, mit einem Wagen, der an jeder wartet.**\n\nDie Forts und Paläste verteilen sich über die Stadt und einen Grat hinauf, und was entscheidet, ob ein Jaipur-Tag funktioniert, ist nicht die Auswahl der Stätten, sondern Reihenfolge und Zeitpunkt. Ein Fahrer und ein Guide, die das wissen, sind das Meiste, was Sie bezahlen.\n\n**Was Sie sehen**\n\n**Amer Fort**, von 1592, über dem Maota-See. Das **Sheesh Mahal**: Tausende konvexer Spiegelplättchen in Wand und Decke, sodass eine einzige Kerze sich über den Raum vervielfacht. Das bemalte Tor **Ganesh Pol**. Das **Sukh Niwas**, gekühlt durch Wasserkanäle im Marmor, eine echte Ingenieurleistung des sechzehnten Jahrhunderts auf einem Hügel.\n\n**City Palace**, teils noch von der königlichen Familie bewohnt. Das **Diwan-i-Khas** hält zwei Urnen aus Sterlingsilber, die noch heute die größten je gefertigten Einzelobjekte aus Silber sind, gebaut, damit Sawai Madho Singh II. 1901 Gangeswasser nach England mitnehmen konnte.\n\n**Jantar Mantar**, das Observatorium aus den 1730er Jahren. Neunzehn Steininstrumente, alle noch funktionsfähig, darunter das **Samrat Yantra**, eine 27 Meter hohe Sonnenuhr, genau auf zwei Sekunden.\n\n**Hawa Mahal**, die fünfgeschossige Fassade mit 953 Fenstern, 1799 gebaut, damit königliche Frauen die Straßenprozessionen ungesehen verfolgen konnten.\n\n**Optionen**\n\nDrei bei der Buchung, darunter eine Variante mit **deutschsprachigem Guide**.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel, Transport in einer klimatisierten Limousine oder einem SUV, und ein professioneller Guide.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer Fort 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Hawa Mahal 200 ₹, über den Tag rund 1.600 ₹.\n- **Amer öffnet um 8 und füllt sich gegen 10:30.** Zuerst dorthin zu fahren ist die beste Entscheidung dieses Tages.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.** Jeeps fahren dieselbe Rampe.\n- **Jantar Mantar braucht klare Sonne**: die Instrumente werden an ihren Schatten gelesen.\n- Bequeme Schuhe. Amer allein ist sehr viel unebener Stein und Treppe.\n\n**Für wen es passt**\n\nFür Erstbesucher mit einem ganzen Tag, für Deutschsprachige, und für alle, die lieber einen wartenden Wagen haben als in der Hitze mit Autorikschas zu verhandeln.",
+  "highlights": [
+   "Nehmen Sie an einem Besichtigungstag den typischen visuellen Glanz Jaipurs in sich auf"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel",
+   "Transport in einer klimatisierten Limousine oder einem SUV",
+   "Professioneller autorisierter Guide",
+   "Parkgebühren",
+   "Kraftstoff"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für die Monumente",
+   "Mahlzeiten",
+   "Trinkgelder"
+  ]
+ },
+ "from-delhi-jaipur-private-tour-with-guide-hotel-pi": {
+  "title": "Ab Delhi: private Jaipur-Tour mit Guide und Abholung am Hotel",
+  "metaTitle": "Ab Delhi: private Jaipur-Tour mit Guide",
+  "metaDescription": "Jaipur an einem Tag ab Delhi mit privatem Wagen, Guide vor Ort und Hoteltransfers. Acht Stunden, drei Optionen, darunter eine nur in Jaipur.",
+  "shortDescription": "Jaipur an einem Tag ab Delhi mit privatem Wagen, Guide vor Ort und Hoteltransfers. Acht Stunden, drei Optionen, darunter eine Variante nur in Jaipur.",
+  "fullDescription": "**Jaipur an einem Tag ab Delhi, machbar, aber knapp.**\n\nEtwa 270 km pro Richtung auf einer guten Schnellstraße, rund fünf Stunden Fahrt über den Tag. Das lässt genug für die zwei Gebäude, die am meisten zählen, richtig gemacht statt im Vorbeigehen gesehen.\n\n**Amer Fort**\n\nAb 1592 über dem Maota-See gebaut. Das **Sheesh Mahal**, der Spiegelsaal, in dem Tausende konvexer Plättchen eine einzige Kerze über den Raum vervielfachen. Das bemalte **Ganesh Pol**. Und das **Sukh Niwas**, gekühlt durch Wasserkanäle im Marmor: Klimatisierung, im sechzehnten Jahrhundert auf einem Hügel gebaut.\n\n**City Palace**\n\nTeils noch von der königlichen Familie bewohnt. Die Textilsammlung des **Mubarak Mahal**, und das **Diwan-i-Khas** mit seinen beiden Urnen aus Sterlingsilber, den größten je gefertigten Einzelstücken aus Silber, gebaut, damit ein Maharadscha 1901 Gangeswasser nach England mitnehmen konnte, statt etwas anderes zu trinken.\n\n**Hawa Mahal** und **Jantar Mantar**, wenn die Zeit reicht, und **Jal Mahal** am See als Aussichtsstopp unterwegs.\n\n**Optionen**\n\nDrei bei der Buchung: eine Variante **nur in Jaipur** mit Wagen und Guide, und zwei ab Delhi.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel oder Bahnhof, privater klimatisierter Wagen mit Fahrer, und ein Guide vor Ort.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer 500 ₹, City Palace 700 ₹, Hawa Mahal 200 ₹, Jantar Mantar 200 ₹.\n- **Delhi gegen 6 Uhr morgens zu verlassen ist das, was es funktionieren lässt.** Später und Sie erreichen Amer, wenn es schon voll ist.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.**\n- **Wenn Sie zwei Tage haben, übernachten Sie.** Dieselbe Route wird weit angenehmer, und Sie bekommen Nahargarh zum Sonnenuntergang.\n- **Oktober bis März** ist die Saison; im Mai und Juni liegt Jaipur regelmäßig über 45 °C.\n\n**Für wen es passt**\n\nFür Reisende mit einem freien Tag in Delhi, die Rajasthan sehen wollen, und für alle, die keine Übernachtung in ihren Plan bekommen.",
+  "highlights": [
+   "Erkunden Sie das Amber Fort, eine majestätische Festung auf einem Hügel in Jaipur"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Bahnhof",
+   "Privater klimatisierter Wagen mit Fahrer",
+   "Guide-Dienste vor Ort an jeder Station",
+   "Eintrittskarten für die Monumente an allen Stationen (wenn die Option gebucht ist)",
+   "Flaschen Mineralwasser",
+   "Alle Maut-, Park- und Steuerkosten"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke",
+   "Trinkgelder"
+  ]
+ },
+ "jaipur-tour-flexible-itinerary-with-private-car-gu": {
+  "title": "Jaipur: flexible Route mit privatem Wagen und Guide",
+  "metaTitle": "Jaipur: flexible Route mit privatem Wagen und Guide",
+  "metaDescription": "Ein flexibler Jaipur-Tag, gebaut um das, was Sie sehen wollen, mit privatem Wagen und Guide. Die Route bestimmen Sie.",
+  "shortDescription": "Ein flexibler Jaipur-Tag, gebaut um das, was Sie sehen wollen, mit privatem Wagen und Guide. Die Route bestimmen Sie.",
+  "fullDescription": "**Sie entscheiden, was der Tag enthält.**\n\nDie meisten Jaipur-Touren reichen Ihnen eine feste Liste: Amer, City Palace, Jantar Mantar, Hawa Mahal. Es ist eine gute Liste. Diese hier ist für alle, die etwas anderes wollen, oder dasselbe in einem anderen Tempo.\n\n**Was Sie aufnehmen könnten**\n\nDie Klassiker, wenn Sie sie nicht gesehen haben: **Amer Fort** und sein Sheesh Mahal, **City Palace**, **Jantar Mantar**, **Hawa Mahal**.\n\nOder die, die selten in eine feste Route kommen. **Panna Meena ka Kund**, der achtgeschossige Stufenbrunnen unterhalb von Amer mit sich kreuzenden symmetrischen Treppen, meist leer. **Nahargarh Fort** zum Sonnenuntergang für den Blick über die ganze Stadt. **Patrika Gate** für die bemalten Bögen, am besten in der ersten Stunde Licht. **Galtaji**, der Affentempel in einer Schlucht östlich der Stadt. Die **Basare von Johari und Bapu**. Eine Werkstatt für **Stoffdruck** oder **blaue Keramik**. Oder einfach drei Stopps statt sieben, mit Zeit, sich an jedem hinzusetzen.\n\nIhr Guide kennt die Zeiten, das Licht und den Verkehr und sagt Ihnen ehrlich, was in die Stunden passt, die Sie haben.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel, ein privater Guide, Wasserflaschen durchgehend, und ein privates Fahrzeug.\n\n**Gut zu wissen**\n\n- **Nennen Sie uns Ihre Prioritäten bei der Buchung**, nicht am Morgen. Nur so kann der Guide eine Route planen statt sie zu improvisieren.\n- Vier oder fünf Stopps sind ein bequemer Tag. Sieben sind Hetze, und die Forts verdienen mehr als zwanzig Minuten pro Stück.\n- Eintrittsgebühren kommen separat: Amer 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Nahargarh 200 ₹ für ausländische Gäste. **Patrika Gate und Panna Meena sind kostenlos.**\n- **Elefantenritte in Amer sind nicht enthalten und wir organisieren sie nicht.**\n- Wenn Fotografie im Vordergrund steht, sagen Sie es: das ändert die Reihenfolge völlig, weil dann das Licht die Einschränkung ist und nicht die Entfernung.\n\n**Für wen es passt**\n\nFür Wiederkehrer, für Reisende mit bestimmten Interessen, für Familien mit unterschiedlichen Altersgruppen, und für alle, die feste Routen frustrierend finden.",
+  "highlights": [
+   "Privater, sauberer Wagen Ihrer Wahl mit Chauffeur, nicht die üblichen alten Taxis"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel",
+   "Privater Guide",
+   "Wasserflaschen während der gesamten Tour",
+   "Privates klimatisiertes Fahrzeug",
+   "Transport im privaten klimatisierten Wagen",
+   "Alle Steuern, Gebühren und Bearbeitungskosten",
+   "Kraftstoffzuschlag",
+   "GST (Waren- und Dienstleistungssteuer)",
+   "Persönliche Betreuung und Aufmerksamkeit"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Trinkgelder (freiwillig)"
+  ]
+ },
+ "jaipur-private-half-full-day-sightseeing-tour-by-t": {
+  "title": "Jaipur: private Besichtigung im Tuk-Tuk, halber oder ganzer Tag",
+  "metaTitle": "Jaipur: private Besichtigung im Tuk-Tuk",
+  "metaDescription": "Jaipur besichtigen im Tuk-Tuk oder klimatisierten Wagen, halber oder ganzer Tag, mit englischsprachigem Guide. Drei Optionen.",
+  "shortDescription": "Jaipur besichtigen im Tuk-Tuk oder klimatisierten Wagen, halber oder ganzer Tag, mit englischsprachigem Guide. Drei Optionen.",
+  "fullDescription": "**Tuk-Tuk oder Wagen, und hier zählt die Wahl wirklich.**\n\nJaipurs Mauerstadt wurde 1727 auf einem Raster angelegt, was für Indien ungewöhnlich ist, aber die Basargassen, die davon abgehen, sind eng und dauerhaft voll. Ein **Tuk-Tuk** fährt hinein und parkt überall. Ein **Wagen** ist klimatisiert, was zwischen April und September keine Kleinigkeit ist.\n\nDiese Tour lässt Sie wählen, und der Guide ist in beiden Fällen derselbe.\n\n**Was Sie sehen**\n\n**Amer Fort** über dem Maota-See: der Spiegelsaal **Sheesh Mahal**, das bemalte **Ganesh Pol**, und das wassergekühlte **Sukh Niwas**.\n\n**City Palace**, in dem die königliche Familie noch einen Teil bewohnt, mit den beiden riesigen Silberurnen im Diwan-i-Khas.\n\n**Jantar Mantar**, neunzehn funktionierende Steininstrumente, darunter eine 27 Meter hohe Sonnenuhr, genau auf zwei Sekunden.\n\n**Hawa Mahal**, die Fassade mit 953 Fenstern, und der Innenraum, den die meisten Besucher weglassen, für den Blick hinaus durch sie.\n\nIn der achtstündigen Tuk-Tuk-Variante bleibt außerdem Zeit für **Panna Meena ka Kund**, den symmetrischen Stufenbrunnen unterhalb von Amer, und die Altstadtgassen, in denen die Stoffdrucker und Lackarmreifenmacher arbeiten.\n\n**Optionen**\n\nDrei bei der Buchung: 8 Stunden Tuk-Tuk, halber Tag Tuk-Tuk, oder Wagen mit Guide.\n\n**Inklusive**\n\nEin privates Tuk-Tuk oder ein klimatisierter Wagen nach Ihrer Vorliebe, und ein professioneller englischsprachiger Guide.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Hawa Mahal 200 ₹.\n- **Ein Tuk-Tuk ist seitlich offen.** Hervorragend von Oktober bis März, mühsam im Mai und Juni.\n- **Amer öffnet um 8 und füllt sich gegen 10:30.** Fangen Sie dort an, welche Option Sie auch nehmen.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.**\n- Staub und Lärm gehören zum Tuk-Tuk. Eine Sonnenbrille hilft.\n\n**Für wen es passt**\n\nFür Reisende, die ihr Fahrzeug selbst wählen wollen, für Besuche in den kühleren Monaten, und für Besucher, die lieber in der Stadt sind als durch sie gefahren zu werden.",
+  "highlights": [
+   "Erkunden Sie Jaipurs schönste Punkte im Tuk-Tuk oder Wagen, für ein besonderes Erlebnis"
+  ],
+  "included": [
+   "Privates Tuk-Tuk oder klimatisierter Wagen, je nach Ihrer Vorliebe",
+   "Professioneller, freundlicher englischsprachiger Fahrer",
+   "Abholung und Rückfahrt am Hotel, Flughafen oder Bahnhof",
+   "Kraftstoff, Parkgebühren und alle staatlichen Steuern (GST) enthalten",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Kosten für Mahlzeiten",
+   "Eintrittsgebühren der Monumente und Kameragebühr"
+  ]
+ },
+ "private-jaipur-full-day-tour-with-guide-lunch-tick": {
+  "title": "Jaipur: privater Ganztag mit Guide, Mittagessen und Tickets",
+  "metaTitle": "Jaipur: privater Ganztag mit Guide und Mittagessen",
+  "metaDescription": "Ein privater Ganztag in Jaipur mit Guide, Mittagessen und klimatisiertem Wagen. Acht Stunden, Abholung am Hotel oder Flughafen.",
+  "shortDescription": "Ein privater Ganztag in Jaipur mit Guide, Mittagessen und klimatisiertem Wagen. Acht Stunden, Abholung am Hotel oder Flughafen.",
+  "fullDescription": "**Ein ganzer Jaipur-Tag mit einem anständigen Ort zum Essen in der Mitte.**\n\nAcht Stunden decken die vier Hauptstätten richtig ab. Das Mittagessen ist eingebaut, was nach drei Stunden auf dem Stein von Amer in der Sonne mehr zählt, als es klingt.\n\n**Was Sie sehen**\n\n**Amer Fort**, 1592 begonnen, außen ein Fort und innen ein Palast. Der Spiegelpalast **Sheesh Mahal**, das bemalte Tor **Ganesh Pol**, und das **Sukh Niwas** mit Wasserkanälen im Marmor zur Kühlung.\n\n**City Palace**, teils noch königliche Residenz. Die Textilsammlung des Mubarak Mahal, die beiden riesigen Urnen aus Sterlingsilber, und die vier bemalten Jahreszeitentore des **Pritam Niwas Chowk**, wobei das Pfauentor das ist, das alle fotografieren.\n\n**Jantar Mantar**, das Observatorium aus den 1730er Jahren, dessen Instrumente noch funktionieren.\n\n**Hawa Mahal**, die Fassade mit 953 Fenstern von 1799.\n\nDazu **Jal Mahal** am Man-Sagar-See als Aussichtsstopp, und **Panna Meena ka Kund** unterhalb von Amer, wenn es zeitlich passt.\n\n**Optionen**\n\nDrei bei der Buchung, alle privat, mit unterschiedlichem Leistungsumfang.\n\n**Inklusive**\n\nEine private Tour, Fahrt im privaten klimatisierten Wagen, Abholung und Rückfahrt am Hotel oder Flughafen, ein Guide, und Mittagessen.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Hawa Mahal 200 ₹.\n- **Fangen Sie in Amer an.** Es öffnet um 8; um 10:30 ist das Sheesh Mahal eher eine Schlange als ein Raum.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.** Jeeps fahren dieselbe Rampe.\n- **Nennen Sie uns Ernährungswünsche bei der Buchung**, dann wird das Mittagessen entsprechend arrangiert.\n- Die Treppen von Panna Meena sind zum Begehen gesperrt: es ist ein Foto, kein Abstieg.\n\n**Für wen es passt**\n\nFür Erstbesucher mit einem ganzen Tag, und für Reisende, die lieber richtig essen als eine Stunde mit der Suche nach einem Ort zu verlieren.",
+  "highlights": [
+   "Private Tour mit eigenem Fahrer und einem örtlichen Experten als Guide"
+  ],
+  "included": [
+   "Privates Tourerlebnis",
+   "Fahrt im privaten klimatisierten Wagen",
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater staatlich zugelassener lizenzierter Guide",
+   "Alle anfallenden Steuern enthalten",
+   "Mineralwasser in Flaschen gratis im Wagen",
+   "Persönliche Betreuung und aufmerksamer Service",
+   "Eintrittskarten für die Monumente (wenn die Option gewählt ist)",
+   "Buffet-Mittagessen enthalten (wenn die Option gewählt ist)"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Wasserflaschen und Getränke während des Mittagessens"
+  ]
+ },
+ "jaipur-fullhalf-day-private-sightseeing-with-guide": {
+  "title": "Jaipur: private Besichtigung im Wagen mit Guide, ganzer oder halber Tag",
+  "metaTitle": "Jaipur: private Besichtigung im Wagen mit Guide",
+  "metaDescription": "Ein halber oder ganzer Tag private Besichtigung in Jaipur mit zertifiziertem Guide und Wagen, in sechs Zusammenstellungen, darunter eine mit Stufenbrunnen.",
+  "shortDescription": "Ein halber oder ganzer Tag private Besichtigung in Jaipur mit zertifiziertem Guide und Wagen, in sechs Zusammenstellungen, darunter eine mit versteckten Stufenbrunnen.",
+  "fullDescription": "**Sechs Formen für einen Jaipur-Tag, darunter eine, die von der Runde abweicht.**\n\nWas unter diesen Optionen heraussticht, ist die, die das **Amber Fort mit den versteckten Stufenbrunnen** verbindet, denn die Stufenbrunnen sind der Teil Jaipurs, den fast keine Standardroute enthält, und der Teil, für den Fotografen wiederkommen.\n\n**Amer Fort**\n\nVon 1592, über dem Maota-See. Der Spiegelsaal **Sheesh Mahal**, das bemalte **Ganesh Pol**, und das **Sukh Niwas**, gekühlt durch Wasserkanäle im Marmor.\n\n**Die Stufenbrunnen**\n\n**Panna Meena ka Kund**, fünf Minuten unterhalb von Amer, ist aus dem sechzehnten Jahrhundert, acht Geschosse tief, mit sich kreuzenden symmetrischen Treppen, die an allen vier Seiten hinabführen. Er fotografiert sich besser als fast alles in Rajasthan, und meist ist niemand dort. Die Treppen sind inzwischen zum Begehen gesperrt, es ist also ein Anblick und kein Abstieg.\n\n**Die Mauerstadt**\n\n**City Palace**, **Jantar Mantar**, **Hawa Mahal**, und **Jal Mahal** am See, je nach Option und den Stunden, die Sie haben.\n\n**Optionen**\n\nSechs bei der Buchung, von der Variante mit Amber und Stufenbrunnen bis zur privaten Besichtigung am halben und ganzen Tag.\n\n**Inklusive**\n\nPrivater klimatisierter Wagen, ein zertifizierter örtlicher Guide, ein professioneller Fahrer, und Abholung und Rückfahrt am Hotel. Der Eintritt hängt von der Option ab.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer Fort 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Hawa Mahal 200 ₹. **Panna Meena ist kostenlos.**\n- **Amer öffnet um 8 und füllt sich gegen 10:30.** Welche Option Sie auch nehmen, fangen Sie dort an.\n- **Die Treppen von Panna Meena können nicht begangen werden.** Kommen Sie nicht mit dem Plan, sie hinabzusteigen.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.**\n- Prüfen Sie, welche Option Sie gebucht haben: halbe und ganze Tage unterscheiden sich um drei oder vier Stunden, und der Preis spiegelt das.\n\n**Für wen es passt**\n\nFür Fotografen, Wiederkehrer, und alle, die Amer mit etwas verbinden wollen, das die Bustouren weglassen.",
+  "highlights": [
+   "Privater klimatisierter Wagen mit Fahrer, und die Begleitung eines zertifizierten Guides"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen",
+   "Zertifizierter örtlicher Guide",
+   "Professioneller Fahrer",
+   "Abholung und Rückfahrt am Hotel",
+   "Private Besichtigungstour",
+   "Kraftstoff- und Parkkosten",
+   "Trinkwasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für die Monumente",
+   "Speisen und Getränke",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "jaipurchokhi-dhani-village-tour-with-dinner-via-vi": {
+  "title": "Jaipur: Dorf Chokhi Dhani mit Abendessen, im Oldtimer",
+  "metaTitle": "Jaipur: Chokhi Dhani mit Abendessen, im Oldtimer",
+  "metaDescription": "Ein Abend im Dorf-Resort Chokhi Dhani mit Abendessen, im Oldtimer durch Jaipur erreicht. Fünf Stunden, Abholung inklusive.",
+  "shortDescription": "Ein Abend im Dorf-Resort Chokhi Dhani mit Abendessen, im Oldtimer durch Jaipur erreicht. Fünf Stunden inklusive Abholung.",
+  "fullDescription": "**Ein Oldtimer auf dem Hinweg, und am anderen Ende ein rajasthanischer Dorfabend.**\n\nZwei Dinge hier, und die Fahrt ist wirklich die Hälfte davon. Jaipurs Königsfamilien hielten große Flotten von Vorkriegswagen, und einige haben in privater Hand überlebt. In einem davon in der Dämmerung durch die Stadt zu fahren ist etwas anderes als ein Taxi, und es ist der Grund für den Preis.\n\n**Chokhi Dhani**\n\nEin nachgebautes rajasthanisches Dorf am Rand von Jaipur, in Betrieb seit 1990. Es ist touristisch und steht ganz offen dazu, und es macht auch wirklich Spaß. Volkstänzer, der **Kalbeliya**-Schlangentanz, Puppenspiel, Akrobaten, Feuerkünstler, Kamel- und Elefantenritte, Zauberer, Wahrsager, und Mehndi.\n\nDas Abendessen ist ein **rajasthanisches Thali**, im Sitzen auf dem Boden gegessen, in Stahlschüsseln serviert und nachgefüllt, bis Sie die Bedienung körperlich aufhalten. Dal Baati Churma, Gatte ki Sabzi, Ker Sangri, Bajra-Roti mit Ghee, Churma, und Buttermilch ohne Limit. Wirklich gut und wirklich endlos.\n\n**Inklusive**\n\nAbholung am Abend an Ihrem Hotel oder einem Ort Ihrer Wahl in Jaipur, eine Oldtimerfahrt durch die Stadt, und der Besuch von Chokhi Dhani mit Abendessen.\n\n**Gut zu wissen**\n\n- **Es ist erklärtermaßen ein Nachbau**, kein echtes Dorf. Kommen Sie mit der Erwartung eines lebhaften Abends statt einer ethnografischen Erfahrung, dann hält es alles.\n- Das Abendessen ist **vegetarisch** und weitgehend festgelegt. Nennen Sie Allergien bei der Buchung.\n- Wochenenden und indische Feiertage sind extrem voll. Ein Abend unter der Woche ist erheblich angenehmer.\n- Zwischen den Bühnenbereichen gibt es viel Gehen auf unebenem Boden. Bequeme Schuhe.\n- **Elefantenritte werden vor Ort angeboten. Wir organisieren und empfehlen sie nicht**, und nichts verpflichtet Sie dazu.\n\n**Für wen es passt**\n\nFür Familien mit Kindern, für Reisende, die einen lebhaften Abend wollen statt eines weiteren Monuments, und für alle, die neugierig sind, ein richtiges rajasthanisches Thali zu essen.",
+  "highlights": [
+   "Genießen Sie ein traditionelles rajasthanisches Thali mit vielen örtlichen Spezialitäten"
+  ],
+  "included": [
+   "Abholung am Abend am Hotel oder einem Ort Ihrer Wahl in Jaipur",
+   "Oldtimerfahrt durch Jaipurs beleuchtete Straßen",
+   "Besuch des Dorfes Chokhi Dhani",
+   "Traditionelles rajasthanisches Abendessen",
+   "Kulturelle Entdeckungen und Darbietungen in Chokhi Dhani",
+   "Besuch des Handwerkermarkts Kalagram",
+   "Rückfahrt zum Hotel"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "from-delhi-or-agra-private-jaipur-amber-fort-day": {
+  "title": "Ab Delhi oder Agra: privater Tag in Jaipur und am Amber Fort",
+  "metaTitle": "Ab Delhi oder Agra: Jaipur und Amber Fort an einem Tag",
+  "metaDescription": "Jaipur und Amber Fort an einem Tag ab Delhi oder Agra, mit privatem Fahrzeug für Transfers und Besichtigungen. Vier Optionen.",
+  "shortDescription": "Jaipur und Amber Fort an einem Tag ab Delhi oder Agra, mit privatem Fahrzeug für Transfers und Besichtigungen. Vier Optionen.",
+  "fullDescription": "**Jaipur an einem Tag, von dort, wo Sie auf der Runde stehen.**\n\nVier Optionen decken hier Abfahrten sowohl ab **Delhi** als auch ab **Agra** ab, was nützlich ist, wenn Sie mitten im Goldenen Dreieck sind und Jaipur wollen, ohne sich auf eine Übernachtung festzulegen.\n\nAb **Agra** sind es etwa 240 km, rund vier Stunden, mit Fatehpur Sikri unterwegs, wenn Sie mögen. Ab **Delhi** sind es 270 km auf einer guten Schnellstraße, rund fünf Stunden.\n\n**Was Sie sehen**\n\n**Amer Fort** ist der Grund herzukommen. Ab 1592 über dem Maota-See gebaut, außen ein Fort und innen ein Palast. Der Spiegelsaal **Sheesh Mahal**, in dem Tausende konvexer Plättchen eine einzige Flamme über den Raum vervielfachen. Das bemalte Tor **Ganesh Pol**. Das **Sukh Niwas**, gekühlt durch Wasserkanäle im Marmor.\n\nDann die Mauerstadt, soweit die Zeit reicht: **City Palace**, **Hawa Mahal**, **Jantar Mantar**, und **Jal Mahal** am See als Aussichtsstopp.\n\n**Optionen**\n\nVier bei der Buchung: ab Agra oder ab Delhi, mit privatem Wagen und Fahrer, und umfangreichere Varianten mit Guide.\n\n**Inklusive**\n\nPrivates klimatisiertes Fahrzeug mit Fahrer für Transfers und Besichtigungen, und Abholung und Rückfahrt. Guide und Eintritt hängen von der Option ab.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer Fort 500 ₹, City Palace 700 ₹, Hawa Mahal 200 ₹.\n- **Neun Stunden von Tür zu Tür ab Agra, länger ab Delhi**, das Meiste davon Fahrt. Gegen 6 Uhr morgens losfahren lässt es funktionieren.\n- **Amer öffnet um 8 und füllt sich gegen 10:30**, eine frühe Abfahrt erkauft Ihnen also das Sheesh Mahal ohne Schlange.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.**\n- Wenn Sie ohnehin von Agra nach Delhi fahren, funktioniert das als Zwischenetappe statt als Hin- und Rückfahrt: fragen Sie, und wir legen die Route so.\n\n**Für wen es passt**\n\nFür Reisende mitten im Goldenen Dreieck, und für alle, die Jaipur ohne eine zusätzliche Hotelnacht wollen.",
+  "highlights": [
+   "Entdecken Sie Jaipurs königliches Erbe und seine Kultur auf einer privaten Tagestour"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug mit Fahrer für Transfers und Besichtigungen",
+   "Abholung und Rückfahrt am Ort Ihrer Wahl in Delhi oder Agra",
+   "Lizenzierte Reiseleitung in Jaipur",
+   "Eintrittskarten für die Monumente (wenn die Option gewählt ist)",
+   "Jeepfahrt zum Amber Fort (wenn die Ticketoption gewählt ist)",
+   "Buffet-Mittagessen in einem guten Restaurant (wenn die Option gewählt ist)",
+   "Wasser in Flaschen und kleine Erfrischungen",
+   "Alle Maut-, Kraftstoff-, Park- und Steuerkosten"
+  ],
+  "notIncluded": [
+   "Trinkgelder (freiwillig)",
+   "Persönliche Ausgaben und optionale Aktivitäten"
+  ]
+ },
+ "jaipur-birla-mandir-and-gaushala-2-hour-cultural-i": {
+  "title": "Jaipur: Birla Mandir und Gaushala, 2 Stunden Kultur",
+  "metaTitle": "Jaipur: Birla Mandir und Gaushala in 2 Stunden",
+  "metaDescription": "Zwei Stunden am Birla Mandir und in einer arbeitenden Gaushala in Jaipur, mit privatem Transport. Ein ruhiger Kulturstopp statt eines Monuments.",
+  "shortDescription": "Zwei Stunden am Birla Mandir und in einer arbeitenden Gaushala in Jaipur, mit privatem Transport. Ein ruhiger Kulturstopp statt eines Monuments.",
+  "fullDescription": "**Ein Marmortempel und ein Kuhschutzhof, die besser zusammengehören, als es klingt.**\n\nDer **Birla Mandir** liegt unterhalb des Moti-Dungri-Hügels und ist vollständig aus weißem Makrana-Marmor gebaut, aus demselben Steinbruch wie der Taj Mahal. Er wurde 1988 von der Industriellenfamilie Birla fertiggestellt, ist also nicht alt und gibt sich auch nicht so. Zwei Stunden wert machen ihn die Steinmetzarbeit und eine ungewöhnliche Offenheit: neben den hinduistischen Figuren zeigen die Glasfenster und Reliefs auch **Christus, Buddha, Zarathustra, Konfuzius und Sokrates**, was eine bewusste Aussage ist und keine Dekoration.\n\nNachts wird er von innen beleuchtet und der Marmor glüht, und dann kommt ein großer Teil Jaipurs.\n\n**Die Gaushala**\n\nEine **Gaushala** ist ein Schutzhof für Kühe, die alt, verletzt oder ausgesetzt sind oder sonst auf der Straße stünden. Sie werden aus Spenden finanziert und weitgehend von Freiwilligen betrieben, und sie sind in ganz Indien Teil des religiösen Alltags, den Besucher fast nie sehen.\n\nNach dem Tempel dorthin zu gehen verbindet zwei Hälften derselben Idee: den Ausdruck in Marmor, und die tägliche Praxis. Sie können die Kühe füttern, was als verdienstvolle Handlung gilt und außerdem einfach angenehm ist.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel in Jaipur, oder an einem Ort Ihrer Wahl, und Transport im privaten Fahrzeug.\n\n**Gut zu wissen**\n\n- **Die Schuhe kommen** am Tempel aus, und zurückhaltende Kleidung wird erwartet, Schultern und Knie bedeckt.\n- **Fotografieren ist im inneren Heiligtum des Tempels eingeschränkt.** Draußen ist es in Ordnung.\n- Der Eintritt zum Birla Mandir ist frei. Die Gaushala lebt von Spenden, die freiwillig sind und nie verlangt werden.\n- **Der Abend ist das bessere Fenster**: der Tempel beleuchtet, die Aarti, und kühler.\n- Zwei Stunden, was sich gut nach einem Fort-Morgen einfügt, statt einen Tag zu ersetzen.\n\n**Für wen es passt**\n\nFür Reisende, die eine ruhige Stunde zwischen Forts wollen, für alle, die sich für gelebte religiöse Praxis interessieren, und für Besucher, die mit Kindern reisen.",
+  "highlights": [
+   "Optimierte 2-Stunden-Besichtigung, die sich leicht in Ihren Tag in Jaipur einfügt"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel (oder an einem vorab gewählten Ort) in Jaipur.",
+   "Transport im privaten Tuk-Tuk mit einem örtlichen Fahrer.",
+   "Wasser in Flaschen während der Tour.",
+   "1 Korb Gras für die Kühe.",
+   "Reiseleitung oder Gastgeber.",
+   "Persönliche Unterstützung während der gesamten Besichtigung."
+  ],
+  "notIncluded": [
+   "Zusätzliche Mahlzeiten und Getränke",
+   "Trinkgelder für Fahrer oder Guide (freiwillig)",
+   "Zusätzliche Aktivitäten"
+  ]
+ },
+ "jaipur-guided-full-day-private-sightseeing-tour-by": {
+  "title": "Jaipur: geführter privater Besichtigungstag im Wagen",
+  "metaTitle": "Jaipur: geführter privater Besichtigungstag im Wagen",
+  "metaDescription": "Ein privater Ganztag in Jaipur im Wagen mit örtlichem Guide und enthaltenen Eintrittsgebühren. Acht Stunden, drei Optionen.",
+  "shortDescription": "Ein privater Ganztag in Jaipur im Wagen mit örtlichem Guide und enthaltenen Eintrittsgebühren der Monumente. Acht Stunden, drei Optionen.",
+  "fullDescription": "**Ein ganzer Tag, bei dem die Torgebühren schon erledigt sind.**\n\nDie Eintrittsgebühren an Jaipurs Hauptstätten kommen auf rund 1.600 ₹ pro ausländischem Gast, an vier getrennten Kassen bezahlt. Sie gebündelt zu haben nimmt den mühsamsten Teil des Tages heraus.\n\n**Was Sie sehen**\n\n**Amer Fort**, von 1592, über dem Maota-See: der Spiegelsaal **Sheesh Mahal**, das bemalte **Ganesh Pol**, und das wassergekühlte **Sukh Niwas**. Zwei bis drei Stunden hier, was es verdient.\n\n**City Palace**, teils noch von der königlichen Familie bewohnt. Die Textilsammlung des Mubarak Mahal, die beiden riesigen Urnen aus Sterlingsilber im Diwan-i-Khas, und die vier bemalten Jahreszeitentore des Pritam Niwas Chowk, wobei das Pfauentor das ist, das alle fotografieren.\n\n**Jantar Mantar**, das Observatorium des achtzehnten Jahrhunderts. Neunzehn Steininstrumente, die noch funktionieren, darunter das **Samrat Yantra**, eine 27 Meter hohe Sonnenuhr, genau auf zwei Sekunden.\n\n**Hawa Mahal**, die fünfgeschossige Fassade mit 953 Fenstern, 1799 gebaut, damit königliche Frauen die Straßenprozessionen ungesehen verfolgen konnten.\n\nDazu **Jal Mahal** und **Panna Meena ka Kund**, soweit die Route es zulässt.\n\n**Optionen**\n\nDrei bei der Buchung: private Besichtigung, Besichtigung mit Guide, und eine All-inclusive-Variante.\n\n**Inklusive**\n\nAbholung und Rückfahrt an Ihrem Hotel in Jaipur, ein professioneller örtlicher Guide, und die Eintrittsgebühren der Monumente.\n\n**Gut zu wissen**\n\n- **Amer öffnet um 8 und füllt sich gegen 10:30.** Dort anzufangen ist die beste Entscheidung dieses Tages.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.** Jeeps fahren dieselbe Rampe.\n- Die Treppen von Panna Meena sind zum Begehen gesperrt: es ist ein Foto, kein Abstieg.\n- Acht Stunden mit viel unebenem Stein. Bequeme Schuhe zählen mehr als alles andere, was Sie mitbringen.\n- Der enthaltene Eintritt deckt die üblichen Tickets für ausländische Gäste; prüfen Sie Ihre Option, wenn Sie indischer Staatsangehöriger sind, wo die Tarife weit niedriger liegen.\n\n**Für wen es passt**\n\nFür Erstbesucher mit einem ganzen Tag, und für alle, die lieber einmal zahlen als an vier Ticketschaltern anzustehen.",
+  "highlights": [
+   "Erkunden Sie das majestätische Amer Fort, Jaipurs königliches Meisterwerk auf dem Hügel"
+  ],
+  "included": [
+   "Abholung und Rückfahrt an Ihrem Hotel in Jaipur",
+   "Professioneller örtlicher Guide",
+   "Eintrittsgebühren der Monumente (wenn die Option gewählt ist)",
+   "Wasser in Flaschen während der Tour",
+   "Alle Steuern",
+   "Buffet-Mittagessen (wenn die Option gewählt ist)"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder (freiwillig)"
+  ]
+ },
+ "jaipur-street-food-walking-tour-market-with-tuk-tu": {
+  "title": "Jaipur: Streetfood zu Fuß, Märkte und Tuk-Tuk-Fahrt",
+  "metaTitle": "Jaipur: Streetfood und Märkte mit Tuk-Tuk",
+  "metaDescription": "Fünf Stunden durch Jaipurs Märkte und Streetfood im privaten Tuk-Tuk mit Guide. Drei Optionen ab der Variante nur mit Guide.",
+  "shortDescription": "Fünf Stunden durch Jaipurs Märkte und Streetfood im privaten Tuk-Tuk mit Guide. Drei Optionen ab der Variante nur mit Guide.",
+  "fullDescription": "**Ein Tuk-Tuk kommt in die Gassen, in die ein Wagen nicht passt.**\n\nJaipurs Mauerstadt wurde 1727 auf einem Raster angelegt, was für eine indische Altstadt ungewöhnlich ist, aber die Basargassen, die davon abgehen, sind eng und dauerhaft verstopft. Ein Tuk-Tuk fährt dorthin, wo ein Wagen anhalten muss, und das ist das Meiste, was diese Tour Ihnen bringt.\n\n**Wohin Sie gehen**\n\n**Johari Bazaar** für Schmuck und Edelsteine: Jaipur schleift einen sehr großen Teil der farbigen Steine der Welt. **Bapu Bazaar** für Textilien, Juttis und Parfum. **Tripolia Bazaar** für Lackarmreifen, über offener Flamme in türbreiten Läden gemacht. Und die Gassen dahinter, in denen die Stoffdrucker und Silberschmiede tatsächlich arbeiten.\n\n**Was Sie essen**\n\nJaipurs Streetfood ist eigen. **Pyaaz Kachori**, ein blättriges Gebäck mit gewürzter Zwiebelfüllung, heiß und fettig gegessen. **Mirchi Bada**, eine ganze Chili im Kichererbsenmehlteig, weniger brutal als es klingt. **Ghewar**, die scheibenförmige, wabenartige Süßigkeit in Sirup, nur hier richtig gemacht. **Lassi** im Tonbecher, den man danach wegwirft. Und Chai aus einem Topf, der seit dem Morgen läuft.\n\n**Optionen**\n\nDrei bei der Buchung: nur professioneller Guide, privates Tuk-Tuk mit Guide, oder die umfangreichere Variante mit Proben.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel oder Flughafen, ein privates Tuk-Tuk mit Fahrer, und ein professioneller Guide. Das Essen hängt von der Option ab.\n\n**Gut zu wissen**\n\n- Kommen Sie hungrig zu den Optionen, die Proben enthalten.\n- Nehmen Sie Bargeld mit. In diesen Gassen nimmt nichts Karten.\n- Vegetarisch ist einfach: das meiste Streetfood in Jaipur ist es ohnehin. Nennen Sie Allergien bei der Buchung.\n- **Ghewar ist saisonal**, vor allem um Teej und Raksha Bandhan. Außerhalb der Saison sagt Ihr Guide das, statt still zu ersetzen.\n- Ein Tuk-Tuk ist seitlich offen: im Winter gut, im Mai mühsam. Bequeme Schuhe für das Gehen zwischen den Stopps.\n\n**Für wen es passt**\n\nFür Reisende mit Interesse am Essen, für alle, die die Forts hinter sich haben, und für Besucher, die die arbeitende Stadt wollen statt der Monumentsrunde.",
+  "highlights": [
+   "Probieren Sie authentisches rajasthanisches Streetfood an beliebten örtlichen Ständen"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privates Tuk-Tuk mit Fahrer für die Besichtigungen",
+   "Professioneller Guide",
+   "Flasche Mineralwasser",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Alle Speisen",
+   "Alle persönlichen Ausgaben"
+  ]
+ },
+ "jaipur-full-or-half-day-private-city-tour-with": {
+  "title": "Jaipur: private Stadttour mit Wagen und Guide, ganzer oder halber Tag",
+  "metaTitle": "Jaipur: private Stadttour mit Wagen und Guide",
+  "metaDescription": "Ein halber oder ganzer Tag in Jaipur im privaten Wagen mit Guide, in sechs Zusammenstellungen: nur Amber Fort, nur City Palace, oder die ganze Runde.",
+  "shortDescription": "Ein halber oder ganzer Tag in Jaipur im privaten Wagen mit Guide, in sechs Zusammenstellungen: nur Amber Fort, nur City Palace, oder die ganze Runde.",
+  "fullDescription": "**Sechs Wege, den Tag zu dimensionieren.**\n\nDas Nützliche hier ist die Bandbreite. Wenn Sie nur das **Amber Fort** wollen, gibt es eine Option dafür. Wenn Sie nur die Gruppe um den **City Palace** in der Mauerstadt wollen, gibt es auch dafür eine. Und wenn Sie alles wollen, deckt der ganze Tag es ab.\n\n**Amber Fort**\n\nAb 1592 über dem Maota-See gebaut. Das **Sheesh Mahal**, wo Tausende konvexer Spiegelplättchen eine einzige Flamme über den ganzen Raum vervielfachen. Das bemalte Tor **Ganesh Pol**. Und das **Sukh Niwas**, gekühlt durch Wasserkanäle im Marmor: Klimatisierung, im sechzehnten Jahrhundert auf einem Hügel gebaut, was eine Ingenieurleistung ist, bevor es Zierde ist. Allein zwei bis drei Stunden.\n\n**Die Mauerstadt**\n\n**City Palace**, teils noch von der königlichen Familie bewohnt, mit den beiden Urnen aus Sterlingsilber im Diwan-i-Khas, die noch heute die größten je gefertigten Einzelobjekte aus Silber sind. **Jantar Mantar**, dessen 27 Meter hohe Sonnenuhr noch auf zwei Sekunden genau ist. **Hawa Mahal**, die Fassade mit 953 Fenstern, und der Innenraum, den die meisten Besucher weglassen.\n\n**Optionen**\n\nSechs bei der Buchung: nur Guide für Amber, halber Tag City Palace, halber Tag Amber Fort, und Ganztagsvarianten mit und ohne Extras.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel, Flughafen oder Bahnhof in Jaipur, und ein privates klimatisiertes Fahrzeug mit Fahrer. Guide und Eintritt hängen von der Option ab.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer Fort 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Hawa Mahal 200 ₹.\n- **Amer öffnet um 8 und füllt sich gegen 10:30.** Welche Option Sie auch nehmen, fahren Sie zuerst dorthin.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.** Jeeps fahren dieselbe Rampe.\n- Die Abholung am Bahnhof macht es einfach, wenn Sie für den Tag mit dem Zug ankommen.\n- Prüfen Sie, welche Option Sie gebucht haben: mehrere sind halbe Tage, und der Unterschied ist echt.\n\n**Für wen es passt**\n\nFür Reisende, die selbst entscheiden wollen, wie viel Jaipur sie sich vornehmen, und für alle, die mit dem Zug und einem halben Tag ankommen.",
+  "highlights": [
+   "Erkunden Sie Amber Fort und Hawa Mahal mit den Geschichten eines örtlichen Experten"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel, Flughafen oder Bahnhof in Jaipur",
+   "Privates klimatisiertes Fahrzeug mit Fahrer (Limousine, SUV oder Van je nach Gruppengröße)",
+   "Professionelle lizenzierte Reiseleitung",
+   "Wasser in Flaschen während der Tour",
+   "Alle Park-, Kraftstoff-, Maut- und Steuerkosten sowie GST",
+   "Eintrittsgebühren der Monumente und traditionelles rajasthanisches Mittagessen (im All-inclusive-Paket, wenn die Option gewählt ist)"
+  ],
+  "notIncluded": [
+   "Trinkgelder (freiwillig)",
+   "Persönliche Ausgaben (Souvenirs, Einkäufe usw.)",
+   "Reiseversicherung",
+   "Zusätzliche Aktivitäten, die nicht in der Route genannt sind"
+  ]
+ },
+ "jaipur-2-day-diwali-tour-with-hotel-stay-fireworks": {
+  "title": "Jaipur: Diwali in 2 Tagen mit Hotel und Feuerwerk",
+  "metaTitle": "Jaipur: Diwali in 2 Tagen, Hotel und Feuerwerk",
+  "metaDescription": "Zwei Nächte in Jaipur über Diwali mit Hotel, Besichtigungen und den berühmten Marktbeleuchtungen und Feuerwerken der Stadt.",
+  "shortDescription": "Zwei Nächte in Jaipur über Diwali mit Hotel, Besichtigungen und den berühmten Marktbeleuchtungen und Feuerwerken der Stadt.",
+  "fullDescription": "**Jaipur an Diwali ist die eine Woche, in der die Stadt sich wirklich selbst übertrifft.**\n\nDie meisten indischen Städte leuchten zu Diwali. Jaipur tritt in den Wettbewerb. Die Stadtverwaltung und die Händlervereine veranstalten einen **Dekorationswettbewerb** zwischen den Basaren, und das Ergebnis ist, dass Johari Bazaar, Bapu Bazaar, Tripolia und die ganze Mauerstadt von Ende zu Ende beleuchtet sind, in einem Ausmaß, das es nirgendwo sonst in Indien gibt.\n\nDer rosa Sandstein der Altstadt unter dieser Beleuchtung ist der Grund, warum Leute Reisen um diese Woche herum planen.\n\n**Was die zwei Tage abdecken**\n\nDie **beleuchteten Basare** nach Einbruch der Dunkelheit, das Herzstück. **Feuerwerke** über der Stadt. Tagsüber Besichtigungen am **Amer Fort**, im **City Palace**, am **Jantar Mantar** und am **Hawa Mahal**, die während des Festes alle ruhiger sind, weil die örtliche Aufmerksamkeit anderswo liegt.\n\nZwei Nächte im Hotel mit Frühstück, und ein privater Wagen mit Fahrer durchgehend.\n\n**Inklusive**\n\nZwei Nächte Hotelunterkunft mit Frühstück, ein privater Wagen mit Fahrer für Besichtigungen und Transfers, und ein Guide.\n\n**Gut zu wissen**\n\n- **Die Diwali-Daten verschieben sich jedes Jahr** mit dem Mondkalender, das Fest fällt in den Oktober oder November. Klären Sie die genauen Daten, bevor Sie Flüge buchen.\n- **Der Andrang ist enorm.** Die Mauerstadt nachts in der Diwali-Woche ist Schulter an Schulter, und das gehört zur Erfahrung und ist kein Mangel.\n- **Die Luftqualität fällt rund um Diwali stark ab**, wegen der Feuerwerke. Wenn jemand in Ihrer Gruppe Asthma oder eine Atemwegserkrankung hat, ist das ein ernsthafter Punkt.\n- Die Hotelpreise in ganz Jaipur steigen für die Woche deutlich und sind Monate im Voraus ausgebucht.\n- Manche Monumente haben am Haupttag des Festes verkürzte Öffnungszeiten.\n\n**Für wen es passt**\n\nFür Reisende, deren Termine zufällig über Diwali fallen, für Fotografen, und für alle, die lieber eine Stadt beim Feiern sehen als eine Stadt, die für Besucher auftritt.",
+  "highlights": [
+   "Tauchen Sie ein in die kräftigen Farben und Lichter von Diwali in Jaipur"
+  ],
+  "included": [
+   "2 Nächte Hotel mit Frühstück",
+   "Privater Wagen mit Fahrer für Besichtigungen und Transfers",
+   "Geführte Tour mit erfahrenen örtlichen Guides",
+   "Abholung und Rückfahrt an einem Ort in Jaipur",
+   "Abendprogramme, um Feuerwerke und das beleuchtete Jaipur zu sehen.",
+   "Eintrittsgebühren aller genannten Monumente und Sehenswürdigkeiten"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für City Palace und Jaigarh Fort",
+   "Mahlzeiten außer dem Frühstück",
+   "Persönliche Ausgaben, Einkäufe oder Trinkgelder"
+  ]
+ },
+ "jaipur-city-palace-hawa-mahal-guided-tour-with-ent": {
+  "title": "Jaipur: City Palace und Hawa Mahal, Führung mit Eintrittskarte",
+  "metaTitle": "Jaipur: City Palace und Hawa Mahal mit Führung",
+  "metaDescription": "Ein vierstündiger geführter Rundgang durch City Palace und Hawa Mahal, mit Eintrittskarten als Option. Zwei Varianten.",
+  "shortDescription": "Ein vierstündiger geführter Rundgang durch City Palace und Hawa Mahal, mit Eintrittskarten als Option. Zwei Varianten.",
+  "fullDescription": "**Zwei Gebäude, zu Fuß, vier Stunden.**\n\nCity Palace und Hawa Mahal liegen in der Mauerstadt ein paar Minuten Fußweg auseinander, was sie zur natürlichen Paarung für einen Vormittag ohne Wagen macht.\n\n**City Palace**\n\nDie königliche Familie bewohnt noch einen Teil davon. Was offen ist, ist umfangreich: das **Mubarak Mahal** mit seinen Textilien und Kostümen, das **Diwan-i-Khas** mit den beiden Urnen aus Sterlingsilber, die noch heute die größten je gefertigten Einzelstücke aus Silber sind, und **Pritam Niwas Chowk** mit vier bemalten Toren für die vier Jahreszeiten. Das Pfauentor ist das, das alle fotografieren, und es verdient es.\n\n**Hawa Mahal**\n\n1799 von Sawai Pratap Singh gebaut, fünf Geschosse rosa Sandstein mit 953 kleinen Fenstern. Der Zweck war streng: die Frauen des königlichen Haushalts hielten Purdah und durften auf der Straße nicht gesehen werden, die Fassade ließ sie die Prozessionen also ungesehen verfolgen. Das Gitterwerk leitet außerdem Luft durch das Gebäude, woher der Name kommt.\n\nDie meisten Besucher machen ein Foto von der Straße gegenüber. Hineinzugehen, durch den Eingang hinten herum, der nicht offensichtlich ist, gibt Ihnen den Blick hinaus durch die Fenster und ein viel klareres Gefühl dafür, wozu es gedacht war.\n\n**Optionen**\n\nZwei bei der Buchung: geführter Rundgang, oder derselbe mit Eintrittskarten.\n\n**Inklusive**\n\nEin privater geführter Rundgang durch beide Stätten. Eintrittskarten bei der Option, die sie aufführt.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: City Palace 700 ₹, Hawa Mahal 200 ₹.\n- **Der Eingang des Hawa Mahal ist hinten**, nicht an der berühmten Fassade. Leute stehen zehn Minuten draußen und suchen eine Tür.\n- Kein Transport auf dieser Tour: beide Stätten liegen zentral und sind von den meisten Altstadthotels zu Fuß erreichbar.\n- Das beste Foto des Hawa Mahal gelingt vom Dachcafé gegenüber, und es ist die Tasse Chai wert.\n- Vier Stunden sind für beide bequem, mit Zeit zum Sitzen.\n\n**Für wen es passt**\n\nFür Reisende, die in oder nahe der Mauerstadt wohnen, für alle, die Amer schon gemacht haben, und für Besucher, die lieber gehen als gefahren werden.",
+  "highlights": [
+   "Entdecken Sie Jaipurs königliches Erbe mit fachkundig geführten Monumentsbesuchen"
+  ],
+  "included": [
+   "Private Tour",
+   "Professionelle Führung",
+   "Rundgang zu Fuß",
+   "Eintrittskarte (wenn die Option gewählt ist)"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt am Hotel",
+   "Trinkgelder"
+  ]
+ },
+ "excursion-to-abhaneri-and-the-monkey-temple-from-j": {
+  "title": "Ausflug nach Abhaneri und zum Affentempel ab Jaipur",
+  "metaTitle": "Abhaneri und der Affentempel ab Jaipur",
+  "metaDescription": "Ein Tagesausflug ab Jaipur zum Chand Baori, Indiens tiefstem Stufenbrunnen, und zum Affentempel Galtaji. Privater Wagen und Guide vor Ort.",
+  "shortDescription": "Ein Tagesausflug ab Jaipur zum Chand Baori, Indiens tiefstem Stufenbrunnen, und zum Affentempel Galtaji. Privater Wagen hin und zurück und Guide vor Ort.",
+  "fullDescription": "**Der tiefste Stufenbrunnen Indiens, und fast niemand fährt hin.**\n\nDer **Chand Baori** in Abhaneri sind 3.500 Stufen in dreizehn Geschossen perfekter Doppellauf-Geometrie, die etwa zwanzig Meter in den Boden fallen. Er wurde zwischen dem achten und neunten Jahrhundert gebaut, und er funktioniert: das Wasser am Boden bleibt mehrere Grad kühler als die Oberfläche, was in einer Wüste der ganze Sinn war.\n\nAm oberen Rand zu stehen ist wirklich verwirrend. Die Stufen sind so genau geschnitten, dass sich das Muster fast wie eine optische Täuschung liest, und Fotos bereiten einen nicht auf den Maßstab vor. Er liegt etwa 95 km von Jaipur an der Straße nach Agra, weshalb die meisten Routen ihn weglassen und weshalb es dort meist ruhig ist.\n\nDaneben steht der **Harshat-Mata-Tempel**, stark beschädigt, aber mit Steinmetzarbeit, die die zehn Minuten noch wert ist.\n\n**Galtaji**, der Affentempel, liegt in einer Schlucht in den Hügeln auf der Jaipur-Seite. Natürliche Quellen füllen eine Reihe heiliger Becken, die in den Fels geschlagen sind, Pilger baden darin, und mehrere hundert Makaken leben um die Anlage. Achtzehntes Jahrhundert, rosa Sandstein, und die Lage tut das Meiste.\n\n**Inklusive**\n\nTransport hin und zurück im privaten Wagen ab Jaipur, und ein Guide während des Besuchs in Abhaneri.\n\n**Gut zu wissen**\n\n- **In den Chand Baori kann man nicht hinabsteigen.** Der Zugang zu den Stufen wurde aus Sicherheitsgründen geschlossen; Sie sehen ihn von der Terrasse oben, wo das Foto ohnehin entsteht.\n- Abhaneri liegt etwa zwei Stunden pro Richtung entfernt, das ist also ein voller Siebenstundentag für rund zwei Stunden an den Stätten. Lohnt sich, wenn Architektur Sie interessiert; nicht, wenn Sie einen leichten Vormittag wollen.\n- **Achten Sie auf die Affen in Galtaji.** Sie nehmen Brillen, Telefone und alles in einer offenen Hand, und sie sind darin geübt.\n- Galtaji verlangt Schuhe aus am Tempel und zurückhaltende Kleidung.\n- Abhaneri liegt an der Straße Jaipur-Agra, es fügt sich also gut in einen Transfertag, wenn Sie in diese Richtung fahren.\n\n**Für wen es passt**\n\nFür Wiederkehrer in Jaipur, für Fotografen, und für alle, die weiter nach Agra reisen und die Fahrt lieber an einem bemerkenswerten Ort unterbrechen.",
+  "highlights": [
+   "Verbinden Sie Architektur, Kultur und Spiritualität an einem Tag."
+  ],
+  "included": [
+   "Transport hin und zurück im privaten Wagen ab Jaipur",
+   "Guide während des Besuchs in Abhaneri (Englisch oder Spanisch)",
+   "Eintrittskarte für den Chand Baori in Abhaneri",
+   "Spaziergang durch das Dorf Abhaneri",
+   "Besuch des Galtaji-Tempels (Affentempel)",
+   "Örtlicher Chai oder Lassi in Abhaneri"
+  ],
+  "notIncluded": [
+   "Zusätzliche, nicht genannte Speisen und Getränke",
+   "Trinkgelder für Guide oder Fahrer (freiwillig)",
+   "Persönliche Ausgaben während der Tour"
+  ]
+ },
+ "private-jaipur-tour-city-palace-jantar-hawa-jal-ma": {
+  "title": "Jaipur privat: City Palace, Jantar Mantar, Hawa Mahal und Jal Mahal",
+  "metaTitle": "Jaipur: City Palace, Jantar, Hawa und Jal Mahal",
+  "metaDescription": "Ein privater Ganztag mit City Palace, Jantar Mantar, Hawa Mahal und Jal Mahal im Wagen mit staatlich zugelassenem Guide.",
+  "shortDescription": "Ein privater Ganztag mit City Palace, Jantar Mantar, Hawa Mahal und Jal Mahal im Wagen mit staatlich zugelassenem Guide.",
+  "fullDescription": "**Die vier Stätten der Mauerstadt, in der richtigen Reihenfolge und ohne Hetze.**\n\nDiese vier liegen nah beieinander und werden meist in einem schnellen halben Tag abgehandelt. Acht Stunden lassen Sie in alle hineingehen, statt zwei von der Straße zu fotografieren.\n\n**City Palace**\n\nTeils noch von der königlichen Familie bewohnt, weshalb die Gemächer des Chandra Mahal geschlossen sind und der Rest nicht. Die Textil- und Kostümsammlung des **Mubarak Mahal**, das **Diwan-i-Khas** mit zwei Urnen aus Sterlingsilber, die noch heute die größten je gefertigten Einzelobjekte aus Silber sind, gebaut, damit Sawai Madho Singh II. 1901 Gangeswasser nach England mitnehmen konnte, und **Pritam Niwas Chowk** mit seinen vier bemalten Toren für die vier Jahreszeiten.\n\n**Jantar Mantar**\n\nIn den 1730er Jahren von Jai Singh II. gebaut und weit interessanter, als ein Steinhof klingt. Neunzehn Instrumente, alle funktionsfähig. Das **Samrat Yantra** ist eine 27 Meter hohe Sonnenuhr, genau auf zwei Sekunden, und Ihr Guide kann Ihnen zeigen, wie sie die richtige Zeit anzeigt.\n\n**Hawa Mahal**\n\nDie fünfgeschossige rosa Fassade mit 953 Fenstern, 1799 gebaut, damit die Frauen des Hauses die Straße ungesehen beobachten konnten. Die meisten Besucher fotografieren sie von gegenüber; hineinzugehen gibt Ihnen den Blick hinaus durch diese Fenster und den Luftzug, auf den der Name verweist.\n\n**Jal Mahal**\n\nMitten im Man-Sagar-See, vier seiner fünf Geschosse unter Wasser, wenn der See voll ist. Für Besucher geschlossen: das ist ein Aussichtsstopp, und zur richtigen Stunde ist er die zehn Minuten wert.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel oder Flughafen, privater klimatisierter Wagen mit Fahrer für den ganzen Tag, und ein staatlich zugelassener Guide.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: City Palace 700 ₹, Jantar Mantar 200 ₹, Hawa Mahal 200 ₹.\n- **Jantar Mantar ist bei klarer Sonne am besten**: die Instrumente brauchen Schatten, um gelesen zu werden.\n- City Palace und Jantar Mantar liegen nebeneinander, und der Hawa Mahal ist ein kurzer Weg. Den Jal Mahal übernimmt der Wagen.\n- Das Amer Fort ist **nicht** in dieser Route. Wenn Sie es wollen, nehmen Sie eine Ganztagstour, die es enthält.\n- Acht Stunden sind für diese vier großzügig, das heißt Zeit zum Sitzen statt zum Marschieren.\n\n**Für wen es passt**\n\nFür Reisende, die Amer schon gemacht haben, und für alle, die lieber vier Dinge richtig sehen als sieben im Tempo.",
+  "highlights": [
+   "Private Führung mit Abholung und Rückfahrt am Hotel in Jaipur."
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die gesamte Tour",
+   "Staatlich zugelassener Guide vor Ort",
+   "Eintrittskarten für die Monumente (wenn die Option gewählt ist)",
+   "Mittagessen im Restaurant (wenn die Option gewählt ist)",
+   "Flasche Mineralwasser",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Alle persönlichen Ausgaben"
+  ]
+ },
+ "from-jaipur-temple-town-pushkar-day-trip-with-came": {
+  "title": "Ab Jaipur: Tempelstadt Pushkar mit Kamelsafari",
+  "metaTitle": "Ab Jaipur: Tempelstadt Pushkar mit Kamelsafari",
+  "metaDescription": "Ein Tagesausflug ab Jaipur nach Pushkar mit einer Kamelsafari in der Wüste. Brahma-Tempel, der heilige See, und die Dünen zum Sonnenuntergang.",
+  "shortDescription": "Ein Tagesausflug ab Jaipur nach Pushkar mit einer Kamelsafari in der Wüste. Brahma-Tempel, der heilige See, und die Dünen zum Sonnenuntergang.",
+  "fullDescription": "**Pushkar ist eine Tempelstadt um einen See, der keinen Boden haben soll.**\n\nEtwa drei Stunden von Jaipur ist Pushkar um einen See gebaut, der nach hinduistischer Überzeugung dort entstand, wo ein Lotus aus Brahmas Hand fiel. Es ist eine der ältesten durchgehend bewohnten Städte Indiens und einer der ganz wenigen Orte mit einem Tempel für **Brahma** selbst, den **Jagatpita Brahma Mandir**, aus dem vierzehnten Jahrhundert, und der Grund, aus dem die meisten Pilger kommen.\n\nZweiundfünfzig **Ghats** umringen den See, und Pilger baden dort den ganzen Tag. Die Stadt darum ist nach langem Brauch vollständig vegetarisch und alkoholfrei, was ihr eine deutlich andere Atmosphäre gibt als alles sonst in Rajasthan.\n\n**Die Kamelsafari**\n\nDie Wüste beginnt am Stadtrand. Die Safari fährt in die Dünen hinaus, meist auf den späten Nachmittag gelegt, wenn die Hitze gefallen ist und das Licht sich lohnt. Kamele sind langsam, hoch und schwanken erheblich; es ist die ersten zwanzig Minuten bequemer, als es aussieht, und nach einer Stunde weniger.\n\n**Optionen**\n\nZwei bei der Buchung: privater Wagen mit Guide und Wüstensafari, oder dasselbe mit zusätzlichen Leistungen.\n\n**Inklusive**\n\nDie landschaftliche Fahrt von Jaipur nach Pushkar, ein Besuch des Brahma-Tempels, und eine Kamelsafari durch die Wüste. Mittagessen bei der Option, die es aufführt.\n\n**Gut zu wissen**\n\n- **An den Ghats und im Tempel kommen die Schuhe aus**, und das Fotografieren an den Ghats ist eingeschränkt. Ihr Guide sagt Ihnen, wo.\n- **Achtung beim \"Pushkar-Passport\"-Trick**: jemand spricht Sie an einem Ghat an, bietet einen Segen, bindet Ihnen einen Faden ums Handgelenk und verlangt dann eine große Spende. Lehnen Sie höflich ab, bevor der Faden dran ist.\n- Alkohol, Fleisch und Eier werden in der Stadt nicht verkauft. Das wird wirklich durchgesetzt.\n- **Die Kamelmesse von Pushkar** läuft etwa eine Woche im Oktober oder November. Außergewöhnlich und extrem voll; wenn Sie dann reisen, fragen Sie vor der Buchung.\n- Zehn Stunden von Tür zu Tür, davon sechs im Auto.\n\n**Für wen es passt**\n\nFür Reisende, die einen Wüstennachmittag wollen, ohne nach Jaisalmer zu fahren, und für alle, die gelebte Pilgerschaft mehr interessiert als Monumente.",
+  "highlights": [
+   "Tauchen Sie ein in die kräftigen Farben und Düfte der Straßen von Pushkar"
+  ],
+  "included": [
+   "Landschaftliche Fahrt von Jaipur nach Pushkar",
+   "Besuch des Brahma-Tempels",
+   "Kamelsafari durch die Wüste",
+   "Guide vor Ort"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "jaipur-full-day-city-sightseeing-tour-with-car-and": {
+  "title": "Jaipur: Ganztagesbesichtigung der Stadt mit Wagen und Guide",
+  "metaTitle": "Jaipur: Ganztagesbesichtigung mit Wagen und Guide",
+  "metaDescription": "Ein ganzer Tag Besichtigung in Jaipur mit privatem klimatisiertem Wagen und professionellem Guide. Acht Stunden, Abholung am Hotel, zwei Optionen.",
+  "shortDescription": "Ein ganzer Tag Besichtigung in Jaipur mit privatem klimatisiertem Wagen und professionellem Guide. Acht Stunden, Abholung am Hotel, zwei Optionen.",
+  "fullDescription": "**Acht Stunden, ein Wagen, der wartet, und ein Guide, der die Reihenfolge kennt.**\n\nDer praktische Ganztag in Jaipur. Was er Ihnen gegenüber dem Selbstmachen bringt, ist die Abfolge: Amer vor dem Andrang, die Stätten im Zentrum mitten am Tag, wenn sie beschattet sind, und der Grat zum Sonnenuntergang.\n\n**Was Sie sehen**\n\nZuerst das **Amer Fort**, und als Erstes am Tag. Ab 1592 gebaut, der Spiegelsaal **Sheesh Mahal**, das Tor **Ganesh Pol**, das wassergekühlte **Sukh Niwas**.\n\n**Panna Meena ka Kund**, fünf Minuten darunter, der achtgeschossige Stufenbrunnen mit sich kreuzenden symmetrischen Treppen, und meist niemand darin.\n\n**Jal Mahal** am Man-Sagar-See, ein Aussichtsstopp und kein Besuch.\n\n**City Palace**, **Jantar Mantar** und **Hawa Mahal** in der Mauerstadt, nah genug beieinander, um zu Fuß zu wechseln.\n\nUnd **Nahargarh** auf dem Grat am Ende des Tages, wenn es zeitlich passt, für den Blick über die ganze Stadt.\n\n**Optionen**\n\nZwei bei der Buchung, beide mit privatem Wagen und Guide, die sich darin unterscheiden, was sonst dabei ist.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel in Jaipur, professioneller Guide, privater klimatisierter Wagen mit Fahrer, Wasser in Flaschen, Maut und Parkgebühren. Der Monumentseintritt kommt separat.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer Fort 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Hawa Mahal 200 ₹, Nahargarh 200 ₹.\n- **Amer öffnet um 8.** Zur Öffnung dort zu sein ist die beste Entscheidung dieses Tages.\n- **Elefantenritte sind nicht enthalten und wir buchen sie nicht.** Jeeps fahren dieselbe Rampe.\n- Die Treppen von Panna Meena sind zum Begehen gesperrt: es ist ein Foto, kein Abstieg.\n- Die Straße hinauf nach Nahargarh ist eng und im Verkehr langsam. Lassen Sie Puffer, wenn der Sonnenuntergang zählt.\n\n**Für wen es passt**\n\nFür Erstbesucher mit einem ganzen Tag, und für alle, die lieber an jedem Stopp einen wartenden Wagen haben als in der Hitze mit Autorikschas zu verhandeln.",
+  "highlights": [
+   "Bewundern Sie die Größe des Amber Fort und seine beeindruckende Architektur"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel in Jaipur.",
+   "Professionelle Reiseleitung.",
+   "Privater klimatisierter Wagen für die Vormittagstour.",
+   "Buffet-Mittagessen ohne Getränke (wenn die Option gewählt ist)",
+   "Eintrittsgebühren der Monumente (wenn die Option gewählt ist)",
+   "Wasser in Flaschen für die Gäste.",
+   "Parkgebühren",
+   "Kraftstoff",
+   "Alle staatlichen Steuern, einschließlich der Waren- und Dienstleistungssteuer (GST)."
+  ],
+  "notIncluded": [
+   "Alle persönlichen Ausgaben.",
+   "Alles, was nicht in den Leistungen oben genannt ist.",
+   "Trinkgelder für Guide und Fahrer."
+  ]
+ },
+ "jaipur-half-day-or-full-day-tour-for-first": {
+  "title": "Jaipur: halber oder ganzer Tag für Erstbesucher",
+  "metaTitle": "Jaipur: halber oder ganzer Tag für Erstbesucher",
+  "metaDescription": "Ein halber oder ganzer Tag mit Jaipurs Wesentlichem, für Erstbesucher gebaut. Fünf Optionen im Wagen oder Tuk-Tuk.",
+  "shortDescription": "Ein halber oder ganzer Tag mit Jaipurs Wesentlichem, für Erstbesucher gebaut. Fünf Optionen im Wagen oder Tuk-Tuk, eine nur mit Guide.",
+  "fullDescription": "**Jaipur für das erste Mal, ohne vorauszusetzen, dass Sie etwas wissen.**\n\nWenn das Ihr erster Tag in der Stadt ist, besteht das Problem nicht darin, die Sehenswürdigkeiten zu finden: es besteht darin, zu wissen, in welcher Reihenfolge, wie lange jede verdient, und welche der sechs berühmten Dinge Ihren Vormittag wirklich wert sind.\n\nDiese Tour antwortet darauf.\n\n**Was Sie sehen**\n\n**Amer Fort**, von 1592, über dem Maota-See: der Spiegelsaal **Sheesh Mahal**, das bemalte Tor **Ganesh Pol**, und das **Sukh Niwas**, gekühlt durch Wasserkanäle im Marmor. Das verdient zwei bis drei Stunden und bekommt sie.\n\n**City Palace**, teils noch von der königlichen Familie bewohnt, mit den beiden Urnen aus Sterlingsilber im Diwan-i-Khas, die noch heute die größten je gefertigten Einzelobjekte aus Silber sind.\n\n**Jantar Mantar**, das Observatorium des achtzehnten Jahrhunderts, dessen 27 Meter hohe Sonnenuhr noch auf zwei Sekunden genau ist.\n\n**Hawa Mahal**, die fünfgeschossige Fassade mit 953 Fenstern, und der Innenraum, den die meisten Besucher nicht betreten, für den Blick hinaus durch sie.\n\n**Optionen**\n\nFünf bei der Buchung: nur Guide, halber Tag im Tuk-Tuk, halber Tag im Wagen, ganzer Tag im Tuk-Tuk, oder ganzer Tag im Wagen. Das Tuk-Tuk kommt tiefer in die Altstadt; der Wagen ist im Sommer und bei Regen besser.\n\n**Inklusive**\n\nEigener privater Transport für den Tag, bei den Wagenoptionen eine klimatisierte Limousine oder ein SUV, und ein erfahrener Guide.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer Fort 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Hawa Mahal 200 ₹, über einen ganzen Tag rund 1.600 ₹.\n- **Fangen Sie in Amer an.** Es öffnet um 8, und die Höfe füllen sich gegen 10:30.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.** Jeeps fahren dieselbe Rampe.\n- Ein halber Tag deckt die drei Stätten im Zentrum ab. Amer dazu macht daraus einen ganzen Tag, keinen langen halben.\n- Bequeme Schuhe. Amer allein ist sehr viel unebener Stein und Treppe.\n\n**Für wen es passt**\n\nFür Erstbesucher in Jaipur, für Reisende mit einem Tag, und für alle, denen lieber gesagt wird, was die Zeit wert ist, als es bei der Ankunft selbst herauszufinden.",
+  "highlights": [
+   "Ergründen Sie die Erhabenheit des Amer Fort und bewundern Sie die Fassade des Hawa Mahal."
+  ],
+  "included": [
+   "Eigener privater Transport: Nutzung eines modernen, klimatisierten Fahrzeugs (Limousine oder SUV) für den ganzen Tag.",
+   "Erfahrener Erzähler: die Dienste eines professionellen, lizenzierten englischsprachigen örtlichen Guides.",
+   "Reibungsloser Service: Abholung und Rückfahrt am Hotel, Flughafen oder Bahnhof innerhalb Jaipurs.",
+   "Komfort und Bequemlichkeit: Kraftstoff, Parken, Maut, staatliche Steuern (GST) und Wasser in Flaschen."
+  ],
+  "notIncluded": [
+   "Zugangstickets: Eintrittsgebühren aller Monumente und Sehenswürdigkeiten.",
+   "Persönliche Kosten: Mahlzeiten, Erfrischungen, Einkäufe und Trinkgelder.",
+   "Fahrten und Gebühren: Kosten für Elefanten- oder Jeepritte am Amer Fort; Kameragebühren."
+  ]
+ },
+ "jaipur-instagram-tour-of-the-top-photography-spots": {
+  "title": "Jaipur: Instagram-Tour zu den besten Fotospots, mit Guide",
+  "metaTitle": "Jaipur: Instagram-Tour zu den besten Fotospots",
+  "metaDescription": "Sechs Stunden zu Jaipurs besten Fotospots mit einem Guide, der die Winkel und das Licht kennt. Privater Wagen, zwei Optionen.",
+  "shortDescription": "Sechs Stunden zu Jaipurs besten Fotospots mit einem Guide, der die Winkel und das Licht kennt. Privater Wagen, zwei Optionen.",
+  "fullDescription": "**Ein Tag, nach dem Licht gelegt und nicht nach der Reihenfolge im Reiseführer.**\n\nJaipur fotografiert sich besser als fast alles in Indien, und die meisten Besucher fahren trotzdem mit denselben vier Handyfotos nach Hause. Diese Tour ordnet den Tag darum, wo das Licht gut ist und wo der Andrang nicht.\n\n**Die Bilder**\n\n**Patrika Gate**: jeder Bogen, jeder Pfeiler und jede Decke bemalt, jede Achse in einer anderen Farbe. Von hier kommt ein großer Teil von Jaipurs Instagram, und um 7 Uhr morgens haben Sie es für sich.\n\n**Panna Meena ka Kund**, der Stufenbrunnen aus dem sechzehnten Jahrhundert unterhalb von Amer, mit sich kreuzenden symmetrischen Treppen, die an allen vier Seiten hinabführen. Das bestkomponierte Bild der Stadt, und meist leer.\n\n**Amer Fort**: das Tor Ganesh Pol, der Spiegelsaal Sheesh Mahal, und die Wehrmauern, die den Grat hinauflaufen.\n\n**Hawa Mahal** vom Dachcafé gegenüber, dem einzigen Ort, an dem die ganze Fassade in ein Bild passt.\n\n**Nahargarh** zum Sonnenuntergang, mit ganz Jaipur ausgebreitet darunter und dem Sandstein, der richtig rosa wird.\n\nUnd die Altstadtgassen, Stoffdrucker, Lackarmreifenmacher, die Basare, aus denen die Fotos von Jaipur kommen und nicht die von Monumenten.\n\n**Optionen**\n\nZwei bei der Buchung: private Tour mit Wagen und Guide, oder mit Fahrer dazu.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel oder Flughafen, privater klimatisierter Wagen mit Fahrer, und ein staatlich zugelassener Guide.\n\n**Gut zu wissen**\n\n- **Der Sonnenaufgang und die Stunde vor Sonnenuntergang** sind die Zeiten, in denen sich der Preis rechnet. Die Mittagszeit hat das schwächste Licht des Tages.\n- Der Eintritt an diesen Stätten liegt für ausländische Gäste bei rund 1.200 ₹. **Patrika Gate und Panna Meena sind kostenlos.**\n- **Die Treppen von Panna Meena sind zum Begehen gesperrt.** Es ist ein Foto, kein Abstieg.\n- Amer öffnet um 8. Zur Öffnung dort zu sein hält andere Leute aus Ihren Bildern.\n- Nehmen Sie mehr Akku und Speicher mit, als Sie denken. Sechs Stunden sind viele Aufnahmen.\n\n**Für wen es passt**\n\nFür Fotografen jedes Niveaus, für Content-Schaffende, und für alle, die entschieden haben, dass dies die Reise ist, von der sie gute Bilder wollen.",
+  "highlights": [
+   "Fotografieren Sie Jaipurs instagrammtauglichste Orte mit einem fotoerfahrenen örtlichen Guide"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die Besichtigungen",
+   "Staatlich zugelassener Guide vor Ort",
+   "Flasche Mineralwasser",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Eintrittskarten",
+   "Alle Speisen",
+   "Alle persönlichen Ausgaben"
+  ]
+ },
+ "jaipur-elephant-sanctuary-tour-with-pick-up-and-dr": {
+  "title": "Jaipur: Elefantenschutzzentrum mit Abholung und Rückfahrt",
+  "metaTitle": "Jaipur: Elefantenschutzzentrum mit Transfers",
+  "metaDescription": "Zeit mit gerettenen Elefanten in einem Schutzzentrum bei Jaipur: füttern, baden und fotografieren, mit Transfers im privaten Wagen.",
+  "shortDescription": "Zeit mit gerettenen Elefanten in einem Schutzzentrum bei Jaipur: füttern, baden und fotografieren, mit Transfers im privaten Wagen. Acht Optionen.",
+  "fullDescription": "**Zeit mit Elefanten, die niemanden tragen.**\n\nJaipur hat eine lange und unangenehme Geschichte mit Elefantenritten hinauf zum Amer Fort. Die Schutzzentren hier existieren als Alternative: die Tiere leben auf dem Gelände, niemand reitet sie, und Besucher füttern sie, gehen mit ihnen und baden sie stattdessen.\n\n**Was Sie tun**\n\nSie treffen die Elefanten und ihre **Mahouts**, die meist seit Jahren beim selben Tier sind und Ihnen erzählen, woher es kommt. Sie füttern sie, Zuckerrohr und Bananen, in Mengen, die Leute überraschen. Sie gehen mit ihnen, und je nach Option helfen Sie beim Baden, was sie erheblich mehr genießen, als Sie trocken bleiben werden.\n\nEs bleibt Zeit zum Fotografieren, und die Mahouts kennen die Winkel besser als alle anderen.\n\n**Optionen**\n\nAcht bei der Buchung, von einer kurzen Fotosession bis zu einer Ganztagsvariante in Verbindung mit Jaipurs Sehenswürdigkeiten. Prüfen Sie, welche Ihre Buchung abdeckt: sie unterscheiden sich in der Länge erheblich.\n\n**Inklusive**\n\nAbholung und Rückfahrt im privaten klimatisierten Wagen von überall in Jaipur, und praktische Zeit bei den Elefanten.\n\n**Gut zu wissen**\n\n- **Kein Reiten.** Wenn irgendeine Tour in Jaipur Ihnen einen Elefantenritt anbietet, ist das eine andere Art von Betrieb.\n- Tragen Sie Kleidung, bei der es nicht schlimm ist, wenn sie hinüber ist, falls Sie eine Badeoption nehmen. Sie werden nass und schlammig.\n- Elefanten sind große, unberechenbare Tiere. Hören Sie auf den Mahout; die Anweisungen sind nicht dekorativ.\n- Der Morgen ist besser, kühler für die Tiere und für Sie, und sie sind aktiver.\n- Die Standards der Schutzzentren in Jaipur sind unterschiedlich. Fragen Sie nach der Geschichte der Tiere und ihrem Tagesablauf; ein gutes antwortet offen.\n\n**Für wen es passt**\n\nFür Familien mit Kindern, für Reisende, die Elefanten sehen wollen, ohne sie zu reiten, und für alle, die eine Stunde in Jaipur suchen, die kein Fort ist.",
+  "highlights": [
+   "Begegnen Sie majestätischen Elefanten in einer ruhigen, natürlichen Umgebung"
+  ],
+  "included": [
+   "Abholung und Rückfahrt im privaten klimatisierten Wagen von jedem Ort in Jaipur.",
+   "Nahe, praktische Begegnung mit den Elefanten.",
+   "Lernen Sie von den Mahouts über die Kultur und Pflege der Elefanten."
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Unterkunft"
+  ]
+ },
+ "jaipur-guided-shopping-tour-experience-with-female": {
+  "title": "Jaipur: geführter Einkaufstag mit einer Expertin",
+  "metaTitle": "Jaipur: geführter Einkaufstag mit einer Expertin",
+  "metaDescription": "Ein geführter Einkaufstag in Jaipur mit einer Expertin, im Wagen oder privaten Tuk-Tuk. Optionen für halben Tag, ganzen Tag und exklusiv.",
+  "shortDescription": "Ein geführter Einkaufstag in Jaipur mit einer Expertin, im Wagen oder privaten Tuk-Tuk. Optionen für halben Tag, ganzen Tag und exklusiv.",
+  "fullDescription": "**Jaipurs Basare, mit jemandem, der den faireren Preis kennt.**\n\nJaipur ist eine der besten Städte Indiens zum Einkaufen und eine der leichtesten, in der man zu viel zahlt. Textilien, Edelsteine, Silber, Juttis, blaue Keramik: die Qualitätsspanne ist enorm, und der Preis, den man Ihnen nennt, hängt ganz davon ab, was der Verkäufer glaubt, dass Sie wissen.\n\nEine Expertin, die selbst auf diesen Märkten einkauft, behebt das und übernimmt das Handeln, wenn Sie es lieber lassen.\n\n**Wohin Sie gehen**\n\n**Johari Bazaar** für Schmuck und Edelsteine: Jaipur schleift einen sehr großen Teil der farbigen Steine der Welt. **Bapu Bazaar** für Textilien, Juttis und Parfums. **Tripolia Bazaar** für Lackarmreifen, über einer Flamme in türbreiten Läden gemacht. **Chandpole** für Marmor und Handwerk. Und die Werkstätten für **blaue Keramik**, ein Handwerk, das Jaipur eigen ist und überhaupt keinen Ton enthält.\n\nUnterwegs gibt es sichere Stopps für örtliche Snacks, ausgewählt von jemandem, der dort isst.\n\n**Optionen**\n\nVier bei der Buchung: eine geführte Einkaufstour, eine **private Tuk-Tuk-Tour mit einer Guide**, ein exklusiver halber Tag, und ein exklusiver ganzer Tag. Das Tuk-Tuk kommt weiter in die Altstadtgassen.\n\n**Inklusive**\n\nAbholung am Hotel, eine persönliche Einkaufsberatung, die geführte Einkaufstour, und sichere Proben örtlicher Snacks.\n\n**Gut zu wissen**\n\n- **Edelsteine: verlangen Sie ein Zertifikat eines unabhängigen Labors, nicht das des Verkäufers.** Jaipurs langlebiger Betrug ist das Edelstein-Exportgeschäft: hier günstig kaufen, zu Hause mit Gewinn verkaufen. Es funktioniert nicht und läuft seit Jahrzehnten.\n- **Schicken Sie Ihre Liste und Ihr Budget vor dem Tag.** Das entscheidet, welche Basare Ihre Stunden wert sind.\n- Nehmen Sie Bargeld mit. Die meisten Basarläden nehmen keine Karten.\n- Handeln wird in den Basaren erwartet und in Festpreisläden nicht; Ihre Guide weiß, was was ist.\n- Die Altstadtgassen sind eng und voll. Bequeme Schuhe.\n\n**Für wen es passt**\n\nFür Frauen, die allein oder gemeinsam reisen, für alle, die Edelsteine oder Textilien kaufen, und für Reisende, die lieber eine Fürsprecherin haben als einen Fahrer auf Provision.",
+  "highlights": [
+   "Erkunden Sie Jaipurs berühmte Märkte mit einer Einkaufsexpertin"
+  ],
+  "included": [
+   "Abholung am Hotel",
+   "Persönliche Einkaufsberatung",
+   "Geführte Einkaufstour",
+   "Sichere Proben örtlicher Snacks und traditionellen Chai",
+   "Hilfe beim Handeln",
+   "Hilfe bei Änderungen",
+   "Versand der Einkäufe",
+   "GST-Rechnungen, falls nötig",
+   "Klimatisierter Transport"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Mittagessen"
+  ]
+ },
+ "jaipur-amer-fort-rooftop-cooking-class-with-dinner": {
+  "title": "Jaipur: Amer Fort und Kochkurs auf dem Dach, mit Abendessen",
+  "metaTitle": "Jaipur: Amer Fort und Kochkurs auf dem Dach",
+  "metaDescription": "Eine Abendtour durch das Amer Fort, danach ein Kochkurs auf dem Dach mit einer rajasthanischen Familie, und Abendessen. Dreieinhalb Stunden.",
+  "shortDescription": "Eine Abendtour durch das Amer Fort, danach ein Kochkurs auf dem Dach mit einer einheimischen rajasthanischen Familie, und Abendessen. Dreieinhalb Stunden.",
+  "fullDescription": "**Amer am Abend, dann darüber das Abendessen kochen.**\n\nDas Amer Fort am späten Nachmittag ist ein anderer Ort als Amer um elf Uhr morgens: die Busgruppen sind weg, das Licht liegt warm auf dem Sandstein, und Sie können im Sheesh Mahal stehen, ohne eine Schlange hinter sich.\n\nDanach gehen Sie auf ein Dach in der Nähe des Forts und kochen mit einer einheimischen rajasthanischen Familie.\n\n**Das Kochen**\n\nRajasthanisches Essen wurde von der Wüste geformt. Wasser war knapp, also wurde in Ghee und Buttermilch gekocht. Frisches Gemüse war knapp, also trugen Linsen und Kichererbsenmehl den Teller. Wenn Sie das wissen, ergibt die ganze Küche Sinn.\n\nSie machen wahrscheinlich **Dal Baati Churma**, Weizenbrötchen, gebacken bis sie aufreißen, in Ghee gebrochen, mit Dal und einer süßen Bröselmasse, oder **Gatte ki Sabzi**, Klößchen aus Kichererbsenmehl in einem Joghurt-Curry, das genau deshalb existiert, weil es kein Gemüse gab. Dazu ein Brot auf dem Tawa und Reis.\n\nDann essen Sie es auf dem Dach, mit dem beleuchteten Fort auf dem Grat gegenüber.\n\n**Inklusive**\n\nGeführte Abendtour durch das Amber Fort, Willkommensgetränk und Snacks, der Kochkurs mit einer einheimischen rajasthanischen Familie, und das Abendessen.\n\n**Gut zu wissen**\n\n- **Nennen Sie Allergien oder Ernährungswünsche bei der Buchung.** Rajasthanisches Hausessen ist ohnehin weitgehend vegetarisch.\n- Es ist reich an Ghee. Das ist die Küche, nicht die Art zu kochen.\n- Die Zeiten folgen dem Sonnenuntergang, der Start verschiebt sich also über das Jahr. Wir bestätigen Ihren bei der Buchung.\n- Der Eintritt zum Amer Fort kommt separat: 500 ₹ für ausländische Gäste.\n- Ein Dach im Dezember und Januar ist nach Dunkelheit kalt. Nehmen Sie eine Schicht mit.\n\n**Für wen es passt**\n\nFür Paare, für Reisende, die das Fort ohne Andrang wollen, und für alle, die lieber mit einer Familie essen als im Restaurant.",
+  "highlights": [
+   "Genießen Sie ein Abendessen auf dem Dach mit Blick auf das Amer Fort und die Aravalli-Berge"
+  ],
+  "included": [
+   "Geführte Abendtour durch das Amber Fort",
+   "Willkommensgetränk und Snacks",
+   "Kochkurs mit örtlichen rajasthanischen Lehrkräften",
+   "Alle Zutaten und Kochgeräte",
+   "Vollständiges Abendessen aus den zubereiteten Gerichten, auf dem Dach serviert",
+   "Kulturelle Erzählungen zu den Gerichten und rajasthanischen Traditionen",
+   "Wasser in Flaschen, Masala Chai, Kaffee",
+   "Vegetarische und nicht vegetarische Optionen verfügbar"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke werden separat berechnet"
+  ]
+ },
+ "jaipur-private-city-tour-with-car-guide-tickets-lu": {
+  "title": "Jaipur: private Stadttour mit Wagen, Guide, Tickets und Mittagessen",
+  "metaTitle": "Jaipur: private Tour mit Wagen, Guide und Tickets",
+  "metaDescription": "Ein voller privater Tag in Jaipur mit Wagen, Guide, Monumentstickets und Mittagessen. Acht Stunden, vier Optionen.",
+  "shortDescription": "Ein voller privater Tag in Jaipur mit Wagen, Guide, Monumentstickets und Mittagessen. Acht Stunden, vier Optionen.",
+  "fullDescription": "**Alles geregelt, bevor Sie anfangen.**\n\nDer Ganztag in Jaipur mit gebündelten Tickets und Mittagessen, sodass an keinem Tor etwas zu zahlen ist und mitten am Nachmittag nichts zum Essen gesucht werden muss.\n\n**Was Sie sehen**\n\n**Amer Fort**, von 1592, über dem Maota-See. Der Spiegelsaal **Sheesh Mahal**, das Tor **Ganesh Pol** und das wassergekühlte **Sukh Niwas**. Zwei bis drei Stunden hier, was es verdient.\n\n**City Palace**, teils noch von der königlichen Familie bewohnt: die Textilsammlung des Mubarak Mahal, die beiden riesigen Urnen aus Sterlingsilber im Diwan-i-Khas, und die vier bemalten Jahreszeitentore des Pritam Niwas Chowk.\n\n**Jantar Mantar**, das Observatorium des achtzehnten Jahrhunderts mit neunzehn funktionierenden Steininstrumenten, darunter eine 27 Meter hohe Sonnenuhr, noch genau auf zwei Sekunden.\n\n**Hawa Mahal**, die Fassade mit 953 Fenstern von 1799, von innen gesehen und nicht nur von der Straße.\n\nDazu **Jal Mahal** und **Panna Meena ka Kund**, soweit die Route es zulässt.\n\n**Optionen**\n\nVier bei der Buchung, mit unterschiedlichem Leistungsumfang; prüfen Sie, ob Ihre die Tickets und die Mahlzeit enthält.\n\n**Inklusive**\n\nPrivates klimatisiertes Fahrzeug für die Ganztagesbesichtigung, ein professioneller Guide, und Monumentstickets sowie Mittagessen bei den Optionen, die sie aufführen.\n\n**Gut zu wissen**\n\n- Der gebündelte Eintritt deckt die üblichen Tickets für ausländische Gäste, bei Einzelkauf rund 1.600 ₹ über diese Stätten.\n- **Fangen Sie in Amer an.** Es öffnet um 8; um 10:30 sind die Höfe voll und das Sheesh Mahal ist eine Schlange.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.**\n- **Nennen Sie uns Ernährungswünsche bei der Buchung**, dann wird das Mittagessen entsprechend arrangiert.\n- Acht Stunden mit viel Gehen auf unebenem Stein. Bequeme Schuhe zählen mehr als alles andere, was Sie mitbringen.\n\n**Für wen es passt**\n\nFür Erstbesucher, die den Tag von Anfang bis Ende geregelt haben wollen, und für Reisende, die lieber einmal zahlen als an vier Ticketschaltern abzurechnen.",
+  "highlights": [
+   "Genießen Sie den privaten klimatisierten Wagen für einen ganzen Tag Besichtigung in Jaipur"
+  ],
+  "included": [
+   "Private Tour für ein persönliches Erlebnis",
+   "Ganztagesbesichtigung im privaten, klimatisierten Fahrzeug",
+   "Abholung und Rückfahrt am Hotel, Flughafen oder Bahnhof innerhalb Jaipurs",
+   "Privater, erfahrener örtlicher Guide",
+   "Trinkwasser in Flaschen gratis",
+   "Eintrittsgebühren der Monumente (wenn die Option gewählt ist)",
+   "Buffet-Mittagessen in einem Restaurant (wenn gewählt)",
+   "Alle örtlichen Parkgebühren, Stadtsteuern und Kraftstoffkosten"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "jaipur-amer-fort-jal-mahal-hawa-mahal-half-day": {
+  "title": "Jaipur: Amer Fort, Jal Mahal und Hawa Mahal am halben Tag",
+  "metaTitle": "Jaipur: Amer Fort, Jal Mahal und Hawa Mahal",
+  "metaDescription": "Amer Fort, Jal Mahal und Hawa Mahal an einem privaten halben Tag mit Wagen und Guide. Fünf Stunden, drei Optionen.",
+  "shortDescription": "Amer Fort, Jal Mahal und Hawa Mahal an einem privaten halben Tag mit Wagen und Guide. Fünf Stunden, drei Optionen.",
+  "fullDescription": "**Die drei Gebäude, die alle fotografieren, an einem Vormittag.**\n\nDas **Amer Fort** ist die Substanz des Tages und nimmt den größten Teil davon. Ab 1592 über dem Maota-See gebaut, außen ein Fort und innen ein Palast. Der Spiegelsaal **Sheesh Mahal**, das bemalte Tor **Ganesh Pol**, und das **Sukh Niwas** mit Wasserkanälen im Marmor zur Kühlung: Klimatisierung des sechzehnten Jahrhunderts, auf einem Hügel.\n\nDer **Jal Mahal** steht mitten im Man-Sagar-See, vier seiner fünf Geschosse unter Wasser, wenn der See voll ist. Hinein kann man nicht, und diese Tour behauptet nichts anderes: es ist ein Stopp für den Blick, und mit den Nahargarh-Hügeln dahinter zur richtigen Stunde ist dieser Blick seine zehn Minuten wert.\n\nDer **Hawa Mahal**, der Palast der Winde, ist die fünfgeschossige rosa Fassade mit 953 Fenstern, 1799 gebaut, damit königliche Frauen die Straßenprozessionen ungesehen verfolgen konnten. Die meisten Besucher fotografieren sie von der Straße gegenüber und fahren weiter. Hineinzugehen gibt Ihnen den Blick hinaus durch diese Fenster und ein viel klareres Gefühl dafür, wozu das Gebäude gedacht war.\n\n**Optionen**\n\nDrei bei der Buchung: nur Guide, private Tour mit Wagen und Fahrer, oder die umfangreichere Variante mit Tickets.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel oder Flughafen, privater klimatisierter Wagen mit Fahrer, professioneller Guide, Wasser in Flaschen, Maut und Parkgebühren. Der Monumentseintritt hängt von der Option ab.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer Fort 500 ₹, Hawa Mahal 200 ₹. Der Jal Mahal hat keinen Eintritt, das Gebäude ist geschlossen.\n- **Fahren Sie zuerst nach Amer, und früh.** Es öffnet um 8 und füllt sich am späten Vormittag.\n- **Elefantenritte sind nicht enthalten und wir buchen sie nicht.**\n- Fünf Stunden passen für diese drei. City Palace und Jantar Mantar dazu machen daraus einen vollen und recht anstrengenden Tag.\n- Amer bedeutet viele Treppen. Bequeme Schuhe.\n\n**Für wen es passt**\n\nFür Reisende mit einem Vormittag in Jaipur, und für alle, die lieber drei Dinge richtig sehen als sechs im Vorbeigehen.",
+  "highlights": [
+   "Bequeme Abholung und Rückfahrt am Hotel in Jaipur im privaten Wagen."
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die Besichtigungen",
+   "Professioneller Guide",
+   "Mittagessen im Restaurant (wenn die Option gewählt ist)",
+   "Flasche Mineralwasser",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für die Monumente",
+   "Alle persönlichen Ausgaben"
+  ]
+ },
+ "jaipur-amber-fort-guided-walking-tour": {
+  "title": "Jaipur: geführter Rundgang durch das Amber Fort",
+  "metaTitle": "Jaipur: geführter Rundgang durch das Amber Fort",
+  "metaDescription": "Ein zweistündiger geführter Rundgang durch das Amer Fort, mit oder ohne Eintrittskarte. Nur das Fort, richtig erklärt.",
+  "shortDescription": "Ein zweistündiger geführter Rundgang durch das Amer Fort, mit oder ohne Eintrittskarte. Nur das Fort, richtig erklärt.",
+  "fullDescription": "**Zwei Stunden in Amer mit jemandem, der es kennt.**\n\nKein Wagen, keine Stadtrunde, kein Mittagessen. Ein Guide trifft Sie am Amer Fort und geht zwei Stunden mit Ihnen hindurch.\n\nDas ist die Option, wenn Sie eigenen Transport haben, wenn Sie nahe Amer wohnen, oder wenn Sie einfach das Fort erklärt haben wollen und keinen organisierten ganzen Tag.\n\n**Was der Rundgang abdeckt**\n\nDer Aufstieg über die Rampe und das **Suraj Pol** in den Jaleb Chowk, den Haupthof, in dem das Heer antrat.\n\nDas **Ganesh Pol**, das bemalte Tor zu den privaten Palästen, mit Fresken, die nach vier Jahrhunderten noch ihre Farbe halten.\n\nDas **Sheesh Mahal**, der Spiegelpalast: Tausende konvexe Spiegelplättchen in Wand und Decke, sodass eine einzige Kerze sich über den Raum vervielfacht. Die Geschichte besagt, die Königin durfte nicht im Freien schlafen, also wurde ihr eine Decke aus Sternen im Inneren gebaut.\n\nDas **Sukh Niwas** gegenüber, gekühlt von Wasser, das durch Kanäle im Marmor läuft: Klimatisierung, im sechzehnten Jahrhundert auf einem Hügel gebaut, was eine Ingenieurleistung ist, bevor es Zierde ist.\n\nUnd die **Zenana**, die Frauengemächer, so angelegt, dass der Maharadscha jede seiner Königinnen besuchen konnte, ohne dass die anderen davon wussten.\n\n**Optionen**\n\nZwei bei der Buchung: Rundgang mit Guide, oder mit Eintrittskarte.\n\n**Inklusive**\n\nGeführter Rundgang durch das Amber-Palastfort. Eintrittskarte bei der Option, die sie aufführt.\n\n**Gut zu wissen**\n\n- Der Eintritt für ausländische Gäste beträgt 500 ₹, indische Staatsangehörige zahlen 100 ₹.\n- **Transport ist in der Basisoption nicht enthalten.** Amer liegt 11 km vom Zentrum Jaipurs, eine leichte Fahrt mit Autorikscha oder Taxi.\n- **Gehen Sie früh.** Das Fort öffnet um 8, und um 10:30 sind die Höfe voll.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.** Jeeps fahren dieselbe Rampe.\n- Zwei Stunden Gehen mit sehr vielen Stufen und unebenem Stein. Bequeme Schuhe.\n\n**Für wen es passt**\n\nFür unabhängige Reisende mit eigenem Transport, für alle, die nur das Fort wollen, und für Besucher mit knappem Budget, die es dennoch erklärt haben möchten.",
+  "highlights": [
+   "Bewundern Sie das blendende Sheesh Mahal, geschmückt mit Spiegeln und Steinen"
+  ],
+  "included": [
+   "Geführter Rundgang durch das Amber-Palastfort"
+  ],
+  "notIncluded": [
+   "Transfers"
+  ]
+ },
+ "jaipur-hidden-temples-stepwells-private-tour-by-ac": {
+  "title": "Jaipur: versteckte Tempel und Stufenbrunnen, privat im klimatisierten Wagen",
+  "metaTitle": "Jaipur: versteckte Tempel und Stufenbrunnen, privat",
+  "metaDescription": "Jaipurs Tempel, Stufenbrunnen und Altstadtgassen im privaten klimatisierten Wagen mit erfahrenem Guide. Fünf Stunden.",
+  "shortDescription": "Jaipurs Tempel, Stufenbrunnen und Altstadtgassen im privaten klimatisierten Wagen mit erfahrenem Guide. Fünf Stunden, die Stätten, an denen die meisten Touren vorbeifahren.",
+  "fullDescription": "**Drei Orte in Jaipur, welche die Standardrunde weglässt.**\n\n**Galtaji**, der Affentempel, liegt in einer Schlucht in den Hügeln östlich der Stadt. Natürliche Quellen füllen eine Reihe heiliger Becken, die in den Fels geschlagen sind, Pilger baden darin, und mehrere hundert Makaken leben um die Anlage. Er ist aus dem achtzehnten Jahrhundert, rosa Sandstein, und sieht nach nichts sonst in Jaipur aus: die Lage tut das Meiste.\n\n**Panna Meena ka Kund**, unterhalb von Amer, ist ein Stufenbrunnen aus dem sechzehnten Jahrhundert, acht Geschosse tief, mit sich kreuzenden symmetrischen Treppen an allen vier Seiten. Es ist das bestkomponierte Bauwerk der Stadt, und meist ist niemand dort. Die Treppen sind inzwischen zum Begehen gesperrt, es ist also ein Foto und kein Abstieg.\n\nDie **Altstadtgassen** füllen den Rest: Stoffdrucker, Lackarmreifenmacher, die Harz über einer Flamme in türbreiten Läden verarbeiten, und die Basare hinter den Hauptstraßen, wo der Handel tatsächlich stattfindet.\n\n**Optionen**\n\nZwei bei der Buchung: nur Guide, oder Guide mit privatem klimatisiertem Wagen.\n\n**Inklusive**\n\nPrivater klimatisierter Wagen, ein erfahrener Guide, Besuche des Galtaji-Tempels, des Stufenbrunnens Panna Meena und der Altstadtgassen, alle Transfers, und Wasser in Flaschen.\n\n**Gut zu wissen**\n\n- **Achten Sie auf die Affen in Galtaji.** Sie nehmen Brillen, Telefone und alles in einer offenen Hand, und sie sind darin geübt. Halten Sie Essen außer Sicht.\n- Galtaji verlangt Schuhe aus am Tempel und zurückhaltende Kleidung.\n- **Die Treppen von Panna Meena können nicht begangen werden.** Kommen Sie nicht mit diesem Plan.\n- Früh am Morgen ist Galtaji am besten: Pilger beim Baden, kühler, und weniger Affen wach und motiviert.\n- Fünf Stunden decken alle drei ohne Hetze ab. Bequeme Schuhe, denn der Weg in der Schlucht von Galtaji geht bergauf.\n\n**Für wen es passt**\n\nFür Wiederkehrer, Fotografen, und alle, die Amer und den City Palace hinter sich haben und das Jaipur darunter wollen.",
+  "highlights": [
+   "Privater klimatisierter Wagen für die gesamte Tour"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen",
+   "Erfahrener Guide",
+   "Galtaji-Tempel",
+   "Stufenbrunnen Panna Meena",
+   "Altstadtgassen",
+   "Alle Transfers",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "from-delhi-jaipur-same-day-tour": {
+  "title": "Ab Delhi: Jaipur an einem Tag",
+  "metaTitle": "Ab Delhi: Jaipur an einem Tag im privaten Wagen",
+  "metaDescription": "Delhi nach Jaipur und zurück an einem einzigen Tag im privaten Wagen mit Guide. Die Hauptsehenswürdigkeiten der Rosa Stadt ohne Übernachtung.",
+  "shortDescription": "Delhi nach Jaipur und zurück an einem einzigen Tag im privaten Wagen mit Guide. Die Hauptsehenswürdigkeiten der Rosa Stadt ohne Übernachtung.",
+  "fullDescription": "**Jaipur an einem Tag ab Delhi, was die meisten für unmöglich halten.**\n\nEs sind etwa 270 km pro Richtung auf einer guten Schnellstraße, also rund fünf Stunden Fahrt über den Tag. Das ist viel, und es lässt genug für die zwei oder drei Gebäude, die am meisten zählen, richtig gemacht statt im Vorbeigehen gesehen.\n\n**Was Sie sehen**\n\n**Amer Fort**, von 1592, über dem Maota-See. Der Spiegelsaal **Sheesh Mahal**, in dem Tausende konvexer Spiegelplättchen eine einzige Flamme über den Raum vervielfachen, und das **Ganesh Pol**, das bemalte Tor zu den privaten Palästen.\n\n**City Palace**, teils noch von der königlichen Familie bewohnt: die Textilsammlung des Mubarak Mahal und die beiden Urnen aus Sterlingsilber im Diwan-i-Khas, die noch heute die größten je gefertigten Einzelstücke aus Silber sind, gebaut, damit ein Maharadscha 1901 Gangeswasser nach England mitnehmen konnte.\n\n**Hawa Mahal** und **Jantar Mantar**, wenn die Zeit reicht, und **Jal Mahal** am See als Aussichtsstopp auf dem Weg hinaus.\n\n**Optionen**\n\nZwei bei der Buchung: privater Wagen mit professionellem Guide, oder dasselbe mit Tickets und Transfers.\n\n**Inklusive**\n\nPrivater klimatisierter Wagen, Abholung und Rückfahrt am Hotel oder Flughafen, professioneller Guide, Wasser in Flaschen, Maut und Parkgebühren. Der Monumentseintritt hängt von der Option ab.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer Fort 500 ₹, City Palace 700 ₹, Hawa Mahal 200 ₹, Jantar Mantar 200 ₹.\n- **Delhi gegen 6 Uhr morgens zu verlassen ist das, was es funktionieren lässt.** Später und Sie kommen in Amer an, wenn es schon voll ist.\n- Zehn bis zwölf Stunden von Tür zu Tür, davon fünf im Auto. Es funktioniert, aber es ist ein langer Tag.\n- Wenn Sie zwei Tage haben, übernachten Sie. Dieselbe Route wird erheblich angenehmer, und Sie bekommen Nahargarh zum Sonnenuntergang.\n- **Oktober bis März** ist die Saison; im Mai und Juni liegt Jaipur regelmäßig über 45 °C.\n\n**Für wen es passt**\n\nFür Reisende mit einem freien Tag in Delhi, die Rajasthan sehen wollen, und für alle, die keine Übernachtung in ihren Plan bekommen.",
+  "highlights": [
+   "Erkunden Sie die Stadt Jaipur an einem Tag ab Delhi"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen",
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Professioneller Guide",
+   "Transport im privaten Wagen",
+   "Trinkwasser in Flaschen",
+   "Parkgebühren",
+   "Alle anfallenden Steuern und Gebühren",
+   "Mittagessen in Jaipur (wenn die Option gewählt ist)",
+   "Eintrittskarten für die Monumente (wenn die Option gewählt ist)"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "from-jaipur-2-day-ranthambore-national-park-safari": {
+  "title": "Ab Jaipur: 2 Tage Safari im Ranthambore-Nationalpark",
+  "metaTitle": "Ab Jaipur: 2 Tage Safari in Ranthambore",
+  "metaDescription": "Zwei Tage von Jaipur nach Ranthambore mit zwei Cantersafaris, Parkeintritt und Hotel. Optionen von 3 bis 5 Sternen.",
+  "shortDescription": "Zwei Tage von Jaipur nach Ranthambore mit zwei Cantersafaris, Parkeintritt und Hotel. Optionen von 3 bis 5 Sternen.",
+  "fullDescription": "**Zwei Safaris verdoppeln Ihre Chancen, und das ist der ehrliche Grund zu übernachten.**\n\nRanthambore liegt etwa vier Stunden von Jaipur. Ein Tagesausflug gibt Ihnen eine Safari und viel Fahrt. Zwei Tage geben zwei Safaris in verschiedenen Zeitfenstern, und da Tigersichtungen stark von Glück, Zone und Tageszeit abhängen, sind zwei etwas deutlich anderes als eine.\n\n**Der Park**\n\nRanthambore ist um ein Fort aus dem 10. Jahrhundert herum entstanden, mit trockenem Laubwald darum, und die über das Reservat verstreuten Ruinen, alte Tore, Chhatris, ein Stufenbrunnen, geben ihm ein Aussehen, das nichts sonst in Indien hat. Es hat eine echte Tigerpopulation und dazu Leopard, Lippenbär, Sambar, Sumpfkrokodil und eine sehr lange Vogelliste.\n\nDie Tiere hier sind an Fahrzeuge gewöhnt, was die Sichtungsquoten erklärt.\n\n**Der Ablauf**\n\nPrivater klimatisierter Transport ab Jaipur, zwei Safaris im **Canter** (dem offenen Fahrzeug mit 20 Sitzen), Parkeintritt, und eine Hotelnacht.\n\n**Optionen**\n\nVier bei der Buchung: nur Transport und Safaris, oder mit einem Hotel in 3, 4 oder 5 Sternen einschließlich zweier Mahlzeiten.\n\n**Inklusive**\n\nZwei Safaris im Canter, die Eintrittsgebühren des Ranthambore-Nationalparks, privater klimatisierter Transport ab Jaipur, und Unterkunft bei den Optionen, die sie aufführen.\n\n**Gut zu wissen**\n\n- **Der Park ist vom 1. Juli bis 30. September geschlossen**, wegen des Monsuns. Die Zonen 6 bis 10 bleiben manchmal offen, die Kernzonen nicht.\n- **Safariplätze werden staatlich zugeteilt und sind ausverkauft** in der Saison und um indische Feiertage. Buchen Sie so früh wie möglich: das ist die eigentliche Einschränkung.\n- **Die Zone teilt die Forstbehörde zu, sie wird nicht gewählt.** Manche Zonen haben bessere Sichtungsbilanzen als andere, und niemand kann ehrlicherweise eine anfordern.\n- **Kein Tiger ist garantiert.** Wer einen verspricht, lügt.\n- Morgensafaris sind besser für Sichtungen und in einem offenen Canter von Dezember bis Februar wirklich kalt. Ziehen Sie sich in Schichten an.\n\n**Für wen es passt**\n\nFür Reisende mit Interesse an Tierwelt, für Familien mit Kindern, die genug Forts gesehen haben, und für alle, die eine echte Chance auf einen Tiger wollen und keine symbolische.",
+  "highlights": [
+   "Starten Sie zu einer landschaftlich schönen Fahrt von Jaipur in den Ranthambore-Nationalpark"
+  ],
+  "included": [
+   "2 Safaris im Ranthambore-Nationalpark mit dem Canter",
+   "Eintrittsgebühr des Ranthambore-Nationalparks (wenn die Option gewählt ist)",
+   "Kosten der Cantersafari",
+   "Naturkundlicher Guide im Nationalpark",
+   "Abhol- und Rückfahrtservice",
+   "Privates klimatisiertes Fahrzeug (für Abholung und Rückfahrt)",
+   "Kraftstoffkosten, Straßenmaut und Steuern",
+   "Wasserflasche gratis",
+   "Unterkunft im 3-Sterne-Hotel mit Abendessen und Frühstück (wenn die Option gewählt ist)",
+   "Unterkunft im 4-Sterne-Hotel mit Abendessen und Frühstück (wenn die Option gewählt ist)",
+   "Unterkunft im 5-Sterne-Hotel mit Abendessen und Frühstück (wenn die Option gewählt ist)"
+  ],
+  "notIncluded": [
+   "Alle persönlichen Ausgaben",
+   "Trinkgeld für den Fahrer",
+   "Getränke jeder Art"
+  ]
+ },
+ "jaipur-by-night-food-walk-art-hidden-lanes": {
+  "title": "Jaipur bei Nacht: Streetfood, Kunst und versteckte Gassen",
+  "metaTitle": "Jaipur bei Nacht: Streetfood und versteckte Gassen",
+  "metaDescription": "Ein zweistündiger Nachtspaziergang durch Jaipurs Basare und Hintergassen mit Streetfood unterwegs. Fünf Optionen.",
+  "shortDescription": "Ein zweistündiger Nachtspaziergang durch Jaipurs Basare und Hintergassen mit Streetfood unterwegs. Fünf Optionen, darunter eine Ganztagsergänzung.",
+  "fullDescription": "**Die Altstadt, nachdem die Reisebusse weg sind.**\n\nJaipurs Mauerstadt leert sich gegen sechs von Besuchern und füllt sich mit Einheimischen. Die Basare bleiben offen, die Essensstände kommen in Gang, und die Gassen hinter den Hauptstraßen, wo die Handwerker tatsächlich arbeiten, sind ruhiger und leichter zu gehen.\n\n**Was der Spaziergang abdeckt**\n\nDie **Nachtbasare** entlang Johari und Bapu, noch im Handel. Die **versteckten Gassen** dahinter: Lackarmreifenmacher, die Harz über einer Flamme in türbreiten Läden verarbeiten, Stoffdrucker, Silberschmiede. Die Straßenkunst und die bemalten Fassaden, die im grellen Tageslicht leicht übersehen werden.\n\nUnd das **Essen**, der Grund, aus dem die meisten buchen. Jaipurs Streetfood ist eigen: **Pyaaz Kachori**, ein blättriges Gebäck mit gewürzter Zwiebelfüllung, heiß gegessen; **Mirchi Bada**, eine ganze Chili im Kichererbsenmehlteig, weniger brutal als es klingt; **Ghewar**, die scheibenförmige, wabenartige Süßigkeit in Sirup, nur hier richtig gemacht; **Lassi** im Tonbecher, den man danach wegwirft.\n\n**Optionen**\n\nFünf bei der Buchung, vom Nachtbasar-Spaziergang allein bis zu einem ganzen Tag Besichtigung mit dem Nachtspaziergang dran.\n\n**Inklusive**\n\nWasser, und eine Mahlzeit bei den Optionen, die sie aufführen.\n\n**Gut zu wissen**\n\n- Zwei Stunden, alles zu Fuß, auf unebenen und vollen Gassen. Bequeme Schuhe.\n- Kommen Sie hungrig zu den Optionen, die Essen enthalten.\n- Nehmen Sie Bargeld mit. Hier nimmt nichts Karten.\n- Vegetarisch ist einfach: das meiste Streetfood in Jaipur ist es ohnehin. Nennen Sie Allergien vorher.\n- **Ghewar ist saisonal**, meist um Teej und Raksha Bandhan gemacht. Wenn es nicht die Saison ist, sagt Ihr Guide es, statt etwas vorzugeben.\n\n**Für wen es passt**\n\nFür Reisende mit Interesse am Essen, für alle, denen die Stadt am Tag zu viel war, und für Besucher mit einem freien Abend nach den Forts.",
+  "highlights": [
+   "Geführter Spaziergang durch Jaipurs lebhafte Nachtbasare"
+  ],
+  "included": [
+   "Mahlzeit (wenn Sie sie als Option wählen)",
+   "Wasser"
+  ],
+  "notIncluded": [
+   "Keine"
+  ]
+ },
+ "jaipur-sunset-night-city-jeep-tour-with-pickup-and": {
+  "title": "Jaipur: Jeeptour zum Sonnenuntergang und durch die Stadt bei Nacht",
+  "metaTitle": "Jaipur im Jeep: Sonnenuntergang und Stadt bei Nacht",
+  "metaDescription": "Jaipur im offenen Jeep zum Sonnenuntergang und nach Dunkelheit, zwischen den Forts und durch die Altstadt. Zwei Stunden, acht Optionen.",
+  "shortDescription": "Jaipur im offenen Jeep zum Sonnenuntergang und nach Dunkelheit, zwischen den Forts und durch die Altstadt. Zwei Stunden, acht Optionen.",
+  "fullDescription": "**Ein offener Jeep ist das richtige Fahrzeug für die Gratstraße.**\n\nDie Straße hinauf nach **Nahargarh** ist eng, steil und voller Kehren, und der ganze Sinn ist der Blick über den Rand. Im Auto sehen Sie durch Glas. Im offenen Jeep nicht, und zum Sonnenuntergang, wenn die Stadt sich darunter ausbreitet, ist das der Unterschied, auf dem diese Tour gebaut ist.\n\n**Wohin es geht**\n\nHinauf zum **Nahargarh Fort** auf dem Aravalli-Grat für den Sonnenuntergang über ganz Jaipur: der beste Blick der Stadt, und am besten in der letzten Stunde Licht, wenn der rosa Sandstein darunter tatsächlich rosa wird.\n\nVorbei am **Amer Fort** und an **Jaigarh**, nach Dunkelheit entlang des Grats angestrahlt.\n\nUnd durch die **Rosa Stadt** selbst bei Nacht: der Hawa Mahal beleuchtet ohne seinen Tagesandrang, die Basare noch im Handel, der Jal Mahal im Man-Sagar-See gespiegelt.\n\n**Optionen**\n\nAcht bei der Buchung, mit der Jeepsafari in Amer, der Nachtrunde durch die Rosa Stadt, Gruppen- und Privatvarianten. Prüfen Sie, welche Strecke Ihre abdeckt.\n\n**Inklusive**\n\nJeeptransport zwischen den Forts, und ein professioneller lizenzierter englischsprachiger Guide.\n\n**Gut zu wissen**\n\n- **Die Zeiten folgen dem Sonnenuntergang**, die Abfahrt verschiebt sich also über das Jahr. Wir bestätigen Ihre bei der Buchung.\n- Ein offener Jeep ist nach Dunkelheit von Dezember bis Februar kalt. Nehmen Sie eine Schicht mit; das überrascht Leute.\n- Der Monumentseintritt ist nicht enthalten, und die meisten Forts schließen ohnehin bei Sonnenuntergang: das ist eine Tour für Ausblicke und Fahrt, nicht für Innenräume.\n- Die Gratstraße windet sich wirklich. Wenn Sie leicht reisekrank werden, setzen Sie sich nach vorn.\n- Nahargarh hat ein Café auf den Wehrgängen, falls Sie lieber mit dem Blick sitzen als ihn zu fotografieren und weiterzufahren.\n\n**Für wen es passt**\n\nFür Fotografen, für Reisende, die die Forts tagsüber schon gemacht haben, und für alle, die einen gut gelegten Abend wollen statt einer weiteren Monumentsliste.",
+  "highlights": [
+   "Aufregende Jeepfahrt zu drei ikonischen Forts."
+  ],
+  "included": [
+   "Jeep-Safari-Transport zwischen den Forts.",
+   "Dienste eines professionellen, lizenzierten englischsprachigen Guides."
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke.",
+   "Trinkgelder für Guide oder Fahrer.",
+   "Souvenirs oder persönliche Ausgaben."
+  ]
+ },
+ "jaipur-shopping-tour-with-blue-poetry-printing-wor": {
+  "title": "Jaipur: Einkaufstour mit Workshop für blaue Keramik und Stoffdruck",
+  "metaTitle": "Jaipur: Einkaufstour, blaue Keramik und Stoffdruck",
+  "metaDescription": "Ein Einkaufsnachmittag in Jaipur mit Workshop für blaue Keramik und Stoffdruck, im Tuk-Tuk oder privaten Wagen mit Guide. Rund vier Stunden.",
+  "shortDescription": "Ein Einkaufsnachmittag in Jaipur mit Workshop für blaue Keramik und Stoffdruck, im Tuk-Tuk oder privaten Wagen mit Guide. Rund vier Stunden.",
+  "fullDescription": "**Zwei Handwerke aus Jaipur, von Ihnen gemacht, dazu die Märkte.**\n\n**Blaue Keramik** ist Jaipur eigen und ungewöhnlich: sie enthält überhaupt keinen Ton. Die Masse besteht aus Quarzpulver, gemahlenem Glas, Walkerde und Gummi und wird nur einmal bei niedriger Temperatur gebrannt. Das Kobaltblau kam über die Moguln aus Persien, und das Handwerk starb im zwanzigsten Jahrhundert fast aus, bevor es bewusst wiederbelebt wurde. Im Workshop formen und bemalen Sie selbst ein Stück.\n\n**Stoffdruck** ist das andere: ein Muster spiegelbildlich in einen Teakblock geschnitten, in Farbe getaucht, von Hand auf Baumwolle geschlagen und über den Stoff wiederholt, wobei die Ausrichtung nach Augenmaß sitzt. Vier Farben heißt vier Blöcke in Folge. Ihre ersten Schläge werden schief sein, und genau das ist der Punkt.\n\nUm die Werkstätten herum die **Märkte**: Johari Bazaar für Schmuck, Bapu Bazaar für Textilien und Juttis, und die Gassen der Altstadt. Ihr Guide weiß, welche Läden echte Blockdrucke verkaufen und welche Siebdrucke zu Handdruckpreisen: diese eine Unterscheidung ist die Tour wert.\n\n**Optionen**\n\nZwei bei der Buchung: im **privaten Tuk-Tuk**, das weiter in die Altstadtgassen kommt, oder im **privaten Wagen**, der im Sommer und bei Regen besser ist.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel oder Flughafen, privater Transport mit Fahrer, professioneller Guide, die Workshops, Wasser in Flaschen, Maut und Parkgebühren.\n\n**Gut zu wissen**\n\n- **Wie man Handblockdruck von Siebdruck unterscheidet:** Handblockdruck hat kleine Unregelmäßigkeiten dort, wo die Blöcke aneinanderstoßen, und die Farbe sitzt auf beiden Seiten in der Faser. Siebdruck ist vollkommen regelmäßig und liegt auf der Oberfläche.\n- Indigo oxidiert nach Ihrem Weggang weiter, Ihr Stück wird also in den folgenden Stunden nachdunkeln. Das ist die Farbe bei der Arbeit.\n- Tragen Sie etwas, bei dem Flecken nichts ausmachen. Farbe geht nicht mehr heraus.\n- Blaue Keramik wird gebrannt, ein fertiges Stück kann also später abgeholt oder verschickt werden. Fragen Sie in der Werkstatt.\n- Die Altstadtgassen sind eng und uneben. Bequeme Schuhe.\n\n**Für wen es passt**\n\nFür Reisende, die lieber etwas machen als kaufen, für Einkäufer, die einen ehrlichen Guide wollen, und für alle mit einem Nachmittag zwischen Forts.",
+  "highlights": [
+   "Lernen Sie die traditionelle Kunst der blauen Keramik von örtlichen Handwerkern."
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die Besichtigungen",
+   "Professioneller Guide",
+   "Flasche Mineralwasser",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Alle persönlichen Ausgaben"
+  ]
+ },
+ "jaipur-full-day-city-highlights-tour-with-tour-gui": {
+  "title": "Jaipur: Ganztagestour zu den Höhepunkten der Stadt mit Guide",
+  "metaTitle": "Jaipur: Ganztagestour zu den Höhepunkten mit Guide",
+  "metaDescription": "Ein ganzer Tag durch Jaipurs wichtigste Sehenswürdigkeiten mit privatem Wagen und Guide. Acht Stunden, Abholung am Hotel, zwei Optionen.",
+  "shortDescription": "Ein ganzer Tag durch Jaipurs wichtigste Sehenswürdigkeiten mit privatem Wagen und Guide. Acht Stunden, Abholung am Hotel, zwei Optionen.",
+  "fullDescription": "**Jaipurs Hauptsehenswürdigkeiten an einem Tag, in einem machbaren Tempo.**\n\nAcht Stunden reichen für die vier Gebäude, für die alle kommen, plus den Stufenbrunnen, den fast niemand sieht, ohne an jedem zwanzig Minuten zu verbringen und es damit für getan zu erklären.\n\n**Was Sie sehen**\n\n**Amer Fort**, von 1592, über dem Maota-See. Der Spiegelsaal **Sheesh Mahal**, das Tor **Ganesh Pol**, und das **Sukh Niwas** mit Wasserkanälen im Marmor zur Kühlung.\n\n**City Palace**, teils noch von der königlichen Familie bewohnt. Die Textilsammlung des **Mubarak Mahal**, das **Diwan-i-Khas** mit zwei Urnen aus Sterlingsilber, die noch heute die größten je gefertigten Einzelobjekte aus Silber sind, und die vier bemalten Jahreszeitentore des **Pritam Niwas Chowk**.\n\n**Jantar Mantar**, das Observatorium des achtzehnten Jahrhunderts, interessanter als es klingt: neunzehn Steininstrumente, die noch funktionieren, darunter das **Samrat Yantra**, eine 27 Meter hohe Sonnenuhr, genau auf zwei Sekunden.\n\n**Hawa Mahal**, die fünfgeschossige rosa Fassade mit 953 Fenstern, 1799 gebaut, damit königliche Frauen die Straßenprozessionen ungesehen verfolgen konnten.\n\nUnd **Panna Meena ka Kund** bei Amer, der achtgeschossige Stufenbrunnen mit sich kreuzenden symmetrischen Treppen, meist leer.\n\n**Optionen**\n\nZwei bei der Buchung, beide mit privatem Wagen und Guide, die sich darin unterscheiden, was sonst dabei ist.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel in Jaipur, professioneller Guide, privater klimatisierter Wagen, Wasser in Flaschen, Maut und Parkgebühren. Der Monumentseintritt kommt separat.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer Fort 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Hawa Mahal 200 ₹, über den Tag rund 1.600 ₹.\n- **Fangen Sie in Amer an.** Es öffnet um 8, und am späten Vormittag sind die Höfe gerammelt voll.\n- **Elefantenritte sind nicht enthalten und wir buchen sie nicht.**\n- Die Treppen von Panna Meena sind inzwischen zum Begehen gesperrt. Es ist ein Foto, kein Abstieg.\n- Bequeme Schuhe: Amer allein bedeutet viel unebenen Stein.\n\n**Für wen es passt**\n\nFür Erstbesucher mit einem Tag in Jaipur, und für Reisende, die lieber einen wartenden Wagen haben als zwischen den Stätten mit Autorikschas zu verhandeln.",
+  "highlights": [
+   "Bewundern Sie die Größe des Amber Fort und seine beeindruckende Architektur"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel in Jaipur.",
+   "Professionelle Reiseleitung.",
+   "Privater klimatisierter Wagen für die Vormittagstour.",
+   "Buffet-Mittagessen ohne Getränke (wenn die Option gewählt ist)",
+   "Wasser in Flaschen für die Gäste.",
+   "Parkgebühren",
+   "Kraftstoff",
+   "Alle staatlichen Steuern, einschließlich der Waren- und Dienstleistungssteuer (GST)."
+  ],
+  "notIncluded": [
+   "Alle persönlichen Ausgaben.",
+   "Eintrittsgebühren der Monumente.",
+   "Alles, was nicht in den Leistungen oben genannt ist.",
+   "Trinkgelder für Guide und Fahrer."
+  ]
+ },
+ "experience-jaipur-with-evening-tour-by-car-includi": {
+  "title": "Jaipur am Abend: Tour im Wagen mit Abendessen",
+  "metaTitle": "Jaipur am Abend: Tour im Wagen mit Abendessen",
+  "metaDescription": "Jaipurs Sehenswürdigkeiten nach Dunkelheit im Wagen, zum Abschluss ein Abendessen. Drei Stunden, sechs Optionen mit verschiedenen Mahlzeiten.",
+  "shortDescription": "Jaipurs Sehenswürdigkeiten nach Dunkelheit im Wagen, zum Abschluss ein Abendessen. Drei Stunden, sechs Optionen mit verschiedenen Mahlzeiten und Fahrzeugen.",
+  "fullDescription": "**Jaipur bei Nacht, wenn die Forts beleuchtet sind und die Hitze weg ist.**\n\nDie Stadt sieht nach Sonnenuntergang anders aus. Der **Hawa Mahal** ist angestrahlt, und zur Abwechslung fotografiert ihn keine Menschenmenge. **Amer Fort** und **Nahargarh** sind entlang des Grats über der Stadt beleuchtet. Der **Jal Mahal** steht mitten im Man-Sagar-See, sein Spiegelbild verdoppelt ihn. Und die Temperatur ist um zehn Grad gefallen, was von März bis September keine Kleinigkeit ist.\n\n**Der Ablauf**\n\nAbholung an Ihrem Hotel, dann eine Runde zu den beleuchteten Sehenswürdigkeiten im Wagen, zum Abschluss das Abendessen. Rund drei Stunden.\n\nJe nach Option kann das Abendessen in **Chokhi Dhani** stattfinden, dem rajasthanischen Dorf-Resort am Stadtrand mit Volkstanz, Puppenspiel und einem Thali im Sitzen auf dem Boden, touristisch und voll dazu stehend, und wirklich vergnüglich, oder in einem Dachrestaurant mit der Altstadt darunter.\n\n**Optionen**\n\nSechs bei der Buchung, mit unterschiedlichem Fahrzeug und Abendessen.\n\n**Inklusive**\n\nAbholung und Rückfahrt, das Abendessen, Wasser in Flaschen, und Kraftstoff, Parken und Steuern.\n\n**Gut zu wissen**\n\n- Das ist eine **Aussichtstour**. Die Forts werden beleuchtet von außen gesehen; Amer und Nahargarh schließen bei Sonnenuntergang für Besucher.\n- Die Abfahrtszeit verschiebt sich über das Jahr mit dem Sonnenuntergang. Wir bestätigen Ihre bei der Buchung.\n- **Nennen Sie uns Ernährungswünsche bei der Buchung.** Das rajasthanische Thali ist ohnehin weitgehend vegetarisch.\n- Wenn Sie in das Amer Fort hinein wollen, nehmen Sie eine Tagestour, oder die **Klang-und-Licht-Show am Amber Fort**, für die es ein eigenes Ticket gibt.\n- Drei Stunden inklusive Abendessen, es fügt sich also gut nach einem Besichtigungstag ein, statt einen zu ersetzen.\n\n**Für wen es passt**\n\nFür Reisende zwischen März und September, wenn Besichtigungen am Tag strafend sind, für alle mit einem freien Abend, und für Besucher, die die Forts schon gemacht haben.",
+  "highlights": [
+   "Genießen Sie Jaipurs magische Abendlichter im Tuk-Tuk oder Wagen"
+  ],
+  "included": [
+   "Abhol- und Rückfahrtservice",
+   "Abendessen für die Gäste",
+   "Wasserflaschen",
+   "Kraftstoff, Parken, Steuern"
+  ],
+  "notIncluded": [
+   "Monumentseintritt",
+   "Trinkgelder"
+  ]
+ },
+ "jaipur-pink-city-cooking-class-indian-traditional-": {
+  "title": "Jaipur: Kochkurs in der Rosa Stadt, traditionelle indische Küche",
+  "metaTitle": "Jaipur: Kochkurs, traditionelle indische Küche",
+  "metaDescription": "Ein dreistündiger Kochkurs in Jaipurs Rosa Stadt, bei dem Sie rajasthanische Hausgerichte von Grund auf lernen.",
+  "shortDescription": "Ein dreistündiger Kochkurs in Jaipurs Rosa Stadt, bei dem Sie rajasthanische Hausgerichte von Grund auf lernen.",
+  "fullDescription": "**Rajasthanische Küche, richtig gelernt, in drei Stunden.**\n\nRajasthanisches Kochen ist nicht das indische Essen, das die meisten Besucher erwarten, und der Grund ist die Wüste. Wasser war knapp, also wurde stattdessen in Ghee und Buttermilch gekocht. Frisches Gemüse war knapp, also trugen Linsen, Kichererbsenmehl und getrocknete Bohnen den Teller. Essen musste sich ohne Kühlung Tage halten, und deshalb ist so viel davon trocken gewürzt statt saucig.\n\nWenn Sie das wissen, ergibt die ganze Küche Sinn, und genau das lehrt ein guter Kurs hier neben den Rezepten.\n\n**Was Sie wahrscheinlich kochen**\n\n**Dal Baati Churma**, das Gericht des Bundesstaats: harte Weizenbrötchen, gebacken bis sie aufreißen, in Ghee gebrochen, mit einem gewürzten Dal und einem süßen, zerbröselten Churma daneben.\n\n**Gatte ki Sabzi**, Klößchen aus Kichererbsenmehl in einem Joghurt-Curry gesimmert, erfunden eben deshalb, weil es kein Gemüse dafür gab.\n\nDazu ein Brot auf dem Tawa, Reis, und was Saison hat.\n\nDie Gewürzdose wird früh erklärt: was Kreuzkümmel tut, was Koriander nicht tut, warum Garam Masala zuletzt und Kurkuma zuerst hineinkommt. Die meisten Gäste sagen, dieser Teil habe ihr Kochen zu Hause mehr verändert als jedes Rezept.\n\nDann essen Sie, was Sie gemacht haben.\n\n**Inklusive**\n\nDer Kochkurs und die Mahlzeit.\n\n**Gut zu wissen**\n\n- **Nennen Sie Allergien oder Ernährungswünsche bei der Buchung.** Die Speisenfolge wird darum herum geplant und nicht am Tag angepasst.\n- Rajasthanisches Hausessen ist scharf. Sagen Sie, wenn Sie es milder möchten; das stört niemanden.\n- Es ist wirklich reich an Ghee. Das ist die Küche, nicht der Kurs.\n- Bitten Sie vor dem Gehen um die Rezepte schriftlich.\n- Drei Stunden, und Sie essen am Ende, buchen Sie also danach kein Abendessen.\n\n**Für wen es passt**\n\nFür alle, die zu Hause kochen, für Reisende, die eine Pause von Monumenten wollen, und für Besucher, die neugierig sind, warum rajasthanisches Essen nichts wie das indische Essen schmeckt, das sie kennen.",
+  "highlights": [
+   "Tauchen Sie mit einem Kochkurs zum Mitmachen in die indische Kultur ein"
+  ],
+  "included": [
+   "Kochkurs"
+  ],
+  "notIncluded": [
+   "Keine"
+  ]
+ },
+ "jaipur-full-day-sightseeing-with-professional-phot": {
+  "title": "Jaipur: Ganztagesbesichtigung mit professionellem Fotografen",
+  "metaTitle": "Jaipur: Ganztagestour mit professionellem Fotografen",
+  "metaDescription": "Ein ganzer Tag durch Jaipur mit einem professionellen Fotografen neben dem Guide. Sechs Stunden, mit Optionen für Handy- oder Spiegelreflexfotos.",
+  "shortDescription": "Ein ganzer Tag durch Jaipur mit einem professionellen Fotografen neben dem Guide. Sechs Stunden, mit Optionen für Handy- oder Spiegelreflexfotos.",
+  "fullDescription": "**Ein Tag so organisiert, dass die Fotos tatsächlich gut werden.**\n\nJaipur fotografiert sich besser als fast alles in Indien, und die meisten Besucher kommen trotzdem mit denselben vier Handyfotos heim. Diese Tour stellt Ihnen sechs Stunden lang einen arbeitenden Fotografen neben einen Guide, sodass die Route dem Licht folgt und nicht der Reihenfolge einer Broschüre.\n\n**Wo die Bilder sind**\n\n**Amer Fort**: das bemalte Tor Ganesh Pol, der Spiegelsaal Sheesh Mahal, und die Wehrmauern, die den Grat hinauflaufen.\n\n**Panna Meena ka Kund**, der achtgeschossige Stufenbrunnen unterhalb von Amer mit sich kreuzenden symmetrischen Treppen. Das ist das bestkomponierte Bild in Jaipur, und meist ist es leer.\n\n**Patrika Gate**, jeder Bogen und jede Decke bemalt, von wo ein großer Teil des Instagram der Stadt kommt.\n\n**Hawa Mahal** vom Café gegenüber, dem einzigen Winkel, der die ganze Fassade erfasst.\n\nUnd **Nahargarh** zum Sonnenuntergang, mit der Stadt darunter.\n\nDer Guide übernimmt Geschichte und Organisation, damit der Fotograf arbeiten kann und Sie nicht versuchen, beides aufzunehmen.\n\n**Optionen**\n\nVier bei der Buchung: nur Guide, Wagen mit Guide und Fotograf, all inclusive mit **Handy**-Fotografie, oder mit **Spiegelreflex**.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel, klimatisierter Wagen, professioneller Guide, und ein professioneller Fotograf. Die Eintrittsgebühren hängen von der Option ab.\n\n**Gut zu wissen**\n\n- **Der Sonnenaufgang und die letzte Stunde vor Sonnenuntergang** sind die Zeiten, in denen sich diese Tour rechnet. Eine Buchung nur über die Mittagszeit bekommt das schwächste Licht des Tages.\n- Der Eintritt an diesen Stätten liegt für ausländische Gäste bei rund 1.200 ₹.\n- **Klären Sie bei der Buchung die Zahl der bearbeiteten Bilder und die Art der Übergabe.** Das ist das Eine, was Leute zu fragen vergessen.\n- Einfarbige Kleidung fotografiert sich gegen Jaipurs rosa Sandstein besser als unruhige Muster.\n- Amer öffnet um 8; zur Öffnung dort zu sein hält andere Leute aus Ihren Bildern.\n\n**Für wen es passt**\n\nFür Paare, Content-Schaffende, alle, die einen Anlass feiern, und Reisende, die entschieden haben, dass dies die Reise ist, von der sie gute Bilder wollen.",
+  "highlights": [
+   "Erkunden Sie den Charme der mächtigen Rosa Stadt"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel",
+   "Transport im klimatisierten Wagen",
+   "Professioneller Guide",
+   "Professioneller Fotograf",
+   "Eintrittskarten (wenn die Option gewählt ist)",
+   "Mittagessen (wenn die Option gewählt ist)",
+   "Wasser in Flaschen",
+   "Alle Steuern"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "jaipur-jewelry-and-gemstone-crafting-experience": {
+  "title": "Jaipur: Schmuck und Edelsteinschliff zum Mitmachen",
+  "metaTitle": "Jaipur: Schmuck und Edelsteinschliff",
+  "metaDescription": "Ein geführter Tag im Edelsteinhandel Jaipurs: Werkstattbesuch, Schleifeinheit und Schmuckdesign-Kurs. Sechs Stunden mit Hoteltransfers.",
+  "shortDescription": "Ein geführter Tag im Innern des Edelsteinhandels Jaipurs: Werkstattbesuch, eine Schleifeinheit und ein Schmuckdesign-Kurs. Sechs Stunden mit Hoteltransfers.",
+  "fullDescription": "**Jaipur schleift die meisten farbigen Edelsteine der Welt, und fast kein Besucher sieht, wie.**\n\nDie Stadt ist seit dem achtzehnten Jahrhundert ein Zentrum des Edelsteinschliffs, und heute gehen sehr viele Smaragde, Rubine und andere farbige Steine der Welt durch Jaipurs Werkstätten, um geschliffen und poliert zu werden. Das passiert in Hinterhofwerkstätten, die Besucher nie betreten, und die Läden, die an Touristen verkaufen, sind das letzte Glied einer langen Kette.\n\nDiese Tour geht an das andere Ende.\n\n**Was der Tag abdeckt**\n\nEin **geführter Werkstattbesuch**, in dem geschliffen und poliert wird: die Scheiben, das Wasser, die Lupen, und die Menschen, die das seit dreißig Jahren machen.\n\nEine **Lerneinheit zu Edelsteinen**: wie ein Stein bewertet wird, was Karat tatsächlich misst, wie Farbe und Reinheit beurteilt werden, und, nützlich, wie man einen behandelten oder synthetischen Stein erkennt. Dieser letzte Teil ist die Tour allein schon wert, wenn Sie in Indien etwas kaufen wollen.\n\nUnd eine **Schmuckdesign-Einheit**, in der Sie selbst an einem Stück arbeiten.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel, der geführte Werkstattbesuch, die Lerneinheit zu Edelsteinen, die Schmuckdesign-Einheit, und Erfrischungen.\n\n**Gut zu wissen**\n\n- **Kaufen ist freiwillig und es besteht keine Verpflichtung.** Sagen Sie am Anfang, wenn Sie nur lernen wollen, und der Tag läuft genauso.\n- Wenn Sie kaufen, verlangen Sie ein **Zertifikat eines unabhängigen Labors**, nicht das des Verkäufers. Ihr Guide erklärt den Unterschied.\n- **Jaipurs Klassiker unter den Betrügereien ist das Edelstein-Exportgeschäft**: ein Laden bietet an, Ihnen Steine günstig zu verkaufen, damit Sie sie zu Hause weiterverkaufen. Es funktioniert nicht und läuft seit Jahrzehnten. Niemand auf dieser Tour trägt es Ihnen an, aber Sie werden es anderswo in der Stadt hören.\n- Sechs Stunden inklusive Transfers. Geschlossene Schuhe für die Werkstatt.\n- Fotografieren in den Werkstätten kann eingeschränkt sein; fragen Sie, bevor Sie auslösen.\n\n**Für wen es passt**\n\nFür alle, die in Indien Steine oder Schmuck kaufen wollen, für Reisende, die interessiert, wie Dinge tatsächlich gemacht werden, und für Besucher, die einen Tag wollen, der kein weiteres Fort ist.",
+  "highlights": [
+   "Entdecken Sie die Kunst der Schmuckherstellung mit einem Handwerker in dritter Generation"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel",
+   "Geführter Werkstattbesuch",
+   "Lerneinheit zu Edelsteinen",
+   "Schmuckdesign-Einheit",
+   "Erfrischungen",
+   "Teilnahmezertifikat"
+  ],
+  "notIncluded": [
+   "Mittagessen (als Zusatzleistung buchbar)",
+   "Persönliche Einkäufe"
+  ]
+ },
+ "jaipur-hot-air-balloon-experience": {
+  "title": "Jaipur: Fahrt im Heißluftballon",
+  "metaTitle": "Jaipur: Heißluftballon zum Sonnenaufgang",
+  "metaDescription": "Eine Heißluftballonfahrt zum Sonnenaufgang über Jaipurs Forts und Umland, mit Abholung überall in der Stadt und Erfrischungen vor dem Start.",
+  "shortDescription": "Eine Heißluftballonfahrt zum Sonnenaufgang über Jaipurs Forts und Umland, mit Abholung überall in der Stadt und Erfrischungen vor dem Start.",
+  "fullDescription": "**Jaipur aus tausend Fuß, im ersten Licht.**\n\nBallonfahren wird hier zum Sonnenaufgang gemacht, aus demselben Grund wie überall: die Luft ist stabil, die Thermik hat nicht begonnen, und das Licht ist das beste des Tages. Was Jaipur besonders macht, ist das, was unter Ihnen liegt: das **Amer Fort** auf seinem Grat, **Jaigarh** darüber, die **Aravalli**-Berge, die nach Norden davonlaufen, und die Dörfer und Felder dazwischen.\n\nFahrten dauern in der Luft meist etwa eine Stunde, das ganze Erlebnis rund vier Stunden mit der Hinfahrt, dem Füllen, der Fahrt und der Rückkehr.\n\n**Der Ablauf**\n\nKostenlose Abholung überall in Jaipur, deutlich vor dem Morgengrauen. Leichte Erfrischungen am Startplatz, während die Hülle gefüllt wird, was schon für sich sehenswert ist. Dann die Fahrt, dorthin, wohin der Wind trägt: kein Ballon fliegt eine feste Route. Das Begleitfahrzeug folgt und holt Sie ab, wo Sie landen.\n\n**Inklusive**\n\nAbholung und Rückfahrt überall in Jaipur, leichte Erfrischungen vor der Fahrt, und die Fahrt selbst.\n\n**Gut zu wissen**\n\n- **Das Wetter entscheidet.** Fahrten werden bei Wind oder schlechter Sicht abgesagt, und kein Betreiber übergeht das. Planen Sie einen Ersatzmorgen in Ihrem Aufenthalt in Jaipur ein, wenn Ihnen das wichtig ist.\n- **Die Saison läuft etwa von September bis März.** Sommerhitze und Monsun schließen den größten Teil des restlichen Jahres aus.\n- Die Landung erfolgt auf einem Feld und kann holprig sein. Sie werden zur Landeposition eingewiesen, und es lohnt sich zuzuhören.\n- Tragen Sie geschlossene Schuhe und eine lange Hose. Morgen von Dezember bis Februar sind vor Sonnenaufgang wirklich kalt.\n- Über Ihrem Kopf ist ein Brenner, und er ist in Stößen laut und heiß. Das überrascht Leute.\n\n**Für wen es passt**\n\nFür Hochzeitsreisende, Fotografen, und alle, die einen Anlass feiern. Es ist das Teuerste auf dieser Seite und das, worüber Leute nach Hause schreiben.",
+  "highlights": [
+   "Schweben Sie im Heißluftballon über das Umland von Jaipur"
+  ],
+  "included": [
+   "Kostenlose Abholung und Rückfahrt von überall in Jaipur",
+   "Leichte Erfrischungen vor der Fahrt",
+   "Fahrt geführt von international zertifizierten Piloten",
+   "Zertifikat über die erste Fahrt"
+  ],
+  "notIncluded": [
+   "Keine"
+  ]
+ },
+ "jaipur-amber-fort-private-tour-with-skip-the-line": {
+  "title": "Jaipur: Amber Fort privat, mit Eintritt ohne Anstehen",
+  "metaTitle": "Jaipur: Amber Fort privat, ohne Anstehen",
+  "metaDescription": "Das Amber Fort mit Eintritt ohne Anstehen und privatem Guide, drei Stunden ab Ihrem Hotel in Jaipur. Eine unkomplizierte Option.",
+  "shortDescription": "Das Amber Fort mit Eintritt ohne Anstehen und privatem Guide, drei Stunden ab Ihrem Hotel in Jaipur. Eine unkomplizierte Option.",
+  "fullDescription": "**Das eine Gebäude in Jaipur, das drei gelassene Stunden wert ist.**\n\nDas Amber Fort wurde 1592 von Raja Man Singh begonnen, und es ist von außen ein Fort und innen ein Palast. Es liegt über dem Maota-See auf einem Grat, und der Maßstab wird erst begreiflich, wenn man im ersten Hof steht.\n\n**Was Sie sehen**\n\nDas **Ganesh Pol**, das bemalte Tor zu den privaten Palästen, mit Fresken, die nach vier Jahrhunderten noch ihre Farbe halten.\n\nDas **Sheesh Mahal**, der Spiegelpalast, das, woran sich Leute erinnern. Tausende konvexe Spiegelplättchen in Wänden und Decke, sodass eine einzige Kerzenflamme sich über den ganzen Raum vervielfacht. Die Geschichte besagt, die Königin durfte nicht im Freien schlafen, also wurde ihr eine Decke aus Sternen im Inneren gebaut.\n\nDas **Sukh Niwas** gegenüber, gekühlt durch Wasserkanäle im Marmor: Klimatisierung, im sechzehnten Jahrhundert gebaut, auf einem Hügel, was eine Ingenieurleistung ist, bevor es Zierde ist.\n\nUnd **Panna Meena ka Kund**, der symmetrische Stufenbrunnen fünf Minuten entfernt, den die meisten Touren komplett weglassen.\n\n**Inklusive**\n\nAbholung und Rückfahrt, privater klimatisierter Wagen für die Besichtigung, professioneller Guide, Eintritt ohne Anstehen, Wasser in Flaschen, und alle Maut- und Parkgebühren.\n\n**Gut zu wissen**\n\n- Der Eintritt für ausländische Gäste beträgt 500 ₹, indische Staatsangehörige zahlen 100 ₹.\n- **Gehen Sie früh.** Das Fort öffnet um 8, und um 10:30 sind die Höfe voll. Besonders das Sheesh Mahal ist ein anderes Erlebnis mit zwanzig Leuten darin als mit zweihundert.\n- **Elefantenritte hinauf zum Fort sind nicht enthalten und wir organisieren sie nicht.** Die Jeeps fahren dieselbe Rampe.\n- Es gibt viele Stufen und unebenen Stein. Drei Stunden sind richtig, um es ordentlich zu machen.\n- Die **Klang-und-Licht-Show** am Abend ist ein eigenes Ticket und wird vom Seeufer aus gezeigt.\n\n**Für wen es passt**\n\nFür Erstbesucher in Jaipur, und für alle, die lieber eine Sache richtig sehen als fünf an einem Vormittag.",
+  "highlights": [
+   "Umgehen Sie die Schlangen und kommen Sie schnell und einfach ins Amber Fort."
+  ],
+  "included": [
+   "Abholung und Rückfahrt",
+   "Privater klimatisierter Wagen für die Besichtigung",
+   "Professioneller Guide",
+   "Flasche Mineralwasser",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Eintrittskarten",
+   "Alle persönlichen Ausgaben"
+  ]
+ },
+ "jaipur-cooking-class-with-a-local-family": {
+  "title": "Jaipur: Kochkurs bei einer einheimischen Familie",
+  "metaTitle": "Jaipur: Kochkurs bei einer einheimischen Familie",
+  "metaDescription": "Kochen Sie eine rajasthanische Mahlzeit mit einer Familie in Jaipur in deren Küche und essen Sie sie dann. Glutenfrei möglich, Henna-Kurs als zweite Option.",
+  "shortDescription": "Kochen Sie eine rajasthanische Mahlzeit mit einer Familie in Jaipur in deren eigener Küche, setzen Sie sich dann und essen Sie sie. Glutenfrei möglich, Henna-Kurs als zweite Option.",
+  "fullDescription": "**Jemandes Küche, keine Kochschule.**\n\nSie sind in einem Familienhaus in Jaipur, kochen, was dort gekocht wird, und zwar mit der Familie. Das ist das Ganze, und deshalb hat das die Bewertungen, die es hat.\n\n**Der Ablauf**\n\nZuerst Willkommensgetränke, dann in die Küche. Rajasthanisches Hausessen ist nicht die Punjabi-Küche, die die meisten im Ausland für indisch halten: die Wüste hat es geformt. Wenig Wasser hieß, stattdessen in Ghee und Buttermilch zu kochen; wenig frisches Gemüse hieß, dass Linsen, Kichererbsenmehl und getrocknete Bohnen den Teller trugen.\n\nJe nach Tag machen Sie wahrscheinlich **Dal Baati Churma**, das Gericht, für das der Bundesstaat bekannt ist: harte Weizenbrötchen, gebacken bis sie aufreißen, in Ghee gebrochen, mit Dal und einer süßen Bröselmasse daneben. Oder **Gatte ki Sabzi**, Klößchen aus Kichererbsenmehl in einem Joghurt-Curry, das genau deshalb existiert, weil es kein Gemüse gab. Dazu ein Brot auf dem Tawa und Reis.\n\nDie Gewürzdose kommt früh heraus und wird erklärt, und das ist der Teil, von dem Leute sagen, er habe ihr Kochen zu Hause danach verändert.\n\nDann essen Sie, was Sie gemacht haben, mit der Familie.\n\n**Optionen**\n\nZwei bei der Buchung: der **Kochkurs**, oder **Henna-Kurse**, wenn Sie stattdessen das suchen.\n\n**Inklusive**\n\nWillkommensgetränke, der Kochkurs mit einer einheimischen Familie, und die Mahlzeit. **Glutenfrei ist möglich**, sowohl beim Kochen als auch beim Essen: sagen Sie es bei der Buchung.\n\n**Gut zu wissen**\n\n- **Nennen Sie Allergien oder Ernährungswünsche bei der Buchung**, nicht am Tag selbst. Die Speisenfolge wird darum herum geplant.\n- Die Schärfe wird auf Sie abgestimmt. Rajasthanisches Hausessen ist scharf; sagen Sie, wenn Sie es milder wollen.\n- Das ist ein Privathaus: die Schuhe kommen an der Tür aus, und man kleidet sich, wie man jemanden besucht.\n- Bitten Sie um die Rezepte schriftlich. Die meisten Gäste wünschen sich hinterher, sie hätten es getan.\n- Sie essen am Ende, buchen Sie also danach kein Abendessen.\n\n**Für wen es passt**\n\nFür Reisende, die in Jaipur eine Sache wollen, die kein Fort ist, für alle, die kochen, und für Familien: Kinder nehmen meist das Brotbacken sehr gerne an.",
+  "highlights": [
+   "Genießen Sie die Aromen Rajasthans, während Sie traditionelle Gerichte kochen lernen"
+  ],
+  "included": [
+   "Willkommensgetränke",
+   "Kochkurs mit einer einheimischen Familie",
+   "Glutenfreies Essen ist ebenfalls möglich, zum Kochen und zum Essen",
+   "Einführung in indische Gewürze und Zutaten",
+   "Praktische Erfahrung beim Machen von Chapatis und Gemüsecurrys",
+   "Indisches Dessert",
+   "Digitale Rezepte aller gekochten Gerichte",
+   "Auch glutenfreie Kochkurse verfügbar"
+  ],
+  "notIncluded": [
+   "Der Transport zur und von der Aktivität",
+   "Persönliche Kochutensilien"
+  ]
+ },
+ "jaipur-private-full-or-half-day-city-tour-by": {
+  "title": "Jaipur: private Stadttour im Wagen, ganzer oder halber Tag",
+  "metaTitle": "Jaipur: private Stadttour im Wagen, ganz oder halb",
+  "metaDescription": "Ein privater halber oder ganzer Tag durch Jaipur im Wagen mit örtlichem Guide, mit Monumentstickets als Option. Vier Varianten zur Wahl.",
+  "shortDescription": "Ein privater halber oder ganzer Tag durch Jaipur im Wagen mit örtlichem Guide, mit Monumentstickets als Option. Vier Varianten zur Wahl.",
+  "fullDescription": "**Ein halber Tag oder ein ganzer, Ihre Entscheidung.**\n\nDie praktische Jaipur-Tour: ein privater klimatisierter Wagen, ein örtlicher Guide, und eine Route, die auf die Zeit zugeschnitten ist, die Sie tatsächlich haben.\n\nDer **halbe Tag** deckt die Stadtpaläste ab, **City Palace**, **Jantar Mantar** und **Hawa Mahal**, die in der Mauerstadt nah beieinander liegen und an einem Vormittag gut funktionieren.\n\nDer **ganze Tag** ergänzt das **Amer Fort**, das allein zwei bis drei Stunden verdient, dazu **Panna Meena ka Kund** darunter und **Nahargarh** oder den **Jal Mahal**, je nach Licht.\n\n**Was an jeder Station zählt**\n\nIn **Amer** der Spiegelsaal Sheesh Mahal und das wassergekühlte Sukh Niwas. Im **City Palace** die beiden Silberurnen im Diwan-i-Khas, die größten je gefertigten Einzelobjekte aus Silber, gebaut, damit ein Maharadscha 1901 Gangeswasser nach England mitnehmen konnte. Am **Jantar Mantar** die 27 Meter hohe Sonnenuhr, noch genau auf zwei Sekunden. Am **Hawa Mahal** das Hineingehen statt des Fotos von der Straße, das die meisten machen, denn nur so bekommen Sie den Blick hinaus durch die 953 Fenster.\n\n**Optionen**\n\nVier bei der Buchung: privater halber Tag, privater ganzer Tag, und umfangreichere Varianten mit Tickets.\n\n**Inklusive**\n\nPrivater klimatisierter Wagen mit Fahrer, professioneller örtlicher Guide, und Eintrittskarten für die Monumente bei den Optionen, die sie aufführen.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer Fort 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Hawa Mahal 200 ₹.\n- **Fangen Sie an einem ganzen Tag in Amer an.** Es öffnet um 8 und füllt sich gegen 10:30.\n- **Elefantenritte sind nicht enthalten und wir organisieren sie nicht.** Jeeps fahren dieselbe Rampe.\n- Ein halber Tag sind etwa vier Stunden und deckt drei Stätten ohne Hetze ab. Amer dazu macht daraus einen ganzen Tag, keinen langen halben.\n- Bequeme Schuhe; besonders Amer ist viel unebener Stein und Treppe.\n\n**Für wen es passt**\n\nFür Reisende, die ihre Länge selbst festlegen wollen, und für alle, die lieber einen wartenden Wagen mit Guide haben als zwischen den Stätten Autorikschas zu organisieren.",
+  "highlights": [
+   "Entdecken Sie Jaipurs beste Sehenswürdigkeiten auf einer Tour"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit Fahrer",
+   "Professioneller örtlicher Guide",
+   "Eintrittskarten für die Monumente (wenn die Option gewählt ist)",
+   "Abholung und Rückfahrt am Hotel in Jaipur",
+   "Kraftstoffkosten, Parken und Maut",
+   "Wasser in Flaschen im Fahrzeug"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke",
+   "Persönliche Ausgaben",
+   "Trinkgelder (freiwillig)"
+  ]
+ },
+ "jaipur-to-agra-ranthambore-safari-with-one-way-tra": {
+  "title": "Von Jaipur nach Agra: Safari in Ranthambore mit Einwegtransfer",
+  "metaTitle": "Jaipur nach Agra: Safari in Ranthambore unterwegs",
+  "metaDescription": "Von Jaipur nach Agra über Land mit einer Tigersafari in Ranthambore unterwegs, und einem Einwegtransfer, der Sie in Agra absetzt. Zwei Tage, kein Umweg.",
+  "shortDescription": "Von Jaipur nach Agra über Land mit einer Tigersafari in Ranthambore unterwegs, und einem Einwegtransfer, der Sie am Ende in Agra absetzt. Zwei Tage, kein Umweg.",
+  "fullDescription": "**Die Etappe des Goldenen Dreiecks, die aufhört eine bloße Fahrt zu sein.**\n\nJaipur nach Agra sind etwa 240 km, und die meisten machen daraus einen Transfertag: fünf Stunden im Auto, nichts vorzuweisen. Ranthambore liegt etwa dazwischen, mit einer Nacht verwandeln Sie diesen verlorenen Tag also in eine Tigersafari und kommen trotzdem in Agra an.\n\n**Ranthambore** ist eines der bekannteren Tigerreservate Indiens, um ein Fort aus dem 10. Jahrhundert herum entstanden, mit dem Wald darum aufgewachsen. Es hat eine echte Tigerpopulation, und anders als in manchen Parks sind die Tiere hier an Fahrzeuge gewöhnt, was die Sichtungsquote erklärt. Dazu Leopard, Lippenbär, Sambar, Krokodil und sehr viele Vögel.\n\n**Der Ablauf**\n\nPrivater klimatisierter Transfer von Jaipur nach Ranthambore, eine Nacht im Parkgebiet, Safari im Canter oder Gypsy, dann weiter nach Agra. Ihr Gepäck reist durchgehend mit, es gibt also keine Rückkehr nach Jaipur.\n\n**Inklusive**\n\nPrivater klimatisierter Transport Jaipur nach Ranthambore nach Agra, Eintrittsgebühr des Ranthambore-Nationalparks, die Safari, und die Unterkunft.\n\n**Gut zu wissen**\n\n- **Ranthambore ist vom 1. Juli bis 30. September geschlossen**, wegen des Monsuns. Die Zonen 6 bis 10 bleiben manchmal offen, die Kernzonen nicht.\n- **Safariplätze sind begrenzt und werden staatlich zugeteilt.** Sie sind in der Saison lange im Voraus weg, besonders von Oktober bis März und um indische Feiertage. Buchen Sie so früh wie möglich.\n- Eine Tigersichtung ist nicht garantiert, und niemand, der ehrlich ist, wird sie versprechen. Die Sichtungsquoten sind gut und schwanken je nach Zone, und die Zone teilt die Forstbehörde zu, sie wird nicht gewählt.\n- Morgensafaris sind kälter und meist besser für Sichtungen. Das Morgengrauen im Dezember ist im offenen Fahrzeug richtig kalt; ziehen Sie sich in Schichten an.\n- **Der Taj Mahal ist freitags geschlossen**, planen Sie Ihre Ankunft in Agra entsprechend.\n\n**Für wen es passt**\n\nFür alle, die das Goldene Dreieck machen und den Tag Jaipur nach Agra nicht verschwenden wollen, für Reisende mit Interesse an Tierwelt, und für Familien mit Kindern, die genug Forts gesehen haben.",
+  "highlights": [
+   "Verbinden Sie Ihren Transfer von Jaipur nach Agra mit einem Tierabenteuer"
+  ],
+  "included": [
+   "Privater klimatisierter Transport: Jaipur, Ranthambore, Agra",
+   "Eintrittsgebühr des Ranthambore-Nationalparks (wenn die Option gewählt ist)",
+   "Safarikosten (einschließlich Parkgebühren und Genehmigungen)",
+   "Alle Maut-, Landes- und Parkgebühren",
+   "Naturkundlicher Guide im Nationalpark",
+   "Unterkunft im 3-Sterne-Hotel mit Frühstück (wenn die Option gewählt ist)",
+   "Wasserflasche gratis",
+   "Canter mit 20 Sitzen oder Jeep mit 6 Sitzen für Ihre Safari, je nach Verfügbarkeit"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für den Taj Mahal oder andere Monumente",
+   "Alle Mahlzeiten und Getränke",
+   "Persönliche Ausgaben (Wäsche, Telefonate, Einkäufe)"
+  ]
+ },
+ "jaipur-govind-devji-temple-city-palace-private-tou": {
+  "title": "Jaipur: Govind-Devji-Tempel und City Palace, privat",
+  "metaTitle": "Jaipur: Govind-Devji-Tempel und City Palace, privat",
+  "metaDescription": "City Palace und Govind-Devji-Tempel an einem privaten halben Tag mit Guide. Der Palast der Königsfamilie, und der wichtigste Tempel der Altstadt.",
+  "shortDescription": "City Palace und Govind-Devji-Tempel an einem privaten halben Tag mit englischsprachigem Guide. Der Palast, in dem die Königsfamilie noch lebt, und der Tempel im Herzen der Altstadt.",
+  "fullDescription": "**Der Palast, und der Tempel in seinem Gelände.**\n\nDer **City Palace** nimmt ein Siebtel der Mauerstadt ein, und die königliche Familie bewohnt noch einen Teil davon, weshalb die privaten Gemächer im **Chandra Mahal** geschlossen sind und der Rest nicht. Was Sie sehen, ist das **Mubarak Mahal** mit seiner Textil- und Kostümsammlung, das **Diwan-i-Khas** mit zwei Urnen aus Sterlingsilber, den größten Einzelstücken aus Silber der Welt, gemacht, damit ein Maharadscha 1901 Gangeswasser nach England mitnehmen konnte, und der **Pritam Niwas Chowk** mit seinen vier bemalten Toren für die vier Jahreszeiten. Das Pfauentor ist das, das alle fotografieren, und es verdient es.\n\nDer **Govind-Devji-Tempel** liegt innerhalb der Palastanlage und ist der wichtigste Tempel Jaipurs. Das Krishna-Bild hier wurde im siebzehnten Jahrhundert aus Vrindavan gebracht, um es vor Aurangzeb zu retten. Es ist ein lebendiger Tempel, kein Monument, und er läuft nach dem **Aarti-Plan**: sieben tägliche Öffnungen, bei denen die Vorhänge aufgehen, die Gottheit sichtbar wird und mehrere hundert Menschen singen. Wenn Ihr Besuch mit einer zusammenfällt, ist das die Erinnerung, die Sie mitnehmen, nicht der Palast.\n\n**Inklusive**\n\nErfahrener englischsprachiger Guide, privater Wagen mit Fahrer, Maut- und Parkgebühren. Der Monumentseintritt ist eine Option bei der Buchung.\n\n**Gut zu wissen**\n\n- Der Eintritt zum City Palace für ausländische Gäste beträgt 700 ₹, der höchste unter Jaipurs Monumenten, und er umfasst die Museumsteile.\n- **Legen Sie den Besuch auf eine Aarti**, wenn Sie können. Der Plan verschiebt sich saisonal; wir bestätigen ihn für Ihr Datum.\n- Der Tempel verlangt Schuhe aus und zurückhaltende Kleidung, die Schultern und Knie bedeckt. **Telefone und Kameras sind im inneren Heiligtum nicht erlaubt**, und das wird durchgesetzt.\n- Der Hawa Mahal ist von hier ein paar Minuten Fußweg, viele Leute hängen ihn also an.\n- Etwa vier Stunden, was für beides bequem ist.\n\n**Für wen es passt**\n\nFür Reisende, die Jaipurs lebendige Kultur neben seiner Architektur wollen, und für alle, die die Forts schon gemacht haben.",
+  "highlights": [
+   "Spüren Sie die spirituelle Energie im Shri-Govinddevji-Tempel"
+  ],
+  "included": [
+   "Erfahrener englischsprachiger Guide",
+   "Privater Wagen mit Fahrer",
+   "Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren der Monumente"
+  ]
+ },
+ "jaipur-amer-fort-hawa-mahal-and-jal-mahal-tour": {
+  "title": "Jaipur: Amer Fort, Hawa Mahal und Jal Mahal",
+  "metaTitle": "Jaipur: Amer Fort, Hawa Mahal und Jal Mahal",
+  "metaDescription": "Amer Fort, Hawa Mahal und Jal Mahal an einem privaten Tag mit Wagen und Guide. Jaipurs drei bekannteste Gebäude.",
+  "shortDescription": "Amer Fort, Hawa Mahal und Jal Mahal an einem privaten Tag mit Wagen und Guide. Jaipurs drei bekannteste Gebäude, richtig gemacht statt als Fotostopps.",
+  "fullDescription": "**Die drei Gebäude, für die alle nach Jaipur kommen.**\n\nDas **Amer Fort** ist der Grund, hier zu sein. Ab 1592 in hellgelbem und rosa Sandstein über dem Maota-See gebaut, ist es außen ein Fort und innen ein Palast, und der Maßstab wird erst begreiflich, wenn man in den Höfen steht. Das **Sheesh Mahal**, der Spiegelpalast, ist das Stück, an das sich Leute erinnern: Tausende konvexe Spiegelplättchen in Wänden und Decke, sodass eine einzige Kerzenflamme sich über den ganzen Raum vervielfacht. Ihr Guide zeigt Ihnen das Tor **Ganesh Pol**, das **Sukh Niwas** mit seinen wassergekühlten Kanälen, und die reine Ingenieurleistung, im sechzehnten Jahrhundert Wasser auf einen Hügel zu bringen.\n\nDer **Hawa Mahal**, der Palast der Winde, ist die fünfgeschossige rosa Fassade mit 953 Fenstern, 1799 gebaut, damit die Frauen des königlichen Haushalts die Straßenprozessionen ungesehen verfolgen konnten. Die meisten Besucher fotografieren ihn von gegenüber und fahren weiter, was schade ist, denn hineinzugehen gibt Ihnen den Blick hinaus durch diese Fenster und ein viel besseres Gefühl dafür, wozu das Gebäude gedacht war.\n\nDer **Jal Mahal** steht mitten im Man-Sagar-See. Hinein kann man nicht, und die Tour behauptet nichts anderes: es ist ein Stopp für den Blick, und zur richtigen Stunde mit den Nahargarh-Hügeln dahinter ist dieser Blick die zehn Minuten wert.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel oder Flughafen, privater klimatisierter Wagen mit Fahrer für den ganzen Tag, professioneller Guide, Wasser in Flaschen, Maut und Parkgebühren. Der Monumentseintritt ist eine Option bei der Buchung.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer Fort 500 ₹, Hawa Mahal 200 ₹. Der Jal Mahal hat keinen Eintritt, da das Gebäude für Besucher geschlossen ist.\n- **Fahren Sie früh zum Amer Fort.** Es öffnet um 8, und um 10:30 sind die Höfe voll. Besonders das Sheesh Mahal ist mit weniger Leuten darin viel besser.\n- **Elefantenritte hinauf zum Fort sind nicht enthalten und wir buchen sie nicht.** Die Jeeps fahren dieselbe Rampe.\n- Amer bedeutet viele Stufen und unebenen Stein. Rechnen Sie dort allein mit zwei bis drei Stunden.\n- Sechs Stunden decken diese drei in vernünftigem Tempo ab. City Palace und Jantar Mantar dazu machen daraus einen vollen und recht anstrengenden Tag.\n\n**Für wen es passt**\n\nFür Erstbesucher in Jaipur, und für alle, die lieber drei Dinge richtig sehen als sechs im Vorbeigehen.",
+  "highlights": [
+   "Erkunden Sie das majestätische Amer Fort, bekannt für seine kunstvolle Architektur und Spiegelarbeit"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die gesamte Tour",
+   "Professioneller Guide",
+   "Eintrittskarten für die Monumente (wenn die Option gewählt ist)",
+   "Mittagessen im Restaurant (wenn die Option gewählt ist)",
+   "Flasche Mineralwasser",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Alle persönlichen Ausgaben"
+  ]
+ },
+ "jaipur-patrika-gate-entry-ticket-and-jawahar-circl": {
+  "title": "Jaipur: Eintritt zum Patrika Gate und Besuch des Jawahar Circle",
+  "metaTitle": "Jaipur: Patrika Gate und Jawahar Circle",
+  "metaDescription": "Patrika Gate und Jawahar Circle in einem Besuch, mit der musikalischen Fontäne am Abend. Jaipurs meistfotografiertes Tor, und es ist kein Fort.",
+  "shortDescription": "Patrika Gate und Jawahar Circle in einem Besuch, mit der musikalischen Fontäne am Abend. Jaipurs meistfotografiertes Tor, und es ist keines der Forts.",
+  "fullDescription": "**Der meistfotografierte Ort in Jaipur ist kein Fort.**\n\nDas Patrika Gate ist das neunte Tor des Jawahar Circle, und es ist das, an dem jedes Jaipur-Foto entstanden ist, an dem Sie vorbeigescrollt sind. Anders als die Sandsteinforts ist dieses innen und außen bemalt: jeder Bogen, jeder Pfeiler und jede Decke mit Fresken bedeckt, die Rajasthans Regionen, Feste, Handwerke und Architektur zeigen. Gehen Sie hindurch, und die Farbe wechselt mit jeder Achse.\n\nEs wurde 2016 fertiggestellt, ist also kein historisches Denkmal. Was es ist: der beste Ort der Stadt, um rajasthanische Dekorationsmalerei in einem durchgehenden Zug zu verstehen, und um sie ohne Andrang zu fotografieren, wenn Sie früh kommen.\n\nDer **Jawahar Circle** umgibt es und ist mit 30 Acres einer der größten Rundparks des Landes, als Rosengarten mit Joggingstrecke angelegt. Am Abend läuft die **musikalische Fontäne**, genau die Art gewöhnlicher örtlicher Unternehmung, die Ihnen zeigt, wie eine Stadt tatsächlich ist, wenn sie nicht für Besucher auftritt.\n\n**Inklusive**\n\nBesuch des Patrika Gate, Eintrittsgebühren, Zugang zum Garten des Jawahar Circle, und die Show der musikalischen Fontäne am Abend.\n\n**Gut zu wissen**\n\n- **Der Eintritt zum Patrika Gate ist frei**, und das Tor ist den ganzen Tag offen. Bezahlt wird hier der organisierte Besuch und die Abstimmung auf die Fontänenzeit.\n- **Kommen Sie früh für Fotos.** Am späten Vormittag stehen Schlangen vor den beliebten Bögen, und am Wochenende ist es wirklich voll mit Leuten, die Hochzeitsvorab-Shootings machen.\n- Das beste Licht ist die erste Stunde nach Sonnenaufgang. Die bemalten Decken brauchen etwas Sonne, um richtig zu wirken.\n- Die Fontänenshow läuft am Abend; die Zeiten verschieben sich saisonal, und wir bestätigen sie für Ihr Datum.\n- Etwa drei Stunden mit dem Garten. Es passt natürlich zu einem späten Nachmittag anderswo in der Stadt.\n\n**Für wen es passt**\n\nFür Fotografen, für alle, die einen Jaipur-Tag über die drei Forts hinaus bauen, und für Reisende, die einen Stopp wollen, der von Farbe handelt und nicht von Geschichte.",
+  "highlights": [
+   "Bewundern Sie die leuchtenden Malereien und die Architektur des Patrika Gate"
+  ],
+  "included": [
+   "Besuch des Patrika Gate",
+   "Eintrittsgebühren",
+   "Zugang zum Garten des Jawahar Circle",
+   "Show der musikalischen Fontäne am Abend"
+  ],
+  "notIncluded": [
+   "Geführte Tour",
+   "Der Transport zum Ort"
+  ]
+ },
+ "jaipuramer-fortpanna-meenastepwell-nahargarh-fort-": {
+  "title": "Jaipur: Amer Fort, Stufenbrunnen Panna Meena und Nahargarh Fort",
+  "metaTitle": "Jaipur: Amer, Panna Meena und Nahargarh zum Sonnenuntergang",
+  "metaDescription": "Amer Fort, der Stufenbrunnen Panna Meena und Nahargarh Fort zum Sonnenuntergang über Jaipur. Zwei Stunden, nach dem Licht gelegt.",
+  "shortDescription": "Amer Fort, der Stufenbrunnen Panna Meena und Nahargarh Fort zum Sonnenuntergang über Jaipur. Zwei Stunden, nach dem Licht gelegt und nicht nach der Reiseführer-Reihenfolge.",
+  "fullDescription": "**Den Tag auf dem Hügel über der Stadt beenden.**\n\nDas ist eine kurze Tour, um eine Sache herum gebaut: beim Sonnenuntergang am **Nahargarh Fort** zu sein. Nahargarh liegt auf dem Aravalli-Grat und überblickt ganz Jaipur; von den Wehrgängen breitet sich die gesamte Mauerstadt unter Ihnen aus, mit den Amer-Hügeln dahinter. Es ist der beste Blick der Stadt, und er ist in der letzten Stunde Licht am besten, wenn der rosa Sandstein darunter richtig rosa wird.\n\nDavor zwei Stopps, die auf den Weg hinauf passen.\n\n**Amer Fort**, die Palastfestung des sechzehnten Jahrhunderts über dem Maota-See, mit dem Spiegelsaal Sheesh Mahal und dem Tor Ganesh Pol.\n\n**Panna Meena ka Kund**, fünf Minuten von Amer und von fast jeder Tour weggelassen. Es ist ein achtgeschossiger Stufenbrunnen aus dem sechzehnten Jahrhundert, mit sich kreuzenden symmetrischen Treppen, die an allen vier Seiten zum Wasser hinabführen. Er fotografiert sich außerordentlich gut, und meist ist fast niemand dort. Die Stufen kann man nicht mehr begehen, was man wissen sollte, bevor man mit diesem Plan ankommt.\n\n**Inklusive**\n\nAbholung und Rückfahrt am Hotel oder Flughafen, privater klimatisierter Wagen mit Fahrer für die ganze Route, staatlich zugelassener Guide, Wasser in Flaschen, Maut und Parkgebühren. Der Monumentseintritt ist eine Option bei der Buchung.\n\n**Gut zu wissen**\n\n- Eintritt für ausländische Gäste: Amer Fort 500 ₹, Nahargarh 200 ₹. Panna Meena ist kostenlos.\n- **Der Zeitpunkt ist der ganze Sinn.** Die Tour ist vom Sonnenuntergang aus rückwärts gebaut, die Abfahrtszeit verschiebt sich also über das Jahr. Wir bestätigen sie für Ihr Datum.\n- Nahargarh hat ein Café auf den Wehrgängen, falls Sie mit dem Blick sitzen wollen statt ihn zu fotografieren und zu gehen.\n- Die Straße hinauf nach Nahargarh ist eng und kurvig. Im Wagen geht sie gut und im Verkehr langsam; mit Puffer losfahren zählt.\n- Zwei Stunden sind knapp für drei Stopps. Wenn Sie echte Zeit in Amer wollen, nehmen Sie stattdessen die längeren Jaipur-Tagestouren und behandeln diese als die Sonnenuntergangs-Ergänzung, die sie ist.\n\n**Für wen es passt**\n\nFür Fotografen, für Besucher am zweiten Tag, die die Stadtrunde hinter sich haben, und für alle, die einen gut gelegten Abend wollen statt einer weiteren Monumentsliste.",
+  "highlights": [
+   "Erkunden Sie das majestätische Amer Fort, eine UNESCO-Welterbestätte."
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die gesamte Tour",
+   "Staatlich zugelassener Experte als Guide",
+   "Eintrittskarten für die Monumente (wenn die Option gewählt ist)",
+   "Mittagessen im Restaurant (wenn die Option gewählt ist)",
+   "Flasche Mineralwasser",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Alle persönlichen Ausgaben"
+  ]
+ },
+ "jaipur-build-your-own-itinerary-guided-tour-privat": {
+  "title": "Jaipur: Route selbst zusammenstellen, Führung und privater Wagen",
+  "metaTitle": "Jaipur: Route selbst zusammenstellen, mit Wagen und Guide",
+  "metaDescription": "Ein Jaipur-Tag ganz um das gebaut, was Sie sehen wollen, mit privatem Wagen und Guide. Sie wählen die Stopps, sie übernehmen den Rest.",
+  "shortDescription": "Ein Jaipur-Tag ganz um das gebaut, was Sie sehen wollen, mit privatem Wagen und Guide. Sie wählen die Stopps, sie übernehmen Route, Zeiten und Tickets.",
+  "fullDescription": "**Sie wählen die Stopps, wir kümmern uns um den Rest.**\n\nDie meisten Jaipur-Touren fahren dieselbe Runde: Amer Fort, Fotostopp am Hawa Mahal, City Palace, Jantar Mantar, fertig. Es ist eine gute Runde, und wenn Sie das wollen, machen sie viele Touren. Diese ist für alle anderen.\n\nSie sagen uns, was Sie interessiert, und der Guide baut den Tag darum, in der Reihenfolge, die für Licht, Verkehr und Öffnungszeiten funktioniert, und nicht in der Reihenfolge, die eine Broschüre gedruckt hat.\n\n**Was Sie hineinnehmen könnten**\n\nDie Klassiker, wenn Sie sie nicht gesehen haben: **Amer Fort**, **City Palace**, **Jantar Mantar**, **Hawa Mahal**.\n\nOder die, die selten in eine feste Route kommen: **Panna Meena ka Kund**, der symmetrische Stufenbrunnen unterhalb von Amer, der sich besser fotografiert als fast alles in der Stadt. **Nahargarh Fort** zum Sonnenuntergang für den Blick über ganz Jaipur. **Patrika Gate** für die bemalten Bögen. **Chand Baori** in Abhaneri, wenn Sie hinausfahren mögen. Die **Basare von Johari und Bapu** für Schmuck und Textilien. Eine **Stoffdruck-Werkstatt**. **Galta Ji**, der Affentempel in den Hügeln. Oder einfach ein langsamerer Tag mit drei Stopps statt sieben.\n\n**Inklusive**\n\nPrivater klimatisierter Wagen mit Fahrer für den Tag, professioneller Guide, Abholung und Rückfahrt am Hotel, und eine mit Ihnen geplante individuelle Route.\n\n**Gut zu wissen**\n\n- Nennen Sie uns Ihre Prioritäten **bei der Buchung**, nicht am Morgen. Nur so kann der Guide eine Route planen statt sie zu improvisieren.\n- Vier oder fünf Stopps sind ein bequemer Tag in Jaipur. Sieben sind Hetze, und die Forts verdienen mehr als zwanzig Minuten pro Stück.\n- Eintrittsgebühren kommen separat und schwanken je Stätte: Amer Fort 500 ₹, City Palace 700 ₹, Jantar Mantar 200 ₹, Nahargarh 200 ₹ für ausländische Gäste.\n- **Elefantenritte am Amer Fort sind nicht enthalten und wir organisieren sie nicht.** Der Jeep die Rampe hinauf macht dasselbe.\n- Wenn Fotografie Ihre Priorität ist, sagen Sie es. Das ändert die Reihenfolge völlig, weil dann das Licht die Einschränkung ist und nicht die Entfernung.\n\n**Für wen es passt**\n\nFür Wiederkehrer, für Reisende mit bestimmten Interessen, für Familien mit unterschiedlichen Altersgruppen und Energielevels, und für alle, die feste Routen frustrierend finden.",
+  "highlights": [
+   "Individuelle Jaipur-Route mit einem erfahrenen örtlichen Guide"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit Fahrer",
+   "Professioneller Guide",
+   "Abholung und Rückfahrt am Hotel",
+   "Anpassbare Route (wählen Sie Ihre Sehenswürdigkeiten selbst)",
+   "Kraftstoff, Parken und Maut enthalten",
+   "Flaschen Mineralwasser im Wagen"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Eintrittsgebühren",
+   "Trinkgelder"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
