@@ -292,6 +292,8 @@ const SIEM_REAP_SIDEBAR = [
     { name: 'Photography Guide', slug: 'angkor-photography-guide' },
     { name: 'Nightlife & Pub Street', slug: 'siem-reap-nightlife-and-pub-street' },
     { name: 'To Battambang', slug: 'siem-reap-to-battambang' },
+    { name: 'Dress Code', slug: 'angkor-wat-dress-code' },
+    { name: 'Money & Costs', slug: 'siem-reap-money-and-costs' },
 ];
 
 const KRABI_SIDEBAR = [

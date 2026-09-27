@@ -183,6 +183,8 @@ export const SIEM_REAP_INFO_SLUGS = [
     'angkor-photography-guide',
     'siem-reap-nightlife-and-pub-street',
     'siem-reap-to-battambang',
+    'angkor-wat-dress-code',
+    'siem-reap-money-and-costs',
 ];
 
 export const KRABI_INFO_SLUGS = [

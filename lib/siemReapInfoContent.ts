@@ -1011,6 +1011,97 @@ export function getSiemReapInfoContent(slug: string): CityInfoData | null {
                     { q: 'Is Battambang worth the detour?', a: 'Siem Reap to Battambang to Phnom Penh is about eight and a half hours of road against six going direct. Two and a half extra hours buys a whole city, and meeting the killing cave there before Tuol Sleng makes clear the Khmer Rouge happened everywhere, not in one building.' },
                 ],
             };
+        case 'angkor-wat-dress-code':
+            return {
+                title: 'What to Wear at Angkor: The Rule, Where It Is Enforced, and the Heat',
+                seoTitle: 'Angkor Wat Dress Code: Rules & What to Wear',
+                description: 'Shoulders and knees covered, enforced at Angkor Wat’s upper level and the Royal Palace. What that means in practice, and dressing for mid-thirties heat.',
+                heroImage: IMG.smallCircuit,
+                fastFacts: [
+                    { icon: 'AlertTriangle', label: 'The rule', value: 'Shoulders AND knees covered' },
+                    { icon: 'MapPin', label: 'Strictly enforced', value: 'Angkor Wat upper level' },
+                    { icon: 'Star', label: 'Applies to', value: 'Men and women equally' },
+                    { icon: 'Info', label: 'If you get it wrong', value: 'Cover-ups for sale, with a queue' },
+                ],
+                sections: [
+                    {
+                        title: 'The rule, and where it actually bites',
+                        icon: 'AlertTriangle',
+                        content: "**Shoulders and knees covered.** That is the whole rule and it applies to men as much as women, which surprises people.\n\nIn practice: no vest tops, no spaghetti straps, no crop tops, nothing see-through, and shorts or skirts that reach the knee when you are standing. A t-shirt with sleeves is fine; a sleeveless one is not.\n\n**Where it is enforced, properly, by someone at a barrier:**\n\n**The upper level of Angkor Wat** - the central sanctuary reached by the steep modern staircase. There is a guard at the bottom and people are turned back every day. This is the strictest point in the park and it is the one part of Angkor Wat most people most want to see.\n\n**The Royal Palace in Phnom Penh**, at the gate. Same rule, same enforcement, and there is a queue for rental cover-ups in the middle of the day.\n\n**Where it is expected but not policed:** everywhere else at Angkor, every working pagoda, and the summit pagoda at Phnom Kulen. Nobody will stop you, which is exactly why it is worth getting right on your own - these are active religious sites and Cambodians notice.\n\n**Shoes** come off inside any vihear and at the Silver Pagoda. Wear something you can slip out of.",
+                        tourCard: CARD.smallCircuit,
+                    },
+                    {
+                        title: 'What to actually wear in mid-thirties heat',
+                        icon: 'Star',
+                        content: "The instinct is that covering up in that temperature is unbearable. It is the opposite.\n\n**Light long trousers beat shorts** at Angkor and it is not close. There is **no shade in the Angkor Wat courtyards or on the Bayon's upper terrace**, and from March to May the sun is the problem, not the air. Loose cotton or linen trousers keep the sun off your legs and move air. Convertible hiking trousers work and look like what they are.\n\n**A loose long-sleeved shirt** over a t-shirt is what experienced people wear. Sun protection you do not have to reapply.\n\n**A hat that stays on.** There is wind on the upper terraces.\n\n**Trainers, not sandals.** Uneven sandstone, steep worn stairs, loose rubble at Ta Prohm and Beng Mealea. Flip-flops are how ankles get turned.\n\n**Colours.** Light ones, and accept they will be filthy - the dry season is genuinely dusty.\n\n**A krama**, the checked Cambodian cotton scarf, costs almost nothing in any market and solves several problems at once: shoulders covered at a barrier, sweat, sun on the back of the neck, and a head cover in a pagoda. Buy one on the first day.\n\n**A spare shirt in the bag** for the afternoon. You will want it.",
+                    },
+                    {
+                        title: 'If you turn up wrong',
+                        icon: 'Info',
+                        content: "**Cover-ups are sold and rented at the Angkor Wat upper-level entrance** and at the Royal Palace gate. Elephant-print trousers and wrap skirts, a few dollars.\n\nThe cost is not the money, it is the **queue**. At the upper level in the middle of the morning that queue will take the twenty minutes you got up at 04:30 to save. At the Royal Palace it is worse because the palace also closes over the middle of the day.\n\n**A guide will warn you** if you are with one, which is one of the small practical reasons to take a licensed guide on your [Angkor Wat day](/cambodia/siem-reap/angkor-wat-one-day-itinerary).\n\n**Sunrise is a trap for this.** It is cool and dark at 04:30 and a vest feels right. By the time you are at the upper-level stairs at seven it is a problem. Dress for the strictest thing you will do that day, not for how it feels when you leave.\n\n**Children** are held to the same rule at the palace and the upper level.\n\n**Monks.** Ask before photographing, every time. Women should not hand anything directly to a monk or sit beside one - put the item down for him to pick up.",
+                        tourCard: CARD.transfer,
+                    },
+                    {
+                        title: 'The rest of the kit',
+                        icon: 'MapPin',
+                        content: "**Water**, more than feels sensible. Sellers at every temple, cheap, and no reason to ration.\n\n**Sunscreen** for face, neck and hands - the parts the clothes do not cover.\n\n**A torch** for the pre-dawn causeway at Angkor Wat, which is unlit before about 05:30, and for the dark inner galleries.\n\n**Insect repellent.** Dengue is present in Cambodia; dusk at the [Tonle Sap](/cambodia/siem-reap/tonle-sap-floating-villages-guide) and in the countryside is when it matters.\n\n**Cash in small US dollars.** Sellers at the temples do not take cards. Clean, untorn notes - damaged bills are refused.\n\n**Your Angkor Pass somewhere reachable.** It is checked at every temple and they photograph your face onto it, so it is not transferable.\n\n**A dry bag or a plastic bag for the camera** in the rains. The afternoon storm arrives fast.\n\n**What not to bring**: a drone, which is prohibited over the park without APSARA authorisation and has been confiscated, and a large tripod, which will be challenged. See the [photography guide](/cambodia/siem-reap/angkor-photography-guide).",
+                    },
+                ],
+                faqs: [
+                    { q: 'What is the dress code at Angkor Wat?', a: 'Shoulders and knees covered, for men as well as women. No vests, spaghetti straps, crop tops or anything see-through, and shorts or skirts to the knee. It is enforced by a guard at the upper-level staircase and people are turned back daily.' },
+                    { q: 'Is the Angkor dress code enforced everywhere?', a: 'Strictly only at Angkor Wat’s upper level and at the Royal Palace gate in Phnom Penh. Everywhere else at Angkor and at working pagodas it is expected but not policed - which is why it is worth getting right on your own.' },
+                    { q: 'Should I wear shorts or trousers at Angkor?', a: 'Light long trousers, and it is not close. There is no shade in the Angkor Wat courtyards or on the Bayon terrace, and from March to May the sun is the problem rather than the air. Loose cotton or linen keeps the sun off and moves air.' },
+                    { q: 'What happens if I am not covered up at Angkor Wat?', a: 'You are turned back at the upper-level stairs. Cover-ups are sold and rented there for a few dollars, but the queue in the middle of the morning will cost you the twenty minutes you got up at 04:30 to save.' },
+                    { q: 'What shoes should I wear at Angkor?', a: 'Trainers. The sandstone is uneven, the stairs are steep and worn, and Ta Prohm and Beng Mealea have loose rubble. Flip-flops are how ankles get turned, and you will also be taking shoes off inside viheras.' },
+                    { q: 'What is a krama and should I buy one?', a: 'The checked Cambodian cotton scarf, sold in every market for almost nothing. It covers your shoulders at a barrier, handles sweat and sun on the neck, and works as a head cover in a pagoda. Buy one on the first day.' },
+                ],
+            };
+
+        case 'siem-reap-money-and-costs':
+            return {
+                title: 'Money in Siem Reap: Dollars, Riel, and What a Day Really Costs',
+                seoTitle: 'Siem Reap Costs: Money, ATMs & Daily Budget',
+                description: 'Cambodia runs on US dollars with riel as small change. ATM fees, why torn notes are refused, tipping, and honest daily budgets for Siem Reap.',
+                heroImage: IMG.food,
+                fastFacts: [
+                    { icon: 'Wallet', label: 'Working currency', value: 'US dollars' },
+                    { icon: 'Info', label: 'Riel', value: 'Change under $1, ~4,000/USD' },
+                    { icon: 'AlertTriangle', label: 'Torn notes', value: 'Routinely refused' },
+                    { icon: 'Wallet', label: 'Comfortable day', value: 'USD 60 - 110 per person' },
+                ],
+                sections: [
+                    {
+                        title: 'Two currencies, one of them yours',
+                        icon: 'Wallet',
+                        content: "**Cambodia runs on US dollars.** Prices are quoted in dollars, ATMs dispense dollars, hotels and tours bill in dollars, and you can complete an entire trip without handling riel deliberately.\n\n**Riel is the change.** The exchange rate sits around **4,000 riel to the dollar** and it is deliberately stable, so a 1,000-riel note is a quarter and a 2,000 is fifty cents. Buy something for $1.50 with a $2 note and you get 2,000 riel back. That is the whole system and it works smoothly once you stop being surprised by it.\n\nThere are **no US coins in circulation**. Anything under a dollar comes back in riel, which is the single thing to internalise.\n\n**⚠️ Torn, marked or heavily worn dollar notes are routinely refused** - by shops, by hotels, sometimes by banks. This catches almost every visitor once. Bring clean notes, check what an ATM or a money changer hands you before you walk away, and do not accept a damaged note as change.\n\n**Small denominations matter.** Tuk-tuks, temple drink sellers, market stalls and tips all want ones and fives. Break a fifty at a hotel or a supermarket early and keep a stock of singles.",
+                        tourCard: CARD.food,
+                    },
+                    {
+                        title: 'ATMs, cards and changing money',
+                        icon: 'Info',
+                        content: "**ATMs are everywhere** in Siem Reap and dispense US dollars. Most charge a **fee of around USD 4-6 per withdrawal** on top of whatever your own bank takes, so take out larger amounts less often. Some machines let you choose the denomination; ask for smaller notes where you can.\n\n**Check the withdrawal limit** before you queue - it varies by bank and some cap low enough to make the fee hurt.\n\n**Cards** are accepted at hotels, the better restaurants and larger tour operators. Many add a **2-3% surcharge** and say so. Small guesthouses, tuk-tuks, markets and temple sellers are cash only.\n\n**You do not need to change money before you arrive.** Dollars are the local currency; bringing dollars from home is the simplest route if your bank gives a decent rate.\n\n**Money changers** in town give reasonable rates for major currencies and are worth using over an airport counter.\n\n**The Angkor Pass** is bought at the Angkor Enterprise office and takes card or cash. That is USD 62 for the three-day, and the [pass guide](/cambodia/siem-reap/angkor-wat-tickets-and-pass-guide) explains why that is the ticket to buy.",
+                    },
+                    {
+                        title: 'What things cost',
+                        icon: 'Star',
+                        content: "**Sleeping.** Hostel dorm USD 6-12. Guesthouse double USD 15-30, often with a pool at USD 25. Good mid-range hotel with pool and breakfast USD 40-80. Boutique USD 90-200. See [where to stay](/cambodia/siem-reap/where-to-stay-in-siem-reap).\n\n**Eating.** Street plate or noodle bowl USD 1.50-3. A proper Khmer meal in a local restaurant USD 5-8 a head. Kandal Village independents USD 8-15. The ambitious modern-Khmer kitchens USD 25-50.\n\n**Beer** from USD 0.50 for Pub Street draught, USD 1.50-3 elsewhere. A decent cocktail USD 4-7.\n\n**Getting around.** Tuk-tuk across town a couple of dollars. **A full temple day by tuk-tuk USD 18-25** - hired by the day, because your driver waits at each temple. Private car with driver USD 35-55, more for the far temples. Airport transfer from about USD 30 for the 45-kilometre run.\n\n**Guides.** A licensed guide USD 35-45 a day on top of transport.\n\n**Tickets.** Angkor Pass USD 37 / 62 / 72. Phnom Kulen a separate USD 20. Koh Ker and Preah Vihear their own. Phare circus from about USD 18-38 depending on seat.\n\n**A comfortable day**, mid-range room included, lands at **USD 60-110 per person**. A backpacker day is USD 25-40. Peak season, 20 December to 5 January, moves the room part sharply.",
+                        tourCard: CARD.smallCircuit,
+                    },
+                    {
+                        title: 'Tipping, bargaining and where money should go',
+                        icon: 'MapPin',
+                        content: "**Tipping is not obligatory and is normal in tourist-facing work.** Ten percent in a restaurant that has looked after you. For a **tuk-tuk driver who has sat in the heat for eight hours** waiting at temple car parks, a few dollars at the end of the day is standard and appreciated - that wait is most of his working day. Same for a guide.\n\n**Bargaining** is expected in markets and good-humoured, not adversarial. Ask the price, offer somewhat less, settle. What is not good: grinding a weaver down over a piece that took a fortnight, or treating a two-dollar gap as a contest. The gap is trivial to you.\n\n**Fixed-price** applies to the Angkor Pass, restaurants, and most hotels. Tuk-tuk fares are agreed before you get in, not after.\n\n**Where the money actually lands.** Cambodia has a large number of Cambodian-run social enterprises - **training restaurants** teaching hospitality to young people from hard backgrounds, the **Phare** circus funding its Battambang arts school, weavers selling at the loom on Koh Dach. Several of the training restaurants cook as well as anywhere in town, which makes it an easy choice rather than a worthy one.\n\n**Where it should not go**: begging children, which keeps them out of school by making them earning assets, and orphanage visits, which reputable operators stopped offering years ago. Give to an organisation instead.",
+                    },
+                ],
+                faqs: [
+                    { q: 'What currency should I bring to Cambodia?', a: 'US dollars. They are the working currency - prices are quoted in them, ATMs dispense them and you never need to change money. Riel appears only as change under a dollar, at about 4,000 to the dollar, because there are no US coins in circulation.' },
+                    { q: 'Why was my dollar note refused in Cambodia?', a: 'Torn, marked or heavily worn notes are routinely refused by shops, hotels and sometimes banks. Bring clean notes, check what an ATM or changer hands you before walking away, and do not accept a damaged note as change.' },
+                    { q: 'How much are ATM fees in Siem Reap?', a: 'Around USD 4-6 per withdrawal on top of your own bank’s charge, so take out larger amounts less often. Check the per-withdrawal limit too, since a low cap makes the fee hurt more.' },
+                    { q: 'How much does a day in Siem Reap cost?', a: 'A comfortable day with a mid-range room is USD 60-110 per person; a backpacker day is USD 25-40. The fixed costs are the Angkor Pass at USD 62 for three days and USD 18-25 a day for a tuk-tuk, with a licensed guide USD 35-45 on top.' },
+                    { q: 'Should you tip in Cambodia?', a: 'Not obligatory, normal in tourist-facing work. Ten percent in a restaurant, and a few dollars at the end of a full day for a tuk-tuk driver who has spent eight hours waiting in the heat at temple car parks - that wait is most of his working day.' },
+                    { q: 'Is bargaining expected in Siem Reap markets?', a: 'Yes, and it is good-humoured rather than adversarial. Ask, offer somewhat less, settle. Do not grind down a weaver over a piece that took a fortnight - the two-dollar gap is trivial to you and is not to them.' },
+                ],
+            };
         default:
             return null;
     }
