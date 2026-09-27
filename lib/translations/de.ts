@@ -58687,6 +58687,1353 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Eintrittskarte in Ho-Chi-Minh-Stadt, mit On foot. Durchgeführt von Up Travel, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ho-Chi-Minh-Stadt: Fast-Track-Service am Flughafen Tan Son Nhat",
   "metaDescription": "Eintrittskarte in Ho-Chi-Minh-Stadt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "heritage-train-ticket-hai-van-pass-train-from-da-nang-and-hue-da-nang": {
+  "title": "Heritage-Zugticket: über den Hai-Van-Pass von Da Nang nach Hue",
+  "metaTitle": "Heritage-Zug: Hai-Van-Pass, Da Nang nach Hue",
+  "metaDescription": "Reservierter Platz im Heritage-Zug über den Hai-Van-Pass zwischen Da Nang und Hue. Polstersitz, Klimaanlage, große Fenster. Einfache Fahrt.",
+  "shortDescription": "Eintrittsticket in Da Nang, mit einem E-Heritage-Zugticket für eine einfache Fahrt von Da Nang nach Hue oder umgekehrt und einer Panoramafahrt entlang Küste und Bergen. Anbieter: VM TRAVEL HOI AN, direkt gebucht und nicht über einen Wiederverkäufer.",
+  "fullDescription": "Ein reservierter Platz im Heritage-Zug über den Hai-Van-Pass, dem schönsten Bahnabschnitt Vietnams.\n\nDie Strecke folgt der Küste zwischen Da Nang und Hue und steigt auf den Hai Van, den Wolkenpass am Meer, auf einem in die Bergflanke geschnittenen Sims. Etwa vierzig Minuten lang hängt das Gleis über der Lagune von Lang Co, mit dem Meer direkt unter dem Fenster und der Felswand auf der anderen Seite. Jeremy Clarkson nannte sie bei Top Gear eine der besten Küstenstraßen der Welt, und die Bahn liegt über der Straße, mit der besseren Aussicht.\n\nDer Pass ist außerdem eine echte Klimagrenze. Er hält den Nordostmonsun ab, sodass Da Nang auf der Südseite oft trocken und warm ist, während Hue auf der Nordseite am selben Nachmittag grau und nass ist. Man sieht das Wetter durch das Fenster wechseln.\n\nDer Heritage-Zug ist der Touristenzug und nicht der gewöhnliche Nahverkehr: Polstersitze, Klimaanlage, große Fenster, gebaut zum Hinausschauen.\n\nBuchen Sie von Da Nang nach Hue die linke Seite, dann haben Sie das Meer, und in der anderen Richtung die rechte. Das ist ein Ticket für eine einfache Fahrt: wählen Sie also die Richtung, die zu Ihrer Weiterreise passt, statt zurückzufahren.\n\nDreieinhalb Stunden von Stadtzentrum zu Stadtzentrum, schneller als der Bus und erheblich schöner anzusehen.\n\nIhr Platz wird reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst ein E-Heritage-Zugticket für eine einfache Fahrt zwischen Da Nang und Hue in beiden Richtungen, mit reserviertem Polstersitz.\n\nMindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Vierzig Minuten über der Lagune von Lang Co, auf einem Sims in der Bergflanke",
+   "Der Pass, den Top Gear zu den großen Küstenstraßen der Welt zählte",
+   "Eine echte Wettergrenze: trocken in Da Nang, nass in Hue am selben Tag",
+   "Heritage-Service: Polstersitze, Klimaanlage, große Fenster",
+   "Nach Hue links sitzen, zurück rechts, dann haben Sie das Meer"
+  ],
+  "included": [
+   "E-Heritage-Zugticket für eine einfache Fahrt von Da Nang nach Hue oder umgekehrt",
+   "Panoramafahrt entlang Küste und Bergen",
+   "Bequeme Polstersitze und große Fenster zum Schauen",
+   "Traditionelle Musikdarbietungen zwischen Wagen 3 und 4",
+   "Mineralwasser: 1 Flasche pro Sitz"
+  ],
+  "notIncluded": [
+   "VIP-Wagen",
+   "Reiseleitung",
+   "Hoteltransfer",
+   "Speisen und Getränke"
+  ]
+ },
+ "perfume-making-workshop-with-local-instructor-in-da-nang": {
+  "title": "Workshop zur Parfumherstellung mit einer örtlichen Lehrerin in Da Nang",
+  "metaTitle": "Da Nang: Workshop zur Parfumherstellung",
+  "metaDescription": "Neunzig Minuten, um in Da Nang Ihr eigenes Parfum zu mischen, mit vietnamesischen Zutaten. Sie nehmen das Fläschchen und die notierte Formel mit.",
+  "shortDescription": "Tour in Da Nang, mit einem geführten Workshop zur Parfumherstellung und allen Materialien und ätherischen Ölen für die Komposition Ihres Parfums. Anbieter: VIVA VIETNAM, direkt gebucht und nicht über einen Wiederverkäufer.",
+  "fullDescription": "Neunzig Minuten, um in Da Nang Ihr eigenes Parfum zu mischen, und Sie gehen mit dem Fläschchen.\n\nEin Parfum ist in drei Schichten gebaut, und genau das bringt die Sitzung bei. Die Kopfnoten sind die Zitrusfrüchte und Kräuter, die man in den ersten Minuten riecht und dann verliert. Die Herznoten sind die Blüten und Gewürze, die die mittleren Stunden tragen. Die Basisnoten, die Hölzer, Harze und Vanillen, sind das, was am Abend noch auf der Haut ist, und das, weshalb ein Duft bleibt, während ein anderer bis zum Mittag verschwunden ist.\n\nSie arbeiten die Öle zuerst auf Teststreifen durch, denn die Nase nimmt einen Geruch nach wenigen Minuten nicht mehr wahr, und die Reihenfolge des Testens verändert, was Sie wählen. Die Lehrerin führt Sie durch die Balance, dann mischen Sie.\n\nVietnam baut einen guten Teil davon selbst an: Zimt aus Quang Nam, Sternanis aus dem Norden, und Adlerholz, das Harz, aus dem Oud wird und eines der teuersten Rohstoffe der Parfumerie ist.\n\nSie nehmen ein Fläschchen mit 10 ml oder 30 ml von dem mit, was Sie gemacht haben, und weil die Formel notiert wird, können Sie sie nachmischen lassen.\n\nNeunzig Minuten in Innenräumen: das ist also das, was man bucht, wenn das Wetter in Da Nang umschlägt, was es zwischen September und Dezember regelmäßig tut.\n\nIhr Platz wird reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst den geführten Workshop, alle Materialien und ätherischen Öle und Ihr abgefülltes Parfum zum Mitnehmen.\n\nMindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Bauen Sie einen Duft in drei Schichten: Kopf-, Herz- und Basisnoten",
+   "Erst auf Teststreifen prüfen, denn die Nase ermüdet in wenigen Minuten",
+   "Vietnamesische Zutaten: Zimt aus Quang Nam, Sternanis, Adlerholz",
+   "Nehmen Sie ein Fläschchen mit 10 ml oder 30 ml Ihrer eigenen Formel mit",
+   "In Innenräumen, also hält es, wenn das Wetter in Da Nang umschlägt"
+  ],
+  "included": [
+   "Geführter Workshop zur Parfumherstellung",
+   "Alle Materialien und ätherischen Öle für die Komposition Ihres Parfums",
+   "Fläschchen mit 10 oder 30 ml Ihres eigenen Parfums zum Mitnehmen"
+  ],
+  "notIncluded": [
+   "Der Transport zum und vom Ort des Workshops"
+  ]
+ },
+ "2-day-1-night-ha-long-and-lan-ha-tour": {
+  "title": "Ha Long und Lan Ha in 2 Tagen und 1 Nacht",
+  "metaTitle": "Ha Long und Lan Ha: 2 Tage, 1 Nacht an Bord",
+  "metaDescription": "Eine Nacht auf dem Wasser mit der Ha-Long- und der Lan-Ha-Bucht, in einer Deluxe-Kabine mit eigenem Bad. Alle Mahlzeiten an Bord und Kajak inklusive.",
+  "shortDescription": "Zweitägige Tour in Ha Long, mit Willkommensgetränk, kühlem Tuch und Korb mit frischem Obst sowie einer vollständig ausgestatteten Deluxe-Kabine mit Klimaanlage. Anbieter: La Pandora cruises - THD Travel, direkt gebucht und nicht über einen Wiederverkäufer.",
+  "fullDescription": "Eine Nacht auf dem Wasser, die Ha Long und Lan Ha zusammen abdeckt, in einer Deluxe-Kabine mit eigenem Bad.\n\nDie zwei Buchten zählen als Paar. Ha Long selbst ist die berühmte und trägt den größten Teil der Flotte; Lan Ha liegt unmittelbar südlich davon vor Cat Ba, dieselbe versunkene Karstlandschaft mit rund 300 Inseln und einem Bruchteil der Boote. Eine Route, die beide nimmt, zeigt Ihnen die Postkarte und die stille Fassung auf derselben Reise, und nur eine Übernachtung erreicht Lan Ha überhaupt.\n\nWas für das Schlafen an Bord spricht, ist das, was vor und nach der Nacht passiert. Vom späten Nachmittag an fahren die Tagesboote zurück in den Hafen und die Bucht leert sich; wenn Sie beim Abendessen sitzen, liegen eine Handvoll Lichter auf dem Wasser statt hundert. Am Morgen ist es dasselbe in umgekehrter Reihenfolge, und die Stunden, bevor die Flotte zurückkommt, sind die stillsten, die Ha Long kennt.\n\nDie Kabine ist vollständig ausgestattet und hat ein eigenes Bad, keine Koje mit Gemeinschaftsbad, mit Willkommensgetränk, kühlem Tuch, Obstkorb und Wasser in Flaschen, die darin warten.\n\nEin praktisches Detail, das für jedes Boot in dieser Bucht gilt: die Klimaanlage läuft nach Plan, meist nachts statt durchgehend, sodass die Tage auf dem Deck warm sind. Das betrifft die ganze Flotte und nicht nur diese Kreuzfahrt.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst die Deluxe-Kabine mit eigenem Bad sowie das Willkommensgetränk, das kühle Tuch, den Obstkorb und das Mineralwasser in jeder Kabine.\n\nZwei Tage, eine Nacht. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Beide Buchten: die berühmte Ha Long und die stille Lan Ha",
+   "Lan Ha ist nur mit Übernachtung erreichbar, nicht als Tagesausflug",
+   "Die Flotte fährt in der Dämmerung los und kommt nach dem Morgengrauen zurück",
+   "Deluxe-Kabine mit eigenem Bad, keine Koje mit Gemeinschaftsbad",
+   "Die Klimaanlage des Boots läuft nachts, die Decks sind tagsüber also warm"
+  ],
+  "included": [
+   "Willkommensgetränk, kühles Tuch, Korb mit frischem Obst, zwei Flaschen Mineralwasser in jeder Kabine",
+   "Vollständig ausgestattete Deluxe-Kabine mit eigenem Bad, Klimaanlage und Warmwasser",
+   "Alle Mahlzeiten an Bord (2 Mittagessen, 1 Abendessen und 1 Frühstück)",
+   "Tee und Kaffee am Morgen gratis.",
+   "Kochvorführungen.",
+   "Eintritts- und Besichtigungsgebühren.",
+   "Kajak, örtliches Ruderboot, Schwimmen (wenn das Wetter es erlaubt), Tintenfischangeln, Musikunterhaltung",
+   "Englischsprachige Reiseleitung.",
+   "WLAN-Zugang."
+  ],
+  "notIncluded": [
+   "Getränke und Trinkgelder.",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "2-day-ha-long-bay-boat-tour-cabin-with-ocean-view": {
+  "title": "2 Tage Halong-Bucht per Boot, Kabine mit Meerblick",
+  "metaTitle": "Halong-Bucht, 2 Tage: Kabine mit Meerblick",
+  "metaDescription": "Eine Nacht auf der Halong-Bucht in einer Kabine mit Meerblick. Sung-Sot-Höhle, Ti-Top-Insel, Kajak, englischsprachiger Guide und Mahlzeiten an Bord.",
+  "shortDescription": "Zweitägige Tour in der Halong-Bucht, mit Mittagessen an Bord, Frühstück an Bord und der Insel Bohon samt Luon-Höhle. Anbieter: Sunlighttravel, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Eine Nacht auf der Bucht in einer Kabine mit Fenster, und darin liegt der ganze Unterschied zwischen auf einem Boot schlafen und auf einem Boot aufwachen.\n\nFür die Übernachtung spricht eine einfache Rechnung: die Tagesflotte fährt zurück. Ab dem späten Nachmittag leert sich die Bucht, und die Stunden nach Sonnenuntergang und vor der Rückkehr der Boote am Morgen sind die einzigen, in denen Halong still ist. Eine Kabine mit Meerblick heißt, dass Sie das sehen und nicht eine Gangwand.\n\nSung Sot, die Höhle der Überraschung, ist die größte der Bucht: zwei riesige beleuchtete Kammern, erreichbar über einen Aufstieg vom Anleger, mit einer Decke hoch genug, dass der Maßstab einen Moment braucht, bis er ankommt. Die Insel Ti Top ist der zweite Halt, mit einem Strand und rund 400 Stufen zum Aussichtspunkt, von dem das bekannte Bild der bis zum Horizont reihenden Karstfelsen stammt.\n\nKabinen werden als Doppel-, Dreibett- oder geteiltes Zweibettzimmer vergeben. Ein praktisches Detail, das man vorher wissen sollte: die Klimaanlage des Bootes läuft nach Zeitplan und nicht durchgehend, in der Regel nachts statt tagsüber. Das ist in der ganzen Halong-Flotte Standard und keine Eigenheit dieses Bootes. Die Tage an Deck sind warm.\n\nEin englischsprachiger Guide ist die ganze Zeit an Bord.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst die Kreuzfahrt, einen englischsprachigen Guide und eine geteilte Doppel-, Dreibett- oder Zweibettkabine.\n\nZwei Tage, eine Nacht. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Übernachtung, also die Bucht nach Abfahrt der Tagesflotte",
+   "Kabine mit Meerblick statt einer Koje im Inneren",
+   "Sung-Sot-Höhle: zwei beleuchtete Kammern mit hohen Decken",
+   "Die Insel Ti Top und ihr Aussichtspunkt nach 400 Stufen",
+   "Die Klimaanlage des Bootes läuft nachts, nicht den ganzen Tag"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Bootskreuzfahrt",
+   "Geteiltes Doppel-, Dreibett- oder Zweibettzimmer (die Klimaanlage des Bootes läuft von 19:00 bis 7:00 Uhr)",
+   "Eintrittskarten",
+   "Mahlzeiten an Bord (3 Hauptmahlzeiten und 1 Frühstück)",
+   "Hygieneartikel",
+   "Kajak",
+   "Angelausrüstung",
+   "Karaoke",
+   "Sonnenuntergangsparty",
+   "Kochkurs",
+   "Gratis Wasserflaschen in Ihrer Kabine"
+  ],
+  "notIncluded": [
+   "Hin- und Rücktransfer von Hanoi zum Hafen (25 USD = 650.000 VND pro Person)",
+   "Einzelzimmerzuschlag von 40 $ pro Kabine und Nacht",
+   "Getränke",
+   "Trinkgelder",
+   "Zuschlag von 25 $ pro Person zu Weihnachten, Neujahr und Tet."
+  ]
+ },
+ "2-day-luxury-cruise-bai-tu-long-bay-cave-kayak-meal-in-ha-long-bay": {
+  "title": "2 Tage Luxuskreuzfahrt Bai-Tu-Long-Bucht: Höhle, Kajak, Mahlzeiten",
+  "metaTitle": "Bai Tu Long: 2 Tage Luxuskreuzfahrt",
+  "metaDescription": "Eine Nacht auf der Bai-Tu-Long-Bucht, wo die Zahl der Boote begrenzt ist. Thien-Canh-Son-Höhle, das schwimmende Dorf Vung Vieng, Kajak und Vollpension.",
+  "shortDescription": "Zweitägige Tour in der Halong-Bucht, mit der Bai-Tu-Long-Bucht, der Thiên-Cảnh-Sơn-Höhle und Vung Vieng. Anbieter: DGB Travel & Event Company, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Eine Nacht auf Bai Tu Long, der Bucht, die von den Lizenzen still gehalten wird.\n\nDrei Buchten gehören zu dieser UNESCO-Landschaft, und sie sind ein einziger durchgehender versunkener Karst, den nur die Verwaltung teilt, nicht die Geologie. Halong selbst trägt fast die gesamte Kreuzfahrtflotte. Bai Tu Long reicht nach Nordosten in Richtung der chinesischen Grenze, und die Zahl der Boote mit Arbeitslizenz ist begrenzt: die Bucht ist also wirklich leer, auf eine Weise, wie Halong es seit zwanzig Jahren nicht mehr ist.\n\nDer Name gehört zu einem Paar. Halong heißt der herabsteigende Drache, die Mutter, die zur Verteidigung Vietnams entsandt wurde und deren gespuckte Jade zu den Inseln wurde. Bai Tu Long ist der Ort, an dem ihre Kinder ihr nachfolgten.\n\nDie Thien-Canh-Son-Höhle liegt auf einer kleinen Insel, die über einen kurzen Aufstieg erreicht wird, und genau deshalb steht sie im Programm: Stalaktitenkammern, die eine Handvoll Boote pro Tag empfangen und nicht die Schlange, die sich in der Hauptbucht an der Sung-Sot-Höhle bildet.\n\nVung Vieng ist ein schwimmendes Fischerdorf, Familien, die auf Flößen über ihren Fischgehegen leben, besucht im Ruderboot statt mit Motor, damit es still bleibt.\n\nGekajakt wird vom Boot aus, in geschütztem Wasser zwischen den Karstfelsen, und so kommt man in die niedrigen Durchlässe, durch die kein Kreuzfahrtrumpf passt.\n\nDie Übernachtung macht den Unterschied. Die Tagesboote fahren am späten Nachmittag ab und kommen erst nach Sonnenaufgang zurück, und Bai Tu Long ist schon vorher leerer als Halong.\n\nIhr Platz wird reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst einen englischsprachigen Guide an Bord, einen Willkommenscocktail, alle Eintritts- und Besichtigungsgebühren der Halong-Bucht und Ihre Unterbringung an Bord.\n\nZwei Tage, eine Nacht. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Bai Tu Long, wo Lizenzen die Zahl der Boote begrenzen",
+   "Benannt nach den Kindern des Drachen, nach der Drachenmutter von Halong",
+   "Die Thien-Canh-Son-Höhle, eine Handvoll Boote pro Tag statt einer Schlange",
+   "Das schwimmende Dorf Vung Vieng, besucht im Ruderboot",
+   "Eintritts- und Besichtigungsgebühren inklusive, nicht an Bord berechnet"
+  ],
+  "included": [
+   "Englischsprachiger Guide während der Kreuzfahrt",
+   "Willkommenscocktail",
+   "Eintritts- und Besichtigungsgebühren der Halong-Bucht.",
+   "Unterbringung in einer klimatisierten Luxuskabine",
+   "Vollpension: 01 Mittagessen, 01 Abendessen, 01 Frühstück, 01 Brunch",
+   "Aktivitäten: Kajak, Höhlenerkundung, Schwimmen, Bergwanderung",
+   "Tai-Chi am Morgen auf dem Sonnendeck und Tintenfischangeln am Abend",
+   "Steuern und Servicegebühren",
+   "Versicherung an Bord",
+   "Gratis Kabinendekoration für Hochzeitsreise, Hochzeitstag oder Geburtstag",
+   "Gratis Tee, Kaffee und traditionelle vietnamesische Snacks in der Kabine"
+  ],
+  "notIncluded": [
+   "Limousinenbus von Hanoi oder Ninh Binh zum Hafen von Halong oder zurück (13 US$ pro Person und Strecke)",
+   "Spa-Leistungen",
+   "Weitere Getränke, Trinkgelder und persönliche Ausgaben",
+   "Zuschlag am 24.12. zu Weihnachten und am 31.12. zu Neujahr",
+   "Alle weiteren nicht ausdrücklich genannten Leistungen",
+   "Zuschlag von 75 US$ für eine Einzelkabine"
+  ]
+ },
+ "2-day-ninh-binh-and-ha-long-bay-all-inclusive": {
+  "title": "2 Tage Ninh Binh und Halong-Bucht, all inclusive",
+  "metaTitle": "Ninh Binh und Halong-Bucht: 2 Tage all inclusive",
+  "metaDescription": "Zwei Tage auf demselben Karst, im Binnenland bei Ninh Binh und auf dem Meer bei Halong. Tam Coc, Mua-Höhle, Kreuzfahrt und alle Eintritte inklusive.",
+  "shortDescription": "Zweitägige Tour nach Halong, mit Abholung und Rückfahrt in der Altstadt von Hanoi und den Eintritten aller genannten Sehenswürdigkeiten. Anbieter: Hanoi Explore Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Zwei Tage, zwei Fassungen desselben Kalksteins, und alles ist bezahlt, bevor Sie Hanoi verlassen.\n\nNinh Binh ist die Karstlandschaft im Binnenland. Dieselben Türme, die bei Halong aus dem Meer steigen, steigen hier aus Reisfeldern und einem langsamen Fluss, was der Gegend den Namen Bucht an Land eingetragen hat. Tam Coc ist die zweistündige Bootsfahrt durch drei Flusshöhlen, gerudert von Einheimischen, die berühmterweise mit den Füßen rudern. Die Mua-Höhle ist der Aufstieg: mehrere hundert Steinstufen zu einem Drachen auf dem Grat, und der Blick von oben ist der, der Ninh Binh bekannt gemacht hat.\n\nDer zweite Tag verlagert sich in die Halong-Bucht und zur maritimen Fassung derselben Geologie.\n\nAll inclusive heißt hier, was es sagt: die Eintritte jeder genannten Sehenswürdigkeit sind gedeckt, und auf dieser Route ist das keine Kleinigkeit. Ninh Binh kassiert an Tam Coc, an der Mua-Höhle und in Hoa Lu getrennt, und eine Tour, die ohne diese ausgeschrieben ist, kann am Eingang deutlich teurer werden.\n\nAbholung und Rückfahrt erfolgen in der Altstadt von Hanoi, das Ganze funktioniert also als zweitägige Runde ab Hanoi und nicht als etwas, zu dem man in Ninh Binh dazustößt.\n\nDie Fahrt von Hanoi nach Ninh Binh dauert auf guter Straße rund zwei Stunden pro Richtung, und deshalb beginnt das Programm früh.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Abholung und Rückfahrt in der Altstadt von Hanoi, die Eintritte aller genannten Sehenswürdigkeiten, die zweistündige Bootsfahrt in Tam Coc und den Aufstieg zur Mua-Höhle.\n\nMindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Derselbe Karst im Binnenland bei Ninh Binh und auf dem Meer bei Halong",
+   "Tam Coc per Boot durch drei Flusshöhlen, mit den Füßen gerudert",
+   "Mua-Höhle: mehrere hundert Stufen zum Drachen auf dem Grat",
+   "Eintritte inklusive, wo Ninh Binh an jeder Stätte einzeln kassiert",
+   "Funktioniert als Runde ab der Altstadt von Hanoi"
+  ],
+  "included": [
+   "Abholung und Rückfahrt in der Altstadt von Hanoi",
+   "Eintritte aller genannten Sehenswürdigkeiten",
+   "2-stündige Bootsfahrt in Tam Coc und Aufstieg zum Gipfel der Mua-Höhle",
+   "Englischsprachiger Guide",
+   "Bootsfahrt in Tam Coc und Fahrrad in Ninh Binh",
+   "Abendessen und Unterkunft in Ninh Binh (optional)",
+   "Transfer im Limousinenbus von Ninh Binh zur Halong-Bucht",
+   "Deluxe-Kreuzfahrt auf der Halong-Bucht mit einer Fahrt von 6 Stunden",
+   "Kajak oder Bambusbootfahrt auf der Halong-Bucht",
+   "Tee bei Sonnenuntergang während der Kreuzfahrt auf der Halong-Bucht",
+   "Mahlzeiten: 1 Mittagessen und 1 Frühstück in Ninh Binh sowie 1 Mittagessen auf der Kreuzfahrt"
+  ],
+  "notIncluded": []
+ },
+ "2-day-ninh-binh-tour-and-lan-ha-bay-luxury-day-cruise": {
+  "title": "2 Tage Ninh Binh und Luxus-Tageskreuzfahrt in der Lan-Ha-Bucht",
+  "metaTitle": "Ninh Binh und Lan Ha: 2 Tage, Luxuskreuzfahrt",
+  "metaDescription": "Zwei Tage zwischen Ninh Binh und der Lan-Ha-Bucht, die stiller ist als Halong. Tam Coc, Mua-Höhle, Kajak, klimatisierter Transport und alle Aktivitäten inklusive.",
+  "shortDescription": "Zweitägige Tour in der Halong-Bucht, mit Abholung und Rückfahrt sowie Hin- und Rücktransport im klimatisierten Fahrzeug. Anbieter: Tinny Travel Co.Ltd, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Zwei Tage, die Ninh Binh mit der Lan-Ha-Bucht statt mit Halong verbinden, und das ist eine bewusste und bessere Wahl.\n\nLan Ha liegt direkt südlich von Halong selbst, vor der Insel Cat Ba. Es ist dieselbe versunkene Karstlandschaft, rund 300 Inseln, aber die große Kreuzfahrtflotte sammelt sich in der Halong-Bucht selbst, sodass Lan Ha nur einen Bruchteil des Verkehrs trägt. Sie bekommen die Kulisse ohne die Bootsschlange auf jedem Foto.\n\nNinh Binh ist die Binnenfassung derselben Geologie. Tam Coc ist eine zweistündige Ruderbootfahrt durch drei Höhlen, durch die der Fluss läuft, mit Karstwänden nah auf beiden Seiten, gerudert von Einheimischen, die die Ruder mit den Füßen führen. Die Mua-Höhle ist der Aufstieg: mehrere hundert Steinstufen zu einer Drachenstatue auf dem Grat, und der Blick, der Ninh Binh berühmt gemacht hat.\n\nDass es zwei Tage sind und nicht einer, macht beide Hälften unaufgeregt. Ein einzelner Tag für beides heißt, den größten Teil davon im Fahrzeug zu sitzen.\n\nAlle Aktivitäten und die Bootsfahrt in Tam Coc sind enthalten, dazu der klimatisierte Hin- und Rücktransport und durchgehend ein Guide. Ninh Binh kassiert an mehreren Stätten getrennt Eintritt, auf dieser Route zählt es also, dass die Aktivitäten gedeckt sind.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Abholung und Rückfahrt, den klimatisierten Hin- und Rücktransport, einen Guide, alle Aktivitäten und die Bootsfahrt in Tam Coc.\n\nZwei Tage. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Lan Ha statt Halong: derselbe Karst, weit weniger Boote",
+   "Tam Coc durch drei Flusshöhlen, die Ruder mit den Füßen geführt",
+   "Mua-Höhle: mehrere hundert Stufen zum Drachen auf dem Grat",
+   "Zwei Tage, also wird keine der beiden Hälften gehetzt",
+   "Alle Aktivitäten und die Bootsfahrt inklusive"
+  ],
+  "included": [
+   "Abholung und Rückfahrt",
+   "Hin- und Rücktransport im klimatisierten Fahrzeug",
+   "Guide",
+   "Alle Aktivitäten",
+   "Bootsfahrt in Tam Coc",
+   "Luxus-Tageskreuzfahrt in der Lan-Ha-Bucht",
+   "Kajak in der Lan-Ha-Bucht",
+   "Schwimmen",
+   "2 Mittagessen"
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Zuschlag zu Neujahr, zum Mondneujahr, zu Weihnachten und an nationalen Feiertagen. Zuschlag von 20 USD pro Person (an bestimmten Feiertagen)"
+  ]
+ },
+ "3-day-unesco-luxury-ha-long-lan-ha-and-ninh-binh-tour": {
+  "title": "3 Tage Halong/Lan Ha und Ninh Binh, UNESCO in der Luxusfassung",
+  "metaTitle": "Halong, Lan Ha und Ninh Binh: 3 Tage Luxus",
+  "metaDescription": "Drei Tage über beide UNESCO-Karstlandschaften, auf dem Meer und im Binnenland. Lan-Ha-Bucht, Nacht an Bord, Tam Coc, Mua-Höhle und Limousinentransfers.",
+  "shortDescription": "Dreitägige Tour in der Halong-Bucht, mit Abholung und Rückfahrt am Hotel in der Altstadt von Hanoi und Limousinentransfer zwischen Hanoi, Halong und Ninh Binh. Anbieter: SST Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Drei Tage über beide von der UNESCO ausgezeichneten Karstlandschaften, wobei die Fahrten per Limousine erledigt werden.\n\nHalong und Ninh Binh sind derselbe Kalkstein, der zwei verschiedene Dinge tut. In Halong steigen die Türme aus dem Meer; in Ninh Binh steigen sie aus Reisfeldern, mit einem Fluss dazwischen, weshalb die Gegend Bucht an Land genannt wird. Sie im Abstand eines Tages zu sehen ist der Grund, warum das Paar als eine Landschaft ankommt und nicht als zwei Sehenswürdigkeiten.\n\nLan Ha ist der Teil, für den zu zahlen lohnt. Es liegt unmittelbar südlich von Halong selbst, vor Cat Ba, und hält rund 300 Inseln desselben versunkenen Karsts mit einem Bruchteil der Boote, weil die große Flotte in Halong bleibt. Ein Tagesausflug aus Hanoi kommt dort nicht hin; eine Übernachtung schon.\n\nDie Nacht auf dem Wasser ist der Moment, in dem die Bucht am stillsten ist. Die Tagesboote fahren am späten Nachmittag ab und kommen erst nach Sonnenaufgang zurück, also finden Abendessen, Nacht und Sonnenaufgang mit einer Handvoll Lichter auf dem Wasser statt und nicht mit hundert.\n\nNinh Binh ist Tam Coc im Ruderboot durch drei Flusshöhlen, gerudert von Einheimischen, die die Ruder mit den Füßen führen, und der Aufstieg an der Mua-Höhle, mehrere hundert Steinstufen zu einem Drachen auf dem Grat.\n\nLimousinentransfer zwischen Hanoi, Halong und Ninh Binh heißt verstellbare Sitze über mehrere hundert Kilometer statt einer Reisebusbank.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Abholung und Rückfahrt in der Altstadt von Hanoi, durchgehende Limousinentransfers und eine Nacht auf einer Luxuskreuzfahrt mit 3, 5 oder 6 Sternen, je nach gewählter Option.\n\nDrei Tage. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Beide UNESCO-Karstlandschaften: auf dem Meer und im Binnenland",
+   "Die Lan-Ha-Bucht, mit einem Tagesausflug aus Hanoi nicht erreichbar",
+   "Eine Nacht auf dem Wasser, nach Abfahrt der Tagesflotte",
+   "Tam Coc im Ruderboot und der Grataufstieg an der Mua-Höhle",
+   "Limousine auf allen drei Etappen, kein Reisebus"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel in der Altstadt von Hanoi",
+   "Limousinentransfer zwischen Hanoi – Halong – Ninh Binh – Hanoi",
+   "1 Nacht auf einer Luxuskreuzfahrt mit 3/5 Sternen oder 6 Sternen (Kabine mit privatem Balkon)",
+   "1 Nacht in Ninh Binh (sauberes Hotel oder Homestay, eigenes Zimmer und Bad)",
+   "Englischsprachiger Guide während der ganzen Reise",
+   "Eintrittsgebühren für die Sehenswürdigkeiten der Halong-Bucht, von Lan Ha und Ninh Binh",
+   "Kajak, Bambusbootfahrt, Radfahren im Dorf",
+   "Kochkurs, Tai-Chi, Aktivitäten zum Sonnenuntergang auf der Kreuzfahrt",
+   "Alle Mahlzeiten laut Programm",
+   "Ruderbootfahrt in Trang An",
+   "Wasserflaschen im Bus"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "1 Abendessen in Ninh Binh",
+   "An Feiertagen fällt ein Zuschlag an (siehe wichtige Informationen)"
+  ]
+ },
+ "4-days-ha-long-lan-ha-bay-cat-ba-and-ninh-binh-tour": {
+  "title": "4 Tage Halong, Lan-Ha-Bucht, Cat Ba und Ninh Binh",
+  "metaTitle": "Halong, Lan Ha, Cat Ba und Ninh Binh: 4 Tage",
+  "metaDescription": "Vier Tage und zwei Nächte auf dem Wasser, bis zum Dorf Viet Hai und zur Dunkel-und-Hell-Höhle, die Tagesausflüge nie erreichen.",
+  "shortDescription": "Viertägige Tour in der Halong-Bucht, mit dem Dorf Viet Hai und der Dunkel-und-Hell-Höhle. Anbieter: SST Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Vier Tage und zwei Nächte auf dem Wasser, hin zu den Teilen dieser Küste, die Tagesausflüge nie erreichen.\n\nDas Dorf Viet Hai ist der Grund, dieser Reise vier Tage zu geben. Es liegt in einem Tal auf der Insel Cat Ba, von Karst umringt, erreichbar nur per Boot und danach zu Fuß oder mit dem Rad, und bis vor kurzem hatte es überhaupt keine Straße. Es ist ein arbeitendes Bauerndorf und keine Schauvorstellung, und das Hinkommen ist der ganze Sinn: nichts auf einer Halong-Tageskreuzfahrt kommt in die Nähe.\n\nDie Dunkel-und-Hell-Höhle ist der zweite Halt, den Tagesausflüge auslassen. Man fährt im Bambusboot hindurch: ein Tunnel in völliger Dunkelheit, dann hinaus in eine helle, geschlossene Lagune auf der anderen Seite, woher der Name kommt.\n\nDie Lan-Ha-Bucht ist die stillere Bucht südlich von Halong selbst, rund 300 Inseln vor Cat Ba, wohin die große Flotte nicht fährt. Gekajakt und geschwommen wird hier und nicht in den belebten Fahrwassern.\n\nNinh Binh schließt die Reise mit der Binnenfassung desselben Kalksteins ab: Karsttürme, die aus Reisfeldern und einem Fluss steigen statt aus dem Meer.\n\nZwei Nächte werden auf einer Kreuzfahrt verbracht, eine in Ninh Binh, und der Standard der Kreuzfahrt reicht je nach gewählter Option von 3 bis 5 Sternen.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Abholung und Rückfahrt in der Altstadt von Hanoi, zwei Nächte an Bord einer Kreuzfahrt mit 3, 4 oder 5 Sternen, eine Nacht in Ninh Binh, Kajak und Schwimmen, das Dorf Viet Hai und die Dunkel-und-Hell-Höhle.\n\nVier Tage. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Das Dorf Viet Hai: nur per Boot, in einem Karsttal auf Cat Ba",
+   "Die Dunkel-und-Hell-Höhle im Bambusboot, Tunnel und dann Lagune",
+   "Die Lan-Ha-Bucht, wohin die große Flotte nicht fährt",
+   "Zwei Nächte auf dem Wasser und eine in Ninh Binh",
+   "Karst auf dem Meer und dann im Binnenland, in einer Reise"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel (Altstadt von Hanoi)",
+   "2 Nächte auf einer Kreuzfahrt mit 3 Sternen, 4 Sternen oder 5 Sternen",
+   "1 Nacht in Ninh Binh (Hotel oder Homestay, eigenes Zimmer)",
+   "Englischsprachiger Guide",
+   "Eintrittsgebühr für Ninh Binh",
+   "Kajak, Bambusboot, Radfahren",
+   "Kochkurs, Tai-Chi, Aktivitäten zum Sonnenuntergang",
+   "Mahlzeiten laut Programm"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Abendessen in Ninh Binh"
+  ]
+ },
+ "4-days-unesco-luxury-ha-long-lan-ha-and-ninh-binh-tour": {
+  "title": "4 Tage Halong/Lan Ha und Ninh Binh, UNESCO in der Luxusfassung",
+  "metaTitle": "Halong, Lan Ha und Ninh Binh: 4 Tage Luxus",
+  "metaDescription": "Vier Tage über die beiden UNESCO-Landschaften Nordvietnams, mit einer Nacht auf dem Wasser in der Lan-Ha-Bucht und Limousinentransfers auf allen vier Etappen.",
+  "shortDescription": "Viertägige Tour in der Halong-Bucht, mit Abholung und Rückfahrt am Hotel in der Altstadt von Hanoi und Limousinentransfer zwischen Hanoi, Halong und Ninh Binh. Anbieter: SST Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Vier Tage über die beiden von der UNESCO ausgezeichneten Landschaften Nordvietnams, mit einer Nacht auf dem Wasser und erledigten Fahrten.\n\nDie Route führt von Hanoi nach Halong und Lan Ha, dann hinunter nach Ninh Binh und zurück. Beides ist derselbe Kalksteinkarst, der Verschiedenes tut: in Halong steigt er aus dem Meer, in Ninh Binh aus Reisfeldern und einem Fluss. Sie mit Tagen Abstand zu sehen ist es, was den Vergleich ankommen lässt.\n\nLan Ha ist der Teil, der die Länge rechtfertigt. Es ist die Bucht südlich von Halong selbst, vor Cat Ba, wohin die große Kreuzfahrtflotte nicht fährt. Derselbe versunkene Karst, rund 300 Inseln, ein Bruchteil der Boote. Ein Tagesausflug aus Hanoi erreicht sie nicht; eine Übernachtung schon.\n\nDie Nacht verbringt man auf einem Luxuskreuzfahrtschiff und nicht im Hotel, und genau darum geht es bei einer Nacht in der Bucht: die Flotte dünnt nach Einbruch der Dunkelheit aus, und der Morgen auf dem Wasser, bevor die Tagesboote kommen, ist das Stillste, was die Bucht je zu bieten hat.\n\nNinh Binh deckt Tam Coc im Ruderboot durch die Flusshöhlen ab und den Aufstieg an der Mua-Höhle, mehrere hundert Stufen bis zum Grat.\n\nLimousinentransfer auf allen vier Etappen heißt verstellbare Sitze statt eines Reisebusses, was über vier Tage und mehrere hundert Kilometer keine Kleinigkeit ist.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Abholung und Rückfahrt in der Altstadt von Hanoi, durchgehende Limousinentransfers und eine Nacht auf einer Luxuskreuzfahrt mit 3, 5 oder 6 Sternen, je nach gewählter Option.\n\nVier Tage. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Beide UNESCO-Karstlandschaften: auf dem Meer und im Binnenland",
+   "Die Lan-Ha-Bucht, die Tagesausflüge aus Hanoi nicht erreichen",
+   "Eine Nacht auf dem Wasser, wenn die Flotte ausdünnt",
+   "Tam Coc im Ruderboot und der Grataufstieg an der Mua-Höhle",
+   "Limousinentransfers auf allen vier Etappen"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel in der Altstadt von Hanoi",
+   "Limousinentransfer zwischen Hanoi – Halong – Ninh Binh – Hanoi",
+   "1 Nacht auf einer Luxuskreuzfahrt mit 3/5 Sternen oder 6 Sternen",
+   "2 Nächte in Ninh Binh (sauberes Hotel oder Homestay, eigenes Zimmer und Bad)",
+   "Englischsprachiger Guide während der ganzen Reise",
+   "Eintrittsgebühren für die Sehenswürdigkeiten der Halong-Bucht, von Lan Ha und Ninh Binh",
+   "Kajak, Bambusbootfahrt, Radfahren im Dorf",
+   "Kochkurs, Tai-Chi, Aktivitäten zum Sonnenuntergang auf der Kreuzfahrt",
+   "Alle Mahlzeiten laut Programm",
+   "Fahrrad für die Radtouren",
+   "Alte Hauptstadt Hoa Lu",
+   "Bai-Dinh-Pagode"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "An Feiertagen fällt ein Zuschlag an (siehe wichtige Informationen)"
+  ]
+ },
+ "5-day-halong-bay-ninh-binh-and-pu-luong-tour": {
+  "title": "5 Tage Halong-Bucht, Ninh Binh und Pu Luong",
+  "metaTitle": "Halong, Ninh Binh und Pu Luong: 5 Tage",
+  "metaDescription": "Fünf Tage, die Pu Luong zur klassischen Nordrunde hinzunehmen: Reisterrassen, Thai- und Muong-Dörfer, eine Nacht auf einer 5-Sterne-Kreuzfahrt und Ninh Binh.",
+  "shortDescription": "Tour in Halong, mit 1 Nacht auf einer 5-Sterne-Kreuzfahrt in der Halong- und Lan-Ha-Bucht und 1 Nacht in einem 4-Sterne-Hotel in Ninh Binh. Anbieter: Vacation-Indochina-Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Fünf Tage, die Pu Luong zur üblichen Nordrunde hinzunehmen, und das ist es, was diese Reise ihre Länge wert macht.\n\nPu Luong ist ein Naturreservat in der Provinz Thanh Hoa, vier Stunden südwestlich von Hanoi, und eine völlig andere Landschaft als die Karstbuchten. Reisterrassen klettern die Talflanken hinauf, Dörfer der Thai- und Muong-Minderheiten liegen auf dem Talboden, und Wasserräder aus Bambus heben Flusswasser in die Terrassen. Zwei Nächte dort reichen, um zwischen den Dörfern zu Fuß zu gehen statt an ihnen vorbeizufahren.\n\nDie Terrassen haben drei gute Jahreszeiten, und es lohnt sich, eine zu wählen. Um Mai und Juni stehen sie unter Wasser und spiegeln den Himmel. Den Sommer über sind sie tiefgrün. Kurz vor der Ernte im September und Oktober werden sie golden, und das ist der Monat, auf den Fotografen zielen. Sagen Sie uns, welches Bild Sie wollen, und wir bestätigen die passenden Termine.\n\nDer Rest der Route ist der klassische Norden: eine Nacht auf einer Fünf-Sterne-Kreuzfahrt in Halong und Lan Ha und eine Nacht in Ninh Binh, wo derselbe Kalkstein aus Reisfeldern steigt statt aus dem Meer.\n\nVier Frühstücke sind enthalten, dazu die Unterbringung an jeder Etappe, von der Fünf-Sterne-Kreuzfahrt bis zum Vier-Sterne-Hotel und -Resort.\n\nFünf Tage sind es, die es braucht, um Pu Luong überhaupt aufzunehmen. Kürzer, und die vier Stunden Fahrt pro Richtung fressen den Gewinn.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst eine Nacht auf einer Fünf-Sterne-Kreuzfahrt in Halong und Lan Ha, eine Nacht in einem Vier-Sterne-Hotel in Ninh Binh, zwei Nächte in einem Vier-Sterne-Resort in Pu Luong und vier Frühstücke.\n\nMindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Pu Luong: Reisterrassen, Thai- und Muong-Dörfer, Wasserräder aus Bambus",
+   "Zwei Nächte dort, lang genug, um zwischen den Dörfern zu wandern",
+   "Drei fotogene Jahreszeiten: gespiegelt im Juni, golden vor der Ernte im Oktober",
+   "Eine Nacht auf einer Fünf-Sterne-Kreuzfahrt durch Halong und Lan Ha",
+   "Fünf Tage sind das Minimum, das Pu Luong die Fahrt wert macht"
+  ],
+  "included": [
+   "1 Nacht auf einer 5-Sterne-Kreuzfahrt in der Halong- und Lan-Ha-Bucht",
+   "1 Nacht in einem 4-Sterne-Hotel in Ninh Binh",
+   "2 Nächte in einem 4-Sterne-Resort in Pu Luong",
+   "4 Frühstücke",
+   "4 Mittagessen",
+   "1 Abendessen",
+   "Eintrittsgebühren für die genannten Besuche",
+   "Steuern"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Getränke",
+   "Trinkgelder für den Guide und die Bootsbesatzung",
+   "Reiseversicherung"
+  ]
+ },
+ "amanda-cruise-ha-long-and-lan-ha-bay-multi-day-tour-ha-long-bay": {
+  "title": "Amanda Cruise: Halong und Lan-Ha-Bucht, mehrtägige Kreuzfahrt",
+  "metaTitle": "Amanda Cruise: Halong und Lan Ha, mehrtägig",
+  "metaDescription": "Deluxe-Suite mit Meerblick auf einer Fünf-Sterne-Kreuzfahrt über Halong und die Lan-Ha-Bucht, die stiller ist und an einem Tag nicht erreichbar.",
+  "shortDescription": "Zweitägige Tour in der Halong-Bucht, mit einer Deluxe-Suite mit Meerblick an Bord der 5-Sterne-Amanda und einem Willkommensgetränk. Anbieter: AN LAM HA LONG TOURISM SERVICES, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Eine Deluxe-Suite mit Meerblick auf einer Fünf-Sterne-Kreuzfahrt, die sowohl Halong als auch Lan Ha befährt.\n\nDie Suite ist hier das Produkt. Ein Zimmer mit Meerblick auf einem Kreuzfahrtschiff heißt, dass Sie mit Blick auf Karstfelsen aufwachen und nicht auf einen Gang, und auf einer Reise, deren beste Stunden Morgen- und Abenddämmerung sind, ist das kein Detail. Tee und Kaffee im Zimmer, Wasserflaschen und täglich frisches Obst gehören dazu, außerdem ein Willkommensgetränk und ein kühles Handtuch bei der Ankunft.\n\nDie Route über beide Buchten ist die andere Hälfte. In Halong selbst sammelt sich die Flotte; Lan Ha, unmittelbar südlich vor Cat Ba, ist derselbe versunkene Karst mit rund 300 Inseln und weit weniger Booten. Tagesausflüge aus Hanoi erreichen Lan Ha überhaupt nicht, eine mehrtägige Kreuzfahrt ist also der einzige Weg, die stille Hälfte zu sehen.\n\nDie Übernachtung selbst wird unterschätzt. Ab dem späten Nachmittag fahren die Tagesboote ab und die Bucht leert sich; Abendessen, Nacht und Sonnenaufgang finden mit dem Wasser fast für sich allein statt. Wenn die Tagesflotte zurückkommt, haben Sie das Beste schon gehabt.\n\nEin Detail, das für diese ganze Bucht gilt und nicht nur für dieses Boot: die Klimaanlage in den Kabinen läuft nach Zeitplan, in der Regel nachts statt durchgehend, das Deck ist tagsüber also warm.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst die Deluxe-Suite mit Meerblick an Bord der Fünf-Sterne-Amanda-Cruise, das Willkommensgetränk, das kühle Handtuch, Tee, Kaffee und Wasserflaschen im Zimmer sowie täglich frisches Obst.\n\nMindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Deluxe-Suite mit Meerblick, Sie wachen also mit Blick auf die Karstfelsen auf",
+   "Deckt Lan Ha ab, das Tagesausflüge aus Hanoi nicht erreichen",
+   "Abendessen, Nacht und Sonnenaufgang mit fast leerer Bucht",
+   "Tee, Kaffee, Wasser im Zimmer und täglich frisches Obst",
+   "Die Klimaanlage der Kabine läuft nachts, nicht den ganzen Tag"
+  ],
+  "included": [
+   "Deluxe-Suite mit Meerblick an Bord der 5-Sterne-Amanda-Cruise",
+   "Willkommensgetränk",
+   "Kühles Handtuch",
+   "Tee, Kaffee, Wasserflaschen im Zimmer, täglich frisches Obst",
+   "Kräuterfußbad",
+   "2 Mittagessen",
+   "2 Abendessen",
+   "2 Frühstücke",
+   "Kajak oder Bambusboot an den Sung-Sot-Höhlen und der Titop-Insel",
+   "Kochkurs",
+   "WLAN",
+   "Abholung und Rückfahrt von Hanoi (nur bei der Option Abfahrt von Hanoi)"
+  ],
+  "notIncluded": [
+   "Zuschlag am Tag der Befreiung des Südens, zum Mondneujahr, an Silvester und zu Weihnachten",
+   "Trinkgelder"
+  ]
+ },
+ "bus-limo-hanoi-to-ha-long-scenic-drive-by-local-operator": {
+  "title": "Limousinenbus von Hanoi nach Halong, Panoramafahrt mit einem lokalen Anbieter",
+  "metaTitle": "Limousinenbus Hanoi nach Halong, mit Guide",
+  "metaDescription": "Der Transfer von Hanoi nach Halong im Limousinen-Van mit englischsprachigem Guide, rund dreieinhalb Stunden, samt Halt an der Perlenfarm und ihrem Eintritt.",
+  "shortDescription": "Tour in Halong, mit professionellem englischsprachigem Guide und klimatisiertem Transport. Anbieter: Entdecke Travel Vietnam, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Der Transfer von Hanoi nach Halong richtig gemacht, mit Guide, im Limousinen-Van statt im Touristenbus.\n\nDie Fahrt dauert auf der Schnellstraße etwa dreieinhalb Stunden. In einem gewöhnlichen Schlafbus oder Sechzehnsitzer ist das eine Geduldsprobe; in einem vietnamesischen Limousinen-Van, also acht oder neun verstellbaren Sitzen mit Platz dazwischen, ist es ein bequemer Vormittag.\n\nEinen Guide auf einem Transfer zu haben ist ungewöhnlich, und das unterscheidet dies von einem Platz im Shuttle. Die Straße durchquert das Delta des Roten Flusses, flaches Reisland, das in die Kohlehügel der Provinz Quang Ninh übergeht, und in diesem Fenster liegt ein Vietnam, das Ihnen in einem normalen Bus niemand erklärt.\n\nDer Halt an der Perlenfarm ist samt Eintritt enthalten. Die Gewässer der Halong-Bucht werden für Perlenzucht genutzt, und der Halt zeigt das Einsetzen und das Ernten. Ein Laden gehört dazu, wie immer, aber der Eintritt ist gedeckt, verlangt wird von Ihnen also nichts.\n\nDas ist die Option, wenn Sie in Halong übernachten statt einen Tagesausflug zu machen, oder wenn Sie zu einer Kreuzfahrt mit Übernachtung stoßen und am Hafen ankommen müssen statt am selben Abend nach Hanoi zurückzufahren.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst einen professionellen englischsprachigen Guide, den klimatisierten Transport, eine Flasche Wasser pro Person und den Eintritt zur Perlenfarm.\n\nDreieinhalb Stunden. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Limousinen-Van: acht oder neun verstellbare Sitze, kein Reisebus",
+   "Ein Guide auf einem Transfer, was ein Shuttleplatz nicht bietet",
+   "Reisland im Delta des Roten Flusses und dann die Kohlehügel von Quang Ninh",
+   "Halt an der Perlenfarm, Eintritt gedeckt",
+   "Gemacht für die Ankunft in Halong, nicht für die Rückfahrt am selben Tag"
+  ],
+  "included": [
+   "Professioneller englischsprachiger Guide",
+   "Klimatisierter Transport",
+   "1 Flasche Wasser pro Person",
+   "Eintritt zum Laden der Perlenfarm"
+  ],
+  "notIncluded": [
+   "Kreuzfahrttickets",
+   "Persönliche Ausgaben",
+   "Vor Ort bestellte Speisen und Getränke"
+  ]
+ },
+ "cat-ba-island-lan-ha-bay-fishing-tour-with-local-fishermen-ha-long": {
+  "title": "Insel Cat Ba: Angeltour in der Lan-Ha-Bucht mit einheimischen Fischern",
+  "metaTitle": "Cat Ba: Angeln in der Lan-Ha-Bucht",
+  "metaDescription": "Drei Stunden Angeln in der Lan-Ha-Bucht mit Fischern, die davon leben: Handleine und Rute von einem kleinen Boot, zwischen den schwimmenden Dörfern.",
+  "shortDescription": "Dreistündige Tour in Halong, mit Angelausrüstung und einem einheimischen Fischer als Guide. Anbieter: Cat Ba Kayak Rental, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Drei Stunden Angeln in der Lan-Ha-Bucht mit Männern, die davon leben.\n\nLan Ha ist die Nachbarbucht von Halong, vor der Insel Cat Ba, und die stillere der beiden. Dieselbe versunkene Karstlandschaft läuft nach Süden weiter, aber die große Kreuzfahrtflotte bleibt überwiegend in Halong selbst, sodass in Lan Ha mehr Arbeitsboote als Touristenboote fahren und rund 300 Inseln mit weit weniger Motoren dazwischen liegen.\n\nGeangelt wird hier mit Handleine und Rute von einem kleinen Boot und nicht mit Stuhl und Gurt. Die Fischer wissen, wo die Fische an den Karstfüßen stehen, und dieses Wissen gibt keine Karte her: der Kalkstein fällt steil ins tiefe Wasser ab, und die ertragreichen Stellen sind bestimmte Felsen, keine allgemeinen Gebiete.\n\nDie schwimmenden Dörfer gehören zum Bild. Familien in Lan Ha leben auf Flößen mit Fischgehegen darunter, in denen sie Zackenbarsch und Schnapper ziehen, und die Boote arbeiten um sie herum.\n\nDrei Stunden sind eine echte Ausfahrt und keine Fotogelegenheit. Etwas zu fangen ist wahrscheinlich, aber nicht versprochen; das ist Angeln.\n\nStart ist auf der Insel Cat Ba, das passt also zu einem Aufenthalt auf Cat Ba und nicht zu einem Tagesausflug aus Hanoi. Wenn Sie schon für den Nationalpark oder zum Klettern auf der Insel sind, ist das der halbe Tag, der Ihnen ihre Wasserseite zeigt.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Angelausrüstung und Ruten, einen einheimischen Fischer als Guide, die Bootsfahrt in der Lan-Ha-Bucht und die Gelegenheit, einheimischen Fisch zu fangen.\n\nDrei Stunden. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Die Lan-Ha-Bucht: derselbe Karst, weit weniger Motoren",
+   "Angeln mit Handleine und Rute von einem kleinen Arbeitsboot",
+   "Fischer, die die bestimmten Felsen kennen, nicht allgemeine Gebiete",
+   "Schwimmende Dörfer mit Gehegen für Zackenbarsch und Schnapper",
+   "Start auf der Insel Cat Ba, passend zu einem Aufenthalt statt zu einem Tagesausflug"
+  ],
+  "included": [
+   "Angelausrüstung",
+   "Einheimischer Fischer als Guide",
+   "Bootstour in der Lan-Ha-Bucht",
+   "Gelegenheit, einheimischen Fisch zu fangen",
+   "Angelruten"
+  ],
+  "notIncluded": [
+   "Nicht genannte Mahlzeiten",
+   "Transport zum und vom Treffpunkt",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "city-sightseeing-hop-on-hop-off-bus-tour-in-ha-long": {
+  "title": "City-Sightseeing-Bus zum Ein- und Aussteigen in Halong",
+  "metaTitle": "Hop-on-Hop-off-Bus in Halong",
+  "metaDescription": "Tagesticket für den Doppeldeckerbus, der die Runde durch Halong fährt, Audioguide in 8 Sprachen, für eine Stadt, die sich über Kilometer zieht.",
+  "shortDescription": "Tour in Halong, mit einem Hop-on-Hop-off-Busticket für 1 Tag und Haltestellen nahe den wichtigsten Sehenswürdigkeiten. Anbieter: City Sightseeing Worldwide, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Ein Tagesticket für den offenen Bus, der die Runde durch die Stadt Halong fährt, nützlich in einer ganz bestimmten Lage.\n\nHalongs Sehenswürdigkeiten ziehen sich über einen langen Küstenstreifen und liegen nicht in einer Altstadt zusammen. Die Stadt reicht über mehrere Kilometer von einem Ende zum anderen, die beiden Hälften verbindet die Bai-Chay-Brücke, und bei dieser Hitze zwischen Museum, Pagode, Märkten und Seilbahn zu laufen ist nicht realistisch. Ein Rundbus mit Tagesticket löst das, ohne jedes Mal einen Taxipreis zu verhandeln.\n\nDer Audioguide läuft in acht Sprachen, was auf dieser Route zählt: Halong bekommt viele Besucher, die nicht auf Englisch unterwegs sind.\n\nWo er sich seinen Platz verdient: wenn Sie vor oder nach einer Kreuzfahrt eine Nacht in der Stadt haben, oder wenn eine Kreuzfahrt wegen des Wetters ausfällt, macht ein Tagesticket aus einem leeren Tag einen brauchbaren. Es ist auch die mühelose Option mit müden Beinen oder kleinen Kindern, weil Sie immer nur eine Runde von Ihrem Startpunkt entfernt sind.\n\nWo er nicht hinkommt: aufs Wasser. Die Halong-Bucht selbst ist eine Bootsfahrt, und der Bus ist die Stadt, das ist also die Ergänzung zu einer Kreuzfahrt und nicht ihr Ersatz.\n\nDie Frequenz ist niedriger als in europäischen Städten mit derselben Marke, prüfen Sie den Fahrplan also an der ersten Haltestelle, statt mit einem Bus alle zehn Minuten zu rechnen.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst das Hop-on-Hop-off-Ticket für einen Tag, die Haltestellen nahe den wichtigsten Sehenswürdigkeiten und den Audioguide in acht Sprachen.\n\nMindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Die Stadt Halong zieht sich über Kilometer, die Sehenswürdigkeiten sind nicht zu Fuß erreichbar",
+   "Tagesticket, Ausstieg an Museum, Pagode und Märkten",
+   "Audioguide in acht Sprachen",
+   "Macht aus einem wetterbedingt ausgefallenen Kreuzfahrttag einen brauchbaren",
+   "Fahrplan an der ersten Haltestelle prüfen, die Frequenz ist überschaubar"
+  ],
+  "included": [
+   "Hop-on-Hop-off-Bustour für 1 Tag",
+   "Haltestellen nahe den wichtigsten Sehenswürdigkeiten",
+   "Audioguide in 8 Sprachen"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke, sofern nicht angegeben",
+   "Eintritt zu den Sehenswürdigkeiten"
+  ]
+ },
+ "combo-ninh-binh-tour-and-ha-long-bay-tour-in-2-day": {
+  "title": "Kombi Ninh Binh und Halong-Bucht in 2 Tagen",
+  "metaTitle": "Kombi Ninh Binh und Halong-Bucht: 2 Tage",
+  "metaDescription": "Die beiden großen Landschaften Nordvietnams in zwei Tagen, als eine Buchung ab Hanoi, mit demselben Guide und allen Eintrittsgebühren.",
+  "shortDescription": "Zweitägige Tour in Halong, mit Abholung und Rückfahrt am Hotel in der Altstadt von Hanoi und Hin- und Rücktransport per Limousine oder Bus. Anbieter: Luxury Vietnam Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Die beiden bekanntesten Landschaften Nordvietnams in zwei Tagen, als eine Buchung ab Hanoi geführt.\n\nNinh Binh und Halong sind derselbe Kalkstein in zwei Kulissen. In Ninh Binh steigen die Karsttürme aus Reisfeldern, mit einem Fluss dazwischen, weshalb die Gegend Bucht an Land genannt wird; in Halong steigen sie aus dem Meer. Sie an aufeinanderfolgenden Tagen zu sehen ist es, was das Paar als eine Landschaft ankommen lässt und nicht als zwei getrennte Sehenswürdigkeiten.\n\nSie zusammen statt getrennt zu buchen löst die Logistik. Beide starten in Hanoi, beide liegen zwei bis drei Stunden entfernt in verschiedenen Richtungen, und sie als zwei unabhängige Tagesausflüge zu organisieren heißt zwei frühe Starts, zwei Sätze Transfers und einen Tag dazwischen, in dem nichts steht.\n\nAbholung und Rückfahrt am Hotel liegen an beiden Enden in der Altstadt von Hanoi, und ein englischsprachiger Guide bleibt über beide Tage bei Ihnen, statt Sie zwischen Anbietern weiterzugeben.\n\nDer Transport läuft je nach gewählter Option per Limousine oder Bus. Über zwei Tage und mehrere hundert Kilometer ist das der wesentliche Unterschied zwischen den Preisen, prüfen Sie also, welche Ihre ist.\n\nZwei Tage sind das Minimum, das jedem Ort einen echten Besuch gibt. Ein einzelner Tag für beides ist überwiegend Straße.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Abholung und Rückfahrt in der Altstadt von Hanoi, den Hin- und Rücktransport per Limousine oder Bus und durchgehend einen englischsprachigen Guide.\n\nZwei Tage. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Beide bekannten Karstlandschaften an aufeinanderfolgenden Tagen",
+   "Eine Buchung statt zwei getrennter Tagesausflüge ab Hanoi",
+   "Derselbe Guide über beide Tage, keine Übergabe zwischen Anbietern",
+   "Abholung und Rückfahrt in der Altstadt an beiden Enden",
+   "Prüfen Sie, ob Ihre Option Limousine oder Bus ist"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel in der Altstadt von Hanoi",
+   "Hin- und Rücktransport per Limousine oder Bus",
+   "Englischsprachiger Guide während der ganzen Tour (Zuschlag für andere Sprachen)",
+   "Alle Eintrittsgebühren laut Programm",
+   "Bootsfahrt in Trang An oder Tam Coc",
+   "Luxuriöse Tageskreuzfahrt in der Halong-Bucht",
+   "Kajak oder Bambusboot an der Luon-Höhle",
+   "2 Mittagessen für 2 Tage",
+   "Wasserflaschen im Bus"
+  ],
+  "notIncluded": [
+   "Hotel in Ninh Binh oder Hanoi",
+   "Trinkgelder für Guide und Fahrer (freiwillig)",
+   "Zuschlag für die Feiertage in Vietnam"
+  ]
+ },
+ "day-ha-long-bay-premium-cruise-buffet-and-jacuzzi": {
+  "title": "Halong-Bucht an einem Tag: Premium-Kreuzfahrt, Buffet und Whirlpool",
+  "metaTitle": "Halong-Bucht: Premium-Kreuzfahrt mit Whirlpool",
+  "metaDescription": "Premium-Tageskreuzfahrt mit Whirlpool auf dem Sonnendeck, ab Ninh Binh statt Hanoi, mit Buffet an Bord und Rückgabeort nach Wahl.",
+  "shortDescription": "Ganztägige Tour in der Halong-Bucht, mit der Halong-Bucht. Anbieter: TripBestie, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Eine Premium-Tageskreuzfahrt mit Whirlpool an Deck, ab Ninh Binh statt ab Hanoi.\n\nDie Abholung in Ninh Binh ist es, was das Suchen wert macht. Fast jede Halong-Tageskreuzfahrt startet in Hanoi, was jedem, der schon in Ninh Binh ist, drei Stunden Rückweg in die Hauptstadt aufbürdet, nur um wieder herauszufahren. Diese holt Sie dort ab, wo Sie sind.\n\nDas zählt, weil Ninh Binh und Halong die klassische Paarung des Nordens sind: derselbe Kalksteinkarst, der im einen aus Reisfeldern und im anderen aus dem Meer steigt. Sie direkt hintereinander zu machen, ohne dazwischen nach Hanoi zurückzukehren, spart fast einen Tag.\n\nDer Whirlpool liegt auf dem Sonnendeck, und auf einer Fahrt durch die Karstfelsen ist das ein besserer Ort als der Speisesaal. An Bord wird ein Buffet serviert.\n\nDer Rückgabeort hängt von den Optionen ab, Sie können den Tag also in Halong beenden, nach Ninh Binh zurückfahren oder nach Hanoi weiterfahren, je nachdem, wohin Ihre Reise weitergeht. Bestätigen Sie bei der Buchung, welchen Sie wollen.\n\nDie Bucht selbst zählt rund 1.600 Kalksteininseln, die Gipfel eines Karstzuges, die über Wasser blieben, als der Meeresspiegel nach der letzten Eiszeit stieg.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst die Abholung in Ninh Binh, den Transfer von Ninh Binh nach Halong, die Premium-Tageskreuzfahrt mit Buffet und Whirlpool und einen Rückgabeort nach Ihrer Wahl.\n\nEin Tag. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Abholung in Ninh Binh, also keine drei Stunden Rückweg nach Hanoi",
+   "Verbindet die beiden Karstlandschaften ohne Rückkehr in die Hauptstadt",
+   "Whirlpool auf dem Sonnendeck, nicht nur ein Speisesaal",
+   "Buffet an Bord serviert",
+   "Wählen Sie Ihren Rückgabeort: Halong, Ninh Binh oder Hanoi"
+  ],
+  "included": [
+   "Abholung in Ninh Binh und Rückgabeort je nach gewählter Option.",
+   "Transfer von Ninh Binh nach Halong und Transfer von Halong nach Hanoi, Ninh Binh, Sa Pa oder Ha Giang je nach gewählter Option",
+   "6-stündige Kreuzfahrt in der Halong-Bucht auf einem Premium-Boot mit Whirlpool",
+   "Alle erforderlichen Eintrittsgebühren",
+   "Willkommensgetränk und schmackhaftes vietnamesisches Buffet-Mittagessen mit Meeresfrüchten",
+   "Gratis erfrischende Nachmittagsspezialitäten: Wein, Tee, Kuchen und Obst…",
+   "Eine kleine Flasche Wasser während des Bustransfers",
+   "Handtuch für das Baden",
+   "Aktivitäten: Kajak oder Bambusboot, Schwimmen und Höhlenerkundung"
+  ],
+  "notIncluded": [
+   "Reiseversicherung, Steuern",
+   "Persönliche Ausgaben",
+   "An der Bar bestellte Getränke",
+   "Trinkgelder für Guide und Fahrer",
+   "Alles weitere nicht Genannte",
+   "Zuschlag an nationalen Feiertagen, erhoben vom Anbieter"
+  ]
+ },
+ "h-long-inland-city-tour-in-ha-long": {
+  "title": "Hạ Long: die Stadt statt der Bucht",
+  "metaTitle": "Hạ Long: die Stadt statt der Bucht",
+  "metaDescription": "Halong die Stadt und nicht die Bucht: das Museum von Quang Ninh, die Long-Tien-Pagode und der Fischmarkt, auch nützlich, wenn Kreuzfahrten ausfallen.",
+  "shortDescription": "Tour in Halong, mit dem Chợ hải sản hạ long, dem Museum von Quảng Ninh und der Long-Tien-Pagode. Anbieter: Hoi An Express, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Halong die Stadt statt Halong die Bucht, die fast jeder Besucher ganz auslässt.\n\nNahezu alle, die hierherkommen, gehen an Bord eines Bootes und fahren wieder. Die Stadt hinter dem Pier ist eine arbeitende Provinzhauptstadt von einigen hunderttausend Menschen, auf Kohlegeld gebaut, und sie hat, was eine Kohle- und Seestadt hat, und nicht, was ein Ferienort hat.\n\nDas Museum von Quang Ninh ist der Grund für diese Tour. Es ist ein schwarzer Glaskasten an der Uferpromenade, entworfen vom spanischen Architekten Salvador Perez Arroyo, und es ist wirklich eines der besseren Museen Vietnams: das Gebäude spiegelt die Bucht in seiner Fassade, und innen reicht es von der Meeresgeologie der Region bis zur Geschichte des Kohlebergbaus, der die Stadt gebaut hat, samt einem nachgebauten Grubenschacht.\n\nDie Long-Tien-Pagode liegt am Fuß des Bai-Tho-Bergs und ist die größte der Stadt, gebaut im Jahrzehnt ab 1940 im Stil der älteren Tempel von Hanoi.\n\nDer Fischmarkt ist, wo die Stadt tatsächlich isst. Halongs Fang kommt frisch herein, und der Markt ist der einheimische Preis und nicht der Preis am Pier.\n\nDas ist die Tour für einen Tag, an dem die Buchtkreuzfahrten wegen des Wetters ausfallen, was in den Sturmmonaten mit einiger Regelmäßigkeit passiert, und für alle, die eine Nacht in der Stadt verbringen statt auf einem Boot.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Transfers und Transport laut Programm, die Eintrittsgebühren, Wasserflaschen und einen englischsprachigen Guide, andere Sprachen sind mit Zuschlag verfügbar.\n\nMindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Die Stadt hinter dem Pier, die die meisten Besucher nie sehen",
+   "Das Museum von Quang Ninh, ein schwarzer Glaskasten, der die Bucht spiegelt",
+   "Innen: Meeresgeologie und die Kohlegeschichte, die die Stadt gebaut hat",
+   "Die Long-Tien-Pagode am Fuß des Bai-Tho-Bergs",
+   "Funktioniert an Tagen, an denen die Buchtkreuzfahrten wetterbedingt ausfallen"
+  ],
+  "included": [
+   "Transfer und Transport laut Programm",
+   "Eintrittsgebühren",
+   "Trinkwasser in Flaschen",
+   "Englischsprachiger Guide (andere Sprachen auf Anfrage mit Zuschlag)",
+   "Reiseversicherung",
+   "Kostenlos für Kinder von 0 bis 5 Jahren",
+   "50 % Rabatt für Kinder von 6 bis 10 Jahren"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben wie Einkäufe, Telefon, Getränke usw."
+  ]
+ },
+ "ha-long-and-bai-tu-long-bay-1-or-2-day-cruise": {
+  "title": "Halong und die Bai-Tu-Long-Bucht, Kreuzfahrt über 1 oder 2 Tage",
+  "metaTitle": "Halong und Bai Tu Long: 1 oder 2 Tage",
+  "metaDescription": "Bai Tu Long, die Bucht nordöstlich von Halong, wo Lizenzen die Zahl der Boote begrenzen. Als Tagesfahrt oder mit Übernachtung, wenn die Bucht sich leert.",
+  "shortDescription": "Ganztägige Tour in der Halong-Bucht, mit Abholung und Rückfahrt am Hotel (bei gewählter Option) und einem Willkommensgetränk samt warmen und kalten Handtüchern (bei der 2-Tage-Option). Anbieter: Tinny Travel Co.Ltd, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Bai Tu Long ist die Bucht nordöstlich von Halong selbst, und sie ist die, die fast niemand bucht.\n\nDie drei Buchten sind eine durchgehende Karstlandschaft, geteilt von der Verwaltung und nicht von der Geologie. Halong trägt die Flotte, Lan Ha liegt südlich vor Cat Ba, und Bai Tu Long zieht nach Nordosten in Richtung der chinesischen Grenze. Lizenzen begrenzen, wie viele Boote in Bai Tu Long arbeiten dürfen, die Routen dort sind also wirklich still, auf eine Weise, wie Halong es seit zwanzig Jahren nicht mehr ist.\n\nDie Legende hinter den Namen ist es wert, gekannt zu werden. Halong heißt der herabsteigende Drache: eine Drachenmutter, entsandt zur Verteidigung Vietnams, deren gespuckte Jade zu den Inseln wurde. Bai Tu Long ist der Ort, an dem ihre Kinder ihr nachfolgten. Die Namen sind ein Paar, und die Einheimischen verwenden sie so.\n\nDie Ein-Tages- und die Zwei-Tages-Option sind verschiedene Reisen und nicht verschiedene Längen. Eine Tageskreuzfahrt bleibt im belebteren mittleren Gewässer. Die Zwei-Tage-Fassung erreicht Bai Tu Long und schließt die Nacht ein, in der die Bucht sich ganz leert, samt Willkommensgetränk und warmen und kalten Handtüchern bei der Ankunft.\n\nWenn Sie die Nacht übrig haben, ist die Übernachtung genau hier die Fassung, die zu buchen lohnt, denn das stille Wasser ist der ganze Grund, Bai Tu Long der berühmten Bucht vorzuziehen.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Wasserflaschen, wobei Abholung und Rückfahrt am Hotel, das Willkommensgetränk und die Handtücher von der gewählten Option abhängen.\n\nMindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Bai Tu Long, nach Nordosten zur chinesischen Grenze hin",
+   "Lizenzen begrenzen die Boote, das Wasser ist also wirklich still",
+   "Benannt nach den Drachenkindern, nach der Drachenmutter von Halong",
+   "Ein Tag bleibt in der Mitte; zwei Tage erreichen Bai Tu Long",
+   "Die Übernachtung ist die Fassung, die diese Route rechtfertigt"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel (bei gewählter Option)",
+   "Willkommensgetränk und warme und kalte Handtücher (bei gewählter 2-Tage-Option)",
+   "Wasserflaschen (1 Flasche pro Nacht und Person)",
+   "1 Nacht Unterbringung an Bord (bei gewählter 2-Tage-Option)",
+   "1 Frühstück, 2 Mittagessen und 1 Abendessen an Bord (bei gewählter 2-Tage-Option)",
+   "Mittagessen (bei gewählter 1-Tage-Option)",
+   "Eintrittsgebühren",
+   "Kajak",
+   "Guide",
+   "Versicherung",
+   "WLAN (sehr begrenzt, je nach Fahrgebiet)",
+   "Rotwein auf der Sonnenuntergangsparty (bei gewählter 1-Tage-Option)"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Getränke",
+   "Zuschlag zu Neujahr, zum Mondneujahr, zu Weihnachten und an nationalen Feiertagen"
+  ]
+ },
+ "ha-long-bay-1-day-best-value-tour-meals-and-all-activities-by-local-operator": {
+  "title": "Halong-Bucht an 1 Tag zum besten Preis: Mahlzeiten und alle Aktivitäten",
+  "metaTitle": "Halong-Bucht an 1 Tag: Essen und Aktivitäten",
+  "metaDescription": "Der Halong-Tagesausflug zum Preis, der aufgeht: sechs Stunden auf dem Wasser, Mahlzeiten und alle Aktivitäten bezahlt, Shuttle über die Schnellstraße.",
+  "shortDescription": "Halbtägige Tour in Halong, mit Hin- und Rückfahrt im Shuttlebus über die Schnellstraße (bei gewählter Option) und einer Gratisflasche Wasser auf der Busfahrt. Anbieter: Dragon King Viet Nam, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Der Halong-Tagesausflug zu dem Preis, bei dem er aufgeht, mit bereits bezahlten Aktivitäten.\n\nDas ist die Shuttlebus-Fassung: dieselbe Bucht, dieselben Halte, dieselben sechs Stunden auf dem Wasser, in einem Schnellstraßenbus statt in einer Limousine. Alles, was passiert, sobald Sie an Bord sind, ist identisch mit Fahrten, die das Doppelte kosten.\n\nWichtiger als der Bus ist, was enthalten ist. Halong erhebt eine Buchtgebühr plus getrennte Tickets an den Höhlen und auf der Ti-Top-Insel, und ein ausgeschriebener Preis ohne sie kann an den Anlegern um ein Drittel wachsen. Dass Mahlzeiten und alle Aktivitäten gedeckt sind, heißt, dass der Tag kostet, was er sagt.\n\nDie Bucht selbst zählt rund 1.600 Kalksteininseln, die Gipfel eines Karstzuges, die über Wasser blieben, als der Meeresspiegel nach der letzten Eiszeit stieg. Ein Tagesausflug deckt die mittlere Bucht ab, die den klassischen Blick bietet und das belebteste Wasser ist.\n\nWasserflaschen gibt es auf der Busfahrt, und der Shuttle nimmt die Schnellstraße statt der alten Straße, was den Transfer bei zweieinhalb Stunden hält.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst den Shuttle über die Schnellstraße hin und zurück, sofern Ihre Option ihn enthält, Wasserflaschen auf der Fahrt, die Mahlzeiten und alle Aktivitäten.\n\nSechs Stunden auf der Bucht. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Shuttlebus statt Limousine, und entsprechend bepreist",
+   "Mahlzeiten und alle Aktivitäten gedeckt, nicht am Anleger dazugerechnet",
+   "Halong erhebt Buchtgebühr plus Höhlen- und Inselkarten",
+   "Rund 1.600 Karstinseln, die klassische mittlere Bucht",
+   "Die Schnellstraße hält den Transfer bei zweieinhalb Stunden"
+  ],
+  "included": [
+   "Hin- und Rückfahrt im Shuttlebus über die Schnellstraße (bei gewählter Option)",
+   "Gratisflasche Wasser auf der Busfahrt",
+   "Englischsprachiger Guide",
+   "Willkommensgetränk",
+   "Mittagessen auf der Kreuzfahrt",
+   "Alle in unserem Programm genannten Eintrittsgebühren",
+   "Gebühr für Kajak oder Bambusboot",
+   "Sonnenuntergangsparty"
+  ],
+  "notIncluded": [
+   "Trinkgelder für Guide, Fahrer und Bordpersonal (freiwillig)",
+   "Weitere persönliche Ausgaben",
+   "Weitere Getränke beim Mittagessen und an Bord",
+   "Schnellboot (optional, je nach Verfügbarkeit an den Sehenswürdigkeiten; zusätzliche Kosten)",
+   "Feiertagszuschlag (Tet, Mondneujahr)"
+  ]
+ },
+ "ha-long-bay-2-day-1-night-tour-by-4-star-luxury-junk": {
+  "title": "Halong-Bucht, 2 Tage und 1 Nacht auf einer 4-Sterne-Luxusdschunke",
+  "metaTitle": "Halong-Bucht: 2 Tage auf einer 4-Sterne-Dschunke",
+  "metaDescription": "Eine Nacht auf der Bucht an Bord einer Dschunke, mit allen Eintrittsgebühren, Kajak oder Bambusboot zur Luon-Höhle und dem Transfer aus Hanoi als Option.",
+  "shortDescription": "Zweitägige Tour in Halong, mit einer Kreuzfahrt über 2 Tage und 1 Nacht und Transport aus Hanoi (bei gewählter Option). Anbieter: Ruby Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Eine Nacht auf der Bucht an Bord einer Dschunke, mit Eintrittsgebühren und dem Transfer aus Hanoi als einem Paket.\n\nDie Dschunke ist der traditionelle vietnamesische Segelrumpf mit den kennzeichnenden gelatteten Segeln, und die modernen Kreuzfahrtfassungen behalten die Silhouette und fahren dabei mit Motor. Es ist die Form auf jeder Fotografie dieser Bucht, und auf einer zu sein statt eine anzuschauen macht den größten Teil des Reizes aus.\n\nWas eine Übernachtung Ihnen kauft, ist die Bucht ohne die Flotte. Die Tagesboote drehen am späten Nachmittag zum Hafen, und von da bis zum nächsten Morgen trägt das Wasser eine Handvoll Lichter statt hundert. Abendessen und Sonnenaufgang fallen beide in dieses Fenster.\n\nKajak oder ein Bambusboot ist enthalten, und so kommt man an die Stellen, die das Kreuzfahrtschiff nicht erreicht: die Luon-Höhle ist ein niedriger Tunnel durch den Fuß eines Karstfelsens in eine geschlossene Lagune, und bei Hochwasser ist die Decke kaum über Kopfhöhe.\n\nAlle Eintrittsgebühren sind gedeckt, was in dieser Bucht keine kleine Zeile ist. Halong erhebt eine Buchtgebühr plus getrennte Gebühren an den Höhlen und auf Ti Top, und Fahrten, die ohne sie ausgeschrieben sind, summieren sich an jedem Anleger.\n\nDer Transport aus Hanoi ist eine Option und nicht Standard, prüfen Sie also, ob Ihre ihn enthält: die Fahrt dauert etwa zweieinhalb Stunden pro Richtung.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst die Kreuzfahrt über zwei Tage und eine Nacht, einen englischsprachigen Guide, alle Eintrittsgebühren und Kajak oder ein Bambusboot, dazu den Transport aus Hanoi, sofern Ihre Option ihn enthält.\n\nMindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Ein traditioneller Dschunkenrumpf, die Form auf jeder Fotografie",
+   "Übernachtung, wenn die Bucht eine Handvoll Lichter trägt",
+   "Kajak oder Bambusboot in den niedrigen Tunnel der Luon-Höhle",
+   "Alle Eintrittsgebühren gedeckt, auch für die Höhlen und Ti Top",
+   "Prüfen Sie, ob der Transport aus Hanoi in Ihrer Option steckt"
+  ],
+  "included": [
+   "Kreuzfahrt über 2 Tage und 1 Nacht",
+   "Transport aus Hanoi (bei gewählter Option)",
+   "Englischsprachiger Guide",
+   "Alle Eintrittsgebühren",
+   "Kajak oder Bambusboot",
+   "Vorführung zum Frühlingsrollen-Rollen an Bord",
+   "Trinkwasser in der Kabine (2 Flaschen)",
+   "Mahlzeiten wie in der Beschreibung angegeben"
+  ],
+  "notIncluded": [
+   "Persönliche Getränke, an unserer Bar bestellt",
+   "Persönliche Ausgaben und alles Weitere, was nicht klar in der Leistungsliste genannt ist, Mehrwertsteuern",
+   "Einzelzimmerzuschlag",
+   "Zuschlag zu Neujahr, zu Weihnachten und an nationalen Feiertagen"
+  ]
+ },
+ "ha-long-bay-and-lan-ha-bay-in-1-day-with-a-luxury-yacht-by-local-operator": {
+  "title": "Halong-Bucht und Lan-Ha-Bucht an 1 Tag mit einer Luxusyacht",
+  "metaTitle": "Halong und Lan Ha an 1 Tag, mit Luxusyacht",
+  "metaDescription": "Beide Buchten an einem Tag auf einer Yacht, der einzige realistische Weg nach Lan Ha ohne Übernachtung. Sechs Stunden auf dem Wasser, vietnamesisches Buffet an Bord.",
+  "shortDescription": "Halbtägige Tour in Halong, mit Hin- und Rücktransfer im geteilten Auto aus Hanoi und einer luxuriösen Tageskreuzfahrt. Anbieter: Luxury Vietnam Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Beide Buchten an einem einzigen Tag auf einer Yacht, und das ist der einzige realistische Weg, Lan Ha ohne Übernachtung zu erreichen.\n\nLan Ha liegt südlich von Halong selbst, vor der Insel Cat Ba: derselbe versunkene Karst, rund 300 Inseln, und ein Bruchteil der Boote, weil die große Flotte im Norden bleibt. Gewöhnliche Tageskreuzfahrten kommen in der Zeit nicht hin und zurück, ein schnelleres Boot ist also das, was es möglich macht.\n\nSechs Stunden auf dem Wasser für beide Buchten heißt ein voller Tag und kein gemächlicher, und die Yacht legt echte Strecke zurück. Der Gewinn ist, dass Sie die Postkartenbucht und die stille Bucht auf derselben Fahrt sehen statt zu wählen.\n\nAn Bord wird ein vietnamesisches Buffet-Mittagessen serviert, dazu ein Willkommensgetränk.\n\nDer Hin- und Rücktransfer im geteilten Auto aus Hanoi ist optional und nicht enthalten, was zählt: Hanoi nach Halong dauert etwa zweieinhalb Stunden pro Richtung, ohne ihn brauchen Sie also Ihren eigenen Weg zum Anleger und zurück. Prüfen Sie vor der Buchung, ob Ihre Option ihn deckt.\n\nDas ist die Reise für Menschen mit einem Tag in Nordvietnam, die lieber mehr Wasser sehen als mehr Kabinen. Wenn Sie eine Nacht übrig haben, erreicht eine Übernachtung dieselben Orte langsamer und mit der Bucht für sich allein nach Einbruch der Dunkelheit.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst die luxuriöse Tageskreuzfahrt, ein Willkommensgetränk an Bord und ein vietnamesisches Buffet-Mittagessen, dazu den Autotransfer aus Hanoi, sofern Ihre Option ihn enthält.\n\nSechs Stunden. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Erreicht Lan Ha, was gewöhnliche Tageskreuzfahrten nicht können",
+   "Die berühmte und die stille Bucht an einem einzigen Tag",
+   "Vietnamesisches Buffet-Mittagessen und Willkommensgetränk an Bord",
+   "Der Transfer aus Hanoi ist optional: prüfen Sie Ihre Option",
+   "Gebaut für einen Tag im Norden statt für eine Übernachtung"
+  ],
+  "included": [
+   "Hin- und Rücktransfer im geteilten Auto aus Hanoi (optional)",
+   "Luxuriöse Tageskreuzfahrt",
+   "Willkommensgetränk an Bord",
+   "Buffet-Mittagessen (vietnamesische und internationale Küche)",
+   "Eintrittsgebühren und Besichtigungstickets",
+   "Kajak oder Bambusboot",
+   "Wasserflaschen im Auto",
+   "Englischsprachiger Guide an Bord (Zuschlag für andere Sprachen)",
+   "Sonnenuntergangsparty mit Tee, Snacks oder Wein"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben und Trinkgelder (freiwillig)",
+   "Zuschlag für die Feiertage in Vietnam",
+   "Zuschlag für andere Sprachen"
+  ]
+ },
+ "ha-long-bay-vip-day-trip-with-hotel-pickup": {
+  "title": "Halong-Bucht als VIP-Tagesausflug, mit Abholung am Hotel",
+  "metaTitle": "Halong-Bucht als VIP-Tag, Abholung am Hotel",
+  "metaDescription": "Der Halong-Tagesausflug mit geregelter Fahrt: DCar-Limousine hin und zurück, Abholung in der Altstadt von Hanoi und sechs Stunden in der mittleren Bucht.",
+  "shortDescription": "Halbtägige Tour in Halong, mit Hin- und Rücktransfer in der VIP-DCar-Limousine (je nach Option) und Abholung am Hotel in der Altstadt von Hanoi. Anbieter: CÔNG TY TNHH MTV GO VIETNAM TRIP HÀ NỘI, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Der Halong-Tagesausflug mit geregelter Fahrt, und auf dieser Route entscheidet genau das, wie sich der Tag anfühlt.\n\nHanoi nach Halong dauert auf der Schnellstraße etwa zweieinhalb Stunden pro Richtung. Das sind fünf Stunden im Fahrzeug, gewickelt um sechs Stunden auf dem Wasser, und das Fahrzeug ist, was die meisten unterschätzen. Eine DCar-Limousine ist ein umgebauter Van mit acht oder neun verstellbaren Sitzen und echtem Platz dazwischen, und nicht sechzehn aufrechte Sitze in einem Touristenbus.\n\nAbgeholt wird in der Altstadt von Hanoi, wo die meisten Besucher wohnen, niemand muss sich also im Morgengrauen zu einem Depot durchschlagen.\n\nAuf dem Wasser sind Sie zwischen rund 1.600 Kalksteininseln, den Gipfeln eines Karstzuges, die blieben, als der Meeresspiegel stieg. Ein Tagesausflug deckt die mittlere Bucht ab, also das klassische Halong und seinen belebtesten Teil.\n\nEin englischsprachiger Guide ist durchgehend dabei.\n\nEines sollten Sie bei der Buchung bestätigen: der Limousinentransfer ist als von der gewählten Option abhängig angegeben, prüfen Sie also, dass Ihre ihn enthält und nicht einen Shuttlebus. Der Preisunterschied zwischen den beiden Optionen sind fast vollständig diese fünf Stunden Straße.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst den Hin- und Rücktransfer in der VIP-DCar-Limousine je nach Ihrer Option, die Abholung am Hotel in der Altstadt von Hanoi und einen englischsprachigen Guide.\n\nSechs Stunden auf der Bucht. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "DCar-Limousine: acht oder neun verstellbare Sitze, kein Reisebus",
+   "Fünf Stunden des Tages sind Straße, das Fahrzeug zählt also",
+   "Abholung in der Altstadt von Hanoi, kein Depot im Morgengrauen",
+   "Rund 1.600 Karstinseln in der mittleren Bucht",
+   "Bestätigen Sie, dass Ihre Option die Limousine enthält und keinen Shuttle"
+  ],
+  "included": [
+   "Hin- und Rücktransfer in der VIP-DCar-Limousine (je nach gewählter Option)",
+   "Abholung am Hotel in der Altstadt von Hanoi",
+   "Englischsprachiger Guide",
+   "Willkommensgetränk",
+   "Buffet-Mittagessen",
+   "Eintrittsgebühren",
+   "5-Sterne-Kreuzfahrt",
+   "Kajak oder Bambusboot",
+   "Sonnenuntergangsparty",
+   "Wasserflaschen",
+   "Reiseversicherung"
+  ],
+  "notIncluded": [
+   "Nicht genannte Getränke",
+   "Persönliche Ausgaben",
+   "Trinkgelder (freiwillig)"
+  ]
+ },
+ "halong-bay-day-cruise-from-halong-port-shore-excursion-ha-long-bay": {
+  "title": "Halong-Bucht: Tageskreuzfahrt ab dem Hafen, Landausflug",
+  "metaTitle": "Halong-Bucht: Tageskreuzfahrt ab dem Hafen",
+  "metaDescription": "Sechsstündige Kreuzfahrt für Passagiere von Schiffen, die in Halong anlegen: Sung-Sot-Höhle, Hang Luon und die Ti-Top-Insel, mit pünktlicher Rückkehr zum Hafen.",
+  "shortDescription": "Halbtägige Tour in der Halong-Bucht, mit Hang Luon, der Sung-Sot-Höhle und der Ti-Top-Insel. Anbieter: Up Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Eine sechsstündige Kreuzfahrt, gebaut für Kreuzfahrtpassagiere, die in Halong anlegen und einen Tag haben.\n\nDie Route deckt die drei Dinge ab, die ein erster Besuch sehen sollte. Sung Sot, die Höhle der Überraschung, ist die größte der Bucht: zwei gewaltige Kammern, erreichbar über einen Aufstieg vom Anleger, durchgehend beleuchtet, mit einer Decke hoch genug, dass der Maßstab erst drinnen ankommt. Hang Luon ist der gegenteilige Höhlentyp, ein niedriger Tunnel durch einen Karstfelsen, den Boote in eine geschlossene Lagune auf der anderen Seite hindurchfahren. Die Ti-Top-Insel hat den Strand und die Treppe, rund 400 Stufen zu einem Aussichtspunkt, der die klassische Fotografie der in alle Richtungen ausgebreiteten Bucht gibt.\n\nDas Timing eines Landausflugs ist hier der ganze Entwurf. Das Programm ist darauf gebaut, Sie mit Reserve zum Hafen zurückzubringen, was zählt, wenn ein Schiff nicht wartet, und deshalb dauert es sechs Stunden und nicht gemütliche acht.\n\nDas Mittagessen wird an Bord serviert, die Eintrittsgebühren sind enthalten, und der Guide arbeitet durchgehend auf Englisch.\n\nGut zu wissen: die Halte an Höhle und Insel bringen echte Treppen mit. Sung Sot verlangt einen Aufstieg, und Ti Top sind 400 Stufen in tropischer Hitze, das ist also kein Tag im Deckstuhl.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst die Eintrittsgebühren, einen englischsprachigen Guide an Bord, das Mittagessen, Mineralwasser sowie Steuern und Servicegebühren.\n\nSechs Stunden ab dem Hafen von Halong. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Sung Sot, die größte Höhle der Bucht, in zwei gewaltigen Kammern",
+   "Hang Luon, ein niedriger Tunnel in eine geschlossene Lagune",
+   "Die Ti-Top-Insel: 400 Stufen zum klassischen Blick über die Bucht",
+   "Zeitlich auf die Rückkehr zum Hafen mit Reserve für ein Schiff gebaut",
+   "Echte Treppen an beiden Halten, kein Tag im Deckstuhl"
+  ],
+  "included": [
+   "Eintrittsgebühren",
+   "Englischsprachiger Guide an Bord",
+   "Mittagessen an Bord",
+   "Mineralwasser (1 Flasche pro Person)",
+   "Steuern und Servicegebühren",
+   "Kajak und Dschunkenfahrt (6-Stunden-Option)",
+   "Unterhaltungsprogramm in der Drachenperlen-Höhle mit festlichem Abendessen (optional)"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke",
+   "Zusätzliche, nicht genannte Wasser oder Getränke",
+   "Trinkgelder für Guide und Fahrer",
+   "Alle weiteren Leistungen, die nicht unter den Inklusivleistungen genannt sind"
+  ]
+ },
+ "halong-bay-sung-sot-titop-island-and-luon-cave": {
+  "title": "Halong-Bucht, Sung Sot, die Titop-Insel und die Luon-Höhle",
+  "metaTitle": "Halong: Sung Sot, Titop und die Luon-Höhle",
+  "metaDescription": "Die drei Halte, die einen ersten Besuch der Halong-Bucht vollständig machen, an einem Tag ab Hanoi, über die Schnellstraße und mit allen Eintrittsgebühren.",
+  "shortDescription": "Halbtägige Tour in Halong, mit englischsprachigem Guide während der Reise und Hin- und Rückfahrt im Bus über die Schnellstraße samt Abholung und Rückfahrt. Anbieter: Vietnam Vacations Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Die drei Halte, die einen ersten Besuch in Halong vollständig machen, an einem Tag ab Hanoi.\n\nSung Sot, die Höhle der Überraschung, ist die größte der Bucht. Ein Aufstieg vom Anleger öffnet sich in zwei enorme beleuchtete Kammern, und die zweite ist groß genug, dass der Maßstab erst ankommt, wenn man darin steht. Französische Forscher fanden sie in den 1900er-Jahren und nannten sie Grotte des Surprises, ein Name, den die Einheimischen noch zurückübersetzen.\n\nDie Luon-Höhle ist ihr Gegenteil. Ein niedriger Tunnel läuft durch den Fuß eines Karstfelsens in eine von Klippen umschlossene Lagune, und man fährt im Bambusboot oder Kajak hindurch, weil die Decke bei Hochwasser kaum über dem Kopf ist. Innen brechen die Wände den Wind, und das Wasser wird völlig still.\n\nDie Ti-Top-Insel gibt Ihnen die Fotografie. Rund 400 Stufen steigen zu einem Aussichtspunkt, an dem die Karstfelsen in alle Richtungen zum Horizont laufen, und unten liegt ein Strand für danach. Die Insel ist nach einem sowjetischen Kosmonauten benannt, der 1962 mit Ho Chi Minh hier war.\n\nDer Bus nimmt die Schnellstraße, was Hanoi nach Halong bei etwa zweieinhalb Stunden pro Richtung hält statt bei vier auf der alten Straße. Ein englischsprachiger Guide begleitet Sie die ganze Reise.\n\nDas ist der vollständige Erstbesuchstag: die große Höhle, die verborgene Lagune und der Blick, und nichts bleibt übrig, das man bereuen würde.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst den englischsprachigen Guide und die Hin- und Rückfahrt im Bus über die Schnellstraße samt Abholung und Rückfahrt in Hanoi.\n\nSechs Stunden auf der Bucht. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Sung Sot: zwei gewaltige beleuchtete Kammern, die größte Höhle der Bucht",
+   "Die Luon-Höhle im Bambusboot, unter einer Decke in Kopfhöhe",
+   "Ti Top: 400 Stufen zu Karstfelsen, die zum Horizont laufen",
+   "Benannt nach einem sowjetischen Kosmonauten, der mit Ho Chi Minh kam",
+   "Die Schnellstraße hält den Transfer bei zweieinhalb Stunden"
+  ],
+  "included": [
+   "Englischsprachiger Guide während der Reise",
+   "Hin- und Rückfahrt im Bus über die Schnellstraße (Abholung und Rückfahrt im Bereich der Altstadt von Hanoi)",
+   "Wasser im Bus",
+   "Mittagessen auf dem Boot",
+   "Höhlenbesuch",
+   "Wanderung auf der Titop-Insel",
+   "Badestopp am Strand von Titop",
+   "Kajak oder Fahrt im Bambusboot",
+   "Tee zum Sonnenuntergang mit Kuchen und Obst",
+   "Alle Eintrittsgebühren"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt außerhalb der Altstadt von Hanoi (dafür können Zusatzkosten anfallen)",
+   "Nicht genannte Speisen und Getränke",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "halong-bay-titop-island-sung-sot-and-luon-caves": {
+  "title": "Halong-Bucht, die Titop-Insel und die Höhlen Sung Sot und Luon",
+  "metaTitle": "Halong: Titop und die Höhlen Sung Sot und Luon",
+  "metaDescription": "Der klassische Halong-Tagesausflug ab Hanoi mit den drei Halten, die einen ersten Besuch ausmachen, Treffpunkt Opernhaus Hanoi und englischsprachiger Guide.",
+  "shortDescription": "Ganztägige Tour in Halong, mit Abholung und Rückfahrt im Bus am Treffpunkt Opernhaus Hanoi und einer Flasche Wasser pro Person. Anbieter: Thao Nguyen Travel Company, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Der klassische Halong-Tagesausflug ab Hanoi, mit den drei Halten, die einen ersten Besuch ausmachen.\n\nZwölf Stunden klingen lang, bis man die Straße einrechnet: Hanoi nach Halong dauert etwa zweieinhalb Stunden pro Richtung, fünf dieser zwölf gehen also für Hin- und Rückweg. Treffpunkt ist das Opernhaus von Hanoi, zentral und im Morgengrauen leicht zu finden.\n\nSung Sot, die Höhle der Überraschung, ist die größte der Bucht. Sie öffnet sich über einen Aufstieg vom Anleger in zwei enorme beleuchtete Kammern, und die zweite ist groß genug, dass der Maßstab einen Moment braucht. Der Name kommt von den Franzosen, die sie in den 1900er-Jahren fanden und Grotte des Surprises nannten.\n\nDie Luon-Höhle ist das Gegenteil: ein niedriger Tunnel durch den Fuß eines Karstfelsens, den kleine Boote durchfahren und der sich in eine von Klippen rundum umschlossene Lagune öffnet. Man fährt im Bambusboot oder Kajak hindurch und nicht mit dem Kreuzfahrtschiff, weil die Decke bei Hochwasser kaum über Kopfhöhe ist.\n\nDie Ti-Top-Insel hat sowohl einen Strand als auch eine Treppe. Der Aufstieg sind rund 400 Stufen zu einem Aussichtspunkt, an dem die Karstfelsen sich in alle Richtungen zum Horizont ausbreiten, und das ist die Fotografie, mit der die meisten heimkommen. Die Insel ist nach einem sowjetischen Kosmonauten benannt, der 1962 mit Ho Chi Minh hier war.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Abholung und Rückfahrt im Bus am Opernhaus von Hanoi, Wasserflaschen und durchgehend einen englischsprachigen Guide.\n\nZwölf Stunden. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Sung Sot: zwei gewaltige Kammern, von den Franzosen in den 1900er-Jahren benannt",
+   "Die Luon-Höhle im Bambusboot, unter einer Decke kaum in Kopfhöhe",
+   "Die Ti-Top-Insel und ihr Horizontblick nach 400 Stufen",
+   "Benannt nach einem sowjetischen Kosmonauten, der mit Ho Chi Minh kam",
+   "Abholung am Opernhaus von Hanoi, fünf Stunden des Tages auf der Straße"
+  ],
+  "included": [
+   "Abholung und Rückfahrt im Bus am Treffpunkt: Opernhaus Hanoi",
+   "Eine Flasche Wasser pro Person",
+   "Englischsprachiger Guide während der Reise",
+   "Eintrittsgebühren",
+   "Kajak oder Bambusboot",
+   "Mittagessen mit authentischen vietnamesischen Gerichten",
+   "Sonnenuntergangsparty auf dem Boot",
+   "Eine kleine Flasche Wasser im Bus"
+  ],
+  "notIncluded": [
+   "Weitere Getränke",
+   "Nicht genannte persönliche Ausgaben"
+  ]
+ },
+ "halong-sky-tour-powered-paragliding-ha-long": {
+  "title": "Halong Sky Tour: Motorgleitschirm",
+  "metaTitle": "Halong Sky Tour: Flug im Motorgleitschirm",
+  "metaDescription": "Tandemflug im Motorgleitschirm über die Halong-Bucht, die einzige Art, das ganze Karstfeld auf einmal zu sehen. GoPro inklusive, zwei Stunden mit Transfers.",
+  "shortDescription": "Zweistündige Tour in Halong, mit Tandemflug und Transport. Anbieter: The Sky Bros, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Ein Tandemflug über die Halong-Bucht unter einem Motorgleitschirm, die einzige Art, das ganze Karstfeld auf einmal zu sehen.\n\nVon einem Boot sehen Sie die Türme einen nach dem anderen, während Sie zwischen ihnen durchfahren. Aus der Luft ergibt die Form der Bucht endlich Sinn: rund 1.600 Kalksteininseln und Eilande über das Wasser verteilt, und man sieht, wie dieselbe versunkene Karstlandschaft unter der Oberfläche weiterläuft.\n\nEin Motorgleitschirm ist eine Gleitschirmkappe mit Motor und Propeller hinter dem Piloten, er startet also von flachem Boden und steigt aus eigener Kraft, ohne Hang oder Schlepp. Sie fliegen im Tandem, vor dem Piloten angegurtet, das heißt Sie tun nichts als sitzen und schauen.\n\nEs ist weit langsamer und weit leiser als ein Helikopter, und Sie sind im Freien statt hinter Glas, und darin liegt der ganze Unterschied.\n\nDie Flüge hängen vom Wetter ab, wie Bootsfahrten es nicht tun. Wind und tiefe Wolken halten sie am Boden, wenn die Bucht also in einer ihrer grauen, windstillen Stimmungen ist, wird der Flug verlegt statt bei schlechten Bedingungen zu starten. Planen Sie wenn möglich einen Reservetag darum.\n\nEine GoPro ist enthalten, die Aufnahmen sind also erledigt, und Sie halten in der Höhe kein Telefon.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst den Tandemflug, den klimatisierten Transport zum Feld und zurück, die Gleitschirmausrüstung, die GoPro-Kamera, alle Gebühren und Steuern sowie die Versicherung.\n\nZwei Stunden einschließlich Transfers und Warten auf die richtige Luft. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Alle 1.600 Karstfelsen auf einmal sehen statt einen nach dem anderen",
+   "Tandemflug: Sie sitzen, der Pilot fliegt",
+   "Motorisierte Kappe, Start also von flachem Boden",
+   "Im Freien und leise, anders als ein Helikopter",
+   "GoPro-Aufnahmen inklusive; Flüge werden verlegt, wenn der Wind falsch steht"
+  ],
+  "included": [
+   "Tandemflug",
+   "Transport",
+   "Klimatisiertes Fahrzeug",
+   "Gleitschirmausrüstung und GoPro-Kamera",
+   "Alle Gebühren und Steuern",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Snacks",
+   "Alkoholische Getränke",
+   "Mittagessen",
+   "Frühstück",
+   "Abendessen"
+  ]
+ },
+ "lan-ha-bay-1-day-with-interesting-activities": {
+  "title": "Lan-Ha-Bucht an 1 Tag, mit Aktivitäten",
+  "metaTitle": "Lan-Ha-Bucht an 1 Tag, mit Aktivitäten",
+  "metaDescription": "Ein ganzer Tag in der Lan-Ha-Bucht, der stillen Hälfte dieser Küste: Kajak, Schwimmen und schwimmende Dörfer, ab Hanoi oder ab Cat Ba.",
+  "shortDescription": "Ganztägige Tour in Halong, mit Abholung und Rückfahrt im Shuttlebus in der Altstadt von Hanoi und Hin- und Rücktransfers per Auto (bei der Option ab Cat Ba). Anbieter: Anh Tourist Hanoi Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Ein ganzer Tag in der Lan-Ha-Bucht, der stillen Hälfte dieser Küste und der schwerer erreichbaren.\n\nLan Ha liegt südlich von Halong selbst, vor der Insel Cat Ba: rund 300 Inseln desselben versunkenen Karsts, mit einem Bruchteil der Boote, weil die große Flotte sich im Norden sammelt. Die Kulisse ist identisch. Der Verkehr nicht.\n\nEin ganzer Tag statt einer sechsstündigen Kreuzfahrt ist es, was die Aktivitäten echt werden lässt. Gekajakt wird hier in Wasser, in das die Kreuzfahrtschiffe Ihnen nicht folgen können, und geschwommen wird vom Boot aus in geschützten Buchten statt an einem festen Strandhalt mit zweihundert anderen Menschen.\n\nIn dieser Bucht liegen auch die schwimmenden Fischerdörfer von Cat Ba. Familien leben auf Flößen mit Gehegen für Zackenbarsch und Schnapper darunter, und die Boote arbeiten um sie herum statt an ihnen vorbeizufahren.\n\nEs gibt zwei Wege dazuzustoßen. Ab Hanoi nehmen Sie den Shuttlebus aus der Altstadt, was daraus einen langen Tag mit Schnellstraße an beiden Enden macht. Ab Cat Ba ist es ein kurzer Autotransfer, die bessere Fassung, wenn Sie schon auf der Insel wohnen.\n\nPrüfen Sie bei der Buchung, welche Ihre ist, denn der Unterschied sind etwa fünf Stunden.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Abholung und Rückfahrt im Shuttlebus in der Altstadt von Hanoi bei der Hanoi-Option oder die Hin- und Rücktransfers per Auto bei der Cat-Ba-Option.\n\nGanzer Tag. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Lan Ha: derselbe Karst wie Halong, ein Bruchteil der Boote",
+   "Ein ganzer Tag, Kajak und Schwimmen sind also echt und keine Halte",
+   "Kajak in Wasser, in das die Kreuzfahrtschiffe nicht folgen können",
+   "Schwimmende Dörfer mit Gehegen für Zackenbarsch und Schnapper darunter",
+   "Ab Hanoi oder ab Cat Ba: etwa fünf Stunden Unterschied"
+  ],
+  "included": [
+   "Abholung und Rückfahrt im Shuttlebus in der Altstadt von Hanoi (bei der Option ab Hanoi)",
+   "Hin- und Rücktransfers per Auto (bei der Option ab Cat Ba)",
+   "3-Sterne-Kreuzfahrt auf der Lan-Ha-Bucht",
+   "Professioneller Guide",
+   "Eintrittskarten für alle Sehenswürdigkeiten",
+   "Kajak, Schwimmen",
+   "Nachmittagstee mit Getränken und Snacks",
+   "Mittagessen auf der Kreuzfahrt",
+   "Trockensack und Handtuch"
+  ],
+  "notIncluded": [
+   "Mehrwertsteuer",
+   "Oben nicht genannte persönliche Ausgaben",
+   "Getränke an Bord (Softdrinks, Bier usw.)",
+   "Zuschläge an Feiertagen und Wochenenden, 100.000 VND pro Person"
+  ]
+ },
+ "luxury-ha-long-bay-1-day": {
+  "title": "Halong-Bucht an 1 Tag, in der Luxusfassung",
+  "metaTitle": "Halong-Bucht an 1 Tag, Luxusfassung",
+  "metaDescription": "Die Halong-Bucht an einem Tag ab Hanoi, mit einer VIP-Limousine für die fünf Stunden Straße und Kajak an der Luon-Höhle in der mittleren Bucht.",
+  "shortDescription": "Ganztägige Tour in Halong, mit einer VIP-Limousine und einer Flasche Wasser pro Person. Anbieter: Vn biketour, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Die Halong-Bucht an einem einzigen Tag ab Hanoi, wobei eine VIP-Limousine den Teil übernimmt, den niemand mag.\n\nDie Fahrt ist der Grund, warum diese Tour so gebaut ist. Hanoi nach Halong dauert auf der Schnellstraße etwa zweieinhalb Stunden pro Richtung, ein Tagesausflug sind also rund fünf Stunden im Fahrzeug um das Wasser herum. Ein Limousinen-Van, was in Vietnam acht oder neun verstellbare Sitze statt sechzehn aufrechter bedeutet, verändert das Gefühl dieser fünf Stunden mehr als alles, was auf dem Boot passiert.\n\nAuf dem Wasser sind Sie zwischen rund 1.600 Kalksteininseln und Eilanden, einer versunkenen Karstlandschaft, die unter dem Meeresspiegel weiterlief, als das Wasser stieg. Die Türme sind die Gipfel dessen, was einst ein Hügelzug war.\n\nEin Tagesausflug sieht die mittlere Bucht. Die weiten Enden, Lan Ha und Bai Tu Long, erreichen die Kreuzfahrten mit Übernachtung, wenn Ihnen das leerere Wasser also wichtig ist, ist eine Reise mit einer Nacht die Fassung, nach der Sie suchen sollten. Für einen ersten Besuch, oder für alle mit wenigen Tagen in Vietnam, ist die mittlere Bucht die Bucht.\n\nDer englischsprachige Guide ist bei der Gruppenoption enthalten. Andere Sprachen sind bei der privaten Option mit Zuschlag verfügbar, was sich zu erfragen lohnt, wenn Englisch nicht Ihre Sprache ist.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst die VIP-Limousine, Wasserflaschen und den englischsprachigen Guide bei der Gruppenoption.\n\nAcht Stunden. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Limousinen-Van: verstellbare Sitze für fünf Stunden Fahrt",
+   "Rund 1.600 Karstinseln, die Gipfel eines versunkenen Zuges",
+   "Deckt die mittlere Bucht ab, den klassischen Halong-Tag",
+   "Guides in anderen Sprachen bei der privaten Option verfügbar",
+   "Ab Hanoi und an einem Tag zurück"
+  ],
+  "included": [
+   "VIP-Limousine",
+   "Eine Flasche Wasser pro Person",
+   "Englischsprachiger Guide während der Reise bei der Gruppenoption (Zuschlag für einen Guide in anderer Sprache bei der Privattour)",
+   "Kajak oder Bambusboot an der Luon-Höhle",
+   "Mittagessen",
+   "Handtuch (für den Strand)",
+   "Schreiben Sie mir für die Verfügbarkeit: WhatsApp +84888588700 Stella"
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Trinkgelder",
+   "Zuschlag für einen nicht englischsprachigen Guide (optionale Privattour)",
+   "Feiertagszuschlag"
+  ]
+ },
+ "ninh-binh-and-halong-bay-2-day-1-night-stay-at-a-bungalow": {
+  "title": "Ninh Binh und Halong-Bucht, 2 Tage und 1 Nacht im Bungalow",
+  "metaTitle": "Ninh Binh und Halong: 2 Tage, Nacht im Bungalow",
+  "metaDescription": "Zwei Tage über die beiden Landschaften, die verwechselt werden: Hoa Lu, Tam Coc und die Mua-Höhlen, dann die Halong-Bucht, mit einer Nacht im Bungalow.",
+  "shortDescription": "Zweitägige Tour in Halong, mit Hoa Lu, Tam Coc und den Mua-Höhlen. Anbieter: Halong Excursion, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Zwei Tage über die beiden Landschaften, die Menschen miteinander verwechseln: Ninh Binh und die Halong-Bucht.\n\nEs ist dieselbe Geologie, die zwei verschiedene Dinge tut. Ninh Binh wird oft die Halong-Bucht an Land genannt, und das trifft zu: dieselben Türme aus Kalksteinkarst, aber aus Reisfeldern und einem Fluss steigend statt aus dem Meer. Man bewegt sich darin auf einem kleinen Ruderboot, und die Ruderer führen die Ruder berühmterweise mit den Füßen.\n\nTag eins ist die Binnenhälfte. Hoa Lu war im zehnten Jahrhundert die Hauptstadt Vietnams, unter den Dinh und den frühen Le, bevor sie ins heutige Hanoi wechselte; die Tempel dort liegen in einer Kalksteinschale, die den Ort verteidigungsfähig machte. Tam Coc ist die Bootsfahrt, drei Höhlen, durch die der Fluss läuft, mit den Karstfelsen auf beiden Seiten nah genug zum Anfassen. Die Mua-Höhlen sind der Aufstieg: rund 500 Steinstufen zu einer Drachenstatue auf dem Grat, und der Blick von oben ist die Fotografie, die Ninh Binh berühmt gemacht hat.\n\nTag zwei ist die Halong-Bucht selbst, wo dieselben Türme stattdessen aus dem Meer steigen.\n\nDie Nacht verbringt man in einem Bungalow statt in einem Hotelblock, was in Ninh Binh meist heißt, draußen zwischen den Karstfelsen zu sein statt in der Stadt.\n\nDer Transport ist ein Limousinenbus mit 22 Sitzen, was auf vietnamesischen Straßen verstellbare Sitze und Platz bedeutet statt eines Reisebusses.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst den Limousinenbus, Wasserflaschen, durchgehend einen englischsprachigen Guide, die Eintrittsgebühren und Kajak oder ein Bambusboot an der Luon-Höhle.\n\nMindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Ninh Binh und Halong: derselbe Karst, im Binnenland und am Meer",
+   "Hoa Lu, im zehnten Jahrhundert Hauptstadt Vietnams",
+   "Tam Coc im Ruderboot, durch drei Flusshöhlen",
+   "Rund 500 Stufen die Mua-Höhlen hinauf für den Blick vom Grat",
+   "Nacht im Bungalow zwischen den Karstfelsen, nicht in einem Hotelblock"
+  ],
+  "included": [
+   "Limousinenbus mit 22 Sitzen",
+   "Eine Flasche Wasser pro Person",
+   "Englischsprachiger Guide während der Reise",
+   "Eintrittsgebühren",
+   "Kajak oder Bambusboot an der Luon-Höhle",
+   "Vietnamesisches Mittagessen und Sonnenuntergangsparty",
+   "Handtuch (für den Strand)",
+   "1 Nacht im Bungalow oder Homestay",
+   "Radtour"
+  ],
+  "notIncluded": [
+   "Getränke, Reiseversicherung, Steuern",
+   "Trinkgelder für den Guide und persönliche Ausgaben"
+  ]
+ },
+ "ninh-binh-halong-2-day-1-night-trip-by-bus-bungalow-hotel": {
+  "title": "Ninh Binh und Halong, 2 Tage und 1 Nacht per Bus, Bungalow oder Hotel",
+  "metaTitle": "Ninh Binh und Halong: 2 Tage, Bungalow oder Hotel",
+  "metaDescription": "Zwei Tage zwischen Ninh Binh und Halong mit allen Mahlzeiten und Transfers eingerechnet, und der Nacht im Bungalow oder Hotel statt auf einem Boot.",
+  "shortDescription": "Zweitägige Tour in Halong, mit allen Transfers per Limousine oder normalem Bus und englischsprachigem Guide. Anbieter: Cozy Vietnam Travel Company Limited, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Zwei Tage über Ninh Binh und Halong, mit jeder Mahlzeit und jedem Transfer eingerechnet.\n\nDie Paarung funktioniert, weil die beiden Orte derselbe Kalkstein in verschiedenen Kulissen sind. Die Karsttürme von Ninh Binh steigen aus Reisfeldern, mit einem Fluss dazwischen, weshalb es die Bucht an Land heißt; die von Halong steigen aus dem Meer. Ein Tag Abstand genügt, um sie als eine Landschaft zu sehen.\n\nDie Nacht liegt in einem Bungalow oder Hotel in Ninh Binh und nicht auf einem Kreuzfahrtschiff, was den Charakter der Reise und ihren Preis verändert. Ein Bungalow in Ninh Binh heißt meist, draußen zwischen den Karstfelsen zu sein statt in der Stadt, und Sie wachen in der Landschaft auf statt auf dem Wasser.\n\nAlle Mahlzeiten sind enthalten, was auf einem zweitägigen Programm über zwei Provinzen die laufende Frage erledigt, wo und was man isst.\n\nDie Transfers laufen je nach gewählter Option per Limousine oder normalem Bus, prüfen Sie also, welche Ihre ist: über zwei Tage und mehrere hundert Kilometer ist der Unterschied erheblich.\n\nWasser und Feuchttücher im Fahrzeug sind eine Kleinigkeit, die Ihnen sagt, dass der Anbieter diese Route im Juli gefahren hat.\n\nEin englischsprachiger Guide ist an beiden Tagen bei Ihnen.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst alle Transfers per Limousine oder normalem Bus, einen englischsprachigen Guide, Wasser und Feuchttücher im Fahrzeug und alle Mahlzeiten samt einem Frühstück.\n\nZwei Tage, eine Nacht. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Derselbe Karst im Binnenland in Ninh Binh und am Meer in Halong",
+   "Nacht im Bungalow zwischen den Karstfelsen, nicht auf einem Boot",
+   "Alle Mahlzeiten an beiden Tagen enthalten",
+   "Prüfen Sie, ob Ihre Option Limousine oder normaler Bus ist",
+   "Ein Guide an beiden Tagen bei Ihnen"
+  ],
+  "included": [
+   "1. Alle Transfers per Limousine oder normalem Bus",
+   "2. Englischsprachiger Guide",
+   "3. Wasser und Feuchttücher im Fahrzeug",
+   "4. Alle Mahlzeiten (01 Frühstück, 02 Buffet-Mittagessen, 01 Abendessen)",
+   "5. Radtour",
+   "6. Eintrittsgebühr",
+   "7. 1 Nacht im Hotel oder Bungalow"
+  ],
+  "notIncluded": [
+   "1. Getränke zum Mittagessen",
+   "2. Trinkgelder für Guide und Fahrer",
+   "3. Oder alles, was oben nicht genannt ist"
+  ]
+ },
+ "shore-excursion-halong-legends-markets-and-sacred-pearl-show-ha-long-bay": {
+  "title": "Landausflug Halong: Legenden, Märkte und die Show der heiligen Perle",
+  "metaTitle": "Landausflug Halong: Märkte und heilige Perle",
+  "metaDescription": "Privater Ganztags-Landausflug in die Stadt hinter der Bucht: Museum von Quang Ninh, Long-Tien-Pagode, Märkte und die Show in der Drachenperlen-Höhle.",
+  "shortDescription": "Ganztägige Tour in der Halong-Bucht, mit der Long-Tien-Pagode, dem Museum von Quảng Ninh und Halong. Anbieter: Up Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Ein privater Ganztags-Landausflug in die Stadt hinter der Bucht, für Passagiere, die das Wasser schon gesehen haben.\n\nDie meisten Kreuzfahrtanläufe in Halong setzen alle wieder auf ein Boot. Dieser geht in die andere Richtung, in die arbeitende Stadt von einigen hunderttausend Menschen, zu der der Pier gehört und die fast kein Besucher je sieht.\n\nDas Museum von Quang Ninh ist der Grund dafür. Es ist ein schwarzer Glaskasten an der Uferpromenade vom spanischen Architekten Salvador Perez Arroyo, und die Fassade spiegelt die Bucht so vollständig, dass das Gebäude halb darin verschwindet. Innen reicht es von der Meeresgeologie der Region bis zur Geschichte des Kohlebergbaus, der diese Stadt tatsächlich gebaut hat, samt einem nachgebauten Grubenschacht.\n\nDie Long-Tien-Pagode liegt am Fuß des Bai-Tho-Bergs und ist die größte der Stadt, gebaut im Jahrzehnt ab 1940 im Stil der älteren Tempel von Hanoi.\n\nDie Märkte sind, wo Halong isst, zu einheimischen Preisen und nicht zu Pierpreisen, und die Show in der Drachenperlen-Höhle schließt den Tag: eine Aufführung in einer natürlichen Kalksteinhöhle, die die Legende vom herabsteigenden Drachen erzählt, von der die Bucht ihren Namen hat.\n\nPrivater Transfer vom internationalen Hafen Halong durchgehend heißt, dass die Zeiten sich Ihrem Schiff beugen und nicht einem Gruppenplan, was bei einem Hafenanlauf mehr wert ist, als es klingt.\n\nEintrittsgebühren für alle Stätten und ein englischsprachiger Guide sind enthalten.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst den privaten Hin- und Rücktransfer vom internationalen Hafen Halong, den Guide und alle Eintrittsgebühren.\n\nAcht Stunden. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Die arbeitende Stadt hinter dem Pier, die wenige Passagiere sehen",
+   "Das Museum von Quang Ninh: ein Glaskasten, der die Bucht spiegelt",
+   "Meeresgeologie und die Kohlegeschichte, die die Stadt gebaut hat",
+   "Märkte zu einheimischen Preisen, nicht zu Pierpreisen",
+   "Privater Transfer, die Zeiten beugen sich also Ihrem Schiff"
+  ],
+  "included": [
+   "Privater Hin- und Rücktransfer vom internationalen Hafen Halong",
+   "Englischsprachiger Guide",
+   "Eintrittsgebühren für alle im Programm genannten Sehenswürdigkeiten",
+   "Halbtägige Stadttour durch Halong",
+   "Ticket für die Show Die Suche nach der heiligen Perle und luxuriöses Bankett",
+   "01 Flasche Wasser pro Person",
+   "Das Abendessen ist enthalten",
+   "Alle Steuern und Servicegebühren"
+  ],
+  "notIncluded": [
+   "Getränke, die nicht zu den Mahlzeiten gehören",
+   "Trinkgelder und persönliche Ausgaben",
+   "Alle nicht genannten Leistungen",
+   "Massageleistungen (optional)",
+   "Zusätzliche Servicegebühr an Feiertagen (36 $ pro Person)"
+  ]
+ },
+ "shore-excursion-halong-s-sacred-pearl-cave-show-and-banquet-ha-long-bay": {
+  "title": "Landausflug Halong: Höhlenshow der heiligen Perle und Bankett",
+  "metaTitle": "Landausflug Halong: Höhlenshow und Bankett",
+  "metaDescription": "Eine Aufführung in einer Kalksteinhöhle, mit Bankett, auf den Hafenanlauf eines Schiffes zugeschnitten. Viereinhalb Stunden, Transfer vom Hafen inklusive.",
+  "shortDescription": "Tour in der Halong-Bucht, mit dem Unterhaltungsprogramm in der Drachenperlen-Höhle und einem Abendessen oder Mittagessen. Anbieter: Up Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Eine Aufführung in einer Kalksteinhöhle, mit einem Bankett, gebaut für den Hafenanlauf eines Kreuzfahrtschiffes.\n\nDie Drachenperlen-Höhle ist eine natürliche Höhle, die als Theater eingerichtet ist. Die Show greift die Legende auf, die der Bucht ihren Namen gibt: eine Drachenmutter, entsandt zur Verteidigung Vietnams gegen Eindringlinge, die Jade und Perlen spuckte, die zu den Inseln erstarrten, die draußen noch im Wasser stehen. Halong heißt der herabsteigende Drache, und hier wird diese Geschichte erzählt.\n\nWas es tragfähig macht, ist der Raum. Kalksteinhöhlen haben eine Akustik, die kein gebautes Theater nachbildet, und der Fels wird beleuchtet statt verdeckt, die Höhle ist also Teil der Inszenierung und nicht nur ein Ort.\n\nEin Bankett folgt, serviert je nach Ihrer Fahrt als Mittag- oder Abendessen.\n\nViereinhalb Stunden mit dem Hin- und Rücktransfer zwischen der Höhle und dem internationalen Hafen Halong sind um den Plan eines Schiffes gebaut. Wenn Sie bei einem Anlauf etwas wollen, das kein weiteres Boot ist, ist das das Gegenprogramm: die Bucht vom Wasser haben Sie gesehen, und das ist die Geschichte derselben Bucht von innerhalb des Felsens, aus dem sie besteht.\n\nEs läuft auch bei Wetter, das die kleinen Boote stoppt, weil das ganze Programm unter Dach ist.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst das Unterhaltungsprogramm in der Drachenperlen-Höhle, das Abend- oder Mittagessen und den Hin- und Rücktransfer zwischen der Höhle und dem internationalen Hafen Halong.\n\nViereinhalb Stunden. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Eine Show in einer natürlichen Kalksteinhöhle",
+   "Die Legende vom herabsteigenden Drachen, die der Bucht den Namen gibt",
+   "Höhlenakustik und beleuchteter Fels als Teil der Inszenierung",
+   "Bankett als Mittag- oder Abendessen, passend zu Ihrer Fahrt",
+   "Auf einen Hafenanlauf getaktet, und läuft bei Wetter, das Boote stoppt"
+  ],
+  "included": [
+   "Unterhaltungsprogramm in der Drachenperlen-Höhle",
+   "Abendessen oder Mittagessen",
+   "Hin- und Rücktransfer zwischen der Höhle und dem internationalen Hafen Halong",
+   "Englischsprachiger Guide (bei Optionen mit Guide)",
+   "01 Flasche Wasser pro Person"
+  ],
+  "notIncluded": [
+   "Getränke, die nicht zur Leistung gehören",
+   "Trinkgelder und weitere Leistungen, die nicht unter den enthaltenen genannt sind",
+   "Massageleistungen (optional)",
+   "Zusätzliche Servicegebühr an Feiertagen (24 $ mehr pro Person)"
+  ]
+ },
+ "ninh-binh-trang-an-mua-cave-and-bai-dinh-pagoda": {
+  "title": "Ninh Binh, Trang An, die Mua-Höhle und die Bai-Dinh-Pagode",
+  "metaTitle": "Ninh Binh: Trang An, Mua und Bai Dinh",
+  "metaDescription": "Die drei großen Stätten von Ninh Binh an einem Tag ab Hanoi, mit Trang An und seinen neun Wasserhöhlen statt der drei von Tam Coc.",
+  "shortDescription": "Ganztägige Tour in Hanoi, mit den Mua-Höhlen, dem Bai-Dinh-Tempel und Ninh Binh. Anbieter: SST Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Die drei großen Stätten von Ninh Binh an einem Tag ab Hanoi, mit der Bootsfahrt, die die meisten Programme falsch machen.\n\nTrang An ist die, auf der man bestehen sollte. Es ist der von der UNESCO ausgezeichnete Komplex, und die zweistündige Ruderroute führt durch neun Wasserhöhlen, gerade durch den Kalkstein geschnitten, manche niedrig genug, dass alle den Kopf einziehen. Es ist stiller und länger als Tam Coc, die häufiger verkaufte Alternative, und die Höhlen sind der Grund: in Tam Coc sind es drei, hier neun. Die Ruderer führen die Ruder mit den Füßen, eine Eigenheit von Ninh Binh, die Sie sonst nirgends sehen.\n\nDie Mua-Höhle ist der Aufstieg. Rund 500 Steinstufen hinauf zu einem Drachen auf dem Grat, und von oben windet sich der Fluss von Trang An unter Ihnen durch den Karst. Das ist die Fotografie, die Ninh Binh auf die Landkarte gebracht hat.\n\nBai Dinh ist der größte buddhistische Komplex Vietnams: ein Korridor mit 500 Arhat-Statuen, ein Bronze-Buddha von 36 Tonnen und ein Maßstab, der erst ankommt, wenn man merkt, dass der Weg zwischen den Hallen in Kilometern gemessen wird. Dass innen Elektrowagen fahren, hat einen Grund.\n\nZwölf Stunden decken die zwei Stunden Fahrt pro Richtung ab Hanoi plus alle drei Stätten ab, ohne eine davon zu hetzen.\n\nDer Hoteltransfer gilt im Radius von einem Kilometer um das Opernhaus von Hanoi, ohne die Hong-Ha-Straße, prüfen Sie also, dass Ihr Hotel darin liegt.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst den Hoteltransfer, den Transport und einen englischsprachigen Guide.\n\nMindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Trang An: neun Wasserhöhlen, gegen die drei von Tam Coc",
+   "Die Ruderer führen die Ruder mit den Füßen",
+   "Die Mua-Höhle: rund 500 Stufen zum Drachen auf dem Grat",
+   "Bai Dinh, Vietnams größter buddhistischer Komplex, 500 Arhat-Statuen",
+   "Der Transfer gilt für Hotels im Radius von 1 km um das Opernhaus von Hanoi"
+  ],
+  "included": [
+   "Hoteltransfer im Radius von 1 km um das Opernhaus von Hanoi, ohne die Hồng-Hà-Straße",
+   "Transport",
+   "Englischsprachiger Guide",
+   "Eintrittsgebühren",
+   "Elektrowagen hin und zurück zum Eingang der Bai-Dinh-Pagode",
+   "Eintrittskarte für die Hang-Mua-Höhle",
+   "Bootskarte für Trang An",
+   "Buffet-Mittagessen in einem einheimischen Restaurant",
+   "Trinkwasser in Flaschen"
+  ],
+  "notIncluded": [
+   "An Feiertagen fällt ein Zuschlag an (siehe wichtige Informationen)"
+  ]
+ },
+ "quintessence-of-tonkin-show-a-cultural-spectacle-in-hanoi": {
+  "title": "Show Quintessenz von Tonkin, ein kulturelles Schauspiel in Hanoi",
+  "metaTitle": "Quintessenz von Tonkin: die Show in Hanoi",
+  "metaDescription": "Eine Freiluftshow auf dem Wasser, eine halbe Stunde vor Hanoi, mit rund 150 Bauern aus den Nachbardörfern und dem Berg der Thay-Pagode als Kulisse.",
+  "shortDescription": "Halbtägige Tour in Hanoi, mit Hanoi. Anbieter: Up Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Eine Freiluftshow, auf dem Wasser aufgeführt, eine halbe Stunde vor Hanoi, mit dem Berghang selbst als Bühnenbild.\n\nDie Bühne ist eine drei Hektar große Wasserfläche vor dem Berg der Thay-Pagode, und die Mitwirkenden sind rund 150 Bauern aus den umliegenden Dörfern und keine Tourneetruppe. Sie proben zwischen den Saisons und gehen danach auf ihre Felder zurück, und deshalb sieht die Bewegung in den Massenszenen nach Menschen aus und nicht nach Choreografie.\n\nSechs Akte durchlaufen vietnamesische Geschichte und Glauben: die buddhistische Dichtung des Nordens, die Gelehrten und die kaiserlichen Prüfungen, die Dorffeste, das Wasserpuppenspiel, das vor tausend Jahren in diesen überschwemmten Reisfeldern begann.\n\nDie technische Seite ist es wert, gekannt zu werden. Bühnenteile steigen aus dem Wasser und sinken zurück, Boote erscheinen hinter den Bäumen, und die Pagode dahinter wird als Teil des Bildes beleuchtet. Nichts davon läuft auf einem Bildschirm.\n\nVier Stunden deckt den Transfer hinaus, die Show und die Rückfahrt ab, Sie sind also am selben Abend zurück in Hanoi.\n\nEs läuft bei jedem Wetter, und die Abende im Norden sind von November bis Februar kühl, nehmen Sie also etwas Warmes für einen Platz im Freien mit.\n\nIhr Platz wird reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Ihr Ticket für die Show Quintessenz von Tonkin und ihre sechs Akte.\n\nMindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Aufgeführt auf drei Hektar Wasser unter dem Berg der Thay-Pagode",
+   "Rund 150 einheimische Bauern führen es auf, keine Tourneetruppe",
+   "Sechs Akte: buddhistische Dichtung, Gelehrte, Feste, Wasserpuppenspiel",
+   "Bühnenteile steigen aus dem Wasser, nichts auf einem Bildschirm",
+   "Plätze im Freien, nehmen Sie von November bis Februar eine Schicht mit"
+  ],
+  "included": [
+   "Ticket für die Show Quintessenz von Tonkin: Zugang zur preisgekrönten kulturellen Aufführung mit sechs betörenden Akten, inspiriert von Geschichte, Spiritualität und Traditionen Vietnams.",
+   "Aufführungen zum Eintauchen: erleben Sie atemberaubende Bilder aus Wasserpuppenspiel, traditioneller Musik, Licht und Natur, alles vor einer friedlichen Kulisse am Wasser nahe der bekannten Thay-Pagode.",
+   "Erkundung nach der Show: nehmen Sie sich nach dem Finale Zeit zum Fotografieren, genießen Sie die stille Umgebung und lassen Sie die Atmosphäre vor der Abfahrt auf sich wirken."
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Hin- und Rücktransport: die Kosten für geteilten oder privaten Transfer sind im Grundpreis des Tickets nicht enthalten und müssen separat organisiert werden.",
+   "Vor der Show: das einheimische Essen geht auf eigene Kosten",
+   "Trinkgelder"
+  ]
+ },
+ "conical-hat-painting-workshop-in-ho-chi-minh-city": {
+  "title": "Workshop zum Bemalen des Kegelhutes in Ho-Chi-Minh-Stadt",
+  "metaTitle": "Workshop: Kegelhut bemalen in Saigon",
+  "metaDescription": "Zweieinhalb Stunden, in denen Sie Ihren eigenen Non La, den vietnamesischen Kegelhut, bemalen, mit einem englischsprachigen Künstler. Material inklusive.",
+  "shortDescription": "Tour in Ho-Chi-Minh-Stadt, mit einem einheimischen englischsprachigen Künstler und Kursleiter und einem Kegelhut pro Person. Anbieter: VIVA VIETNAM, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Zweieinhalb Stunden, in denen Sie Ihren eigenen Non La bemalen, den vietnamesischen Kegelhut, mit einem Künstler, der auf Englisch arbeitet.\n\nDer Hut selbst ist die erste Überraschung. Er besteht aus Palmblatt, mit Faden auf ein Bambusgerüst genäht, und die besten aus Hue sind so fein gemacht, dass man beim Hochhalten gegen das Licht ein Gedicht oder ein Bild zwischen den Lagen sieht, woher der Name Non Bai Tho, der Gedichthut, kommt. Man erzählt Ihnen, wie Ihrer gemacht wurde, bevor Sie einen Pinsel ansetzen.\n\nGemalt wird mit Acryl auf die Blattfläche, die sich anders verhält als Papier: das Blatt hat eine Faserrichtung und eine Wölbung, die Striche ziehen also, und der Kursleiter lässt Sie auf einer kleinen Fläche anfangen, um das Gefühl zu bekommen, bevor Sie sich auf die ganze Fläche einlassen.\n\nZeichenerfahrung wird nicht erwartet. Die meisten arbeiten nach einem traditionellen Motiv, Lotus, Drache, eine Gasse in Hoi An, und der Künstler legt es mit Ihnen an.\n\nEine Schürze wird gestellt, und es gibt Trinkwasser, denn zweieinhalb Stunden über einen Hut gebeugt ist in Saigon warme Arbeit.\n\nDen Hut nehmen Sie mit. Er ist leicht und lässt sich packen, was man von den meisten Dingen, die man in Vietnam kauft, nicht sagen kann.\n\nIhr Platz wird reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst einen englischsprachigen Künstler, einen Kegelhut pro Person, alles Malmaterial, Trinkwasser und eine Schürze.\n\nMindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Palmblatt auf ein Bambusgerüst genäht, auf die traditionelle Art gemacht",
+   "Die feinsten Hüte aus Hue verbergen ein Gedicht zwischen den Lagen",
+   "Acryl auf Blatt zieht anders als auf Papier, man fängt also klein an",
+   "Keine Zeichenerfahrung nötig, die Motive werden mit Ihnen angelegt",
+   "Leicht und packbar, anders als die meisten vietnamesischen Souvenirs"
+  ],
+  "included": [
+   "Einheimischer englischsprachiger Künstler und Kursleiter",
+   "Ein Kegelhut pro Person",
+   "Alles Malmaterial und Zubehör",
+   "Trinkwasser",
+   "Schürze (zur Nutzung während des Workshops)"
+  ],
+  "notIncluded": [
+   "Transport",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "cu-chi-tunnels-morning-or-afternoon-tour-in-ho-chi-minh-city": {
+  "title": "Cu-Chi-Tunnel, vormittags oder nachmittags, ab Ho-Chi-Minh-Stadt",
+  "metaTitle": "Cu-Chi-Tunnel: vormittags oder nachmittags",
+  "metaDescription": "Das Tunnelnetz, das entschied, wie der Krieg im Süden geführt wurde, eineinhalb Stunden nordwestlich von Ho-Chi-Minh-Stadt. Abholung inklusive.",
+  "shortDescription": "Tour in Ho-Chi-Minh-Stadt, mit Củ Chi, Ho-Chi-Minh-Stadt und den Cu-Chi-Tunneln. Anbieter: KIM TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Das Tunnelnetz, das entschied, wie der Krieg im Süden geführt wurde, eineinhalb Stunden nordwestlich von Ho-Chi-Minh-Stadt.\n\nCu Chi sind rund 250 Kilometer von Hand gegrabener Tunnel auf drei Ebenen, im Jahrzehnt ab 1940 gegen die Franzosen begonnen und im amerikanischen Krieg erweitert, bis sie von der kambodschanischen Grenze bis an den Rand von Saigon reichten. Ganze Dörfer lebten unter der Erde: Küchen, die den Rauch über Hunderte Meter durch getarnte Auslässe abführten, Feldlazarette, Schlafquartiere, Brunnen und Werkstätten, die nicht detonierte Munition in neue Waffen verwandelten.\n\nEin Abschnitt ist für Besucher geöffnet und ein Teil davon wurde verbreitert, denn die Originalmaße liegen bei etwa 80 cm Höhe und 60 cm Breite, und fast niemand von außerhalb Vietnams passt hinein. Sie können hineingehen, und wie weit Sie gehen, ist ganz Ihre Sache: es gibt etwa alle zwanzig Meter Ausstiege für Menschen, die unten entscheiden, dass es genug ist.\n\nDie Falltüren sind das Detail, das hängen bleibt. Eine Klappe von der Größe eines Buchtabletts, mit Laub bedeckt, verschwindet vollständig, sobald sie geschlossen ist, und die Guides führen es vor, während jemand einen Meter daneben steht.\n\nNachmittags hinzufahren heißt meist weniger Reisebusse als im Vormittagsslot, wenn Sie die Wahl haben.\n\nDie Abholung gilt für Hotels in den Distrikten 1, 3 und 4, mit Rückfahrt in den Distrikt 1, im klimatisierten Bus oder im Minivan bei der Kleingruppenoption.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist.\n\nSechseinhalb Stunden. Ziehen Sie Kleidung an, in der Sie kriechen können. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Rund 250 km von Hand gegrabener Tunnel auf drei Ebenen",
+   "Gehen Sie in einen verbreiterten Abschnitt und halten Sie an, wann Sie wollen",
+   "Ausstiege etwa alle zwanzig Meter, wenn Sie es sich anders überlegen",
+   "Eine Falltürvorführung, die aus einem Meter Entfernung verschwindet",
+   "Der Nachmittagsslot hat meist weniger Reisebusse als der Vormittag"
+  ],
+  "included": [
+   "Abholung an den gelisteten Hotels in den Distrikten 1, 3 und 4",
+   "Rückfahrt in den Distrikt 1",
+   "Bus (oder Minivan in der Kleingruppe) mit Klimaanlage",
+   "Englischsprachiger Guide",
+   "Maniok, heißer vietnamesischer Tee",
+   "Cracker und Feuchttücher",
+   "Wasserflaschen",
+   "Eintrittsgebühren",
+   "Reiseversicherung"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Zusätzliche Getränke",
+   "Trinkgelder",
+   "Gebühr für das Schießen mit einem M16-Gewehr auf dem Schießplatz"
+  ]
+ },
+ "perfume-workshop-with-scent-of-saigon": {
+  "title": "Parfum-Workshop mit Scent of Saigon",
+  "metaTitle": "Parfum-Workshop mit Scent of Saigon",
+  "metaDescription": "Neunzig Minuten Parfum mischen in Saigon, Duftfamilien und Kopf-, Herz- und Basisnoten, und Sie gehen mit einem Flakon Ihres eigenen Duftes.",
+  "shortDescription": "Tour in Ho-Chi-Minh-Stadt, mit einer Einführung in Duftfamilien und den Aufbau von Duftschichten sowie allen Materialien und Zutaten. Anbieter: VIVA VIETNAM, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Neunzig Minuten, in denen Sie in Saigon ein Parfum mischen, und Sie gehen mit einem Flakon davon.\n\nDie Sitzung beginnt mit den Duftfamilien, dem Vokabular, das den Rest verständlich macht: blumig, zitrisch, holzig, orientalisch, Fougère. Sobald Sie einen Duft einer Familie zuordnen können, können Sie vorhersagen, neben welchen Düften er gut steht, und das ist der größte Teil dessen, was ein Parfumeur tut.\n\nDann die Schichtung. Ein Parfum wird in drei Etagen gebaut. Kopfnoten sind die Zitrusfrüchte und Kräuter, die zuerst kommen und in Minuten weg sind. Herznoten, die Blüten und Gewürze, halten die mittleren Stunden. Basisnoten sind die Hölzer, Harze und Vanillen, die abends noch auf Ihrer Haut sind, und sie sind der Grund, warum ein Duft hält und ein anderer bis zum Mittag verschwunden ist.\n\nSie testen auf Riechstreifen, bevor Sie sich festlegen, denn die Nase registriert einen Geruch nach ein paar Minuten nicht mehr, und die Reihenfolge, in der Sie prüfen, verändert Ihre Wahl.\n\nVietnam liefert einen guten Teil dessen, was hier hineingeht: Zimt aus Quang Nam, Sternanis aus dem Norden und Adlerholz, das Harz hinter Oud und eines der teuersten Materialien der Parfumerie.\n\nSie nehmen einen Flakon Ihrer eigenen Formel mit nach Hause, aufgeschrieben, damit sie wieder gemacht werden kann.\n\nInnen und kurz, es funktioniert also als Nachmittag in der Hitze oder wenn der Regen einsetzt.\n\nIhr Platz wird reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst die Einführung in Duftfamilien und Schichtung, alle Materialien und Zutaten und einen Flakon Ihres Parfums zum Mitnehmen.\n\nMindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Zuerst die Duftfamilien, damit das Mischen Sinn ergibt",
+   "Drei Etagen: Kopfnoten gehen in Minuten, Basisnoten halten den Tag",
+   "Riechstreifen, bevor Sie sich festlegen, denn die Nase ermüdet schnell",
+   "Vietnamesischer Zimt, Sternanis und Adlerholz unter den Ölen",
+   "Ein Flakon zum Mitnehmen, mit aufgeschriebener Formel"
+  ],
+  "included": [
+   "Einführung in Duftfamilien und den Aufbau von Duftschichten",
+   "Alle Materialien und Zutaten",
+   "1 Flakon Ihres eigenen Parfums zum Mitnehmen"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Transport"
+  ]
+ },
+ "stained-glass-art-workshop-in-saigon": {
+  "title": "Glasmalerei-Workshop in Saigon",
+  "metaTitle": "Glasmalerei-Workshop in Saigon",
+  "metaDescription": "Dreieinhalb Stunden, in denen Sie in Saigon ein Bleiglasstück bauen, nach der Kupferfolienmethode, und es fertig mitnehmen. Innen und klimatisiert.",
+  "shortDescription": "Tour in Ho-Chi-Minh-Stadt, mit einem einheimischen englischsprachigen Kursleiter und allen Werkzeugen und Materialien. Anbieter: VIVA VIETNAM, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Dreieinhalb Stunden, in denen Sie in Saigon ein Glasbild bauen, und Sie nehmen es fertig mit.\n\nDie Methode ist Kupferfolie, die Tiffany-Technik, und nicht die Bleirute, die in Kathedralenfenstern steckt. Jedes Glasstück wird angeritzt, entlang des Ritzes gebrochen, auf einem nassen Rad glatt geschliffen, in selbstklebendes Kupferband gewickelt und dann an seine Nachbarn gelötet. Diese Abfolge ist der Grund, warum eine kleine Scheibe dreieinhalb Stunden braucht: das Schneiden geht schnell, das Schleifen und Folieren nicht.\n\nGlas zu schneiden ist der Teil, den man sich beängstigend vorstellt und der es nicht ist. Sie schneiden nicht hindurch, Sie ritzen eine Linie und nutzen dann den Bruch, um ihn entlang dieser Linie laufen zu lassen, was dem Brechen einer Tafel Schokolade näher ist als dem Sägen.\n\nBeim Löten wird daraus ein Ding statt Teile. Geschmolzenes Lot, entlang einer Foliennaht gezogen, legt sich zu einer erhabenen Linie, und wie glatt diese Linie läuft, unterscheidet ein erstes Stück von einem zehnten.\n\nErfahrung wird nicht vorausgesetzt, alle Werkzeuge und Materialien werden gestellt, und der Kursleiter arbeitet durchgehend auf Englisch.\n\nEs ist innen und klimatisiert, was in Saigon für dreieinhalb Stunden mitten am Tag zählt, und es läuft trotz der Regenzeitnachmittage zwischen Mai und November.\n\nIhr Platz wird reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst den englischsprachigen Kursleiter, alle Werkzeuge und Materialien und Ihr fertiges Stück zum Mitnehmen.\n\nMindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Kupferfolienmethode, die Tiffany nutzte, nicht das Blei der Kathedralen",
+   "Ritzen und brechen statt sägen: leichter, als es klingt",
+   "Schleifen und Folieren brauchen die Zeit, nicht das Schneiden",
+   "Entlang der Naht gelegtes Lot macht aus Teilen eine Scheibe",
+   "Innen und klimatisiert, verlässlich durch die Regenzeit"
+  ],
+  "included": [
+   "Einheimischer englischsprachiger Kursleiter",
+   "Alle Werkzeuge und Materialien",
+   "Ihr fertiges Glasbild zum Mitnehmen"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Transport"
+  ]
+ },
+ "vietnamese-flower-arrangement-workshop-in-ho-chi-minh-city": {
+  "title": "Workshop vietnamesisches Blumenstecken in Ho-Chi-Minh-Stadt",
+  "metaTitle": "Vietnamesisches Blumenstecken in Saigon",
+  "metaDescription": "Neunzig Minuten vietnamesisches Blumenstecken mit einer arbeitenden Floristin: Asymmetrie, ungerade Stielzahlen und bewusste Leere. Das Gesteck ist Ihres.",
+  "shortDescription": "Tour in Ho-Chi-Minh-Stadt, mit allen Blumen und Steckwerkzeugen und der Anleitung durch eine einheimische Blumenkünstlerin. Anbieter: VIVA VIETNAM, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Neunzig Minuten, in denen Sie vietnamesisches Blumenstecken bei einer arbeitenden Floristin lernen, und das Gesteck ist Ihres.\n\nDas vietnamesische Stecken entlehnt der chinesischen und japanischen Tradition und geht dann seinen eigenen Weg: Asymmetrie, ungerade Stielzahlen und viel Leerraum, wo ein europäischer Strauß jede Lücke füllt. Der Grundsatz ist, dass der Raum zwischen den Stielen Teil der Komposition ist und nicht etwas, das man verdeckt.\n\nWomit Sie arbeiten, hängt von der Jahreszeit und vom Blumenmarkt an diesem Morgen ab. Saigon läuft auf Lotus, der hier als Nationalblume und buddhistisches Zeichen echtes Gewicht hat, dazu Chrysantheme, Orchidee und was der Markt hatte. Die Floristin erklärt, was jede bedeutet, bevor Sie anfangen, denn in Vietnam ändert die Bedeutung, welche Blumen zusammengehören und welche nicht.\n\nSie stecken selbst, mit Anleitung, statt einer Vorführung zuzusehen, und während der Arbeit wird vietnamesischer Tee oder Saft serviert.\n\nDas Gesteck geht am Ende mit Ihnen.\n\nInnen und neunzig Minuten, das lässt sich leicht in einen Nachmittag einfügen und ist verlässlich, wenn zwischen Mai und November der Regen fällt.\n\nIhr Platz wird reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst alle Blumen und Werkzeuge, die Anleitung durch eine einheimische Blumenkünstlerin, Erfrischungen und Ihr fertiges Gesteck.\n\nMindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Asymmetrie, ungerade Stielzahlen und bewusst leerer Raum",
+   "Die Blumen hängen davon ab, was der Markt an diesem Morgen hatte",
+   "Der Lotus, die Nationalblume, trägt echtes symbolisches Gewicht",
+   "Sie stecken selbst, statt einer Vorführung zuzusehen",
+   "Innen und kurz, es übersteht also die Nachmittage der Regenzeit"
+  ],
+  "included": [
+   "Alle Blumen und Steckwerkzeuge",
+   "Anleitung durch eine einheimische Blumenkünstlerin",
+   "Erfrischungen (vietnamesischer Tee oder Saft)",
+   "Ihre eigene Blumenkreation zum Mitnehmen",
+   "Fotos während des Erlebnisses auf Wunsch"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Transport"
+  ]
+ },
+ "countryside-bike-tour-farming-cooking-in-tra-que-in-hoi-an": {
+  "title": "Land per Rad, Feldarbeit und Kochen in Tra Que bei Hoi An",
+  "metaTitle": "Hoi An: Rad, Kräutergarten und Kochen in Tra Que",
+  "metaDescription": "Mit dem Rad nach Tra Que, dem Kräuterdorf, das die Küchen von Hoi An versorgt, mit echter Feldarbeit und einem Kochkurs mit dem, was Sie gepflückt haben.",
+  "shortDescription": "Tour in Hoi An, mit Abholung und Rückfahrt am Hotel nur im Bereich von Hoi An (per Fahrrad) und dem Korbboot (nur Option 2). Anbieter: Hiep Hoi An Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Mit dem Fahrrad hinaus nach Tra Que, dem Kräuterdorf, das die Küchen von Hoi An versorgt, mit Feldarbeit und einem Kochkurs dazu.\n\nTra Que liegt drei Kilometer von der Altstadt von Hoi An und baut seit rund 300 Jahren auf demselben Boden Kräuter an. Was es auszeichnet, ist der Dünger: die Bauern nehmen Algen, die aus der benachbarten Lagune gebaggert werden, statt Mist, und deshalb haben Basilikum, Minze und Koriander von hier bei vietnamesischen Köchen einen Ruf, den gewöhnliche Marktkräuter nicht haben.\n\nSie arbeiten auf dem Feld, bevor Sie kochen. Das heißt echte Arbeit: den Boden mit einer zweizinkigen Hacke wenden, Beete rechen und mit zwei Kannen an einer Schulterstange gießen, was schwerer ist, als die Bauern es aussehen lassen, und der Teil, an den sich alle erinnern.\n\nDas Kochen folgt, mit dem, was Sie gerade gepflückt haben.\n\nDer Weg hinaus ist am Fluss durchgehend flach, es braucht also keine Fitness, und die Räder werden an Ihrem Hotel im Bereich von Hoi An geholt und zurückgebracht.\n\nOption 2 fügt ein Korbboot hinzu: das runde geflochtene Boot, das vietnamesische Fischer zwischen den Kokospalmen nutzen, das sich dreht statt zu lenken und ein Ereignis für sich ist.\n\nEintrittskarten und ein englischsprachiger Guide sind enthalten.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Abholung und Rückfahrt am Hotel per Fahrrad im Bereich von Hoi An, die Eintrittskarten, den Guide und bei Option 2 das Korbboot.\n\nRund viereinhalb Stunden. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Tra Que: 300 Jahre Kräuter, mit Lagunenalgen gedüngt, nicht mit Mist",
+   "Echte Feldarbeit: zweizinkige Hacke, Beete, Gießen an der Schulterstange",
+   "Kochen mit dem, was Sie gepflückt haben",
+   "Flache Fahrt am Fluss, keine Fitness nötig",
+   "Option 2 fügt ein sich drehendes Korbboot zwischen den Kokospalmen hinzu"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel nur im Bereich von Hoi An (per Fahrrad).",
+   "Korbboot (nur Option 2)",
+   "Eintrittskarten.",
+   "Englischsprachiger Guide oder einheimischer Koch.",
+   "Feldarbeit mit einem Bauern.",
+   "Traditionelle Fußmassage.",
+   "Willkommensgetränk (nước é).",
+   "Mittag- oder Abendessen"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "weitere persönliche Ausgaben"
+  ]
+ },
+ "cat-cat-village-moana-fansipan-and-alpine-coaster-in-sapa": {
+  "title": "Dorf Cat Cat, Moana, Fansipan und Sommerrodelbahn in Sapa",
+  "metaTitle": "Sapa: Cat Cat, Moana, Fansipan und Rodelbahn",
+  "metaDescription": "Die vier bekanntesten Halte von Sapa an einem Tag, darunter der Gipfel des Fansipan auf 3.143 Metern per Seilbahn, mit Abholung und englischsprachigem Guide.",
+  "shortDescription": "Tour in Sapa, mit dem Dorf Cat Cat, Moana Sapa und Sa Pa. Anbieter: SST Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Die vier bekanntesten Halte von Sapa an einem einzigen Tag, darunter der Gipfel des höchsten Berges Indochinas.\n\nDer Fansipan ist 3.143 Meter hoch, und die Seilbahn schafft ihn in etwa fünfzehn Minuten, wofür früher eine zweitägige Wanderung nötig war. Die Kabine überquert auf dem Weg nach oben das Muong-Hoa-Tal, und die Terrassen öffnen sich unter Ihnen; oben steht eine Tempelanlage und eine letzte Treppe zum Gipfelstein. Wolken sitzen oft genug auf dem Gipfel, dass die Aussicht wirklich Glück ist, und Einheimische sagen Ihnen, dass der Morgen die besseren Chancen hat.\n\nCat Cat ist das Hmong-Dorf unterhalb der Stadt Sapa, in das man hinabläuft statt hinzufahren, mit einem Wasserfall unten und Werkstätten, in denen Indigofärben und Hanfweben noch betrieben werden.\n\nMoana Sapa ist das Gebaute: ein Hang aus Aussichtsplattformen und Installationen, für Fotografien gemacht, mit dem Tal als Hintergrund. Es ist ohne Umschweife ein Fotohalt und darin sehr gut.\n\nDie Sommerrodelbahn ist ein Schwerkraftschlitten auf Schienen durch den Wald, mit Ihrer eigenen Bremse.\n\nAlle vier Tickets sind enthalten, und das zählt hier: die Fansipan-Seilbahn, Cat Cat, Moana und die Rodelbahn kassieren jeweils getrennt, und die Eintritte sind ein erheblicher Teil eines Tages in Sapa.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Abholung und Rückfahrt am Hotel in der Stadt Sapa, einen englischsprachigen Guide, den Transport und die Tickets für das Dorf Cat Cat, Moana Sapa, den Fansipan und die Rodelbahn.\n\nAcht Stunden. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Der Fansipan, 3.143 m, per Seilbahn in etwa fünfzehn Minuten",
+   "Das Hmong-Dorf Cat Cat, Indigofärben und ein Wasserfall",
+   "Die Aussichtsplattformen von Moana Sapa über dem Tal",
+   "Sommerrodelbahn durch den Wald, mit eigener Bremse",
+   "Alle vier Eintrittstickets enthalten, nicht Kasse für Kasse bezahlt"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel in der Stadt Sapa",
+   "Englischsprachiger Guide",
+   "Transport der Tour",
+   "Ticket für das Dorf Cat Cat",
+   "Ticket für Moana Sapa",
+   "Privater Guide und Fahrzeug (nur bei der privaten Option)",
+   "Wasserflaschen"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Fansipan-Tickets",
+   "Ticket für die Sommerrodelbahn",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "cooking-workshop-with-h-mong-guide-in-ta-van-village-in-sapa": {
+  "title": "Kochworkshop mit Hmong-Guide im Dorf Ta Van bei Sapa",
+  "metaTitle": "Kochen mit Hmong-Guide in Ta Van, Sapa",
+  "metaDescription": "Zweieinhalb Stunden Kochen in einem Hmong-Haus in Ta Van, im Tal unterhalb von Sapa, und Sie essen am Tisch der Familie.",
+  "shortDescription": "Tour über 2,5 Stunden in Sapa, mit traditionellen vietnamesischen Frühlingsrollen und Tofu in Tomatensauce, diesem einfachen, säuerlichen vietnamesischen Gericht. Anbieter: Saigonese Trekking House, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Zweieinhalb Stunden Kochen in einem Hmong-Haus in Ta Van, im Tal unterhalb von Sapa.\n\nDas findet im Dorf statt und nicht in der Küche eines Restaurants in Sapa, mit einem Hmong-Guide, und darin liegt der Unterschied. Sie kochen auf der Anlage des Hauses und essen, was Sie machen, am Tisch der Familie.\n\nFrühlingsrollen sind der Anker der Sitzung. Vietnamesische Rollen werden um das gebaut, was da ist: Glasnudeln, Blattgrün, Schweinehack, Pilz, Mu-Err. Das Rollen ist der Teil, den zuerst alle falsch machen, denn das Reispapier weicht schnell auf und alles hängt daran, wie fest Sie rollen und wie schnell Sie arbeiten.\n\nTa Van liegt im Muong-Hoa-Tal zwischen den Reisterrassen, ein Dorf der Giay und Hmong am Fluss. Von der Stadt Sapa dort hinunterzukommen gehört dazu, und das Tal sieht ganz anders aus als vom Grat.\n\nDie Hmong-Küche des Nordens stützt sich auf Dinge, die einen kalten Bergwinter überstehen: geräuchertes und getrocknetes Fleisch, fermentiertes Grün und den einheimischen schwarzen Kardamom, der hier unter dem Walddach wächst und eine der tatsächlichen Exportkulturen von Sapa ist.\n\nDas ist die Buchung für einen Tag, an dem Wolken das Tal füllen, was in Sapa oft vorkommt. Nichts daran hängt von der Aussicht ab.\n\nIhr Platz wird reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst den Workshop mit einem Hmong-Guide, alle Zutaten und das Essen, das Sie kochen.\n\nMindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Gekocht in einem Hmong-Haus im Dorf, nicht in einer Stadtküche",
+   "Frühlingsrollen, bei denen das Reispapier langsame Hände bestraft",
+   "Ta Van im Muong-Hoa-Tal, zwischen den Reisterrassen",
+   "Bergküche des Nordens: geräuchertes Fleisch, fermentiertes Grün",
+   "Schwarzer Kardamom, unter dem Walddach rund um Sapa angebaut"
+  ],
+  "included": [
+   "1. Frühlingsrolle: traditionelle vietnamesische Frühlingsrollen lassen sich mit sehr verschiedenen Füllungen machen, Glasnudeln, Blattgrün, Zwiebel, Schweinefleisch, Karotte, Sojasprossen",
+   "2. Tofu in Tomatensauce: dieser einfache, säuerliche vietnamesische Tofu in Tomatensauce ist ein wohltuendes veganes Gericht und sehr leicht zu machen"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben"
+  ]
+ },
+ "hmong-beeswax-painting-and-indigo-dyeing-workshop-in-sapa": {
+  "title": "Hmong-Workshop: Malen mit Bienenwachs und Indigofärben in Sapa",
+  "metaTitle": "Sapa: Workshop Bienenwachs und Indigo der Hmong",
+  "metaDescription": "Zwei Stunden Hmong-Batik in Sapa: mit Wachs zeichnen, in Indigo färben, den Stoff mitnehmen. Keine Erfahrung nötig, und es läuft bei jedem Wetter.",
+  "shortDescription": "Zweistündige Tour in Sapa, mit einem Workshop zum Selbermachen und der Anleitung durch einen Kursleiter. Anbieter: Ethnic Community Cultural Tours, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Zwei Stunden Hmong-Batik in Sapa: mit Wachs zeichnen, in Indigo färben, den Stoff mitnehmen.\n\nDie Technik ist Wachsreserve. Geschmolzenes Bienenwachs wird mit einem Chan auf Hanfstoff gezeichnet, einem kleinen Stift mit Kupferspitze, der das Wachs heiß genug hält, damit es fließt, und der Stoff geht dann in einen Indigobottich. Der Farbstoff greift überall dort, wo kein Wachs ist, wenn das Wachs also herausgekocht wird, erscheint Ihre Zeichnung weiß auf Blau.\n\nDer Indigo ist der Teil, der überrascht. Der Bottich ist eine lebende Gärung, über Wochen gefüttert und warm gehalten statt am Tag angemischt, und der Stoff kommt grün heraus und wird vor Ihren Augen blau, sobald er an die Luft kommt.\n\nHmong-Muster sind keine Dekoration. Spiralen, Schneckenhäuser, Elefantenfüße und Widderhörner tragen jeweils Bedeutung, und die Frauen lernen sie von ihren Müttern und nicht aus einem Buch. Der Kursleiter sagt Ihnen, was Sie zeichnen, bevor Sie es zeichnen.\n\nErfahrung wird nicht erwartet. Zwei Stunden genügen für ein kleines Stück, richtig gemacht.\n\nSie nehmen das Textil mit, das Sie gemacht haben.\n\nEs läuft bei jedem Wetter, was in Sapa mehr wert ist, als es klingt. Wolken füllen das Tal einen großen Teil des Jahres und schließen die Aussichten wie das Gleitschirmfliegen; nichts hier hängt davon ab, die Berge zu sehen.\n\nIhr Platz wird reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst den Workshop zum Selbermachen, die Anleitung des Kursleiters, das Material zum Malen mit Bienenwachs, das Färben mit natürlichem Indigo und Ihr handgemachtes Textil.\n\nZwei Stunden. Ziehen Sie etwas an, bei dem Flecken nicht stören. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Wachsreserve, mit dem traditionellen Chan mit Kupferspitze gezeichnet",
+   "Ein lebender Indigobottich: der Stoff kommt grün heraus und wird an der Luft blau",
+   "Die Muster tragen Bedeutung, von Mutter zu Tochter gelernt",
+   "Keine Erfahrung nötig, und das Textil ist Ihres",
+   "Läuft, wenn Wolken Sapas Aussichten und Flüge schließen"
+  ],
+  "included": [
+   "Workshop zum Selbermachen",
+   "Anleitung durch den Kursleiter",
+   "Material zum Malen mit Bienenwachs",
+   "Färben mit natürlichem Indigo",
+   "Handgemachtes Textil zum Mitnehmen"
+  ],
+  "notIncluded": [
+   "Transport zum und vom Workshop",
+   "Mahlzeiten und Getränke"
+  ]
+ },
+ "rainbow-slide-alpine-coaster-and-paragliding-tour-in-sapa": {
+  "title": "Regenbogenrutsche, Sommerrodelbahn und Gleitschirmfliegen in Sapa",
+  "metaTitle": "Sapa: Rutsche, Rodelbahn und Gleitschirm",
+  "metaDescription": "Drei Fahrten über dem Muong-Hoa-Tal an einem Nachmittag, alle mit Blick über die Reisterrassen, mit privatem Transport und Abholung am Hotel.",
+  "shortDescription": "Halbtägige Tour in Sapa, mit dem Dorf Cat Cat und der Sommerrodelbahn von Sapa. Anbieter: Ethnic Community Tours, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Drei Fahrten über dem Muong-Hoa-Tal an einem Nachmittag, alle mit Blick über die Reisterrassen.\n\nDas Gleitschirmfliegen von Sapa ist das, woran man sich erinnert. Sie starten von einem Grat über dem Tal und fliegen im Tandem über terrassierte Felder, die die Hänge in Stufen hinaufklettern, mit dem Fansipan, dem höchsten Berg Indochinas, am Horizont. Die Terrassen verändern sich im Jahresverlauf völlig: um Mai und Juni überschwemmt und den Himmel spiegelnd, den Sommer über tiefgrün, kurz vor der Ernte im September golden.\n\nDie Sommerrodelbahn ist ein Schwerkraftschlitten auf Schienen durch den Hangwald, und Sie bedienen Ihre eigene Bremse, es ist also so schnell oder so sanft, wie Sie wollen. Die Regenbogenrutsche ist die kurze, alberne, und sie ist der Grund, warum das mit Jugendlichen funktioniert, die sonst in keinen Gleitschirmflug steigen würden.\n\nDas Dorf Cat Cat liegt im Tal darunter, eine Hmong-Siedlung einen kurzen Weg unterhalb der Stadt Sapa, mit einem Wasserfall unten.\n\nPrivater Transport und Abholung am Hotel bedeuten, dass die drei Aktivitäten unmittelbar aufeinanderfolgen statt mit Wartezeiten dazwischen, und das ist es, was sie in vier Stunden unterbringt.\n\nDas Gleitschirmfliegen hängt von der Luft ab. Wind und tiefe Wolken halten Flüge am Boden, und Sapa liegt hoch genug, dass das Wetter schnell dreht, der Flug wird also verlegt statt bei schlechten Bedingungen zu starten.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Abholung und Rückfahrt am Hotel, den privaten Transport, die Regenbogenrutsche, die Fahrt auf der Sommerrodelbahn und die Gleitschirmaktivität.\n\nVier Stunden. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Tandemflug über das terrassierte Muong-Hoa-Tal",
+   "Der Fansipan, der höchste Berg Indochinas, am Horizont",
+   "Sommerrodelbahn mit eigener Bremse: schnell oder sanft",
+   "Die Terrassen spiegeln im Juni den Himmel und werden vor der Ernte golden",
+   "Privater Transport, die drei folgen also unmittelbar aufeinander"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel",
+   "Privater Transport",
+   "Regenbogenrutsche",
+   "Fahrt auf der Sommerrodelbahn",
+   "Gleitschirmaktivität"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben"
+  ]
+ },
+ "ta-van-cooking-class-with-local-guide-in-sapa": {
+  "title": "Ta Van: Kochkurs mit einem einheimischen Gastgeber in Sapa",
+  "metaTitle": "Ta Van: Kochkurs mit einheimischem Gastgeber",
+  "metaDescription": "Zwei Stunden, in denen Sie zwei vietnamesische Gerichte in Ta Van kochen, im Tal unterhalb von Sapa, bei einem einheimischen Gastgeber statt in einer Stadtküche.",
+  "shortDescription": "Zweistündige Tour in Sapa, mit dem Kochkurs und der Anleitung durch einen einheimischen Gastgeber. Anbieter: Ethnic Community Cultural Tours, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Zwei Stunden, in denen Sie zwei vietnamesische Gerichte in Ta Van kochen, im Tal unterhalb von Sapa.\n\nTa Van liegt im Muong-Hoa-Tal zwischen den Reisterrassen, ein Dorf der Giay und Hmong am Fluss, und der Kurs findet dort bei einem einheimischen Gastgeber statt und nicht in einer Küche in der Stadt Sapa. Ins Tal hinunterzukommen gehört dazu: die Terrassen sehen von unten völlig anders aus als vom Grat.\n\nZwei Gerichte richtig gemacht sind besser als sechs schlecht gemachte, und so ist dieser Kurs geschnitten. Sie kochen auf der Anlage des Hauses und essen, was Sie machen.\n\nDie Bergküche des Nordens ist eine Sache für sich und nicht, was man in Hanoi oder Saigon bekommt. Sie stützt sich auf das, was einen kalten Winter in der Höhe übersteht: geräuchertes und getrocknetes Fleisch, über der Feuerstelle aufgehängt, fermentiertes Grün und schwarzer Kardamom, der rund um Sapa unter dem Walddach wächst und eine der tatsächlichen Exportkulturen der Gegend ist und kein Souvenir.\n\nDie Terrassen draußen verändern sich im Jahresverlauf: um Mai und Juni überschwemmt und den Himmel spiegelnd, im Sommer tiefgrün, vor der Ernte im September golden.\n\nDas ist die Buchung für einen Tag, an dem Wolken im Tal sitzen, was in Sapa oft vorkommt. Der Kurs hängt von keiner Aussicht ab.\n\nIhr Platz wird reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst den Kochkurs, die Anleitung durch einen einheimischen Gastgeber und die Zubereitung von zwei vietnamesischen Gerichten.\n\nZwei Stunden. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Gekocht in einem Haus in Ta Van, nicht in einer Küche in der Stadt Sapa",
+   "Zwei Gerichte richtig gemacht statt sechs gehetzter",
+   "Bergküche des Nordens: geräuchertes Fleisch, fermentiertes Grün",
+   "Schwarzer Kardamom, unter dem Walddach angebaut und von hier exportiert",
+   "Läuft an den wolkigen Tagen, wenn sich Sapas Aussichten schließen"
+  ],
+  "included": [
+   "Kochkurs",
+   "Anleitung durch einen einheimischen Gastgeber",
+   "Zubereitung von zwei vietnamesischen Gerichten"
+  ],
+  "notIncluded": [
+   "Transport zum Dorf Ta Van",
+   "Zusätzliche Speisen und Getränke"
+  ]
+ },
+ "traditional-batik-wax-drawing-workshop-in-ta-van-village-in-sapa": {
+  "title": "Traditioneller Batik-Workshop mit Wachszeichnung im Dorf Ta Van bei Sapa",
+  "metaTitle": "Ta Van: Batik-Workshop mit Wachszeichnung",
+  "metaDescription": "Zwei Stunden Hmong-Batik im Dorf Ta Van, mit dem Chan-Werkzeug und dem lebenden Indigobottich. Sie nehmen mit, was Sie machen.",
+  "shortDescription": "Zweistündige Tour in Sapa, mit dem Batikmaterial samt Zugang zu allen nötigen Naturmaterialien und 2 Stück Stoff zum Üben, die Sie mitnehmen. Anbieter: Ethnic Community Tours, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Zwei Stunden, in denen Sie im Dorf Ta Van Hmong-Batik lernen, mit dem Werkzeug und dem Farbstoff, die die Technik immer verwendet hat.\n\nBatik heißt hier Zeichnen mit Wachsreserve. Sie tragen geschmolzenes Bienenwachs mit einem Chan auf Hanfstoff auf, einem kleinen Stift mit Kupferspitze, der das Wachs auf Temperatur hält, dann geht der Stoff in einen Indigobottich. Der Farbstoff greift überall dort, wo kein Wachs ist, und wenn das Wachs herausgekocht wird, erscheint die Zeichnung weiß auf Blau. Hmong-Frauen lernen die Muster von ihren Müttern, und jedes Motiv trägt Bedeutung: Spiralen, Schneckenhäuser, Elefantenfüße, alle mit einer Geschichte.\n\nDer Indigo ist der Teil, der überrascht. Der Bottich ist eine lebende Gärung, über Wochen gefüttert und am Leben gehalten, und der Stoff kommt grün heraus und wird an der Luft blau, während er vor Ihren Augen oxidiert.\n\nTa Van liegt im Muong-Hoa-Tal unterhalb von Sapa, ein Dorf der Giay und Hmong am Fluss, und der Workshop läuft im Dorf und nicht in einem Studio in der Stadt.\n\nSie nehmen mit, was Sie machen. Zwei Stunden reichen für ein kleines Stück, richtig gemacht, und nicht für ein großes, schlecht gemachtes.\n\nAlle Materialien sind enthalten: das Bienenwachs, das Chan-Werkzeug und der Zugang zum Indigobottich.\n\nEs läuft bei jedem Wetter, was in Sapa mehr zählt als an den meisten Orten. Wolken und Regen schließen die Talaussichten und streichen einen großen Teil des Jahres das Gleitschirmfliegen; das hier bewegt sich nicht.\n\nIhr Platz wird beim Anbieter reserviert, bevor Ihre Buchung endgültig ist.\n\nZwei Stunden. Ziehen Sie etwas an, bei dem Indigoflecken nicht stören. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Hmong-Batik mit Wachsreserve, mit dem traditionellen Chan-Werkzeug",
+   "Ein lebender Indigobottich: der Stoff kommt grün heraus und wird blau",
+   "Die Muster tragen Bedeutung, von Mutter zu Tochter gelernt",
+   "Im Dorf Ta Van abgehalten, nicht in einem Studio in der Stadt",
+   "Läuft bei jedem Wetter, wenn Sapas Aussichten und Flüge es nicht tun"
+  ],
+  "included": [
+   "Batikmaterial: Zugang zu allen nötigen Naturmaterialien, darunter Bienenwachs, der besondere Chan (Werkzeug zum Wachszeichnen) und der Bottich mit Indigofarbe.",
+   "Stoff: 2 Stück Stoff zum Üben, die Sie als Souvenir mit nach Hause nehmen.",
+   "Anleitung durch eine Handwerkerin: praktische Unterweisung und kulturelle Einblicke von einer einheimischen Hmong-Handwerkerin während des ganzen Zeichnens und Färbens.",
+   "Kultureller Einblick: die Geschichte und Bedeutung der Batiktradition in der Kultur der Schwarzen Hmong kennenlernen."
+  ],
+  "notIncluded": [
+   "Transport: die Reisekosten zum Ort des Workshops im Dorf Ta Van und zurück (er liegt außerhalb des Zentrums von Sapa)."
+  ]
+ },
+ "vietnamese-spring-rolls-cooking-class-in-sapa": {
+  "title": "Kochkurs vietnamesische Frühlingsrollen in Sapa",
+  "metaTitle": "Sapa: Kochkurs vietnamesische Frühlingsrollen",
+  "metaDescription": "Zwei Stunden Frühlingsrollen in Sapa, schwerer richtig zu machen, als sie aussehen. Frisch oder frittiert, und alles entscheidet sich am Reispapier.",
+  "shortDescription": "Zweistündige Tour in Sapa, mit der einheimischen Frühlingsrolle und traditionellen vietnamesischen Frühlingsrollen, die sich mit vielen verschiedenen Füllungen machen lassen. Anbieter: Saigonese Trekking House, direkt gebucht statt über einen Wiederverkäufer.",
+  "fullDescription": "Zwei Stunden Frühlingsrollen in Sapa, die schwerer richtig zu machen sind, als sie aussehen.\n\nVietnamesische Rollen teilen sich in zwei Dinge, die verwechselt werden. Frische Rollen, Goi Cuon, werden in aufgeweichtem Reispapier gerollt und nicht gekocht. Frittierte Rollen, im Norden Nem Ran, werden in einer dünneren Hülle fester gerollt und gehen in heißes Öl. Der Kurs dreht sich um das Rollen, denn die Füllungen sind nachsichtig und die Hülle ist es nicht.\n\nDas Reispapier ist es, was alle erwischt. Es weicht in Sekunden auf und weicht auf dem Brett weiter auf, Sie haben also ein enges Fenster: zu trocken bricht es, zu feucht reißt es, wenn Sie es zuziehen. Die Lösung ist, schneller zu arbeiten, als es sich angenehm anfühlt, und die Füllungen trockener zu halten, als Sie denken.\n\nDie Füllungen folgen hier dem, was der Norden hat: Glasnudeln, Blattgrün, Schweinehack, Mu-Err und andere Pilze, Kräuter aus dem Garten.\n\nSie essen, was Sie rollen.\n\nDer Kurs findet in Sapa in Innenräumen statt. Wolken füllen dieses Tal einen großen Teil des Jahres und schließen die Aussichten wie die Flüge; dieser Kurs läuft dennoch, was ihn zu einer sinnvollen Rücklage für einen grauen Tag macht.\n\nIhr Platz wird reserviert, bevor Ihre Buchung endgültig ist. Der Preis umfasst den Kurs, alle Zutaten und die Rollen, die Sie machen.\n\nZwei Stunden. Mindestens ein Tag Vorlauf.",
+  "highlights": [
+   "Frische Goi Cuon und frittierte Nem Ran sind zwei verschiedene Techniken",
+   "Das Reispapier gibt Ihnen Sekunden: zu trocken bricht, zu feucht reißt",
+   "Halten Sie die Füllung trockener, als es sich richtig anfühlt, und arbeiten Sie schnell",
+   "Füllungen des Nordens: Glasnudeln, Mu-Err, Schweinefleisch, Gartenkräuter",
+   "In Innenräumen, es hält also einen grauen Tag in Sapa zusammen"
+  ],
+  "included": [
+   "Einheimische Frühlingsrolle",
+   "Traditionelle vietnamesische Frühlingsrollen lassen sich mit vielen verschiedenen Füllungen machen, etwa Glasnudeln, Blattgrün, Zwiebel, Schweinefleisch, Karotte und Sojasprossen"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben"
+  ]
  }
 };
 export const DE_PAGES: Record<string, PageT> = {
