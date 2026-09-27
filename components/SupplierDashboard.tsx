@@ -865,6 +865,8 @@ export default function SupplierDashboard({ supplier, onLogout }: SupplierDashbo
   const [showTourForm, setShowTourForm] = useState(false);
   const [editingTour, setEditingTour] = useState<any>(null);
   const [filterStatus, setFilterStatus] = useState<string>('all');
+  const [tourSearch, setTourSearch] = useState<string>('');
+  const [copiedTourId, setCopiedTourId] = useState<string | null>(null);
   // Now supplier is guaranteed to exist, safe to access
   const [profileData, setProfileData] = useState({
     fullName: currentSupplier?.fullName || '',
@@ -1709,10 +1711,23 @@ export default function SupplierDashboard({ supplier, onLogout }: SupplierDashbo
     }
   };
 
-  // Filter tours by status
-  const filteredTours = filterStatus === 'all'
+  // Filter tours by status, then by the search box.
+  //
+  // Without this there was no way to reach one tour among 751. Typing a number
+  // matches the tour number exactly, which is what the number on each card is
+  // for; anything else matches the title or the city.
+  const statusTours = filterStatus === 'all'
     ? tours
     : tours.filter(tour => tour.status === filterStatus);
+
+  const searchTerm = tourSearch.trim().toLowerCase().replace(/^#/, '');
+  const filteredTours = !searchTerm
+    ? statusTours
+    : statusTours.filter((tour: any) => {
+        if (/^\d+$/.test(searchTerm)) return String(tour.id) === searchTerm;
+        return (tour.title || '').toLowerCase().includes(searchTerm)
+          || (tour.city || '').toLowerCase().includes(searchTerm);
+      });
 
   // Calculate stats
   const stats = {
@@ -1985,6 +2000,22 @@ export default function SupplierDashboard({ supplier, onLogout }: SupplierDashbo
                 </button>
               </div>
 
+              {/* Find one tour among hundreds: by its number, its title or its city */}
+              <div className="mb-6">
+                <input
+                  type="text"
+                  value={tourSearch}
+                  onChange={(e) => setTourSearch(e.target.value)}
+                  placeholder="Search by tour number, title or city"
+                  className="w-full bg-gray-50 border border-gray-200 rounded-2xl py-3 px-4 font-bold text-[#001A33] text-[14px] focus:ring-2 focus:ring-[#10B981] outline-none"
+                />
+                {tourSearch.trim() !== '' && (
+                  <p className="text-[12px] text-gray-500 font-semibold mt-2">
+                    {filteredTours.length} of {statusTours.length} tours
+                  </p>
+                )}
+              </div>
+
               {isLoading ? (
                 <div className="text-center py-12">
                   <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-[#10B981] mx-auto"></div>
@@ -2024,7 +2055,7 @@ export default function SupplierDashboard({ supplier, onLogout }: SupplierDashbo
                 </div>
               ) : (
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                  {filteredTours.map((tour) => (
+                  {filteredTours.map((tour, tourIndex) => (
                     <div key={tour.id} className="bg-gray-50 rounded-2xl overflow-hidden border border-gray-200 hover:shadow-lg transition-shadow">
                       {tour.images && tour.images.length > 0 && (
                         <img
@@ -2034,6 +2065,31 @@ export default function SupplierDashboard({ supplier, onLogout }: SupplierDashbo
                         />
                       )}
                       <div className="p-4">
+                        {/* The position in this list, then the tour's own number.
+                            The position moves when you filter or search; the tour
+                            number never does, so that is the one to quote when
+                            asking for a tour to be changed. */}
+                        <div className="flex items-center gap-2 mb-2">
+                          <span className="text-[12px] font-black text-gray-400">
+                            {tourIndex + 1}.
+                          </span>
+                          <button
+                            type="button"
+                            onClick={() => {
+                              try {
+                                navigator.clipboard.writeText(String(tour.id));
+                                setCopiedTourId(String(tour.id));
+                                setTimeout(() => setCopiedTourId(null), 1500);
+                              } catch {
+                                /* clipboard blocked: the number is still readable on screen */
+                              }
+                            }}
+                            title="Copy this tour number"
+                            className="text-[12px] font-black text-[#10B981] bg-[#10B981]/10 rounded-full px-2 py-0.5 hover:bg-[#10B981]/20 transition-colors"
+                          >
+                            {copiedTourId === String(tour.id) ? 'Copied' : `Tour #${tour.id}`}
+                          </button>
+                        </div>
                         <div className="flex items-start justify-between mb-2">
                           <h3 className="text-[16px] font-black text-[#001A33] line-clamp-2 flex-1">
                             {tour.title}
