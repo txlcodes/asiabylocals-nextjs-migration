@@ -11406,6 +11406,36 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Oriental Atlantis en Pattaya: bufé y espectáculo, opción Plus",
   "metaDescription": "Tour en Pattaya. Incluye: el paquete que haya elegido. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "sunrise-city-awakening-tour-with-boat-ride-in-pattaya": {
+  "title": "Pattaya al amanecer: la ciudad que despierta, en barco",
+  "fullDescription": "Esta es una experiencia de 3 horas en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel, crucero costero en barco por la mañana, visita al mirador del templo del Gran Buda, visita a la Gems Gallery y conductor o asistente. No incluye comidas y bebidas, gastos personales, entradas opcionales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Pattaya. AMAKA TOURS TRAVEL confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 horas",
+   "Recogida y regreso en el hotel (zona de Pattaya)",
+   "Crucero costero en barco por la mañana",
+   "Visita al mirador del templo del Gran Buda",
+   "Visita a la Gems Gallery",
+   "Conductor o asistente que habla inglés"
+  ],
+  "included": [
+   "Recogida y regreso en el hotel (zona de Pattaya)",
+   "Crucero costero en barco por la mañana",
+   "Visita al mirador del templo del Gran Buda",
+   "Visita a la Gems Gallery",
+   "Conductor o asistente que habla inglés",
+   "Transporte durante el recorrido"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "Gastos personales",
+   "Entradas opcionales (si las hubiera)",
+   "Propinas",
+   "Cualquier servicio no mencionado entre lo incluido"
+  ],
+  "shortDescription": "Tour de 3 horas en Pattaya, que incluye recogida y regreso al hotel, crucero costero en barco por la mañana y visita al mirador del templo del Gran Buda. Operador: AMAKA TOURS TRAVEL, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Pattaya al amanecer: la ciudad que despierta, en barco",
+  "metaDescription": "Tour de 3 horas en Pattaya. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "from-bangkok-koh-larn-full-day-adventure-with-shooting-range-pattaya": {
   "title": "Desde Bangkok: día en Koh Larn con galería de tiro",
   "fullDescription": "Esta es una experiencia de 12 horas desde Pattaya, centrada en Embarcadero de Bali Hai, Ko Lan y Galería de tiro. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nPattaya, a dos horas al sureste de Bangkok, es la ciudad turística que creció a partir de un puesto de descanso estadounidense en la década de 1960, y son dos lugares en uno: los bares del paseo marítimo y Walking Street al caer la noche, y un conjunto de atracciones familiares que están entre las mejores del país. El Santuario de la Verdad es un templo de teca tallada de 105 metros, empezado en 1981 y todavía sin terminar, hecho enteramente sin clavos. El jardín tropical de Nong Nooch ocupa 500 acres de topiaria y orquídeas. Koh Larn, a 40 minutos en ferri, tiene las playas limpias que le faltan a la propia Pattaya. Tiffany's y Alcazar son los dos espectáculos de cabaré de toda la vida, y la verdad es que Pattaya es más fácil con niños de lo que su fama sugiere.\n\nEl precio incluye vehículo con aire acondicionado, transporte privado, suplemento de combustible, gastos de aparcamiento y conductor. No incluye gastos personales, comida y bebidas, tasas del paquete de tiro y tasas de las actividades acuáticas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nBangkok. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -11827,6 +11857,33 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Alcazar Cabaret en Pattaya: entrada de asiento VIP",
   "metaDescription": "Entrada en Pattaya. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
+ "sunset-tapas-and-cocktail-experience-in-pattaya": {
+  "title": "Tapas y cóctel al atardecer en Pattaya",
+  "fullDescription": "Esta es una experiencia de 2 horas en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye un cóctel de autor a elegir de nuestra carta, bruschetta, calamares crujientes con salsa de la casa, selección de quesos artesanos y mesa reservada junto al mar para el atardecer. No incluye comida o bebida más allá de las tapas indicadas y el, transporte de ida y vuelta al restaurante y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 horas",
+   "Un cóctel de autor a elegir de nuestra carta",
+   "Bruschetta (2 piezas) con tomate fresco y hierbas",
+   "Calamares crujientes con salsa de la casa",
+   "Selección de quesos artesanos",
+   "Mesa reservada junto al mar para el atardecer"
+  ],
+  "included": [
+   "Un cóctel de autor a elegir de nuestra carta",
+   "Bruschetta (2 piezas) con tomate fresco y hierbas",
+   "Calamares crujientes con salsa de la casa",
+   "Selección de quesos artesanos",
+   "Mesa reservada junto al mar para el atardecer"
+  ],
+  "notIncluded": [
+   "Comida o bebida más allá de las tapas y el cóctel indicados",
+   "Transporte de ida y vuelta al restaurante",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de 2 horas en Pattaya, que incluye un cóctel de autor a elegir de nuestra carta, bruschetta y calamares crujientes con salsa de la casa. Operador: บริษัท วิสด้อม ฟู้ดส์ แอนด์ เรสโทรองท จํากัด, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tapas y cóctel al atardecer en Pattaya",
+  "metaDescription": "Tour de 2 horas en Pattaya. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "koh-larn-tandem-paragliding-adventure-with-scenic-view-pattaya": {
   "title": "Koh Larn: parapente en tándem con vistas panorámicas",
   "fullDescription": "Esta es una experiencia de 10 minutos en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye vuelo en parapente biplaza, instructor titulado, equipo de primera categoría, charla de seguridad y vídeo. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -11852,6 +11909,32 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 0,16666666666666666 horas en Pattaya, que incluye vuelo en parapente biplaza, instructor titulado y equipo de primera categoría. Operador: Fly Koh Larn, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Koh Larn: parapente en tándem con vistas panorámicas",
   "metaDescription": "Tour de 0,16666666666666666 horas en Pattaya. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "portal-vr-arena-vr-games-attractions-birthday-party-in-pattaya": {
+  "title": "Portal VR Arena en Pattaya: juegos VR, atracciones y cumpleaños",
+  "fullDescription": "Esta es una experiencia de día completo en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nPattaya, a dos horas al sureste de Bangkok, es la ciudad turística que creció a partir de un puesto de descanso estadounidense en la década de 1960, y son dos lugares en uno: los bares del paseo marítimo y Walking Street al caer la noche, y un conjunto de atracciones familiares que están entre las mejores del país. El Santuario de la Verdad es un templo de teca tallada de 105 metros, empezado en 1981 y todavía sin terminar, hecho enteramente sin clavos. El jardín tropical de Nong Nooch ocupa 500 acres de topiaria y orquídeas. Koh Larn, a 40 minutos en ferri, tiene las playas limpias que le faltan a la propia Pattaya. Tiffany's y Alcazar son los dos espectáculos de cabaré de toda la vida, y la verdad es que Pattaya es más fácil con niños de lo que su fama sugiere.\n\nEl precio incluye ¡Entre en un mundo de diversión en realidad virtual! 🎮✨, ¡Atención, padres y amantes de la emoción! Desaten la magia, ¿Por qué elegirnos?, tecnología de realidad virtual de última generación y una amplia variedad de juegos para todas las edades. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: día completo",
+   "¡Entre en un mundo de diversión en realidad virtual! 🎮✨",
+   "¡Atención, padres y amantes de la emoción! Desaten la magia de la realidad virtual con nuestra experiencia de juego inmersiva, que les llevará, a ustedes y a su hijo, a nuevas dimensiones. 👾🚀",
+   "¿Por qué elegirnos?",
+   "Tecnología de realidad virtual de última generación",
+   "Una amplia variedad de juegos para todas las edades"
+  ],
+  "included": [
+   "¡Entre en un mundo de diversión en realidad virtual! 🎮✨",
+   "¡Atención, padres y amantes de la emoción! Desaten la magia de la realidad virtual con nuestra experiencia de juego inmersiva, que les llevará, a ustedes y a su hijo, a nuevas dimensiones. 👾🚀",
+   "¿Por qué elegirnos?",
+   "Tecnología de realidad virtual de última generación",
+   "Una amplia variedad de juegos para todas las edades",
+   "Un entorno cómodo y seguro",
+   "Personal con experiencia y amable",
+   "Paquetes de cumpleaños personalizables"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour de día completo en Pattaya, que incluye ¡Entre en un mundo de diversión en realidad virtual! 🎮✨, ¡Atención, padres y amantes de la emoción! Desaten la magia y ¿Por qué elegirnos?. Operador: Portal VR, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Portal VR Arena en Pattaya: juegos VR, atracciones y cumpleaños",
+  "metaDescription": "Tour de día completo en Pattaya. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "bkk-to-pattaya-candy-wonderland-sheep-farm-and-sunset-bar-by-local-operator": {
   "title": "De Bangkok a Pattaya: Candy Wonderland, granja de ovejas y bar al atardecer",
@@ -12010,6 +12093,59 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de día completo en Pattaya, con Otros transportes por agua y Playa de Pattaya. Operador: Thai ocean academy, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Bautismo de buceo en Pattaya: 2 inmersiones para principiantes",
   "metaDescription": "Tour de día completo en Pattaya. Incluye: dos inmersiones en el mar. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "aroma-spa-bann-thai-food-museum-and-11-course-meal-in-pattaya": {
+  "title": "Spa de aromas, museo Bann Thai Food y comida de 11 platos",
+  "fullDescription": "Esta es una experiencia de 3 horas en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye masaje con aceites aromáticos, masaje con bolsas de hierbas, entrada del museo de la cocina tailandesa y comida de 11 platos. No incluye propinas, recogida, gasto personal y otra bebida, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 horas",
+   "Masaje con aceites aromáticos",
+   "Masaje con bolsas de hierbas",
+   "Entrada del museo de la cocina tailandesa",
+   "Comida de 11 platos"
+  ],
+  "included": [
+   "Masaje con aceites aromáticos",
+   "Masaje con bolsas de hierbas",
+   "Entrada del museo de la cocina tailandesa",
+   "Comida de 11 platos"
+  ],
+  "notIncluded": [
+   "propinas (propina habitual en el spa: 100 bahts)",
+   "recogida",
+   "gasto personal",
+   "otra bebida (cerveza o cola)"
+  ],
+  "shortDescription": "Tour de 3 horas en Pattaya, que incluye masaje con aceites aromáticos, masaje con bolsas de hierbas y entrada del museo de la cocina tailandesa. Operador: Bangkok Charm Tour Co.,LTD., con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Spa de aromas, museo Bann Thai Food y comida de 11 platos",
+  "metaDescription": "Tour de 3 horas en Pattaya. Incluye: masaje con aceites aromáticos. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "colosseum-cabaret-show-ticket-and-hotel-transfer-in-pattaya": {
+  "title": "Colosseum Cabaret Show: entrada y traslado de hotel en Pattaya",
+  "fullDescription": "Esta es una experiencia de 3 horas en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada del Colosseum Show de Pattaya, traslado de ida y vuelta desde hoteles y apartamentos de la, transporte compartido con aire acondicionado, servicio de conductor-guía en el lugar y todos los impuestos locales y gastos de gestión de entradas. No incluye propinas por las fotos con los artistas, comida y bebidas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 horas",
+   "Entrada del Colosseum Show de Pattaya (según la opción elegida)",
+   "Traslado de ida y vuelta desde hoteles y apartamentos de la zona indicada",
+   "Transporte compartido con aire acondicionado",
+   "Servicio profesional de conductor-guía en el lugar",
+   "Todos los impuestos locales y gastos de gestión de entradas"
+  ],
+  "included": [
+   "Entrada del Colosseum Show de Pattaya (según la opción elegida)",
+   "Traslado de ida y vuelta desde hoteles y apartamentos de la zona indicada",
+   "Transporte compartido con aire acondicionado",
+   "Servicio profesional de conductor-guía en el lugar",
+   "Todos los impuestos locales y gastos de gestión de entradas"
+  ],
+  "notIncluded": [
+   "Propinas por las fotos con los artistas",
+   "Comida y bebidas",
+   "Gastos personales"
+  ],
+  "shortDescription": "Entrada en Pattaya, que incluye entrada del Colosseum Show de Pattaya, traslado de ida y vuelta desde hoteles y apartamentos de la y transporte compartido con aire acondicionado. Operador: Pattaya Guide Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Colosseum Cabaret Show: entrada y traslado de hotel en Pattaya",
+  "metaDescription": "Entrada en Pattaya. Incluye: entrada del Colosseum Show de Pattaya. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "option-1-pattaya-evening-city-tour-and-alcazar-cabaret-show-by-local-operator": {
   "title": "Opción 1, Pattaya: recorrido nocturno y Alcazar Cabaret Show",
@@ -12361,6 +12497,33 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Cena en yate con espectáculo en directo en Pattaya",
   "metaDescription": "Tour de 2 horas en Pattaya. Incluye: entrada al Ocean Sky Yacht. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "bann-thai-food-museum-with-11-dish-meals-in-pattaya": {
+  "title": "Museo Bann Thai Food en Pattaya: comida de 11 platos",
+  "fullDescription": "Esta es una experiencia de 1,5 horas en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye degustación de cocina tailandesa, acceso al museo de la cocina tailandesa, acceso al museo de historia tailandesa, agua y comida y Leng Zabb si elige la opción. No incluye recogida, gasto personal y otra bebida, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1,5 horas",
+   "Degustación de cocina tailandesa",
+   "Acceso al museo de la cocina tailandesa",
+   "Acceso al museo de historia tailandesa",
+   "Agua y comida",
+   "Leng Zabb si elige la opción"
+  ],
+  "included": [
+   "Degustación de cocina tailandesa",
+   "Acceso al museo de la cocina tailandesa",
+   "Acceso al museo de historia tailandesa",
+   "Agua y comida",
+   "Leng Zabb si elige la opción"
+  ],
+  "notIncluded": [
+   "recogida",
+   "gasto personal",
+   "otra bebida (cerveza o cola)"
+  ],
+  "shortDescription": "Tour en Pattaya, que incluye degustación de cocina tailandesa, acceso al museo de la cocina tailandesa y acceso al museo de historia tailandesa. Operador: Bangkok Charm Tour Co.,LTD., con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Museo Bann Thai Food en Pattaya: comida de 11 platos",
+  "metaDescription": "Tour en Pattaya. Incluye: degustación de cocina tailandesa. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "snorkeling-and-scuba-diving-for-first-timer-in-pattaya": {
   "title": "Snorkel y buceo con botella para principiantes en Pattaya",
   "fullDescription": "Esta es una experiencia de 8 horas en Pattaya, centrada en Otros transportes por agua y Playa de Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye dos sesiones de snorkel, o una sesión de snorkel y una, todo el equipo de buceo necesario está incluido, acompañamiento de instructores con experiencia y comida. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nThai Ocean Academy Pattaya: Scuba Dive Pattaya. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -12641,6 +12804,33 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Let's Relax Onsen & Spa en Pattaya: pase de día completo",
   "metaDescription": "Entrada en Pattaya. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
+ "ramayana-water-park-entry-ticket-in-pattaya": {
+  "title": "Parque acuático Ramayana en Pattaya: entrada",
+  "fullDescription": "Esta es una experiencia en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada de día completo, acceso ilimitado a 26 toboganes y 34 pistas, acceso a las piscinas y fotos y vídeos gratis en 5 de los toboganes más populares. No incluye comida y bebidas, alquiler de taquilla, alquiler de toalla y cabaña privada, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "entrada de día completo",
+   "Acceso ilimitado a 26 toboganes y 34 pistas",
+   "Acceso a las piscinas, zonas de chapoteo y el río lento",
+   "fotos y vídeos gratis en 5 de los toboganes más populares"
+  ],
+  "included": [
+   "entrada de día completo",
+   "Acceso ilimitado a 26 toboganes y 34 pistas",
+   "Acceso a las piscinas, zonas de chapoteo y el río lento",
+   "fotos y vídeos gratis en 5 de los toboganes más populares"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Alquiler de taquilla",
+   "Alquiler de toalla",
+   "Cabaña privada",
+   "Transporte de ida y vuelta al parque acuático",
+   "Fotos profesionales tomadas por el equipo del parque acuático Ramayana (a la venta en el DEI Photo Booth)"
+  ],
+  "shortDescription": "Entrada en Pattaya, que incluye entrada de día completo, acceso ilimitado a 26 toboganes y 34 pistas y acceso a las piscinas. Operador: Ramayana Water Park, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Parque acuático Ramayana en Pattaya: entrada",
+  "metaDescription": "Entrada en Pattaya. Incluye: entrada de día completo. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "pattaya-thailand-6996-show-entry-ticket-for-adults-by-local-operator": {
   "title": "Espectáculo 6996 en Pattaya: entrada para adultos",
   "fullDescription": "Esta es una experiencia de 1 hora en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye una entrada para el espectáculo 6996 en Pattaya, Tailandia. No incluye propina, todo lo que no se mencione entre lo incluido y transporte, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -12762,6 +12952,37 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 3 horas en Pattaya, con Embarcadero de Bali Hai y Pattaya. Operador: Big Cat Travel Co., Ltd., con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Pattaya, Ocean Sky y Oriental Princess: cena bufé y recogida",
   "metaDescription": "Tour de 3 horas en Pattaya. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "snorkel-and-chill-nemo-island-trip-from-pattaya-by-local-operator": {
+  "title": "Snorkel y calma: salida a Nemo Island desde Pattaya",
+  "fullDescription": "Esta es una experiencia de 5 horas desde Pattaya, centrada en Sattahip. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida de ida y vuelta, personal de seguridad, seguro de accidentes, chalecos salvavidas y fotografía submarina. No incluye todas las comidas, otros gastos personales y recogida de ida y vuelta desde Bangkok, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPattaya City. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Sattahip",
+   "Duración: 5 horas",
+   "Recogida de ida y vuelta (para salidas desde Pattaya)",
+   "Personal de seguridad",
+   "Seguro de accidentes",
+   "Chalecos salvavidas"
+  ],
+  "included": [
+   "Recogida de ida y vuelta (para salidas desde Pattaya)",
+   "Personal de seguridad",
+   "Seguro de accidentes",
+   "Chalecos salvavidas",
+   "Fotografía submarina",
+   "Equipo de snorkel",
+   "Boquilla personal",
+   "Entrada de la isla",
+   "Agua potable"
+  ],
+  "notIncluded": [
+   "Todas las comidas",
+   "Otros gastos personales",
+   "Recogida de ida y vuelta desde Bangkok (consulte el vehículo de la promoción)"
+  ],
+  "shortDescription": "Tour de medio día en Pattaya, con Sattahip. Operador: SST Global Tour, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Snorkel y calma: salida a Nemo Island desde Pattaya",
+  "metaDescription": "Tour de medio día en Pattaya. Incluye: recogida de ida y vuelta. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "living-green-elephant-sanctuary-day-trip-in-pattaya": {
   "title": "Living Green Elephant Sanctuary: excursión de un día desde Pattaya",
@@ -13321,6 +13542,38 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de medio día en Pattaya, que incluye seguro, peajes y gastos de aparcamiento. Operador: SST Global Tour, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Zoo de Khao Kheow: visita privada con recogida",
   "metaDescription": "Tour de medio día en Pattaya. Incluye: seguro y peajes. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "pattaya-romantic-tour-from-bangkok-private-day-trip-by-local-operator": {
+  "title": "Pattaya romántica: día privado desde Bangkok",
+  "fullDescription": "Esta es una experiencia de 10 horas en Pattaya, centrada en Santuario de la Verdad de Pattaya, Playa de Wong Amat y House of Benedict de Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nPattaya, a dos horas al sureste de Bangkok, es la ciudad turística que creció a partir de un puesto de descanso estadounidense en la década de 1960, y son dos lugares en uno: los bares del paseo marítimo y Walking Street al caer la noche, y un conjunto de atracciones familiares que están entre las mejores del país. El Santuario de la Verdad es un templo de teca tallada de 105 metros, empezado en 1981 y todavía sin terminar, hecho enteramente sin clavos. El jardín tropical de Nong Nooch ocupa 500 acres de topiaria y orquídeas. Koh Larn, a 40 minutos en ferri, tiene las playas limpias que le faltan a la propia Pattaya. Tiffany's y Alcazar son los dos espectáculos de cabaré de toda la vida, y la verdad es que Pattaya es más fácil con niños de lo que su fama sugiere.\n\nEl precio incluye vehículo privado climatizado, recogida y regreso al hotel en Bangkok, conductor, transporte privado y peaje de autopista. No incluye entradas a las atracciones, comidas y bebidas, gastos personales y actividades opcionales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nBangkok. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Santuario de la Verdad de Pattaya",
+   "Playa de Wong Amat",
+   "House of Benedict de Pattaya",
+   "Mirador de Phra Tamnak",
+   "Duración: 10 horas",
+   "Vehículo privado climatizado"
+  ],
+  "included": [
+   "Vehículo privado climatizado",
+   "Recogida y regreso al hotel en Bangkok",
+   "Conductor de habla inglesa",
+   "Transporte privado",
+   "Peaje de autopista",
+   "Tasa de aparcamiento"
+  ],
+  "notIncluded": [
+   "Entradas a las atracciones",
+   "Comidas y bebidas",
+   "Gastos personales",
+   "Actividades opcionales",
+   "Guía",
+   "Propinas",
+   "Tiempo extra: 600 THB por hora"
+  ],
+  "shortDescription": "Tour de día completo en Pattaya, con Santuario de la Verdad de Pattaya, Playa de Wong Amat y House of Benedict de Pattaya. Operador: Skyway Tours, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Pattaya romántica: día privado desde Bangkok",
+  "metaDescription": "Tour de día completo en Pattaya. Incluye: vehículo privado climatizado. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "maeklong-railway-and-floating-market-tour": {
   "title": "Mercado del tren de Maeklong y mercado flotante",
