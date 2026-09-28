@@ -11113,6 +11113,27 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Cours de cuisine privé à Pattaya, menu à thème (4 plats)",
   "metaDescription": "Excursion d'une demi-journée à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "flying-experience-top-pick-by-tsa-thailand": {
+  "title": "Vol découverte (notre préféré) avec TSA Thailand",
+  "fullDescription": "Cette expérience de 20 minutes se déroule à Pattaya, construite autour de Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel et assurance. Il ne comprend pas supplément de surpoids de 96 kg à 109 kg : 100 THB par kg et supplément de surpoids de 110 kg à 120 kg : 1500 THB par personne, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPattaya City. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Pattaya",
+   "Durée : 20 minutes",
+   "Prise en charge et retour à l'hôtel",
+   "Assurance"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Over weight surcharge 96kg-109kg = 100THB/kg.",
+   "Supplément de surpoids de 110 kg à 120 kg : 1500 THB par personne"
+  ],
+  "shortDescription": "Excursion de 0,3333333333333333 heures à Pattaya, avec Pattaya. Opérateur : TSA_Thailand, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Vol découverte (notre préféré) avec TSA Thailand",
+  "metaDescription": "Excursion de 0,3333333333333333 heures à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "ramayana-water-park-ticketed-fun-in-pattaya": {
   "title": "Parc aquatique Ramayana à Pattaya : billet d'entrée",
   "fullDescription": "Cette expérience de 7 heures se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend droit d'entrée du parc aquatique Ramayana, transfert à l'hôtel et assurance. Il ne comprend pas transfert privé, déjeuner, sodas et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Pattaya. Odeon Tours DMC Thailand confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -11137,6 +11158,22 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Parc aquatique Ramayana à Pattaya : billet d'entrée",
   "metaDescription": "Excursion d'une journée entière à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "art-in-paradise-3d-museum-discounted-ticket-in-pattaya": {
+  "title": "Musée 3D Art in Paradise à Pattaya : billet à tarif réduit",
+  "fullDescription": "Cette expérience se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend entrée prioritaire au musée 3D Art in Paradise là où le site la propose. Il ne comprend pas transport vers et depuis le musée n'est pas compris, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "entrée prioritaire au musée 3D Art in Paradise là où le site la propose"
+  ],
+  "included": [
+   "Accès coupe-file au musée 3D Art in Paradise."
+  ],
+  "notIncluded": [
+   "Le transport aller-retour jusqu'au musée n'est pas compris."
+  ],
+  "shortDescription": "Billet d'entrée à Pattaya, comprenant accès coupe-file au musée 3D Art in Paradise. Opérateur : TYCOON THAI DMC, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Musée 3D Art in Paradise à Pattaya : billet à tarif réduit",
+  "metaDescription": "Billet d'entrée à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "repas-toil-et-chant-d-opera-l-opera-signature-pattaya-by-local-operator": {
   "title": "Dîner étoilé et chant lyrique à l'Opéra Signature, Pattaya",
   "fullDescription": "Cette expérience de 2 heures se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend cuisine française moderne, spectacle de ladyboys le jeudi et dîners-Lyriques le vendredi et le samedi. Il ne comprend pas boissons, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -11157,6 +11194,31 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 2 heures à Pattaya, comprenant cuisine française moderne, spectacle de ladyboys le jeudi et dîners-Lyriques le vendredi et le samedi. Opérateur : Opera Signature, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Dîner étoilé et chant lyrique à l'Opéra Signature, Pattaya",
   "metaDescription": "Excursion de 2 heures à Pattaya. Comprend cuisine française moderne. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "pattaya-sunset-cruise-with-starter-admission-ticket-by-local-operator": {
+  "title": "Croisière au coucher du soleil à Pattaya, entrée et entrée en bouche",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Pattaya, construite autour de Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend croisière à bord du Rangila Super Cruise, entrées à bord et personnel. Il ne comprend pas boissons alcoolisées, dépenses personnelles, pourboires et prise en charge et dépose à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nBali Hai Pier. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Pattaya",
+   "Durée : 2 heures",
+   "Croisière à bord du Rangila Super Cruise",
+   "Entrées à bord",
+   "Personnel anglophone"
+  ],
+  "included": [
+   "Croisière à bord du Rangila Super Cruise",
+   "Entrées à bord",
+   "Personnel anglophone"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisées (en vente sur place)",
+   "Dépenses personnelles",
+   "Pourboires",
+   "Prise en charge et dépose à l'hôtel"
+  ],
+  "shortDescription": "Excursion de 2 heures à Pattaya, avec Pattaya. Opérateur : Sun Leisure World Corporation, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Croisière au coucher du soleil à Pattaya, entrée",
+  "metaDescription": "Excursion de 2 heures à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "restaurant-show-transgender-artists-opera-signature-in-pattaya-by-local-operator": {
   "title": "Dîner-spectacle avec artistes transgenres à l'Opéra Signature, Pattaya",
@@ -11230,6 +11292,25 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion d'une journée entière à Pattaya, avec Wat Weluwanaram (Phai Khiao), Wat Phra Dhammakaya et Restaurant et café Som Tum Khun Dang. Opérateur : Pattaya Guide Travel, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Tour du Dragon, temple du Bouddha et marché flottant",
   "metaDescription": "Excursion d'une journée entière à Pattaya. Comprend eau potable. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "ripley-s-pattaya-mega-pass-with-horror-hospital-entry-by-local-operator": {
+  "title": "Ripley's Pattaya : Mega Pass avec entrée à l'Horror Hospital",
+  "fullDescription": "Cette expérience de 8 heures se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend billet d'entrée pour tous les sites indiqués. Il ne comprend pas prise en charge et retour à l'hôtel, repas et boissons et dépenses personnelles et pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 8 heures",
+   "Billet d'entrée pour tous les sites indiqués"
+  ],
+  "included": [
+   "Billet d'entrée pour tous les sites indiqués"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel",
+   "Repas et boissons",
+   "Dépenses personnelles et pourboires"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Pattaya, comprenant billet d'entrée pour tous les sites indiqués. Opérateur : AMAKA TOURS TRAVEL, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Ripley's Pattaya : Mega Pass avec entrée à l'Horror Hospital",
+  "metaDescription": "Excursion d'une journée entière à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "alcazar-cabaret-vip-seat-admission-ticket-in-pattaya": {
   "title": "Alcazar Cabaret à Pattaya : billet en siège VIP",
@@ -11327,6 +11408,23 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 1 heure à Pattaya, avec Stade Max Muay Thai de Pattaya. Opérateur : THAILAND SKYDIVING, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Stade Max Muay Thai de Pattaya : une soirée de passion",
   "metaDescription": "Excursion de 1 heure à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "colosseum-show-pattaya-regular-ticket-only-by-local-operator": {
+  "title": "Colosseum Show de Pattaya (billet standard seul)",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend billet d'entrée. Il ne comprend pas transferts de prise en charge et de retour, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 heure",
+   "Billet d'entrée"
+  ],
+  "included": [
+   "Billet d'entrée"
+  ],
+  "notIncluded": [
+   "Transferts de prise en charge et de retour"
+  ],
+  "shortDescription": "Billet d'entrée à Pattaya, comprenant billet d'entrée. Opérateur : TYCOON THAI DMC, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Colosseum Show de Pattaya (billet standard seul)",
+  "metaDescription": "Billet d'entrée à Pattaya. Comprend billet d'entrée. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "isea-sky-and-the-jetty-veranda-resort-food-and-drink-packages-in-pattaya": {
   "title": "ISEA Sky et The Jetty au Veranda Resort : formules repas et boissons",
@@ -11468,6 +11566,58 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Enduro guidé à la journée avec repas à Pattaya",
   "metaDescription": "Excursion d'une journée entière à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "private-pattaya-highlights-and-sanctuary-of-truth": {
+  "title": "Pattaya en privé : les incontournables et le Sanctuaire de la Vérité",
+  "fullDescription": "Cette expérience de 9 heures se déroule à Pattaya, construite autour de Ko Loi, Sanctuaire de la Vérité et Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nPattaya, à deux heures au sud-est de Bangkok, est la ville balnéaire née d'un centre de repos américain dans les années 1960, et c'est deux endroits en un : les bars du bord de mer et Walking Street à la nuit tombée, et un ensemble d'attractions familiales qui comptent parmi les meilleures du pays. Le Sanctuaire de la Vérité est un temple de teck sculpté de 105 mètres, commencé en 1981 et toujours inachevé, entièrement sans clous. Le jardin tropical de Nong Nooch couvre 500 acres de topiaires et d'orchidées. Koh Larn, à 40 minutes de ferry, a les plages propres qui manquent à Pattaya même. Tiffany's et Alcazar sont les deux spectacles de cabaret de longue date, et la vérité est que Pattaya est plus facile avec des enfants que sa réputation ne le laisse croire.\n\nLe prix comprend guide privé, transport privé, tous les billets d'entrée, prise en charge et retour à l'hôtel et eau en bouteille. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nBangkok. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Ko Loi",
+   "Sanctuaire de la Vérité",
+   "Pattaya",
+   "Wat Phra Yai",
+   "Durée : 9 heures",
+   "Guide privé"
+  ],
+  "included": [
+   "Guide privé",
+   "Transport privé",
+   "Tous les billets d'entrée",
+   "Prise en charge et retour à l'hôtel",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion d'une journée entière à Pattaya, avec Ko Loi, Sanctuaire de la Vérité et Pattaya. Opérateur : Roamhertravel, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Pattaya en privé : les incontournables et le Sanctuaire",
+  "metaDescription": "Excursion d'une journée entière à Pattaya. Comprend guide privé. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "3-islands-catamaran-tour-with-buffet-lunch-in-pattaya": {
+  "title": "3 îles en catamaran avec déjeuner buffet à Pattaya",
+  "fullDescription": "Cette expérience de 8 heures se déroule au départ de Pattaya, construite autour de Catamaran et Koh Phai. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel, guide, droits d'entrée sur l'île, eau et sodas et café et thé. Il ne comprend pas pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPattaya City. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Catamaran",
+   "Koh Phai",
+   "Durée : 8 heures",
+   "Prise en charge et retour à l'hôtel",
+   "Guide",
+   "Droits d'entrée sur l'île"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Guide",
+   "Droits d'entrée sur l'île",
+   "Eau et sodas",
+   "Café et thé",
+   "Déjeuner buffet thaï",
+   "Fruits",
+   "Matériel de snorkeling",
+   "Douche à l'eau douce"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Pattaya, avec Ocean Marina Jomtien, Pattaya, Catamaran et Koh Phai. Opérateur : OTO TRIP SERVICE CO., LTD, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "3 îles en catamaran avec déjeuner buffet à Pattaya",
+  "metaDescription": "Excursion d'une journée entière à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "pattaya-koh-lan-tour-hotel-pickup-optional-snorkel-and-spa-by-local-operator": {
   "title": "Pattaya et Koh Lan : prise en charge à l'hôtel, snorkeling et spa en option",
   "fullDescription": "Cette expérience de 6 heures se déroule au départ de Pattaya, construite autour de Vedette rapide et Ko Lan. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend guide parlant chinois ou anglais, déjeuner, eau minérale, serviettes et prise en charge et retour à l'hôtel. Il ne comprend pas dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPattaya City. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -11564,6 +11714,29 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Quad écologique en tout-terrain à Pattaya",
   "metaDescription": "Excursion de 1 heure à Pattaya. Comprend guide et sortie en quad. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "floating-dinner-yacht-experience-with-live-show-in-pattaya": {
+  "title": "Dîner sur un yacht avec spectacle en direct à Pattaya",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend billet d'accès à l'Ocean Sky Yacht, dîner buffet international, spectacles et animations en direct et transfert privé aller-retour depuis Pattaya. Il ne comprend pas boissons alcoolisées, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2 heures",
+   "Billet d'accès à l'Ocean Sky Yacht",
+   "Dîner buffet international",
+   "Spectacles et animations en direct",
+   "Transfert privé aller-retour depuis Pattaya"
+  ],
+  "included": [
+   "Billet d'accès à l'Ocean Sky Yacht",
+   "Dîner buffet international",
+   "Spectacles et animations en direct",
+   "Transfert privé aller-retour depuis Pattaya"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisées"
+  ],
+  "shortDescription": "Excursion de 2 heures à Pattaya, comprenant billet d'accès à l'Ocean Sky Yacht, dîner buffet international et spectacles et animations en direct. Opérateur : PattayaCentral, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Dîner sur un yacht avec spectacle en direct à Pattaya",
+  "metaDescription": "Excursion de 2 heures à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "snorkeling-and-scuba-diving-for-first-timer-in-pattaya": {
   "title": "Snorkeling et plongée bouteille pour débutants à Pattaya",
   "fullDescription": "Cette expérience de 8 heures se déroule à Pattaya, construite autour de Autres transports par voie d'eau et Plage de Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend deux séances de snorkeling, ou une séance de snorkeling et une, tout le matériel de plongée nécessaire est compris, encadrement par des instructeurs expérimentés et déjeuner. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nThai Ocean Academy Pattaya: Scuba Dive Pattaya. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -11652,6 +11825,75 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Pattaya, comprenant instructeur, espace de repos climatisé et choix d'armes et de munitions. Opérateur : THAILAND SKYDIVING, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Stand de tir Battle Mouse Range Club à Pattaya",
   "metaDescription": "Excursion à Pattaya. Comprend instructeur. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "let-s-relax-onsen-and-spa-all-day-pass-in-pattaya": {
+  "title": "Let's Relax Onsen & Spa à Pattaya : pass à la journée",
+  "fullDescription": "Cette expérience se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nPattaya, à deux heures au sud-est de Bangkok, est la ville balnéaire née d'un centre de repos américain dans les années 1960, et c'est deux endroits en un : les bars du bord de mer et Walking Street à la nuit tombée, et un ensemble d'attractions familiales qui comptent parmi les meilleures du pays. Le Sanctuaire de la Vérité est un temple de teck sculpté de 105 mètres, commencé en 1981 et toujours inachevé, entièrement sans clous. Le jardin tropical de Nong Nooch couvre 500 acres de topiaires et d'orchidées. Koh Larn, à 40 minutes de ferry, a les plages propres qui manquent à Pattaya même. Tiffany's et Alcazar sont les deux spectacles de cabaret de longue date, et la vérité est que Pattaya est plus facile avec des enfants que sa réputation ne le laisse croire.\n\nLe prix comprend accès à la journée au Let's Relax Onsen & Spa de Pattaya. Il ne comprend pas soins de massage, forfaits spa, nourriture et boissons et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Accès à la journée au Let's Relax Onsen & Spa de Pattaya"
+  ],
+  "included": [
+   "Accès à la journée au Let's Relax Onsen & Spa de Pattaya"
+  ],
+  "notIncluded": [
+   "Soins de massage",
+   "Forfaits spa",
+   "Nourriture et boissons",
+   "Prise en charge et retour à l'hôtel",
+   "Dépenses personnelles",
+   "Pourboires"
+  ],
+  "shortDescription": "Billet d'entrée à Pattaya, comprenant accès à la journée au Let's Relax Onsen & Spa de Pattaya. Opérateur : MY Holiday Centre, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Let's Relax Onsen & Spa à Pattaya : pass à la journée",
+  "metaDescription": "Billet d'entrée à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "pattaya-thailand-6996-show-entry-ticket-for-adults-by-local-operator": {
+  "title": "Spectacle 6996 à Pattaya : billet d'entrée adulte",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend un billet pour le spectacle 6996 à Pattaya, en Thaïlande. Il ne comprend pas pourboire, tout ce qui n'est pas mentionné dans les prestations comprises et transport, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 heure",
+   "Un billet pour le spectacle 6996 à Pattaya, en Thaïlande"
+  ],
+  "included": [
+   "Un billet pour le spectacle 6996 à Pattaya, en Thaïlande"
+  ],
+  "notIncluded": [
+   "Pourboire",
+   "Tout ce qui n'est pas mentionné dans les prestations comprises",
+   "Transport local"
+  ],
+  "shortDescription": "Billet d'entrée à Pattaya, comprenant un billet pour le spectacle 6996 à Pattaya, en Thaïlande. Opérateur : Shenzhen Yuexing Travel Technology Co., Ltd., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Spectacle 6996 à Pattaya : billet d'entrée adulte",
+  "metaDescription": "Billet d'entrée à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "pattaya-rainforest-zipline-rope-suspension-bridge-adventure-by-local-operator": {
+  "title": "Tyrolienne et pont suspendu dans la forêt tropicale de Pattaya",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend accès au parcours de tyrolienne, instructeurs et guides, eau potable en bouteille, tout le matériel de tyrolienne et de sécurité nécessaire et briefing de sécurité et séance d'entraînement. Il ne comprend pas transferts à l'hôtel, aliments et boissons supplémentaires, dépenses personnelles et pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2 heures",
+   "Accès au parcours de tyrolienne",
+   "Instructeurs et guides professionnels",
+   "Eau potable en bouteille",
+   "Tout le matériel de tyrolienne et de sécurité nécessaire",
+   "Briefing de sécurité et séance d'entraînement"
+  ],
+  "included": [
+   "Accès au parcours de tyrolienne",
+   "Instructeurs et guides professionnels",
+   "Eau potable en bouteille",
+   "Tout le matériel de tyrolienne et de sécurité nécessaire",
+   "Briefing de sécurité et séance d'entraînement",
+   "Assurance fournie par l'opérateur"
+  ],
+  "notIncluded": [
+   "Transferts à l'hôtel",
+   "Aliments et boissons supplémentaires",
+   "Dépenses personnelles",
+   "Pourboires"
+  ],
+  "shortDescription": "Excursion de 2 heures à Pattaya, comprenant accès au parcours de tyrolienne, instructeurs et guides et eau potable en bouteille. Opérateur : AMAKA TOURS TRAVEL, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Tyrolienne et pont suspendu dans la forêt tropicale de Pattaya",
+  "metaDescription": "Excursion de 2 heures à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "elephant-jungle-sanctuary-half-day-tour-with-meal-in-pattaya": {
   "title": "Elephant Jungle Sanctuary : demi-journée avec repas à Pattaya",
@@ -11765,6 +12007,28 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Frost Magical Ice of Siam à Pattaya : entrée et transferts",
   "metaDescription": "Excursion de 3 heures à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "elephant-jungle-sanctuary-feeding-experience-in-pattaya": {
+  "title": "Elephant Jungle Sanctuary : nourrir les éléphants à Pattaya",
+  "fullDescription": "Cette expérience de 30 minutes se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend billet d'entrée, nourriture pour donner à manger aux éléphants et sodas. Il ne comprend pas prise en charge et retour à l'hôtel et repas, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 30 minutes",
+   "Billet d'entrée",
+   "Nourriture pour donner à manger aux éléphants",
+   "Sodas"
+  ],
+  "included": [
+   "Billet d'entrée",
+   "Nourriture pour donner à manger aux éléphants",
+   "Sodas"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel",
+   "Repas"
+  ],
+  "shortDescription": "Excursion de 0,5 heures à Pattaya, comprenant billet d'entrée, nourriture pour donner à manger aux éléphants et sodas. Opérateur : Elephant Jungle Sanctuary Pattaya, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Elephant Jungle Sanctuary : nourrir les éléphants à Pattaya",
+  "metaDescription": "Excursion de 0,5 heures à Pattaya. Comprend billet d'entrée. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "nong-nooch-tropical-garden-ticket-for-foreigners": {
   "title": "Jardin tropical de Nong Nooch : billet pour les étrangers",
   "fullDescription": "Cette expérience se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend entrée selon la formule choisie. Il ne comprend pas transferts à l'hôtel, dépenses personnelles et nourriture et boissons, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -11827,6 +12091,30 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 0,5 heures à Pattaya, comprenant location de jet-ski, équipement de sécurité et démonstration de sécurité. Opérateur : Pattaya water sport club, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Jet-ski à Pattaya",
   "metaDescription": "Excursion de 0,5 heures à Pattaya. Comprend location de jet-ski. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "private-pattaya-day-tour-sanctuary-of-truth-and-beach-caf-by-local-operator": {
+  "title": "Pattaya en privé : Sanctuaire de la Vérité et café de plage",
+  "fullDescription": "Cette expérience de 10 heures se déroule au départ de Pattaya, construite autour de Sanctuaire de la Vérité et Point de vue de Khao Phra Tamnak. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nPattaya, à deux heures au sud-est de Bangkok, est la ville balnéaire née d'un centre de repos américain dans les années 1960, et c'est deux endroits en un : les bars du bord de mer et Walking Street à la nuit tombée, et un ensemble d'attractions familiales qui comptent parmi les meilleures du pays. Le Sanctuaire de la Vérité est un temple de teck sculpté de 105 mètres, commencé en 1981 et toujours inachevé, entièrement sans clous. Le jardin tropical de Nong Nooch couvre 500 acres de topiaires et d'orchidées. Koh Larn, à 40 minutes de ferry, a les plages propres qui manquent à Pattaya même. Tiffany's et Alcazar sont les deux spectacles de cabaret de longue date, et la vérité est que Pattaya est plus facile avec des enfants que sa réputation ne le laisse croire.\n\nLe prix comprend billet d'entrée du Sanctuaire de la Vérité, visite du point de vue de Khao Phra Tamnak et prise en charge et retour à l'hôtel à Bangkok. Il ne comprend pas repas et autres boissons et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nBangkok. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Sanctuaire de la Vérité",
+   "Point de vue de Khao Phra Tamnak",
+   "Durée : 10 heures",
+   "Billet d'entrée du Sanctuaire de la Vérité",
+   "Visite du point de vue de Khao Phra Tamnak",
+   "Prise en charge et retour à l'hôtel à Bangkok"
+  ],
+  "included": [
+   "Billet d'entrée du Sanctuaire de la Vérité",
+   "Visite du point de vue de Khao Phra Tamnak",
+   "Prise en charge et retour à l'hôtel à Bangkok"
+  ],
+  "notIncluded": [
+   "Repas et autres boissons",
+   "Dépenses personnelles"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Pattaya, avec Sanctuaire de la Vérité et Point de vue de Khao Phra Tamnak. Opérateur : ori travel, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Pattaya en privé : Sanctuaire de la Vérité et café de plage",
+  "metaDescription": "Excursion d'une journée entière à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "mini-siam-entry-ticket-in-pattaya": {
   "title": "Mini Siam à Pattaya : billet d'entrée",
