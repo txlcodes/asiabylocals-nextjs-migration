@@ -11027,6 +11027,36 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "The View Pattaya: Kochkurs mit Trompe-l'œil-Gerichten",
   "metaDescription": "2,5-stündige Tour in Pattaya. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "pattaya-day-trip-with-workshops-and-thai-costume": {
+  "title": "Tagesausflug in Pattaya mit Workshops und Thai-Kostüm",
+  "fullDescription": "Dies ist ein 9-stündiges Erlebnis in Pattaya, rund um Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nPattaya, zwei Stunden südöstlich von Bangkok, ist die Ferienstadt, die in den 1960er-Jahren aus einem amerikanischen Erholungsposten wuchs, und sie ist zwei Orte: die Bars an der Strandstraße und die Walking Street nach Einbruch der Dunkelheit, und eine Reihe von Familienattraktionen, die zu den besten des Landes gehören. Das Sanctuary of Truth ist ein 105 Meter hoher Tempel aus geschnitztem Teakholz, 1981 begonnen und bis heute unvollendet, ganz ohne Nägel. Der tropische Garten Nong Nooch umfasst 500 Acre Formschnitt und Orchideen. Koh Larn, 40 Minuten mit der Fähre, hat die sauberen Strände, die Pattaya selbst fehlen. Tiffany's und Alcazar sind die zwei seit Langem laufenden Cabaret-Shows, und die Wahrheit ist, dass Pattaya mit Kindern leichter ist, als sein Ruf vermuten lässt.\n\nIm Preis enthalten sind Hoteltransfer hin und zurück, Eintritt in das thailändische Kulturdorf, Verleih traditioneller thailändischer Kleidung, Thailändisches Mittagsbuffet und 1 ausgewählter Workshop und 1 Bonus-Workshop. Nicht enthalten sind Persönliche Ausgaben, Getränke zum Mittagessen und Trinkgelder für Fahrer oder einheimisches Personal, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nBangkok. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Pattaya",
+   "Dauer: 9 Stunden",
+   "Hoteltransfer hin und zurück (Stadtgebiet Bangkok)",
+   "Eintritt in das thailändische Kulturdorf",
+   "Verleih traditioneller thailändischer Kleidung",
+   "Thailändisches Mittagsbuffet"
+  ],
+  "included": [
+   "Hoteltransfer hin und zurück (Stadtgebiet Bangkok)",
+   "Eintritt in das thailändische Kulturdorf",
+   "Verleih traditioneller thailändischer Kleidung",
+   "Thailändisches Mittagsbuffet",
+   "1 ausgewählter Workshop und 1 Bonus-Workshop",
+   "Ticket für die Kulturshow",
+   "Museumspass",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Getränke zum Mittagessen (sofern nicht anders angegeben)",
+   "Trinkgelder für Fahrer oder einheimisches Personal"
+  ],
+  "shortDescription": "Ganztägige Tour in Pattaya, mit Pattaya. Durchgeführt von Cruisingee, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Tagesausflug in Pattaya mit Workshops und Thai-Kostüm",
+  "metaDescription": "Ganztägige Tour in Pattaya. Enthalten: Hoteltransfer hin und zurück. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "ko-larn-island-vip-private-day-trip-with-water-activities-in-pattaya": {
   "title": "Insel Ko Larn: private VIP-Tagestour mit Wasseraktivitäten",
   "fullDescription": "Dies ist ein ganztägiges Erlebnis ab Pattaya, rund um Bus/Reisebus und Ko Lan. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nPattaya, zwei Stunden südöstlich von Bangkok, ist die Ferienstadt, die in den 1960er-Jahren aus einem amerikanischen Erholungsposten wuchs, und sie ist zwei Orte: die Bars an der Strandstraße und die Walking Street nach Einbruch der Dunkelheit, und eine Reihe von Familienattraktionen, die zu den besten des Landes gehören. Das Sanctuary of Truth ist ein 105 Meter hoher Tempel aus geschnitztem Teakholz, 1981 begonnen und bis heute unvollendet, ganz ohne Nägel. Der tropische Garten Nong Nooch umfasst 500 Acre Formschnitt und Orchideen. Koh Larn, 40 Minuten mit der Fähre, hat die sauberen Strände, die Pattaya selbst fehlen. Tiffany's und Alcazar sind die zwei seit Langem laufenden Cabaret-Shows, und die Wahrheit ist, dass Pattaya mit Kindern leichter ist, als sein Ruf vermuten lässt.\n\nIm Preis enthalten sind Hin- und Rücktransport im VIP-Van, Eigener Fahrer, Chinesischsprachiger Guide, Mittagessen auf Coral Island und Gebühren für die Aktivitäten. Nicht enthalten sind Trinkgeld und Sonstige persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nBangkok Yai. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -11177,6 +11207,33 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Pattaya, inklusive Guide, Wasser in Flaschen und Klimatisiertes Fahrzeug. Durchgeführt von CanalTour x ExploreSiam, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Insel Koh Larn und Art in Paradise an einem Tag",
   "metaDescription": "Ganztägige Tour in Pattaya. Enthalten: Guide und Wasser in Flaschen. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "laem-chabang-private-city-tour-and-sanctuary-of-truth-in-pattaya": {
+  "title": "Laem Chabang: private Stadttour und Sanctuary of Truth",
+  "fullDescription": "Dies ist ein 4,5-stündiges Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nPattaya, zwei Stunden südöstlich von Bangkok, ist die Ferienstadt, die in den 1960er-Jahren aus einem amerikanischen Erholungsposten wuchs, und sie ist zwei Orte: die Bars an der Strandstraße und die Walking Street nach Einbruch der Dunkelheit, und eine Reihe von Familienattraktionen, die zu den besten des Landes gehören. Das Sanctuary of Truth ist ein 105 Meter hoher Tempel aus geschnitztem Teakholz, 1981 begonnen und bis heute unvollendet, ganz ohne Nägel. Der tropische Garten Nong Nooch umfasst 500 Acre Formschnitt und Orchideen. Koh Larn, 40 Minuten mit der Fähre, hat die sauberen Strände, die Pattaya selbst fehlen. Tiffany's und Alcazar sind die zwei seit Langem laufenden Cabaret-Shows, und die Wahrheit ist, dass Pattaya mit Kindern leichter ist, als sein Ruf vermuten lässt.\n\nAbholung ist ab Laem Chabang und Terminal Cruise möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit PattayaCentral abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Privater Transport hin und zurück, Klimatisiertes Fahrzeug, Eintritt ins Sanctuary of Truth, Eintrittsgebühren des Kreuzfahrtterminals und Guide im Sanctuary of Truth. Nicht enthalten sind Speisen und Getränke, Persönliche Ausgaben und Privater Reiseleiter, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 4,5 Stunden",
+   "Privater Transport hin und zurück",
+   "Klimatisiertes Fahrzeug",
+   "Eintritt ins Sanctuary of Truth",
+   "Eintrittsgebühren des Kreuzfahrtterminals",
+   "Englischsprachiger Guide im Sanctuary of Truth"
+  ],
+  "included": [
+   "Privater Transport hin und zurück",
+   "Klimatisiertes Fahrzeug",
+   "Eintritt ins Sanctuary of Truth",
+   "Eintrittsgebühren des Kreuzfahrtterminals",
+   "Englischsprachiger Guide im Sanctuary of Truth"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke",
+   "Persönliche Ausgaben",
+   "Privater Reiseleiter (optional zubuchbar)"
+  ],
+  "shortDescription": "Halbtägige Tour in Pattaya, inklusive Privater Transport hin und zurück, Klimatisiertes Fahrzeug und Eintritt ins Sanctuary of Truth. Durchgeführt von PattayaCentral, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Laem Chabang: private Stadttour und Sanctuary of Truth",
+  "metaDescription": "Halbtägige Tour in Pattaya. Enthalten: Privater Transport hin und zurück. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "pattaya-and-samaesan-2-day-wreck-diving-for-experience-divers-by-local-operator": {
   "title": "Pattaya und Samaesan: 2 Tage Wracktauchen für Erfahrene",
@@ -11348,6 +11405,36 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Pattaya, inklusive Das von Ihnen gewählte Paket, Ticket für die Oriental Atlantis Cruise und Show und Live-Auftritt. Durchgeführt von THAILAND SKYDIVING, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Oriental Atlantis in Pattaya: Buffet und Show, Paket Plus",
   "metaDescription": "Tour in Pattaya. Enthalten: Das von Ihnen gewählte Paket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "from-bangkok-koh-larn-full-day-adventure-with-shooting-range-pattaya": {
+  "title": "Ab Bangkok: Tagesabenteuer auf Koh Larn mit Schießstand",
+  "fullDescription": "Dies ist ein 12-stündiges Erlebnis ab Pattaya, rund um Bali-Hai-Pier, Ko Lan und Schießstand. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nPattaya, zwei Stunden südöstlich von Bangkok, ist die Ferienstadt, die in den 1960er-Jahren aus einem amerikanischen Erholungsposten wuchs, und sie ist zwei Orte: die Bars an der Strandstraße und die Walking Street nach Einbruch der Dunkelheit, und eine Reihe von Familienattraktionen, die zu den besten des Landes gehören. Das Sanctuary of Truth ist ein 105 Meter hoher Tempel aus geschnitztem Teakholz, 1981 begonnen und bis heute unvollendet, ganz ohne Nägel. Der tropische Garten Nong Nooch umfasst 500 Acre Formschnitt und Orchideen. Koh Larn, 40 Minuten mit der Fähre, hat die sauberen Strände, die Pattaya selbst fehlen. Tiffany's und Alcazar sind die zwei seit Langem laufenden Cabaret-Shows, und die Wahrheit ist, dass Pattaya mit Kindern leichter ist, als sein Ruf vermuten lässt.\n\nIm Preis enthalten sind Klimatisiertes Fahrzeug, Privater Transport, Treibstoffzuschlag, Parkgebühren und Fahrer. Nicht enthalten sind Persönliche Ausgaben, Speisen und Getränke, Gebühren für das Schießpaket und Gebühren für die Wasseraktivitäten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nBangkok. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bali-Hai-Pier",
+   "Ko Lan",
+   "Schießstand",
+   "Dauer: 12 Stunden",
+   "Klimatisiertes Fahrzeug",
+   "Privater Transport"
+  ],
+  "included": [
+   "Klimatisiertes Fahrzeug",
+   "Privater Transport",
+   "Treibstoffzuschlag",
+   "Parkgebühren",
+   "Englischsprachiger Fahrer"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Speisen und Getränke",
+   "Gebühren für das Schießpaket",
+   "Gebühren für die Wasseraktivitäten",
+   "Schnellboot- oder Fährtickets nach Koh Larn und zurück",
+   "Überzeit: 600 THB pro Stunde"
+  ],
+  "shortDescription": "Ganztägige Tour in Pattaya, mit Bali-Hai-Pier, Ko Lan und Schießstand. Durchgeführt von Skyway Tours, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ab Bangkok: Tagesabenteuer auf Koh Larn mit Schießstand",
+  "metaDescription": "Ganztägige Tour in Pattaya. Enthalten: Klimatisiertes Fahrzeug. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "flying-experience-top-pick-by-tsa-thailand": {
   "title": "Flugerlebnis (unser Favorit) mit TSA Thailand",
@@ -12155,7 +12242,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Persönliche Ausgaben"
   ],
-  "shortDescription": "Halbtägige Tour in Pattaya, mit Bali Hai Pier, Pattaya, Schnellboot und Ko Lan. Durchgeführt von Big Cat Travel Co., Ltd., direkt gebucht statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbtägige Tour in Pattaya, mit Bali-Hai-Pier, Pattaya, Schnellboot und Ko Lan. Durchgeführt von Big Cat Travel Co., Ltd., direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Pattaya und Koh Lan: Hotelabholung, Schnorcheln und Spa optional",
   "metaDescription": "Halbtägige Tour in Pattaya. Enthalten: Guide mit Chinesisch oder Englisch. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
@@ -12176,6 +12263,30 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Eintrittskarte in Pattaya, inklusive Eintrittskarte für den Pado Media Art Space und Zugang zu allen thematischen Digitalbereichen. Durchgeführt von Pado Media Art Space, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "PADO Media Art in Pattaya: Ticket für die interaktive Ausstellung",
   "metaDescription": "Eintrittskarte in Pattaya. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "khao-kheow-zoo-and-j-park-japanese-village-day-trip-in-pattaya": {
+  "title": "Khao-Kheow-Zoo und japanisches Dorf J-Park an einem Tag",
+  "fullDescription": "Dies ist ein 7-stündiges Erlebnis ab Pattaya, rund um Khao Kheow Open Zoo. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Privater Hin- und Rücktransfer ab Pattaya, Eintrittskarte für den Zoo Khao Kheow und Fahrt im geteilten Zoo-Tram. Nicht enthalten sind Speisen und Getränke, Golfwagen mit Fahrer im Zoo und Einkäufe im J-Park, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nPattaya City. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Khao Kheow Open Zoo",
+   "Dauer: 7 Stunden",
+   "Privater Hin- und Rücktransfer ab Pattaya",
+   "Eintrittskarte für den Zoo Khao Kheow",
+   "Fahrt im geteilten Zoo-Tram (Halte an den wichtigsten vorgesehenen Stationen)"
+  ],
+  "included": [
+   "Privater Hin- und Rücktransfer ab Pattaya",
+   "Eintrittskarte für den Zoo Khao Kheow",
+   "Fahrt im geteilten Zoo-Tram (Halte an den wichtigsten vorgesehenen Stationen)"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke",
+   "Golfwagen mit Fahrer im Zoo",
+   "Einkäufe im J-Park"
+  ],
+  "shortDescription": "Ganztägige Tour in Pattaya, mit Khao Kheow Open Zoo. Durchgeführt von PattayaCentral, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Khao-Kheow-Zoo und japanisches Dorf J-Park an einem Tag",
+  "metaDescription": "Ganztägige Tour in Pattaya. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "colosseum-show-entry-ticket-for-foreigners-in-pattaya": {
   "title": "Colosseum Show in Pattaya: Eintrittskarte für Ausländer",
@@ -12299,6 +12410,39 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Oriental Atlantis: Dinnerfahrt und Cabaret in Pattaya",
   "metaDescription": "Tour in Pattaya. Enthalten: Das von Ihnen gewählte Paket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "3-island-adventure-with-sunset-and-buffet-lunch-in-pattaya": {
+  "title": "3 Inseln mit Sonnenuntergang und Buffet-Mittagessen in Pattaya",
+  "fullDescription": "Dies ist ein 7,5-stündiges Erlebnis ab Pattaya, rund um Katamaran, Koh Phai und Aussichtspunkt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Kreuzfahrt über 7 bis 8 Stunden, Marinagebühr, Inselgebühr, Touristenversicherung und Abholung und Rückfahrt zum Hotel. Nicht enthalten sind Alkohol und Eis, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nPattaya City. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Katamaran",
+   "Koh Phai",
+   "Aussichtspunkt",
+   "Dauer: 7,5 Stunden",
+   "Kreuzfahrt über 7 bis 8 Stunden",
+   "Marinagebühr"
+  ],
+  "included": [
+   "Kreuzfahrt über 7 bis 8 Stunden",
+   "Marinagebühr",
+   "Inselgebühr",
+   "Touristenversicherung",
+   "Abholung und Rückfahrt zum Hotel",
+   "Yacht mit Crew",
+   "Englischsprachiger Reiseleiter",
+   "Thai-Buffet",
+   "Obst",
+   "Snacks",
+   "Getränke (ohne Alkohol)",
+   "Handtücher"
+  ],
+  "notIncluded": [
+   "Alkohol",
+   "Eis"
+  ],
+  "shortDescription": "Tour in Pattaya, mit Katamaran, Koh Phai and Koh Rin und Provinz Chonburi. Durchgeführt von Serenity Yachting Co. Ltd., direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "3 Inseln mit Sonnenuntergang und Buffet-Mittagessen in Pattaya",
+  "metaDescription": "Tour in Pattaya. Enthalten: Kreuzfahrt über 7 bis 8 Stunden und Marinagebühr. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "art-in-paradise-3d-museum-entry-ticket-in-pattaya": {
   "title": "3D-Museum Art in Paradise in Pattaya: Eintrittskarte",
   "fullDescription": "Dies ist ein ganztägiges Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind bevorzugter Einlass ins 3D-Museum Art in Paradise, wo angeboten und Zugang zu den thematischen 3D-Illusionsgalerien. Nicht enthalten sind Abholung und Rückfahrt zum Hotel, Essen und Getränke und persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -12388,6 +12532,93 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Pattaya, inklusive Kursleiter, Klimatisierter Ruhebereich und Auswahl an Waffen und Munition. Durchgeführt von THAILAND SKYDIVING, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Schießen im Battle Mouse Range Club in Pattaya",
   "metaDescription": "Tour in Pattaya. Enthalten: Kursleiter und Klimatisierter Ruhebereich. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "koh-larn-trip-with-thai-massage": {
+  "title": "Koh Larn mit Thai-Massage",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Schnellboot hin und zurück nach Koh Larn, Strandstuhl, Unfallversicherung auf Koh Larn, Transport vom Bali-Hai-Pier zum Herb Sauna Massage und Duschen. Nicht enthalten sind Mahlzeit, Persönliche Ausgaben und Trinkgelder für das Massagepersonal, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 8 Stunden",
+   "Schnellboot hin und zurück nach Koh Larn",
+   "Strandstuhl",
+   "Unfallversicherung auf Koh Larn",
+   "Transport vom Bali-Hai-Pier zum Herb Sauna Massage",
+   "Duschen, Handtuch, Seife und Shampoo"
+  ],
+  "included": [
+   "Schnellboot hin und zurück nach Koh Larn",
+   "Strandstuhl",
+   "Unfallversicherung auf Koh Larn",
+   "Transport vom Bali-Hai-Pier zum Herb Sauna Massage",
+   "Duschen, Handtuch, Seife und Shampoo",
+   "2-stündige Thai-Massage",
+   "1 Getränk im DOI COFFEE GAGASO PATTAYA"
+  ],
+  "notIncluded": [
+   "Mahlzeit",
+   "Persönliche Ausgaben",
+   "Trinkgelder für das Massagepersonal"
+  ],
+  "shortDescription": "Ganztägige Tour in Pattaya, inklusive Schnellboot hin und zurück nach Koh Larn, Strandstuhl und Unfallversicherung auf Koh Larn. Durchgeführt von Bangkok Charm Tour Co.,LTD., direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Koh Larn mit Thai-Massage",
+  "metaDescription": "Ganztägige Tour in Pattaya. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "koh-larn-day-trip-with-sunset-coffee-experience": {
+  "title": "Tagesausflug nach Koh Larn mit Kaffee zum Sonnenuntergang",
+  "fullDescription": "Dies ist ein 6-stündiges Erlebnis ab Pattaya, rund um Schnellboot und Tawaen-Strand. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Optionaler Gratiskaffee bei Albatross Coffee Roasters, Optionaler Halt zum Sonnenuntergang am Strand von Pattaya, Hoteltransfers hin und zurück innerhalb von Pattaya, Hin- und Rücktransfers im Schnellboot und Mittagessen in einem lokalen Restaurant. Nicht enthalten sind Persönliche Ausgaben, Optionale Aktivitäten, die nicht im Paket enthalten sind, Zusätzliche Speisen und Getränke und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nPattaya City. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Schnellboot",
+   "Tawaen-Strand",
+   "Dauer: 6 Stunden",
+   "Optionaler Gratiskaffee bei Albatross Coffee Roasters",
+   "Optionaler Halt zum Sonnenuntergang am Strand von Pattaya",
+   "Hoteltransfers hin und zurück innerhalb von Pattaya"
+  ],
+  "included": [
+   "Optionaler Gratiskaffee bei Albatross Coffee Roasters",
+   "Optionaler Halt zum Sonnenuntergang am Strand von Pattaya",
+   "Hoteltransfers hin und zurück innerhalb von Pattaya",
+   "Hin- und Rücktransfers im Schnellboot",
+   "Mittagessen in einem lokalen Restaurant",
+   "Strandstuhl",
+   "Baden am Thong-Lang-Strand und am Tawaen-Strand",
+   "Aktivitäten, die im gewählten Paket enthalten sind",
+   "Unfallversicherung"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Optionale Aktivitäten, die nicht im Paket enthalten sind",
+   "Zusätzliche Speisen und Getränke",
+   "Trinkgelder (optional)"
+  ],
+  "shortDescription": "Halbtägige Tour in Pattaya, mit Bali-Hai-Pier, Pattaya, Schnellboot und Tawaen-Strand. Durchgeführt von Big Cat Travel Co., Ltd., direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Tagesausflug nach Koh Larn mit Kaffee zum Sonnenuntergang",
+  "metaDescription": "Halbtägige Tour in Pattaya. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "easykart-pattaya-thepprasit-go-kart-racing-experience-by-local-operator": {
+  "title": "EasyKart Pattaya (Thepprasit): Kartrennen-Erlebnis",
+  "fullDescription": "Dies ist ein Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nPattaya, zwei Stunden südöstlich von Bangkok, ist die Ferienstadt, die in den 1960er-Jahren aus einem amerikanischen Erholungsposten wuchs, und sie ist zwei Orte: die Bars an der Strandstraße und die Walking Street nach Einbruch der Dunkelheit, und eine Reihe von Familienattraktionen, die zu den besten des Landes gehören. Das Sanctuary of Truth ist ein 105 Meter hoher Tempel aus geschnitztem Teakholz, 1981 begonnen und bis heute unvollendet, ganz ohne Nägel. Der tropische Garten Nong Nooch umfasst 500 Acre Formschnitt und Orchideen. Koh Larn, 40 Minuten mit der Fähre, hat die sauberen Strände, die Pattaya selbst fehlen. Tiffany's und Alcazar sind die zwei seit Langem laufenden Cabaret-Shows, und die Wahrheit ist, dass Pattaya mit Kindern leichter ist, als sein Ruf vermuten lässt.\n\nIm Preis enthalten sind Sicherheitsausrüstung, Schließfachschlüssel, Zugang zur Boxengasse und zur Panoramaterrasse, Ausgedrucktes digitales Zeitmessergebnis und Zugang zum Podium. Nicht enthalten sind Sportschuhe, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Sicherheitsausrüstung (Helm, bei Bedarf Rennanzug, Hygienehaube)",
+   "Schließfachschlüssel",
+   "Zugang zur Boxengasse und zur Panoramaterrasse",
+   "Ausgedrucktes digitales Zeitmessergebnis",
+   "Zugang zum Podium",
+   "Parkbereich"
+  ],
+  "included": [
+   "Sicherheitsausrüstung (Helm, bei Bedarf Rennanzug, Hygienehaube)",
+   "Schließfachschlüssel",
+   "Zugang zur Boxengasse und zur Panoramaterrasse",
+   "Ausgedrucktes digitales Zeitmessergebnis",
+   "Zugang zum Podium",
+   "Parkbereich"
+  ],
+  "notIncluded": [
+   "Sportschuhe (leihbar, falls Sie keine eigenen haben)"
+  ],
+  "shortDescription": "Tour in Pattaya, inklusive Sicherheitsausrüstung, Schließfachschlüssel und Zugang zur Boxengasse und zur Panoramaterrasse. Durchgeführt von EasyKart, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "EasyKart Pattaya (Thepprasit): Kartrennen-Erlebnis",
+  "metaDescription": "Tour in Pattaya. Enthalten: Sicherheitsausrüstung und Schließfachschlüssel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "let-s-relax-onsen-and-spa-all-day-pass-in-pattaya": {
   "title": "Let's Relax Onsen & Spa in Pattaya: Tagespass",
@@ -12505,7 +12736,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben",
    "Trinkgelder"
   ],
-  "shortDescription": "Halbtägige Tour in Pattaya, mit Bali Hai Pier, Pattaya, Wat Phra Yai und Gems Gallery in Pattaya. Durchgeführt von XPLORE HOLIDAYS S.A, direkt gebucht statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbtägige Tour in Pattaya, mit Bali-Hai-Pier, Pattaya, Wat Phra Yai und Gems Gallery in Pattaya. Durchgeführt von XPLORE HOLIDAYS S.A, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Buddha, schwimmender Markt, Edelsteinmuseum und Mittagessen",
   "metaDescription": "Halbtägige Tour in Pattaya. Enthalten: Mittagessen und Abholung und Rückfahrt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
@@ -12528,7 +12759,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Fotos an Bord"
   ],
-  "shortDescription": "3-stündige Tour in Pattaya, mit Bali Hai Pier und Pattaya. Durchgeführt von Big Cat Travel Co., Ltd., direkt gebucht statt über einen Wiederverkäufer.",
+  "shortDescription": "3-stündige Tour in Pattaya, mit Bali-Hai-Pier und Pattaya. Durchgeführt von Big Cat Travel Co., Ltd., direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Pattaya, Ocean Sky und Oriental Princess: Buffet-Abendessen",
   "metaDescription": "3-stündige Tour in Pattaya. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
@@ -12689,6 +12920,31 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Tropengarten Nong Nooch: Ticket für Ausländer",
   "metaDescription": "Eintrittskarte in Pattaya. Enthalten: Eintritt je nach gewähltem Paket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "nong-nooch-tropical-garden-tickets-with-private-hotel-pickup-pattaya": {
+  "title": "Tropengarten Nong Nooch: Tickets und private Abholung",
+  "fullDescription": "Dies ist ein ganztägiges Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nPattaya, zwei Stunden südöstlich von Bangkok, ist die Ferienstadt, die in den 1960er-Jahren aus einem amerikanischen Erholungsposten wuchs, und sie ist zwei Orte: die Bars an der Strandstraße und die Walking Street nach Einbruch der Dunkelheit, und eine Reihe von Familienattraktionen, die zu den besten des Landes gehören. Das Sanctuary of Truth ist ein 105 Meter hoher Tempel aus geschnitztem Teakholz, 1981 begonnen und bis heute unvollendet, ganz ohne Nägel. Der tropische Garten Nong Nooch umfasst 500 Acre Formschnitt und Orchideen. Koh Larn, 40 Minuten mit der Fähre, hat die sauberen Strände, die Pattaya selbst fehlen. Tiffany's und Alcazar sind die zwei seit Langem laufenden Cabaret-Shows, und die Wahrheit ist, dass Pattaya mit Kindern leichter ist, als sein Ruf vermuten lässt.\n\nIm Preis enthalten sind Eintrittskarte für den Tropengarten Nong Nooch, Zugang zum Besichtigungsbus, Zugang zu den Shows, Buffet-Mittagessen enthalten und Private Abholung und Rückfahrt am Hotel. Nicht enthalten sind Einkäufe und persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Pattaya. Holidays World Pte Ltd bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: ganztägig",
+   "Eintrittskarte für den Tropengarten Nong Nooch",
+   "Zugang zum Besichtigungsbus",
+   "Zugang zu den Shows",
+   "Buffet-Mittagessen enthalten",
+   "Private Abholung und Rückfahrt am Hotel (optional)"
+  ],
+  "included": [
+   "Eintrittskarte für den Tropengarten Nong Nooch",
+   "Zugang zum Besichtigungsbus",
+   "Zugang zu den Shows",
+   "Buffet-Mittagessen enthalten",
+   "Private Abholung und Rückfahrt am Hotel (optional)"
+  ],
+  "notIncluded": [
+   "Shopping & Personal Expense."
+  ],
+  "shortDescription": "Ganztägige Tour in Pattaya, inklusive Eintrittskarte für den Tropengarten Nong Nooch, Zugang zum Besichtigungsbus und Zugang zu den Shows. Durchgeführt von Holidays World Pte Ltd, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Tropengarten Nong Nooch: Tickets und private Abholung",
+  "metaDescription": "Ganztägige Tour in Pattaya. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "indoor-shooting-range-experience-in-pattaya": {
   "title": "Indoor-Schießstand in Pattaya",
   "fullDescription": "Dies ist ein Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Erlebnis auf dem Indoor-Schießstand, Auswahl an Schusswaffen und Munition, Anleitung durch einen erfahrenen Instructor und Foto- und Videoservice. Nicht enthalten sind Transport zur Anlage und Speisen und Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -12807,6 +13063,39 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Jetski fahren in Pattaya",
   "metaDescription": "0,5-stündige Tour in Pattaya. Enthalten: Jetski-Verleih. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "exclusive-3-island-catamaran-tour-with-buffet-lunch-in-pattaya": {
+  "title": "3 Inseln exklusiv per Katamaran, mit Buffet-Mittagessen",
+  "fullDescription": "Dies ist ein 7,5-stündiges Erlebnis ab Pattaya, rund um Katamaran und Koh Phai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 7-stündige Kreuzfahrt, Marinagebühr, Inselgebühr, Touristenversicherung und Transport. Nicht enthalten sind Alkohol und Eis, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nPattaya City. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Katamaran",
+   "Koh Phai",
+   "Dauer: 7,5 Stunden",
+   "7-stündige Kreuzfahrt",
+   "Marinagebühr",
+   "Inselgebühr"
+  ],
+  "included": [
+   "7-stündige Kreuzfahrt",
+   "Marinagebühr",
+   "Inselgebühr",
+   "Touristenversicherung",
+   "Transport",
+   "Yacht mit Crew",
+   "Guide mit Englisch, Russisch, Chinesisch, Französisch oder Thai",
+   "Thai-Buffet",
+   "Obst",
+   "Snacks",
+   "Getränke (ohne Alkohol)",
+   "Handtücher"
+  ],
+  "notIncluded": [
+   "Alkohol",
+   "Eis"
+  ],
+  "shortDescription": "Tour in Pattaya, mit Katamaran, Koh Phai and Koh Rin und Provinz Chonburi. Durchgeführt von Serenity Yachting Co. Ltd., direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "3 Inseln exklusiv per Katamaran, mit Buffet-Mittagessen",
+  "metaDescription": "Tour in Pattaya. Enthalten: 7-stündige Kreuzfahrt und Marinagebühr. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "private-pattaya-day-tour-sanctuary-of-truth-and-beach-caf-by-local-operator": {
   "title": "Pattaya privat: Sanctuary of Truth und Strandcafé",
   "fullDescription": "Dies ist ein 10-stündiges Erlebnis ab Pattaya, rund um Sanctuary of Truth und Aussichtspunkt Khao Phra Tamnak. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nPattaya, zwei Stunden südöstlich von Bangkok, ist die Ferienstadt, die in den 1960er-Jahren aus einem amerikanischen Erholungsposten wuchs, und sie ist zwei Orte: die Bars an der Strandstraße und die Walking Street nach Einbruch der Dunkelheit, und eine Reihe von Familienattraktionen, die zu den besten des Landes gehören. Das Sanctuary of Truth ist ein 105 Meter hoher Tempel aus geschnitztem Teakholz, 1981 begonnen und bis heute unvollendet, ganz ohne Nägel. Der tropische Garten Nong Nooch umfasst 500 Acre Formschnitt und Orchideen. Koh Larn, 40 Minuten mit der Fähre, hat die sauberen Strände, die Pattaya selbst fehlen. Tiffany's und Alcazar sind die zwei seit Langem laufenden Cabaret-Shows, und die Wahrheit ist, dass Pattaya mit Kindern leichter ist, als sein Ruf vermuten lässt.\n\nIm Preis enthalten sind Eintrittskarte für das Sanctuary of Truth, Besuch des Aussichtspunkts Khao Phra Tamnak und Abholung und Rückfahrt am Hotel in Bangkok. Nicht enthalten sind Mahlzeiten und weitere Getränke und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nBangkok. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -12848,6 +13137,36 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Eintrittskarte in Pattaya, inklusive Eintrittskarte für Mini Siam Pattaya. Durchgeführt von GlobalTix (Thailand) Co., Ltd., direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Mini Siam in Pattaya: Eintrittskarte",
   "metaDescription": "Eintrittskarte in Pattaya. Enthalten: Eintrittskarte für Mini Siam Pattaya. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "guided-city-tour-with-floating-market-and-lunch": {
+  "title": "Geführte Stadttour mit schwimmendem Markt und Mittagessen",
+  "fullDescription": "Dies ist ein 5-stündiges Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel rund um die Pattaya Beach Road, Klimatisierter Transport, Einheimischer Guide, Alle im Programm erwähnten Besichtigungshalte und Besuch des schwimmenden Markts. Nicht enthalten sind Persönliche Ausgaben, Trinkgelder und Optionale Seefahrt, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Pattaya. AMAKA TOURS TRAVEL bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 5 Stunden",
+   "Abholung und Rückfahrt am Hotel rund um die Pattaya Beach Road",
+   "Klimatisierter Transport",
+   "Professioneller einheimischer Reiseleiter",
+   "Alle im Programm erwähnten Besichtigungshalte",
+   "Besuch des schwimmenden Markts"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel rund um die Pattaya Beach Road",
+   "Klimatisierter Transport",
+   "Professioneller einheimischer Reiseleiter",
+   "Alle im Programm erwähnten Besichtigungshalte",
+   "Besuch des schwimmenden Markts",
+   "Besuch des Laser-Buddha-Bergs",
+   "Besuch der Gems Gallery",
+   "Einheimisches und indisches Mittagessen"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder",
+   "Optionale Seefahrt"
+  ],
+  "shortDescription": "Halbtägige Tour in Pattaya, inklusive Abholung und Rückfahrt am Hotel rund um die Pattaya Beach Road, Klimatisierter Transport und Einheimischer Guide. Durchgeführt von AMAKA TOURS TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Geführte Stadttour mit schwimmendem Markt und Mittagessen",
+  "metaDescription": "Halbtägige Tour in Pattaya. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "the-sanctuary-of-truth-with-private-transfer-in-pattaya": {
   "title": "Sanctuary of Truth in Pattaya mit privatem Transfer",
@@ -12973,6 +13292,35 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "3-stündige Tour in Pattaya, mit Schwimmender Markt von Pattaya. Durchgeführt von Sun Leisure World Corporation, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Schwimmender Markt mit Hoteltransfer und Guide",
   "metaDescription": "3-stündige Tour in Pattaya. Enthalten: Transfer für Hin- und Rückweg und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "khao-kheow-zoo-private-tour-with-pickup-in-pattaya": {
+  "title": "Khao-Kheow-Zoo: Privattour mit Abholung",
+  "fullDescription": "Dies ist ein 6-stündiges Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nPattaya, zwei Stunden südöstlich von Bangkok, ist die Ferienstadt, die in den 1960er-Jahren aus einem amerikanischen Erholungsposten wuchs, und sie ist zwei Orte: die Bars an der Strandstraße und die Walking Street nach Einbruch der Dunkelheit, und eine Reihe von Familienattraktionen, die zu den besten des Landes gehören. Das Sanctuary of Truth ist ein 105 Meter hoher Tempel aus geschnitztem Teakholz, 1981 begonnen und bis heute unvollendet, ganz ohne Nägel. Der tropische Garten Nong Nooch umfasst 500 Acre Formschnitt und Orchideen. Koh Larn, 40 Minuten mit der Fähre, hat die sauberen Strände, die Pattaya selbst fehlen. Tiffany's und Alcazar sind die zwei seit Langem laufenden Cabaret-Shows, und die Wahrheit ist, dass Pattaya mit Kindern leichter ist, als sein Ruf vermuten lässt.\n\nIm Preis enthalten sind Versicherung, Mautgebühren, Parkgebühren, Eintrittskarte für den Khao Kheow Open Zoo und Fahrer. Nicht enthalten sind Kosten für Mahlzeiten, Trinkgelder, Persönliche Ausgaben und Fütterung der Tiere, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 6 Stunden",
+   "Versicherung",
+   "Mautgebühren",
+   "Parkgebühren",
+   "Eintrittskarte für den Khao Kheow Open Zoo (alle Bereiche)",
+   "Freundlicher Fahrer"
+  ],
+  "included": [
+   "Versicherung",
+   "Mautgebühren",
+   "Parkgebühren",
+   "Eintrittskarte für den Khao Kheow Open Zoo (alle Bereiche)",
+   "Freundlicher Fahrer"
+  ],
+  "notIncluded": [
+   "Kosten für Mahlzeiten",
+   "Trinkgelder",
+   "Persönliche Ausgaben",
+   "Fütterung der Tiere",
+   "Mietgebühr für den Golfwagen in der Green Zone"
+  ],
+  "shortDescription": "Halbtägige Tour in Pattaya, inklusive Versicherung, Mautgebühren und Parkgebühren. Durchgeführt von SST Global Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Khao-Kheow-Zoo: Privattour mit Abholung",
+  "metaDescription": "Halbtägige Tour in Pattaya. Enthalten: Versicherung und Mautgebühren. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "maeklong-railway-and-floating-market-tour": {
   "title": "Bahnmarkt von Maeklong und schwimmender Markt",
