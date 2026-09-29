@@ -44,7 +44,8 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   'agra-gatimaan-express-tour': 'delhi-agra-round-trip-gatimaan-train',
   'agra-gatimaan-entry-ticket': 'delhi-agra-round-trip-gatimaan-train',
   // Fatehpur day-trip intent → taj-mahal-fatehpur-full-day-tour
-  'taj-mahal-fatehpur-guided-tour': 'taj-mahal-fatehpur-full-day-tour',
+  'taj-mahal-fatehpur-guided-tour':
+    'agra-guided-tour-of-taj-mahal-agra-fort-and',
 
   // ---- SWEEP (2026-09-16): title-similarity pass over every city, then read
   // by hand. Only same-product pages are mapped; different day counts,
@@ -72,12 +73,12 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   // itself a duplicate of taj-mahal-delhi-sunrise-tour. Google does not
   // follow a canonical to a second canonical, so the signal was going
   // nowhere. Points at the end of the chain now.
-  'taj-mahal-sunrise-elephant-conservation-tour': 'taj-mahal-delhi-sunrise-tour',
+  'taj-mahal-sunrise-elephant-conservation-tour':
+    'sunrise-taj-mahal-tour-delhi-all-inclusive',
   // Delhi: one more Old+New Delhi city tour the 2026-08-25 pass missed
-  'india-gate-full-day-tour': 'explore-old-new-delhi-city-luxury-car-tour',
+  'india-gate-full-day-tour':
+    'old-new-delhi-private-tour',
   // Mumbai: same-day and overnight Taj by flight, two operators each
-  'same-day-taj-mahal-tour-from-mumbai-by-flight': 'same-day-taj-mahal-tour-from-mumbai',
-  'taj-mahal-overnight-tour-from-mumbai-by-flight': 'overnight-taj-mahal-tour-from-mumbai',
   // Udaipur: private full-day sightseeing with guide, $80 vs $29
   'city-palace-sightseeing-full-day-tour': 'lake-pichola-full-day-tour',
   // Colombo: Yala day trip, two operators
@@ -113,14 +114,20 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
 
   // ---- DELHI (2026-08-25): 39/42 tour pages invisible; champions = the 5 owned tours ----
   // Old/New Delhi city-tour intent → explore-old-new-delhi-city-luxury-car-tour (owned)
-  'old-delhi-new-delhi-trails-private-tour': 'explore-old-new-delhi-city-luxury-car-tour',
-  'delhi-old-new-delhi-private-full-half-day-tour': 'explore-old-new-delhi-city-luxury-car-tour',
-  'old-new-delhi-private-half-day-tour': 'explore-old-new-delhi-city-luxury-car-tour',
-  'old-new-delhi-guided-tour': 'explore-old-new-delhi-city-luxury-car-tour',
-  'old-new-delhi-private-tour': 'explore-old-new-delhi-city-luxury-car-tour',
-  'delhi-full-day-guided-tour': 'explore-old-new-delhi-city-luxury-car-tour',
-  'delhi-sightseeing-half-day-tour': 'explore-old-new-delhi-city-luxury-car-tour',
-  'delhi-same-day-sightseeing-tour': 'explore-old-new-delhi-city-luxury-car-tour',
+  'old-delhi-new-delhi-trails-private-tour':
+    'old-new-delhi-private-tour',
+  'delhi-old-new-delhi-private-full-half-day-tour':
+    'old-new-delhi-private-tour',
+  'old-new-delhi-private-half-day-tour':
+    'old-new-delhi-private-tour',
+  'old-new-delhi-guided-tour':
+    'old-new-delhi-private-tour',
+  'delhi-full-day-guided-tour':
+    'old-new-delhi-private-tour',
+  'delhi-sightseeing-half-day-tour':
+    'old-new-delhi-private-tour',
+  'delhi-same-day-sightseeing-tour':
+    'old-new-delhi-private-tour',
   // Taj-from-Delhi-by-car intent → private-taj-mahal-tour-from-delhi (owned)
   'delhi-agra-private-tour': 'private-taj-mahal-tour-from-delhi',
   'private-taj-mahal-agra-day-tour-from-delhi': 'private-taj-mahal-tour-from-delhi',
@@ -129,8 +136,8 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   'taj-mahal-same-day-express-train-tour': 'taj-mahal-tour-by-train-gatimaan',
   'hazrat-nizamuddin-railway-station-delhi-express-tour': 'taj-mahal-tour-by-train-gatimaan',
   // Sunrise-from-Delhi intent → taj-mahal-delhi-sunrise-tour (crowned; no owned equivalent)
-  'delhi-agra-sunrise-tour': 'taj-mahal-delhi-sunrise-tour',
-  'sunrise-taj-mahal-tour-delhi-all-inclusive': 'taj-mahal-delhi-sunrise-tour',
+  'delhi-agra-sunrise-tour':
+    'sunrise-taj-mahal-tour-delhi-all-inclusive',
   // Golden Triangle generic → golden-triangle-3-day-tour-from-delhi (owned; day-count and
   // safari variants are distinct products and stay unmapped)
   'golden-triangle-tour-delhi-agra-jaipur': 'golden-triangle-3-day-tour-from-delhi',
@@ -138,7 +145,6 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   'india-gate-approved-guided-tour': 'india-gate-guided-tour',
   'india-gate-triangle-guided-tour': 'india-gate-guided-tour',
   // Delhi→Jaipur day trip → delhi-to-jaipur-same-day-tour-by-car
-  'delhi-to-jaipur-royal-private-day-tour': 'delhi-to-jaipur-same-day-tour-by-car',
 
   // ---- JAIPUR (2026-08-25): 20/23 invisible; champions = proven performers ----
   // City sightseeing intent → jaipur-city-highlights-tour-with-amber-fort-hawa-mahal
@@ -208,18 +214,14 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   // Bangkok — longtail canal cruise pair
   'museum-siam-boat-tour': 'bangkok-longtail-boat-canal-cruise-hidden-temples',
   // Bangkok — Golden Mount ticket/tour same-product pair
-  'wat-saket-entry-ticket': 'wat-saket-guided-tour',
   // Phuket — James Bond Island day-tour clones (private + evening stay: distinct)
   'hong-island-guided-tour': 'james-bond-island-speedboat-tour-phuket',
   // Phuket — bioluminescent Phang Nga pair (89i page is champion)
-  'panak-island-boat-tour': 'panak-island-guided-tour',
   // Phuket — Phi Phi day-trip clones (private yacht + Khai variant stay)
   'maya-bay-full-day-tour': 'phi-phi-islands-speedboat-tour-maya-bay-snorkeling',
   'maya-bay-speedboat-boat-tour': 'phi-phi-islands-speedboat-tour-maya-bay-snorkeling',
   // Phuket — same reserve, AM/PM variants
-  'hidden-forest-elephant-reserve-afternoon-tour': 'hidden-forest-elephant-reserve-guided-tour',
   // Phuket — identical-title duplicate
-  'phuket-amulet-market-painting-walking-tour': 'phuket-amulet-market-walking-tour',
   // Phuket — city/old-town tour pair (half-day → full-day champion)
   'old-town-phuket-guided-tour': 'phuket-old-town-full-day-tour',
   // Pattaya — Koh Larn pair
@@ -391,18 +393,14 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   'agra-royal-trip-taj-mahal-agra-fort-baby-taj':
     'taj-mahal-agra-fort-baby-taj-full-day-trip',
   // Agra: 2 pages on one intent -> taj-mahal-agra-private-day-tour-with-lunch
-  'agra-taj-mahal-agra-fort-private-tour-with-5lunch':
-    'taj-mahal-agra-private-day-tour-with-lunch',
   // Agra: 2 pages on one intent -> taj-mahal-entry-tickets
   'book-entrance-tickets-of-taj-mahal-with-express-en':
     'taj-mahal-entry-tickets',
   // Agra: 4 pages on one intent -> taj-mahal-fatehpur-full-day-tour
-  'agra-guided-tour-of-taj-mahal-agra-fort-and':
-    'taj-mahal-fatehpur-full-day-tour',
   'agra-taj-mahal-agra-fort-fatehpur-sikri-guided-tou':
-    'taj-mahal-fatehpur-full-day-tour',
+    'agra-guided-tour-of-taj-mahal-agra-fort-and',
   'from-agra-half-day-fatehpur-sikri-guided-tour':
-    'taj-mahal-fatehpur-full-day-tour',
+    'agra-guided-tour-of-taj-mahal-agra-fort-and',
   // Agra: 2 pages on one intent -> taj-mahal-guided-tour-with-skip-the-line-entry
   'agra-entry-entry-ticket':
     'taj-mahal-guided-tour-with-skip-the-line-entry',
@@ -488,8 +486,6 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
   'golden-triangle-tour-india-5-days-delhi-agra-and':
     '5-days-golden-triangle-tour-delhi-agra-jaipur-high',
   // Delhi: 2 pages on one intent -> 5-days-golden-triangle-tour-from-delhi
-  'classic-golden-triangle-tour-from-delhi-5-days-4':
-    '5-days-golden-triangle-tour-from-delhi',
   // Delhi: 2 pages on one intent -> 6-day-private-golden-triangle-varanasi-tour-from-d
   'delhi-varanasi-private-tour':
     '6-day-private-golden-triangle-varanasi-tour-from-d',
@@ -559,17 +555,17 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
     'delhi-to-agra-private-day-tour-with-taj-mahal',
   // Delhi: 7 pages on one intent -> explore-old-new-delhi-city-luxury-car-tour
   'all-inclusive-old-and-new-delhi-full-day-private':
-    'explore-old-new-delhi-city-luxury-car-tour',
+    'old-new-delhi-private-tour',
   'delhi-old-new-delhi-full-day-private-tour-with':
-    'explore-old-new-delhi-city-luxury-car-tour',
+    'old-new-delhi-private-tour',
   'delhi-old-new-delhi-private-full-or-half-day':
-    'explore-old-new-delhi-city-luxury-car-tour',
+    'old-new-delhi-private-tour',
   'delhi-private-full-day-city-tour-of-old-and':
-    'explore-old-new-delhi-city-luxury-car-tour',
+    'old-new-delhi-private-tour',
   'delhi-private-full-or-half-day-old-and-new':
-    'explore-old-new-delhi-city-luxury-car-tour',
+    'old-new-delhi-private-tour',
   'exclusive-private-full-day-guided-tour-of-old-and':
-    'explore-old-new-delhi-city-luxury-car-tour',
+    'old-new-delhi-private-tour',
   // Delhi: 3 pages on one intent -> from-delhi-3-day-all-inclusive-private-golden-tria
   'from-delhi-private-3-day-golden-triangle-luxury-to':
     'from-delhi-3-day-all-inclusive-private-golden-tria',
@@ -591,13 +587,11 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
     'golden-triangle-3-day-tour-from-delhi',
   // Delhi: 5 pages on one intent -> golden-triangle-ranthambore-tiger-safari-4-days
   'delhi-4-day-golden-triangle-ranthambore-tiger-safa':
-    'golden-triangle-ranthambore-tiger-safari-4-days',
+    'from-delhi-4-day-golden-triangle-ranthambore-tiger',
   'delhi-ranthambore-guided-tour':
-    'golden-triangle-ranthambore-tiger-safari-4-days',
+    'from-delhi-4-day-golden-triangle-ranthambore-tiger',
   'delhi-safari-guided-tour':
-    'golden-triangle-ranthambore-tiger-safari-4-days',
-  'from-delhi-4-day-golden-triangle-ranthambore-tiger':
-    'golden-triangle-ranthambore-tiger-safari-4-days',
+    'from-delhi-4-day-golden-triangle-ranthambore-tiger',
   // Delhi: 2 pages on one intent -> mumbai-to-taj-mahal-3-day-trip-with-jaipur
   'mumbai-3-days-taj-mahal-agra-jaipur-sightseeing-to':
     'mumbai-to-taj-mahal-3-day-trip-with-jaipur',
@@ -1090,6 +1084,149 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
     'trekking-to-y-linh-ho-lao-chai-and-ta-van-villages-in-sapa',
   'y-linh-ho-lao-chai-and-ta-van-trekking-tour-in-sapa-2':
     'trekking-to-y-linh-ho-lao-chai-and-ta-van-villages-in-sapa',
+  // ---- Golden Triangle consolidation, 2026-09-29 ----
+  // From GT_DUPLICATE_PROPOSAL.md, confident clusters only. Four candidates
+  // were held back because Google already shows them and shows nothing for
+  // their champion; folding those in would trade a known signal for none.
+  // 9 pages -> taj-mahal-agra-fort-baby-taj-full-day-trip
+  'from-delhi-or-jaipur-taj-mahal-agra-fort-private':
+    'taj-mahal-agra-fort-baby-taj-full-day-trip',
+  'from-delhiagra-taj-mahal-tour-with-rental-saree-ex':
+    'taj-mahal-agra-fort-baby-taj-full-day-trip',
+  'from-delhi-taj-mahal-agra-tour-with-5-star':
+    'taj-mahal-agra-fort-baby-taj-full-day-trip',
+  'from-delhi-taj-mahal-agra-city-tour-with-tickets':
+    'taj-mahal-agra-fort-baby-taj-full-day-trip',
+  'from-delhi-private-taj-mahal-agra-fort-baby-taj':
+    'taj-mahal-agra-fort-baby-taj-full-day-trip',
+  'from-delhi-taj-mahal-agra-fort-tour-with-metro':
+    'taj-mahal-agra-fort-baby-taj-full-day-trip',
+  'from-delhi-taj-mahal-and-agra-day-tour-with':
+    'taj-mahal-agra-fort-baby-taj-full-day-trip',
+  'from-delhi-taj-mahal-fort-tour-w-elephant-conserva':
+    'taj-mahal-agra-fort-baby-taj-full-day-trip',
+  'from-delhi-taj-mahal-baby-taj-agra-fort-with':
+    'taj-mahal-agra-fort-baby-taj-full-day-trip',
+  // 6 pages -> agra-taj-mahal-agra-fort-baby-taj-guided-day
+  'vip-taj-mahal-agra-fort-tour-with-suv-5':
+    'agra-taj-mahal-agra-fort-baby-taj-guided-day',
+  'agra-taj-mahal-agra-fort-skip-the-line-tour':
+    'agra-taj-mahal-agra-fort-baby-taj-guided-day',
+  'private-agra-tour-akbar-tomb-agra-fort-and-baby':
+    'agra-taj-mahal-agra-fort-baby-taj-guided-day',
+  'agra-fort-baby-taj-mehtab-bagh-guided-tour-with':
+    'agra-taj-mahal-agra-fort-baby-taj-guided-day',
+  'taj-mahal-and-fort-visits-private-tour-with-guide':
+    'agra-taj-mahal-agra-fort-baby-taj-guided-day',
+  'taj-mahal-agra-fort-tou-with-elephant-sanctuary-vi':
+    'agra-taj-mahal-agra-fort-baby-taj-guided-day',
+  // 9 pages -> from-delhi-taj-mahal-sunrise-and-agra-fort-private
+  'from-delhi-sunrise-taj-mahal-baby-taj-agra-fort':
+    'from-delhi-taj-mahal-sunrise-and-agra-fort-private',
+  'from-delhi-sunrise-taj-mahal-agra-tour-with-5':
+    'from-delhi-taj-mahal-sunrise-and-agra-fort-private',
+  'from-delhi-taj-mahal-sunrise-agra-fort-akbars-tomb':
+    'from-delhi-taj-mahal-sunrise-and-agra-fort-private',
+  'from-delhi-taj-mahal-sunrise-agra-day-tour-with':
+    'from-delhi-taj-mahal-sunrise-and-agra-fort-private',
+  'from-delhi-all-inclusive-taj-mahal-sunrise-photogr':
+    'from-delhi-taj-mahal-sunrise-and-agra-fort-private',
+  'from-delhi-sunrise-taj-agra-fort-baby-taj-with':
+    'from-delhi-taj-mahal-sunrise-and-agra-fort-private',
+  'taj-mahal-sunrise-and-agra-trip-from-delhi-with':
+    'from-delhi-taj-mahal-sunrise-and-agra-fort-private',
+  'from-delhi-private-taj-mahal-sunrise-tour-with-bre':
+    'from-delhi-taj-mahal-sunrise-and-agra-fort-private',
+  'from-delhi-agra-sunrise-yoga-class-with-taj-mahal':
+    'from-delhi-taj-mahal-sunrise-and-agra-fort-private',
+  // 3 pages -> jaipur-guided-shopping-tour-experience-with-female
+  'jaipur-shopping-tour-with-blue-poetry-art-by-femal':
+    'jaipur-guided-shopping-tour-experience-with-female',
+  'mumbaijaipurdelhi-guided-shopping-tour-with-female':
+    'jaipur-guided-shopping-tour-experience-with-female',
+  'jaipur-private-shopping-tour-with-local-guide':
+    'jaipur-guided-shopping-tour-experience-with-female',
+  // 6 pages -> jaipur-elephant-sanctuary-tour-with-pick-up-and-dr
+  'jaipur-elephant-sanctuary-experience-with-transfer':
+    'jaipur-elephant-sanctuary-tour-with-pick-up-and-dr',
+  'jaipur-elephant-sanctuary-local-village-experience':
+    'jaipur-elephant-sanctuary-tour-with-pick-up-and-dr',
+  'jaipur-elephant-jungle-sanctuary-feed-and-shower-t':
+    'jaipur-elephant-sanctuary-tour-with-pick-up-and-dr',
+  'jaipur-ethical-elephant-care-sanctuary-experience':
+    'jaipur-elephant-sanctuary-tour-with-pick-up-and-dr',
+  'elefun-elephant-sanctuary-tour-in-jaipur':
+    'jaipur-elephant-sanctuary-tour-with-pick-up-and-dr',
+  'jaipur-elefantastic-elephant-sanctuary-tour':
+    'jaipur-elephant-sanctuary-tour-with-pick-up-and-dr',
+  // 5 pages -> jaipur-amber-fort-private-tour-with-skip-the-line
+  'jaipur-amber-fort-guided-walking-tour':
+    'jaipur-amber-fort-private-tour-with-skip-the-line',
+  'jaipur-amer-fort-guided-tour-with-local-guide':
+    'jaipur-amber-fort-private-tour-with-skip-the-line',
+  'jaipur-stepwell-amber-fort-old-city-markets-tour-l':
+    'jaipur-amber-fort-private-tour-with-skip-the-line',
+  'jaipur-amber-fort-light-sound-show-with-dinner':
+    'jaipur-amber-fort-private-tour-with-skip-the-line',
+  'jaipur-city-tour-with-amber-fort-ayurvedic-massage':
+    'jaipur-amber-fort-private-tour-with-skip-the-line',
+  // 2 pages -> agra-taj-mahal-tour-with-professional-photoshoot
+  'agra-taj-mahal-tour-with-photoshoot-saree-henna-ar':
+    'agra-taj-mahal-tour-with-professional-photoshoot',
+  'taj-mahal-with-professional-photoshoot-tour':
+    'agra-taj-mahal-tour-with-professional-photoshoot',
+  // 5 pages -> from-delhi-taj-mahal-agra-trip-by-gatimaan-express
+  'taj-mahalagra-day-tour-from-delhi-by-indias-fastes':
+    'from-delhi-taj-mahal-agra-trip-by-gatimaan-express',
+  'from-delhi-all-inclusive-taj-mahal-tour-by-gatimaa':
+    'from-delhi-taj-mahal-agra-trip-by-gatimaan-express',
+  'from-delhi-taj-mahal-agra-tour-by-luxury-superfast':
+    'from-delhi-taj-mahal-agra-trip-by-gatimaan-express',
+  'taj-mahal-tour-from-delhi-by-superfast-train-all':
+    'from-delhi-taj-mahal-agra-trip-by-gatimaan-express',
+  'from-delhi-agra-same-day-trip-by-gatimaan-express':
+    'from-delhi-taj-mahal-agra-trip-by-gatimaan-express',
+  // 2 pages -> jaipur-cooking-class-with-a-local-family
+  'jaipur-rajasthani-food-cooking-experience-with-loc':
+    'jaipur-cooking-class-with-a-local-family',
+  'jaipur-traditional-cooking-class-and-storytelling-':
+    'jaipur-cooking-class-with-a-local-family',
+  // 3 pages -> delhi-to-agra-private-day-tour-with-taj-mahal
+  'delhi-same-day-taj-mahal-agra-fort-tour-with':
+    'delhi-to-agra-private-day-tour-with-taj-mahal',
+  'delhi-all-inclusive-taj-mahal-agra-fort-baby-taj':
+    'delhi-to-agra-private-day-tour-with-taj-mahal',
+  'delhi-all-inclusive-day-trip-to-taj-mahal-with':
+    'delhi-to-agra-private-day-tour-with-taj-mahal',
+  // 4 pages -> from-jaipur-taj-mahal-agra-fort-tour-and-drop
+  'from-jaipurdelhiagra-taj-mahal-day-touroptional-tr':
+    'from-jaipur-taj-mahal-agra-fort-tour-and-drop',
+  'from-jaipur-taj-mahal-agra-fort-baby-taj-day':
+    'from-jaipur-taj-mahal-agra-fort-tour-and-drop',
+  'from-jaipur-taj-mahal-agra-fort-baby-taj-private':
+    'from-jaipur-taj-mahal-agra-fort-tour-and-drop',
+  'from-jaipur-taj-mahal-agra-private-guided-day-tour':
+    'from-jaipur-taj-mahal-agra-fort-tour-and-drop',
+  // 3 pages -> from-delhi-jaipur-day-tour-by-superfast-train
+  'from-delhi-jaipur-same-day-tour-by-train-or':
+    'from-delhi-jaipur-day-tour-by-superfast-train',
+  'jaipur-day-tour-from-delhi-by-express-train-pink':
+    'from-delhi-jaipur-day-tour-by-superfast-train',
+  'private-jaipur-city-tour-from-delhi-by-express-tra':
+    'from-delhi-jaipur-day-tour-by-superfast-train',
+  // 2 pages -> jaipur-wild-leopard-safari-in-jhalana-or-amagarh-b
+  'jaipur-jhalana-leopard-safari-tour-with-hotel-pick':
+    'jaipur-wild-leopard-safari-in-jhalana-or-amagarh-b',
+  'jaipur-jhalanaamagarh-leopard-safari-private-tour':
+    'jaipur-wild-leopard-safari-in-jhalana-or-amagarh-b',
+  // 1 pages -> from-delhi-taj-mahal-agra-day-tour-with-fatehpur
+  'from-delhi-skip-the-line-taj-mahal-tour-with':
+    'from-delhi-taj-mahal-agra-day-tour-with-fatehpur',
+  // 2 pages -> private-same-day-agra-tour-from-mumbai-by-flight
+  'from-mumbai-taj-mahal-agra-fort-tour-with-same':
+    'private-same-day-agra-tour-from-mumbai-by-flight',
+  'from-mumbai-taj-mahal-private-day-tour-by-return':
+    'private-same-day-agra-tour-from-mumbai-by-flight',
 };
 
 export const canonicalSlugFor = (slug: string) => DUPLICATE_CANONICAL_MAP[slug] || slug;
