@@ -1,7 +1,6 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import Image from 'next/image';
 import { ChevronRight } from 'lucide-react';
 import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 import { DUPLICATE_CANONICAL_MAP } from '@/lib/duplicateCanonical';
@@ -211,17 +210,19 @@ export default async function GoldenTrianglePage({ params }: Props) {
         className="bg-white rounded-xl overflow-hidden border border-gray-200 hover:shadow-lg transition-all group flex flex-row md:flex-col"
       >
         <div className="relative h-32 w-36 min-w-[144px] md:h-56 md:w-full md:min-w-0 overflow-hidden">
+          {/* A plain img, not next/image. This page is a Server Component, and
+              `loader={cloudinaryLoader}` is a function prop, which cannot cross
+              into a Client Component: it typechecks and then 500s at request
+              time. The city grid gets away with it because CityPageClient is
+              already a client component. Resolving the URL here gives the same
+              R2 file without the boundary. */}
           {img ? (
-            <Image
-              src={img}
-              loader={cloudinaryLoader}
+            <img
+              src={cloudinaryLoader({ src: img, width: 640 })}
               alt={`${t.title} — Golden Triangle tour`}
               width={400}
               height={208}
-              sizes="(max-width: 768px) 160px, (max-width: 1280px) 50vw, 25vw"
-              quality={72}
               loading={index < 4 ? 'eager' : 'lazy'}
-              priority={index < 4}
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
             />
           ) : (
