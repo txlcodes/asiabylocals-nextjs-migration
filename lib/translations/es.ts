@@ -14599,6 +14599,63 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "khao-kheow-open-zoo-chonburi-full-day-tour": {
+  "title": "Zoo abierto de Khao Kheow: día privado desde Bangkok o Pattaya",
+  "metaTitle": "Zoo de Khao Kheow: excursión privada de un día",
+  "metaDescription": "Un día privado y flexible en el zoo abierto de Khao Kheow, casa de Moo Deng, el hipopótamo pigmeo famoso en internet, con recogida en Bangkok o Pattaya.",
+  "shortDescription": "Un día privado y flexible en el zoo abierto de Khao Kheow, casa de Moo Deng, el hipopótamo pigmeo famoso en internet, con recogida puerta a puerta desde Bangkok o Pattaya.",
+  "fullDescription": "El zoo abierto de Khao Kheow saltó a la fama mundial como casa de Moo Deng, el saltarín hipopótamo pigmeo cuyos vídeos enamoraron a todo internet, pero desde hace mucho es por derecho propio uno de los mejores parques de animales de Tailandia. Instalado en una enorme ladera boscosa de la provincia de Chonburi, es un zoo abierto en el sentido más real, con recintos amplios y naturalistas, hábitats que se atraviesan a pie y encuentros de alimentación que le ponen mucho más cerca de los animales de lo que un zoo de ciudad podría.\n\nEsta visita privada deja el día entero en sus manos. Un conductor le recoge en cualquier punto de Bangkok o Pattaya y, como no hay grupo que coordinar, el ritmo lo marca usted: quédese en el recinto de los hipopótamos todo el rato que Moo Deng esté en escena, dé de comer a las jirafas con la mano, pasee por el aviario o vaya directo a los grandes felinos. Sin correr para cumplir un horario y sin esperar a desconocidos: solo su propio día, cómodo y flexible, con los animales.\n\nEl zoo ocupa mucho terreno, así que tener transporte privado entre zonas es una ventaja real, sobre todo con niños o con el calor del mediodía. Es una excursión fácil y que gusta a todos: familias, parejas y cualquiera que necesite su foto con Moo Deng en persona.",
+  "highlights": [
+   "Conocer a Moo Deng, el hipopótamo pigmeo famoso en todo el mundo",
+   "Visita privada, sin grupo y sin horario fijo",
+   "Recogida puerta a puerta en cualquier punto de Bangkok o Pattaya",
+   "Recintos de tipo abierto y encuentros de alimentación con los animales",
+   "Ritmo flexible, perfecto para familias"
+  ],
+  "included": [
+   "Traslado privado de ida y vuelta desde Bangkok o Pattaya",
+   "Conductor privado durante todo el día",
+   "Programa flexible en el zoo",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Entradas del zoo (salvo que se indique al reservar)",
+   "Comida para los animales y actividades dentro del zoo",
+   "Comidas",
+   "Propinas para su conductor"
+  ]
+ },
+ "koh-chang-private-tour": {
+  "title": "Koh Chang: escapada privada de dos días con noche frente a la playa",
+  "metaTitle": "Koh Chang: escapada privada de dos días",
+  "metaDescription": "Dos días sin prisas en Koh Chang con guía privado: kayak en una reserva marina turquesa, barca de cola larga a una cala aislada y una noche frente a la playa.",
+  "shortDescription": "Dos días sin prisas en Koh Chang con guía privado: kayak en una reserva marina turquesa, travesía en barca de cola larga a una cala aislada y una noche en un hotel frente a la playa.",
+  "fullDescription": "Koh Chang es la segunda isla más grande de Tailandia y queda lo bastante al este para que el circuito de excursiones de un día desde Pattaya no llegue nunca. Montañosa, densamente boscosa y rodeada de playas, tiene más en común con las islas del mar de Andamán que con cualquier otra cosa de esta costa, de ahí la comparación con un mini Phi Phi, aunque Koh Chang es bastante más grande y bastante más tranquila.\n\nRepartido en dos días, el viaje tiene margen para pararse de verdad. Hará kayak en la reserva marina de Koh Rang, donde el agua es de un turquesa auténtico y el coral está protegido, y tomará una barca de cola larga privada hasta una cala aislada para bañarse mientras cae la luz. Entre actividades queda tiempo para las cascadas de la isla, sus miradores y los pueblos pesqueros construidos sobre pilotes encima del agua.\n\nLa noche es en un hotel de primera línea frente a la playa, así que se despierta sobre la arena y no tierra adentro. Esa única noche es la que marca la diferencia: las excursiones de un día a Koh Chang desde este lado del país no cuadran de verdad, y quedarse a dormir convierte un viaje apresurado en una escapada corta como es debido.\n\nFunciona como visita totalmente privada para su grupo, con guía y vehículo durante todo el recorrido y traslados desde Pattaya en ambos extremos.",
+  "highlights": [
+   "Dos días en la segunda isla más grande de Tailandia, lejos del circuito de Pattaya",
+   "Kayak en la reserva marina protegida de Koh Rang",
+   "Barca de cola larga privada a una cala aislada para bañarse al atardecer",
+   "Noche en un hotel de primera línea frente a la playa",
+   "Cascadas, miradores y pueblos pesqueros sobre pilotes",
+   "Guía y vehículo totalmente privados durante todo el viaje"
+  ],
+  "included": [
+   "Recogida y regreso privados en el hotel de Pattaya",
+   "Todo el transporte, incluidas las travesías en ferri",
+   "Una noche en un hotel frente a la playa",
+   "Salida privada en barca de cola larga",
+   "Kayak en la reserva marina",
+   "Guía privado en inglés",
+   "Agua potable"
+  ],
+  "notIncluded": [
+   "La mayoría de las comidas",
+   "Seguro de viaje",
+   "Actividades opcionales",
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

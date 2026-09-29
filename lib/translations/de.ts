@@ -14599,6 +14599,63 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "khao-kheow-open-zoo-chonburi-full-day-tour": {
+  "title": "Khao Kheow Open Zoo: privater Tagesausflug ab Bangkok oder Pattaya",
+  "metaTitle": "Khao Kheow Open Zoo: privater Tagesausflug",
+  "metaDescription": "Ein privater, flexibler Tag im Khao Kheow Open Zoo, dem Zuhause des netzberühmten Zwergflusspferds Moo Deng, mit Abholung in Bangkok oder Pattaya.",
+  "shortDescription": "Ein privater, flexibler Tag im Khao Kheow Open Zoo, dem Zuhause des im Netz berühmten Zwergflusspferds Moo Deng, mit Abholung von Tür zu Tür in Bangkok oder Pattaya.",
+  "fullDescription": "Der Khao Kheow Open Zoo wurde weltweit als Zuhause von Moo Deng bekannt, dem hüpfenden Zwergflusspferd, dessen Videos das ganze Internet bezaubert haben, aber er ist schon lange einer der besten Tierparks Thailands aus eigenem Recht. Auf einem riesigen bewaldeten Hang in der Provinz Chonburi gelegen, ist er ein offener Zoo im wahrsten Sinne, mit weiträumigen naturnahen Gehegen, begehbaren Lebensräumen und Fütterungsbegegnungen, die Sie den Tieren weit näher bringen, als ein gewöhnlicher Stadtzoo es je könnte.\n\nDiese Privattour lässt den ganzen Tag nach Ihren Regeln laufen. Ein Fahrer holt Sie überall in Bangkok oder Pattaya ab, und weil keine Gruppe koordiniert werden muss, bestimmen Sie das Tempo: bleiben Sie am Flusspferdgehege, solange Moo Deng auftritt, füttern Sie die Giraffen von Hand, bummeln Sie durch die Voliere oder gehen Sie gleich zu den Großkatzen. Kein Hetzen nach einem Zeitplan und kein Warten auf Fremde, sondern einfach Ihr eigener, reibungsloser und flexibler Tag mit den Tieren.\n\nDer Zoo bedeckt viel Fläche, und privater Transport zwischen den Bereichen ist ein echter Vorteil, besonders mit Kindern oder in der Mittagshitze. Es ist ein unkomplizierter Tagesausflug, der fast allen gefällt: Familien, Paaren und allen, die ihr Moo-Deng-Foto in echt brauchen.",
+  "highlights": [
+   "Moo Deng treffen, das weltberühmte Zwergflusspferd",
+   "Privattour, ohne Gruppe und ohne festen Zeitplan",
+   "Abholung von Tür zu Tür überall in Bangkok oder Pattaya",
+   "Gehege im offenen Stil und Begegnungen beim Füttern",
+   "Flexibles Tempo, ideal für Familien"
+  ],
+  "included": [
+   "Privater Hin- und Rücktransfer ab Bangkok oder Pattaya",
+   "Privater Fahrer für den ganzen Tag",
+   "Flexibles Programm im Zoo",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für den Zoo (sofern bei der Buchung nicht anders angegeben)",
+   "Tierfutter und Aktivitäten im Zoo",
+   "Mahlzeiten",
+   "Trinkgelder für Ihren Fahrer"
+  ]
+ },
+ "koh-chang-private-tour": {
+  "title": "Koh Chang: private Zwei-Tage-Auszeit mit Übernachtung am Strand",
+  "metaTitle": "Koh Chang: private Auszeit über zwei Tage",
+  "metaDescription": "Zwei ruhige Tage auf Koh Chang mit privatem Guide: Kajak in einem türkisfarbenen Meeresschutzgebiet, Longtail-Boot zu einer einsamen Bucht und eine Nacht am Strand.",
+  "shortDescription": "Zwei ruhige Tage auf Koh Chang mit privatem Guide: Kajakfahren in einem türkisfarbenen Meeresschutzgebiet, Longtail-Fahrt zu einer einsamen Bucht und eine Nacht in einem Hotel direkt am Strand.",
+  "fullDescription": "Koh Chang ist die zweitgrößte Insel Thailands und liegt weit genug im Osten, dass der Tagesausflugskreis von Pattaya sie nie erreicht. Bergig, dicht bewaldet und von Stränden umringt, hat sie mehr mit den Inseln der Andamanensee gemein als mit irgendetwas anderem an dieser Küste, daher der Vergleich mit einem Mini-Phi-Phi, auch wenn Koh Chang deutlich größer und deutlich ruhiger ist.\n\nÜber zwei Tage verteilt hat die Reise Raum, wirklich stehen zu bleiben. Sie fahren Kajak im Meeresschutzgebiet Koh Rang, wo das Wasser ein echtes Türkis zeigt und die Korallen geschützt sind, und nehmen ein privates Longtail-Boot zu einer einsamen Bucht für ein Bad, während das Licht sinkt. Zwischen den Aktivitäten bleibt Zeit für die Wasserfälle der Insel, ihre Aussichtspunkte und die auf Stelzen über dem Wasser gebauten Fischerdörfer.\n\nDie Übernachtung ist in einem Hotel in erster Reihe direkt am Strand, Sie wachen also im Sand auf und nicht im Landesinneren. Diese eine Nacht macht den Unterschied: Tagesausflüge nach Koh Chang von dieser Seite des Landes gehen nicht wirklich auf, und das Übernachten macht aus einer gehetzten Fahrt eine richtige kleine Auszeit.\n\nEs läuft als vollständig private Tour für Ihre Gruppe, mit Guide und Fahrzeug durchgehend und Transfers ab Pattaya an beiden Enden.",
+  "highlights": [
+   "Zwei Tage auf Thailands zweitgrößter Insel, weit abseits des Pattaya-Kreises",
+   "Kajakfahren im geschützten Meeresschutzgebiet Koh Rang",
+   "Privates Longtail-Boot zu einer einsamen Bucht für ein Bad zum Sonnenuntergang",
+   "Übernachtung in einem Hotel in erster Reihe am Strand",
+   "Wasserfälle, Aussichtspunkte und Fischerdörfer auf Stelzen",
+   "Durchgehend privater Guide und privates Fahrzeug"
+  ],
+  "included": [
+   "Private Abholung und Rückfahrt am Hotel in Pattaya",
+   "Der gesamte Transport einschließlich der Fährüberfahrten",
+   "Eine Nacht in einem Hotel am Strand",
+   "Private Fahrt im Longtail-Boot",
+   "Kajakfahren im Meeresschutzgebiet",
+   "Privater englischsprachiger Guide",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Die meisten Mahlzeiten",
+   "Reiseversicherung",
+   "Optionale Aktivitäten",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
