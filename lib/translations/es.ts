@@ -14487,6 +14487,118 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas para guías y cuidadores"
   ]
  },
+ "guan-yin-shrine-guided-tour": {
+  "title": "Isla de Koh Si Chang: santuarios, cuevas y el mar separado",
+  "metaTitle": "Koh Si Chang: santuarios, cuevas y mar separado",
+  "metaDescription": "Travesía a la tranquila isla de Koh Si Chang: santuarios chinos en la ladera, cuevas marinas, las ruinas de un palacio real y la barra de arena del mar separado.",
+  "shortDescription": "Cruce a la tranquila isla de Koh Si Chang para ver santuarios chinos en la ladera, cuevas marinas, las ruinas de un palacio real de verano y la extraña barra de arena del mar separado.",
+  "fullDescription": "Koh Si Chang está justo frente a la costa, al norte de Pattaya, y casi nadie del circuito turístico del continente se molesta en ir, que es precisamente su atractivo. Es una isla tailandesa en activo, con puerto pesquero, callejuelas empinadas y un puñado de rarezas de verdad reunidas en un espacio lo bastante pequeño para verlo bien en un día.\n\nEl monumento más conocido de la isla es el santuario de Guan Yin, un conjunto de templos chinos construido en terrazas sobre la ladera, con escaleras flanqueadas por dragones que suben hasta miradores sobre el fondeadero donde los cargueros esperan mar adentro. Cerca, el santuario del Dios Tigre ocupa la boca de una cueva en la roca, espesa de incienso y farolillos rojos. Ambos son lugares de culto en activo y no monumentos restaurados, así que normalmente verá a isleños haciendo ofrendas a su lado.\n\nEl otro reclamo es geológico: con ciertas mareas emerge una barra de arena entre dos puntas de tierra y parte el agua en dos extensiones visiblemente separadas, el mar separado. Que se pueda caminar por ella depende por completo de la marea de ese día. También pasará por los restos del palacio Phra Chudadhut, el retiro junto al mar abandonado del rey Rama V, y parará en una de las playas pequeñas de la isla.\n\nLa recogida en el hotel, la travesía en ferri y el transporte por la isla van resueltos, y aquí eso importa: las conexiones públicas a Koh Si Chang son poco frecuentes e incómodas de encajar por cuenta propia.",
+  "highlights": [
+   "Una isla tranquila y en activo a la que casi ningún visitante de Pattaya llega",
+   "El santuario de Guan Yin en la ladera, con escaleras de dragones y vistas al puerto",
+   "El santuario del Dios Tigre, metido en una cueva de la pared rocosa",
+   "La barra de arena del mar separado, si la marea lo permite",
+   "Las ruinas del palacio junto al mar del rey Rama V",
+   "Ferri y transporte en la isla organizados de principio a fin"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Pattaya",
+   "Ferri de ida y vuelta a Koh Si Chang",
+   "Transporte por la isla entre los lugares de interés",
+   "Guía en inglés",
+   "Agua potable"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "Donativos en los santuarios",
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "horizon-rooftop-bar-shopping-tour": {
+  "title": "Pattaya de noche: ruta de bares guiada con azotea, clubes y mercado",
+  "metaTitle": "Pattaya de noche: ruta de bares guiada",
+  "metaDescription": "Salida nocturna guiada de 4,5 horas: la mejor azotea de Pattaya, mercado nocturno, locales escondidos y clubes, con entrada gratis y chupitos.",
+  "shortDescription": "Una salida nocturna guiada de 4,5 horas por la mejor azotea de Pattaya, el mercado nocturno, locales escondidos y clubes, con entrada gratis, chupitos de bienvenida y gente de todo el mundo para salir de fiesta.",
+  "fullDescription": "La vida nocturna de Pattaya es legendaria, pero dar con los locales adecuados por tu cuenta, y esquivar las trampas para turistas, exige conocimiento local. Esta salida guiada lo resuelve de una vez. La noche arranca 34 pisos más arriba, en el bar de azotea Horizon, con toda la bahía de Pattaya brillando abajo, antes de que el anfitrión baje con el grupo a la calle para un recorrido escogido por los mejores sitios de la ciudad al caer la noche.\n\nEl programa mezcla lo famoso con lo escondido: una parada en el mercado nocturno Runway para comida de calle y ambiente, un bar poco conocido que casi ningún visitante encuentra, un paseo por el caos de neón de Walking Street y la entrada a algunos de los mejores clubes de Pattaya, incluidos locales frente a la playa y el popular Republic Club, donde la noche acaba en la pista. Las entradas de los clubes están cubiertas, y los chupitos de bienvenida en las paradas mantienen la energía sin que tenga que hacer cola en la barra.\n\nLo que hace funcionar estas rutas es el grupo: cada noche se suman viajeros de todo el mundo, así que empieza la velada con desconocidos y suele terminarla con una pandilla de amigos nuevos. El anfitrión se ocupa de la logística, de saltarse las colas y de mantener al grupo junto, y usted solo tiene que disfrutar de la noche.",
+  "highlights": [
+   "Empezar la noche en el bar de azotea Horizon, en la planta 34 de Pattaya",
+   "Entrada gratuita a los mejores clubes y chupitos de bienvenida por el camino",
+   "Descubrir el mercado nocturno Runway y un bar local poco conocido",
+   "Recorrer el caos de neón de Walking Street con un anfitrión",
+   "Salir de fiesta junto a gente de todo el mundo"
+  ],
+  "included": [
+   "Anfitrión y guía de fiesta durante toda la velada",
+   "Entrada gratuita a todos los clubes y locales del recorrido",
+   "Chupitos de bienvenida en paradas seleccionadas",
+   "Acceso sin colas en los locales concurridos"
+  ],
+  "notIncluded": [
+   "Bebidas más allá de los chupitos de bienvenida incluidos",
+   "Comida en el mercado nocturno",
+   "Transporte hasta el punto de salida y de vuelta al terminar",
+   "Propinas"
+  ]
+ },
+ "jomtien-beach-premium-tour": {
+  "title": "Safari en moto acuática por cinco islas desde Pattaya: salida guiada premium",
+  "metaTitle": "Pattaya: safari en moto acuática por cinco islas",
+  "metaDescription": "Pilote su propia moto acuática en un safari guiado desde la playa de Jomtien, saltando entre islas de la bahía de Pattaya, en formato de 2 o 4 horas.",
+  "shortDescription": "Pilote su propia moto acuática en un safari guiado en mar abierto desde la playa de Jomtien, saltando entre cinco islas y puntos de la costa de la bahía de Pattaya, en formato de 2 o 4 horas.",
+  "fullDescription": "Esto es moto acuática como expedición de verdad, no como una vuelta de diez minutos delante de la playa. Saliendo de Jomtien, pilotará su propia máquina en un recorrido guiado que enlaza cinco momentos altos de la bahía de Pattaya: primero pasando junto a la silueta tallada del Santuario de la Verdad vista desde el agua, y después a fondo para las travesías hasta Ko Sak, Ko Lan y la diminuta Ko Khrok, con paradas para bañarse, hacer fotos y descansar entre tramos.\n\nEl operador trabaja con un montaje premium: motos acuáticas recientes y bien mantenidas, un guía profesional al frente de cada grupo y un briefing de seguridad completo en la playa de Jomtien antes de que nadie toque el agua. El recorrido está ordenado para que las travesías más largas en mar abierto lleguen cuando ya ha cogido confianza, y el guía ajusta el ritmo al grupo: los principiantes son bienvenidos, y los pilotos con experiencia tienen mar abierto suficiente para estirarse de verdad.\n\nDisponible en formatos de dos y de cuatro horas, la versión larga es el safari completo de cinco islas y convierte la bahía en su propio patio de juegos durante media jornada. La recogida en el hotel de Pattaya está incluida, y las vistas, esos monumentos e islas que normalmente se ven desde un ferri lleno y que aquí se toman desde la propia máquina y a velocidad, son lo que separa esta salida de cualquier alquiler corriente de moto acuática en la playa.",
+  "highlights": [
+   "Pilotar su propia moto acuática entre cinco islas y puntos destacados",
+   "Ver el Santuario de la Verdad desde el agua",
+   "Paradas en las islas de Ko Sak, Ko Lan y Ko Khrok",
+   "Guía profesional y briefing de seguridad completo incluidos",
+   "A elegir entre safari de 2 horas o de 4 horas"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Pattaya",
+   "Su propia moto acuática para todo el recorrido",
+   "Guía profesional de pilotaje",
+   "Briefing de seguridad y chaleco salvavidas",
+   "Combustible",
+   "Agua potable"
+  ],
+  "notIncluded": [
+   "Comidas y aperitivos",
+   "Alquiler de cámara acuática (opcional, en el lugar)",
+   "Fianza o franquicia del seguro (confirmar al reservar)",
+   "Propinas"
+  ]
+ },
+ "khao-chamao-khao-wong-national-park-full-day-tour": {
+  "title": "Aventura en Rayong: caminata por el parque nacional y kayak entre manglares",
+  "metaTitle": "Rayong: caminata por el parque nacional y kayak",
+  "metaDescription": "Un día completo de caminata hasta las cascadas del parque nacional de Khao Chamao-Khao Wong y kayak por los manglares dorados de Tung Prong Thong.",
+  "shortDescription": "Un día completo de caminata hasta las cascadas del parque nacional de Khao Chamao-Khao Wong y de kayak por los humedales de manglar dorado de Tung Prong Thong.",
+  "fullDescription": "Esta es la excursión de un día más exigente físicamente que sale de Pattaya, y la recompensa es una cara de la región que casi ningún visitante ve: bosque de verdad, cascadas de verdad y uno de los manglares más llamativos de Tailandia.\n\nLa mañana se pasa en el parque nacional de Khao Chamao-Khao Wong, donde una caminata de unos cinco kilómetros sube por el bosque perennifolio junto a una serie de cascadas. Los saltos caen en escalones, con pozas a varios niveles en las que se puede nadar cuando el agua viene alta: el caudal varía mucho según la estación, más fuerte después de las lluvias y reducido en los meses secos. El bosque en sí está intacto y es de verdad silencioso, y los macacos son frecuentes a lo largo del sendero.\n\nLa tarde se traslada a Tung Prong Thong, una extensión de manglar atravesada por canales. Aquí el kayak le lleva a pasos bajo la bóveda donde los árboles se cierran por encima: un entorno completamente distinto del ascenso de la mañana, y que se aprecia mejor a ras de agua, en barca, que desde la pasarela que usa la mayoría de los visitantes.\n\nEs un día de doce horas con caminata de verdad, así que encaja con quien quiere estar activamente al aire libre en lugar de ser transportado entre miradores.",
+  "highlights": [
+   "Unos 5 km de caminata en el parque nacional de Khao Chamao-Khao Wong",
+   "Cascadas escalonadas con pozas para nadar cuando el caudal lo permite",
+   "Bosque perennifolio intacto con macacos residentes",
+   "Kayak por los canales de manglar dorado de Tung Prong Thong",
+   "Un día realmente activo lejos de la costa turística",
+   "Guía y transporte desde Pattaya durante todo el día"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Pattaya",
+   "Transporte durante todo el día",
+   "Entradas del parque nacional",
+   "Caminata guiada",
+   "Alquiler de kayak y equipo",
+   "Guía en inglés",
+   "Agua potable"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Toallas",
+   "Equipo personal",
+   "Propinas"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

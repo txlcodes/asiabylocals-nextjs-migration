@@ -14487,6 +14487,118 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder für Guides und Mahuts"
   ]
  },
+ "guan-yin-shrine-guided-tour": {
+  "title": "Insel Koh Si Chang: Schreine, Höhlen und das geteilte Meer",
+  "metaTitle": "Koh Si Chang: Schreine, Höhlen, geteiltes Meer",
+  "metaDescription": "Übersetzen auf die stille Insel Koh Si Chang: chinesische Schreine am Hang, Meereshöhlen, die Ruinen eines königlichen Palasts und die Sandbank des geteilten Meeres.",
+  "shortDescription": "Setzen Sie über auf die stille Insel Koh Si Chang: chinesische Schreine am Hang, Meereshöhlen, die Ruinen eines königlichen Sommerpalasts und die seltsame Sandbank des geteilten Meeres.",
+  "fullDescription": "Koh Si Chang liegt direkt vor der Küste nördlich von Pattaya, und fast niemand auf der Touristenroute des Festlands macht sich die Mühe, und genau das ist der Reiz. Es ist eine arbeitende thailändische Insel mit Fischereihafen, steilen Gassen und einer Handvoll wirklich ungewöhnlicher Sehenswürdigkeiten auf einer Fläche, die klein genug ist, um sie an einem Tag richtig zu sehen.\n\nDas bekannteste Wahrzeichen der Insel ist der Guan-Yin-Schrein, eine chinesische Tempelanlage, terrassenförmig in den Hang gebaut, mit drachenflankierten Treppen, die zu Aussichtspunkten über die Reede hinaufführen, wo draußen Frachtschiffe warten. Ganz in der Nähe belegt der Tigergott-Schrein einen Höhleneingang im Fels, dicht von Räucherwerk und roten Laternen. Beides sind aktive Kultstätten und keine restaurierten Denkmäler, Sie sehen also meist Inselbewohner, die neben Ihnen ihre Opfergaben darbringen.\n\nDer andere Anziehungspunkt ist geologisch: bei bestimmten Gezeiten taucht zwischen zwei Landspitzen eine Sandbank auf und teilt das Wasser in zwei sichtbar getrennte Flächen, das geteilte Meer. Ob man darauf laufen kann, hängt ganz von den Gezeiten an Ihrem Tag ab. Sie kommen außerdem an den Resten des Phra-Chudadhut-Palasts vorbei, dem aufgegebenen Meeresrefugium von König Rama V., und halten an einem der kleinen Strände der Insel.\n\nAbholung am Hotel, die Fährüberfahrt und der Transport auf der Insel werden für Sie geregelt, und das zählt hier: die öffentlichen Verbindungen nach Koh Si Chang sind selten und auf eigene Faust umständlich zusammenzusetzen.",
+  "highlights": [
+   "Eine stille, arbeitende Insel, die die meisten Pattaya-Besucher nie erreichen",
+   "Der Guan-Yin-Schrein am Hang mit Drachentreppen und Blick auf den Hafen",
+   "Der Tigergott-Schrein, in eine Höhle in der Felswand gesetzt",
+   "Die Sandbank des geteilten Meeres, wenn die Gezeiten es zulassen",
+   "Die Ruinen des Meerespalasts von König Rama V.",
+   "Fähre und Inseltransport von Anfang bis Ende organisiert"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel in Pattaya",
+   "Fähre hin und zurück nach Koh Si Chang",
+   "Transport auf der Insel zwischen den Sehenswürdigkeiten",
+   "Englischsprachiger Guide",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke",
+   "Spenden an den Schreinen",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "horizon-rooftop-bar-shopping-tour": {
+  "title": "Pattaya nach Einbruch der Dunkelheit: geführte Bartour, Rooftop, Clubs und Markt",
+  "metaTitle": "Pattaya bei Nacht: geführte Bartour",
+  "metaDescription": "Ein geführter Abend über 4,5 Stunden durch Pattayas beste Rooftop-Bar, den Nachtmarkt, versteckte Lokale und Clubs, mit freiem Eintritt und Willkommensshots.",
+  "shortDescription": "Ein geführter Abend über 4,5 Stunden durch Pattayas beste Rooftop-Bar, den Nachtmarkt, versteckte Lokale und Clubs, mit freiem Eintritt, Willkommensshots und einem internationalen Publikum zum Feiern.",
+  "fullDescription": "Pattayas Nachtleben ist legendär, aber die richtigen Lokale allein zu finden und dabei die Touristenfallen auszulassen, braucht Ortskenntnis. Dieser geführte Abend erledigt das in einem Zug. Der Abend beginnt 34 Stockwerke hoch in der Rooftop-Bar Horizon, wo die ganze Bucht von Pattaya unter Ihnen glitzert, bevor Ihr Gastgeber die Gruppe hinunter in die Straßen führt, auf eine kuratierte Route durch die besten Adressen der Stadt nach Einbruch der Dunkelheit.\n\nDas Programm mischt Bekanntes mit Verstecktem: ein Halt am Nachtmarkt Runway für Streetfood und Atmosphäre, eine Geheimtipp-Bar, die die meisten Besucher nie finden, ein Gang durch das Neonchaos der Walking Street und der Einlass in einige der besten Clubs Pattayas, darunter Lokale direkt am Strand und der beliebte Republic Club, wo der Abend auf der Tanzfläche endet. Die Eintrittsgebühren der Clubs sind gedeckt, und Willkommensshots an den Stationen halten die Energie hoch, ohne dass Sie an der Bar anstehen.\n\nWas diese Touren trägt, ist die Gruppe: jeden Abend kommen Reisende aus aller Welt zusammen, Sie beginnen den Abend also mit Fremden und beenden ihn meist mit einer Runde neuer Freunde. Ihr Gastgeber kümmert sich um die Logistik, das Überspringen der Schlangen und den Zusammenhalt, und Sie müssen nur die Nacht genießen.",
+  "highlights": [
+   "Den Abend in Pattayas Rooftop-Bar Horizon im 34. Stock beginnen",
+   "Freier Eintritt in Top-Clubs, dazu Willkommensshots unterwegs",
+   "Den Nachtmarkt Runway und eine einheimische Geheimtipp-Bar erkunden",
+   "Mit einem Gastgeber durch das Neonchaos der Walking Street gehen",
+   "Mit einem internationalen Publikum anderer Reisender feiern"
+  ],
+  "included": [
+   "Gastgeber und Guide für den ganzen Abend",
+   "Freier Eintritt in alle Clubs und Lokale der Route",
+   "Willkommensshots an ausgewählten Stationen",
+   "Kein Anstehen an gut besuchten Lokalen"
+  ],
+  "notIncluded": [
+   "Getränke über die enthaltenen Willkommensshots hinaus",
+   "Essen auf dem Nachtmarkt",
+   "Transport zum Startpunkt und nach Hause im Anschluss",
+   "Trinkgelder"
+  ]
+ },
+ "jomtien-beach-premium-tour": {
+  "title": "Jetski-Safari zu fünf Inseln ab Pattaya: geführte Premium-Ausfahrt",
+  "metaTitle": "Pattaya: Jetski-Safari zu fünf Inseln",
+  "metaDescription": "Fahren Sie Ihren eigenen Jetski auf einer geführten Safari ab dem Strand von Jomtien, von Insel zu Insel rund um die Bucht von Pattaya, in 2 oder 4 Stunden.",
+  "shortDescription": "Fahren Sie Ihren eigenen Jetski auf einer geführten Safari über die offene See ab dem Strand von Jomtien, von Insel zu Insel und entlang der Küste rund um die Bucht von Pattaya, in 2 oder 4 Stunden.",
+  "fullDescription": "Das ist Jetskifahren als echte Expedition und nicht als Zehn-Minuten-Runde vor dem Strand. Ab Jomtien fahren Sie Ihre eigene Maschine auf einer geführten Route, die fünf Höhepunkte der Bucht von Pattaya aneinanderreiht: zuerst an der geschnitzten Silhouette des Sanctuary of Truth vorbei, vom Wasser aus gesehen, dann Gas für die Überfahrten nach Ko Sak, Ko Lan und zur winzigen Ko Khrok, mit Halten zum Schwimmen, Fotografieren und Durchatmen zwischen den Etappen.\n\nDer Anbieter arbeitet auf Premium-Niveau: gut gewartete Jetskis neuerer Baujahre, ein professioneller Guide an der Spitze jeder Gruppe und ein gründliches Sicherheitsbriefing am Strand von Jomtien, bevor jemand das Wasser berührt. Die Route ist so gelegt, dass die längeren Überfahrten über offenes Wasser kommen, wenn Sie Sicherheit gewonnen haben, und der Guide passt das Tempo der Gruppe an: Anfänger sind willkommen, und erfahrene Fahrer bekommen genug offene See, um sich wirklich auszufahren.\n\nErhältlich als Zwei- und als Vier-Stunden-Fassung, wobei die längere die volle Safari zu fünf Inseln ist und die Bucht für einen halben Tag zu Ihrem eigenen Spielplatz macht. Die Abholung am Hotel in Pattaya ist enthalten, und die Blicke, auf Wahrzeichen und Inseln, die man sonst von einer vollen Fähre aus sieht, hier aber von der eigenen Maschine aus und mit Tempo, sind das, was diese Ausfahrt von jedem gewöhnlichen Jetski-Verleih am Strand abhebt.",
+  "highlights": [
+   "Den eigenen Jetski zwischen fünf Inseln und Wahrzeichen fahren",
+   "Das Sanctuary of Truth vom Wasser aus sehen",
+   "Inselhalte an Ko Sak, Ko Lan und Ko Khrok",
+   "Professioneller Guide und vollständiges Sicherheitsbriefing enthalten",
+   "Zur Wahl: Safari über 2 Stunden oder 4 Stunden"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel in Pattaya",
+   "Ihr eigener Jetski für die gesamte Route",
+   "Professioneller Fahrguide",
+   "Sicherheitsbriefing und Schwimmweste",
+   "Kraftstoff",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Snacks",
+   "Miete einer wasserdichten Kamera (optional, vor Ort)",
+   "Kaution oder Versicherungsselbstbehalt (bei der Buchung klären)",
+   "Trinkgelder"
+  ]
+ },
+ "khao-chamao-khao-wong-national-park-full-day-tour": {
+  "title": "Abenteuer in Rayong: Nationalparkwanderung und Mangroven-Kajaktour",
+  "metaTitle": "Rayong: Nationalparkwanderung und Kajaktour",
+  "metaDescription": "Ein ganzer Tag mit Wanderung zu den Wasserfällen im Nationalpark Khao Chamao-Khao Wong und Kajakfahren in den goldenen Mangroven von Tung Prong Thong.",
+  "shortDescription": "Ein ganzer Tag mit Wanderung zu den Wasserfällen im Nationalpark Khao Chamao-Khao Wong und Kajakfahren in den goldenen Mangrovengebieten von Tung Prong Thong.",
+  "fullDescription": "Das ist der körperlich anspruchsvollste Tagesausflug ab Pattaya, und der Lohn ist eine Seite der Region, die fast kein Besucher sieht: richtiger Wald, echte Wasserfälle und eines der eindrucksvollsten Mangrovengebiete Thailands.\n\nDer Vormittag gehört dem Nationalpark Khao Chamao-Khao Wong, wo eine Wanderung von rund fünf Kilometern durch immergrünen Wald an einer Reihe von Wasserfällen vorbei ansteigt. Die Fälle laufen in Stufen, mit Becken auf mehreren Ebenen, in denen man baden kann, wenn das Wasser hoch steht: die Wassermenge schwankt je nach Jahreszeit stark, am stärksten nach den Regen und geringer in den trockenen Monaten. Der Wald selbst ist unversehrt und wirklich still, und Makaken sind entlang des Pfades häufig.\n\nDer Nachmittag verlagert sich nach Tung Prong Thong, einer weiten Mangrovenfläche, durchzogen von Wasserläufen. Das Kajak bringt Sie hier in Kanäle unter dem Blätterdach, wo sich die Bäume über Ihnen schließen: eine völlig andere Umgebung als der Aufstieg am Morgen, und am besten vom Wasserspiegel aus im Boot zu erleben statt vom Stegweg, den die meisten Besucher nehmen.\n\nEs ist ein Zwölf-Stunden-Tag mit echtem Gehen darin, er passt also zu Menschen, die aktiv draußen sein wollen, statt zwischen Aussichtspunkten transportiert zu werden.",
+  "highlights": [
+   "Rund 5 km Wandern im Nationalpark Khao Chamao-Khao Wong",
+   "Gestufte Wasserfälle mit Badebecken, wenn die Wassermenge es zulässt",
+   "Unversehrter immergrüner Wald mit heimischen Makaken",
+   "Kajakfahren in den goldenen Mangrovenkanälen von Tung Prong Thong",
+   "Ein wirklich aktiver Tag abseits der Touristenküste",
+   "Ganztägige Führung und Transport ab Pattaya"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel in Pattaya",
+   "Transport für den ganzen Tag",
+   "Eintrittsgebühren des Nationalparks",
+   "Geführte Wanderung",
+   "Kajakmiete und Ausrüstung",
+   "Englischsprachiger Guide",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Handtücher",
+   "Persönliche Ausrüstung",
+   "Trinkgelder"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
