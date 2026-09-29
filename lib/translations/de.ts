@@ -13212,6 +13212,35 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "EasyKart Pattaya (Thepprasit): Kartrennen-Erlebnis",
   "metaDescription": "Tour in Pattaya. Enthalten: Sicherheitsausrüstung und Schließfachschlüssel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "koh-samet-island-tour-with-dinner-and-fire-show-from-pattaya-by-local-operator": {
+  "title": "Insel Koh Samet ab Pattaya: Abendessen und Feuershow",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis ab Pattaya, rund um Schnellboot und Ko Samet. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Tür-zu-Tür-Transfers: kostenloser Hin- und Rücktransport in einem, Schnellbootfahrt: kostenlose Transfers von Ufer zu Ufer, Zugang zum Nationalpark: die offizielle Gebühr des Nationalparks Koh Samet, Komfort am Strand: eine eigene Sonnenliege steht bereit für und Essen am Meer: ein schmackhaftes Gratis-Abendessen in einem schönen. Nicht enthalten sind Alkoholische Getränke: nicht im Abendessen enthalten, Persönliche Ausgaben: Souvenirs oder zusätzliche Speisen und Getränke außerhalb und Trinkgelder: ein Trinkgeld für die Crew ist freiwillig und liegt in Ihrem, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nPattaya City. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Schnellboot",
+   "Ko Samet",
+   "Dauer: 10 Stunden",
+   "Tür-zu-Tür-Transfers: kostenloser Hin- und Rücktransport in einem bequemen, klimatisierten Fahrzeug direkt ab Ihrem Hotel",
+   "Schnellbootfahrt: kostenlose Transfers vom Pier auf dem Festland direkt zur Insel und zurück",
+   "Zugang zum Nationalpark: die offizielle Eintrittsgebühr des Nationalparks Koh Samet ist vollständig gedeckt"
+  ],
+  "included": [
+   "Tür-zu-Tür-Transfers: kostenloser Hin- und Rücktransport in einem bequemen, klimatisierten Fahrzeug direkt ab Ihrem Hotel.",
+   "Schnellbootfahrt: kostenlose Transfers vom Pier auf dem Festland direkt zur Insel und zurück.",
+   "Zugang zum Nationalpark: die offizielle Eintrittsgebühr des Nationalparks Koh Samet ist vollständig gedeckt.",
+   "Komfort am Strand: eine eigene Sonnenliege für Ihre Entspannung am Nachmittag.",
+   "Essen am Meer: ein schmackhaftes Gratis-Abendessen in einem schönen Restaurant direkt am Strand.",
+   "Wasser gratis: Während der Tour wird kostenlos Trinkwasser gestellt.",
+   "Spektakuläre Unterhaltung: der volle Eintritt zur atemberaubenden Feuershow am Strand ist völlig kostenlos."
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke: nicht im Abendessen enthalten.",
+   "Persönliche Ausgaben: Souvenirs oder zusätzliche Speisen und Getränke außerhalb des Programms.",
+   "Trinkgelder: ein Trinkgeld für die Crew ist freiwillig und liegt in Ihrem Ermessen."
+  ],
+  "shortDescription": "Ganztägige Tour in Pattaya, mit Schnellboot und Ko Samet. Durchgeführt von Pattaya Guide Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Insel Koh Samet ab Pattaya: Abendessen und Feuershow",
+  "metaDescription": "Ganztägige Tour in Pattaya. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "floating-cafe-and-optional-squid-fishing-in-pattaya": {
   "title": "Schwimmendes Café und optionales Tintenfischangeln in Pattaya",
   "fullDescription": "Dies ist ein Erlebnis in Pattaya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Schnellboottransfer hin und zurück ab dem Bali-Hai-Pier, Tintenfischangel, 1 alkoholfreies Signature-Getränk, Zur Wahl Sashimi oder gegrillter Tintenfisch aus Ihrem Fang und Scharfe Meeresfrüchtesauce zur Wahl. Nicht enthalten sind Sonstige persönliche Ausgaben, Weitere Speisen und Getränke, Besondere Platzwünsche im Bereich „Netz“ und Mindestverzehr: 1.000 THB für 2 Stunden, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -13577,6 +13606,38 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Pattaya, inklusive Hoteltransfer hin und zurück, Transport im geteilten Schnellboot und Ein Parasailing-Flug. Durchgeführt von AMAKA TOURS TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Strandtag auf Koh Larn mit Parasailing und Mittagessen",
   "metaDescription": "Ganztägige Tour in Pattaya. Enthalten: Hoteltransfer hin und zurück. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "private-plane-tour-over-islands-and-city-tsa-th-in-pattaya": {
+  "title": "Privater Rundflug über die Inseln und die Stadt Pattaya",
+  "fullDescription": "Dies ist ein 25-minütiges Erlebnis in Pattaya, rund um Ko Lan, Ko Khrok und Ko Sak. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nPattaya, zwei Stunden südöstlich von Bangkok, ist die Ferienstadt, die in den 1960er-Jahren aus einem amerikanischen Erholungsposten wuchs, und sie ist zwei Orte: die Bars an der Strandstraße und die Walking Street nach Einbruch der Dunkelheit, und eine Reihe von Familienattraktionen, die zu den besten des Landes gehören. Das Sanctuary of Truth ist ein 105 Meter hoher Tempel aus geschnitztem Teakholz, 1981 begonnen und bis heute unvollendet, ganz ohne Nägel. Der tropische Garten Nong Nooch umfasst 500 Acre Formschnitt und Orchideen. Koh Larn, 40 Minuten mit der Fähre, hat die sauberen Strände, die Pattaya selbst fehlen. Tiffany's und Alcazar sind die zwei seit Langem laufenden Cabaret-Shows, und die Wahrheit ist, dass Pattaya mit Kindern leichter ist, als sein Ruf vermuten lässt.\n\nIm Preis enthalten sind lizenzierter Pilot, Sicherheitsbriefing vor dem Flug, Headset für die Verständigung während des Fluges, Versicherungsschutz für alle Passagiere und Kostenloses GoPro-Video, aufgenommen von der Tragfläche. Nicht enthalten sind Persönliche Ausgaben, Trinkgelder für den Piloten, Abholservice am Hotel und Speisen und Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Pattaya. TSA_Thailand bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Ko Lan",
+   "Ko Khrok",
+   "Ko Sak",
+   "Sanctuary of Truth",
+   "Dauer: 25 Minuten",
+   "Panoramaflug von 20 bis 25 Minuten über die Küste von Pattaya, die Inseln und das Sanctuary of Truth"
+  ],
+  "included": [
+   "Panoramaflug von 20 bis 25 Minuten über die Küste von Pattaya, die Inseln und das Sanctuary of Truth.",
+   "Experienced licensed pilot.",
+   "Sicherheitsbriefing vor dem Flug.",
+   "Headset für die Verständigung während des Fluges.",
+   "Versicherungsschutz für alle Passagiere.",
+   "Kostenloses GoPro-Video von der Tragfläche (für die Inselroute)",
+   "Abholservice am Hotel (nur innerhalb der Abholzone enthalten)."
+  ],
+  "notIncluded": [
+   "Personal expenses.",
+   "Trinkgelder für den Piloten (freiwillig).",
+   "Hotel pickup service (outside free pickup zone).",
+   "Speisen und Getränke.",
+   "Gewichtszuschlag von 96 kg bis 110 kg: 100 THB extra pro kg",
+   "Gewichtszuschlag von 110 kg bis 120 kg: 1.500 THB extra pro Person"
+  ],
+  "shortDescription": "0,4166666666666667-stündige Tour in Pattaya, mit Ko Lan, Ko Khrok und Ko Sak. Durchgeführt von TSA_Thailand, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Privater Rundflug über die Inseln und die Stadt Pattaya",
+  "metaDescription": "0,4166666666666667-stündige Tour in Pattaya. Enthalten: lizenzierter Pilot. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "koh-larn-speedboat-transfer-ticket": {
   "title": "Koh Larn: Ticket für den Schnellboottransfer",
