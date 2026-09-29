@@ -5,6 +5,7 @@ import { JAPAN_REVIEWS } from './tourReviewsJapan';
 import { THAILAND_REVIEWS } from './tourReviewsThailand';
 import { VIETNAM_REVIEWS } from './tourReviewsVietnam';
 import { CAMBODIA_REVIEWS } from './tourReviewsCambodia';
+import { INDIA_REVIEWS } from './tourReviewsIndia';
 
 export interface TourReview {
     author: string;
@@ -32,6 +33,9 @@ export const getTourReviews = (slug: string | undefined): TourReviewData | null 
     if (THAILAND_REVIEWS[slug]) return THAILAND_REVIEWS[slug];
     if (VIETNAM_REVIEWS[slug]) return VIETNAM_REVIEWS[slug];
     if (CAMBODIA_REVIEWS[slug]) return CAMBODIA_REVIEWS[slug];
+    // India was the one country with no map at all: 805 Golden Triangle tours
+    // carried zero reviews while Thailand ran at 70% and Japan at 61%.
+    if (INDIA_REVIEWS[slug]) return INDIA_REVIEWS[slug];
 
     // --- SRI-LANKA TOURS (2026-09, real reviews from the same source listing) ---
     if (slug === 'ella-day-trip-from-kandy-via-nuwara-eliya-ramboda-falls-and-a-tea') {
