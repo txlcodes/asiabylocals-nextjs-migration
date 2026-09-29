@@ -41,7 +41,41 @@ type Tour = {
   currency?: string | null;
   images?: unknown;
   shortDescription?: string | null;
+  options?: unknown;
 };
+
+/**
+ * What one traveller is actually charged.
+ *
+ * `pricePerPerson` cannot be trusted for this: on 513 of the 805 live Golden
+ * Triangle rows it sits below the first pricing tier, sometimes far below. Tour
+ * 7026 stores 2.35 while its ladder charges 45 for one person. The floors that
+ * were applied to the ladders never propagated back to this column, so it is
+ * stale rather than wrong by design. A card reading "From $2.35" that becomes
+ * $45 at checkout loses the booking and deserves to.
+ *
+ * So read the ladder first, exactly as the city page does, and fall back to the
+ * column only when there is no ladder to read.
+ */
+function fromPrice(t: Tour): number | null {
+  const opts = Array.isArray(t.options) ? (t.options as any[]) : [];
+  let best: number | null = null;
+  for (const o of opts) {
+    let tiers = o?.groupPricingTiers;
+    if (typeof tiers === 'string') {
+      try { tiers = JSON.parse(tiers); } catch { tiers = null; }
+    }
+    if (!Array.isArray(tiers) || tiers.length === 0) continue;
+    const sorted = [...tiers].sort((a, b) => Number(a.minPeople) - Number(b.minPeople));
+    const first = sorted[0];
+    const heads = Math.max(1, Number(first.minPeople) || 1);
+    const per = Number(first.price) / heads;
+    if (isFinite(per) && per > 0 && (best === null || per < best)) best = per;
+  }
+  if (best !== null) return Math.ceil(best);
+  const pp = Number(t.pricePerPerson);
+  return isFinite(pp) && pp > 0 ? Math.ceil(pp) : null;
+}
 
 /** Trip length in days, read from the title, which is the only place it is
  *  stated consistently. "7D/6N" and "7-Day" and "7 Days" all mean seven. */
@@ -163,7 +197,7 @@ export default async function GoldenTrianglePage({ params }: Props) {
 
   const card = (t: Tour) => {
     const img = firstImage(t.images);
-    const price = Number(t.pricePerPerson);
+    const price = fromPrice(t);
     const cur = t.currency === 'INR' ? '₹' : '$';
     return (
       <Link
@@ -188,7 +222,7 @@ export default async function GoldenTrianglePage({ params }: Props) {
             <span className="inline-flex items-center gap-1"><MapPin size={13} />{t.city}</span>
             {t.duration && <span className="inline-flex items-center gap-1"><Clock size={13} />{t.duration}</span>}
           </div>
-          {!isNaN(price) && price > 0 && (
+          {price !== null && (
             <p className="text-[14px] font-black text-[#001A33] mt-3">
               From {cur}{price.toLocaleString()} per person
             </p>
