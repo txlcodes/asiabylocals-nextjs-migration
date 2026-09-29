@@ -14328,6 +14328,110 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Mercado del tren de Maeklong y mercado flotante",
   "metaDescription": "Tour de día completo en Krabi. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
+ "alcazar-theatre-pattaya-second-road-evening-tour": {
+  "title": "Pattaya: entrada del espectáculo de cabaré Alcazar por la noche",
+  "metaTitle": "Pattaya: entrada del cabaré Alcazar por la noche",
+  "metaDescription": "Asiento reservado en el legendario cabaré Alcazar de Pattaya: 75 minutos de trajes brillantes, decorados fastuosos y artistas transgénero de primer nivel.",
+  "shortDescription": "Asiento reservado en el legendario cabaré Alcazar de Pattaya: 75 minutos de trajes brillantes, decorados fastuosos y números de primer nivel interpretados por artistas transgénero.",
+  "fullDescription": "Desde hace más de cuatro décadas, el cabaré Alcazar es una de las noches que definen Pattaya: un espectáculo teatral a gran escala que le ha valido la fama de ser una de las mejores producciones de cabaré de Asia. Representado en un teatro construido para él en la Second Road de Pattaya, el espectáculo llena 75 minutos con un torbellino de números musicales a cargo de un amplio elenco de artistas transgénero con talento, con decorados fastuosos, iluminación deslumbrante y trajes que rozan lo arquitectónico.\n\nLa producción salta de una cultura y una época a otra de un acto al siguiente: la danza clásica tailandesa deja paso al K-pop, a números de Bollywood, a la ópera china, a sketches cómicos y a grandes finales al estilo de Las Vegas, así que la energía nunca se queda quieta mucho rato. La puesta en escena es de verdad de alto nivel, con decorados hidráulicos, efectos de cascada y pirotecnia en distintos números, y la coreografía está ensayada con una precisión profesional que sorprende a quien esperaba un simple espectáculo para turistas.\n\nEsta entrada le reserva sitio en una de las funciones de la noche, que se suceden varias veces por velada. Es apta para todas las edades y funciona perfectamente como eje de una noche en Pattaya: llega para el espectáculo y, cuando cae el telón, los restaurantes y la vida nocturna de la ciudad están al lado.",
+  "highlights": [
+   "Una de las producciones de cabaré más conocidas de Asia, en cartel desde hace más de 40 años",
+   "Amplio elenco de artistas transgénero de primer nivel",
+   "Decorados, trajes y efectos especiales fastuosos",
+   "Números que van del clásico tailandés a Bollywood, el K-pop y Las Vegas",
+   "Ubicación céntrica en la Second Road de Pattaya, varios pases cada noche"
+  ],
+  "included": [
+   "Entrada del espectáculo de cabaré Alcazar",
+   "Asiento reservado para el pase elegido"
+  ],
+  "notIncluded": [
+   "Traslados de hotel",
+   "Comida y bebida",
+   "Fotos con los artistas después del espectáculo (pequeño coste, opcional)",
+   "Propinas"
+  ]
+ },
+ "columbia-pictures-aquaverse-entry-ticket": {
+  "title": "Columbia Pictures Aquaverse: entrada al parque acuático con traslados",
+  "metaTitle": "Columbia Pictures Aquaverse: entrada y traslados",
+  "metaDescription": "Entrada y traslados de hotel para el primer parque acuático del mundo tematizado con Columbia Pictures: Jumanji, Los Cazafantasmas y Hotel Transilvania.",
+  "shortDescription": "Entrada y traslados de ida y vuelta al hotel para el primer parque acuático del mundo tematizado con Columbia Pictures, con atracciones de Jumanji, Los Cazafantasmas y Hotel Transilvania.",
+  "fullDescription": "Columbia Pictures Aquaverse abrió al sur de Pattaya como el primer parque acuático del mundo con licencia sobre el catálogo de películas de un estudio de Hollywood, y la tematización va en serio, no es un guiño. Las zonas están construidas en torno a Jumanji, Los Cazafantasmas, Hotel Transilvania y Emoji: la película, con toboganes, piscinas de olas y estructuras de juego vestidas a juego: aquí el fuselaje de un avión estrellado en la jungla, allá la fachada de un hotel encantado.\n\nEl parque ocupa un terreno frente al mar en Bang Saray, así que, a diferencia de casi todos los parques acuáticos, hay vistas de verdad al mar junto a los toboganes, además de acceso directo a la playa. Las atracciones cubren toda la gama: toboganes de caída rápida y pistas de carreras para adolescentes y adultos, una gran piscina de olas, un río lento y amplias zonas poco profundas con cubos volcadores y minitoboganes para los más pequeños. Hay restaurantes y bares en el recinto, incluida una zona de club frente a la playa.\n\nEste paquete junta su entrada con los traslados de ida y vuelta desde su hotel de Pattaya, que es la parte práctica: el parque queda a una buena media hora al sur de la ciudad y es incómodo de alcanzar en songthaew con una bolsa de toallas mojadas al final del día.",
+  "highlights": [
+   "El primer parque acuático del mundo tematizado con Columbia Pictures",
+   "Zonas ambientadas en Jumanji, Los Cazafantasmas y Hotel Transilvania",
+   "Recinto frente al mar en Bang Saray, con vistas al mar y acceso a la playa",
+   "Piscina de olas, río lento y toboganes de alta velocidad",
+   "Amplias zonas de juego poco profundas para los más pequeños",
+   "Traslados de ida y vuelta desde el hotel en Pattaya incluidos"
+  ],
+  "included": [
+   "Entrada de Columbia Pictures Aquaverse",
+   "Traslado de hotel de ida y vuelta en Pattaya",
+   "Acceso a todos los toboganes, piscinas y zonas temáticas"
+  ],
+  "notIncluded": [
+   "Comida y bebida dentro del parque",
+   "Alquiler de taquilla y toalla",
+   "Alquiler de cabaña",
+   "Gastos personales"
+  ]
+ },
+ "dam-restaurant-pattaya-beachfront-mini-tour": {
+  "title": "Espectáculo de fuego en la playa con cena en asientos de bambú en Pattaya",
+  "metaTitle": "Pattaya: espectáculo de fuego y cena en la playa",
+  "metaDescription": "Una noche de cena y fuego sobre la arena: asientos de bambú reservados frente al mar, platos tailandeses y un espectacular espectáculo de fuego junto al agua.",
+  "shortDescription": "Una noche de cena y fuego sobre la arena: asientos de bambú reservados en la playa de Pattaya, una carta de platos tailandeses y un espectacular espectáculo de fuego mientras rompen las olas.",
+  "fullDescription": "Los espectáculos de fuego en la playa se han convertido en uno de los grandes acontecimientos nocturnos de Pattaya, y el DAM Restaurant acoge una de las funciones más conocidas, directamente sobre la arena. Esta experiencia une el espectáculo con una cena sentada de verdad: tendrá asientos de bambú reservados frente al agua, lo bastante cerca para notar el calor de las llamas mientras los artistas giran, hacen malabares y escupen fuego ante un mar que se oscurece.\n\nPrimero llega la cena, elegida entre varias opciones de menú tailandés, servida mientras el sol baja y la playa pasa al modo noche. Los asientos de bambú son bajos y relajados: arena bajo los pies, brisa del mar, ese tipo de montaje que sabe claramente a playa tailandesa y no a restaurante de hotel. Después, cuando cae la oscuridad por completo, la compañía de fuego toma la franja de arena que tiene delante con un número coreografiado de bastones giratorios, poi encendidos y escupidores de fuego, con música de fondo.\n\nEs una noche sencilla y con mucho ambiente, que funciona igual de bien como cita, como salida en familia o como primera noche en Pattaya para descubrir la cultura de playa de la ciudad. No se incluye transporte, pero el restaurante está en el paseo marítimo principal y se llega con facilidad desde cualquier punto de la ciudad.",
+  "highlights": [
+   "Espectáculo de fuego en primera fila, representado sobre la propia arena",
+   "Asientos de bambú reservados frente al mar",
+   "Cena tailandesa con varias opciones de menú",
+   "El ambiente del paseo marítimo, del atardecer a la noche",
+   "Ubicación céntrica y fácil en la costa de Pattaya"
+  ],
+  "included": [
+   "Asientos de bambú reservados en la playa",
+   "Cena (menú elegido)",
+   "Espectáculo de fuego",
+   "Gastos de servicio"
+  ],
+  "notIncluded": [
+   "Traslados de hotel (el local está en pleno centro)",
+   "Bebidas adicionales fuera del menú elegido",
+   "Propinas"
+  ]
+ },
+ "dragon-shooting-club-experience": {
+  "title": "Sesión en la galería de tiro cubierta de Pattaya con instructor",
+  "metaTitle": "Pattaya: sesión de tiro con instructor",
+  "metaDescription": "Sesión supervisada en una galería de tiro cubierta con licencia en Pattaya: pistolas, revólveres y rifles a elegir, con oficial de tiro.",
+  "shortDescription": "Una sesión supervisada en una galería de tiro cubierta con licencia en Pattaya, con pistolas, revólveres y rifles a elegir y un oficial de tiro a su lado durante toda la sesión.",
+  "fullDescription": "Las galerías de tiro con fuego real están estrictamente reguladas en Tailandia, y Pattaya tiene una de las pocas abiertas a los visitantes. Esta sesión le da tiempo en una galería cubierta supervisada con una selección de armas a elegir: normalmente un abanico de pistolas y revólveres de varios calibres, con opciones de rifle y escopeta en los paquetes superiores.\n\nEl formato es sencillo y está guiado por la seguridad. Empezará con un briefing sobre las normas de la galería, el manejo, la postura y la puntería, impartido por un oficial de tiro que se queda con usted en el puesto durante toda la sesión. Se facilita protección para oídos y ojos. A partir de ahí avanza por la dotación de munición elegida a su ritmo, con el oficial corrigiendo el agarre y la postura sobre la marcha y cambiando las dianas entre series.\n\nNo se espera experiencia y la mayoría de quienes reservan no han tenido nunca un arma en la mano. Los instructores están acostumbrados a principiantes absolutos y parten de la base de que usted no sabe nada, que es el enfoque correcto. Se queda con sus dianas al terminar, y se permiten fotos y vídeo en las zonas señaladas, así que se va con un recuerdo.",
+  "highlights": [
+   "Galería cubierta con licencia y un oficial de tiro por puesto",
+   "Selección de pistolas, revólveres y rifles a elegir",
+   "Briefing de seguridad completo e instrucción de manejo incluidos",
+   "Apta para principiantes absolutos",
+   "Protección de ojos y oídos incluida",
+   "Se queda con sus dianas y puede hacer fotos en las zonas permitidas"
+  ],
+  "included": [
+   "Entrada a la galería y alquiler del puesto",
+   "Alquiler del arma del paquete elegido",
+   "Munición según el paquete elegido",
+   "Supervisión e instrucción de un oficial de tiro",
+   "Protección de ojos y oídos",
+   "Dianas"
+  ],
+  "notIncluded": [
+   "Traslados de hotel",
+   "Munición adicional más allá de su paquete",
+   "Comida y bebida",
+   "Propinas"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",
