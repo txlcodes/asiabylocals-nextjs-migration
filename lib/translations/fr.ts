@@ -3743,6 +3743,50 @@ export const FR_TOURS: Record<string, TourT> = {
    }
   ]
  },
+ "7-days-india-taj-mahal-tour-with-ranthambore-tiger": {
+  "title": "Inde en 7 jours : Taj Mahal et safari tigre à Ranthambore",
+  "metaTitle": "Inde en 7 jours : Taj Mahal et tigres de Ranthambore",
+  "metaDescription": "Sept jours de Delhi à Agra et Jaipur avec un safari tigre à Ranthambore, et des options d'hôtels quatre ou cinq étoiles.",
+  "shortDescription": "Sept jours au départ de Delhi, par Agra et Jaipur, avec un safari tigre à Ranthambore et des options d'hôtels quatre ou cinq étoiles.",
+  "fullDescription": "**Sept jours, et le safari a droit à deux tentatives**\n\nLe Triangle d'or avec Ranthambore en plus, et assez de temps pour que le parc ait deux safaris plutôt qu'un. Les observations relèvent de la probabilité, et deux sorties doublent à peu près les chances.\n\n**Jour 1 : Delhi**\n\nAccueil à l'arrivée et transfert à votre hôtel, la soirée servant à récupérer.\n\n**Delhi**\n\nLa **Jama Masjid** et un cyclo-pousse à travers **Chandni Chowk**, tracé dans les années 1650 avec un canal en son centre. **Raj Ghat**, où Gandhi a été incinéré en 1948. Puis **India Gate**, le **tombeau de Humayun**, le tombeau-jardin moghol des années 1560 dont descend le Taj, et le **Qutub Minar** avec son pilier de fer qui ne rouille pas.\n\n**Agra**\n\nLe **Taj Mahal**, au mieux au lever du soleil quand le marbre passe du gris au rose puis au blanc, avec une fraction de la foule de la fin de matinée. Le **fort d'Agra**, et le **Musamman Burj** où Aurangzeb a emprisonné son père pendant huit ans, avec le Taj en vue le long de la rivière.\n\n**Fatehpur Sikri** sur la route vers le sud : la capitale d'Akbar de 1571, abandonnée au bout de quatorze ans quand l'eau a manqué, et intacte pour cette raison même.\n\n**Ranthambore**\n\n1 300 kilomètres carrés de forêt sèche décidue autour d'un fort de colline du dixième siècle qui se dresse toujours à l'intérieur de la réserve. Environ soixante-dix tigres y vivent, exceptionnellement habitués aux véhicules, et c'est pourquoi c'est le meilleur parc à tigres du nord de l'Inde.\n\nLes safaris partent tôt le matin et en milieu d'après-midi, en gypsy ouverte ou en canter, sur une zone attribuée par le département des forêts. Certains quoi qu'il arrive, tigres ou pas : sambars, chitals, nilgauts, langurs et crocodiles au bord des lacs.\n\n**Jaipur**\n\nLe **fort d'Amber** au-dessus du lac Maota, le **City Palace**, le **Jantar Mantar** et le **Hawa Mahal**, avec une soirée dans les bazars.\n\n**Trois options**\n\nGuide seul ; avec hôtels quatre étoiles, voiture et guide ; ou avec hôtels cinq étoiles.\n\n**Pratique**\n\n**Ranthambore ferme du 1er juillet au 30 septembre.** Les permis sont limités, réservez tôt. **Le Taj est fermé le vendredi.**",
+  "highlights": [
+   "Plongez dans l'élégance royale de Jaipur : fort d'Amber, City Palace, Hawa Mahal."
+  ],
+  "included": [
+   "Hébergement en hôtels 5 étoiles à chaque étape.",
+   "Petit-déjeuner quotidien pour bien démarrer la journée.",
+   "Visites guidées de Delhi, Agra et Jaipur avec les éclairages d'un spécialiste.",
+   "bouteille d'eau potable fraîche pendant les trajets",
+   "Transport privé climatisé.",
+   "Toutes les taxes et les frais de stationnement."
+  ],
+  "notIncluded": [
+   "Déjeuner et dîner",
+   "Dépenses personnelles.",
+   "Pourboires"
+  ]
+ },
+ "agra-baby-taj-and-mehtab-bagh-private-guided-tour": {
+  "title": "Agra : Baby Taj et Mehtab Bagh, visite privée guidée avec prise en charge",
+  "metaTitle": "Agra : Baby Taj et Mehtab Bagh en visite privée",
+  "metaDescription": "Quatre heures au Baby Taj et à Mehtab Bagh avec guide et voiture privés, les deux sites d'Agra que la foule manque.",
+  "shortDescription": "Quatre heures au Baby Taj et à Mehtab Bagh avec un guide et une voiture privés, les deux sites d'Agra que la foule manque.",
+  "fullDescription": "**Le tombeau qui a rendu le Taj possible, et le jardin qui lui fait face**\n\nCes deux sites se trouvent sur la rive de la Yamuna opposée au Taj Mahal, à quelques kilomètres l'un de l'autre, et tous deux sont généralement vides. Quatre heures suffisent pour les voir sans se presser.\n\n**Itimad-ud-Daulah, le Baby Taj**\n\nNur Jahan l'a fait bâtir entre 1622 et 1628 pour son père, Mirza Ghiyas Beg, un noble persan devenu trésorier de l'empire.\n\nSon importance architecturale est sans commune mesure avec sa taille. C'est le **premier édifice moghol entièrement en marbre blanc**, tout ce qui l'a précédé étant en grès rouge avec des filets de marbre, et le premier à employer la **pietra dura**, ces pierres semi-précieuses taillées et incrustées dans la surface de marbre en motifs floraux et géométriques.\n\nLe Taj Mahal, commencé quatre ans après l'achèvement de celui-ci, c'est cette idée portée à une échelle énorme. Venir ici d'abord, puis aller au Taj, change la façon dont on le regarde.\n\nLe travail d'incrustation du Baby Taj est plus dense et plus fin que tout ce que porte son célèbre descendant : cornaline, jaspe, lapis, onyx et topaze sertis sur presque toutes les surfaces, avec des claustras jali taillés si finement que la lumière passe en dessins sur le sol.\n\n**Mehtab Bagh**\n\nUn jardin moghol juste en face, de l'autre côté de la rivière, aligné exactement sur l'axe du Taj. On pense que Shah Jahan l'a choisi comme jardin de clair de lune pour contempler le tombeau, et la légende selon laquelle il aurait voulu y bâtir une réplique en marbre noir n'a jamais été confirmée par les fouilles.\n\nCe qu'il vous offre, c'est la meilleure vue sur le Taj à Agra : tout l'édifice reflété dans l'eau, sans foule dans le cadre. Venez en fin de journée, quand le marbre prend la couleur.\n\n**Trois options**\n\nGuide seul, si vous avez votre propre véhicule. Voiture privée, chauffeur et guide. Ou la même chose avec les droits d'entrée compris : le Baby Taj est à 310 ₹ pour les ressortissants étrangers, Mehtab Bagh à 300 ₹.\n\nCette visite n'entre pas dans le Taj Mahal lui-même ; elle est conçue pour accompagner une visite du Taj.",
+  "highlights": [
+   "Visitez l'élégant Itimad-ud-Daulah (le Baby Taj), connu pour ses incrustations de marbre."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour les visites",
+   "Guide local expert agréé par le gouvernement",
+   "Billets d'entrée des monuments (si l'option est choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Réservez un guide officiel pour explorer Bengaluru",
   "metaTitle": "Bengaluru avec guide : palais, Lalbagh, temples et bazars",
