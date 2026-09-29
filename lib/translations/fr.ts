@@ -12321,6 +12321,36 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "3 îles en catamaran avec déjeuner buffet à Pattaya",
   "metaDescription": "Excursion d'une journée entière à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "day-tour-luxury-yacht-cruise-with-premium-lunch-set-in-pattaya": {
+  "title": "Journée en yacht de luxe avec menu déjeuner premium à Pattaya",
+  "fullDescription": "Cette expérience de 6 heures se déroule au départ de Pattaya, construite autour de Koh Phai, Sanctuaire de la Vérité et Catamaran. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend sortie en yacht en groupe partagé, menu déjeuner thaï premium, photos et vidéo par drone, équipement de snorkeling et matériel de pêche. Il ne comprend pas il est interdit d'apporter de la nourriture à bord et droit de bouchon : 500 bahts la bouteille, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Pattaya. TSA_Thailand confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Koh Phai",
+   "Sanctuaire de la Vérité",
+   "Catamaran",
+   "Durée : 6 heures",
+   "Sortie en yacht en groupe partagé",
+   "Menu déjeuner thaï premium"
+  ],
+  "included": [
+   "Sortie en yacht en groupe partagé",
+   "Menu déjeuner thaï premium",
+   "Photos et vidéo par drone",
+   "Équipement de snorkeling",
+   "Matériel de pêche",
+   "Assurance voyage",
+   "Toboggan",
+   "Service de prise en charge (pour l'option avec prise en charge)",
+   "Gratuit pour les enfants de moins de 2 ans"
+  ],
+  "notIncluded": [
+   "Il est interdit d'apporter de la nourriture à bord",
+   "Droit de bouchon : 500 bahts la bouteille"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Pattaya, avec Ko Sak, Pattaya, Koh Phai et Sanctuaire de la Vérité. Opérateur : TSA_Thailand, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Journée en yacht de luxe avec menu déjeuner premium à Pattaya",
+  "metaDescription": "Excursion d'une demi-journée à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "3-islands-yacht-sunset-party-with-live-dj-and-buffet-in-pattaya": {
   "title": "3 îles en yacht au coucher du soleil : DJ live et buffet",
   "fullDescription": "Cette expérience de 8 heures se déroule au départ de Pattaya, construite autour de Koh Phai. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend navigation en yacht de luxe, équipage et guide, matériel de pêche, gilets de sauvetage et équipement de snorkeling. Il ne comprend pas boissons alcoolisées et autres dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPattaya City. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -12422,6 +12452,37 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "shortDescription": "Excursion d'une journée entière à Pattaya, avec Zoo ouvert de Khao Kheow. Opérateur : PattayaCentral, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Zoo de Khao Kheow et village japonais J-Park en une journée",
+  "metaDescription": "Excursion d'une journée entière à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "waterfall-swim-cave-river-and-naga-temple-day-trip-in-pattaya": {
+  "title": "Baignade à la cascade, rivière souterraine et temple Naga",
+  "fullDescription": "Cette expérience de 12 heures se déroule au départ de Pattaya, construite autour de Cascade de Khao Chamao, Than Chamao Resort et Wat Tham Khao Prathun. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nPattaya, à deux heures au sud-est de Bangkok, est la ville balnéaire née d'un centre de repos américain dans les années 1960, et c'est deux endroits en un : les bars du bord de mer et Walking Street à la nuit tombée, et un ensemble d'attractions familiales qui comptent parmi les meilleures du pays. Le Sanctuaire de la Vérité est un temple de teck sculpté de 105 mètres, commencé en 1981 et toujours inachevé, entièrement sans clous. Le jardin tropical de Nong Nooch couvre 500 acres de topiaires et d'orchidées. Koh Larn, à 40 minutes de ferry, a les plages propres qui manquent à Pattaya même. Tiffany's et Alcazar sont les deux spectacles de cabaret de longue date, et la vérité est que Pattaya est plus facile avec des enfants que sa réputation ne le laisse croire.\n\nLe prix comprend prise en charge et dépose à l'hôtel à Pattaya, van climatisé, guide, eau en bouteille et déjeuner à la thaïlandaise. Il ne comprend pas boissons alcoolisées, dépenses personnelles et pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPattaya City. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Cascade de Khao Chamao",
+   "Than Chamao Resort",
+   "Wat Tham Khao Prathun",
+   "Wat Wang Ri Khiri Wanwanaram",
+   "Durée : 12 heures",
+   "Prise en charge et dépose à l'hôtel à Pattaya"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel à Pattaya",
+   "Van climatisé",
+   "Guide anglophone",
+   "Eau en bouteille",
+   "Déjeuner à la thaïlandaise",
+   "Dégustation de desserts thaïs",
+   "Entrée du parc national",
+   "Droit d'entrée de la grotte",
+   "Passage en bateau dans le tunnel de la grotte en saison des pluies"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisées",
+   "Dépenses personnelles",
+   "Pourboires"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Pattaya, avec Cascade de Khao Chamao, Than Chamao Resort et Wat Tham Khao Prathun. Opérateur : Pattaya Guide Travel, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Baignade à la cascade, rivière souterraine et temple Naga",
   "metaDescription": "Excursion d'une journée entière à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "colosseum-show-entry-ticket-for-foreigners-in-pattaya": {
@@ -12783,6 +12844,35 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "EasyKart Pattaya (Thepprasit) : séance de karting",
   "metaDescription": "Excursion à Pattaya. Comprend équipement de sécurité et clé de casier. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "ramayana-water-park-entry-ticket-and-transfer-in-pattaya": {
+  "title": "Parc aquatique Ramayana : billet et transfert à Pattaya",
+  "fullDescription": "Cette expérience d'une journée entière se déroule au départ de Pattaya, construite autour de Parc aquatique Ramayana. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nPattaya, à deux heures au sud-est de Bangkok, est la ville balnéaire née d'un centre de repos américain dans les années 1960, et c'est deux endroits en un : les bars du bord de mer et Walking Street à la nuit tombée, et un ensemble d'attractions familiales qui comptent parmi les meilleures du pays. Le Sanctuaire de la Vérité est un temple de teck sculpté de 105 mètres, commencé en 1981 et toujours inachevé, entièrement sans clous. Le jardin tropical de Nong Nooch couvre 500 acres de topiaires et d'orchidées. Koh Larn, à 40 minutes de ferry, a les plages propres qui manquent à Pattaya même. Tiffany's et Alcazar sont les deux spectacles de cabaret de longue date, et la vérité est que Pattaya est plus facile avec des enfants que sa réputation ne le laisse croire.\n\nLe prix comprend billet d'entrée du parc aquatique Ramayana, accès illimité à tous les toboggans et attractions pour, transfert d'hôtel aller-retour depuis Pattaya et retour à votre, surveillance par des maîtres-nageurs dans tout le parc et entrée gratuite pour les enfants de moins de 106 cm. Il ne comprend pas location de casier, nourriture et boissons, location de serviette de bain et soins de spa et massages, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPattaya City. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Parc aquatique Ramayana",
+   "Durée : une journée entière",
+   "Billet d'entrée du parc aquatique Ramayana",
+   "Accès illimité à tous les toboggans et attractions pour la journée",
+   "Transfert d'hôtel aller-retour depuis Pattaya et retour à votre logement",
+   "Surveillance par des maîtres-nageurs dans tout le parc"
+  ],
+  "included": [
+   "Billet d'entrée du parc aquatique Ramayana",
+   "Accès illimité à tous les toboggans et attractions pour la journée",
+   "Transfert d'hôtel aller-retour depuis Pattaya et retour à votre logement",
+   "Surveillance par des maîtres-nageurs dans tout le parc",
+   "Entrée gratuite pour les enfants de moins de 106 cm"
+  ],
+  "notIncluded": [
+   "Location de casier (120 THB)",
+   "Nourriture et boissons",
+   "Location de serviette de bain",
+   "Soins de spa et massages",
+   "Dépenses personnelles"
+  ],
+  "shortDescription": "Billet d'entrée à Pattaya, avec Parc aquatique Ramayana. Opérateur : Pattaya Guide Travel, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Parc aquatique Ramayana : billet et transfert à Pattaya",
+  "metaDescription": "Billet d'entrée à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "let-s-relax-onsen-and-spa-all-day-pass-in-pattaya": {
   "title": "Let's Relax Onsen & Spa à Pattaya : pass à la journée",
   "fullDescription": "Cette expérience se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nPattaya, à deux heures au sud-est de Bangkok, est la ville balnéaire née d'un centre de repos américain dans les années 1960, et c'est deux endroits en un : les bars du bord de mer et Walking Street à la nuit tombée, et un ensemble d'attractions familiales qui comptent parmi les meilleures du pays. Le Sanctuaire de la Vérité est un temple de teck sculpté de 105 mètres, commencé en 1981 et toujours inachevé, entièrement sans clous. Le jardin tropical de Nong Nooch couvre 500 acres de topiaires et d'orchidées. Koh Larn, à 40 minutes de ferry, a les plages propres qui manquent à Pattaya même. Tiffany's et Alcazar sont les deux spectacles de cabaret de longue date, et la vérité est que Pattaya est plus facile avec des enfants que sa réputation ne le laisse croire.\n\nLe prix comprend accès à la journée au Let's Relax Onsen & Spa de Pattaya. Il ne comprend pas soins de massage, forfaits spa, nourriture et boissons et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -13101,6 +13191,36 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Frost Magical Ice of Siam à Pattaya : entrée et transferts",
   "metaDescription": "Excursion de 3 heures à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "pattaya-highlights-private-half-day-tour-by-local-operator": {
+  "title": "Les incontournables de Pattaya : demi-journée privée",
+  "fullDescription": "Cette expérience de 6 heures se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nPattaya, à deux heures au sud-est de Bangkok, est la ville balnéaire née d'un centre de repos américain dans les années 1960, et c'est deux endroits en un : les bars du bord de mer et Walking Street à la nuit tombée, et un ensemble d'attractions familiales qui comptent parmi les meilleures du pays. Le Sanctuaire de la Vérité est un temple de teck sculpté de 105 mètres, commencé en 1981 et toujours inachevé, entièrement sans clous. Le jardin tropical de Nong Nooch couvre 500 acres de topiaires et d'orchidées. Koh Larn, à 40 minutes de ferry, a les plages propres qui manquent à Pattaya même. Tiffany's et Alcazar sont les deux spectacles de cabaret de longue date, et la vérité est que Pattaya est plus facile avec des enfants que sa réputation ne le laisse croire.\n\nLe prix comprend véhicule privé, frais de carburant, assurance accident, billet d'entrée du village de Nong Nooch et billet d'entrée du Sanctuaire de la Vérité. Il ne comprend pas spectacles de culture thaïe de Nong Nooch, tour en barque au marché flottant, tous les repas pendant l'excursion et autres dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 6 heures",
+   "Véhicule privé",
+   "Frais de carburant",
+   "Assurance accident",
+   "Billet d'entrée du village de Nong Nooch (selon votre formule)",
+   "Billet d'entrée du Sanctuaire de la Vérité (selon votre formule)"
+  ],
+  "included": [
+   "Véhicule privé",
+   "Frais de carburant",
+   "Assurance accident",
+   "Billet d'entrée du village de Nong Nooch (selon votre formule)",
+   "Billet d'entrée du Sanctuaire de la Vérité (selon votre formule)",
+   "Billet d'entrée du marché flottant de Pattaya"
+  ],
+  "notIncluded": [
+   "Spectacles de culture thaïe de Nong Nooch",
+   "Tour en barque au marché flottant",
+   "Tous les repas pendant l'excursion",
+   "Autres dépenses personnelles",
+   "Pourboires"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Pattaya, comprenant véhicule privé, frais de carburant et assurance accident. Opérateur : SST Global Tour, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Les incontournables de Pattaya : demi-journée privée",
+  "metaDescription": "Excursion d'une demi-journée à Pattaya. Comprend véhicule privé. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "elephant-jungle-sanctuary-feeding-experience-in-pattaya": {
   "title": "Elephant Jungle Sanctuary : nourrir les éléphants à Pattaya",
   "fullDescription": "Cette expérience de 30 minutes se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend billet d'entrée, nourriture pour donner à manger aux éléphants et sodas. Il ne comprend pas prise en charge et retour à l'hôtel et repas, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -13141,6 +13261,36 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Jardin tropical de Nong Nooch : billet pour les étrangers",
   "metaDescription": "Billet d'entrée à Pattaya. Comprend entrée selon la formule choisie. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "pattaya-sina-floating-beach-club-experience": {
+  "title": "Sina Floating Beach Club à Pattaya",
+  "fullDescription": "Cette expérience de 9 heures se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend transfert aller-retour depuis un hôtel de Bangkok ou de Pattaya, prise en charge et retour dans tout hôtel du centre de Bangkok, musique de DJ et spectacles en direct, coucher de soleil avec vue sur la mer et loges de luxe. Il ne comprend pas nourriture et boissons, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 9 heures",
+   "Transfert aller-retour depuis un hôtel de Bangkok ou de Pattaya",
+   "Prise en charge et retour dans tout hôtel du centre de Bangkok",
+   "Musique de DJ et spectacles en direct",
+   "Coucher de soleil avec vue sur la mer",
+   "Loges de luxe"
+  ],
+  "included": [
+   "Transfert aller-retour depuis un hôtel de Bangkok ou de Pattaya.",
+   "Prise en charge et retour dans tout hôtel du centre de Bangkok",
+   "Musique de DJ et spectacles en direct",
+   "Coucher de soleil avec vue sur la mer",
+   "Loges de luxe",
+   "Séances photo",
+   "Rassemblements",
+   "Dates",
+   "Réceptions d'entreprise",
+   "Demandes de voyages d'équipe"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Pattaya, comprenant transfert aller-retour depuis un hôtel de Bangkok ou de Pattaya, prise en charge et retour dans tout hôtel du centre de Bangkok et musique de DJ et spectacles en direct. Opérateur : PR Travel Services, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Sina Floating Beach Club à Pattaya",
+  "metaDescription": "Excursion d'une journée entière à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "nong-nooch-tropical-garden-tickets-with-private-hotel-pickup-pattaya": {
   "title": "Jardin de Nong Nooch : billets et prise en charge privée",
   "fullDescription": "Cette expérience d'une journée entière se déroule à Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nPattaya, à deux heures au sud-est de Bangkok, est la ville balnéaire née d'un centre de repos américain dans les années 1960, et c'est deux endroits en un : les bars du bord de mer et Walking Street à la nuit tombée, et un ensemble d'attractions familiales qui comptent parmi les meilleures du pays. Le Sanctuaire de la Vérité est un temple de teck sculpté de 105 mètres, commencé en 1981 et toujours inachevé, entièrement sans clous. Le jardin tropical de Nong Nooch couvre 500 acres de topiaires et d'orchidées. Koh Larn, à 40 minutes de ferry, a les plages propres qui manquent à Pattaya même. Tiffany's et Alcazar sont les deux spectacles de cabaret de longue date, et la vérité est que Pattaya est plus facile avec des enfants que sa réputation ne le laisse croire.\n\nLe prix comprend billet d'entrée du jardin tropical de Nong Nooch, accès au bus de visite, accès aux spectacles, déjeuner buffet compris et prise en charge et retour privés à l'hôtel. Il ne comprend pas achats et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Pattaya. Holidays World Pte Ltd confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -13165,6 +13315,33 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion d'une journée entière à Pattaya, comprenant billet d'entrée du jardin tropical de Nong Nooch, accès au bus de visite et accès aux spectacles. Opérateur : Holidays World Pte Ltd, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Jardin de Nong Nooch : billets et prise en charge privée",
   "metaDescription": "Excursion d'une journée entière à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "junglekart-off-road-electric-go-kart-experience-pattaya-by-local-operator": {
+  "title": "JungleKart à Pattaya : kart électrique tout-terrain",
+  "fullDescription": "Cette expérience de 20 minutes se déroule au départ de Pattaya, construite autour de JUNGLEKART. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nPattaya, à deux heures au sud-est de Bangkok, est la ville balnéaire née d'un centre de repos américain dans les années 1960, et c'est deux endroits en un : les bars du bord de mer et Walking Street à la nuit tombée, et un ensemble d'attractions familiales qui comptent parmi les meilleures du pays. Le Sanctuaire de la Vérité est un temple de teck sculpté de 105 mètres, commencé en 1981 et toujours inachevé, entièrement sans clous. Le jardin tropical de Nong Nooch couvre 500 acres de topiaires et d'orchidées. Koh Larn, à 40 minutes de ferry, a les plages propres qui manquent à Pattaya même. Tiffany's et Alcazar sont les deux spectacles de cabaret de longue date, et la vérité est que Pattaya est plus facile avec des enfants que sa réputation ne le laisse croire.\n\nLe prix comprend session de 20 minutes en kart électrique tout-terrain, jungleKart électrique haute performance, casque et équipement de protection complet, briefing de sécurité avant la course et encadrement sur piste par du personnel expérimenté. Il ne comprend pas transferts à l'hôtel, nourriture et boissons et photos et vidéos, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nVX8R+X6 Huay Yai, district de Bang Lamung, Chon Buri, Thaïlande. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "JUNGLEKART",
+   "Durée : 20 minutes",
+   "Session de 20 minutes en kart électrique tout-terrain",
+   "JungleKart électrique haute performance",
+   "Casque et équipement de protection complet",
+   "Briefing de sécurité avant la course"
+  ],
+  "included": [
+   "Session de 20 minutes en kart électrique tout-terrain",
+   "JungleKart électrique haute performance",
+   "Casque et équipement de protection complet",
+   "Briefing de sécurité avant la course",
+   "Encadrement sur piste par du personnel expérimenté"
+  ],
+  "notIncluded": [
+   "Transferts d'hôtel (sur demande, en supplément)",
+   "Nourriture et boissons (disponibles sur place en supplément)",
+   "Photos et vidéos (disponibles sur place en supplément)"
+  ],
+  "shortDescription": "Excursion de 0,3333333333333333 heures à Pattaya, avec Junglekart. Opérateur : Pattaya Adventure Co., Ltd., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "JungleKart à Pattaya : kart électrique tout-terrain",
+  "metaDescription": "Excursion de 0,3333333333333333 heures à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "indoor-shooting-range-experience-in-pattaya": {
   "title": "Stand de tir couvert à Pattaya",
@@ -13316,6 +13493,34 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Pattaya, avec Catamaran, Koh Phai and Koh Rin et Province de Chonburi. Opérateur : Serenity Yachting Co. Ltd., en réservation directe plutôt que via un revendeur.",
   "metaTitle": "3 îles en catamaran en exclusivité, avec déjeuner buffet",
   "metaDescription": "Excursion à Pattaya. Comprend croisière de 7 heures. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "pattaya-day-trip-from-bkk-hidden-beach-and-sanctuary-of-truth-by-local-operator": {
+  "title": "Pattaya depuis Bangkok : plage secrète et Sanctuaire de la Vérité",
+  "fullDescription": "Cette expérience de 10 heures se déroule à Pattaya, construite autour de Plage de Sai Kaew, LALA LAKE, au sud de Pattaya et Point de vue de Pattaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel, droit d'entrée du Sanctuaire de la Vérité, prise en charge à l'hôtel uniquement, transport en véhicule climatisé et guide. Il ne comprend pas repas et boissons, tous les billets et droits d'entrée et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nFuture Cafe & Restaurant. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Plage de Sai Kaew",
+   "LALA LAKE, au sud de Pattaya",
+   "Point de vue de Pattaya",
+   "Sanctuaire de la Vérité",
+   "Durée : 10 heures",
+   "Prise en charge et retour à l'hôtel (pour les visites privées)"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel (pour les visites privées)",
+   "Droit d'entrée du Sanctuaire de la Vérité (si l'option est choisie)",
+   "Prise en charge à l'hôtel uniquement (si l'option est choisie pour les visites en petit groupe)",
+   "Transport en véhicule climatisé",
+   "Guide professionnel",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "Tous les billets et droits d'entrée",
+   "Dépenses personnelles"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Pattaya, avec Plage de Sai Kaew, LALA LAKE, au sud de Pattaya et Point de vue de Pattaya. Opérateur : MPG Thailand, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Pattaya depuis Bangkok : plage secrète et Sanctuaire de la Vérité",
+  "metaDescription": "Excursion d'une journée entière à Pattaya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "private-pattaya-day-tour-sanctuary-of-truth-and-beach-caf-by-local-operator": {
   "title": "Pattaya en privé : Sanctuaire de la Vérité et café de plage",
