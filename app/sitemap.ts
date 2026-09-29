@@ -476,6 +476,17 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.7,
   }));
 
+  // The Golden Triangle hub. Registered explicitly rather than derived, because
+  // it is the only route of its kind: one country, one page. Leaving it out of
+  // the sitemap is how Nagoya's authority pages went live and stayed uncrawled.
+  const goldenTriangle = [{
+    url: `${BASE_URL}/india/golden-triangle`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+    // "golden triangle tour" outranks any single tour page we have for it.
+    priority: 0.9,
+  }];
+
   // Country-level multi-day itineraries — the pages targeting "7 day Japan
   // itinerary" and similar, which pull far more search than any one tour page.
   // Derived, not listed: a hardcoded country list is how Nagoya's authority
@@ -737,7 +748,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   const all = [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...siemReapInfoPages, ...phnomPenhInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...mountFujiInfoPages, ...colomboInfoPages, ...kandyInfoPages, ...sigiriyaInfoPages, ...mirissaInfoPages, ...bentotaInfoPages, ...nuwaraEliyaInfoPages, ...negomboInfoPages, ...dubaiInfoPages, ...haLongInfoPages, ...hanoiInfoPages, ...sapaInfoPages, ...hoiAnInfoPages, ...ubudInfoPages, ...cangguInfoPages, ...uluwatuInfoPages, ...nusaPenidaInfoPages, ...daNangInfoPages, ...hoChiMinhCityInfoPages,
     ...abuDhabiInfoPages,
-    ...galleInfoPages, ...ellaInfoPages, ...itineraryPages, ...tourPages];
+    ...galleInfoPages, ...ellaInfoPages, ...itineraryPages, ...goldenTriangle, ...tourPages];
 
   // Drop any URL whose last segment is a slug we 308 away from. Six of these
   // were being submitted — /india/agra/agra-gatimaan-entry-ticket and friends —
