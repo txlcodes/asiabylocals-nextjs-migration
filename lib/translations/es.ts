@@ -14432,6 +14432,61 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "dropzone-near-pattaya-gulf-of-thailand-coastline-mini-tour": {
+  "title": "Pattaya: salto en paracaídas en tándem sobre el golfo de Tailandia",
+  "metaTitle": "Pattaya: salto en paracaídas en tándem",
+  "metaDescription": "Caída libre desde cuatro kilómetros sobre la costa este de Tailandia en salto en tándem, con el golfo de Tailandia a sus pies y paquetes de vídeo disponibles.",
+  "shortDescription": "Caída libre desde cuatro kilómetros sobre la costa este de Tailandia en un salto en tándem, con el litoral del golfo de Tailandia extendido a sus pies y paquetes de vídeo disponibles.",
+  "fullDescription": "Pocas vistas de Tailandia se comparan con la que se tiene desde cuatro kilómetros de altura: el golfo de Tailandia curvándose abajo, el litoral entre Bangkok y Pattaya desplegado como un mapa, y entre usted y él nada más que aire. Este salto en tándem pone esa vista en el programa: sujeto a un instructor profesional, saldrá del avión en altura para cerca de un minuto de caída libre completa, antes de que se abra la vela y el descenso se convierta en un tranquilo sobrevuelo de cinco minutos sobre la costa este.\n\nNo hace falta experiencia para un salto en tándem. Al llegar a la zona de salto recibirá un briefing en tierra completo sobre la posición del cuerpo, la salida del avión y el aterrizaje; después se equipa y embarca con su instructor, que se ocupa de todo el aspecto técnico del salto de principio a fin. La experiencia completa dura unas cuatro horas de puerta a puerta, con traslado en furgoneta desde Pattaya incluido y regreso a la ciudad al terminar.\n\nPara la mayoría este es un salto que se hace una vez en la vida, y el operador ofrece paquetes de vídeo y fotos para conservar el momento: muchos saltadores graban mensajes para amigos y familiares en el aire, y salen recuerdos inolvidables.",
+  "highlights": [
+   "Caída libre en tándem desde 4 kilómetros sobre el litoral",
+   "Vistas amplísimas del golfo de Tailandia",
+   "No hace falta experiencia, el instructor se ocupa de todo",
+   "Briefing en tierra completo y todo el equipo incluidos",
+   "Paquetes de vídeo y fotos disponibles para conservar el salto"
+  ],
+  "included": [
+   "Traslado en furgoneta de ida y vuelta según la opción elegida",
+   "Salto en tándem con instructor titulado",
+   "Todo el equipo y material de paracaidismo",
+   "Formación en tierra y briefing de seguridad",
+   "Certificado del salto"
+  ],
+  "notIncluded": [
+   "Paquetes de vídeo y fotos (con coste adicional)",
+   "Comidas y bebidas",
+   "Propinas para su instructor",
+   "Seguro personal"
+  ]
+ },
+ "elephant-jungle-sanctuary-pattaya-countryside-half-day-tour": {
+  "title": "Encuentro ético con elefantes: media jornada en el santuario de la jungla con comida",
+  "metaTitle": "Elefantes en Pattaya: media jornada en el santuario",
+  "metaDescription": "Media jornada con elefantes rescatados en un santuario ético cerca de Pattaya: darles de comer, caminar a su lado y compartir su baño de barro.",
+  "shortDescription": "Pase media jornada con elefantes rescatados en un santuario ético a las afueras de Pattaya: deles de comer, camine a su lado y comparta su baño de barro, con comida tailandesa incluida.",
+  "fullDescription": "Sin montar, sin números, sin ganchos: este santuario en la jungla a las afueras de Pattaya existe para dar a los elefantes rescatados una jubilación digna, y los visitantes los conocen en los términos de los animales. En unas tres horas en el campamento escuchará de los cuidadores la historia de cada elefante, les dará de comer plátanos y caña de azúcar con la mano, caminará a su lado entre los árboles y, el momento más sucio e inolvidable, se meterá con ellos en la poza de barro para después ayudar a enjuagarlos en el agua.\n\nEl santuario pertenece a la familia de campamentos Elephant Jungle Sanctuary, uno de los proyectos éticos con elefantes más conocidos de Tailandia, y el modelo es siempre el mismo: grupos pequeños de visitantes, trato sin prisas y elefantes libres de marcharse cuando se han cansado de usted. Los guías explican el pasado de los animales, muchos llegados de campamentos madereros o de paseos, y el panorama general del bienestar de los elefantes en Tailandia, lo que da a las partes más tiernas de la visita un contexto real.\n\nDurante la visita se sirve una comida tailandesa en el campamento, y se facilitan camisas tradicionales de estilo karen para la hora de dar de comer, tanto por las fotos como porque los elefantes reconocen los colores. Con recogida y regreso al hotel desde Pattaya y solo 40 minutos de viaje en cada sentido, es media jornada sencilla que aparece de forma habitual entre las experiencias mejor valoradas de la región.",
+  "highlights": [
+   "Dar de comer a mano a elefantes rescatados y caminar a su lado, sin montarlos",
+   "Compartir el baño de barro de los elefantes y su enjuague en el río",
+   "Escuchar de los cuidadores la historia de rescate de cada elefante",
+   "Comida tailandesa en el santuario incluida",
+   "Traslados de hotel de ida y vuelta desde Pattaya, solo 40 minutos por trayecto"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en la ciudad de Pattaya",
+   "Entrada al santuario y todas las actividades con los elefantes",
+   "Comida tailandesa en el campamento",
+   "Camisa tradicional para llevar durante la alimentación",
+   "Plátanos y caña de azúcar para dar de comer",
+   "Guía en inglés",
+   "Agua potable"
+  ],
+  "notIncluded": [
+   "Toallas (traiga las suyas para después del baño de barro)",
+   "Paquetes de fotos profesionales (opcionales, en el lugar)",
+   "Propinas para guías y cuidadores"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

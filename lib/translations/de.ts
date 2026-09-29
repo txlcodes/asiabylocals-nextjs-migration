@@ -14432,6 +14432,61 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "dropzone-near-pattaya-gulf-of-thailand-coastline-mini-tour": {
+  "title": "Pattaya: Tandem-Fallschirmsprung über dem Golf von Thailand",
+  "metaTitle": "Pattaya: Tandem-Fallschirmsprung",
+  "metaDescription": "Freier Fall aus vier Kilometern über der Ostküste Thailands im Tandemsprung, mit dem Golf von Thailand unter Ihnen und Videopaketen zur Wahl.",
+  "shortDescription": "Freier Fall aus vier Kilometern über der Ostküste Thailands im Tandemsprung, mit der Küste des Golfs von Thailand ausgebreitet unter Ihnen und Videopaketen zur Wahl.",
+  "fullDescription": "Wenige Blicke auf Thailand halten dem aus vier Kilometern Höhe stand: der Golf von Thailand, der sich darunter wegkrümmt, die Küste zwischen Bangkok und Pattaya wie eine Landkarte ausgelegt, und zwischen Ihnen und ihr nichts als offene Luft. Dieser Tandemsprung setzt diesen Blick auf das Programm: an einen professionellen Sprunglehrer gegurtet verlassen Sie das Flugzeug in der Höhe, etwa eine Minute voller freier Fall, dann öffnet sich die Kappe und die Fahrt wird zu einem ruhigen, fünfminütigen Panoramaabstieg über der Ostküste.\n\nFür einen Tandemsprung ist keine Erfahrung nötig. Nach der Ankunft am Sprungplatz bekommen Sie ein vollständiges Bodenbriefing zu Körperhaltung, Ausstieg und Landung, dann legen Sie die Ausrüstung an und steigen mit Ihrem Sprunglehrer ins Flugzeug, der jeden technischen Teil des Sprungs von Anfang bis Ende übernimmt. Das Ganze dauert von Tür zu Tür etwa vier Stunden, mit Van-Transfer ab Pattaya und Rückfahrt in die Stadt danach.\n\nFür die meisten ist das ein Sprung fürs Leben, und der Anbieter hat Video- und Fotopakete, damit der Moment festgehalten wird. Viele Springer nehmen in der Luft Grüße an Freunde und Familie auf, was unvergessliche Andenken ergibt.",
+  "highlights": [
+   "Tandem-Freifall aus 4 Kilometern über der Küste",
+   "Weite Blicke über den Golf von Thailand",
+   "Keine Erfahrung nötig, der Sprunglehrer macht alles",
+   "Vollständiges Bodenbriefing und die gesamte Ausrüstung enthalten",
+   "Video- und Fotopakete zur Wahl, um den Sprung festzuhalten"
+  ],
+  "included": [
+   "Van-Transfer hin und zurück gemäß Ihrer gewählten Option",
+   "Tandemsprung mit einem zertifizierten Sprunglehrer",
+   "Die gesamte Fallschirmausrüstung",
+   "Bodentraining und Sicherheitsbriefing",
+   "Sprungurkunde"
+  ],
+  "notIncluded": [
+   "Video- und Fotopakete (gegen Aufpreis erhältlich)",
+   "Mahlzeiten und Getränke",
+   "Trinkgelder für Ihren Sprunglehrer",
+   "Eigene Versicherung"
+  ]
+ },
+ "elephant-jungle-sanctuary-pattaya-countryside-half-day-tour": {
+  "title": "Ethische Elefantenbegegnung: halber Tag im Dschungelschutzgebiet mit Essen",
+  "metaTitle": "Elefanten bei Pattaya: halber Tag im Schutzgebiet",
+  "metaDescription": "Ein halber Tag bei geretteten Elefanten in einem ethischen Schutzgebiet vor Pattaya: füttern, neben ihnen gehen, ihr Schlammbad teilen.",
+  "shortDescription": "Verbringen Sie einen halben Tag bei geretteten Elefanten in einem ethischen Dschungelschutzgebiet vor Pattaya: füttern Sie sie, gehen Sie neben ihnen und teilen Sie ihr Schlammbad, thailändisches Essen inklusive.",
+  "fullDescription": "Kein Reiten, keine Kunststücke, keine Haken: dieses Schutzgebiet im Dschungel vor Pattaya gibt es, um geretteten Elefanten einen würdigen Ruhestand zu geben, und Besucher erleben sie zu den Bedingungen der Tiere. In rund drei Stunden im Camp erfahren Sie von den Pflegern die Geschichte jedes Elefanten, füttern sie von Hand mit Bananen und Zuckerrohr, gehen zwischen den Bäumen neben ihnen her und steigen, der matschige und unvergessliche Höhepunkt, mit ihnen in die Schlammkuhle, um sie danach im Wasser abzuspülen.\n\nDas Schutzgebiet gehört zur Familie der Elephant-Jungle-Sanctuary-Camps, einem der bekanntesten ethischen Elefantenprojekte Thailands, und das Modell ist überall gleich: kleine Besuchergruppen, Begegnung ohne Hetze, und Elefanten, die weggehen dürfen, wenn sie genug von Ihnen haben. Die Guides erklären die Vorgeschichte der Tiere, viele kamen aus der Holzwirtschaft oder aus Reitcamps, und das größere Bild des Elefantenschutzes in Thailand, was den niedlichen Teilen des Besuchs einen echten Zusammenhang gibt.\n\nWährend Ihres Besuchs wird im Camp ein thailändisches Essen serviert, und für das Füttern werden traditionelle Hemden im Karen-Stil gestellt, für die Fotos und weil die Elefanten die Farben erkennen. Mit Abholung und Rückfahrt am Hotel in Pattaya und nur 40 Minuten Fahrt pro Richtung ist das ein unkomplizierter halber Tag, der regelmäßig zu den bestbewerteten Erlebnissen der Region zählt.",
+  "highlights": [
+   "Gerettete Elefanten von Hand füttern und neben ihnen gehen, ohne zu reiten",
+   "Das Schlammbad der Elefanten und das Abspülen im Fluss mitmachen",
+   "Die Rettungsgeschichte jedes Elefanten von den Pflegern hören",
+   "Thailändisches Essen im Schutzgebiet inklusive",
+   "Hoteltransfers hin und zurück ab Pattaya, nur 40 Minuten pro Richtung"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel in der Stadt Pattaya",
+   "Eintritt ins Schutzgebiet und alle Aktivitäten mit den Elefanten",
+   "Thailändisches Essen im Camp",
+   "Traditionelles Hemd zum Tragen beim Füttern",
+   "Bananen und Zuckerrohr zum Füttern",
+   "Englischsprachiger Guide",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Handtücher (eigene mitbringen für nach dem Schlammbad)",
+   "Professionelle Fotopakete (optional, vor Ort)",
+   "Trinkgelder für Guides und Mahuts"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

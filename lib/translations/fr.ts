@@ -14432,6 +14432,61 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "dropzone-near-pattaya-gulf-of-thailand-coastline-mini-tour": {
+  "title": "Pattaya : saut en parachute en tandem au-dessus du golfe de Thaïlande",
+  "metaTitle": "Pattaya : saut en parachute tandem",
+  "metaDescription": "Chute libre en tandem depuis quatre kilomètres au-dessus de la côte est de la Thaïlande, avec le golfe sous vos pieds. Formules vidéo disponibles.",
+  "shortDescription": "Chute libre depuis quatre kilomètres au-dessus de la côte est de la Thaïlande, en saut tandem, avec le littoral du golfe de Thaïlande déployé sous vos pieds et des formules vidéo disponibles.",
+  "fullDescription": "Peu de vues de la Thaïlande valent celle que l'on a à quatre kilomètres d'altitude : le golfe de Thaïlande qui s'incurve en dessous, le littoral entre Bangkok et Pattaya étalé comme une carte, et rien entre vous et lui que l'air libre. Ce saut en tandem met cette vue au programme : sanglé à un moniteur professionnel, vous quittez l'avion en altitude pour environ une minute de chute libre complète, avant que la voile ne s'ouvre et que la descente ne devienne un survol paisible de cinq minutes au-dessus de la côte est.\n\nAucune expérience n'est requise pour un saut en tandem. Après votre arrivée sur la zone de saut, vous recevez un briefing au sol complet sur la position du corps, la sortie de l'avion et l'atterrissage, puis vous vous équipez et embarquez avec votre moniteur, qui prend en charge tout l'aspect technique du saut du début à la fin. L'ensemble dure environ quatre heures de porte à porte, avec le transfert en van depuis Pattaya compris et le retour en ville ensuite.\n\nPour la plupart des gens, c'est un saut d'une vie, et l'opérateur propose des formules vidéo et photo pour garder une trace du moment : beaucoup de sauteurs enregistrent en l'air des messages pour leurs proches, et cela fait des souvenirs inoubliables.",
+  "highlights": [
+   "Chute libre en tandem depuis 4 kilomètres au-dessus du littoral",
+   "Vues immenses sur le golfe de Thaïlande",
+   "Aucune expérience requise, le moniteur s'occupe de tout",
+   "Briefing au sol complet et tout le matériel compris",
+   "Formules vidéo et photo disponibles pour garder une trace du saut"
+  ],
+  "included": [
+   "Transfert en van aller-retour selon l'option choisie",
+   "Saut en tandem avec un moniteur breveté",
+   "Tout l'équipement et le matériel de parachutisme",
+   "Formation au sol et briefing de sécurité",
+   "Certificat de saut"
+  ],
+  "notIncluded": [
+   "Formules vidéo et photo (disponibles en supplément)",
+   "Repas et boissons",
+   "Pourboires pour votre moniteur",
+   "Assurance personnelle"
+  ]
+ },
+ "elephant-jungle-sanctuary-pattaya-countryside-half-day-tour": {
+  "title": "Rencontre éthique avec les éléphants : demi-journée au sanctuaire de la jungle, repas compris",
+  "metaTitle": "Éléphants à Pattaya : demi-journée au sanctuaire",
+  "metaDescription": "Une demi-journée auprès d'éléphants recueillis dans un sanctuaire éthique près de Pattaya : les nourrir, marcher à leurs côtés, partager leur bain de boue.",
+  "shortDescription": "Passez une demi-journée auprès d'éléphants recueillis dans un sanctuaire éthique en dehors de Pattaya : nourrissez-les, marchez à leurs côtés et partagez leur bain de boue, avec un repas thaï compris.",
+  "fullDescription": "Pas de balade à dos d'éléphant, pas de numéros, pas de crochets : ce sanctuaire dans la jungle en dehors de Pattaya existe pour offrir aux éléphants recueillis une retraite digne, et les visiteurs les côtoient aux conditions des animaux. En trois heures environ au camp, vous découvrez l'histoire de chaque éléphant auprès des soigneurs, vous leur donnez à la main bananes et canne à sucre, vous marchez à leurs côtés entre les arbres et, moment salissant et inoubliable, vous les rejoignez dans la fosse de boue avant de les rincer à l'eau.\n\nLe sanctuaire appartient à la famille de camps Elephant Jungle Sanctuary, l'un des projets éthiques les plus connus de Thaïlande, et le modèle est constant : petits groupes de visiteurs, interaction sans précipitation, et des éléphants libres de s'éloigner quand ils en ont assez de vous. Les guides expliquent le passé des animaux, beaucoup venus de camps d'exploitation forestière ou de promenade, ainsi que la situation d'ensemble du bien-être des éléphants en Thaïlande, ce qui donne aux moments les plus attendrissants un vrai contexte.\n\nUn repas thaï est servi au camp pendant votre visite, et des chemises traditionnelles de style karen sont fournies pour le nourrissage, à la fois pour les photos et parce que les éléphants en reconnaissent les couleurs. Avec la prise en charge et le retour à l'hôtel depuis Pattaya compris et seulement 40 minutes de route dans chaque sens, c'est une demi-journée facile qui figure régulièrement parmi les expériences les mieux notées de la région.",
+  "highlights": [
+   "Nourrir à la main des éléphants recueillis et marcher à leurs côtés, sans monter dessus",
+   "Partager le bain de boue des éléphants et leur rinçage à la rivière",
+   "Entendre l'histoire de chaque éléphant racontée par les soigneurs",
+   "Repas thaï au sanctuaire compris",
+   "Transferts d'hôtel aller-retour depuis Pattaya, seulement 40 minutes de route"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel dans la ville de Pattaya",
+   "Entrée du sanctuaire et toutes les activités avec les éléphants",
+   "Repas thaï au camp",
+   "Chemise traditionnelle à porter pendant le nourrissage",
+   "Bananes et canne à sucre pour le nourrissage",
+   "Guide anglophone",
+   "Eau potable"
+  ],
+  "notIncluded": [
+   "Serviettes (apportez les vôtres pour après le bain de boue)",
+   "Formules photo professionnelles (facultatives, sur place)",
+   "Pourboires pour les guides et les cornacs"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
