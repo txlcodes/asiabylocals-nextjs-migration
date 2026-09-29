@@ -64,6 +64,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const delhiInfoPages = [
     'delhi-travel-guide-2026', 'red-fort', 'qutub-minar', 'humayuns-tomb',
     'india-gate', 'things-to-do-in-delhi', 'delhi-1-day-itinerary',
+    'places-to-visit-in-delhi', 'best-time-to-visit-delhi', 'delhi-shopping-guide',
+    '2-day-delhi-itinerary', 'lotus-temple', 'akshardham-temple',
   ].map(slug => ({
     url: `${BASE_URL}/india/delhi/${slug}`,
     lastModified: new Date(),

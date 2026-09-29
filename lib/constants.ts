@@ -94,7 +94,11 @@ export const AGRA_INFO_SLUGS = [
 
 export const DELHI_INFO_SLUGS = [
   'delhi-travel-guide-2026', 'red-fort', 'qutub-minar', 'humayuns-tomb',
-  'india-gate', 'things-to-do-in-delhi', 'delhi-1-day-itinerary'
+  'india-gate', 'things-to-do-in-delhi', 'delhi-1-day-itinerary',
+  // 2026-09: Delhi had 7 pages against Agra's 14 and Jaipur's 13, and was
+  // missing the ones both of them already had.
+  'places-to-visit-in-delhi', 'best-time-to-visit-delhi', 'delhi-shopping-guide',
+  '2-day-delhi-itinerary', 'lotus-temple', 'akshardham-temple'
 ];
 
 export const JAIPUR_INFO_SLUGS = [
