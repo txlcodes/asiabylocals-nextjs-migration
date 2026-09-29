@@ -42,8 +42,14 @@ function isValidSeoDescription(text: string | null | undefined): boolean {
 }
 
 // Shorten a long tour title for meta tag (keep under 45 chars before " in City | Brand")
-function shortenTitleForMeta(title: string): string {
-  if (title.length <= 45) return title;
+// `budget` is how many characters the title itself may use, worked out from the
+// suffix that will be appended, so the finished tag lands inside Google's ~60.
+// A fixed 45 produced tags of 62 to 71 characters on 4,236 live tours, because
+// " in Ho Chi Minh City | AsiaByLocals" is 35 characters on its own and a fixed
+// limit cannot know that. Callers pass the budget; the default keeps the old
+// behaviour for anything that has not been updated.
+function shortenTitleForMeta(title: string, budget = 45): string {
+  if (title.length <= budget) return title;
   // Remove common filler patterns that inflate tour titles
   let short = title
     .replace(/\s*–\s*.*/g, '') // Remove everything after em-dash
@@ -51,9 +57,9 @@ function shortenTitleForMeta(title: string): string {
     .replace(/\s*\|\s*.*/g, '') // Remove everything after pipe
     .replace(/\s*\(.*?\)\s*/g, ' ') // Remove parenthetical text
     .replace(/\s+/g, ' ').trim();
-  if (short.length <= 45) return short;
-  // Truncate at last word boundary before 45 chars
-  let truncated = short.substring(0, 45).replace(/\s+\S*$/, '').trim();
+  if (short.length <= budget) return short;
+  // Truncate at last word boundary inside the budget
+  let truncated = short.substring(0, budget).replace(/\s+\S*$/, '').trim();
   // Remove dangling prepositions/conjunctions that make no sense at the end
   truncated = truncated.replace(/\s+(with|from|by|for|and|in|of|the|a|an|to|at|on|&)$/i, '').trim();
   return truncated;
@@ -241,13 +247,35 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         const description = tt?.metaDescription || SEO_DESCRIPTION_OVERRIDES[slug] || buildMetaDescription(tour, cityName);
         // Use SEO override title if available, otherwise shorten the database title
         const seoTitle = tt?.metaTitle || (lang ? tt?.title : undefined) || SEO_TITLE_OVERRIDES[slug];
-        const shortTitle = seoTitle || shortenTitleForMeta(tour.title);
-        // Avoid "Jaipur Tour in Jaipur" duplication
-        const titleTag = seoTitle
-          ? `${seoTitle} | AsiaByLocals`
-          : shortTitle.toLowerCase().includes(cityName.toLowerCase())
-            ? `${shortTitle} | AsiaByLocals`
-            : `${shortTitle} in ${cityName} | AsiaByLocals`;
+        // A tag Google cuts off loses the tail visually but still counts it for
+        // relevance. Shortening the title instead throws those words away for
+        // good, which is worse: budgeting purely on length turned "Private Taxi
+        // transfer from Ho Chi Minh" into "...from Ho". So when the tag is too
+        // long, drop the " in <City>" suffix before touching the title. The
+        // suffix is the cheapest part — on these tours it names a second city
+        // the title has already placed.
+        const MAX_TAG = 60;
+        const withCity = (t: string) =>
+          t.toLowerCase().includes(cityName.toLowerCase())
+            ? `${t} | AsiaByLocals`
+            : `${t} in ${cityName} | AsiaByLocals`;
+        let titleTag: string;
+        if (seoTitle) {
+          titleTag = `${seoTitle} | AsiaByLocals`;
+        } else {
+          const shortTitle = shortenTitleForMeta(tour.title);
+          titleTag = withCity(shortTitle);
+          if (titleTag.length > MAX_TAG) {
+            // 1. same title, no city suffix
+            const noCity = `${shortTitle} | AsiaByLocals`;
+            if (noCity.length <= MAX_TAG) {
+              titleTag = noCity;
+            } else {
+              // 2. only now trim the title, and keep it readable
+              titleTag = `${shortenTitleForMeta(tour.title, MAX_TAG - ' | AsiaByLocals'.length)} | AsiaByLocals`;
+            }
+          }
+        }
         // Canonicalise to the tour's real country, not whatever country segment
         // the request used — otherwise a wrong-country URL declares itself canonical.
         const canonicalCountry = tour.country
