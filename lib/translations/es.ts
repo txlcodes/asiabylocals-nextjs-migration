@@ -11470,6 +11470,35 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Oriental Atlantis en Pattaya: bufé y espectáculo, opción Plus",
   "metaDescription": "Tour en Pattaya. Incluye: el paquete que haya elegido. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "3-day-chiang-mai-and-chiang-rai-golden-triangle-tour": {
+  "title": "Chiang Mai, Chiang Rai y el Triángulo de Oro en 3 días",
+  "fullDescription": "Esta es una experiencia de 3 días en Pattaya, centrada en Doi Inthanon, el pico más alto de Tailandia, Jardines florales reales de las tierras altas y Cascada de Siriphum. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye vuelos internos de ida y vuelta, guía en inglés o ruso que le acompaña durante todo, traslado de hotel de ida y vuelta en Pattaya, 2 noches de alojamiento en hoteles de 4 estrellas y todas las comidas. No incluye bebidas y gastos personales, suplemento de habitación individual y mejora a una categoría de hotel superior, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Pattaya. Pattaya Guide Travel confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Doi Inthanon, el pico más alto de Tailandia",
+   "Jardines florales reales de las tierras altas",
+   "Cascada de Siriphum",
+   "Wat Phra That Doi Suthep",
+   "Duración: 3 días",
+   "Vuelos internos de ida y vuelta (Pattaya-Chiang Mai y Chiang Rai-Pattaya)"
+  ],
+  "included": [
+   "Vuelos internos de ida y vuelta (Pattaya-Chiang Mai y Chiang Rai-Pattaya)",
+   "Guía en inglés o ruso que le acompaña durante toda la excursión",
+   "Traslado de hotel de ida y vuelta en Pattaya",
+   "2 noches de alojamiento en hoteles de 4 estrellas",
+   "Todas las comidas (3 desayunos, 3 almuerzos, 2 cenas)",
+   "Todas las entradas y tiques indicados en el programa",
+   "Transporte privado durante toda la excursión"
+  ],
+  "notIncluded": [
+   "Bebidas y gastos personales",
+   "Suplemento de habitación individual (cargo por noche, a petición)",
+   "Mejora a una categoría de hotel superior (a petición)"
+  ],
+  "shortDescription": "Tour de 3 días en Pattaya, con Doi Inthanon, el pico más alto de Tailandia, Jardines florales reales de las tierras altas y Cascada de Siriphum. Operador: Pattaya Guide Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Chiang Mai, Chiang Rai y el Triángulo de Oro en 3 días",
+  "metaDescription": "Tour de 3 días en Pattaya. Incluye: vuelos internos de ida y vuelta. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "sunrise-city-awakening-tour-with-boat-ride-in-pattaya": {
   "title": "Pattaya al amanecer: la ciudad que despierta, en barco",
   "fullDescription": "Esta es una experiencia de 3 horas en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel, crucero costero en barco por la mañana, visita al mirador del templo del Gran Buda, visita a la Gems Gallery y conductor o asistente. No incluye comidas y bebidas, gastos personales, entradas opcionales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Pattaya. AMAKA TOURS TRAVEL confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -11945,6 +11974,36 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Visita guiada por Pattaya en grupo reducido compartido",
   "metaDescription": "Tour de día completo en Pattaya. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
+ "private-nong-nooch-garden-tour-lunch-shows-and-dinosaurs-pattaya": {
+  "title": "Jardín de Nong Nooch en privado: almuerzo, espectáculos y dinosaurios",
+  "fullDescription": "Esta es una experiencia de 7 horas en Pattaya, centrada en Jardín de cactus, Sky Garden y Teatro Scala de Nong Nooch. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye agua embotellada, entradas del jardín botánico tropical de Nong Nooch, entradas para el espectáculo folclórico tailandés tradicional y los elefantes, trayecto guiado en la lanzadera interna por y recorrido a pie por galerías elevadas con vistas panorámicas al jardín. No incluye bebidas alcohólicas y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPattaya City. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Jardín de cactus",
+   "Sky Garden",
+   "Teatro Scala de Nong Nooch",
+   "Jardín de bayas de goji",
+   "Duración: 7 horas",
+   "Agua embotellada"
+  ],
+  "included": [
+   "Agua embotellada",
+   "Entradas del jardín botánico tropical de Nong Nooch",
+   "Entradas para el espectáculo folclórico tailandés tradicional y la observación de elefantes",
+   "Trayecto guiado en la lanzadera interna por las zonas no peatonales y Stonehenge",
+   "Recorrido a pie por galerías elevadas con vistas panorámicas a los jardines",
+   "Acceso a todas las zonas principales: valle de los Dinosaurios, jardín francés, jardín italiano, jardín de cactus, colina de las Mariposas y la colección Car Garage",
+   "Generoso almuerzo bufé internacional (más de 15 platos sabrosos)",
+   "Guía profesional con licencia (tailandés, inglés y ruso)",
+   "Entrada"
+  ],
+  "notIncluded": [
+   "Bebidas alcohólicas",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de día completo en Pattaya, con Jardín de cactus, Sky Garden y Teatro Scala de Nong Nooch. Operador: Pattaya Guide Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Jardín de Nong Nooch en privado: almuerzo, espectáculos",
+  "metaDescription": "Tour de día completo en Pattaya. Incluye: agua embotellada. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "winter-wonderland-real-snow-park-entry-ticket-in-pattaya": {
   "title": "Winter Wonderland en Pattaya: entrada al parque de nieve real",
   "fullDescription": "Esta es una experiencia en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada a Winter Wonderland Pattaya, acceso a las actividades y atracciones de nieve incluidas, chaqueta de invierno, botas de nieve y taquilla personal. No incluye recogida y regreso al hotel, guantes de invierno, comida y bebidas y alquiler de kimono y paquetes de fotos profesionales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -12307,6 +12366,37 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Colosseum Cabaret Show: entrada y traslado de hotel en Pattaya",
   "metaDescription": "Entrada en Pattaya. Incluye: entrada del Colosseum Show de Pattaya. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "koh-talu-and-7-islands-speedboat-tour-with-lunch-in-pattaya": {
+  "title": "Koh Talu y 7 islas en lancha rápida, con almuerzo",
+  "fullDescription": "Esta es una experiencia de 12 horas desde Pattaya, centrada en Lancha rápida, Ko Thalu y Restaurante local. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye traslado de ida y vuelta desde hoteles y apartamentos de Pattaya en, crucero premium en lancha rápida a 7 islas, guía turístico de habla inglesa, entradas del parque nacional y todos los impuestos locales y equipo de snorkel de calidad. No incluye gastos personales, bebidas alcohólicas y propinas para la tripulación y el guía, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPattaya City. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Lancha rápida",
+   "Ko Thalu",
+   "Restaurante local",
+   "Parque nacional de Khao Laem Ya y Mu Ko Samet",
+   "Duración: 12 horas",
+   "Traslado de ida y vuelta desde hoteles y apartamentos de Pattaya en minivan con aire acondicionado"
+  ],
+  "included": [
+   "Traslado de ida y vuelta desde hoteles y apartamentos de Pattaya en minivan con aire acondicionado",
+   "Crucero premium en lancha rápida a 7 islas",
+   "Guía profesional en inglés (también en tailandés)",
+   "Entradas del parque nacional y todos los impuestos locales",
+   "Equipo de snorkel de calidad (máscara y tubo)",
+   "Chaleco salvavidas para la seguridad a bordo y en el agua",
+   "Sabroso almuerzo preparado al momento en la isla",
+   "Agua potable fría embotellada durante toda la excursión",
+   "Fotos digitales de alta resolución gratuitas (playa y submarinas) tomadas por un fotógrafo profesional"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Bebidas alcohólicas (estrictamente prohibidas a bordo y durante la excursión, por seguridad y por ley)",
+   "Propinas para la tripulación y el guía (opcionales)"
+  ],
+  "shortDescription": "Tour de día completo en Pattaya, con Lancha rápida, Ko Thalu y Restaurante local. Operador: Pattaya Guide Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Koh Talu y 7 islas en lancha rápida, con almuerzo",
+  "metaDescription": "Tour de día completo en Pattaya. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "option-1-pattaya-evening-city-tour-and-alcazar-cabaret-show-by-local-operator": {
   "title": "Opción 1, Pattaya: recorrido nocturno y Alcazar Cabaret Show",
   "fullDescription": "Esta es una experiencia de 75 minutos en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recorrido por Pattaya al anochecer, entrada del Alcazar Cabaret Show, traslado de hotel de ida y de vuelta, traslado de hotel de ida y vuelta desde Bangkok y asistencia del anfitrión de Wendy Mu Travel. No incluye comida y bebidas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Pattaya. WendyMu Travel confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -12645,6 +12735,38 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Baño en la cascada, río de la cueva y templo Naga",
   "metaDescription": "Tour de día completo en Pattaya. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
+ "2-5-islands-jet-ski-adventure-2h-and-4h-experience-in-pattaya": {
+  "title": "De 2 a 5 islas en moto acuática: 2 y 4 horas en Pattaya",
+  "fullDescription": "Esta es una experiencia de 2 horas en Pattaya, centrada en Playa de Jomtien, Mirador de Pattaya y Santuario de la Verdad. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nPattaya, a dos horas al sureste de Bangkok, es la ciudad turística que creció a partir de un puesto de descanso estadounidense en la década de 1960, y son dos lugares en uno: los bares del paseo marítimo y Walking Street al caer la noche, y un conjunto de atracciones familiares que están entre las mejores del país. El Santuario de la Verdad es un templo de teca tallada de 105 metros, empezado en 1981 y todavía sin terminar, hecho enteramente sin clavos. El jardín tropical de Nong Nooch ocupa 500 acres de topiaria y orquídeas. Koh Larn, a 40 minutos en ferri, tiene las playas limpias que le faltan a la propia Pattaya. Tiffany's y Alcazar son los dos espectáculos de cabaré de toda la vida, y la verdad es que Pattaya es más fácil con niños de lo que su fama sugiere.\n\nEl precio incluye servicio de recogida en el hotel, seguro de viaje, vídeo con cámara de acción, equipo de snorkel y chalecos salvavidas. No incluye comida y bebida en la isla, cargos por daños a la moto acuática causados por accidentes, propinas y gastos personales y tasa del parque nacional: 100 THB por persona, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPattaya City. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Playa de Jomtien",
+   "Mirador de Pattaya",
+   "Santuario de la Verdad",
+   "Ko Sak",
+   "Duración: 2 horas",
+   "Servicio de recogida en el hotel"
+  ],
+  "included": [
+   "Servicio de recogida en el hotel",
+   "Seguro de viaje",
+   "Vídeo con cámara de acción",
+   "Equipo de snorkel",
+   "Chalecos salvavidas",
+   "Bebidas de bienvenida",
+   "Instructor en inglés o ruso",
+   "Taquillas"
+  ],
+  "notIncluded": [
+   "Comida y bebida en la isla",
+   "Cargos por daños a la moto acuática causados por accidentes",
+   "Propinas y gastos personales",
+   "Tasa del parque nacional: 100 THB por persona (solo en la ruta sur)",
+   "Vídeo 4K con dron DJI (a la venta como opción)"
+  ],
+  "shortDescription": "Tour de 2 horas en Pattaya, con Playa de Jomtien, Mirador de Pattaya y Santuario de la Verdad. Operador: TSA_Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "De 2 a 5 islas en moto acuática: 2 y 4 horas en Pattaya",
+  "metaDescription": "Tour de 2 horas en Pattaya. Incluye: servicio de recogida en el hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "colosseum-show-entry-ticket-for-foreigners-in-pattaya": {
   "title": "Colosseum Show en Pattaya: entrada para extranjeros",
   "fullDescription": "Esta es una experiencia en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada del Colosseum Show, categoría de asiento elegida y acceso a las instalaciones del teatro. No incluye comida y bebidas, gastos personales y recuerdos y fotografías, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -12766,6 +12888,36 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de día completo en Pattaya, con Otros transportes por agua y Playa de Pattaya. Operador: Thai ocean academy, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Snorkel y buceo con botella para principiantes en Pattaya",
   "metaDescription": "Tour de día completo en Pattaya. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "koh-larn-pirate-cruise-with-transfer-and-activities": {
+  "title": "Crucero pirata a Koh Larn con traslado y actividades",
+  "fullDescription": "Esta es una experiencia de día completo en Pattaya, centrada en Ko Lan y Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye servicios y actividades incluidos, el tobogán hinchable a bordo más grande de Tailandia, moto acuática, banana acuática y acceso a silla de playa en Koh Sak, más aseos y vestuario en la isla. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPattaya City. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Ko Lan",
+   "Pattaya",
+   "Duración: día completo",
+   "Servicios y actividades incluidos",
+   "El tobogán hinchable a bordo más grande de Tailandia",
+   "Moto acuática"
+  ],
+  "included": [
+   "Servicios y actividades incluidos",
+   "El tobogán hinchable a bordo más grande de Tailandia",
+   "Moto acuática",
+   "Banana acuática",
+   "Acceso a silla de playa en Koh Sak, más aseos y vestuario en la isla",
+   "Pesca con liña de mano",
+   "Piscina flotante a bordo",
+   "Kayak transparente",
+   "Conjunto de máscara y tubo de snorkel",
+   "Tabla de paddle",
+   "Baño en la isla",
+   "DJ y música en directo"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour de día completo en Pattaya, con Embarcadero de Bali Hai, Pattaya, Ko Lan y Pattaya. Operador: LORD YACHT CLUB CO.,LTD, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Crucero pirata a Koh Larn con traslado y actividades",
+  "metaDescription": "Tour de día completo en Pattaya. Incluye: servicios y actividades incluidos. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "oriental-atlantis-dinner-cruise-and-cabaret-show-in-pattaya": {
   "title": "Oriental Atlantis: crucero con cena y cabaré en Pattaya",
@@ -12895,6 +13047,36 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 1 hora en Pattaya, que incluye alquiler de tabla de paddle surf, demostración de seguridad antes de la actividad y equipo de protección obligatorio. Operador: Pattaya water sport club, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Paddle surf en Pattaya",
   "metaDescription": "Tour de 1 hora en Pattaya. Incluye: alquiler de tabla de paddle surf. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "exculsive-sunset-dinner-with-champagne-in-pattaya": {
+  "title": "Cena exclusiva al atardecer con champán en Pattaya",
+  "fullDescription": "Esta es una experiencia de 2 horas en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye cena gourmet premium de 3 platos: entrante a elegir, copa de champán de cortesía, amuse-bouche: el entrante de autor del chef, según el día, entrante y plato principal. No incluye bebidas adicionales, con y sin alcohol, cualquier plato adicional o pedido a la carta fuera del y servicio de recogida y regreso al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 horas",
+   "Cena gourmet premium de 3 platos: entrante, principal y postre a elegir",
+   "Copa de champán de cortesía",
+   "Amuse-bouche: el entrante de autor del chef, según el día",
+   "Entrante (a elegir): vieiras a la plancha con crema de estragón o gambas al ajillo",
+   "Plato principal (a elegir): Beef Wellington clásico o entrecot de wagyu premium"
+  ],
+  "included": [
+   "Cena gourmet premium de 3 platos: entrante, principal y postre a elegir",
+   "Copa de champán de cortesía",
+   "Amuse-bouche: el entrante de autor del chef, según el día",
+   "Entrante (a elegir): vieiras a la plancha con crema de estragón o gambas al ajillo",
+   "Plato principal (a elegir): Beef Wellington clásico o entrecot de wagyu premium",
+   "Postre: crep Suzette de autor",
+   "reserva confirmada de una mesa preferente frente al mar",
+   "Atardecer panorámico y ambiente junto al mar"
+  ],
+  "notIncluded": [
+   "Bebidas adicionales, con y sin alcohol, más allá de la copa de cortesía (se piden aparte)",
+   "Cualquier plato adicional o pedido a la carta fuera del menú fijo",
+   "Servicio de recogida y regreso al hotel"
+  ],
+  "shortDescription": "Tour de 2 horas en Pattaya, que incluye cena gourmet premium de 3 platos: entrante a elegir, copa de champán de cortesía y amuse-bouche: el entrante de autor del chef, según el día. Operador: บริษัท วิสด้อม ฟู้ดส์ แอนด์ เรสโทรองท จํากัด, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Cena exclusiva al atardecer con champán en Pattaya",
+  "metaDescription": "Tour de 2 horas en Pattaya. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "battle-mouse-range-club-shooting-experience-in-pattaya": {
   "title": "Tiro en el Battle Mouse Range Club de Pattaya",
@@ -13109,6 +13291,39 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Entrada en Pattaya, que incluye acceso de día completo al Let's Relax Onsen & Spa de Pattaya. Operador: MY Holiday Centre, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Let's Relax Onsen & Spa en Pattaya: pase de día completo",
   "metaDescription": "Entrada en Pattaya. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "pattaya-floating-market-ticket-by-local-operator": {
+  "title": "Mercado flotante de Pattaya: entrada",
+  "fullDescription": "Esta es una experiencia en Pattaya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada, barca de remos, traje tradicional tailandés, acceso a la barca decorada con flores para las fotos y zumo de naranja, helado y foto. No incluye no aplicable a titulares de pasaporte tailandés, accesorios, vestuario y atrezo y servicio de peluquería y maquillaje, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Entrada",
+   "Barca de remos (solo ida o ida y vuelta) (si el paquete elegido lo incluye)",
+   "Traje tradicional tailandés (si el paquete elegido lo incluye)",
+   "Acceso a la barca decorada con flores para las fotos (si el paquete elegido lo incluye)",
+   "Zumo de naranja, helado y foto (si el paquete elegido lo incluye)",
+   "Desayuno o almuerzo bufé en el restaurante Malgudi (como extra)"
+  ],
+  "included": [
+   "Entrada",
+   "Barca de remos (solo ida o ida y vuelta) (si el paquete elegido lo incluye)",
+   "Traje tradicional tailandés (si el paquete elegido lo incluye)",
+   "Acceso a la barca decorada con flores para las fotos (si el paquete elegido lo incluye)",
+   "Zumo de naranja, helado y foto (si el paquete elegido lo incluye)",
+   "Desayuno o almuerzo bufé en el restaurante Malgudi (como extra)"
+  ],
+  "notIncluded": [
+   "No aplicable a titulares de pasaporte tailandés",
+   "Accesorios",
+   "Vestuario y atrezo",
+   "Servicio de peluquería y maquillaje",
+   "Fotógrafo profesional",
+   "Fotos impresas",
+   "Comida o bebida (si el paquete elegido lo incluye)",
+   "Gastos personales"
+  ],
+  "shortDescription": "Entrada en Pattaya, que incluye entrada, barca de remos y traje tradicional tailandés. Operador: The Thai Tourism Company Limited, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Mercado flotante de Pattaya: entrada",
+  "metaDescription": "Entrada en Pattaya. Incluye: entrada y barca de remos. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "ramayana-water-park-entry-ticket-in-pattaya": {
   "title": "Parque acuático Ramayana en Pattaya: entrada",
@@ -13709,6 +13924,36 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour en Pattaya, con Catamarán, Koh Phai and Koh Rin y Provincia de Chonburi. Operador: Serenity Yachting Co. Ltd., con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "3 islas en catamarán en exclusiva, con almuerzo bufé",
   "metaDescription": "Tour en Pattaya. Incluye: crucero de 7 horas y tasa de la marina. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "ayutthaya-unesco-and-bangkok-78th-fl-buffet": {
+  "title": "Ayutthaya, patrimonio UNESCO, y bufé en la planta 78 de Bangkok",
+  "fullDescription": "Esta es una experiencia de día completo desde Pattaya, centrada en Parque histórico de Ayutthaya, Baiyoke Sky Hotel y Wat Arun. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel desde Pattaya en una, guía turístico de habla inglesa, todas las entradas de los templos de Ayutthaya declarados por la UNESCO, almuerzo bufé internacional premium en el Baiyoke Sky Hotel y acceso al mirador giratorio de la planta 82 del. No incluye gastos personales y recuerdos, propinas para el guía y el conductor, alquiler de trajes tradicionales tailandeses y maquillaje en el Wat y comida y bebida en el mercado flotante cubierto de IconSiam, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPattaya City. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Parque histórico de Ayutthaya",
+   "Baiyoke Sky Hotel",
+   "Wat Arun",
+   "Río Chao Phraya",
+   "Duración: día completo",
+   "Recogida y regreso al hotel desde Pattaya en minivan con aire acondicionado"
+  ],
+  "included": [
+   "Recogida y regreso al hotel desde Pattaya en minivan con aire acondicionado",
+   "Guía profesional de habla inglesa",
+   "Todas las entradas de los templos de Ayutthaya declarados por la UNESCO",
+   "Almuerzo bufé internacional premium en el Baiyoke Sky Hotel (planta 78)",
+   "Acceso al mirador giratorio de la planta 82 del Baiyoke Sky",
+   "Billete de paseo en barca de cola larga tradicional",
+   "Agua potable embotellada durante el tour"
+  ],
+  "notIncluded": [
+   "Gastos personales y recuerdos",
+   "Propinas para el guía y el conductor (opcionales)",
+   "Alquiler de trajes tradicionales tailandeses y maquillaje en el Wat Arun (en el lugar, con vendedores independientes)",
+   "Comida y bebida en el mercado flotante cubierto de IconSiam"
+  ],
+  "shortDescription": "Tour de día completo en Pattaya, con Parque histórico de Ayutthaya, Baiyoke Sky Hotel y Wat Arun. Operador: Pattaya Guide Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Ayutthaya, patrimonio UNESCO, y bufé en la planta 78 de Bangkok",
+  "metaDescription": "Tour de día completo en Pattaya. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "pattaya-day-trip-from-bkk-hidden-beach-and-sanctuary-of-truth-by-local-operator": {
   "title": "Pattaya desde Bangkok: playa escondida y Santuario de la Verdad",
