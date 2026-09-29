@@ -1,7 +1,8 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { ChevronRight, Clock, MapPin } from 'lucide-react';
+import Image from 'next/image';
+import { ChevronRight } from 'lucide-react';
 import { cloudinaryLoader } from '@/lib/cloudinaryLoader';
 import { DUPLICATE_CANONICAL_MAP } from '@/lib/duplicateCanonical';
 import { canonicalFor, alternatesFor } from '@/lib/translations';
@@ -195,37 +196,58 @@ export default async function GoldenTrianglePage({ params }: Props) {
   }
   const lengths = [...groups.keys()].sort((a, b) => a - b);
 
-  const card = (t: Tour) => {
+  // Deliberately the same card as the city pages, down to the class names: this
+  // hub sits next to /india/agra and /india/jaipur in the same journey, and a
+  // card that looks different reads as a different site. Row on mobile, column
+  // on desktop, hover zoom, price on its own rule at the bottom.
+  const card = (t: Tour, index: number) => {
     const img = firstImage(t.images);
     const price = fromPrice(t);
-    const cur = t.currency === 'INR' ? '₹' : '$';
+    const cur = t.currency === 'INR' ? '₹' : t.currency === 'JPY' ? '¥' : '$';
     return (
       <Link
         key={t.slug}
         href={`/india/${t.city.toLowerCase()}/${t.slug}`}
-        className="group block bg-gray-50 rounded-2xl overflow-hidden border border-gray-200 hover:shadow-lg transition-shadow"
+        className="bg-white rounded-xl overflow-hidden border border-gray-200 hover:shadow-lg transition-all group flex flex-row md:flex-col"
       >
-        {img && (
-          /* eslint-disable-next-line @next/next/no-img-element */
-          <img
-            src={cloudinaryLoader({ src: img, width: 640 })}
-            alt={t.title}
-            loading="lazy"
-            className="w-full h-44 object-cover"
-          />
-        )}
-        <div className="p-4">
-          <h3 className="text-[15px] font-black text-[#001A33] leading-snug line-clamp-2 group-hover:text-[#10B981]">
+        <div className="relative h-32 w-36 min-w-[144px] md:h-56 md:w-full md:min-w-0 overflow-hidden">
+          {img ? (
+            <Image
+              src={img}
+              loader={cloudinaryLoader}
+              alt={`${t.title} — Golden Triangle tour`}
+              width={400}
+              height={208}
+              sizes="(max-width: 768px) 160px, (max-width: 1280px) 50vw, 25vw"
+              quality={72}
+              loading={index < 4 ? 'eager' : 'lazy'}
+              priority={index < 4}
+              className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+            />
+          ) : (
+            <div className="w-full h-full bg-gradient-to-br from-[#10B981]/20 to-[#1E3A5F]/20 flex items-center justify-center">
+              <span className="text-gray-400 text-sm font-medium">No image</span>
+            </div>
+          )}
+        </div>
+
+        <div className="p-3 md:p-4 flex-1 flex flex-col justify-between">
+          <h3 className="text-[13px] md:text-[16px] font-bold md:font-black text-[#001A33] mb-1 md:mb-3 line-clamp-2 group-hover:text-[#10B981] transition-colors leading-tight">
             {t.title}
           </h3>
-          <div className="flex items-center gap-3 text-[12px] text-gray-500 font-semibold mt-2">
-            <span className="inline-flex items-center gap-1"><MapPin size={13} />{t.city}</span>
-            {t.duration && <span className="inline-flex items-center gap-1"><Clock size={13} />{t.duration}</span>}
+
+          <div className="text-[11px] md:text-[12px] text-gray-500 font-semibold mb-1 md:mb-3">
+            {t.city}{t.duration ? ` · ${t.duration}` : ''}
           </div>
+
           {price !== null && (
-            <p className="text-[14px] font-black text-[#001A33] mt-3">
-              From {cur}{price.toLocaleString()} per person
-            </p>
+            <div className="flex items-center justify-between pt-0 md:pt-2 border-t-0 md:border-t border-gray-100">
+              <div className="text-right w-full">
+                <div className="text-[14px] md:text-[18px] font-black text-[#001A33]">
+                  Starting from {cur}{price.toLocaleString()}
+                </div>
+              </div>
+            </div>
           )}
         </div>
       </Link>
@@ -234,7 +256,7 @@ export default async function GoldenTrianglePage({ params }: Props) {
 
   return (
     <div className="min-h-screen bg-white">
-      <div className="max-w-6xl mx-auto px-4 sm:px-6 py-10 sm:py-16">
+      <div className="max-w-7xl mx-auto px-6 py-6">
         <nav className="flex items-center gap-2 text-[13px] font-bold text-gray-500 mb-6">
           <Link href="/" className="hover:text-[#10B981]">Home</Link>
           <ChevronRight size={14} />
@@ -243,11 +265,11 @@ export default async function GoldenTrianglePage({ params }: Props) {
           <span className="text-[#001A33]">Golden Triangle</span>
         </nav>
 
-        <h1 className="text-[32px] sm:text-[44px] font-black text-[#001A33] leading-[1.1] tracking-tight mb-4">
+        <h1 className="text-4xl md:text-5xl font-black text-[#001A33] mb-8">
           {TITLE}
         </h1>
 
-        <div className="text-[17px] text-gray-700 leading-relaxed space-y-4 max-w-3xl mb-10">
+        <div className="mb-10 space-y-4 text-[16px] text-gray-700 font-semibold leading-relaxed max-w-4xl">
           <p>
             The Golden Triangle is three cities and roughly 750 kilometres of road.
             Delhi to Agra is about 230 km on the Yamuna Expressway, Agra to Jaipur
@@ -268,7 +290,7 @@ export default async function GoldenTrianglePage({ params }: Props) {
             <a
               key={d}
               href={`#days-${d}`}
-              className="px-4 py-2 rounded-full bg-gray-100 hover:bg-gray-200 text-[13px] font-bold text-[#001A33] transition-colors"
+              className="shrink-0 px-4 py-2 rounded-full text-[14px] font-semibold border bg-white text-[#001A33] border-gray-300 hover:border-[#10B981] hover:text-[#10B981] transition-colors whitespace-nowrap"
             >
               {d} {d === 1 ? 'day' : 'days'} ({groups.get(d)!.length})
             </a>
@@ -277,34 +299,34 @@ export default async function GoldenTrianglePage({ params }: Props) {
 
         {lengths.map(d => (
           <section key={d} id={`days-${d}`} className="mb-14 scroll-mt-24">
-            <h2 className="text-[24px] sm:text-[30px] font-black text-[#001A33] mb-3">
+            <h2 className="text-3xl font-black text-[#001A33] mb-3">
               {d}-Day Golden Triangle Tours
             </h2>
             {LENGTH_NOTE[d] && (
-              <p className="text-[16px] text-gray-700 leading-relaxed max-w-3xl mb-6">
+              <p className="text-[16px] text-gray-700 font-semibold leading-relaxed max-w-4xl mb-6">
                 {LENGTH_NOTE[d]}
               </p>
             )}
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-              {groups.get(d)!.map(card)}
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 md:gap-6 mb-8">
+              {groups.get(d)!.map((t, i) => card(t, i))}
             </div>
           </section>
         ))}
 
         {unsized.length > 0 && (
           <section className="mb-14">
-            <h2 className="text-[24px] sm:text-[30px] font-black text-[#001A33] mb-6">
+            <h2 className="text-3xl font-black text-[#001A33] mb-6">
               More Golden Triangle Trips
             </h2>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-              {unsized.map(card)}
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 md:gap-6 mb-8">
+              {unsized.map((t, i) => card(t, i))}
             </div>
           </section>
         )}
 
         <section className="border-t border-gray-200 pt-10">
-          <h2 className="text-[24px] font-black text-[#001A33] mb-4">The three cities on their own</h2>
-          <p className="text-[16px] text-gray-700 leading-relaxed max-w-3xl mb-5">
+          <h2 className="text-3xl font-black text-[#001A33] mb-4">The three cities on their own</h2>
+          <p className="text-[16px] text-gray-700 font-semibold leading-relaxed max-w-4xl mb-5">
             If you are only taking one corner of the triangle, each city has its own
             day tours, guides and tickets.
           </p>
