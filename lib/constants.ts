@@ -89,7 +89,10 @@ export const AGRA_INFO_SLUGS = [
   'taj-mahal-ticket-price-2026', 'taj-mahal-opening-time', 'is-taj-mahal-closed-on-friday',
   'agra-travel-guide-2026', 'taj-mahal', 'agra-fort', 'fatehpur-sikri',
   'agra-gatimaan-entry-ticket', 'delhi-to-agra', 'same-day-agra-tour-from-delhi',
-  'best-time-to-visit-agra'
+  'best-time-to-visit-agra',
+  // 2026-09: gaps Search Console showed. "agra tour guide" sat at position
+  // 29.6 with no page, and Agra had no shopping guide while Delhi and Jaipur did.
+  'agra-tour-guide', 'mehtab-bagh', 'agra-shopping-guide'
 ];
 
 export const DELHI_INFO_SLUGS = [
@@ -106,7 +109,10 @@ export const JAIPUR_INFO_SLUGS = [
   '1-day-jaipur-itinerary', 'amber-fort', 'hawa-mahal',
   'city-palace-jaipur', 'nahargarh-fort', 'places-to-visit-in-jaipur',
   'jantar-mantar-jaipur', 'jal-mahal', 'jaipur-shopping-guide',
-  'best-time-to-visit-jaipur', '2-day-jaipur-itinerary'
+  'best-time-to-visit-jaipur', '2-day-jaipur-itinerary',
+  // The other two legs of the triangle. delhi-to-agra existed; these did not,
+  // so anyone planning the loop fell off the site halfway round.
+  'delhi-to-jaipur', 'agra-to-jaipur'
 ];
 
 export const PHUKET_INFO_SLUGS = [
