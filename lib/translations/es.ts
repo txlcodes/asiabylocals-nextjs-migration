@@ -5521,6 +5521,55 @@ export const ES_TOURS: Record<string, TourT> = {
    "Actividades no mencionadas entre lo incluido"
   ]
  },
+ "from-delhi-taj-mahal-sunrise-agra-fort-tour-skip": {
+  "title": "Desde Delhi: Taj Mahal al amanecer y Fuerte de Agra, sin colas",
+  "metaTitle": "Delhi: Taj al amanecer y fuerte, sin colas",
+  "metaDescription": "El amanecer en el Taj y el Fuerte de Agra desde Delhi, entrada sin colas, guía autorizado por el gobierno, opción Baby Taj.",
+  "shortDescription": "El amanecer en el Taj y el Fuerte de Agra desde Delhi, entrada sin colas, guía autorizado por el gobierno, opción Baby Taj.",
+  "fullDescription": "**Temprano, porque la gente es el problema**\n\nEl Taj recibe unos veinte mil visitantes en un día ajetreado, y casi todos llegan entre las nueve y la una. Estar en la puerta cuando abre significa el mismo edificio con una fracción de la gente, con una luz que cambia minuto a minuto en lugar de quedarse plana desde arriba.\n\nRecogida temprana en Delhi en coche privado con aire acondicionado, y luego la Yamuna Expressway con la carretera despejada.\n\n**Sin colas**\n\nLa entrada reservada por adelantado le pone en el carril más corto. El control de seguridad pasa igualmente a todos, sin trípodes, sin drones, sin comida, sin bolsas grandes, y hay taquillas en la puerta.\n\n**El Taj Mahal al amanecer**\n\nGris, luego rosa, luego blanco a medida que el sol llega sobre el Yamuna; niebla sobre el río en diciembre y enero.\n\nUn **guía autorizado por el gobierno** le acompaña, lo que importa en Agra, donde guías sin licencia trabajan en cada entrada. La **caligrafía** labrada más grande a medida que sube para que se lea de manera uniforme desde el suelo; las flores de **pietra dura** hechas de decenas de piedras incrustadas; los cuatro **alminares**, inclinados hacia fuera para que un terremoto los dejara caer lejos de la tumba; el truco óptico de la puerta; y el cenotafio de Shah Jahan, el único objeto del edificio colocado fuera del eje central.\n\n**El Fuerte de Agra**\n\nLa fortaleza de arenisca roja de Akbar, de 1565, con los palacios de mármol de Shah Jahan dentro, y el **Musamman Burj**, donde Aurangzeb tuvo preso a su padre ocho años, con el Taj a la vista a lo largo del agua.\n\n**El Baby Taj, en la opción más completa**\n\n**Itimad-ud-Daulah**, al otro lado del Yamuna: la tumba que Nur Jahan mandó levantar para su padre, construida entre 1622 y 1628. El primer edificio mogol enteramente de mármol y el primero en la India en usar pietra dura, con incrustación más densa que el Taj y casi siempre vacío. Es el edificio del que el Taj aprendió.\n\n**Cuatro opciones**\n\nCoche, conductor y guía autorizado por el gobierno; lo mismo con las entradas; todo incluido con una comida; o la versión todo incluido que añade el Baby Taj.\n\n**Práctico**\n\nOnce horas de puerta a puerta. **El Taj cierra los viernes.**",
+  "highlights": [
+   "Sea testigo del Taj Mahal al amanecer, el momento más bello del día"
+  ],
+  "included": [
+   "Recogida y regreso en el hotel (Delhi, Noida, Gurugram)",
+   "Coche privado con aire acondicionado y conductor",
+   "Guía turístico profesional en directo en Agra",
+   "Entradas sin colas (en la opción elegida)",
+   "Desayuno o comida en un hotel de 5 estrellas (en la opción elegida)",
+   "Todos los peajes, aparcamiento, combustible e impuestos",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas para el guía y el conductor (opcionales)",
+   "Cualquier comida o bebida adicional no mencionada",
+   "Entradas a los monumentos (si se elige la opción básica)"
+  ]
+ },
+ "from-delhi-taj-mahal-sunrise-and-agra-fort-private": {
+  "title": "Desde Delhi: visita privada al Taj Mahal al amanecer y Fuerte de Agra",
+  "metaTitle": "Delhi: Taj al amanecer y fuerte, visita privada",
+  "metaDescription": "El Taj Mahal al amanecer y el Fuerte de Agra desde Delhi con guía autorizado por el gobierno, en coche privado con aire acondicionado.",
+  "shortDescription": "El Taj Mahal al amanecer y el Fuerte de Agra desde Delhi con guía autorizado por el gobierno, en coche privado con aire acondicionado.",
+  "fullDescription": "**Los alminares están cerrados desde 1974**\n\nNo se puede subir a ellos, y la razón merece saberse: la gente se arrojaba. El Archaeological Survey cerró las escaleras interiores tras una serie de suicidios, y nunca se han vuelto a abrir.\n\nLa inclinación hacia fuera es lo otro que los caracteriza. Cada uno de los cuatro se aparta muy ligeramente del zócalo, por diseño, para que un terremoto los dejara caer lejos de la tumba en lugar de a través de la cúpula. Es un razonamiento estructural de la década de 1640 que los ingenieros modernos todavía citan.\n\nAl amanecer, con la luz llegando baja sobre el río, la inclinación de hecho se ve si uno se coloca en el eje y mira.\n\n**La salida temprana**\n\nRecogida en su hotel o en el aeropuerto en Delhi, Noida o Gurugram, y luego un trayecto con la carretera despejada.\n\nLas puertas abren media hora antes del amanecer. El mármol se lee gris, luego rosa, luego blanco frío a medida que el sol supera la orilla opuesta del Yamuna; en diciembre y enero hay niebla sobre el río detrás de la cúpula, y la gente es una quinta parte de la que habrá a las diez.\n\nSu **guía autorizado por el gobierno** cubre la **caligrafía** labrada en tamaños crecientes para que se lea de manera uniforme desde el suelo, las flores de **pietra dura** hechas de decenas de piedras incrustadas, y la única asimetría en un edificio perfectamente simétrico, el cenotafio de Shah Jahan, añadido fuera de eje por su hijo.\n\n**El Fuerte de Agra**\n\nLa ciudad de arenisca roja de Akbar, de 1565, con los palacios de mármol de Shah Jahan dentro, y el **Musamman Burj**, donde Aurangzeb lo encerró ocho años, con el Taj a la vista a lo largo del río. Murió en esa torre.\n\n**Cuatro opciones**\n\nUna versión con inicio en Agra; desde Delhi con coche y guía; lo mismo con las entradas; o todo incluido con una comida.\n\n**Práctico**\n\nOcho horas de visitas más la carretera en cada sentido. **El Taj cierra los viernes.**\n\nLleve algo de abrigo: la orilla del río antes del amanecer en invierno está de verdad fría.",
+  "highlights": [
+   "Recogida y regreso flexibles desde su hotel, el aeropuerto o su residencia en Delhi"
+  ],
+  "included": [
+   "Vehículo con aire acondicionado y conductor",
+   "Peajes, aparcamiento y todos los impuestos",
+   "Comida en un hotel de 5 estrellas o restaurante multicocina (en la opción elegida)",
+   "Entradas a los monumentos (en la opción elegida)",
+   "Un guía turístico profesional",
+   "Recogida y regreso en el hotel",
+   "Botella de agua durante el trayecto",
+   "Entrada sin colas en el Taj Mahal"
+  ],
+  "notIncluded": [
+   "Propinas para el conductor y el guía",
+   "Cualquier cosa no mencionada arriba"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Reserve un guía oficial para recorrer Bengaluru",
   "metaTitle": "Bengaluru con guía: palacios, Lalbagh, templos y bazares",
