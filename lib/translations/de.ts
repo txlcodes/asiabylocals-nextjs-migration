@@ -16472,6 +16472,103 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld"
   ]
  },
+ "from-delhi-same-day-jaipur-city-guided-tour-by": {
+  "title": "Von Delhi: Ganztägige geführte Jaipur-Stadttour per Auto",
+  "metaTitle": "Von Delhi: Geführte Jaipur-Tagestour per Auto",
+  "metaDescription": "Geführte Tagestour nach Jaipur ab Delhi mit dem Auto, Abholung ab 5 Uhr möglich, Eintrittsgebühren je nach Option inklusive.",
+  "shortDescription": "Ein geführter Tag in Jaipur ab Delhi mit dem Auto, mit Abholung ab 5 Uhr und Eintrittsgebühren in der Komplettversion inklusive.",
+  "fullDescription": "**Abholung ab 5 Uhr, denn die Straße entscheidet über Ihren Tag**\n\nDelhi nach Jaipur sind 270 km. Wer um fünf Uhr losfährt, ist an Gurugram vorbei, bevor es erwacht, und erreicht Amber Fort gegen zehn Uhr, die letzte Stunde, in der die Höfe noch angenehm sind. Wer um acht Uhr losfährt, verliert beides.\n\nEs gibt auch eine Option mit Start in Jaipur, falls Sie bereits dort sind.\n\n**Amber Fort**\n\n1592 von Raja Man Singh auf einem Grat über dem **Maota-See** begonnen, im blassen Sandstein der Aravalli.\n\nDas **Ganesh Pol**-Tor, bemalt und vergoldet. Der **Sheesh Mahal**, in dessen Decke Tausende konvexer Spiegelfragmente eingesetzt wurden, sodass eine einzige Kerze die Kammer mit Lichtpunkten füllt. Der **Sukh Niwas**, gekühlt durch Wasser, das durch Kanäle in den Marmorwänden fließt.\n\n**Jal Mahal**\n\nEin Fotostopp vom Damm aus. Vier der fünf Stockwerke stehen unter Wasser, kein Zutritt.\n\n**City Palace**\n\nNoch immer teilweise Residenz der ehemaligen königlichen Familie, mit der Waffenkammer, den Textilgalerien und den beiden Silberurnen, die gegossen wurden, damit ein Maharadscha Ganges-Wasser auf eine Reise nach England mitnehmen konnte.\n\n**Jantar Mantar**\n\nNeunzehn gemauerte astronomische Instrumente, errichtet in den 1730er Jahren von Jai Singh II. UNESCO-gelistet. Das **Samrat Yantra** ist eine 27 Meter hohe Sonnenuhr, deren Schatten sich sichtbar bewegt, sechs Zentimeter pro Minute, und die noch auf etwa zwei Sekunden genau ist.\n\n**Hawa Mahal**\n\nDie Wabenfassade mit 953 Fenstern am Sireh Deori Bazaar, von der gegenüberliegenden Straße aus.\n\n**Drei Optionen**\n\nEine Version nur für Jaipur mit Auto und Guide; ab Delhi mit Auto, Fahrer und Guide; oder ab Delhi mit Guide, Eintrittsgebühren und Mahlzeiten inklusive.\n\n**Praktisch**\n\nZwölf Stunden von Tür zu Tür ab Delhi.\n\nBei den Optionen ohne Gebühren rechnen Sie mit etwa ₹1.500 pro Kopf für einen ausländischen Erwachsenen an den wichtigsten Monumenten.",
+  "highlights": [
+   "Erleben Sie das Beste von Jaipur in nur 12 Stunden mit einem gut organisierten Plan"
+  ],
+  "included": [
+   "Abholung & Rückfahrt",
+   "Klimatisierter Transport",
+   "Live-Reiseführer",
+   "Eintrittsgebühren für Denkmäler (falls Option gewählt)",
+   "Mittagessen in einem Multi-Küchen-Restaurant (falls Option gewählt)",
+   "Wasserflaschen",
+   "Regenschirme",
+   "Alle Steuern & Parkgebühren"
+  ],
+  "notIncluded": [
+   "Jegliche Getränke",
+   "Trinkgeld"
+  ]
+ },
+ "from-jaipur-2-days-1-night-ranthambore-tiger-safar": {
+  "title": "Von Jaipur: 2 Tage 1 Nacht Ranthambore Tiger-Safari-Tour",
+  "metaTitle": "Von Jaipur: 2 Tage 1 Nacht Ranthambore Tiger-Safari",
+  "metaDescription": "Zwei Tage von Jaipur nach Ranthambore mit Tiger-Safaris, einer Nacht im Park und Unterkunftsoptionen.",
+  "shortDescription": "Zwei Tage von Jaipur nach Ranthambore mit Tiger-Safaris, einer Nacht im Park und Unterkunftsoptionen.",
+  "fullDescription": "**Eine Nacht, und das verschafft Ihnen die Morgendämmerungs-Safari**\n\nRanthambores Morgensafari ist der bessere Slot, die Raubkatzen bewegen sich im ersten Licht und ruhen sich am Vormittag aus, und ein Tagesausflug von Jaipur erreicht das nicht. Das ist das ganze Argument für die Übernachtung.\n\n**Tag 1: Jaipur nach Ranthambore**\n\nEine morgendliche Fahrt von etwa 180 km durch das ländliche Rajasthan, drei Stunden, mit Ankunft rechtzeitig zur **Nachmittags-Safari**.\n\n**Tag 2: Morgendämmerungs-Safari, dann zurück**\n\nDie Morgenfahrt, und dann die Heimfahrt.\n\n**Der Park**\n\nEin Jagdrevier eines Maharadschas, bevor er 1980 zum Nationalpark wurde. 1.300 Quadratkilometer trockener Laubwald, Grasland und felsiger Grat, mit Seen, die die Tierwelt konzentrieren, während die Trockenzeit fortschreitet.\n\nEtwa siebzig Tiger leben hier, und sie sind ungewöhnlich an Fahrzeuge gewöhnt, mehrere der ansässigen Tigerinnen wurden so oft fotografiert, dass sie landesweit in Indien namentlich bekannt sind.\n\nSichtungen sind Glückssache. Zwei Fahrten verdoppeln ungefähr die Chancen, das ist die ganze Rechnung einer zweitägigen Reise.\n\n**Was in jedem Fall sicher ist**\n\n**Sambar**, die brusttief in den Seen stehen und Wasserpflanzen fressen, **Chital**, **Nilgai**, **Languren**, die Früchte für die Hirsche darunter fallen lassen, Wildschweine, und **Sumpfkrokodile**, die bei Padam Talao an Land liegen.\n\nAusgezeichnete Vogelwelt: Schlangenadler, Nimmersatt-Störche, Eisvögel und Wintergäste am Wasser.\n\n**Ranthambore Fort** steht innerhalb des Reservats auf einem 700 Fuß hohen Grat, zehntes Jahrhundert, UNESCO-gelistet, und immer noch ein aktiver Tempel, zu dem Pilger zu Fuß durch Tigergebiet hinaufsteigen.\n\n**Vier Optionen**\n\nNur Auto und Fahrer; Auto und Fahrer mit Unterkunft; mit zwei geteilten Safaris; oder mit einem Drei-Sterne-Hotel und Safaris.\n\n**Praktisch**\n\nZonen und Genehmigungen werden von der **Forstbehörde** vergeben, niemand wählt selbst.\n\n**Der Park ist vom 1. Juli bis 30. September geschlossen.** Oktober bis April ist die Saison, März und April bieten die besten Sichtungen.\n\nWinterliche Morgendämmerungen in einem offenen Fahrzeug sind kalt, bringen Sie eine Jacke mit.",
+  "highlights": [
+   "Entdecken Sie die alte Geschichte des Ranthambore-Nationalparks"
+  ],
+  "included": [
+   "Abholung & Rückfahrt zu Hotel/Bahnhof/Busbahnhof mit klimatisiertem Fahrzeug",
+   "Kraftstoff (Benzin/Diesel), Parkgebühren, Mautgebühren & zwischenstaatliche Steuern...",
+   "Wasser in Flaschen",
+   "Klimatisiertes Auto für 02 Tage",
+   "Experten-Reiseführer für den Wald",
+   "2 Safaris im Ranthambore-Nationalpark per Jeep oder Canter (je nach Verfügbarkeit der gewählten Option)",
+   "5-Sterne-Hotelunterkunft (falls Option gewählt)",
+   "3-Sterne-Hotelunterkunft (falls Option gewählt)",
+   "3 Mahlzeiten im Hotel (falls Option gewählt)",
+   "Alle Arten von Steuern"
+  ],
+  "notIncluded": [
+   "Jegliche Getränke",
+   "Jegliche persönlichen Ausgaben",
+   "Trinkgeld für Guide und Fahrer"
+  ]
+ },
+ "from-jaipur-full-day-jaipur-sightseeing-with-galta": {
+  "title": "Jaipur: Ganztägige Besichtigung mit Galta-Ji-Tempel",
+  "metaTitle": "Jaipur: Ganztägige Besichtigung mit Galta Ji",
+  "metaDescription": "Ein ganzer Tag in Jaipur inklusive Galta Ji, dem Affentempel, mit Optionen für Guide, Auto und Tickets.",
+  "shortDescription": "Ein ganzer Tag in Jaipur inklusive Galta Ji, dem Affentempel, mit Optionen für Guide, Auto und Tickets.",
+  "fullDescription": "**Die klassische Route, plus der Tempel in der Schlucht**\n\n**Galta Ji** macht diesen Tag anders. Er liegt in einer Schlucht der Aravalli-Hügel östlich der Stadt und fast keine Ganztagestour nimmt ihn mit.\n\n**Galta Ji**\n\nNatürliche Quellen fließen durch eine Reihe von Steinbecken, der **Galta Kund** oben ist nie bekannt dafür, auszutrocknen, und Pilger baden dort seit Jahrhunderten.\n\nDie Gebäude sind aus rosafarbenem Sandstein des 18. Jahrhunderts, in den Felsen gebaut statt darauf, mit bemalten Innenräumen, die so verblassen, dass es sich jetzt lohnt, sie zu sehen. Über dem Komplex blickt der **Surya-Tempel** zum Sonnenaufgang und bietet die ganze Stadt darunter.\n\nZwei Truppen von Makaken leben hier, daher der Spitzname. Halten Sie kein Essen in der Hand, strecken Sie kein Telefon über eine Mauer, und nehmen Sie die Sonnenbrille vom Kopf.\n\n**Amber Fort**\n\nDer Hügelkomplex über dem Maota-See, begonnen 1592. Das bemalte **Ganesh Pol**-Tor, der **Sheesh Mahal** mit seiner Decke aus konvexen Spiegelfragmenten, und der **Sukh Niwas**, gekühlt durch Wasser, das durch Marmorkanäle fließt.\n\n**Jal Mahal**\n\nVom Damm aus. Vier der fünf Stockwerke unter Wasser, kein Zutritt.\n\n**City Palace**\n\nNoch immer teilweise Residenz der ehemaligen königlichen Familie, mit der Waffenkammer, den Textilgalerien und den beiden Silberurnen im Diwan-i-Khas, den größten Silberobjekten der Welt.\n\n**Jantar Mantar**\n\nNeunzehn gemauerte astronomische Instrumente aus den 1730er Jahren, UNESCO-gelistet, mit einer 27 Meter hohen Sonnenuhr, die noch auf etwa zwei Sekunden genau ist.\n\n**Hawa Mahal**\n\nDie Fassade mit 953 Fenstern, von der gegenüberliegenden Straße aus.\n\n**Vier Optionen**\n\nNur ein Guide, in mehreren Sprachen verfügbar; Auto, Fahrer und Guide; dasselbe mit Eintritt zu den Denkmälern; oder mit Eintritt und mehr.\n\n**Praktisch**\n\nEtwa sieben Stunden. Schuhe aus bei Galta Ji, Schultern und Knie bedeckt.\n\nEintrittsgebühren betragen etwa ₹1.500 pro Kopf für einen ausländischen Erwachsenen, wo nicht inklusive.",
+  "highlights": [
+   "Erleben Sie Jaipurs königliches Erbe bei einer privaten ganztägigen Besichtigungstour."
+  ],
+  "included": [
+   "Abholung & Rückfahrt zu Hotel/Flughafen/Bahnhof in Jaipur",
+   "Privater klimatisierter Wagen mit professionellem Fahrer",
+   "Professioneller lizenzierter Reiseführer",
+   "Eintrittsgebühren für Denkmäler (falls Option gewählt)",
+   "Unbegrenztes Flaschenwasser während der Fahrtzeit",
+   "Alle Parkgebühren, Kraftstoffkosten, Mautgebühren & staatliche Steuern",
+   "Personalisiertes privates Besichtigungserlebnis"
+  ],
+  "notIncluded": [
+   "Trinkgeld für Fahrer und Guide",
+   "Mittagessen und Getränke (eigene Kosten)",
+   "Persönliche Ausgaben und Souvenirs",
+   "Alle im Reiseplan nicht genannten Leistungen"
+  ]
+ },
+ "from-jaipur-morning-sunrise-with-jaipur-flower-mar": {
+  "title": "Von Jaipur: Morgendlicher Sonnenaufgang mit Jaipurs Blumenmarkt",
+  "metaTitle": "Von Jaipur: Sonnenaufgang mit Blumenmarkt-Tour",
+  "metaDescription": "Eine dreistündige Morgentour durch Jaipur mit dem Blumenmarkt und der Altstadt, bevor sie erwacht.",
+  "shortDescription": "Eine dreistündige Morgentour durch Jaipur mit dem Blumenmarkt und der Altstadt, bevor sie erwacht.",
+  "fullDescription": "**Der Blumenmarkt ist um acht Uhr vorbei**\n\nDeshalb sieht ihn fast kein Besucher. Jaipurs **Phool Mandi** läuft vor dem ersten Licht: Ringelblumen sackweise, Rosen, Jasmin und Tuberose, zu Girlanden für die Tempelopfer des Tages gebunden und an Verkäufer abgewogen, die ab sieben Uhr an ihren Ständen sein werden.\n\nEs ist laut, schnell, vollkommen funktional, und die besten zwanzig Minuten der Stadt für einen Fotografen.\n\n**Die Altstadt in der Morgendämmerung**\n\nDanach die ummauerte Stadt beim Erwachen. Jai Singh II legte sie 1727 auf einem Neun-Felder-Raster mit festgelegten Straßenbreiten an, und um sechs Uhr morgens kann man den Plan tatsächlich sehen, kein Verkehr, keine Menschen, die rosa Mauern im ersten Licht.\n\n**Chhoti Chopad** und **Badi Chopad**, die großen Kreuzungen. Milch, die in Stahlkannen geliefert wird. Chai, von oben eingeschenkt. Tempelglocken und die ersten Aartis. Straßenfeger, und die Männer, die die Gehwege vor den Läden waschen, bevor sie öffnen.\n\n**Hawa Mahal** wird zu dieser Stunde für etwa eine Stunde richtig pink, die einzige Zeit, zu der es so aussieht, wie es die Fotos versprechen, und niemand steht davor.\n\n**Ein Aussichtspunkt**\n\nDie Tour beinhaltet meist einen Grat oder ein Dach für den Sonnenaufgang selbst, mit dem ganzen Raster der Altstadt darunter und den Aravalli dahinter.\n\n**Warum dies statt eines ganzen Tages**\n\nWeil es eine völlig andere Stadt ist als die, die Sie um elf Uhr sehen werden, und weil drei Stunden in der Morgendämmerung Sie nichts außer einem frühen Wecker kosten, Sie sind rechtzeitig zum Frühstück zurück im Hotel, mit dem Rest des Tages intakt.\n\n**Zwei Optionen**\n\nAuto, Fahrer und Guide; oder dasselbe mit Eintritt zu den Denkmälern inklusive.\n\n**Praktisch**\n\nDrei Stunden, mit Abholung im Dunkeln. Die Sonnenaufgangszeiten verschieben sich im Laufe des Jahres, daher wird die Abholung nach Ihrem Datum festgelegt.\n\nKühl an Wintermorgen, bringen Sie eine zusätzliche Schicht mit. Der Boden des Blumenmarkts ist nass, tragen Sie Schuhe, die Ihnen nichts ausmachen.",
+  "highlights": [
+   "ein wunderschöner Sonnenaufgang über dem Panoramablick der Stadt"
+  ],
+  "included": [
+   "Abholung & Rückfahrt zu Hotel/Bahnhof/Busbahnhof mit klimatisiertem Fahrzeug",
+   "Klimatisiertes Fahrzeug & privater Transport",
+   "Kraftstoff (Benzin/Diesel), Parkgebühren, Mautgebühren & zwischenstaatliche Steuern...",
+   "Englischsprachiger Guide"
+  ],
+  "notIncluded": [
+   "Mahlzeiten & persönliche Ausgaben",
+   "Andere Aktivitäten",
+   "Trinkgeld für Fahrer & Guide"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
