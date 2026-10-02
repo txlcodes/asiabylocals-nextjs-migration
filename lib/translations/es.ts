@@ -6300,6 +6300,51 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "taj-mahal-same-guided-tour": {
+  "title": "Taj Mahal en el día en coche desde Delhi",
+  "metaTitle": "Delhi-Taj Mahal, fuerte y Baby Taj en un día",
+  "metaDescription": "El Taj Mahal, el Fuerte de Agra y el Baby Taj en un día desde Delhi en coche privado con aire acondicionado y guía de habla inglesa.",
+  "shortDescription": "El Taj Mahal, el Fuerte de Agra y el Baby Taj en un día desde Delhi en coche privado con aire acondicionado y guía de habla inglesa.",
+  "fullDescription": "**Tres sitios mogoles, un día, un coche**\n\nLa excursión estándar desde Delhi hace el Taj y el fuerte. Añadir el Baby Taj es lo que hace que este itinerario merezca sus doce horas, porque es el edificio del que el Taj aprendió y casi nadie lo ve.\n\n**La carretera**\n\nRecogida temprana en Delhi, y luego la Yamuna Expressway en coche privado con aire acondicionado, unas tres horas y media con una parada.\n\n**Taj Mahal**\n\nShah Jahan lo empezó en 1632, el año siguiente a la muerte de Mumtaz Mahal al dar a luz a su decimocuarto hijo. Veinte mil obreros, veintidós años, mármol blanco acarreado 400 km desde Makrana, en Rajastán.\n\nSu guía le mostrará lo que se escapa con facilidad: la **caligrafía** del gran arco, labrada más grande a medida que sube para que las letras se lean a la misma altura desde el suelo; las incrustaciones de **pietra dura**, donde una flor puede contener sesenta piedras distintas; los cuatro **alminares**, inclinados muy ligeramente hacia fuera para que un terremoto los dejara caer lejos de la tumba; y la única asimetría de la composición, el cenotafio de Shah Jahan, añadido fuera del centro por Aurangzeb.\n\n**El Fuerte de Agra**\n\nMás una ciudad amurallada que un fuerte. Akbar lo construyó desde 1565 en arenisca roja; Shah Jahan reemplazó buena parte del interior en mármol. El **Diwan-i-Am**, el **Khas Mahal**, el **Sheesh Mahal**, y el **Musamman Burj**, la torre octogonal donde Aurangzeb tuvo preso a su padre los últimos ocho años de su vida, con el Taj a la vista río abajo.\n\n**Itimad-ud-Daulah, el Baby Taj**\n\nAl otro lado del Yamuna. Nur Jahan lo mandó construir entre 1622 y 1628 para su padre, el primer edificio mogol enteramente de mármol, y el primero en la India en usar pietra dura. Más pequeño que el Taj, de labra más fina, y casi siempre vacío.\n\n**Dos opciones**\n\nLa visita con coche, conductor y guía; o la versión con entradas y comida incluidas.\n\n**El Taj cierra los viernes.**",
+  "highlights": [
+   "Visite el Taj Mahal, reconocido en todo el mundo, una de las siete maravillas del mundo."
+  ],
+  "included": [
+   "Recogida y regreso en el hotel",
+   "Visitas en coche privado con aire acondicionado",
+   "Entradas al Taj Mahal, el Fuerte de Agra y el Baby Taj (en la opción elegida)",
+   "Guía turístico profesional en directo",
+   "Comida (en la opción elegida)",
+   "Agua embotellada",
+   "Aparcamiento, impuestos, peajes, combustible"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "taj-mahal-sunrise-and-agra-trip-from-delhi-with": {
+  "title": "Taj Mahal al amanecer y excursión a Agra desde Delhi con desayuno de 5 estrellas",
+  "metaTitle": "Delhi: Taj al amanecer, desayuno de 5 estrellas",
+  "metaDescription": "El Taj Mahal al amanecer desde Delhi con recogida a las 2:30, el Fuerte de Agra, y desayuno en un hotel de cinco estrellas.",
+  "shortDescription": "El Taj Mahal al amanecer desde Delhi con recogida a las 2:30, el Fuerte de Agra, y desayuno en un hotel de cinco estrellas.",
+  "fullDescription": "**Recogida a las 2:30, y para qué**\n\nEsta es la versión más temprana de la excursión a Agra, y existe por una razón: llevarle al Taj Mahal cuando abren las puertas, media hora antes del amanecer, cuando el mármol todavía es gris.\n\nEsa hora no es un eslogan de marketing. La gente es quizá una quinta parte de la que habrá a las diez, la luz va del gris al rosa y al blanco a medida que el sol supera la orilla opuesta del Yamuna, y en diciembre y enero hay niebla sobre el río detrás de la cúpula.\n\nEstará cansado. Todo el que ha hecho las dos versiones, la temprana y la normal, dice que esta es la buena.\n\n**03:00-06:00, la carretera**\n\nLa Yamuna Expressway en coche privado con aire acondicionado, con la carretera despejada. La mayoría de la gente duerme.\n\n**Amanecer en el Taj**\n\nShah Jahan lo empezó en 1632, el año siguiente a la muerte de Mumtaz Mahal al dar a luz a su decimocuarto hijo. Veinte mil obreros, veintidós años, mármol acarreado 400 km desde Makrana.\n\nSu guía cubre lo que se escapa con facilidad: la **caligrafía** labrada en tamaños crecientes para que las letras se lean a la misma altura desde el suelo; la **pietra dura**, hasta sesenta piedras en una sola flor incrustada; los cuatro **alminares**, inclinados mínimamente hacia fuera para que un terremoto los dejara caer lejos de la tumba; y lo único descentrado de todo el edificio, el cenotafio de Shah Jahan, añadido junto al de su esposa por Aurangzeb.\n\n**Desayuno**\n\nDespués en un hotel de cinco estrellas, que a esa hora de la mañana es la mejor comida del viaje.\n\n**El Fuerte de Agra**\n\nLa ciudad de arenisca roja de Akbar, de 1565, con el mármol de Shah Jahan dentro, y el **Musamman Burj**, donde murió preso de su propio hijo, mirando río abajo la tumba que había construido.\n\n**Tres opciones**\n\nSolo guía; coche privado, conductor y guía; o la versión con comida y todas las entradas.\n\n**Práctico**\n\nOnce horas desde una salida a las 2:30. **El Taj cierra los viernes.** Lleve algo de abrigo para la orilla del río antes del amanecer en invierno.",
+  "highlights": [
+   "Visite el Taj Mahal al amanecer, el mejor momento para la luz suave de la mañana y menos gente."
+  ],
+  "included": [
+   "Recogida y regreso en el hotel o el aeropuerto",
+   "Coche privado con aire acondicionado y conductor para toda la visita",
+   "Guía turístico experto autorizado por el gobierno",
+   "Entradas a los monumentos (en la opción elegida)",
+   "Comida en un hotel de 5 estrellas (en la opción elegida)",
+   "Botella de agua mineral",
+   "Todos los peajes y gastos de aparcamiento"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Reserve un guía oficial para recorrer Bengaluru",
   "metaTitle": "Bengaluru con guía: palacios, Lalbagh, templos y bazares",

@@ -6300,6 +6300,51 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "taj-mahal-same-guided-tour": {
+  "title": "Taj Mahal am selben Tag im Wagen ab Delhi",
+  "metaTitle": "Delhi-Taj Mahal, Fort und Baby Taj an einem Tag",
+  "metaDescription": "Taj Mahal, Agra Fort und der Baby Taj an einem Tag ab Delhi im privaten klimatisierten Wagen mit englischsprachigem Guide.",
+  "shortDescription": "Taj Mahal, Agra Fort und der Baby Taj an einem Tag ab Delhi im privaten klimatisierten Wagen mit englischsprachigem Guide.",
+  "fullDescription": "**Drei Mogulstätten, ein Tag, ein Wagen**\n\nDer Standard-Tagesausflug ab Delhi macht den Taj und das Fort. Den Baby Taj hinzuzufügen ist das, was diese Route ihre zwölf Stunden wert macht, denn es ist der Bau, von dem der Taj gelernt wurde, und fast niemand sieht ihn.\n\n**Die Fahrt**\n\nFrühe Abholung in Delhi, dann die Yamuna Expressway im privaten klimatisierten Wagen, rund dreieinhalb Stunden mit Pause.\n\n**Taj Mahal**\n\nShah Jahan begann ihn 1632, im Jahr nachdem Mumtaz Mahal bei der Geburt ihres vierzehnten Kindes gestorben war. Zwanzigtausend Arbeiter, zweiundzwanzig Jahre, weißer Marmor über 400 km aus Makrana in Rajasthan herangekarrt.\n\nIhr Guide zeigt Ihnen, was leicht entgeht: die **Kalligrafie** am großen Bogen, nach oben hin größer geschnitten, damit die Buchstaben vom Boden aus gleich hoch erscheinen; die **Pietra-dura**-Einlagen, bei denen eine Blüte sechzig einzelne Steine enthalten kann; die vier **Minarette**, ganz leicht nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg fallen ließe; und die einzige Asymmetrie in der Komposition, Shah Jahans Kenotaph, von Aurangzeb außerhalb der Mitte hinzugefügt.\n\n**Agra Fort**\n\nEher eine von Mauern umschlossene Stadt als ein Fort. Akbar baute es ab 1565 in rotem Sandstein; Shah Jahan ersetzte einen Großteil des Inneren durch Marmor. Der **Diwan-i-Am**, der **Khas Mahal**, der **Sheesh Mahal**, und der **Musamman Burj**, der achteckige Turm, in dem Aurangzeb seinen Vater die letzten acht Jahre seines Lebens gefangen hielt, mit dem Taj in Sicht am Fluss.\n\n**Itimad-ud-Daulah, der Baby Taj**\n\nJenseits der Yamuna. Nur Jahan ließ ihn zwischen 1622 und 1628 für ihren Vater bauen, das erste ganz marmorne Mogulbauwerk, und das erste in Indien, das Pietra dura verwendet. Kleiner als der Taj, feiner eingelegt, und fast immer leer.\n\n**Zwei Optionen**\n\nDie Tour mit Wagen, Fahrer und Guide; oder die Fassung mit Eintrittsgebühren und Mittagessen inbegriffen.\n\n**Der Taj ist freitags geschlossen.**",
+  "highlights": [
+   "Besuchen Sie den weltbekannten Taj Mahal, eines der sieben Weltwunder."
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel",
+   "Besichtigungen im privaten klimatisierten Wagen",
+   "Eintrittskarten für Taj Mahal, Agra Fort und Baby Taj (bei gewählter Option)",
+   "Professioneller Reiseleiter vor Ort",
+   "Mittagessen (bei gewählter Option)",
+   "Wasser in Flaschen",
+   "Parkgebühren, Steuern, Mautkosten, Treibstoff"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "taj-mahal-sunrise-and-agra-trip-from-delhi-with": {
+  "title": "Taj Mahal bei Sonnenaufgang und Agra-Ausflug ab Delhi mit 5-Sterne-Frühstück",
+  "metaTitle": "Delhi: Taj bei Sonnenaufgang, 5-Sterne-Frühstück",
+  "metaDescription": "Der Taj Mahal bei Sonnenaufgang ab Delhi mit Abholung um 2:30 Uhr, Agra Fort, und Frühstück in einem Fünf-Sterne-Hotel.",
+  "shortDescription": "Der Taj Mahal bei Sonnenaufgang ab Delhi mit Abholung um 2:30 Uhr, Agra Fort, und Frühstück in einem Fünf-Sterne-Hotel.",
+  "fullDescription": "**Abholung um 2:30 Uhr, und wofür**\n\nDas ist die früheste Fassung des Agra-Tagesausflugs, und sie existiert aus einem Grund: Sie zur Toröffnung an den Taj Mahal zu bringen, eine halbe Stunde vor Sonnenaufgang, wenn der Marmor noch grau ist.\n\nDiese Stunde ist keine Werbefloskel. Die Menge ist vielleicht ein Fünftel dessen, was sie bis zehn sein wird, das Licht wandert von grau über rosa zu weiß, während die Sonne über das gegenüberliegende Ufer der Yamuna steigt, und im Dezember und Januar liegt Nebel auf dem Fluss hinter der Kuppel.\n\nSie werden müde sein. Jeder, der beide Fassungen gemacht hat, die frühe und die normale, sagt, das ist die richtige.\n\n**03:00-06:00, die Fahrt**\n\nDie Yamuna Expressway im privaten klimatisierten Wagen, auf leerer Fahrbahn. Die meisten Menschen schlafen.\n\n**Sonnenaufgang am Taj**\n\nShah Jahan begann ihn 1632, im Jahr nachdem Mumtaz Mahal bei der Geburt ihres vierzehnten Kindes gestorben war. Zwanzigtausend Arbeiter, zweiundzwanzig Jahre, Marmor über 400 km aus Makrana herangekarrt.\n\nIhr Guide behandelt, was leicht entgeht: die **Kalligrafie**, in wachsenden Größen geschnitten, damit die Buchstaben vom Boden aus gleich hoch erscheinen; die **Pietra dura**, bis zu sechzig Steine in einer eingelegten Blüte; die vier **Minarette**, minimal nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg nähme; und das einzige nicht zentrierte Stück im ganzen Bau, Shah Jahans eigenes Kenotaph, von Aurangzeb neben das seiner Frau hinzugefügt.\n\n**Frühstück**\n\nAnschließend in einem Fünf-Sterne-Hotel, was zu dieser Tageszeit das beste Essen der Reise ist.\n\n**Agra Fort**\n\nAkbars Stadt aus rotem Sandstein von 1565 mit Shah Jahans Marmor darin, und der **Musamman Burj**, wo er als Gefangener seines eigenen Sohnes starb und flussabwärts auf das Grabmal blickte, das er hatte bauen lassen.\n\n**Drei Optionen**\n\nNur Guide; Privatwagen, Fahrer und Guide; oder die Fassung mit Mittagessen und allen Eintrittsgebühren.\n\n**Praktisch**\n\nElf Stunden ab Start um 2:30 Uhr. **Der Taj ist freitags geschlossen.** Nehmen Sie eine Lage für das Flussufer vor Sonnenaufgang im Winter mit.",
+  "highlights": [
+   "Besuchen Sie den Taj Mahal bei Sonnenaufgang, der besten Zeit für weiches Morgenlicht und weniger Menschen."
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die gesamte Tour",
+   "Staatlich geprüfter erfahrener Reiseleiter",
+   "Eintrittskarten für die Monumente (bei gewählter Option)",
+   "Mittagessen in einem 5-Sterne-Hotel (bei gewählter Option)",
+   "Flasche Mineralwasser",
+   "Alle Mautkosten und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Alle persönlichen Ausgaben"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Offiziellen Guide für die Erkundung von Bengaluru buchen",
   "metaTitle": "Bengaluru mit Guide: Paläste, Lalbagh, Tempel und Basare",
