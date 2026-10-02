@@ -10918,6 +10918,88 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier gasto personal"
   ]
  },
+ "delhi-akshardham-temple-tour-and-musical-fountain-": {
+  "title": "Delhi: visita al templo de Akshardham y espectáculo de fuente musical",
+  "metaTitle": "Akshardham: fuente musical por la noche",
+  "metaDescription": "Una tarde en Akshardham con guía y el espectáculo de fuente musical, traslados desde su hotel en Delhi incluidos.",
+  "shortDescription": "Una tarde en Akshardham con guía y el espectáculo de fuente musical, traslados desde su hotel en Delhi incluidos.",
+  "fullDescription": "**El templo que llevó cinco años y nada de acero**\n\nAkshardham se terminó en 2005 en la orilla este del Yamuna, y las cifras son la forma más sencilla de entenderlo: 234 columnas talladas, 148 elefantes de piedra, todos distintos, nueve cúpulas, y **ni un gramo de acero estructural ni cemento** en ninguna parte del monumento principal.\n\nSe construyó con arenisca rosa de Rajasthan y mármol de Carrara italiano siguiendo los métodos tradicionales del **shilpa shastra**, piedra tallada, esculpida y ajustada como se construían los templos hace mil años, por unos siete mil artesanos y un gran número de voluntarios.\n\nLe conmueva o no, es algo notable de ver intentado en el siglo XXI.\n\n**La tarde**\n\nRecogida en su hotel en un coche con aire acondicionado. Su guía explica la construcción durante el trayecto, lo que resulta útil, porque el edificio en sí tiene muy poca señalización.\n\nEn el interior, el **Mandir** con su galería tallada, el pedestal **Gajendra Pith** con elefantes en la base, 3.000 toneladas de piedra que narran historias de elefantes de la mitología india, y el **Narayan Sarovar**, el estanque rodeado de 108 cabezas de vaca de latón y lleno con agua de 151 ríos y lagos sagrados.\n\n**La fuente musical**\n\nTras el anochecer, en el **Yagnapurush Kund**, el mayor aljibe escalonado de su tipo, construido con 2.870 escalones alrededor de un loto central. Agua, luz y sonido componen un espectáculo de unos quince minutos que narra una historia de los Upanishad.\n\n**Antes de salir**\n\nLa seguridad es de nivel aeroportuario y la lista de prohibiciones es absoluta: **sin teléfonos, sin cámaras, sin bolsos, sin electrónica, sin comida**. Hay taquillas gratuitas en la entrada, y la fila para usarlas es la parte más larga de la tarde. Deje todo en el coche si puede.\n\nSe exige vestimenta modesta, hombros y rodillas cubiertos para todos. En la entrada se prestan chales.\n\n**Cerrado los lunes.** El complejo cierra bastante temprano, así que el espectáculo de la fuente es lo último de la noche.\n\nFotografiar en el interior es imposible. Esa es la regla, y mejor saberlo antes que en la puerta.",
+  "highlights": [
+   "Sienta la magia del templo de Akshardham al atardecer sobre Delhi"
+  ],
+  "included": [
+   "Recogida y traslado al hotel",
+   "Visita guiada al templo de Akshardham",
+   "Espectáculo de agua Sahaj Anand"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas",
+   "Comidas"
+  ]
+ },
+ "delhi-akshardham-temple-tour-with-light-and-water-": {
+  "title": "Delhi: visita al templo de Akshardham con espectáculo de luz y agua",
+  "metaTitle": "Akshardham: espectáculo de luz y agua",
+  "metaDescription": "Templo de Akshardham con guía y el espectáculo de agua y luz de la noche. Unas tres horas con traslados.",
+  "shortDescription": "Templo de Akshardham con guía y el espectáculo de agua y luz de la noche. Unas tres horas con traslados.",
+  "fullDescription": "**Construido en cinco años, sin acero**\n\nAkshardham se terminó en 2005 con arenisca rosa de Rajasthan y mármol de Carrara italiano: 234 columnas talladas, 148 elefantes de piedra, todos distintos, nueve cúpulas, y **ni acero estructural ni cemento** en ninguna parte del monumento principal.\n\nSe construyó siguiendo los métodos tradicionales del **shilpa shastra**, piedra tallada, esculpida y ajustada como se construían los templos indios hace mil años, por unos siete mil artesanos y un gran número de voluntarios.\n\nInteresen o no los templos modernos, el hecho de que esto se intentara en el siglo XXI es notable.\n\n**El complejo**\n\nSu guía le acompaña antes del espectáculo.\n\nEl **Mandir** con su galería tallada. El **Gajendra Pith**, un pedestal de tres mil toneladas de piedra que narra historias de elefantes de la mitología india, elefantes con santos, con reyes, entre ellos. Y el **Narayan Sarovar**, el estanque rodeado de 108 cabezas de vaca de latón y lleno con agua de 151 ríos y lagos sagrados.\n\n**El espectáculo de agua y luz**\n\nTras el anochecer, en el **Yagnapurush Kund**, el mayor aljibe escalonado de su tipo, construido con 2.870 escalones alrededor de un loto central. Chorros de agua, luz proyectada, fuego y música narran una historia de la Kena Upanishad sobre un muchacho que entra en el fuego para aprender el origen de la vida.\n\nQuince minutos, y esa es la razón para venir por la noche.\n\n**Antes de salir**\n\nLa seguridad es de nivel aeroportuario y la lista de prohibiciones es absoluta: **sin teléfonos, sin cámaras, sin bolsos, sin electrónica, sin comida**. Hay taquillas gratuitas en la entrada, y la fila para usarlas es la parte más larga de la visita, deje todo en el coche si puede.\n\nVestimenta modesta exigida, hombros y rodillas cubiertos. En la entrada se prestan chales.\n\n**Cerrado los lunes.** Fotografiar en el interior es imposible, mejor saberlo de antemano.\n\n**Tres opciones**\n\nSolo guía; coche, conductor y guía; o lo mismo con entradas al espectáculo incluidas.",
+  "highlights": [
+   "Explore el magnífico templo Swaminarayan Akshardham, obra maestra del arte indio"
+  ],
+  "included": [
+   "Recogida y traslado al hotel",
+   "Visita privada al templo",
+   "Guía de habla inglesa",
+   "Entrada al espectáculo de luz y agua (si se selecciona la opción)",
+   "Agua mineral embotellada"
+  ],
+  "notIncluded": [
+   "Cualquier comida",
+   "Cualquier gasto personal"
+  ]
+ },
+ "delhi-ayodhya-2-day-private-tour-with-guide-meals": {
+  "title": "Delhi: Ayodhya en 2 días, visita privada con guía y comidas",
+  "metaTitle": "Ayodhya en 2 días desde Delhi",
+  "metaDescription": "Dos días desde Delhi a Ayodhya con coche privado, guía y comidas, el Ram Mandir y los ghats del Sarayu.",
+  "shortDescription": "Dos días desde Delhi a Ayodhya con coche privado, guía y comidas, el Ram Mandir y los ghats del Sarayu.",
+  "fullDescription": "**El templo nuevo más visitado de la India**\n\nAyodhya es considerada por los hindúes el lugar de nacimiento de Rama, y el **Ram Mandir**, consagrado en enero de 2024 en el sitio más disputado de la historia india moderna, es hoy uno de los lugares más visitados del país.\n\nSea cual sea su opinión sobre la política, la escala de lo que ocurre allí es notable: una ciudad-templo de unos pocos cientos de miles de habitantes que recibe decenas de millones de peregrinos al año, con una infraestructura de carreteras y ferrocarril completamente nueva construida alrededor.\n\n**El trayecto**\n\nUnos 690 km desde Delhi, así que este es un verdadero viaje de dos días. Coche privado con chófer en ambos sentidos.\n\n**Ram Mandir**\n\nConstruido en estilo Nagara con arenisca rosa de Bansi Paharpur, sobre un pedestal de tres pisos y 392 columnas, con el santuario alineado para que la luz del sol caiga sobre la deidad al mediodía de Ram Navami.\n\nLa seguridad es extremadamente estricta: **sin teléfonos, sin bolsos, sin electrónica, sin cámaras**. Espere largas colas y deje todo en el coche. Esto no es negociable y no hay vía rápida.\n\n**Hanuman Garhi**\n\nTras setenta y seis escalones, y más concurrido que cualquier otro lugar de la ciudad, la tradición dice que se debe visitar a Hanuman antes que a Rama, y la mayoría de los peregrinos lo hacen.\n\n**Los ghats del Sarayu**\n\nEl río corre por el borde norte de la ciudad, y el **aarti** vespertino en los ghats es más pequeño y tranquilo que el de Varanasi, con una fracción de la multitud. Es la mejor hora, la más tranquila, en Ayodhya.\n\n**Kanak Bhavan** y **Nageshwarnath** son los templos más antiguos que merecen la caminata.\n\n**Práctico**\n\nCoche privado, conductor, guía y comidas incluidas, con una noche.\n\nZapatos fuera, vestimenta modesta, hombros y rodillas cubiertos. La ciudad es **estrictamente vegetariana y libre de alcohol**.\n\nEvite Ram Navami (marzo-abril) y Diwali salvo que le atraigan multitudes de esa magnitud, el Deepotsav de Ayodhya establece récords Guinness de lámparas de aceite y la ciudad se vuelve intransitable.",
+  "highlights": [
+   "Viva un viaje espiritual de Delhi a Ayodhya con todo lujo"
+  ],
+  "included": [
+   "Traslados privados con chófer",
+   "Alojamiento exquisito en Ayodhya",
+   "Darshan guiado por un experto",
+   "Comidas vegetarianas gourmet",
+   "Gestión completa sin complicaciones",
+   "Coordinador de viaje dedicado",
+   "Almuerzo el día 1"
+  ],
+  "notIncluded": [
+   "Gastos personales"
+  ]
+ },
+ "delhi-ayurveda-culture-and-culinary-day-tour": {
+  "title": "Delhi: jornada de ayurveda, cultura y gastronomía",
+  "metaTitle": "Delhi: ayurveda, cultura y gastronomía",
+  "metaDescription": "Un día de tratamiento ayurvédico, sitios culturales de Delhi y una experiencia culinaria, con transporte privado.",
+  "shortDescription": "Un día de tratamiento ayurvédico, sitios culturales de Delhi y una experiencia culinaria, con transporte privado.",
+  "fullDescription": "**Tres cosas que Delhi hace bien, en un día**\n\nUn tratamiento, uno o dos monumentos, y comida, organizados para que el día empiece despacio y vaya en aumento, en lugar del sprint habitual entre fuertes.\n\n**El ayurveda**\n\nLo primero, en un centro de bienestar con terapeutas formados. Hay una breve consulta antes de empezar: qué quiere obtener de ello, qué está rígido, qué está estresado, y si tiene afecciones que descartan algo.\n\nEl tratamiento estándar es el **abhyanga**, aceite medicinal tibio aplicado con largos movimientos por los miembros y el torso, normalmente por uno o dos terapeutas trabajando al ritmo. Es más firme que un masaje de spa y se usa considerablemente más aceite. Se supone que debe dejarlo en la piel un rato en lugar de ducharse inmediatamente.\n\nEl ayurveda se practica en la India desde hace unos tres mil años, y su lógica es constitucional: el tratamiento y el aceite se eligen para usted en lugar de un menú.\n\nTerapeutas del mismo sexo como norma. Avise con antelación de embarazo, lesiones, cirugía reciente o presión arterial.\n\n**La cultura**\n\nLos sitios de Delhi a mitad del día, elegidos por interés en lugar de por lista, la **tumba de Humayun**, la tumba-jardín de la década de 1560 de la que desciende el Taj, es el ancla habitual, con **Qutub Minar** o el museo de artesanía según su interés y el tráfico.\n\n**La gastronomía**\n\nLa mitad culinaria es una sesión de cocina o un paseo gastronómico guiado, según la opción y el día.\n\nSi es un paseo, espere el **viejo Delhi**: parathas fritas en ghee en Paranthe Wali Gali, chaat, jalebi con rabri, y un guía que sabe qué puestos renuevan su aceite.\n\nSi es una clase, espere una cocina particular y un menú del norte de la India que cocina y luego come.\n\n**Práctico**\n\nTransporte privado con aire acondicionado durante todo el recorrido, con recogida y traslado al hotel.\n\nComa ligero antes del tratamiento. Traiga ropa holgada que no le importe mancharse de aceite, y espere tener que lavarse el pelo después.",
+  "highlights": [
+   "Disfrute de un tratamiento ayurvédico tradicional para relajarse y rejuvenecer"
+  ],
+  "included": [
+   "Tratamiento ayurvédico",
+   "Visita guiada",
+   "Cena",
+   "Traslados (si corresponde)"
+  ],
+  "notIncluded": [
+   "Ninguno"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
