@@ -4536,6 +4536,91 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "from-agra-day-trip-to-chambal-river-safari-with": {
+  "title": "Au départ d'Agra : excursion d'une journée au safari fluvial de la Chambal avec déjeuner",
+  "metaTitle": "Depuis Agra : safari fluvial sur la Chambal avec déjeuner",
+  "metaDescription": "Une journée depuis Agra jusqu'à la rivière Chambal pour un safari en bateau, gavials, dauphins et bec-en-ciseaux, avec naturaliste et déjeuner.",
+  "shortDescription": "Une journée depuis Agra jusqu'à la rivière Chambal pour un safari en bateau, gavials, dauphins et bec-en-ciseaux, avec un naturaliste et le déjeuner.",
+  "fullDescription": "**L'une des rivières les plus propres d'Inde, à 80 km du Taj**\n\nLa Chambal a une histoire étrange : pendant des siècles, les ravins qui la bordent étaient le territoire des bandits, ce qui a empêché que l'on y construise usines ou villes. Résultat : alors que la Yamuna à Agra est l'une des rivières les plus polluées d'Inde, la Chambal, à une heure de route, est l'une des plus propres, et abrite une faune disparue presque partout ailleurs.\n\n**Le safari**\n\nUne sortie en bateau de deux à trois heures avec un naturaliste anglophone, sur une embarcation à fond plat qui avance lentement et sans bruit.\n\nLes **gavials** sont la raison pour laquelle la plupart des gens viennent, ce crocodilien piscivore au museau long et étroit terminé par un renflement. Il n'en reste plus qu'environ 650 adultes reproducteurs à l'état sauvage, et à peu près les trois quarts vivent dans ce sanctuaire. Vous les verrez échoués sur les bancs de sable en nombre.\n\nLes **crocodiles marins** partagent l'eau et sont les plus dangereux des deux, mais pas pour un bateau.\n\nLes **dauphins du Gange** sont également présents, aveugles, d'eau douce, à écholocalisation, et animal aquatique national de l'Inde. Les observations sont réelles mais pas garanties ; ils ne font surface que brièvement et il faut de la patience.\n\nLes **oiseaux** sont la moitié sous-estimée de l'excursion : les bec-en-ciseaux indiens qui fendent la surface avec la moitié inférieure de leur bec, les oies à tête barrée en hiver, les grues antigones, les guifettes à ventre noir, et la tortue à toit à couronne rouge qui se chauffe sur chaque tronc.\n\n**Pratique**\n\nEnviron sept heures de porte à porte avec 80 km de route dans chaque sens en voiture privée climatisée. Le déjeuner est compris.\n\n**La saison compte.** De novembre à mars est la bonne fenêtre : l'eau est basse et claire, les bancs de sable sont découverts, et les oiseaux migrateurs sont là. Les mois de mousson sont médiocres et la sortie peut être impraticable.\n\nApportez des jumelles si vous en avez, un chapeau et de la crème solaire ; il n'y a pas d'ombre sur l'eau.",
+  "highlights": [
+   "Plongez dans la beauté de la rivière Chambal lors d'un safari de 3 heures"
+  ],
+  "included": [
+   "Prise en charge et retour à Agra",
+   "Véhicule privé climatisé",
+   "Guide naturaliste anglophone",
+   "Safari fluvial de 2 heures",
+   "Déjeuner dans un restaurant local"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "from-agra-fatehpur-sikri-sightseeing-tour-by-priva": {
+  "title": "Au départ d'Agra : visite de Fatehpur Sikri en voiture privée",
+  "metaTitle": "Depuis Agra : Fatehpur Sikri en voiture privée",
+  "metaDescription": "Une demi-journée depuis Agra jusqu'à Fatehpur Sikri, la capitale abandonnée d'Akbar, avec voiture privée et guide.",
+  "shortDescription": "Une demi-journée depuis Agra jusqu'à Fatehpur Sikri, la capitale abandonnée d'Akbar, avec voiture privée et guide. Environ six heures.",
+  "fullDescription": "**Une ville moghole complète, vide**\n\nAkbar a fait construire Fatehpur Sikri à partir de 1571 comme sa nouvelle capitale, en grès rouge, à l'échelle d'un empire à son apogée. Quatorze ans plus tard, la cour est partie, l'approvisionnement en eau ne pouvait plus la soutenir, et la ville n'a jamais été réoccupée.\n\nC'est pourquoi c'est la ville moghole la plus complète qui existe. Personne n'y a vécu assez longtemps pour la reconstruire, la subdiviser ou la moderniser. Ce qu'Akbar a laissé est ce que vous traversez.\n\nÀ une heure d'Agra, et cela mérite une matinée plutôt que les quarante minutes qu'un itinéraire d'excursion d'une journée lui accorde habituellement.\n\n**Buland Darwaza**\n\nL'entrée : 54 mètres de porte monumentale, construite pour marquer la conquête du Gujarat, et la plus haute porte du monde. L'inscription qui y figure cite Jésus, « le monde est un pont, traversez-le mais ne construisez aucune maison dessus », chose saisissante à trouver gravée sur une mosquée moghole, et qui en dit long sur Akbar.\n\n**Jama Masjid**\n\nUne des plus grandes mosquées d'Inde, sa cour assez vaste pour accueillir des milliers de personnes.\n\n**Dargah de Salim Chishti**\n\nLe tombeau en marbre blanc dans la cour, avec des claustras taillés si finement qu'ils semblent tissés. Akbar n'avait pas d'héritier ; le saint soufi Salim Chishti lui prédit qu'il aurait trois fils, et à la naissance du premier, Akbar le nomma Salim et bâtit sa capitale sur cette colline. On noue encore des fils aux claustras pour demander des enfants.\n\n**Panch Mahal**\n\nCinq étages ouverts qui se retirent en montant, chacun porté par des colonnes, dont aucune n'est identique à une autre. C'était le pavillon de plaisance des femmes, autrefois fermé par des claustras disparus depuis longtemps.\n\n**Diwan-i-Khas**\n\nLe bâtiment le plus étrange du site : un unique pilier central qui éclate en un chapiteau sculpté, avec quatre passerelles rayonnant vers les angles. Akbar s'asseyait sur la plateforme centrale pendant que les représentants de différentes confessions débattaient autour de lui.\n\n**Pratique**\n\nEnviron six heures de porte à porte avec prise en charge à l'hôtel à Agra, voiture privée et guide agréé.\n\nIl y a beaucoup de marche sur de la pierre chaude et à découvert, et l'on retire ses chaussures au dargah. Emportez de l'eau et des chaussettes. Le droit d'entrée se paie à la porte.",
+  "highlights": [
+   "Visite en voiture privée d'Agra à Fatehpur Sikri."
+  ],
+  "included": [
+   "Guide touristique professionnel",
+   "Voiture privée climatisée pour toute la durée de l'activité",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement",
+   "Billets d'entrée",
+   "Déjeuner"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "from-agra-guided-heritage-walk-local-cooking-class": {
+  "title": "Au départ d'Agra : balade guidée dans le patrimoine et cours de cuisine locale",
+  "metaTitle": "Agra : balade patrimoniale et cours de cuisine locale",
+  "metaDescription": "Une balade patrimoniale matinale dans les ruelles et ateliers du vieil Agra, suivie d'un cours de cuisine à domicile et du repas que vous préparez.",
+  "shortDescription": "Une balade patrimoniale matinale dans les ruelles et ateliers du vieil Agra, suivie d'un cours de cuisine à domicile et du repas que vous préparez.",
+  "fullDescription": "**Agra au-delà du monument**\n\nQuatre millions de personnes par an viennent à Agra et la plupart ne voient qu'un édifice et un parking. La vieille ville derrière lui est une cité moghole vivante, faite de ruelles, de havelis, de temples et d'ateliers d'artisans, et cette balade y entre.\n\n**9h00, la balade**\n\nÀ pied depuis votre hôtel avec un guide local.\n\nLe parcours traverse des rues de l'époque moghole et les **havelis** de familles marchandes, passe devant de petits **temples** qui ne voient jamais de visiteurs, et entre dans les **ateliers d'artisans** qui approvisionnent encore la ville. La marqueterie de marbre est le métier pour lequel Agra est connue, la même technique de pietra dura utilisée sur le Taj, pratiquée par des familles qui font remonter leur savoir-faire aux artisans qui l'ont construit. Vous pouvez regarder une pièce se tailler et se sertir.\n\nLa vie de rue à cette heure est le vrai contenu : le chai versé de haut, les kachori qui frisent, les buffles dans les ruelles, les enfants qui vont à l'école devant une porte de 400 ans dont personne n'a plus conscience.\n\n**Le cours de cuisine**\n\nPuis dans une cuisine familiale.\n\nLa cuisine d'Agra est à la fois moghole et braj, la tradition impériale des kebabs, du korma et du biryani, et la cuisine végétarienne du pays de Krishna juste au nord. Ce que vous cuisinez dépend du foyer et de la saison, mais attendez-vous à un dal, un légume de saison, des pains travaillés sur le tawa, et du riz.\n\nVous cuisinez plutôt que de regarder. L'hôte explique la logique des épices au fil de la préparation : pourquoi les épices entières vont d'abord dans le ghee chaud, à quoi sert l'asa-fœtida, combien de curcuma c'est trop.\n\n**Puis vous le mangez**\n\nAssis, avec la famille, ce qui conclut la visite.\n\n**Pratique**\n\nEnviron cinq heures depuis une prise en charge à 9h. Pas mal de marche sur des ruelles irrégulières, chaussures plates recommandées.\n\nVégétarien du début à la fin sauf demande contraire. Les versions jaïn, sans oignon-ail, et sans piment sont des demandes courantes, précisez-le à la réservation.\n\nCette visite n'entre pas dans le Taj Mahal.",
+  "highlights": [
+   "Balade patrimoniale guidée dans les rues historiques d'Agra"
+  ],
+  "included": [
+   "Guide touristique professionnel",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement",
+   "Billets d'entrée",
+   "Déjeuner"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "from-agra-taj-mahal-tour-with-professional-photogr": {
+  "title": "Au départ d'Agra : visite du Taj Mahal avec photographe professionnel",
+  "metaTitle": "Agra : Taj Mahal au lever du soleil avec photographe",
+  "metaDescription": "Le lever du soleil au Taj Mahal à Agra avec un guide agréé et un photographe professionnel. Environ quatre heures.",
+  "shortDescription": "Le lever du soleil au Taj Mahal à Agra avec un guide agréé et un photographe professionnel. Environ quatre heures.",
+  "fullDescription": "**Deux métiers, deux personnes**\n\nUn guide vous explique pourquoi l'édifice a cet aspect. Un photographe sait que le banc célèbre reste à l'ombre jusqu'à sept heures vingt et que le meilleur cadrage côté ouest passe par le deuxième arc de la mosquée. Cette visite envoie les deux, une petite idée qui change vraiment ce que vous ramenez chez vous.\n\n**Le lever du soleil, précisément**\n\nLe Taj ouvre une demi-heure avant le lever du soleil, et cette première heure est toute la raison de se lever dans le noir : le marbre passe du gris au rose puis au blanc, une brume se pose sur la Yamuna derrière le dôme en hiver, et la foule n'est peut-être qu'un cinquième de ce qu'elle sera en milieu de matinée.\n\nL'entrée en accès rapide vous met dans la file la plus courte. Le contrôle de sécurité s'applique quand même à tout le monde, pas de trépied, pas de drone, pas de nourriture, pas de grands sacs.\n\n**Ce qui est photographié**\n\nLe **banc de Diana** avec le dôme centré et un axe vide derrière vous. Le **reflet** dans le canal d'eau. Des **silhouettes** contre le soleil levant. Les photos en **perspective forcée**. Des cadrages à travers les arcs de la grande porte.\n\nSi vous voulez quelque chose de précis, dites-le : c'est un photographe pour vous seul, pas un groupe.\n\n**Ce que le guide apporte**\n\nLa **calligraphie** dimensionnée plus grande en montant pour se lire d'une hauteur égale depuis le sol. Les incrustations de **pietra dura**, où une seule fleur peut porter soixante pierres distinctes. Les **minarets** inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau. L'illusion d'optique à la porte, où le Taj semble rétrécir à mesure qu'on approche. Et la seule rupture volontaire de la symétrie, le cénotaphe de Shah Jahan lui-même, placé hors du centre par Aurangzeb.\n\n**Quatre options**\n\nGuide seul. Photographe seul. Voiture, chauffeur et guide. Ou la version complète avec voiture, guide, photographe et billets d'entrée.\n\n**Pratique**\n\n**Fermé le vendredi.** La prise en charge est calée sur l'heure réelle du lever du soleil, qui change au fil de l'année.\n\nPortez une couleur. Le rouge, le jaune et le bleu profond rendent bien mieux sur le marbre blanc que le beige ou le blanc.",
+  "highlights": [
+   "Rapportez des photos superbes et de haute qualité du Taj Mahal avec un photographe expérimenté."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour les visites",
+   "Guide touristique local agréé par le gouvernement (selon l'option choisie)",
+   "Photographe professionnel agréé par le gouvernement (selon l'option choisie)",
+   "30 photos numériques offertes",
+   "Billets d'entrée des monuments (selon l'option choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toutes dépenses personnelles"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Réservez un guide officiel pour explorer Bengaluru",
   "metaTitle": "Bengaluru avec guide : palais, Lalbagh, temples et bazars",

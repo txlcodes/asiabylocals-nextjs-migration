@@ -4536,6 +4536,91 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "from-agra-day-trip-to-chambal-river-safari-with": {
+  "title": "Ab Agra: Tagesausflug zur Flusssafari am Chambal mit Mittagessen",
+  "metaTitle": "Ab Agra: Flusssafari am Chambal mit Mittagessen",
+  "metaDescription": "Ein Tag ab Agra zum Fluss Chambal für eine Bootssafari, Gangesgaviale, Flussdelfine und Scherenschnäbel, mit Naturführer und Mittagessen.",
+  "shortDescription": "Ein Tag ab Agra zum Fluss Chambal für eine Bootssafari, Gangesgaviale, Flussdelfine und Scherenschnäbel, mit einem Naturführer und Mittagessen.",
+  "fullDescription": "**Einer der saubersten Flüsse Indiens, 80 km vom Taj**\n\nDer Chambal hat eine seltsame Geschichte: jahrhundertelang waren die Schluchten an seinem Lauf Räuberland, weshalb hier niemand Fabriken oder Städte baute. Das Ergebnis: Während die Yamuna in Agra zu Indiens stärker verschmutzten Flüssen zählt, gehört der Chambal eine Stunde entfernt zu den saubersten, und er beherbergt Wildtiere, die fast überall sonst verschwunden sind.\n\n**Die Safari**\n\nEine zwei- bis dreistündige Bootsfahrt mit einem englischsprachigen Naturführer, auf einem flachen Boot, das langsam und leise fährt.\n\n**Gangesgaviale** sind der Grund, warum die meisten kommen, das fischfressende Krokodil mit der langen schmalen Schnauze und dem Knubbel am Ende. Es gibt in der Wildnis noch etwa 650 fortpflanzungsfähige Erwachsene, und rund drei Viertel von ihnen leben in diesem Schutzgebiet. Sie werden sie in Zahl auf den Sandbänken liegen sehen.\n\n**Sumpfkrokodile** teilen sich das Wasser mit ihnen und sind von beiden die gefährlicheren, allerdings nicht für ein Boot.\n\n**Ganges-Flussdelfine** gibt es hier ebenfalls, blind, im Süßwasser lebend, mit Echoortung, und Indiens nationales Wassertier. Sichtungen sind real, aber nicht garantiert; sie tauchen nur kurz auf, und man braucht Geduld.\n\n**Vögel** sind die unterschätzte Hälfte der Fahrt: Indische Scherenschnäbel, die mit der unteren Schnabelhälfte die Wasserfläche durchschneiden, Streifengänse im Winter, Saruskraniche, Schwarzbauch-Seeschwalben, und die Rotkronen-Dachschildkröte, die auf jedem Treibholz sonnt.\n\n**Praktisch**\n\nRund sieben Stunden von Tür zu Tür mit 80 km Fahrt je Strecke in einem privaten klimatisierten Wagen. Mittagessen ist enthalten.\n\n**Die Jahreszeit zählt.** November bis März ist das richtige Fenster: das Wasser ist niedrig und klar, die Sandbänke liegen frei, und die Zugvögel sind da. Die Monsunmonate sind schlecht und die Fahrt kann unmöglich sein.\n\nBringen Sie ein Fernglas mit, falls Sie eines haben, einen Hut und Sonnenschutz; auf dem Wasser gibt es keinen Schatten.",
+  "highlights": [
+   "Tauchen Sie ein in die Schönheit des Chambal-Flusses bei einer dreistündigen Safari"
+  ],
+  "included": [
+   "Abholung und Rückfahrt in Agra",
+   "Privates klimatisiertes Fahrzeug",
+   "Englischsprachiger Naturführer",
+   "2-stündige Flusssafari",
+   "Mittagessen in einem lokalen Restaurant"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "from-agra-fatehpur-sikri-sightseeing-tour-by-priva": {
+  "title": "Ab Agra: Fatehpur Sikri im Privatwagen besichtigen",
+  "metaTitle": "Ab Agra: Fatehpur Sikri im Privatwagen",
+  "metaDescription": "Ein halber Tag ab Agra nach Fatehpur Sikri, Akbars aufgegebener Hauptstadt, mit Privatwagen und Guide.",
+  "shortDescription": "Ein halber Tag ab Agra nach Fatehpur Sikri, Akbars aufgegebener Hauptstadt, mit Privatwagen und Guide. Rund sechs Stunden.",
+  "fullDescription": "**Eine vollständige Mogulstadt, leer**\n\nAkbar baute Fatehpur Sikri ab 1571 als seine neue Hauptstadt, in rotem Sandstein, im Maßstab eines Reiches auf seinem Höhepunkt. Vierzehn Jahre später verließ der Hof die Stadt, die Wasserversorgung konnte sie nicht mehr tragen, und die Stadt wurde nie wieder besiedelt.\n\nDeshalb ist es die vollständigste Mogulstadt, die es gibt. Niemand lebte lange genug dort, um sie umzubauen, zu unterteilen oder zu modernisieren. Was Akbar hinterließ, ist das, wodurch Sie gehen.\n\nEine Stunde von Agra, und einen Vormittag wert statt der vierzig Minuten, die ihr ein Tagesausflug-Programm üblicherweise gibt.\n\n**Buland Darwaza**\n\nDer Eingang: 54 Meter Torbau, errichtet zum Gedenken an die Eroberung von Gujarat, und das höchste Tor der Welt. Die Inschrift darauf zitiert Jesus, \"die Welt ist eine Brücke, überschreite sie, aber baue kein Haus darauf\", was erstaunlich ist, auf einer Mogulmoschee eingeschnitten zu finden, und viel über Akbar aussagt.\n\n**Jama Masjid**\n\nEine der größten Moscheen Indiens, ihr Hof groß genug für Tausende.\n\n**Dargah des Salim Chishti**\n\nDas weiße Marmorgrab im Hof, mit Jali-Gittern, so fein geschnitten, dass sie gewebt wirken. Akbar hatte keinen Erben; der Sufi-Heilige Salim Chishti sagte ihm drei Söhne voraus, und als der erste kam, nannte Akbar ihn Salim und baute seine Hauptstadt auf diesem Hügel. Noch heute knoten Menschen Fäden an die Gitter, wenn sie um Kinder bitten.\n\n**Panch Mahal**\n\nFünf offene Geschosse, die nach oben zurücktreten, jedes auf Säulen getragen, keine zwei gleich. Es war der Lustgarten-Pavillon der Frauen, einst mit Jali verschleiert, das längst verschwunden ist.\n\n**Diwan-i-Khas**\n\nDas seltsamste Gebäude der Anlage: ein einziger Mittelpfeiler, der in ein geschnitztes Kapitell ausbricht, mit vier Brücken, die zu den Ecken strahlen. Akbar saß auf der Plattform in der Mitte, während Vertreter verschiedener Glaubensrichtungen um ihn herum stritten.\n\n**Praktisch**\n\nRund sechs Stunden von Tür zu Tür mit Hotelabholung in Agra, Privatwagen und lizenziertem Guide.\n\nEs gibt viel Gehen auf heißem, offenem Stein, und am Dargah werden die Schuhe ausgezogen. Nehmen Sie Wasser und Socken mit. Die Eintrittsgebühr wird am Tor bezahlt.",
+  "highlights": [
+   "Private Fahrzeugtour von Agra nach Fatehpur Sikri."
+  ],
+  "included": [
+   "Professioneller Reiseleiter",
+   "Privater klimatisierter Wagen für die gesamte Aktivität",
+   "Flasche Mineralwasser",
+   "Alle Mautkosten und Parkgebühren",
+   "Eintrittskarten",
+   "Mittagessen"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgabe"
+  ]
+ },
+ "from-agra-guided-heritage-walk-local-cooking-class": {
+  "title": "Ab Agra: geführter Kulturerbe-Spaziergang und lokaler Kochkurs",
+  "metaTitle": "Agra: Kulturerbe-Spaziergang und lokaler Kochkurs",
+  "metaDescription": "Ein morgendlicher Kulturerbe-Spaziergang durch die Gassen und Werkstätten des alten Agra, gefolgt von einem Kochkurs zu Hause und dem Essen, das Sie selbst kochen.",
+  "shortDescription": "Ein morgendlicher Kulturerbe-Spaziergang durch die Gassen und Werkstätten des alten Agra, gefolgt von einem Kochkurs zu Hause und dem Essen, das Sie selbst kochen.",
+  "fullDescription": "**Agra jenseits des Monuments**\n\nVier Millionen Menschen im Jahr kommen nach Agra, und die meisten sehen ein Bauwerk und einen Parkplatz. Die Altstadt dahinter ist eine funktionierende Stadt aus der Mogulzeit mit Gassen, Havelis, Tempeln und Handwerkswerkstätten, und dieser Spaziergang führt mitten hinein.\n\n**9:00, der Spaziergang**\n\nZu Fuß ab Ihrem Hotel mit einem lokalen Guide.\n\nDie Route führt durch Straßen aus der Mogulzeit und die **Havelis** von Kaufmannsfamilien, vorbei an kleinen **Tempeln**, die überhaupt keine Besucher sehen, und in die **Handwerkswerkstätten**, die die Stadt noch immer versorgen. Marmor-Einlegearbeit ist das Gewerbe, für das Agra bekannt ist, dieselbe Pietra-dura-Technik wie am Taj, ausgeübt von Familien, die ihr Können auf die Handwerker zurückführen, die ihn gebaut haben. Sie können zusehen, wie ein Stück geschnitten und eingesetzt wird.\n\nDas Straßenleben zu dieser Stunde ist der eigentliche Inhalt: Chai, der von oben eingeschenkt wird, frittierende Kachori, Büffel in den Gassen, Kinder auf dem Weg zur Schule an einem 400 Jahre alten Torbau vorbei, an den schon lange niemand mehr denkt.\n\n**Der Kochkurs**\n\nDann in eine private Küche.\n\nAgras Küche ist zugleich mogulisch und braj, die kaiserliche Tradition von Kebabs, Korma und Biryani, und die vegetarische Küche des Krishna-Landes gleich im Norden. Was Sie kochen, hängt vom Haushalt und der Jahreszeit ab, aber rechnen Sie mit einem Dal, einem Saisongemüse, Broten vom Tawa und Reis.\n\nSie kochen selbst, statt nur zuzusehen. Der Gastgeber erklärt dabei die Gewürzlogik: warum ganze Gewürze zuerst ins heiße Ghee kommen, wofür Asant gut ist, wie viel Kurkuma zu viel ist.\n\n**Dann essen Sie es**\n\nSitzend, mit der Familie, womit die Tour endet.\n\n**Praktisch**\n\nRund fünf Stunden ab Abholung um 9 Uhr. Einiges an Gehen auf unebenen Gassen, flache Schuhe empfohlen.\n\nDurchgehend vegetarisch, sofern Sie nicht anders fragen. Jain, ohne Zwiebel und Knoblauch, und ohne Chili sind alle übliche Wünsche, sagen Sie es bei der Buchung.\n\nDiese Tour betritt den Taj Mahal nicht.",
+  "highlights": [
+   "Geführter Kulturerbe-Spaziergang durch Agras historische Straßen"
+  ],
+  "included": [
+   "Professioneller Reiseleiter",
+   "Flasche Mineralwasser",
+   "Alle Mautkosten und Parkgebühren",
+   "Eintrittskarten",
+   "Mittagessen"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgabe"
+  ]
+ },
+ "from-agra-taj-mahal-tour-with-professional-photogr": {
+  "title": "Ab Agra: Taj-Mahal-Tour mit professionellem Fotografen",
+  "metaTitle": "Agra: Taj Mahal bei Sonnenaufgang mit Fotograf",
+  "metaDescription": "Der Sonnenaufgang am Taj Mahal in Agra mit lizenziertem Guide und professionellem Fotografen. Rund vier Stunden.",
+  "shortDescription": "Der Sonnenaufgang am Taj Mahal in Agra mit lizenziertem Guide und professionellem Fotografen. Rund vier Stunden.",
+  "fullDescription": "**Zwei Aufgaben, zwei Menschen**\n\nEin Guide erklärt Ihnen, warum der Bau so aussieht. Ein Fotograf weiß, dass die berühmte Bank bis zwanzig nach sieben im Schatten liegt und dass der beste Rahmen auf der Westseite durch den zweiten Bogen der Moschee geht. Diese Tour schickt beide, eine kleine Idee, die wirklich etwas ändert für das, was Sie mit heimbringen.\n\n**Sonnenaufgang, konkret**\n\nDer Taj öffnet eine halbe Stunde vor Sonnenaufgang, und diese erste Stunde ist der ganze Grund, im Dunkeln aufzustehen: der Marmor geht von grau zu rosa zu weiß, im Winter liegt Nebel auf der Yamuna hinter der Kuppel, und die Menge ist vielleicht ein Fünftel dessen, was sie bis zum späten Vormittag sein wird.\n\nDer Fast-Track-Einlass bringt Sie in die kürzere Schlange. Die Kontrolle gilt dennoch für alle, keine Stative, keine Drohnen, kein Essen, keine großen Taschen.\n\n**Was fotografiert wird**\n\nDie **Diana-Bank** mit zentrierter Kuppel und einer leeren Achse hinter Ihnen. Die **Spiegelung** im Wasserkanal. **Silhouetten** gegen die aufgehende Sonne. Die Bilder mit **erzwungener Perspektive**. Rahmungen durch die Bögen des großen Torbaus.\n\nWenn Sie etwas Bestimmtes wollen, sagen Sie es: es ist ein Fotograf nur für Sie, keine Reisegruppe.\n\n**Was der Guide hinzufügt**\n\nDie **Kalligrafie**, nach oben hin größer bemessen, damit sie vom Boden aus gleich hoch erscheint. Die **Pietra-dura**-Einlagen, bei denen eine Blüte sechzig einzelne Steine halten kann. Die **Minarette**, nach außen geneigt, damit ein Erdbeben sie neben das Grabmal fallen ließe. Die Täuschung am Torbau, wo der Taj beim Näherkommen kleiner zu werden scheint. Und die eine bewusste Asymmetrie, Shah Jahans eigenes Kenotaph, von Aurangzeb außerhalb der Mitte gesetzt.\n\n**Vier Optionen**\n\nNur Guide. Nur Fotograf. Wagen, Fahrer und Guide. Oder die volle Fassung mit Wagen, Guide, Fotograf und Eintrittskarten.\n\n**Praktisch**\n\n**Freitags geschlossen.** Die Abholung richtet sich nach dem tatsächlichen Sonnenaufgang, der über das Jahr wandert.\n\nTragen Sie Farbe. Rot, Gelb und tiefes Blau wirken auf weißem Marmor weit besser als Beige oder Weiß.",
+  "highlights": [
+   "Nehmen Sie beeindruckende, hochwertige Fotos vom Taj Mahal mit einem erfahrenen Fotografen mit."
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die Besichtigungen",
+   "Staatlich geprüfter lokaler Reiseleiter (bei gewählter Option)",
+   "Staatlich geprüfter professioneller Fotograf (bei gewählter Option)",
+   "30 digitale Fotos kostenlos",
+   "Eintrittskarten für die Monumente (bei gewählter Option)",
+   "Flasche Mineralwasser",
+   "Alle Mautkosten und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Alle persönlichen Ausgaben"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Offiziellen Guide für die Erkundung von Bengaluru buchen",
   "metaTitle": "Bengaluru mit Guide: Paläste, Lalbagh, Tempel und Basare",
