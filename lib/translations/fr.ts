@@ -12808,6 +12808,102 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "luxury-2-day-agra-and-jaipur-tour-with-5": {
+  "title": "Circuit de luxe de 2 jours à Agra et Jaipur avec hôtel 5 étoiles depuis Delhi",
+  "metaTitle": "Agra et Jaipur de luxe en 2 jours",
+  "metaDescription": "Deux jours depuis Delhi couvrant Agra et Jaipur en SUV privé, avec entrée VIP au Taj et une nuit en hôtel cinq étoiles disponible.",
+  "shortDescription": "Deux jours depuis Delhi couvrant Agra et Jaipur en SUV privé, avec entrée VIP au Taj et une nuit en hôtel cinq étoiles disponible.",
+  "fullDescription": "**Agra et Jaipur en deux jours, en tout confort**\n\nCeci couvre les deux villes en 48 heures, ce qui est rapide mais pas frénétique, et cela se fait en SUV plutôt qu'en berline, ce qui compte le deuxième jour, quand le programme implique beaucoup de route.\n\n**Jour un : Delhi à Agra à Jaipur**\n\nPrise en charge à Delhi et descente par la **Yamuna Expressway**, environ trois heures.\n\nLe **Taj Mahal** avec entrée VIP express et un guide agréé. Shah Jahan l'a commencé en 1632 pour Mumtaz Mahal ; vingt mille ouvriers et vingt-deux ans. Votre guide vous montrera ce qui est facile à manquer : la calligraphie taillée en tailles croissantes pour se lire uniformément depuis le sol, l'incrustation en pietra dura de dizaines de pierres par fleur, les minarets inclinés vers l'extérieur pour qu'un tremblement de terre les éloigne du tombeau.\n\nPuis le **fort d'Agra**, le seul fort où tous les premiers empereurs moghols ont vécu, et où le dernier d'entre eux fut emprisonné par son propre fils, le Taj à portée de vue en aval du fleuve.\n\nTrajet de l'après-midi vers Jaipur, environ quatre heures, arrivée pour la nuit à votre hôtel.\n\n**Jour deux : Jaipur**\n\nLe **fort d'Amber** en premier, avant que la foule ne s'épaississe : la porte Ganesh Pol, le Sheesh Mahal, et les cours qui montent sur la crête au-dessus du lac Maota.\n\nLe **Jal Mahal** depuis la digue, quatre de ses cinq étages sont sous l'eau et il n'y a aucun moyen d'y entrer.\n\nLe **City Palace**, encore en partie résidence royale, et le **Jantar Mantar** à côté, où le cadran solaire de pierre de 27 mètres reste précis à quelques secondes près.\n\nLe **Hawa Mahal**, le treillis de cinq étages aux 953 fenêtres, mieux photographié depuis la rue d'en face.\n\nPuis le trajet de retour vers Delhi, environ cinq heures.\n\n**Deux options**\n\nSUV privé et guide, avec billets et hébergement organisés par vous-même. Ou la version tout inclus avec hôtel cinq étoiles, billets d'entrée et guide couverts.\n\n**Le Taj est fermé le vendredi**, ce qui fixe les jours de début possibles.",
+  "highlights": [
+   "Explorez le majestueux Taj Mahal avec entrée express"
+  ],
+  "included": [
+   "Prise en charge et retour depuis Delhi",
+   "Guide touristique privé à Agra et Jaipur",
+   "Tous les transferts et visites en SUV privé climatisé",
+   "1 nuit d'hébergement en hôtel cinq étoiles (si l'option est choisie)",
+   "Billets coupe-file pour tous les monuments (si l'option est choisie)",
+   "Petit-déjeuner à l'hôtel",
+   "Eau minérale",
+   "Toutes les taxes"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
+ "luxury-8-day-golden-triangle-tour-with-shimla-mana": {
+  "title": "Circuit de luxe de 8 jours au Triangle d'or avec Shimla et Manali",
+  "metaTitle": "Triangle d'or de luxe avec Shimla et Manali",
+  "metaDescription": "Huit jours de luxe depuis Delhi via Agra et Jaipur jusqu'aux stations de montagne himalayennes de Shimla et Manali.",
+  "shortDescription": "Huit jours de luxe depuis Delhi via Agra et Jaipur jusqu'aux stations de montagne himalayennes de Shimla et Manali.",
+  "fullDescription": "**Les plaines pendant quatre jours, les montagnes pendant quatre**\n\nHuit jours de monuments moghols seraient trop d'une seule chose. Cet itinéraire parcourt le Triangle d'or puis grimpe, Shimla à 2 200 mètres, Manali à 2 000 mètres dans la vallée de Kullu, avec des hôtels cinq étoiles et une voiture de luxe tout au long.\n\n**Jours 1-3 : Delhi et Agra**\n\nTransfert de luxe à l'arrivée, puis **India Gate**, **Qutub Minar**, le **tombeau de Humayun** et le **temple du Lotus**.\n\nPuis Agra : le **Taj Mahal** au lever du soleil, le **fort d'Agra**, et éventuellement **Itimad-ud-Daulah**, le Baby Taj, le tombeau de marbre des années 1620 qui a introduit la pietra dura en Inde et rendu le Taj possible.\n\n**Jaipur**\n\nLe **fort d'Amber** sur sa crête, le **City Palace**, le **Jantar Mantar** et le **Hawa Mahal**, avec **Fatehpur Sikri** sur la route.\n\n**Shimla**\n\nLes Britanniques ont déplacé tout le gouvernement de l'Inde ici chaque été à partir de 1864 parce que Delhi était insupportable. Ce qu'ils ont laissé est une ville de montagne qui ne ressemble à nulle part ailleurs dans le pays.\n\n**The Ridge** et **Mall Road** sont entièrement piétonnes, bordées de bâtiments coloniaux, **Christ Church**, la deuxième plus ancienne du nord de l'Inde, et **Viceregal Lodge**, où la décision de partitionner l'Inde fut prise en 1947 et dont les salles lambrissées de teck sont ouvertes aux visiteurs.\n\nLe **temple de Jakhoo** se trouve au point le plus élevé sous une statue de Hanuman de 33 mètres. Les singes y prennent les lunettes ; laissez-les dans la voiture.\n\n**Manali**\n\nEnviron huit heures depuis Shimla à travers la vallée de Kullu, le long de la rivière Beas.\n\nLe **temple de Hadimba Devi**, construit en 1553 en bois de cèdre avec un toit pagode, dans une forêt de cèdres qui semble nettement plus ancienne que le bâtiment. La **vallée de Solang** pour les vues sur la neige, **Vashisht** pour les sources chaudes, et **Old Manali** pour la fin tranquille du voyage.\n\n**Pratique**\n\nHôtels cinq étoiles, voiture de luxe et chauffeur, et guides agréés tout au long.\n\nLes routes de montagne sont en lacets et les trajets sont longs. Shimla et Manali sont froides de novembre à mars et peuvent connaître de la neige en janvier, apportez des couches de vêtements quel que soit le temps dans les plaines.\n\n**Le Taj est fermé le vendredi.**",
+  "highlights": [
+   "Explorez les monuments emblématiques de Delhi et sa culture vibrante en tout confort"
+  ],
+  "included": [
+   "Guide touristique professionnel",
+   "Voiture privée climatisée pour toute l'activité",
+   "Bouteille d'eau minérale",
+   "Hébergement en hôtel trois étoiles",
+   "Petit-déjeuner à l'hôtel",
+   "Tous les péages et frais de stationnement",
+   "Billets d'entrée",
+   "Déjeuner"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "mumbai-to-golden-triangle-tiger-safari-7-day-india": {
+  "title": "De Mumbai au Triangle d'or et safari tigre, circuit Inde en 7 jours",
+  "metaTitle": "Mumbai, Triangle d'or et safari tigre",
+  "metaDescription": "Sept jours depuis Mumbai vers le Triangle d'or avec safari tigre à Ranthambore, vols et repas inclus.",
+  "shortDescription": "Sept jours depuis Mumbai vers le Triangle d'or avec safari tigre à Ranthambore, vols et repas inclus.",
+  "fullDescription": "**Tout géré, en partant de Mumbai**\n\nVols aller-retour vers le nord, transport terrestre, guides, hôtels et repas. Mumbai à Delhi fait 1 150 km, donc les trajets aériens rendent possible un voyage de sept jours plutôt que de neuf.\n\n**Delhi**\n\n**Qutub Minar**, commencé en 1193, le plus haut minaret en brique du monde, dressé dans une cour assemblée avec la pierre de vingt-sept temples démantelés, avec le **pilier de fer** qui n'a pas rouillé en seize cents ans.\n\nLe **tombeau de Humayun**, construit dans les années 1560 par la veuve de l'empereur : le premier tombeau-jardin moghol d'Inde et le modèle direct du Taj. **India Gate**, et la **Jama Masjid** et **Chandni Chowk** du vieux Delhi.\n\n**Agra**\n\nLe **Taj Mahal** au lever du soleil, quand les portes ouvrent une demi-heure avant le soleil et que le marbre passe du gris au rose puis au blanc, avec une fraction de la foule de milieu de matinée.\n\nLe **fort d'Agra**, et le **Musamman Burj** où Aurangzeb a emprisonné son père durant les huit dernières années de sa vie, le Taj visible le long du fleuve.\n\n**Fatehpur Sikri** sur la route au sud, la capitale d'Akbar de 1571, abandonnée après quatorze ans quand l'eau a manqué.\n\n**Ranthambore**\n\n1 300 kilomètres carrés de forêt sèche autour d'un fort du Xe siècle qui se dresse toujours dans la réserve. Environ soixante-dix tigres, inhabituellement habitués aux véhicules, ce qui donne les meilleures chances du nord de l'Inde, bien qu'il s'agisse de faune sauvage et que rien ne soit garanti.\n\nCertain quoi qu'il arrive : sambars debout jusqu'au poitrail dans les lacs, chitals, nilgauts, langurs, et crocodiles des marais.\n\n**Jaipur**\n\nLe **fort d'Amber** au-dessus du lac Maota avec le **Sheesh Mahal**, le **City Palace**, le **Jantar Mantar** et le **Hawa Mahal**.\n\n**Deux options**\n\nTransport, vols et guide ; ou la version de luxe avec voiture climatisée, hôtels et repas.\n\n**Pratique**\n\n**Ranthambore est fermé du 1er juillet au 30 septembre.** **Le Taj est fermé le vendredi.** Les permis de safari sont limités, réservez tôt.",
+  "highlights": [
+   "Visite du Taj Mahal au lever ou au coucher du soleil"
+  ],
+  "included": [
+   "Billets d'avion : tarif classe économique Mumbai-Delhi et Delhi-Mumbai",
+   "Hébergement : 6 nuits dans des hôtels/resorts trois étoiles confortables",
+   "Petit-déjeuner quotidien à l'hôtel",
+   "Transport : véhicule privé climatisé de luxe pour tous les transferts et visites",
+   "Guides : guides locaux à Delhi, Agra et Jaipur",
+   "Transferts aéroport : prise en charge et retour à Delhi et Mumbai",
+   "Toutes les taxes, frais de stationnement et indemnités de chauffeur"
+  ],
+  "notIncluded": [
+   "Droits d'entrée : monuments et frais d'entrée au parc selon l'itinéraire",
+   "Safari : safaris au parc national de Ranthambore",
+   "Déjeuner et dîner",
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "narnaul-airstrip-skydiving-adventure-near-delhi": {
+  "title": "Piste de Narnaul : aventure de parachutisme près de Delhi",
+  "metaTitle": "Parachutisme à Narnaul près de Delhi",
+  "metaDescription": "Un saut en parachute en tandem à la piste de Narnaul, à environ deux heures de Delhi, avec entraînement au sol et le saut.",
+  "shortDescription": "Un saut en parachute en tandem à la piste de Narnaul, à environ deux heures de Delhi, avec entraînement au sol et le saut.",
+  "fullDescription": "**La zone de saut la plus proche de Delhi**\n\nNarnaul se trouve en Haryana, à environ 130 km au sud-ouest de Delhi, et c'est là que se pratique réellement le parachutisme dans le nord de l'Inde. La piste est utilisée pour des opérations de parachutage depuis des décennies et la zone de saut est une terre agricole plate dans toutes les directions.\n\n**Entraînement au sol**\n\nObligatoire, et il vient en premier. Vous passerez en revue la séquence du saut, les signaux manuels utilisés en chute libre car personne ne peut rien entendre, la position du corps à la sortie, la cambrure pendant la chute libre, et la posture d'atterrissage jambes relevées.\n\nCela prend du temps et c'est la partie qui rend le saut réussi. Prêtez particulièrement attention au briefing d'atterrissage, c'est là que les gens se blessent quand ils ne l'ont pas fait.\n\n**Le saut**\n\nEn tandem, harnaché à un instructeur. Vous montez en altitude dans un avion léger, ce qui prend lui-même quinze ou vingt minutes et c'est le moment où la plupart des gens se taisent.\n\nSortie, puis environ **trente à quarante secondes de chute libre** à environ 200 km/h, ce qui ne ressemble pas à une chute, il n'y a aucun point de référence, donc cela se lit comme étant poussé vers le haut par un vent énorme. Puis la voile s'ouvre et tout devient silencieux, et vous avez quatre ou cinq minutes de vol plané avec les contreforts des Aravalli à l'horizon.\n\nLa vidéo et les photos sont généralement en supplément et en valent la peine ; vous ne vous souviendrez presque de rien de la chute libre avec précision.\n\n**Exigences**\n\nIl y a une **limite de poids**, généralement environ 95 kg, et elle est appliquée à la balance le jour même.\n\nVous devez déclarer les problèmes cardiaques, chirurgies récentes, épilepsie, blessures aux épaules ou au dos, et grossesse. Ne dissimulez rien de tout cela.\n\nUn âge minimum s'applique et les moins de 18 ans nécessitent le consentement d'un tuteur.\n\n**Pratique**\n\nEnviron cinq heures sur la zone de saut, plus deux à trois heures de route dans chaque sens depuis Delhi.\n\n**Les sauts dépendent de la météo** et sont annulés en cas de vent, de plafond nuageux bas ou de pluie, les mois de mousson sont largement impraticables, et octobre à mars est la saison. Prévoyez un jour de marge dans vos plans.\n\nPortez des baskets à lacets. Pas de sandales, pas de tongs.",
+  "highlights": [
+   "Saut en parachute en tandem depuis 10 000 pieds près de Delhi"
+  ],
+  "included": [
+   "Saut en parachute en tandem avec un instructeur certifié",
+   "Équipement de sécurité",
+   "Session d'entraînement et de briefing",
+   "Enregistrement vidéo du saut",
+   "Couverture d'assurance pendant l'activité",
+   "Prise en charge et retour"
+  ],
+  "notIncluded": [
+   "Repas ou boissons",
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
