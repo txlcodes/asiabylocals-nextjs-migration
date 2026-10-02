@@ -11747,6 +11747,103 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "delhi-varanasi-private-tour": {
+  "title": "Desde Delhi: Triángulo de Oro privado en 6 días con Varanasi",
+  "metaTitle": "Triángulo de Oro privado 6 días con Varanasi",
+  "metaDescription": "Seis días desde Delhi vía Agra y Jaipur, luego en tren a Varanasi y los ghats del Ganges.",
+  "shortDescription": "Seis días desde Delhi vía Agra y Jaipur, luego en tren a Varanasi y los ghats del Ganges.",
+  "fullDescription": "**Tres ciudades mogolas, luego la más antigua**\n\nDelhi, Agra y Jaipur son fuertes, tumbas y palacios de los últimos quinientos años. Varanasi es otro orden de antigüedad, y el tren hacia el este en el cuarto día es lo que hace que este itinerario merezca seis días.\n\n**Delhi**\n\n**Qutub Minar** y la columna de hierro. La **tumba de Humayun**, la tumba-jardín de la década de 1560 en la que se inspiró el Taj. **India Gate**. Y el viejo Delhi, la **Jama Masjid** y un rickshaw por **Chandni Chowk**.\n\n**Agra**\n\nEl **Taj Mahal**, mejor al amanecer, y el **fuerte de Agra** con el **Musamman Burj**, donde Shah Jahan murió encarcelado por su hijo, con el Taj a la vista a lo largo del río. **Fatehpur Sikri** en el camino hacia el oeste.\n\n**Jaipur**\n\nEl **fuerte de Amber** sobre el lago Maota, el **City Palace**, el **Jantar Mantar** y el **Hawa Mahal**.\n\n**Varanasi**\n\nEl tren hacia el este, incluido en todas las opciones, y luego una ciudad que reivindica tres mil años de vida continua.\n\nUn **paseo en barca al amanecer** por los ghats es la experiencia central: todo el frente fluvial se vuelve hacia el amanecer mientras miles de personas se bañan, lavan, rezan y practican yoga en las escalinatas a la vez.\n\nAl anochecer, la **Ganga Aarti** en Dashashwamedh: lámparas de latón escalonadas, campanas y caracolas, realizada por sacerdotes que se mueven al unísono exacto frente a miles de personas en las escalinatas y en barcas.\n\nEn **Manikarnika**, las piras de cremación arden sin interrupción desde hace siglos, porque los hindúes creen que morir aquí pone fin al ciclo de reencarnación. **Fotografiar allí está prohibido**, es absoluto, y su guía le indicará dónde está el límite.\n\n**Sarnath**, a once kilómetros, es el lugar donde Buda pronunció su primer sermón; el capitel del león de Ashoka en su museo es el original del emblema nacional de la India.\n\n**Tres opciones**\n\nCoche, conductor, guía y billetes de tren; o lo mismo con hoteles de tres o cuatro estrellas.",
+  "highlights": [
+   "Explore los monumentos de Delhi, incluidos India Gate, Qutub Minar y la tumba de Humayun"
+  ],
+  "included": [
+   "Recogida y traslado al hotel o aeropuerto",
+   "Coche privado con aire acondicionado y conductor para toda la actividad",
+   "Guía turístico profesional en cada ciudad",
+   "5 noches de alojamiento en hotel (si se elige la opción)",
+   "Desayuno en el hotel",
+   "Billetes de tren (Agra a Varanasi, Varanasi a Delhi)",
+   "Botella de agua mineral",
+   "Todos los peajes y tasas de aparcamiento"
+  ],
+  "notIncluded": [
+   "Almuerzo y cena",
+   "Entradas a los monumentos",
+   "Cualquier gasto personal"
+  ]
+ },
+ "delhi5-day-goden-triangle-tour-ranthambhore-tiger-": {
+  "title": "Delhi: circuito del Triángulo de Oro de 5 días y safari de tigres en Ranthambore",
+  "metaTitle": "Triángulo de Oro y safari de tigres, 5 días",
+  "metaDescription": "Cinco días desde Delhi vía Agra y Jaipur con dos safaris en Ranthambore. Coche privado, guías y hoteles durante todo el recorrido.",
+  "shortDescription": "Cinco días desde Delhi vía Agra y Jaipur con dos safaris en Ranthambore. Coche privado, guías y hoteles durante todo el recorrido.",
+  "fullDescription": "**El triángulo, con dos oportunidades de ver un tigre**\n\nRanthambore se encuentra entre Agra y Jaipur, así que añadirlo solo cuesta una noche en lugar de un desvío. Dos safaris en lugar de uno es lo que hace que esta versión merezca reservarse, los avistamientos son cuestión de probabilidad, y duplicar los intentos duplica aproximadamente las probabilidades.\n\n**Día 1: Delhi, luego Agra**\n\n**Qutub Minar**, iniciado en 1193, el minarete de ladrillo más alto del mundo. La **tumba de Humayun** de la década de 1560, la tumba-jardín mogol de la que desciende el Taj. **India Gate** y el Parlamento desde el coche. El **templo del Loto** o **Bangla Sahib**, según el día y el tráfico.\n\nLuego la autopista hacia Agra, unas tres horas y media.\n\n**Día 2: Agra**\n\nEl **Taj Mahal** al amanecer, de gris a rosado y luego a blanco mientras el sol despeja la orilla opuesta, con una fracción de la multitud de media mañana. Luego el **fuerte de Agra**, y el **Musamman Burj**, donde Shah Jahan pasó sus últimos ocho años como prisionero de su hijo, mirando la tumba de su esposa a lo largo del río.\n\n**Fatehpur Sikri** en el camino de salida: la capital de Akbar de 1571, abandonada tras catorce años, todavía en pie completa.\n\n**Día 3: Ranthambore**\n\nSafari de tarde a la llegada. El parque abarca 1.300 kilómetros cuadrados de bosque seco con unos setenta tigres, y los animales aquí están habituados a los vehículos, por lo que es el mejor parque de tigres del norte de la India.\n\n**Día 4: segundo safari, luego Jaipur**\n\nSafari matutino, el mejor de los dos para avistamientos, luego el trayecto hacia el norte.\n\n**Día 5: Jaipur**\n\nEl **fuerte de Amber**, el **City Palace**, el **Jantar Mantar**, el **Hawa Mahal**, luego regreso a Delhi.\n\n**Práctico**\n\nLas zonas de safari y los permisos los asigna el departamento forestal; nadie elige su zona, tampoco nosotros.\n\n**Ranthambore cierra del 1 de julio al 30 de septiembre.** De octubre a abril es la temporada; marzo y abril ofrecen los mejores avistamientos a medida que el agua se seca. Las mañanas de invierno en un vehículo abierto son realmente frías.\n\n**El Taj está cerrado los viernes**, lo que determina el orden de los primeros días.",
+  "highlights": [
+   "Explore el majestuoso Taj Mahal al amanecer"
+  ],
+  "included": [
+   "4 noches de alojamiento en hotel con desayuno",
+   "Coche privado con aire acondicionado y conductor experimentado",
+   "Guías locales profesionales en Delhi, Agra, Jaipur",
+   "Recogida y traslado al hotel",
+   "Todos los impuestos de carretera, peajes y tasas de aparcamiento"
+  ],
+  "notIncluded": [
+   "1 safari por la selva de Ranthambore (jeep compartido/privado según reserva)",
+   "Tarifas de entrada a los monumentos",
+   "Almuerzo y cena",
+   "Cualquier gasto personal",
+   "Propinas"
+  ]
+ },
+ "exclusive-private-full-day-guided-tour-of-old-and": {
+  "title": "Visita guiada privada exclusiva de día completo por el viejo y el nuevo Delhi",
+  "metaTitle": "Viejo y nuevo Delhi en un día",
+  "metaDescription": "Una visita privada completa de diez horas por el viejo y el nuevo Delhi con guía, desde la Jama Masjid hasta Qutub Minar.",
+  "shortDescription": "Una visita privada completa de diez horas por el viejo y el nuevo Delhi con guía, desde la Jama Masjid hasta Qutub Minar.",
+  "fullDescription": "**Diez horas, que es lo que Delhi realmente necesita**\n\nLa ciudad ha sido sucesivamente la capital de la India hindú, del sultanato, mogol, británica e independiente, y los monumentos de cada época todavía se alzan en distintas partes de ella. Una visita de seis horas elige tres. Diez horas cubren toda la secuencia.\n\n**El viejo Delhi**\n\nLa **Jama Masjid**, terminada en 1656 y todavía la mezquita más grande de la India: arenisca roja y mármol alrededor de un patio para veinticinco mil personas, con minaretes que se pueden subir para la mejor vista de la ciudad amurallada que existe.\n\nHombros y rodillas cubiertos; se prestan túnicas en la puerta. Cierra a los visitantes durante las oraciones.\n\n**Chandni Chowk** en rickshaw de bicicleta, trazado en la década de 1650 por la hija de Shah Jahan con un canal en el centro que reflejaba la luna. Todavía organizado oficio por oficio, plata en **Dariba Kalan**, adornos de boda en el **Kinari Bazaar**, y **Khari Baoli**, el mayor mercado de especias de Asia.\n\nEl **Raj Ghat**, la plataforma de mármol negro donde Gandhi fue incinerado en 1948, con una llama que arde desde entonces.\n\n**El nuevo Delhi**\n\n**India Gate** y el trayecto por el Rajpath frente al **Rashtrapati Bhavan**, la ciudad imperial de Lutyens de la década de 1920, 340 habitaciones bajo una cúpula tomada de una estupa budista.\n\nLa **tumba de Humayun**, construida en la década de 1560 por la viuda del emperador: la primera gran tumba-jardín mogol de la India y el modelo directo del Taj sesenta y siete años después.\n\n**Qutub Minar**, iniciado en 1193, el minarete de ladrillo más alto del mundo, en un complejo ensamblado con la piedra de veintisiete templos desmantelados, con la **columna de hierro** en pie desde hace más de mil seiscientos años sin oxidarse.\n\nY el **templo del Loto**, si el día lo permite, nueve lados, veintisiete pétalos de mármol, silencioso en su interior. **Cerrado los lunes.**\n\n**Tres opciones**\n\nSolo guía; coche, conductor y guía; o lo mismo con todas las entradas incluidas.\n\n**Práctico**\n\nDiez horas. **El Fuerte Rojo está cerrado los lunes**; su guía reordena el día en consecuencia.\n\nLas tarifas de entrada son de unos 2.000 ₹ por persona para un adulto extranjero donde no estén incluidas.",
+  "highlights": [
+   "Disfrute de una exploración privada de día completo por el viejo y el nuevo Delhi con guía local"
+  ],
+  "included": [
+   "Recogida y traslado al hotel o aeropuerto",
+   "Coche privado con aire acondicionado y conductor para toda la actividad",
+   "Guía en vivo autorizado por el gobierno",
+   "Entradas a los monumentos (si se elige la opción)",
+   "Paseo en rickshaw en Chandni Chowk",
+   "Botella de agua mineral",
+   "Todos los peajes y tasas de aparcamiento"
+  ],
+  "notIncluded": [
+   "Almuerzo",
+   "Cualquier gasto personal"
+  ]
+ },
+ "from-ahmedabad-6-days-private-golden-triangle-tour": {
+  "title": "Desde Ahmedabad: Triángulo de Oro privado en 6 días",
+  "metaTitle": "Triángulo de Oro privado 6 días desde Ahmedabad",
+  "metaDescription": "Seis días al Triángulo de Oro desde Ahmedabad, con hoteles de tres a cinco estrellas y visitas guiadas.",
+  "shortDescription": "Seis días al Triángulo de Oro desde Ahmedabad, con hoteles de tres a cinco estrellas y visitas guiadas.",
+  "fullDescription": "**El Triángulo de Oro, partiendo de Gujarat**\n\nAhmedabad a Delhi son unos 900 km, así que esto se realiza con un tramo en avión o tren en cada extremo y seis días sobre el terreno en el norte. Es adecuado para viajeros radicados en Gujarat por trabajo o familia que quieren el circuito Delhi-Agra-Jaipur sin organizarlo pieza por pieza.\n\n**Delhi**\n\nLa **Jama Masjid**, la mezquita más grande de la India, y un rickshaw de bicicleta por **Chandni Chowk**, trazado en la década de 1650 y todavía organizado oficio por oficio, plata en Dariba Kalan, especias en Khari Baoli, el mayor mercado de especias de Asia.\n\nEl **Raj Ghat**, donde Gandhi fue incinerado en 1948 y una llama arde desde entonces. **India Gate** y el trayecto frente al **Rashtrapati Bhavan**. La **tumba de Humayun**, la tumba-jardín mogol de la década de 1560 de la que desciende el Taj, y **Qutub Minar** con su columna de hierro sin oxidar.\n\n**Agra**\n\nEl **Taj Mahal** al amanecer, cuando el mármol pasa de gris a rosado y luego a blanco y la multitud es solo una quinta parte de lo que será hacia las diez.\n\nEl **fuerte de Agra**, y el **Musamman Burj**, la torre octogonal donde Aurangzeb encarceló a su propio padre durante los últimos ocho años de su vida, con el Taj visible a lo largo del río.\n\n**Fatehpur Sikri** en el trayecto a Jaipur: la capital de Akbar de 1571, abandonada tras catorce años cuando el agua falló, y por ello completa.\n\n**Jaipur**\n\nEl **fuerte de Amber** sobre el lago Maota con el **Sheesh Mahal**, el **City Palace**, los instrumentos de piedra del **Jantar Mantar** y el **Hawa Mahal**, y los bazares, donde los talladores de gemas, los fabricantes de pulseras de laca y los estampadores de bloques todavía trabajan.\n\n**Tres opciones**\n\nHoteles de tres, cuatro o cinco estrellas, con transporte privado y guías con licencia durante todo el recorrido.\n\n**Práctico**\n\n**El Taj está cerrado los viernes.**\n\nCompruebe si su opción incluye los tramos Ahmedabad-Delhi o espera que usted los organice; pregunte antes de reservar si no se indica.",
+  "highlights": [
+   "Descubra el rico patrimonio de Delhi y sus vibrantes mercados con visitas guiadas por la ciudad"
+  ],
+  "included": [
+   "5 noches de alojamiento con desayuno diario",
+   "Todos los traslados y visitas en vehículo privado con aire acondicionado",
+   "Guías profesionales de habla inglesa en todos los sitios",
+   "Recogida y traslado a su hotel/aeropuerto en Delhi",
+   "Botellas de agua mineral durante la visita",
+   "Paseo en rickshaw eléctrico en Agra"
+  ],
+  "notIncluded": [
+   "Vuelos Ahmedabad-Delhi y Jaipur-Ahmedabad",
+   "Tarifas de entrada a los monumentos",
+   "Almuerzo, cena y gastos personales",
+   "Tarifas de cámara y actividades opcionales",
+   "Propinas"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
