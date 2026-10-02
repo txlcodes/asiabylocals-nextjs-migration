@@ -282,9 +282,22 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
   const TOUR_TZ: Record<string, string> = {
     india: 'Asia/Kolkata', japan: 'Asia/Tokyo', thailand: 'Asia/Bangkok',
     'sri lanka': 'Asia/Colombo', uae: 'Asia/Dubai', nepal: 'Asia/Kathmandu',
+    // Cambodia, Vietnam and Indonesia were missing and fell through to the
+    // Dubai default, three to four hours behind where the tour actually is,
+    // which quietly made their cutoff looser than every other country's.
+    cambodia: 'Asia/Phnom_Penh', vietnam: 'Asia/Ho_Chi_Minh',
+    indonesia: 'Asia/Jakarta',
   };
   const tourCountry = String(tour?.country || '').trim().toLowerCase();
-  const LEAD_DAYS = tourCountry === 'india' ? 0 : 1;
+  // One day is clock time, not working time. On 2026-09-28 a guest paid at
+  // 16:54 JST for a Tokyo walk the next morning: every Japanese operator was
+  // closing, the tour turned out not to run that date at all, and placing a
+  // replacement took eleven operators and an evening. Japan suppliers answer a
+  // company inbox on office hours, so a booking that lands after they go home
+  // has no working hours left before the tour. Two days gives one whole
+  // business day to place it. India stays same-day because we are the operator.
+  const LEAD_DAYS_BY_COUNTRY: Record<string, number> = { india: 0, japan: 2 };
+  const LEAD_DAYS = LEAD_DAYS_BY_COUNTRY[tourCountry] ?? 1;
   const earliestBookable = (() => {
     const tz = TOUR_TZ[tourCountry] || 'Asia/Dubai';
     // en-CA formats as YYYY-MM-DD, which parses back cleanly
