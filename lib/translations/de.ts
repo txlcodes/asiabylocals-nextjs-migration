@@ -10438,6 +10438,98 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben jeglicher Art"
   ]
  },
+ "delhi-1-day-varanasi-tour-with-flight-sacred-boat": {
+  "title": "Delhi: Varanasi-Tagesausflug mit Flug und heiliger Bootsfahrt",
+  "metaTitle": "Varanasi an einem Tag ab Delhi, Flug und Boot",
+  "metaDescription": "Varanasi an einem Tag ab Delhi per Flug, mit einer Bootsfahrt auf dem Ganges, der Aarti und Sarnath.",
+  "shortDescription": "Varanasi an einem Tag ab Delhi per Flug, mit einer Bootsfahrt auf dem Ganges, der Aarti und Sarnath.",
+  "fullDescription": "**Von Delhi zum Ganges und zurück an einem Tag**\n\nEin früher Flug von Nord nach Ost, etwa neunzig Minuten, dann ein voller Tag am Boden mit Auto und Führer, und der Abendflug zurück. Es ist die einzige Möglichkeit, Varanasi zu sehen, ohne zwei Reisetage aufzugeben.\n\n**Das Boot**\n\nDer Mittelpunkt. Eine Ruderbootfahrt entlang der Ghats, wo die gesamte Flussfront von Wasser aus wie eine durchgehende Steinfassade wirkt, genau so, wie sie zum Betrachten gedacht war. Die Paläste über den Stufen wurden von Maharajas aus ganz Indien errichtet, die jeweils ein Haus an diesem Fluss wollten.\n\nBei Sonnenaufgang wendet sich die Stadt dem Sonnenaufgang zu: Tausende Menschen baden, waschen Kleidung, beten und praktizieren Yoga gleichzeitig auf den Stufen. Abends gehen Lampen in Blätterbooten aufs Wasser.\n\n**Manikarnika** liegt an diesem Abschnitt. Seine Verbrennungsfeuer brennen seit Jahrhunderten ununterbrochen, denn Hindus glauben, dass der Tod in Varanasi den Kreislauf der Wiedergeburt beendet.\n\n**Fotografieren dort ist verboten.** Das ist absolut, und es handelt sich um Trauerfeiern.\n\n**Ganga Aarti**\n\nAm Dashashwamedh Ghat: Priester auf erhöhten Plattformen mit gestuften Messinglampen, Muschelhörnern, Glocken und Weihrauch, die sich in exakter Einheit bewegen, vor Tausenden auf den Stufen und in Booten.\n\n**Sarnath**\n\nZehn Kilometer entfernt, wo der Buddha nach seiner Erleuchtung seine erste Predigt hielt. Der **Dhamek-Stupa** markiert den Ort; das Museum beherbergt das **Löwenkapitell des Ashoka**, das Original des Emblems auf jeder indischen Banknote und jedem Pass.\n\n**Kashi Vishwanath**\n\nEines der zwölf Jyotirlinga, im Herzen der Altstadt. Die Sicherheitskontrolle ist streng, keine Telefone, keine Taschen, und die Gassen rundherum sind für jedes Fahrzeug zu eng.\n\n**Zwei Optionen**\n\nEine Version mit Start in Varanasi, Boot und Führer, oder der Komplett-Tag ab Delhi mit Flügen.\n\n**Praktisches**\n\nAchteinhalb Stunden am Boden. Schuhe aus bei Tempeln, bescheidene Kleidung, und bei der Aarti wenig mitnehmen, die Menge ist dicht.",
+  "highlights": [
+   "Sarnath, bedeutende buddhistische Stätte, wo Buddha seine erste Predigt hielt"
+  ],
+  "included": [
+   "Hin- und Rückflugticket ab Delhi",
+   "Privatwagen in Delhi",
+   "Privatwagen in Varanasi",
+   "Privater Reiseführer",
+   "Eintrittskarten",
+   "Bootsfahrt",
+   "Mittagessen",
+   "Mineralwasser",
+   "Alle Steuern"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben"
+  ]
+ },
+ "delhi-15th-century-neemrana-fort-car-guide-lunch": {
+  "title": "Delhi: Neemrana-Fort aus dem 15. Jahrhundert, Auto, Führer, Mittagessen",
+  "metaTitle": "Neemrana-Fort: Auto, Führer, Mittagessen",
+  "metaDescription": "Ein Tag von Delhi zum Fort-Palast Neemrana, einer restaurierten Festung aus dem 15. Jahrhundert, mit Dorfspaziergang, Führer und Mittagessen.",
+  "shortDescription": "Ein Tag von Delhi zum Fort-Palast Neemrana, einer restaurierten Festung aus dem 15. Jahrhundert, mit Dorfspaziergang, Führer und Mittagessen.",
+  "fullDescription": "**Ein Fort aus dem 15. Jahrhundert, in das man hineingeht und dann isst**\n\nNeemrana liegt an der Autobahn Delhi-Jaipur, etwa zweieinhalb Stunden entfernt, an einem Hügel im Distrikt Alwar. Das Fort wurde 1464 von einem Chauhan-Herrscher errichtet, im 20. Jahrhundert verlassen und in den 1980er Jahren aus nahezu ruinösem Zustand zu einem der ersten Heritage-Hotels Indiens restauriert.\n\nFür einen Besucher bedeutet das etwas Ungewöhnliches: Das Gebäude ist lebendig. Man geht nicht durch ein abgesperrtes Denkmal, sondern durch eine aktive Anlage aus zwölf in den Felsen gehauenen Ebenen, mit Innenhöfen, Hängegärten und offenen Pavillons auf jeder Ebene.\n\n**Das Fort**\n\nZwölf Ebenen, jede weiter in den Hügel zurückweichend, mit Ausblicken über die Ebene von den meisten davon. Die alten **Zenana**-Flügel, das **Hammam**, und eine Reihe von Terrassen, die sich als ebenso sehr Regenwasser-Sammelsystem wie dekoratives Element erweisen.\n\nIhr Führer erklärt die Geschichte der Chauhan, die diese Gegend hielten, nachdem sie 1192 Delhi an Muhammad von Ghor verloren hatten, und die Restaurierung, die eine eigene Geschichte ist.\n\n**Der Dorfspaziergang**\n\nUnterhalb des Forts: ein aktives rajasthanisches Dorf, durch dessen Gassen man geht, traditionelle Häuser sieht und, wenn der Haushalt einverstanden ist, hineingeführt wird.\n\n**Neemrana Baoli** ist es wert zu erfragen, ein neunstöckiger Stufenbrunnen aus den 1760er Jahren, weitgehend ohne Besucher und wirklich eindrucksvoll, wenn man den Rand erreicht und hinunterblickt.\n\n**Mittagessen**\n\nInklusive, im Fort, der richtige Ort dafür.\n\n**Praktisches**\n\nSieben Stunden Tür zu Tür, privater klimatisierter Wagen mit Fahrer und durchgehend ein Führer.\n\nEs gibt echtes Steigen, zwölf Ebenen bedeuten Treppen, teils steil und uneben. Flache Schuhe empfohlen.\n\nDie Anlage betreibt zudem eine der längsten Seilrutschen Indiens über die Schlucht neben dem Fort, separat und vor Ort buchbar.\n\nDer Eintritt zum Fort wird vor Ort bezahlt.",
+  "highlights": [
+   "Entdecken Sie die Pracht des Neemrana-Forts, einer Heritage-Anlage aus dem 15. Jahrhundert"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel in Delhi im privaten, klimatisierten Fahrzeug",
+   "Eintrittsgebühren zum Neemrana-Fort",
+   "Buffet-Mittagessen im Neemrana-Fort",
+   "Geführter Dorfspaziergang",
+   "Übersetzungshilfe und Vermittlung mit den Dorfbewohnern"
+  ],
+  "notIncluded": [
+   "Keine"
+  ]
+ },
+ "delhi-2-day-ranthambore-safari-by-car-with-hotel": {
+  "title": "Delhi: 2-tägiges Ranthambore-Safari mit Auto und Hotel",
+  "metaTitle": "Ranthambore in 2 Tagen: Safari und Hotel",
+  "metaDescription": "Zwei Tage von Delhi nach Ranthambore mit Safaris und einer Übernachtung in der Lodge, damit die Morgenfahrt möglich wird.",
+  "shortDescription": "Zwei Tage von Delhi nach Ranthambore mit Safaris und einer Übernachtung in der Lodge, damit die Morgenfahrt möglich wird.",
+  "fullDescription": "**Eine Nacht, und die kauft die Morgen-Safari**\n\nRanthambores Morgenschicht ist die bessere, Raubkatzen bewegen sich im ersten Licht und ruhen sich bis zum späten Vormittag aus, und man erreicht sie nicht bei einem Tagesausflug ab Delhi. Das ist das ganze Argument für die Übernachtung.\n\n**Tag 1**\n\nMorgenfahrt ab Delhi, Ankunft am frühen Nachmittag in Ihrer Lodge oder Ihrem Resort. Mittagessen, eine kurze Ruhepause, dann die **Nachmittags-Safari**.\n\n**Tag 2**\n\nDie **Morgen-Safari**, die eigentlich gesuchte, dann die Rückfahrt.\n\n**Der Park**\n\nEin Jagdrevier eines Maharadschas, bevor er 1980 zum Nationalpark wurde. 1.300 Quadratkilometer trockener Laubwald, Grasland und felsiger Grat, mit Seen, die die Tierwelt konzentrieren, während die Trockenzeit fortschreitet.\n\nRund siebzig Tiger, und Ranthambores Ruf beruht darauf, dass sie ungewöhnlich an Fahrzeuge gewöhnt sind, mehrere der ansässigen Tigerinnen wurden so oft fotografiert, dass sie in ganz Indien namentlich bekannt sind.\n\nSichtungen sind trotzdem Glückssache. Zwei Fahrten verdoppeln in etwa die Chancen, das ist die Rechnung hinter diesem Reiseplan.\n\n**Was man in jedem Fall sieht**\n\n**Sambarhirsche**, die brusttief in den Seen stehen und Wasserpflanzen fressen, **Axishirsche**, **Nilgauantilopen**, **Hanuman-Languren**, die Früchte für die darunter stehenden Hirsche fallen lassen, Wildschweine, und **Sumpfkrokodile** am Padam Talao.\n\nDie Vogelwelt ist ausgezeichnet: Schlangenadler, Nimmersatt-Störche, Eisvögel und winterliche Zugvögel auf dem Wasser.\n\nDas **Ranthambore-Fort** steht innerhalb des Reservats auf einem 700 Fuß hohen Grat, aus dem zehnten Jahrhundert, UNESCO-gelistet, und immer noch ein aktiver Tempel, zu dem Pilger zu Fuß durch Tigerrevier hinaufsteigen.\n\n**Zwei Optionen**\n\nÜbernachtung mit Safaris in zwei Unterkunftskategorien.\n\n**Praktisches**\n\nZonen und Genehmigungen werden von der **Forstbehörde** vergeben, niemand wählt selbst.\n\n**Der Park ist vom 1. Juli bis 30. September geschlossen.** Oktober bis April ist die Saison, März und April bieten die besten Sichtungen.\n\nWintermorgen im offenen Fahrzeug sind kalt. Gedeckte Farben, kein Parfüm, leise Stimmen.",
+  "highlights": [
+   "Erleben Sie den Nervenkitzel, bengalische Tiger in freier Wildbahn zu entdecken"
+  ],
+  "included": [
+   "Hin- und Rücktransport von Delhi nach Ranthambore",
+   "Unterkunft im Resort mit Frühstück",
+   "Abend- und Morgen-Safari im Ranthambore-Nationalpark",
+   "Erfahrener Führer während der Safari",
+   "Waldgenehmigungen und Gebühren inklusive",
+   "Staatlich zugelassener Jeep oder Canter",
+   "Kostenlose Wasserflasche"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "delhi-2-days-taj-mahal-delhi-guided-tour-by": {
+  "title": "Delhi: Taj Mahal und Delhi in 2 Tagen, geführte Tour im Auto",
+  "metaTitle": "Taj Mahal und Delhi in 2 Tagen",
+  "metaDescription": "Zwei Tage von Delhi aus: ein voller Tag mit den Denkmälern der Hauptstadt, dann Agra für den Taj Mahal und das Agra Fort. Privatwagen und Führer.",
+  "shortDescription": "Zwei Tage von Delhi aus: ein voller Tag mit den Denkmälern der Hauptstadt, dann Agra für den Taj Mahal und das Agra Fort. Privatwagen und Führer.",
+  "fullDescription": "**Zwei Tage statt eines sehr langen**\n\nDer Tagesausflug Delhi-Agra dauert vierzehn Stunden, davon sieben im Auto. Aufgeteilt auf zwei Tage mit einer Nacht in Agra hören dieselben Sehenswürdigkeiten auf, ein Kraftakt zu sein, und man bekommt den Taj bei Sonnenaufgang, was der Tagesausflug nicht bieten kann.\n\n**Tag eins: Delhi**\n\n**Qutub Minar**, begonnen 1193, das höchste Backsteinminarett der Welt, mit der eisernen Säule im Hof, die seit 1.600 Jahren steht und kaum gerostet ist.\n\n**Humayuns Grab**, in den 1560er Jahren von der Witwe des Kaisers errichtet, das erste große Mogul-Gartengrab Indiens und das direkte Vorbild des Taj sechzig Jahre später. Derselbe vierteilige Garten, dieselbe Doppelkuppel, weit weniger Menschen.\n\n**India Gate** und die Fahrt entlang des **Rajpath** vorbei am **Rashtrapati Bhavan**, 340 Räume unter einer Kuppel, die Lutyens von einem buddhistischen Stupa entlehnte.\n\nDer **Lotustempel**, das Bahá'í-Gotteshaus von 1986, neun Seiten, siebenundzwanzig Marmorblütenblätter, innen still, und **montags geschlossen**.\n\nMittagessen in einem guten Restaurant, dann Fahrt nach Agra auf der Schnellstraße, etwa dreieinhalb Stunden. Nacht in Agra.\n\n**Tag zwei: Agra**\n\nDer **Taj Mahal** bei Toröffnung, eine halbe Stunde vor Sonnenaufgang, wenn der Marmor von Grau über Rosa zu kühlem Weiß wechselt. Ihr Führer erklärt die Kalligrafie, dimensioniert, um von unten gleich hoch lesbar zu sein, die **Pietra-Dura**-Blumen aus Dutzenden eingelegter Steine, die nach außen geneigten Minarette, und die einzige Asymmetrie im gesamten Bauwerk.\n\nDann das **Agra Fort**, Akbars rote Sandsteinstadt aus 1565, Shah Jahans Marmorpaläste im Inneren, und der **Musamman Burj**, wo Aurangzeb seinen Vater acht Jahre lang in Sichtweite des Taj gefangen hielt.\n\nRückfahrt nach Delhi am Nachmittag.\n\n**Praktisches**\n\n**Der Taj ist freitags geschlossen.** Privater klimatisierter Wagen, Fahrer und lizenzierte Führer durchgehend; Eintrittsgebühren und Hotel werden separat organisiert, sofern nicht anders angegeben.",
+  "highlights": [
+   "Qutub Minar, das höchste Backsteinminarett der Welt, UNESCO-Weltkulturerbestätte"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit professionellem Fahrer",
+   "Abholung und Rückbringung von Hotel, Flughafen oder Bahnhof in Delhi",
+   "Professionelle lizenzierte Reiseführer in Delhi und Agra",
+   "1 Nacht Unterkunft in Agra",
+   "Frühstück im Hotel",
+   "Alle Besichtigungen gemäß Reiseplan",
+   "Wasser in Flaschen während der Fahrt",
+   "Parken, Mautgebühren, Kraftstoff und Bundesstaatssteuern"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen",
+   "Eintrittskarten zu den Denkmälern (falls im Paket gewählt)"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
