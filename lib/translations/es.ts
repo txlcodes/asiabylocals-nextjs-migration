@@ -10246,6 +10246,55 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier gasto personal"
   ]
  },
+ "6-day-private-golden-triangle-varanasi-tour-from-d": {
+  "title": "Triángulo de Oro privado y Varanasi en 6 días desde Delhi",
+  "metaTitle": "Triángulo de Oro y Varanasi en 6 días, privado",
+  "metaDescription": "Seis días desde Delhi pasando por Agra y Jaipur, y luego hacia el este a Varanasi en tren. Coche privado, guías y opciones de hotel.",
+  "shortDescription": "Seis días desde Delhi pasando por Agra y Jaipur, y luego hacia el este a Varanasi en tren. Coche privado, guías y opciones de hotel.",
+  "fullDescription": "**El Triángulo de Oro, más la ciudad más antigua**\n\nDelhi, Agra y Jaipur son la India mogol y rajput, fuertes, tumbas, palacios, de tres o cuatro siglos de antigüedad. Varanasi es algo completamente distinto, y añadirla al final de esta ruta es lo que justifica seis días en lugar de tres.\n\n**Delhi**\n\nPrimero la vieja Delhi: la **Jama Masjid**, el trayecto en rickshaw por **Chandni Chowk**, y el **Fuerte Rojo** de 1638. Luego la Nueva Delhi, **India Gate**, **Qutub Minar**, la **tumba de Humayun**, la tumba-jardín de la década de 1560 sobre la que se modeló el Taj, y el **Templo del Loto**.\n\n**Agra**\n\nEl **Taj Mahal**, idealmente al amanecer, y el **Fuerte de Agra**, donde Shah Jahan pasó sus últimos ocho años preso de su hijo, mirando río abajo la tumba que había construido. **Fatehpur Sikri** suele caer en el camino hacia Jaipur, la capital completa de Akbar, construida en 1571 y abandonada cuando faltó el agua.\n\n**Jaipur**\n\nEl **Fuerte Amber** sobre el lago Maota, el **City Palace**, el observatorio de piedra del **Jantar Mantar** y la fachada del **Hawa Mahal** con 953 ventanas.\n\n**Varanasi**\n\nEl tren hacia el este, y una India distinta. La ciudad reclama una ocupación continua de tres mil años, y los hindúes creen que morir aquí rompe el ciclo del renacimiento, por eso los ghats de cremación de **Manikarnika** nunca se apagan.\n\nUn paseo en barca al amanecer por los ghats es lo que hay que hacer, todo el frente del río se vuelve hacia el amanecer y miles de personas se bañan en el río a la vez. Por la tarde, el **Ganga Aarti** en Dashashwamedh: fuego, campanas y sacerdotes moviéndose al unísono.\n\n**Sarnath** está a once kilómetros, donde Buda dio su primer sermón.\n\n**Opciones**\n\nCoche, conductor, guías y billetes de tren; o lo mismo con hoteles de tres o cinco estrellas incluidos.\n\nEstá prohibido fotografiar en los ghats de cremación. Su guía lo dirá, tómeselo en serio.",
+  "highlights": [
+   "Visite India Gate, Qutub Minar, la tumba de Humayun y el Templo del Loto."
+  ],
+  "included": [
+   "Recogida y regreso en el hotel o el aeropuerto",
+   "Coche privado con aire acondicionado y conductor para toda la visita",
+   "Guía turístico autorizado por el gobierno",
+   "5 noches de alojamiento (en la opción elegida)",
+   "Desayuno en el hotel (en la opción elegida)",
+   "Billetes de tren (Agra-Varanasi-Delhi)",
+   "Botella de agua mineral",
+   "Todos los peajes y gastos de aparcamiento"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Comida y cena",
+   "Cualquier gasto personal"
+  ]
+ },
+ "6-days-golden-triangle-tour-explore-delhi-agra-jai": {
+  "title": "Triángulo de Oro en 6 días, descubra Delhi, Agra y Jaipur",
+  "metaTitle": "Triángulo de Oro en 6 días, la proporción correcta",
+  "metaDescription": "Seis días entre Delhi, Agra y Jaipur con coche privado, guías profesionales y hoteles de tres o cuatro estrellas.",
+  "shortDescription": "Seis días entre Delhi, Agra y Jaipur con coche privado, guías profesionales y hoteles de tres o cuatro estrellas.",
+  "fullDescription": "**Seis días para tres ciudades, la proporción correcta**\n\nUnos dos días en cada una, con los trayectos quedando entre medio. Es la duración en la que el Triángulo de Oro deja de ser una lista de verificación: tiene una segunda visita al Taj a otra hora, una noche en los bazares de Jaipur, y un día completo de la vieja Delhi en lugar de un simple paso.\n\n**Delhi**\n\nEl **Fuerte Rojo**, la capital amurallada de Shah Jahan de 1638: el bazar cubierto de **Chatta Chowk**, que en su día vendía seda a la corte, el **Diwan-i-Am**, donde escuchaba las peticiones públicas, y el **Diwan-i-Khas**, que albergó el Trono del Pavo Real hasta que Nadir Shah se lo llevó a Persia en 1739. **Cierra los lunes.**\n\nLa **Jama Masjid** y un recorrido en rickshaw de pedales por **Chandni Chowk**, donde los oficios todavía ocupan los lugares que les fijó el plano de la década de 1650, la plata en Dariba Kalan, las especias en Khari Baoli.\n\n**Qutub Minar**, la **tumba de Humayun** e **India Gate** en el lado de Nueva Delhi.\n\n**Agra**\n\nEl **Taj Mahal**, idealmente al amanecer. El **Fuerte de Agra**, con el **Musamman Burj**, donde Aurangzeb tuvo preso a su padre los últimos ocho años de su vida, con el Taj visible a lo largo del río. Y con dos días aquí, el **Baby Taj** al otro lado del Yamuna y **Mehtab Bagh** para el reflejo al atardecer.\n\n**Fatehpur Sikri** en el camino hacia Jaipur.\n\n**Jaipur**\n\nEl **Fuerte Amber** sobre el lago Maota con el **Sheesh Mahal**, el **City Palace**, el **Jantar Mantar** y el **Hawa Mahal**, además de **Nahargarh** al atardecer, la mejor vista que existe de la ciudad, y los mercados donde Jaipur de verdad trabaja.\n\n**Tres opciones**\n\nCoche privado, conductor y guías; o con hoteles de tres o cuatro estrellas.\n\n**Práctico**\n\n**El Taj cierra los viernes** y el **Fuerte Rojo los lunes**; el itinerario se ordena en torno a ambos.\n\nLas entradas son aparte salvo que se indique, unos 2,600 ₹ por adulto extranjero en las tres ciudades.",
+  "highlights": [
+   "Descubra el emblemático Triángulo de Oro de la India, con Delhi, Agra y Jaipur, en 6 días"
+  ],
+  "included": [
+   "Recogida y regreso en el hotel o el aeropuerto",
+   "Coche privado con aire acondicionado y conductor para toda la visita",
+   "Guía turístico profesional en cada ciudad",
+   "5 noches de alojamiento en hotel (en la opción elegida)",
+   "Desayuno en el hotel",
+   "Botella de agua mineral",
+   "Todos los peajes y gastos de aparcamiento"
+  ],
+  "notIncluded": [
+   "Comida y cena",
+   "Entradas a los monumentos",
+   "Cualquier gasto personal"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",

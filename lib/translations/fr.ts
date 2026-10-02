@@ -10246,6 +10246,55 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "6-day-private-golden-triangle-varanasi-tour-from-d": {
+  "title": "Triangle d'or privé et Varanasi en 6 jours depuis Delhi",
+  "metaTitle": "Triangle d'or et Varanasi en 6 jours, privé",
+  "metaDescription": "Six jours depuis Delhi en passant par Agra et Jaipur, puis vers l'est à Varanasi en train. Voiture privée, guides et options d'hôtel.",
+  "shortDescription": "Six jours depuis Delhi en passant par Agra et Jaipur, puis vers l'est à Varanasi en train. Voiture privée, guides et options d'hôtel.",
+  "fullDescription": "**Le Triangle d'or, plus la ville la plus ancienne**\n\nDelhi, Agra et Jaipur, c'est l'Inde moghole et rajpoute, forts, tombeaux, palais, vieux de trois ou quatre siècles. Varanasi, c'est tout autre chose, et l'ajouter au bout de cet itinéraire est ce qui justifie six jours plutôt que trois.\n\n**Delhi**\n\nD'abord le vieux Delhi : la **Jama Masjid**, le trajet en cyclo-pousse dans **Chandni Chowk**, et le **Fort rouge** de 1638. Puis le New Delhi, **India Gate**, **Qutub Minar**, le **tombeau de Humayun**, le tombeau-jardin des années 1560 sur lequel le Taj a été modelé, et le **temple du Lotus**.\n\n**Agra**\n\nLe **Taj Mahal**, idéalement au lever du soleil, et le **fort d'Agra**, où Shah Jahan a passé ses huit dernières années prisonnier de son fils, regardant en aval le tombeau qu'il avait construit. **Fatehpur Sikri** tombe généralement sur la route vers Jaipur, la capitale intacte d'Akbar, bâtie en 1571 et abandonnée quand l'eau a manqué.\n\n**Jaipur**\n\nLe **fort d'Amber** au-dessus du lac Maota, le **City Palace**, l'observatoire de pierre du **Jantar Mantar** et la façade du **Hawa Mahal**, 953 fenêtres.\n\n**Varanasi**\n\nLe train vers l'est, et une autre Inde. La ville revendique une occupation continue depuis trois mille ans, et les hindous estiment qu'y mourir brise le cycle des renaissances, c'est pourquoi les ghats crématoires de **Manikarnika** ne s'éteignent jamais.\n\nUn bateau à l'aube le long des ghats, c'est la chose à faire, toute la rive se tourne vers le lever du soleil et des milliers de personnes se baignent dans le fleuve en même temps. Le soir, l'**Aarti du Gange** à Dashashwamedh : feu, cloches et prêtres se mouvant à l'unisson.\n\n**Sarnath** se trouve à onze kilomètres, là où le Bouddha a prononcé son premier sermon.\n\n**Options**\n\nVoiture, chauffeur, guides et billets de train ; ou la même chose avec des hôtels trois ou cinq étoiles compris.\n\nLa photographie est interdite aux ghats crématoires. Votre guide vous le dira, prenez-le au sérieux.",
+  "highlights": [
+   "Visitez India Gate, Qutub Minar, le tombeau de Humayun et le temple du Lotus."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour toute la durée de la visite",
+   "Guide touristique agréé par le gouvernement",
+   "5 nuits d'hébergement (selon l'option choisie)",
+   "Petit-déjeuner à l'hôtel (selon l'option choisie)",
+   "Billets de train (Agra-Varanasi-Delhi)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Billets d'entrée",
+   "Déjeuner et dîner",
+   "Toute dépense personnelle"
+  ]
+ },
+ "6-days-golden-triangle-tour-explore-delhi-agra-jai": {
+  "title": "Triangle d'or en 6 jours, découvrez Delhi, Agra et Jaipur",
+  "metaTitle": "Triangle d'or en 6 jours, le bon équilibre",
+  "metaDescription": "Six jours entre Delhi, Agra et Jaipur avec voiture privée, guides professionnels et hôtels trois ou quatre étoiles.",
+  "shortDescription": "Six jours entre Delhi, Agra et Jaipur avec voiture privée, guides professionnels et hôtels trois ou quatre étoiles.",
+  "fullDescription": "**Six jours pour trois villes, le bon ratio**\n\nDeux jours dans chacune, environ, avec les trajets placés entre elles. C'est la durée à partir de laquelle le Triangle d'or cesse d'être une liste à cocher : vous avez une deuxième visite du Taj à une autre heure, une soirée dans les bazars de Jaipur, et une journée complète de vieux Delhi plutôt qu'un simple passage.\n\n**Delhi**\n\nLe **Fort rouge**, la capitale fortifiée de Shah Jahan de 1638 : le bazar couvert de **Chatta Chowk** qui vendait autrefois de la soie à la cour, le **Diwan-i-Am** où il entendait les requêtes publiques, et le **Diwan-i-Khas** qui a accueilli le Trône du Paon jusqu'à ce que Nadir Shah l'emporte en Perse en 1739. **Fermé le lundi.**\n\nLa **Jama Masjid** et un tour en cyclo-pousse dans **Chandni Chowk**, où les métiers occupent encore les emplacements fixés par le plan des années 1650, l'argenterie à Dariba Kalan, les épices à Khari Baoli.\n\n**Qutub Minar**, le **tombeau de Humayun** et **India Gate** côté New Delhi.\n\n**Agra**\n\nLe **Taj Mahal**, idéalement au lever du soleil. Le **fort d'Agra**, avec le **Musamman Burj** où Aurangzeb a enfermé son père les huit dernières années de sa vie, le Taj visible le long du fleuve. Et avec deux jours ici, le **Baby Taj** de l'autre côté de la Yamuna et **Mehtab Bagh** pour le reflet au coucher du soleil.\n\n**Fatehpur Sikri** sur la route vers Jaipur.\n\n**Jaipur**\n\nLe **fort d'Amber** au-dessus du lac Maota avec le **Sheesh Mahal**, le **City Palace**, le **Jantar Mantar** et le **Hawa Mahal**, plus **Nahargarh** au coucher du soleil, la meilleure vue qui existe sur la ville, et les marchés où Jaipur travaille réellement.\n\n**Trois options**\n\nVoiture privée, chauffeur et guides ; ou avec des hôtels trois ou quatre étoiles.\n\n**Pratique**\n\n**Le Taj est fermé le vendredi** et le **Fort rouge le lundi** ; l'itinéraire est organisé autour des deux.\n\nLes droits d'entrée sont séparés sauf indication contraire, environ 2,600 ₹ par adulte étranger pour les trois villes.",
+  "highlights": [
+   "Découvrez l'emblématique Triangle d'or de l'Inde, Delhi, Agra et Jaipur, en 6 jours"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour toute la durée de la visite",
+   "Guide touristique professionnel dans chaque ville",
+   "5 nuits d'hébergement en hôtel (selon l'option choisie)",
+   "Petit-déjeuner à l'hôtel",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Déjeuner et dîner",
+   "Billets d'entrée des monuments",
+   "Toute dépense personnelle"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
