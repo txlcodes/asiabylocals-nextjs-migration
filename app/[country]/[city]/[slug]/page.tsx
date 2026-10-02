@@ -60,8 +60,12 @@ function shortenTitleForMeta(title: string, budget = 45): string {
   if (short.length <= budget) return short;
   // Truncate at last word boundary inside the budget
   let truncated = short.substring(0, budget).replace(/\s+\S*$/, '').trim();
+  // A cut that lands right after a comma/colon/semicolon in a list-style title
+  // ("Agra Fort,") reads as broken in the SERP snippet — strip trailing punctuation.
+  truncated = truncated.replace(/[,:;]+$/, '').trim();
   // Remove dangling prepositions/conjunctions that make no sense at the end
   truncated = truncated.replace(/\s+(with|from|by|for|and|in|of|the|a|an|to|at|on|&)$/i, '').trim();
+  truncated = truncated.replace(/[,:;]+$/, '').trim();
   return truncated;
 }
 
