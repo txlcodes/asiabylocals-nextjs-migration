@@ -10104,6 +10104,50 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittsgebühren der Monumente"
   ]
  },
+ "4-nights-5-days-private-golden-triangle-tour": {
+  "title": "4 Nächte / 5 Tage, private Tour durch das Goldene Dreieck",
+  "metaTitle": "Goldenes Dreieck in 5 Tagen, private Tour",
+  "metaDescription": "Fünf Tage zwischen Delhi, Agra und Jaipur mit privatem Wagen und Fahrer. Guide- und Hoteloptionen, oder Tarif nur Fahrer.",
+  "shortDescription": "Fünf Tage zwischen Delhi, Agra und Jaipur mit privatem Wagen und Fahrer. Guide- und Hoteloptionen, oder Tarif nur Fahrer.",
+  "fullDescription": "**Fünf Tage, da entspannt sich das Dreieck**\n\nDrei Tage decken diese Städte ab. Fünf lassen Sie in ihnen bleiben, ein Abend in den Bazaren von Jaipur, ein zweiter Taj-Besuch zu einer anderen Stunde, ein Nachmittag, der nicht auf einer Schnellstraße verbracht wird.\n\n**Delhi**\n\nAlt-Delhi, die **Jama Masjid**, Indiens größte Moschee, und eine Fahrradrikscha durch **Chandni Chowk**, in den 1650er-Jahren von Shah Jahans Tochter angelegt, mit einem Kanal in der Mitte, der den Mond spiegelte.\n\nNeu-Delhi, **India Gate**, **Humayuns Grabmal** aus den 1560er-Jahren, das mogulische Gartengrab, von dem der Taj abstammt, und **Qutub Minar**, 73 Meter Ziegel aus dem 12. Jahrhundert mit der rostfreien Eisensäule an seinem Fuß.\n\n**Agra**\n\nDer **Taj Mahal**, idealerweise bei Sonnenaufgang, und das **Agra Fort**, Akbars roter Sandstein von 1565 mit Shah Jahans Marmor darin und dem **Musamman Burj**, wo er als Gefangener seines eigenen Sohnes starb und das Grabmal seiner Frau betrachtete.\n\n**Fatehpur Sikri** auf dem Weg nach Westen: die Hauptstadt, die Akbar 1571 baute und vierzehn Jahre später aufgab, als das Wasser ausblieb, weshalb sie vollständig erhalten ist, das **Buland Darwaza**, der **Panch Mahal**, der Dargah des Salim Chishti.\n\n**Jaipur**\n\n**Amber Fort** über dem Maota-See, der **City Palace**, die neunzehn steinernen Instrumente des **Jantar Mantar**, und der **Hawa Mahal**. Mit fünf Tagen bleibt Zeit für **Nahargarh** bei Sonnenuntergang, den besten Blick auf die Stadt, den es gibt.\n\n**Vier Optionen**\n\nEin Tarif nur mit Fahrer, wenn Sie jede Stadt lieber selbst erkunden. Wagen, Fahrer und Guides. Oder beides mit Drei-Sterne-Hotels inbegriffen.\n\n**Praktisch**\n\nRund 700 km Fahrt insgesamt, alles auf guten Fernstraßen, in einem privaten klimatisierten Fahrzeug.\n\n**Der Taj ist freitags geschlossen.** Eintrittsgebühren sind separat, sofern Ihre Option sie nicht enthält, rund 2,600 ₹ pro Person für die wichtigsten Stätten in den drei Städten.",
+  "highlights": [
+   "Entdecken Sie das Beste des nordindischen Erbes in Delhi, Agra und Jaipur."
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die gesamte Tour",
+   "Professioneller Reiseleiter in jeder Stadt",
+   "Flasche Mineralwasser",
+   "Alle Mautkosten und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für die Monumente",
+   "Mittag- und Abendessen",
+   "Jegliche persönliche Ausgabe"
+  ]
+ },
+ "5-day-golden-triangle-tour-with-ranthambore-safari": {
+  "title": "Goldenes Dreieck in 5 Tagen mit Safari in Ranthambore",
+  "metaTitle": "Goldenes Dreieck 5 Tage mit Safari in Ranthambore",
+  "metaDescription": "Fünf Tage ab Delhi über Agra und Jaipur mit einer Tiger-Safari in Ranthambore, alles in einem Paket organisiert.",
+  "shortDescription": "Fünf Tage ab Delhi über Agra und Jaipur mit einer Tiger-Safari in Ranthambore, alles in einem Paket organisiert.",
+  "fullDescription": "**Fünf Tage, und ein Tigerreservat zwischen den beiden Städten**\n\nRanthambore liegt fast genau auf der Linie zwischen Agra und Jaipur, was diese Route effizient statt zu einem Umweg macht, die Safari kostet Sie eine Nacht, keinen Tag Fahrt.\n\n**Delhi**\n\n**Qutub Minar** mit seiner rostfreien Eisensäule, **Humayuns Grabmal**, das mogulische Gartengrab aus den 1560er-Jahren, von dem der Taj abstammt, **India Gate**, und die **Jama Masjid** und **Chandni Chowk** von Alt-Delhi.\n\n**Agra**\n\nDer **Taj Mahal** bei Sonnenaufgang, die Fassung, für die sich das Aufstehen lohnt: die Tore öffnen eine halbe Stunde vor der Sonne, der Marmor geht von grau über rosa zu weiß, und es sind nur ein Fünftel so viele Menschen da wie bis zehn Uhr.\n\nDas **Agra Fort**, und der **Musamman Burj**, wo Aurangzeb seinen Vater die letzten acht Jahre seines Lebens gefangen hielt, mit dem Taj sichtbar am Fluss.\n\n**Fatehpur Sikri** auf dem Weg nach Süden.\n\n**Ranthambore**\n\n1.300 Quadratkilometer trockener Laubwald um eine Hügelfestung aus dem 10. Jahrhundert, die noch innerhalb des Reservats steht. Rund siebzig Tiger, ungewöhnlich an Fahrzeuge gewöhnt, weshalb dieser Park die besten Chancen in Nordindien bietet.\n\nSafaris laufen am frühen Morgen und am frühen Nachmittag im offenen Gypsy oder Canter, in einer von der Forstbehörde zugewiesenen Zone, niemand wählt seine Zone selbst.\n\nSicher so oder so: Sambar, die bis zur Brust im Wasser der Seen stehen, Axishirsche, Nilgauantilopen, Hanuman-Languren, und Sumpfkrokodile am Padam Talao.\n\n**Jaipur**\n\n**Amber Fort** über dem Maota-See mit dem **Sheesh Mahal**, der **City Palace**, das **Jantar Mantar** und der **Hawa Mahal**.\n\n**Praktisch**\n\n**Ranthambore schließt vom 1. Juli bis 30. September** wegen des Monsuns. Oktober bis April ist die Saison, und März bis April bieten die besten Sichtungen, wenn das Wasser austrocknet.\n\nGenehmigungen sind begrenzt und werden im Voraus freigegeben, buchen Sie früh. Wintermorgen in einem offenen Fahrzeug sind kalt.\n\n**Der Taj ist freitags geschlossen.**",
+  "highlights": [
+   "Geführte Besichtigungen in Delhi, Agra, Jaipur und Ranthambore"
+  ],
+  "included": [
+   "Professioneller Reiseleiter",
+   "Privater klimatisierter Wagen für die gesamte Aktivität",
+   "Flasche Mineralwasser",
+   "Unterkunft im 3-Sterne-Hotel",
+   "Frühstück im Hotel",
+   "Alle Mautkosten und Parkgebühren",
+   "Eintrittskarten"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgabe"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
