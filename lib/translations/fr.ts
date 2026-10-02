@@ -5467,6 +5467,60 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ]
  },
+ "from-delhi-taj-mahal-sunrise-agra-fort-akbars-tomb": {
+  "title": "Depuis Delhi : Taj Mahal au lever du soleil, fort d'Agra et tombeau d'Akbar",
+  "metaTitle": "Delhi : Taj au lever du soleil, fort et tombeau d'Akbar",
+  "metaDescription": "Taj Mahal au lever du soleil, fort d'Agra et tombeau d'Akbar à Sikandra depuis Delhi, avec option de prise en charge à 2h30.",
+  "shortDescription": "Taj Mahal au lever du soleil, fort d'Agra et tombeau d'Akbar à Sikandra depuis Delhi, avec option de prise en charge à 2h30.",
+  "fullDescription": "**Trois tombeaux moghols, et le troisième est la surprise**\n\nLa plupart des itinéraires à Agra s'arrêtent à deux monuments. Ajouter le **tombeau d'Akbar à Sikandra** est ce qui justifie l'heure supplémentaire, car c'est là que commence toute l'histoire architecturale moghole, et il n'y a presque personne.\n\n**Prise en charge**\n\nEntre 2h30 et 3h00 pour la version au lever du soleil, depuis Delhi, Noida, Gurugram, Ghaziabad ou Faridabad. Des prises en charge plus tardives sont possibles si le lever du soleil ne vous tente pas.\n\n**Le Taj au lever du soleil**\n\nLes portes ouvrent une demi-heure avant le soleil. Le marbre devient gris, puis rose, puis blanc ; en hiver, une brume se pose sur la Yamuna derrière le dôme.\n\nVotre guide couvre la **calligraphie** gravée en tailles croissantes pour se lire d'une hauteur égale depuis le sol, les incrustations de **pietra dura**, jusqu'à soixante pierres par fleur, les quatre **minarets** inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau, et la seule asymétrie de tout l'édifice.\n\n**Le fort d'Agra**\n\nLa ville de grès rouge d'Akbar, 1565, avec le marbre de Shah Jahan à l'intérieur, et le **Musamman Burj** où il a passé ses huit dernières années prisonnier d'Aurangzeb, le Taj en vue le long du fleuve.\n\n**Le tombeau d'Akbar, Sikandra**\n\nÀ dix kilomètres au nord-ouest. Akbar a commencé son propre tombeau, et son fils Jahangir l'a achevé en 1613, et il ne ressemble à rien d'autre en Inde : une structure en grès à cinq niveaux avec un pavillon de marbre ouvert au sommet, qui évoque davantage un vihara bouddhiste qu'un mausolée moghol.\n\nLa porte est incrustée de marbre blanc en motifs qui anticipent le Taj de vingt ans. Des antilopes cervicapres et des cerfs paissent dans le jardin de 119 acres (48 hectares), et des macaques rhésus parcourent les allées, ne tenez pas de nourriture à la main.\n\nAkbar était l'empereur qui a aboli la taxe sur les non-musulmans, épousé des princesses rajpoutes, et organisé des débats entre hindous, jaïns, jésuites et zoroastriens. Se tenir dans son tombeau après le Taj remet la dynastie en ordre.\n\n**Quatre options**\n\nGuide seul ; voiture privée climatisée et guide ; la même chose avec les billets des monuments ; ou avec les repas en plus.\n\n**Le Taj est fermé le vendredi.**",
+  "highlights": [
+   "Assistez au lever de soleil à couper le souffle sur le Taj Mahal, quand le marbre s'illumine"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur professionnel",
+   "Guide touristique privé sur place (disponible dans votre langue préférée)",
+   "Visite du Taj Mahal, du fort d'Agra et de Sikandra",
+   "Billets d'entrée des monuments (selon l'option choisie)",
+   "Petit-déjeuner (visite au lever du soleil) ou déjeuner (visite de jour) dans un hôtel 5 étoiles (selon l'option choisie)",
+   "Eau en bouteille pendant le trajet",
+   "Surchaussures pour la visite du Taj Mahal",
+   "Parapluie (sur demande)",
+   "Tous les frais de carburant, péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Boissons",
+   "Pourboires et gratifications (facultatifs)",
+   "Dépenses personnelles (achats, repas supplémentaires, etc.)"
+  ]
+ },
+ "from-delhi-taj-mahal-sunrise-agra-fort-all-inclusi": {
+  "title": "Depuis Delhi : Taj Mahal au lever du soleil et fort d'Agra, tout compris",
+  "metaTitle": "Delhi : Taj au lever du soleil et fort d'Agra, tout compris",
+  "metaDescription": "Le Taj Mahal au lever du soleil et le fort d'Agra, aller-retour depuis Delhi en voiture privée avec guide. Repas et billets en option.",
+  "shortDescription": "Le Taj Mahal au lever du soleil et le fort d'Agra, aller-retour depuis Delhi en voiture privée avec guide. Repas et billets en option.",
+  "fullDescription": "**La version lever du soleil de l'excursion depuis Delhi**\n\nL'excursion ordinaire atteint le Taj à dix heures, avec la foule. Celle-ci quitte Delhi avant l'aube et l'atteint à l'ouverture des portes, ce qui fait la différence entre voir le Taj et le voir vraiment bien.\n\nCela coûte du sommeil. Tous ceux qui ont fait les deux disent que cela vaut le coup.\n\n**La route**\n\nPrise en charge à Delhi, Noida ou Gurugram en voiture privée climatisée, par la Yamuna Expressway. Trois heures et demie avec une pause, et la route est vide à cette heure.\n\n**Le Taj au lever du soleil**\n\nLes portes ouvrent une demi-heure avant le soleil. Le marbre devient gris, puis rose, puis blanc froid ; en décembre et janvier, une brume se pose sur le fleuve derrière le dôme.\n\nVotre guide couvre ce qui échappe facilement, la **calligraphie** gravée en tailles croissantes pour se lire d'une hauteur égale depuis le sol ; les fleurs de **pietra dura** faites de dizaines de pierres incrustées ; les **minarets** inclinés vers l'extérieur pour qu'un séisme les éloigne du tombeau ; et la seule asymétrie, le cénotaphe de Shah Jahan lui-même, ajouté hors de l'axe par son fils.\n\n**Le fort d'Agra**\n\nLe fort de grès rouge d'Akbar, 1565, avec les palais de marbre de Shah Jahan à l'intérieur. Le **Diwan-i-Am**, le **Sheesh Mahal**, et le **Musamman Burj**, la tour où Shah Jahan a passé ses huit dernières années prisonnier d'Aurangzeb, regardant en aval le tombeau de sa femme.\n\n**Deux options**\n\nVoiture privée, chauffeur et guide ; ou la version tout compris avec repas et tous les droits d'entrée couverts : 1,300 ₹ par personne au Taj avec le mausolée, 650 ₹ au fort.\n\n**Pratique**\n\nDouze heures de porte à porte, et une vraie journée de douze heures, prise en charge vers trois ou quatre heures du matin selon la saison.\n\n**Le Taj est fermé le vendredi.**\n\nLes matinées de décembre et janvier sur la rive sont froides avant le lever du soleil ; prévoyez une épaisseur même si l'après-midi sera chaud.",
+  "highlights": [
+   "Assistez à la beauté du Taj Mahal au lever du soleil, quand son marbre s'illumine de teintes changeantes"
+  ],
+  "included": [
+   "Voiture privée climatisée avec chauffeur professionnel",
+   "Prise en charge et retour à l'hôtel ou à l'aéroport dans Agra",
+   "Guide touristique privé agréé par le gouvernement",
+   "Assistance coupe-file aux monuments",
+   "Billets d'entrée des monuments (selon l'option choisie)",
+   "Petit-déjeuner ou déjeuner dans un hôtel 5 étoiles (selon l'option choisie)",
+   "Eau en bouteille et collations légères",
+   "Trajet en bus électrique au Taj Mahal",
+   "Visite facultative d'un atelier d'artisan local",
+   "Tous les péages, le stationnement, les frais de carburant et les taxes applicables",
+   "Assistance WhatsApp dédiée pendant toute la visite"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles, pourboires et gratifications",
+   "Activités non mentionnées dans les prestations incluses"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Réservez un guide officiel pour explorer Bengaluru",
   "metaTitle": "Bengaluru avec guide : palais, Lalbagh, temples et bazars",

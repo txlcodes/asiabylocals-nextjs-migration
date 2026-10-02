@@ -5467,6 +5467,60 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "from-delhi-taj-mahal-sunrise-agra-fort-akbars-tomb": {
+  "title": "Desde Delhi: Taj Mahal al amanecer, Fuerte de Agra y tumba de Akbar",
+  "metaTitle": "Delhi: Taj al amanecer, fuerte y tumba de Akbar",
+  "metaDescription": "Taj Mahal al amanecer, Fuerte de Agra y la tumba de Akbar en Sikandra desde Delhi, con opción de recogida a las 2:30.",
+  "shortDescription": "Taj Mahal al amanecer, Fuerte de Agra y la tumba de Akbar en Sikandra desde Delhi, con opción de recogida a las 2:30.",
+  "fullDescription": "**Tres tumbas mogolas, y la tercera es la sorpresa**\n\nLa mayoría de los itinerarios de Agra se detienen en dos monumentos. Añadir la **tumba de Akbar en Sikandra** es lo que hace que merezca la pena la hora de más, porque es donde empieza toda la historia arquitectónica mogol, y casi no hay nadie allí.\n\n**Recogida**\n\nEntre las 2:30 y las 3:00 para la versión del amanecer, desde Delhi, Noida, Gurugram, Ghaziabad o Faridabad. Hay recogidas más tardías disponibles si el amanecer no le atrae.\n\n**El Taj al amanecer**\n\nLas puertas abren media hora antes del sol. El mármol se vuelve gris, luego rosa, luego blanco; en invierno hay niebla sobre el Yamuna detrás de la cúpula.\n\nSu guía cubre la **caligrafía** labrada en tamaños crecientes para que se lea de manera uniforme desde el suelo, las incrustaciones de **pietra dura** con hasta sesenta piedras por flor, los cuatro **alminares** inclinados hacia fuera para que un terremoto los dejara caer lejos de la tumba, y la única asimetría de todo el edificio.\n\n**El Fuerte de Agra**\n\nLa ciudad de arenisca roja de Akbar, de 1565, con el mármol de Shah Jahan dentro, y el **Musamman Burj**, donde pasó sus últimos ocho años preso de Aurangzeb con el Taj a la vista río abajo.\n\n**La tumba de Akbar, Sikandra**\n\nA diez kilómetros al noroeste. Akbar empezó su propia tumba, y su hijo Jahangir la terminó en 1613, y no se parece a nada más en la India: una estructura de arenisca de cinco niveles con un pabellón de mármol abierto arriba, más parecido a un vihara budista que a un mausoleo mogol.\n\nLa puerta está incrustada con mármol blanco en motivos que anticipan el Taj en veinte años. Antílopes cervicapra y ciervos pastan en el jardín de 119 acres (48 hectáreas), y los macacos rhesus recorren los caminos, no lleve comida en la mano.\n\nAkbar fue el emperador que abolió el impuesto a los no musulmanes, se casó con princesas rajput, y convocó debates entre hindúes, jainistas, jesuitas y zoroastrianos. Estar en su tumba después del Taj pone la dinastía en orden.\n\n**Cuatro opciones**\n\nSolo guía; coche privado con aire acondicionado y guía; lo mismo con las entradas a los monumentos; o con las comidas también.\n\n**El Taj cierra los viernes.**",
+  "highlights": [
+   "Sea testigo de un amanecer impresionante en el Taj Mahal, cuando el mármol resplandece"
+  ],
+  "included": [
+   "Recogida y regreso en el hotel o el aeropuerto",
+   "Coche privado con aire acondicionado y conductor profesional",
+   "Guía turístico privado en directo (disponible en su idioma preferido)",
+   "Visita al Taj Mahal, el Fuerte de Agra y Sikandra",
+   "Entradas a los monumentos (en la opción elegida)",
+   "Desayuno (visita al amanecer) o comida (visita de día) en un hotel de 5 estrellas (en la opción elegida)",
+   "Agua embotellada durante el trayecto",
+   "Cubrezapatos para la visita al Taj Mahal",
+   "Paraguas (a petición)",
+   "Todos los gastos de combustible, peajes y aparcamiento"
+  ],
+  "notIncluded": [
+   "Bebidas",
+   "Propinas y gratificaciones (opcionales)",
+   "Gastos personales (compras, comidas adicionales, etc.)"
+  ]
+ },
+ "from-delhi-taj-mahal-sunrise-agra-fort-all-inclusi": {
+  "title": "Desde Delhi: Taj Mahal al amanecer y Fuerte de Agra, todo incluido",
+  "metaTitle": "Delhi: Taj al amanecer y Fuerte de Agra, todo incluido",
+  "metaDescription": "El Taj Mahal al amanecer y el Fuerte de Agra, ida y vuelta desde Delhi en coche privado con guía. Comidas y entradas opcionales.",
+  "shortDescription": "El Taj Mahal al amanecer y el Fuerte de Agra, ida y vuelta desde Delhi en coche privado con guía. Comidas y entradas opcionales.",
+  "fullDescription": "**La versión del amanecer de la excursión desde Delhi**\n\nLa excursión normal llega al Taj a las diez, con la gente. Esta sale de Delhi antes del amanecer y llega cuando abren las puertas, lo que marca la diferencia entre ver el Taj y verlo bien.\n\nCuesta sueño. Todo el que ha hecho las dos cosas dice que merece la pena.\n\n**La carretera**\n\nRecogida en Delhi, Noida o Gurugram en coche privado con aire acondicionado, por la Yamuna Expressway. Tres horas y media con una parada, y la carretera está vacía a esa hora.\n\n**El Taj al amanecer**\n\nLas puertas abren media hora antes del sol. El mármol se vuelve gris, luego rosa, luego blanco frío; en diciembre y enero hay niebla sobre el río detrás de la cúpula.\n\nSu guía cubre lo que se escapa con facilidad, la **caligrafía** labrada en tamaños crecientes para que se lea a la misma altura desde el suelo; las flores de **pietra dura** hechas de decenas de piedras incrustadas; los **alminares** inclinados hacia fuera para que un terremoto los alejara de la tumba; y la única asimetría, el cenotafio de Shah Jahan, añadido fuera de eje por su hijo.\n\n**El Fuerte de Agra**\n\nEl fuerte de arenisca roja de Akbar, de 1565, con los palacios de mármol de Shah Jahan dentro. El **Diwan-i-Am**, el **Sheesh Mahal**, y el **Musamman Burj**, la torre donde Shah Jahan pasó sus últimos ocho años preso de Aurangzeb, mirando río abajo la tumba de su esposa.\n\n**Dos opciones**\n\nCoche privado, conductor y guía; o la versión todo incluido con comidas y todas las entradas cubiertas: 1,300 ₹ por persona en el Taj con el mausoleo, 650 ₹ en el fuerte.\n\n**Práctico**\n\nDoce horas de puerta a puerta, y de verdad, recogida hacia las tres o cuatro de la madrugada según la temporada.\n\n**El Taj cierra los viernes.**\n\nLas mañanas de diciembre y enero en la orilla del río son frías antes de que salga el sol; lleve algo de abrigo aunque la tarde vaya a ser calurosa.",
+  "highlights": [
+   "Sea testigo de la belleza del Taj Mahal al amanecer, cuando su mármol resplandece en tonos cambiantes"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado y conductor profesional",
+   "Recogida y regreso en el hotel o el aeropuerto dentro de Agra",
+   "Guía turístico privado con licencia del gobierno",
+   "Asistencia para entrada sin colas en los monumentos",
+   "Entradas a los monumentos (en la opción elegida)",
+   "Desayuno o comida en un hotel de 5 estrellas (en la opción elegida)",
+   "Agua embotellada y refrescos ligeros",
+   "Trayecto en autobús eléctrico en el Taj Mahal",
+   "Visita opcional a un taller artesano local",
+   "Todos los peajes, aparcamiento, gastos de combustible e impuestos aplicables",
+   "Soporte por WhatsApp dedicado durante toda la visita"
+  ],
+  "notIncluded": [
+   "Gastos personales, propinas y gratificaciones",
+   "Actividades no mencionadas entre lo incluido"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Reserve un guía oficial para recorrer Bengaluru",
   "metaTitle": "Bengaluru con guía: palacios, Lalbagh, templos y bazares",

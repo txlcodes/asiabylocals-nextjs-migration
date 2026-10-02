@@ -5467,6 +5467,60 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "from-delhi-taj-mahal-sunrise-agra-fort-akbars-tomb": {
+  "title": "Ab Delhi: Taj Mahal bei Sonnenaufgang, Agra Fort und Akbars Grab",
+  "metaTitle": "Delhi: Taj bei Sonnenaufgang, Fort und Akbars Grab",
+  "metaDescription": "Taj Mahal bei Sonnenaufgang, Agra Fort und Akbars Grab in Sikandra ab Delhi, mit Option auf Abholung um 2:30 Uhr.",
+  "shortDescription": "Taj Mahal bei Sonnenaufgang, Agra Fort und Akbars Grab in Sikandra ab Delhi, mit Option auf Abholung um 2:30 Uhr.",
+  "fullDescription": "**Drei Mogulgräber, und das dritte ist die Überraschung**\n\nDie meisten Agra-Routen halten bei zwei Monumenten. **Akbars Grab in Sikandra** hinzuzufügen ist das, was die zusätzliche Stunde wert macht, denn hier beginnt die ganze mogulische Architekturgeschichte, und es ist fast niemand dort.\n\n**Abholung**\n\nZwischen 2:30 und 3:00 Uhr für die Sonnenaufgangsfassung, ab Delhi, Noida, Gurugram, Ghaziabad oder Faridabad. Spätere Abholungen sind möglich, wenn der Sonnenaufgang nicht reizt.\n\n**Der Taj bei Sonnenaufgang**\n\nDie Tore öffnen eine halbe Stunde vor der Sonne. Der Marmor wird grau, dann rosa, dann weiß; im Winter liegt Nebel auf der Yamuna hinter der Kuppel.\n\nIhr Guide behandelt die **Kalligrafie**, in wachsenden Größen geschnitten, damit sie vom Boden aus gleich hoch erscheint, die **Pietra-dura**-Einlagen mit bis zu sechzig Steinen pro Blüte, die vier **Minarette**, nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg fallen ließe, und die einzige Asymmetrie im ganzen Bau.\n\n**Agra Fort**\n\nAkbars Stadt aus rotem Sandstein von 1565 mit Shah Jahans Marmor darin, und der **Musamman Burj**, wo er seine letzten acht Jahre als Gefangener Aurangzebs verbrachte, mit dem Taj in Sicht flussabwärts.\n\n**Akbars Grab, Sikandra**\n\nZehn Kilometer nordwestlich. Akbar begann sein eigenes Grab, und sein Sohn Jahangir vollendete es 1613, und es sieht wie nichts anderes in Indien aus: ein fünfstufiger Sandsteinbau mit einem offenen Marmorpavillon obenauf, eher einer buddhistischen Vihara ähnlich als einem Mogulmausoleum.\n\nDer Torbau ist mit weißem Marmor in Mustern eingelegt, die dem Taj zwanzig Jahre vorausgehen. Hirschziegenantilopen und Rehe weiden im 119 Acres (48 Hektar) großen Garten, und Rhesusaffen durchstreifen die Wege, tragen Sie kein Essen offen in der Hand.\n\nAkbar war der Herrscher, der die Steuer auf Nichtmuslime abschaffte, Rajputen-Prinzessinnen heiratete, und Debatten zwischen Hindus, Jains, Jesuiten und Zoroastriern veranstaltete. In seinem Grab zu stehen, nachdem man den Taj gesehen hat, bringt die Dynastie in die richtige Ordnung.\n\n**Vier Optionen**\n\nNur Guide; privater klimatisierter Wagen und Guide; dasselbe mit Eintrittskarten für die Monumente; oder mit Mahlzeiten dazu.\n\n**Der Taj ist freitags geschlossen.**",
+  "highlights": [
+   "Erleben Sie den atemberaubenden Sonnenaufgang am Taj Mahal, wenn der Marmor erstrahlt"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit professionellem Fahrer",
+   "Privater Reiseleiter vor Ort (in Ihrer gewünschten Sprache verfügbar)",
+   "Besuch von Taj Mahal, Agra Fort und Sikandra",
+   "Eintrittskarten für die Monumente (bei gewählter Option)",
+   "Frühstück (Sonnenaufgangstour) oder Mittagessen (Tagestour) in einem 5-Sterne-Hotel (bei gewählter Option)",
+   "Wasser in Flaschen während der Fahrt",
+   "Überschuhe für den Besuch des Taj Mahal",
+   "Regenschirm (auf Anfrage)",
+   "Alle Treibstoffkosten, Mautkosten und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Trinkgelder und Gratifikationen (optional)",
+   "Persönliche Ausgaben (Einkäufe, zusätzliche Mahlzeiten usw.)"
+  ]
+ },
+ "from-delhi-taj-mahal-sunrise-agra-fort-all-inclusi": {
+  "title": "Ab Delhi: Taj Mahal bei Sonnenaufgang und Agra Fort, Komplettpaket",
+  "metaTitle": "Delhi: Taj bei Sonnenaufgang und Agra Fort, Komplettpaket",
+  "metaDescription": "Der Taj Mahal bei Sonnenaufgang und das Agra Fort, Hin- und Rückfahrt ab Delhi im Privatwagen mit Guide. Mahlzeiten und Tickets optional.",
+  "shortDescription": "Der Taj Mahal bei Sonnenaufgang und das Agra Fort, Hin- und Rückfahrt ab Delhi im Privatwagen mit Guide. Mahlzeiten und Tickets optional.",
+  "fullDescription": "**Die Sonnenaufgangsfassung des Delhi-Tagesausflugs**\n\nDer gewöhnliche Tagesausflug erreicht den Taj um zehn Uhr, mit der Menge. Dieser hier verlässt Delhi vor Tagesanbruch und erreicht ihn zur Toröffnung, was den Unterschied ausmacht zwischen den Taj sehen und den Taj richtig sehen.\n\nEs kostet Schlaf. Jeder, der beides gemacht hat, sagt, es lohnt sich.\n\n**Die Fahrt**\n\nAbholung in Delhi, Noida oder Gurugram im privaten klimatisierten Wagen, über die Yamuna Expressway. Dreieinhalb Stunden mit Pause, und die Straße ist zu dieser Stunde leer.\n\n**Der Taj bei Sonnenaufgang**\n\nDie Tore öffnen eine halbe Stunde vor der Sonne. Der Marmor wird grau, dann rosa, dann kalt weiß; im Dezember und Januar liegt Nebel auf dem Fluss hinter der Kuppel.\n\nIhr Guide behandelt, was leicht entgeht, die **Kalligrafie**, in wachsenden Größen geschnitten, damit sie vom Boden aus gleich hoch erscheint; die **Pietra-dura**-Blüten aus Dutzenden eingelegter Steine; die **Minarette**, nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg nähme; und die einzige Asymmetrie, Shah Jahans eigenes Kenotaph, von seinem Sohn außerhalb der Achse hinzugefügt.\n\n**Agra Fort**\n\nAkbars Fort aus rotem Sandstein von 1565 mit Shah Jahans Marmorpalästen darin. Der **Diwan-i-Am**, der **Sheesh Mahal**, und der **Musamman Burj**, der Turm, in dem Shah Jahan seine letzten acht Jahre als Gefangener Aurangzebs verbrachte und flussabwärts auf das Grab seiner Frau blickte.\n\n**Zwei Optionen**\n\nPrivatwagen, Fahrer und Guide; oder die Komplettfassung mit Mahlzeiten und allen Eintrittsgebühren: 1,300 ₹ pro Person am Taj mit Mausoleum, 650 ₹ am Fort.\n\n**Praktisch**\n\nZwölf Stunden von Tür zu Tür, und das wirklich, Abholung je nach Jahreszeit um drei oder vier Uhr morgens.\n\n**Der Taj ist freitags geschlossen.**\n\nDezember- und Januarmorgen am Flussufer sind kalt, bevor die Sonne aufgeht; nehmen Sie eine Lage mit, auch wenn der Nachmittag warm wird.",
+  "highlights": [
+   "Erleben Sie die Schönheit des Taj Mahal bei Sonnenaufgang, wenn sein Marmor in wechselnden Farbtönen leuchtet"
+  ],
+  "included": [
+   "Privater klimatisierter Wagen mit professionellem Fahrer",
+   "Abholung und Rückfahrt am Hotel oder Flughafen innerhalb von Agra",
+   "Staatlich lizenzierter privater Reiseleiter",
+   "Unterstützung beim Einlass ohne Anstehen an den Monumenten",
+   "Eintrittskarten für die Monumente (bei gewählter Option)",
+   "Frühstück oder Mittagessen in einem 5-Sterne-Hotel (bei gewählter Option)",
+   "Wasser in Flaschen und kleine Erfrischungen",
+   "Fahrt mit dem Elektrobus am Taj Mahal",
+   "Optionaler Besuch einer lokalen Handwerkswerkstatt",
+   "Alle Mautkosten, Parkgebühren, Treibstoffkosten und anfallenden Steuern",
+   "Persönlicher WhatsApp-Support während der gesamten Tour"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben, Trinkgelder und Gratifikationen",
+   "Aktivitäten, die nicht unter den Leistungen aufgeführt sind"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Offiziellen Guide für die Erkundung von Bengaluru buchen",
   "metaTitle": "Bengaluru mit Guide: Paläste, Lalbagh, Tempel und Basare",
