@@ -11000,6 +11000,93 @@ export const DE_TOURS: Record<string, TourT> = {
    "Keine"
   ]
  },
+ "delhi-best-customize-delhi-evening-night-tour-with": {
+  "title": "Delhi: beste individuell anpassbare Abend- oder Nachttour mit Führer",
+  "metaTitle": "Delhi: individuelle Abendtour",
+  "metaDescription": "Eine individuell anpassbare Abend- oder Nachttour durch Delhi mit lokalem Führer, nach Wahl Denkmäler, Märkte oder Essen.",
+  "shortDescription": "Eine individuell anpassbare Abend- oder Nachttour durch Delhi mit lokalem Führer, nach Wahl Denkmäler, Märkte oder Essen.",
+  "fullDescription": "**Delhi ist nach Einbruch der Dunkelheit eine bessere Stadt**\n\nDie Hitze lässt nach, die Denkmäler sind beleuchtet, die Märkte laufen bis zehn Uhr abends, und der Verkehr, der einen Tagesreiseplan verdirbt, wird dünner. Fast niemand verkauft eine Abendtour, deshalb lohnt es sich, diese zu kennen.\n\nSie ist außerdem vollständig individuell anpassbar, daher ist das Folgende eher ein Menü als eine feste Route.\n\n**Beleuchtete Denkmäler**\n\n**India Gate** ist abends am schönsten, wenn halb Delhi auf den Rasenflächen Eis isst. **Humayuns Grab** und der **Qutub Minar**-Komplex sind beide von außen angestrahlt. **Akshardham** zeigt seine Wasser- und Lichtshow nach Einbruch der Dunkelheit, beachten Sie, dass **keine Telefone, Kameras oder Taschen** im Inneren erlaubt sind, mit Sicherheitskontrolle auf Flughafenniveau.\n\n**Die Märkte**\n\n**Chandni Chowk** am Abend ist seine beste Version: brodelnde Süßwarenläden, die ganze Straße beleuchtet, und die Menge in voller Lautstärke. **Dilli Haat** vereint Kunsthandwerk aus jedem indischen Bundesstaat unter einem Dach. **Khan Market** und **Connaught Place** für das andere Ende der Stadt.\n\n**Essen**\n\nFalls Sie den Abend um das Essen herum gestalten möchten: **Parathas** in der Paranthe Wali Gali, **Kebabs** in den Gassen hinter der Jama Masjid, Karim's und Al Jawahar stammen beide aus den letzten Tagen der Mogulküchen, Chaat, und **Jalebi mit Rabri** in einem Laden, der schon vor der Teilung existierte.\n\n**Nizamuddin an einem Donnerstag**\n\nFällt Ihr Abend auf einen Donnerstag, fragen Sie nach dem Dargah von Nizamuddin Auliya, wo seit siebenhundert Jahren nach Sonnenuntergang **Qawwali** gesungen wird. Es ist kostenlos, es ist überfüllt, und es ist die außergewöhnlichste Stunde der Stadt.\n\n**Zwei Optionen**\n\nNur Führer, falls Sie einen Transport haben, oder Führer mit Auto.\n\n**Praktisches**\n\nEtwa fünf Stunden. Schuhe aus und Kopf bedeckt am Dargah; Frauen sollten einen Schal mitnehmen.\n\nNehmen Sie ein Taxi zurück statt zu laufen. Delhi um Mitternacht ist ausreichend sicher, aber es ist zu dieser Stunde keine Stadt zum Spazieren.",
+  "highlights": [
+   "Gestalten Sie Ihren eigenen Reiseplan, besuchen Sie die Sehenswürdigkeiten, die Sie am meisten interessieren"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto",
+   "Erfahrener lokaler Führer",
+   "Flexible Startzeit und anpassbarer Reiseplan",
+   "Abholung und Rückbringung zum Hotel inklusive"
+  ],
+  "notIncluded": [
+   "Getränke"
+  ]
+ },
+ "delhi-bollywood-dance-classes-tour": {
+  "title": "Delhi: Bollywood-Tanzkurs",
+  "metaTitle": "Bollywood-Tanzkurs in Delhi",
+  "metaDescription": "Ein zweistündiger Bollywood-Tanzkurs in Delhi mit Kostümen, Bhangra, Garba und Film-Choreografie.",
+  "shortDescription": "Ein zweistündiger Bollywood-Tanzkurs in Delhi mit Kostümen, Bhangra, Garba und Film-Choreografie.",
+  "fullDescription": "**Zwei Stunden, und Sie werden morgen Muskelkater haben**\n\nEin richtiger Kurs mit einem Choreografen statt einer Fotogelegenheit. Sie kleiden sich in Bollywood-Kostüm, Pailletten, Dupattas, alles, und lernen echte Choreografien.\n\n**Was Sie lernen werden**\n\n**Bhangra**, aus Punjab: von den Schultern angetrieben, Arme hoch, und deutlich aerober, als es aussieht. Es begann als Erntetanz, und die Energie ist wichtiger als die Präzision.\n\n**Garba**, aus Gujarat: kreisförmig, in einem Ring ausgeführt, mit Klatschen und Drehungen, die sich im Tempo steigern. Während Navratri machen ganze Städte dies neun Nächte lang.\n\nUnd **Film-Choreografie**, was Menschen tatsächlich mit Bollywood-Tanz meinen, ein Hybrid aus klassischen indischen Formen, Folklore, Jazz und Hip-Hop, der sich alle paar Jahre ändert und sofort wiedererkennbar ist.\n\nIhr Lehrer wird eine Choreografie Schritt für Schritt zu einem Lied aufschlüsseln, das Sie wahrscheinlich kennen, und am Ende der zwei Stunden haben Sie etwas, das Sie von Anfang bis Ende tanzen können.\n\n**Warum es interessanter ist, als es klingt**\n\nIndischer Filmtanz ist den Filmen nicht beiläufig beigefügt, er trägt die Handlung, und das Vokabular ist aus **Kathak** und **Bharatanatyam** entlehnt, die zweitausend Jahre alt sind. Die Handpositionen, die Ihnen gezeigt werden, sind Mudras mit echten Bedeutungen, und ein guter Lehrer wird Ihnen sagen, welche.\n\n**Für wen es geeignet ist**\n\nKeine Tanzerfahrung nötig und keine erwartet. Familien, Paare, Freundesgruppen, und Alleinreisende, denen es nichts ausmacht, sich eine Weile albern zu fühlen, was den größten Teil des Spaßes ausmacht.\n\nKinder gewöhnen sich ausnahmslos schneller daran als Erwachsene.\n\n**Praktisches**\n\nZwei Stunden, Kostüme werden gestellt.\n\nTragen Sie darunter etwas, in dem Sie sich bewegen können, und bringen Sie Turnschuhe mit oder gehen Sie barfuß, der Boden ist ein gefederter Studioboden, kein Stein.\n\nBringen Sie Wasser mit. Delhis Studios sind klimatisiert, aber zwei Stunden Bhangra sind zwei Stunden Bhangra.\n\nFotos und Videos werden in der Regel gemacht und anschließend zugesandt.",
+  "highlights": [
+   "2-stündige, vergnügliche Bollywood-Tanzsession in Delhi"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel",
+   "2-stündige Bollywood-Tanzsession",
+   "Professioneller Tanzlehrer",
+   "Bollywood-Kostüm für den Kurs",
+   "Musik und Studioausstattung",
+   "Privater YouTube-Videolink Ihrer Darbietung"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Mahlzeiten",
+   "Trinkgelder",
+   "Fotografie oder Videografie außerhalb des bereitgestellten YouTube-Videos"
+  ]
+ },
+ "delhi-designer-threads-hidden-workshops-tour": {
+  "title": "Delhi: Designerstoffe und versteckte Werkstätten",
+  "metaTitle": "Delhi: Mode und versteckte Schneiderwerkstätten",
+  "metaDescription": "Ein geführter Tag durch Delhis Designstudios, Stoffmärkte und Schneiderwerkstätten mit einem Modeberater.",
+  "shortDescription": "Ein geführter Tag durch Delhis Designstudios, Stoffmärkte und Schneiderwerkstätten mit einem Modeberater.",
+  "fullDescription": "**Delhi ist der Ort, an dem ein großer Teil Ihrer Kleidung hergestellt wurde**\n\nDer Bekleidungshandel der Stadt reicht von riesigen Exportbetrieben, die europäische Marken versorgen, bis zu Einraum-Werkstätten mit drei Nähmaschinen, und er ist für Besucher fast völlig unsichtbar. Dieser Tag geht mit jemandem, der darin arbeitet, hinein.\n\n**Wie es abläuft**\n\nEin später Vormittagsstart bei Chai, während Ihr Berater herausfindet, was Sie wirklich wollen, Beschaffung, etwas Angefertigtes bestellen, fertige Stücke kaufen, oder einfach sehen, wie es gemacht wird.\n\nDer Tag baut sich dann darum auf, statt um eine feste Route.\n\n**Die Werkstätten**\n\nKleine Studios, in denen handgearbeitet wird: **Chikankari**-Schattenstickerei aus Lucknow, **Zardozi**-Metallfadenarbeit für Brautkleidung, Blockdruck, und Handfärbung.\n\nSie sehen den tatsächlichen Prozess, was ändert, was Sie dafür zu zahlen bereit sind, ein handbesticktes Feld bedeutet Wochen der Augen einer Person.\n\n**Die Stoffmärkte**\n\nWo der Handel einkauft: Rohseide, Khadi, Leinen, Brokat und handgewebte Baumwolle am Meter, zu Großhandels- statt Boutiquepreisen. Ihr Berater weiß, welche Stände tatsächlich verkaufen, was sie behaupten zu verkaufen.\n\n**Schneiderei**\n\nDelhis Schneider schneiden und nähen nach Maß in zwei oder drei Tagen, und das ist der nützliche Teil für jeden, der Zeit in der Stadt hat. Sie wählen Stoff, lassen sich vermessen und holen vor Ihrer Abreise ab.\n\nBringen Sie ein Foto von dem, was Sie wollen, oder ein Kleidungsstück, das gut passt, zum Kopieren mit, das funktioniert besser als eine Beschreibung.\n\n**Die Designer**\n\nJe nach Tag Studios in Shahpur Jat, Hauz Khas oder Lado Sarai, die Innenhöfe, in denen unabhängige indische Designer tatsächlich arbeiten, die meisten hinter unbeschrifteten Türen.\n\n**Zwei Optionen**\n\nViereinhalb Stunden, oder ein ganzer Tag.\n\n**Praktisches**\n\nPrivater Transport und ein Modeberater durchgehend.\n\nWas Sie kaufen oder bestellen, zahlen Sie selbst; nichts ist inklusive, und Ihr Berater nimmt keine Provision von den Werkstätten.",
+  "highlights": [
+   "Entdecken Sie Delhis kreative Seite mit einem persönlichen Modeberater"
+  ],
+  "included": [
+   "Persönlicher Modeberater",
+   "Besuche in Boutique-Studios und Designerräumen",
+   "Treffen mit weniger bekannten Designern und Kunsthandwerkern",
+   "Besuche bei hochwertigen Stoffläden und Textilhäusern",
+   "Persönliche Stilberatung"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke",
+   "Kosten für Stoffe und Maßkleidung",
+   "Trinkgelder für Fahrer und Führer"
+  ]
+ },
+ "delhi-factory-and-wholesale-market-tour-with-lunch": {
+  "title": "Delhi: Fabrik- und Großhandelsmarkt-Tour mit Mittagessen",
+  "metaTitle": "Delhi: Textilfabriken und Gewürzmarkt",
+  "metaDescription": "Eine geführte Tour durch Delhis Textilfabriken und Gewürz-Großhandelsmärkte, für Einkäufer, mit Mittagessen und Privatwagen.",
+  "shortDescription": "Eine geführte Tour durch Delhis Textilfabriken und Gewürz-Großhandelsmärkte, für Einkäufer, mit Mittagessen und Privatwagen.",
+  "fullDescription": "**Diese ist für Einkäufer**\n\nKeine Besichtigungstour. Es ist ein Arbeitsbesuch in Delhis Fertigungs- und Großhandel, geeignet für Importeure, kleine Marken, Designer, die Stoffe beschaffen, und jeden, der verstehen will, wie die Waren auf indischen Märkten tatsächlich dorthin kommen.\n\nWenn Sie Denkmäler wollen, buchen Sie etwas anderes.\n\n**Die Textilbetriebe**\n\n**Gandhi Nagar** und **Shanti Mohalla** im Osten von Delhi, nach manchen Zählungen Asiens größter Bekleidungsmarkt, und dessen kleinmaßstäbliches Ende: Stoffdruck-, Färbe- und Stickwerkstätten, Verarbeitung von Baumwolle, Viskose und Leinen, Massenzuschnitt, und Nähetagen.\n\nSie können direkt mit Betriebseigentümern über Mindestbestellmengen, Preise und Lieferzeiten sprechen. Dieses Gespräch ist der Zweck der Tour, und Ihr Führer übersetzt bei Bedarf.\n\nAm Exportende halten **Okhla Phase 1 und 2** die größeren Bekleidungsfabriken, die europäische und amerikanische Marken versorgen.\n\n**Khari Baoli**\n\nDer Gewürzmarkt, der größte Asiens, seit den 1600er Jahren handelnd in einer Straße, kaum breit genug für einen Handwagen.\n\nSäcke mit Kurkuma, Kardamom, getrockneten Chilis, Asant und Safran, drei Meter hoch gestapelt, mit den Großhandelspreisen auf Tafeln geschrieben. Die getrockneten Chili-Abschnitte lassen Sie husten, und die Händler werden das lustig finden.\n\nHier kauft jedes Geschäft in Nordindien, was bedeutet, dass die Preise, die Sie sehen, die echten sind.\n\n**Möbel und andere Branchen**\n\nJe nach Interesse kann der Tag Möbelwerkstätten und andere Großhandelslinien statt Textilien umfassen.\n\n**Vier Optionen**\n\nNur ein Besuch der Textilfabrik; nur der Gewürzmarkt; beide ohne Mittagessen; oder beide mit Mittagessen inklusive.\n\n**Praktisches**\n\nPrivater Wagen mit Fahrer und Führer durchgehend, ab Abholung vom Hotel.\n\nBringen Sie Karten mit, falls Sie beschaffen, und ein Notizbuch. Fabrikböden sind heiß, laut und staubig, kleiden Sie sich entsprechend und tragen Sie geschlossene Schuhe.\n\nWas Sie kaufen, ist nicht inklusive, und Ihr Führer nimmt keine Provision von den Betrieben.",
+  "highlights": [
+   "Entdecken Sie Delhis Industriezweige, einschließlich Textilien und Gewürze"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel",
+   "Besuch der Textilbetriebe",
+   "Besuch des Gewürzmarkts",
+   "Besuch der Möbelherstellungswerkstätten",
+   "Mittagessen in einem nordindischen Restaurant",
+   "B2B-Austauschtreffen"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Einkaufskosten"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

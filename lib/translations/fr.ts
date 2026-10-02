@@ -11000,6 +11000,93 @@ export const FR_TOURS: Record<string, TourT> = {
    "Aucune"
   ]
  },
+ "delhi-best-customize-delhi-evening-night-tour-with": {
+  "title": "Delhi : meilleure visite du soir ou de nuit personnalisable avec guide",
+  "metaTitle": "Delhi : visite du soir personnalisable",
+  "metaDescription": "Une visite personnalisable du soir ou de nuit de Delhi avec un guide local, au choix monuments, marchés ou gastronomie.",
+  "shortDescription": "Une visite personnalisable du soir ou de nuit de Delhi avec un guide local, au choix monuments, marchés ou gastronomie.",
+  "fullDescription": "**Delhi est une meilleure ville après la tombée de la nuit**\n\nLa chaleur baisse, les monuments sont illuminés, les marchés fonctionnent jusqu'à vingt-deux heures, et la circulation qui gâche un itinéraire de jour se raréfie. Presque personne ne vend une visite du soir, c'est pourquoi celle-ci vaut la peine d'être connue.\n\nElle est aussi entièrement personnalisable, donc le programme ci-dessous est un menu plutôt qu'un itinéraire fixe.\n\n**Les monuments illuminés**\n\n**India Gate** est à son meilleur le soir, quand la moitié de Delhi est sur les pelouses à manger des glaces. Le **tombeau de Humayun** et le complexe de **Qutub Minar** sont tous deux illuminés depuis l'extérieur. **Akshardham** organise son spectacle d'eau et de lumière après la tombée de la nuit, notez qu'**aucun téléphone, appareil photo ni sac** n'est autorisé à l'intérieur, avec une sécurité de niveau aéroport.\n\n**Les marchés**\n\n**Chandni Chowk** le soir est sa meilleure version : les confiseries qui frisent, toute la rue illuminée, et la foule à plein volume. **Dilli Haat** réunit l'artisanat de tous les états indiens sous un même toit. **Khan Market** et **Connaught Place** pour l'autre facette de la ville.\n\n**La gastronomie**\n\nSi vous voulez une soirée organisée autour de la nourriture : des **parathas** à Paranthe Wali Gali, des **kebabs** dans les ruelles derrière la Jama Masjid, Karim's et Al Jawahar datent tous deux des derniers jours des cuisines mogholes, du chaat, et du **jalebi avec rabri** dans une boutique qui existe depuis avant la Partition.\n\n**Nizamuddin un jeudi**\n\nSi votre soirée tombe un jeudi, demandez le dargah de Nizamuddin Auliya, où le **qawwali** est chanté après le coucher du soleil depuis sept cents ans. C'est gratuit, c'est bondé, et c'est l'heure la plus extraordinaire de la ville.\n\n**Deux options**\n\nGuide seul, si vous avez un moyen de transport, ou guide avec voiture.\n\n**Pratique**\n\nEnviron cinq heures. Chaussures retirées et tête couverte au dargah ; les femmes devraient porter une écharpe.\n\nPrenez un taxi pour rentrer plutôt que de marcher. Delhi à minuit est assez sûre mais ce n'est pas une ville où marcher à cette heure.",
+  "highlights": [
+   "Concevez votre propre itinéraire, visitez les sites qui vous intéressent le plus"
+  ],
+  "included": [
+   "Voiture privée climatisée",
+   "Guide local expérimenté",
+   "Horaire de départ flexible et itinéraire personnalisable",
+   "Prise en charge et retour à l'hôtel inclus"
+  ],
+  "notIncluded": [
+   "Boissons"
+  ]
+ },
+ "delhi-bollywood-dance-classes-tour": {
+  "title": "Delhi : cours de danse Bollywood",
+  "metaTitle": "Cours de danse Bollywood à Delhi",
+  "metaDescription": "Un cours de danse Bollywood de deux heures à Delhi avec costumes, bhangra, garba et chorégraphie de film.",
+  "shortDescription": "Un cours de danse Bollywood de deux heures à Delhi avec costumes, bhangra, garba et chorégraphie de film.",
+  "fullDescription": "**Deux heures, et vous aurez mal demain**\n\nUn vrai cours avec un chorégraphe plutôt qu'une occasion photo. Vous vous habillez en costume de style Bollywood, paillettes, dupattas, le tout, et apprenez de vraies chorégraphies.\n\n**Ce que vous apprendrez**\n\nLe **bhangra**, du Pendjab : mouvement des épaules, bras levés, et bien plus aérobique qu'il ne paraît. Il a commencé comme une danse des récoltes, et l'énergie compte plus que la précision.\n\nLe **garba**, du Gujarat : circulaire, exécuté en cercle, avec les applaudissements et les tours qui accélèrent le tempo. Pendant Navratri, des villes entières le font neuf nuits de suite.\n\nEt la **chorégraphie de film**, ce que l'on entend réellement par danse Bollywood, un hybride de formes classiques indiennes, de folklore, de jazz et de hip-hop qui change tous les quelques années et reste instantanément reconnaissable.\n\nVotre instructeur décomposera une chorégraphie pas à pas sur une chanson que vous connaissez probablement, et après deux heures vous aurez quelque chose que vous pourrez exécuter du début à la fin.\n\n**Pourquoi c'est plus intéressant qu'il n'y paraît**\n\nLa danse du cinéma indien n'est pas accessoire aux films, elle porte l'intrigue, et le vocabulaire est emprunté au **kathak** et au **bharatanatyam**, qui ont deux mille ans. Les positions de mains que vous apprendrez sont des mudras avec de vraies significations, et un bon instructeur vous dira lesquelles.\n\n**Pour qui c'est fait**\n\nAucune expérience de danse nécessaire, et aucune attendue. Familles, couples, groupes d'amis, et voyageurs solo qui n'ont pas peur d'avoir l'air ridicule un moment, ce qui fait une grande partie du plaisir.\n\nLes enfants l'apprennent plus vite que les adultes, sans exception.\n\n**Pratique**\n\nDeux heures, costumes fournis.\n\nPortez quelque chose dans lequel vous pouvez bouger en dessous, et apportez des baskets ou allez pieds nus, le sol est un parquet de studio à ressorts, pas de la pierre.\n\nApportez de l'eau. Les studios de Delhi sont climatisés, mais deux heures de bhangra restent deux heures de bhangra.\n\nDes photos et vidéos sont généralement prises et envoyées ensuite.",
+  "highlights": [
+   "Séance de danse Bollywood ludique de 2 heures à Delhi"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Séance de danse Bollywood de 2 heures",
+   "Instructeur de danse professionnel",
+   "Costume de style Bollywood pour le cours",
+   "Musique et installation en studio",
+   "Lien vidéo YouTube privé de votre performance"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Repas",
+   "Pourboires",
+   "Photographie ou vidéographie en dehors de la vidéo YouTube fournie"
+  ]
+ },
+ "delhi-designer-threads-hidden-workshops-tour": {
+  "title": "Delhi : fils de créateur et ateliers cachés",
+  "metaTitle": "Delhi : mode et ateliers de couture cachés",
+  "metaDescription": "Une journée guidée dans les studios de design, marchés de tissus et ateliers de couture de Delhi avec un consultant mode.",
+  "shortDescription": "Une journée guidée dans les studios de design, marchés de tissus et ateliers de couture de Delhi avec un consultant mode.",
+  "fullDescription": "**Delhi est l'endroit où une grande partie de votre garde-robe a été fabriquée**\n\nLe commerce textile de la ville va de vastes unités d'exportation fournissant des marques européennes à des ateliers d'une seule pièce avec trois machines à coudre, et il est presque entièrement invisible aux visiteurs. Cette journée y plonge avec quelqu'un qui y travaille.\n\n**Comment ça se déroule**\n\nUn départ en fin de matinée autour d'un chai pendant que votre consultant détermine ce que vous voulez vraiment, sourcer, commander une pièce sur mesure, acheter des pièces finies, ou simplement voir comment cela se fait.\n\nLa journée se construit alors autour de cela plutôt que selon un itinéraire fixe.\n\n**Les ateliers**\n\nDe petits studios où le travail se fait à la main : la broderie **chikankari** à ombre de Lucknow, le travail au fil métallique **zardozi** destiné aux tenues de mariée, l'impression à la planche, et la teinture à la main.\n\nVous observez le processus réel, ce qui change ce que vous êtes prêt à payer pour cela, un panneau brodé à la main représente des semaines pour la vue d'une seule personne.\n\n**Les marchés de tissus**\n\nOù le commerce achète : soie brute, khadi, lin, brocart et coton tissé à la main au mètre, à des prix de gros plutôt que de boutique. Votre consultant sait quels étals vendent vraiment ce qu'ils prétendent vendre.\n\n**La couture sur mesure**\n\nLes tailleurs de Delhi coupent et cousent sur mesure en deux ou trois jours, et c'est la partie utile pour qui a du temps dans la ville. Vous choisissez le tissu, prenez vos mesures, et récupérez avant de partir.\n\nApportez une photo de ce que vous voulez, ou un vêtement qui vous va bien à copier, cela fonctionne mieux que de le décrire.\n\n**Les créateurs**\n\nSelon le jour, des studios à Shahpur Jat, Hauz Khas ou Lado Sarai, les cours où les créateurs indiens indépendants travaillent réellement, la plupart derrière des portes sans enseigne.\n\n**Deux options**\n\nQuatre heures et demie, ou une journée complète.\n\n**Pratique**\n\nTransport privé et consultant mode tout au long.\n\nTout ce que vous achetez ou commandez reste à votre charge ; rien n'est inclus, et votre consultant ne prend aucune commission auprès des ateliers.",
+  "highlights": [
+   "Découvrez le côté créatif de Delhi avec un consultant mode personnel"
+  ],
+  "included": [
+   "Consultant mode personnel",
+   "Visites de studios boutique et d'espaces de créateurs",
+   "Rencontres avec des créateurs et artisans moins connus",
+   "Visites de magasins de tissus et de maisons textiles haut de gamme",
+   "Conseils de style personnalisés"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "Coût des tissus et des vêtements sur mesure",
+   "Pourboires pour le chauffeur et le guide"
+  ]
+ },
+ "delhi-factory-and-wholesale-market-tour-with-lunch": {
+  "title": "Delhi : visite d'usines et de marchés de gros avec déjeuner",
+  "metaTitle": "Delhi : usines textiles et marché aux épices",
+  "metaDescription": "Une visite guidée des usines textiles et des marchés d'épices de gros de Delhi, conçue pour les acheteurs, avec déjeuner et voiture privée.",
+  "shortDescription": "Une visite guidée des usines textiles et des marchés d'épices de gros de Delhi, conçue pour les acheteurs, avec déjeuner et voiture privée.",
+  "fullDescription": "**Celle-ci est pour les acheteurs**\n\nCe n'est pas une visite touristique. C'est une visite de travail dans le secteur manufacturier et de gros de Delhi, adaptée aux importateurs, petites marques, créateurs cherchant du tissu, et à quiconque veut comprendre comment les marchandises des marchés indiens y arrivent réellement.\n\nSi vous voulez des monuments, réservez autre chose.\n\n**Les unités textiles**\n\n**Gandhi Nagar** et **Shanti Mohalla** dans l'est de Delhi, le plus grand marché de vêtements d'Asie selon certains calculs, et son versant à petite échelle : ateliers d'impression, de teinture et de broderie de tissus, traitement du coton, de la rayonne et du lin, coupe en gros, et étages de couture.\n\nVous pouvez parler directement aux propriétaires d'unités des quantités minimales de commande, des prix et des délais. Cette conversation est le but de la visite, et votre guide interprétera si nécessaire.\n\nÀ l'extrémité exportation, **Okhla Phase 1 et 2** abritent les plus grandes usines de vêtements qui fournissent les marques européennes et américaines.\n\n**Khari Baoli**\n\nLe marché aux épices, le plus grand d'Asie, commerçant depuis les années 1600 dans une rue à peine assez large pour une charrette à bras.\n\nDes sacs de curcuma, de cardamome, de piment séché, d'assafoetida et de safran empilés sur trois mètres de hauteur, avec les tarifs de gros écrits à la craie sur des tableaux. Les sections de piment séché vous feront tousser, et les commerçants trouveront cela amusant.\n\nC'est là que chaque magasin du nord de l'Inde achète, ce qui signifie que les prix que vous voyez sont les vrais.\n\n**Mobilier et autres secteurs**\n\nSelon votre intérêt, la journée peut inclure des ateliers de mobilier et d'autres filières de gros plutôt que le textile.\n\n**Quatre options**\n\nUne visite d'usine textile seule ; le marché aux épices seul ; les deux sans déjeuner ; ou les deux avec déjeuner inclus.\n\n**Pratique**\n\nVoiture privée avec chauffeur et guide tout au long, depuis la prise en charge à l'hôtel.\n\nApportez des cartes si vous sourcez, et un carnet. Les ateliers d'usine sont chauds, bruyants et poussiéreux, habillez-vous en conséquence et portez des chaussures fermées.\n\nRien de ce que vous achetez n'est inclus, et votre guide ne prend aucune commission auprès des unités.",
+  "highlights": [
+   "Découvrez les secteurs industriels de Delhi, dont le textile et les épices"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Visite d'unités textiles",
+   "Visite du marché aux épices",
+   "Visite d'ateliers de fabrication de mobilier",
+   "Déjeuner dans un restaurant du nord de l'Inde",
+   "Rencontre d'affaires B2B"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Frais de shopping"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
