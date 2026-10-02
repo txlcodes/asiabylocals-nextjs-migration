@@ -10295,6 +10295,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier gasto personal"
   ]
  },
+ "6-nights-7-days-delhi-agra-jaipur-amritsar-tour": {
+  "title": "Delhi, Agra, Jaipur, Amritsar en 7 días (6 noches)",
+  "metaTitle": "Delhi-Agra-Jaipur-Amritsar en 7 días",
+  "metaDescription": "Siete días entre Delhi, Agra, Jaipur y Amritsar, monumentos mogoles y el Templo Dorado, con coche privado y guías.",
+  "shortDescription": "Siete días entre Delhi, Agra, Jaipur y Amritsar, monumentos mogoles y el Templo Dorado, con coche privado y guías.",
+  "fullDescription": "**Dos mitades muy distintas**\n\nLos primeros cuatro días son la India mogol y rajput: tumbas, fuertes, palacios. Los dos últimos son el Punyab sij, que se siente como otro país. Ese contraste es la razón para hacer siete días en lugar de cinco.\n\n**Delhi**\n\nLa **Jama Masjid** y un recorrido en rickshaw de pedales por **Chandni Chowk**, trazada en la década de 1650 con un canal en medio que reflejaba la luz de la luna. Luego **India Gate**, la **tumba de Humayun**, la tumba-jardín de la década de 1560 sobre la que se modeló el Taj, y **Qutub Minar** con el pilar de hierro que no se ha oxidado en dieciséis siglos.\n\n**Agra**\n\nEl **Taj Mahal**, idealmente al amanecer, y el **Fuerte de Agra** con la torre donde Aurangzeb encerró a su padre a la vista de la tumba que había construido.\n\n**Fatehpur Sikri** en el camino hacia el oeste, la capital de Akbar de 1571, abandonada cuando faltó el agua y conservada por eso.\n\n**Jaipur**\n\nEl **Fuerte Amber** sobre el lago Maota, el **City Palace**, los instrumentos de piedra del **Jantar Mantar** y la fachada del **Hawa Mahal**, 953 ventanas. Una noche en los bazares, donde de verdad trabajan los lapidarios y fabricantes de pulseras de la ciudad.\n\n**Amritsar**\n\nEl **Templo Dorado** es el centro de la fe sij, un santuario dorado sobre una calzada en medio de un estanque, abierto por los cuatro lados para significar que cualquiera puede venir desde cualquier dirección. Funciona día y noche, y su cocina alimenta gratis cada día a entre cincuenta mil y cien mil personas, cocinado y servido enteramente por voluntarios. Puede unirse a ellos.\n\n**Jallianwala Bagh** está justo al lado: el jardín amurallado donde las tropas británicas dispararon en 1919 contra una multitud desarmada atrapada. Las marcas de bala siguen en el muro. Veinte minutos, y el lugar más sobrecogedor del Punyab.\n\nLa **frontera de Wagah**, a 28 km, celebra cada tarde la ceremonia de arriar la bandera, patadas altas competitivas entre guardias indios y pakistaníes frente a las gradas llenas en ambos lados.\n\n**En el Templo Dorado**: cabeza cubierta, zapatos fuera, pies lavados en la entrada. Hay pañuelos gratis en la puerta.",
+  "highlights": [
+   "Visita guiada de 7 días por Delhi, Agra, Jaipur y Amritsar."
+  ],
+  "included": [
+   "Recogida y regreso en el hotel o el aeropuerto",
+   "Coche privado con aire acondicionado y conductor para toda la visita",
+   "Guía turístico profesional en cada ciudad",
+   "6 noches de alojamiento en hotel (en la opción elegida)",
+   "Desayuno en el hotel (en la opción elegida)",
+   "Botella de agua mineral",
+   "Todos los peajes y gastos de aparcamiento"
+  ],
+  "notIncluded": [
+   "Entradas a los monumentos",
+   "Comida y cena",
+   "Cualquier gasto personal"
+  ]
+ },
+ "7-day-golden-triangle-india-tour-with-udaipur-from": {
+  "title": "Triángulo de Oro de la India en 7 días con Udaipur, desde Delhi",
+  "metaTitle": "Triángulo de Oro y Udaipur en 7 días desde Delhi",
+  "metaDescription": "Siete días desde Delhi pasando por Agra y Jaipur hasta Udaipur, con guía autorizado por el gobierno y transporte privado.",
+  "shortDescription": "Siete días desde Delhi pasando por Agra y Jaipur hasta Udaipur, con guía autorizado por el gobierno y transporte privado.",
+  "fullDescription": "**Donde el itinerario cambia de carácter**\n\nLos primeros cuatro días son el Triángulo de Oro: arenisca, fuertes, luz de desierto. Udaipur es lagos, mármol blanco y colinas verdes, y llegar allí el quinto día es el cambio de marcha más satisfactorio de Rajastán.\n\n**Delhi**\n\n**India Gate**, **Qutub Minar** con su pilar de hierro sin óxido, la **tumba de Humayun**, la tumba-jardín mogol de la década de 1560 de cuyo recuerdo se construyó el Taj, y la **Jama Masjid** y **Chandni Chowk** de la vieja Delhi.\n\n**Agra**\n\nEl **Taj Mahal**, idealmente al amanecer, con un guía autorizado por el gobierno. Shah Jahan lo empezó en 1632, después de morir Mumtaz Mahal al dar a luz a su decimocuarto hijo; veintidós años y veinte mil obreros.\n\nEl **Fuerte de Agra** y el **Musamman Burj**, donde Aurangzeb lo encerró los últimos ocho años de su vida con vista a la tumba a lo largo del río.\n\n**Fatehpur Sikri** en el camino hacia el oeste.\n\n**Jaipur**\n\nEl **Fuerte Amber** en su cresta, el **City Palace**, el **Jantar Mantar** y el **Hawa Mahal**, con tiempo en los bazares donde de verdad trabajan los lapidarios y fabricantes de pulseras de la ciudad.\n\n**Udaipur**\n\nEl viaje hacia el sur es largo, unos 400 km, y el paisaje se eleva hacia los Aravalli por el camino.\n\nEl **City Palace** se extiende casi un kilómetro junto al lago Pichola, el mayor complejo palaciego de Rajastán, levantado por partes por veintidós gobernantes a lo largo de cuatrocientos años.\n\nEl **templo de Jagdish**, de 1651, treinta y dos escalones más allá de elefantes de piedra, animado por fieles en cada aarti. **Saheliyon ki Bari**, el jardín de fuentes y elefantes de mármol construido para las cuarenta y ocho damas de compañía de una reina.\n\nY un paseo en barca por el lago al atardecer, con el Lake Palace flotando en medio y las colinas aplanándose detrás, la imagen con la que la gente vuelve a casa.\n\n**Dos opciones**\n\nSolo guía y transporte con aire acondicionado, o con hoteles de cuatro estrellas incluidos.\n\n**El Taj cierra los viernes.**",
+  "highlights": [
+   "Visite 4 ciudades históricas: Delhi, Agra, Jaipur y Udaipur."
+  ],
+  "included": [
+   "Recogida y regreso en el hotel o el aeropuerto",
+   "Coche privado con aire acondicionado y conductor para toda la visita",
+   "Guía turístico profesional en cada ciudad",
+   "6 noches de alojamiento en hotel de 4 estrellas (en la opción elegida)",
+   "Desayuno en el hotel (en la opción elegida)",
+   "Botella de agua mineral",
+   "Todos los peajes y gastos de aparcamiento"
+  ],
+  "notIncluded": [
+   "Entradas a los monumentos",
+   "Comida y cena",
+   "Cualquier gasto personal"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
