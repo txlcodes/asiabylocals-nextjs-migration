@@ -5371,6 +5371,55 @@ export const FR_TOURS: Record<string, TourT> = {
    "Tout ce qui n'est pas mentionné dans les prestations incluses."
   ]
  },
+ "from-delhi-taj-mahal-agra-trip-by-gatimaan-express": {
+  "title": "Depuis Delhi : Taj Mahal et Agra en train Gatimaan Express",
+  "metaTitle": "Delhi-Agra en Gatimaan Express : Taj Mahal avec guide",
+  "metaDescription": "Agra en une journée depuis Delhi en Gatimaan Express, voiture-salon ou classe affaires, voiture privée et guide.",
+  "shortDescription": "Agra en une journée depuis Delhi en Gatimaan Express, voiture-salon ou classe affaires, voiture privée et guide.",
+  "fullDescription": "**Prise en charge à 6h, départ à 8h10, Agra avant dix heures**\n\nLe **Gatimaan Express** relie Delhi à Agra à 160 km/h, le train le plus rapide d'Inde, cent minutes, avec rafraîchissements servis à la place. Il transforme un trajet de quatre heures dans chaque sens en quelque chose qu'on remarque à peine.\n\n**Le matin**\n\nPrise en charge à votre hôtel ou à votre résidence à Delhi, puis la gare de Hazrat Nizamuddin. Places réservées climatisées, petit-déjeuner à bord.\n\n**À Agra**\n\nUne voiture privée climatisée et un guide local agréé vous retrouvent à Agra Cantt.\n\n**Taj Mahal** d'abord. Shah Jahan l'a commencé en 1632, l'année suivant la mort de Mumtaz Mahal en donnant naissance à leur quatorzième enfant ; vingt mille ouvriers, vingt-deux ans, du marbre acheminé sur 400 km depuis Makrana, au Rajasthan.\n\nCe qu'un guide vous apporte ici, c'est le savoir-faire plutôt que la romance : la **calligraphie** du grand arc, gravée en lettres de plus en plus grandes pour se lire d'une hauteur égale depuis le sol ; la **pietra dura**, avec jusqu'à soixante pierres dans une seule fleur incrustée ; les quatre **minarets**, légèrement inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau ; et l'illusion à la porte, où l'édifice semble rétrécir à mesure qu'on avance.\n\nEt la seule asymétrie d'une composition parfaitement symétrique, le cénotaphe de Shah Jahan lui-même, placé hors de l'axe central par Aurangzeb.\n\n**Le fort d'Agra** ensuite : la ville de grès rouge d'Akbar, 1565, avec les palais de marbre de son petit-fils à l'intérieur, et le **Musamman Burj** où ce petit-fils a passé ses huit dernières années prisonnier de son propre fils.\n\nDéjeuner, puis le Gatimaan du soir pour rentrer à Delhi.\n\n**Trois options**\n\nVoiture-salon avec voiture et guide ; voiture-salon tout compris avec billets et déjeuner ; ou voiture-salon classe affaires tout compris.\n\n**Pratique**\n\nEnviron douze heures de porte à porte. Le Gatimaan ne circule pas le vendredi, qui est aussi le jour de fermeture du Taj.\n\nLes places sont limitées et mises en vente à date fixe : réservez tôt, et emportez le passeport utilisé pour la réservation.",
+  "highlights": [
+   "Train Gatimaan Express rapide jusqu'à Agra en seulement 1 heure 40 de trajet"
+  ],
+  "included": [
+   "Billets de train Gatimaan Express (Delhi-Agra-Delhi)",
+   "Véhicule privé climatisé pour les visites à Agra",
+   "Guide expert anglophone pour le Taj Mahal, le Baby Taj et le fort d'Agra",
+   "Prise en charge et retour depuis votre hôtel ou adresse à Delhi",
+   "Droits d'entrée du Taj Mahal, du Baby Taj et du fort d'Agra (selon l'option choisie)",
+   "Rafraîchissements à bord du Gatimaan Express",
+   "Déjeuner dans un restaurant local"
+  ],
+  "notIncluded": [
+   "Pourboires et gratifications pour le guide ou le chauffeur",
+   "Dépenses personnelles (souvenirs, achats, etc.)"
+  ]
+ },
+ "from-delhi-taj-mahal-day-trip-with-traditional-ind": {
+  "title": "Depuis Delhi : excursion au Taj Mahal avec déjeuner indien traditionnel",
+  "metaTitle": "Delhi-Taj Mahal : journée avec déjeuner indien traditionnel",
+  "metaDescription": "Une journée complète à Agra depuis Delhi avec voiture privée, guide, billets d'entrée et un déjeuner indien traditionnel.",
+  "shortDescription": "Une journée complète à Agra depuis Delhi avec voiture privée, guide, billets d'entrée et un déjeuner indien traditionnel.",
+  "fullDescription": "**Une journée où rien n'est à régler à l'arrivée**\n\nVoiture privée dans les deux sens, un guide qui vous rejoint à Agra, billets déjà achetés, et déjeuner organisé. Sur une journée de treize heures, la valeur de cela tient surtout dans ce que vous n'avez pas à faire : pas de guichet, pas à chercher où manger, rien à négocier.\n\n**La route**\n\nPrise en charge n'importe où à Delhi, Gurugram ou Noida dans une voiture privée climatisée, puis la Yamuna Expressway, trois à quatre heures.\n\n**Taj Mahal**\n\nVotre guide a les billets d'entrée en main, vous allez donc directement au couloir plutôt qu'au guichet.\n\nShah Jahan l'a commencé en 1632 pour Mumtaz Mahal, morte en donnant naissance à leur quatorzième enfant. Vingt-deux ans, vingt mille ouvriers, du marbre venu de Makrana, à 400 km à l'ouest.\n\nLes détails qu'il vaut la peine de se faire montrer : la **calligraphie** gravée en tailles croissantes pour se lire d'une hauteur égale depuis le sol ; les incrustations de **pietra dura**, où une fleur peut porter soixante pierres distinctes ; les quatre **minarets**, inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau ; l'illusion d'optique à la porte ; et la seule asymétrie de l'édifice, le cénotaphe de Shah Jahan lui-même, placé hors de l'axe par son fils.\n\n**Le fort d'Agra**\n\nLa ville de grès rouge d'Akbar, 1565, avec les palais de marbre de Shah Jahan à l'intérieur, et le **Musamman Burj**, la tour où Aurangzeb a retenu son père huit ans, le Taj en vue le long de l'eau.\n\n**Déjeuner**\n\nUn repas indien traditionnel, assis, dans un restaurant plutôt qu'à un arrêt sur autoroute. La cuisine propre à Agra est à la fois moghole et végétarienne braj : les kebabs et le korma d'un côté, la tradition végétarienne du pays de Krishna de l'autre.\n\nPrécisez-nous à l'avance vos besoins végétariens, jaïns ou sans piment ; les trois sont des demandes courantes ici.\n\n**Pratique**\n\nTreize heures de porte à porte, ce qui est honnête plutôt qu'optimiste, la route en représente la moitié.\n\n**Le Taj est fermé le vendredi.** Billets d'entrée, guide, voiture et déjeuner sont tous compris.",
+  "highlights": [
+   "Une voiture privée climatisée garantit confort et flexibilité toute la journée."
+  ],
+  "included": [
+   "Visite privée",
+   "Transport en voiture privée climatisée",
+   "Déjeuner à l'hôtel 5 étoiles Courtyard by Marriott (selon l'option choisie)",
+   "Droits d'entrée des monuments (selon l'option choisie)",
+   "Toutes les visites avec des guides locaux professionnels privés",
+   "Trajet en bus électrique du parking du Taj Mahal jusqu'au monument",
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Bouteilles d'eau minérale pendant le trajet",
+   "Toutes les taxes, frais et commissions",
+   "Attention personnalisée tout au long de votre visite"
+  ],
+  "notIncluded": [
+   "Pourboires, facultatifs",
+   "Eau en bouteille et boissons pendant le déjeuner"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Réservez un guide officiel pour explorer Bengaluru",
   "metaTitle": "Bengaluru avec guide : palais, Lalbagh, temples et bazars",
