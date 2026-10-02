@@ -18770,6 +18770,98 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld"
   ]
  },
+ "jaipur-tuk-tuk-ride-or-cab": {
+  "title": "Jaipur Tuk-Tuk-Fahrt oder Taxi",
+  "metaTitle": "Jaipur: Fahrt mit Tuk-Tuk oder Taxi",
+  "metaDescription": "Ein voller privater Jaipur-Tag im Tuk-Tuk oder Taxi mit einem lokalen Fahrer. Acht Stunden, Hotelabholung.",
+  "shortDescription": "Ein voller privater Jaipur-Tag im Tuk-Tuk oder Taxi mit einem lokalen Fahrer. Acht Stunden, Hotelabholung.",
+  "fullDescription": "**Acht Stunden, ein Tuk-Tuk, und ein Fahrer, der hier lebt**\n\nDer günstigste ehrliche Ganztag in Jaipur, und von Oktober bis März der angenehmste. Ein Tuk-Tuk ist auf beiden Seiten offen, fährt durch Gassen der Altstadt, in die kein Auto hineinkommt, und bringt Sie auf die Straße statt hinter Glas.\n\nEin Taxi ist stattdessen verfügbar, und von April bis Juni ist das die sinnvolle Wahl.\n\n**Die Route**\n\n**Amber Fort**, elf Kilometer nördlich auf einem Grat über dem Maota-See, begonnen 1592 von Raja Man Singh. Das bemalte **Ganesh Pol**-Tor, der **Sheesh Mahal**, wo Tausende konvexer Spiegelfragmente eine Kerze in eine Sternendecke verwandelten, und der **Sukh Niwas**, gekühlt durch Wasser, das durch Kanäle im Marmor fließt.\n\nDas Tuk-Tuk bewältigt die Auffahrt, langsam.\n\n**Jal Mahal** vom Damm aus, vier der fünf Stockwerke unter Wasser, und kein Weg hinein, was auch immer Ihnen angeboten wird.\n\n**Hawa Mahal**, die Fassade mit 953 Fenstern aus dem Jahr 1799, am besten morgens von der gegenüberliegenden Straße aus, wenn die Fassade richtig pink wird.\n\n**City Palace** und **Jantar Mantar** in der Altstadt, und die Bazare, **Johari** für Edelsteine, **Tripolia** und **Maniharon ka Rasta** für Lack-Armreifen, über einer Flamme vor Ihnen gefertigt.\n\n**Was Ihnen ein fahrergeführter Tag bietet**\n\nKein Skript. Die eigene Stadt einer Person: wo er isst, welche Gasse sich lohnt, welcher Aussichtspunkt besser ist als der auf der Karte.\n\nDas beinhaltet keinen lizenzierten Guide, Rajasthan verlangt eine Lizenz, um innerhalb von Denkmälern zu führen, und ein ehrlicher Fahrer wird Ihnen das sagen, statt etwas vorzugeben. Für Jantar Mantar insbesondere lesen Sie sich entweder vorher ein oder mieten am Tor einen Guide.\n\n**Praktisch**\n\nAcht Stunden mit Hotelabholung.\n\nEintrittsgebühren sind separat, etwa ₹1.500 pro Kopf für einen ausländischen Erwachsenen an den wichtigsten Monumenten.\n\nEin Tuk-Tuk ist Staub und Wetter ausgesetzt. Sonnenbrille, und etwas für Ihre Haare, falls Ihnen das wichtig ist.",
+  "highlights": [
+   "Entdecken Sie die ikonischen Attraktionen Jaipurs auf einer Pink-City-Tour"
+  ],
+  "included": [
+   "Professioneller Fahrer-Guide",
+   "Besichtigungstour zu Jaipurs wichtigsten Attraktionen",
+   "Abholung & Rückfahrt von zentralen Orten in Jaipur",
+   "Flughafen",
+   "Bahnhof",
+   "Busbahnhof",
+   "Hotels"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Denkmäler und Attraktionen",
+   "Essen und Getränke",
+   "Persönliche Ausgaben",
+   "Trinkgeld"
+  ]
+ },
+ "jaipur-tuk-tuks-morning-adventure-sightseeing-loca": {
+  "title": "Jaipur: Tuk-Tuk-Morgenabenteuer, Besichtigung & lokale Schätze",
+  "metaTitle": "Jaipur: Morgenabenteuer im Tuk-Tuk",
+  "metaDescription": "Eine morgendliche Tuk-Tuk-Fahrt durch Jaipur, während die Stadt erwacht, Märkte, Tempel, lokale Ecken, oder dasselbe per Auto.",
+  "shortDescription": "Eine morgendliche Tuk-Tuk-Fahrt durch Jaipur, während die Stadt erwacht, Märkte, Tempel, lokale Ecken, oder dasselbe per Auto.",
+  "fullDescription": "**Jaipur vor neun Uhr morgens**\n\nDie Stadt ist um sieben ein anderer Ort. Der Blumenmarkt ist mit Ringelblumen für die Tempelopfer des Tages aufgehäuft, Milch wird in Stahlkannen geliefert, Chai wird von oben eingeschenkt, und die Gassen der Altstadt sind leer genug, um zu hören.\n\nEin offenes Tuk-Tuk ist das richtige Fahrzeug für diese Stunde, und ein hier lebender Fahrer ist der richtige Guide dafür.\n\n**Was der Morgen abdeckt**\n\nZuerst der **Blumenmarkt**, der um acht Uhr fertig ist und daher von jeder Standardtour verpasst wird.\n\nDie großen Kreuzungen von Jai Singhs Raster von 1727, **Chhoti Chopad** und **Badi Chopad**, und **Jalebi Chowk**, wo das Frittieren früh beginnt.\n\n**Tempel**, während die morgendlichen Aartis laufen: Glocken, Trommeln und Menschen auf dem Weg zur Arbeit, die für zwei Minuten vorbeischauen.\n\nDie **Bazar-Gassen**, während die Rollläden hochgehen: Armreif-Macher, die Lack über einer Flamme erhitzen, Blockdrucker, die Stoff auslegen, Gemüsekarren, die beladen werden.\n\nUnd die **Denkmäler** von außen, während das Licht auf sie fällt, **Hawa Mahal** wird nach dem Sonnenaufgang für etwa eine Stunde richtig pink, die einzige Zeit, zu der es so aussieht, wie es die Fotos versprechen.\n\n**Ihr Fahrer**\n\nDies ist eine fahrergeführte Tour statt eine mit lizenziertem Guide, und das ist der Punkt: Sie erhalten die eigene Stadt einer Person statt ein Skript. Fragen Sie sie, wo sie essen.\n\n**Zwei Optionen**\n\nPer **Tuk-Tuk** mit einem englischsprachigen Fahrer, die Version, um die diese Tour herum gebaut ist.\n\nOder per **klimatisiertem Auto** mit einem Guide, die sinnvolle Wahl von April bis Juni, wenn selbst die Morgen heiß sind.\n\n**Praktisch**\n\nEtwa sieben Stunden, mit Hotelabholung. Früher Start, die ganze Tour hängt davon ab.\n\nKeine Denkmal-Eintrittsgebühren sind inklusive; diese Route handelt von den Straßen statt den Innenräumen, und Ihr Fahrer wird Ihnen sagen, welche Tickets sich lohnen, an einem anderen Tag zu kaufen.",
+  "highlights": [
+   "Flitzen Sie durch den Verkehr bei einer ikonischen, offenen Tuk-Tuk-Fahrt"
+  ],
+  "included": [
+   "Private oder Kleingruppen-Tuk-Tuk-Transport",
+   "Freundlicher, englischsprachiger lokaler Fahrer/Guide",
+   "Hotelabholung & Rückfahrt (in einem festgelegten zentralen Bereich)",
+   "Wasser in Flaschen",
+   "Lokale Karte/vorgeschlagener Reiseplan"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für jegliche Attraktionen (z.B. Museen, Tempel)",
+   "Essen und Getränke (über das kostenlose Flaschenwasser hinaus)",
+   "Trinkgeld (optional)",
+   "Persönliche Einkaufsausgaben"
+  ]
+ },
+ "jaipur-walking-tour-with-heritage-culture-and-hist": {
+  "title": "Jaipur: Wandertour mit Kulturerbe, Kultur und Geschichte",
+  "metaTitle": "Jaipur: Wandertour, Kulturerbe und Kultur",
+  "metaDescription": "Ein dreistündiger geführter Spaziergang durch die Altstadt, Jantar Mantar, City Palace, Hawa Mahal, Govind Dev Ji und die Bazare.",
+  "shortDescription": "Ein dreistündiger geführter Spaziergang durch die Altstadt, Jantar Mantar, City Palace, Hawa Mahal, Govind Dev Ji und die Bazare.",
+  "fullDescription": "**Die ummauerte Stadt zu Fuß**\n\nJai Singh II legte Jaipur 1727 auf einem Neun-Felder-Raster an, das aus hinduistischen Architekturtraktaten übernommen wurde, die erste geplante Stadt Indiens, mit Straßen standardisierter Breite und Handwerken, die bestimmten Blöcken zugewiesen wurden. Dieser Plan ist noch lesbar, wenn jemand Sie hindurchführt, und unsichtbar, wenn niemand das tut.\n\nDrei Stunden, vollständig innerhalb der Altstadt, zu Fuß.\n\n**Jantar Mantar**\n\nJai Singh war ein Astronom, der nebenbei Städte baute. Sein Observatorium beherbergt neunzehn gemauerte Instrumente, UNESCO-gelistet, einschließlich des **Samrat Yantra**, einer 27 Meter hohen Sonnenuhr, die noch auf etwa zwei Sekunden genau ist, und lesbar, wenn jemand Ihnen zeigt, wie.\n\n**City Palace**\n\nMogulische und Rajput-Architektur um eine Reihe von Innenhöfen, ein Teil davon noch immer die Residenz der ehemaligen königlichen Familie. Von außen ist der **Chandra Mahal** der siebenstöckige Block im Zentrum; die von dort wehende Flagge bedeutet, die Familie ist anwesend.\n\n**Hawa Mahal**\n\nDie Wabenfassade mit 953 Fenstern, 1799 als Erweiterung des Zenana erbaut, damit königliche Frauen Straßenprozessionen beobachten konnten, ohne gesehen zu werden. Stellenweise kaum einen Meter tief, es ist ein Sichtschutz statt ein Palast.\n\n**Govind Dev Ji**\n\nJaipurs meistgeliebter Tempel, in den Palastgärten. Das Bild von Krishna wurde hierher aus Vrindavan gebracht, um es vor Aurangzeb zu schützen, und täglich werden sieben Aartis vor einer vollen Halle gesungen. Der Maharadscha platzierte seine eigenen Wohnungen so, dass er die Gottheit von seinem Fenster aus sehen konnte.\n\n**Die Bazare**\n\nDie alten Märkte zwischen den Stätten, Blumenverkäufer, Armreif-Gassen, Gewürzläden, und die Handwerke, die noch immer dort sitzen, wo der Plan von 1727 sie platzierte.\n\n**Die 250 Jahre alte Kamera**\n\nEine funktionierende Holzbox-Kamera, handentwickelt, mit einem rajasthanischen Turban für das Porträt zum Anziehen. Es ist ein Gimmick und auch ein wirklich altes Gerät, und der Abzug kommt in etwa fünf Minuten heraus.\n\n**Praktisch**\n\nGeführt in Englisch oder Spanisch. Der Eintritt zu Denkmälern ist nicht inklusive, der Spaziergang deckt die Außenbereiche und die kostenlosen Stätten ab, und Ihr Guide wird Ihnen sagen, für welche Innenräume sich ein Ticket lohnt.",
+  "highlights": [
+   "Staunen Sie über die komplizierte Fassade des ikonischen Hawa Mahal"
+  ],
+  "included": [
+   "Besuch des Jantar Mantar",
+   "Besuch des City Palace",
+   "Besuch des Hawa Mahal",
+   "Besuch des Govind-Dev-Ji-Tempels",
+   "Fotoerlebnis mit einer 250 Jahre alten Kamera",
+   "Besuch des Albert Hall Museums",
+   "Tour durch die lebendigen Altstadtmärkte"
+  ],
+  "notIncluded": [
+   "Transport zum und vom Startpunkt der Tour",
+   "Essen und Getränke"
+  ]
+ },
+ "jaipur-wild-leopard-safari-in-jhalana-or-amagarh-b": {
+  "title": "Jaipur: Wilde Leoparden-Safari in Jhalana oder Amagarh per Jeep",
+  "metaTitle": "Jaipur: wilde Leoparden-Safari per Jeep",
+  "metaDescription": "Eine Leoparden-Safari im offenen Jeep in Jhalana oder Amagarh innerhalb der Stadt Jaipur, drei Stunden, mit privater Option.",
+  "shortDescription": "Eine Leoparden-Safari im offenen Jeep in Jhalana oder Amagarh innerhalb der Stadt Jaipur, drei Stunden, mit privater Option.",
+  "fullDescription": "**Leoparden, zwanzig Minuten vom City Palace entfernt**\n\nJhalana ist ein 23 Quadratkilometer großes Stück trockenen Waldes innerhalb der Stadtgrenzen Jaipurs, und beherbergt eine der dichtesten Leopardenpopulationen in ganz Indien, etwa dreißig bis vierzig Tiere auf dieser kleinen Fläche. **Amagarh**, erst kürzlich auf der anderen Seite der Stadt eröffnet, ist das zweite Reservat.\n\nDas ist wirklich ungewöhnlich. Die meisten Großkatzen brauchen Platz und vermeiden Menschen; diese hier leben neben einer Stadt mit vier Millionen Menschen.\n\n**Die Safari**\n\nEin offener 4x4 auf Waldpfaden mit einem Naturforscher und einem Guide der Forstbehörde. Zwei Slots pro Tag, morgens und nachmittags, und welches Reservat Sie bekommen, wird bei der Buchung bestätigt statt gewählt.\n\nSichtungen liegen in den guten Monaten bei etwa 60 bis 70 Prozent, was für einen wilden Leoparden irgendwo hoch ist. Sie werden nicht gefüttert oder angelockt, die Dichte ist einfach so hoch, und die Tiere sind an Fahrzeuge gewöhnt.\n\n**Was sonst noch dort ist**\n\nStreifenhyäne, Schakal, Wüstenfuchs, Nilgauantilope, Chital, Indischer Hase und Stachelschwein. Die Vogelbeobachtung ist stark: Indische Pitta während des Monsuns, Paradiesschnäpper, Eulen, und Greifvögel über dem Grat.\n\nDie Ruinen eines Stufenbrunnens und ein kleiner Tempel liegen im Wald, und der Aravalli-Grat bietet Ihnen die Skyline der Stadt aus einem unerwarteten Winkel.\n\n**Zwei Optionen**\n\nEin geteilter Jeep, oder ein **privater Gypsy**, der sich für Fotografen lohnt, da ein privates Fahrzeug anhält, wo Sie möchten, und nicht die Kameras von fünf anderen Personen im Weg hat.\n\n**Praktisch**\n\nDrei Stunden einschließlich der Fahrt hinein.\n\n**Morgens sieht man mehr.** Oktober bis Juni ist die Saison; der Monsun schließt die Pfade.\n\nTragen Sie gedämpfte Farben, kein Parfüm, und sprechen Sie leise, das ist hier wichtiger als in einem großen Park, da der Wald klein ist und Geräusche tragen.\n\nGenehmigungen sind pro Slot begrenzt und werden vorab freigegeben. Früh buchen, besonders für den privaten Gypsy.",
+  "highlights": [
+   "Suchen Sie nach schwer fassbaren wilden Leoparden auf einer spannenden Safari im offenen Jeep"
+  ],
+  "included": [
+   "Eine 4x4-Jeep-Safari in Jhalana oder Amagarh",
+   "Eintrittsgenehmigung für das bestätigte Reservat",
+   "Safari-Fahrer und lokaler Safari-Guide-Service"
+  ],
+  "notIncluded": [
+   "Abholung & Rückfahrt zum Hotel",
+   "Essen und Getränke",
+   "Persönliche Ausgaben",
+   "Trinkgeld"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
