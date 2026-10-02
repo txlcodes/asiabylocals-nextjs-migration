@@ -10196,6 +10196,56 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche persönliche Ausgabe"
   ]
  },
+ "6-day-all-inclusive-golden-triangle-group-tour": {
+  "title": "Goldenes Dreieck in 6 Tagen, komplette Gruppenreise",
+  "metaTitle": "Goldenes Dreieck in der Gruppe, 6 Tage, komplett",
+  "metaDescription": "Eine komplette sechstägige Gruppenreise durch das Goldene Dreieck ab Delhi, mit Fünf-Sterne-Hotels, Mahlzeiten, Guides und Reisebegleitung.",
+  "shortDescription": "Eine komplette sechstägige Gruppenreise durch das Goldene Dreieck ab Delhi, mit Fünf-Sterne-Hotels, Mahlzeiten, Guides und Reisebegleitung.",
+  "fullDescription": "**Die vollständig organisierte Fassung**\n\nFünf-Sterne-Hotels, Mahlzeiten inbegriffen, eine Reisebegleitung, die mit der Gruppe reist, zusätzlich zu lokalen Guides in jeder Stadt, und Flughafentransfers an beiden Enden. Nichts, was nach der Landung zu organisieren wäre.\n\nEs ist eine Gruppenreise statt einer privaten, was feste Zeiten und andere Reisende bedeutet, und für viele Menschen, besonders solche, die allein reisen, ist das ein Vorteil.\n\n**Tag 1: Ankunft**\n\nEmpfang am Flughafen Delhi oder Abholung an Ihrem Hotel, Transfer zu einem Fünf-Sterne-Haus, und am Abend ein Willkommensbriefing mit Abendessen, bei dem Sie die Reisebegleitung und den Rest der Gruppe treffen.\n\n**Tag 2: Alt- und Neu-Delhi**\n\nDie **Jama Masjid**, Indiens größte Moschee, und eine Fahrradrikscha durch **Chandni Chowk**, in den 1650er-Jahren von Shah Jahans Tochter mit einem Kanal in der Mitte angelegt.\n\n**Raj Ghat**, wo Gandhi 1948 verbrannt wurde. Dann **India Gate**, **Humayuns Grabmal**, das mogulische Gartengrab aus den 1560er-Jahren, von dem der Taj abstammt, und **Qutub Minar** mit seiner rostfreien Eisensäule.\n\n**Tage 3-4: Agra**\n\nDer **Taj Mahal**, idealerweise bei Sonnenaufgang, und das **Agra Fort**, mit dem **Musamman Burj**, wo Shah Jahan seine letzten acht Jahre gefangen von seinem Sohn verbrachte und das Grabmal seiner Frau am Fluss betrachtete.\n\n**Fatehpur Sikri** auf dem Weg nach Westen: Akbars Hauptstadt von 1571, nach vierzehn Jahren aufgegeben, als das Wasser ausblieb, und deshalb erhalten.\n\n**Tage 5-6: Jaipur**\n\n**Amber Fort** auf seinem Grat über dem Maota-See, der **City Palace**, die steinernen Instrumente des **Jantar Mantar**, und der **Hawa Mahal**. Ein Abend in den Bazaren, und die Rückkehr nach Delhi.\n\n**Was enthalten ist**\n\nFünf-Sterne-Unterkunft, tägliches Frühstück und die meisten anderen Mahlzeiten, privater klimatisierter Bustransport, lizenzierte lokale Guides, eine Reisebegleitung, und Eintrittsgebühren für die Monumente.\n\n**Praktisch**\n\n**Der Taj ist freitags geschlossen**, was die Abreisetermine festlegt.\n\nDie Gruppengrößen sind klein nach den Maßstäben von Busreisen, aber das ist keine private Reise, wenn Sie irgendwo eine Stunde länger verweilen möchten, buchen Sie stattdessen eine private Route.",
+  "highlights": [
+   "Komplette 6-Tage-Tour durch das Goldene Dreieck, mit Delhi, Agra und Jaipur"
+  ],
+  "included": [
+   "Gruppenreise",
+   "Eintrittskarten für alle aufgeführten Monumente",
+   "Fünf Nächte Unterkunft in 5-Sterne-Hotels",
+   "Englischsprachige Reisebegleitung während der gesamten Reise",
+   "Reise in einem bequemen klimatisierten Fahrzeug",
+   "Fahrt mit dem Elektrobus vom Parkplatz des Taj Mahal zum Monument",
+   "Alle Steuern und Servicegebühren, einschließlich aller anfallenden Hotelsteuern",
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Persönliche Betreuung",
+   "Mineralwasser in Flaschen während der Fahrten",
+   "Softdrinks und Chips während der Fahrten",
+   "Ein Bier pro Tag während der Fahrten"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "6-day-golden-triangle-tour-delhi-agra-jaipur-highl": {
+  "title": "Goldenes Dreieck in 6 Tagen: die Highlights von Delhi, Agra und Jaipur",
+  "metaTitle": "Goldenes Dreieck in 6 Tagen: die Highlights",
+  "metaDescription": "Sechs Tage zwischen Delhi, Agra und Jaipur mit Hotels, privatem Transport und geführten Besichtigungen in jeder Stadt.",
+  "shortDescription": "Sechs Tage zwischen Delhi, Agra und Jaipur mit Hotels, privatem Transport und geführten Besichtigungen in jeder Stadt.",
+  "fullDescription": "**Sechs Tage, eine Buchung, nichts zu organisieren**\n\nHotels, Transport, Guides und Transfers in einem einzigen Paket, mit eingebauten An- und Abreisetagen. Das passt gut zu einer ersten Indienreise, bei der die Logistik selbst herauszufinden den größten Teil des Stresses ausmacht.\n\n**Tag 1: Ankunft**\n\nEmpfang am Flughafen Delhi und Transfer zu Ihrem Hotel. Landet der Flug früh, bleibt Zeit für **India Gate** und **Connaught Place**; sonst dient der Tag der Erholung.\n\n**Tag 2: Delhi**\n\nDas **Rote Fort**, Shah Jahans von Mauern umschlossene Hauptstadt von 1638, mit dem überdachten Bazar **Chatta Chowk** und dem **Diwan-i-Khas**, der bis 1739 den Pfauenthron beherbergte. **Montags geschlossen.**\n\nDie **Jama Masjid** und **Chandni Chowk**, am besten aus einer Fahrradrikscha gesehen, die Straße wurde in den 1650er-Jahren mit einem Kanal in der Mitte angelegt, der den Mond spiegelte.\n\n**Raj Ghat**, wo Gandhi 1948 verbrannt wurde und die Flamme seither brennt. Dann **Humayuns Grabmal**, das Gartengrab aus den 1560er-Jahren, von dem der Taj abstammt, **Qutub Minar**, und der **Lotus-Tempel**.\n\n**Tage 3-4: Agra**\n\nDer **Taj Mahal**, am besten bei Sonnenaufgang, und das **Agra Fort** mit dem **Musamman Burj**, wo Shah Jahan seine letzten acht Jahre gefangen von seinem Sohn verbrachte und das Grabmal seiner Frau am Fluss betrachtete.\n\n**Fatehpur Sikri** auf der Fahrt nach Jaipur: Akbars Hauptstadt von 1571, nach vierzehn Jahren aufgegeben, als das Wasser ausblieb.\n\n**Tage 5-6: Jaipur**\n\n**Amber Fort** über dem Maota-See, der **City Palace**, das **Jantar Mantar** und der **Hawa Mahal**, mit einem Abend in den Bazaren und der Rückkehr nach Delhi am letzten Tag.\n\n**Enthalten**\n\nHotels, privater klimatisierter Transport mit Fahrer durchgehend, lizenzierte lokale Guides, und Flughafentransfers.\n\n**Praktisch**\n\n**Der Taj ist freitags geschlossen** und das **Rote Fort montags**; die Route ist um beide herum gebaut.\n\nEintrittsgebühren der Monumente und Mahlzeiten über das Frühstück hinaus sind separat.",
+  "highlights": [
+   "Taj Mahal, der berühmte Besuch bei Sonnenaufgang in Agra"
+  ],
+  "included": [
+   "Professioneller Reiseleiter",
+   "Privater klimatisierter Wagen für die gesamte Aktivität",
+   "Flasche Mineralwasser",
+   "Unterkunft im 3-Sterne-Hotel",
+   "Frühstück im Hotel",
+   "Alle Mautkosten und Parkgebühren",
+   "Eintrittskarten",
+   "Mittagessen"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgabe"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
