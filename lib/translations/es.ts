@@ -16854,6 +16854,89 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "jaipur-6-day-rajasthan-heritage-tour-with-night-fo": {
+  "title": "Jaipur: Tour patrimonial de 6 días por Rajastán con rutas gastronómicas nocturnas",
+  "metaTitle": "Jaipur: 6 días Rajastán con rutas nocturnas",
+  "metaDescription": "Seis días entre Jaipur, Jodhpur y Udaipur con una ruta gastronómica nocturna en cada ciudad. Patrimonio de día, comida callejera de noche.",
+  "shortDescription": "Seis días entre Jaipur, Jodhpur y Udaipur con una ruta gastronómica nocturna en cada ciudad. Patrimonio de día, comida callejera al anochecer.",
+  "fullDescription": "**Rajastán con las noches también planificadas**\n\nLa mayoría de los itinerarios de Rajastán terminan al atardecer. Este continúa: una ruta gastronómica a pie en cada ciudad al anochecer, que es cuando estos lugares están en su mejor momento de todos modos.\n\n**Jaipur**\n\nDías de **City Palace**, **Jantar Mantar**, **Hawa Mahal** y una parada fotográfica en el **Jal Mahal**, luego **Fuerte Amber**, **Nahargarh** y **Jaigarh** el segundo día.\n\nLa ruta nocturna es la de Jaipur que todos deberían hacer: **kachori y mirchi vada en Rawat**, una tienda que fríe desde 1956 y que todavía tiene cola hasta la puerta a las nueve de la noche. **Lal maas** si comes carne, el curry de cordero rojo e intenso a base de chiles mathania, que parecen aterradores pero son más por el color que por el picante. **Ghewar** y **mawa kachori en LMB** en Johari Bazaar para terminar, ambos más azucarados de lo que cualquiera debería manejar.\n\n**Jodhpur**\n\n**Mehrangarh**, que se eleva 120 metros directamente desde la roca y nunca ha sido tomado, con el mejor museo de Rajastán en su interior. **Jaswant Thada** de mármol blanco debajo. Las callejuelas azules alrededor de la torre del reloj.\n\nLa comida aquí es diferente: **mirchi bada**, **pyaaz kachori en Janta Sweet Home**, **makhaniya lassi** lo bastante espeso para sostener una cuchara de pie, y el **mawa kachori** que Jodhpur reclama frente a Jaipur.\n\n**Udaipur**\n\n**City Palace** junto al lago Pichola, el **templo Jagdish**, **Saheliyon ki Bari**, y un paseo en barco al atardecer.\n\nNoches en los ghats, con **dal baati** y cocinas en azoteas frente al palacio iluminado.\n\n**Cómo funciona**\n\nCoche privado con aire acondicionado y conductor durante los seis días, incluyendo los trayectos entre ciudades, de Jaipur a Jodhpur hay unos 330 km, de Jodhpur a Udaipur otros 250. Guías locales para las visitas, y un guía gastronómico para cada paseo nocturno.\n\n**Práctico**\n\nIndica con antelación si eres vegetariano, la comida rajastaní es de todas formas mayoritariamente vegetariana, o si la necesitas sin picante. Ambas son peticiones habituales.\n\nLa comida callejera es segura si te limitas a lo que esté caliente y recién frito, hacia lo que tu guía te orientará.",
+  "highlights": [
+   "Explora ciudades patrimoniales icónicas: Jaipur, Jodhpur y Udaipur"
+  ],
+  "included": [
+   "5 noches de alojamiento en hoteles en Jaipur, Jodhpur y Udaipur",
+   "Desayuno diario en el hotel",
+   "Vehículo privado con aire acondicionado para todo el tour según el itinerario",
+   "Guía profesional de habla inglesa para las visitas en Jaipur, Jodhpur y Udaipur",
+   "Todos los permisos incluidos",
+   "3 rutas gastronómicas nocturnas en ciudad (Jaipur, Jodhpur, Udaipur) con degustación de comida local seleccionada incluida",
+   "Peajes, aparcamiento, dieta del conductor, gastos de combustible",
+   "Recogida y regreso desde Jaipur/Udaipur",
+   "Agua embotellada incluida durante el tour",
+   "Entradas",
+   "Todos los impuestos incluidos"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
+  ]
+ },
+ "jaipur-8-day-rajasthan-heritage-tour-with-transfer": {
+  "title": "Jaipur: Tour patrimonial de 8 días por Rajastán con traslados",
+  "metaTitle": "Jaipur: 8 días Rajastán con traslados",
+  "metaDescription": "Ocho días por Rajastán comenzando en Jaipur, con traslados privados entre ciudades y visitas guiadas.",
+  "shortDescription": "Ocho días por Rajastán comenzando en Jaipur, con traslados privados entre ciudades y visitas guiadas.",
+  "fullDescription": "**Empezar en Jaipur en lugar de Delhi**\n\nLa mayoría de los itinerarios de Rajastán empiezan en la capital. Este empieza donde empieza el estado, lo cual conviene a cualquiera que vuele directamente a Jaipur o llegue desde el sur.\n\n**Jaipur**\n\n**Fuerte Amber** en su cresta sobre el lago Maota, la puerta Ganesh Pol, el Sheesh Mahal donde fragmentos de espejo convertían una sola vela en un techo de estrellas, y los patios que ascienden por la colina.\n\n**City Palace**, todavía parcialmente la residencia real, alrededor de una secuencia de patios. **Hawa Mahal**, el panal de cinco plantas de 953 ventanas construido en 1799 para que las mujeres de la corte pudieran observar la calle sin ser vistas. **Jantar Mantar**, diecinueve instrumentos de mampostería incluyendo un reloj de sol preciso hasta dos segundos.\n\nNoches en los bazares, donde la ciudad todavía trabaja oficio por oficio: Johari para piedras preciosas, Tripolia para pulseras de laca y latón.\n\n**Siguiendo por Rajastán**\n\nEl itinerario continúa por el estado con traslados privados en cada etapa y guías locales en cada ciudad, las distancias aquí son la limitación, y ocho días es lo que se necesita para cubrirlas sin pasar cada dos días en el coche.\n\nEspera las ciudades del desierto y del lago que hacen que el estado merezca una semana en lugar de un fin de semana: **Mehrangarh** en Jodhpur, que se eleva 120 metros directamente desde la roca y nunca fue tomado; las callejuelas azules debajo; la arenisca dorada de **Jaisalmer** y las dunas más allá; y **Udaipur** en el lago Pichola, donde el City Palace recorre casi un kilómetro junto al agua y un paseo en barco al atardecer cierra el viaje como se debe.\n\n**Cómo funciona**\n\nVehículo privado con aire acondicionado y conductor durante todo el recorrido, incluyendo los trayectos entre ciudades, y guías con licencia para las visitas en cada ciudad.\n\n**Práctico**\n\nDe octubre a marzo es la temporada. De abril a junio el desierto supera regularmente los 45°C, y las noches de diciembre y enero allí bajan cerca del punto de congelación.\n\nLas tasas de entrada a monumentos y las comidas se pagan por separado.",
+  "highlights": [
+   "Sumérgete en la rica cultura e historia de Rajastán"
+  ],
+  "included": [
+   "Alojamiento en hotel de 4 estrellas durante 7 noches/8 días",
+   "Traslados al aeropuerto",
+   "Guía aprobado por el gobierno en Jaipur",
+   "Transporte incluyendo peajes, tasas de aparcamiento, dietas del conductor"
+  ],
+  "notIncluded": [
+   "Almuerzo y cena"
+  ]
+ },
+ "jaipur-albert-hall-museum-guided-walking-tourentry": {
+  "title": "Jaipur: Tour guiado a pie por el museo Albert Hall + entrada",
+  "metaTitle": "Jaipur: Albert Hall Museum guiado + entrada",
+  "metaDescription": "Dos horas dentro del museo Albert Hall con guía y entrada incluida, el museo más antiguo de Jaipur.",
+  "shortDescription": "Dos horas dentro del museo Albert Hall con guía y entrada incluida, el museo más antiguo de Jaipur.",
+  "fullDescription": "**Dos horas, en interior, con alguien que conoce la colección**\n\nEl Albert Hall recompensa a un guía más que la mayoría de los museos, porque está organizado por oficio y material en lugar de por cualquier narrativa que pudieras adivinar. La entrada está incluida, lo que ahorra la taquilla.\n\nTambién es lo correcto para reservar en medio de una tarde calurosa o durante el monzón, al estar completamente bajo techo.\n\n**El edificio**\n\nAbierto al público en 1887, diseñado por Sir Samuel Swinton Jacob, y el mejor edificio indo-sarraceno de la ciudad, chhatris rajput y celosías de piedra **jali** injertadas en un plano de museo europeo, en la piedra pálida de las colinas de Jaipur.\n\nSe alza en el jardín Ram Niwas, y al anochecer está iluminado y rodeado de una cantidad improbable de palomas.\n\n**Dentro**\n\nLa **momia egipcia** es lo que atrae a la mayoría de los visitantes: una mujer llamada Tutu, de una familia sacerdotal de Panópolis, de unos 2.300 años, presentada al museo en 1887. Hay una buena exposición sobre cómo fue examinada.\n\nLa verdadera fortaleza, sin embargo, es la artesanía rajastaní. **Cerámica azul** de los propios hornos de Jaipur. **Armas y armaduras**, incluyendo espadas rajput con empuñaduras que no querrías sostener. **Pintura en miniatura** de las escuelas de Jaipur y Kishangarh. Marfil, latón, y una galería de alfombras cuya pieza central es una alfombra de jardín persa del siglo 17 traída de vuelta de Lahore.\n\nY una serie de modelos de arcilla hechos en la década de 1880 que muestran posturas de yoga, uno de los registros más antiguos de este tipo en cualquier lugar, y totalmente inesperado.\n\n**Práctico**\n\nDos horas de pie, siempre en interior.\n\nLa entrada está incluida en este tour. La fotografía está permitida en la mayoría de las galerías.\n\nEl museo ofrece un espectáculo de luz y sonido en la fachada por la noche, que es independiente y gratuito de ver desde el jardín.\n\nComprueba el horario en días festivos antes de reservar un lunes.",
+  "highlights": [
+   "Admira la arquitectura indo-sarracena del museo Albert Hall"
+  ],
+  "included": [
+   "Entradas",
+   "Tour a pie por el museo Albert Hall",
+   "Guía privado profesional"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel"
+  ]
+ },
+ "jaipur-amber-fort-guided-tour-with-skip-the-line": {
+  "title": "Jaipur: Tour guiado del Fuerte Amber con entradas sin colas",
+  "metaTitle": "Jaipur: Fuerte Amber guiado, sin colas",
+  "metaDescription": "Fuerte Amber con entradas sin colas reservadas con antelación y un guía, o a tu propio ritmo. Unas tres horas.",
+  "shortDescription": "Fuerte Amber con entradas sin colas reservadas con antelación y un guía, o a tu propio ritmo. Unas tres horas.",
+  "fullDescription": "**El único lugar en Jaipur donde la cola es real**\n\nAmber recibe varios miles de visitantes al día en temporada y la taquilla en la base puede costarte media hora antes de empezar la subida. Reservar con antelación te permite pasarla directamente.\n\nTres horas, la duración adecuada para recorrer bien este fuerte.\n\n**Lo que recorres**\n\n**Jaleb Chowk**, el primer patio, donde los ejércitos que regresaban desfilaban y el maharajá los revisaba. Los establos a lo largo de su borde todavía están ahí.\n\n**Ganesh Pol**, la puerta pintada hacia el palacio privado, yeso sobre piedra, que todavía conserva pigmento original en algunos lugares, con una galería enrejada arriba desde la que las mujeres de la corte observaban las llegadas sin ser vistas.\n\n**Sheesh Mahal**, el palacio de los espejos, y la razón por la que la mayoría viene: miles de fragmentos de vidrio convexo incrustados en el techo y las paredes para que una sola vela se leyera como un cielo lleno de estrellas. El vidrio se importó de Bélgica y lo colocaron artesanos locales.\n\n**Sukh Niwas** al otro lado del patio, donde el agua corría por canales tallados en las paredes de mármol y enfriaba la sala por evaporación, aire acondicionado cuatrocientos años antes.\n\n**El zenana**, el cuarto patio: doce apartamentos para doce reinas alrededor de un único patio, con pasillos deliberadamente dispuestos para que el maharajá pudiera visitar a una sin que las demás supieran cuál.\n\n**El entorno**\n\nEl **lago Maota** debajo, con el jardín **Kesar Kyari** dispuesto en el agua con su patrón de parterre de azafrán, y **Jaigarh** en la cresta de arriba, conectado por un túnel que la familia real podía usar si caía el fuerte inferior.\n\n**Práctico**\n\nTres horas, y hay una subida real sobre piedra irregular, zapatos planos.\n\nVe temprano. Amber a las nueve de la mañana y Amber al mediodía no son la misma experiencia.\n\nLa entrada cuesta ₹550 para extranjeros. Los paseos en elefante en la base funcionan de forma independiente y no los reservamos; un jeep sube la misma rampa.",
+  "highlights": [
+   "Descubre el sitio Patrimonio de la Humanidad de la UNESCO, el Fuerte Amer (Amber)."
+  ],
+  "included": [
+   "Entrada sin colas al Fuerte Amber (Jaipur).",
+   "Guía de habla inglesa/hindi (incluido con e-tickets)",
+   "Vehículo privado para el servicio de recogida y regreso."
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Gastos personales",
+   "Propinas/gratificaciones"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",

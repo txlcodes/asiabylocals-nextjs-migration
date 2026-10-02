@@ -16854,6 +16854,89 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld"
   ]
  },
+ "jaipur-6-day-rajasthan-heritage-tour-with-night-fo": {
+  "title": "Jaipur: 6-tägige Rajasthan-Kulturerbe-Tour mit nächtlichen Food Trails",
+  "metaTitle": "Jaipur: 6 Tage Rajasthan mit Food Trails nachts",
+  "metaDescription": "Sechs Tage zwischen Jaipur, Jodhpur und Udaipur mit einem nächtlichen Food Trail in jeder Stadt. Kulturerbe am Tag, Street Food nachts.",
+  "shortDescription": "Sechs Tage zwischen Jaipur, Jodhpur und Udaipur mit einem nächtlichen Food Trail in jeder Stadt. Kulturerbe am Tag, Street Food nach Einbruch der Dunkelheit.",
+  "fullDescription": "**Rajasthan, bei dem auch die Abende geplant sind**\n\nDie meisten Rajasthan-Routen enden bei Sonnenuntergang. Diese geht weiter: ein Food Trail zu Fuß in jeder Stadt nach Einbruch der Dunkelheit, wenn diese Orte sowieso am besten sind.\n\n**Jaipur**\n\nTage mit **City Palace**, **Jantar Mantar**, **Hawa Mahal** und einem Fotostopp am **Jal Mahal**, dann **Amber Fort**, **Nahargarh** und **Jaigarh** am zweiten Tag.\n\nDer Nacht-Trail ist der Jaipur-Klassiker, den jeder machen sollte: **Kachori und Mirchi Vada bei Rawat**, ein Laden, der seit 1956 frittiert und noch immer um neun Uhr abends eine Schlange bis zur Tür hat. **Lal Maas**, wenn Sie Fleisch essen, das feurig rote Hammelcurry auf Basis von Mathania-Chilis, die furchteinflößend aussehen, aber eher für die Farbe als für die Schärfe stehen. **Ghewar** und **Mawa Kachori bei LMB** im Johari Bazaar zum Abschluss, beide süßer, als jemand verarbeiten sollte.\n\n**Jodhpur**\n\n**Mehrangarh**, das sich 120 Meter direkt aus dem Fels erhebt und nie eingenommen wurde, mit dem besten Museum Rajasthans im Inneren. **Jaswant Thada** aus weißem Marmor darunter. Die blauen Gassen um den Uhrturm.\n\nDas Essen hier ist anders: **Mirchi Bada**, **Pyaaz Kachori** im Janta Sweet Home, **Makhaniya Lassi**, dick genug, um einen Löffel darin stehen zu lassen, und die **Mawa Kachori**, die Jodhpur gegenüber Jaipur für sich beansprucht.\n\n**Udaipur**\n\n**City Palace** am Pichola-See, der **Jagdish-Tempel**, **Saheliyon ki Bari**, und eine Bootsfahrt bei Sonnenuntergang.\n\nAbende an den Ghats, mit **Dal Baati** und Dachküchen mit Blick auf den beleuchteten Palast.\n\n**Wie es abläuft**\n\nPrivates klimatisiertes Auto mit Fahrer für alle sechs Tage einschließlich der Zwischenstadt-Etappen, Jaipur nach Jodhpur sind etwa 330 km, Jodhpur nach Udaipur weitere 250. Lokale Guides für Besichtigungen, und ein Food-Guide für jeden nächtlichen Spaziergang.\n\n**Praktisch**\n\nSagen Sie im Voraus, ob Sie Vegetarier sind, rajasthanisches Essen ist sowieso überwiegend vegetarisch, oder ob Sie es ohne Chili benötigen. Beides sind übliche Anfragen.\n\nStreet Food ist unbedenklich, wenn Sie sich an das halten, was heiß und frisch frittiert ist, worauf Ihr Guide Sie lenken wird.",
+  "highlights": [
+   "Entdecken Sie ikonische Kulturerbe-Städte: Jaipur, Jodhpur und Udaipur"
+  ],
+  "included": [
+   "5 Nächte Unterkunft in Hotels in Jaipur, Jodhpur und Udaipur",
+   "Tägliches Frühstück im Hotel",
+   "Privates klimatisiertes Fahrzeug für die gesamte Tour gemäß Reiseplan",
+   "Professioneller englischsprachiger Guide für Besichtigungen in Jaipur, Jodhpur und Udaipur",
+   "Alle Genehmigungen inklusive",
+   "3 städtische nächtliche Food Walks (Jaipur, Jodhpur, Udaipur) mit ausgewählter lokaler Verkostung inklusive",
+   "Mautgebühren, Parken, Fahrerzulage, Kraftstoffkosten",
+   "Abholung und Rückfahrt von Jaipur/Udaipur",
+   "Wasser in Flaschen während der Tour inklusive",
+   "Eintrittskarten",
+   "Alle Steuern inklusive"
+  ],
+  "notIncluded": [
+   "Jegliche persönlichen Ausgaben"
+  ]
+ },
+ "jaipur-8-day-rajasthan-heritage-tour-with-transfer": {
+  "title": "Jaipur: 8-tägige Rajasthan-Kulturerbe-Tour mit Transfers",
+  "metaTitle": "Jaipur: 8 Tage Rajasthan mit Transfers",
+  "metaDescription": "Acht Tage durch Rajasthan ab Jaipur, mit privaten Transfers zwischen den Städten und geführten Besichtigungen.",
+  "shortDescription": "Acht Tage durch Rajasthan ab Jaipur, mit privaten Transfers zwischen den Städten und geführten Besichtigungen.",
+  "fullDescription": "**Beginn in Jaipur statt in Delhi**\n\nDie meisten Rajasthan-Routen beginnen in der Hauptstadt. Diese beginnt dort, wo der Bundesstaat beginnt, was für jeden passt, der direkt nach Jaipur fliegt oder aus dem Süden anreist.\n\n**Jaipur**\n\n**Amber Fort** auf seinem Grat über dem Maota-See, das Ganesh-Pol-Tor, der Sheesh Mahal, wo Spiegelfragmente eine einzige Kerze in eine Sternendecke verwandelten, und die Höfe, die den Hügel hinaufsteigen.\n\n**City Palace**, noch immer teilweise die königliche Residenz, um eine Abfolge von Innenhöfen. **Hawa Mahal**, die fünfstöckige Wabenfassade mit 953 Fenstern, erbaut 1799, damit die Frauen des Hofes die Straße unbeobachtet ansehen konnten. **Jantar Mantar**, neunzehn gemauerte Instrumente einschließlich einer auf zwei Sekunden genauen Sonnenuhr.\n\nAbende in den Bazaren, wo die Stadt noch Handwerk für Handwerk arbeitet: Johari für Edelsteine, Tripolia für Lack-Armreifen und Messing.\n\n**Weiter durch Rajasthan**\n\nDer Reiseplan führt durch den Bundesstaat mit privaten Transfers auf jeder Etappe und lokalen Guides in jeder Stadt, die Entfernungen hier sind die Einschränkung, und acht Tage sind nötig, um sie abzudecken, ohne jeden zweiten Tag im Auto zu verbringen.\n\nErwarten Sie die Wüsten- und Seestädte, die den Bundesstaat eine Woche statt ein Wochenende wert machen: **Mehrangarh** in Jodhpur, das sich 120 Meter direkt aus dem Fels erhebt und nie eingenommen wurde; die blauen Gassen darunter; der goldene Sandstein von **Jaisalmer** und die Dünen dahinter; und **Udaipur** am Pichola-See, wo der City Palace fast einen Kilometer am Wasser entlang verläuft und eine Bootsfahrt bei Sonnenuntergang die Reise richtig beschließt.\n\n**Wie es abläuft**\n\nPrivates klimatisiertes Fahrzeug mit Fahrer durchgehend, einschließlich der Zwischenstadt-Etappen, und lizenzierte Guides für die Besichtigungen in jeder Stadt.\n\n**Praktisch**\n\nOktober bis März ist die Saison. April bis Juni überschreitet die Wüste regelmäßig 45°C, und die Nächte im Dezember und Januar sinken dort nahe an den Gefrierpunkt.\n\nEintrittsgebühren für Denkmäler und Mahlzeiten werden separat bezahlt.",
+  "highlights": [
+   "Tauchen Sie ein in die reiche Kultur und Geschichte Rajasthans"
+  ],
+  "included": [
+   "Unterkunft im 4-Sterne-Hotel für 7 Nächte/8 Tage",
+   "Flughafentransfers",
+   "Von der Regierung zugelassener Guide in Jaipur",
+   "Transport einschließlich Mautgebühren, Parkgebühren, Fahrerzulagen"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen"
+  ]
+ },
+ "jaipur-albert-hall-museum-guided-walking-tourentry": {
+  "title": "Jaipur: Geführte Wandertour durchs Albert Hall Museum + Eintrittskarte",
+  "metaTitle": "Jaipur: Albert Hall Museum geführt + Eintritt",
+  "metaDescription": "Zwei Stunden im Albert Hall Museum mit Guide und inklusivem Eintrittsticket, Jaipurs ältestes Museum.",
+  "shortDescription": "Zwei Stunden im Albert Hall Museum mit Guide und inklusivem Eintrittsticket, Jaipurs ältestes Museum.",
+  "fullDescription": "**Zwei Stunden, drinnen, mit jemandem, der die Sammlung kennt**\n\nDas Albert Hall belohnt einen Guide mehr als die meisten Museen, weil es nach Handwerk und Material geordnet ist statt nach einer Erzählung, die man erraten könnte. Das Ticket ist inklusive, was den Schalter erspart.\n\nEs ist auch das Richtige, um es an einem heißen Nachmittag oder während des Monsuns zu buchen, da es vollständig unter einem Dach liegt.\n\n**Das Gebäude**\n\n1887 für die Öffentlichkeit eröffnet, entworfen von Sir Samuel Swinton Jacob, und das schönste indo-sarazenische Gebäude der Stadt, Rajput-Chhatris und steinerne **Jali**-Gitter auf einen europäischen Museumsgrundriss aufgesetzt, im blassen Stein der Jaipur-Hügel.\n\nEs steht im Ram-Niwas-Garten, und nach Einbruch der Dunkelheit ist es angestrahlt und von einer unwahrscheinlichen Anzahl von Tauben umgeben.\n\n**Im Inneren**\n\nDie **ägyptische Mumie** ist der Hauptgrund, warum die meisten Menschen kommen: eine Frau namens Tutu, aus einer Priesterfamilie von Panopolis, etwa 2.300 Jahre alt, dem Museum 1887 übergeben. Es gibt eine gute Ausstellung darüber, wie sie untersucht wurde.\n\nDie eigentliche Stärke liegt jedoch im rajasthanischen Handwerk. **Blaue Keramik** aus Jaipurs eigenen Brennöfen. **Waffen und Rüstungen**, einschließlich Rajput-Schwerter mit Griffen, die Sie nicht halten möchten. **Miniaturmalerei** der Schulen von Jaipur und Kishangarh. Elfenbein, Messing, und eine Teppichgalerie, deren Mittelstück ein persischer Gartenteppich aus dem 17. Jahrhundert ist, der aus Lahore zurückgebracht wurde.\n\nUnd eine Reihe von Lehmmodellen aus den 1880er Jahren, die Yoga-Haltungen zeigen, eine der ältesten derartigen Aufzeichnungen überhaupt, und völlig unerwartet.\n\n**Praktisch**\n\nZwei Stunden auf den Beinen, durchgehend drinnen.\n\nDer Eintritt ist in dieser Tour inklusive. Fotografieren ist in den meisten Galerien erlaubt.\n\nDas Museum zeigt abends eine Licht- und Tonshow an der Fassade, die separat und kostenlos vom Garten aus zu sehen ist.\n\nPrüfen Sie die Öffnungszeiten an Feiertagen, bevor Sie einen Montag buchen.",
+  "highlights": [
+   "Staunen Sie über die indo-sarazenische Architektur des Albert Hall Museums"
+  ],
+  "included": [
+   "Eintrittskarten",
+   "Wandertour durch das Albert Hall Museum",
+   "Professioneller privater Guide"
+  ],
+  "notIncluded": [
+   "Abholung & Rückfahrt zum Hotel"
+  ]
+ },
+ "jaipur-amber-fort-guided-tour-with-skip-the-line": {
+  "title": "Jaipur: Geführte Amber-Fort-Tour mit Skip-the-Line-Tickets",
+  "metaTitle": "Jaipur: Amber Fort geführt, Skip-the-Line",
+  "metaDescription": "Amber Fort mit vorab gebuchten Skip-the-Line-Tickets und einem Guide, oder in Ihrem eigenen Tempo. Etwa drei Stunden.",
+  "shortDescription": "Amber Fort mit vorab gebuchten Skip-the-Line-Tickets und einem Guide, oder in Ihrem eigenen Tempo. Etwa drei Stunden.",
+  "fullDescription": "**Der einzige Ort in Jaipur, an dem die Warteschlange real ist**\n\nAmber empfängt in der Saison mehrere tausend Besucher pro Tag, und der Ticketschalter am Fuß kann Sie eine halbe Stunde kosten, bevor Sie den Aufstieg überhaupt beginnen. Vorbuchen bringt Sie direkt daran vorbei.\n\nDrei Stunden, die richtige Länge, um dieses Fort richtig zu erleben.\n\n**Was Sie durchlaufen**\n\n**Jaleb Chowk**, der erste Innenhof, wo zurückkehrende Armeen paradierten und der Maharadscha sie inspizierte. Die Stallungen entlang seines Randes sind noch da.\n\n**Ganesh Pol**, das bemalte Tor zum privaten Palast, Stuck über Stein, der an manchen Stellen noch originale Pigmente trägt, mit einer verschleierten Galerie darüber, von der die Frauen des Hofes unbeobachtet auf Ankünfte hinabblickten.\n\n**Sheesh Mahal**, der Spiegelpalast, und der Grund, warum die meisten Menschen kommen: Tausende konvexer Glasfragmente, eingesetzt in Decke und Wände, sodass eine einzige Kerze wie ein Himmel voller Sterne wirkte. Das Glas wurde aus Belgien importiert und von lokalen Handwerkern eingesetzt.\n\n**Sukh Niwas** auf der anderen Seite des Innenhofs, wo Wasser durch in die Marmorwände geschnittene Kanäle lief und den Raum durch Verdunstung kühlte, Klimaanlage vierhundert Jahre früher.\n\n**Das Zenana**, der vierte Innenhof: zwölf Wohnungen für zwölf Königinnen um einen einzigen Hof, mit Gängen, die bewusst so angelegt waren, dass der Maharadscha eine besuchen konnte, ohne dass die anderen wussten, welche.\n\n**Die Umgebung**\n\nDer **Maota-See** darunter, mit dem **Kesar-Kyari**-Garten, der im Wasser in seinem Safran-Beet-Muster angelegt ist, und **Jaigarh** auf dem Grat darüber, verbunden durch einen Tunnel, den die königliche Familie nutzen konnte, falls das untere Fort fiel.\n\n**Praktisch**\n\nDrei Stunden, und es gibt einen echten Aufstieg über unebenen Stein, flache Schuhe.\n\nFrüh losgehen. Amber um neun Uhr morgens und Amber um Mittag sind nicht dasselbe Erlebnis.\n\nDer Eintritt kostet ₹550 für ausländische Staatsangehörige. Die Elefantenritte am Fuß werden unabhängig betrieben und wir buchen sie nicht; ein Jeep fährt dieselbe Rampe hinauf.",
+  "highlights": [
+   "Entdecken Sie das UNESCO-Weltkulturerbe, Amer (Amber) Fort."
+  ],
+  "included": [
+   "Skip-the-Line-Eintritt zum Amber Fort (Jaipur).",
+   "Englisch-/Hindi-sprachiger Guide (inklusive bei E-Tickets)",
+   "Privates Fahrzeug für Abhol- und Rückfahrservice."
+  ],
+  "notIncluded": [
+   "Essen und Getränke",
+   "Persönliche Ausgaben",
+   "Trinkgeld/Gratifikationen"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
