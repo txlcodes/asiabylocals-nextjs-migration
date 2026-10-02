@@ -16937,6 +16937,100 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas/gratificaciones"
   ]
  },
+ "jaipur-amber-fort-light-sound-show-with-dinner": {
+  "title": "Jaipur Espectáculo de luz y sonido del Fuerte Amber con cena",
+  "metaTitle": "Jaipur: Fuerte Amber luz y sonido + cena",
+  "metaDescription": "El espectáculo de luz y sonido del Fuerte Amber por la noche con cena y traslados desde Jaipur.",
+  "shortDescription": "El espectáculo de luz y sonido del Fuerte Amber por la noche con cena y traslados desde Jaipur.",
+  "fullDescription": "**El fuerte iluminado desde el otro lado del agua**\n\nEl **son-et-lumière** en Amber se proyecta sobre el fuerte y la cresta debajo desde el otro lado del **lago Maota**, de modo que todo el complejo de la colina se ilumina en secuencia mientras el reflejo lo duplica en el agua.\n\nLa narración recorre la **dinastía Kachwaha**, Raja Man Singh, quien construyó el fuerte y sirvió como general de Akbar; las alianzas mogolas que enriquecieron Amber; el traslado a la nueva ciudad de Jaipur en 1727; y los cuatrocientos años intermedios.\n\nDura unos cincuenta minutos.\n\n**Qué función reservar**\n\nHay un espectáculo en **hindi** y uno en **inglés** a horas diferentes cada noche, y el turno en inglés suele ser el más tardío de los dos. Tu reserva se fijará según tu fecha, porque los horarios cambian con la puesta de sol a lo largo del año.\n\n**Cena**\n\nIncluida, y el horario se ajusta antes o después del espectáculo según el turno.\n\n**Por qué vale la pena la noche**\n\nAmber de día está lleno de gente, caluroso y repleto de grupos en autocar. De noche el complejo está vacío, la temperatura ha bajado, y la arenisca iluminada contra una cresta oscura es realmente hermosa, y la ves desde el único ángulo que los visitantes de día nunca tienen, que es desde abajo y desde el otro lado del lago.\n\nTambién combina bien si ya has estado dentro durante el día; la narración trata sobre salas en las que has estado.\n\n**Práctico**\n\nUnas tres horas incluyendo traslados desde Jaipur, unos once kilómetros en cada sentido.\n\nLos asientos son al aire libre en bancos escalonados frente al agua. De noviembre a febrero las noches de Jaipur bajan bruscamente tras el anochecer, lleva una chaqueta.\n\nEl espectáculo no funciona con lluvia intensa, y ocasionalmente cierra por mantenimiento o eventos estatales.\n\nVale la pena llevar repelente de mosquitos: estás sentado junto a un lago al atardecer.",
+  "highlights": [
+   "Explora la rica cultura patrimonial de Rajastán y Jaipur con luz y sonido."
+  ],
+  "included": [
+   "Recogida y regreso",
+   "Vehículo con aire acondicionado",
+   "Entrada al espectáculo de luz y sonido",
+   "Cena vegetariana con baile cultural"
+  ],
+  "notIncluded": [
+   "Bebidas",
+   "Propinas",
+   "Alojamiento"
+  ]
+ },
+ "jaipur-amber-jaigarh-forts-private-half-day-tour": {
+  "title": "Jaipur: Tour privado de medio día a los fuertes Amber y Jaigarh",
+  "metaTitle": "Jaipur: medio día privado Amber y Jaigarh",
+  "metaDescription": "Medio día en los fuertes Amber y Jaigarh con coche privado y guía de habla inglesa. Unas cinco horas.",
+  "shortDescription": "Medio día en los fuertes Amber y Jaigarh con un coche privado y un guía de habla inglesa. Unas cinco horas.",
+  "fullDescription": "**Dos fuertes en la misma cresta, y el túnel entre ellos**\n\nAmber era el palacio. Jaigarh, directamente encima, era el arsenal, y están conectados por un túnel que la familia real podía usar si caía el fuerte inferior. Hacer ambos en medio día es la combinación correcta, y la mayoría de los tours solo hacen el primero.\n\n**Fuerte Amber**\n\nIniciado en 1592 por Raja Man Singh, sobre una colina encima del **lago Maota**, en arenisca pálida y mármol. La vista de él elevándose sobre el agua desde la carretera de abajo es la postal.\n\nDentro: **Jaleb Chowk**, el patio de desfile donde se revisaban los ejércitos que regresaban. La puerta pintada **Ganesh Pol**, con una galería enrejada arriba desde la que las mujeres de la corte observaban las llegadas sin ser vistas. El **Sheesh Mahal**, con miles de fragmentos de espejo convexo colocados para que una vela pareciera un techo de estrellas. Y el **Sukh Niwas**, enfriado por agua que corre en canales a través del mármol.\n\nEl patio del **zenana** albergaba doce apartamentos de reinas, dispuestos para que ninguno diera a otro.\n\n**Fuerte Jaigarh**\n\nArriba en la cresta, y un edificio completamente distinto, militar en lugar de residencial, con 3 km de murallas y casi ninguna decoración.\n\nAlberga **Jaivana**, fundido aquí en 1720 y el cañón de ruedas más grande jamás fabricado: un cañón de más de seis metros de largo, sobre un carruaje que necesitaba cuatro elefantes para girarlo. Se disparó exactamente una vez, en una prueba, y se dice que la bala viajó 35 kilómetros.\n\nEl fuerte también tiene el sistema de agua que abastecía a Amber, enormes tanques subterráneos, de donde viene la leyenda del tesoro oculto de los Kachwaha.\n\nLas vistas sobre el complejo de Amber desde aquí arriba son las mejores que hay.\n\n**Práctico**\n\nCinco horas con coche privado, conductor y guía de habla inglesa, desde tu hotel.\n\nUna subida real en ambos fuertes sobre piedra irregular, zapatos planos.\n\nLas tasas de entrada se pagan en cada puerta. Jaigarh es una entrada pequeña y separada y vale la pena.",
+  "highlights": [
+   "Explora el magnífico Fuerte Amber en la colina con vistas al lago Maota"
+  ],
+  "included": [
+   "Vehículo privado con aire acondicionado para traslados y visitas",
+   "Recogida y regreso al hotel en Jaipur",
+   "Guía privado profesional de habla inglesa",
+   "Tasas de entrada para los monumentos mencionados en el itinerario",
+   "Agua potable embotellada en el vehículo",
+   "Tasas de aparcamiento, peajes, combustible y dietas del conductor",
+   "Impuestos gubernamentales aplicables y GST"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas no mencionadas específicamente",
+   "Billetes de avión o tren",
+   "Seguro de viaje",
+   "Actividades o servicios opcionales no incluidos específicamente",
+   "Propinas opcionales",
+   "Tasas de cámara o video en monumentos, donde corresponda",
+   "Gastos personales y compras",
+   "Visitas o servicios adicionales no listados",
+   "Cualquier cosa no mencionada específicamente en las inclusiones"
+  ]
+ },
+ "jaipur-amer-fort-guided-tour-with-local-guide": {
+  "title": "Jaipur: Tour guiado del Fuerte Amer con guía local",
+  "metaTitle": "Jaipur: Fuerte Amer con guía local",
+  "metaDescription": "Tres horas dentro del Fuerte Amer con un guía local, los patios, el palacio de los espejos y las historias detrás de ellos.",
+  "shortDescription": "Tres horas dentro del Fuerte Amer con un guía local, los patios, el palacio de los espejos y las historias detrás de ellos.",
+  "fullDescription": "**Un fuerte, tres horas, un guía**\n\nAmer recompensa a un guía más que cualquier otro monumento en Jaipur. Es un complejo de cuatro patios construido durante 150 años por distintos gobernantes con intenciones diferentes, y sin alguien que lo explique estás mirando salas bonitas sin ningún orden particular.\n\nEncuentro en tu hotel o en la puerta principal del fuerte.\n\n**Lo que recorres**\n\n**Jaleb Chowk**, el primer patio, donde los ejércitos que regresaban desfilaban y el maharajá los revisaba. Los establos a lo largo de su borde todavía están ahí.\n\n**Ganesh Pol**, la puerta pintada hacia el palacio privado, yeso sobre piedra, que todavía conserva su pigmento original en algunos lugares, con una galería enrejada arriba desde la que las mujeres de la corte podían observar las llegadas sin ser vistas.\n\n**Sheesh Mahal**, el palacio de los espejos. Miles de fragmentos de vidrio convexo incrustados en el techo y las paredes para que una sola vela se leyera como un cielo lleno de estrellas. Era vidrio belga importado, cortado y colocado por artesanos locales.\n\n**Sukh Niwas** al otro lado del patio, donde el agua corría por canales tallados en las paredes de mármol, enfriada por evaporación, aire acondicionado cuatrocientos años antes.\n\n**El zenana**, el cuarto patio: doce apartamentos para doce reinas alrededor de un único patio, con los pasillos deliberadamente dispuestos para que el maharajá pudiera visitar a una sin que las demás supieran cuál.\n\n**El entorno**\n\nEl lago Maota debajo, con el jardín **Kesar Kyari** dispuesto en el agua con un patrón de parterre de azafrán, y **Jaigarh** en la cresta de arriba, conectado por un túnel.\n\n**Práctico**\n\nTres horas, y una buena cantidad de subida sobre piedra irregular, zapatos planos.\n\nVe temprano. Amer a las nueve de la mañana y Amer al mediodía son experiencias diferentes.\n\nLa entrada cuesta ₹550 para extranjeros, pagada en la puerta. Los paseos en elefante en la base funcionan de forma independiente y no los reservamos; un jeep sube la misma rampa.",
+  "highlights": [
+   "Admira el intrincado trabajo de espejos del Sheesh Mahal"
+  ],
+  "included": [
+   "Tour guiado del Fuerte Amer",
+   "Asistencia de entrada rápida",
+   "Visita al Sheesh Mahal",
+   "Visita al Ganesh Pol",
+   "Vista del lago Maota",
+   "Espectáculo de luz y sonido opcional (COSTE EXTRA)"
+  ],
+  "notIncluded": [
+   "Recogida en el hotel",
+   "Espectáculo de luz y sonido (coste extra)",
+   "Entradas"
+  ]
+ },
+ "jaipur-architecture-culture-scenic-viewpoints-pick": {
+  "title": "Jaipur: Arquitectura, cultura y miradores escénicos + recogida",
+  "metaTitle": "Jaipur: arquitectura, cultura, miradores",
+  "metaDescription": "Cuatro horas de arquitectura, pozos escalonados y miradores de Jaipur, pensado para fotógrafos más que para listas de visitas.",
+  "shortDescription": "Cuatro horas de arquitectura, pozos escalonados y miradores de Jaipur, pensado para fotógrafos más que para listas de visitas.",
+  "fullDescription": "**Para quienes prefieren fotografiar antes que hacer cola**\n\nEsta ruta evita los monumentos donde todos hacen cola y va a los lugares que realmente merecen una cámara: simetría, pozos escalonados, puertas pintadas y miradores en la cresta.\n\nConviene a un segundo día en Jaipur, o a un primer día si ya has decidido que los fuertes no son para ti.\n\n**Panna Meena ka Kund**\n\nUn pozo escalonado del siglo 16 debajo de Amber, con escaleras simétricas entrecruzadas que descienden ocho plantas hasta el agua. Se construyó para que el pueblo pudiera llegar al agua en cualquier estación, y la temperatura en el fondo es varios grados inferior a la de la superficie.\n\nSe fotografía como un dibujo de Escher y casi siempre está tranquilo, porque los autocares no se detienen. No puedes bajar hasta el agua, y no deberías intentarlo.\n\n**Puerta Patrika**\n\nNueve arcos pintados en Jawahar Circle, cada superficie cubierta de murales de las regiones de Rajastán, y el lugar más fotografiado de la ciudad que no es un fuerte. Por la mañana, antes de la cola de parejas con conjuntos iguales.\n\n**Gaitor ki Chhatriyan**\n\nEl lugar de cremación de los maharajás Kachwaha: un jardín amurallado de cenotafios de mármol blanco tallado al pie de la colina de Nahargarh. Jai Singh II, quien construyó la ciudad y el observatorio, está aquí. Casi nadie más.\n\n**Los miradores**\n\nLas carreteras de la cresta Aravalli, con toda la cuadrícula de la ciudad amurallada extendida abajo. A última hora de la tarde la arenisca pasa de rosa a naranja intenso.\n\n**Y las fachadas**\n\n**Hawa Mahal** desde la calle de enfrente con la luz de la mañana, la hora para la que fue diseñado para ser visto, y las puertas pintadas y havelis de la ciudad vieja que nadie ha restaurado y nadie fotografía.\n\n**Práctico**\n\nCuatro horas con recogida en hotel, aeropuerto o estación.\n\nLa mayoría de estos lugares son gratuitos o de coste simbólico, lo que explica en parte lo que cuesta este tour.\n\nVe temprano. La mitad de estos lugares solo funcionan en las primeras dos horas de luz.",
+  "highlights": [
+   "Captura los arcos pintados y los colores vivos de la Puerta Patrika."
+  ],
+  "included": [
+   "Tour privado",
+   "Recogida y regreso al hotel",
+   "Vehículo con aire acondicionado",
+   "Chófer local profesional"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Tasas de entrada"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
