@@ -4898,6 +4898,101 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alle persönlichen Ausgaben"
   ]
  },
+ "from-delhi-private-layover-taj-mahal-day-tour-by": {
+  "title": "Ab Delhi: private Taj-Mahal-Tour während eines Layovers, im Wagen",
+  "metaTitle": "Delhi: Taj Mahal während eines Layovers, im Wagen",
+  "metaDescription": "Eine Taj-Mahal-Tour während eines Layovers ab dem Flughafen Delhi, zehn Stunden von Tür zu Tür, mit Wagen, Guide und Ticketoptionen.",
+  "shortDescription": "Eine Taj-Mahal-Tour während eines Layovers ab dem Flughafen Delhi, zehn Stunden von Tür zu Tür, mit Wagen, Guide und Ticketoptionen.",
+  "fullDescription": "**Gebaut für einen langen Layover**\n\nWenn Sie zehn Stunden zwischen zwei Flügen am Flughafen Delhi haben, ist das, was Sie daraus machen können. Abholung am Terminal, die Schnellstraße nach Agra, der Taj und das Fort, und zurück zum Abflug.\n\nEs ist eng und funktioniert, und zwei Dinge sollten vor der Buchung ehrlich gesagt sein.\n\n**Die Rechnung**\n\nVom Flughafen Delhi nach Agra sind es unter guten Bedingungen drei bis dreieinhalb Stunden je Strecke. Das lässt rund drei Stunden vor Ort, die den Taj ordentlich und das Agra Fort zügig abdecken.\n\nSie brauchen **mindestens zehn Stunden** zwischen Landung und Ihrem nächsten Check-in, und zwölf sind bequem. Weniger sollten Sie nicht versuchen.\n\n**Sie müssen außerdem den Flughafen verlassen können**, was die Einreisekontrolle bedeutet, also ein indisches Visum, nicht nur einen Transitstempel. Prüfen Sie das vor jeder Buchung.\n\n**Gepäck**\n\nNutzen Sie die Gepäckaufbewahrung des Flughafens, statt Taschen nach Agra mitzunehmen, und rechnen Sie die Zeit dafür ein.\n\n**Taj Mahal**\n\nShah Jahan begann ihn 1632, im Jahr nachdem Mumtaz Mahal bei der Geburt ihres vierzehnten Kindes gestorben war. Zweiundzwanzig Jahre, zwanzigtausend Arbeiter, Marmor über 400 km von Makrana herangekarrt.\n\nIhr Guide behandelt die **Kalligrafie**, in wachsenden Größen geschnitten, damit sie vom Boden aus gleich hoch erscheint, die **Pietra dura** mit Dutzenden Steinen pro Blüte, die vier **Minarette**, nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg fallen ließe, und die einzige Asymmetrie im ganzen Bau.\n\n**Agra Fort**\n\nAkbars Stadt aus rotem Sandstein von 1565, Shah Jahans Marmor darin, und der **Musamman Burj**, wo er als Gefangener seines eigenen Sohnes starb.\n\n**Drei Optionen**\n\nTransport und Guide; mit Eintrittskarten zu den Monumenten; oder mit Eintritten und einem Fünf-Sterne-Essen.\n\n**Praktisch**\n\n**Der Taj ist freitags geschlossen**, fällt Ihr Layover auf diesen Tag, funktionieren Agra Fort und der Baby Taj trotzdem.",
+  "highlights": [
+   "Verwandeln Sie Ihren zehnstündigen Layover in einen unvergesslichen Ausflug zum Taj Mahal und nach Agra"
+  ],
+  "included": [
+   "Abhol- und Rückfahrtservice am Hotel",
+   "Privater klimatisierter Transport",
+   "Privater Reiseleiter",
+   "Eintrittskarten für die Monumente (bei gewählter Option)",
+   "Mahlzeit in einem 5-Sterne-Hotel (bei gewählter Option)",
+   "Kostenloses Wasser in Flaschen und Schirme",
+   "Alle Parkgebühren und Steuern"
+  ],
+  "notIncluded": [
+   "Jegliche Getränke",
+   "Trinkgelder und Gratifikationen"
+  ]
+ },
+ "from-delhi-private-taj-mahal-agra-fort-baby-taj": {
+  "title": "Ab Delhi: private Tour zu Taj Mahal, Agra Fort und Baby Taj",
+  "metaTitle": "Delhi: Taj Mahal, Agra Fort und Baby Taj privat",
+  "metaDescription": "Ein privater Tagesausflug ab Delhi zu Taj Mahal, Agra Fort und dem Baby Taj, mit einer Option für einen frühen Start zum Sonnenaufgang.",
+  "shortDescription": "Ein privater Tagesausflug ab Delhi zu Taj Mahal, Agra Fort und dem Baby Taj, mit einer Option für einen frühen Start zum Sonnenaufgang.",
+  "fullDescription": "**Drei Grabmäler, und die Reihenfolge, in der sie gebaut wurden**\n\nDiese Route durchläuft zufällig die mogulische Architektur rückwärts. Der **Baby Taj** wurde 1628 fertiggestellt; der **Taj Mahal** wurde vier Jahre später begonnen. Den kleineren Bau zu sehen, zeigt genau, woher der größere kommt, der Marmor, die Pietra dura, die Jali-Gitter, alles erscheint zuerst bei Itimad-ud-Daulah, in einem Maßstab, den eine einzige Familie bezahlen konnte.\n\nUnd im **Agra Fort** starb der Mann, der den Taj in Auftrag gab, als Gefangener, mit Blick auf ihn.\n\nBitten Sie Ihren Guide, sie in dieser Reihenfolge zu besuchen, wenn die Zeit es erlaubt. Es verändert den Tag.\n\n**Taj Mahal**\n\nWählen Sie einen frühen Start für den Sonnenaufgang, wenn der Marmor von grau zu rosa zu weiß geht, während das Licht über die Yamuna kommt und die Menge nur ein Bruchteil der am späteren Vormittag ist.\n\nShah Jahan begann ihn 1632, im Jahr nachdem Mumtaz Mahal bei der Geburt ihres vierzehnten Kindes gestorben war. Zwanzigtausend Arbeiter, zweiundzwanzig Jahre, Marmor über 400 km von Makrana herangekarrt.\n\nDie **Kalligrafie**, in wachsenden Größen geschnitten, damit sie vom Boden aus gleich hoch erscheint; die **Pietra dura**, bis zu sechzig Steine pro Blüte; die vier **Minarette**, nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg fallen ließe; und Shah Jahans eigenes Kenotaph, das einzige Objekt im Bau, das außerhalb der Mittelachse steht.\n\n**Agra Fort**\n\nAkbars Stadt aus rotem Sandstein von 1565, Shah Jahans Marmor darin, und der **Musamman Burj**.\n\n**Itimad-ud-Daulah**\n\nNur Jahan ließ es zwischen 1622 und 1628 für ihren Vater bauen: das erste ganz marmorne Mogulbauwerk und das erste in Indien, das Pietra dura verwendet. Dichter eingelegt als der Taj, und fast immer leer.\n\n**Drei Optionen**\n\nWagen, Fahrer und Guide ab Agra; ab Delhi mit Wagen, Fahrer und Guide; oder die volle Fassung mit Tickets und einem Fünf-Sterne-Essen.\n\n**Praktisch**\n\nAcht Stunden in Agra plus die Fahrt. **Der Taj ist freitags geschlossen.**",
+  "highlights": [
+   "Wählen Sie einen Taj-Mahal-Besuch bei Sonnenaufgang oder am Tag, mit Abholung ab Delhi"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen (Delhi, Gurgaon, Noida)",
+   "Privates klimatisiertes Fahrzeug für die gesamte Fahrt",
+   "Professioneller Reiseleiter vor Ort in Agra",
+   "Eintrittskarten ohne Anstehen für die Monumente (bei gewählter Option)",
+   "Frühstück in einem 5-Sterne-Hotel (bei gewählter Option)",
+   "Mineralwasser in Flaschen während der gesamten Fahrt",
+   "Alle anfallenden Steuern, Mautkosten und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "from-delhi-private-taj-mahal-agra-tour-by-choice": {
+  "title": "Ab Delhi: private Tour zu Taj Mahal und Agra mit Wagen nach Wahl",
+  "metaTitle": "Delhi-Taj Mahal: Wagen nach Wahl, 5-Sterne-Mittagessen",
+  "metaDescription": "Ein privater Agra-Tag ab der Hauptstadtregion Delhi mit dem Fahrzeug Ihrer Wahl, Limousine, SUV oder Luxuswagen, und einem Fünf-Sterne-Mittagessen.",
+  "shortDescription": "Ein privater Agra-Tag ab der Hauptstadtregion Delhi mit dem Fahrzeug Ihrer Wahl, Limousine, SUV oder Luxuswagen, und einem Fünf-Sterne-Mittagessen.",
+  "fullDescription": "**Sie wählen den Wagen, und das zählt an einem zwölfstündigen Tag**\n\nLimousine, SUV, Luxuslimousine (Mercedes oder BMW) oder Luxus-SUV (Vellfire oder Vianna). Für zwei Personen reicht eine Limousine; für vier mit Gepäck nicht, und für alle über etwa 1,80 m macht der SUV den Unterschied zwischen einem langen und einem unbequemen Tag.\n\nAbholung überall in der Hauptstadtregion Delhi: Hotel, Flughafen, Noida, Gurugram, Ghaziabad oder Faridabad.\n\n**Die Fahrt**\n\nDie **Yamuna Expressway**, eine sechsspurige Mautstraße, 2012 eröffnet, und der Grund, warum ein Taj-Tagesausflug ab Delhi überhaupt möglich ist. Drei bis dreieinhalb Stunden mit Pause.\n\n**Taj Mahal**\n\nShah Jahan begann ihn 1632, im Jahr nachdem Mumtaz Mahal bei der Geburt ihres vierzehnten Kindes gestorben war. Zwanzigtausend Arbeiter, zweiundzwanzig Jahre, und weißer Marmor über 400 km aus Makrana in Rajasthan herangekarrt.\n\nIhr Guide behandelt die **Kalligrafie**, in immer größeren Buchstaben geschnitten, damit vom Boden aus jede Zeile gleich hoch erscheint; die **Pietra-dura**-Einlagen, bei denen eine Blüte sechzig einzelne Steine halten kann; die vier **Minarette**, minimal nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg fallen ließe; und die Täuschung am Torbau, wo der Bau beim Näherkommen kleiner zu werden scheint.\n\nUnd die eine bewusste Asymmetrie: Shah Jahans eigenes Kenotaph, von Aurangzeb außerhalb der Mittelachse neben das seiner Frau gesetzt.\n\n**Agra Fort**\n\nAkbars Stadt aus rotem Sandstein von 1565 mit Shah Jahans Marmorpalästen darin, dem **Diwan-i-Am**, dem **Khas Mahal**, dem **Sheesh Mahal**, und dem **Musamman Burj**, dem achteckigen Turm, in dem Aurangzeb seinen Vater die letzten acht Jahre seines Lebens gefangen hielt, mit dem Taj in Sicht am Fluss.\n\n**Mittagessen**\n\nIn einem Fünf-Sterne-Hotel bei jeder Option.\n\n**Praktisch**\n\nRund sieben Stunden in Agra plus die Fahrt. **Der Taj ist freitags geschlossen.**\n\nDas letzte Stück zum Monument geht zu Fuß oder mit einem Elektrofahrzeug: Privatwagen halten vor der Umweltsperrzone, unabhängig davon, was Sie fahren.",
+  "highlights": [
+   "Bestaunen Sie den Anblick des Taj Mahal bei Sonnenaufgang auf einer geführten Tour"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen in der Hauptstadtregion Delhi",
+   "Privater Reiseleiter vor Ort in Agra",
+   "Privates klimatisiertes Fahrzeug",
+   "Wahl zwischen Limousine, SUV, Luxuslimousine (Mercedes/BMW) oder Luxus-SUV (Vellfire/Viano) (bei gewählter Option)",
+   "Frühstück oder Mittagessen in einem 5-Sterne-Hotel",
+   "Mineralwasser in Flaschen",
+   "Alle Steuern, Mautkosten und Parkgebühren",
+   "Treibstoff- und Fahrerkosten",
+   "Besuch des Baby Taj (optional, je nach verfügbarer Zeit)"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für die Monumente (Ihr Guide kauft die Tickets vorab, Sie zahlen ihn später zurück)",
+   "Trinkgelder"
+  ]
+ },
+ "from-delhi-private-taj-mahal-agra-tour-by-superfas": {
+  "title": "Ab Delhi: private Tour zu Taj Mahal und Agra mit dem Superschnellzug",
+  "metaTitle": "Delhi-Agra im Superschnellzug: Taj Mahal mit Guide",
+  "metaDescription": "Agra ab Delhi mit dem Gatimaan Express, mit Frühstück an Bord, Privatwagen und Guide, und Klassenoptionen.",
+  "shortDescription": "Agra ab Delhi mit dem Gatimaan Express, mit Frühstück an Bord, Privatwagen und Guide, und Klassenoptionen.",
+  "fullDescription": "**Frühstück im Zug, und warum das zählt**\n\nDer **Gatimaan Express** ist einer der wenigen indischen Züge, bei denen Verpflegung im Fahrpreis enthalten ist und am Platz serviert wird, ein warmes Frühstück, gebracht, in einem Zug, der 160 km/h fährt. Delhi nach Agra dauert hundert Minuten.\n\nIm Vergleich zur Straßenfassung dieses Tagesausflugs gibt das vier oder fünf Stunden zurück, und Sie kommen gegessen an, statt seit fünf Uhr morgens im Auto gesessen zu haben.\n\n**In Agra**\n\nEin privater klimatisierter Wagen und ein lizenzierter Guide übernehmen am Bahnhof Agra Cantt.\n\n**Taj Mahal.** Shah Jahan begann ihn 1632, im Jahr nachdem Mumtaz Mahal bei der Geburt ihres vierzehnten Kindes gestorben war. Zwanzigtausend Arbeiter, zweiundzwanzig Jahre, und Marmor über 400 km aus Makrana in Rajasthan herangekarrt.\n\nWas ein Guide Ihnen gibt: die **Kalligrafie** am großen Bogen, in immer größeren Buchstaben geschnitten, damit vom Boden aus jede Zeile gleich hoch erscheint; die **Pietra-dura**-Einlagen, bei denen eine Blüte sechzig einzelne Steine halten kann; die vier **Minarette**, minimal nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg fallen ließe; und die Täuschung am Torbau, wo der Bau beim Näherkommen kleiner zu werden scheint.\n\nUnd die eine Asymmetrie in einer millimetergenau gespiegelten Komposition: Shah Jahans eigenes Kenotaph, von Aurangzeb außerhalb der Mittelachse gesetzt.\n\n**Agra Fort.** Akbars Stadt aus rotem Sandstein von 1565 mit den Marmorpalästen seines Enkels darin, dem **Diwan-i-Am**, dem **Khas Mahal**, dem **Sheesh Mahal**, und dem **Musamman Burj**, dem Turm, in dem dieser Enkel seine letzten acht Jahre als Gefangener seines eigenen Sohnes verbrachte.\n\nDann der abendliche Gatimaan zurück nach Delhi.\n\n**Drei Optionen**\n\nWagen, Guide und Plätze zweiter Klasse ohne Tickets oder Mittagessen; dasselbe mit Eintritten und einem Fünf-Sterne-Mittagessen; oder erste Klasse mit allem inklusive.\n\n**Praktisch**\n\nRund vierzehn Stunden von Tür zu Tür. Der Gatimaan fährt freitags nicht, und das ist auch der Tag, an dem der Taj geschlossen ist.\n\nDie Plätze sind begrenzt: buchen Sie früh, und nehmen Sie den Pass mit, mit dem Sie gebucht haben.",
+  "highlights": [
+   "Reisen Sie von Delhi nach Agra mit dem Gatimaan Express, Indiens komfortablem Zug"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel überall in Delhi oder der Region",
+   "Hin- und Rückfahrkarten für den Hochgeschwindigkeitszug Gatimaan Express",
+   "Geführte Stadtrundfahrt im privaten klimatisierten Wagen für mehr Komfort",
+   "Frühstück an Bord während der Zugfahrt nach Agra",
+   "Abendessen während der Rückfahrt im Zug nach Delhi",
+   "Professioneller lokaler Reiseleiter für individuelle Besichtigungen",
+   "Kostenloses Mineralwasser in Flaschen während der Tour",
+   "Eintrittskarten für alle Monumente (falls bei der Buchung gewählt) (bei gewählter Option)",
+   "Mittagsbuffet in einem luxuriösen 5-Sterne-Hotel (falls die Mittagsoption gewählt wird)"
+  ],
+  "notIncluded": [
+   "Trinkgelder und Gratifikationen",
+   "Jegliches Getränk"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Offiziellen Guide für die Erkundung von Bengaluru buchen",
   "metaTitle": "Bengaluru mit Guide: Paläste, Lalbagh, Tempel und Basare",
