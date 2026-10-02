@@ -6345,6 +6345,94 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toutes dépenses personnelles"
   ]
  },
+ "taj-mahal-sunset-sunset-tour": {
+  "title": "Agra : visite du Taj Mahal au coucher du soleil avec entrée coupe-file (3 heures)",
+  "metaTitle": "Taj Mahal au coucher du soleil, entrée coupe-file, 3 h",
+  "metaDescription": "Trois heures au Taj Mahal pour le coucher du soleil, entrée coupe-file et guide agréé. Voiture et billets en option.",
+  "shortDescription": "Trois heures au Taj Mahal pour le coucher du soleil, entrée coupe-file et guide agréé. Voiture et billets en option.",
+  "fullDescription": "**Le Taj dans la dernière lumière**\n\nLe lever du soleil retient l'attention. Le coucher du soleil est la visite la plus facile et, pour beaucoup, la meilleure : pas de réveil à quatre heures, une lumière ambrée chaude plutôt que blanche et froide, et une foule qui s'éclaircit vers la fermeture au lieu de grossir.\n\nTrois heures, avec prise en charge à votre hôtel à Agra l'après-midi.\n\n**Coupe-file**\n\nL'entrée réservée à l'avance vous met dans le couloir le plus court à la porte. Le contrôle de sécurité s'applique quand même à tout le monde, et la liste des interdits est ferme : pas de trépied, pas de drone, pas de nourriture, pas de grands sacs. Il y a des casiers à l'entrée.\n\n**À l'intérieur**\n\nShah Jahan l'a commencé en 1632, l'année suivant la mort de Mumtaz Mahal. Vingt-deux ans, vingt mille ouvriers, et du marbre charrié sur 400 km depuis Makrana.\n\nVotre guide couvre ce qui en fait plus qu'une silhouette : la **calligraphie** du grand arc, gravée en tailles croissantes pour paraître uniforme depuis le sol ; les incrustations de **pietra dura**, avec jusqu'à soixante pierres dans une seule fleur ; les quatre **minarets**, très légèrement inclinés vers l'extérieur pour qu'un séisme les éloigne du tombeau plutôt que de le traverser ; et l'illusion à la porte **Darwaza-i-Rauza**, où le Taj paraît plus petit à mesure qu'on s'en approche.\n\nEt la seule asymétrie : le cénotaphe de Shah Jahan lui-même, placé hors de l'axe central par Aurangzeb, dans un édifice par ailleurs parfaitement symétrique.\n\n**La dernière demi-heure**\n\nLa raison d'être ici à cette heure. Le marbre est assez translucide pour garder la couleur après que le soleil l'a quitté, or, puis rose, puis gris, et le dôme est la dernière chose encore éclairée.\n\n**Trois options**\n\nGuide seul ; voiture privée, chauffeur et guide ; ou la même chose avec le billet d'entrée compris, 1,100 ₹ pour les ressortissants étrangers, plus 200 ₹ pour la chambre du mausolée.\n\n**Pratique**\n\n**Fermé le vendredi.** La dernière entrée est avant le coucher du soleil, et non à ce moment-là, et l'heure se déplace au fil de l'année, la prise en charge est donc calée sur votre date.",
+  "highlights": [
+   "Profitez du Taj Mahal pendant l'heure dorée du coucher du soleil."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour les visites",
+   "Guide touristique professionnel",
+   "Billets d'entrée des monuments (selon l'option choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toutes dépenses personnelles"
+  ]
+ },
+ "taj-mahal-vip-tickets-with-complimentary-guide-pic": {
+  "title": "Taj Mahal : billets VIP avec guide et navette offerts",
+  "metaTitle": "Taj Mahal : billets VIP, guide et navette offerts",
+  "metaDescription": "Billets express réservés à l'avance pour le Taj Mahal avec un guide et une prise en charge à l'hôtel à Agra. Environ deux heures et demie.",
+  "shortDescription": "Billets express réservés à l'avance pour le Taj Mahal avec un guide et une prise en charge à l'hôtel à Agra. Environ deux heures et demie.",
+  "fullDescription": "**Court, peu cher, et ça supprime la file**\n\nDeux heures et demie : prise en charge à votre hôtel, parcours du Taj avec un guide sur un billet réservé à l'avance, et retour. Rien d'autre.\n\nC'est la durée qu'il faut pour le monument si vous avez un train à prendre ou une deuxième journée prévue, et c'est l'entrée réservée à l'avance qui le rend possible, le seul guichet peut prendre quarante-cinq minutes en haute saison.\n\n**Ce qui est compris**\n\nPrise en charge par un chauffeur à votre hôtel ou à l'endroit choisi à Agra, le billet d'entrée express, et un guide qui vous retrouve à la porte.\n\n**Ce qui ne peut pas être évité**\n\nLa sécurité, pour tout le monde. Pas de trépied, pas de drone, pas de nourriture, pas de grands sacs, pas de briquets. Téléphones et petits appareils photo passent sans problème ; des casiers à l'entrée prennent le reste.\n\n**À l'intérieur**\n\nPar le **Darwaza-i-Rauza**, la grande porte de grès rouge, où le Taj apparaît dans l'arc et, en raison d'une astuce de proportion délibérée, semble rétrécir à mesure qu'on s'en approche.\n\nPuis le **charbagh**, le jardin en quatre parties divisé par des canaux d'eau, avec le tombeau qui se reflète sur toute la longueur du bassin central.\n\nSur la plateforme : la **calligraphie** de l'arc principal, gravée en lettres de plus en plus grandes pour se lire d'une hauteur égale depuis le sol ; les incrustations de **pietra dura**, où une seule fleur peut porter soixante morceaux de cornaline, de jaspe, de lapis et de jade ; et les quatre **minarets**, chacun légèrement incliné vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau plutôt que sur lui.\n\nDans la chambre, le claustra sculpté et les deux cénotaphes, et la seule asymétrie d'un édifice parfaitement symétrique : le tombeau de Shah Jahan lui-même, placé hors du centre par son fils. Les vraies tombes sont scellées dans la crypte en dessous.\n\n**Deux options**\n\nGuide seul, ou billets VIP avec le guide et la prise en charge.\n\n**Pratique**\n\n**Fermé tous les vendredis.** La première heure après l'ouverture est la meilleure de la journée, plus fraîche, plus calme, et le marbre passe du gris au rose puis au blanc.",
+  "highlights": [
+   "Évitez la foule au guichet grâce à des billets réservés à l'avance"
+  ],
+  "included": [
+   "Billets coupe-file pour le Taj Mahal",
+   "Guide touristique privé",
+   "Voiture privée pour la prise en charge et le retour à l'hôtel",
+   "Eau minérale",
+   "Toutes les taxes"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "taj-mahalagra-day-tour-from-delhi-by-indias-fastes": {
+  "title": "Taj Mahal/Agra en journée depuis Delhi avec le train le plus rapide d'Inde",
+  "metaTitle": "Delhi-Agra en Gatimaan Express : Taj à sa meilleure heure",
+  "metaDescription": "Delhi-Agra en Gatimaan Express, le train le plus rapide d'Inde, avec guide, voiture privée à Agra et le Taj à sa meilleure heure.",
+  "shortDescription": "Delhi-Agra en Gatimaan Express, le train le plus rapide d'Inde, avec guide, voiture privée à Agra et le Taj à sa meilleure heure.",
+  "fullDescription": "**Le train, la bonne façon de faire cela**\n\nDelhi-Agra par la route, c'est trois heures et demie à quatre heures, et le retour dans le trafic du soir peut être pire. Le **Gatimaan Express** couvre cela en cent minutes à 160 km/h, avec petit-déjeuner servi à la place.\n\nCe sont deux à trois heures de votre journée rendues, et c'est la différence entre arriver au Taj frais et y arriver ankylosé.\n\n**Le trajet**\n\nPrise en charge matinale à votre hôtel à Delhi jusqu'à la gare de Hazrat Nizamuddin. Le train circule six jours par semaine, **pas le vendredi**, qui est aussi le jour de fermeture du Taj, les deux s'alignent donc.\n\nPlaces réservées, restauration à bord, et une fenêtre sur la campagne du nord de l'Inde qui défile plus vite que sur n'importe quelle autre ligne du réseau.\n\n**À Agra**\n\nUn guide local agréé vous retrouve à Agra Cantt et une voiture privée climatisée prend le relais pour la journée.\n\n**Taj Mahal** dans la lumière du matin. Votre guide couvre ce qui fait l'édifice plutôt que les dates : la **calligraphie** gravée plus grande à mesure qu'elle s'élève pour se lire d'une hauteur égale depuis le sol ; les fleurs de **pietra dura** de quarante pierres incrustées ou plus ; les **minarets** légèrement inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau ; et la seule asymétrie, le cénotaphe de Shah Jahan, placé hors de l'axe à côté de celui de sa femme par Aurangzeb.\n\n**Le fort d'Agra** ensuite, les murailles de grès rouge d'Akbar, 1565, le marbre de Shah Jahan à l'intérieur, et le **Musamman Burj** où il a passé ses huit dernières années prisonnier de son fils, regardant le Taj le long du fleuve.\n\nDéjeuner, puis le Gatimaan du soir pour rentrer à Delhi.\n\n**Quatre options**\n\nGuide seul. Une version voiture et guide pour les voyageurs déjà à Agra. Ou la journée complète en train de deuxième ou première classe, déjeuner et tous les billets d'entrée compris.\n\n**Pratique**\n\nLes places de train sont limitées et mises en vente à date fixe, réservez donc le plus tôt possible. Emportez le passeport utilisé pour la réservation ; les chemins de fer indiens contrôlent l'identité par rapport au billet.",
+  "highlights": [
+   "Voyagez à bord du train le plus rapide d'Inde, le Gatimaan Express, entre Delhi et Agra"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour les visites",
+   "Guide local expert agréé par le gouvernement",
+   "Billets de train aller-retour (selon l'option choisie)",
+   "Billets d'entrée des monuments (selon l'option choisie)",
+   "Déjeuner dans un hôtel 5 étoiles (selon l'option choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toutes dépenses personnelles"
+  ]
+ },
+ "transfer-agra-to-jaipur-via-fatehpur-sikri-stepwel": {
+  "title": "Transfert d'Agra à Jaipur via Fatehpur Sikri et un puits à degrés",
+  "metaTitle": "Agra-Jaipur via Fatehpur Sikri et Chand Baori",
+  "metaDescription": "Le transfert Agra-Jaipur transformé en visite, via Fatehpur Sikri et le puits à degrés de Chand Baori à Abhaneri.",
+  "shortDescription": "Le transfert Agra-Jaipur transformé en visite, via Fatehpur Sikri et le puits à degrés de Chand Baori à Abhaneri.",
+  "fullDescription": "**Deux des meilleurs sites du nord de l'Inde se trouvent sur cette route**\n\nLa plupart des gens paient pour un transfert Agra-Jaipur et regardent quatre heures d'autoroute. Le même trajet passe à quelques kilomètres de la capitale abandonnée d'Akbar et du puits à degrés le plus profond d'Inde, et transformer le transfert en journée est la chose la plus efficace à faire sur un circuit du Triangle d'or.\n\nIl se fait dans les deux sens, et il existe des versions avec le Taj et sur plusieurs jours.\n\n**Fatehpur Sikri**\n\nQuarante kilomètres à l'ouest d'Agra. Akbar a bâti cette capitale en 1571 et l'a abandonnée quatorze ans plus tard, faute d'eau, et c'est précisément pour cela qu'elle subsiste intacte. Personne n'y a vécu assez longtemps pour la modifier.\n\nLe **Buland Darwaza**, 54 mètres de porte triomphale, avec une inscription citant Jésus gravée sur une mosquée moghole. Le **Panch Mahal**, cinq étages ouverts qui se retirent en montant, dont aucune colonne n'est identique à une autre. Le **Diwan-i-Khas**, où un unique pilier central sculpté porte quatre passerelles vers les angles et où Akbar siégeait pendant que hindous, jaïns, jésuites et zoroastriens débattaient autour de lui. Et le **dargah de Salim Chishti** en marbre, dont les claustras portent encore les fils noués par ceux qui demandent un enfant.\n\n**Chand Baori, Abhaneri**\n\nPlus loin, et la raison de prendre cette route plutôt que l'autoroute.\n\n**3 500 marches** en volées doubles parfaites, descendant sur treize niveaux jusqu'à un carré d'eau verte, creusé au IXe siècle. Le fond est cinq à six degrés plus frais que la surface, ce qui comptait autant que l'eau. La géométrie se photographie comme une illusion d'optique, et vous l'aurez vue dans des films.\n\nLe **temple de Harshat Mata** à côté date de la même époque.\n\n**Six options**\n\nAgra vers Jaipur ; Jaipur vers Agra ; l'une ou l'autre avec une visite du Taj au lever du soleil en plus ; une version sur deux jours ; ou des circuits Delhi-Agra-Jaipur sur trois et quatre jours construits sur le même itinéraire.\n\n**Pratique**\n\nHuit heures pour le transfert d'un jour. Les bagages voyagent avec vous, préparez-les donc avant la prise en charge.\n\nLes droits d'entrée se paient à chaque site.",
+  "highlights": [
+   "Ce transfert est disponible avec plusieurs options, dont une visite du Taj Mahal au lever du soleil"
+  ],
+  "included": [
+   "Eau en bouteille",
+   "Véhicule privé climatisé",
+   "Toutes les taxes d'État, péages et frais de stationnement",
+   "Guide touristique pour le Taj Mahal et Fatehpur Sikri",
+   "Guide touristique le lendemain à Jaipur (selon l'option choisie)"
+  ],
+  "notIncluded": [
+   "Tout ce qui n'est pas mentionné ci-dessus",
+   "Tout pourboire pour le chauffeur et le guide",
+   "Tout repas",
+   "Droits d'entrée des monuments",
+   "Tout service de guide au puits à degrés (Abhaneri)"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Réservez un guide officiel pour explorer Bengaluru",
   "metaTitle": "Bengaluru avec guide : palais, Lalbagh, temples et bazars",

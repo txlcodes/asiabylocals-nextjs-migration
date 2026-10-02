@@ -6345,6 +6345,94 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alle persönlichen Ausgaben"
   ]
  },
+ "taj-mahal-sunset-sunset-tour": {
+  "title": "Agra: Taj-Mahal-Tour bei Sonnenuntergang mit Einlass ohne Anstehen (3 Stunden)",
+  "metaTitle": "Taj Mahal bei Sonnenuntergang, ohne Anstehen, 3 h",
+  "metaDescription": "Drei Stunden am Taj Mahal zum Sonnenuntergang mit Einlass ohne Anstehen und lizenziertem Guide. Wagen und Tickets optional.",
+  "shortDescription": "Drei Stunden am Taj Mahal zum Sonnenuntergang mit Einlass ohne Anstehen und lizenziertem Guide. Wagen und Tickets optional.",
+  "fullDescription": "**Der Taj im letzten Licht**\n\nDer Sonnenaufgang bekommt die Aufmerksamkeit. Der Sonnenuntergang ist der leichtere Besuch und für viele der bessere: kein Wecker um vier Uhr, warmes Amberlicht statt kaltes Weiß, und eine Menge, die zur Schließung hin ausdünnt statt zuzunehmen.\n\nDrei Stunden, mit Abholung an Ihrem Hotel in Agra am Nachmittag.\n\n**Ohne Anstehen**\n\nDer vorab gebuchte Einlass bringt Sie am Tor in die kürzere Spur. Die Kontrolle gilt dennoch für alle, und die Verbotsliste ist streng: keine Stative, keine Drohnen, kein Essen, keine großen Taschen. Am Eingang gibt es Schließfächer.\n\n**Innen**\n\nShah Jahan begann ihn 1632, im Jahr nachdem Mumtaz Mahal gestorben war. Zweiundzwanzig Jahre, zwanzigtausend Arbeiter, und Marmor über 400 km aus Makrana herangekarrt.\n\nIhr Guide behandelt, was ihn zu mehr als einer Silhouette macht: die **Kalligrafie** am großen Bogen, in wachsenden Größen geschnitten, damit sie vom Boden aus gleichmäßig erscheint; die **Pietra-dura**-Einlagen, mit bis zu sechzig Steinen in einer Blüte; die vier **Minarette**, ganz leicht nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg nähme statt durch es; und die Täuschung am Torbau **Darwaza-i-Rauza**, wo der Taj kleiner wirkt, je näher man kommt.\n\nUnd die einzige Asymmetrie: Shah Jahans eigenes Kenotaph, von Aurangzeb außerhalb der Mittelachse gesetzt, in einem sonst perfekt gespiegelten Bau.\n\n**Die letzte halbe Stunde**\n\nDer Grund, zu dieser Stunde hier zu sein. Der Marmor ist durchscheinend genug, um Farbe zu halten, nachdem die Sonne ihn verlassen hat, golden, dann rosa, dann grau, und die Kuppel ist das Letzte, was noch beleuchtet ist.\n\n**Drei Optionen**\n\nNur Guide; privater Wagen, Fahrer und Guide; oder dasselbe mit enthaltenem Eintrittsticket, 1,100 ₹ für ausländische Staatsangehörige, plus 200 ₹ für die Grabkammer.\n\n**Praktisch**\n\n**Freitags geschlossen.** Der letzte Einlass ist vor dem Sonnenuntergang, nicht zu ihm, und die Zeit wandert über das Jahr, die Abholung richtet sich also nach Ihrem Datum.",
+  "highlights": [
+   "Genießen Sie den Taj Mahal während der goldenen Stunde des Sonnenuntergangs."
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die Besichtigungen",
+   "Professioneller Reiseleiter",
+   "Eintrittskarten für die Monumente (bei gewählter Option)",
+   "Flasche Mineralwasser",
+   "Alle Mautkosten und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Alle persönlichen Ausgaben"
+  ]
+ },
+ "taj-mahal-vip-tickets-with-complimentary-guide-pic": {
+  "title": "Taj Mahal: VIP-Tickets mit kostenlosem Guide und Abholung",
+  "metaTitle": "Taj Mahal: VIP-Tickets, Guide und Abholung kostenlos",
+  "metaDescription": "Vorab gebuchte Express-Tickets für den Taj Mahal mit Guide und Hotelabholung in Agra. Rund zweieinhalb Stunden.",
+  "shortDescription": "Vorab gebuchte Express-Tickets für den Taj Mahal mit Guide und Hotelabholung in Agra. Rund zweieinhalb Stunden.",
+  "fullDescription": "**Kurz, günstig, und es nimmt die Schlange heraus**\n\nZweieinhalb Stunden: Abholung an Ihrem Hotel, Gang durch den Taj mit einem Guide auf einem vorab gebuchten Ticket, und Rückfahrt. Nichts weiter.\n\nDas ist die richtige Zeitspanne für das Monument, wenn Sie einen Zug erreichen müssen oder einen zweiten Tag eingeplant haben, und der vorab gebuchte Einlass macht es möglich, allein die Kasse kann in der Saison fünfundvierzig Minuten dauern.\n\n**Was enthalten ist**\n\nAbholung durch einen Fahrer an Ihrem Hotel oder gewünschten Ort in Agra, das Express-Eintrittsticket, und ein Guide, der Sie am Tor trifft.\n\n**Was man nicht überspringen kann**\n\nDie Kontrolle, für alle. Keine Stative, keine Drohnen, kein Essen, keine großen Taschen, keine Feuerzeuge. Telefone und kleine Kameras sind in Ordnung; Schließfächer am Eingang nehmen den Rest.\n\n**Innen**\n\nDurch das **Darwaza-i-Rauza**, den großen Torbau aus rotem Sandstein, wo der Taj im Bogen erscheint und, wegen eines bewusst eingesetzten Proportionstricks, beim Näherkommen kleiner zu werden scheint.\n\nDann der **Charbagh**, der vierteilige Garten, von Wasserkanälen geteilt, mit dem Grabmal, das sich über die ganze Länge des Mittelbeckens spiegelt.\n\nAm Sockel: die **Kalligrafie** am Hauptbogen, in immer größeren Buchstaben geschnitten, damit sie vom Boden aus gleich hoch erscheint; die **Pietra-dura**-Einlagen, bei denen eine Blüte sechzig Stücke Karneol, Jaspis, Lapis und Jade halten kann; und die vier **Minarette**, jedes minimal nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg fallen ließe statt darauf.\n\nIn der Kammer das geschnitzte Jali-Gitter und die zwei Kenotaphe, und die eine Asymmetrie in einem perfekt gespiegelten Bau, Shah Jahans eigenes Grab, von seinem Sohn außerhalb der Mitte gesetzt. Die echten Gräber sind in der Krypta darunter versiegelt.\n\n**Zwei Optionen**\n\nNur Guide, oder VIP-Tickets mit Guide und Abholung.\n\n**Praktisch**\n\n**Jeden Freitag geschlossen.** Die erste Stunde nach dem Öffnen ist die beste des Tages, kühler, leerer, und der Marmor geht von grau zu rosa zu weiß.",
+  "highlights": [
+   "Vermeiden Sie die Menge an der Kasse mit vorab gebuchten Tickets"
+  ],
+  "included": [
+   "Taj-Mahal-Tickets ohne Anstehen",
+   "Privater Reiseleiter",
+   "Privater Wagen für Abholung und Rückfahrt am Hotel",
+   "Mineralwasser",
+   "Alle Steuern"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "taj-mahalagra-day-tour-from-delhi-by-indias-fastes": {
+  "title": "Taj Mahal/Agra-Tagestour ab Delhi mit Indiens schnellstem Zug",
+  "metaTitle": "Delhi-Agra im Gatimaan Express: Taj zur besten Stunde",
+  "metaDescription": "Delhi-Agra mit dem Gatimaan Express, Indiens schnellstem Zug, mit Guide, Privatwagen in Agra und dem Taj zur besten Stunde.",
+  "shortDescription": "Delhi-Agra mit dem Gatimaan Express, Indiens schnellstem Zug, mit Guide, Privatwagen in Agra und dem Taj zur besten Stunde.",
+  "fullDescription": "**Der Zug ist der richtige Weg, das zu tun**\n\nDelhi nach Agra auf der Straße sind dreieinhalb bis vier Stunden, und die Rückfahrt im Abendverkehr kann schlimmer sein. Der **Gatimaan Express** legt das in hundert Minuten bei 160 km/h zurück, mit Frühstück am Platz.\n\nDas sind zwei bis drei Stunden Ihres Tages zurückgegeben, und es ist der Unterschied zwischen frischer und steifer Ankunft am Taj.\n\n**Die Fahrt**\n\nFrühe Abholung an Ihrem Hotel in Delhi zum Bahnhof Hazrat Nizamuddin. Der Zug fährt sechs Tage die Woche, **nicht freitags**, und das ist auch der Tag, an dem der Taj geschlossen ist, beide passen also zusammen.\n\nReservierte Plätze, Verpflegung an Bord, und ein Fenster auf nordindische Landschaft, die schneller vorbeizieht als auf jeder anderen Strecke im Netz.\n\n**In Agra**\n\nEin lizenzierter lokaler Guide trifft Sie am Bahnhof Agra Cantt, und ein privater klimatisierter Wagen übernimmt für den Tag.\n\n**Taj Mahal** im Morgenlicht. Ihr Guide behandelt, was den Bau ausmacht statt die Daten: die **Kalligrafie**, nach oben hin größer geschnitten, damit sie vom Boden aus gleich hoch erscheint; die **Pietra-dura**-Blüten aus vierzig oder mehr eingelegten Steinen; die **Minarette**, minimal nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg nähme; und die eine Asymmetrie, Shah Jahans Kenotaph, von Aurangzeb neben das seiner Frau außerhalb der Achse gesetzt.\n\n**Agra Fort** danach, Akbars Mauern aus rotem Sandstein von 1565, Shah Jahans Marmor darin, und der **Musamman Burj**, wo er seine letzten acht Jahre als Gefangener seines Sohnes verbrachte und den Taj am Fluss betrachtete.\n\nMittagessen, dann der abendliche Gatimaan zurück nach Delhi.\n\n**Vier Optionen**\n\nNur Guide. Eine Wagen-und-Guide-Fassung für Reisende, die schon in Agra sind. Oder der ganze Tag mit Zugfahrt zweiter oder erster Klasse, Mittagessen und allen Eintrittskarten inbegriffen.\n\n**Praktisch**\n\nDie Zugplätze sind begrenzt und werden zu festen Terminen freigegeben, buchen Sie also so früh wie möglich. Nehmen Sie den Pass mit, mit dem Sie gebucht haben; die indische Bahn prüft den Ausweis gegen das Ticket.",
+  "highlights": [
+   "Reisen Sie mit Indiens schnellstem Zug, dem Gatimaan Express, zwischen Delhi und Agra"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die Besichtigungen",
+   "Staatlich geprüfter lokaler Expertenguide",
+   "Zugtickets für die Hin- und Rückfahrt (bei gewählter Option)",
+   "Eintrittskarten für die Monumente (bei gewählter Option)",
+   "Mittagessen in einem 5-Sterne-Hotel (bei gewählter Option)",
+   "Flasche Mineralwasser",
+   "Alle Mautkosten und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Alle persönlichen Ausgaben"
+  ]
+ },
+ "transfer-agra-to-jaipur-via-fatehpur-sikri-stepwel": {
+  "title": "Transfer Agra nach Jaipur über Fatehpur Sikri und einen Stufenbrunnen",
+  "metaTitle": "Agra-Jaipur über Fatehpur Sikri und Chand Baori",
+  "metaDescription": "Der Transfer Agra-Jaipur als Tour, über Fatehpur Sikri und den Stufenbrunnen Chand Baori in Abhaneri.",
+  "shortDescription": "Der Transfer Agra-Jaipur als Tour, über Fatehpur Sikri und den Stufenbrunnen Chand Baori in Abhaneri.",
+  "fullDescription": "**Zwei der besten Stätten Nordindiens liegen auf dieser Straße**\n\nDie meisten zahlen für einen Transfer Agra-Jaipur und sehen vier Stunden Autobahn. Dieselbe Fahrt führt an Akbars aufgegebener Hauptstadt und dem tiefsten Stufenbrunnen Indiens vorbei, und den Transfer in einen Tag zu verwandeln, ist das Effizienteste, was man auf einer Goldenes-Dreieck-Reise tun kann.\n\nSie läuft in beide Richtungen, und es gibt Fassungen mit Taj und über mehrere Tage.\n\n**Fatehpur Sikri**\n\nVierzig Kilometer westlich von Agra. Akbar baute diese Hauptstadt 1571 und gab sie vierzehn Jahre später auf, weil die Wasserversorgung ausfiel, und genau deshalb steht sie vollständig. Niemand lebte lange genug dort, um sie zu verändern.\n\nDas **Buland Darwaza**, 54 Meter Siegestor, mit einer Inschrift, die Jesus zitiert, in eine Mogulmoschee geschnitten. Der **Panch Mahal**, fünf offene Geschosse, die nach oben zurücktreten, keine zwei Säulen gleich. Der **Diwan-i-Khas**, wo ein einziger geschnitzter Mittelpfeiler vier Brücken zu den Ecken trägt und Akbar saß, während Hindus, Jains, Jesuiten und Zoroastrier um ihn herum stritten. Und der marmorne **Dargah des Salim Chishti**, an dessen Jali-Gittern noch die Fäden hängen, die Menschen knoten, wenn sie um Kinder bitten.\n\n**Chand Baori, Abhaneri**\n\nWeiter entfernt, und der Grund, diese Route statt der Autobahn zu nehmen.\n\n**3.500 Stufen** in perfekten doppelten Treppenläufen, die dreizehn Stockwerke zu einem Quadrat grünen Wassers hinabführen, im 9. Jahrhundert angelegt. Der Grund ist fünf bis sechs Grad kühler als die Oberfläche, was ebenso der Sinn war wie das Wasser. Die Geometrie fotografiert wie eine optische Täuschung, und Sie werden sie in Filmen gesehen haben.\n\nDer **Harshat-Mata-Tempel** daneben stammt aus derselben Zeit.\n\n**Sechs Optionen**\n\nAgra nach Jaipur; Jaipur nach Agra; eine der beiden mit einem Taj-Besuch bei Sonnenaufgang dazu; eine Zweitagesfassung; oder Drei- und Viertages-Touren Delhi-Agra-Jaipur auf derselben Route aufgebaut.\n\n**Praktisch**\n\nAcht Stunden für den eintägigen Transfer. Das Gepäck reist mit Ihnen, packen Sie es also vor der Abholung.\n\nDie Eintrittsgebühren werden an jeder Stätte bezahlt.",
+  "highlights": [
+   "Dieser Transfer ist mit mehreren Optionen verfügbar, einschließlich einer Taj-Mahal-Sonnenaufgangstour"
+  ],
+  "included": [
+   "Wasser in Flaschen",
+   "Privates klimatisiertes Fahrzeug",
+   "Alle Landessteuern, Mautkosten und Parkgebühren",
+   "Reiseleiter für Taj Mahal und Fatehpur Sikri",
+   "Reiseleiter am nächsten Tag in Jaipur (bei gewählter Option)"
+  ],
+  "notIncluded": [
+   "Alles, was oben nicht genannt ist",
+   "Jegliches Trinkgeld für Fahrer und Guide",
+   "Jegliche Mahlzeit",
+   "Eintrittsgebühren der Monumente",
+   "Jeglicher Guide-Service am Stufenbrunnen (Abhaneri)"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Offiziellen Guide für die Erkundung von Bengaluru buchen",
   "metaTitle": "Bengaluru mit Guide: Paläste, Lalbagh, Tempel und Basare",
