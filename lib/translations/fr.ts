@@ -6077,6 +6077,51 @@ export const FR_TOURS: Record<string, TourT> = {
    "Tout ce qui n'est pas mentionné ci-dessus"
   ]
  },
+ "sunrise-taj-mahal-tour-by-official-tour-guide": {
+  "title": "Taj Mahal au lever du soleil avec un guide touristique officiel",
+  "metaTitle": "Taj Mahal au lever du soleil, guide officiel",
+  "metaDescription": "Le lever du soleil au Taj Mahal avec un guide agréé par le gouvernement, avec options fort d'Agra, billets et départ de Delhi.",
+  "shortDescription": "Le lever du soleil au Taj Mahal avec un guide agréé par le gouvernement, avec options fort d'Agra, billets et départ de Delhi.",
+  "fullDescription": "**Prise en charge à 5h, et un guide agréé qui attend**\n\nLe guide vous récupère à cinq heures ou cinq heures et demie, et vous êtes dans le complexe à l'ouverture des portes, une demi-heure avant le lever du soleil. C'est toute la conception de cette visite : pas de file, pas de foule, et la meilleure lumière de la journée.\n\nLes guides sont **agréés par le gouvernement**, examinés par le ministère du Tourisme et porteurs d'une licence avec photo. Cela compte à Agra, où les portes sont travaillées par des hommes proposant le même service sans en avoir.\n\n**Langues**\n\nUne option ici est un guide certifié dans une **langue étrangère**, le français, l'espagnol, l'allemand, l'italien, le japonais et d'autres sont tous disponibles à Agra avec un préavis, et à la porte vous ne trouverez que l'anglais et l'hindi.\n\n**Le lever du soleil**\n\nLe marbre se lit gris, puis rose, puis blanc froid à mesure que le soleil dépasse la rive opposée de la Yamuna. En décembre et janvier, de la brume se pose sur le fleuve derrière le dôme. La foule à cette heure n'est qu'un cinquième de ce qu'elle sera à dix heures.\n\nShah Jahan l'a commencé en 1632, l'année suivant la mort de Mumtaz Mahal en donnant naissance à leur quatorzième enfant. Vingt-deux ans, vingt mille ouvriers, du marbre acheminé sur 400 km depuis Makrana.\n\nVotre guide couvre la **calligraphie** gravée en tailles croissantes pour se lire d'une hauteur égale depuis le sol ; les incrustations de **pietra dura**, jusqu'à soixante pierres par fleur ; les quatre **minarets** inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau ; et la seule asymétrie, le cénotaphe de Shah Jahan lui-même, placé hors de l'axe par Aurangzeb.\n\n**Le fort d'Agra**\n\nSur les options plus longues : la ville de grès rouge d'Akbar, 1565, avec les palais de marbre de Shah Jahan à l'intérieur, et le **Musamman Burj** où il a passé ses huit dernières années emprisonné par son propre fils.\n\n**Cinq options**\n\nLever du soleil avec un guide agréé ; avec un guide dans une autre langue ; lever du soleil plus le fort ; lever du soleil avec droits d'entrée ; ou une journée complète au départ de Delhi.\n\n**Pratique**\n\n**Le Taj est fermé le vendredi.** L'heure du lever du soleil change au fil de l'année, la prise en charge est donc calée sur votre date.",
+  "highlights": [
+   "Profitez du Taj Mahal au lever du soleil."
+  ],
+  "included": [
+   "Guide touristique officiel pour le Taj Mahal et le fort d'Agra",
+   "Voiture pour les visites avec prise en charge et retour à l'hôtel (selon l'option choisie)",
+   "Visite privée",
+   "Voiturette de golf jusqu'au Taj Mahal depuis le parking",
+   "Entrée rapide sans file d'attente",
+   "Bouteilles d'eau, surchaussures"
+  ],
+  "notIncluded": [
+   "Droits d'entrée",
+   "Déjeuner",
+   "Voiture (si seul le service de guide est réservé)"
+  ]
+ },
+ "sunset-taj-mahal-with-other-monuments-in-agra-full": {
+  "title": "Taj Mahal au coucher du soleil avec les autres monuments d'Agra, journée locale complète",
+  "metaTitle": "Taj Mahal au coucher du soleil, guide agréé, autres monuments",
+  "metaDescription": "Le Taj Mahal au coucher du soleil avec entrée coupe-file et un guide agréé par le ministère du Tourisme, plus les autres monuments d'Agra.",
+  "shortDescription": "Le Taj Mahal au coucher du soleil avec entrée coupe-file et un guide agréé par le ministère du Tourisme, plus les autres monuments d'Agra.",
+  "fullDescription": "**Le coucher du soleil, et un guide avec une licence**\n\nDeux choses pour celle-ci. L'heure, les quatre-vingt-dix dernières minutes avant la fermeture, quand le marbre prend de la couleur et que la foule s'éclaircit au lieu de grossir. Et le guide, agréé par le ministère du Tourisme plutôt qu'une des nombreuses personnes qui vous proposeront le même service à la porte.\n\nLa prise en charge se fait directement dans le hall de votre hôtel à Agra.\n\n**Le Taj au coucher du soleil**\n\nL'entrée réservée à l'avance vous met dans le couloir le plus court. Le contrôle de sécurité passe quand même tout le monde : pas de trépied, pas de drone, pas de nourriture, pas de grands sacs.\n\nShah Jahan l'a commencé en 1632, l'année suivant la mort de Mumtaz Mahal. Vingt-deux ans, vingt mille ouvriers, et du marbre blanc charrié sur 400 km depuis Makrana, au Rajasthan.\n\nVotre guide couvre ce qui en fait plus qu'une forme contre le ciel : la **calligraphie** gravée en tailles croissantes pour paraître de même hauteur depuis le sol ; les incrustations de **pietra dura**, certaines fleurs portant soixante pierres ; les quatre **minarets**, très légèrement inclinés vers l'extérieur pour qu'un séisme les éloigne du tombeau ; et l'illusion à la porte **Darwaza-i-Rauza**, où l'édifice semble rétrécir à mesure qu'on s'en approche.\n\nEt la seule rupture de la symétrie : le cénotaphe de Shah Jahan lui-même, placé hors de l'axe central à côté de celui de sa femme après sa mort.\n\n**La dernière demi-heure**\n\nLa raison de venir à cette heure. Le marbre est assez translucide pour garder la lumière après que le soleil l'a quitté, si bien que le dôme devient or, puis rose, puis gris alors que tout autour s'est déjà assombri.\n\n**Les autres monuments**\n\nSur l'option la plus complète, la journée s'étend aux autres sites d'Agra, le **fort d'Agra**, où Shah Jahan est mort prisonnier de son propre fils avec le Taj en vue, et le **Baby Taj** de l'autre côté de la Yamuna, le tombeau de marbre des années 1620 qui a introduit la pietra dura en Inde.\n\n**Deux options**\n\nVisite guidée au coucher du soleil seule, ou la version journée locale complète avec transport et les autres monuments.\n\n**Fermé le vendredi.** La dernière entrée est avant le coucher du soleil, et non à ce moment-là, et l'heure se déplace au fil de l'année.",
+  "highlights": [
+   "Voyagez confortablement dans un véhicule climatisé."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Guide touristique professionnel",
+   "Coupe-file garanti",
+   "Billet d'entrée (selon l'option choisie)",
+   "Déjeuner (selon l'option choisie)",
+   "Bouteilles d'eau minérale",
+   "Toutes taxes comprises"
+  ],
+  "notIncluded": [
+   "Gratification (pourboire)"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Réservez un guide officiel pour explorer Bengaluru",
   "metaTitle": "Bengaluru avec guide : palais, Lalbagh, temples et bazars",

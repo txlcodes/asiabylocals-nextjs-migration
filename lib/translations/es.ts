@@ -6077,6 +6077,51 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier cosa no mencionada arriba"
   ]
  },
+ "sunrise-taj-mahal-tour-by-official-tour-guide": {
+  "title": "Taj Mahal al amanecer con un guía turístico oficial",
+  "metaTitle": "Taj Mahal al amanecer, guía oficial",
+  "metaDescription": "El amanecer en el Taj Mahal con guía autorizado por el gobierno, con opciones de Fuerte de Agra, entradas y salida desde Delhi.",
+  "shortDescription": "El amanecer en el Taj Mahal con guía autorizado por el gobierno, con opciones de Fuerte de Agra, entradas y salida desde Delhi.",
+  "fullDescription": "**Recogida a las 5, y un guía autorizado esperando**\n\nEl guía le recoge a las cinco o las cinco y media, y está dentro del recinto cuando abren las puertas, media hora antes del amanecer. Ese es todo el diseño de esta visita: sin cola, sin gente, y la mejor luz del día.\n\nLos guías están **autorizados por el gobierno**, examinados por el Ministerio de Turismo y con licencia con foto. Eso importa en Agra, donde las puertas las trabajan hombres que ofrecen el mismo servicio sin tenerla.\n\n**Idiomas**\n\nUna opción aquí es un guía certificado en un **idioma extranjero**, francés, español, alemán, italiano, japonés y otros están todos disponibles en Agra con aviso previo, y en la puerta solo encontrará inglés e hindi.\n\n**El amanecer**\n\nEl mármol se lee gris, luego rosa, luego blanco frío a medida que el sol supera la orilla opuesta del Yamuna. En diciembre y enero hay niebla sobre el río detrás de la cúpula. La gente a esa hora es una quinta parte de la que habrá a las diez.\n\nShah Jahan lo empezó en 1632, el año siguiente a la muerte de Mumtaz Mahal al dar a luz a su decimocuarto hijo. Veintidós años, veinte mil obreros, mármol acarreado 400 km desde Makrana.\n\nSu guía cubre la **caligrafía** labrada en tamaños crecientes para que se lea de manera uniforme desde el suelo; las incrustaciones de **pietra dura**, hasta sesenta piedras por flor; los cuatro **alminares** inclinados hacia fuera para que un terremoto los dejara caer lejos de la tumba; y la única asimetría, el cenotafio de Shah Jahan, colocado fuera de eje por Aurangzeb.\n\n**El Fuerte de Agra**\n\nEn las opciones más largas: la ciudad de arenisca roja de Akbar, de 1565, con los palacios de mármol de Shah Jahan dentro, y el **Musamman Burj**, donde pasó sus últimos ocho años preso de su propio hijo.\n\n**Cinco opciones**\n\nAmanecer con guía autorizado; con guía en otro idioma; amanecer más el fuerte; amanecer con entradas; o una jornada completa con salida desde Delhi.\n\n**Práctico**\n\n**El Taj cierra los viernes.** La hora del amanecer cambia a lo largo del año, así que la recogida se ajusta a su fecha.",
+  "highlights": [
+   "Disfrute del Taj Mahal al amanecer."
+  ],
+  "included": [
+   "Guía turístico oficial para el Taj Mahal y el Fuerte de Agra",
+   "Coche para las visitas con recogida y regreso en el hotel (en la opción elegida)",
+   "Visita privada",
+   "Carrito de golf hasta el Taj Mahal desde el aparcamiento",
+   "Entrada rápida sin colas",
+   "Botellas de agua, cubrezapatos"
+  ],
+  "notIncluded": [
+   "Entrada",
+   "Comida",
+   "Coche (si se reserva solo el servicio de guía)"
+  ]
+ },
+ "sunset-taj-mahal-with-other-monuments-in-agra-full": {
+  "title": "Taj Mahal al atardecer con otros monumentos de Agra, jornada local completa",
+  "metaTitle": "Taj Mahal al atardecer, guía autorizado, otros monumentos",
+  "metaDescription": "El Taj Mahal al atardecer con entrada sin colas y un guía autorizado por el Ministerio de Turismo, más los demás monumentos de Agra.",
+  "shortDescription": "El Taj Mahal al atardecer con entrada sin colas y un guía autorizado por el Ministerio de Turismo, más los demás monumentos de Agra.",
+  "fullDescription": "**El atardecer, y un guía con licencia**\n\nDos cosas sobre esta visita. La hora, los últimos noventa minutos antes del cierre, cuando el mármol toma color y la gente se va aclarando en lugar de aumentar. Y el guía, autorizado por el Ministerio de Turismo y no una de las muchas personas que le ofrecerán el mismo servicio en la puerta.\n\nLa recogida es directamente en el vestíbulo de su hotel en Agra.\n\n**El Taj al atardecer**\n\nLa entrada reservada por adelantado le pone en el carril más corto. El control de seguridad pasa a todos de todos modos: sin trípodes, sin drones, sin comida, sin bolsas grandes.\n\nShah Jahan lo empezó en 1632, el año siguiente a la muerte de Mumtaz Mahal. Veintidós años, veinte mil obreros, y mármol blanco acarreado 400 km desde Makrana, en Rajastán.\n\nSu guía cubre lo que lo convierte en algo más que una forma contra el cielo: la **caligrafía** labrada en tamaños crecientes para que parezca de la misma altura desde el suelo; las incrustaciones de **pietra dura**, algunas flores sueltas con sesenta piedras; los cuatro **alminares**, inclinados muy ligeramente hacia fuera para que un terremoto los alejara de la tumba; y la ilusión de la puerta **Darwaza-i-Rauza**, donde el edificio parece encogerse a medida que uno se acerca.\n\nY la única ruptura de la simetría: el cenotafio de Shah Jahan, colocado fuera del eje central junto al de su esposa tras su muerte.\n\n**La última media hora**\n\nLa razón para venir a esta hora. El mármol es lo bastante translúcido para retener la luz después de que el sol lo deje, así que la cúpula se vuelve dorada, luego rosa, luego gris mientras todo a su alrededor ya se ha oscurecido.\n\n**Los demás monumentos**\n\nEn la opción más completa, el día se extiende a los otros sitios de Agra, el **Fuerte de Agra**, donde Shah Jahan murió preso de su propio hijo con el Taj a la vista, y el **Baby Taj** al otro lado del Yamuna, la tumba de mármol de la década de 1620 que introdujo la pietra dura en la India.\n\n**Dos opciones**\n\nSolo la visita guiada al atardecer, o la versión completa de jornada local con transporte y los demás monumentos.\n\n**Cierra los viernes.** La última entrada es antes del atardecer, no a esa hora, y el momento cambia a lo largo del año.",
+  "highlights": [
+   "Viaje con comodidad en un vehículo con aire acondicionado."
+  ],
+  "included": [
+   "Recogida y regreso en el hotel",
+   "Guía turístico profesional",
+   "Acceso sin colas garantizado",
+   "Entrada (en la opción elegida)",
+   "Comida (en la opción elegida)",
+   "Botellas de agua mineral",
+   "Todos los impuestos incluidos"
+  ],
+  "notIncluded": [
+   "Propina"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Reserve un guía oficial para recorrer Bengaluru",
   "metaTitle": "Bengaluru con guía: palacios, Lalbagh, templos y bazares",

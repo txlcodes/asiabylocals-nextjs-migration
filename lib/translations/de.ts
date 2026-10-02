@@ -6077,6 +6077,51 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alles, was oben nicht genannt ist"
   ]
  },
+ "sunrise-taj-mahal-tour-by-official-tour-guide": {
+  "title": "Taj Mahal bei Sonnenaufgang mit einem offiziellen Reiseleiter",
+  "metaTitle": "Taj Mahal bei Sonnenaufgang, offizieller Guide",
+  "metaDescription": "Der Sonnenaufgang am Taj Mahal mit staatlich geprüftem Guide, mit Optionen für Agra Fort, Tickets und Start in Delhi.",
+  "shortDescription": "Der Sonnenaufgang am Taj Mahal mit staatlich geprüftem Guide, mit Optionen für Agra Fort, Tickets und Start in Delhi.",
+  "fullDescription": "**Abholung um 5 Uhr, und ein lizenzierter Guide wartet**\n\nDer Guide holt Sie um fünf oder halb sechs ab, und Sie sind in der Anlage, wenn die Tore eine halbe Stunde vor Sonnenaufgang öffnen. Das ist das ganze Konzept dieser Tour: keine Schlange, keine Menge, und das beste Licht des Tages.\n\nDie Guides sind **staatlich geprüft**, vom Tourismusministerium geprüft und mit einer Lizenz mit Foto. Das zählt in Agra, wo die Tore von Männern bearbeitet werden, die denselben Service ohne eine solche anbieten.\n\n**Sprachen**\n\nEine Option hier ist ein Guide, der für eine **Fremdsprache** zertifiziert ist, Französisch, Spanisch, Deutsch, Italienisch, Japanisch und weitere sind alle mit Vorlauf in Agra verfügbar, und am Tor finden Sie nur Englisch und Hindi.\n\n**Sonnenaufgang**\n\nDer Marmor erscheint erst grau, dann rosa, dann kalt weiß, während die Sonne über das gegenüberliegende Ufer der Yamuna steigt. Im Dezember und Januar liegt Nebel auf dem Fluss hinter der Kuppel. Die Menge zu dieser Stunde ist ein Fünftel dessen, was sie bis zehn sein wird.\n\nShah Jahan begann ihn 1632, im Jahr nachdem Mumtaz Mahal bei der Geburt ihres vierzehnten Kindes gestorben war. Zweiundzwanzig Jahre, zwanzigtausend Arbeiter, Marmor über 400 km von Makrana herangekarrt.\n\nIhr Guide behandelt die **Kalligrafie**, in wachsenden Größen geschnitten, damit sie vom Boden aus gleich hoch erscheint; die **Pietra-dura**-Einlagen mit bis zu sechzig Steinen pro Blüte; die vier **Minarette**, nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg nähme; und die einzige Asymmetrie, Shah Jahans eigenes Kenotaph, von Aurangzeb außerhalb der Achse gesetzt.\n\n**Agra Fort**\n\nBei den längeren Optionen: Akbars Stadt aus rotem Sandstein von 1565 mit Shah Jahans Marmorpalästen darin, und der **Musamman Burj**, wo er seine letzten acht Jahre gefangen von seinem eigenen Sohn verbrachte.\n\n**Fünf Optionen**\n\nSonnenaufgang mit geprüftem Guide; mit Guide in einer anderen Sprache; Sonnenaufgang plus das Fort; Sonnenaufgang mit Eintrittsgebühren; oder ein kompletter Tag mit Start in Delhi.\n\n**Praktisch**\n\n**Der Taj ist freitags geschlossen.** Die Sonnenaufgangszeit wandert über das Jahr, die Abholung richtet sich also nach Ihrem Datum.",
+  "highlights": [
+   "Genießen Sie den Taj Mahal bei Sonnenaufgang."
+  ],
+  "included": [
+   "Offizieller Reiseleiter für Taj Mahal und Agra Fort",
+   "Wagen für die Besichtigungen mit Abholung und Rückfahrt am Hotel (bei gewählter Option)",
+   "Private Tour",
+   "Golfwagen zum Taj Mahal ab dem Parkplatz",
+   "Schnelleinlass ohne Anstehen",
+   "Wasserflaschen, Überschuhe"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühr",
+   "Mittagessen",
+   "Wagen (falls nur der Guide-Service gebucht wird)"
+  ]
+ },
+ "sunset-taj-mahal-with-other-monuments-in-agra-full": {
+  "title": "Taj Mahal bei Sonnenuntergang mit weiteren Monumenten in Agra, ganzer Tag lokal",
+  "metaTitle": "Taj Mahal bei Sonnenuntergang, geprüfter Guide, weitere Monumente",
+  "metaDescription": "Der Taj Mahal bei Sonnenuntergang mit Einlass ohne Anstehen und einem vom Tourismusministerium geprüften Guide, plus Agras weitere Monumente.",
+  "shortDescription": "Der Taj Mahal bei Sonnenuntergang mit Einlass ohne Anstehen und einem vom Tourismusministerium geprüften Guide, plus Agras weitere Monumente.",
+  "fullDescription": "**Sonnenuntergang, und ein Guide mit Lizenz**\n\nZwei Dinge zu dieser Tour. Die Stunde, die letzten neunzig Minuten vor Schließung, wenn der Marmor Farbe annimmt und die Menge ausdünnt statt zuzunehmen. Und der Guide, der vom Tourismusministerium geprüft ist statt einer der vielen Personen, die Ihnen denselben Service am Tor anbieten.\n\nDie Abholung erfolgt direkt aus der Hotellobby in Agra.\n\n**Der Taj bei Sonnenuntergang**\n\nDer vorab gebuchte Einlass bringt Sie in die kürzere Spur. Die Kontrolle prüft dennoch jeden: keine Stative, keine Drohnen, kein Essen, keine großen Taschen.\n\nShah Jahan begann ihn 1632, im Jahr nachdem Mumtaz Mahal gestorben war. Zweiundzwanzig Jahre, zwanzigtausend Arbeiter, und weißer Marmor über 400 km aus Makrana in Rajasthan herangekarrt.\n\nIhr Guide behandelt, was ihn zu mehr als einer Form gegen den Himmel macht: die **Kalligrafie**, in wachsenden Größen geschnitten, damit sie vom Boden aus gleich hoch erscheint; die **Pietra-dura**-Einlagen, manche einzelne Blüten mit sechzig Steinen; die vier **Minarette**, ganz leicht nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg nähme; und die Täuschung am Torbau **Darwaza-i-Rauza**, wo der Bau beim Näherkommen kleiner zu werden scheint.\n\nUnd der eine Bruch der Symmetrie: Shah Jahans eigenes Kenotaph, nach seinem Tod neben das seiner Frau außerhalb der Mittelachse gesetzt.\n\n**Die letzte halbe Stunde**\n\nDer Grund, zu dieser Stunde zu kommen. Der Marmor ist durchscheinend genug, um Licht zu halten, nachdem die Sonne ihn verlassen hat, sodass die Kuppel golden, dann rosa, dann grau wird, während alles um sie her schon dunkel geworden ist.\n\n**Die weiteren Monumente**\n\nBei der umfassenderen Option erweitert sich der Tag auf Agras weitere Stätten, das **Agra Fort**, wo Shah Jahan als Gefangener seines eigenen Sohnes mit dem Taj in Sicht starb, und den **Baby Taj** jenseits der Yamuna, das Marmorgrab aus den 1620er-Jahren, das Pietra dura nach Indien brachte.\n\n**Zwei Optionen**\n\nNur die geführte Sonnenuntergangstour, oder die volle lokale Tagesfassung mit Transport und den weiteren Monumenten.\n\n**Freitags geschlossen.** Der letzte Einlass ist vor dem Sonnenuntergang, nicht zu ihm, und die Zeit wandert über das Jahr.",
+  "highlights": [
+   "Reisen Sie bequem in einem klimatisierten Fahrzeug."
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel",
+   "Professioneller Reiseleiter",
+   "Garantiert ohne Anstehen",
+   "Eintrittskarte (bei gewählter Option)",
+   "Mittagessen (bei gewählter Option)",
+   "Mineralwasser in Flaschen",
+   "Alle Steuern inbegriffen"
+  ],
+  "notIncluded": [
+   "Trinkgeld"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Offiziellen Guide für die Erkundung von Bengaluru buchen",
   "metaTitle": "Bengaluru mit Guide: Paläste, Lalbagh, Tempel und Basare",
