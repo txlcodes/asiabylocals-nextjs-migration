@@ -17676,6 +17676,96 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comida y bebidas."
   ]
  },
+ "jaipur-kathputli-puppet-making-workshop-show": {
+  "title": "Jaipur: Taller de marionetas Kathputli y espectáculo",
+  "metaTitle": "Jaipur: taller de marionetas Kathputli y show",
+  "metaDescription": "Un taller de cuatro horas de kathputli en Jaipur, haz tu propia marioneta de hilos rajastaní con un artesano, luego ve un espectáculo.",
+  "shortDescription": "Un taller de cuatro horas de kathputli en Jaipur, haz tu propia marioneta de hilos rajastaní con un artesano, luego ve un espectáculo.",
+  "fullDescription": "**Una artesanía que genuinamente está desapareciendo**\n\nEl **kathputli** es la tradición de marionetas de hilos de Rajastán, y tiene unos mil años de antigüedad. Los titiriteros eran comunidades bhat itinerantes que viajaban entre pueblos representando epopeyas y sátiras, llevando todo el teatro a la espalda.\n\nLa televisión se llevó la mayor parte de ese público. Hoy hay muchas menos familias que lo hacen que hace una generación, y las que quedan sobreviven en gran parte gracias a talleres como este.\n\n**Haciendo una**\n\nEl artesano empieza con la historia, y luego construyes una marioneta.\n\nLa cabeza es de **madera de mango**, tallada y pintada. Las facciones se exageran a propósito, las marionetas kathputli están pensadas para leerse a distancia con poca luz, así que los ojos y los bigotes son enormes.\n\nEl cuerpo es tela rellena de algodón, vestido con retales de tela con espejos y recortes de lehenga, por eso cada marioneta es diferente. El disfraz te indica quién es el personaje: un noble rajput, una bailarina, un encantador de serpientes, un jinete.\n\nLuego los hilos. Las marionetas kathputli famosamente **no tienen piernas ni articulaciones visibles bajo la cintura**, la figura se maneja con dos hilos atados a los dedos del titiritero, y el movimiento viene de toda la mano del titiritero. Es más difícil de lo que parece y el artesano te dejará fallar antes de mostrarte el truco.\n\n**El espectáculo**\n\nDespués, una actuación. La historia clásica es **Amar Singh Rathore**, un noble de Jodhpur que luchó contra una corte mogola y perdió, contada con la narración cantada y el silbato de bambú estridente que la tradición usa en lugar de diálogo.\n\nLas marionetas luchan, bailan, montan a caballo y se decapitan entre ellas. Los niños lo encuentran hilarante; los adultos notan la sátira política.\n\n**Te llevas tu marioneta a casa**\n\nTodos los materiales están incluidos.\n\n**Práctico**\n\nUnas cuatro horas. Apto para niños y de ninguna manera una visita de museo, cortarás, pegarás y pintarás.\n\nEl taller es un estudio casero en funcionamiento más que un lugar de exhibición, lo cual es el atractivo.",
+  "highlights": [
+   "Descubre la historia del teatro de marionetas kathputli de Rajastán"
+  ],
+  "included": [
+   "Recogida y regreso al hotel, aeropuerto o estación de tren",
+   "Conductor",
+   "Agua embotellada",
+   "Combustible",
+   "Tasas de aparcamiento",
+   "Peajes e impuestos interestatales",
+   "Todos los impuestos gubernamentales"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Cualquier cosa no mencionada en las inclusiones",
+   "Propinas"
+  ]
+ },
+ "jaipur-lac-work-bangle-making-workshop-with-artisa": {
+  "title": "Jaipur: Taller de trabajo en laca y fabricación de pulseras con artesano",
+  "metaTitle": "Jaipur: taller de pulseras de laca con artesano",
+  "metaDescription": "Un taller de cuatro horas de laca en Jaipur, haz tus propias pulseras de laca con un artesano sobre una llama abierta.",
+  "shortDescription": "Un taller de cuatro horas de laca en Jaipur, haz tus propias pulseras de laca con un artesano sobre una llama abierta.",
+  "fullDescription": "**La laca, y por qué Jaipur es donde se fabrica**\n\nLa **laca** es una resina secretada por un insecto en árboles huésped, raspada, refinada y coloreada. Rajastán la trabaja desde hace siglos, y las callejuelas de pulseras junto a Tripolia Bazaar en Jaipur, **Maniharon ka Rasta**, literalmente la calle de los fabricantes de pulseras, son el centro de ello.\n\nEl oficio se transmite en familias, y hay menos cada década. Un taller es cómo sobreviven junto a las tiendas.\n\n**Cómo se hace una pulsera de laca**\n\nEl artesano suaviza una barra de laca sobre una pequeña llama abierta hasta que es moldeable, como caramelo tibio. Se enrolla sobre una losa de piedra para mezclar el color, luego se enrolla alrededor de un **mandril de madera** del tamaño de la muñeca, y los extremos se unen solo con calor y presión, sin pegamento.\n\nMientras todavía está blanda, se presionan **espejos, vidrio o piedras** en la superficie. Eso tiene que suceder en una ventana muy breve, y hacerlo mal es parte de lo que le pasa a todos al menos una vez.\n\nLuego se enfría y endurece, y queda terminada.\n\n**Lo que aprendes haciéndolo**\n\nPor qué las pulseras de laca hechas a mano tienen pequeñas irregularidades y las de resina hechas a máquina no. Cómo se superponen los colores para que una pulsera se lea bicolor. Y lo rápido que el material pasa de moldeable a inútil, que es toda la habilidad.\n\nTampoco volverás a pensar que ₹200 es mucho por una.\n\n**Te las llevas a casa**\n\nLas pulseras que haces. El tamaño importa, las pulseras indias pasan por los nudillos en lugar de abrocharse, así que el artesano medirá tu mano antes de empezar.\n\n**Práctico**\n\nUnas cuatro horas en un estudio en funcionamiento.\n\nHay una llama abierta y resina caliente de por medio. El artesano maneja la fase caliente; tú trabajas el material una vez que es seguro tocarlo, y no es peligroso, pero no lleves nada suelto en la muñeca.\n\nTodos los materiales incluidos.",
+  "highlights": [
+   "Descubre el colorido arte tradicional del trabajo en laca en Jaipur"
+  ],
+  "included": [
+   "Recogida y regreso al hotel, aeropuerto o estación de tren",
+   "Conductor",
+   "Agua embotellada",
+   "Combustible",
+   "Tasas de aparcamiento",
+   "Peajes e impuestos interestatales",
+   "Todos los impuestos gubernamentales"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Propinas",
+   "Cualquier cosa no mencionada en las inclusiones"
+  ]
+ },
+ "jaipur-monkey-temple-and-sun-temple-guided-tour": {
+  "title": "Jaipur: Tour guiado del templo de los monos y templo del sol",
+  "metaTitle": "Jaipur: templo de los monos y templo del sol",
+  "metaDescription": "Dos horas en Galta Ji, el templo de los monos, y el templo de Surya sobre él, con un guía.",
+  "shortDescription": "Dos horas en Galta Ji, el templo de los monos, y el templo de Surya sobre él, con un guía.",
+  "fullDescription": "**Un templo en un desfiladero, y el templo del sol encima**\n\nUn tour corto y enfocado a dos sitios en las colinas Aravalli al este de Jaipur para los que casi ningún itinerario de excursión de un día tiene tiempo.\n\n**Galta Ji**\n\nUn complejo de templos encajado en un desfiladero en las colinas, a diez kilómetros de la ciudad vieja. Manantiales naturales bajan a través de una serie de tanques de piedra, el **Galta Kund** en la parte superior nunca se ha secado, y los peregrinos se bañan en él desde hace siglos.\n\nLos edificios son de arenisca rosa del siglo 18 con interiores pintados que se desvanecen de una manera que hace que verlos ahora merezca la pena. El complejo está construido en la roca en lugar de sobre ella, por eso todo se siente escondido hasta que estás dentro.\n\n**Sobre los monos**\n\nDos manadas viven aquí, macacos rhesus y langures, de ahí el apodo.\n\nSon animales salvajes. No sostengas comida en la mano, no asomes el teléfono sobre un muro, y quítate las gafas de sol de la cabeza. Sigue eso y te ignorarán por completo.\n\n**Templo de Surya**\n\nEn la cresta sobre el complejo, dedicado al sol y mirando hacia el amanecer, al que se llega con una caminata por el sendero del desfiladero.\n\nDesde ahí arriba toda la ciudad se extiende abajo, y en cualquiera de los extremos del día es uno de los mejores miradores de Jaipur, con casi nadie en él.\n\nLa caminata es empinada en partes y vale el esfuerzo.\n\n**Qué se espera**\n\nZapatos fuera en los templos, hombros y rodillas cubiertos. Sin fotografía dentro de los santuarios. Los cinturones y bolsos de cuero es mejor dejarlos en el coche.\n\nEs un lugar de peregrinación activo más que un monumento, y puedes encontrarte una puja o un ritual de baño en curso. Tu guía te dirá dónde colocarte.\n\n**Práctico**\n\nDos horas, con un guía.\n\nVe temprano o tarde, el mediodía es caluroso en el desfiladero y los macacos son más atrevidos.\n\nLa entrada es gratuita o con una donación simbólica.",
+  "highlights": [
+   "Explora Galta Ji con un guía local, monos, templos y miradores secretos!"
+  ],
+  "included": [
+   "Recogida y regreso desde tu hotel en Jaipur",
+   "Coche cómodo con conductor",
+   "Guía experimentado"
+  ],
+  "notIncluded": [
+   "Tasa de entrada",
+   "Tasa de cámara y móvil"
+  ]
+ },
+ "jaipur-monkey-temple-sunset-and-night-city-tour-by": {
+  "title": "Jaipur: Atardecer en el templo de los monos y tour nocturno de la ciudad en tuk-tuk",
+  "metaTitle": "Jaipur: templo de los monos, atardecer, noche",
+  "metaDescription": "Un tour nocturno en tuk-tuk por Jaipur, atardecer en el templo de los monos, luego la ciudad iluminada. Unas cuatro horas.",
+  "shortDescription": "Un tour nocturno en tuk-tuk por Jaipur, atardecer en el templo de los monos, luego la ciudad iluminada. Unas cuatro horas.",
+  "fullDescription": "**Atardecer desde el desfiladero, luego la ciudad iluminada**\n\nUn tuk-tuk abierto, un conductor local, y las dos mejores horas del día en Jaipur que ningún tour estándar cubre.\n\n**Atardecer en Galta Ji**\n\nEl complejo de templos en un desfiladero de los Aravalli al este de la ciudad, con manantiales naturales alimentando una serie de tanques de piedra. Los edificios son de arenisca rosa del siglo 18 construidos en la roca, y los peregrinos se bañan en el **Galta Kund** en la parte superior desde hace siglos.\n\nEl **templo de Surya** en la cresta de arriba es donde ves ponerse el sol, toda la ciudad extendida abajo, y casi nadie ahí arriba.\n\nLos macacos viven aquí, de ahí el apodo. No sostengas comida en la mano, no asomes el teléfono sobre un muro, y quítate las gafas de sol de la cabeza.\n\n**Luego la ciudad al anochecer**\n\n**Hawa Mahal** iluminado de frente, lo que resalta las 953 ventanas de una manera que la luz del día aplana.\n\nLos muros del **City Palace**, y el **museo Albert Hall**, iluminados, reflejados, y rodeados de una cantidad improbable de palomas. Es el edificio más fotografiado de Jaipur de noche y es gratis de ver.\n\nLos **bazares de la ciudad vieja** en pleno apogeo: tiendas de dulces friendo, callejuelas de pulseras, puestos de chai, y las multitudes de la temporada de bodas de noviembre a febrero.\n\nY la comida, si quieres, kachori, jalebi, lassi en un kulhad de arcilla, donde tu conductor recomiende.\n\n**Lo que no verás**\n\nLos interiores de los monumentos. Cierran al atardecer. Este es un tour de la ciudad más que de sus salas, y el precio refleja eso.\n\n**Práctico**\n\nUnas cuatro horas, con recogida en el hotel programada según el atardecer, que cambia a lo largo del año.\n\nUn tuk-tuk es abierto, y de noviembre a febrero las noches de Jaipur bajan bruscamente tras el anochecer, lleva una chaqueta.\n\nZapatos fuera en el templo, hombros y rodillas cubiertos. La entrada allí es gratuita o con una donación simbólica.",
+  "highlights": [
+   "Presencia un atardecer impresionante en el templo de los monos (Galtaji)"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Transporte privado en tuk-tuk",
+   "Conductor local amable de habla inglesa",
+   "Agua embotellada durante el tour",
+   "Té, lassi o café de cortesía",
+   "Helado en un lugar local popular"
+  ],
+  "notIncluded": [
+   "Gastos personales y compras",
+   "Comidas y comida o bebidas adicionales",
+   "Propinas y gratificaciones (opcional)"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",

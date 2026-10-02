@@ -17676,6 +17676,96 @@ export const FR_TOURS: Record<string, TourT> = {
    "Nourriture et boissons."
   ]
  },
+ "jaipur-kathputli-puppet-making-workshop-show": {
+  "title": "Jaipur : Atelier de fabrication de marionnettes Kathputli et spectacle",
+  "metaTitle": "Jaipur : atelier marionnettes Kathputli et spectacle",
+  "metaDescription": "Un atelier de quatre heures de kathputli à Jaipur, fabriquez une marionnette à fils rajasthanie avec un artisan, puis regardez un spectacle.",
+  "shortDescription": "Un atelier de quatre heures de kathputli à Jaipur, fabriquez une marionnette à fils rajasthanie avec un artisan, puis regardez un spectacle.",
+  "fullDescription": "**Un artisanat véritablement en train de disparaître**\n\nLe **kathputli** est la tradition des marionnettes à fils du Rajasthan, vieille d'environ mille ans. Les marionnettistes étaient des communautés Bhat itinérantes qui voyageaient entre les villages pour jouer des épopées et des satires, portant tout leur théâtre sur leur dos.\n\nLa télévision a pris la plus grande partie de ce public. Il y a bien moins de familles qui pratiquent cela aujourd'hui qu'il y a une génération, et celles qui restent survivent largement grâce à des ateliers comme celui-ci.\n\n**En fabriquer une**\n\nL'artisan commence par l'histoire, puis vous construisez une marionnette.\n\nLa tête est en **bois de manguier**, sculptée et peinte. Les traits sont exagérés volontairement, les marionnettes kathputli sont conçues pour être lisibles à distance en faible lumière, donc les yeux et les moustaches sont énormes.\n\nLe corps est du tissu rembourré de coton, habillé de chutes de tissu à miroirs et de retouches de lehenga, c'est pourquoi chaque marionnette est différente. Le costume vous indique qui est le personnage : un noble rajpoute, une danseuse, un charmeur de serpents, un cavalier.\n\nPuis les fils. Les marionnettes kathputli n'ont fameusement **ni jambes ni articulations visibles sous la taille**, la figure est manipulée par deux fils attachés aux doigts du marionnettiste, et le mouvement vient de toute la main du marionnettiste. C'est plus difficile que ça ne paraît et l'artisan vous laissera échouer avant de vous montrer l'astuce.\n\n**Le spectacle**\n\nEnsuite, une représentation. L'histoire classique est **Amar Singh Rathore**, un noble de Jodhpur qui a combattu une cour moghole et a perdu, racontée avec la narration chantée et le sifflet de bambou aigu que la tradition utilise à la place du dialogue.\n\nLes marionnettes se battent, dansent, chevauchent et se décapitent les unes les autres. Les enfants trouvent cela hilarant ; les adultes remarquent la satire politique.\n\n**Vous ramenez votre marionnette chez vous**\n\nTout le matériel est inclus.\n\n**Pratique**\n\nEnviron quatre heures. Convient aux enfants et absolument pas une visite de musée, vous allez couper, coller et peindre.\n\nL'atelier est un studio familial en activité plutôt qu'un lieu, ce qui en fait l'attrait.",
+  "highlights": [
+   "Découvrez l'histoire des marionnettes Kathputli du Rajasthan"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel, l'aéroport ou la gare",
+   "Chauffeur",
+   "Eau en bouteille",
+   "Carburant",
+   "Frais de stationnement",
+   "Péages et taxes interétatiques",
+   "Toutes taxes gouvernementales"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Tout ce qui n'est pas mentionné dans les inclusions",
+   "Pourboires"
+  ]
+ },
+ "jaipur-lac-work-bangle-making-workshop-with-artisa": {
+  "title": "Jaipur : Atelier de travail du laque et de fabrication de bracelets avec artisan",
+  "metaTitle": "Jaipur : atelier bracelets en laque avec artisan",
+  "metaDescription": "Un atelier de quatre heures sur le laque à Jaipur, fabriquez vos propres bracelets en laque avec un artisan au-dessus d'une flamme nue.",
+  "shortDescription": "Un atelier de quatre heures sur le laque à Jaipur, fabriquez vos propres bracelets en laque avec un artisan au-dessus d'une flamme nue.",
+  "fullDescription": "**Le laque, et pourquoi Jaipur est l'endroit où il est fabriqué**\n\nLe **laque** est une résine sécrétée par un insecte sur des arbres hôtes, récupérée, raffinée et colorée. Le Rajasthan le travaille depuis des siècles, et les ruelles de bracelets près de Tripolia Bazaar à Jaipur, **Maniharon ka Rasta**, littéralement la rue des fabricants de bracelets, en sont le centre.\n\nL'artisanat se transmet en famille, et il y en a moins chaque décennie. Un atelier est la façon dont elles survivent à côté des boutiques.\n\n**Comment un bracelet en laque est fabriqué**\n\nL'artisan ramollit un bâton de laque au-dessus d'une petite flamme nue jusqu'à ce qu'il soit malléable, comme du caramel chaud. Il est roulé sur une dalle de pierre pour mélanger la couleur, puis enroulé autour d'un **mandrin en bois** de la taille du poignet, et les extrémités sont jointes par la seule chaleur et pression, sans colle.\n\nAlors qu'il est encore mou, des **miroirs, du verre ou des pierres** sont incrustés dans la surface. Cela doit se faire dans une fenêtre très courte, et se tromper fait partie de l'expérience de tout le monde au moins une fois.\n\nPuis il refroidit et durcit, et c'est terminé.\n\n**Ce que vous apprenez en le faisant**\n\nPourquoi les bracelets en laque faits à la main ont de légères irrégularités et ceux en résine fabriqués en usine n'en ont pas. Comment les couleurs sont superposées pour qu'un bracelet paraisse bicolore. Et à quelle vitesse le matériau passe de malléable à inutilisable, ce qui est tout l'art.\n\nVous ne penserez plus jamais que ₹200 est cher pour un seul bracelet.\n\n**Vous les ramenez chez vous**\n\nLes bracelets que vous fabriquez. La taille compte, les bracelets indiens passent par-dessus les articulations plutôt que de se fermer par un fermoir, donc l'artisan mesurera votre main avant que vous ne commenciez.\n\n**Pratique**\n\nEnviron quatre heures dans un studio en activité.\n\nIl y a une flamme nue et de la résine chaude en jeu. L'artisan gère l'étape chaude ; vous travaillez le matériau une fois qu'il est sûr à toucher, et ce n'est pas dangereux, mais ne portez rien de lâche au poignet.\n\nTout le matériel est inclus.",
+  "highlights": [
+   "Découvrez l'art traditionnel coloré du travail du laque à Jaipur"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel, l'aéroport ou la gare",
+   "Chauffeur",
+   "Eau en bouteille",
+   "Carburant",
+   "Frais de stationnement",
+   "Péages et taxes interétatiques",
+   "Toutes taxes gouvernementales"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Pourboires",
+   "Tout ce qui n'est pas mentionné dans les inclusions"
+  ]
+ },
+ "jaipur-monkey-temple-and-sun-temple-guided-tour": {
+  "title": "Jaipur : Visite guidée du temple des singes et du temple du soleil",
+  "metaTitle": "Jaipur : temple des singes et temple du soleil",
+  "metaDescription": "Deux heures à Galta Ji, le temple des singes, et le temple de Surya au-dessus, avec un guide.",
+  "shortDescription": "Deux heures à Galta Ji, le temple des singes, et le temple de Surya au-dessus, avec un guide.",
+  "fullDescription": "**Un temple dans une gorge, et le temple du soleil au-dessus**\n\nUne visite courte et ciblée de deux sites dans les collines Aravalli à l'est de Jaipur pour lesquels presque aucun itinéraire d'excursion d'une journée n'a le temps.\n\n**Galta Ji**\n\nUn complexe de temples coincé dans une gorge des collines, à dix kilomètres de la vieille ville. Des sources naturelles descendent à travers une série de bassins en pierre, le **Galta Kund** au sommet n'a jamais été connu pour s'assécher, et les pèlerins s'y baignent depuis des siècles.\n\nLes bâtiments sont en grès rose du 18e siècle avec des intérieurs peints qui s'estompent d'une manière qui rend leur visite maintenant précieuse. Le complexe est construit dans la roche plutôt que sur elle, c'est pourquoi tout semble caché jusqu'à ce que vous soyez à l'intérieur.\n\n**À propos des singes**\n\nDeux troupes vivent ici, des macaques rhésus et des langurs, d'où vient le surnom.\n\nCe sont des animaux sauvages. Ne tenez pas de nourriture à la main, ne tendez pas de téléphone au-dessus d'un mur, et retirez les lunettes de soleil du sommet de votre tête. Suivez cela et ils vous ignoreront complètement.\n\n**Temple de Surya**\n\nSur la crête au-dessus du complexe, dédié au soleil et faisant face au lever du jour, accessible par une marche en montant le chemin de la gorge.\n\nDe là-haut, toute la ville s'étend en dessous, et à chaque extrémité de la journée c'est l'un des meilleurs points de vue de Jaipur, avec presque personne sur place.\n\nLa marche est escarpée par endroits et vaut l'effort.\n\n**Ce qui est attendu**\n\nChaussures retirées aux temples, épaules et genoux couverts. Pas de photographie à l'intérieur des sanctuaires. Les ceintures et sacs en cuir sont mieux laissés dans la voiture.\n\nC'est un site de pèlerinage actif plutôt qu'un monument, et vous pourriez trouver une puja ou un rituel de bain en cours. Votre guide vous dira où vous placer.\n\n**Pratique**\n\nDeux heures, avec un guide.\n\nAllez-y tôt ou tard, le milieu de la journée est chaud dans la gorge et les macaques sont plus audacieux.\n\nL'entrée est gratuite ou à don symbolique.",
+  "highlights": [
+   "Explorez Galta Ji avec un guide local, singes, temples et points de vue secrets !"
+  ],
+  "included": [
+   "Prise en charge et retour depuis votre hôtel à Jaipur",
+   "Voiture confortable avec chauffeur",
+   "Guide expérimenté"
+  ],
+  "notIncluded": [
+   "Frais d'entrée",
+   "Frais de caméra et de téléphone"
+  ]
+ },
+ "jaipur-monkey-temple-sunset-and-night-city-tour-by": {
+  "title": "Jaipur : Coucher de soleil au temple des singes et visite nocturne de la ville en tuk-tuk",
+  "metaTitle": "Jaipur : temple des singes, coucher de soleil, nuit",
+  "metaDescription": "Une visite en soirée en tuk-tuk de Jaipur, coucher de soleil au temple des singes, puis la ville illuminée. Environ quatre heures.",
+  "shortDescription": "Une visite en soirée en tuk-tuk de Jaipur, coucher de soleil au temple des singes, puis la ville illuminée. Environ quatre heures.",
+  "fullDescription": "**Coucher de soleil depuis la gorge, puis la ville illuminée**\n\nUn tuk-tuk ouvert, un chauffeur local, et les deux meilleures heures de la journée de Jaipur qu'aucune visite standard ne couvre.\n\n**Coucher de soleil à Galta Ji**\n\nLe complexe de temples dans une gorge des Aravalli à l'est de la ville, avec des sources naturelles alimentant une série de bassins en pierre. Les bâtiments sont en grès rose du 18e siècle construits dans la roche, et les pèlerins se baignent dans le **Galta Kund** au sommet depuis des siècles.\n\nLe **temple de Surya** sur la crête au-dessus est l'endroit où vous regardez le soleil se coucher, toute la ville étalée en dessous, et presque personne là-haut.\n\nLes macaques vivent ici, d'où le surnom. Ne tenez pas de nourriture à la main, ne tendez pas votre téléphone au-dessus d'un mur, et retirez les lunettes de soleil de votre tête.\n\n**Puis la ville après la nuit tombée**\n\n**Hawa Mahal** illuminé de face, ce qui fait ressortir les 953 fenêtres d'une manière que la lumière du jour aplatit.\n\nLes murs du **City Palace**, et le **musée Albert Hall**, illuminés, reflétés, et entourés d'un nombre improbable de pigeons. C'est le bâtiment le plus photographié de Jaipur la nuit et c'est gratuit à regarder.\n\nLes **bazars de la vieille ville** en pleine activité : boutiques de douceurs en train de frire, ruelles de bracelets, stands de chai, et les foules de la saison des mariages de novembre à février.\n\nEt la nourriture, si vous le souhaitez, kachori, jalebi, lassi dans un kulhad en argile, où que votre chauffeur recommande.\n\n**Ce que vous ne verrez pas**\n\nLes intérieurs des monuments. Ils ferment au coucher du soleil. C'est une visite de la ville plutôt que de ses pièces, et elle est tarifée en conséquence.\n\n**Pratique**\n\nEnviron quatre heures, avec prise en charge à l'hôtel programmée selon le coucher du soleil, qui évolue au fil de l'année.\n\nUn tuk-tuk est ouvert, et de novembre à février les soirées à Jaipur se refroidissent fortement après la nuit tombée, prenez une veste.\n\nChaussures retirées au temple, épaules et genoux couverts. L'entrée y est gratuite ou à don symbolique.",
+  "highlights": [
+   "Assistez à un coucher de soleil à couper le souffle au temple des singes (Galtaji)"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Transport privé en tuk-tuk",
+   "Chauffeur local amical parlant anglais",
+   "Eau en bouteille pendant la visite",
+   "Thé, lassi ou café offerts",
+   "Glace dans un lieu local populaire"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles et shopping",
+   "Repas et nourriture ou boissons supplémentaires",
+   "Pourboires et gratifications (facultatif)"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",

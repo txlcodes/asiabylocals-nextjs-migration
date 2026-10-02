@@ -17676,6 +17676,96 @@ export const DE_TOURS: Record<string, TourT> = {
    "Essen und Getränke."
   ]
  },
+ "jaipur-kathputli-puppet-making-workshop-show": {
+  "title": "Jaipur: Kathputli-Puppenbau-Workshop & Show",
+  "metaTitle": "Jaipur: Kathputli-Puppenbau-Workshop & Show",
+  "metaDescription": "Ein vierstündiger Kathputli-Workshop in Jaipur, bauen Sie eine rajasthanische Fadenpuppe mit einem Kunsthandwerker, dann sehen Sie eine Show.",
+  "shortDescription": "Ein vierstündiger Kathputli-Workshop in Jaipur, bauen Sie eine rajasthanische Fadenpuppe mit einem Kunsthandwerker, dann sehen Sie eine Show.",
+  "fullDescription": "**Ein Handwerk, das wirklich verschwindet**\n\n**Kathputli** ist Rajasthans Fadenpuppen-Tradition und etwa tausend Jahre alt. Die Puppenspieler waren umherziehende Bhat-Gemeinschaften, die zwischen Dörfern reisten und Epen und Satiren aufführten, das ganze Theater auf dem Rücken tragend.\n\nDas Fernsehen nahm den größten Teil dieses Publikums. Es gibt heute weit weniger Familien, die das tun, als vor einer Generation, und die übrig gebliebenen überleben größtenteils durch Workshops wie diesen.\n\n**Eine herstellen**\n\nDer Kunsthandwerker beginnt mit der Geschichte, und dann bauen Sie eine Puppe.\n\nDer Kopf ist aus **Mangoholz**, geschnitzt und bemalt. Die Gesichtszüge sind absichtlich übertrieben, Kathputli-Puppen sollen aus der Entfernung bei schwachem Licht lesbar sein, also sind die Augen und Schnurrbärte riesig.\n\nDer Körper ist mit Baumwolle gefülltes Tuch, gekleidet in Reste von Spiegelarbeit-Stoff und Lehenga-Abschnitten, deshalb ist jede Puppe anders. Das Kostüm zeigt Ihnen, wer die Figur ist: ein Rajput-Adliger, eine Tänzerin, ein Schlangenbeschwörer, ein Pferdereiter.\n\nDann die Fäden. Kathputli-Puppen haben berühmt **keine Beine und keine sichtbaren Gelenke unterhalb der Taille**, die Figur wird über zwei Fäden bewegt, die an den Fingern des Puppenspielers festgebunden sind, und die Bewegung kommt von der ganzen Hand des Puppenspielers. Es ist schwieriger als es aussieht, und der Kunsthandwerker lässt Sie erst scheitern, bevor er Ihnen den Trick zeigt.\n\n**Die Show**\n\nDanach eine Vorstellung. Die klassische Geschichte ist **Amar Singh Rathore**, ein Adliger aus Jodhpur, der gegen einen mogulischen Hof kämpfte und verlor, erzählt mit der gesungenen Erzählung und der schrillen Bambuspfeife, die die Tradition statt Dialog verwendet.\n\nDie Puppen kämpfen, tanzen, reiten und köpfen sich gegenseitig. Kinder finden es urkomisch; Erwachsene bemerken die politische Satire.\n\n**Sie nehmen Ihre Puppe mit nach Hause**\n\nAlle Materialien sind inklusive.\n\n**Praktisch**\n\nEtwa vier Stunden. Geeignet für Kinder und keineswegs ein Museumsbesuch, Sie werden schneiden, kleben und malen.\n\nDie Werkstatt ist ein funktionierendes Heimstudio statt eines Veranstaltungsorts, das ist der Reiz.",
+  "highlights": [
+   "Entdecken Sie die Geschichte des rajasthanischen Kathputli-Puppenspiels"
+  ],
+  "included": [
+   "Abholung & Rückfahrt zu Hotel, Flughafen oder Bahnhof",
+   "Fahrer",
+   "Wasser in Flaschen",
+   "Kraftstoff",
+   "Parkgebühren",
+   "Mautgebühren und zwischenstaatliche Steuern",
+   "Alle staatlichen Steuern"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Alles, was nicht in den Einschlüssen genannt ist",
+   "Trinkgeld"
+  ]
+ },
+ "jaipur-lac-work-bangle-making-workshop-with-artisa": {
+  "title": "Jaipur: Lack-Armreif-Herstellungs-Workshop mit Kunsthandwerker",
+  "metaTitle": "Jaipur: Lack-Armreif-Workshop mit Kunsthandwerker",
+  "metaDescription": "Ein vierstündiger Lack-Workshop in Jaipur, stellen Sie Ihre eigenen Lack-Armreifen mit einem Kunsthandwerker über einer offenen Flamme her.",
+  "shortDescription": "Ein vierstündiger Lack-Workshop in Jaipur, stellen Sie Ihre eigenen Lack-Armreifen mit einem Kunsthandwerker über einer offenen Flamme her.",
+  "fullDescription": "**Lack, und warum Jaipur der Ort ist, wo er hergestellt wird**\n\n**Lack** ist ein Harz, das von einem Insekt auf Wirtsbäumen abgesondert wird, abgeschabt, raffiniert und eingefärbt. Rajasthan verarbeitet ihn seit Jahrhunderten, und die Armreif-Gassen bei Tripolia Bazaar in Jaipur, **Maniharon ka Rasta**, wörtlich die Straße der Armreif-Macher, sind das Zentrum davon.\n\nDas Handwerk läuft in Familien, und es gibt jedes Jahrzehnt weniger davon. Ein Workshop ist, wie sie neben den Geschäften überleben.\n\n**Wie ein Lack-Armreif hergestellt wird**\n\nDer Kunsthandwerker erweicht einen Stab Lack über einer kleinen offenen Flamme, bis er formbar ist, wie warmes Toffee. Er wird auf einer Steinplatte gerollt, um die Farbe einzumischen, dann um einen **Holzdorn** in Handgelenkgröße gewickelt, und die Enden werden allein durch Hitze und Druck verbunden, kein Klebstoff.\n\nWährend er noch weich ist, werden **Spiegel, Glas oder Steine** in die Oberfläche gedrückt. Das muss in einem sehr kurzen Zeitfenster geschehen, und es falsch zu machen, ist der Teil, den jeder mindestens einmal durchmacht.\n\nDann kühlt es ab und wird hart, und ist fertig.\n\n**Was Sie beim Tun lernen**\n\nWarum handgefertigte Lack-Armreifen leichte Unregelmäßigkeiten haben und maschinell gefertigte Harz-Armreifen nicht. Wie die Farben geschichtet werden, damit ein Armreif zweifarbig wirkt. Und wie schnell das Material von formbar zu unbrauchbar wechselt, was die ganze Kunst ist.\n\nSie werden auch nie wieder denken, dass ₹200 viel für einen sind.\n\n**Sie nehmen sie mit nach Hause**\n\nDie Armreifen, die Sie herstellen. Die Größe ist wichtig, indische Armreifen gehen über die Knöchel statt zu schließen, also wird der Kunsthandwerker Ihre Hand messen, bevor Sie beginnen.\n\n**Praktisch**\n\nEtwa vier Stunden in einem funktionierenden Studio.\n\nEs gibt eine offene Flamme und warmes Harz im Spiel. Der Kunsthandwerker übernimmt die heiße Phase; Sie bearbeiten das Material, sobald es sicher zu berühren ist, und es ist nicht gefährlich, aber tragen Sie nichts Loses am Handgelenk.\n\nAlle Materialien inklusive.",
+  "highlights": [
+   "Entdecken Sie die farbenfrohe traditionelle Kunst des Lackhandwerks in Jaipur"
+  ],
+  "included": [
+   "Abholung & Rückfahrt zu Hotel, Flughafen oder Bahnhof",
+   "Fahrer",
+   "Wasser in Flaschen",
+   "Kraftstoff",
+   "Parkgebühren",
+   "Mautgebühren und zwischenstaatliche Steuern",
+   "Alle staatlichen Steuern"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Trinkgeld",
+   "Alles, was nicht in den Einschlüssen genannt ist"
+  ]
+ },
+ "jaipur-monkey-temple-and-sun-temple-guided-tour": {
+  "title": "Jaipur: Geführte Tour zum Affentempel und Sonnentempel",
+  "metaTitle": "Jaipur: Affentempel und Sonnentempel",
+  "metaDescription": "Zwei Stunden bei Galta Ji, dem Affentempel, und dem Surya-Tempel darüber, mit einem Guide.",
+  "shortDescription": "Zwei Stunden bei Galta Ji, dem Affentempel, und dem Surya-Tempel darüber, mit einem Guide.",
+  "fullDescription": "**Ein Tempel in einer Schlucht, und der Sonnentempel darüber**\n\nEine kurze, fokussierte Tour zu zwei Stätten in den Aravalli-Hügeln östlich von Jaipur, für die fast kein Tagestour-Reiseplan Zeit hat.\n\n**Galta Ji**\n\nEin Tempelkomplex, eingeklemmt in eine Schlucht in den Hügeln, zehn Kilometer von der Altstadt entfernt. Natürliche Quellen fließen durch eine Reihe von Steinbecken, der **Galta Kund** oben ist nie bekannt dafür, auszutrocknen, und Pilger baden dort seit Jahrhunderten.\n\nDie Gebäude sind aus rosafarbenem Sandstein des 18. Jahrhunderts mit bemalten Innenräumen, die so verblassen, dass es sich jetzt lohnt, sie zu sehen. Der Komplex ist in den Felsen gebaut statt darauf, deshalb fühlt sich das Ganze versteckt an, bis man drinnen ist.\n\n**Über die Affen**\n\nZwei Truppen leben hier, Rhesusaffen und Languren, daher der Spitzname.\n\nEs sind Wildtiere. Halten Sie kein Essen in der Hand, strecken Sie kein Telefon über eine Mauer, und nehmen Sie die Sonnenbrille vom Kopf. Befolgen Sie das, und sie werden Sie vollständig ignorieren.\n\n**Surya-Tempel**\n\nAuf dem Grat über dem Komplex, der Sonne gewidmet und zum Sonnenaufgang gerichtet, erreicht über einen Fußweg den Schluchtpfad hinauf.\n\nVon dort oben liegt die ganze Stadt darunter, und zu beiden Tagesrandzeiten ist es einer der besten Aussichtspunkte in Jaipur, mit fast niemandem dort.\n\nDer Weg ist an Stellen steil und die Mühe wert.\n\n**Was erwartet wird**\n\nSchuhe aus an den Tempeln, Schultern und Knie bedeckt. Keine Fotografie innerhalb der Schreine. Ledergürtel und -taschen bleiben am besten im Auto.\n\nEs ist eine aktive Pilgerstätte statt ein Denkmal, und Sie könnten eine Puja oder ein Bad-Ritual im Gange finden. Ihr Guide wird Ihnen sagen, wo Sie stehen sollen.\n\n**Praktisch**\n\nZwei Stunden, mit einem Guide.\n\nGehen Sie früh oder spät, die Mitte des Tages ist heiß in der Schlucht und die Makaken sind dreister.\n\nDer Eintritt ist kostenlos oder gegen eine symbolische Spende.",
+  "highlights": [
+   "Entdecken Sie Galta Ji mit einem lokalen Guide, Affen, Tempel und geheime Aussichtspunkte!"
+  ],
+  "included": [
+   "Abholung & Rückfahrt von Ihrem Hotel in Jaipur",
+   "Komfortables Auto mit Fahrer",
+   "Erfahrener Guide"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühr",
+   "Kamera- und Handygebühr"
+  ]
+ },
+ "jaipur-monkey-temple-sunset-and-night-city-tour-by": {
+  "title": "Jaipur: Affentempel-Sonnenuntergang und nächtliche Stadttour im Tuk-Tuk",
+  "metaTitle": "Jaipur: Affentempel, Sonnenuntergang, Nacht",
+  "metaDescription": "Eine abendliche Tuk-Tuk-Tour durch Jaipur, Sonnenuntergang am Affentempel, dann die beleuchtete Stadt. Etwa vier Stunden.",
+  "shortDescription": "Eine abendliche Tuk-Tuk-Tour durch Jaipur, Sonnenuntergang am Affentempel, dann die beleuchtete Stadt. Etwa vier Stunden.",
+  "fullDescription": "**Sonnenuntergang aus der Schlucht, dann die beleuchtete Stadt**\n\nEin offenes Tuk-Tuk, ein lokaler Fahrer, und die zwei besten Stunden des Jaipur-Tages, die keine Standardtour abdeckt.\n\n**Sonnenuntergang bei Galta Ji**\n\nDer Tempelkomplex in einer Schlucht der Aravalli östlich der Stadt, mit natürlichen Quellen, die eine Reihe von Steinbecken versorgen. Die Gebäude sind aus rosafarbenem Sandstein des 18. Jahrhunderts, in den Felsen gebaut, und Pilger baden seit Jahrhunderten im **Galta Kund** oben.\n\nDer **Surya-Tempel** auf dem Grat darüber ist, wo man die Sonne untergehen sieht, die ganze Stadt darunter ausgebreitet, und fast niemand dort oben.\n\nDie Makaken leben hier, daher der Spitzname. Halten Sie kein Essen in der Hand, strecken Sie Ihr Telefon nicht über eine Mauer, und nehmen Sie die Sonnenbrille vom Kopf.\n\n**Dann die Stadt nach Einbruch der Dunkelheit**\n\n**Hawa Mahal** von vorne angestrahlt, was die 953 Fenster auf eine Art hervortreten lässt, die Tageslicht abflacht.\n\nDie **City Palace**-Mauern, und das **Albert Hall Museum**, beleuchtet, gespiegelt, und von einer unwahrscheinlichen Anzahl von Tauben umgeben. Es ist das meistfotografierte Gebäude Jaipurs bei Nacht und kostenlos anzusehen.\n\nDie **Altstadt-Bazare** in vollem Gange: brutzelnde Süßwarenläden, Armreif-Gassen, Chai-Stände, und die Hochzeitssaison-Menschenmengen von November bis Februar.\n\nUnd das Essen, falls Sie möchten, Kachori, Jalebi, Lassi in einem Ton-Kulhad, wo auch immer Ihr Fahrer es empfiehlt.\n\n**Was Sie nicht sehen werden**\n\nDenkmal-Innenräume. Sie schließen bei Sonnenuntergang. Dies ist eine Tour durch die Stadt statt durch ihre Räume, und entsprechend preislich gestaltet.\n\n**Praktisch**\n\nEtwa vier Stunden, mit Hotelabholung zeitlich auf den Sonnenuntergang abgestimmt, der sich im Laufe des Jahres verschiebt.\n\nEin Tuk-Tuk ist offen, und von November bis Februar sinken Jaipurs Abende nach Einbruch der Dunkelheit stark ab, bringen Sie eine Jacke mit.\n\nSchuhe aus am Tempel, Schultern und Knie bedeckt. Der Eintritt dort ist kostenlos oder gegen eine symbolische Spende.",
+  "highlights": [
+   "Erleben Sie einen atemberaubenden Sonnenuntergang am Affentempel (Galtaji)"
+  ],
+  "included": [
+   "Abholung & Rückfahrt zum Hotel",
+   "Privater Tuk-Tuk-Transport",
+   "Englischsprachiger, freundlicher lokaler Fahrer",
+   "Wasser in Flaschen während der Tour",
+   "Kostenloser Tee, Lassi oder Kaffee",
+   "Eis an einem beliebten lokalen Ort"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben und Einkäufe",
+   "Mahlzeiten und zusätzliches Essen oder Getränke",
+   "Trinkgeld (optional)"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
