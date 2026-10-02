@@ -16005,6 +16005,97 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche persönliche Ausgaben"
   ]
  },
+ "amber-fort-amber-private-tour": {
+  "title": "Jaipur: private Amber-Fort-Tour mit Vorrangeinlass (4 Stunden)",
+  "metaTitle": "Amber Fort: private Vorrangtour",
+  "metaDescription": "Vier Stunden am Amber Fort mit Vorrangeinlass und einem privaten Führer, mit Transfer- und Mittagessen-Optionen.",
+  "shortDescription": "Vier Stunden am Amber Fort mit Vorrangeinlass und einem privaten Führer, mit Transfer- und Mittagessen-Optionen.",
+  "fullDescription": "**Vier Stunden an einem Fort, die es verdient**\n\nAmber besteht aus vier Innenhöfen, die über hundertfünfzig Jahre von verschiedenen Herrschern mit verschiedenen Absichten erbaut wurden. Die meisten Touren widmen ihm neunzig Minuten. Vier Stunden bedeuten, dass Sie alles durchgehen, einschließlich der Teile, die niemand erreicht.\n\nVorrangeinlass zählt hier mehr als irgendwo sonst in Jaipur, der Ticketschalter an der Basis kann Sie in der Saison eine halbe Stunde kosten.\n\n**Jaleb Chowk**\n\nDer erste Innenhof, wo zurückkehrende Armeen paradierten und der Maharadscha sie von oben inspizierte. Die Stallungen entlang seines Randes sind noch da, ebenso das Trommelhaus.\n\n**Ganesh Pol**\n\nDas bemalte Tor zum privaten Palast: Gips auf Stein, der stellenweise noch die ursprüngliche Farbe trägt, mit der **Suhag-Mandir**-Galerie darüber, Jali-Fenster, von denen aus die Frauen des Hofes Zeremonien im Hof unten beobachten konnten, ohne gesehen zu werden.\n\n**Sheesh Mahal**\n\nDer Spiegelpalast, und wofür die meisten Menschen kommen. Tausende konvexe Glasfragmente in Decke und Wände eingesetzt, sodass eine einzige Kerze sich wie ein sternenübersäter Himmel las. Das Glas wurde aus Belgien importiert und von lokalen Handwerkern eingesetzt.\n\n**Sukh Niwas**\n\nAuf der anderen Seite des Innenhofs, wo Wasser durch in die Marmorwände geschnittene Kanäle floss und den Raum durch Verdunstung kühlte. Klimaanlage, vier Jahrhunderte früher, an einem Ort, der 45 °C erreicht.\n\n**Das Zenana**\n\nDer vierte Innenhof: zwölf Wohnungen für zwölf Königinnen um einen Hof, mit den Korridoren bewusst so angeordnet, dass der Maharadscha eine besuchen konnte, ohne dass die anderen wussten, welche.\n\n**Die Umgebung**\n\nDer **Maota-See** darunter, mit dem **Kesar-Kyari**-Garten, im Wasser in einem Safranbeet-Muster angelegt, und **Jaigarh** auf dem Grat darüber, durch einen Tunnel verbunden.\n\n**Drei Optionen**\n\nTickets und Führer; mit Transfers; oder mit Transfers und Mittagessen.\n\n**Praktisches**\n\nEchtes Klettern auf unebenem Stein, flache Schuhe. Früh losgehen.\n\nDie Elefantenritte an der Basis werden unabhängig betrieben, und wir buchen sie nicht; ein Jeep fährt die gleiche Rampe.",
+  "highlights": [
+   "Unsere Expertenführer lassen die Geschichte und Legenden des Amber Forts lebendig werden"
+  ],
+  "included": [
+   "Private Tour",
+   "Vom lokalen Staat zugelassener Führer",
+   "Eintrittskarten für das Amber Fort",
+   "Mineralwasserflaschen während der Fahrt im Auto",
+   "Alle Steuern, Gebühren und Bearbeitungskosten",
+   "Persönliche Betreuung",
+   "Transport im privaten klimatisierten Auto (falls Option gewählt)",
+   "Mittagessen (falls Option gewählt)"
+  ],
+  "notIncluded": [
+   "Trinkgelder (optional)",
+   "Wasser in Flaschen und Getränke während des Mittagessens"
+  ]
+ },
+ "best-food-tour-in-jaipur": {
+  "title": "Die beste kulinarische Tour durch Jaipur",
+  "metaTitle": "Jaipur: kulinarische Tour",
+  "metaDescription": "Eine zweistündige kulinarische Tour durch Jaipur mit Führer, morgens oder abends, dort essen, wo Einheimische essen.",
+  "shortDescription": "Eine zweistündige kulinarische Tour durch Jaipur mit Führer, morgens oder abends, dort essen, wo Einheimische essen.",
+  "fullDescription": "**Essen wie ein Einheimischer, organisiert von Menschen, die das seit 2014 tun**\n\nZwei Stunden, zu Fuß, mit einem Führer, dessen Aufgabe es ist, Sie zu den Ständen und Läden zu bringen, die Jaipur selbst nutzt, statt zu denen mit englischer Beschilderung.\n\n**Was rajasthanisches Essen tatsächlich ist**\n\nDie Wüste hat es geformt. Wasser war knapp, daher wurde in Ghee, Milch und Buttermilch statt in Wasser gekocht. Frisches Gemüse war knapp, daher trugen Kichererbsenmehl, Linsen und getrocknete Wüstenbohnen den Teller. Es gab keine Kühlung, daher ist vieles trocken gewürzt und hält sich tagelang.\n\nSobald jemand einem das erklärt, während man es isst, ergibt die gesamte Küche Sinn.\n\n**Was Sie essen werden**\n\n**Pyaaz Kachori**, das mit Zwiebeln gefüllte frittierte Gebäck, das Jaipur besser macht als überall sonst, in einem Laden, der seit den 1950er Jahren frittiert und immer noch bis vor die Tür anstehen lässt.\n\n**Mirchi Vada**, eine ganze grüne Chili, gefüllt mit gewürzter Kartoffel, paniert und frittiert. Weniger scharf, als es klingt, und absolut süchtig machend.\n\n**Dal Baati Churma**, falls die Tour ein Sitzessen einschließt: harte Weizenbrötchen, gebacken bis sie reißen, in Ghee zerbröckelt, mit einem gewürzten Dal und süßem zerkrümeltem Churma daneben.\n\n**Ghewar** zur Saison, eine Scheibe eingeweichten wabenartigen Teigs, die zu den Monsunfesten gehört. **Lassi** in einem Tonkulhad. **Mawa Kachori**, falls noch Platz ist, was nicht der Fall sein wird.\n\nUnd die Süßwarenläden des **Johari Bazaar**, wo **LMB** seit 1727 in irgendeiner Form verkauft.\n\n**Zwei Optionen**\n\nDie Standardtour, oder eine Morgen- und Abendversion, Morgen für Kachori und Frühstücksessen, Abende für Chaat und Süßigkeiten.\n\n**Praktisches**\n\nZwei Stunden, zu Fuß.\n\nDurchgehend vegetarisch, was rajasthanisches Straßenessen größtenteils ist. Sagen Sie vorab Bescheid über Chili-Toleranz, Jain-Anforderungen oder Allergien.\n\nKommen Sie hungrig, und essen Sie nicht vorher, Menschen unterschätzen durchweg, wie viel Essen zwei Stunden enthalten.",
+  "highlights": [
+   "Die besten Dinge, die man in Jaipur tun kann"
+  ],
+  "included": [
+   "Hochqualifizierter und freundlicher Erzähler/Führer",
+   "Verkostung von mindestens 7-8 Gerichten",
+   "Masala Chai",
+   "Gute Gespräche, interessante Geschichten, lokale Tipps und Empfehlungen"
+  ],
+  "notIncluded": [
+   "Abholung und Rückbringung zum Hotel",
+   "Trinkgeld"
+  ]
+ },
+ "elefun-elephant-sanctuary-tour-in-jaipur": {
+  "title": "Elefun-Elefantenschutzgebiet-Tour in Jaipur",
+  "metaTitle": "Jaipur: Elefun-Elefantenschutzgebiet",
+  "metaDescription": "Drei Stunden in einem Elefantenschutzgebiet außerhalb von Jaipur, Tiere treffen und sich um sie kümmern. Kein Reiten.",
+  "shortDescription": "Drei Stunden in einem Elefantenschutzgebiet außerhalb von Jaipur, Tiere treffen und sich um sie kümmern. Kein Reiten.",
+  "fullDescription": "**Kein Reiten, und kein Howdah auf dem Gelände**\n\nDie Elefanten hier kamen aus den Reitlinien, aus Hochzeits- und Tempelarbeit, oder aus dem Bettelgewerbe. Keiner von ihnen wird jetzt geritten, und das ist keine Marketingposition, es ist die Wirbelsäule und die Füße des Tieres.\n\nWenn Sie ein Foto auf dem Rücken eines Elefanten wollen, ist dies die falsche Buchung, und Sie sollten das vorher wissen statt nachher.\n\n**Was drei Stunden mit einem Elefanten tatsächlich bedeuten**\n\nDas Erste ist Futter, denn so entscheidet ein Elefant, ob er einen mag: Zuckerrohr, Bananen, Melone und von Hand gepresste Jaggery-Kugeln. Ein ausgewachsenes Tier verzehrt etwa 150 kg am Tag und trinkt bis zu 200 Liter, daher dauert das eine Weile, und die Weile ist der Sinn der Sache. Man steht lange genug neben einem vier Tonnen schweren Tier, um aufzuhören, nervös zu sein.\n\nZuerst gibt es eine Einweisung zu Anatomie und Verhalten. Der Rüssel hat etwa vierzigtausend Muskeln und keinen Knochen. Elefanten kommunizieren in Infraschall unterhalb des menschlichen Hörbereichs, so bleiben getrennte Tiere über Kilometer in Kontakt.\n\n**Das Waschen**\n\nElefantenhaut ist etwa zweieinhalb Zentimeter dick und bekommt trotzdem Sonnenbrand, deshalb werfen sie sich in der Wildnis Schlamm und Staub über. Eines mit einer Bürste zu schrubben, während es einen absichtlich bespritzt, ist der Teil, den niemand erwartet, so sehr zu genießen, wie es dann der Fall ist.\n\n**Die Mahouts**\n\nDie meisten haben jahrelang mit demselben Tier gearbeitet, oft aus Familien, die das seit Generationen tun. Sie sind die interessantesten Menschen auf dem Gelände, fragen Sie sie, wie sie eine Stimmung lesen, und wie lange Vertrauen gedauert hat.\n\n**Praktisches**\n\nDrei Stunden, mit Transfers ab Jaipur.\n\nSie werden nass und schlammig werden. Bringen Sie Wechselkleidung und Schuhe mit, die Ihnen nichts ausmachen zu ruinieren.\n\nKein Blitzlicht rund um die Tiere, und bleiben Sie, wo die Pfleger Sie hinstellen.",
+  "highlights": [
+   "100% ethisches Elefantenerlebnis, erfahren Sie mehr über Elefanten"
+  ],
+  "included": [
+   "Abholung vom Hotel",
+   "Willkommensgetränke bei Ankunft",
+   "Begegnung und Vorstellung: Lassen Sie die Elefanten zunächst Ihren Geruch wahrnehmen und interagieren Sie mit ihnen, um Vertrauen aufzubauen",
+   "Füttern des Elefanten: Erfahren Sie mehr über ihre faszinierenden Essgewohnheiten und stärken Sie Ihre Bindung, indem Sie diese sanften Riesen von Hand füttern",
+   "Waschen und Duschen des Elefanten: Nehmen Sie am Waschen und Schrubben der Elefanten auf dem Hof teil und erleben Sie ihre verspielte Dusche (von Oktober bis März keine Elefantendusche wegen kalten Wetters)",
+   "Rückbringung zu Ihrem Hotel"
+  ],
+  "notIncluded": [
+   "Trinkgelder für die Betreuer (optional)"
+  ]
+ },
+ "experience-jaipur-jewelry-making-stone-cutting-wit": {
+  "title": "Erleben Sie Jaipur: Schmuckherstellung und Steinschleifen mit Mittagessen",
+  "metaTitle": "Jaipur: Schmuck und Steinschleifen",
+  "metaDescription": "Das Amber Fort am Morgen, dann ein aktives Schmuckatelier, um Steinschneiden und -fassen von Hand zu beobachten. Mittagessen inklusive.",
+  "shortDescription": "Das Amber Fort am Morgen, dann ein aktives Schmuckatelier, um Steinschneiden und -fassen von Hand zu beobachten. Mittagessen inklusive.",
+  "fullDescription": "**Jaipur ist eine Edelsteinstadt, nicht nur eine Festungsstadt**\n\nDie meisten farbigen Edelsteine der Welt gehen irgendwann durch Jaipur. Smaragde aus Sambia, Rubine aus Mosambik, Saphire aus Sri Lanka, geschnitten, poliert und gefasst in Werkstätten der Altstadt von Familien, die seit Generationen nichts anderes tun. Es ist der größte Arbeitgeber hier nach dem Tourismus, und fast kein Besucher sieht es.\n\nDieser Tag tut es.\n\n**Zuerst das Amber Fort**\n\nDer Hügelkomplex über dem Maota-See, begonnen 1592: das **Ganesh-Pol**-Tor, der **Sheesh Mahal**, wo Spiegelfragmente eine einzige Kerze in eine Decke voller Sterne verwandelten, und die Innenhöfe, die den Grat hinaufsteigen. Gehen Sie früh, vor den Bussen.\n\nDie Spiegelarbeit zuerst zu sehen ist nützlich, denn die Einlegetechnik dahinter und der Schmuck, dessen Herstellung Sie gleich beobachten werden, stammen aus derselben Tradition.\n\n**Die Werkstatt**\n\nDann ein aktives Atelier. Sie sehen rohen Stein an einem Rad geschnitten, facettiert und poliert, der Moment, in dem ein stumpfer Kiesel zu etwas wird, das Licht wirft, ist beim ersten Mal wirklich erstaunlich.\n\nUnd Sie sehen **Kundan** und **Meenakari**, die beiden Techniken, für die Jaipur bekannt ist: Kundan fasst Steine in reinem Goldfolie ohne Krallen, sodass der Edelstein zu schweben scheint; Meenakari ist Emaille, auf die Rückseite desselben Stücks gebrannt, sodass eine Halskette ein zweites, verstecktes Design auf ihrer Rückseite hat. Das war ursprünglich dafür gedacht, dass das Stück auch umgedreht schön ist, eine höfische Idee, die sich erhielt.\n\nHandwerker arbeiten vor Ihnen an der Werkbank, und Sie können ihnen alles fragen. Die meisten machen das seit ihrer Jugend.\n\n**Mittagessen** ist inklusive.\n\n**Falls Sie kaufen möchten**\n\nSie sind nicht dazu verpflichtet, und sollten es klar sagen, falls Sie den Ausstellungsraum nicht sehen möchten. Falls Sie kaufen, fragen Sie nach einem Zertifikat mit Angabe des Gewichts, der Behandlung und der Herkunft des Steins, und nehmen Sie es mit, ein angesehenes Haus in Jaipur stellt es ohne Drängen aus.\n\n**Praktisches**\n\nEtwa acht Stunden mit Hotelabholung. Der Eintritt zum Amber Fort wird am Tor bezahlt.",
+  "highlights": [
+   "Besuchen Sie das ikonische Amber Fort mit seiner königlichen Architektur und Aussicht"
+  ],
+  "included": [
+   "Privatwagen mit Fahrer für die gesamte Tour",
+   "Vollständiges Mittagessen (traditionelles rajasthanisches Gericht, ohne Alkohol)",
+   "Wasser in Flaschen während der gesamten Tour",
+   "Alle Steuern und Servicegebühren",
+   "Besuch des Amber Forts und der Schmuckfabrik",
+   "Expertenführer durch den Schmuckherstellungs- und Steinschleifprozess"
+  ],
+  "notIncluded": [
+   "Persönliche Einkäufe oder Souvenirs",
+   "Trinkgelder für den Führer oder Fahrer",
+   "Eintrittsgebühren zu anderen, nicht im Reiseplan genannten Attraktionen",
+   "Jegliche persönliche Ausgaben",
+   "Trinkgelder für Handwerker oder Fabrikarbeiter",
+   "Reiseversicherung"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",

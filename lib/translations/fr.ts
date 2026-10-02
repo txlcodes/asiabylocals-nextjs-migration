@@ -16005,6 +16005,97 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "amber-fort-amber-private-tour": {
+  "title": "Jaipur : visite privée du fort d'Amber avec entrée coupe-file (4 heures)",
+  "metaTitle": "Fort d'Amber : visite privée coupe-file",
+  "metaDescription": "Quatre heures au fort d'Amber avec entrée coupe-file et un guide privé, avec options de transfert et de déjeuner.",
+  "shortDescription": "Quatre heures au fort d'Amber avec entrée coupe-file et un guide privé, avec options de transfert et de déjeuner.",
+  "fullDescription": "**Quatre heures dans un seul fort, ce qu'il mérite**\n\nAmber comprend quatre cours construites sur cent cinquante ans par différents souverains avec des intentions différentes. La plupart des visites y consacrent quatre-vingt-dix minutes. Quatre heures signifient que vous parcourez l'ensemble, y compris les parties que personne n'atteint.\n\nL'entrée coupe-file compte ici plus qu'ailleurs à Jaipur, le guichet à la base peut vous coûter une demi-heure en pleine saison.\n\n**Jaleb Chowk**\n\nLa première cour, où les armées en retour défilaient et où le maharaja les passait en revue depuis le dessus. Les écuries le long de son bord sont toujours là, ainsi que la maison des tambours.\n\n**Ganesh Pol**\n\nLa porte peinte menant au palais privé : plâtre sur pierre, portant encore par endroits le pigment d'origine, avec la galerie **Suhag Mandir** au-dessus, des fenêtres à jali depuis lesquelles les femmes de la cour pouvaient observer les cérémonies dans la cour en dessous sans être vues.\n\n**Sheesh Mahal**\n\nLe palais des miroirs, et ce pour quoi la plupart des gens viennent. Des milliers de fragments de verre convexe incrustés dans le plafond et les murs de sorte qu'une seule bougie se lisait comme un ciel plein d'étoiles. Le verre a été importé de Belgique et posé par des artisans locaux.\n\n**Sukh Niwas**\n\nDe l'autre côté de la cour, où l'eau coulait dans des canaux taillés dans les murs de marbre et refroidissait la pièce par évaporation. Climatisation, quatre siècles en avance, dans un lieu qui atteint 45 °C.\n\n**Le zenana**\n\nLa quatrième cour : douze appartements pour douze reines autour d'une seule cour, avec les couloirs délibérément agencés pour que le maharaja puisse visiter l'une sans que les autres sachent laquelle.\n\n**Le cadre**\n\nLe **lac Maota** en dessous, avec le jardin **Kesar Kyari** aménagé dans l'eau selon un motif de parterres de safran, et **Jaigarh** sur la crête au-dessus, relié par un tunnel.\n\n**Trois options**\n\nBillets et guide ; avec transferts ; ou avec transferts et déjeuner.\n\n**Pratique**\n\nVéritable montée sur pierre irrégulière, chaussures plates. Partez tôt.\n\nLes balades à dos d'éléphant à la base fonctionnent indépendamment et nous ne les réservons pas ; une jeep parcourt la même rampe.",
+  "highlights": [
+   "Nos guides experts donnent vie de façon vivante à l'histoire et aux légendes du fort d'Amber"
+  ],
+  "included": [
+   "Visite privée",
+   "Guide agréé par le gouvernement local",
+   "Billets d'entrée pour le fort d'Amber",
+   "Bouteilles d'eau minérale pendant le trajet en voiture",
+   "Toutes les taxes, frais et frais de gestion",
+   "Soin et attention personnalisés",
+   "Transport en voiture privée climatisée (si l'option est choisie)",
+   "Déjeuner (si l'option est choisie)"
+  ],
+  "notIncluded": [
+   "Pourboires (facultatifs)",
+   "Eau en bouteille et boissons pendant le déjeuner"
+  ]
+ },
+ "best-food-tour-in-jaipur": {
+  "title": "La meilleure visite gastronomique de Jaipur",
+  "metaTitle": "Jaipur : visite gastronomique",
+  "metaDescription": "Une visite gastronomique de deux heures à Jaipur avec un guide, le matin ou le soir, en mangeant là où les locaux mangent.",
+  "shortDescription": "Une visite gastronomique de deux heures à Jaipur avec un guide, le matin ou le soir, en mangeant là où les locaux mangent.",
+  "fullDescription": "**Mangez comme un local, organisé par des gens qui font cela depuis 2014**\n\nDeux heures, à pied, avec un guide dont le travail est de vous emmener aux étals et boutiques que Jaipur elle-même fréquente plutôt que celles avec des enseignes en anglais.\n\n**Ce qu'est réellement la cuisine du Rajasthan**\n\nLe désert l'a façonnée. L'eau était rare, donc les plats étaient cuisinés au ghee, au lait et au lait fermenté plutôt qu'à l'eau. Les légumes frais étaient rares, donc la farine de pois chiche, les lentilles et les haricots séchés du désert constituaient le plat. Il n'y avait pas de réfrigération, donc une grande partie de la nourriture est épicée à sec et se conserve plusieurs jours.\n\nUne fois que quelqu'un vous explique cela pendant que vous mangez, toute la cuisine prend son sens.\n\n**Ce que vous mangerez**\n\nLe **pyaaz kachori**, la pâtisserie frite farcie d'oignon que Jaipur réussit mieux que partout ailleurs, dans une boutique qui frit depuis les années 1950 et dont la file sort toujours dans la rue.\n\nLe **mirchi vada**, un piment vert entier farci de pomme de terre épicée, pané et frit. Moins fort qu'il ne paraît et complètement addictif.\n\nLe **dal baati churma** si la visite comprend un repas assis : des petits pains de blé dur cuits jusqu'à craquer, émiettés dans du ghee, avec un dal épicé et un churma sucré émietté à côté.\n\nLe **ghewar** en saison, un disque de pâte alvéolée trempée qui appartient aux festivals de la mousson. Le **lassi** dans un kulhad en argile. Le **mawa kachori** si vous avez de la place, ce qui ne sera pas le cas.\n\nEt les confiseries du **bazar Johari**, où **LMB** vend sous une forme ou une autre depuis 1727.\n\n**Deux options**\n\nLa visite standard, ou une version matin et soir, les matins pour le kachori et la nourriture du petit-déjeuner, les soirs pour le chaat et les sucreries.\n\n**Pratique**\n\nDeux heures, à pied.\n\nEntièrement végétarien, ce qui est en grande partie le cas de la cuisine de rue du Rajasthan. Signalez à l'avance votre tolérance au piment, les exigences jaïnes ou les allergies.\n\nVenez affamé, et ne mangez pas avant, les gens sous-estiment systématiquement la quantité de nourriture que contiennent deux heures.",
+  "highlights": [
+   "Les meilleures choses à faire à Jaipur"
+  ],
+  "included": [
+   "Conteur/guide hautement formé et sympathique",
+   "Dégustation d'au moins 7 à 8 plats",
+   "Chai masala",
+   "De bonnes conversations, des histoires intéressantes, des conseils et recommandations locaux"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel",
+   "Pourboire"
+  ]
+ },
+ "elefun-elephant-sanctuary-tour-in-jaipur": {
+  "title": "Visite du sanctuaire d'éléphants Elefun à Jaipur",
+  "metaTitle": "Jaipur : sanctuaire d'éléphants Elefun",
+  "metaDescription": "Trois heures dans un sanctuaire d'éléphants hors de Jaipur, pour rencontrer et prendre soin des animaux. Pas de balade à dos d'éléphant.",
+  "shortDescription": "Trois heures dans un sanctuaire d'éléphants hors de Jaipur, pour rencontrer et prendre soin des animaux. Pas de balade à dos d'éléphant.",
+  "fullDescription": "**Pas de balade, et pas de howdah sur la propriété**\n\nLes éléphants ici viennent des lignes de balade, du travail de mariage et de temple, ou du commerce de la mendicité. Aucun d'eux n'est monté désormais, et ce n'est pas une position marketing, c'est la colonne vertébrale et les pieds de l'animal.\n\nSi ce que vous voulez est une photo sur le dos d'un éléphant, cette réservation ne vous convient pas, et vous devriez le savoir avant de payer plutôt qu'après.\n\n**Ce que sont vraiment trois heures avec un éléphant**\n\nLa première chose est la nourriture, car c'est ainsi qu'un éléphant décide s'il vous aime : canne à sucre, bananes, melon et boules de jaggery pressées à la main. Un adulte consomme environ 150 kg par jour et boit jusqu'à 200 litres, donc cela prend du temps, et ce temps est tout l'intérêt. Vous vous tenez à côté d'un animal de quatre tonnes assez longtemps pour arrêter d'être nerveux.\n\nIl y a d'abord un briefing sur l'anatomie et le comportement. La trompe compte environ quarante mille muscles et aucun os. Les éléphants communiquent en infrasons sous l'audition humaine, c'est ainsi que des animaux séparés restent en contact sur des kilomètres.\n\n**Le bain**\n\nLa peau d'éléphant fait environ deux centimètres et demi d'épaisseur et prend quand même des coups de soleil, c'est pourquoi ils se couvrent de boue et de poussière à l'état sauvage. Frotter un éléphant avec une brosse pendant qu'il vous asperge délibérément est la partie que personne ne s'attend à apprécier autant qu'il le fait.\n\n**Les cornacs**\n\nLa plupart travaillent avec le même animal depuis des années, souvent issus de familles qui font cela depuis des générations. Ce sont les personnes les plus intéressantes de la propriété, demandez-leur comment ils lisent une humeur, et combien de temps la confiance a pris.\n\n**Pratique**\n\nTrois heures, avec transferts depuis Jaipur.\n\nVous serez mouillé et boueux. Apportez un change de vêtements et des chaussures que vous ne craignez pas de ruiner.\n\nPas de flash autour des animaux, et restez où les gardiens vous placent.",
+  "highlights": [
+   "Expérience éthique à 100% avec les éléphants, apprenez à leur sujet"
+  ],
+  "included": [
+   "Prise en charge à l'hôtel",
+   "Boissons de bienvenue à l'arrivée",
+   "Rencontre et présentation : laisser les éléphants sentir votre odeur et interagir avec eux pour établir la confiance",
+   "Nourrir l'éléphant : découvrez leurs habitudes alimentaires fascinantes et renforcez votre lien en nourrissant ces géants doux à la main",
+   "Lavage et douche de l'éléphant : participez au lavage et au frottage des éléphants à la ferme, en vivant leur douche ludique (d'octobre à mars, pas de douche d'éléphant en raison du temps froid)",
+   "Retour à votre hôtel"
+  ],
+  "notIncluded": [
+   "Pourboires au personnel (facultatifs)"
+  ]
+ },
+ "experience-jaipur-jewelry-making-stone-cutting-wit": {
+  "title": "Découvrez Jaipur : fabrication de bijoux et taille de pierres avec déjeuner",
+  "metaTitle": "Jaipur : bijoux et taille de pierres",
+  "metaDescription": "Le fort d'Amber le matin, puis un atelier de bijouterie en activité pour observer la taille et le sertissage de pierres à la main. Déjeuner inclus.",
+  "shortDescription": "Le fort d'Amber le matin, puis un atelier de bijouterie en activité pour observer la taille et le sertissage de pierres à la main. Déjeuner inclus.",
+  "fullDescription": "**Jaipur est une ville de pierres précieuses, pas seulement une ville de forts**\n\nLa plupart des pierres précieuses de couleur du monde passent par Jaipur à un moment ou un autre. Des émeraudes de Zambie, des rubis du Mozambique, des saphirs du Sri Lanka, taillés, polis et sertis dans des ateliers de la vieille ville par des familles qui ne font rien d'autre depuis des générations. C'est le plus grand employeur ici après le tourisme, et presque aucun visiteur ne le voit.\n\nCette journée le fait.\n\n**Le fort d'Amber d'abord**\n\nLe complexe au sommet de la colline au-dessus du lac Maota, commencé en 1592 : la porte **Ganesh Pol**, le **Sheesh Mahal** où des fragments de miroir transformaient une seule bougie en un plafond d'étoiles, et les cours qui montent sur la crête. Partez tôt, avant les autocars.\n\nLe travail des miroirs est utile à voir d'abord, car la technique d'incrustation qui le sous-tend et les bijoux que vous allez voir fabriquer proviennent de la même tradition.\n\n**L'atelier**\n\nPuis un atelier en activité. Vous verrez de la pierre brute taillée sur une roue, facettée, et polie, le moment où un galet terne se transforme en quelque chose qui renvoie la lumière est réellement saisissant la première fois.\n\nEt vous verrez le **kundan** et le **meenakari**, les deux techniques pour lesquelles Jaipur est connue : le kundan sertit les pierres dans de l'or pur en feuille sans griffes, de sorte que la pierre semble flotter ; le meenakari est un émail cuit au dos de la même pièce, de sorte qu'un collier a un second motif caché à l'arrière. C'était à l'origine pour que la pièce soit belle même retournée, une idée courtoise qui a perduré.\n\nLes artisans travaillent devant vous à l'établi, et vous pouvez leur poser n'importe quelle question. La plupart le font depuis l'adolescence.\n\nLe **déjeuner** est inclus.\n\n**Si vous voulez acheter**\n\nVous n'y êtes nullement obligé, et vous devriez le dire clairement si vous préférez ne pas voir la salle d'exposition. Si vous achetez, demandez un certificat indiquant le poids, le traitement et l'origine de la pierre, et prenez-le, une maison réputée de Jaipur le fournira sans qu'on ait à insister.\n\n**Pratique**\n\nEnviron huit heures avec prise en charge à l'hôtel. L'entrée au fort d'Amber se paie à la porte.",
+  "highlights": [
+   "Visitez l'emblématique fort d'Amber avec son architecture royale et ses vues"
+  ],
+  "included": [
+   "Voiture privée avec chauffeur pour toute la visite",
+   "Déjeuner complet (repas traditionnel du Rajasthan, sans alcool)",
+   "Eau en bouteille pendant toute la visite",
+   "Toutes les taxes et frais de service",
+   "Visite du fort d'Amber et de la manufacture de bijoux",
+   "Guide expert pour vous accompagner à travers le processus de fabrication de bijoux et de taille de pierres"
+  ],
+  "notIncluded": [
+   "Achats personnels ou souvenirs",
+   "Pourboires pour le guide ou le chauffeur",
+   "Droits d'entrée aux autres attractions non mentionnées dans l'itinéraire",
+   "Toute dépense personnelle",
+   "Pourboires pour les artisans ou les ouvriers de la manufacture",
+   "Assurance voyage"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
