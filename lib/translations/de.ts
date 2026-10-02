@@ -12320,6 +12320,103 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "from-delhi-golden-triangle-tour-w-jodhpur-jaisalme": {
+  "title": "Ab Delhi: Golden-Triangle-Tour mit Jodhpur und Jaisalmer, 9T/8N",
+  "metaTitle": "Golden Triangle mit Jodhpur und Jaisalmer, 9 Tage",
+  "metaDescription": "Neun Tage ab Delhi über Agra und Jaipur nach Jodhpur und Jaisalmer, endend in der Thar-Wüste.",
+  "shortDescription": "Neun Tage ab Delhi über Agra und Jaipur nach Jodhpur und Jaisalmer, endend in der Thar-Wüste.",
+  "fullDescription": "**Neun Tage, und Jaisalmer ist der Grund**\n\nJaisalmer liegt 560 km westlich von Jaipur, fast an der pakistanischen Grenze. Jeder kürzere Rajasthan-Reiseplan lässt es aus, und es ist der Ort, an den sich die Menschen am längsten erinnern.\n\n**Tage 1-2: Delhi**\n\nEmpfang bei Ankunft, mit einem optionalen Abend an **India Gate** und Connaught Place.\n\nDann die Hauptstadt: die **Jama Masjid** und eine Rikscha-Fahrt durch **Chandni Chowk**, **Raj Ghat**, **Humayuns Grab**, das Mogul-Gartengrab aus den 1560er Jahren, von dem der Taj abstammt, und **Qutub Minar** mit seiner 1.600 Jahre alten, rostfreien eisernen Säule.\n\n**Tage 3-4: Agra**\n\nDer **Taj Mahal** bei Sonnenaufgang, und das **Agra Fort** mit dem **Musamman Burj**, wo Aurangzeb seinen Vater acht Jahre gefangen hielt, der Taj entlang des Flusses sichtbar.\n\n**Fatehpur Sikri** auf dem Weg nach Westen.\n\n**Tage 5-6: Jaipur**\n\nDas **Amber Fort** über dem Maota-See, der **City Palace**, das **Jantar Mantar** und der **Hawa Mahal**, mit einem Abend in den Basaren.\n\n**Tage 7-8: Jodhpur**\n\n**Mehrangarh** erhebt sich 120 Meter direkt aus dem Felsen und wurde nie eingenommen; das Museum darin ist das best geführte im Bundesstaat, und die Kanonenball-Narben am zweiten Tor stammen von einer gescheiterten Belagerung durch Jaipur.\n\nDarunter **Jaswant Thada** aus Marmor, dünn genug, dass Licht durchscheint, und die blauen Gassen rund um den Uhrturm, eine Kalk-Kupfer-Tünche, die Termiten abhielt.\n\n**Tag 9: Jaisalmer**\n\n**Sonar Quila**, das goldene Fort von 1156, ist eines der letzten noch lebenden Forts der Erde: etwa dreitausend Menschen leben noch immer innerhalb seiner Mauern, in Häusern, die ihre Familien seit Generationen halten.\n\nDie **Jain-Tempel** im Inneren sind bis zur Filigranhaftigkeit geschnitzt; **Patwon ki Haveli** besteht aus fünf Kaufmannshäusern Seite an Seite. Dann die **Sam-Dünen** für eine Kamelfahrt bei Sonnenuntergang und eine Nacht unter dem Sternenhimmel.\n\n**Drei Optionen**\n\nAuto, Fahrer und Führer; oder mit Vier- oder Fünf-Sterne-Hotels.\n\n**Praktisches**\n\nOktober bis März. Die Wüste übersteigt ab April 45 °C und nähert sich in Dezembernächten dem Gefrierpunkt.",
+  "highlights": [
+   "Erkunden Sie Indiens ikonischste Reiseziele, Delhi, Agra, Jaipur, Jodhpur und Jaisalmer"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel oder Flughafen",
+   "Privates klimatisiertes Auto mit Fahrer für die gesamte Tour",
+   "Professioneller Reiseführer in jeder Stadt",
+   "8 Nächte Hotelunterkunft (falls Option gewählt)",
+   "Frühstück im Hotel (falls Option gewählt)",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parkkosten"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen",
+   "Eintrittskarten zu den Denkmälern",
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "from-delhi-golden-triangle-with-pushkar-5-nights-6": {
+  "title": "Ab Delhi: Golden Triangle mit Pushkar, 5 Nächte, 6 Tage",
+  "metaTitle": "Golden Triangle mit Pushkar, 6 Tage",
+  "metaDescription": "Sechs Tage ab Delhi über Agra und Jaipur nach Pushkar, der Stadt am See mit dem Tempel, mit Hoteloptionen.",
+  "shortDescription": "Sechs Tage ab Delhi über Agra und Jaipur nach Pushkar, der Stadt am See mit dem Tempel, mit Hoteloptionen.",
+  "fullDescription": "**Das Dreieck, plus eine Stadt mit einem einzigen Brahma-Tempel**\n\nPushkar ist klein, eigenartig und völlig anders als die drei Städte davor. Es liegt um einen See in den Aravalli-Bergen, 150 km südwestlich von Jaipur, und Hindus glauben, dass der See dort entstand, wo Brahma einen Lotus fallen ließ.\n\nEs gibt vielleicht ein Dutzend Brahma-Tempel weltweit. Dies ist der wichtigste.\n\n**Tag 1: Delhi**\n\n**India Gate**, das **Rashtrapati Bhavan** und das **Parlamentsgebäude** von der Straße aus. **Qutub Minar**, **Humayuns Grab**, das Gartengrab aus den 1560er Jahren, von dem der Taj abstammt, und der **Lotustempel**.\n\n**Tage 2-3: Agra**\n\nDer **Taj Mahal** bei Sonnenaufgang, und das **Agra Fort**, mit dem **Musamman Burj**, wo Aurangzeb seinen Vater acht Jahre gefangen hielt, der Taj in Sichtweite. **Fatehpur Sikri** auf dem weiteren Weg.\n\n**Tag 4: Jaipur**\n\nDas **Amber Fort**, der **City Palace**, das **Jantar Mantar** und der **Hawa Mahal**, mit einem Abend in den Basaren.\n\n**Tage 5-6: Pushkar**\n\nZweiundfünfzig **Ghats** umgeben den See, und Pilger baden dort. Der **Brahma-Tempel**, aus dem 14. Jahrhundert auf einer viel älteren Stätte, ist der, für den die Menschen kommen.\n\nDer **Savitri-Tempel** liegt auf dem Hügel darüber, erreichbar über eine lange Treppe oder eine Seilbahn, und bietet von oben den Blick auf den gesamten See und die Stadt, am besten bei Sonnenaufgang.\n\nDie Stadt ist innerhalb ihrer Grenzen **streng vegetarisch und alkoholfrei**: kein Fleisch, keine Eier, kein Alkohol, durchgesetzt statt nur empfohlen.\n\nDie **Kamelmesse** fällt in den Monat Kartik, meist November, wenn etwa fünfzigtausend Tiere und eine Viertelmillion Menschen gleichzeitig eintreffen.\n\n**Eine Warnung, die man beherzigen sollte**: Männer an den Ghats bieten einen \"Pushkar-Pass\"-Segen an und verlangen dann eine hohe Spende. Ein höfliches, bestimmtes Nein reicht aus, und kein echter Priester wird Ihnen nachlaufen.\n\n**Drei Optionen**\n\nAuto, Fahrer und Führer; oder mit Drei- oder Vier-Sterne-Hotels.\n\n**Der Taj ist freitags geschlossen.**",
+  "highlights": [
+   "Erkunden Sie Indiens berühmten Golden-Triangle-Kreis, Delhi, Agra, Jaipur und Pushkar"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel oder Flughafen",
+   "Privates klimatisiertes Auto mit Fahrer für die gesamte Tour",
+   "Professioneller Reiseführer in jeder Stadt",
+   "5 Nächte Hotelunterkunft (falls Option gewählt)",
+   "Frühstück im Hotel (falls Option gewählt)",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parkkosten"
+  ],
+  "notIncluded": [
+   "Eintrittskarten zu den Denkmälern",
+   "Mittag- und Abendessen",
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "from-delhi-one-day-sightseeing-tour-varanas": {
+  "title": "Ab Delhi: Tagesausflug Varanasi",
+  "metaTitle": "Varanasi an einem Tag ab Delhi",
+  "metaDescription": "Varanasi an einem Tag ab Delhi per Flug, das Sonnenaufgangsboot, Kashi Vishwanath, Sarnath und die abendliche Aarti.",
+  "shortDescription": "Varanasi an einem Tag ab Delhi per Flug, das Sonnenaufgangsboot, Kashi Vishwanath, Sarnath und die abendliche Aarti.",
+  "fullDescription": "**Von Delhi zum Ganges und zurück vor Mitternacht**\n\nAbholung um 4 Uhr morgens, ein Flug um 5:30 Uhr, und man ist um Viertel vor acht am Fluss, die einzige Möglichkeit, Varanasis Sonnenaufgang zu erleben, ohne zwei Reisetage aufzugeben.\n\nEs sind lange vierzehn Stunden, die das Wesentliche abdecken.\n\n**7:45 Uhr: das Sonnenaufgangsboot**\n\nDer Mittelpunkt des Tages. Ein Ruderboot entlang der Ghats, während sich die gesamte Flussfront der aufgehenden Sonne zuwendet: Tausende Menschen baden, waschen Kleidung, beten, praktizieren Yoga auf den Stufen, Priester unter Palmblattschirmen, Büffel im flachen Wasser.\n\nVom Wasser aus lesen sich die Ghats wie eine durchgehende Steinfassade, genau so, wie sie zum Betrachten gedacht waren, die Paläste darüber wurden von Maharadschas aus ganz Indien errichtet, die ein Haus an diesem Fluss wollten.\n\nDie Verbrennungsfeuer von **Manikarnika** brennen seit Jahrhunderten ununterbrochen, denn Hindus glauben, dass der Tod in Varanasi den Kreislauf der Wiedergeburt beendet. **Dort keine Fotografie.** Das ist absolut, und Ihr Führer wird Ihnen genau sagen, wo die Grenze liegt.\n\n**Kashi Vishwanath**\n\nDer Shiva-Tempel im Herzen der Altstadt, eines der zwölf **Jyotirlinga** und eine der meistbesuchten religiösen Stätten Indiens. Die Sicherheitskontrolle ist streng: keine Telefone, keine Taschen, keine Elektronik. Lassen Sie alles im Auto.\n\nDie Gassen darum sind für jedes Fahrzeug zu eng und bilden den ältesten durchgehend bewohnten Teil der Stadt.\n\n**Sarnath**\n\nZehn Kilometer entfernt, wo Buddha seine erste Predigt hielt. Der **Dhamek-Stupa**, und im Museum das **Löwenkapitell des Ashoka**, das Original des Emblems auf jeder indischen Banknote und jedem Pass.\n\n**Die abendliche Aarti**\n\nAm Dashashwamedh Ghat: gestufte Messinglampen, Glocken, Muschelhörner und Weihrauch, von Priestern in perfekter Einheit vor Tausenden auf den Stufen und in Booten dargeboten.\n\nDann der Flughafen, und Delhi bei Nacht.\n\n**Inklusive**\n\nHin- und Rückflug, privater klimatisierter Wagen, lizenzierter Führer, und das Boot.\n\n**Praktisches**\n\nVierzehn Stunden mit Beginn um 4 Uhr morgens. Bescheidene Kleidung für die Tempel; Schuhe werden wiederholt ausgezogen.",
+  "highlights": [
+   "Früher Morgenflug ab Delhi"
+  ],
+  "included": [
+   "Hotelabholung und alle Transfers",
+   "Privater Transport",
+   "Professioneller, staatlich zugelassener Führer",
+   "Flugticket",
+   "Alle Parksteuern"
+  ],
+  "notIncluded": [
+   "Alle Eintritts- und Ticketgebühren",
+   "Frühstück und Mittagessen",
+   "Bootsfahrt",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "from-delhi-overnight-bodhgaya-tour-with-return-fli": {
+  "title": "Ab Delhi: Bodhgaya-Übernachtungstour mit Rückflug",
+  "metaTitle": "Bodhgaya über Nacht ab Delhi",
+  "metaDescription": "Eine Nacht von Delhi nach Bodhgaya mit Hin- und Rückflug, der Mahabodhi-Tempel und der Baum, unter dem Buddha saß.",
+  "shortDescription": "Eine Nacht von Delhi nach Bodhgaya mit Hin- und Rückflug, der Mahabodhi-Tempel und der Baum, unter dem Buddha saß.",
+  "fullDescription": "**Wo es geschah**\n\nBodhgaya ist der Ort, an dem sich Siddhartha Gautama unter einem Feigenbaum niederließ und als Buddha aufstand. Es ist die wichtigste Stätte der buddhistischen Welt, und sie liegt 1.000 km von Delhi entfernt, weshalb dies per Flug statt auf der Straße erfolgt.\n\n**Die Anreise**\n\nFlug von Delhi nach Gaya oder Varanasi, Empfang bei Ankunft, und Transfer auf der Straße. Eine Übernachtung, Rückkehr am nächsten Tag.\n\n**Der Mahabodhi-Tempel**\n\nUNESCO-gelistet, und die heutige Struktur stammt größtenteils aus dem 5. oder 6. Jahrhundert, errichtet auf einer Stätte, die Kaiser Ashoka im 3. Jahrhundert v. Chr. mit einem Schrein markierte. Der 55 Meter hohe pyramidenförmige Turm ist eines der ältesten noch stehenden Backsteingebäude Indiens.\n\nDer **Bodhi-Baum** dahinter ist ein direkter Nachkomme des Originals, gewachsen aus einem Ableger, der im 3. Jahrhundert v. Chr. nach Sri Lanka gebracht und zurückgebracht wurde, nachdem der ursprüngliche Baum gestorben war, was bedeutet, dass die Abstammung dokumentiert ist statt legendär.\n\nDarunter liegt die **Vajrasana**, die polierte Sandsteinplatte, die Ashoka platzierte, um den genauen Ort der Erleuchtung zu markieren.\n\nMönche aus jeder buddhistischen Tradition umkreisen den Tempel schon vor Sonnenaufgang. Eine Stunde auf dem Rasen zu sitzen und das zu beobachten, ist es, was die meisten Menschen in Erinnerung behalten.\n\n**Die internationalen Klöster**\n\nJedes buddhistische Land hat hier einen Tempel errichtet, und sie sind erstaunlich unterschiedlich: das **thailändische** Kloster mit seinem geschwungenen goldenen Dach, das **japanische** Indosan Nipponji, das **bhutanische** mit seinen bemalten Wandmalereien, der **tibetische** Karma-Tempel mit seinen Gebetsmühlen, und die 25 Meter hohe **Große Buddha-Statue**, 1989 fertiggestellt.\n\nZwischen ihnen an einem Nachmittag zu wandern ist eine Tour durch die buddhistische Architektur Asiens.\n\n**Was man wissen sollte**\n\nSchuhe aus innerhalb des Mahabodhi-Komplexes, und der innere Bereich hat eigene Regeln. Fotografieren ist in Teilen davon eingeschränkt. Der Dalai Lama lehrt hier meist im Dezember oder Januar, was die Stadt vollständig füllt.\n\n**Zwei Optionen**\n\nMit einem Drei- oder Vier-Sterne-Hotel, Flügen, Transfers und Führung inklusive.\n\n**Praktisches**\n\nWinter, Oktober bis März, ist die Saison. Bihar im Mai ist streng.",
+  "highlights": [
+   "Bodhi-Baum: Verbringen Sie Zeit mit Meditation oder einfachem Nachdenken unter dem Bodhi-Baum"
+  ],
+  "included": [
+   "1 Nacht Hotelunterkunft (falls Option gewählt)",
+   "Köstliches Frühstück im Hotel (falls Option gewählt)",
+   "Transport im privaten klimatisierten Auto (falls Option gewählt)",
+   "Abholung und Rückbringung zum Hotel oder Flughafen",
+   "Privater professioneller Führer (falls Option gewählt)",
+   "Flugticket Bangalore-Bodhgaya/Varanasi-Bangalore (Hin- und Rückflug) (falls Option gewählt)",
+   "Mineralwasserflaschen an Bord",
+   "Alle anwendbaren Steuern"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben",
+   "Trinkgelder",
+   "Kosten für das Silvester- und Weihnachtsgala-Dinner",
+   "Eintrittsgebühren zu den Denkmälern"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
