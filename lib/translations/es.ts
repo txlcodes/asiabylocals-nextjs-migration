@@ -12521,6 +12521,101 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier cosa no mencionada en las inclusiones"
   ]
  },
+ "from-delhi-varanasi-guided-tour-ganga-aarti-boat-r": {
+  "title": "Desde Delhi: visita guiada de Varanasi, Ganga Aarti y paseo en barca",
+  "metaTitle": "Varanasi: Ganga Aarti y barca",
+  "metaDescription": "Varanasi desde Delhi para la Ganga Aarti y una barca por el río, con un guía local.",
+  "shortDescription": "Varanasi desde Delhi para la Ganga Aarti y una barca por el río, con un guía local.",
+  "fullDescription": "**Las dos horas por las que Varanasi es famosa**\n\nEsto está construido en torno a la tarde: la **Ganga Aarti** en los ghats y una barca por el río. Si solo va a tener una tarde en Varanasi, es esta la que hay que vivir, y esto la combina con el traslado desde Delhi.\n\n**La barca**\n\nUna barca a remo por los ghats. Desde el agua, todo el frente fluvial se lee como una sola fachada de piedra continua, tal como fue construida para ser vista, los palacios por encima de las escalinatas fueron levantados por maharajás de toda la India que querían una casa en este río.\n\nAl atardecer, las lámparas salen al agua en barquitas de hojas, cientos de ellas, y los ghats se llenan.\n\n**Manikarnika**, el principal lugar de cremación, está en este tramo. Sus fuegos arden sin interrupción desde hace siglos, porque los hindúes creen que morir en Varanasi pone fin al ciclo de reencarnación, y llegan cuerpos aquí desde toda la India.\n\n**Fotografiar allí está prohibido.** Es absoluto, su guía le dirá exactamente dónde está el límite, y debe respetarlo sin discusión, son funerales.\n\n**Ganga Aarti en Dashashwamedh**\n\nRealizada cada tarde en el ghat principal: siete sacerdotes sobre plataformas elevadas, lámparas de latón escalonadas, caracolas, campanas, incienso y tambores, moviéndose al unísono exacto durante unos cuarenta y cinco minutos.\n\nMiles observan desde las escalinatas y desde barcas. Es ruidoso, solemne, y completamente absorbente, y se ha hecho de alguna forma durante mucho tiempo.\n\nUna barca es el mejor asiento si puede conseguir una, observa a los sacerdotes con la ciudad detrás en lugar de la espalda de una multitud.\n\n**Su guía**\n\nLocal, lo cual importa aquí más que en ningún otro lugar: los callejones detrás de los ghats no están señalizados, no están cartografiados y son demasiado estrechos para un vehículo, y encontrar el camino de vuelta solo de noche es realmente difícil.\n\n**Práctico**\n\nUnas cuatro horas sobre el terreno en Varanasi.\n\nLos zapatos se quitan en los templos. Vestimenta modesta. Lleve muy pocas pertenencias, la multitud del ghat en el aarti es densa.",
+  "highlights": [
+   "Sienta la suave brisa nocturna y escuche el sonido del agua fluyendo"
+  ],
+  "included": [
+   "Traslado de Delhi a Varanasi",
+   "Guía local de astronomía",
+   "Telescopio y puntero láser",
+   "Té de hierbas y aperitivos locales"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "from-mumbai-3-days-taj-mahal-golden-triangle-tour": {
+  "title": "Desde Mumbai: circuito de 3 días al Taj Mahal y el Triángulo de Oro",
+  "metaTitle": "Taj Mahal y Triángulo de Oro desde Mumbai",
+  "metaDescription": "Tres días desde Mumbai a Agra y Jaipur con vuelos de ida y vuelta, hoteles y un guía autorizado por el gobierno.",
+  "shortDescription": "Tres días desde Mumbai a Agra y Jaipur con vuelos de ida y vuelta, hoteles y un guía autorizado por el gobierno.",
+  "fullDescription": "**El Triángulo de Oro desde Mumbai, en un fin de semana largo**\n\nMumbai a Delhi son 1.150 km, razón por la que esto se realiza por aire. Vuelos en ambos sentidos, transporte terrestre en el norte, y un guía autorizado por el gobierno, tres días, y está de vuelta en el trabajo el lunes.\n\n**Día 1: vuelo, luego Agra**\n\nVuelo matutino a Delhi, luego la **autopista Yamuna** hasta Agra en un coche privado con aire acondicionado, unas tres horas y media.\n\nEl **fuerte de Agra** por la tarde: la ciudad de arenisca roja de Akbar de 1565, dos kilómetros y medio de muralla, con los palacios de mármol de Shah Jahan en su interior. El **Diwan-i-Am**, el **Khas Mahal**, el **Sheesh Mahal**, y el **Musamman Burj**, la torre octogonal donde Aurangzeb encarceló a su propio padre durante los últimos ocho años de su vida, con el Taj visible a lo largo del río.\n\nNoche en Agra.\n\n**Día 2: Taj al amanecer, luego Jaipur**\n\nEl **Taj Mahal** al abrir las puertas, media hora antes del sol. Gris, luego rosado, luego blanco; niebla sobre el Yamuna en invierno; y una fracción de la multitud de media mañana.\n\nShah Jahan lo inició en 1632 tras la muerte de Mumtaz Mahal al dar a luz a su decimocuarto hijo. Veintidós años, veinte mil trabajadores, mármol transportado 400 km desde Makrana.\n\nSu guía explica la **caligrafía**, tallada en tamaños crecientes para leerse de forma uniforme desde el suelo, las flores de **pietra dura** con decenas de piedras incrustadas, los **minaretes**, inclinados hacia afuera para que un terremoto los hiciera caer lejos de la tumba, y la única asimetría de todo el edificio.\n\nLuego **Fatehpur Sikri** en el camino, y Jaipur por la tarde.\n\n**Día 3: Jaipur, luego a casa**\n\nEl **fuerte de Amber** temprano, luego el **City Palace**, el **Jantar Mantar** y el **Hawa Mahal**, antes del vuelo de regreso desde Jaipur o Delhi.\n\n**Tres opciones**\n\nVuelos, guía y transporte; o con hoteles de cuatro o cinco estrellas, almuerzo y entradas.\n\n**El Taj está cerrado los viernes**, lo que fija las fechas de salida.",
+  "highlights": [
+   "Explore Qutub Minar, India Gate, un sitio Patrimonio de la Humanidad"
+  ],
+  "included": [
+   "Billete de avión de ida y vuelta (Mumbai-Delhi)-(Mumbai-Jaipur)",
+   "2 noches de hotel de 4/5 estrellas con desayuno en Agra y Jaipur (si se elige la opción)",
+   "1 almuerzo (si se elige la opción)",
+   "Tarifas de entrada a los monumentos (si se elige la opción)",
+   "Todos los traslados de aeropuerto, hotel y visitas en transporte de lujo con aire acondicionado",
+   "Guía profesional autorizado por el gobierno",
+   "Todos los peajes, aparcamiento e impuestos incluidos",
+   "Agua mineral durante el viaje"
+  ],
+  "notIncluded": [
+   "Cena",
+   "Gastos personales",
+   "Cargos de cámara o video en los monumentos"
+  ]
+ },
+ "from-spice-box-to-jewelry-box-old-delhi-market": {
+  "title": "De la caja de especias a la caja de joyas: aventura en el mercado del viejo Delhi",
+  "metaTitle": "Viejo Delhi: mercados de especias y joyas",
+  "metaDescription": "Cuatro horas y media por los mercados de especias y joyas del viejo Delhi con una guía local.",
+  "shortDescription": "Cuatro horas y media por los mercados de especias y joyas del viejo Delhi con una guía local.",
+  "fullDescription": "**De Khari Baoli a Dariba Kalan, con alguien que compra aquí**\n\nDos de los mercados especializados más antiguos de Asia se encuentran a cuatrocientos metros uno del otro en el viejo Delhi, y este paseo recorre ambos con una guía local, lo que cambia considerablemente la experiencia de esos callejones.\n\n**Khari Baoli**\n\nEl mayor mercado de especias de Asia, comerciando desde la década de 1600 en una calle apenas lo bastante ancha para una carretilla.\n\nSacos de cúrcuma, cilantro, cardamomo, chile seco, pimienta negra y asafétida apilados hasta tres metros de altura, con las tarifas al por mayor escritas con tiza en tableros. Cada tienda del norte de la India compra aquí, lo que significa que los precios que ve son los reales.\n\nLas secciones de chile seco le harán toser. Todos tosen; los comerciantes lo encuentran divertido.\n\nLas antiguas **havelis** sobre las tiendas merecen una mirada hacia arriba, casas de comerciantes de la década de 1800, la mayoría todavía propiedad de las familias que comercian debajo, y algunas a las que se puede subir para una vista desde la azotea sobre todo el mercado.\n\n**Dariba Kalan**\n\nLa calle de la plata, cuyo nombre significa la calle de la perla incomparable. La plata se vende aquí desde hace trescientos años, por peso, en balanzas ante usted.\n\nPida el sello de contraste. Una tienda respetable indicará una tarifa por gramo más los costes de elaboración y le mostrará la balanza, así es como sabe que está en una tienda auténtica.\n\n**Kinari Bazaar**, justo al lado, para adornos de boda, zari, gota, borlas y lentejuelas en cantidades que hay que ver durante la temporada de bodas de invierno.\n\n**Para qué sirve su guía**\n\nDistinguir el azafrán verdadero del cártamo, la sustitución más común en ese mercado. Saber qué tiendas de especias muelen fresco y cuáles venden la mercancía del año pasado. Manejar la negociación en Dariba, o enseñársela.\n\nY sacarle de allí, estos callejones no están cartografiados y Google es inútil en ellos.\n\n**Dos opciones**\n\nEncuentro en el punto de inicio, o con recogida y traslado al hotel.\n\n**Práctico**\n\nCuatro horas y media, a pie, por callejones irregulares y a menudo mojados. Zapatos planos y cerrados.\n\nLo que compre es suyo; nada está incluido.",
+  "highlights": [
+   "Guiado por una inspiradora guía local que da vida a la historia y la cultura"
+  ],
+  "included": [
+   "Visita a pie guiada por el viejo Delhi dirigida por una guía local",
+   "Visitas a Khari Baoli (mercado de especias), Kinari Bazaar, Dariba Kalan y Paranthe Wali Gali",
+   "Perspectivas culturales, narración y ayuda en las compras locales",
+   "Chai (té) y degustación ligera de comida callejera",
+   "Agua embotellada durante la visita",
+   "Entrada a la Jama Masjid (si se elige la opción)",
+   "Ayuda con la negociación y para orientarse en las tiendas locales",
+   "Recogida y traslado (si se elige como opción)"
+  ],
+  "notIncluded": [
+   "Recogida y traslado al hotel (salvo que se elija la opción)",
+   "Compras personales realizadas durante la visita",
+   "Comida o bebidas adicionales no especificadas en las inclusiones",
+   "Propinas (opcionales)",
+   "Entradas a los monumentos (si se visitan de forma independiente antes/después de la visita)"
+  ]
+ },
+ "golden-triangle-amritsar-tour-delhi-agra-jaipur-7d": {
+  "title": "Circuito del Triángulo de Oro y Amritsar: Delhi, Agra, Jaipur, 7D/6N",
+  "metaTitle": "Triángulo de Oro y Amritsar, 7 días",
+  "metaDescription": "Siete días desde Delhi vía Agra y Jaipur hasta Amritsar, incluido el Templo Dorado y la ceremonia de la frontera de Wagah.",
+  "shortDescription": "Siete días desde Delhi vía Agra y Jaipur hasta Amritsar, incluido el Templo Dorado y la ceremonia de la frontera de Wagah.",
+  "fullDescription": "**La India mogol, luego la India sij**\n\nEl triángulo son fuertes y tumbas. Amritsar es una fe viva y una herida moderna, lo que hace muy distintos los últimos dos días.\n\n**Días 1-2: Delhi**\n\nEl viejo Delhi, el **Fuerte Rojo**, la **Jama Masjid**, y un rickshaw por **Chandni Chowk**. El nuevo Delhi, **India Gate**, el **Rashtrapati Bhavan**, **Qutub Minar** y el **templo del Loto**. Tardes libres en Connaught Place o Dilli Haat.\n\n**Día 3: Agra**\n\nEl **fuerte de Agra** a la llegada, luego el **Taj Mahal** al atardecer, que ofrece mejor luz para fotografía y menos multitud.\n\n**Día 4: Jaipur vía Fatehpur Sikri**\n\nUn amanecer opcional en el Taj antes de partir, luego **Fatehpur Sikri**, la capital completa de Akbar de 1571, abandonada tras catorce años.\n\n**Día 5: Jaipur**\n\nEl **fuerte de Amber**, el **City Palace**, el **Jantar Mantar**, el **Hawa Mahal**, y los bazares.\n\n**Días 6-7: Amritsar**\n\nEl **Templo Dorado**, Harmandir Sahib, es el centro de la fe sij: un santuario dorado en una calzada en medio de un estanque, abierto por sus cuatro lados para significar que cualquiera puede entrar desde cualquier dirección. Está abierto día y noche, y es más extraordinario antes del amanecer, cuando se lleva el Guru Granth Sahib.\n\nSu langar alimenta a entre cincuenta mil y cien mil personas al día, gratis, todos los días, y los voluntarios hacen todo el trabajo. Usted puede unirse a ellos.\n\n**Jallianwala Bagh** está justo al lado, el jardín amurallado donde las tropas británicas dispararon sobre una multitud atrapada y desarmada en 1919, matando a cientos. Las marcas de bala todavía están en el muro y el pozo al que la gente saltó todavía está ahí. Se tarda veinte minutos y es el lugar más conmovedor del Punyab.\n\nLa **frontera de Wagah**, a 28 km, celebra una ceremonia de arriar la bandera cada tarde: guardias indios y pakistaníes dándose patadas altas entre sí en un teatro competitivo, con gradas llenas en ambos lados. Es absurdo y completamente absorbente.\n\n**Qué conviene saber**\n\nEn el Templo Dorado: cabeza cubierta, zapatos fuera, pies lavados en la entrada, no fumar, no alcohol. En la puerta se ofrecen pañuelos gratis. Todos se sientan en el mismo suelo en el langar.",
+  "highlights": [
+   "Explore el Fuerte Rojo, India Gate, Qutub Minar, la tumba de Humayun, el templo del Loto"
+  ],
+  "included": [
+   "Recogida y traslado al hotel o aeropuerto",
+   "Coche privado con aire acondicionado y conductor para toda la actividad",
+   "Guía turístico profesional en cada ciudad",
+   "6 noches de alojamiento en hotel (si se elige la opción)",
+   "Desayuno en el hotel (si se elige la opción)",
+   "Botella de agua mineral",
+   "Todos los peajes y tasas de aparcamiento"
+  ],
+  "notIncluded": [
+   "Entradas a los monumentos",
+   "Almuerzo y cena",
+   "Cualquier gasto personal"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
