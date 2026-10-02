@@ -11654,6 +11654,99 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "delhi-tarot-card-reading-experience": {
+  "title": "Delhi : expérience de lecture de tarot",
+  "metaTitle": "Delhi : lecture de tarot privée",
+  "metaDescription": "Une séance privée de tarot d'une heure à Delhi, avec des questions illimitées dans un cadre calme et détendu.",
+  "shortDescription": "Une séance privée de tarot d'une heure à Delhi, avec des questions illimitées dans un cadre calme et détendu.",
+  "fullDescription": "**Une heure, et autant de questions que vous en avez**\n\nC'est une séance privée avec un lecteur praticien, pas un stand de passage. Une heure est longue pour une lecture de tarot, ce qui signifie qu'il y a le temps de suivre un fil plutôt que d'obtenir un résumé et d'être renvoyé.\n\n**Comment ça se déroule**\n\nVous arrivez, vous vous asseyez, et vous dites ce qui vous préoccupe, ou rien du tout, si vous préférez voir ce que les cartes soulèvent d'abord. Certaines personnes viennent avec une question précise sur une relation, un emploi ou un déménagement. D'autres viennent par curiosité et n'ont jamais essayé.\n\nLes deux fonctionnent. Le lecteur adaptera la séance à votre situation.\n\nLes cartes sont tirées en tirages choisis pour votre question, et chacune est expliquée au moment où elle se retourne, ce que l'image signifie traditionnellement, comment elle s'accorde avec les cartes qui l'entourent, et ce qu'elle pourrait indiquer dans votre situation. Vous pouvez interrompre, demander des clarifications, et poser des questions de suivi pendant toute l'heure.\n\n**Ce que c'est, et ce que ce n'est pas**\n\nLe tarot est une pratique réflexive. Un bon lecteur utilise les cartes comme structure pour réfléchir à une situation que vous connaissez déjà mieux que lui, et les bonnes séances sont celles où vous partez ayant formulé quelque chose que vous n'aviez pas mis en mots.\n\nCe n'est pas un avis médical, juridique ou financier, et personne ici ne vous dira quand vous allez mourir ou combien d'argent vous gagnerez. Si c'est ce que vous cherchez, ce n'est pas ici.\n\n**Le cadre**\n\nCalme, privé, détendu, et entièrement confidentiel. Rien de ce qui se dit dans la pièce n'en sort.\n\n**Pratique**\n\nUne heure, une personne, amenez un partenaire ou un ami uniquement si vous voulez qu'il soit présent, et précisez-le à la réservation, car la séance est conçue pour une personne.\n\nLes lectures se font en anglais ou en hindi.\n\nVous voudrez peut-être noter ce qui en ressort. Les gens en retiennent moins qu'ils ne le pensent après coup.",
+  "highlights": [
+   "Obtenez de la clarté sur vos relations, votre carrière et votre chemin de vie avec une lecture de tarot"
+  ],
+  "included": [
+   "Séance de lecture de tarot d'1 heure",
+   "Lecteur de tarot professionnel",
+   "Questions illimitées pendant la séance",
+   "Conseils personnalisés"
+  ],
+  "notIncluded": [
+   "Transport vers le lieu",
+   "Nourriture et boissons",
+   "Tout temps supplémentaire entraîne des frais additionnels",
+   "Si des remèdes ou suggestions spirituelles sont proposés, ils sont facultatifs et facturés séparément",
+   "Choisir ou non ces remèdes ou services prolongés vous appartient entièrement",
+   "Les pourboires ne sont pas inclus dans le prix, mais sont toujours appréciés pour une expérience positive"
+  ]
+ },
+ "delhi-triangle-guided-tour": {
+  "title": "Delhi : Triangle d'or de 6 jours, Delhi, Agra et Jaipur",
+  "metaTitle": "Triangle d'or 6 jours sans hâte",
+  "metaDescription": "Six jours entre Delhi, Agra et Jaipur avec transport privé et guides, la version sans hâte du Triangle d'or.",
+  "shortDescription": "Six jours entre Delhi, Agra et Jaipur avec transport privé et guides, la version sans hâte du Triangle d'or.",
+  "fullDescription": "**Six jours, c'est le triangle sans horloge**\n\nLes trois mêmes villes que tout le monde visite, avec assez de temps pour que rien ne soit précipité. Deux jours complets à Delhi plutôt qu'une matinée. Une deuxième visite du Taj si vous le souhaitez. Une soirée dans les bazars de Jaipur plutôt qu'une photo d'eux depuis une voiture en mouvement.\n\n**Delhi**\n\n**India Gate** et le trajet devant le **Rashtrapati Bhavan**, 340 pièces sous un dôme que Lutyens a emprunté à un stupa bouddhiste.\n\n**Qutub Minar**, commencé en 1193, le plus haut minaret en brique du monde, dans un complexe construit avec la pierre de vingt-sept temples démantelés, avec le pilier de fer debout depuis plus de 1 600 ans sans avoir rouillé.\n\nLa **Jama Masjid** et un cyclo-pousse dans **Chandni Chowk**, tracé dans les années 1650 par la fille de Shah Jahan avec un canal au centre qui captait le clair de lune.\n\nLe **tombeau de Humayun**, le tombeau-jardin des années 1560 qui a établi le modèle que le Taj a suivi.\n\n**Agra**\n\nLe **Taj Mahal**, avec six jours il y a de la place pour le voir au lever du soleil puis à nouveau en fin d'après-midi, des bâtiments vraiment différents.\n\nLe **fort d'Agra**, avec le **Musamman Burj** où Aurangzeb a emprisonné son père huit ans, le Taj visible le long du fleuve. Et le **Baby Taj** sur l'autre rive de la Yamuna, le tombeau de marbre des années 1620 qui a introduit la pietra dura en Inde.\n\n**Fatehpur Sikri** sur la route vers Jaipur.\n\n**Jaipur**\n\nLe **fort d'Amber** au-dessus du lac Maota, le **City Palace**, le **Jantar Mantar**, le **Hawa Mahal**, et du temps pour **Nahargarh** au coucher du soleil, la meilleure vue sur la ville qui existe, et pour les marchés où Jaipur travaille réellement : taille des pierres précieuses, bracelets en laque, impression à la planche.\n\n**Trois options**\n\nVoiture privée, chauffeur et guides ; ou la même chose avec hôtels trois ou quatre étoiles inclus.\n\n**Pratique**\n\n**Le Taj est fermé le vendredi.** Les droits d'entrée sont payés séparément sauf indication contraire, environ 2 600 ₹ par personne pour un adulte étranger à travers les trois villes.",
+  "highlights": [
+   "Visitez India Gate, Qutub Minar, et passez devant le Rashtrapati Bhavan"
+  ],
+  "included": [
+   "Prise en charge et retour",
+   "Voiture privée climatisée pour toute l'activité",
+   "Guide touristique professionnel dans chaque ville",
+   "5 nuits d'hébergement avec petit-déjeuner (si l'option est choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "delhi-triangle-private-tour": {
+  "title": "Depuis Delhi : Triangle d'or privé de 4 jours avec hôtel",
+  "metaTitle": "Triangle d'or privé 4 jours avec hôtel",
+  "metaDescription": "Quatre jours privés depuis Delhi via Agra et Jaipur, avec hôtels, véhicule privé et visites guidées tout au long.",
+  "shortDescription": "Quatre jours privés depuis Delhi via Agra et Jaipur, avec hôtels, véhicule privé et visites guidées tout au long.",
+  "fullDescription": "**Quatre jours : arrivée, puis une ville par jour**\n\nLa formule qui fonctionne le mieux pour la plupart des gens. Vous atterrissez, vous obtenez une demi-journée à Delhi, puis chaque jour suivant appartient à une ville plutôt qu'à une autoroute.\n\n**Jour 1 : Delhi**\n\nVéhicule privé depuis l'aéroport ou votre hôtel, installation, puis la capitale l'après-midi.\n\n**India Gate**, le **Rashtrapati Bhavan** et le **Parlement** le long du Rajpath, la cité impériale que Lutyens a tracée dans les années 1920, toujours siège du gouvernement.\n\nLe **temple du Lotus**, maison d'adoration bahá'íe de 1986 avec ses vingt-sept pétales de marbre, et **Akshardham** si le temps le permet, qu'il vaut mieux connaître à l'avance : pas de téléphones, pas d'appareils photo, pas de sacs, sécurité de niveau aéroport, et fermé le lundi.\n\nSoirée à **Connaught Place**.\n\n**Jour 2 : Delhi à Agra**\n\nLa Yamuna Expressway, environ trois heures et demie. Le **Taj Mahal** et le **fort d'Agra** avec un guide agréé.\n\nAu Taj, ce qui mérite d'être signalé : la **calligraphie** taillée en tailles croissantes pour se lire à la même hauteur depuis le sol ; les fleurs de **pietra dura** composées de dizaines de pierres incrustées ; les **minarets** inclinés vers l'extérieur pour qu'un tremblement de terre les fasse tomber loin du tombeau ; et le cénotaphe de Shah Jahan lui-même, le seul élément du bâtiment placé hors centre.\n\n**Jour 3 : Agra à Jaipur**\n\n**Fatehpur Sikri** en chemin, la capitale d'Akbar de 1571, abandonnée quand son eau a manqué et préservée intacte. Le **Buland Darwaza**, le **Panch Mahal**, le dargah de marbre de Salim Chishti.\n\nArrivée à Jaipur l'après-midi, soirée libre.\n\n**Jour 4 : Jaipur, puis Delhi**\n\nLe **fort d'Amber** tôt, puis le **City Palace**, le **Jantar Mantar** et le **Hawa Mahal**, avant le retour.\n\n**Inclus**\n\nVéhicule privé climatisé et chauffeur pour les quatre jours, hôtels, et guides agréés pour les visites.\n\n**Le Taj est fermé le vendredi.**",
+  "highlights": [
+   "Visite guidée privée couvrant Delhi, Agra et Jaipur"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour toute l'activité",
+   "3 nuits d'hébergement avec petit-déjeuner (si l'option est choisie)",
+   "Guide en direct agréé par le gouvernement dans chaque ville",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Déjeuner et dîner",
+   "Billets d'entrée aux monuments",
+   "Toute dépense personnelle"
+  ]
+ },
+ "delhi-varanasi-overnight-spiritual-escape-by-priva": {
+  "title": "Delhi : escapade spirituelle d'une nuit à Varanasi en voiture privée",
+  "metaTitle": "Varanasi en une nuit, escapade spirituelle",
+  "metaDescription": "Une nuit depuis Delhi vers Varanasi en voiture privée, les ghats à l'aube, la Ganga Aarti, et un hôtel au bord du fleuve.",
+  "shortDescription": "Une nuit depuis Delhi vers Varanasi en voiture privée, les ghats à l'aube, la Ganga Aarti, et un hôtel au bord du fleuve.",
+  "fullDescription": "**Varanasi vaut le trajet**\n\nLa route depuis Delhi est longue, environ 800 km, une journée complète en voiture privée climatisée avec des arrêts. La plupart des gens prennent l'avion ou le train, et ceci s'adresse aux voyageurs qui préfèrent garder leur propre véhicule et s'arrêter où ils le souhaitent sur la Grand Trunk Road.\n\nIl y a une pause dans un vrai dhaba de route au passage : aloo paratha au beurre, et un verre de lassi assez épais pour y tenir une cuillère debout.\n\n**Le soir de votre arrivée**\n\nInstallation sur les rives du fleuve, les propriétés patrimoniales sur les ghats vous placent à l'intérieur de la vieille ville plutôt qu'à un trajet de taxi.\n\nPuis un **bateau de nuit** sur le Gange, la bonne introduction. La ville est illuminée, les plateformes d'aarti se préparent, et toute la façade du fleuve se lit comme une seule paroi de pierre continue depuis l'eau, telle qu'elle a été conçue pour être vue.\n\nLa **Ganga Aarti** au ghat de Dashashwamedh ensuite : des prêtres en parfaite unisson avec des lampes de laiton à étages, des cloches, des conques et de l'encens, devant une foule de milliers de personnes sur les marches et dans des bateaux.\n\n**L'aube**\n\nLa raison d'être ici. Un bateau à la première lumière, remontant le long des ghats tandis que toute la façade du fleuve se tourne vers le soleil levant, des milliers de personnes se baignant, se lavant, priant, faisant leur lessive, pratiquant le yoga sur les marches, tout en même temps.\n\n**Manikarnika** et **Harishchandra** sont les ghats de crémation, et leurs feux ne se sont pas éteints depuis des siècles. Les hindous considèrent que mourir à Varanasi met fin au cycle des réincarnations, c'est pourquoi des corps arrivent ici de toute l'Inde.\n\n**La photographie aux ghats de crémation est interdite.** Ce n'est pas une règle souple, et votre guide vous dira où se situe la limite. Respectez-la absolument.\n\n**La vieille ville**\n\nDes ruelles trop étroites pour les voitures, le temple de **Kashi Vishwanath**, des ateliers de tisserands de soie, et du kachori-sabzi debout au petit-déjeuner.\n\n**Pratique**\n\nVoiture privée et chauffeur tout au long, avec la nuit à l'hôtel au bord du fleuve incluse. Deux jours sont courts pour Varanasi ; cela suffit pour une aube et une aarti, ce qui en est l'essentiel.",
+  "highlights": [
+   "Plongez dans l'énergie spirituelle de Varanasi lors d'un voyage d'une nuit"
+  ],
+  "included": [
+   "Prise en charge et retour : service pratique porte à porte",
+   "Hébergement : séjour en hôtel trois étoiles",
+   "Petit-déjeuner servi à l'hôtel",
+   "Transport : voiture privée climatisée pour toute la visite",
+   "Accompagnement expert par un guide touristique professionnel",
+   "Rafraîchissements : bouteille d'eau minérale offerte",
+   "Taxes et frais : tous les péages et frais de stationnement couverts"
+  ],
+  "notIncluded": [
+   "Déjeuner",
+   "Dîner",
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
