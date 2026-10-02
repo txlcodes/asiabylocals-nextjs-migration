@@ -12231,6 +12231,95 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "from-delhi-agra-jaipur-in-3-days-with-car": {
+  "title": "Depuis Delhi : Agra et Jaipur en 3 jours avec voiture, guide et hôtels",
+  "metaTitle": "Agra et Jaipur en 3 jours depuis Delhi",
+  "metaDescription": "Trois jours depuis Delhi vers Agra et Jaipur avec voiture privée, guides et choix entre hôtels trois, quatre ou cinq étoiles.",
+  "shortDescription": "Trois jours depuis Delhi vers Agra et Jaipur avec voiture privée, guides et choix entre hôtels trois, quatre ou cinq étoiles.",
+  "fullDescription": "**Trois jours, trois villes, aucun après-midi perdu**\n\nC'est le Triangle d'or compact : une nuit à Agra, une à Jaipur, et les trajets organisés pour que chaque journée se termine là où la suivante commence.\n\n**Jour un : Delhi et la route vers Agra**\n\nVisite de Delhi le matin, **Qutub Minar**, le **tombeau de Humayun**, **India Gate**, puis la Yamuna Expressway vers le sud, environ trois heures et demie.\n\nSi la lumière le permet encore, **Mehtab Bagh** sur l'autre rive pour la vue en reflet du Taj avant le coucher du soleil.\n\n**Jour deux : Agra à Jaipur**\n\nLe **Taj Mahal** au lever du soleil, quand les portes ouvrent une demi-heure avant le soleil et que la foule n'est qu'un cinquième de ce qu'elle devient. Votre guide vous montrera la **calligraphie** taillée en plus grand à mesure qu'elle s'élève pour se lire uniformément depuis le sol, les fleurs de **pietra dura** composées de dizaines de pierres incrustées, les **minarets** inclinés vers l'extérieur pour tomber loin du tombeau en cas de tremblement de terre, et l'unique asymétrie volontaire du bâtiment.\n\nPuis le **fort d'Agra**, le grès rouge d'Akbar de 1565 avec les palais de marbre de Shah Jahan à l'intérieur, et le **Musamman Burj** où il est mort prisonnier de son propre fils.\n\n**Fatehpur Sikri** sur le trajet vers Jaipur : le **Buland Darwaza**, le **Panch Mahal**, et le dargah de marbre de Salim Chishti où l'on noue encore des fils aux grilles.\n\n**Jour trois : Jaipur**\n\nLe **fort d'Amber** tôt, avant les autocars. Puis le **Jal Mahal** depuis la digue, le **City Palace**, le **Jantar Mantar** et le **Hawa Mahal**, et retour à Delhi en soirée.\n\n**Quatre options**\n\nVoiture privée, chauffeur et guides avec votre propre hébergement ; ou la même chose avec hôtels trois, quatre ou cinq étoiles inclus.\n\n**Pratique**\n\n**Le Taj est fermé le vendredi**, ce qui détermine l'ordre des trois jours.\n\nLes droits d'entrée sont séparés sauf indication contraire, prévoyez environ 2 600 ₹ par personne à travers les trois villes si vous êtes un ressortissant étranger.",
+  "highlights": [
+   "Évitez les files d'attente et voyez le Taj Mahal au lever du soleil"
+  ],
+  "included": [
+   "Visite privée pour une expérience personnalisée",
+   "2 nuits en hôtel (si l'option est choisie)",
+   "Petit-déjeuner quotidien (si inclus dans votre option)",
+   "Voiture privée climatisée avec chauffeur",
+   "Guides locaux pour les visites",
+   "Navette au Taj Mahal depuis le parking",
+   "Toutes les taxes, péages et frais de stationnement",
+   "Prise en charge et retour à l'hôtel, à l'aéroport ou à la gare",
+   "Eau minérale en bouteille",
+   "Assistance complète pendant le voyage"
+  ],
+  "notIncluded": [
+   "Droits d'entrée aux monuments (environ 60 $ par personne)",
+   "Déjeuner et dîner",
+   "Pourboires pour le chauffeur et les guides (facultatifs)"
+  ]
+ },
+ "from-delhi-ajmer-and-pushkar-2-day-tour-with": {
+  "title": "Depuis Delhi : Ajmer et Pushkar en 2 jours avec voiture et guide",
+  "metaTitle": "Ajmer et Pushkar en 2 jours depuis Delhi",
+  "metaDescription": "Deux jours depuis Delhi vers Ajmer et Pushkar, le dargah soufi et le temple de Brahma, avec voiture et guide.",
+  "shortDescription": "Deux jours depuis Delhi vers Ajmer et Pushkar, le dargah soufi et le temple de Brahma, avec voiture et guide.",
+  "fullDescription": "**Deux villes, à douze kilomètres l'une de l'autre, et deux foies entièrement différentes**\n\nAjmer et Pushkar se trouvent de part et d'autre d'une crête au Rajasthan, et les inclure dans un même voyage est tout l'intérêt : l'une est parmi les sanctuaires soufis les plus importants du monde, l'autre est le principal temple de Brahma existant.\n\n**Le dargah d'Ajmer Sharif**\n\nLe tombeau de **Khwaja Moinuddin Chishti**, le saint soufi qui a apporté l'ordre Chishti en Inde au XIIe siècle. C'est l'un des sanctuaires les plus visités d'Asie du Sud, attirant musulmans, hindous et sikhs à la fois, Akbar est venu ici à pied depuis Agra après un vœu, et les empereurs moghols l'ont doté pendant deux siècles.\n\nLes cours sont denses et bruyantes, avec du **qawwali** chanté près du tombeau, des pétales de rose vendus au panier, et deux chaudrons énormes dans lesquels la nourriture pour des milliers de personnes est cuisinée et distribuée.\n\nTêtes couvertes, hommes et femmes, chaussures retirées bien avant la porte, et gardez votre sac devant vous. C'est intense et extraordinaire.\n\n**Pushkar**\n\nDe l'autre côté de la crête, et d'un tempérament complètement différent. Une petite ville autour d'un lac que les hindous considèrent formé là où **Brahma a laissé tomber un lotus**, et l'un des très rares temples de Brahma existant, car il n'est presque jamais adoré directement.\n\n**Cinquante-deux ghats** entourent l'eau, chacun construit par un souverain différent. Le **temple de Savitri** sur la colline au-dessus offre une vue sur tout le lac, par escalier ou téléphérique.\n\nLa ville est **strictement végétarienne et sans alcool** dans ses limites. Appliqué.\n\nUn avertissement qui vaut la peine : des hommes sur les ghats proposeront une bénédiction « passeport de Pushkar » puis exigeront une grosse donation. Un non ferme et poli suffit.\n\n**Pratique**\n\nAjmer se trouve à environ 390 km de Delhi, donc c'est un véritable voyage de deux jours avec une nuit.\n\nVoiture privée climatisée, chauffeur et guide tout au long.\n\nLa **foire aux chameaux** en Kartik, généralement en novembre, remplit entièrement Pushkar.",
+  "highlights": [
+   "Explorez la ville animée d'Ajmer et ses sites emblématiques avec un guide"
+  ],
+  "included": [
+   "Voiture privée climatisée",
+   "Chauffeur professionnel",
+   "Guide compétent",
+   "Bouteilles d'eau minérale"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Droits d'entrée à tous les sites",
+   "Pourboires"
+  ]
+ },
+ "from-delhi-all-inclusive-multi-days-golden-triangl": {
+  "title": "Depuis Delhi : circuit du Triangle d'or tout inclus sur plusieurs jours",
+  "metaTitle": "Triangle d'or tout inclus, 3 ou 4 jours",
+  "metaDescription": "Le Triangle d'or depuis Delhi en trois ou quatre jours, avec voiture, guide et billets d'entrée inclus sur les options longues.",
+  "shortDescription": "Le Triangle d'or depuis Delhi en trois ou quatre jours, avec voiture, guide et billets d'entrée inclus sur les options longues.",
+  "fullDescription": "**Trois jours ou quatre, et la différence entre eux**\n\nLes deux versions couvrent Delhi, Agra et Jaipur. Le quatrième jour est ce qui transforme un sprint en voyage, généralement il offre une seconde journée complète à Jaipur, la ville qui le récompense le plus, ou un Agra plus lent avec le Baby Taj et Mehtab Bagh ajoutés.\n\nSi vos dates le permettent, prenez quatre jours.\n\n**Delhi**\n\nLe **fort Rouge**, la capitale fortifiée de Shah Jahan de 1638, le bazar Chatta Chowk, le Diwan-i-Am, et le Diwan-i-Khas dont l'inscription affirme toujours que s'il existe un paradis sur terre, c'est ici. **Fermé le lundi.**\n\n**Qutub Minar**, 73 mètres de brique du XIIe siècle avec le pilier de fer debout depuis 1 600 ans sans avoir rouillé.\n\n**India Gate** et le trajet sur le Rajpath devant le Parlement.\n\n**Agra**\n\nLe **Taj Mahal**, commencé en 1632 par Shah Jahan après la mort de Mumtaz Mahal. Votre guide explique la **calligraphie** taillée en plus grand à mesure qu'elle s'élève pour se lire uniformément depuis le sol, la **pietra dura** de dizaines de pierres par fleur, les **minarets** inclinés vers l'extérieur pour tomber loin du tombeau, et l'unique asymétrie volontaire.\n\nLe **fort d'Agra**, avec le **Musamman Burj** où Aurangzeb a emprisonné son père huit ans, le Taj visible le long du fleuve.\n\n**Fatehpur Sikri** sur la route vers Jaipur, la capitale d'Akbar de 1571, abandonnée après quatorze ans et restée intacte.\n\n**Jaipur**\n\nLe **fort d'Amber** au-dessus du lac Maota, le **Jal Mahal** depuis la digue, le **City Palace**, le **Jantar Mantar** et le **Hawa Mahal**.\n\n**Trois options**\n\nTrois jours sans hébergement ; trois jours avec voiture, guide et billets ; ou quatre jours avec voiture, guide et billets.\n\nLes versions avec billets inclus valent le calcul, environ 2 600 ₹ par personne à travers les trois villes pour un adulte étranger.\n\n**Le Taj est fermé le vendredi.**",
+  "highlights": [
+   "Explorez Delhi, Agra et Jaipur avec le Taj Mahal, le fort d'Amber et le City Palace"
+  ],
+  "included": [
+   "Chauffeur professionnel et guide touristique",
+   "Voiture privée pour la prise en charge et le retour",
+   "Billet coupe-file pour les monuments (facultatif)",
+   "Rafraîchissements (thé/en-cas, si facultatif)"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "from-delhi-all-inclusive-rajasthan-heritage-tour-b": {
+  "title": "Depuis Delhi : circuit patrimonial tout inclus du Rajasthan en voiture",
+  "metaTitle": "Rajasthan tout inclus en 4 jours",
+  "metaDescription": "Quatre jours depuis Delhi via Jaipur, Jodhpur et Udaipur en voiture privée, avec une option tout inclus.",
+  "shortDescription": "Quatre jours depuis Delhi via Jaipur, Jodhpur et Udaipur en voiture privée, avec une option tout inclus.",
+  "fullDescription": "**Les trois grandes villes du Rajasthan en quatre jours**\n\nCeci évite entièrement Agra et file directement vers le Rajasthan, Jaipur, Jodhpur et Udaipur, les trois villes les plus différentes les unes des autres. Quatre jours sont serrés pour cela ; les distances en sont la raison.\n\n**Jaipur**\n\nLe **fort d'Amber** sur sa crête au-dessus du lac Maota, commencé en 1592, avec la porte **Ganesh Pol** et le **Sheesh Mahal** où des fragments de miroir au plafond transformaient une seule bougie en un ciel d'étoiles.\n\nPuis le **City Palace**, encore en partie résidence de la famille royale ; le **Jantar Mantar**, dix-neuf instruments astronomiques en maçonnerie avec un cadran solaire toujours précis à environ deux secondes ; et le **Hawa Mahal**, l'écran aux 953 fenêtres de 1799.\n\nSoirées dans les bazars, Johari pour les pierres précieuses, Tripolia pour les bracelets en laque fabriqués à la flamme sous vos yeux.\n\n**Jodhpur**\n\nEnviron 330 km à l'ouest. **Mehrangarh** s'élève de 120 mètres directement depuis la roche, n'a jamais été pris, et abrite le musée le mieux géré du Rajasthan. Les impacts de boulets de canon sur la deuxième porte proviennent d'un siège de Jaipur.\n\nEn dessous, **Jaswant Thada** en marbre assez fin pour laisser passer la lumière du soleil, et les ruelles bleues autour de la tour de l'horloge, la couleur était un lavage à la chaux et au cuivre qui repoussait les termites.\n\n**Udaipur**\n\n250 km de plus au sud, et le paysage s'élève vers les Aravalli au fil de la route.\n\nLe **City Palace** s'étend sur presque un kilomètre le long du lac Pichola, bâti par fragments par vingt-deux souverains sur quatre siècles. Le **temple de Jagdish** de 1651, en haut de trente-deux marches passant devant des éléphants de pierre. **Saheliyon ki Bari**, le jardin de fontaines construit pour les quarante-huit suivantes d'une reine.\n\nEt un bateau au coucher du soleil, ce que les gens racontent en rentrant chez eux.\n\n**Deux options**\n\nVoiture et guide, ou la version tout inclus avec hôtels et repas.\n\n**Pratique**\n\nEnviron 1 100 km de route sur quatre jours. C'est beaucoup de route pour le temps disponible ; si vous pouvez prendre six jours à la place, faites-le.\n\nD'octobre à mars est la saison.",
+  "highlights": [
+   "Explorez le fort d'Amber de Jaipur, le City Palace et les bazars locaux"
+  ],
+  "included": [
+   "Véhicule privé climatisé avec chauffeur",
+   "Prise en charge et retour à l'hôtel",
+   "Déjeuner (facultatif)",
+   "Billets d'entrée aux monuments (si l'option est choisie)",
+   "Guide anglophone professionnel",
+   "Balade en bateau à Udaipur"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
