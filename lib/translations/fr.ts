@@ -17493,6 +17493,103 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "jaipur-half-day-flower-market-amber-fort-enjoy-boa": {
+  "title": "Jaipur demi-journée : Marché aux fleurs, Fort d'Amber et promenade en bateau",
+  "metaTitle": "Jaipur : marché aux fleurs, Amber et bateau",
+  "metaDescription": "Une demi-journée à Jaipur, le marché aux fleurs à l'aube, le Fort d'Amber et un bateau sur le lac Maota, avec options déjeuner et billets.",
+  "shortDescription": "Une demi-journée à Jaipur, le marché aux fleurs à l'aube, le Fort d'Amber et un bateau sur le lac Maota, avec options déjeuner et billets.",
+  "fullDescription": "**Le marché aux fleurs est la raison de réserver celui-ci**\n\nLe **Phool Mandi** de Jaipur fonctionne avant le premier jour et se termine à huit heures, c'est pourquoi presque aucun visiteur ne le voit. Soucis par sacs entiers, roses, jasmin et tubéreuse, enfilés en guirlandes pour les offrandes du temple du jour et pesés pour les vendeurs qui seront à leurs étals dès sept heures.\n\nC'est bruyant, humide sous les pieds, entièrement fonctionnel, et les vingt meilleures minutes de la ville pour un appareil photo.\n\n**Fort d'Amber**\n\nPuis en montant vers le complexe sur la colline au-dessus du lac Maota, commencé en 1592 par Raja Man Singh, et suffisamment tôt pour que les cours soient encore vides.\n\nLa porte peinte **Ganesh Pol**, avec une galerie grillagée au-dessus d'où les femmes de la cour observaient les arrivées sans être vues. Le **Sheesh Mahal**, orné de milliers de fragments de miroirs convexes pour qu'une seule bougie ressemble à un plafond d'étoiles. Le **Sukh Niwas**, rafraîchi par l'eau circulant dans des canaux taillés dans le marbre.\n\n**Le bateau sur le lac Maota**\n\nC'est l'élément que personne d'autre n'inclut. Tout le monde photographie le lac depuis les remparts ; presque personne n'y descend.\n\nDepuis l'eau, vous obtenez la seule vue d'Amber que les foules d'en haut n'ont pas, tout le complexe de la colline s'élevant hors de son reflet, avec le jardin **Kesar Kyari** disposé au milieu du lac selon son motif de parterre de safran.\n\nLe Maota était l'approvisionnement en eau du fort, la raison pour laquelle le complexe a été construit sur cette colline particulière.\n\n**Cinq options**\n\nGuide du Fort d'Amber seul ; voiture avec promenade en bateau et sans guide ; voiture avec guide et bateau ; la même chose avec déjeuner ; ou tout compris avec billets des monuments.\n\n**Pratique**\n\nCinq heures, avec une prise en charge avant l'aube, toute la visite en dépend.\n\nLe bateau dépend du niveau de l'eau, qui baisse en fin de saison sèche.\n\nLes frais d'entrée sont payés à l'entrée là où ils ne sont pas inclus : le Fort d'Amber coûte ₹550 pour les ressortissants étrangers.",
+  "highlights": [
+   "Explorez le marché aux fleurs vibrant de Jaipur au petit matin"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Taxi climatisé avec chauffeur parlant anglais",
+   "Eau minérale en bouteille",
+   "Carburant, stationnement et toutes taxes applicables",
+   "Profitez d'une promenade en bateau au Fort d'Amber",
+   "Guide touristique (si option sélectionnée)",
+   "Billets des monuments (si option sélectionnée)"
+  ],
+  "notIncluded": [
+   "Repas et dépenses personnelles",
+   "Pourboires et gratifications",
+   "Toute activité supplémentaire non mentionnée dans les inclusions",
+   "Frais de caméra ou vidéo aux monuments"
+  ]
+ },
+ "jaipur-half-day-heritage-walking-tour-with-local-m": {
+  "title": "Jaipur : Visite patrimoniale à pied d'une demi-journée avec marché local",
+  "metaTitle": "Jaipur : visite à pied patrimoniale, marché local",
+  "metaDescription": "Une promenade patrimoniale de trois heures dans la vieille ville de Jaipur et les marchés locaux, avec départs matin et après-midi.",
+  "shortDescription": "Une promenade patrimoniale de trois heures dans la vieille ville de Jaipur et les marchés locaux, avec départs matin et après-midi.",
+  "fullDescription": "**Une marche, avec une heure de départ qui vous convient**\n\nCelle-ci fonctionne toutes les demi-heures à partir de sept heures du matin et encore dans l'après-midi et en début de soirée, ce qui est inhabituellement flexible, la plupart des marches n'ont qu'un seul départ et vous devez vous adapter.\n\nLe matin est plus frais et les marchés ouvrent. En fin d'après-midi, c'est plus chaud et les bazars sont à plein régime. Les deux fonctionnent ; choisissez selon votre propre horloge biologique.\n\n**La vieille ville**\n\nJai Singh II a tracé Jaipur en 1727 sur une grille de neuf carrés tirée de traités architecturaux hindous, la première ville planifiée d'Inde, avec des largeurs de rue fixées par règle et chaque métier affecté à son propre bloc. À pied, ce plan est visible ; depuis une voiture, il ne l'est pas.\n\n**Chhoti Chopad** et **Badi Chopad**, les grands carrefours. Les portes peintes. Les havelis derrière elles, la plupart encore habitées.\n\n**Hawa Mahal** depuis la rue d'en face, 953 fenêtres, cinq étages, et moins d'un mètre de profondeur sur la plus grande partie de sa hauteur. Un écran construit en 1799 pour que les femmes de la cour puissent observer les processions sans être vues.\n\n**City Palace** et **Jantar Mantar** depuis l'extérieur, avec votre guide expliquant ce qui se trouve à l'intérieur si vous voulez revenir avec un billet.\n\n**Les marchés**\n\nLa partie dont cette marche parle vraiment.\n\n**Johari Bazaar** pour la bijouterie, le kundan, où les pierres sont serties dans de la feuille d'or pur sans griffes, et l'émail meenakari cuit au dos de la même pièce. **Tripolia** et **Maniharon ka Rasta** pour les bracelets en laque, fabriqués sur une flamme devant vous. **Bapu Bazaar** pour les tissus imprimés au bloc et les chaussons mojari.\n\nEt les étals de nourriture : **pyaaz kachori**, **mirchi vada**, lassi dans un kulhad en argile.\n\n**Temples**\n\nLes petits sanctuaires à l'intérieur des quartiers résidentiels, qui ne voient aucun visiteur, et **Govind Dev Ji** dans les jardins du palais si les horaires correspondent à une aarti.\n\n**Pratique**\n\nTrois heures à pied sur de la pierre inégale et à travers la circulation. Chaussures plates, eau, et une écharpe pour les temples.\n\nL'entrée des monuments n'est pas incluse ; la marche couvre les extérieurs, les rues et les sites gratuits.",
+  "highlights": [
+   "Découvrez le riche patrimoine de Jaipur avec notre visite guidée à pied."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel en véhicule privé climatisé.",
+   "L'expertise d'un guide touristique local privé parlant anglais.",
+   "Rafraîchissements offerts comme eau en bouteille, thé, café, street food et jus.",
+   "Un avant-goût de la délicieuse boisson locale « lassi ».",
+   "La taxe sur les produits et services est incluse dans le forfait."
+  ],
+  "notIncluded": [
+   "Repas",
+   "Pourboires"
+  ]
+ },
+ "jaipur-home-cooking-experience-with-authentic-lunc": {
+  "title": "Jaipur : Expérience de cuisine à domicile avec déjeuner/dîner authentique",
+  "metaTitle": "Jaipur : cuisine à domicile, repas authentique",
+  "metaDescription": "Un cours de cuisine dans une maison familiale à Jaipur avec le repas que vous cuisinez, et options henné et transfert.",
+  "shortDescription": "Un cours de cuisine dans une maison familiale à Jaipur avec le repas que vous cuisinez, et options henné et transfert.",
+  "fullDescription": "**Leur vraie maison**\n\nCe n'est pas une cuisine de studio louée pour l'occasion. C'est la maison de la famille, là où elle vit, et vous y êtes accueilli, c'est la différence entre un cours de cuisine et une leçon de cuisine.\n\n**Ce que vous cuisinez**\n\nUn repas rajasthani ou nord-indien complet, selon le jour et la saison. Attendez-vous à un **dal**, un **sabzi** sec de saison, un **raita**, du riz, et des pains travaillés sur le tawa.\n\nLa technique qui vaut la peine qu'on vous montre, c'est le **tadka**, des épices entières jetées dans du ghee chaud et versées sur le dal fini à la fin. Cette étape représente la majeure partie de la saveur dans la cuisine indienne et presque personne hors de l'Inde ne le fait.\n\nEt la raison pour laquelle la cuisine rajasthanie est ainsi : l'eau était rare, donc les plats étaient cuisinés dans le ghee, le lait et le babeurre ; les légumes frais étaient rares, donc la farine de pois chiche et les haricots séchés du désert portaient le plat ; il n'y avait pas de réfrigération, donc une grande partie est séchée aux épices et se conserve plusieurs jours.\n\n**Puis vous le mangez**\n\nAssis avec la famille, c'est la fin du cours. Déjeuner ou dîner selon votre créneau.\n\n**L'option henné**\n\nUne version ajoute le **mehndi**. La pâte est de la feuille de henné broyée ; elle est appliquée verte, sèche, s'effrite, et tache orange avant de foncer vers un brun profond en vingt-quatre heures et de s'effacer sur deux semaines.\n\nUn point important : seul le **henné naturel brun** est utilisé ici. Si quelqu'un où que ce soit en Inde vous propose du « henné noir », refusez-le, il contient de la PPD et brûle la peau.\n\nLe henné nécessite quelques heures sans utiliser correctement vos mains, c'est donc fait après la cuisine plutôt qu'avant.\n\n**Quatre options**\n\nLe cours avec un repas ; avec un repas et prise en charge ; avec un repas et prise en charge et retour privés ; ou le cours avec le henné également.\n\n**Pratique**\n\nEntièrement végétarien. Jaïn, sans oignon ni ail, sans piment et sans gluten sont toutes des demandes courantes, précisez-le lors de la réservation.\n\nVous partez avec les recettes.",
+  "highlights": [
+   "Cuisinez, mangez et connectez-vous avec une famille locale à Jaipur. Profitez des plats végétariens et non végétariens"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel (si option sélectionnée)",
+   "Un hôte professionnel parlant anglais pour vous accompagner dans l'expérience",
+   "Cours de cuisine indienne et rajasthanie privé et pratique",
+   "Boisson de bienvenue (chai/thé ou boisson traditionnelle)",
+   "Culture locale et hospitalité de style familial",
+   "Tous les ingrédients frais, épices et équipement de cuisine",
+   "Guidage étape par étape pour la cuisine",
+   "Eau en bouteille pour les clients",
+   "Art du henné après le cours de cuisine (si option sélectionnée)",
+   "Toutes taxes gouvernementales"
+  ],
+  "notIncluded": [
+   "Pourboires et gratifications, non inclus dans le forfait et pouvant être recommandés.",
+   "Boissons alcoolisées"
+  ]
+ },
+ "jaipur-horse-riding-adventure": {
+  "title": "Aventure à cheval à Jaipur",
+  "metaTitle": "Jaipur : aventure à cheval",
+  "metaDescription": "Un safari à cheval à travers des villages et la campagne des Aravalli en dehors de Jaipur. Environ quatre heures.",
+  "shortDescription": "Un safari à cheval à travers des villages et la campagne des Aravalli en dehors de Jaipur. Environ quatre heures.",
+  "fullDescription": "**Les chevaux Marwari, et pourquoi ils ont cette apparence**\n\nLa race que vous monterez probablement est le **Marwari**, le cheval de cavalerie rajpoute, élevé dans cette région depuis des siècles, et instantanément reconnaissable à ses oreilles qui se recourbent vers l'intérieur jusqu'à ce que les pointes se touchent.\n\nIls ont été élevés pour la guerre dans le désert : robustes, capables de travailler avec très peu d'eau, et avec une allure naturelle appelée **revaal** qu'un cavalier peut supporter pendant des heures sans être secoué. Les récits rajpoutes décrivent leur refus de quitter un cavalier tombé.\n\nLa race a presque disparu après l'indépendance quand la cavalerie n'avait plus d'utilité et que les domaines ne pouvaient plus les nourrir. Elle survit grâce à une poignée d'éleveurs au Rajasthan qui ont continué.\n\n**La promenade**\n\nHors de la ville vers les contreforts des Aravalli, à travers des terres agricoles et de petits villages, champs de millet, arbres khejri, femmes portant de l'eau, enfants qui courront à côté de vous.\n\nC'est véritablement le Rajasthan rural à vingt minutes d'une ville classée UNESCO, et à cheval vous atteignez des parties où aucune route ne mène.\n\nIl y a généralement un arrêt pour le thé dans un village, et l'écologie des Aravalli vaut la peine d'être signalée, c'est l'une des plus anciennes chaînes de montagnes sur Terre, plus ancienne que l'Himalaya de loin.\n\n**Niveau d'expérience**\n\nDites honnêtement quel est le vôtre. Les débutants complets sont associés à un cheval calme et menés au pas ; les cavaliers expérimentés peuvent trotter et galoper en terrain ouvert.\n\nDes casques sont fournis et doivent être portés. Pantalons longs et chaussures fermées avec un petit talon, pas de sandales ni de shorts, car les étrivières et le poil de cheval sont désagréables sur les jambes nues.\n\n**Pratique**\n\nEnviron quatre heures incluant les transferts et le briefing.\n\nD'octobre à mars, c'est agréable. D'avril à juin, c'est trop chaud pour les chevaux autant que pour vous, et les promenades se déroulent à l'aube ces mois-là.\n\nSignalez les problèmes de dos, la grossesse ou une chirurgie récente avant de réserver.",
+  "highlights": [
+   "Apprenez et jouez au POLO avec des joueurs de polo experts dans notre club de polo"
+  ],
+  "included": [
+   "1. Une promenade de 1,5 à 2 heures à cheval Marwari à travers des sentiers inexplorés.",
+   "2. Un véhicule de secours avec bouteilles d'eau, rafraîchissements et une trousse médicale accompagne la promenade.",
+   "3. Rafraîchissements servis pendant la promenade aux arrêts panoramiques.",
+   "4. Fourniture de tout l'équipement d'équitation nécessaire et adapté.",
+   "5. Harnais et sellerie anglaise de haute qualité utilisés.",
+   "6. Un bon petit-déjeuner inclus.",
+   "7. Capitaine de visite accompagnant à cheval, bien au fait de l'itinéraire.",
+   "8. Briefing exhaustif avant la promenade.",
+   "9. Après la promenade, essayez le stick and ball, une leçon rapide de polo et une partie incluse pour une expérience unique."
+  ],
+  "notIncluded": [
+   "Assurance du cavalier",
+   "Prise en charge et retour à l'hôtel"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
