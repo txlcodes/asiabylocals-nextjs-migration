@@ -10010,6 +10010,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche persönliche Ausgabe"
   ]
  },
+ "3-day-delhi-agra-and-jaipur-tour-india-golden": {
+  "title": "Delhi, Agra und Jaipur in 3 Tagen, Indiens Goldenes Dreieck",
+  "metaTitle": "Goldenes Dreieck in 3 Tagen: Delhi, Agra, Jaipur",
+  "metaDescription": "Das Goldene Dreieck in drei Tagen ab Delhi mit Privatwagen und Guides. Hoteloptionen von drei bis fünf Sterne.",
+  "shortDescription": "Das Goldene Dreieck in drei Tagen ab Delhi mit Privatwagen und Guides. Hoteloptionen von drei bis fünf Sterne.",
+  "fullDescription": "**Drei Tage sind das Minimum, und es funktioniert**\n\nDelhi, Agra und Jaipur bilden ein grobes Dreieck von rund 700 km. Drei Tage geben jeder Stadt einen richtigen Tag und legen die Fahrten zwischen sie statt in sie hinein, was den Unterschied zwischen einer Reise und einem Verschwimmen ausmacht.\n\nWenn Sie eine Woche haben, nehmen Sie sich mehr Zeit. Wenn Sie drei Tage haben, ist das die richtige Form dafür.\n\n**Tag eins: Delhi**\n\nAlt-Delhi, die **Jama Masjid**, Indiens größte Moschee, und eine Fahrradrikscha durch **Chandni Chowk**, die einzig vernünftige Art, diese Straße zu befahren.\n\nNeu-Delhi, **India Gate** am Rajpath, **Humayuns Grabmal**, das mogulische Gartengrab aus den 1560er-Jahren, das sechzig Jahre später das Vorbild für den Taj setzte, und **Qutub Minar**, 73 Meter Ziegelbau aus dem 12. Jahrhundert mit der berühmten rostfreien Eisensäule in seinem Hof.\n\n**Tag zwei: Agra**\n\nFrüh über die Schnellstraße. Der **Taj Mahal** mit lizenziertem Guide, die Kalligrafie nach oben hin größer geschnitten, damit sie vom Boden aus gleich hoch erscheint, die Pietra-dura-Blüten aus Dutzenden eingelegter Steine, die Minarette nach außen geneigt, um neben das Grabmal zu fallen.\n\nDann das **Agra Fort**, und der **Musamman Burj**, wo Shah Jahan als Gefangener starb, mit Blick auf das Grabmal seiner eigenen Frau.\n\n**Tag drei: Jaipur über Fatehpur Sikri**\n\n**Fatehpur Sikri** auf dem Weg, Akbars Hauptstadt von 1571, nach vierzehn Jahren aufgegeben und deshalb intakt erhalten.\n\nDann Jaipur: **Amber Fort** auf seinem Grat, der **City Palace**, das **Jantar Mantar**, und die Fassade des **Hawa Mahal** mit 953 Fenstern.\n\n**Vier Optionen**\n\nPrivatwagen, Fahrer und Guides mit eigener Unterkunft, oder dasselbe mit Drei-, Vier- oder Fünf-Sterne-Hotels inbegriffen.\n\n**Praktisch**\n\n**Der Taj ist freitags geschlossen**, was die Reihenfolge der drei Tage bestimmt. Eintrittsgebühren sind separat, sofern Ihre Option sie nicht abdeckt, rechnen Sie mit rund 2,600 ₹ pro Person für die wichtigsten Stätten in den drei Städten.",
+  "highlights": [
+   "Die berühmten Sehenswürdigkeiten des Goldenen Dreiecks Indiens: Delhi, Agra, Jaipur."
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die gesamte Tour",
+   "Professioneller Reiseleiter in jeder Stadt",
+   "2 Nächte Hotelunterkunft",
+   "Frühstück im Hotel",
+   "Flasche Mineralwasser",
+   "Alle Mautkosten und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen",
+   "Eintrittskarten für die Monumente",
+   "Jegliche persönliche Ausgabe"
+  ]
+ },
+ "3-days-delhi-agra-and-jaipur-tour-india-golden": {
+  "title": "Delhi, Agra und Jaipur in 3 Tagen, Indiens Goldenes Dreieck",
+  "metaTitle": "Goldenes Dreieck in 3 Tagen, in der richtigen Reihenfolge",
+  "metaDescription": "Das Goldene Dreieck in drei Tagen ab Delhi mit Privatwagen, lizenzierten Guides und Hoteloptionen.",
+  "shortDescription": "Das Goldene Dreieck in drei Tagen ab Delhi mit Privatwagen, lizenzierten Guides und Hoteloptionen.",
+  "fullDescription": "**Drei Tage, in der richtigen Reihenfolge**\n\nDas ist die engste vernünftige Fassung des Goldenen Dreiecks. Eine Nacht in Agra, eine in Jaipur, und die beiden langen Fahrten fallen zwischen die Städte statt in einen Tag hinein, was den Unterschied zwischen einer Reise und einem Verschwimmen ausmacht.\n\n**Tag eins: Delhi, dann Agra**\n\nDie Hauptstadt am Morgen. **Qutub Minar**, 73 Meter Ziegelwerk aus dem 12. Jahrhundert mit der berühmt rostfreien Eisensäule in seinem Hof. **Humayuns Grabmal**, in den 1560er-Jahren von der Witwe des Kaisers gebaut, das erste große mogulische Gartengrab in Indien, und der direkte architektonische Vorfahre des Taj sechzig Jahre später. **India Gate** und die Fahrt den Rajpath hinunter.\n\nDann die Yamuna Expressway, rund dreieinhalb Stunden.\n\n**Tag zwei: Agra, dann Jaipur**\n\nDer **Taj Mahal** bei Sonnenaufgang, wenn die Tore eine halbe Stunde vor der Sonne öffnen und der Marmor von grau zu rosa zu weiß übergeht. Ihr Guide zeigt Ihnen die **Kalligrafie**, nach oben hin größer geschnitten, damit sie vom Boden aus gleich hoch erscheint, die **Pietra-dura**-Blüten aus Dutzenden eingelegter Steine, und die **Minarette**, nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg fallen ließe.\n\n**Agra Fort** danach, Akbars roter Sandstein von 1565, Shah Jahans Marmor darin, und der Turm, in dem er als Gefangener seines eigenen Sohnes starb.\n\n**Fatehpur Sikri** auf der Fahrt nach Westen: das **Buland Darwaza**, der **Panch Mahal**, und der marmorne Dargah des Salim Chishti.\n\n**Tag drei: Jaipur**\n\n**Amber Fort** vor Ankunft der Reisebusse, dann der **Jal Mahal** vom Damm aus, der **City Palace**, das **Jantar Mantar**, und der **Hawa Mahal**. Abends zurück nach Delhi.\n\n**Drei Optionen**\n\nNur Wagen, Fahrer und Guides, oder mit Drei- oder Vier-Sterne-Hotels.\n\n**Praktisch**\n\n**Der Taj ist freitags geschlossen.** Rund 700 km Fahrt über die drei Tage, alles auf guten Fernstraßen.",
+  "highlights": [
+   "Entdecken Sie Indiens berühmtes Goldenes Dreieck mit Delhi, Agra und Jaipur."
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die gesamte Tour",
+   "Professioneller Reiseleiter in jeder Stadt",
+   "2 Nächte Hotelunterkunft (bei gewählter Option)",
+   "Frühstück im Hotel",
+   "Flasche Mineralwasser",
+   "Alle Mautkosten und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen",
+   "Eintrittskarten für die Monumente",
+   "Jegliche persönliche Ausgabe"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
