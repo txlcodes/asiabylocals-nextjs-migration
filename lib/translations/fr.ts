@@ -18595,6 +18595,93 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "jaipur-sightseeing-tour-by-classic-vintage-car": {
+  "title": "Visite de Jaipur en voiture ancienne classique",
+  "metaTitle": "Jaipur : visite en voiture ancienne classique",
+  "metaDescription": "Une journée de visites à Jaipur dans une voiture ancienne restaurée avec chauffeur en uniforme. Huit heures, forts et vieille ville.",
+  "shortDescription": "Une journée de visites à Jaipur dans une voiture ancienne restaurée avec chauffeur en uniforme. Huit heures, forts et vieille ville.",
+  "fullDescription": "**Arriver au Fort d'Amber dans une décapotable des années 1950**\n\nLes maharajas du Rajasthan achetaient des voitures comme d'autres achètent des chaussures, Rolls-Royce, Bentley, Packard, Chevrolet, commandées à la douzaine et souvent avec carrosserie sur mesure. Un bon nombre d'entre elles sont encore dans l'État, restaurées et en état de marche, c'est pourquoi cette visite existe.\n\nVous en obtenez une pour une journée, avec un chauffeur en tenue traditionnelle, et vous couvrez les mêmes sites que tout le monde, sauf que le trajet entre eux devient l'essentiel.\n\n**Ce que vous verrez**\n\n**Fort d'Amber** sur sa crête au-dessus du lac Maota, la porte Ganesh Pol, la chambre des miroirs du Sheesh Mahal, les cours gravissant la colline.\n\n**Jal Mahal** depuis la chaussée, quatre de ses cinq étages sous le lac.\n\n**Hawa Mahal**, l'écran de 953 fenêtres sur Sireh Deori Bazaar, qui est le meilleur décor de la ville pour une voiture comme celle-ci.\n\n**City Palace** et **Jantar Mantar** dans la vieille ville, et les bazars entre eux, Johari pour les pierres précieuses, Tripolia pour les bracelets et le laiton.\n\n**Nahargarh** sur la crête en fin de journée, si vous voulez le coucher de soleil.\n\n**Ce que c'est réellement**\n\nLent, bruyant, chaud en milieu de journée, et attirant l'attention d'une manière qui demande un peu d'habitude, les gens photographient la voiture constamment, et dans les ruelles de la vieille ville, vous ferez partie du décor plutôt que de le regarder.\n\nLes voitures sont restaurées d'époque, ce qui signifie du caractère plutôt que de la climatisation. Si la climatisation compte plus pour vous que l'expérience, réservez une visite en voiture ordinaire ; celle-ci est honnête sur ce qu'elle est.\n\n**Pratique**\n\nEnviron huit heures avec prise en charge et retour à l'hôtel, chauffeur tout au long.\n\nL'hiver est idéal. En mai et juin, prenez un départ plus matinal et acceptez la chaleur comme faisant partie du lot.\n\nLes frais d'entrée sont payés à chaque site. Un guide n'est pas inclus par défaut, demandez si vous en voulez un en plus du chauffeur.",
+  "highlights": [
+   "Profitez du trajet dans une authentique voiture ancienne, parfaitement restaurée aux standards royaux."
+  ],
+  "included": [
+   "Voiture ancienne avec chauffeur.",
+   "Visite de la ville avec guide.",
+   "Eau en bouteille.",
+   "Prise en charge et retour depuis l'hôtel, l'aéroport.",
+   "Séance photo par un professionnel",
+   "Péages, stationnement, carburant, taxes"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "jaipur-small-group-tour-with-transfers-and-guide": {
+  "title": "Jaipur : Visite en petit groupe avec transferts et guide",
+  "metaTitle": "Jaipur : petit groupe, transferts et guide",
+  "metaDescription": "Une visite d'une journée de Jaipur en petit groupe avec transferts hôtel et un guide, Fort d'Amber et vieille ville en sept heures.",
+  "shortDescription": "Une visite d'une journée de Jaipur en petit groupe avec transferts hôtel et un guide, Fort d'Amber et vieille ville en sept heures.",
+  "fullDescription": "**Petit groupe, qui convient mieux à certains voyages qu'une voiture privée**\n\nUn véhicule partagé avec une poignée d'autres voyageurs plutôt qu'un privé. Cela coûte une fraction d'une journée privée et, si vous voyagez seul, la compagnie est généralement la raison pour laquelle les gens la réservent.\n\nCe que vous échangez, c'est la flexibilité : les horaires sont fixes et le groupe se déplace ensemble.\n\n**Fort d'Amber**\n\nLe premier arrêt et le plus grand. Commencé en 1592 par Raja Man Singh sur une crête des collines Aravalli au-dessus du lac Maota, un fort rajpoute construit par des artisans moghols, d'où les incrustations persanes à côté de sculptures hindoues.\n\nLa porte **Ganesh Pol**, plâtre peint sur pierre, avec une galerie grillagée au-dessus d'où les femmes de la cour observaient les arrivées sans être vues.\n\nLe **Sheesh Mahal**, où des milliers de fragments de miroirs convexes étaient incrustés au plafond pour qu'une seule bougie ressemble à un ciel plein d'étoiles. Et le **Sukh Niwas** de l'autre côté de la cour, rafraîchi par l'eau circulant dans des canaux taillés dans les murs de marbre.\n\n**Jal Mahal**\n\nUn arrêt photo depuis la chaussée. Quatre de ses cinq étages sont sous le lac Man Sagar et il n'y a pas d'entrée, ni bateau ni billet, quoi qu'on vous dise au bord de la route.\n\n**City Palace**\n\nArchitecture moghole et rajpoute à travers une séquence de cours, une partie encore résidence de l'ancienne famille royale. L'armurerie et les salles de textiles valent la peine de prendre son temps.\n\n**Jantar Mantar**\n\nDix-neuf instruments astronomiques en maçonnerie construits par Jai Singh II, un astronome qui a fondé la ville comme activité secondaire. Classé UNESCO, et le cadran solaire **Samrat Yantra** de 27 mètres donne encore l'heure locale à quelques secondes près.\n\n**Hawa Mahal**\n\nL'écran à cinq étages de 953 fenêtres, depuis la rue d'en face, l'angle pour lequel il a été conçu pour être vu.\n\n**Pratique**\n\nSept heures avec prise en charge et retour à l'hôtel.\n\nLes frais d'entrée sont payés à chaque site : environ ₹1 500 par personne pour un adulte étranger si vous entrez partout.",
+  "highlights": [
+   "Visite de groupe de Jaipur couvrant les principaux forts, palais et sites emblématiques"
+  ],
+  "included": [
+   "Visite de groupe",
+   "Transport en véhicule privé climatisé",
+   "Toutes les visites avec un guide local privé agréé par le gouvernement",
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Bouteilles d'eau minérale pendant le trajet",
+   "Toutes taxes, frais et frais de gestion"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons"
+  ]
+ },
+ "jaipur-stepwell-amber-fort-old-city-markets-tour-l": {
+  "title": "Jaipur : Visite du puits à degrés, Fort d'Amber et marchés de la vieille ville + déjeuner",
+  "metaTitle": "Jaipur : puits à degrés, Amber, marchés + déjeuner",
+  "metaDescription": "Une journée complète de Jaipur, le puits de Panna Meena, le Fort d'Amber et les marchés de la vieille ville, avec déjeuner et prise en charge à l'hôtel.",
+  "shortDescription": "Une journée complète de Jaipur, le puits de Panna Meena, le Fort d'Amber et les marchés de la vieille ville, avec déjeuner et prise en charge à l'hôtel.",
+  "fullDescription": "**Puits à degrés d'abord, fort ensuite, marchés en dernier**\n\nL'ordre compte. Panna Meena est vide à huit heures du matin et animé à onze heures ; Amber est l'inverse, agréable avant midi ; et les bazars ne s'animent vraiment que l'après-midi. Cette journée est organisée autour de cela plutôt qu'autour d'une carte.\n\n**Panna Meena ka Kund**\n\nUn puits à degrés du 16e siècle sous Amber, aux escaliers symétriques entrecroisés descendant huit étages jusqu'à un carré d'eau. Il a été taillé pour que le village puisse atteindre l'eau en toute saison, et la température au fond est de plusieurs degrés inférieure à la surface, ce qui était l'objectif autant que l'eau elle-même.\n\nIl se photographie comme une illusion d'optique et il est presque toujours tranquille, car les cars ne s'y arrêtent pas. Vous ne pouvez pas descendre jusqu'à l'eau, et vous ne devriez pas essayer.\n\n**Fort d'Amber**\n\nLe complexe sur la colline au-dessus du lac Maota, commencé en 1592 par Raja Man Singh. Des cours gravissant la crête, la porte peinte **Ganesh Pol**, le **Sheesh Mahal** où des milliers de fragments de miroirs convexes transformaient une bougie en un plafond d'étoiles, et le **Sukh Niwas**, rafraîchi par l'eau circulant dans des canaux taillés dans le marbre.\n\n**Déjeuner**\n\nInclus, ce qui sur une journée de huit heures compte plus que ça ne paraît.\n\n**Les marchés de la vieille ville**\n\nLa partie pour laquelle la plupart des visites manquent de temps.\n\nJai Singh II a tracé Jaipur en 1727 sur une grille de neuf carrés avec chaque métier affecté à son propre bloc, et les bazars le suivent encore : **Johari** pour les pierres précieuses et la bijouterie kundan, **Tripolia** et **Maniharon ka Rasta** pour les bracelets en laque fabriqués sur une flamme devant vous, **Bapu Bazaar** pour les tissus imprimés au bloc et les chaussons mojari.\n\nLe travail de votre guide ici est votre côté du prix, ce qui est fait à la main, ce qui est fait à la machine et vendu comme fait à la main, et ce que coûte réellement une chose.\n\n**Pratique**\n\nHuit heures avec prise en charge et retour à l'hôtel.\n\nLes frais d'entrée sont payés à chaque site, le Fort d'Amber coûte ₹550 pour les ressortissants étrangers ; le puits à degrés est gratuit ou à frais symbolique.",
+  "highlights": [
+   "Prise en charge à l'hôtel et retour à Jaipur."
+  ],
+  "included": [
+   "Visite des points forts d'une journée complète à Jaipur",
+   "Prise en charge depuis votre hôtel à Jaipur",
+   "Retour à votre hôtel à Jaipur",
+   "Arrêts et visites listés dans l'itinéraire",
+   "Visite guidée",
+   "Eau potable",
+   "Déjeuner inclus"
+  ],
+  "notIncluded": [
+   "Dépense personnelle",
+   "Pourboires (facultatif)"
+  ]
+ },
+ "jaipur-stepwell-amber-jaigarh-nahargarh-forts-by-j": {
+  "title": "Jaipur : Puits à degrés, forts d'Amber, Jaigarh, Nahargarh en jeep",
+  "metaTitle": "Jaipur : puits, Amber, Jaigarh, Nahargarh en jeep",
+  "metaDescription": "Un safari privé en jeep vers les forts d'Amber, Jaigarh et Nahargarh plus le puits de Panna Meena, avec option nocturne.",
+  "shortDescription": "Un safari privé en jeep vers les forts d'Amber, Jaigarh et Nahargarh plus le puits de Panna Meena, avec option nocturne.",
+  "fullDescription": "**Une jeep, car les forts sont sur des collines**\n\nAmber se trouve sur une crête, Jaigarh au-dessus, Nahargarh sur la colline suivante. Les routes entre eux sont escarpées et accidentées par endroits, et une jeep vous emmène aux trois en une journée avec les côtés ouverts.\n\n**Fort d'Amber**\n\nUn site du patrimoine mondial de l'UNESCO, commencé en 1592 par Raja Man Singh sur la colline au-dessus du lac Maota.\n\nLa porte **Ganesh Pol**, le **Sheesh Mahal** où des fragments de miroirs convexes incrustés au plafond transformaient une seule bougie en un ciel d'étoiles, le **Sukh Niwas** rafraîchi par l'eau, et la cour du zenana avec ses douze appartements de reines séparés.\n\n**Panna Meena ka Kund**\n\nJuste en dessous : un puits à degrés du 16e siècle aux escaliers symétriques entrecroisés descendant huit étages jusqu'à l'eau. Construit pour que le village puisse atteindre l'eau en toute saison, plusieurs degrés plus frais au fond qu'en haut, et presque toujours tranquille car les cars ne s'y arrêtent pas.\n\nVous ne pouvez pas descendre jusqu'à l'eau ; ne l'essayez pas.\n\n**Jaigarh**\n\nSur la crête au-dessus d'Amber, relié par un tunnel que la famille royale pouvait utiliser pour s'échapper. C'était l'arsenal plutôt qu'une résidence, c'est pourquoi le **Jaivana** se trouve toujours sur son bastion là-haut, le plus grand canon à roues jamais fondu, tiré exactement une fois, lors d'un essai.\n\nLes vues sur le complexe d'Amber depuis là-haut sont les meilleures qui existent.\n\n**Nahargarh**\n\nLe fort sur la crête nord-ouest, construit en 1734 pour surveiller l'approche de la nouvelle ville de Jai Singh. Toute la grille de la ville fortifiée s'étend en dessous, et au coucher du soleil le grès devient orange profond tandis que les lampadaires s'allument en dessous de vous.\n\n**Sept options**\n\nD'une visite guidée à pied d'Amber seul sans la jeep, jusqu'aux combinaisons des trois forts et du puits à degrés, jusqu'à une journée complète avec les principales attractions de la ville, et un **safari nocturne en jeep** pour la ville illuminée, qui est le bon choix en plein été.\n\n**Pratique**\n\nLes frais d'entrée sont payés à chaque fort. La crête est venteuse et se refroidit vite après la nuit tombée de novembre à février, apportez une couche.",
+  "highlights": [
+   "Trajet palpitant en jeep vers les forts d'Amber, Jaigarh et Nahargarh."
+  ],
+  "included": [
+   "Véhicule jeep/4x4 privé pour le safari/la visite",
+   "Prise en charge et retour depuis n'importe quel lieu à Jaipur (hôtel/aéroport/gare) (si option choisie)",
+   "Chauffeur professionnel parlant anglais",
+   "Carburant, péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Billets d'entrée/frais pour les monuments (Amber, Jaigarh, Nahargarh)",
+   "Services d'un guide touristique professionnel agréé (disponible pour un coût supplémentaire)",
+   "Nourriture et boissons (déjeuner/collations)",
+   "Pourboires/gratifications pour le chauffeur/guide"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",

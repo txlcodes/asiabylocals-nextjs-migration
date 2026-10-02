@@ -18595,6 +18595,93 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld"
   ]
  },
+ "jaipur-sightseeing-tour-by-classic-vintage-car": {
+  "title": "Jaipur-Besichtigungstour im klassischen Oldtimer",
+  "metaTitle": "Jaipur: Besichtigung im klassischen Oldtimer",
+  "metaDescription": "Ein Tag Jaipur-Besichtigung in einem restaurierten Oldtimer mit uniformiertem Chauffeur. Acht Stunden, Forts und Altstadt.",
+  "shortDescription": "Ein Tag Jaipur-Besichtigung in einem restaurierten Oldtimer mit uniformiertem Chauffeur. Acht Stunden, Forts und Altstadt.",
+  "fullDescription": "**Ankunft am Amber Fort in einem Cabrio der 1950er Jahre**\n\nDie Maharadschas von Rajasthan kauften Autos, wie andere Leute Schuhe kaufen, Rolls-Royce, Bentley, Packard, Chevrolet, dutzendweise bestellt und oft mit maßgefertigter Karosserie. Eine gute Anzahl davon ist noch im Bundesstaat, restauriert und fahrtüchtig, deshalb existiert diese Tour.\n\nSie erhalten eines davon für einen Tag, mit einem Chauffeur in traditioneller Kleidung, und Sie besuchen dieselben Sehenswürdigkeiten wie jeder andere, nur dass die Fahrt zwischen ihnen zum Wesentlichen wird.\n\n**Was Sie sehen werden**\n\n**Amber Fort** auf seinem Grat über dem Maota-See, das Ganesh-Pol-Tor, die Spiegelkammer des Sheesh Mahal, die Innenhöfe, die den Hügel hinaufsteigen.\n\n**Jal Mahal** vom Damm aus, vier seiner fünf Stockwerke unter dem See.\n\n**Hawa Mahal**, die Fassade mit 953 Fenstern am Sireh Deori Bazaar, die der beste Hintergrund der Stadt für ein solches Auto ist.\n\n**City Palace** und **Jantar Mantar** in der Altstadt, und die Bazare dazwischen, Johari für Edelsteine, Tripolia für Armreifen und Messing.\n\n**Nahargarh** auf dem Grat am Ende des Tages, falls Sie den Sonnenuntergang möchten.\n\n**Wie es tatsächlich ist**\n\nLangsam, laut, heiß in der Mitte des Tages, und aufmerksamkeitserregend auf eine Art, an die man sich gewöhnen muss, Leute fotografieren das Auto ständig, und in den Gassen der Altstadt sind Sie Teil der Szenerie statt sie zu beobachten.\n\nDie Autos sind epochengerecht restauriert, was Charakter statt Klimaanlage bedeutet. Wenn Ihnen Klimaanlage wichtiger ist als das Erlebnis, buchen Sie eine gewöhnliche Autotour; diese ist ehrlich darüber, was sie ist.\n\n**Praktisch**\n\nEtwa acht Stunden mit Hotelabholung und Rückfahrt, Fahrer durchgehend.\n\nWinter ist ideal. Im Mai und Juni nehmen Sie einen früheren Start und akzeptieren die Hitze als Teil davon.\n\nEintrittsgebühren werden an jedem Ort bezahlt. Ein Guide ist standardmäßig nicht inklusive, fragen Sie, wenn Sie einen zusätzlich zum Chauffeur möchten.",
+  "highlights": [
+   "Genießen Sie die Fahrt in einem authentischen Oldtimer, perfekt nach königlichen Standards restauriert."
+  ],
+  "included": [
+   "Oldtimer mit Chauffeur.",
+   "Stadtbesichtigungstour mit Guide.",
+   "Wasser in Flaschen.",
+   "Abholung & Rückfahrt von Hotel, Flughafen.",
+   "Fotoshooting durch einen Profi",
+   "Mautgebühren, Parken, Kraftstoff, Steuern"
+  ],
+  "notIncluded": [
+   "Trinkgeld"
+  ]
+ },
+ "jaipur-small-group-tour-with-transfers-and-guide": {
+  "title": "Jaipur: Kleingruppentour mit Transfers und Guide",
+  "metaTitle": "Jaipur: Kleingruppe, Transfers und Guide",
+  "metaDescription": "Eine Jaipur-Tagestour in Kleingruppe mit Hoteltransfers und einem Guide, Amber Fort und Altstadt in sieben Stunden.",
+  "shortDescription": "Eine Jaipur-Tagestour in Kleingruppe mit Hoteltransfers und einem Guide, Amber Fort und Altstadt in sieben Stunden.",
+  "fullDescription": "**Kleingruppe, was für manche Reisen besser passt als ein privates Auto**\n\nEin geteiltes Fahrzeug mit einer Handvoll anderer Reisender statt ein privates. Es kostet einen Bruchteil eines privaten Tages, und wenn Sie alleine reisen, ist die Gesellschaft meist der Grund, warum Leute das buchen.\n\nWas Sie eintauschen, ist Flexibilität: die Zeiten sind fest und die Gruppe bewegt sich zusammen.\n\n**Amber Fort**\n\nDer erste Stopp und der große. Begonnen 1592 von Raja Man Singh auf einem Grat in den Aravalli-Hügeln über dem Maota-See, ein Rajput-Fort, gebaut von mogulischen Handwerkern, daher liegt persische Einlegearbeit neben hinduistischer Schnitzerei.\n\nDas **Ganesh Pol**-Tor, bemalter Stuck über Stein, mit einer verschleierten Galerie darüber, von der die Frauen des Hofes Ankünfte unbeobachtet beobachteten.\n\nDer **Sheesh Mahal**, wo Tausende konvexer Spiegelfragmente in der Decke eingesetzt wurden, sodass eine einzige Kerze wie ein Himmel voller Sterne wirkte. Und der **Sukh Niwas** auf der anderen Seite des Innenhofs, gekühlt durch Wasser, das durch in Marmorwände geschnittene Kanäle fließt.\n\n**Jal Mahal**\n\nEin Fotostopp vom Damm aus. Vier seiner fünf Stockwerke liegen unter dem Man-Sagar-See, und es gibt keinen Zutritt, kein Boot und kein Ticket, was auch immer Ihnen am Straßenrand erzählt wird.\n\n**City Palace**\n\nMogulische und Rajput-Architektur über eine Abfolge von Innenhöfen, ein Teil davon noch immer die Residenz der ehemaligen königlichen Familie. Die Waffenkammer und die Textilräume lohnen es, langsamer zu machen.\n\n**Jantar Mantar**\n\nNeunzehn gemauerte astronomische Instrumente, erbaut von Jai Singh II, einem Astronomen, der die Stadt als Nebenbeschäftigung gründete. UNESCO-gelistet, und die 27 Meter hohe **Samrat-Yantra**-Sonnenuhr zeigt noch die Ortszeit auf wenige Sekunden genau an.\n\n**Hawa Mahal**\n\nDie fünfstöckige Fassade mit 953 Fenstern, von der gegenüberliegenden Straße aus, dem Winkel, aus dem sie gesehen werden sollte.\n\n**Praktisch**\n\nSieben Stunden mit Hotelabholung und Rückfahrt.\n\nEintrittsgebühren werden an jedem Ort bezahlt: etwa ₹1.500 pro Kopf für einen ausländischen Erwachsenen, wenn Sie überall hineingehen.",
+  "highlights": [
+   "Gruppentour durch Jaipur mit den wichtigsten Forts, Palästen und Sehenswürdigkeiten"
+  ],
+  "included": [
+   "Gruppentour",
+   "Transport im privaten, klimatisierten Fahrzeug",
+   "Alle Besichtigungen mit privatem, von der Regierung zugelassenem lokalem Guide",
+   "Abholung & Rückfahrt von Hotel oder Flughafen",
+   "Flaschen mit Mineralwasser während der Reise",
+   "Alle Steuern, Gebühren und Bearbeitungsgebühren"
+  ],
+  "notIncluded": [
+   "Essen und Getränke"
+  ]
+ },
+ "jaipur-stepwell-amber-fort-old-city-markets-tour-l": {
+  "title": "Jaipur: Stufenbrunnen, Amber Fort & Altstadtmärkte-Tour + Mittagessen",
+  "metaTitle": "Jaipur: Stufenbrunnen, Amber, Märkte + Mittagessen",
+  "metaDescription": "Ein ganzer Tag Jaipur, der Panna-Meena-Stufenbrunnen, Amber Fort und die Altstadtmärkte, mit Mittagessen und Hotelabholung.",
+  "shortDescription": "Ein ganzer Tag Jaipur, der Panna-Meena-Stufenbrunnen, Amber Fort und die Altstadtmärkte, mit Mittagessen und Hotelabholung.",
+  "fullDescription": "**Stufenbrunnen zuerst, Fort zweitens, Märkte zuletzt**\n\nDie Reihenfolge ist wichtig. Panna Meena ist um acht Uhr morgens leer und um elf voll; Amber ist nach Mittag das Gegenteil von angenehm; und die Bazare erwachen erst richtig am Nachmittag. Dieser Tag ist darum herum organisiert statt um eine Karte.\n\n**Panna Meena ka Kund**\n\nEin Stufenbrunnen aus dem 16. Jahrhundert unter Amber, mit sich kreuzenden symmetrischen Treppen, die acht Stockwerke zu einem Wasserquadrat hinabführen. Er wurde angelegt, damit das Dorf in jeder Jahreszeit Wasser erreichen konnte, und die Temperatur am Boden liegt mehrere Grad unter der Oberfläche, was ebenso der Punkt war wie das Wasser selbst.\n\nEr fotografiert sich wie eine optische Täuschung und ist fast immer ruhig, da die Reisebusse nicht halten. Sie können nicht zum Wasser hinabsteigen, und Sie sollten es nicht versuchen.\n\n**Amber Fort**\n\nDer Hügelkomplex über dem Maota-See, begonnen 1592 von Raja Man Singh. Innenhöfe, die den Grat hinaufsteigen, das bemalte **Ganesh Pol**-Tor, der **Sheesh Mahal**, wo Tausende konvexer Spiegelfragmente eine Kerze in eine Sternendecke verwandelten, und der **Sukh Niwas**, gekühlt durch Wasser, das durch Kanäle im Marmor fließt.\n\n**Mittagessen**\n\nInklusive, was bei einem achtstündigen Tag mehr zählt, als es sich anhört.\n\n**Die Altstadtmärkte**\n\nDer Teil, für den den meisten Touren die Zeit ausgeht.\n\nJai Singh II legte Jaipur 1727 auf einem Neun-Felder-Raster an, mit jedem Handwerk ein eigener Block zugewiesen, und die Bazare folgen dem noch: **Johari** für Edelsteine und Kundan-Schmuck, **Tripolia** und **Maniharon ka Rasta** für Lack-Armreifen, über einer Flamme vor Ihnen gefertigt, **Bapu Bazaar** für blockgedruckten Stoff und Mojari-Schuhe.\n\nDie Aufgabe Ihres Guides hier ist Ihre Seite des Preises, was handgemacht ist, was maschinell gefertigt und als handgemacht verkauft wird, und was etwas tatsächlich kostet.\n\n**Praktisch**\n\nAcht Stunden mit Hotelabholung und Rückfahrt.\n\nEintrittsgebühren werden an jedem Ort bezahlt, Amber Fort kostet ₹550 für ausländische Staatsangehörige; der Stufenbrunnen ist kostenlos oder gegen eine symbolische Gebühr.",
+  "highlights": [
+   "Hotelabholung und Rückfahrt in Jaipur."
+  ],
+  "included": [
+   "Ganztägige Jaipur-Highlight-Tour",
+   "Abholung von Ihrem Hotel in Jaipur",
+   "Rückfahrt zu Ihrem Hotel in Jaipur",
+   "Im Reiseplan aufgeführte Stopps und Besuche",
+   "Geführte Tour",
+   "Trinkwasser",
+   "Mittagessen inklusive"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgeld (optional)"
+  ]
+ },
+ "jaipur-stepwell-amber-jaigarh-nahargarh-forts-by-j": {
+  "title": "Jaipur: Stufenbrunnen, Amber-, Jaigarh-, Nahargarh-Forts per Jeep",
+  "metaTitle": "Jaipur: Brunnen, Amber, Jaigarh, Nahargarh per Jeep",
+  "metaDescription": "Eine private Jeep-Safari zu den Forts Amber, Jaigarh und Nahargarh plus dem Panna-Meena-Stufenbrunnen, mit Nachtoption.",
+  "shortDescription": "Eine private Jeep-Safari zu den Forts Amber, Jaigarh und Nahargarh plus dem Panna-Meena-Stufenbrunnen, mit Nachtoption.",
+  "fullDescription": "**Ein Jeep, weil die Forts auf Hügelkuppen liegen**\n\nAmber liegt auf einem Grat, Jaigarh darüber, Nahargarh auf dem nächsten Hügel. Die Straßen dazwischen sind stellenweise steil und uneben, und ein Jeep bringt Sie an einem Tag mit offenen Seiten zu allen drei.\n\n**Amber Fort**\n\nEin UNESCO-Weltkulturerbe, begonnen 1592 von Raja Man Singh am Hügel über dem Maota-See.\n\nDas **Ganesh Pol**-Tor, der **Sheesh Mahal**, wo konvexe Spiegelfragmente in der Decke eine einzige Kerze in einen Sternenhimmel verwandelten, der wassergekühlte **Sukh Niwas**, und der Zenana-Innenhof mit seinen zwölf separaten Königinnen-Wohnungen.\n\n**Panna Meena ka Kund**\n\nDirekt darunter: ein Stufenbrunnen aus dem 16. Jahrhundert mit sich kreuzenden symmetrischen Treppen, die acht Stockwerke zum Wasser hinabführen. Erbaut, damit das Dorf in jeder Jahreszeit Wasser erreichen konnte, am Boden mehrere Grad kühler als oben, und fast immer ruhig, da die Reisebusse nicht halten.\n\nSie können nicht zum Wasser hinabsteigen; versuchen Sie es nicht.\n\n**Jaigarh**\n\nAuf dem Grat über Amber, verbunden durch einen Tunnel, den die königliche Familie zur Flucht nutzen konnte. Es war das Arsenal statt eine Residenz, deshalb steht **Jaivana** noch immer auf seiner Bastion dort oben, die größte je gegossene Räderkanone, genau einmal abgefeuert, bei einem Test.\n\nDie Ausblicke über den Amber-Komplex von hier oben sind die besten, die es gibt.\n\n**Nahargarh**\n\nDas Nordwest-Grat-Fort, erbaut 1734, um den Zugang zu Jai Singhs neuer Stadt zu überwachen. Das ganze Raster der ummauerten Stadt liegt darunter, und bei Sonnenuntergang wird der Sandstein tief orange, während die Straßenlaternen unter Ihnen angehen.\n\n**Sieben Optionen**\n\nVon einer geführten Wanderung nur zu Amber ohne den Jeep, über Kombinationen der drei Forts und des Stufenbrunnens, bis zu einem ganzen Tag mit den wichtigsten Attraktionen der Stadt, und einer **nächtlichen Jeep-Safari** für die beleuchtete Stadt, die beste Wahl im Hochsommer.\n\n**Praktisch**\n\nEintrittsgebühren werden an jedem Fort bezahlt. Der Grat ist windig und kühlt nach Einbruch der Dunkelheit von November bis Februar schnell ab, bringen Sie eine zusätzliche Schicht mit.",
+  "highlights": [
+   "Spannende Jeep-Fahrt zu den Forts Amber, Jaigarh und Nahargarh."
+  ],
+  "included": [
+   "Privates Jeep-/4x4-Fahrzeug für die Safari/Tour",
+   "Abholung & Rückfahrt von jedem Ort in Jaipur (Hotel/Flughafen/Bahnhof) (falls Option gewählt)",
+   "Professioneller englischsprachiger Fahrer",
+   "Kraftstoff, Mautgebühren und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Eintrittskarten/Gebühren für Denkmäler (Amber, Jaigarh, Nahargarh)",
+   "Dienste eines professionellen, lizenzierten Reiseführers (gegen Aufpreis verfügbar)",
+   "Essen und Getränke (Mittagessen/Snacks)",
+   "Trinkgeld für Fahrer/Guide"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
