@@ -16096,6 +16096,99 @@ export const FR_TOURS: Record<string, TourT> = {
    "Assurance voyage"
   ]
  },
+ "explore-jodhpur-from-jaipur-with-transport-to-udai": {
+  "title": "Explorez Jodhpur depuis Jaipur avec transport vers Udaipur",
+  "metaTitle": "Jodhpur depuis Jaipur vers Udaipur",
+  "metaDescription": "Jodhpur en une journée depuis Jaipur, se terminant par un transfert vers Udaipur. Une journée de visite et un déplacement en un.",
+  "shortDescription": "Jodhpur en une journée depuis Jaipur, se terminant par un transfert vers Udaipur. Une journée de visite et un déplacement en un.",
+  "fullDescription": "**Une excursion d'une journée qui vous déplace aussi**\n\nLa formule utile pour quiconque voyage Jaipur → Jodhpur → Udaipur. Plutôt que de payer deux transferts et une visite, celle-ci intègre la visite de Jodhpur entre les deux : prise en charge à Jaipur à six heures, le fort et la ville bleue pendant la journée, et dépose à Udaipur ce soir-là.\n\n**Le trajet**\n\nJaipur à Jodhpur fait environ 330 km, cinq heures sur une bonne autoroute à travers la brousse et les champs de millet du Rajasthan central.\n\n**Mehrangarh**\n\nLa raison de venir. Il s'élève de 120 mètres directement depuis un affleurement rocheux au-dessus de la ville, avec des murs allant jusqu'à 36 mètres de haut, et il n'a **jamais été pris**, les impacts de boulets de canon sur la deuxième porte proviennent d'un siège de Jaipur qui a échoué.\n\nÀ l'intérieur, le musée est le mieux géré du Rajasthan : palanquins, howdahs, peinture miniature, textiles, et les berceaux royaux. Les cours du palais, **Moti Mahal**, **Phool Mahal**, **Sheesh Mahal**, sont superposées plutôt qu'étalées, car il n'y avait pas de place pour s'étaler.\n\nDepuis les remparts, la ville bleue s'étend directement en dessous, et la couleur prend tout son sens vue de là-haut, d'une manière qu'elle n'a pas au niveau de la rue : le lavage à la chaux et au cuivre était un répulsif anti-termites qui s'est avéré avoir un aspect extraordinaire.\n\n**Jaswant Thada**\n\nLe cénotaphe royal sous le fort, construit en 1899 avec des feuilles de marbre assez fines pour briller quand le soleil est derrière elles.\n\n**La vieille ville**\n\nLes ruelles autour de la **tour de l'horloge** et du **Sardar Market**, épices, textiles, et le meilleur **mirchi bada** et **makhaniya lassi** du Rajasthan.\n\n**Puis Udaipur**\n\nEncore 250 km au sud, quatre à cinq heures, arrivée en soirée.\n\n**Pratique**\n\nQuatorze heures porte à porte avec environ dix heures de route. C'est une longue journée, mais c'est tout de même moins de temps en voiture que de faire les deux trajets séparément.\n\nFaites vos bagages avant la prise en charge ; vos bagages voyagent avec vous.\n\nLes droits d'entrée sont payés à chaque site.",
+  "highlights": [
+   "Explorez Jodhpur avec un guide local"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Transport en véhicule climatisé",
+   "Guide local à Jodhpur",
+   "Frais de stationnement",
+   "Transport privé",
+   "Supplément carburant"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons à vos frais",
+   "Droits d'entrée"
+  ]
+ },
+ "from-agra-jaipur-day-tour-by-car-with-drop": {
+  "title": "Depuis Agra : visite de Jaipur en une journée en voiture avec dépose à Agra/Delhi",
+  "metaTitle": "Jaipur en un jour depuis Agra",
+  "metaDescription": "Jaipur en une journée depuis Agra avec voiture privée et guide, se terminant par une dépose à Agra ou Delhi.",
+  "shortDescription": "Jaipur en une journée depuis Agra avec voiture privée et guide, se terminant par une dépose à Agra ou Delhi.",
+  "fullDescription": "**Une excursion d'une journée qui fait aussi office de transfert**\n\nLa partie utile de cette visite est la dépose. La plupart des voyageurs faisant le Triangle d'or doivent payer séparément pour Agra à Jaipur puis Jaipur à Delhi. Celle-ci intègre la visite de Jaipur entre les deux et vous dépose dans la ville où vous dormez.\n\nPrise en charge à Agra dès 5h du matin, ce qui permet à quinze heures de couvrir à la fois la route et les sites.\n\n**Le trajet**\n\nAgra à Jaipur fait environ 240 km, quatre à cinq heures sur une bonne route via Bharatpur. **Fatehpur Sikri** se trouve sur le trajet si vous ne l'avez pas encore vu et si le temps le permet.\n\n**À Jaipur**\n\nLe **fort d'Amber** d'abord, le complexe au sommet de la colline au-dessus du lac Maota commencé en 1592, la porte **Ganesh Pol**, le **Sheesh Mahal** avec son plafond de fragments de miroir, et les cours qui montent sur la crête.\n\nLe **Jal Mahal** depuis la digue. Quatre de ses cinq étages sont submergés ; il n'y a ni bateau ni entrée.\n\nLe **City Palace**, encore en partie résidence royale, et le **Jantar Mantar** à côté, où le cadran solaire de pierre de 27 mètres reste précis à quelques secondes.\n\nLe **Hawa Mahal**, l'écran alvéolé aux 953 fenêtres, depuis la rue d'en face.\n\nSi la journée le permet, les bazars, Johari pour les pierres précieuses, Tripolia pour les bracelets en laque.\n\n**Puis la dépose**\n\nRetour à Agra, ou continuation vers Delhi (encore 270 km, donc une arrivée plus tardive). Précisez votre choix à la réservation, car cela change le rythme de la journée.\n\n**Quatre options**\n\nVoiture climatisée et guide avec dépose à Agra ; la même chose avec dépose à Delhi ; ou des versions tout compris de l'une ou l'autre avec droits d'entrée et repas.\n\n**Pratique**\n\nQuinze heures porte à porte sur la version avec dépose à Delhi. C'est une vraie journée, et cela ne vaut la peine que si cela vous évite un transfert séparé.\n\nLes droits d'entrée s'élèvent à environ 1 500 ₹ par personne pour un adulte étranger, sauf si votre option les couvre.",
+  "highlights": [
+   "Découvrez le meilleur de Jaipur lors d'une visite de 12 heures soigneusement planifiée"
+  ],
+  "included": [
+   "Prise en charge et retour",
+   "Transport climatisé",
+   "Guide touristique en direct",
+   "Droits d'entrée aux monuments (si l'option est choisie)",
+   "Déjeuner dans un restaurant multi-cuisines (si l'option est choisie)",
+   "Bouteilles d'eau",
+   "Parapluies",
+   "Toutes les taxes et le stationnement"
+  ],
+  "notIncluded": [
+   "Toute boisson",
+   "Pourboires et gratifications"
+  ]
+ },
+ "from-delhi-full-day-jaipur-tour-with-transfers-tic": {
+  "title": "Depuis Delhi : visite de Jaipur en journée complète avec transferts et billets",
+  "metaTitle": "Jaipur en journée complète depuis Delhi",
+  "metaDescription": "Une journée complète à Jaipur depuis Delhi avec transferts, un guide agréé et billets de monuments inclus sur l'option complète.",
+  "shortDescription": "Une journée complète à Jaipur depuis Delhi avec transferts, un guide agréé et billets de monuments inclus sur l'option complète.",
+  "fullDescription": "**Les billets sont la partie que les gens oublient**\n\nLe fort d'Amber, le City Palace et le Jantar Mantar ensemble coûtent environ 1 500 ₹ par adulte étranger, et chacun a son propre guichet. L'option avec billets inclus ici supprime les trois files d'attente d'une journée déjà longue.\n\nIl existe aussi une option de départ depuis Jaipur, si vous êtes déjà dans la ville.\n\n**Le trajet**\n\nPrise en charge matinale à Delhi, puis l'autoroute vers le sud. La ville se raréfie assez rapidement en route ouverte et le trajet dure environ quatre heures avec un arrêt.\n\n**Fort d'Amber**\n\nLe premier arrêt, et celui qui nécessite le plus de temps. Commencé en 1592 sur une colline au-dessus du lac Maota, en grès pâle et marbre.\n\nParcourez les cours qui montent sur la crête : la porte **Ganesh Pol**, le **Sheesh Mahal** avec son plafond en miroirs, le **Sukh Niwas** où l'eau coulait dans des canaux des murs comme une forme de refroidissement quatre siècles avant que quiconque n'ait une autre façon de le faire.\n\n**Jal Mahal**\n\nDepuis la digue. Photographiez-le et continuez.\n\n**City Palace**\n\nArchitecture moghole et rajput autour d'une série de cours, en partie toujours résidence de l'ancienne famille royale, le drapeau au-dessus du Chandra Mahal indique s'ils sont présents.\n\n**Jantar Mantar**\n\nDix-neuf instruments astronomiques en maçonnerie construits par Jai Singh II, qui a fondé la ville et était astronome avant tout le reste. Classé à l'UNESCO, et le grand cadran solaire reste précis à environ deux secondes.\n\n**Hawa Mahal**\n\nL'alvéole à cinq étages aux 953 fenêtres, mieux photographiée depuis la rue d'en face le matin.\n\n**Trois options**\n\nUne version avec départ de Jaipur, voiture, chauffeur et guide ; la journée depuis Delhi avec voiture et guide ; ou la journée depuis Delhi avec billets inclus également.\n\n**Pratique**\n\nPrévoyez treize à quatorze heures porte à porte depuis Delhi. Si vous avez une nuit de libre, une nuit à Jaipur constitue un meilleur voyage ; sinon, cela fonctionne.",
+  "highlights": [
+   "Transport privé et sans souci depuis Delhi, l'aéroport et l'hôtel"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée pour les transferts",
+   "Guide professionnel agréé",
+   "Droits d'entrée aux monuments (si l'option est choisie)",
+   "Bouteille d'eau minérale",
+   "Toutes les taxes, péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Tout repas",
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
+ "from-delhi-jaipur-1-day-trip-by-ac-car": {
+  "title": "Depuis Delhi : excursion d'une journée à Jaipur en voiture climatisée",
+  "metaTitle": "Jaipur en un jour depuis Delhi, voiture",
+  "metaDescription": "Une excursion d'une journée à Jaipur depuis Delhi en voiture climatisée, couvrant les principaux forts et palais.",
+  "shortDescription": "Une excursion d'une journée à Jaipur depuis Delhi en voiture climatisée, couvrant les principaux forts et palais.",
+  "fullDescription": "**Jaipur en une journée depuis Delhi, par la route**\n\n270 km dans chaque sens sur la NH-48, quatre à cinq heures dans chaque direction avec une pause. Un départ matinal est ce qui rend cela possible, l'autoroute est vide avant sept heures et Gurugram ne l'est pas après huit heures.\n\n**Fort d'Amber**\n\nLe premier arrêt, et le bon : il se trouve à onze kilomètres de la ville et c'est le dernier endroit où l'on veut se trouver en milieu d'après-midi.\n\nCommencé en 1592 par Raja Man Singh, le général d'Akbar, sur une crête au-dessus du **lac Maota**, ce qui explique pourquoi un fort rajput porte des incrustations moghol et une planification de jardin persane.\n\nLa porte peinte de **Ganesh Pol**, avec une galerie grillagée au-dessus depuis laquelle les femmes de la cour observaient les arrivées sans être vues. Le **Sheesh Mahal**, orné de milliers de fragments de miroir convexe de sorte qu'une bougie se lisait comme un plafond plein d'étoiles. Le **Sukh Niwas**, refroidi par l'eau coulant dans des canaux taillés dans le marbre.\n\nLa cour du **zenana** abritait douze appartements de reines, agencés de sorte qu'aucune ne surplombe une autre.\n\n**Hawa Mahal**\n\nLe palais des Vents : 953 fenêtres sur cinq étages, et à peine un mètre de profondeur sur la majeure partie de sa hauteur. Construit en 1799 pour que les femmes de la cour puissent observer les processions de rue sans être vues depuis la route, avec un treillis qui accélère le flux d'air et refroidit les couloirs derrière.\n\n**City Palace**\n\nCommencé en 1729 au centre de la nouvelle ville, et une partie reste résidence de la famille royale. L'arsenal, les galeries textiles, et les deux urnes d'argent dans le Diwan-i-Khas, les plus grands objets en argent du monde, coulés pour qu'un maharaja puisse transporter de l'eau du Gange en Angleterre.\n\n**Jal Mahal**\n\nDepuis la digue. Quatre des cinq étages sous l'eau, et aucune entrée.\n\n**Pratique**\n\nQuatorze heures porte à porte, dont neuf de route.\n\nLes droits d'entrée sont payés à chaque site, environ 1 500 ₹ par personne pour un adulte étranger à travers les principaux monuments.\n\nSi vous pouvez vous permettre une nuit, rester à Jaipur constitue un meilleur voyage. Sinon, cela fonctionne.",
+  "highlights": [
+   "Remontez le temps en explorant les cours ornées du fort d'Amber"
+  ],
+  "included": [
+   "Tous les péages, taxes, stationnement et carburant",
+   "Prise en charge et retour à Delhi, Noida, Gurugram, Ghaziabad, Faridabad",
+   "Prise en charge et retour à l'hôtel ou à la gare",
+   "Toutes les visites en voiture privée climatisée",
+   "Guide touristique privé",
+   "Bouteilles d'eau minérale"
+  ],
+  "notIncluded": [
+   "Billets d'entrée aux monuments à tous les sites",
+   "Repas, boissons et services supplémentaires",
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
