@@ -17116,6 +17116,100 @@ export const FR_TOURS: Record<string, TourT> = {
    "Déjeuner"
   ]
  },
+ "jaipur-cultural-evening-tour-with-dinner-at-chokhi": {
+  "title": "Jaipur : Soirée culturelle avec dîner à Chokhi Dhani",
+  "metaTitle": "Jaipur : soirée culturelle à Chokhi Dhani",
+  "metaDescription": "Une soirée à Chokhi Dhani, le village ethnique en dehors de Jaipur, danse folklorique, marionnettes, dromadaires et thali rajasthani.",
+  "shortDescription": "Une soirée à Chokhi Dhani, le village ethnique en dehors de Jaipur, danse folklorique, marionnettes, promenades à dos de chameau et thali rajasthani.",
+  "fullDescription": "**Ce qu'est Chokhi Dhani**\n\nUn faux village rajasthani sur 20 acres au sud de Jaipur, construit en 1990, où toute la culture populaire de l'État est présentée en un seul lieu chaque soir. C'est sans vergogne une expérience construite, et c'est aussi le seul moyen pratique de voir les danseurs Kalbeliya, les conteurs Bhopa et les interprètes du Terah Taali en une seule nuit sans voyager pendant une semaine.\n\nLes familles indiennes viennent ici en très grand nombre. Ce n'est pas une attraction réservée aux étrangers, et c'est en partie pourquoi cela fonctionne.\n\n**Les spectacles**\n\n**Ghoomar**, la danse en cercle des femmes rajpoutes avec les jupes qui s'évasent au tournant. **Kalbeliya**, dansé par la communauté des charmeurs de serpents, tout en épaules et colonne vertébrale, reconnu par l'UNESCO comme patrimoine immatériel. **Bhopa-Bhopi**, chanteurs narratifs mari et femme qui interprètent des épopées devant un rouleau peint.\n\nPlus des spectacles de marionnettes, acrobates, magiciens et artistes du feu à mesure que la nuit avance.\n\n**Tout le reste**\n\nPromenades à dos de chameau, de cheval et en charrette à bœufs. Des artistes de mehendi qui peindront vos mains en dix minutes. Diseurs de bonne aventure, potiers, chiromanciens, tir à l'arc, un petit lac de bateaux, et des étals d'artisanat rajasthani.\n\nVous flânez. Rien n'est programmé pour vous.\n\n**Le dîner**\n\nUn thali rajasthani complet, servi traditionnellement, vous êtes assis au sol sur un tapis, mangez dans un thali en laiton, et les serveurs font le tour en remplissant tout jusqu'à ce que vous les arrêtiez. **Dal baati churma**, **gatte ki sabzi**, **ker sangri**, roti au bajra avec ghee, babeurre, et gur pour finir.\n\nC'est entièrement végétarien et illimité.\n\n**Pratique**\n\nEnviron cinq heures avec prise en charge à l'hôtel, principalement en soirée. L'entrée et le thali sont payés à l'entrée selon la plupart des forfaits ; vérifiez quelle option vous avez réservée.\n\nC'est animé les week-ends et pendant la saison des mariages d'hiver. Chaussures confortables, le sol est de sable et de pierre, et vous marcherez plus que prévu.\n\nDeux options : voiture avec chauffeur parlant anglais, ou voiture avec guide également.",
+  "highlights": [
+   "Profitez d'une expérience de soirée culturelle immersive au célèbre Chokhi Dhani."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel/aéroport",
+   "Voiture climatisée privée pour les visites avec chauffeur",
+   "Guide touristique professionnel",
+   "Bouteille d'eau minérale",
+   "Tous les péages et le stationnement"
+  ],
+  "notIncluded": [
+   "Dîner",
+   "Toute dépense personnelle"
+  ]
+ },
+ "jaipur-cultural-history-tour-with-private-guide": {
+  "title": "Jaipur : Visite culturelle et historique avec guide privé",
+  "metaTitle": "Jaipur : visite culturelle et historique privée",
+  "metaDescription": "Sept heures de culture et d'histoire de Jaipur avec un guide privé, en commençant par Hawa Mahal.",
+  "shortDescription": "Sept heures de culture et d'histoire de Jaipur avec un guide privé, en commençant par Hawa Mahal.",
+  "fullDescription": "**Hawa Mahal d'abord, et pourquoi les fenêtres sont l'essentiel**\n\nLes **jharokhas**, 953 d'entre eux sur cinq étages, n'étaient pas là pour faire joli. Ils étaient là pour regarder dehors.\n\nLe bâtiment s'est élevé en 1799 comme extension du **zenana** du City Palace, pour que les femmes de la cour puissent observer les processions dans la rue et la vie quotidienne sans être vues depuis la route. Le purdah leur rendait la rue invisible ; ce bâtiment la leur a rendue.\n\nLe treillis fonctionne aussi comme climatisation : de petites ouvertures accélèrent la circulation d'air et font baisser la température dans les couloirs derrière, d'où vient le nom de Palais des Vents. Dans une ville qui atteint 45°C, c'était de l'ingénierie plutôt que de la poésie.\n\nIl a aussi à peine un mètre de profondeur sur la plus grande partie de sa hauteur. Il n'y a presque aucun bâtiment derrière la façade.\n\n**City Palace**\n\nCommencé en 1729 par Jai Singh II au centre de la ville qu'il traçait. Une partie reste la résidence de la famille royale, le drapeau au-dessus du **Chandra Mahal** vous indique s'ils sont présents.\n\n**Pritam Niwas Chowk** a quatre portes, chacune pour une saison et une divinité hindoue ; la porte du paon est celle que tout le monde photographie. Les musées abritent des costumes royaux, des armes et des manuscrits, et le **Diwan-i-Khas** abrite les deux urnes d'argent, les plus grands objets en argent du monde, fabriquées pour que Madho Singh II puisse transporter de l'eau du Gange en Angleterre.\n\n**Jantar Mantar**\n\nDix-neuf instruments astronomiques en maçonnerie construits dans les années 1730, classé UNESCO. Le cadran solaire **Samrat Yantra** mesure 27 mètres de haut, son ombre se déplace de six centimètres par minute, et il donne encore l'heure locale à environ deux secondes près.\n\n**Fort d'Amber**\n\nLe complexe sur la colline au-dessus du lac Maota avec le **Sheesh Mahal** et le **Ganesh Pol**.\n\n**Jal Mahal** depuis la chaussée, et les bazars si la journée le permet.\n\n**Pratique**\n\nSept heures avec un guide privé. Les frais d'entrée sont payés à chaque site, environ ₹1 500 par personne pour un adulte étranger.",
+  "highlights": [
+   "Découvrez le meilleur de l'histoire, de la culture et des merveilles architecturales de Jaipur."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Transport en véhicule privé climatisé avec chauffeur",
+   "Type de voiture : pour une à deux personnes, une berline quatre places",
+   "Type de voiture : pour trois à quatre personnes, un monospace six places",
+   "Type de voiture : pour cinq à dix personnes, un van dix places",
+   "Toutes les visites avec guides locaux privés",
+   "Toutes taxes et frais de service",
+   "Prise en charge proposée depuis l'aéroport, la gare, l'hôtel, ou tout lieu de prise en charge à Jaipur",
+   "Bouteilles d'eau minérale pendant la visite",
+   "Visite privée",
+   "Supplément carburant",
+   "Frais d'entrée aux monuments (si option choisie)"
+  ],
+  "notIncluded": [
+   "Pourboires (facultatif)",
+   "Frais d'entrée",
+   "Déjeuner et dîner"
+  ]
+ },
+ "jaipur-day-tour-from-delhi-by-express-train-pink": {
+  "title": "Visite d'une journée de Jaipur depuis Delhi en train express - Ville Rose",
+  "metaTitle": "Jaipur depuis Delhi en train express : Ville Rose",
+  "metaDescription": "Jaipur en une journée depuis Delhi en train express, avec guide et voiture en ville. Environ dix-sept heures porte à porte.",
+  "shortDescription": "Jaipur en une journée depuis Delhi en train express, avec guide et voiture en ville. Environ dix-sept heures porte à porte.",
+  "fullDescription": "**Le train pour y aller, et pourquoi cela en vaut la peine**\n\nDelhi à Jaipur par la route, c'est 270 km et quatre à cinq heures, pire au retour un dimanche soir. L'express du matin le fait en environ quatre heures et demie sur rails, pas de circulation, pas de péages, et vous pouvez dormir ou manger plutôt que de regarder un pare-brise.\n\nPrise en charge entre 4h30 et 5h00 n'importe où à Delhi, Noida, Greater Noida, Gurugram, Ghaziabad ou Faridabad, et transfert à la gare de New Delhi pour le départ de 06h00.\n\n**À Jaipur**\n\nUne voiture privée et un guide agréé prennent le relais pour la journée.\n\n**Fort d'Amber**, le complexe sur la colline au-dessus du lac Maota commencé en 1592, la porte peinte **Ganesh Pol**, le **Sheesh Mahal** où des fragments de miroirs incrustés au plafond transformaient une seule bougie en un ciel d'étoiles, et le **Sukh Niwas** rafraîchi par l'eau.\n\n**Jal Mahal** depuis la chaussée ; quatre de ses cinq étages sont sous l'eau et il n'y a pas d'entrée.\n\n**City Palace**, une partie reste la résidence de la famille royale, avec l'armurerie et les deux énormes urnes d'argent coulées pour qu'un maharaja puisse emporter de l'eau du Gange en Angleterre.\n\n**Jantar Mantar**, la raison pour laquelle un guide mérite ses honoraires ici : dix-neuf instruments astronomiques en maçonnerie des années 1730, classé UNESCO, incluant un cadran solaire de 27 mètres dont l'ombre se déplace de six centimètres par minute et qui donne encore l'heure à environ deux secondes près.\n\n**Hawa Mahal**, l'écran de 953 fenêtres, depuis la rue d'en face.\n\nPuis le train du soir retour vers Delhi.\n\n**Deux options**\n\nTrain, voiture et guide ; ou la version tout compris avec entrées des monuments et repas.\n\n**Pratique**\n\nDix-sept heures porte à porte. C'est une vraie longue journée et c'est le train qui la rend supportable.\n\nLes places de train sont limitées et se libèrent selon un calendrier fixe, réservez tôt, et emportez le passeport avec lequel vous avez réservé, car les chemins de fer indiens vérifient l'identité par rapport au billet.",
+  "highlights": [
+   "Voyagez confortablement dans une voiture privée climatisée avec un guide privé"
+  ],
+  "included": [
+   "Prise en charge et retour privés n'importe où à Delhi, Noida, Greater Noida, Gurugram (Gurgaon), Ghaziabad, ou Faridabad, incluant les aéroports de Delhi (IGI), Hindon (Ghaziabad) et Noida International (Jewar)",
+   "Billets de train climatisé standard aller-retour en train express",
+   "Petit-déjeuner et dîner à bord du train",
+   "Visite de la ville de Jaipur en voiture climatisée privée",
+   "Guide touristique privé en direct selon l'itinéraire",
+   "Billets de monuments préorganisés si l'option tout compris est sélectionnée",
+   "Déjeuner préorganisé à Jaipur, si l'option tout compris est sélectionnée",
+   "Eau en bouteille et parapluies offerts",
+   "Tous frais de stationnement, péages, carburant et taxes applicables"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires et gratifications"
+  ]
+ },
+ "jaipur-elephant-jungle-sanctuary-feed-and-shower-t": {
+  "title": "Jaipur : Sanctuaire des éléphants, visite avec nourrissage et douche",
+  "metaTitle": "Jaipur : sanctuaire d'éléphants, nourrissage et douche",
+  "metaDescription": "Une journée dans un sanctuaire d'éléphants en dehors de Jaipur, nourrissage, baignade et marche avec le troupeau. Sans monte.",
+  "shortDescription": "Une journée dans un sanctuaire d'éléphants en dehors de Jaipur, nourrissage, baignade et marche avec le troupeau. Sans monte.",
+  "fullDescription": "**Pas de monte, pas de chaînes, pas de spectacles**\n\nLes éléphants ici ne sont pas montés. Plusieurs viennent de la file de montée du Fort d'Amber ou du travail de mariages et de temples, tous deux éprouvants pour la colonne vertébrale et les pieds d'un éléphant. Ce qui se passe plutôt au sanctuaire, c'est le nourrissage, la baignade, la marche et l'observation.\n\nSi ce que vous voulez, c'est une photo sur le dos d'un éléphant, réservez autre chose, et sachez que la raison pour laquelle nous ne le proposons pas est le dos de l'animal, pas un document de politique.\n\n**Le nourrissage**\n\nVous commencez avec la nourriture, c'est ainsi que les éléphants décident s'ils vous aiment. Bananes, canne à sucre, melon, boules de jaggery pressées à la main. Un adulte mange environ 150 kg par jour et boit jusqu'à 200 litres, donc cela prend du temps et c'est le but, vous êtes debout près d'un animal de quatre tonnes assez longtemps pour arrêter d'être nerveux.\n\nIl y a un véritable briefing avant cela : anatomie, comportement, comment fonctionne la trompe (environ quarante mille muscles, pas d'os), et comment savoir si un éléphant veut votre compagnie à ce moment-là.\n\n**La douche**\n\nPuis l'eau. La peau de l'éléphant fait 2,5 cm d'épaisseur et prend quand même des coups de soleil, c'est pourquoi ils se jettent de la boue et de la poussière à l'état sauvage. Frotter l'un d'eux avec une brosse pendant qu'il vous asperge délibérément est la partie de la journée que personne ne s'attend à apprécier autant qu'on le fait.\n\n**Les cornacs**\n\nLa plupart ont travaillé avec le même éléphant pendant des années et sont les personnes les plus intéressantes du site. Posez-leur des questions, comment ils lisent les humeurs, ce que l'animal faisait avant d'arriver ici, combien de temps il faut pour gagner sa confiance.\n\n**Options**\n\nTrois : une visite privée des attractions avec prise en charge, un programme d'activité demi-journée, ou le complet avec la séquence complète de nourrissage, lavage et marche.\n\n**Pratique**\n\nEnviron huit heures avec prise en charge et retour à l'hôtel. Vous serez mouillé et boueux, apportez un change de vêtements et des chaussures que vous ne craignez pas de salir. Pas de flash autour des animaux.",
+  "highlights": [
+   "Forgez un lien unique avec les éléphants au sanctuaire Elephant Jungle"
+  ],
+  "included": [
+   "Prise en charge et retour depuis n'importe quel lieu à Jaipur (hôtel, aéroport, gare)",
+   "Chauffeur local professionnel et amical parlant anglais",
+   "Carburant, frais de stationnement, péages et toutes taxes gouvernementales (TPS)"
+  ],
+  "notIncluded": [
+   "Déjeuner, dîner et toute dépense personnelle",
+   "Pourboires pour le chauffeur/guide"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
