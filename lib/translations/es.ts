@@ -5750,6 +5750,55 @@ export const ES_TOURS: Record<string, TourT> = {
    "Todo lo que no figure entre lo incluido."
   ]
  },
+ "from-jaipur-taj-mahal-agra-private-guided-day-tour": {
+  "title": "Desde Jaipur: jornada privada guiada al Taj Mahal y Agra",
+  "metaTitle": "Jaipur-Taj Mahal y Agra, jornada privada guiada",
+  "metaDescription": "Una jornada privada guiada al Taj Mahal y Agra desde Jaipur en coche con aire acondicionado, con opciones de entradas y comida.",
+  "shortDescription": "Una jornada privada guiada al Taj Mahal y Agra desde Jaipur en coche con aire acondicionado, con opciones de entradas y comida.",
+  "fullDescription": "**De Jaipur a Agra, y la conexión del mármol**\n\nCuatro horas de carretera, con una parada de descanso. Lo que vale la pena saber en esta ruta en particular es que el mármol que tiene delante al final de ella vino de Rajastán, de **Makrana**, a unos 400 km al oeste de Agra y a tres horas de Jaipur. Las mismas canteras siguen abasteciendo los talleres de marquetería en mármol que habrá visto en los bazares de Jaipur.\n\nEl Taj es, pues, en términos materiales, un edificio rajastaní ensamblado en Uttar Pradesh. Los artesanos venían de más lejos aún: Persia, Asia Central, y las familias canteras de Gujarat.\n\n**Taj Mahal**\n\nShah Jahan lo encargó en 1631, el año en que murió Mumtaz Mahal al dar a luz a su decimocuarto hijo. Veintidós años de obra.\n\nSu guía cubre la **caligrafía** labrada en tamaños crecientes para que se lea de manera uniforme desde el suelo, firmada, cosa poco habitual, por el calígrafo Amanat Khan; las incrustaciones de **pietra dura**, donde una sola flor puede llevar sesenta piedras distintas; los cuatro **alminares**, inclinados mínimamente hacia fuera para que un terremoto los dejara caer lejos de la tumba; y la ilusión óptica de la puerta, donde el edificio parece encogerse a medida que uno se acerca.\n\nY la única asimetría en una composición por lo demás perfectamente simétrica: el cenotafio de Shah Jahan, colocado fuera del eje central por Aurangzeb tras su muerte.\n\n**El Fuerte de Agra**\n\nLa ciudad de arenisca roja de Akbar, de 1565, con los palacios de mármol de Shah Jahan dentro: el **Diwan-i-Am**, el **Khas Mahal**, el **Sheesh Mahal**. Y el **Musamman Burj**, la torre octogonal donde Aurangzeb encerró a su padre los últimos ocho años de su vida, con el Taj visible a lo largo del río.\n\n**Tres opciones**\n\nCoche privado con aire acondicionado, conductor y guía; lo mismo con las entradas a los monumentos; o con las entradas y la comida.\n\n**Práctico**\n\nDoce horas de puerta a puerta, de las cuales ocho son carretera. **El Taj cierra los viernes.**\n\nLa entrada es de 1,300 ₹ por adulto extranjero con el mausoleo, 650 ₹ en el fuerte.",
+  "highlights": [
+   "Una experiencia inolvidable con el mármol blanco del Taj Mahal"
+  ],
+  "included": [
+   "Transporte en coche privado con aire acondicionado",
+   "Recogida y regreso en el hotel o el aeropuerto",
+   "Entradas a los monumentos (en la opción elegida)",
+   "Comida bufé en un hotel de 5 estrellas (en la opción elegida)",
+   "Guía en directo",
+   "Agua embotellada de regalo",
+   "Todos los impuestos"
+  ],
+  "notIncluded": [
+   "Propinas y gratificaciones"
+  ]
+ },
+ "from-jaipurdelhiagra-taj-mahal-day-touroptional-tr": {
+  "title": "Desde Jaipur/Delhi/Agra: Taj Mahal con traslado opcional",
+  "metaTitle": "Jaipur/Delhi/Agra: Taj Mahal, 8 opciones de ruta",
+  "metaDescription": "El Taj Mahal y el Fuerte de Agra con guía autorizado por el gobierno, desde Agra, Delhi o Jaipur, con opciones de bajada.",
+  "shortDescription": "El Taj Mahal y el Fuerte de Agra con guía autorizado por el gobierno, desde Agra, Delhi o Jaipur, con opciones de bajada.",
+  "fullDescription": "**Ocho opciones, porque la gente llega a Agra desde todas partes**\n\nEste anuncio existe para resolver un problema de ruta. Los viajeros que hacen el Triángulo de Oro rara vez empiezan y terminan en el mismo lugar: Delhi-Agra-Jaipur, o Jaipur-Agra con bajada en Delhi, o ya en Agra con un coche. Lea las opciones antes de reservar, porque la correcta le ahorra un traslado entero.\n\nLas formas disponibles: una tarifa solo guía en Agra; coche y guía en Agra; desde Delhi en el mismo día; desde Agra con bajada en Delhi; Jaipur-Agra en el mismo día; Delhi-Agra terminando en Jaipur; todo incluido desde Jaipur con comida y entradas; y Jaipur-Agra con bajada en Delhi.\n\nEsa última es la útil, le traslada entre dos ciudades y le da el Taj de paso, en lugar de pagar por separado un traslado y una visita.\n\n**Taj Mahal**\n\nCon un **guía autorizado por el gobierno**, lo que importa aquí: Agra está llena de guías sin licencia, y la diferencia en lo que se aprende es considerable.\n\nShah Jahan lo empezó en 1632, después de morir Mumtaz Mahal al dar a luz a su decimocuarto hijo. Veintidós años, veinte mil obreros, mármol acarreado 400 km desde Makrana.\n\nLa **caligrafía** está labrada en tamaños crecientes para que se lea a la misma altura desde el suelo. La **pietra dura** mete hasta sesenta piedras en una flor incrustada. Los **alminares** se inclinan hacia fuera para que un terremoto los dejara caer lejos de la tumba. Y el cenotafio de Shah Jahan es lo único del edificio que está descentrado.\n\n**El Fuerte de Agra**\n\nLa ciudad de arenisca roja de Akbar, de 1565, con los palacios de mármol de su nieto dentro, y el **Musamman Burj**, donde ese nieto murió preso de su propio hijo, mirando al Taj a lo largo del río.\n\n**Práctico**\n\nUnas seis horas y media de visitas, más la carretera que suponga la opción elegida.\n\n**El Taj cierra los viernes.** Las entradas son de 1,300 ₹ por adulto extranjero en el Taj con el mausoleo, 650 ₹ en el fuerte, salvo que su opción las cubra.",
+  "highlights": [
+   "Visite el mundialmente famoso Taj Mahal, símbolo de amor eterno, en una jornada"
+  ],
+  "included": [
+   "Vehículo privado con aire acondicionado (el tipo depende del número de adultos)",
+   "Sedán climatizado de 4 plazas para 1-2 personas; todoterreno climatizado de 6 plazas para 3-4 personas; furgoneta climatizada de 10 plazas para 5-10 personas.",
+   "Conductor profesional y experimentado",
+   "Guía turístico autorizado por el gobierno en Agra",
+   "Recogida y regreso en el hotel en Jaipur",
+   "Bajada el mismo día en Delhi desde Agra (en la opción elegida)",
+   "Agua mineral embotellada durante el trayecto",
+   "Todos los gastos de aparcamiento, peajes, combustible e impuestos interestatales",
+   "Entradas a los monumentos, Fuerte de Agra y Taj Mahal (en la opción elegida)",
+   "Comida bufé (en la opción elegida)"
+  ],
+  "notIncluded": [
+   "Gastos personales (compras, comidas no mencionadas, etc.)",
+   "Propinas y gratificaciones (opcionales)",
+   "Todo lo que no figure entre lo incluido."
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Reserve un guía oficial para recorrer Bengaluru",
   "metaTitle": "Bengaluru con guía: palacios, Lalbagh, templos y bazares",
