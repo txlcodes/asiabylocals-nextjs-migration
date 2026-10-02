@@ -6170,6 +6170,44 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "taj-mahal-and-fort-visits-private-tour-with-guide": {
+  "title": "Visitas al Taj Mahal y al fuerte, visita privada con guía",
+  "metaTitle": "Taj Mahal y Fuerte de Agra: visita privada con guía",
+  "metaDescription": "El Taj Mahal y el Fuerte de Agra con guía autorizado y entradas sin colas para ambos, en unas cuatro horas.",
+  "shortDescription": "El Taj Mahal y el Fuerte de Agra con guía autorizado y entradas sin colas para ambos, en unas cuatro horas.",
+  "fullDescription": "**Dos monumentos, las dos entradas, un guía**\n\nUna reserva compacta en Agra: se encuentra con su guía en un punto acordado de la ciudad, y las entradas para ambos sitios ya están compradas. Eso elimina las dos taquillas y las dos colas, que en una mañana ajetreada son la mayor parte de la fricción de un día aquí.\n\n**Taj Mahal**\n\nShah Jahan lo empezó en 1632, el año siguiente a la muerte de Mumtaz Mahal al dar a luz a su decimocuarto hijo. Veintidós años, veinte mil obreros, y mármol blanco acarreado 400 km desde Makrana, en Rajastán.\n\nUn guía es lo que lo convierte en un edificio en lugar de un telón de fondo:\n\nLa **caligrafía** del gran arco está labrada en letras cada vez más grandes a medida que sube, para que desde el suelo cada línea parezca de la misma altura. Las incrustaciones de **pietra dura** encajan cornalina, jaspe, lapislázuli y jade a ras del mármol, una sola flor puede llevar sesenta piezas distintas. Los cuatro **alminares** se inclinan muy ligeramente hacia fuera, para que un terremoto los dejara caer lejos de la tumba en lugar de encima. Y en la puerta **Darwaza-i-Rauza**, el Taj parece encogerse a medida que uno se acerca, lo cual es deliberado.\n\nDentro, la celosía labrada y los dos cenotafios, pues las tumbas reales están selladas en la cripta, y la única asimetría en un edificio perfectamente simétrico: la tumba de Shah Jahan, colocada fuera del centro por Aurangzeb.\n\n**El Fuerte de Agra**\n\nDos kilómetros río arriba, y más una ciudad amurallada que un fuerte: dos kilómetros y medio de arenisca roja empezados por Akbar en 1565, con un foso doble y una puerta de entrada en ángulo para que los elefantes de guerra no pudieran embestirla en línea recta.\n\nDentro, el mármol de Shah Jahan: el **Diwan-i-Am**, el **Khas Mahal**, la casa de baños **Sheesh Mahal**. Y el **Musamman Burj**, donde Aurangzeb tuvo preso a su padre los últimos ocho años de su vida, con el Taj a la vista río abajo.\n\n**Práctico**\n\nUnas cuatro horas. **El Taj cierra los viernes**; el Fuerte de Agra abre todos los días.\n\nEl transporte no está incluido, esto está pensado para viajeros que ya están en Agra.\n\nSin trípodes, sin drones, sin bolsas grandes en el Taj; taquillas en la puerta.",
+  "highlights": [
+   "Descubra tanto el famoso Taj Mahal como el Fuerte de Agra"
+  ],
+  "included": [
+   "Entradas al Taj Mahal y el Fuerte de Agra",
+   "Guía turístico autorizado de habla inglesa",
+   "Traslados"
+  ],
+  "notIncluded": [
+   "Sin comidas"
+  ]
+ },
+ "taj-mahal-entry-tickets": {
+  "title": "Entradas al Taj Mahal",
+  "metaTitle": "Taj Mahal: entradas con guía local",
+  "metaDescription": "Entradas al Taj Mahal y el Fuerte de Agra con guía local, compradas por adelantado para evitar la taquilla.",
+  "shortDescription": "Entradas al Taj Mahal y el Fuerte de Agra con guía local, compradas por adelantado para evitar la taquilla.",
+  "fullDescription": "**Las entradas, resueltas**\n\nEsto es una combinación de entrada y guía más que una visita completa, y resuelve la hora más molesta de un día en Agra: la taquilla del Taj, que una mañana de invierno puede llevar cuarenta y cinco minutos antes de llegar siquiera al control de seguridad.\n\nLas entradas se compran por adelantado. Su guía le recibe en la puerta y entra por el carril más corto.\n\n**Lo que no se puede evitar**\n\nLa seguridad. A todos se les pasa el control, y la lista de prohibidos se aplica sin discusión: sin trípodes, sin drones, sin comida, sin bolsas grandes, sin mecheros. Los teléfonos y las cámaras pequeñas no son problema, y hay taquillas en la entrada.\n\n**Taj Mahal**\n\nShah Jahan lo empezó en 1632, el año siguiente a la muerte de Mumtaz Mahal. Veintidós años, veinte mil obreros, y mármol blanco acarreado 400 km desde Makrana.\n\nSu guía cubre las partes que la mayoría de los visitantes fotografían sin darse cuenta: la **caligrafía** del arco principal, labrada en tamaños crecientes para que las letras se lean de manera uniforme desde el suelo; las incrustaciones de **pietra dura** en cornalina, jaspe y lapislázuli, a veces sesenta piedras en una sola flor; los cuatro **alminares**, inclinados muy ligeramente hacia fuera para que un terremoto los dejara caer lejos de la tumba; y la única ruptura deliberada de la simetría, el cenotafio de Shah Jahan, colocado fuera del centro por Aurangzeb tras su muerte.\n\n**El Fuerte de Agra**\n\nEn la entrada combinada. La ciudad de arenisca roja de Akbar, de 1565, con los palacios de mármol de Shah Jahan dentro, y el **Musamman Burj**, donde Aurangzeb tuvo preso a su padre ocho años, con el Taj visible río abajo.\n\n**Dos opciones**\n\nSolo guía, si ya tiene las entradas. O la entrada combinada Taj y fuerte con el guía.\n\n**Práctico**\n\n**El Taj cierra los viernes**; el Fuerte de Agra abre todos los días.\n\nLa entrada para extranjeros es de 1,100 ₹ en el Taj más 200 ₹ por la cámara del mausoleo, y 650 ₹ en el fuerte.\n\nEl transporte no está incluido en este anuncio, está pensado para viajeros que ya están en Agra con su propio coche o un hotel cercano.",
+  "highlights": [
+   "Entradas para el Taj y el fuerte"
+  ],
+  "included": [
+   "Recogida y regreso en el hotel (en la opción elegida)",
+   "Guía profesional",
+   "Entradas (en la opción elegida)",
+   "Visita guiada al Taj Mahal y el fuerte",
+   "Una experiencia cómoda"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Reserve un guía oficial para recorrer Bengaluru",
   "metaTitle": "Bengaluru con guía: palacios, Lalbagh, templos y bazares",

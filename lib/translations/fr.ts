@@ -6170,6 +6170,44 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "taj-mahal-and-fort-visits-private-tour-with-guide": {
+  "title": "Visites du Taj Mahal et du fort, visite privée avec guide",
+  "metaTitle": "Taj Mahal et fort d'Agra : visite privée avec guide",
+  "metaDescription": "Le Taj Mahal et le fort d'Agra avec un guide agréé et des billets coupe-file pour les deux, en environ quatre heures.",
+  "shortDescription": "Le Taj Mahal et le fort d'Agra avec un guide agréé et des billets coupe-file pour les deux, en environ quatre heures.",
+  "fullDescription": "**Deux monuments, les deux billets, un guide**\n\nUne réservation compacte à Agra : vous retrouvez votre guide à un point convenu dans la ville, et les billets des deux sites sont déjà achetés. Cela supprime les deux guichets et les deux files, ce qui, un matin chargé, représente la plus grande part de la friction d'une journée ici.\n\n**Taj Mahal**\n\nShah Jahan l'a commencé en 1632, l'année suivant la mort de Mumtaz Mahal en donnant naissance à leur quatorzième enfant. Vingt-deux ans, vingt mille ouvriers, et du marbre blanc charrié sur 400 km depuis Makrana, au Rajasthan.\n\nUn guide, c'est ce qui en fait un édifice plutôt qu'un décor :\n\nLa **calligraphie** du grand arc est gravée en lettres de plus en plus grandes à mesure qu'elle s'élève, pour que, depuis le sol, chaque ligne paraisse de même hauteur. L'incrustation de **pietra dura** sertit cornaline, jaspe, lapis et jade à fleur du marbre, une seule fleur peut porter soixante morceaux distincts. Les quatre **minarets** s'inclinent très légèrement vers l'extérieur, pour qu'un séisme les fasse tomber loin du tombeau plutôt que sur lui. Et à la porte **Darwaza-i-Rauza**, le Taj semble rétrécir à mesure qu'on s'en approche, ce qui est délibéré.\n\nÀ l'intérieur, le claustra sculpté et les deux cénotaphes, les vraies tombes étant scellées dans la crypte, et la seule asymétrie d'un édifice parfaitement symétrique : le tombeau de Shah Jahan lui-même, placé hors du centre par Aurangzeb.\n\n**Le fort d'Agra**\n\nÀ deux kilomètres en amont, et une ville fortifiée plutôt qu'un fort : deux kilomètres et demi de grès rouge commencés par Akbar en 1565, avec un double fossé et une porte d'entrée coudée pour que les éléphants de guerre ne puissent pas la charger en ligne droite.\n\nÀ l'intérieur, le marbre de Shah Jahan : le **Diwan-i-Am**, le **Khas Mahal**, le hammam **Sheesh Mahal**. Et le **Musamman Burj**, où Aurangzeb a enfermé son père les huit dernières années de sa vie, avec le Taj en vue le long du fleuve.\n\n**Pratique**\n\nEnviron quatre heures. **Le Taj est fermé le vendredi** ; le fort d'Agra est ouvert tous les jours.\n\nLe transport n'est pas compris, ceci est conçu pour les voyageurs déjà à Agra.\n\nNi trépied, ni drone, ni grands sacs au Taj ; des casiers à la porte.",
+  "highlights": [
+   "Découvrez à la fois le célèbre Taj Mahal et le fort d'Agra"
+  ],
+  "included": [
+   "Billets du Taj Mahal et du fort d'Agra",
+   "Guide touristique agréé anglophone",
+   "Transferts"
+  ],
+  "notIncluded": [
+   "Aucun repas"
+  ]
+ },
+ "taj-mahal-entry-tickets": {
+  "title": "Billets d'entrée du Taj Mahal",
+  "metaTitle": "Taj Mahal : billets d'entrée avec guide local",
+  "metaDescription": "Billets d'entrée du Taj Mahal et du fort d'Agra avec un guide local, achetés à l'avance pour éviter le guichet.",
+  "shortDescription": "Billets d'entrée du Taj Mahal et du fort d'Agra avec un guide local, achetés à l'avance pour éviter le guichet.",
+  "fullDescription": "**Les billets, réglés**\n\nC'est une combinaison billets et guide plutôt qu'une visite complète, et cela règle l'heure la plus agaçante d'une journée à Agra : le guichet du Taj, qui un matin d'hiver peut prendre quarante-cinq minutes avant même d'atteindre le contrôle de sécurité.\n\nLes billets sont achetés à l'avance. Votre guide vous retrouve à la porte et vous entrez dans le couloir le plus court.\n\n**Ce qu'on ne peut pas éviter**\n\nLa sécurité. Tout le monde est contrôlé, et la liste des interdits est appliquée sans discussion : pas de trépied, pas de drone, pas de nourriture, pas de grands sacs, pas de briquets. Téléphones et petits appareils photo passent sans problème, et il y a des casiers à l'entrée.\n\n**Taj Mahal**\n\nShah Jahan l'a commencé en 1632, l'année suivant la mort de Mumtaz Mahal. Vingt-deux ans, vingt mille ouvriers, et du marbre blanc charrié sur 400 km depuis Makrana.\n\nVotre guide couvre les parties que la plupart des visiteurs photographient sans les remarquer : la **calligraphie** du grand arc, gravée en tailles croissantes pour que les lettres se lisent d'une hauteur égale depuis le sol ; les incrustations de **pietra dura** en cornaline, jaspe et lapis, parfois soixante pierres dans une seule fleur ; les quatre **minarets**, très légèrement inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau ; et la seule rupture volontaire de la symétrie, le cénotaphe de Shah Jahan lui-même, placé hors du centre par Aurangzeb après sa mort.\n\n**Le fort d'Agra**\n\nSur le billet combiné. La ville de grès rouge d'Akbar, 1565, avec les palais de marbre de Shah Jahan à l'intérieur, et le **Musamman Burj** où Aurangzeb a enfermé son père huit ans, avec le Taj visible en aval du fleuve.\n\n**Deux options**\n\nGuide seul, si vous avez déjà les billets. Ou le billet combiné Taj et fort avec le guide.\n\n**Pratique**\n\n**Le Taj est fermé le vendredi** ; le fort d'Agra est ouvert tous les jours.\n\nL'entrée pour les ressortissants étrangers est de 1,100 ₹ au Taj, plus 200 ₹ pour la chambre du mausolée, et 650 ₹ au fort.\n\nLe transport n'est pas compris sur cette annonce, elle est conçue pour les voyageurs déjà à Agra avec leur propre voiture ou un hôtel à proximité.",
+  "highlights": [
+   "Billets pour le Taj et le fort"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel (selon l'option choisie)",
+   "Guide professionnel",
+   "Billets d'entrée (selon l'option choisie)",
+   "Visite guidée du Taj Mahal et du fort",
+   "Une expérience confortable"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Réservez un guide officiel pour explorer Bengaluru",
   "metaTitle": "Bengaluru avec guide : palais, Lalbagh, temples et bazars",
