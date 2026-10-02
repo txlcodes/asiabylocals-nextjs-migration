@@ -18239,6 +18239,96 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "jaipur-private-half-day-sightseeing-tour-by-car-wi": {
+  "title": "Visite privée d'une demi-journée de Jaipur en voiture avec guide",
+  "metaTitle": "Jaipur : demi-journée privée en voiture avec guide",
+  "metaDescription": "Demi-journée ou journée complète de visites à Jaipur en tuk-tuk ou voiture, avec option de guide parlant allemand.",
+  "shortDescription": "Demi-journée ou journée complète de visites à Jaipur en tuk-tuk ou voiture, avec option de guide parlant allemand.",
+  "fullDescription": "**Un guide parlant allemand, plus rare que ça ne paraît**\n\nLes guides agréés de Jaipur sont certifiés dans des langues spécifiques, et hors anglais et hindi, vous devez réserver à l'avance, à l'entrée vous n'en trouverez pas. Cette annonce propose explicitement une option allemande, bon à savoir si c'est votre langue.\n\n**Tuk-tuk ou voiture**\n\nUn **tuk-tuk** est ouvert des deux côtés, passe dans les ruelles de la vieille ville, et d'octobre à mars c'est le meilleur trajet. Une **voiture** est climatisée et c'est le choix sensé à partir d'avril.\n\nChoisissez selon le mois plutôt que le prix.\n\n**Fort d'Amber**\n\nLe premier arrêt et le plus grand. Commencé en 1592 par Raja Man Singh dans le grès pâle des Aravalli, sur une crête au-dessus du lac Maota.\n\nLa porte **Ganesh Pol**, plâtre peint sur pierre. Le **Sheesh Mahal**, où des fragments de miroirs convexes incrustés au plafond transformaient une bougie en un plafond plein d'étoiles. Le **Sukh Niwas**, rafraîchi par des canaux d'eau circulant dans ses murs de marbre.\n\nUn tuk-tuk gravit la rampe, lentement.\n\n**Jal Mahal**\n\nUn arrêt photo depuis la chaussée. Quatre des cinq étages sous l'eau ; il n'y a pas de bateau, quoi qu'on vous propose.\n\n**City Palace**\n\nArchitecture moghole et rajpoute à travers des cours, une partie reste la résidence de la famille royale.\n\n**Jantar Mantar**\n\nDix-neuf instruments astronomiques en maçonnerie des années 1730, classé UNESCO, avec un cadran solaire de 27 mètres encore précis à environ deux secondes. Un guide compte ici plus que nulle part ailleurs dans la ville.\n\n**Hawa Mahal**\n\nL'écran à cinq étages de 953 fenêtres sur Sireh Deori Bazaar, le mieux depuis la rue d'en face le matin.\n\n**Quatre options**\n\nDemi-journée en tuk-tuk ; journée complète en tuk-tuk avec chauffeur ; journée complète en voiture avec guide ; ou une visite guidée avec un guide parlant allemand.\n\n**Pratique**\n\nEnviron cinq heures pour la demi-journée, huit pour la complète.\n\nLes frais d'entrée sont payés à chaque site, environ ₹1 500 par personne pour un adulte étranger sur les principaux monuments.",
+  "highlights": [
+   "Profitez d'une visite personnalisée d'une demi-journée avec un guide personnel."
+  ],
+  "included": [
+   "Prise en charge et retour depuis votre hôtel ou l'aéroport",
+   "Voiture privée climatisée ou tuk-tuk avec chauffeur (selon votre choix)",
+   "Guide touristique (si vous choisissez cette option)",
+   "Eau en bouteille gratuite",
+   "Carburant, péages, stationnement et toutes taxes incluses"
+  ],
+  "notIncluded": [
+   "Frais d'entrée à tous les monuments",
+   "Déjeuner dans un restaurant multi-cuisines"
+  ]
+ },
+ "jaipur-private-instagram-tour-of-top-photography-s": {
+  "title": "Jaipur : Visite privée Instagram des meilleurs spots photo",
+  "metaTitle": "Jaipur : visite Instagram, meilleurs spots photo",
+  "metaDescription": "Une journée complète des meilleurs spots photo de Jaipur en tuk-tuk ou voiture, avec un guide qui connaît les angles.",
+  "shortDescription": "Une journée complète des meilleurs spots photo de Jaipur en tuk-tuk ou voiture, avec un guide qui connaît les angles.",
+  "fullDescription": "**Une ville construite sur une grille se photographie différemment**\n\nJai Singh II a tracé Jaipur en 1727 selon un plan de neuf carrés avec des largeurs de rue fixées par règle, et l'architecture qui a suivi est pleine d'arches répétées, de façades en miroir et de géométrie en gradins. C'est pourquoi elle se photographie comme elle le fait.\n\nDix heures avec un guide qui sait à quelle heure chaque lieu fonctionne.\n\n**Porte Patrika**\n\nNeuf arches peintes à Jawahar Circle, chaque surface couverte de peintures murales des régions du Rajasthan, s'estompant en perspective parfaite. L'endroit non-fort le plus photographié de la ville, et animé dès neuf heures, donc allez-y en premier.\n\n**Panna Meena ka Kund**\n\nLe puits à degrés du 16e siècle sous Amber : escaliers symétriques entrecroisés descendant huit étages jusqu'à l'eau. Géométrie d'Escher, et tranquille car les cars le sautent.\n\n**Hawa Mahal**\n\nDepuis la rue d'en face, le matin, quand le soleil est sur la façade. 953 fenêtres sur cinq étages, et à peine un mètre de profondeur, ce qui explique pourquoi il se lit comme un motif plutôt qu'une masse. Il y a un café sur le toit en face de la route que chaque photographe utilise.\n\n**Fort d'Amber**\n\nLa porte **Ganesh Pol**, la chambre des miroirs du **Sheesh Mahal**, et les cours qui s'élèvent le long de la crête au-dessus du lac Maota. Tôt, avant les foules.\n\n**City Palace**\n\n**Pritam Niwas Chowk**, où quatre portes portent chacune une saison et une divinité. La **porte du paon** est celle que tout le monde photographie, et il y a généralement une file de gens en tenues assorties qui l'attendent.\n\n**Gaitor ki Chhatriyan**\n\nLes cénotaphes royaux en marbre blanc sculpté au pied de la colline de Nahargarh, photographiés par presque personne.\n\n**Et une crête au coucher du soleil**\n\nNahargarh, avec toute la ville fortifiée en dessous devenant orange à mesure que les lumières s'allument.\n\n**Deux options**\n\nEn tuk-tuk avec un chauffeur parlant anglais, ou en voiture avec un guide.\n\n**Pratique**\n\nDix heures, commençant avant le lever du soleil. La moitié de ces lieux ne fonctionnent que durant les deux premières heures de lumière.",
+  "highlights": [
+   "Découvrez la beauté de Jaipur avec une visite privée !"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel/aéroport/gare.",
+   "Explorez les lieux les plus instagrammables et photogéniques de Jaipur",
+   "Un guide touristique privé vous accompagnera pour expliquer le patrimoine et l'histoire de la ville.",
+   "Transport en tuk-tuk privé ou en voiture avec un chauffeur amical (option disponible)",
+   "Bouteille d'eau minérale",
+   "Supplément carburant, toutes taxes, frais et frais de gestion.",
+   "Taxes gouvernementales (taxe sur les produits et services)"
+  ],
+  "notIncluded": [
+   "Frais d'entrée aux monuments.",
+   "Tout repas/déjeuner",
+   "Pourboires (facultatif)"
+  ]
+ },
+ "jaipur-private-jaipur-full-or-half-day-guided-tour": {
+  "title": "Jaipur : Visite privée guidée en voiture d'une journée complète ou demi-journée",
+  "metaTitle": "Jaipur : journée/demi-journée guidée en voiture",
+  "metaDescription": "Demi-journée ou journée complète de visites privées de Jaipur en voiture climatisée avec un guide, options billets et déjeuner.",
+  "shortDescription": "Demi-journée ou journée complète de visites privées de Jaipur en voiture climatisée avec un guide, options billets et déjeuner.",
+  "fullDescription": "**Demi-journée ou journée complète, et la différence honnête**\n\nUne **demi-journée** couvre la vieille ville, City Palace, Jantar Mantar, Hawa Mahal, ou le Fort d'Amber et la route pour y aller. Pas les deux.\n\nUne **journée complète** couvre les deux, avec du temps à chacun plutôt qu'un passage rapide, et de la place pour les bazars à la fin.\n\nSi Jaipur est votre seul arrêt au Rajasthan, prenez la journée complète.\n\n**Fort d'Amber**\n\nDans les collines Aravalli au-dessus du lac Maota, commencé en 1592 par Raja Man Singh, général d'Akbar, d'où le travail d'incrustation moghol dans un fort rajpoute.\n\nLa porte **Ganesh Pol** est celle des cartes postales. Le **Sheesh Mahal** derrière elle est la raison d'y entrer : des fragments de miroirs convexes incrustés au plafond pour qu'une seule bougie ressemble à un ciel d'étoiles. Le **Sukh Niwas** était rafraîchi par l'eau circulant dans des canaux à travers le marbre.\n\n**Panna Meena ka Kund**\n\nTout près, et généralement inclus : un puits à degrés du 16e siècle aux escaliers entrecroisés descendant huit étages, tranquille car les cars le sautent.\n\n**Jal Mahal**\n\nDepuis la chaussée. Quatre des cinq étages sous l'eau, pas d'entrée.\n\n**City Palace, Jantar Mantar, Hawa Mahal**\n\nLe groupe de la vieille ville. Le palais reste en partie la résidence royale ; le cadran solaire de 27 mètres de l'observatoire donne l'heure à environ deux secondes près ; et les 953 fenêtres du Hawa Mahal ont été construites comme écran pour le zenana.\n\n**Quatre options**\n\nDemi-journée en voiture avec chauffeur et guide. Journée complète en voiture avec chauffeur et guide. Journée complète avec billets d'entrée inclus. Ou journée complète avec billets et déjeuner.\n\nLes versions incluant les billets valent la vérification par le calcul : environ ₹1 500 par personne pour un adulte étranger.\n\n**Pratique**\n\nVoiture climatisée tout au long, avec prise en charge et retour à l'hôtel. Commencez tôt quelle que soit l'option choisie.",
+  "highlights": [
+   "Découvrez la riche histoire de Jaipur avec une visite guidée privée"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Jaipur",
+   "Chauffeur privé avec voiture climatisée",
+   "Guide de visite privé",
+   "Entrée aux monuments (si option sélectionnée)",
+   "Repas dans un restaurant 5 étoiles (si option sélectionnée)",
+   "Eau minérale dans la voiture",
+   "Tous les frais de véhicule et de voyage",
+   "Toutes taxes applicables"
+  ],
+  "notIncluded": [
+   "Toute boisson servie avec le déjeuner",
+   "Dépenses personnelles",
+   "Pourboires et gratifications"
+  ]
+ },
+ "jaipur-private-luxury-full-day-city-tour-by-car": {
+  "title": "Jaipur : Visite privée de luxe d'une journée complète de la ville en voiture",
+  "metaTitle": "Jaipur : journée de luxe en voiture",
+  "metaDescription": "Une journée complète ou demi-journée privée de Jaipur en voiture climatisée avec un guide, avec option déjeuner cinq étoiles.",
+  "shortDescription": "Une journée complète ou demi-journée privée de Jaipur en voiture climatisée avec un guide, avec option déjeuner cinq étoiles.",
+  "fullDescription": "**Privé, et la journée complète coûte à peine plus que la demi-journée**\n\nRemarquable sur cette annonce : l'écart entre le tarif demi-journée et journée complète est faible. Si vous avez le temps, prenez la journée complète, c'est la différence entre la vieille ville seule et la vieille ville plus le Fort d'Amber.\n\n**Fort d'Amber**\n\nOnze kilomètres au nord sur une crête au-dessus du lac Maota, commencé en 1592 par Raja Man Singh, général d'Akbar.\n\nLa porte **Ganesh Pol** est celle peinte que tout le monde photographie. Le **Sheesh Mahal** derrière elle est la raison d'y entrer, des fragments de miroirs convexes incrustés au plafond pour qu'une bougie remplisse la chambre de points de lumière. Le **Sukh Niwas** était rafraîchi par l'eau circulant dans des canaux des murs de marbre, quatre siècles avant qu'il existe un autre moyen.\n\nEt le **zenana** : douze appartements de reines autour d'une seule cour, avec les couloirs disposés pour que le maharaja puisse visiter l'une sans que les autres ne sachent laquelle.\n\nAllez-y en premier. Amber à neuf heures et Amber à midi ne sont pas la même expérience.\n\n**Jal Mahal**\n\nDepuis la chaussée. Quatre de ses cinq étages sont sous le lac et il n'y a aucun moyen d'y entrer.\n\n**City Palace**\n\nToujours en partie la résidence de l'ancienne famille royale, le drapeau au-dessus du Chandra Mahal vous indique s'ils sont présents. L'armurerie, les galeries textiles, et les deux urnes d'argent du Diwan-i-Khas, les plus grands objets en argent du monde, coulées pour qu'un maharaja puisse transporter de l'eau du Gange en Angleterre.\n\n**Jantar Mantar**\n\nDix-neuf instruments astronomiques en pierre, classé UNESCO, incluant le cadran solaire Samrat Yantra de 27 mètres qui donne encore l'heure à environ deux secondes près.\n\n**Hawa Mahal**\n\nL'écran de 953 fenêtres, le mieux depuis la rue d'en face le matin quand il devient vraiment rose.\n\n**Trois options**\n\nDemi-journée avec voiture et guide ; journée complète avec voiture et guide ; ou la journée complète avec déjeuner dans un hôtel cinq étoiles.\n\n**Pratique**\n\nLes frais d'entrée sont payés à chaque site, environ ₹1 500 par personne pour un adulte étranger sur les principaux monuments.",
+  "highlights": [
+   "Explorez Jaipur, la célèbre Ville Rose, lors d'une visite privée d'une journée complète"
+  ],
+  "included": [
+   "Voiture privée climatisée",
+   "Guide touristique expert",
+   "Déjeuner (si option sélectionnée)"
+  ],
+  "notIncluded": [
+   "Billets d'entrée",
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
