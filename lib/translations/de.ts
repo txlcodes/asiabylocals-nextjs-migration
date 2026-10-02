@@ -10530,6 +10530,103 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittskarten zu den Denkmälern (falls im Paket gewählt)"
   ]
  },
+ "delhi-3-day-golden-triangle-tour-with-german-speak": {
+  "title": "Delhi: 3-tägige Golden-Triangle-Tour mit deutschsprachigem Führer",
+  "metaTitle": "Golden Triangle 3 Tage, deutschsprachiger Führer",
+  "metaDescription": "Drei Tage zwischen Delhi, Agra und Jaipur mit deutschsprachigem Führer, und Hotels von drei bis fünf Sterne.",
+  "shortDescription": "Drei Tage zwischen Delhi, Agra und Jaipur mit deutschsprachigem Führer, und Hotels von drei bis fünf Sterne.",
+  "fullDescription": "**Auf Deutsch, was vorab gebucht werden muss**\n\nIndische Führer sind für bestimmte Sprachen lizenziert, und die deutschsprachigen sind relativ wenige. An den Denkmaltoren findet man Englisch und Hindi, sonst nichts, daher wird ein deutschsprachiger Führer vor der Anreise organisiert, oder gar nicht.\n\nDieser Reiseplan stellt einen für alle drei Tage.\n\n**Tag 1: Delhi, dann Agra**\n\nAbholung in Delhi, Noida oder Gurugram in einem privaten klimatisierten Wagen.\n\nDie Höhepunkte der Hauptstadt: **Qutub Minar**, begonnen 1193, das höchste Backsteinminarett der Welt, mit der rostfreien eisernen Säule im Hof; **Humayuns Grab**, das Gartengrab aus den 1560er Jahren, von dem der Taj abstammt; und **India Gate**.\n\nDann die Yamuna Expressway nach Agra.\n\n**Tag 2: Agra, dann Jaipur**\n\nDer **Taj Mahal** bei Sonnenaufgang, grau, dann rosa, dann weiß, während das Licht über den Fluss kommt, mit einem Bruchteil der Vormittagsmenge.\n\nShah Jahan begann ihn 1632, nachdem Mumtaz Mahal bei der Geburt ihres vierzehnten Kindes gestorben war; zweiundzwanzig Jahre, zwanzigtausend Arbeiter, Marmor aus Makrana, 400 km entfernt.\n\nDas **Agra Fort**, und der **Musamman Burj**, wo Aurangzeb seinen Vater acht Jahre lang in Sichtweite des Taj gefangen hielt.\n\n**Fatehpur Sikri** auf dem Weg nach Westen, Akbars Hauptstadt von 1571, nach vierzehn Jahren verlassen, als das Wasser ausblieb.\n\n**Tag 3: Jaipur**\n\nDas **Amber Fort** früh, dann der **Jal Mahal**, der **City Palace**, das **Jantar Mantar** und der **Hawa Mahal**, bevor es zurück nach Delhi geht.\n\n**Vier Optionen**\n\nOhne Unterkunft, oder mit Drei-, Vier- oder Fünf-Sterne-Hotels.\n\n**Praktisches**\n\n**Der Taj ist freitags geschlossen.**\n\nDeutschsprachige Führer sind in begrenzter Zahl verfügbar, je früher gebucht wird, desto besser, besonders in der Saison von Oktober bis März.\n\nEintrittsgebühren sind separat, sofern Ihre Option sie nicht abdeckt.",
+  "highlights": [
+   "Besuchen Sie den majestätischen Taj Mahal bei Sonnenaufgang mit einem lizenzierten Führer"
+  ],
+  "included": [
+   "2 Nächte Unterkunft in Hotels (falls die Tour mit Hoteloption gewählt wird)",
+   "Tägliches Hotelfrühstück (falls die Tour mit Hoteloption gewählt wird)",
+   "Privates, klimatisiertes Fahrzeug für alle Transfers und Besichtigungen",
+   "Geführte Besichtigungen mit kenntnisreichen lokalen Führern in jeder Stadt",
+   "Batterie-Shuttle-Service zum und vom Parkplatz des Taj Mahal",
+   "Mautgebühren und Parkkosten",
+   "Alle staatlichen Steuern inklusive",
+   "Abholung und Rückbringung zum Hotel oder Flughafen",
+   "Flaschen Mineralwasser während aller Autofahrten",
+   "Abholung angeboten vom Flughafen, Bahnhof, Hotel oder jedem Abholort in Delhi, Noida oder Gurugram",
+   "Engagierte persönliche Betreuung während der gesamten Tour"
+  ],
+  "notIncluded": [
+   "Trinkgelder (optional)",
+   "Eintrittskarten (etwa 65 USD pro Person für alle Denkmäler)",
+   "Mittag- und Abendessen"
+  ]
+ },
+ "delhi-3-day-kasol-tour-with-private-transfers": {
+  "title": "Delhi: 3-tägige Kasol-Tour mit privaten Transfers",
+  "metaTitle": "Kasol in 3 Tagen ab Delhi",
+  "metaDescription": "Drei Tage von Delhi nach Kasol im Parvati-Tal, mit privaten Transfers und den Himalaya-Flussufern.",
+  "shortDescription": "Drei Tage von Delhi nach Kasol im Parvati-Tal, mit privaten Transfers und den Himalaya-Flussufern.",
+  "fullDescription": "**Das Parvati-Tal, zwölf Stunden von Delhi entfernt**\n\nKasol liegt am Fluss Parvati in Himachal Pradesh, auf etwa 1.600 Metern Höhe, und es ist eine andere Art von Bergausflug als Shimla oder Mussoorie, keine Kolonialarchitektur, keine Einkaufsstraße, nur ein Flusstal aus Deodar-Wald, Apfelplantagen und Dörfern aus Stein und Schiefer.\n\nEs hat einen langjährigen Ruf als Rucksacktouristen-Ort, und die Landschaft ist der Grund dafür.\n\n**Die Fahrt**\n\nEine private Limousine oder ein SUV mit Fahrer von Ihrer Tür in Delhi, etwa zwölf Stunden über Chandigarh und Bhuntar, mit der letzten Strecke das Tal entlang am Fluss hinauf.\n\nEs ist lang. Die Straße durch die Parvati-Schlucht ist die Entschädigung.\n\n**Kasol und Umgebung**\n\nDas Dorf selbst ist klein und liegt direkt am Wasser, der Fluss ist laut genug, um ihn ständig zu hören.\n\n**Chalal**, zwanzig Minuten zu Fuß über eine Fußgängerbrücke und durch den Wald, ist noch ruhiger.\n\n**Manikaran**, vier Kilometer flussabwärts, ist der Grund, warum viele kommen: ein Sikh-Gurudwara und Hindu-Tempel, errichtet über **natürlichen heißen Quellen**, die so heiß sind, dass darin gekocht wird, das Langar am Gurudwara kocht seinen Reis und Dal im Quellwasser, und man kann es essen. Pilger baden in den Becken; das Wasser ist an der Quelle wirklich kochend heiß.\n\nEs ist einer der bemerkenswerteren Orte im Himalaya, und fast niemand außerhalb Indiens hat davon gehört.\n\n**Kheerganga**, ein ganzer Tag Wanderung das Tal hinauf zu einer heißen Quelle auf 2.960 Metern, wenn man die Beine dafür hat.\n\n**Praktisches**\n\nPrivate Transfers durchgehend, mit Hotels.\n\n**Der Winter schließt Teile des Tals**, und Schnee kann die obere Straße von Dezember bis Februar blockieren. Mai-Juni und September-Oktober sind die verlässlichen Fenster; der Monsun bringt gerade in diesem Tal Erdrutsche.\n\nKopf bedecken am Gurudwara, Schuhe aus, und das Langar ist für alle kostenlos.",
+  "highlights": [
+   "Genießen Sie ein gehobenes Frühstück und Abendessen in Ihrem Premium-Hotel"
+  ],
+  "included": [
+   "Privater Chauffeur-Limousine oder SUV ab Delhi",
+   "Premium-Boutique-Resort oder Luxus-Campingplatz-Unterkunft",
+   "Gehobenes Frühstück und Abendessen",
+   "Besuch von Manikaran Sahib und den heißen Quellen",
+   "Geführter Naturspaziergang",
+   "Lagerfeuer unter sternenklarem Himmel"
+  ],
+  "notIncluded": [
+   "Mittagessen an Tag 1 und Tag 3",
+   "Persönliche Ausgaben",
+   "Reiseversicherung"
+  ]
+ },
+ "delhi-3-day-private-golden-triangle-experience-wit": {
+  "title": "Delhi: private 3-tägige Golden-Triangle-Erfahrung mit Hotel",
+  "metaTitle": "Privates Golden Triangle 3 Tage, mit Hotel",
+  "metaDescription": "Drei private Tage zwischen Delhi, Agra und Jaipur, 3-Sterne-Hotel mit Frühstück, klimatisiertes Auto und lizenzierte Führer in jeder Stadt.",
+  "shortDescription": "Drei private Tage zwischen Delhi, Agra und Jaipur, 3-Sterne-Hotel mit Frühstück, klimatisiertes Auto und lizenzierte Führer in jeder Stadt.",
+  "fullDescription": "**Drei Tage, so geplant, dass nichts verschwendet wird**\n\nDelhi-Besichtigung am Morgen des ersten Tages und die Fahrt nach Agra am Nachmittag. Das macht ein dreitägiges Golden Triangle funktionstüchtig, statt wie ein Wettrennen zu wirken.\n\n**Tag 1: Delhi, dann Agra**\n\nAbholung von Ihrem Hotel, Flughafen oder Bahnhof.\n\n**Qutub Minar**, eine UNESCO-Welterbestätte, begonnen 1193, 73 Meter geripptes rotes Sandstein und Ziegel, das höchste Minarett seiner Art überhaupt. In seinem Hof die **eiserne Säule**, im 4. Jahrhundert unter den Gupta-Kaisern gefertigt und nach über sechzehnhundert Jahren im Freien noch kaum verrostet.\n\n**Humayuns Grab**, in den 1560er Jahren von der Witwe des Kaisers errichtet: das erste große Mogul-Gartengrab Indiens, mit dem vierteiligen Charbagh, durch Wasserkanäle getrennt, und der Doppelkuppel, die der Taj in größerem Maßstab wiederholte.\n\n**India Gate**, und Alt-Delhi, falls die Zeit es erlaubt.\n\nDann die Yamuna Expressway.\n\n**Tag 2: Agra, dann Jaipur**\n\nDer **Taj Mahal** bei Sonnenaufgang, wenn die Tore eine halbe Stunde vor der Sonne öffnen und der Marmor von Grau über Rosa zu Weiß wechselt.\n\nDanach das **Agra Fort**, und der **Musamman Burj**, der Turm, in dem Aurangzeb seinen Vater die letzten acht Jahre seines Lebens gefangen hielt, mit dem Taj entlang des Flusses sichtbar.\n\n**Fatehpur Sikri** auf dem Weg nach Westen.\n\n**Tag 3: Jaipur**\n\nDas **Amber Fort** früh, dann der **Jal Mahal** vom Damm aus, der **City Palace**, das **Jantar Mantar** und der **Hawa Mahal**, und die Rückfahrt nach Delhi.\n\n**Drei Optionen**\n\nPrivatwagen und Führer; oder mit Drei- oder Vier-Sterne-Hotelunterkunft.\n\n**Praktisches**\n\n**Der Taj ist freitags geschlossen**, was die Reihenfolge der drei Tage bestimmt.\n\nEintrittsgebühren sind separat, sofern nicht anders angegeben, etwa 2.600 ₹ pro Kopf für einen ausländischen Erwachsenen über die drei Städte.",
+  "highlights": [
+   "Entdecken Sie Delhi, Agra, Jaipur mit den berühmtesten historischen Sehenswürdigkeiten Indiens",
+   "03-tägige Golden-Triangle-Tour: Delhi, Agra und Jaipur",
+   "Taj Mahal bei Sonnenaufgang, Agra-Besichtigung und Jaipur-Tour"
+  ],
+  "included": [
+   "Abholung und Rückbringung",
+   "Privates klimatisiertes Fahrzeug mit Fahrer für 03 Tage",
+   "Lizenzierter englischsprachiger Führer in jeder Stadt",
+   "Unterkunft mit Frühstück (falls gewählt)",
+   "Alle anwendbaren Steuern und Mautgebühren"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben",
+   "Eintrittsgebühren",
+   "Hotels (falls Option nicht gebucht)"
+  ]
+ },
+ "delhi-3-nights-4-days-golden-triangle-tour": {
+  "title": "Delhi: Golden-Triangle-Tour, 3 Nächte 4 Tage",
+  "metaTitle": "Golden Triangle, 4 Tage 3 Nächte",
+  "metaDescription": "Vier Tage und drei Nächte zwischen Delhi, Agra und Jaipur mit Hotels, privatem Transport und geführten Besichtigungen.",
+  "shortDescription": "Vier Tage und drei Nächte zwischen Delhi, Agra und Jaipur mit Hotels, privatem Transport und geführten Besichtigungen.",
+  "fullDescription": "**Vier Tage, drei Nächte, alles organisiert**\n\nHotels, Transport, Führer und Transfers in einer Buchung, wobei der Ankunftstag genutzt statt verloren wird.\n\n**Tag 1: Delhi**\n\nEmpfang am Flughafen oder Bahnhof und Transfer zu Ihrem Hotel, mit Frühstück und Zeit zum Auffrischen.\n\nDann **India Gate** am Rajpath, die Fahrt am **Rashtrapati Bhavan** vorbei, 340 Räume unter einer Kuppel, die Lutyens von einem buddhistischen Stupa entlehnte, und **Qutub Minar** oder **Humayuns Grab**, je nach Uhrzeit.\n\nAlt-Delhi, falls der Tag es zulässt: die **Jama Masjid**, und **Chandni Chowk** mit der Fahrradrikscha, immer noch handwerkszweigweise organisiert, dreihundertsiebzig Jahre nachdem Jahanara es anlegte.\n\n**Tag 2: Delhi nach Agra**\n\nDie Yamuna Expressway, etwa dreieinhalb Stunden.\n\nDas **Agra Fort** bei Ankunft, Akbars rote Sandsteinstadt aus 1565 mit Shah Jahans Marmorpalästen im Inneren, und der **Musamman Burj**, der Turm, in dem Aurangzeb ihn die letzten acht Jahre seines Lebens gefangen hielt.\n\n**Mehtab Bagh** auf der anderen Flussseite bei Sonnenuntergang, falls das Licht es erlaubt, für den Spiegelblick auf den Taj.\n\n**Tag 3: Agra nach Jaipur**\n\nDer **Taj Mahal** bei Sonnenaufgang, und dann **Fatehpur Sikri** auf dem Weg nach Westen: das 54 Meter hohe **Buland Darwaza**, der **Panch Mahal**, und das Marmor-Dargah von Salim Chishti, an dessen Gittern noch immer Fäden gebunden werden.\n\n**Tag 4: Jaipur, dann Delhi**\n\nDas **Amber Fort** früh, dann der **City Palace**, das **Jantar Mantar** und der **Hawa Mahal**, und die Rückfahrt.\n\n**Inklusive**\n\nHotels, privater klimatisierter Transport mit Fahrer durchgehend, und lizenzierte lokale Führer.\n\n**Praktisches**\n\n**Der Taj ist freitags geschlossen.** Eintrittsgebühren zu den Denkmälern sind separat, sofern nicht anders angegeben.",
+  "highlights": [
+   "Delhi: India Gate, Qutub Minar, Lotustempel"
+  ],
+  "included": [
+   "Unterkunft für 3 Nächte mit Frühstück",
+   "Tägliches Frühstück im Hotel",
+   "Alle Besichtigungen und Transfers im privaten klimatisierten Fahrzeug",
+   "Professioneller lokaler Führer",
+   "Flughafen-/Bahnhofstransfers in Delhi, Agra und Jaipur",
+   "Wasser in Flaschen während der Fahrt"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren zu den Denkmälern gemäß Reiseplan",
+   "Mittag- und Abendessen"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
