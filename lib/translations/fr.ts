@@ -16569,6 +16569,101 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires du chauffeur et du guide"
   ]
  },
+ "from-jaipur-private-amber-fort-jal-mahal-and-more": {
+  "title": "Depuis Jaipur : Visite privée en voiture du Fort d'Amber, Jal Mahal et plus",
+  "metaTitle": "Depuis Jaipur : Fort d'Amber, Jal Mahal en voiture privée",
+  "metaDescription": "Cinq heures de Jaipur en voiture privée avec guide, Hawa Mahal, Fort d'Amber et Jal Mahal, options déjeuner.",
+  "shortDescription": "Cinq heures de Jaipur en voiture privée avec guide, Hawa Mahal, Fort d'Amber et Jal Mahal, options déjeuner.",
+  "fullDescription": "**Cinq heures, qui couvrent correctement l'essentiel**\n\nPas une journée complète et pas une demi-journée précipitée. Cinq heures avec une voiture privée et un guide pour découvrir la façade, le fort et le lac avec du temps à l'intérieur de chacun plutôt qu'une visite rapide.\n\n**Hawa Mahal**\n\nLà où la visite commence, et dans le bon ordre, la lumière du matin illumine la façade et elle devient vraiment rose pendant environ une heure après le lever du soleil.\n\nConstruit en 1799 par Sawai Pratap Singh comme extension du zenana du City Palace : **953 fenêtres** sur cinq étages, et moins d'un mètre de profondeur sur la plus grande partie de sa hauteur. Le treillis permettait aux femmes de la cour d'observer les processions dans la rue sans être vues, et il accélère la circulation d'air pour refroidir les couloirs derrière, d'où le nom de Palais des Vents.\n\n**Fort d'Amber**\n\nOnze kilomètres au nord sur une crête au-dessus du lac Maota, commencé en 1592 par Raja Man Singh, général d'Akbar, d'où le travail d'incrustation moghol dans un fort rajput.\n\nLa porte peinte **Ganesh Pol**, avec la galerie grillagée au-dessus d'où les arrivées étaient observées sans être vues. Le **Sheesh Mahal**, où des milliers de fragments de miroirs convexes au plafond transformaient une seule bougie en un ciel d'étoiles. Le **Sukh Niwas**, rafraîchi par l'eau circulant dans des canaux taillés dans le marbre.\n\n**Jal Mahal**\n\nDepuis la chaussée au-dessus du lac Man Sagar. Quatre de ses cinq étages sont sous l'eau et il n'y a aucun moyen d'y entrer, ni bateau ni billet, quoi qu'on vous propose au bord de la route.\n\n**Et plus si le temps le permet**\n\n**Panna Meena ka Kund**, le puits à degrés sous Amber, ou le **City Palace** et le **Jantar Mantar** dans la vieille ville.\n\n**Deux options**\n\nVoiture privée, chauffeur et guide ; ou tout inclus avec frais d'entrée et déjeuner.\n\n**Pratique**\n\nCommencez tôt. Amber à neuf heures et Amber à midi sont deux bâtiments différents.\n\nLes frais d'entrée sont d'environ ₹1 000 par personne pour un adulte étranger sur cet itinéraire là où ils ne sont pas inclus.",
+  "highlights": [
+   "Profitez d'un trajet chauffeur avec voiture privée et conducteur"
+  ],
+  "included": [
+   "Visite privée",
+   "Prise en charge et retour à l'hôtel",
+   "Guide de visite privé",
+   "Bouteilles d'eau pendant toute la visite",
+   "Déjeuner buffet (si l'option avec déjeuner est choisie)",
+   "Frais d'entrée aux monuments (si option choisie)",
+   "Transport en voiture privée climatisée",
+   "Toutes taxes, frais et frais de gestion",
+   "Supplément carburant",
+   "TPS (taxe sur les produits et services)",
+   "Soin et attention personnalisés"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "from-jaipur-private-ranthambore-day-trip-with-tige": {
+  "title": "Depuis Jaipur : Excursion privée d'une journée à Ranthambore avec safari tigres",
+  "metaTitle": "Depuis Jaipur : Excursion privée Ranthambore safari",
+  "metaDescription": "Excursion privée d'une journée depuis Jaipur à Ranthambore avec safari en canter ou jeep partagée. Environ quatorze heures.",
+  "shortDescription": "Une excursion privée d'une journée depuis Jaipur à Ranthambore avec un safari en canter ou jeep partagée. Environ quatorze heures.",
+  "fullDescription": "**Quatorze heures, dont six sont de route**\n\nJaipur à Ranthambore, c'est 180 km, trois heures dans chaque sens, et les créneaux de safari sont fixés par le département des forêts, ce qui fait de cette journée une journée de quatorze heures plutôt que dix heures.\n\nIl vaut la peine d'être clair sur ce point avant de réserver. Si vous pouvez vous accorder une nuit au parc, vous obtenez aussi un safari à l'aube, et l'aube est le meilleur créneau.\n\n**Le parc**\n\nRanthambore était une réserve de chasse d'un maharaja avant de devenir un parc national en 1980, ce qui est l'histoire à connaître : le dernier tigre abattu ici par un invité royal l'a été dans les années 1960, et le redressement depuis est la raison pour laquelle il y a quelque chose à voir.\n\n1 300 kilomètres carrés de forêt sèche à feuilles caduques, de prairies et de crêtes, avec des lacs qui concentrent la faune à mesure que la saison sèche s'intensifie. Environ soixante-dix tigres, étonnamment habitués aux véhicules, plusieurs des tigresses résidentes sont connues par leur nom partout en Inde.\n\nLes observations sont une question de chance. Personne ne peut en promettre une et celui qui le fait vous ment.\n\n**Ce que vous verrez dans tous les cas**\n\nDes **sambars** debout jusqu'à la poitrine dans les lacs à manger des plantes aquatiques, des **chitals**, des **nilgaïs**, des **langurs** faisant tomber des fruits pour les cerfs en dessous, des sangliers sauvages, et des **crocodiles des marais** échoués à Padam Talao.\n\nL'avifaune est excellente : aigles serpents à crête, cigognes peintes, martins-pêcheurs, et migrateurs hivernaux sur l'eau.\n\n**Le fort de Ranthambore** se trouve dans la réserve sur une crête de 700 pieds, dixième siècle, classé UNESCO, et toujours un site de temple actif que les pèlerins gravissent à pied en territoire de tigres.\n\n**Deux options**\n\nUn **canter partagé** (vingt places, moins cher, plus bruyant) ou une **jeep partagée** (six places, plus silencieuse, meilleure pour les photos).\n\n**Pratique**\n\nLes zones et permis sont attribués par le département des forêts ; personne ne choisit.\n\n**Le parc est fermé du 1er juillet au 30 septembre.** D'octobre à avril est la saison ; mars et avril offrent les meilleures observations à mesure que l'eau s'assèche.\n\nLes matins d'hiver dans un véhicule ouvert sont froids. Couleurs sourdes, pas de parfum, voix basses.",
+  "highlights": [
+   "Découvrez la beauté sauvage palpitante du parc national de Ranthambore"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Transport en véhicule climatisé",
+   "Transfert aller-retour de Jaipur au parc national de Ranthambore",
+   "Frais d'entrée au parc national, coûts du safari en jeep/canter/bus (si option sélectionnée)",
+   "Frais de carburant, péages routiers et taxes",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Tout repas et boisson",
+   "Toute dépense personnelle",
+   "Pourboires (facultatif)"
+  ]
+ },
+ "from-jaipur-private-ranthambore-park-trip-with-tig": {
+  "title": "Depuis Jaipur : Excursion privée au parc de Ranthambore avec safari tigres",
+  "metaTitle": "Depuis Jaipur : Excursion privée parc Ranthambore",
+  "metaDescription": "Excursion depuis Jaipur à Ranthambore avec safari tigres et voiture privée. Environ huit heures plus le trajet.",
+  "shortDescription": "Une excursion d'une journée depuis Jaipur à Ranthambore avec un safari tigres et une voiture privée. Environ huit heures plus le trajet.",
+  "fullDescription": "**Ranthambore en une journée depuis Jaipur**\n\n180 km, environ trois heures dans chaque sens, avec un départ à 8h30. C'est une longue journée et c'est le seul moyen de voir Ranthambore sans passer une nuit sur place, mais si vous pouvez vous accorder une nuit, rester vous donne un safari à l'aube, qui est le meilleur créneau.\n\n**Le parc**\n\n1 300 kilomètres carrés de forêt sèche à feuilles caduques, de prairies et de crêtes rocheuses, avec des lacs qui concentrent la faune à mesure que la saison sèche s'intensifie. Environ soixante-dix tigres vivent ici.\n\nCe qui fait de Ranthambore le meilleur parc à tigres du nord de l'Inde n'est pas le nombre mais le comportement : ces animaux sont étonnamment habitués aux véhicules, et plusieurs des tigresses résidentes ont été photographiées si souvent qu'elles sont connues par leur nom partout en Inde.\n\nLes observations restent une question de chance. Personne ne peut vous promettre un tigre et celui qui le fait vous ment.\n\n**Ce qui est certain**\n\nDes **sambars** debout dans les lacs à manger des plantes aquatiques, des **chitals**, des **nilgaïs**, des **langurs** faisant tomber des fruits pour les cerfs en dessous, des sangliers sauvages, et des **crocodiles des marais** échoués à Padam Talao.\n\nL'avifaune est excellente, aigles serpents à crête, cigognes peintes, martins-pêcheurs, et en hiver les canards migrateurs sur les lacs.\n\n**Le fort**\n\n**Le fort de Ranthambore** se trouve dans la réserve sur une crête de 700 pieds, dixième siècle, classé UNESCO et toujours un site de temple en activité, les pèlerins montent à pied jusqu'au temple de Ganesh, en territoire de tigres. Il est visible depuis la plupart des zones de safari et c'est ce qui rend ce parc différent de tous les autres.\n\n**Pratique**\n\nLes zones de safari et les permis sont attribués par le **département des forêts** ; personne ne choisit sa zone, nous non plus. Vous serez dans une **gypsy** ouverte (six places) ou un **canter** (vingt).\n\n**Le parc est fermé du 1er juillet au 30 septembre** pour la mousson. D'octobre à avril est la saison, et mars à avril offre les meilleures observations à mesure que l'eau s'assèche.\n\nLes matins d'hiver dans un véhicule ouvert sont froids. Couleurs sourdes, pas de parfum, et gardez la voix basse.",
+  "highlights": [
+   "Ranthambore"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel depuis Jaipur",
+   "Billets d'entrée au parc national de Ranthambore",
+   "Accès sans file d'attente",
+   "Safari en jeep dans la jungle"
+  ],
+  "notIncluded": [
+   "Déjeuner à Ranthambore",
+   "Toute dépense personnelle",
+   "Pourboires"
+  ]
+ },
+ "from-jaipur-private-ranthambore-tour-by-car": {
+  "title": "Depuis Jaipur : Visite privée de Ranthambore en voiture",
+  "metaTitle": "Depuis Jaipur : Visite privée Ranthambore en voiture",
+  "metaDescription": "Excursion privée d'une journée depuis Jaipur à Ranthambore avec safari en canter ou jeep, et option déjeuner.",
+  "shortDescription": "Une excursion privée d'une journée complète depuis Jaipur à Ranthambore avec safari en canter ou jeep, et option déjeuner.",
+  "fullDescription": "**Canter ou gypsy, et la différence est réelle**\n\nLes deux sont des véhicules ouverts et les deux vont dans les mêmes zones, mais ce n'est pas la même expérience.\n\nUn **canter** compte environ vingt places. Il est moins cher, plus bruyant, et lors d'une bonne observation, vous regardez par-dessus les téléphones levés de quatre autres personnes.\n\nUne **gypsy** compte six places. Plus silencieuse, plus maniable, et le chauffeur peut la positionner pour vous plutôt que pour le groupe. Pour les photographes, c'est la seule vraie option, et une gypsy privée est encore mieux.\n\nVérifiez laquelle votre réservation inclut.\n\n**Le parc**\n\n1 300 kilomètres carrés de forêt sèche à feuilles caduques, de prairies et de crêtes, à environ 180 km de Jaipur, trois heures dans chaque sens.\n\nEnviron soixante-dix tigres vivent ici, et la réputation de Ranthambore repose sur le fait qu'ils sont étonnamment habitués aux véhicules. Plusieurs des tigresses résidentes ont été photographiées si souvent qu'elles sont connues par leur nom partout en Inde.\n\nLes observations restent une question de chance. Personne ne peut en promettre une.\n\n**Ce que vous verrez certainement**\n\nDes **sambars** debout jusqu'à la poitrine dans les lacs, des **chitals**, des **nilgaïs**, des **langurs**, des sangliers sauvages, et des **crocodiles des marais** à Padam Talao. Une avifaune excellente, aigles serpents à crête, cigognes peintes, martins-pêcheurs, et migrateurs hivernaux sur l'eau.\n\n**Le fort de Ranthambore** se trouve dans la réserve sur une crête de 700 pieds : dixième siècle, classé UNESCO, et toujours un site de temple actif que les pèlerins gravissent à pied, en territoire de tigres.\n\n**Trois options**\n\nVoiture avec un safari en canter le soir ; un safari en jeep privée partagée avec déjeuner ; ou un safari en jeep entièrement privée.\n\n**Pratique**\n\nLes zones et permis de safari sont attribués par le **département des forêts** ; personne ne choisit sa zone.\n\n**Le parc est fermé du 1er juillet au 30 septembre.** D'octobre à avril est la saison ; mars et avril offrent les meilleures observations à mesure que l'eau s'assèche.\n\nLes matins d'hiver dans un véhicule ouvert sont véritablement froids. Couleurs sourdes, pas de parfum, voix basses.",
+  "highlights": [
+   "Plongez dans une aventure de safari de 3 à 4 heures, au plus près de la nature."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Véhicule privé climatisé",
+   "Billets d'entrée dans le parc",
+   "Si l'option (Safari en jeep/canter) est sélectionnée",
+   "Guide de la zone forestière au parc national",
+   "Frais de carburant, péages routiers et taxes",
+   "Eau en bouteille",
+   "WiFi"
+  ],
+  "notIncluded": [
+   "Tout repas et boisson.",
+   "Toute dépense personnelle",
+   "Pourboires (facultatif)"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
