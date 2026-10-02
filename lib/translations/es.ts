@@ -4805,6 +4805,99 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas (opcionales)"
   ]
  },
+ "from-delhi-all-inclusive-taj-mahal-tour-by-gatimaa": {
+  "title": "Desde Delhi: Taj Mahal todo incluido con el Gatimaan Express",
+  "metaTitle": "Delhi-Taj Mahal todo incluido con el Gatimaan Express",
+  "metaDescription": "Una jornada todo incluido en Agra desde Delhi con el Gatimaan Express, con guía, coche privado, comida y entradas.",
+  "shortDescription": "Una jornada todo incluido en Agra desde Delhi con el Gatimaan Express, con guía, coche privado, comida y entradas.",
+  "fullDescription": "**La versión en la que no queda nada por pagar**\n\nTren en los dos sentidos, coche y guía en Agra, comida, y todas las entradas, que en el Taj y el fuerte suman unos 1,950 ₹ por adulto extranjero. Las opciones todo incluido cubren todo eso, así que lo único que lleva es el pasaporte.\n\n**La mañana**\n\nRecogida temprana en cualquier punto de la región de Delhi, y luego la estación de **Hazrat Nizamuddin** para el **Gatimaan Express**, el tren más rápido de la India, 160 km/h, Delhi-Agra en cien minutos con desayuno servido en el asiento.\n\n**Agra**\n\nUn coche privado con aire acondicionado y un guía autorizado le reciben en Agra Cantt.\n\n**Taj Mahal.** Shah Jahan lo empezó en 1632, el año siguiente a la muerte de Mumtaz Mahal al dar a luz a su decimocuarto hijo. Veinte mil obreros, veintidós años, mármol de Makrana, a 400 km.\n\nLo que le aporta un guía: la **caligrafía** del gran arco, labrada en letras cada vez más grandes para que parezca de la misma altura desde el suelo; las incrustaciones de **pietra dura**, donde una sola flor puede llevar sesenta piedras; los cuatro **alminares**, inclinados mínimamente hacia fuera para que un terremoto los dejara caer lejos de la tumba; la ilusión de la puerta, donde el edificio parece encogerse a medida que uno se acerca; y la única asimetría deliberada, el cenotafio de Shah Jahan, colocado fuera de eje por Aurangzeb.\n\n**El Fuerte de Agra.** La ciudad de arenisca roja de Akbar, de 1565, con los palacios de mármol de Shah Jahan dentro, el **Diwan-i-Am**, el **Khas Mahal**, el **Sheesh Mahal**, y el **Musamman Burj**, donde Aurangzeb encerró a su padre ocho años, con el Taj visible río abajo.\n\nComida, y luego el tren de la tarde de vuelta.\n\n**Cuatro opciones**\n\nSolo guía; coche y guía en Agra; o la jornada todo incluido con viaje en tren de segunda o primera clase.\n\n**Práctico**\n\nUnas diez horas de puerta a puerta. El Gatimaan no circula los viernes, que es también el día en que cierra el Taj.\n\nLas plazas de tren son limitadas: cuanto antes se reserve, mejor.",
+  "highlights": [
+   "Viaje de ida y vuelta en el tren más rápido de la India, el Gatimaan Express Delhi-Agra."
+  ],
+  "included": [
+   "Recogida y regreso en el hotel o el aeropuerto",
+   "Coche privado con aire acondicionado y conductor para toda la visita",
+   "Guía turístico experto autorizado por el gobierno",
+   "Billetes de tren de ida y vuelta (en la opción elegida)",
+   "Entradas a los monumentos (en la opción elegida)",
+   "Comida en restaurante (en la opción elegida)",
+   "Botella de agua mineral",
+   "Todos los peajes y gastos de aparcamiento"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
+  ]
+ },
+ "from-delhi-luxury-same-day-taj-mahal-tour-by": {
+  "title": "Desde Delhi: excursión de lujo al Taj Mahal en el día en todoterreno",
+  "metaTitle": "Delhi-Taj Mahal en todoterreno: excursión de lujo en el día",
+  "metaDescription": "Una excursión al Taj Mahal en el día desde Delhi en todoterreno privado, vehículo según su grupo y un guía en Agra.",
+  "shortDescription": "Una excursión al Taj Mahal en el día desde Delhi en todoterreno privado, vehículo según su grupo y un guía en Agra.",
+  "fullDescription": "**Un todoterreno, que importa en un día de catorce horas**\n\nLa excursión estándar de un día desde Delhi se hace en sedán. Para tres o más personas, o para cualquiera de más de un metro ochenta, un todoterreno marca la diferencia entre un día largo y uno incómodo: más espacio para las piernas, asientos más altos, y maletero que no obliga a llevar las bolsas en el regazo.\n\nLos vehículos se ajustan al tamaño del grupo, todos con aire acondicionado, con conductor profesional.\n\n**La carretera**\n\nRecogida temprana en su hotel en Delhi, y luego la **Yamuna Expressway**, una carretera moderna de seis carriles, de tres a tres horas y media con una parada.\n\n**Taj Mahal**\n\nUn guía autorizado le recibe en Agra.\n\nShah Jahan lo empezó en 1632, el año siguiente a la muerte de Mumtaz Mahal al dar a luz a su decimocuarto hijo. Veinte mil obreros, veintidós años, mármol acarreado 400 km desde Makrana, en Rajastán.\n\nLo que vale la pena que le señalen: la **caligrafía** del gran arco, labrada en tamaños crecientes para que se lea a la misma altura desde el suelo; las incrustaciones de **pietra dura**, donde una sola flor puede llevar sesenta piedras distintas; los cuatro **alminares**, inclinados mínimamente hacia fuera para que un terremoto los dejara caer lejos de la tumba; y la ilusión de la puerta, donde el edificio parece encogerse a medida que uno se acerca.\n\nY la única ruptura deliberada de la simetría, el cenotafio de Shah Jahan, colocado fuera de eje junto al de su esposa por Aurangzeb.\n\n**El Fuerte de Agra**\n\nLa ciudad de arenisca roja de Akbar, de 1565, con los palacios de mármol de Shah Jahan dentro, y el **Musamman Burj**, la torre octogonal donde Aurangzeb tuvo preso a su padre ocho años, con el Taj visible río abajo.\n\n**Tres opciones**\n\nUna excursión local por Agra en todoterreno; la excursión desde Delhi en todoterreno; o la excursión desde Delhi con guía incluido.\n\n**Práctico**\n\n**El Taj cierra los viernes.**\n\nLas entradas se pagan el mismo día salvo que su opción las cubra, 1,300 ₹ por persona en el Taj para un adulto extranjero con el mausoleo, 650 ₹ en el fuerte.",
+  "highlights": [
+   "Excursión al Taj Mahal en el día desde Delhi en cómodo todoterreno privado"
+  ],
+  "included": [
+   "Todoterreno privado con aire acondicionado (Toyota Innova Crysta, Kia Carens o similar)",
+   "Conductor profesional y experimentado",
+   "Todos los peajes, aparcamiento, combustible e impuestos de carretera",
+   "Recogida y regreso en el hotel en toda la región de Delhi",
+   "Agua potable embotellada",
+   "Trayecto por la Yamuna Expressway",
+   "Asistencia para entrada sin colas con entradas al Taj Mahal incluidas",
+   "Transporte privado cómodo durante toda la visita"
+  ],
+  "notIncluded": [
+   "Propinas o gratificaciones",
+   "Gastos personales"
+  ]
+ },
+ "from-delhi-overnight-agrataj-mahal-tour-with-fateh": {
+  "title": "Desde Delhi, con una noche: Agra y el Taj Mahal con Fatehpur Sikri",
+  "metaTitle": "Delhi: Agra en dos días con noche y Fatehpur Sikri",
+  "metaDescription": "Una noche entre Delhi y Agra con el Fuerte de Agra, una puesta de sol en Mehtab Bagh, el Taj al amanecer y Fatehpur Sikri.",
+  "shortDescription": "Una noche entre Delhi y Agra con el Fuerte de Agra, una puesta de sol en Mehtab Bagh, el Taj al amanecer y Fatehpur Sikri.",
+  "fullDescription": "**Una noche, y tres sitios de la UNESCO sin correr**\n\nLa versión de excursión de un día de este itinerario comprime el Taj, el fuerte y Fatehpur Sikri en trece horas, siete de ellas en coche. Una noche en Agra le da en su lugar el Taj al amanecer y Fatehpur Sikri con una mañana despejada.\n\n**Día 1: Delhi a Agra**\n\nRecogida en su hotel o en el aeropuerto, y luego la Yamuna Expressway, tres o cuatro horas.\n\n**El Fuerte de Agra** por la tarde con su guía. Akbar lo empezó en 1565 en arenisca roja; Shah Jahan reemplazó buena parte del interior en mármol. El **Diwan-i-Am**, el **Khas Mahal**, el **Sheesh Mahal**, y el **Musamman Burj**, donde Aurangzeb tuvo preso a su padre ocho años, con el Taj a la vista río abajo.\n\n**Mehtab Bagh** al atardecer, el jardín mogol justo enfrente, al otro lado del Yamuna, trazado exactamente sobre el eje del Taj. De aquí salen las fotos del reflejo, y es el único sitio para encuadrar el edificio con agua y sin gente.\n\nNoche en Agra.\n\n**Día 2: amanecer, y luego Fatehpur Sikri**\n\nEl **Taj Mahal** cuando abren las puertas. Gris, luego rosa, luego blanco, con una fracción de la gente de media mañana.\n\nSu guía le mostrará la **caligrafía** labrada más grande a medida que sube para que se lea a una altura uniforme desde el suelo, las flores de **pietra dura** hechas de decenas de piedras, los **alminares** inclinados hacia fuera para que un terremoto los dejara caer lejos de la tumba, y la única ruptura de la simetría.\n\nLuego 40 km al oeste hasta **Fatehpur Sikri**: la capital de Akbar, construida en 1571 y abandonada en 1585 cuando faltó el agua, y completa precisamente por eso. El **Buland Darwaza** de 54 metros, el **Panch Mahal** que retrocede a lo largo de cinco plantas abiertas, el **Diwan-i-Khas** y su único pilar labrado, y el **dargah de mármol de Salim Chishti**.\n\nVuelta a Delhi por la tarde.\n\n**Tres opciones**\n\nCoche, conductor y guía con su propia habitación; o con un hotel de tres o cinco estrellas, entradas y guía incluidos.\n\n**El Taj cierra los viernes.**",
+  "highlights": [
+   "Visite el Taj Mahal y el Fuerte de Agra, declarados por la UNESCO, con un guía experto."
+  ],
+  "included": [
+   "Recogida y regreso en el hotel o el aeropuerto",
+   "Coche privado con aire acondicionado y conductor para toda la visita",
+   "Guía turístico profesional",
+   "1 noche de alojamiento con desayuno (en la opción elegida)",
+   "Entradas a los monumentos (en la opción elegida)",
+   "Botella de agua mineral",
+   "Todos los peajes y gastos de aparcamiento"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
+  ]
+ },
+ "from-delhi-overnight-tajmahalagra-tour-with-fatehp": {
+  "title": "Desde Delhi: Taj Mahal y Agra con una noche y Fatehpur Sikri",
+  "metaTitle": "Delhi-Agra con noche: Taj al amanecer y Fatehpur Sikri",
+  "metaDescription": "Una noche entre Delhi y Agra, el Taj al amanecer, el Fuerte de Agra y Fatehpur Sikri, con opciones de hotel.",
+  "shortDescription": "Una noche entre Delhi y Agra, el Taj al amanecer, el Fuerte de Agra y Fatehpur Sikri, con opciones de hotel.",
+  "fullDescription": "**Una noche, y todo el día deja de ser una carrera**\n\nLa versión de un solo día de este itinerario funciona, y es agotadora. Añadir una noche en Agra le da dos cosas que no se pueden comprar de otro modo: el Taj al amanecer, y Fatehpur Sikri con una mañana tranquila en lugar de cuarenta minutos antes de volver.\n\n**Primer día**\n\nPor la Yamuna Expressway desde Delhi, unas tres horas y media.\n\n**El Fuerte de Agra** por la tarde. Akbar lo construyó desde 1565 en arenisca roja; Shah Jahan reconstruyó el interior en mármol. El **Diwan-i-Am**, el **Khas Mahal**, el **Sheesh Mahal**, y el **Musamman Burj**, la torre donde Aurangzeb tuvo preso a su padre ocho años, con el Taj visible río abajo.\n\n**Mehtab Bagh**, al otro lado del Yamuna, al atardecer si la luz lo permite, para la vista del reflejo.\n\nNoche en Agra.\n\n**Segundo día: amanecer**\n\nLas puertas abren media hora antes del sol. El mármol se lee gris, luego rosa, luego blanco frío; en invierno hay niebla sobre el río detrás de la cúpula. La gente a esa hora es una quinta parte de la que habrá a las diez.\n\nSu guía cubre la **caligrafía** labrada en tamaños crecientes para que se lea de manera uniforme desde el suelo, las flores de **pietra dura** con decenas de piedras cada una, los **alminares** inclinados hacia fuera para que un terremoto los dejara caer lejos de la tumba, y la única asimetría de toda la composición.\n\n**Fatehpur Sikri**\n\nLuego hacia el oeste, 40 km. La capital de Akbar de 1571, abandonada tras catorce años cuando faltó el agua, la ciudad mogol más completa que existe, porque nadie se quedó el tiempo suficiente para modificarla.\n\nEl **Buland Darwaza**, 54 metros de puerta; el **Panch Mahal**, cinco plantas abiertas que retroceden; el **Diwan-i-Khas** con su único pilar labrado; y el **dargah de mármol de Salim Chishti**, el santo cuya bendición Akbar atribuyó al nacimiento de su hijo.\n\nVuelta a Delhi por la tarde.\n\n**Tres opciones**\n\nCoche, conductor y guía con su propia habitación, o con un hotel de tres o cinco estrellas incluido.\n\n**El Taj cierra los viernes**, lo que fija las fechas de salida posibles.",
+  "highlights": [
+   "Disfrute de un traslado cómodo entre Delhi y Agra en un vehículo con aire acondicionado."
+  ],
+  "included": [
+   "Recogida y regreso en el hotel o el aeropuerto",
+   "Coche privado con aire acondicionado y conductor para toda la visita",
+   "Guía turístico profesional",
+   "1 noche de alojamiento en hotel (en la opción elegida)",
+   "Desayuno en el hotel",
+   "Botella de agua mineral",
+   "Todos los peajes y gastos de aparcamiento"
+  ],
+  "notIncluded": [
+   "Comida y cena",
+   "Entradas a los monumentos",
+   "Cualquier gasto personal"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Reserve un guía oficial para recorrer Bengaluru",
   "metaTitle": "Bengaluru con guía: palacios, Lalbagh, templos y bazares",
