@@ -5661,6 +5661,50 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "from-jaipur-private-taj-mahal-sunrise-agra-fort-to": {
+  "title": "Ab Jaipur: private Tour zu Taj Mahal bei Sonnenaufgang und Agra Fort",
+  "metaTitle": "Jaipur-Taj Mahal bei Sonnenaufgang und Agra Fort",
+  "metaDescription": "Der Sonnenaufgang am Taj Mahal und das Agra Fort ab Jaipur, mit Privatwagen, Guide und Komplettoption.",
+  "shortDescription": "Der Sonnenaufgang am Taj Mahal und das Agra Fort ab Jaipur, mit Privatwagen, Guide und Komplettoption.",
+  "fullDescription": "**Von Jaipur zum Taj für den Sonnenaufgang**\n\nJaipur nach Agra sind 240 km, vier bis fünf Stunden über Bharatpur. Um zur Toröffnung dort zu sein, fährt man mitten in der Nacht los, was unvernünftig klingt und der einzige Weg ist, den Sonnenaufgang ohne Hotelwechsel zu bekommen.\n\nAbholung am Flughafen Jaipur oder an jedem Hotel der Stadt, im privaten klimatisierten Wagen.\n\n**Sonnenaufgang am Taj**\n\nDie Tore öffnen eine halbe Stunde vor der Sonne. Der Marmor erscheint erst grau, dann rosa, dann kalt weiß, während das Licht über das gegenüberliegende Ufer der Yamuna kommt; im Dezember und Januar liegt Nebel auf dem Fluss hinter der Kuppel, und die Menge ist ein Fünftel dessen, was sie bis zum späten Vormittag wird.\n\nShah Jahan begann ihn 1632, im Jahr nachdem Mumtaz Mahal bei der Geburt ihres vierzehnten Kindes gestorben war. Zwanzigtausend Arbeiter, zweiundzwanzig Jahre, und Marmor über 400 km aus Makrana herangekarrt, denselben rajasthanischen Steinbrüchen, die die Hälfte des Marmors geliefert haben, den Sie in Jaipur gesehen haben werden.\n\nIhr Guide behandelt die **Kalligrafie**, in wachsenden Größen geschnitten, damit sie vom Boden aus gleich hoch erscheint, die **Pietra-dura**-Einlagen mit bis zu sechzig Steinen pro Blüte, die vier **Minarette**, nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg nähme, und die einzige Asymmetrie im ganzen Bau, Shah Jahans eigenes Kenotaph, von Aurangzeb außerhalb der Achse gesetzt.\n\n**Agra Fort**\n\nAkbars Stadt aus rotem Sandstein von 1565 mit den Marmorpalästen seines Enkels darin: der **Diwan-i-Am**, der **Sheesh Mahal**, und der **Musamman Burj**, der Turm, in dem dieser Enkel seine letzten acht Jahre als Gefangener verbrachte und flussabwärts auf das Grabmal blickte, das er hatte bauen lassen.\n\n**Drei Optionen**\n\nNur Guide; Guide mit Transport; oder komplett mit Transport, Eintrittskarten und Mittagessen.\n\n**Praktisch**\n\nSieben Stunden Besichtigung plus rund zehn Stunden Fahrt, ein langer Tag mit Start vor Tagesanbruch.\n\n**Der Taj ist freitags geschlossen.** Der Eintritt beträgt 1,300 ₹ pro ausländischem Erwachsenen mit Mausoleum, 650 ₹ am Fort, sofern Ihre Option sie nicht abdeckt.",
+  "highlights": [
+   "Sehen Sie den Taj Mahal bei Sonnenaufgang erstrahlen, ein atemberaubendes Symbol der Liebe"
+  ],
+  "included": [
+   "Abholung am Flughafen Jaipur, am Bahnhof, Hotel oder jedem anderen Ort",
+   "Fahrt im privaten klimatisierten Wagen (bei gewählter Option)",
+   "Eintrittskarten ohne Anstehen für die Monumente (bei gewählter Option)",
+   "Mittagsbuffet in einem lokalen Restaurant (bei gewählter Option)",
+   "Geführte Besichtigungen mit einem lokalen Reiseleiter",
+   "Fahrt mit dem Elektrobus zwischen dem Parkplatz des Taj Mahal und dem Monument",
+   "Mineralwasser in Flaschen während der Fahrt"
+  ],
+  "notIncluded": [
+   "Trinkgelder und persönliche Ausgaben"
+  ]
+ },
+ "from-jaipur-taj-mahal-agra-fort-baby-taj-day": {
+  "title": "Ab Jaipur: Taj Mahal, Agra Fort und Baby Taj im Wagen",
+  "metaTitle": "Jaipur-Taj Mahal, Agra Fort und Baby Taj, ein Tag",
+  "metaDescription": "Taj Mahal, Agra Fort und Baby Taj ab Jaipur im Wagen, mit Startoptionen ab Agra und Delhi.",
+  "shortDescription": "Taj Mahal, Agra Fort und Baby Taj ab Jaipur im Wagen, mit Startoptionen ab Agra und Delhi.",
+  "fullDescription": "**Ab Jaipur, und die Fahrt gehört dazu**\n\nJaipur nach Agra sind 240 km über Bharatpur, vier Stunden auf passabler Straße, mit **Fatehpur Sikri** und dem Stufenbrunnen **Chand Baori**, beide nah genug, um sie hinzuzufügen, wenn der Zeitplan es erlaubt.\n\nDas Angebot führt auch Optionen mit Start in Agra und Delhi, prüfen Sie also, welche Sie buchen.\n\n**Taj Mahal**\n\nShah Jahan begann ihn 1632, im Jahr nachdem Mumtaz Mahal bei der Geburt ihres vierzehnten Kindes gestorben war. Zweiundzwanzig Jahre, zwanzigtausend Arbeiter, und Marmor aus **Makrana** herangekarrt, das in Rajasthan liegt, etwa drei Stunden von dort, wo diese Tour beginnt. Der Taj ist, materiell betrachtet, ein rajasthanischer Bau, zusammengesetzt in Uttar Pradesh.\n\nIhr englischsprachiger Guide behandelt die **Kalligrafie**, in wachsenden Größen geschnitten, damit sie vom Boden aus gleich hoch erscheint; die **Pietra-dura**-Einlagen mit bis zu sechzig Steinen pro Blüte; die vier **Minarette**, nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg fallen ließe; und die einzige Asymmetrie, Shah Jahans eigenes Kenotaph, von Aurangzeb außerhalb der Achse gesetzt.\n\n**Agra Fort**\n\nAkbars Stadt aus rotem Sandstein von 1565 mit Shah Jahans Marmorpalästen darin, und der **Musamman Burj**, wo Aurangzeb seinen Vater die letzten acht Jahre seines Lebens gefangen hielt, mit dem Taj sichtbar am Fluss.\n\n**Itimad-ud-Daulah, der Baby Taj**\n\nDer Bau, den die meisten Tagestouren auslassen, und der, der den Taj möglich machte. Nur Jahan ließ ihn zwischen 1622 und 1628 für ihren Vater bauen, das erste ganz marmorne Mogulbauwerk und das erste in Indien, das Pietra dura verwendet. Kleiner, feiner eingelegt, und fast immer leer.\n\n**Fünf Optionen**\n\nNur Guide mit Start in Agra; ab Jaipur mit Wagen, Fahrer und Guide; ab Delhi mit Wagen, Fahrer und Guide; ab Jaipur ohne Tickets; oder ab Jaipur mit Tickets und Mittagessen.\n\n**Praktisch**\n\nAcht Stunden Besichtigung plus rund acht Stunden Fahrt bei den Jaipur-Optionen.\n\n**Der Taj ist freitags geschlossen.**",
+  "highlights": [
+   "Erleben Sie die Schönheit des Taj Mahal und des Agra Fort"
+  ],
+  "included": [
+   "Abholung und Rückfahrt von jedem Hotel in Jaipur",
+   "Private Besichtigungen im klimatisierten Wagen mit Chauffeur",
+   "Reiseleiter vor Ort (in Ihrer gewünschten Sprache)",
+   "Köstliches Mittagessen in einem internationalen Restaurant in Agra (falls diese Option gebucht wird)",
+   "Eintrittskarten für Taj Mahal, Agra Fort und Baby Taj (falls diese Option gebucht wird)",
+   "Flaschen mit Mineralwasser",
+   "Treibstoffkosten und alle Steuern"
+  ],
+  "notIncluded": [
+   "Gratifikationen: Trinkgelder für Guide und Fahrer"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Offiziellen Guide für die Erkundung von Bengaluru buchen",
   "metaTitle": "Bengaluru mit Guide: Paläste, Lalbagh, Tempel und Basare",
