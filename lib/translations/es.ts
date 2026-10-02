@@ -6257,6 +6257,49 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas para el conductor y el guía"
   ]
  },
+ "taj-mahal-instagram-photography-tour-w-expert-phot": {
+  "title": "Taj Mahal: sesión de fotos para Instagram con fotógrafo experto",
+  "metaTitle": "Taj Mahal: sesión de fotos para Instagram, fotógrafo experto",
+  "metaDescription": "Una sesión de fotos al amanecer en el Taj Mahal con un guía-fotógrafo que conoce cada ángulo. Imágenes editadas incluidas.",
+  "shortDescription": "Una sesión de fotos al amanecer en el Taj Mahal con un guía-fotógrafo que conoce cada ángulo. Imágenes editadas incluidas.",
+  "fullDescription": "**Una sesión de fotos que resulta estar en el Taj Mahal**\n\nEsto no es una visita turística con fotos añadidas. El guía-fotógrafo planifica la secuencia según la luz, le coloca, dirige las poses, y recorre el recinto en el orden que dicta el sol. Después se lleva un set editado.\n\n**Por qué precisamente el amanecer**\n\nLas puertas abren media hora antes del amanecer. En los primeros cuarenta minutos la gente es una fracción de lo que llega a ser, lo que significa que el banco central y el canal de agua son de verdad fotografiables, y el mármol pasa por el gris, el rosa y el dorado antes de asentarse en blanco.\n\nA las nueve la luz es plana y hay doscientas personas en el eje. Toda la visita depende de llegar temprano.\n\n**La lista de fotos**\n\nEl **banco de Diana** con la cúpula centrada y nadie detrás de usted. El **reflejo** en el estanque largo. **Siluetas** contra el sol naciente. **Perspectiva forzada**, el pellizco, la palma, sostener, más divertido de hacer que de leer. **Encuadres a través de arcos** en la puerta y a lo largo de la columnata de la mezquita. Retratos en la **arenisca roja** del Darwaza, donde la piedra cálida contrasta con el mármol blanco.\n\nSi tiene algo concreto en mente, traiga referencias; es un fotógrafo solo para usted, no un grupo.\n\n**Cuatro opciones**\n\nSolo guía-fotógrafo, si organiza usted mismo la entrada y el transporte. La visita estándar. Fotógrafo con entradas al Taj. O todo incluyendo un coche privado.\n\n**Práctico**\n\n**El Taj cierra los viernes.**\n\nNi trípodes, ni drones, ni bolsas grandes, la seguridad es estricta y no se negocia en la puerta. Todo se fotografía a pulso.\n\nLleve algo que mantenga el color contra el mármol blanco; el rojo, el amarillo y el azul intenso quedan mucho mejor que el blanco o el beis. Se pueden organizar saris y lehengas localmente si lo desea.\n\nLa entrada para extranjeros es de 1,100 ₹, más 200 ₹ por la cámara del mausoleo.",
+  "highlights": [
+   "Capture la belleza emblemática del Taj Mahal con un fotógrafo profesional."
+  ],
+  "included": [
+   "Recogida y regreso en el hotel o el aeropuerto",
+   "Coche privado con aire acondicionado y conductor para los traslados",
+   "Guía experto y fotógrafo autorizado por el gobierno",
+   "Entradas al Taj Mahal (en la opción elegida)",
+   "Botella de agua mineral",
+   "Todos los peajes y gastos de aparcamiento"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
+  ]
+ },
+ "taj-mahal-meal-guided-tour": {
+  "title": "Desde Delhi: Taj Mahal y Agra en coche con comida de 5 estrellas",
+  "metaTitle": "Delhi-Taj Mahal y Agra: comida de 5 estrellas, salida temprana",
+  "metaDescription": "Un día en el Taj Mahal y Agra desde Delhi en coche privado con guía y una comida de cinco estrellas opcional. Unas siete horas.",
+  "shortDescription": "Un día en el Taj Mahal y Agra desde Delhi en coche privado con guía y una comida de cinco estrellas opcional. Unas siete horas.",
+  "fullDescription": "**Una recogida temprana es todo el truco**\n\nLa diferencia entre un buen día en Agra y uno largo es la hora a la que se sale de Delhi. Antes de las seis la autopista está vacía; después de las ocho, Gurugram le cuesta una hora antes incluso de haber salido de la ciudad.\n\nSalir temprano también significa el Taj en las primeras horas, que es cuando el mármol justifica el viaje.\n\n**Taj Mahal**\n\nShah Jahan lo empezó en 1632, el año siguiente a la muerte de Mumtaz Mahal al dar a luz a su decimocuarto hijo. Veintidós años, veinte mil obreros, y mármol blanco acarreado 400 km desde Makrana, en Rajastán.\n\nLo que un guía le muestra y de lo que de otro modo pasaría de largo: la **caligrafía** del gran arco, labrada en letras cada vez más grandes para que se lea a la misma altura desde el suelo; las incrustaciones de **pietra dura**, con hasta sesenta piezas de cornalina, jaspe y lapislázuli en una sola flor; los cuatro **alminares**, cada uno inclinado mínimamente hacia fuera para que un terremoto los dejara caer lejos de la tumba; y el truco óptico de la puerta **Darwaza-i-Rauza**, donde el Taj parece encogerse a medida que uno se acerca.\n\nY la única ruptura deliberada de la simetría: el cenotafio de Shah Jahan, colocado fuera del eje central junto al de su esposa por Aurangzeb tras su muerte.\n\n**El Fuerte de Agra**\n\nDos kilómetros río arriba. La ciudad de arenisca roja de Akbar, de 1565, con los palacios de mármol de Shah Jahan dentro: el **Diwan-i-Am**, donde se escuchaban las peticiones, el **Khas Mahal**, la casa de baños **Sheesh Mahal** incrustada de fragmentos de espejo.\n\nY el **Musamman Burj**, la torre octogonal de mármol en la muralla del río donde Aurangzeb tuvo preso a su padre los últimos ocho años de su vida, con el Taj visible a lo largo del agua. Murió allí.\n\n**Cuatro opciones**\n\nCoche, conductor y guía con inicio en Agra; desde Delhi con coche y guía; lo mismo con las entradas; o con las entradas y comida en un hotel de cinco estrellas.\n\n**Práctico**\n\nUnas siete horas en Agra más la carretera. **El Taj cierra los viernes.**",
+  "highlights": [
+   "Haga una visita guiada para descubrir las vistas impresionantes del Taj Mahal."
+  ],
+  "included": [
+   "Recogida y regreso en cualquier punto de Delhi, Noida, Gurugram, Ghaziabad, Faridabad",
+   "Todos los impuestos, el suplemento de combustible y los gastos de aparcamiento",
+   "Todas las visitas en coche privado con aire acondicionado, desde la recogida hasta el regreso",
+   "Botella de agua de regalo",
+   "Entrada a los monumentos incluida (en la opción elegida)",
+   "Comida de 5 estrellas (en la opción elegida)"
+  ],
+  "notIncluded": [
+   "Comida",
+   "Propinas"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Reserve un guía oficial para recorrer Bengaluru",
   "metaTitle": "Bengaluru con guía: palacios, Lalbagh, templos y bazares",

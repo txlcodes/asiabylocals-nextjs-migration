@@ -6257,6 +6257,49 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires du chauffeur et du guide"
   ]
  },
+ "taj-mahal-instagram-photography-tour-w-expert-phot": {
+  "title": "Taj Mahal : séance photo Instagram avec photographe expert",
+  "metaTitle": "Taj Mahal : séance photo Instagram, photographe expert",
+  "metaDescription": "Une séance photo au lever du soleil au Taj Mahal avec un guide-photographe qui connaît chaque angle. Images retouchées comprises.",
+  "shortDescription": "Une séance photo au lever du soleil au Taj Mahal avec un guide-photographe qui connaît chaque angle. Images retouchées comprises.",
+  "fullDescription": "**Une séance photo qui se trouve être au Taj Mahal**\n\nCe n'est pas une visite touristique avec des photos en plus. Le guide-photographe planifie le déroulé selon la lumière, vous positionne, dirige les poses, et parcourt le site dans l'ordre que le soleil impose. Vous recevez un lot retouché ensuite.\n\n**Pourquoi le lever du soleil en particulier**\n\nLes portes ouvrent une demi-heure avant le lever du soleil. Pendant les quarante premières minutes, la foule n'est qu'une fraction de ce qu'elle devient, ce qui veut dire que le banc central et le canal d'eau sont réellement photographiables, et que le marbre passe par le gris, le rose et l'or avant de se fixer au blanc.\n\nÀ neuf heures, la lumière est plate et il y a deux cents personnes sur l'axe. Toute la visite dépend d'arriver tôt.\n\n**La liste des prises de vue**\n\nLe **banc de Diana** avec le dôme centré et personne derrière vous. Le **reflet** dans le long bassin. Des **silhouettes** contre le soleil levant. La **perspective forcée**, pincer, tenir dans la paume, plus amusant à faire qu'à lire. Des **cadrages à travers les arcs** de la porte et le long de la colonnade de la mosquée. Des portraits dans le **grès rouge** du Darwaza, où la pierre chaude joue contre le marbre blanc.\n\nSi vous avez quelque chose de précis en tête, apportez des références ; c'est un photographe pour vous seul, pas un groupe.\n\n**Quatre options**\n\nGuide-photographe seul, si vous organisez vous-même l'entrée et le transport. La visite standard. Photographe avec billets d'entrée du Taj. Ou tout avec une voiture privée.\n\n**Pratique**\n\n**Le Taj est fermé le vendredi.**\n\nNi trépied, ni drone, ni grands sacs, la sécurité est stricte et il n'y a pas de négociation à la porte. Tout se photographie à main levée.\n\nPortez quelque chose qui tient en couleur contre le marbre blanc ; le rouge, le jaune et le bleu profond rendent bien mieux que le blanc ou le beige. Des saris et lehengas peuvent être organisés sur place si vous le souhaitez.\n\nL'entrée pour les ressortissants étrangers est de 1,100 ₹, plus 200 ₹ pour la chambre du mausolée.",
+  "highlights": [
+   "Capturez la beauté emblématique du Taj Mahal avec un photographe professionnel."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour les transferts",
+   "Guide-photographe expert agréé par le gouvernement",
+   "Billets d'entrée du Taj Mahal (selon l'option choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toutes dépenses personnelles"
+  ]
+ },
+ "taj-mahal-meal-guided-tour": {
+  "title": "Depuis Delhi : Taj Mahal et Agra en voiture avec repas 5 étoiles",
+  "metaTitle": "Delhi-Taj Mahal et Agra : repas 5 étoiles, départ matinal",
+  "metaDescription": "Une journée au Taj Mahal et à Agra depuis Delhi en voiture privée avec guide et un repas cinq étoiles en option. Environ sept heures.",
+  "shortDescription": "Une journée au Taj Mahal et à Agra depuis Delhi en voiture privée avec guide et un repas cinq étoiles en option. Environ sept heures.",
+  "fullDescription": "**Un départ matinal, c'est toute l'astuce**\n\nLa différence entre une bonne journée à Agra et une longue journée, c'est l'heure à laquelle on quitte Delhi. Avant six heures et l'autoroute est vide ; après huit heures et Gurugram vous coûte une heure avant même d'avoir quitté la ville.\n\nPartir tôt, c'est aussi le Taj dans les premières heures, moment où le marbre justifie le trajet.\n\n**Taj Mahal**\n\nShah Jahan l'a commencé en 1632, l'année suivant la mort de Mumtaz Mahal en donnant naissance à leur quatorzième enfant. Vingt-deux ans, vingt mille ouvriers, et du marbre blanc charrié sur 400 km depuis Makrana, au Rajasthan.\n\nCe qu'un guide vous montre et devant quoi vous passeriez autrement : la **calligraphie** du grand arc, gravée en lettres de plus en plus grandes pour se lire d'une hauteur égale depuis le sol ; les incrustations de **pietra dura**, avec jusqu'à soixante morceaux de cornaline, de jaspe et de lapis dans une seule fleur ; les quatre **minarets**, chacun légèrement incliné vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau ; et l'illusion d'optique à la porte **Darwaza-i-Rauza**, où le Taj semble rétrécir à mesure qu'on s'en approche.\n\nEt la seule rupture volontaire de la symétrie : le cénotaphe de Shah Jahan lui-même, placé hors de l'axe central à côté de celui de sa femme par Aurangzeb après sa mort.\n\n**Le fort d'Agra**\n\nÀ deux kilomètres en amont. La ville de grès rouge d'Akbar, 1565, avec les palais de marbre de Shah Jahan à l'intérieur : le **Diwan-i-Am** où les requêtes étaient entendues, le **Khas Mahal**, le hammam **Sheesh Mahal** incrusté d'éclats de miroir.\n\nEt le **Musamman Burj**, la tour octogonale en marbre sur la muraille du fleuve où Aurangzeb a enfermé son père les huit dernières années de sa vie, avec le Taj visible le long de l'eau. Il y est mort.\n\n**Quatre options**\n\nVoiture, chauffeur et guide au départ d'Agra ; depuis Delhi avec voiture et guide ; la même chose avec les droits d'entrée ; ou avec les droits d'entrée et un déjeuner dans un hôtel cinq étoiles.\n\n**Pratique**\n\nEnviron sept heures à Agra, plus la route. **Le Taj est fermé le vendredi.**",
+  "highlights": [
+   "Faites une visite guidée pour découvrir les vues à couper le souffle du Taj Mahal."
+  ],
+  "included": [
+   "Prise en charge et retour n'importe où à Delhi, Noida, Gurugram, Ghaziabad, Faridabad",
+   "Toutes les taxes, le supplément carburant et les frais de stationnement",
+   "Toutes les visites en voiture privée climatisée, de la prise en charge au retour",
+   "Bouteille d'eau offerte",
+   "Droits d'entrée des monuments compris (selon l'option choisie)",
+   "Déjeuner 5 étoiles (selon l'option choisie)"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Pourboires"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Réservez un guide officiel pour explorer Bengaluru",
   "metaTitle": "Bengaluru avec guide : palais, Lalbagh, temples et bazars",
