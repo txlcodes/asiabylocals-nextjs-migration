@@ -9914,6 +9914,53 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le guide et le chauffeur"
   ]
  },
+ "05-days-private-luxury-golden-triangle-tour-with-r": {
+  "title": "05 jours, visite privée de luxe du Triangle d'or avec Ranthambore",
+  "metaTitle": "Triangle d'or 5 jours avec safari à Ranthambore",
+  "metaDescription": "Cinq jours privés entre Delhi, Agra et Jaipur avec un safari aux tigres à Ranthambore et des options d'hôtel.",
+  "shortDescription": "Cinq jours privés entre Delhi, Agra et Jaipur avec un safari aux tigres à Ranthambore et des options d'hôtel.",
+  "fullDescription": "**Cinq jours, entièrement privés, avec un safari au milieu**\n\nLa voiture, le chauffeur et le guide sont les vôtres, ce qui compte sur un itinéraire comprenant un parc national : les horaires du safari sont fixés par le département des forêts, et un véhicule privé veut dire que le reste de la journée s'organise autour plutôt que l'inverse.\n\n**Jour 1 : Delhi**\n\nAccueil à l'aéroport ou à votre hôtel. **Le vieux Delhi** d'abord, la **Jama Masjid**, le **Fort rouge** de l'extérieur, et un tour en cyclo-pousse dans **Chandni Chowk**, la seule façon raisonnable de parcourir cette rue.\n\n**Raj Ghat**, la plateforme de marbre noir où Gandhi a été incinéré, avec une flamme qui brûle depuis 1948.\n\nPuis le New Delhi : **India Gate**, le passage devant **Rashtrapati Bhavan**, le **tombeau de Humayun**, le tombeau-jardin moghol des années 1560 dont descend le Taj, et **Qutub Minar**.\n\n**Jour 2 : Agra**\n\nLe **Taj Mahal** au lever du soleil, et le **fort d'Agra** avec le **Musamman Burj** où Aurangzeb a enfermé son père huit ans, avec le Taj en vue le long du fleuve.\n\n**Jour 3 : Ranthambore, via Fatehpur Sikri**\n\nLa capitale abandonnée d'Akbar sur la route, puis vers le sud jusqu'au parc.\n\n**Jour 4 : le safari**\n\nEn gypsy ouverte ou en canter, dans une zone attribuée par le département des forêts. Ranthambore abrite environ soixante-dix tigres sur 1 300 km² de forêt sèche, au pied d'un fort du Xe siècle qui se trouve à l'intérieur de la réserve.\n\nLes observations y comptent parmi les meilleures d'Inde car les tigres sont habitués aux véhicules, mais c'est de la faune sauvage et personne ne peut rien garantir. Sambars, chitals, nilgauts, crocodiles sur les lacs et énormément d'oiseaux sont assurés.\n\n**Jour 5 : Jaipur, puis Delhi**\n\nLe **fort d'Amber**, le **City Palace**, le **Jantar Mantar**, le **Hawa Mahal**, et la route du retour.\n\n**Trois options**\n\nVoiture, chauffeur et guide ; ou avec des hôtels trois ou quatre étoiles.\n\n**Pratique**\n\n**Ranthambore ferme du 1er juillet au 30 septembre.** Les permis sont limités, réservez tôt. **Le Taj est fermé le vendredi.**",
+  "highlights": [
+   "Découvrez Delhi, India Gate, Qutub Minar, le tombeau de Humayun et le temple du Lotus."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour toute la durée de la visite",
+   "Guide touristique professionnel dans chaque ville",
+   "4 nuits d'hébergement en hôtel (selon l'option choisie)",
+   "Petit-déjeuner à l'hôtel",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Billets d'entrée des monuments",
+   "Safari en jeep ou en canter",
+   "Toute dépense personnelle"
+  ]
+ },
+ "10-day-royal-rajasthan-golden-triangle-experience": {
+  "title": "Expérience de 10 jours : Rajasthan royal et Triangle d'or",
+  "metaTitle": "Rajasthan royal et Triangle d'or en 10 jours",
+  "metaDescription": "Dix jours entre Delhi, Agra, Jaipur, Jodhpur et Udaipur, le Triangle d'or et les deux grandes villes du Rajasthan.",
+  "shortDescription": "Dix jours entre Delhi, Agra, Jaipur, Jodhpur et Udaipur, le Triangle d'or et les deux grandes villes du Rajasthan.",
+  "fullDescription": "**Le circuit complet du Rajasthan**\n\nDix jours, c'est ce qu'il faut pour faire Delhi, Agra, Jaipur, Jodhpur et Udaipur sans passer un jour sur deux en voiture. Les distances sont la contrainte : Jaipur-Jodhpur, c'est 330 km, Jodhpur-Udaipur encore 250, et ces deux routes comportent des arrêts qui valent le coup.\n\n**Delhi et Agra**\n\n**Qutub Minar**, le **tombeau de Humayun**, la **Jama Masjid** et **Chandni Chowk** dans la capitale. Puis le **Taj Mahal** au lever du soleil et le **fort d'Agra**, où Shah Jahan a été emprisonné par son fils avec une vue sur le tombeau de sa femme le long du fleuve. **Fatehpur Sikri** sur la route de sortie.\n\n**Jaipur**\n\nLe **fort d'Amber** sur sa crête au-dessus du lac Maota, le **City Palace**, le **Jantar Mantar** et le **Hawa Mahal**, plus les bazars autour de Johari et Tripolia, où travaillent réellement les lapidaires, les imprimeurs à la planche et les fabricants de bracelets de la ville.\n\n**Jodhpur**\n\n**Mehrangarh** est le fort qui change l'idée qu'on a des forts indiens : 120 mètres à la verticale sur le rocher, jamais pris, avec le musée le mieux tenu du Rajasthan à l'intérieur. Les traces de boulets de canon sur la deuxième porte proviennent d'un siège de Jaipur.\n\nEn dessous, le **Jaswant Thada** en marbre blanc si fin que le soleil le traverse, et les ruelles bleues de la vieille ville autour de la tour de l'horloge. Le bleu était à l'origine un badigeon à la chaux et au cuivre qui éloignait les termites.\n\n**Udaipur**\n\nLe **City Palace** le long du lac Pichola, construit par vingt-deux souverains sur quatre siècles. Le **temple de Jagdish** de 1651. **Saheliyon ki Bari**, le jardin de fontaines construit pour les suivantes d'une reine. Et une sortie en bateau au coucher du soleil, celle dont les gens parlent en rentrant.\n\n**Comment cela se déroule**\n\nVéhicule privé climatisé avec chauffeur pendant les dix jours, y compris chaque trajet intervilles, et des guides locaux agréés pour les visites dans chaque ville.\n\nLes droits d'entrée et les repas se paient séparément. **Le Taj est fermé le vendredi**, ce qui fixe l'ordre des premiers jours.",
+  "highlights": [
+   "Assistez au lever du soleil sur le Taj Mahal, site classé au patrimoine mondial de l'UNESCO"
+  ],
+  "included": [
+   "Guide touristique professionnel",
+   "Voiture privée climatisée pour toute l'activité",
+   "Bouteille d'eau minérale",
+   "Hébergement en hôtel 3 étoiles",
+   "Petit-déjeuner à l'hôtel",
+   "Tous les péages et frais de stationnement",
+   "Billets d'entrée",
+   "Déjeuner"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
