@@ -18507,6 +18507,94 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires et dépenses personnelles"
   ]
  },
+ "jaipur-shopping-experience-with-female-shopping-ex": {
+  "title": "Expérience shopping à Jaipur avec une experte en shopping",
+  "metaTitle": "Jaipur : shopping avec une experte",
+  "metaDescription": "Quatre heures de shopping à Jaipur avec une experte en shopping, bijoux, textiles et artisanat, en tuk-tuk ou voiture.",
+  "shortDescription": "Quatre heures de shopping à Jaipur avec une experte en shopping, bijoux, textiles et artisanat, en tuk-tuk ou voiture.",
+  "fullDescription": "**Un guide dont le travail est votre côté du prix**\n\nJaipur est l'une des meilleures villes d'Inde pour acheter et l'une des plus faciles pour se faire surfacturer. Les deux sont vraies à la fois, et un guide qui fait elle-même ses achats sur ces marchés est ce qui les sépare.\n\nCelle-ci est conçue pour les femmes voyageant seules, et c'est la raison pour laquelle les voyageuses solo la réservent : privée, sans précipitation, et personne ne crie après vous depuis un seuil de porte pendant que vous essayez de réfléchir.\n\n**Ce que vous regarderez**\n\n**Johari Bazaar**, la rue des bijoutiers et le plus ancien commerce de la ville. Le **kundan**, où les pierres sont serties dans de la feuille d'or pur sans griffes pour que la pierre paraisse flotter, et le **meenakari**, l'émail cuit au dos de la même pièce pour qu'elle porte un second motif caché. C'était à l'origine pour qu'un collier soit beau une fois retourné.\n\n**Bapu Bazaar**, coton imprimé au bloc, teinture nouée **bandhani** et **leheriya**, razais matelassés, sacs en cuir de chameau, et chaussons **mojari** aux bouts recourbés. Un bon mojari se plie facilement dans la main ; un mauvais est du carton avec du cuir collé.\n\n**Tripolia et Maniharon ka Rasta**, **bracelets en laque**, encore fabriqués sur une flamme devant vous. Cet artisanat est spécifique au Rajasthan et il y a moins de familles qui le pratiquent chaque décennie.\n\n**À quoi sert vraiment votre experte**\n\nDistinguer le travail manuel du travail à la machine, qui constitue la plus grande partie de ce qui est vendu comme travail manuel. Savoir ce que coûte une chose avant de demander. Gérer la négociation, ou vous apprendre à le faire.\n\nEt vous éloigner des boutiques à commission, dites dès le début que vous voulez être emmenée là où les locaux achètent, et une bonne guide le fera simplement.\n\n**Sur les pierres précieuses** : demandez un certificat indiquant le poids, le traitement et l'origine, et prenez-le. Une maison réputée de Jaipur en fournit un sans qu'on ait à insister.\n\n**Trois options**\n\nGuide seule ; guide avec tuk-tuk ; ou guide avec voiture climatisée. La voiture en vaut la peine si vous prévoyez d'acheter quelque chose de volumineux, ou en été.\n\n**Pratique**\n\nQuatre heures. Tout ce que vous achetez est à votre charge. Emportez de l'argent liquide pour les petits ateliers, UPI ne fonctionnera pas sur un téléphone étranger.",
+  "highlights": [
+   "Visite shopping personnalisée avec une experte professionnelle"
+  ],
+  "included": [
+   "Visite guidée privée avec attention personnalisée",
+   "Tous les transferts dans une voiture confortable",
+   "Prise en charge et retour pratiques depuis l'hôtel ou l'aéroport",
+   "Support WhatsApp et téléphonique 24h/24 et 7j/7 avant et pendant la visite",
+   "Péages, stationnement et indemnités de chauffeur entièrement couverts",
+   "Eau en bouteille illimitée pendant toute la visite",
+   "Taxes de service gouvernementales applicables incluses"
+  ],
+  "notIncluded": [
+   "Pourboires (facultatif)",
+   "Repas"
+  ]
+ },
+ "jaipur-shopping-tour-with-blue-poetry-art-by-femal": {
+  "title": "Jaipur : Visite shopping avec l'art de la poterie bleue par une guide",
+  "metaTitle": "Jaipur : shopping et poterie bleue, guide femme",
+  "metaDescription": "Une visite shopping de Jaipur avec une experte guide, incluant les ateliers de poterie bleue. Tuk-tuk ou voiture.",
+  "shortDescription": "Une visite shopping de Jaipur avec une experte guide, incluant les ateliers de poterie bleue. Tuk-tuk ou voiture.",
+  "fullDescription": "**La poterie bleue de Jaipur, qui n'est pas originellement de Jaipur**\n\nElle est venue de Perse via l'Afghanistan jusqu'à Delhi, puis à Jaipur au 19e siècle quand Ram Singh II a fait venir des potiers pour enseigner dans son école d'art. C'est la seule tradition céramique indienne cuite à basse température avec un corps en quartz plutôt qu'en argile, c'est pourquoi elle est si légère et pourquoi elle s'écaille si vous la laissez tomber.\n\nLe bleu cobalt est la signature. L'oxyde de cuivre donne la turquoise, et le fond blanc est du quartz, du verre et du borax en poudre plutôt que de la barbotine.\n\nVous la verrez tournée, peinte et cuite, et une fois que vous savez que le corps ne contient pas d'argile, tout l'artisanat devient plus étrange et plus intéressant.\n\n**Les bazars**\n\n**Johari Bazaar** pour la bijouterie, le **kundan**, où les pierres sont serties dans de la feuille d'or pur sans griffes pour que la pierre paraisse flotter, et le **meenakari**, l'émail cuit au dos de la même pièce pour qu'elle porte un second motif caché.\n\n**Bapu Bazaar** pour les textiles : coton imprimé au bloc, teinture nouée **bandhani** et **leheriya**, razais matelassés, et chaussons **mojari**, une bonne paire se plie facilement dans la main.\n\n**Tripolia** pour les bracelets en laque, fabriqués sur une flamme devant vous.\n\n**Votre guide**\n\nUne experte, c'est pourquoi les voyageuses solo et les familles réservent celle-ci. Son travail est votre côté de la transaction : distinguer le travail manuel du travail à la machine, savoir ce que coûte une chose avant de demander, et gérer la négociation si vous préférez ne pas le faire.\n\nDites dès le début que vous voulez être emmenée là où les locaux achètent plutôt que là où les boutiques paient une commission, et une bonne guide le fera simplement.\n\n**Quatre options**\n\nGuide seule ; guide avec tuk-tuk privé ; une visite shopping d'une demi-journée ; ou la version complète avec les ateliers de poterie.\n\n**Pratique**\n\nQuatre heures et demie. Tout ce que vous achetez est à votre charge ; rien n'est inclus.\n\nLa poterie bleue voyage mal, demandez qu'elle soit emballée en double, et portez-la plutôt que de l'enregistrer en soute.",
+  "highlights": [
+   "Découvrez les bazars vibrants de Jaipur avec une experte en shopping expérimentée"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel/aéroport",
+   "Voiture climatisée privée pour toute l'activité de la visite avec chauffeur",
+   "Guide locale experte agréée par le gouvernement",
+   "Bouteille d'eau minérale",
+   "Tous les péages et le stationnement"
+  ],
+  "notIncluded": [
+   "Déjeuner",
+   "Toute dépense personnelle"
+  ]
+ },
+ "jaipur-sightseeing-full-day-tour": {
+  "title": "Jaipur : Visite privée demi-journée/journée complète en voiture avec guide",
+  "metaTitle": "Jaipur : demi-journée/journée en voiture avec guide",
+  "metaDescription": "Demi-journée ou journée complète de visites à Jaipur en voiture privée ou tuk-tuk avec un guide, Fort d'Amber, palais et vieille ville.",
+  "shortDescription": "Demi-journée ou journée complète de visites à Jaipur en voiture privée ou tuk-tuk avec un guide, Fort d'Amber, palais et vieille ville.",
+  "fullDescription": "**Deux véhicules, deux tempéraments de journée**\n\nMême itinéraire, et le choix du véhicule le change plus que prévu.\n\nUn **tuk-tuk** est ouvert des deux côtés, passe dans les ruelles de la vieille ville, et d'octobre à mars c'est la façon la plus agréable de voyager. Vous obtenez le marché aux fleurs par l'odeur et la rue par le son.\n\nUne **voiture climatisée** est le bon choix d'avril à juin, quand le milieu de la journée à Jaipur est véritablement difficile, et pour toute version journée complète où vous sortez huit heures.\n\n**Fort et palais d'Amber**\n\nLa pièce maîtresse : un complexe sur une colline en grès rouge et marbre blanc commencé en 1592, où l'architecture rajpoute et moghole se trouve dans les mêmes cours.\n\nLa porte **Ganesh Pol**, le **Sheesh Mahal** où des fragments de miroirs transforment une flamme en un plafond d'étoiles, et le **Sukh Niwas** rafraîchi par des canaux d'eau taillés dans ses murs. En dessous, le **lac Maota** et le jardin en parterre de safran disposé au milieu.\n\n**Jal Mahal**\n\nUn arrêt photo depuis la chaussée, quatre de ses cinq étages sont sous l'eau.\n\n**City Palace**\n\nCours, armurerie, salles de textiles, et les deux urnes d'argent coulées pour qu'un maharaja puisse emporter de l'eau du Gange en Angleterre.\n\n**Jantar Mantar**\n\nDix-neuf instruments astronomiques en maçonnerie, classé UNESCO, incluant le cadran solaire de 27 mètres qui donne encore l'heure à environ deux secondes près.\n\n**Hawa Mahal**\n\nL'écran de 953 fenêtres sur Sireh Deori Bazaar, le mieux depuis la rue d'en face.\n\n**Deux options**\n\nEn tuk-tuk, ou la journée complète en voiture avec chauffeur et guide.\n\n**Pratique**\n\nHuit heures sur la version journée complète, avec prise en charge et retour à l'hôtel.\n\nLes frais d'entrée sont payés à chaque site, environ ₹1 500 par adulte étranger pour les principaux monuments.",
+  "highlights": [
+   "Découvrez la splendeur visuelle caractéristique de Jaipur lors de cette visite d'une journée complète"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Transport dans une berline/SUV climatisée",
+   "Guide professionnel agréé",
+   "Frais de stationnement",
+   "Carburant",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Billets d'entrée",
+   "Repas",
+   "Pourboires"
+  ]
+ },
+ "jaipur-sightseeing-half-day-tour": {
+  "title": "Jaipur : Visite privée demi-journée ou journée complète en voiture (à partir de 8,24 $)",
+  "metaTitle": "Jaipur : demi-journée ou journée complète privée",
+  "metaDescription": "Une demi-journée ou journée complète privée de Jaipur en voiture avec un itinéraire flexible, à partir d'un tarif guide seul.",
+  "shortDescription": "Une demi-journée ou journée complète privée de Jaipur en voiture avec un itinéraire flexible, à partir d'un tarif guide seul.",
+  "fullDescription": "**Flexible, c'est la raison de réserver en privé**\n\nQuatre options, et l'itinéraire s'adapte : si la salle des miroirs à Amber vous retient quarante minutes, elle vous retient quarante minutes, et si vous préférez échanger un monument pour un bazar, votre guide le fera.\n\nIl y a aussi un tarif guide seul, utile si vous avez déjà une voiture et un chauffeur pour votre voyage en Inde.\n\n**Fort d'Amber**\n\nUn site du patrimoine mondial de l'UNESCO, commencé en 1592 par Raja Man Singh sur une crête au-dessus du lac Maota. Des cours rajpoutes construites par des artisans moghols, d'où les incrustations persanes à côté de sculptures hindoues.\n\nLa porte peinte **Ganesh Pol**. Le **Sheesh Mahal**, où des milliers de fragments de miroirs convexes au plafond transformaient une bougie en un ciel d'étoiles. Le **Sukh Niwas**, rafraîchi par l'eau circulant dans des canaux à travers le marbre. Et le **zenana**, douze appartements de reines disposés pour qu'aucun ne donne sur un autre.\n\n**Jal Mahal**\n\nDepuis la chaussée au-dessus du lac Man Sagar. Quatre des cinq étages sous l'eau ; pas de bateau, pas d'entrée.\n\n**City Palace**\n\nCours, armurerie, galeries textiles, et les deux urnes d'argent coulées pour qu'un maharaja puisse emporter de l'eau du Gange en Angleterre. Une partie du complexe reste la maison de la famille.\n\n**Jantar Mantar**\n\nDix-neuf instruments astronomiques en maçonnerie des années 1730, classé UNESCO, incluant le cadran solaire Samrat Yantra de 27 mètres qui donne encore l'heure à quelques secondes près.\n\n**Hawa Mahal**\n\nL'écran de 953 fenêtres de 1799, le mieux depuis la rue d'en face.\n\n**Avec la journée complète**\n\nDe la place pour **Panna Meena ka Kund**, le puits à degrés sous Amber, ou **Nahargarh** au coucher du soleil, ou les bazars, dites lequel lors de la réservation.\n\n**Quatre options**\n\nJournée complète avec guide seul ; demi-journée en voiture avec guide ; journée complète en voiture avec guide ; ou la version la plus complète avec davantage inclus.\n\n**Pratique**\n\nVoiture privée climatisée avec prise en charge et retour à l'hôtel sur les options avec véhicule.\n\nLes frais d'entrée sont séparés, environ ₹1 500 par personne pour un adulte étranger sur les principaux sites.",
+  "highlights": [
+   "Expérience de visite privée d'une demi-journée ou d'une journée complète"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Transport dans une berline/SUV climatisée",
+   "Guide professionnel agréé",
+   "Frais de stationnement",
+   "Billets d'entrée aux monuments (si option sélectionnée)"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Pourboires"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",

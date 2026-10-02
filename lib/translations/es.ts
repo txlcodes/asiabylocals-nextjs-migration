@@ -18507,6 +18507,94 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas y gastos personales"
   ]
  },
+ "jaipur-shopping-experience-with-female-shopping-ex": {
+  "title": "Experiencia de compras en Jaipur con experta en compras",
+  "metaTitle": "Jaipur: compras con una experta",
+  "metaDescription": "Cuatro horas de compras en Jaipur con una experta en compras, joyería, textiles y artesanía, en tuk-tuk o coche.",
+  "shortDescription": "Cuatro horas de compras en Jaipur con una experta en compras, joyería, textiles y artesanía, en tuk-tuk o coche.",
+  "fullDescription": "**Una guía cuyo trabajo es tu lado del precio**\n\nJaipur es una de las mejores ciudades de la India para comprar y una de las más fáciles para que te cobren de más. Ambas cosas son ciertas a la vez, y una guía que compra ella misma en estos mercados es lo que las separa.\n\nEsta está pensada para mujeres que viajan, y es la razón por la que la reservan las viajeras solas: privada, sin prisas, y nadie gritándote desde una puerta mientras intentas pensar.\n\n**Lo que mirarás**\n\n**Johari Bazaar**, la calle de los joyeros y el comercio más antiguo de la ciudad. **Kundan**, donde las piedras se engastan en lámina de oro puro sin garras para que la gema parezca flotar, y **meenakari**, esmalte cocido en la parte posterior de la misma pieza para que lleve un segundo diseño oculto. Originalmente era para que un collar fuera bonito al darle la vuelta.\n\n**Bapu Bazaar**, algodón estampado en bloque, teñido anudado **bandhani** y **leheriya**, razais acolchadas, bolsos de cuero de camello, y zapatillas **mojari** de puntas curvadas. Una buena mojari se dobla fácilmente en la mano; una mala es cartón con cuero pegado.\n\n**Tripolia y Maniharon ka Rasta**, **pulseras de laca**, todavía hechas sobre una llama mientras observas. El oficio es específico de Rajastán y hay menos familias haciéndolo cada década.\n\n**Para qué sirve realmente tu experta**\n\nDistinguir el trabajo hecho a mano del trabajo a máquina, que es la mayor parte de lo que se vende como hecho a mano. Saber cuánto cuesta algo antes de preguntar. Manejar la negociación, o enseñarte a hacerlo.\n\nY alejarte de las tiendas con comisión, di desde el principio que quieres que te lleven donde compran los locales, y una buena guía simplemente lo hará.\n\n**Sobre las piedras preciosas**: pide un certificado que indique peso, tratamiento y origen, y llévatelo. Una casa de confianza de Jaipur da uno sin presión.\n\n**Tres opciones**\n\nSolo guía; guía con tuk-tuk; o guía con coche con aire acondicionado. El coche vale la pena si piensas comprar algo voluminoso, o en verano.\n\n**Práctico**\n\nCuatro horas. Lo que compres lo pagas tú. Lleva efectivo para los pequeños talleres, UPI no funcionará en un teléfono extranjero.",
+  "highlights": [
+   "Tour de compras personalizado con una experta profesional"
+  ],
+  "included": [
+   "Tour guiado privado con atención personalizada",
+   "Todos los traslados en un coche cómodo",
+   "Recogida y regreso convenientes desde el hotel o aeropuerto",
+   "Soporte por WhatsApp y teléfono 24/7 antes y durante el tour",
+   "Peajes, aparcamiento y dietas del conductor totalmente cubiertos",
+   "Agua embotellada ilimitada durante todo el tour",
+   "Impuestos de servicio gubernamentales aplicables incluidos"
+  ],
+  "notIncluded": [
+   "Propinas (opcional)",
+   "Comidas"
+  ]
+ },
+ "jaipur-shopping-tour-with-blue-poetry-art-by-femal": {
+  "title": "Jaipur: Tour de compras con arte de cerámica azul por guía femenina",
+  "metaTitle": "Jaipur: compras y cerámica azul, guía mujer",
+  "metaDescription": "Un tour de compras por Jaipur con una guía experta, incluyendo los talleres de cerámica azul. Tuk-tuk o coche.",
+  "shortDescription": "Un tour de compras por Jaipur con una guía experta, incluyendo los talleres de cerámica azul. Tuk-tuk o coche.",
+  "fullDescription": "**La cerámica azul de Jaipur, que originalmente no es de Jaipur**\n\nVino de Persia vía Afganistán a Delhi, y luego a Jaipur en el siglo 19 cuando Ram Singh II trajo alfareros para enseñar en su escuela de arte. Es la única tradición cerámica india cocida a baja temperatura con un cuerpo de cuarzo en lugar de arcilla, por eso es tan ligera y por eso se astilla si se cae.\n\nEl azul cobalto es la firma. El óxido de cobre da el turquesa, y el fondo blanco es cuarzo, vidrio y bórax en polvo en lugar de barbotina.\n\nVerás cómo se tornea, pinta y cuece, y una vez que sabes que el cuerpo no tiene arcilla, todo el oficio se vuelve más extraño e interesante.\n\n**Los bazares**\n\n**Johari Bazaar** para joyería, **kundan**, donde las piedras se engastan en lámina de oro puro sin garras para que la gema parezca flotar, y **meenakari**, esmalte cocido en la parte posterior de la misma pieza para que lleve un segundo diseño oculto.\n\n**Bapu Bazaar** para textiles: algodón estampado en bloque, teñido anudado **bandhani** y **leheriya**, razais acolchadas, y zapatillas **mojari**, un buen par se dobla fácilmente en la mano.\n\n**Tripolia** para pulseras de laca, hechas sobre una llama frente a ti.\n\n**Tu guía**\n\nUna experta, por eso las viajeras solas y las familias reservan esta. Su trabajo es tu lado de la transacción: distinguir el trabajo hecho a mano del trabajo a máquina, saber cuánto cuesta algo antes de preguntar, y manejar la negociación si prefieres no hacerlo.\n\nDi desde el principio que quieres que te lleven donde compran los locales en lugar de donde las tiendas pagan comisión, y una buena guía simplemente lo hará.\n\n**Cuatro opciones**\n\nSolo guía; guía con tuk-tuk privado; un tour de compras de medio día; o la versión completa con los talleres de cerámica.\n\n**Práctico**\n\nCuatro horas y media. Lo que compres lo pagas tú; nada está incluido.\n\nLa cerámica azul viaja mal, pide que te la envuelvan doble, y llévala contigo en lugar de facturarla.",
+  "highlights": [
+   "Descubre los vibrantes bazares de Jaipur con una experta en compras con conocimientos"
+  ],
+  "included": [
+   "Recogida y regreso al hotel/aeropuerto",
+   "Coche privado con aire acondicionado para toda la actividad del tour con conductor",
+   "Guía local experta aprobada por el gobierno",
+   "Botella de agua mineral",
+   "Todos los peajes y aparcamiento"
+  ],
+  "notIncluded": [
+   "Almuerzo",
+   "Cualquier gasto personal"
+  ]
+ },
+ "jaipur-sightseeing-full-day-tour": {
+  "title": "Jaipur: Tour privado de medio día/día completo en coche con guía",
+  "metaTitle": "Jaipur: medio día/día completo en coche con guía",
+  "metaDescription": "Medio día o día completo de visitas por Jaipur en coche privado o tuk-tuk con un guía, Fuerte Amber, palacios y ciudad vieja.",
+  "shortDescription": "Medio día o día completo de visitas por Jaipur en coche privado o tuk-tuk con un guía, Fuerte Amber, palacios y ciudad vieja.",
+  "fullDescription": "**Dos vehículos, dos temperamentos de día**\n\nMisma ruta, y la elección del vehículo la cambia más de lo esperado.\n\nUn **tuk-tuk** es abierto por ambos lados, cabe por las callejuelas de la ciudad vieja, y de octubre a marzo es la forma más agradable de viajar. Percibes el mercado de flores por el olfato y la calle por el oído.\n\nUn **coche con aire acondicionado** es la decisión correcta de abril a junio, cuando el mediodía en Jaipur es realmente duro, y en cualquier versión de día completo donde estés fuera ocho horas.\n\n**Fuerte y palacio Amber**\n\nLa pieza central: un complejo en la colina de arenisca roja y mármol blanco iniciado en 1592, donde la arquitectura rajput y mogola convive en los mismos patios.\n\nLa puerta **Ganesh Pol**, el **Sheesh Mahal** donde fragmentos de espejo convierten una llama en un techo de estrellas, y el **Sukh Niwas** enfriado por canales de agua tallados en sus muros. Abajo, el **lago Maota** y el jardín de parterre de azafrán dispuesto en medio de él.\n\n**Jal Mahal**\n\nUna parada fotográfica desde la calzada, cuatro de sus cinco plantas están bajo el agua.\n\n**City Palace**\n\nPatios, armería, salas textiles, y las dos urnas de plata fundidas para que un maharajá pudiera llevar agua del Ganges a Inglaterra.\n\n**Jantar Mantar**\n\nDiecinueve instrumentos astronómicos de mampostería, catalogado por la UNESCO, incluyendo el reloj de sol de 27 metros que todavía marca el tiempo con unos dos segundos de precisión.\n\n**Hawa Mahal**\n\nLa pantalla de 953 ventanas en Sireh Deori Bazaar, mejor desde la calle de enfrente.\n\n**Dos opciones**\n\nEn tuk-tuk, o el día completo en coche con conductor y guía.\n\n**Práctico**\n\nOcho horas en la versión de día completo, con recogida y regreso al hotel.\n\nLas tasas de entrada se pagan en cada lugar, unos ₹1.500 por adulto extranjero para los principales monumentos.",
+  "highlights": [
+   "Disfruta del característico esplendor visual de Jaipur en este tour de día completo"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Transporte en un sedán/SUV con aire acondicionado",
+   "Guía profesional autorizado",
+   "Tasas de aparcamiento",
+   "Combustible",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Comidas",
+   "Propinas"
+  ]
+ },
+ "jaipur-sightseeing-half-day-tour": {
+  "title": "Jaipur: Tour privado de medio día o día completo en coche (desde $8,24)",
+  "metaTitle": "Jaipur: medio día o día completo privado",
+  "metaDescription": "Un medio día o día completo privado de Jaipur en coche con un itinerario flexible, desde una tarifa de solo guía en adelante.",
+  "shortDescription": "Un medio día o día completo privado de Jaipur en coche con un itinerario flexible, desde una tarifa de solo guía en adelante.",
+  "fullDescription": "**Flexible, esa es la razón para reservar en privado**\n\nCuatro opciones, y el itinerario se adapta: si la sala de espejos en Amber te retiene cuarenta minutos, te retiene cuarenta minutos, y si prefieres cambiar un monumento por un bazar, tu guía lo hará.\n\nTambién hay una tarifa de solo guía, útil si ya tienes un coche y conductor para tu viaje por la India.\n\n**Fuerte Amber**\n\nUn Patrimonio de la Humanidad de la UNESCO, iniciado en 1592 por Raja Man Singh sobre una cresta encima del lago Maota. Patios rajput construidos con artesanos mogoles, por eso la incrustación persa está junto a talla hindú.\n\nLa puerta pintada **Ganesh Pol**. El **Sheesh Mahal**, donde miles de fragmentos de espejo convexo en el techo convertían una vela en un cielo de estrellas. El **Sukh Niwas**, enfriado por agua que corre por canales a través del mármol. Y el **zenana**, doce apartamentos de reinas dispuestos para que ninguno diera a otro.\n\n**Jal Mahal**\n\nDesde la calzada sobre el lago Man Sagar. Cuatro de cinco plantas bajo el agua; sin barco, sin entrada.\n\n**City Palace**\n\nPatios, la armería, las galerías textiles, y las dos urnas de plata fundidas para que un maharajá pudiera llevar agua del Ganges a Inglaterra. Parte del complejo sigue siendo el hogar de la familia.\n\n**Jantar Mantar**\n\nDiecinueve instrumentos astronómicos de mampostería de la década de 1730, catalogado por la UNESCO, incluyendo el reloj de sol Samrat Yantra de 27 metros que todavía marca el tiempo con un margen de pocos segundos.\n\n**Hawa Mahal**\n\nLa pantalla de 953 ventanas de 1799, mejor desde la calle de enfrente.\n\n**Con el día completo**\n\nEspacio para **Panna Meena ka Kund**, el pozo escalonado debajo de Amber, o **Nahargarh** al atardecer, o los bazares, di cuál al reservar.\n\n**Cuatro opciones**\n\nDía completo solo con guía; medio día en coche con guía; día completo en coche con guía; o la versión más completa con más incluido.\n\n**Práctico**\n\nCoche privado con aire acondicionado con recogida y regreso al hotel en las opciones con vehículo.\n\nLas tasas de entrada son aparte, unos ₹1.500 por persona para un adulto extranjero en los principales sitios.",
+  "highlights": [
+   "Experiencia de visitas privadas de medio día o día completo"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Transporte en un sedán/SUV con aire acondicionado",
+   "Guía profesional autorizado",
+   "Tasas de aparcamiento",
+   "Entradas a monumentos (si se selecciona la opción)"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Propinas"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
