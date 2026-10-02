@@ -4,212 +4,302 @@
 // mapped. Imported by the tour page (for the canonical tag) and by the
 // sitemap, which must never submit a URL that canonicals somewhere else.
 export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
-  'lan-ha-bay-2-day-cruise-with-meals-and-activities':
-    '2-day-lan-ha-bay-cruise-with-meals-and-activities',
-  'combo-ninh-binh-tour-and-ha-long-bay-tour-in-2-day':
-    '2-day-ninh-binh-and-ha-long-bay-all-inclusive',
-  '2-day-sapa-trekking-tour-with-homestay-and-meals':
-    '2-day-sapa-tour-trekking-and-homestay-experience',
-  '2day-lan-ha-bay-cruise-cat-ba-island':
-    '2-days-lan-ha-bay-cruise-cat-ba-island',
-  '2-days-lan-ha-bay-hiking-biking-kayaking':
-    '2-days-lan-ha-bay-hiking-biking-kayaking-2',
-  'ha-long-kayaking-adventure-tour':
-    '2-days-lan-ha-bay-hiking-biking-kayaking-2',
+  '05-days-private-luxury-golden-triangle-tour-with-r':
+    '5-days-golden-triangle-ranthambore-tiger-safari',
+  '10-days-private-golden-triangle-with-udaipur':
+    '10-days-golden-triangle-tour-with-udaipur-jodhpur',
   '2-day-agra-tour-from-delhi-w-sunrise-sunset':
     '2day-agra-fatehpur-sikri-tour-from-delhi-by-gatima',
+  '2-day-and-1-night-halong-bay-tour':
+    'halong-bay-2-day-1-night-cruise',
+  '2-day-jim-corbett-national-park-tour-from-delhi':
+    '1-night-2-day-jim-corbett-national-park-tour',
+  '2-day-sapa-trekking-tour-with-homestay-and-meals':
+    '2-day-sapa-tour-trekking-and-homestay-experience',
   '2-days-delhi-agra-private-tour-with-sunrise-taj':
     '2day-agra-fatehpur-sikri-tour-from-delhi-by-gatima',
-  'from-delhi-2-day-delhi-agra-tour-with-sunrise':
-    '2day-agra-fatehpur-sikri-tour-from-delhi-by-gatima',
-  'from-delhi-2-days-agra-tour-with-taj-mahal':
-    '2day-agra-fatehpur-sikri-tour-from-delhi-by-gatima',
-  'from-delhi-2-days-overnight-taj-mahal-agra-private':
-    '2day-agra-fatehpur-sikri-tour-from-delhi-by-gatima',
-  '3-day-ha-giang-loop-w-safe-rider-max-8pax':
-    '3-day-ha-giang-loop-with-safe-rider-max-8-pax-3-3',
+  '2-days-ha-long-bay-5-star-cruise':
+    'ha-long-bay-1-or-2-day-5-star-cruise',
+  '2-days-lan-ha-bay-hiking-biking-kayaking':
+    '2-days-lan-ha-bay-hiking-biking-kayaking-2',
+  '2-nights-3-days-golden-triangle-tour-delhi-agra':
+    'golden-triangle-3-day-tour-from-delhi',
+  '2day-lan-ha-bay-cruise-cat-ba-island':
+    '2-days-lan-ha-bay-cruise-cat-ba-island',
   '3-day-cat-ba-island-and-lan-ha-bay-cruise-with-meals':
     '3-day-lan-ha-bay-cruise-cat-ba-island',
-  'lan-ha-bay-and-cat-ba-island-3-day-boat-cruise':
-    '3-day-lan-ha-bay-cruise-cat-ba-island',
-  'hanoi-ninh-binh-halong-bay-6-star-cruise-3-days':
-    '3-days-hanoi-ninh-binh-halong-lan-ha-bay-6-star-cruise-ha-long-bay',
+  '3-day-delhi-agra-and-jaipur-tour-india-golden':
+    'golden-triangle-3-day-tour-from-delhi',
+  '3-day-ha-giang-loop-w-safe-rider-max-8pax':
+    '3-day-ha-giang-loop-with-safe-rider-max-8-pax-3-3',
+  '3-days-delhi-agra-and-jaipur-tour-india-golden':
+    'golden-triangle-3-day-tour-from-delhi',
+  '4-day-delhi-agra-and-jaipur-tour-india-golden':
+    'delhi-agra-and-jaipur-in-4-days-golden-triangle',
+  '4-day-golden-triangle-tour-delhiagrajaipur':
+    'delhi-agra-and-jaipur-in-4-days-golden-triangle',
+  '4-day-golden-triangle-tour-to-agra-jaipur-from':
+    'delhi-agra-and-jaipur-in-4-days-golden-triangle',
+  '4-day-golden-triangle-tour-with-ranthambore-tiger':
+    'golden-triangle-ranthambore-tiger-safari-4-days',
   '4-day-ha-giang-loop-w-safe-rider-max-8-pax-2-2':
     '4-day-ha-giang-loop-w-safe-rider-max-8pax-in-hanoi',
   '4-day-trekking-tour-with-homestay-and-meals-in-sapa':
     '4-day-trekking-tour-with-homestay-in-sapa',
-  '05-days-private-luxury-golden-triangle-tour-with-r':
-    '5-days-golden-triangle-ranthambore-tiger-safari',
+  '4-nights-5-days-private-golden-triangle-tour':
+    '5-days-golden-triangle-tour-from-delhi',
+  '5-day-golden-triangle-tour':
+    '5-days-golden-triangle-tour-from-delhi',
   '5-day-golden-triangle-tour-with-ranthambore-safari':
     '5-days-golden-triangle-ranthambore-tiger-safari',
-  'golden-triangle-tour-with-ranthambore-tiger-safari':
+  '5-day-historical-golden-triangle-tour-of-india-all':
+    'india-gate-historical-heritage-tour',
+  '5-days-golden-triangle-tour-delhi-agra-jaipur-high':
+    '5-days-golden-triangle-tour-from-delhi',
+  '5-days-of-indias-golden-triangle-wild-ranthambore':
     '5-days-golden-triangle-ranthambore-tiger-safari',
-  'delhi-6-day-golden-triangle-tour-with-spiritual-va':
-    '6-day-private-golden-triangle-varanasi-tour-from-d',
-  'delhi-6-days-golden-triangle-tour-with-varanasi-bo':
-    '6-day-private-golden-triangle-varanasi-tour-from-d',
-  'delhi-varanasi-private-tour':
-    '6-day-private-golden-triangle-varanasi-tour-from-d',
   '6-day-all-inclusive-golden-triangle-group-tour':
     '6-days-golden-triangle-tour-from-delhi',
   '6-day-golden-triangle-tour-delhi-agra-jaipur-highl':
     '6-days-golden-triangle-tour-from-delhi',
+  '6-day-golden-triangle-tour-with-ranthambore':
+    '06-days-golden-triangle-tour-with-ranthambore',
+  '6-day-golden-triangle-tour-with-varanasi-from':
+    '6-day-private-golden-triangle-varanasi-tour-from-d',
   '6-days-golden-triangle-tour-explore-delhi-agra-jai':
     '6-days-golden-triangle-tour-from-delhi',
-  'delhi-6-day-golden-triangle-delhi-agra-and-jaipur':
-    '6-days-golden-triangle-tour-from-delhi',
-  'delhi-agra-jaipur-6-day-india-golden-triangle-tour':
-    '6-days-golden-triangle-tour-from-delhi',
-  'delhi-golden-guided-tour':
-    '6-days-golden-triangle-tour-from-delhi',
-  'delhi-triangle-guided-tour':
-    '6-days-golden-triangle-tour-from-delhi',
-  'from-delhi-6-day-golden-triangle-tour-delhi-agra':
-    '6-days-golden-triangle-tour-from-delhi',
-  'golden-triangle-india-tour-6-days-delhi-agra-jaipu':
-    '6-days-golden-triangle-tour-from-delhi',
-  'delhi-agra-jaipur-udaipur-7-days-golden-triangle-t':
-    '7-day-golden-triangle-india-tour-with-udaipur-from',
+  '8-day-rajasthan-tour-jaipur-jodhpur-jaisalmer':
+    '8-days-rajasthan-tour-jaipur-jodhpur-jaisalmer-bik',
+  '9-days-rajasthan-tour-jaipur-jodhpur-jaisalmer':
+    '9-days-rajasthan-tour-jaipur-jodhpur-jaisalmer-uda',
   'abu-dhabi-desert-safari-with-bbq-and-tanoura-shows':
     'abu-dhabi-desert-safari-with-camel-farm-and-bedouin-camp-dinner',
   'abu-dhabi-dune-bashing-safari-with-camel-farm-visit':
     'abu-dhabi-desert-safari-with-camel-farm-and-bedouin-camp-dinner',
   'abu-dhabi-grand-mosque-and-qasr-al-watan-private-transfer-tour':
     'abu-dhabi-grand-mosque-qasr-al-watan-and-etihad-towers-tour',
-  'from-delhi-taj-mahal-sunrise-tour-with-skip-the':
-    'agra-delhi-sunrise-tour',
+  'affordable-3-day-golden-triangle-tour-from-delhi':
+    'golden-triangle-3-day-tour-from-delhi',
+  'agra-delhi-guided-tour':
+    'from-delhi-taj-mahal-agra-fort-fatehpur-sikri-in',
+  'agra-entry-entry-ticket':
+    'taj-mahal-guided-tour-with-skip-the-line-entry',
+  'agra-fort-baby-taj-mehtab-bagh-guided-tour-with':
+    'private-agra-tour-akbar-tomb-agra-fort-and-baby',
+  'agra-fort-expert-guided-tour':
+    'full-agra-day-city-tour-by-tuk-tuk-w',
+  'agra-fort-mumbai-private-tour':
+    'from-mumbai-taj-mahal-private-day-tour-by-return',
   'agra-fort-sunset-tour':
     'agra-friday-tour-taj-closed-alternative',
-  'agra-taj-mahal-agra-fort-fatehpur-sikri-guided-tou':
-    'agra-guided-tour-of-taj-mahal-agra-fort-and',
-  'from-agra-half-day-fatehpur-sikri-guided-tour':
-    'agra-guided-tour-of-taj-mahal-agra-fort-and',
-  'taj-mahal-fatehpur-guided-tour':
-    'agra-guided-tour-of-taj-mahal-agra-fort-and',
-  'agra-street-food-tour-with-spice-market-tuk-tuk':
-    'agra-old-agra-market-street-food-tour-by-tuk',
-  'agra-taj-mahal-skip-the-line-agra-fort-and':
-    'agra-skip-the-line-taj-mahal-agra-fort-baby',
-  'agra-taj-mahal-skip-the-line-agra-fort-baby':
-    'agra-skip-the-line-taj-mahal-agra-fort-baby',
-  'taj-mahal-sunset-sunset-tour':
-    'agra-sunset-tour-of-taj-mahal-with-skip-the',
-  'agra-skip-the-line-taj-mahal-agra-fort-tour':
-    'agra-taj-mahal-and-mausoleum-guided-tour-with-skip',
-  'agra-taj-mahal-mausoleum-skip-the-line-tour-with':
-    'agra-taj-mahal-and-mausoleum-guided-tour-with-skip',
-  'agra-taj-mahal-express-entry-ticket':
-    'agra-taj-mahal-express-entry-ticket-28-hour',
-  'from-agra-taj-mahal-guided-tour-with-fast-track':
-    'agra-taj-mahal-fast-track-entry-tour-with-expert',
-  'agra-taj-mahal-tour-with-professional-photographer':
-    'agra-taj-mahal-tour-with-expert-photographer-and-t',
-  'from-agra-taj-mahal-tour-professional-photographer':
-    'agra-taj-mahal-tour-with-expert-photographer-and-t',
-  'phuket-cheow-guided-tour':
-    'all-inclusive-cheow-lan-lake-cave-kayak-and-lunch-in-phuket-2',
-  'taj-mahal-sunrise-agra-fort-baby-taj-tour-all':
-    'all-inclusive-sunrise-taj-mahal-agra-fort-baby-taj',
-  'amanohashidate-and-ine-funaya-day-tour-in-kyoto':
-    'amanohashidate-and-ine-funaya-and-ine-bay-day-tour-in-kyoto',
-  'ao-thalane-bay-half-day-tour':
-    'ao-thalane-guided-tour',
-  'asakusa-and-sensoji-walking-tour':
-    'asakusa-walking-tour-with-sensoji-temple-visit',
-  'bangkok-ayutthaya-day-trip':
-    'ayutthaya-ancient-temples-day-trip-bangkok-thai-lunch',
-  'ba-na-hills-and-golden-bridge-day-trip-2':
-    'ba-na-hills-and-golden-bridge-day-trip',
-  'golden-bridge-ba-na-hills-day-tour-in-da-nang':
-    'ba-na-hills-and-golden-bridge-day-trip',
-  'ba-na-hills-and-golden-bridge-day-trip-from-da-nang-or-hoi-an-by-local-operator':
-    'ba-na-hills-and-golden-bridge-day-trip-from-da-nang-hoi-an-by-local-operator',
-  'golden-bridge-ba-na-hills-full-day-tour-in-hoi-an':
-    'ba-na-hills-and-golden-bridge-full-day-tour',
-  'ba-na-hills-and-golden-bridge-tour-from-da-nang-hoi-an-by-local-operator':
-    'ba-na-hills-and-golden-bridge-tour-from-hoi-an-da-nang-by-local-operator',
-  'from-da-nang-or-hoi-an-ba-na-hills-golden-bridge-tour-by-local-operator':
-    'ba-na-hills-and-golden-bridge-tour-from-hoi-an-da-nang-by-local-operator',
-  'golden-bridge-ba-na-hills-and-marble-mountains-in-da-nang':
-    'ba-na-hills-golden-bridge-and-marble-mountains',
-  'backstreets-food-tour-with-15-tastings':
-    'bangkok-chinatown-food-tour-15-tastings-michelin-stops',
-  'bangkok-authentic-tasting-thai-chinatown-walking-food-tour':
-    'bangkok-chinatown-food-tour-15-tastings-michelin-stops',
-  'kanchanaburi-guided-tour':
-    'bangkok-death-railway-bridge-river-kwai-hellfire-pass',
-  'grand-palace-wat-arun-and-wat-pho-guided-tour':
-    'bangkok-grand-palace-wat-pho-wat-arun-guided-tour',
-  'bangkok-canal-tour':
-    'bangkok-longtail-boat-canal-cruise-hidden-temples',
-  'museum-siam-boat-tour':
-    'bangkok-longtail-boat-canal-cruise-hidden-temples',
-  'bangkok-floating-market-railway-market-day-trip-boat-ride':
-    'bangkok-maeklong-railway-damnoen-saduak-dragon-temple-tour',
-  'damnoen-saduak-market-and-maeklong-railway-market':
-    'bangkok-maeklong-railway-damnoen-saduak-dragon-temple-tour',
-  'floating-market-and-train-market-experience':
-    'bangkok-maeklong-railway-damnoen-saduak-dragon-temple-tour',
-  'maeklong-railway-market-shopping-tour':
-    'bangkok-maeklong-railway-damnoen-saduak-dragon-temple-tour',
-  'bangkok-tuk-tuk-chinatown-street-food-temple-night-tour':
-    'bangkok-street-food-tuk-tuk-night-tour',
-  'song-wat-road-evening-tour':
-    'bangkok-street-food-tuk-tuk-night-tour',
-  'bangli-hidden-gems-waterfall-tour-in-ubud-2':
-    'bangli-hidden-gems-waterfall-tour-in-ubud',
-  'market-tour-basket-boat-ride-and-cooking-class-by-hangcoconut-in-hoi-an':
-    'basket-boat-ride-cooking-class-by-hangcoconut-in-hoi-an',
-  'best-tours-transfer-to-bana-hills-and-golden-bridg':
-    'best-tours-transfer-to-bana-hills-and-golden-bridge-da-nang-2',
-  'bridge-transfer-guided-tour':
-    'best-tours-transfer-to-bana-hills-and-golden-bridge-da-nang-2',
-  'taj-mahal-entry-tickets':
-    'book-entrance-tickets-of-taj-mahal-with-express-en',
-  'ha-long-bay-to-lan-ha-bay-cat-ba-island-day-tour':
-    'cat-ba-island-and-lan-ha-bay-day-trip-with-cruise',
-  'cham-island-daily-tour-with-snorkeling':
-    'cham-island-snorkeling-experience',
-  'cham-islands-snorkeling-trip-with-lunch':
-    'cham-islands-snorkeling-trip-by-speedboat-with-lunch',
-  'chicken-island-guided-tour':
-    'chicken-island-boat-tour',
-  'phra-nang-cave-beach-afternoon-tour':
-    'chicken-island-boat-tour',
-  'phra-nang-cave-beach-boat-tour':
-    'chicken-island-boat-tour',
-  'ao-nang-sunset-sunset-tour':
-    'chicken-island-sunset-tour',
-  'chicken-island-sunset-sunset-tour':
-    'chicken-island-sunset-tour',
-  'city-unseen-highlights-2h-tour-in-ho-chi-minh-city':
-    'city-highlights-and-unseen-tour-in-ho-chi-minh-city',
-  'basket-boat-ride-with-local-guide-in-coconut-forest-in-hoi-an':
-    'coconut-forest-basket-boat-ride-with-pickup-in-hoi-an',
-  'cu-chi-tunnels-and-mekong-delta-day-tour':
-    'cu-chi-tunnels-and-mekong-delta-day-trip',
-  'cu-chi-tunnels-and-mekong-delta-history-culture-and-river-life-ho-chi-minh-city':
-    'cu-chi-tunnels-and-mekong-delta-history-river-life-and-culture-ho-chi-minh-city',
-  'cu-chi-tunnels-tunnels-guided-tour':
-    'cu-chi-tunnels-guided-tour-2',
-  'golden-triangle-tour-with-varanasi-spiritual-journ':
-    'delhi-7-days-golden-triangle-with-tiger-safari-var',
-  '4-day-delhi-agra-and-jaipur-tour-india-golden':
-    'delhi-agra-and-jaipur-in-4-days-golden-triangle',
-  '4-day-golden-triangle-tour-delhiagrajaipur':
-    'delhi-agra-and-jaipur-in-4-days-golden-triangle',
-  'delhi-4-day-golden-triangle-delhi-agra-and-jaipur':
-    'delhi-agra-and-jaipur-in-4-days-golden-triangle',
-  'from-delhi-4-day-golden-triangle-tour-delhi-agra':
-    'delhi-agra-and-jaipur-in-4-days-golden-triangle',
   'agra-gatimaan-entry-ticket':
     'delhi-agra-round-trip-gatimaan-train',
   'agra-gatimaan-express-tour':
     'delhi-agra-round-trip-gatimaan-train',
-  'delhi-akshardham-temple-tour-with-light-and-water-':
-    'delhi-akshardham-temple-tour-with-magical-water-sh',
+  'agra-mahal-express-tour':
+    'from-delhi-agra-same-day-trip-by-gatimaan-express',
+  'agra-mahal-full-day-tour':
+    'from-delhi-private-taj-mahal-agra-tour-with-5',
+  'agra-mahal-guided-tour':
+    'from-delhi-taj-mahal-agra-day-trip-by-superfast',
+  'agra-professional-sunrise-tour':
+    'taj-mahal-sunrise-guided-tour',
+  'agra-royal-sunrise-tour':
+    'taj-mahal-sunrise-guided-tour',
+  'agra-royal-trip-taj-mahal-agra-fort-baby-taj':
+    'from-delhi-or-jaipur-taj-mahal-agra-fort-private',
+  'agra-same-guided-tour':
+    'from-delhi-taj-mahal-agra-private-day-trip-w',
+  'agra-sikri-guided-tour':
+    'from-delhi-taj-mahal-agra-fort-fatehpur-sikri-in',
+  'agra-skip-the-line-taj-mahal-agra-fort-baby':
+    'agra-taj-mahal-skip-the-line-agra-fort-and',
+  'agra-skip-the-line-taj-mahal-agra-fort-private':
+    'taj-mahal-official-guided-tour',
+  'agra-skip-the-line-taj-mahal-agra-fort-private-1790336921566-ow4vbn':
+    'taj-mahal-official-guided-tour',
+  'agra-skip-the-line-taj-mahal-agra-fort-private-experience':
+    'taj-mahal-official-guided-tour',
+  'agra-skip-the-line-taj-mahal-agra-fort-private-tour':
+    'taj-mahal-official-guided-tour',
+  'agra-skip-the-line-taj-mahal-agra-fort-tour':
+    'agra-taj-mahal-and-mausoleum-guided-tour-with-skip',
+  'agra-skip-the-line-taj-mahal-agra-private-tour':
+    'taj-mahal-official-guided-tour',
+  'agra-skip-the-line-taj-mahal-agra-private-tour-tour':
+    'taj-mahal-official-guided-tour',
+  'agra-street-food-spice-bazaars-walking-tour-tuk-tu':
+    'kinari-bazaar-food-tour',
+  'agra-street-food-tour-with-spice-market-tuk-tuk':
+    'agra-old-agra-market-street-food-tour-by-tuk',
+  'agra-taj-mahal-agra-fort-and-baby-taj-guided':
+    'private-agra-tour-akbar-tomb-agra-fort-and-baby',
+  'agra-taj-mahal-agra-fort-baby-taj-guided-day':
+    'private-agra-tour-akbar-tomb-agra-fort-and-baby',
+  'agra-taj-mahal-agra-fort-fatehpur-sikri-guided-tou':
+    'agra-guided-tour-of-taj-mahal-agra-fort-and',
+  'agra-taj-mahal-agra-fort-skip-the-line-private':
+    'taj-mahal-official-guided-tour',
+  'agra-taj-mahal-agra-fort-skip-the-line-tour':
+    'private-agra-tour-akbar-tomb-agra-fort-and-baby',
+  'agra-taj-mahal-and-agra-fort-skip-the-line':
+    'taj-mahal-official-guided-tour',
+  'agra-taj-mahal-express-entry-ticket':
+    'agra-taj-mahal-express-entry-ticket-28-hour',
+  'agra-taj-mahal-mausoleum-skip-the-line-tour-with':
+    'agra-taj-mahal-and-mausoleum-guided-tour-with-skip',
+  'agra-taj-mahal-skip-the-line-agra-fort-baby':
+    'agra-taj-mahal-skip-the-line-agra-fort-and',
+  'agra-taj-mahal-skip-the-line-guided-private-3':
+    'taj-mahal-official-guided-tour',
+  'agra-taj-mahal-tour-with-photoshoot-saree-henna-ar':
+    'taj-mahal-with-professional-photoshoot-tour',
+  'agra-taj-mahal-tour-with-professional-photographer':
+    'agra-taj-mahal-tour-with-expert-photographer-and-t',
+  'agra-taj-mahal-tour-with-professional-photoshoot':
+    'taj-mahal-with-professional-photoshoot-tour',
+  'all-inclusive-blue-lagoon-and-tanjung-jepun-snorkeling-in-ubud':
+    'snorkeling-at-blue-lagoon-and-tanjung-jepun-all-inclusive-in-ubud',
+  'all-inclusive-old-and-new-delhi-full-day-private':
+    'delhi-same-day-sightseeing-tour',
+  'all-inclusive-private-taj-mahal-agra-day-tour-from':
+    'from-delhi-taj-mahal-agra-private-day-trip-w',
+  'amanohashidate-and-ine-funaya-day-tour-in-kyoto':
+    'amanohashidate-and-ine-funaya-and-ine-bay-day-tour-in-kyoto',
+  'amber-fort-amber-private-tour':
+    'jaipur-amber-fort-guided-walking-tour',
+  'ao-nang-sunset-sunset-tour':
+    'chicken-island-sunset-tour',
+  'ao-thalane-bay-half-day-tour':
+    'ao-thalane-guided-tour',
+  'asakusa-and-sensoji-walking-tour':
+    'asakusa-walking-tour-with-sensoji-temple-visit',
+  'ba-na-hills-and-golden-bridge-day-trip-2':
+    'ba-na-hills-and-golden-bridge-day-trip',
+  'ba-na-hills-and-golden-bridge-day-trip-from-da-nang-or-hoi-an-by-local-operator':
+    'ba-na-hills-and-golden-bridge-day-trip-from-da-nang-hoi-an-by-local-operator',
+  'ba-na-hills-and-golden-bridge-tour-from-da-nang-hoi-an-by-local-operator':
+    'ba-na-hills-and-golden-bridge-tour-from-hoi-an-da-nang-by-local-operator',
+  'backstreets-food-tour-with-15-tastings':
+    'bangkok-chinatown-food-tour-15-tastings-michelin-stops',
+  'bangkok-authentic-tasting-thai-chinatown-walking-food-tour':
+    'bangkok-chinatown-food-tour-15-tastings-michelin-stops',
+  'bangkok-ayutthaya-day-trip':
+    'ayutthaya-ancient-temples-day-trip-bangkok-thai-lunch',
+  'bangkok-cabaret-entry-ticket':
+    'golden-dome-cabaret-show-entry-ticket-in-bangkok-2',
+  'bangkok-canal-tour':
+    'bangkok-longtail-boat-canal-cruise-hidden-temples',
+  'bangkok-floating-market-railway-market-day-trip-boat-ride':
+    'bangkok-maeklong-railway-damnoen-saduak-dragon-temple-tour',
+  'bangkok-royal-boat-tour':
+    'royal-princess-river-dinner-cruise-with-live-music-in-bangkok-2',
+  'bangkok-tuk-tuk-chinatown-street-food-temple-night-tour':
+    'bangkok-street-food-tuk-tuk-night-tour',
+  'bangli-hidden-gems-waterfall-tour-in-ubud-2':
+    'bangli-hidden-gems-waterfall-tour-in-ubud',
+  'basket-boat-ride-with-local-guide-in-coconut-forest-in-hoi-an':
+    'coconut-forest-basket-boat-ride-with-pickup-in-hoi-an',
+  'best-tours-transfer-to-bana-hills-and-golden-bridg':
+    'best-tours-transfer-to-bana-hills-and-golden-bridge-da-nang-2',
+  'blue-lagoon-and-tanjung-jepun-snorkeling-tour-in-ubud':
+    'snorkeling-at-blue-lagoon-and-tanjung-jepun-all-inclusive-in-ubud',
+  'blue-lagoon-snorkeling-temple-and-waterfall-tour-in-ubud':
+    'snorkeling-at-blue-lagoon-and-waterfall-all-inclusive-in-ubud',
+  'blue-lagoon-snorkeling-with-option-waterfall-and-temple-in-ubud':
+    'snorkeling-at-blue-lagoon-and-waterfall-all-inclusive-in-ubud',
+  'bridge-transfer-guided-tour':
+    'best-tours-transfer-to-bana-hills-and-golden-bridge-da-nang-2',
+  'cham-island-daily-tour-with-snorkeling':
+    'cham-island-snorkeling-experience',
+  'cham-island-snorkeling-and-scuba-diving':
+    'snorkeling-or-scuba-diving-in-cham-islands',
+  'cham-islands-snorkeling-trip-with-lunch':
+    'cham-islands-snorkeling-trip-by-speedboat-with-lunch',
   'chandni-chowk-shopping-tour':
     'delhi-guided-shopping-tour-female-expert',
+  'chicken-island-guided-tour':
+    'chicken-island-boat-tour',
+  'chicken-island-sunset-sunset-tour':
+    'chicken-island-sunset-tour',
+  'city-palace-sightseeing-full-day-tour':
+    'lake-pichola-full-day-tour',
+  'city-unseen-highlights-2h-tour-in-ho-chi-minh-city':
+    'city-highlights-and-unseen-tour-in-ho-chi-minh-city',
+  'classic-golden-triangle-tour-from-delhi-5-days-4':
+    '5-days-golden-triangle-tour-from-delhi',
+  'combo-ninh-binh-tour-and-ha-long-bay-tour-in-2-day':
+    '2-day-ninh-binh-and-ha-long-bay-all-inclusive',
+  'cooking-class-market-visit-and-basket-boat-ride-in-hoi-an':
+    'market-tour-basket-boat-ride-cooking-class-in-hoi-an',
+  'cu-chi-tunnels-and-mekong-delta-day-tour':
+    'cu-chi-tunnels-and-mekong-delta-day-trip',
+  'cu-chi-tunnels-and-mekong-delta-history-culture-and-river-life-ho-chi-minh-city':
+    'cu-chi-tunnels-and-mekong-delta-history-river-life-and-culture-ho-chi-minh-city',
+  'cu-chi-tunnels-and-mekong-delta-with-coconut-village-tour-ho-chi-minh-city':
+    'hcm-cu-chi-tunnels-mekong-delta-and-coconut-village-tour-ho-chi-minh-city',
+  'cu-chi-tunnels-kisstour-guided-tour':
+    'kisstour-in-ho-chi-minh-city-3',
+  'cu-chi-tunnels-morning-or-afternoon-tour-in-ho-chi-minh-city':
+    'discover-cu-chi-tunnels-morning-afternoon-tour-ho-chi-minh-city',
+  'cu-chi-tunnels-tunnels-guided-tour':
+    'cu-chi-tunnels-guided-tour-2',
+  'damnoen-saduak-market-and-maeklong-railway-market':
+    'bangkok-maeklong-railway-damnoen-saduak-dragon-temple-tour',
+  'delhi-2-day-private-golden-triangle-tour-to-agra':
+    'from-delhi-2-day-golden-triangle-trip-to-agra',
+  'delhi-3-day-golden-triangle-tour-with-german-speak':
+    'golden-triangle-3-day-tour-from-delhi',
+  'delhi-3-day-private-golden-triangle-experience-wit':
+    'golden-triangle-3-day-tour-from-delhi',
+  'delhi-3-nights-4-days-golden-triangle-tour':
+    'delhi-private-4-day-golden-triangle-luxury-tour',
+  'delhi-4-day-golden-triangle-delhi-agra-and-jaipur':
+    'delhi-agra-and-jaipur-in-4-days-golden-triangle',
+  'delhi-4-day-golden-triangle-ranthambore-tiger-safa':
+    'golden-triangle-ranthambore-tiger-safari-4-days',
+  'delhi-6-day-golden-triangle-delhi-agra-and-jaipur':
+    '6-days-golden-triangle-tour-from-delhi',
+  'delhi-6-day-golden-triangle-delhi-agra-and-jaipur-tour':
+    '6-days-golden-triangle-tour-from-delhi',
+  'delhi-6-day-golden-triangle-tour-with-spiritual-va':
+    '6-day-private-golden-triangle-varanasi-tour-from-d',
+  'delhi-6-day-golden-triangle-tour-with-varanasi':
+    '6-day-private-golden-triangle-varanasi-tour-from-d',
+  'delhi-6-day-private-golden-triangle-tour-with':
+    '6-day-golden-triangle-tour-with-tiger-safari',
+  'delhi-6-days-golden-triangle-tour-with-varanasi-bo':
+    '6-day-private-golden-triangle-varanasi-tour-from-d',
+  'delhi-7-days-golden-triangle-with-tiger-safari-var':
+    'golden-triangle-tour-with-varanasi-spiritual-journ',
+  'delhi-agra-guided-tour':
+    'golden-triangle-3-day-tour-from-delhi',
+  'delhi-agra-jaipur-3-day-golden-triangle':
+    'golden-triangle-3-day-tour-from-delhi',
+  'delhi-agra-jaipur-6-day-india-golden-triangle-tour':
+    '6-days-golden-triangle-tour-from-delhi',
+  'delhi-agra-jaipur-golden-triangle-multiday-trip-wi':
+    'from-delhi-all-inclusive-multi-days-golden-triangl',
+  'delhi-agra-jaipur-udaipur-7-days-golden-triangle-t':
+    '7-day-golden-triangle-india-tour-with-udaipur-from',
+  'delhi-agra-private-tour':
+    'taj-mahal-agra-day-trip-luxury-car',
+  'delhi-agra-sunrise-tour':
+    'taj-mahal-sunrise-elephant-conservation-tour',
+  'delhi-akshardham-temple-tour-with-magical-water-sh':
+    'delhi-akshardham-temple-tour-with-light-and-water-',
+  'delhi-all-included-3-day-golden-triangle-tour':
+    'golden-triangle-3-day-tour-from-delhi',
+  'delhi-all-inclusive-taj-mahal-agra-fort-baby-taj':
+    'delhi-all-inclusive-day-trip-to-taj-mahal-with',
+  'delhi-full-day-guided-tour':
+    'delhi-same-day-sightseeing-tour',
+  'delhi-golden-guided-tour':
+    '6-days-golden-triangle-tour-from-delhi',
+  'delhi-golden-private-tour':
+    '5-days-golden-triangle-tour-from-delhi',
+  'delhi-golden-triangle-ranthambore-tiger-safari-tou':
+    '6-day-golden-triangle-ranthambore-tiger-safari',
   'delhi-guided-shopping-tour-experience-with-expert-':
     'delhi-guided-shopping-tour-female-expert',
   'delhi-guided-shopping-tour-experience-with-female-':
@@ -218,316 +308,320 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
     'delhi-guided-shopping-tour-female-expert',
   'delhi-guided-shopping-tour-with-local-female-exper':
     'delhi-guided-shopping-tour-female-expert',
-  'from-delhi-all-inclusive-same-day-jaipur-tour-by':
-    'delhi-jaipur-same-day-tour-by-car',
-  'from-delhi-jaipur-same-day-tour':
-    'delhi-jaipur-same-day-tour-by-car',
-  'jaipur-same-day-tour-from-delhi':
-    'delhi-jaipur-same-day-tour-by-car',
-  'affordable-3-day-golden-triangle-tour-from-delhi':
-    'delhi-private-3-day-golden-triangle-tour-with-fema',
-  'delhi-3-day-golden-triangle-tour-with-german-speak':
-    'delhi-private-3-day-golden-triangle-tour-with-fema',
-  'delhiagrajaipur-2-nights-3-days-golden-triangle-to':
-    'delhi-private-3-day-golden-triangle-tour-with-fema',
-  'from-delhi-3-day-all-inclusive-private-golden-tria':
-    'delhi-private-3-day-golden-triangle-tour-with-fema',
-  'from-delhi-3-day-golden-triangle-tour-w-hotel':
-    'delhi-private-3-day-golden-triangle-tour-with-fema',
-  'from-delhi-private-3-day-golden-triangle-luxury-to':
-    'delhi-private-3-day-golden-triangle-tour-with-fema',
-  'from-delhi-private-3-day-golden-triangle-tour-by':
-    'delhi-private-3-day-golden-triangle-tour-with-fema',
-  'from-delhi-private-3-day-golden-triangle-tour-with':
-    'delhi-private-3-day-golden-triangle-tour-with-fema',
-  'delhi-3-nights-4-days-golden-triangle-tour':
-    'delhi-private-4-day-golden-triangle-luxury-tour',
-  'delhi-private-4-day-golden-triangle-tour-with-taj':
-    'delhi-private-4-day-golden-triangle-luxury-tour',
-  'delhi-triangle-private-tour':
-    'delhi-private-4-day-golden-triangle-luxury-tour',
-  'from-delhi-4-day-golden-triangle-luxury-trip-with':
-    'delhi-private-4-day-golden-triangle-luxury-tour',
-  'from-delhi-private-4-day-golden-triangle-luxury-to':
-    'delhi-private-4-day-golden-triangle-luxury-tour',
-  'from-delhi-private-4-day-golden-triangle-tour-with':
-    'delhi-private-4-day-golden-triangle-luxury-tour',
-  'india-gate-triangle-private-tour':
-    'delhi-private-4-day-golden-triangle-luxury-tour',
-  'skip-the-line-guided-tour-of-delhis-iconic-red':
-    'delhi-red-fort-humayuns-tomb-skip-the-line-guided',
-  'new-delhi-red-fort-guided-tour-with-entry-ticket':
-    'delhi-red-fort-skip-the-line-entry-ticket-guided',
-  'all-inclusive-old-and-new-delhi-full-day-private':
-    'delhi-same-day-sightseeing-tour',
-  'delhi-full-day-guided-tour':
-    'delhi-same-day-sightseeing-tour',
+  'delhi-inclusive-heritage-tour':
+    'india-gate-historical-heritage-tour',
+  'delhi-jaipur-guided-tour':
+    'golden-triangle-3-day-tour-from-delhi',
+  'delhi-mahal-sunrise-tour':
+    'delhi-taj-mahal-sunrise-private-tour-skip-the-line',
   'delhi-old-new-delhi-full-day-private-tour-with':
     'delhi-same-day-sightseeing-tour',
   'delhi-old-new-delhi-private-full-half-day-tour':
     'delhi-same-day-sightseeing-tour',
   'delhi-old-new-delhi-private-full-or-half-day':
     'delhi-same-day-sightseeing-tour',
+  'delhi-private-3-day-golden-triangle-tour-with-fema':
+    'golden-triangle-3-day-tour-from-delhi',
+  'delhi-private-4-day-golden-triangle-tour-with-taj':
+    'delhi-private-4-day-golden-triangle-luxury-tour',
+  'delhi-private-5-day-golden-triangle-tour-with-fema':
+    '5-days-golden-triangle-tour-from-delhi',
   'delhi-private-full-day-city-tour-of-old-and':
     'delhi-same-day-sightseeing-tour',
   'delhi-private-full-or-half-day-old-and-new':
     'delhi-same-day-sightseeing-tour',
+  'delhi-private-taj-mahalagra-day-tour-with-express-':
+    'delhi-all-inclusive-day-trip-to-taj-mahal-with',
+  'delhi-ranthambore-guided-tour':
+    'golden-triangle-ranthambore-tiger-safari-4-days',
+  'delhi-red-fort-skip-the-line-entry-ticket-guided':
+    'new-delhi-red-fort-guided-tour-with-entry-ticket',
+  'delhi-safari-guided-tour':
+    'golden-triangle-ranthambore-tiger-safari-4-days',
+  'delhi-same-day-taj-mahal-agra-fort-tour-with':
+    'delhi-all-inclusive-day-trip-to-taj-mahal-with',
   'delhi-sightseeing-half-day-tour':
     'delhi-same-day-sightseeing-tour',
-  'exclusive-private-full-day-guided-tour-of-old-and':
-    'delhi-same-day-sightseeing-tour',
-  'india-gate-full-day-tour':
-    'delhi-same-day-sightseeing-tour',
-  'old-delhi-new-delhi-trails-private-tour':
-    'delhi-same-day-sightseeing-tour',
-  'old-new-delhi-guided-tour':
-    'delhi-same-day-sightseeing-tour',
-  'old-new-delhi-private-half-day-tour':
-    'delhi-same-day-sightseeing-tour',
-  'old-new-delhi-private-tour':
-    'delhi-same-day-sightseeing-tour',
-  'humayuns-tomb-transfers-mini-tour':
-    'delhi-skip-the-line-humayuns-tomb-tour-with-transf',
-  'delhi-mahal-sunrise-tour':
-    'delhi-taj-mahal-sunrise-private-tour-skip-the-line',
-  'delhi-all-inclusive-day-trip-to-taj-mahal-with':
-    'delhi-to-agra-private-day-tour-with-taj-mahal',
-  'delhi-all-inclusive-taj-mahal-agra-fort-baby-taj':
-    'delhi-to-agra-private-day-tour-with-taj-mahal',
-  'delhi-private-taj-mahalagra-day-tour-with-express-':
-    'delhi-to-agra-private-day-tour-with-taj-mahal',
-  'delhi-same-day-taj-mahal-agra-fort-tour-with':
-    'delhi-to-agra-private-day-tour-with-taj-mahal',
-  'cu-chi-tunnels-morning-or-afternoon-tour-in-ho-chi-minh-city':
-    'discover-cu-chi-tunnels-morning-afternoon-tour-ho-chi-minh-city',
+  'delhi-skip-the-line-humayuns-tomb-tour-with-transf':
+    'humayuns-tomb-transfers-mini-tour',
+  'delhi-taj-mahalagra-luxury-tour-by-gatimaan-expres':
+    'taj-mahal-same-day-express-train-tour',
+  'delhi-temples-tour-5-hour-private-spiritual-experi':
+    'old-delhi-spiritual-sites-temples-private-6-hour-t',
+  'delhi-to-agra-private-day-tour-with-taj-mahal':
+    'delhi-all-inclusive-day-trip-to-taj-mahal-with',
+  'delhi-triangle-guided-tour':
+    '6-days-golden-triangle-tour-from-delhi',
+  'delhi-triangle-private-tour':
+    'delhi-private-4-day-golden-triangle-luxury-tour',
+  'delhi-udaipur-guided-tour':
+    'from-delhi-6-day-private-golden-triangle-tour-with',
+  'delhi-varanasi-private-tour':
+    '6-day-private-golden-triangle-varanasi-tour-from-d',
+  'delhiagrajaipur-2-nights-3-days-golden-triangle-to':
+    'golden-triangle-3-day-tour-from-delhi',
+  'dubai-desert-safari-with-camel-ride-and-optional-hatta-extension':
+    'dubai-red-dune-evening-safari-with-camel-ride-and-bbq-camp',
   'dubai-marina-luxury-yacht-cruise-with-onboard-barbecue':
     'dubai-marina-yacht-tour-with-breakfast-or-barbecue',
   'dubai-red-dunes-self-drive-quad-or-buggy-with-camel-ride':
     'dubai-quad-bike-or-dune-buggy-session-with-optional-transfer',
-  'dubai-desert-safari-with-camel-ride-and-optional-hatta-extension':
-    'dubai-red-dune-evening-safari-with-camel-ride-and-bbq-camp',
-  'fort-lisaili-desert-safari-with-camp-dinner-and-shows':
-    'dubai-red-dune-evening-safari-with-camel-ride-and-bbq-camp',
   'east-bali-private-tour-with-lempuyang-temple':
     'east-bali-private-tour-with-lempuyang-temple-2',
+  'elefun-elephant-sanctuary-tour-in-jaipur':
+    'jaipur-elephant-sanctuary-experience-with-transfer',
+  'exclusive-private-full-day-guided-tour-of-old-and':
+    'delhi-same-day-sightseeing-tour',
+  'floating-market-and-train-market-experience':
+    'bangkok-maeklong-railway-damnoen-saduak-dragon-temple-tour',
+  'fort-lisaili-desert-safari-with-camp-dinner-and-shows':
+    'dubai-red-dune-evening-safari-with-camel-ride-and-bbq-camp',
   'from-agra-fatehpur-sikri-sightseeing-tour-by-priva':
     'from-agra-fatehpur-sikri-sightseeing-by-private-ca',
-  'delhi-taj-mahal-jaipur-2-day-heritage-sightseeing-':
-    'from-delhi-2-day-agra-jaipur-private-golden-triang',
+  'from-agra-half-day-fatehpur-sikri-guided-tour':
+    'agra-guided-tour-of-taj-mahal-agra-fort-and',
+  'from-agra-private-taj-mahal-agra-fort-skip-the':
+    'taj-mahal-official-guided-tour',
+  'from-agra-taj-mahal-guided-tour-with-fast-track':
+    'agra-taj-mahal-fast-track-entry-tour-with-expert',
+  'from-agra-taj-mahal-tour-professional-photographer':
+    'agra-taj-mahal-tour-with-expert-photographer-and-t',
+  'from-agra-taj-mahal-tour-with-professional-photogr':
+    'taj-mahal-with-professional-photoshoot-tour',
+  'from-da-nang-or-hoi-an-ba-na-hills-golden-bridge-tour-by-local-operator':
+    'ba-na-hills-and-golden-bridge-tour-from-hoi-an-da-nang-by-local-operator',
+  'from-delhi-2-day-agra-jaipur-private-golden-triang':
+    'delhi-taj-mahal-jaipur-2-day-heritage-sightseeing-',
+  'from-delhi-2-day-agra-taj-mahal-tour-by':
+    '2day-agra-fatehpur-sikri-tour-from-delhi-by-gatima',
+  'from-delhi-2-day-delhi-agra-tour-with-sunrise':
+    '2day-agra-fatehpur-sikri-tour-from-delhi-by-gatima',
+  'from-delhi-2-day-golden-triangle-tour-to-agra':
+    'from-delhi-2-day-golden-triangle-trip-to-agra',
   'from-delhi-2-day-private-delhi-and-agra-tour':
-    'from-delhi-2-day-agra-taj-mahal-tour-by',
+    '2day-agra-fatehpur-sikri-tour-from-delhi-by-gatima',
   'from-delhi-2-day-taj-mahal-agra-tour-by':
-    'from-delhi-2-day-agra-taj-mahal-tour-by',
-  'delhi-4-day-golden-triangle-ranthambore-tiger-safa':
-    'from-delhi-4-days-golden-triangle-tour-with-rantha',
-  'delhi-ranthambore-guided-tour':
-    'from-delhi-4-days-golden-triangle-tour-with-rantha',
-  'delhi-safari-guided-tour':
-    'from-delhi-4-days-golden-triangle-tour-with-rantha',
-  'from-delhi-4-day-golden-triangle-ranthambore-tiger':
-    'from-delhi-4-days-golden-triangle-tour-with-rantha',
-  '4-nights-5-days-private-golden-triangle-tour':
-    'from-delhi-5-days-private-golden-triangle-tour-wit',
-  '5-days-golden-triangle-tour-delhi-agra-jaipur-high':
-    'from-delhi-5-days-private-golden-triangle-tour-wit',
-  'classic-golden-triangle-tour-from-delhi-5-days-4':
-    'from-delhi-5-days-private-golden-triangle-tour-wit',
-  'delhi-private-5-day-golden-triangle-tour-with-fema':
-    'from-delhi-5-days-private-golden-triangle-tour-wit',
-  'from-delhi-5-days-delhi-agra-jaipur-golden-triangl':
-    'from-delhi-5-days-private-golden-triangle-tour-wit',
-  'golden-triangle-tour-india-5-days-delhi-agra-and':
-    'from-delhi-5-days-private-golden-triangle-tour-wit',
-  'from-delhi-golden-triangle-with-pushkar-5-nights-6':
-    'from-delhi-6-days-golden-triangle-tour-with-pushka',
-  'golden-triangle-amritsar-tour-delhi-agra-jaipur-7d':
-    'from-delhi-7-day-golden-triangle-tour-with-amritsa',
+    '2day-agra-fatehpur-sikri-tour-from-delhi-by-gatima',
+  'from-delhi-2-days-agra-tour-with-taj-mahal':
+    '2day-agra-fatehpur-sikri-tour-from-delhi-by-gatima',
+  'from-delhi-2-days-overnight-taj-mahal-agra-private':
+    '2day-agra-fatehpur-sikri-tour-from-delhi-by-gatima',
   'from-delhi-3-day-agra-jaipur-sightseeing-tour':
     'from-delhi-agra-jaipur-in-3-days-with-car',
-  'from-delhi-overnight-agrataj-mahal-tour-with-fateh':
-    'from-delhi-agra-overnight-tour-with-fatehpur-sikri',
-  'from-delhi-overnight-tajmahalagra-tour-with-fatehp':
-    'from-delhi-agra-overnight-tour-with-fatehpur-sikri',
-  'agra-mahal-express-tour':
-    'from-delhi-agra-same-day-trip-by-gatimaan-express',
-  'from-delhi-all-inclusive-taj-mahal-tour-by-gatimaa':
-    'from-delhi-agra-same-day-trip-by-gatimaan-express',
-  'from-delhi-taj-mahal-agra-tour-by-gatimaan-express':
-    'from-delhi-agra-same-day-trip-by-gatimaan-express',
-  'from-delhi-taj-mahal-agra-tour-by-luxury-superfast':
-    'from-delhi-agra-same-day-trip-by-gatimaan-express',
-  'from-delhi-taj-mahal-agra-trip-by-gatimaan-express':
-    'from-delhi-agra-same-day-trip-by-gatimaan-express',
-  'taj-mahal-delhi-express-tour':
-    'from-delhi-agra-same-day-trip-by-gatimaan-express',
-  'taj-mahal-tour-from-delhi-by-superfast-train-all':
-    'from-delhi-agra-same-day-trip-by-gatimaan-express',
-  'taj-mahalagra-day-tour-from-delhi-by-indias-fastes':
-    'from-delhi-agra-same-day-trip-by-gatimaan-express',
+  'from-delhi-3-day-all-inclusive-private-golden-tria':
+    'golden-triangle-3-day-tour-from-delhi',
+  'from-delhi-3-day-golden-triangle-tour-delhi-agra':
+    'golden-triangle-3-day-tour-from-delhi',
+  'from-delhi-3-day-golden-triangle-tour-w-hotel':
+    'golden-triangle-3-day-tour-from-delhi',
+  'from-delhi-3-day-golden-triangle-tour-with-agra':
+    'golden-triangle-3-day-tour-from-delhi',
+  'from-delhi-3-day-golden-triangle-tour-with-tiger':
+    'delhi-tiger-guided-tour',
+  'from-delhi-3-day-golden-triangle-tourdelhi-agra':
+    'golden-triangle-3-day-tour-from-delhi',
+  'from-delhi-3-day-luxury-golden-triangle-tour-with':
+    'golden-triangle-3-day-tour-from-delhi',
+  'from-delhi-3-day-private-golden-triangle-tour':
+    'golden-triangle-3-day-tour-from-delhi',
+  'from-delhi-3-day-private-golden-triangle-tour-tour':
+    'golden-triangle-3-day-tour-from-delhi',
+  'from-delhi-3-day-ranthambore-tiger-safari-tours':
+    'from-delhi-3-day-taj-mahal-ranthambore-tiger-safar',
+  'from-delhi-3-days-golden-triangle-tour':
+    'golden-triangle-3-day-tour-from-delhi',
+  'from-delhi-3-days-golden-triangle-trip-with':
+    'golden-triangle-3-day-tour-from-delhi',
+  'from-delhi-35-day-golden-triangle-tour-safari-opti':
+    '5-days-golden-triangle-tour-from-delhi',
+  'from-delhi-3days-2nights-golden-triangle-tour':
+    'golden-triangle-3-day-tour-from-delhi',
+  'from-delhi-4-day-golden-triangle-luxury-trip-with':
+    'delhi-private-4-day-golden-triangle-luxury-tour',
+  'from-delhi-4-day-golden-triangle-ranthambore':
+    'from-delhi-4-day-golden-triangle-ranthambore-tour',
+  'from-delhi-4-day-golden-triangle-ranthambore-experience':
+    'golden-triangle-ranthambore-tiger-safari-4-days',
+  'from-delhi-4-day-golden-triangle-ranthambore-tiger':
+    'golden-triangle-ranthambore-tiger-safari-4-days',
+  'from-delhi-4-day-golden-triangle-tour-delhi-agra':
+    'delhi-agra-and-jaipur-in-4-days-golden-triangle',
+  'from-delhi-4-day-luxury-golden-triangle':
+    'from-delhi-4-day-golden-triangle-ranthambore-tour',
+  'from-delhi-4-day-private-golden-triangle':
+    'delhi-private-4-day-golden-triangle-luxury-tour',
+  'from-delhi-4-day-private-golden-triangle-tour':
+    'delhi-private-4-day-golden-triangle-luxury-tour',
+  'from-delhi-4-days-golden-triangle-tour-delhi-agra':
+    'delhi-agra-and-jaipur-in-4-days-golden-triangle',
+  'from-delhi-4-days-golden-triangle-tour-with-rantha':
+    'golden-triangle-ranthambore-tiger-safari-4-days',
+  'from-delhi-5-days-delhi-agra-jaipur-golden-triangl':
+    '5-days-golden-triangle-tour-from-delhi',
+  'from-delhi-5-days-private-golden-triangle-tour-wit':
+    '5-days-golden-triangle-tour-from-delhi',
+  'from-delhi-5-days-private-luxury-golden-triangle-t':
+    '5-days-golden-triangle-tour-from-delhi',
+  'from-delhi-6-day-golden-triangle-tour-delhi-agra':
+    '6-days-golden-triangle-tour-from-delhi',
+  'from-delhi-6-day-golden-triangle-tour-with':
+    '06-days-golden-triangle-tour-with-ranthambore',
+  'from-delhi-6-day-golden-triangle-tour-with-tour':
+    '06-days-golden-triangle-tour-with-ranthambore',
+  'from-delhi-6-day-goldentriangle-tour-with':
+    '6-day-private-golden-triangle-varanasi-tour-from-d',
+  'from-delhi-6-days-golden-triangle-tour-with-pushka':
+    'from-delhi-golden-triangle-with-pushkar-5-nights-6',
+  'from-delhi-agra-private-taj-mahal-fort-day-tour':
+    'from-delhi-taj-mahal-agra-private-day-trip-w',
+  'from-delhi-all-inclusive-3-day-private-golden':
+    'golden-triangle-3-day-tour-from-delhi',
+  'from-delhi-all-inclusive-agra-taj-mahal-same-day':
+    'from-delhi-taj-mahal-agra-private-day-trip-w',
+  'from-delhi-all-inclusive-same-day-jaipur-tour-by':
+    'delhi-jaipur-same-day-tour-by-car',
+  'from-delhi-all-inclusive-same-day-taj-mahal-tour':
+    'from-delhi-same-day-taj-mahal-tour-by-car',
+  'from-delhi-all-inclusive-taj-mahal-day-tour-with':
+    'from-delhi-taj-mahal-agra-private-day-trip-w',
   'from-delhi-all-inclusive-taj-mahal-sunrise-photogr':
     'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
-  'from-delhi-private-taj-mahal-agra-tour-sunrise-opt':
-    'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
-  'from-delhi-private-taj-mahal-sunrise-tour-with-bre':
-    'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
-  'from-delhi-sunrise-taj-agra-fort-baby-taj-with':
-    'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
-  'from-delhi-sunrise-taj-mahal-agra-tour-with-5':
-    'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
-  'from-delhi-sunrise-taj-mahal-baby-taj-agra-fort':
-    'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
-  'from-delhi-taj-mahal-sunrise-agra-day-tour-with':
-    'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
-  'from-delhi-taj-mahal-sunrise-agra-fort-akbars-tomb':
-    'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
-  'from-delhi-taj-mahal-sunrise-and-agra-fort-private':
-    'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
-  'sunrise-taj-mahal-agra-fort-private-tour-from-delh':
-    'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
-  'taj-mahal-sunrise-and-agra-trip-from-delhi-with':
-    'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
-  'jaipur-inclusive-guided-tour':
-    'from-delhi-all-inclusive-jaipur-tour-with-lunch-tr',
-  'delhi-agra-jaipur-golden-triangle-multiday-trip-wi':
-    'from-delhi-all-inclusive-multi-days-golden-triangl',
-  'from-delhi-delhi-taj-mahal-varanasi-4-day-tour-1790356869656-0rwcsv':
-    'from-delhi-delhi-taj-mahal-varanasi-4-day-tour',
-  'from-delhi-jaipur-private-tour-with-guide-hotel-pi':
-    'from-delhi-jaipur-private-tour-with-guide-hotel-tr',
+  'from-delhi-all-inclusive-taj-mahal-tour-by-gatimaa':
+    'from-delhi-agra-same-day-trip-by-gatimaan-express',
+  'from-delhi-delhi-taj-mahal-varanasi-4-day-tour':
+    'from-delhi-delhi-taj-mahal-varanasi-4-day-tour-1790356869656-0rwcsv',
   'from-delhi-jaipur-day-tour-by-superfast-train':
     'from-delhi-jaipur-same-day-tour-by-train-or',
   'from-delhi-jaipur-day-tour-by-superfast-train-1790460843533-4hzzmc':
     'from-delhi-jaipur-same-day-tour-by-train-or',
-  'jaipur-day-tour-from-delhi-by-express-train-pink':
-    'from-delhi-jaipur-same-day-tour-by-train-or',
-  'private-jaipur-city-tour-from-delhi-by-express-tra':
-    'from-delhi-jaipur-same-day-tour-by-train-or',
-  'taj-mahal-same-guided-tour':
-    'from-delhi-luxury-same-day-taj-mahal-tour-by',
-  'agra-royal-trip-taj-mahal-agra-fort-baby-taj':
-    'from-delhi-or-jaipur-taj-mahal-agra-fort-private',
-  'from-delhi-private-taj-mahal-agra-fort-baby-taj':
-    'from-delhi-or-jaipur-taj-mahal-agra-fort-private',
-  'from-delhi-taj-mahal-agra-city-tour-with-tickets':
-    'from-delhi-or-jaipur-taj-mahal-agra-fort-private',
-  'from-delhi-taj-mahal-agra-fort-tour-with-metro':
-    'from-delhi-or-jaipur-taj-mahal-agra-fort-private',
-  'from-delhi-taj-mahal-agra-tour-with-5-star':
-    'from-delhi-or-jaipur-taj-mahal-agra-fort-private',
-  'from-delhi-taj-mahal-and-agra-day-tour-with':
-    'from-delhi-or-jaipur-taj-mahal-agra-fort-private',
-  'from-delhi-taj-mahal-baby-taj-agra-fort-with':
-    'from-delhi-or-jaipur-taj-mahal-agra-fort-private',
-  'from-delhi-taj-mahal-fort-tour-w-elephant-conserva':
-    'from-delhi-or-jaipur-taj-mahal-agra-fort-private',
-  'from-delhiagra-taj-mahal-tour-with-rental-saree-ex':
-    'from-delhi-or-jaipur-taj-mahal-agra-fort-private',
-  'taj-mahal-agra-fort-baby-taj-full-day-trip':
-    'from-delhi-or-jaipur-taj-mahal-agra-fort-private',
   'from-delhi-jaipur-day-trip-by-private-car':
     'from-delhi-private-same-day-jaipur-city-tour-by',
   'from-delhi-jaipur-day-trip-with-private-car-and':
     'from-delhi-private-same-day-jaipur-city-tour-by',
   'from-delhi-jaipur-private-guided-day-tour':
     'from-delhi-private-same-day-jaipur-city-tour-by',
-  'full-day-jaipur-tour-from-delhi-private-all-inclus':
-    'from-delhi-private-same-day-jaipur-city-tour-by',
-  'jaipur-day-tour-from-delhi-by-private-car-pink':
-    'from-delhi-private-same-day-jaipur-city-tour-by',
-  'private-jaipur-city-tour-from-delhi-by-car':
-    'from-delhi-private-same-day-jaipur-city-tour-by',
-  'agra-mahal-full-day-tour':
-    'from-delhi-private-taj-mahal-agra-tour-with-5',
+  'from-delhi-jaipur-private-tour-with-guide-hotel-pi':
+    'from-delhi-jaipur-private-tour-with-guide-hotel-tr',
+  'from-delhi-jaipur-same-day-tour':
+    'delhi-jaipur-same-day-tour-by-car',
+  'from-delhi-luxury-2-day-golden-triangle-agra':
+    'from-delhi-2-day-golden-triangle-trip-to-agra',
+  'from-delhi-overnight-agrataj-mahal-tour-with-fateh':
+    'from-delhi-agra-overnight-tour-with-fatehpur-sikri',
+  'from-delhi-overnight-tajmahalagra-tour-with-fatehp':
+    'from-delhi-agra-overnight-tour-with-fatehpur-sikri',
+  'from-delhi-private-2-day-golden-triangle-agra':
+    'from-delhi-2-day-golden-triangle-trip-to-agra',
+  'from-delhi-private-3-day-golden-triangle-luxury-to':
+    'golden-triangle-3-day-tour-from-delhi',
+  'from-delhi-private-3-day-golden-triangle-tour':
+    'golden-triangle-3-day-tour-from-delhi',
+  'from-delhi-private-3-day-golden-triangle-tour-all':
+    'golden-triangle-3-day-tour-from-delhi',
+  'from-delhi-private-3-day-golden-triangle-tour-by':
+    'golden-triangle-3-day-tour-from-delhi',
+  'from-delhi-private-3-day-golden-triangle-tour-with':
+    'golden-triangle-3-day-tour-from-delhi',
+  'from-delhi-private-3-days-golden-triangle-tour-by':
+    'golden-triangle-3-day-tour-from-delhi',
+  'from-delhi-private-3-days-luxury-golden-triangle':
+    'golden-triangle-3-day-tour-from-delhi',
+  'from-delhi-private-4-day-golden-triangle-luxury-to':
+    'delhi-private-4-day-golden-triangle-luxury-tour',
+  'from-delhi-private-4-day-golden-triangle-tour-with':
+    'delhi-private-4-day-golden-triangle-luxury-tour',
+  'from-delhi-private-5-day-golden-triangle-tour':
+    '5-days-golden-triangle-tour-from-delhi',
   'from-delhi-private-agra-taj-mahal-tour-with-5lunch':
     'from-delhi-private-taj-mahal-agra-tour-with-5',
-  'from-delhi-taj-mahal-agra-private-day-tour-with':
-    'from-delhi-private-taj-mahal-agra-tour-with-5',
+  'from-delhi-private-full-day-taj-mahal-agra-city':
+    'from-delhi-taj-mahal-agra-private-day-trip-w',
+  'from-delhi-private-taj-mahal-agra-fort-baby-taj':
+    'from-delhi-or-jaipur-taj-mahal-agra-fort-private',
+  'from-delhi-private-taj-mahal-agra-tour-by-choice':
+    'from-delhi-taj-mahal-agra-private-day-trip-w',
   'from-delhi-private-taj-mahal-agra-tour-by-express':
     'from-delhi-private-taj-mahal-and-agra-tour-by',
   'from-delhi-private-taj-mahal-agra-tour-by-superfas':
     'from-delhi-private-taj-mahal-and-agra-tour-by',
-  'from-delhi-taj-mahal-agra-private-tour-by-fast':
-    'from-delhi-private-taj-mahal-and-agra-tour-by',
-  'from-delhi-all-inclusive-same-day-taj-mahal-tour':
-    'from-delhi-same-day-taj-mahal-tour-by-car',
-  'from-delhi-taj-mahal-day-trip-with-traditional-ind':
-    'from-delhi-same-day-taj-mahal-tour-by-car',
-  'taj-mahal-tour-from-delhi-by-superfast-train-gatim':
-    'from-delhi-same-day-taj-mahal-tour-by-gatiman',
-  'taj-mahal-fastest-guided-tour':
-    'from-delhi-same-day-taj-mahal-trip-by-indias',
-  'agra-mahal-guided-tour':
-    'from-delhi-taj-mahal-agra-day-trip-by-superfast',
-  'from-delhi-taj-mahal-and-agra-day-tour-by':
-    'from-delhi-taj-mahal-agra-day-trip-by-superfast',
-  'taj-mahal-superfast-full-day-tour':
-    'from-delhi-taj-mahal-agra-day-trip-by-superfast',
-  'agra-delhi-guided-tour':
-    'from-delhi-taj-mahal-agra-fort-fatehpur-sikri-in',
-  'agra-sikri-guided-tour':
-    'from-delhi-taj-mahal-agra-fort-fatehpur-sikri-in',
-  'from-delhi-skip-the-line-taj-mahal-tour-with':
-    'from-delhi-taj-mahal-agra-fort-fatehpur-sikri-in',
-  'from-delhi-taj-mahal-agra-day-tour-with-fatehpur':
-    'from-delhi-taj-mahal-agra-fort-fatehpur-sikri-in',
-  'from-delhi-taj-mahal-tour-with-agra-fort-fatehpur':
-    'from-delhi-taj-mahal-agra-fort-fatehpur-sikri-in',
-  'from-delhiagra-taj-mahal-agra-fort-fatehpur-sikri-':
-    'from-delhi-taj-mahal-agra-fort-fatehpur-sikri-in',
-  'agra-same-guided-tour':
-    'from-delhi-taj-mahal-agra-private-day-trip-w',
-  'all-inclusive-private-taj-mahal-agra-day-tour-from':
-    'from-delhi-taj-mahal-agra-private-day-trip-w',
-  'from-delhi-agra-private-taj-mahal-fort-day-tour':
-    'from-delhi-taj-mahal-agra-private-day-trip-w',
-  'from-delhi-all-inclusive-agra-taj-mahal-same-day':
-    'from-delhi-taj-mahal-agra-private-day-trip-w',
-  'from-delhi-all-inclusive-taj-mahal-day-tour-with':
-    'from-delhi-taj-mahal-agra-private-day-trip-w',
-  'from-delhi-private-full-day-taj-mahal-agra-city':
-    'from-delhi-taj-mahal-agra-private-day-trip-w',
-  'from-delhi-private-taj-mahal-agra-tour-by-choice':
-    'from-delhi-taj-mahal-agra-private-day-trip-w',
+  'from-delhi-private-taj-mahal-agra-tour-sunrise-opt':
+    'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
   'from-delhi-private-taj-mahal-and-agra-day-tour':
     'from-delhi-taj-mahal-agra-private-day-trip-w',
   'from-delhi-private-taj-mahal-and-agra-day-trip':
     'from-delhi-taj-mahal-agra-private-day-trip-w',
+  'from-delhi-private-taj-mahal-sunrise-tour-with-bre':
+    'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
   'from-delhi-same-day-taj-mahal-agra-day-tour':
     'from-delhi-taj-mahal-agra-private-day-trip-w',
   'from-delhi-same-day-taj-mahal-agra-day-tour-tour':
     'from-delhi-taj-mahal-agra-private-day-trip-w',
-  'from-delhi-taj-mahal-agra-fort-private-tour-with':
-    'from-delhi-taj-mahal-agra-private-day-trip-w',
-  'same-day-agra-tour-from-delhi':
-    'from-delhi-taj-mahal-agra-private-day-trip-w',
-  'same-day-delhi-to-agra-tour':
-    'from-delhi-taj-mahal-agra-private-day-trip-w',
-  'same-day-taj-mahal-tour-by-car-from-delhi':
-    'from-delhi-taj-mahal-agra-private-day-trip-w',
-  'sunrise-taj-mahal-and-agra-tour-by-car':
-    'from-delhi-taj-mahal-agra-private-day-trip-w',
-  'taj-mahal-delhi-full-day-tour':
-    'from-delhi-taj-mahal-agra-private-day-trip-w',
-  'taj-mahal-delhi-guided-tour':
-    'from-delhi-taj-mahal-agra-private-day-trip-w',
-  'taj-mahal-full-day-tour':
-    'from-delhi-taj-mahal-agra-private-day-trip-w',
-  'taj-mahal-meal-guided-tour':
-    'from-delhi-taj-mahal-agra-private-day-trip-w',
-  'taj-mahal-return-guided-tour':
-    'from-delhi-taj-mahal-agra-private-day-trip-w',
-  'taj-mahal-same-day-tour-from-delhi':
-    'from-delhi-taj-mahal-agra-private-day-trip-w',
+  'from-delhi-skip-the-line-taj-mahal-tour-with':
+    'from-delhi-taj-mahal-agra-fort-fatehpur-sikri-in',
+  'from-delhi-sunrise-taj-agra-fort-baby-taj-with':
+    'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
+  'from-delhi-sunrise-taj-mahal-agra-tour-with-5':
+    'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
+  'from-delhi-sunrise-taj-mahal-baby-taj-agra-fort':
+    'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
   'from-delhi-taj-mahal-agra-car-tour-with-guide':
     'from-delhi-taj-mahal-agra-tour-with-5-lunch',
-  'from-delhi-sunrise-taj-mahal-agra-fort-tour-skip':
-    'from-delhi-taj-mahal-sunrise-agra-fort-all-inclusi',
+  'from-delhi-taj-mahal-agra-city-tour-with-tickets':
+    'from-delhi-or-jaipur-taj-mahal-agra-fort-private',
+  'from-delhi-taj-mahal-agra-day-tour-with-fatehpur':
+    'from-delhi-taj-mahal-agra-fort-fatehpur-sikri-in',
+  'from-delhi-taj-mahal-agra-fort-private-tour-with':
+    'from-delhi-taj-mahal-agra-private-day-trip-w',
+  'from-delhi-taj-mahal-agra-fort-tour-with-metro':
+    'from-delhi-or-jaipur-taj-mahal-agra-fort-private',
+  'from-delhi-taj-mahal-agra-private-day-tour-with':
+    'from-delhi-private-taj-mahal-agra-tour-with-5',
+  'from-delhi-taj-mahal-agra-private-tour-by-fast':
+    'from-delhi-private-taj-mahal-and-agra-tour-by',
+  'from-delhi-taj-mahal-agra-tour-by-gatimaan-express':
+    'from-delhi-agra-same-day-trip-by-gatimaan-express',
+  'from-delhi-taj-mahal-agra-tour-by-luxury-superfast':
+    'from-delhi-agra-same-day-trip-by-gatimaan-express',
+  'from-delhi-taj-mahal-agra-tour-with-5-star':
+    'from-delhi-or-jaipur-taj-mahal-agra-fort-private',
+  'from-delhi-taj-mahal-agra-trip-by-gatimaan-express':
+    'from-delhi-agra-same-day-trip-by-gatimaan-express',
+  'from-delhi-taj-mahal-and-agra-day-tour-by':
+    'from-delhi-taj-mahal-agra-day-trip-by-superfast',
+  'from-delhi-taj-mahal-and-agra-day-tour-with':
+    'from-delhi-or-jaipur-taj-mahal-agra-fort-private',
+  'from-delhi-taj-mahal-baby-taj-agra-fort-with':
+    'from-delhi-or-jaipur-taj-mahal-agra-fort-private',
+  'from-delhi-taj-mahal-day-trip-with-traditional-ind':
+    'from-delhi-same-day-taj-mahal-tour-by-car',
+  'from-delhi-taj-mahal-fort-tour-w-elephant-conserva':
+    'from-delhi-or-jaipur-taj-mahal-agra-fort-private',
+  'from-delhi-taj-mahal-mathura-vrindavan-private-day':
+    'taj-mahal-vrindavan-full-day-tour',
+  'from-delhi-taj-mahal-sunrise-agra-day-tour-with':
+    'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
+  'from-delhi-taj-mahal-sunrise-agra-fort-akbars-tomb':
+    'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
+  'from-delhi-taj-mahal-sunrise-agra-fort-all-inclusi':
+    'from-delhi-sunrise-taj-mahal-agra-fort-tour-skip',
   'from-delhi-taj-mahal-sunrise-agra-fort-tour-skip':
-    'from-delhi-taj-mahal-sunrise-agra-fort-all-inclusi',
-  'from-jaipur-private-ranthambore-park-trip-with-tig':
-    'from-jaipur-private-ranthambore-day-trip-with-tige',
+    'from-delhi-sunrise-taj-mahal-agra-fort-tour-skip',
+  'from-delhi-taj-mahal-sunrise-and-agra-fort-private':
+    'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
+  'from-delhi-taj-mahal-sunrise-tour-with-skip-the':
+    'agra-delhi-sunrise-tour',
+  'from-delhi-taj-mahal-tour-with-agra-fort-fatehpur':
+    'from-delhi-taj-mahal-agra-fort-fatehpur-sikri-in',
+  'from-delhiagra-taj-mahal-agra-fort-fatehpur-sikri-':
+    'from-delhi-taj-mahal-agra-fort-fatehpur-sikri-in',
+  'from-delhiagra-taj-mahal-tour-with-rental-saree-ex':
+    'from-delhi-or-jaipur-taj-mahal-agra-fort-private',
   'from-delhiagrajaipur-taj-mahal-agra-tour-with-opti':
     'from-jaipurdelhiagra-taj-mahal-day-touroptional-tr',
+  'from-jaipur-private-ranthambore-park-trip-with-tig':
+    'from-jaipur-private-ranthambore-day-trip-with-tige',
+  'from-jaipur-ranthambore-national-park-day-trip-wit':
+    'ranthambore-full-day-tour',
   'from-jaipur-taj-mahal-agra-fort-baby-taj-day':
     'from-jaipurdelhiagra-taj-mahal-day-touroptional-tr',
   'from-jaipur-taj-mahal-agra-fort-baby-taj-private':
@@ -536,108 +630,140 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
     'from-jaipurdelhiagra-taj-mahal-day-touroptional-tr',
   'from-jaipur-taj-mahal-agra-private-guided-day-tour':
     'from-jaipurdelhiagra-taj-mahal-day-touroptional-tr',
-  'mumbai-3-days-taj-mahal-agra-jaipur-sightseeing-to':
-    'from-mumbai-3-days-taj-mahal-golden-triangle-tour',
-  'mumbai-to-taj-mahal-3-day-trip-with-jaipur':
-    'from-mumbai-3-days-taj-mahal-golden-triangle-tour',
-  'agra-fort-mumbai-private-tour':
-    'from-mumbai-taj-mahal-private-day-tour-by-return',
+  'from-mumbai-3-days-taj-mahal-golden-triangle-tour':
+    'mumbai-3-days-taj-mahal-agra-jaipur-sightseeing-to',
   'from-mumbai-taj-mahal-agra-fort-tour-with-same':
     'from-mumbai-taj-mahal-private-day-tour-by-return',
-  'private-same-day-agra-tour-from-mumbai-by-flight':
-    'from-mumbai-taj-mahal-private-day-tour-by-return',
-  'agra-fort-expert-guided-tour':
-    'full-agra-day-city-tour-by-tuk-tuk-w',
+  'full-day-jaipur-tour':
+    'jaipur-private-full-day-sightseeing-by-car',
+  'full-day-jaipur-tour-from-delhi-private-all-inclus':
+    'from-delhi-private-same-day-jaipur-city-tour-by',
+  'full-day-trekking-tour-to-lao-chai-and-ta-van-villages-in-sapa':
+    'trekking-to-y-linh-ho-lao-chai-and-ta-van-villages-in-sapa',
   'fushimi-sake-tour-with-brewery-visit-and-tastings':
     'fushimi-sake-brewery-tour-18-tastings-in-2-5-hours',
   'gion-hidden-gems-and-geisha-culture-guided-tour':
     'gion-hidden-gems-and-geisha-culture-tour',
   'gion-private-professional-photoshoot':
     'gion-private-photoshoot-professional-and-guided-tour',
-  'bangkok-cabaret-entry-ticket':
-    'golden-dome-cabaret-show-entry-ticket-in-bangkok-2',
-  '3-day-delhi-agra-and-jaipur-tour-india-golden':
-    'golden-triangle-3-day-tour-from-delhi',
-  '3-days-delhi-agra-and-jaipur-tour-india-golden':
-    'golden-triangle-3-day-tour-from-delhi',
-  'delhi-jaipur-guided-tour':
-    'golden-triangle-3-day-tour-from-delhi',
-  'from-delhi-3-day-golden-triangle-tour-delhi-agra':
-    'golden-triangle-3-day-tour-from-delhi',
+  'golden-bridge-ba-na-hills-and-marble-mountains-in-da-nang':
+    'ba-na-hills-golden-bridge-and-marble-mountains',
+  'golden-bridge-ba-na-hills-day-tour-in-da-nang':
+    'ba-na-hills-and-golden-bridge-day-trip',
+  'golden-bridge-ba-na-hills-full-day-tour-in-hoi-an':
+    'ba-na-hills-and-golden-bridge-full-day-tour',
+  'golden-triangle-3-days-2-nights-express-tour-with':
+    'agra-express-evening-tour',
+  'golden-triangle-amritsar-tour-delhi-agra-jaipur-7d':
+    'from-delhi-7-day-golden-triangle-tour-with-amritsa',
+  'golden-triangle-express-2-day-agra-jaipur-tour-fro':
+    'luxury-2-day-agra-and-jaipur-tour-with-5',
+  'golden-triangle-india-tour-6-days-delhi-agra-jaipu':
+    '6-days-golden-triangle-tour-from-delhi',
   'golden-triangle-tour-delhi-agra-jaipur':
     'golden-triangle-3-day-tour-from-delhi',
   'golden-triangle-tour-delhi-agra-jaipur-in-3-days':
     'golden-triangle-3-day-tour-from-delhi',
+  'golden-triangle-tour-india-5-days-delhi-agra-and':
+    '5-days-golden-triangle-tour-from-delhi',
+  'golden-triangle-tour-with-ranthambore-tiger-safari':
+    '5-days-golden-triangle-ranthambore-tiger-safari',
+  'grand-palace-wat-arun-and-wat-pho-guided-tour':
+    'bangkok-grand-palace-wat-pho-wat-arun-guided-tour',
   'great-buddha-kasuga-shrine-and-deer-park-tour-in-nara':
     'great-buddha-kasuga-shrine-and-sacred-deer-tour-in-nara',
   'guided-food-tour-with-train-street-visit-in-hanoi':
     'guided-street-food-tour-with-train-street-experience-in-hanoi',
-  '2-days-ha-long-bay-5-star-cruise':
-    'ha-long-bay-1-or-2-day-5-star-cruise',
-  'ha-long-bay-on-a-luxury-6-star-cruise-2-day-1-night-and-3-day-2-night':
-    'ha-long-bay-2-day-1-night-or-3-day-2-night-on-a-luxury-cruise',
-  'ha-long-bay-day-trip-with-luxury-cruise':
-    'ha-long-bay-day-trip-luxury-cruise',
+  'ha-long-bay-2-day-1-night-or-3-day-2-night-with-a-6-star-cruise':
+    'visit-ha-long-bay-on-a-luxury-6-star-cruise-for-2-day-1-night-or-3-day-2-night',
+  'ha-long-bay-and-lan-ha-bay-2-day-1-night-or-3-day-2-night-with-a-luxury-cruise':
+    'luxury-lan-ha-bay-cruise-on-2-day-1-night-or-3-day-2-night',
+  'ha-long-bay-and-lan-ha-bay-luxury-cruise-2-days-1-night':
+    'luxury-lan-ha-bay-cruise-on-2-day-1-night-or-3-day-2-night',
   'ha-long-bay-day-trip-luxury-cruise-and-buffet':
     'ha-long-bay-day-trip-luxury-cruise-and-buffet-lunch-2',
-  'ha-long-luxury-full-day-tour':
-    'ha-long-bay-day-trip-luxury-cruise-and-buffet-lunch-2',
+  'ha-long-bay-day-trip-with-luxury-cruise':
+    'ha-long-bay-day-trip-luxury-cruise',
   'ha-long-bay-luxury-day-cruise-with-cave-kayak-titop-island-by-local-operator':
     'ha-long-bay-luxury-cruise-cave-kayak-and-titop-island-by-local-operator',
-  '2-day-and-1-night-halong-bay-tour':
-    'halong-bay-2-day-1-night-cruise',
-  'cu-chi-tunnels-and-mekong-delta-with-coconut-village-tour-ho-chi-minh-city':
-    'hcm-cu-chi-tunnels-mekong-delta-and-coconut-village-tour-ho-chi-minh-city',
+  'ha-long-bay-on-a-luxury-6-star-cruise-2-day-1-night-and-3-day-2-night':
+    'ha-long-bay-2-day-1-night-or-3-day-2-night-on-a-luxury-cruise',
+  'ha-long-bay-to-lan-ha-bay-cat-ba-island-day-tour':
+    'cat-ba-island-and-lan-ha-bay-day-trip-with-cruise',
+  'ha-long-kayaking-adventure-tour':
+    '2-days-lan-ha-bay-hiking-biking-kayaking-2',
+  'ha-long-luxury-full-day-tour':
+    'ha-long-bay-day-trip-luxury-cruise-and-buffet-lunch-2',
+  'hanoi-ninh-binh-halong-bay-6-star-cruise-3-days':
+    '3-days-hanoi-ninh-binh-halong-lan-ha-bay-6-star-cruise-ha-long-bay',
+  'hanoi-vegan-street-food-and-train-street-tour-hanoi':
+    'vegan-local-street-food-and-train-street-in-hanoi',
+  'hawa-mahal-full-day-tour':
+    'jaipur-private-full-day-sightseeing-by-car',
+  'hawa-mahal-full-full-day-tour':
+    'jaipur-private-full-day-sightseeing-by-car',
+  'hawa-mahal-half-day-tour':
+    'jaipur-private-full-day-sightseeing-by-car',
+  'hawa-mahal-landmarks-guided-tour':
+    'jaipur-private-full-day-sightseeing-by-car',
+  'hazrat-nizamuddin-railway-station-delhi-express-tour':
+    'taj-mahal-same-day-express-train-tour',
   'hcm-mekong-delta-my-tho-and-ben-tre-coconut':
     'hcm-mekong-delta-my-tho-and-ben-tre-coconut-village-ho-chi-minh-city',
+  'heritage-walk-street-food-tasting-in-jaipur':
+    'jaipur-heritage-walk-street-food-tour',
+  'hiroshima-and-miyajima-day-trip-by-bullet-train-2':
+    'miyajima-trip-full-day-tour',
+  'hiroshima-and-miyajima-day-trip-by-bullet-train-2-2':
+    'miyajima-trip-full-day-tour',
   'hiroshima-remembered-walking-tour':
     'hiroshima-history-walking-tour',
   'ho-chi-minh-city-half-day-tour-markets-history-and-culture-by-local-operator':
     'ho-chi-minh-city-history-and-culture-half-day-tour-by-local-operator',
+  'ho-chi-minh-city-minh-guided-tour':
+    'kisstour-in-ho-chi-minh-city-3',
   'hoai-river-night-boat-trip-and-floating-lantern-in-hoi-an':
-    'hoai-river-boat-trip-by-night-and-floating-lantern-in-hoi-an-2',
-  'hoi-an-night-evening-tour':
     'hoai-river-boat-trip-by-night-and-floating-lantern-in-hoi-an-2',
   'hoi-an-food-tour-by-local-operator':
     'hoi-an-hidden-food-adventure-by-local-operator',
   'hoi-an-memories-show-and-land-entry-ticket-by-local-operator':
     'hoi-an-memories-land-entry-ticket-with-show-by-local-operator',
+  'hoi-an-night-evening-tour':
+    'hoai-river-boat-trip-by-night-and-floating-lantern-in-hoi-an-2',
   'hong-island-boat-tour':
     'hong-island-full-day-tour',
+  'hong-island-guided-tour':
+    'james-bond-island-speedboat-tour-phuket',
   'imperial-palace-and-shogun-walking-tour-with-a-local-guide-in-tokyo':
     'imperial-palace-and-shogun-walking-tour-in-tokyo',
+  'india-gate-full-day-tour':
+    'delhi-same-day-sightseeing-tour',
   'india-gate-guided-tour':
     'india-gate-approved-guided-tour',
   'india-gate-triangle-guided-tour':
     'india-gate-approved-guided-tour',
-  '5-day-historical-golden-triangle-tour-of-india-all':
-    'india-gate-historical-heritage-tour',
-  'delhi-inclusive-heritage-tour':
-    'india-gate-historical-heritage-tour',
-  'amber-fort-amber-private-tour':
-    'jaipur-amber-fort-guided-walking-tour',
+  'india-gate-triangle-private-tour':
+    'delhi-private-4-day-golden-triangle-luxury-tour',
   'jaipur-amber-fort-light-sound-show-with-dinner':
     'jaipur-amber-fort-guided-walking-tour',
   'jaipur-amber-fort-private-tour-with-skip-the-line':
     'jaipur-amber-fort-guided-walking-tour',
   'jaipur-amer-fort-guided-tour-with-local-guide':
     'jaipur-amber-fort-guided-walking-tour',
-  'jaipur-city-tour-with-amber-fort-ayurvedic-massage':
-    'jaipur-amber-fort-guided-walking-tour',
-  'jaipur-stepwell-amber-fort-old-city-markets-tour-l':
-    'jaipur-amber-fort-guided-walking-tour',
   'jaipur-amer-fort-hawa-mahal-and-jal-mahal-tour':
     'jaipur-amer-fort-jal-mahal-hawa-mahal-half-day',
   'jaipur-authentic-home-cooking-class-with-a-local-f':
     'jaipur-cooking-class-with-a-local-family',
-  'jaipur-rajasthani-food-cooking-experience-with-loc':
-    'jaipur-cooking-class-with-a-local-family',
-  'jaipur-traditional-cooking-class-and-storytelling-':
-    'jaipur-cooking-class-with-a-local-family',
-  'jaipur-evening-tour-chokhi-dhani-village-culture-w':
-    'jaipur-cultural-evening-tour-with-dinner-at-chokhi',
-  'elefun-elephant-sanctuary-tour-in-jaipur':
-    'jaipur-elephant-sanctuary-experience-with-transfer',
+  'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal':
+    'jaipur-private-full-day-sightseeing-by-car',
+  'jaipur-city-sightseeing-tour-same-day-trip-by-car':
+    'jaipur-private-full-day-sightseeing-by-car',
+  'jaipur-city-tour-with-amber-fort-ayurvedic-massage':
+    'jaipur-amber-fort-guided-walking-tour',
+  'jaipur-day-tour-from-delhi-by-express-train-pink':
+    'from-delhi-jaipur-same-day-tour-by-train-or',
+  'jaipur-day-tour-from-delhi-by-private-car-pink':
+    'from-delhi-private-same-day-jaipur-city-tour-by',
   'jaipur-elefantastic-elephant-sanctuary-tour':
     'jaipur-elephant-sanctuary-experience-with-transfer',
   'jaipur-elephant-jungle-sanctuary-feed-and-shower-t':
@@ -648,122 +774,106 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
     'jaipur-elephant-sanctuary-experience-with-transfer',
   'jaipur-ethical-elephant-care-sanctuary-experience':
     'jaipur-elephant-sanctuary-experience-with-transfer',
-  'jaipur-private-shopping-tour-with-local-guide':
-    'jaipur-guided-shopping-tour-experience-with-female',
-  'jaipur-shopping-experience-with-female-shopping-ex':
-    'jaipur-guided-shopping-tour-experience-with-female',
-  'jaipur-shopping-tour-with-blue-poetry-art-by-femal':
-    'jaipur-guided-shopping-tour-experience-with-female',
-  'mumbaijaipurdelhi-guided-shopping-tour-with-female':
-    'jaipur-guided-shopping-tour-experience-with-female',
-  'heritage-walk-street-food-tasting-in-jaipur':
-    'jaipur-heritage-walk-street-food-tour',
-  'full-day-jaipur-tour':
-    'jaipur-private-full-day-sightseeing-by-car',
-  'hawa-mahal-full-day-tour':
-    'jaipur-private-full-day-sightseeing-by-car',
-  'hawa-mahal-full-full-day-tour':
-    'jaipur-private-full-day-sightseeing-by-car',
-  'hawa-mahal-half-day-tour':
-    'jaipur-private-full-day-sightseeing-by-car',
-  'hawa-mahal-landmarks-guided-tour':
-    'jaipur-private-full-day-sightseeing-by-car',
-  'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal':
-    'jaipur-private-full-day-sightseeing-by-car',
-  'jaipur-city-sightseeing-tour-same-day-trip-by-car':
-    'jaipur-private-full-day-sightseeing-by-car',
+  'jaipur-evening-tour-chokhi-dhani-village-culture-w':
+    'jaipur-cultural-evening-tour-with-dinner-at-chokhi',
   'jaipur-full-day-city-sightseeing-tour-with-car-and':
     'jaipur-private-full-day-sightseeing-by-car',
+  'jaipur-full-day-private-sightseeing-tour-by-tuk-tu':
+    'jaipur-private-half-full-day-sightseeing-tour-by-t',
   'jaipur-full-day-sightseeing-tour-by-car':
     'jaipur-private-full-day-sightseeing-by-car',
+  'jaipur-full-or-half-day-private-city-tour-with':
+    'jaipur-private-luxury-full-day-city-tour-by-car',
   'jaipur-fullhalf-day-private-sightseeing-with-guide':
     'jaipur-private-full-day-sightseeing-by-car',
   'jaipur-guided-full-day-private-sightseeing-tour-by':
     'jaipur-private-full-day-sightseeing-by-car',
-  'jaipur-private-full-day-city-sightseeing-tour-with':
-    'jaipur-private-full-day-sightseeing-by-car',
-  'jaipur-private-full-day-sightseeing-tour':
-    'jaipur-private-full-day-sightseeing-by-car',
-  'jaipur-private-full-day-sightseeing-tour-by-car-wi':
-    'jaipur-private-full-day-sightseeing-by-car',
-  'jaipur-private-full-day-sightseeing-tour-with-car-':
-    'jaipur-private-full-day-sightseeing-by-car',
-  'jaipur-private-full-or-half-day-sightseeing-tour-b':
-    'jaipur-private-full-day-sightseeing-by-car',
-  'jaipur-private-half-day-sightseeing-tour-by-car-wi':
-    'jaipur-private-full-day-sightseeing-by-car',
-  'jaipur-private-halffull-day-sightseeing-by-car-wit':
-    'jaipur-private-full-day-sightseeing-by-car',
-  'jaipur-private-halffull-day-sightseeing-with-car-a':
-    'jaipur-private-full-day-sightseeing-by-car',
-  'jaipur-private-sightseeing-day-tour-with-guide-by-':
-    'jaipur-private-full-day-sightseeing-by-car',
-  'jaipur-same-day-sightseeing-tour':
-    'jaipur-private-full-day-sightseeing-by-car',
-  'jaipur-sightseeing-full-day-tour':
-    'jaipur-private-full-day-sightseeing-by-car',
-  'jaipur-sightseeing-half-day-tour':
-    'jaipur-private-full-day-sightseeing-by-car',
-  'jaipur-sightseeing-tour':
-    'jaipur-private-full-day-sightseeing-by-car',
-  'jaipur-full-day-private-sightseeing-tour-by-tuk-tu':
-    'jaipur-private-half-full-day-sightseeing-tour-by-t',
-  'jaipur-private-full-day-sightseeing-tour-by-car-or':
-    'jaipur-private-half-full-day-sightseeing-tour-by-t',
-  'jaipur-private-full-day-sightseeing-tour-by-tuk-tu':
-    'jaipur-private-half-full-day-sightseeing-tour-by-t',
-  'jaipur-full-or-half-day-private-city-tour-with':
-    'jaipur-private-luxury-full-day-city-tour-by-car',
-  'jaipur-private-full-or-half-day-city-tour-by':
-    'jaipur-private-luxury-full-day-city-tour-by-car',
-  'jaipur-private-half-day-or-full-day-jaipur-city':
-    'jaipur-private-luxury-full-day-city-tour-by-car',
-  'jaipur-private-jaipur-full-or-half-day-guided-tour':
-    'jaipur-private-luxury-full-day-city-tour-by-car',
-  'jaipur-private-jaipur-guided-full-or-half-day-tour':
-    'jaipur-private-luxury-full-day-city-tour-by-car',
-  'shopping-tour-shopping-tour':
-    'jaipur-shopping-tour',
+  'jaipur-inclusive-guided-tour':
+    'from-delhi-all-inclusive-jaipur-tour-with-lunch-tr',
   'jaipur-jhalana-amagarh-leopard-reserve-44-jeep-saf':
     'jaipur-wild-leopard-safari-in-jhalana-or-amagarh-b',
   'jaipur-jhalana-leopard-safari-tour-with-hotel-pick':
     'jaipur-wild-leopard-safari-in-jhalana-or-amagarh-b',
   'jaipur-jhalanaamagarh-leopard-safari-private-tour':
     'jaipur-wild-leopard-safari-in-jhalana-or-amagarh-b',
-  'james-bond-island-by-big-boat-with-sea-cave-canoeing':
-    'james-bond-and-sea-cave-canoeing-by-big-boat',
+  'jaipur-private-city-guided-tour-with-hotel-pick-up':
+    'private-full-day-jaipur-city-tour-with-hotel-pick',
+  'jaipur-private-city-tour-with-hotel-pick-up-drop':
+    'private-full-day-jaipur-city-tour-with-hotel-pick',
+  'jaipur-private-full-day-city-sightseeing-tour-with':
+    'jaipur-private-full-day-sightseeing-by-car',
+  'jaipur-private-full-day-sightseeing-tour':
+    'jaipur-private-full-day-sightseeing-by-car',
+  'jaipur-private-full-day-sightseeing-tour-by-car-or':
+    'jaipur-private-half-full-day-sightseeing-tour-by-t',
+  'jaipur-private-full-day-sightseeing-tour-by-car-wi':
+    'jaipur-private-full-day-sightseeing-by-car',
+  'jaipur-private-full-day-sightseeing-tour-by-tuk-tu':
+    'jaipur-private-half-full-day-sightseeing-tour-by-t',
+  'jaipur-private-full-day-sightseeing-tour-with-car-':
+    'jaipur-private-full-day-sightseeing-by-car',
+  'jaipur-private-full-or-half-day-city-tour-by':
+    'jaipur-private-luxury-full-day-city-tour-by-car',
+  'jaipur-private-full-or-half-day-sightseeing-tour-b':
+    'jaipur-private-full-day-sightseeing-by-car',
+  'jaipur-private-guided-city-tour-with-hotel-pickup-':
+    'private-full-day-jaipur-city-tour-with-hotel-pick',
+  'jaipur-private-half-day-or-full-day-jaipur-city':
+    'jaipur-private-luxury-full-day-city-tour-by-car',
+  'jaipur-private-half-day-sightseeing-tour-by-car-wi':
+    'jaipur-private-full-day-sightseeing-by-car',
+  'jaipur-private-halffull-day-sightseeing-by-car-wit':
+    'jaipur-private-full-day-sightseeing-by-car',
+  'jaipur-private-halffull-day-sightseeing-with-car-a':
+    'jaipur-private-full-day-sightseeing-by-car',
+  'jaipur-private-jaipur-full-or-half-day-guided-tour':
+    'jaipur-private-luxury-full-day-city-tour-by-car',
+  'jaipur-private-jaipur-guided-full-or-half-day-tour':
+    'jaipur-private-luxury-full-day-city-tour-by-car',
+  'jaipur-private-shopping-tour-with-local-guide':
+    'jaipur-guided-shopping-tour-experience-with-female',
+  'jaipur-private-sightseeing-day-tour-with-guide-by-':
+    'jaipur-private-full-day-sightseeing-by-car',
+  'jaipur-rajasthani-food-cooking-experience-with-loc':
+    'jaipur-cooking-class-with-a-local-family',
+  'jaipur-same-day-sightseeing-tour':
+    'jaipur-private-full-day-sightseeing-by-car',
+  'jaipur-same-day-tour-from-delhi':
+    'delhi-jaipur-same-day-tour-by-car',
+  'jaipur-shopping-experience-with-female-shopping-ex':
+    'jaipur-guided-shopping-tour-experience-with-female',
+  'jaipur-shopping-tour-with-blue-poetry-art-by-femal':
+    'jaipur-guided-shopping-tour-experience-with-female',
+  'jaipur-sightseeing-full-day-tour':
+    'jaipur-private-full-day-sightseeing-by-car',
+  'jaipur-sightseeing-half-day-tour':
+    'jaipur-private-full-day-sightseeing-by-car',
+  'jaipur-sightseeing-tour':
+    'jaipur-private-full-day-sightseeing-by-car',
+  'jaipur-stepwell-amber-fort-old-city-markets-tour-l':
+    'jaipur-amber-fort-guided-walking-tour',
+  'jaipur-traditional-cooking-class-and-storytelling-':
+    'jaipur-cooking-class-with-a-local-family',
   'james-bond-and-phang-nga-bay-tour-by-speedboat':
     'james-bond-island-and-phang-nga-bay-by-speedboat',
-  'hong-island-guided-tour':
-    'james-bond-island-speedboat-tour-phuket',
+  'james-bond-island-by-big-boat-with-sea-cave-canoeing':
+    'james-bond-and-sea-cave-canoeing-by-big-boat',
   'james-bond-island-by-speedboat-w-canoeing-and-lunch':
     'james-bond-island-speedboat-tour-phuket',
   'james-bond-island-canoeing-tour-by-speedboat-lunch':
     'james-bond-island-speedboat-tour-phuket',
-  'ubud-jungle-swing-rice-terrace-and-waterfall-tour':
-    'jungle-swing-rice-terrace-and-waterfall-experience-in-ubud',
-  'temple-katsuo-full-day-tour':
-    'katsuo-ji-temple-kobe-and-arima-onsen-day-trip-2',
-  'agra-street-food-spice-bazaars-walking-tour-tuk-tu':
-    'kinari-bazaar-food-tour',
-  'cu-chi-tunnels-kisstour-guided-tour':
-    'kisstour-in-ho-chi-minh-city-3',
-  'ho-chi-minh-city-minh-guided-tour':
-    'kisstour-in-ho-chi-minh-city-3',
+  'kanchanaburi-guided-tour':
+    'bangkok-death-railway-bridge-river-kwai-hellfire-pass',
+  'kasuga-taisha-morning-tour':
+    'nara-park-morning-morning-tour',
   'koh-larn-coral-island-guided-tour':
     'koh-larn-coral-island-full-day-tour',
-  'ubud-bali-kuber-atv-quad-bike-with-long-tunnel-and-waterfalls-ubud':
-    'kuber-atv-quad-bike-with-long-tunnel-and-waterfall-in-ubud',
-  'kyoto-temples-and-nara-deer-park-small-group-tour':
-    'kyoto-and-nara-small-group-tour-with-temples-and-deer-park',
   'kyoto-around-bike-tour':
     'kyoto-bike-tour',
   'kyoto-evening-evening-tour':
     'kyoto-evening-tour',
   'kyoto-food-food-tour':
     'kyoto-food-tour',
-  'kyoto-photoshoot-photography-tour':
-    'kyoto-photography-tour',
   'kyoto-kansai-private-tour':
     'kyoto-private-tour',
   'kyoto-nissan-private-tour':
@@ -772,52 +882,62 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
     'kyoto-private-tour',
   'kyoto-people-private-tour-heritage':
     'kyoto-private-tour',
+  'kyoto-photoshoot-photography-tour':
+    'kyoto-photography-tour',
   'kyoto-private-tour-heritage':
     'kyoto-private-tour',
-  'city-palace-sightseeing-full-day-tour':
-    'lake-pichola-full-day-tour',
-  'golden-triangle-express-2-day-agra-jaipur-tour-fro':
-    'luxury-2-day-agra-and-jaipur-tour-with-5',
-  'ha-long-bay-and-lan-ha-bay-2-day-1-night-or-3-day-2-night-with-a-luxury-cruise':
-    'luxury-lan-ha-bay-cruise-on-2-day-1-night-or-3-day-2-night',
-  'ha-long-bay-and-lan-ha-bay-luxury-cruise-2-days-1-night':
-    'luxury-lan-ha-bay-cruise-on-2-day-1-night-or-3-day-2-night',
-  'marble-mountain-am-phu-cave-and-monkey-mountain-in-hoi-an':
-    'marble-and-monkey-mountains-with-am-phu-cave-in-hoi-an',
+  'kyoto-temples-and-nara-deer-park-small-group-tour':
+    'kyoto-and-nara-small-group-tour-with-temples-and-deer-park',
   'lady-buddha-marble-mountains-am-phu-cave-tour':
-    'marble-mountain-am-phu-cave-and-lady-buddha',
-  'lady-buddha-marble-mountains-and-am-phu-cave-in-da-nang':
-    'marble-mountain-am-phu-cave-and-lady-buddha',
-  'marble-mountains-lady-buddha-and-am-phu-cave':
-    'marble-mountain-am-phu-cave-and-lady-buddha',
-  'marble-mountains-lady-buddha-and-am-phu-cave-tour-da-nang':
     'marble-mountain-am-phu-cave-and-lady-buddha',
   'lady-buddha-marble-mountains-am-phu-cave-tour-2':
     'marble-mountains-am-phu-cave-and-lady-buddha',
+  'lady-buddha-marble-mountains-and-am-phu-cave-in-da-nang':
+    'marble-mountain-am-phu-cave-and-lady-buddha',
+  'lalitta-cafe-and-white-blue-red-temples-tour-in-chiang-mai':
+    'white-temple-blue-red-temples-and-lalitta-cafe-in-chiang-mai',
+  'lan-ha-bay-2-day-cruise-with-meals-and-activities':
+    '2-day-lan-ha-bay-cruise-with-meals-and-activities',
+  'lan-ha-bay-and-cat-ba-island-3-day-boat-cruise':
+    '3-day-lan-ha-bay-cruise-cat-ba-island',
+  'maeklong-railway-market-shopping-tour':
+    'bangkok-maeklong-railway-damnoen-saduak-dragon-temple-tour',
   'marble-mountain-am-phu-cave-and-lady-buddha-2':
     'marble-mountains-am-phu-cave-and-lady-buddha',
+  'marble-mountain-am-phu-cave-and-monkey-mountain-in-hoi-an':
+    'marble-and-monkey-mountains-with-am-phu-cave-in-hoi-an',
   'marble-mountain-am-phu-cave-lady-buddha-tour':
     'marble-mountains-am-phu-cave-and-lady-buddha',
-  'marble-mountains-am-phu-cave-lady-buddha':
-    'marble-mountains-am-phu-cave-and-lady-buddha',
-  'marble-mountains-lady-buddha-and-am-phu-cave-tour':
-    'marble-mountains-am-phu-cave-and-lady-buddha',
-  'cooking-class-market-visit-and-basket-boat-ride-in-hoi-an':
-    'market-tour-basket-boat-ride-cooking-class-in-hoi-an',
-  'maya-bay-adventure-boat-tour':
-    'maya-bay-islands-full-day-tour',
-  'mekong-delta-boat-tour-with-local-lunch':
-    'mekong-delta-tour-with-lunch-and-boat-ride',
-  'hiroshima-and-miyajima-day-trip-by-bullet-train-2':
-    'miyajima-trip-full-day-tour',
-  'hiroshima-and-miyajima-day-trip-by-bullet-train-2-2':
-    'miyajima-trip-full-day-tour',
   'marble-mountain-am-phu-cave-monkey-mountain-in-da-nang':
     'monkey-mountain-marble-mountain-am-phu-cave-in-da-nang',
   'marble-mountain-monkey-mountain-and-am-phu-cave-tour-in-da-nang':
     'monkey-mountain-marble-mountain-am-phu-cave-in-da-nang',
-  'taj-mahal-moonlight-viewing-tour-from-the-yamuna-r':
-    'moonlight-taj-mahal-tour-from-yamuna-river-side',
+  'marble-mountains-am-phu-cave-lady-buddha':
+    'marble-mountains-am-phu-cave-and-lady-buddha',
+  'marble-mountains-and-my-son-sanctuary-day-trip-in-hoi-an':
+    'my-son-sanctuary-and-marble-mountains-guided-tour-in-hoi-an',
+  'marble-mountains-lady-buddha-and-am-phu-cave':
+    'marble-mountain-am-phu-cave-and-lady-buddha',
+  'marble-mountains-lady-buddha-and-am-phu-cave-tour':
+    'marble-mountains-am-phu-cave-and-lady-buddha',
+  'marble-mountains-lady-buddha-and-am-phu-cave-tour-da-nang':
+    'marble-mountain-am-phu-cave-and-lady-buddha',
+  'market-tour-basket-boat-ride-and-cooking-class-by-hangcoconut-in-hoi-an':
+    'basket-boat-ride-cooking-class-by-hangcoconut-in-hoi-an',
+  'maya-bay-adventure-boat-tour':
+    'maya-bay-islands-full-day-tour',
+  'maya-bay-full-day-tour':
+    'phi-phi-islands-speedboat-tour-maya-bay-snorkeling',
+  'maya-bay-speedboat-boat-tour':
+    'phi-phi-islands-speedboat-tour-maya-bay-snorkeling',
+  'mekong-delta-boat-tour-with-local-lunch':
+    'mekong-delta-tour-with-lunch-and-boat-ride',
+  'menjangan-island-snorkeling-tour-with-transport-in-ubud':
+    'snorkeling-menjangan-island-tours-in-ubud',
+  'monkey-forest-temple-waterfall-and-rice-terrace-tour-in-ubud':
+    'waterfall-rice-terrace-temple-and-monkey-forest-tour-in-ubud',
+  'monkey-forest-waterfall-and-rice-terrace-tour-in-ubud':
+    'waterfall-rice-terrace-temple-and-monkey-forest-tour-in-ubud',
   'mount-agung-sunrise-trekking-tour-in-ubud':
     'mount-agung-sunrise-trekking-all-inclusive-tour-in-ubud',
   'mount-agung-sunrise-trekking-with-breakfast-in-ubud':
@@ -826,18 +946,32 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
     'mount-batur-sunrise-trekking-and-breakfast-tour',
   'mount-fuji-english-private-tour':
     'mount-fuji-private-tour-with-english-guide-3-2',
-  'marble-mountains-and-my-son-sanctuary-day-trip-in-hoi-an':
-    'my-son-sanctuary-and-marble-mountains-guided-tour-in-hoi-an',
-  'my-son-sanctuary-half-day-tour':
-    'my-son-sanctuary-guided-half-day-tour',
+  'mumbai-to-taj-mahal-3-day-trip-with-jaipur':
+    'mumbai-3-days-taj-mahal-agra-jaipur-sightseeing-to',
+  'mumbaijaipurdelhi-guided-shopping-tour-with-female':
+    'jaipur-guided-shopping-tour-experience-with-female',
+  'museum-siam-boat-tour':
+    'bangkok-longtail-boat-canal-cruise-hidden-temples',
   'my-son-sanctuary-and-thu-bon-river-cruise-from-hoi-an-ha-long':
     'my-son-sanctuary-thu-bon-river-cruise-from-hoi-an-ha-long',
-  'kasuga-taisha-morning-tour':
-    'nara-park-morning-morning-tour',
+  'my-son-sanctuary-half-day-tour':
+    'my-son-sanctuary-guided-half-day-tour',
+  'new-delhi-3-days-ranthambore-tiger-safari-tour':
+    'from-delhi-3-day-taj-mahal-ranthambore-tiger-safar',
+  'new-delhi-taj-mahal-day-trip-agra-highlights-with':
+    'taj-mahal-highlights-full-day-tour',
   'nusa-penida-snorkeling-day-trip':
     'nusa-penida-day-tour-and-snorkeling',
-  'delhi-temples-tour-5-hour-private-spiritual-experi':
-    'old-delhi-spiritual-sites-temples-private-6-hour-t',
+  'old-delhi-new-delhi-trails-private-tour':
+    'delhi-same-day-sightseeing-tour',
+  'old-new-delhi-guided-tour':
+    'delhi-same-day-sightseeing-tour',
+  'old-new-delhi-private-half-day-tour':
+    'delhi-same-day-sightseeing-tour',
+  'old-new-delhi-private-tour':
+    'delhi-same-day-sightseeing-tour',
+  'old-town-phuket-guided-tour':
+    'phuket-old-town-full-day-tour',
   'osaka-food-food-tour':
     'osaka-food-tour',
   'osaka-food-tour-tour':
@@ -850,136 +984,128 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
     'osaka-photography-tour',
   'osaka-walking-walking-tour':
     'osaka-walking-tour',
-  'sina-floating-beach-club-in-pattaya':
-    'pattaya-sina-floating-beach-club-experience',
-  'phi-phi-islands-speedboat-tour-with-buffet-lunch':
-    'phi-phi-island-tour-by-speedboat-with-buffet-lunch',
-  'maya-bay-full-day-tour':
-    'phi-phi-islands-speedboat-tour-maya-bay-snorkeling',
-  'maya-bay-speedboat-boat-tour':
-    'phi-phi-islands-speedboat-tour-maya-bay-snorkeling',
-  'phi-phi-maya-bay-and-khai-island-speedboat-day-tour':
-    'phi-phi-maya-bay-and-khai-islands-day-trip',
-  'old-town-phuket-guided-tour':
-    'phuket-old-town-full-day-tour',
-  'agra-fort-baby-taj-mehtab-bagh-guided-tour-with':
-    'private-agra-tour-akbar-tomb-agra-fort-and-baby',
-  'agra-taj-mahal-agra-fort-and-baby-taj-guided':
-    'private-agra-tour-akbar-tomb-agra-fort-and-baby',
-  'agra-taj-mahal-agra-fort-baby-taj-guided-day':
-    'private-agra-tour-akbar-tomb-agra-fort-and-baby',
-  'agra-taj-mahal-agra-fort-skip-the-line-tour':
-    'private-agra-tour-akbar-tomb-agra-fort-and-baby',
-  'taj-mahal-agra-fort-tou-with-elephant-sanctuary-vi':
-    'private-agra-tour-akbar-tomb-agra-fort-and-baby',
-  'taj-mahal-and-fort-visits-private-tour-with-guide':
-    'private-agra-tour-akbar-tomb-agra-fort-and-baby',
-  'vip-taj-mahal-agra-fort-tour-with-suv-5':
-    'private-agra-tour-akbar-tomb-agra-fort-and-baby',
-  'jaipur-private-city-guided-tour-with-hotel-pick-up':
-    'private-full-day-jaipur-city-tour-with-hotel-pick',
-  'jaipur-private-city-tour-with-hotel-pick-up-drop':
-    'private-full-day-jaipur-city-tour-with-hotel-pick',
-  'jaipur-private-guided-city-tour-with-hotel-pickup-':
-    'private-full-day-jaipur-city-tour-with-hotel-pick',
-  'private-yala-national-park-safari-day-trip-from-ella-and-back':
-    'private-yala-safari-from-ella-with-a-dedicated-jeep-and-tracker',
-  'patong-beach-islands-guided-tour':
-    'racha-islands-day-tour-with-snorkel-beach-and-lunch-2',
-  'from-jaipur-ranthambore-national-park-day-trip-wit':
-    'ranthambore-full-day-tour',
   'park-ranthambore-full-day-tour':
     'ranthambore-full-day-tour',
-  'vintage-coin-ring-making-workshop-with-in-kyoto':
-    'ring-making-workshop-with-vintage-coin-in-kyoto',
-  'bangkok-royal-boat-tour':
-    'royal-princess-river-dinner-cruise-with-live-music-in-bangkok-2',
-  'sapa-tour-overnight-in-ta-van-village-all-in-one-2-days':
-    'sapa-trekking-tour-overnight-in-ta-van-village-2-days',
-  'shibuya-crossing-crossing-photography-tour':
-    'shibuya-crossing-photography-tour',
-  'shibuya-crossing-premium-tour':
-    'shibuya-crossing-photography-tour',
-  'all-inclusive-blue-lagoon-and-tanjung-jepun-snorkeling-in-ubud':
-    'snorkeling-at-blue-lagoon-and-tanjung-jepun-all-inclusive-in-ubud',
-  'blue-lagoon-and-tanjung-jepun-snorkeling-tour-in-ubud':
-    'snorkeling-at-blue-lagoon-and-tanjung-jepun-all-inclusive-in-ubud',
-  'blue-lagoon-snorkeling-temple-and-waterfall-tour-in-ubud':
-    'snorkeling-at-blue-lagoon-and-waterfall-all-inclusive-in-ubud',
-  'blue-lagoon-snorkeling-with-option-waterfall-and-temple-in-ubud':
-    'snorkeling-at-blue-lagoon-and-waterfall-all-inclusive-in-ubud',
-  'menjangan-island-snorkeling-tour-with-transport-in-ubud':
-    'snorkeling-menjangan-island-tours-in-ubud',
-  'cham-island-snorkeling-and-scuba-diving':
-    'snorkeling-or-scuba-diving-in-cham-islands',
-  'tsukiji-fish-market-sushi-making-class-with-pro-chef':
-    'sushi-making-with-pro-chef-and-tsukiji-fish-market-tour',
-  'delhi-agra-private-tour':
-    'taj-mahal-agra-day-trip-luxury-car',
+  'patong-beach-islands-guided-tour':
+    'racha-islands-day-tour-with-snorkel-beach-and-lunch-2',
+  'phi-phi-islands-speedboat-tour-with-buffet-lunch':
+    'phi-phi-island-tour-by-speedboat-with-buffet-lunch',
+  'phi-phi-maya-bay-and-khai-island-speedboat-day-tour':
+    'phi-phi-maya-bay-and-khai-islands-day-trip',
+  'phra-nang-cave-beach-afternoon-tour':
+    'chicken-island-boat-tour',
+  'phra-nang-cave-beach-boat-tour':
+    'chicken-island-boat-tour',
+  'phuket-cheow-guided-tour':
+    'all-inclusive-cheow-lan-lake-cave-kayak-and-lunch-in-phuket-2',
+  'private-5-day-golden-triangle-tour-from-delhi':
+    '5-day-private-golden-triangle-tour-delhi-agra-and',
+  'private-jaipur-city-tour-from-delhi-by-car':
+    'from-delhi-private-same-day-jaipur-city-tour-by',
+  'private-jaipur-city-tour-from-delhi-by-express-tra':
+    'from-delhi-jaipur-same-day-tour-by-train-or',
+  'private-same-day-agra-tour-from-mumbai-by-flight':
+    'from-mumbai-taj-mahal-private-day-tour-by-return',
+  'private-sunrise-taj-mahal-agra-fort-tour':
+    'taj-mahal-sunrise-guided-tour',
   'private-taj-mahal-agra-day-tour-from-delhi':
     'taj-mahal-agra-day-trip-luxury-car',
   'private-taj-mahal-tour-from-delhi':
     'taj-mahal-agra-day-trip-luxury-car',
-  'agra-entry-entry-ticket':
-    'taj-mahal-guided-tour-with-skip-the-line-entry',
-  'new-delhi-taj-mahal-day-trip-agra-highlights-with':
-    'taj-mahal-highlights-full-day-tour',
-  'agra-skip-the-line-taj-mahal-agra-fort-private':
-    'taj-mahal-official-guided-tour',
-  'agra-skip-the-line-taj-mahal-agra-fort-private-1790336921566-ow4vbn':
-    'taj-mahal-official-guided-tour',
-  'agra-skip-the-line-taj-mahal-agra-fort-private-experience':
-    'taj-mahal-official-guided-tour',
-  'agra-skip-the-line-taj-mahal-agra-fort-private-tour':
-    'taj-mahal-official-guided-tour',
-  'agra-skip-the-line-taj-mahal-agra-private-tour':
-    'taj-mahal-official-guided-tour',
-  'agra-skip-the-line-taj-mahal-agra-private-tour-tour':
-    'taj-mahal-official-guided-tour',
-  'agra-taj-mahal-agra-fort-skip-the-line-private':
-    'taj-mahal-official-guided-tour',
-  'agra-taj-mahal-and-agra-fort-skip-the-line':
-    'taj-mahal-official-guided-tour',
-  'agra-taj-mahal-skip-the-line-guided-private-3':
-    'taj-mahal-official-guided-tour',
-  'from-agra-private-taj-mahal-agra-fort-skip-the':
-    'taj-mahal-official-guided-tour',
+  'private-tour-to-3-waterfalls-rice-terrace-and-swing-in-ubud':
+    'ubud-private-tour-swing-rice-terrace-temple-and-waterfalls-ubud',
+  'private-tour-with-rice-terrace-temple-and-waterfall-in-ubud':
+    'ubud-private-tour-with-waterfall-and-rice-terrace-ubud',
+  'private-udawalawe-elephant-safari-day-trip-transit-home-visit':
+    'udawalawe-elephant-safari-transit-home-private-day-trip',
+  'private-yala-national-park-safari-day-trip-from-ella-and-back':
+    'private-yala-safari-from-ella-with-a-dedicated-jeep-and-tracker',
+  'same-day-agra-tour-from-delhi':
+    'from-delhi-taj-mahal-agra-private-day-trip-w',
+  'same-day-delhi-to-agra-tour':
+    'from-delhi-taj-mahal-agra-private-day-trip-w',
+  'same-day-taj-mahal-tour-by-car-from-delhi':
+    'from-delhi-taj-mahal-agra-private-day-trip-w',
+  'sanctuary-of-truth-sanctuary-entry-ticket':
+    'the-sanctuary-of-truth-admission-ticket-in-pattaya-2',
+  'sapa-tour-overnight-in-ta-van-village-all-in-one-2-days':
+    'sapa-trekking-tour-overnight-in-ta-van-village-2-days',
+  'sapa-trekking-adventure-tour':
+    'trekking-to-y-linh-ho-lao-chai-and-ta-van-villages-in-sapa',
+  'shibuya-crossing-crossing-photography-tour':
+    'shibuya-crossing-photography-tour',
+  'shibuya-crossing-premium-tour':
+    'shibuya-crossing-photography-tour',
+  'shirakawa-go-and-takayama-day-tour-from-nagoya-by-local-operator':
+    'takayama-and-shirakawa-go-day-tour-from-nagoya-by-local-operator',
+  'shopping-tour-shopping-tour':
+    'jaipur-shopping-tour',
+  'sina-floating-beach-club-in-pattaya':
+    'pattaya-sina-floating-beach-club-experience',
+  'skip-the-line-guided-tour-of-delhis-iconic-red':
+    'delhi-red-fort-humayuns-tomb-skip-the-line-guided',
+  'song-wat-road-evening-tour':
+    'bangkok-street-food-tuk-tuk-night-tour',
+  'sunrise-taj-mahal-agra-fort-private-tour-from-delh':
+    'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
+  'sunrise-taj-mahal-and-agra-tour-by-car':
+    'from-delhi-taj-mahal-agra-private-day-trip-w',
+  'sunrise-taj-mahal-guided-tour-with-skip-the-line':
+    'taj-mahal-sunrise-guided-tour',
+  'sunrise-taj-mahal-guided-tour-with-skip-the-line-1790335869780-1v9i2d':
+    'taj-mahal-sunrise-guided-tour',
+  'sunrise-taj-mahal-tour-delhi-all-inclusive':
+    'taj-mahal-sunrise-elephant-conservation-tour',
+  'sunrise-taj-mahal-tour-from-delhi':
+    'taj-mahal-sunrise-guided-tour',
+  'taj-mahal-agra-fort-baby-taj-full-day-trip':
+    'from-delhi-or-jaipur-taj-mahal-agra-fort-private',
   'taj-mahal-agra-fort-guided-tour':
     'taj-mahal-official-guided-tour',
+  'taj-mahal-agra-fort-tou-with-elephant-sanctuary-vi':
+    'private-agra-tour-akbar-tomb-agra-fort-and-baby',
+  'taj-mahal-and-fort-visits-private-tour-with-guide':
+    'private-agra-tour-akbar-tomb-agra-fort-and-baby',
   'taj-mahal-approved-private-tour':
     'taj-mahal-official-guided-tour',
+  'taj-mahal-delhi-express-tour':
+    'from-delhi-agra-same-day-trip-by-gatimaan-express',
+  'taj-mahal-delhi-full-day-tour':
+    'from-delhi-taj-mahal-agra-private-day-trip-w',
+  'taj-mahal-delhi-guided-tour':
+    'from-delhi-taj-mahal-agra-private-day-trip-w',
+  'taj-mahal-entry-tickets':
+    'book-entrance-tickets-of-taj-mahal-with-express-en',
   'taj-mahal-express-tour':
     'taj-mahal-official-guided-tour',
+  'taj-mahal-fastest-guided-tour':
+    'from-delhi-same-day-taj-mahal-trip-by-indias',
+  'taj-mahal-fatehpur-guided-tour':
+    'agra-guided-tour-of-taj-mahal-agra-fort-and',
+  'taj-mahal-full-day-tour':
+    'from-delhi-taj-mahal-agra-private-day-trip-w',
   'taj-mahal-guided-tour':
     'taj-mahal-official-guided-tour',
   'taj-mahal-guided-tour-from-agra':
     'taj-mahal-official-guided-tour',
   'taj-mahal-mahal-private-tour':
     'taj-mahal-official-guided-tour',
+  'taj-mahal-meal-guided-tour':
+    'from-delhi-taj-mahal-agra-private-day-trip-w',
+  'taj-mahal-moonlight-viewing-tour-from-the-yamuna-r':
+    'moonlight-taj-mahal-tour-from-yamuna-river-side',
   'taj-mahal-pickup-private-tour':
     'taj-mahal-official-guided-tour',
-  'delhi-taj-mahalagra-luxury-tour-by-gatimaan-expres':
-    'taj-mahal-same-day-express-train-tour',
-  'hazrat-nizamuddin-railway-station-delhi-express-tour':
-    'taj-mahal-same-day-express-train-tour',
-  'taj-mahal-tour-by-train-gatimaan':
-    'taj-mahal-same-day-express-train-tour',
-  'delhi-agra-sunrise-tour':
-    'taj-mahal-sunrise-elephant-conservation-tour',
-  'sunrise-taj-mahal-tour-delhi-all-inclusive':
-    'taj-mahal-sunrise-elephant-conservation-tour',
-  'agra-professional-sunrise-tour':
-    'taj-mahal-sunrise-guided-tour',
-  'agra-royal-sunrise-tour':
-    'taj-mahal-sunrise-guided-tour',
-  'private-sunrise-taj-mahal-agra-fort-tour':
-    'taj-mahal-sunrise-guided-tour',
-  'sunrise-taj-mahal-guided-tour-with-skip-the-line':
-    'taj-mahal-sunrise-guided-tour',
-  'sunrise-taj-mahal-guided-tour-with-skip-the-line-1790335869780-1v9i2d':
-    'taj-mahal-sunrise-guided-tour',
-  'sunrise-taj-mahal-tour-from-delhi':
-    'taj-mahal-sunrise-guided-tour',
+  'taj-mahal-return-guided-tour':
+    'from-delhi-taj-mahal-agra-private-day-trip-w',
+  'taj-mahal-same-day-tour-from-delhi':
+    'from-delhi-taj-mahal-agra-private-day-trip-w',
+  'taj-mahal-same-guided-tour':
+    'from-delhi-luxury-same-day-taj-mahal-tour-by',
+  'taj-mahal-sunrise-agra-fort-baby-taj-tour-all':
+    'all-inclusive-sunrise-taj-mahal-agra-fort-baby-taj',
+  'taj-mahal-sunrise-and-agra-trip-from-delhi-with':
+    'from-delhi-agra-sunrise-yoga-class-with-taj-mahal',
   'taj-mahal-sunrise-skip-the-line-tour':
     'taj-mahal-sunrise-guided-tour',
   'taj-mahal-sunrise-tour':
@@ -988,18 +1114,20 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
     'taj-mahal-sunrise-guided-tour',
   'taj-mahal-sunrise-tour-tour':
     'taj-mahal-sunrise-guided-tour',
-  'from-delhi-taj-mahal-mathura-vrindavan-private-day':
-    'taj-mahal-vrindavan-full-day-tour',
-  'agra-taj-mahal-tour-with-photoshoot-saree-henna-ar':
-    'taj-mahal-with-professional-photoshoot-tour',
-  'agra-taj-mahal-tour-with-professional-photoshoot':
-    'taj-mahal-with-professional-photoshoot-tour',
-  'from-agra-taj-mahal-tour-with-professional-photogr':
-    'taj-mahal-with-professional-photoshoot-tour',
-  'shirakawa-go-and-takayama-day-tour-from-nagoya-by-local-operator':
-    'takayama-and-shirakawa-go-day-tour-from-nagoya-by-local-operator',
-  'sanctuary-of-truth-sanctuary-entry-ticket':
-    'the-sanctuary-of-truth-admission-ticket-in-pattaya-2',
+  'taj-mahal-sunset-sunset-tour':
+    'agra-sunset-tour-of-taj-mahal-with-skip-the',
+  'taj-mahal-superfast-full-day-tour':
+    'from-delhi-taj-mahal-agra-day-trip-by-superfast',
+  'taj-mahal-tour-by-train-gatimaan':
+    'taj-mahal-same-day-express-train-tour',
+  'taj-mahal-tour-from-delhi-by-superfast-train-all':
+    'from-delhi-agra-same-day-trip-by-gatimaan-express',
+  'taj-mahal-tour-from-delhi-by-superfast-train-gatim':
+    'from-delhi-same-day-taj-mahal-tour-by-gatiman',
+  'taj-mahalagra-day-tour-from-delhi-by-indias-fastes':
+    'from-delhi-agra-same-day-trip-by-gatimaan-express',
+  'temple-katsuo-full-day-tour':
+    'katsuo-ji-temple-kobe-and-arima-onsen-day-trip-2',
   'tirta-empul-temple-purification-ritual-with-guide-in-ubud':
     'tirta-empul-purification-ritual-and-temple-tour-in-ubud',
   'tirta-empul-temple-tour-and-sacred-purification-ritual-in-ubud':
@@ -1008,42 +1136,34 @@ export const DUPLICATE_CANONICAL_MAP: Record<string, string> = {
     'tokyo-tower-bike-tour',
   'tokyo-tower-walking-food-tour':
     'tokyo-tsukiji-fish-market-street-food-and-walking-tour-by-local-operator-2',
-  'full-day-trekking-tour-to-lao-chai-and-ta-van-villages-in-sapa':
-    'trekking-to-y-linh-ho-lao-chai-and-ta-van-villages-in-sapa',
-  'sapa-trekking-adventure-tour':
-    'trekking-to-y-linh-ho-lao-chai-and-ta-van-villages-in-sapa',
-  'y-linh-ho-lao-chai-and-ta-van-trekking-tour-in-sapa-2':
-    'trekking-to-y-linh-ho-lao-chai-and-ta-van-villages-in-sapa',
+  'tsukiji-fish-market-sushi-making-class-with-pro-chef':
+    'sushi-making-with-pro-chef-and-tsukiji-fish-market-tour',
+  'ubud-bali-kuber-atv-quad-bike-with-long-tunnel-and-waterfalls-ubud':
+    'kuber-atv-quad-bike-with-long-tunnel-and-waterfall-in-ubud',
   'ubud-hidden-gems-waterfall-tour-ubud-2':
     'ubud-hidden-gems-waterfall-tour-ubud',
-  'private-tour-to-3-waterfalls-rice-terrace-and-swing-in-ubud':
-    'ubud-private-tour-swing-rice-terrace-temple-and-waterfalls-ubud',
-  'private-tour-with-rice-terrace-temple-and-waterfall-in-ubud':
-    'ubud-private-tour-with-waterfall-and-rice-terrace-ubud',
+  'ubud-jungle-swing-rice-terrace-and-waterfall-tour':
+    'jungle-swing-rice-terrace-and-waterfall-experience-in-ubud',
   'ubud-private-tour-with-waterfall-temple-and-rice-terrace-ubud':
     'ubud-private-tour-with-waterfall-and-rice-terrace-ubud',
   'ubud-temple-waterfalls-and-rice-terrace-private-to':
     'ubud-private-tour-with-waterfall-and-rice-terrace-ubud',
-  'private-udawalawe-elephant-safari-day-trip-transit-home-visit':
-    'udawalawe-elephant-safari-transit-home-private-day-trip',
+  'udaipur-2-day-private-tour-with-kumbhalgarh-and':
+    'udaipur-2-days-private-tour-with-kumbhalgarh-fort',
   'uluwatu-temple-sunset-tour-with-kecak-fire-dance':
     'uluwatu-temple-and-kecak-fire-dance-sunset-experience-uluwatu',
   'uluwatu-temple-tour-with-sunset-kecak-fire-dance':
     'uluwatu-temple-and-kecak-fire-dance-sunset-experience-uluwatu',
-  'hanoi-vegan-street-food-and-train-street-tour-hanoi':
-    'vegan-local-street-food-and-train-street-in-hanoi',
-  'ha-long-bay-2-day-1-night-or-3-day-2-night-with-a-6-star-cruise':
-    'visit-ha-long-bay-on-a-luxury-6-star-cruise-for-2-day-1-night-or-3-day-2-night',
+  'vintage-coin-ring-making-workshop-with-in-kyoto':
+    'ring-making-workshop-with-vintage-coin-in-kyoto',
+  'vip-taj-mahal-agra-fort-tour-with-suv-5':
+    'private-agra-tour-akbar-tomb-agra-fort-and-baby',
   'water-puppet-show-and-dinner-cruise-in-ha-long':
     'water-puppet-show-and-luxury-dinner-cruise-experience-in-ha-long',
   'water-puppet-show-skip-the-line-entry-ticket-in-hanoi':
     'water-puppet-show-tickets-skip-the-line-in-hanoi',
-  'monkey-forest-temple-waterfall-and-rice-terrace-tour-in-ubud':
-    'waterfall-rice-terrace-temple-and-monkey-forest-tour-in-ubud',
-  'monkey-forest-waterfall-and-rice-terrace-tour-in-ubud':
-    'waterfall-rice-terrace-temple-and-monkey-forest-tour-in-ubud',
-  'lalitta-cafe-and-white-blue-red-temples-tour-in-chiang-mai':
-    'white-temple-blue-red-temples-and-lalitta-cafe-in-chiang-mai',
+  'y-linh-ho-lao-chai-and-ta-van-trekking-tour-in-sapa-2':
+    'trekking-to-y-linh-ho-lao-chai-and-ta-van-villages-in-sapa',
   'yala-national-park-leopard-safari-day-trip-colombo':
     'yala-national-park-private-jeep-safari-day-trip-colombo',
 };
