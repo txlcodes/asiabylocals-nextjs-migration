@@ -11185,6 +11185,94 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier gasto personal"
   ]
  },
+ "delhi-haunted-monuments-walking-tour": {
+  "title": "Delhi: paseo a pie por los monumentos encantados",
+  "metaTitle": "Delhi: monumentos encantados a pie",
+  "metaDescription": "Un paseo a pie de tres horas por los monumentos supuestamente encantados de Delhi, por las ruinas de Mehrauli y la ciudad Tughlaq.",
+  "shortDescription": "Un paseo a pie de tres horas por los monumentos supuestamente encantados de Delhi, por las ruinas de Mehrauli y la ciudad Tughlaq.",
+  "fullDescription": "**Ruinas, al atardecer, con sus historias**\n\nDelhi ha sido construida y abandonada siete veces, y los restos están por todas partes, tumbas en medio de rotondas, pozos escalonados detrás de edificios de oficinas, ciudades Tughlaq enteras devueltas a la maleza. Las historias de fantasmas que las acompañan son una forma de notar edificios en los que nadie más se detiene, y esta visita las usa exactamente así.\n\nTendrá el folclore y la historia uno junto al otro, y su guía dejará claro cuál es cuál.\n\n**El Parque Arqueológico de Mehrauli**\n\nDonde comenzó Delhi. Más de cien monumentos en 200 acres, que abarcan mil años, la única parte de la ciudad con construcción continua desde la época preislámica hasta los británicos.\n\n**Jamali Kamali**, una mezquita y tumba del siglo XVI, es la que tiene la reputación: dos tumbas una junto a la otra, un poeta y un compañero no identificado, y numerosos relatos de personas que acamparon allí por la noche y se marcharon temprano. Sea lo que piense de ello, la mezquita es hermosa y casi siempre está vacía.\n\nTambién aquí: la **tumba de Balban**, que contiene el primer arco verdadero construido en la India; el **Rajon ki Baoli**, un pozo escalonado de 1516; y la **tumba de Quli Khan**, que un residente británico convirtió en una casa de campo en la década de 1830.\n\n**Las ciudades Khalji y Tughlaq**\n\nLo que queda de **Siri**, la capital de Alauddin Khalji de alrededor de 1303, y los monumentos Tughlaq más allá, piedra del color del suelo sobre el que se alza, construida por una dinastía cuya arquitectura era toda inclinación y masa, sin ornamento.\n\n**Bhuli Bhatiyari ka Mahal**, un pabellón de caza del siglo XIV en el bosque de la Ridge, es el otro lugar con fama de ser desagradable al anochecer.\n\n**Práctico**\n\nTres horas a pie por terreno irregular, en gran parte sin iluminación, calzado sensato y la linterna del teléfono.\n\nTome el folclore como folclore. Lo que realmente está viendo son setecientos años de arquitectura abandonada de una ciudad, lo cual es más interesante que cualquiera de las historias.",
+  "highlights": [
+   "Sienta un escalofrío mientras explora los monumentos encantados de Delhi en una visita guiada"
+  ],
+  "included": [
+   "Paseo a pie por los monumentos encantados de Delhi",
+   "Visita al Parque Arqueológico de Mehrauli",
+   "Historias de sultanes medievales y sus hechos",
+   "Visita a la ciudad de Alauddin Khilji",
+   "Visita a los monumentos Tughlaq",
+   "Visita a lugares históricos con historias románticas o macabras",
+   "Traslado a los monumentos en vehículo cuando sea necesario"
+  ],
+  "notIncluded": [
+   "Ninguno"
+  ]
+ },
+ "delhi-hidden-art-gallery-tour": {
+  "title": "Delhi: visita a galerías de arte ocultas",
+  "metaTitle": "Delhi: galerías de arte ocultas",
+  "metaDescription": "Seis horas por las galerías de arte contemporáneo independientes de Delhi con un guía que conoce la escena.",
+  "shortDescription": "Seis horas por las galerías de arte contemporáneo independientes de Delhi con un guía que conoce la escena.",
+  "fullDescription": "**Delhi tiene una verdadera escena de arte contemporáneo, y es casi invisible**\n\nLa mayor parte ocurre detrás de puertas sin letreros en barrios residenciales. No hay un distrito de galerías señalizado, ni multitud de fin de semana, y si no sabe dónde ir, no lo encontrará.\n\nSeis horas con alguien que sí lo sabe.\n\n**A dónde va**\n\n**Lado Sarai** es lo más parecido a un distrito de galerías, un par de docenas de espacios en un antiguo pueblo detrás del complejo de Qutub, que exhiben desde modernistas consagrados hasta primeras exposiciones individuales.\n\n**Shahpur Jat** y **Hauz Khas** para espacios más pequeños y nuevos, a menudo sobre el estudio de un diseñador.\n\nLas instituciones más grandes según lo que se exhiba: el **Museo de Arte Kiran Nadar**, que posee una de las colecciones privadas más importantes de arte moderno indio en el mundo, y la **National Gallery of Modern Art** en Jaipur House, cerca de India Gate.\n\n**Lo que está viendo**\n\nEl modernismo indio es un corpus serio, y un buen guía lo situará para usted: el **Progressive Artists' Group** de 1947, Husain, Souza, Raza, que rompió con la escuela de Bengala y marcó el curso de la pintura moderna india; luego los pintores figurativos de Baroda; luego la generación activa hoy, muy conceptual, con frecuencia política, comprometida con la casta, el género y el desplazamiento urbano de formas que la India turística nunca menciona.\n\nLos precios en estas galerías van desde unos cientos de dólares hasta varios cientos de miles, y el mercado es uno de los de más rápido crecimiento en Asia.\n\n**El Lodhi Art District**\n\nNormalmente incluido: el primer distrito de arte público al aire libre de la India, donde una colonia de vivienda gubernamental de la década de 1940 ha sido pintada de arriba abajo por artistas de un par de docenas de países.\n\n**Práctico**\n\nSeis horas con transporte privado, necesario, estos lugares están repartidos por toda la ciudad.\n\nLas galerías suelen estar **cerradas los domingos y lunes**, y las exposiciones cambian, así que la ruta exacta se fija el mismo día.\n\nLa entrada a las galerías comerciales es gratuita. Nadie le presionará para comprar.",
+  "highlights": [
+   "Explore las galerías de arte ocultas y contemporáneas de Delhi en una visita organizada"
+  ],
+  "included": [
+   "Visita guiada a 5-6 galerías contemporáneas",
+   "Guía o comisario de arte experto",
+   "Transporte privado con aire acondicionado",
+   "Agua embotellada",
+   "Tarifas de entrada (si corresponde)"
+  ],
+  "notIncluded": [
+   "Comidas o gastos personales",
+   "Propinas"
+  ]
+ },
+ "delhi-hidden-pottery-village-treasure-tour-kumhar-": {
+  "title": "Delhi: tesoro oculto del pueblo alfarero, Kumhar Gram",
+  "metaTitle": "Kumhar Gram: el pueblo alfarero de Delhi",
+  "metaDescription": "Dos horas en Kumhar Gram, el pueblo de alfareros de Delhi, unas 700 familias que todavía tornean y cuecen a mano.",
+  "shortDescription": "Dos horas en Kumhar Gram, el pueblo de alfareros de Delhi, unas 700 familias que todavía tornean y cuecen a mano.",
+  "fullDescription": "**Setecientas familias de alfareros, dentro de Delhi**\n\nKumhar Gram se encuentra en el oeste de Delhi, cerca de Uttam Nagar, y es exactamente lo que su nombre sugiere: un pueblo de alfareros dentro de una ciudad de veinte millones de habitantes. Las familias llegaron de Rajastán y Uttar Pradesh hace unos sesenta años, y desde entonces tornean vasijas en las mismas calles.\n\nCada superficie es cerámica secándose. Se apila en los tejados, a lo largo de los muros, en medio de las calles, y es una de las pocas cosas genuinamente no mediadas que un visitante puede ver en Delhi, nadie construyó esto para que usted lo mirara.\n\n**Lo que observa**\n\nEl **torno**, que aquí a menudo todavía se pedalea o se gira a mano en lugar de ser eléctrico. Un alfarero experto moldea un matka en bastante menos de un minuto, y es la velocidad lo que se queda en la memoria.\n\nEl **secado**, que constituye la mayor parte del proceso y todo el riesgo, una semana de monzón puede destruir el stock de una familia.\n\nY la **cocción**, en hornos abiertos alimentados con lo que sea que arda: madera, cáscaras, y por desgracia bastante chatarra, lo cual es un problema de salud real en el asentamiento y del que los alfareros hablarán si se les pregunta.\n\n**Lo que se fabrica**\n\n**Matkas** y **surahis**, las vasijas de agua sin esmaltar que se enfrían por evaporación a través de la arcilla y que siguen siendo la forma en que gran parte de la India bebe en verano. **Diyas** por cientos de miles para Diwali, cuando este pueblo trabaja las veinticuatro horas. Macetas, tandoors, kulhads para el chai.\n\nNormalmente puede probar el torno. Se le dará mal.\n\n**Comprar**\n\nDirectamente del fabricante, a precios de fabricante, una fracción de lo que cuesta la misma vasija en una boutique de Delhi. Pregunte antes de fotografiar a la gente; la mayoría se alegra, algunos están trabajando.\n\n**Práctico**\n\nDos horas. Las calles son estrechas, polvorientas y apiladas de cerámica sin cocer, use zapatos cerrados, mire dónde pone los pies, y no se apoye en nada.\n\nEvite el monzón, cuando el trabajo se detiene y las calles se inundan.",
+  "highlights": [
+   "Descubra el tradicional pueblo alfarero Kumhar Gram de Delhi"
+  ],
+  "included": [
+   "Visita guiada al pueblo",
+   "Sesión de alfarería",
+   "Experiencia del té con los aldeanos",
+   "Acceso a las zonas de fabricación artesanal"
+  ],
+  "notIncluded": [
+   "Comidas (excepto el té)",
+   "Compras personales",
+   "Propinas"
+  ]
+ },
+ "delhi-inclusive-heritage-tour": {
+  "title": "Circuito histórico del Triángulo de Oro de la India en 5 días, todo incluido (desde 229,21 $)",
+  "metaTitle": "Triángulo de Oro histórico 5 días, todo incluido",
+  "metaDescription": "Cinco días entre Delhi, Agra y Jaipur con coche privado, guías y opciones de hotel de tres o cuatro estrellas.",
+  "shortDescription": "Cinco días entre Delhi, Agra y Jaipur con coche privado, guías y opciones de hotel de tres o cuatro estrellas.",
+  "fullDescription": "**Cinco días, la ruta estándar, sin prisas**\n\nUn día de llegada y cuatro días de visitas, con los trayectos largos entre ciudades en lugar de dentro de ellas.\n\n**Día 1: Delhi**\n\nRecogida en el aeropuerto o en su hotel.\n\nLa **Jama Masjid**, la mezquita más grande de la India, y el **Raj Ghat**, la plataforma de mármol negro donde Gandhi fue incinerado en 1948 con una llama que arde desde entonces. Un trayecto frente al **Fuerte Rojo**.\n\nLuego **India Gate**, el **Parlamento** y la residencia presidencial a lo largo del Rajpath, la ciudad imperial de Lutyens de la década de 1920, todavía sede del gobierno.\n\n**Qutub Minar**, iniciado en 1193, el minarete de ladrillo más alto del mundo, con la columna de hierro de 1.600 años en su patio que nunca se ha oxidado. Y la **tumba de Humayun**, la tumba-jardín mogol de la década de 1560, jardín de cuatro partes, cúpula doble, en la que se inspiró el Taj Mahal sesenta años después.\n\n**Día 2: Delhi a Agra**\n\nLa autopista Yamuna, unas tres horas y media.\n\n**Día 3: Agra**\n\nEl **Taj Mahal** al amanecer, cuando el mármol pasa de gris a rosado y luego a blanco y la multitud es una fracción de la de media mañana. El **fuerte de Agra**, con el **Musamman Burj**, donde Aurangzeb encarceló a su padre ocho años, con el Taj a la vista a lo largo del río.\n\n**Día 4: Agra a Jaipur**\n\n**Fatehpur Sikri** en el camino: la capital de Akbar de 1571, abandonada tras catorce años cuando faltó el agua, y por ello completa.\n\n**Día 5: Jaipur, luego Delhi**\n\nEl **fuerte de Amber** temprano, luego el **City Palace**, el **Jantar Mantar** y el **Hawa Mahal**, y el regreso.\n\n**Tres opciones**\n\nCoche, conductor y guía; o con hoteles de tres o cuatro estrellas.\n\n**Práctico**\n\n**El Taj está cerrado los viernes.** Las tarifas de entrada son aparte salvo que se indique lo contrario, aproximadamente 2.600 ₹ por persona para un adulto extranjero en las tres ciudades.",
+  "highlights": [
+   "Explore el icónico Triángulo de Oro de la India, Delhi, Agra y Jaipur, en 5 días"
+  ],
+  "included": [
+   "Recogida y traslado al hotel o aeropuerto",
+   "Coche privado con aire acondicionado y conductor para toda la actividad",
+   "Guía turístico profesional en cada ciudad",
+   "4 noches de alojamiento en hotel (si se elige la opción)",
+   "Desayuno en el hotel",
+   "Botella de agua mineral",
+   "Todos los peajes y tasas de aparcamiento"
+  ],
+  "notIncluded": [
+   "Almuerzo y cena",
+   "Entradas a los monumentos",
+   "Cualquier gasto personal"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
