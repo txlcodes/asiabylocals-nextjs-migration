@@ -18682,6 +18682,94 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas/gratificaciones para el conductor/guía"
   ]
  },
+ "jaipur-tajmahal-sunrise-tour-with-fatehpur-sikri-a": {
+  "title": "Desde Jaipur: Tour del Taj Mahal al amanecer con Fatehpur Sikri y Abhaneri",
+  "metaTitle": "Jaipur: Taj Mahal al amanecer + Fatehpur Sikri",
+  "metaDescription": "Taj Mahal al amanecer desde Jaipur, con Fatehpur Sikri y el pozo escalonado de Abhaneri en la ruta.",
+  "shortDescription": "Taj Mahal al amanecer desde Jaipur, con Fatehpur Sikri y el pozo escalonado de Abhaneri en la ruta.",
+  "fullDescription": "**Salida a la 1 de la madrugada, y tres sitios en una sola carretera**\n\nDe Jaipur a Agra hay 240 km. Para estar en el Taj cuando abren las puertas, sales en mitad de la noche, y la carretera hacia el este pasa por **Abhaneri** y **Fatehpur Sikri**, lo que hace que el propio trayecto se convierta en el viaje en lugar de tiempo muerto.\n\n**Chand Baori, Abhaneri**\n\n**3.500 escalones** en perfectos tramos dobles que descienden trece plantas hasta un cuadrado de agua verde, excavados en el siglo 9 por el rey Chanda para que un pueblo pudiera llegar al agua a lo largo de un verano desértico.\n\nEl fondo está cinco o seis grados más fresco que la superficie, lo cual era tanto el objetivo como el agua misma. La geometría se fotografía como una ilusión óptica y ya la habrás visto en películas.\n\nNo puedes bajar hasta el agua; la galería superior y el **templo de Harshat Mata** junto a ella están abiertos.\n\n**Amanecer en el Taj**\n\nLas puertas abren media hora antes del sol. El mármol se lee gris, luego rosa, luego blanco frío mientras la luz llega sobre la orilla lejana del Yamuna. En invierno hay niebla sobre el río detrás de la cúpula, y la multitud es una quinta parte de la que habrá a las diez.\n\nShah Jahan lo empezó en 1632, el año después de que Mumtaz Mahal muriera dando a luz a su decimocuarto hijo. Veintidós años, veinte mil trabajadores, y mármol transportado desde **Makrana**, que está en Rajastán, a tres horas de donde empezó este tour.\n\nTu guía cubre la **caligrafía** tallada en tamaños crecientes para que se lea uniforme desde el suelo, el **pietra dura** con hasta sesenta piedras por flor, los cuatro **minaretes** inclinados hacia afuera para que un terremoto los dejara caer lejos de la tumba, y la única asimetría en todo el edificio.\n\n**Fatehpur Sikri**\n\nLa capital de Akbar de 1571, abandonada catorce años después cuando faltó el agua y conservada completa por esa razón: el **Buland Darwaza** de 54 metros, el **Panch Mahal**, el **Diwan-i-Khas** con su único pilar tallado, y el dargah de mármol de Salim Chishti.\n\n**Tres opciones**\n\nSolo guía; coche y conductor; o coche, conductor y guía.\n\n**El Taj está cerrado los viernes.**",
+  "highlights": [
+   "Experimenta la belleza intemporal del Taj Mahal al amanecer."
+  ],
+  "included": [
+   "Traslados y visitas en coche privado con aire acondicionado.",
+   "Recogida y regreso del aeropuerto y hotel.",
+   "Botellas de agua de cortesía.",
+   "Guía profesional.",
+   "Gastos de combustible, aparcamiento, peajes y todos los impuestos."
+  ],
+  "notIncluded": [
+   "Tasas de entrada a los monumentos.",
+   "Comidas.",
+   "Propinas (opcional)."
+  ]
+ },
+ "jaipur-to-puskar-same-day-trip": {
+  "title": "Excursión de un día de Jaipur a Pushkar",
+  "metaTitle": "Jaipur a Pushkar, excursión de un día",
+  "metaDescription": "Una excursión de un día desde Jaipur hasta Pushkar, el templo de Brahma, los ghats del lago y el bazar. Unas doce horas.",
+  "shortDescription": "Una excursión de un día desde Jaipur hasta Pushkar, el templo de Brahma, los ghats del lago y el bazar. Unas doce horas.",
+  "fullDescription": "**Uno de los muy pocos templos de Brahma en el mundo**\n\nPushkar está a 150 km al suroeste de Jaipur, unas tres horas en cada sentido, y merece el trayecto por una razón por encima de todas las demás: los hindúes sostienen que el lago se formó donde **Brahma dejó caer un loto**, y este es el principal templo dedicado a él en cualquier lugar.\n\nExisten quizás una docena. Brahma es el creador en la trinidad hindú y casi nunca se le venera directamente, la razón es una historia que tu guía te contará, que implica una maldición de su propia consorte.\n\n**El lago y los ghats**\n\n**Cincuenta y dos ghats** rodean el agua, cada uno construido por un gobernante o familia noble distinta, y los peregrinos se bañan en ellos al amanecer y al atardecer. El lago en sí es artificial en el sentido de que ha sido embalsado y dragado durante siglos.\n\nUna advertencia que vale la pena tomarse en serio: los hombres en los ghats te ofrecerán una bendición del **\"pasaporte de Pushkar\"**, un hilo atado en la muñeca y una breve puja, y luego exigirán una donación grande, a veces de forma agresiva. Un no firme y educado basta, y ningún sacerdote genuino te perseguirá por las escaleras.\n\n**El templo de Brahma**\n\nDel siglo 14 en su forma actual, sobre un sitio mucho más antiguo, al que se llega subiendo unos escalones de mármol. La tortuga de plata incrustada en el suelo y el motivo hamsa sobre la entrada son las cosas que hay que buscar.\n\nLos zapatos se quitan bastante antes de la entrada, y los artículos de cuero deben quedarse en el coche.\n\n**Templo de Savitri**\n\nEn la colina de arriba, por una larga escalera o en teleférico, con todo el lago y el pueblo extendidos abajo. Mejor en la última hora de luz.\n\n**El bazar**\n\nBueno para plata, textiles bordados y libros de segunda mano, y genuinamente relajado según los estándares rajastaníes.\n\n**Práctico**\n\n**El pueblo es estrictamente vegetariano y libre de alcohol**, sin carne, sin huevos, sin alcohol dentro de los límites municipales. Esto se aplica estrictamente.\n\nLa **feria de camellos** cae en Kartik, normalmente en noviembre, cuando la población se multiplica varias veces.\n\nDoce horas puerta a puerta.",
+  "highlights": [
+   "Lago sagrado de Pushkar y sus ghats"
+  ],
+  "included": [
+   "Recogida y regreso al hotel/aeropuerto/estación de tren",
+   "Vehículo privado con aire acondicionado y chófer para visitar Pushkar",
+   "Combustible, tasas de aparcamiento, peajes e impuestos interestatales",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Entradas a monumentos",
+   "Comida y bebidas",
+   "Propinas"
+  ]
+ },
+ "jaipur-to-taj-mahal-same-day-tour-private-car": {
+  "title": "Jaipur al Taj Mahal en un día | Coche privado y guía",
+  "metaTitle": "Jaipur al Taj Mahal, coche privado y guía",
+  "metaDescription": "El Taj Mahal en un día desde Jaipur en coche privado con un guía, con opciones de entradas y almuerzo de cinco estrellas.",
+  "shortDescription": "El Taj Mahal en un día desde Jaipur en coche privado con un guía, con opciones de entradas y almuerzo de cinco estrellas.",
+  "fullDescription": "**Agra desde Jaipur sin cambiar de hotel**\n\nDe Jaipur a Agra hay 240 km, cuatro a cinco horas por una carretera razonable vía Bharatpur. Una excursión de un día funciona, y conviene a viajeros con base en Jaipur que no quieren hacer las maletas por un solo monumento.\n\nTambién hay una opción de inicio en Agra si ya estás allí.\n\n**El trayecto**\n\nRecogida temprana en un coche privado con aire acondicionado. **Fatehpur Sikri** está en esta ruta y puede añadirse si el horario lo permite, la capital de Akbar de 1571, abandonada catorce años después cuando faltó el agua y conservada completa por esa razón.\n\n**Taj Mahal**\n\nUn guía con licencia te recibe en Agra.\n\nShah Jahan lo empezó en 1632, el año después de que Mumtaz Mahal muriera dando a luz a su decimocuarto hijo. Veinte mil trabajadores, veintidós años, y mármol transportado 400 km desde Makrana en Rajastán, las mismas canteras que suministraron el mármol de la mitad de los edificios que viste en Jaipur.\n\nLo que añade un guía: la **caligrafía** en el gran arco, tallada en letras progresivamente más grandes para que se lea de la misma altura desde el suelo; la incrustación **pietra dura**, donde una flor puede contener sesenta piedras separadas; los cuatro **minaretes**, inclinados ligeramente hacia afuera para que un terremoto los dejara caer lejos de la tumba; la ilusión en la puerta, donde el edificio parece reducirse a medida que te acercas.\n\nY la única asimetría en un edificio perfectamente simétrico: el propio cenotafio de Shah Jahan, colocado fuera del centro por Aurangzeb tras su muerte.\n\n**Fuerte de Agra**\n\nLa ciudad de arenisca roja de Akbar de 1565 con los palacios de mármol de Shah Jahan dentro, y el **Musamman Burj**, la torre octogonal donde Aurangzeb encarceló a su padre durante ocho años, el Taj visible junto al río.\n\n**Cuatro opciones**\n\nUna versión con inicio en Agra con coche y guía; desde Jaipur con coche y guía; lo mismo con tasas de entrada; o con tasas de entrada y almuerzo en un hotel de cinco estrellas.\n\n**Práctico**\n\n**El Taj está cerrado los viernes.** La entrada cuesta ₹1.300 por persona para un adulto extranjero para el mausoleo, ₹650 para el fuerte.",
+  "highlights": [
+   "Visita el mundialmente famoso Taj Mahal"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado",
+   "Conductor profesional de habla inglesa",
+   "Combustible, peajes, aparcamiento e impuestos estatales",
+   "Recogida y regreso al hotel/aeropuerto/estación de tren",
+   "Todas las visitas según el itinerario",
+   "Entradas a monumentos (si se elige la opción)",
+   "Almuerzo en hotel de 5 estrellas (si se elige la opción)"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas/gratificaciones (opcional)"
+  ]
+ },
+ "jaipur-tour-pink-city-by-car-from-delhi-all": {
+  "title": "Tour de Jaipur (Ciudad Rosa) en coche desde Delhi - Todo incluido",
+  "metaTitle": "Jaipur (Ciudad Rosa) desde Delhi - todo incluido",
+  "metaDescription": "Un día todo incluido en Jaipur desde Delhi en coche con un guía, un almuerzo rajastaní y entradas a monumentos.",
+  "shortDescription": "Un día todo incluido en Jaipur desde Delhi en coche con un guía, un almuerzo rajastaní y entradas a monumentos.",
+  "fullDescription": "**Todo cubierto, incluyendo la parte que la gente olvida**\n\nLas entradas a los monumentos. El Fuerte Amber, el City Palace y el Jantar Mantar juntos cuestan unos ₹1.500 por adulto extranjero, cada uno con su propia taquilla, y en las opciones todo incluido aquí están prepagadas.\n\nTambién hay una versión con inicio en Jaipur si ya estás en la ciudad.\n\n**El trayecto**\n\nRecogida temprana en Delhi, luego 270 km por la NH-48, cuatro a cinco horas con una pausa.\n\n**Fuerte Amber**\n\nEl complejo en la colina sobre el lago Maota, iniciado en 1592 por Raja Man Singh. La puerta pintada **Ganesh Pol**; el **Sheesh Mahal**, donde miles de fragmentos de espejo convexo en el techo convertían una sola vela en un cielo lleno de estrellas; y el **Sukh Niwas**, enfriado por agua que corre por canales tallados en los muros de mármol.\n\n**Hawa Mahal**\n\nEl Palacio de los Vientos: 953 ventanas en cinco plantas, y apenas un metro de profundidad en la mayor parte de su altura. Construido en 1799 para que las mujeres de la corte pudieran observar las procesiones en la calle sin ser vistas desde la carretera, y el enrejado acelera el flujo de aire, lo que enfría los pasillos de atrás y le da nombre al edificio.\n\n**City Palace**\n\nTodavía parcialmente residencia de la antigua familia real, con la armería, las galerías textiles y las dos urnas de plata del Diwan-i-Khas, los objetos de plata más grandes del mundo, fundidas para que un maharajá pudiera llevar agua del Ganges a Inglaterra.\n\n**Jantar Mantar**\n\nDiecinueve instrumentos astronómicos de mampostería de la década de 1730, catalogado por la UNESCO, con un reloj de sol de 27 metros aún preciso hasta unos dos segundos.\n\n**El almuerzo**\n\nUna comida rajastaní tradicional, sentados. **Dal baati churma** es el plato estatal; indica con antelación necesidades vegetarianas, jainistas o sin picante y la cocina se encargará.\n\n**Cuatro opciones**\n\nUn coche y guía con inicio en Jaipur; desde Delhi con coche y guía; con tasas de entrada; o con tasas de entrada y almuerzo.\n\n**Práctico**\n\nCatorce horas puerta a puerta desde Delhi.",
+  "highlights": [
+   "Deleita tu vista con la impresionante arquitectura de Jaipur en un tour desde Nueva Delhi"
+  ],
+  "included": [
+   "Recogida y regreso al hotel (si se selecciona la opción)",
+   "Transporte en vehículo con aire acondicionado",
+   "Guía",
+   "Tasas de entrada (si se selecciona la opción)",
+   "Almuerzo bufé (si se selecciona la opción)",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Bebidas",
+   "Propinas"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
