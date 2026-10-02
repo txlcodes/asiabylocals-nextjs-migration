@@ -10148,6 +10148,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier gasto personal"
   ]
  },
+ "5-day-historical-golden-triangle-tour-of-india-all": {
+  "title": "Triángulo de Oro histórico de la India en 5 días, todo incluido",
+  "metaTitle": "Triángulo de Oro histórico en 5 días, todo incluido",
+  "metaDescription": "Cinco días entre Delhi, Agra y Jaipur con transporte privado, guías y elección de hoteles de tres, cuatro o cinco estrellas.",
+  "shortDescription": "Cinco días entre Delhi, Agra y Jaipur con transporte privado, guías y elección de hoteles de tres, cuatro o cinco estrellas.",
+  "fullDescription": "**Lo que compra el quinto día**\n\nTres días cubren el Triángulo de Oro. Cinco significan que llega a cada ciudad y luego de verdad pasa un día en ella, una tarde en Connaught Place, una segunda visita al Taj a otra hora, una tarde en los bazares de Jaipur que no queda apretada entre un fuerte y una autopista.\n\n**Día 1: llegada y Delhi**\n\nRegistro en el hotel, y luego **India Gate**, el arco de 42 metros de Lutyens tallado con los nombres de más de 13.000 soldados. Luego **Qutub Minar**, empezado en 1193, el minarete de ladrillo más alto del mundo, de pie en un patio construido con la piedra de templos desmantelados, con el pilar de hierro que no se ha oxidado en dieciséis siglos.\n\nEl **Templo del Loto** o la **Jama Masjid** según el día, la casa de oración bahá'í cierra los lunes, y la mezquita cierra a los visitantes durante las oraciones.\n\nTarde en **Connaught Place**, y cena con chaat de Delhi si lo desea.\n\n**Día 2: Delhi a Agra**\n\nEl resto de la capital por la mañana, la **tumba de Humayun**, la tumba-jardín de la década de 1560 de la que desciende el Taj, y luego la Yamuna Expressway hacia el sur.\n\n**Día 3: Agra**\n\nEl **Taj Mahal** al amanecer, y el **Fuerte de Agra**, con el **Musamman Burj**, donde Shah Jahan pasó sus últimos ocho años preso de su propio hijo mirando la tumba de su esposa río abajo.\n\n**Día 4: Agra a Jaipur vía Fatehpur Sikri**\n\nLa capital de Akbar de 1571, abandonada catorce años después cuando faltó el agua, y por eso conservada intacta.\n\n**Día 5: Jaipur**\n\nEl **Fuerte Amber** temprano, luego el **City Palace**, el **Jantar Mantar** y el **Hawa Mahal**, y vuelta a Delhi.\n\n**Cuatro opciones**\n\nSolo transporte y guía, o con un hotel de tres, cuatro o cinco estrellas y desayuno.\n\n**Práctico**\n\n**El Taj cierra los viernes**, lo que fija el orden. Las entradas rondan los 2,600 ₹ por adulto extranjero en las tres ciudades, salvo que su opción las cubra.",
+  "highlights": [
+   "Descubra Qutub Minar, sitio Patrimonio de la Humanidad de la UNESCO."
+  ],
+  "included": [
+   "Recogida y regreso",
+   "Coche privado con aire acondicionado para toda la visita",
+   "Guía turístico profesional en cada ciudad",
+   "Alojamiento en hotel de 3/4/5 estrellas",
+   "Desayuno en el hotel",
+   "Botella de agua mineral",
+   "Todos los peajes y gastos de aparcamiento"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Comida y cena",
+   "Cualquier gasto personal"
+  ]
+ },
+ "5-days-golden-triangle-tour-delhi-agra-jaipur-high": {
+  "title": "Triángulo de Oro en 5 días: lo más destacado de Delhi, Agra y Jaipur",
+  "metaTitle": "Triángulo de Oro en 5 días: lo más destacado",
+  "metaDescription": "Cinco días de lo más destacado del Triángulo de Oro desde Delhi, Taj Mahal, Fuerte Amber, India Gate, con coche privado y guías.",
+  "shortDescription": "Cinco días de lo más destacado del Triángulo de Oro desde Delhi, Taj Mahal, Fuerte Amber, India Gate, con coche privado y guías.",
+  "fullDescription": "**Lo más destacado, con espacio para respirar**\n\nCinco días entre Delhi, Agra y Jaipur. No un itinerario exhaustivo, uno bien elegido, con cada ciudad recibiendo una jornada completa y los trayectos largos quedando entre medio.\n\n**Delhi**\n\n**India Gate** en Rajpath, el monumento a los caídos tallado con más de 13.000 nombres. **Qutub Minar**, la torre de la victoria del siglo XII, y el pilar de hierro a su lado que no se ha oxidado en mil seiscientos años. La **tumba de Humayun**, la tumba-jardín mogol de la década de 1560 de cuyo recuerdo se construyó el Taj.\n\nY la vieja Delhi si lo desea, la **Jama Masjid** y la densidad de **Chandni Chowk**, mejor vista desde un rickshaw de pedales.\n\n**Agra**\n\nEl **Taj Mahal**, idealmente al amanecer. Shah Jahan lo empezó en 1632, el año siguiente a la muerte de Mumtaz Mahal al dar a luz a su decimocuarto hijo; veinte mil obreros y veintidós años.\n\nLo que añade un guía: la **caligrafía** labrada en tamaños crecientes para que se lea de manera uniforme desde el suelo, las incrustaciones de **pietra dura**, decenas de piedras por flor, los cuatro **alminares** inclinados hacia fuera para que un terremoto los dejara caer lejos de la tumba, y la única asimetría deliberada del edificio.\n\nEl **Fuerte de Agra**, y el **Musamman Burj**, donde Shah Jahan murió preso de su propio hijo, mirando río abajo la tumba de su esposa.\n\n**Fatehpur Sikri** en el camino hacia el oeste, una capital mogol completa, construida en 1571, abandonada en 1585, intacta desde entonces.\n\n**Jaipur**\n\nEl **Fuerte Amber** en su cresta sobre el lago Maota, con el **Sheesh Mahal**, donde los fragmentos de espejo convertían una sola vela en un techo de estrellas. Luego el **Jal Mahal**, el **City Palace**, el **Jantar Mantar** y el **Hawa Mahal**.\n\n**Tres opciones**\n\nSolo coche, conductor y guías, o con hoteles de tres o cuatro estrellas.\n\n**El Taj cierra los viernes**, lo que determina cómo se organizan los cinco días.",
+  "highlights": [
+   "Visite el mundialmente famoso Taj Mahal al amanecer y descubra el Fuerte de Agra."
+  ],
+  "included": [
+   "Recogida y regreso en el hotel o el aeropuerto",
+   "Coche privado con aire acondicionado y conductor para toda la visita",
+   "Guía turístico profesional en cada ciudad",
+   "4 noches de alojamiento en hotel (en la opción elegida)",
+   "Desayuno en el hotel",
+   "Botella de agua mineral",
+   "Todos los peajes y gastos de aparcamiento"
+  ],
+  "notIncluded": [
+   "Comida y cena",
+   "Entradas a los monumentos",
+   "Cualquier gasto personal"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
