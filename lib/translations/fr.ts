@@ -3787,6 +3787,182 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "agra-fort-baby-taj-mehtab-bagh-guided-tour-with": {
+  "title": "Fort d'Agra, Baby Taj et Mehtab Bagh : visite guidée avec transferts",
+  "metaTitle": "Fort d'Agra, Baby Taj et Mehtab Bagh en 4 heures",
+  "metaDescription": "Le fort d'Agra, le Baby Taj et Mehtab Bagh en quatre heures, avec voiture et guide privés. L'Agra qui n'est pas le Taj.",
+  "shortDescription": "Le fort d'Agra, le Baby Taj et Mehtab Bagh en quatre heures, avec une voiture et un guide privés. L'Agra qui n'est pas le Taj.",
+  "fullDescription": "**Les trois autres sites d'Agra**\n\nLa plupart des visiteurs accordent une demi-journée à Agra, voient le Taj et repartent. Ces trois sites expliquent pourquoi c'est une erreur, et quatre heures les couvrent tous confortablement.\n\n**Le fort d'Agra**\n\nUne ville moghole fortifiée en grès rouge, classée par l'UNESCO, commencée par Akbar en 1565 et reconstruite en marbre par son petit-fils Shah Jahan. Derrière la double enceinte se trouvent le **Diwan-i-Am** où l'empereur écoutait les requêtes, les bains du **Sheesh Mahal** et le **Khas Mahal** avec ses pavillons dorés.\n\nCe qui reste en mémoire, c'est le **Musamman Burj**, la tour octogonale de marbre où Shah Jahan fut emprisonné huit ans par son propre fils Aurangzeb. De son balcon, on voit le Taj Mahal au bord de la rivière : il l'avait fait bâtir pour sa femme, et il est mort en le regardant.\n\n**Itimad-ud-Daulah, le Baby Taj**\n\nPetit, et travaillé plus finement que le Taj lui-même. Nur Jahan l'a fait élever entre 1622 et 1628 pour son père, et c'est le premier édifice moghol entièrement en marbre blanc et le premier à employer la **pietra dura**, ces pierres semi-précieuses incrustées dans le marbre en motifs floraux. Toutes les surfaces en sont couvertes.\n\nIl précède le Taj d'une dizaine d'années et l'a directement rendu possible. Il est aussi presque toujours vide.\n\n**Mehtab Bagh**\n\nUn jardin moghol sur la rive opposée de la Yamuna, tracé pour s'aligner exactement avec le Taj de l'autre côté de l'eau. C'est de là que viennent les photographies du reflet, et c'est le meilleur endroit d'Agra pour voir le marbre changer de couleur en fin de journée.\n\n**Deux options**\n\nVoiture privée climatisée, chauffeur et guide ; ou la même chose avec tous les droits d'entrée compris. Le fort d'Agra est à 650 ₹ pour les ressortissants étrangers, le Baby Taj à 310 ₹, Mehtab Bagh à 300 ₹ : la version avec entrées tient donc de l'addition plutôt que de la marge.\n\nCette visite n'entre pas dans le Taj Mahal : elle est conçue pour accompagner une visite du Taj, pas pour la remplacer.",
+  "highlights": [
+   "Découvrez les joyaux d'Agra : le fort, le Baby Taj et Mehtab Bagh, avec accès coupe-file"
+  ],
+  "included": [
+   "Véhicule privé climatisé pour tous les transferts et les visites",
+   "Guide professionnel en personne",
+   "Prise en charge et retour à l'hôtel partout dans Agra",
+   "Billets d'entrée coupe-file pour tous les monuments (si l'option est choisie)",
+   "Eau en bouteille",
+   "Tous les frais de stationnement, péages et taxes"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Repas",
+   "Dépenses personnelles"
+  ]
+ },
+ "agra-fort-monument-visits-with-licensed-guide": {
+  "title": "Fort d'Agra : visite des monuments avec un guide agréé",
+  "metaTitle": "Fort d'Agra : visite avec un guide agréé",
+  "metaDescription": "Deux heures dans le fort d'Agra avec un guide agréé : la capitale moghole jusqu'en 1638, et le lieu où Shah Jahan est mort.",
+  "shortDescription": "Deux heures dans le fort d'Agra avec un guide agréé : la capitale moghole jusqu'en 1638, et le lieu où Shah Jahan est mort.",
+  "fullDescription": "**La capitale impériale, jusqu'à ce qu'elle ne le soit plus**\n\nLe fort d'Agra fut la résidence principale des empereurs moghols jusqu'en **1638**, quand Shah Jahan déplaça la capitale à Delhi et y fit bâtir le Fort Rouge. Tout ce qui s'est joué dans le premier siècle de l'empire s'est joué à l'intérieur de ces murs.\n\nDeux heures avec un guide agréé, ce qui est la bonne durée pour un seul édifice vu correctement.\n\n**Ce qu'Akbar a bâti**\n\nIl l'a commencé en 1565, à la place d'un fort de brique plus ancien, dans le grès rouge devenu la signature de son règne : deux kilomètres et demi de muraille, un double fossé, et une entrée à la **porte Amar Singh**, coudée et dédoublée pour que les éléphants de guerre ne puissent pas la charger en ligne droite.\n\nLe **Jahangiri Mahal** est la partie survivante de son travail résidentiel : des consoles et des poutres sculptées plutôt que des arcs, des formes hindoues et d'Asie centrale employées ouvertement, bâti pour ses épouses rajputes.\n\n**Ce que Shah Jahan a reconstruit**\n\nSon petit-fils en a fait abattre une grande partie et l'a remplacée en marbre blanc, et c'est le passage de la forteresse en service au palais.\n\nLe **Diwan-i-Am**, où l'empereur recevait les requêtes publiques depuis une alcôve surélevée. Le **Diwan-i-Khas** pour les audiences privées. Le **Khas Mahal** et ses pavillons dorés. Les bains du **Sheesh Mahal**, sertis de milliers d'éclats de miroir.\n\n**Musamman Burj**\n\nLa tour octogonale de marbre sur le mur côté rivière, et la raison pour laquelle ce fort marque les gens.\n\nEn 1658, Aurangzeb a déposé son père et l'a emprisonné ici. Shah Jahan a passé les huit dernières années de sa vie dans ces pièces, à regarder en aval le Taj Mahal qu'il avait fait bâtir pour sa femme. Il est mort dans la tour en 1666 et a été porté de l'autre côté de l'eau pour être enterré auprès d'elle.\n\n**Pratique**\n\nDeux heures. **Ouvert tous les jours**, y compris le vendredi quand le Taj est fermé, ce qui en fait la bonne chose à réserver ce jour-là.\n\nL'entrée est à 650 ₹ pour les ressortissants étrangers, payée à la porte. Environ un quart du fort est ouvert ; le reste est toujours occupé par l'armée indienne.\n\nLe transport n'est pas compris.",
+  "highlights": [
+   "Choisissez l'option qui vous convient pour la visite guidée du fort d'Agra"
+  ],
+  "included": [
+   "Billets du fort d'Agra",
+   "Guide anglophone",
+   "Rendez-vous avec le guide à la porte d'entrée du fort d'Agra"
+  ],
+  "notIncluded": [
+   "Pas de prise en charge ni de retour"
+  ]
+ },
+ "agra-fort-private-guided-tour-w-hotel-pickup-entry": {
+  "title": "Fort d'Agra : visite guidée privée avec prise en charge à l'hôtel et billet",
+  "metaTitle": "Fort d'Agra : visite privée de 3 h avec guide agréé",
+  "metaDescription": "Trois heures dans le fort d'Agra avec un guide agréé, entrée sans file d'attente et prise en charge à l'hôtel.",
+  "shortDescription": "Trois heures dans le fort d'Agra avec un guide agréé, entrée sans file d'attente et prise en charge à l'hôtel.",
+  "fullDescription": "**Le fort mérite plus que les quarante minutes qu'on lui accorde d'habitude**\n\nLe fort d'Agra est une ville fortifiée, pas un fort : deux kilomètres et demi de muraille en grès rouge, un double fossé, et à l'intérieur les palais de trois empereurs. La plupart des excursions au Taj lui laissent une heure avant le déjeuner. Trois heures, c'est la durée honnête.\n\n**Ce qu'a bâti Akbar**\n\nIl l'a commencé en 1565, à la place d'un fort de brique plus ancien, dans ce grès rouge qui est devenu la signature de son règne. La **porte d'Amar Singh** par laquelle on entre est coudée et dédoublée à dessein, pour que les éléphants ne puissent pas la charger en ligne droite.\n\nLe **Jahangiri Mahal** est la partie subsistante de ses bâtiments d'habitation : éléments hindous et centre-asiatiques ouvertement mêlés, consoles et poutres sculptées plutôt que des arcs, construit pour ses épouses rajputes.\n\n**Ce qu'a reconstruit Shah Jahan**\n\nSon petit-fils en a fait abattre une grande partie pour la remplacer en marbre blanc, et c'est là le passage de la forteresse en service au palais.\n\nLe **Diwan-i-Am**, où l'empereur entendait les requêtes publiques depuis une alcôve surélevée. Le **Diwan-i-Khas** pour les audiences privées. Le **Khas Mahal** et ses pavillons dorés, et le hammam **Sheesh Mahal**, dont les murs sont incrustés de milliers d'éclats de miroir.\n\n**Musamman Burj**\n\nLa tour octogonale en marbre sur la muraille du fleuve, et la raison pour laquelle ce fort reste en mémoire.\n\nEn 1658, Aurangzeb déposa son père et l'enferma ici. Shah Jahan passa les huit dernières années de sa vie dans ces pièces, à regarder en aval le Taj Mahal qu'il avait fait construire pour sa femme. Il mourut dans la tour et fut porté de l'autre côté de l'eau pour être enterré auprès d'elle.\n\n**Trois options**\n\nGuide seul, si vous avez un véhicule. Voiture privée, chauffeur et guide. Ou la même chose avec le billet d'entrée compris : le fort d'Agra coûte 650 ₹ pour les ressortissants étrangers.\n\n**Pratique**\n\nEnviron trois heures, prise en charge à l'hôtel comprise. Ouvert tous les jours, vendredi compris, ce qui en fait la bonne réservation quand le Taj est fermé.\n\nUn quart environ du fort est ouvert ; le reste appartient toujours à l'armée indienne.",
+  "highlights": [
+   "Explorez le magnifique fort d'Agra, site inscrit au patrimoine mondial de l'UNESCO."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour les transferts",
+   "Guide local expert agréé par le gouvernement",
+   "Billets d'entrée du fort d'Agra (selon l'option choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toutes dépenses personnelles"
+  ]
+ },
+ "agra-fort-tour-with-squirrel-feeding": {
+  "title": "Visite du fort d'Agra avec nourrissage des écureuils",
+  "metaTitle": "Fort d'Agra : visite avec nourrissage des écureuils",
+  "metaDescription": "Trois heures dans le fort d'Agra avec un guide, et pour finir les écureuils de palmier qui ont fait des lieux leur domaine.",
+  "shortDescription": "Trois heures dans le fort d'Agra avec un guide, et pour finir les écureuils de palmier qui ont fait des lieux leur domaine.",
+  "fullDescription": "**Le fort, et les écureuils**\n\nLe nourrissage des écureuils est une petite chose, et c'est ce dont les gens se souviennent de cette visite. Les jardins du fort d'Agra sont pleins d'**écureuils de palmier du Nord**, ceux à rayures, trois lignes claires sur un dos gris-brun, et des générations d'entre eux ont grandi au milieu des visiteurs. Ils viennent prendre une cacahuète dans une main ouverte.\n\nCela prend dix minutes à la fin et les enfants ne l'oublient pas.\n\n**Le fort d'Agra**\n\nUne ville fortifiée plutôt qu'un fort. Akbar l'a commencé en 1565 en grès rouge, à la place d'une structure de brique plus ancienne : deux kilomètres et demi de muraille, un double fossé, et un quart environ de l'intérieur ouvert aux visiteurs, le reste appartenant toujours à l'armée indienne.\n\nOn entre par la **porte d'Amar Singh**, coudée et dédoublée à dessein pour que les éléphants de guerre ne puissent pas la charger en ligne droite.\n\nLe **Jahangiri Mahal** est la partie subsistante des bâtiments d'habitation d'Akbar lui-même : consoles et poutres sculptées plutôt que des arcs, formes hindoues et centre-asiatiques assumées, construit pour ses épouses rajputes.\n\nPuis le marbre de Shah Jahan : le **Diwan-i-Am** où l'empereur entendait les requêtes publiques depuis une alcôve surélevée, le **Diwan-i-Khas** pour les audiences privées, le **Khas Mahal** et ses pavillons dorés, et le hammam **Sheesh Mahal** incrusté de milliers d'éclats de miroir.\n\n**Musamman Burj**\n\nLa tour octogonale en marbre sur la muraille du fleuve, et la raison pour laquelle ce fort reste en mémoire.\n\nEn 1658, Aurangzeb déposa son père et l'enferma ici. Shah Jahan passa les huit dernières années de sa vie dans ces pièces, à regarder en aval le Taj Mahal qu'il avait fait construire pour sa femme. Il mourut dans la tour et fut porté de l'autre côté de l'eau pour être enterré auprès d'elle.\n\n**Trois options**\n\nGuide seul ; voiture privée, chauffeur et guide ; ou la même chose avec le billet d'entrée, 650 ₹ pour les ressortissants étrangers.\n\n**Pratique**\n\nTrois heures avec prise en charge à l'hôtel. Ouvert tous les jours, vendredi compris, ce qui en fait la bonne réservation le jour où le Taj est fermé.",
+  "highlights": [
+   "Explorez le fort d'Agra, inscrit à l'UNESCO, avec un guide local professionnel."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour les visites",
+   "Guide touristique professionnel",
+   "Billets d'entrée (selon l'option choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toutes dépenses personnelles"
+  ]
+ },
+ "agra-guided-tour-of-taj-mahal-agra-fort-and": {
+  "title": "Agra : visite guidée du Taj Mahal, du fort d'Agra et de Fatehpur Sikri",
+  "metaTitle": "Taj Mahal, fort d'Agra et Fatehpur Sikri avec guide",
+  "metaDescription": "Taj Mahal, fort d'Agra et Fatehpur Sikri avec un guide, au départ d'Agra ou de Delhi, avec une option tout compris.",
+  "shortDescription": "Taj Mahal, fort d'Agra et Fatehpur Sikri avec un guide, au départ d'Agra ou de Delhi, avec une option tout compris.",
+  "fullDescription": "**Trois sites de l'UNESCO, départ à sept heures du matin**\n\nPrise en charge à 07h00 à votre hôtel ou à la gare d'Agra Cantt, au Taj à la demie, ce qui est la bonne heure : avant les autocars et quand la lumière est encore basse.\n\n**07h30, Taj Mahal**\n\nShah Jahan l'a fait construire à partir de 1632 en mémoire de Mumtaz Mahal, morte en donnant naissance à leur quatorzième enfant. Vingt-deux ans, vingt mille ouvriers, du marbre charrié sur 300 km depuis Makrana.\n\nVotre guide couvre ce qui fait l'édifice : la **calligraphie** gravée en lettres de plus en plus grandes pour se lire d'une hauteur égale depuis le sol ; la **pietra dura**, jusqu'à soixante pierres dans une seule fleur incrustée ; les quatre **minarets**, légèrement inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau ; et la seule asymétrie dans un bâtiment parfaitement symétrique, le cénotaphe de Shah Jahan lui-même, placé hors de l'axe par Aurangzeb.\n\n**Le fort d'Agra**\n\nLa ville de grès rouge d'Akbar, 1565, avec à l'intérieur les palais de marbre de Shah Jahan : le **Diwan-i-Am**, le **Khas Mahal**, le **Sheesh Mahal**. Et le **Musamman Burj**, la tour octogonale où Aurangzeb a retenu son père prisonnier les huit dernières années de sa vie, avec le Taj en vue le long du fleuve.\n\n**Fatehpur Sikri**\n\nQuarante kilomètres à l'ouest, et le site que la plupart des excursions sautent quand elles ont pris du retard.\n\nAkbar a bâti cette capitale en 1571 et l'a abandonnée quatorze ans plus tard, faute d'eau, et c'est précisément pour cela qu'elle est intacte. Personne n'y a vécu assez longtemps pour la modifier.\n\nLe **Buland Darwaza**, 54 mètres de porte triomphale, avec une inscription citant Jésus gravée sur une mosquée moghole. Le **Panch Mahal**, cinq étages ouverts en retrait les uns des autres, pas deux colonnes identiques. Le **Diwan-i-Khas**, avec son unique pilier central sculpté et quatre passerelles vers les angles, où Akbar siégeait pendant que les représentants de différentes confessions débattaient autour de lui. Et le **dargah de Salim Chishti** en marbre, dont les claustras portent encore les fils noués par ceux qui demandent un enfant.\n\n**Quatre options**\n\nGuide seul au départ d'Agra ; voiture et guide au départ d'Agra ; voiture et guide au départ de Delhi ; ou une visite tout compris à Agra.\n\n**Le Taj est fermé le vendredi**, les deux autres sites sont ouverts.",
+  "highlights": [
+   "Visitez le Taj Mahal, inscrit au patrimoine mondial de l'UNESCO, et le fort d'Agra en grès rouge"
+  ],
+  "included": [
+   "Eau en bouteille",
+   "Véhicule climatisé",
+   "Transport privé",
+   "Prise en charge et retour à l'hôtel",
+   "Frais de stationnement",
+   "Guide anglophone"
+  ],
+  "notIncluded": [
+   "Pourboires pour le guide et le chauffeur",
+   "Déjeuner",
+   "Droits d'entrée des monuments"
+  ]
+ },
+ "agra-mahal-express-tour": {
+  "title": "Au départ de Delhi : Taj Mahal et Agra en train Gatimaan Express (à partir de 302.13 $)",
+  "metaTitle": "Delhi-Agra en Gatimaan Express : Taj Mahal avec guide",
+  "metaDescription": "Agra en Gatimaan Express depuis Delhi, avec voiture privée, guide agréé, billets d'entrée et options hôtel cinq étoiles.",
+  "shortDescription": "Agra en Gatimaan Express depuis Delhi, avec voiture privée, guide agréé, billets d'entrée et options hôtel cinq étoiles.",
+  "fullDescription": "**La version confortable de l'excursion à Agra**\n\nLe train plutôt que l'autoroute, le cinq étoiles plutôt qu'un déjeuner expédié, et tous les billets d'entrée pris en charge. Si le but du voyage est de voir le Taj sans passer la journée à être déplacé, c'est l'option qui supprime les frictions.\n\n**Le train**\n\nLe **Gatimaan Express** relie Delhi à Agra à 160 km/h, cent minutes, avec service de restauration à la place. C'est le train le plus rapide d'Inde et il ne circule pas le vendredi, qui est aussi le jour de fermeture du Taj Mahal.\n\n**À Agra**\n\nUne voiture privée climatisée et un guide agréé pour toute la journée.\n\n**Taj Mahal.** Shah Jahan l'a commencé en 1632, l'année suivant la mort de Mumtaz Mahal en donnant naissance à leur quatorzième enfant. Vingt mille ouvriers et vingt-deux ans, avec du marbre blanc acheminé sur 300 km depuis Makrana, au Rajasthan.\n\nCe qu'il vaut la peine de se faire montrer : la **calligraphie** du grand arc, gravée en lettres de plus en plus grandes pour se lire d'une hauteur égale depuis le sol ; les incrustations de **pietra dura**, certaines fleurs comptant soixante pierres distinctes ; les quatre **minarets**, légèrement penchés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau ; et la seule rupture volontaire de la symétrie, le cénotaphe de Shah Jahan lui-même, placé hors de l'axe à côté de celui de sa femme par Aurangzeb.\n\n**Le fort d'Agra.** La ville de grès rouge d'Akbar, 1565, reconstruite à l'intérieur en marbre par Shah Jahan : le **Diwan-i-Am**, le **Khas Mahal**, le hammam **Sheesh Mahal**, et le **Musamman Burj**, la tour octogonale sur la muraille du fleuve où Aurangzeb a retenu son père prisonnier les huit dernières années de sa vie, avec le Taj en vue le long de l'eau.\n\n**Trois options**\n\nTrain en deuxième classe avec voiture, guide, billets et hôtel cinq étoiles ; la version premium complète ; ou une journée voiture et guide pour les voyageurs déjà à Agra.\n\n**Pratique**\n\nLes places de train sont limitées et mises en vente à date fixe ; réservez bien à l'avance. Emportez le passeport utilisé pour la réservation, les chemins de fer indiens contrôlent l'identité par rapport au billet.",
+  "highlights": [
+   "Voyagez entre Delhi et Agra à bord du train à grande vitesse indien, le Gatimaan Express"
+  ],
+  "included": [
+   "Prise en charge et retour à Delhi et dans la région de la capitale",
+   "Transport en train Gatimaan Express (billets de train)",
+   "Visites en voiture privée climatisée",
+   "Petit-déjeuner dans le train",
+   "Dîner dans le train",
+   "Guide pour la visite de la ville",
+   "Eau minérale pendant les visites",
+   "Billets d'entrée de tous les monuments (selon l'option choisie)",
+   "Déjeuner dans un hôtel 5 étoiles"
+  ],
+  "notIncluded": [
+   "Pourboires et gratifications"
+  ]
+ },
+ "agra-mahal-full-day-tour": {
+  "title": "Au départ de Delhi : excursion privée au Taj Mahal et à Agra avec déjeuner 5*",
+  "metaTitle": "Delhi-Agra en privé : Taj Mahal avec déjeuner 5 étoiles",
+  "metaDescription": "Une journée privée à Agra au départ de toute la région de Delhi, avec chauffeur, guide et une option déjeuner cinq étoiles.",
+  "shortDescription": "Une journée privée à Agra au départ de n'importe où dans la région de Delhi, avec chauffeur, guide et une option déjeuner cinq étoiles.",
+  "fullDescription": "**Prise en charge partout dans la région de la capitale**\n\nAéroport de Delhi, Gurugram, Noida ou n'importe où ailleurs dans la région de la capitale nationale, ce qui compte plus qu'il n'y paraît : beaucoup de visiteurs logent à Gurugram pour le travail, et toutes les excursions standard supposent un hôtel dans le centre de Delhi.\n\nAvec chauffeur, par la **Yamuna Expressway**, environ trois heures et demie.\n\n**Taj Mahal**\n\nShah Jahan l'a commandé en 1631, l'année de la mort de Mumtaz Mahal en donnant naissance à leur quatorzième enfant, et il a fallu vingt-deux ans. Les comptes impériaux enregistrent vingt mille ouvriers, maçons, incrusteurs, bâtisseurs de dômes, calligraphes, avec leurs salaires, et c'est pourquoi on sait tant de choses sur la façon dont il a été construit.\n\nVotre guide couvre la **calligraphie** gravée en lettres de plus en plus grandes pour se lire d'une hauteur égale depuis le sol ; la **pietra dura**, jusqu'à soixante pierres dans une seule fleur incrustée ; les quatre **minarets**, légèrement inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau ; et la seule asymétrie volontaire, le cénotaphe de Shah Jahan lui-même, placé hors de l'axe par Aurangzeb.\n\n**Le fort d'Agra**\n\nUne ville fortifiée plutôt qu'un fort : deux kilomètres et demi de grès rouge commencés par Akbar en 1565, avec un double fossé et une porte d'entrée coudée pour que les éléphants de guerre ne puissent pas la charger en ligne droite.\n\nÀ l'intérieur, les remplacements en marbre de Shah Jahan, le **Diwan-i-Am**, le **Khas Mahal**, le **Sheesh Mahal**, et le **Musamman Burj**, la tour où Aurangzeb a retenu son père prisonnier huit ans, à portée de vue du Taj.\n\n**Cinq options**\n\nGuide seul au départ d'Agra ; Agra avec voiture et billets des monuments ; au départ de Delhi avec voiture et guide ; au départ de Delhi avec voiture, guide, billets et un repas cinq étoiles ; ou au départ de Delhi avec voiture, guide et billets.\n\n**Pratique**\n\nEnviron neuf heures à Agra, plus la route dans chaque sens.\n\n**Le Taj est fermé le vendredi.** L'entrée coûte 1,300 ₹ par adulte étranger avec le mausolée, 650 ₹ au fort.",
+  "highlights": [
+   "La plus belle vue du Taj Mahal, stupéfiant, avec un expert local"
+  ],
+  "included": [
+   "Voiture climatisée pour l'aller-retour",
+   "Services d'un guide touristique",
+   "Droits d'entrée des monuments (selon l'option choisie)",
+   "Déjeuner buffet dans un hôtel 5 étoiles (selon l'option choisie)",
+   "Bouteilles d'eau minérale"
+  ],
+  "notIncluded": [
+   "Toutes dépenses personnelles",
+   "Boissons alcoolisées",
+   "Vidéo et photographie",
+   "Pourboires et gratifications"
+  ]
+ },
+ "agra-mahal-guided-tour": {
+  "title": "Au départ de Delhi : Taj Mahal et Agra en une journée en train à grande vitesse",
+  "metaTitle": "Delhi-Agra en train rapide : Taj Mahal en une journée",
+  "metaDescription": "Agra en une journée depuis Delhi en train rapide, avec places réservées, petit-déjeuner à bord, voiture privée et guide.",
+  "shortDescription": "Agra en une journée depuis Delhi en train rapide, avec places réservées en voiture-salon, petit-déjeuner à bord, voiture privée et guide.",
+  "fullDescription": "**Places réservées, petit-déjeuner à bord, pas d'autoroute**\n\nLa version en train de l'excursion à Agra supprime ce qui rend la version routière difficile : sept à huit heures de voiture. Places réservées en voiture-salon climatisée, petit-déjeuner servi pendant le trajet, et Agra en un peu plus de quatre-vingt-dix minutes.\n\n**06h30, Delhi**\n\nPrise en charge à votre hôtel de Delhi, Gurugram ou Noida, et transfert privé climatisé jusqu'à la gare de **Nizamuddin**, avec aide à l'embarquement.\n\n**08h00, le train**\n\nLe Gatimaan ou un service rapide équivalent, voiture réservée, restauration comprise.\n\n**À Agra**\n\nUne voiture privée et un guide local agréé prennent le relais pour la journée.\n\n**Taj Mahal.** Shah Jahan l'a commencé en 1632 pour Mumtaz Mahal, morte en donnant naissance à leur quatorzième enfant. Vingt mille ouvriers, vingt-deux ans, du marbre blanc charrié sur 300 km depuis Makrana, au Rajasthan.\n\nCe qu'un guide apporte : la **calligraphie** gravée de plus en plus grande à mesure qu'elle s'élève, pour que les lettres se lisent d'une hauteur égale depuis le sol ; les fleurs de **pietra dura** faites de dizaines de pierres incrustées ; les quatre **minarets**, légèrement inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau ; l'illusion d'optique à la grande porte, où le Taj semble rétrécir à mesure qu'on avance ; et la seule rupture de la symétrie, le cénotaphe de Shah Jahan, placé hors de l'axe par Aurangzeb.\n\n**Le fort d'Agra.** À deux kilomètres en amont : les murailles de grès rouge d'Akbar, 1565, les palais de marbre de Shah Jahan à l'intérieur, et le **Musamman Burj**, où il a passé ses huit dernières années emprisonné par son propre fils, à regarder le tombeau de sa femme.\n\nDéjeuner, puis le train du soir pour rentrer à Delhi.\n\n**Quatre options**\n\nGuide seul à Agra ; voiture, chauffeur et guide à Agra ; ou la journée complète en voiture-salon de deuxième classe ou en classe affaires, déjeuner et tous les billets d'entrée compris.\n\n**Pratique**\n\nEnviron dix heures de porte à porte. Ce service ne circule pas vers Agra le vendredi, qui est aussi le jour de fermeture du Taj.\n\nLes places sont mises en vente à date fixe : réservez tôt, et emportez le passeport utilisé pour la réservation.",
+  "highlights": [
+   "Voyagez de Delhi à Agra à bord du confortable train à grande vitesse Gatimaan Express."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour toute la durée de la visite",
+   "Guide touristique agréé par le gouvernement",
+   "Billets de train aller-retour (selon l'option choisie)",
+   "Billets d'entrée des monuments (selon l'option choisie)",
+   "Déjeuner au restaurant (selon l'option choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toutes dépenses personnelles"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Réservez un guide officiel pour explorer Bengaluru",
   "metaTitle": "Bengaluru avec guide : palais, Lalbagh, temples et bazars",
