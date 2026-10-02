@@ -4714,6 +4714,97 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mittagessen (falls die Option nicht gebucht wird)"
   ]
  },
+ "from-delhi-agra-sunrise-yoga-class-with-taj-mahal": {
+  "title": "Ab Delhi: Yoga bei Sonnenaufgang in Agra mit Taj-Mahal-Besuch",
+  "metaTitle": "Agra: Yoga bei Sonnenaufgang und Taj-Mahal-Besuch",
+  "metaDescription": "Eine Yogastunde bei Sonnenaufgang in Agra, dann der Taj Mahal und das Agra Fort mit Guide. Hin- und Rückfahrt ab Delhi im Privatwagen.",
+  "shortDescription": "Eine Yogastunde bei Sonnenaufgang in Agra, dann der Taj Mahal und das Agra Fort mit Guide. Hin- und Rückfahrt ab Delhi im Privatwagen.",
+  "fullDescription": "**Auf der Matte beginnen, am Taj enden**\n\nDas ist ein langer Tag ab Delhi mit einer ungewöhnlichen ersten Stunde: eine Yogastunde bei Sonnenaufgang in Agra, bevor die Besichtigungen beginnen. Das funktioniert besser, als es klingt, denn die Fahrt dorthin verschläft man ohnehin halb, und am Taj anzukommen, nachdem man sich schon gestreckt hat, verändert den Besuch gegenüber vier Stunden direkt im Auto.\n\n**Die Fahrt**\n\nFrühe Abholung in Delhi, dann die Yamuna Expressway, rund dreieinhalb Stunden im privaten klimatisierten Wagen.\n\n**Yoga bei Sonnenaufgang**\n\nEine geführte Stunde für alle Levels: Atmung, sanftes Dehnen, Grundhaltungen. Keine Erfahrung nötig, nichts Akrobatisches. Matten werden gestellt.\n\nIndien ist der Ursprung dieser Praxis, und sie im Freien im ersten Licht in Agra zu machen, ist etwas anderes, als sie zu Hause im Studio zu machen.\n\n**Taj Mahal**\n\nDann das Monument im Morgenlicht, mit lizenziertem Guide. Shah Jahans Grabmal für Mumtaz Mahal, 1632 begonnen, zweiundzwanzig Jahre Bauzeit.\n\nDie Details, die man sich zeigen lassen sollte: die **Kalligrafie**, so bemessen, dass sie vom Boden aus gleich hoch erscheint, die **Pietra-dura**-Blüten mit Dutzenden Steinen, die **Minarette**, nach außen geneigt, damit ein Erdbeben sie neben die Kuppel fallen ließe, und die bewusste Asymmetrie von Shah Jahans eigenem Kenotaph.\n\n**Agra Fort**\n\nAkbars Fort von 1565 aus rotem Sandstein, mit den Marmorpalästen, die sein Enkel hinzufügte, und dem **Musamman Burj**, dem Turm, in dem dieser Enkel von seinem eigenen Sohn gefangen gehalten wurde, mit Blick flussabwärts zum Taj.\n\n**Praktisch**\n\nZwölf Stunden von Tür zu Tür. **Der Taj ist freitags geschlossen.**\n\nTragen Sie für die erste Stunde etwas, in dem Sie sich bewegen können; es gibt Zeit, sich vor den Besichtigungen umzuziehen.\n\nZwei Optionen: Wagen und Guide, oder die Fassung mit enthaltenen Eintrittskarten. Der Eintritt für ausländische Staatsangehörige beträgt 1,300 ₹ am Taj mit Mausoleum, 650 ₹ am Fort.",
+  "highlights": [
+   "Privater klimatisierter Hin- und Rücktransfer von Delhi nach Agra."
+  ],
+  "included": [
+   "Transport im privaten klimatisierten Wagen",
+   "Abholung und Rückfahrt am Hotel oder Flughafen in Neu-Delhi",
+   "Professioneller Yogalehrer",
+   "Professioneller Guide",
+   "Kostenloses Wasser in Flaschen während der Tour",
+   "Eintrittskarten für die Monumente (bei gewählter Option)",
+   "Alle anfallenden Steuern inbegriffen"
+  ],
+  "notIncluded": [
+   "Trinkgeld",
+   "Essen und Getränke"
+  ]
+ },
+ "from-delhi-all-inclusive-agra-taj-mahal-same-day": {
+  "title": "Ab Delhi: Agra und Taj Mahal komplett am selben Tag",
+  "metaTitle": "Delhi-Agra komplett: Taj Mahal am selben Tag",
+  "metaDescription": "Ein Komplettausflug nach Agra am selben Tag ab Delhi mit Privatwagen, Guide, Tickets und Mahlzeiten. Rund sechs Stunden in Agra.",
+  "shortDescription": "Ein Komplettausflug nach Agra am selben Tag ab Delhi mit Privatwagen, Guide, Tickets und Mahlzeiten. Rund sechs Stunden in Agra.",
+  "fullDescription": "**Die Geschichte mit den abgehackten Händen stimmt nicht**\n\nMan wird Ihnen erzählen, wahrscheinlich am Tor, Shah Jahan habe seinen Handwerkern die Hände abschneiden lassen, damit sie nie etwas Vergleichbares bauen könnten. Es gibt dafür keinen zeitgenössischen Beleg in irgendeiner Mogulchronik, einem Hofbericht oder dem Bericht eines europäischen Reisenden, und die kaiserlichen Lohnlisten zeigen dieselben namentlich genannten Meisterhandwerker, die an späteren Bauten arbeiteten.\n\nDie Geschichte taucht im neunzehnten Jahrhundert auf, nicht im siebzehnten.\n\nEin lizenzierter Guide sagt Ihnen das. Jemand, der Ihnen am Tor zweihundert Rupien abknöpft, erzählt Ihnen die andere Version, weil sie die bessere Geschichte ist.\n\n**Der Tag**\n\nFrüher Start ab Delhi, um dem Verkehr vorauszukommen, rund drei Stunden Fahrt auf der Schnellstraße im Privatwagen.\n\nZuerst der **Taj Mahal**, und früh ist richtig: der Marmor ist in den ersten Stunden am besten, und die Menge wächst ab neun Uhr stetig.\n\nShah Jahan begann ihn 1632, nachdem Mumtaz Mahal bei der Geburt ihres vierzehnten Kindes gestorben war. Zweiundzwanzig Jahre, zwanzigtausend Arbeiter, Marmor aus Makrana, 400 km entfernt.\n\nIhr Guide behandelt die **Kalligrafie**, nach oben hin größer geschnitten, damit sie vom Boden aus gleich hoch erscheint, die **Pietra-dura**-Blüten aus Dutzenden eingelegter Steine, die **Minarette**, nach außen geneigt, damit ein Erdbeben sie neben das Grabmal fallen ließe, und die eine Asymmetrie im ganzen Bau.\n\n**Agra Fort**\n\nAkbars Stadt aus rotem Sandstein von 1565 mit Shah Jahans Marmor darin, und der **Musamman Burj**, wo Aurangzeb seinen Vater acht Jahre gefangen hielt, mit dem Taj in Sicht flussabwärts.\n\n**Drei Optionen**\n\nNur Guide mit Start in Agra; Wagen und Guide ab Delhi; oder der Komplettag mit Tickets und Mahlzeiten.\n\n**Praktisch**\n\nRund sechs Stunden Besichtigung plus drei Stunden Fahrt je Strecke.\n\n**Der Taj ist freitags geschlossen.** Der Eintritt beträgt 1,300 ₹ pro ausländischem Erwachsenen mit Mausoleum, 650 ₹ am Fort, sofern Ihre Option sie nicht enthält.",
+  "highlights": [
+   "Genießen Sie eine Fahrt im Privatwagen nur für Sie, mit einem respektvollen Fahrer."
+  ],
+  "included": [
+   "Transport im klimatisierten Fahrzeug ab Neu-Delhi",
+   "Abholung und Rückfahrt zu Ihrer Adresse in Delhi",
+   "Professioneller Reiseleiter",
+   "Vorab gekaufte Eintrittskarten für alle Monumente",
+   "Eintrittskarten für die Monumente (bei gewählter Option)",
+   "Frühstück (bei gewählter Option)",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Keine"
+  ]
+ },
+ "from-delhi-all-inclusive-same-day-taj-mahal-tour": {
+  "title": "Ab Delhi: Taj Mahal komplett am selben Tag mit Mittagessen",
+  "metaTitle": "Delhi-Taj Mahal komplett: am selben Tag, Mittagessen inklusive",
+  "metaDescription": "Ein Komplett-Tag am Taj Mahal ab Delhi mit Privatwagen, Guide, Eintrittskarten für die Monumente und Mittagessen.",
+  "shortDescription": "Ein Komplett-Tag am Taj Mahal ab Delhi mit Privatwagen, Guide, Eintrittskarten für die Monumente und Mittagessen.",
+  "fullDescription": "**Woher der Marmor kam**\n\nJede Beschreibung des Taj erwähnt weißen Marmor. Weniger erwähnen, dass er aus **Makrana** kam, 400 km entfernt in Rajasthan, und dass die Steinbrüche noch arbeiten, man kann heute Makrana-Marmor in Jaipur kaufen, und es ist derselbe Stein.\n\nWas ihn ungewöhnlich macht, ist seine Kalzitreinheit, deshalb ist er bis etwa einen Zentimeter tief durchscheinend und deshalb scheint der Bau die Farbe zu wechseln, statt nur Licht einzufangen. Tausend Elefanten und Ochsenkarren transportierten ihn, auf einer dafür gebauten Rampe.\n\nDiese eine Tatsache stellt alles in einen neuen Rahmen: es ist kein Bau, der verziert wurde, es ist ein Bau, der aus einem außergewöhnlichen Material zusammengesetzt wurde.\n\n**Der Tag**\n\nAbholung in der Hotellobby in Delhi, dann die **Yamuna Expressway**, rund drei Stunden. Ihr Guide trifft Sie in Agra.\n\n**Taj Mahal.** Shah Jahan gab ihn 1631 in Auftrag, im Todesjahr von Mumtaz Mahal, die bei der Geburt ihres vierzehnten Kindes starb. Zweiundzwanzig Jahre Arbeit, und die kaiserlichen Akten listen die Arbeitskräfte, Steinmetzen, Einleger, Kalligrafen, Kuppelbauer, mit Löhnen, und deshalb weiß man so viel darüber, wie er gebaut wurde.\n\nIhr Guide zeigt Ihnen die **Kalligrafie**, in wachsenden Größen geschnitten, damit sie vom Boden aus gleich hoch erscheint; die **Pietra-dura**-Einlagen, Dutzende Steine pro Blüte; die vier **Minarette**, minimal nach außen geneigt, damit ein Erdbeben sie neben das Grabmal fallen ließe; und die eine bewusste Asymmetrie, Shah Jahans eigenes Kenotaph, von seinem Sohn außerhalb der Achse gesetzt.\n\n**Agra Fort.** Akbars Stadt aus rotem Sandstein von 1565 mit Shah Jahans Marmorpalästen darin, und der **Musamman Burj**, wo Aurangzeb ihn die letzten acht Jahre seines Lebens gefangen hielt, den Taj sichtbar am Fluss.\n\n**Vier Optionen**\n\nWagen und Guide ab Agra; ab Delhi mit Wagen und Guide; dasselbe mit Tickets; oder die Komplettfassung mit Mittagessen.\n\n**Praktisch**\n\n**Der Taj ist freitags geschlossen.** Teilen Sie uns vegetarische, Jain- oder Chili-freie Wünsche bei der Buchung mit.",
+  "highlights": [
+   "Abholung und Rückfahrt am Hotel von und nach Neu-Delhi"
+  ],
+  "included": [
+   "Abholung und Rückfahrt",
+   "Professioneller Reiseleiter",
+   "Eintrittskarten (bei gewählter Option)",
+   "Mittagessen (bei gewählter Option)",
+   "Transport im privaten klimatisierten Wagen",
+   "Garantiert ohne Anstehen",
+   "Mineralwasser in Flaschen",
+   "Alle Gebühren und Steuern"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "from-delhi-all-inclusive-taj-mahal-day-tour-with": {
+  "title": "Ab Delhi: Taj Mahal komplett als Tagestour mit Transfers",
+  "metaTitle": "Delhi-Taj Mahal komplett: Tagestour mit Transfers",
+  "metaDescription": "Ein Taj-Mahal-Tag ab Delhi mit Transfers, privatem Guide, Eintrittsgebühren und einer Fünf-Sterne-Essensoption.",
+  "shortDescription": "Ein Taj-Mahal-Tag ab Delhi mit Transfers, privatem Guide, Eintrittsgebühren und einer Fünf-Sterne-Essensoption.",
+  "fullDescription": "**Der Garten ist die halbe Anlage**\n\nDer Taj steht am äußersten Ende eines **Charbagh**, eines vierteiligen persischen Gartens, von Wasserkanälen geteilt, ein Bild des Paradieses mit vier Flüssen, die aus einer zentralen Quelle entspringen. Ungewöhnlich ist, dass das Grabmal nicht in seiner Mitte steht.\n\nJedes frühere mogulische Gartengrab, einschließlich Humayuns in Delhi, setzt den Bau ins Zentrum. Shah Jahan verlegte ihn ans Ende, zum Fluss hin, sodass der Taj über die ganze Länge des Wassers und gegen den Himmel gesehen wird, statt gegen Bäume.\n\nDiese eine Entscheidung ist der Grund, warum die Fotos funktionieren. Und der Garten war mit Obstbäumen und dichten Sträuchern bepflanzt, bis die Briten ihn in den 1890er-Jahren zu Rasen umgestalteten, der Blick, den Sie heute haben, ist also ein viktorianischer.\n\n**Der Tag**\n\nAbholung überall in Delhi, Gurugram oder Noida, dann die Schnellstraße im klimatisierten Wagen mit privatem Fahrer und Guide.\n\n**Taj Mahal.** 1632 begonnen, zweiundzwanzig Jahre, zwanzigtausend Arbeiter, Marmor über 400 km aus Makrana in Rajasthan herangekarrt.\n\nDie **Kalligrafie**, in wachsenden Größen geschnitten, damit sie vom Boden aus gleich hoch erscheint. Die **Pietra-dura**-Einlagen, bis zu sechzig Steine in einer Blüte. Die vier **Minarette**, minimal nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg fallen ließe. Und Shah Jahans eigenes Kenotaph, das einzige Objekt im Bau, das außerhalb der Mittelachse steht.\n\n**Agra Fort.** Akbars von Mauern umschlossene Stadt von 1565 aus rotem Sandstein, mit Shah Jahans Marmorpalästen darin und dem **Musamman Burj**, wo er als Gefangener seines eigenen Sohnes starb und flussabwärts auf das Grab seiner Frau blickte.\n\n**Vier Optionen**\n\nNur Guide in Agra; Wagen, Fahrer und Guide; dasselbe mit Eintrittsgebühren; oder mit Tickets und Fünf-Sterne-Mahlzeiten.\n\n**Praktisch**\n\nRund sieben Stunden in Agra plus die Fahrt.\n\n**Der Taj ist freitags geschlossen.**",
+  "highlights": [
+   "Entdecken Sie den Taj Mahal, eines der sieben Weltwunder."
+  ],
+  "included": [
+   "Abhol- und Rückfahrtservice am Hotel oder Flughafen.",
+   "Privates klimatisiertes Fahrzeug mit Fahrer.",
+   "Reiseleiter-Service vor Ort an allen Stationen.",
+   "Frühstück oder Mittagessen in einem 5-Sterne-Hotel (bei gebuchter Option).",
+   "Eintrittsgebühren der Monumente (bei gebuchter Option).",
+   "Mineralwasser in Flaschen.",
+   "Alle Mautkosten, Parkgebühren und Steuern."
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben.",
+   "Trinkgelder (optional)"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Offiziellen Guide für die Erkundung von Bengaluru buchen",
   "metaTitle": "Bengaluru mit Guide: Paläste, Lalbagh, Tempel und Basare",
