@@ -17210,6 +17210,98 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld für Fahrer/Guide"
   ]
  },
+ "jaipur-elephant-poo-paper-making-workshop-with-tou": {
+  "title": "Jaipur: Workshop zur Papierherstellung aus Elefantendung mit Reiseführer",
+  "metaTitle": "Jaipur: Workshop Papier aus Elefantendung",
+  "metaDescription": "Ein praktischer Workshop zur Papierherstellung aus Elefantendung in Jaipur, mit einem Guide. Etwa fünf Stunden.",
+  "shortDescription": "Ein praktischer Workshop zur Papierherstellung aus Elefantendung in Jaipur, mit einem Guide. Etwa fünf Stunden.",
+  "fullDescription": "**Ja, wirklich, und es ist eine ernsthafte Industrie**\n\nPapier aus Elefantendung wird in und um Jaipur in kommerziellem Maßstab hergestellt, und es gibt einen Grund dafür, der sofort Sinn ergibt, wenn man ihn hört. Ein Elefant isst etwa 150 kg Vegetation pro Tag und verdaut davon sehr wenig, sodass das, was herauskommt, größtenteils rohe Pflanzenfaser ist, genau das, was Papier braucht.\n\nEs wird gewaschen, gekocht, zu Brei verarbeitet und gepresst. Im fertigen Produkt riecht es nicht, und im Prozess selbst riecht es nach der ersten Wäsche kaum, was die Leute nie glauben, bis sie mittendrin stehen.\n\nDie Werkstätten kaufen das Rohmaterial von Elefantenbesitzern, was diesen Besitzern ein Einkommen verschafft, das keine Arbeit des Tieres erfordert. Das ist der Teil, der dies zu mehr als einer Kuriosität macht.\n\n**Was Sie tun**\n\nZuerst ein Briefing über den Prozess und darüber, warum überhaupt jemand damit angefangen hat.\n\nDann die Arbeit: die Faser **waschen**, sie **kochen**, zu Brei **verarbeiten**, und dann die eigentliche Blattformung, Brei in einem Bottich schwebend, ein Netzsieb eingetaucht und flach herausgehoben, Wasser abgelassen, und das feuchte Blatt auf Filz gelegt und gepresst.\n\nSie stellen Ihre eigenen Blätter her. Natürliche Farbstoffe kommen in die Brei-Phase, wenn Sie Farbe möchten, und Blütenblätter oder Blätter können in das Blatt gedrückt werden, während es noch feucht ist.\n\nDas Ergebnis ist dickes, texturiertes, leicht geflecktes Papier, die Art, die als handgemachte Schreibwaren, Notizbücher und Karten in ganz Rajasthan verkauft wird.\n\n**Sie nehmen es mit nach Hause**\n\nIhre Blätter, sobald sie getrocknet sind. Die Werkstatt hat auch Fertigware, falls Sie ein Notizbuch möchten, das jemand anderes ordentlich gemacht hat.\n\n**Praktisch**\n\nEtwa fünf Stunden einschließlich Guide und Workshop.\n\nTragen Sie Kleidung, die Ihnen nichts ausmacht. Sie werden einen guten Teil der Zeit die Hände in Brei und Wasser haben, und Schürzen helfen nur begrenzt.\n\nAlle Materialien sind inklusive. Die Werkstatt ist eine funktionierende Produktionseinheit statt eines Besucherzentrums, das ist der Reiz.",
+  "highlights": [
+   "Entdecken Sie den faszinierenden Prozess der Papierherstellung aus Elefantendung"
+  ],
+  "included": [
+   "Einführung in die Papierherstellung aus Elefantendung",
+   "Geführter Workshop zum Papierherstellungsprozess",
+   "Praktische Papierherstellungsaktivität",
+   "Diskussion über Nachhaltigkeit und umweltfreundliche Praktiken",
+   "Betrachtung der fertigen Produkte",
+   "Guide-Gebühren",
+   "Abholung & Rückfahrt"
+  ],
+  "notIncluded": [
+   "Essen, alles nicht in den Einschlüssen Genannte, Trinkgeld"
+  ]
+ },
+ "jaipur-elephant-sanctuary-experience-with-transfer": {
+  "title": "Jaipur: Elefanten-Sanctuary-Erlebnis mit Transfer",
+  "metaTitle": "Jaipur: Elefanten-Sanctuary mit Transfer",
+  "metaDescription": "Ein privater Besuch eines Elefanten-Schutzgebiets außerhalb Jaipurs mit Füttern, Waschen und Laufen, und Optionen für Stadtbesichtigung.",
+  "shortDescription": "Ein privater Besuch eines Elefanten-Schutzgebiets außerhalb Jaipurs mit Füttern, Waschen und Laufen, und Optionen für Stadtbesichtigung.",
+  "fullDescription": "**Zeit mit Elefanten, die nicht arbeiten**\n\nDie Tiere in diesem Schutzgebiet außerhalb Jaipurs kamen aus den Reit-Schlangen, aus Hochzeits- und Tempelarbeit, oder aus dem Bettel-Geschäft. Keines von ihnen wird hier geritten, und es gibt keinen Sitz auf dem Gelände.\n\nWas Sie stattdessen tun, ist füttern, waschen und neben ihnen gehen, während Mahouts erklären, woher jedes Tier kam.\n\n**Das Füttern**\n\nZuckerrohr, Bananen, Melone und handgepresste Jaggery-Kugeln. Ein erwachsener Elefant isst etwa 150 kg pro Tag, also ist das keine Zwei-Minuten-Fotomöglichkeit, Sie sind lange genug neben einem vier Tonnen schweren Tier, um sich zu entspannen.\n\nDavor gibt es ein Briefing: Anatomie, Verhalten, wie man erkennt, ob ein Elefant in diesem Moment Ihre Gesellschaft möchte, und wie der Rüssel funktioniert, etwa vierzigtausend Muskeln und kein Knochen.\n\n**Die Dusche**\n\nElefantenhaut ist zweieinhalb Zentimeter dick und bekommt trotzdem Sonnenbrand, deshalb werfen sie sich in der Wildnis Schlamm über. Einen zu schrubben, während er Sie absichtlich bespritzt, ist der Teil des Tages, von dem Leute danach erzählen.\n\n**Das Gehen**\n\nBei den längeren Optionen hinaus ins Dorf mit der Herde, was für die meisten Menschen am nächsten daran kommt, einen Elefanten einfach so zu sehen, wie er ist.\n\n**Das Dorf**\n\nDas Schutzgebiet liegt in **Hathi Gaon**, dem Elefantendorf, das in den 2000er Jahren außerhalb Jaipurs erbaut wurde, damit die Tiere und ihre Pfleger Bäume und Wasser statt einer Stadtgasse hätten.\n\n**Sechs Optionen**\n\nNur ein Jaipur-Stadtguide; eine Ganztagestour mit Auto und Guide; Fotografie und Füttern; Fotografie mit Füttern in einem längeren Slot; Duschen, Füttern und Gehen; oder das vollständige Programm.\n\nLesen Sie sie vor der Buchung, sie unterscheiden sich deutlich in der Länge.\n\n**Praktisch**\n\nEtwa zweieinhalb Stunden im Schutzgebiet, mit Transfers bei den meisten Optionen.\n\nSie werden bei jeder Option mit Wasser nass und schlammig. Bringen Sie Wechselkleidung und Schuhe mit, die Ihnen nichts ausmachen.\n\nKein Blitzlicht in der Nähe der Tiere, und bleiben Sie, wo die Mahouts Sie hinstellen.",
+  "highlights": [
+   "Füttern und genießen Sie eine spielerische Elefantendusche (falls Option gewählt)"
+  ],
+  "included": [
+   "Private Hotelabholung & Rückfahrt in einem klimatisierten Auto",
+   "Eintrittsgebühren für das Elefantendorf (Hathi Gaon) (falls Option gewählt)",
+   "Futtermaterial (Bananen/Zuckerrohr) (falls Option gewählt)",
+   "Biologische, ungiftige Farben zur Dekoration (falls Option gewählt)",
+   "Elefantendusche und Schrubbsitzung (falls Option gewählt)",
+   "Traditioneller Elefantenritt (falls Option gewählt)",
+   "Professioneller englischsprachiger Guide/Fahrer"
+  ],
+  "notIncluded": [
+   "Trinkgeld für die Mahouts (optional)",
+   "Persönliche Ausgaben und Mahlzeiten",
+   "Professionelle Fotografie (kann gegen Aufpreis arrangiert werden)"
+  ]
+ },
+ "jaipur-elephant-village-care-conservation-experien": {
+  "title": "Jaipur: Erlebnis Pflege und Erhaltung im Elefantendorf",
+  "metaTitle": "Jaipur: Elefantendorf, Pflege und Erhaltung",
+  "metaDescription": "Drei Stunden im Elefantendorf von Jaipur, um zu lernen, wie die Tiere gepflegt werden, mit ihren Pflegern. Kein Reiten.",
+  "shortDescription": "Drei Stunden im Elefantendorf von Jaipur, um zu lernen, wie die Tiere gepflegt werden, mit ihren Pflegern. Kein Reiten.",
+  "fullDescription": "**Pflege statt Ritte**\n\nDieser Besuch dreht sich darum, wie Elefanten versorgt werden, nicht darum, auf einem zu sitzen. Hier wird nicht geritten.\n\nWas Sie stattdessen tun, ist drei Stunden mit den Tieren und den Menschen zu verbringen, die täglich mit ihnen arbeiten, was sich als weit interessanter herausstellt als ein Foto von einem Howdah aus.\n\n**Hathi Gaon**\n\nDas Elefantendorf wurde in den 2000er Jahren außerhalb Jaipurs erbaut, speziell damit die Tiere und ihre **Mahouts** Bäume, Wasser und Platz statt einer Stadtgasse hätten. Etwa hundert Elefanten leben dort mit den Familien ihrer Pfleger.\n\n**Was Sie lernen**\n\nDer Tagesablauf, der größtenteils aus Essen besteht: ein erwachsener Elefant verarbeitet etwa 150 kg Vegetation pro Tag und trinkt bis zu 200 Liter Wasser. Einen zu füttern ist langsamer und seltsamer, als man erwartet.\n\nVerhalten und Kommunikation, Elefanten nutzen Infraschall unterhalb der menschlichen Hörschwelle, so bleiben getrennte Tiere über Kilometer in Kontakt. Der Rüssel hat etwa vierzigtausend Muskeln und keinen Knochen.\n\nFuß- und Hautpflege, die eigentliche Arbeit. Elefantenfüße tragen vier Tonnen und werden leicht zum Problem; Nägel und Ballen werden ständig kontrolliert und gefeilt. Die Haut ist zweieinhalb Zentimeter dick und bekommt trotzdem Sonnenbrand, deshalb werfen sie sich Staub und Schlamm über.\n\n**Die Mahouts**\n\nDie meisten haben jahrelang mit demselben Tier gearbeitet, oft aus einer Familie, die das seit Generationen tut. Sie sind die interessantesten Menschen auf dem Gelände und beantworten alles, wie sie eine Stimmung lesen, woher ein Tier kam, wie lange Vertrauen gedauert hat.\n\nFragen Sie sie. Das ist der Teil des Besuchs, den sich Leute merken.\n\n**Praktisch**\n\nDrei Stunden. Sie könnten nass oder schlammig werden, je nachdem, was die Tiere tun, bringen Sie Wechselkleidung mit.\n\nKein Blitzlicht, und bleiben Sie, wo die Pfleger Sie hinstellen. Das sind große Tiere, und die Regeln gelten für beide Seiten.",
+  "highlights": [
+   "Erleben Sie Jaipurs Elefantendorf bei einem von Pflegern geführten Besuch"
+  ],
+  "included": [
+   "Abholung & Rückfahrt von jedem Hotel, jeder Residenz oder jedem Flughafen in Jaipur",
+   "Etwa 3-stündiges Elefantendorf-Erlebnis",
+   "Von Pflegern geleitete Elefantenfütterung",
+   "Elefantenbadeerlebnis",
+   "Elefanten-Malaktivität",
+   "Anleitung und Unterstützung durch das lokale Elefantenpflegeteam",
+   "Zeit für Fotos während des Erlebnisses"
+  ],
+  "notIncluded": [
+   "Essen und Getränke",
+   "Trinkgeld",
+   "Persönliche Ausgaben",
+   "Alle zusätzlichen Aktivitäten, die nicht ausdrücklich als enthalten gelistet sind"
+  ]
+ },
+ "jaipur-ethical-elephant-care-sanctuary-experience": {
+  "title": "Jaipur: Erlebnis im ethischen Elefantenpflege-Sanctuary",
+  "metaTitle": "Jaipur: ethisches Elefantenpflege-Sanctuary",
+  "metaDescription": "Zeit mit geretteten Elefanten in einem Sanctuary in Jaipur, Füttern, Fotografie und Waschen, kein Reiten. Etwa zweieinhalb Stunden.",
+  "shortDescription": "Zeit mit geretteten Elefanten in einem Sanctuary in Jaipur, Füttern, Fotografie und Waschen, kein Reiten. Etwa zweieinhalb Stunden.",
+  "fullDescription": "**Kein Reiten. Das ist der ganze Punkt.**\n\nDie Elefanten in diesem Sanctuary werden nicht geritten, und es gibt keinen Howdah auf dem Gelände. Mehrere kamen aus der Reit-Schlange am Amber Fort oder aus Hochzeits- und Tempelarbeit, beides belastend für Füße und Wirbelsäule eines Elefanten. Hier besteht der Tag aus Füttern, Waschen, Laufen und sie in Ruhe lassen.\n\nWenn Sie ein Foto auf dem Rücken eines Elefanten möchten, buchen Sie etwas anderes, und der Grund, warum wir das nicht anbieten, ist die Wirbelsäule des Tieres, nicht ein Richtliniendokument.\n\n**Hathi Gaon**\n\nDas Sanctuary liegt im Elefantendorf, das in den 2000er Jahren außerhalb Jaipurs erbaut wurde, speziell damit die Tiere und ihre Mahouts Bäume, Wasser und Platz statt einer Stadtgasse hätten. Die Hineinfahrt gehört zum Besuch.\n\n**Das Füttern**\n\nSie beginnen mit Futter, so entscheidet ein Elefant, ob er Sie mag: Zuckerrohr, Bananen, Melone und handgepresste Jaggery-Kugeln. Ein erwachsenes Tier isst etwa 150 kg pro Tag und trinkt bis zu 200 Liter, also dauert das eine Weile, das ist der Sinn. Sie stehen lange genug neben einem vier Tonnen schweren Tier, um aufzuhören, nervös zu sein.\n\nDavor gibt es ein Briefing über Anatomie und Verhalten, einschließlich wie der Rüssel funktioniert: etwa vierzigtausend Muskeln und kein Knochen.\n\n**Das Waschen**\n\nElefantenhaut ist etwa zweieinhalb Zentimeter dick und bekommt trotzdem Sonnenbrand, deshalb werfen sie sich in der Wildnis Schlamm und Staub über. Einen mit einer Bürste zu schrubben, während er Sie absichtlich bespritzt, ist der Teil, den niemand erwartet, so sehr zu genießen, wie es dann passiert.\n\n**Die Mahouts**\n\nDie meisten haben jahrelang mit demselben Tier gearbeitet und sind die interessantesten Menschen auf dem Gelände. Fragen Sie sie, wie sie Stimmungen lesen, und wie lange Vertrauen gedauert hat.\n\n**Drei Optionen**\n\nEine Jaipur-Ganztagesbesichtigung mit einem Guide; Fotografie und Füttern im Sanctuary; oder alle Elefantenaktivitäten im Dorf mit Hotelabholung.\n\n**Praktisch**\n\nEtwa zweieinhalb Stunden im Sanctuary. Sie werden nass und schlammig, bringen Sie Wechselkleidung und Schuhe mit, die Ihnen nichts ausmachen.\n\nKein Blitzlicht in der Nähe der Tiere.",
+  "highlights": [
+   "Interagieren Sie mit Elefanten auf eine Weise, die ihr natürliches Verhalten respektiert"
+  ],
+  "included": [
+   "Eintritt zum Elefantendorf (falls Option gewählt)",
+   "Englischsprachiges Personal",
+   "Hin- und Rückfahrt von Ihrem Hotel",
+   "Fotoshooting",
+   "Elefantenbad & Schlamm-Spa (abhängig von der Option)"
+  ],
+  "notIncluded": [
+   "Trinkgeld (optional) für Fahrer und Mahout.",
+   "Persönliche Ausgaben oder Souvenirs."
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",

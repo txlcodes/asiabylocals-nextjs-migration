@@ -17210,6 +17210,98 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas para el conductor/guía"
   ]
  },
+ "jaipur-elephant-poo-paper-making-workshop-with-tou": {
+  "title": "Jaipur: Taller de fabricación de papel con excremento de elefante con guía",
+  "metaTitle": "Jaipur: taller de papel con excremento de elefante",
+  "metaDescription": "Un taller práctico de fabricación de papel a partir de excremento de elefante en Jaipur, con un guía. Unas cinco horas.",
+  "shortDescription": "Un taller práctico de fabricación de papel a partir de excremento de elefante en Jaipur, con un guía. Unas cinco horas.",
+  "fullDescription": "**Sí, de verdad, y es una industria seria**\n\nEl papel de excremento de elefante se fabrica en Jaipur y sus alrededores a escala comercial, y existe por una razón que tiene sentido en el momento en que la escuchas. Un elefante come unos 150 kg de vegetación al día y digiere muy poco de ella, así que lo que sale es en gran parte fibra vegetal cruda, exactamente lo que necesita el papel.\n\nSe lava, se hierve, se convierte en pulpa y se prensa. No hay olor en el producto terminado, y hay muy poco en el proceso tras el primer lavado, algo que la gente nunca cree hasta que está metida en ello.\n\nLos talleres compran la materia prima a los propietarios de elefantes, lo que les da a esos propietarios un ingreso que no implica hacer trabajar al animal. Esa es la parte que hace que esto sea más que una curiosidad.\n\n**Lo que haces**\n\nPrimero una sesión informativa sobre el proceso y sobre por qué alguien empezó a hacer esto.\n\nLuego el trabajo: **lavar** la fibra, **hervirla**, convertirla en **pulpa**, y luego el propio formado de la hoja, pulpa suspendida en una tina, una malla sumergida y levantada plana, el agua drenada, y la hoja húmeda depositada sobre fieltro y prensada.\n\nHaces tus propias hojas. Los tintes naturales se añaden en la etapa de la pulpa si quieres color, y pétalos u hojas pueden presionarse en la hoja mientras está húmeda.\n\nEl resultado es papel grueso, texturizado y ligeramente moteado, el tipo que se vende como papelería hecha a mano, cuadernos y tarjetas en todo Rajastán.\n\n**Te lo llevas a casa**\n\nTus hojas, una vez secas. El taller también tendrá existencias terminadas si quieres un cuaderno que alguien más haya hecho bien.\n\n**Práctico**\n\nUnas cinco horas incluyendo el guía y el taller.\n\nLleva ropa que no te importe manchar. Tendrás las manos en la pulpa y el agua durante buena parte del tiempo, y los delantales solo ayudan hasta cierto punto.\n\nTodos los materiales están incluidos. El taller es una unidad de producción en funcionamiento más que un centro de visitantes, lo cual es el atractivo.",
+  "highlights": [
+   "Descubre el fascinante proceso de fabricación de papel a partir de excremento de elefante"
+  ],
+  "included": [
+   "Introducción a la fabricación de papel con excremento de elefante",
+   "Taller guiado sobre el proceso de fabricación de papel",
+   "Actividad práctica de fabricación de papel",
+   "Discusión sobre sostenibilidad y prácticas ecológicas",
+   "Visualización de productos terminados",
+   "Tarifas del guía",
+   "Recogida y regreso"
+  ],
+  "notIncluded": [
+   "Comida, cualquier cosa no mencionada en las inclusiones, propinas"
+  ]
+ },
+ "jaipur-elephant-sanctuary-experience-with-transfer": {
+  "title": "Jaipur: Experiencia en santuario de elefantes con traslado",
+  "metaTitle": "Jaipur: santuario de elefantes con traslado",
+  "metaDescription": "Una visita privada a un santuario de elefantes a las afueras de Jaipur con alimentación, lavado y paseo, y opciones de tour por la ciudad.",
+  "shortDescription": "Una visita privada a un santuario de elefantes a las afueras de Jaipur con alimentación, lavado y paseo, y opciones de tour por la ciudad.",
+  "fullDescription": "**Tiempo con elefantes que no trabajan**\n\nLos animales de este santuario a las afueras de Jaipur vinieron de las filas de paseos, del trabajo en bodas y templos, o del negocio de la mendicidad. Ninguno de ellos se monta aquí, y no hay asiento en el recinto.\n\nLo que haces en su lugar es alimentarlos, lavarlos y caminar junto a ellos, con mahouts explicando de dónde viene cada animal.\n\n**La alimentación**\n\nCaña de azúcar, plátanos, melón, y bolas de jaggery prensadas a mano. Un elefante adulto come unos 150 kg al día, así que esto no es una oportunidad fotográfica de dos minutos, estás junto a un animal de cuatro toneladas el tiempo suficiente para relajarte.\n\nHay una sesión informativa antes: anatomía, comportamiento, cómo saber si un elefante quiere tu compañía en ese momento, y cómo funciona la trompa, unos cuarenta mil músculos y sin hueso.\n\n**La ducha**\n\nLa piel del elefante tiene dos centímetros y medio de espesor y aun así se quema con el sol, por eso se echan barro encima en estado salvaje. Frotar a uno mientras te rocía a propósito es la parte del día que la gente describe después.\n\n**El paseo**\n\nEn las opciones más largas, hacia el pueblo con la manada, que es lo más cerca que la mayoría llega de ver a un elefante simplemente siendo uno.\n\n**El pueblo**\n\nEl santuario está en **Hathi Gaon**, el pueblo de elefantes construido a las afueras de Jaipur en la década de 2000 para que los animales y sus cuidadores tuvieran árboles y agua en lugar de una calle de ciudad.\n\n**Seis opciones**\n\nSolo un guía de la ciudad de Jaipur; un tour de día completo con coche y guía; fotografía y alimentación; fotografía con alimentación en un turno más largo; ducha, alimentación y paseo; o el programa completo.\n\nLéelas antes de reservar, son de duraciones bastante distintas.\n\n**Práctico**\n\nUnas dos horas y media en el santuario, con traslados en la mayoría de las opciones.\n\nTe mojarás y ensuciarás de barro en cualquier opción que implique agua. Lleva ropa de cambio y zapatos que no te importe estropear.\n\nSin flash cerca de los animales, y quédate donde los mahouts te coloquen.",
+  "highlights": [
+   "Alimenta y disfruta de una ducha de elefante juguetona (si se elige la opción)"
+  ],
+  "included": [
+   "Recogida y regreso privados al hotel en coche con aire acondicionado",
+   "Tasas de entrada al pueblo de elefantes (Hathi Gaon) (si se selecciona la opción)",
+   "Materiales de alimentación (plátanos/caña de azúcar) (si eliges la opción)",
+   "Pinturas orgánicas y no tóxicas para decoración (si eliges la opción)",
+   "Sesión de ducha y frotado del elefante (si eliges la opción)",
+   "Paseo tradicional en elefante (si eliges la opción)",
+   "Guía/conductor profesional de habla inglesa"
+  ],
+  "notIncluded": [
+   "Propinas para los mahouts (opcional)",
+   "Gastos personales y comidas",
+   "Fotografía profesional (puede organizarse por un coste adicional)"
+  ]
+ },
+ "jaipur-elephant-village-care-conservation-experien": {
+  "title": "Jaipur: Experiencia de cuidado y conservación en el pueblo de elefantes",
+  "metaTitle": "Jaipur: pueblo de elefantes, cuidado y conservación",
+  "metaDescription": "Tres horas en el pueblo de elefantes de Jaipur aprendiendo cómo se cuida a los animales, con sus cuidadores. Sin montar.",
+  "shortDescription": "Tres horas en el pueblo de elefantes de Jaipur aprendiendo cómo se cuida a los animales, con sus cuidadores. Sin montar.",
+  "fullDescription": "**Cuidado en lugar de paseos**\n\nEsta visita está construida en torno a cómo se cuida a los elefantes, no en torno a sentarse sobre uno. Aquí no se monta.\n\nLo que haces en su lugar es pasar tres horas con los animales y las personas que trabajan con ellos cada día, lo cual resulta mucho más interesante que una foto desde un howdah.\n\n**Hathi Gaon**\n\nEl pueblo de elefantes se construyó a las afueras de Jaipur en la década de 2000 específicamente para que los animales y sus **mahouts** tuvieran árboles, agua y espacio en lugar de una calle de ciudad. Alrededor de un centenar de elefantes viven allí con las familias de sus cuidadores.\n\n**Lo que aprendes**\n\nLa rutina diaria, que consiste sobre todo en comer: un elefante adulto consume unos 150 kg de vegetación al día y bebe hasta 200 litros de agua. Alimentar a uno es más lento y más extraño de lo que esperas.\n\nComportamiento y comunicación, los elefantes usan infrasonidos por debajo de la audición humana, así es como los animales separados se mantienen en contacto a través de kilómetros. La trompa tiene unos cuarenta mil músculos y sin hueso.\n\nCuidado de pies y piel, que es el trabajo real. Los pies del elefante soportan cuatro toneladas y se dañan fácilmente; las uñas y las almohadillas se revisan y se liman constantemente. La piel tiene dos centímetros y medio de espesor y aun así se quema con el sol, por eso se echan polvo y barro encima.\n\n**Los mahouts**\n\nLa mayoría ha trabajado con el mismo animal durante años, a menudo de una familia que lleva generaciones haciendo esto. Son las personas más interesantes del recinto y responderán a cualquier cosa, cómo leen un estado de ánimo, de dónde vino un animal, cuánto tiempo llevó ganarse la confianza.\n\nPregúntales. Es la parte de la visita que la gente recuerda.\n\n**Práctico**\n\nTres horas. Puedes mojarte o ensuciarte de barro dependiendo de lo que hagan los animales, lleva ropa de cambio.\n\nSin flash, y quédate donde te coloquen los cuidadores. Son animales grandes y las reglas existen para ambas partes.",
+  "highlights": [
+   "Experimenta el pueblo de elefantes de Jaipur en una visita guiada por sus cuidadores"
+  ],
+  "included": [
+   "Recogida y regreso desde cualquier hotel, residencia o aeropuerto en Jaipur",
+   "Experiencia de aproximadamente 3 horas en el pueblo de elefantes",
+   "Sesión de alimentación de elefantes guiada por los cuidadores",
+   "Experiencia de baño de elefantes",
+   "Actividad de pintura de elefantes",
+   "Orientación y asistencia del equipo local de cuidado de elefantes",
+   "Tiempo para fotografías durante la experiencia"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Propinas y gratificaciones",
+   "Gastos personales",
+   "Cualquier actividad adicional no específicamente listada como incluida"
+  ]
+ },
+ "jaipur-ethical-elephant-care-sanctuary-experience": {
+  "title": "Jaipur: Experiencia en santuario de cuidado ético de elefantes",
+  "metaTitle": "Jaipur: santuario de cuidado ético de elefantes",
+  "metaDescription": "Tiempo con elefantes rescatados en un santuario de Jaipur, alimentación, fotografía y lavado, sin montar. Unas dos horas y media.",
+  "shortDescription": "Tiempo con elefantes rescatados en un santuario de Jaipur, alimentación, fotografía y lavado, sin montar. Unas dos horas y media.",
+  "fullDescription": "**Sin montar. Ese es todo el sentido.**\n\nA los elefantes de este santuario no se les monta y no hay howdah en el recinto. Varios vinieron de la fila de paseos del Fuerte Amber o del trabajo en bodas y templos, ambos duros para los pies y la columna de un elefante. Aquí el día consiste en alimentar, lavar, caminar y dejarlos en paz.\n\nSi quieres una foto en el lomo de un elefante, reserva otra cosa, y la razón por la que no lo ofrecemos es la columna del animal, no un documento de política.\n\n**Hathi Gaon**\n\nEl santuario está en el pueblo de elefantes construido a las afueras de Jaipur en la década de 2000, específicamente para que los animales y sus mahouts tuvieran árboles, agua y espacio en lugar de una calle de ciudad. Entrar conduciendo por él forma parte de la visita.\n\n**La alimentación**\n\nEmpiezas con comida, así es como un elefante decide si le gustas: caña de azúcar, plátanos, melón y bolas de jaggery prensadas a mano. Un adulto come unos 150 kg al día y bebe hasta 200 litros, así que esto lleva un rato, ese es el objetivo. Te quedas de pie junto a un animal de cuatro toneladas el tiempo suficiente para dejar de estar nervioso.\n\nHay una sesión informativa antes sobre anatomía y comportamiento, incluyendo cómo funciona la trompa: unos cuarenta mil músculos y sin hueso.\n\n**El lavado**\n\nLa piel del elefante tiene unos dos centímetros y medio de espesor y aun así se quema con el sol, por eso se echan barro y polvo encima en estado salvaje. Frotar a uno con un cepillo mientras te rocía deliberadamente es la parte que nadie espera disfrutar tanto como lo hace.\n\n**Los mahouts**\n\nLa mayoría ha trabajado con el mismo animal durante años y son las personas más interesantes del lugar. Pregúntales cómo leen los estados de ánimo, y cuánto tiempo llevó la confianza.\n\n**Tres opciones**\n\nUn tour de día completo por Jaipur con un guía; fotografía y alimentación en el santuario; o todas las actividades con elefantes en el pueblo con recogida en el hotel.\n\n**Práctico**\n\nUnas dos horas y media en el santuario. Te mojarás y ensuciarás de barro, lleva ropa de cambio y zapatos que no te importe.\n\nSin flash cerca de los animales.",
+  "highlights": [
+   "Interactúa con elefantes de una manera que respeta su comportamiento natural"
+  ],
+  "included": [
+   "Entrada al pueblo de elefantes (si se selecciona la opción)",
+   "Personal de habla inglesa",
+   "Traslados de ida y vuelta desde tu hotel",
+   "Sesión de fotos",
+   "Baño de elefantes y spa de barro (según la opción)"
+  ],
+  "notIncluded": [
+   "Propinas (opcional) para el conductor y el mahout.",
+   "Gastos personales o recuerdos."
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",

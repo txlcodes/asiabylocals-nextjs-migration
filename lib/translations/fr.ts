@@ -17210,6 +17210,98 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le chauffeur/guide"
   ]
  },
+ "jaipur-elephant-poo-paper-making-workshop-with-tou": {
+  "title": "Jaipur : Atelier de fabrication de papier à base de crottin d'éléphant avec guide",
+  "metaTitle": "Jaipur : atelier papier crottin d'éléphant",
+  "metaDescription": "Un atelier pratique de fabrication de papier à partir de crottin d'éléphant à Jaipur, avec un guide. Environ cinq heures.",
+  "shortDescription": "Un atelier pratique de fabrication de papier à partir de crottin d'éléphant à Jaipur, avec un guide. Environ cinq heures.",
+  "fullDescription": "**Oui, vraiment, et c'est une industrie sérieuse**\n\nLe papier à base de crottin d'éléphant est fabriqué à Jaipur et aux environs à l'échelle commerciale, et il existe pour une raison qui prend tout son sens dès qu'on l'entend. Un éléphant mange environ 150 kg de végétation par jour et en digère très peu, donc ce qui en sort est en grande partie de la fibre végétale brute, exactement ce qu'il faut pour le papier.\n\nC'est lavé, bouilli, réduit en pâte et pressé. Il n'y a aucune odeur dans le produit fini, et très peu dans le processus après le premier lavage, ce que les gens ne croient jamais avant de s'y trouver.\n\nLes ateliers achètent la matière première aux propriétaires d'éléphants, ce qui leur procure un revenu qui n'implique pas de faire travailler l'animal. C'est cette partie qui rend cela plus qu'une simple curiosité.\n\n**Ce que vous faites**\n\nUn briefing d'abord sur le processus et sur pourquoi quelqu'un a commencé à faire cela.\n\nPuis le travail : **laver** la fibre, la **faire bouillir**, la **réduire en pâte**, puis le formage des feuilles lui-même, la pâte en suspension dans une cuve, un tamis en maille plongé puis soulevé à plat, l'eau égouttée, et la feuille humide déposée sur du feutre et pressée.\n\nVous fabriquez vos propres feuilles. Des colorants naturels sont ajoutés à l'étape de la pâte si vous voulez de la couleur, et des pétales ou des feuilles peuvent être incrustés dans la feuille tant qu'elle est humide.\n\nLe résultat est un papier épais, texturé, légèrement moucheté, le genre vendu comme papeterie artisanale, carnets et cartes à travers le Rajasthan.\n\n**Vous le rapportez chez vous**\n\nVos feuilles, une fois sèches. L'atelier aura aussi du stock fini si vous voulez un carnet fabriqué correctement par quelqu'un d'autre.\n\n**Pratique**\n\nEnviron cinq heures incluant le guide et l'atelier.\n\nPortez des vêtements que vous ne craignez pas de salir. Vous aurez les mains dans la pâte et l'eau une bonne partie du temps, et les tabliers n'y font pas grand-chose.\n\nTout le matériel est inclus. L'atelier est une unité de production plutôt qu'un centre de visite, ce qui en fait l'attrait.",
+  "highlights": [
+   "Découvrez le processus fascinant de fabrication du papier à partir de crottin d'éléphant"
+  ],
+  "included": [
+   "Introduction à la fabrication de papier à base de crottin d'éléphant",
+   "Atelier guidé sur le processus de fabrication du papier",
+   "Activité pratique de fabrication de papier",
+   "Discussion sur la durabilité et les pratiques écologiques",
+   "Visionnage des produits finis",
+   "Frais de guide",
+   "Prise en charge et retour"
+  ],
+  "notIncluded": [
+   "Nourriture, tout ce qui n'est pas mentionné dans les inclusions, pourboires"
+  ]
+ },
+ "jaipur-elephant-sanctuary-experience-with-transfer": {
+  "title": "Jaipur : Expérience du sanctuaire d'éléphants avec transfert",
+  "metaTitle": "Jaipur : sanctuaire d'éléphants avec transfert",
+  "metaDescription": "Une visite privée d'un sanctuaire d'éléphants en dehors de Jaipur avec nourrissage, lavage et marche, et options de visite de la ville.",
+  "shortDescription": "Une visite privée d'un sanctuaire d'éléphants en dehors de Jaipur avec nourrissage, lavage et marche, et options de visite de la ville.",
+  "fullDescription": "**Du temps avec des éléphants qui ne travaillent pas**\n\nLes animaux de ce sanctuaire en dehors de Jaipur viennent des files de monte, du travail de mariages et de temples, ou du commerce de la mendicité. Aucun n'est monté ici, et il n'y a pas de siège sur le site.\n\nCe que vous faites plutôt, c'est les nourrir, les laver et marcher à leurs côtés, avec des cornacs expliquant d'où vient chaque animal.\n\n**Le nourrissage**\n\nCanne à sucre, bananes, melon, et boules de jaggery pressées à la main. Un éléphant adulte mange environ 150 kg par jour, donc ce n'est pas une occasion photo de deux minutes, vous êtes près d'un animal de quatre tonnes assez longtemps pour vous y détendre.\n\nIl y a un briefing d'abord : anatomie, comportement, comment savoir si un éléphant veut votre compagnie à ce moment-là, et comment fonctionne la trompe, environ quarante mille muscles et pas d'os.\n\n**La douche**\n\nLa peau de l'éléphant fait deux centimètres et demi d'épaisseur et prend quand même des coups de soleil, c'est pourquoi ils se jettent de la boue à l'état sauvage. Frotter l'un d'eux pendant qu'il vous asperge délibérément est la partie de la journée dont les gens parlent après.\n\n**La marche**\n\nSur les options plus longues, dans le village avec le troupeau, ce qui est ce qui se rapproche le plus pour la plupart des gens de voir un éléphant simplement être lui-même.\n\n**Le village**\n\nLe sanctuaire se trouve à **Hathi Gaon**, le village des éléphants construit en dehors de Jaipur dans les années 2000 pour que les animaux et leurs gardiens aient des arbres et de l'eau plutôt qu'une ruelle urbaine.\n\n**Six options**\n\nUn guide de la ville de Jaipur seul ; une visite de la ville sur une journée complète avec voiture et guide ; photographie et nourrissage ; photographie avec nourrissage sur un créneau plus long ; douche, nourrissage et marche ; ou le programme complet.\n\nLisez-les avant de réserver, elles sont de durées assez différentes.\n\n**Pratique**\n\nEnviron deux heures et demie au sanctuaire, avec transferts sur la plupart des options.\n\nVous serez mouillé et boueux sur toute option impliquant de l'eau. Apportez un change de vêtements et des chaussures que vous ne craignez pas d'abîmer.\n\nPas de flash près des animaux, et restez où les cornacs vous placent.",
+  "highlights": [
+   "Nourrissez et profitez d'une douche d'éléphant joueuse (si option choisie)"
+  ],
+  "included": [
+   "Prise en charge et retour privés à l'hôtel en voiture climatisée",
+   "Frais d'entrée au village des éléphants (Hathi Gaon) (si option sélectionnée)",
+   "Matériel de nourrissage (bananes/canne à sucre) (si option choisie)",
+   "Peintures biologiques et non toxiques pour la décoration (si option choisie)",
+   "Session de douche et de brossage de l'éléphant (si option choisie)",
+   "Promenade traditionnelle à dos d'éléphant (si option choisie)",
+   "Guide/chauffeur professionnel parlant anglais"
+  ],
+  "notIncluded": [
+   "Pourboires pour les cornacs (facultatif)",
+   "Dépenses personnelles et repas",
+   "Photographie professionnelle (peut être organisée pour un supplément)"
+  ]
+ },
+ "jaipur-elephant-village-care-conservation-experien": {
+  "title": "Jaipur : Expérience de soin et conservation au village des éléphants",
+  "metaTitle": "Jaipur : village des éléphants, soin et conservation",
+  "metaDescription": "Trois heures au village des éléphants de Jaipur pour apprendre comment les animaux sont soignés, avec leurs gardiens. Sans monte.",
+  "shortDescription": "Trois heures au village des éléphants de Jaipur pour apprendre comment les animaux sont soignés, avec leurs gardiens. Sans monte.",
+  "fullDescription": "**Le soin plutôt que la monte**\n\nCette visite est construite autour de la manière dont les éléphants sont soignés, pas autour du fait de monter sur l'un d'eux. Il n'y a pas de monte ici.\n\nCe que vous faites plutôt, c'est passer trois heures avec les animaux et les personnes qui travaillent avec eux chaque jour, ce qui s'avère bien plus intéressant qu'une photo depuis un howdah.\n\n**Hathi Gaon**\n\nLe village des éléphants a été construit en dehors de Jaipur dans les années 2000 spécifiquement pour que les animaux et leurs **cornacs** aient des arbres, de l'eau et de l'espace plutôt qu'une ruelle urbaine. Environ une centaine d'éléphants y vivent avec les familles de leurs gardiens.\n\n**Ce que vous apprenez**\n\nLa routine quotidienne, qui est principalement manger : un éléphant adulte consomme environ 150 kg de végétation par jour et boit jusqu'à 200 litres d'eau. Nourrir l'un d'eux est plus lent et plus étrange que prévu.\n\nComportement et communication, les éléphants utilisent des infrasons sous l'audition humaine, ce qui permet aux animaux séparés de rester en contact sur des kilomètres. La trompe a environ quarante mille muscles et pas d'os.\n\nSoin des pieds et de la peau, qui est le vrai travail. Les pieds de l'éléphant portent quatre tonnes et se dégradent facilement ; ongles et coussinets sont vérifiés et limés constamment. La peau fait deux centimètres et demi d'épaisseur et prend quand même des coups de soleil, c'est pourquoi ils se jettent de la poussière et de la boue.\n\n**Les cornacs**\n\nLa plupart ont travaillé avec le même animal pendant des années, souvent issus d'une famille qui fait cela depuis des générations. Ce sont les personnes les plus intéressantes du site et ils répondront à tout, comment ils lisent une humeur, d'où vient un animal, combien de temps la confiance a pris.\n\nDemandez-leur. C'est la partie de la visite dont les gens se souviennent.\n\n**Pratique**\n\nTrois heures. Vous pourriez être mouillé ou boueux selon ce que font les animaux, apportez un change de vêtements.\n\nPas de flash, et restez où les gardiens vous placent. Ce sont de grands animaux et les règles existent pour les deux parties.",
+  "highlights": [
+   "Découvrez le village des éléphants de Jaipur lors d'une visite guidée par les gardiens"
+  ],
+  "included": [
+   "Prise en charge et retour depuis tout hôtel, résidence ou aéroport à Jaipur",
+   "Expérience d'environ 3 heures au village des éléphants",
+   "Session de nourrissage des éléphants guidée par les gardiens",
+   "Expérience de baignade des éléphants",
+   "Activité de peinture d'éléphants",
+   "Conseils et assistance de l'équipe locale de soin aux éléphants",
+   "Temps pour les photos pendant l'expérience"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Pourboires et gratifications",
+   "Dépenses personnelles",
+   "Toute activité supplémentaire non spécifiquement listée comme incluse"
+  ]
+ },
+ "jaipur-ethical-elephant-care-sanctuary-experience": {
+  "title": "Jaipur : Expérience du sanctuaire de soin éthique aux éléphants",
+  "metaTitle": "Jaipur : sanctuaire de soin éthique aux éléphants",
+  "metaDescription": "Du temps avec des éléphants secourus dans un sanctuaire de Jaipur, nourrissage, photographie et lavage, sans monte. Environ deux heures et demie.",
+  "shortDescription": "Du temps avec des éléphants secourus dans un sanctuaire de Jaipur, nourrissage, photographie et lavage, sans monte. Environ deux heures et demie.",
+  "fullDescription": "**Pas de monte. C'est tout le propos.**\n\nLes éléphants de ce sanctuaire ne sont pas montés et il n'y a pas de howdah sur le site. Plusieurs viennent de la file de monte du Fort d'Amber ou du travail de mariages et de temples, tous deux éprouvants pour les pieds et la colonne vertébrale d'un éléphant. Ici, la journée consiste à nourrir, laver, marcher et les laisser tranquilles.\n\nSi vous voulez une photo sur le dos d'un éléphant, réservez autre chose, et la raison pour laquelle nous ne le proposons pas est la colonne vertébrale de l'animal, pas un document de politique.\n\n**Hathi Gaon**\n\nLe sanctuaire se trouve dans le village des éléphants construit en dehors de Jaipur dans les années 2000, spécifiquement pour que les animaux et leurs cornacs aient des arbres, de l'eau et de l'espace plutôt qu'une ruelle urbaine. Y entrer en voiture fait partie de la visite.\n\n**Le nourrissage**\n\nVous commencez avec la nourriture, c'est ainsi qu'un éléphant décide s'il vous aime : canne à sucre, bananes, melon et boules de jaggery pressées à la main. Un adulte mange environ 150 kg par jour et boit jusqu'à 200 litres, donc cela prend du temps, c'est le but. Vous êtes debout près d'un animal de quatre tonnes assez longtemps pour arrêter d'être nerveux.\n\nIl y a un briefing d'abord sur l'anatomie et le comportement, y compris comment fonctionne la trompe : environ quarante mille muscles et pas d'os.\n\n**Le lavage**\n\nLa peau de l'éléphant fait environ deux centimètres et demi d'épaisseur et prend quand même des coups de soleil, c'est pourquoi ils se jettent de la boue et de la poussière à l'état sauvage. Frotter l'un d'eux avec une brosse pendant qu'il vous asperge délibérément est la partie que personne ne s'attend à apprécier autant qu'on le fait.\n\n**Les cornacs**\n\nLa plupart ont travaillé avec le même animal pendant des années et sont les personnes les plus intéressantes sur place. Demandez-leur comment ils lisent les humeurs, et combien de temps la confiance a pris.\n\n**Trois options**\n\nUne visite d'une journée complète de Jaipur avec un guide ; photographie et nourrissage au sanctuaire ; ou toutes les activités avec les éléphants au village avec prise en charge à l'hôtel.\n\n**Pratique**\n\nEnviron deux heures et demie au sanctuaire. Vous serez mouillé et boueux, apportez un change de vêtements et des chaussures que vous ne craignez pas.\n\nPas de flash autour des animaux.",
+  "highlights": [
+   "Interagissez avec les éléphants d'une manière qui respecte leur comportement naturel"
+  ],
+  "included": [
+   "Admission au village des éléphants (si option sélectionnée)",
+   "Personnel parlant anglais",
+   "Transferts aller-retour depuis votre hôtel",
+   "Séance photo",
+   "Baignade des éléphants et spa de boue (selon l'option)"
+  ],
+  "notIncluded": [
+   "Pourboires (facultatif) pour le chauffeur et le cornac.",
+   "Dépenses personnelles ou souvenirs."
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
