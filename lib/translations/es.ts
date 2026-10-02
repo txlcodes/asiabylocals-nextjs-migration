@@ -16284,6 +16284,106 @@ export const ES_TOURS: Record<string, TourT> = {
    "2) Propinas y gratificaciones para el guía y el conductor (opcionales)"
   ]
  },
+ "from-delhi-jaipur-private-guided-day-tour": {
+  "title": "Desde Delhi: visita privada guiada de un día a Jaipur",
+  "metaTitle": "Jaipur en un día, visita privada guiada",
+  "metaDescription": "Un día privado guiado en Jaipur desde Delhi en coche con aire acondicionado, con opciones de monumentos y almuerzo.",
+  "shortDescription": "Un día privado guiado en Jaipur desde Delhi en coche con aire acondicionado, con opciones de monumentos y almuerzo.",
+  "fullDescription": "**Salida temprana, y el trayecto dura de cuatro a cinco horas**\n\nRecogida en su hotel o aeropuerto en Delhi, Noida o Gurgaon, luego la NH-48 hacia el sur con una pausa a mitad de camino. La salida temprana no es decoración: salga a las seis y la carretera está vacía, salga a las ocho y Gurugram le cuesta una hora.\n\n**Fuerte de Amber**\n\nSu guía le espera aquí. Iniciado en 1592 por Raja Man Singh, general de Akbar, razón por la que un fuerte rajput lleva incrustaciones mogolas y planificación de jardín persa.\n\nLos patios ascienden por la cresta sobre el **lago Maota**. La puerta **Ganesh Pol** es yeso pintado sobre piedra, con una galería enrejada encima desde la que las mujeres de la corte observaban las llegadas sin ser vistas. El **Sheesh Mahal** detrás está decorado con miles de fragmentos de espejo convexo, de forma que una vela se leía como un techo lleno de estrellas.\n\nEl **Sukh Niwas**, al otro lado del patio, se enfriaba con agua que corría por canales tallados en el mármol, cuatrocientos años antes de que existiera otra manera de hacerlo.\n\n**Jal Mahal**\n\nUna parada fotográfica en la calzada. Cuatro de los cinco pisos bajo el agua; sin barca, sin entrada.\n\n**City Palace**\n\nArquitectura mogol y rajput a través de una serie de patios, en parte todavía residencia de la antigua familia real, la bandera sobre el Chandra Mahal indica si están presentes.\n\n**Jantar Mantar**\n\nDiecinueve instrumentos de mampostería, declarado por la UNESCO, construidos por un gobernante que era astrónomo antes que cualquier otra cosa. El **Samrat Yantra** de 27 metros todavía es preciso a pocos segundos, y su guía puede mostrarle cómo leerlo.\n\n**Hawa Mahal**\n\nLa fachada de cinco pisos con 953 ventanas, mejor fotografiada desde la calle de enfrente.\n\n**Tres opciones**\n\nCoche privado con aire acondicionado, conductor y guía; lo mismo con entradas a monumentos; o con entradas y una comida.\n\n**Práctico**\n\nDoce horas de puerta a puerta. Las tarifas de entrada son de unos 1.500 ₹ por persona para un adulto extranjero si su opción no las cubre.",
+  "highlights": [
+   "Viva una visita privada de día completo a Jaipur con un guía local conocedor"
+  ],
+  "included": [
+   "Transporte en coche privado con aire acondicionado",
+   "Recogida y traslado al hotel/aeropuerto",
+   "Tarifas de entrada a los monumentos (si se elige la opción)",
+   "Almuerzo bufé en un restaurante de cocina variada (si se elige la opción)",
+   "Guía turístico en vivo",
+   "Agua embotellada de cortesía",
+   "Todos los impuestos"
+  ],
+  "notIncluded": [
+   "Propinas y gratificaciones"
+  ]
+ },
+ "from-delhi-jaipur-private-sightseeing-shopping-tou": {
+  "title": "Desde Delhi: visita privada y compras en Jaipur",
+  "metaTitle": "Jaipur: visita y compras privadas",
+  "metaDescription": "Jaipur en un día desde Delhi con un guía privado, cubriendo el fuerte de Amber, la ciudad vieja y los bazares.",
+  "shortDescription": "Jaipur en un día desde Delhi con un guía privado, cubriendo el fuerte de Amber, la ciudad vieja y los bazares.",
+  "fullDescription": "**Visitas y compras, en un largo día desde Delhi**\n\nDelhi a Jaipur son unos 280 km y de cinco a seis horas por sentido, con paradas para refrescarse. Recogida temprana, coche privado, y un guía de habla inglesa que se une a usted a la llegada.\n\nLa diferencia entre esto y la excursión estándar de un día es que los bazares son parte del plan en lugar de una idea de último momento, lo cual importa, porque Jaipur es una de las mejores ciudades para comprar de la India y la mayoría de las excursiones de un día llegan a las cuatro de la tarde sin tiempo restante.\n\n**Fuerte de Amber**\n\nEl complejo palaciego en la cima de la colina sobre el lago Maota, iniciado en 1592. Las imponentes puertas, los patios que ascienden por la cresta, el **Ganesh Pol** pintado, y el **Sheesh Mahal**, donde fragmentos de espejo en el techo convertían una sola vela en un cielo de estrellas.\n\n**Jal Mahal**\n\nDesde la calzada. Cuatro de cinco pisos bajo el agua, sin entrada.\n\n**City Palace y Jantar Mantar**\n\nEl palacio, en parte todavía residencia real, y el observatorio justo al lado, donde un reloj de sol de piedra de 27 metros todavía es preciso a unos dos segundos.\n\n**Hawa Mahal**\n\nLa fachada de 953 ventanas, mejor vista desde la calle de enfrente.\n\n**Los bazares**\n\nDonde el día se gana su duración. **Johari Bazaar** para gemas y oro, el kundan y el meenakari son las dos técnicas por las que Jaipur es conocida. **Bapu Bazaar** para telas estampadas con bloques, tie-dye y zapatillas mojari. **Tripolia** para pulseras de laca, hechas sobre una llama ante usted.\n\nEl trabajo de su guía aquí es ser su aliado en el precio: qué es hecho a mano, qué es hecho a máquina y vendido como artesanal, y cuál es la tarifa local. Dígale claramente que quiere que le lleven donde compran los locales.\n\n**Práctico**\n\nUn día largo, cuente con catorce a quince horas de puerta a puerta, de las cuales diez son de carretera.\n\nLas tarifas de entrada se pagan en cada sitio, unos 1.500 ₹ por persona para un adulto extranjero. Lo que compre es suyo; nada está incluido.\n\nLleve efectivo para los pequeños talleres.",
+  "highlights": [
+   "Explore el fuerte de Amber y el City Palace en una visita privada desde Delhi"
+  ],
+  "included": [
+   "Vehículo privado con aire acondicionado para traslados y visitas",
+   "Recogida y traslado al hotel en Delhi",
+   "Guía privado profesional de habla inglesa",
+   "Tarifas de entrada para las visitas mencionadas en el itinerario",
+   "Agua potable embotellada en el vehículo",
+   "Tasas de aparcamiento, peajes, combustible y dietas del conductor",
+   "Impuestos gubernamentales aplicables y GST"
+  ],
+  "notIncluded": [
+   "Almuerzo y bebidas no mencionados específicamente",
+   "Billetes de avión o tren",
+   "Seguro de viaje",
+   "Actividades o servicios opcionales no incluidos específicamente",
+   "Propinas opcionales",
+   "Tarifas de cámara o video en los monumentos, cuando corresponda",
+   "Gastos personales y compras",
+   "Visitas o servicios adicionales no listados",
+   "Cualquier cosa no mencionada específicamente en las inclusiones"
+  ]
+ },
+ "from-delhi-jaipur-private-tour-with-guide-hotel-tr": {
+  "title": "Desde Delhi: visita privada de Jaipur con guía y traslados al hotel",
+  "metaTitle": "Jaipur privado con guía y traslados",
+  "metaDescription": "Un día privado en Jaipur desde Delhi con traslados al hotel, un guía local con licencia, y opciones de entradas y almuerzo.",
+  "shortDescription": "Un día privado en Jaipur desde Delhi con traslados al hotel, un guía local con licencia, y opciones de entradas y almuerzo.",
+  "fullDescription": "**Puerta a puerta, en ambos extremos**\n\nLa recogida es en su hotel o el aeropuerto en Delhi, Gurgaon o Noida, y el traslado de vuelta es al mismo lugar. Sin punto de encuentro, sin autocar, sin esperar a otros pasajeros, lo cual en un día tan largo vale más de lo que parece.\n\n**El trayecto**\n\nCoche privado con aire acondicionado por la NH-48, unas cuatro horas con una pausa.\n\n**En Jaipur**\n\nUn guía local con licencia se une a usted en la primera parada. Esto importa: un conductor de Delhi puede llevarle hasta la rampa del fuerte de Amber pero no puede explicarle para qué era la sala de espejos.\n\nEl **fuerte de Amber** en su cresta sobre el lago Maota, iniciado en 1592, la puerta **Ganesh Pol**, el **Sheesh Mahal** con su techo de espejos, y el patio del zenana dispuesto de forma que doce apartamentos de reinas existían sin que ninguno diera a otro.\n\nEl **Jal Mahal** desde la carretera del lago; fotografíelo y continúe, no hay entrada.\n\nEl **City Palace**, arquitectura mogol y rajput a través de una serie de patios, en parte todavía habitado por la antigua familia real.\n\nEl **Jantar Mantar**, declarado por la UNESCO, diecinueve instrumentos de mampostería, incluido el reloj de sol de piedra más grande del mundo.\n\nEl **Hawa Mahal**, la estructura alveolada de cinco pisos con 953 ventanas, construida como celosía para el zenana en lugar de como palacio, y en algunos puntos de apenas un metro de profundidad.\n\n**Cuatro opciones**\n\nSolo guía en Jaipur, si llega por su cuenta. Coche, conductor y guía. Lo mismo con entradas. O todo, incluido el almuerzo.\n\nLas versiones con entradas incluidas valen la aritmética: el fuerte de Amber, el City Palace y el Jantar Mantar juntos cuestan unos 1.500 ₹ por adulto extranjero.\n\n**Práctico**\n\nEs un día largo, cuente con catorce horas de puerta a puerta, de las cuales ocho son visitas y el resto carretera. Si eso le parece demasiado, una pernoctación en Jaipur es un viaje realmente mejor.",
+  "highlights": [
+   "Recogida en hotel o residencia en Delhi en coche privado con aire acondicionado"
+  ],
+  "included": [
+   "Recogida y traslado al hotel o aeropuerto",
+   "Ida y vuelta de Nueva Delhi a Jaipur y de vuelta en coche privado con aire acondicionado",
+   "Guía en vivo autorizado por el gobierno",
+   "Entradas a los monumentos (si se elige la opción)",
+   "Almuerzo en restaurante (si se elige la opción)",
+   "Botella de agua mineral",
+   "Todos los peajes, combustible, impuestos y aparcamiento"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Cualquier gasto personal"
+  ]
+ },
+ "from-delhi-jaipur-same-day-tour-by-train-or": {
+  "title": "Desde Delhi: visita de Jaipur el mismo día en tren o coche privado",
+  "metaTitle": "Jaipur en un día, tren o coche",
+  "metaDescription": "Jaipur en un día desde Delhi, en tren o en coche privado, con opciones de primera y segunda clase y un guía.",
+  "shortDescription": "Jaipur en un día desde Delhi, en tren o en coche privado, con opciones de primera y segunda clase y un guía.",
+  "fullDescription": "**Seis opciones, y la elección real es tren o carretera**\n\n**En tren**: recogida a las 5 de la madrugada, dejado en la estación de New Delhi, y el expreso a Jaipur. Sin tráfico, sin peajes, y llega en condiciones de caminar en lugar de tener que desentumecerse. Al volver por la tarde, el tren también evita el avance lento hacia Delhi que estropea la versión por carretera.\n\n**En coche**: 270 km en cada dirección por la NH-48, cuatro a cinco horas con una pausa. Más flexible, el coche es suyo todo el día y puede parar donde quiera, y la opción correcta si quiere los bazares al final sin vigilar una hora de salida.\n\nLa primera clase en el tren tiene un asiento más amplio y un vagón más silencioso; en un trayecto de cuatro horas, vale la diferencia si pretende dormir.\n\n**En Jaipur**\n\nUn coche privado y un guía con licencia para el día, sea cual sea su forma de llegada.\n\nEl **fuerte de Amber**, el complejo en la cima de la colina sobre el lago Maota, iniciado en 1592, la puerta **Ganesh Pol**, el **Sheesh Mahal** con su techo de fragmentos de espejo, y el **Sukh Niwas**, enfriado por agua que corría en las paredes.\n\nEl **Jal Mahal** desde la calzada, cuatro de cinco pisos bajo el agua.\n\nEl **City Palace**, en parte todavía residencia real, con el arsenal y las dos urnas de plata fundidas para llevar agua del Ganges a Inglaterra.\n\nEl **Jantar Mantar**, diecinueve instrumentos astronómicos de mampostería de la década de 1730, declarado por la UNESCO, con un reloj de sol todavía preciso a unos dos segundos.\n\nEl **Hawa Mahal**, la fachada de 953 ventanas, desde la calle de enfrente.\n\n**Seis opciones**\n\nCoche con guía; coche con guía y entradas; tren de segunda o primera clase con coche y conductor; o segunda o primera clase con coche, guía y entradas.\n\n**Práctico**\n\nLos asientos del tren son limitados y se liberan según un calendario fijo, reserve con antelación, y lleve el pasaporte con el que reservó.\n\nLas tarifas de entrada son de unos 1.500 ₹ por persona para un adulto extranjero cuando no están incluidas.",
+  "highlights": [
+   "Descubra la serena belleza de la Ciudad Rosa de Jaipur con su magnífica arquitectura"
+  ],
+  "included": [
+   "Recogida y traslado al hotel, traslado en coche con aire acondicionado",
+   "Coche privado con aire acondicionado para las visitas en Jaipur",
+   "Billetes de tren de ida y vuelta en coche-silla con aire acondicionado (si se elige la opción)",
+   "Coche privado con aire acondicionado para el traslado de Delhi a Jaipur y de vuelta (si se elige la opción)",
+   "Guía profesional y conocedor en las visitas de Jaipur",
+   "Combustible, peajes, impuestos de carretera estatales y tasas de aparcamiento",
+   "Botellas de agua mineral de cortesía"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a los monumentos/tarifas de cámara",
+   "Comida, bebidas y gastos personales",
+   "Otras actividades",
+   "Propinas para el conductor y el guía"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
