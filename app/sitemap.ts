@@ -67,6 +67,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'india-gate', 'things-to-do-in-delhi', 'delhi-1-day-itinerary',
     'places-to-visit-in-delhi', 'best-time-to-visit-delhi', 'delhi-shopping-guide',
     '2-day-delhi-itinerary', 'lotus-temple', 'akshardham-temple',
+    'delhi-tours',
   ].map(slug => ({
     url: `${BASE_URL}/india/delhi/${slug}`,
     lastModified: new Date(),
@@ -82,6 +83,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'jantar-mantar-jaipur', 'jal-mahal', 'jaipur-shopping-guide',
     'best-time-to-visit-jaipur', '2-day-jaipur-itinerary',
     'delhi-to-jaipur', 'agra-to-jaipur',
+    'jaipur-local-private-day-tour',
   ].map(slug => ({
     url: `${BASE_URL}/india/jaipur/${slug}`,
     lastModified: new Date(),

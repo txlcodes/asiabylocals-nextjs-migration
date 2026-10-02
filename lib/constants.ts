@@ -101,7 +101,10 @@ export const DELHI_INFO_SLUGS = [
   // 2026-09: Delhi had 7 pages against Agra's 14 and Jaipur's 13, and was
   // missing the ones both of them already had.
   'places-to-visit-in-delhi', 'best-time-to-visit-delhi', 'delhi-shopping-guide',
-  '2-day-delhi-itinerary', 'lotus-temple', 'akshardham-temple'
+  '2-day-delhi-itinerary', 'lotus-temple', 'akshardham-temple',
+  // 2026-10: "delhi tours" / "delhi guided tour" / "new delhi tours" sat at
+  // position 23-29 combined, a generic commercial query nothing caught.
+  'delhi-tours'
 ];
 
 export const JAIPUR_INFO_SLUGS = [
@@ -112,7 +115,10 @@ export const JAIPUR_INFO_SLUGS = [
   'best-time-to-visit-jaipur', '2-day-jaipur-itinerary',
   // The other two legs of the triangle. delhi-to-agra existed; these did not,
   // so anyone planning the loop fell off the site halfway round.
-  'delhi-to-jaipur', 'agra-to-jaipur'
+  'delhi-to-jaipur', 'agra-to-jaipur',
+  // 2026-10: "jaipur local private day tour" drew 239 impressions at position 12
+  // with nothing answering it.
+  'jaipur-local-private-day-tour'
 ];
 
 export const PHUKET_INFO_SLUGS = [
