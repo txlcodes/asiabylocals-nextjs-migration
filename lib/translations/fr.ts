@@ -17302,6 +17302,100 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles ou souvenirs."
   ]
  },
+ "jaipur-evening-guided-city-tour-by-open-jeep": {
+  "title": "Jaipur : Visite guidée de la ville en soirée en jeep ouverte",
+  "metaTitle": "Jaipur : visite du soir en jeep ouverte",
+  "metaDescription": "Une visite en soirée en jeep ouverte d'un Jaipur illuminé avec un guide, avec option dîner et billets.",
+  "shortDescription": "Une visite en soirée en jeep ouverte d'un Jaipur illuminé avec un guide, avec option dîner et billets.",
+  "fullDescription": "**Jaipur après la nuit tombée, depuis une jeep ouverte**\n\nLa ville est véritablement belle la nuit et presque personne ne la visite alors. Les monuments sont illuminés, les bazars fonctionnent jusqu'à dix heures, la température descend à quelque chose d'agréable, et une jeep ouverte est le véhicule idéal pour tout cela.\n\nEn mai et juin, c'est le seul moment raisonnable pour sortir.\n\n**Ce que vous voyez**\n\n**Hawa Mahal** illuminé de face, ce qui fait ressortir les 953 fenêtres d'une manière que la lumière du jour aplatit.\n\nLes murs du **City Palace** et le **musée Albert Hall**, illuminés et entourés d'un nombre improbable de pigeons, le musée la nuit est l'un des bâtiments les plus photographiés de la ville et c'est gratuit à regarder.\n\nLes **bazars de la vieille ville** en pleine activité : boutiques de douceurs, ruelles de bracelets, stands de chai, et les foules de la saison des mariages de novembre à février quand la moitié du Rajasthan semble se marier.\n\n**Porte Patrika** à Jawahar Circle si l'itinéraire l'inclut, une porte peinte à neuf arches, chaque surface couverte, et une favorite de tous les photographes de la ville.\n\nEt un point de vue sur la crête où toute la grille de la ville fortifiée s'étend en dessous avec les lampadaires allumés.\n\n**Ce que vous ne voyez pas**\n\nLes intérieurs des monuments. Ils ferment au coucher du soleil, et c'est une visite de la ville plutôt que de ses pièces, bon à savoir avant de réserver.\n\n**Deux options**\n\nLa visite du soir en jeep ouverte avec un guide ; ou une version avec voiture, guide, billets des monuments et dîner inclus.\n\n**Pratique**\n\nEnviron une heure de trajet sur l'option la plus courte, plus long avec le dîner.\n\nLa jeep est ouverte, et de novembre à février les soirées à Jaipur sont assez froides pour nécessiter une veste. Prenez-en une.\n\nPrise en charge et retour à l'hôtel inclus.",
+  "highlights": [
+   "Explorez Jaipur en jeep ouverte après le coucher du soleil"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Jaipur",
+   "Transport en jeep ouverte pendant la visite",
+   "Guide local professionnel",
+   "Visite guidée du soir",
+   "Arrêts photo à certains endroits",
+   "Eau en bouteille",
+   "Toutes taxes et frais de service applicables"
+  ],
+  "notIncluded": [
+   "Frais d'entrée aux monuments ou attractions, sauf indication contraire",
+   "Nourriture et boissons",
+   "Dépenses personnelles",
+   "Achats de shopping",
+   "Pourboires et gratifications",
+   "Tout service non spécifiquement mentionné dans les inclusions"
+  ]
+ },
+ "jaipur-evening-tour-chokhi-dhani-village-culture-w": {
+  "title": "Jaipur : Visite du soir, culture du village Chokhi Dhani avec dîner",
+  "metaTitle": "Jaipur : soir au village Chokhi Dhani avec dîner",
+  "metaDescription": "Une soirée au village patrimonial Chokhi Dhani près de Jaipur avec dîner et transferts en voiture.",
+  "shortDescription": "Une soirée au village patrimonial Chokhi Dhani près de Jaipur avec dîner et transferts en voiture.",
+  "fullDescription": "**Un village reconstitué, et il fonctionne mieux qu'il ne devrait**\n\nChokhi Dhani est un village rajasthani construit de zéro sur vingt acres à une heure au sud de Jaipur, ouvert en 1990. C'est entièrement une construction, et c'est aussi le seul moyen pratique de voir les traditions de spectacle populaire de l'État en une soirée plutôt qu'au cours de quinze jours de voyage.\n\nLes familles indiennes viennent ici en très grand nombre, ce qui explique en partie pourquoi cela ne ressemble pas à un spectacle monté pour les étrangers.\n\n**En se promenant**\n\nHuttes traditionnelles, démonstrations d'artisanat, et artistes dispersés sur tout le site plutôt que sur une scène unique. Rien n'est programmé pour vous, vous flânez et des choses se produisent.\n\n**Kalbeliya**, dansé par la communauté des charmeurs de serpents, tout en épaules et colonne vertébrale, reconnu par l'UNESCO comme patrimoine culturel immatériel. **Ghoomar**, la danse en cercle des femmes rajpoutes avec les jupes qui s'évasent au tournant. **Bhopa-Bhopi**, chanteurs narratifs mari et femme interprétant des épopées devant un rouleau peint.\n\nPlus des spectacles de marionnettes, acrobates, magiciens et artistes du feu à mesure que la soirée avance.\n\n**Les autres choses**\n\nPromenades à dos de chameau, de cheval et en charrette à bœufs. Des artistes de mehendi qui peindront vos mains en dix minutes, insistez sur le henné naturel brun et refusez tout ce qui est vendu comme « henné noir », qui contient de la PPD et brûle la peau.\n\nPotiers, chiromanciens, tir à l'arc, et un lac de bateaux.\n\n**Dîner**\n\nUn thali rajasthani complet servi traditionnellement : vous êtes assis sur un tapis, mangez dans une assiette en laiton, et les serveurs continuent de remplir jusqu'à ce que vous les arrêtiez. **Dal baati churma**, **gatte ki sabzi**, **ker sangri**, roti au bajra avec ghee, babeurre, et gur pour finir.\n\nEntièrement végétarien, et illimité.\n\n**Pratique**\n\nEnviron cinq heures incluant l'heure de trajet dans chaque sens.\n\nPlus fréquenté les week-ends et pendant la saison des mariages d'hiver, où c'est vraiment très animé.\n\nLe sol est de sable et de pierre et vous marcherez plus que prévu. Chaussures confortables.",
+  "highlights": [
+   "Profitez d'une visite privée avec prise en charge et retour à l'hôtel."
+  ],
+  "included": [
+   "Service de prise en charge et de retour depuis l'hôtel, l'aéroport ou la gare.",
+   "Un véhicule climatisé privé avec chauffeur pour les visites.",
+   "Carburant, frais de stationnement, péages et taxes interétatiques.",
+   "Eau en bouteille pour les clients.",
+   "Dîner végétarien/non végétarien (facultatif) en 3 plats",
+   "Entrée à Chokhi Dhani",
+   "Toutes taxes gouvernementales, y compris la taxe sur les produits et services (TPS)."
+  ],
+  "notIncluded": [
+   "Pourboires pour le chauffeur et le guide, non inclus dans le forfait et pouvant être recommandés.",
+   "Boissons alcoolisées.",
+   "Articles autres que le dîner."
+  ]
+ },
+ "jaipur-explore-royal-sites-and-historic-science-pi": {
+  "title": "Jaipur : Explorez les sites royaux et la science historique + prise en charge",
+  "metaTitle": "Jaipur : sites royaux et science historique",
+  "metaDescription": "Une journée complète des sites royaux de Jaipur et de son observatoire du 18e siècle, avec prise en charge à l'hôtel. Huit heures.",
+  "shortDescription": "Une journée complète des sites royaux de Jaipur et de son observatoire du 18e siècle, avec prise en charge à l'hôtel. Huit heures.",
+  "fullDescription": "**Des bâtiments royaux et l'un des sites scientifiques les plus étranges au monde**\n\nLa journée associe les forts et palais avec le **Jantar Mantar**, la partie que la plupart des visites bâclent et qui est véritablement extraordinaire une fois que quelqu'un l'explique.\n\n**Panna Meena ka Kund**\n\nD'abord, avant Amber. Un puits à degrés du 16e siècle aux escaliers symétriques entrecroisés descendant huit étages jusqu'à l'eau, construit pour que le village puisse l'atteindre en toute saison. Plusieurs degrés plus frais au fond, et presque toujours vide car les cars le sautent.\n\n**Fort d'Amber**\n\nLe complexe sur la colline au-dessus du lac Maota, commencé en 1592 par Raja Man Singh. La porte peinte **Ganesh Pol**, le **Sheesh Mahal** avec son plafond de fragments de miroirs, le **Sukh Niwas** rafraîchi par l'eau, et la cour du zenana avec ses douze appartements séparés.\n\n**Jal Mahal**\n\nUn arrêt photo depuis la chaussée. Quatre des cinq étages sous l'eau, pas d'entrée.\n\n**Hawa Mahal**\n\nLa façade de 953 fenêtres de 1799, construite comme un écran pour que les femmes de la cour puissent observer la rue sans être vues. Le mieux depuis le trottoir d'en face.\n\n**Jantar Mantar**\n\nLa raison de réserver cette journée précise.\n\nJai Singh II était un astronome qui, par la même occasion, fondait des villes. Entre 1728 et 1734, il a construit ici dix-neuf instruments en maçonnerie, et ils fonctionnent.\n\nLe **Samrat Yantra** est un cadran solaire de 27 mètres dont l'ombre se déplace de 6 cm par minute, vous pouvez regarder le temps passer, et il est précis à environ deux secondes. Le **Jai Prakash Yantra** est une paire de bols hémisphériques enfoncés dans le sol, marqués pour cartographier la position du soleil. Les douze instruments **Rashivalaya** sont chacun alignés sur un signe du zodiaque et ne peuvent être utilisés que lorsque ce signe traverse le méridien.\n\nJai Singh les a construits parce qu'il ne faisait pas confiance aux instruments en laiton de l'époque : plus grand signifiait des graduations plus fines, et la pierre ne se déformait pas. Il avait raison, et ils restent les plus grands de leur genre au monde.\n\n**Pratique**\n\nHuit heures avec prise en charge à l'hôtel. Frais d'entrée payés à chaque site, environ ₹1 500 par personne pour un adulte étranger.",
+  "highlights": [
+   "Découvrez les principaux sites emblématiques de Jaipur lors d'une visite guidée d'une journée complète."
+  ],
+  "included": [
+   "Visite des points forts d'une journée complète avec un guide",
+   "Prise en charge depuis votre hôtel à Jaipur",
+   "Retour à votre hôtel à Jaipur",
+   "Visites/arrêts photo listés dans l'itinéraire",
+   "Pause déjeuner",
+   "Eau potable"
+  ],
+  "notIncluded": [
+   "Dépense personnelle",
+   "Pourboires"
+  ]
+ },
+ "jaipur-full-day-city-tour-with-car-guide-skip": {
+  "title": "Jaipur : Visite d'une journée complète avec voiture, guide et coupe-file",
+  "metaTitle": "Jaipur : journée complète avec guide et coupe-file",
+  "metaDescription": "Une journée complète de Jaipur avec entrée coupe-file au Fort d'Amber, une voiture privée et un guide agréé. Environ six heures et demie.",
+  "shortDescription": "Une journée complète de Jaipur avec entrée coupe-file au Fort d'Amber, une voiture privée et un guide agréé. Environ six heures et demie.",
+  "fullDescription": "**Le coupe-file compte à exactement un endroit à Jaipur**\n\nLe Fort d'Amber. Il accueille environ cinq mille visiteurs par jour en haute saison et la file d'attente au guichet à la base peut durer une demi-heure avant même de commencer la montée. L'entrée préréservée vous permet de la contourner.\n\nLe reste des monuments de la ville fait rarement la queue, donc cette visite utilise l'avantage où il existe.\n\n**Fort d'Amber**\n\nCommencé en 1592 par Raja Man Singh, général d'Akbar, sur une crête des collines Aravalli au-dessus du lac Maota. Des cours rajpoutes construites par des artisans moghols, d'où le travail d'incrustation persan dans un fort hindou.\n\nLa porte **Ganesh Pol**, plâtre peint sur pierre, avec une galerie grillagée au-dessus d'où les femmes de la cour observaient les arrivées sans être vues. Le **Sheesh Mahal**, où des milliers de fragments de miroirs convexes étaient incrustés pour qu'une seule bougie ressemble à un ciel plein d'étoiles. Le **Sukh Niwas** de l'autre côté de la cour, rafraîchi par l'eau circulant dans des canaux taillés dans le marbre.\n\nEt le **zenana** : douze appartements de reines autour d'une seule cour, avec des couloirs disposés pour que le maharaja puisse visiter l'une sans que les autres sachent laquelle.\n\n**Jal Mahal**\n\nUn arrêt photo depuis la chaussée. Quatre de ses cinq étages sont sous le lac Man Sagar et il n'y a pas d'entrée, quoi qu'on vous propose au bord de la route.\n\n**City Palace**\n\nToujours en partie la résidence de l'ancienne famille royale, le drapeau au-dessus du Chandra Mahal vous indique s'ils sont présents. Cours, armurerie, salles de textiles, et les deux urnes d'argent coulées pour qu'un maharaja puisse transporter de l'eau du Gange en Angleterre.\n\n**Jantar Mantar**\n\nDix-neuf instruments astronomiques en maçonnerie, classé UNESCO, construits par Jai Singh II, qui était astronome avant de fonder la ville. Le cadran solaire **Samrat Yantra** de 27 mètres donne encore l'heure locale à quelques secondes près.\n\n**Hawa Mahal**\n\nL'écran de 953 fenêtres, le mieux photographié depuis la rue d'en face.\n\n**Trois options**\n\nGuide seul ; voiture privée, chauffeur et guide ; ou la même chose avec déjeuner inclus.",
+  "highlights": [
+   "Explorez le patrimoine royal de Jaipur, célèbre sous le nom de Ville Rose."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel/aéroport",
+   "Voiture climatisée privée pour les visites avec chauffeur",
+   "Guide touristique expert agréé par le gouvernement",
+   "Déjeuner au restaurant (si option sélectionnée)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et le stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
