@@ -6122,6 +6122,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld"
   ]
  },
+ "taj-mahal-agra-fort-baby-taj-full-day-trip": {
+  "title": "Taj Mahal, Agra Fort und Baby Taj, Ganztagesausflug ab Delhi",
+  "metaTitle": "Delhi-Taj Mahal: Taj bei Sonnenaufgang, Fort und Baby Taj",
+  "metaDescription": "Der Taj Mahal bei Sonnenaufgang, das Agra Fort und der Baby Taj ab Delhi im Privatwagen. Rund acht Stunden in Agra.",
+  "shortDescription": "Der Taj Mahal bei Sonnenaufgang, das Agra Fort und der Baby Taj ab Delhi im Privatwagen. Rund acht Stunden in Agra.",
+  "fullDescription": "**Man hat ihn im Krieg versteckt**\n\nZweimal. 1942, als japanische Luftangriffe erwartet wurden, baute der Archaeological Survey ein Bambusgerüst über die Kuppel, damit sie aus der Luft wie ein Bambuslager aussah statt wie ein weißes Marmorziel. Sie taten es in den Kriegen 1965 und 1971 gegen Pakistan erneut, mit grünem Stoff über der Kuppel.\n\nEs gibt Fotos davon. Es ist eines der seltsameren Dinge, die man je mit einem Bauwerk gemacht hat, und es funktionierte.\n\n**Sonnenaufgang**\n\nFrühe Abfahrt ab Delhi im Privatwagen, und die Tore öffnen eine halbe Stunde vor der Sonne.\n\nDer Marmor erscheint erst grau, dann rosa, dann kalt weiß, während das Licht über das gegenüberliegende Ufer der Yamuna kommt. Im Dezember und Januar liegt Nebel auf dem Fluss hinter der Kuppel, und die Menge zu dieser Stunde ist ein Fünftel dessen, was sie bis zehn wird.\n\nShah Jahan begann ihn 1632, im Jahr nachdem Mumtaz Mahal gestorben war. Zweiundzwanzig Jahre, zwanzigtausend Arbeiter, Marmor aus Makrana, 400 km entfernt.\n\nDie **Kalligrafie**, in wachsenden Größen geschnitten, damit sie vom Boden aus gleich hoch erscheint. Die **Pietra dura**, Dutzende Steine pro Blüte. Die vier **Minarette**, nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg fallen ließe. Und Shah Jahans eigenes Kenotaph, das einzige Stück im Bau, das außerhalb der Mittelachse steht.\n\n**Agra Fort**\n\nAkbars Stadt aus rotem Sandstein von 1565 mit Shah Jahans Marmor darin, und der **Musamman Burj**, wo Aurangzeb seinen Vater acht Jahre gefangen hielt.\n\n**Itimad-ud-Daulah, der Baby Taj**\n\nDas Marmorgrab aus den 1620er-Jahren jenseits der Yamuna, das Pietra dura nach Indien brachte und den Taj möglich machte. Fast immer leer.\n\n**Drei Optionen**\n\nWagen und Guide mit Start in Agra; ab Delhi mit Fahrer und Guide; oder komplett ab Delhi.\n\n**Praktisch**\n\nAcht Stunden in Agra plus die Fahrt. **Der Taj ist freitags geschlossen.**",
+  "highlights": [
+   "Entspannen Sie sich mit reibungsloser Abholung und Rückfahrt ab Ihrem Hotel oder Flughafen in Delhi."
+  ],
+  "included": [
+   "Hin- und Rückfahrt im privaten klimatisierten Wagen",
+   "Abholung und Rückfahrt am Hotel oder Flughafen in Delhi",
+   "Alle Eintrittskarten für die Monumente (bei gewählter Option)",
+   "Staatlich geprüfter lokaler Guide",
+   "5-Sterne-Mahlzeit (bei gewählter Option)",
+   "Mineralwasser in Flaschen während der Tour",
+   "Alle Mautkosten, Parkgebühren und Treibstoffkosten"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben und Trinkgelder"
+  ]
+ },
+ "taj-mahal-agra-fort-tou-with-elephant-sanctuary-vi": {
+  "title": "Taj Mahal und Agra Fort mit Besuch eines Elefanten-Schutzgebiets",
+  "metaTitle": "Taj Mahal, Agra Fort und Elefanten-Schutzgebiet",
+  "metaDescription": "Der Taj Mahal und das Agra Fort mit einem Besuch in einem Schutzgebiet, in dem gerettete Elefanten leben, ohne Elefantenreiten.",
+  "shortDescription": "Der Taj Mahal und das Agra Fort mit einem Besuch in einem Schutzgebiet, in dem gerettete Elefanten leben, ohne Elefantenreiten.",
+  "fullDescription": "**Zwei Monumente und ein wirklich gutes Tierschutzgebiet**\n\nDas Elefantenzentrum an der Straße Delhi-Agra ist eine Rettungs- und Pflegeeinrichtung: die Tiere hier kommen aus dem Bettelgeschäft, aus Zirkussen, und aus dem Reit- und Hochzeitsgeschäft, und die meisten kamen mit Fußschäden, Blindheit oder Wunden von den Werkzeugen an, die zu ihrer Kontrolle verwendet wurden.\n\nEs gibt kein Reiten, keine Vorführung und keine Fotogelegenheit beim Baden mit den Elefanten. Was Sie tun, ist sie aus der Distanz zu beobachten, während Pfleger die Geschichte jedes Tiers erklären, und das ist die richtige Art, einen Elefanten zu besuchen.\n\nWenn Sie ein Foto auf dem Rücken eines Elefanten wollen, ist das die falsche Buchung, und der Grund ist die Wirbelsäule des Tiers, nicht eine Vorschrift.\n\n**05:30-07:00, Abholung**\n\nAb Delhi oder Agra, je nach Ihrer Buchung, dann die Yamuna Expressway in einem privaten Fahrzeug.\n\n**08:30, Taj Mahal**\n\nShah Jahan begann ihn 1632, nachdem Mumtaz Mahal bei der Geburt ihres vierzehnten Kindes gestorben war. Zwanzigtausend Arbeiter, zweiundzwanzig Jahre, Marmor über 400 km aus Makrana herangekarrt.\n\nIhr Guide zeigt Ihnen die **Kalligrafie**, nach oben hin größer geschnitten, damit sie vom Boden aus gleich hoch erscheint, die **Pietra-dura**-Blüten aus Dutzenden eingelegter Steine, die **Minarette**, nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg fallen ließe, und die eine bewusste Asymmetrie in einem sonst perfekt gespiegelten Bau.\n\n**Agra Fort**\n\nAkbars Festung aus rotem Sandstein von 1565 mit Shah Jahans Marmorpalästen darin, und der **Musamman Burj**, wo Aurangzeb ihn die letzten acht Jahre seines Lebens gefangen hielt, mit dem Taj sichtbar am Fluss.\n\n**Das Schutzgebiet**\n\nNachmittags. Die Fütterungszeit ist die beste Stunde, dort zu sein, ein ausgewachsener Elefant isst rund 150 kg am Tag, und zuzusehen, wie einer sich durch Zuckerrohr arbeitet, ist seltsam fesselnd.\n\nDie Pfleger sind die richtigen Ansprechpartner. Mehrere arbeiten seit Jahren mit demselben Tier und können genau erzählen, was es gekostet hat, dass es einem Menschen wieder vertraut.\n\n**Praktisch**\n\nDreizehn Stunden von Tür zu Tür. **Der Taj ist freitags geschlossen.**\n\nKein Blitzlicht in der Nähe der Tiere, und bleiben Sie hinter den Absperrungen, das sind große Tiere mit Gründen, Menschen nicht zu mögen.",
+  "highlights": [
+   "Geführter Besuch des Taj Mahal"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel, Flughafen oder Bahnhof",
+   "Privates klimatisiertes Fahrzeug mit Fahrer",
+   "Besichtigung von Taj Mahal und Agra Fort",
+   "Wasser in Flaschen während der Fahrt",
+   "Alle Mautkosten, Parkgebühren, Treibstoff und bundesstaatenübergreifenden Steuern",
+   "Professioneller staatlich geprüfter Guide",
+   "Flexible Stopps zum Fotografieren"
+  ],
+  "notIncluded": [
+   "Mittagessen",
+   "Eintrittskarte für das Tierschutzgebiet",
+   "Eintrittsgebühren der Monumente",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Offiziellen Guide für die Erkundung von Bengaluru buchen",
   "metaTitle": "Bengaluru mit Guide: Paläste, Lalbagh, Tempel und Basare",

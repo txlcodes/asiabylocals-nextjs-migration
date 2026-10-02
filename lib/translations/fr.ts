@@ -6122,6 +6122,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Gratification (pourboire)"
   ]
  },
+ "taj-mahal-agra-fort-baby-taj-full-day-trip": {
+  "title": "Taj Mahal, fort d'Agra et Baby Taj, excursion d'une journée complète depuis Delhi",
+  "metaTitle": "Delhi-Taj Mahal : Taj au lever du soleil, fort et Baby Taj",
+  "metaDescription": "Le Taj Mahal au lever du soleil, le fort d'Agra et le Baby Taj depuis Delhi en voiture privée. Environ huit heures à Agra.",
+  "shortDescription": "Le Taj Mahal au lever du soleil, le fort d'Agra et le Baby Taj depuis Delhi en voiture privée. Environ huit heures à Agra.",
+  "fullDescription": "**On l'a caché pendant la guerre**\n\nDeux fois. En 1942, des raids aériens japonais étant attendus, l'Archaeological Survey a construit un échafaudage de bambou au-dessus du dôme pour que, vu du ciel, cela ressemble à un stock de bambou plutôt qu'à une cible de marbre blanc. Ils l'ont refait pendant les guerres de 1965 et 1971 contre le Pakistan, en utilisant un tissu vert sur le dôme.\n\nIl existe des photographies. C'est l'une des choses les plus insolites jamais faites à un édifice, et cela a fonctionné.\n\n**Le lever du soleil**\n\nDépart matinal de Delhi en voiture privée, et les portes ouvrent une demi-heure avant le soleil.\n\nLe marbre se lit gris, puis rose, puis blanc froid à mesure que la lumière arrive au-dessus de la rive opposée de la Yamuna. En décembre et janvier, il y a de la brume sur le fleuve derrière le dôme, et la foule à cette heure n'est qu'un cinquième de ce qu'elle deviendra à dix heures.\n\nShah Jahan l'a commencé en 1632, l'année suivant la mort de Mumtaz Mahal. Vingt-deux ans, vingt mille ouvriers, du marbre venu de Makrana, à 400 km.\n\nLa **calligraphie** gravée en tailles croissantes pour se lire d'une hauteur égale depuis le sol. La **pietra dura**, des dizaines de pierres par fleur. Les quatre **minarets** inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau. Et le cénotaphe de Shah Jahan lui-même, la seule chose de l'édifice placée hors de l'axe central.\n\n**Le fort d'Agra**\n\nLa ville de grès rouge d'Akbar, 1565, avec le marbre de Shah Jahan à l'intérieur, et le **Musamman Burj** où Aurangzeb a retenu son père prisonnier huit ans.\n\n**Itimad-ud-Daulah, le Baby Taj**\n\nLe tombeau de marbre des années 1620, de l'autre côté de la Yamuna, qui a introduit la pietra dura en Inde et rendu le Taj possible. Presque toujours vide.\n\n**Trois options**\n\nVoiture et guide au départ d'Agra ; depuis Delhi avec chauffeur et guide ; ou tout compris depuis Delhi.\n\n**Pratique**\n\nHuit heures à Agra, plus la route. **Le Taj est fermé le vendredi.**",
+  "highlights": [
+   "Détendez-vous avec une prise en charge et un retour fluides depuis votre hôtel ou l'aéroport à Delhi."
+  ],
+  "included": [
+   "Aller-retour en voiture privée climatisée",
+   "Prise en charge et retour à l'hôtel ou à l'aéroport à Delhi",
+   "Tous les billets d'entrée des monuments (selon l'option choisie)",
+   "Guide local agréé par le gouvernement",
+   "Repas 5 étoiles (selon l'option choisie)",
+   "Eau minérale en bouteille pendant la visite",
+   "Tous les péages, le stationnement et les frais de carburant"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles et pourboires"
+  ]
+ },
+ "taj-mahal-agra-fort-tou-with-elephant-sanctuary-vi": {
+  "title": "Taj Mahal et fort d'Agra avec visite d'un sanctuaire d'éléphants",
+  "metaTitle": "Taj Mahal, fort d'Agra et sanctuaire d'éléphants",
+  "metaDescription": "Le Taj Mahal et le fort d'Agra avec une visite d'un sanctuaire où vivent des éléphants secourus, sans promenade à dos d'éléphant.",
+  "shortDescription": "Le Taj Mahal et le fort d'Agra avec une visite d'un sanctuaire où vivent des éléphants secourus, sans promenade à dos d'éléphant.",
+  "fullDescription": "**Deux monuments et un vrai bon sanctuaire animalier**\n\nLe centre d'éléphants sur la route Delhi-Agra est un établissement de secours et de soins : les animaux qui y vivent viennent de la mendicité organisée, des cirques, et du commerce des promenades et des mariages, et la plupart sont arrivés avec des blessures aux pieds, la cécité ou des plaies dues aux outils utilisés pour les contrôler.\n\nIl n'y a pas de promenade, pas de spectacle et pas de séance photo au bain avec les éléphants. Ce que vous faites, c'est les observer à distance pendant que les gardiens expliquent l'histoire de chaque animal, et c'est la bonne manière de visiter un éléphant.\n\nSi ce que vous voulez, c'est une photo sur le dos d'un éléphant, ce n'est pas la bonne réservation, et la raison est la colonne vertébrale de l'animal plutôt qu'une politique.\n\n**05h30-07h00, prise en charge**\n\nDepuis Delhi ou Agra selon votre réservation, puis la Yamuna Expressway dans un véhicule privé.\n\n**08h30, Taj Mahal**\n\nShah Jahan l'a commencé en 1632 après la mort de Mumtaz Mahal en donnant naissance à leur quatorzième enfant. Vingt mille ouvriers, vingt-deux ans, du marbre acheminé sur 400 km depuis Makrana.\n\nVotre guide vous montrera la **calligraphie** gravée plus grande à mesure qu'elle s'élève pour se lire d'une hauteur égale depuis le sol, les fleurs de **pietra dura** faites de dizaines de pierres incrustées, les **minarets** inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau, et la seule asymétrie volontaire dans un édifice par ailleurs parfaitement symétrique.\n\n**Le fort d'Agra**\n\nLa place forte en grès rouge d'Akbar, 1565, avec les palais de marbre de Shah Jahan à l'intérieur, et le **Musamman Burj** où Aurangzeb l'a enfermé les huit dernières années de sa vie, avec le Taj visible le long du fleuve.\n\n**Le sanctuaire**\n\nL'après-midi. L'heure du repas est le meilleur moment pour y être, un éléphant adulte mange environ 150 kg par jour, et le regarder venir à bout d'une canne à sucre est étrangement captivant.\n\nLes gardiens sont les personnes à qui parler. Plusieurs travaillent avec le même animal depuis des années et peuvent vous dire exactement ce qu'il a fallu pour qu'il fasse à nouveau confiance à un humain.\n\n**Pratique**\n\nTreize heures de porte à porte. **Le Taj est fermé le vendredi.**\n\nPas de photo au flash autour des animaux, et restez derrière les barrières, ce sont de grands animaux qui ont des raisons de ne pas aimer les gens.",
+  "highlights": [
+   "Visite guidée du Taj Mahal"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel, à l'aéroport ou à la gare",
+   "Véhicule privé climatisé avec chauffeur",
+   "Visites du Taj Mahal et du fort d'Agra",
+   "Eau en bouteille pendant le trajet",
+   "Tous les péages, le stationnement, le carburant et les taxes interétatiques",
+   "Guide professionnel agréé par le gouvernement",
+   "Arrêts flexibles pour la photographie"
+  ],
+  "notIncluded": [
+   "Déjeuner",
+   "Billet du sanctuaire animalier",
+   "Droits d'entrée des monuments",
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Réservez un guide officiel pour explorer Bengaluru",
   "metaTitle": "Bengaluru avec guide : palais, Lalbagh, temples et bazars",
