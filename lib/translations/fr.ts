@@ -12134,6 +12134,103 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "from-delhi-6-days-golden-triangle-tour-with-pushka": {
+  "title": "Depuis Delhi : Triangle d'or de 6 jours avec Pushkar",
+  "metaTitle": "Triangle d'or avec Pushkar, 6 jours",
+  "metaDescription": "Six jours depuis Delhi via Agra et Jaipur jusqu'à Pushkar, avec options d'hôtel de trois à cinq étoiles.",
+  "shortDescription": "Six jours depuis Delhi via Agra et Jaipur jusqu'à Pushkar, avec options d'hôtel de trois à cinq étoiles.",
+  "fullDescription": "**Le triangle, puis une ville avec un unique temple de Brahma**\n\nPushkar est la raison de choisir cette version. Elle se trouve autour d'un lac dans les Aravalli, et les hindous considèrent que le lac s'est formé là où Brahma a laissé tomber un lotus, il existe peut-être une douzaine de temples de Brahma dans le monde, et celui-ci est le principal.\n\n**Jour 1 : Delhi**\n\nAccueil à l'arrivée. La **Jama Masjid**, le **Raj Ghat** où Gandhi fut incinéré, **India Gate**, le **Parlement** et la résidence présidentielle depuis la route.\n\nPuis deux sites classés à l'UNESCO : le **tombeau de Humayun**, le tombeau-jardin moghol des années 1560 dont le Taj descend, et **Qutub Minar**, commencé en 1193, avec le pilier de fer debout depuis plus de seize cents ans sans avoir rouillé.\n\n**Jours 2-3 : Agra**\n\nLe **Taj Mahal** au lever du soleil, et le **fort d'Agra** avec le **Musamman Burj** où Shah Jahan a passé ses huit dernières années emprisonné par Aurangzeb, le Taj visible le long du fleuve.\n\n**Fatehpur Sikri** sur le trajet vers l'ouest.\n\n**Jour 4 : Jaipur**\n\nLe **fort d'Amber**, le **City Palace**, le **Jantar Mantar** et le **Hawa Mahal**, avec une soirée dans les bazars.\n\n**Jours 5-6 : Pushkar**\n\nCinquante-deux **ghats** entourent le lac, et les pèlerins y prennent leur bain à l'aube. Le **temple de Brahma** date du XIVe siècle sur un site bien plus ancien.\n\nLe **temple de Savitri** sur la colline au-dessus offre une vue sur tout le lac et la ville, par un long escalier ou en téléphérique, idéal au lever du soleil.\n\nLa ville est **strictement végétarienne et sans alcool** dans ses limites : ni viande, ni œufs, ni alcool. Cela est appliqué plutôt qu'encouragé.\n\nLa **foire aux chameaux** se tient en Kartik, généralement en novembre, quand cinquante mille animaux et un quart de million de personnes arrivent en même temps.\n\nUn avertissement qui vaut la peine : des hommes sur les ghats proposeront une bénédiction « passeport de Pushkar » puis exigeront une grosse donation. Un non ferme et poli suffit.\n\n**Cinq options**\n\nGuide seul ; voiture et guide ; ou avec hôtels trois, quatre ou cinq étoiles.\n\n**Le Taj est fermé le vendredi.**",
+  "highlights": [
+   "Explorez les sites patrimoniaux de Delhi, dont Qutub Minar, India Gate et la Jama Masjid"
+  ],
+  "included": [
+   "Hébergement en hôtel trois, quatre ou cinq étoiles (selon l'option choisie)",
+   "Petit-déjeuner quotidien à l'hôtel",
+   "Véhicule privé climatisé avec chauffeur",
+   "Guide touristique local professionnel dans chaque ville",
+   "Prise en charge et retour à l'aéroport à Delhi",
+   "Eau en bouteille pendant les visites",
+   "Assistance tout au long du circuit"
+  ],
+  "notIncluded": [
+   "Droits d'entrée aux monuments",
+   "Repas autres que le petit-déjeuner",
+   "Pourboires et dépenses personnelles"
+  ]
+ },
+ "from-delhi-7-day-golden-triangle-tour-with-amritsa": {
+  "title": "Depuis Delhi : Triangle d'or de 7 jours avec Amritsar",
+  "metaTitle": "Triangle d'or avec Amritsar, 7 jours",
+  "metaDescription": "Sept jours depuis Delhi via Agra et Jaipur jusqu'à Amritsar, avec le Temple d'or et la cérémonie de la frontière de Wagah.",
+  "shortDescription": "Sept jours depuis Delhi via Agra et Jaipur jusqu'à Amritsar, avec le Temple d'or et la cérémonie de la frontière de Wagah.",
+  "fullDescription": "**L'Inde moghole pendant quatre jours, le Pendjab sikh pendant trois**\n\nLe Triangle d'or, c'est des forts et des tombeaux de quatre cents ans. Amritsar est une foi vivante et une blessure moderne, et ce changement de registre justifie sept jours.\n\n**Jours 1-2 : Delhi**\n\nArrivée et transfert. Puis la capitale : le **fort Rouge**, la ville fortifiée de Shah Jahan de 1638, **fermé le lundi**, la **Jama Masjid**, et le **Raj Ghat**, où Gandhi fut incinéré et où la flamme ne s'est pas éteinte depuis 1948.\n\n**India Gate**, **Qutub Minar** avec le pilier de fer debout depuis 1 600 ans sans avoir rouillé, le **tombeau de Humayun**, et le trajet devant le Parlement et le palais présidentiel.\n\n**Jours 3-4 : Agra, puis Jaipur**\n\nLe **Taj Mahal** et le **fort d'Agra**, avec le **Musamman Burj** où Aurangzeb a emprisonné son père huit ans, le Taj visible le long du fleuve. **Fatehpur Sikri** sur le trajet vers l'ouest.\n\n**Jour 5 : Jaipur**\n\nLe **fort d'Amber**, le **City Palace**, le **Jantar Mantar** et le **Hawa Mahal**, avec les bazars en soirée.\n\n**Jours 6-7 : Amritsar**\n\nLe **Temple d'or**, Harmandir Sahib, se trouve sur une digue au milieu d'un bassin d'eau, ouvert sur ses quatre côtés pour signifier que chacun peut y entrer de n'importe quelle direction. Il fonctionne jour et nuit. Sa cuisine nourrit gratuitement entre cinquante mille et cent mille personnes chaque jour, cuisinée et servie entièrement par des bénévoles, et vous pouvez les rejoindre.\n\nL'heure idéale pour y être est avant l'aube, quand le Guru Granth Sahib est apporté.\n\n**Jallianwala Bagh** se trouve à côté : le jardin fortifié où les troupes britanniques ont tiré sur une foule piégée et désarmée en 1919. Les traces de balles sont toujours dans le mur. Vingt minutes, et l'endroit le plus poignant du Pendjab.\n\nLa **frontière de Wagah**, à 28 km, accueille une cérémonie de descente du drapeau chaque soir, les gardes indiens et pakistanais se lançant des coups de pied élevés devant des tribunes pleines des deux côtés. C'est absurde et totalement captivant.\n\n**Au Temple d'or** : tête couverte, chaussures retirées, pieds lavés à l'entrée. Des écharpes sont fournies gratuitement à la porte.",
+  "highlights": [
+   "Explorez le fort Rouge, la Jama Masjid, le Raj Ghat, Qutub Minar, le tombeau de Humayun, India Gate"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour toute l'activité",
+   "Guide touristique professionnel dans chaque ville",
+   "6 nuits d'hébergement en hôtel (si l'option est choisie)",
+   "Petit-déjeuner à l'hôtel (si l'option est choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Déjeuner et dîner",
+   "Billets d'entrée aux monuments",
+   "Toute dépense personnelle"
+  ]
+ },
+ "from-delhi-7-day-private-golden-triangle-tour-with": {
+  "title": "Depuis Delhi : Triangle d'or privé de 7 jours avec Shimla",
+  "metaTitle": "Triangle d'or privé avec Shimla, 7 jours",
+  "metaDescription": "Sept jours depuis Delhi via Agra et Jaipur, puis en altitude vers les contreforts de l'Himalaya à Shimla. Voiture privée tout au long.",
+  "shortDescription": "Sept jours depuis Delhi via Agra et Jaipur, puis en altitude vers les contreforts de l'Himalaya à Shimla. Voiture privée tout au long.",
+  "fullDescription": "**Les plaines, puis les collines**\n\nSix jours de forts moghols sous une chaleur de 40 degrés, c'est beaucoup de la même chose. Cet itinéraire casse le rythme avec Shimla, à 2 200 mètres d'altitude en Himachal Pradesh, forêts de pins, et une baisse de température de quinze degrés en un trajet d'après-midi.\n\n**Delhi, Agra, Jaipur**\n\nLe triangle standard, sans hâte : **Qutub Minar**, le **tombeau de Humayun**, la **Jama Masjid** et **Chandni Chowk** à Delhi ; le **Taj Mahal** et le **fort d'Agra** ; **Fatehpur Sikri** en chemin ; puis le **fort d'Amber**, le **City Palace**, le **Jantar Mantar** et le **Hawa Mahal** à Jaipur.\n\n**Shimla**\n\nLes Britanniques ont déplacé tout le gouvernement de l'Inde ici chaque été à partir de 1864, dossiers, vice-roi, quartier général de l'armée et tout, parce que Delhi était insupportable. Ce qu'ils ont laissé est une ville de montagne qui ne ressemble à nulle part ailleurs dans le pays.\n\n**The Ridge** et **Mall Road** sont entièrement piétonnes et bordées de bâtiments coloniaux : **Christ Church**, la deuxième plus ancienne du nord de l'Inde, et **Viceregal Lodge**, où la décision de partitionner l'Inde fut prise en 1947 et où les salles originales lambrissées de teck sont ouvertes aux visiteurs.\n\nLe **temple de Jakhoo** se trouve au point le plus élevé, accessible par une montée raide à travers une forêt de cèdres de l'Himalaya, avec une statue de Hanuman de 33 mètres visible depuis toute la ville. Les singes y prennent les lunettes ; laissez-les dans la voiture.\n\n**Kufri**, à seize kilomètres, offre les vues sur la neige en hiver.\n\n**La montée**\n\nEnviron huit heures depuis Delhi, les deux dernières en lacets. L'alternative est le **petit train de Kalka-Shimla**, une ligne à voie étroite classée à l'UNESCO comptant 103 tunnels et 864 ponts et parcourant 96 km en cinq heures. Si cela peut s'intégrer à vos dates, prenez-le.\n\n**Options**\n\nVoiture privée, chauffeur et guides seuls, ou avec hôtels trois ou quatre étoiles.\n\n**Pratique**\n\nShimla est froide de novembre à mars et peut connaître de la neige en janvier. Apportez des couches de vêtements quel que soit le temps dans les plaines.",
+  "highlights": [
+   "Profitez d'un trajet en voiture privée climatisée avec un chauffeur professionnel"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour toute l'activité",
+   "Guide touristique professionnel dans chaque ville",
+   "6 nuits d'hébergement en hôtel (si l'option est choisie)",
+   "Petit-déjeuner à l'hôtel (si l'option est choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Billets d'entrée aux monuments",
+   "Déjeuner et dîner",
+   "Toute dépense personnelle"
+  ]
+ },
+ "from-delhi-8-day-private-golden-triangle-tour-with": {
+  "title": "Depuis Delhi : Triangle d'or privé de 8 jours avec Varanasi",
+  "metaTitle": "Triangle d'or privé avec Varanasi, 8 jours",
+  "metaDescription": "Huit jours depuis Delhi via Agra et Jaipur, puis en train vers Varanasi. Voiture privée, guides et options d'hôtel.",
+  "shortDescription": "Huit jours depuis Delhi via Agra et Jaipur, puis en train vers Varanasi. Voiture privée, guides et options d'hôtel.",
+  "fullDescription": "**Huit jours, et le rythme est tout l'intérêt**\n\nLes mêmes quatre villes que couvre un itinéraire de six jours, avec deux jours supplémentaires répartis entre elles. Cela permet une deuxième visite du Taj à une heure différente, une journée complète dans le vieux Delhi, et deux nuits à Varanasi plutôt qu'une seule, ce qui compte, car Varanasi nécessite une aube et une soirée.\n\n**Jours 1-2 : Delhi**\n\nArrivée, transfert, et un trajet en soirée facultatif devant **India Gate** et Connaught Place.\n\nPuis la capitale en profondeur : la **Jama Masjid** et un cyclo-pousse dans **Chandni Chowk**, tracé dans les années 1650 avec un canal au centre qui reflétait la lune. Le **Raj Ghat**. Le **tombeau de Humayun**, le tombeau-jardin moghol des années 1560, jardin en quatre parties, double dôme, dont le Taj descend. Et **Qutub Minar** avec son pilier de fer non rouillé.\n\n**Jours 3-4 : Agra**\n\nLe **Taj Mahal** au lever du soleil, et le **fort d'Agra** avec le **Musamman Burj** où Shah Jahan a passé ses huit dernières années comme prisonnier d'Aurangzeb. Avec deux jours, le **Baby Taj** sur l'autre rive et **Mehtab Bagh** pour le reflet au coucher du soleil.\n\n**Fatehpur Sikri** sur le trajet vers l'ouest.\n\n**Jours 5-6 : Jaipur**\n\nLe **fort d'Amber** au-dessus du lac Maota, le **City Palace**, le **Jantar Mantar** et le **Hawa Mahal**, avec du temps pour **Nahargarh** au coucher du soleil et les bazars.\n\n**Jours 7-8 : Varanasi**\n\nLe train vers l'est, inclus dans toutes les options.\n\nUn **bateau à l'aube** le long des ghats en est le cœur, toute la façade du fleuve se tourne vers le soleil levant tandis que des milliers de personnes se baignent et prient sur les marches. Au crépuscule, la **Ganga Aarti** à Dashashwamedh, avec des lampes à étages et des cloches.\n\nÀ **Manikarnika**, les feux de crémation brûlent sans interruption depuis des siècles. **Aucune photographie là-bas**, c'est absolu.\n\n**Sarnath**, à onze kilomètres, où Bouddha a prononcé son premier sermon.\n\n**Trois options**\n\nVoiture, chauffeur et guide ; ou avec hôtels trois ou quatre étoiles et billets de train.\n\n**Le Taj est fermé le vendredi.**",
+  "highlights": [
+   "Visitez le fort Rouge, Qutub Minar, India Gate, le tombeau de Humayun, le temple du Lotus"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour toute l'activité",
+   "Guide en direct agréé par le gouvernement",
+   "7 nuits d'hébergement en hôtel (si l'option est choisie)",
+   "Petit-déjeuner à l'hôtel (si l'option est choisie)",
+   "Billets de train (Agra, Varanasi, Delhi) (si l'option est choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Déjeuner et dîner",
+   "Billets d'entrée aux monuments",
+   "Toute dépense personnelle"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
