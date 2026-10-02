@@ -16664,6 +16664,100 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires (facultatif)"
   ]
  },
+ "from-new-delhi-jaipur-private-day-trip-with-guide": {
+  "title": "Depuis New Delhi : Excursion privée d'une journée à Jaipur avec guide",
+  "metaTitle": "Depuis New Delhi : Excursion privée à Jaipur avec guide",
+  "metaDescription": "Excursion privée d'une journée à Jaipur depuis New Delhi avec chauffeur et guide local qui vous rejoint en ville.",
+  "shortDescription": "Une excursion privée d'une journée à Jaipur depuis New Delhi avec un chauffeur et un guide local qui vous rejoint en ville.",
+  "fullDescription": "**Un chauffeur de Delhi, un guide à Jaipur**\n\nLa répartition compte. Un chauffeur de Delhi peut vous emmener au Fort d'Amber ; seul un guide de Jaipur peut vous dire à quoi servait la salle des miroirs. Cette visite utilise les deux, la voiture et le chauffeur pour la journée, et un guide local agréé qui prend le relais à l'arrivée.\n\n**Hawa Mahal**\n\nPremier arrêt, et le bon pour la lumière du matin. Le Palais des Vents, construit en 1799 comme extension du zenana du City Palace : **953 fenêtres** sur cinq étages, moins d'un mètre de profondeur sur la plus grande partie de sa hauteur.\n\nC'était un écran plutôt qu'une résidence, les femmes de la cour pouvaient observer les processions dans la rue sans être vues depuis la route, et le treillis accélère aussi la circulation d'air, ce qui refroidit les couloirs derrière et donne son nom au bâtiment.\n\n**Fort d'Amber**\n\nLe complexe sur la colline au-dessus du lac Maota, commencé en 1592. La porte **Ganesh Pol**, le **Sheesh Mahal** avec son plafond de fragments de miroirs, le **Sukh Niwas** rafraîchi par des canaux d'eau, et la cour du zenana où douze appartements de reines étaient disposés pour qu'aucun ne donne sur un autre.\n\n**Jal Mahal**\n\nDepuis la chaussée au-dessus du lac Man Sagar. Quatre de ses cinq étages sont submergés ; personne n'y entre.\n\n**City Palace**\n\nUne partie reste la résidence de l'ancienne famille royale. Cours, armurerie, galeries textiles, et les deux urnes d'argent du Diwan-i-Khas, les plus grands objets en argent du monde, fabriquées pour que Madho Singh II puisse emporter de l'eau du Gange avec lui en Angleterre.\n\n**Jantar Mantar**\n\nL'observatoire du 18e siècle avec dix-neuf instruments en pierre, classé UNESCO, où le grand cadran solaire indique encore l'heure locale à quelques secondes près.\n\nSi la journée le permet, les bazars, Johari pour les pierres précieuses, Tripolia pour les bracelets en laque.\n\n**Pratique**\n\nUne longue journée : Delhi à Jaipur fait 270 km dans chaque sens, quatre à cinq heures dans chaque direction.\n\nLes frais d'entrée sont payés à chaque site, environ ₹1 500 par personne pour un adulte étranger. Commencez tôt ; Amber avant dix heures est un bâtiment différent.",
+  "highlights": [
+   "Voiture privée et propre de votre choix avec chauffeur, pas les taxis anciens habituels"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Guide de visite privé",
+   "Bouteilles d'eau pendant toute la visite",
+   "Véhicule privé climatisé (seulement si vous choisissez l'option avec voiture)",
+   "Transport en voiture privée climatisée",
+   "Toutes taxes, frais et frais de gestion",
+   "Supplément carburant",
+   "TPS (taxe sur les produits et services)",
+   "Soin et attention personnalisés"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Pourboires (facultatif)"
+  ]
+ },
+ "from-new-delhi-jaipur-tour-by-fast-train-or": {
+  "title": "Depuis New Delhi : Visite de Jaipur en train rapide ou en voiture privée",
+  "metaTitle": "Depuis New Delhi : Jaipur en train rapide ou voiture",
+  "metaDescription": "Jaipur en une journée depuis New Delhi en train rapide ou en voiture privée, avec guide et options de billets.",
+  "shortDescription": "Jaipur en une journée depuis New Delhi en train rapide ou en voiture privée, avec guide et options de billets.",
+  "fullDescription": "**Rail ou route, et le choix est réel**\n\n**En train** : prise en charge à 5h, dépose à la gare de New Delhi, et le train rapide du matin pour Jaipur. Pas de circulation, pas de péages, et vous arrivez capable de marcher plutôt que de vous déplier. Le retour du soir évite aussi le ralentissement vers Delhi, ce qui gâche la version routière.\n\n**En voiture** : 270 km dans chaque sens, quatre à cinq heures. Le véhicule est à vous toute la journée, vous pouvez donc vous arrêter où vous voulez et rester plus longtemps à ce qui vous retient.\n\nLa première classe dans le train offre un siège plus large et une voiture plus silencieuse ; la deuxième classe est parfaitement confortable sur un trajet de quatre heures.\n\n**À Jaipur**\n\nUne voiture privée et un guide agréé pour la journée, quel que soit votre mode de transport.\n\n**Fort d'Amber**, le complexe sur la colline au-dessus du lac Maota commencé en 1592, la porte peinte **Ganesh Pol**, le **Sheesh Mahal** où des fragments de miroirs au plafond transformaient une seule bougie en un ciel d'étoiles, et le **Sukh Niwas** refroidi par l'eau.\n\n**Jal Mahal** depuis la chaussée ; quatre de ses cinq étages sont sous l'eau.\n\n**City Palace**, une partie reste la résidence de l'ancienne famille royale, avec l'armurerie et les deux énormes urnes d'argent coulées pour transporter de l'eau du Gange vers l'Angleterre.\n\n**Jantar Mantar**, dix-neuf instruments astronomiques en maçonnerie construits dans les années 1730 par un souverain qui était d'abord astronome. Classé UNESCO, et le grand cadran solaire garde encore le temps à environ deux secondes.\n\n**Hawa Mahal**, l'écran de 953 fenêtres, depuis la rue d'en face.\n\n**Cinq options**\n\nVoiture avec guide ; train en deuxième classe avec voiture et guide ; voiture avec guide et billets ; deuxième classe avec voiture, guide et entrées ; ou première classe avec tout inclus.\n\n**Pratique**\n\nLes places de train sont limitées et se libèrent selon un calendrier fixe, réservez tôt, et emportez le passeport avec lequel vous avez réservé, car les chemins de fer indiens vérifient l'identité par rapport au billet.\n\nLes frais d'entrée sont d'environ ₹1 500 par personne pour un adulte étranger là où ils ne sont pas inclus.",
+  "highlights": [
+   "Voyagez de Delhi à Jaipur et retour en train rapide / voiture privée"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à la gare",
+   "Voiture privée climatisée avec chauffeur",
+   "Billet de train aller-retour",
+   "Services de guide en direct à chaque emplacement",
+   "Billets d'entrée aux monuments sur tous les sites (si option réservée)",
+   "Bouteilles d'eau",
+   "Tous péages, stationnement et taxes"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "full-day-jaipur-sightseeing-tour-by-tuk-tuk": {
+  "title": "Visite d'une journée complète de Jaipur en tuk-tuk.",
+  "metaTitle": "Jaipur : visite d'une journée complète en tuk-tuk",
+  "metaDescription": "Une journée complète de Jaipur en tuk-tuk, avec options guide et billets de monuments. Huit heures, prise en charge à l'hôtel.",
+  "shortDescription": "Une journée complète de Jaipur en tuk-tuk, avec options guide et billets de monuments. Huit heures, prise en charge à l'hôtel.",
+  "fullDescription": "**Huit heures en rickshaw à moteur, et c'est le bon choix**\n\nD'octobre à mars, un tuk-tuk est simplement la meilleure façon de voir Jaipur. Ouvert des deux côtés, rapide dans la circulation, assez petit pour les ruelles de la vieille ville, et vous êtes dans la rue plutôt que de la regarder à travers une vitre.\n\nIl coûte aussi une fraction du prix d'une voiture, ce qui en fait la journée complète honnête la moins chère de la ville.\n\n**Fort d'Amber**\n\nOnze kilomètres au nord sur une crête au-dessus du lac Maota, commencé en 1592 par Raja Man Singh, général d'Akbar. Un site du patrimoine mondial de l'UNESCO, et un fort rajput construit par des artisans moghols, d'où les incrustations persanes à côté de sculptures hindoues.\n\nLa porte **Ganesh Pol**, le **Sheesh Mahal** avec son plafond de fragments de miroirs convexes, le **Sukh Niwas** rafraîchi par l'eau circulant dans les murs, et la cour du zenana avec ses douze appartements de reines séparés.\n\nLe tuk-tuk gravit la rampe. Lentement, et avec un peu de bruit.\n\n**Jal Mahal**\n\nDepuis la chaussée au-dessus du lac Man Sagar. Quatre de ses cinq étages sont sous l'eau ; pas de bateau, pas d'entrée.\n\n**City Palace**\n\nCours, armurerie, galeries textiles, et les deux urnes d'argent du Diwan-i-Khas, les plus grands objets en argent du monde.\n\n**Jantar Mantar**\n\nDix-neuf instruments astronomiques en maçonnerie, classé UNESCO, avec un cadran solaire de 27 mètres encore précis à environ deux secondes.\n\n**Hawa Mahal**\n\nL'écran en nid d'abeille de 953 fenêtres, mieux photographié depuis la rue d'en face le matin.\n\nEt les **bazars**, Johari pour les pierres précieuses, Tripolia pour les bracelets en laque fabriqués sur une flamme devant vous.\n\n**Trois options**\n\nTuk-tuk seul ; tuk-tuk avec guide ; ou tuk-tuk avec guide et toutes les entrées des monuments.\n\n**Pratique**\n\nHuit heures avec prise en charge à l'hôtel.\n\nD'avril à juin, la chaleur rend l'expérience difficile, prenez plutôt une voiture durant ces mois.\n\nLes frais d'entrée sont d'environ ₹1 500 par personne pour un adulte étranger là où ils ne sont pas inclus.",
+  "highlights": [
+   "Explorez les plus beaux sites de Jaipur avec une visite privée en tuk-tuk."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel, à l'aéroport ou à la gare",
+   "Un véhicule privé avec chauffeur pour la visite",
+   "Guide (si option sélectionnée)",
+   "Frais d'entrée (si option sélectionnée)",
+   "Carburant, frais de stationnement, péages et taxes interétatiques",
+   "Eau en bouteille pour les clients",
+   "Toutes taxes gouvernementales, y compris la taxe sur les produits et services (TPS)"
+  ],
+  "notIncluded": [
+   "Pourboires pour le chauffeur et le guide",
+   "Frais de repas"
+  ]
+ },
+ "full-day-jaipur-tour": {
+  "title": "VISITE D'UNE JOURNÉE COMPLÈTE DE JAIPUR",
+  "metaTitle": "Jaipur : visite d'une journée complète",
+  "metaDescription": "Une journée complète de huit heures des forts, palais et bazars de Jaipur avec voiture privée et chauffeur.",
+  "shortDescription": "Une journée complète de huit heures des forts, palais et bazars de Jaipur avec une voiture privée et un chauffeur.",
+  "fullDescription": "**Pourquoi on l'appelle la Ville Rose**\n\nEn 1876, le Prince de Galles est venu en Inde, et le Maharaja Ram Singh a fait peindre toute la ville fortifiée en **rose terracotta** pour l'accueillir, le rose étant la couleur de l'hospitalité. Un règlement municipal exige depuis que les bâtiments à l'intérieur des murs restent de cette couleur.\n\nLe rose est donc un geste politique de 1876 devenu une obligation légale, ce qui est une histoire plus intéressante que celle du romantisme.\n\n**Fort d'Amber**\n\nOnze kilomètres au nord sur une crête au-dessus du lac Maota, commencé en 1592 par Raja Man Singh, général d'Akbar.\n\nLa porte peinte **Ganesh Pol** ; le **Sheesh Mahal**, où des milliers de fragments de miroirs convexes au plafond transformaient une seule bougie en un plafond d'étoiles ; le **Sukh Niwas**, rafraîchi par l'eau circulant dans des canaux de marbre ; et la cour du zenana avec ses douze appartements de reines séparés.\n\n**Jal Mahal**\n\nDepuis la chaussée. Quatre des cinq étages sous l'eau, et pas d'entrée.\n\n**City Palace**\n\nCommencé en 1729 au centre de la nouvelle ville de Jai Singh II. Une partie reste la résidence de la famille royale. Cours, armurerie, galeries textiles, et les deux énormes urnes d'argent.\n\n**Jantar Mantar**\n\nDix-neuf instruments astronomiques en maçonnerie, classé UNESCO, avec un cadran solaire de 27 mètres encore précis à environ deux secondes.\n\n**Hawa Mahal**\n\nL'écran de 953 fenêtres de 1799, mieux photographié depuis la rue d'en face le matin quand la façade devient vraiment rose.\n\n**Les bazars et les sanctuaires**\n\nJaipur est aussi connue pour ses marchés, **Johari** pour les pierres précieuses, **Tripolia** pour les bracelets en laque, et pour la faune à ses abords, **Jhalana**, qui abrite l'une des plus fortes densités de léopards en Inde à l'intérieur même des limites de la ville, et le **Nahargarh Biological Park**.\n\n**Pratique**\n\nHuit heures avec une voiture privée et un chauffeur.\n\nLes frais d'entrée sont payés à chaque site, environ ₹1 500 par personne pour un adulte étranger.",
+  "highlights": [
+   "Partez à la découverte des merveilles du Fort d'Amber."
+  ],
+  "included": [
+   "Véhicule privé climatisé pour le transfert.",
+   "Prise en charge et retour : hôtel en ville de Jaipur",
+   "Guide parlant anglais.",
+   "2 bouteilles d'eau minérale (500 ml) par personne.",
+   "Toutes taxes applicables."
+  ],
+  "notIncluded": [
+   "Tout hébergement.",
+   "Tout type de pourboires et gratifications.",
+   "Frais d'entrée aux monuments (le cas échéant)."
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
