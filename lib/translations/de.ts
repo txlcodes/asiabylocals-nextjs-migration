@@ -4621,6 +4621,99 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alle persönlichen Ausgaben"
   ]
  },
+ "from-agra-visit-to-wildlife-sos-elephant-conservat": {
+  "title": "Ab Agra: Besuch des Elefanten-Schutzzentrums Wildlife SOS",
+  "metaTitle": "Agra: Elefanten-Schutzzentrum Wildlife SOS",
+  "metaDescription": "Ein Besuch im Elefanten-Schutzzentrum von Wildlife SOS nahe Agra, mit Privatwagen. Rund zwei Stunden vor Ort.",
+  "shortDescription": "Ein Besuch im Elefanten-Schutzzentrum von Wildlife SOS nahe Agra, mit Privatwagen. Rund zwei Stunden vor Ort.",
+  "fullDescription": "**Indiens erstes Elefantenkrankenhaus, und ein echtes Rettungszentrum**\n\n**Wildlife SOS** betreibt das Elephant Conservation and Care Centre in Churmura, etwa eine Stunde von Agra, und das ist die echte Sache statt eines Schutzgebiets nur im Namen.\n\nDie Elefanten hier kommen aus dem Bettelgeschäft, aus Zirkussen, von Hochzeits- und Tempeldiensten, und aus den touristischen Reitreihen. Viele kamen blind an, mit zerschmetterten Füßen, mit Abszessen vom Ankus, oder unterernährt. Manche hatten Jahrzehnte in Ketten verbracht.\n\nDie Organisation betreibt vor Ort auch das erste **Elefantenkrankenhaus** des Landes, mit Hydrotherapiebecken, digitalem Röntgen und einer Quarantänestation.\n\n**Was ein Besuch ist**\n\nKeine Streichelsession. Es gibt **kein Reiten, kein Baden mit den Elefanten und kein Füttern von Hand**, die Tiere erholen sich, und das Pflegeprotokoll geht vor.\n\nWas Sie stattdessen bekommen, ist Beobachtung auf Abstand, bei der ein Pfleger die Geschichte jedes Tiers erklärt: wofür es eingesetzt wurde, was bei seiner Ankunft nicht in Ordnung war, und wie seine Genesung ausgesehen hat. Mehrere der Elefanten hier sind in Indien einzeln gut bekannt.\n\nSie sehen außerdem, wie viel Arbeit das kostet, die Futterzubereitung, die Fußpflege, das schlichte Ausmaß der Gehege.\n\nEs ist ruhiger und nachdenklicher als interaktive Erlebnisse, und die meisten Menschen finden es ergreifender.\n\n**Warum es zählt**\n\nElefantenreiten am Amber Fort und an Agras Monumenten gibt es immer noch. Zu sehen, wie die Füße und die Wirbelsäule dieser Tiere nach zwanzig Jahren davon aussehen, ist das überzeugendste Argument gegen eine solche Buchung, und deshalb verkaufen wir sie nicht.\n\n**Praktisch**\n\nRund eine Stunde Fahrt je Strecke und zwei Stunden vor Ort, mit Privatwagen und Fahrer.\n\nDer Eintritt erfolgt über ein spendenbasiertes Ticket, bezahlt im Zentrum; dieses Geld geht in die Pflege der Tiere.\n\nKein Blitzlicht, und folgen Sie den Anweisungen der Pfleger genau.",
+  "highlights": [
+   "Besuchen Sie einen Ort, der sich um Elefanten kümmert"
+  ],
+  "included": [
+   "Private Transfers (jeder Ort in Agra)",
+   "Wasserflasche für alle Besucher"
+  ],
+  "notIncluded": [
+   "Eintrittskarte, 2.500 ₹ pro Person. Direkt bei Wildlife SOS zu kaufen"
+  ]
+ },
+ "from-delhi-agra-overnight-tour-with-fatehpur-sikri": {
+  "title": "Ab Delhi: Agra mit Übernachtung und Fatehpur Sikri",
+  "metaTitle": "Delhi: Agra in zwei Tagen mit Fatehpur Sikri",
+  "metaDescription": "Eine Übernachtung zwischen Delhi, Agra und Fatehpur Sikri, mit Agra Fort, dem Taj bei Sonnenaufgang und einer Hoteloption.",
+  "shortDescription": "Eine Übernachtung zwischen Delhi, Agra und Fatehpur Sikri, mit Agra Fort, dem Taj bei Sonnenaufgang und einer Hoteloption.",
+  "fullDescription": "**Zwei Tage, drei UNESCO-Stätten, eine Nacht in Agra**\n\nDer Grund, die Übernachtungstour statt des Tagesausflugs zu wählen: Sie bekommen den Taj bei Sonnenaufgang, und Fatehpur Sikri bekommt einen Vormittag statt der vierzig Minuten, die ein gehetztes Programm ihm lässt.\n\n**Tag 1: Delhi nach Agra**\n\nMorgendliche Abholung an Ihrem Hotel, am Flughafen oder am gewünschten Ort in Delhi, dann die Yamuna Expressway, eine moderne sechsspurige Straße, drei bis vier Stunden.\n\n**Agra Fort** bei der Ankunft mit Ihrem Guide. Akbar baute es ab 1565 in rotem Sandstein, zweieinhalb Kilometer Mauer, ein doppelter Graben, und ein Eingangstor, das bewusst abgewinkelt ist, damit Elefanten es nicht in gerader Linie rammen konnten.\n\nDarin Shah Jahans Marmorbauten: der **Diwan-i-Am**, wo Bittschriften gehört wurden, der **Khas Mahal**, das Badehaus **Sheesh Mahal** mit seinen Spiegelsplittern. Und der **Musamman Burj**, der achteckige Turm, in dem Aurangzeb seinen eigenen Vater die letzten acht Jahre seines Lebens gefangen hielt, mit dem Taj in Sicht am Fluss.\n\nHotel in Agra.\n\n**Tag 2: der Taj, dann Fatehpur Sikri**\n\nDer **Taj Mahal** bei Toröffnung, eine halbe Stunde vor Sonnenaufgang.\n\nDann **Fatehpur Sikri**, 40 km westlich. Akbar baute diese Hauptstadt 1571 und gab sie vierzehn Jahre später auf, weil das Wasser ausblieb, und genau deshalb steht sie vollständig: niemand lebte lange genug dort, um sie zu verändern.\n\nDas **Buland Darwaza**, 54 Meter Siegestor, mit einer Inschrift, die Jesus zitiert, in eine Mogulmoschee geschnitten. Der **Panch Mahal** tritt über fünf offene Geschosse zurück, keine zwei Säulen gleich. Der **Diwan-i-Khas** hat einen einzigen geschnitzten Mittelpfeiler, von dem vier Brücken zu den Ecken führen, und dort saß Akbar, während Vertreter verschiedener Glaubensrichtungen um ihn herum stritten. Und der marmorne **Dargah des Salim Chishti**, an dessen Jali-Gittern noch die Fäden hängen, die Menschen knoten, wenn sie um Kinder bitten.\n\nAbends zurück nach Delhi.\n\n**Zwei Optionen**\n\nOhne Unterkunft, oder mit einem Drei-Sterne-Hotel inbegriffen.\n\n**Der Taj ist freitags geschlossen**, die beiden anderen Stätten sind offen.",
+  "highlights": [
+   "Besuch des Taj Mahal bei Sonnenaufgang für unvergessliche Ausblicke."
+  ],
+  "included": [
+   "Professioneller Reiseleiter",
+   "Privater klimatisierter Wagen für die gesamte Aktivität",
+   "Flasche Mineralwasser",
+   "Unterkunft im 3-Sterne-Hotel (optional)",
+   "Frühstück im Hotel",
+   "Alle Mautkosten und Parkgebühren",
+   "Abholung am Hotel"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgabe"
+  ]
+ },
+ "from-delhi-agra-private-taj-mahal-fort-day-tour": {
+  "title": "Ab Delhi und Agra: privater Tag im Wagen zu Taj Mahal und Fort",
+  "metaTitle": "Taj Mahal und Agra Fort: privater Tag im Wagen",
+  "metaDescription": "Ein privater Tag am Taj Mahal und im Agra Fort mit Chauffeur, zwei Optionen ab Agra und drei ab Delhi.",
+  "shortDescription": "Ein privater Tag am Taj Mahal und im Agra Fort mit Chauffeur, zwei Optionen ab Agra und drei ab Delhi.",
+  "fullDescription": "**Fünf Optionen, und worauf es ankommt, ist die Abholstadt**\n\nZwei starten in Agra, drei in Delhi. Das ist das Nützliche hier: Reisende, die das Goldene Dreieck mit dem Zug machen, kommen oft auf eigene Faust in Agra an und brauchen nur den Wagen, den Guide und die Tickets für ein paar Stunden, während andere den ganzen Tag ab einem Hotel in Delhi organisiert haben möchten.\n\nPrüfen Sie, welche Sie buchen.\n\n**Taj Mahal**\n\nShah Jahan begann ihn 1632, im Jahr nachdem Mumtaz Mahal bei der Geburt ihres vierzehnten Kindes gestorben war. Zwanzigtausend Arbeiter, zweiundzwanzig Jahre, und weißer Marmor über 400 km aus Makrana in Rajasthan herangekarrt, ein Stein, der wegen seiner Kalzitreinheit gewählt wurde, und deshalb ist er bis etwa einen Zentimeter tief durchscheinend und scheint im Tagesverlauf die Farbe zu wechseln, statt nur Licht einzufangen.\n\nIhr Guide behandelt die **Kalligrafie**, in immer größeren Buchstaben geschnitten, damit sie vom Boden aus gleich hoch erscheint; die **Pietra-dura**-Einlagen mit bis zu sechzig einzelnen Steinen in einer Blüte; die vier **Minarette**, minimal nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg fallen ließe; und die eine bewusste Asymmetrie, Shah Jahans eigenes Kenotaph, von Aurangzeb nach seinem Tod außerhalb der Mittelachse gesetzt.\n\n**Agra Fort**\n\nAkbars von Mauern umschlossene Stadt von 1565 aus rotem Sandstein, zweieinhalb Kilometer Umfang, mit Shah Jahans Marmorpalästen darin: dem **Diwan-i-Am**, dem **Khas Mahal** und dem **Sheesh Mahal**.\n\nUnd der **Musamman Burj**, der achteckige Turm an der Flussmauer, in dem Aurangzeb seinen Vater die letzten acht Jahre seines Lebens gefangen hielt, den Taj sichtbar am Wasser. Er starb in diesem Raum und wurde über den Fluss getragen, um neben seiner Frau begraben zu werden.\n\n**Fünf Optionen**\n\nAb Agra mit Wagen und Guide; ab Delhi mit Wagen und Guide; ab Agra mit Tickets; ab Delhi mit Tickets; oder ab Delhi mit Wagen, Guide, Tickets und mehr.\n\n**Praktisch**\n\nAcht Stunden plus die Fahrt, die Ihre Option vorsieht. **Der Taj ist freitags geschlossen.**",
+  "highlights": [
+   "Erleben Sie den Sonnenaufgang am Taj Mahal mit privatem Fast-Track-Einlass"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen, überall in Agra, Delhi, Noida oder Gurugram, je nach gewählter Option",
+   "Privater klimatisierter Wagen für alle Besichtigungen und Transfers (Limousine 1-3 Pers., Ertiga 4-6 Pers., Innova Crysta 7+ Pers.)",
+   "Professioneller Reiseleiter vor Ort",
+   "Eintrittskarten für Taj Mahal, Agra Fort und Baby Taj (nur bei gewählter All-inclusive-Option)",
+   "Mittagsbuffet in einem 5-Sterne-Hotel (nur bei gewählter All-inclusive-Option)",
+   "Wasserflaschen, 2 pro Person",
+   "Überschuhe für den Taj Mahal",
+   "Alle Mautkosten, Parkgebühren, Treibstoff, Steuern und die Fahrerpauschale"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für die Monumente bei der Option nur Wagen und Guide",
+   "Mittagessen bei der Option nur Wagen und Guide",
+   "Trinkgelder und Gratifikationen",
+   "Alles, was nicht unter den Leistungen aufgeführt ist"
+  ]
+ },
+ "from-delhi-agra-same-day-trip-by-gatimaan-express": {
+  "title": "Ab Delhi: Agra-Ausflug am selben Tag mit dem Gatimaan Express",
+  "metaTitle": "Delhi-Agra im Gatimaan Express, hin und zurück am selben Tag",
+  "metaDescription": "Agra-Ausflug am selben Tag ab Delhi mit dem Gatimaan Express, mit Frühstück an Bord, Wagen und Guide.",
+  "shortDescription": "Agra-Ausflug in 90 Minuten Zugfahrt ab Delhi mit dem Gatimaan Express, Frühstück an Bord, Wagen und Guide.",
+  "fullDescription": "**8:10 Uhr ab Nizamuddin, und Ihr Fahrer begleitet Sie zum Waggon**\n\nDas praktische Detail, das dies funktionieren lässt: der Fahrer bringt Sie in den Bahnhof und findet Ihren Waggon und Ihren Platz. Indische Bahnhöfe sind nicht intuitiv, die Bahnsteiganzeigen sind knapp, und ein reservierter Waggon in einem vierzehnteiligen Zug steht nie dort, wo man ihn erwartet.\n\nFrühstück wird während der Fahrt an Bord serviert, und der **Gatimaan Express** legt Delhi-Agra in hundert Minuten bei 160 km/h zurück.\n\n**In Agra**\n\nEin Privatwagen und ein lizenzierter Guide für den Tag.\n\n**Taj Mahal.** Shah Jahan begann ihn 1632, im Jahr nachdem Mumtaz Mahal gestorben war. Zweiundzwanzig Jahre, zwanzigtausend Arbeiter, und Marmor über 400 km aus Makrana in Rajasthan herangekarrt.\n\nWas ein Guide Ihnen gibt: die **Kalligrafie** am großen Bogen, in immer größeren Buchstaben geschnitten, damit vom Boden aus jede Zeile gleich hoch erscheint; die **Pietra-dura**-Einlagen mit bis zu sechzig einzelnen Steinen in einer Blüte; die vier **Minarette**, minimal nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg fallen ließe; und die Täuschung am Torbau **Darwaza-i-Rauza**, wo der Taj beim Näherkommen kleiner zu werden scheint.\n\nUnd Shah Jahans eigenes Kenotaph, das einzige Objekt im ganzen Bau, das außerhalb der Mittelachse steht, von Aurangzeb dort hinzugefügt.\n\n**Agra Fort.** Akbars Stadt aus rotem Sandstein von 1565 mit den Marmorpalästen seines Enkels darin, und der **Musamman Burj**, der Turm, in dem dieser Enkel seine letzten acht Jahre als Gefangener seines eigenen Sohnes verbrachte, den Taj sichtbar am Wasser.\n\nMittagessen, dann mit dem abendlichen Gatimaan zurück nach Delhi.\n\n**Drei Optionen**\n\nSitzwagen mit Wagen und Guide; Sitzwagen komplett mit Tickets und Mittagessen; oder Executive-Sitzwagen komplett.\n\n**Praktisch**\n\nNeun Stunden von Tür zu Tür. Der Gatimaan fährt freitags nicht, und das ist auch der Tag, an dem der Taj geschlossen ist.\n\nDie Plätze sind begrenzt und werden zu festen Terminen freigegeben: buchen Sie früh, und nehmen Sie den Pass mit, mit dem Sie gebucht haben.",
+  "highlights": [
+   "Reisen Sie zwischen Delhi und Agra mit Indiens superschnellem Zug, dem Gatimaan Express",
+   "Erreichen Sie Agra von Delhi aus in 90 Minuten mit dem superschnellen Gatimaan-Zug",
+   "Genießen Sie eine unkomplizierte geführte Tour zu Taj Mahal, Agra Fort und Baby Taj"
+  ],
+  "included": [
+   "Bestätigte Zugtickets in Sitzwagen oder Executive-Klasse je nach gewählter Option.",
+   "Abholung und Rückfahrt in Delhi, Noida, Gurugram (falls die Option gewählt wird)",
+   "Transport mit dem Gatimaan Express",
+   "Besichtigungen im privaten klimatisierten Wagen in Agra.",
+   "Privater Reiseleiter für Taj Mahal und Agra Fort.",
+   "Frühstück und Abendessen im Zug",
+   "Eintrittskarten für alle Monumente (bei gewählter Option)",
+   "Mittagessen (bei gewählter Option)",
+   "Wasserflasche"
+  ],
+  "notIncluded": [
+   "Trinkgelder und Gratifikationen",
+   "Eintrittskarten der Monumente (falls die Option nicht gebucht wird)",
+   "Mittagessen (falls die Option nicht gebucht wird)"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Offiziellen Guide für die Erkundung von Bengaluru buchen",
   "metaTitle": "Bengaluru mit Guide: Paläste, Lalbagh, Tempel und Basare",
