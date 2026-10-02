@@ -18966,6 +18966,100 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier cosa no mencionada específicamente en las inclusiones."
   ]
  },
+ "park-ranthambore-full-day-tour": {
+  "title": "Desde Jaipur: Excursión de un día al Parque Nacional de Ranthambore con safari",
+  "metaTitle": "Jaipur: excursión a Ranthambore con safari",
+  "metaDescription": "Una excursión a Ranthambore desde Jaipur con elección de safari en canter, jeep compartido o jeep privado.",
+  "shortDescription": "Una excursión a Ranthambore desde Jaipur con elección de safari en canter, jeep compartido o jeep privado.",
+  "fullDescription": "**Cuatro formas de hacer el mismo safari, y no son equivalentes**\n\n**Canter**: veinte plazas, el más económico, el más ruidoso. En un avistamiento estás mirando por encima de los teléfonos levantados de otras cuatro personas.\n\n**Jeep compartido**: seis plazas, más silencioso, el conductor puede posicionarse para el grupo.\n\n**Jeep privado**: seis plazas y todas son tuyas. Para fotógrafos es la única opción real, el vehículo se detiene donde quieras, el tiempo que quieras.\n\nTambién hay una tarifa solo de coche y conductor si organizas el safari tú mismo.\n\n**El parque**\n\nAntes una reserva de caza de un maharajá, parque nacional desde 1980. 1.300 kilómetros cuadrados de bosque caducifolio seco, pastizales y cresta rocosa, a unos 180 km de Jaipur, tres horas en cada sentido.\n\nUnos setenta tigres viven aquí, y la reputación de Ranthambore se basa en que están inusualmente habituados a los vehículos. Varias de las tigresas residentes han sido fotografiadas tantas veces que se las conoce por su nombre en toda la India.\n\nLos avistamientos son cuestión de suerte. Nadie puede prometer uno.\n\n**Lo que verás en cualquier caso**\n\n**Sambares** de pie hasta el pecho en los lagos comiendo plantas acuáticas, **chitales**, **nilgós**, **langures** dejando caer fruta para los ciervos debajo, jabalíes salvajes, y **cocodrilos de pantano** varados en Padam Talao.\n\nLa avifauna es excelente, águilas culebreras crestadas, cigüeñas pintadas, martines pescadores, y migrantes invernales en los lagos.\n\n**El fuerte de Ranthambore** se alza dentro de la reserva sobre una cresta de 700 pies: siglo décimo, catalogado por la UNESCO, y aún un templo activo al que los peregrinos suben a pie por territorio de tigres.\n\n**Práctico**\n\nLas zonas y permisos los asigna el **departamento forestal**; nadie elige.\n\n**El parque cierra del 1 de julio al 30 de septiembre.** De octubre a abril es la temporada; marzo y abril ofrecen los mejores avistamientos a medida que se seca el agua.\n\nLas mañanas de invierno en un vehículo abierto son frías. Colores apagados, sin perfume, voces bajas.",
+  "highlights": [
+   "Experimenta la cautivadora vida salvaje del Parque Nacional de Ranthambore."
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Jaipur",
+   "Vehículo privado con aire acondicionado para traslado de ida y vuelta",
+   "Safari en jeep o canter en Ranthambore con un guía naturalista",
+   "Gastos de combustible, peajes y tasas",
+   "Agua embotellada proporcionada"
+  ],
+  "notIncluded": [
+   "Cualquier comida y bebida.",
+   "Cualquier gasto personal",
+   "Propinas (opcional)"
+  ]
+ },
+ "private-9-days-rajasthan-tour-from-jaipur": {
+  "title": "Tour privado de 9 días por Rajastán desde Jaipur",
+  "metaTitle": "Jaipur: tour privado de 9 días por Rajastán",
+  "metaDescription": "Nueve días privados desde Jaipur por Udaipur, Jodhpur, Jaisalmer y Bikaner, el circuito completo de Rajastán.",
+  "shortDescription": "Nueve días privados desde Jaipur por Udaipur, Jodhpur, Jaisalmer y Bikaner, el circuito completo de Rajastán.",
+  "fullDescription": "**Nueve días, cinco ciudades, y el desierto al final**\n\nEste es el circuito completo de Rajastán: la ciudad rosa, la ciudad del lago, la ciudad azul, la ciudad dorada, y Bikaner, que casi nadie incluye. Nueve días es lo que exigen las distancias, solo de Jaipur a Jaisalmer hay 560 km.\n\n**Jaipur**\n\n**Fuerte Amber** sobre el lago Maota, el **City Palace**, los instrumentos de piedra del **Jantar Mantar** y el **Hawa Mahal**, además de los bazares donde los talladores de piedras preciosas y fabricantes de pulseras de la ciudad todavía trabajan.\n\n**Udaipur**\n\nEl **City Palace** que recorre casi un kilómetro junto al lago Pichola, construido en partes por veintidós gobernantes a lo largo de cuatro siglos. **Templo Jagdish** de 1651, y **Saheliyon ki Bari**, el jardín de fuentes construido para las cuarenta y ocho asistentes de una reina.\n\nUn paseo en barco al atardecer es lo que la gente describe después, el Lake Palace en medio y los Aravalli oscureciéndose detrás.\n\n**Jodhpur**\n\n**Mehrangarh** se eleva 120 metros directamente desde la roca y nunca fue tomado. El museo en el interior es el mejor gestionado de Rajastán, y las marcas de balas de cañón en la segunda puerta son de un asedio de Jaipur. Debajo, **Jaswant Thada** de mármol lo bastante fino para que pase la luz, y las callejuelas azules alrededor de la torre del reloj.\n\n**Jaisalmer**\n\n**Sonar Quila**, el fuerte dorado de 1156 y uno de los últimos fuertes habitados en la Tierra, unas tres mil personas todavía viven dentro de sus muros. Los **templos jainistas** en su interior están tallados hasta parecer encaje; **Patwon ki Haveli** son cinco mansiones de comerciantes construidas una junto a otra.\n\nLuego las **dunas de Sam** para un paseo en camello al atardecer y una noche bajo el cielo.\n\n**Bikaner**\n\n**Junagarh**, uno de los muy pocos fuertes de Rajastán nunca construidos en una colina, y el **templo de Karni Mata** en Deshnoke, donde varios miles de ratas viven como residentes sagradas, y caminas descalzo entre ellas. No es para todos y es inolvidable.\n\n**Práctico**\n\nVehículo privado con aire acondicionado y conductor durante los nueve días, y guías locales en cada ciudad.\n\nDe octubre a marzo. Los tramos del desierto superan los 45°C desde abril, y las noches de diciembre allí se acercan al punto de congelación.",
+  "highlights": [
+   "Descubre múltiples sitios Patrimonio de la Humanidad de la UNESCO."
+  ],
+  "included": [
+   "Desayuno x 9 días.",
+   "Vehículo con aire acondicionado.",
+   "Transporte privado.",
+   "Peajes, combustible, aparcamiento, dieta del conductor incluidos.",
+   "Alojamiento de 3 estrellas incluido.",
+   "1 noche en el campamento del desierto de Jaisalmer incluida.",
+   "Paseo en camello, safari en jeep y cena de gala en el campamento del desierto incluidos.",
+   "Servicio de guía incluido.",
+   "Visitas incluidas."
+  ],
+  "notIncluded": [
+   "Cualquier tipo de gasto personal no está incluido.",
+   "Cualquier tipo de tasa de entrada no está incluida.",
+   "Almuerzo/cena/bebidas no incluidos."
+  ]
+ },
+ "private-full-day-jaipur-city-tour-with-hotel-pick": {
+  "title": "Tour privado de día completo por la ciudad de Jaipur con recogida y regreso al hotel",
+  "metaTitle": "Jaipur: día privado con hotel, sin colas",
+  "metaDescription": "Un tour privado de día completo por Jaipur con recogida en el hotel o aeropuerto, desde una tarifa de solo guía hasta entradas sin colas.",
+  "shortDescription": "Un tour privado de día completo por Jaipur con recogida en el hotel o aeropuerto, desde una tarifa de solo guía hasta entradas sin colas.",
+  "fullDescription": "**Tres niveles de precio, y el de solo guía es útil**\n\nSi ya tienes un coche y conductor para tu viaje por la India, contratar solo a un guía con licencia de Jaipur para el día es la forma más económica y sensata de ver bien la ciudad, y esa es la primera opción aquí.\n\nLas otras añaden el vehículo, y luego entradas sin colas.\n\n**Por qué saltarse las colas importa en exactamente un lugar**\n\nEl Fuerte Amber. Recibe varios miles de visitantes al día en temporada y la taquilla en la base puede costarte media hora antes de que empieces siquiera la subida. Los demás monumentos rara vez tienen cola.\n\n**Fuerte Amber**\n\nIniciado en 1592 por Raja Man Singh sobre una cresta encima del **lago Maota**, en la arenisca pálida de los Aravalli.\n\nLa puerta pintada **Ganesh Pol**, con una galería enrejada arriba desde la que las mujeres de la corte observaban las llegadas sin ser vistas. El **Sheesh Mahal**, donde miles de fragmentos de espejo convexo en el techo convertían una sola vela en un cielo de estrellas. El **Sukh Niwas**, enfriado por agua que corre por canales tallados en el mármol.\n\nEl patio del **zenana** albergaba doce apartamentos de reinas, dispuestos para que ninguno diera a otro.\n\n**Jal Mahal**\n\nUna parada fotográfica desde la calzada. Cuatro de sus cinco plantas están bajo el agua; no hay barco ni entrada.\n\n**City Palace**\n\nTodavía parcialmente residencia de la antigua familia real, con la armería, las galerías textiles y las dos urnas de plata fundidas para llevar agua del Ganges a Inglaterra.\n\n**Jantar Mantar**\n\nDiecinueve instrumentos astronómicos de mampostería, catalogado por la UNESCO, con un reloj de sol de 27 metros aún preciso hasta unos dos segundos, y que merece un guía, porque sin uno es un campo de formas.\n\n**Hawa Mahal**\n\nLa pantalla de 953 ventanas, desde la calle de enfrente.\n\n**Tres opciones**\n\nSolo guía; coche, conductor y guía sin entradas; o con entradas sin colas.\n\n**Práctico**\n\nOcho horas con recogida en el hotel o aeropuerto. Empieza temprano.",
+  "highlights": [
+   "Explora los emblemáticos lugares de Jaipur en un tour privado de día completo."
+  ],
+  "included": [
+   "Recogida y regreso al aeropuerto/hotel en la ciudad de Jaipur.",
+   "Coche privado con aire acondicionado con conductor profesional.",
+   "Guía turístico en vivo en todos los lugares.",
+   "Tasas de entrada a monumentos (si se reserva la opción).",
+   "Botellas de agua mineral.",
+   "Dietas del conductor.",
+   "Todos los peajes, aparcamiento e impuestos."
+  ],
+  "notIncluded": [
+   "Comidas y bebidas.",
+   "Gastos personales.",
+   "Propinas (opcional)"
+  ]
+ },
+ "private-halffull-day-tour-of-pink-city-jaipur-by": {
+  "title": "Tour privado de medio día/día completo por la Ciudad Rosa de Jaipur en tuk-tuk",
+  "metaTitle": "Jaipur: Ciudad Rosa en tuk-tuk",
+  "metaDescription": "Medio día o día completo de Jaipur en tuk-tuk con un conductor local, con opciones de guía y coche con aire acondicionado.",
+  "shortDescription": "Medio día o día completo de Jaipur en tuk-tuk con un conductor local, con opciones de guía y coche con aire acondicionado.",
+  "fullDescription": "**Un tuk-tuk, con un conductor que vive aquí**\n\nLa forma más económica y honesta de ver Jaipur, y de octubre a marzo la más agradable. Abierto por ambos lados, cabe por callejuelas donde ningún coche puede entrar, y conducido por alguien que sabe en qué puesto de chai merece la pena detenerse.\n\nHay una versión guiada y una versión en coche si prefieres cualquiera de ellas.\n\n**Lo que te ofrece un conductor local**\n\nNo un guion. Un día guiado por el conductor es más libre que uno guiado: obtienes la ciudad tal como la recorre alguien que vive en ella, incluyendo las partes que no son monumentos, el mercado de flores, una tienda de lassi, una callejuela de pulseras, un mirador que le gusta.\n\nSi quieres que la historia se explique bien, toma la opción con un guía también. Si quieres ver cómo funciona la ciudad, el conductor basta.\n\n**La ruta**\n\n**Fuerte Amber** en su cresta sobre el lago Maota, iniciado en 1592, un tuk-tuk sube la pendiente, despacio, lo cual es parte de la diversión.\n\n**Jal Mahal** desde la calzada; cuatro de cinco plantas están bajo el agua y no hay forma de entrar.\n\n**Hawa Mahal**, la pantalla de 953 ventanas de 1799, mejor desde la calle de enfrente por la mañana.\n\n**City Palace** y **Jantar Mantar** en la ciudad vieja, y los bazares alrededor de **Johari** y **Tripolia**, piedras preciosas, pulseras de laca, tela estampada en bloque, zapatillas mojari.\n\nEn el día completo hay espacio para un pozo escalonado o **Nahargarh** al atardecer.\n\n**Cuatro opciones**\n\nMedio día en tuk-tuk con conductor; día completo en tuk-tuk con conductor; día completo en tuk-tuk con conductor y guía; o día completo en coche con aire acondicionado con conductor.\n\n**Práctico**\n\nSiete horas en las versiones de día completo, con recogida en el hotel.\n\nUn tuk-tuk está expuesto al clima y al polvo. De abril a junio toma el coche, el calor de la tarde en Jaipur deja de ser pintoresco y se convierte en un problema.\n\nLas tasas de entrada son aparte: unos ₹1.500 por persona para un adulto extranjero en los principales sitios.",
+  "highlights": [
+   "Explora Jaipur como un local en tuk-tuk"
+  ],
+  "included": [
+   "Recogida y regreso al hotel/estación de tren/estación de autobús en tuk-tuk",
+   "Combustible (gasolina/diésel), tasas de aparcamiento, peajes e impuestos interestatales...",
+   "Agua embotellada",
+   "Visitas por Jaipur en tuk-tuk"
+  ],
+  "notIncluded": [
+   "Tasas de entrada a monumentos/tasas de cámara",
+   "Comidas y gastos personales",
+   "Otras actividades",
+   "Propinas del conductor y del guía"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
