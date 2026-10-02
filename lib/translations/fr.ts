@@ -4090,6 +4090,141 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires et gratifications"
   ]
  },
+ "agra-skip-the-line-taj-mahal-agra-private-tour-tour": {
+  "title": "Agra : visite privée coupe-file du Taj Mahal en voiture (4 heures)",
+  "metaTitle": "Taj Mahal : visite privée de 4 heures en voiture",
+  "metaDescription": "Quatre heures au Taj Mahal avec entrée coupe-file, voiture privée et guide, avec une option fort d'Agra.",
+  "shortDescription": "Quatre heures au Taj Mahal avec entrée coupe-file, voiture privée et guide, avec une option fort d'Agra.",
+  "fullDescription": "**À quoi sert le traitement à l'argile**\n\nSi vous trouvez une partie du marbre sous une bâche, c'est un cataplasme de **multani mitti** : une argile appliquée sur la surface, laissée à sécher, puis décollée, et qui emporte avec elle le jaunissement. C'est la même terre à foulon que les foyers indiens utilisent sur la peau depuis des siècles, et c'est la seule méthode de nettoyage que l'Archaeological Survey autorise sur le Taj.\n\nElle est nécessaire parce que le marbre jaunit. Le dioxyde de soufre et les particules du trafic et de l'industrie réagissent avec la calcite, et en 1996 la Cour suprême a ordonné la fermeture ou la conversion au gaz de centaines de fonderies autour d'Agra pour cette raison. La zone d'exclusion des véhicules que vous traversez à pied pour atteindre la porte vient du même arrêt.\n\nRien de tout cela ne gâche la visite. Cela explique les restrictions.\n\n**La visite**\n\nPrise en charge à votre hôtel, à la gare ou à l'aéroport d'Agra. Entrée coupe-file, vous allez donc au couloir et non au guichet.\n\nShah Jahan a commencé le Taj en 1632, l'année suivant la mort de Mumtaz Mahal en donnant naissance à leur quatorzième enfant. Vingt-deux ans, vingt mille ouvriers, du marbre acheminé sur 400 km depuis Makrana.\n\nVotre guide couvre la **calligraphie** gravée en tailles croissantes pour se lire d'une hauteur égale depuis le sol ; les incrustations de **pietra dura**, jusqu'à soixante pierres dans une seule fleur ; les quatre **minarets**, légèrement inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau ; et la seule asymétrie volontaire, le cénotaphe de Shah Jahan lui-même, ajouté hors de l'axe par son fils.\n\n**Trois options**\n\nVoiture et guide ; voiture, guide et billets d'entrée du Taj ; ou la même chose avec le fort d'Agra en plus.\n\n**Pratique**\n\nQuatre heures. **Le Taj est fermé le vendredi.**\n\nL'entrée est de 1,100 ₹ pour les ressortissants étrangers, plus 200 ₹ pour la chambre du mausolée.\n\nLe dernier tronçon jusqu'à la porte se fait à pied ou en véhicule électrique : les voitures privées s'arrêtent avant la zone d'exclusion, et cela s'applique à tout le monde.",
+  "highlights": [
+   "Découvrez la beauté intemporelle du Taj Mahal avec les éclairages de votre guide expert."
+  ],
+  "included": [
+   "Transport en voiture privée climatisée avec chauffeur",
+   "Guide touristique privé",
+   "Prise en charge et retour à l'hôtel",
+   "Billets d'entrée des monuments (selon l'option choisie)",
+   "Eau en bouteille",
+   "Toutes les taxes et frais."
+  ],
+  "notIncluded": [
+   "Repas",
+   "Tout ce qui n'est pas mentionné dans les prestations incluses"
+  ]
+ },
+ "agra-skip-the-line-taj-mahal-guided-tour-with": {
+  "title": "Agra : visite guidée coupe-file du Taj Mahal, plusieurs options",
+  "metaTitle": "Taj Mahal coupe-file : visite guidée, 6 options",
+  "metaDescription": "Taj Mahal coupe-file avec un guide, en six configurations, du guide seul à une journée complète depuis Delhi avec le fort.",
+  "shortDescription": "Taj Mahal coupe-file avec un guide, en six configurations, du guide seul à une journée complète depuis Delhi avec le fort.",
+  "fullDescription": "**Six options, parce que les gens arrivent ici de six façons différentes**\n\nLisez-les avant de réserver. Certaines partent d'Agra, d'autres de Delhi ; certaines comprennent le billet d'entrée, d'autres seulement le guide. La bonne dépend entièrement de ce que vous avez déjà organisé.\n\nLe tarif guide seul est celui qui sert si vous avez une voiture et un chauffeur pour votre voyage en Inde et qu'il vous faut simplement quelqu'un d'agréé à la porte.\n\n**Coupe-file**\n\nSur les options avec billet, l'entrée est organisée à l'avance et vous allez au couloir plutôt qu'au guichet, ce qui en haute saison fait gagner près d'une heure.\n\nLe contrôle de sécurité s'applique à tout le monde : pas de trépied, pas de drone, pas de nourriture, pas de grands sacs, pas de briquets. Casiers à la porte.\n\n**Taj Mahal**\n\nShah Jahan l'a commencé en 1632, l'année suivant la mort de Mumtaz Mahal en donnant naissance à leur quatorzième enfant. Vingt mille ouvriers, vingt-deux ans, et du marbre blanc charrié sur 400 km depuis Makrana, au Rajasthan.\n\nÀ quoi sert le guide : la **calligraphie** du grand arc, gravée en lettres de plus en plus grandes pour que, depuis le sol, chaque ligne se lise à la même hauteur, et signée, chose rare, par le calligraphe Amanat Khan ; les incrustations de **pietra dura**, où une seule fleur peut compter soixante morceaux de cornaline, de jaspe, de lapis et de jade ; les quatre **minarets**, chacun légèrement incliné vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau ; et l'illusion d'optique à la grande porte, où l'édifice semble rétrécir à mesure qu'on approche.\n\nEt la seule asymétrie volontaire d'une composition symétrique au millimètre : le cénotaphe de Shah Jahan lui-même, placé hors de l'axe central par Aurangzeb.\n\n**Le fort d'Agra**\n\nSur les options les plus complètes : la ville de grès rouge d'Akbar, 1565, avec les palais de marbre de Shah Jahan à l'intérieur, et le **Musamman Burj**, où Aurangzeb a retenu son père prisonnier huit ans, avec le Taj en vue le long du fleuve.\n\n**Pratique**\n\n**Fermé tous les vendredis.** L'entrée pour les ressortissants étrangers est de 1,100 ₹, plus 200 ₹ pour la chambre du mausolée ; le fort d'Agra coûte 650 ₹.",
+  "highlights": [
+   "Admirez la beauté saisissante et le dessin minutieux du Taj Mahal."
+  ],
+  "included": [
+   "Droits d'entrée des monuments (selon l'option choisie)",
+   "Guide touristique privé",
+   "Prise en charge et retour à Agra ou à Delhi (selon l'option choisie)",
+   "Démonstration de marqueterie",
+   "Photos prises par votre guide",
+   "Véhicule privé climatisé",
+   "Surchaussures",
+   "Eau minérale en bouteille"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons alcoolisées",
+   "Pourboires et gratifications (facultatifs)"
+  ]
+ },
+ "agra-street-food-tour-with-spice-market-tuk-tuk": {
+  "title": "Agra : tournée de street food avec marché aux épices et tuk-tuk",
+  "metaTitle": "Agra : street food, marché aux épices et tuk-tuk",
+  "metaDescription": "Une tournée de street food en tuk-tuk dans les marchés et les ruelles aux épices du vieil Agra, dégustations comprises.",
+  "shortDescription": "Une tournée de street food en tuk-tuk dans les marchés et les ruelles aux épices du vieil Agra, avec dégustations. Environ deux heures et demie.",
+  "fullDescription": "**Agra a sa propre cuisine, et ce n'est pas le Taj**\n\nQuatre millions de personnes par an viennent ici et mangent à leur hôtel. La vieille ville derrière le monument a une culture culinaire bien à elle : le moghol des cuisines impériales d'un côté, et la cuisine végétarienne du pays de Braj, juste au nord, de l'autre.\n\nDeux heures et demie en tuk-tuk, qui est le bon véhicule : ouvert, rapide, et capable d'enfiler des ruelles où une voiture ne passe pas.\n\n**Ce que vous allez manger**\n\n**Bedai et jalebi** : c'est le petit-déjeuner d'Agra, et nulle part ailleurs on ne le fait tout à fait ainsi. Le bedai est un pain frit et gonflé farci de lentilles épicées, mangé avec un curry de pommes de terre clair, et la jalebi se mange à côté plutôt qu'après. Le salé et le sucré dans la même bouchée, à sept heures du matin.\n\n**Petha**, la confiserie célèbre de la ville : courge cendrée confite au sirop, vendue nature, sèche, ou imbibée de rose ou de safran. C'est un goût qui s'acquiert, et la bonne n'a rien à voir avec la version en boîte vendue aux portes du monument.\n\n**Dalmoth**, le mélange de lentilles frites épicées qu'Agra exporte dans toute l'Inde, et le **paratha** sorti du tawa avec du beurre blanc.\n\n**Chaat**, **kachori**, et **lassi** dans un kulhad en terre.\n\nSur l'option non végétarienne : **kebabs moghols** et **korma** des ruelles où les recettes descendent directement des cuisines impériales.\n\n**Le marché aux épices**\n\nDes sacs de curcuma, de piment séché, de coriandre et d'asa-fœtida, avec les cours de gros écrits à la craie sur des ardoises. Votre guide vous expliquera à quoi sert chaque chose, ce qui est plus utile qu'il n'y paraît quand la moitié vous est inconnue.\n\n**Trois options**\n\nGuide et tuk-tuk ; la tournée complète de street food ; ou la version non végétarienne.\n\n**Pratique**\n\nSi votre estomac découvre l'Inde, dites-le : votre guide vous orientera vers ce qui est frit sur le moment et servi chaud, qui est la vraie règle. Végétarien du début à la fin, sauf si vous choisissez autrement.",
+  "highlights": [
+   "Découvrez la street food d'Agra lors d'une tournée privée à pied et en rickshaw"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Prise en charge et retour en tuk-tuk privé",
+   "En-cas et douceurs de street food (selon l'option choisie)",
+   "Non végétarien (selon l'option choisie)",
+   "Guide privé agréé",
+   "Tour en rickshaw traditionnel",
+   "Eau minérale fraîche et serviette"
+  ],
+  "notIncluded": [
+   "Gratifications"
+  ]
+ },
+ "agra-sunset-tour-of-taj-mahal-with-skip-the": {
+  "title": "Agra : le Taj Mahal au coucher du soleil avec entrée coupe-file",
+  "metaTitle": "Taj Mahal au coucher du soleil : entrée coupe-file",
+  "metaDescription": "Le Taj Mahal dans la dernière lumière du jour, avec entrée coupe-file, un guide et un arrêt à Mehtab Bagh.",
+  "shortDescription": "Le Taj Mahal dans la dernière lumière du jour, avec entrée coupe-file, un guide et un arrêt à Mehtab Bagh.",
+  "fullDescription": "**L'autre bonne heure**\n\nTout le monde parle du lever du soleil au Taj. Le coucher reçoit moins d'attention et constitue, pour beaucoup, la meilleure visite : vous ne vous levez pas à cinq heures, le marbre prend un ambre chaud plutôt qu'un blanc froid, et la foule s'éclaircit régulièrement vers la fermeture au lieu de s'épaissir.\n\nLa prise en charge a lieu en milieu d'après-midi à votre hôtel ou à la gare.\n\n**Mehtab Bagh d'abord, si le temps le permet**\n\nLe jardin moghol juste en face, de l'autre côté de la Yamuna, aménagé exactement dans l'axe du Taj. C'est de là que viennent les photos du reflet, et c'est le seul endroit où photographier l'édifice avec l'eau et sans foule dans le cadre.\n\n**Puis le monument**\n\nL'entrée coupe-file vous met dans le couloir le plus court à la porte. Le contrôle de sécurité s'applique quand même à tout le monde, et la liste de ce qui ne peut pas entrer est stricte : pas de trépied, pas de drone, pas de nourriture, pas de grands sacs.\n\nÀ l'intérieur, votre guide couvre ce qui justifie la réputation plutôt que de réciter des dates : la **calligraphie** dimensionnée pour se lire d'une hauteur égale depuis le sol ; les incrustations de **pietra dura**, où une seule fleur porte des dizaines de pierres ; les **minarets** inclinés vers l'extérieur pour qu'un séisme les éloigne du tombeau ; l'illusion d'optique à la porte **Darwaza-i-Rauza**, où le Taj semble rétrécir à mesure qu'on approche.\n\nEt la seule asymétrie d'un édifice obsédé par la symétrie : le cénotaphe de Shah Jahan, placé à côté de celui de sa femme par Aurangzeb, hors de l'axe central.\n\n**Quand la lumière s'en va**\n\nLa dernière demi-heure avant la fermeture est la raison d'être ici. Le marbre est assez translucide pour garder la couleur après que le soleil l'a quitté, et le dôme passe de l'or au rose puis au gris.\n\n**Pratique**\n\n**Fermé le vendredi.** La dernière entrée est avant le coucher du soleil, et non à ce moment-là, et elle se déplace au fil de l'année : l'horaire de la visite est calé sur la date. L'entrée pour les ressortissants étrangers est de 1,100 ₹, plus 200 ₹ pour la chambre du mausolée.",
+  "highlights": [
+   "Entrée coupe-file : évitez les longues files avec des billets prioritaires."
+  ],
+  "included": [
+   "Guide touristique professionnel",
+   "Voiture privée climatisée pour toute la durée de l'activité",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement",
+   "Billets d'entrée"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "agra-taj-mahal-agra-fort-baby-taj-guided-day": {
+  "title": "Agra : Taj Mahal, fort d'Agra et Baby Taj en visite guidée",
+  "metaTitle": "Taj Mahal, fort d'Agra et Baby Taj : visite guidée",
+  "metaDescription": "Quatre heures entre le Taj Mahal, le fort d'Agra et le Baby Taj avec un guide, options billets et départ de Delhi.",
+  "shortDescription": "Quatre heures entre le Taj Mahal, le fort d'Agra et le Baby Taj avec un guide, avec options billets et départ de Delhi.",
+  "fullDescription": "**Trois édifices, et c'est celui du milieu qui enseigne**\n\nLe **Baby Taj** est la raison de choisir une visite qui comprend les trois plutôt que les deux habituels.\n\nNur Jahan a fait construire **Itimad-ud-Daulah** pour son père entre 1622 et 1628. C'est le premier édifice moghol entièrement en marbre blanc, tout ce qui l'a précédé était en grès rouge avec des bordures de marbre, et le premier en Inde à utiliser la **pietra dura**, la pierre incrustée à fleur dans la surface de marbre.\n\nLe Taj a été commencé quatre ans après son achèvement. Toutes les techniques du grand édifice apparaissent d'abord sur le petit, à une échelle qu'une famille fortunée pouvait se permettre, et la marqueterie y est plus dense et plus fine que tout ce que porte son célèbre descendant.\n\nIl est aussi presque toujours vide. Vous pouvez vous tenir seul au milieu du jardin.\n\n**Taj Mahal**\n\nShah Jahan l'a commencé en 1632. Vingt-deux ans, vingt mille ouvriers, du marbre acheminé sur 400 km depuis Makrana.\n\nLa **calligraphie** gravée en tailles croissantes pour se lire d'une hauteur égale depuis le sol. La **pietra dura**, jusqu'à soixante pierres par fleur. Les quatre **minarets** inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau. Et la seule asymétrie, le cénotaphe de Shah Jahan lui-même, ajouté hors de l'axe par son fils.\n\n**Le fort d'Agra**\n\nLa ville de grès rouge d'Akbar, 1565, le marbre de Shah Jahan à l'intérieur, et le **Musamman Burj** où il est mort prisonnier de son propre fils, avec le Taj en vue le long du fleuve.\n\n**Quatre options**\n\nVisite guidée sans billets ; avec billets ; avec billets et un repas cinq étoiles ; ou une version au départ de Delhi, tout compris.\n\n**Pratique**\n\nEnviron quatre heures depuis une prise en charge à l'hôtel à Agra.\n\n**Le Taj est fermé le vendredi** ; le fort et le Baby Taj sont ouverts tous les jours, et une version du vendredi fonctionne donc quand même.",
+  "highlights": [
+   "Visitez le Taj Mahal et découvrez sa riche histoire et son architecture."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel disponibles",
+   "Voiture privée climatisée avec chauffeur",
+   "Billets d'entrée (selon l'option choisie)",
+   "Déjeuner 5 étoiles (selon l'option choisie)",
+   "Guide professionnel",
+   "Bouteille d'eau minérale",
+   "Toutes les taxes et frais applicables"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "agra-taj-mahal-agra-fort-skip-the-line-private": {
+  "title": "Agra : visite privée coupe-file du Taj Mahal et du fort d'Agra",
+  "metaTitle": "Taj Mahal et fort d'Agra : visite privée coupe-file",
+  "metaDescription": "Taj Mahal et fort d'Agra avec entrée coupe-file et un guide, au départ d'Agra ou de Delhi, aide photo comprise.",
+  "shortDescription": "Taj Mahal et fort d'Agra avec entrée coupe-file et un guide, au départ d'Agra ou de Delhi, aide photo comprise.",
+  "fullDescription": "**Votre guide prend les photos**\n\nUn petit détail qui change vraiment quelque chose : les guides de cette visite vous photographient aux emplacements classiques plutôt que de vous laisser confier votre téléphone à un inconnu. Ce n'est pas une séance professionnelle, et pour la plupart des gens cela suffit.\n\n**Coupe-file**\n\nL'entrée est organisée à l'avance, vous allez donc au couloir plutôt qu'au guichet. Le contrôle passe tout le monde quoi qu'il arrive : pas de trépied, pas de drone, pas de nourriture, pas de grands sacs, et il y a des casiers à la porte.\n\n**Taj Mahal**\n\nShah Jahan l'a commencé en 1632, l'année suivant la mort de Mumtaz Mahal en donnant naissance à leur quatorzième enfant. Vingt mille ouvriers, vingt-deux ans, du marbre acheminé sur 400 km depuis Makrana, au Rajasthan, une pierre choisie pour la pureté de sa calcite, et c'est pourquoi elle est translucide sur environ un centimètre et semble changer de couleur au fil de la journée.\n\nVotre guide couvre la **calligraphie** gravée en lettres de plus en plus grandes pour se lire d'une hauteur égale depuis le sol ; les incrustations de **pietra dura**, avec jusqu'à soixante morceaux de pierre dans une seule fleur ; les quatre **minarets**, inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau ; et la seule asymétrie, le cénotaphe de Shah Jahan lui-même, placé hors de l'axe central par son fils.\n\n**Le fort d'Agra**\n\nUne ville fortifiée plutôt qu'un fort : deux kilomètres et demi de grès rouge commencés par Akbar en 1565, avec un double fossé et une porte coudée pour que les éléphants de guerre ne puissent pas la charger en ligne droite.\n\nÀ l'intérieur, le marbre de Shah Jahan, le **Diwan-i-Am**, le **Khas Mahal**, le **Sheesh Mahal**, et le **Musamman Burj**, où Aurangzeb l'a enfermé huit ans avec le Taj visible le long du fleuve.\n\n**Cinq options**\n\nTaj seul avec voiture et guide au départ d'Agra ; Taj et fort avec voiture et guide ; Taj avec entrée comprise ; Taj et fort avec entrées ; ou une journée au départ de Delhi avec voiture, guide et entrées.\n\n**Pratique**\n\nQuatre heures sur les options au départ d'Agra. **Le Taj est fermé le vendredi** ; le fort est ouvert tous les jours.",
+  "highlights": [
+   "Découvrez le Taj Mahal et le fort d'Agra en toute aisance lors d'une visite privée"
+  ],
+  "included": [
+   "Billets pour le Taj Mahal et le fort d'Agra (si l'option est choisie)",
+   "Visite privée",
+   "Prise en charge et retour depuis Agra ou Delhi (selon l'option qui vous convient)",
+   "Voiture privée climatisée",
+   "Guide touristique professionnel",
+   "Votre guide vous emmènera aussi voir une démonstration de marqueterie",
+   "Votre guide prendra vos photos dignes des réseaux sociaux",
+   "Surchaussures et bouteilles d'eau",
+   "Tous les péages, taxes et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons alcoolisées",
+   "Dépenses personnelles"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Réservez un guide officiel pour explorer Bengaluru",
   "metaTitle": "Bengaluru avec guide : palais, Lalbagh, temples et bazars",

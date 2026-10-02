@@ -4090,6 +4090,141 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder und Gratifikationen"
   ]
  },
+ "agra-skip-the-line-taj-mahal-agra-private-tour-tour": {
+  "title": "Agra: private Tour ohne Anstehen zum Taj Mahal im Wagen (4 Stunden)",
+  "metaTitle": "Taj Mahal: private 4-Stunden-Tour im Wagen",
+  "metaDescription": "Vier Stunden am Taj Mahal mit Einlass ohne Anstehen, Privatwagen und Guide, mit einer Agra-Fort-Option.",
+  "shortDescription": "Vier Stunden am Taj Mahal mit Einlass ohne Anstehen, Privatwagen und Guide, mit einer Agra-Fort-Option.",
+  "fullDescription": "**Worum es bei der Lehmpackung geht**\n\nWenn Sie einen Teil des Marmors unter Planen finden, ist das eine **Multani-mitti**-Packung: ein Tonbrei, auf die Fläche aufgetragen, trocknen gelassen und abgezogen, der die Verfärbung mit herauszieht. Es ist dieselbe Heilerde, die indische Haushalte seit Jahrhunderten auf der Haut verwenden, und es ist die einzige Reinigungsmethode, die der Archaeological Survey am Taj erlaubt.\n\nSie ist nötig, weil der Marmor vergilbt. Schwefeldioxid und Partikel aus Verkehr und Industrie reagieren mit dem Kalzit, und 1996 ordnete der Oberste Gerichtshof deswegen an, Hunderte Gießereien rund um Agra zu schließen oder auf Gas umzustellen. Die Fahrzeugsperrzone, durch die Sie zu Fuß zum Tor gehen, stammt aus demselben Urteil.\n\nNichts davon verdirbt den Besuch. Es erklärt die Einschränkungen.\n\n**Die Tour**\n\nAbholung an Ihrem Hotel, am Bahnhof oder am Flughafen in Agra. Einlass ohne Anstehen, Sie gehen also zur Spur und nicht zur Kasse.\n\nShah Jahan begann den Taj 1632, im Jahr nachdem Mumtaz Mahal bei der Geburt ihres vierzehnten Kindes gestorben war. Zweiundzwanzig Jahre, zwanzigtausend Arbeiter, Marmor über 400 km von Makrana herangekarrt.\n\nIhr Guide behandelt die **Kalligrafie**, in wachsenden Größen geschnitten, damit sie vom Boden aus gleich hoch erscheint; die **Pietra-dura**-Einlagen mit bis zu sechzig Steinen in einer Blüte; die vier **Minarette**, minimal nach außen geneigt, damit ein Erdbeben sie neben das Grabmal fallen ließe; und die eine bewusste Asymmetrie, Shah Jahans eigenes Kenotaph, von seinem Sohn außerhalb der Achse hinzugefügt.\n\n**Drei Optionen**\n\nWagen und Guide; Wagen, Guide und Taj-Eintrittskarten; oder dasselbe mit dem Agra Fort dazu.\n\n**Praktisch**\n\nVier Stunden. **Der Taj ist freitags geschlossen.**\n\nDer Eintritt beträgt 1,100 ₹ für ausländische Staatsangehörige, plus 200 ₹ für die Grabkammer.\n\nDas letzte Stück zum Tor geht zu Fuß oder mit einem Elektrofahrzeug: Privatwagen halten vor der Sperrzone, und das gilt für alle.",
+  "highlights": [
+   "Entdecken Sie die zeitlose Schönheit des Taj Mahal mit dem Wissen Ihres erfahrenen Guides."
+  ],
+  "included": [
+   "Transport im privaten klimatisierten Wagen mit Fahrer",
+   "Privater Reiseleiter",
+   "Abholung und Rückfahrt am Hotel",
+   "Eintrittskarten für die Monumente (bei gewählter Option)",
+   "Wasser in Flaschen",
+   "Alle Steuern und Gebühren."
+  ],
+  "notIncluded": [
+   "Mahlzeit",
+   "Alles, was nicht unter den Leistungen aufgeführt ist"
+  ]
+ },
+ "agra-skip-the-line-taj-mahal-guided-tour-with": {
+  "title": "Agra: Führung ohne Anstehen zum Taj Mahal, mehrere Optionen",
+  "metaTitle": "Taj Mahal ohne Anstehen: Führung mit 6 Optionen",
+  "metaDescription": "Taj Mahal ohne Anstehen mit Guide, in sechs Varianten, von nur Guide bis zum ganzen Tag ab Delhi mit dem Fort.",
+  "shortDescription": "Taj Mahal ohne Anstehen mit Guide, in sechs Varianten, von nur Guide bis zum ganzen Tag ab Delhi mit dem Fort.",
+  "fullDescription": "**Sechs Optionen, weil Menschen auf sechs verschiedene Weisen hier ankommen**\n\nLesen Sie sie vor dem Buchen. Manche starten in Agra, manche in Delhi; manche enthalten die Eintrittskarte, manche nur den Guide. Die richtige hängt ganz davon ab, was Sie schon organisiert haben.\n\nDer Tarif mit nur Guide ist der nützliche, wenn Sie für Ihre Indienreise Wagen und Fahrer haben und am Tor einfach jemanden mit Lizenz brauchen.\n\n**Ohne Anstehen**\n\nBei den Optionen mit Ticket ist der Einlass vorab geregelt, und Sie gehen zur Spur statt zur Kasse, was in der Saison gut eine Stunde spart.\n\nDie Kontrolle gilt für alle: keine Stative, keine Drohnen, kein Essen, keine großen Taschen, keine Feuerzeuge. Schließfächer am Tor.\n\n**Taj Mahal**\n\nShah Jahan begann ihn 1632, im Jahr nachdem Mumtaz Mahal bei der Geburt ihres vierzehnten Kindes gestorben war. Zwanzigtausend Arbeiter, zweiundzwanzig Jahre, und weißer Marmor über 400 km aus Makrana in Rajasthan.\n\nWozu der Guide da ist: die **Kalligrafie** am großen Bogen, in immer größeren Buchstaben geschnitten, damit vom Boden aus jede Zeile gleich hoch erscheint, und ungewöhnlicherweise signiert, vom Kalligrafen Amanat Khan; die **Pietra-dura**-Einlagen, bei denen eine einzige Blüte sechzig Stücke Karneol, Jaspis, Lapis und Jade halten kann; die vier **Minarette**, jedes minimal nach außen geneigt, damit ein Erdbeben sie neben das Grabmal fallen ließe; und der optische Trick am Torbau, wo der Bau beim Näherkommen kleiner zu werden scheint.\n\nUnd die eine bewusste Asymmetrie in einer millimetergenau gespiegelten Komposition: Shah Jahans eigenes Kenotaph, von Aurangzeb außerhalb der Mittelachse gesetzt.\n\n**Agra Fort**\n\nBei den umfassenderen Optionen: Akbars Stadt aus rotem Sandstein von 1565 mit Shah Jahans Marmorpalästen darin, und der **Musamman Burj**, wo Aurangzeb seinen Vater acht Jahre gefangen hielt, mit dem Taj in Sicht am Fluss.\n\n**Praktisch**\n\n**Jeden Freitag geschlossen.** Der Eintritt für ausländische Staatsangehörige beträgt 1,100 ₹ plus 200 ₹ für die Grabkammer; das Agra Fort kostet 650 ₹.",
+  "highlights": [
+   "Bewundern Sie die überwältigende Schönheit und den feinen Entwurf des Taj Mahal."
+  ],
+  "included": [
+   "Eintrittsgebühren der Monumente (bei gewählter Option)",
+   "Privater Reiseleiter",
+   "Abholung und Rückfahrt in Agra oder Delhi (je nach gewählter Option)",
+   "Vorführung von Einlegearbeit",
+   "Von Ihrem Guide aufgenommene Fotos",
+   "Privates klimatisiertes Fahrzeug",
+   "Überschuhe",
+   "Mineralwasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Essen und alkoholische Getränke",
+   "Trinkgelder und Gratifikationen (freiwillig)"
+  ]
+ },
+ "agra-street-food-tour-with-spice-market-tuk-tuk": {
+  "title": "Agra: Streetfood-Tour mit Gewürzmarkt und Tuk-Tuk",
+  "metaTitle": "Agra: Streetfood, Gewürzmarkt und Tuk-Tuk",
+  "metaDescription": "Eine Streetfood-Tour per Tuk-Tuk durch die Märkte und Gewürzgassen der Altstadt von Agra, mit Kostproben.",
+  "shortDescription": "Eine Streetfood-Tour per Tuk-Tuk durch die Märkte und Gewürzgassen der Altstadt von Agra, mit Kostproben. Rund zweieinhalb Stunden.",
+  "fullDescription": "**Agra hat seine eigene Küche, und das ist nicht der Taj**\n\nVier Millionen Menschen im Jahr kommen hierher und essen im Hotel. Die Altstadt hinter dem Monument hat eine eigene Esskultur: auf der einen Seite das Mogulische aus den kaiserlichen Küchen, auf der anderen die vegetarische Küche des Braj-Landes gleich im Norden.\n\nZweieinhalb Stunden per Tuk-Tuk, und das ist das richtige Fahrzeug: offen, flink, und in Gassen zu Hause, in die ein Auto nicht kommt.\n\n**Was Sie essen werden**\n\n**Bedai und Jalebi**: das ist das Frühstück von Agra, und nirgendwo sonst macht man es genau so. Bedai ist ein aufgegangenes, frittiertes Brot mit gewürzter Linsenfüllung, gegessen mit einem dünnen Kartoffelcurry, und die Jalebi isst man daneben statt danach. Salz und Zucker im selben Bissen, um sieben Uhr morgens.\n\n**Petha**, die berühmte Süßigkeit der Stadt: Wachskürbis in Zuckersirup kandiert, pur, trocken oder in Rosen- oder Safranwasser getränkt verkauft. Es ist ein erworbener Geschmack, und das gute Zeug hat nichts mit der Schachtelware an den Toren des Monuments zu tun.\n\n**Dalmoth**, die gewürzte frittierte Linsenmischung, die Agra in ganz Indien verkauft, und **Paratha** vom Tawa mit weißer Butter.\n\n**Chaat**, **Kachori**, und **Lassi** im Tonbecher.\n\nBei der nicht vegetarischen Option: **Mogul-Kebabs** und **Korma** aus den Gassen, wo die Rezepte unmittelbar von den kaiserlichen Küchen abstammen.\n\n**Der Gewürzmarkt**\n\nSäcke mit Kurkuma, getrockneten Chilis, Koriander und Asant, mit den Großhandelspreisen auf Tafeln gekreidet. Ihr Guide erklärt, wofür jede Sache gut ist, was nützlicher ist, als es klingt, wenn die Hälfte unbekannt ist.\n\n**Drei Optionen**\n\nGuide und Tuk-Tuk; die ganze Streetfood-Tour; oder die nicht vegetarische Fassung.\n\n**Praktisch**\n\nWenn Ihr Magen Indien noch nicht kennt, sagen Sie es: Ihr Guide lenkt Sie zu dem, was frisch frittiert und heiß ist, und das ist die eigentliche Regel. Durchgehend vegetarisch, sofern Sie nicht anders wählen.",
+  "highlights": [
+   "Entdecken Sie Agras Streetfood auf einer privaten Tour zu Fuß und per Rikscha"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel",
+   "Abholung und Rückfahrt im privaten Tuk-Tuk",
+   "Streetfood-Snacks und Süßigkeiten (bei gewählter Option)",
+   "Nicht vegetarisch (bei gewählter Option)",
+   "Privater lizenzierter Guide",
+   "Fahrt in einer traditionellen Rikscha",
+   "Kaltes Mineralwasser und Serviette"
+  ],
+  "notIncluded": [
+   "Gratifikationen"
+  ]
+ },
+ "agra-sunset-tour-of-taj-mahal-with-skip-the": {
+  "title": "Agra: Taj Mahal bei Sonnenuntergang mit Einlass ohne Anstehen",
+  "metaTitle": "Taj Mahal bei Sonnenuntergang: Einlass ohne Anstehen",
+  "metaDescription": "Der Taj Mahal im letzten Licht des Tages, mit Einlass ohne Anstehen, Guide und einem Halt in Mehtab Bagh.",
+  "shortDescription": "Der Taj Mahal im letzten Licht des Tages, mit Einlass ohne Anstehen, einem Guide und einem Halt in Mehtab Bagh.",
+  "fullDescription": "**Die andere gute Stunde**\n\nAlle reden vom Sonnenaufgang am Taj. Der Sonnenuntergang bekommt weniger Aufmerksamkeit und ist für viele der bessere Besuch: Sie stehen nicht um fünf auf, der Marmor nimmt ein warmes Amber an statt kaltes Weiß, und die Menge dünnt gegen Schließung stetig aus statt zuzunehmen.\n\nDie Abholung ist am mittleren Nachmittag an Ihrem Hotel oder am Bahnhof.\n\n**Zuerst Mehtab Bagh, wenn die Zeit reicht**\n\nDer Mogulgarten direkt gegenüber am anderen Ufer der Yamuna, genau auf die Achse des Taj angelegt. Von hier kommen die Spiegelungsfotos, und es ist der einzige Ort, an dem Sie den Bau mit Wasser und ohne Menge im Bild fotografieren können.\n\n**Dann das Monument**\n\nDer Einlass ohne Anstehen bringt Sie am Tor in die kürzere Spur. Die Kontrolle gilt dennoch für alle, und die Liste dessen, was nicht hinein darf, ist streng: keine Stative, keine Drohnen, kein Essen, keine großen Taschen.\n\nInnen behandelt Ihr Guide, was den Ruf trägt, statt Daten aufzuzählen: die **Kalligrafie**, so bemessen, dass sie vom Boden aus gleich hoch erscheint; die **Pietra-dura**-Einlagen, bei denen einzelne Blüten Dutzende Steine tragen; die **Minarette**, nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg fallen ließe; die optische Täuschung am Torbau **Darwaza-i-Rauza**, wo der Taj beim Näherkommen kleiner zu werden scheint.\n\nUnd die eine Asymmetrie in einem Bau, der von Symmetrie besessen ist: Shah Jahans Kenotaph, von Aurangzeb neben das seiner Frau gesetzt, außerhalb der Mittelachse.\n\n**Wenn das Licht geht**\n\nDie letzte halbe Stunde vor Schließung ist der Grund, hier zu sein. Der Marmor ist durchscheinend genug, um Farbe zu halten, nachdem die Sonne ihn verlassen hat, und die Kuppel geht von Gold zu Rosa zu Grau.\n\n**Praktisch**\n\n**Freitags geschlossen.** Der letzte Einlass ist vor Sonnenuntergang, nicht zu ihm, und er wandert über das Jahr: die Tour ist auf das Datum abgestimmt. Der Eintritt für ausländische Staatsangehörige beträgt 1,100 ₹, plus 200 ₹ für die Grabkammer.",
+  "highlights": [
+   "Einlass ohne Anstehen: Umgehen Sie mit Vorzugstickets die langen Schlangen."
+  ],
+  "included": [
+   "Professioneller Reiseleiter",
+   "Privater klimatisierter Wagen für die gesamte Aktivität",
+   "Flasche Mineralwasser",
+   "Alle Mautkosten und Parkgebühren",
+   "Eintrittskarten"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgabe"
+  ]
+ },
+ "agra-taj-mahal-agra-fort-baby-taj-guided-day": {
+  "title": "Agra: Taj Mahal, Agra Fort und Baby Taj als Tagesführung",
+  "metaTitle": "Taj Mahal, Agra Fort und Baby Taj: Tagesführung",
+  "metaDescription": "Vier Stunden für Taj Mahal, Agra Fort und den Baby Taj mit Guide, mit Ticket- und Delhi-Start-Optionen.",
+  "shortDescription": "Vier Stunden für Taj Mahal, Agra Fort und den Baby Taj mit Guide, mit Ticket- und Delhi-Start-Optionen.",
+  "fullDescription": "**Drei Bauten, und der mittlere ist die Lehre**\n\nDer **Baby Taj** ist der Grund, eine Tour mit allen drei statt der üblichen zwei zu nehmen.\n\nNur Jahan ließ **Itimad-ud-Daulah** zwischen 1622 und 1628 für ihren Vater errichten. Es ist das erste Mogulbauwerk ganz aus weißem Marmor, alles davor war roter Sandstein mit Marmorzier, und das erste in Indien, das **Pietra dura** verwendet: Stein, bündig in die Marmorfläche eingelegt.\n\nDer Taj wurde vier Jahre nach seiner Fertigstellung begonnen. Jede Technik des größeren Baus erscheint zuerst am kleineren, in einem Maßstab, den eine reiche Familie bezahlen konnte, und die Einlegearbeit ist hier dichter und feiner als alles an seinem berühmten Nachfahren.\n\nEr ist außerdem fast immer leer. Sie können allein mitten im Garten stehen.\n\n**Taj Mahal**\n\nShah Jahan begann ihn 1632. Zweiundzwanzig Jahre, zwanzigtausend Arbeiter, Marmor über 400 km von Makrana herangekarrt.\n\nDie **Kalligrafie**, in wachsenden Größen geschnitten, damit sie vom Boden aus gleich hoch erscheint. Die **Pietra dura** mit bis zu sechzig Steinen pro Blüte. Die vier **Minarette**, nach außen geneigt, damit ein Erdbeben sie neben das Grabmal fallen ließe. Und die einzige Asymmetrie, Shah Jahans eigenes Kenotaph, von seinem Sohn außerhalb der Achse hinzugefügt.\n\n**Agra Fort**\n\nAkbars Stadt aus rotem Sandstein von 1565, Shah Jahans Marmor darin, und der **Musamman Burj**, wo er als Gefangener seines eigenen Sohnes starb, mit dem Taj in Sicht flussabwärts.\n\n**Vier Optionen**\n\nFührung ohne Tickets; mit Tickets; mit Tickets und einem Fünf-Sterne-Essen; oder eine Fassung ab Delhi mit allem inklusive.\n\n**Praktisch**\n\nRund vier Stunden ab Hotelabholung in Agra.\n\n**Der Taj ist freitags geschlossen**; das Fort und der Baby Taj sind täglich offen, eine Freitagsfassung dieser Tour funktioniert also trotzdem.",
+  "highlights": [
+   "Besuchen Sie den Taj Mahal und entdecken Sie seine reiche Geschichte und Architektur."
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel verfügbar",
+   "Privater klimatisierter Wagen mit Fahrer",
+   "Eintrittskarten (bei gewählter Option)",
+   "5-Sterne-Mittagessen (bei gewählter Option)",
+   "Professioneller Guide",
+   "Flasche Mineralwasser",
+   "Alle anfallenden Steuern und Gebühren"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "agra-taj-mahal-agra-fort-skip-the-line-private": {
+  "title": "Agra: private Tour ohne Anstehen zu Taj Mahal und Agra Fort",
+  "metaTitle": "Taj Mahal und Agra Fort: private Tour ohne Anstehen",
+  "metaDescription": "Taj Mahal und Agra Fort mit Einlass ohne Anstehen und Guide, ab Agra oder Delhi, Fotohilfe inbegriffen.",
+  "shortDescription": "Taj Mahal und Agra Fort mit Einlass ohne Anstehen und Guide, ab Agra oder Delhi, Fotohilfe inbegriffen.",
+  "fullDescription": "**Ihr Guide macht die Fotos**\n\nEine Kleinigkeit, die wirklich etwas ändert: die Guides dieser Tour fotografieren Sie an den üblichen Standorten, statt Sie Ihr Telefon einem Fremden zu geben zu lassen. Es ist kein professionelles Shooting, und für die meisten reicht es.\n\n**Ohne Anstehen**\n\nDer Einlass ist vorab geregelt, Sie gehen also zur Spur statt zur Kasse. Die Kontrolle prüft dennoch jeden: keine Stative, keine Drohnen, kein Essen, keine großen Taschen, und am Tor gibt es Schließfächer.\n\n**Taj Mahal**\n\nShah Jahan begann ihn 1632, im Jahr nachdem Mumtaz Mahal bei der Geburt ihres vierzehnten Kindes gestorben war. Zwanzigtausend Arbeiter, zweiundzwanzig Jahre, Marmor über 400 km aus Makrana in Rajasthan, ein Stein, der wegen seiner Kalzitreinheit gewählt wurde, und deshalb ist er bis etwa einen Zentimeter tief durchscheinend und scheint im Tagesverlauf die Farbe zu wechseln.\n\nIhr Guide behandelt die **Kalligrafie**, in immer größeren Buchstaben geschnitten, damit sie vom Boden aus gleich hoch erscheint; die **Pietra-dura**-Einlagen, mit bis zu sechzig Steinstücken in einer Blüte; die vier **Minarette**, nach außen geneigt, damit ein Erdbeben sie neben das Grabmal fallen ließe; und die eine Asymmetrie, Shah Jahans eigenes Kenotaph, von seinem Sohn außerhalb der Mittelachse gesetzt.\n\n**Agra Fort**\n\nEher eine von Mauern umschlossene Stadt als ein Fort: zweieinhalb Kilometer roter Sandstein, 1565 von Akbar begonnen, mit doppeltem Graben und einem abgewinkelten Tor, damit Kriegselefanten es nicht in gerader Linie rammen konnten.\n\nDarin Shah Jahans Marmor, der **Diwan-i-Am**, der **Khas Mahal**, der **Sheesh Mahal**, und der **Musamman Burj**, wo Aurangzeb ihn acht Jahre gefangen hielt, mit dem Taj sichtbar flussabwärts.\n\n**Fünf Optionen**\n\nNur Taj mit Wagen und Guide ab Agra; Taj und Fort mit Wagen und Guide; Taj mit Eintritt; Taj und Fort mit Eintritten; oder ein Tag ab Delhi mit Wagen, Guide und Eintritten.\n\n**Praktisch**\n\nVier Stunden bei den Agra-Optionen. **Der Taj ist freitags geschlossen**; das Fort ist täglich offen.",
+  "highlights": [
+   "Entdecken Sie Taj Mahal und Agra Fort bequem und entspannt auf einer privaten Tour"
+  ],
+  "included": [
+   "Tickets für Taj Mahal und Agra Fort (bei gewählter Option)",
+   "Private Tour",
+   "Abholung und Rückfahrt ab Agra oder Delhi (je nach der für Sie passenden Option)",
+   "Privater klimatisierter Wagen",
+   "Professioneller Reiseleiter",
+   "Unser Guide zeigt Ihnen zudem eine Vorführung von Einlegearbeit",
+   "Unser Guide macht Ihre Fotos für die sozialen Medien",
+   "Überschuhe und Wasserflaschen",
+   "Alle Mautkosten, Steuern und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Essen und alkoholische Getränke",
+   "Persönliche Ausgaben"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Offiziellen Guide für die Erkundung von Bengaluru buchen",
   "metaTitle": "Bengaluru mit Guide: Paläste, Lalbagh, Tempel und Basare",
