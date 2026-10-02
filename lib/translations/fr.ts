@@ -5888,6 +5888,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Gratification (pourboire)"
   ]
  },
+ "kannauj-perfume-workshop-and-same-day-tour-from-ag": {
+  "title": "Atelier de parfumerie à Kannauj et excursion dans la journée depuis Agra",
+  "metaTitle": "Agra-Kannauj : atelier de parfumerie dans la journée",
+  "metaDescription": "Une journée d'Agra à Kannauj, capitale du parfum en Inde, distilleries d'attar, champs de fleurs et un mélange personnalisé à emporter.",
+  "shortDescription": "Une journée d'Agra à Kannauj, capitale du parfum en Inde, distilleries d'attar, champs de fleurs et un mélange personnalisé à emporter.",
+  "fullDescription": "**D'où vient réellement le parfum indien**\n\nKannauj distille l'attar depuis environ quinze cents ans. La ville se trouve dans la plaine du Gange, à environ 250 km à l'est d'Agra, et toute son économie repose sur la transformation des fleurs en huile par une méthode qui a à peine changé depuis les Moghols.\n\nC'est une sortie insolite, et c'est la seule de ce genre sur cet itinéraire.\n\n**Deg-bhapka**\n\nLa technique est une hydrodistillation dans le cuivre. Les fleurs entrent dans un alambic de cuivre, le **deg**, sur un feu de bois avec de l'eau. La vapeur traverse un tuyau de bambou jusqu'à un récepteur, le **bhapka**, placé dans un bassin de refroidissement et contenant déjà de l'huile de santal. Le parfum se condense directement dans l'huile plutôt que dans l'eau.\n\nPas d'électricité, pas de thermomètres. Le distillateur juge la chaleur au son du feu et au toucher du cuivre, et un seul lot peut durer plusieurs jours.\n\nLe santal comme base est la raison pour laquelle les attars indiens se comportent différemment des parfums français : pas d'alcool, donc rien ne s'évapore d'un coup, et le parfum se développe sur la peau pendant des heures.\n\n**Ce qui est distillé ici**\n\nLa **rose**, le **jasmin**, le **vétiver** (khus), le **kewda** de fleurs de pandanus, le **safran**, et le plus célèbre, le **mitti attar**, distillé à partir de terre cuite, qui sent exactement la première pluie sur le sol sec. Nulle part ailleurs dans le monde on ne le fabrique.\n\n**Les champs et le marché**\n\nSelon la saison, vous verrez les champs de fleurs cueillis à l'aube et le marché de gros où la récolte du jour est pesée et vendue. La rose, c'est le printemps ; le jasmin, l'été ; le kewda, la mousson.\n\n**Votre propre mélange**\n\nVous travaillez avec un artisan pour créer un attar sur mesure et le rapportez chez vous dans un petit flacon de verre.\n\n**Pratique**\n\nUne longue journée, environ dix heures en comptant la route dans chaque sens, en voiture privée climatisée. Le déjeuner est local et compris.\n\nLes distilleries sont chaudes, enfumées et pas du tout touristiques. C'est tout l'intérêt ; ne vous attendez pas à un centre pour visiteurs.",
+  "highlights": [
+   "Plongez dans l'univers de la parfumerie traditionnelle indienne à Kannauj"
+  ],
+  "included": [
+   "Transport depuis Agra",
+   "Visites et ateliers spécialisés",
+   "Visite des distilleries",
+   "Visite des champs de fleurs (selon la saison)",
+   "Création de parfum en pratique",
+   "Rencontre avec des maîtres parfumeurs",
+   "Création d'un mélange sur mesure à emporter",
+   "Déjeuner à Kannauj"
+  ],
+  "notIncluded": [
+   "Toute boisson alcoolisée",
+   "Petit-déjeuner ou dîner",
+   "Hébergement",
+   "Tout ce qui n'est pas mentionné dans les prestations incluses"
+  ]
+ },
+ "luxury-tajmahal-tour-from-delhi-by-private-car-all": {
+  "title": "Visite de luxe du Taj Mahal depuis Delhi en voiture privée, tout compris",
+  "metaTitle": "Delhi-Taj Mahal de luxe en voiture privée, tout compris",
+  "metaDescription": "Le Taj Mahal et le fort d'Agra depuis Delhi en voiture privée avec guide agréé, avec une option tout compris pour le déjeuner et les billets.",
+  "shortDescription": "Le Taj Mahal et le fort d'Agra depuis Delhi en voiture privée avec guide agréé, avec une option tout compris pour le déjeuner et les billets.",
+  "fullDescription": "**Un départ à 5h30, et pourquoi c'est le bon**\n\nLa prise en charge est matinale parce que le Taj est à son meilleur tôt et que l'autoroute est vide tôt. Partez de Delhi à cinq heures et demie et vous êtes au monument avant les autocars ; partez à huit heures et vous passez la première heure de votre journée à Gurugram.\n\n**La route**\n\nVoiture privée climatisée par la Yamuna Expressway, trois à trois heures et demie, avec un arrêt en chemin.\n\n**Taj Mahal**\n\nShah Jahan l'a commencé en 1632 après la mort de Mumtaz Mahal en donnant naissance à leur quatorzième enfant. Vingt-deux ans, vingt mille ouvriers, du marbre apporté sur 400 km depuis Makrana.\n\nUn guide agréé, c'est ce qui transforme une photo en édifice : la **calligraphie** gravée en tailles croissantes pour se lire d'une hauteur égale depuis le sol ; les fleurs de **pietra dura** faites de dizaines de pierres incrustées ; les **minarets** inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau ; l'illusion à la porte **Darwaza-i-Rauza**, où le Taj semble rétrécir à mesure qu'on approche ; et la seule asymétrie volontaire, le cénotaphe de Shah Jahan lui-même, placé hors de l'axe à côté de celui de sa femme.\n\n**Le fort d'Agra**\n\nÀ deux kilomètres en amont. Les murailles de grès rouge d'Akbar, 1565, avec les palais de marbre de Shah Jahan à l'intérieur : le **Diwan-i-Am**, le **Khas Mahal**, le hammam **Sheesh Mahal**.\n\nEt le **Musamman Burj**, la tour de marbre sur la muraille du fleuve où Aurangzeb a enfermé son père huit ans. Shah Jahan y est mort, regardant le tombeau qu'il avait construit pour sa femme, et a été porté de l'autre côté du fleuve pour être enterré auprès d'elle.\n\n**Trois options**\n\nGuide seul, si vous avez votre propre voiture. Voiture privée, chauffeur et guide. Ou la version tout compris avec déjeuner et tous les droits d'entrée : 1,300 ₹ par personne au Taj avec le mausolée, 650 ₹ au fort.\n\n**Pratique**\n\nEnviron dix heures de porte à porte. **Le Taj est fermé le vendredi.** Les déjeuners végétariens, jaïns et sans piment sont tous habituels ; précisez-le à la réservation.",
+  "highlights": [
+   "Visitez l'emblématique Taj Mahal, l'une des sept merveilles du monde"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour toute la durée de la visite",
+   "Guide touristique professionnel",
+   "Billets d'entrée des monuments (selon l'option choisie)",
+   "Déjeuner dans un hôtel 5 étoiles (selon l'option choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toutes dépenses personnelles"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Réservez un guide officiel pour explorer Bengaluru",
   "metaTitle": "Bengaluru avec guide : palais, Lalbagh, temples et bazars",
