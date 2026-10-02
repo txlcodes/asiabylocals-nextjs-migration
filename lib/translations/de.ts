@@ -18047,6 +18047,102 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alles, was nicht ausdrücklich unter Einschlüssen genannt ist"
   ]
  },
+ "jaipur-private-full-day-city-tour-with-guide-hotel": {
+  "title": "Jaipur: Private ganztägige Stadttour mit Guide & Hotelabholung",
+  "metaTitle": "Jaipur: privater Tag mit Guide und Hotel",
+  "metaDescription": "Ein voller privater Jaipur-Tag mit Guide, klimatisiertem Auto und Hotelabholung, mit Ticket-Optionen.",
+  "shortDescription": "Ein voller privater Jaipur-Tag mit Guide, klimatisiertem Auto und Hotelabholung, mit Ticket-Optionen.",
+  "fullDescription": "**Acht Stunden, privat, und die Tickets können erledigt werden**\n\nDer Standard-Jaipur-Rundgang richtig gemacht, mit der Option, jeden Eintritt vorab bezahlen zu lassen, was drei Ticketschalter aus Ihrem Tag entfernt. Amber Fort, City Palace und Jantar Mantar zusammen kosten etwa ₹1.500 pro ausländischem Erwachsenen.\n\n**Amber Fort**\n\nDer Hügelkomplex über dem Maota-See, begonnen 1592 von Raja Man Singh. Die Innenhöfe steigen den Grat hinauf: **Jaleb Chowk**, wo zurückkehrende Armeen inspiziert wurden; das bemalte **Ganesh Pol**-Tor; der **Sheesh Mahal**, wo Tausende konvexer Spiegelfragmente in der Decke eine einzige Kerze in einen Sternenhimmel verwandelten; und der **Sukh Niwas**, gekühlt durch Wasser, das durch in Marmor geschnittene Kanäle fließt.\n\nDer **Zenana**-Innenhof beherbergte zwölf Wohnungen der Königinnen, so angeordnet, dass keine Einblick in eine andere hatte, die Gänge waren so angelegt, dass der Maharadscha eine besuchen konnte, ohne dass die anderen wussten, welche.\n\n**Jal Mahal**\n\nEin Fotostopp am Damm über dem Man-Sagar-See. Vier seiner fünf Stockwerke sind untergetaucht; es gibt kein Boot und kein Ticket, was auch immer Ihnen am Straßenrand angeboten wird.\n\n**City Palace**\n\n1729 im Zentrum der neuen Stadt begonnen, und ein Teil davon ist noch immer die Residenz der königlichen Familie, die Flagge über dem **Chandra Mahal** zeigt an, ob sie anwesend sind. Die Waffenkammer, die Textilgalerien, und die beiden riesigen Silberurnen.\n\n**Jantar Mantar**\n\nNeunzehn gemauerte astronomische Instrumente, UNESCO-gelistet. Der Schatten der 27 Meter hohen **Samrat-Yantra**-Sonnenuhr bewegt sich sechs Zentimeter pro Minute und zeigt noch die Ortszeit auf etwa zwei Sekunden genau an; Ihr Guide kann es demonstrieren.\n\n**Hawa Mahal**\n\nDie fünfstöckige Fassade mit 953 Fenstern, 1799 erbaut, damit die Frauen des Hofes die Straße unbeobachtet ansehen konnten. Am besten morgens vom gegenüberliegenden Gehweg aus.\n\n**Drei Optionen**\n\nAuto und Guide; Auto, Guide und Eintritte; oder Rundum-Service.\n\n**Praktisch**\n\nAcht Stunden mit Hotelabholung. Früh starten.",
+  "highlights": [
+   "Privates klimatisiertes Auto mit erfahrenem lokalem Guide"
+  ],
+  "included": [
+   "Abholung & Rückfahrt zum Hotel",
+   "Privater Reiseführer",
+   "Wasserflaschen während der gesamten Tour",
+   "Mittagessen (falls die Option mit Mittagessen gewählt wird)",
+   "Eintrittsgebühren für Denkmäler (falls Option gewählt)",
+   "Transport im privaten, klimatisierten Auto",
+   "Alle Steuern, Gebühren und Bearbeitungsgebühren",
+   "Kraftstoffzuschlag",
+   "G.S.T. (Waren- und Dienstleistungssteuer)",
+   "Persönliche Betreuung und Aufmerksamkeit"
+  ],
+  "notIncluded": [
+   "Trinkgeld"
+  ]
+ },
+ "jaipur-private-full-day-sightseeing-tour-by-car-or": {
+  "title": "Jaipur: Private ganztägige Besichtigungstour per Auto oder Tuk-Tuk",
+  "metaTitle": "Jaipur: Ganztag, Auto oder Tuk-Tuk",
+  "metaDescription": "Ein individuell gestaltbarer Ganztag in Jaipur per Auto oder Tuk-Tuk, mit den Hauptattraktionen plus dem Blumental-Aussichtspunkt.",
+  "shortDescription": "Ein individuell gestaltbarer Ganztag in Jaipur per Auto oder Tuk-Tuk, mit den Hauptattraktionen plus dem Blumental-Aussichtspunkt.",
+  "fullDescription": "**Der Standard-Rundgang, plus ein Tal der Blumen**\n\nDer Unterschied zwischen dieser und jeder anderen Jaipur-Tagestour ist der letzte Stopp: **Kanak Vrindavan**, lokal als Blumental bekannt, ein restaurierter Garten- und Tempelkomplex aus dem 18. Jahrhundert in der Lücke zwischen den Hügeln von Nahargarh und Amber.\n\nJai Singh II erbaute ihn 1707 an einem Ort, der gewählt wurde, weil er ihn an Vrindavan erinnerte, Krishnas Land. Terrassengärten, Brunnen, Marmortempel und eine Menge Bougainvillea, mit dem See des Jal Mahal auf der einen Seite und den sich schließenden Hügeln auf der anderen. Es ist ein beliebter Filmdrehort und fast kein ausländischer Besucher geht hin.\n\n**Der Rest des Tages**\n\n**Amber Fort** auf seinem Grat über dem Maota-See, begonnen 1592, das **Ganesh Pol**-Tor, die Spiegelkammer des **Sheesh Mahal**, und der wassergekühlte **Sukh Niwas**.\n\n**Jal Mahal** vom Damm aus, vier Stockwerke unter Wasser.\n\n**City Palace**, Rajput- und mogulische Architektur um Innenhöfe, ein Teil davon noch immer die königliche Residenz.\n\n**Jantar Mantar**, neunzehn steinerne astronomische Instrumente, UNESCO-gelistet, mit einer auf etwa zwei Sekunden genauen Sonnenuhr.\n\n**Hawa Mahal**, die Wabenfassade mit 953 Fenstern.\n\nDer Tag ist individuell gestaltbar, tauschen Sie **Nahargarh** zum Sonnenuntergang ein, oder die Bazare, oder einen Stufenbrunnen, und Ihr Guide wird die Reihenfolge neu gestalten.\n\n**Zwei Optionen**\n\n**Per Tuk-Tuk**, das offen, günstig, und die bessere Fahrt von Oktober bis März ist.\n\n**Per klimatisiertem Auto**, die richtige Wahl ab April und an jedem Tag, an dem Sie die vollen acht Stunden unterwegs sein möchten.\n\n**Praktisch**\n\nAcht Stunden mit Hotelabholung und Rückfahrt.\n\nEintrittsgebühren werden an jedem Ort bezahlt, etwa ₹1.500 pro ausländischem Erwachsenen, wenn Sie überall hineingehen. Kanak Vrindavan hat eine kleine separate Gebühr und ist es wert.",
+  "highlights": [
+   "Entdecken Sie die prächtige Hügelfestung, eine beeindruckende Mischung aus mogulischer Architektur."
+  ],
+  "included": [
+   "Abholung & Rückfahrt zum Hotel in Jaipur.",
+   "Transport im privaten, klimatisierten Fahrzeug (Limousine/SUV, je nach Gruppengröße).",
+   "Dienste eines professionellen, lizenzierten englischsprachigen lokalen Reiseführers.",
+   "Trinkwasser in Flaschen für die Dauer der Tour.",
+   "Alle Fahrzeugkosten einschließlich Kraftstoff, Parkgebühren und Straßensteuern.",
+   "Flexibilität, den Reiseplan mit Ihrem Guide anzupassen."
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Denkmäler",
+   "Elefantenritt oder Jeep-Fahrt am Amer Fort.",
+   "Mittagessen, Abendessen oder andere Mahlzeiten/Snacks.",
+   "Persönliche Ausgaben (z.B. Einkäufe, Kameragebühren, Trinkgeld).",
+   "Zusätzliche Aktivitäten oder Attraktionen, die nicht im Reiseplan genannt sind."
+  ]
+ },
+ "jaipur-private-full-day-sightseeing-tour-by-tuk-tu": {
+  "title": "Jaipur: Private ganztägige Besichtigungstour per Tuk-Tuk",
+  "metaTitle": "Jaipur: privater Ganztag per Tuk-Tuk",
+  "metaDescription": "Ein voller privater Zehn-Stunden-Tuk-Tuk-Tag in Jaipur, beginnend am morgendlichen Großhandels-Blumenmarkt.",
+  "shortDescription": "Ein voller privater Zehn-Stunden-Tuk-Tuk-Tag in Jaipur, beginnend am morgendlichen Großhandels-Blumenmarkt.",
+  "fullDescription": "**Der Blumenmarkt um sieben Uhr morgens**\n\nJaipurs Großhandels-**Phool Mandi**, innerhalb der ummauerten Stadt, ist die beste Stunde des Tages, und fast kein Besucher sieht ihn, weil er um acht Uhr fertig ist.\n\nRingelblumen sackweise, Rosen, Jasmin und Tuberose, zu Girlanden für die Tempelopfer des Tages gebunden und an die Verkäufer abgewogen, die ab sieben Uhr an ihren Ständen sein werden. Es ist laut, der Boden nass, vollkommen funktional, und außergewöhnlich zu fotografieren.\n\nEin Tuk-Tuk bringt Sie hinein; ein Auto nicht.\n\n**Dann zehn Stunden der Stadt**\n\n**Amber Fort** auf seinem Grat über dem Maota-See, begonnen 1592, das bemalte **Ganesh Pol**-Tor, der **Sheesh Mahal**, wo Spiegelfragmente eine Kerze in eine Sternendecke verwandelten, und der wassergekühlte **Sukh Niwas**. Das Tuk-Tuk bewältigt den Aufstieg, langsam.\n\n**Panna Meena ka Kund** darunter, ein Stufenbrunnen aus dem 16. Jahrhundert mit sich kreuzenden symmetrischen Treppen, die acht Stockwerke hinabführen, und fast immer leer.\n\n**Jal Mahal** vom Damm aus, vier der fünf Stockwerke unter Wasser, kein Zutritt.\n\n**City Palace** und **Jantar Mantar** in der Altstadt, und **Hawa Mahal** von der gegenüberliegenden Straße aus.\n\nUnd die Bazare, wo ein Tuk-Tuk seinen Platz verdient: **Johari** für Edelsteine, **Tripolia** und **Maniharon ka Rasta** für Lack-Armreifen, über einer Flamme vor Ihnen gefertigt, **Bapu Bazaar** für Blockdruck und Mojari-Schuhe.\n\nZehn Stunden reichen aus, um **Nahargarh** zum Sonnenuntergang hinzuzufügen, den besten Blick auf die Stadt, den es gibt.\n\n**Praktisch**\n\nZehn Stunden, mit Abholung vor Sonnenaufgang, die ganze Form des Tages hängt davon ab.\n\nEin Tuk-Tuk ist Wetter und Staub ausgesetzt. Oktober bis März ist, wenn dies ein Vergnügen ist; von April bis Juni nehmen Sie stattdessen ein Auto.\n\nEintrittsgebühren sind separat, etwa ₹1.500 pro Kopf für einen ausländischen Erwachsenen an den wichtigsten Monumenten.",
+  "highlights": [
+   "Genießen Sie eine private Tuk-Tuk-Fahrt mit einem freundlichen lokalen Fahrer"
+  ],
+  "included": [
+   "Abholung & Rückfahrt zu Hotel oder Flughafen.",
+   "Private Stadttour.",
+   "Alle Besichtigungsorte mit einem privaten professionellen Reiseführer (optional).",
+   "Transport im privaten Tuk-Tuk mit einem freundlichen Fahrer.",
+   "Mineralwasserflasche",
+   "Kraftstoffzuschlag, alle Steuern, Gebühren und Bearbeitungsgebühren.",
+   "Staatliche Steuern (Waren- und Dienstleistungssteuer)"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für die Denkmäler.",
+   "Jegliche Mahlzeit/Mittagessen",
+   "Trinkgeld (optional)"
+  ]
+ },
+ "jaipur-private-full-day-sightseeing-tour-with-car-": {
+  "title": "Jaipur: Private ganztägige Besichtigungstour mit Auto und Guide",
+  "metaTitle": "Jaipur: Ganztag, Auto und Guide",
+  "metaDescription": "Zehn Stunden private Jaipur-Besichtigung im klimatisierten Auto mit einem lokalen Guide, Mittagessen und Tickets optional.",
+  "shortDescription": "Zehn Stunden private Jaipur-Besichtigung im klimatisierten Auto mit einem lokalen Guide, Mittagessen und Tickets optional.",
+  "fullDescription": "**Ein Auto, ein Guide, der ganze Tag**\n\nZehn Stunden ab Hotelabholung, durchgehend privat, und nach Ihren Wünschen gestaltet statt nach einem festen Busfahrplan. Diese Flexibilität ist es, was dies Ihnen kauft: wenn der Spiegelraum in Amber Sie vierzig Minuten lang fesselt, fesselt er Sie vierzig Minuten lang.\n\n**Morgen: Amber Fort**\n\nDie Fahrt hinaus führt elf Kilometer, am Jal Mahal auf dem See vorbei.\n\nDas Fort wurde 1592 von Raja Man Singh, Akbars General, im blassen Sandstein dieser Hügel begonnen. Das **Ganesh Pol**-Tor ist bemalter Stuck über Stein und das Foto, das jeder macht. Der **Sheesh Mahal** dahinter ist der Grund, hineinzugehen: konvexe Spiegelfragmente über die Decke verteilt, sodass eine Kerze wie ein Himmel voller Sterne wirkte.\n\nAuf der anderen Seite des Innenhofs, **Sukh Niwas**, wo Wasser durch Kanäle in den Marmorwänden floss, um den Raum zu kühlen, die einzige Klimaanlage des 16. Jahrhunderts.\n\n**Mittag**\n\n**Jal Mahal** am Damm für Fotos. Vier seiner fünf Stockwerke liegen unter dem Man-Sagar-See, und niemand geht hinein.\n\nMittagessen, entweder inklusive oder nach Ihrer Wahl.\n\n**Nachmittag: die Altstadt**\n\n**City Palace**, Innenhöfe, die Waffenkammer, die Textilräume, und die Flagge über dem Chandra Mahal, die anzeigt, ob die ehemalige königliche Familie dort wohnt.\n\n**Jantar Mantar**, neunzehn gemauerte Instrumente, erbaut von Jai Singh II, einem Herrscher, der zuerst Astronom war. Das 27 Meter hohe **Samrat Yantra** zeigt noch immer die Zeit auf etwa zwei Sekunden genau an.\n\n**Hawa Mahal**, 953 Fenster, fünf Stockwerke, und für den größten Teil der Höhe weniger als einen Meter tief. Ein Sichtschutz für das Zenana, kein Palast.\n\n**Drei Optionen**\n\nNur Guide; privates Auto, Fahrer und Guide; oder die Version mit Mittagessen und allen Eintrittskarten inklusive, etwa ₹1.500 pro Kopf an Gebühren für einen ausländischen Erwachsenen.\n\n**Praktisch**\n\nFrüh starten. Die Forts leeren und füllen sich nach einem vorhersehbaren Zeitplan, und Ihr Guide kennt ihn.",
+  "highlights": [
+   "Entdecken Sie Jaipurs beste Attraktionen in Ihrem eigenen Tempo mit einem privaten Guide und Auto."
+  ],
+  "included": [
+   "Abholung & Rückfahrt zu Hotel/Flughafen",
+   "Privates klimatisiertes Auto für Besichtigungen mit Fahrer",
+   "Von der Regierung zugelassener Experten-Reiseführer",
+   "Eintrittskarten für Denkmäler (falls Option gewählt)",
+   "Mittagessen im Restaurant (falls Option gewählt)",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parken"
+  ],
+  "notIncluded": [
+   "Jegliche persönlichen Ausgaben"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
