@@ -4356,6 +4356,100 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld"
   ]
  },
+ "agra-taj-mahal-sunrise-agra-fort-day-tour-all": {
+  "title": "Agra: Taj Mahal bei Sonnenaufgang und Agra Fort, Komplettpaket",
+  "metaTitle": "Taj Mahal bei Sonnenaufgang und Agra Fort: Komplettpaket",
+  "metaDescription": "Der Taj Mahal bei Sonnenaufgang, dann das Agra Fort, mit Guide, Privatwagen, Mittagessen und Tickets in einem Preis.",
+  "shortDescription": "Der Taj Mahal bei Sonnenaufgang, dann das Agra Fort, mit Guide, Privatwagen, Mittagessen und Tickets in einem Preis verfügbar. Rund sechs Stunden.",
+  "fullDescription": "**Sonnenaufgang ist hier keine Werbefloskel**\n\nDer Taj öffnet eine halbe Stunde vor Sonnenaufgang, und die ersten neunzig Minuten unterscheiden sich wirklich vom Rest des Tages. Der Marmor erscheint erst grau, dann rosa, dann kalt weiß, während die Sonne über das gegenüberliegende Ufer steigt. Die Menge ist nur ein Bruchteil dessen, was sie bis zehn Uhr sein wird, und im Winter zieht Nebel von der Yamuna hinter der Kuppel auf.\n\nDas bedeutet eine Abholung im Dunkeln. Jeder, der es tut, sagt, es war den Aufwand wert.\n\n**Am Taj**\n\nShah Jahan ließ ihn ab 1632 für Mumtaz Mahal bauen, die bei der Geburt ihres vierzehnten Kindes starb. Zweiundzwanzig Jahre, zwanzigtausend Arbeiter, und weißer Marmor über 400 km von Makrana herangekarrt.\n\nIhr Guide zeigt Ihnen, was leicht entgeht: die koranische **Kalligrafie**, in immer größeren Buchstaben geschnitten, damit sie von unten gleich hoch erscheint; die **Pietra-dura**-Blüten mit je Dutzenden eingelegter Steine; die **Minarette**, minimal nach außen geneigt, damit sie bei einem Erdbeben vom Grabmal weg fallen würden; und der **Bruch der Symmetrie**, Shah Jahans eigenes Kenotaph, später von Aurangzeb hinzugefügt, das einzige Objekt im Bau, das nicht zentriert ist.\n\n**Agra Fort**\n\nDann das Fort, zwei Kilometer flussaufwärts: Akbars Festung aus rotem Sandstein von 1565, mit Shah Jahans Marmorpalästen darin. Der **Musamman Burj**, wo Aurangzeb seinen Vater die letzten acht Jahre seines Lebens gefangen hielt, blickt flussabwärts direkt zum Taj.\n\n**Drei Optionen**\n\nNur Guide, für Reisende mit eigenem Transport. Guide mit Privatwagen und Fahrer. Oder die Komplettfassung mit Mittagessen und allen Eintrittsgebühren: der Taj kostet 1,300 ₹ für ausländische Staatsangehörige mit Mausoleum, das Fort 650 ₹.\n\n**Praktisch**\n\n**Freitags geschlossen.** Die Sonnenaufgangszeit wandert über das Jahr, die Abholung richtet sich also nach dem Datum und nicht nach einer festen Uhrzeit. Nehmen Sie für Dezember- und Januarmorgen etwas Warmes mit; das Yamuna-Ufer ist kalt, bevor die Sonne aufgeht.",
+  "highlights": [
+   "Erleben Sie einen atemberaubenden Sonnenaufgang am Taj Mahal, mit einer geführten Tour"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die Besichtigungen",
+   "Staatlich geprüfter erfahrener Reiseleiter",
+   "Eintrittskarten für die Monumente (bei gewählter Option)",
+   "Mittagessen in einem 5-Sterne-Hotel (bei gewählter Option)",
+   "Flasche Mineralwasser",
+   "Alle Mautkosten und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Alle persönlichen Ausgaben"
+  ]
+ },
+ "agra-taj-mahal-tour-with-expert-photographer-and-t": {
+  "title": "Agra: Taj-Mahal-Tour mit erfahrenem Fotografen und Reiseleiter",
+  "metaTitle": "Taj Mahal: Tour mit Fotografen und Reiseleiter",
+  "metaDescription": "Der Taj Mahal mit lizenziertem Guide und einem arbeitenden Fotografen, damit Sie Geschichte und Fotos zugleich bekommen.",
+  "shortDescription": "Der Taj Mahal mit lizenziertem Guide und einem arbeitenden Fotografen, damit Sie Geschichte und Fotos zugleich bekommen.",
+  "fullDescription": "**Zwei Menschen mit zwei verschiedenen Aufgaben**\n\nEin Guide erklärt den Bau. Ein Fotograf weiß, dass die Bank, für die alle anstehen, um neun Uhr morgens falsch zum Licht steht, und dass der Bogen auf der Westseite der Moschee die Kuppel besser rahmt als alles auf der Hauptachse.\n\nDiese Tour schickt beide, und das ist eine kleine Idee, die einen großen Unterschied macht für das, was Sie mit heimbringen.\n\n**Was der Fotograf macht**\n\nEr fotografiert Sie, statt Ihnen nur Tipps zu geben. Sie halten nicht die Kamera, und das ist der eigentliche Grund, warum die Taj-Fotos der meisten Menschen den Taj zeigen und nicht sie selbst am Taj.\n\nDas Standardset: die **Diana-Bank** auf der Mittelachse, die **Spiegelung** im langen Wasserkanal, eine **Silhouette** gegen den Sonnenaufgang, die Bilder mit **erzwungener Perspektive**, bei denen Sie die Kuppel zu halten oder zu kneifen scheinen, und Rahmungen durch die roten Sandsteinbögen des Darwaza-Torbaus. Darüber hinaus hängt es vom Licht ab und davon, wie gern Sie sich leiten lassen.\n\nBearbeitete Bilder werden nach dem Shooting geliefert.\n\n**Was der Guide macht**\n\nDas, an dem Sie sonst vorbeigehen würden: die **Kalligrafie**, in wachsenden Größen geschnitten, damit sie vom Boden aus gleich hoch erscheint; **Pietra-dura**-Blüten aus vierzig oder sechzig eingelegten Steinen; **Minarette**, nach außen geneigt, damit sie bei einem Erdbeben vom Grabmal weg fallen; und die eine bewusste Asymmetrie, Shah Jahans eigenes Kenotaph, von seinem Sohn außerhalb der Achse hinzugefügt.\n\n**Drei Optionen**\n\nWagen, Fahrer und Guide. Dasselbe mit dem Fotografen. Oder alles einschließlich Taj-Eintrittskarten.\n\n**Praktisch**\n\n**Freitags geschlossen.** Der Sonnenaufgang bietet zugleich das beste Licht und die kleinste Menge, deshalb ist der frühe Slot zuerst ausgebucht.\n\nKeine Stative und keine Drohnen innen, die Kontrolle setzt das strikt durch, der Fotograf arbeitet also aus der Hand. Der Eintritt beträgt 1,100 ₹ für ausländische Staatsangehörige, 200 ₹ mehr für das Mausoleum.",
+  "highlights": [
+   "Besuchen Sie den weltberühmten Taj Mahal mit einem kundigen lokalen Guide."
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die Transfers",
+   "Staatlich geprüfter erfahrener Reiseleiter",
+   "Eintrittskarten für die Monumente (bei gewählter Option)",
+   "Professioneller Fotograf (bei gewählter Option)",
+   "Flasche Mineralwasser",
+   "Alle Mautkosten und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Jegliches Essen",
+   "Alle persönlichen Ausgaben"
+  ]
+ },
+ "agra-taj-mahal-tour-with-professional-photographer": {
+  "title": "Agra: Taj-Mahal-Tour mit professionellem Fotografen und Guide",
+  "metaTitle": "Taj Mahal: professioneller Fotograf und Guide, 4 h",
+  "metaDescription": "Vier Stunden am Taj Mahal mit lizenziertem Guide und professionellem Fotografen. Bearbeitete Fotos inbegriffen.",
+  "shortDescription": "Vier Stunden am Taj Mahal mit lizenziertem Guide und professionellem Fotografen. Bearbeitete Fotos inbegriffen.",
+  "fullDescription": "**Zwei Menschen, zwei Aufgaben**\n\nEin Guide erklärt den Bau. Ein Fotograf weiß, dass die berühmte Bank bis zwanzig nach sieben im Schatten liegt und dass der beste Rahmen auf der Westseite durch den zweiten Bogen der Moschee geht.\n\nBeide zu schicken ist eine kleine Idee, die viel verändert für das, was Sie mit heimbringen, vor allem weil Sie aufhören, die Person zu sein, die die Kamera hält, und das ist der Grund, warum die Taj-Fotos der meisten Menschen den Taj zeigen und nicht sie selbst dabei.\n\n**Das Fotoshooting**\n\nDas Standardset, richtig gemacht: die **Diana-Bank** auf der Mittelachse mit zentrierter Kuppel; die **Spiegelung** im langen Wasserkanal; **Silhouetten** gegen das Morgenlicht; die Bilder mit **erzwungener Perspektive**, bei denen Sie die Kuppel zu halten oder zu kneifen scheinen; und Rahmungen durch die roten Sandsteinbögen des Torbaus, wo der warme Stein den weißen Marmor hervorhebt.\n\nBearbeitete Bilder werden nach dem Shooting geliefert. Wenn Sie etwas Bestimmtes wollen, sagen Sie es: es ist ein Fotograf nur für Sie.\n\n**Der Guide**\n\nShah Jahan begann den Taj 1632, im Jahr nachdem Mumtaz Mahal bei der Geburt ihres vierzehnten Kindes gestorben war. Zweiundzwanzig Jahre, zwanzigtausend Arbeiter, Marmor über 400 km von Makrana herangekarrt.\n\nDas, an dem Sie sonst vorbeigehen würden: die **Kalligrafie**, in wachsenden Größen geschnitten, damit sie vom Boden aus gleich hoch erscheint; die **Pietra dura**, bis zu sechzig Steine in einer eingelegten Blüte; die vier **Minarette**, minimal nach außen geneigt, damit ein Erdbeben sie neben das Grabmal fallen ließe; und die eine bewusste Asymmetrie, Shah Jahans eigenes Kenotaph, von Aurangzeb außerhalb der Achse hinzugefügt.\n\n**Drei Optionen**\n\nFotograf mit Guide; Privatwagen, Fahrer und Guide; oder alles mit Wagen, Guide, Fotograf und Eintrittskarten.\n\n**Praktisch**\n\n**Der Taj ist freitags geschlossen.** Der Sonnenaufgang bietet zugleich das beste Licht und die kleinste Menge.\n\nKeine Stative und keine Drohnen innen, die Kontrolle ist absolut, alles wird also aus der Hand fotografiert.\n\nTragen Sie Farbe. Rot, Gelb und tiefes Blau wirken auf weißem Marmor weit besser als Weiß oder Beige.",
+  "highlights": [
+   "Genießen Sie eine komplett geführte Taj-Mahal-Tour mit einem erfahrenen lokalen Historiker"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die gesamte Tour",
+   "Staatlich geprüfter erfahrener Reiseleiter",
+   "Professioneller Fotograf (bei gewählter Option)",
+   "Fotograf mit 5 Fotos als Papierabzug",
+   "Digitale Kopie",
+   "Eintrittskarten für die Monumente (bei gewählter Option)",
+   "Flasche Mineralwasser",
+   "Alle Mautkosten und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Alle persönlichen Ausgaben"
+  ]
+ },
+ "agra-taj-mahal-tour-with-professional-photoshoot": {
+  "title": "Agra: Taj-Mahal-Tour mit professionellem Fotoshooting",
+  "metaTitle": "Taj Mahal: professionelles Fotoshooting mit Guide",
+  "metaDescription": "Ein professionelles Fotoshooting am Taj Mahal mit lizenziertem Guide, in Agra. Rund drei Stunden, bearbeitete Fotos inbegriffen.",
+  "shortDescription": "Ein professionelles Fotoshooting am Taj Mahal mit lizenziertem Guide, in Agra. Rund drei Stunden, bearbeitete Fotos inbegriffen.",
+  "fullDescription": "**Jemand anderes hält die Kamera**\n\nDas ist ein Fotoshooting mit angehängtem Guide statt einer Tour mit angehängten Fotos. Ein professioneller Fotograf arbeitet die Anlage mit Ihnen ab, während ein lizenzierter Guide die Geschichte übernimmt, und Sie kommen mit einem bearbeiteten Set heraus statt mit vierzig fast identischen Handyfotos eines weißen Bauwerks.\n\n**Vor dem Start**\n\nAbholung an Ihrem Hotel, am Bahnhof oder wo Sie in Agra wohnen, und ein Briefing: wie das Licht steht, welche Bilder zu dieser Stunde möglich sind, und was Sie sich davon wünschen.\n\nWenn Sie Referenzen im Kopf haben, bringen Sie sie mit. Es ist ein Fotograf nur für Sie.\n\n**Die Bilder**\n\nDie **Diana-Bank** auf der Mittelachse, für die alle anstehen und die das Anstehen wert ist. Die **Spiegelung** im langen Wasserkanal. **Silhouetten** gegen die Sonne. Die Bilder mit **erzwungener Perspektive**, die Kuppel halten, kneifen, balancieren, die mehr Spaß machen, als sie zu lesen. Und gerahmte Aufnahmen durch die roten Sandsteinbögen des Torbaus **Darwaza-i-Rauza**, wo der warme Stein den Marmor hervorhebt.\n\n**Der Teil des Guides**\n\nShah Jahan begann den Taj 1632, im Jahr nachdem Mumtaz Mahal bei der Geburt ihres vierzehnten Kindes gestorben war. Zwanzigtausend Arbeiter, zweiundzwanzig Jahre, Marmor über 400 km von Makrana herangekarrt.\n\nDie Details, an denen Sie sonst vorbeigehen würden: die **Kalligrafie**, in immer größeren Buchstaben geschnitten, damit sie vom Boden aus gleich hoch erscheint; die **Pietra-dura**-Einlagen, bis zu sechzig Steine in einer Blüte; die vier **Minarette**, minimal nach außen geneigt, damit ein Erdbeben sie neben das Grabmal fallen ließe; und die eine Asymmetrie in einem sonst perfekt gespiegelten Bau, Shah Jahans eigenes Kenotaph, von Aurangzeb außerhalb der Achse gesetzt.\n\n**Vier Optionen**\n\nGuide und Fotograf; Wagen, Fahrer, Guide und Fotograf; Wagen, Fahrer und Guide; oder die volle Fassung mit Eintrittskarten.\n\n**Praktisch**\n\n**Freitags geschlossen.** Der Sonnenaufgang bietet das beste Licht und die kleinste Menge.\n\nKeine Stative, keine Drohnen, die Kontrolle ist absolut, alles wird also aus der Hand fotografiert.\n\nTragen Sie Farbe: Rot, Gelb und tiefes Blau wirken auf weißem Marmor weit besser als Weiß oder Beige.",
+  "highlights": [
+   "Entdecken Sie den weltberühmten Taj Mahal mit einem kundigen lokalen Guide."
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die Transfers",
+   "Staatlich geprüfter professioneller Reiseleiter",
+   "Staatlich geprüfter professioneller Fotograf (bei gewählter Option)",
+   "Eintrittskarten für die Monumente (bei gewählter Option)",
+   "20 Fotos als Papierabzug",
+   "Flasche Mineralwasser",
+   "Alle Mautkosten und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Jegliches Essen",
+   "Alle persönlichen Ausgaben"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Offiziellen Guide für die Erkundung von Bengaluru buchen",
   "metaTitle": "Bengaluru mit Guide: Paläste, Lalbagh, Tempel und Basare",
