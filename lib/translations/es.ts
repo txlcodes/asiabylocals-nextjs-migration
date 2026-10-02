@@ -5936,6 +5936,50 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier gasto personal"
   ]
  },
+ "moonlight-taj-mahal-tour-from-yamuna-river-side": {
+  "title": "Visita al Taj Mahal a la luz de la luna desde la orilla del Yamuna",
+  "metaTitle": "Taj Mahal a la luz de la luna, desde el Yamuna",
+  "metaDescription": "Una vista nocturna del Taj Mahal desde el otro lado del Yamuna, tranquila, sin gente, sin cola para entradas.",
+  "shortDescription": "Una vista nocturna del Taj Mahal desde el otro lado del Yamuna, tranquila, sin gente, sin cola para entradas.",
+  "fullDescription": "**El Taj desde el otro lado del río**\n\nEsto no es la visita nocturna dentro del monumento, y conviene dejarlo claro antes de reservar. El Archaeological Survey abre el recinto del Taj en sí solo cinco noches al mes, en torno a la luna llena, con una entrada aparte y limitada, vendida en persona en la oficina del ASI en Agra el día anterior.\n\nLo que hace esta visita en su lugar es llevarle por la tarde a la **orilla del Yamuna detrás del Taj**, donde ve todo el edificio desde el otro lado del agua sin nadie delante.\n\nPara muchos esa es la mejor foto, y sin duda la hora más tranquila.\n\n**El mirador**\n\nUn ghat en la orilla opuesta, al que se llega por carretera desde la ciudad. El Taj queda justo enfrente, sobre su zócalo, iluminado en los bordes y alumbrado por lo que haga la luna, con el río y los bancos de arena entre medio.\n\nEn una noche clara, el mármol retiene la luz de una forma que sale rara en foto, es translúcido hasta un centímetro aproximadamente, por eso parece resplandecer en lugar de simplemente estar iluminado.\n\nLas aves llegan a los bancos de arena al anochecer. Es uno de los pocos lugares de verdad tranquilos a menos de un kilómetro de la tumba más visitada del mundo.\n\n**Su guía**\n\nLa historia que tendría dentro: Shah Jahan, Mumtaz Mahal, los veintidós años, y la razón por la que el edificio está orientado así, el río formaba parte del diseño, con la tumba situada al final del jardín en lugar de en su centro para que se viera desde el agua.\n\n**Práctico**\n\nUnas tres horas con recogida en el hotel por la tarde.\n\nLa vista depende de la luna. Unas noches alrededor de la luna llena son la ventana; con luna nueva se obtiene una silueta y los focos.\n\nLleve una chaqueta de noviembre a febrero, y repelente de mosquitos cualquier mes, está en la orilla de un río al anochecer.\n\nNo se necesita entrada al monumento, porque no entra en el recinto.",
+  "highlights": [
+   "Viva la vista mágica del Taj Mahal resplandeciendo bajo la luz de la luna."
+  ],
+  "included": [
+   "Recogida y regreso en el hotel o el aeropuerto",
+   "Coche privado con aire acondicionado y conductor para las visitas",
+   "Guía turístico profesional",
+   "Botella de agua mineral",
+   "Todos los peajes y gastos de aparcamiento"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
+  ]
+ },
+ "overnight-agrataj-mahal-tour-with-fatehpur-sikri-a": {
+  "title": "Agra y el Taj Mahal con una noche, Fatehpur Sikri y hotel",
+  "metaTitle": "Agra en dos días: Taj, fuerte, Fatehpur Sikri, hotel",
+  "metaDescription": "Agra en dos días desde Delhi, el Taj al amanecer, el Fuerte de Agra y Fatehpur Sikri, con una noche de hotel y coche privado.",
+  "shortDescription": "Agra en dos días desde Delhi, el Taj al amanecer, el Fuerte de Agra y Fatehpur Sikri, con una noche de hotel y coche privado.",
+  "fullDescription": "**Tres sitios de la UNESCO, sin correr**\n\nHacer el Taj, el Fuerte de Agra y Fatehpur Sikri en un solo día desde Delhi es posible, y es agotador. Repartido en dos días con una noche en Agra, se convierte en un viaje de verdad: el Taj tiene su amanecer, Fatehpur Sikri tiene la mañana que necesita, y nadie pasa catorce horas en el coche.\n\n**Primer día**\n\nCarretera por la Yamuna Expressway desde Delhi, unas tres horas y media. **El Fuerte de Agra** por la tarde, la fortaleza de arenisca roja de Akbar, de 1565, con los palacios de mármol que añadió Shah Jahan, y el **Musamman Burj**, donde Aurangzeb lo encerró ocho años, con el Taj a la vista río abajo.\n\nTarde libre. Hotel en Agra.\n\n**Segundo día, amanecer**\n\nEl **Taj Mahal** cuando abren las puertas, media hora antes del amanecer. Gris, luego rosa, luego blanco, y niebla sobre el Yamuna en invierno. Su guía le mostrará la **caligrafía** dimensionada para leerse de manera uniforme desde el suelo, las incrustaciones de **pietra dura**, los **alminares** inclinados hacia fuera para caer lejos de la tumba, y la única asimetría del cenotafio de Shah Jahan.\n\n**Fatehpur Sikri**\n\nLuego hacia el oeste, 40 km, hasta la capital que Akbar construyó en 1571 y abandonó catorce años después, cuando se acabó el agua.\n\nEs la ciudad mogol más completa que existe, porque nadie vivió en ella lo suficiente para cambiarla: el **Buland Darwaza**, una puerta de la victoria de 54 metros; el **Panch Mahal**, cinco plantas abiertas que retroceden como un pastel de bodas; el **Diwan-i-Khas** con su único pilar central labrado; y el **dargah de mármol de Salim Chishti**, el santo sufí cuya bendición Akbar atribuyó al hijo que había esperado.\n\nVuelta a Delhi por la tarde.\n\n**Tres opciones**\n\nCoche, conductor y guía con su propio alojamiento, o lo mismo con un hotel de tres o cuatro estrellas incluido.\n\n**Práctico**\n\n**El Taj cierra los viernes**, lo que fija en qué noches puede hacerse esto. Las entradas son aparte.",
+  "highlights": [
+   "Visita guiada al emblemático Taj Mahal, descubriendo su historia de amor y su arquitectura."
+  ],
+  "included": [
+   "Recogida y regreso en el hotel o el aeropuerto",
+   "Coche privado con aire acondicionado y conductor para toda la visita",
+   "Guía turístico experto autorizado por el gobierno",
+   "1 noche de alojamiento en hotel (en la opción elegida)",
+   "Desayuno en el hotel",
+   "Botella de agua mineral",
+   "Todos los peajes y gastos de aparcamiento"
+  ],
+  "notIncluded": [
+   "Comida y cena",
+   "Entradas a los monumentos",
+   "Cualquier gasto personal"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Reserve un guía oficial para recorrer Bengaluru",
   "metaTitle": "Bengaluru con guía: palacios, Lalbagh, templos y bazares",
