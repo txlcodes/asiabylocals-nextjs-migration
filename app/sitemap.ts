@@ -53,7 +53,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'agra-travel-guide-2026', 'taj-mahal', 'agra-fort', 'fatehpur-sikri',
     'agra-gatimaan-entry-ticket', 'delhi-to-agra', 'same-day-agra-tour-from-delhi',
     'best-time-to-visit-agra',
-  , 'agra-tour-guide', 'mehtab-bagh', 'agra-shopping-guide'].map(slug => ({
+    'agra-tour-guide', 'mehtab-bagh', 'agra-shopping-guide',
+  ].map(slug => ({
     url: `${BASE_URL}/india/agra/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -80,7 +81,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'city-palace-jaipur', 'nahargarh-fort', 'places-to-visit-in-jaipur',
     'jantar-mantar-jaipur', 'jal-mahal', 'jaipur-shopping-guide',
     'best-time-to-visit-jaipur', '2-day-jaipur-itinerary',
-  , 'delhi-to-jaipur', 'agra-to-jaipur'].map(slug => ({
+    'delhi-to-jaipur', 'agra-to-jaipur',
+  ].map(slug => ({
     url: `${BASE_URL}/india/jaipur/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
