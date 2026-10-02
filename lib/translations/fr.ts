@@ -12904,6 +12904,89 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "new-delhi-and-old-delhi-private-tour-4-8": {
+  "title": "Visite privée du nouveau et du vieux Delhi, 4 à 8 heures, personnalisable",
+  "metaTitle": "Nouveau et vieux Delhi, visite personnalisable",
+  "metaDescription": "Une visite privée personnalisable du vieux et du nouveau Delhi, de quatre à huit heures, avec voiture, chauffeur et guide.",
+  "shortDescription": "Une visite privée personnalisable du vieux et du nouveau Delhi, de quatre à huit heures, avec voiture, chauffeur et guide.",
+  "fullDescription": "**Deux villes avec un seul nom**\n\nLe vieux Delhi est la capitale fortifiée de Shah Jahan de 1648, des ruelles de trois mètres de large, toujours commerçantes. Le nouveau Delhi est la grille impériale de Lutyens de 1931, des avenues de soixante mètres de large et des ronds-points nommés d'après des princes. Ils sont séparés de huit kilomètres et de trois cents ans, et cette visite vous permet de choisir l'un ou de prendre les deux.\n\n**Le vieux Delhi**\n\nLa **Jama Masjid**, achevée en 1656 et toujours la plus grande mosquée d'Inde : grès rouge et marbre blanc autour d'une cour qui accueille vingt-cinq mille personnes. Épaules et genoux couverts ; des robes sont prêtées à la porte pour un petit supplément.\n\n**Chandni Chowk**, mieux en cyclo-pousse, la seule façon sensée de parcourir cette rue. Tracée dans les années 1650 par Jahanara, la fille de Shah Jahan, avec un canal au centre qui reflétait le clair de lune, et toujours organisée commerce par commerce, l'argent à **Dariba Kalan**, les garnitures de mariage au **Kinari Bazaar**, et **Khari Baoli**, le plus grand marché aux épices d'Asie.\n\nLe **Raj Ghat**, la plateforme de marbre noir où Gandhi fut incinéré en 1948, avec une flamme qui ne s'est pas éteinte depuis.\n\n**Le nouveau Delhi**\n\n**India Gate** et le trajet le long du **Rajpath** devant le **Rashtrapati Bhavan**, 340 pièces sous un dôme que Lutyens a emprunté à un stupa bouddhiste.\n\nLe **tombeau de Humayun**, construit dans les années 1560 par la veuve de l'empereur : le premier grand tombeau-jardin moghol d'Inde, et le modèle direct du Taj soixante ans plus tard.\n\n**Qutub Minar**, commencé en 1193, le plus haut minaret en brique du monde, dressé dans un complexe construit avec la pierre de vingt-sept temples démantelés, avec le pilier de fer qui n'a pas rouillé en seize cents ans.\n\n**Quatre options**\n\nDemi-journée dans le vieux Delhi ; demi-journée dans le nouveau Delhi ; une journée complète couvrant les deux ; ou une journée complète avec billets d'entrée inclus.\n\n**Pratique**\n\n**Le fort Rouge est fermé le lundi** ; la Jama Masjid ferme aux visiteurs pendant les prières. Votre guide organisera la journée en fonction de ce qui s'applique.",
+  "highlights": [
+   "Découvrez les charmes contrastés du vieux et du nouveau Delhi avec un guide local privé"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée pour les visites avec chauffeur",
+   "Guide touristique professionnel",
+   "Billets d'entrée aux monuments (si l'option est choisie)",
+   "Déjeuner au restaurant (si l'option est choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "new-delhi-art-craft-and-handicraft-tour": {
+  "title": "Nouveau Delhi : circuit de l'art, de l'artisanat et des métiers d'art",
+  "metaTitle": "Delhi : art, artisanat et métiers d'art",
+  "metaDescription": "Quatre heures et demie à travers l'art et l'artisanat de Delhi, le musée de l'artisanat, les galeries et les quartiers d'artisans.",
+  "shortDescription": "Quatre heures et demie à travers l'art et l'artisanat de Delhi, le musée de l'artisanat, les galeries et les quartiers d'artisans.",
+  "fullDescription": "**Là où l'artisanat est réellement fabriqué, et là où il est exposé**\n\nUne journée pour ceux qui préfèrent voir les choses se fabriquer plutôt que de voir encore un tombeau. Elle se déplace entre les institutions qui collectent l'artisanat indien et les quartiers où il est produit.\n\n**Le musée national de l'artisanat**\n\nLe point d'ancrage de la visite, à Pragati Maidan, et l'un des musées les plus sous-estimés d'Inde.\n\nIl abrite une architecture villageoise reconstruite sur le site, de l'art tribal et populaire, des textiles, de la terre cuite et de la ferronnerie de tous les états, et surtout, une **cour de travail** où des tisserands, potiers, imprimeurs à la planche et brodeurs exercent leur art et vendent directement. Acheter à la personne qui a fabriqué l'objet est rare partout et normal ici.\n\nLe **Café Lota**, dans l'enceinte du musée, est où la visite commence généralement : un café en plein air servant correctement la cuisine régionale indienne, ce qui vaut l'arrêt en soi.\n\n**Le Lodhi Art District**\n\nLe premier quartier d'art public en plein air d'Inde, les murs d'une cité de logements gouvernementaux des années 1940 peints du sol au toit par des artistes d'une vingtaine de pays. Plus de cinquante fresques sur quelques pâtés de maisons, et elles changent à mesure que de nouvelles œuvres apparaissent.\n\n**Galeries et ateliers**\n\nSelon le jour : les galeries contemporaines autour de **Lado Sarai**, les cours de créateurs de **Shahpur Jat** derrière leurs portes sans enseigne, et **Kumhar Gram** si la poterie vous intéresse, un village de plusieurs centaines de familles de potiers à l'intérieur de la ville.\n\n**Dilli Haat**\n\nL'artisanat de tous les états en un seul endroit, avec des étals qui tournent pour que les artisans changent toutes les deux semaines. Bon pour acheter, et les prix sont fixes, ce qui est reposant.\n\n**Pratique**\n\nQuatre heures et demie avec transport privé et un guide.\n\nLes droits d'entrée sont faibles et payés à la porte. Le musée de l'artisanat est **fermé le lundi**.\n\nTout ce que vous achetez vous appartient ; rien n'est inclus et votre guide ne prend aucune commission.",
+  "highlights": [
+   "Découvrez la riche culture, l'art et l'histoire de Delhi"
+  ],
+  "included": [
+   "Déjeuner au Café Lota",
+   "Guide",
+   "Spectacles culturels au Triveni Kala Sangam (si disponible)",
+   "Transport entre les attractions"
+  ],
+  "notIncluded": [
+   "Pourboires et gratifications",
+   "Dépenses personnelles",
+   "Assurance voyage",
+   "Toute activité hors itinéraire"
+  ]
+ },
+ "new-delhi-red-fort-tour-with-transfers-choose-form": {
+  "title": "Nouveau Delhi : visite du fort Rouge avec transferts, choix d'options",
+  "metaTitle": "Fort Rouge : visite avec transferts",
+  "metaDescription": "Le fort Rouge avec billets coupe-file, un guide privé et transferts, ainsi que les musées sur place.",
+  "shortDescription": "Le fort Rouge avec billets coupe-file, un guide privé et transferts, ainsi que les musées sur place.",
+  "fullDescription": "**La seconde capitale de Shah Jahan, et ce que les Britanniques en ont fait**\n\nIl avait déjà construit le Taj quand il décida qu'Agra était terminée. Le **fort Rouge** fut construit entre 1638 et 1648 comme le palais d'une ville toute nouvelle, Shahjahanabad, avec deux kilomètres de mur de grès rouge sur ce qui était alors la rive de la Yamuna.\n\nCe que l'on parcourt aujourd'hui représente environ un cinquième de ce qui se tenait en 1650. Après 1857, les Britanniques ont démoli une grande partie de l'intérieur, palais, jardins et pavillons, et y ont installé des casernes à la place, ce qui explique pourquoi les cours semblent étrangement vides entre les bâtiments de marbre qui subsistent.\n\nSavoir cela donne tout son sens à la visite.\n\n**À l'intérieur**\n\n**Chatta Chowk**, le bazar couvert et voûté à l'intérieur de la porte de Lahore, qui vendait de la soie, du brocart et des pierres précieuses à la maison impériale.\n\n**Naubat Khana**, la maison des tambours, où les musiciens annonçaient les arrivées et où tous, sauf le cercle le plus proche de l'empereur, descendaient de leur monture.\n\n**Diwan-i-Am**, le hall des audiences publiques. Shah Jahan y entendait les pétitions quotidiennement depuis une alcôve de marbre incrustée de **pietra dura**, des panneaux pillés en 1857 et partiellement rendus par le Victoria and Albert Museum en 1903.\n\n**Diwan-i-Khas**, qui abrita le **trône du Paon** jusqu'à ce que Nadir Shah l'emporte en Perse en 1739. Le couplet persan sur son mur affirme toujours que s'il existe un paradis sur terre, c'est ici.\n\n**Rang Mahal**, **Khas Mahal**, le **hammam**, et la petite **Moti Masjid** de marbre d'Aurangzeb.\n\n**Les musées**\n\nLes musées sur place comprennent la collection archéologique de 1857 et le musée commémoratif de guerre indien dans le Naubat Khana, tous deux inclus dans le billet et généralement vides.\n\n**Trois options**\n\nGuide seul ; fort Rouge avec guide et transferts ; ou avec transferts et billets.\n\n**Pratique**\n\nTrois heures. **Fermé le lundi.** L'entrée coûte 600 ₹ pour les ressortissants étrangers.\n\nLe Premier ministre hisse le drapeau au-dessus de la porte de Lahore chaque 15 août, et le fort ferme pendant plusieurs jours autour de cette date.",
+  "highlights": [
+   "Découvrez l'histoire de la dynastie moghole avec un guide privé"
+  ],
+  "included": [
+   "Billets coupe-file pour le fort Rouge",
+   "Visite privée guidée",
+   "Accès à toutes les zones du fort Rouge et au musée",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Pourboire pour le guide et le chauffeur"
+  ]
+ },
+ "new-delhi-unseco-world-heritage-sites-humayun-tomb": {
+  "title": "Nouveau Delhi : sites classés à l'UNESCO, tombeau de Humayun et musée",
+  "metaTitle": "Tombeau de Humayun et musée",
+  "metaDescription": "Trois heures au tombeau de Humayun et à son musée avec un guide, le bâtiment dont le Taj Mahal s'est inspiré.",
+  "shortDescription": "Trois heures au tombeau de Humayun et à son musée avec un guide, le bâtiment dont le Taj Mahal s'est inspiré.",
+  "fullDescription": "**Le grand-père du Taj**\n\nBega Begum commanda ceci pour son époux en 1565, neuf ans après sa mort, et engagea un architecte persan pour le construire. Le résultat fut le premier grand tombeau-jardin moghol d'Inde, et chaque élément pour lequel le Taj est célèbre apparaît ici en premier : le tombeau placé au centre d'un **charbagh** en quatre parties divisé par des canaux d'eau, le **double dôme**, le grès rouge avec incrustation de marbre blanc, la symétrie bilatérale parfaite.\n\nLe Taj a été commencé soixante-sept ans plus tard. Se tenir ici d'abord change la façon de le voir.\n\n**Le bâtiment**\n\nDe plan octogonal, sur une plateforme de presque sept mètres de haut, avec des renfoncements en arc sur chaque face et un dôme de marbre qui fut le premier de son genre en Inde, une coque extérieure pour la silhouette et une intérieure dimensionnée pour la chambre en dessous.\n\nÀ l'intérieur se trouvent la tombe de Humayun et, chose remarquable, plus de cent autres : ce lieu devint la nécropole dynastique, et des princes, épouses et nobles moghols furent enterrés dans les chambres autour de lui au cours des deux siècles suivants. On l'appelle parfois le dormitoire des Moghols.\n\nC'est aussi là que le dernier empereur, **Bahadur Shah Zafar**, fut capturé par les Britanniques en 1857, après s'être réfugié au tombeau de ses ancêtres.\n\n**La restauration**\n\nL'Aga Khan Trust for Culture a passé une décennie sur ce site à partir de 2007, retirant un million de pieds cubes de terre déposée ultérieurement pour retrouver les niveaux d'origine du jardin, restaurant les canaux d'eau pour qu'ils fonctionnent à nouveau, et reposant le pavage de pierre. C'est généralement considéré comme le meilleur travail de conservation réalisé en Inde.\n\nLe **musée du site**, ouvert en 2022 et largement souterrain, abrite des découvertes du complexe et est réellement bien conçu.\n\n**Également dans le complexe**\n\nLe **tombeau d'Isa Khan**, vingt ans plus ancien que celui de Humayun et avec sa propre enceinte et mosquée, et le **tombeau du Barbier** dans le jardin principal, personne ne sait vraiment à qui il appartient.\n\n**Trois options**\n\nGuide seul ; guide avec billets ; ou voiture, guide et billets.\n\n**Pratique**\n\nTrois heures. L'entrée coûte 600 ₹ pour les ressortissants étrangers. Ouvert tous les jours.",
+  "highlights": [
+   "Émerveillez-vous devant le travail minutieux de grès rouge et de marbre blanc"
+  ],
+  "included": [
+   "Visite privée guidée",
+   "Guide local compétent",
+   "Billets d'entrée coupe-file (si l'option est choisie)",
+   "Prise en charge et retour à l'hôtel (si l'option est choisie)"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

@@ -12904,6 +12904,89 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "new-delhi-and-old-delhi-private-tour-4-8": {
+  "title": "Private Tour durch Neu- und Alt-Delhi, 4 bis 8 Stunden, anpassbar",
+  "metaTitle": "Neu- und Alt-Delhi, anpassbare Tour",
+  "metaDescription": "Eine anpassbare private Tour durch Alt- und Neu-Delhi, von vier bis acht Stunden, mit Auto, Fahrer und Führer.",
+  "shortDescription": "Eine anpassbare private Tour durch Alt- und Neu-Delhi, von vier bis acht Stunden, mit Auto, Fahrer und Führer.",
+  "fullDescription": "**Zwei Städte mit einem Namen**\n\nAlt-Delhi ist Shah Jahans ummauerte Hauptstadt von 1648, Gassen drei Meter breit, immer noch im Handel. Neu-Delhi ist Lutyens' imperiales Raster von 1931, Avenuen sechzig Meter breit und Kreisverkehre, benannt nach Prinzen. Sie liegen acht Kilometer und dreihundert Jahre voneinander entfernt, und diese Tour lässt Sie eine davon wählen oder beide nehmen.\n\n**Alt-Delhi**\n\nDie **Jama Masjid**, 1656 fertiggestellt und noch heute Indiens größte Moschee: roter Sandstein und weißer Marmor um einen Hof, der fünfundzwanzigtausend Menschen fasst. Schultern und Knie bedeckt; Umhänge werden am Tor gegen eine kleine Gebühr verliehen.\n\n**Chandni Chowk**, am besten mit der Fahrradrikscha, der einzig sinnvollen Art, diese Straße zu durchqueren. In den 1650er Jahren von Shah Jahans Tochter Jahanara angelegt, mit einem Kanal in der Mitte, der das Mondlicht spiegelte, und immer noch handwerkszweigweise organisiert, Silber in **Dariba Kalan**, Hochzeitsbesatz im **Kinari Bazaar**, und **Khari Baoli**, der größte Gewürzmarkt Asiens.\n\n**Raj Ghat**, die schwarze Marmorplattform, auf der Gandhi 1948 eingeäschert wurde, mit einer Flamme, die seither nicht erloschen ist.\n\n**Neu-Delhi**\n\n**India Gate** und die Fahrt entlang des **Rajpath** am **Rashtrapati Bhavan** vorbei, 340 Räume unter einer Kuppel, die Lutyens von einem buddhistischen Stupa entlehnte.\n\n**Humayuns Grab**, in den 1560er Jahren von der Witwe des Kaisers erbaut: das erste große Mogul-Gartengrab Indiens, und das direkte Vorbild des Taj sechzig Jahre später.\n\n**Qutub Minar**, begonnen 1193, das höchste Backsteinminarett der Welt, stehend in einem Komplex, der aus dem Stein siebenundzwanzig abgerissener Tempel erbaut wurde, mit der eisernen Säule, die in sechzehnhundert Jahren nicht gerostet ist.\n\n**Vier Optionen**\n\nHalber Tag in Alt-Delhi; halber Tag in Neu-Delhi; ein ganzer Tag, der beide abdeckt; oder ein ganzer Tag mit Eintrittskarten inklusive.\n\n**Praktisches**\n\n**Das Rote Fort ist montags geschlossen**; die Jama Masjid schließt während der Gebete für Besucher. Ihr Führer ordnet den Tag entsprechend.",
+  "highlights": [
+   "Entdecken Sie die kontrastierenden Reize von Alt- und Neu-Delhi mit einem privaten lokalen Führer"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel oder Flughafen",
+   "Privates klimatisiertes Auto für Besichtigungen mit Fahrer",
+   "Professioneller Reiseführer",
+   "Eintrittskarten zu den Denkmälern (falls Option gewählt)",
+   "Mittagessen im Restaurant (falls Option gewählt)",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parkkosten"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "new-delhi-art-craft-and-handicraft-tour": {
+  "title": "Neu-Delhi: Tour zu Kunst, Handwerk und Kunsthandwerk",
+  "metaTitle": "Delhi: Kunst, Handwerk und Kunsthandwerk",
+  "metaDescription": "Viereinhalb Stunden durch Delhis Kunst und Handwerk, das Kunsthandwerksmuseum, Galerien und Handwerksviertel.",
+  "shortDescription": "Viereinhalb Stunden durch Delhis Kunst und Handwerk, das Kunsthandwerksmuseum, Galerien und Handwerksviertel.",
+  "fullDescription": "**Wo das Handwerk tatsächlich entsteht, und wo es gezeigt wird**\n\nEin Tag für Menschen, die lieber sehen, wie Dinge entstehen, als noch ein Grab zu besichtigen. Er bewegt sich zwischen den Institutionen, die indisches Handwerk sammeln, und den Bezirken, in denen es produziert wird.\n\n**Das National Crafts Museum**\n\nDer Ankerpunkt der Tour, bei Pragati Maidan, und eines der am meisten unterschätzten Museen Indiens.\n\nEs beherbergt auf dem Gelände nachgebaute Dorfarchitektur, Stammes- und Volkskunst, Textilien, Terrakotta und Metallarbeiten aus jedem Bundesstaat, und entscheidend, einen **arbeitenden Innenhof**, in dem Weber, Töpfer, Blockdrucker und Stickerinnen ihrem Handwerk nachgehen und direkt verkaufen. Von der Person zu kaufen, die etwas gemacht hat, ist überall selten und hier normal.\n\nDas **Café Lota** im Museumsgelände ist, wo die Tour meist beginnt: ein Freiluftcafé, das regionale indische Küche richtig zubereitet, was den Stopp allein schon wert ist.\n\n**Das Lodhi Art District**\n\nIndiens erstes öffentliches Freiluftkunstviertel, die Wände einer Regierungssiedlung aus den 1940er Jahren vom Boden bis zum Dach von Künstlern aus etwa zwei Dutzend Ländern bemalt. Über fünfzig Wandmalereien über wenige Straßenblocks, die sich ändern, wenn neue Arbeiten entstehen.\n\n**Galerien und Studios**\n\nJe nach Tag: die zeitgenössischen Galerien rund um **Lado Sarai**, die Designer-Innenhöfe von **Shahpur Jat** hinter ihren unbeschrifteten Türen, und **Kumhar Gram**, falls Töpferei interessiert, ein Dorf mit mehreren hundert Töpferfamilien innerhalb der Stadt.\n\n**Dilli Haat**\n\nKunsthandwerk aus jedem Bundesstaat an einem Ort, mit Ständen, die alle zwei Wochen wechseln, sodass sich die Hersteller ändern. Gut zum Einkaufen, und die Preise sind fest, was entspannend ist.\n\n**Praktisches**\n\nViereinhalb Stunden mit privatem Transport und einem Führer.\n\nEintrittsgebühren sind gering und werden an der Tür bezahlt. Das Kunsthandwerksmuseum ist **montags geschlossen**.\n\nWas Sie kaufen, gehört Ihnen; nichts ist inklusive, und Ihr Führer nimmt keine Provision.",
+  "highlights": [
+   "Erleben Sie Delhis reiche Kultur, Kunst und Geschichte"
+  ],
+  "included": [
+   "Mittagessen im Café Lota",
+   "Führer",
+   "Kulturelle Darbietungen im Triveni Kala Sangam (falls verfügbar)",
+   "Transport zwischen den Attraktionen"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben",
+   "Reiseversicherung",
+   "Jegliche Aktivität außerhalb des Reiseplans"
+  ]
+ },
+ "new-delhi-red-fort-tour-with-transfers-choose-form": {
+  "title": "Neu-Delhi: Rotes-Fort-Tour mit Transfers, Option wählen",
+  "metaTitle": "Rotes Fort: Tour mit Transfers",
+  "metaDescription": "Das Rote Fort mit Vorrangtickets, einem privaten Führer und Transfers, sowie den Museen vor Ort.",
+  "shortDescription": "Das Rote Fort mit Vorrangtickets, einem privaten Führer und Transfers, sowie den Museen vor Ort.",
+  "fullDescription": "**Shah Jahans zweite Hauptstadt, und was die Briten damit anstellten**\n\nEr hatte bereits den Taj erbaut, als er entschied, dass Agra fertig war. Das **Rote Fort** entstand zwischen 1638 und 1648 als Palast einer brandneuen Stadt, Shahjahanabad, mit zwei Kilometern roter Sandsteinmauer auf dem, was damals das Ufer der Yamuna war.\n\nWas man heute durchquert, ist etwa ein Fünftel dessen, was 1650 stand. Nach 1857 rissen die Briten einen Großteil des Inneren ab, Paläste, Gärten und Pavillons, und setzten Baracken an ihre Stelle, weshalb sich die Innenhöfe zwischen den erhaltenen Marmorgebäuden seltsam leer anfühlen.\n\nDas zu wissen, gibt dem Besuch Sinn.\n\n**Im Inneren**\n\n**Chatta Chowk**, der überwölbte, überdachte Bazar innerhalb des Lahori-Tors, der Seide, Brokat und Edelsteine an den kaiserlichen Haushalt verkaufte.\n\n**Naubat Khana**, das Trommelhaus, wo Musiker Ankünfte ankündigten und wo jeder außer dem engsten Kreis des Kaisers absteigen musste.\n\n**Diwan-i-Am**, die Halle der öffentlichen Audienz. Shah Jahan hörte hier täglich Petitionen von einer Marmornische mit **Pietra-Dura**-Einlegearbeit aus, Platten, die 1857 geplündert und 1903 teilweise vom Victoria and Albert Museum zurückgegeben wurden.\n\n**Diwan-i-Khas**, der den **Pfauenthron** beherbergte, bis Nadir Shah ihn 1739 nach Persien brachte. Das persische Couplet an seiner Wand besagt noch immer, wenn es ein Paradies auf Erden gibt, ist es dieses.\n\n**Rang Mahal**, **Khas Mahal**, das **Hammam**, und Aurangzebs kleine Marmor-**Moti Masjid**.\n\n**Die Museen**\n\nDie Museen vor Ort umfassen die archäologische Sammlung von 1857 und das Indian War Memorial Museum im Naubat Khana, beide im Ticket enthalten und meist leer.\n\n**Drei Optionen**\n\nNur Führer; Rotes Fort mit Führer und Transfers; oder mit Transfers und Tickets.\n\n**Praktisches**\n\nDrei Stunden. **Montags geschlossen.** Der Eintritt kostet 600 ₹ für ausländische Staatsangehörige.\n\nDer Premierminister hisst jeden 15. August die Flagge über dem Lahori-Tor, und das Fort schließt für mehrere Tage rund um dieses Datum.",
+  "highlights": [
+   "Entdecken Sie die Geschichte der Mogul-Dynastie mit einem privaten Führer"
+  ],
+  "included": [
+   "Vorrangtickets für das Rote Fort",
+   "Private geführte Tour",
+   "Zugang zu allen Bereichen des Roten Forts und des Museums",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Trinkgeld für Führer und Fahrer"
+  ]
+ },
+ "new-delhi-unseco-world-heritage-sites-humayun-tomb": {
+  "title": "Neu-Delhi: UNESCO-Weltkulturerbestätten, Humayuns Grab und Museum",
+  "metaTitle": "Humayuns Grab und Museum",
+  "metaDescription": "Drei Stunden an Humayuns Grab und seinem Museum mit einem Führer, das Gebäude, von dem der Taj Mahal gelernt wurde.",
+  "shortDescription": "Drei Stunden an Humayuns Grab und seinem Museum mit einem Führer, das Gebäude, von dem der Taj Mahal gelernt wurde.",
+  "fullDescription": "**Der Großvater des Taj**\n\nBega Begum beauftragte dies 1565 für ihren Mann, neun Jahre nach seinem Tod, und engagierte einen persischen Architekten für den Bau. Was entstand, war das erste große Mogul-Gartengrab Indiens, und jedes Element, für das der Taj berühmt ist, erscheint hier zuerst: das Grab im Zentrum eines vierteiligen **Charbagh**, durch Wasserkanäle geteilt, die **Doppelkuppel**, roter Sandstein mit weißer Marmoreinlegearbeit, die perfekte bilaterale Symmetrie.\n\nDer Taj wurde siebenundsechzig Jahre später begonnen. Hier zuerst zu stehen, verändert, wie man ihn sieht.\n\n**Das Gebäude**\n\nAchteckig im Grundriss, auf einer fast sieben Meter hohen Plattform, mit Bogennischen an jeder Seite und einer Marmorkuppel, die die erste ihrer Art in Indien war, eine äußere Schale für die Silhouette und eine innere, für die Kammer darunter bemessen.\n\nIm Inneren befinden sich Humayuns Grab und, erstaunlicherweise, mehr als hundert weitere: Dies wurde zur dynastischen Begräbnisstätte, und Mogul-Prinzen, Frauen und Adlige wurden in den folgenden zwei Jahrhunderten in den Kammern um ihn herum bestattet. Es wird manchmal das Schlafsaal der Moguln genannt.\n\nHier wurde auch der letzte Kaiser, **Bahadur Shah Zafar**, 1857 von den Briten gefangen genommen, nachdem er am Grab seiner Vorfahren Zuflucht gesucht hatte.\n\n**Die Restaurierung**\n\nDer Aga Khan Trust for Culture verbrachte ein Jahrzehnt auf diesem Gelände ab 2007, entfernte eine Million Kubikfuß späterer Erdauffüllung, um die ursprünglichen Gartenebenen wiederherzustellen, restaurierte die Wasserkanäle, damit sie wieder fließen, und verlegte das Steinpflaster neu. Es gilt allgemein als die beste Restaurierungsarbeit Indiens.\n\nDas **Standortmuseum**, 2022 eröffnet und größtenteils unterirdisch, beherbergt Funde aus dem Komplex und ist wirklich gut gemacht.\n\n**Ebenfalls im Komplex**\n\n**Isa Khans Grab**, zwanzig Jahre älter als das von Humayun und mit eigener Umfriedung und Moschee, und das **Barbier-Grab** im Hauptgarten, niemand weiß, wem es tatsächlich gehört.\n\n**Drei Optionen**\n\nNur Führer; Führer mit Tickets; oder Auto, Führer und Tickets.\n\n**Praktisches**\n\nDrei Stunden. Der Eintritt kostet 600 ₹ für ausländische Staatsangehörige. Täglich geöffnet.",
+  "highlights": [
+   "Bestaunen Sie die kunstvolle Handwerkskunst aus rotem Sandstein und weißem Marmor"
+  ],
+  "included": [
+   "Private geführte Tour",
+   "Sachkundiger lokaler Führer",
+   "Vorrangeintrittskarten (falls Option gewählt)",
+   "Abholung und Rückbringung zum Hotel (falls Option gewählt)"
+  ],
+  "notIncluded": [
+   "Essen und Getränke"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
