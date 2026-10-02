@@ -5420,6 +5420,53 @@ export const ES_TOURS: Record<string, TourT> = {
    "Agua embotellada y bebidas durante la comida"
   ]
  },
+ "from-delhi-taj-mahal-private-day-tour-with-guide": {
+  "title": "Desde Delhi: visita privada al Taj Mahal con guía y comida de 5 estrellas",
+  "metaTitle": "Delhi-Taj Mahal privado: guía y desayuno o comida 5*",
+  "metaDescription": "Una jornada privada de primera al Taj Mahal desde Delhi con chófer, guía, y una opción de desayuno o comida de cinco estrellas.",
+  "shortDescription": "Una jornada privada de primera al Taj Mahal desde Delhi con chófer, guía, y una opción de desayuno o comida de cinco estrellas.",
+  "fullDescription": "**Todo el día organizado, en un solo coche**\n\nUn chófer privado desde Delhi, un guía autorizado en Agra, y el mismo vehículo todo el día, así que no espera nunca nada. Doce horas de puerta a puerta, que es la duración honesta de un día en el Taj desde Delhi, se presente como se presente.\n\n**La carretera**\n\nLa **Yamuna Expressway** es una autopista de peaje de seis carriles abierta en 2012, y es la razón por la que este viaje es siquiera posible en un día; antes de ella, Delhi-Agra eran cinco horas de carretera nacional atravesando pueblos.\n\nAhora de tres a tres horas y media, con una parada.\n\n**Taj Mahal**\n\nShah Jahan lo empezó en 1632, el año siguiente a la muerte de Mumtaz Mahal al dar a luz a su decimocuarto hijo. Veinte mil obreros, veintidós años, y mármol blanco acarreado 400 km desde Makrana, en Rajastán, en carreta de bueyes y elefantes por una rampa construida para ello.\n\nSu guía cubre la **caligrafía** labrada en letras cada vez más grandes para que desde el suelo cada línea parezca de la misma altura; las incrustaciones de **pietra dura**, con hasta sesenta piezas de cornalina, jaspe, lapislázuli y jade en una sola flor; los cuatro **alminares**, inclinados mínimamente hacia fuera para que un terremoto los dejara caer lejos de la tumba; y la ilusión de la puerta **Darwaza-i-Rauza**, donde el Taj parece encogerse a medida que uno se acerca.\n\nY la única ruptura deliberada de la simetría: el cenotafio de Shah Jahan, colocado fuera del eje central junto al de su esposa por Aurangzeb.\n\n**El Fuerte de Agra**\n\nLa ciudad de arenisca roja de Akbar, de 1565, con los palacios de mármol de Shah Jahan dentro, y el **Musamman Burj**, la torre octogonal donde Aurangzeb lo encerró los últimos ocho años de su vida, con el Taj visible a lo largo del agua.\n\n**Tres opciones**\n\nCoche, conductor y guía; lo mismo con las entradas; o con las entradas y el desayuno.\n\n**Práctico**\n\nDoce horas de puerta a puerta. **El Taj cierra los viernes.**\n\nAvísenos de necesidades vegetarianas, jainistas o sin picante al reservar.",
+  "highlights": [
+   "Admire las vistas del Taj Mahal al amanecer en una visita guiada"
+  ],
+  "included": [
+   "Servicio de recogida y regreso en el aeropuerto o el hotel",
+   "Coche privado con aire acondicionado y conductor",
+   "Entradas a los monumentos (en la opción elegida)",
+   "Servicio de guía en directo en su idioma",
+   "Trayecto en autobús eléctrico desde el aparcamiento del Taj Mahal hasta el monumento",
+   "Botellas de agua",
+   "Desayuno en un hotel de 5 estrellas (en la opción elegida)",
+   "Todos los peajes e impuestos"
+  ],
+  "notIncluded": [
+   "Propinas y gratificaciones para el guía y el conductor",
+   "Cualquier gasto personal"
+  ]
+ },
+ "from-delhi-taj-mahal-sunrise-agra-day-tour-with": {
+  "title": "Desde Delhi: Taj Mahal al amanecer y jornada en Agra con comida de 5 estrellas",
+  "metaTitle": "Delhi: Taj al amanecer y Agra, comida de 5 estrellas",
+  "metaDescription": "El Taj Mahal al amanecer desde Delhi con el Fuerte de Agra, un coche privado y una comida de cinco estrellas, con opciones de entradas.",
+  "shortDescription": "El Taj Mahal al amanecer desde Delhi con el Fuerte de Agra, un coche privado y una comida de cinco estrellas, con opciones de entradas.",
+  "fullDescription": "**El amanecer, y una comida por la que merece la pena parar**\n\nDos cosas separan esto de la excursión estándar desde Delhi: la salida temprana que le lleva al Taj cuando abren las puertas, y una comida de cinco estrellas en lugar de una parada de carretera a las dos de la tarde, cuando todos ya están cansados.\n\nRecogida en Delhi, Gurugram, Noida o cerca, en coche privado con aire acondicionado.\n\n**El Taj con la primera luz**\n\nLas puertas abren media hora antes del amanecer. El mármol se lee gris, luego rosa, luego blanco frío a medida que el sol supera la orilla opuesta del Yamuna, y en diciembre y enero hay niebla sobre el río detrás de la cúpula. La gente a esa hora es una quinta parte de la que habrá a las diez.\n\nShah Jahan lo empezó en 1632, el año siguiente a la muerte de Mumtaz Mahal al dar a luz a su decimocuarto hijo, veinte mil obreros, veintidós años, mármol acarreado 400 km desde Makrana.\n\nSu guía local cubre lo que se escapa con facilidad: la **caligrafía** labrada en tamaños crecientes para que se lea a la misma altura desde el suelo; las incrustaciones de **pietra dura**, donde una sola flor puede llevar sesenta piedras; los cuatro **alminares**, inclinados mínimamente hacia fuera para que un terremoto los dejara caer lejos de la tumba; y la única ruptura deliberada de la simetría, el cenotafio de Shah Jahan, colocado fuera de eje por Aurangzeb.\n\n**El Fuerte de Agra**\n\nDos kilómetros río arriba. La ciudad de arenisca roja de Akbar, de 1565, con los palacios de mármol de su nieto dentro: el **Diwan-i-Am**, el **Khas Mahal**, el **Sheesh Mahal**.\n\nY el **Musamman Burj**, la torre octogonal donde Aurangzeb tuvo preso a su padre los últimos ocho años de su vida, con el Taj visible río abajo. Murió allí, y lo llevaron al otro lado del agua para enterrarlo junto a su esposa.\n\n**Cuatro opciones**\n\nUna versión con inicio en Agra con conductor y guía; desde Delhi con coche y guía; lo mismo con las entradas; o con las entradas y la comida de cinco estrellas.\n\n**Práctico**\n\nUnas nueve horas de visitas más la carretera. **El Taj cierra los viernes.**\n\nAvísenos de necesidades vegetarianas, jainistas o sin picante al reservar.",
+  "highlights": [
+   "Admire el impresionante Taj Mahal, símbolo intemporal del amor"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado y conductor",
+   "Guía local profesional",
+   "Recogida y regreso en el hotel",
+   "Comida bufé en un restaurante de 5 estrellas (si se elige la opción 4)",
+   "Entradas a los monumentos (si se elige la opción 3)",
+   "Agua embotellada durante la visita",
+   "Cubrezapatos para la visita al Taj Mahal"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Reserve un guía oficial para recorrer Bengaluru",
   "metaTitle": "Bengaluru con guía: palacios, Lalbagh, templos y bazares",
