@@ -10723,6 +10723,105 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "delhi-6-day-tour-of-agra-jaipur-and-neemrana": {
+  "title": "Delhi : circuit de 6 jours à Agra, Jaipur et Neemrana",
+  "metaTitle": "Agra, Jaipur et Neemrana en 6 jours",
+  "metaDescription": "Six jours depuis Delhi via Agra et Jaipur, se terminant par une nuit dans un fort du XVe siècle à Neemrana.",
+  "shortDescription": "Six jours depuis Delhi via Agra et Jaipur, se terminant par une nuit dans un fort du XVe siècle à Neemrana.",
+  "fullDescription": "**Le Triangle d'or avec un fort où dormir**\n\nLa différence entre ceci et tout autre triangle de six jours est la dernière étape. Le **fort-palais de Neemrana** fut construit en 1464 sur une colline du district d'Alwar et restauré sur des décennies en un hôtel occupant douze niveaux taillés dans la roche. Y séjourner est vraiment différent de photographier des forts toute la semaine.\n\n**Delhi**\n\nLa **Jama Masjid**, le trajet en cyclo-pousse dans **Chandni Chowk**, **India Gate**, le **tombeau de Humayun**, le tombeau-jardin moghol des années 1560 dont le Taj descend, et **Qutub Minar**.\n\n**Agra**\n\nLe **Taj Mahal** au lever du soleil, quand le marbre passe du gris au rose puis au blanc et que la foule est mince. Puis le **fort d'Agra**, et le **Musamman Burj** où Aurangzeb a emprisonné son père huit ans, le Taj à portée de vue le long du fleuve.\n\n**Fatehpur Sikri** sur la route vers l'ouest : la capitale d'Akbar de 1571, abandonnée après quatorze ans quand l'eau a manqué, raison pour laquelle elle reste intacte.\n\n**Jaipur**\n\nLe **fort d'Amber** sur sa crête, le **City Palace**, le **Jantar Mantar** et le **Hawa Mahal**, plus du temps dans les bazars autour de Johari et Tripolia.\n\n**Neemrana**\n\nSur l'autoroute Delhi-Jaipur, à environ deux heures de l'une ou de l'autre. Le fort descend la colline en douze niveaux de cours, jardins suspendus et pavillons ouverts, et les vues s'étendent sur la plaine depuis chaque terrasse.\n\nIl y a un puits à degrés dans le village en dessous, la **Baoli de Neemrana**, neuf étages et largement vide de visiteurs, et la propriété exploite l'un des plus longs circuits de tyrolienne d'Inde au-dessus du ravin près du fort, si cela vous tente.\n\nMais surtout, c'est un endroit où rester tranquille la dernière nuit d'une semaine chargée.\n\n**Pratique**\n\nVoiture privée climatisée et chauffeur tout au long, guides locaux pour les visites, et le séjour à Neemrana inclus.\n\n**Le Taj est fermé le vendredi**, ce qui fixe la répartition des jours.",
+  "highlights": [
+   "Émerveillez-vous devant l'emblématique Taj Mahal et le majestueux fort d'Agra"
+  ],
+  "included": [
+   "Accueil personnalisé à l'arrivée par un représentant LTT",
+   "Guide touristique professionnel anglophone",
+   "Véhicule privé climatisé avec chauffeur",
+   "Hébergement avec petit-déjeuner quotidien",
+   "Droits d'entrée à toutes les attractions listées",
+   "Toutes les taxes et frais de service"
+  ],
+  "notIncluded": [
+   "Repas (déjeuner et dîner) sauf indication contraire",
+   "Dépenses personnelles (shopping, blanchisserie, pourboires, etc.)",
+   "Tout service non mentionné dans l'itinéraire"
+  ]
+ },
+ "delhi-6-days-golden-triangle-tour-with-varanasi-bo": {
+  "title": "Delhi : Triangle d'or de 6 jours avec Varanasi et balade en bateau",
+  "metaTitle": "Triangle d'or 6 jours avec Varanasi et bateau",
+  "metaDescription": "Six jours depuis Delhi via Agra et Jaipur jusqu'à Varanasi, avec balade en bateau sur le Gange et options d'hôtel.",
+  "shortDescription": "Six jours depuis Delhi via Agra et Jaipur jusqu'à Varanasi, avec balade en bateau sur le Gange et options d'hôtel.",
+  "fullDescription": "**Le Triangle d'or, puis le fleuve**\n\nQuatre jours d'Inde moghole et rajput, puis deux sur le Gange, c'est le changement qui justifie six jours plutôt que quatre.\n\n**Jour 1 : Delhi**\n\nAccueil à l'arrivée. **India Gate**, le **Parlement**, le **tombeau de Humayun**, le tombeau-jardin des années 1560 dont le Taj descend, et **Qutub Minar** avec son pilier de fer non rouillé.\n\nLe **Raj Ghat**, où Gandhi fut incinéré en 1948, et un trajet devant le **fort Rouge** et **Chandni Chowk**.\n\n**Jours 2-3 : Agra**\n\nLe **Taj Mahal**, idéalement au lever du soleil quand le marbre passe du gris au rose puis au blanc et que la foule n'est qu'un cinquième de ce qu'elle devient. Le **fort d'Agra**, avec le **Musamman Burj** où Aurangzeb a emprisonné son père huit ans, le Taj à portée de vue le long du fleuve.\n\n**Fatehpur Sikri** sur le trajet vers Jaipur.\n\n**Jour 4 : Jaipur**\n\nLe **fort d'Amber** au-dessus du lac Maota, le **City Palace**, le **Jantar Mantar** et le **Hawa Mahal**, avec les bazars en soirée.\n\n**Jours 5-6 : Varanasi**\n\nLa **balade en bateau** est le cœur de cette moitié du voyage, et elle doit se faire à l'aube. Toute la façade du fleuve se tourne vers le soleil levant tandis que des milliers de personnes se baignent, lavent leur linge, prient et pratiquent le yoga sur les marches en même temps. Depuis l'eau, les ghats se lisent comme une seule façade de pierre continue, telle que les maharajas qui ont construit les palais au-dessus l'avaient voulu.\n\nAu crépuscule, la **Ganga Aarti** au ghat de Dashashwamedh : lampes de laiton à étages, cloches, conques et encens, exécutée par des prêtres se déplaçant en parfaite unisson.\n\nÀ **Manikarnika**, les feux de crémation brûlent sans interruption depuis des siècles, car les hindous considèrent que mourir ici met fin au cycle des réincarnations. **La photographie y est interdite**, absolument.\n\n**Sarnath**, où Bouddha prononça son premier sermon, se trouve à onze kilomètres.\n\n**Quatre options**\n\nGuide seul ; ou avec hôtels trois, quatre ou cinq étoiles.\n\n**Le Taj est fermé le vendredi.**",
+  "highlights": [
+   "Découvrez les sites historiques de Delhi, dont India Gate, Qutub Minar et le Raj Ghat"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel et à l'aéroport",
+   "Petit-déjeuner quotidien à l'hôtel",
+   "5 nuits en hôtel trois, quatre ou cinq étoiles (selon l'option choisie)",
+   "Voiture privée climatisée pour toutes les visites et transferts",
+   "Guide touristique local expérimenté dans chaque ville",
+   "Balade en bateau le matin sur le Gange à Varanasi",
+   "Eau en bouteille offerte chaque jour",
+   "Trajet en rickshaw électrique au Taj Mahal",
+   "Billets de train : Agra-Varanasi et Varanasi-Delhi"
+  ],
+  "notIncluded": [
+   "Billets d'entrée aux monuments et attractions",
+   "Déjeuner, dîner et dépenses personnelles",
+   "Pourboires pour le chauffeur et le guide"
+  ]
+ },
+ "delhi-6-hour-spiritual-temple-tour-by-car-with": {
+  "title": "Delhi : visite spirituelle des temples de 6 heures en voiture avec guide expert",
+  "metaTitle": "Temples spirituels de Delhi en 6 heures",
+  "metaDescription": "Six heures des temples et lieux sacrés de Delhi en voiture avec un guide, départ matinal pour l'aarti du matin.",
+  "shortDescription": "Six heures des temples et lieux sacrés de Delhi en voiture avec un guide, départ matinal pour l'aarti du matin.",
+  "fullDescription": "**Delhi à six heures du matin est une autre ville**\n\nLes rues sont calmes, la température est supportable, et les temples font ce pour quoi ils existent plutôt que de recevoir des visiteurs. C'est pourquoi cette visite commence tôt, et c'est toute la raison de son efficacité.\n\n**Temple de Laxminarayan (Birla Mandir)**\n\nLe premier arrêt, pour l'**aarti** du matin. Construit par la famille Birla de 1933 à 1939 et inauguré par Gandhi à condition que les personnes de toutes les castes y soient admises, ce qui en 1939 était une déclaration, pas une formalité.\n\nTrois étages de grès crème et ocre de style Nagara, dédié à Vishnou et Lakshmi, avec des sanctuaires annexes à Shiva, Durga, Krishna, Hanuman et Ganesh.\n\n**Gurudwara Bangla Sahib**\n\nLe sanctuaire sikh au dôme doré, construit là où le huitième Guru a abrité les malades lors d'une épidémie de variole et de choléra en 1664. L'eau du puits qu'il a creusé est devenue le **sarovar**, le bassin à côté du hall, et les gens continuent de l'emporter chez eux.\n\nLe **langar** y nourrit dix à vingt mille personnes par jour, gratuitement, cuisiné par des bénévoles. Vous pouvez entrer dans la cuisine, et vous devriez le faire.\n\nTête couverte, des écharpes sont fournies gratuitement à l'entrée, chaussures retirées, pieds lavés en entrant.\n\n**Temple du Lotus**\n\nLa maison d'adoration bahá'íe de 1986 : neuf côtés, vingt-sept pétales de marbre, et un silence complet à l'intérieur. Pas de sermons, pas d'images, pas de rituels, chacun peut s'asseoir et prier ou non. **Fermé le lundi.**\n\n**Akshardham ou ISKCON**, selon le jour\n\n**Akshardham** est en grès rose et marbre blanc sans acier structurel ; notez qu'**aucun téléphone, appareil photo ni sac** n'est autorisé à l'intérieur, avec une sécurité de niveau aéroport. **ISKCON Delhi** est l'opposé : kirtan bruyant et participatif, et prasadam gratuit.\n\n**Trois options**\n\nVoiture et guide ; la même avec droits d'entrée ; ou avec billets et déjeuner.\n\n**Pratique**\n\nSix heures depuis un départ matinal. Les chaussures se retirent plusieurs fois, portez quelque chose de simple. Épaules et genoux couverts à chaque arrêt.",
+  "highlights": [
+   "Assistez à une cérémonie d'aarti traditionnelle emplie de chants, de lumières et de dévotion"
+  ],
+  "included": [
+   "Voiture privée climatisée avec chauffeur professionnel",
+   "Prise en charge et retour à l'hôtel/aéroport à Delhi, Noida ou Gurugram",
+   "Guide expert anglophone professionnel",
+   "Visite des temples et sites spirituels célèbres de Delhi",
+   "Eau potable en bouteille",
+   "Frais de stationnement, carburant et toutes les taxes applicables",
+   "Droits d'entrée (uniquement si l'option sélectionnée inclut les billets d'entrée)",
+   "Déjeuner buffet dans un restaurant local (uniquement si l'option sélectionnée inclut le déjeuner)"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires et gratifications pour le guide et le chauffeur",
+   "Frais de caméra ou de vidéo (le cas échéant)"
+  ]
+ },
+ "delhi-7-day-rishikesh-yoga-ayurveda-and-meditation": {
+  "title": "Delhi : circuit de 7 jours yoga, ayurvéda et méditation à Rishikesh",
+  "metaTitle": "Rishikesh : yoga, ayurvéda et méditation en 7 jours",
+  "metaDescription": "Sept jours de yoga, d'ayurvéda et de méditation à Rishikesh, en partant de Haridwar, avec hébergement.",
+  "shortDescription": "Sept jours de yoga, d'ayurvéda et de méditation à Rishikesh, en partant de Haridwar, avec hébergement.",
+  "fullDescription": "**Sept jours là où la pratique prend sa source**\n\nRishikesh se trouve sur le Gange là où il quitte l'Himalaya, et c'est un lieu de méditation depuis des siècles et un lieu d'écoles de yoga depuis que les Beatles sont venus à l'ashram de Maharishi Mahesh Yogi en 1968. Une semaine est suffisamment longue pour que la pratique cesse d'être une nouveauté.\n\n**Arrivée à Haridwar**\n\nTransfert vers Rishikesh, à 25 km en amont, et temps pour s'installer.\n\nSi votre première soirée le permet, la **Ganga Aarti à Har ki Pauri** à Haridwar vaut le détour : des milliers de lampes posées sur l'eau et emportées en aval, la foule des deux rives chantant.\n\n**Le yoga**\n\nPratique quotidienne, généralement deux fois par jour. **Asana** enseigné à un rythme permettant l'alignement plutôt que la difficulté, et **pranayama**, le contrôle du souffle, que la tradition considère plus important que les postures et que la plupart des yogas occidentaux omettent.\n\nAttendez-vous à **anulom vilom**, **kapalbhati** et **bhramari**, chacun expliqué plutôt que simplement démontré.\n\n**La méditation**\n\nGuidée, généralement de la conscience du souffle vers le mantra. Vingt minutes paraissent nettement plus longues au début et bien plus courtes au cinquième jour.\n\n**L'ayurvéda**\n\nUne consultation d'abord, puis des traitements choisis pour vous plutôt que sur un menu, habituellement l'**abhyanga**, huile médicinale chaude travaillée en longs mouvements par un ou deux thérapeutes, et éventuellement le **shirodhara**, huile versée en un filet constant sur le front.\n\nThérapeutes du même sexe par défaut. Signalez une grossesse, des blessures, une chirurgie récente ou de la tension artérielle avant de commencer ; plusieurs pratiques sont contre-indiquées.\n\n**La ville**\n\n**Laxman Jhula** et **Ram Jhula**, les passerelles suspendues. **Parmarth Niketan** pour l'aarti du soir sur le ghat. L'ashram abandonné des Beatles, aujourd'hui couvert de fresques.\n\n**Pratique**\n\nRishikesh est **entièrement végétarienne et sans alcool** dans ses limites municipales. Appliqué.\n\nL'hébergement est inclus. Apportez des vêtements permettant de s'asseoir en tailleur, et attendez-vous à des matins précoces.",
+  "highlights": [
+   "Plongez dans un voyage spirituel avec yoga, méditation et ayurvéda"
+  ],
+  "included": [
+   "Hébergement",
+   "Bain dans le Gange",
+   "Yoga au bord de la rivière",
+   "Méditation en forêt",
+   "Visites de temples",
+   "Ganga Aarti",
+   "Bain sonore",
+   "Sons de plans d'eau",
+   "Traitements ayurvédiques"
+  ],
+  "notIncluded": [
+   "Vol",
+   "Dépenses personnelles"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
