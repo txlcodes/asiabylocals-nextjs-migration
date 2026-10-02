@@ -11273,6 +11273,95 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "delhi-jaipur-guided-tour": {
+  "title": "Circuit de 3 jours Delhi, Agra et Jaipur, Triangle d'or Inde (à partir de 156,28 $)",
+  "metaTitle": "Delhi Agra Jaipur en 3 jours",
+  "metaDescription": "Trois jours entre Delhi, Agra et Jaipur avec voiture privée, guides et hôtels trois ou quatre étoiles.",
+  "shortDescription": "Trois jours entre Delhi, Agra et Jaipur avec voiture privée, guides et hôtels trois ou quatre étoiles.",
+  "fullDescription": "**La version la plus serrée qui fonctionne encore**\n\nTrois jours, une nuit à Agra, une à Jaipur, les deux longs trajets se plaçant entre les villes plutôt qu'à l'intérieur des journées de visite.\n\n**Delhi**\n\n**Qutub Minar**, 73 mètres de grès rouge cannelé commencé en 1193 par le premier sultan de Delhi, le plus haut minaret en brique du monde. Dans sa cour, le **pilier de fer**, fabriqué au IVe siècle sous les empereurs Gupta et toujours à peine rouillé après seize cents ans à l'air libre, sujet sur lequel les métallurgistes continuent de publier des articles.\n\nLe **tombeau de Humayun**, commandé en 1565 par la veuve de l'empereur et conçu par un architecte persan : le premier tombeau-jardin moghol d'Inde, et le modèle direct du Taj.\n\n**India Gate**, et le vieux Delhi si la journée le permet.\n\n**Agra**\n\nLe **Taj Mahal** avec un guide agréé. Shah Jahan l'a commencé en 1632, l'année après la mort de Mumtaz Mahal. Vingt-deux ans, vingt mille ouvriers, marbre de Makrana à 400 km.\n\nLa **calligraphie** taillée en tailles croissantes pour se lire à la même hauteur depuis le sol ; la **pietra dura** avec jusqu'à soixante pierres par fleur ; les quatre **minarets** inclinés vers l'extérieur pour qu'un tremblement de terre les fasse tomber loin du tombeau ; et l'unique asymétrie, le cénotaphe de Shah Jahan lui-même, ajouté hors axe par Aurangzeb.\n\nLe **fort d'Agra**, et la tour où cet emprisonnement a eu lieu.\n\n**Jaipur, via Fatehpur Sikri**\n\nLa capitale abandonnée d'Akbar sur la route, puis le **fort d'Amber**, le **City Palace**, le **Jantar Mantar** et le **Hawa Mahal**.\n\n**Trois options**\n\nVoiture, chauffeur et guide ; ou avec hôtels trois ou quatre étoiles.\n\n**Pratique**\n\n**Le Taj est fermé le vendredi.** Les droits d'entrée sont séparés sauf si votre option les couvre, environ 2 600 ₹ par personne pour un adulte étranger à travers les trois villes.",
+  "highlights": [
+   "Explorez les sites classés à l'UNESCO de Delhi, Agra et Jaipur"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour toute l'activité",
+   "Guide en direct agréé par le gouvernement dans chaque ville",
+   "2 nuits d'hébergement en hôtel (si l'option est choisie)",
+   "Petit-déjeuner à l'hôtel",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Billets d'entrée aux monuments",
+   "Déjeuner et dîner",
+   "Toute dépense personnelle"
+  ]
+ },
+ "delhi-jim-corbett-2-days-national-park-tour-with": {
+  "title": "Delhi : parc national de Jim Corbett en 2 jours avec transferts",
+  "metaTitle": "Jim Corbett en 2 jours depuis Delhi",
+  "metaDescription": "Deux jours depuis Delhi au parc national de Jim Corbett avec deux safaris en jeep, un guide de la jungle et les transferts.",
+  "shortDescription": "Deux jours depuis Delhi au parc national de Jim Corbett avec deux safaris en jeep, un guide de la jungle et les transferts.",
+  "fullDescription": "**Le plus ancien parc national d'Inde**\n\nCorbett a été créé en 1936 sous le nom de parc national Hailey, le premier du pays, et c'est là que le Projet Tigre a commencé en 1973. Il couvre 1 300 kilomètres carrés de forêt de sal, de prairies et de lits de rivière dans les contreforts de l'Himalaya, et abrite une des populations de tigres les plus denses d'Inde.\n\nIl se trouve à environ six heures de Delhi, ce qui explique que deux jours soient la bonne durée.\n\n**Le trajet**\n\nPrise en charge matinale à Delhi, puis vers le nord via Moradabad jusqu'à **Ramnagar**, la ville à l'entrée du parc. Installation, déjeuner, et départ immédiat pour le safari de l'après-midi.\n\n**Les safaris**\n\nDeux safaris en jeep, un l'après-midi, un à l'aube le lendemain, avec un guide du département des forêts dans le véhicule, ce qui est obligatoire et aussi la raison pour laquelle vous voyez des choses que vous auriez autrement dépassées en voiture.\n\nLes **tigres** sont l'attrait principal, et ceux de Corbett sont véritablement sauvages plutôt qu'habitués, donc les observations relèvent de la chance. Ce que vous verrez sûrement : des **éléphants d'Asie**, souvent en troupeaux ; des **sambars**, **chitals** et **cerfs cochons** ; des **langurs** ; des sangliers sauvages ; et des **gavials** et **crocodiles mugger** sur le lit de la rivière Ramganga.\n\nL'observation des oiseaux est exceptionnelle, plus de 600 espèces enregistrées, dont le grand calao, l'aigle serpentaire huppé, et le bécasseau d'ibis sur les graviers de la rivière en hiver.\n\n**Dhikala** est la zone célèbre, profondément à l'intérieur sur le réservoir de la Ramganga ; **Bijrani** et **Jhirna** sont les zones de jour habituelles. Laquelle vous obtenez est décidée par le département des forêts, pas par nous.\n\n**Deux options**\n\nVoiture, guide de la jungle et deux safaris sans hébergement, ou la même chose avec un resort trois étoiles et les repas inclus.\n\n**Pratique**\n\n**La plupart des zones ferment de la mi-juin à la mi-novembre** pour la mousson ; Jhirna et Dhela restent ouvertes toute l'année. De novembre à février, le temps est froid et clair ; de mars à juin, il est chaud et offre les meilleures observations au point d'eau.\n\nLes permis sont limités et délivrés à l'avance, plus tôt c'est réservé, mieux c'est. Des vêtements de couleurs discrètes, pas de parfum, et une couche chaude pour le trajet de l'aube.",
+  "highlights": [
+   "Vivez deux safaris palpitants, aventures de l'après-midi et du matin"
+  ],
+  "included": [
+   "Prise en charge et retour depuis Delhi (hôtel, domicile ou aéroport)",
+   "Transport climatisé pendant 2 jours",
+   "Guide expert de la forêt pour 2 safaris",
+   "Safari en jeep l'après-midi et le matin au parc national de Jim Corbett",
+   "1 nuit d'hébergement en hôtel cinq ou trois étoiles (si l'option est choisie)",
+   "Formule petit-déjeuner, déjeuner et dîner (si l'option est choisie)",
+   "Bouteille d'eau fournie pendant toute la visite",
+   "Tous les frais de stationnement et taxes inclus"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "delhi-laxmi-narayan-temple-birla-mandir-guided-tou": {
+  "title": "Delhi : visite guidée du temple Laxmi Narayan, Birla Mandir",
+  "metaTitle": "Birla Mandir : temple Laxmi Narayan guidé",
+  "metaDescription": "Une courte visite guidée du temple Laxmi Narayan, le Birla Mandir de Delhi, inauguré par Gandhi en 1939.",
+  "shortDescription": "Une courte visite guidée du temple Laxmi Narayan, le Birla Mandir de Delhi, inauguré par Gandhi en 1939.",
+  "fullDescription": "**Quatre-vingt-dix minutes, et un temple à l'histoire particulière**\n\nLe temple Lakshminarayan, tout le monde l'appelle **Birla Mandir**, a été construit par la famille industrielle Birla entre 1933 et 1939, et il a été inauguré par le **Mahatma Gandhi** à une condition : que les personnes de toutes les castes y soient admises.\n\nEn 1939, ce n'était pas un détail. L'accès aux temples pour les dalits était l'un des combats centraux de l'époque, et la condition de Gandhi a fait de ce bâtiment une déclaration plutôt qu'un simple don.\n\nC'est la raison d'y passer une heure et demie plutôt que de le photographier depuis la route.\n\n**Le temple**\n\nDédié à **Lakshminarayan**, Vishnou avec sa parèdre Lakshmi. Trois étages de grès crème et ocre rouge de style Nagara, avec de hauts shikharas incurvés et énormément de sculptures, construits sur 6,27 acres.\n\nDes sanctuaires annexes honorent **Shiva**, **Durga**, **Krishna**, **Hanuman**, **Ganesh** et le Shiv Parivar.\n\nLe **Sheesh Mahal** et le **Geeta Bhawan** servent aux discours plutôt qu'au culte, et les jardins derrière abritent des fontaines et des scènes sculptées, dont un ensemble assez saisissant sur la mythologie hindoue que les enfants apprécient.\n\nL'architecte était Sris Chandra Chatterjee, travaillant dans un style indien délibérément revivaliste à un moment où la plupart des constructions publiques de Delhi étaient réalisées par les Britanniques dans un tout autre style.\n\n**Ce qui est attendu**\n\nChaussures retirées au comptoir, gratuit et surveillé. Épaules et genoux couverts. **Aucune photographie à l'intérieur des sanctuaires**, et les articles en cuir, ceintures, sacs, portefeuilles bordés de cuir, doivent rester dans la voiture.\n\nC'est un temple actif, donc il y aura des aarti en cours. Vous pouvez vous asseoir à l'arrière aussi longtemps que vous le souhaitez.\n\n**Deux options**\n\nGuide seul, si vous vous y rendez vous-même, ou guide avec transferts depuis votre hôtel.\n\n**Pratique**\n\nUne heure et demie, essentiellement debout et à marcher sur du marbre. L'entrée est gratuite ; les dons sont à votre discrétion.",
+  "highlights": [
+   "Admirez l'architecture"
+  ],
+  "included": [
+   "Visite du temple Birla Mandir avec guide",
+   "Découverte des traditions et rituels hindous"
+  ],
+  "notIncluded": [
+   "Aucune"
+  ]
+ },
+ "delhi-mathura-and-vrindavan-day-trip-with-lunch": {
+  "title": "Delhi : excursion d'une journée à Mathura et Vrindavan avec déjeuner",
+  "metaTitle": "Mathura et Vrindavan en une journée",
+  "metaDescription": "Mathura et Vrindavan en une journée depuis Delhi avec voiture privée, déjeuner et options de guide.",
+  "shortDescription": "Mathura et Vrindavan en une journée depuis Delhi avec voiture privée, déjeuner et options de guide.",
+  "fullDescription": "**Le lieu de naissance et l'enfance de Krishna**\n\nMathura se trouve à 180 km au sud de Delhi, et Vrindavan 11 km plus loin. Ensemble, elles comptent parmi les villes de pèlerinage les plus visitées d'Inde, et elles offrent une expérience complètement différente des monuments de Delhi, ce sont des villes religieuses actives, pas des sites.\n\n**Mathura**\n\nLes hindous considèrent que Krishna est né ici, dans une cellule de prison où ses parents étaient retenus par le roi Kansa. La cellule se trouve sous le complexe du temple **Shri Krishna Janmabhoomi**.\n\nLa sécurité y est la plus stricte que vous rencontrerez en Inde : pas de téléphones, pas d'appareils photo, pas de sacs, parfois pas de ceintures. Laissez tout dans la voiture, il n'y a pas de vestiaire fiable et discuter à la porte n'aboutit à rien.\n\nLe **temple Dwarkadhish**, construit en 1814, est le principal temple actif de Mathura, avec des plafonds peints et des divinités à bascule en période de festival.\n\nLe **Vishram Ghat** sur la Yamuna est l'endroit où Krishna se serait reposé après avoir tué Kansa. Des tortues dans l'eau, et une aarti au crépuscule.\n\n**Vrindavan**\n\nOù Krishna aurait grandi, une ville de plusieurs milliers de temples.\n\n**Banke Bihari** est celui qui compte le plus pour les fidèles, des années 1860, bondé, et avec un rideau tiré devant la divinité toutes les quelques minutes selon la tradition, afin que personne ne retienne son regard trop longtemps.\n\n**Prem Mandir**, achevé en 2012 en marbre italien et illuminé de couleurs changeantes après la tombée de la nuit. Le **temple Krishna Balaram d'ISKCON**, où aboutissent la plupart des visiteurs étrangers et où le kirtan dure toute la journée.\n\n**Pratique**\n\nLes deux villes sont **strictement végétariennes et sans alcool**. Les chaussures se retirent à chaque temple, et la pierre devient chaude à partir d'avril, portez des chaussettes.\n\nLes singes de Vrindavan prennent lunettes et téléphones, réellement et souvent. Tenez-les bien.\n\nDes veuves viennent à Vrindavan vivre le reste de leur vie depuis des siècles, et vous les verrez. C'est un lieu réel, pas un décor.\n\n**Trois options**\n\nTransport seul ; transport avec déjeuner ; ou voiture, déjeuner et guide. Prenez le guide, l'iconographie nécessite des explications.",
+  "highlights": [
+   "Ressentez l'atmosphère spirituelle au Vishram Ghat sur la rivière Yamuna"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Transport en voiture",
+   "Visite du temple Shri Krishna Janmabhoomi",
+   "Visite du temple Dwarkadhish",
+   "Visite du Vishram Ghat",
+   "Visite du temple Banke Bihari",
+   "Visite du temple ISKCON",
+   "Visite du Prem Mandir"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
