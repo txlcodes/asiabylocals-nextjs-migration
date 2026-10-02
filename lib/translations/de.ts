@@ -17766,6 +17766,91 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld (optional)"
   ]
  },
+ "jaipur-morning-or-evening-temple-tour-by-tuk-tuk": {
+  "title": "Jaipur; Morgen- oder Abend-Tempeltour im Tuk-Tuk & Altstadt",
+  "metaTitle": "Jaipur: Tempel im Tuk-Tuk, morgens oder abends",
+  "metaDescription": "Drei Stunden im Tuk-Tuk durch Jaipurs Tempel und Altstadtgassen, morgens oder abends, mit einem lokalen Fahrer.",
+  "shortDescription": "Drei Stunden im Tuk-Tuk durch Jaipurs Tempel und Altstadtgassen, morgens oder abends, mit einem lokalen Fahrer.",
+  "fullDescription": "**Die Stadt in ihrem eigenen Tempo**\n\nEin Tuk-Tuk, ein Fahrer, der hier lebt, drei Stunden, und keine Denkmal-Tickets. Dies ist die Tour für den Tag, nachdem Sie die Forts gemacht haben, Jaipur als arbeitende Stadt statt als Ansammlung von Sehenswürdigkeiten.\n\n**Morgen oder Abend, es sind unterschiedliche Touren**\n\n**Morgens** sind es Tempelglocken, Gebete, Blumenverkäufer, die Ringelblumen für die Opfergaben des Tages aufreihen, und die Gemüsemärkte in ihrer frischesten Form. Die rosa Mauern fangen die tiefstehende Sonne ein und die Straßen sind noch ruhig.\n\n**Abends** ist es umgekehrt: beleuchtete Bazare, geschäftige Chai-Stände, die Altstadt in voller Lautstärke, und das Licht, das golden über die Fassaden zieht.\n\nWählen Sie danach, ob Sie ein Morgenmensch sind. Beide dauern drei Stunden und beginnen beide an Ihrem Hotel.\n\n**Tempel**\n\nJaipurs Tempel erscheinen nicht auf der Standardroute und sie sind dort, wo die Stadt tatsächlich hingeht.\n\n**Govind Dev Ji**, in den Gärten des City Palace, ist der meistgeliebte, das Bild von Krishna wurde hierher aus Vrindavan gebracht, um es vor Aurangzeb zu schützen, und täglich werden sieben Aartis durchgeführt, zu denen sich jeweils eine Halle füllt. Der Maharadscha baute seinen eigenen Palast, damit er die Gottheit von seinem Fenster aus sehen konnte.\n\nAndere hängen von Tag und Stunde ab: die kleinen Shiva-Tempel in den Gassen, die Hanuman-Schreine, und der Kalki-Tempel gegenüber dem Hawa Mahal, gewidmet einem Avatar von Vishnu, der noch nicht angekommen ist.\n\n**Die Gassen**\n\nZwischen den Tempeln arbeitet sich das Tuk-Tuk durch das Altstadtraster, Chhoti Chopad, Badi Chopad, den Blumenmarkt, die Armreif-Gassen, die Gewürzverkäufer. Eng genug, dass ein Auto nicht folgen kann.\n\n**Was Sie wissen sollten**\n\nSchuhe aus an jedem Tempel, Schultern bedeckt, keine Fotografie innerhalb der Schreine. Ihr Fahrer kann Ihre Tasche halten oder Sie können sie im Tuk-Tuk lassen.\n\nKeine Eintrittsgebühren auf dieser Route, Tempel sind kostenlos und Spenden liegen in Ihrem Ermessen.",
+  "highlights": [
+   "Entdecken Sie Jaipurs friedliche Seite bei einer ruhigen Morgen-Tuk-Tuk-Fahrt."
+  ],
+  "included": [
+   "Abholung & Rückfahrt zum Hotel innerhalb der Stadtgrenzen Jaipurs",
+   "3-stündige private Morgen-Tuk-Tuk-Tour mit einem freundlichen lokalen Fahrer",
+   "Masala-Tee und leichte indische Snacks (Samosa oder Kachori)",
+   "Besuch lokaler Jaipur-Straßen und traditioneller Märkte",
+   "Stopp am Govind-Dev-Ji-Tempel zur morgendlichen Aarti-Zeremonie",
+   "Malerische Fotostopps an versteckten Ecken und bunten Gassen",
+   "Wasser in Flaschen während der Tour",
+   "Alle Parkgebühren und Kraftstoffkosten"
+  ],
+  "notIncluded": [
+   "Professioneller Guide-Service (Fahrer ist kein lizenzierter Guide)",
+   "Persönliche Ausgaben und Trinkgeld",
+   "Nicht in den Einschlüssen genannte Mahlzeiten oder Getränke"
+  ]
+ },
+ "jaipur-nahargarh-biological-park-entry-ticket": {
+  "title": "Jaipur: Eintrittskarte für den Nahargarh Biological Park",
+  "metaTitle": "Jaipur: Eintritt Nahargarh Biological Park",
+  "metaDescription": "Eintritt zum Nahargarh Biological Park, 720 Hektar Aravalli-Wald mit Tigern, Löwen, Leoparden und 285 Vogelarten.",
+  "shortDescription": "Eintritt zum Nahargarh Biological Park, 720 Hektar Aravalli-Wald mit Tigern, Löwen, Leoparden und 285 Vogelarten.",
+  "fullDescription": "**Ein Zoo, der größtenteils ein Wald ist**\n\nDer Nahargarh Biological Park bedeckt 720 Hektar an der Straße Jaipur-Delhi, zwölf Kilometer von der Stadt entfernt, innerhalb des größeren Nahargarh-Schutzgebiets. Es ist eine Rettungs- und Erhaltungseinrichtung statt eines traditionellen Zoos, die meisten seiner Tiere kamen aus Zirkussen, von Verletzungen, oder aus Konflikten mit Dörfern, und die Gehege sind Hügelwald statt Käfige.\n\n**Was es hier gibt**\n\n**Asiatische Löwen**, die in der Wildnis an genau einem Ort der Erde existieren, dem Gir-Wald in Gujarat, und etwa 700 an der Zahl sind. Die Zuchtprogramme in Parks wie diesem sind der Grund, warum es einen zweiten Korb für diese Eier gibt.\n\n**Bengaltiger**, **Leoparden**, **Hyänen**, **Wölfe**, **Lippenbären**, **Krokodile**, **Schakale** und mehrere Hirscharten.\n\n**Die Vögel**\n\nDas ist der Teil, den die meisten Besucher nicht erwarten. Das Schutzgebiet verzeichnet über 285 Arten, und **Ram Sagar** im Park ist ein bekannter Vogelbeobachtungsort, Reiher, Störche, Eisvögel, Greifvögel darüber, und Zugvögel im Winter.\n\nWonach man suchen sollte, ist die **Weißnackenmeise**, ein kleiner schwarz-weißer Vogel, der gefährdet ist und sonst in Indien sehr schwer zu sehen ist. Vogelbeobachter kommen speziell dafür hierher.\n\n**Die Löwen- und Tiger-Safari**\n\nEine separate kurze Fahrzeug-Safari führt innerhalb des Parks durch die großen Gehege, was etwas anderes ist als das Gehen der Pfade. Fragen Sie am Tor; sie wird separat bezahlt und läuft nach eigenen Zeiten.\n\n**Praktisch**\n\nRechnen Sie mit mindestens zwei bis drei Stunden; begeisterte Vogelbeobachter werden einen ganzen Morgen wollen.\n\n**Dienstags geschlossen.** Die Öffnungszeiten wechseln zwischen Sommer- und Winterplan, und die Tiere sind in den ersten und letzten Stunden des Tages am aktivsten, die Mitte eines heißen Nachmittags ist die schlechteste Zeit zum Kommen.\n\nEs gibt echtes Gehen auf unebenem Boden, und Schatten ist unregelmäßig. Bringen Sie Wasser mit, und ein Fernglas, falls Sie eines haben.\n\nDies ist eine Eintrittskarte. Transport zum Park ist nicht inklusive.",
+  "highlights": [
+   "Entdecken Sie Jaipurs besten Wildpark in den Aravalli-Hügeln"
+  ],
+  "included": [
+   "Eintrittskarte für den Nahargarh Biological Park"
+  ],
+  "notIncluded": [
+   "Geführte Tour",
+   "Persönliche Ausgaben",
+   "Essen und Mahlzeiten"
+  ]
+ },
+ "jaipur-pink-city-half-day-tour-with-hotel-pickup": {
+  "title": "Jaipur: Pink-City-Halbtagestour mit Hotelabholung",
+  "metaTitle": "Jaipur: Halbtag Pink City mit Hotel",
+  "metaDescription": "Ein halber Tag mit Jaipurs Highlights im privaten klimatisierten Auto mit Guide und Hotelabholung. Etwa viereinhalb Stunden.",
+  "shortDescription": "Ein halber Tag mit Jaipurs Highlights im privaten klimatisierten Auto mit Guide und Hotelabholung. Etwa viereinhalb Stunden.",
+  "fullDescription": "**Viereinhalb Stunden, und was ehrlich hineinpasst**\n\nEin halber Tag in Jaipur ist eine echte Wahl statt eines Kompromisses, vorausgesetzt Sie wissen, was er abdeckt. Dieser hier macht die Altstadt-Gruppe und die Straße hinaus zum See, **City Palace**, **Jantar Mantar**, **Hawa Mahal** und **Jal Mahal**, mit **Amber Fort** bei den längeren Optionen inklusive.\n\nEr passt zu einem Ankunftstag, einem Abreisemorgen, oder dem zweiten Tag eines zweitägigen Aufenthalts, nachdem die Forts erledigt sind.\n\n**City Palace**\n\nAb 1729 von Jai Singh II im Zentrum seiner neuen Stadt erbaut, und ein Teil davon ist noch immer die Residenz der königlichen Familie, die Flagge über dem **Chandra Mahal** zeigt an, ob sie anwesend sind.\n\nInnenhöfe, die Waffenkammer, die Textilgalerien, und die beiden Silberurnen im Diwan-i-Khas: die größten Silberobjekte der Welt, hergestellt, damit ein Maharadscha Ganges-Wasser für eine Krönung nach England bringen konnte.\n\n**Jantar Mantar**\n\nDirekt nebenan, und UNESCO-gelistet: neunzehn gemauerte astronomische Instrumente, erbaut in den 1730er Jahren. Das **Samrat Yantra** ist eine 27 Meter hohe Sonnenuhr, die noch auf etwa zwei Sekunden genau ist, und die Instrumente, die Planetenpositionen verfolgen, funktionieren noch. Ihr Guide kann sie vorführen, das ist der Unterschied zwischen einem Feld von Formen und einem Observatorium.\n\n**Hawa Mahal**\n\nDas fünfstöckige Gitterwerk mit 953 Fenstern, 1799 erbaut, damit die Frauen des Hofes Straßenprozessionen beobachten konnten, ohne von der Straße aus gesehen zu werden. Für den größten Teil der Höhe weniger als einen Meter tief, ein Sichtschutz, kein Palast. Morgenlicht ist, wenn es richtig pink wird.\n\n**Jal Mahal**\n\nVom Damm über dem Man-Sagar-See. Vier seiner fünf Stockwerke sind untergetaucht und niemand geht hinein.\n\n**Drei Optionen**\n\nAuto und Guide; Auto, Guide und Eintrittskarten; oder eine Rundum-Version.\n\n**Praktisch**\n\nPrivates klimatisiertes Fahrzeug mit Hotelabholung und Rückfahrt.\n\nBei der Option ohne Tickets rechnen Sie mit etwa ₹1.000 pro Kopf für einen ausländischen Erwachsenen für den Palast und das Observatorium.",
+  "highlights": [
+   "Entdecken Sie Jaipurs reiches königliches Erbe auf einer privaten Besichtigungstour"
+  ],
+  "included": [
+   "Abholung & Rückfahrt von Hotel/Flughafen",
+   "Privates klimatisiertes Fahrzeug",
+   "Professioneller, von der Regierung zugelassener Guide",
+   "Das Beste der Pink-City-Besichtigungstour",
+   "Entdecken Sie historische Paläste",
+   "Unbegrenzte Wasserflasche",
+   "Eintrittsgebühren (falls Option gewählt)",
+   "Mittagessen (falls Option gewählt)",
+   "Alle Steuern und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Trinkgeld (optional)"
+  ]
+ },
+ "jaipur-pink-city-walking-tour-with-local-guide": {
+  "title": "Jaipur: Pink-City-Wandertour mit lokalem Guide",
+  "metaTitle": "Jaipur: Pink-City-Wandertour, lokaler Guide",
+  "metaDescription": "Eine vierstündige Wandertour durch Jaipurs Altstadt mit einem lokalen Guide, von Hawa Mahal durch die Bazare.",
+  "shortDescription": "Eine vierstündige Wandertour durch Jaipurs Altstadt mit einem lokalen Guide, von Hawa Mahal durch die Bazare.",
+  "fullDescription": "**Die ummauerte Stadt zu Fuß, so wie sie entworfen wurde**\n\nJai Singh II legte Jaipur 1727 auf einem Neun-Felder-Raster an, mit festgelegten Straßenbreiten und jedem Handwerk ein eigener Block zugewiesen. Der gesamte Plan wurde zum Begehen gebaut, und ihn zu begehen ist die einzige Möglichkeit, den Plan sichtbar zu machen.\n\nVier Stunden, vollständig innerhalb der Altstadt.\n\n**Hawa Mahal**\n\nWo der Spaziergang beginnt. 1799 von Maharaja Sawai Pratap Singh erbaut, entworfen von Lal Chand Ustad, aus rotem und rosa Sandstein als Erweiterung des Zenana des City Palace.\n\n**953 Fenster** über fünf Stockwerke, und für den größten Teil der Höhe weniger als einen Meter tief, es ist ein Sichtschutz statt ein Gebäude, gemacht, damit die Frauen des Hofes Straßenprozessionen beobachten konnten, ohne gesehen zu werden. Die Fassade soll Krishnas Krone ähneln.\n\nVon der gegenüberliegenden Straße, im Morgenlicht, ist es das meistfotografierte Objekt in Rajasthan.\n\n**Das Raster**\n\nDann hinein: **Chhoti Chopad** und **Badi Chopad**, die großen Kreuzungen des Plans von 1727, und die Bazare, die von ihnen ausstrahlen.\n\n**Johari Bazaar** für Schmuck, Kundan und Meenakari, die beiden Techniken, für die die Stadt bekannt ist. **Tripolia** und **Maniharon ka Rasta** für Lack-Armreifen, über einer Flamme vor Ihnen gefertigt. **Bapu Bazaar** für Textilien und Mojari-Schuhe. Und die Gassen, wo Gewürze, Süßigkeiten und Blumen noch dort verkauft werden, wo der Plan sie vor dreihundert Jahren platzierte.\n\n**Tempel und Innenhöfe**\n\nDie kleinen Tempel innerhalb der Wohnblöcke, die überhaupt keine Besucher sehen, und die Havelis hinter ihren Toren, die meisten davon noch bewohnt.\n\n**City Palace und Jantar Mantar** von außen, wobei Ihr Guide erklärt, was innen ist, falls Sie mit einem Ticket zurückkommen möchten.\n\n**Praktisch**\n\nVier Stunden zu Fuß über unebenen Stein und durch Verkehr, flache Schuhe, und Wasser.\n\nDer Eintritt zu Denkmälern ist nicht inklusive; der Spaziergang deckt Außenbereiche, Straßen und kostenlose Stätten ab, und Ihr Guide wird Ihnen sagen, welche Innenräume ein separates Ticket wert sind.\n\nMorgen sind für dies in jedem Monat weit besser als Nachmittage.",
+  "highlights": [
+   "Entdecken Sie Jaipurs UNESCO-gelistete Pink City auf einer geführten Wandertour"
+  ],
+  "included": [
+   "Professioneller Guide",
+   "Mineralwasserflasche"
+  ],
+  "notIncluded": [
+   "Trinkgeld",
+   "Das Ticket für den City Palace, Tripolia Bazar nahe dem Jantar Mantar"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
