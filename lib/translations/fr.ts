@@ -11362,6 +11362,104 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "delhi-nehru-planetarium-with-transfers": {
+  "title": "Delhi : planétarium Nehru avec transferts",
+  "metaTitle": "Planétarium Nehru à Delhi",
+  "metaDescription": "Une visite guidée du planétarium Nehru à Delhi avec spectacle sous coupole et expositions du programme spatial indien, transferts inclus.",
+  "shortDescription": "Une visite guidée du planétarium Nehru à Delhi avec spectacle sous coupole et expositions du programme spatial indien, transferts inclus.",
+  "fullDescription": "**Un planétarium, et un bon**\n\nLe planétarium Nehru se trouve dans les jardins de Teen Murti Bhavan, qui fut la résidence officielle de Jawaharlal Nehru et qui est désormais un musée à sa mémoire. Le planétarium a ouvert en 1984 et montre le ciel aux écoliers de Delhi depuis lors.\n\nC'est une chose inhabituelle à réserver lors d'un voyage en Inde, et cela convient à deux types de voyageurs : les familles avec enfants lassés des forts, et quiconque s'intéresse à la façon dont l'Inde est entrée dans l'espace.\n\n**Le spectacle sous coupole**\n\nL'événement principal : un voyage projeté à travers le système solaire puis dans la galaxie, narré, sous une coupole avec sièges inclinables. Les séances ont lieu à heures fixes en anglais et en hindi, et durent environ quarante minutes.\n\nC'est un véritable planétarium optique plutôt qu'un écran vidéo, ce qui signifie que le champ d'étoiles est projeté plutôt que rendu numériquement, et sur une coupole cela se lit très différemment.\n\n**Les expositions**\n\nLes galeries couvrent les bases de l'astronomie puis la partie que la plupart des visiteurs n'attendent pas : **le programme spatial indien**.\n\nRakesh Sharma a volé grâce au programme de ce pays en 1984 et a parlé à Indira Gandhi depuis l'orbite, elle lui a demandé à quoi l'Inde ressemblait de là-haut, et il a répondu *saare jahan se achha*, le premier vers d'un célèbre poème ourdou. Cet échange explique en partie l'importance locale de ce bâtiment.\n\nIl y a des modèles de lanceurs indiens, du matériel satellite, et des présentations sur **Chandrayaan** et **Mangalyaan**, la mission martienne qui a atteint l'orbite avec un budget inférieur à celui de la plupart des films hollywoodiens.\n\n**Teen Murti Bhavan**\n\nLes jardins valent les vingt minutes supplémentaires. Le bureau et la chambre de Nehru sont conservés tels qu'ils étaient, ce qui en dit beaucoup sur l'homme.\n\n**Pratique**\n\nEnviron quatre heures avec prise en charge et retour à l'hôtel en voiture climatisée.\n\nLes horaires des séances sont fixes, donc la prise en charge s'organise en fonction. Fermé le lundi et les jours fériés.\n\nLa coupole est froide, la climatisation est réglée pour l'équipement, pas pour les personnes. Apportez une couche même en juin.",
+  "highlights": [
+   "Plongez dans les merveilles de l'univers au planétarium Nehru"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel en véhicule privé climatisé",
+   "Billets d'entrée au planétarium Nehru",
+   "Services d'un guide compétent et sympathique"
+  ],
+  "notIncluded": [
+   "Aucune"
+  ]
+ },
+ "delhi-private-4-day-golden-triangle-tour-with-taj": {
+  "title": "Delhi : Triangle d'or privé de 4 jours avec le Taj Mahal",
+  "metaTitle": "Triangle d'or privé 4 jours, Taj Mahal",
+  "metaDescription": "Quatre jours privés entre Delhi, Agra et Jaipur, prise en charge partout dans le NCR et options d'hôtel.",
+  "shortDescription": "Quatre jours privés entre Delhi, Agra et Jaipur, prise en charge partout dans le NCR et options d'hôtel.",
+  "fullDescription": "**Prise en charge n'importe où dans le NCR, y compris l'aéroport**\n\nHôtel, résidence ou aéroport, et n'importe où à Delhi, Noida, Gurugram, Ghaziabad ou Faridabad. Cela compte plus qu'il n'y paraît, un très grand nombre de visiteurs séjournent hors du centre de Delhi, et la plupart des itinéraires supposent le contraire.\n\n**Jour 1 : Delhi, puis Agra**\n\nPoints forts de la ville le matin : **Qutub Minar**, commencé en 1193, avec le pilier de fer debout depuis seize siècles sans avoir rouillé ; le **tombeau de Humayun**, le tombeau-jardin moghol des années 1560 dont le Taj descend ; et **India Gate**.\n\nPuis le trajet panoramique vers le sud sur la Yamuna Expressway.\n\n**Jour 2 : Agra**\n\nLe **Taj Mahal** au lever du soleil. Shah Jahan l'a commencé en 1632, l'année après la mort de Mumtaz Mahal en donnant naissance à leur quatorzième enfant. Vingt-deux ans, vingt mille ouvriers, marbre transporté sur 400 km depuis Makrana au Rajasthan.\n\nVotre guide explique la **calligraphie** taillée en tailles croissantes pour se lire à la même hauteur depuis le sol ; l'incrustation en **pietra dura**, jusqu'à soixante pierres dans une seule fleur ; les quatre **minarets**, inclinés vers l'extérieur pour qu'un tremblement de terre les fasse tomber loin du tombeau ; et l'unique asymétrie de toute la composition.\n\nLe **fort d'Agra**, et le **Musamman Burj** où il est mort prisonnier de son propre fils.\n\n**Jour 3 : Agra à Jaipur**\n\n**Fatehpur Sikri** en chemin, la capitale d'Akbar de 1571, abandonnée après quatorze ans et préservée pour cette raison.\n\n**Jour 4 : Jaipur, puis Delhi**\n\nLe **fort d'Amber** au-dessus du lac Maota, le **City Palace**, le **Jantar Mantar** et le **Hawa Mahal**, puis le retour.\n\n**Trois options**\n\nVoiture, chauffeur et guide ; ou avec hôtels trois ou quatre étoiles.\n\n**Pratique**\n\n**Le Taj est fermé le vendredi.**\n\nLes droits d'entrée sont séparés sauf si votre option les couvre, environ 2 600 ₹ par personne pour un adulte étranger.",
+  "highlights": [
+   "Explorez l'emblématique Triangle d'or de l'Inde : Delhi, Agra et Jaipur en 4 jours"
+  ],
+  "included": [
+   "Prise en charge et retour pratique à l'hôtel",
+   "Véhicule privé climatisé pour un trajet confortable",
+   "Guide personnel dédié sur tous les sites majeurs",
+   "Authentique tour en cyclo-pousse dans les rues animées du vieux Delhi",
+   "2 nuits de séjour confortable en hôtel (si l'option est choisie)",
+   "Petit-déjeuner quotidien à l'hôtel (si l'option hébergement est choisie)",
+   "Billets d'entrée à tous les monuments (si l'option tout compris est choisie)",
+   "Délicieux déjeuner quotidien (si l'option tout compris est choisie)",
+   "Trajet en bus électrique écologique au Taj Mahal",
+   "Eau en bouteille offerte pendant tout le voyage"
+  ],
+  "notIncluded": [
+   "Frais de dîner",
+   "Pourboires et gratifications",
+   "Toute dépense personnelle",
+   "Repas (disponibles en option)",
+   "Options de billets d'entrée aux monuments pré-réservés"
+  ]
+ },
+ "delhi-private-5-day-golden-triangle-tour-with-fema": {
+  "title": "Delhi : Triangle d'or privé de 5 jours avec guide féminine",
+  "metaTitle": "Triangle d'or privé 5 jours, guide féminine",
+  "metaDescription": "Cinq jours privés entre Delhi, Agra et Jaipur avec une guide féminine, et hôtels de trois à cinq étoiles.",
+  "shortDescription": "Cinq jours privés entre Delhi, Agra et Jaipur avec une guide féminine, et hôtels de trois à cinq étoiles.",
+  "fullDescription": "**Une guide féminine pour tout le voyage**\n\nLe métier de guide dans le nord de l'Inde est majoritairement masculin, et beaucoup de voyageuses, femmes seules, mères voyageant avec leurs filles, couples plus âgés, préfèrent simplement passer cinq jours avec une femme. Les guides de cet itinéraire sont agréées par le même examen d'état que leurs collègues masculins.\n\nC'est la différence ici ; l'itinéraire est le classique, sur cinq jours plutôt que trois.\n\n**Delhi**\n\n**Qutub Minar** avec le pilier de fer debout depuis plus de seize cents ans sans avoir rouillé. Le **tombeau de Humayun**, le tombeau-jardin moghol des années 1560 sur lequel le Taj a été modelé, et le monument le mieux restauré d'Inde, après une décennie de travaux par l'Aga Khan Trust.\n\n**India Gate**, et la **Jama Masjid** et **Chandni Chowk** du vieux Delhi, mieux à visiter en cyclo-pousse.\n\n**Agra**\n\nLe **Taj Mahal** au lever du soleil, quand le marbre passe du gris au rose puis au blanc et que la foule n'est qu'un cinquième de ce qu'elle devient.\n\nLe **fort d'Agra**, et le **Musamman Burj** où Aurangzeb a emprisonné son père huit ans, le Taj à portée de vue le long du fleuve.\n\n**Fatehpur Sikri** sur la route vers l'ouest.\n\n**Jaipur**\n\nLe **fort d'Amber** au-dessus du lac Maota avec le **Sheesh Mahal**, le **City Palace**, les dix-neuf instruments de pierre du **Jantar Mantar**, et le **Hawa Mahal**.\n\nCinq jours laissent de la place pour **Nahargarh** au coucher du soleil et une soirée dans les bazars, où une guide féminine est réellement utile, car le prix qui vous est annoncé varie selon qui le demande.\n\n**Quatre options**\n\nSans hébergement, ou avec hôtels trois, quatre ou cinq étoiles.\n\n**Pratique**\n\n**Le Taj est fermé le vendredi.**\n\nLes droits d'entrée sont séparés sauf indication contraire, environ 2 600 ₹ par personne pour un adulte étranger à travers les trois villes.",
+  "highlights": [
+   "Émerveillez-vous devant la beauté du Taj Mahal au lever du soleil"
+  ],
+  "included": [
+   "Visite privée",
+   "4 nuits d'hébergement (si le circuit est réservé avec l'option hôtels)",
+   "Petit-déjeuner quotidien à l'hôtel (si le circuit est réservé avec l'option hôtels)",
+   "Transport en véhicule privé climatisé",
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Toutes les visites avec des guides locaux privés",
+   "Trajet en bus électrique entre le parking et le monument du Taj Mahal",
+   "Bouteilles d'eau minérale pour les trajets en voiture",
+   "Toutes les taxes et frais de service, y compris toutes les taxes hôtelières applicables"
+  ],
+  "notIncluded": [
+   "Billets d'entrée aux monuments",
+   "Pourboires (facultatifs)"
+  ]
+ },
+ "delhi-private-guided-evening-city-tour-with-hotel-": {
+  "title": "Delhi : visite privée guidée de la ville en soirée avec transfert à l'hôtel",
+  "metaTitle": "Delhi : visite guidée de la ville en soirée",
+  "metaDescription": "Les monuments de Delhi illuminés la nuit avec un guide privé et transferts à l'hôtel, options dîner et journée complète.",
+  "shortDescription": "Les monuments de Delhi illuminés la nuit avec un guide privé et transferts à l'hôtel, options dîner et journée complète.",
+  "fullDescription": "**La ville illuminée, et suffisamment fraîche pour en profiter**\n\nDelhi le soir est une toute autre proposition : la température baisse, la circulation se raréfie, et les monuments sont illuminés. D'avril à septembre, c'est le seul moment confortable pour être en extérieur, et même en hiver c'est la meilleure moitié de la journée.\n\n**India Gate**\n\nL'arc de 42 mètres sur Rajpath, gravé des noms de plus de 13 000 soldats, illuminé par le bas avec les pelouses pleines de familles et de charrettes de glaces. C'est là que Delhi passe réellement ses soirées.\n\nLa flamme de l'**Amar Jawan Jyoti** a été déplacée vers le mémorial national de guerre voisin en 2022, et ce mémorial vaut les dix minutes supplémentaires.\n\n**Rashtrapati Bhavan et Rajpath**\n\nTout l'axe de Lutyens illuminé, la résidence présidentielle au sommet, les bâtiments du secrétariat de chaque côté, et le boulevard cérémoniel descendant jusqu'à India Gate.\n\n**Le tombeau de Humayun et Qutub Minar**\n\nTous deux illuminés depuis l'extérieur. Le complexe de Qutub se lit particulièrement mieux illuminé qu'à midi, car la lumière fait ressortir la profondeur des bandes d'inscription sur le minaret.\n\n**Akshardham**\n\nSur certaines options, pour le **spectacle d'eau et de lumière** du soir sur le puits à degrés. Lisez d'abord ceci : **aucun téléphone, appareil photo, sac ni électronique** n'est autorisé à l'intérieur, la sécurité est de niveau aéroport, et le complexe est **fermé le lundi**.\n\n**Bangla Sahib**\n\nLe gurudwara sikh au dôme doré, illuminé et reflété dans le bassin, ouvert toute la nuit. La cuisine gratuite fonctionne à toute heure de votre visite. Tête couverte, chaussures retirées, pieds lavés en entrant.\n\n**Six options**\n\nGuide seul ; visite du soir en voiture avec guide ; avec billets ; avec billets et dîner ; la visite complète du soir avec transferts ; ou une version journée complète.\n\n**Pratique**\n\nEnviron quatre heures pour les options du soir.\n\nLes soirées de novembre à février sont assez fraîches pour une veste.",
+  "highlights": [
+   "Sentez la brise du soir en explorant les sites emblématiques de Delhi"
+  ],
+  "included": [
+   "Guide touristique professionnel",
+   "Visite du Rashtrapati Bhavan",
+   "Visite d'India Gate",
+   "Visite du tombeau de Safdarjung",
+   "Visite de Qutub Minar",
+   "Visite du Gurudwara Bangla Sahib",
+   "Transport confortable",
+   "Bouteilles d'eau offertes",
+   "Repas (si l'option est choisie)",
+   "Droits d'entrée (si l'option est choisie)",
+   "Tous les frais de stationnement, péages, carburant et taxes"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
