@@ -5705,6 +5705,51 @@ export const FR_TOURS: Record<string, TourT> = {
    "Gratifications : pourboires pour le guide et le chauffeur"
   ]
  },
+ "from-jaipur-taj-mahal-agra-fort-baby-taj-private": {
+  "title": "Depuis Jaipur : visite privée du Taj Mahal, du fort d'Agra et du Baby Taj",
+  "metaTitle": "Jaipur : Taj au lever du soleil, fort et Baby Taj",
+  "metaDescription": "Le lever du soleil au Taj Mahal depuis Jaipur en voiture privée, avec le fort d'Agra et le Baby Taj, déjeuner et billets.",
+  "shortDescription": "Le lever du soleil au Taj Mahal depuis Jaipur en voiture privée, avec le fort d'Agra et le Baby Taj, déjeuner et billets.",
+  "fullDescription": "**Le lever du soleil à Agra, au départ de Jaipur**\n\nJaipur-Agra, c'est 240 km, quatre à cinq heures par Bharatpur. Pour être au Taj à l'ouverture des portes, on quitte Jaipur en pleine nuit, ce qui paraît déraisonnable et c'est la seule façon d'avoir le lever du soleil sans changer d'hôtel.\n\nDouze heures, voiture privée climatisée, et un guide à Agra.\n\n**Le Taj aux premières lueurs**\n\nLes portes ouvrent une demi-heure avant le lever du soleil. Le marbre devient gris, puis rose, puis blanc à mesure que le soleil dépasse la Yamuna ; en hiver il y a de la brume sur le fleuve derrière le dôme.\n\nShah Jahan l'a commencé en 1632, l'année suivant la mort de Mumtaz Mahal en donnant naissance à leur quatorzième enfant. Vingt mille ouvriers, vingt-deux ans, du marbre acheminé sur 400 km depuis Makrana, les mêmes carrières rajasthanies qui ont fourni la moitié de Jaipur.\n\nVotre guide vous montrera la **calligraphie** gravée en tailles croissantes pour se lire d'une hauteur égale depuis le sol, les incrustations de **pietra dura**, jusqu'à soixante pierres par fleur, les quatre **minarets** inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau, et la seule asymétrie de tout l'édifice, le cénotaphe de Shah Jahan lui-même, placé hors de l'axe à côté de celui de sa femme par Aurangzeb.\n\n**Le fort d'Agra**\n\nLa ville de grès rouge d'Akbar, 1565, reconstruite à l'intérieur en marbre par Shah Jahan. Le **Diwan-i-Am**, le **Sheesh Mahal**, et le **Musamman Burj**, la tour octogonale où Aurangzeb a retenu son père prisonnier huit ans, le Taj visible en aval du fleuve.\n\n**Itimad-ud-Daulah, le Baby Taj**\n\nDe l'autre côté de la Yamuna : le tombeau que Nur Jahan a fait élever pour son père, 1622-1628, le premier édifice moghol entièrement en marbre et le premier usage de la pietra dura en Inde. Il précède le Taj d'une décennie et l'a rendu possible.\n\n**Trois options**\n\nGuide, voiture climatisée, droits d'entrée et déjeuner ; voiture, chauffeur et guide ; ou la version la plus complète avec tout compris.\n\n**Pratique**\n\nDouze heures de porte à porte avec un départ avant l'aube. **Le Taj est fermé le vendredi.**",
+  "highlights": [
+   "Vivez le Taj Mahal au lever du soleil, illuminé par la lumière matinale"
+  ],
+  "included": [
+   "Véhicule privé climatisé avec chauffeur",
+   "Guide professionnel anglophone",
+   "Prise en charge et retour à l'hôtel à Jaipur",
+   "Billets d'entrée coupe-file pour le Taj Mahal et le fort d'Agra (selon l'option choisie)",
+   "Eau en bouteille pendant le trajet",
+   "Déjeuner indien traditionnel (selon l'option choisie)"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "from-jaipur-taj-mahal-agra-fort-tour-and-drop": {
+  "title": "Depuis Jaipur : Taj Mahal et fort d'Agra avec dépose à Delhi",
+  "metaTitle": "Jaipur-Agra-Delhi : Taj Mahal et fort, un transfert combiné",
+  "metaDescription": "De Jaipur à Agra pour le Taj Mahal et le fort d'Agra, avec dépose finale à Delhi. Une excursion et un transfert en un.",
+  "shortDescription": "De Jaipur à Agra pour le Taj Mahal et le fort d'Agra, avec dépose finale à Delhi. Une excursion et un transfert en un.",
+  "fullDescription": "**Une excursion qui vous déplace entre les villes**\n\nC'est la formule utile pour quiconque fait le Triangle d'or dans un sens. Plutôt que de payer séparément Jaipur-Agra, une visite, puis Agra-Delhi, tout se déroule en une seule journée : prise en charge à Jaipur, les monuments à Agra, et dépose à Delhi le soir même.\n\n**La route**\n\nJaipur-Agra, c'est environ 240 km et quatre heures par Bharatpur, avec un arrêt confort. **Fatehpur Sikri** se trouve sur cette route et peut être ajoutée si l'horaire le permet.\n\n**Taj Mahal**\n\nVotre guide vous retrouve à Agra.\n\nShah Jahan l'a commencé en 1632, l'année suivant la mort de Mumtaz Mahal en donnant naissance à leur quatorzième enfant. Vingt-deux ans, vingt mille ouvriers, et du marbre acheminé sur 400 km depuis Makrana.\n\nUne chose à savoir avant d'arriver : l'édifice n'est **pas ouvert le vendredi**, et le dernier tronçon jusqu'à la porte se fait en véhicule électrique ou à pied car les voitures privées s'arrêtent avant la zone d'exclusion anti-pollution. Cela vaut pour tous les visiteurs.\n\nÀ l'intérieur, votre guide couvre la **calligraphie** gravée en tailles croissantes pour se lire d'une hauteur égale depuis le sol ; les incrustations de **pietra dura**, des dizaines de pierres par fleur ; les quatre **minarets**, inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau ; et la seule asymétrie de toute la composition, le cénotaphe de Shah Jahan lui-même, placé hors de l'axe par Aurangzeb.\n\n**Le fort d'Agra**\n\nLa ville de grès rouge d'Akbar, 1565, avec les palais de marbre de Shah Jahan à l'intérieur, et le **Musamman Burj** où Aurangzeb a retenu son père prisonnier huit ans, avec le Taj en vue le long de l'eau.\n\n**Puis Delhi**\n\nAgra-Delhi, ce sont encore 230 km sur la Yamuna Expressway, environ trois heures et demie. Vous arrivez le soir.\n\n**Deux options**\n\nVoiture privée climatisée avec guide, ou tout compris avec déjeuner et droits d'entrée des monuments.\n\n**Pratique**\n\nUne longue journée, prévoyez quatorze heures. Faites vos bagages avant la prise en charge ; ils voyagent avec vous.",
+  "highlights": [
+   "Une excursion à Agra depuis Jaipur en voiture privée climatisée."
+  ],
+  "included": [
+   "Voiture privée climatisée depuis Jaipur, visites à Agra, dépose à Delhi",
+   "Guide touristique professionnel à Agra",
+   "Entrée des monuments (selon l'option choisie)",
+   "Déjeuner (selon l'option choisie)",
+   "Bouteilles d'eau",
+   "Toutes les taxes",
+   "Aucun frais caché"
+  ],
+  "notIncluded": [
+   "Pourboires et gratifications pour le guide et le chauffeur.",
+   "Tout ce qui n'est pas mentionné dans les prestations incluses."
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Réservez un guide officiel pour explorer Bengaluru",
   "metaTitle": "Bengaluru avec guide : palais, Lalbagh, temples et bazars",
