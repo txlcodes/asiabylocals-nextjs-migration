@@ -9961,6 +9961,55 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "2-day-agra-tour-from-delhi-w-sunrise-sunset": {
+  "title": "Agra en 2 jours depuis Delhi, avec le Taj Mahal au coucher et au lever du soleil",
+  "metaTitle": "Agra en 2 jours : Taj au coucher et au lever du soleil",
+  "metaDescription": "Deux jours à Agra depuis Delhi avec le Taj au coucher du soleil puis au lever du soleil, plus le fort d'Agra et options d'hôtel.",
+  "shortDescription": "Deux jours à Agra depuis Delhi avec le Taj au coucher du soleil puis au lever du soleil, plus le fort d'Agra et options d'hôtel.",
+  "fullDescription": "**Le Taj deux fois, aux deux bouts de la journée**\n\nC'est l'argument en faveur de la nuitée. Le marbre de Makrana est translucide sur environ un centimètre, si bien que la lumière entre dans la surface et s'y disperse, ce qui veut dire que l'édifice prend la couleur de ce qui le frappe plutôt que de simplement la refléter.\n\nAu **coucher du soleil**, cela donne de l'or, puis du rose, puis un gris qui dure après que le ciel s'est éteint. Au **lever du soleil**, c'est l'inverse : gris, puis rose, puis blanc froid.\n\nVoir les deux n'est pas une répétition. C'est deux édifices différents, et aucune excursion d'une journée ne peut vous les offrir.\n\n**Jour 1 : Delhi à Agra, et le coucher du soleil**\n\nDépart matinal en voiture ou en train. Installation, puis le **Taj Mahal** dans les dernières heures de lumière, quand la foule s'éclaircit plutôt que de grossir.\n\nShah Jahan l'a commencé en 1632, l'année suivant la mort de Mumtaz Mahal en donnant naissance à leur quatorzième enfant. Vingt-deux ans, vingt mille ouvriers.\n\nVotre guide couvre la **calligraphie** gravée en tailles croissantes pour se lire d'une hauteur égale depuis le sol, les incrustations de **pietra dura**, jusqu'à soixante pierres par fleur, les quatre **minarets** inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau, et la seule asymétrie de toute la composition.\n\n**Jour 2 : lever du soleil, puis le fort d'Agra**\n\nLes portes ouvrent une demi-heure avant le soleil, et à cette heure la foule n'est qu'un cinquième de ce qu'elle sera à dix heures. En décembre et janvier, il y a de la brume sur la Yamuna derrière le dôme.\n\nPuis le **fort d'Agra**, la ville de grès rouge d'Akbar, 1565, avec les palais de marbre de Shah Jahan à l'intérieur, et le **Musamman Burj**, la tour octogonale où Aurangzeb l'a enfermé les huit dernières années de sa vie, avec le Taj visible le long du fleuve. Il est mort dans cette pièce.\n\n**Trois options**\n\nVoiture, chauffeur et guide ; ou avec un hébergement en hôtel à deux niveaux.\n\n**Pratique**\n\n**Le Taj est fermé le vendredi**, ce qui fixe les nuits possibles.",
+  "highlights": [
+   "Visitez le Taj Mahal pour une vue au coucher du soleil, captant le monument dans une lumière dorée."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour toute la durée de la visite",
+   "Guide touristique professionnel",
+   "1 nuit d'hébergement en hôtel (selon l'option choisie)",
+   "Petit-déjeuner à l'hôtel (selon l'option choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Billets d'entrée des monuments",
+   "Déjeuner et dîner",
+   "Toute dépense personnelle"
+  ]
+ },
+ "2day-agra-fatehpur-sikri-tour-from-delhi-by-gatima": {
+  "title": "Agra et Fatehpur Sikri en 2 jours depuis Delhi en train Gatimaan",
+  "metaTitle": "Agra et Fatehpur Sikri en 2 jours, Gatimaan Express",
+  "metaDescription": "Deux jours à Agra et Fatehpur Sikri depuis Delhi en Gatimaan Express, avec guide, voiture privée et options d'hôtel.",
+  "shortDescription": "Deux jours à Agra et Fatehpur Sikri depuis Delhi en Gatimaan Express, avec guide, voiture privée et options d'hôtel.",
+  "fullDescription": "**Le train rapide, et une nuit pour en profiter correctement**\n\nLe **Gatimaan Express** couvre Delhi-Agra en cent minutes à 160 km/h, le train le plus rapide d'Inde, avec petit-déjeuner servi à la place. Le faire en excursion d'une journée gaspille cet avantage sur une visite précipitée du monument ; le faire sur deux jours veut dire avoir le Taj au lever du soleil et Fatehpur Sikri sans horloge qui tourne.\n\n**Premier jour**\n\nTrain du matin depuis Hazrat Nizamuddin. Un guide agréé et une voiture privée climatisée vous retrouvent à Agra Cantt.\n\n**Le fort d'Agra** dans l'après-midi, la place forte en grès rouge d'Akbar, 1565, avec les palais de marbre de son petit-fils à l'intérieur : le **Diwan-i-Am**, le **Khas Mahal**, le **Sheesh Mahal**, et le **Musamman Burj**, la tour où Aurangzeb a retenu son père prisonnier les huit dernières années de sa vie, avec le Taj en vue en aval du fleuve.\n\nEn option, **Mehtab Bagh** de l'autre côté de la Yamuna au coucher du soleil, pour la vue du reflet.\n\nNuit à Agra.\n\n**Deuxième jour**\n\nLe **Taj Mahal** à l'ouverture des portes, une demi-heure avant le lever du soleil. Le marbre devient gris, puis rose, puis blanc ; en hiver une brume se pose sur le fleuve derrière le dôme.\n\nPuis vers l'ouest jusqu'à **Fatehpur Sikri**, la capitale d'Akbar de 1571, abandonnée quatorze ans plus tard quand son approvisionnement en eau a manqué et donc préservée intacte : le **Buland Darwaza** de 54 mètres, le **Panch Mahal** qui s'étage en retrait sur cinq niveaux ouverts, le **Diwan-i-Khas** et son unique pilier central sculpté, et le **dargah de Salim Chishti** en marbre, où l'on noue encore des fils aux claustras pour demander des enfants.\n\nGatimaan du soir pour rentrer à Delhi.\n\n**Trois options**\n\nTrain, voiture, chauffeur et guide avec votre propre chambre ; ou la même chose avec un hôtel trois ou cinq étoiles.\n\n**Pratique**\n\nLe Gatimaan ne circule pas le vendredi, qui est aussi le jour de fermeture du Taj, les deux s'alignent donc parfaitement.\n\nLes places de train sont limitées et mises en vente à date fixe, réservez tôt. Emportez le passeport utilisé pour la réservation, les chemins de fer indiens contrôlent l'identité par rapport au billet.",
+  "highlights": [
+   "Profitez d'un trajet fluide et rapide de Delhi à Agra à bord du Gatimaan Express."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour toute la durée de la visite",
+   "Guide touristique agréé par le gouvernement",
+   "Billets de train aller-retour",
+   "1 nuit d'hébergement en hôtel (selon l'option choisie)",
+   "Petit-déjeuner à l'hôtel",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Billets d'entrée des monuments",
+   "Déjeuner et dîner",
+   "Toute dépense personnelle"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

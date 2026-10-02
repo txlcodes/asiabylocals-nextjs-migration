@@ -9961,6 +9961,55 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier gasto personal"
   ]
  },
+ "2-day-agra-tour-from-delhi-w-sunrise-sunset": {
+  "title": "Agra en 2 días desde Delhi, con el Taj Mahal al atardecer y al amanecer",
+  "metaTitle": "Agra en 2 días: Taj al atardecer y al amanecer",
+  "metaDescription": "Dos días en Agra desde Delhi con el Taj al atardecer y de nuevo al amanecer, más el Fuerte de Agra y opciones de hotel.",
+  "shortDescription": "Dos días en Agra desde Delhi con el Taj al atardecer y de nuevo al amanecer, más el Fuerte de Agra y opciones de hotel.",
+  "fullDescription": "**El Taj dos veces, en los dos extremos del día**\n\nEste es el argumento a favor de la noche. El mármol de Makrana es translúcido hasta un centímetro aproximadamente, así que la luz entra en la superficie y se dispersa dentro de ella, lo que significa que el edificio toma el color de lo que lo golpea en lugar de simplemente reflejarlo.\n\nAl **atardecer** eso da oro, luego rosa, luego un gris que dura después de que el cielo ya se ha apagado. Al **amanecer** va al revés: gris, luego rosa, luego blanco frío.\n\nVer los dos no es una repetición. Son dos edificios distintos, y ninguna excursión de un día puede dárselos.\n\n**Día 1: Delhi a Agra, y el atardecer**\n\nSalida temprana en coche o tren. Registro en el hotel, y luego el **Taj Mahal** en las últimas horas de luz, cuando la gente se va aclarando en lugar de aumentar.\n\nShah Jahan lo empezó en 1632, el año siguiente a la muerte de Mumtaz Mahal al dar a luz a su decimocuarto hijo. Veintidós años, veinte mil obreros.\n\nSu guía cubre la **caligrafía** labrada en tamaños crecientes para que se lea de manera uniforme desde el suelo, las incrustaciones de **pietra dura**, hasta sesenta piedras por flor, los cuatro **alminares** inclinados hacia fuera para que un terremoto los dejara caer lejos de la tumba, y la única asimetría de toda la composición.\n\n**Día 2: amanecer, y luego el Fuerte de Agra**\n\nLas puertas abren media hora antes del sol, y a esa hora la gente es una quinta parte de la que habrá a las diez. En diciembre y enero hay niebla sobre el Yamuna detrás de la cúpula.\n\nLuego el **Fuerte de Agra**, la ciudad de arenisca roja de Akbar, de 1565, con los palacios de mármol de Shah Jahan dentro, y el **Musamman Burj**, la torre octogonal donde Aurangzeb lo encerró los últimos ocho años de su vida, con el Taj visible a lo largo del río. Murió en esa habitación.\n\n**Tres opciones**\n\nCoche, conductor y guía; o con alojamiento en hotel en dos categorías.\n\n**Práctico**\n\n**El Taj cierra los viernes**, lo que fija en qué noches puede hacerse esto.",
+  "highlights": [
+   "Visite el Taj Mahal al atardecer, capturando el monumento con luz dorada."
+  ],
+  "included": [
+   "Recogida y regreso en el hotel o el aeropuerto",
+   "Coche privado con aire acondicionado y conductor para toda la visita",
+   "Guía turístico profesional",
+   "1 noche de alojamiento en hotel (en la opción elegida)",
+   "Desayuno en el hotel (en la opción elegida)",
+   "Botella de agua mineral",
+   "Todos los peajes y gastos de aparcamiento"
+  ],
+  "notIncluded": [
+   "Entradas a los monumentos",
+   "Comida y cena",
+   "Cualquier gasto personal"
+  ]
+ },
+ "2day-agra-fatehpur-sikri-tour-from-delhi-by-gatima": {
+  "title": "Agra y Fatehpur Sikri en 2 días desde Delhi con el tren Gatimaan",
+  "metaTitle": "Agra y Fatehpur Sikri en 2 días, Gatimaan Express",
+  "metaDescription": "Dos días en Agra y Fatehpur Sikri desde Delhi con el Gatimaan Express, con guía, coche privado y opciones de hotel.",
+  "shortDescription": "Dos días en Agra y Fatehpur Sikri desde Delhi con el Gatimaan Express, con guía, coche privado y opciones de hotel.",
+  "fullDescription": "**El tren rápido, y una noche para aprovecharlo bien**\n\nEl **Gatimaan Express** cubre Delhi-Agra en cien minutos a 160 km/h, el tren más rápido de la India, con desayuno servido en el asiento. Hacerlo como excursión de un día desperdicia esa ventaja en una visita apresurada al monumento; hacerlo en dos días significa tener el Taj al amanecer y Fatehpur Sikri sin reloj corriendo.\n\n**Primer día**\n\nTren de la mañana desde Hazrat Nizamuddin. Un guía autorizado y un coche privado con aire acondicionado le reciben en Agra Cantt.\n\n**El Fuerte de Agra** por la tarde, la fortaleza de arenisca roja de Akbar, de 1565, con los palacios de mármol de su nieto dentro: el **Diwan-i-Am**, el **Khas Mahal**, el **Sheesh Mahal**, y el **Musamman Burj**, la torre donde Aurangzeb tuvo preso a su padre los últimos ocho años de su vida, con el Taj a la vista río abajo.\n\nOpcionalmente, **Mehtab Bagh** al otro lado del Yamuna al atardecer, para la vista del reflejo.\n\nNoche en Agra.\n\n**Segundo día**\n\nEl **Taj Mahal** cuando abren las puertas, media hora antes del amanecer. El mármol se vuelve gris, luego rosa, luego blanco; en invierno hay niebla sobre el río detrás de la cúpula.\n\nLuego hacia el oeste hasta **Fatehpur Sikri**, la capital de Akbar de 1571, abandonada catorce años después cuando faltó el suministro de agua y por eso conservada íntegra: el **Buland Darwaza** de 54 metros, el **Panch Mahal** que retrocede a lo largo de cinco plantas abiertas, el **Diwan-i-Khas** con su único pilar central labrado, y el **dargah de mármol de Salim Chishti**, donde la gente todavía ata hilos a las celosías pidiendo hijos.\n\nGatimaan de la tarde de vuelta a Delhi.\n\n**Tres opciones**\n\nTren, coche, conductor y guía con su propia habitación; o lo mismo con un hotel de tres o cinco estrellas.\n\n**Práctico**\n\nEl Gatimaan no circula los viernes, que es también el día en que cierra el Taj, así que los dos coinciden a la perfección.\n\nLas plazas de tren son limitadas y se liberan en fechas fijas; reserve pronto. Lleve el pasaporte con el que reservó, los ferrocarriles indios contrastan el documento con el billete.",
+  "highlights": [
+   "Disfrute de un viaje fluido y rápido de Delhi a Agra a bordo del Gatimaan Express."
+  ],
+  "included": [
+   "Recogida y regreso en el hotel o el aeropuerto",
+   "Coche privado con aire acondicionado y conductor para toda la visita",
+   "Guía turístico autorizado por el gobierno",
+   "Billetes de tren de ida y vuelta",
+   "1 noche de alojamiento en hotel (en la opción elegida)",
+   "Desayuno en el hotel",
+   "Botella de agua mineral",
+   "Todos los peajes y gastos de aparcamiento"
+  ],
+  "notIncluded": [
+   "Entradas a los monumentos",
+   "Comida y cena",
+   "Cualquier gasto personal"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
