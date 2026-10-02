@@ -10343,6 +10343,60 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche persönliche Ausgabe"
   ]
  },
+ "9-days-luxury-rajasthan-tour-from-delhi-royal-raja": {
+  "title": "Königliches Rajasthan, 9 Tage Luxusreise ab Delhi",
+  "metaTitle": "Königliches Rajasthan, 9 Tage Luxus ab Delhi",
+  "metaDescription": "Neun Luxustage ab Delhi zwischen Jaipur, Jodhpur, Jaisalmer und Udaipur, mit staatlich geprüftem Guide.",
+  "shortDescription": "Neun Luxustage ab Delhi zwischen Jaipur, Jodhpur, Jaisalmer und Udaipur, mit staatlich geprüftem Guide.",
+  "fullDescription": "**Neun Tage, vier Städte Rajasthans, und die Wüste**\n\nDer vollständige Rundgang mit Raum für die Entfernungen: Jaipur nach Jaisalmer allein sind 560 km, und jede kürzere Route als diese lässt Jaisalmer aus, das, an das man sich erinnert.\n\n**Jaipur**\n\n**Amber Fort** auf seinem Grat über dem Maota-See, 1592 begonnen, der bemalte Torbau **Ganesh Pol**, der **Sheesh Mahal**, wo Spiegelsplitter eine einzige Kerze in eine Sternendecke verwandelten, und der wassergekühlte **Sukh Niwas**.\n\nDer **City Palace**, noch teilweise Residenz der königlichen Familie; die neunzehn steinernen Instrumente des **Jantar Mantar**; und der **Hawa Mahal**, die Fassade mit 953 Fenstern von 1799.\n\n**Jodhpur**\n\n**Mehrangarh** erhebt sich 120 Meter senkrecht aus dem Felsen und wurde nie erobert. Das Museum darin ist das bestgeführte Rajasthans, und die Kanonenkugeltreffer am zweiten Tor stammen von einer gescheiterten Belagerung aus Jaipur.\n\nDarunter **Jaswant Thada** aus Marmor, dünn genug, dass Licht durchdringt, und die blauen Gassen um den Uhrturm, ein Kalk-Kupfer-Anstrich, der Termiten abhielt.\n\n**Jaisalmer**\n\n**Sonar Quila**, das goldene Fort von 1156, ist eines der letzten noch bewohnten Forts der Erde: rund dreitausend Menschen leben noch innerhalb seiner Mauern.\n\nDie **Jain-Tempel** darin sind bis zur Spitzenhaftigkeit geschnitzt. **Patwon ki Haveli** sind fünf Kaufmannshäuser, Seite an Seite gebaut. Der **Gadisar-See**, ein Reservoir aus dem 14. Jahrhundert, ist bei Sonnenaufgang am schönsten.\n\nDann die **Sam-Dünen** für eine Kamelfahrt bei Sonnenuntergang und eine Nacht im Wüstenlager.\n\n**Udaipur**\n\nDer **City Palace** am Pichola-See, über vier Jahrhunderte von zweiundzwanzig Herrschern aufgebaut. Der **Jagdish-Tempel** von 1651, **Saheliyon ki Bari**, und eine Bootsfahrt bei Sonnenuntergang, mit den Aravalli-Bergen, die hinter dem Wasser dunkel werden.\n\n**Zwei Optionen**\n\nKlimatisierter Transport mit staatlich geprüftem Guide; oder dasselbe mit Vier-Sterne-Hotels.\n\n**Praktisch**\n\nOktober bis März. Die Wüste überschreitet 45 °C ab April und nähert sich dem Gefrierpunkt in Dezembernächten.",
+  "highlights": [
+   "Königliches Rajasthan, 9 Tage Luxusreise ab Delhi"
+  ],
+  "included": [
+   "8 Nächte Unterkunft in einem 4-Sterne-Hotel. Tägliches Frühstück (falls die Option gewählt wird).",
+   "Privates klimatisiertes Fahrzeug mit Chauffeur für alle Transfers und Besichtigungen",
+   "Professionelle staatlich geprüfte Guides in jeder Stadt",
+   "Abholung und Rückfahrt am Flughafen, Bahnhof oder Hotel",
+   "Alle anfallenden Steuern und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Alle Eintrittsgebühren der Monumente und andere Aktivitäten",
+   "Mittag- und Abendessen",
+   "Bootsfahrt auf dem Pichola-See, Udaipur",
+   "Kamel-Safari und Kulturprogramm in Jaisalmer",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "affordable-3-day-golden-triangle-tour-from-delhi": {
+  "title": "Günstiges Goldenes Dreieck in 3 Tagen ab Delhi",
+  "metaTitle": "Günstiges Goldenes Dreieck, 3 Tage ab Delhi",
+  "metaDescription": "Ein günstiges Goldenes Dreieck in drei Tagen ab Delhi, Privatwagen, lokale Guides in jeder Stadt, ohne Extras.",
+  "shortDescription": "Ein günstiges Goldenes Dreieck in drei Tagen ab Delhi, Privatwagen, lokale Guides in jeder Stadt, ohne Extras.",
+  "fullDescription": "**Die ehrliche Budgetfassung**\n\nPrivates klimatisiertes Fahrzeug mit Fahrer, lizenzierte lokale Guides in jeder Stadt, und sonst nichts im Preis enthalten. Hotels, Mahlzeiten und Eintrittsgebühren organisieren Sie selbst, und genau deshalb kostet es, was es kostet.\n\nWenn Sie gern Ihre eigenen Zimmer buchen, ist das der günstigste vernünftige Weg, das Goldene Dreieck ohne Reisebus zu machen.\n\n**Tag eins: Delhi**\n\n**Qutub Minar**, 1193 begonnen, 73 Meter kanneliertes Ziegel- und Sandsteinwerk, das höchste Minarett seiner Art der Welt. In seinem Hof die **Eisensäule**: über 1.600 Jahre alt und noch nicht verrostet, worüber Metallurgen weiterhin publizieren.\n\n**Humayuns Grabmal**, 1565 von der Witwe des Kaisers in Auftrag gegeben. Es ist das erste mogulische Gartengrab Indiens, ein Grabmal im Zentrum eines vierteiligen, von Wasserkanälen geteilten Gartens, unter einer Doppelkuppel. Der Taj ist sechzig Jahre später dieselbe Idee in Marmor, und ihn zuerst zu sehen, verändert, wie man den Taj liest.\n\n**India Gate**, und die **Jama Masjid** und **Chandni Chowk** von Alt-Delhi, wenn die Zeit es erlaubt.\n\n**Tag zwei: Agra**\n\nDer **Taj Mahal** mit Guide, die **Kalligrafie**, in wachsenden Größen geschnitten, damit sie vom Boden aus gleich hoch erscheint, die **Pietra-dura**-Blüten aus Dutzenden Steinen, die **Minarette**, nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg fallen ließe.\n\nDas **Agra Fort**, und der **Musamman Burj**, wo Shah Jahan seine letzten acht Jahre als Gefangener Aurangzebs verbrachte.\n\n**Tag drei: Jaipur über Fatehpur Sikri**\n\nAkbars Hauptstadt von 1571, aufgegeben, als das Wasser ausblieb. Dann **Amber Fort**, der **City Palace**, das **Jantar Mantar** und der **Hawa Mahal**, und die Rückfahrt nach Delhi.\n\n**Praktisch**\n\nRund 700 km Fahrt über drei Tage, alles auf guten Fernstraßen.\n\n**Der Taj ist freitags geschlossen.** Rechnen Sie mit rund 2,600 ₹ pro Person an Eintrittsgebühren für einen ausländischen Erwachsenen in den drei Städten, plus eigene Hotels und Mahlzeiten.",
+  "highlights": [
+   "Entdecken Sie Indiens Goldenes Dreieck auf einer privaten 3-Tages-Tour ab Delhi"
+  ],
+  "included": [
+   "Frühstück",
+   "Abhol- und Rückfahrtservice am Flughafen oder Hotel.",
+   "Privater klimatisierter Wagen mit Fahrer.",
+   "Reiseleiter-Service vor Ort in Ihrer gewünschten Sprache, überall.",
+   "Rikschafahrt in Alt-Delhi",
+   "2 Nächte Hotelunterkunft mit Frühstück und Steuern (falls die Option gebucht wird)",
+   "Mineralwasser in Flaschen",
+   "Fahrerpauschale",
+   "Alle Mautkosten, Parkgebühren und Steuern",
+   "Eintritt zu Qutub Minar",
+   "Eintritt zu Humayuns Grabmal",
+   "Eintritt zur Jama Masjid"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen",
+   "Eintrittsgebühren der Monumente, 65,00 $ pro Person",
+   "Trinkgelder"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

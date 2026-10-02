@@ -10343,6 +10343,60 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "9-days-luxury-rajasthan-tour-from-delhi-royal-raja": {
+  "title": "Rajasthan royal de luxe en 9 jours depuis Delhi",
+  "metaTitle": "Rajasthan royal, 9 jours de luxe depuis Delhi",
+  "metaDescription": "Neuf jours de luxe depuis Delhi entre Jaipur, Jodhpur, Jaisalmer et Udaipur, avec un guide agréé par le gouvernement.",
+  "shortDescription": "Neuf jours de luxe depuis Delhi entre Jaipur, Jodhpur, Jaisalmer et Udaipur, avec un guide agréé par le gouvernement.",
+  "fullDescription": "**Neuf jours, quatre villes du Rajasthan, et le désert**\n\nLe circuit complet avec les distances laissées à leur juste place : Jaipur-Jaisalmer seul, c'est 560 km, et tout itinéraire plus court que celui-ci abandonne Jaisalmer, celle dont on se souvient.\n\n**Jaipur**\n\nLe **fort d'Amber** sur sa crête au-dessus du lac Maota, commencé en 1592, la porte peinte de **Ganesh Pol**, le **Sheesh Mahal** où des éclats de miroir transformaient une seule bougie en un plafond d'étoiles, et le **Sukh Niwas** refroidi par l'eau.\n\nLe **City Palace**, encore partiellement résidence de la famille royale ; les dix-neuf instruments de pierre du **Jantar Mantar** ; et le **Hawa Mahal**, la façade à 953 fenêtres de 1799.\n\n**Jodhpur**\n\n**Mehrangarh** s'élève à 120 mètres à la verticale du rocher et n'a jamais été pris. Le musée à l'intérieur est le mieux tenu du Rajasthan, et les traces de boulets de canon sur la deuxième porte viennent d'un siège de Jaipur échoué.\n\nEn dessous, le **Jaswant Thada** en marbre assez fin pour laisser passer la lumière, et les ruelles bleues autour de la tour de l'horloge, un badigeon à la chaux et au cuivre qui éloignait les termites.\n\n**Jaisalmer**\n\n**Sonar Quila**, le fort doré de 1156, est l'un des derniers forts vivants sur terre : environ trois mille personnes vivent encore à l'intérieur de ses murs.\n\nLes **temples jaïns** qu'il abrite sont sculptés jusqu'à ressembler à de la dentelle. **Patwon ki Haveli** regroupe cinq demeures de marchands construites côte à côte. Le **lac Gadisar**, un réservoir du XIVe siècle, est le plus beau à l'aube.\n\nPuis les **dunes de Sam** pour une balade à dos de chameau au coucher du soleil et une nuit dans un campement du désert.\n\n**Udaipur**\n\nLe **City Palace** le long du lac Pichola, construit par vingt-deux souverains sur quatre siècles. Le **temple de Jagdish** de 1651, **Saheliyon ki Bari**, et un bateau au coucher du soleil avec les Aravalli qui s'assombrissent derrière l'eau.\n\n**Deux options**\n\nTransport climatisé avec un guide agréé par le gouvernement ; ou la même chose avec des hôtels quatre étoiles.\n\n**Pratique**\n\nD'octobre à mars. Le désert dépasse les 45 °C à partir d'avril et approche le gel les nuits de décembre.",
+  "highlights": [
+   "Rajasthan royal de luxe en 9 jours depuis Delhi"
+  ],
+  "included": [
+   "8 nuits d'hébergement en hôtel 4 étoiles. Petit-déjeuner quotidien (si l'option est choisie).",
+   "Véhicule privé climatisé avec chauffeur pour tous les transferts et visites",
+   "Guides professionnels agréés par le gouvernement dans chaque ville",
+   "Prise en charge et retour à l'aéroport, à la gare ou à l'hôtel",
+   "Toutes les taxes applicables et le stationnement"
+  ],
+  "notIncluded": [
+   "Tous les droits d'entrée des monuments et autres activités",
+   "Déjeuner et dîner",
+   "Sortie en bateau sur le lac Pichola, à Udaipur",
+   "Safari à dos de chameau et spectacle culturel à Jaisalmer",
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "affordable-3-day-golden-triangle-tour-from-delhi": {
+  "title": "Triangle d'or abordable en 3 jours depuis Delhi",
+  "metaTitle": "Triangle d'or abordable, 3 jours depuis Delhi",
+  "metaDescription": "Un Triangle d'or abordable en trois jours depuis Delhi, voiture privée, guides locaux dans chaque ville, sans superflu.",
+  "shortDescription": "Un Triangle d'or abordable en trois jours depuis Delhi, voiture privée, guides locaux dans chaque ville, sans superflu.",
+  "fullDescription": "**La version budget honnête**\n\nVéhicule privé climatisé avec chauffeur, guides locaux agréés dans chaque ville, et rien d'autre inclus dans le prix. Hôtels, repas et droits d'entrée des monuments sont à votre charge à organiser, et c'est exactement pour cela que le prix est celui-ci.\n\nSi réserver vos propres chambres ne vous dérange pas, c'est la façon sensée la moins chère de faire le Triangle d'or sans car.\n\n**Jour un : Delhi**\n\n**Qutub Minar**, commencé en 1193, 73 mètres de brique et de grès cannelés, le plus haut minaret de son genre au monde. Dans sa cour, le **pilier de fer** : plus de 1 600 ans et toujours sans rouille, ce qui continue de faire l'objet de publications de métallurgistes.\n\nLe **tombeau de Humayun**, commandé en 1565 par la veuve de l'empereur. C'est le premier tombeau-jardin moghol d'Inde, un tombeau au centre d'un jardin en quatre parties divisé par des canaux d'eau, sous un double dôme. Le Taj reprend la même idée soixante ans plus tard en marbre, et voir celui-ci d'abord change la façon de lire le Taj.\n\n**India Gate**, et la **Jama Masjid** et **Chandni Chowk** du vieux Delhi si la journée le permet.\n\n**Jour deux : Agra**\n\nLe **Taj Mahal** avec un guide, la **calligraphie** gravée en tailles croissantes pour se lire d'une hauteur égale depuis le sol, les fleurs de **pietra dura** de dizaines de pierres, les **minarets** inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau.\n\nLe **fort d'Agra**, et le **Musamman Burj**, où Shah Jahan a passé ses huit dernières années prisonnier d'Aurangzeb.\n\n**Jour trois : Jaipur via Fatehpur Sikri**\n\nLa capitale d'Akbar de 1571, abandonnée quand l'eau a manqué. Puis le **fort d'Amber**, le **City Palace**, le **Jantar Mantar** et le **Hawa Mahal**, et la route de retour vers Delhi.\n\n**Pratique**\n\nEnviron 700 km de route sur trois jours, tout sur de bonnes autoroutes.\n\n**Le Taj est fermé le vendredi.** Prévoyez environ 2,600 ₹ par personne de droits d'entrée pour un adulte étranger dans les trois villes, plus vos propres hôtels et repas.",
+  "highlights": [
+   "Découvrez le Triangle d'or de l'Inde lors d'une visite privée de 3 jours depuis Delhi"
+  ],
+  "included": [
+   "Petit-déjeuner",
+   "Service de prise en charge et de retour à l'aéroport ou à l'hôtel.",
+   "Voiture privée climatisée avec chauffeur.",
+   "Service de guide touristique sur place dans la langue de votre choix, partout.",
+   "Tour en rickshaw dans le vieux Delhi",
+   "2 nuits d'hébergement en hôtel avec petit-déjeuner et taxes (si l'option est réservée)",
+   "Bouteilles d'eau minérale",
+   "Indemnités du chauffeur",
+   "Tous les péages, stationnements et taxes",
+   "Entrée à Qutub Minar",
+   "Entrée au tombeau de Humayun",
+   "Entrée à la Jama Masjid"
+  ],
+  "notIncluded": [
+   "Déjeuner et dîner",
+   "Droits d'entrée des monuments, 65,00 $ par personne",
+   "Pourboires"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
