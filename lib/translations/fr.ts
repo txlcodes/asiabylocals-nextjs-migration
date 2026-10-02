@@ -18329,6 +18329,100 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "jaipur-private-shopping-tour-with-local-guide": {
+  "title": "Jaipur : Visite shopping privée avec guide local",
+  "metaTitle": "Jaipur : visite shopping privée, guide local",
+  "metaDescription": "Six heures de shopping à Jaipur avec un guide local, showrooms de pierres précieuses, tapis, impression au bloc, tailleurs et bazars.",
+  "shortDescription": "Six heures de shopping à Jaipur avec un guide local, showrooms de pierres précieuses, tapis, impression au bloc, tailleurs et bazars.",
+  "fullDescription": "**Jaipur est une ville d'achat, et c'est un problème sans guide**\n\nPlus de pierres précieuses colorées passent par Jaipur que presque n'importe où dans le monde, et la ville gère aussi l'une des économies de shopping touristique les plus rodées de l'Inde. Les deux choses sont vraies en même temps. Un guide dont le travail est votre côté de la transaction est ce qui les sépare.\n\n**Showrooms**\n\nLe côté organisé : bijouterie en pierres précieuses, tapis noués à la main, tissu imprimé au bloc au mètre, et tailleurs qui couperont et coudront sur mesure pendant que vous êtes encore en ville, une chemise ou une veste en un jour ou deux est normal.\n\nSur les pierres : demandez un certificat indiquant le poids, le traitement et l'origine, et prenez-le. Une maison réputée de Jaipur en fournit un sans qu'on ait à insister, et celles qui hésitent vous disent quelque chose.\n\nSur les tapis : noué à la main signifie noué au dos selon un motif que vous pouvez voir ; fait à la machine ne l'est pas. Votre guide en retournera un pour vous.\n\n**Bazars**\n\n**Johari Bazaar**, la rue des bijoutiers et le plus ancien commerce de la ville. Le kundan, où les pierres sont serties dans de la feuille d'or pur sans griffes pour qu'elles paraissent flotter ; et le meenakari, l'émail cuit au dos de la même pièce pour qu'elle porte un second motif caché.\n\n**Bapu Bazaar**, textiles, teinture nouée bandhani et leheriya, razais matelassés, sacs en cuir de chameau, et chaussons **mojari**. Un bon mojari se plie facilement dans la main.\n\n**Tripolia et Maniharon ka Rasta**, bracelets en laque, encore fabriqués sur une flamme devant vous.\n\n**Dites cela dès le départ**\n\nDites clairement à votre guide que vous voulez être emmené là où les locaux achètent, pas là où les boutiques paient une commission. Un bon guide dira oui et le fera vraiment.\n\n**Pratique**\n\nSix heures avec une voiture et un guide. Tout ce que vous achetez est à votre charge ; rien n'est inclus dans le prix.\n\nEmportez de l'argent liquide pour les petits ateliers. Les cartes étrangères fonctionnent dans les showrooms ; UPI ne fonctionnera pas sur un téléphone étranger.",
+  "highlights": [
+   "Découvrez les marchés vibrants de Jaipur avec un expert local du shopping"
+  ],
+  "included": [
+   "Visite shopping privée de 6 heures",
+   "Voiture privée climatisée",
+   "Guide expert local du shopping",
+   "Visite de showrooms de confiance",
+   "Visite de bazars locaux",
+   "Eau en bouteille",
+   "Thé ou café indien avec collations",
+   "Toutes taxes et suppléments carburant"
+  ],
+  "notIncluded": [
+   "Tout repas et boisson autre que les collations",
+   "Toute expérience personnelle",
+   "Pourboires et gratifications"
+  ]
+ },
+ "jaipur-private-sightseeing-tour-by-car-or-tuk-tuk": {
+  "title": "Jaipur : Visite privée en voiture ou tuk-tuk",
+  "metaTitle": "Jaipur : visite privée en voiture ou tuk-tuk",
+  "metaDescription": "Une journée privée à travers les palais, forts et marchés de Jaipur en voiture ou tuk-tuk authentique, avec prise en charge à l'hôtel.",
+  "shortDescription": "Une journée privée à travers les palais, forts et marchés de Jaipur en voiture ou tuk-tuk authentique, avec prise en charge à l'hôtel.",
+  "fullDescription": "**Privé, et vous choisissez le véhicule**\n\nHuit heures de Jaipur avec un chauffeur qui vous est réservé pour la journée, arrêtez-vous où vous voulez, restez aussi longtemps que vous voulez, sautez ce qui ne vous intéresse pas.\n\n**Tuk-tuk ou voiture**\n\nUn **tuk-tuk** est ouvert, bon marché et le trajet le plus typique. Il passe dans des ruelles où aucune voiture ne peut entrer, ce qui compte dans la vieille ville, et en hiver c'est simplement la façon la plus agréable de se déplacer.\n\nUne **voiture** est climatisée et c'est le choix sensé à partir d'avril, quand la chaleur de l'après-midi à Jaipur arrête d'être pittoresque.\n\n**Fort d'Amber**\n\nOnze kilomètres au nord sur une crête au-dessus du lac Maota, commencé en 1592 par Raja Man Singh.\n\nLa porte peinte **Ganesh Pol**, le **Sheesh Mahal** avec son plafond de fragments de miroirs, et le **Sukh Niwas**, où l'eau circulait dans des canaux à travers les murs pour rafraîchir la pièce.\n\nAllez-y en premier. La différence entre neuf et onze heures du matin ici est énorme.\n\n**Hawa Mahal**\n\nCinq étages, 953 fenêtres, et à peine un mètre de profondeur, un écran construit en 1799 pour que les femmes de la cour puissent observer la rue sans en être vues.\n\n**City Palace**\n\nArchitecture moghole et rajpoute à travers une séquence de cours, une partie encore résidence de l'ancienne famille royale.\n\n**Jantar Mantar**\n\nL'observatoire du 18e siècle avec dix-neuf instruments en pierre, classé UNESCO, où le grand cadran solaire garde le temps à quelques secondes près.\n\n**Les marchés**\n\nC'est la partie qu'une journée privée vous offre et qu'une visite fixe n'offre pas. **Johari Bazaar** pour les pierres précieuses et l'or, **Bapu Bazaar** pour les textiles et les chaussons mojari, **Tripolia** pour les bracelets en laque fabriqués sur une flamme devant vous.\n\n**Pratique**\n\nHuit heures avec prise en charge et retour à l'hôtel.\n\nLes frais d'entrée sont séparés, environ ₹1 500 par personne pour un adulte étranger si vous entrez dans tous les principaux sites.",
+  "highlights": [
+   "Voiture privée climatisée pour le confort ou aventure classique en tuk-tuk."
+  ],
+  "included": [
+   "Voiture privée (berline/SUV climatisée) OU tuk-tuk privé, selon votre choix.",
+   "Chauffeur local professionnel et amical.",
+   "Prise en charge et retour à l'hôtel, l'aéroport ou la gare à Jaipur.",
+   "Carburant, frais de stationnement, péages et toutes taxes gouvernementales (TPS).",
+   "Eau en bouteille offerte.",
+   "Itinéraire flexible et arrêts pour shopping/photos (facultatif)."
+  ],
+  "notIncluded": [
+   "Frais d'entrée aux monuments (par exemple, Fort d'Amber, City Palace, Jantar Mantar).",
+   "Service de guide facultatif (si non sélectionné en supplément).",
+   "Repas et dépenses personnelles (par exemple, shopping, pourboires)."
+  ]
+ },
+ "jaipur-private-sunset-sound-light-show-by-open-jee": {
+  "title": "Jaipur : Coucher de soleil privé, spectacle son et lumière en jeep ouverte",
+  "metaTitle": "Jaipur : coucher de soleil et son et lumière",
+  "metaDescription": "Un trajet en soirée en jeep ouverte vers un point de vue au sommet d'une colline pour le coucher de soleil, puis le spectacle son et lumière du Fort d'Amber.",
+  "shortDescription": "Un trajet en soirée en jeep ouverte vers un point de vue au sommet d'une colline pour le coucher de soleil, puis le spectacle son et lumière du Fort d'Amber.",
+  "fullDescription": "**Les meilleures quatre-vingt-dix minutes à Jaipur après la nuit tombée**\n\nUne jeep ouverte, une route de montagne hors de la ville, et un point de vue sur la crête des Aravalli alors que le soleil se couche sur la Ville Rose. Puis descente vers le Fort d'Amber pour le spectacle son et lumière. C'est court, c'est bon marché, et cela fait les deux choses pour lesquelles la plupart des visites d'une journée n'ont plus de temps.\n\n**Le coucher de soleil**\n\nJaipur se trouve dans un bassin avec des collines sur trois côtés, ce qui fait fonctionner les points de vue sur la crête, toute la grille de la ville fortifiée s'étend en dessous, et à mesure que la lumière baisse, le grès passe du rose à l'orange profond tandis que les lampadaires s'allument en dessous de vous.\n\nUne jeep ouverte à la montée est un trajet meilleur qu'une voiture, et nettement plus frais dans l'heure qui suit le coucher du soleil.\n\n**Le spectacle du Fort d'Amber**\n\nLe spectacle son et lumière est projeté sur le fort et la crête en dessous depuis l'autre côté du lac Maota, avec toute la structure illuminée en séquence tandis que la narration parcourt la dynastie Kachwaha, Man Singh, les alliances moghoules, la construction des palais au-dessus.\n\nIl y a une représentation en anglais et une en hindi à des heures différentes chaque soir ; celle en anglais est généralement le créneau le plus tardif. Le reflet du fort illuminé dans le lac est l'image que les gens emportent.\n\n**Six options**\n\nCette annonce propose plusieurs produits très différents, donc lisez avant de réserver : un safari en jeep au Fort d'Amber avec guide et sans prise en charge ; une journée de visites en voiture privée climatisée ; le safari nocturne en jeep ouverte avec prise en charge ; une visite d'activités avec éléphants ; une journée complète de visites se terminant par le coucher de soleil sur la montagne ; et une combinaison de deux jours d'activités avec éléphants et de visites.\n\nLa courte version du soir est celle pour laquelle cette page est nommée.\n\n**Pratique**\n\nLes horaires du spectacle évoluent avec le coucher du soleil au fil de l'année, donc la prise en charge est fixée selon la date.\n\nLa crête est venteuse et se refroidit vite après la nuit tombée de novembre à février, apportez une couche. Les places au spectacle sont en plein air sur des marches en pierre.",
+  "highlights": [
+   "Spectacle son et lumière du Fort d'Amber"
+  ],
+  "included": [
+   "Prise en charge et retour en jeep ouverte",
+   "Guide/chauffeur local",
+   "Visite du point de vue du coucher de soleil",
+   "Entrée au spectacle son et lumière au Fort d'Amber",
+   "Tout le transport pendant l'activité"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Dépenses personnelles",
+   "Pourboires et gratifications",
+   "Tout frais d'entrée supplémentaire non mentionné"
+  ]
+ },
+ "jaipur-private-temple-tour-spiritual-hindu-experie": {
+  "title": "Jaipur : Visite privée des temples - Expérience spirituelle hindoue",
+  "metaTitle": "Jaipur : visite des temples, expérience hindoue",
+  "metaDescription": "Sept heures à travers les temples de Jaipur avec un guide, commençant par une puja à l'aube à Tarkeshwar Mahadev.",
+  "shortDescription": "Sept heures à travers les temples de Jaipur avec un guide, commençant par une puja à l'aube à Tarkeshwar Mahadev.",
+  "fullDescription": "**Commencer par une puja plutôt qu'une photo**\n\nLa visite commence tôt au **Tarkeshwar Mahadev**, un temple de Shiva vieux de plus de trois cents ans au milieu de Chaura Rasta, pour la **puja** matinale, et vous y êtes en tant que participant plutôt qu'observateur, votre guide expliquant ce qui se fait et pourquoi à mesure que cela se produit.\n\nC'est une façon inhabituelle de commencer une visite et cela donne le ton pour le reste.\n\n**Ce qu'est réellement une puja**\n\nUne offrande. Eau, lait, fleurs, feuilles de bel et pâte de bois de santal sont déposés sur le lingam ; une lampe est tournée en cercle ; une cloche est sonnée. La séquence est fixe et chaque élément signifie quelque chose de précis, que votre guide vous expliquera.\n\nLe lundi est le jour de Shiva et le temple se remplit. Pendant **Shravan**, le mois de la mousson, la file descend dans la rue.\n\n**Govind Dev Ji**\n\nLe temple le plus aimé de Jaipur, dans les jardins du City Palace. L'image de Krishna a été apportée ici depuis Vrindavan pour la mettre à l'abri d'Aurangzeb, et sept aartis sont effectuées quotidiennement devant une salle qui se remplit à chaque fois. Jai Singh II a construit son propre palais pour pouvoir voir la divinité depuis sa fenêtre.\n\n**Galta Ji**\n\nLe complexe de temples dans une gorge des Aravalli à l'est de la ville, avec des sources naturelles alimentant une série de bassins en pierre, le **Galta Kund** au sommet n'a jamais été connu pour s'assécher. Grès rose du 18e siècle avec des intérieurs peints qui s'estompent d'une manière qui rend leur visite maintenant précieuse.\n\nLes macaques vivent ici. Ne tenez pas de nourriture à la main, et retirez les lunettes de soleil de votre tête.\n\n**Birla Mandir et autres**\n\nSelon le jour : le temple moderne en marbre Birla sous Moti Dungri, et les petits sanctuaires à l'intérieur des quartiers résidentiels de la vieille ville qui ne voient aucun visiteur.\n\n**Ce qui est attendu**\n\nChaussures retirées à chaque temple, épaules et genoux couverts, pas de photographie à l'intérieur des sanctuaires. Les ceintures et sacs en cuir sont mieux laissés dans la voiture.\n\n**Pratique**\n\nSept heures à partir d'un départ matinal. Les temples sont gratuits ; les dons sont à votre discrétion.",
+  "highlights": [
+   "Vivez une expérience spirituelle indienne authentique"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Transport",
+   "Guide",
+   "Eau en bouteille",
+   "Café et thé",
+   "Lecture astrologique",
+   "Lecture des chakras",
+   "Temps pour le shopping et les photos"
+  ],
+  "notIncluded": [
+   "Aucun"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
