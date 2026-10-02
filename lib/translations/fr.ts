@@ -5844,6 +5844,50 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "full-day-tour-to-agra-w-3-unesco-world": {
+  "title": "Excursion d'une journée à Agra avec 3 sites UNESCO depuis Delhi",
+  "metaTitle": "Delhi-Agra : 3 sites UNESCO en une journée",
+  "metaDescription": "Une journée complète depuis Delhi couvrant le fort d'Agra, le Taj Mahal et Fatehpur Sikri, trois sites UNESCO en une sortie.",
+  "shortDescription": "Une journée complète depuis Delhi couvrant le fort d'Agra, le Taj Mahal et Fatehpur Sikri, trois sites UNESCO en une sortie.",
+  "fullDescription": "**Le fort d'abord, puis le Taj, et il y a une raison à cet ordre**\n\nLa plupart des itinéraires commencent au Taj et finissent au fort. Celui-ci inverse l'ordre, arrivant au fort d'Agra en milieu de matinée et au Taj ensuite, ce qui veut dire que vous approchez le grand tombeau après vous être déjà tenu dans la tour où son bâtisseur est mort. Cela change la journée.\n\n**05h00-06h00, Delhi**\n\nPrise en charge en voiture privée ou en van, puis la Yamuna Expressway, trois à quatre heures à travers les champs de l'ouest de l'Uttar Pradesh.\n\n**09h30, le fort d'Agra**\n\nUne ville fortifiée plutôt qu'un fort : deux kilomètres et demi de muraille en grès rouge et un double fossé, commencés par Akbar en 1565.\n\nÀ l'intérieur, le **Jahangiri Mahal**, la partie subsistante des bâtiments résidentiels d'Akbar lui-même, avec des consoles et des poutres sculptées plutôt que des arcs, des formes hindoues et centre-asiatiques ouvertement utilisées. Puis les remplacements en marbre de Shah Jahan : le **Diwan-i-Am**, le **Khas Mahal**, le hammam **Sheesh Mahal** incrusté de milliers d'éclats de miroir.\n\nEt le **Musamman Burj**, la tour octogonale sur la muraille du fleuve où Aurangzeb a retenu son père prisonnier les huit dernières années de sa vie, à portée de vue du Taj.\n\n**Le Taj Mahal**\n\nShah Jahan l'a commencé en 1632 pour Mumtaz Mahal. Vingt-deux ans, vingt mille ouvriers, du marbre venu de Makrana, à 400 km.\n\nLes détails qu'il vaut la peine de se faire montrer : la **calligraphie** dimensionnée plus grande à mesure qu'elle s'élève pour se lire d'une hauteur égale depuis le bas ; les incrustations de **pietra dura**, des dizaines de pierres par fleur ; les **minarets** inclinés vers l'extérieur pour tomber loin du tombeau ; et la seule asymétrie, le cénotaphe de Shah Jahan lui-même, ajouté hors de l'axe par Aurangzeb.\n\n**Fatehpur Sikri**\n\nLa capitale d'Akbar de 1571, abandonnée après quatorze ans faute d'eau et donc préservée intacte : le **Buland Darwaza**, le **Panch Mahal**, le **Diwan-i-Khas**, et le dargah de marbre de Salim Chishti.\n\n**Trois options**\n\nGuide seul ; voiture privée, chauffeur et guide ; ou la version complète avec déjeuner et tous les droits d'entrée.\n\n**Le Taj est fermé le vendredi.**",
+  "highlights": [
+   "Découvrez Fatehpur Sikri, la cité moghole historique classée au patrimoine mondial de l'UNESCO."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour toute la durée de la visite",
+   "Guide touristique professionnel",
+   "Billets d'entrée des monuments (selon l'option choisie)",
+   "Déjeuner dans un hôtel 5 étoiles (selon l'option choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toutes dépenses personnelles"
+  ]
+ },
+ "guided-sunset-tour-of-taj-mahal-with-skip-the": {
+  "title": "Visite guidée du Taj Mahal au coucher du soleil, entrée coupe-file",
+  "metaTitle": "Taj Mahal au coucher du soleil, entrée coupe-file",
+  "metaDescription": "Une visite du Taj Mahal au coucher du soleil avec billets coupe-file achetés à l'avance et un guide agréé par le ministère.",
+  "shortDescription": "Une visite du Taj Mahal au coucher du soleil avec billets coupe-file achetés à l'avance et un guide agréé par le ministère.",
+  "fullDescription": "**Pourquoi le marbre change de couleur**\n\nCe n'est pas un effet d'éclairage. Le marbre de Makrana est translucide sur environ un centimètre, si bien que la lumière entre dans la surface, s'y disperse, et en ressort, ce qui veut dire que la pierre prend la couleur de ce qui la frappe plutôt que de simplement la refléter.\n\nAu coucher du soleil, cela donne de l'or, puis du rose, puis un gris qui dure plus longtemps que le ciel lui-même. Les écrivains moghols décrivaient l'édifice comme changeant au fil des heures, et ils rapportaient une propriété optique plutôt que de faire de la poésie.\n\nLe coucher du soleil est l'heure pour le voir, et c'est aussi la visite la plus facile : pas de réveil à quatre heures, et une foule qui s'éclaircit vers la fermeture plutôt que de s'épaissir.\n\n**La visite**\n\nPrise en charge dans le hall de votre hôtel à Agra, en après-midi. Les billets sont achetés à l'avance, vous allez donc au couloir d'entrée et non au guichet.\n\nVotre guide est agréé par le **ministère du Tourisme**, ce qui compte à Agra, les portes sont travaillées par des guides non agréés, et la différence dans ce que vous apprenez est considérable.\n\n**À l'intérieur**\n\nPar la porte **Darwaza-i-Rauza**, où le Taj apparaît dans l'arc et, par une proportion délibérée, semble rétrécir à mesure qu'on s'en approche.\n\nPuis le jardin **charbagh** divisé par des canaux d'eau, avec le tombeau qui se reflète sur toute la longueur du bassin central.\n\nSur le socle : la **calligraphie** gravée en tailles croissantes pour se lire d'une hauteur égale depuis le bas ; les incrustations de **pietra dura** en cornaline, jaspe, lapis et jade ; les quatre **minarets**, inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau.\n\nEt la seule asymétrie d'un édifice parfaitement symétrique : le cénotaphe de Shah Jahan lui-même, placé hors de l'axe central par Aurangzeb après sa mort. Les vraies tombes sont scellées dans la crypte en dessous.\n\n**Deux options**\n\nEntrée coupe-file avec un guide seul, ou la visite complète au coucher du soleil avec transport.\n\n**Pratique**\n\n**Fermé le vendredi.** La dernière entrée est avant le coucher du soleil, et non à ce moment-là, et l'heure se déplace au fil de l'année, la prise en charge est calée sur votre date.",
+  "highlights": [
+   "Voyagez confortablement dans un véhicule climatisé."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Guide touristique professionnel",
+   "Coupe-file garanti",
+   "Billet d'entrée (selon l'option choisie)",
+   "Déjeuner (selon l'option choisie)",
+   "Bouteilles d'eau minérale",
+   "Toutes taxes comprises"
+  ],
+  "notIncluded": [
+   "Gratification (pourboire)"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Réservez un guide officiel pour explorer Bengaluru",
   "metaTitle": "Bengaluru avec guide : palais, Lalbagh, temples et bazars",

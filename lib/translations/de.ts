@@ -5844,6 +5844,50 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche persönliche Ausgabe"
   ]
  },
+ "full-day-tour-to-agra-w-3-unesco-world": {
+  "title": "Ganztagestour nach Agra mit 3 UNESCO-Welterbestätten ab Delhi",
+  "metaTitle": "Delhi-Agra: 3 UNESCO-Stätten an einem Tag",
+  "metaDescription": "Ein ganzer Tag ab Delhi mit Agra Fort, Taj Mahal und Fatehpur Sikri, drei UNESCO-Stätten an einem Ausflug.",
+  "shortDescription": "Ein ganzer Tag ab Delhi mit Agra Fort, Taj Mahal und Fatehpur Sikri, drei UNESCO-Stätten an einem Ausflug.",
+  "fullDescription": "**Erst das Fort, dann der Taj, und es gibt einen Grund für diese Reihenfolge**\n\nDie meisten Routen beginnen am Taj und enden am Fort. Diese dreht es um, erreicht das Agra Fort am späten Vormittag und den Taj danach, was bedeutet, dass Sie sich dem großen Grabmal nähern, nachdem Sie schon in dem Turm gestanden haben, in dem sein Bauherr starb. Das verändert den Tag.\n\n**05:00-06:00, Delhi**\n\nAbholung im Privatwagen oder Van, dann die Yamuna Expressway, drei bis vier Stunden durch die Felder des westlichen Uttar Pradesh.\n\n**09:30, Agra Fort**\n\nEher eine von Mauern umschlossene Stadt als ein Fort: zweieinhalb Kilometer Mauer aus rotem Sandstein und ein doppelter Graben, 1565 von Akbar begonnen.\n\nDarin der **Jahangiri Mahal**, das erhaltene Stück von Akbars eigenen Wohnbauten, mit geschnitzten Konsolen und Balken statt Bögen, hinduistische und zentralasiatische Formen offen verwendet. Dann Shah Jahans Marmorbauten: der **Diwan-i-Am**, der **Khas Mahal**, das Badehaus **Sheesh Mahal** mit tausenden Spiegelsplittern.\n\nUnd der **Musamman Burj**, der achteckige Turm an der Flussmauer, in dem Aurangzeb seinen Vater die letzten acht Jahre seines Lebens gefangen hielt, in Sichtweite des Taj.\n\n**Der Taj Mahal**\n\nShah Jahan begann ihn 1632 für Mumtaz Mahal. Zweiundzwanzig Jahre, zwanzigtausend Arbeiter, Marmor aus Makrana, 400 km entfernt.\n\nDie Details, die man sich zeigen lassen sollte: die **Kalligrafie**, nach oben hin größer bemessen, damit sie von unten gleich hoch erscheint; die **Pietra-dura**-Einlagen mit Dutzenden Steinen pro Blüte; die **Minarette**, nach außen geneigt, um neben das Grabmal zu fallen; und die einzige Asymmetrie, Shah Jahans eigenes Kenotaph, von Aurangzeb außerhalb der Achse hinzugefügt.\n\n**Fatehpur Sikri**\n\nAkbars Hauptstadt von 1571, nach vierzehn Jahren aufgegeben, als das Wasser ausblieb, und deshalb vollständig erhalten: das **Buland Darwaza**, der **Panch Mahal**, der **Diwan-i-Khas**, und der marmorne Dargah des Salim Chishti.\n\n**Drei Optionen**\n\nNur Guide; Privatwagen, Fahrer und Guide; oder die volle Fassung mit Mittagessen und allen Eintrittsgebühren.\n\n**Der Taj ist freitags geschlossen.**",
+  "highlights": [
+   "Entdecken Sie Fatehpur Sikri, die historische Mogulstadt und UNESCO-Welterbestätte."
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die gesamte Tour",
+   "Professioneller Reiseleiter",
+   "Eintrittskarten für die Monumente (bei gewählter Option)",
+   "Mittagessen in einem 5-Sterne-Hotel (bei gewählter Option)",
+   "Flasche Mineralwasser",
+   "Alle Mautkosten und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Alle persönlichen Ausgaben"
+  ]
+ },
+ "guided-sunset-tour-of-taj-mahal-with-skip-the": {
+  "title": "Geführte Sonnenuntergangstour zum Taj Mahal, Einlass ohne Anstehen",
+  "metaTitle": "Taj Mahal bei Sonnenuntergang, Einlass ohne Anstehen",
+  "metaDescription": "Eine Tour zum Taj Mahal bei Sonnenuntergang mit vorab gekauften Tickets ohne Anstehen und einem ministeriell geprüften Guide.",
+  "shortDescription": "Eine Tour zum Taj Mahal bei Sonnenuntergang mit vorab gekauften Tickets ohne Anstehen und einem ministeriell geprüften Guide.",
+  "fullDescription": "**Warum der Marmor die Farbe wechselt**\n\nEs ist kein Lichteffekt. Makrana-Marmor ist bis etwa einen Zentimeter tief durchscheinend, sodass Licht in die Oberfläche eindringt, darin streut und wieder herauskommt, was bedeutet, dass der Stein die Farbe dessen annimmt, was auf ihn trifft, statt es nur zu reflektieren.\n\nBei Sonnenuntergang bedeutet das Gold, dann Rosa, dann ein Grau, das länger anhält als der Himmel selbst. Mogulische Schriftsteller beschrieben den Bau als mit den Stunden wechselnd, und sie berichteten eine optische Eigenschaft, nicht Poesie.\n\nDer Sonnenuntergang ist die Stunde, um ihn zu sehen, und es ist auch der leichtere Besuch: kein Wecker um vier Uhr, und eine Menge, die zur Schließung hin ausdünnt, statt zuzunehmen.\n\n**Die Tour**\n\nAbholung in der Hotellobby in Agra am Nachmittag. Die Tickets sind vorab gekauft, Sie gehen also zur Einlassspur und nicht zur Kasse.\n\nIhr Guide ist vom **Tourismusministerium** geprüft, was in Agra zählt, die Tore werden von unlizenzierten Guides bearbeitet, und der Unterschied in dem, was Sie lernen, ist erheblich.\n\n**Innen**\n\nDurch den Torbau **Darwaza-i-Rauza**, wo der Taj im Bogen erscheint und, durch bewusste Proportion, beim Zugehen kleiner zu werden scheint.\n\nDann der **Charbagh**-Garten, von Wasserkanälen geteilt, mit dem Grabmal, das sich über die ganze Länge des Mittelbeckens spiegelt.\n\nAm Sockel: die **Kalligrafie**, in wachsenden Größen geschnitten, damit sie von unten gleich hoch erscheint; die **Pietra-dura**-Einlagen aus Karneol, Jaspis, Lapis und Jade; die vier **Minarette**, nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg fallen ließe.\n\nUnd die einzige Asymmetrie in einem perfekt gespiegelten Bau: Shah Jahans eigenes Kenotaph, von Aurangzeb nach seinem Tod außerhalb der Mittelachse gesetzt. Die echten Gräber sind in der Krypta darunter versiegelt.\n\n**Zwei Optionen**\n\nEinlass ohne Anstehen nur mit Guide, oder die volle Sonnenuntergangstour mit Transport.\n\n**Praktisch**\n\n**Freitags geschlossen.** Der letzte Einlass ist vor dem Sonnenuntergang, nicht zu ihm, und die Zeit wandert über das Jahr, die Abholung richtet sich nach Ihrem Datum.",
+  "highlights": [
+   "Reisen Sie bequem in einem klimatisierten Fahrzeug."
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel",
+   "Professioneller Reiseleiter",
+   "Garantiert ohne Anstehen",
+   "Eintrittskarte (bei gewählter Option)",
+   "Mittagessen (bei gewählter Option)",
+   "Mineralwasser in Flaschen",
+   "Alle Steuern inbegriffen"
+  ],
+  "notIncluded": [
+   "Trinkgeld"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Offiziellen Guide für die Erkundung von Bengaluru buchen",
   "metaTitle": "Bengaluru mit Guide: Paläste, Lalbagh, Tempel und Basare",
