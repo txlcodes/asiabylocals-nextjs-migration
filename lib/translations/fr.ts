@@ -17851,6 +17851,94 @@ export const FR_TOURS: Record<string, TourT> = {
    "Le billet pour le City Palace, Tripolia Bazar près du Jantar Mantar"
   ]
  },
+ "jaipur-private-car-driver-hire-on-an-hourly-daily": {
+  "title": "Jaipur : Location de voiture privée avec chauffeur à l'heure ou à la journée",
+  "metaTitle": "Jaipur : voiture privée avec chauffeur à l'heure",
+  "metaDescription": "Louez une voiture privée avec chauffeur à Jaipur à l'heure ou à la journée, 4, 8 ou 12 heures avec allocation kilométrique.",
+  "shortDescription": "Louez une voiture privée avec chauffeur à Jaipur à l'heure ou à la journée, 4, 8 ou 12 heures avec allocation kilométrique.",
+  "fullDescription": "**Pas d'itinéraire, juste une voiture et un chauffeur**\n\nParfois c'est ce que vous voulez vraiment : un véhicule et quelqu'un qui connaît la ville, et personne qui vous dit quoi regarder. Cela convient aux journées shopping, aux visites d'affaires, aux familles avec de jeunes enfants, et à quiconque en a déjà eu assez de commentaires guidés.\n\n**Ce que vous obtenez**\n\nUne voiture privée climatisée avec un chauffeur professionnel pour la plage horaire que vous réservez, avec une allocation de distance :\n\n- **4 heures**, pour une demi-journée en ville\n- **8 heures / 80 km**, qui couvre le circuit complet de visites incluant le Fort d'Amber\n- **12 heures / 120 km**, qui ajoute Nahargarh, les bazars et une soirée\n\nLes heures et kilomètres supplémentaires sont facturés à un tarif indiqué au-delà de l'allocation, donc aucune surprise.\n\n**À quoi un chauffeur de Jaipur est réellement utile**\n\nLe stationnement, qui est le vrai problème à Amber et dans la vieille ville. Savoir que le marché aux fleurs se termine à huit heures et que Nahargarh vaut le coup au coucher du soleil. Attendre devant une boutique pendant une heure sans se plaindre.\n\nEt, si vous demandez, vous dire où manger, ce qui sera meilleur que tout ce qu'un guide touristique propose.\n\n**Ce qui n'est pas inclus**\n\nUn guide. Si vous voulez que l'histoire soit expliquée, réservez plutôt une visite guidée ou ajoutez un guide agréé séparément, un chauffeur n'est pas autorisé à guider à l'intérieur des monuments et un bon chauffeur vous le dira.\n\nLes frais d'entrée, les frais de stationnement sur certains sites, et les péages si vous quittez la ville.\n\n**Utile à savoir**\n\nLe Fort d'Amber, Jaigarh et Nahargarh sont à 11 à 15 km, donc l'allocation de 80 km couvre confortablement le circuit standard. Un trajet vers Abhaneri ou Pushkar nécessite une réservation séparée.\n\nPour le shopping, dites-le dès le départ et demandez à être emmené là où les locaux achètent plutôt que là où les boutiques paient une commission. Les chauffeurs reçoivent effectivement une commission dans certaines boutiques, et une demande directe est généralement respectée.\n\n**Pratique**\n\nPrise en charge à l'hôtel. Indiquez-nous la plage d'heures et le jour ; le reste vous appartient.",
+  "highlights": [
+   "Louez une voiture pour votre itinéraire personnalisé de Jaipur et explorez à votre propre rythme."
+  ],
+  "included": [
+   "Profitez de transferts pratiques hôtel et aéroport en toute simplicité.",
+   "Voyagez dans une voiture privée climatisée conçue pour votre confort.",
+   "Nos chauffeurs qualifiés et professionnels assurent un trajet fluide et sûr.",
+   "De l'eau en bouteille est fournie pour vous rafraîchir pendant le trajet.",
+   "Les frais de carburant et toutes taxes applicables sont inclus dans le tarif."
+  ],
+  "notIncluded": [
+   "Frais d'entrée aux monuments",
+   "Repas",
+   "Pourboires"
+  ]
+ },
+ "jaipur-private-car-tour-with-hawa-mahal-amber-pala": {
+  "title": "Jaipur : Visite en voiture privée avec Hawa Mahal et le palais d'Amber",
+  "metaTitle": "Jaipur : voiture privée, Hawa Mahal, Amber",
+  "metaDescription": "Huit heures de Jaipur en voiture privée, incluant Hawa Mahal, le puits de Panna Meena et le palais d'Amber. Départ 9h.",
+  "shortDescription": "Huit heures de Jaipur en voiture privée, incluant Hawa Mahal, le puits de Panna Meena et le palais d'Amber. Départ 9h.",
+  "fullDescription": "**Un départ à 9h, et le puits à degrés que la plupart des visites sautent**\n\nUne heure de départ civilisée et un itinéraire qui inclut **Panna Meena ka Kund**, la raison de choisir celle-ci plutôt que les alternatives qui semblent identiques.\n\n**Hawa Mahal**\n\nPremier arrêt, à l'heure où la lumière le frappe directement. Plus de 220 ans, cinq étages, **953 fenêtres**, et moins d'un mètre de profondeur sur la plus grande partie de sa hauteur, car c'est un écran plutôt qu'un palais. Il a été construit en 1799 comme extension du zenana du City Palace pour que les femmes royales puissent observer les processions dans la rue sans être vues depuis la route.\n\nLa plupart des gens le photographient depuis le trottoir d'en face, exactement l'angle pour lequel il a été conçu.\n\n**Panna Meena ka Kund**\n\nUn puits à degrés du 16e siècle sous Amber, avec des escaliers symétriques entrecroisés descendant huit étages jusqu'à l'eau. Il a été construit pour que le village puisse atteindre l'eau en toute saison, et la température au fond est de plusieurs degrés inférieure à la surface.\n\nIl se photographie comme une illusion d'optique et il est presque toujours vide, car les cars ne s'y arrêtent pas. Vous ne pouvez pas descendre jusqu'à l'eau et vous ne devriez pas essayer.\n\n**Palais d'Amber**\n\nLe complexe sur la colline au-dessus du lac Maota, commencé en 1592. La porte **Ganesh Pol**, le **Sheesh Mahal** avec son plafond en miroirs, le **Sukh Niwas** rafraîchi par l'eau circulant dans ses murs, et la cour du zenana avec ses douze appartements séparés.\n\n**Et le reste**\n\n**Jal Mahal** depuis la chaussée, le **City Palace** et le **Jantar Mantar** dans la vieille ville, et les bazars si la journée le permet encore.\n\n**Pratique**\n\nHuit heures, voiture privée avec chauffeur, prise en charge et retour à l'hôtel.\n\nLes frais d'entrée sont payés à chaque site, environ ₹1 500 par personne pour un adulte étranger sur les principaux monuments. Panna Meena est gratuit ou à frais symbolique.\n\nChaussures confortables : Amber implique une montée, et le puits à degrés est en pierre inégale.",
+  "highlights": [
+   "Émerveillez-vous devant l'architecture complexe du Hawa Mahal, le Palais des Vents"
+  ],
+  "included": [
+   "Visite privée",
+   "Prise en charge et retour à l'hôtel",
+   "Transport dans une berline/SUV climatisée",
+   "Frais de stationnement",
+   "Carburant",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons"
+  ]
+ },
+ "jaipur-private-city-guided-tour-with-hotel-pick-up": {
+  "title": "Jaipur : Visite privée guidée de la ville avec prise en charge et retour à l'hôtel",
+  "metaTitle": "Jaipur : visite privée guidée avec hôtel",
+  "metaDescription": "Huit heures de visites privées de Jaipur avec prise en charge à l'hôtel, un guide agréé et un déjeuner facultatif.",
+  "shortDescription": "Huit heures de visites privées de Jaipur avec prise en charge à l'hôtel, un guide agréé et un déjeuner facultatif.",
+  "fullDescription": "**Une journée complète, et le guide reste avec vous tout le temps**\n\nHuit heures à partir de la prise en charge à l'hôtel, voiture privée, et un seul guide tout au long plutôt qu'une personne différente à chaque site. Cette continuité est l'essentiel, au troisième arrêt il sait ce qui vous intéresse et la journée commence à s'y orienter.\n\n**Fort d'Amber**\n\nLe trajet fait onze kilomètres après le Jal Mahal sur le lac.\n\nLe fort a été commencé en 1592 par Raja Man Singh dans le grès pâle de ces collines. La porte **Ganesh Pol** est ce que tout le monde photographie. Le **Sheesh Mahal** derrière elle est la raison d'entrer : des fragments de miroirs convexes incrustés au plafond et dans les murs pour qu'une bougie remplisse la chambre de points de lumière.\n\nLa cour du **zenana** est la partie avec la meilleure histoire : douze appartements de reines disposés autour d'une seule cour, avec des couloirs placés pour que le maharaja puisse visiter l'une sans que les autres ne le sachent.\n\nVues sur le **lac Maota** et le jardin **Kesar Kyari** disposé dans l'eau selon son motif de parterre de safran.\n\n**Jal Mahal**\n\nUn arrêt photo depuis la chaussée. Quatre de ses cinq étages sont submergés ; il n'y a ni bateau ni entrée.\n\n**City Palace**\n\nCours, armurerie, salles de textiles, et les deux urnes d'argent du Diwan-i-Khas, les plus grands objets en argent du monde, fabriquées pour qu'un maharaja puisse transporter de l'eau du Gange en Angleterre.\n\n**Jantar Mantar**\n\nDix-neuf instruments en pierre, classé UNESCO, incluant le cadran solaire **Samrat Yantra** de 27 mètres qui donne encore l'heure à environ deux secondes près. Vaut un guide ; sans lui, c'est un champ de formes.\n\n**Hawa Mahal**\n\nL'écran de 953 fenêtres, depuis la rue d'en face.\n\n**Trois options**\n\nGuide seul ; voiture privée, chauffeur et guide ; ou la même chose avec déjeuner inclus.\n\n**Pratique**\n\nLes frais d'entrée sont payés à chaque site, environ ₹1 500 par personne pour un adulte étranger sur les principaux monuments.",
+  "highlights": [
+   "Prise en charge et retour confortables à l'hôtel dans un véhicule privé climatisé."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel/aéroport",
+   "Voiture climatisée privée pour toute l'activité de la visite avec chauffeur",
+   "Guide touristique professionnel agréé par le gouvernement",
+   "Déjeuner au restaurant (si option sélectionnée)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et le stationnement"
+  ],
+  "notIncluded": [
+   "Billets d'entrée aux monuments",
+   "Toute dépense personnelle"
+  ]
+ },
+ "jaipur-private-city-tour-with-a-women-driven-e": {
+  "title": "Visite privée de la ville de Jaipur en e-rickshaw conduit par des femmes",
+  "metaTitle": "Jaipur : visite en e-rickshaw conduit par des femmes",
+  "metaDescription": "Une journée complète de la ville fortifiée de Jaipur dans un rickshaw électrique conduit par des femmes formées par un programme local.",
+  "shortDescription": "Une journée complète de la ville fortifiée de Jaipur dans un rickshaw électrique conduit par des femmes formées par un programme local.",
+  "fullDescription": "**Conduit par des femmes, c'est tout le sens**\n\nLes rickshaws de cette visite sont électriques, et les conductrices sont des femmes formées et employées par un programme qui les a mises aux commandes dans un métier presque entièrement masculin en Inde.\n\nCe n'est pas une accroche marketing ajoutée à une visite ordinaire, la conductrice est la personne avec qui vous passez la journée, et le tarif est son revenu.\n\n**Pourquoi un e-rickshaw**\n\nSilencieux, ce qui change complètement la vieille ville : vous entendez la rue plutôt qu'un moteur. Pas de gaz d'échappement, dans une ville avec un vrai problème de qualité de l'air. Et assez petit pour les ruelles où rien d'autre ne passe.\n\n**La ville fortifiée**\n\nJai Singh II a tracé Jaipur en 1727 sur une grille de neuf carrés tirée de traités architecturaux hindous, la première ville planifiée d'Inde, avec des largeurs de rue fixées par règle et chaque métier affecté à son propre bloc. Depuis un rickshaw ouvert à l'allure d'une marche, ce plan est visible.\n\n**Chhoti Chopad** et **Badi Chopad**, les grands carrefours. Les portes peintes, et les havelis derrière elles, la plupart encore habitées.\n\n**Hawa Mahal** depuis la rue d'en face, 953 fenêtres, cinq étages, à peine un mètre de profondeur, construit en 1799 pour que les femmes de la cour puissent observer les processions sans être vues. Il y a quelque chose qui vaut la peine d'être remarqué à voir ce bâtiment depuis un rickshaw conduit par une femme.\n\n**City Palace** et **Jantar Mantar**, et les bazars : **Johari** pour les pierres précieuses, **Tripolia** pour les bracelets en laque fabriqués sur une flamme devant vous, **Bapu Bazaar** pour l'impression au bloc et les chaussons mojari.\n\nEt les petits temples à l'intérieur des quartiers résidentiels qui ne voient aucun visiteur.\n\n**Deux options**\n\nLa visite en e-rickshaw avec votre conductrice, ou la même chose avec un guide agréé en plus, prenez le guide si vous voulez que les monuments soient expliqués plutôt que seulement atteints.\n\n**Pratique**\n\nHuit heures. L'entrée des monuments n'est pas incluse.\n\nLes matins sont bien meilleurs que les après-midis pour cela, quel que soit le mois.",
+  "highlights": [
+   "Faites connaissance avec les conductrices de rickshaw intrépides de Jaipur."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel.",
+   "Visite privée.",
+   "Tous les lieux de visite avec un guide touristique professionnel privé (si option sélectionnée).",
+   "Transport en e-rickshaw privé avec une conductrice.",
+   "Eau en bouteille.",
+   "Toutes taxes, frais et frais de gestion applicables."
+  ],
+  "notIncluded": [
+   "Frais d'entrée aux monuments.",
+   "Tout repas/déjeuner",
+   "Pourboires (facultatif)"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
