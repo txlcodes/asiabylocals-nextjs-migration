@@ -18862,6 +18862,110 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "jaipur-womens-shopping-tour-markets-crafts-culture": {
+  "title": "Tour de compras para mujeres en Jaipur: mercados, artesanía y cultura",
+  "metaTitle": "Jaipur: compras para mujeres, mercados, artesanía",
+  "metaDescription": "Cinco horas por los bazares y talleres de artesanos de Jaipur con una guía, textiles, joyería, artesanía y precios reales.",
+  "shortDescription": "Cinco horas por los bazares y talleres de artesanos de Jaipur con una guía, textiles, joyería, artesanía y precios reales.",
+  "fullDescription": "**Un día de compras, guiado por una mujer que compra aquí**\n\nLos mercados de Jaipur recompensan el conocimiento local más que casi cualquier otra ciudad de la India, y pueden ser incómodos de recorrer sola, callejuelas abarrotadas, vendedores insistentes, y un precio que cambia según quién pregunta.\n\nSon cinco horas con una guía que conoce los bazares como residente en lugar de como operadora turística, lo cual cambia tanto la experiencia como las cifras.\n\n**Adónde vas**\n\n**Johari Bazaar** para joyería, kundan, donde las piedras se engastan en lámina de oro puro sin garras para que parezcan flotar, y meenakari, el esmalte cocido en la parte posterior de la misma pieza para que lleve un segundo diseño oculto. Ambas son especialidades de Jaipur.\n\n**Bapu Bazaar** para textiles y calzado, teñido anudado **bandhani** y **leheriya**, algodón estampado en bloque, razais acolchadas, y zapatillas **mojari** de puntas curvadas.\n\n**Tripolia y Maniharon ka Rasta** para **pulseras de laca**, todavía hechas sobre una llama frente a ti.\n\nAdemás de talleres de artesanos donde puedes observar el trabajo en marcha en lugar de solo comprar el resultado.\n\n**Para qué sirve realmente tu guía**\n\nDistinguir el trabajo hecho a mano del trabajo a máquina, que es la mayor parte de lo que se vende como hecho a mano. Saber cuánto cuesta algo antes de preguntar. Manejar la negociación si prefieres no hacerlo, o enseñarte a hacerlo, si quieres.\n\nY alejarte de las tiendas que pagan comisión, di desde el principio que quieres que te lleven donde compran los locales, y así será.\n\n**Práctico**\n\nDos opciones: solo guía, o guía con coche. El coche vale la pena si piensas comprar algo voluminoso, y por el calor.\n\nUnas cinco horas. Lleva efectivo, muchos de los talleres más pequeños no aceptan tarjetas, y UPI no funcionará en un teléfono extranjero.\n\nLo que compres lo pagas tú; nada está incluido en el precio.",
+  "highlights": [
+   "Compra en los mercados de Jaipur con una guía"
+  ],
+  "included": [
+   "Guía de compras mujer/hombre",
+   "Traslados en coche con aire acondicionado",
+   "Agua embotellada",
+   "Aparcamiento e impuestos",
+   "Ayuda para negociar",
+   "Soporte de control de calidad",
+   "Visitas a mercados locales",
+   "Recogida y regreso al hotel"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "keoladeo-bird-park-tour-with-one-way-transfer-jaip": {
+  "title": "Tour del parque de aves de Keoladeo con traslado de ida de Jaipur a Agra",
+  "metaTitle": "Keoladeo y traslado Jaipur-Agra",
+  "metaDescription": "El parque de aves de Keoladeo y el pozo escalonado de Abhaneri en un traslado de ida de Jaipur a Agra, con un guía.",
+  "shortDescription": "El parque de aves de Keoladeo y el pozo escalonado de Abhaneri en un traslado de ida de Jaipur a Agra, con un guía.",
+  "fullDescription": "**Un traslado que incluye un humedal Patrimonio de la Humanidad**\n\nDe Jaipur a Agra con dos de las mejores paradas del norte de la India en el camino. Si de todas formas te mueves entre las ciudades, este es el mismo trayecto con un día de visitas incorporado.\n\n**Chand Baori, Abhaneri**\n\nDos horas desde Jaipur. **3.500 escalones** en perfectos tramos dobles que descienden trece plantas hasta un cuadrado de agua verde, excavados en el siglo 9 para que un pueblo pudiera llegar al agua a lo largo de un verano desértico.\n\nEl fondo está cinco o seis grados más fresco que la superficie, lo cual era tanto el objetivo como el agua misma. Se fotografía como una ilusión óptica y casi siempre está tranquilo.\n\n**Parque Nacional de Keoladeo, Bharatpur**\n\nUn Patrimonio de la Humanidad de la UNESCO, y uno de los humedales más importantes de Asia, y completamente artificial. El Maharajá de Bharatpur lo construyó en la década de 1850 como reserva de caza de patos, inundando una depresión natural; los registros de caza de la década de 1930 son horrorosos y el hábitat que crearon está ahora protegido.\n\nSe han registrado aquí más de **370 especies de aves**. En invierno, la población residente se une a migrantes de Asia Central, Siberia y el Tíbet: gansos de cabeza rayada, grullas comunes, varios miles de patos, y las cigüeñas pintadas que anidan en las acacias en enormes colonias ruidosas.\n\nLa **grulla siberiana** invernó aquí hasta 2002 y no ha regresado, lo cual es su propia historia.\n\nTe mueves por el parque en **rickshaw de bicicleta**, los conductores tienen licencia y muchos son excelentes naturalistas, o a pie o en bicicleta. No hay vehículos de motor dentro, por eso está tan tranquilo.\n\n**Dos opciones**\n\nCoche, conductor y guía; o con almuerzo y tasas de entrada incluidas.\n\n**Práctico**\n\nUnas diez horas terminando en Agra. El equipaje viaja contigo, así que haz las maletas antes de la recogida.\n\n**Mejor de octubre a marzo** para las aves migratorias; **de agosto a octubre** para las colonias de cría. Mayo y junio son calurosos y buena parte del agua ha desaparecido.\n\nBinoculares si tienes.",
+  "highlights": [
+   "Traslado privado de ida de Jaipur a Agra"
+  ],
+  "included": [
+   "Recogida en el hotel en Jaipur y entrega en Agra",
+   "Vehículo con aire acondicionado y conductor",
+   "Tasa de entrada al Parque Nacional de Keoladeo y al pozo escalonado de Abhaneri (si se selecciona la opción)",
+   "Guía local en el Parque Nacional de Keoladeo",
+   "Almuerzo bufé vegetariano",
+   "Botella de agua y aperitivos"
+  ],
+  "notIncluded": [
+   "Traslado de regreso a Jaipur",
+   "Desayuno o cena",
+   "Compras o propinas"
+  ]
+ },
+ "mumbaijaipurdelhi-guided-shopping-tour-with-female": {
+  "title": "Mumbai/Jaipur/Delhi: Tour de compras guiado con guía femenina",
+  "metaTitle": "Compras guiadas con guía femenina",
+  "metaDescription": "Un tour de compras guiado de cuatro horas con una guía femenina, disponible en Jaipur, Delhi, Agra o Mumbai. Coche privado incluido.",
+  "shortDescription": "Un tour de compras guiado de cuatro horas con una guía femenina, disponible en Jaipur, Delhi, Agra o Mumbai. Coche privado incluido.",
+  "fullDescription": "**Comprar en la India con alguien de tu lado**\n\nLos mercados indios recompensan el conocimiento local más que casi cualquier otra cosa que haga un visitante, y pueden ser incómodos de recorrer solo, callejuelas abarrotadas, vendedores insistentes, y un precio que cambia según quién pregunta.\n\nCuatro horas con una guía femenina que compra ella misma en estos mercados cambia tanto la experiencia como las cifras. Las viajeras solas son quienes más reservan esto.\n\n**Elige tu ciudad**\n\n**Jaipur** es la más fuerte para comprar: Johari Bazaar para joyería kundan y meenakari y piedras preciosas sueltas, Bapu Bazaar para algodón estampado en bloque, teñido anudado bandhani y zapatillas mojari, y Tripolia para pulseras de laca hechas sobre una llama frente a ti.\n\n**Delhi** es la más amplia: Dilli Haat para artesanía de cada estado bajo un mismo techo, las callejuelas especializadas de Chandni Chowk, plata en Dariba Kalan, especias en Khari Baoli, y Khan Market o Hauz Khas para el lado de diseño.\n\n**Agra** es la incrustación en mármol, la misma técnica de pietra dura usada en el Taj, trabajada por familias que remontan su habilidad a los hombres que lo construyeron, además de cuero y alfombras dhurrie.\n\n**Mumbai** es Colaba Causeway, las naves de telas del Crawford Market y las boutiques de Bandra.\n\n**Para qué sirve tu guía**\n\nDistinguir el trabajo hecho a mano del trabajo a máquina, que es la mayor parte de lo que se vende como hecho a mano. Saber cuánto cuesta algo antes de preguntar. Manejar la negociación, o enseñarte a hacerlo.\n\nY alejarte de las tiendas con comisión, di desde el principio que quieres que te lleven donde compran los locales, y una buena guía hará exactamente eso.\n\n**Sobre piedras preciosas y alfombras**\n\nPide un certificado que indique peso, tratamiento y origen, y llévatelo. Da la vuelta a una alfombra: anudada a mano muestra los nudos en la parte posterior, hecha a máquina no.\n\n**Práctico**\n\nCuatro horas con un coche privado con aire acondicionado. Lo que compres lo pagas tú; nada está incluido.\n\nLleva efectivo para talleres pequeños, las tarjetas extranjeras funcionan en los showrooms, y UPI no funcionará en un teléfono extranjero.",
+  "highlights": [
+   "Explora famosos bazares locales con una experta guía de compras"
+  ],
+  "included": [
+   "Vehículo privado con aire acondicionado",
+   "Guía profesional local de compras",
+   "Recogida y regreso al hotel",
+   "Visitas guiadas a mercados y bazares",
+   "Paseo en rickshaw (donde esté disponible)",
+   "Ayuda para negociar y recomendaciones de tiendas de confianza",
+   "Agua embotellada",
+   "Todas las tasas de aparcamiento e impuestos"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "night-tour-of-jaipur-3-hrs": {
+  "title": "Tour nocturno de Jaipur: 3 horas",
+  "metaTitle": "Jaipur: tour nocturno de 3 horas",
+  "metaDescription": "Un tour nocturno de tres horas por Jaipur en bicicleta o coche con un guía, en inglés, francés o alemán.",
+  "shortDescription": "Un tour nocturno de tres horas por Jaipur en bicicleta o coche con un guía, en inglés, francés o alemán.",
+  "fullDescription": "**Jaipur al anochecer, y en bicicleta si quieres**\n\nLa ciudad es realmente bonita de noche: los monumentos están iluminados, los bazares funcionan hasta las diez, la temperatura ha bajado, y el tráfico que arruina un paseo de día se ha reducido.\n\nEsa última parte es lo que hace posible la **opción de bicicleta**, pedalear por Jaipur a las dos de la tarde sería miserable, y a las nueve de la noche es un placer.\n\n**Lo que ves**\n\n**Hawa Mahal** iluminado de frente, lo que resalta las 953 ventanas de una manera que la luz del día aplana.\n\nLos muros del **City Palace** y el **museo Albert Hall**, iluminados y rodeados de una cantidad improbable de palomas, el museo de noche es uno de los edificios más fotografiados de la ciudad.\n\nLa **Puerta Patrika**, nueve arcos pintados en Jawahar Circle, iluminados y normalmente vacíos tras el anochecer.\n\nLos **bazares de la ciudad vieja** en pleno apogeo: tiendas de dulces friendo, callejuelas de pulseras, puestos de chai, y las multitudes de la temporada de bodas de noviembre a febrero.\n\nY la **comida local**, esta es la parte que un tour nocturno hace mejor que uno diurno. Kachori, mirchi vada, jalebi, lassi en un kulhad de arcilla, y lo que tu guía recomiende.\n\n**Lo que no verás**\n\nLos interiores de los monumentos. Cierran al atardecer, y este es un tour de la ciudad más que de sus salas.\n\n**Tres opciones**\n\nTres horas **en bicicleta** con un guía de habla inglesa; tres horas **en coche**; o un tour guiado en **inglés, francés o alemán**, el último de estos necesita reservarse con antelación, porque los guías con licencia en esos idiomas son relativamente pocos.\n\n**Práctico**\n\nRecogida en el hotel. De noviembre a febrero las noches de Jaipur bajan bruscamente tras el anochecer, lleva una chaqueta, particularmente en la bicicleta.\n\nLa versión en bicicleta usa calles más tranquilas en lugar de arterias principales, y se proporcionan cascos. Cualquiera que haya montado en bicicleta en la última década puede manejarlo.",
+  "highlights": [
+   "Descubre un vistazo del rico patrimonio de Jaipur."
+  ],
+  "included": [
+   "Un guía local de habla inglesa.",
+   "Transporte privado con un guía/conductor dedicado.",
+   "01 botella de agua por persona.",
+   "Recorrido nocturno por la ciudad de Jaipur.",
+   "Parada fotográfica en el Hawa Mahal.",
+   "Parada fotográfica en Albert Hall.",
+   "Visita al exterior iluminado del Fuerte Amer.",
+   "Parada panorámica en el Jal Mahal.",
+   "Paseo nocturno por el mercado de la ciudad vieja.",
+   "Paseo/trayecto por el famoso mercado Chaura Rasta de Jaipur.",
+   "Ceremonia de aarti en el templo del Señor Hanuman en la ciudad vieja.",
+   "Dulce tradicional para ofrecer en el templo."
+  ],
+  "notIncluded": [
+   "Propinas/gratificaciones.",
+   "Cualquier tipo de comida.",
+   "Tasas de entrada a monumentos/visitas interiores.",
+   "Visitas a cafés, bares o restaurantes.",
+   "Compras y gastos personales.",
+   "Cualquier actividad de aventura.",
+   "Cualquier tipo de medicación o gastos médicos.",
+   "Cualquier cosa no mencionada específicamente en las inclusiones."
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
