@@ -11460,6 +11460,103 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "delhi-ranthambore-guided-tour": {
+  "title": "Depuis Delhi : Triangle d'or de 4 jours et safari tigre à Ranthambore",
+  "metaTitle": "Triangle d'or et safari tigre, 4 jours",
+  "metaDescription": "Quatre jours depuis Delhi couvrant Agra, Fatehpur Sikri, les safaris tigre à Ranthambore et Jaipur, options d'hôtel.",
+  "shortDescription": "Quatre jours depuis Delhi couvrant Agra, Fatehpur Sikri, les safaris tigre à Ranthambore et Jaipur, options d'hôtel.",
+  "fullDescription": "**Le Triangle d'or avec un tigre dedans**\n\nRanthambore se trouve presque exactement entre Agra et Jaipur, ce qui fait que l'ajouter à cet itinéraire ne coûte qu'une nuit supplémentaire plutôt qu'un voyage séparé. C'est l'un des meilleurs endroits d'Inde pour réellement voir un tigre sauvage.\n\n**Jour un : Delhi à Agra**\n\nPar la Yamuna Expressway, environ trois heures et demie. Le **Taj Mahal** avec un guide, puis le **fort d'Agra**, les murs de grès rouge d'Akbar de 1565 et la tour octogonale où Aurangzeb a emprisonné son père, le Taj à portée de vue. **Mehtab Bagh** sur l'autre rive au coucher du soleil si l'horaire le permet. Nuit à Agra.\n\n**Jour deux : Agra à Ranthambore via Fatehpur Sikri**\n\n**Fatehpur Sikri** en premier, la capitale moghole qu'Akbar a construite en 1571 et quittée quatorze ans plus tard quand l'eau s'est épuisée, ce qui explique qu'elle subsiste intacte : le **Buland Darwaza**, le **Panch Mahal**, le dargah de marbre de Salim Chishti.\n\nPuis vers le sud jusqu'à Ranthambore, environ six heures.\n\n**Jour trois : le parc**\n\nLes safaris se déroulent tôt le matin et en milieu d'après-midi, en canter ou gypsy ouverts, sur une zone attribuée par le département des forêts, vous ne la choisissez pas.\n\nRanthambore abrite environ soixante-dix tigres sur 1 300 kilomètres carrés de forêt sèche, et les observations y sont inhabituellement bonnes car les animaux sont habitués aux véhicules. C'est toujours de la faune sauvage, et personne ne peut vous promettre un tigre. Ce qui est garanti : sambars, cerfs tachetés, crocodiles aux lacs, et le fort du Xe siècle qui domine tout le parc.\n\n**Jour quatre : Jaipur**\n\nLe **fort d'Amber**, le **City Palace**, le **Jantar Mantar**, le **Hawa Mahal**, puis retour à Delhi.\n\n**Pratique**\n\n**Ranthambore est fermé du 1er juillet au 30 septembre** pour la mousson. D'octobre à avril est la saison, et mars-avril offre les meilleures observations à mesure que l'eau s'assèche.\n\nLes permis de safari sont limités et doivent être réservés bien à l'avance. Les matins de décembre et janvier sont vraiment froids dans un véhicule ouvert.",
+  "highlights": [
+   "Émerveillez-vous devant le majestueux Taj Mahal au lever du soleil"
+  ],
+  "included": [
+   "Transport en véhicule privé climatisé avec chauffeur",
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Toutes les visites avec des guides locaux privés",
+   "Trajet en bus électrique entre le parking et le Taj Mahal, aller-retour",
+   "Toutes les taxes applicables",
+   "Bouteilles d'eau minérale pendant les trajets",
+   "Safari tigre au parc national de Ranthambore en jeep ou canter partagé",
+   "Dîner à Ranthambore (si l'option hôtel est choisie)",
+   "3 nuits d'hébergement avec petit-déjeuner (si l'option est choisie)"
+  ],
+  "notIncluded": [
+   "Droits d'entrée aux monuments (environ 60 USD par personne)",
+   "Pourboires"
+  ]
+ },
+ "delhi-red-fort-light-sound-show-at-night-with": {
+  "title": "Delhi : spectacle son et lumière du fort Rouge de nuit avec transfert",
+  "metaTitle": "Fort Rouge : son et lumière de nuit",
+  "metaDescription": "Le spectacle son et lumière du fort Rouge en soirée avec transferts, et option vieux Delhi en supplément.",
+  "shortDescription": "Le spectacle son et lumière du fort Rouge en soirée avec transferts, et option vieux Delhi en supplément.",
+  "fullDescription": "**Le fort après la tombée de la nuit**\n\nLe fort Rouge ferme aux visiteurs de jour en fin d'après-midi, puis rouvre pour le spectacle son et lumière **Ishq-e-Dilli**, les murs illuminés en séquence, une projection sur le grès, et une narration allant de la fondation de Shahjahanabad jusqu'en 1857 et l'indépendance.\n\nIl dure environ une heure, est présenté en hindi et en anglais à des horaires différents, et c'est la seule façon de voir le fort illuminé.\n\n**Ce qu'est le fort**\n\nShah Jahan l'a construit à partir de 1638 quand il a déplacé la capitale moghole d'Agra à Delhi, deux kilomètres de murs de grès rouge sur ce qui était alors la rive de la Yamuna.\n\nLa narration du spectacle couvre les parties que vous ne pouvez pas visiter à pied : le **Diwan-i-Khas** tel qu'il était quand le **trône du Paon** s'y trouvait, avant que Nadir Shah ne l'emporte en Perse en 1739 ; le dernier empereur, Bahadur Shah Zafar, jugé par les Britanniques dans sa propre salle en 1858 et exilé à Rangoon ; et le moment en 1947 où le drapeau fut hissé au-dessus de la porte de Lahore.\n\nLe Premier ministre s'adresse à la nation depuis ces remparts chaque 15 août depuis.\n\n**L'option vieux Delhi**\n\nLa version plus complète ajoute la ville fortifiée avant le spectacle : la **Jama Masjid**, et **Chandni Chowk**, qui est à son meilleur en début de soirée quand les confiseries frisent et que toute la rue est illuminée.\n\nCette combinaison est la meilleure réservation si vous avez le temps : les rues que Shah Jahan a tracées, puis le fort depuis lequel il les a tracées.\n\n**Deux options**\n\nLe spectacle avec transferts, ou le spectacle plus une visite du vieux Delhi.\n\n**Pratique**\n\nLes horaires du spectacle changent entre les programmes d'été et d'hiver, donc la prise en charge est fixée selon votre date. Le spectacle n'a pas lieu le lundi, jour de fermeture du fort, ni en cas de forte pluie.\n\nLes sièges sont en plein air sur des gradins. De novembre à février, les soirées de Delhi sont assez fraîches pour vouloir une veste, et un répulsif anti-moustiques est utile tout au long de l'année.",
+  "highlights": [
+   "Découvrez le fort Rouge illuminé la nuit lors d'une visite guidée privée"
+  ],
+  "included": [
+   "Billets pour le spectacle de lumière",
+   "Guide professionnel privé anglophone",
+   "Prise en charge et retour",
+   "Temps pour la photographie et l'exploration",
+   "Bouteilles d'eau",
+   "Visite du soir sûre et bien organisée pour votre confort"
+  ],
+  "notIncluded": [
+   "Surclassements : des frais supplémentaires peuvent s'appliquer pour des catégories de sièges supérieures ou des services additionnels",
+   "Dépenses personnelles telles que les en-cas ou les boissons",
+   "Pourboires et gratifications"
+  ]
+ },
+ "delhi-safari-guided-tour": {
+  "title": "Depuis Delhi : Triangle d'or de 4 jours et safari tigre à Ranthambore (à partir de 197,95 $)",
+  "metaTitle": "Triangle d'or et safari Ranthambore, 4 jours",
+  "metaDescription": "Quatre jours depuis Delhi via Agra et Jaipur avec safaris en jeep ou canter à Ranthambore, et options d'hôtel.",
+  "shortDescription": "Quatre jours depuis Delhi via Agra et Jaipur avec safaris en jeep ou canter à Ranthambore, et options d'hôtel.",
+  "fullDescription": "**Quatre jours, et l'un d'eux est une réserve de tigres**\n\nL'itinéraire le plus serré qui intègre Ranthambore. Cela fonctionne parce que le parc se trouve entre Agra et Jaipur, donc le safari ne coûte qu'une nuit plutôt qu'un détour.\n\n**Jour 1 : Delhi à Agra**\n\nPrise en charge matinale à votre hôtel, à l'aéroport ou à l'endroit de votre choix à Delhi, puis la Yamuna Expressway, trois heures et demie à quatre heures.\n\nVotre guide vous rejoint à Agra. Le **Taj Mahal** : Shah Jahan l'a commencé en 1632, l'année après la mort de Mumtaz Mahal en donnant naissance à leur quatorzième enfant. Vingt mille ouvriers et vingt-deux ans.\n\nPuis le **fort d'Agra**, et le **Musamman Burj**, la tour où Aurangzeb a emprisonné son père durant les huit dernières années de sa vie, le Taj visible le long du fleuve.\n\n**Jour 2 : Agra à Ranthambore via Fatehpur Sikri**\n\nLa capitale d'Akbar de 1571, abandonnée quatorze ans plus tard quand l'eau a manqué, et préservée intacte pour cette raison, le **Buland Darwaza**, le **Panch Mahal**, le dargah de marbre de Salim Chishti.\n\nPuis vers le sud jusqu'au parc, environ six heures.\n\n**Jour 3 : safari**\n\nTôt le matin ou l'après-midi, en **gypsy** ouverte (six places) ou en **canter** (vingt), sur une zone attribuée par le département des forêts. Personne ne choisit sa zone.\n\nRanthambore couvre 1 300 kilomètres carrés de forêt décidue sèche autour d'un fort du Xe siècle qui se dresse toujours dans la réserve. Environ soixante-dix tigres y vivent, et ils sont inhabituellement habitués aux véhicules, ce qui explique les meilleures chances du nord de l'Inde dans ce parc.\n\nCertain quoi qu'il arrive : sambars, chitals, nilgauts, langurs, crocodiles aux lacs, et le fort au-dessus.\n\n**Jour 4 : Jaipur, puis Delhi**\n\nLe **fort d'Amber**, le **City Palace**, le **Jantar Mantar**, le **Hawa Mahal**, et le retour.\n\n**Trois options**\n\nVoiture, chauffeur et guide ; ou avec hôtels trois ou quatre étoiles et le safari inclus.\n\n**Pratique**\n\n**Ranthambore est fermé du 1er juillet au 30 septembre.** Les permis sont limités, réservez tôt. **Le Taj est fermé le vendredi.**",
+  "highlights": [
+   "Transferts aller-retour pratiques depuis Delhi en véhicule privé climatisé"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour toute l'activité",
+   "Guide local expert agréé par le gouvernement dans chaque ville",
+   "3 nuits d'hébergement en hôtel (si l'option est choisie)",
+   "Petit-déjeuner à l'hôtel (si l'option est choisie)",
+   "Safari en jeep/canter, selon disponibilité (si l'option est choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Billets d'entrée aux monuments",
+   "Déjeuner et dîner",
+   "Toute dépense personnelle"
+  ]
+ },
+ "delhi-sariska-tiger-reserve-safari-day-trip-with-l": {
+  "title": "Delhi : excursion d'une journée au safari de la réserve de tigres de Sariska avec déjeuner",
+  "metaTitle": "Sariska : safari tigre en une journée",
+  "metaDescription": "Une excursion d'une journée depuis Delhi à la réserve de tigres de Sariska avec safari en jeep et déjeuner. Environ quatorze heures.",
+  "shortDescription": "Une excursion d'une journée depuis Delhi à la réserve de tigres de Sariska avec safari en jeep et déjeuner. Environ quatorze heures.",
+  "fullDescription": "**La réserve qui a perdu tous ses tigres, et les a retrouvés**\n\nSariska n'en avait plus aucun en 2004, toute la population braconnée, confirmée par le recensement. Elle est devenue la première réserve au monde à voir des tigres réintroduits par avion, amenés depuis Ranthambore à partir de 2008. Ils se reproduisent désormais seuls.\n\nCette histoire rend un safari ici différent de celui dans un parc qui n'a jamais été vidé. Vous observez un écosystème délibérément reconstitué.\n\n**Y aller**\n\nSariska se trouve à environ 200 km de Delhi, trois heures et demie à quatre heures, ce qui fait de cette excursion une journée de quatorze heures. Voiture privée, prise en charge à votre hôtel, à l'aéroport ou n'importe où dans le NCR.\n\n**Le safari**\n\nUne jeep ouverte à l'intérieur de la réserve, qui couvre 880 kilomètres carrés de forêt décidue sèche, de collines rocheuses et de prairies dans les Aravalli, avec des lacs qui concentrent la faune à mesure que la saison sèche s'installe.\n\nLes tigres sont la vedette et ne sont pas garantis, ceux de Sariska sont moins nombreux que ceux de Ranthambore et le terrain est plus boisé, donc les observations sont plus difficiles. Ce que vous verrez sûrement : des **sambars**, **chitals**, **nilgauts**, **langurs** et des sangliers sauvages, avec des traces de **léopard** fréquentes et une avifaune excellente, des paons partout, des aigles serpentaires huppés, des gangas des sables au point d'eau.\n\nÀ l'intérieur de la réserve se trouvent aussi les ruines du **fort de Kankwari**, où Aurangzeb aurait emprisonné son frère Dara Shikoh, et les **temples de Neelkanth** du Xe siècle.\n\nLe **déjeuner** est inclus.\n\n**Pratique**\n\nLes zones de safari et les permis sont attribués par le département des forêts ; personne ne choisit sa zone.\n\n**Sariska ferme les safaris du 1er juillet au 30 septembre** pour la mousson. D'octobre à mars le climat est agréable ; d'avril à juin il est chaud et offre les meilleures observations aux points d'eau.\n\nLes matins de décembre et janvier sont vraiment froids dans une jeep ouverte, apportez une veste. Portez des couleurs discrètes et laissez le parfum.\n\nQuatorze heures porte à porte, dont sept ou huit de route. C'est une longue journée pour un seul safari ; si les tigres sont l'objectif de votre voyage, deux nuits à Ranthambore constituent une meilleure réservation.",
+  "highlights": [
+   "Ressentez le frisson d'apercevoir des tigres du Bengale et des léopards dans leur habitat naturel"
+  ],
+  "included": [
+   "Voiture privée climatisée avec chauffeur depuis Delhi",
+   "Déjeuner dans un restaurant",
+   "Safari en jeep ou canter partagé",
+   "Guide naturaliste local pendant le safari",
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Bouteilles d'eau minérale pendant le trajet",
+   "Toutes les taxes, frais et frais de gestion"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Boissons pendant le déjeuner",
+   "Pourboires"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
