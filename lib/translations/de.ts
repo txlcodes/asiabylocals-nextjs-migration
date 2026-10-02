@@ -19060,6 +19060,78 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld für Fahrer & Guide"
   ]
  },
+ "rajasthan-5-day-tour-with-jaipur-pushkar-jodhpur-u": {
+  "title": "Rajasthan: 5-tägige Tour mit Jaipur, Pushkar, Jodhpur & Udaipur",
+  "metaTitle": "Rajasthan: 5 Tage Jaipur, Pushkar, Jodhpur, Udaipur",
+  "metaDescription": "Fünf Tage ab Jaipur durch Pushkar, Jodhpur und Udaipur mit einem privaten Auto, Hotels und täglichem Frühstück.",
+  "shortDescription": "Fünf Tage ab Jaipur durch Pushkar, Jodhpur und Udaipur mit einem privaten Auto, Hotels und täglichem Frühstück.",
+  "fullDescription": "**Eine Nacht in jeder, und die Fahrt ist die Reise**\n\nVier Städte in fünf Tagen klingt schnell, und es funktioniert, weil dies keine großen Orte zum Ansehen sind, Pushkar ist ein See und ein Tempel, Jodhpur ist ein Fort und ein blaues Viertel. Was Sie wirklich kaufen, ist die Straße zwischen ihnen, die zu den schönsten Landschaften Indiens zählt.\n\nPrivates klimatisiertes Fahrzeug durchgehend, mit Unterkunft und täglichem Frühstück.\n\n**Jaipur**\n\n**Amber Fort** auf seinem Grat über dem Maota-See, der **City Palace**, die Steininstrumente des **Jantar Mantar** und der **Hawa Mahal**, und die Bazare, wo die Edelsteinschleifer und Lack-Armreif-Macher noch dort arbeiten, wo der Stadtplan von 1727 sie platzierte.\n\n**Pushkar**\n\nEine kleine Stadt um einen See, von dem Hindus glauben, dass er dort entstand, wo Brahma einen Lotus fallen ließ. Es gibt vielleicht ein Dutzend Brahma-Tempel weltweit; dies ist der wichtigste.\n\n**Zweiundfünfzig Ghats** umringen das Wasser. Die Stadt ist innerhalb ihrer Grenzen **streng vegetarisch und alkoholfrei**, kein Fleisch, keine Eier, kein Alkohol, durchgesetzt.\n\nDer **Savitri-Tempel** auf dem Hügel darüber bietet Ihnen den ganzen See beim Sonnenaufgang, über eine lange Treppe oder eine Seilbahn.\n\nEine Warnung: Männer an den Ghats bieten einen „Pushkar-Pass\"-Segen an und verlangen dann eine große Spende. Ein bestimmtes Nein reicht.\n\n**Jodhpur**\n\n**Mehrangarh** erhebt sich 120 Meter direkt aus dem Fels und wurde nie eingenommen. Das Museum im Inneren ist das bestgeführte Rajasthans, und die Kanonenkugel-Narben am zweiten Tor stammen von einer Belagerung durch Jaipur.\n\nDarunter, **Jaswant Thada** aus Marmor, dünn genug, dass Sonnenlicht durchscheint, und die blauen Gassen um den Uhrturm, die Farbe war ein Kalk-Kupfer-Anstrich, der Termiten abhielt.\n\n**Udaipur**\n\nDer **City Palace** am Pichola-See, von zweiundzwanzig Herrschern über vier Jahrhunderte erbaut. **Jagdish-Tempel** von 1651. Und eine Bootsfahrt bei Sonnenuntergang, womit die Reise enden sollte.\n\n**Praktisch**\n\nEtwa 900 km Fahrt über fünf Tage, alles auf ordentlicher Autobahn. Oktober bis März ist die Saison.",
+  "highlights": [
+   "Entdecken Sie vier unterschiedliche Rajasthan-Ziele auf einer privaten Reise"
+  ],
+  "included": [
+   "4 Nächte Hotelunterkunft: je 1 in Jaipur, Pushkar, Jodhpur und Udaipur",
+   "Unterkunftskategorie: 3 Sterne",
+   "Unterkunft im Doppelzimmer",
+   "4 Frühstücke, von Tag 2 bis Tag 5",
+   "Privates klimatisiertes Fahrzeug für den Reiseplan",
+   "Fahrer für Transfers und Besichtigungstransport",
+   "Abholung in Jaipur und Rückfahrt in Udaipur",
+   "Kraftstoff, Mautgebühren, Parkgebühren und Fahrerzulagen"
+  ],
+  "notIncluded": [
+   "Flüge und Zugtickets",
+   "Eintrittsgebühren für Denkmäler, Museen und Attraktionen",
+   "Lokale Besichtigungsguides",
+   "Mittag-, Abendessen",
+   "Bootsfahrt auf dem Pichola-See",
+   "Persönliche Ausgaben und Trinkgeld",
+   "Nicht in den Einschlüssen aufgeführte Aktivitäten und Leistungen"
+  ]
+ },
+ "same-day-abhaneri-trip-with-monkey-temple-from-jai": {
+  "title": "Tagesausflug nach Abhaneri mit Affentempel ab Jaipur",
+  "metaTitle": "Jaipur: Abhaneri und Affentempel",
+  "metaDescription": "Ein Tag von Jaipur zum Stufenbrunnen Chand Baori in Abhaneri und zum Affentempel Galta Ji. Etwa acht Stunden.",
+  "shortDescription": "Ein Tag von Jaipur zum Stufenbrunnen Chand Baori in Abhaneri und zum Affentempel Galta Ji. Etwa acht Stunden.",
+  "fullDescription": "**Der tiefste Stufenbrunnen Indiens, und ein Tempel in einer Schlucht**\n\nZwei Stätten, beide außergewöhnlich, beide ruhig. Acht Stunden mit einem Auto, und ein Guide bei der umfassenderen Option.\n\n**Chand Baori, Abhaneri**\n\nDas ist der. **3.500 Stufen** in perfekten doppelten Treppen, die dreizehn Stockwerke zu einem Quadrat grünen Wassers am Boden hinabführen, im 9. Jahrhundert von König Chanda für ein Dorf geschaffen, das Wasser durch einen Wüstensommer brauchte.\n\nDie Temperatur am Boden liegt fünf bis sechs Grad unter der Oberfläche, was ebenso der Punkt war wie das Wasser, es war ein Ort zum Schöpfen und ein Ort, um die Hitze auszusitzen.\n\nDie Geometrie fotografiert sich wie ein Escher-Druck, und Sie haben sie bereits in Filmen gesehen, ohne zu wissen, wo das war. Sie können nicht zum Wasser hinabsteigen; die obere Galerie und der **Harshat-Mata-Tempel** daneben sind offen.\n\nAbhaneri liegt etwa 90 km von Jaipur an der Straße nach Agra, was dies zu einem guten Tag macht, um ihn mit einem Transfer zu kombinieren, falls Sie in diese Richtung fahren.\n\n**Galta Ji, der Affentempel**\n\nEin Tempelkomplex, eingeklemmt in eine Schlucht in den Aravalli-Hügeln östlich von Jaipur. Natürliche Quellen fließen durch eine Reihe von Steinbecken, der **Galta Kund** oben ist nie bekannt dafür, auszutrocknen, und Pilger baden hier seit Jahrhunderten.\n\nDie Gebäude sind aus rosafarbenem Sandstein des 18. Jahrhunderts mit bemalten Innenräumen, die so verblassen, dass es sich jetzt lohnt, sie zu sehen. Über dem Komplex bietet der **Surya-Tempel** auf dem Grat die ganze Stadt darunter ausgebreitet.\n\nDie Makaken leben hier, daher der Spitzname. Sie sind wild: halten Sie kein Essen in der Hand, strecken Sie Ihr Telefon nicht über eine Mauer, und nehmen Sie die Sonnenbrille vom Kopf.\n\n**Zwei Optionen**\n\nAuto und Fahrer, oder Auto mit einem Guide. Nehmen Sie den Guide für Abhaneri, die Ikonographie am Tempel ist nicht beschriftet.\n\n**Praktisch**\n\nEtwa acht Stunden. Echtes Gehen auf heißem, unebenem Stein an beiden Stätten; flache Schuhe und Wasser.",
+  "highlights": [
+   "Chand Baori ist eine der am besten wassererhaltenen verlassenen Städte der Welt."
+  ],
+  "included": [
+   "Abholung & Rückfahrt zu Hotel/Bahnhof/Busbahnhof mit klimatisiertem Fahrzeug",
+   "Klimatisiertes Fahrzeug & privater Transport",
+   "Kraftstoff (Benzin/Diesel), Parkgebühren, Mautgebühren & zwischenstaatliche Steuern...",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Denkmäler/Kameragebühren",
+   "Mahlzeiten & persönliche Ausgaben",
+   "Andere Aktivitäten",
+   "Trinkgeld für den Fahrer"
+  ]
+ },
+ "shopping-lac-bangles-making-photostop-at-hawa-maha": {
+  "title": "Einkaufen, Lack-Armreif-Herstellung & Fotostopp am Hawa Mahal",
+  "metaTitle": "Jaipur: Einkaufen, Lack-Armreifen, Hawa Mahal",
+  "metaDescription": "Vier Stunden durch Johari und Bapu Bazaar mit einem Guide, einschließlich einer praktischen Lack-Armreif-Sitzung und einem Fotostopp am Hawa Mahal.",
+  "shortDescription": "Vier Stunden durch Johari und Bapu Bazaar mit einem Guide, einschließlich einer praktischen Lack-Armreif-Sitzung und einem Fotostopp am Hawa Mahal.",
+  "fullDescription": "**Einkaufen mit jemandem, der die Preise kennt**\n\nJaipurs Bazare sind einer der besten Orte zum Einkaufen in Indien und einer der leichtesten, um abgezockt zu werden. Dies sind vier Stunden mit einem Guide, dessen Aufgabe die zweite Hälfte davon ist, was handgemacht ist, was maschinell gefertigt und als handgemacht verkauft wird, und was der lokale Preis tatsächlich ist.\n\n**Johari Bazaar**\n\nDie Straße der Juweliere, und der älteste Handel der Stadt. Kundan- und Meenakari-Arbeiten in den Schaufenstern, Gold nach Gewicht, Silber auf dem Tablett, und Edelsteinhändler oben, deren Türen Sie nie erraten würden.\n\nHier arbeiten auch die **Lack-Armreif**-Macher.\n\n**Einen Lack-Armreif herstellen**\n\nLack ist ein Harz, das von einem Insekt auf Wirtsbäumen abgesondert wird, gesammelt und zu einem formbaren Material raffiniert. Der Hersteller erweicht einen Stab davon über einer kleinen Flamme, bearbeitet ihn auf einem Stein, wickelt ihn zur Größe um einen Holzdorn, verbindet die Enden, und drückt Spiegel oder Glas ein, während er noch warm ist.\n\nSie machen es selbst, wobei er Ihre Hände führt, und Sie nehmen den Armreif mit nach Hause. Es dauert etwa fünfzehn Minuten und ist der Teil dieser Tour, an den sich jeder erinnert.\n\nDas Handwerk ist spezifisch für Rajasthan und es verschwindet, es gibt jedes Jahrzehnt weniger Familien, die es ausüben.\n\n**Bapu Bazaar**\n\nInnerhalb der Stadtmauer zwischen Sanganeri und New Gate: Textilien, **Mojari**-Lederschuhe mit den gebogenen Spitzen, Bandhani- und Leheriya-Krawattenfärbung, Kamelleder-Taschen, gesteppte Razais.\n\nEin guter Mojari biegt sich leicht in der Hand; ein schlechter ist Pappe mit aufgeklebtem Leder. Ihr Guide wird Ihnen den Unterschied zeigen.\n\n**Hawa Mahal**\n\nEin Fotostopp an der Wabenfassade, 953 Fenster, fünf Stockwerke, 1799 erbaut, damit die Frauen des Hofes die Straße unbeobachtet ansehen konnten. Das Morgenlicht trifft direkt darauf, das ist, wenn es richtig pink wird.\n\n**Inklusive**\n\nKlimatisiertes Auto, Fahrer, Guide und die Armreif-Sitzung. Was Sie kaufen, gehört Ihnen; nichts ist im Preis enthalten und Ihr Guide nimmt keine Ladenprovision.",
+  "highlights": [
+   "Tauchen Sie ein in die lebendige Atmosphäre Jaipurs geschäftiger Bazare"
+  ],
+  "included": [
+   "Professioneller englischsprachiger Reiseführer",
+   "Privates klimatisiertes Fahrzeug mit Chauffeur",
+   "Eintrittsgebühren für alle aufgeführten Attraktionen",
+   "Alle Steuern und Servicegebühren"
+  ],
+  "notIncluded": [
+   "Mahlzeiten (Mittag- & Abendessen), sofern nicht angegeben",
+   "Persönliche Ausgaben (Einkäufe, Wäsche, Trinkgeld usw.)",
+   "Alle nicht im Reiseplan genannten Leistungen"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",

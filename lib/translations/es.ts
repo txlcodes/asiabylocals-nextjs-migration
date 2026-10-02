@@ -19060,6 +19060,78 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas del conductor y del guía"
   ]
  },
+ "rajasthan-5-day-tour-with-jaipur-pushkar-jodhpur-u": {
+  "title": "Rajastán: Tour de 5 días con Jaipur, Pushkar, Jodhpur y Udaipur",
+  "metaTitle": "Rajastán: 5 días Jaipur, Pushkar, Jodhpur, Udaipur",
+  "metaDescription": "Cinco días desde Jaipur por Pushkar, Jodhpur y Udaipur con un coche privado, hoteles y desayuno diario.",
+  "shortDescription": "Cinco días desde Jaipur por Pushkar, Jodhpur y Udaipur con un coche privado, hoteles y desayuno diario.",
+  "fullDescription": "**Una noche en cada una, y la carretera es el viaje**\n\nCuatro ciudades en cinco días suena rápido, y funciona porque estos no son lugares grandes que ver, Pushkar es un lago y un templo, Jodhpur es un fuerte y un barrio azul. Lo que realmente compras es la carretera entre ellas, que está entre las mejores de la India.\n\nVehículo privado con aire acondicionado durante todo el recorrido, con alojamiento y desayuno diario.\n\n**Jaipur**\n\n**Fuerte Amber** en su cresta sobre el lago Maota, el **City Palace**, los instrumentos de piedra del **Jantar Mantar** y el **Hawa Mahal**, y los bazares, donde los talladores de piedras preciosas y fabricantes de pulseras de laca todavía trabajan donde el plano de la ciudad de 1727 los colocó.\n\n**Pushkar**\n\nUn pequeño pueblo alrededor de un lago que los hindúes sostienen se formó donde Brahma dejó caer un loto. Hay quizás una docena de templos de Brahma en el mundo; este es el principal.\n\n**Cincuenta y dos ghats** rodean el agua. El pueblo es **estrictamente vegetariano y libre de alcohol** dentro de sus límites, sin carne, sin huevos, sin alcohol, de forma estricta.\n\nEl **templo de Savitri** en la colina de arriba te ofrece todo el lago al amanecer, por una larga escalera o un teleférico.\n\nUna advertencia: los hombres en los ghats ofrecerán una bendición del \"pasaporte de Pushkar\" y luego exigirán una donación grande. Un no firme basta.\n\n**Jodhpur**\n\n**Mehrangarh** se eleva 120 metros directamente desde la roca y nunca fue tomado. El museo en el interior es el mejor gestionado de Rajastán, y las marcas de balas de cañón en la segunda puerta son de un asedio de Jaipur.\n\nDebajo, **Jaswant Thada** de mármol lo bastante fino para que pase la luz del sol, y las callejuelas azules alrededor de la torre del reloj, el color era un lavado de cal y cobre que ahuyentaba a las termitas.\n\n**Udaipur**\n\nEl **City Palace** junto al lago Pichola, construido por veintidós gobernantes a lo largo de cuatro siglos. **Templo Jagdish** de 1651. Y un paseo en barco al atardecer, que es cómo debería terminar el viaje.\n\n**Práctico**\n\nUnos 900 km de carretera a lo largo de cinco días, todo por autopista decente. De octubre a marzo es la temporada.",
+  "highlights": [
+   "Descubre cuatro destinos distintivos de Rajastán en un solo viaje privado"
+  ],
+  "included": [
+   "4 noches de alojamiento en hotel: 1 cada una en Jaipur, Pushkar, Jodhpur y Udaipur",
+   "Categoría de alojamiento: 3 estrellas",
+   "Alojamiento en habitación doble",
+   "4 desayunos, del día 2 al día 5",
+   "Vehículo privado con aire acondicionado para el itinerario",
+   "Conductor para traslados y transporte de visitas",
+   "Recogida en Jaipur y entrega en Udaipur",
+   "Combustible, peajes, tasas de aparcamiento y dietas del conductor"
+  ],
+  "notIncluded": [
+   "Vuelos y billetes de tren",
+   "Tasas de entrada a monumentos, museos y atracciones",
+   "Guías locales de visitas",
+   "Almuerzo, cena",
+   "Paseo en barco por el lago Pichola",
+   "Gastos personales y propinas",
+   "Actividades y servicios no listados en las inclusiones"
+  ]
+ },
+ "same-day-abhaneri-trip-with-monkey-temple-from-jai": {
+  "title": "Excursión de un día a Abhaneri con templo de los monos desde Jaipur",
+  "metaTitle": "Jaipur: Abhaneri y templo de los monos",
+  "metaDescription": "Un día desde Jaipur hasta el pozo escalonado de Chand Baori en Abhaneri y el templo de los monos de Galta Ji. Unas ocho horas.",
+  "shortDescription": "Un día desde Jaipur hasta el pozo escalonado de Chand Baori en Abhaneri y el templo de los monos de Galta Ji. Unas ocho horas.",
+  "fullDescription": "**El pozo escalonado más profundo de la India, y un templo en un desfiladero**\n\nDos sitios, ambos extraordinarios, ambos tranquilos. Ocho horas con un coche, y un guía en la opción más completa.\n\n**Chand Baori, Abhaneri**\n\nEste es el importante. **3.500 escalones** en perfectos tramos dobles, que descienden trece plantas hasta un cuadrado de agua verde en el fondo, excavados en el siglo 9 por el rey Chanda para un pueblo que necesitaba agua a lo largo de un verano desértico.\n\nLa temperatura en el fondo es de cinco a seis grados inferior a la de la superficie, lo cual era tanto el objetivo como el agua, era un lugar para sacar agua y un lugar para escapar del calor.\n\nLa geometría se fotografía como un grabado de Escher, y ya la habrás visto en películas sin saber dónde era. No puedes bajar hasta el agua; la galería superior y el **templo de Harshat Mata** junto a ella están abiertos.\n\nAbhaneri está a unos 90 km de Jaipur por la carretera de Agra, lo que hace de este un buen día para combinar con un traslado si te diriges en esa dirección.\n\n**Galta Ji, el templo de los monos**\n\nUn complejo de templos encajado en un desfiladero de las colinas Aravalli al este de Jaipur. Manantiales naturales bajan a través de una serie de tanques de piedra, el **Galta Kund** en la parte superior nunca se ha secado, y los peregrinos se bañan aquí desde hace siglos.\n\nLos edificios son de arenisca rosa del siglo 18 con interiores pintados que se desvanecen de una manera que hace que verlos ahora merezca la pena. Sobre el complejo, el **templo de Surya** en la cresta te ofrece toda la ciudad extendida abajo.\n\nLos macacos viven aquí, de ahí el apodo. Son salvajes: no sostengas comida en la mano, no asomes el teléfono sobre un muro, y quítate las gafas de sol de la cabeza.\n\n**Dos opciones**\n\nCoche y conductor, o coche con un guía. Toma el guía para Abhaneri, la iconografía del templo no está etiquetada.\n\n**Práctico**\n\nUnas ocho horas. Caminata real sobre piedra caliente e irregular en ambos sitios; zapatos planos y agua.",
+  "highlights": [
+   "Chand Baori es una de las ciudades abandonadas mejor conservadas en términos de agua del mundo."
+  ],
+  "included": [
+   "Recogida y regreso al hotel/estación de tren/estación de autobús en vehículo con aire acondicionado",
+   "Vehículo con aire acondicionado y transporte privado",
+   "Combustible (gasolina/diésel), tasas de aparcamiento, peajes e impuestos interestatales...",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Tasas de entrada a monumentos/tasas de cámara",
+   "Comidas y gastos personales",
+   "Otras actividades",
+   "Propinas del conductor"
+  ]
+ },
+ "shopping-lac-bangles-making-photostop-at-hawa-maha": {
+  "title": "Compras, fabricación de pulseras de laca y parada fotográfica en Hawa Mahal",
+  "metaTitle": "Jaipur: compras, pulseras de laca, Hawa Mahal",
+  "metaDescription": "Cuatro horas por Johari y Bapu Bazaar con un guía, incluyendo una sesión práctica de pulseras de laca y una parada fotográfica en el Hawa Mahal.",
+  "shortDescription": "Cuatro horas por Johari y Bapu Bazaar con un guía, incluyendo una sesión práctica de pulseras de laca y una parada fotográfica en el Hawa Mahal.",
+  "fullDescription": "**Compras con alguien que conoce los precios**\n\nLos bazares de Jaipur son uno de los mejores lugares para comprar en la India y uno de los más fáciles para que te estafen. Son cuatro horas con un guía cuyo trabajo es la segunda mitad de eso, qué es hecho a mano, qué es hecho a máquina y vendido como hecho a mano, y cuál es realmente el precio local.\n\n**Johari Bazaar**\n\nLa calle de los joyeros, y el comercio más antiguo de la ciudad. Trabajo kundan y meenakari en los escaparates, oro por peso, plata por bandeja, y comerciantes de piedras preciosas arriba cuyas puertas nunca adivinarías.\n\nTambién es donde trabajan los fabricantes de **pulseras de laca**.\n\n**Haciendo una pulsera de laca**\n\nLa laca es una resina secretada por un insecto en árboles huésped, recolectada y refinada en un material moldeable. El fabricante suaviza una barra sobre una pequeña llama, la trabaja sobre una piedra, la enrolla alrededor de un mandril de madera según el tamaño, une los extremos, y presiona espejos o vidrio mientras todavía está caliente.\n\nLo haces tú mismo, con él guiando tus manos, y te llevas la pulsera a casa. Lleva unos quince minutos y es la parte de este tour que todos recuerdan.\n\nEl oficio es específico de Rajastán y está desapareciendo, hay menos familias haciéndolo cada década.\n\n**Bapu Bazaar**\n\nDentro de la muralla de la ciudad entre Sanganeri y New Gate: textiles, zapatillas de cuero **mojari** de puntas curvadas, teñido anudado bandhani y leheriya, bolsos de cuero de camello, razais acolchadas.\n\nUna buena mojari se dobla fácilmente en la mano; una mala es cartón con cuero pegado. Tu guía te mostrará la diferencia.\n\n**Hawa Mahal**\n\nUna parada fotográfica en la fachada de panal, 953 ventanas, cinco plantas, construida en 1799 para que las mujeres de la corte pudieran observar la calle sin ser vistas. La luz de la mañana incide directamente sobre ella, ese es el momento en que se vuelve propiamente rosa.\n\n**Incluido**\n\nCoche con aire acondicionado, conductor, guía y la sesión de pulseras. Lo que compres es tuyo; nada está integrado en el precio y tu guía no cobra comisión de las tiendas.",
+  "highlights": [
+   "Sumérgete en el ambiente vibrante de los bulliciosos bazares de Jaipur"
+  ],
+  "included": [
+   "Guía turístico profesional de habla inglesa",
+   "Vehículo privado con aire acondicionado y chófer",
+   "Tasas de entrada a todas las atracciones listadas",
+   "Todos los impuestos y cargos de servicio"
+  ],
+  "notIncluded": [
+   "Comidas (almuerzo y cena) salvo que se especifique",
+   "Gastos personales (compras, lavandería, propinas, etc.)",
+   "Cualquier servicio no mencionado en el itinerario"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
