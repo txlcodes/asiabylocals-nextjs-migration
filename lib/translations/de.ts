@@ -18423,6 +18423,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Keine"
   ]
  },
+ "jaipur-private-tour-for-instagram-and-photography-": {
+  "title": "Jaipur: Private Tour für Instagram- und Fotografie-Liebhaber",
+  "metaTitle": "Jaipur: private Tour, Instagram und Fotografie",
+  "metaDescription": "Ein ganzer Tag mit Jaipurs fotogensten Orten mit einem Guide, gemacht für Fotografen statt Checklisten.",
+  "shortDescription": "Ein ganzer Tag mit Jaipurs fotogensten Orten mit einem Guide, gemacht für Fotografen statt Checklisten.",
+  "fullDescription": "**Jaipur ist eine ungewöhnlich symmetrische Stadt**\n\nJai Singh II legte sie 1727 auf einem Neun-Felder-Raster mit festgelegten Straßenbreiten an, und die folgende Architektur ist voller sich wiederholender Bögen, verspiegelter Fassaden und gestufter Geometrie. Deshalb fotografiert sie sich so, wie sie es tut, und deshalb macht ein Tag rund um Komposition statt Geschichte hier Sinn.\n\n**Hawa Mahal**\n\nVon der gegenüberliegenden Straße aus, morgens, wenn die Sonne auf der Fassade liegt und sie richtig pink wird. **953 Fenster** über fünf Stockwerke und kaum einen Meter tief, das Gebäude ist ein Sichtschutz, deshalb wirkt es wie ein Muster statt wie eine Masse.\n\nEs gibt ein Dachcafé gegenüber der Straße, das jeder Fotograf der Stadt nutzt, und Ihr Guide weiß, welches den richtigen Winkel hat.\n\n**Patrika-Tor**\n\nNeun bemalte Bögen am Jawahar Circle, jede Oberfläche mit Wandmalereien aus Rajasthans Regionen bedeckt, in perfekter Perspektive zurückweichend. Es ist der meistfotografierte Nicht-Fort-Ort in Jaipur und ab neun Uhr voll, gehen Sie zuerst dorthin.\n\n**Panna Meena ka Kund**\n\nDer Stufenbrunnen aus dem 16. Jahrhundert unter Amber: sich kreuzende symmetrische Treppen, die acht Stockwerke hinabführen. Escher-Geometrie, und fast immer ruhig, da die Reisebusse ihn auslassen.\n\n**Amber Fort**\n\nDas **Ganesh Pol**-Tor, die Spiegelkammer des **Sheesh Mahal**, und die Innenhöfe, die den Grat hinaufsteigen. Früh, vor den Menschenmengen.\n\n**City Palace**\n\n**Pritam Niwas Chowk**, wo vier Tore jeweils eine Jahreszeit und eine Gottheit darstellen, das **Pfauentor** ist jenes, das jeder fotografiert, und es gibt meist eine Schlange von Leuten in passenden Outfits, die darauf warten.\n\n**Gaitor ki Chhatriyan**\n\nDie königlichen Kenotaphe aus weißem Marmor am Fuß des Nahargarh-Hügels, geschnitzt, ruhig, und von fast niemandem fotografiert.\n\n**Und ein Grat zum Sonnenuntergang**\n\nNahargarh oder die Aravalli-Straße, mit dem ganzen Raster der ummauerten Stadt darunter, das orange wird.\n\n**Praktisch**\n\nAcht Stunden, privat, mit einem Guide, der das Licht kennt statt nur die Daten.\n\nBeginnen Sie vor Sonnenaufgang. Die Hälfte dieser Orte funktioniert nur in den ersten zwei Stunden.",
+  "highlights": [
+   "Erleben Sie die Sehenswürdigkeiten und Klänge Jaipurs auf einer privaten Tour."
+  ],
+  "included": [
+   "Abholung & Rückfahrt zu Hotel/Flughafen/Bahnhof",
+   "Privates klimatisiertes Fahrzeug mit Chauffeur für die Stadttour",
+   "Kraftstoff- und Parkgebühren inklusive."
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Denkmäler",
+   "Erinnerungsfotos (zum Kauf erhältlich)",
+   "Mittagessen",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "jaipur-rajasthani-food-cooking-experience-with-loc": {
+  "title": "Jaipur: Rajasthanisches Kocherlebnis mit lokaler Familie",
+  "metaTitle": "Jaipur: rajasthanisches Kochen mit Familie",
+  "metaDescription": "Ein zweistündiger rajasthanischer Kochkurs in einem Familienhaus in Jaipur, Pakora, Dal und Curry, mit einem Snack oder einer vollen Mahlzeit.",
+  "shortDescription": "Ein zweistündiger rajasthanischer Kochkurs in einem Familienhaus in Jaipur, Pakora, Dal und Curry, mit einem Snack oder einer vollen Mahlzeit.",
+  "fullDescription": "**Die tatsächliche Küche von jemandem**\n\nSie werden mit einem Getränk in einem Zuhause willkommen geheißen, und dann kochen Sie. Es gibt keine Theke, keine Kochjacke und keine Vorführung, es ist eine Familie, die Ihnen zeigt, was sie kocht, in dem Raum, in dem sie es kocht.\n\nZwei Stunden, die richtige Länge für einen Kurs statt eines Events.\n\n**Was Sie kochen**\n\n**Zwiebel-Pakora** zum Anfang, denn das macht jede rajasthanische Küche, wenn jemand ankommt: Kichererbsenmehl-Teig, geschnittene Zwiebel, Gewürze, frittiert, heiß mit Chai gegessen.\n\n**Dal**, und der Sinn, es hier zu lernen, ist das Tadka. Ganzer Kreuzkümmel, Senfkörner, getrockneter Chili und Asafoetida kommen in heißes Ghee und werden am Ende über die gekochten Linsen gegossen. Dieser Schritt macht den größten Teil des Geschmacks aus, und niemand außerhalb Indiens macht das.\n\nEin **vegetarisches Curry**, saisonal, und **Roti**, auf dem Tawa zubereitet, was einfach aussieht und nicht ist, und bei dem Ihr Gastgeber Sie fröhlich scheitern lässt.\n\n**Warum rajasthanisches Essen so funktioniert, wie es tut**\n\nDie Wüste hat es geformt. Wasser war knapp, also wurden Dinge in Ghee, Milch und Buttermilch gekocht. Frisches Gemüse war knapp, also trugen Kichererbsenmehl, Linsen und getrocknete Wüstenbohnen den Teller. Es gab keine Kühlung, also ist vieles trocken gewürzt und hält sich tagelang.\n\nSobald jemand Ihnen das erzählt, während Sie in der Küche stehen, ergibt die ganze Küche Sinn.\n\n**Zwei Optionen**\n\nDie **Snack-Version**, Pakora, ein Gericht und Chai. Oder die **volle Mahlzeit**, bei der Sie ein vollständiges rajasthanisches Thali kochen und sich mit der Familie zum Essen setzen.\n\n**Praktisch**\n\nDurchgehend vegetarisch. Jainistisch, ohne Zwiebel und Knoblauch, ohne Chili und glutenfrei sind hier alle normale Anfragen, sagen Sie es bei der Buchung und das Menü passt sich an.\n\nSie gehen mit den Rezepten, und einer ziemlich genauen Vorstellung davon, wie viel Ghee tatsächlich im Spiel ist.",
+  "highlights": [
+   "Genießen Sie die Aromen der rajasthanischen Küche mit einer lokalen Familie"
+  ],
+  "included": [
+   "Willkommensgetränk",
+   "Snacks oder vollständige rajasthanische Mahlzeit",
+   "Kochkurs",
+   "Gedrucktes Rezept"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt mit Zusatzkosten können angeboten werden. Bitte teilen Sie uns dies vorab mit."
+  ]
+ },
+ "jaipur-royal-delights-ac-car-sightseeing-with-guid": {
+  "title": "Jaipur: Royal Delights Besichtigung im klimatisierten Auto mit Guide",
+  "metaTitle": "Jaipur: Royal Delights im Auto mit Guide",
+  "metaDescription": "Ein privater Ganztag mit Jaipurs Forts und Palästen im klimatisierten Auto mit einem lokalen Guide. Etwa acht Stunden.",
+  "shortDescription": "Ein privater Ganztag mit Jaipurs Forts und Palästen im klimatisierten Auto mit einem lokalen Guide. Etwa acht Stunden.",
+  "fullDescription": "**Die unkomplizierte Version, richtig gemacht**\n\nKeine Gimmicks: ein klimatisiertes Auto, ein lizenzierter lokaler Guide, acht Stunden, und die Denkmäler, die Jaipur zu einer UNESCO-gelisteten Stadt machen.\n\n**Amer Fort**\n\nDer Hügelkomplex nördlich der Stadt, begonnen 1592 von Raja Man Singh und über 150 Jahre erweitert. Hinduistische und mogulische Architektur im selben Gebäude, Rajput-Innenhöfe und Chhatris mit persischen Gärten und Einlegearbeiten.\n\nDas **Ganesh Pol**-Tor, bemalt und vergoldet. Der **Sheesh Mahal**, mit Tausenden konvexer Spiegelfragmente besetzt, sodass eine einzige Flamme den Raum beleuchtete. Der **Sukh Niwas**, gekühlt durch Wasserkanäle, die durch die Marmorwände fließen. Und das **Zenana**, mit zwölf Wohnungen der Königinnen um einen Innenhof und Gängen so angeordnet, dass keine wüsste, welche besucht wurde.\n\n**Jal Mahal**\n\nEin Fotostopp am Damm über dem Man-Sagar-See. Vier seiner fünf Stockwerke stehen unter Wasser, und niemand geht hinein.\n\n**City Palace**\n\nNoch immer teilweise von der ehemaligen königlichen Familie bewohnt. Innenhöfe, die Waffenkammer, die Textilgalerien, und die beiden riesigen Silberurnen im Diwan-i-Khas, gegossen, damit ein Maharadscha Ganges-Wasser mit sich auf eine Reise nach England nehmen konnte.\n\n**Jantar Mantar**\n\nJai Singh II baute Städte und studierte die Sterne, und hier treffen sich diese beiden Dinge: neunzehn gemauerte Instrumente, UNESCO-gelistet, mit einer 27 Meter hohen Sonnenuhr, die noch die Ortszeit auf wenige Sekunden genau anzeigt. Ihr Guide kann Ihnen zeigen, wie.\n\n**Hawa Mahal**\n\nDie Fassade mit 953 Fenstern am Sireh Deori Bazaar, fünf Stockwerke, stellenweise kaum einen Meter tief, als Sichtschutz statt als Palast erbaut. Morgenlicht ist, wenn es richtig pink wird.\n\n**Praktisch**\n\nAcht Stunden mit Hotelabholung und Rückfahrt.\n\nEintrittsgebühren werden an jedem Ort bezahlt, etwa ₹1.500 pro ausländischem Erwachsenen für das vollständige Set. Früh starten; Amer um neun Uhr ist ein anderes Gebäude als Amer um Mittag.",
+  "highlights": [
+   "Privates klimatisiertes Auto & Guide für ein individuelles Erlebnis."
+  ],
+  "included": [
+   "Privates klimatisiertes Auto für den gesamten Tag (Limousine oder SUV).",
+   "Professioneller und lizenzierter englischsprachiger lokaler Guide.",
+   "Abholung & Rückfahrt zum Hotel in Jaipur.",
+   "Kraftstoff, Parken, Mautgebühren und alle staatlichen Steuern (GST).",
+   "Trinkwasser in Flaschen."
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren/Tickets für Denkmäler und Attraktionen.",
+   "Mahlzeiten und persönliche Ausgaben (z.B. Einkäufe, Trinkgeld).",
+   "Kameragebühren an Denkmälern (falls zutreffend).",
+   "Eintrittsgebühr für den optionalen Besuch des Affentempels."
+  ]
+ },
+ "jaipur-sariska-tiger-reserve-1-night-safari-transf": {
+  "title": "Jaipur: Sariska-Tigerreservat, Safari und Transfer mit einer Übernachtung",
+  "metaTitle": "Jaipur: Sariska, Safari und eine Übernachtung",
+  "metaDescription": "Eine Übernachtung von Jaipur zum Sariska-Tigerreservat mit einer privaten Jeep-Safari, Resort-Aufenthalt und Transfers.",
+  "shortDescription": "Eine Übernachtung von Jaipur zum Sariska-Tigerreservat mit einer privaten Jeep-Safari, Resort-Aufenthalt und Transfers.",
+  "fullDescription": "**Sariska, und warum es interessant ist**\n\nSariska verlor bis 2004 jeden einzelnen seiner Tiger durch Wilderei, die gesamte Population, durch Zensus bestätigt. Es wurde das erste Reservat der Welt, in dem Tiger per Flugzeug wieder angesiedelt wurden, ab 2008 von Ranthambore herübergeflogen. Die Population pflanzt sich jetzt von selbst fort.\n\nDiese Geschichte macht eine Safari hier zu einem anderen Erlebnis als in einem Park, der sich nie entleert hat. Sie betrachten ein Ökosystem, das zurückgebracht wurde.\n\n**Die Fahrt**\n\nEtwa drei Stunden von Jaipur durch das ländliche Rajasthan, Hirsefelder, Aravalli-Grate, und Dörfer, in denen die Straße die Hauptstraße ist.\n\n**Die Safari**\n\nEin privater Jeep innerhalb des Reservats, das 880 Quadratkilometer trockener Laubwald, felsiger Hügel und Grasland umfasst, mit Seen, die die Tierwelt konzentrieren, während die Trockenzeit fortschreitet.\n\nTiger sind die Hauptattraktion und nicht garantiert, Sariskas sind weniger und das Gelände ist bewaldeter als in Ranthambore, also sind Sichtungen schwerer zu erreichen. Was Sie verlässlich sehen werden, sind **Sambar**, **Chital**, **Nilgauantilope**, **Languren**, Wildschweine, und oft **Leoparden**-Spuren. Die Vogelwelt ist ausgezeichnet: Pfauen überall, Schlangenadler, Wüstenflughühner am Wasser.\n\nInnerhalb des Reservats liegen auch die Ruinen von **Kankwari Fort**, wo Aurangzeb angeblich seinen Bruder Dara Shikoh gefangen hielt, und die **Neelkanth-Tempel** aus dem 10. Jahrhundert.\n\n**Die Nacht**\n\nEin Dschungel-Resort nahe dem Tor, Abendessen, und ein ruhiger Abend. Dort über Nacht zu bleiben, macht eine zweite Safari bei Morgendämmerung möglich, wenn die Chancen auf einen Tiger am besten sind.\n\n**Praktisch**\n\nSafari-Zonen und Genehmigungen werden von der Forstbehörde vergeben; Sie wählen Ihre Zone nicht und wir auch nicht.\n\n**Sariska schließt vom 1. Juli bis 30. September** für den Monsun für Safaris. Oktober bis März ist die angenehme Saison; April bis Juni ist heiß und bietet die besten Sichtungen an den Wasserlöchern.\n\nMorgen im Dezember und Januar sind in einem offenen Jeep wirklich kalt. Bringen Sie eine Jacke mit, tragen Sie gedämpfte Farben, und verzichten Sie auf Parfüm.\n\nTransfers, die Resort-Nacht und die private Jeep-Safari sind inklusive.",
+  "highlights": [
+   "Erleben Sie den Nervenkitzel einer privaten Jeep-Safari durch das Sariska-Tigerreservat"
+  ],
+  "included": [
+   "Abholung & Rückfahrt zum Flughafen Jaipur",
+   "Privates klimatisiertes Fahrzeug mit Fahrer",
+   "1 Nacht in einem Dschungel-Resort (3 Sterne)",
+   "Eine private Jeep-Safari mit Wald-Naturforscher-Guide",
+   "Parkeintrittsgebühren und alle erforderlichen Genehmigungen"
+  ],
+  "notIncluded": [
+   "Nicht genannte Mahlzeiten (Mittag-/Abendessen)",
+   "Trinkgeld und persönliche Ausgaben"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
