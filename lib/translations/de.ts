@@ -12987,6 +12987,194 @@ export const DE_TOURS: Record<string, TourT> = {
    "Essen und Getränke"
   ]
  },
+ "okhla-bird-sanctuaryakshardham-temple-with-iskcon-": {
+  "title": "Okhla-Vogelschutzgebiet, Akshardham-Tempel mit ISKCON-Tempel, 2 Tage",
+  "metaTitle": "Okhla, Akshardham und ISKCON in 2 Tagen",
+  "metaDescription": "Zwei Tage rund um Delhis ruhigere Seite, das Okhla-Vogelschutzgebiet, der ISKCON-Tempel und Akshardham, mit Transfers.",
+  "shortDescription": "Zwei Tage rund um Delhis ruhigere Seite, das Okhla-Vogelschutzgebiet, der ISKCON-Tempel und Akshardham, mit Transfers.",
+  "fullDescription": "**Delhi für Menschen, die die Denkmäler schon erledigt haben**\n\nDies ist eine zweitägige Kombination aus Vögeln und Tempeln am östlichen Stadtrand, und sie eignet sich für einen zweiten oder dritten Delhi-Besuch statt für den ersten.\n\n**Das Okhla-Vogelschutzgebiet**\n\nVier Quadratkilometer Feuchtgebiet, wo die Yamuna nach Noida eintritt, und einer der besten Orte zur Vogelbeobachtung in der Hauptstadtregion, über dreihundert erfasste Arten, etwa die Hälfte davon Zugvögel.\n\nDer Winter ist die Saison. **Nimmersatt-Störche** nisten in lauten Kolonien, **weiße Ibisse**, **Fleckschnabelenten**, **Löffelenten**, **Streifengänse**, die den Himalaya überqueren, um hierher zu kommen, und in manchen Jahren **Rosaflamingos**. Der frühe Morgen ist die Stunde; gegen elf wird das Licht flach, und die Vögel haben sich niedergelassen.\n\nEs gibt einen Weg entlang des Wehrs und ein Boot, wenn Wasser und Saison es erlauben.\n\n**ISKCON Noida**\n\nDer Hare-Krishna-Tempel, mit einer Nachmittags-Aarti, Gesang, Trommeln und Kirtan, bei der Besucher willkommen sind, zuzusehen oder mitzumachen. Das Prasadam danach ist kostenlos und großzügig.\n\nEs ist eine moderne, laute, mitgestaltende Form der Verehrung, und sie bildet einen nützlichen Kontrast zur Stille der älteren Denkmäler Delhis.\n\n**Akshardham**\n\nAm zweiten Tag, der größte hinduistische Tempelkomplex seiner Art, 2005 fertiggestellt, aus rosa Sandstein aus Rajasthan und italienischem Carrara-Marmor, mit 234 geschnitzten Säulen, 148 Steinelefanten, und keinem Stahl oder Beton im Hauptbauwerk, errichtet nach traditionellen Shilpa-Methoden.\n\nDie abendliche **musikalische Fontänenshow** läuft auf dem Platz des Stufenbrunnens nach Einbruch der Dunkelheit, und die Bootsfahrt durch eine Nachbildung von zehntausend Jahren indischer Geschichte ist je nach Temperament entweder charmant oder seltsam.\n\n**Vor der Abreise lesen**: Telefone, Kameras, Taschen, Gürtel und alles Elektronische sind im Inneren verboten, ohne Ausnahme, mit Sicherheitskontrolle auf Flughafenniveau. Es gibt kostenlose Schließfächer am Tor. **Montags geschlossen.**\n\n**Praktisches**\n\nTransfers ab Delhi oder Noida inklusive. Der Winter ist für die Schutzgebiets-Hälfte deutlich die bessere Saison.",
+  "highlights": [
+   "Naturfotografie und friedliche Naturspaziergänge"
+  ],
+  "included": [
+   "Privates Fahrzeug für die gesamte Tour",
+   "Abholung und Rückbringung von Hotel/Noida/Delhi",
+   "Tägliches Frühstück und Abendessen im Hotel",
+   "Besichtigungen gemäß Reiseplan",
+   "Englisch-/Hindi-sprechender Führer",
+   "Alle Mautgebühren, Parken und Kraftstoffkosten",
+   "1 Flasche Mineralwasser pro Tag",
+   "Hilfe bei den Darshan-Zeiten in ISKCON und Akshardham",
+   "Alle anwendbaren Steuern"
+  ],
+  "notIncluded": [
+   "Jeglicher Flug- oder Zugpreis",
+   "Mittagessen und persönliche Ausgaben (Souvenirs, Snacks usw.)",
+   "Kameragebühren (falls zutreffend)",
+   "Bootsfahrt in Okhla (zusätzlich, saisonal)",
+   "Trinkgelder für den Führer oder Spenden in Tempeln",
+   "Alles, was nicht in den Leistungen genannt ist"
+  ]
+ },
+ "old-delhi-spiritual-sites-temples-private-6-hour-t": {
+  "title": "Spirituelle Stätten und Tempel Alt-Delhis: private 6-Stunden-Tour",
+  "metaTitle": "Alt-Delhi: Tempel und spirituelle Stätten",
+  "metaDescription": "Sechs Stunden durch die Moscheen, Tempel und Basare Alt-Delhis mit einer Tuk-Tuk-Fahrt durch Chandni Chowk.",
+  "shortDescription": "Sechs Stunden durch die Moscheen, Tempel und Basare Alt-Delhis mit einer Tuk-Tuk-Fahrt durch Chandni Chowk.",
+  "fullDescription": "**Die ummauerte Stadt, dort, wo Delhi tatsächlich ist**\n\nNeu-Delhi besteht aus Avenuen und Kreisverkehren. Alt-Delhi ist Shah Jahans Hauptstadt von 1648, stellenweise drei Meter breit, immer noch im Handel, und die sechs Stunden hier sind mehr wert als ein Tag voller Denkmäler.\n\n**Jama Masjid**\n\nIndiens prächtigste Moschee, 1656 fertiggestellt, roter Sandstein und weißer Marmor, mit einem Hof, der fünfundzwanzigtausend Menschen fasst, und Minaretten, die man für die beste Aussicht auf die Altstadt besteigen kann.\n\nSchultern und Knie bedeckt; Umhänge werden am Tor gegen eine kleine Gebühr verliehen, und Frauen sollten einen Schal mitnehmen. Sie schließt während der Gebetszeiten für Besucher, daher richtet sich der Tag danach.\n\n**Chandni Chowk mit dem Tuk-Tuk**\n\nDie einzig sinnvolle Art, diese Straße zu durchqueren. Shah Jahans Tochter Jahanara legte sie in den 1650er Jahren als Boulevard mit einem Kanal in der Mitte an, der das Mondlicht spiegelte, daher der Name. Der Kanal ist längst verschwunden; der Handel nicht.\n\nImmer noch handwerkszweigweise organisiert: **Dariba Kalan** für Silber, **Kinari Bazaar** für Hochzeitsbesatz und Zari, und **Khari Baoli**, der größte Gewürzmarkt Asiens, wo der getrocknete Chili einen husten lässt und die Händler das lustig finden.\n\n**Die Tempel und Schreine**\n\nWas diese Route ungewöhnlich macht, ist, wie viele Glaubensrichtungen auf wenigen hundert Metern liegen: der **Jain-Tempel** oben an Chandni Chowk mit seinem Vogelkrankenhaus, wo verletzte Stadtvögel kostenlos behandelt werden; **Gauri Shankar**, ein über 800 Jahre alter Shiva-Tempel; **Sis Ganj Sahib**, der Gurudwara, errichtet dort, wo der neunte Sikh-Guru 1675 von Aurangzeb hingerichtet wurde; und die **Central Baptist Church** von 1814 ein paar Türen weiter.\n\nVier Religionen auf einer Straße, das ist die eigentliche Geschichte dieser Stadt.\n\n**Raj Ghat**\n\nDie schwarze Marmorplattform, auf der Gandhi 1948 eingeäschert wurde, mit einer Flamme, die seither brennt.\n\n**Praktisches**\n\nSechs Stunden, privat, mit viel Gehen auf unebenen Gassen. Flache Schuhe, bescheidene Kleidung, und ein Schal.\n\nDas Rote Fort ist montags geschlossen; Ihr Führer ordnet den Tag entsprechend um.",
+  "highlights": [
+   "Spüren Sie die Gelassenheit des Akshardham-Tempels und seiner friedlichen Gärten"
+  ],
+  "included": [
+   "Abholung und Rückbringung an Ihrem bevorzugten Ort",
+   "Transport im privaten klimatisierten Fahrzeug mit uniformiertem Fahrer",
+   "Dienste eines privaten, professionellen Führers",
+   "Alle Parkgebühren, Mautgebühren, Kraftstoffkosten und anwendbaren Steuern",
+   "Eintrittsgebühren zu den Denkmälern",
+   "Traditionelle Rikscha-Fahrt durch Alt-Delhi"
+  ],
+  "notIncluded": [
+   "Trinkgelder (optional)",
+   "Mahlzeiten und Getränke",
+   "Jeder zusätzliche Service, der nicht in den Leistungen genannt ist"
+  ]
+ },
+ "private-golden-triangle-tour-delhi-agra-and-jaipur": {
+  "title": "Privates Golden-Triangle-Tour: Delhi, Agra und Jaipur, 7T/6N",
+  "metaTitle": "Privates Golden Triangle 7 Tage",
+  "metaDescription": "Sieben private Tage zwischen Delhi, Agra und Jaipur mit professionellen Führern und Hoteloptionen.",
+  "shortDescription": "Sieben private Tage zwischen Delhi, Agra und Jaipur mit professionellen Führern und Hoteloptionen.",
+  "fullDescription": "**Sieben Tage für drei Städte, großzügig und lohnend**\n\nDie meisten Menschen machen diese Route in vier Tagen. Sieben bedeuten zwei Tage in jeder Stadt und einen zusätzlichen, was ändert, was möglich ist, statt nur das Tempo.\n\n**Delhi**\n\nZwei Tage statt eines Vormittags. **Qutub Minar** und die rostfreie **eiserne Säule**. **Humayuns Grab**, das Gartengrab aus den 1560er Jahren, von dem der Taj abstammt, und das am besten restaurierte Denkmal Indiens nach einem Jahrzehnt Arbeit des Aga Khan Trust.\n\nDie **Jama Masjid** und **Chandni Chowk** mit der Fahrradrikscha, immer noch handwerkszweigweise organisiert, Silber in Dariba Kalan, Gewürze in **Khari Baoli**, dem größten Gewürzmarkt Asiens.\n\nUnd mit einem zweiten Tag: **Agrasen ki Baoli**, der Stufenbrunnen hinter Connaught Place; die Gräber im **Lodhi-Garten**; und **Nizamuddin**, wo seit siebenhundert Jahren donnerstagabends Qawwali gesungen wird.\n\n**Agra**\n\nDer **Taj Mahal** bei Sonnenaufgang und erneut am späten Nachmittag, wirklich unterschiedliche Bauwerke. Das **Agra Fort** mit dem **Musamman Burj**. Und die zwei Stätten, die kurze Reisen auslassen: der **Baby Taj**, das Marmorgrab aus den 1620er Jahren, das Pietra Dura nach Indien brachte, und **Mehtab Bagh** auf der anderen Flussseite für den Spiegelblick bei Sonnenuntergang.\n\n**Fatehpur Sikri** auf dem Weg nach Westen.\n\n**Jaipur**\n\nDas **Amber Fort**, **Jaigarh** darüber mit der größten je gegossenen fahrbaren Kanone, **Nahargarh** bei Sonnenuntergang, der **City Palace**, das **Jantar Mantar** und der **Hawa Mahal**, plus die Basare und die Handwerkswerkstätten, wo sich zwei Tage in Jaipur vollständig lohnen.\n\n**Drei Optionen**\n\nAuto, Fahrer und professionelle Führer; oder mit Hotels in zwei Kategorien.\n\n**Praktisches**\n\n**Der Taj ist freitags geschlossen** und das **Rote Fort montags**; der Reiseplan ist um beide herum organisiert.\n\nEintrittsgebühren sind separat, sofern nicht anders angegeben.",
+  "highlights": [
+   "Erkunden Sie Indiens ikonisches Golden Triangle mit Delhi, Agra und Jaipur"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel oder Flughafen",
+   "Privates klimatisiertes Auto mit Fahrer für die gesamte Tour",
+   "Professioneller Reiseführer in jeder Stadt",
+   "6 Nächte Hotelunterkunft (falls Option gewählt)",
+   "Frühstück im Hotel",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parkkosten"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen",
+   "Eintrittskarten zu den Denkmälern",
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "private-golden-triangle-tour-with-jodhpur-jaisalme": {
+  "title": "Privates Golden-Triangle-Tour mit Jodhpur und Jaisalmer, 8T/7N",
+  "metaTitle": "Privates Golden Triangle mit Jodhpur und Jaisalmer",
+  "metaDescription": "Acht Tage ab Delhi über Agra und Jaipur nach Jodhpur und Jaisalmer, endend in der Thar-Wüste.",
+  "shortDescription": "Acht Tage ab Delhi über Agra und Jaipur nach Jodhpur und Jaisalmer, endend in der Thar-Wüste.",
+  "fullDescription": "**Das Golden Triangle, dann nach Westen, bis die Straße endet**\n\nJaisalmer liegt 560 km hinter Jaipur, fast an der pakistanischen Grenze, und das ist der Grund, acht Tage statt fünf zu nehmen. Kürzere Reisepläne lassen es immer aus, und es ist der Ort, an den sich die Menschen am längsten erinnern.\n\n**Tag 1: Delhi**\n\nEmpfang am Flughafen oder Bahnhof. **India Gate**, das Haus des Präsidenten von der Straße aus, der **Lotustempel**, falls Zeit bleibt, und die Märkte am Abend.\n\n**Tage 2-3: Agra**\n\nDer **Taj Mahal**, am besten bei Sonnenaufgang, und das **Agra Fort** mit dem **Musamman Burj**, wo Shah Jahan seine letzten acht Jahre als Gefangener Aurangzebs verbrachte und zum Grab seiner Frau am Fluss blickte. **Fatehpur Sikri** auf der Fahrt nach Westen.\n\n**Tag 4: Jaipur**\n\nDas **Amber Fort** über dem Maota-See, der **City Palace**, das **Jantar Mantar** und der **Hawa Mahal**.\n\n**Tage 5-6: Jodhpur**\n\n**Mehrangarh** ist das Fort, das die Meinung der Menschen über indische Forts ändert, 120 Meter direkt aus dem Felsen, nie eingenommen, mit dem best geführten Museum Rajasthans im Inneren. Die Kanonenball-Narben am zweiten Tor stammen von einer Belagerung durch Jaipur.\n\nDarunter **Jaswant Thada** aus Marmor, dünn genug, dass Sonnenlicht durchscheint, und die blauen Gassen rund um den Uhrturm. Das Blau war eine Kalk-Kupfer-Tünche, die Termiten abhielt.\n\n**Tage 7-8: Jaisalmer**\n\n**Sonar Quila**, das goldene Fort von 1156, ist eines der letzten noch lebenden Forts der Erde, etwa dreitausend Menschen leben noch immer innerhalb seiner Mauern, in Häusern, die ihre Familien seit Generationen halten. Der gelbe Sandstein wird bei Sonnenuntergang honigfarben.\n\nDie **Jain-Tempel** im Inneren sind bis zur Filigranhaftigkeit geschnitzt. **Patwon ki Haveli** besteht aus fünf Kaufmannshäusern, die in den 1800er Jahren Seite an Seite erbaut wurden. Der **Gadisar-See**, ein Reservoir aus dem 14. Jahrhundert, ist am besten bei Morgendämmerung.\n\nDann die **Sam-Dünen** für eine Kamelfahrt bei Sonnenuntergang und eine Nacht in einem Wüstencamp.\n\n**Drei Optionen**\n\nAuto, Fahrer und Führer; oder mit Drei- oder Vier-Sterne-Hotels.\n\n**Praktisches**\n\nOktober bis März. April bis Juni übersteigt die Thar 45 °C; Dezember- und Januarnächte in der Wüste nähern sich dem Gefrierpunkt.",
+  "highlights": [
+   "Erkunden Sie Delhi, das Rote Fort, die Jama Masjid, Raj Ghat, India Gate, Qutub Minar"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel oder Flughafen",
+   "Privates klimatisiertes Auto mit Fahrer für die gesamte Tour",
+   "Professioneller Reiseführer in jeder Stadt",
+   "7 Nächte Hotelunterkunft (falls Option gewählt)",
+   "Frühstück im Hotel",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parkkosten"
+  ],
+  "notIncluded": [
+   "Eintrittskarten zu den Denkmälern",
+   "Mittag- und Abendessen",
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "qutub-minar-express-entry-tour-with-hotel-pick-up": {
+  "title": "Qutub-Minar-Tour mit Express-Eintritt, Abholung und Rückbringung zum Hotel",
+  "metaTitle": "Qutub Minar: Express-Eintritt",
+  "metaDescription": "Qutub Minar mit Vorrangeintritt und einem Führer, mit Hotelabholung. Etwa zweieinhalb Stunden.",
+  "shortDescription": "Qutub Minar mit Vorrangeintritt und einem Führer, mit Hotelabholung. Etwa zweieinhalb Stunden.",
+  "fullDescription": "**Ein Denkmal, richtig erklärt**\n\nQutub Minar sind bei einer Stadtrundfahrt meist zwanzig Minuten. Es verdient zwei Stunden, denn der Komplex rund um den Turm ist dort, wo islamische Architektur in Indien tatsächlich beginnt, und weil das interessanteste Objekt darin nicht das Minarett ist.\n\n**Der Turm**\n\n1193 von Qutb-ud-din Aibak, dem ersten Sultan von Delhi, begonnen und von seinen Nachfolgern vollendet: 73 Meter geripptes rotes Sandstein und Marmor in fünf sich verjüngenden Stockwerken, jedes mit einem Balkon, jedes in einem leicht anderen Stil, da jedes von einem anderen Herrscher erbaut wurde.\n\nEs ist das höchste Backsteinminarett der Welt. Die koranischen Inschriftenbänder, die daran hochlaufen, sind tief genug geschnitten, um vom Boden aus lesbar zu sein.\n\nDie Innentreppe ist seit 1981 nach einer Massenpanik geschlossen. Niemand geht hinauf.\n\n**Quwwat-ul-Islam-Moschee**\n\nDer Komplex rund um den Turm, und der Teil, bei dem ein Führer sein Geld wert ist. Es war die erste in Delhi erbaute Moschee, und sie wurde aus dem Stein siebenundzwanzig abgerissener Hindu- und Jain-Tempel zusammengesetzt, was nicht verborgen wird. Man kann die ursprüngliche Schnitzerei an den Säulen sehen, mit abgemeißelten figürlichen Gesichtern.\n\nDas macht es zu einem unbequemen und völlig faszinierenden Gebäude: ein gänzlich islamischer Grundriss, erbaut aus gänzlich hinduistischen Teilen von Handwerkern, die nur eine Art zu schnitzen kannten.\n\n**Die eiserne Säule**\n\nSieben Meter Schmiedeeisen, das im Hof steht, im 4. Jahrhundert unter den Gupta-Kaisern gefertigt. Sie steht seit über sechzehnhundert Jahren im Freien und ist kaum gerostet, wegen eines phosphorreichen Films, der sich auf ihrer Oberfläche bildete. Metallurgen veröffentlichen noch immer Arbeiten darüber.\n\n**Alai Darwaza und Alai Minar**\n\nDas Tor von 1311 mit seinen Hufeisenbögen, und der Stumpf eines zweiten Turms, den Alauddin Khalji begann und doppelt so hoch bauen wollte. Er starb; er steht bei 25 Metern.\n\n**Vier Optionen**\n\nNur Führer; Führer mit Eintrittskarte; Auto, Fahrer und Führer; oder alles davon.\n\n**Praktisches**\n\nEtwa zweieinhalb Stunden. Der Eintritt kostet 600 ₹ für ausländische Staatsangehörige.",
+  "highlights": [
+   "Private geführte Besichtigung von Qutub Minar, einer UNESCO-Weltkulturerbestätte"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel oder Flughafen",
+   "Privates klimatisiertes Auto mit Fahrer für den Transfer",
+   "Staatlich zugelassener Experten-Reiseführer",
+   "Eintrittskarten für Qutub Minar (falls Option gewählt)",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parkkosten"
+  ],
+  "notIncluded": [
+   "Jegliches Essen",
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "red-fort-iconic-mini-tour": {
+  "title": "Vorrangtour durch Delhis ikonisches Rotes Fort (3 Stunden)",
+  "metaTitle": "Rotes Fort: Vorrangtour, 3 Stunden",
+  "metaDescription": "Drei Stunden im Roten Fort mit Vorrangeinlass und einem englischsprachigen Führer.",
+  "shortDescription": "Drei Stunden im Roten Fort mit Vorrangeinlass und einem englischsprachigen Führer.",
+  "fullDescription": "**Shah Jahans zweite Hauptstadt**\n\nEr hatte bereits den Taj Mahal erbaut, als er entschied, dass Agra fertig war, und verlegte das Reich nach Delhi. Das **Rote Fort**, Lal Qila, entstand von 1638 bis 1648 als Palastfestung einer brandneuen Stadt, Shahjahanabad, mit zwei Kilometern roter Sandsteinmauer auf dem, was damals das Ufer der Yamuna war.\n\nDrei Stunden mit einem Führer sind die richtige Länge. Vorrangeinlass zählt hier: Die Ticketschlange am Lahori-Tor an einem Sonntag kann eine halbe Stunde dauern.\n\n**Im Inneren**\n\n**Chatta Chowk**, der überdachte Bazar innerhalb des Tors, der einst Seide, Brokat und Edelsteine an den kaiserlichen Haushalt verkaufte und heute Souvenirs verkauft, aber die überwölbte Arkade ist original.\n\n**Naubat Khana**, das Trommelhaus, wo Musiker Ankünfte ankündigten und wo jeder außer dem engsten Kreis des Kaisers absteigen musste.\n\n**Diwan-i-Am**, die Halle der öffentlichen Audienz, wo Shah Jahan täglich Petitionen von einer Marmornische mit Pietra-Dura-Einlegearbeit aus anhörte, die Platten hinter dem Thron wurden 1857 geplündert und 1903 teilweise vom Victoria and Albert Museum zurückgegeben.\n\n**Diwan-i-Khas**, die Halle der privaten Audienz, die den **Pfauenthron** beherbergte, bis Nadir Shah ihn 1739 nach Persien brachte. Die persische Inschrift an seiner Wand besagt noch immer, wenn es ein Paradies auf Erden gibt, ist es dieses.\n\n**Rang Mahal**, **Khas Mahal** und das **Hammam**, und die Marmor-**Moti Masjid**, die Aurangzeb hinzufügte.\n\n**1857 und danach**\n\nDer letzte Kaiser, Bahadur Shah Zafar, wurde 1858 von den Briten in seinem eigenen Diwan-i-Khas verurteilt und nach Rangun verbannt. Ein Großteil des Inneren des Forts wurde danach für Baracken abgerissen, weshalb sich die Innenhöfe leerer anfühlen, als sie sollten.\n\nSeit 1947 hisst der Premierminister jeden 15. August die Flagge über dem Lahori-Tor.\n\n**Zwei Optionen**\n\nNur Führer, oder privates Auto, Fahrer, Führer und Eintrittskarte.\n\n**Praktisches**\n\n**Montags geschlossen.** Der Eintritt kostet 600 ₹ für ausländische Staatsangehörige.",
+  "highlights": [
+   "Genießen Sie den vorrangigen Einlass zum prächtigen Roten Fort"
+  ],
+  "included": [
+   "Abholung und Rückbringung (falls Option gewählt)",
+   "Eintrittskarten (falls Option gewählt)",
+   "Wasserflaschen",
+   "Führer"
+  ],
+  "notIncluded": [
+   "Trinkgeld für den Führer (optional, aber geschätzt)",
+   "Eintritt zu besonderen Ausstellungen oder Veranstaltungen innerhalb des Forts",
+   "Persönliche Ausgaben und Souvenirs"
+  ]
+ },
+ "shimla-hill-tour-from-delhi-3-days-2-nights": {
+  "title": "Shimla-Bergtour ab Delhi, 3 Tage / 2 Nächte",
+  "metaTitle": "Shimla in 3 Tagen ab Delhi",
+  "metaDescription": "Drei Tage ab Delhi nach Shimla mit Kufri, Mall Road und lokalen Besichtigungen, mit Hotelkategorien.",
+  "shortDescription": "Drei Tage ab Delhi nach Shimla mit Kufri, Mall Road und lokalen Besichtigungen, mit Hotelkategorien.",
+  "fullDescription": "**Die Sommerhauptstadt des britischen Indiens**\n\nAb 1864 verlegte sich jedes Jahr die gesamte Regierung Indiens hierher, Akten, Vizekönig, Armeehauptquartier und alles, weil Delhi im Juni unerträglich war. Was sie hinterließen, ist eine Stadt auf 2.200 Metern, die wie nirgendwo sonst im Land aussieht.\n\n**Tag 1: die Fahrt**\n\nSieben bis acht Stunden von Delhi über Chandigarh, mit den letzten beiden auf Serpentinen von Kalka hinauf.\n\nFalls Ihre Daten es erlauben, lohnt es sich, stattdessen die **Kalka-Shimla-Spielzeugbahn** zu erwägen, eine UNESCO-gelistete Schmalspurstrecke mit 103 Tunneln und 864 Brücken, die fünf Stunden braucht, um 96 km zu bewältigen.\n\n**Shimla**\n\n**The Ridge** und die **Mall Road** sind reine Fußgängerzonen und mit Kolonialbauten gesäumt. Die **Christ Church**, die zweitälteste Nordindiens, steht oben mit ihren Buntglasfenstern.\n\nDie **Viceregal Lodge**, heute ein Institut für höhere Studien, ist der Ort, an dem 1947 die Entscheidung zur Teilung Indiens getroffen wurde, die teakverkleideten Räume und der Tisch, an dem es geschah, sind für Besucher geöffnet, und es ist der folgenreichste Raum der Stadt.\n\nDer **Jakhoo-Tempel** am höchsten Punkt, unter einer 33 Meter hohen Hanuman-Statue, über einen steilen Weg durch Zedernwald. Die Affen nehmen Brillen; lassen Sie diese im Auto.\n\n**Tag 2: Kufri und Umgebung**\n\n**Kufri**, sechzehn Kilometer entfernt auf 2.700 Metern, für den Schneeblick im Winter und den Himalaya-Naturpark.\n\n**Chail**, falls die Straße offen ist, der höchste Cricket-Platz der Welt, flach auf einem 2.444 Meter hohen Hügel von einem Maharadscha angelegt, der aus Shimla verbannt worden war.\n\n**Tag 3: zurück nach Delhi**\n\n**Drei Optionen**\n\nDrei Tage und zwei Nächte in drei Preiskategorien, mit privatem Transport und Hotels.\n\n**Praktisches**\n\nShimla ist von November bis März kalt und kann im Januar Schnee haben. Bringen Sie Kleidungsschichten mit, unabhängig vom Wetter in den Ebenen.\n\nDie Straßen sind Serpentinen, nehmen Sie etwas gegen Reisekrankheit, falls Sie dazu neigen.",
+  "highlights": [
+   "Malerische Fahrt von Delhi nach Shimla durch wunderschöne Hügel"
+  ],
+  "included": [
+   "Professioneller Reiseführer",
+   "Privates klimatisiertes Auto für die gesamte Aktivität",
+   "Mineralwasserflasche",
+   "Unterkunft im Drei-Sterne-Hotel",
+   "Unterkunft im Vier-Sterne-Hotel",
+   "Frühstück im Hotel",
+   "Alle Mautgebühren und Parkkosten"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben",
+   "Mittag- und Abendessen"
+  ]
+ },
+ "top-selling-rishikesh-day-trip-from-delhi": {
+  "title": "Meistverkaufter Rishikesh-Tagesausflug ab Delhi",
+  "metaTitle": "Rishikesh an einem Tag ab Delhi",
+  "metaDescription": "Rishikesh an einem Tag ab Delhi, Laxman Jhula, Ram Jhula, Parmarth Niketan und der Ganges. Sechzehn Stunden.",
+  "shortDescription": "Rishikesh an einem Tag ab Delhi, Laxman Jhula, Ram Jhula, Parmarth Niketan und der Ganges. Sechzehn Stunden.",
+  "fullDescription": "**Sechzehn Stunden, und zehn davon sind die Straße**\n\nDas ist die ehrliche Rechnung: Rishikesh liegt 240 km von Delhi entfernt, und die letzte Strecke ist langsam. Was man im Gegenzug erhält, ist der Ganges dort, wo er aus dem Himalaya kommt, klar, kalt und grün, was nichts mit dem Fluss in Varanasi oder Haridwar zu tun hat.\n\nBuchen Sie es im Wissen, dass die Fahrt den halben Tag ausmacht.\n\n**Laxman Jhula und Ram Jhula**\n\nZwei Hängebrücken über den Fluss, ein paar Kilometer voneinander entfernt, und der Schwerpunkt der ganzen Stadt.\n\nMan überquert sie zu Fuß mit Pilgern, Motorrädern, Kühen und Affen. Tempel stapeln sich am Ostufer in Stufen, und der Blick zurück über das Wasser von der Brückenmitte ist das Foto, das alle machen.\n\nTragen Sie kein Essen in der Hand in der Nähe der Affen, und nehmen Sie die Sonnenbrille vom Kopf, sie sind organisiert und schnell.\n\n**Parmarth Niketan und Gita Bhawan**\n\nDer größte Ashram in Rishikesh, über tausend Zimmer, mit dem Ghat, an dem jeden Abend bei Sonnenuntergang die **Ganga Aarti** dargeboten wird, Lampen, Gesang, und der Fluss trägt die Flamme flussabwärts. Falls Ihr Tag lange genug dauert, um sie einzuschließen, bleiben Sie dafür; es ist das Beste in der Stadt.\n\n**Gita Bhawan** nebenan verkauft ayurvedische Präparate und Bücher zu festen, ehrlichen Preisen, was nach dem Basar eine Erleichterung ist.\n\n**Die Stadt**\n\nRishikesh ist seit Jahrhunderten ein Ort der Meditation und seit die Beatles 1968 zum Ashram von Maharishi Mahesh Yogi kamen, ein Ort der Yoga-Schulen. Dieser Ashram ist heute verlassen, mit Wandmalereien bedeckt, und gegen eine kleine Gebühr zum Durchgehen offen.\n\n**Vor der Abreise wissen**\n\nRishikesh ist innerhalb der Stadtgrenzen **vollständig vegetarisch und alkoholfrei**. Dies wird durchgesetzt, und es gibt keinen Weg daran vorbei.\n\nSchuhe werden an jedem Tempel und Ashram ausgezogen. Bescheidene Kleidung, Schultern und Knie bedeckt, zählt hier mehr als in Delhi.\n\n**Inklusive**\n\nPrivater Wagen mit Fahrer für den ganzen Tag. Mahlzeiten, Spenden und jegliches Rafting sind separat.",
+  "highlights": [
+   "Spüren Sie die spirituelle Energie Rishikeshs, während Sie seine ikonischen Stätten erkunden"
+  ],
+  "included": [
+   "Besuch von Laxman Jhula und Ram Jhula",
+   "Besuch des Parmarth-Niketan-Ashrams",
+   "Besuch von Gita Bhawan",
+   "Spaziergang entlang der Ganga-Ghats",
+   "Ganga Aarti am Triveni Ghat"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Flussrafting-Gebühren",
+   "Persönliche Ausgaben"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
