@@ -17590,6 +17590,92 @@ export const ES_TOURS: Record<string, TourT> = {
    "Recogida y regreso al hotel"
   ]
  },
+ "jaipur-inclusive-guided-tour": {
+  "title": "Desde Delhi: Tour de Jaipur todo incluido con almuerzo y traslados (desde $67,72)",
+  "metaTitle": "Desde Delhi: Jaipur todo incluido con almuerzo",
+  "metaDescription": "Un día todo incluido en Jaipur desde Delhi, coche privado, guía, almuerzo rajastaní y traslados de hotel en ambos extremos.",
+  "shortDescription": "Un día todo incluido en Jaipur desde Delhi, coche privado, guía, almuerzo rajastaní y traslados de hotel en ambos extremos.",
+  "fullDescription": "**Puerta a puerta desde Delhi, con el almuerzo incluido**\n\nRecogida en tu hotel en Delhi y regreso al mismo. Coche privado todo el trayecto, un guía con licencia en Jaipur, y un auténtico almuerzo rajastaní sentado en lugar de un tentempié en el coche a las dos de la tarde.\n\n**El trayecto**\n\nDe Nueva Delhi a Jaipur hay 270 km por la NH-48, cuatro a cuatro horas y media con una pausa. Salida temprana, porque la carretera se vacía antes de las siete y se llena después de las ocho.\n\n**Fuerte Amber**\n\nTu guía te recibe aquí. El complejo fue iniciado en 1592 por Raja Man Singh, general de Akbar, en la cresta sobre el lago Maota, un diseño hindú y rajput construido con dinero y artesanos mogoles.\n\nLa puerta **Ganesh Pol** es yeso pintado sobre piedra y es la foto que todos hacen. Detrás, el **Sheesh Mahal**, donde fragmentos de espejo convexo se colocaron por todo el techo para que una sola vela se leyera como un cielo lleno de estrellas.\n\n**Jal Mahal**\n\nUna parada fotográfica en la calzada. Cuatro de sus cinco plantas están bajo el lago Man Sagar y no hay forma de entrar, ni barco ni billete, sea lo que te ofrezcan al borde de la carretera.\n\n**Almuerzo**\n\nRajastaní, en un restaurante, sentado. **Dal baati churma** si quieres el plato estatal; **lal maas** si comes carne y aguantas el picante.\n\n**City Palace, Jantar Mantar, Hawa Mahal**\n\nEl grupo de la ciudad vieja por la tarde. El palacio sigue siendo en parte residencia real; el reloj de sol de piedra de 27 metros del observatorio todavía marca el tiempo con una precisión de dos segundos; y las 953 ventanas del Hawa Mahal eran una pantalla para que las mujeres de la corte pudieran observar la calle sin ser vistas.\n\n**Tres opciones**\n\nSolo guía en Jaipur; guía con coche con aire acondicionado; o la versión todo incluido con almuerzo y traslados.\n\n**Práctico**\n\nUn día largo, planifica catorce horas puerta a puerta. Indícanos tus necesidades vegetarianas, jainistas o sin picante al reservar; las tres son habituales aquí.",
+  "highlights": [
+   "Visita el City Palace, una mezcla de estilos mogol, rajput y europeo"
+  ],
+  "included": [
+   "Guía turístico profesional",
+   "Coche privado con aire acondicionado",
+   "Botella de agua mineral",
+   "Almuerzo de 5 estrellas",
+   "Entrada a monumentos (si se selecciona la opción)",
+   "Peajes y tasas de aparcamiento"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal",
+   "Propina"
+  ]
+ },
+ "jaipur-indian-ancient-meditation-and-yoga-center": {
+  "title": "Jaipur: Centro indio ancestral de meditación y yoga",
+  "metaTitle": "Jaipur: centro de meditación y yoga",
+  "metaDescription": "Un día en un centro de meditación y yoga en Jaipur, práctica guiada, respiración e instrucción tradicional.",
+  "shortDescription": "Un día en un centro de meditación y yoga en Jaipur, práctica guiada, respiración e instrucción tradicional.",
+  "fullDescription": "**Un día de práctica más que una clase**\n\nEsto es un día completo en un centro de meditación y yoga en Jaipur, con instrucción en las formas tradicionales en lugar de un entrenamiento de estudio. Conviene a viajeros que quieren una introducción real a la práctica en el país del que proviene, y a personas a mitad de un itinerario exigente por la India que necesitan un día que no sea un fuerte.\n\n**Lo que cubre el día**\n\n**Asana**, las posturas, enseñadas a ritmo de principiante con atención a la alineación más que a la dificultad. No se espera nada acrobático y nadie te pedirá hacer el pino.\n\n**Pranayama**, control de la respiración, la parte que la mayoría del yoga occidental omite y que la tradición considera más importante que las posturas. Espera **anulom vilom** (respiración alterna por las fosas nasales), **kapalbhati**, y **bhramari**, cada una con una explicación de para qué sirve.\n\n**Meditación**, guiada, normalmente empezando con la conciencia de la respiración y pasando a un mantra o a enfocarse en una vela. Veinte minutos es más largo de lo que suena la primera vez.\n\nY la **filosofía**, brevemente: de dónde vienen los ocho miembros del sistema de Patanjali, por qué asana es solo el tercero de ellos, y para qué era originalmente la práctica, que no era la flexibilidad.\n\n**Para quién funciona**\n\nPrincipiantes completos, y practicantes experimentados que quieren ver la tradición enseñada desde dentro en lugar de adaptada.\n\nCuéntale al instructor sobre lesiones, embarazo, presión arterial alta o cirugía reciente antes de empezar, varias prácticas de pranayama están contraindicadas y un buen profesor sustituirá.\n\n**Práctico**\n\nLleva algo con lo que puedas moverte y sentarte con las piernas cruzadas. Las esterillas se proporcionan.\n\nCome ligero antes, la mayor parte se hace con el estómago vacío o casi vacío, lo cual es tradicional y también práctico.\n\nLleva agua. Jaipur hace calor fuera de la sala de práctica durante la mayor parte del año.",
+  "highlights": [
+   "Experimenta un ambiente pacífico y sereno en el corazón de Jaipur"
+  ],
+  "included": [
+   "Sesiones de meditación guiada",
+   "Ejercicios de respiración",
+   "Prácticas de movimiento consciente",
+   "Talleres y eventos para el crecimiento personal"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "Transporte hacia y desde el centro"
+  ]
+ },
+ "jaipur-jhalana-leopard-safari-tour-with-hotel-pick": {
+  "title": "Jaipur: Tour de safari de leopardos en Jhalana con recogida y regreso al hotel",
+  "metaTitle": "Jaipur: safari de leopardos en Jhalana con hotel",
+  "metaDescription": "Un safari de leopardos en 4x4 en Jhalana dentro de Jaipur con recogida en el hotel. Unas cinco horas.",
+  "shortDescription": "Un safari de leopardos en 4x4 en Jhalana dentro de Jaipur con recogida en el hotel. Unas cinco horas.",
+  "fullDescription": "**Leopardos a veinte minutos del City Palace**\n\n**Jhalana** es un bosque seco de 23 kilómetros cuadrados dentro de los límites de la ciudad de Jaipur, y alberga una de las poblaciones de leopardos más densas de toda la India, alrededor de treinta a cuarenta animales en esa pequeña área.\n\nEra una reserva de caza real, luego matorral abandonado, y se abrió como reserva de leopardos en 2017. El hecho de que grandes felinos vivan junto a una ciudad de cuatro millones de personas, cazando nilgós y pavos reales en el mismo matorral, es genuinamente inusual.\n\n**El safari**\n\nUn 4x4 abierto por senderos forestales con un naturalista y un guía del departamento forestal. Dos turnos al día, mañana y tarde.\n\nLos avistamientos rondan el 60 al 70 por ciento en los buenos meses, lo cual es alto para un leopardo salvaje en cualquier lugar del mundo. Los animales no son cebados ni alimentados, la densidad simplemente es tan alta y están habituados a los vehículos.\n\n**Qué más hay allí**\n\n**Hiena rayada**, **chacal**, **zorro del desierto**, **nilgó**, **chital**, liebre india, puercoespín y mangosta.\n\nLa observación de aves es fuerte: pitta india durante el monzón, moscaretas paraíso, varias especies de lechuzas, y rapaces sobre la cresta.\n\nTambién hay las ruinas de un pozo escalonado y un pequeño templo dentro del bosque, y la cresta Aravalli te ofrece el perfil de Jaipur desde un ángulo al que ningún autocar turístico llega.\n\n**Práctico**\n\nUnas cinco horas incluyendo la recogida en el hotel y el trayecto de entrada.\n\n**Los turnos de la mañana ven más.** De octubre a junio es la temporada; el monzón cierra los senderos.\n\nLleva colores apagados, evita el perfume, y habla en voz baja, el bosque es pequeño y el sonido se propaga mucho más de lo que esperas.\n\nLos permisos son limitados por turno y se liberan con antelación, así que reserva pronto.\n\nLleva un teleobjetivo si tienes uno. Un teléfono no le hará justicia a un leopardo a cuarenta metros, que es la distancia habitual.",
+  "highlights": [
+   "Un coche privado con aire acondicionado vendrá a recogerte y a devolverte."
+  ],
+  "included": [
+   "Conductor/guía",
+   "Recogida y regreso al hotel",
+   "Safari en jeep y todoterreno",
+   "Entrada/admisión - safari de leopardos de Jhalana",
+   "Safari privado en gypsy 4x4 (si se elige la opción)",
+   "Agua embotellada",
+   "Transporte privado con aire acondicionado hacia y desde el parque"
+  ],
+  "notIncluded": [
+   "Comida y bebidas.",
+   "Cualquier gasto personal"
+  ]
+ },
+ "jaipur-jhalanaamagarh-leopard-safari-private-tour": {
+  "title": "Jaipur: Tour privado de safari de leopardos en Jhalana/Amagarh",
+  "metaTitle": "Jaipur: safari privado leopardos Jhalana/Amagarh",
+  "metaDescription": "Un safari de leopardos privado en 4x4 en Jhalana o Amagarh dentro de Jaipur, con traslados. Unas cinco horas.",
+  "shortDescription": "Un safari de leopardos privado en 4x4 en Jhalana o Amagarh dentro de Jaipur, con traslados. Unas cinco horas.",
+  "fullDescription": "**Leopardos dentro de los límites de la ciudad**\n\n**Jhalana** es un bosque seco de 23 kilómetros cuadrados dentro de Jaipur, y alberga una de las poblaciones de leopardos más densas de toda la India, alrededor de treinta a cuarenta animales en esa pequeña área. **Amagarh**, al otro lado de la ciudad, abrió más recientemente.\n\nEso es genuinamente inusual. Los grandes felinos normalmente necesitan espacio y evitan a las personas; estos viven junto a cuatro millones de ellas, cazando nilgós y pavos reales que viven en el mismo matorral.\n\n**El safari**\n\nUn 4x4 abierto por senderos forestales con un naturalista y un guía del departamento forestal. **Privado**, que es lo importante aquí: un jeep compartido significa las cámaras y el ruido de otras cinco personas, y en una reserva tan pequeña eso es la diferencia entre un avistamiento y un crujido.\n\nLos avistamientos rondan el 60 al 70 por ciento en los buenos meses, lo cual es alto para un leopardo salvaje en cualquier lugar del mundo. Los animales no son cebados ni alimentados, la densidad simplemente es tan alta y están habituados a los vehículos.\n\n**Qué más hay allí**\n\n**Hiena rayada**, **chacal**, **zorro del desierto**, **nilgó**, **chital**, liebre india, puercoespín y mangosta.\n\nLa observación de aves es fuerte: pitta india durante el monzón, moscaretas paraíso, varias especies de lechuzas, y rapaces sobre la cresta.\n\nTambién hay las ruinas de un pozo escalonado y un pequeño templo dentro del bosque, y la cresta Aravalli te ofrece el perfil de Jaipur desde un ángulo al que ningún autocar turístico llega.\n\n**Práctico**\n\nUnas cinco horas incluyendo traslados y el trayecto de entrada.\n\n**Los turnos de la mañana ven más.** De octubre a junio es la temporada; el monzón cierra los senderos.\n\nLleva colores apagados, evita el perfume, y habla en voz baja, el bosque es pequeño y el sonido se propaga más de lo que piensas.\n\nLos permisos son limitados por turno y se liberan con antelación, así que reserva pronto. La reserva que te toca se confirma al reservar.",
+  "highlights": [
+   "Un coche privado con aire acondicionado vendrá a recogerte y a devolverte."
+  ],
+  "included": [
+   "Conductor/guía",
+   "Recogida y regreso al hotel",
+   "Safari en jeep y todoterreno",
+   "Transporte privado en minivan con aire acondicionado hacia y desde el parque",
+   "Agua embotellada",
+   "Entrada/admisión - safari de leopardos de Jhalana"
+  ],
+  "notIncluded": [
+   "Comida y bebidas."
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
