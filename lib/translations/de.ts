@@ -4450,6 +4450,92 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alle persönlichen Ausgaben"
   ]
  },
+ "all-inclusive-private-taj-mahal-agra-day-tour-from": {
+  "title": "Privater Komplett-Tagesausflug zum Taj Mahal und nach Agra ab Delhi",
+  "metaTitle": "Delhi-Agra komplett: Taj Mahal als privater Tagesausflug",
+  "metaDescription": "Ein privater Komplett-Tag in Agra ab Delhi, mit Wahl zwischen Start um 3 Uhr zum Sonnenaufgang oder Standardabfahrt um 6 Uhr.",
+  "shortDescription": "Ein privater Komplett-Tag in Agra ab Delhi, mit Wahl zwischen Start um 3 Uhr zum Sonnenaufgang oder Standardabfahrt um 6 Uhr.",
+  "fullDescription": "**Zwei Startzeiten, zwei verschiedene Tage**\n\nDiese Tour fährt entweder um drei Uhr morgens oder um sechs, und diese Wahl zählt mehr als alles andere daran.\n\n**Der Start um 3 Uhr** bringt Sie zum Taj, wenn die Tore öffnen, eine halbe Stunde vor Sonnenaufgang. Grauer Marmor, der rosa und dann weiß wird, Nebel auf der Yamuna im Winter, und nur ein Bruchteil der Menge. Sie werden müde sein. Es ist die bessere der beiden Touren.\n\n**Der Start um 6 Uhr** erreicht das Monument gegen halb zehn, was bequem und üblich ist und den Ort mit jedem anderen Tagesausflug teilt.\n\n**Die Fahrt**\n\nPrivater klimatisierter Wagen über die Yamuna Expressway, drei bis vier Stunden mit einer Pause.\n\n**Taj Mahal**\n\nShah Jahan begann ihn 1632, im Jahr nachdem Mumtaz Mahal bei der Geburt ihres vierzehnten Kindes gestorben war. Zweiundzwanzig Jahre, zwanzigtausend Arbeiter, Marmor über 400 km von Makrana herangekarrt.\n\nIhr Guide behandelt, an dem Sie sonst vorbeigehen würden: die **Kalligrafie**, in immer größeren Buchstaben geschnitten, damit sie vom Boden aus gleich hoch erscheint; die **Pietra-dura**-Einlagen, bei denen eine Blüte sechzig Steine tragen kann; die vier **Minarette**, nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg fallen ließe; und die einzige Asymmetrie im ganzen Bau, Shah Jahans eigenes Kenotaph, von seinem Sohn außerhalb der Achse hinzugefügt.\n\n**Das Frühstück**\n\nNach dem Monument statt davor, was bei der frühen Option die richtige Reihenfolge ist.\n\n**Agra Fort**\n\nAkbars Stadt aus rotem Sandstein von 1565 mit Shah Jahans Marmor darin, und der **Musamman Burj**, wo Aurangzeb seinen Vater acht Jahre gefangen hielt, mit dem Taj in Sicht am Fluss.\n\n**Drei Optionen**\n\nNur Guide, für Reisende mit eigenem Wagen; Privatwagen, Fahrer und Guide; oder die Komplettfassung mit Mittagessen und allen Eintrittsgebühren, rund 1,950 ₹ pro Person an Tickets für einen ausländischen Erwachsenen.\n\n**Praktisch**\n\nRund zehn Stunden von Tür zu Tür beim Start um 6 Uhr, länger bei dem um 3 Uhr.\n\n**Der Taj ist freitags geschlossen.**",
+  "highlights": [
+   "Genießen Sie einen bequemen privaten Hin- und Rücktransfer ab Delhi in einem klimatisierten Fahrzeug."
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel oder Flughafen",
+   "Privater klimatisierter Wagen mit Fahrer für die gesamte Tour",
+   "Staatlich geprüfter Reiseleiter vor Ort",
+   "Eintrittskarten für die Monumente (bei gewählter Option)",
+   "Mittagessen in einem 5-Sterne-Hotel (bei gewählter Option)",
+   "Flasche Mineralwasser",
+   "Alle Mautkosten und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Alle persönlichen Ausgaben"
+  ]
+ },
+ "book-entrance-tickets-of-taj-mahal-with-express-en": {
+  "title": "Buchen Sie Eintrittskarten für den Taj Mahal mit Express-Einlass",
+  "metaTitle": "Taj Mahal: Eintrittskarten mit Express-Einlass",
+  "metaDescription": "Vorab gebuchte Taj-Mahal-Eintrittskarten mit Express-Einlass, aufs Telefon geliefert, mit Guide- und Agra-Fort-Optionen.",
+  "shortDescription": "Vorab gebuchte Taj-Mahal-Eintrittskarten mit Express-Einlass, aufs Telefon geliefert, mit Guide- und Agra-Fort-Optionen.",
+  "fullDescription": "**Dreißigtausend Menschen am Tag in der Saison**\n\nDas ist die Zahl, die die Kasse zur Stoßzeit zu verarbeiten versucht, und deshalb kann die Schlange zum Ticketkauf länger dauern als der Weg zum Monument. Vorab buchen nimmt das vollständig heraus: Ihre Tickets kommen per WhatsApp oder E-Mail, und Sie gehen zur Einlassspur.\n\nEs nimmt nicht die Sicherheitskontrolle heraus, die jeden prüft. Keine Stative, keine Drohnen, kein Essen, keine großen Taschen, keine Feuerzeuge. Schließfächer am Tor.\n\n**Was das Ticket enthält**\n\nDas Standard-Taj-Ticket deckt die Anlage ab: den Torbau, den Garten, die Moschee und den Jawab, und die Plattform. Die **Grabkammer** selbst ist ein separater Zuschlag von 200 ₹, und er lohnt sich: das Jali-Gitter und die zwei Kenotaphe sind darin, ebenso die bemerkenswerte Akustik der Kuppel.\n\nDie echten Gräber liegen direkt darunter in der Krypta, versiegelt, und niemand besucht sie.\n\n**Überschuhe**\n\nMan zieht entweder am Sockel die Schuhe aus oder legt die Stoffüberzüge an, die mit Tickets für ausländische Staatsangehörige ausgegeben werden. Beides ist üblich, und der Marmor ist im Mai wirklich zu heiß für bloße Füße, nehmen Sie also die Überschuhe.\n\n**Mit Guide**\n\nBei den Führungsoptionen, was man wissen sollte: die **Kalligrafie**, in wachsenden Größen geschnitten, damit sie vom Boden aus gleich hoch erscheint; die **Pietra-dura**-Einlagen mit bis zu sechzig Steinen pro Blüte; die vier **Minarette**, nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg fallen ließe; und die eine Asymmetrie, Shah Jahans Kenotaph, von Aurangzeb außerhalb der Achse hinzugefügt.\n\n**Drei Optionen**\n\nTaj mit Mausoleum, nur Tickets, ohne Guide. Taj-Tickets mit Einlass ohne Anstehen und Guide. Oder Taj- und Agra-Fort-Tickets zusammen mit schnellem Einlass.\n\n**Praktisch**\n\n**Jeden Freitag geschlossen.** Der Eintritt für ausländische Staatsangehörige beträgt 1,100 ₹ plus 200 ₹ für das Mausoleum; das Agra Fort kostet 650 ₹.\n\nTransport ist nicht enthalten, das ist für Reisende, die schon in Agra sind.",
+  "highlights": [
+   "Buchen Sie Taj-Mahal-Eintrittskarten vorab und sparen Sie Zeit"
+  ],
+  "included": [
+   "Hochwertige Eintrittskarte mit Mausoleum für den Taj Mahal (für NRI und Ausländer) (bei gewählter Option)",
+   "Einlass ohne Anstehen.",
+   "Staatlich geprüfter Reiseleiter-Service.",
+   "Überschuhe.",
+   "Golfwagen."
+  ],
+  "notIncluded": [
+   "Keine"
+  ]
+ },
+ "book-govt-approved-tour-guide-for-taj-mahal-fort": {
+  "title": "Buchen Sie einen staatlich geprüften Guide für Taj Mahal und Fort",
+  "metaTitle": "Taj Mahal und Agra Fort: staatlich geprüfter Guide",
+  "metaDescription": "Buchen Sie einen staatlich geprüften Guide für Taj Mahal und Agra Fort, auf Englisch oder einer anderen Sprache, mit Wagenoptionen.",
+  "shortDescription": "Buchen Sie einen staatlich geprüften Guide für Taj Mahal und Agra Fort, auf Englisch oder einer anderen Sprache, mit Wagenoptionen.",
+  "fullDescription": "**Warum die Lizenz in Agra zählt**\n\nAn jedem Tor dieser Stadt bieten Männer an, Sie zu führen. Die meisten sind unlizenziert, manche sind sehr gut, und etliche erzählen Ihnen, der Kaiser habe seinen Handwerkern die Hände abschneiden lassen, eine Geschichte ohne Grundlage in irgendeiner Mogulquelle, die erstmals im neunzehnten Jahrhundert auftaucht.\n\nEin **staatlich geprüfter Guide** hat die Prüfung des Tourismusministeriums zu Geschichte, Architektur und Vorschriften bestanden, trägt eine Lizenz mit Foto und kann gemeldet werden, wenn er Sie in die Irre führt. Das ist der ganze Wert dieser Buchung.\n\n**Fremdsprachen**\n\nDas ist der andere Grund, zu buchen statt am Tor anzuheuern. Lizenzierte Guides sind für bestimmte Sprachen zertifiziert, Französisch, Spanisch, Deutsch, Italienisch, Japanisch, Russisch und weitere sind alle in Agra verfügbar, am Tor finden Sie dagegen nur Englisch und Hindi.\n\n**Der Rundgang**\n\nSie treffen Ihren Guide zur Zeit und am Ort Ihrer Wahl.\n\nZuerst der **Taj Mahal**. Shah Jahan begann ihn 1632, im Jahr nachdem Mumtaz Mahal gestorben war. Zweiundzwanzig Jahre, zwanzigtausend Arbeiter, Marmor über 400 km aus Makrana in Rajasthan herangekarrt.\n\nDie **Kalligrafie**, in immer größeren Buchstaben geschnitten, damit sie vom Boden aus gleich hoch erscheint, wobei der Kalligraf Amanat Khan der einzige Handwerker ist, der sein Werk irgendwo am Bau signiert hat. Die **Pietra-dura**-Einlagen, bis zu sechzig Steine in einer Blüte. Die vier **Minarette**, nach außen geneigt, damit ein Erdbeben sie neben das Grabmal fallen ließe. Und der einzige Bruch der Symmetrie: Shah Jahans eigenes Kenotaph, von Aurangzeb außerhalb der Achse hinzugefügt.\n\nDanach das **Agra Fort**, und der **Musamman Burj**, wo diese Gefangenschaft stattfand, mit dem Taj in Sicht am Fluss.\n\n**Vier Optionen**\n\nEnglischsprachiger offizieller Guide; ein Guide in einer anderen Sprache; Guide mit Wagen für eine Stadtrundfahrt; oder Guide mit Taj-Eintrittskarten.\n\n**Praktisch**\n\nRund vier Stunden. **Der Taj ist freitags geschlossen.**\n\nDie Eintrittsgebühren gehen zu Ihren Lasten, sofern die Option sie nicht enthält.",
+  "highlights": [
+   "Buchen Sie einen offiziellen Reiseleiter, um die Stadt Agra zu entdecken."
+  ],
+  "included": [
+   "Leistungen eines staatlich geprüften Reiseleiters.",
+   "Besuch des Taj Mahal,",
+   "Besuch des Agra Fort",
+   "Besuch des Baby Taj usw. (optional)",
+   "Wasserflaschen.",
+   "Golfwagen zum Taj Mahal",
+   "Überschuhe",
+   "Kameragebühr.",
+   "Dies ist eine Fußtour, der Reiseleiter steigt bei Bedarf zu Ihnen in den Wagen."
+  ],
+  "notIncluded": [
+   "Wagen für die Stadtbesichtigung (enthalten, falls die Option gewählt wird)",
+   "Eintrittsgebühr",
+   "Mittagessen"
+  ]
+ },
+ "fast-track-entry-into-taj-mahal-with-entrance-incl": {
+  "title": "Fast-Track-Einlass in den Taj Mahal, Eintritt inbegriffen",
+  "metaTitle": "Taj Mahal: Fast-Track-Einlass mit Eintritt inbegriffen",
+  "metaDescription": "Fast-Track-Einlass zum Taj Mahal mit enthaltenem Ticket und einem Guide, der Sie am Tor trifft. Rund drei Stunden.",
+  "shortDescription": "Fast-Track-Einlass zum Taj Mahal mit enthaltenem Ticket und einem Guide, der Sie am Tor trifft. Rund drei Stunden.",
+  "fullDescription": "**Die Tickets sind gekauft, bevor Sie ankommen**\n\nIhr Guide trifft Sie und hält sie bereits in der Hand, und Sie gehen durch den Express-Einlass statt durch die Kasse. In der Saison ist das der Unterschied zwischen drei Stunden am Taj und viereinhalb, wobei die Zusatzzeit meist stehend verbracht wird.\n\nDie Kontrolle gilt dennoch für alle: keine Stative, keine Drohnen, kein Essen, keine großen Taschen, keine Feuerzeuge. Schließfächer am Tor.\n\n**Die achteckige Kammer**\n\nInnen im Mausoleum ist der Grundriss ein achtseitiger Saal, und das ist bewusst so: die mogulische Grabarchitektur nutzte das Achteck, um zwischen dem Quadrat der Erde und dem Kreis des Himmels zu stehen. Dieselbe Form erscheint am **Musamman Burj** im Agra Fort und, noch vor beiden, im Grabmal von Humayun.\n\nUm die Kenotaphe steht ein Gitter aus geschnitztem Marmor-Jali, aus einem einzigen Block gearbeitet, das ein früheres goldenes Gitter ersetzt, das Shah Jahan hatte anfertigen lassen und das Aurangzeb entfernte.\n\nDie Kenotaphe selbst sind leer. Die echten Gräber liegen direkt darunter in der Krypta, versiegelt, genau darunter ausgerichtet und für Besucher geschlossen, eine mogulische Konvention, denn die eigentliche Bestattung soll kein Schauspiel sein.\n\n**Mumtaz Mahals Inschrift** läuft um ihr Kenotaph mit ihren Titeln und dem Datum ihres Todes 1631. Die von Shah Jahan, fünfunddreißig Jahre später hinzugefügt, ist größer und sitzt außerhalb der Mittelachse, die einzige Asymmetrie in einem sonst millimetergenau gespiegelten Bau.\n\n**Was Ihr Guide außerdem behandelt**\n\nDie **Kalligrafie**, in wachsenden Größen geschnitten, damit sie vom Boden aus gleich hoch erscheint. Die **Pietra dura**, bis zu sechzig Steinstücke in einer einzigen Blüte. Die vier **Minarette**, minimal nach außen geneigt, damit ein Erdbeben sie vom Grabmal weg fallen ließe.\n\n**Drei Optionen**\n\nTaj-Tour mit Guide; mit Wagen und Guide; oder Fast-Track-Einlass mit enthaltener Eintrittsgebühr.\n\n**Praktisch**\n\nDrei Stunden. **Jeden Freitag geschlossen.** Die erste Stunde nach dem Öffnen ist die beste des Tages.",
+  "highlights": [
+   "Kein Warten und kein Anstehen für den Besuch des Taj Mahal."
+  ],
+  "included": [
+   "Privater Wagen für Abholung und Rückfahrt (bei gewählter Option)",
+   "Lokaler Guide (bei gewählter Option)",
+   "Hochwertige Eintrittskarten (bei gewählter Option)"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Offiziellen Guide für die Erkundung von Bengaluru buchen",
   "metaTitle": "Bengaluru mit Guide: Paläste, Lalbagh, Tempel und Basare",
