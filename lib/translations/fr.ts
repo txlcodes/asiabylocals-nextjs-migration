@@ -16189,6 +16189,101 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "from-delhi-jaipur-day-tour-by-superfast-train": {
+  "title": "Depuis Delhi : visite de Jaipur en une journée en train superrapide",
+  "metaTitle": "Jaipur en un jour en train depuis Delhi",
+  "metaDescription": "Jaipur en une journée depuis Delhi en train superrapide, avec voiture et guide dans la ville et options de classe.",
+  "shortDescription": "Jaipur en une journée depuis Delhi en train superrapide, avec voiture et guide dans la ville et options de classe.",
+  "fullDescription": "**Prise en charge à 5h, et votre chauffeur vous accompagne jusqu'au wagon**\n\nLe détail qui fait fonctionner cela : le chauffeur vous emmène dans la gare de New Delhi et localise avec vous votre wagon et votre place. Cette gare gère un demi-million de personnes par jour, les panneaux de quai sont laconiques, et un wagon réservé dans un long train n'est jamais où vous l'attendez.\n\n**Le train**\n\nUn service superrapide vers Jaipur, environ quatre heures et demie, avec service de restauration. Pas de circulation, pas de péages, et vous arrivez en état de marcher.\n\nLe retour en soirée évite aussi le ralentissement en rentrant dans Delhi, ce qui gâche la version routière de ce voyage un dimanche.\n\nLa première classe offre un siège plus large et un wagon plus calme ; la seconde classe est parfaitement confortable sur ce trajet.\n\n**À Jaipur**\n\nUne voiture privée climatisée et un guide agréé pour la journée.\n\nLe **fort d'Amber**, le complexe au sommet de la colline au-dessus du lac Maota commencé en 1592, la porte peinte **Ganesh Pol**, le **Sheesh Mahal** où des fragments de miroir au plafond transformaient une seule bougie en un plafond d'étoiles, et le **Sukh Niwas** rafraîchi par l'eau.\n\nLe **Jal Mahal** depuis la digue ; quatre de ses cinq étages sont sous l'eau et personne n'y entre.\n\nLe **City Palace**, dont une partie reste la demeure de la famille royale, avec l'arsenal et les deux urnes d'argent coulées pour transporter de l'eau du Gange en Angleterre.\n\nLe **Jantar Mantar**, dix-neuf instruments astronomiques en maçonnerie construits par un souverain qui était avant tout astronome, le cadran solaire de 27 mètres reste précis à quelques secondes de l'heure locale, et votre guide peut vous montrer comment.\n\nLe **Hawa Mahal**, l'écran aux 953 fenêtres, depuis la rue d'en face.\n\n**Trois options**\n\nSeconde classe avec voiture et guide ; seconde classe avec entrées ; ou première classe avec entrées.\n\n**Pratique**\n\nSeize heures porte à porte.\n\nLes sièges du train sont limités et libérés selon un calendrier fixe, réservez tôt, et emportez le passeport avec lequel vous avez réservé, car les chemins de fer indiens vérifient l'identité par rapport au billet.",
+  "highlights": [
+   "Vivez un voyage qui fait gagner du temps entre Delhi et Jaipur dans un train à grande vitesse"
+  ],
+  "included": [
+   "Prise en charge et retour depuis l'hôtel ou la gare",
+   "Voiture privée climatisée avec chauffeur dédié",
+   "Billet de train aller-retour",
+   "Des guides experts vous accompagnent sur chaque site",
+   "Billets d'entrée à tous les monuments (si l'option est choisie)",
+   "Bouteilles d'eau minérale offertes",
+   "Péages, frais de stationnement et taxes inclus"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Dépenses personnelles",
+   "Pourboires et gratifications"
+  ]
+ },
+ "from-delhi-jaipur-day-tour-by-superfast-train-1790460843533-4hzzmc": {
+  "title": "Depuis Delhi : visite de Jaipur en une journée en train superrapide",
+  "metaTitle": "Jaipur en un jour en train depuis Delhi",
+  "metaDescription": "Jaipur en une journée depuis Delhi en train superrapide, avec voiture et guide dans la ville et options de classe.",
+  "shortDescription": "Jaipur en une journée depuis Delhi en train superrapide, avec voiture et guide dans la ville et options de classe.",
+  "fullDescription": "**Prise en charge à 5h, et votre chauffeur vous accompagne jusqu'au wagon**\n\nLe détail qui fait fonctionner cela : le chauffeur vous emmène dans la gare de New Delhi et localise avec vous votre wagon et votre place. Cette gare gère un demi-million de personnes par jour, les panneaux de quai sont laconiques, et un wagon réservé dans un long train n'est jamais où vous l'attendez.\n\n**Le train**\n\nUn service superrapide vers Jaipur, environ quatre heures et demie, avec service de restauration. Pas de circulation, pas de péages, et vous arrivez en état de marcher.\n\nLe retour en soirée évite aussi le ralentissement en rentrant dans Delhi, ce qui gâche la version routière de ce voyage un dimanche.\n\nLa première classe offre un siège plus large et un wagon plus calme ; la seconde classe est parfaitement confortable sur ce trajet.\n\n**À Jaipur**\n\nUne voiture privée climatisée et un guide agréé pour la journée.\n\nLe **fort d'Amber**, le complexe au sommet de la colline au-dessus du lac Maota commencé en 1592, la porte peinte **Ganesh Pol**, le **Sheesh Mahal** où des fragments de miroir au plafond transformaient une seule bougie en un plafond d'étoiles, et le **Sukh Niwas** rafraîchi par l'eau.\n\nLe **Jal Mahal** depuis la digue ; quatre de ses cinq étages sont sous l'eau et personne n'y entre.\n\nLe **City Palace**, dont une partie reste la demeure de la famille royale, avec l'arsenal et les deux urnes d'argent coulées pour transporter de l'eau du Gange en Angleterre.\n\nLe **Jantar Mantar**, dix-neuf instruments astronomiques en maçonnerie construits par un souverain qui était avant tout astronome, le cadran solaire de 27 mètres reste précis à quelques secondes de l'heure locale, et votre guide peut vous montrer comment.\n\nLe **Hawa Mahal**, l'écran aux 953 fenêtres, depuis la rue d'en face.\n\n**Trois options**\n\nSeconde classe avec voiture et guide ; seconde classe avec entrées ; ou première classe avec entrées.\n\n**Pratique**\n\nSeize heures porte à porte.\n\nLes sièges du train sont limités et libérés selon un calendrier fixe, réservez tôt, et emportez le passeport avec lequel vous avez réservé, car les chemins de fer indiens vérifient l'identité par rapport au billet.",
+  "highlights": [
+   "Vivez un voyage qui fait gagner du temps entre Delhi et Jaipur dans un train à grande vitesse"
+  ],
+  "included": [
+   "Prise en charge et retour depuis l'hôtel ou la gare",
+   "Voiture privée climatisée avec chauffeur dédié",
+   "Billet de train aller-retour",
+   "Des guides experts vous accompagnent sur chaque site",
+   "Billets d'entrée à tous les monuments (si l'option est choisie)",
+   "Bouteilles d'eau minérale offertes",
+   "Péages, frais de stationnement et taxes inclus"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Dépenses personnelles",
+   "Pourboires et gratifications"
+  ]
+ },
+ "from-delhi-jaipur-day-trip-by-private-car": {
+  "title": "Depuis Delhi : excursion d'une journée à Jaipur en voiture privée",
+  "metaTitle": "Jaipur en un jour depuis Delhi, voiture privée",
+  "metaDescription": "Jaipur en une journée depuis Delhi en voiture privée avec un départ à 5h, et une version avec déjeuner et billets de monuments.",
+  "shortDescription": "Jaipur en une journée depuis Delhi en voiture privée avec un départ à 5h, et une version avec déjeuner et billets de monuments.",
+  "fullDescription": "**Cinq ou six heures du matin, et ce n'est pas négociable**\n\nDelhi à Jaipur fait 270 km. Partir à cinq heures vous fait passer Gurugram avant son réveil et arriver au fort d'Amber vers dix heures, soit la dernière heure où ses cours sont agréables. Partir à huit heures vous coûte les deux extrémités de la journée.\n\nIl y a un arrêt à mi-chemin dans chaque sens.\n\n**Fort d'Amber**\n\nVotre guide vous y retrouve. Commencé en 1592 par Raja Man Singh, le général d'Akbar, sur une crête au-dessus du **lac Maota**, un fort rajput construit par des artisans moghols, ce qui explique pourquoi l'incrustation persane côtoie la sculpture hindoue.\n\nLa porte peinte **Ganesh Pol**, avec la galerie grillagée au-dessus depuis laquelle les femmes de la cour observaient les arrivées sans être vues. Le **Sheesh Mahal**, où des milliers de fragments de miroir convexe incrustés au plafond transformaient une seule bougie en un ciel plein d'étoiles. Le **Sukh Niwas**, rafraîchi par l'eau coulant dans des canaux taillés dans le marbre.\n\n**Jal Mahal**\n\nUn arrêt photo sur la digue. Quatre de ses cinq étages se trouvent sous le lac Man Sagar et il n'y a aucun moyen d'y entrer, ni bateau, ni billet, quoi qu'on vous propose au bord de la route.\n\n**City Palace**\n\nEncore en partie résidence de l'ancienne famille royale, avec l'arsenal, les galeries textiles et les deux énormes urnes d'argent coulées pour qu'un maharaja puisse transporter de l'eau du Gange en Angleterre.\n\n**Jantar Mantar**\n\nDix-neuf instruments astronomiques en maçonnerie des années 1730, classés à l'UNESCO, avec un cadran solaire de 27 mètres toujours précis à environ deux secondes.\n\n**Hawa Mahal**\n\nL'écran à cinq étages aux 953 fenêtres, depuis la rue d'en face.\n\n**Deux options**\n\nVoiture, chauffeur et guide ; ou la même chose avec déjeuner et toutes les entrées aux monuments, environ 1 500 ₹ par personne pour un adulte étranger si vous payez séparément.\n\n**Pratique**\n\nQuatorze heures porte à porte, dont neuf de route. Si vous avez une nuit de libre, rester à Jaipur constitue un meilleur voyage ; sinon, cela fonctionne.",
+  "highlights": [
+   "Explorez Jaipur, la ville rose, en visite guidée"
+  ],
+  "included": [
+   "Droits d'entrée aux monuments (si l'option est choisie)",
+   "Services de prise en charge et de retour",
+   "Voiture privée climatisée avec chauffeur",
+   "Services de guide touristique en direct",
+   "Déjeuner (si l'option est choisie)",
+   "Toutes les taxes et le stationnement",
+   "Bouteilles d'eau pendant le trajet",
+   "Parapluies"
+  ],
+  "notIncluded": [
+   "Tout pourboire pour le chauffeur et le guide",
+   "Tout type de boisson"
+  ]
+ },
+ "from-delhi-jaipur-one-day-tour-package-by-car": {
+  "title": "Depuis Delhi : forfait visite de Jaipur en une journée en voiture",
+  "metaTitle": "Jaipur en un jour, forfait voiture",
+  "metaDescription": "Jaipur en une journée depuis Delhi en voiture privée avec un départ à 6h, et une version avec repas et billets de monuments.",
+  "shortDescription": "Jaipur en une journée depuis Delhi en voiture privée avec un départ à 6h, et une version avec repas et billets de monuments.",
+  "fullDescription": "**6h00 depuis Delhi, et la raison pour laquelle ce n'est pas plus tard**\n\nPartez à six heures et vous dépassez Gurugram avant que la circulation ne s'installe, arrivant au fort d'Amber vers dix heures et demie, soit la dernière heure où ses cours sont confortables. Partez à huit heures et vous perdez les deux extrémités de la journée à cause de la route.\n\nPrise en charge à Delhi, Gurugram ou Noida, puis 270 km sur la NH-48 avec une pause, quatre à cinq heures.\n\n**Fort d'Amber**\n\nVotre guide vous y retrouve. Commencé en 1592 par Raja Man Singh, le général d'Akbar, sur une crête au-dessus du **lac Maota**, un fort rajput construit par des artisans moghols, ce qui explique pourquoi l'incrustation persane côtoie la sculpture hindoue.\n\nLa porte peinte **Ganesh Pol**, avec la galerie grillagée au-dessus depuis laquelle les femmes de la cour observaient les arrivées sans être vues. Le **Sheesh Mahal**, orné de milliers de fragments de miroir convexe de sorte qu'une bougie se lisait comme un plafond plein d'étoiles. Le **Sukh Niwas**, rafraîchi par l'eau coulant dans des canaux taillés dans le marbre.\n\n**Jal Mahal**\n\nUn arrêt photo depuis la digue. Quatre de ses cinq étages se trouvent sous le lac et il n'y a aucun moyen d'y entrer.\n\n**City Palace**\n\nEncore en partie résidence de l'ancienne famille royale, avec l'arsenal, les galeries textiles et les deux urnes d'argent du Diwan-i-Khas, les plus grands objets en argent du monde, coulées pour qu'un maharaja puisse transporter de l'eau du Gange en Angleterre.\n\n**Jantar Mantar**\n\nDix-neuf instruments astronomiques en maçonnerie des années 1730, classés à l'UNESCO, avec un cadran solaire de 27 mètres toujours précis à environ deux secondes.\n\n**Hawa Mahal**\n\nL'écran aux 953 fenêtres de 1799, depuis la rue d'en face.\n\n**Deux options**\n\nVoiture, chauffeur et guide ; ou la même chose avec repas et tous les billets de monuments, environ 1 500 ₹ par personne pour un adulte étranger si vous payez séparément.\n\n**Pratique**\n\nQuinze heures porte à porte, dont neuf de route. Si vous pouvez vous permettre une nuit, rester à Jaipur constitue un meilleur voyage.",
+  "highlights": [
+   "Confirmation reçue au moment de la réservation"
+  ],
+  "included": [
+   "1) Tous les péages, taxes, stationnement, carburant, indemnité de chauffeur",
+   "2) Visites en véhicule climatisé",
+   "3) Guide touristique anglophone",
+   "4) Bouteille d'eau dans la voiture",
+   "5) Prise en charge et retour à l'aéroport/hôtel à Delhi",
+   "6) Droits d'entrée aux monuments (si vous choisissez l'option tout compris) (selon l'itinéraire)",
+   "7) Déjeuner dans un restaurant de Jaipur (si vous choisissez l'option tout compris)"
+  ],
+  "notIncluded": [
+   "1) Toute boisson pendant le déjeuner (disponible à l'achat)",
+   "2) Pourboires et gratifications pour le guide et le chauffeur (facultatifs)"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
