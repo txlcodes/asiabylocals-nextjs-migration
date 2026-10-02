@@ -5980,6 +5980,53 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "overnight-taj-mahalagra-tour-from-mumbai-with-retu": {
+  "title": "Taj Mahal et Agra avec une nuit, depuis Mumbai avec vol retour",
+  "metaTitle": "Mumbai-Agra en deux jours : Taj Mahal avec vols retour",
+  "metaDescription": "Deux jours à Agra depuis Mumbai avec vols retour, le Taj Mahal, le fort d'Agra, voiture privée et guide.",
+  "shortDescription": "Deux jours à Agra depuis Mumbai avec vols retour, le Taj Mahal, le fort d'Agra, voiture privée et guide.",
+  "fullDescription": "**Agra depuis Mumbai, en deux jours**\n\nMumbai-Agra, c'est environ 1 200 km. En train, c'est une journée dans chaque sens ; en avion, ce sont deux heures, ce qui rend réaliste un week-end. Ce forfait couvre les vols, le transport au sol, un guide agréé et la nuitée.\n\n**Premier jour**\n\nVol vers le nord jusqu'à Delhi, puis une voiture privée climatisée sur la Yamuna Expressway, trois heures et demie.\n\n**Le fort d'Agra** dans l'après-midi. Une ville fortifiée plutôt qu'un fort : deux kilomètres et demi de muraille en grès rouge commencés par Akbar en 1565, avec les palais de marbre de Shah Jahan à l'intérieur, le **Diwan-i-Am**, le **Khas Mahal**, le hammam **Sheesh Mahal**.\n\nEt le **Musamman Burj**, la tour octogonale sur la muraille du fleuve où Aurangzeb a enfermé son propre père les huit dernières années de sa vie, avec le Taj visible le long de l'eau. Shah Jahan y est mort et a été porté de l'autre côté pour être enterré auprès de Mumtaz.\n\nEn option, **Mehtab Bagh** de l'autre côté de la Yamuna pour la vue du reflet au coucher du soleil.\n\n**Deuxième jour : lever du soleil**\n\nLe **Taj Mahal** à l'ouverture des portes, une demi-heure avant le soleil. Le marbre se lit gris, puis rose, puis blanc ; en hiver il y a de la brume sur le fleuve derrière le dôme, et la foule à cette heure n'est qu'un cinquième de ce qu'elle deviendra à dix heures.\n\nVotre guide couvre ce qui échappe facilement : la **calligraphie** gravée en tailles croissantes pour se lire d'une hauteur égale depuis le sol ; les incrustations de **pietra dura**, jusqu'à soixante pierres dans une seule fleur ; les quatre **minarets**, légèrement inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau ; et la seule asymétrie de l'édifice, le cénotaphe de Shah Jahan, placé hors de l'axe par son fils.\n\nPuis retour à Delhi et vol du soir vers le sud.\n\n**Quatre options**\n\nUne version avec départ de l'aéroport de Delhi, voiture et guide ; les vols avec voiture, chauffeur et guide ; ou les vols avec un hôtel trois ou quatre étoiles, billets et guide.\n\n**Pratique**\n\n**Le Taj est fermé le vendredi**, ce qui fixe les dates possibles.",
+  "highlights": [
+   "Vols aller-retour entre Mumbai et Delhi, une expérience de voyage fluide et rapide."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour toute la durée de la visite",
+   "Guide touristique agréé par le gouvernement",
+   "Billets de vol aller-retour",
+   "1 nuit d'hébergement en hôtel (selon l'option choisie)",
+   "Petit-déjeuner à l'hôtel",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toutes dépenses personnelles"
+  ]
+ },
+ "private-overnight-taj-mahal-luxury-tour-2-days1-ni": {
+  "title": "Visite privée de luxe du Taj Mahal avec une nuit (2 jours/1 nuit)",
+  "metaTitle": "Agra en 2 jours 1 nuit : Taj au lever et coucher du soleil",
+  "metaDescription": "Deux jours et une nuit à Agra, le Taj au lever et au coucher du soleil, le fort d'Agra, avec un guide agréé par le gouvernement et voiture privée.",
+  "shortDescription": "Deux jours et une nuit à Agra, le Taj au lever et au coucher du soleil, le fort d'Agra, avec un guide agréé par le gouvernement et voiture privée.",
+  "fullDescription": "**Pourquoi la version avec nuitée est meilleure**\n\nL'excursion Delhi-Agra en une journée est un tunnel de quatorze heures avec un monument au milieu. Passer une nuit change toute la forme de l'expérience : vous voyez le Taj dans la lumière du soir puis à nouveau au lever du soleil, vous dormez à Agra plutôt qu'en voiture, et le fort d'Agra obtient les deux heures qu'il mérite plutôt que quarante minutes.\n\n**Le soir : le Taj Mahal au coucher du soleil**\n\nLe marbre, dans la dernière heure, devient or chaud, puis rose. Moins de monde, plus de file à cette heure de la journée, et vous pouvez vous tenir à l'extrémité du canal d'eau sans qu'on vous demande d'avancer.\n\n**Le fort d'Agra**\n\nLe fort de grès rouge d'Akbar, 1565, reconstruit en marbre par Shah Jahan : le Diwan-i-Am, le Khas Mahal, le Sheesh Mahal, et le **Musamman Burj**, la tour octogonale où Aurangzeb a retenu son père prisonnier huit ans, avec une vue directe le long du fleuve jusqu'au tombeau qu'il avait fait construire.\n\n**Le matin : le Taj au lever du soleil**\n\nC'est la seconde visite dont les gens se souviennent. Les portes ouvrent une demi-heure avant le lever du soleil ; le marbre se lit gris, puis rose, puis blanc, et en hiver une brume se pose sur la Yamuna derrière le dôme.\n\nVoir le même édifice aux deux bouts de la journée est une expérience réellement différente de le voir une seule fois.\n\n**Votre guide**\n\nAgréé par le gouvernement, ce qui mérite d'être précisé à Agra, le site fourmille de guides non agréés, et la différence dans ce que vous apprenez est considérable.\n\n**Deux options**\n\nLa visite avec un guide professionnel et un transport climatisé, en organisant votre propre chambre. Ou le forfait complet avec un hôtel cinq étoiles et les repas compris.\n\n**Pratique**\n\n**Le Taj est fermé le vendredi**, la fenêtre de deux jours est donc planifiée en conséquence. L'entrée est de 1,300 ₹ pour les ressortissants étrangers au Taj avec le mausolée, 650 ₹ au fort, sauf si votre option les couvre.",
+  "highlights": [
+   "Le Taj Mahal au lever du soleil, le moment le plus photographié"
+  ],
+  "included": [
+   "Voiture privée climatisée de luxe (Delhi-Agra-Delhi)",
+   "Séjour en hôtel 5 étoiles avec petit-déjeuner (si l'option est choisie)",
+   "Guide professionnel agréé par le gouvernement",
+   "1 déjeuner (si l'option est choisie)",
+   "Voiturette électrique au Taj Mahal",
+   "Tous les péages, le stationnement et l'indemnité du chauffeur"
+  ],
+  "notIncluded": [
+   "Tous les droits d'entrée des monuments",
+   "Dîner",
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Réservez un guide officiel pour explorer Bengaluru",
   "metaTitle": "Bengaluru avec guide : palais, Lalbagh, temples et bazars",
