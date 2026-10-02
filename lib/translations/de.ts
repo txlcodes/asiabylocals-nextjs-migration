@@ -15901,6 +15901,110 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "05-days-rajasthan-tour-mandawa-jaipur-pushkar-jodh": {
+  "title": "Rajasthan-Tour in 5 Tagen, Mandawa, Jaipur, Pushkar, Jodhpur",
+  "metaTitle": "Rajasthan 5 Tage, Mandawa bis Jodhpur",
+  "metaDescription": "Fünf Tage durch Mandawa, Jaipur, Pushkar und Jodhpur im Privatwagen, mit Hoteloptionen von drei bis fünf Sterne.",
+  "shortDescription": "Fünf Tage durch Mandawa, Jaipur, Pushkar und Jodhpur im Privatwagen, mit Hoteloptionen von drei bis fünf Sterne.",
+  "fullDescription": "**Die Route, die Shekhawati hinzufügt**\n\nDie meisten Rajasthan-Reisepläne lassen Mandawa aus, was ein Fehler ist. Es ist das Tor zur Region Shekhawati, und Shekhawati beherbergt die größte Konzentration bemalter Gebäude weltweit.\n\n**Tag 1: Mandawa**\n\nFahrt ab Delhi, etwa sechs Stunden.\n\nDie Stadt wird eine Freiluft-Kunstgalerie genannt, und ausnahmsweise trifft der Ausdruck zu. Kaufmannsfamilien des 19. Jahrhunderts errichteten hier **Havelis** und bedeckten jede Wand, innen und außen, mit Fresken, Göttern, Jagdszenen, Zügen, Grammophonen, Flugzeugen, und Europäern mit Hüten, gemalt von Künstlern, die keine dieser Dinge je gesehen hatten.\n\nDas **Mandawa Fort** von 1755 steht darüber. Gehen Sie am Ende des Tages durch die Gassen, wenn die tiefstehende Sonne die Pigmente hervorbringt.\n\n**Tag 2: Jaipur**\n\nEtwa vier Stunden südlich. Das **Amber Fort**, der **City Palace**, das **Jantar Mantar**, der **Hawa Mahal**, und ein Abend in den Basaren.\n\n**Tag 3: Pushkar**\n\nEine kleine Stadt um einen See, von dem Hindus glauben, er sei dort entstanden, wo Brahma einen Lotus fallen ließ. Es gibt vielleicht ein Dutzend Brahma-Tempel weltweit, und dies ist der wichtigste.\n\nZweiundfünfzig **Ghats** umgeben das Wasser, und die ganze Stadt ist streng vegetarisch, ohne Alkohol, Eier oder Fleisch innerhalb der Stadtgrenzen, durchgesetzt, nicht nur empfohlen.\n\nDie **Kamelmesse** fällt in den Monat Kartik, meist November, wenn fünfzigtausend Tiere und eine Viertelmillion Menschen gleichzeitig eintreffen.\n\nEine Warnung, die man beherzigen sollte: Männer sprechen Sie an den Ghats an und bieten \"Pushkar-Pass\"-Segnungen an, verlangen dann hohe Spenden. Ein höfliches, bestimmtes Nein reicht aus.\n\n**Tage 4-5: Jodhpur**\n\n**Mehrangarh** auf seinem 120 Meter hohen Felsen, nie eingenommen, mit Kanonenball-Narben am zweiten Tor von einer Belagerung durch Jaipur. **Jaswant Thada** aus Marmor, dünn genug, um die Sonne durchzulassen. Die blaue Stadt darunter.\n\n**Vier Optionen**\n\nPrivatwagen und Führer ohne Hotels, oder mit Drei-, Vier- oder Fünf-Sterne-Unterkunft.\n\nEintrittsgebühren zu den Denkmälern und Mahlzeiten werden separat bezahlt.",
+  "highlights": [
+   "Besuchen Sie das Amber Fort, den Jal Mahal, den Hawa Mahal, den City Palace und das Jantar Mantar"
+  ],
+  "included": [
+   "Klimatisierte Unterkunft im Einzel-/Doppel-/Dreibettzimmer (falls Option gewählt)",
+   "4 köstliche Frühstücke im Hotel pro Person (falls Option gewählt)",
+   "Privater professioneller Führer (falls Option gewählt)",
+   "Ankunft und Abreise im privaten klimatisierten Auto (falls Option gewählt)",
+   "Transport im privaten klimatisierten Auto während der Tour",
+   "Elefantenritt am Amber Fort in Jaipur (falls Option gewählt)",
+   "2 Mineralwasserflaschen pro Person und Tag",
+   "Alle anwendbaren Steuern, Kraftstoff, Parken und Mautgebühren"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben",
+   "Eintrittsgebühren zu den Denkmälern",
+   "Jeglicher Inlands- oder internationaler Flug",
+   "Kameragebühren",
+   "Weihnachts- und Silvester-Galadiner"
+  ]
+ },
+ "11-day-jaipur-udaipur-jodhpur-jaisalmer-bikaner-pu": {
+  "title": "11-tägige Tour: Jaipur, Udaipur, Jodhpur, Jaisalmer, Bikaner, Pushkar",
+  "metaTitle": "Komplettes Rajasthan in 11 Tagen",
+  "metaDescription": "Elf Tage durch Rajasthan ab Jaipur, Udaipur, Jodhpur, Jaisalmer, Bikaner und Pushkar.",
+  "shortDescription": "Elf Tage durch Rajasthan ab Jaipur, Udaipur, Jodhpur, Jaisalmer, Bikaner und Pushkar.",
+  "fullDescription": "**Elf Tage, sechs Städte, und nichts ausgelassen**\n\nDie meisten Rajasthan-Reisepläne streichen zuerst Bikaner und Pushkar, dann Jaisalmer. Dieser behält alle, was die Entfernungen tatsächlich erfordern, Jaipur nach Jaisalmer allein sind 560 km, und Bikaner liegt 330 km weiter nördlich.\n\n**Jaipur**\n\nDas **Amber Fort** über dem Maota-See, der **City Palace**, die Steininstrumente des **Jantar Mantar** und der **Hawa Mahal**, plus die Basare, wo die Edelsteinschleifer, Lackarmreifmacher und Blockdrucker noch arbeiten.\n\n**Pushkar**\n\nEine Stadt um einen See, von dem Hindus glauben, er sei dort entstanden, wo Brahma einen Lotus fallen ließ, einer der sehr wenigen Brahma-Tempel weltweit, mit zweiundfünfzig Ghats um das Wasser.\n\n**Streng vegetarisch und alkoholfrei** innerhalb der Stadtgrenzen. Durchgesetzt.\n\n**Udaipur**\n\nDer **City Palace**, der sich fast einen Kilometer entlang des Pichola-Sees erstreckt, über vier Jahrhunderte stückweise von zweiundzwanzig Herrschern errichtet. Der **Jagdish-Tempel** von 1651, **Saheliyon ki Bari**, und eine Bootsfahrt bei Sonnenuntergang, mit den Hügeln, die hinter dem Wasser dunkel werden.\n\n**Jodhpur**\n\n**Mehrangarh** erhebt sich 120 Meter direkt aus dem Felsen und wurde nie eingenommen; das Museum darin ist das best geführte im Bundesstaat. Darunter **Jaswant Thada** aus Marmor, dünn genug, um Licht durchzulassen, und die blauen Gassen rund um den Uhrturm.\n\n**Jaisalmer**\n\n**Sonar Quila**, das goldene Fort von 1156 und eines der letzten noch lebenden Forts der Erde, etwa dreitausend Menschen leben noch immer innerhalb seiner Mauern. Die **Jain-Tempel** im Inneren sind bis zur Filigranhaftigkeit geschnitzt; **Patwon ki Haveli** besteht aus fünf Kaufmannshäusern Seite an Seite. Dann die **Sam-Dünen** für eine Kamelfahrt bei Sonnenuntergang.\n\n**Bikaner**\n\n**Junagarh**, eines der sehr wenigen Rajasthan-Forts, das nicht auf einem Hügel erbaut wurde, und der **Karni-Mata-Tempel** in Deshnoke, wo mehrere Tausend Ratten als heilige Bewohner leben und man barfuß unter ihnen geht. Nicht für jeden, und unvergesslich.\n\n**Praktisches**\n\nPrivates klimatisiertes Fahrzeug mit Fahrer durchgehend, und lokale Führer in jeder Stadt.\n\nOktober bis März. Die Wüstenetappen übersteigen ab April 45 °C und nähern sich in Dezembernächten dem Gefrierpunkt.",
+  "highlights": [
+   "Erleben Sie die Schönheit der Wüste mit einer Kamelfahrt und einer Jeep-Safari"
+  ],
+  "included": [
+   "Unterkunft im Drei-Sterne-Hotel an jedem Ort",
+   "Frühstück an 11 Tagen",
+   "Kamelfahrt, Jeep-Safari und Abendessen an den Sam-Dünen mit Campaufenthalt in Jaisalmer",
+   "Alle Transfers und Besichtigungen während der Tour in einem individuellen klimatisierten Fahrzeug",
+   "Unterkunft und Verpflegung des Fahrers",
+   "Mautgebühren, Parken, Kraftstoff usw.",
+   "Alle derzeit anwendbaren Steuern",
+   "Der Führungsdienst ist inklusive"
+  ],
+  "notIncluded": [
+   "Mittagessen/Abendessen/Getränke",
+   "Keine Eintrittsgebühr ist inklusive",
+   "Keine persönlichen Ausgaben sind inklusive"
+  ]
+ },
+ "8-days-rajasthan-tour-jaipur-jodhpur-jaisalmer-bik": {
+  "title": "Rajasthan-Tour in 8 Tagen, Jaipur, Jodhpur, Jaisalmer und Bikaner",
+  "metaTitle": "Wüsten-Rajasthan in 8 Tagen",
+  "metaDescription": "Acht Tage durch Rajasthan ab Jaipur über Jodhpur, Jaisalmer und Bikaner, mit Drei- oder Vier-Sterne-Hotels.",
+  "shortDescription": "Acht Tage durch Rajasthan ab Jaipur über Jodhpur, Jaisalmer und Bikaner, mit Drei- oder Vier-Sterne-Hotels.",
+  "fullDescription": "**Die Wüstenhälfte Rajasthans**\n\nDiese Route lässt Udaipur und die Seen aus und geht stattdessen nach Westen, Jodhpur, Jaisalmer und Bikaner, das ist die Thar und die Karawanenstädte, die daraus entstanden sind.\n\nEs ist eine trockenere, härtere, spektakulärere Reise als der Standard-Rajasthan-Kreis.\n\n**Jaipur**\n\nDas **Amber Fort** über dem Maota-See mit dem **Sheesh Mahal**, der **City Palace**, die neunzehn Steininstrumente des **Jantar Mantar**, und der **Hawa Mahal**, plus die Basare, wo die Edelsteinschleifer und Lackarmreifmacher noch dort arbeiten, wo der Stadtplan von 1727 sie platzierte.\n\n**Jodhpur**\n\n**Mehrangarh** ist das Fort, das die Meinung über indische Forts ändert: 120 Meter direkt aus dem Felsen, nie eingenommen, mit dem best geführten Museum des Bundesstaats im Inneren. Die Kanonenball-Narben am zweiten Tor stammen von einer Belagerung durch Jaipur.\n\nDarunter **Jaswant Thada** aus Marmor, dünn genug, dass Sonnenlicht durchscheint, und die blauen Gassen rund um den Uhrturm, die Farbe war eine Kalk-Kupfer-Tünche, die Termiten abhielt.\n\n**Jaisalmer**\n\n**Sonar Quila**, 1156 erbaut und eines der letzten noch lebenden Forts der Erde: etwa dreitausend Menschen leben noch immer innerhalb der Mauern, in Häusern, die ihre Familien seit Generationen halten. Der gelbe Sandstein wird bei Sonnenuntergang honigfarben.\n\nDie **Jain-Tempel** im Inneren sind bis zur Filigranhaftigkeit geschnitzt. **Patwon ki Haveli** besteht aus fünf Kaufmannshäusern, die in den 1800er Jahren Seite an Seite erbaut wurden, mit Jali-Gittern, die sich im Licht bewegen. Der **Gadisar-See**, ein Reservoir aus dem 14. Jahrhundert, ist am besten bei Morgendämmerung.\n\nDann die **Sam-Dünen** für eine Kamelfahrt bei Sonnenuntergang und eine Nacht in einem Wüstencamp.\n\n**Bikaner**\n\n**Junagarh Fort**, ungewöhnlich auf flachem Boden statt auf einem Hügel erbaut und ebenfalls nie eingenommen. Die **Kamelzuchtfarm** am Stadtrand, und der **Karni-Mata-Tempel** in Deshnoke, wo mehrere Tausend Ratten als heilige Bewohner leben.\n\n**Zwei Optionen**\n\nMit Drei- oder Vier-Sterne-Hotels, privatem Fahrzeug und Führern durchgehend.\n\n**Praktisches**\n\nOktober bis März. Die Wüste übersteigt ab April 45 °C, und Dezembernächte dort nähern sich dem Gefrierpunkt.",
+  "highlights": [
+   "Bewundern Sie die Architektur der UNESCO-Stätten"
+  ],
+  "included": [
+   "Drei- oder Vier-Sterne-Unterkunft im Doppelzimmer (abhängig von der gewählten Option)",
+   "Frühstück im Hotel",
+   "Frühstück und Abendessen im Camp",
+   "Privater klimatisierter Transport",
+   "Kamelfahrt an den Sanddünen",
+   "Jeep-Fahrt in Jaipur",
+   "Abholung und Rückbringung von Jaipur nach Jaipur",
+   "Besichtigungen",
+   "Mautgebühren, Parken, Kraftstoff usw.",
+   "Führungsdienst in Jaipur, Jodhpur, Jaisalmer und Bikaner"
+  ],
+  "notIncluded": [
+   "Mittagessen/Abendessen",
+   "Jegliche Denkmalgebühr",
+   "Jegliche Getränke",
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "9-days-rajasthan-tour-jaipur-jodhpur-jaisalmer-uda": {
+  "title": "Rajasthan-Tour in 9 Tagen: Jaipur, Jodhpur, Jaisalmer und Udaipur",
+  "metaTitle": "Kompletter Rajasthan-Kreis in 9 Tagen",
+  "metaDescription": "Neun Tage zwischen Jaipur, Jodhpur, Jaisalmer und Udaipur, Forts, Thar-Wüste und Seen, im Privatwagen.",
+  "shortDescription": "Neun Tage zwischen Jaipur, Jodhpur, Jaisalmer und Udaipur, Forts, Thar-Wüste und Seen, im Privatwagen.",
+  "fullDescription": "**Der komplette Rajasthan-Kreis**\n\nNeun Tage decken die vier Städte ab, die sich tatsächlich voneinander unterscheiden: die rosa Stadt, die blaue Stadt, die goldene Stadt und die Seenstadt. Kürzere Reisepläne müssen eine auslassen, und es ist immer Jaisalmer, die am weitesten entfernte und die, an die sich die Menschen am meisten erinnern.\n\n**Jaipur**\n\nDas **Amber Fort** über dem Maota-See mit dem Sheesh Mahal, der **City Palace**, die Steininstrumente des **Jantar Mantar**, und der **Hawa Mahal**. Abende in den Basaren rund um Johari und Tripolia, wo die Edelsteinschleifer und Lackarmreifmacher noch arbeiten.\n\n**Jodhpur**\n\n**Mehrangarh** erhebt sich 120 Meter direkt aus dem Felsen und wurde niemals eingenommen. Das Museum darin ist das best geführte im Bundesstaat, und die Kanonenball-Narben am zweiten Tor stammen von einer Belagerung durch Jaipur. Darunter **Jaswant Thada** aus Marmor, dünn genug, dass Sonnenlicht hindurchscheint, und die blauen Gassen rund um den Uhrturm, die Farbe war eine Kalk-Kupfer-Tünche, die Termiten abhielt.\n\n**Jaisalmer**\n\nDie Fahrt nach Westen in die Thar. **Sonar Quila**, das goldene Fort von 1156, ist eines der letzten noch lebenden Forts der Erde: etwa dreitausend Menschen leben noch immer innerhalb seiner Mauern.\n\nDie **Jain-Tempel** im Inneren sind bis zur Filigranhaftigkeit geschnitzt. **Patwon ki Haveli** besteht aus fünf Kaufmannshäusern, die Seite an Seite erbaut wurden, und der **Gadisar-See** ist am besten bei Morgendämmerung.\n\nDann die **Sam-Dünen** für eine Kamelfahrt bei Sonnenuntergang und eine Nacht in einem Wüstencamp mit nichts als dem Himmel.\n\n**Udaipur**\n\nDer **City Palace** entlang des Pichola-Sees, über vier Jahrhunderte von zweiundzwanzig Herrschern errichtet. Der **Jagdish-Tempel** von 1651. **Saheliyon ki Bari**, der Brunnengarten, erbaut für die Begleiterinnen einer Königin. Und eine Bootsfahrt bei Sonnenuntergang, die die Reise gebührend beendet.\n\n**Drei Optionen**\n\nPrivatwagen, Fahrer und Führer allein, oder mit Drei- oder Vier-Sterne-Hotels.\n\n**Praktisches**\n\nOktober bis März. Die Wüstenetappen sind von April bis Juni streng, und nachts im Dezember und Januar kalt genug, um eine Jacke zu benötigen.",
+  "highlights": [
+   "Erkunden Sie das Amber Fort, den City Palace, das Jantar Mantar und den Hawa Mahal"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel oder Flughafen",
+   "Privates klimatisiertes Auto mit Fahrer für die gesamte Tour",
+   "Professioneller Reiseführer in jeder Stadt",
+   "8 Nächte Hotelunterkunft (falls Option gewählt)",
+   "Frühstück im Hotel",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parkkosten"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen",
+   "Eintrittskarten zu den Denkmälern",
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",

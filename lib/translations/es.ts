@@ -15901,6 +15901,110 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "05-days-rajasthan-tour-mandawa-jaipur-pushkar-jodh": {
+  "title": "Circuito de Rajastán en 5 días, Mandawa, Jaipur, Pushkar, Jodhpur",
+  "metaTitle": "Rajastán 5 días, Mandawa a Jodhpur",
+  "metaDescription": "Cinco días por Mandawa, Jaipur, Pushkar y Jodhpur en coche privado, con opciones de hotel de tres a cinco estrellas.",
+  "shortDescription": "Cinco días por Mandawa, Jaipur, Pushkar y Jodhpur en coche privado, con opciones de hotel de tres a cinco estrellas.",
+  "fullDescription": "**La ruta que añade Shekhawati**\n\nLa mayoría de los itinerarios de Rajastán se saltan Mandawa, lo cual es un error. Es la puerta de entrada a la región de Shekhawati, y Shekhawati alberga la mayor concentración de edificios pintados del mundo.\n\n**Día 1: Mandawa**\n\nTrayecto desde Delhi, unas seis horas.\n\nAl pueblo se le llama una galería de arte al aire libre, y por una vez la expresión es exacta. Familias de comerciantes del siglo XIX construyeron **havelis** aquí y cubrieron cada pared, por dentro y por fuera, con frescos, dioses, escenas de caza, trenes, gramófonos, aviones, y europeos con sombrero, pintados por artistas que nunca habían visto ninguna de esas cosas.\n\nEl **fuerte de Mandawa** de 1755 se alza por encima. Camine por las calles al final del día, cuando el sol bajo hace resaltar el pigmento.\n\n**Día 2: Jaipur**\n\nUnas cuatro horas al sur. El **fuerte de Amber**, el **City Palace**, el **Jantar Mantar**, el **Hawa Mahal**, y una tarde en los bazares.\n\n**Día 3: Pushkar**\n\nUn pequeño pueblo alrededor de un lago que los hindúes creen que se formó donde Brahma dejó caer un loto. Hay quizá una docena de templos de Brahma en el mundo y este es el principal.\n\nCincuenta y dos **ghats** rodean el agua, y todo el pueblo es estrictamente vegetariano, sin alcohol, huevos ni carne dentro de sus límites municipales, se aplica estrictamente, no es solo una aspiración.\n\nLa **feria de camellos** cae en Kartik, normalmente en noviembre, cuando llegan a la vez cincuenta mil animales y un cuarto de millón de personas.\n\nUna advertencia que vale la pena tener en cuenta: hombres se le acercarán en los ghats ofreciendo bendiciones de \"pasaporte de Pushkar\", y luego exigirán donaciones grandes. Un no educado y firme es todo lo necesario.\n\n**Días 4-5: Jodhpur**\n\n**Mehrangarh** sobre su roca de 120 metros, nunca tomado, con marcas de bala de cañón en la segunda puerta de un sitio de Jaipur. **Jaswant Thada**, de mármol lo bastante fino para que pase el sol. La ciudad azul debajo.\n\n**Cuatro opciones**\n\nCoche privado y guía sin hoteles, o con alojamiento de tres, cuatro o cinco estrellas.\n\nLas tarifas de entrada a los monumentos y las comidas se pagan por separado.",
+  "highlights": [
+   "Visite el fuerte de Amber, el Jal Mahal, el Hawa Mahal, el City Palace y el Jantar Mantar"
+  ],
+  "included": [
+   "Alojamiento con aire acondicionado en habitación individual/doble/triple (si se elige la opción)",
+   "4 desayunos deliciosos en el hotel por persona (si se elige la opción)",
+   "Guía profesional privado (si se elige la opción)",
+   "Llegada y salida en coche privado con aire acondicionado (si se elige la opción)",
+   "Transporte en coche privado con aire acondicionado durante el circuito",
+   "Paseo en elefante en el fuerte de Amber en Jaipur (si se elige la opción)",
+   "2 botellas de agua mineral por persona y día",
+   "Todos los impuestos aplicables, combustible, aparcamiento y peajes"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal",
+   "Tarifas de entrada a los monumentos",
+   "Cualquier vuelo nacional o internacional",
+   "Tarifas de cámara",
+   "Cena de gala de Navidad y Año Nuevo"
+  ]
+ },
+ "11-day-jaipur-udaipur-jodhpur-jaisalmer-bikaner-pu": {
+  "title": "Circuito de 11 días: Jaipur, Udaipur, Jodhpur, Jaisalmer, Bikaner, Pushkar",
+  "metaTitle": "Rajastán completo en 11 días",
+  "metaDescription": "Once días por Rajastán desde Jaipur, Udaipur, Jodhpur, Jaisalmer, Bikaner y Pushkar.",
+  "shortDescription": "Once días por Rajastán desde Jaipur, Udaipur, Jodhpur, Jaisalmer, Bikaner y Pushkar.",
+  "fullDescription": "**Once días, seis ciudades, y nada omitido**\n\nLa mayoría de los itinerarios de Rajastán eliminan primero Bikaner y Pushkar, y luego Jaisalmer. Este los conserva todos, que es lo que realmente exigen las distancias, solo Jaipur a Jaisalmer son 560 km, y Bikaner está 330 km más al norte.\n\n**Jaipur**\n\nEl **fuerte de Amber** sobre el lago Maota, el **City Palace**, los instrumentos de piedra del **Jantar Mantar** y el **Hawa Mahal**, además de los bazares donde los talladores de gemas, los fabricantes de pulseras de laca y los estampadores de bloques todavía trabajan.\n\n**Pushkar**\n\nUn pueblo alrededor de un lago que los hindúes creen que se formó donde Brahma dejó caer un loto, uno de los muy pocos templos de Brahma del mundo, con cincuenta y dos ghats rodeando el agua.\n\n**Estrictamente vegetariano y libre de alcohol** dentro de los límites del pueblo. Se aplica estrictamente.\n\n**Udaipur**\n\nEl **City Palace**, que se extiende casi un kilómetro a lo largo del lago Pichola, construido por partes por veintidós gobernantes a lo largo de cuatro siglos. El **templo de Jagdish** de 1651, **Saheliyon ki Bari**, y un paseo en barca al atardecer con las colinas oscureciéndose detrás del agua.\n\n**Jodhpur**\n\n**Mehrangarh** se eleva 120 metros directamente desde la roca y nunca fue tomado; el museo en su interior es el mejor gestionado del estado. Debajo, **Jaswant Thada**, de mármol lo bastante fino para que pase la luz, y los callejones azules alrededor de la torre del reloj.\n\n**Jaisalmer**\n\n**Sonar Quila**, el fuerte dorado de 1156 y uno de los últimos fuertes vivos del planeta, unas tres mil personas todavía viven dentro de sus murallas. Los **templos jainistas** en su interior están tallados hasta parecer encaje; **Patwon ki Haveli** son cinco mansiones de comerciantes una junto a otra. Luego las **dunas de Sam** para un paseo en camello al atardecer.\n\n**Bikaner**\n\n**Junagarh**, uno de los muy pocos fuertes de Rajastán no construido sobre una colina, y el **templo de Karni Mata** en Deshnoke, donde varios miles de ratas viven como residentes sagradas y se camina descalzo entre ellas. No es para todos, e inolvidable.\n\n**Práctico**\n\nVehículo privado con aire acondicionado y conductor durante todo el recorrido, y guías locales en cada ciudad.\n\nDe octubre a marzo. Los tramos del desierto superan los 45 °C desde abril y se acercan a cero en las noches de diciembre.",
+  "highlights": [
+   "Viva la belleza del desierto con un paseo en camello y un safari en jeep"
+  ],
+  "included": [
+   "Alojamiento en hotel de tres estrellas en cada lugar",
+   "Desayuno durante 11 días",
+   "Paseo en camello, safari en jeep y cena en las dunas de Sam con estancia en campamento en Jaisalmer",
+   "Todos los traslados y visitas durante el circuito en un vehículo con aire acondicionado individual",
+   "Alojamiento y comida del conductor",
+   "Peajes, aparcamiento, combustible, etc.",
+   "Todos los impuestos actualmente aplicables",
+   "El servicio de guía está incluido"
+  ],
+  "notIncluded": [
+   "Almuerzo/cena/bebidas",
+   "Ninguna tarifa de entrada está incluida",
+   "Ningún gasto personal está incluido"
+  ]
+ },
+ "8-days-rajasthan-tour-jaipur-jodhpur-jaisalmer-bik": {
+  "title": "Circuito de Rajastán en 8 días, Jaipur, Jodhpur, Jaisalmer y Bikaner",
+  "metaTitle": "Rajastán del desierto en 8 días",
+  "metaDescription": "Ocho días por Rajastán desde Jaipur vía Jodhpur, Jaisalmer y Bikaner, con hoteles de tres o cuatro estrellas.",
+  "shortDescription": "Ocho días por Rajastán desde Jaipur vía Jodhpur, Jaisalmer y Bikaner, con hoteles de tres o cuatro estrellas.",
+  "fullDescription": "**La mitad desértica de Rajastán**\n\nEsta ruta se salta Udaipur y los lagos y va hacia el oeste en su lugar, Jodhpur, Jaisalmer y Bikaner, que es el Thar y las ciudades caravaneras que surgieron de él.\n\nEs un viaje más seco, más duro y más espectacular que el circuito estándar de Rajastán.\n\n**Jaipur**\n\nEl **fuerte de Amber** sobre el lago Maota con el **Sheesh Mahal**, el **City Palace**, los diecinueve instrumentos de piedra del **Jantar Mantar**, y el **Hawa Mahal**, además de los bazares, donde los talladores de gemas y los fabricantes de pulseras de laca todavía trabajan donde el plan de la ciudad de 1727 los situó.\n\n**Jodhpur**\n\n**Mehrangarh** es el fuerte que cambia la opinión sobre los fuertes indios: 120 metros directamente desde la roca, nunca tomado, y con el museo mejor gestionado del estado en su interior. Las marcas de bala de cañón en la segunda puerta son de un sitio de Jaipur.\n\nDebajo, **Jaswant Thada**, de mármol lo bastante fino para que pase la luz del sol, y los callejones azules alrededor de la torre del reloj, el color era un lavado de cal y cobre que mantenía alejadas a las termitas.\n\n**Jaisalmer**\n\n**Sonar Quila**, construido en 1156 y uno de los últimos fuertes vivos del planeta: unas tres mil personas todavía viven dentro de las murallas, en casas que sus familias conservan desde hace generaciones. La arenisca amarilla se vuelve color miel al atardecer.\n\nLos **templos jainistas** en su interior están tallados hasta parecer encaje. **Patwon ki Haveli** son cinco mansiones de comerciantes construidas una junto a otra en la década de 1800, con celosías jali que se mueven con la luz. El **lago Gadisar**, un embalse del siglo XIV, es mejor al amanecer.\n\nLuego las **dunas de Sam** para un paseo en camello al atardecer y una noche en un campamento desértico.\n\n**Bikaner**\n\nEl **fuerte de Junagarh**, inusualmente construido en terreno llano en lugar de sobre una colina y tampoco tomado nunca. La **granja de cría de camellos** en las afueras del pueblo, y el **templo de Karni Mata** en Deshnoke, donde varios miles de ratas viven como residentes sagradas.\n\n**Dos opciones**\n\nCon hoteles de tres o cuatro estrellas, vehículo privado y guías durante todo el recorrido.\n\n**Práctico**\n\nDe octubre a marzo. El desierto supera los 45 °C desde abril, y las noches de diciembre allí se acercan a cero.",
+  "highlights": [
+   "Admire la arquitectura de los sitios de la UNESCO"
+  ],
+  "included": [
+   "Alojamiento de tres o cuatro estrellas en habitación doble (según la opción elegida)",
+   "Desayuno en el hotel",
+   "Desayuno y cena en el campamento",
+   "Transporte privado con aire acondicionado",
+   "Paseo en camello en las dunas de arena",
+   "Paseo en jeep en Jaipur",
+   "Recogida y traslado de Jaipur a Jaipur",
+   "Visitas turísticas",
+   "Peajes, aparcamiento, combustible, etc.",
+   "Servicio de guía en Jaipur, Jodhpur, Jaisalmer y Bikaner"
+  ],
+  "notIncluded": [
+   "Almuerzo/cena",
+   "Cualquier tarifa de monumento",
+   "Cualquier bebida",
+   "Cualquier gasto personal"
+  ]
+ },
+ "9-days-rajasthan-tour-jaipur-jodhpur-jaisalmer-uda": {
+  "title": "Circuito de Rajastán en 9 días: Jaipur, Jodhpur, Jaisalmer y Udaipur",
+  "metaTitle": "Circuito completo de Rajastán en 9 días",
+  "metaDescription": "Nueve días entre Jaipur, Jodhpur, Jaisalmer y Udaipur, fuertes, el desierto de Thar y los lagos, en coche privado.",
+  "shortDescription": "Nueve días entre Jaipur, Jodhpur, Jaisalmer y Udaipur, fuertes, el desierto de Thar y los lagos, en coche privado.",
+  "fullDescription": "**El circuito completo de Rajastán**\n\nNueve días cubren las cuatro ciudades que realmente difieren entre sí: la ciudad rosa, la ciudad azul, la ciudad dorada y la ciudad del lago. Los itinerarios más cortos tienen que omitir una, y siempre es Jaisalmer, la más alejada y la que la gente recuerda más.\n\n**Jaipur**\n\nEl **fuerte de Amber** sobre el lago Maota con el Sheesh Mahal, el **City Palace**, los instrumentos de piedra del **Jantar Mantar**, y el **Hawa Mahal**. Tardes en los bazares de Johari y Tripolia, donde los talladores de gemas y los fabricantes de pulseras de laca todavía trabajan.\n\n**Jodhpur**\n\n**Mehrangarh** se eleva 120 metros directamente desde la roca y nunca ha sido tomado. El museo en su interior es el mejor gestionado del estado, y las marcas de bala de cañón en la segunda puerta son de un sitio de Jaipur. Debajo, **Jaswant Thada**, de mármol lo bastante fino para que pase la luz del sol, y los callejones azules alrededor de la torre del reloj, el color era un lavado de cal y cobre que mantenía alejadas a las termitas.\n\n**Jaisalmer**\n\nEl trayecto hacia el oeste al Thar. **Sonar Quila**, el fuerte dorado de 1156, es uno de los últimos fuertes vivos del planeta: unas tres mil personas todavía viven dentro de sus murallas.\n\nLos **templos jainistas** en su interior están tallados hasta parecer encaje. **Patwon ki Haveli** son cinco mansiones de comerciantes construidas una junto a otra, y el **lago Gadisar** es mejor al amanecer.\n\nLuego las **dunas de Sam** para un paseo en camello al atardecer y una noche en un campamento desértico con nada más que el cielo.\n\n**Udaipur**\n\nEl **City Palace** a lo largo del lago Pichola, construido por veintidós gobernantes a lo largo de cuatro siglos. El **templo de Jagdish** de 1651. **Saheliyon ki Bari**, el jardín de fuentes construido para las asistentes de una reina. Y un paseo en barca al atardecer, que cierra el viaje como se debe.\n\n**Tres opciones**\n\nCoche privado, conductor y guías solos, o con hoteles de tres o cuatro estrellas.\n\n**Práctico**\n\nDe octubre a marzo. Los tramos del desierto son severos de abril a junio, y lo bastante fríos de noche en diciembre y enero para necesitar una chaqueta.",
+  "highlights": [
+   "Explore el fuerte de Amber, el City Palace, el Jantar Mantar y el Hawa Mahal"
+  ],
+  "included": [
+   "Recogida y traslado al hotel o aeropuerto",
+   "Coche privado con aire acondicionado y conductor para toda la actividad",
+   "Guía turístico profesional en cada ciudad",
+   "8 noches de alojamiento en hotel (si se elige la opción)",
+   "Desayuno en el hotel",
+   "Botella de agua mineral",
+   "Todos los peajes y tasas de aparcamiento"
+  ],
+  "notIncluded": [
+   "Almuerzo y cena",
+   "Entradas a los monumentos",
+   "Cualquier gasto personal"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
