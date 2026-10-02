@@ -16758,6 +16758,102 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittsgebühren für Denkmäler (falls vorhanden)."
   ]
  },
+ "full-day-jaipur-tour-from-delhi-private-all-inclus": {
+  "title": "Ganztägige Jaipur-Tour ab Delhi - Privat und Rundum-Service",
+  "metaTitle": "Jaipur ab Delhi: privater Tag, Rundum-Service",
+  "metaDescription": "Privater Rundum-Service-Tag in Jaipur ab Delhi, Auto, Guide, Frühstücksstopp, Mittagessen und alle Eintrittskarten.",
+  "shortDescription": "Ein privater Rundum-Service-Tag in Jaipur ab Delhi, Auto, Guide, Frühstücksstopp, Mittagessen und alle Eintrittskarten.",
+  "fullDescription": "**Alles bezahlt, bevor Sie Delhi verlassen**\n\nDer Teil eines Jaipur-Tagesausflugs, der Leute überrascht, ist der Ticketschalter: Amber Fort, City Palace und Jantar Mantar zusammen kosten etwa ₹1.500 pro ausländischem Erwachsenen, und jeder hat eine Warteschlange. Die Rundum-Option hier deckt diese ab, plus Mittagessen, sodass der Tag keine Entscheidungen erfordert.\n\n**05:00 bis 06:00 Uhr: Delhi**\n\nPrivates Auto von Ihrem Hotel. Früh, denn die Schnellstraße ist zu dieser Zeit leer, Gurugram jedoch nicht.\n\n**09:30 Uhr: Ankunft und Frühstück**\n\nEin Stopp zum Essen, bevor die Besichtigung beginnt, was nach dreieinhalb Stunden auf der Straße mehr wert ist, als es klingt.\n\n**10:00 bis 12:00 Uhr: Amber Fort**\n\nEin UNESCO-Weltkulturerbe, begonnen 1592 von Raja Man Singh. Zwei Stunden reichen aus, um es richtig zu erleben statt nur den Eingang zu fotografieren und zu gehen.\n\nDas **Ganesh Pol**-Tor mit seinem bemalten Stuck. Der **Sheesh Mahal**, wo Spiegelfragmente in der Decke eine einzige Kerze in einen Himmel verwandelten. Der **Sukh Niwas**, gekühlt durch Wasserkanäle in seinen Wänden. Und das **Zenana**, so angelegt, dass zwölf Königinnen getrennt und privat besucht werden konnten.\n\n**Nachmittag**\n\n**Jal Mahal** vom Damm aus, nur Fotostopp, vier Stockwerke unter Wasser.\n\n**City Palace**, ein Teil davon ist noch immer die königliche Residenz, mit der Waffenkammer und den Silberurnen.\n\n**Jantar Mantar**, neunzehn gemauerte astronomische Instrumente einschließlich der 27 Meter hohen Samrat-Yantra-Sonnenuhr.\n\n**Hawa Mahal**, die 1799 für die Frauen des Hofes erbaute Fassade mit 953 Fenstern.\n\nMittagessen in einem rajasthanischen Restaurant, und die Bazare, wenn der Tag noch Zeit lässt.\n\n**Drei Optionen**\n\nNur Guide in Jaipur; Auto, Fahrer und Guide; oder die Rundum-Version mit Mittagessen und allen Eintrittsgebühren.\n\n**Praktisch**\n\nEtwa elf Stunden von Tür zu Tür. Teilen Sie uns vegetarische, jainistische oder chilifreie Anforderungen bei der Buchung mit, alle drei sind üblich.",
+  "highlights": [
+   "Reisen Sie von Delhi nach Jaipur in einem privaten, klimatisierten Fahrzeug."
+  ],
+  "included": [
+   "Abholung & Rückfahrt zu Hotel/Flughafen",
+   "Privates klimatisiertes Auto für die gesamte Tour mit Fahrer",
+   "Von der Regierung zugelassener Live-Reiseführer",
+   "Eintrittskarten für Denkmäler (falls Option gewählt)",
+   "Mittagessen in einem 5-Sterne-Hotel (falls Option gewählt)",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Jegliche persönlichen Ausgaben"
+  ]
+ },
+ "full-day-pushkar-tour-from-jaipur-with-guide-jeep": {
+  "title": "Ganztägige Pushkar-Tour ab Jaipur mit Guide & Jeep-Safari",
+  "metaTitle": "Pushkar ab Jaipur: Tag mit Guide und Jeep-Safari",
+  "metaDescription": "Ein ganzer Tag von Jaipur nach Pushkar mit einem Guide, und Optionen mit Mittagessen und Wüsten-Jeep-Safari.",
+  "shortDescription": "Ein ganzer Tag von Jaipur nach Pushkar mit einem Guide, und Optionen mit Mittagessen und Wüsten-Jeep-Safari.",
+  "fullDescription": "**Pushkar, und eine Jeep in die Dünen dahinter**\n\n150 km südwestlich von Jaipur, etwa drei Stunden. Die Stadt ist die Attraktion, und die Jeep-Safari bei der umfassenderen Option ist der Grund, diese Version statt eines einfachen Tagesausflugs zu wählen.\n\n**Der See und der Tempel**\n\nHindus glauben, dass der See dort entstand, wo **Brahma einen Lotus fallen ließ**, und dies ist der wichtigste Brahma-Tempel überhaupt, es gibt vielleicht ein Dutzend auf der Welt, da Brahma fast nie direkt verehrt wird.\n\n**Zweiundfünfzig Ghats** umringen das Wasser, jeder von einem anderen Herrscher oder einer anderen adligen Familie erbaut, und Pilger baden dort bei Morgen- und Abenddämmerung.\n\nDer **Brahma-Tempel** stammt in seiner heutigen Form aus dem 14. Jahrhundert auf einem viel älteren Standort, über eine Treppe aus Marmor. Schuhe aus, deutlich vor dem Eingang; Leder bleibt im Auto.\n\nEine Warnung, die sich lohnt: Männer an den Ghats bieten einen **„Pushkar-Pass\"**-Segen an und verlangen dann eine große Spende, manchmal beharrlich. Ein bestimmtes, höfliches Nein reicht.\n\n**Savitri-Tempel**\n\nAuf dem Hügel darüber, über eine lange Treppe oder eine Seilbahn, mit dem ganzen See und der Stadt darunter. Am besten in der letzten Stunde des Lichts.\n\n**Die Jeep-Safari**\n\nIn die Dünen und das Halbwüstengebiet um die Stadt, meist am späten Nachmittag. Ein kleines, echtes Sandgebiet, nicht die eigentliche Thar, die weiter westlich liegt, mit Rajput- und Bishnoi-Dörfern, und Hirschziegenantilopen und Gazellen um die Bishnoi-Siedlungen.\n\nDie **Bishnoi** sind erwähnenswert: eine im 15. Jahrhundert gegründete Sekte mit neunundzwanzig Prinzipien, mehrere davon verbieten das Fällen grüner Bäume oder das Verletzen von Tieren. 1730 wurden dreihundertdreiundsechzig von ihnen getötet, als sie einen Khejri-Baumhain vor den Äxten eines Maharadschas verteidigten, weshalb Wildtiere noch immer frei um ihre Dörfer weiden.\n\n**Vier Optionen**\n\nNur Guide; private Tour mit Guide; mit Guide und Mittagessen; oder mit Guide, Mittagessen und der Jeep-Safari.\n\n**Praktisch**\n\nDie Stadt ist innerhalb ihrer Grenzen **streng vegetarisch und alkoholfrei**. Durchgesetzt.\n\nDas Kamelfest fällt in Kartik, üblicherweise im November.",
+  "highlights": [
+   "Reisen Sie in einem komfortablen klimatisierten Auto mit englischsprachigem Fahrer."
+  ],
+  "included": [
+   "Abhol- und Rückfahrservice vom Hotel, Flughafen oder Bahnhof.",
+   "Ein privates klimatisiertes Fahrzeug für die gesamte Tour.",
+   "Kraftstoff, Parkgebühren, Mautgebühren und zwischenstaatliche Steuern.",
+   "Ein professioneller Guide (optional).",
+   "Wasser in Flaschen für Gäste.",
+   "Traditionelles rajasthanisches Mittagessen (optional)",
+   "Jeep-Safari (optional)",
+   "Alle staatlichen Steuern, einschließlich der Waren- und Dienstleistungssteuer (GST)."
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben, wie Einkaufen oder zusätzliche nicht im Reiseplan enthaltene Aktivitäten.",
+   "Trinkgeld."
+  ]
+ },
+ "jaipur-2-day-city-sightseeing-tour-with-cab-guide": {
+  "title": "Jaipur: 2-tägige Stadtbesichtigungstour mit Taxi & Guide",
+  "metaTitle": "Jaipur: 2-tägige Tour mit Taxi und Guide",
+  "metaDescription": "Zwei Tage Jaipur-Besichtigung mit Taxi und Guide, die Altstadt am ersten Tag, die Forts am zweiten.",
+  "shortDescription": "Zwei Tage Jaipur-Besichtigung mit einem Taxi und Guide, die Altstadt am ersten Tag, die Forts am zweiten.",
+  "fullDescription": "**Zwei Tage, was Jaipur tatsächlich verdient**\n\nJeder macht Jaipur an einem Tag. Zwei Tage bedeuten, dass die Altstadt einen eigenen Morgen bekommt und die Hügelforts einen weiteren, und keiner ist ein Gewaltmarsch.\n\n**Tag 1: die ummauerte Stadt**\n\nAbholung von Ihrem Hotel, dem Flughafen Jaipur oder dem Bahnhof.\n\n**Hawa Mahal** zuerst, für das Morgenlicht auf der Fassade. 1799 als Erweiterung des Zenana des City Palace erbaut: **953 Fenster** über fünf Stockwerke, und für den größten Teil der Höhe weniger als einen Meter tief, ein Sichtschutz, damit die Frauen des Hofes Straßenprozessionen unbeobachtet ansehen konnten, mit einem Gitterwerk, das den Luftstrom beschleunigt und die Gänge dahinter kühlt.\n\n**City Palace**, ein Teil davon ist noch immer das Zuhause der königlichen Familie, mit der Waffenkammer, den Textilgalerien und den beiden Silberurnen im Diwan-i-Khas, den größten Silberobjekten der Welt, gegossen, damit ein Maharadscha Ganges-Wasser nach England bringen konnte.\n\n**Jantar Mantar** direkt nebenan: neunzehn gemauerte astronomische Instrumente aus den 1730er Jahren, UNESCO-gelistet, mit einer 27 Meter hohen Sonnenuhr, die noch auf etwa zwei Sekunden genau ist.\n\nDann die Bazare, **Johari** für Edelsteine und Kundan-Arbeiten, **Tripolia** für Lack-Armreifen, die vor Ihnen über einer Flamme gefertigt werden, **Bapu Bazaar** für Blockdruck und Mojari-Schuhe.\n\n**Tag 2: die Hügel**\n\n**Amber Fort** früh, vor den Reisebussen: das **Ganesh Pol**-Tor, der **Sheesh Mahal**, und der wassergekühlte **Sukh Niwas**.\n\n**Panna Meena ka Kund**, der Stufenbrunnen aus dem 16. Jahrhundert darunter, sich kreuzende Treppen, die acht Stockwerke hinabführen und fast immer leer sind.\n\n**Jaigarh** darüber, mit der **Jaivana**, der größten je gegossenen Räderkanone, genau einmal abgefeuert.\n\nUnd **Nahargarh** bei Sonnenuntergang, mit dem ganzen Raster der ummauerten Stadt darunter.\n\n**Drei Optionen**\n\nAuto und Fahrer; Auto mit einem Guide; oder Auto, Guide und alle Eintritte zu den Denkmälern.\n\n**Praktisch**\n\nEintrittsgebühren betragen etwa ₹1.500 pro Kopf für einen ausländischen Erwachsenen, wo nicht inklusive.",
+  "highlights": [
+   "Entdecken Sie Amber Fort & Jantar Mantar, zwei UNESCO-Weltkulturerbestätten."
+  ],
+  "included": [
+   "Abholung & Rückfahrt zu Hotel/Flughafen",
+   "Ein privates klimatisiertes Fahrzeug mit englischsprachigem Fahrer",
+   "Privater Reiseführer",
+   "Parken, Benzin und staatliche Steuer",
+   "Wasser in Flaschen",
+   "Eintrittsgebühren für Denkmäler (falls diese Option gewählt wird)"
+  ],
+  "notIncluded": [
+   "Unterkunft",
+   "Essen und Getränke",
+   "Trinkgeld"
+  ]
+ },
+ "jaipur-3-days-jaisalmer-jaipur-sightseeing-tour": {
+  "title": "Jaipur: 3-tägige Jaisalmer- & Jaipur-Besichtigungstour",
+  "metaTitle": "Jaipur: 3 Tage Jaisalmer und Jaipur",
+  "metaDescription": "Drei Tage mit Jaipur und Jaisalmer, der goldenen Wüstenstadt, mit Flug oder Zug zwischen beiden.",
+  "shortDescription": "Drei Tage mit Jaipur und Jaisalmer, der goldenen Wüstenstadt, mit Flug oder Zug zwischen beiden.",
+  "fullDescription": "**Zwei Städte, die sich überhaupt nicht ähneln**\n\nJaipur ist rosa Sandstein in einem Tal. Jaisalmer ist gelber Sandstein, der sich 560 km westlich aus der Thar-Wüste erhebt, und das einzige Fort in Indien, in dem noch Menschen leben. Die Verbindung per Flug oder Zug statt auf der Straße macht drei Tage ausreichend.\n\n**Tag 1: Jaipur**\n\n**Amber Fort** zum Start, der Hügelkomplex über dem Maota-See mit dem **Sheesh Mahal**, wo Spiegelfragmente eine einzige Flamme in eine Lichtdecke verwandeln. Eine Jeep fährt die Rampe hinauf, falls Sie sie nicht gehen möchten.\n\n**Panna Meena ka Kund** direkt darunter: ein Stufenbrunnen aus dem 16. Jahrhundert mit sich kreuzenden symmetrischen Treppen, die acht Stockwerke hinabführen, fast immer ruhig, da die Reisebusse dort nicht halten.\n\nDann die Altstadt, **City Palace**, **Jantar Mantar**, **Hawa Mahal**, und abends die Bazare.\n\n**Tag 2-3: Jaisalmer**\n\n**Sonar Quila**, das goldene Fort, 1156 erbaut und eines der sehr wenigen noch bewohnten Forts der Welt: etwa dreitausend Menschen leben noch innerhalb seiner Mauern, in Häusern, die ihre Familien seit Generationen besitzen. Der gelbe Sandstein wird bei Sonnenuntergang honigfarben, daher der Name.\n\nDie **Jain-Tempel** im Inneren, aus dem 12. bis 16. Jahrhundert, sind so dicht geschnitzt, dass der Stein wie Spitze aussieht.\n\n**Patwon ki Haveli**, fünf Kaufmannshäuser, die in den 1800er Jahren Seite an Seite gebaut wurden, mit Jali-Gittern, die so fein geschnitten sind, dass sie sich im Licht zu bewegen scheinen.\n\n**Gadisar-See**, ein im 14. Jahrhundert angelegtes Reservoir, am besten bei Sonnenaufgang mit den Zugvögeln.\n\n**Die Wüste**\n\n**Sam-Sanddünen**, 40 km entfernt, für eine Kamelfahrt bei Sonnenuntergang und eine Nacht unter dem Himmel. Das Lager ist je nach gebuchter Option entweder einfach oder ein Luxuszelt.\n\n**Zwei Optionen**\n\nVon der Regierung zugelassener Guide, Transport und Zug- oder Flugtickets; oder dasselbe mit einem Fünf-Sterne-Hotel und Wüstencamp, Mittagessen und Denkmal-Tickets inklusive.\n\n**Praktisch**\n\nOktober bis März. April bis Juni überschreitet die Thar regelmäßig 45°C und der Wüstenabschnitt wird wirklich unangenehm.\n\nWüstennächte im Dezember und Januar sinken nahe an den Gefrierpunkt. Bringen Sie eine Jacke mit.",
+  "highlights": [
+   "Entdecken Sie Jaipurs Amber Fort, City Palace und Hawa Mahal"
+  ],
+  "included": [
+   "Unterkunft in Jaipur und Jaisalmer (5-Sterne-Hotel und Wüstencamp) (falls die Option gewählt wurde)",
+   "Tägliches Frühstück im Wüstencamp",
+   "Wüstensafari bei den Sam-Sanddünen (falls die Option gewählt wurde)",
+   "Eintrittsgebühren für Denkmäler (falls die Option gewählt wurde)",
+   "Kulturabend mit Volkstanz und Musik (falls die Option gewählt wurde)",
+   "Hin- und Rückflug- und Zugticket (falls die Option gewählt wurde)",
+   "Besichtigungen gemäß Reiseplan",
+   "Professioneller, von der Regierung zugelassener Guide",
+   "Alle Transfers und Besichtigungen im luxuriösen privaten klimatisierten Fahrzeug",
+   "Fahrerzulage, Parken und Mautgebühren"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen",
+   "Persönliche Ausgaben",
+   "Trinkgeld"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
