@@ -12417,6 +12417,110 @@ export const FR_TOURS: Record<string, TourT> = {
    "Droits d'entrée aux monuments"
   ]
  },
+ "from-delhi-private-3-day-golden-triangle-tour-by": {
+  "title": "Depuis Delhi : Triangle d'or privé de 3 jours en voiture",
+  "metaTitle": "Triangle d'or privé 3 jours en voiture",
+  "metaDescription": "Un Triangle d'or privé de trois jours depuis Delhi en voiture, avec prise en charge flexible entre 7h et midi.",
+  "shortDescription": "Un Triangle d'or privé de trois jours depuis Delhi en voiture, avec prise en charge flexible entre 7h et midi.",
+  "fullDescription": "**Une fenêtre de prise en charge plutôt qu'une heure fixe**\n\nEntre 7h00 et 12h00 le premier jour, ce qui est inhabituellement flexible, cela signifie que vous pouvez atterrir à Delhi le matin et commencer le même jour plutôt que de perdre une nuit.\n\n**Jour 1 : Delhi, puis Agra**\n\nVotre chauffeur et votre guide vous briefent à la prise en charge puis vous font découvrir les points forts de la capitale avant le trajet vers le sud.\n\nLa **Jama Masjid**, **Chandni Chowk** en cyclo-pousse, **India Gate**, et **Qutub Minar** ou le **tombeau de Humayun** selon le temps restant dans la journée.\n\nPuis la **Yamuna Expressway** vers Agra, environ trois heures et demie.\n\n**Jour 2 : Agra, puis Jaipur**\n\nLe **Taj Mahal** au lever du soleil, gris, puis rose, puis blanc à mesure que le soleil dépasse le fleuve, avec une fraction de la foule de milieu de matinée.\n\nShah Jahan l'a commencé en 1632, l'année après la mort de Mumtaz Mahal en donnant naissance à leur quatorzième enfant. Vingt-deux ans, vingt mille ouvriers, marbre transporté sur 400 km depuis Makrana.\n\nVotre guide explique la **calligraphie** taillée en tailles croissantes pour se lire uniformément depuis le sol, l'incrustation en **pietra dura** de dizaines de pierres par fleur, les quatre **minarets** inclinés vers l'extérieur pour qu'un tremblement de terre les fasse tomber loin du tombeau, et l'unique asymétrie de toute la composition.\n\nLe **fort d'Agra** ensuite, et **Fatehpur Sikri** sur la route vers l'ouest.\n\n**Jour 3 : Jaipur**\n\nLe **fort d'Amber** avant les autocars, puis le **Jal Mahal**, le **City Palace**, le **Jantar Mantar** et le **Hawa Mahal**, et le retour à Delhi.\n\n**Quatre options**\n\nUn tarif guide seul à Agra ; une journée voiture et guide commençant à Agra ; le circuit privé de trois jours avec voiture, chauffeur et guide ; ou la même chose avec déjeuner et entrées incluses.\n\n**Pratique**\n\n**Le Taj est fermé le vendredi.**\n\nLes droits d'entrée s'élèvent à environ 2 600 ₹ par personne pour un adulte étranger lorsqu'ils ne sont pas inclus.",
+  "highlights": [
+   "Découvrez Delhi, Agra et Jaipur lors d'un voyage de 3 jours sans accroc"
+  ],
+  "included": [
+   "Circuit privé du Triangle d'or de 3 jours (Delhi, Agra et Jaipur)",
+   "Prise en charge et retour à l'hôtel (Delhi / aéroport)",
+   "Voiture privée climatisée avec chauffeur professionnel",
+   "Guides locaux experts à tous les monuments majeurs",
+   "Expérience en cyclo-pousse dans le vieux Delhi",
+   "Trajet en bus électrique à l'entrée du Taj Mahal",
+   "Eau minérale en bouteille pendant les trajets",
+   "Tous les péages, carburant, taxes, emballage",
+   "Si l'option est choisie : 2 nuits d'hébergement en hôtel (options 3, 4 ou 5 étoiles)",
+   "Petit-déjeuner quotidien à l'hôtel",
+   "Tous les billets d'entrée aux monuments (option tout compris)"
+  ],
+  "notIncluded": [
+   "Dîner",
+   "Dépenses personnelles et shopping",
+   "Pourboires"
+  ]
+ },
+ "from-delhi-same-day-varanasi-tour-by-flight-with": {
+  "title": "Depuis Delhi : visite de Varanasi dans la journée en avion avec balade en bateau",
+  "metaTitle": "Varanasi en un jour, en avion",
+  "metaDescription": "Varanasi en une seule journée depuis Delhi en avion, Sarnath, Kashi Vishwanath, un bateau sur le Gange et l'aarti du soir.",
+  "shortDescription": "Varanasi en une seule journée depuis Delhi en avion, Sarnath, Kashi Vishwanath, un bateau sur le Gange et l'aarti du soir.",
+  "fullDescription": "**Varanasi et retour entre deux nuits**\n\nDelhi à Varanasi fait 800 km. Par la route, c'est une journée dans chaque sens ; en avion, c'est quatre-vingt-dix minutes, la seule façon que cela fonctionne en une seule journée. Vol matinal à l'aller, vol du soir au retour, et une journée complète au sol avec voiture et guide.\n\nC'est une longue journée qui couvre énormément. Si vous pouvez vous permettre une nuit, restez, mais ceci existe parce que la plupart des gens sur un voyage de deux semaines en Inde ne le peuvent pas.\n\n**Sarnath**\n\nPremier arrêt, à dix kilomètres du côté aéroport de la ville. C'est ici que Bouddha a prononcé son premier sermon après l'illumination, exposant les Quatre Nobles Vérités à cinq compagnons dans un parc à cerfs.\n\nLe **stupa de Dhamek** marque l'endroit, un cylindre de brique et de pierre de 43 mètres, la structure actuelle datant d'environ 500 de notre ère. Le **stupa de Chaukhandi** marque l'endroit où il a rencontré ces compagnons. Et le **pilier d'Ashoka**, dont le chapiteau à quatre lions se trouve au musée ici : cette sculpture est l'original de l'**emblème national de l'Inde**, celui que l'on trouve sur chaque billet et passeport indien.\n\nLe musée est petit, excellent, et sans photographie.\n\n**Kashi Vishwanath**\n\nLe temple de Shiva au cœur de la vieille ville, l'un des douze **jyotirlinga**, et parmi les sites religieux les plus visités d'Inde. La sécurité est stricte, les files sont longues, et les téléphones et sacs ne sont pas autorisés, laissez-les dans la voiture.\n\nLes ruelles autour sont trop étroites pour tout véhicule et constituent la plus ancienne partie habitée de la ville.\n\n**Le bateau**\n\nSur le Gange en fin d'après-midi, le long des ghats. Toute la façade du fleuve se lit comme une seule paroi de pierre continue depuis l'eau, telle qu'elle a été conçue pour être vue.\n\nLes feux de crémation de **Manikarnika** brûlent sans interruption depuis des siècles. **La photographie y est interdite**, absolument, et votre guide vous indiquera où se situe la limite.\n\n**Ganga Aarti**\n\nAu ghat de Dashashwamedh après la tombée de la nuit : lampes de laiton à étages, cloches, conques et encens, exécutée par des prêtres se déplaçant en parfaite unisson devant des milliers de personnes sur les marches.\n\nPuis l'aéroport, et Delhi de nuit.\n\n**Inclus**\n\nVols aller-retour, voiture privée, guide agréé, et le bateau.",
+  "highlights": [
+   "Explorez le stupa de Dhamek, le stupa de Chaukhandi, le pilier d'Ashoka"
+  ],
+  "included": [
+   "Prise en charge et retour",
+   "Voiture privée climatisée pour toute l'activité",
+   "Guide touristique en direct",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement",
+   "Une balade en bateau sur le Gange",
+   "Petit-déjeuner ou déjeuner",
+   "Billet d'entrée"
+  ],
+  "notIncluded": [
+   "Billets d'avion",
+   "Toute dépense personnelle",
+   "Pourboires"
+  ]
+ },
+ "from-delhi-to-varanasi-tour-2-days": {
+  "title": "Circuit de Delhi à Varanasi (2 jours)",
+  "metaTitle": "Delhi à Varanasi en 2 jours",
+  "metaDescription": "Deux jours depuis Delhi vers Varanasi, le bateau de l'aube, la Ganga Aarti et les ruelles de la vieille ville.",
+  "shortDescription": "Deux jours depuis Delhi vers Varanasi, le bateau de l'aube, la Ganga Aarti et les ruelles de la vieille ville.",
+  "fullDescription": "**Une aube et une soirée, ce qui constitue l'essentiel de Varanasi**\n\nLa ville a besoin de ces deux heures plus que d'un long séjour. Ceci est construit autour d'elles.\n\n**Le bateau de l'aube**\n\nLa raison de venir. Un bateau à rames le long des ghats dès la première lumière, quand toute la façade du fleuve se tourne vers le soleil levant : des milliers de personnes se baignant, lavant leur linge, priant, pratiquant le yoga sur les marches, des prêtres sous des parasols en feuilles de palmier, des buffles debout dans les eaux peu profondes.\n\nDepuis l'eau, les ghats se lisent comme une seule façade de pierre continue, telle qu'ils étaient censés être vus. Les palais au-dessus ont été construits par des maharajas de toute l'Inde qui voulaient une maison sur ce fleuve.\n\n**Manikarnika** se trouve sur ce tronçon. Ses feux de crémation brûlent sans interruption depuis des siècles, car les hindous considèrent que mourir à Varanasi met fin au cycle des réincarnations, et des corps arrivent ici de tout le pays.\n\n**La photographie y est interdite.** C'est absolu, votre guide vous indiquera où se situe la limite, et ce sont des funérailles.\n\n**La Ganga Aarti**\n\nAu ghat de Dashashwamedh après la tombée de la nuit : sept prêtres sur des plateformes surélevées avec des lampes de laiton à étages, des conques, des cloches, de l'encens et des tambours, bougeant en parfaite unisson pendant environ quarante-cinq minutes, devant des milliers de personnes sur les marches et dans des bateaux.\n\nUn bateau offre la meilleure place si vous pouvez en avoir un.\n\n**La vieille ville**\n\nDes ruelles trop étroites pour tout véhicule et parmi les plus anciennes habitées en continu au monde. **Kashi Vishwanath**, l'un des douze jyotirlinga, la sécurité est stricte et les téléphones et sacs ne sont pas autorisés. Des ateliers de tisserands de soie, et du kachori-sabzi debout au petit-déjeuner.\n\n**Sarnath**, à onze kilomètres, où Bouddha a prononcé son premier sermon ; le chapiteau au lion d'Ashoka dans son musée est l'original de l'emblème national de l'Inde.\n\n**Pratique**\n\nUne nuit, avec transferts, un guide local et le bateau inclus.\n\nChaussures retirées dans les temples, tenue modeste, et peu d'effets personnels à l'aarti, la foule y est dense.",
+  "highlights": [
+   "Assistez au rituel matinal de la Ganga Aarti au ghat de Dashashwamedh"
+  ],
+  "included": [
+   "Visite en bateau tôt le matin",
+   "Expérience de la Ganga Aarti",
+   "Visite du ghat de Manikarnika",
+   "Trajet retour en train via le Vande Bharat Express",
+   "Transferts locaux en ville à Varanasi et Delhi",
+   "Repas à bord du train",
+   "Guide touristique anglophone accompagnant",
+   "Frais de carburant et de stationnement sur tous les sites",
+   "Billets d'entrée à Sarnath et au temple de Kashi Vishwanath"
+  ],
+  "notIncluded": [
+   "Hébergement en hôtel",
+   "Dépenses personnelles",
+   "Repas pendant la visite de la ville de Varanasi",
+   "Shopping",
+   "Pourboires et gratifications"
+  ]
+ },
+ "from-delhi-tungnath-chandrashila-trek-tour-5-dyas": {
+  "title": "Depuis Delhi : circuit de trek Tungnath Chandrashila, 5 jours",
+  "metaTitle": "Trek Tungnath Chandrashila, 5 jours",
+  "metaDescription": "Un trek de cinq jours depuis Delhi vers Chopta, Tungnath et Chandrashila, le plus haut temple de Shiva au monde.",
+  "shortDescription": "Un trek de cinq jours depuis Delhi vers Chopta, Tungnath et Chandrashila, le plus haut temple de Shiva au monde.",
+  "fullDescription": "**Un vrai trek, avec un temple au sommet**\n\n**Tungnath** se trouve à 3 680 mètres et est le plus haut temple de Shiva au monde. **Chandrashila**, le sommet au-dessus, s'élève encore de 400 mètres, et depuis là on peut voir Nanda Devi, Trishul, Kedar Dome et Chaukhamba à l'horizon par une matinée claire.\n\nC'est l'un des treks d'altitude les plus accessibles d'Inde, ce qui le rend adapté aux personnes sans expérience de la montagne, mais cela reste un trek, pas une promenade.\n\n**Y aller**\n\nDelhi à **Chopta** représente un long trajet, généralement avec une escale nocturne. Chopta est une clairière prairie dans une forêt dense à environ 2 700 mètres, souvent appelée la mini Suisse de l'Inde, avec presque rien sur place à part quelques cabanes.\n\n**La montée**\n\nDe Chopta à Tungnath, 3,5 km de chemin pavé de pierre, s'élevant d'environ 1 000 mètres. La plupart des gens prennent deux à trois heures. C'est raide et continu mais jamais technique, et il y a des échoppes de thé en chemin.\n\n**Tungnath** est l'un des **Panch Kedar**, les cinq temples où Shiva serait apparu sous forme de parties d'un taureau après la guerre du Mahabharata. Le temple est petit, sombre, ancien et complètement différent de tout ce qui se trouve plus bas. Il ferme début novembre pour l'hiver, quand la divinité est descendue à Mukkumath.\n\n**Chandrashila** représente encore 1,5 km et 400 mètres plus raides. Partez à l'aube : tout l'Himalaya du Garhwal devient rose avant que les vallées n'aient la moindre lumière.\n\n**Deoria Tal**\n\nGénéralement inclus, un petit lac qui reflète parfaitement Chaukhamba par une matinée calme, accessible par une marche de 2,5 km depuis le village de Sari.\n\n**Pratique**\n\nL'altitude est la vraie considération. 4 000 mètres suffisent pour se faire sentir ; marchez lentement, buvez plus d'eau que vous ne le voudriez, et prévenez immédiatement votre guide en cas de maux de tête ou de nausées.\n\n**Idéal d'avril à juin et de septembre à novembre.** Le temple ferme pour l'hiver, et la mousson rend le chemin périlleux.\n\nDe bonnes chaussures de marche, des couches de vêtements, et un coupe-vent, le sommet est froid à l'aube quel que soit le mois.",
+  "highlights": [
+   "Ressentez l'excitation de randonner jusqu'au plus haut temple de Shiva au monde"
+  ],
+  "included": [
+   "Hébergement en hôtels/pensions/camps (chambres doubles)",
+   "Petit-déjeuner et dîner quotidiens",
+   "Transferts confortables depuis Delhi (véhicule climatisé)",
+   "Trek guidé vers Tungnath et Chandrashila",
+   "Feu de camp (selon la météo)",
+   "Tous les péages, le stationnement et les indemnités de chauffeur"
+  ],
+  "notIncluded": [
+   "Billets d'avion ou de train vers Delhi",
+   "Déjeuner et dépenses personnelles",
+   "Tout ce qui n'est pas mentionné dans les inclusions"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
