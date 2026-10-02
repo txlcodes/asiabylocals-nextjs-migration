@@ -6208,6 +6208,55 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "taj-mahal-express-entry-ticket-no-waiting-instant-": {
+  "title": "Taj Mahal : billet d'entrée express, sans attente, accès immédiat",
+  "metaTitle": "Taj Mahal : entrée express, guide agréé",
+  "metaDescription": "Entrée express au Taj Mahal avec un guide agréé par le gouvernement, sans file pour les billets, environ trois heures.",
+  "shortDescription": "Entrée express au Taj Mahal avec un guide agréé par le gouvernement, sans file pour les billets, environ trois heures.",
+  "fullDescription": "**Ce que le billet express achète réellement**\n\nLe Taj a des guichets et des couloirs d'entrée séparés. Un matin d'hiver, le guichet principal peut coûter quarante-cinq minutes avant même d'atteindre la sécurité. L'entrée prioritaire organisée à l'avance vous met directement dans le couloir le plus court.\n\nElle ne saute pas le contrôle de sécurité, et rien ne le saute. La liste des interdits est appliquée sans discussion : pas de trépied, pas de drone, pas de nourriture, pas de grands sacs, pas de cigarettes ni de briquets. Téléphones et petits appareils photo passent sans problème. Des casiers à la porte pour le reste.\n\n**Rencontre avec votre guide**\n\nUn guide agréé par le gouvernement vous retrouve près de l'entrée. Cet agrément compte à Agra, où des guides non agréés travaillent chaque porte, et la différence dans ce que vous apprenez est considérable.\n\n**À l'intérieur du complexe**\n\nPar le **Darwaza-i-Rauza**, la grande porte de grès rouge, où le Taj apparaît dans l'arc et, en raison d'une astuce de proportion délibérée, semble rétrécir à mesure qu'on s'en approche.\n\nPuis le **charbagh**, le jardin en quatre parties divisé par des canaux d'eau, aménagé pour que le tombeau se reflète sur toute la longueur du bassin central.\n\nSur la plateforme : la **calligraphie** de l'arc principal, gravée en lettres de plus en plus grandes pour paraître uniforme depuis le sol ; les incrustations de **pietra dura**, où une seule fleur peut porter soixante morceaux de cornaline, de jaspe, de lapis et de jade ; et les quatre **minarets**, chacun légèrement incliné vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau plutôt que sur lui.\n\nDans la chambre, le claustra et les deux cénotaphes, et la seule asymétrie d'un édifice parfaitement symétrique, le tombeau de Shah Jahan lui-même, placé hors du centre par son fils après sa mort.\n\n**Quatre options**\n\nGuide seul ; guide avec voiture privée et chauffeur ; guide avec billets des monuments ; ou le tout ensemble.\n\n**Pratique**\n\n**Fermé tous les vendredis.** L'entrée pour les ressortissants étrangers est de 1,100 ₹, plus 200 ₹ pour la chambre du mausolée.\n\nLa première heure après l'ouverture est la meilleure de la journée, plus fraîche, plus calme, et le marbre passe du gris au rose puis au blanc à mesure que le soleil monte.",
+  "highlights": [
+   "Évitez les longues files en bénéficiant d'une entrée prioritaire organisée à l'avance au Taj Mahal."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour les transferts",
+   "Guide local expert agréé par le gouvernement",
+   "Billets d'entrée du Taj Mahal (selon l'option choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute nourriture",
+   "Toutes dépenses personnelles"
+  ]
+ },
+ "taj-mahal-fastest-guided-tour": {
+  "title": "Depuis Delhi : Taj Mahal dans la journée avec le train le plus rapide d'Inde (à partir de 160 $)",
+  "metaTitle": "Delhi-Taj Mahal en Gatimaan Express : départ à 7h",
+  "metaDescription": "Une journée privée à Agra depuis Delhi en Gatimaan Express avec prise en charge à 7h, petit-déjeuner chaud à bord et un guide.",
+  "shortDescription": "Une journée privée à Agra depuis Delhi en Gatimaan Express avec prise en charge à 7h, petit-déjeuner chaud à bord et un guide.",
+  "fullDescription": "**Prise en charge à 7h00, et le petit-déjeuner se prend dans le train**\n\nAssez tôt pour compter, assez tard pour rester civilisé. Votre chauffeur vous récupère à sept heures, vous emmène à la gare de **Hazrat Nizamuddin**, et vous montez dans le **Gatimaan Express**, le train le plus rapide d'Inde, 160 km/h, Delhi-Agra en cent minutes, avec un petit-déjeuner chaud servi à la place.\n\n**À Agra**\n\nUne voiture privée climatisée et un guide local agréé vous retrouvent à Agra Cantt.\n\n**Taj Mahal.** Shah Jahan l'a commencé en 1632, l'année suivant la mort de Mumtaz Mahal en donnant naissance à leur quatorzième enfant. Vingt mille ouvriers et vingt-deux ans ; le marbre est venu de Makrana, à 400 km, par charrette à bœufs.\n\nCe que le guide vous apporte, c'est le savoir-faire plutôt que la romance : la **calligraphie** gravée en lettres de plus en plus grandes pour se lire d'une hauteur égale depuis le sol ; la **pietra dura**, jusqu'à soixante pierres dans une seule fleur incrustée ; les quatre **minarets**, légèrement inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau ; et l'illusion d'optique à la porte, où l'édifice semble rétrécir à mesure qu'on s'en approche.\n\nEt le cénotaphe de Shah Jahan lui-même, la seule chose de tout l'édifice placée hors de l'axe central, ajoutée par Aurangzeb après sa mort.\n\n**Le fort d'Agra.** La ville de grès rouge d'Akbar, 1565, avec les palais de marbre de Shah Jahan à l'intérieur, et le **Musamman Burj**, la tour octogonale sur la muraille du fleuve où Aurangzeb l'a enfermé les huit dernières années de sa vie, le Taj visible le long de l'eau.\n\nPuis le Gatimaan du soir pour rentrer à Delhi.\n\n**Deux options**\n\nL'excursion privée avec train, voiture et guide ; ou la version plus complète avec billets et repas compris.\n\n**Pratique**\n\nLe Gatimaan ne circule pas le vendredi, qui est aussi le jour de fermeture du Taj, les deux s'alignent donc parfaitement.\n\nLes places sont limitées et mises en vente à date fixe, réservez donc dès que possible. Emportez le passeport utilisé pour la réservation ; les chemins de fer indiens contrôlent l'identité par rapport au billet.",
+  "highlights": [
+   "Profitez de l'expérience du voyage à bord d'un train indien."
+  ],
+  "included": [
+   "Prise en charge et retour à la gare.",
+   "Visites et transferts en voiture privée climatisée",
+   "Billets de train aller-retour",
+   "Guide touristique privé et informatif",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Pourboires et gratifications (recommandés)",
+   "Hébergement à Agra",
+   "Frais de repas",
+   "Droits d'entrée des monuments et frais de caméra",
+   "Dépenses personnelles",
+   "Autres activités",
+   "Billet d'avion, de train ou de bus",
+   "Pourboires du chauffeur et du guide"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Réservez un guide officiel pour explorer Bengaluru",
   "metaTitle": "Bengaluru avec guide : palais, Lalbagh, temples et bazars",
