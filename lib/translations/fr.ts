@@ -5570,6 +5570,50 @@ export const FR_TOURS: Record<string, TourT> = {
    "Tout ce qui n'est pas mentionné ci-dessus"
   ]
  },
+ "from-delhi-taj-mahal-tour-with-agra-fort-fatehpur": {
+  "title": "Depuis Delhi : Taj Mahal avec le fort d'Agra et Fatehpur Sikri",
+  "metaTitle": "Delhi : Taj Mahal, fort d'Agra et Fatehpur Sikri, 1 jour",
+  "metaDescription": "Taj Mahal, fort d'Agra et Fatehpur Sikri en une journée depuis Delhi en voiture privée, départ à 6h.",
+  "shortDescription": "Taj Mahal, fort d'Agra et Fatehpur Sikri en une journée depuis Delhi en voiture privée, départ à 6h.",
+  "fullDescription": "**Trois sites de l'UNESCO, douze heures, une voiture**\n\nLe Taj et le fort sont à deux heures de marche l'un de l'autre. Fatehpur Sikri se trouve quarante kilomètres plus à l'ouest. Faire les trois depuis Delhi en une journée est possible avec un départ à 6h, et voici cette journée.\n\n**06h00, Delhi**\n\nPrise en charge à votre hôtel ou à l'aéroport à Delhi, Noida ou Gurugram, puis la Yamuna Expressway en voiture privée climatisée.\n\n**09h00, Agra**\n\nVotre guide local agréé vous retrouve.\n\n**Taj Mahal** d'abord. Shah Jahan l'a commencé en 1632, l'année suivant la mort de Mumtaz Mahal. Ce qu'un guide vous apporte, c'est le savoir-faire plutôt que les dates : la **calligraphie** gravée plus grande à mesure qu'elle s'élève pour se lire d'une hauteur égale depuis le bas ; les fleurs de **pietra dura** faites de dizaines de pierres incrustées ; les **minarets** inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau ; et la seule asymétrie volontaire, le cénotaphe de Shah Jahan, placé hors de l'axe par Aurangzeb.\n\n**Le fort d'Agra** ensuite, la place forte en grès rouge d'Akbar, 1565, avec les palais de marbre de son petit-fils à l'intérieur, et le **Musamman Burj**, la tour où Aurangzeb a retenu ce petit-fils prisonnier les huit dernières années de sa vie, le Taj en vue le long du fleuve.\n\n**Fatehpur Sikri**\n\nÀ l'ouest dans l'après-midi. Akbar a bâti cette capitale en 1571 et l'a abandonnée quatorze ans plus tard, faute d'eau, et c'est la raison pour laquelle elle subsiste intacte, personne n'y a vécu assez longtemps pour la modifier.\n\nLe **Buland Darwaza**, 54 mètres de porte triomphale, avec une inscription citant Jésus gravée sur une mosquée moghole. Le **Panch Mahal**, cinq étages ouverts qui se retirent en montant. Le **Diwan-i-Khas**, avec son unique pilier central sculpté et quatre passerelles vers les angles, où Akbar siégeait pendant que les représentants de différentes confessions débattaient autour de lui. Et le **dargah de Salim Chishti** en marbre, dont les claustras portent encore les fils noués par ceux qui demandent un enfant.\n\n**Trois options**\n\nGuide seul ; voiture privée, chauffeur et guide ; ou tout avec déjeuner et droits d'entrée.\n\n**Le Taj est fermé le vendredi**, les deux autres sites ne le sont pas.",
+  "highlights": [
+   "Voyagez confortablement dans une voiture privée climatisée avec un chauffeur professionnel."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour toute la durée de la visite",
+   "Guide touristique agréé par le gouvernement",
+   "Billets d'entrée des monuments (selon l'option choisie)",
+   "Déjeuner dans un hôtel 5 étoiles (selon l'option choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toutes dépenses personnelles"
+  ]
+ },
+ "from-delhi-taj-mahal-tour-with-traditional-dress-p": {
+  "title": "Depuis Delhi : visite du Taj Mahal en tenue traditionnelle avec photos",
+  "metaTitle": "Delhi-Taj Mahal : tenue traditionnelle et séance photo",
+  "metaDescription": "Le Taj Mahal depuis Delhi en tenue indienne traditionnelle avec une séance photo professionnelle, plus le fort d'Agra.",
+  "shortDescription": "Le Taj Mahal depuis Delhi en tenue indienne traditionnelle avec une séance photo professionnelle, plus le fort d'Agra.",
+  "fullDescription": "**Habillé pour l'édifice**\n\nLe Taj se photographie mieux avec de la couleur devant lui. C'est un fait pratique concernant un monument de marbre blanc, et c'est toute l'idée de cette visite : vous portez un sari, un lehenga, un kurta ou un sherwani, et un photographe professionnel vous photographie sur les sites tandis qu'un guide agréé s'occupe de l'histoire.\n\nLes tenues sont fournies et ajustées le jour même ; vous n'avez rien à apporter.\n\n**La séance photo**\n\nLes cadrages classiques, faits correctement : le **banc de Diana** sur l'axe central, le **reflet** dans le long canal, des **silhouettes** contre la lumière, et les photos cadrées à travers les arcs de grès rouge du Darwaza-i-Rauza où la pierre chaude met le marbre en valeur.\n\nLe photographe dirige, ce qui explique pourquoi ces photos sortent mieux que celles que vous prendriez l'un de l'autre. Les images retouchées sont envoyées ensuite.\n\n**Le Taj lui-même**\n\nShah Jahan l'a commencé en 1632, l'année suivant la mort de Mumtaz Mahal en donnant naissance à leur quatorzième enfant. Vingt mille ouvriers, vingt-deux ans, du marbre charrié sur 400 km depuis Makrana.\n\nVotre guide signalera la **calligraphie** gravée en tailles croissantes pour se lire d'une hauteur égale depuis le sol, les fleurs de **pietra dura** faites de dizaines de pierres incrustées, et les **minarets** inclinés vers l'extérieur pour qu'un séisme les fasse tomber loin du tombeau.\n\n**Le fort d'Agra**\n\nPuis le fort de grès rouge d'Akbar, 1565, et le **Musamman Burj**, où Aurangzeb a enfermé son père, le Taj en vue en aval du fleuve.\n\n**Deux options**\n\nVoiture, chauffeur, guide et photographe ; ou la même chose avec les billets d'entrée compris.\n\n**Pratique**\n\nUne longue journée depuis Delhi, environ trois heures et demie dans chaque sens sur la Yamuna Expressway.\n\n**Le Taj est fermé le vendredi.**\n\nNi trépied ni drone à l'intérieur ; la sécurité est stricte et tout se photographie à main levée. Les installations pour se changer sont organisées près du site plutôt qu'au monument lui-même.",
+  "highlights": [
+   "Visitez l'emblématique Taj Mahal lors d'une excursion guidée d'une journée depuis Delhi."
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour toute la durée de la visite",
+   "Guide touristique professionnel agréé par le gouvernement",
+   "Photographe professionnel",
+   "Billets d'entrée des monuments (selon l'option choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toutes dépenses personnelles"
+  ]
+ },
  "book-official-tour-guide-to-explore-bengaluru-city": {
   "title": "Réservez un guide officiel pour explorer Bengaluru",
   "metaTitle": "Bengaluru avec guide : palais, Lalbagh, temples et bazars",
