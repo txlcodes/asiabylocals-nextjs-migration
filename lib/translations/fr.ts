@@ -10397,6 +10397,47 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "akshardham-temple-megical-water-light-show-by-car": {
+  "title": "Temple d'Akshardham, spectacle magique d'eau et de lumière, en voiture",
+  "metaTitle": "Akshardham : spectacle d'eau et de lumière en soirée",
+  "metaDescription": "Une soirée au temple d'Akshardham avec un guide et le spectacle d'eau, de lumière et de son, transferts en voiture.",
+  "shortDescription": "Une soirée au temple d'Akshardham avec un guide et le spectacle d'eau, de lumière et de son, transferts en voiture.",
+  "fullDescription": "**Le temple après la tombée de la nuit, et le spectacle sur le puits à degrés**\n\nAkshardham a été achevé en 2005 en grès rose du Rajasthan et en marbre de Carrare italien, 234 piliers sculptés, 148 éléphants de pierre tous différents, neuf dômes, et **aucun acier structurel ni béton** dans le monument principal. Il a été construit selon les méthodes traditionnelles du **shilpa shastra**, la pierre taillée et ajustée comme les temples se construisaient il y a mille ans.\n\nQue les temples modernes vous intéressent ou non, le fait que cela ait été tenté au XXIe siècle est en soi remarquable.\n\n**La visite du soir**\n\nVotre guide vous fait le tour du complexe avant le spectacle : le **Mandir** avec sa galerie sculptée, le socle **Gajendra Pith**, trois mille tonnes de pierre racontant des histoires d'éléphants de la mythologie indienne, et le **Narayan Sarovar**, le bassin cerné de 108 têtes de vache en laiton et rempli d'eau provenant de 151 fleuves et lacs sacrés.\n\n**Le spectacle d'eau et de lumière**\n\nSur le **Yagnapurush Kund**, le plus grand puits à degrés de son genre, construit avec 2 870 marches autour d'un lotus central. Jets d'eau, lumière projetée, feu et bande-son racontent une histoire de la Kena Upanishad, un garçon qui s'offre au feu pour apprendre la source de la vie.\n\nIl dure environ quinze minutes après la tombée de la nuit, et c'est la raison de venir le soir plutôt que l'après-midi.\n\n**À lire avant de partir**\n\nLa sécurité est de niveau aéroport et la liste des interdits est absolue : **pas de téléphones, pas d'appareils photo, pas de sacs, pas d'électronique, pas de nourriture**. Il y a des vestiaires gratuits à la porte, et la file pour y accéder est la partie la plus longue de la soirée, laissez tout dans la voiture si vous le pouvez.\n\nUne tenue modeste est exigée, épaules et genoux couverts pour tous. Des étoles sont prêtées à l'entrée.\n\n**Fermé le lundi.** La photographie à l'intérieur est impossible, ce qui vaut mieux savoir avant que de l'apprendre à la porte.\n\n**Trois options**\n\nGuide seul ; guide avec voiture ; ou la version tout compris avec le billet du spectacle inclus.",
+  "highlights": [
+   "Visitez le temple d'Akshardham, chef-d'œuvre spirituel de Delhi, à couper le souffle"
+  ],
+  "included": [
+   "Guide professionnel anglophone",
+   "Transport climatisé confortable",
+   "Bouteilles d'eau",
+   "Visite d'orientation avec arrêts photo",
+   "Dîner (selon l'option choisie)"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles (souvenirs, en-cas ou nourriture supplémentaire)",
+   "Pourboires ou gratifications pour le guide ou le chauffeur (facultatifs)",
+   "Toute activité supplémentaire non mentionnée dans l'itinéraire"
+  ]
+ },
+ "classic-golden-triangle-tour-from-delhi-5-days-4": {
+  "title": "Triangle d'or classique depuis Delhi, 5 jours 4 nuits",
+  "metaTitle": "Triangle d'or classique, 5 jours 4 nuits",
+  "metaDescription": "Le Triangle d'or classique en cinq jours et quatre nuits depuis Delhi, entrées coupe-file et transferts confortables.",
+  "shortDescription": "Le Triangle d'or classique en cinq jours et quatre nuits depuis Delhi, entrées coupe-file et transferts confortables.",
+  "fullDescription": "**Cinq jours, quatre nuits, et les files réglées**\n\nL'itinéraire standard avec les entrées réservées à l'avance, ce qui fait la différence entre arriver au fort d'Amber et y entrer directement, ou arriver au fort d'Amber et rester une demi-heure debout au soleil.\n\n**Jour 1 : Delhi**\n\n**Qutub Minar**, commencé en 1193, 73 mètres de grès rouge et de brique cannelés, le plus haut minaret de son genre au monde, dressé dans une cour construite avec la pierre de vingt-sept temples démantelés. Le **pilier de fer** à côté date du IVe siècle et n'a presque pas rouillé.\n\nLe **tombeau de Humayun**, construit dans les années 1560 par la veuve de l'empereur : le premier grand tombeau-jardin moghol d'Inde, et le modèle direct du Taj soixante ans plus tard.\n\n**India Gate** et l'axe de Lutyens, et le vieux Delhi si la journée le permet.\n\n**Jour 2 : Delhi à Agra**\n\nL'autoroute, puis le **fort d'Agra**, la ville de grès rouge d'Akbar de 1565 avec les palais de marbre de Shah Jahan à l'intérieur, et le **Musamman Burj** où Aurangzeb a retenu son père prisonnier huit ans à portée de vue du Taj.\n\n**Jour 3 : Agra**\n\nLe **Taj Mahal** au lever du soleil, avec entrée coupe-file. Le marbre se lit gris, puis rose, puis blanc froid à mesure que le soleil dépasse la Yamuna.\n\nVotre guide couvre la **calligraphie** dimensionnée plus grande à mesure qu'elle s'élève pour se lire d'une hauteur égale depuis le sol, la **pietra dura**, jusqu'à soixante pierres par fleur, les **minarets** inclinés vers l'extérieur pour tomber loin du tombeau, et la seule rupture de la symétrie.\n\n**Jour 4 : Agra à Jaipur**\n\n**Fatehpur Sikri** sur la route, la capitale abandonnée d'Akbar, telle qu'il l'a laissée en 1585.\n\n**Jour 5 : Jaipur, puis Delhi**\n\nLe **fort d'Amber** tôt avec entrée réservée à l'avance, puis le **Jal Mahal**, le **City Palace**, le **Jantar Mantar** et le **Hawa Mahal**.\n\n**Pratique**\n\nTransferts privés tout au long du voyage avec des guides locaux agréés, et entrées coupe-file aux principaux sites.\n\n**Le Taj est fermé le vendredi.**",
+  "highlights": [
+   "Découvrez les monuments historiques de Delhi, dont Qutub Minar et le Fort rouge"
+  ],
+  "included": [
+   "Guide touristique professionnel",
+   "Voiture privée climatisée pour toute l'activité",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
