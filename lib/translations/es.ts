@@ -17031,6 +17031,91 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tasas de entrada"
   ]
  },
+ "jaipur-car-tour-english-speaking-local-driver": {
+  "title": "Tour en coche por Jaipur - ¡Conductor local de habla inglesa!",
+  "metaTitle": "Jaipur en coche con conductor local de habla inglesa",
+  "metaDescription": "Un día completo de Jaipur en coche privado con un propietario-conductor de habla inglesa que creció en la ciudad.",
+  "shortDescription": "Un día completo de Jaipur en coche privado con un propietario-conductor de habla inglesa que creció en la ciudad.",
+  "fullDescription": "**Un propietario-conductor, que es distinto de un conductor**\n\nLa persona que conduce es propietaria del coche y ha vivido en Jaipur toda su vida. Esa es la oferta aquí, y es un producto genuinamente distinto de un coche de empresa con un conductor de turno.\n\nLo que obtienes es la ciudad propia de alguien, dónde come, qué callejuela merece la pena, qué mirador es mejor que el del mapa, en lugar de una hoja de ruta.\n\n**Lo que no es**\n\nUn guía con licencia. Rajastán exige una licencia gubernamental para guiar dentro de los monumentos, y un conductor honesto te lo dirá en lugar de fingir lo contrario. Puede llevarte a todas partes, contarte mucho por el camino, y esperar mientras entras, pero para los interiores del Jantar Mantar o Amber tienes que leer de antemano o contratar un guía en la puerta.\n\nPara muchos viajeros, ese intercambio vale la pena.\n\n**La ruta**\n\n**Fuerte Amber** en su cresta sobre el lago Maota, iniciado en 1592, con la puerta Ganesh Pol y la cámara de espejos del Sheesh Mahal. Temprano, antes de los autocares.\n\n**Jal Mahal** desde la calzada, cuatro de cinco plantas bajo el agua, sin entrada.\n\n**Hawa Mahal**, la pantalla de 953 ventanas de 1799, mejor desde la calle de enfrente por la mañana.\n\n**City Palace** y **Jantar Mantar** en la ciudad vieja.\n\nY lo que sea que sugiera el día: **Panna Meena ka Kund**, el pozo escalonado debajo de Amber; **Nahargarh** en la cresta al atardecer; los bazares alrededor de Johari y Tripolia; o una tienda de lassi que recomiende.\n\n**Di lo que quieres**\n\nEl día es genuinamente flexible. Si prefieres pasar dos horas en un mercado que cuarenta minutos en un palacio, dilo desde el principio.\n\nSobre las compras: pide que te lleven donde compran los locales en lugar de donde las tiendas pagan comisión. La mayoría de los conductores sí ganan comisión en los emporios, y una petición directa suele respetarse.\n\n**Práctico**\n\nOcho horas con recogida en el hotel. Las tasas de entrada y cualquier guía en la puerta son aparte.",
+  "highlights": [
+   "Explora las hermosas estructuras de la ciudad rosa, fuertes y palacios."
+  ],
+  "included": [
+   "Recogida desde el hotel, aeropuerto, estación de tren, estación de autobús o cualquier otro lugar deseado en Jaipur."
+  ],
+  "notIncluded": [
+   "Ninguno"
+  ]
+ },
+ "jaipur-chokhi-dhani-village-tour-with-rajasthani-d": {
+  "title": "Jaipur: Tour por el pueblo Chokhi Dhani con cena rajastaní",
+  "metaTitle": "Jaipur: pueblo Chokhi Dhani y cena rajastaní",
+  "metaDescription": "Una tarde en el pueblo Chokhi Dhani cerca de Jaipur con una cena rajastaní y transporte desde la ciudad.",
+  "shortDescription": "Una tarde en el pueblo Chokhi Dhani cerca de Jaipur con una cena rajastaní y transporte desde la ciudad.",
+  "fullDescription": "**Lo que es Chokhi Dhani, honestamente**\n\nUn pueblo rajastaní construido en veinte acres al sur de Jaipur, edificado en 1990, donde toda la cultura popular del estado se representa cada noche en un solo lugar. Es descaradamente algo fabricado, y también es la única forma práctica de ver a los bailarines kalbeliya, los narradores bhopa y los interpretes de terah taali en una sola noche en lugar de en una semana de viaje.\n\nLas familias indias vienen aquí en enormes cantidades, lo que explica en parte por qué funciona.\n\n**Las actuaciones**\n\n**Ghoomar**, la danza circular de las mujeres rajput con las faldas que se abren al girar. **Kalbeliya**, bailada por la comunidad de encantadores de serpientes, toda hombro y columna, catalogada por la UNESCO como patrimonio inmaterial. **Bhopa-Bhopi**, cantantes narrativos marido y mujer que interpretan epopeyas ante un pergamino pintado.\n\nAdemás de espectáculos de marionetas, acróbatas, magos y artistas del fuego a medida que avanza la noche.\n\n**Todo lo demás**\n\nPaseos en camello, caballo y carro de bueyes. Artistas de mehendi que pintarán tus manos en diez minutos, insiste en henna marrón natural y rechaza cualquier cosa vendida como \"henna negra\", que contiene PPD y quema la piel.\n\nAlfareros, lectores de palma, tiro con arco, un lago para pasear en barca y puestos de artesanía rajastaní. Nada está programado para ti; paseas libremente.\n\n**La cena**\n\nUn thali rajastaní completo servido de forma tradicional: te sientas en una esterilla, comes en un plato de latón, y los camareros siguen rellenando hasta que les dices que paren. **Dal baati churma**, **gatte ki sabzi**, **ker sangri**, roti de bajra con ghee, suero de leche y gur.\n\nVegetariano en su totalidad, e ilimitado.\n\n**Dos opciones**\n\nLa velada en el pueblo con cena y transporte; o en su lugar un safari privado en gypsy para ver leopardos en Jhalana, que es un producto completamente distinto en el mismo listado, lee con atención antes de reservar.\n\n**Práctico**\n\nUnas tres horas más traslados. Más concurrido los fines de semana y durante la temporada invernal de bodas.\n\nEl suelo es de arena y piedra y caminarás más de lo que esperas. Zapatos cómodos.",
+  "highlights": [
+   "Explora el entorno tradicional de un pueblo rajastaní"
+  ],
+  "included": [
+   "Entrada al pueblo Chokhi Dhani (si se selecciona la opción)",
+   "Espectáculos culturales rajastaníes tradicionales",
+   "Espectáculos de música y danza folclórica en vivo",
+   "Cena tradicional rajastaní",
+   "Atracciones y entretenimiento del pueblo",
+   "Experiencias culturales locales"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Traslado por cuenta propia",
+   "Actividades o paseos adicionales no mencionados",
+   "Propinas y gratificaciones",
+   "Cualquier cosa no mencionada específicamente en las inclusiones"
+  ]
+ },
+ "jaipur-city-sightseeing-tour-same-day-trip-by-car": {
+  "title": "Tour de la ciudad de Jaipur - Excursión de un día en coche",
+  "metaTitle": "Jaipur: excursión de un día en coche",
+  "metaDescription": "Un día completo de doce horas en Jaipur con guía aprobado por el gobierno, con opción de lujo que incluye almuerzo cinco estrellas y entradas.",
+  "shortDescription": "Un día completo de doce horas en Jaipur con guía aprobado por el gobierno, con opción de lujo que incluye almuerzo cinco estrellas y entradas.",
+  "fullDescription": "**De 7:30 hasta la tarde, con la ruta planificada en torno a las multitudes**\n\nDoce horas bastan para hacer Jaipur en el orden correcto en lugar del conveniente: los fuertes en las colinas antes de los autocares, la ciudad vieja a mediodía, y un mirador en la cresta al final.\n\n**7:30: recogida**\n\nDesde tu hotel o el aeropuerto de Jaipur, en un coche privado.\n\n**Mañana: los fuertes**\n\n**Fuerte Amer** primero, cuando los patios todavía están vacíos. Iniciado en 1592, la puerta Ganesh Pol, la cámara de espejos del Sheesh Mahal, y el Sukh Niwas enfriado por agua.\n\n**Jaigarh** arriba, conectado por un túnel que la familia real podía usar para escapar, y que alberga **Jaivana**, el cañón de ruedas más grande jamás fundido, disparado exactamente una vez, en una prueba.\n\n**Panna Meena ka Kund** debajo, un pozo escalonado del siglo 16 con escaleras simétricas entrecruzadas que descienden ocho plantas, y casi siempre tranquilo.\n\n**Mediodía: la ciudad vieja**\n\n**Jal Mahal** desde la calzada. **City Palace**, parte sigue siendo la residencia real. **Jantar Mantar**, donde el reloj de sol Samrat Yantra de 27 metros todavía marca el tiempo con dos segundos de precisión. **Hawa Mahal**, 953 ventanas, desde la calle de enfrente.\n\nAlmuerzo, en un hotel de cinco estrellas en la opción de lujo.\n\n**Tarde y noche**\n\nLos bazares alrededor de Johari y Tripolia, donde Jaipur realmente gana su dinero: tallado de piedras preciosas, pulseras de laca, estampado en bloque, trabajo de esmalte.\n\nLuego **Nahargarh** en la cresta para el atardecer, con toda la cuadrícula de la ciudad amurallada extendida abajo y las farolas encendiéndose a medida que baja la luz.\n\n**Dos opciones**\n\nSolo un guía aprobado por el gobierno, si tienes tu propio coche. O la versión completa con vehículo de lujo, el guía, tasas de entrada y un almuerzo de cinco estrellas.\n\n**Práctico**\n\nEl guiado aprobado por el gobierno importa en Jaipur, donde guías sin licencia trabajan en cada puerta.\n\nSin la opción todo incluido, las tasas de entrada son de unos ₹1.500 por persona para un adulto extranjero.",
+  "highlights": [
+   "Día completo de visitas por Jaipur en coche de lujo privado con aire acondicionado"
+  ],
+  "included": [
+   "Transporte privado de lujo con aire acondicionado",
+   "Recogida y regreso al hotel",
+   "Guía profesional aprobado por el gobierno",
+   "Entradas a monumentos (si se ha seleccionado la opción)",
+   "Almuerzo en hotel de 5 estrellas (si se ha seleccionado la opción)",
+   "Todo el aparcamiento, peajes y gastos de combustible"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "jaipur-city-tour-with-amber-fort-ayurvedic-massage": {
+  "title": "Jaipur: Tour por la ciudad con Fuerte Amber y masaje ayurvédico",
+  "metaTitle": "Jaipur: tour con Fuerte Amber y masaje ayurvédico",
+  "metaDescription": "Un día completo por los fuertes y palacios de Jaipur seguido de un masaje ayurvédico. Unas ocho horas con recogida en el hotel.",
+  "shortDescription": "Un día completo por los fuertes y palacios de Jaipur seguido de un masaje ayurvédico. Unas ocho horas con recogida en el hotel.",
+  "fullDescription": "**Primero las visitas, luego alguien te arregla la espalda**\n\nOcho horas en Jaipur implican una subida en Amber, mucha piedra bajo los pies y bastante sol. Terminar con un auténtico masaje ayurvédico en lugar de un taxi de vuelta al hotel es una forma genuinamente sensata de organizar un día, particularmente a mitad de un largo viaje por la India.\n\n**Fuerte Amber**\n\nEl palacio en la colina sobre el lago Maota, iniciado en 1592. Patios que ascienden por la cresta, la puerta pintada **Ganesh Pol**, y el **Sheesh Mahal**, donde fragmentos de espejo convexo colocados por todo el techo convertían una vela en un cielo de estrellas.\n\nEl **Sukh Niwas** se enfriaba con agua que corría por canales en sus muros de mármol, y el patio del **zenana** albergaba doce apartamentos de reinas dispuestos para que ninguno diera a otro.\n\nVe temprano. Amber a las nueve y Amber al mediodía son experiencias diferentes.\n\n**City Palace**\n\nTextiles reales, patios, la armería, y las dos enormes urnas de plata en el Diwan-i-Khas, los objetos de plata más grandes del mundo, hechas para que un maharajá pudiera llevar agua del Ganges en un viaje a Inglaterra. Parte del complejo sigue siendo la residencia de la familia.\n\n**Y el resto del recorrido**\n\n**Jal Mahal** desde la calzada, los instrumentos de piedra del **Jantar Mantar**, y la fachada del **Hawa Mahal** con sus 953 ventanas.\n\n**El masaje**\n\nEl tratamiento ayurvédico consiste en aceite medicado caliente trabajado en el cuerpo con movimientos largos por los miembros, normalmente **abhyanga**, por uno o dos terapeutas. No es un masaje de spa, la presión es firme, el aceite generoso, y se espera que lo dejes en tu piel un rato después en lugar de ducharte inmediatamente.\n\nTerapeutas del mismo sexo por defecto. Indica con antelación embarazo, lesiones, cirugía reciente o presión arterial alta.\n\n**Práctico**\n\nUnas ocho horas con recogida y regreso al hotel en un vehículo con aire acondicionado.\n\nLas tasas de entrada a los monumentos se pagan en cada lugar, unos ₹1.500 por persona para un adulto extranjero.\n\nCome ligero antes del tratamiento en lugar de después del fuerte.",
+  "highlights": [
+   "Siente la historia de Jaipur mientras exploras el Fuerte Amber y el City Palace"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Vehículo con aire acondicionado",
+   "Tour guiado por el Fuerte Amber",
+   "Tour guiado por el City Palace",
+   "Visita al Jantar Mantar",
+   "Parada fotográfica en el Hawa Mahal",
+   "Sesión de terapia ayurvédica"
+  ],
+  "notIncluded": [
+   "Almuerzo"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",

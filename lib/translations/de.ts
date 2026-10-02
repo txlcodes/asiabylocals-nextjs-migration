@@ -17031,6 +17031,91 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittsgebühren"
   ]
  },
+ "jaipur-car-tour-english-speaking-local-driver": {
+  "title": "Jaipur-Autotour - Englischsprachiger lokaler Fahrer!",
+  "metaTitle": "Jaipur per Auto mit englischsprachigem Fahrer",
+  "metaDescription": "Ein ganzer Tag Jaipur im privaten Auto mit einem englischsprachigen Besitzer-Fahrer, der in der Stadt aufgewachsen ist.",
+  "shortDescription": "Ein ganzer Tag Jaipur im privaten Auto mit einem englischsprachigen Besitzer-Fahrer, der in der Stadt aufgewachsen ist.",
+  "fullDescription": "**Ein Besitzer-Fahrer, was sich von einem Fahrer unterscheidet**\n\nDie Person, die fährt, besitzt das Auto und hat ihr ganzes Leben in Jaipur verbracht. Das ist das Angebot hier, und es ist ein wirklich anderes Produkt als ein Firmenwagen mit diensthabendem Fahrer.\n\nWas Sie bekommen, ist die eigene Stadt einer Person, wo er isst, welche Gasse sich lohnt, welcher Aussichtspunkt besser ist als der auf der Karte, statt eines Routenplans.\n\n**Was es nicht ist**\n\nEin lizenzierter Guide. Rajasthan verlangt eine staatliche Lizenz, um innerhalb von Denkmälern zu führen, und ein ehrlicher Fahrer wird Ihnen das sagen, statt etwas anderes vorzugeben. Er kann Sie überall hinbringen, Ihnen auf dem Weg viel erzählen, und warten, während Sie hineingehen, aber für die Innenräume von Jantar Mantar oder Amber lesen Sie sich entweder vorher ein oder mieten am Tor einen Guide.\n\nFür viele Reisende lohnt sich dieser Tausch.\n\n**Die Route**\n\n**Amber Fort** auf seinem Grat über dem Maota-See, begonnen 1592, mit dem Ganesh-Pol-Tor und der Spiegelkammer des Sheesh Mahal. Früh, vor den Reisebussen.\n\n**Jal Mahal** vom Damm aus, vier der fünf Stockwerke unter Wasser, kein Zutritt.\n\n**Hawa Mahal**, die Fassade mit 953 Fenstern aus dem Jahr 1799, am besten morgens von der gegenüberliegenden Straße aus.\n\n**City Palace** und **Jantar Mantar** in der Altstadt.\n\nUnd was auch immer der Tag sonst vorschlägt: **Panna Meena ka Kund**, der Stufenbrunnen unter Amber; **Nahargarh** auf dem Grat bei Sonnenuntergang; die Bazare um Johari und Tripolia; oder ein Lassi-Laden, den er empfiehlt.\n\n**Sagen Sie, was Sie möchten**\n\nDer Tag ist wirklich flexibel. Wenn Sie lieber zwei Stunden auf einem Markt als vierzig Minuten in einem Palast verbringen möchten, sagen Sie das gleich zu Beginn.\n\nZum Einkaufen: Bitten Sie darum, dorthin gebracht zu werden, wo Einheimische einkaufen, statt wo Geschäfte Provision zahlen. Die meisten Fahrer verdienen tatsächlich Provision in Emporien, und eine direkte Bitte wird in der Regel respektiert.\n\n**Praktisch**\n\nAcht Stunden mit Hotelabholung. Eintrittsgebühren und jeder Guide am Tor sind separat.",
+  "highlights": [
+   "Entdecken Sie die schönen Bauwerke der Pink City, Forts und Paläste."
+  ],
+  "included": [
+   "Abholung von Hotel, Flughafen, Bahnhof, Busbahnhof oder jedem anderen gewünschten Ort in Jaipur."
+  ],
+  "notIncluded": [
+   "Keine"
+  ]
+ },
+ "jaipur-chokhi-dhani-village-tour-with-rajasthani-d": {
+  "title": "Jaipur: Chokhi-Dhani-Dorftour mit rajasthanischem Abendessen",
+  "metaTitle": "Jaipur: Chokhi Dhani Dorf und rajasthan. Dinner",
+  "metaDescription": "Ein Abend im Chokhi-Dhani-Dorf bei Jaipur mit einem rajasthanischen Abendessen und Transport von der Stadt.",
+  "shortDescription": "Ein Abend im Chokhi-Dhani-Dorf bei Jaipur mit einem rajasthanischen Abendessen und Transport von der Stadt.",
+  "fullDescription": "**Was Chokhi Dhani ehrlich gesagt ist**\n\nEin nachgebautes rajasthanisches Dorf auf zwanzig Acres südlich von Jaipur, 1990 erbaut, wo die gesamte Volkskultur des Bundesstaates jeden Abend an einem Ort aufgeführt wird. Es ist unverschämt eine konstruierte Sache, und es ist auch die einzige praktische Möglichkeit, Kalbeliya-Tänzer, Bhopa-Geschichtenerzähler und Terah-Taali-Darsteller an einem Abend statt über eine Woche Reise zu sehen.\n\nIndische Familien kommen hierher in enormen Mengen, was teilweise erklärt, warum es funktioniert.\n\n**Die Vorstellungen**\n\n**Ghoomar**, der Kreistanz der Rajput-Frauen mit den Röcken, die sich bei der Drehung weiten. **Kalbeliya**, getanzt von der Schlangenbeschwörer-Gemeinschaft, ganz Schulter und Wirbelsäule, von der UNESCO als immaterielles Erbe gelistet. **Bhopa-Bhopi**, Ehepaare als erzählende Sänger, die Epen vor einer bemalten Schriftrolle aufführen.\n\nDazu Puppenspiele, Akrobaten, Magier und Feuerkünstler im Laufe des Abends.\n\n**Alles Weitere**\n\nKamel-, Pferde- und Ochsenkarren-Fahrten. Mehendi-Künstler, die Ihre Hände in zehn Minuten bemalen, bestehen Sie auf natürlichem braunem Henna und lehnen Sie alles ab, was als „schwarzes Henna\" verkauft wird, da es PPD enthält und die Haut verätzt.\n\nTöpfer, Handleser, Bogenschießen, ein Bootssee und Stände mit rajasthanischem Handwerk. Nichts ist für Sie geplant; Sie schlendern einfach herum.\n\n**Das Abendessen**\n\nEin vollständiges rajasthanisches Thali, traditionell serviert: Sie sitzen auf einer Matte, essen von einem Messingteller, und Kellner füllen immer wieder nach, bis Sie sie stoppen. **Dal Baati Churma**, **Gatte ki Sabzi**, **Ker Sangri**, Bajra-Roti mit Ghee, Buttermilch und Gur.\n\nDurchgehend vegetarisch, und unbegrenzt.\n\n**Zwei Optionen**\n\nDer Dorfabend mit Abendessen und Transport; oder stattdessen eine private Gypsy-Leoparden-Safari in Jhalana, die ein völlig anderes Produkt auf demselben Angebot ist, lesen Sie sorgfältig, bevor Sie buchen.\n\n**Praktisch**\n\nEtwa drei Stunden plus Transfers. Am belebtesten an Wochenenden und während der winterlichen Hochzeitssaison.\n\nDer Boden ist Sand und Stein, und Sie werden mehr laufen, als Sie erwarten. Bequeme Schuhe.",
+  "highlights": [
+   "Entdecken Sie die traditionelle rajasthanische Dorfkulisse"
+  ],
+  "included": [
+   "Eintrittskarte für das Chokhi-Dhani-Dorf (falls Option gewählt)",
+   "Traditionelle rajasthanische Kulturdarbietungen",
+   "Live-Volksmusik- und Tanzvorstellungen",
+   "Traditionelles rajasthanisches Abendessen",
+   "Dorfattraktionen und Unterhaltung",
+   "Lokale kulturelle Erlebnisse"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Transfer selbst",
+   "Zusätzliche Aktivitäten oder Fahrten, die nicht genannt werden",
+   "Trinkgeld",
+   "Alles, was nicht ausdrücklich unter Einschlüssen genannt ist"
+  ]
+ },
+ "jaipur-city-sightseeing-tour-same-day-trip-by-car": {
+  "title": "Jaipur Stadtbesichtigungstour - Tagesausflug per Auto",
+  "metaTitle": "Jaipur: Tagesausflug per Auto",
+  "metaDescription": "Ein voller zwölfstündiger Jaipur-Tag mit einem von der Regierung zugelassenen Guide, mit einer Luxusoption inklusive 5-Sterne-Mittagessen und Tickets.",
+  "shortDescription": "Ein voller zwölfstündiger Jaipur-Tag mit einem von der Regierung zugelassenen Guide, mit einer Luxusoption inklusive 5-Sterne-Mittagessen und Tickets.",
+  "fullDescription": "**7:30 Uhr bis zum Abend, mit der Route rund um die Menschenmengen geplant**\n\nZwölf Stunden reichen aus, um Jaipur in der richtigen statt der bequemen Reihenfolge zu erleben: die Hügelforts vor den Reisebussen, die Altstadt mitten am Tag, und ein Aussichtspunkt auf dem Grat am Ende.\n\n**7:30 Uhr: Abholung**\n\nVon Ihrem Hotel oder dem Flughafen Jaipur, in einem privaten Auto.\n\n**Morgen: die Forts**\n\n**Amer Fort** zuerst, wenn die Innenhöfe noch leer sind. Begonnen 1592, das Ganesh-Pol-Tor, die Spiegelkammer des Sheesh Mahal, und der wassergekühlte Sukh Niwas.\n\n**Jaigarh** darüber, verbunden durch einen Tunnel, den die königliche Familie zur Flucht nutzen konnte, und mit **Jaivana**, der größten je gegossenen Räderkanone, genau einmal abgefeuert, bei einem Test.\n\n**Panna Meena ka Kund** darunter, ein Stufenbrunnen aus dem 16. Jahrhundert mit sich kreuzenden symmetrischen Treppen, die acht Stockwerke hinabführen, und fast immer ruhig.\n\n**Mittag: die Altstadt**\n\n**Jal Mahal** vom Damm aus. **City Palace**, ein Teil davon ist noch immer die königliche Residenz. **Jantar Mantar**, wo die 27 Meter hohe Samrat-Yantra-Sonnenuhr noch auf zwei Sekunden genau die Zeit anzeigt. **Hawa Mahal**, 953 Fenster, von der gegenüberliegenden Straße aus.\n\nMittagessen, bei der Luxusoption in einem 5-Sterne-Hotel.\n\n**Nachmittag und Abend**\n\nDie Bazare um Johari und Tripolia, wo Jaipur tatsächlich sein Geld verdient: Edelsteinschliff, Lack-Armreifen, Blockdruck, Emaille-Arbeiten.\n\nDann **Nahargarh** auf dem Grat zum Sonnenuntergang, mit dem ganzen Raster der ummauerten Stadt darunter und den aufgehenden Straßenlaternen, während das Licht nachlässt.\n\n**Zwei Optionen**\n\nNur ein von der Regierung zugelassener Guide, wenn Sie Ihr eigenes Auto haben. Oder die Vollversion mit einem Luxusfahrzeug, dem Guide, Eintrittsgebühren und einem 5-Sterne-Mittagessen.\n\n**Praktisch**\n\nVon der Regierung zugelassene Führung ist in Jaipur wichtig, wo unlizenzierte Guides an jedem Tor arbeiten.\n\nOhne die Rundum-Option betragen die Eintrittsgebühren etwa ₹1.500 pro Kopf für einen ausländischen Erwachsenen.",
+  "highlights": [
+   "Jaipur Ganztagesbesichtigung im luxuriösen privaten klimatisierten Auto"
+  ],
+  "included": [
+   "Luxuriöser privater klimatisierter Transport",
+   "Abholung & Rückfahrt zum Hotel",
+   "Professioneller von der Regierung zugelassener Guide",
+   "Eintrittskarten für Denkmäler (falls die Option gewählt wurde)",
+   "Mittagessen im 5-Sterne-Hotel (falls die Option gewählt wurde)",
+   "Alle Parkgebühren, Mautgebühren & Kraftstoffkosten"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgeld"
+  ]
+ },
+ "jaipur-city-tour-with-amber-fort-ayurvedic-massage": {
+  "title": "Jaipur: Stadttour mit Amber Fort und Ayurveda-Massage",
+  "metaTitle": "Jaipur: Tour mit Amber Fort & Ayurveda-Massage",
+  "metaDescription": "Ein ganzer Tag mit Jaipurs Forts und Palästen, gefolgt von einer Ayurveda-Massage. Etwa acht Stunden mit Hotelabholung.",
+  "shortDescription": "Ein ganzer Tag mit Jaipurs Forts und Palästen, gefolgt von einer Ayurveda-Massage. Etwa acht Stunden mit Hotelabholung.",
+  "fullDescription": "**Zuerst Besichtigung, dann richtet jemand Ihren Rücken wieder**\n\nAcht Stunden Jaipur bedeuten einen Aufstieg bei Amber, viel Stein unter den Füßen und eine gute Menge Sonne. Den Tag mit einer richtigen Ayurveda-Massage statt einem Taxi zurück ins Hotel zu beenden, ist eine wirklich sinnvolle Art, einen Tag zu gestalten, besonders in der Mitte einer langen Indienreise.\n\n**Amber Fort**\n\nDer Hügelpalast über dem Maota-See, begonnen 1592. Innenhöfe, die den Grat hinaufsteigen, das bemalte **Ganesh Pol**-Tor, und der **Sheesh Mahal**, wo konvexe Spiegelfragmente über die Decke verteilt eine Kerze in einen Sternenhimmel verwandelten.\n\nDer **Sukh Niwas** wurde durch Wasser gekühlt, das durch Kanäle in seinen Marmorwänden floss, und der **Zenana**-Innenhof beherbergte zwölf Wohnungen der Königinnen, so angeordnet, dass keine Einblick in eine andere hatte.\n\nFrüh losgehen. Amber um neun Uhr und Amber um Mittag sind unterschiedliche Erlebnisse.\n\n**City Palace**\n\nKönigliche Textilien, Innenhöfe, die Waffenkammer, und die beiden riesigen Silberurnen im Diwan-i-Khas, die größten Silberobjekte der Welt, hergestellt, damit ein Maharadscha Ganges-Wasser auf eine Reise nach England mitnehmen konnte. Ein Teil des Komplexes ist noch immer die Residenz der Familie.\n\n**Und der Rest der Route**\n\n**Jal Mahal** vom Damm aus, die Steininstrumente des **Jantar Mantar**, und die Fassade des **Hawa Mahal** mit ihren 953 Fenstern.\n\n**Die Massage**\n\nDie ayurvedische Behandlung ist warmes medizinisches Öl, das in langen Bewegungen entlang der Gliedmaßen in den Körper einmassiert wird, meist **Abhyanga**, von einem oder zwei Therapeuten. Es ist keine Spa-Massage, der Druck ist fest, das Öl großzügig, und man erwartet, dass Sie es danach eine Weile auf der Haut lassen, statt es sofort abzuduschen.\n\nStandardmäßig gleichgeschlechtliche Therapeuten. Teilen Sie im Voraus Schwangerschaft, Verletzungen, kürzliche Operationen oder hohen Blutdruck mit.\n\n**Praktisch**\n\nEtwa acht Stunden mit Hotelabholung und Rückfahrt in einem klimatisierten Fahrzeug.\n\nEintrittsgebühren für Denkmäler werden an jedem Ort bezahlt, etwa ₹1.500 pro Kopf für einen ausländischen Erwachsenen.\n\nEssen Sie leicht vor der Behandlung statt nach dem Fort.",
+  "highlights": [
+   "Erleben Sie die Geschichte Jaipurs, während Sie Amber Fort und City Palace erkunden"
+  ],
+  "included": [
+   "Abholung & Rückfahrt zum Hotel",
+   "Klimatisiertes Fahrzeug",
+   "Geführte Tour durch Amber Fort",
+   "Geführte Tour durch City Palace",
+   "Besuch des Jantar Mantar",
+   "Fotostopp am Hawa Mahal",
+   "Ayurveda-Therapiesitzung"
+  ],
+  "notIncluded": [
+   "Mittagessen"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
