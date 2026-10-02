@@ -11557,6 +11557,103 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "delhi-shimla-and-manali-6-day-tour": {
+  "title": "Delhi : Shimla et Manali en 6 jours",
+  "metaTitle": "Shimla et Manali en 6 jours depuis Delhi",
+  "metaDescription": "Six jours depuis Delhi vers Shimla et Manali, stations de montagne coloniales, la vallée de Kullu et la rivière Beas.",
+  "shortDescription": "Six jours depuis Delhi vers Shimla et Manali, stations de montagne coloniales, la vallée de Kullu et la rivière Beas.",
+  "fullDescription": "**Deux stations de montagne, et elles ne se ressemblent pas**\n\nShimla est une ville administrative coloniale à 2 200 mètres. Manali est une vallée de vergers et de rivières à 2 000 mètres. Les deux sont fraîches, vertes et complètement différentes des plaines, et six jours sont nécessaires pour les routes de montagne.\n\n**Shimla**\n\nLes Britanniques ont déplacé tout le gouvernement de l'Inde ici chaque été à partir de 1864, dossiers, vice-roi, quartier général de l'armée et tout, parce que Delhi était insupportable. Ce qu'ils ont laissé est une ville qui ne ressemble à nulle part ailleurs dans le pays.\n\n**The Ridge** et **Mall Road** sont entièrement piétonnes, bordées de bâtiments coloniaux : **Christ Church**, la deuxième plus ancienne du nord de l'Inde, et **Viceregal Lodge**, où la décision de partitionner l'Inde fut prise en 1947 et dont les salles lambrissées de teck sont ouvertes aux visiteurs.\n\nLe **temple de Jakhoo** se trouve au point le plus élevé sous une statue de Hanuman de 33 mètres, en haut d'une montée raide à travers une forêt de cèdres de l'Himalaya. Les singes y prennent les lunettes ; laissez-les dans la voiture.\n\n**Kufri**, à seize kilomètres, pour les vues sur la neige en hiver.\n\n**Manali**\n\nHuit heures de route ensuite à travers la vallée de Kullu le long de la Beas.\n\nLe **temple de Hadimba Devi**, construit en 1553 en bois de cèdre avec un toit pagode, se dresse dans une forêt de cèdres qui semble plus ancienne que le bâtiment. **Vashisht** pour les sources chaudes, la **vallée de Solang** pour la neige et le parapente, et **Old Manali** pour la fin tranquille du voyage.\n\nLa route qui remonte la vallée est l'attraction elle-même, vergers, rivière, et villages aux toits d'ardoise.\n\n**Pratique**\n\nVoiture privée et chauffeur tout au long, avec hôtels.\n\nLes routes sont de longs virages en lacets et le trajet Shimla-Manali représente une journée complète. Prenez quelque chose contre le mal des transports si besoin.\n\nLes deux villes sont froides de novembre à mars et peuvent connaître de la neige en janvier. Le **col de Rohtang** au-delà de Manali n'ouvre qu'approximativement de mai à octobre et nécessite un permis séparé.",
+  "highlights": [
+   "Découvrez la beauté de Shimla et Manali lors d'un circuit de 6 jours depuis Delhi"
+  ],
+  "included": [
+   "Transport de Delhi à Shimla",
+   "Hébergement en hôtel à Shimla",
+   "Visites à Shimla",
+   "Transport de Shimla à Manali",
+   "Hébergement en hôtel à Manali",
+   "Visites à Manali",
+   "Transport de Manali à Delhi",
+   "Guide local",
+   "Péages, taxes d'état, stationnement",
+   "Repas : petit-déjeuner"
+  ],
+  "notIncluded": [
+   "Activités optionnelles à Kufri",
+   "Visite optionnelle de la vallée de Solang ou du col de Rohtang",
+   "Activités optionnelles telles que le parapente ou le rafting"
+  ]
+ },
+ "delhi-shop-bargain-discover-with-a-local-shopping-": {
+  "title": "Delhi : acheter, négocier et découvrir avec un expert shopping local",
+  "metaTitle": "Delhi : shopping avec un expert local",
+  "metaDescription": "Une demi-journée de shopping à Delhi avec un expert local, textiles, argent, pashmina et ayurvéda, aux vrais prix.",
+  "shortDescription": "Une demi-journée de shopping à Delhi avec un expert local, textiles, argent, pashmina et ayurvéda, aux vrais prix.",
+  "fullDescription": "**La négociation est le service**\n\nLes marchés de Delhi ont deux grilles tarifaires, et celle que vous obtenez dépend de la façon dont vous demandez. Quatre heures avec quelqu'un qui fait ses achats ici signifie que vous payez la seconde, et cela signifie que vous pouvez distinguer le brodé main du brodé machine avant de vous engager.\n\nCommence par une courte consultation : ce que vous cherchez, ce que vous voulez dépenser, et si vous préférez apprendre à négocier ou laisser quelqu'un le faire pour vous.\n\n**Pour quoi Delhi est excellente**\n\nLes **textiles**, c'est la meilleure ville d'Inde pour cela, car tout, de chaque état, arrive ici. Le **chikankari** brodé main de Lucknow, le **kantha** du Bengale, l'impression à la planche du Rajasthan, et le coton tissé à la main au mètre.\n\nL'**argent**, à **Dariba Kalan** près de Chandni Chowk, où ce commerce existe depuis trois cents ans. Demandez le poinçon ; les boutiques réputées donnent un prix basé sur le poids et vous montreront la balance.\n\nLe **pashmina**, là où la plupart des visiteurs se font arnaquer. Le véritable pashmina est tissé à la main à partir de la laine de la chèvre Changthangi, passe le test de l'anneau, et coûte ce qu'il coûte. Le produit doux, bon marché et brillant des boutiques touristiques est de la viscose. Votre guide vous montrera la différence au toucher.\n\nLes **produits ayurvédiques** et les épices, Khari Baoli pour ces dernières, le plus grand marché aux épices d'Asie où tous les magasins du nord de l'Inde achètent.\n\n**Où vous allez**\n\nUn mélange des ruelles spécialisées de **Chandni Chowk**, de **Dilli Haat** pour l'artisanat des états à prix fixes, et des marchés de tissus et de surplus d'exportation, selon ce que vous recherchez.\n\n**Dites ceci au début**\n\nQue vous voulez être emmené là où achètent les locaux, pas où les magasins versent des commissions. Un bon guide acceptera simplement.\n\n**Deux options**\n\nGuide seul, ou guide avec voiture climatisée, la voiture vaut la peine si vous comptez acheter quelque chose d'encombrant.\n\n**Pratique**\n\nQuatre heures. Apportez de l'argent liquide pour les petites boutiques ; UPI ne fonctionnera pas sur un téléphone étranger.",
+  "highlights": [
+   "Découvrez la culture vibrante du shopping à Delhi avec un expert local compétent"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel (si l'option est choisie)",
+   "Voiture privée climatisée pour les transferts",
+   "Expert shopping",
+   "Visite de shopping guidée",
+   "En-cas locaux et chai traditionnel",
+   "Aide pour les retouches",
+   "Factures TPS si nécessaire"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
+ "delhi-skip-the-line-humayuns-tomb-tour-with-hotel": {
+  "title": "Delhi : visite coupe-file du tombeau de Humayun avec prise en charge à l'hôtel",
+  "metaTitle": "Tombeau de Humayun : visite coupe-file",
+  "metaDescription": "Trois heures au tombeau de Humayun avec entrée coupe-file, un guide et prise en charge à l'hôtel.",
+  "shortDescription": "Trois heures au tombeau de Humayun avec entrée coupe-file, un guide et prise en charge à l'hôtel.",
+  "fullDescription": "**Le monument le mieux restauré d'Inde**\n\nLe tombeau de Humayun mérite une visite guidée autant pour l'histoire de sa conservation que pour son architecture. L'Aga Khan Trust for Culture y a travaillé pendant une décennie à partir de 2007 : ils ont retiré environ un million de pieds cubes de terre que des occupants ultérieurs avaient déversée sur le jardin, retrouvé les niveaux d'origine, reconstruit les canaux d'eau pour qu'ils coulent à nouveau, et reposé la pierre à la main.\n\nAvant cela, c'était une ruine agréable dans une pelouse. Aujourd'hui, c'est proche de ce que Bega Begum a commandé.\n\n**Pourquoi c'est important**\n\nElle l'a construit pour son époux en 1565, neuf ans après sa mort, et a fait venir un architecte persan pour cela. Le résultat fut le premier grand tombeau-jardin moghol d'Inde, et il a établi toutes les conventions que le Taj Mahal a suivies soixante-sept ans plus tard, le tombeau au centre d'un **charbagh** en quatre parties divisé par des canaux d'eau, le **double dôme**, le grès rouge avec incrustation de marbre blanc, et une symétrie poussée au millimètre.\n\n**À l'intérieur**\n\nUne chambre octogonale sur une plateforme de presque sept mètres de haut. Humayun est enterré ici, ainsi que plus de cent autres Moghols, princes, épouses, nobles, inhumés dans les chambres annexes au cours des deux siècles suivants. On l'appelle parfois le dormitoire des Moghols.\n\nEn 1857, le dernier empereur, **Bahadur Shah Zafar**, se réfugia dans ce tombeau et y fut capturé par les Britanniques.\n\n**Le reste du complexe**\n\nLe **tombeau d'Isa Khan**, vingt ans plus ancien, avec sa propre enceinte octogonale et sa mosquée, et généralement complètement vide. Le **tombeau du Barbier** dans le jardin principal, dont nul n'a identifié l'occupant. Et le **Nila Gumbad**, le tombeau au dôme bleu hors du mur est, récupéré sur un terrain ferroviaire lors de la même restauration.\n\n**Trois options**\n\nGuide seul ; voiture, chauffeur et guide ; ou la même chose avec le billet d'entrée.\n\n**Pratique**\n\nTrois heures avec prise en charge à l'hôtel. L'entrée coûte 600 ₹ pour les ressortissants étrangers.\n\nOuvert tous les jours. Le début de matinée et la dernière heure avant le coucher du soleil sont tous deux excellents, la lumière descend le long des canaux d'eau.",
+  "highlights": [
+   "Évitez les longues files grâce à l'accès prioritaire au tombeau de Humayun"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée avec chauffeur pour le transfert",
+   "Guide en direct agréé par le gouvernement",
+   "Billets d'entrée aux monuments (si l'option est choisie)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute nourriture",
+   "Toute dépense personnelle"
+  ]
+ },
+ "delhi-taj-mahal-jaipur-2-day-heritage-sightseeing-": {
+  "title": "Delhi : Taj Mahal et Jaipur, circuit patrimonial de 2 jours",
+  "metaTitle": "Taj Mahal et Jaipur en 2 jours",
+  "metaDescription": "Deux jours depuis Delhi couvrant le Taj Mahal, le fort d'Agra et les sites de Jaipur, avec une nuit en hôtel quatre ou cinq étoiles.",
+  "shortDescription": "Deux jours depuis Delhi couvrant le Taj Mahal, le fort d'Agra et les sites de Jaipur, avec une nuit en hôtel quatre ou cinq étoiles.",
+  "fullDescription": "**Le triangle compressé en deux jours**\n\nCeci couvre Agra et Jaipur en 48 heures depuis Delhi. C'est rapide, et cela fonctionne parce que la nuit se passe à Jaipur plutôt que de retour à Delhi, ce qui supprime environ quatre heures de trajet inutile de l'itinéraire.\n\n**Jour un : Delhi à Agra à Jaipur**\n\nDépart matinal par la **Yamuna Expressway**, environ trois heures.\n\nLe **Taj Mahal** avec un guide agréé. Shah Jahan l'a commencé en 1632, l'année après la mort de Mumtaz Mahal en donnant naissance à leur quatorzième enfant, vingt mille ouvriers, vingt-deux ans, marbre transporté sur 400 km depuis Makrana.\n\nVotre guide explique ce que vous dépasseriez sans attention : la **calligraphie** taillée en tailles croissantes pour se lire à la même hauteur depuis le sol, les fleurs de **pietra dura** composées chacune de dizaines de pierres incrustées, les **minarets** inclinés très légèrement vers l'extérieur pour qu'un tremblement de terre les fasse tomber loin du tombeau, et l'unique asymétrie de toute la composition, le cénotaphe de Shah Jahan lui-même, placé hors axe par son fils.\n\nPuis le **fort d'Agra** : la ville de grès rouge d'Akbar de 1565 avec les palais de marbre de Shah Jahan à l'intérieur, et le **Musamman Burj**, où il passa ses huit dernières années emprisonné par Aurangzeb, le Taj visible le long du fleuve.\n\nTrajet de l'après-midi vers Jaipur, environ quatre heures, arrivée pour la nuit.\n\n**Jour deux : Jaipur**\n\nLe **fort d'Amber** tôt le matin, la porte Ganesh Pol, le Sheesh Mahal, les cours grimpant sur la crête au-dessus du lac Maota. Partez tôt, la foule arrive avec les autocars.\n\nLe **Jal Mahal** depuis la digue, quatre de ses cinq étages sous l'eau. Le **City Palace** et le **Jantar Mantar** dans la vieille ville. Le **Hawa Mahal**, l'écran aux 953 fenêtres, depuis la rue d'en face.\n\nPuis le trajet de retour vers Delhi, environ cinq heures.\n\n**Deux options**\n\nTransport climatisé avec guide et hôtel quatre étoiles, ou la même chose en cinq étoiles.\n\n**Le Taj est fermé le vendredi**, ce qui fixe les dates de départ.",
+  "highlights": [
+   "Visitez l'emblématique Taj Mahal, l'une des sept merveilles du monde"
+  ],
+  "included": [
+   "Véhicule privé climatisé de luxe pour tous les transferts et visites",
+   "Guide professionnel agréé par le gouvernement à Agra et Jaipur",
+   "1 nuit en hôtel 5 étoiles (avec petit-déjeuner)",
+   "Eau en bouteille et rafraîchissements légers pendant le trajet",
+   "Petit-déjeuner buffet à l'hôtel",
+   "Toutes les taxes, frais de stationnement et de carburant inclus",
+   "Prise en charge et retour à l'hôtel ou à l'aéroport à Delhi"
+  ],
+  "notIncluded": [
+   "Dîner et déjeuner",
+   "Frais d'entrée aux monuments",
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

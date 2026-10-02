@@ -11557,6 +11557,103 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "delhi-shimla-and-manali-6-day-tour": {
+  "title": "Delhi: Shimla und Manali in 6 Tagen",
+  "metaTitle": "Shimla und Manali in 6 Tagen ab Delhi",
+  "metaDescription": "Sechs Tage ab Delhi nach Shimla und Manali, koloniale Bergstationen, das Kullu-Tal und der Beas-Fluss.",
+  "shortDescription": "Sechs Tage ab Delhi nach Shimla und Manali, koloniale Bergstationen, das Kullu-Tal und der Beas-Fluss.",
+  "fullDescription": "**Zwei Bergstationen, und sie sind nicht gleich**\n\nShimla ist eine koloniale Verwaltungsstadt auf 2.200 Metern. Manali ist ein Tal aus Obstgärten und Flüssen auf 2.000 Metern. Beide sind kühl, grün und völlig anders als die Ebenen, und sechs Tage sind, was die Bergstraßen erfordern.\n\n**Shimla**\n\nDie Briten verlegten jeden Sommer ab 1864 die gesamte Regierung Indiens hierher, Akten, Vizekönig, Armeehauptquartier und alles, weil Delhi unerträglich war. Was sie hinterließen, ist eine Stadt, die wie nirgendwo sonst im Land aussieht.\n\n**The Ridge** und die **Mall Road** sind reine Fußgängerzonen, gesäumt von Kolonialbauten: die **Christ Church**, die zweitälteste Nordindiens, und die **Viceregal Lodge**, wo 1947 die Entscheidung zur Teilung Indiens getroffen wurde und deren teakverkleidete Räume für Besucher geöffnet sind.\n\nDer **Jakhoo-Tempel** liegt am höchsten Punkt unter einer 33 Meter hohen Hanuman-Statue, über einen steilen Weg durch Zedernwald erreichbar. Die Affen dort nehmen Brillen; lassen Sie diese im Auto.\n\n**Kufri**, sechzehn Kilometer entfernt, für den Schneeblick im Winter.\n\n**Manali**\n\nAcht Stunden weiter durch das Kullu-Tal entlang des Beas.\n\nDer **Hadimba-Devi-Tempel**, 1553 aus Zedernholz mit Pagodendach errichtet, steht in einem Zedernwald, der älter wirkt als das Gebäude. **Vashisht** für die heißen Quellen, das **Solang-Tal** für Schnee und Paragliding, und **Old Manali** für den ruhigen Ausklang der Reise.\n\nDie Fahrt das Tal hinauf ist selbst die Attraktion, Obstgärten, Fluss, und Dörfer mit Schieferdächern.\n\n**Praktisches**\n\nPrivater Wagen und Fahrer durchgehend, mit Hotels.\n\nDie Straßen sind lange Serpentinen, und die Etappe Shimla-Manali ist ein ganzer Tag. Nehmen Sie etwas gegen Reisekrankheit, falls nötig.\n\nBeide Städte sind von November bis März kalt und können im Januar Schnee haben. Der **Rohtang-Pass** jenseits von Manali öffnet nur etwa von Mai bis Oktober und benötigt eine separate Genehmigung.",
+  "highlights": [
+   "Entdecken Sie die Schönheit von Shimla und Manali auf einer 6-tägigen Tour ab Delhi"
+  ],
+  "included": [
+   "Transport von Delhi nach Shimla",
+   "Hotelunterkunft in Shimla",
+   "Besichtigungen in Shimla",
+   "Transport von Shimla nach Manali",
+   "Hotelunterkunft in Manali",
+   "Besichtigungen in Manali",
+   "Transport von Manali nach Delhi",
+   "Lokaler Führer",
+   "Mautgebühren, Landessteuer, Parken",
+   "Mahlzeit: Frühstück"
+  ],
+  "notIncluded": [
+   "Optionale Aktivitäten in Kufri",
+   "Optionaler Besuch des Solang-Tals oder des Rohtang-Passes",
+   "Optionale Aktivitäten wie Paragliding oder Rafting"
+  ]
+ },
+ "delhi-shop-bargain-discover-with-a-local-shopping-": {
+  "title": "Delhi: Einkaufen, Handeln und Entdecken mit einem lokalen Shopping-Experten",
+  "metaTitle": "Delhi: Shopping mit lokalem Experten",
+  "metaDescription": "Ein halber Tag Shopping in Delhi mit einem lokalen Experten, Textilien, Silber, Pashmina und Ayurveda, zu echten Preisen.",
+  "shortDescription": "Ein halber Tag Shopping in Delhi mit einem lokalen Experten, Textilien, Silber, Pashmina und Ayurveda, zu echten Preisen.",
+  "fullDescription": "**Das Verhandeln ist der Service**\n\nDelhis Märkte führen zwei Preislisten, und welche Sie erhalten, hängt davon ab, wie Sie fragen. Vier Stunden mit jemandem, der hier einkauft, bedeutet, dass Sie die zweite zahlen, und es bedeutet, dass Sie handgestickt von maschinengestickt unterscheiden können, bevor Sie sich entscheiden.\n\nBeginnt mit einer kurzen Beratung: was Sie suchen, was Sie ausgeben möchten, und ob Sie lieber lernen möchten, zu verhandeln, oder es für Sie erledigt haben wollen.\n\n**Wofür Delhi gut ist**\n\n**Textilien**, dies ist die beste Stadt Indiens dafür, denn alles aus jedem Bundesstaat kommt hier zusammen. Handgesticktes **Chikankari** aus Lucknow, **Kantha** aus Bengalen, Blockdruck aus Rajasthan, und handgewebte Baumwolle am Meter.\n\n**Silber**, in **Dariba Kalan** abseits von Chandni Chowk, wo dieser Handel seit dreihundert Jahren betrieben wird. Fragen Sie nach dem Stempel; seriöse Geschäfte geben einen gewichtsbasierten Preis an und zeigen Ihnen die Waage.\n\n**Pashmina**, wo die meisten Besucher übers Ohr gehauen werden. Echtes Pashmina wird aus dem Fell der Changthangi-Ziege handgewebt, besteht den Ringtest, und kostet, was es kostet. Das weiche, billige, glänzende Zeug in den Touristenläden ist Viskose. Ihr Führer zeigt Ihnen den Unterschied durch Berühren.\n\n**Ayurvedische Produkte** und Gewürze, Khari Baoli für Letztere, der größte Gewürzmarkt Asiens, bei dem jedes Geschäft in Nordindien einkauft.\n\n**Wohin es geht**\n\nEine Mischung aus den spezialisierten Gassen von **Chandni Chowk**, **Dilli Haat** für Kunsthandwerk der Bundesstaaten zu Festpreisen, und den Stoff- und Exportüberschussmärkten, je nachdem, wonach Sie suchen.\n\n**Sagen Sie dies am Anfang**\n\nDass Sie dorthin gebracht werden möchten, wo Einheimische einkaufen, nicht wo Geschäfte Provision zahlen. Ein guter Führer wird einfach zustimmen.\n\n**Zwei Optionen**\n\nNur Führer, oder Führer mit klimatisiertem Auto, das Auto lohnt sich, wenn Sie vorhaben, etwas Sperriges zu kaufen.\n\n**Praktisches**\n\nVier Stunden. Bringen Sie Bargeld für die kleinen Läden mit; UPI funktioniert auf einem ausländischen Telefon nicht.",
+  "highlights": [
+   "Entdecken Sie Delhis lebendige Einkaufskultur mit einem kenntnisreichen lokalen Experten"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel (falls Option gewählt)",
+   "Privates klimatisiertes Auto für Transfers",
+   "Shopping-Experte",
+   "Geführte Einkaufstour",
+   "Lokale Snacks und traditioneller Chai",
+   "Hilfe bei Änderungen",
+   "GST-Rechnungen, falls erforderlich"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "delhi-skip-the-line-humayuns-tomb-tour-with-hotel": {
+  "title": "Delhi: Vorrang-Tour zu Humayuns Grab mit Hotelabholung",
+  "metaTitle": "Humayuns Grab: Vorrangtour",
+  "metaDescription": "Drei Stunden an Humayuns Grab mit Vorrangeinlass, einem Führer und Hotelabholung.",
+  "shortDescription": "Drei Stunden an Humayuns Grab mit Vorrangeinlass, einem Führer und Hotelabholung.",
+  "fullDescription": "**Das am besten restaurierte Denkmal Indiens**\n\nHumayuns Grab lohnt eine geführte Besichtigung ebenso wegen der Restaurierungsgeschichte wie der Architektur. Der Aga Khan Trust for Culture arbeitete hier ein Jahrzehnt ab 2007: Sie entfernten etwa eine Million Kubikfuß Erde, die spätere Bewohner über dem Garten aufgeschüttet hatten, stellten die ursprünglichen Ebenen wieder her, bauten die Wasserkanäle neu, damit sie wieder fließen, und verlegten den Stein von Hand neu.\n\nDavor war dies eine angenehme Ruine auf einem Rasen. Jetzt ist es nahe an dem, was Bega Begum beauftragte.\n\n**Warum es wichtig ist**\n\nSie errichtete es 1565 für ihren Mann, neun Jahre nach seinem Tod, und holte einen persischen Architekten dafür. Das Ergebnis war das erste große Mogul-Gartengrab Indiens, und es legte jede Konvention fest, der der Taj Mahal siebenundsechzig Jahre später folgte, das Grab in der Mitte eines vierteiligen **Charbagh**, durch Wasserkanäle getrennt, die **Doppelkuppel**, roter Sandstein mit weißer Marmoreinlegearbeit, und Symmetrie bis auf den Millimeter.\n\n**Im Inneren**\n\nEine achteckige Kammer auf einer fast sieben Meter hohen Plattform. Humayun ist hier begraben, ebenso wie über hundert weitere Moguln, Prinzen, Frauen, Adlige, in den folgenden zwei Jahrhunderten in den Nebenkammern bestattet. Es wird manchmal das Schlafsaal der Moguln genannt.\n\n1857 suchte der letzte Kaiser, **Bahadur Shah Zafar**, Zuflucht an diesem Grab und wurde hier von den Briten gefangen genommen.\n\n**Der Rest des Komplexes**\n\n**Isa Khans Grab**, zwanzig Jahre älter, mit eigener achteckiger Umfriedung und Moschee, und meist völlig leer. Das **Barbier-Grab** im Hauptgarten, dessen Bewohner niemand identifiziert hat. Und die **Nila Gumbad**, das blau gekuppelte Grab außerhalb der östlichen Mauer, bei derselben Restaurierung von Eisenbahngelände zurückgewonnen.\n\n**Drei Optionen**\n\nNur Führer; Auto, Fahrer und Führer; oder dasselbe mit Eintrittskarte.\n\n**Praktisches**\n\nDrei Stunden mit Hotelabholung. Der Eintritt kostet 600 ₹ für ausländische Staatsangehörige.\n\nTäglich geöffnet. Der frühe Morgen und die letzte Stunde vor Sonnenuntergang sind beide gut, das Licht fällt entlang der Wasserkanäle.",
+  "highlights": [
+   "Umgehen Sie die langen Warteschlangen mit vorrangigem Zugang zu Humayuns Grab"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel oder Flughafen",
+   "Privates klimatisiertes Auto mit Fahrer für den Transfer",
+   "Staatlich zugelassener Live-Reiseführer",
+   "Eintrittskarten zu den Denkmälern (falls Option gewählt)",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parkkosten"
+  ],
+  "notIncluded": [
+   "Jegliches Essen",
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "delhi-taj-mahal-jaipur-2-day-heritage-sightseeing-": {
+  "title": "Delhi: Taj Mahal und Jaipur, Kulturerbe-Besichtigungstour in 2 Tagen",
+  "metaTitle": "Taj Mahal und Jaipur in 2 Tagen",
+  "metaDescription": "Zwei Tage ab Delhi mit dem Taj Mahal, dem Agra Fort und Jaipurs Sehenswürdigkeiten, mit einer Nacht im Vier- oder Fünf-Sterne-Hotel.",
+  "shortDescription": "Zwei Tage ab Delhi mit dem Taj Mahal, dem Agra Fort und Jaipurs Sehenswürdigkeiten, mit einer Nacht im Vier- oder Fünf-Sterne-Hotel.",
+  "fullDescription": "**Das Dreieck in zwei Tage komprimiert**\n\nDies umfasst Agra und Jaipur in 48 Stunden ab Delhi. Es ist schnell, und es funktioniert, weil die Nacht in Jaipur stattfindet statt zurück in Delhi, was etwa vier Stunden sinnlose Fahrzeit aus dem Reiseplan entfernt.\n\n**Tag eins: Delhi nach Agra nach Jaipur**\n\nFrüher Start über die **Yamuna Expressway**, etwa drei Stunden.\n\nDer **Taj Mahal** mit einem lizenzierten Führer. Shah Jahan begann ihn 1632, ein Jahr nach dem Tod von Mumtaz Mahal bei der Geburt ihres vierzehnten Kindes, zwanzigtausend Arbeiter, zweiundzwanzig Jahre, Marmor über 400 km aus Makrana herangeschafft.\n\nIhr Führer erklärt Dinge, an denen Sie sonst vorbeigehen würden: die **Kalligrafie**, in zunehmender Größe geschnitten, damit sie vom Boden aus gleich hoch lesbar ist, die **Pietra-Dura**-Blumen aus jeweils Dutzenden eingelegter Steine, die **Minarette**, sehr leicht nach außen geneigt, damit ein Erdbeben sie vom Grab wegfallen ließe, und die einzige Asymmetrie in der gesamten Komposition, Shah Jahans eigenes Kenotaph, von seinem Sohn außerhalb der Achse platziert.\n\nDann das **Agra Fort**: Akbars rote Sandsteinstadt aus 1565 mit Shah Jahans Marmorpalästen im Inneren, und der **Musamman Burj**, wo er seine letzten acht Jahre als Gefangener Aurangzebs verbrachte, der Taj entlang des Flusses sichtbar.\n\nNachmittägliche Fahrt nach Jaipur, etwa vier Stunden, Ankunft für die Nacht.\n\n**Tag zwei: Jaipur**\n\nDas **Amber Fort** als Erstes, das Ganesh-Pol-Tor, der Sheesh Mahal, die Innenhöfe, die den Grat über dem Maota-See hinaufsteigen. Fahren Sie früh los, die Menge kommt mit den Bussen.\n\nDer **Jal Mahal** vom Damm aus, vier seiner fünf Stockwerke unter Wasser. **City Palace** und **Jantar Mantar** in der Altstadt. Der **Hawa Mahal**, die Fassade mit 953 Fenstern, von der Straße gegenüber.\n\nDann die Rückfahrt nach Delhi, etwa fünf Stunden.\n\n**Zwei Optionen**\n\nKlimatisierter Transport mit Führer und Vier-Sterne-Hotel, oder dasselbe mit Fünf-Sterne.\n\n**Der Taj ist freitags geschlossen**, was die Startdaten festlegt.",
+  "highlights": [
+   "Besuchen Sie den ikonischen Taj Mahal, eines der Sieben Weltwunder"
+  ],
+  "included": [
+   "Luxuriöses privates klimatisiertes Fahrzeug für alle Transfers und Besichtigungen",
+   "Professioneller staatlich zugelassener Führer in Agra und Jaipur",
+   "1 Nacht in einem 5-Sterne-Hotel (mit Frühstück)",
+   "Wasser in Flaschen und leichte Erfrischungen während der Reise",
+   "Buffet-Frühstück im Hotel",
+   "Alle Steuern, Parkgebühren und Kraftstoffkosten inklusive",
+   "Abholung und Rückbringung zum Hotel oder Flughafen in Delhi"
+  ],
+  "notIncluded": [
+   "Abendessen und Mittagessen",
+   "Eintrittsgebühren zu den Denkmälern",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
