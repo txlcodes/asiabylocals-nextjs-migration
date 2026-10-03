@@ -42228,6 +42228,85 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zusätzliche, nicht aufgeführte Wasseraktivitäten"
   ]
  },
+ "tiffanys-show-theatre-north-pattaya-entry-ticket": {
+  "title": "Tiffany's Show Pattaya: Cabaret-Ticket mit Abendessen und VIP-Sitzplatz-Upgrade",
+  "metaTitle": "Tiffany's Show Pattaya: Ticket, Abendessen und VIP",
+  "metaDescription": "Ein Pattaya-Abend aus einer Hand: Abendessen, gefolgt von einem Ticket für das weltberühmte Tiffany-Cabaret, mit der Option auf ein VIP-Sitzplatz-Upgrade für die beste Sicht im Haus.",
+  "shortDescription": "Ein Pattaya-Abend aus einer Hand: Abendessen, gefolgt von einem Ticket für das weltberühmte Tiffany-Cabaret, mit der Option auf ein VIP-Sitzplatz-Upgrade für die beste Sicht im Haus.",
+  "fullDescription": "Tiffany's ist die Show, die Pattayas Cabaret auf die Weltkarte gesetzt hat: Seit 1974 im Betrieb, ist es das älteste Transvestiten-Cabaret in Südostasien und bis heute der Goldstandard, mit einem eigens dafür errichteten Theater, Vegas-Format-Produktionswerten und einer Besetzung, deren Kostüme allein das Ticket wert sind. Dieses Paket fasst den ganzen Abend in einer Buchung zusammen: zunächst ein richtiges Sitz-Abendessen, dann Ihr reservierter Platz im Theater für die Abendvorstellung.\n\nDie Show selbst läuft durch eine zügige Folge von großen Ensemble-Nummern: internationale Themen, thailändische klassische Segmente, glitzernde Kostümwechsel, und die präzisen, theatralischen Lippensynchron-Auftritte, für die das Haus berühmt ist. Alles wird mit voller Lichttechnik, bewegten Bühnenbildern und einer Besetzung aus Dutzenden Künstlern inszeniert, was Tiffany's von den kleineren Cabaret-Bars in der Stadt unterscheidet.\n\nDie Sitzkategorien spielen hier eine Rolle: Standardplätze bieten eine durchaus gute Sicht, aber das VIP-Upgrade bringt Sie in die vorderen zentralen Bereiche, wo die Details der Kostüme und der Choreografie wirklich zur Geltung kommen, und es lohnt sich, dies bei einem ersten Besuch zu bedenken. Mit vorab organisiertem Abendessen und abgestimmter Theaterzeit läuft der gesamte Abend reibungslos vom Tisch bis zum Schlussvorhang, ohne dass noch etwas zu organisieren wäre.",
+  "highlights": [
+   "Ticket für Pattayas weltberühmte Tiffany-Cabaret-Show",
+   "Sitz-Abendessen vor der Vorstellung inklusive",
+   "Optionales VIP-Sitzplatz-Upgrade für die beste Sicht im Theater",
+   "Produktion im Vegas-Format mit aufwendigen Kostümen und Bühnenbildern",
+   "Reibungsloser Abend aus einer Hand, ohne etwas zu organisieren"
+  ],
+  "included": [
+   "Eintrittskarte für die Tiffany-Cabaret-Show",
+   "Abendessen vor der Vorstellung",
+   "Reservierter Sitzplatz (Standard oder VIP je nach Buchung)"
+  ],
+  "notIncluded": [
+   "Hoteltransfers",
+   "Getränke über das zum Abendessen Inkludierte hinaus",
+   "Fotos mit den Künstlern nach der Show (vor Ort zu bezahlen)",
+   "Trinkgelder"
+  ]
+ },
+ "pattaya-bay-evening-tour": {
+  "title": "Abendkreuzfahrt Oriental Atlantis: Buffet-Abendessen und Cabaret in der Bucht von Pattaya",
+  "metaTitle": "Kreuzfahrt Oriental Atlantis: Buffet-Abendessen und Cabaret",
+  "metaDescription": "Ein Abend an Bord der neu gestarteten Oriental Atlantis: ein internationales Buffet-Abendessen und eine Live-Cabaret-Show, während das Schiff gegen die glitzernde Nachtskyline der Bucht von Pattaya fährt.",
+  "shortDescription": "Ein Abend an Bord der neu gestarteten Oriental Atlantis: ein internationales Buffet-Abendessen und eine Live-Cabaret-Show, während das Schiff gegen die glitzernde Nachtskyline der Bucht von Pattaya fährt.",
+  "fullDescription": "Die Oriental Atlantis ist die neueste Ergänzung der Dinner-Kreuzfahrtflotte Pattayas, offiziell 2026 gestartet, und der Unterschied zeigt sich in dem Moment, in dem Sie an Bord gehen: glänzende Decks, klimatisierte Speisesalons, und Freiluft-Aussichtsbereiche, die um die nächtliche Skyline der Bucht herum gestaltet sind. Während das Schiff vom Bali-Hai-Pier abgleitet, ziehen sich die Lichter der Walking Street und der Pattaya-Küste hinter Ihnen hin, und der Abend findet seinen zweiteiligen Rhythmus aus Essen und Unterhaltung.\n\nDas Abendessen ist ein großzügiges Buffet, das thailändische Favoriten mit internationalen Gerichten mischt, serviert während das Schiff seine langsame Runde durch die ruhigen Gewässer der Bucht dreht. Hier wird nichts gehetzt: Die Kreuzfahrt ist so getaktet, dass Sie sich nachnehmen, zwischen den Gängen aufs offene Deck gehen und die Meeresbrise genießen können, während die Stadt in der Ferne glitzert.\n\nDas Herzstück des Abends ist eine Live-Cabaret-Vorstellung an Bord: Pailletten-Kostüme, choreografierte Nummern, und die extravagante Showkunst, für die Pattayas Cabaret-Szene berühmt ist, komprimiert in eine energiegeladene Bordshow. Zwischen dem Essen, der Vorstellung und den Nachtaussichten ist es ein unkomplizierter Abend aus einer Hand, der für Paare, Familien und Gruppen gleich gut funktioniert.",
+  "highlights": [
+   "Kreuzfahrt an Bord der brandneuen, 2026 gestarteten Oriental Atlantis",
+   "Internationales und thailändisches Buffet-Abendessen an Bord serviert",
+   "Live-Cabaret-Show während der Kreuzfahrt",
+   "Nächtliche Aussichten auf die beleuchtete Skyline der Bucht von Pattaya",
+   "Klimatisiertes Speisen plus Freiluft-Aussichtsdecks"
+  ],
+  "included": [
+   "Abendkreuzfahrt an Bord der Oriental Atlantis",
+   "Internationales und thailändisches Buffet-Abendessen",
+   "Live-Cabaret-Show",
+   "Trinkwasser",
+   "Schwimmwesten und Sicherheitsausrüstung"
+  ],
+  "notIncluded": [
+   "Hoteltransfers zum und vom Bali-Hai-Pier",
+   "Alkoholische Getränke und Softdrinks über Wasser hinaus",
+   "Fotos mit den Künstlern (an Bord gegen Aufpreis erhältlich)",
+   "Trinkgelder"
+  ]
+ },
+ "tawaen-beach-koh-larn-sunset-tour": {
+  "title": "Koh-Larn-Insel-Ausflug ab Pattaya mit Sonnenuntergangs-Kaffee-Finale",
+  "metaTitle": "Koh Larn ab Pattaya, Finale mit Sonnenuntergangs-Kaffee",
+  "metaDescription": "Ein voller Koh-Larn-Strandtag mit Speedboot-Transfers und freier Zeit am Tawaen Beach, abgeschlossen mit einem kostenlosen Kaffee, während die Sonne über dem Pattaya Beach untergeht.",
+  "shortDescription": "Ein voller Koh-Larn-Strandtag mit Speedboot-Transfers und freier Zeit am Tawaen Beach, abgeschlossen mit einem kostenlosen Kaffee, während die Sonne über dem Pattaya Beach untergeht.",
+  "fullDescription": "Die meisten Koh-Larn-Ausflüge enden in dem Moment, in dem das Boot wieder am Pier anlegt, dieser hier spart sich den besten Teil bis zum Schluss auf. Nach einem Tag voller Sand und Meer auf Pattayas liebster Insel werden Sie zu einem Ort am Pattaya Beach gebracht, für einen kostenlosen Kaffee genau zum Sonnenuntergang getimed, was den üblichen gehetzten Rücktransfer in einen richtigen Tagesabschluss verwandelt.\n\nDer Tag selbst beginnt mit Abholung ab Ihrem Hotel in Pattaya und einer kurzen Fahrt zum Bali-Hai-Pier, wo ein Speedboot Sie in einem Bruchteil der Zeit, die die öffentliche Fähre braucht, nach Koh Larn bringt. Sie haben rund zwei Stunden freie Zeit am Tawaen Beach, dem langen Hauptstrand der Insel mit blassem Sand, schwimmen, sonnenbaden, die Stände am Strand durchstöbern, oder optionale Wasseraktivitäten vor Ort hinzufügen. Mit einer Paketauswahl bei der Buchung können Sie den Tag um entspanntes Liegen im Sand oder mehr Inselaktivität herum gestalten.\n\nAm späten Nachmittag bringt das Speedboot Sie zurück zum Festland, und statt direkt bei Ihrem Hotel abgesetzt zu werden, lässt sich die Gruppe für diesen Sonnenuntergangs-Kaffee am Pattaya Beach nieder, bevor der letzte Transfer erfolgt. Es ist eine kleine Ergänzung, die den Tag vollständig statt abrupt beendet wirken lässt.",
+  "highlights": [
+   "Speedboot-Transfers zwischen dem Bali-Hai-Pier und Koh Larn",
+   "Rund zwei Stunden freie Strandzeit am Tawaen Beach",
+   "Kostenloser Kaffee mit Sonnenuntergangsblick über den Pattaya Beach",
+   "Paketauswahl zur Gestaltung Ihres Inseltages",
+   "Hotelabholung und -rückfahrt in Pattaya inklusive"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Pattaya",
+   "Hin- und Rück-Speedboot-Transfer nach Koh Larn",
+   "Freie Zeit am Tawaen Beach",
+   "Sonnenuntergangs-Kaffee am Pattaya Beach",
+   "Schwimmwesten und Sicherheitsbriefing"
+  ],
+  "notIncluded": [
+   "Mittagessen und zusätzliche Speisen oder Getränke",
+   "Optionale Wasseraktivitäten auf Koh Larn (Jetski, Bananenboot, Parasailing)",
+   "Strandstuhl-Vermietung auf der Insel",
+   "Trinkgelder"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
