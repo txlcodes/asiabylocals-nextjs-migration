@@ -42739,6 +42739,87 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles et souvenirs"
   ]
  },
+ "koh-daeng-sunset-included-bioluminescent-plankton-in-krabi": {
+  "title": "Coucher de soleil à Koh Daeng avec plancton bioluminescent à Krabi",
+  "metaTitle": "Koh Daeng : coucher de soleil et plancton bioluminescent",
+  "metaDescription": "Excursion d'une demi-journée à Krabi avec plongée avec tuba, coucher de soleil depuis l'eau, et baignade dans le plancton bioluminescent. Organisée par LoveLay Andaman, réservation directe.",
+  "shortDescription": "Excursion d'une demi-journée à Krabi avec plongée avec tuba, coucher de soleil depuis l'eau, et baignade dans le plancton bioluminescent. Organisée par LoveLay Andaman, réservation directe.",
+  "fullDescription": "Une excursion en soirée de cinq heures construite autour de deux choses qu'on ne peut pas voir en plein jour : le coucher de soleil depuis l'eau, et du plancton qui s'illumine une fois la nuit tombée.\n\nLe bateau part de la place aux sculptures de poissons sur la plage d'Ao Nang et se dirige vers Koh Daeng, l'une des plus petites îles de la côte de Krabi que les excursions d'une journée ignorent généralement. La plongée avec tuba vient d'abord, pendant qu'il fait encore jour, masques fournis et guide indiquant où le récif vaut le temps. Au coucher du soleil, les pitons calcaires autour de la baie passent du gris au cuivre, ce qui est la partie pour laquelle la plupart des gens réservent l'excursion sans le réaliser.\n\nAprès la tombée de la nuit, le bateau se déplace vers des eaux abritées pour la baignade dans le plancton. La lumière provient de dinoflagellés réagissant au mouvement, elle apparaît donc autour de vos mains et de vos pieds plutôt qu'à la surface. C'est réellement imprévisible : les nuits sombres proches de la nouvelle lune offrent le spectacle le plus intense, une lumière de pleine lune l'atténue, et une mer agitée la disperse. Si le voir vous importe, choisissez une date proche d'une nouvelle lune.\n\nLoveLay Andaman organise cette excursion et nous réservons directement avec eux, votre place est donc retenue auprès de l'opérateur avant que la réservation ne soit définitive. Le prix comprend le transfert, un guide professionnel, des fruits de saison, de l'eau potable, un masque de plongée avec tuba et une assurance.\n\nApportez une serviette et des vêtements secs. Cinq heures, un jour de préavis minimum.",
+  "highlights": [
+   "Koh Daeng, ignorée par la plupart des excursions d'une journée",
+   "Plongée avec tuba en plein jour, plancton après la tombée de la nuit",
+   "Coucher de soleil sur les pitons calcaires depuis l'eau",
+   "Spectacle le plus intense les nuits sombres proches de la nouvelle lune",
+   "Transfert, guide, masque, fruits et eau compris"
+  ],
+  "included": [
+   "Ce qui est compris dans ce programme",
+   "Fruits de saison (banane, pastèque, ananas)",
+   "Assurance",
+   "Eau potable",
+   "Masque de plongée avec tuba",
+   "Transfert de prise en charge",
+   "Guide local professionnel",
+   "Dîner buffet",
+   "Palmes pour la baignade",
+   "Parc national gratuit"
+  ],
+  "notIncluded": []
+ },
+ "phang-nga-bay-krabi-vip-islands-hopping-tour-max-20-people-by-local-operator": {
+  "title": "Excursion VIP d'îles en îles dans la baie de Phang Nga depuis Krabi, 20 personnes maximum, par opérateur local",
+  "metaTitle": "Phang Nga depuis Krabi : excursion VIP, 20 pers. max",
+  "metaDescription": "Excursion d'une journée complète à Krabi, incluant transfert d'hôtel depuis Khao Lak/Phuket et service de hors-bord VIP limité à 20 personnes. Organisée par Xtra Holiday Travel & Tour, réservation directe.",
+  "shortDescription": "Excursion d'une journée complète à Krabi, incluant transfert d'hôtel depuis Khao Lak/Phuket et service de hors-bord VIP limité à 20 personnes. Organisée par Xtra Holiday Travel & Tour, réservation directe.",
+  "fullDescription": "La baie de Phang Nga en hors-bord limité à vingt personnes, avec les frais de parc national déjà inclus dans le prix.\n\nLa limite est le véritable atout. Les bateaux classiques pour Phang Nga transportent quarante personnes ou plus, et le goulot d'étranglement sur ce circuit n'est jamais la navigation, c'est le mouvement : faire la queue pour descendre à chaque arrêt, faire la queue pour remonter, plonger avec tuba dans la foule. Vingt personnes libèrent chaque arrêt en moitié moins de temps, et le temps gagné est consacré à l'eau.\n\nLa baie est la raison de venir. Des tours calcaires s'élèvent directement d'une eau verte et plate, et les îles sont parsemées de grottes marines et de hongs, des systèmes de grottes effondrées qui s'ouvrent sur des lagons cachés, accessibles uniquement par des tunnels bas à la bonne marée.\n\nLes frais de parc national sont inclus plutôt que perçus à la jetée. Sur ce circuit, c'est une vraie différence : la plupart des devis paraissent plus bas puis vous retirent les frais avant l'embarquement, donc comparez sur le total.\n\nLes transferts partent de Khao Lak et de Phuket, ce qui fait de cette version celle à réserver si vous résidez sur cette côte plutôt qu'à Ao Nang.\n\nHuit heures en hors-bord à travers les eaux ouvertes de la baie constituent une journée complète. Toute personne sensible au mal de mer devrait prendre quelque chose avant l'embarquement plutôt qu'après.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend le transfert d'hôtel depuis Khao Lak ou Phuket, le hors-bord VIP limité à vingt personnes, les frais de parc national, l'équipement de plongée avec tuba, les gilets de sauvetage et un guide local.\n\nUn jour de préavis minimum.",
+  "highlights": [
+   "Hors-bord limité à vingt personnes, donc pas de queue aux arrêts",
+   "Tours calcaires et lagons de hong cachés",
+   "Frais de parc national inclus, non facturés à la jetée",
+   "Transferts depuis Khao Lak et Phuket",
+   "Huit heures à travers la baie avec un guide local"
+  ],
+  "included": [
+   "Transfert d'hôtel depuis Khao Lak/Phuket",
+   "Service de hors-bord VIP maximum 20 pers.",
+   "Frais de parc national",
+   "Équipement de plongée avec tuba, gilets de sauvetage",
+   "Petit-déjeuner, déjeuner et collations locales",
+   "Eau, boissons chaudes et froides",
+   "Guide anglophone",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "7-island-sunset-and-plankton-tour-with-lunch-in-krabi": {
+  "title": "Excursion des 7 îles au coucher du soleil avec plancton et déjeuner à Krabi",
+  "metaTitle": "7 îles de Krabi : coucher de soleil, plancton et déjeuner",
+  "metaDescription": "Excursion d'une journée complète à Krabi, incluant déjeuner et eau potable. Organisée par LoveLay Andaman, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une journée complète à Krabi, incluant déjeuner et eau potable. Organisée par LoveLay Andaman, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Huit heures couvrant le circuit des sept îles, du milieu de la journée jusqu'après la tombée de la nuit, pour en voir les deux faces.\n\nLa version longue commence assez tôt pour inclure le déjeuner et finit assez tard pour se terminer avec le plancton, ce qui signifie que vous voyez les îles animées puis vides. Ce contraste est l'argument en faveur de l'excursion de huit heures plutôt que des versions plus courtes en soirée : les mêmes plages se comportent de façon complètement différente une fois la flotte diurne partie.\n\nLes arrêts de plongée avec tuba sont choisis le jour même. Le récif de Krabi est peu profond et proche des îles, et l'arrêt qui vaut la peine dépend de la marée et de la mesure dans laquelle le vent a agité l'eau, donc une liste fixe serait fictive. Le guide choisit.\n\nLe coucher de soleil se prend depuis le bateau. Le calcaire conserve bien la couleur une fois le soleil couché, c'est pourquoi la lumière dure ici plus longtemps que l'horloge ne le suggère.\n\nLa baignade dans le plancton conclut l'excursion. Les dinoflagellés s'illuminent lorsqu'ils sont perturbés, donc la lumière apparaît autour de vos mains et de vos pieds tandis que vous bougez. Cela dépend réellement de la nuit : des ciels sombres proches d'une nouvelle lune offrent le meilleur spectacle, une pleine lune l'atténue, et une mer agitée la disperse. Considérez-la comme le point fort probable plutôt que comme une garantie.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend le déjeuner, l'eau potable, les fruits, le transfert d'hôtel, le guide touristique, l'assurance, le masque de plongée avec tuba et le gilet de sauvetage.\n\nHuit heures, apportez une serviette et des vêtements secs pour le trajet de retour. Un jour de préavis minimum.",
+  "highlights": [
+   "Huit heures : les îles animées, puis les îles vides",
+   "Déjeuner compris, baignade dans le plancton pour finir",
+   "Arrêts de plongée avec tuba choisis le jour même selon les conditions",
+   "Coucher de soleil depuis l'eau sur le calcaire",
+   "Transferts, guide, masque et gilet de sauvetage compris"
+  ],
+  "included": [
+   "Déjeuner",
+   "Eau potable",
+   "Fruits",
+   "Transfert d'hôtel",
+   "Guide touristique",
+   "Assurance",
+   "Masque de plongée avec tuba",
+   "Gilet de sauvetage"
+  ],
+  "notIncluded": [
+   "Parc national 200 par personne (payable sur l'excursion)"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Croisière en catamaran entre 3 îles de Pattaya avec déjeuner buffet thaïlandais",
   "metaTitle": "Pattaya : catamaran 3 îles, déjeuner buffet thaïlandais",

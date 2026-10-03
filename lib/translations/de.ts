@@ -42739,6 +42739,87 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben und Souvenirs"
   ]
  },
+ "koh-daeng-sunset-included-bioluminescent-plankton-in-krabi": {
+  "title": "Sonnenuntergang bei Koh Daeng mit biolumineszentem Plankton in Krabi",
+  "metaTitle": "Koh Daeng: Sonnenuntergang und biolumineszentes Plankton",
+  "metaDescription": "Halbtagesausflug in Krabi mit Schnorcheln, Sonnenuntergang vom Wasser aus, und Schwimmen im biolumineszenten Plankton. Organisiert von LoveLay Andaman, Direktbuchung.",
+  "shortDescription": "Halbtagesausflug in Krabi mit Schnorcheln, Sonnenuntergang vom Wasser aus, und Schwimmen im biolumineszenten Plankton. Organisiert von LoveLay Andaman, Direktbuchung.",
+  "fullDescription": "Ein fünfstündiger Abendausflug, aufgebaut um zwei Dinge, die man bei Tageslicht nicht sehen kann: Sonnenuntergang vom Wasser aus, und Plankton, das im Dunkeln leuchtet.\n\nDas Boot legt vom Fischskulpturen-Platz am Ao-Nang-Strand ab und fährt hinaus nach Koh Daeng, eine der kleineren Inseln vor der Küste von Krabi, die Tagesausflüge normalerweise auslassen. Schnorcheln kommt zuerst, während es noch hell ist, mit gestellten Masken und einem Guide, der zeigt, wo das Riff Ihre Zeit wert ist. Während die Sonne untergeht, verfärben sich die Kalksteinfelsen rund um die Bucht von grau zu kupferfarben, was der Teil ist, für den die meisten Leute den Ausflug buchen, ohne es zu merken.\n\nNach Einbruch der Dunkelheit fährt das Boot in geschütztes Wasser für das Plankton-Schwimmen. Das Licht kommt von Dinoflagellaten, die auf Bewegung reagieren, es erscheint also um Ihre Hände und Füße statt über der Oberfläche. Es ist wirklich unvorhersehbar: dunkle Nächte nahe dem Neumond liefern die stärkste Lichtshow, helles Mondlicht schwemmt sie aus, und raues Wasser verteilt sie. Wenn es Ihnen wichtig ist, es zu sehen, wählen Sie ein Datum nahe einem Neumond.\n\nLoveLay Andaman organisiert diesen Ausflug und wir buchen direkt mit ihnen, sodass Ihr Platz beim Anbieter gesichert wird, bevor die Buchung endgültig ist. Der Preis umfasst den Abholtransfer, einen professionellen Guide, saisonales Obst, Trinkwasser, eine Schnorchelmaske und Versicherung.\n\nBringen Sie ein Handtuch und trockene Kleidung mit. Fünf Stunden, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Koh Daeng, von den meisten Tagesausflügen ausgelassen",
+   "Schnorcheln bei Tageslicht, Plankton nach Einbruch der Dunkelheit",
+   "Sonnenuntergang über den Kalksteinfelsen vom Wasser aus",
+   "Stärkste Lichtshow in dunklen Nächten nahe dem Neumond",
+   "Abholung, Guide, Maske, Obst und Wasser inklusive"
+  ],
+  "included": [
+   "Was im Programm enthalten ist",
+   "Saisonales Obst (Banane, Wassermelone, Ananas)",
+   "Versicherung",
+   "Trinkwasser",
+   "Schnorchelmaske",
+   "Abholtransfer",
+   "Professioneller lokaler Guide",
+   "Buffet-Abendessen",
+   "Flossen zum Schwimmen",
+   "Nationalpark kostenlos"
+  ],
+  "notIncluded": []
+ },
+ "phang-nga-bay-krabi-vip-islands-hopping-tour-max-20-people-by-local-operator": {
+  "title": "VIP-Inselhopping-Tour in der Phang-Nga-Bucht ab Krabi, maximal 20 Personen, von lokalem Anbieter",
+  "metaTitle": "Phang Nga ab Krabi: VIP-Tour, max. 20 Personen",
+  "metaDescription": "Ganztagesausflug in Krabi, mit Hoteltransfer ab Khao Lak/Phuket und VIP-Speedboot-Service, begrenzt auf 20 Personen. Organisiert von Xtra Holiday Travel & Tour, Direktbuchung.",
+  "shortDescription": "Ganztagesausflug in Krabi, mit Hoteltransfer ab Khao Lak/Phuket und VIP-Speedboot-Service, begrenzt auf 20 Personen. Organisiert von Xtra Holiday Travel & Tour, Direktbuchung.",
+  "fullDescription": "Die Phang-Nga-Bucht per Speedboot, begrenzt auf zwanzig Personen, mit den Nationalpark-Gebühren bereits im Preis enthalten.\n\nDie Begrenzung ist der eigentliche Vorteil. Standard-Phang-Nga-Boote fahren mit vierzig oder mehr Personen, und der Engpass auf dieser Route ist nie die Fahrt, es ist die Bewegung: Anstehen zum Aussteigen bei jedem Stopp, Anstehen zum Wiedereinsteigen, Schnorcheln in der Menge. Zwanzig Personen räumen jeden Stopp in halber Zeit, und die gesparte Zeit fließt ins Wasser.\n\nDie Bucht ist der Grund zu kommen. Kalksteintürme erheben sich direkt aus flachem grünem Wasser, und die Inseln sind durchsetzt mit Meereshöhlen und Hongs, eingestürzten Höhlensystemen, die sich zu versteckten Lagunen öffnen, erreichbar nur durch niedrige Tunnel bei der richtigen Flut.\n\nNationalpark-Gebühren sind inklusive statt am Pier erhoben zu werden. Auf dieser Route ist das ein echter Unterschied: Die meisten Angebote wirken niedriger und ziehen Ihnen dann die Gebühr vor dem Einstieg ab, also vergleichen Sie den Gesamtpreis.\n\nTransfers fahren ab Khao Lak und Phuket, was dies zur richtigen Version macht, wenn Sie an dieser Küste statt in Ao Nang wohnen.\n\nAcht Stunden auf einem Speedboot über offenes Buchtwasser sind ein voller Tag. Wer seeunempfindlich ist, sollte vor dem Einstieg etwas einnehmen statt danach.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst den Hoteltransfer ab Khao Lak oder Phuket, das auf zwanzig begrenzte VIP-Speedboot, Nationalpark-Gebühren, Schnorchelausrüstung, Schwimmwesten und einen lokalen Guide.\n\nMindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Speedboot begrenzt auf zwanzig Personen, also kein Anstehen bei Stopps",
+   "Kalksteintürme und versteckte Hong-Lagunen",
+   "Nationalpark-Gebühren inklusive, nicht am Pier berechnet",
+   "Transfers ab Khao Lak und Phuket",
+   "Acht Stunden über die Bucht mit einem lokalen Guide"
+  ],
+  "included": [
+   "Hoteltransfer ab Khao Lak/Phuket",
+   "VIP-Speedboot-Service, maximal 20 Personen",
+   "Nationalpark-Gebühren",
+   "Schnorchelausrüstung, Schwimmwesten",
+   "Lokales Frühstück, Mittagessen und Snacks",
+   "Wasser, heiße und kalte Getränke",
+   "Englischsprachiger Guide",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "7-island-sunset-and-plankton-tour-with-lunch-in-krabi": {
+  "title": "7-Insel-Tour mit Sonnenuntergang, Plankton und Mittagessen in Krabi",
+  "metaTitle": "7 Inseln ab Krabi: Sonnenuntergang, Plankton, Mittagessen",
+  "metaDescription": "Ganztagesausflug in Krabi, mit Mittagessen und Trinkwasser. Organisiert von LoveLay Andaman, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztagesausflug in Krabi, mit Mittagessen und Trinkwasser. Organisiert von LoveLay Andaman, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Acht Stunden, die die Sieben-Insel-Route von der Tagesmitte bis nach Einbruch der Dunkelheit abdecken, sodass Sie beide Hälften davon sehen.\n\nDie längere Version beginnt früh genug, um das Mittagessen einzuschließen, und endet spät genug, um mit dem Plankton zu enden, was bedeutet, dass Sie die Inseln belebt und dann leer sehen. Dieser Kontrast ist das Argument für den achtstündigen Ausflug gegenüber den kürzeren Abendversionen: Dieselben Strände verhalten sich völlig anders, sobald die Tagesflotte abgezogen ist.\n\nDie Schnorchelstopps werden am Tag selbst ausgewählt. Krabis Riff liegt flach und nah an den Inseln, und welcher Stopp sich lohnt, hängt von der Flut und davon ab, wie stark der Wind das Wasser aufgewühlt hat, sodass eine feste Liste eine Fiktion wäre. Der Guide entscheidet.\n\nDer Sonnenuntergang wird vom Boot aus genommen. Der Kalkstein hält die Farbe gut, nachdem die Sonne untergegangen ist, weshalb das Licht hier länger anhält, als die Uhr vermuten lässt.\n\nDas Plankton-Schwimmen schließt den Ausflug ab. Dinoflagellaten blitzen auf, wenn sie gestört werden, sodass das Licht um Ihre Hände und Füße erscheint, während Sie sich bewegen. Es hängt wirklich von der Nacht ab: dunkle Himmel nahe einem Neumond liefern die beste Lichtshow, ein Vollmond schwemmt sie aus, und raues Wasser verteilt sie. Betrachten Sie es als das wahrscheinliche Highlight statt als Garantie.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Mittagessen, Trinkwasser, Obst, Hoteltransfer, Reiseleiter, Versicherung, Schnorchelmaske und Schwimmweste.\n\nAcht Stunden, bringen Sie ein Handtuch und trockene Kleidung für die Rückfahrt mit. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Acht Stunden: die Inseln belebt, dann die Inseln leer",
+   "Mittagessen inklusive, Plankton-Schwimmen zum Abschluss",
+   "Schnorchelstopps je nach Bedingungen am Tag selbst ausgewählt",
+   "Sonnenuntergang vom Wasser aus über dem Kalkstein",
+   "Transfers, Guide, Maske und Schwimmweste inklusive"
+  ],
+  "included": [
+   "Mittagessen",
+   "Trinkwasser",
+   "Obst",
+   "Hoteltransfer",
+   "Reiseleiter",
+   "Versicherung",
+   "Schnorchelmaske",
+   "Schwimmweste"
+  ],
+  "notIncluded": [
+   "Nationalpark 200 pro Person (auf dem Ausflug zahlbar)"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Pattaya 3-Insel-Katamaran-Kreuzfahrt mit thailändischem Buffet-Mittagessen",
   "metaTitle": "Pattaya: Katamaran 3 Inseln, thailändisches Buffet-Mittagessen",

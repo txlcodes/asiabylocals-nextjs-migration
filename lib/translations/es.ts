@@ -42739,6 +42739,87 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales y recuerdos"
   ]
  },
+ "koh-daeng-sunset-included-bioluminescent-plankton-in-krabi": {
+  "title": "Atardecer en Koh Daeng con plancton bioluminiscente en Krabi",
+  "metaTitle": "Koh Daeng: atardecer y plancton bioluminiscente",
+  "metaDescription": "Excursión de medio día en Krabi con snorkel, atardecer desde el agua, y baño en plancton bioluminiscente. Organizada por LoveLay Andaman, reserva directa.",
+  "shortDescription": "Excursión de medio día en Krabi con snorkel, atardecer desde el agua, y baño en plancton bioluminiscente. Organizada por LoveLay Andaman, reserva directa.",
+  "fullDescription": "Una excursión vespertina de cinco horas construida alrededor de dos cosas que no se pueden ver de día: el atardecer desde el agua, y plancton que brilla una vez cae la noche.\n\nEl barco parte de la plaza de la escultura de peces en la playa de Ao Nang y se dirige a Koh Daeng, una de las islas más pequeñas de la costa de Krabi que las excursiones de un día suelen omitir. El snorkel viene primero, mientras aún hay luz, con máscaras proporcionadas y el guía señalando dónde el arrecife merece su tiempo. Al ponerse el sol, los pitones calizos alrededor de la bahía pasan del gris al cobrizo, que es la parte por la que la mayoría de la gente reserva la excursión sin darse cuenta.\n\nDespués del anochecer, el barco se traslada a aguas resguardadas para el baño de plancton. La luz proviene de dinoflagelados que reaccionan al movimiento, así que aparece alrededor de sus manos y pies en lugar de sobre la superficie. Es genuinamente impredecible: las noches oscuras cercanas a la luna nueva ofrecen el espectáculo más intenso, la luz de luna brillante lo diluye, y el agua agitada lo dispersa. Si verlo le importa, elija una fecha cercana a una luna nueva.\n\nLoveLay Andaman organiza esta excursión y reservamos directamente con ellos, así que su plaza queda retenida con el operador antes de que la reserva sea definitiva. El precio incluye el traslado de recogida, un guía profesional, fruta de temporada, agua potable, máscara de snorkel y seguro.\n\nTraiga una toalla y ropa seca. Cinco horas, un día de aviso mínimo.",
+  "highlights": [
+   "Koh Daeng, omitida por la mayoría de las excursiones de un día",
+   "Snorkel de día, plancton tras el anochecer",
+   "Atardecer sobre los pitones calizos desde el agua",
+   "Espectáculo más intenso en noches oscuras cercanas a la luna nueva",
+   "Recogida, guía, máscara, fruta y agua incluidos"
+  ],
+  "included": [
+   "Lo que incluye este programa",
+   "Fruta de temporada (plátano, sandía, piña)",
+   "Seguro",
+   "Agua potable",
+   "Máscara de snorkel",
+   "Traslado de recogida",
+   "Guía local profesional",
+   "Cena buffet",
+   "Aletas para nadar",
+   "Parque nacional gratis"
+  ],
+  "notIncluded": []
+ },
+ "phang-nga-bay-krabi-vip-islands-hopping-tour-max-20-people-by-local-operator": {
+  "title": "Tour VIP de isla en isla por la bahía de Phang Nga desde Krabi, máximo 20 personas, por operador local",
+  "metaTitle": "Phang Nga desde Krabi: tour VIP, máx. 20 personas",
+  "metaDescription": "Excursión de día completo en Krabi, con traslado de hotel desde Khao Lak/Phuket y servicio de lancha rápida VIP limitado a 20 personas. Organizada por Xtra Holiday Travel & Tour, reserva directa.",
+  "shortDescription": "Excursión de día completo en Krabi, con traslado de hotel desde Khao Lak/Phuket y servicio de lancha rápida VIP limitado a 20 personas. Organizada por Xtra Holiday Travel & Tour, reserva directa.",
+  "fullDescription": "La bahía de Phang Nga en lancha rápida limitada a veinte personas, con las tarifas del parque nacional ya incluidas en el precio.\n\nEl límite es el verdadero producto. Las lanchas estándar de Phang Nga llevan cuarenta personas o más, y el cuello de botella en esta ruta nunca es la navegación, es el movimiento: hacer cola para bajar en cada parada, hacer cola para volver a subir, hacer snorkel entre la multitud. Veinte personas despejan cada parada en la mitad de tiempo, y el tiempo ahorrado se invierte en el agua.\n\nLa bahía es la razón para venir. Torres calizas se elevan directamente desde aguas verdes y planas, y las islas están repletas de cuevas marinas y hongs, sistemas de cuevas colapsadas que se abren a lagunas ocultas accesibles solo por túneles bajos en la marea adecuada.\n\nLas tarifas del parque nacional están incluidas en lugar de cobrarse en el muelle. En esta ruta eso supone una diferencia real: la mayoría de las cotizaciones parecen más bajas y luego le quitan la tarifa antes de subir a bordo, así que compare el total.\n\nLos traslados salen desde Khao Lak y Phuket, lo que convierte a esta en la versión a reservar si se aloja en esa costa en lugar de en Ao Nang.\n\nOcho horas en lancha rápida por aguas abiertas de la bahía son un día completo. Cualquiera que sea propenso al mareo debería tomar algo antes de subir a bordo en lugar de después.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye el traslado de hotel desde Khao Lak o Phuket, la lancha rápida VIP limitada a veinte, las tarifas del parque nacional, el equipo de snorkel, los chalecos salvavidas y un guía local.\n\nUn día de aviso mínimo.",
+  "highlights": [
+   "Lancha rápida limitada a veinte personas, sin colas en las paradas",
+   "Torres calizas y lagunas de hong ocultas",
+   "Tarifas del parque nacional incluidas, no cobradas en el muelle",
+   "Traslados desde Khao Lak y Phuket",
+   "Ocho horas por la bahía con un guía local"
+  ],
+  "included": [
+   "Traslado de hotel desde Khao Lak/Phuket",
+   "Servicio de lancha rápida VIP, máximo 20 personas",
+   "Tarifas del parque nacional",
+   "Equipo de snorkel, chalecos salvavidas",
+   "Desayuno, almuerzo y aperitivos locales",
+   "Agua, bebidas calientes y frías",
+   "Guía de habla inglesa",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "7-island-sunset-and-plankton-tour-with-lunch-in-krabi": {
+  "title": "Excursión de 7 islas con atardecer, plancton y almuerzo en Krabi",
+  "metaTitle": "7 islas desde Krabi: atardecer, plancton y almuerzo",
+  "metaDescription": "Excursión de día completo en Krabi, con almuerzo y agua potable. Organizada por LoveLay Andaman, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de día completo en Krabi, con almuerzo y agua potable. Organizada por LoveLay Andaman, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Ocho horas que cubren la ruta de las siete islas desde la mitad del día hasta después del anochecer, así que disfruta de ambas mitades.\n\nLa versión más larga comienza lo bastante temprano para incluir el almuerzo y termina lo bastante tarde para concluir con el plancton, lo que significa que ve las islas concurridas y después vacías. Ese contraste es el argumento a favor de la excursión de ocho horas frente a las versiones vespertinas más cortas: las mismas playas se comportan de forma completamente distinta una vez que la flota diurna se marcha.\n\nLas paradas de snorkel se eligen el mismo día. El arrecife de Krabi es poco profundo y está cerca de las islas, y qué parada merece la pena depende de la marea y de cuánto haya agitado el agua el viento, así que una lista fija sería una ficción. El guía decide.\n\nEl atardecer se disfruta desde el barco. La roca calcárea conserva bien el color después de que se pone el sol, por lo que la luz dura aquí más de lo que sugiere el reloj.\n\nEl baño de plancton cierra la excursión. Los dinoflagelados destellan al ser perturbados, así que la luz aparece alrededor de sus manos y pies al moverse. Depende realmente de la noche: los cielos oscuros cercanos a una luna nueva ofrecen el mejor espectáculo, una luna llena lo diluye, y el agua agitada lo dispersa. Considérelo como el probable punto culminante en lugar de una garantía.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye almuerzo, agua potable, fruta, traslado de hotel, guía turístico, seguro, máscara de snorkel y chaleco salvavidas.\n\nOcho horas, traiga una toalla y ropa seca para el viaje de vuelta. Un día de aviso mínimo.",
+  "highlights": [
+   "Ocho horas: las islas concurridas, después las islas vacías",
+   "Almuerzo incluido, baño de plancton para terminar",
+   "Paradas de snorkel elegidas el mismo día según las condiciones",
+   "Atardecer desde el agua sobre la roca calcárea",
+   "Traslados, guía, máscara y chaleco salvavidas incluidos"
+  ],
+  "included": [
+   "Almuerzo",
+   "Agua potable",
+   "Fruta",
+   "Traslado de hotel",
+   "Guía turístico",
+   "Seguro",
+   "Máscara de snorkel",
+   "Chaleco salvavidas"
+  ],
+  "notIncluded": [
+   "Parque nacional 200 por persona (pagadero en la excursión)"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Crucero en catamarán por 3 islas de Pattaya con almuerzo buffet tailandés",
   "metaTitle": "Pattaya: catamarán 3 islas, almuerzo buffet tailandés",
