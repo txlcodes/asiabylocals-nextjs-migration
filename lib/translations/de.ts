@@ -43063,6 +43063,89 @@ export const DE_TOURS: Record<string, TourT> = {
    "Sonnenschutz"
   ]
  },
+ "5-islands-swimming-and-snorkeling-adventure-in-krabi": {
+  "title": "5-Insel-Schwimm- und Schnorchelabenteuer in Krabi",
+  "metaTitle": "Krabi: 5-Insel-Schwimm- und Schnorchelabenteuer",
+  "metaDescription": "Ganztagesausflug in Krabi, mit Hotelabholung und -rückfahrt in Ao Nang und Longtail-Boot-Transport. Organisiert von Sea Lovers Tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztagesausflug in Krabi, mit Hotelabholung und -rückfahrt in Ao Nang und Longtail-Boot-Transport. Organisiert von Sea Lovers Tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Fünf Inseln in sieben Stunden per Longtail-Boot, mit Schwerpunkt darauf, im Wasser zu sein statt es nur anzusehen.\n\nDer Standard-Krabi-Ausflug umfasst vier Inseln und viel Bewegung zwischen ihnen. Eine fünfte hinzuzufügen und auf sieben Stunden zu dehnen, verändert das Gleichgewicht: Die Stopps werden lange genug, um wirklich zu schwimmen, und das Schnorcheln wird als der eigentliche Zweck behandelt statt als fünfzehnminütiger Punkt zum Abhaken.\n\nKrabis Riff liegt flach und nah an den Inseln, was ungewöhnlich nachsichtig ist. Sie müssen kein starker Schwimmer sein oder tiefer gehen als es Ihnen behagt, um Korallen und Rifffische zu sehen; an mehreren Stellen kann man stehen. Welche Stopps sich an diesem Tag lohnen, hängt von der Flut und davon ab, wie stark der Wind das Wasser aufgewühlt hat, daher entscheidet der Guide statt einer festen Liste zu folgen.\n\nDas Longtail-Boot ist das langsame Boot und hier das richtige. Sein flacher Tiefgang erreicht Wasser, von dem Speedboote weit entfernt ankern müssen, sodass Sie näher am Riff abgesetzt werden, als es ein schnelleres Boot schaffen könnte.\n\nSieben Stunden in praller Sonne auf einem offenen Boot sind etwas, worauf man sich einstellen sollte. Es gibt ein Verdeck, aber die Seiten sind offen, und die Reflexion vom Wasser verbrennt Leute, die dachten, sie wären im Schatten. Ein Shirt, in dem man schwimmen kann, schlägt Sonnencreme, die man ständig nachtragen muss.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hotelabholung und -rückfahrt in Ao Nang, das Longtail-Boot, einen professionellen lokalen Guide, Schnorchelausrüstung und eine Schwimmweste.\n\nNationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt, führen Sie also Bargeld mit. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Fünf Inseln über sieben Stunden, also Stopps lang genug zum Schwimmen",
+   "Flaches Riff nahe den Stränden, nachsichtig für schwache Schwimmer",
+   "Schnorchelstopps je nach Flut und Wasserklarheit am Tag selbst gewählt",
+   "Longtail-Boot wird näher am Riff abgesetzt als ein Speedboot",
+   "Offenes Boot: ein Schwimmshirt schlägt ständiges Nachcremen"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Ao Nang",
+   "Longtail-Boot-Transport",
+   "Professioneller lokaler Guide",
+   "Schnorchelausrüstung",
+   "Schwimmweste",
+   "Trinkwasser",
+   "Buffet-Mittagessen",
+   "Unfallversicherung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittsgebühr",
+   "Persönliche Ausgaben",
+   "Persönliche Reiseversicherung",
+   "Hotelabholung außerhalb des angegebenen Abholgebiets"
+  ]
+ },
+ "ko-lanta-emerald-cave-and-4-islands-tour-by-longtail-boat-krabi": {
+  "title": "Ko Lanta: Smaragdhöhle und 4-Insel-Tour per Longtail-Boot (Krabi)",
+  "metaTitle": "Ko Lanta: Smaragdhöhle und 4 Inseln per Longtail",
+  "metaDescription": "Ganztagesausflug in Krabi, mit Ko-Lanta-Altstadt-Pier, einem weiteren Wassertransport und Ko Chueak. Organisiert von Oh-Hoo, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztagesausflug in Krabi, mit Ko-Lanta-Altstadt-Pier, einem weiteren Wassertransport und Ko Chueak. Organisiert von Oh-Hoo, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Der Ausflug ist nach einer Höhle benannt, die man nur durch Schwimmen im Dunkeln erreicht, und genau das ist der Teil, an den sich die Leute erinnern.\n\nDie Morakot-Höhle, die Smaragdhöhle, liegt auf Ko Mook. Der Eingang ist eine niedrige Öffnung in der Felswand, und der einzige Weg hinein führt durch das Schwimmen eines achtzig Meter langen Tunnels, teilweise in völliger Dunkelheit, meist an einem Seil haltend, mit einem vorausgehenden Guide. Der Tunnel öffnet sich zu einem versteckten Strand, umschlossen von senkrechten Wänden mit dem Himmel direkt darüber, und das Wasser leuchtet grün vom Tunnel hinter Ihnen. Es ist wirklich ein Schwimmen, keine Bootsfahrt, und der Eingang ist von der Gezeit abhängig: bei Hochwasser kann sich die Lücke vollständig schließen, weshalb sich die Abfahrtszeiten mit der Flut verschieben statt mit der Uhr.\n\nKo Chueak ist der Schnorchelstopp, mit weichen Korallen und Rifffischen in flachem Wasser nahe der Felswand. Die anderen Inseln auf der Route sind Strand- und Schwimmstopps.\n\nDas Boot ist ein traditionelles Longtail-Boot ab dem Ko-Lanta-Altstadt-Pier. Acht Stunden sind ein voller Tag, und es gibt an Bord nur begrenzten Schatten, daher zählen ein Hut und ein Shirt, in dem man schwimmen kann, mehr als sie es auf einem Speedboot würden.\n\nWenn Sie sich beim Schwimmen im Dunkeln nicht sicher sind, sagen Sie das bei der Buchung. Die Guides führen die Leute durch, aber es ist ein echter Tunnel und kein Laufsteg.\n\nDer Preis umfasst Hotelabholung und -rückfahrt, die Bootsfahrt, Guide, Mittagessen, Trinkwasser, Obst, eine Schwimmweste, Schnorchelmasken und ein Erste-Hilfe-Set an Bord. Ihr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist.\n\nAcht Stunden, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Schwimmen Sie durch einen 80 Meter langen dunklen Tunnel zur Smaragdhöhle",
+   "Versteckter Strand mit senkrechten Wänden und offenem Himmel darüber",
+   "Der Eintritt ist von der Gezeit abhängig, daher verschieben sich die Abfahrtszeiten",
+   "Schnorcheln über weichen Korallen bei Ko Chueak",
+   "Longtail-Boot ab der Altstadt von Lanta, Mittagessen und Ausrüstung inklusive"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt",
+   "Bootsfahrt",
+   "Guide",
+   "Mittagessen",
+   "Trinkwasser",
+   "Obst",
+   "Schwimmweste",
+   "Schnorchelmasken",
+   "Erste-Hilfe-Set an Bord"
+  ],
+  "notIncluded": [
+   "Nationalpark-Gebühr (200 THB pro Erwachsenem und 100 THB pro Kind)"
+  ]
+ },
+ "krabi-islands-day-trip-with-snorkeling-and-lunch": {
+  "title": "Tagesausflug zu den Inseln von Krabi mit Schnorcheln und Mittagessen",
+  "metaTitle": "Inseln von Krabi: Ausflug mit Schnorcheln und Mittagessen",
+  "metaDescription": "Halbtagesausflug in Krabi, mit dem Sandbank-Strand, der Koh-Hong-Bucht und Ko Lao Lading. Organisiert von Private Excursion VIP, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbtagesausflug in Krabi, mit dem Sandbank-Strand, der Koh-Hong-Bucht und Ko Lao Lading. Organisiert von Private Excursion VIP, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Die nördlichen Inseln der Phang-Nga-Bucht statt des Vier-Insel-Rundgangs vor Ao Nang, mit einem halal-Mittagessen an Bord serviert.\n\nKoh Hong ist der Ankerpunkt dieser Route. Ihr Reiz ist die Lagune: ein nahezu geschlossenes Becken aus flachem grünem Wasser, umringt von Kalksteinwänden, erreichbar durch eine Lücke, die sich für Boote nur bei bestimmten Gezeiten öffnet. Laem Had, die Sandbank an der nördlichen Spitze der Insel, läuft ins Wasser hinaus und verändert ihre Form mit der Flut, weshalb keine zwei Fotos davon übereinstimmen.\n\nKo Lao Lading ist die Insel, an die sich die Leute erinnern. Es ist eine kleine Insel mit einer einzigen überhängenden Klippe, die sich über eine Sandkurve lehnt, und sie ist die meistfotografierte Felsformation in der Bucht nach der James-Bond-Insel. Ko Phakbia ist im Wesentlichen eine Sandbank mit einem Bäumesaum, bemerkenswert für die Farbe des Wassers rundherum statt für irgendetwas an Land.\n\nDie Schnorchelstopps werden am Tag selbst ausgewählt. Dieser Teil der Bucht ist durch Inseln geschützt, daher bleibt er oft befahrbar, wenn die offene See Richtung Phi Phi rau ist.\n\nEin halal-Essen wird standardmäßig angeboten statt nur auf Anfrage, was es wert ist zu wissen, wenn das für Ihre Gruppe eine Rolle spielt.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst den Hin- und Rück-Hoteltransfer, Nationalpark-Gebühren, Schnorchelausrüstung, das halal-Essen, Obst und Getränke, und einen lokalen Guide. Dass die Nationalpark-Gebühren hier inklusive sind, ist an dieser Küste ungewöhnlich, daher ist dieser Preis näher an einem Komplettpreis als die meisten anderen.\n\nSechs Stunden, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Koh-Hong-Lagune, nur bei bestimmten Gezeiten zugänglich",
+   "Laem-Had-Sandbank, die sich mit der Flut verschiebt",
+   "Ko Lao Lading und seine überhängende Klippe",
+   "Geschütztes Wasser, wenn die Phi-Phi-Route rau ist",
+   "Halal-Essen und Nationalpark-Gebühren beide inklusive"
+  ],
+  "included": [
+   "Hin- und Rück-Hoteltransfer",
+   "Nationalpark-Gebühren",
+   "Schnorchelausrüstung",
+   "Halal-Essen",
+   "Obst und Getränke",
+   "Lokaler Guide"
+  ],
+  "notIncluded": [
+   "Persönliche Einkäufe"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Pattaya 3-Insel-Katamaran-Kreuzfahrt mit thailändischem Buffet-Mittagessen",
   "metaTitle": "Pattaya: Katamaran 3 Inseln, thailändisches Buffet-Mittagessen",

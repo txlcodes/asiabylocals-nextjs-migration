@@ -43063,6 +43063,89 @@ export const ES_TOURS: Record<string, TourT> = {
    "Protección solar"
   ]
  },
+ "5-islands-swimming-and-snorkeling-adventure-in-krabi": {
+  "title": "Aventura de baño y snorkel en 5 islas en Krabi",
+  "metaTitle": "Krabi: aventura de baño y snorkel en 5 islas",
+  "metaDescription": "Excursión de día completo en Krabi, con recogida y regreso al hotel en Ao Nang y transporte en barco longtail. Organizada por Sea Lovers Tour, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de día completo en Krabi, con recogida y regreso al hotel en Ao Nang y transporte en barco longtail. Organizada por Sea Lovers Tour, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Cinco islas en siete horas en un longtail, priorizando estar en el agua en lugar de solo mirarla.\n\nLa excursión estándar de Krabi es de cuatro islas y mucho desplazamiento entre ellas. Añadir una quinta y extenderse a siete horas cambia el equilibrio: las paradas duran lo bastante para nadar de verdad, y el snorkel se trata como el objetivo principal en lugar de un trámite de quince minutos.\n\nEl arrecife de Krabi es poco profundo y cercano a las islas, lo que resulta inusualmente indulgente. No necesita ser un buen nadador ni perder pie para ver coral y peces de arrecife; en varios lugares se puede estar de pie. Qué paradas merece la pena usar ese día depende de la marea y de cuánto haya agitado el agua el viento, así que el guía decide en lugar de seguir una lista fija.\n\nEl longtail es el barco lento y es el adecuado aquí. Su calado reducido alcanza aguas de las que las lanchas rápidas tienen que anclar bien lejos, así que le dejan más cerca del arrecife de lo que podría lograr un barco más rápido.\n\nSiete horas bajo el sol directo en un barco abierto es algo a tener en cuenta. Hay un toldo pero los lados están abiertos, y el reflejo del agua quema a quienes creían estar a la sombra. Una camiseta con la que se pueda nadar es mejor que un protector solar que haya que reaplicar continuamente.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye la recogida y el regreso al hotel en Ao Nang, el barco longtail, un guía local profesional, equipo de snorkel y un chaleco salvavidas.\n\nLas tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario, así que lleve efectivo. Un día de aviso mínimo.",
+  "highlights": [
+   "Cinco islas en siete horas, así que las paradas son lo bastante largas para nadar",
+   "Arrecife poco profundo cerca de las playas, indulgente para nadadores inseguros",
+   "Paradas de snorkel elegidas el mismo día según la marea y la claridad del agua",
+   "El longtail deja más cerca del arrecife que una lancha rápida",
+   "Barco abierto: una camiseta de baño es mejor que reaplicar protector solar"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Ao Nang",
+   "Transporte en barco longtail",
+   "Guía local profesional",
+   "Equipo de snorkel",
+   "Chaleco salvavidas",
+   "Agua potable",
+   "Almuerzo buffet",
+   "Seguro de accidentes"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada al parque nacional",
+   "Gastos personales",
+   "Seguro de viaje personal",
+   "Recogida en el hotel fuera de la zona especificada"
+  ]
+ },
+ "ko-lanta-emerald-cave-and-4-islands-tour-by-longtail-boat-krabi": {
+  "title": "Ko Lanta: cueva Esmeralda y tour de 4 islas en barco longtail (Krabi)",
+  "metaTitle": "Ko Lanta: cueva Esmeralda y 4 islas en longtail",
+  "metaDescription": "Excursión de día completo en Krabi, con el muelle del casco antiguo de Ko Lanta, otro transporte acuático y Ko Chueak. Organizada por Oh-Hoo, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de día completo en Krabi, con el muelle del casco antiguo de Ko Lanta, otro transporte acuático y Ko Chueak. Organizada por Oh-Hoo, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "La excursión recibe su nombre de una cueva a la que solo se puede llegar nadando a través de la oscuridad, que es la parte que la gente recuerda.\n\nLa cueva de Morakot, la cueva Esmeralda, está en Ko Mook. La entrada es una abertura baja en el acantilado y la única forma de entrar es nadar un túnel de ochenta metros, parte de él en completa oscuridad, normalmente sujetando una cuerda con un guía al frente. El túnel se abre a una playa oculta encerrada por paredes verticales con el cielo directamente encima, y el agua iluminada de verde por el túnel detrás. Es genuinamente un nado, no un paseo en barco, y la entrada depende de la marea: con marea alta la abertura puede cerrarse por completo, por lo que los horarios de salida se ajustan a la marea en lugar del reloj.\n\nKo Chueak es la parada de snorkel, con coral blando y peces de arrecife en aguas poco profundas cerca del acantilado. Las demás islas de la ruta son paradas de playa y baño.\n\nEl barco es un longtail tradicional que sale del muelle del casco antiguo de Ko Lanta. Ocho horas son un día completo y hay sombra limitada a bordo, así que un sombrero y una camiseta con la que se pueda nadar importan más que en una lancha rápida.\n\nSi no se siente seguro nadando en la oscuridad, dígalo al reservar. Los guías acompañan a la gente, pero es un túnel real, no una pasarela.\n\nEl precio incluye la recogida y el regreso al hotel, la excursión en barco, el guía, el almuerzo, el agua potable, la fruta, un chaleco salvavidas, máscaras de snorkel y un botiquín de primeros auxilios a bordo. Su plaza queda retenida con el operador antes de que su reserva sea definitiva.\n\nOcho horas, un día de aviso mínimo.",
+  "highlights": [
+   "Nade por un túnel oscuro de 80 metros hasta la cueva Esmeralda",
+   "Playa oculta con paredes verticales y cielo abierto arriba",
+   "La entrada depende de la marea, así que los horarios de salida cambian",
+   "Snorkel sobre coral blando en Ko Chueak",
+   "Longtail desde el casco antiguo de Lanta, almuerzo y equipo incluidos"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Excursión en barco",
+   "Guía",
+   "Almuerzo",
+   "Agua potable",
+   "Fruta",
+   "Chaleco salvavidas",
+   "Máscaras de snorkel",
+   "Botiquín de primeros auxilios a bordo"
+  ],
+  "notIncluded": [
+   "Tarifa del parque nacional (200 THB por adulto y 100 THB por niño)"
+  ]
+ },
+ "krabi-islands-day-trip-with-snorkeling-and-lunch": {
+  "title": "Excursión de un día a las islas de Krabi con snorkel y almuerzo",
+  "metaTitle": "Islas de Krabi: excursión con snorkel y almuerzo",
+  "metaDescription": "Excursión de medio día en Krabi, con la playa del banco de arena, la bahía de Koh Hong y Ko Lao Lading. Organizada por Private Excursion VIP, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de medio día en Krabi, con la playa del banco de arena, la bahía de Koh Hong y Ko Lao Lading. Organizada por Private Excursion VIP, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Las islas del norte de la bahía de Phang Nga en lugar del circuito de cuatro islas frente a Ao Nang, con un almuerzo halal servido a bordo.\n\nKoh Hong es el punto de anclaje de esta ruta. Su atractivo es la laguna: una piscina casi cerrada de agua verde poco profunda rodeada de paredes calizas, a la que se entra por una abertura que solo se abre a los barcos en ciertas mareas. Laem Had, el banco de arena en la punta norte de la isla, se extiende hacia el agua y cambia de forma con la marea, por lo que no hay dos fotografías de él que coincidan.\n\nKo Lao Lading es la que la gente recuerda. Es una pequeña isla con un único acantilado en saliente que se inclina sobre una curva de arena, y es la formación rocosa más fotografiada de la bahía después de la isla de James Bond. Ko Phakbia es esencialmente un banco de arena bordeado de árboles, notable por el color del agua a su alrededor más que por nada en tierra.\n\nLas paradas de snorkel se eligen el mismo día. Este tramo de la bahía está protegido por islas, así que suele seguir siendo navegable cuando el mar abierto hacia Phi Phi está agitado.\n\nSe proporciona una comida halal como estándar en lugar de bajo petición, lo que vale la pena saber si eso es una consideración para su grupo.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye el traslado de ida y vuelta al hotel, las tarifas del parque nacional, el equipo de snorkel, la comida halal, fruta y bebidas, y un guía local. Que las tarifas del parque nacional estén incluidas aquí es inusual en esta costa, así que este precio se acerca más a un todo incluido que la mayoría.\n\nSeis horas, un día de aviso mínimo.",
+  "highlights": [
+   "Laguna de Koh Hong, accesible solo en ciertas mareas",
+   "Banco de arena de Laem Had, que cambia con la marea",
+   "Ko Lao Lading y su acantilado en saliente",
+   "Aguas protegidas cuando la ruta a Phi Phi está agitada",
+   "Comida halal y tarifas del parque nacional incluidas"
+  ],
+  "included": [
+   "Traslado de ida y vuelta al hotel",
+   "Tarifas del parque nacional",
+   "Equipo de snorkel",
+   "Comida halal",
+   "Fruta y bebidas",
+   "Guía local"
+  ],
+  "notIncluded": [
+   "Compras personales"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Crucero en catamarán por 3 islas de Pattaya con almuerzo buffet tailandés",
   "metaTitle": "Pattaya: catamarán 3 islas, almuerzo buffet tailandés",

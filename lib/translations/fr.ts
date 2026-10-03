@@ -43063,6 +43063,89 @@ export const FR_TOURS: Record<string, TourT> = {
    "Protection solaire"
   ]
  },
+ "5-islands-swimming-and-snorkeling-adventure-in-krabi": {
+  "title": "Aventure de baignade et de plongée avec tuba sur 5 îles à Krabi",
+  "metaTitle": "Krabi : aventure de baignade et tuba sur 5 îles",
+  "metaDescription": "Excursion d'une journée complète à Krabi, incluant prise en charge et retour à l'hôtel à Ao Nang et transport en bateau à longue queue. Organisée par Sea Lovers Tour, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une journée complète à Krabi, incluant prise en charge et retour à l'hôtel à Ao Nang et transport en bateau à longue queue. Organisée par Sea Lovers Tour, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Cinq îles en sept heures en bateau à longue queue, privilégiant le temps dans l'eau plutôt que le regard porté sur elle.\n\nL'excursion classique de Krabi compte quatre îles et beaucoup de déplacements entre elles. Ajouter une cinquième île et s'étirer sur sept heures change l'équilibre : les arrêts durent assez longtemps pour réellement nager, et la plongée avec tuba est traitée comme l'objectif principal plutôt qu'une case de quinze minutes à cocher.\n\nLe récif de Krabi est peu profond et proche des îles, ce qui est exceptionnellement accommodant. Vous n'avez pas besoin d'être un bon nageur ni de vous éloigner pour voir du corail et des poissons de récif ; à plusieurs endroits, on peut tenir debout. Les arrêts qui valent la peine ce jour-là dépendent de la marée et de la mesure dans laquelle le vent a agité l'eau, donc le guide choisit plutôt que de suivre une liste fixe.\n\nLe bateau à longue queue est le bateau lent et c'est le bon choix ici. Son faible tirant d'eau atteint des zones dont les hors-bords doivent s'ancrer bien à l'écart, donc vous êtes déposé plus près du récif qu'un bateau plus rapide ne pourrait le faire.\n\nSept heures en plein soleil sur un bateau ouvert, c'est ce qu'il faut anticiper. Il y a un auvent mais les côtés sont ouverts, et le reflet sur l'eau brûle ceux qui croyaient être à l'ombre. Un t-shirt dans lequel on peut nager vaut mieux qu'une crème solaire qu'il faut réappliquer sans cesse.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la prise en charge et le retour à l'hôtel à Ao Nang, le bateau à longue queue, un guide local professionnel, l'équipement de plongée avec tuba et un gilet de sauvetage.\n\nLes frais de parc national sont perçus à la jetée sauf confirmation contraire, prévoyez donc des espèces. Un jour de préavis minimum.",
+  "highlights": [
+   "Cinq îles en sept heures, donc des arrêts assez longs pour nager",
+   "Récif peu profond proche des plages, accommodant pour les nageurs peu assurés",
+   "Arrêts de plongée avec tuba choisis le jour même selon la marée et la clarté de l'eau",
+   "Le bateau à longue queue est déposé plus près du récif qu'un hors-bord",
+   "Bateau ouvert : un t-shirt de bain vaut mieux que réappliquer de la crème solaire"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Ao Nang",
+   "Transport en bateau à longue queue",
+   "Guide local professionnel",
+   "Équipement de plongée avec tuba",
+   "Gilet de sauvetage",
+   "Eau potable",
+   "Déjeuner buffet",
+   "Assurance accident"
+  ],
+  "notIncluded": [
+   "Frais d'entrée du parc national",
+   "Dépenses personnelles",
+   "Assurance voyage personnelle",
+   "Prise en charge à l'hôtel hors de la zone spécifiée"
+  ]
+ },
+ "ko-lanta-emerald-cave-and-4-islands-tour-by-longtail-boat-krabi": {
+  "title": "Ko Lanta : grotte d'Émeraude et excursion de 4 îles en bateau à longue queue (Krabi)",
+  "metaTitle": "Ko Lanta : grotte d'Émeraude et 4 îles en longtail",
+  "metaDescription": "Excursion d'une journée complète à Krabi, incluant la jetée de la vieille ville de Ko Lanta, un autre transport nautique et Ko Chueak. Organisée par Oh-Hoo, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une journée complète à Krabi, incluant la jetée de la vieille ville de Ko Lanta, un autre transport nautique et Ko Chueak. Organisée par Oh-Hoo, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "L'excursion doit son nom à une grotte qu'on ne peut atteindre qu'en nageant dans l'obscurité, ce qui est la partie dont les gens se souviennent.\n\nLa grotte de Morakot, la grotte d'Émeraude, se trouve sur Ko Mook. L'entrée est une ouverture basse dans la falaise et le seul moyen d'y accéder est de nager dans un tunnel de quatre-vingts mètres, en partie dans l'obscurité complète, généralement en tenant une corde avec un guide en tête. Le tunnel s'ouvre sur une plage cachée entourée de parois verticales, avec le ciel directement au-dessus et l'eau éclairée de vert par le tunnel derrière vous. C'est réellement une baignade, pas une balade en bateau, et l'entrée dépend de la marée : à marée haute, l'ouverture peut se refermer entièrement, c'est pourquoi les heures de départ suivent la marée plutôt que l'horloge.\n\nKo Chueak est l'arrêt de plongée avec tuba, avec des coraux mous et des poissons de récif en eau peu profonde proche de la falaise. Les autres îles du circuit sont des arrêts de plage et de baignade.\n\nLe bateau est un longtail traditionnel partant de la jetée de la vieille ville de Ko Lanta. Huit heures constituent une journée complète et l'ombre à bord est limitée, donc un chapeau et un t-shirt dans lequel on peut nager comptent plus que sur un hors-bord.\n\nSi vous n'êtes pas à l'aise pour nager dans l'obscurité, dites-le lors de la réservation. Les guides accompagnent les gens, mais c'est un véritable tunnel et non une passerelle.\n\nLe prix comprend la prise en charge et le retour à l'hôtel, l'excursion en bateau, le guide, le déjeuner, l'eau potable, les fruits, un gilet de sauvetage, des masques de plongée avec tuba et une trousse de premiers secours à bord. Votre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive.\n\nHuit heures, un jour de préavis minimum.",
+  "highlights": [
+   "Nagez dans un tunnel sombre de 80 mètres jusqu'à la grotte d'Émeraude",
+   "Plage cachée avec des parois verticales et le ciel ouvert au-dessus",
+   "L'entrée dépend de la marée, donc les heures de départ bougent",
+   "Plongée avec tuba sur des coraux mous à Ko Chueak",
+   "Longtail depuis la vieille ville de Lanta, déjeuner et équipement compris"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Excursion en bateau",
+   "Guide",
+   "Déjeuner",
+   "Eau potable",
+   "Fruits",
+   "Gilet de sauvetage",
+   "Masques de plongée avec tuba",
+   "Trousse de premiers secours à bord"
+  ],
+  "notIncluded": [
+   "Frais de parc national (200 THB par adulte et 100 THB par enfant)"
+  ]
+ },
+ "krabi-islands-day-trip-with-snorkeling-and-lunch": {
+  "title": "Excursion d'une journée aux îles de Krabi avec plongée avec tuba et déjeuner",
+  "metaTitle": "Îles de Krabi : excursion avec tuba et déjeuner",
+  "metaDescription": "Excursion d'une demi-journée à Krabi, incluant la plage du banc de sable, la baie de Koh Hong et Ko Lao Lading. Organisée par Private Excursion VIP, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une demi-journée à Krabi, incluant la plage du banc de sable, la baie de Koh Hong et Ko Lao Lading. Organisée par Private Excursion VIP, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Les îles septentrionales de la baie de Phang Nga plutôt que le circuit des quatre îles au large d'Ao Nang, avec un déjeuner halal servi à bord.\n\nKoh Hong est le point d'ancrage de ce circuit. Son attrait est le lagon : un bassin presque clos d'eau verte peu profonde ceinturé de parois calcaires, accessible par une ouverture qui ne s'ouvre aux bateaux qu'à certaines marées. Laem Had, le banc de sable à la pointe nord de l'île, s'avance dans l'eau et change de forme avec la marée, c'est pourquoi aucune photo ne lui ressemble tout à fait.\n\nKo Lao Lading est l'île dont les gens se souviennent. C'est une petite île avec une unique falaise en surplomb qui penche au-dessus d'une courbe de sable, et c'est la formation rocheuse la plus photographiée de la baie après l'île de James Bond. Ko Phakbia est essentiellement un banc de sable bordé d'arbres, remarquable pour la couleur de l'eau qui l'entoure plutôt que pour quoi que ce soit à terre.\n\nLes arrêts de plongée avec tuba sont choisis le jour même. Cette portion de la baie est abritée par les îles, donc elle reste généralement praticable quand la mer ouverte vers Phi Phi est agitée.\n\nUn repas halal est fourni en standard plutôt que sur demande, ce qui vaut la peine de savoir si c'est une considération pour votre groupe.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend le transfert aller-retour à l'hôtel, les frais de parc national, l'équipement de plongée avec tuba, le repas halal, les fruits et boissons, et un guide local. L'inclusion des frais de parc national ici est inhabituelle sur cette côte, donc ce prix est plus proche d'un tout compris que la plupart des autres.\n\nSix heures, un jour de préavis minimum.",
+  "highlights": [
+   "Lagon de Koh Hong, accessible uniquement à certaines marées",
+   "Banc de sable de Laem Had, qui se déplace avec la marée",
+   "Ko Lao Lading et sa falaise en surplomb",
+   "Eau abritée quand le trajet vers Phi Phi est agité",
+   "Repas halal et frais de parc national tous deux compris"
+  ],
+  "included": [
+   "Transfert aller-retour à l'hôtel",
+   "Frais de parc national",
+   "Équipement de plongée avec tuba",
+   "Repas halal",
+   "Fruits et boissons",
+   "Guide local"
+  ],
+  "notIncluded": [
+   "Achats personnels"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Croisière en catamaran entre 3 îles de Pattaya avec déjeuner buffet thaïlandais",
   "metaTitle": "Pattaya : catamaran 3 îles, déjeuner buffet thaïlandais",
