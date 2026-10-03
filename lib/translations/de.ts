@@ -42144,6 +42144,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "pattaya-marina-night-market-sunset-tour": {
+  "title": "Pattaya-Sonnenuntergangs-Trio: Big-Buddha-Hügel, Bucht-Aussichtspunkt und Marina-Nachtmarkt",
+  "metaTitle": "Pattaya Sonnenuntergang: Big Buddha, Bucht und Nachtmarkt",
+  "metaDescription": "Sehen Sie, wie Pattaya sich in der Dämmerung verwandelt: der goldene Big Buddha von Wat Phra Yai, der Bucht-Aussichtspunkt bei Sonnenuntergang, und das Streetfood des Marina-Nachtmarkts, bis hin zur Walking Street.",
+  "shortDescription": "Sehen Sie, wie Pattaya sich in der Dämmerung verwandelt: der goldene Big Buddha von Wat Phra Yai, der Bucht-Aussichtspunkt bei Sonnenuntergang, und das Streetfood des Marina-Nachtmarkts, bis hin zur Walking Street.",
+  "fullDescription": "Pattaya verändert mit schwindendem Licht vollständig seinen Charakter, und diese kompakte Abendtour ist genau auf diesen Übergang getaktet. Sie beginnt am späten Nachmittag im Wat Phra Yai auf dem Pratamnak-Hügel, Heimat des 18 Meter hohen goldenen Big Buddha der Stadt: ein aktiver Tempel mit weitläufigen Treppen, flankiert von Naga-Schlangen, wo Ihr Guide die Bedeutung des Ortes im lokalen Leben erklärt, während die tiefstehende Sonne die Statue bernsteinfarben färbt.\n\nVom Tempel aus ist es nur ein kurzer Sprung zum Khao-Phra-Tamnak-Aussichtspunkt, perfekt für den Sonnenuntergang positioniert: die gesamte Sichel der Bucht von Pattaya breitet sich darunter aus, und während die Dämmerung sich senkt, flackern die Lichter der Stadt Stadtteil für Stadtteil auf. Es ist der beste Fotostopp in Pattaya, und die Tour ist so geplant, dass Sie genau zum richtigen Moment dort stehen.\n\nDer letzte Akt wird vom Appetit bestimmt. Der Pattaya Marina Night Market erwacht nach Einbruch der Dunkelheit mit Reihen von Streetfood-Ständen: gegrillte Meeresfrüchte, Mango mit Klebreis, Nudelgerichte, und Souvenirverkäufern zum Durchstöbern zwischen den Häppchen. Die Tour endet offiziell am Rand der Walking Street, sodass Sie ideal platziert sind, um entweder in Pattayas berühmtes Nachtleben einzutauchen oder sich satt und zufrieden zurück zu Ihrem Hotel fahren zu lassen.",
+  "highlights": [
+   "Besuch des 18 Meter hohen goldenen Big Buddha im Wat Phra Yai",
+   "Sonnenuntergang über der gesamten Bucht von Pattaya beobachten",
+   "Streetfood-Stände des Marina-Nachtmarkts probieren",
+   "Abschluss am Eingang zur Walking Street",
+   "Hotelabholung in Pattaya inklusive"
+  ],
+  "included": [
+   "Hotelabholung in Pattaya",
+   "Englischsprachiger Guide",
+   "Transport zwischen allen Stopps",
+   "Besuch des Big-Buddha-Tempels",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Streetfood und Getränke auf dem Nachtmarkt",
+   "Souvenirs und persönliche Einkäufe",
+   "Rücktransfer von der Walking Street zum Hotel",
+   "Trinkgelder"
+  ]
+ },
+ "sanctuary-of-truth-full-day-tour": {
+  "title": "Heiligtum der Wahrheit und Küsten-Café: privater Tagesausflug Pattaya",
+  "metaTitle": "Heiligtum der Wahrheit und Küsten-Café, privater Tag Pattaya",
+  "metaDescription": "Ein privater Tag zur Entdeckung der kulturellen Seite Pattayas: das handgeschnitzte Heiligtum der Wahrheit, ein beliebtes lokales Nudel-Mittagessen, der Khao-Phra-Tamnak-Aussichtspunkt, und ein entspannter Abschluss in einem Café direkt am Strand.",
+  "shortDescription": "Ein privater Tag zur Entdeckung der kulturellen Seite Pattayas: das handgeschnitzte Heiligtum der Wahrheit, ein beliebtes lokales Nudel-Mittagessen, der Khao-Phra-Tamnak-Aussichtspunkt, und ein entspannter Abschluss in einem Café direkt am Strand.",
+  "fullDescription": "Pattaya hat eine ruhigere, kultiviertere Seite, als sein Partyruf vermuten lässt, und dieser private Tagesausflug ist darauf ausgelegt, sie Ihnen in Ihrem eigenen Tempo zu zeigen. Das Herzstück ist das Heiligtum der Wahrheit, ein 105 Meter hohes Tempel-Monument an der Naklua-Küste, vollständig aus geschnitztem Teakholz errichtet, ohne einen einzigen Metallnagel. Handwerker schnitzen seit 1981 ununterbrochen daran und tun es bis heute, sodass ein Besuch gleichzeitig ein Blick in eine lebende Werkstatt ist, mit jeder Oberfläche bedeckt von Figuren aus thailändischer, khmerischer, chinesischer und hinduistischer Tradition.\n\nDa die Tour privat ist, passt sich der Tag Ihnen an. Nach dem Heiligtum gibt es Mittagessen in einem beliebten lokalen Nudelladen statt in einem Touristenbuffet, der Art von Ort, an dem Ihr Guide tatsächlich selbst isst. Von dort führt die Route hinauf zum Khao-Phra-Tamnak-Hügel für den klassischen Panoramablick über die gesamte Bucht von Pattaya, einer der besten Fotostopps der Stadt.\n\nDer Tag klingt aus, wie es sich für einen Nachmittag an der Golfküste gehört: in einem Café oder Beach Club direkt am Strand, mit einem Drink in der Hand und dem Meer vor sich, bevor es zurückgeht. Mit durchgehendem privatem Tür-zu-Tür-Transport, einschließlich Abholung ab Bangkok, falls Sie dort wohnen, ist es eine wirklich mühelose Art, Pattaya jenseits der Neonlichter zu erleben.",
+  "highlights": [
+   "Geführter Besuch des vollständig aus Teakholz gefertigten Heiligtums der Wahrheit",
+   "Mittagessen in einem beliebten lokalen Nudelladen in Pattaya",
+   "Panoramablick über die Bucht vom Khao-Phra-Tamnak-Aussichtspunkt",
+   "Entspannter Abschluss in einem Café oder Beach Club direkt am Strand",
+   "Vollständig private Tour mit Tür-zu-Tür-Transport"
+  ],
+  "included": [
+   "Privater Hin- und Rücktransport mit Fahrer",
+   "Englischsprachiger Guide",
+   "Eintrittsgebühr für das Heiligtum der Wahrheit",
+   "Mittagessen in einem lokalen Nudelladen",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Getränke im Café oder Beach Club direkt am Strand",
+   "Persönliche Ausgaben und Souvenirs",
+   "Trinkgelder für Guide und Fahrer",
+   "Reiseversicherung"
+  ]
+ },
+ "koh-larn-coral-island-adventure-full-day-tour": {
+  "title": "Coral Island Ganztagesabenteuer: Schnorcheln, Jetski und Bananenboot mit thailändischem Mittagessen",
+  "metaTitle": "Coral Island Ganztag: Schnorcheln, Jetski, Bananenboot",
+  "metaDescription": "Ein vollgepackter Ganztagesausflug auf Coral Island: Schnorcheln über den Riffen, Jetski, eine Bananenboot-Fahrt, und ein richtiges thailändisches Mittagessen in einem Inselrestaurant, mit Hoteltransfers in Pattaya inklusive.",
+  "shortDescription": "Ein vollgepackter Ganztagesausflug auf Coral Island: Schnorcheln über den Riffen, Jetski, eine Bananenboot-Fahrt, und ein richtiges thailändisches Mittagessen in einem Inselrestaurant, mit Hoteltransfers in Pattaya inklusive.",
+  "fullDescription": "Coral Island, für Einheimische Koh Larn, ist Pattayas Wassersport-Spielplatz, und dieser Ganztagesausflug bündelt seine drei Signature-Aktivitäten in einer einzigen Buchung, damit Sie nicht für jede einzeln am Strand verhandeln müssen. Schnorcheln, eine Jetski-Session und eine Bananenboot-Fahrt sind alle inklusive, zusammen mit einem richtigen thailändischen Mittagessen in einem lokalen Inselrestaurant und Hin- und Rücktransfers ab Ihrem Hotel in Pattaya.\n\nDer Tag beginnt mit Abholung aus einer breiten Auswahl an Orten rund um die Stadt und einem Bootstransfer zur Insel. Dort angekommen, bestimmen Sie das Tempo selbst: Das Schnorcheln bringt Sie über die flachen Riffe, die der Insel ihren englischen Namen geben, mit tropischen Fischen, die sich unten durch die Korallen schlängeln; die Jetski-Session lässt Sie quer über die Bucht aufdrehen; und das Bananenboot ist pure Gruppenkomik, festhalten, herunterfallen, wieder hochklettern.\n\nZwischen den Aktivitäten gibt es echte Ruhezeit am weißen Sandstrand, schwimmen, sonnenbaden oder einfach die Bucht beobachten, und das Mittagessen unterbricht den Tag mit thailändischen Klassikern auf Inselart zubereitet. Mit acht Stunden von Anfang bis Ende ist es die vollständigste Eintagesversion des Coral-Island-Erlebnisses, geeignet für alle, die ihren Strandtag aktiv statt liegend verbringen möchten.",
+  "highlights": [
+   "Schnorcheln über den Korallenriffen, die der Insel ihren Namen geben",
+   "Jetski-Session über die Bucht inklusive",
+   "Klassische Bananenboot-Fahrt mit Ihrer Gruppe",
+   "Thailändisches Mittagessen in einem lokalen Restaurant auf der Insel",
+   "Hin- und Rücktransfers aus acht Abholgebieten in Pattaya"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Pattaya",
+   "Hin- und Rück-Bootstransfer zur Coral Island",
+   "Schnorchelsession mit Ausrüstung",
+   "Jetski-Session",
+   "Bananenboot-Fahrt",
+   "Thailändisches Mittagessen in einem Inselrestaurant",
+   "Schwimmwesten"
+  ],
+  "notIncluded": [
+   "Getränke über das zum Mittagessen Servierte hinaus",
+   "Strandstuhl-Vermietung",
+   "Handtücher",
+   "Trinkgelder",
+   "Zusätzliche, nicht aufgeführte Wasseraktivitäten"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

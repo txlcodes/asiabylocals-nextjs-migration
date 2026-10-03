@@ -42144,6 +42144,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "pattaya-marina-night-market-sunset-tour": {
+  "title": "Trio coucher de soleil à Pattaya : colline du Big Buddha, point de vue de la baie et marché nocturne de la marina",
+  "metaTitle": "Pattaya coucher de soleil : Big Buddha, baie et marché nocturne",
+  "metaDescription": "Voyez Pattaya se transformer au crépuscule : le Big Buddha doré du Wat Phra Yai, le point de vue de la baie au coucher du soleil, et la street food du marché nocturne de la marina, jusqu'à Walking Street.",
+  "shortDescription": "Voyez Pattaya se transformer au crépuscule : le Big Buddha doré du Wat Phra Yai, le point de vue de la baie au coucher du soleil, et la street food du marché nocturne de la marina, jusqu'à Walking Street.",
+  "fullDescription": "Pattaya change complètement de caractère à mesure que la lumière décline, et cette excursion compacte en soirée est calée pour capter cette transition. Elle débute en fin d'après-midi au Wat Phra Yai sur la colline de Pratamnak, où se trouve le Big Buddha doré de 18 mètres de la ville : un temple en activité aux vastes escaliers bordés de serpents naga, où votre guide vous explique le rôle du site dans la vie locale tandis que le soleil bas teinte la statue d'ambre.\n\nDu temple, un court trajet mène au point de vue de Khao Phra Tamnak, parfaitement positionné pour le coucher de soleil : tout le croissant de la baie de Pattaya se déploie en dessous, et à la tombée du jour, les lumières de la ville s'allument quartier par quartier. C'est le meilleur point photo de Pattaya, et l'excursion est calée pour s'y trouver exactement au bon moment.\n\nLe dernier acte répond à l'appétit. Le marché nocturne de la marina de Pattaya s'anime après la tombée de la nuit avec des rangées d'étals de street food : fruits de mer grillés, riz gluant à la mangue, plats de nouilles, et des vendeurs de souvenirs à parcourir entre les bouchées. L'excursion se termine officiellement à l'entrée de Walking Street, vous plaçant idéalement soit pour vous plonger dans la vie nocturne réputée de Pattaya, soit pour reprendre un transport vers votre hôtel, rassasié et satisfait.",
+  "highlights": [
+   "Visite du Big Buddha doré de 18 mètres au Wat Phra Yai",
+   "Observez le coucher de soleil sur toute l'étendue de la baie de Pattaya",
+   "Dégustez les étals de street food du marché nocturne de la marina",
+   "Terminez à l'entrée de Walking Street",
+   "Prise en charge à l'hôtel à Pattaya comprise"
+  ],
+  "included": [
+   "Prise en charge à l'hôtel à Pattaya",
+   "Guide anglophone",
+   "Transport entre tous les arrêts",
+   "Visite du temple du Big Buddha",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Street food et boissons au marché nocturne",
+   "Souvenirs et achats personnels",
+   "Transfert de retour de Walking Street vers votre hôtel",
+   "Pourboires"
+  ]
+ },
+ "sanctuary-of-truth-full-day-tour": {
+  "title": "Sanctuaire de la Vérité et café côtier : excursion privée d'une journée à Pattaya",
+  "metaTitle": "Sanctuaire de la Vérité et café côtier, journée privée Pattaya",
+  "metaDescription": "Une journée privée pour découvrir le côté culturel de Pattaya : le Sanctuaire de la Vérité sculpté à la main, un déjeuner de nouilles appréciée des locaux, le point de vue de Khao Phra Tamnak, et une fin détendue dans un café en bord de mer.",
+  "shortDescription": "Une journée privée pour découvrir le côté culturel de Pattaya : le Sanctuaire de la Vérité sculpté à la main, un déjeuner de nouilles appréciée des locaux, le point de vue de Khao Phra Tamnak, et une fin détendue dans un café en bord de mer.",
+  "fullDescription": "Pattaya a un côté plus tranquille et plus cultivé que ne le laisse supposer sa réputation festive, et cette excursion privée d'une journée est conçue pour vous le révéler à votre propre rythme. La pièce maîtresse est le Sanctuaire de la Vérité, un monument-temple de 105 mètres de haut sur le front de mer de Naklua, entièrement construit en bois de teck sculpté, sans un seul clou métallique. Des artisans le sculptent sans interruption depuis 1981 et continuent encore aujourd'hui, si bien qu'une visite équivaut aussi à découvrir un atelier vivant, chaque surface étant couverte de figures issues des traditions thaïe, khmère, chinoise et hindoue.\n\nComme l'excursion est privée, la journée s'adapte à vous. Après le Sanctuaire, le déjeuner se prend dans une boutique de nouilles locale et appréciée plutôt que dans un buffet touristique : le genre d'endroit où votre guide mange réellement. De là, l'itinéraire monte la colline de Khao Phra Tamnak pour la vue panoramique classique sur toute l'étendue de la baie de Pattaya, l'un des meilleurs points photo de la ville.\n\nLa journée se termine comme doit se terminer un après-midi sur la côte du golfe : dans un café ou un beach club en bord de mer, un verre à la main et la mer devant vous, avant le trajet de retour. Avec un transport privé porte à porte tout au long de la journée, prise en charge depuis Bangkok comprise si vous y résidez, c'est une manière réellement sans effort de découvrir Pattaya au-delà des néons.",
+  "highlights": [
+   "Visite guidée du Sanctuaire de la Vérité entièrement en bois de teck",
+   "Déjeuner dans une boutique de nouilles locale et appréciée de Pattaya",
+   "Vue panoramique sur la baie depuis le point de vue de Khao Phra Tamnak",
+   "Fin détendue dans un café ou un beach club en bord de mer",
+   "Excursion entièrement privée avec transport porte à porte"
+  ],
+  "included": [
+   "Transport privé aller-retour avec chauffeur",
+   "Guide anglophone",
+   "Frais d'entrée du Sanctuaire de la Vérité",
+   "Déjeuner dans une boutique de nouilles locale",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Boissons au café ou au beach club en bord de mer",
+   "Dépenses personnelles et souvenirs",
+   "Pourboires pour le guide et le chauffeur",
+   "Assurance voyage"
+  ]
+ },
+ "koh-larn-coral-island-adventure-full-day-tour": {
+  "title": "Île de Corail, aventure d'une journée complète : plongée avec tuba, jet-ski et banana boat avec déjeuner thaïlandais",
+  "metaTitle": "Île de Corail journée complète : tuba, jet-ski, banana boat",
+  "metaDescription": "Une journée complète et bien remplie à l'île de Corail : plongée avec tuba sur les récifs, jet-ski, balade en banana boat, et un véritable déjeuner thaïlandais dans un restaurant de l'île, transferts depuis l'hôtel à Pattaya compris.",
+  "shortDescription": "Une journée complète et bien remplie à l'île de Corail : plongée avec tuba sur les récifs, jet-ski, balade en banana boat, et un véritable déjeuner thaïlandais dans un restaurant de l'île, transferts depuis l'hôtel à Pattaya compris.",
+  "fullDescription": "L'île de Corail, Koh Larn pour les habitants, est le terrain de jeu des sports nautiques de Pattaya, et cette excursion d'une journée complète regroupe ses trois activités phares en une seule réservation, pour éviter de négocier chaque activité séparément sur la plage. Plongée avec tuba, séance de jet-ski et balade en banana boat sont toutes comprises, ainsi qu'un déjeuner thaïlandais à table dans un restaurant local de l'île et des transferts aller-retour depuis votre hôtel à Pattaya.\n\nLa journée commence par une prise en charge depuis un large choix de lieux à travers la ville, puis un transfert en bateau jusqu'à l'île. Une fois sur place, le rythme est le vôtre : la plongée avec tuba vous place au-dessus des récifs peu profonds qui donnent son nom anglais à l'île, avec des poissons tropicaux évoluant parmi les coraux en dessous ; la séance de jet-ski vous permet de vous lancer dans la baie ; et le banana boat est pur divertissement collectif, s'accrocher, tomber, remonter.\n\nEntre les activités, de vrais moments de détente vous attendent sur la plage de sable blanc, pour vous baigner, bronzer, ou simplement contempler la baie, et le déjeuner rythme la journée avec des plats thaïlandais classiques préparés à la façon de l'île. Avec huit heures du début à la fin, c'est la version la plus complète de l'expérience de l'île de Corail en une seule journée, adaptée à tous ceux qui veulent une journée de plage active plutôt qu'allongée.",
+  "highlights": [
+   "Plongée avec tuba sur les récifs coralliens qui donnent son nom à l'île",
+   "Séance de jet-ski dans la baie comprise",
+   "Balade classique en banana boat avec votre groupe",
+   "Déjeuner thaïlandais dans un restaurant local de l'île",
+   "Transferts aller-retour depuis huit zones de prise en charge à Pattaya"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Pattaya",
+   "Transfert en bateau aller-retour jusqu'à l'île de Corail",
+   "Séance de plongée avec tuba avec équipement",
+   "Séance de jet-ski",
+   "Balade en banana boat",
+   "Déjeuner thaïlandais dans un restaurant de l'île",
+   "Gilets de sauvetage"
+  ],
+  "notIncluded": [
+   "Boissons autres que celles servies au déjeuner",
+   "Location de chaise de plage",
+   "Serviettes",
+   "Pourboires",
+   "Activités nautiques supplémentaires non listées"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
