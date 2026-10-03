@@ -42974,6 +42974,95 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas (opcionales)"
   ]
  },
+ "combo-waterfall-and-7-island-sunset-tour-in-krabi": {
+  "title": "Combo cascada y atardecer en 7 islas en Krabi",
+  "metaTitle": "Combo cascada y atardecer en 7 islas, Krabi",
+  "metaDescription": "Excursión de día completo en Krabi, con mirador. Organizada por Ask Discovery Thailand, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de día completo en Krabi, con mirador. Organizada por Ask Discovery Thailand, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Once horas que cubren la mitad interior de Krabi por la mañana y sus islas por la tarde, la única forma de ver ambas en un día.\n\nLa mañana se pasa completamente alejada de la costa. El interior de Krabi es caliza y selva tropical, con pozas alimentadas por manantiales y cascadas que permanecen frescas incluso en abril, cuando la costa está en su punto más caluroso, y un mirador que encuadra todo el paisaje kárstico en una sola toma. Casi nadie en unas vacaciones de playa va al interior, y precisamente por eso merece la pena el inicio temprano.\n\nLa tarde y la noche llevan el barco hasta Railay, el banco de arena de Thale Waek, Poda, Tup y Mor. Railay es una península aislada de la red de carreteras por promontorios calcáreos, así que solo se puede llegar en barco. Thale Waek, el Mar Separado, es una franja de arena que une islas en marea baja y desaparece en marea alta, por lo que el horario sigue la tabla de mareas en lugar del reloj.\n\nEl snorkel se practica donde el agua está lo bastante clara para justificarlo, y el atardecer se disfruta desde el barco entre las islas.\n\nOnce horas son un día genuinamente largo, y la combinación es precisamente el objetivo: si solo tiene un día en Krabi y no puede elegir entre selva e islas, esta es la excursión que se niega a elegir.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye la recogida y el regreso al hotel en Krabi, un guía de habla inglesa, la excursión en barco a Railay, el banco de arena, Poda, Tup y Mor, y máscara y equipo de snorkel.\n\nLas tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario, así que lleve efectivo. Un día de aviso mínimo.",
+  "highlights": [
+   "Cascadas y mirador del interior por la mañana",
+   "Pozas alimentadas por manantiales que se mantienen frescas hasta abril",
+   "Railay, el banco de arena, Poda, Tup y Mor en barco",
+   "Programado según las mareas, pues el banco de arena solo aparece en marea baja",
+   "Un día que cubre ambas mitades de Krabi"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Krabi",
+   "Guía de habla inglesa",
+   "Excursión en barco a Railay, el banco de arena, las islas Poda, Tup y Mor",
+   "Máscara y equipo de snorkel",
+   "Almuerzo tailandés",
+   "Fruta fresca y bebidas",
+   "Seguro de viaje"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada al parque nacional (400 THB adulto/200 THB niño, pagadera en el lugar)",
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "4-islands-caves-sandbars-and-chicken-island-views": {
+  "title": "4 islas, cuevas, bancos de arena y vistas de la isla del Pollo",
+  "metaTitle": "4 islas de Krabi: cuevas, bancos de arena, isla del Pollo",
+  "metaDescription": "Excursión de día completo en Krabi, con la playa de la cueva de Phra Nang, Chicken Rock y Ko Thap (Ko Tup). Organizada por Mookanda Villa Travel, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de día completo en Krabi, con la playa de la cueva de Phra Nang, Chicken Rock y Ko Thap (Ko Tup). Organizada por Mookanda Villa Travel, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Ocho horas por cuatro islas con un guía que trabaja en inglés y en tailandés, y un enfoque del agua apto para principiantes.\n\nLa duración es lo que distingue esta excursión del circuito estándar. La mayoría de las excursiones a islas de Krabi duran cinco o seis horas y mantienen a todos en movimiento; a ocho horas, las paradas duran lo bastante para nadar de verdad, secarse y sentarse.\n\nLa playa de la cueva de Phra Nang se encuentra bajo un acantilado caliza en saliente en la península de Railay, con el santuario en un extremo donde los pescadores dejan ofrendas de madera talladas a un espíritu que creen que los protege en el mar. Sigue en uso, no conservado para visitantes, lo que vale la pena saber antes de fotografiarlo.\n\nChicken Rock es la formación en la punta de Ko Gai, que parece una cabeza de pollo desde un ángulo durante la aproximación y una roca caliza corriente desde cualquier otro lugar. Ko Thap y el tómbolo de Ao Nang constituyen el banco de arena: una franja que emerge con la marea baja para unir islas en una lengua transitable a pie y desaparece cuando regresa el agua. Si la camina o no lo decide la tabla de mareas, no el operador.\n\nEl snorkel aquí está diseñado para principiantes. El arrecife de Krabi es poco profundo y está cerca, así que varias paradas son lo bastante poco profundas para hacer pie, y el guía trabaja con personas que nunca han usado una máscara.\n\nUn guía que habla tailandés además de inglés importa más de lo que parece: la tripulación del barco es local, y la persona que puede hablar con ambos es la que puede cambiar los planes cuando lo hace el mar.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye almuerzo, agua potable, fruta de temporada, recogida y regreso al hotel, un guía local de habla inglesa y tailandesa, y apoyo de snorkel para principiantes.\n\nOcho horas. Las tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario. Un día de aviso mínimo.",
+  "highlights": [
+   "Ocho horas, así que las paradas son lo bastante largas para nadar de verdad",
+   "Playa de Phra Nang y su santuario de pescadores en activo",
+   "Banco de arena transitable solo cuando la marea lo permite",
+   "Snorkel diseñado para quienes nunca han usado una máscara",
+   "El guía trabaja en tailandés además de inglés, así que los planes pueden cambiar"
+  ],
+  "included": [
+   "Almuerzo",
+   "Agua potable",
+   "Fruta de temporada",
+   "Recogida y regreso al hotel",
+   "Guía local de habla inglesa y tailandesa",
+   "Charla de snorkel apta para principiantes",
+   "Máscara de snorkel",
+   "Chaleco salvavidas",
+   "Seguro de accidentes básico"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas",
+   "Medicamento para el mareo"
+  ]
+ },
+ "small-group-boat-tour-to-james-bond-and-hong-islands": {
+  "title": "Tour en barco en grupo pequeño a las islas de James Bond y Hong",
+  "metaTitle": "James Bond e isla de Hong, tour en grupo pequeño",
+  "metaDescription": "Excursión de día completo en Krabi, con regreso al hotel para todos los hoteles de Ao Nang (otras zonas) y 2 entradas de tarifa del parque nacional (700 THB/persona). Organizada por Thalassa Tour, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de día completo en Krabi, con regreso al hotel para todos los hoteles de Ao Nang (otras zonas) y 2 entradas de tarifa del parque nacional (700 THB/persona). Organizada por Thalassa Tour, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Las dos mitades de la bahía de Phang Nga en un grupo pequeño, con las tarifas del parque nacional ya incluidas en el precio.\n\nKoh Tapu, la aguja caliza que todos llaman la isla de James Bond, apareció en El hombre de la pistola de oro en 1974 y desde entonces ha sido la roca más fotografiada de la bahía. Desembarcar en su base está ahora restringido porque la roca se ha estado erosionando, así que se contempla desde la playa adyacente. Koh Hong se encuentra del lado de Krabi y alberga la laguna: agua verde poco profunda rodeada de paredes calizas, a la que se entra por una abertura que solo se abre en ciertas mareas.\n\nEl formato de grupo pequeño es la razón para elegir esto en lugar de un asiento más barato en un barco grande. Las grandes excursiones a Phang Nga llevan 40 personas o más, lo que significa hacer cola en cada parada y hacer snorkel entre la multitud; un grupo pequeño se mueve más rápido entre los lugares y dedica el tiempo ahorrado al agua.\n\nLas dos entradas al parque nacional, 700 THB por persona en total, están incluidas en lugar de cobrarse en el muelle. Merece la pena hacer el cálculo: la mayoría de las cotizaciones en esta ruta parecen más baratas y luego le quitan 700 THB antes de subir a bordo, así que compare la cifra total.\n\nSe proporciona una guía de identificación de peces, un pequeño detalle que convierte el snorkel de simplemente mirar peces a saber qué se está mirando.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye el regreso al hotel para los hoteles de Ao Nang, ambas tarifas del parque nacional, seguro, equipo de snorkel y la guía de identificación de peces.\n\nOcho horas. Si se aloja fuera de Ao Nang, confirme la recogida al reservar. Un día de aviso mínimo.",
+  "highlights": [
+   "Koh Tapu y Koh Hong en un solo día",
+   "Grupo pequeño, así que menos colas en cada parada",
+   "700 THB de tarifas del parque nacional incluidas, no cobradas en el muelle",
+   "Laguna de Hong, accesible solo en ciertas mareas",
+   "Guía de identificación de peces proporcionada para el snorkel"
+  ],
+  "included": [
+   "Regreso al hotel para todos los hoteles de Ao Nang (otras zonas contáctenos)",
+   "2 entradas de tarifa del parque nacional (700 THB/persona)",
+   "Seguro",
+   "Equipo de snorkel",
+   "Identificación de peces",
+   "Chaleco salvavidas",
+   "Guía a bordo con información útil",
+   "Guía local certificado",
+   "Almuerzo buffet tailandés en la playa (indíquenos cualquier restricción alimentaria)",
+   "Fruta fresca, refresco y agua mineral",
+   "Café"
+  ],
+  "notIncluded": [
+   "Toalla",
+   "Protección solar"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Crucero en catamarán por 3 islas de Pattaya con almuerzo buffet tailandés",
   "metaTitle": "Pattaya: catamarán 3 islas, almuerzo buffet tailandés",

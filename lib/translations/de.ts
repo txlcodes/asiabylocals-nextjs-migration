@@ -42974,6 +42974,95 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder (optional)"
   ]
  },
+ "combo-waterfall-and-7-island-sunset-tour-in-krabi": {
+  "title": "Kombi-Tour: Wasserfall und 7-Insel-Sonnenuntergang in Krabi",
+  "metaTitle": "Kombi-Tour: Wasserfall und 7-Insel-Sonnenuntergang, Krabi",
+  "metaDescription": "Ganztagesausflug in Krabi, mit Aussichtspunkt. Organisiert von Ask Discovery Thailand, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztagesausflug in Krabi, mit Aussichtspunkt. Organisiert von Ask Discovery Thailand, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Elf Stunden, die Krabis Binnenhälfte morgens und seine Inseln abends abdecken, der einzige Weg, beides an einem Tag zu sehen.\n\nDer Morgen wird ganz von der Küste entfernt verbracht. Krabis Inneres besteht aus Kalkstein und Regenwald, mit quellgespeisten Becken und Wasserfällen, die selbst im April kühl bleiben, wenn die Küste am heißesten ist, und einem Aussichtspunkt, der die gesamte Karstlandschaft in einen Rahmen fasst. Fast niemand auf einem Strandurlaub fährt ins Landesinnere, genau deshalb lohnt sich der frühe Start.\n\nDer Nachmittag und Abend bringen das Boot hinaus nach Railay, zur Sandbank bei Thale Waek, Poda, Tup und Mor. Railay ist eine Halbinsel, abgeschnitten vom Straßennetz durch Kalksteinvorgebirge, daher nur per Boot erreichbar. Thale Waek, das geteilte Meer, ist ein Sandstreifen, der bei Niedrigwasser Inseln verbindet und bei Hochwasser verschwindet, weshalb der Zeitplan dem Gezeitenkalender folgt statt der Uhr.\n\nSchnorcheln findet statt, wo das Wasser klar genug dafür ist, und der Sonnenuntergang wird vom Boot aus zwischen den Inseln genommen.\n\nElf Stunden sind ein wirklich langer Tag, und die Kombination ist genau der Punkt: Wenn Sie nur einen Tag in Krabi haben und sich nicht zwischen Dschungel und Inseln entscheiden können, ist dies der Ausflug, der sich weigert zu wählen.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hotelabholung und -rückfahrt in Krabi, einen englischsprachigen Guide, die Bootsfahrt nach Railay, zur Sandbank, Poda, Tup und Mor, sowie Schnorchelmaske und Ausrüstung.\n\nNationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt, führen Sie also Bargeld mit. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Binnenwasserfälle und Aussichtspunkt am Morgen",
+   "Quellgespeiste Becken, die bis in den April kühl bleiben",
+   "Railay, die Sandbank, Poda, Tup und Mor per Boot",
+   "An die Gezeiten gekoppelt, da die Sandbank nur bei Niedrigwasser erscheint",
+   "Ein Tag, der beide Hälften von Krabi abdeckt"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Krabi",
+   "Englischsprachiger Guide",
+   "Bootsfahrt nach Railay, zur Sandbank, den Inseln Poda, Tup und Mor",
+   "Schnorchelmaske und Ausrüstung",
+   "Thailändisches Mittagessen",
+   "Frisches Obst und Getränke",
+   "Reiseversicherung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittsgebühr (400 THB Erwachsene/200 THB Kind, vor Ort zu zahlen)",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "4-islands-caves-sandbars-and-chicken-island-views": {
+  "title": "4 Inseln, Höhlen, Sandbänke und Blicke auf die Hühnerinsel",
+  "metaTitle": "4 Inseln Krabi: Höhlen, Sandbänke, Hühnerinsel",
+  "metaDescription": "Ganztagesausflug in Krabi, mit Phra-Nang-Höhlenstrand, Chicken Rock und Ko Thap (Ko Tup). Organisiert von Mookanda Villa Travel, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztagesausflug in Krabi, mit Phra-Nang-Höhlenstrand, Chicken Rock und Ko Thap (Ko Tup). Organisiert von Mookanda Villa Travel, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Acht Stunden über vier Inseln mit einem Guide, der sowohl Englisch als auch Thailändisch spricht, und einem anfängerfreundlichen Umgang mit dem Wasser.\n\nDie Länge ist, was dies vom Standardrundgang unterscheidet. Die meisten Krabi-Inseltouren laufen fünf oder sechs Stunden und halten alle in Bewegung; bei acht Stunden dauern die Stopps lange genug, um richtig zu schwimmen, abzutrocknen und sich zu setzen.\n\nDer Phra-Nang-Höhlenstrand liegt unter einer überhängenden Kalksteinklippe auf der Railay-Halbinsel, mit dem Schrein an einem Ende, an dem Fischer geschnitzte Holzopfer für einen Geist hinterlassen, den sie für ihren Schutz auf See verantwortlich machen. Er wird noch genutzt statt für Besucher konserviert, was es wert ist zu wissen, bevor man ihn fotografiert.\n\nChicken Rock ist die Formation an der Spitze von Ko Gai, die von einem bestimmten Blickwinkel auf der Anfahrt wie ein Hühnerkopf aussieht und von überall sonst wie ein gewöhnlicher Kalksteinfelsen. Ko Thap und das Ao-Nang-Tombolo bilden die Sandbank: ein Streifen, der bei Niedrigwasser auftaucht, um Inseln zu einer begehbaren Landzunge zu verbinden, und verschwindet, wenn das Wasser zurückkehrt. Ob Sie sie begehen, entscheidet der Gezeitenkalender, nicht der Anbieter.\n\nDas Schnorcheln hier ist für Anfänger ausgelegt. Krabis Riff liegt flach und nah, daher sind mehrere Stopps flach genug, um darin zu stehen, und der Guide arbeitet mit Leuten, die noch nie eine Maske benutzt haben.\n\nEin Guide, der Thailändisch genauso wie Englisch spricht, zählt mehr, als es sich anhört: Die Bootscrew ist lokal, und die Person, die mit beiden Seiten sprechen kann, ist diejenige, die Pläne ändern kann, wenn es das Meer tut.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Mittagessen, Trinkwasser, Saisonobst, Hotelabholung und -rückfahrt, einen englisch- und thailändischsprachigen lokalen Guide, und Anfänger-Schnorchelunterstützung.\n\nAcht Stunden. Nationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Acht Stunden, also lange genug für echtes Schwimmen an den Stopps",
+   "Phra-Nang-Strand und sein aktiv genutzter Fischer-Schrein",
+   "Sandbank, nur begehbar, wenn die Flut es erlaubt",
+   "Schnorcheln für Leute, die noch nie eine Maske benutzt haben",
+   "Guide spricht Thailändisch sowie Englisch, daher können sich Pläne ändern"
+  ],
+  "included": [
+   "Mittagessen",
+   "Trinkwasser",
+   "Saisonobst",
+   "Hotelabholung und -rückfahrt",
+   "Englisch- und thailändischsprachiger lokaler Guide",
+   "Anfängerfreundliches Schnorchel-Briefing",
+   "Schnorchelmaske",
+   "Schwimmweste",
+   "Grundlegende Unfallversicherung"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder",
+   "Reisekrankheitsmedikament"
+  ]
+ },
+ "small-group-boat-tour-to-james-bond-and-hong-islands": {
+  "title": "Bootsausflug in kleiner Gruppe zu den Inseln James Bond und Hong",
+  "metaTitle": "James Bond und Insel Hong, Ausflug in kleiner Gruppe",
+  "metaDescription": "Ganztagesausflug in Krabi, mit Hotel-Rückfahrt für alle Hotels in Ao Nang (andere Gebiete) und 2 Nationalpark-Eintrittsgebühren (700 THB/Person). Organisiert von Thalassa Tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztagesausflug in Krabi, mit Hotel-Rückfahrt für alle Hotels in Ao Nang (andere Gebiete) und 2 Nationalpark-Eintrittsgebühren (700 THB/Person). Organisiert von Thalassa Tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Beide Hälften der Phang-Nga-Bucht in einer kleinen Gruppe, mit den Nationalpark-Gebühren bereits im Preis enthalten.\n\nKoh Tapu, die Kalksteinnadel, die alle James-Bond-Insel nennen, erschien 1974 in Der Mann mit dem goldenen Colt und ist seitdem der meistfotografierte Fels der Bucht. Das Anlanden an seiner Basis ist jetzt eingeschränkt, da der Fels erodiert, sodass man ihn vom angrenzenden Strand aus betrachtet. Koh Hong liegt auf der Krabi-Seite und beherbergt die Lagune: flaches grünes Wasser, umschlossen von Kalksteinwänden, erreichbar durch eine Lücke, die sich nur bei bestimmten Gezeiten öffnet.\n\nDas Kleingruppenformat ist der Grund, dies einem billigeren Platz auf einem großen Boot vorzuziehen. Große Phang-Nga-Touren fahren mit 40 oder mehr Personen, was bedeutet, an jedem Stopp anzustehen und in der Menge zu schnorcheln; eine kleine Gruppe bewegt sich schneller zwischen den Orten und verbringt die gesparte Zeit im Wasser.\n\nDie beiden Nationalpark-Eingänge, insgesamt 700 THB pro Person, sind inklusive statt am Pier erhoben zu werden. Es lohnt sich, die Rechnung aufzustellen: Die meisten Angebote auf dieser Route wirken günstiger und ziehen Ihnen dann 700 THB ab, bevor Sie einsteigen, also vergleichen Sie die Gesamtsumme.\n\nEin Fischbestimmungsführer wird gestellt, eine kleine Sache, die das Schnorcheln davon, Fische anzusehen, dazu wandelt, zu wissen, was man ansieht.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst die Hotel-Rückfahrt für Ao-Nang-Hotels, beide Nationalpark-Gebühren, Versicherung, Schnorchelausrüstung und den Fischbestimmungsführer.\n\nAcht Stunden. Wenn Sie außerhalb von Ao Nang wohnen, bestätigen Sie die Abholung bei der Buchung. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Koh Tapu und Koh Hong an einem Tag",
+   "Kleine Gruppe, also weniger Anstehen an jedem Stopp",
+   "700 THB Nationalpark-Gebühren inklusive, nicht am Pier berechnet",
+   "Hong-Lagune, nur bei bestimmten Gezeiten zugänglich",
+   "Fischbestimmungsführer für das Schnorcheln gestellt"
+  ],
+  "included": [
+   "Hotel-Rückfahrt für alle Hotels in Ao Nang (andere Gebiete bitte kontaktieren)",
+   "2 Nationalpark-Eintrittsgebühren (700 THB/Person)",
+   "Versicherung",
+   "Schnorchelausrüstung",
+   "Fischbestimmung",
+   "Schwimmweste",
+   "Leitfaden an Bord mit nützlichen Informationen",
+   "Lokaler zertifizierter Guide",
+   "Thailändisches Buffet-Mittagessen am Strand (bitte Ernährungseinschränkungen mitteilen)",
+   "Frisches Obst, Limonade und Mineralwasser",
+   "Kaffee"
+  ],
+  "notIncluded": [
+   "Handtuch",
+   "Sonnenschutz"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Pattaya 3-Insel-Katamaran-Kreuzfahrt mit thailändischem Buffet-Mittagessen",
   "metaTitle": "Pattaya: Katamaran 3 Inseln, thailändisches Buffet-Mittagessen",

@@ -42974,6 +42974,95 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires (facultatifs)"
   ]
  },
+ "combo-waterfall-and-7-island-sunset-tour-in-krabi": {
+  "title": "Combiné cascade et 7 îles au coucher du soleil à Krabi",
+  "metaTitle": "Combiné cascade et 7 îles au coucher du soleil, Krabi",
+  "metaDescription": "Excursion d'une journée complète à Krabi, incluant un point de vue. Organisée par Ask Discovery Thailand, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une journée complète à Krabi, incluant un point de vue. Organisée par Ask Discovery Thailand, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Onze heures qui couvrent la moitié intérieure de Krabi le matin et ses îles en soirée, la seule façon de voir les deux en une journée.\n\nLa matinée se passe entièrement loin de la côte. L'intérieur de Krabi est fait de calcaire et de forêt tropicale, avec des bassins alimentés par des sources et des cascades qui restent fraîches même en avril lorsque la côte est à son plus chaud, et un point de vue qui place tout le paysage karstique dans un seul cadre. Presque personne en vacances à la plage ne va vers l'intérieur, c'est précisément pour cela que ça vaut le départ matinal.\n\nL'après-midi et la soirée emmènent le bateau vers Railay, le banc de sable de Thale Waek, Poda, Tup et Mor. Railay est une péninsule coupée du réseau routier par des promontoires calcaires, donc accessible uniquement par bateau. Thale Waek, la Mer Séparée, est une bande de sable qui relie des îles à marée basse et disparaît à marée haute, c'est pourquoi le programme suit le tableau des marées plutôt que l'horloge.\n\nLa plongée avec tuba a lieu là où l'eau est assez claire pour le justifier, et le coucher de soleil se prend depuis le bateau parmi les îles.\n\nOnze heures, c'est réellement une longue journée, et la combinaison est précisément l'intérêt : si vous n'avez qu'une seule journée à Krabi et ne pouvez choisir entre jungle et îles, c'est l'excursion qui refuse de choisir.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la prise en charge et le retour à l'hôtel à Krabi, un guide anglophone, l'excursion en bateau vers Railay, le banc de sable, Poda, Tup et Mor, et un masque et équipement de plongée avec tuba.\n\nLes frais de parc national sont perçus à la jetée sauf confirmation contraire, prévoyez donc des espèces. Un jour de préavis minimum.",
+  "highlights": [
+   "Cascades et point de vue de l'intérieur le matin",
+   "Bassins alimentés par des sources restant frais jusqu'en avril",
+   "Railay, le banc de sable, Poda, Tup et Mor en bateau",
+   "Calé sur les marées, car le banc de sable n'apparaît qu'à marée basse",
+   "Une journée qui couvre les deux moitiés de Krabi"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Krabi",
+   "Guide anglophone",
+   "Excursion en bateau vers Railay, le banc de sable, les îles Poda, Tup et Mor",
+   "Masque et équipement de plongée avec tuba",
+   "Déjeuner thaïlandais",
+   "Fruits frais et boissons",
+   "Assurance voyage"
+  ],
+  "notIncluded": [
+   "Frais d'entrée du parc national (400 THB adulte/200 THB enfant, payables sur place)",
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "4-islands-caves-sandbars-and-chicken-island-views": {
+  "title": "4 îles, grottes, bancs de sable et vues sur l'île du Poulet",
+  "metaTitle": "4 îles de Krabi : grottes, bancs de sable, île du Poulet",
+  "metaDescription": "Excursion d'une journée complète à Krabi, incluant la plage de la grotte de Phra Nang, Chicken Rock et Ko Thap (Ko Tup). Organisée par Mookanda Villa Travel, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une journée complète à Krabi, incluant la plage de la grotte de Phra Nang, Chicken Rock et Ko Thap (Ko Tup). Organisée par Mookanda Villa Travel, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Huit heures à travers quatre îles avec un guide travaillant en anglais et en thaï, et une approche de l'eau adaptée aux débutants.\n\nLa durée est ce qui distingue cette excursion du circuit standard. La plupart des excursions insulaires de Krabi durent cinq ou six heures et maintiennent tout le monde en mouvement ; à huit heures, les arrêts durent assez longtemps pour nager réellement, se sécher et s'asseoir.\n\nLa plage de la grotte de Phra Nang se trouve sous une falaise calcaire en surplomb sur la péninsule de Railay, avec le sanctuaire à une extrémité où les pêcheurs laissent des offrandes en bois sculpté à un esprit qu'ils croient les protéger en mer. Il est toujours en usage plutôt que préservé pour les visiteurs, ce qui vaut la peine de savoir avant de le photographier.\n\nChicken Rock est la formation à la pointe de Ko Gai, qui ressemble à une tête de poulet depuis un certain angle à l'approche, et à un piton calcaire ordinaire depuis partout ailleurs. Ko Thap et le tombolo d'Ao Nang constituent le banc de sable : une bande qui émerge à marée basse pour relier des îles en une langue praticable à pied, et disparaît au retour de l'eau. Que vous la parcouriez ou non dépend du tableau des marées, pas de l'opérateur.\n\nLa plongée avec tuba ici est conçue pour les débutants. Le récif de Krabi est peu profond et proche, donc plusieurs arrêts sont assez peu profonds pour qu'on puisse y tenir debout, et le guide accompagne les personnes qui n'ont jamais utilisé de masque auparavant.\n\nUn guide qui parle thaï aussi bien qu'anglais compte plus qu'on ne le pense : l'équipage du bateau est local, et la personne capable de parler aux deux parties est celle qui peut changer les plans quand la mer le fait.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend le déjeuner, l'eau potable, les fruits de saison, la prise en charge et le retour à l'hôtel, un guide local anglophone et thaïophone, et un accompagnement de plongée avec tuba pour débutants.\n\nHuit heures. Les frais de parc national sont perçus à la jetée sauf confirmation contraire. Un jour de préavis minimum.",
+  "highlights": [
+   "Huit heures, donc des arrêts assez longs pour réellement nager",
+   "Plage de Phra Nang et son sanctuaire de pêcheurs encore en usage",
+   "Banc de sable praticable uniquement quand la marée le permet",
+   "Plongée avec tuba conçue pour ceux qui n'ont jamais utilisé de masque",
+   "Guide travaillant en thaï comme en anglais, donc les plans peuvent changer"
+  ],
+  "included": [
+   "Déjeuner",
+   "Eau potable",
+   "Fruits de saison",
+   "Prise en charge et retour à l'hôtel",
+   "Guide local anglophone et thaïophone",
+   "Briefing de plongée avec tuba adapté aux débutants",
+   "Masque de plongée avec tuba",
+   "Gilet de sauvetage",
+   "Assurance accident de base"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires",
+   "Médicament contre le mal de mer"
+  ]
+ },
+ "small-group-boat-tour-to-james-bond-and-hong-islands": {
+  "title": "Excursion en bateau en petit groupe vers les îles James Bond et Hong",
+  "metaTitle": "James Bond et île de Hong, excursion en petit groupe",
+  "metaDescription": "Excursion d'une journée complète à Krabi, incluant le retour à l'hôtel pour tous les hôtels d'Ao Nang (autres zones) et 2 entrées de frais de parc national (700 THB/personne). Organisée par Thalassa Tour, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une journée complète à Krabi, incluant le retour à l'hôtel pour tous les hôtels d'Ao Nang (autres zones) et 2 entrées de frais de parc national (700 THB/personne). Organisée par Thalassa Tour, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Les deux moitiés de la baie de Phang Nga en petit groupe, avec les frais de parc national déjà inclus dans le prix.\n\nKoh Tapu, l'aiguille calcaire que tout le monde appelle l'île de James Bond, est apparue dans L'Homme au pistolet d'or en 1974 et reste depuis le rocher le plus photographié de la baie. Débarquer à sa base est désormais restreint car le rocher s'érode, donc on l'observe depuis la plage adjacente. Koh Hong se trouve du côté de Krabi et abrite le lagon : une eau verte peu profonde enfermée par des parois calcaires, accessible par une ouverture qui ne s'ouvre qu'à certaines marées.\n\nLe format en petit groupe est la raison de préférer cette excursion à une place moins chère sur un grand bateau. Les grandes excursions vers Phang Nga transportent 40 personnes ou plus, ce qui signifie faire la queue à chaque arrêt et plonger avec tuba dans la foule ; un petit groupe se déplace plus vite entre les sites et consacre le temps gagné à l'eau.\n\nLes deux entrées de parc national, 700 THB par personne en tout, sont incluses plutôt que perçues à la jetée. Cela vaut la peine de faire le calcul : la plupart des devis sur ce circuit paraissent moins chers puis vous retirent 700 THB avant l'embarquement, donc comparez le montant total.\n\nUn guide d'identification des poissons est fourni, un petit détail qui transforme la plongée avec tuba d'un simple regard sur les poissons en une véritable connaissance de ce qu'on observe.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend le retour à l'hôtel pour les hôtels d'Ao Nang, les deux frais de parc national, l'assurance, l'équipement de plongée avec tuba et le guide d'identification des poissons.\n\nHuit heures. Si vous résidez hors d'Ao Nang, confirmez la prise en charge lors de la réservation. Un jour de préavis minimum.",
+  "highlights": [
+   "Koh Tapu et Koh Hong en une seule journée",
+   "Petit groupe, donc moins d'attente à chaque arrêt",
+   "700 THB de frais de parc national compris, non facturés à la jetée",
+   "Lagon de Hong, accessible uniquement à certaines marées",
+   "Guide d'identification des poissons fourni pour la plongée avec tuba"
+  ],
+  "included": [
+   "Retour à l'hôtel pour tous les hôtels d'Ao Nang (autres zones, nous contacter)",
+   "2 entrées de frais de parc national (700 THB/personne)",
+   "Assurance",
+   "Équipement de plongée avec tuba",
+   "Identification des poissons",
+   "Gilet de sauvetage",
+   "Guide à bord avec informations utiles",
+   "Guide local certifié",
+   "Déjeuner buffet thaïlandais sur la plage (merci de nous signaler toute restriction alimentaire)",
+   "Fruits frais, soda et eau minérale",
+   "Café"
+  ],
+  "notIncluded": [
+   "Serviette",
+   "Protection solaire"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Croisière en catamaran entre 3 îles de Pattaya avec déjeuner buffet thaïlandais",
   "metaTitle": "Pattaya : catamaran 3 îles, déjeuner buffet thaïlandais",
