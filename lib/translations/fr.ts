@@ -42630,6 +42630,88 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "koh-larn-island-off-pattaya-mini-tour": {
+  "title": "Vol en parapente biplace à Koh Larn au-dessus des baies turquoise",
+  "metaTitle": "Koh Larn : parapente biplace au-dessus des baies turquoise",
+  "metaDescription": "Décollez des collines de Koh Larn en parapente biplace avec un instructeur certifié, survolant une eau turquoise, des plages de sable blanc et des crêtes insulaires verdoyantes.",
+  "shortDescription": "Décollez des collines de Koh Larn en parapente biplace avec un instructeur certifié, survolant une eau turquoise, des plages de sable blanc et des crêtes insulaires verdoyantes.",
+  "fullDescription": "La plupart des visiteurs voient Koh Larn depuis la plage. Cette expérience vous montre l'île depuis plusieurs centaines de mètres de hauteur : harnaché à un parapente biplace aux côtés d'un instructeur certifié, glissant silencieusement au-dessus d'un paysage de baies turquoise, de croissants de sable blanc et de collines couvertes de jungle. C'est du vol libre véritable, pas un parachute ascensionnel tracté par bateau : vous décollez depuis les hauteurs de l'île, chevauchez la brise marine, et atterrissez sans rien d'autre que le bruit du vent tout le long.\n\nAucune expérience n'est nécessaire. Votre instructeur gère entièrement la voile ; votre rôle se limite à quelques pas de course au décollage, puis simplement à profiter de la vue. Avant le vol, vous recevrez un briefing de sécurité complet et un ajustement de l'équipement, et l'équipe surveille attentivement les conditions de vent : les vols n'ont lieu que lorsque les conditions sont favorables, exactement ce qu'on attend d'une opération de vol.\n\nUne fois en l'air, la perspective est extraordinaire : la skyline de Pattaya au-delà de l'eau d'un côté, les plages de l'île et les eaux peu profondes du récif brillant en dessous. Les vols sont sans précipitation, et l'instructeur peut voler en lignes douces et panoramiques ou ajouter quelques virages dynamiques selon votre envie. Pour les voyageurs assurés en quête de l'heure la plus mémorable de leur séjour à Pattaya, c'est un excellent candidat.",
+  "highlights": [
+   "Parapente biplace en vol libre avec un instructeur certifié",
+   "Vues aériennes spectaculaires sur les plages et les baies turquoise de Koh Larn",
+   "Aucune expérience requise, briefing complet et équipement fournis",
+   "Les vols n'ont lieu que par conditions de vent sûres",
+   "Une véritable alternative incontournable au parachute ascensionnel tracté par bateau"
+  ],
+  "included": [
+   "Vol en parapente biplace avec instructeur certifié",
+   "Briefing de sécurité et tout l'équipement de vol",
+   "Casque et harnais",
+   "Assistance au décollage et à l'atterrissage"
+  ],
+  "notIncluded": [
+   "Transport vers Koh Larn (ferry ou hors-bord depuis la jetée de Bali Hai, à organiser vous-même)",
+   "Forfait photo/vidéo en vol (disponible avec supplément)",
+   "Repas et boissons",
+   "Pourboires"
+  ]
+ },
+ "koh-larn-coral-island-full-day-tour": {
+  "title": "Excursion d'une journée à l'île de Corail en hors-bord avec déjeuner depuis Pattaya",
+  "metaTitle": "Île de Corail en hors-bord avec déjeuner depuis Pattaya",
+  "metaDescription": "Une évasion simple et très avantageuse à Koh Larn : transferts en hors-bord, temps libre sur la plage de Tawaen, sports nautiques facultatifs, et déjeuner compris, avec prise en charge à l'hôtel depuis Pattaya.",
+  "shortDescription": "Une évasion simple et très avantageuse à Koh Larn : transferts en hors-bord, temps libre sur la plage de Tawaen, sports nautiques facultatifs, et déjeuner compris, avec prise en charge à l'hôtel depuis Pattaya.",
+  "fullDescription": "Koh Larn, plus connue sous le nom d'île de Corail, est l'évasion de plage classique de Pattaya : une courte traversée en hors-bord à travers la baie jusqu'à un sable blanc et une eau turquoise baignable qui semblent à des mondes du littoral animé de la ville. Cette excursion gère tous les rouages : prise en charge à l'hôtel, transfert jusqu'à la jetée de Bali Hai, traversée en hors-bord, temps de plage, et déjeuner, à un prix qui en fait l'une des excursions d'une journée les plus faciles à accepter à Pattaya.\n\nLe cœur de la journée est le temps libre sur la plage de Tawaen, la portion de sable la plus animée de l'île. Baignez-vous, faites de la plongée avec tuba dans les eaux peu profondes, ou installez-vous simplement sous un parasol : et si vous voulez plus d'adrénaline, la plage est le point central pour des suppléments facultatifs comme le parachute ascensionnel, le jet-ski et le banana boat, tous réservables sur place. Votre guide suit les horaires pour que vous puissiez vous détendre sans surveiller l'heure.\n\nLe déjeuner est compris, avec un repas thaïlandais à menu fixe servi sur l'île ou un buffet indien de retour à Pattaya selon votre option. En milieu d'après-midi, le hors-bord vous ramène à travers la baie et votre transfert vous dépose près de votre hôtel : une journée de plage complète conclue avec un minimum d'effort et un maximum de sable.",
+  "highlights": [
+   "Traversée en hors-bord depuis la jetée de Bali Hai jusqu'à l'île de Corail",
+   "Temps libre pour se baigner et se détendre sur la plage de Tawaen",
+   "Sports nautiques facultatifs : parachute ascensionnel, jet-ski, banana boat",
+   "Déjeuner compris, option repas thaïlandais à menu fixe ou buffet indien",
+   "Transferts aller-retour à l'hôtel depuis Pattaya"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Pattaya",
+   "Transfert en hors-bord aller-retour jusqu'à Koh Larn",
+   "Temps libre sur la plage de Tawaen",
+   "Déjeuner (menu thaïlandais fixe sur l'île ou buffet indien à Pattaya, selon l'option)",
+   "Guide anglophone"
+  ],
+  "notIncluded": [
+   "Sports nautiques (parachute ascensionnel, jet-ski, banana boat, payables sur place)",
+   "Location de chaise de plage et de parasol",
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
+ "monkey-island-sunset-tour": {
+  "title": "Fête en yacht au coucher du soleil entre les îles de Pattaya avec buffet et DJ",
+  "metaTitle": "Pattaya coucher de soleil : yacht entre les îles, buffet et DJ",
+  "metaDescription": "Naviguez entre trois îles au large de Pattaya à bord d'un yacht de luxe de 25 mètres, avec arrêts pour la baignade, le kayak et le paddleboard, puis admirez le coucher de soleil pendant un dîner buffet animé par un DJ en direct.",
+  "shortDescription": "Naviguez entre trois îles au large de Pattaya à bord d'un yacht de luxe de 25 mètres, avec arrêts pour la baignade, le kayak et le paddleboard, puis admirez le coucher de soleil pendant un dîner buffet animé par un DJ en direct.",
+  "fullDescription": "Voici l'excursion insulaire de Pattaya passée à la vitesse supérieure : un yacht de luxe de 25 mètres au lieu d'un bateau d'excursion, un DJ en direct sur le pont, et un itinéraire qui s'étire jusqu'à l'heure dorée pour que vous soyez sur l'eau au coucher du soleil plutôt que de retour à terre. Les transferts d'hôtel depuis Pattaya sont compris, et une fois à bord, la journée se déroule comme un mélange fluide de navigation, de baignade et de détente.\n\nL'itinéraire fait escale à trois îles. Le premier et le plus long arrêt mouille au large de Koh Phai, où vous pouvez vous baigner dans l'eau limpide, sortir les kayaks et les paddleboards, ou simplement vous installer sur le pont solarium. De là, le yacht navigue vers Koh Rin puis passe devant l'île des Singes, chaque étape offrant une toile de fond différente de littoral rocheux et de mer ouverte, le DJ gardant le pont animé tout le temps.\n\nÀ mesure que l'après-midi s'estompe, le yacht met le cap vers Ocean Marina à Jomtien et le dîner buffet est servi, calé pour que vous mangiez tandis que le soleil descend vers l'horizon. C'est en partie une excursion insulaire, en partie une fête flottante au coucher du soleil, et un excellent choix pour les groupes, les couples, et quiconque veut que sa journée en mer se termine en apothéose plutôt que par un trajet de ferry en milieu d'après-midi.",
+  "highlights": [
+   "Croisière sur un luxueux yacht de 25 mètres avec DJ en direct sur le pont",
+   "Visite de trois îles : Koh Phai, Koh Rin et l'île des Singes",
+   "Baignade, kayak et paddleboard aux arrêts de mouillage",
+   "Dîner buffet au coucher du soleil sur l'eau",
+   "Transferts aller-retour à l'hôtel depuis Pattaya compris"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Pattaya",
+   "Croisière en yacht vers trois îles",
+   "Dîner buffet à bord",
+   "Animation DJ en direct",
+   "Kayaks, paddleboards et arrêts de baignade",
+   "Boissons non alcoolisées et eau potable",
+   "Équipage et hôte anglophone"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisées (disponibles à l'achat)",
+   "Serviettes",
+   "Pourboires pour l'équipage",
+   "Dépenses personnelles"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

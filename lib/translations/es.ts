@@ -42630,6 +42630,88 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "koh-larn-island-off-pattaya-mini-tour": {
+  "title": "Vuelo en parapente biplaza en Koh Larn sobre bahías turquesa",
+  "metaTitle": "Koh Larn: parapente biplaza sobre bahías turquesa",
+  "metaDescription": "Despegue desde las colinas de Koh Larn en un parapente biplaza con un instructor certificado, sobrevolando agua turquesa, playas de arena blanca y crestas verdes de la isla.",
+  "shortDescription": "Despegue desde las colinas de Koh Larn en un parapente biplaza con un instructor certificado, sobrevolando agua turquesa, playas de arena blanca y crestas verdes de la isla.",
+  "fullDescription": "La mayoría de los visitantes ve Koh Larn desde la playa. Esta experiencia le muestra la isla desde varios cientos de metros de altura: sujeto a un parapente biplaza junto a un instructor certificado, deslizándose en silencio sobre un paisaje de bahías turquesa, medias lunas de arena blanca, y colinas cubiertas de selva. Es vuelo libre real, no un parasailing remolcado por barco: despega desde las zonas altas de la isla, cabalga la brisa marina, y aterriza sin nada más que el sonido del viento durante todo el trayecto.\n\nNo se necesita experiencia. Su instructor controla el ala por completo; su tarea son unos pocos pasos corriendo al despegar y después simplemente disfrutar de la vista. Antes del vuelo recibirá una charla de seguridad completa y el ajuste del equipo, y el equipo vigila cuidadosamente las condiciones del viento: los vuelos solo se realizan cuando las condiciones son adecuadas, exactamente lo que se espera de una operación de vuelo.\n\nUna vez en el aire, la perspectiva es extraordinaria: el perfil de Pattaya al otro lado del agua por un lado, las playas de la isla y los bajos del arrecife brillando debajo. Los vuelos son tranquilos, y el instructor puede volar líneas suaves y panorámicas o añadir unos giros dinámicos según su apetito. Para viajeros con confianza que buscan la hora más memorable de su viaje a Pattaya, esta es una gran opción.",
+  "highlights": [
+   "Parapente biplaza de vuelo libre con un instructor certificado",
+   "Amplias vistas aéreas de las playas y bahías turquesa de Koh Larn",
+   "No se necesita experiencia, charla completa y equipo incluidos",
+   "Los vuelos solo se realizan con condiciones de viento seguras",
+   "Una verdadera alternativa de lista de deseos al parasailing remolcado por barco"
+  ],
+  "included": [
+   "Vuelo en parapente biplaza con instructor certificado",
+   "Charla de seguridad y todo el equipo de vuelo",
+   "Casco y arnés",
+   "Asistencia en el despegue y el aterrizaje"
+  ],
+  "notIncluded": [
+   "Transporte a Koh Larn (ferri o lancha rápida desde el muelle de Bali Hai, a organizar por su cuenta)",
+   "Paquete de foto/vídeo durante el vuelo (disponible con cargo adicional)",
+   "Comidas y bebidas",
+   "Propinas"
+  ]
+ },
+ "koh-larn-coral-island-full-day-tour": {
+  "title": "Excursión de un día a la Isla de Coral en lancha rápida con almuerzo desde Pattaya",
+  "metaTitle": "Isla de Coral en lancha rápida con almuerzo desde Pattaya",
+  "metaDescription": "Una escapada sencilla y de gran valor a Koh Larn: traslados en lancha rápida, tiempo libre en la playa de Tawaen, deportes acuáticos opcionales, y almuerzo incluido, todo con recogida en el hotel desde Pattaya.",
+  "shortDescription": "Una escapada sencilla y de gran valor a Koh Larn: traslados en lancha rápida, tiempo libre en la playa de Tawaen, deportes acuáticos opcionales, y almuerzo incluido, todo con recogida en el hotel desde Pattaya.",
+  "fullDescription": "Koh Larn, mejor conocida como la Isla de Coral, es la escapada de playa clásica de Pattaya: un corto salto en lancha rápida a través de la bahía hasta arena blanca y agua turquesa en la que se puede nadar, que se siente a un mundo de distancia de la ajetreada costa de la ciudad. Esta excursión gestiona todas las piezas móviles: recogida en el hotel, el traslado al muelle de Bali Hai, la travesía en lancha rápida, tiempo de playa, y almuerzo, a un precio que la convierte en una de las excursiones de un día más fáciles de aceptar en Pattaya.\n\nEl corazón del día es el tiempo libre en la playa de Tawaen, el tramo de arena más animado de la isla. Nade, haga snorkel en las zonas poco profundas, o simplemente instálese bajo una sombrilla; y si quiere más adrenalina, la playa es el centro de extras opcionales como parasailing, motos de agua, y paseos en banana boat, todos reservables en el lugar. Su guía controla los horarios para que pueda relajarse sin mirar el reloj.\n\nEl almuerzo está incluido, con un menú tailandés servido en la isla o un buffet indio de vuelta en Pattaya según su opción. A media tarde, la lancha rápida le devuelve a través de la bahía y su traslado le deja cerca de su hotel: un día de playa completo cerrado con un esfuerzo mínimo y la máxima arena.",
+  "highlights": [
+   "Travesía en lancha rápida desde el muelle de Bali Hai hasta la Isla de Coral",
+   "Tiempo libre para nadar y relajarse en la playa de Tawaen",
+   "Deportes acuáticos opcionales: parasailing, moto de agua, banana boat",
+   "Almuerzo incluido, opción de menú tailandés o buffet indio",
+   "Traslados de ida y vuelta al hotel desde Pattaya"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Pattaya",
+   "Traslado en lancha rápida de ida y vuelta a Koh Larn",
+   "Tiempo libre en la playa de Tawaen",
+   "Almuerzo (menú tailandés en la isla o buffet indio en Pattaya, según la opción)",
+   "Guía de habla inglesa"
+  ],
+  "notIncluded": [
+   "Deportes acuáticos (parasailing, moto de agua, banana boat, de pago en el lugar)",
+   "Alquiler de silla de playa y sombrilla",
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
+ "monkey-island-sunset-tour": {
+  "title": "Fiesta en yate al atardecer entre islas de Pattaya con buffet y DJ",
+  "metaTitle": "Pattaya al atardecer: yate entre islas, buffet y DJ",
+  "metaDescription": "Navegue entre tres islas frente a Pattaya a bordo de un yate de lujo de 25 metros con paradas para nadar, hacer kayak y paddle surf, y después observe el atardecer durante una cena buffet mientras un DJ toca en directo.",
+  "shortDescription": "Navegue entre tres islas frente a Pattaya a bordo de un yate de lujo de 25 metros con paradas para nadar, hacer kayak y paddle surf, y después observe el atardecer durante una cena buffet mientras un DJ toca en directo.",
+  "fullDescription": "Esta es la excursión insular de Pattaya llevada un paso más allá: un yate de lujo de 25 metros en lugar de un barco de excursión, un DJ en directo en la cubierta, y una ruta que se extiende hasta la hora dorada para que esté en el agua al atardecer en lugar de de vuelta en tierra. Los traslados de hotel desde Pattaya están incluidos, y una vez que sube a bordo, el día se despliega como una mezcla fluida de navegación, baño y descanso.\n\nLa ruta hace escala en tres islas. La primera y más larga parada fondea frente a Koh Phai, donde puede nadar en el agua clara, sacar los kayaks y las tablas de paddle surf, o simplemente reservar un sitio en la cubierta solarium. Desde allí, el yate navega hacia Koh Rin y después pasa junto a la isla de los Monos, cada tramo ofreciendo un telón de fondo distinto de costa rocosa y mar abierto, con el DJ manteniendo la cubierta animada todo el tiempo.\n\nA medida que la tarde se desvanece, el yate pone rumbo hacia Ocean Marina en Jomtien y se sirve la cena buffet, programada para que esté comiendo mientras el sol desciende hacia el horizonte. Es en parte un tour isleño, en parte una fiesta flotante al atardecer, y una gran opción para grupos, parejas, y cualquiera que quiera que su día en el mar termine con un buen remate en lugar de un trayecto en ferri de vuelta a media tarde.",
+  "highlights": [
+   "Navegación en un lujoso yate de 25 metros con DJ en directo en la cubierta",
+   "Visita a tres islas: Koh Phai, Koh Rin, y la isla de los Monos",
+   "Nade, haga kayak y paddle surf en las paradas de fondeo",
+   "Cena buffet al atardecer sobre el agua",
+   "Traslados de ida y vuelta al hotel desde Pattaya incluidos"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Pattaya",
+   "Crucero en yate a tres islas",
+   "Cena buffet a bordo",
+   "Entretenimiento con DJ en directo",
+   "Kayaks, tablas de paddle surf y paradas para nadar",
+   "Refrescos y agua potable",
+   "Tripulación y anfitrión de habla inglesa"
+  ],
+  "notIncluded": [
+   "Bebidas alcohólicas (disponibles para comprar)",
+   "Toallas",
+   "Propinas para la tripulación",
+   "Gastos personales"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

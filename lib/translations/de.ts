@@ -42630,6 +42630,88 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "koh-larn-island-off-pattaya-mini-tour": {
+  "title": "Koh-Larn-Tandem-Gleitschirmflug über türkisfarbene Buchten",
+  "metaTitle": "Koh Larn: Tandem-Gleitschirm über türkisfarbene Buchten",
+  "metaDescription": "Starten Sie von den Hügeln Koh Larns mit einem Tandem-Gleitschirm und einem zertifizierten Fluglehrer, schwebend über türkisfarbenem Wasser, weißen Sandstränden und grünen Inselkämmen.",
+  "shortDescription": "Starten Sie von den Hügeln Koh Larns mit einem Tandem-Gleitschirm und einem zertifizierten Fluglehrer, schwebend über türkisfarbenem Wasser, weißen Sandstränden und grünen Inselkämmen.",
+  "fullDescription": "Die meisten Besucher sehen Koh Larn vom Strand aus. Dieses Erlebnis zeigt Ihnen die Insel aus mehreren hundert Metern Höhe: angeschnallt an einen Tandem-Gleitschirm neben einem zertifizierten Fluglehrer, gleitend lautlos über eine Landschaft aus türkisfarbenen Buchten, weißen Sandhalbmonden und dschungelbedeckten Hügeln. Es ist echter Freiflug, kein vom Boot gezogenes Parasailing: Sie starten vom höher gelegenen Terrain der Insel, reiten die Meeresbrise, und landen mit nichts außer Windgeräusch den ganzen Weg.\n\nKeine Erfahrung ist nötig. Ihr Fluglehrer übernimmt den Schirm vollständig; Ihre Aufgabe sind ein paar Laufschritte beim Start und dann einfach die Aussicht zu genießen. Vor dem Flug erhalten Sie ein vollständiges Sicherheitsbriefing und eine Ausrüstungsanpassung, und das Team überwacht die Windbedingungen sorgfältig, Flüge finden nur statt, wenn die Bedingungen stimmen, genau das, was man von einem Flugbetrieb erwartet.\n\nEinmal in der Luft ist die Perspektive außergewöhnlich: Pattayas Skyline auf der einen Seite über dem Wasser, die Strände der Insel und flachen Riffgewässer darunter leuchtend. Die Flüge sind unhetzig, und der Fluglehrer kann sanfte, panoramische Linien fliegen oder je nach Ihrem Geschmack ein paar dynamische Kurven einbauen. Für selbstbewusste Reisende, die die mit Abstand unvergesslichste Stunde ihrer Pattaya-Reise suchen, ist dies ein starker Kandidat.",
+  "highlights": [
+   "Tandem-Freiflug-Gleitschirmfliegen mit einem zertifizierten Fluglehrer",
+   "Weitläufige Luftaufnahmen von Koh Larns Stränden und türkisfarbenen Buchten",
+   "Keine Erfahrung nötig, vollständiges Briefing und Ausrüstung inklusive",
+   "Flüge finden nur bei sicheren Windbedingungen statt",
+   "Eine echte Bucket-List-Alternative zum vom Boot gezogenen Parasailing"
+  ],
+  "included": [
+   "Tandem-Gleitschirmflug mit zertifiziertem Fluglehrer",
+   "Sicherheitsbriefing und gesamte Flugausrüstung",
+   "Helm und Gurt",
+   "Unterstützung bei Start und Landung"
+  ],
+  "notIncluded": [
+   "Transport nach Koh Larn (Fähre oder Speedboot ab Bali-Hai-Pier, selbst zu organisieren)",
+   "Foto-/Video-Paket während des Flugs (gegen Aufpreis verfügbar)",
+   "Mahlzeiten und Getränke",
+   "Trinkgelder"
+  ]
+ },
+ "koh-larn-coral-island-full-day-tour": {
+  "title": "Coral-Island-Tagesausflug per Speedboot mit Mittagessen ab Pattaya",
+  "metaTitle": "Coral Island per Speedboot mit Mittagessen ab Pattaya",
+  "metaDescription": "Eine einfache, preiswerte Flucht nach Koh Larn: Speedboot-Transfers, freie Zeit am Tawaen Beach, optionaler Wassersport, und Mittagessen inklusive, alles mit Hotelabholung ab Pattaya.",
+  "shortDescription": "Eine einfache, preiswerte Flucht nach Koh Larn: Speedboot-Transfers, freie Zeit am Tawaen Beach, optionaler Wassersport, und Mittagessen inklusive, alles mit Hotelabholung ab Pattaya.",
+  "fullDescription": "Koh Larn, besser bekannt als Coral Island, ist Pattayas klassische Strandflucht, ein kurzer Speedboot-Sprung über die Bucht zu weißem Sand und schwimmbarem türkisfarbenem Wasser, das Welten von der belebten Küstenlinie der Stadt entfernt wirkt. Diese Tour übernimmt alle beweglichen Teile: Hotelabholung, den Transfer zum Bali-Hai-Pier, die Speedboot-Überfahrt, Strandzeit, und Mittagessen, zu einem Preis, der sie zu einem der leichtesten Tagesausflüge in Pattaya macht, bei denen man gern zustimmt.\n\nDas Herzstück des Tages ist freie Zeit am Tawaen Beach, dem lebendigsten Sandabschnitt der Insel. Schwimmen, Schnorcheln in den Flachwassern, oder sich einfach unter einem Sonnenschirm niederlassen, und wenn Sie mehr Adrenalin wollen, ist der Strand der Knotenpunkt für optionale Extras wie Parasailing, Jetski, und Bananenboot-Fahrten, alle vor Ort buchbar. Ihr Guide behält die Zeitplanung im Blick, damit Sie sich entspannen können, ohne auf die Uhr zu schauen.\n\nMittagessen ist inklusive, mit einem thailändischen Menü, das auf der Insel serviert wird, oder einem indischen Buffet zurück in Pattaya, je nach Option. Am frühen Nachmittag bringt das Speedboot Sie über die Bucht zurück, und Ihr Transfer setzt Sie nahe Ihrem Hotel ab, ein voller Strandtag, abgeschlossen mit minimalem Aufwand und maximalem Sand.",
+  "highlights": [
+   "Speedboot-Überfahrt vom Bali-Hai-Pier zur Coral Island",
+   "Freie Zeit zum Schwimmen und Entspannen am Tawaen Beach",
+   "Optionaler Wassersport: Parasailing, Jetski, Bananenboot",
+   "Mittagessen inklusive, Option thailändisches Menü oder indisches Buffet",
+   "Hin- und Rück-Hoteltransfers ab Pattaya"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Pattaya",
+   "Hin- und Rück-Speedboot-Transfer nach Koh Larn",
+   "Freie Zeit am Tawaen Beach",
+   "Mittagessen (thailändisches Menü auf der Insel oder indisches Buffet in Pattaya, je nach Option)",
+   "Englischsprachiger Guide"
+  ],
+  "notIncluded": [
+   "Wassersport (Parasailing, Jetski, Bananenboot, vor Ort zu bezahlen)",
+   "Strandstuhl- und Sonnenschirm-Vermietung",
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "monkey-island-sunset-tour": {
+  "title": "Pattaya Sonnenuntergangs-Inselhopping-Yacht-Party mit Buffet und DJ",
+  "metaTitle": "Pattaya Sonnenuntergang: Yacht-Inselhopping, Buffet und DJ",
+  "metaDescription": "Segeln Sie zu drei Inseln vor Pattaya an Bord einer 25 Meter langen Luxusyacht mit Stopps zum Schwimmen, Kajakfahren und Paddleboarding, und beobachten Sie dann den Sonnenuntergang bei einem Buffet-Abendessen, während ein Live-DJ auflegt.",
+  "shortDescription": "Segeln Sie zu drei Inseln vor Pattaya an Bord einer 25 Meter langen Luxusyacht mit Stopps zum Schwimmen, Kajakfahren und Paddleboarding, und beobachten Sie dann den Sonnenuntergang bei einem Buffet-Abendessen, während ein Live-DJ auflegt.",
+  "fullDescription": "Dies ist Pattayas Inselausflug um eine Stufe nach oben gedreht: eine 25 Meter lange Luxusyacht statt eines Ausflugsboots, ein Live-DJ an Deck, und eine Route, die sich bis in die goldene Stunde erstreckt, sodass Sie zum Sonnenuntergang auf dem Wasser sind statt zurück am Ufer. Hoteltransfers ab Pattaya sind inklusive, und sobald Sie an Bord gehen, entfaltet sich der Tag als fließende Mischung aus Kreuzfahrt, Schwimmen, und Entspannen.\n\nDie Route macht an drei Inseln Halt. Der erste und längste Stopp ankert vor Koh Phai, wo Sie im klaren Wasser schwimmen, die Kajaks und Stand-up-Paddleboards herausholen, oder sich einfach einen Platz auf dem Sonnendeck sichern können. Von dort fährt die Yacht nach Koh Rin und dann weiter vorbei an der Affeninsel, wobei jede Etappe eine andere Kulisse aus felsiger Küstenlinie und offenem Meer bietet, während der DJ das Deck durchgehend lebendig hält.\n\nWährend der Nachmittag verblasst, wendet sich die Yacht Ocean Marina in Jomtien zu, und das Buffet-Abendessen kommt heraus, so getaktet, dass Sie essen, während die Sonne zum Horizont sinkt. Es ist teils Inseltour, teils schwimmende Sonnenuntergangs-Party, und eine starke Wahl für Gruppen, Paare, und alle, die möchten, dass ihr Tag auf See mit einem Höhepunkt endet statt mit einer Fährfahrt am frühen Nachmittag zurück.",
+  "highlights": [
+   "Kreuzfahrt auf einer luxuriösen 25 Meter langen Yacht mit Live-DJ an Deck",
+   "Besuch von drei Inseln: Koh Phai, Koh Rin, und Affeninsel",
+   "Schwimmen, Kajakfahren und Stand-up-Paddleboarding an Ankerstopps",
+   "Sonnenuntergangs-Buffet-Abendessen auf dem Wasser",
+   "Hin- und Rück-Hoteltransfers ab Pattaya inklusive"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Pattaya",
+   "Yacht-Kreuzfahrt zu drei Inseln",
+   "Buffet-Abendessen an Bord",
+   "Live-DJ-Unterhaltung",
+   "Kajaks, Paddleboards und Schwimmstopps",
+   "Softdrinks und Trinkwasser",
+   "Crew und englischsprachiger Gastgeber"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke (käuflich erhältlich)",
+   "Handtücher",
+   "Trinkgelder für die Crew",
+   "Persönliche Ausgaben"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
