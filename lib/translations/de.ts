@@ -23651,7 +23651,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Keine Abholung von Phuket, Koh Lanta oder Koh Phi Phi Don",
    "Keine Abholung von Unterkünften an Hanglagen oder abgelegenen Hotels im Gebiet von Krabi, die für Standard-Hoteltransfers nicht leicht erreichbar sind"
   ],
-  "shortDescription": "Ganztägige Tour in Krabi, mit Schnellboot, Loh Samah Bay, Phi Phi Islands und Maya Bay. Durchgeführt von Thailand Escapes, direkt gebucht statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztägige Tour in Krabi, mit Schnellboot, Loh-Samah-Bucht, Phi Phi Islands und Maya Bay. Durchgeführt von Thailand Escapes, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Krabis Flüstern: Phi Phi und 4 Inseln, Sonnenuntergangs-Schnellboot-Tour von einem lokalen Anbieter",
   "metaDescription": "Ganztägige Tour in Krabi. Enthalten: Hin- und Rücktransfer am Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
@@ -23681,6 +23681,44 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Halbtägige Tour in Krabi, mit Din Daeng Doi und Kajak in Klong Rood. Durchgeführt von MK TOUR, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Sonnenaufgangs-Aussichtspunkt und Kajak-Tour mit Abholung in Krabi",
   "metaDescription": "Halbtägige Tour in Krabi. Enthalten: Hoteltransfers und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "4-islands-easy-snorkel-and-beach-day-by-speedboat": {
+  "title": "Einfacher 4-Inseln-Schnorchel- und Strandtag mit dem Speedboot",
+  "fullDescription": "Dies ist ein 7-stündiges Erlebnis ab Krabi, rund um Schnellboot. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Tubkaek Beach, Ao Nang, Ao Nam Mao Beach und Krabi Town möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Monica travel and tour abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Hotelabholung & Rückfahrt von ausgewählten Gebieten in Krabi, Hin- und Rückfahrt per Schnellboot, Guide, Mittagessen und Trinkwasser. Nicht enthalten sind Meeresnationalpark-Gebühr, Persönliche Ausgaben, Trinkgelder und Handtücher, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Krabi. Monica travel and tour bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Schnellboot",
+   "Dauer: 7 Stunden",
+   "Hotelabholung & Rückfahrt von ausgewählten Gebieten in Krabi",
+   "Hin- und Rückfahrt per Schnellboot",
+   "Englischsprachiger Guide",
+   "Mittagessen"
+  ],
+  "included": [
+   "Hotelabholung & Rückfahrt von ausgewählten Gebieten in Krabi",
+   "Hin- und Rückfahrt per Schnellboot",
+   "Englischsprachiger Guide",
+   "Mittagessen",
+   "Trinkwasser",
+   "Saisonales Obst",
+   "Schnorchelmaske",
+   "Schwimmweste",
+   "Grundlegende Sicherheitseinweisung",
+   "Basis-Unfallversicherung"
+  ],
+  "notIncluded": [
+   "Meeresnationalpark-Gebühr",
+   "Persönliche Ausgaben",
+   "Trinkgelder",
+   "Handtücher",
+   "Flossen",
+   "Wasserdichte Handyhülle oder Trockentasche",
+   "Seekrankheitsmedikament",
+   "Zusätzliche Transfergebühr für abgelegene Gebiete, falls zutreffend",
+   "Essen oder Getränke, die nicht als inklusive aufgeführt sind"
+  ],
+  "shortDescription": "Ganztägige Tour in Krabi, mit Schnellboot. Durchgeführt von Monica travel and tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Einfacher 4-Inseln-Schnorchel- und Strandtag mit dem Speedboot",
+  "metaDescription": "Ganztägige Tour in Krabi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "hong-island-tour-with-spanish-or-french-speaking-guide": {
   "title": "Hong-Insel-Tour mit spanisch- oder französischsprachigem Guide",
@@ -23936,7 +23974,7 @@ export const DE_TOURS: Record<string, TourT> = {
  },
  "khao-ngon-nak-hiking-kayaking-and-lunch-day-trip-in-krabi": {
   "title": "Khao-Ngon-Nak-Wandern, Kajak und Mittagessen, Tagesausflug in Krabi",
-  "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Krabi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Phang-Nga-Bucht ist eine versunkene Karstlandschaft aus etwa 40 Kalksteintürmen, die zwischen Phuket und Krabi aus flachem grünem Wasser aufragen, berühmt geworden durch den Bond-Film von 1974, der an Khao Phing Kan gedreht wurde, der Insel, die heute James-Bond-Insel heißt, klein, belebt und zwanzig Minuten wert. Der Grund zu kommen ist das Kanufahren in den Meereshöhlen: bei Niedrigwasser schlüpfen Schlauchkanus durch Tunnel in verborgene Lagunen (Hongs) im Inneren der Inseln, umringt von Klippen und Mangroven, und die Gezeiten bestimmen den Ablauf. Koh Panyee, das muslimische Fischerdorf auf Stelzen, ist der Halt zum Mittagessen. Fahrten im Longtail-Boot von der Phang-Nga-Seite sind ruhiger als Schnellboote ab Phuket.\n\nAbholung ist ab Sailfish Sculpture und Ao Nang Beach möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit LoveLay Andaman abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Wandern auf dem Khao-Hong-Nak-Pfad, Mittagessen in einem Strandcafé, Kajakfahren in Khlong Rood und Guide. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Krabi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Phang-Nga-Bucht ist eine versunkene Karstlandschaft aus etwa 40 Kalksteintürmen, die zwischen Phuket und Krabi aus flachem grünem Wasser aufragen, berühmt geworden durch den Bond-Film von 1974, der an Khao Phing Kan gedreht wurde, der Insel, die heute James-Bond-Insel heißt, klein, belebt und zwanzig Minuten wert. Der Grund zu kommen ist das Kanufahren in den Meereshöhlen: bei Niedrigwasser schlüpfen Schlauchkanus durch Tunnel in verborgene Lagunen (Hongs) im Inneren der Inseln, umringt von Klippen und Mangroven, und die Gezeiten bestimmen den Ablauf. Koh Panyee, das muslimische Fischerdorf auf Stelzen, ist der Halt zum Mittagessen. Fahrten im Longtail-Boot von der Phang-Nga-Seite sind ruhiger als Schnellboote ab Phuket.\n\nAbholung ist ab Sailfish Sculpture und Ao-Nang-Strand möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit LoveLay Andaman abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Wandern auf dem Khao-Hong-Nak-Pfad, Mittagessen in einem Strandcafé, Kajakfahren in Khlong Rood und Guide. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
   "highlights": [
    "Dauer: 8 Stunden",
    "Wandern auf dem Khao-Hong-Nak-Pfad",
@@ -24237,7 +24275,7 @@ export const DE_TOURS: Record<string, TourT> = {
  },
  "huai-to-waterfall-tiger-cave-temple-and-kayak-tour-in-krabi": {
   "title": "Huai-To-Wasserfall, Tigerhöhlen-Tempel und Kajak-Tour in Krabi",
-  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Krabi, rund um Wat Tham Suea. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Phang-Nga-Bucht ist eine versunkene Karstlandschaft aus etwa 40 Kalksteintürmen, die zwischen Phuket und Krabi aus flachem grünem Wasser aufragen, berühmt geworden durch den Bond-Film von 1974, der an Khao Phing Kan gedreht wurde, der Insel, die heute James-Bond-Insel heißt, klein, belebt und zwanzig Minuten wert. Der Grund zu kommen ist das Kanufahren in den Meereshöhlen: bei Niedrigwasser schlüpfen Schlauchkanus durch Tunnel in verborgene Lagunen (Hongs) im Inneren der Inseln, umringt von Klippen und Mangroven, und die Gezeiten bestimmen den Ablauf. Koh Panyee, das muslimische Fischerdorf auf Stelzen, ist der Halt zum Mittagessen. Fahrten im Longtail-Boot von der Phang-Nga-Seite sind ruhiger als Schnellboote ab Phuket.\n\nAbholung ist ab Aonang (Starbucks Aonang), Sailfish Sculpture und Ao Nang Beach möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit LoveLay Andaman abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Besuch des Huai-To-Wasserfalls, Besuch von Wat Tham Suea, Mittagessen, Kajakfahren im Kanal und Abholtransfer. Nicht enthalten sind Nationalpark-Gebühr, 200 pro Person, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Krabi, rund um Wat Tham Suea. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Phang-Nga-Bucht ist eine versunkene Karstlandschaft aus etwa 40 Kalksteintürmen, die zwischen Phuket und Krabi aus flachem grünem Wasser aufragen, berühmt geworden durch den Bond-Film von 1974, der an Khao Phing Kan gedreht wurde, der Insel, die heute James-Bond-Insel heißt, klein, belebt und zwanzig Minuten wert. Der Grund zu kommen ist das Kanufahren in den Meereshöhlen: bei Niedrigwasser schlüpfen Schlauchkanus durch Tunnel in verborgene Lagunen (Hongs) im Inneren der Inseln, umringt von Klippen und Mangroven, und die Gezeiten bestimmen den Ablauf. Koh Panyee, das muslimische Fischerdorf auf Stelzen, ist der Halt zum Mittagessen. Fahrten im Longtail-Boot von der Phang-Nga-Seite sind ruhiger als Schnellboote ab Phuket.\n\nAbholung ist ab Aonang (Starbucks Aonang), Sailfish Sculpture und Ao-Nang-Strand möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit LoveLay Andaman abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Besuch des Huai-To-Wasserfalls, Besuch von Wat Tham Suea, Mittagessen, Kajakfahren im Kanal und Abholtransfer. Nicht enthalten sind Nationalpark-Gebühr, 200 pro Person, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
   "highlights": [
    "Wat Tham Suea",
    "Dauer: 8 Stunden",
@@ -24362,6 +24400,99 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Krabi, inklusive Transfer, Englischsprachiger Reiseleiter und Mittagessen. Durchgeführt von T.P. Travel & Tour (1989), direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Krabi, 1-Tages-Abenteuer: Tigerhöhle, Smaragdwasserfall und Strand, von einem lokalen Anbieter",
   "metaDescription": "Ganztägige Tour in Krabi. Enthalten: Transfer. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "phi-phi-grand-islands-odyssey-by-speedboat": {
+  "title": "Phi-Phi-Grand-Islands-Odyssee mit dem Speedboot",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Krabi, rund um Pier von Nopparat Thara, Schwimmender Pier (Railay Ost) und Schnellboot. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Nong Thale, Krabi, Ao Nang, Ao Nammao und Khlong Muang möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Thailand Escapes abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Hin- und Rücktransfer am Hotel, Trinkwasser und Softdrinks, Früchte der Saison, Buffet-Mittagessen im Restaurant Arida auf Koh Phi Phi Don und Schnorchelausrüstung. Nicht enthalten sind Eintrittsgebühr für „Hat Noppharat Thara, Trinkgeld für die Bootscrew, Keine Abholung von Phuket, Koh Lanta oder Koh Phi Phi Don und Keine Abholung von Unterkünften an Hanglagen oder abgelegenen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Pier von Nopparat Thara",
+   "Schwimmender Pier (Railay Ost)",
+   "Schnellboot",
+   "Loh-Samah-Bucht",
+   "Dauer: 8 Stunden",
+   "Hin- und Rücktransfer am Hotel"
+  ],
+  "included": [
+   "Hin- und Rücktransfer am Hotel",
+   "Trinkwasser und Softdrinks",
+   "Früchte der Saison",
+   "Buffet-Mittagessen im Restaurant Arida auf Koh Phi Phi Don",
+   "Schnorchelausrüstung (Maske und Schnorchel)",
+   "Schwimmwesten (für alle Gäste Pflicht)",
+   "Professioneller englischsprachiger Guide",
+   "Grundlegende Reiseunfallversicherung (deckt nur Verletzungen während der Reise ab. Deckt keine Behandlung bereits bestehender Erkrankungen)"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühr für „Hat Noppharat Thara - Mu Ko Phi Phi\" von 400 THB pro Erwachsenem und 200 THB pro Kind",
+   "Trinkgeld für die Bootscrew",
+   "Keine Abholung von Phuket, Koh Lanta oder Koh Phi Phi Don",
+   "Keine Abholung von Unterkünften an Hanglagen oder abgelegenen Hotels im Gebiet von Krabi, die für Standard-Hoteltransfers nicht leicht erreichbar sind"
+  ],
+  "shortDescription": "Ganztägige Tour in Krabi, mit Pier von Nopparat Thara, Schwimmender Pier (Railay Ost) und Schnellboot. Durchgeführt von Thailand Escapes, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Phi-Phi-Grand-Islands-Odyssee mit dem Speedboot",
+  "metaDescription": "Ganztägige Tour in Krabi. Enthalten: Hin- und Rücktransfer am Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "4-island-day-tour-by-premium-speedboat-with-lunch-in-krabi": {
+  "title": "4-Inseln-Tagestour mit Premium-Speedboot und Mittagessen in Krabi",
+  "fullDescription": "Dies ist ein Erlebnis in Krabi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung & Rückfahrt von Ihrem Hotel, Unfallversicherung, Mineralwasser, Thailändisches Essen und Früchte der Saison. Nicht enthalten sind Nationalpark-Eintrittsgebühren, 400 THB pro Erwachsenem, Nationalpark-Eintrittsgebühren, 200 THB pro Kind, Eigene Ausgabe und Alkoholische Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Krabi. Srisawat Travel and Tour Limited Partnership bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Abholung & Rückfahrt von Ihrem Hotel",
+   "Unfallversicherung",
+   "Mineralwasser",
+   "Thailändisches Essen",
+   "Früchte der Saison",
+   "Guide"
+  ],
+  "included": [
+   "Abholung & Rückfahrt von Ihrem Hotel",
+   "Unfallversicherung",
+   "Mineralwasser",
+   "Thailändisches Essen",
+   "Früchte der Saison",
+   "Guide",
+   "Schnorchelmaske",
+   "Schwimmweste",
+   "Seekrankheitstabletten (auf Anfrage)"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittsgebühren, 400 THB pro Erwachsenem (nur Barzahlung am Check-in-Punkt)",
+   "Nationalpark-Eintrittsgebühren, 200 THB pro Kind (nur Barzahlung am Check-in-Punkt)",
+   "Eigene Ausgabe",
+   "Alkoholische Getränke",
+   "Handtuch",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Tour in Krabi, inklusive Abholung & Rückfahrt von Ihrem Hotel, Unfallversicherung und Mineralwasser. Durchgeführt von Srisawat Travel and Tour Limited Partnership, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "4-Inseln-Tagestour mit Premium-Speedboot und Mittagessen in Krabi",
+  "metaDescription": "Tour in Krabi. Enthalten: Abholung & Rückfahrt von Ihrem Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "railay-rock-climbing-bat-cave-and-viewpoint-abseil": {
+  "title": "Klettern in Railay, Fledermaushöhle und Abseilen am Aussichtspunkt",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis ab Krabi, rund um Weitere Transporte auf dem Wasser und Railay Beach. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hotel-Hin- und Rücktransfer von Ao Nang und Ao Nam Mao, Der Transport nach Railay Beach erfolgt per Longtailboot, Trinkwasser, Kletterausrüstung und und zertifizierter Kletterinstrukteur. Nicht enthalten sind Transfers außerhalb Ao Nang, Mahlzeiten und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAo Nang. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Weitere Transporte auf dem Wasser",
+   "Railay Beach",
+   "Dauer: 4 Stunden",
+   "Hotel-Hin- und Rücktransfer von Ao Nang und Ao Nam Mao",
+   "Der Transport nach Railay Beach erfolgt per Longtailboot",
+   "Trinkwasser"
+  ],
+  "included": [
+   "Hotel-Hin- und Rücktransfer von Ao Nang und Ao Nam Mao",
+   "Der Transport nach Railay Beach erfolgt per Longtailboot",
+   "Trinkwasser",
+   "Kletterausrüstung",
+   "Professioneller und zertifizierter Kletterinstrukteur",
+   "Grundlegende Reiseunfallversicherung (deckt nur Verletzungen während der Reise ab. Deckt keine Behandlung bereits bestehender Erkrankungen)"
+  ],
+  "notIncluded": [
+   "Transfers außerhalb Ao Nang (Zusatzgebühr fällig)",
+   "Mahlzeiten",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Halbtägige Tour in Krabi, mit Weitere Transporte auf dem Wasser und Railay Beach. Durchgeführt von Thailand Escapes, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Klettern in Railay, Fledermaushöhle und Abseilen am Aussichtspunkt",
+  "metaDescription": "Halbtägige Tour in Krabi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "james-bond-and-hong-islands-withcanoeing-by-speed-boat": {
   "title": "James-Bond- und Hong-Inseln mit Kanufahren, per Schnellboot",
@@ -24564,6 +24695,42 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "4-Inseln-Tour in Aonang",
   "metaDescription": "Halbtägige Tour in Krabi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "2-day-city-and-4-islands-tour-with-hotel-and-pickup": {
+  "title": "2-tägige Stadt- und 4-Inseln-Tour mit Hotel und Abholung",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Krabi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung vom Flughafen oder Busterminal, Krabi-Stadttour, Hotelunterkunft, Hoteltransfers und 4-Inseln-Schnellboot-Tour. Nicht enthalten sind Abendessen, Flüge, Park-Gebühren und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Krabi. บริษัท เจ แอนด์ เจ แอฟฟลูเอนท์ ทราเวล แอนด์ ทัวร์ จํากัด bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Abholung vom Flughafen oder Busterminal (Tag 1)",
+   "Krabi-Stadttour (Tag 1)",
+   "Hotelunterkunft (1 Nacht)",
+   "Hoteltransfers (Hin- und Rückfahrt für alle Aktivitäten)",
+   "4-Inseln-Schnellboot-Tour (geteilte Tour, Tag 2)"
+  ],
+  "included": [
+   "Abholung vom Flughafen oder Busterminal (Tag 1)",
+   "Krabi-Stadttour (Tag 1)",
+   "Hotelunterkunft (1 Nacht)",
+   "Hoteltransfers (Hin- und Rückfahrt für alle Aktivitäten)",
+   "4-Inseln-Schnellboot-Tour (geteilte Tour, Tag 2)",
+   "Professioneller englischsprachiger Guide",
+   "Nationalpark-Eintrittsgebühren",
+   "Mittagessen am Tag 2",
+   "Trinkwasser und Softdrinks",
+   "Schnorchelausrüstung",
+   "Schwimmwesten",
+   "Reiseunfallversicherung"
+  ],
+  "notIncluded": [
+   "Abendessen",
+   "Flüge",
+   "Park-Gebühren",
+   "Persönliche Ausgaben",
+   "Reiseversicherung"
+  ],
+  "shortDescription": "2-tägige Tour in Krabi, inklusive Abholung vom Flughafen oder Busterminal, Krabi-Stadttour und Hotelunterkunft. Durchgeführt von บริษัท เจ แอนด์ เจ แอฟฟลูเอนท์ ทราเวล แอนด์ ทัวร์ จํากัด, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "2-tägige Stadt- und 4-Inseln-Tour mit Hotel und Abholung",
+  "metaDescription": "2-tägige Tour in Krabi. Enthalten: Abholung vom Flughafen oder Busterminal. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "2-day-cheow-lan-lake-with-overnight-raft-stay-in-krabi": {
   "title": "2 Tage am Cheow-Lan-See mit Übernachtung auf dem Floß in Krabi",
   "fullDescription": "Dies ist ein 2-tägiges Erlebnis ab Krabi, rund um Stopp bei Tha Pom Klong Song Nam, Kajak auf dem See und Übernachtung im schwimmenden Bungalow. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfer am Hotel, Trinkwasser, Mittagessen, Englischsprachiger Guide und Longtailboot-Fahrt zum Floßhaus am Cheow-Lan-See. Nicht enthalten sind Sonstige persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -24703,6 +24870,34 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Krabi, inklusive Abholung und Rückfahrt zum Hotel, Guide und Kajaktour. Durchgeführt von Diamond Cave Tour, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ko Lanta: Meereshöhlen-Kajak-Abenteuer und Mangroven-Kajak",
   "metaDescription": "Tour in Krabi. Enthalten: Abholung und Rückfahrt zum Hotel und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "summer-club-pub-crawl-with-fire-show-in-krabi": {
+  "title": "Summer-Club-Kneipentour mit Feuershow in Krabi",
+  "fullDescription": "Dies ist ein 7-stündiges Erlebnis in Krabi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Kostenlose Shots!, Kostenloser Eimer, Kostenlose Willkommens-Shots, Offizielles Kneipentour-T-Shirt und Taxi. Nicht enthalten sind Nicht genannte zusätzliche Getränke und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 7 Stunden",
+   "Kostenlose Shots!",
+   "Kostenloser Eimer",
+   "Kostenlose Willkommens-Shots",
+   "Offizielles Kneipentour-T-Shirt",
+   "Taxi"
+  ],
+  "included": [
+   "Kostenlose Shots!",
+   "Kostenloser Eimer",
+   "Kostenlose Willkommens-Shots",
+   "Offizielles Kneipentour-T-Shirt",
+   "Taxi",
+   "Trinkspiele & Eisbrecher",
+   "Verrückte Feuershow"
+  ],
+  "notIncluded": [
+   "Nicht genannte zusätzliche Getränke",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Ganztägige Tour in Krabi, inklusive Kostenlose Shots!, Kostenloser Eimer und Kostenlose Willkommens-Shots. Durchgeführt von Summer Club Hostel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Summer-Club-Kneipentour mit Feuershow in Krabi",
+  "metaDescription": "Ganztägige Tour in Krabi. Enthalten: Kostenlose Shots! und Kostenloser Eimer. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "nong-thale-hidden-mountain-nature-trail-hike-in-krabi": {
   "title": "Wanderung auf dem versteckten Naturpfad des Bergs Nong Thale in Krabi",
@@ -25007,6 +25202,37 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "3-stündige Tour in Krabi, mit Nong Thale. Durchgeführt von บริษัท ทริปเปิล วี ทราเวล จำกัด, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Frühmorgen-Kajak-Tour in Khlong Rud, Krabi",
   "metaDescription": "3-stündige Tour in Krabi. Enthalten: Live-Reiseführer und Kajakausrüstung. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "the-emerald-odyssey-4-island-signature-escape-in-krabi": {
+  "title": "Die Smaragd-Odyssee – Signature-Ausflug zu 4 Inseln in Krabi",
+  "fullDescription": "Dies ist ein 5,5-stündiges Erlebnis ab Krabi, rund um Pier von Nopparat Thara, Schnellboot und Railay Beach. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfer am Hotel, Trinkwasser und Saisonfrüchte, Authentisches thailändisches Insel-Picknick-Mittagessen, Schnorchelausrüstung und Schwimmwesten. Nicht enthalten sind Hat Noppharat Thara, Trinkgeld für die Bootscrew, Flossen und Keine Abholung von Phuket, Koh Lanta oder Koh Phi Phi Don, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nKrabi Town. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Pier von Nopparat Thara",
+   "Schnellboot",
+   "Railay Beach",
+   "Hühnerinsel",
+   "Dauer: 5,5 Stunden",
+   "Hin- und Rücktransfer am Hotel"
+  ],
+  "included": [
+   "Hin- und Rücktransfer am Hotel",
+   "Trinkwasser und Saisonfrüchte",
+   "Authentisches thailändisches Insel-Picknick-Mittagessen",
+   "Schnorchelausrüstung (Maske und Schnorchel)",
+   "Schwimmwesten (für alle Gäste Pflicht)",
+   "Lizenzierter lokaler Bootskapitän & Crew",
+   "Grundlegende Reiseunfallversicherung (deckt nur Verletzungen während der Reise ab. Deckt keine Behandlung bereits bestehender Erkrankungen)"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühr für den Hat-Noppharat-Thara-Mu-Ko-Phi-Phi-Nationalpark: 200 THB pro Erwachsenem und 100 THB pro Kind",
+   "Trinkgeld für die Bootscrew",
+   "Flossen",
+   "Keine Abholung von Phuket, Koh Lanta oder Koh Phi Phi Don",
+   "Keine Abholung von Unterkünften an Hanglagen oder abgelegenen Hotels im Gebiet von Krabi, die für Standard-Hoteltransfers nicht leicht erreichbar sind"
+  ],
+  "shortDescription": "Halbtägige Tour in Krabi, mit Pier von Nopparat Thara, Schnellboot und Railay Beach. Durchgeführt von Thailand Escapes, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Die Smaragd-Odyssee – Signature-Ausflug zu 4 Inseln in Krabi",
+  "metaDescription": "Halbtägige Tour in Krabi. Enthalten: Hin- und Rücktransfer am Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "hong-island-longtail-adventure-lagoon-and-scenic-views": {
   "title": "Hong-Insel: Longtailboot-Abenteuer, Lagune und malerische Ausblicke",
@@ -25458,6 +25684,36 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Kulinarisches Abenteuer am Morgen oder Nachmittag bei Smart Cook",
   "metaDescription": "Halbtägige Tour in Krabi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "jurassic-trails-atv-ride-and-kayaking-tour-in-krabi": {
+  "title": "Jurassic Trails: ATV-Fahrt und Kajaktour in Krabi",
+  "fullDescription": "Dies ist ein 2-stündiges Erlebnis in Krabi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Phang-Nga-Bucht ist eine versunkene Karstlandschaft aus etwa 40 Kalksteintürmen, die zwischen Phuket und Krabi aus flachem grünem Wasser aufragen, berühmt geworden durch den Bond-Film von 1974, der an Khao Phing Kan gedreht wurde, der Insel, die heute James-Bond-Insel heißt, klein, belebt und zwanzig Minuten wert. Der Grund zu kommen ist das Kanufahren in den Meereshöhlen: bei Niedrigwasser schlüpfen Schlauchkanus durch Tunnel in verborgene Lagunen (Hongs) im Inneren der Inseln, umringt von Klippen und Mangroven, und die Gezeiten bestimmen den Ablauf. Koh Panyee, das muslimische Fischerdorf auf Stelzen, ist der Halt zum Mittagessen. Fahrten im Longtail-Boot von der Phang-Nga-Seite sind ruhiger als Schnellboote ab Phuket.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Englischsprachiger Guide, ATV-Fahren, Kajakfahren und Reiten. Nicht enthalten sind Mahlzeiten und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAo Nang. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Stunden",
+   "Hotelabholung & Rückfahrt (Gebiet Ao Nang)",
+   "Professioneller englischsprachiger Guide",
+   "ATV-Fahren (5 km Abenteuerstrecke)",
+   "Kajakfahren (Optionen)",
+   "Reiten (Optionen)"
+  ],
+  "included": [
+   "Hotelabholung & Rückfahrt (Gebiet Ao Nang)",
+   "Professioneller englischsprachiger Guide",
+   "ATV-Fahren (5 km Abenteuerstrecke)",
+   "Kajakfahren (Optionen)",
+   "Reiten (Optionen)",
+   "Sicherheitsausrüstung (Helm, Schwimmweste)",
+   "Trinkwasser",
+   "Unfallversicherung",
+   "Grundlegende Anweisungen und Sicherheitseinweisung"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Tour in Krabi, inklusive Abholung und Rückfahrt zum Hotel, Englischsprachiger Guide und ATV-Fahren. Durchgeführt von บริษัท เจ แอนด์ เจ แอฟฟลูเอนท์ ทราเวล แอนด์ ทัวร์ จํากัด, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Jurassic Trails: ATV-Fahrt und Kajaktour in Krabi",
+  "metaDescription": "Tour in Krabi. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "cooking-class-at-thai-charm-cooking-school-with-meal-in-krabi": {
   "title": "Kochkurs an der Thai-Charm-Kochschule mit Mahlzeit in Krabi",
   "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Krabi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nThailändische Kochkurse folgen einem Muster, das funktioniert: ein Gang über den Markt, um Galgant, Zitronengras, Kaffirlimette und heiliges Basilikum zu kaufen, während die Lehrkraft erklärt, was jedes davon tut, dann vier oder fünf Gerichte, eines nach dem anderen an eigenen Stationen gekocht, meist eine von Grund auf gestampfte Currypaste, ein Wokgericht, eine Suppe und ein Dessert, gegessen, sowie sie fertig sind. Die Kurse in Chiang Mai auf Biobauernhöfen außerhalb der Stadt sind die entspanntesten; die in Bangkok in alten Ladenhäusern die geschliffensten; die auf Phuket nehmen oft Meeresfrüchte dazu. Vegetarische und vegane Fassungen sind Standard, und ein Kurs ist der schnellste Weg zu verstehen, warum thailändisches Essen so schmeckt, wie es schmeckt.\n\nIm Preis enthalten sind Hin- und Rücktransfer von Krabi Town oder Ao Nang, Thailändischer Kochlehrer, Obst und Zubereitung scharfer thailändischer Salate, Verkostung und Trinkwasser. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -25619,9 +25875,39 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Kajak in Klong Rud mit Hoteltransfers in Krabi",
   "metaDescription": "Tour in Krabi. Enthalten: Hotelabholung & Rückfahrt im Gebiet von Ao Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "historic-bor-thor-caves-kayaking-tour-with-lunch-in-krabi": {
+  "title": "Kajaktour zu den historischen Bor-Thor-Höhlen mit Mittagessen in Krabi",
+  "fullDescription": "Dies ist ein 7-stündiges Erlebnis in Krabi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Phang-Nga-Bucht ist eine versunkene Karstlandschaft aus etwa 40 Kalksteintürmen, die zwischen Phuket und Krabi aus flachem grünem Wasser aufragen, berühmt geworden durch den Bond-Film von 1974, der an Khao Phing Kan gedreht wurde, der Insel, die heute James-Bond-Insel heißt, klein, belebt und zwanzig Minuten wert. Der Grund zu kommen ist das Kanufahren in den Meereshöhlen: bei Niedrigwasser schlüpfen Schlauchkanus durch Tunnel in verborgene Lagunen (Hongs) im Inneren der Inseln, umringt von Klippen und Mangroven, und die Gezeiten bestimmen den Ablauf. Koh Panyee, das muslimische Fischerdorf auf Stelzen, ist der Halt zum Mittagessen. Fahrten im Longtail-Boot von der Phang-Nga-Seite sind ruhiger als Schnellboote ab Phuket.\n\nIm Preis enthalten sind Hotelabholung & Rückfahrt von der Region Krabi, erfahrener Guide, Trockentasche zur Aufbewahrung Ihrer Wertsachen, Frisches Obst & Trinkwasser und Mittagessen im Meeresfrüchte-Restaurant Bor Thor. Nicht enthalten sind Alkoholische Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Krabi. Koh Tour bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 7 Stunden",
+   "Hotelabholung & Rückfahrt von der Region Krabi",
+   "Freundlicher erfahrener Guide",
+   "Trockentasche zur Aufbewahrung Ihrer Wertsachen",
+   "Frisches Obst & Trinkwasser",
+   "Mittagessen im Meeresfrüchte-Restaurant Bor Thor"
+  ],
+  "included": [
+   "Hotelabholung & Rückfahrt von der Region Krabi",
+   "Freundlicher erfahrener Guide",
+   "Trockentasche zur Aufbewahrung Ihrer Wertsachen",
+   "Frisches Obst & Trinkwasser",
+   "Mittagessen im Meeresfrüchte-Restaurant Bor Thor",
+   "Eintrittsgebühren",
+   "Schwimmweste",
+   "Kajak-Ausrüstung",
+   "Schwimmen im Tha-Pom-Fluss",
+   "Unfallversicherung"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke"
+  ],
+  "shortDescription": "Ganztägige Tour in Krabi, inklusive Hotelabholung & Rückfahrt von der Region Krabi, erfahrener Guide und Trockentasche zur Aufbewahrung Ihrer Wertsachen. Durchgeführt von Koh Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Kajaktour zu den historischen Bor-Thor-Höhlen mit Mittagessen in Krabi",
+  "metaDescription": "Ganztägige Tour in Krabi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "sunset-boat-tour-and-night-market-food-tasting-in-krabi": {
   "title": "Bootstour bei Sonnenuntergang und Essensverkostung auf dem Nachtmarkt in Krabi",
-  "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Krabi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Ao Nang Beach und McDonald's möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit CanalTour x ExploreSiam abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Reiseleiter, Klimatisiertes Fahrzeug, Abholung & Rückfahrt zum Hotel im Gebiet von Ao Nang, Eine Flasche Trinkwasser pro Person und Essensverkostung. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Krabi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Ao-Nang-Strand und McDonald's möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit CanalTour x ExploreSiam abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Reiseleiter, Klimatisiertes Fahrzeug, Abholung & Rückfahrt zum Hotel im Gebiet von Ao Nang, Eine Flasche Trinkwasser pro Person und Essensverkostung. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
   "highlights": [
    "Dauer: 4 Stunden",
    "Englischsprachiger Reiseleiter",
@@ -25671,6 +25957,52 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "shortDescription": "Ganztägige Tour in Krabi, inklusive Hotel-Hin- und Rücktransfer, Krabi Town, Ao Nang, Traditionelles thailändisches Longtailboot und Englischsprachiger Reiseleiter. Durchgeführt von บริษัท เจ แอนด์ เจ แอฟฟลูเอนท์ ทราเวล แอนด์ ทัวร์ จํากัด, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Krabi: die 7 ikonischen Inseln, ganztägige Tour per Schnellboot, von einem lokalen Anbieter",
+  "metaDescription": "Ganztägige Tour in Krabi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "half-day-bor-thor-mangrove-kayaking-tour-in-krabi": {
+  "title": "Halbtägige Kajaktour durch die Bor-Thor-Mangrove in Krabi",
+  "fullDescription": "Dies ist ein 5-stündiges Erlebnis ab Krabi, rund um โชคศรัญญาทราเวล | Choke Sarunya Travel, Lot-Höhle und Phi-Hua-To-Höhle. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Phang-Nga-Bucht ist eine versunkene Karstlandschaft aus etwa 40 Kalksteintürmen, die zwischen Phuket und Krabi aus flachem grünem Wasser aufragen, berühmt geworden durch den Bond-Film von 1974, der an Khao Phing Kan gedreht wurde, der Insel, die heute James-Bond-Insel heißt, klein, belebt und zwanzig Minuten wert. Der Grund zu kommen ist das Kanufahren in den Meereshöhlen: bei Niedrigwasser schlüpfen Schlauchkanus durch Tunnel in verborgene Lagunen (Hongs) im Inneren der Inseln, umringt von Klippen und Mangroven, und die Gezeiten bestimmen den Ablauf. Koh Panyee, das muslimische Fischerdorf auf Stelzen, ist der Halt zum Mittagessen. Fahrten im Longtail-Boot von der Phang-Nga-Seite sind ruhiger als Schnellboote ab Phuket.\n\nAbholung ist ab 11 Rodboon und 2QXV+R7 Nong Thale möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Oh-Hoo abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Hin- und Rücktransfer von Ao Nang, Ao Nammao, Tub Kaek, Sicherheitsausrüstung, Mittagessen, Guide und Unfallversicherung. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "โชคศรัญญาทราเวล | Choke Sarunya Travel",
+   "Lot-Höhle",
+   "Phi-Hua-To-Höhle",
+   "Dauer: 5 Stunden",
+   "Hin- und Rücktransfer von Ao Nang, Ao Nammao, Tub Kaek, Klong Muang, oder Krabi Town",
+   "Sicherheitsausrüstung, Schwimmweste"
+  ],
+  "included": [
+   "Hin- und Rücktransfer von Ao Nang, Ao Nammao, Tub Kaek, Klong Muang, oder Krabi Town",
+   "Sicherheitsausrüstung, Schwimmweste",
+   "Mittagessen, Trinkwasser, Obst",
+   "Reiseführer, Erste-Hilfe-Set",
+   "Unfallversicherung"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Halbtägige Tour in Krabi, mit โชคศรัญญาทราเวล | Choke Sarunya Travel, Lot-Höhle und Phi-Hua-To-Höhle. Durchgeführt von Oh-Hoo, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Halbtägige Kajaktour durch die Bor-Thor-Mangrove in Krabi",
+  "metaDescription": "Halbtägige Tour in Krabi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "full-day-bor-thor-sea-cave-kayaking-adventure-in-krabi": {
+  "title": "Ganztägiges Kajakabenteuer zu den Bor-Thor-Meereshöhlen in Krabi",
+  "fullDescription": "Dies ist ein 7-stündiges Erlebnis ab Krabi, rund um โชคศรัญญาทราเวล | Choke Sarunya Travel, Lot-Höhle und Phi-Hua-To-Höhle. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Phang-Nga-Bucht ist eine versunkene Karstlandschaft aus etwa 40 Kalksteintürmen, die zwischen Phuket und Krabi aus flachem grünem Wasser aufragen, berühmt geworden durch den Bond-Film von 1974, der an Khao Phing Kan gedreht wurde, der Insel, die heute James-Bond-Insel heißt, klein, belebt und zwanzig Minuten wert. Der Grund zu kommen ist das Kanufahren in den Meereshöhlen: bei Niedrigwasser schlüpfen Schlauchkanus durch Tunnel in verborgene Lagunen (Hongs) im Inneren der Inseln, umringt von Klippen und Mangroven, und die Gezeiten bestimmen den Ablauf. Koh Panyee, das muslimische Fischerdorf auf Stelzen, ist der Halt zum Mittagessen. Fahrten im Longtail-Boot von der Phang-Nga-Seite sind ruhiger als Schnellboote ab Phuket.\n\nAbholung ist ab 3W82+F8 Sai Thai und Sulwa Kitchen möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Oh-Hoo abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Hin- und Rücktransfer von Ao Nang, Ao Nammao, Tub Kaek, Sicherheitsausrüstung, Mittagessen, Guide und Unfallversicherung. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "โชคศรัญญาทราเวล | Choke Sarunya Travel",
+   "Lot-Höhle",
+   "Phi-Hua-To-Höhle",
+   "Dauer: 7 Stunden",
+   "Hin- und Rücktransfer von Ao Nang, Ao Nammao, Tub Kaek, Klong Muang, oder Krabi Town",
+   "Sicherheitsausrüstung, Schwimmweste"
+  ],
+  "included": [
+   "Hin- und Rücktransfer von Ao Nang, Ao Nammao, Tub Kaek, Klong Muang, oder Krabi Town",
+   "Sicherheitsausrüstung, Schwimmweste",
+   "Mittagessen, Trinkwasser, Obst",
+   "Reiseführer, Erste-Hilfe-Set",
+   "Unfallversicherung"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Ganztägige Tour in Krabi, mit โชคศรัญญาทราเวล | Choke Sarunya Travel, Lot-Höhle und Phi-Hua-To-Höhle. Durchgeführt von Oh-Hoo, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ganztägiges Kajakabenteuer zu den Bor-Thor-Meereshöhlen in Krabi",
   "metaDescription": "Ganztägige Tour in Krabi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "half-day-blue-lagoon-kayaking-at-klong-srakaew-and-atv-in-krabi": {
@@ -25933,6 +26265,33 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Geführtes ATV 30, 45, 60 Minuten + Schwimmen in Khlong Nam Sai",
   "metaDescription": "Tour in Krabi. Enthalten: ATV und Abholung & Rückfahrt im Gebiet von Ao Nang. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "emerald-pool-and-hot-spring-waterfall-with-kayaking-in-krabi": {
+  "title": "Smaragdpool und Thermalwasserfall mit Kajaktour in Krabi",
+  "fullDescription": "Dies ist ein 7-stündiges Erlebnis in Krabi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Phang-Nga-Bucht ist eine versunkene Karstlandschaft aus etwa 40 Kalksteintürmen, die zwischen Phuket und Krabi aus flachem grünem Wasser aufragen, berühmt geworden durch den Bond-Film von 1974, der an Khao Phing Kan gedreht wurde, der Insel, die heute James-Bond-Insel heißt, klein, belebt und zwanzig Minuten wert. Der Grund zu kommen ist das Kanufahren in den Meereshöhlen: bei Niedrigwasser schlüpfen Schlauchkanus durch Tunnel in verborgene Lagunen (Hongs) im Inneren der Inseln, umringt von Klippen und Mangroven, und die Gezeiten bestimmen den Ablauf. Koh Panyee, das muslimische Fischerdorf auf Stelzen, ist der Halt zum Mittagessen. Fahrten im Longtail-Boot von der Phang-Nga-Seite sind ruhiger als Schnellboote ab Phuket.\n\nIm Preis enthalten sind Kostenlose Hotelabholung für Krabi Town und Ao, Mittagessen, Guide, Erste-Hilfe-Set und Unfallversicherung. Nicht enthalten sind Nationalparkgebühr, Zusätzliche Transfergebühr, 100 THB pro Person und Zusätzliche Transfergebühr, 200 THB pro Person, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Krabi. Oh-Hoo bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 7 Stunden",
+   "Kostenlose Hotelabholung für Krabi Town und das Gebiet Ao Nang",
+   "Mittagessen, Trinkwasser, Obst",
+   "Guide",
+   "Erste-Hilfe-Set",
+   "Unfallversicherung"
+  ],
+  "included": [
+   "Kostenlose Hotelabholung für Krabi Town und das Gebiet Ao Nang.",
+   "Lunch, drinking water, fruit.",
+   "Tour guide.",
+   "First aid kit.",
+   "Accident insurance."
+  ],
+  "notIncluded": [
+   "Nationalpark-Gebühr (600 THB pro Erwachsenem und 300 THB pro Kind).",
+   "Extra Transfer Charge 100 THB/PAX(Round Trip): Klong Muang.",
+   "Extra Transfer Charge 200 THB/PAX(Round Trip): Tub Kaek."
+  ],
+  "shortDescription": "Ganztägige Tour in Krabi, inklusive Kostenlose Hotelabholung für Krabi Town und Ao, Mittagessen und Guide. Durchgeführt von Oh-Hoo, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Smaragdpool und Thermalwasserfall mit Kajaktour in Krabi",
+  "metaDescription": "Ganztägige Tour in Krabi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "khlong-root-kayaking-and-jungle-swimming-in-krabi": {
   "title": "Khlong-Root-Kajak und Dschungel-Schwimmen in Krabi",
   "fullDescription": "Dies ist ein 2,5-stündiges Erlebnis ab Krabi, rund um Klong Root. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Phang-Nga-Bucht ist eine versunkene Karstlandschaft aus etwa 40 Kalksteintürmen, die zwischen Phuket und Krabi aus flachem grünem Wasser aufragen, berühmt geworden durch den Bond-Film von 1974, der an Khao Phing Kan gedreht wurde, der Insel, die heute James-Bond-Insel heißt, klein, belebt und zwanzig Minuten wert. Der Grund zu kommen ist das Kanufahren in den Meereshöhlen: bei Niedrigwasser schlüpfen Schlauchkanus durch Tunnel in verborgene Lagunen (Hongs) im Inneren der Inseln, umringt von Klippen und Mangroven, und die Gezeiten bestimmen den Ablauf. Koh Panyee, das muslimische Fischerdorf auf Stelzen, ist der Halt zum Mittagessen. Fahrten im Longtail-Boot von der Phang-Nga-Seite sind ruhiger als Schnellboote ab Phuket.\n\nIm Preis enthalten sind Kajakausrüstung, Guide, Früchte der Saison und Trinkwasser. Nicht enthalten sind Mahlzeiten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nWhoopers Hostel Ao Nang - By The Beach. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -25979,6 +26338,129 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Krabi, inklusive Kostenlose Abholung & Rückfahrt zu Ihrem Hotel im Gebiet von Ao Nang, Jeder Kurs beinhaltet ein kostenloses Rezeptbuch und ein Zertifikat und Essensverkostung und Trinkwasser. Durchgeführt von Oh-Hoo, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Halbtägiger thailändischer Kochkurs in der Provinz Krabi",
   "metaDescription": "Tour in Krabi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "bioluminescent-plankton-7-islands-sunset-tour-and-bbq-in-krabi": {
+  "title": "Biolumineszentes Plankton, Sonnenuntergangstour zu 7 Inseln und BBQ in Krabi",
+  "fullDescription": "Dies ist ein 6-stündiges Erlebnis ab Krabi, rund um Tup-Insel, Hühnerinsel und Ko Poda. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Krabi, Ao Nang und Tup Kaek Sunset Beach Resort möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit GR Rungtawan Co., LTD. abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Hotelabholung & Rückfahrt um Ao Nang, Ao Nammao, Krabi, Abholung am schwimmenden Pier von Railay East um 13:30 Uhr, Leichte Snacks beim Check-in, Lizenzierter Reiseleiter und Reiseversicherung. Nicht enthalten sind Eintritt in den Nationalpark, Erwachsene: 200 THB, Kind: 100 THB und Wasserdichte Säcke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Krabi. GR Rungtawan Co., LTD. bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Tup-Insel",
+   "Hühnerinsel",
+   "Ko Poda",
+   "Ao Nang",
+   "Dauer: 6 Stunden",
+   "Hotelabholung & Rückfahrt um Ao Nang, Ao Nammao, Krabi Town (falls Sie sich über Ihren Standort nicht sicher sind, lassen Sie es uns wissen, damit wir es bestätigen können)"
+  ],
+  "included": [
+   "Hotelabholung & Rückfahrt um Ao Nang, Ao Nammao, Krabi Town (falls Sie sich über Ihren Standort nicht sicher sind, lassen Sie es uns wissen, damit wir es bestätigen können)",
+   "Abholung am schwimmenden Pier von Railay East um 13:30 Uhr",
+   "Leichte Snacks beim Check-in (Kekse, Gebäck, Kaffee)",
+   "Lizenzierter Reiseleiter",
+   "Reiseversicherung",
+   "BBQ-Buffet-Abendessen (Halal und vegetarisch)",
+   "Schnorchelausrüstung",
+   "Schwimmwesten",
+   "Trinkwasser in Flaschen",
+   "Softdrinks",
+   "Früchte der Saison"
+  ],
+  "notIncluded": [
+   "Eintritt in den Nationalpark",
+   "Erwachsene: 200 THB",
+   "Kind: 100 THB",
+   "Wasserdichte Säcke",
+   "Persönliche Ausgaben",
+   "Flossen"
+  ],
+  "shortDescription": "Halbtägige Tour in Krabi, mit Phra Nang Cave Shrine, Ao Nang, Tup-Insel und Hühnerinsel. Durchgeführt von GR Rungtawan Co., LTD., direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Biolumineszentes Plankton, Sonnenuntergangstour zu 7 Inseln",
+  "metaDescription": "Halbtägige Tour in Krabi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "krabi-pub-crawl-join-nomads-for-the-best-night-in-ao-nang-by-local-operator": {
+  "title": "Krabi-Kneipentour - Schließen Sie sich den Nomaden für die beste Nacht in Ao Nang an! von einem lokalen Anbieter",
+  "fullDescription": "Dies ist ein 5-stündiges Erlebnis in Krabi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Guide, Kneipentour, Eimer im Nomads Ao Nang Hostel, Willkommens-Shots und T-Shirt. Nicht enthalten sind Abgesehen vom Eimer bei Nomads und den kostenlosen Willkommens-Shots und Zusätzliche Getränke können an der Bar an jedem, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 5 Stunden",
+   "Einheimischer Guide",
+   "Kneipentour",
+   "Eimer im Nomads Ao Nang Hostel",
+   "Willkommens-Shots",
+   "T-Shirt"
+  ],
+  "included": [
+   "Einheimischer Guide",
+   "Kneipentour",
+   "Eimer im Nomads Ao Nang Hostel",
+   "Willkommens-Shots",
+   "T-Shirt",
+   "Taxis"
+  ],
+  "notIncluded": [
+   "Abgesehen vom Eimer bei Nomads und den kostenlosen Willkommens-Shots werden keine weiteren kostenlosen Getränke bereitgestellt",
+   "Zusätzliche Getränke können an der Bar an jedem Stopp der Kneipentour gekauft werden"
+  ],
+  "shortDescription": "Halbtägige Tour in Krabi, inklusive Guide, Kneipentour und Eimer im Nomads Ao Nang Hostel. Durchgeführt von Nomads Adventures, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Krabi-Kneipentour - Schließen Sie sich den Nomaden für die beste Nacht in Ao Nang an! von einem lokalen Anbieter",
+  "metaDescription": "Halbtägige Tour in Krabi. Enthalten: Guide und Kneipentour. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "small-group-yawasam-and-talu-islands-snorkeling-tour-in-krabi": {
+  "title": "Kleingruppen-Schnorcheltour zu den Inseln Yawasam und Talu in Krabi",
+  "fullDescription": "Dies ist ein 5-stündiges Erlebnis in Krabi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Schnorchelausrüstung: Schnorchel, Schnorcheln an abgelegenen Orten, freundlicher Guide und Mittagessen am Strand mit Halal- und vegetarischen Optionen. Nicht enthalten sind Nationalpark-Gebühren: 200 THB/Erwachsener und 100 THB/Kind, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Krabi. Koh Tour bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 5 Stunden",
+   "Abholung und Rückfahrt zum Hotel",
+   "Schnorchelausrüstung: Schnorchel, Maske & Flossen",
+   "Schnorcheln an abgelegenen Orten",
+   "Professioneller freundlicher Guide",
+   "Mittagessen am Strand mit Halal- und vegetarischen Optionen"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Schnorchelausrüstung: Schnorchel, Maske & Flossen",
+   "Schnorcheln an abgelegenen Orten",
+   "Professioneller freundlicher Guide",
+   "Mittagessen am Strand mit Halal- und vegetarischen Optionen",
+   "Trinkwasser",
+   "Frisches Saisonobst",
+   "Schwimmwesten",
+   "Unfallversicherung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Gebühren: 200 THB/Erwachsener und 100 THB/Kind"
+  ],
+  "shortDescription": "Halbtägige Tour in Krabi, inklusive Abholung und Rückfahrt zum Hotel, Schnorchelausrüstung: Schnorchel und Schnorcheln an abgelegenen Orten. Durchgeführt von Koh Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Kleingruppen-Schnorcheltour zu den Inseln Yawasam",
+  "metaDescription": "Halbtägige Tour in Krabi. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "koh-poda-krabi-half-day-3-island-boat-tour-with-snorkeling-by-local-operator": {
+  "title": "Koh Poda Krabi: Halbtägige 3-Inseln-Bootstour mit Schnorcheln von einem lokalen Anbieter",
+  "fullDescription": "Dies ist ein 4,5-stündiges Erlebnis in Krabi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Geführte Tour auf Englisch, Longtailboot-Tour, Besuch der Insel Poda, Besuch der Chicken Island und Besuch der Insel Koh Tub. Nicht enthalten sind Mittagessen, Wasserdichte Tasche für digitale Geräte und Nationalpark-Gebühr, 200 Baht pro Person, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 4,5 Stunden",
+   "Geführte Tour auf Englisch",
+   "Longtailboot-Tour",
+   "Besuch der Insel Poda",
+   "Besuch der Chicken Island",
+   "Besuch der Insel Koh Tub"
+  ],
+  "included": [
+   "Geführte Tour auf Englisch",
+   "Longtailboot-Tour",
+   "Besuch der Insel Poda",
+   "Besuch der Chicken Island",
+   "Besuch der Insel Koh Tub",
+   "Snacks",
+   "Exotische Früchte",
+   "Getränke",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Mittagessen",
+   "Wasserdichte Tasche für digitale Geräte",
+   "Nationalpark-Gebühr, 200 Baht pro Person"
+  ],
+  "shortDescription": "Halbtägige Tour in Krabi, inklusive Geführte Tour auf Englisch, Longtailboot-Tour und Besuch der Insel Poda. Durchgeführt von บริษัท ทริปเปิล วี ทราเวล จำกัด, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Koh Poda Krabi: Halbtägige 3-Inseln-Bootstour mit Schnorcheln von einem lokalen Anbieter",
+  "metaDescription": "Halbtägige Tour in Krabi. Enthalten: Geführte Tour auf Englisch. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "kayak-hot-springs-and-emerald-pool-by-french-guide-in-krabi": {
   "title": "Kajak, heiße Quellen und Smaragdbecken mit französischsprachigem Guide in Krabi",
@@ -26141,7 +26623,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Eintrittsgebühren für den Hat-Noppharat-Thara-Mu-Ko-Phi-Phi-Nationalpark (400 THB pro Erwachsenem und 200 THB pro Kind)"
   ],
-  "shortDescription": "Ganztägige Tour in Krabi, mit Schnellboot, Loh Samah Bay, Phi Phi Islands und Maya Bay. Durchgeführt von Wangsai Speed Boat, direkt gebucht statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztägige Tour in Krabi, mit Schnellboot, Loh-Samah-Bucht, Phi Phi Islands und Maya Bay. Durchgeführt von Wangsai Speed Boat, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Phi-Phi-Inseln und Maya Bay per Schnellboot mit Mittagessen",
   "metaDescription": "Ganztägige Tour in Krabi. Enthalten: Hoteltransfer für Hin- und Rückweg. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
@@ -26199,6 +26681,33 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Krabi, mit Pier von Nopparat Thara, Schnellboot und Hong-Insel. Durchgeführt von Thailand Escapes, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Blauer Horizont: Schnellboot zu den Hong- und Paradise-Inseln in Krabi",
   "metaDescription": "Ganztägige Tour in Krabi. Enthalten: Hin- und Rücktransfer am Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "clear-water-canal-sunrise-kayak-and-sup-in-krabi": {
+  "title": "Sonnenaufgangs-Kajak und SUP im Klarwasserkanal in Krabi",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Krabi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfers vom Hotel, Wahl des Stand-up-Paddleboards, Englischsprachiger lokaler Öko-Guide, Schwimmweste und wasserdichte Trockentasche und Trinkwasser in Flaschen und frisches Saisonobst. Nicht enthalten sind Persönliche Ausgaben und Souvenirs und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Krabi. Choke Chai M Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Stunden",
+   "Hin- und Rückfahrt-Hoteltransfers (Ao Nang, Krabi Town und ausgewählte Gebiete)",
+   "Wahl von Stand-up-Paddleboard (SUP) oder Kajak-Ausrüstung",
+   "Professioneller englischsprachiger lokaler Öko-Guide",
+   "Schwimmweste und wasserdichte Trockentasche",
+   "Trinkwasser in Flaschen und frisches Saisonobst"
+  ],
+  "included": [
+   "Hin- und Rückfahrt-Hoteltransfers (Ao Nang, Krabi Town und ausgewählte Gebiete)",
+   "Wahl von Stand-up-Paddleboard (SUP) oder Kajak-Ausrüstung",
+   "Professioneller englischsprachiger lokaler Öko-Guide",
+   "Schwimmweste und wasserdichte Trockentasche",
+   "Trinkwasser in Flaschen und frisches Saisonobst",
+   "Grundlegende Reiseunfallversicherung"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben und Souvenirs",
+   "Trinkgelder (optional)"
+  ],
+  "shortDescription": "3-stündige Tour in Krabi, inklusive Hin- und Rücktransfers vom Hotel, Wahl des Stand-up-Paddleboards und Englischsprachiger lokaler Öko-Guide. Durchgeführt von Choke Chai M Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Sonnenaufgangs-Kajak und SUP im Klarwasserkanal in Krabi",
+  "metaDescription": "3-stündige Tour in Krabi. Enthalten: Hin- und Rücktransfers vom Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "4-islands-one-day-premium-speedboat-tour-lunch": {
   "title": "4 Inseln, eintägige Premium-Schnellboot-Tour mit Mittagessen",
@@ -26294,6 +26803,39 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Halbtägige Tour in Krabi, mit Phra Nang Cave Shrine, Ao Nang, Thale Waek, Krabi Province und Tup-Insel. Durchgeführt von Anda Krabi Seatour, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "7-Inseln-Sonnenuntergang mit BBQ und Plankton, Schnellboot-Tour in Krabi",
   "metaDescription": "Halbtägige Tour in Krabi. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "4-island-sunset-small-group-tour-with-night-snorkel-in-krabi": {
+  "title": "Kleingruppen-Sonnenuntergangstour zu 4 Inseln mit Nachtschnorcheln in Krabi",
+  "fullDescription": "Dies ist ein 6,5-stündiges Erlebnis ab Krabi, rund um Schnellboot, Railay Beach und Ko Poda. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Klong Muang beach, Tup Kaek Sunset Beach Resort, Railay Beach Cafe, Nopparat Thara Pier und Krabi Town Night Market möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Thalassa Tour abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Treffpunkt am Morgen und Rückfahrt nach der Tour, Eintrittsgebühr des Nationalparks, Schnellbootausflug, Crew und Guide. Nicht enthalten sind Handtuch und Sonnenschutz, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Schnellboot",
+   "Railay Beach",
+   "Ko Poda",
+   "Tup-Insel",
+   "Dauer: 6,5 Stunden",
+   "Treffpunkt am Morgen und Rückfahrt nach der Tour (Gebiet Ao Nang)"
+  ],
+  "included": [
+   "Treffpunkt am Morgen und Rückfahrt nach der Tour (Gebiet Ao Nang)",
+   "Eintrittsgebühr des Nationalparks",
+   "Schnellbootausflug",
+   "Crew",
+   "Guide",
+   "Schnorchelausrüstung",
+   "Schwimmweste",
+   "Mittagsbuffet",
+   "Club Sandwich",
+   "Frisches Obst",
+   "Limonade",
+   "Mineralwasser"
+  ],
+  "notIncluded": [
+   "Handtuch",
+   "Sonnenschutz"
+  ],
+  "shortDescription": "Tour in Krabi, mit Schnellboot, Railay Beach und Ko Poda. Durchgeführt von Thalassa Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Kleingruppen-Sonnenuntergangstour zu 4 Inseln mit Nachtschnorcheln in Krabi",
+  "metaDescription": "Tour in Krabi. Enthalten: Treffpunkt am Morgen und Rückfahrt nach der Tour. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "phi-phi-and-4-islands-sunset-tour-bioluminescent-planktons-krabi": {
   "title": "Phi Phi und 4 Inseln, Sonnenuntergangstour mit biolumineszentem Plankton (Krabi)",
@@ -26419,7 +26961,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "Abholservice von Hotels auf Koh Lanta, Koh Phi Phi und Phuket",
    "Obligatorisch: Nationalpark-Eintrittsgebühr (400 THB pro Erwachsenem und 200 THB pro Kind, am Tag der Reise bar zu zahlen)"
   ],
-  "shortDescription": "Ganztägige Tour in Krabi, mit Schnellboot, Loh Samah Bay, Phi Phi Islands und Maya Bay. Durchgeführt von Krabi Sunrise Tours Co., Ltd., direkt gebucht statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztägige Tour in Krabi, mit Schnellboot, Loh-Samah-Bucht, Phi Phi Islands und Maya Bay. Durchgeführt von Krabi Sunrise Tours Co., Ltd., direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Phi-Phi-Insel per Schnellboot mit Buffet-Mittagessen",
   "metaDescription": "Ganztägige Tour in Krabi. Enthalten: Hin- und Rücktransfer am Hotel und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
@@ -26506,6 +27048,66 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Frühbucher, Phi-Phi-Insel und 4 Inseln per Schnellboot",
   "metaDescription": "Tour in Krabi. Enthalten: Hin- und Rücktransfer am Hotel und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "emerald-pool-hot-springs-and-kayaking-tour-in-krabi": {
+  "title": "Smaragdpool, Thermalquellen und Kajaktour in Krabi",
+  "fullDescription": "Dies ist ein 2-stündiges Erlebnis ab Krabi, rund um Emerald Pool. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Phang-Nga-Bucht ist eine versunkene Karstlandschaft aus etwa 40 Kalksteintürmen, die zwischen Phuket und Krabi aus flachem grünem Wasser aufragen, berühmt geworden durch den Bond-Film von 1974, der an Khao Phing Kan gedreht wurde, der Insel, die heute James-Bond-Insel heißt, klein, belebt und zwanzig Minuten wert. Der Grund zu kommen ist das Kanufahren in den Meereshöhlen: bei Niedrigwasser schlüpfen Schlauchkanus durch Tunnel in verborgene Lagunen (Hongs) im Inneren der Inseln, umringt von Klippen und Mangroven, und die Gezeiten bestimmen den Ablauf. Koh Panyee, das muslimische Fischerdorf auf Stelzen, ist der Halt zum Mittagessen. Fahrten im Longtail-Boot von der Phang-Nga-Seite sind ruhiger als Schnellboote ab Phuket.\n\nAbholung ist ab Ao Nang und Krabi möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Anda Krabi Seatour abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Hotelabhol- und Rückfahrservice, Mittagsbuffet, Trinkwasser während der gesamten Reise, Kajakausrüstung und Einheimischer Reiseleiter. Nicht enthalten sind Eintritt zum Smaragdbecken, Eintritt zu den heißen Quellen und Hotelabhol- und Rückfahrservice, Klong Muang / Thap Kaek, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Krabi. Anda Krabi Seatour bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Emerald Pool",
+   "Dauer: 2 Stunden",
+   "Hotelabhol- und Rückfahrservice (Gebiet Ao Nang & Krabi Town)",
+   "Mittagsbuffet",
+   "Trinkwasser während der gesamten Reise",
+   "Kajakausrüstung"
+  ],
+  "included": [
+   "Hotelabhol- und Rückfahrservice (Gebiet Ao Nang & Krabi Town)",
+   "Mittagsbuffet",
+   "Trinkwasser während der gesamten Reise",
+   "Kajakausrüstung",
+   "Professioneller lokaler Reiseführer",
+   "Unfallversicherung während der Tour"
+  ],
+  "notIncluded": [
+   "Eintritt zum Smaragdbecken",
+   "Eintritt zu den heißen Quellen",
+   "Hotelabhol- und Rückfahrservice, Klong Muang / Thap Kaek verfügbar mit einer Zusatzgebühr von 200 THB"
+  ],
+  "shortDescription": "2-stündige Tour in Krabi, mit Emerald Pool. Durchgeführt von Anda Krabi Seatour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Smaragdpool, Thermalquellen und Kajaktour in Krabi",
+  "metaDescription": "2-stündige Tour in Krabi. Enthalten: Hotelabhol- und Rückfahrservice. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "hong-island-by-speedboat-or-catamaran": {
+  "title": "Hong-Insel mit dem Speedboot oder Katamaran",
+  "fullDescription": "Dies ist ein 6-stündiges Erlebnis ab Krabi, rund um Ko Lao Lading, Ko Pak Bia und Hong-Lagune. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Pak Nam, Ao Nang und Krabi möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Krabi Blue Sky abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Mittagsbuffet, Reiseversicherung, Schnorchelausrüstung und Schwimmwesten. Nicht enthalten sind Obligatorische Nationalpark-Eintrittsgebühren, Persönliche Ausgaben, Wasserdichte Säcke und Flossen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Krabi. Krabi Blue Sky bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Ko Lao Lading",
+   "Ko Pak Bia",
+   "Hong-Lagune",
+   "Hong-Insel",
+   "Dauer: 6 Stunden",
+   "Hotelabholung & Rückfahrt (gemeinsamer Transport)"
+  ],
+  "included": [
+   "Hotelabholung & Rückfahrt (gemeinsamer Transport)",
+   "Mittagsbuffet (Halal, vegetarisch)",
+   "Reiseversicherung (öffentliches Krankenhaus)",
+   "Schnorchelausrüstung",
+   "Schwimmwesten",
+   "Trinkwasser in Flaschen",
+   "Softdrinks und Snacks",
+   "Früchte der Saison",
+   "Englischsprachiger Reiseleiter"
+  ],
+  "notIncluded": [
+   "Obligatorische Nationalpark-Eintrittsgebühren (300 thailändische Baht pro Erwachsenem, 150 thailändische Baht pro Kind, 4-11 Jahre)",
+   "Persönliche Ausgaben",
+   "Wasserdichte Säcke",
+   "Flossen"
+  ],
+  "shortDescription": "Halbtägige Tour in Krabi, mit Ko Lao Lading, Ko Pak Bia und Hong-Lagune. Durchgeführt von Krabi Blue Sky, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hong-Insel mit dem Speedboot oder Katamaran",
+  "metaDescription": "Halbtägige Tour in Krabi. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "luxury-boat-7-island-sunset-with-bbq-and-plankton-tour-in-krabi": {
   "title": "Luxusboot, 7-Inseln-Sonnenuntergang mit BBQ und Plankton-Tour in Krabi",
   "fullDescription": "Dies ist ein 7-stündiges Erlebnis ab Krabi, rund um Phra-Nang-Strand, Ko Tup und Koh Mor. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Khlong Muang und Ao Nang möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Anda Krabi Seatour abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Luxuriöses Vintage-Boot, Paddleboard x1, BBQ-Abendessen und Obst. Nicht enthalten sind Obligatorische Nationalpark-Gebühr, Zusatzkosten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Krabi. Anda Krabi Seatour bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -26588,6 +27190,35 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Krabi, mit Emerald Pool und Heiße Quelle Krabi. Durchgeführt von บริษัท เจ แอนด์ เจ แอฟฟลูเอนท์ ทราเวล แอนด์ ทัวร์ จํากัด, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Smaragd- und Blaubecken mit heißen Quellen und Kajak in Krabi",
   "metaDescription": "Ganztägige Tour in Krabi. Enthalten: Hoteltransfer, Guide und Mittagessen. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "2-day-khao-sok-jungle-safari-with-overnight-stay-in-krabi": {
+  "title": "2-tägige Khao-Sok-Dschungelsafari mit Übernachtung in Krabi",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis ab Krabi, rund um Stopp bei Tha Pom Klong Song Nam, Dschungel-Trekking im Khao-Sok-Nationalpark und Übernachtung. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfer am Hotel, Trinkwasser, Mittagessen, Unterkunft in einem einfachen Bungalow im Dschungel mit grundlegender und Kanu-Ausrüstung. Nicht enthalten sind Sonstige persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Stopp bei Tha Pom Klong Song Nam",
+   "Dschungel-Trekking im Khao-Sok-Nationalpark",
+   "Übernachtung",
+   "Frühstück im Restaurant",
+   "Dauer: 2 Tage",
+   "Hin- und Rücktransfer am Hotel"
+  ],
+  "included": [
+   "Hin- und Rücktransfer am Hotel",
+   "Trinkwasser, Morgenkaffee & Obst",
+   "Mittagessen, Abendessen & Frühstück",
+   "Unterkunft in einem einfachen Bungalow im Dschungel mit grundlegenden Einrichtungen: Zimmer mit Ventilator für 2 Personen, Dusche/Bad, Moskitonetz",
+   "Kanu-Ausrüstung",
+   "Professioneller englischsprachiger Guide",
+   "Eintrittsgebühr des Nationalparks",
+   "Basis-Unfallversicherung"
+  ],
+  "notIncluded": [
+   "Sonstige persönliche Ausgaben",
+   "Trinkgelder"
+  ],
+  "shortDescription": "2-tägige Tour in Krabi, mit Drive by shared minivan to Khao Sok, Stopp bei Tha Pom Klong Song Nam und Explore Bang Thong Temple in Phang Nga. Durchgeführt von Thailand Escapes, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "2-tägige Khao-Sok-Dschungelsafari mit Übernachtung in Krabi",
+  "metaDescription": "2-tägige Tour in Krabi. Enthalten: Hin- und Rücktransfer am Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "7-islands-sunset-tour-plus-bioluminescent-plankton-bbq-in-krabi": {
   "title": "7-Inseln-Sonnenuntergangstour plus biolumineszentes Plankton und BBQ in Krabi",
@@ -26794,6 +27425,67 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Traditioneller thailändischer Kochkurs mit lokalem Koch in Krabi",
   "metaDescription": "Halbtägige Tour in Krabi. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "7-islands-sunset-tour-with-plankton-swim-and-bbq-in-krabi": {
+  "title": "Sonnenuntergangstour zu 7 Inseln mit Plankton-Schwimmen und BBQ in Krabi",
+  "fullDescription": "Dies ist ein 7-stündiges Erlebnis in Krabi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung & Rückfahrt von/zu Ihrem Hotel, Besuch von 7 Inseln per Longtailboot oder Schnellboot, Guide, Softdrinks & köstliches Saisonobst und BBQ-Abendessen bei Sonnenuntergang am Strand. Nicht enthalten sind Nationalpark-Gebühr: 200 THB/Erwachsener, 100 THB/Kind, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Krabi. Koh Tour bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 7 Stunden",
+   "Abholung & Rückfahrt von/zu Ihrem Hotel",
+   "Besuch von 7 Inseln per Longtailboot oder Schnellboot",
+   "Professioneller Guide",
+   "Softdrinks & köstliches Saisonobst",
+   "BBQ-Abendessen bei Sonnenuntergang am Strand"
+  ],
+  "included": [
+   "Abholung & Rückfahrt von/zu Ihrem Hotel",
+   "Besuch von 7 Inseln per Longtailboot oder Schnellboot",
+   "Professioneller Guide",
+   "Softdrinks & köstliches Saisonobst",
+   "BBQ-Abendessen bei Sonnenuntergang am Strand",
+   "Schwimmwesten",
+   "Schnorchelausrüstung (Maske & Schnorchel)",
+   "Reiseversicherung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Gebühr: 200 THB/Erwachsener, 100 THB/Kind"
+  ],
+  "shortDescription": "Ganztägige Tour in Krabi, inklusive Abholung & Rückfahrt von/zu Ihrem Hotel, Besuch von 7 Inseln per Longtailboot oder Schnellboot und Guide. Durchgeführt von Koh Tour, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Sonnenuntergangstour zu 7 Inseln mit Plankton-Schwimmen",
+  "metaDescription": "Ganztägige Tour in Krabi. Enthalten: Abholung & Rückfahrt von/zu Ihrem Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "phi-phi-islands-speedboat-tour-with-buffet-lunch": {
+  "title": "Phi-Phi-Inseln-Speedboottour mit Buffet-Mittagessen",
+  "fullDescription": "Dies ist ein 7,5-stündiges Erlebnis in Krabi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Internationales Buffet-Mittagessen auf der Insel Phi Phi Don, Unfallversicherung, Softdrinks und Früchte der Saison. Nicht enthalten sind Nationalpark-Eintrittsgebühren, 400 THB pro Erwachsenem, Nationalpark-Eintrittsgebühren, 200 THB pro Kind, Persönliche Ausgaben und Alkoholische Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Krabi. Srisawat Travel and Tour Limited Partnership bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 7,5 Stunden",
+   "Abholung und Rückfahrt zum Hotel",
+   "Internationales Buffet-Mittagessen auf der Insel Phi Phi Don (Halal-Essen wird ebenfalls bereitgestellt)",
+   "Unfallversicherung",
+   "Softdrinks",
+   "Früchte der Saison"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Internationales Buffet-Mittagessen auf der Insel Phi Phi Don (Halal-Essen wird ebenfalls bereitgestellt)",
+   "Unfallversicherung",
+   "Softdrinks",
+   "Früchte der Saison",
+   "Guide",
+   "Seekrankheitstabletten (auf Anfrage)",
+   "Maske und Schnorchel"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittsgebühren, 400 THB pro Erwachsenem (bar am Check-in-Punkt bezahlt)",
+   "Nationalpark-Eintrittsgebühren, 200 THB pro Kind (bar am Check-in-Punkt bezahlt)",
+   "Persönliche Ausgaben",
+   "Alkoholische Getränke",
+   "Handtuch",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Ganztägige Tour in Krabi, inklusive Abholung und Rückfahrt zum Hotel, Internationales Buffet-Mittagessen auf der Insel Phi Phi Don und Unfallversicherung. Durchgeführt von Srisawat Travel and Tour Limited Partnership, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Phi-Phi-Inseln-Speedboottour mit Buffet-Mittagessen",
+  "metaDescription": "Ganztägige Tour in Krabi. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "4-islands-day-trip-by-longtail-boat-or-speedboat": {
   "title": "4 Inseln, Tagesausflug per Longtailboot oder Schnellboot",
   "fullDescription": "Dies ist ein 6,5-stündiges Erlebnis ab Krabi, rund um Aonang-Orchid-Tour-Pier, Weitere Transporte auf dem Wasser und Phra-Nang-Strand. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfer am Hotel, Guide, Basis-Unfallversicherung, Schnorchelmaske und Schwimmweste. Nicht enthalten sind Flossen, Abhol- und Rückfahrservice von Railay Beach, Abholservice von Hotels auf Koh Lanta, Koh Phi Phi und und Obligatorisch: Nationalpark-Eintrittsgebühr, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nNong Thale. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -26826,6 +27518,37 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Krabi, mit Aonang-Orchid-Tour-Pier, Weitere Transporte auf dem Wasser und Phra-Nang-Strand. Durchgeführt von Aonang Orchid Tour, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "4 Inseln, Tagesausflug per Longtailboot oder Schnellboot",
   "metaDescription": "Tour in Krabi. Enthalten: Hin- und Rücktransfer am Hotel und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "daeng-island-sunset-and-bioluminescent-plankton-in-krabi": {
+  "title": "Sonnenuntergang auf der Daeng-Insel und biolumineszentes Plankton in Krabi",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Krabi. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hotelabholung & Rückfahrt in Krabi in festgelegten Gebieten, Longtailboot während der Reise, Schnorchelmaske und Schwimmweste, Frische Früchte der Saison und Trinkwasser. Nicht enthalten sind Persönliche Ausgaben, Handtücher und Badebekleidung, Trinkgelder und Mahlzeiten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Krabi. Eco Ventures Co., Ltd. bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 4 Stunden",
+   "Hotelabholung & Rückfahrt in Krabi in festgelegten Gebieten (geteilte oder private Tour als Optionen)",
+   "Longtailboot während der Reise (geteilte oder private Tour als Optionen)",
+   "Schnorchelmaske und Schwimmweste",
+   "Frische Früchte der Saison",
+   "Trinkwasser"
+  ],
+  "included": [
+   "Hotelabholung & Rückfahrt in Krabi in festgelegten Gebieten (geteilte oder private Tour als Optionen)",
+   "Longtailboot während der Reise (geteilte oder private Tour als Optionen)",
+   "Schnorchelmaske und Schwimmweste",
+   "Frische Früchte der Saison",
+   "Trinkwasser",
+   "Englischsprachiger einheimischer Guide",
+   "Unfallversicherung"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Handtücher und Badebekleidung",
+   "Trinkgelder",
+   "Mahlzeiten",
+   "Außerhalb der Gebiete, je nach Fall"
+  ],
+  "shortDescription": "Halbtägige Tour in Krabi, inklusive Hotelabholung & Rückfahrt in Krabi in festgelegten Gebieten, Longtailboot während der Reise und Schnorchelmaske und Schwimmweste. Durchgeführt von Eco Ventures Co., Ltd., direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Sonnenuntergang auf der Daeng-Insel und biolumineszentes Plankton in Krabi",
+  "metaDescription": "Halbtägige Tour in Krabi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "bkk-maeklong-railway-sugar-palm-factory-and-floating-market-krabi": {
   "title": "BKK: Maeklong-Eisenbahn, Palmzuckerfabrik und schwimmender Markt (Krabi)",
