@@ -41795,6 +41795,92 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "koh-samet-full-day-tour": {
+  "title": "Koh Samet auf eigene Faust: Tagesausflug mit privaten Transfers",
+  "metaTitle": "Koh Samet auf eigene Faust, private Transfers ab Pattaya",
+  "metaDescription": "Private Transfers und Speedboot nach Koh Samet, danach fünf Stunden völlig freie Zeit, um die Strände und Aussichtspunkte der Insel ganz nach Belieben zu erkunden.",
+  "shortDescription": "Private Transfers und ein Speedboot nach Koh Samet, danach fünf Stunden freie Zeit, um die Strände und Aussichtspunkte der Insel genau so zu erkunden, wie Sie möchten.",
+  "fullDescription": "Koh Samet hat die besten Strände in Reichweite von Pattaya: feiner weißer Sand, so klares Wasser, dass man seine Füße darin sehen kann, und ein Status als Nationalpark, der die Bebauung in Grenzen gehalten hat. Das Problem war schon immer, dorthin zu kommen: Der Pier liegt zwei Autostunden entfernt in Ban Phe, und Transport, Fährtickets und Parkgebühren selbst zu organisieren, frisst einen guten Teil des Tages.\n\nDieser Ausflug löst die Logistik und lässt Sie dann in Ruhe. Private Transfers fahren Sie Tür zu Tür von Ihrem Hotel in Pattaya nach Ban Phe, ein Speedboot setzt zur Insel über, und von dort haben Sie rund fünf Stunden ganz für sich. Kein Guide, keine Gruppe, kein Programm, nur eine feste Uhrzeit und ein fester Treffpunkt für die Rückfahrt.\n\nWas Sie mit der Zeit anfangen, bleibt völlig offen. Hat Sai Kaew ist der Hauptstrand und am meisten besucht; geht oder fährt man per Songthaew weiter nach Süden, werden die Strände schnell ruhiger, mit Ao Phai und Ao Wong Duean deutlich stiller und Ao Prao auf der Westseite, wo man den Sonnenuntergang einfängt. Es gibt Aussichtspunkte auf den Landzungen, Strandrestaurants für das Mittagessen und fast überall Liegen zu mieten.\n\nDer Ausflug passt zu unabhängigen Reisenden, die einen guten Strand wollen, ohne die Anreise selbst zu organisieren, und zu Paaren, die lieber nicht in einer Gruppe geführt werden möchten.",
+  "highlights": [
+   "Das klarste Wasser und der schönste Sand in Reichweite von Pattaya",
+   "Private Tür-zu-Tür-Transfers, kein geteilter Minibus",
+   "Überfahrt per Speedboot statt mit der langsamen Fähre",
+   "Rund fünf Stunden völlig unstrukturierte freie Zeit",
+   "Strände von belebt bis fast menschenleer",
+   "Nationalpark-Gebühren und alle Logistik inklusive"
+  ],
+  "included": [
+   "Private Abholung und Rückfahrt am Hotel in Pattaya",
+   "Hin- und Rück-Straßentransfer zum Pier von Ban Phe",
+   "Speedboot-Überfahrt nach Koh Samet",
+   "Nationalpark-Eintrittsgebühr",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke",
+   "Strandliegen und Sonnenschirme",
+   "Transport auf der Insel (Songthaew)",
+   "Wassersport",
+   "Guide (dies ist ein Ausflug auf eigene Faust)"
+  ]
+ },
+ "tag-flying-club-certificate-experience": {
+  "title": "Junior-Gyrocopter-Pilotentag mit Zertifikat für junge Flieger",
+  "metaTitle": "Junior-Gyrocopter mit Zertifikat für junge Flieger",
+  "metaDescription": "Ein erster Flugunterricht für junge Abenteurer: Bodenschulung, Gyrocopter-Flug über die Küste mit einem Fluglehrer und ein Junior-Pilotenzertifikat zum Mitnehmen.",
+  "shortDescription": "Ein erster Flugunterricht für junge Abenteurer: Bodenschulung, Gyrocopter-Flug über die Küste mit einem Fluglehrer und ein Junior-Pilotenzertifikat zum Mitnehmen.",
+  "fullDescription": "Dies ist die Junior-Version des Gyrocopter-Pilotentages, angepasst und im Tempo gedrosselt für jüngere Flieger, die neugierig auf die Luftfahrt sind und alt genug, es ernst zu nehmen.\n\nDer Ablauf spiegelt das Erwachsenenprogramm, aber die Vermittlung unterscheidet sich. Das Bodenbriefing ist auf ein Niveau zugeschnitten, dem ein Kind folgen kann: wie ein Rotor einen in der Luft hält, was ein Flugzeug zum Drehen bringt, was der Fluglehrer beim Rundgang um das Fluggerät prüft und warum das wichtig ist. Die Fluglehrer hier sind an junge Schüler gewöhnt und gestalten das Tempo der Session entsprechend, mit viel Raum für Fragen.\n\nIn der Luft fliegt der Fluglehrer das Fluggerät und behält während des gesamten Flugs die Kontrolle, während der junge Flieger daneben den Flug erlebt und, wo es angemessen und sicher ist, unter enger Aufsicht ein Gefühl für die Steuerung bekommt. Die Route führt tief und langsam über die Küste und die Inseln, was für ein Kind weit spannender ist als ein Höhenrundflug.\n\nDas Zertifikat am Ende ist das, was bleibt. Für viele Kinder ist dies das erste Mal, dass sie in einem Kleinflugzeug sitzen, geschweige denn die Steuerung erklärt bekommen, und das macht aus dem Tag ein wirklich unvergessliches Erlebnis.",
+  "highlights": [
+   "Ein erstes Luftfahrterlebnis für junge Flieger",
+   "Bodenschulung auf Kindesniveau erklärt",
+   "Gyrocopter-Flug über die Küste mit qualifiziertem Fluglehrer",
+   "Fluglehrer mit Erfahrung bei jungen Schülern",
+   "Junior-Pilotenzertifikat zum Mitnehmen",
+   "Tiefer, langsamer Flug mit Panoramablick"
+  ],
+  "included": [
+   "Junior-Bodenbriefing und Rundgang um das Fluggerät",
+   "Gyrocopter-Flug mit qualifiziertem Fluglehrer",
+   "Helm und Headset",
+   "Junior-Pilotenzertifikat",
+   "Durchgehende Aufsicht"
+  ],
+  "notIncluded": [
+   "Hoteltransfers",
+   "Mahlzeiten und Getränke",
+   "Flug der Begleitperson (separat buchbar)",
+   "Trinkgelder"
+  ]
+ },
+ "tag-flying-club-experience": {
+  "title": "Gyrocopter-Pilotentag über der Küste von Rayong",
+  "metaTitle": "Gyrocopter-Pilotentag über der Küste von Rayong",
+  "metaDescription": "Übernehmen Sie die Steuerung eines Gyrocopters neben einem qualifizierten Fluglehrer, fliegen Sie über tropische Inseln und Küste, mit Zertifikat und 360-Grad-Video Ihres Fluges.",
+  "shortDescription": "Übernehmen Sie die Steuerung eines Gyrocopters neben einem qualifizierten Fluglehrer, fliegen Sie über tropische Inseln und Küste, mit Zertifikat und 360-Grad-Video Ihres Fluges.",
+  "fullDescription": "Ein Gyrocopter liegt irgendwo zwischen einem Leichtflugzeug und einem Hubschrauber: Ein nicht angetriebener Rotor dreht sich oben frei, um Auftrieb zu erzeugen, während ein Heckpropeller Sie vorantreibt. Das Ergebnis ist ein Fluggerät, das langsam fliegt, kurz landet und einen ungewöhnlich freien Blick auf alles darunter bietet, was es fast ideal für Sightseeing entlang einer Küste macht.\n\nDies wird als Ein-Tages-Pilotenerlebnis angeboten, nicht als bloße Vergnügungsfahrt, und der Unterschied ist real. Sie beginnen am Boden mit einem Briefing darüber, wie das Fluggerät funktioniert, gehen es mit Ihrem Fluglehrer durch und gehen die Grundlagen der Steuerung durch. In der Luft, mit einem qualifizierten Fluglehrer, der durchgehend die Kontrolle behält, bekommen Sie tatsächlich Zeit zum Steuern des Fluggeräts, Kurven, Steigflüge und Horizontalflug, statt nur als Passagier zu sitzen.\n\nDie Route führt über die tropische Küste und die Inseln bei Rayong, tief und langsam genug, um das Wasser, die Strände und das grüne Hinterland richtig zu sehen. Im Anschluss erhalten Sie ein Leistungszertifikat sowie ein 360-Grad-Video Ihres Fluges.\n\nKeine Lizenz oder Erfahrung ist erforderlich, und der Fluglehrer behält jederzeit die Kontrolle.",
+  "highlights": [
+   "Praktische Flugzeit mit einem qualifizierten Fluglehrer, der die Kontrolle behält",
+   "Gyrocopter-Flug mit freiem Blick über Küste und Inseln",
+   "Bodenschulung und Rundgang um das Fluggerät inklusive",
+   "Leistungszertifikat nach Abschluss",
+   "360-Grad-Video Ihres Fluges",
+   "Keine vorherige Flugerfahrung erforderlich"
+  ],
+  "included": [
+   "Vorflug-Bodenbriefing und Rundgang um das Fluggerät",
+   "Gyrocopter-Flug mit qualifiziertem Fluglehrer",
+   "Praktische Steuerzeit während des Fluges",
+   "Helm und Headset",
+   "360-Grad-Flugvideo",
+   "Leistungszertifikat"
+  ],
+  "notIncluded": [
+   "Hoteltransfers",
+   "Mahlzeiten und Getränke",
+   "Zusätzliche Flugzeit",
+   "Trinkgelder"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

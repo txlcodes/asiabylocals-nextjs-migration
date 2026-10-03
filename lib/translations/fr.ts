@@ -41795,6 +41795,92 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "koh-samet-full-day-tour": {
+  "title": "Koh Samet en autonomie : excursion d'une journée avec transferts privés",
+  "metaTitle": "Koh Samet en autonomie, transferts privés depuis Pattaya",
+  "metaDescription": "Transferts privés et hors-bord jusqu'à Koh Samet, puis cinq heures de liberté totale pour explorer les plages et points de vue de l'île à votre rythme.",
+  "shortDescription": "Transferts privés et hors-bord jusqu'à Koh Samet, puis cinq heures de temps libre pour explorer les plages et points de vue de l'île exactement comme vous le souhaitez.",
+  "fullDescription": "Koh Samet possède les plus belles plages accessibles depuis Pattaya : un sable blanc et fin, une eau assez claire pour voir ses pieds, et un statut de parc national qui a limité le développement. Le problème a toujours été d'y arriver : la jetée se trouve à deux heures de route, à Ban Phe, et organiser soi-même le transport, les billets de ferry et les frais de parc grignote une bonne partie de la journée.\n\nCette excursion règle la logistique, puis vous laisse tranquille. Des transferts privés vous emmènent porte à porte depuis votre hôtel de Pattaya jusqu'à Ban Phe, un hors-bord traverse jusqu'à l'île, et de là vous disposez d'environ cinq heures entièrement à vous. Pas de guide, pas de groupe, pas de programme : juste une heure et un lieu de rendez-vous fixés pour le retour.\n\nCe que vous faites de ce temps reste entièrement libre. Hat Sai Kaew est la plage principale et la plus animée ; en marchant ou en prenant un songthaew vers le sud, les plages se font vite plus tranquilles, avec Ao Phai et Ao Wong Duean plus calmes et Ao Prao, à l'ouest, idéale pour le coucher de soleil. Des points de vue ponctuent les promontoires, des restaurants de plage proposent le déjeuner, et des transats sont à louer presque partout.\n\nCette excursion convient aux voyageurs indépendants qui veulent une belle plage sans organiser le trajet, ainsi qu'aux couples qui préfèrent ne pas être encadrés.",
+  "highlights": [
+   "L'eau la plus claire et le plus beau sable accessibles depuis Pattaya",
+   "Transferts privés porte à porte, sans minibus partagé",
+   "Traversée en hors-bord plutôt qu'en ferry lent",
+   "Environ cinq heures de temps libre entièrement non structuré",
+   "Des plages allant de l'animation au quasi-désert",
+   "Frais de parc national et toute la logistique pris en charge"
+  ],
+  "included": [
+   "Prise en charge et retour privés à l'hôtel à Pattaya",
+   "Transfert routier aller-retour jusqu'à la jetée de Ban Phe",
+   "Transfert en hors-bord jusqu'à Koh Samet",
+   "Frais d'entrée du parc national",
+   "Eau potable"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "Transats et parasols de plage",
+   "Transport sur l'île (songthaew)",
+   "Sports nautiques",
+   "Guide (cette excursion est en autonomie)"
+  ]
+ },
+ "tag-flying-club-certificate-experience": {
+  "title": "Journée de pilote junior en gyrocoptère avec certificat pour jeunes aviateurs",
+  "metaTitle": "Gyrocoptère junior avec certificat pour jeunes aviateurs",
+  "metaDescription": "Un premier cours de pilotage pensé pour les jeunes aventuriers : briefing au sol, vol en gyrocoptère au-dessus de la côte avec un instructeur, et certificat de pilote junior à emporter.",
+  "shortDescription": "Un premier cours de pilotage conçu pour les jeunes aventuriers : briefing au sol, vol en gyrocoptère au-dessus de la côte avec un instructeur, et certificat de pilote junior à emporter.",
+  "fullDescription": "Voici la version junior de la journée de pilote en gyrocoptère, adaptée et rythmée pour de jeunes aviateurs curieux d'aéronautique et suffisamment âgés pour prendre la chose au sérieux.\n\nLa structure reprend le programme adulte, mais la manière de le présenter diffère. Le briefing au sol est amené à un niveau accessible à un enfant : comment un rotor permet de rester en l'air, ce qui fait tourner un appareil, ce que l'instructeur vérifie pendant la visite de l'appareil et pourquoi c'est important. Les instructeurs ici sont habitués aux jeunes élèves et adaptent le rythme de la séance en conséquence, en laissant toute la place nécessaire aux questions.\n\nEn vol, l'instructeur pilote l'appareil et en garde le contrôle à tout moment, tandis que le jeune aviateur vit le vol à ses côtés et, lorsque c'est approprié et sûr, peut se faire une idée des commandes sous étroite supervision. Le parcours survole la côte et les îles, bas et lentement, ce qui est bien plus captivant pour un enfant qu'un vol panoramique en haute altitude.\n\nLe certificat remis à la fin est ce qu'il gardera. Pour beaucoup d'enfants, c'est la première fois qu'ils montent dans un petit appareil, et à plus forte raison qu'on leur en explique les commandes, ce qui en fait une journée réellement mémorable.",
+  "highlights": [
+   "Une première expérience aéronautique pensée pour de jeunes aviateurs",
+   "Briefing au sol expliqué au niveau d'un enfant",
+   "Vol en gyrocoptère au-dessus de la côte avec un instructeur qualifié",
+   "Instructeurs expérimentés avec de jeunes élèves",
+   "Certificat de pilote junior à emporter",
+   "Vol bas et lent offrant une vue panoramique dégagée"
+  ],
+  "included": [
+   "Briefing au sol junior et visite de l'appareil",
+   "Vol en gyrocoptère avec instructeur qualifié",
+   "Casque et écouteurs",
+   "Certificat de pilote junior",
+   "Supervision tout au long du vol"
+  ],
+  "notIncluded": [
+   "Transferts d'hôtel",
+   "Repas et boissons",
+   "Vol de l'adulte accompagnant (réservable séparément)",
+   "Pourboires"
+  ]
+ },
+ "tag-flying-club-experience": {
+  "title": "Journée de pilote d'un jour en gyrocoptère au-dessus de la côte de Rayong",
+  "metaTitle": "Gyrocoptère : journée de pilote d'un jour, côte de Rayong",
+  "metaDescription": "Prenez les commandes d'un gyrocoptère aux côtés d'un instructeur qualifié, en volant au-dessus d'îles tropicales et du littoral, avec certificat et vidéo à 360° de votre vol.",
+  "shortDescription": "Prenez les commandes d'un gyrocoptère aux côtés d'un instructeur qualifié, en volant au-dessus d'îles tropicales et du littoral, avec un certificat et une vidéo à 360° de votre vol.",
+  "fullDescription": "Un gyrocoptère se situe quelque part entre un avion léger et un hélicoptère : un rotor non motorisé tourne librement au-dessus de l'appareil pour générer la portance, tandis qu'une hélice arrière vous propulse vers l'avant. Il en résulte un appareil qui vole lentement, se pose sur de courtes distances et offre une vue inhabituellement dégagée sur tout ce qui se trouve en dessous, ce qui le rend presque idéal pour observer un littoral.\n\nCette expérience est présentée comme une journée de pilote plutôt qu'un simple baptême de l'air, et la différence est réelle. Vous commencez au sol par un briefing sur le fonctionnement de l'appareil, en faites le tour avec votre instructeur, et passez en revue les bases de ce que font les commandes. En vol, avec un instructeur qualifié qui garde le contrôle à tout moment, vous avez vraiment l'occasion de piloter l'appareil, virages, montées et vol en palier, plutôt que de simplement être passager.\n\nLe parcours survole le littoral tropical et les îles près de Rayong, suffisamment bas et lentement pour bien voir l'eau, les plages et l'intérieur verdoyant. Vous recevrez ensuite un certificat de réussite, ainsi qu'une vidéo à 360° de votre vol.\n\nAucune licence ni expérience n'est nécessaire, et l'instructeur garde le contrôle de l'appareil à tout moment.",
+  "highlights": [
+   "Temps de pilotage pratique avec un instructeur qualifié qui garde le contrôle",
+   "Vol en gyrocoptère à vue dégagée au-dessus du littoral et des îles",
+   "Briefing au sol et visite de l'appareil inclus",
+   "Certificat de réussite à la fin du vol",
+   "Vidéo à 360° de votre vol",
+   "Aucune expérience de vol préalable requise"
+  ],
+  "included": [
+   "Briefing au sol avant le vol et visite de l'appareil",
+   "Vol en gyrocoptère avec instructeur qualifié",
+   "Temps de pilotage pratique pendant le vol",
+   "Casque et écouteurs",
+   "Vidéo du vol à 360°",
+   "Certificat de réussite"
+  ],
+  "notIncluded": [
+   "Transferts d'hôtel",
+   "Repas et boissons",
+   "Temps de vol supplémentaire",
+   "Pourboires"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

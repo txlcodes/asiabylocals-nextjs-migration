@@ -41795,6 +41795,92 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "koh-samet-full-day-tour": {
+  "title": "Koh Samet por libre: excursión de un día con traslados privados",
+  "metaTitle": "Koh Samet por libre, traslados privados desde Pattaya",
+  "metaDescription": "Traslados privados y lancha rápida hasta Koh Samet, y luego cinco horas de tiempo libre para explorar las playas y miradores de la isla como quiera.",
+  "shortDescription": "Traslados privados y una lancha rápida hasta Koh Samet, y luego cinco horas de tiempo libre para explorar las playas y miradores de la isla exactamente como quiera.",
+  "fullDescription": "Koh Samet tiene las mejores playas al alcance de Pattaya: arena blanca y fina, agua tan clara que se ven los pies, y una designación de parque nacional que ha mantenido el desarrollo bajo control. El problema siempre ha sido llegar: el muelle está a dos horas en coche, en Ban Phe, y organizar por su cuenta el transporte, los billetes del ferri y las tarifas del parque consume buena parte del día.\n\nEsta excursión resuelve la logística y luego le deja tranquilo. Traslados privados le llevan puerta a puerta desde su hotel en Pattaya hasta Ban Phe, una lancha rápida cruza hasta la isla, y a partir de ahí dispone de unas cinco horas completamente para usted. Sin guía, sin grupo, sin horario, solo una hora y un lugar de encuentro fijados para el regreso.\n\nLo que haga con ese tiempo queda totalmente abierto. Hat Sai Kaew es la playa principal y la más concurrida; caminando o tomando un songthaew hacia el sur, las playas se vuelven rápidamente más tranquilas, con Ao Phai y Ao Wong Duean más silenciosas y Ao Prao, en el lado oeste, ideal para la puesta de sol. Hay miradores en los promontorios, restaurantes de playa para el almuerzo, y tumbonas de alquiler en casi todas partes.\n\nEsta excursión es ideal para viajeros independientes que quieren una buena playa sin organizar el trayecto, y para parejas que prefieren no ir en grupo guiado.",
+  "highlights": [
+   "El agua más clara y la mejor arena al alcance de Pattaya",
+   "Traslados privados puerta a puerta, sin minibús compartido",
+   "Travesía en lancha rápida en lugar del ferri lento",
+   "Unas cinco horas de tiempo libre totalmente sin estructurar",
+   "Playas que van de animadas a casi vacías",
+   "Tarifas del parque nacional y toda la logística incluidas"
+  ],
+  "included": [
+   "Recogida y regreso privados en el hotel de Pattaya",
+   "Traslado por carretera de ida y vuelta al muelle de Ban Phe",
+   "Traslado en lancha rápida a Koh Samet",
+   "Tarifa de entrada al parque nacional",
+   "Agua potable"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "Tumbonas y sombrillas de playa",
+   "Transporte en la isla (songthaew)",
+   "Deportes acuáticos",
+   "Guía (esta es una excursión por libre)"
+  ]
+ },
+ "tag-flying-club-certificate-experience": {
+  "title": "Día de piloto junior de giroplano con certificado para jóvenes aviadores",
+  "metaTitle": "Giroplano junior con certificado para jóvenes aviadores",
+  "metaDescription": "Una primera clase de vuelo pensada para jóvenes aventureros: instrucción en tierra, vuelo en giroplano sobre la costa con un instructor y certificado de piloto junior para llevar a casa.",
+  "shortDescription": "Una primera clase de vuelo pensada para jóvenes aventureros: instrucción en tierra, vuelo en giroplano sobre la costa con un instructor y certificado de piloto junior para llevar a casa.",
+  "fullDescription": "Esta es la versión junior del día de piloto de giroplano, adaptada y ajustada en ritmo para pilotos más jóvenes que sienten curiosidad por la aviación y tienen edad suficiente para tomárselo en serio.\n\nLa estructura refleja el programa de adultos, pero la forma de transmitirlo es distinta. La instrucción en tierra se plantea a un nivel que un niño puede seguir: cómo un rotor mantiene el aparato en el aire, qué hace que gire, qué revisa el instructor durante la inspección y por qué es importante. Los instructores aquí están acostumbrados a alumnos jóvenes y adaptan el ritmo de la sesión en consecuencia, dejando mucho espacio para preguntas.\n\nEn el aire, el instructor pilota el aparato y mantiene el control en todo momento, mientras el joven aviador vive el vuelo a su lado y, cuando es apropiado y seguro, se familiariza con los mandos bajo estrecha supervisión. La ruta discurre sobre la costa y las islas, bajo y despacio, lo cual resulta mucho más atractivo para un niño que un vuelo panorámico a gran altitud.\n\nEl certificado al final es lo que se queda con ellos. Para muchos niños es la primera vez que suben a una aeronave pequeña, y mucho menos que les expliquen los mandos, y se convierte en un día realmente memorable.",
+  "highlights": [
+   "Una primera experiencia de aviación pensada para jóvenes aviadores",
+   "Instrucción en tierra explicada al nivel de un niño",
+   "Vuelo en giroplano sobre la costa con instructor cualificado",
+   "Instructores con experiencia con alumnos jóvenes",
+   "Certificado de piloto junior para llevar a casa",
+   "Vuelo bajo y lento con vistas panorámicas despejadas"
+  ],
+  "included": [
+   "Instrucción en tierra junior e inspección de la aeronave",
+   "Vuelo en giroplano con instructor cualificado",
+   "Casco y auriculares",
+   "Certificado de piloto junior",
+   "Supervisión durante todo el vuelo"
+  ],
+  "notIncluded": [
+   "Traslados al hotel",
+   "Comidas y bebidas",
+   "Vuelo del adulto acompañante (reservable por separado)",
+   "Propinas"
+  ]
+ },
+ "tag-flying-club-experience": {
+  "title": "Día de piloto de giroplano sobre la costa de Rayong",
+  "metaTitle": "Giroplano: día de piloto sobre la costa de Rayong",
+  "metaDescription": "Tome los mandos de un giroplano junto a un instructor cualificado, volando sobre islas tropicales y litoral, con certificado y vídeo a 360° de su vuelo.",
+  "shortDescription": "Tome los mandos de un giroplano junto a un instructor cualificado, volando sobre islas tropicales y litoral, con certificado y vídeo a 360° de su vuelo.",
+  "fullDescription": "Un giroplano se sitúa a medio camino entre un avión ligero y un helicóptero: un rotor sin motor gira libremente por encima para generar sustentación, mientras una hélice trasera lo impulsa hacia adelante. El resultado es una aeronave que vuela despacio, aterriza en poco espacio y ofrece una vista inusualmente despejada de todo lo que hay debajo, lo que la hace casi ideal para hacer turismo a lo largo de un litoral.\n\nEsto se presenta como una experiencia de piloto de un día, no como un simple paseo, y la diferencia es real. Empieza en tierra con una instrucción sobre cómo funciona la aeronave, la recorre con su instructor y repasa lo básico de lo que hacen los mandos. En el aire, con un instructor cualificado que mantiene el control en todo momento, tiene tiempo real de pilotar la aeronave (virajes, ascensos y vuelo nivelado) en lugar de simplemente ir de pasajero.\n\nLa ruta discurre sobre el litoral tropical y las islas cerca de Rayong, lo bastante bajo y despacio para ver bien el agua, las playas y el interior verde. Después recibirá un certificado de logro, junto con un vídeo a 360° de su vuelo.\n\nNo se necesita licencia ni experiencia previa, y el instructor mantiene el control en todo momento.",
+  "highlights": [
+   "Tiempo real de vuelo con un instructor cualificado que mantiene el control",
+   "Vuelo en giroplano con vista despejada sobre litoral e islas",
+   "Instrucción en tierra e inspección de la aeronave incluidas",
+   "Certificado de logro al finalizar",
+   "Vídeo a 360° de su vuelo",
+   "No se requiere experiencia de vuelo previa"
+  ],
+  "included": [
+   "Instrucción en tierra previa al vuelo e inspección de la aeronave",
+   "Vuelo en giroplano con instructor cualificado",
+   "Tiempo real de pilotaje durante el vuelo",
+   "Casco y auriculares",
+   "Vídeo del vuelo a 360°",
+   "Certificado de logro"
+  ],
+  "notIncluded": [
+   "Traslados al hotel",
+   "Comidas y bebidas",
+   "Tiempo de vuelo adicional",
+   "Propinas"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",
