@@ -28979,6 +28979,39 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Entrada de Muay Thai en el Estadio de Boxeo de Thaphae en Chiang Mai",
   "metaDescription": "Entrada en Chiang Mai. Incluye: entrada de un asiento. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "225cc-atv-sticky-waterfall-and-scenic-caf-in-chiang-mai": {
+  "title": "ATV de 225 cc, Cascada Pegajosa y Café Panorámico en Chiang Mai",
+  "fullDescription": "Esta es una experiencia de día completo desde Chiang Mai, centrada en Distrito de Mae Taeng y Cascadas escalables de Bua Thong. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel dentro de la ciudad de Chiang Mai, transporte con aire acondicionado, guía de habla inglesa, programa de ATV de 225 cc con una duración de aproximadamente 1,5 horas y paseo guiado en ATV de aproximadamente 1 hora. No incluye toalla, gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nChiang Mai. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Distrito de Mae Taeng",
+   "Cascadas escalables de Bua Thong",
+   "Duración: día completo",
+   "Recogida y regreso al hotel dentro de la ciudad de Chiang Mai",
+   "Transporte con aire acondicionado",
+   "Guía profesional de habla inglesa"
+  ],
+  "included": [
+   "Recogida y regreso al hotel dentro de la ciudad de Chiang Mai",
+   "Transporte con aire acondicionado",
+   "Guía profesional de habla inglesa",
+   "Programa de ATV de 225 cc con una duración de aproximadamente 1,5 horas",
+   "Paseo guiado en ATV de aproximadamente 1 hora",
+   "Equipo de seguridad para ATV, incluidos casco y guantes",
+   "Una bebida y un pastel gratis en el café panorámico",
+   "Visita a la cascada pegajosa (cascada de Bua Tong)",
+   "Almuerzo tailandés de menú fijo con reposición",
+   "Agua embotellada",
+   "Seguro de accidentes de viaje"
+  ],
+  "notIncluded": [
+   "Toalla",
+   "Gastos personales",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de día completo en Chiang Mai, con Distrito de Mae Taeng y Cascadas escalables de Bua Thong. Operador: Chiangmai One Day Trip, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "ATV de 225 cc, Cascada Pegajosa y Café Panorámico en Chiang Mai",
+  "metaDescription": "Tour de día completo en Chiang Mai. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "chiang-mai-khantoke-dinner-and-cultural-show-with-transfer-by-local-operator": {
   "title": "Cena Khantoke y Espectáculo Cultural con Traslado en Chiang Mai, por un Operador Local",
   "fullDescription": "Esta es una experiencia de 4 horas en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye Cena Khantoke tradicional del norte de Tailandia, espectáculo cultural en directo, traslado de ida y vuelta al hotel dentro de la ciudad de Chiang Mai, entrada al Khum Khantoke y todos los impuestos y gastos de servicio. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Chiang Mai. STANDARD TOUR CO LTD confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -29103,6 +29136,46 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Tour de Doi Inthanon con Guía en Español o Francés",
   "metaDescription": "Tour de día completo en Chiang Mai. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "thapae-boxing-stadium-muay-thai-match-ticket-in-chiang-mai": {
+  "title": "Entrada para un Combate de Muay Thai en el Estadio de Boxeo de Thapae en Chiang Mai",
+  "fullDescription": "Esta es una experiencia de 3 horas en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada prioritaria donde el lugar la ofrezca, entrada con descuento, estándar, oportunidades de fotos después del combate y bebidas. No incluye recogida en el hotel y regreso, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 horas",
+   "entrada prioritaria donde el lugar la ofrezca, entrada con descuento",
+   "Asientos estándar, junto al ring o VIP (según la opción seleccionada)",
+   "Oportunidades de fotos después del combate",
+   "Bebidas (si se selecciona la opción VIP)"
+  ],
+  "included": [
+   "Entrada con descuento sin hacer cola",
+   "Asientos estándar, junto al ring o VIP (según la opción seleccionada)",
+   "Oportunidades de fotos después del combate",
+   "Bebidas (si se selecciona la opción VIP)"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel"
+  ],
+  "shortDescription": "Entrada en Chiang Mai, que incluye entrada con descuento sin hacer cola, estándar y oportunidades de fotos después del combate. Operador: Oh-Hoo, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Entrada para un Combate de Muay Thai en el Estadio de Boxeo de Thapae en Chiang Mai",
+  "metaDescription": "Entrada en Chiang Mai. Incluye: entrada con descuento sin hacer cola. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "khum-khantoke-northern-thai-cuisine-and-show-in-chiang-mai": {
+  "title": "Khum Khantoke: Cocina del Norte de Tailandia y Espectáculo en Chiang Mai",
+  "fullDescription": "Esta es una experiencia en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye incluye agua potable. No incluye tenga en cuenta que los gastos personales y cualquier adicional y si está satisfecho con el servicio, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Incluye agua potable (jarra)"
+  ],
+  "included": [
+   "Incluye agua potable (jarra)"
+  ],
+  "notIncluded": [
+   "Tenga en cuenta que los gastos personales y cualquier servicio adicional no incluido en el programa son responsabilidad del cliente y deben pagarse en el lugar.",
+   "Si está satisfecho con el servicio, la propina es opcional y queda enteramente a su discreción.\""
+  ],
+  "shortDescription": "Tour en Chiang Mai, que incluye incluye agua potable. Operador: ISE, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Khum Khantoke: Cocina del Norte de Tailandia y Espectáculo en Chiang Mai",
+  "metaDescription": "Tour en Chiang Mai. Incluye: incluye agua potable. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "dantewada-sticky-waterfall-and-doi-suthep-city-lights-tour-chiang-mai": {
   "title": "Dantewada, Cascada Pegajosa y Tour de las Luces de la Ciudad en Doi Suthep (Chiang Mai)",
   "fullDescription": "Esta es una experiencia de 7 horas en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye visita a Dantewada, la Tierra de los Ángeles, visita a la cascada escalable, visita al Wat Phra That Doi Suthep y mirador del atardecer en la montaña Doi Suthep. No incluye comidas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nChiang Mai. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -29150,6 +29223,37 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "shortDescription": "Tour de día completo en Chiang Mai, con Cascada de Wachirathan, Parque nacional de Doi Inthanon y Restaurante local. Operador: Happy Holiday Thailand, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Viaje de Grupo por la Naturaleza en Doi Inthanon con las Pagodas Gemelas",
+  "metaDescription": "Tour de día completo en Chiang Mai. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "225cc-atv-zipline-and-sticky-waterfall-day-trip-in-chiang-mai": {
+  "title": "Excursión de un Día en ATV de 225 cc, Tirolina y Cascada Pegajosa en Chiang Mai",
+  "fullDescription": "Esta es una experiencia de día completo desde Chiang Mai, centrada en Distrito de Mae Taeng y Cascadas escalables de Bua Thong. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye transporte de ida y vuelta desde la ciudad de Chiang Mai, vehículo con aire acondicionado, guía de habla inglesa, tarifas de entrada para el ATV y equipo de seguridad para el paseo en ATV. No incluye toalla, gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nChiang Mai. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Distrito de Mae Taeng",
+   "Cascadas escalables de Bua Thong",
+   "Duración: día completo",
+   "Transporte de ida y vuelta desde la ciudad de Chiang Mai",
+   "Vehículo con aire acondicionado",
+   "Guía profesional de habla inglesa"
+  ],
+  "included": [
+   "Transporte de ida y vuelta desde la ciudad de Chiang Mai",
+   "Vehículo con aire acondicionado",
+   "Guía profesional de habla inglesa",
+   "Tarifas de entrada para el ATV",
+   "Equipo de seguridad para el paseo en ATV (casco, guantes)",
+   "Entrada para la aventura de tirolina con 19 plataformas y 9 tirolinas",
+   "Agua embotellada",
+   "Almuerzo (comida completa)",
+   "Seguro de viaje local"
+  ],
+  "notIncluded": [
+   "Toalla",
+   "Gastos personales",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de día completo en Chiang Mai, con Distrito de Mae Taeng y Cascadas escalables de Bua Thong. Operador: Chiangmai One Day Trip, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Excursión de un Día en ATV de 225 cc, Tirolina y Cascada Pegajosa en Chiang Mai",
   "metaDescription": "Tour de día completo en Chiang Mai. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "chat-with-a-monk-at-wat-chedi-luang-in-chiang-mai": {
@@ -29271,6 +29375,34 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Tour Nocturno de Doi Suthep y Wat Umong o Wat Pha Lat",
   "metaDescription": "Tour de medio día en Chiang Mai. Incluye: transporte, seguro y guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "doi-suthep-wat-umong-and-pha-lat-sunrise-tour": {
+  "title": "Tour al Amanecer: Doi Suthep, Wat Umong y Pha Lat",
+  "fullDescription": "Esta es una experiencia de 4 horas desde Chiang Mai, centrada en Wat Phra That Doi Suthep, Monumento Kruba Srivichai y Wat Pha Lat. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida en el hotel, transporte en vehículo con aire acondicionado, guía, entradas y una botella de cristal de agua potable. No incluye ofrenda al templo, comidas y otras bebidas y regreso al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Chiang Mai. TripGuru Thailand confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Wat Phra That Doi Suthep",
+   "Monumento Kruba Srivichai",
+   "Wat Pha Lat",
+   "Wat Umong",
+   "Duración: 4 horas",
+   "Recogida en el hotel"
+  ],
+  "included": [
+   "Recogida en el hotel",
+   "Transporte en vehículo con aire acondicionado",
+   "Guía",
+   "Entradas",
+   "Una botella de cristal de agua potable",
+   "Créditos de compensación de emisiones de carbono"
+  ],
+  "notIncluded": [
+   "Ofrenda al templo (opcional)",
+   "Comidas y otras bebidas",
+   "Regreso al hotel"
+  ],
+  "shortDescription": "Tour de medio día en Chiang Mai, con Wat Phra That Doi Suthep, Monumento Kruba Srivichai y Wat Pha Lat. Operador: TripGuru Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour al Amanecer: Doi Suthep, Wat Umong y Pha Lat",
+  "metaDescription": "Tour de medio día en Chiang Mai. Incluye: recogida en el hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "doi-suthep-hmong-village-and-monthathan-waterfall": {
   "title": "Doi Suthep, Pueblo Hmong y Cascada de Monthathan",
   "fullDescription": "Esta es una experiencia de 8 horas en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye visita al pueblo de la tribu de montaña Hmong, visita al Wat Phra That Doi Suthep, visita a la cascada de Monthathan, guía en persona y transporte de ida y vuelta al punto de salida. No incluye comidas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nChiang Mai. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -29294,6 +29426,30 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "shortDescription": "Tour de día completo en Chiang Mai, que incluye visita al pueblo de la tribu de montaña Hmong, visita al Wat Phra That Doi Suthep y visita a la cascada de Monthathan. Operador: SNP Chiangmai Travel, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Doi Suthep, Pueblo Hmong y Cascada de Monthathan",
+  "metaDescription": "Tour de día completo en Chiang Mai. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "pha-dok-siew-nature-trail-and-doi-inthanon-trip": {
+  "title": "Sendero Natural de Pha Dok Siew y Excursión a Doi Inthanon",
+  "fullDescription": "Esta es una experiencia de 10 horas en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye transporte de ida y vuelta en coche o minivan con aire acondicionado, comida, guía y seguro. No incluye tasa del Parque Nacional y entradas a las pagodas del Rey y la Reina, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 10 horas",
+   "Transporte de ida y vuelta en coche o minivan con aire acondicionado desde el casco antiguo de Chiang Mai y la zona de Nimman",
+   "Almuerzo (menú fijo), agua potable",
+   "Guía",
+   "Seguro"
+  ],
+  "included": [
+   "Transporte de ida y vuelta en coche o minivan con aire acondicionado desde el casco antiguo de Chiang Mai y la zona de Nimman",
+   "Almuerzo (menú fijo), agua potable",
+   "Guía",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Tarifa del parque nacional (300 THB por adulto y 150 THB por niño)",
+   "Entradas a las pagodas del Rey y la Reina (100 THB por adulto y 50 THB por niño)"
+  ],
+  "shortDescription": "Tour de día completo en Chiang Mai, que incluye transporte de ida y vuelta en coche o minivan con aire acondicionado, comida y guía. Operador: Oh-Hoo, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Sendero Natural de Pha Dok Siew y Excursión a Doi Inthanon",
   "metaDescription": "Tour de día completo en Chiang Mai. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "off-road-atv-thrills-then-mae-wang-waterfall-in-chiang-mai": {
@@ -29322,6 +29478,53 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Emociones Todoterreno en ATV, luego la Cascada de Mae Wang en Chiang Mai",
   "metaDescription": "Tour de medio día en Chiang Mai. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "wat-phra-that-doi-suthep-and-wat-pha-lat-evening-guided-tour-chiang-mai": {
+  "title": "Tour Guiado de la Tarde: Wat Phra That Doi Suthep y Wat Pha Lat (Chiang Mai)",
+  "fullDescription": "Esta es una experiencia de 4,5 horas en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye *Seguro de viaje, *Conductor y coche, *Servicio de recogida y regreso y *Tarifa de entrada a Doi Suthep: 30 baht. No incluye otros gastos, propinas y gastos personales de comida, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Chiang Mai. LOCAL CNX. TOURS 99 CO., LTD. confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 4,5 horas",
+   "*Seguro de viaje",
+   "*Conductor y coche",
+   "*Servicio de recogida y regreso",
+   "*Tarifa de entrada a Doi Suthep: 30 baht"
+  ],
+  "included": [
+   "*Seguro de viaje",
+   "*Conductor y coche",
+   "*Servicio de recogida y regreso",
+   "*Tarifa de entrada a Doi Suthep: 30 baht"
+  ],
+  "notIncluded": [
+   "Otros gastos",
+   "Propinas",
+   "Gastos personales de comida"
+  ],
+  "shortDescription": "Tour en Chiang Mai, que incluye *Seguro de viaje, *Conductor y coche y *Servicio de recogida y regreso. Operador: LOCAL CNX. TOURS 99 CO., LTD., con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour Guiado de la Tarde: Wat Phra That Doi Suthep y Wat Pha Lat",
+  "metaDescription": "Tour en Chiang Mai. Incluye: *Seguro de viaje y *Conductor y coche. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "chiang-mai-atv-track-and-countryside-ride-by-local-operator": {
+  "title": "Pista de ATV y Paseo por el Campo en Chiang Mai, por un Operador Local",
+  "fullDescription": "Esta es una experiencia de 40 minutos en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía turístico o instructor, equipo de protección y seguro. No incluye traslado privado de ida y vuelta en furgoneta disponible por 1.500 THB por y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 40 minutos",
+   "Guía turístico o instructor profesional",
+   "Equipo de protección",
+   "Seguro"
+  ],
+  "included": [
+   "Guía turístico o instructor profesional",
+   "Equipo de protección",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Traslado privado de ida y vuelta en furgoneta disponible por 1.500 THB por furgoneta",
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de 0,6666666666666666 horas en Chiang Mai, que incluye guía turístico o instructor, equipo de protección y seguro. Operador: Oh-Hoo, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Pista de ATV y Paseo por el Campo en Chiang Mai, por un Operador Local",
+  "metaDescription": "Tour de 0,6666666666666666 horas en Chiang Mai. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "dantewada-sticky-waterfall-and-thai-massage-tour-in-chiang-mai": {
   "title": "Tour de Dantewada, la Cascada Pegajosa y Masaje Tailandés en Chiang Mai",
   "fullDescription": "Esta es una experiencia de 7 horas en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye visita a Dantewada, visita a la cascada escalable, masaje tailandés tradicional de 2 horas y transporte cómodo. No incluye comidas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nChiang Mai. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -29346,6 +29549,56 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Tour de Dantewada, la Cascada Pegajosa y Masaje Tailandés en Chiang Mai",
   "metaDescription": "Tour de día completo en Chiang Mai. Incluye: visita a Dantewada. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "art-in-paradise-illusion-museum-entry-ticket-in-chiang-mai": {
+  "title": "Entrada al Museo de Ilusiones Art in Paradise en Chiang Mai",
+  "fullDescription": "Esta es una experiencia en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada al Museo de Ilusiones de Chiang Mai y acceso rápido. No incluye el transporte al museo no está incluido en el precio, servicio de guía, comida y bebidas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Entrada al Museo de Ilusiones de Chiang Mai",
+   "Acceso rápido"
+  ],
+  "included": [
+   "Entrada al Museo de Ilusiones de Chiang Mai",
+   "Acceso rápido"
+  ],
+  "notIncluded": [
+   "El transporte al museo no está incluido en el precio",
+   "Servicio de guía",
+   "Comida y bebidas",
+   "Gastos personales",
+   "Servicios de fotos o recuerdos opcionales"
+  ],
+  "shortDescription": "Entrada en Chiang Mai, que incluye entrada al Museo de Ilusiones de Chiang Mai y acceso rápido. Operador: MY Holiday Centre, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Entrada al Museo de Ilusiones Art in Paradise en Chiang Mai",
+  "metaDescription": "Entrada en Chiang Mai. Incluye: entrada al Museo de Ilusiones de Chiang Mai. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "doi-inthanon-summit-waterfalls-and-pagodas": {
+  "title": "Cumbre de Doi Inthanon, Cascadas y Pagodas",
+  "fullDescription": "Esta es una experiencia de 10 horas desde Chiang Mai, centrada en Cumbre de Doi Inthanon, Sendero natural de Ang Ka y Pagoda del Rey y la Reina. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel, transporte con aire acondicionado, guía turístico, menú de almuerzo tailandés y tarifa de entrada al parque nacional de Doi Inthanon. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Chiang Mai. Chiangmai Smiley Tour Official confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Cumbre de Doi Inthanon",
+   "Sendero natural de Ang Ka",
+   "Pagoda del Rey y la Reina",
+   "Mercado comunitario tailandés-hmong",
+   "Duración: 10 horas",
+   "Recogida y regreso al hotel (zonas seleccionadas)"
+  ],
+  "included": [
+   "Recogida y regreso al hotel (zonas seleccionadas)",
+   "Transporte con aire acondicionado",
+   "Guía turístico de habla inglesa",
+   "Menú de almuerzo tailandés",
+   "Tarifa de entrada al parque nacional de Doi Inthanon",
+   "Seguro de viaje",
+   "Degustación de café local Karen"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de día completo en Chiang Mai, con Cumbre de Doi Inthanon, Sendero natural de Ang Ka y Pagoda del Rey y la Reina. Operador: Chiangmai Smiley Tour Official, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Cumbre de Doi Inthanon, Cascadas y Pagodas",
+  "metaDescription": "Tour de día completo en Chiang Mai. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "authentic-muay-thai-training-experience-in-chiang-mai": {
   "title": "Experiencia Auténtica de Entrenamiento de Muay Thai en Chiang Mai",
   "fullDescription": "Esta es una experiencia en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -29362,6 +29615,30 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour en Chiang Mai. Operador: Warrior Acadermy & Rtreats, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Experiencia Auténtica de Entrenamiento de Muay Thai en Chiang Mai",
   "metaDescription": "Tour en Chiang Mai. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "old-city-electric-tuk-tuk-tour-with-guide-in-chiang-mai": {
+  "title": "Tour del Casco Antiguo en Tuk-Tuk Eléctrico con Guía en Chiang Mai",
+  "fullDescription": "Esta es una experiencia de 3 horas en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía turístico, paseo en tuk-tuk eléctrico y agua embotellada. No incluye tarifa de entrada - Wat Sri Suphan 50 THB por persona, tarifa de entrada - Wat Phra Singh 50 THB por persona, tarifa de entrada - Wat Chedi Luang Varavihara 50 THB por y comida, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 horas",
+   "Guía turístico de habla inglesa",
+   "Paseo en tuk-tuk eléctrico",
+   "Agua embotellada"
+  ],
+  "included": [
+   "Guía turístico de habla inglesa",
+   "Paseo en tuk-tuk eléctrico",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada - Wat Sri Suphan 50 THB por persona",
+   "Tarifa de entrada - Wat Phra Singh 50 THB por persona",
+   "Tarifa de entrada - Wat Chedi Luang Varavihara 50 THB por persona",
+   "Comida"
+  ],
+  "shortDescription": "Tour de 3 horas en Chiang Mai, que incluye guía turístico, paseo en tuk-tuk eléctrico y agua embotellada. Operador: CanalTour x ExploreSiam, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour del Casco Antiguo en Tuk-Tuk Eléctrico con Guía en Chiang Mai",
+  "metaDescription": "Tour de 3 horas en Chiang Mai. Incluye: guía turístico. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "jungle-jumbo-elephant-sanctuary-with-waterfall-in-chiang-mai": {
   "title": "Santuario de Elefantes Jungle Jumbo con Cascada en Chiang Mai",
@@ -29387,6 +29664,32 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Santuario de Elefantes Jungle Jumbo con Cascada en Chiang Mai",
   "metaDescription": "Tour de medio día en Chiang Mai. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
+ "family-with-kids-farm-experience-buffaloes-rice-and-crafts-in-chiang-mai": {
+  "title": "Experiencia Familiar en la Granja: Búfalos, Arroz y Artesanía en Chiang Mai",
+  "fullDescription": "Esta es una experiencia de 2 horas en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye experiencia privada en familia, traje tradicional de agricultor teñido con índigo, bebida de hierbas refrescante y frutas de temporada, instructor y tarifa de entrada a la granja. No incluye recogida y regreso al hotel y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 horas",
+   "Experiencia privada en familia (experiencia exclusiva solo para su grupo)",
+   "Traje tradicional de agricultor teñido con índigo (alquiler gratuito)",
+   "Bebida de hierbas refrescante y frutas de temporada",
+   "Instructor local",
+   "Tarifa de entrada a la granja"
+  ],
+  "included": [
+   "Experiencia privada en familia (experiencia exclusiva solo para su grupo)",
+   "Traje tradicional de agricultor teñido con índigo (alquiler gratuito)",
+   "Bebida de hierbas refrescante y frutas de temporada",
+   "Instructor local",
+   "Tarifa de entrada a la granja"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de 2 horas en Chiang Mai, que incluye experiencia privada en familia, traje tradicional de agricultor teñido con índigo y bebida de hierbas refrescante y frutas de temporada. Operador: Hang Tueng farm, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Experiencia Familiar en la Granja: Búfalos, Arroz y Artesanía en Chiang Mai",
+  "metaDescription": "Tour de 2 horas en Chiang Mai. Incluye: experiencia privada en familia. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "doi-suthep-and-wat-umong-twilight-tour-with-pickup": {
   "title": "Tour al Anochecer de Doi Suthep y Wat Umong con Recogida",
   "fullDescription": "Esta es una experiencia de 4 horas desde Chiang Mai, centrada en Wat Umong y Wat Phra That Doi Suthep. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel en la ciudad de Chiang Mai, tarifa de entrada y guía. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nChiang Mai. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -29407,6 +29710,61 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de medio día en Chiang Mai, con Wat Umong y Wat Phra That Doi Suthep. Operador: Oh-Hoo, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Tour al Anochecer de Doi Suthep y Wat Umong con Recogida",
   "metaDescription": "Tour de medio día en Chiang Mai. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "thai-silk-weaving-workshop-with-lunch-in-chiang-mai": {
+  "title": "Taller de Tejido de Seda Tailandesa con Almuerzo en Chiang Mai",
+  "fullDescription": "Esta es una experiencia de 5 horas en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel, comida, demostración de hilado de hilo de seda, demostración de tejido de seda cruzada y demostración de teñido anudado natural. No incluye gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Chiang Mai. Methavee Travel confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 5 horas",
+   "Recogida y regreso al hotel",
+   "Comida",
+   "Demostración de hilado de hilo de seda",
+   "Demostración de tejido de seda cruzada",
+   "Demostración de teñido anudado natural"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Comida",
+   "Demostración de hilado de hilo de seda",
+   "Demostración de tejido de seda cruzada",
+   "Demostración de teñido anudado natural",
+   "Su propio producto hecho a mano"
+  ],
+  "notIncluded": [
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de medio día en Chiang Mai, que incluye recogida y regreso al hotel, comida y demostración de hilado de hilo de seda. Operador: Methavee Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Taller de Tejido de Seda Tailandesa con Almuerzo en Chiang Mai",
+  "metaDescription": "Tour de medio día en Chiang Mai. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "sticky-waterfall-wat-ban-den-and-dantewada-tour-in-chiang-mai": {
+  "title": "Tour de la Cascada Pegajosa, Wat Ban Den y Dantewada en Chiang Mai",
+  "fullDescription": "Esta es una experiencia de 9 horas desde Chiang Mai, centrada en Tierra de Dantewada, Café local y Restaurante local. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel, transporte en vehículo climatizado, guía turístico, tarifa de entrada a Dantewada y agua potable en botella de cristal. No incluye gastos personales, comida, comida y bebidas adicionales y compras opcionales en Cafe Elephant, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Chiang Mai. TripGuru Thailand confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Tierra de Dantewada",
+   "Café local",
+   "Restaurante local",
+   "Cascadas escalables de Bua Thong",
+   "Duración: 9 horas",
+   "Recogida y regreso al hotel (si se selecciona la opción)"
+  ],
+  "included": [
+   "Recogida y regreso al hotel (si se selecciona la opción)",
+   "Transporte en vehículo climatizado",
+   "Guía de habla inglesa",
+   "Tarifa de entrada a Dantewada",
+   "Agua potable en botella de cristal",
+   "Seguro básico de accidentes"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Comida",
+   "Comida y bebidas adicionales",
+   "Compras opcionales en Cafe Elephant"
+  ],
+  "shortDescription": "Tour de día completo en Chiang Mai, con Tierra de Dantewada, Local café and Wat Ban Den Temple y Chiang Mai. Operador: TripGuru Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour de la Cascada Pegajosa, Wat Ban Den y Dantewada en Chiang Mai",
+  "metaDescription": "Tour de día completo en Chiang Mai. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "early-morning-doi-suthep-with-monk-chanting-and-alms-chiang-mai": {
   "title": "Doi Suthep de Madrugada con Cantos Monásticos y Limosnas (Chiang Mai)",
@@ -29430,6 +29788,32 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de medio día en Chiang Mai, que incluye conductor con coche con aire acondicionado, guía autorizado y entradas. Operador: บริษัท ทัวริสต์ อินฟอร์เมชั่น เซ็นเตอร์ จำกัด, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Doi Suthep de Madrugada con Cantos Monásticos y Limosnas",
   "metaDescription": "Tour de medio día en Chiang Mai. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "small-group-sticky-falls-and-dantewada-adventure-in-chiang-mai": {
+  "title": "Aventura en Grupo Pequeño a las Cascadas Pegajosas y Dantewada en Chiang Mai",
+  "fullDescription": "Esta es una experiencia de 5 horas desde Chiang Mai, centrada en Cascadas escalables de Bua Thong y Distrito de Mae Taeng. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel, todas las entradas, guía de habla inglesa y coche con conductor, agua potable refrescante y seguro de viaje incluido. No incluye gastos personales durante el viaje y comida, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nChiang Mai. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Cascadas escalables de Bua Thong",
+   "Distrito de Mae Taeng",
+   "Duración: 5 horas",
+   "Recogida y regreso al hotel",
+   "Todas las entradas",
+   "Guía de habla inglesa y coche con conductor"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Todas las entradas",
+   "Guía de habla inglesa y coche con conductor",
+   "Agua potable refrescante",
+   "Seguro de viaje incluido"
+  ],
+  "notIncluded": [
+   "Gastos personales durante el viaje",
+   "Comida"
+  ],
+  "shortDescription": "Tour de medio día en Chiang Mai, con Cascadas escalables de Bua Thong y Distrito de Mae Taeng. Operador: KiKi CM Tour., con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Aventura en Grupo Pequeño a las Cascadas Pegajosas y Dantewada en Chiang Mai",
+  "metaDescription": "Tour de medio día en Chiang Mai. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "thai-buffalo-and-rice-planting-experience-in-chiang-mai": {
   "title": "Experiencia de Búfalo Tailandés y Plantación de Arroz en Chiang Mai",
@@ -29475,6 +29859,33 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de día completo en Chiang Mai, que incluye transporte de ida y vuelta, guía y agua potable. Operador: Oh-Hoo, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Sendero Natural de Kew Mae Pan y Excursión de un Día a Doi Inthanon",
   "metaDescription": "Tour de día completo en Chiang Mai. Incluye: transporte de ida y vuelta. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "elephant-sanctuary-monk-trail-and-doi-suthep-tour": {
+  "title": "Tour del Santuario de Elefantes, el Sendero de los Monjes y Doi Suthep",
+  "fullDescription": "Esta es una experiencia de día completo desde Chiang Mai, centrada en Wat Pha Lat, Wat Phra That Doi Suthep y PON ELEPHANT THAILAND. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye traslados al hotel solo desde y hacia el centro de Chiang Mai, seguro de accidentes de viaje de primera clase, guía de habla inglesa, agua potable y almuerzo y comida para dar de comer a los elefantes. No incluye toalla y ropa de cambio, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Chiang Mai. PON ELEPHANT (THAILAND) CO., LTD. confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Wat Pha Lat",
+   "Wat Phra That Doi Suthep",
+   "PON ELEPHANT THAILAND",
+   "Duración: día completo",
+   "Traslados al hotel solo desde y hacia el centro de Chiang Mai",
+   "Seguro de accidentes de viaje de primera clase"
+  ],
+  "included": [
+   "Traslados al hotel solo desde y hacia el centro de Chiang Mai",
+   "Seguro de accidentes de viaje de primera clase",
+   "Guía de habla inglesa",
+   "Agua potable y almuerzo",
+   "Comida para dar de comer a los elefantes",
+   "Duchas y aseos",
+   "Todas las entradas"
+  ],
+  "notIncluded": [
+   "Toalla y ropa de cambio"
+  ],
+  "shortDescription": "Tour de día completo en Chiang Mai, con Wat Pha Lat, Wat Phra That Doi Suthep y Pon Elephant Thailand. Operador: PON ELEPHANT (THAILAND) CO., LTD., con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour del Santuario de Elefantes, el Sendero de los Monjes",
+  "metaDescription": "Tour de día completo en Chiang Mai. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "elephant-dream-project-sanctuary-half-day-in-chiang-mai": {
   "title": "Santuario Elephant Dream Project - Medio Día en Chiang Mai",
@@ -29544,6 +29955,60 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour de 1 hora en Chiang Mai, que incluye seguro de accidentes y comida para los elefantes. Operador: Elephant Jungle Sanctuary Chiang Mai, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Programa Ético de Encuentro y Alimentación de Elefantes en Chiang Mai",
   "metaDescription": "Tour de 1 hora en Chiang Mai. Incluye: seguro de accidentes. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "sticky-waterfall-by-local-truck-with-market-stop-in-chiang-mai": {
+  "title": "Cascada Pegajosa en Camión Local con Parada en el Mercado en Chiang Mai",
+  "fullDescription": "Esta es una experiencia de 4 horas desde Chiang Mai, centrada en Mercado de Chedi Mae Khrua y Cascadas escalables de Bua Thong. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye traslado de ida y vuelta en camión rojo, aperitivos o frutas sencillas del norte de Tailandia, parada en un mercado local y tiempo libre en el parque nacional de Bua Thong. No incluye recogida y regreso al hotel, guía, comidas y bebidas no mencionadas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nDiscova Day Tour Shop Chiang Mai. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Mercado de Chedi Mae Khrua",
+   "Cascadas escalables de Bua Thong",
+   "Duración: 4 horas",
+   "Traslado de ida y vuelta en camión rojo",
+   "Aperitivos o frutas sencillas del norte de Tailandia",
+   "Parada en un mercado local"
+  ],
+  "included": [
+   "Traslado de ida y vuelta en camión rojo",
+   "Aperitivos o frutas sencillas del norte de Tailandia",
+   "Parada en un mercado local",
+   "Tiempo libre en el parque nacional de Bua Thong"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Guía",
+   "Comidas y bebidas no mencionadas",
+   "Gastos personales",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de medio día en Chiang Mai, con Mercado de Chedi Mae Khrua y Cascadas escalables de Bua Thong. Operador: Discova Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Cascada Pegajosa en Camión Local con Parada en el Mercado en Chiang Mai",
+  "metaDescription": "Tour de medio día en Chiang Mai. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "doi-inthanon-waterfalls-and-tribal-villages-tour": {
+  "title": "Tour de Doi Inthanon, Cascadas y Pueblos Tribales",
+  "fullDescription": "Esta es una experiencia de 10 horas en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye transporte de ida y vuelta en coche o minivan con aire acondicionado, comida, agua potable, guía y seguro. No incluye tasa del Parque Nacional y entradas a las pagodas del Rey y la Reina, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 10 horas",
+   "Transporte de ida y vuelta en coche o minivan con aire acondicionado desde el casco antiguo de Chiang Mai y la zona de Nimman",
+   "Almuerzo (menú fijo)",
+   "Agua potable",
+   "Guía",
+   "Seguro"
+  ],
+  "included": [
+   "Transporte de ida y vuelta en coche o minivan con aire acondicionado desde el casco antiguo de Chiang Mai y la zona de Nimman",
+   "Almuerzo (menú fijo)",
+   "Agua potable",
+   "Guía",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Tarifa del parque nacional (300 THB/adulto y 150 THB/niño)",
+   "Entradas a las pagodas del Rey y la Reina (100 THB/adulto y 50 THB/niño)"
+  ],
+  "shortDescription": "Tour de día completo en Chiang Mai, que incluye transporte de ida y vuelta en coche o minivan con aire acondicionado, comida y agua potable. Operador: Oh-Hoo, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour de Doi Inthanon, Cascadas y Pueblos Tribales",
+  "metaDescription": "Tour de día completo en Chiang Mai. Reserva directa con el operador local y confirmación antes de cerrar la"
  },
  "scenic-view-atv-tour-and-pineapple-farm-visit-in-chiang-rai-chiang-mai": {
   "title": "Tour en ATV con Vista Panorámica y Visita a una Granja de Piñas en Chiang Rai (Chiang Mai)",
@@ -29616,6 +30081,29 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Dos Días en Pa Pong Piang en Chiang Mai",
   "metaDescription": "Tour de 2 días en Chiang Mai. Incluye: comidas y transporte. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "doi-inthanon-and-wachirathan-waterfall-tour": {
+  "title": "Tour de Doi Inthanon y la Cascada de Wachirathan",
+  "fullDescription": "Esta es una experiencia de 9,5 horas en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye 1. Recogida y regreso en el punto de encuentro en Chiang Mai, 2. Guía turístico, 3. Tarifas de entrada, 4. Agua potable embotellada y 5. Seguro de accidentes de viaje. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Chiang Mai. STANDARD TOUR CO LTD confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 9,5 horas",
+   "1. Recogida y regreso en el punto de encuentro en Chiang Mai",
+   "2. Guía turístico",
+   "3. Tarifas de entrada",
+   "4. Agua potable embotellada",
+   "5. Seguro de accidentes de viaje"
+  ],
+  "included": [
+   "1. Recogida y regreso en el punto de encuentro en Chiang Mai",
+   "2. Guía turístico",
+   "3. Tarifas de entrada",
+   "4. Agua potable embotellada",
+   "5. Seguro de accidentes de viaje"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour de día completo en Chiang Mai, que incluye 1. Recogida y regreso en el punto de encuentro en Chiang Mai, 2. Guía turístico y 3. Tarifas de entrada. Operador: STANDARD TOUR CO LTD, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour de Doi Inthanon y la Cascada de Wachirathan",
+  "metaDescription": "Tour de día completo en Chiang Mai. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
  "doi-inthanon-and-elephant-sanctuary-tour": {
   "title": "Tour de Doi Inthanon y el Santuario de Elefantes",
   "fullDescription": "Esta es una experiencia de día completo en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía, recogida y regreso al hotel en el centro de Chiang Mai, tarifa de entrada al santuario de elefantes, tarifa de entrada al parque nacional de Doi Inthanon y comida. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Chiang Mai. PON ELEPHANT (THAILAND) CO., LTD. confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -29664,6 +30152,110 @@ export const ES_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour en Chiang Mai, que incluye recogida desde el hotel en Chiang Mai, entrada gratuita al parque ecológico de elefantes de Mae Wang y bufé de almuerzo tailandés. Operador: Chiang Mai Butler Services, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Parque Ecológico de Elefantes con Opciones de ATV, Balsa, Cascada, Tirolina y Tribu en Chiang Mai",
   "metaDescription": "Tour en Chiang Mai. Incluye: recogida desde el hotel en Chiang Mai. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "historical-and-culture-exploration-walking-tour-in-chiang-mai": {
+  "title": "Tour a Pie de Exploración Histórica y Cultural en Chiang Mai",
+  "fullDescription": "Esta es una experiencia de 3 minutos desde Chiang Mai, centrada en Monumento de los Tres Reyes, Wat Phra Singh y Wat Chedi Luang. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía, todas las tarifas de entrada de las entradas, agua y seguro de tour. No incluye recogida y regreso al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nThree Kings Monument. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Monumento de los Tres Reyes",
+   "Wat Phra Singh",
+   "Wat Chedi Luang",
+   "Duración: 3 minutos",
+   "Guía de habla inglesa",
+   "Todas las tarifas de entrada de las entradas"
+  ],
+  "included": [
+   "Guía de habla inglesa",
+   "Todas las tarifas de entrada de las entradas",
+   "Agua",
+   "Seguro de tour"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel"
+  ],
+  "shortDescription": "Tour de 0,05 horas en Chiang Mai, con Monumento de los Tres Reyes, Wat Phra Singh y Wat Chedi Luang. Operador: Discova Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour a Pie de Exploración Histórica y Cultural en Chiang Mai",
+  "metaDescription": "Tour de 0,05 horas en Chiang Mai. Incluye: guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "elephant-sanctuary-long-neck-and-sticky-waterfall-in-chiang-mai": {
+  "title": "Santuario de Elefantes, Pueblo de Cuellos Largos y Cascada Pegajosa en Chiang Mai",
+  "fullDescription": "Esta es una experiencia de 9 horas en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entradas, almuerzo tailandés, toalla refrescante, plátano y comida para alimentar a su elefante y seguro de viaje local de primera clase. No incluye gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 9 horas",
+   "Entradas",
+   "Almuerzo tailandés, aperitivos, fruta y agua",
+   "Toalla refrescante",
+   "Plátano y comida para alimentar a su elefante",
+   "Seguro de viaje local de primera clase"
+  ],
+  "included": [
+   "Entradas",
+   "Almuerzo tailandés, aperitivos, fruta y agua",
+   "Toalla refrescante",
+   "Plátano y comida para alimentar a su elefante",
+   "Seguro de viaje local de primera clase",
+   "Guía turístico informativo que habla inglés"
+  ],
+  "notIncluded": [
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de día completo en Chiang Mai, que incluye entradas, almuerzo tailandés y toalla refrescante. Operador: PON ELEPHANT (THAILAND) CO., LTD., con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Santuario de Elefantes, Pueblo de Cuellos Largos y Cascada Pegajosa en Chiang Mai",
+  "metaDescription": "Tour de día completo en Chiang Mai. Incluye: entradas y almuerzo tailandés. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "doi-inthanon-national-park-eco-friendly-tour": {
+  "title": "Tour Ecológico del Parque Nacional de Doi Inthanon",
+  "fullDescription": "Esta es una experiencia de 9 horas en Chiang Mai, centrada en Parque nacional de Doi Inthanon, Sendero natural de Ang Ka y Gran pagoda Nabhapolbhumisiri. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel, tarifas de entrada al parque nacional de Doi Inthanon, transporte en vehículo con aire acondicionado, guía y una botella de cristal de agua potable. No incluye comida y bebidas adicionales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Chiang Mai. TripGuru Thailand confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Parque nacional de Doi Inthanon",
+   "Sendero natural de Ang Ka",
+   "Gran pagoda Nabhapolbhumisiri",
+   "Chiang Mai",
+   "Duración: 9 horas",
+   "Recogida y regreso al hotel (si eliges la opción)"
+  ],
+  "included": [
+   "Recogida y regreso al hotel (si eliges la opción)",
+   "Tarifas de entrada al parque nacional de Doi Inthanon (si se selecciona la opción)",
+   "Transporte en vehículo con aire acondicionado",
+   "Guía",
+   "Una botella de cristal de agua potable",
+   "Seguro",
+   "Créditos de compensación de emisiones de carbono"
+  ],
+  "notIncluded": [
+   "Comida y bebidas adicionales"
+  ],
+  "shortDescription": "Tour de día completo en Chiang Mai, con Parque nacional de Doi Inthanon, Sendero natural de Ang Ka y Gran pagoda Nabhapolbhumisiri. Operador: TripGuru Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour Ecológico del Parque Nacional de Doi Inthanon",
+  "metaDescription": "Tour de día completo en Chiang Mai. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "living-green-elephant-sanctuary-day-trip-in-chiang-mai": {
+  "title": "Excursión de un Día al Santuario de Elefantes Living Green en Chiang Mai",
+  "fullDescription": "Esta es una experiencia de 3 horas en Chiang Mai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye comida, charla informativa sobre elefantes, interacción con elefantes, senderismo con elefantes y baño con los elefantes. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Chiang Mai. Living Green Elephant Sanctuary Chiang Mai and Chonburi confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 horas",
+   "Comida local (vegetariana)",
+   "Charla informativa sobre elefantes",
+   "Interacción con elefantes",
+   "Senderismo con elefantes",
+   "Baño con los elefantes"
+  ],
+  "included": [
+   "Comida local (vegetariana)",
+   "Charla informativa sobre elefantes",
+   "Interacción con elefantes",
+   "Senderismo con elefantes",
+   "Baño con los elefantes",
+   "Recogida y regreso al hotel (según el paquete seleccionado)"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de 3 horas en Chiang Mai, que incluye comida, charla informativa sobre elefantes y interacción con elefantes. Operador: Living Green Elephant Sanctuary Chiang Mai and Chonburi, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Excursión de un Día al Santuario de Elefantes Living Green en Chiang Mai",
+  "metaDescription": "Tour de 3 horas en Chiang Mai. Incluye: comida. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
  "alcazar-theatre-pattaya-second-road-evening-tour": {
   "title": "Pattaya: entrada del espectáculo de cabaré Alcazar por la noche",
