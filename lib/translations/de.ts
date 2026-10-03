@@ -28790,6 +28790,881 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Schwimmender Markt, Maeklong-Zugmarkt und Drache",
   "metaDescription": "Ganztägige Tour in Krabi. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "exclusive-doi-suthep-waterfall-karen-tribe-tour": {
+  "title": "Exklusive Doi-Suthep-Wasserfall-Karen-Stamm-Tour",
+  "fullDescription": "Dies ist ein ganztägiges Erlebnis ab Chiang Mai, rund um Nationalpark Doi Suthep-Pui, Wat Pha Lat und Bai-Orchideen- und Schmetterlingsfarm. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab McDonald's und Wat Phra Singh Woramahawihan möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Doisuthep the Exotic Trek Chiangmai abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Übersetzung, Tickets, Reiseleiter, Versicherungsschutz und Trinkwasser. Nicht enthalten sind Seilbahnticket zum Tempel, zusätzlich 20 Baht, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Nationalpark Doi Suthep-Pui",
+   "Wat Pha Lat",
+   "Bai-Orchideen- und Schmetterlingsfarm",
+   "Dauer: ganztägig",
+   "Übersetzung",
+   "Tickets"
+  ],
+  "included": [
+   "Übersetzung",
+   "Tickets",
+   "Englischsprachiger Reiseleiter",
+   "Versicherungsschutz",
+   "Trinkwasser",
+   "Mittagessen"
+  ],
+  "notIncluded": [
+   "Seilbahnticket zum Tempel, zusätzlich 20 Baht"
+  ],
+  "shortDescription": "Ganztägige Tour in Chiang Mai, mit Nationalpark Doi Suthep-Pui, Wat Pha Lat und Bai-Orchideen- und Schmetterlingsfarm. Durchgeführt von Doisuthep the Exotic Trek Chiangmai, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Exklusive Doi-Suthep-Wasserfall-Karen-Stamm-Tour",
+  "metaDescription": "Ganztägige Tour in Chiang Mai. Enthalten: Übersetzung, Tickets und Reiseleiter. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "experience-an-elephant-sanctuary-and-sticky-waterfall-in-chiang-mai": {
+  "title": "Erleben Sie ein Elefantenschutzgebiet und den Klebewasserfall in Chiang Mai",
+  "fullDescription": "Dies ist ein 7-stündiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Besuch des Wasserfallparks Dantewada, Land der Engel, Besuch des Bua-Tong-Wasserfalls, Besuch eines Elefantenschutzgebiets und Mittagessen inklusive. Nicht enthalten sind Persönliche Ausgaben und Trinkgeld, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 7 Stunden",
+   "Besuch des Wasserfallparks Dantewada, Land der Engel",
+   "Besuch des Bua-Tong-Wasserfalls",
+   "Besuch eines Elefantenschutzgebiets",
+   "Mittagessen inklusive"
+  ],
+  "included": [
+   "Besuch des Wasserfallparks Dantewada, Land der Engel",
+   "Besuch des Bua-Tong-Wasserfalls",
+   "Besuch eines Elefantenschutzgebiets",
+   "Mittagessen inklusive"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgeld"
+  ],
+  "shortDescription": "Ganztägige Tour in Chiang Mai, inklusive Besuch des Wasserfallparks Dantewada, Land der Engel, Besuch des Bua-Tong-Wasserfalls und Besuch eines Elefantenschutzgebiets. Durchgeführt von Methavee Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Erleben Sie ein Elefantenschutzgebiet und den Klebewasserfall in Chiang Mai",
+  "metaDescription": "Ganztägige Tour in Chiang Mai. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "local-fabric-tie-dye-workshop-with-hotel-pickup-in-chiang-mai": {
+  "title": "Lokaler Batik-Workshop mit Hotelabholung in Chiang Mai",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 3-stündiger Batik-Workshop, Alle Ausrüstung und Werkzeuge bereitgestellt und Abholung und Rückfahrt zum Hotel. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Chiang Mai. Methavee Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3 Stunden",
+   "3-stündiger Batik-Workshop",
+   "Alle Ausrüstung und Werkzeuge bereitgestellt",
+   "Abholung und Rückfahrt zum Hotel"
+  ],
+  "included": [
+   "3-stündiger Batik-Workshop",
+   "Alle Ausrüstung und Werkzeuge bereitgestellt",
+   "Abholung und Rückfahrt zum Hotel"
+  ],
+  "notIncluded": [],
+  "shortDescription": "3-stündige Tour in Chiang Mai, inklusive 3-stündiger Batik-Workshop, Alle Ausrüstung und Werkzeuge bereitgestellt und Abholung und Rückfahrt zum Hotel. Durchgeführt von Methavee Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lokaler Batik-Workshop mit Hotelabholung in Chiang Mai",
+  "metaDescription": "3-stündige Tour in Chiang Mai. Enthalten: 3-stündiger Batik-Workshop. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "chiang-mai-organic-thai-cooking-experience-by-local-operator": {
+  "title": "Bio-Thai-Kocherlebnis in Chiang Mai von einem lokalen Anbieter",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nThailändische Kochkurse folgen einem Muster, das funktioniert: ein Gang über den Markt, um Galgant, Zitronengras, Kaffirlimette und heiliges Basilikum zu kaufen, während die Lehrkraft erklärt, was jedes davon tut, dann vier oder fünf Gerichte, eines nach dem anderen an eigenen Stationen gekocht, meist eine von Grund auf gestampfte Currypaste, ein Wokgericht, eine Suppe und ein Dessert, gegessen, sowie sie fertig sind. Die Kurse in Chiang Mai auf Biobauernhöfen außerhalb der Stadt sind die entspanntesten; die in Bangkok in alten Ladenhäusern die geschliffensten; die auf Phuket nehmen oft Meeresfrüchte dazu. Vegetarische und vegane Fassungen sind Standard, und ein Kurs ist der schnellste Weg zu verstehen, warum thailändisches Essen so schmeckt, wie es schmeckt.\n\nIm Preis enthalten sind Kostenloser Transport im Umkreis von 3 km von Chiang, Marktrundgang, Besuch eines Biohofs, Alle Zutaten zum Kochen und Vegetarische/vegane Mahlzeitoption. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 4 Stunden",
+   "Kostenloser Transport im Umkreis von 3 km der Innenstadt von Chiang Mai",
+   "Rundgang über einen lokalen Markt",
+   "Besuch eines Biohofs",
+   "Alle Zutaten zum Kochen",
+   "Vegetarische/vegane Mahlzeitoption"
+  ],
+  "included": [
+   "Kostenloser Transport im Umkreis von 3 km der Innenstadt von Chiang Mai",
+   "Rundgang über einen lokalen Markt",
+   "Besuch eines Biohofs",
+   "Alle Zutaten zum Kochen",
+   "Vegetarische/vegane Mahlzeitoption",
+   "WLAN-Internet",
+   "Rezeptbuch"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Halbtägige Tour in Chiang Mai, inklusive Kostenloser Transport im Umkreis von 3 km von Chiang, Marktrundgang und Besuch eines Biohofs. Durchgeführt von Oh-Hoo, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Bio-Thai-Kocherlebnis in Chiang Mai von einem lokalen Anbieter",
+  "metaDescription": "Halbtägige Tour in Chiang Mai. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "wat-pha-lat-wat-phra-that-doi-suthep-and-hmong-tour-chiang-mai": {
+  "title": "Wat-Pha-Lat-, Wat-Phra-That-Doi-Suthep- und Hmong-Tour (Chiang Mai)",
+  "fullDescription": "Dies ist ein 3,5-stündiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Besuch des Wat Pha Lat, Besuch des Wat Phra That Doi Suthep, Besuch eines Hmong-Dorfes, Guide und Klimatisiertes Fahrzeug. Nicht enthalten sind Mahlzeiten und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nChiang Mai. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 3,5 Stunden",
+   "Besuch des Wat Pha Lat",
+   "Besuch des Wat Phra That Doi Suthep",
+   "Besuch eines Hmong-Dorfes",
+   "Einheimischer Guide",
+   "Klimatisiertes Fahrzeug"
+  ],
+  "included": [
+   "Besuch des Wat Pha Lat",
+   "Besuch des Wat Phra That Doi Suthep",
+   "Besuch eines Hmong-Dorfes",
+   "Einheimischer Guide",
+   "Klimatisiertes Fahrzeug"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Halbtägige Tour in Chiang Mai, inklusive Besuch des Wat Pha Lat, Besuch des Wat Phra That Doi Suthep und Besuch eines Hmong-Dorfes. Durchgeführt von SNP Chiangmai Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Wat-Pha-Lat-, Wat-Phra-That-Doi-Suthep- und Hmong-Tour",
+  "metaDescription": "Halbtägige Tour in Chiang Mai. Enthalten: Besuch des Wat Pha Lat. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "chiang-mai-full-day-guided-backroad-self-drive-scooter-tour-by-local-operator": {
+  "title": "Ganztägige geführte Scooter-Selbstfahrertour auf Nebenstraßen in Chiang Mai von einem lokalen Anbieter",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Rollervermietung, Führung, Besuch von Aussichtspunkten, Höhlenbesuch und Fahrt auf unbefestigten Straßen. Nicht enthalten sind Trinkgelder für die Reiseleiter und Alkohol, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 8 Stunden",
+   "Rollervermietung",
+   "Führung",
+   "Besuch von Aussichtspunkten",
+   "Höhlenbesuch",
+   "Fahrt auf unbefestigten Straßen"
+  ],
+  "included": [
+   "Rollervermietung",
+   "Führung",
+   "Besuch von Aussichtspunkten",
+   "Höhlenbesuch",
+   "Fahrt auf unbefestigten Straßen",
+   "Fahrt in Flüsse",
+   "Alle Mahlzeiten",
+   "Softdrinks",
+   "Kraftstoff"
+  ],
+  "notIncluded": [
+   "Trinkgelder für die Reiseleiter",
+   "Alkohol"
+  ],
+  "shortDescription": "Ganztägige Tour in Chiang Mai, inklusive Rollervermietung, Führung und Besuch von Aussichtspunkten. Durchgeführt von Chiangmai Scooter Adventure, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ganztägige geführte Scooter-Selbstfahrertour auf Nebenstraßen in Chiang Mai von einem lokalen Anbieter",
+  "metaDescription": "Ganztägige Tour in Chiang Mai. Enthalten: Rollervermietung und Führung. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "crystal-bead-diy-bracelet-workshop-with-shuttle-in-chiang-mai": {
+  "title": "Kristallperlen-DIY-Armband-Workshop mit Shuttle in Chiang Mai",
+  "fullDescription": "Dies ist ein 2-stündiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Workshop-Material für 1 Armband, 1 Spezial-Set und Hin- und Rück-Shuttleservice. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nMueang Chiang Mai District. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Stunden",
+   "Workshop-Material für 1 Armband",
+   "1 Spezial-Set (Getränk und Kuchen)",
+   "Hin- und Rück-Shuttleservice"
+  ],
+  "included": [
+   "Workshop-Material für 1 Armband",
+   "1 Spezial-Set (Getränk und Kuchen)",
+   "Hin- und Rück-Shuttleservice"
+  ],
+  "notIncluded": [],
+  "shortDescription": "2-stündige Tour in Chiang Mai, inklusive Workshop-Material für 1 Armband, 1 Spezial-Set und Hin- und Rück-Shuttleservice. Durchgeführt von GEMS GALLERY CHIANG MAI, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Kristallperlen-DIY-Armband-Workshop mit Shuttle in Chiang Mai",
+  "metaDescription": "2-stündige Tour in Chiang Mai. Enthalten: Workshop-Material für 1 Armband. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "thaphae-boxing-stadium-muay-thai-ticket-in-chiang-mai": {
+  "title": "Muay-Thai-Ticket im Thaphae-Boxstadion in Chiang Mai",
+  "fullDescription": "Dies ist ein Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Eintrittskarte für einen Platz und Zugang zur Muay-Thai-Kampfabend-Show. Nicht enthalten sind Speisen und Getränke, Hoteltransfers und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Eintrittskarte für einen Platz",
+   "Zugang zur Muay-Thai-Kampfabend-Show"
+  ],
+  "included": [
+   "Eintrittskarte für einen Platz",
+   "Zugang zur Muay-Thai-Kampfabend-Show"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke",
+   "Hoteltransfers",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Eintrittskarte in Chiang Mai, inklusive Eintrittskarte für einen Platz und Zugang zur Muay-Thai-Kampfabend-Show. Durchgeführt von GlobalTix (Thailand) Co., Ltd., direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Muay-Thai-Ticket im Thaphae-Boxstadion in Chiang Mai",
+  "metaDescription": "Eintrittskarte in Chiang Mai. Enthalten: Eintrittskarte für einen Platz. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "chiang-mai-khantoke-dinner-and-cultural-show-with-transfer-by-local-operator": {
+  "title": "Khantoke-Abendessen und Kulturshow mit Transfer in Chiang Mai von einem lokalen Anbieter",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Traditionelles nordthailändisches Khantoke-Abendessen, Live-Kulturshow, Hin- und Rück-Hoteltransfer innerhalb der Stadt Chiang Mai, Eintrittskarte für Khum Khantoke und Alle Steuern und Servicegebühren. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Chiang Mai. STANDARD TOUR CO LTD bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 4 Stunden",
+   "Traditionelles nordthailändisches Khantoke-Abendessen",
+   "Live-Kulturshow (thailändische Tänze und Aufführungen der Bergstämme)",
+   "Hin- und Rück-Hoteltransfer innerhalb der Stadt Chiang Mai",
+   "Eintrittskarte für Khum Khantoke",
+   "Alle Steuern und Servicegebühren"
+  ],
+  "included": [
+   "Traditionelles nordthailändisches Khantoke-Abendessen",
+   "Live-Kulturshow (thailändische Tänze und Aufführungen der Bergstämme)",
+   "Hin- und Rück-Hoteltransfer innerhalb der Stadt Chiang Mai",
+   "Eintrittskarte für Khum Khantoke",
+   "Alle Steuern und Servicegebühren"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Halbtägige Tour in Chiang Mai, inklusive Traditionelles nordthailändisches Khantoke-Abendessen, Live-Kulturshow und Hin- und Rück-Hoteltransfer innerhalb der Stadt Chiang Mai. Durchgeführt von STANDARD TOUR CO LTD, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Khantoke-Abendessen und Kulturshow mit Transfer in Chiang Mai von einem lokalen Anbieter",
+  "metaDescription": "Halbtägige Tour in Chiang Mai. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "thai-cooking-class-in-organic-garden-and-visit-local-market-in-chiang-mai": {
+  "title": "Thai-Kochkurs im Biogarten und Besuch des lokalen Marktes in Chiang Mai",
+  "fullDescription": "Dies ist ein Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nThailändische Kochkurse folgen einem Muster, das funktioniert: ein Gang über den Markt, um Galgant, Zitronengras, Kaffirlimette und heiliges Basilikum zu kaufen, während die Lehrkraft erklärt, was jedes davon tut, dann vier oder fünf Gerichte, eines nach dem anderen an eigenen Stationen gekocht, meist eine von Grund auf gestampfte Currypaste, ein Wokgericht, eine Suppe und ein Dessert, gegessen, sowie sie fertig sind. Die Kurse in Chiang Mai auf Biobauernhöfen außerhalb der Stadt sind die entspanntesten; die in Bangkok in alten Ladenhäusern die geschliffensten; die auf Phuket nehmen oft Meeresfrüchte dazu. Vegetarische und vegane Fassungen sind Standard, und ein Kurs ist der schnellste Weg zu verstehen, warum thailändisches Essen so schmeckt, wie es schmeckt.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Besuch eines lokalen Marktes, Praktischer Kochkurs, Alle Zutaten zum Kochen und Koch. Nicht enthalten sind Weitere Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Chiang Mai. LOCAL CNX. TOURS 99 CO., LTD. bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Besuch eines lokalen Marktes",
+   "Praktischer Kochkurs",
+   "Alle Zutaten zum Kochen",
+   "Lokaler Koch",
+   "Rezeptheft als PDF"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Besuch eines lokalen Marktes",
+   "Praktischer Kochkurs",
+   "Alle Zutaten zum Kochen",
+   "Lokaler Koch",
+   "Rezeptheft als PDF",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Weitere Ausgaben",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Tour in Chiang Mai, inklusive Abholung und Rückfahrt zum Hotel, Besuch eines lokalen Marktes und Praktischer Kochkurs. Durchgeführt von LOCAL CNX. TOURS 99 CO., LTD., direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Thai-Kochkurs im Biogarten und Besuch des lokalen Marktes in Chiang Mai",
+  "metaDescription": "Tour in Chiang Mai. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "elephant-dream-project-sanctuary-full-day-in-chiang-mai": {
+  "title": "Elephant-Dream-Project-Schutzgebiet - Ganztägig in Chiang Mai",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Chiang Mai, rund um Provinz Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfer in Chiang Mai, Mittagessen, Wasser, Futter zum Füttern der Elefanten und Eintrittskarten. Nicht enthalten sind Softdrinks, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nChiang Mai. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Provinz Chiang Mai",
+   "Dauer: 8 Stunden",
+   "Hin- und Rücktransfer in Chiang Mai",
+   "Mittagessen",
+   "Wasser",
+   "Futter zum Füttern der Elefanten"
+  ],
+  "included": [
+   "Hin- und Rücktransfer in Chiang Mai",
+   "Mittagessen",
+   "Wasser",
+   "Futter zum Füttern der Elefanten",
+   "Eintrittskarten"
+  ],
+  "notIncluded": [
+   "Softdrinks"
+  ],
+  "shortDescription": "Ganztägige Tour in Chiang Mai, mit Provinz Chiang Mai. Durchgeführt von Elephantdreamproject, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Elephant-Dream-Project-Schutzgebiet - Ganztägig in Chiang Mai",
+  "metaDescription": "Ganztägige Tour in Chiang Mai. Enthalten: Hin- und Rücktransfer in Chiang Mai. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "chiang-mai-sticky-waterfall-adventure-climb-like-spider-man-by-local-operator": {
+  "title": "Klebewasserfall-Abenteuer in Chiang Mai - Klettern wie Spider-Man! von einem lokalen Anbieter",
+  "fullDescription": "Dies ist ein 5-stündiges Erlebnis ab Chiang Mai, rund um Bua-Thong-Wasserfälle zum Hochklettern. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransport ab Chiang Mai und Fahrer. Nicht enthalten sind Guide und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bua-Thong-Wasserfälle zum Hochklettern",
+   "Dauer: 5 Stunden",
+   "Hin- und Rücktransport ab Chiang Mai",
+   "Englischsprachiger Fahrer"
+  ],
+  "included": [
+   "Hin- und Rücktransport ab Chiang Mai",
+   "Englischsprachiger Fahrer"
+  ],
+  "notIncluded": [
+   "Guide",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Halbtägige Tour in Chiang Mai, mit Bua-Thong-Wasserfälle zum Hochklettern. Durchgeführt von CHIANG MAI DAY TRIP, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Klebewasserfall-Abenteuer in Chiang Mai - Klettern wie Spider-Man! von einem lokalen Anbieter",
+  "metaDescription": "Halbtägige Tour in Chiang Mai. Enthalten: Hin- und Rücktransport ab Chiang Mai. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "doi-inthanon-tour-with-spanish-or-french-guide": {
+  "title": "Doi-Inthanon-Tour mit spanischem oder französischem Guide",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Chiang Mai, Ao Nang, Mueang Krabi District und Tubkak hotel and resort möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Ask Discovery Thailand abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Guide, Thailändisches Mittagessen, Trinkwasser und Reiseversicherung. Nicht enthalten sind Eintrittsgebühr für den Nationalpark Doi Inthanon, Persönliche Ausgaben und Optionale Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Chiang Mai. Ask Discovery Thailand bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 8 Stunden",
+   "Abholung und Rückfahrt zum Hotel",
+   "Englischsprachiger Guide",
+   "Thailändisches Mittagessen",
+   "Trinkwasser",
+   "Reiseversicherung"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Englischsprachiger Guide",
+   "Thailändisches Mittagessen",
+   "Trinkwasser",
+   "Reiseversicherung"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühr für den Nationalpark Doi Inthanon",
+   "Persönliche Ausgaben",
+   "Optionale Trinkgelder"
+  ],
+  "shortDescription": "Ganztägige Tour in Chiang Mai, inklusive Abholung und Rückfahrt zum Hotel, Guide und Thailändisches Mittagessen. Durchgeführt von Ask Discovery Thailand, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Doi-Inthanon-Tour mit spanischem oder französischem Guide",
+  "metaDescription": "Ganztägige Tour in Chiang Mai. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "dantewada-sticky-waterfall-and-doi-suthep-city-lights-tour-chiang-mai": {
+  "title": "Dantewada, Klebewasserfall und Doi-Suthep-Stadtlichter-Tour (Chiang Mai)",
+  "fullDescription": "Dies ist ein 7-stündiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Besuch von Dantewada, dem Land der Engel, Besuch des Sticky-Wasserfalls, Besuch des Wat Phra That Doi Suthep und Sonnenuntergangs-Aussichtspunkt auf dem Doi-Suthep-Berg. Nicht enthalten sind Mahlzeiten und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nChiang Mai. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 7 Stunden",
+   "Besuch von Dantewada, dem Land der Engel",
+   "Besuch des Klebewasserfalls (Bua-Tong-Wasserfall)",
+   "Besuch des Wat Phra That Doi Suthep",
+   "Sonnenuntergangs-Aussichtspunkt auf dem Doi-Suthep-Berg"
+  ],
+  "included": [
+   "Besuch von Dantewada, dem Land der Engel",
+   "Besuch des Klebewasserfalls (Bua-Tong-Wasserfall)",
+   "Besuch des Wat Phra That Doi Suthep",
+   "Sonnenuntergangs-Aussichtspunkt auf dem Doi-Suthep-Berg"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Ganztägige Tour in Chiang Mai, inklusive Besuch von Dantewada, dem Land der Engel, Besuch des Sticky-Wasserfalls und Besuch des Wat Phra That Doi Suthep. Durchgeführt von SNP Chiangmai Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Dantewada, Klebewasserfall und Doi-Suthep-Stadtlichter-Tour",
+  "metaDescription": "Ganztägige Tour in Chiang Mai. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "doi-inthanon-nature-group-trip-with-twin-pagodas": {
+  "title": "Doi-Inthanon-Naturgruppenreise mit den Zwillingspagoden",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Chiang Mai, rund um Wachirathan-Wasserfall, Nationalpark Doi Inthanon und Lokales Restaurant. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Nationalparkgebühr von 400 Baht, Guide, Hin- und Rücktransport im klimatisierten Auto oder Minivan und Mittagessen. Nicht enthalten sind Persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nOld City. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Wachirathan-Wasserfall",
+   "Nationalpark Doi Inthanon",
+   "Lokales Restaurant",
+   "Große Pagode Nabhapolbhumisiri",
+   "Dauer: 8 Stunden",
+   "Nationalparkgebühr von 400 Baht"
+  ],
+  "included": [
+   "Nationalparkgebühr von 400 Baht",
+   "Guide",
+   "Hin- und Rücktransport im klimatisierten Auto oder Minivan",
+   "Mittagessen"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Ganztägige Tour in Chiang Mai, mit Wachirathan-Wasserfall, Nationalpark Doi Inthanon und Lokales Restaurant. Durchgeführt von Happy Holiday Thailand, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Doi-Inthanon-Naturgruppenreise mit den Zwillingspagoden",
+  "metaDescription": "Ganztägige Tour in Chiang Mai. Enthalten: Nationalparkgebühr von 400 Baht. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "chat-with-a-monk-at-wat-chedi-luang-in-chiang-mai": {
+  "title": "Gespräch mit einem Mönch im Wat Chedi Luang in Chiang Mai",
+  "fullDescription": "Dies ist ein 2-stündiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Gespräch mit einem buddhistischen Mönch, Traditioneller buddhistischer Segen, Guide, Trinkwasser und Versicherung. Nicht enthalten sind Eintrittsgebühr: 50 THB pro Person, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Stunden",
+   "Gespräch mit einem buddhistischen Mönch",
+   "Traditioneller buddhistischer Segen",
+   "Englischsprachiger Guide",
+   "Trinkwasser",
+   "Versicherung"
+  ],
+  "included": [
+   "Gespräch mit einem buddhistischen Mönch",
+   "Traditioneller buddhistischer Segen",
+   "Englischsprachiger Guide",
+   "Trinkwasser",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühr: 50 THB pro Person"
+  ],
+  "shortDescription": "2-stündige Tour in Chiang Mai, inklusive Gespräch mit einem buddhistischen Mönch, Traditioneller buddhistischer Segen und Guide. Durchgeführt von CanalTour x ExploreSiam, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Gespräch mit einem Mönch im Wat Chedi Luang in Chiang Mai",
+  "metaDescription": "2-stündige Tour in Chiang Mai. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "doi-suthep-wat-umong-and-hmong-village-tour": {
+  "title": "Doi-Suthep-, Wat-Umong- und Hmong-Dorf-Tour",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis ab Chiang Mai, rund um Wat Phra That Doi Suthep, Hmong-Dorf und Wat Umong. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Führung und Hin- und Rücktransfers von und zu Ihrem Hotel [kostenlose Abholung. Nicht enthalten sind Mahlzeiten, Persönliche Ausgaben und Eintritte, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nChiang Mai. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Wat Phra That Doi Suthep",
+   "Hmong-Dorf",
+   "Wat Umong",
+   "Dauer: 4 Stunden",
+   "Führung",
+   "Hin- und Rücktransfers von und zu Ihrem Hotel [kostenlose Abholung in den umliegenden Gebieten der Altstadt]"
+  ],
+  "included": [
+   "Führung",
+   "Hin- und Rücktransfers von und zu Ihrem Hotel [kostenlose Abholung in den umliegenden Gebieten der Altstadt]"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persönliche Ausgaben",
+   "Eintritte"
+  ],
+  "shortDescription": "Halbtägige Tour in Chiang Mai, mit Wat Phra That Doi Suthep, Hmong-Dorf und Wat Umong. Durchgeführt von MPG Thailand, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Doi-Suthep-, Wat-Umong- und Hmong-Dorf-Tour",
+  "metaDescription": "Halbtägige Tour in Chiang Mai. Enthalten: Führung. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "chiang-mai-2-hr-canal-tour-local-life-and-thai-herb-garden-by-local-operator": {
+  "title": "2-Stunden-Kanaltour in Chiang Mai: lokales Leben und Thai-Kräutergarten von einem lokalen Anbieter",
+  "fullDescription": "Dies ist ein 2-stündiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Einheimischer Guide, Bootsfahrt, Eis und Kräutersaft, Versicherung und Hotelabholung/-rückfahrt. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nOld City. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Stunden",
+   "Englischsprachiger einheimischer Guide",
+   "Bootsfahrt",
+   "Eis und Kräutersaft",
+   "Versicherung",
+   "Hotelabholung/-rückfahrt"
+  ],
+  "included": [
+   "Englischsprachiger einheimischer Guide",
+   "Bootsfahrt",
+   "Eis und Kräutersaft",
+   "Versicherung",
+   "Hotelabholung/-rückfahrt"
+  ],
+  "notIncluded": [],
+  "shortDescription": "2-stündige Tour in Chiang Mai, inklusive Einheimischer Guide, Bootsfahrt und Eis und Kräutersaft. Durchgeführt von CanalTour x ExploreSiam, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "2-Stunden-Kanaltour in Chiang Mai: lokales Leben und Thai-Kräutergarten von einem lokalen Anbieter",
+  "metaDescription": "2-stündige Tour in Chiang Mai. Enthalten: Einheimischer Guide und Bootsfahrt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "mae-kampong-village-trek-and-local-food-experience-in-chiang-mai": {
+  "title": "Wanderung zum Dorf Mae Kampong und lokales Kulinarikerlebnis in Chiang Mai",
+  "fullDescription": "Dies ist ein Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Privates klimatisiertes Fahrzeug, Besuch der Phatsa-Teeplantage, Besuch des Dorfes Mae Kampong und Besuch des Mae-Kampong-Wasserfalls. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Chiang Mai. Mae chaem Tour and Service bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Privates klimatisiertes Fahrzeug",
+   "Besuch der Phatsa-Teeplantage",
+   "Besuch des Dorfes Mae Kampong",
+   "Besuch des Mae-Kampong-Wasserfalls",
+   "Besuch eines Cafés am Riesenbaum"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Privates klimatisiertes Fahrzeug",
+   "Besuch der Phatsa-Teeplantage",
+   "Besuch des Dorfes Mae Kampong",
+   "Besuch des Mae-Kampong-Wasserfalls",
+   "Besuch eines Cafés am Riesenbaum",
+   "Lokaler Guide beinhaltet"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour in Chiang Mai, inklusive Abholung und Rückfahrt zum Hotel, Privates klimatisiertes Fahrzeug und Besuch der Phatsa-Teeplantage. Durchgeführt von Mae chaem Tour and Service, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Wanderung zum Dorf Mae Kampong und lokales Kulinarikerlebnis in Chiang Mai",
+  "metaDescription": "Tour in Chiang Mai. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "doi-suthep-and-wat-umong-or-wat-pha-lat-night-tour": {
+  "title": "Nachttour zu Doi Suthep und Wat Umong oder Wat Pha Lat",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis ab Chiang Mai, rund um Wat Phra That Doi Suthep. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Transport, Versicherung, Guide und Eintrittsgebühren. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nChiang Mai. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Wat Phra That Doi Suthep",
+   "Dauer: 4 Stunden",
+   "Transport",
+   "Versicherung",
+   "Guide",
+   "Eintrittsgebühren"
+  ],
+  "included": [
+   "Transport",
+   "Versicherung",
+   "Guide",
+   "Eintrittsgebühren"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Halbtägige Tour in Chiang Mai, mit Wat Phra That Doi Suthep. Durchgeführt von Lotus Odyssey, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Nachttour zu Doi Suthep und Wat Umong oder Wat Pha Lat",
+  "metaDescription": "Halbtägige Tour in Chiang Mai. Enthalten: Transport, Versicherung und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "doi-suthep-hmong-village-and-monthathan-waterfall": {
+  "title": "Doi Suthep, Hmong-Dorf und Monthathan-Wasserfall",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Besuch des Hmong-Bergstammdorfs, Besuch des Wat Phra That Doi Suthep, Besuch des Monthathan-Wasserfalls, Guide vor Ort und Transport zum und vom Startpunkt. Nicht enthalten sind Mahlzeiten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nChiang Mai. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 8 Stunden",
+   "Besuch des Hmong-Bergstammdorfs",
+   "Besuch des Wat Phra That Doi Suthep",
+   "Besuch des Monthathan-Wasserfalls",
+   "Guide vor Ort",
+   "Transport zum und vom Startpunkt"
+  ],
+  "included": [
+   "Besuch des Hmong-Bergstammdorfs",
+   "Besuch des Wat Phra That Doi Suthep",
+   "Besuch des Monthathan-Wasserfalls",
+   "Guide vor Ort",
+   "Transport zum und vom Startpunkt"
+  ],
+  "notIncluded": [
+   "Mahlzeiten"
+  ],
+  "shortDescription": "Ganztägige Tour in Chiang Mai, inklusive Besuch des Hmong-Bergstammdorfs, Besuch des Wat Phra That Doi Suthep und Besuch des Monthathan-Wasserfalls. Durchgeführt von SNP Chiangmai Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Doi Suthep, Hmong-Dorf und Monthathan-Wasserfall",
+  "metaDescription": "Ganztägige Tour in Chiang Mai. Enthalten: Besuch des Hmong-Bergstammdorfs. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "off-road-atv-thrills-then-mae-wang-waterfall-in-chiang-mai": {
+  "title": "Offroad-ATV-Nervenkitzel, dann Mae-Wang-Wasserfall in Chiang Mai",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis ab Chiang Mai, rund um MAE-WANG-ZIPLINE-ABENTEUER. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, ATV-Ausrüstung und Sicherheitsausrüstung, Erfahrener einheimischer Guide, Kaffee und Trinkwasser und Unfallversicherung. Nicht enthalten sind Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nMueang Chiang Mai District. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "MAE-WANG-ZIPLINE-ABENTEUER",
+   "Dauer: 4 Stunden",
+   "Abholung und Rückfahrt zum Hotel",
+   "ATV-Ausrüstung und Sicherheitsausrüstung",
+   "Erfahrener einheimischer Guide",
+   "Kaffee und Trinkwasser"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "ATV-Ausrüstung und Sicherheitsausrüstung",
+   "Erfahrener einheimischer Guide",
+   "Kaffee und Trinkwasser",
+   "Unfallversicherung",
+   "Stopp am Mae-Wang-Wasserfall"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Halbtägige Tour in Chiang Mai, mit Mae Wang Waterfall und Chiang Mai. Durchgeführt von MAEWANG ZIPLINE ADVENTURE TOUR, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Offroad-ATV-Nervenkitzel, dann Mae-Wang-Wasserfall in Chiang Mai",
+  "metaDescription": "Halbtägige Tour in Chiang Mai. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "dantewada-sticky-waterfall-and-thai-massage-tour-in-chiang-mai": {
+  "title": "Dantewada-, Klebewasserfall- und Thai-Massage-Tour in Chiang Mai",
+  "fullDescription": "Dies ist ein 7-stündiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Besuch von Dantewada, Besuch des Sticky-Wasserfalls, 2-stündige traditionelle Thai-Massage und Bequemer Transport. Nicht enthalten sind Mahlzeiten und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nChiang Mai. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 7 Stunden",
+   "Besuch von Dantewada",
+   "Besuch des Sticky-Wasserfalls",
+   "2-stündige traditionelle Thai-Massage",
+   "Bequemer Transport"
+  ],
+  "included": [
+   "Besuch von Dantewada",
+   "Besuch des Sticky-Wasserfalls",
+   "2-stündige traditionelle Thai-Massage",
+   "Bequemer Transport"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Ganztägige Tour in Chiang Mai, inklusive Besuch von Dantewada, Besuch des Sticky-Wasserfalls und 2-stündige traditionelle Thai-Massage. Durchgeführt von SNP Chiangmai Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Dantewada-, Klebewasserfall- und Thai-Massage-Tour in Chiang Mai",
+  "metaDescription": "Ganztägige Tour in Chiang Mai. Enthalten: Besuch von Dantewada. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "authentic-muay-thai-training-experience-in-chiang-mai": {
+  "title": "Authentisches Muay-Thai-Trainingserlebnis in Chiang Mai",
+  "fullDescription": "Dies ist ein Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [],
+  "included": [],
+  "notIncluded": [
+   "Flüge",
+   "Taxis und Transfers (alle sehr günstig)",
+   "Versicherung",
+   "Essen und Snacks",
+   "Getränke",
+   "Unterkunft"
+  ],
+  "shortDescription": "Tour in Chiang Mai. Durchgeführt von Warrior Acadermy & Rtreats, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Authentisches Muay-Thai-Trainingserlebnis in Chiang Mai",
+  "metaDescription": "Tour in Chiang Mai. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "jungle-jumbo-elephant-sanctuary-with-waterfall-in-chiang-mai": {
+  "title": "Jungle-Jumbo-Elefantenschutzgebiet mit Wasserfall in Chiang Mai",
+  "fullDescription": "Dies ist ein 6-stündiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfer von/zu Ihrer Unterkunft in Chiang Mai, Guide, Mittagessen, Snacks und Trinkwasser. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 6 Stunden",
+   "Hin- und Rücktransfer von/zu Ihrer Unterkunft in Chiang Mai",
+   "Englischsprachiger Reiseleiter",
+   "Mittagessen",
+   "Snacks",
+   "Trinkwasser"
+  ],
+  "included": [
+   "Hin- und Rücktransfer von/zu Ihrer Unterkunft in Chiang Mai",
+   "Englischsprachiger Reiseleiter",
+   "Mittagessen",
+   "Snacks",
+   "Trinkwasser",
+   "Futter für die Elefanten"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Halbtägige Tour in Chiang Mai, inklusive Hin- und Rücktransfer von/zu Ihrer Unterkunft in Chiang Mai, Guide und Mittagessen. Durchgeführt von Elephant Jungle Sanctuary Chiang Mai, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Jungle-Jumbo-Elefantenschutzgebiet mit Wasserfall in Chiang Mai",
+  "metaDescription": "Halbtägige Tour in Chiang Mai. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "doi-suthep-and-wat-umong-twilight-tour-with-pickup": {
+  "title": "Dämmerungstour zu Doi Suthep und Wat Umong mit Abholung",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis ab Chiang Mai, rund um Wat Umong und Wat Phra That Doi Suthep. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hotelabholung und -rückfahrt in der Stadt Chiang Mai, Eintrittsgebühr und Guide. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nChiang Mai. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Wat Umong",
+   "Wat Phra That Doi Suthep",
+   "Dauer: 4 Stunden",
+   "Hotelabholung und -rückfahrt in der Stadt Chiang Mai",
+   "Eintrittsgebühr",
+   "Guide"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in der Stadt Chiang Mai",
+   "Eintrittsgebühr",
+   "Guide"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Halbtägige Tour in Chiang Mai, mit Wat Umong und Wat Phra That Doi Suthep. Durchgeführt von Oh-Hoo, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Dämmerungstour zu Doi Suthep und Wat Umong mit Abholung",
+  "metaDescription": "Halbtägige Tour in Chiang Mai. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "early-morning-doi-suthep-with-monk-chanting-and-alms-chiang-mai": {
+  "title": "Früher Morgen in Doi Suthep mit Mönchsgesängen und Almosen (Chiang Mai)",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Fahrer mit klimatisiertem Auto, Lizenzierter Guide, Eintrittsgebühren, Wasser in Flaschen und Mönchsopfer. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 4 Stunden",
+   "Fahrer mit klimatisiertem Auto",
+   "Lizenzierter Guide",
+   "Eintrittsgebühren",
+   "Wasser in Flaschen",
+   "Mönchsopfer"
+  ],
+  "included": [
+   "Fahrer mit klimatisiertem Auto",
+   "Lizenzierter Guide",
+   "Eintrittsgebühren",
+   "Wasser in Flaschen",
+   "Mönchsopfer"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Halbtägige Tour in Chiang Mai, inklusive Fahrer mit klimatisiertem Auto, Lizenzierter Guide und Eintrittsgebühren. Durchgeführt von บริษัท ทัวริสต์ อินฟอร์เมชั่น เซ็นเตอร์ จำกัด, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Früher Morgen in Doi Suthep mit Mönchsgesängen und Almosen",
+  "metaDescription": "Halbtägige Tour in Chiang Mai. Enthalten: Fahrer mit klimatisiertem Auto. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "thai-buffalo-and-rice-planting-experience-in-chiang-mai": {
+  "title": "Thai-Büffel- und Reispflanzungserlebnis in Chiang Mai",
+  "fullDescription": "Dies ist ein 2,5-stündiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Reispflanzungs-Erlebnis, Traditionelle Bauernkostüme und Stiefel und Mittagessen. Nicht enthalten sind Abholung und Rückfahrt, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHang Tueng, Farmstay und Workshop in Chiang Mai. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2,5 Stunden",
+   "Reispflanzungs-Erlebnis",
+   "Traditionelle Bauernkostüme und Stiefel",
+   "Mittagessen"
+  ],
+  "included": [
+   "Reispflanzungs-Erlebnis",
+   "Traditionelle Bauernkostüme und Stiefel",
+   "Mittagessen"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt"
+  ],
+  "shortDescription": "Tour in Chiang Mai, inklusive Reispflanzungs-Erlebnis, Traditionelle Bauernkostüme und Stiefel und Mittagessen. Durchgeführt von Hang Tueng farm, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Thai-Büffel- und Reispflanzungserlebnis in Chiang Mai",
+  "metaDescription": "Tour in Chiang Mai. Enthalten: Reispflanzungs-Erlebnis. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "kew-mae-pan-nature-trail-and-doi-inthanon-day-trip": {
+  "title": "Kew-Mae-Pan-Naturpfad und Doi-Inthanon-Tagesausflug",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rückfahrt, Guide, Trinkwasser und Mittagessen. Nicht enthalten sind Nationalparkgebühr und Eintrittskarte für die König- und Königin-Pagoden, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 10 Stunden",
+   "Hin- und Rückfahrt",
+   "Guide",
+   "Trinkwasser",
+   "Mittagessen (Menü)"
+  ],
+  "included": [
+   "Hin- und Rückfahrt",
+   "Guide",
+   "Trinkwasser",
+   "Mittagessen (Menü)"
+  ],
+  "notIncluded": [
+   "Nationalparkgebühr (300 THB/Erwachsene und 150 THB/Kind)",
+   "Eintrittskarte für die König- und Königin-Pagoden (100 THB/Erwachsene und 50 THB/Kind)"
+  ],
+  "shortDescription": "Ganztägige Tour in Chiang Mai, inklusive Hin- und Rückfahrt, Guide und Trinkwasser. Durchgeführt von Oh-Hoo, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Kew-Mae-Pan-Naturpfad und Doi-Inthanon-Tagesausflug",
+  "metaDescription": "Ganztägige Tour in Chiang Mai. Enthalten: Hin- und Rückfahrt und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "elephant-dream-project-sanctuary-half-day-in-chiang-mai": {
+  "title": "Elephant-Dream-Project-Schutzgebiet - Halbtags in Chiang Mai",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Chiang Mai, rund um Provinz Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfer in Chiang Mai, Mittagessen, Wasser, Futter zum Füttern der Elefanten und Eintrittskarten. Nicht enthalten sind Softdrinks, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nChiang Mai. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Provinz Chiang Mai",
+   "Dauer: 4 Stunden",
+   "Hin- und Rücktransfer in Chiang Mai",
+   "Mittagessen",
+   "Wasser",
+   "Futter zum Füttern der Elefanten"
+  ],
+  "included": [
+   "Hin- und Rücktransfer in Chiang Mai",
+   "Mittagessen",
+   "Wasser",
+   "Futter zum Füttern der Elefanten",
+   "Eintrittskarten"
+  ],
+  "notIncluded": [
+   "Softdrinks"
+  ],
+  "shortDescription": "Halbtägige Tour in Chiang Mai, mit Provinz Chiang Mai. Durchgeführt von Elephantdreamproject, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Elephant-Dream-Project-Schutzgebiet - Halbtags in Chiang Mai",
+  "metaDescription": "Halbtägige Tour in Chiang Mai. Enthalten: Hin- und Rücktransfer in Chiang Mai. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "elephant-sanctuary-and-waterfall-group-tour-in-chiang-mai": {
+  "title": "Gruppentour zum Elefantenschutzgebiet und Wasserfall in Chiang Mai",
+  "fullDescription": "Dies ist ein 7-stündiges Erlebnis ab Chiang Mai, rund um PON ELEPHANT THAILAND. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hoteltransfers nur von und zum Stadtzentrum von Chiang Mai, Englischsprachiger Reiseleiter, Trinkwasser und Mittagessen und Futter zum Füttern der Elefanten. Nicht enthalten sind Handtuch und Wechselkleidung, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Chiang Mai. PON ELEPHANT (THAILAND) CO., LTD. bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "PON ELEPHANT THAILAND",
+   "Dauer: 7 Stunden",
+   "Hoteltransfers nur von und zum Stadtzentrum von Chiang Mai",
+   "Englischsprachiger Reiseleiter",
+   "Trinkwasser und Mittagessen",
+   "Futter zum Füttern der Elefanten"
+  ],
+  "included": [
+   "Hoteltransfers nur von und zum Stadtzentrum von Chiang Mai",
+   "Englischsprachiger Reiseleiter",
+   "Trinkwasser und Mittagessen",
+   "Futter zum Füttern der Elefanten"
+  ],
+  "notIncluded": [
+   "Handtuch und Wechselkleidung"
+  ],
+  "shortDescription": "Ganztägige Tour in Chiang Mai, mit Pon Elephant Thailand and Mae Wang Waterfall und Chiang Mai. Durchgeführt von PON ELEPHANT (THAILAND) CO., LTD., direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Gruppentour zum Elefantenschutzgebiet und Wasserfall in Chiang Mai",
+  "metaDescription": "Ganztägige Tour in Chiang Mai. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "ethical-elephant-encounter-feeding-program-in-chiang-mai": {
+  "title": "Ethisches Elefantenbegegnungs- und Fütterungsprogramm in Chiang Mai",
+  "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Unfallversicherung und Elefantenfutter. Nicht enthalten sind Transport zur und von der Aktivität und Mahlzeiten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1 Stunde",
+   "Unfallversicherung",
+   "Elefantenfutter"
+  ],
+  "included": [
+   "Unfallversicherung",
+   "Elefantenfutter"
+  ],
+  "notIncluded": [
+   "Transport zur und von der Aktivität",
+   "Mahlzeiten"
+  ],
+  "shortDescription": "1-stündige Tour in Chiang Mai, inklusive Unfallversicherung und Elefantenfutter. Durchgeführt von Elephant Jungle Sanctuary Chiang Mai, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ethisches Elefantenbegegnungs- und Fütterungsprogramm in Chiang Mai",
+  "metaDescription": "1-stündige Tour in Chiang Mai. Enthalten: Unfallversicherung. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "scenic-view-atv-tour-and-pineapple-farm-visit-in-chiang-rai-chiang-mai": {
+  "title": "ATV-Tour mit Panoramablick und Besuch einer Ananasfarm in Chiang Rai (Chiang Mai)",
+  "fullDescription": "Dies ist ein 1,5-stündiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Mahlzeit, Trinkwasser, Die gesamte Sicherheitsausrüstung, Kursleiter und Versicherung. Nicht enthalten sind Für das Hotel fällt eine zusätzliche Gebühr von 800 THB pro Person an und Trinkgeld & persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1,5 Stunden",
+   "Mahlzeit (nur bei Option Trip A und Trip B)",
+   "Trinkwasser (nur bei Option Trip A und Trip B)",
+   "Die gesamte Sicherheitsausrüstung",
+   "Professioneller Instructor",
+   "Versicherung"
+  ],
+  "included": [
+   "Mahlzeit (nur bei Option Trip A und Trip B)",
+   "Trinkwasser (nur bei Option Trip A und Trip B)",
+   "Die gesamte Sicherheitsausrüstung",
+   "Professioneller Instructor",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Für Hoteltransfers ab Chiang Rai City fällt eine zusätzliche Gebühr von 800 THB pro Person an",
+   "Trinkgeld & persönliche Ausgaben"
+  ],
+  "shortDescription": "Tour in Chiang Mai, inklusive Mahlzeit, Trinkwasser und Die gesamte Sicherheitsausrüstung. Durchgeführt von SIAM SCAPE JOURNEYS CO.,LTD., direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "ATV-Tour mit Panoramablick und Besuch einer Ananasfarm in Chiang Rai (Chiang Mai)",
+  "metaDescription": "Tour in Chiang Mai. Enthalten: Mahlzeit und Trinkwasser. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "two-days-doi-inthanon-national-park-chiang-mai": {
+  "title": "Zwei Tage im Nationalpark Doi Inthanon (Chiang Mai)",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Mahlzeiten, Transport, Nationalparkgebühr, Unterkunft und Englischsprachiger Reiseleiter. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Tage",
+   "Mahlzeiten",
+   "Transport",
+   "Nationalparkgebühr",
+   "Unterkunft",
+   "Englischsprachiger Reiseleiter"
+  ],
+  "included": [
+   "Mahlzeiten",
+   "Transport",
+   "Nationalparkgebühr",
+   "Unterkunft",
+   "Englischsprachiger Reiseleiter"
+  ],
+  "notIncluded": [],
+  "shortDescription": "2-tägige Tour in Chiang Mai, inklusive Mahlzeiten, Transport und Nationalparkgebühr. Durchgeführt von TEE WATERTOWN., direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Zwei Tage im Nationalpark Doi Inthanon (Chiang Mai)",
+  "metaDescription": "2-tägige Tour in Chiang Mai. Enthalten: Mahlzeiten und Transport. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "two-days-pa-pong-piang-in-chiang-mai": {
+  "title": "Zwei Tage in Pa Pong Piang in Chiang Mai",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis in Chiang Mai, rund um Chiang Mai, Nationalpark Doi Inthanon und Pa Pong Piang. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Mahlzeiten, Transport, Nationalparkgebühr und Unterkunft. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nเชียงใหม่ ประเทศไทย. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Chiang Mai",
+   "Nationalpark Doi Inthanon",
+   "Pa Pong Piang",
+   "Dauer: 2 Tage",
+   "Mahlzeiten",
+   "Transport"
+  ],
+  "included": [
+   "Mahlzeiten",
+   "Transport",
+   "Nationalparkgebühr",
+   "Unterkunft"
+  ],
+  "notIncluded": [],
+  "shortDescription": "2-tägige Tour in Chiang Mai, mit Chiang Mai, Nationalpark Doi Inthanon und Pa Pong Piang. Durchgeführt von TEE WATERTOWN., direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Zwei Tage in Pa Pong Piang in Chiang Mai",
+  "metaDescription": "2-tägige Tour in Chiang Mai. Enthalten: Mahlzeiten und Transport. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "doi-inthanon-and-elephant-sanctuary-tour": {
+  "title": "Doi-Inthanon- und Elefantenschutzgebiet-Tour",
+  "fullDescription": "Dies ist ein ganztägiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Guide, Hotelabholung und -rückfahrt im Stadtzentrum von Chiang Mai, Eintrittsgebühr für das Elefantenschutzgebiet, Eintrittsgebühr für den Nationalpark Doi Inthanon und Mittagessen. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Chiang Mai. PON ELEPHANT (THAILAND) CO., LTD. bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: ganztägig",
+   "Englischsprachiger Guide",
+   "Hotelabholung und -rückfahrt im Stadtzentrum von Chiang Mai (falls Option ausgewählt)",
+   "Eintrittsgebühr für das Elefantenschutzgebiet",
+   "Eintrittsgebühr für den Nationalpark Doi Inthanon",
+   "Mittagessen"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Hotelabholung und -rückfahrt im Stadtzentrum von Chiang Mai (falls Option ausgewählt)",
+   "Eintrittsgebühr für das Elefantenschutzgebiet",
+   "Eintrittsgebühr für den Nationalpark Doi Inthanon",
+   "Mittagessen",
+   "Trinkwasser",
+   "Versicherung"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Ganztägige Tour in Chiang Mai, inklusive Guide, Hotelabholung und -rückfahrt im Stadtzentrum von Chiang Mai und Eintrittsgebühr für das Elefantenschutzgebiet. Durchgeführt von PON ELEPHANT (THAILAND) CO., LTD., direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Doi-Inthanon- und Elefantenschutzgebiet-Tour",
+  "metaDescription": "Ganztägige Tour in Chiang Mai. Enthalten: Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "elephant-eco-park-and-atv-raft-waterfall-option-zipline-tribe-in-chiang-mai": {
+  "title": "Elefanten-Ökopark mit ATV-, Floß-, Wasserfall-, Zipline- und Stammesoptionen in Chiang Mai",
+  "fullDescription": "Dies ist ein 7,5-stündiges Erlebnis in Chiang Mai. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Chiang Mai, Imm Hotel Tha Phae und Chiang Mai möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Chiang Mai Butler Services abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Abholung vom Hotel in Chiang Mai, Kostenloser Eintritt in den Mae-Wang-Elefanten-Ökopark, Thai-Mittagsbuffet, Trinkwasser und Früchte der Saison. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Chiang Mai. Chiang Mai Butler Services bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 7,5 Stunden",
+   "Abholung vom Hotel in Chiang Mai",
+   "Kostenloser Eintritt in den Mae-Wang-Elefanten-Ökopark",
+   "Thai-Mittagsbuffet",
+   "Trinkwasser",
+   "Früchte der Saison"
+  ],
+  "included": [
+   "Abholung vom Hotel in Chiang Mai",
+   "Kostenloser Eintritt in den Mae-Wang-Elefanten-Ökopark",
+   "Thai-Mittagsbuffet",
+   "Trinkwasser",
+   "Früchte der Saison",
+   "Rückfahrt zur Unterkunft"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour in Chiang Mai, inklusive Abholung vom Hotel in Chiang Mai, Kostenloser Eintritt in den Mae-Wang-Elefanten-Ökopark und Thai-Mittagsbuffet. Durchgeführt von Chiang Mai Butler Services, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Elefanten-Ökopark mit ATV-, Floß-, Wasserfall-, Zipline- und Stammesoptionen in Chiang Mai",
+  "metaDescription": "Tour in Chiang Mai. Enthalten: Abholung vom Hotel in Chiang Mai. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "alcazar-theatre-pattaya-second-road-evening-tour": {
   "title": "Pattaya: Ticket für die Abendshow des Alcazar Cabaret",
   "metaTitle": "Pattaya: Ticket für das Alcazar Cabaret am Abend",
