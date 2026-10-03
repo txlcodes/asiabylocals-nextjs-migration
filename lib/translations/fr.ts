@@ -43146,6 +43146,92 @@ export const FR_TOURS: Record<string, TourT> = {
    "Achats personnels"
   ]
  },
+ "phi-phi-and-4-islands-sunset-tour-plus-bioluminescent-plankton-krabi": {
+  "title": "Excursion à Phi Phi et 4 îles au coucher du soleil avec plancton bioluminescent (Krabi)",
+  "metaTitle": "Phi Phi et 4 îles au coucher du soleil, plus plancton",
+  "metaDescription": "Excursion d'une journée complète à Krabi, incluant hors-bord, Maya Bay et le lagon de Pileh. Organisée par GR Rungtawan Co., LTD., réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une journée complète à Krabi, incluant hors-bord, Maya Bay et le lagon de Pileh. Organisée par GR Rungtawan Co., LTD., réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Phi Phi l'après-midi, les quatre îles de Krabi au coucher du soleil, et le plancton après la tombée de la nuit, tout sur un seul hors-bord.\n\nLe calage sur l'après-midi est précisément l'intérêt. La plupart des excursions à Phi Phi partent de Krabi au petit matin pour devancer les foules, ce qui fonctionne mais signifie voir les îles au moment le plus chargé du milieu de la journée. Celle-ci fonctionne dans l'autre sens : vous atteignez Maya Bay et le lagon de Pileh tandis que la flotte matinale rentre chez elle.\n\nMaya Bay a fermé entièrement de 2018 à 2022 pour permettre au récif de se régénérer, et a rouvert sous des règles strictes : les bateaux amarrent à l'arrière de Phi Phi Leh et les visiteurs marchent à travers l'île, la baignade dans la baie est restreinte, et le nombre de visiteurs quotidiens est plafonné. Le lagon de Pileh est un chenal d'eau vert foncé entouré de falaises de tous côtés. La grotte Viking, avec ses peintures rupestres, s'observe depuis le bateau plutôt que de s'y rendre.\n\nLe trajet de retour couvre les quatre îles de Krabi avec le coucher de soleil depuis l'eau, puis un dîner barbecue, puis la baignade dans le plancton. La lueur vient de dinoflagellés qui s'illuminent quand l'eau bouge, donc elle apparaît autour de vos mains et de vos pieds. Les nuits sombres proches d'une nouvelle lune la montrent le mieux ; une pleine lune l'atténue entièrement.\n\nHuit heures en hors-bord à couvrir autant d'eau, c'est une longue journée, et les hors-bords tapent fort dans toute houle.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la prise en charge et le retour à l'hôtel, l'assurance, un panier-repas, des collations, un dîner barbecue en mini buffet, des fruits frais, de l'eau en bouteille et des gilets de sauvetage.\n\nLes frais de parc national sont perçus à la jetée sauf confirmation contraire, prévoyez donc des espèces. Un jour de préavis minimum.",
+  "highlights": [
+   "Phi Phi l'après-midi, tandis que la flotte matinale rentre chez elle",
+   "Maya Bay sous les règles post-2022 : à pied, nombre plafonné",
+   "Lagon de Pileh et grotte Viking depuis l'eau",
+   "Les quatre îles de Krabi au coucher du soleil au retour",
+   "Dîner barbecue puis baignade dans le plancton après la tombée de la nuit"
+  ],
+  "included": [
+   "Service de prise en charge et de retour à l'hôtel",
+   "Assurance",
+   "Panier-repas",
+   "Collations",
+   "Dîner barbecue en mini buffet",
+   "Fruits frais",
+   "Eau en bouteille",
+   "Gilet de sauvetage",
+   "Équipement de plongée avec tuba"
+  ],
+  "notIncluded": [
+   "Frais d'entrée du parc national (adulte : 400 THB, enfant : 200 THB)",
+   "Dépenses personnelles",
+   "Sacs étanches",
+   "Palmes"
+  ]
+ },
+ "mangrove-forest-longtail-boat-tour-with-lunch-in-krabi": {
+  "title": "Excursion en bateau à longue queue dans la forêt de mangrove avec déjeuner à Krabi",
+  "metaTitle": "Forêt de mangrove en longtail avec déjeuner, Krabi",
+  "metaDescription": "Excursion à Krabi, incluant un aller-retour depuis l'hôtel et une excursion en bateau à longue queue dans la forêt de mangrove. Organisée par Diamond Cave Tour, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion à Krabi, incluant un aller-retour depuis l'hôtel et une excursion en bateau à longue queue dans la forêt de mangrove. Organisée par Diamond Cave Tour, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Trois heures et demie dans les canaux de mangrove, se terminant par des fruits de mer dans un restaurant construit au-dessus de l'eau.\n\nLa ceinture de mangrove de Krabi s'étend le long de la rivière et à travers l'estuaire, et le bateau à longue queue est le véhicule approprié. Son faible tirant d'eau et son hélice à long arbre lui permettent de s'engager dans des canaux à peine plus larges que la coque, où la canopée se referme au-dessus et le moteur se réduit à presque rien.\n\nCe que vous observez est une nurserie. Les racines-échasses enchevêtrées piègent les sédiments et abritent de jeunes poissons, crabes et crevettes jusqu'à ce qu'ils soient assez grands pour partir vers le récif, c'est pourquoi la pêche autour de Krabi dépend de la forêt plutôt que de la mer ouverte. Les poissons-grenouilles se posent sur la boue à marée basse, les martins-pêcheurs travaillent les bords des canaux, et les varans sont fréquents. La marée basse expose les systèmes de racines et constitue la moitié la plus intéressante du cycle des marées pour s'y trouver.\n\nLe déjeuner est du riz frit avec fruits et boissons au restaurant Mangrove Seafood, qui repose sur pilotis au bord de l'eau.\n\nCette excursion est abritée de la mer ouverte, donc elle fonctionne pendant la saison verte de mai à octobre, lorsque le vent et la houle annulent les bateaux insulaires. Si votre journée insulaire est annulée, voici le substitut qui fonctionne toujours.\n\nLe prix comprend le transfert aller-retour à l'hôtel, l'excursion en bateau à longue queue, le riz frit avec fruits et boissons, le déjeuner au restaurant, un guide local et une assurance. Votre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive.\n\nTrois heures et demie, un jour de préavis minimum.",
+  "highlights": [
+   "Bateau à longue queue dans des canaux à peine plus larges que lui",
+   "La nurserie dont dépend réellement la pêche de Krabi",
+   "Poissons-grenouilles, martins-pêcheurs et varans",
+   "Fonctionne en saison verte quand les bateaux insulaires sont annulés",
+   "Déjeuner de fruits de mer dans un restaurant sur pilotis, transferts compris"
+  ],
+  "included": [
+   "Aller-retour depuis l'hôtel",
+   "Excursion en bateau à longue queue dans la forêt de mangrove",
+   "Riz frit, fruits et boissons",
+   "Déjeuner au restaurant Mangrove Seafood",
+   "Guide local",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Frais d'entrée (40 bahts) adulte"
+  ]
+ },
+ "krabi-hong-island-and-james-bond-early-bird-tour": {
+  "title": "Excursion matinale à l'île de Hong et à l'île de James Bond depuis Krabi",
+  "metaTitle": "Krabi : île de Hong et James Bond, départ matinal",
+  "metaDescription": "Excursion d'une journée complète à Krabi, incluant la visite de la jetée de Panwa, la plage de Hong et le parc national de Koh Kudu Yai. Organisée par Odeon Tours DMC Thailand, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une journée complète à Krabi, incluant la visite de la jetée de Panwa, la plage de Hong et le parc national de Koh Kudu Yai. Organisée par Odeon Tours DMC Thailand, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Un départ matinal qui couvre les deux moitiés de la baie de Phang Nga : le groupe de l'île de Hong depuis Krabi, et le groupe de l'île de James Bond plus à l'ouest.\n\nKoh Tapu, l'aiguille calcaire que tout le monde appelle l'île de James Bond, est apparue dans L'Homme au pistolet d'or en 1974 et reste depuis le rocher le plus photographié de la baie. Elle est réellement spectaculaire, et réellement bondée en milieu de matinée, ce qui justifie le départ matinal. Le débarquement est restreint pour protéger la base du rocher, qui s'érode, donc on l'observe depuis la plage adjacente plutôt que de s'en approcher à pied.\n\nKoh Panyi est l'autre moitié de cet arrêt. C'est un village de pêcheurs musulmans construit presque entièrement sur pilotis contre une falaise calcaire, fondé par des familles de pêcheurs javanais au dix-huitième siècle, avec une mosquée, une école et un terrain de football flottant que le village a lui-même construit après avoir regardé une Coupe du monde.\n\nLa plage de Hong et les eaux du parc national autour de Koh Kudu Yai couvrent le côté de Krabi : le lagon de Hong, une eau verte peu profonde à l'intérieur de parois calcaires, et de la plongée avec tuba là où les conditions le permettent.\n\nNeuf heures en font une longue journée, et la prise en charge matinale est précisément l'intérêt plutôt qu'un inconvénient.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend un petit-déjeuner léger, un déjeuner buffet, des boissons non alcoolisées à volonté, des fruits de saison, une assurance d'excursion, un guide agréé et des transferts de prise en charge et de retour.\n\nUn jour de préavis minimum.",
+  "highlights": [
+   "Départ matinal, avant les foules du milieu de la matinée",
+   "Koh Tapu, observée depuis la plage plutôt qu'en débarquant",
+   "Koh Panyi, un village sur pilotis avec son propre terrain flottant",
+   "Lagon de Hong et eaux du parc national",
+   "Petit-déjeuner, déjeuner buffet, guide agréé et transferts"
+  ],
+  "included": [
+   "Petit-déjeuner léger",
+   "Déjeuner buffet",
+   "Boissons non alcoolisées à volonté",
+   "Fruits de saison",
+   "Assurance d'excursion",
+   "Guide touristique agréé",
+   "Transfert de prise en charge et de retour depuis tous les hôtels de Phuket",
+   "Frais de parc national de Krabi Hong",
+   "Frais de parc national de l'île de James Bond",
+   "Frais de canoë",
+   "Frais d'entrée à l'île de Naka"
+  ],
+  "notIncluded": [
+   "Transfert privé"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Croisière en catamaran entre 3 îles de Pattaya avec déjeuner buffet thaïlandais",
   "metaTitle": "Pattaya : catamaran 3 îles, déjeuner buffet thaïlandais",

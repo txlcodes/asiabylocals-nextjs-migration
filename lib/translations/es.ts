@@ -43146,6 +43146,92 @@ export const ES_TOURS: Record<string, TourT> = {
    "Compras personales"
   ]
  },
+ "phi-phi-and-4-islands-sunset-tour-plus-bioluminescent-plankton-krabi": {
+  "title": "Tour a Phi Phi y 4 islas al atardecer más plancton bioluminiscente (Krabi)",
+  "metaTitle": "Phi Phi y 4 islas al atardecer, más plancton",
+  "metaDescription": "Excursión de día completo en Krabi, con lancha rápida, Maya Bay y la laguna de Pileh. Organizada por GR Rungtawan Co., LTD., reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de día completo en Krabi, con lancha rápida, Maya Bay y la laguna de Pileh. Organizada por GR Rungtawan Co., LTD., reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Phi Phi por la tarde, las cuatro islas de Krabi al atardecer, y plancton tras el anochecer, todo en una lancha rápida.\n\nEl horario de tarde es precisamente el objetivo. La mayoría de las excursiones a Phi Phi salen de Krabi al amanecer para ganarle la mano a las multitudes, lo que funciona pero significa ver las islas en el momento más concurrido de mediodía. Esta funciona al revés: llega a Maya Bay y a la laguna de Pileh mientras la flota matutina regresa a casa.\n\nMaya Bay cerró por completo de 2018 a 2022 para que el arrecife se recuperara y reabrió bajo reglas estrictas: los barcos amarran en la parte trasera de Phi Phi Leh y los visitantes caminan a través de la isla, el baño dentro de la bahía está restringido, y el número diario de visitantes está limitado. La laguna de Pileh es un canal de agua verde oscura rodeado de acantilados por todos lados. La cueva Vikinga, con sus pinturas rupestres, se observa desde el barco en lugar de entrar en ella.\n\nEl trayecto de vuelta recorre las cuatro islas de Krabi con el atardecer desde el agua, después una cena barbacoa, después el baño de plancton. El brillo proviene de dinoflagelados que destellan cuando el agua se mueve, así que aparece alrededor de sus manos y pies. Las noches oscuras cercanas a una luna nueva lo muestran mejor; una luna llena lo diluye por completo.\n\nOcho horas en lancha rápida cubriendo tanta agua son un día largo, y las lanchas rápidas golpean con fuerza en cualquier marejada.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye la recogida y el regreso al hotel, seguro, una caja de almuerzo, aperitivos, una cena barbacoa en mini buffet, fruta fresca, agua embotellada y chalecos salvavidas.\n\nLas tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario, así que lleve efectivo. Un día de aviso mínimo.",
+  "highlights": [
+   "Phi Phi por la tarde, mientras la flota matutina regresa a casa",
+   "Maya Bay bajo las reglas posteriores a 2022: a pie, número limitado",
+   "Laguna de Pileh y cueva Vikinga desde el agua",
+   "Las cuatro islas de Krabi al atardecer en el camino de vuelta",
+   "Cena barbacoa y después un baño de plancton tras el anochecer"
+  ],
+  "included": [
+   "Servicio de recogida y regreso al hotel",
+   "Seguro",
+   "Caja de almuerzo",
+   "Aperitivos",
+   "Cena barbacoa en mini buffet",
+   "Fruta fresca",
+   "Agua embotellada",
+   "Chaleco salvavidas",
+   "Equipo de snorkel"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada al parque nacional (adulto: 400 THB, niño: 200 THB)",
+   "Gastos personales",
+   "Bolsas secas",
+   "Aletas"
+  ]
+ },
+ "mangrove-forest-longtail-boat-tour-with-lunch-in-krabi": {
+  "title": "Tour en barco longtail por el bosque de manglares con almuerzo en Krabi",
+  "metaTitle": "Bosque de manglares en longtail con almuerzo, Krabi",
+  "metaDescription": "Excursión en Krabi, con ida y vuelta desde el hotel y un tour en barco longtail por el bosque de manglares. Organizada por Diamond Cave Tour, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión en Krabi, con ida y vuelta desde el hotel y un tour en barco longtail por el bosque de manglares. Organizada por Diamond Cave Tour, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Tres horas y media en los canales de manglar, terminando con marisco en un restaurante construido sobre el agua.\n\nEl cinturón de manglares de Krabi se extiende a lo largo del río y a través del estuario, y el barco longtail es el vehículo adecuado para ello. Su calado reducido y su hélice de eje largo le permiten adentrarse en canales apenas más anchos que el casco, donde el dosel se cierra arriba y el motor se reduce a casi nada.\n\nLo que está observando es un vivero. Las enmarañadas raíces zancudas atrapan sedimento y protegen a peces juveniles, cangrejos y gambas hasta que son lo bastante grandes para desplazarse al arrecife, por lo que la pesca alrededor de Krabi depende del bosque en lugar del mar abierto. Los peces saltarines se posan en el barro con marea baja, los martines pescadores trabajan los bordes de los canales, y los varanos son comunes. La marea baja deja expuestos los sistemas de raíces y es la mitad más interesante del ciclo de mareas para estar allí.\n\nEl almuerzo es arroz frito con fruta y bebidas en el restaurante Mangrove Seafood, que se alza sobre pilotes al borde del agua.\n\nEsta excursión está protegida del mar abierto, así que funciona durante la temporada verde de mayo a octubre, cuando el viento y el oleaje cancelan los barcos a islas. Si su día de isla se cancela, este es el sustituto que sigue funcionando.\n\nEl precio incluye el traslado de ida y vuelta al hotel, el tour en barco longtail, arroz frito con fruta y bebidas, almuerzo en el restaurante, un guía local y seguro. Su plaza queda retenida con el operador antes de que su reserva sea definitiva.\n\nTres horas y media, un día de aviso mínimo.",
+  "highlights": [
+   "Barco longtail en canales apenas más anchos que él mismo",
+   "El vivero del que realmente depende la pesca de Krabi",
+   "Peces saltarines, martines pescadores y varanos",
+   "Funciona en temporada verde cuando se cancelan los barcos a islas",
+   "Almuerzo de marisco en un restaurante sobre pilotes, traslados incluidos"
+  ],
+  "included": [
+   "Ida y vuelta desde el hotel",
+   "Tour en barco longtail por el bosque de manglares",
+   "Arroz frito, fruta y bebidas",
+   "Almuerzo en el restaurante Mangrove Seafood",
+   "Guía local",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada (40 baht) adulto"
+  ]
+ },
+ "krabi-hong-island-and-james-bond-early-bird-tour": {
+  "title": "Tour matutino a la isla de Hong y James Bond desde Krabi",
+  "metaTitle": "Krabi: isla de Hong y James Bond, salida temprana",
+  "metaDescription": "Excursión de día completo en Krabi, con visita al muelle de Panwa, la playa de Hong y el parque nacional de Koh Kudu Yai. Organizada por Odeon Tours DMC Thailand, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de día completo en Krabi, con visita al muelle de Panwa, la playa de Hong y el parque nacional de Koh Kudu Yai. Organizada por Odeon Tours DMC Thailand, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Una salida temprana que cubre ambas mitades de la bahía de Phang Nga: el grupo de la isla de Hong desde Krabi, y el grupo de la isla de James Bond más al oeste.\n\nKoh Tapu, la aguja caliza que todos llaman la isla de James Bond, apareció en El hombre de la pistola de oro en 1974 y desde entonces ha sido la roca más fotografiada de la bahía. Es genuinamente impresionante, y también genuinamente concurrida a media mañana, lo que justifica la salida temprana. El desembarco está restringido para proteger la base de la roca, que se ha estado erosionando, así que se contempla desde la playa adyacente en lugar de acercarse a pie.\n\nKoh Panyi es la otra mitad de esa parada. Es un pueblo pesquero musulmán construido casi por completo sobre pilotes contra un acantilado caliza, fundado por familias pescadoras javanesas en el siglo XVIII, con una mezquita, una escuela y un campo de fútbol flotante que el propio pueblo construyó después de ver un Mundial.\n\nLa playa de Hong y las aguas del parque nacional alrededor de Koh Kudu Yai cubren el lado de Krabi: la laguna de Hong, agua verde poco profunda dentro de paredes calizas, y snorkel donde las condiciones lo permitan.\n\nNueve horas hacen de esto un día largo, y la recogida temprana es precisamente el objetivo, no un inconveniente.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye un desayuno ligero, almuerzo buffet, refrescos ilimitados, fruta de temporada, seguro de excursión, un guía autorizado y traslados de recogida y regreso.\n\nUn día de aviso mínimo.",
+  "highlights": [
+   "Salida temprana, antes de las multitudes de media mañana",
+   "Koh Tapu, contemplada desde la playa en lugar de desembarcar en ella",
+   "Koh Panyi, un pueblo sobre pilotes con su propio campo flotante",
+   "Laguna de Hong y las aguas del parque nacional",
+   "Desayuno, almuerzo buffet, guía autorizado y traslados"
+  ],
+  "included": [
+   "Desayuno ligero",
+   "Almuerzo buffet",
+   "Refrescos ilimitados",
+   "Frutas de temporada",
+   "Seguro de excursión",
+   "Guía turístico autorizado",
+   "Traslado de recogida y regreso desde cualquier hotel de Phuket",
+   "Tarifa del parque nacional de Krabi Hong",
+   "Tarifa del parque nacional de la isla de James Bond",
+   "Tarifa de piragüismo",
+   "Tarifa de entrada a la isla de Naka"
+  ],
+  "notIncluded": [
+   "Traslado privado"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Crucero en catamarán por 3 islas de Pattaya con almuerzo buffet tailandés",
   "metaTitle": "Pattaya: catamarán 3 islas, almuerzo buffet tailandés",

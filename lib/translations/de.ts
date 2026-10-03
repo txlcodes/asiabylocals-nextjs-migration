@@ -43146,6 +43146,92 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Einkäufe"
   ]
  },
+ "phi-phi-and-4-islands-sunset-tour-plus-bioluminescent-plankton-krabi": {
+  "title": "Phi Phi und 4-Insel-Sonnenuntergangstour plus biolumineszentes Plankton (Krabi)",
+  "metaTitle": "Phi Phi und 4 Inseln bei Sonnenuntergang, plus Plankton",
+  "metaDescription": "Ganztagesausflug in Krabi, mit Speedboot, Maya Bay und der Pileh-Lagune. Organisiert von GR Rungtawan Co., LTD., Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztagesausflug in Krabi, mit Speedboot, Maya Bay und der Pileh-Lagune. Organisiert von GR Rungtawan Co., LTD., Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Phi Phi am Nachmittag, die vier Krabi-Inseln zum Sonnenuntergang, und Plankton nach Einbruch der Dunkelheit, alles auf einem Speedboot.\n\nDas Timing auf den Nachmittag ist der eigentliche Punkt. Die meisten Phi-Phi-Ausflüge fahren bei Morgengrauen ab Krabi los, um den Menschenmassen zu entgehen, was funktioniert, aber bedeutet, die Inseln im belebtesten Zeitfenster der Mittagszeit zu sehen. Dieser hier läuft andersherum: Sie erreichen Maya Bay und die Pileh-Lagune, während die Morgenflotte heimkehrt.\n\nMaya Bay war von 2018 bis 2022 vollständig geschlossen, damit sich das Riff erholen konnte, und wieder eröffnet unter strengen Regeln: Boote legen am hinteren Teil von Phi Phi Leh an, und Besucher gehen zu Fuß durch die Insel; Schwimmen innerhalb der Bucht ist eingeschränkt, und die tägliche Besucherzahl ist begrenzt. Die Pileh-Lagune ist ein Kanal aus tiefgrünem Wasser, von Klippen auf allen Seiten eingeschlossen. Die Viking-Höhle mit ihren Felsmalereien wird vom Boot aus betrachtet statt betreten.\n\nDie Rückfahrt umfasst die vier Krabi-Inseln mit Sonnenuntergang vom Wasser aus, dann ein Barbecue-Abendessen, dann das Plankton-Schwimmen. Das Leuchten kommt von Dinoflagellaten, die aufblitzen, wenn sich das Wasser bewegt, es erscheint also um Ihre Hände und Füße. Dunkle Nächte nahe einem Neumond zeigen es am besten; ein Vollmond schwemmt es vollständig aus.\n\nAcht Stunden auf einem Speedboot über so viel Wasser sind ein langer Tag, und Speedboote schlagen in jedem Wellengang hart auf.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hotelabholung und -rückfahrt, Versicherung, eine Lunchbox, Snacks, ein Mini-Buffet-Barbecue-Abendessen, frisches Obst, Flaschenwasser und Schwimmwesten.\n\nNationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt, führen Sie also Bargeld mit. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Phi Phi am Nachmittag, während die Morgenflotte heimkehrt",
+   "Maya Bay nach den Regeln seit 2022: zu Fuß, begrenzte Besucherzahl",
+   "Pileh-Lagune und Viking-Höhle vom Wasser aus",
+   "Die vier Krabi-Inseln zum Sonnenuntergang auf dem Rückweg",
+   "Barbecue-Abendessen, dann Plankton-Schwimmen nach Einbruch der Dunkelheit"
+  ],
+  "included": [
+   "Hotelabhol- und -rückfahrservice",
+   "Versicherung",
+   "Lunchbox",
+   "Snacks",
+   "Mini-Buffet-Barbecue-Abendessen",
+   "Frisches Obst",
+   "Flaschenwasser",
+   "Schwimmweste",
+   "Schnorchelausrüstung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittsgebühr (Erwachsene: 400 THB, Kind: 200 THB)",
+   "Persönliche Ausgaben",
+   "Trockenbeutel",
+   "Flossen"
+  ]
+ },
+ "mangrove-forest-longtail-boat-tour-with-lunch-in-krabi": {
+  "title": "Mangrovenwald-Longtail-Boot-Tour mit Mittagessen in Krabi",
+  "metaTitle": "Mangrovenwald per Longtail mit Mittagessen, Krabi",
+  "metaDescription": "Ausflug in Krabi, mit Hin- und Rückfahrt ab Hotel und Longtail-Boot-Tour durch den Mangrovenwald. Organisiert von Diamond Cave Tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ausflug in Krabi, mit Hin- und Rückfahrt ab Hotel und Longtail-Boot-Tour durch den Mangrovenwald. Organisiert von Diamond Cave Tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Dreieinhalb Stunden in den Mangrovenkanälen, abgeschlossen mit Meeresfrüchten in einem Restaurant, das über dem Wasser gebaut ist.\n\nKrabis Mangrovengürtel verläuft entlang des Flusses und hinaus durch die Mündung, und das Longtail-Boot ist dafür das richtige Fahrzeug. Sein flacher Tiefgang und der lange Schraubenwellenpropeller lassen es sich in Kanäle vorarbeiten, die kaum breiter sind als der Rumpf, wo sich das Kronendach darüber schließt und der Motor auf fast nichts gedrosselt wird.\n\nWas Sie betrachten, ist eine Kinderstube. Die verschlungenen Stelzwurzeln fangen Sediment und schützen Jungfische, Krabben und Garnelen, bis sie groß genug sind, um zum Riff zu ziehen, weshalb die Fischerei um Krabi vom Wald abhängt statt vom offenen Meer. Schlammspringer sitzen bei Niedrigwasser auf dem Schlamm, Eisvögel arbeiten die Kanalränder ab, und Waran-Echsen sind häufig. Niedrigwasser legt die Wurzelsysteme frei und ist die interessantere Hälfte des Gezeitenzyklus, um dort zu sein.\n\nMittagessen ist gebratener Reis mit Obst und Getränken im Mangrove Seafood Restaurant, das auf Stelzen am Wasserrand steht.\n\nDieser Ausflug ist vor der offenen See geschützt, daher findet er in der grünen Saison von Mai bis Oktober statt, wenn Wind und Dünung die Inselboote ausfallen lassen. Wenn Ihr Inseltag abgesagt wird, ist dies der Ersatz, der trotzdem funktioniert.\n\nDer Preis umfasst den Hin- und Rück-Hoteltransfer, die Longtail-Bootstour, gebratenen Reis mit Obst und Getränken, Mittagessen im Restaurant, einen lokalen Guide und Versicherung. Ihr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist.\n\nDreieinhalb Stunden, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Longtail-Boot in Kanäle, kaum breiter als es selbst",
+   "Die Kinderstube, von der Krabis Fischerei wirklich abhängt",
+   "Schlammspringer, Eisvögel und Waran-Echsen",
+   "Findet in der grünen Saison statt, wenn Inselboote abgesagt werden",
+   "Meeresfrüchte-Mittagessen in einem Stelzenrestaurant, Transfers inklusive"
+  ],
+  "included": [
+   "Hin- und Rückfahrt ab Hotel",
+   "Longtail-Boot-Tour durch den Mangrovenwald",
+   "Gebratener Reis, Obst und Getränke",
+   "Mittagessen im Mangrove Seafood Restaurant",
+   "Lokaler Guide",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühr (40 Baht) Erwachsene"
+  ]
+ },
+ "krabi-hong-island-and-james-bond-early-bird-tour": {
+  "title": "Frühmorgen-Ausflug zur Insel Hong und James-Bond-Insel von Krabi",
+  "metaTitle": "Krabi: Insel Hong und James Bond, Frühstart",
+  "metaDescription": "Ganztagesausflug in Krabi, mit Besuch des Panwa-Piers, des Hong-Strands und des Nationalparks Koh Kudu Yai. Organisiert von Odeon Tours DMC Thailand, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztagesausflug in Krabi, mit Besuch des Panwa-Piers, des Hong-Strands und des Nationalparks Koh Kudu Yai. Organisiert von Odeon Tours DMC Thailand, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Ein früher Start, der beide Hälften der Phang-Nga-Bucht abdeckt: die Hong-Inselgruppe von Krabi aus, und die James-Bond-Inselgruppe weiter westlich.\n\nKoh Tapu, die Kalksteinnadel, die alle James-Bond-Insel nennen, erschien 1974 in Der Mann mit dem goldenen Colt und ist seitdem der meistfotografierte Fels der Bucht. Er ist wirklich beeindruckend, und auch wirklich überfüllt am Vormittag, was das Argument für den frühen Abflug ist. Das Anlanden ist eingeschränkt, um die Basis des Felsens zu schützen, die erodiert ist, sodass man ihn vom angrenzenden Strand aus betrachtet statt hinaufzugehen.\n\nKoh Panyi ist die andere Hälfte dieses Stopps. Es ist ein muslimisches Fischerdorf, fast vollständig auf Stelzen gegen eine Kalksteinklippe gebaut, gegründet von javanischen Fischerfamilien im 18. Jahrhundert, mit einer Moschee, einer Schule und einem schwimmenden Fußballplatz, den das Dorf selbst baute, nachdem es eine Weltmeisterschaft gesehen hatte.\n\nHong Beach und die Nationalpark-Gewässer rund um Koh Kudu Yai decken die Krabi-Seite ab: die Hong-Lagune, flaches grünes Wasser innerhalb von Kalksteinwänden, und Schnorcheln, wo die Bedingungen es erlauben.\n\nNeun Stunden machen dies zu einem langen Tag, und die frühe Abholung ist der eigentliche Punkt, keine Unannehmlichkeit.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst ein leichtes Frühstück, ein Buffet-Mittagessen, unbegrenzte Softdrinks, Saisonobst, Reiseversicherung, einen lizenzierten Guide und Abhol- und Rücktransfers.\n\nMindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Früher Abflug, vor den Menschenmassen am Vormittag",
+   "Koh Tapu, vom Strand aus betrachtet statt angelandet",
+   "Koh Panyi, ein Stelzendorf mit eigenem schwimmendem Fußballplatz",
+   "Hong-Lagune und die Nationalpark-Gewässer",
+   "Frühstück, Buffet-Mittagessen, lizenzierter Guide und Transfers"
+  ],
+  "included": [
+   "Leichtes Frühstück",
+   "Buffet-Mittagessen",
+   "Unbegrenzte Softdrinks",
+   "Saisonobst",
+   "Reiseversicherung",
+   "Lizenzierter Reiseleiter",
+   "Abhol- und Rücktransfer ab allen Hotels in Phuket",
+   "Nationalpark-Gebühr Krabi Hong",
+   "Nationalpark-Gebühr James-Bond-Insel",
+   "Kanufahrt-Gebühr",
+   "Eintrittsgebühr Naka Island"
+  ],
+  "notIncluded": [
+   "Privater Transfer"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Pattaya 3-Insel-Katamaran-Kreuzfahrt mit thailändischem Buffet-Mittagessen",
   "metaTitle": "Pattaya: Katamaran 3 Inseln, thailändisches Buffet-Mittagessen",
