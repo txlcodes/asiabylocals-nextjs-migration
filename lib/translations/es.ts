@@ -42712,6 +42712,61 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "living-green-elephant-sanctuary-chonburi-full-day-tour": {
+  "title": "Excursión de un día al santuario ético de elefantes desde Pattaya",
+  "metaTitle": "Santuario ético de elefantes desde Pattaya",
+  "metaDescription": "Pase un día con elefantes rescatados en un santuario ético en Chonburi: alimente a los elefantes, camine junto a ellos por la selva, participe en un baño de barro, y compartir una comida tailandesa casera.",
+  "shortDescription": "Pase un día con elefantes rescatados en un santuario ético en Chonburi: alimente a los elefantes, camine junto a ellos por la selva, participe en un baño de barro, y compartir una comida tailandesa casera.",
+  "fullDescription": "A unos 45 minutos de Pattaya, en el campo verde de Chonburi, este santuario ofrece algo cada vez más raro: tiempo cercano y respetuoso con elefantes sin montarlos ni espectáculos. Los animales viven aquí en un entorno natural, y la visita se organiza en torno a su rutina en lugar de un horario de espectáculo: les da de comer, camina con ellos, y, si está dispuesto a ensuciarse, se une a ellos para su baño.\n\nEl día comienza con una presentación de la manada y una sesión de alimentación, donde entregará plátanos y caña de azúcar directamente a las trompas que se extienden, una experiencia a partes iguales emocionante y sorprendentemente suave. A partir de ahí, caminará junto a los elefantes por la selva circundante, observando cómo se alimentan e interactúan, mientras el equipo del santuario explica la historia y los hábitos de cada animal. El punto culminante para la mayoría de los visitantes llega en el pozo de barro y la charca, donde puede frotar y chapotear junto a la manada durante su baño.\n\nSe incluye una comida tailandesa de estilo casero, y los traslados de hotel desde Pattaya hacen que la logística sea sin esfuerzo. Es un día que conviene tanto a familias como a parejas y viajeros solitarios: cualquiera que quiera tiempo real con elefantes en un entorno construido en torno a su bienestar.",
+  "highlights": [
+   "Alimente a mano a elefantes rescatados con plátanos y caña de azúcar",
+   "Camine junto a la manada en una suave caminata por la selva",
+   "Únase a los elefantes en su baño de barro y chapoteo en el río",
+   "Santuario ético, sin montar, en el campo de Chonburi",
+   "Comida tailandesa casera incluida"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Pattaya",
+   "Entrada al santuario y programa guiado",
+   "Cesta de comida para los elefantes",
+   "Comida tailandesa casera",
+   "Agua potable",
+   "Guía de habla inglesa del santuario"
+  ],
+  "notIncluded": [
+   "Toalla y ropa de cambio",
+   "Propinas para el personal",
+   "Gastos personales y recuerdos"
+  ]
+ },
+ "monkey-island-chonburi-boat-tour": {
+  "title": "Crucero en catamarán por 3 islas de Pattaya con almuerzo buffet tailandés",
+  "metaTitle": "Pattaya: catamarán 3 islas, almuerzo buffet tailandés",
+  "metaDescription": "Navegue desde Pattaya a bordo de un amplio catamarán de 22 metros hacia tres islas cercanas, con paradas de snorkel, paddle surf, almuerzo buffet tailandés, y una visita a la isla de los Monos.",
+  "shortDescription": "Navegue desde Pattaya a bordo de un amplio catamarán de 22 metros hacia tres islas cercanas, con paradas de snorkel, paddle surf, almuerzo buffet tailandés, y una visita a la isla de los Monos.",
+  "fullDescription": "La mayoría de las excursiones a las islas de Pattaya le amontonan en una lancha rápida para un rápido salto a la playa más cercana. Esta adopta un enfoque diferente: un catamarán de vela de 22 metros que se dirige más lejos, a islas que las multitudes de las excursiones de un día rara vez alcanzan. Koh Phai y Koh Rin se encuentran bastante más allá de la Isla de Coral, y sus aguas son notablemente más claras, con arrecifes de coral vivos que hacen que las paradas de snorkel merezcan verdaderamente la pena en lugar de un chapuzón simbólico.\n\nEl día está construido alrededor del agua. En Koh Phai anclará para una larga parada que combina nadar, hacer snorkel sobre el arrecife, paddle surf, y un almuerzo buffet tailandés servido a bordo. Desde allí el catamarán navega hacia Koh Rin para otra ronda de snorkel y paddle surf en algunas de las aguas más limpias de la zona de Pattaya, antes de una última escala en la isla de los Monos, donde una tropa residente de macacos corretea por la orilla, una divertida parada fotográfica, mejor disfrutada desde una distancia respetuosa.\n\nCon traslados de hotel incluidos desde la ciudad de Pattaya y una tripulación que se encarga de todo, desde el equipo hasta el servicio de almuerzo, es un día completo y sencillo en el mar que se siente más cercano a un chárter privado que a un tour isleño masivo.",
+  "highlights": [
+   "Navegue en un amplio catamarán de 22 metros, no en una lancha rápida apretada",
+   "Haga snorkel sobre vibrantes arrecifes de coral en Koh Phai y Koh Rin",
+   "Almuerzo buffet tailandés servido a bordo",
+   "Pruebe el paddle surf en aguas tranquilas y claras",
+   "Observe macacos salvajes en una parada en la isla de los Monos"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en la ciudad de Pattaya",
+   "Crucero en catamarán a tres islas",
+   "Almuerzo buffet tailandés a bordo",
+   "Equipo de snorkel y tablas de paddle surf",
+   "Refrescos y agua potable",
+   "Tripulación y guía de habla inglesa"
+  ],
+  "notIncluded": [
+   "Bebidas alcohólicas",
+   "Toallas",
+   "Propinas para la tripulación",
+   "Gastos personales"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

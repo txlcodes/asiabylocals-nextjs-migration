@@ -42712,6 +42712,61 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ]
  },
+ "living-green-elephant-sanctuary-chonburi-full-day-tour": {
+  "title": "Excursion d'une journée au sanctuaire d'éléphants éthique depuis Pattaya",
+  "metaTitle": "Sanctuaire d'éléphants éthique depuis Pattaya",
+  "metaDescription": "Passez une journée avec des éléphants sauvés dans un sanctuaire éthique à Chonburi : nourrissez-les, marchez à leurs côtés dans la jungle, rejoignez un bain de boue, et partagez un repas thaïlandais fait maison.",
+  "shortDescription": "Passez une journée avec des éléphants sauvés dans un sanctuaire éthique à Chonburi : nourrissez-les, marchez à leurs côtés dans la jungle, rejoignez un bain de boue, et partagez un repas thaïlandais fait maison.",
+  "fullDescription": "À environ 45 minutes de Pattaya, dans la campagne verdoyante de Chonburi, ce sanctuaire offre quelque chose de plus en plus rare : un moment proche et respectueux avec des éléphants, sans monte ni spectacle. Les animaux y vivent dans un cadre naturel, et la visite s'organise autour de leur routine plutôt que d'un programme de spectacle : vous les nourrissez, marchez avec eux, et, si vous acceptez de vous salir, vous les rejoignez pour leur bain.\n\nLa journée débute par une présentation du troupeau et une séance de nourrissage, où vous tendrez des bananes et de la canne à sucre directement à leurs trompes tendues, une expérience aussi grisante que, étonnamment, douce. De là, vous marcherez aux côtés des éléphants à travers la jungle environnante, observant comment ils se nourrissent et interagissent, tandis que l'équipe du sanctuaire explique l'histoire et les habitudes de chaque animal. Le point fort pour la plupart des visiteurs survient à la fosse de boue et au point d'eau, où vous pouvez frotter et éclabousser aux côtés du troupeau pendant son bain.\n\nUn repas thaïlandais fait maison est compris, et les transferts d'hôtel depuis Pattaya rendent la logistique sans effort. C'est une journée qui convient aussi bien aux familles, aux couples qu'aux voyageurs solo : quiconque souhaite un vrai moment avec des éléphants dans un cadre pensé pour leur bien-être.",
+  "highlights": [
+   "Nourrissez à la main des éléphants sauvés avec des bananes et de la canne à sucre",
+   "Marchez aux côtés du troupeau sur un trek doux en jungle",
+   "Rejoignez les éléphants pour leur bain de boue et leurs éclaboussures en rivière",
+   "Sanctuaire éthique, sans monte, dans la campagne de Chonburi",
+   "Repas thaïlandais fait maison compris"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Pattaya",
+   "Entrée au sanctuaire et programme guidé",
+   "Panier de nourriture pour éléphants",
+   "Repas thaïlandais fait maison",
+   "Eau potable",
+   "Guide anglophone du sanctuaire"
+  ],
+  "notIncluded": [
+   "Serviette et vêtements de rechange",
+   "Pourboires pour le personnel",
+   "Dépenses personnelles et souvenirs"
+  ]
+ },
+ "monkey-island-chonburi-boat-tour": {
+  "title": "Croisière en catamaran entre 3 îles de Pattaya avec déjeuner buffet thaïlandais",
+  "metaTitle": "Pattaya : catamaran 3 îles, déjeuner buffet thaïlandais",
+  "metaDescription": "Naviguez depuis Pattaya à bord d'un spacieux catamaran de 22 mètres vers trois îles au large, avec arrêts de plongée avec tuba, paddleboard, déjeuner buffet thaïlandais, et visite de l'île des Singes.",
+  "shortDescription": "Naviguez depuis Pattaya à bord d'un spacieux catamaran de 22 mètres vers trois îles au large, avec arrêts de plongée avec tuba, paddleboard, déjeuner buffet thaïlandais, et visite de l'île des Singes.",
+  "fullDescription": "La plupart des excursions insulaires de Pattaya vous entassent sur un hors-bord pour un aller-retour rapide vers la plage la plus proche. Celle-ci adopte une approche différente : un catamaran à voile de 22 mètres qui se dirige plus loin vers des îles que les foules des excursions d'une journée atteignent rarement. Koh Phai et Koh Rin se trouvent bien au-delà de l'île de Corail, et leurs eaux sont sensiblement plus claires, avec des récifs coralliens vivants qui font des arrêts de plongée avec tuba une véritable valeur plutôt qu'une simple baignade symbolique.\n\nLa journée s'organise autour de l'eau. À Koh Phai, vous mouillerez pour un long arrêt combinant baignade, plongée avec tuba sur le récif, paddleboard, et un déjeuner buffet thaïlandais servi à bord. De là, le catamaran navigue vers Koh Rin pour une autre session de plongée avec tuba et de paddleboard dans certaines des eaux les plus propres de la région de Pattaya, avant une dernière escale à l'île des Singes, où une troupe résidente de macaques gambade le long du rivage, un arrêt photo amusant, à apprécier de préférence à distance respectueuse.\n\nAvec les transferts d'hôtel compris depuis la ville de Pattaya et un équipage s'occupant de tout, de l'équipement au service du déjeuner, c'est une journée complète et facile en mer qui ressemble davantage à une location privée qu'à une excursion insulaire de masse.",
+  "highlights": [
+   "Naviguez sur un spacieux catamaran de 22 mètres, pas un hors-bord exigu",
+   "Plongée avec tuba sur des récifs coralliens vivants à Koh Phai et Koh Rin",
+   "Déjeuner buffet thaïlandais servi à bord",
+   "Essayez le paddleboard dans une eau calme et claire",
+   "Observez des macaques sauvages lors d'une escale à l'île des Singes"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel dans la ville de Pattaya",
+   "Croisière en catamaran vers trois îles",
+   "Déjeuner buffet thaïlandais à bord",
+   "Équipement de plongée avec tuba et paddleboards",
+   "Boissons non alcoolisées et eau potable",
+   "Équipage et guide anglophone"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisées",
+   "Serviettes",
+   "Pourboires pour l'équipage",
+   "Dépenses personnelles"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

@@ -42712,6 +42712,61 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "living-green-elephant-sanctuary-chonburi-full-day-tour": {
+  "title": "Tagesausflug zum ethischen Elefanten-Schutzgebiet ab Pattaya",
+  "metaTitle": "Ethisches Elefanten-Schutzgebiet ab Pattaya",
+  "metaDescription": "Verbringen Sie einen Tag mit geretteten Elefanten in einem ethischen Schutzgebiet in Chonburi: füttern Sie sie, gehen Sie neben ihnen durch den Dschungel, nehmen Sie an einem Schlammbad teil, und teilen Sie eine hausgemachte thailändische Mahlzeit.",
+  "shortDescription": "Verbringen Sie einen Tag mit geretteten Elefanten in einem ethischen Schutzgebiet in Chonburi: füttern Sie sie, gehen Sie neben ihnen durch den Dschungel, nehmen Sie an einem Schlammbad teil, und teilen Sie eine hausgemachte thailändische Mahlzeit.",
+  "fullDescription": "Etwa 45 Minuten außerhalb von Pattaya, im grünen Hinterland von Chonburi, bietet dieses Schutzgebiet etwas zunehmend Seltenes: nahe, respektvolle Zeit mit Elefanten, ohne Reiten oder Vorführungen. Die Tiere leben hier in natürlicher Umgebung, und der Besuch ist um ihre Routine herum aufgebaut statt um einen Showplan, Sie füttern sie, gehen mit ihnen, und, wenn Sie bereit sind, schmutzig zu werden, begleiten Sie sie bei ihrem Bad.\n\nDer Tag beginnt mit einer Einführung in die Herde und einer Fütterungssession, bei der Sie Bananen und Zuckerrohr direkt in ausgestreckte Rüssel reichen, ein Erlebnis, das gleichermaßen aufregend wie überraschend sanft ist. Von dort wandern Sie zusammen mit den Elefanten durch den umgebenden Dschungel und beobachten, wie sie nach Futter suchen und miteinander interagieren, während das Team des Schutzgebiets die Geschichte und Gewohnheiten jedes Tieres erklärt. Den Höhepunkt für die meisten Besucher bildet die Schlammgrube und das Wasserloch, wo Sie zusammen mit der Herde während ihres Bads schrubben und planschen können.\n\nEine hausgemachte thailändische Mahlzeit ist inklusive, und Hoteltransfers ab Pattaya machen die Logistik mühelos. Es ist ein Tag, der sich für Familien, Paare und Alleinreisende gleichermaßen eignet, für alle, die echte Zeit mit Elefanten in einer Umgebung wollen, die um ihr Wohlergehen herum aufgebaut ist.",
+  "highlights": [
+   "Füttern Sie gerettete Elefanten von Hand mit Bananen und Zuckerrohr",
+   "Gehen Sie neben der Herde auf einer sanften Dschungelwanderung",
+   "Begleiten Sie die Elefanten bei ihrem Schlammbad und Flussgeplansche",
+   "Ethisches Schutzgebiet ohne Reiten im Hinterland von Chonburi",
+   "Hausgemachte thailändische Mahlzeit inklusive"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Pattaya",
+   "Eintritt ins Schutzgebiet und geführtes Programm",
+   "Futterkorb für die Elefanten",
+   "Hausgemachte thailändische Mahlzeit",
+   "Trinkwasser",
+   "Englischsprachiger Guide des Schutzgebiets"
+  ],
+  "notIncluded": [
+   "Handtuch und Wechselkleidung",
+   "Trinkgelder für das Personal",
+   "Persönliche Ausgaben und Souvenirs"
+  ]
+ },
+ "monkey-island-chonburi-boat-tour": {
+  "title": "Pattaya 3-Insel-Katamaran-Kreuzfahrt mit thailändischem Buffet-Mittagessen",
+  "metaTitle": "Pattaya: Katamaran 3 Inseln, thailändisches Buffet-Mittagessen",
+  "metaDescription": "Segeln Sie ab Pattaya an Bord eines geräumigen 22 Meter langen Katamarans zu drei vorgelagerten Inseln, mit Schnorchelstopps, Paddleboarding, thailändischem Buffet-Mittagessen, und einem Besuch der Affeninsel.",
+  "shortDescription": "Segeln Sie ab Pattaya an Bord eines geräumigen 22 Meter langen Katamarans zu drei vorgelagerten Inseln, mit Schnorchelstopps, Paddleboarding, thailändischem Buffet-Mittagessen, und einem Besuch der Affeninsel.",
+  "fullDescription": "Die meisten Pattaya-Inselausflüge drängen Sie auf ein Speedboot für einen schnellen Sprint zum nächstgelegenen Strand. Dieser hier wählt einen anderen Ansatz: einen 22 Meter langen Segelkatamaran, der weiter hinausfährt zu Inseln, die die Tagesausflug-Menschenmassen selten erreichen. Koh Phai und Koh Rin liegen deutlich jenseits der Coral Island, und ihr Wasser ist merklich klarer, mit lebenden Korallenriffen, die die Schnorchelstopps wirklich lohnenswert machen statt eines symbolischen Eintauchens.\n\nDer Tag ist um das Wasser herum aufgebaut. Bei Koh Phai ankern Sie für einen langen Stopp, der Schwimmen, Schnorcheln über dem Riff, Stand-up-Paddleboarding, und ein an Bord serviertes thailändisches Buffet-Mittagessen kombiniert. Von dort segelt der Katamaran weiter nach Koh Rin für eine weitere Runde Schnorcheln und Paddleboarding in einigen der saubersten Gewässer im Gebiet Pattaya, bevor ein letzter Halt an der Affeninsel erfolgt, wo eine ansässige Makakentruppe am Ufer entlangtollt, ein lustiger Fotostopp, am besten aus respektvollem Abstand genossen.\n\nMit inklusiven Hoteltransfers ab der Stadt Pattaya und einer Crew, die sich um alles von der Ausrüstung bis zum Mittagessen-Service kümmert, ist es ein einfacher, voller Tag auf See, der sich eher wie ein privates Charter als wie eine Massen-Inseltour anfühlt.",
+  "highlights": [
+   "Segeln Sie auf einem geräumigen 22 Meter langen Katamaran, nicht auf einem engen Speedboot",
+   "Schnorcheln über lebendigen Korallenriffen bei Koh Phai und Koh Rin",
+   "Thailändisches Buffet-Mittagessen an Bord serviert",
+   "Probieren Sie Stand-up-Paddleboarding im ruhigen, klaren Wasser",
+   "Entdecken Sie wilde Makaken bei einem Stopp an der Affeninsel"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in der Stadt Pattaya",
+   "Katamaran-Kreuzfahrt zu drei Inseln",
+   "Thailändisches Buffet-Mittagessen an Bord",
+   "Schnorchelausrüstung und Stand-up-Paddleboards",
+   "Softdrinks und Trinkwasser",
+   "Crew und englischsprachiger Guide"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke",
+   "Handtücher",
+   "Trinkgelder für die Crew",
+   "Persönliche Ausgaben"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
