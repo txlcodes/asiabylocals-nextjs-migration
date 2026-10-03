@@ -17,7 +17,7 @@ export interface AttractionData {
 }
 
 export const CITIES: CityData[] = [
-  { id: 'siem-reap', name: 'Siem Reap', image: 'https://images.asiabylocals.com/asiabylocals/tours/angkor-temples-off-track-bicycle-tour/img0/1600.webp', localAngle: 'Angkor Wat & Temples', guidesCount: 1085 },
+  { id: 'siem-reap', name: 'Siem Reap', image: 'https://images.asiabylocals.com/asiabylocals/tours/angkor-sunrise-or-sunset-tour/img0/1600.webp', localAngle: 'Angkor Wat & Temples', guidesCount: 1085 },
   { id: 'delhi', name: 'Delhi', image: '/delhi-home.webp', localAngle: 'Historic Capital', guidesCount: 648 },
   { id: 'bali', name: 'Ubud', image: 'https://images.asiabylocals.com/asiabylocals/tours/waterfall-rice-terraces-and-monkey-forest-private-tour-in-ubud/img0/1600.webp', localAngle: 'Spirit & Jungle', guidesCount: 598 },
   { id: 'agra', name: 'Agra', image: '/agra-hero.webp', localAngle: 'Mughal Heritage', guidesCount: 559 },

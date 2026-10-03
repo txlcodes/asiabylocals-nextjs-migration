@@ -218,7 +218,7 @@ const HERO_IMAGES = [
 // ── City guides data for "Trip inspiration" dropdown ─────────────────
 
 const CITY_GUIDES = [
-  { name: 'Siem Reap', image: 'https://images.asiabylocals.com/asiabylocals/tours/angkor-temples-off-track-bicycle-tour/img0/1600.webp' },
+  { name: 'Siem Reap', image: 'https://images.asiabylocals.com/asiabylocals/tours/angkor-sunrise-or-sunset-tour/img0/1600.webp' },
   { name: 'Delhi', image: '/delhi-home.webp' },
   { name: 'Ubud', image: 'https://images.asiabylocals.com/asiabylocals/tours/waterfall-rice-terraces-and-monkey-forest-private-tour-in-ubud/img0/1600.webp' },
   { name: 'Agra', image: '/agra-hero.webp' },
