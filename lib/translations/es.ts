@@ -31783,6 +31783,1375 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Excursión de un Día al Santuario de Elefantes Living Green en Chiang Mai",
   "metaDescription": "Tour de 3 horas en Chiang Mai. Incluye: comida. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "gel-colors-and-blissful-hand-and-foot-ritual-in-bangkok": {
+  "title": "Colores de Gel y Ritual Blissful de Manos y Pies en Bangkok",
+  "fullDescription": "Esta es una experiencia de 2,5 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye paquete de reflexología de manos y pies Blissful y limpieza profunda y exfoliación suave. No incluye eliminación de colores de gel antiguos, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2,5 horas",
+   "Paquete de reflexología de manos y pies Blissful",
+   "Limpieza profunda y exfoliación suave"
+  ],
+  "included": [
+   "Paquete de reflexología de manos y pies Blissful",
+   "Limpieza profunda y exfoliación suave"
+  ],
+  "notIncluded": [
+   "Eliminación de colores de gel antiguos"
+  ],
+  "shortDescription": "Tour en Bangkok, que incluye paquete de reflexología de manos y pies Blissful y limpieza profunda y exfoliación suave. Operador: Proudtopray Intertrade co.,ltd, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Colores de Gel y Ritual Blissful de Manos y Pies en Bangkok",
+  "metaDescription": "Tour en Bangkok. Incluye: paquete de reflexología de manos y pies Blissful. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "sabuy-sleep-salon-head-spa-at-terminal-21-asok-in-bangkok": {
+  "title": "Spa Capilar Sabuy Sleep Salon en Terminal 21 Asok en Bangkok",
+  "fullDescription": "Esta es una experiencia de 40 minutos en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye spa capilar o ritual de cuero cabelludo seleccionado y uso de productos naturales premium para el cuidado del cabello. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 40 minutos",
+   "Spa capilar o ritual de cuero cabelludo seleccionado",
+   "Uso de productos naturales premium para el cuidado del cabello"
+  ],
+  "included": [
+   "Spa capilar o ritual de cuero cabelludo seleccionado",
+   "Uso de productos naturales premium para el cuidado del cabello"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de 0,6666666666666666 horas en Bangkok, que incluye spa capilar o ritual de cuero cabelludo seleccionado y uso de productos naturales premium para el cuidado del cabello. Operador: Sabuy Sleep Salon, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Spa Capilar Sabuy Sleep Salon en Terminal 21 Asok en Bangkok",
+  "metaDescription": "Tour de 0,6666666666666666 horas en Bangkok. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "hotaru-119-omakase-and-izakaya-seasonal-tastings-in-bangkok": {
+  "title": "Omakase Hotaru 119 y Degustaciones Izakaya de Temporada en Bangkok",
+  "fullDescription": "Esta es una experiencia de 1,5 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye sabores auténticos con presentación creativa, experiencia omakase premium de temporada y acogedor. No incluye propinas y transporte, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1,5 horas",
+   "Sabores auténticos con presentación creativa",
+   "Experiencia omakase premium de temporada",
+   "Ambiente japonés contemporáneo y acogedor"
+  ],
+  "included": [
+   "Sabores auténticos con presentación creativa",
+   "Experiencia omakase premium de temporada",
+   "Ambiente japonés contemporáneo y acogedor"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Transporte"
+  ],
+  "shortDescription": "Tour en Bangkok, que incluye sabores auténticos con presentación creativa, experiencia omakase premium de temporada y acogedor. Operador: Hungry Hub, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Omakase Hotaru 119 y Degustaciones Izakaya de Temporada en Bangkok",
+  "metaDescription": "Tour en Bangkok. Incluye: sabores auténticos con presentación creativa. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "viva-alangka-chao-phraya-dinner-cruise-tour-in-bangkok": {
+  "title": "Crucero Cena Viva Alangka en el Chao Phraya en Bangkok",
+  "fullDescription": "Esta es una experiencia en Bangkok, centrada en Río Chao Phraya, Gran Palacio de Bangkok y Wat Arun. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye crucero por el río Chao Phraya. No incluye traslados al hotel, gastos personales, bebidas alcohólicas y seguro de viaje, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Río Chao Phraya",
+   "Gran Palacio de Bangkok",
+   "Wat Arun",
+   "Puente Rama VIII",
+   "Crucero por el río Chao Phraya"
+  ],
+  "included": [
+   "Crucero por el río Chao Phraya"
+  ],
+  "notIncluded": [
+   "Traslados al hotel",
+   "Gastos personales",
+   "Bebidas alcohólicas",
+   "Seguro de viaje",
+   "Compras adicionales a bordo"
+  ],
+  "shortDescription": "Tour en Bangkok, con Río Chao Phraya, Gran Palacio de Bangkok y Wat Arun. Operador: GlobalTix (Thailand) Co., Ltd., con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Crucero Cena Viva Alangka en el Chao Phraya en Bangkok",
+  "metaDescription": "Tour en Bangkok. Incluye: crucero por el río Chao Phraya. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "visit-wat-pho-and-wat-arun-with-local-expert-bangkok": {
+  "title": "Visita al Wat Pho y al Wat Arun con un Experto Local (Bangkok)",
+  "fullDescription": "Esta es una experiencia de 3 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía y una botella de agua potable por persona. No incluye tarifas de entrada: 500 THB por persona, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 horas",
+   "Guía de habla inglesa",
+   "Una botella de agua potable por persona"
+  ],
+  "included": [
+   "Guía de habla inglesa",
+   "Una botella de agua potable por persona"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada: 500 THB por persona"
+  ],
+  "shortDescription": "Tour de 3 horas en Bangkok, que incluye guía y una botella de agua potable por persona. Operador: CanalTour x ExploreSiam, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Visita al Wat Pho y al Wat Arun con un Experto Local (Bangkok)",
+  "metaDescription": "Tour de 3 horas en Bangkok. Incluye: guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "thai-dance-class-in-bangkok": {
+  "title": "Clase de Danza Tailandesa en Bangkok",
+  "fullDescription": "Esta es una experiencia de 2 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye servicio de recogida en el punto de encuentro, se proporcionan postres tailandeses y bebidas de bienvenida y vestido tradicional tailandés con accesorios completos. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Bangkok. ThaiGlam Studio confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 horas",
+   "Servicio de recogida en el punto de encuentro (muelle del Wat Arun)",
+   "Se proporcionan postres tailandeses y bebidas de bienvenida",
+   "Vestido tradicional tailandés con accesorios completos"
+  ],
+  "included": [
+   "Servicio de recogida en el punto de encuentro (muelle del Wat Arun)",
+   "Se proporcionan postres tailandeses y bebidas de bienvenida",
+   "Vestido tradicional tailandés con accesorios completos"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour de 2 horas en Bangkok, que incluye servicio de recogida en el punto de encuentro, se proporcionan postres tailandeses y bebidas de bienvenida y vestido tradicional tailandés con accesorios completos. Operador: ThaiGlam Studio, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Clase de Danza Tailandesa en Bangkok",
+  "metaDescription": "Tour de 2 horas en Bangkok. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "railway-floating-market-and-dragon-temple-day-tour": {
+  "title": "Tour de un Día: Ferrocarril, Mercado Flotante y Templo del Dragón",
+  "fullDescription": "Esta es una experiencia de 8 horas desde Bangkok, centrada en Mercado del tren de Maeklong, Mercado flotante de Damnoen Saduak y Wat Sam Phran. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nDamnoen Saduak, a 100 kilómetros al suroeste de Bangkok, es el mercado flotante de las postales: barcas de fruta y fideos en un canal excavado en la década de 1860, en marcha a las 7:00 y terminado a las 11:00, y por eso las excursiones salen de la ciudad a las 6:30. Está lleno y buena parte del comercio son recuerdos, y aun así merece una hora sobre el agua. Amphawa, cerca de allí, funciona de viernes a domingo por la tarde y por la noche y es el que prefieren los habitantes de Bangkok, con salidas en barca a ver luciérnagas al caer la noche. Taling Chan y Khlong Lat Mayom son mercados pequeños de fin de semana dentro de la ciudad, donde lo que importa es la comida.\n\nEl precio incluye guía experto, transporte y paseo en barco en el mercado flotante de Damnoen Saduak. No incluye comidas y bebidas, gastos personales, propinas y donaciones en el Wat Samphran, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Mercado del tren de Maeklong",
+   "Mercado flotante de Damnoen Saduak",
+   "Wat Sam Phran",
+   "Duración: 8 horas",
+   "Guía experto",
+   "Transporte"
+  ],
+  "included": [
+   "Guía experto",
+   "Transporte",
+   "Paseo en barco en el mercado flotante de Damnoen Saduak"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "Gastos personales",
+   "Propinas",
+   "Donaciones en el Wat Samphran"
+  ],
+  "shortDescription": "Tour de día completo en Bangkok, con Mercado del tren de Maeklong, Mercado flotante de Damnoen Saduak y Wat Sam Phran. Operador: DiscoverEase Tours, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour de un Día: Ferrocarril, Mercado Flotante y Templo del Dragón",
+  "metaDescription": "Tour de día completo en Bangkok. Incluye: guía experto y transporte. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "rogue-marina-airsoft-battle-arena-experience-in-bangkok": {
+  "title": "Experiencia en la Arena de Combate de Airsoft Rogue Marina en Bangkok",
+  "fullDescription": "Esta es una experiencia de 4 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada a Rogue Marina Airsoft, pistola de bolitas y todo el equipo de seguridad. No incluye comida y bebida y una bolsa de balas está disponible por 240 THB e incluye, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 4 horas",
+   "Entrada a Rogue Marina Airsoft",
+   "Pistola de bolitas",
+   "Todo el equipo de seguridad"
+  ],
+  "included": [
+   "Entrada a Rogue Marina Airsoft",
+   "Pistola de bolitas",
+   "Todo el equipo de seguridad"
+  ],
+  "notIncluded": [
+   "Comida y bebida",
+   "Una bolsa de balas está disponible por 240 THB e incluye unos 4.000 cartuchos"
+  ],
+  "shortDescription": "Tour de medio día en Bangkok, que incluye entrada a Rogue Marina Airsoft, pistola de bolitas y todo el equipo de seguridad. Operador: SIAM SCAPE JOURNEYS CO.,LTD., con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Experiencia en la Arena de Combate de Airsoft Rogue Marina en Bangkok",
+  "metaDescription": "Tour de medio día en Bangkok. Incluye: entrada a Rogue Marina Airsoft. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "private-floating-market-and-train-market-english-guide-bangkok": {
+  "title": "Mercado Flotante Privado y Mercado del Tren, Guía en Inglés (Bangkok)",
+  "fullDescription": "Esta es una experiencia de 8,5 horas desde Bangkok, centrada en Tren, Mercado del tren de Maeklong y Barco fluvial. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nDamnoen Saduak, a 100 kilómetros al suroeste de Bangkok, es el mercado flotante de las postales: barcas de fruta y fideos en un canal excavado en la década de 1860, en marcha a las 7:00 y terminado a las 11:00, y por eso las excursiones salen de la ciudad a las 6:30. Está lleno y buena parte del comercio son recuerdos, y aun así merece una hora sobre el agua. Amphawa, cerca de allí, funciona de viernes a domingo por la tarde y por la noche y es el que prefieren los habitantes de Bangkok, con salidas en barca a ver luciérnagas al caer la noche. Taling Chan y Khlong Lat Mayom son mercados pequeños de fin de semana dentro de la ciudad, donde lo que importa es la comida.\n\nSe ofrece recogida desde Din Daeng, Bangkok, Ratchathewi, Khlong Toei, Sathon y Phra Khanong; el lugar y la hora exactos se acuerdan con TRIPZA sightseeing una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye guía de habla inglesa totalmente autorizado, transporte en furgoneta climatizada, paseo en barca, viaje en tren y audioguía en 28 idiomas. No incluye comidas, auriculares para la audioguía, gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Tren",
+   "Mercado del tren de Maeklong",
+   "Barco fluvial",
+   "Mercado flotante de Damnoen Saduak",
+   "Duración: 8,5 horas",
+   "Guía de habla inglesa totalmente autorizado"
+  ],
+  "included": [
+   "Guía de habla inglesa totalmente autorizado",
+   "Transporte en furgoneta climatizada",
+   "Paseo en barca",
+   "Viaje en tren",
+   "Audioguía en 28 idiomas",
+   "Botella de agua"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Auriculares para la audioguía",
+   "Gastos personales",
+   "Propinas"
+  ],
+  "shortDescription": "Tour en Bangkok, con Mercado del tren de Maeklong, Barco fluvial y Mercado flotante de Damnoen Saduak. Operador: TRIPZA sightseeing, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Mercado Flotante Privado y Mercado del Tren, Guía en Inglés",
+  "metaDescription": "Tour en Bangkok. Incluye: guía de habla inglesa totalmente autorizado. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "calypso-with-thai-classical-dance-in-bangkok": {
+  "title": "Calypso con Danza Clásica Tailandesa en Bangkok",
+  "fullDescription": "Esta es una experiencia en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada para la danza clásica tailandesa, menú fijo tailandés y café o té. No incluye gastos propios y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Entrada para la danza clásica tailandesa",
+   "Menú fijo tailandés",
+   "Café o té"
+  ],
+  "included": [
+   "Entrada para la danza clásica tailandesa",
+   "Menú fijo tailandés",
+   "Café o té"
+  ],
+  "notIncluded": [
+   "Gastos propios",
+   "Propinas"
+  ],
+  "shortDescription": "Tour en Bangkok, que incluye entrada para la danza clásica tailandesa, menú fijo tailandés y café o té. Operador: One Asia Corporation, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Calypso con Danza Clásica Tailandesa en Bangkok",
+  "metaDescription": "Tour en Bangkok. Incluye: entrada para la danza clásica tailandesa. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "chandee-head-spa-and-massage-at-sukhumvit-39-in-bangkok": {
+  "title": "Spa Capilar y Masaje Chandee en Sukhumvit 39 en Bangkok",
+  "fullDescription": "Esta es una experiencia de 1,5 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye tratamiento seleccionado con productos orgánicos, acceso al salón de relajación y infusión de hierbas. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1,5 horas",
+   "Tratamiento seleccionado con productos orgánicos",
+   "Acceso al salón de relajación",
+   "Infusión de hierbas"
+  ],
+  "included": [
+   "Tratamiento seleccionado con productos orgánicos",
+   "Acceso al salón de relajación",
+   "Infusión de hierbas"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour en Bangkok, que incluye tratamiento seleccionado con productos orgánicos, acceso al salón de relajación y infusión de hierbas. Operador: Chandee Health Massage, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Spa Capilar y Masaje Chandee en Sukhumvit 39 en Bangkok",
+  "metaDescription": "Tour en Bangkok. Incluye: tratamiento seleccionado con productos orgánicos. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "riverside-faraya-halal-dinner-cruise-at-asiatigue-in-bangkok": {
+  "title": "Crucero Cena Halal Riverside Faraya en Asiatique en Bangkok",
+  "fullDescription": "Esta es una experiencia de 2 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye buffet tailandés-internacional halal, actuaciones en directo de saxofón/música y salas de oración designadas. No incluye bebidas alcohólicas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 horas",
+   "Buffet tailandés-internacional halal",
+   "Actuaciones en directo de saxofón/música",
+   "Salas de oración designadas"
+  ],
+  "included": [
+   "Buffet tailandés-internacional halal",
+   "Actuaciones en directo de saxofón/música",
+   "Salas de oración designadas"
+  ],
+  "notIncluded": [
+   "Bebidas alcohólicas"
+  ],
+  "shortDescription": "Tour de 2 horas en Bangkok, que incluye buffet tailandés-internacional halal, actuaciones en directo de saxofón/música y salas de oración designadas. Operador: PR Travel Services, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Crucero Cena Halal Riverside Faraya en Asiatique en Bangkok",
+  "metaDescription": "Tour de 2 horas en Bangkok. Incluye: buffet tailandés-internacional halal. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "viral-head-spa-kiss-series-with-aroma-oil-treatment-in-bangkok": {
+  "title": "Serie Viral de Spa Capilar Kiss con Tratamiento de Aceites Aromáticos en Bangkok",
+  "fullDescription": "Esta es una experiencia de 1,5 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye análisis del cuero cabelludo y el cabello y asesoramiento personalizado de cuidado posterior. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1,5 horas",
+   "Análisis del cuero cabelludo y el cabello",
+   "Asesoramiento personalizado de cuidado posterior"
+  ],
+  "included": [
+   "Análisis del cuero cabelludo y el cabello",
+   "Asesoramiento personalizado de cuidado posterior"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour en Bangkok, que incluye análisis del cuero cabelludo y el cabello y asesoramiento personalizado de cuidado posterior. Operador: Proudtopray Intertrade co.,ltd, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Serie Viral de Spa Capilar Kiss con Tratamiento de Aceites Aromáticos en Bangkok",
+  "metaDescription": "Tour en Bangkok. Incluye: análisis del cuero cabelludo y el cabello. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "sabuy-sleep-salon-head-spa-at-siam-square-soi-3-in-bangkok": {
+  "title": "Spa Capilar Sabuy Sleep Salon en Siam Square Soi 3 en Bangkok",
+  "fullDescription": "Esta es una experiencia de 40 minutos en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye spa capilar o ritual de cuero cabelludo seleccionado y uso de productos naturales premium para el cuidado del cabello. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 40 minutos",
+   "Spa capilar o ritual de cuero cabelludo seleccionado",
+   "Uso de productos naturales premium para el cuidado del cabello"
+  ],
+  "included": [
+   "Spa capilar o ritual de cuero cabelludo seleccionado",
+   "Uso de productos naturales premium para el cuidado del cabello"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de 0,6666666666666666 horas en Bangkok, que incluye spa capilar o ritual de cuero cabelludo seleccionado y uso de productos naturales premium para el cuidado del cabello. Operador: Sabuy Sleep Salon, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Spa Capilar Sabuy Sleep Salon en Siam Square Soi 3 en Bangkok",
+  "metaDescription": "Tour de 0,6666666666666666 horas en Bangkok. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "bangkok-royal-boat-tour": {
+  "title": "Crucero Cena Royal Princess con Música en Directo en Bangkok",
+  "fullDescription": "Esta es una experiencia de 1,5 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye buffet internacional y mariscos, bebida de bienvenida, agua potable, café caliente o té caliente y música en directo. No incluye recogida y regreso al hotel, gastos personales y refrescos, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRoyal Princess Cruise. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1,5 horas",
+   "Buffet internacional y mariscos",
+   "Bebida de bienvenida",
+   "Agua potable",
+   "Café caliente o té caliente",
+   "Música en directo"
+  ],
+  "included": [
+   "Buffet internacional y mariscos",
+   "Bebida de bienvenida",
+   "Agua potable",
+   "Café caliente o té caliente",
+   "Música en directo"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Gastos personales",
+   "Refrescos, zumos y bebidas alcohólicas (se venden por separado)"
+  ],
+  "shortDescription": "Tour en Bangkok, que incluye buffet internacional y mariscos, bebida de bienvenida y agua potable. Operador: OTO TRIP SERVICE CO., LTD, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Crucero Cena Royal Princess con Música en Directo en Bangkok",
+  "metaDescription": "Tour en Bangkok. Incluye: buffet internacional y mariscos. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "make-your-own-thai-inhaler-yadom-workshop-in-bangkok": {
+  "title": "Taller para Crear su Propio Inhalador Tailandés (Yadom) en Bangkok",
+  "fullDescription": "Esta es una experiencia de 1 hora en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye cree su propio inhalador de hierbas tailandés, conozca las hierbas tailandesas tradicionales, bebida de bienvenida y oportunidades de fotos en un entorno de estilo colonial. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1 hora",
+   "Cree su propio inhalador de hierbas tailandés (tamaño portátil)",
+   "Conozca las hierbas tailandesas tradicionales",
+   "Bebida de bienvenida",
+   "Oportunidades de fotos en un entorno de estilo colonial"
+  ],
+  "included": [
+   "Cree su propio inhalador de hierbas tailandés (tamaño portátil)",
+   "Conozca las hierbas tailandesas tradicionales",
+   "Bebida de bienvenida",
+   "Oportunidades de fotos en un entorno de estilo colonial"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour de 1 hora en Bangkok, que incluye cree su propio inhalador de hierbas tailandés, conozca las hierbas tailandesas tradicionales y bebida de bienvenida. Operador: Homprungbybaihor CO., LTD., con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Taller para Crear su Propio Inhalador Tailandés en Bangkok",
+  "metaDescription": "Tour de 1 hora en Bangkok. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "wonderful-pearl-dinner-river-cruise-with-live-music-in-bangkok": {
+  "title": "Crucero Cena Wonderful Pearl por el Río con Música en Directo en Bangkok",
+  "fullDescription": "Esta es una experiencia de 2 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye crucero cena por el río Chao Phraya, buffet internacional, música en directo, danza tailandesa tradicional y actuación de Khon y agua potable de cortesía. No incluye traslado al hotel y otros gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 horas",
+   "Crucero cena por el río Chao Phraya",
+   "Buffet internacional",
+   "Música en directo",
+   "Danza tailandesa tradicional y actuación de Khon",
+   "Agua potable, té y café gratuitos"
+  ],
+  "included": [
+   "Crucero cena por el río Chao Phraya",
+   "Buffet internacional",
+   "Música en directo",
+   "Danza tailandesa tradicional y actuación de Khon",
+   "Agua potable, té y café gratuitos"
+  ],
+  "notIncluded": [
+   "Traslado al hotel",
+   "Otros gastos personales"
+  ],
+  "shortDescription": "Tour de 2 horas en Bangkok, que incluye crucero cena por el río Chao Phraya, buffet internacional y música en directo. Operador: GRAND PEARL CO., LTD., con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Crucero Cena Wonderful Pearl por el Río con Música en Directo en Bangkok",
+  "metaDescription": "Tour de 2 horas en Bangkok. Incluye: crucero cena por el río Chao Phraya. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "bangkok-cabaret-entry-ticket": {
+  "title": "Entrada al Espectáculo de Cabaret Golden Dome en Bangkok",
+  "fullDescription": "Esta es una experiencia de 1 hora en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada. No incluye comida y bebidas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1 hora",
+   "Entrada"
+  ],
+  "included": [
+   "Entrada"
+  ],
+  "notIncluded": [
+   "Comida y bebidas"
+  ],
+  "shortDescription": "Entrada en Bangkok, que incluye entrada. Operador: OTO TRIP SERVICE CO., LTD, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Entrada al Espectáculo de Cabaret Golden Dome en Bangkok",
+  "metaDescription": "Entrada en Bangkok. Incluye: entrada. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "jim-thompson-a-thai-restaurant-food-and-drink-packages-in-bangkok": {
+  "title": "Jim Thompson, un Restaurante Tailandés: Paquetes de Comida y Bebida en Bangkok",
+  "fullDescription": "Esta es una experiencia de 1,5 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye acogida cálida, deliciosa comida y bebidas tailandesas, excelente hospitalidad y excelente experiencia gastronómica. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1,5 horas",
+   "Cálida hospitalidad, cocina excepcional y convivencia que deleitaron a los invitados en la casa del Rey de la Seda",
+   "Deliciosa comida y bebidas tailandesas",
+   "Excelente hospitalidad",
+   "Excelente experiencia gastronómica"
+  ],
+  "included": [
+   "Cálida hospitalidad, cocina excepcional y convivencia que deleitaron a los invitados en la casa del Rey de la Seda",
+   "Deliciosa comida y bebidas tailandesas",
+   "Excelente hospitalidad",
+   "Excelente experiencia gastronómica"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour en Bangkok, que incluye acogida cálida, deliciosa comida y bebidas tailandesas y excelente hospitalidad. Operador: Hungry Hub, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Jim Thompson, un Restaurante Tailandés: Paquetes de Comida",
+  "metaDescription": "Tour en Bangkok. Incluye: acogida cálida. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "river-kwai-and-death-railway-history-view-and-local-lunch-in-bangkok": {
+  "title": "Río Kwai y Ferrocarril de la Muerte: Historia, Vistas y Almuerzo Local en Bangkok",
+  "fullDescription": "Esta es una experiencia de 12 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel, vehículo con aire acondicionado, guía en persona, almuerzo tailandés local y tarifas de entrada al parque nacional de Erawan. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Bangkok. WendyMu Travel confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 12 horas",
+   "Recogida y regreso al hotel",
+   "Vehículo con aire acondicionado",
+   "Guía en persona",
+   "Almuerzo tailandés local",
+   "Tarifas de entrada al parque nacional de Erawan"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Vehículo con aire acondicionado",
+   "Guía en persona",
+   "Almuerzo tailandés local",
+   "Tarifas de entrada al parque nacional de Erawan",
+   "Billete de tren al ferrocarril de la muerte"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de día completo en Bangkok, que incluye recogida y regreso al hotel, vehículo con aire acondicionado y guía en persona. Operador: WendyMu Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Río Kwai y Ferrocarril de la Muerte: Historia, Vistas y Almuerzo Local en Bangkok",
+  "metaDescription": "Tour de día completo en Bangkok. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "longtail-boat-canal-tour-to-wat-arun": {
+  "title": "Tour por los Canales en Barco Longtail hasta el Wat Arun",
+  "fullDescription": "Esta es una experiencia de 3 horas desde Bangkok, centrada en Casa de artistas de Khlong Bang Luang, barco fluvial, Wat Paknam Phasi Charoen y Barco fluvial. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye tour de 3 horas en barco longtail, guía y seguro. No incluye gastos personales y entradas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nTha Tian Pier ท่าเรือท่าเตียน. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Casa de artistas de Khlong Bang Luang, barco fluvial",
+   "Wat Paknam Phasi Charoen",
+   "Barco fluvial",
+   "Wat Arun",
+   "Duración: 3 horas",
+   "Tour de 3 horas en barco longtail"
+  ],
+  "included": [
+   "Tour de 3 horas en barco longtail",
+   "Guía de habla inglesa",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Tarifas de entrada (Wat Arun 200 THB)"
+  ],
+  "shortDescription": "Tour de 3 horas en Bangkok, con Casa de artistas de Khlong Bang Luang, barco fluvial, Wat Paknam Phasi Charoen y Barco fluvial. Operador: TripGuru Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour por los Canales en Barco Longtail hasta el Wat Arun",
+  "metaDescription": "Tour de 3 horas en Bangkok. Incluye: tour de 3 horas en barco longtail. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "golden-dome-cabaret-show-entry-ticket-in-bangkok-2": {
+  "title": "Entrada al Espectáculo de Cabaret Golden Dome en Bangkok",
+  "fullDescription": "Esta es una experiencia de 1 hora en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada. No incluye comida y bebida, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1 hora",
+   "Entrada"
+  ],
+  "included": [
+   "Entrada al espectáculo",
+   "Botella de agua gratis"
+  ],
+  "notIncluded": [
+   "Sesión de fotos opcional con los artistas (disponible para comprar en el lugar)",
+   "Traslado al hotel",
+   "Otros gastos personales",
+   "Propinas"
+  ],
+  "shortDescription": "Entrada en Bangkok, que incluye entrada al espectáculo y botella de agua gratis. Operador: Golden Dome Cabaret Show, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Entrada al Espectáculo de Cabaret Golden Dome en Bangkok",
+  "metaDescription": "Entrada en Bangkok. Incluye: entrada al espectáculo y botella de agua gratis. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "bangkok-dream-world-entry-ticket-with-snow-town-access-by-local-operator": {
+  "title": "Entrada a Dream World Bangkok con Acceso a Snow Town, por un Operador Local",
+  "fullDescription": "Esta es una experiencia en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada a Dream World y entrada a Snow Town. No incluye comida y traslados, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Entrada a Dream World",
+   "Entrada a Snow Town"
+  ],
+  "included": [
+   "Entrada a Dream World",
+   "Entrada a Snow Town"
+  ],
+  "notIncluded": [
+   "Comida",
+   "Traslados"
+  ],
+  "shortDescription": "Entrada en Bangkok, que incluye entrada a Dream World y entrada a Snow Town. Operador: TYCOON THAI DMC, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Entrada a Dream World Bangkok con Acceso a Snow Town, por un Operador Local",
+  "metaDescription": "Entrada en Bangkok. Incluye: entrada a Dream World y entrada a Snow Town. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "thai-costume-rental-in-bangkok": {
+  "title": "Alquiler de Traje Tailandés en Bangkok",
+  "fullDescription": "Esta es una experiencia en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye alquiler de traje tailandés por un día con accesorios. No incluye maquillaje y peinado, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Alquiler de traje tailandés por un día con accesorios"
+  ],
+  "included": [
+   "Alquiler de traje tailandés por un día con accesorios"
+  ],
+  "notIncluded": [
+   "Maquillaje y peinado"
+  ],
+  "shortDescription": "Tour en Bangkok, que incluye alquiler de traje tailandés por un día con accesorios. Operador: ThaiGlam Studio, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Alquiler de Traje Tailandés en Bangkok",
+  "metaDescription": "Tour en Bangkok. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "opulence-luxury-river-dinner-cruise-in-bangkok": {
+  "title": "Crucero Cena de Lujo Opulence por el Río en Bangkok",
+  "fullDescription": "Esta es una experiencia de 2 horas en Bangkok, centrada en Wat Arun, Puente Rama VIII y Gran Palacio de Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye bebida de bienvenida, crucero panorámico, cena bufé, agua y seguro según la ley de protección de accidentes acuáticos. No incluye bebidas alcohólicas y refrescos, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nIcon Siam Pier 2. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Wat Arun",
+   "Puente Rama VIII",
+   "Gran Palacio de Bangkok",
+   "Wat Pho",
+   "Duración: 2 horas",
+   "Bebida de bienvenida"
+  ],
+  "included": [
+   "Bebida de bienvenida",
+   "Crucero panorámico",
+   "Cena bufé",
+   "Agua",
+   "Seguro según la ley de protección de accidentes acuáticos (P.R.B.)"
+  ],
+  "notIncluded": [
+   "Bebidas alcohólicas",
+   "Refrescos"
+  ],
+  "shortDescription": "Tour de 2 horas en Bangkok, con Wat Kanlaya, Bangkok, Wat Arun y Puente Rama VIII. Operador: MONKEY TRAVEL ASIA by Ask Discovery, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Crucero Cena de Lujo Opulence por el Río en Bangkok",
+  "metaDescription": "Tour de 2 horas en Bangkok. Incluye: bebida de bienvenida. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "lumpinee-boxing-stadium-muay-thai-match-entry-ticket-in-bangkok": {
+  "title": "Entrada para un Combate de Muay Thai en el Estadio de Boxeo de Lumpinee en Bangkok",
+  "fullDescription": "Esta es una experiencia en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada según la categoría seleccionada, entrada a los combates de Muay Thai y acceso a las instalaciones del estadio. No incluye traslados al hotel, comida y bebidas, gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Entrada según la categoría seleccionada",
+   "Entrada a los combates de Muay Thai",
+   "Acceso a las instalaciones del estadio"
+  ],
+  "included": [
+   "Entrada según la categoría seleccionada",
+   "Entrada a los combates de Muay Thai",
+   "Acceso a las instalaciones del estadio"
+  ],
+  "notIncluded": [
+   "Traslados al hotel",
+   "Comida y bebidas",
+   "Gastos personales",
+   "Propinas"
+  ],
+  "shortDescription": "Entrada en Bangkok, que incluye entrada según la categoría seleccionada, entrada a los combates de Muay Thai y acceso a las instalaciones del estadio. Operador: GlobalTix (Thailand) Co., Ltd., con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Entrada para un Combate de Muay Thai en el Estadio de Boxeo de Lumpinee en Bangkok",
+  "metaDescription": "Entrada en Bangkok. Incluye: entrada según la categoría seleccionada. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "jai-chan-head-spa-and-body-massage-at-siam-discovery-in-bangkok": {
+  "title": "Spa Capilar y Masaje Corporal Jai Chan en Siam Discovery en Bangkok",
+  "fullDescription": "Esta es una experiencia de 45 minutos en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye spa capilar y/o masaje corporal y refrescos después de la sesión. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 45 minutos",
+   "Spa capilar y/o masaje corporal (según las opciones seleccionadas)",
+   "Refrescos después de la sesión"
+  ],
+  "included": [
+   "Spa capilar y/o masaje corporal (según las opciones seleccionadas)",
+   "Refrescos después de la sesión"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour de 0,75 horas en Bangkok, que incluye spa capilar y/o masaje corporal y refrescos después de la sesión. Operador: JAI CHAN SPA ใจฉันสปา, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Spa Capilar y Masaje Corporal Jai Chan en Siam Discovery en Bangkok",
+  "metaDescription": "Tour de 0,75 horas en Bangkok. Incluye: spa capilar y/o masaje corporal. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "nama-japanese-and-seafood-buffet-dinner-in-bangkok": {
+  "title": "Cena Buffet Japonesa y de Mariscos NAMA en Bangkok",
+  "fullDescription": "Esta es una experiencia de 2 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye comida japonesa de alta calidad, bebida sin alcohol, mariscos suculentos y amplias opciones de buffet. No incluye propinas y transporte, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 horas",
+   "Comida japonesa de alta calidad",
+   "Bebida sin alcohol",
+   "Mariscos suculentos",
+   "Amplias opciones de buffet"
+  ],
+  "included": [
+   "Comida japonesa de alta calidad",
+   "Bebida sin alcohol",
+   "Mariscos suculentos",
+   "Amplias opciones de buffet"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Transporte"
+  ],
+  "shortDescription": "Tour de 2 horas en Bangkok, que incluye comida japonesa de alta calidad, bebida sin alcohol y mariscos suculentos. Operador: Hungry Hub, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Cena Buffet Japonesa y de Mariscos NAMA en Bangkok",
+  "metaDescription": "Tour de 2 horas en Bangkok. Incluye: comida japonesa de alta calidad. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "opulence-luxury-chao-phraya-dinner-cruise-in-bangkok": {
+  "title": "Crucero Cena de Lujo Opulence en el Chao Phraya en Bangkok",
+  "fullDescription": "Esta es una experiencia de 2 horas en Bangkok, centrada en Wat Arun, Puente Rama VIII y Gran Palacio de Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye crucero, danza clásica tailandesa de bienvenida, cena buffet de mariscos/internacional y postre y música y espectáculos en directo. No incluye gastos propios y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nIcon Siam Pier 2. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Wat Arun",
+   "Puente Rama VIII",
+   "Gran Palacio de Bangkok",
+   "Wat Pho",
+   "Duración: 2 horas",
+   "Crucero"
+  ],
+  "included": [
+   "Crucero",
+   "Danza clásica tailandesa de bienvenida",
+   "Cena buffet de mariscos/internacional y postre",
+   "Música y espectáculos en directo"
+  ],
+  "notIncluded": [
+   "Gastos propios",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de 2 horas en Bangkok, con Wat Arun, Puente Rama VIII y Gran Palacio de Bangkok. Operador: One Asia Corporation, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Crucero Cena de Lujo Opulence en el Chao Phraya en Bangkok",
+  "metaDescription": "Tour de 2 horas en Bangkok. Incluye: crucero. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "private-firefly-night-cruise-and-floating-market-tour": {
+  "title": "Crucero Nocturno Privado de Luciérnagas y Tour al Mercado Flotante",
+  "fullDescription": "Esta es una experiencia de 8 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye seguro, peajes, gastos de aparcamiento, tarifa del crucero nocturno de luciérnagas y coste del combustible. No incluye coste de las comidas, propinas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 8 horas",
+   "Seguro",
+   "Peajes",
+   "Gastos de aparcamiento",
+   "Tarifa del crucero nocturno de luciérnagas (barco compartido)",
+   "Coste del combustible"
+  ],
+  "included": [
+   "Seguro",
+   "Peajes",
+   "Gastos de aparcamiento",
+   "Tarifa del crucero nocturno de luciérnagas (barco compartido)",
+   "Coste del combustible",
+   "Conductor simpático"
+  ],
+  "notIncluded": [
+   "Coste de las comidas",
+   "Propinas",
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de día completo en Bangkok, que incluye seguro, peajes y gastos de aparcamiento. Operador: SST Global Tour, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Crucero Nocturno Privado de Luciérnagas y Tour al Mercado Flotante",
+  "metaDescription": "Tour de día completo en Bangkok. Incluye: seguro y peajes. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "2-hour-canal-tour-by-teak-boat-in-bangkok": {
+  "title": "Tour de los Canales de 2 Horas en Barco de Teca en Bangkok",
+  "fullDescription": "Esta es una experiencia de 2 horas desde Bangkok, centrada en Río Chao Phraya. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye tour en barco, guía, agua potable, seguro de viaje y chaleco salvavidas. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRiver City BANGKOK. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Río Chao Phraya",
+   "Duración: 2 horas",
+   "Tour en barco",
+   "Guía de habla inglesa",
+   "Agua potable",
+   "Seguro de viaje"
+  ],
+  "included": [
+   "Tour en barco",
+   "Guía de habla inglesa",
+   "Agua potable",
+   "Seguro de viaje",
+   "Chaleco salvavidas"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour de 2 horas en Bangkok, con Río Chao Phraya. Operador: Bigcountry Experience Co.,Ltd., con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour de los Canales de 2 Horas en Barco de Teca en Bangkok",
+  "metaDescription": "Tour de 2 horas en Bangkok. Incluye: tour en barco, guía y agua potable. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "damnoen-saduak-floating-market-train-with-pickup-and-drop-off-bangkok": {
+  "title": "Mercado Flotante de Damnoen Saduak y Tren, con Recogida y Regreso (Bangkok)",
+  "fullDescription": "Esta es una experiencia de 7 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye traslado de ida y vuelta desde zonas seleccionadas, traslado desde el punto de encuentro, mercado del tren de Maeklong, mercado flotante de Damnoen Saduak y paseo en barco de una hora. No incluye gastos personales y propinas, comida y tasas de parque, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 7 horas",
+   "Traslado de ida y vuelta desde zonas seleccionadas (si se selecciona la opción)",
+   "Traslado desde el punto de encuentro",
+   "Mercado del tren de Maeklong",
+   "Mercado flotante de Damnoen Saduak",
+   "Paseo en barco de una hora"
+  ],
+  "included": [
+   "Traslado de ida y vuelta desde zonas seleccionadas (si se selecciona la opción)",
+   "Traslado desde el punto de encuentro",
+   "Mercado del tren de Maeklong",
+   "Mercado flotante de Damnoen Saduak",
+   "Paseo en barco de una hora"
+  ],
+  "notIncluded": [
+   "Traslado de ida y vuelta desde zonas seleccionadas (si no se selecciona la opción)",
+   "Gastos personales y propinas",
+   "Comida, aperitivos y bebidas",
+   "Tasas de parque"
+  ],
+  "shortDescription": "Tour de día completo en Bangkok, que incluye traslado de ida y vuelta desde zonas seleccionadas, traslado desde el punto de encuentro y mercado del tren de Maeklong. Operador: XPLORE HOLIDAYS S.A, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Mercado Flotante de Damnoen Saduak y Tren, con Recogida y Regreso",
+  "metaDescription": "Tour de día completo en Bangkok. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "kanchanaburi-death-railway-and-river-kwai-tour": {
+  "title": "Tour del Ferrocarril de la Muerte de Kanchanaburi y el Río Kwai",
+  "fullDescription": "Esta es una experiencia de 8 horas desde Bangkok, centrada en Tuk-tuk. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSe ofrece recogida desde Bangkok y The River Kwai Bridge Resort; el lugar y la hora exactos se acuerdan con AMAKA TOURS TRAVEL una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye transporte desde el punto de encuentro en Bangkok, entradas a las atracciones, viaje en tren por el ferrocarril de la muerte y guía de habla inglesa. No incluye recogida y regreso al hotel, gastos personales, propinas y alquiler de traje tailandés en el pueblo Mallika, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Tuk-tuk",
+   "Duración: 8 horas",
+   "Transporte desde el punto de encuentro en Bangkok",
+   "Entradas a las atracciones",
+   "Viaje en tren por el ferrocarril de la muerte",
+   "Guía profesional de habla inglesa"
+  ],
+  "included": [
+   "Transporte desde el punto de encuentro en Bangkok",
+   "Entradas a las atracciones",
+   "Viaje en tren por el ferrocarril de la muerte",
+   "Guía profesional de habla inglesa"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Gastos personales",
+   "Propinas",
+   "Alquiler de traje tailandés en el pueblo Mallika"
+  ],
+  "shortDescription": "Tour de día completo en Bangkok, con Tuk-tuk. Operador: AMAKA TOURS TRAVEL, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour del Ferrocarril de la Muerte de Kanchanaburi y el Río Kwai",
+  "metaDescription": "Tour de día completo en Bangkok. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "bangkok-by-night-cycling-tour-with-street-food-meal-by-local-operator": {
+  "title": "Tour en Bicicleta de Bangkok de Noche con Comida de Calle, por un Operador Local",
+  "fullDescription": "Esta es una experiencia de 3 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye bicicleta, guía, comida de calle, agua embotellada y cruce en ferry. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 horas",
+   "Bicicleta",
+   "Guía(s)",
+   "Comida de calle",
+   "Agua embotellada",
+   "Cruce en ferry"
+  ],
+  "included": [
+   "Bicicleta",
+   "Guía(s)",
+   "Comida de calle",
+   "Agua embotellada",
+   "Cruce en ferry"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour de 3 horas en Bangkok, que incluye bicicleta, guía y comida de calle. Operador: Co van Kessel Bangkok Tours, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour en Bicicleta de Bangkok de Noche con Comida de Calle",
+  "metaDescription": "Tour de 3 horas en Bangkok. Incluye: bicicleta, guía y comida de calle. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "red-sky-57th-floor-cocoa-xo-bar-in-bangkok": {
+  "title": "Red Sky en el Piso 57, Bar Cocoa XO en Bangkok",
+  "fullDescription": "Esta es una experiencia de 1,5 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye cócteles y postres. No incluye propinas y transporte, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1,5 horas",
+   "Cócteles",
+   "Postres"
+  ],
+  "included": [
+   "Cócteles",
+   "Postres"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Transporte"
+  ],
+  "shortDescription": "Tour en Bangkok, que incluye cócteles y postres. Operador: Hungry Hub, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Red Sky en el Piso 57, Bar Cocoa XO en Bangkok",
+  "metaDescription": "Tour en Bangkok. Incluye: cócteles y postres. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "shooting-range-experience-with-a-professional-coach-in-bangkok": {
+  "title": "Experiencia en el Campo de Tiro con un Entrenador Profesional en Bangkok",
+  "fullDescription": "Esta es una experiencia en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye elementos del paquete de tiro que ha elegido. No incluye armas de fuego propias, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Elementos del paquete de tiro que ha elegido"
+  ],
+  "included": [
+   "Elementos del paquete de tiro que ha elegido"
+  ],
+  "notIncluded": [
+   "Armas de fuego propias"
+  ],
+  "shortDescription": "Tour en Bangkok, que incluye elementos del paquete de tiro que ha elegido. Operador: THAILAND SKYDIVING, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Experiencia en el Campo de Tiro con un Entrenador Profesional en Bangkok",
+  "metaDescription": "Tour en Bangkok. Incluye: elementos del paquete de tiro que ha elegido. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "wat-arun-thai-costume-experience-with-local-guide-bangkok": {
+  "title": "Experiencia de Traje Tailandés en el Wat Arun con Guía Local (Bangkok)",
+  "fullDescription": "Esta es una experiencia de 2 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía, alquiler de traje tradicional tailandés, seguro, agua embotellada y tarifa de cruce en barco. No incluye tarifa de entrada al Wat Arun, 200 THB y fotógrafo, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 horas",
+   "Guía (en inglés)",
+   "Alquiler de traje tradicional tailandés",
+   "Seguro",
+   "Agua embotellada",
+   "Tarifa de cruce en barco"
+  ],
+  "included": [
+   "Guía (en inglés)",
+   "Alquiler de traje tradicional tailandés",
+   "Seguro",
+   "Agua embotellada",
+   "Tarifa de cruce en barco"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada al Wat Arun, 200 THB",
+   "Fotógrafo"
+  ],
+  "shortDescription": "Tour de 2 horas en Bangkok, que incluye guía, alquiler de traje tradicional tailandés y seguro. Operador: CanalTour x ExploreSiam, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Experiencia de Traje Tailandés en el Wat Arun con Guía Local",
+  "metaDescription": "Tour de 2 horas en Bangkok. Incluye: guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "old-city-sunset-tuk-tuk-tour-with-food-tasting-in-bangkok": {
+  "title": "Tour en Tuk-Tuk al Atardecer por el Casco Antiguo con Degustación en Bangkok",
+  "fullDescription": "Esta es una experiencia de 3 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye paseo en tuk-tuk eléctrico ecológico y guía que habla inglés y francés. No incluye recogida y regreso al hotel, gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 horas",
+   "Paseo en tuk-tuk eléctrico ecológico",
+   "Guía que habla inglés y francés"
+  ],
+  "included": [
+   "Paseo en tuk-tuk eléctrico ecológico",
+   "Guía que habla inglés y francés"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Gastos personales",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de 3 horas en Bangkok, que incluye paseo en tuk-tuk eléctrico ecológico y guía que habla inglés y francés. Operador: Bangkok FLT Co. Ltd., con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour en Tuk-Tuk al Atardecer por el Casco Antiguo con Degustación en Bangkok",
+  "metaDescription": "Tour de 3 horas en Bangkok. Incluye: paseo en tuk-tuk eléctrico ecológico. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "jim-thompson-house-museum-ticket-and-tour-in-bangkok": {
+  "title": "Entrada y Tour del Museo de la Casa Jim Thompson en Bangkok",
+  "fullDescription": "Esta es una experiencia de 45 minutos en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye la entrada, tour guiado por el guía oficial y la exposición de arte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nJim Thompson House Museum. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 45 minutos",
+   "La entrada",
+   "Tour guiado por el guía oficial",
+   "La exposición de arte (estacional)"
+  ],
+  "included": [
+   "La entrada",
+   "Tour guiado por el guía oficial",
+   "La exposición de arte (estacional)"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour de 0,75 horas en Bangkok, que incluye la entrada, tour guiado por el guía oficial y la exposición de arte. Operador: Jim Thompson House Museum, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Entrada y Tour del Museo de la Casa Jim Thompson en Bangkok",
+  "metaDescription": "Tour de 0,75 horas en Bangkok. Incluye: la entrada. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "night-safari-alleyways-parks-and-wild-encounters-in-bangkok": {
+  "title": "Safari Nocturno: Callejones, Parques y Encuentros Salvajes en Bangkok",
+  "fullDescription": "Esta es una experiencia de 3 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye tour nocturno guiado de 3 horas, exploración con linterna, observación de fauna, transporte desde el punto de encuentro y comida y bebidas. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nSnax Burgers & More. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 horas",
+   "Tour nocturno guiado de 3 horas",
+   "Exploración con linterna",
+   "Observación de fauna",
+   "Transporte desde el punto de encuentro",
+   "Comida y bebidas"
+  ],
+  "included": [
+   "Tour nocturno guiado de 3 horas",
+   "Exploración con linterna",
+   "Observación de fauna",
+   "Transporte desde el punto de encuentro",
+   "Comida y bebidas"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour de 3 horas en Bangkok, que incluye tour nocturno guiado de 3 horas, exploración con linterna y observación de fauna. Operador: BANGKOK HERPING TOUR, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Safari Nocturno: Callejones, Parques y Encuentros Salvajes en Bangkok",
+  "metaDescription": "Tour de 3 horas en Bangkok. Incluye: tour nocturno guiado de 3 horas. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "bangkok-private-half-day-discovery-tour-by-local-operator": {
+  "title": "Tour Privado de Descubrimiento de Medio Día en Bangkok, por un Operador Local",
+  "fullDescription": "Esta es una experiencia de 5 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSe ofrece recogida desde Athenee Tower y Bangkok; el lugar y la hora exactos se acuerdan con MUYA TOURS AND TRAVEL una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye Wat Arun - tarifas de entrada, Wat Pho - tarifas de entrada, Wat Traimit - tarifas de entrada, recogida y regreso al hotel y vehículo con aire acondicionado. No incluye otros gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 5 horas",
+   "Wat Arun - tarifas de entrada",
+   "Wat Pho - tarifas de entrada",
+   "Wat Traimit - tarifas de entrada",
+   "Recogida y regreso al hotel (radio de 3 km del centro de Bangkok)",
+   "Vehículo con aire acondicionado"
+  ],
+  "included": [
+   "Wat Arun - tarifas de entrada",
+   "Wat Pho - tarifas de entrada",
+   "Wat Traimit - tarifas de entrada",
+   "Recogida y regreso al hotel (radio de 3 km del centro de Bangkok)",
+   "Vehículo con aire acondicionado",
+   "Guía de habla inglesa"
+  ],
+  "notIncluded": [
+   "Otros gastos personales",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de medio día en Bangkok, que incluye Wat Arun - tarifas de entrada, Wat Pho - tarifas de entrada y Wat Traimit - tarifas de entrada. Operador: MUYA TOURS AND TRAVEL, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour Privado de Descubrimiento de Medio Día en Bangkok",
+  "metaDescription": "Tour de medio día en Bangkok. Incluye: Wat Arun - tarifas de entrada. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "hidden-bangkok-canal-boat-and-tuk-tuk-experience-by-local-operator": {
+  "title": "Bangkok Escondido: Experiencia en Barco por los Canales y en Tuk-Tuk, por un Operador Local",
+  "fullDescription": "Esta es una experiencia de 5,5 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía, seguro, barco longtail y piloto de barco, una botella de agua potable por persona y paseo típico en tuk-tuk tailandés. No incluye comidas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nElefin Coffee. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 5,5 horas",
+   "Guía (en inglés)",
+   "Seguro",
+   "Barco longtail y piloto de barco",
+   "Una botella de agua potable por persona",
+   "Paseo típico en tuk-tuk tailandés"
+  ],
+  "included": [
+   "Guía (en inglés)",
+   "Seguro",
+   "Barco longtail y piloto de barco",
+   "Una botella de agua potable por persona",
+   "Paseo típico en tuk-tuk tailandés",
+   "Actividad de plegado de flor de loto"
+  ],
+  "notIncluded": [
+   "Comidas"
+  ],
+  "shortDescription": "Tour de medio día en Bangkok, que incluye guía, seguro y barco longtail y piloto de barco. Operador: CanalTour x ExploreSiam, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Bangkok Escondido: Experiencia en Barco por los Canales y en Tuk-Tuk, por un Operador Local",
+  "metaDescription": "Tour de medio día en Bangkok. Incluye: guía y seguro. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "half-day-bangkok-off-the-beaten-track-tour": {
+  "title": "Tour de Medio Día Fuera de lo Habitual en Bangkok",
+  "fullDescription": "Esta es una experiencia de 4 horas desde Bangkok, centrada en Río Chao Phraya, Tuk-tuk y Monasterio. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía, transporte en tuk-tuk, aperitivos, agua embotellada y billete de ferri de ida y vuelta. No incluye recogida en el hotel, bebidas alcohólicas y otros gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Río Chao Phraya",
+   "Tuk-tuk",
+   "Monasterio",
+   "Lancha rápida",
+   "Duración: 4 horas",
+   "Guía de habla inglesa"
+  ],
+  "included": [
+   "Guía de habla inglesa",
+   "Transporte en tuk-tuk",
+   "Aperitivos",
+   "Agua embotellada",
+   "Billete de ferri de ida y vuelta",
+   "Tour en barco por los canales",
+   "Entradas"
+  ],
+  "notIncluded": [
+   "Recogida en el hotel",
+   "Bebidas alcohólicas",
+   "Otros gastos personales"
+  ],
+  "shortDescription": "Tour en Bangkok, con Río Chao Phraya, Tuk-tuk y Monasterio. Operador: Best Local Experiences, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour de Medio Día Fuera de lo Habitual en Bangkok",
+  "metaDescription": "Tour en Bangkok. Incluye: guía, transporte en tuk-tuk y aperitivos. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "railway-market-floating-market-and-dragon-temple": {
+  "title": "Mercado del Tren, Mercado Flotante y Templo del Dragón",
+  "fullDescription": "Esta es una experiencia de 7,5 horas desde Bangkok, centrada en Autobús/autocar, Mercado del tren de Maeklong y Mercado flotante de Damnoen Saduak. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nDamnoen Saduak, a 100 kilómetros al suroeste de Bangkok, es el mercado flotante de las postales: barcas de fruta y fideos en un canal excavado en la década de 1860, en marcha a las 7:00 y terminado a las 11:00, y por eso las excursiones salen de la ciudad a las 6:30. Está lleno y buena parte del comercio son recuerdos, y aun así merece una hora sobre el agua. Amphawa, cerca de allí, funciona de viernes a domingo por la tarde y por la noche y es el que prefieren los habitantes de Bangkok, con salidas en barca a ver luciérnagas al caer la noche. Taling Chan y Khlong Lat Mayom son mercados pequeños de fin de semana dentro de la ciudad, donde lo que importa es la comida.\n\nEl precio incluye guía, vehículo con aire acondicionado y paseo en barco en el mercado flotante. No incluye gastos personales, comida y donación en el Wat Sam Phran, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Autobús/autocar",
+   "Mercado del tren de Maeklong",
+   "Mercado flotante de Damnoen Saduak",
+   "Duración: 7,5 horas",
+   "Guía local",
+   "Vehículo con aire acondicionado"
+  ],
+  "included": [
+   "Guía local",
+   "Vehículo con aire acondicionado",
+   "Paseo en barco en el mercado flotante"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Comida",
+   "Donación en el Wat Sam Phran"
+  ],
+  "shortDescription": "Tour en Bangkok, con Mercado del tren de Maeklong y Mercado flotante de Damnoen Saduak. Operador: DiscoverEase Tours, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Mercado del Tren, Mercado Flotante y Templo del Dragón",
+  "metaDescription": "Tour en Bangkok. Incluye: guía y vehículo con aire acondicionado. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "red-sky-rooftop-and-bar-56th-floor-in-bangkok": {
+  "title": "Terraza y Bar Red Sky en el Piso 56 en Bangkok",
+  "fullDescription": "Esta es una experiencia de 1,5 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye menú del bar, bebidas libres, vista a la ciudad y excelente servicio. No incluye transporte, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1,5 horas",
+   "Menú del bar",
+   "Bebidas libres",
+   "Vista a la ciudad",
+   "Excelente servicio"
+  ],
+  "included": [
+   "Menú del bar",
+   "Bebidas libres",
+   "Vista a la ciudad",
+   "Excelente servicio"
+  ],
+  "notIncluded": [
+   "Transporte"
+  ],
+  "shortDescription": "Tour en Bangkok, que incluye menú del bar, bebidas libres y vista a la ciudad. Operador: Hungry Hub, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Terraza y Bar Red Sky en el Piso 56 en Bangkok",
+  "metaDescription": "Tour en Bangkok. Incluye: menú del bar, bebidas libres y vista a la ciudad. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "baiyoke-sky-lunch-buffet-82nd-floor-crystal-grill-in-bangkok": {
+  "title": "Buffet de Almuerzo Baiyoke Sky en el Piso 82, Crystal Grill, en Bangkok",
+  "fullDescription": "Esta es una experiencia de 2 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye almuerzo buffet con una variedad de mariscos y otros platos, acceso a la plataforma de observación en el piso 77 y acceso al rooftop giratorio en el piso 84. No incluye bebidas alcohólicas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 horas",
+   "Almuerzo buffet con una variedad de mariscos y otros platos",
+   "Acceso a la plataforma de observación en el piso 77",
+   "Acceso al rooftop giratorio en el piso 84"
+  ],
+  "included": [
+   "Almuerzo buffet con una variedad de mariscos y otros platos",
+   "Acceso a la plataforma de observación en el piso 77",
+   "Acceso al rooftop giratorio en el piso 84"
+  ],
+  "notIncluded": [
+   "Bebidas alcohólicas"
+  ],
+  "shortDescription": "Tour de 2 horas en Bangkok, que incluye almuerzo buffet con una variedad de mariscos y otros platos, acceso a la plataforma de observación en el piso 77 y acceso al rooftop giratorio en el piso 84. Operador: Baiyoke Sky Hotel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Buffet de Almuerzo Baiyoke Sky en el Piso 82, Crystal Grill",
+  "metaDescription": "Tour de 2 horas en Bangkok. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "guided-tour-in-a-typical-thai-tuk-tuk-in-bangkok": {
+  "title": "Tour Guiado en un Tuk-Tuk Tailandés Típico en Bangkok",
+  "fullDescription": "Esta es una experiencia de 30 minutos desde Bangkok, centrada en Tuk-tuk. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía turístico autorizado que habla inglés, paseo típico en tuk-tuk tailandés, botella de agua y actividad de plegado de flor de loto. No incluye gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Tuk-tuk",
+   "Duración: 30 minutos",
+   "Guía turístico autorizado que habla inglés",
+   "Paseo típico en tuk-tuk tailandés",
+   "Botella de agua",
+   "Actividad de plegado de flor de loto"
+  ],
+  "included": [
+   "Guía turístico autorizado que habla inglés",
+   "Paseo típico en tuk-tuk tailandés",
+   "Botella de agua",
+   "Actividad de plegado de flor de loto"
+  ],
+  "notIncluded": [
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de 0,5 horas en Bangkok, con Tuk-tuk. Operador: CanalTour x ExploreSiam, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour Guiado en un Tuk-Tuk Tailandés Típico en Bangkok",
+  "metaDescription": "Tour de 0,5 horas en Bangkok. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "khao-yai-national-park-day-trip": {
+  "title": "Excursión de un Día al Parque Nacional de Khao Yai",
+  "fullDescription": "Esta es una experiencia de 11 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSe ofrece recogida desde Silom MRT Station, Sathon y Starbucks; el lugar y la hora exactos se acuerdan con CanalTour x ExploreSiam una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye guía, transporte en vehículo con aire acondicionado, recogida y regreso desde el punto de encuentro, una botella de agua potable y tarifa de entrada - parque nacional de Khao Yai, 400 THB por persona. No incluye comida, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 11 horas",
+   "Guía de habla inglesa",
+   "Transporte en vehículo con aire acondicionado",
+   "Recogida y regreso desde el punto de encuentro",
+   "Una botella de agua potable",
+   "Tarifa de entrada - parque nacional de Khao Yai, 400 THB por persona"
+  ],
+  "included": [
+   "Guía de habla inglesa",
+   "Transporte en vehículo con aire acondicionado",
+   "Recogida y regreso desde el punto de encuentro",
+   "Una botella de agua potable",
+   "Tarifa de entrada - parque nacional de Khao Yai, 400 THB por persona"
+  ],
+  "notIncluded": [
+   "Comida"
+  ],
+  "shortDescription": "Tour de día completo en Bangkok, que incluye guía, transporte en vehículo con aire acondicionado y recogida y regreso desde el punto de encuentro. Operador: CanalTour x ExploreSiam, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Excursión de un Día al Parque Nacional de Khao Yai",
+  "metaDescription": "Tour de día completo en Bangkok. Incluye: guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "bangkok-hidden-gems-street-arts-and-golden-buddha-walking-tour-by-local-operator": {
+  "title": "Joyas Ocultas de Bangkok: Arte Urbano y Buda de Oro, Tour a Pie, por un Operador Local",
+  "fullDescription": "Esta es una experiencia de 2 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía, agua potable y seguro. No incluye entrada al Wat Trai Mit, gastos personales y propinas para el conductor y el guía, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 horas",
+   "Guía (en inglés)",
+   "Agua potable",
+   "Seguro"
+  ],
+  "included": [
+   "Guía (en inglés)",
+   "Agua potable",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Entrada al Wat Trai Mit (Buda de Oro)",
+   "Gastos personales",
+   "Propinas para el conductor y el guía (opcional)"
+  ],
+  "shortDescription": "Tour de 2 horas en Bangkok, que incluye guía, agua potable y seguro. Operador: CanalTour x ExploreSiam, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Joyas Ocultas de Bangkok: Arte Urbano y Buda de Oro, Tour a Pie",
+  "metaDescription": "Tour de 2 horas en Bangkok. Incluye: guía, agua potable y seguro. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "city-highlights-and-landmarks-private-walking-tour-in-bangkok": {
+  "title": "Tour Privado a Pie de lo Más Destacado y los Monumentos de la Ciudad en Bangkok",
+  "fullDescription": "Esta es una experiencia de 3 horas en Bangkok, centrada en Gran Palacio de Bangkok, Wat Pho y Wat Arun. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida en el hotel, guía, visita privada y asistencia para reservar entradas. No incluye entradas, comida y bebidas y transporte público, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nBangkok. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Gran Palacio de Bangkok",
+   "Wat Pho",
+   "Wat Arun",
+   "Thong Lo",
+   "Duración: 3 horas",
+   "Recogida en el hotel"
+  ],
+  "included": [
+   "Recogida en el hotel",
+   "Guía",
+   "Visita privada",
+   "Asistencia para reservar entradas"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Comida y bebidas",
+   "Transporte público"
+  ],
+  "shortDescription": "Tour de 3 horas en Bangkok, con Gran Palacio de Bangkok, Barrio Chino, Bangkok y Wat Pho. Operador: Guydeez, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour Privado a Pie de lo Más Destacado y los Monumentos de la Ciudad en Bangkok",
+  "metaDescription": "Tour de 3 horas en Bangkok. Incluye: recogida en el hotel y guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "floating-and-train-market-tour-german-guide-in-bangkok": {
+  "title": "Tour del Mercado Flotante y el Mercado del Tren (Guía en Alemán) en Bangkok",
+  "fullDescription": "Esta es una experiencia de 7 horas desde Bangkok, centrada en Autobús/autocar, Mercado del tren de Maeklong y Mercado flotante de Damnoen Saduak. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye agua, barco de pedales, guía de habla alemana, recogida en el hotel y transporte de ida y vuelta con aire acondicionado. No incluye comida, propinas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRatchathewi. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Autobús/autocar",
+   "Mercado del tren de Maeklong",
+   "Mercado flotante de Damnoen Saduak",
+   "Duración: 7 horas",
+   "Agua",
+   "Barco de pedales"
+  ],
+  "included": [
+   "Agua",
+   "Barco de pedales",
+   "Guía de habla alemana",
+   "Recogida en el hotel (si se selecciona la opción)",
+   "Transporte de ida y vuelta con aire acondicionado"
+  ],
+  "notIncluded": [
+   "Comida",
+   "Propinas (opcionales)",
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de día completo en Bangkok, con Mercado del tren de Maeklong, Mercado flotante de Damnoen Saduak y Finish at. Operador: Bigcountry Experience Co.,Ltd., con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour del Mercado Flotante y el Mercado del Tren en Bangkok",
+  "metaDescription": "Tour de día completo en Bangkok. Incluye: agua y barco de pedales. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "grand-palace-and-emerald-buddha-tour": {
+  "title": "Tour del Gran Palacio y el Buda de Esmeralda",
+  "fullDescription": "Esta es una experiencia de 2 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía y una botella de agua potable por persona. No incluye tarifa de entrada al Gran Palacio y al Wat Phra Kaew, THB, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 horas",
+   "Guía local",
+   "Una botella de agua potable por persona"
+  ],
+  "included": [
+   "Guía local",
+   "Una botella de agua potable por persona"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada al Gran Palacio y al Wat Phra Kaew, 500 THB por persona"
+  ],
+  "shortDescription": "Tour de 2 horas en Bangkok, que incluye guía y una botella de agua potable por persona. Operador: CanalTour x ExploreSiam, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour del Gran Palacio y el Buda de Esmeralda",
+  "metaDescription": "Tour de 2 horas en Bangkok. Incluye: guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "bangkok-tuk-tuk-tour-with-hotel-pick-up-and-dinner-by-local-operator": {
+  "title": "Tour en Tuk-Tuk en Bangkok con Recogida en el Hotel y Cena, por un Operador Local",
+  "fullDescription": "Esta es una experiencia de 4 horas desde Bangkok, centrada en Tuk-tuk. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye comida de calle, traslado - recogida y regreso, guía, tuk-tuk durante 4 horas y todas las tasas e impuestos. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nBangkok. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Tuk-tuk",
+   "Duración: 4 horas",
+   "Comida de calle",
+   "Traslado - recogida y regreso",
+   "Guía de habla inglesa",
+   "Tuk-tuk durante 4 horas"
+  ],
+  "included": [
+   "Comida de calle",
+   "Traslado - recogida y regreso",
+   "Guía de habla inglesa",
+   "Tuk-tuk durante 4 horas",
+   "Todas las tasas e impuestos"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour de medio día en Bangkok, con Tuk-tuk. Operador: Asiatic Adventures Co., Ltd, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour en Tuk-Tuk en Bangkok con Recogida en el Hotel y Cena",
+  "metaDescription": "Tour de medio día en Bangkok. Incluye: comida de calle. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "baiyoke-observation-deck-and-revolving-point-ticket-in-bangkok": {
+  "title": "Entrada a la Plataforma de Observación y el Punto Giratorio del Baiyoke en Bangkok",
+  "fullDescription": "Esta es una experiencia en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada a la plataforma de observación y al mirador giratorio exterior, incluye 1 bebida en el bar de la terraza en el piso 83 y impuestos y tarifas. No incluye traslados al hotel y comidas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Entrada a la plataforma de observación y al mirador giratorio exterior",
+   "Incluye 1 bebida en el bar de la terraza en el piso 83",
+   "Impuestos y tarifas"
+  ],
+  "included": [
+   "Entrada a la plataforma de observación y al mirador giratorio exterior",
+   "Incluye 1 bebida en el bar de la terraza en el piso 83",
+   "Impuestos y tarifas"
+  ],
+  "notIncluded": [
+   "Traslados al hotel",
+   "Comidas"
+  ],
+  "shortDescription": "Entrada en Bangkok, que incluye entrada a la plataforma de observación y al mirador giratorio exterior, incluye 1 bebida en el bar de la terraza en el piso 83 y impuestos y tarifas. Operador: Baiyoke Sky Hotel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Entrada a la Plataforma de Observación y el Punto Giratorio del Baiyoke en Bangkok",
+  "metaDescription": "Entrada en Bangkok. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "kanchanaburi-and-erawan-national-park-day-trip": {
+  "title": "Excursión de un Día a Kanchanaburi y al Parque Nacional de Erawan",
+  "fullDescription": "Esta es una experiencia de 12 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSe ofrece recogida desde Sathorn Square, Silom MRT Station y Starbucks; el lugar y la hora exactos se acuerdan con CanalTour x ExploreSiam una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye transporte en vehículo con aire acondicionado, guía, una botella de agua potable y tarifas de entrada al museo JEATH y al parque nacional de Erawan. No incluye comidas y chaleco salvavidas en las cataratas de Erawan, 20 THB por persona, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 12 horas",
+   "Transporte en vehículo con aire acondicionado",
+   "Guía de habla inglesa",
+   "Una botella de agua potable",
+   "Tarifas de entrada al museo JEATH y al parque nacional de Erawan"
+  ],
+  "included": [
+   "Transporte en vehículo con aire acondicionado",
+   "Guía de habla inglesa",
+   "Una botella de agua potable",
+   "Tarifas de entrada al museo JEATH y al parque nacional de Erawan"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Chaleco salvavidas en las cataratas de Erawan, 20 THB por persona"
+  ],
+  "shortDescription": "Tour de día completo en Bangkok, que incluye transporte en vehículo con aire acondicionado, guía y una botella de agua potable. Operador: CanalTour x ExploreSiam, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Excursión de un Día a Kanchanaburi y al Parque Nacional de Erawan",
+  "metaDescription": "Tour de día completo en Bangkok. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "rooftop-pool-party-at-centara-grand-bangkok-by-local-operator": {
+  "title": "Fiesta en la Piscina de la Azotea en el Centara Grand Bangkok, por un Operador Local",
+  "fullDescription": "Esta es una experiencia de 7 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye la entrada de la fiesta en la piscina incluye, acceso a la fiesta en la piscina y 1 bebida de bienvenida. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 7 horas",
+   "La entrada de la fiesta en la piscina incluye",
+   "Acceso a la fiesta en la piscina",
+   "1 bebida de bienvenida"
+  ],
+  "included": [
+   "La entrada de la fiesta en la piscina incluye:",
+   "Acceso a la fiesta en la piscina",
+   "1 bebida de bienvenida"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour de día completo en Bangkok, que incluye la entrada de la fiesta en la piscina incluye, acceso a la fiesta en la piscina y 1 bebida de bienvenida. Operador: Bangkok Rooftops, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Fiesta en la Piscina de la Azotea en el Centara Grand Bangkok",
+  "metaDescription": "Tour de día completo en Bangkok. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "fine-dining-in-stunning-waterfall-cave-at-myste-in-bangkok": {
+  "title": "Cena de Alta Cocina en una Impresionante Cueva-Cascada en Myste en Bangkok",
+  "fullDescription": "Esta es una experiencia de 2 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye comida y bebida, experiencia gastronómica premium y servicio impecable. No incluye propinas y transporte, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 horas",
+   "Comida y bebida",
+   "Experiencia gastronómica premium",
+   "Servicio impecable"
+  ],
+  "included": [
+   "Comida y bebida",
+   "Experiencia gastronómica premium",
+   "Servicio impecable"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Transporte"
+  ],
+  "shortDescription": "Tour en Bangkok, que incluye comida y bebida, experiencia gastronómica premium y servicio impecable. Operador: Hungry Hub, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Cena de Alta Cocina en una Impresionante Cueva-Cascada en Myste en Bangkok",
+  "metaDescription": "Tour en Bangkok. Incluye: comida y bebida y experiencia gastronómica premium. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "baiyoke-sky-dinner-buffet-bangkok-sky-76th-78th": {
+  "title": "Buffet de Cena Baiyoke Sky, Bangkok Sky, Piso 76/78",
+  "fullDescription": "Esta es una experiencia de 2 horas en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye buffet de filete a la parrilla y mariscos, refresco libre, acceso a la plataforma de observación del piso 77 y acceso al rooftop giratorio en el piso 84. No incluye bebidas alcohólicas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 horas",
+   "Buffet de filete a la parrilla y mariscos",
+   "Refresco libre",
+   "Acceso a la plataforma de observación del piso 77",
+   "Acceso al rooftop giratorio en el piso 84"
+  ],
+  "included": [
+   "Buffet de filete a la parrilla y mariscos",
+   "Refresco libre",
+   "Acceso a la plataforma de observación del piso 77",
+   "Acceso al rooftop giratorio en el piso 84"
+  ],
+  "notIncluded": [
+   "Bebidas alcohólicas"
+  ],
+  "shortDescription": "Tour de 2 horas en Bangkok, que incluye buffet de filete a la parrilla y mariscos, refresco libre y acceso a la plataforma de observación del piso 77. Operador: Baiyoke Sky Hotel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Buffet de Cena Baiyoke Sky, Bangkok Sky, Piso 76/78",
+  "metaDescription": "Tour de 2 horas en Bangkok. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "easykart-bangkok-rca-plaza-go-kart-racing-experience-by-local-operator": {
+  "title": "EasyKart Bangkok (RCA Plaza): Experiencia de Carreras de Karts, por un Operador Local",
+  "fullDescription": "Esta es una experiencia en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye casco, gorro de higiene, traje de carreras si es necesario y taquilla. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Casco",
+   "Gorro de higiene",
+   "Traje de carreras si es necesario",
+   "Taquilla"
+  ],
+  "included": [
+   "Casco",
+   "Gorro de higiene",
+   "Traje de carreras si es necesario",
+   "Taquilla"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour en Bangkok, que incluye casco, gorro de higiene y traje de carreras si es necesario. Operador: EasyKart, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "EasyKart Bangkok (RCA Plaza): Experiencia de Carreras de Karts",
+  "metaDescription": "Tour en Bangkok. Incluye: casco y gorro de higiene. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "bubble-in-the-forest-cafe-photography-journey-in-bangkok": {
+  "title": "Viaje Fotográfico en el Café Bubble in the Forest en Bangkok",
+  "fullDescription": "Esta es una experiencia de 2 horas desde Bangkok, centrada en Café Bubble in the Forest. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye tarifa de reserva. No incluye propinas y seguro, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nCafé Bubble in the Forest. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Café Bubble in the Forest",
+   "Duración: 2 horas",
+   "Tarifa de reserva"
+  ],
+  "included": [
+   "Tarifa de reserva"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Seguro"
+  ],
+  "shortDescription": "Tour de 2 horas en Bangkok, con Café Bubble in the Forest. Operador: THAILAND SKYDIVING, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Viaje Fotográfico en el Café Bubble in the Forest en Bangkok",
+  "metaDescription": "Tour de 2 horas en Bangkok. Incluye: tarifa de reserva. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "jurassic-world-the-experience-admission-ticket-in-bangkok": {
+  "title": "Entrada para Jurassic World The Experience en Bangkok",
+  "fullDescription": "Esta es una experiencia en Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada estándar a The Experience. No incluye transporte de ida y vuelta al lugar y otros gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Entrada estándar a The Experience"
+  ],
+  "included": [
+   "Entrada estándar a The Experience"
+  ],
+  "notIncluded": [
+   "Transporte de ida y vuelta al lugar",
+   "Otros gastos personales"
+  ],
+  "shortDescription": "Entrada en Bangkok, que incluye entrada estándar a The Experience. Operador: Jurassic World: The Experience, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Entrada para Jurassic World The Experience en Bangkok",
+  "metaDescription": "Entrada en Bangkok. Incluye: entrada estándar a The Experience. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "alcazar-theatre-pattaya-second-road-evening-tour": {
   "title": "Pattaya: entrada del espectáculo de cabaré Alcazar por la noche",
   "metaTitle": "Pattaya: entrada del cabaré Alcazar por la noche",
