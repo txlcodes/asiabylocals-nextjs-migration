@@ -1884,7 +1884,83 @@ ${a(9)}`;
                                 })}
                               </div>
                             ) : (
-                              <p className="text-[12px] text-gray-500 font-semibold">Location list for {city} coming soon</p>
+                              <>
+                                <p className="text-[12px] text-gray-400 font-semibold mb-2">
+                                  No suggested places for {city} yet — add your own below.
+                                </p>
+                                <div className="flex gap-2">
+                                  <input
+                                    type="text"
+                                    id={`custom-location-input-${city}`}
+                                    placeholder={`Add a place in ${city}...`}
+                                    className="flex-1 bg-white border-2 border-dashed border-gray-300 rounded-lg py-2 px-3 font-semibold text-[#001A33] text-[12px] focus:ring-2 focus:ring-[#10B981] focus:border-[#10B981] outline-none"
+                                    onKeyDown={(e) => {
+                                      if (e.key === 'Enter') {
+                                        e.preventDefault();
+                                        const input = e.target as HTMLInputElement;
+                                        const value = input.value.trim();
+                                        if (value && !(formData.multiCityLocations[city] || []).includes(value)) {
+                                          setFormData(prev => ({
+                                            ...prev,
+                                            multiCityLocations: {
+                                              ...prev.multiCityLocations,
+                                              [city]: [...(prev.multiCityLocations[city] || []), value]
+                                            }
+                                          }));
+                                          input.value = '';
+                                        }
+                                      }
+                                    }}
+                                  />
+                                  <button
+                                    type="button"
+                                    onClick={() => {
+                                      const input = document.getElementById(`custom-location-input-${city}`) as HTMLInputElement;
+                                      const value = input?.value?.trim();
+                                      if (value && !(formData.multiCityLocations[city] || []).includes(value)) {
+                                        setFormData(prev => ({
+                                          ...prev,
+                                          multiCityLocations: {
+                                            ...prev.multiCityLocations,
+                                            [city]: [...(prev.multiCityLocations[city] || []), value]
+                                          }
+                                        }));
+                                        input.value = '';
+                                      }
+                                    }}
+                                    className="px-4 py-2 bg-[#10B981] text-white font-bold rounded-lg hover:bg-[#0d9668] transition-all text-[12px]"
+                                  >
+                                    + Add
+                                  </button>
+                                </div>
+                                {(formData.multiCityLocations[city] || []).length > 0 && (
+                                  <div className="flex flex-wrap gap-2 mt-2">
+                                    {formData.multiCityLocations[city].map((loc) => (
+                                      <span
+                                        key={loc}
+                                        className="inline-flex items-center gap-1.5 px-2.5 py-1 bg-[#10B981] text-white text-[11px] font-bold rounded-full"
+                                      >
+                                        {loc}
+                                        <button
+                                          type="button"
+                                          onClick={() => {
+                                            setFormData(prev => ({
+                                              ...prev,
+                                              multiCityLocations: {
+                                                ...prev.multiCityLocations,
+                                                [city]: prev.multiCityLocations[city].filter(l => l !== loc)
+                                              }
+                                            }));
+                                          }}
+                                          className="ml-0.5 hover:text-red-200 transition-colors"
+                                        >
+                                          <X size={11} />
+                                        </button>
+                                      </span>
+                                    ))}
+                                  </div>
+                                )}
+                              </>
                             )}
                             {formData.multiCityLocations[city]?.length > 0 && (
                               <p className="text-[12px] text-[#10B981] font-bold mt-2">
