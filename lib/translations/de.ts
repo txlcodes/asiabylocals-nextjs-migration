@@ -42820,6 +42820,77 @@ export const DE_TOURS: Record<string, TourT> = {
    "Nationalpark 200 pro Person (auf dem Ausflug zahlbar)"
   ]
  },
+ "from-ko-lanta-mangrove-eco-excursion-by-longtail-boat-krabi": {
+  "title": "Ab Ko Lanta: Mangroven-Ökoausflug per Longtail-Boot (Krabi)",
+  "metaTitle": "Ko Lanta: Mangroven-Ökoausflug per Longtail-Boot",
+  "metaDescription": "Halbtagesausflug in Krabi, mit Tung Yee Peng. Organisiert von Oh-Hoo, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbtagesausflug in Krabi, mit Tung Yee Peng. Organisiert von Oh-Hoo, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Ein halber Tag zwischen den Mangroven bei Tung Yee Peng, einem Fischerdorf auf Ko Lanta, das seinen eigenen Gemeinschaftstourismus betreibt statt den Ausflug an externe Anbieter zu verkaufen.\n\nDas Boot ist ein traditionelles Longtail-Boot, was hier wichtig ist: Der flache Tiefgang lässt es sich in Kanäle vorarbeiten, die ein Speedboot nicht erreichen kann. Mangrovenwald ist nicht auf die offensichtliche Art malerisch, wie es ein Strand ist, und genau das ist der Grund, mit einem Guide zu kommen. Sie betrachten eine Kinderstube, in der die verschlungenen Stelzwurzeln Jungfische, Krabben und Schlammspringer schützen, bevor sie zum Riff weiterziehen, und ein System, das Sturmfluten für die Insel dahinter abfängt. Eisvögel und Waran-Echsen sind häufig, und das Wasser liegt fast still, sodass der ganze Ausflug auf eine Art ruhig ist, wie es Bootstouren selten sind.\n\nTung Yee Peng selbst ist eine muslimische Fischergemeinschaft mit einem erhöhten Holzsteg durch den Wald und Meeresfrüchten direkt von lokalen Booten. Mittagessen ist inklusive und wird im Dorf eingenommen.\n\nDies ist der richtige Ausflug für einen regnerischen oder windigen Tag. Mangrovenkanäle sind geschütztes Wasser, daher findet er auch unter Bedingungen statt, die die Hochsee-Inseltouren während der grünen Saison von Mai bis Oktober zum Stillstand bringen.\n\nOh-Hoo organisiert diesen Ausflug und wir buchen direkt mit ihnen, sodass Ihr Platz beim Anbieter gesichert wird, bevor die Buchung endgültig ist. Der Preis umfasst den Hin- und Rück-Hoteltransfer, Mittagessen mit Trinkwasser und Obst, eine Schwimmweste, einen englischsprachigen lokalen Guide und eine grundlegende Unfallversicherung.\n\nVier Stunden, Abfahrt auf Ko Lanta, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Longtail-Boot in Kanäle, die Speedboote nicht erreichen",
+   "Tung Yee Peng, ein gemeinschaftlich betriebenes Fischerdorf",
+   "Mangroven-Kinderstube: Schlammspringer, Krabben, Eisvögel",
+   "Geschütztes Wasser, daher findet der Ausflug statt, wenn Inseltouren abgesagt werden",
+   "Dorf-Mittagessen, Guide und Transfers inklusive"
+  ],
+  "included": [
+   "Hin- und Rück-Hoteltransfer",
+   "Mittagessen, Trinkwasser und Obst",
+   "Schwimmweste",
+   "Englischsprachiger lokaler Guide",
+   "Grundlegende Unfallversicherung"
+  ],
+  "notIncluded": []
+ },
+ "zipline-and-adventure-courses-family-option-available-in-krabi": {
+  "title": "Zipline und Abenteuerparcours (Familienoption verfügbar) in Krabi",
+  "metaTitle": "Zipline und Abenteuerparcours in Krabi, Familienoption",
+  "metaDescription": "Ausflug in Krabi, mit Zipline und Spielstationen (je nach ausgewählter Option). Organisiert von Aonang Fiore Zipline Adventure, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ausflug in Krabi, mit Zipline und Spielstationen (je nach ausgewählter Option). Organisiert von Aonang Fiore Zipline Adventure, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Neunzig Minuten im Kronendach hinter Ao Nang, auf einem Parcours, der je nach Zusammensetzung Ihrer Gruppe hoch- oder herunterskaliert werden kann.\n\nDie Plattformen sind in die Bäume am Hang über der Stadt gebaut, was Sie auf die Höhe bringt, auf der im Wald wirklich etwas passiert: Der meiste Bewegung und Lärm im Tropenwald findet im Kronendach statt, nicht am Boden. Die Seile verlaufen zwischen den Plattformen, mit Kalkstein und Küstenlinie sichtbar durch die Lücken.\n\nWas Sie tun, hängt von der gebuchten Option ab. Die kürzere Familienvariante hält die Höhen moderat und fügt Spielstationen zwischen den Seilen hinzu, damit jüngere Kinder einen Parcours erhalten, den sie bewältigen können, statt einer verkleinerten Version eines Erwachsenenparcours. Die längeren Optionen fügen mehr Seile, mehr Höhe und Hindernis-Abschnitte zwischen den Plattformen hinzu.\n\nGuides führen den Parcours mit Ihnen, statt Sie allein hinunterzuschicken, und klippen Sie an jeder Plattform ein und aus. Keine Erfahrung ist nötig und nichts erfordert Oberkörperkraft; der Gurt leistet die Arbeit. Das Wichtigste zu wissen ist, dass es sich um einen Regenwaldhang handelt, der Boden also uneben ist und Schuhe wichtiger sind, als es sich anhört.\n\nAonang Fiore Zipline Adventure organisiert dies und wir buchen direkt mit ihnen, sodass Ihr Platz beim Anbieter gesichert wird, bevor die Buchung endgültig ist. Der Preis umfasst den Zipline-Parcours, Spielstationen je nach gewählter Option, die gesamte Sicherheitsausrüstung und erfahrene Guides. Der Anbieter schickt Treffpunkt und Uhrzeit per E-Mail, sobald Ihre Buchung bestätigt ist.\n\nNeunzig Minuten, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Kronendach-Plattformen am Hang hinter Ao Nang",
+   "Familienoption mit niedrigeren Seilen und Spielstationen",
+   "Längere Parcours fügen Höhe und Hindernis-Abschnitte hinzu",
+   "Guides klippen an jeder Plattform ein und aus",
+   "Keine Erfahrung oder Oberkörperkraft nötig"
+  ],
+  "included": [
+   "Zipline",
+   "Spielstationen (je nach ausgewählter Option)",
+   "Sicherheitsausrüstung",
+   "Erfahrene Guides"
+  ],
+  "notIncluded": []
+ },
+ "krabi-local-food-and-night-market-experience-by-local-operator": {
+  "title": "Erlebnis lokaler Speisen und Nachtmarkt in Krabi von lokalem Anbieter",
+  "metaTitle": "Krabi: Nachtmarkt und lokale Speisen",
+  "metaDescription": "Einstündiger Ausflug in Krabi, mit Hotelabholung und -rückfahrt und englischsprachigem Fahrer. Organisiert von ธนภัทรการท่องเที่ยว2025จำกัด, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Einstündiger Ausflug in Krabi, mit Hotelabholung und -rückfahrt und englischsprachigem Fahrer. Organisiert von ธนภัทรการท่องเที่ยว2025จำกัด, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Eine Stunde auf dem Nachtmarkt von Krabi mit jemandem, der Ihnen erklären kann, was Sie gerade sehen.\n\nDer Nachtmarkt der Stadt Krabi verläuft am Flussufer, und es ist ein lokaler Markt mit Touristen darauf, nicht ein Touristenmarkt. Die Stände sind für Leute aufgebaut, die auf dem Heimweg ihr Abendessen kaufen, weshalb die Preise normal sind und das Essen schnell genug umgesetzt wird, um frisch zu bleiben.\n\nEine Stunde ist kurz, und das ist die ehrliche Einordnung: Dies ist ein Vorgeschmack auf den Markt, keine vollständige Food-Tour. Was Ihnen die Stunde bringt, ist jemand, der für Sie bestellt. Südthailändisches Essen ist die schärfste Regionalküche des Landes, und viele der besten Stände haben kein englisches Schild und kein englisches Menü. Zu wissen, welcher Topf gaeng tai pla ist, ein fermentiertes Fischinnereien-Curry, das einem unvorbereiteten Mund das Dach wegreißt, und welcher die milde Kokosnuss-Variante ist, macht den Unterschied zwischen einem großartigen und einem verdorbenen Abend aus.\n\nEintrittsgebühren und Verkostungen sind abgedeckt, sodass Sie nicht Stand für Stand bezahlen.\n\nWenn Sie einen ganzen Abend Essen wollen, ist das nicht dieser Ausflug; suchen Sie stattdessen eine dreistündige Food-Tour. Wenn Sie ohnehin in der Stadt Krabi sind und eine Stunde wollen, die den Markt erschließbar macht, erfüllt dies den Zweck.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hotelabholung und -rückfahrt, einen englischsprachigen Fahrer, die Essensverkostung, Eintrittsgebühren, Trinkwasser und eine Unfallversicherung.\n\nEine Stunde auf dem Markt plus Transfers. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Ein echter lokaler Nachtmarkt am Flussufer von Krabi",
+   "Eine Stunde, also ein Vorgeschmack auf den Markt statt einer Food-Tour",
+   "Jemand, der für Sie bestellt, wo es kein englisches Menü gibt",
+   "Südthailändisch ist die schärfste Regionalküche des Landes",
+   "Verkostungen und Eintritt abgedeckt, kein Zahlen Stand für Stand"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt",
+   "Englischsprachiger Fahrer",
+   "Lokale Essensverkostung",
+   "Eintrittsgebühren",
+   "Trinkwasser",
+   "Unfallversicherung"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Zusätzliche Speisen und Getränke",
+   "Trinkgelder",
+   "Im Reiseplan nicht erwähnte Posten"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Pattaya 3-Insel-Katamaran-Kreuzfahrt mit thailändischem Buffet-Mittagessen",
   "metaTitle": "Pattaya: Katamaran 3 Inseln, thailändisches Buffet-Mittagessen",

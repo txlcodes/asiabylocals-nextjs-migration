@@ -42820,6 +42820,77 @@ export const FR_TOURS: Record<string, TourT> = {
    "Parc national 200 par personne (payable sur l'excursion)"
   ]
  },
+ "from-ko-lanta-mangrove-eco-excursion-by-longtail-boat-krabi": {
+  "title": "Depuis Ko Lanta : excursion écologique dans la mangrove en bateau à longue queue (Krabi)",
+  "metaTitle": "Ko Lanta : excursion écologique dans la mangrove",
+  "metaDescription": "Excursion d'une demi-journée à Krabi, incluant Tung Yee Peng. Organisée par Oh-Hoo, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une demi-journée à Krabi, incluant Tung Yee Peng. Organisée par Oh-Hoo, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Une demi-journée parmi les mangroves de Tung Yee Peng, un village de pêcheurs sur Ko Lanta qui gère son propre tourisme communautaire plutôt que de vendre l'excursion à des opérateurs extérieurs.\n\nLe bateau est un longtail traditionnel, ce qui compte ici : son faible tirant d'eau lui permet de s'engager dans des canaux qu'un hors-bord ne peut atteindre. La forêt de mangrove n'est pas spectaculaire de la manière évidente d'une plage, et c'est précisément pour cela qu'il vaut la peine de s'y rendre avec un guide. Vous observez une nurserie, où les racines-échasses enchevêtrées abritent de jeunes poissons, des crabes et des poissons-grenouilles avant qu'ils ne partent vers le récif, et un système qui absorbe les ondes de tempête pour l'île qui se trouve derrière. Martins-pêcheurs et varans sont fréquents, et l'eau reste presque immobile, ce qui rend toute l'excursion aussi calme que les excursions en bateau le sont rarement.\n\nTung Yee Peng elle-même est une communauté de pêcheurs musulmans dotée d'une passerelle surélevée à travers la forêt et de fruits de mer provenant des bateaux locaux. Le déjeuner est compris et pris dans le village.\n\nC'est l'excursion idéale pour une journée pluvieuse ou venteuse. Les canaux de mangrove sont des eaux abritées, donc l'excursion fonctionne par des conditions qui ferment les excursions insulaires en haute mer pendant la saison verte de mai à octobre.\n\nOh-Hoo organise cette excursion et nous réservons directement avec eux, votre place est donc retenue auprès de l'opérateur avant que la réservation ne soit définitive. Le prix comprend le transfert aller-retour à l'hôtel, le déjeuner avec eau potable et fruits, un gilet de sauvetage, un guide local anglophone et une assurance accident de base.\n\nQuatre heures, départ sur Ko Lanta, un jour de préavis minimum.",
+  "highlights": [
+   "Bateau à longue queue dans des canaux inaccessibles aux hors-bords",
+   "Tung Yee Peng, un village de pêcheurs géré par la communauté",
+   "Nurserie de mangrove : poissons-grenouilles, crabes, martins-pêcheurs",
+   "Eaux abritées, donc l'excursion fonctionne quand les sorties insulaires sont annulées",
+   "Déjeuner au village, guide et transferts compris"
+  ],
+  "included": [
+   "Transfert aller-retour à l'hôtel",
+   "Déjeuner, eau potable et fruits",
+   "Gilet de sauvetage",
+   "Guide local anglophone",
+   "Assurance accident de base"
+  ],
+  "notIncluded": []
+ },
+ "zipline-and-adventure-courses-family-option-available-in-krabi": {
+  "title": "Tyrolienne et parcours d'aventure (option famille disponible) à Krabi",
+  "metaTitle": "Tyrolienne et parcours d'aventure à Krabi, option famille",
+  "metaDescription": "Excursion à Krabi, incluant tyrolienne et stations de jeu (selon les options sélectionnées). Organisée par Aonang Fiore Zipline Adventure, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion à Krabi, incluant tyrolienne et stations de jeu (selon les options sélectionnées). Organisée par Aonang Fiore Zipline Adventure, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Une heure et demie dans la canopée derrière Ao Nang, sur un parcours que l'on peut ajuster à la hausse ou à la baisse selon qui compose votre groupe.\n\nLes plateformes sont construites dans les arbres sur la pente au-dessus de la ville, ce qui vous place à la hauteur où la forêt se passe réellement : la plupart du mouvement et du bruit en forêt tropicale se trouvent dans la canopée plutôt qu'au sol. Les câbles relient les plateformes, avec le calcaire et le littoral visibles à travers les ouvertures.\n\nCe que vous faites dépend de l'option que vous réservez. La formule familiale plus courte maintient les hauteurs modestes et ajoute des stations de jeu entre les câbles, afin que les plus jeunes enfants disposent d'un parcours qu'ils peuvent terminer plutôt qu'une version réduite d'un parcours adulte. Les options plus longues ajoutent davantage de câbles, plus de hauteur et des sections d'obstacles entre les plateformes.\n\nLes guides accompagnent le parcours avec vous plutôt que de vous laisser descendre seul, accrochant et décrochant à chaque plateforme. Aucune expérience n'est nécessaire et rien ne requiert de force dans le haut du corps ; le harnais fait le travail. L'essentiel à savoir est qu'il s'agit d'une pente de forêt tropicale, donc le sol est inégal et les chaussures comptent plus qu'on ne le pense.\n\nAonang Fiore Zipline Adventure organise cette activité et nous réservons directement avec eux, votre place est donc retenue auprès de l'opérateur avant que la réservation ne soit définitive. Le prix comprend le parcours de tyrolienne, les stations de jeu selon l'option sélectionnée, tout l'équipement de sécurité et des guides experts. L'opérateur envoie par e-mail le point de rendez-vous et l'heure une fois votre réservation confirmée.\n\nQuatre-vingt-dix minutes, un jour de préavis minimum.",
+  "highlights": [
+   "Plateformes de canopée sur la pente derrière Ao Nang",
+   "Option famille avec câbles plus bas et stations de jeu",
+   "Les parcours plus longs ajoutent de la hauteur et des sections d'obstacles",
+   "Les guides accrochent et décrochent à chaque plateforme",
+   "Aucune expérience ni force du haut du corps nécessaire"
+  ],
+  "included": [
+   "Tyrolienne",
+   "Stations de jeu (selon les options sélectionnées)",
+   "Équipement de sécurité",
+   "Guides experts"
+  ],
+  "notIncluded": []
+ },
+ "krabi-local-food-and-night-market-experience-by-local-operator": {
+  "title": "Expérience de nourriture locale et de marché nocturne à Krabi par un opérateur local",
+  "metaTitle": "Krabi : marché nocturne et nourriture locale",
+  "metaDescription": "Excursion d'une heure à Krabi, incluant prise en charge et retour à l'hôtel et chauffeur anglophone. Organisée par ธนภัทรการท่องเที่ยว2025จำกัด, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une heure à Krabi, incluant prise en charge et retour à l'hôtel et chauffeur anglophone. Organisée par ธนภัทรการท่องเที่ยว2025จำกัด, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Une heure au marché nocturne de Krabi avec quelqu'un capable de vous expliquer ce que vous regardez.\n\nLe marché nocturne de la ville de Krabi s'étend le long du front de rivière, et c'est un marché local fréquenté par des touristes plutôt qu'un marché touristique. Les étals sont installés pour des gens qui achètent leur dîner en rentrant chez eux, c'est pourquoi les prix sont ordinaires et la nourriture tourne assez vite pour rester fraîche.\n\nUne heure, c'est court, et c'est l'honnêteté du cadre : c'est un aperçu du marché, pas une excursion gastronomique complète. Ce qu'achète cette heure, c'est quelqu'un pour commander à votre place. La cuisine du sud de la Thaïlande est la plus épicée du pays, et beaucoup des meilleurs étals n'ont ni enseigne ni menu en anglais. Savoir quelle marmite contient le gaeng tai pla, un curry aux tripes de poisson fermentées qui décoiffera une bouche non préparée, et laquelle est la version douce à la noix de coco, c'est la différence entre une excellente soirée et une soirée gâchée.\n\nLes frais d'entrée et les dégustations sont compris, donc vous ne payez pas étal par étal.\n\nSi vous voulez une soirée entière de dégustation, ce n'est pas cette excursion ; cherchez plutôt une excursion gastronomique de trois heures. Si vous êtes de toute façon dans la ville de Krabi et voulez une heure qui rend le marché accessible, elle fait le travail.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la prise en charge et le retour à l'hôtel, un chauffeur anglophone, la dégustation de nourriture, les frais d'entrée, l'eau potable et une assurance accident.\n\nUne heure au marché plus les transferts. Un jour de préavis minimum.",
+  "highlights": [
+   "Un véritable marché nocturne local sur le front de rivière de Krabi",
+   "Une heure, donc un aperçu du marché plutôt qu'une excursion gastronomique",
+   "Quelqu'un pour commander à votre place là où il n'y a pas de menu en anglais",
+   "Le sud thaïlandais est la cuisine régionale la plus épicée du pays",
+   "Dégustations et entrée comprises, sans payer étal par étal"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Chauffeur anglophone",
+   "Dégustation de nourriture locale",
+   "Frais d'entrée",
+   "Eau potable",
+   "Assurance accident"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Nourriture et boissons supplémentaires",
+   "Pourboires",
+   "Éléments non mentionnés dans l'itinéraire"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Croisière en catamaran entre 3 îles de Pattaya avec déjeuner buffet thaïlandais",
   "metaTitle": "Pattaya : catamaran 3 îles, déjeuner buffet thaïlandais",
