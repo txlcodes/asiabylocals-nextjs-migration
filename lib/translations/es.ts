@@ -43395,6 +43395,79 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tarifa de entrada al parque nacional"
   ]
  },
+ "10-line-zipline-adventure-with-80m-double-and-high-zip-in-krabi": {
+  "title": "Aventura de tirolina de 10 líneas con doble cable de 80 m y línea alta en Krabi",
+  "metaTitle": "Krabi: tirolina de 10 líneas, doble cable de 80 m",
+  "metaDescription": "Excursión de media hora en Krabi, con una aventura de tirolina de 10 tramos y charla de seguridad. Organizada por Aonang Fiore Zipline Adventure, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de media hora en Krabi, con una aventura de tirolina de 10 tramos y charla de seguridad. Organizada por Aonang Fiore Zipline Adventure, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Diez líneas a través del dosel forestal en media hora, incluyendo un doble cable de 80 metros que se puede recorrer junto a alguien.\n\nTreinta minutos es poco tiempo, y el circuito está construido para eso: diez líneas seguidas con mínimo caminar entre plataformas, así que el tiempo se pasa en el aire en lugar de haciendo cola en el suelo. El doble cable de 80 metros es el largo, dos cables uno junto al otro para que dos personas salgan de la plataforma juntas, lo que convierte la línea más grande del circuito en algo compartido en lugar de algo que se hace solo y se cuenta después.\n\nLa línea alta es el otro cable con nombre propio y es exactamente lo que suena.\n\nLas plataformas están colocadas en el bosque de la ladera detrás de la costa. El dosel forestal es donde realmente se produce la mayor parte del movimiento y el ruido en un bosque tropical, así que el circuito le sitúa al nivel que merece la pena, con la caliza y la costa visibles a través de los huecos.\n\nNada aquí requiere fuerza o experiencia. El arnés le sostiene, los guías engancharán y desengancharán en cada plataforma, y la charla de seguridad está incluida. El calzado cerrado importa más de lo que parece porque el suelo entre plataformas es terreno forestal irregular.\n\nTreinta minutos convierten esto en algo que se reserva alrededor de otra actividad en lugar de una actividad para todo el día. Encaja cómodamente antes o después de una excursión en barco por la mañana.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye la tirolina de 10 tramos, la charla de seguridad, fruta y agua, y un seguro. Los traslados no están listados, así que confirme cómo va a llegar al reservar.\n\nUn día de aviso mínimo.",
+  "highlights": [
+   "Diez líneas en treinta minutos, poco caminar entre ellas",
+   "Doble cable de 80 metros recorrido de dos en dos",
+   "Plataformas a la altura del dosel forestal con vistas a la costa",
+   "No se necesita fuerza ni experiencia, los guías le engancharán",
+   "Lo bastante corto para encajar antes o después de una excursión en barco"
+  ],
+  "included": [
+   "Aventura de tirolina de 10 tramos",
+   "Charla de seguridad",
+   "Fruta y agua",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Servicios de recogida y regreso"
+  ]
+ },
+ "elephant-feeding-program-with-food-preparation-in-krabi": {
+  "title": "Programa de alimentación de elefantes con preparación de comida en Krabi",
+  "metaTitle": "Krabi: alimentación de elefantes, preparación incluida",
+  "metaDescription": "Excursión de media hora en Krabi, con traslado de hotel (Ao Nang, Klong Muang y Nopparat Thara) e ingredientes y materiales. Organizada por Krabi Elephant Shelter, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de media hora en Krabi, con traslado de hotel (Ao Nang, Klong Muang y Nopparat Thara) e ingredientes y materiales. Organizada por Krabi Elephant Shelter, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Media hora preparando comida para elefantes a mano y dándosela a la manada.\n\nEnrolla la comida antes de entregarla: plátanos, caña de azúcar y bolas de arroz y tamarindo. Un elefante asiático adulto come alrededor de 150 kilogramos de materia vegetal al día, y preparar unos pocos kilos usted mismo es la forma más rápida de entender lo que eso realmente significa.\n\nSin montar, sin cadenas durante el programa, sin espectáculos. Los animales proceden del trabajo de tala y de montar, y ahora viven en la tierra que el santuario reserva para ellos.\n\nTreinta minutos en terreno seco conviene a mucha gente mejor que un programa más largo. Nadie se moja, nada requiere cambiarse de ropa, y los niños pequeños se acercan a un elefante exactamente el tiempo que puedan mantener la atención. También encaja antes o después de una excursión en barco sin ocupar el día.\n\nEl santuario está tierra adentro de la costa, en terreno reservado para la manada en lugar de un corral junto a la carretera, así que el trayecto es corto pero le aleja de verdad de la franja turística.\n\nEl traslado de hotel desde Ao Nang, Klong Muang y Nopparat Thara está incluido, junto con todos los ingredientes y materiales que usará, además de café, té, agua potable y fruta de temporada.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva.\n\nUn día de aviso mínimo.",
+  "highlights": [
+   "Enrolle la comida a mano, después dásela a la manada",
+   "Sin montar, sin cadenas, sin espectáculos",
+   "Permanezca seco, en terreno seco, sin cambiarse de ropa",
+   "Lo bastante corto para niños pequeños y fácil de encajar alrededor de una excursión en barco",
+   "Traslado de hotel desde Ao Nang, Klong Muang y Nopparat Thara"
+  ],
+  "included": [
+   "Traslado de hotel (zonas de Ao Nang, Klong Muang y Nopparat Thara)",
+   "Ingredientes y materiales",
+   "Café, té, agua potable y fruta de temporada",
+   "Seguro de accidentes",
+   "Para el seguro de accidentes, haga una foto de su pasaporte y guárdela en su teléfono. No necesitamos el pasaporte físico ni una copia impresa, pero podríamos solicitar la imagen en caso de emergencia"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Fotógrafo"
+  ]
+ },
+ "7-islands-sunset-and-plankton-swim-with-bbq-dinner-in-krabi": {
+  "title": "Atardecer en 7 islas y baño de plancton con cena barbacoa en Krabi",
+  "metaTitle": "7 islas al atardecer, plancton y barbacoa, Krabi",
+  "metaDescription": "Excursión de día completo en Krabi, con traslado de ida y vuelta desde la ciudad de Krabi o Ao Nang y cena barbacoa, agua potable, fruta. Organizada por Oh-Hoo, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de día completo en Krabi, con traslado de ida y vuelta desde la ciudad de Krabi o Ao Nang y cena barbacoa, agua potable, fruta. Organizada por Oh-Hoo, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "La ruta de las siete islas en versión excursión vespertina, con cena cocinada en el barco y un baño de plancton para terminar.\n\nLas islas frente a Ao Nang están concurridas desde media mañana hasta media tarde y después se vacían casi por completo. Salir por la tarde significa llegar a las paradas posteriores después de que la flota diurna haya regresado a casa, así que las playas que ve en las últimas dos horas no son las mismas playas que vieron los barcos de la mañana.\n\nEl snorkel se practica mientras aún hay luz, sobre arrecife poco profundo que el guía elige el mismo día según el estado del agua. El atardecer se disfruta desde el barco en algún lugar entre las islas, y la cena barbacoa se sirve tras el anochecer.\n\nEl baño de plancton es la última parada. La luz proviene de dinoflagelados que destellan cuando el agua a su alrededor se mueve, así que aparece como chispas alrededor de sus manos y pies en lugar de un brillo sobre la superficie. No está garantizado en ninguna noche concreta. Un cielo oscuro cercano a la luna nueva ofrece el espectáculo más intenso, una luna llena prácticamente lo borra, y el agua agitada lo dispersa. Pregunte sobre la fase lunar antes de fijar una fecha si esta es la parte que le importa.\n\nSiete horas desde la recogida hasta el regreso, así que espere una velada completa.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye el traslado de ida y vuelta desde la ciudad de Krabi o Ao Nang, cena barbacoa con agua potable y fruta, chaleco salvavidas, máscara de snorkel, guía turístico, botiquín de primeros auxilios y seguro de accidentes.\n\nTraiga una toalla, ropa seca y algo de abrigo para el viaje de vuelta. Un día de aviso mínimo.",
+  "highlights": [
+   "Salida por la tarde, así que las paradas tardías están casi vacías",
+   "Snorkel de día, cena barbacoa tras el anochecer",
+   "Atardecer desde el agua entre las islas",
+   "Baño de plancton, más intenso en noches oscuras cercanas a una luna nueva",
+   "Traslados, cena, guía y equipo de snorkel incluidos"
+  ],
+  "included": [
+   "Traslado de ida y vuelta desde la ciudad de Krabi o Ao Nang",
+   "Cena barbacoa, agua potable, fruta",
+   "Chaleco salvavidas, máscara de snorkel",
+   "Guía turístico",
+   "Botiquín de primeros auxilios",
+   "Seguro de accidentes"
+  ],
+  "notIncluded": [
+   "Tarifa del parque nacional (200 THB por adulto y 100 THB por niño)"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Crucero en catamarán por 3 islas de Pattaya con almuerzo buffet tailandés",
   "metaTitle": "Pattaya: catamarán 3 islas, almuerzo buffet tailandés",

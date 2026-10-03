@@ -43395,6 +43395,79 @@ export const FR_TOURS: Record<string, TourT> = {
    "Frais d'entrée du parc national"
   ]
  },
+ "10-line-zipline-adventure-with-80m-double-and-high-zip-in-krabi": {
+  "title": "Aventure en tyrolienne de 10 lignes avec double câble de 80 m et ligne haute à Krabi",
+  "metaTitle": "Krabi : tyrolienne 10 lignes, double câble 80 m",
+  "metaDescription": "Excursion d'une demi-heure à Krabi, incluant une aventure en tyrolienne de 10 parcours et un briefing de sécurité. Organisée par Aonang Fiore Zipline Adventure, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une demi-heure à Krabi, incluant une aventure en tyrolienne de 10 parcours et un briefing de sécurité. Organisée par Aonang Fiore Zipline Adventure, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Dix lignes à travers la canopée en une demi-heure, dont un double câble de 80 mètres qu'on peut parcourir à côté de quelqu'un.\n\nTrente minutes, c'est court, et le parcours est conçu pour cela : dix lignes enchaînées avec peu de marche entre les plateformes, donc le temps se passe dans les airs plutôt qu'à faire la queue au sol. Le double câble de 80 mètres est le plus long, deux câbles côte à côte pour que deux personnes quittent la plateforme ensemble, ce qui transforme la plus grande ligne du parcours en une expérience partagée plutôt qu'en quelque chose qu'on fait seul et qu'on raconte après.\n\nLa ligne haute est l'autre câble nommé, et c'est exactement ce que son nom indique.\n\nLes plateformes sont installées dans la forêt sur la pente derrière la côte. La canopée est l'endroit où se trouve réellement la plupart du mouvement et du bruit en forêt tropicale, donc le parcours vous place au niveau qui mérite d'y être, avec le calcaire et le littoral visibles à travers les ouvertures.\n\nRien ici ne nécessite de force ou d'expérience. Le harnais vous porte, les guides accrochent et décrochent à chaque plateforme, et le briefing de sécurité est compris. Des chaussures fermées comptent plus qu'on ne le pense, car le sol entre les plateformes est un terrain forestier irrégulier.\n\nTrente minutes en font une activité à réserver autour d'autre chose plutôt qu'une activité pour toute la journée. Elle s'insère confortablement avant ou après une excursion en bateau du matin.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la tyrolienne à dix parcours, le briefing de sécurité, des fruits et de l'eau, et une assurance. Les transferts ne sont pas listés, confirmez donc comment vous vous y rendrez lors de la réservation.\n\nUn jour de préavis minimum.",
+  "highlights": [
+   "Dix lignes en trente minutes, peu de marche entre elles",
+   "Double câble de 80 mètres parcouru à deux à la fois",
+   "Plateformes à hauteur de canopée avec vue sur le littoral",
+   "Aucune force ni expérience nécessaire, les guides vous accrochent",
+   "Assez court pour s'insérer avant ou après une excursion en bateau"
+  ],
+  "included": [
+   "Aventure en tyrolienne à 10 parcours",
+   "Briefing de sécurité",
+   "Fruits et eau",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Services de prise en charge et de retour"
+  ]
+ },
+ "elephant-feeding-program-with-food-preparation-in-krabi": {
+  "title": "Programme de nourrissage des éléphants avec préparation de la nourriture à Krabi",
+  "metaTitle": "Krabi : nourrissage des éléphants, préparation incluse",
+  "metaDescription": "Excursion d'une demi-heure à Krabi, incluant un transfert d'hôtel (Ao Nang, Klong Muang et Nopparat Thara) et les ingrédients et le matériel. Organisée par Krabi Elephant Shelter, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une demi-heure à Krabi, incluant un transfert d'hôtel (Ao Nang, Klong Muang et Nopparat Thara) et les ingrédients et le matériel. Organisée par Krabi Elephant Shelter, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Une demi-heure à préparer de la nourriture pour éléphants à la main et à la donner au troupeau.\n\nVous roulez la nourriture avant de la remettre : bananes, canne à sucre et boules de riz et de tamarin. Un éléphant d'Asie adulte mange environ 150 kilogrammes de matière végétale par jour, et en préparer quelques kilos soi-même est la façon la plus rapide de comprendre ce que cela signifie réellement.\n\nPas de monte, pas de chaînes pendant le programme, pas de spectacles. Les animaux viennent du travail d'abattage et de monte, et vivent désormais sur les terres que le sanctuaire leur réserve.\n\nTrente minutes sur un terrain sec conviennent mieux à beaucoup de gens qu'un programme plus long. Personne ne se mouille, rien ne nécessite de se changer, et les jeunes enfants s'approchent d'un éléphant exactement aussi longtemps qu'ils peuvent maintenir leur attention. Cela s'insère aussi avant ou après une excursion en bateau sans prendre la journée.\n\nLe sanctuaire se trouve à l'intérieur des terres, loin de la côte, sur un terrain réservé au troupeau plutôt qu'un enclos au bord de la route, donc le trajet est court mais vous éloigne réellement de la bande touristique.\n\nLe transfert d'hôtel depuis Ao Nang, Klong Muang et Nopparat Thara est compris, ainsi que chaque ingrédient et matériel que vous utiliserez, plus café, thé, eau potable et fruits de saison.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive.\n\nUn jour de préavis minimum.",
+  "highlights": [
+   "Roulez la nourriture à la main, puis donnez-la au troupeau",
+   "Pas de monte, pas de chaînes, pas de spectacles",
+   "Restez sec, sur un terrain sec, sans se changer",
+   "Assez court pour les jeunes enfants et facile à insérer autour d'une excursion en bateau",
+   "Transfert d'hôtel depuis Ao Nang, Klong Muang et Nopparat Thara"
+  ],
+  "included": [
+   "Transfert d'hôtel (zones Ao Nang, Klong Muang et Nopparat Thara)",
+   "Ingrédients et matériel",
+   "Café, thé, eau potable et fruits de saison",
+   "Assurance accident",
+   "Pour les besoins de l'assurance accident, merci de prendre une photo de votre passeport et de la sauvegarder sur votre téléphone. Nous n'avons pas besoin du passeport physique ni d'une copie imprimée, mais pourrions demander l'image en cas d'urgence"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Photographe"
+  ]
+ },
+ "7-islands-sunset-and-plankton-swim-with-bbq-dinner-in-krabi": {
+  "title": "Coucher de soleil sur 7 îles et baignade dans le plancton avec dîner barbecue à Krabi",
+  "metaTitle": "7 îles au coucher du soleil, plancton et barbecue, Krabi",
+  "metaDescription": "Excursion d'une journée complète à Krabi, incluant un transfert aller-retour depuis la ville de Krabi ou Ao Nang et un dîner barbecue, eau potable, fruits. Organisée par Oh-Hoo, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une journée complète à Krabi, incluant un transfert aller-retour depuis la ville de Krabi ou Ao Nang et un dîner barbecue, eau potable, fruits. Organisée par Oh-Hoo, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Le circuit des sept îles en version excursion du soir, avec un dîner cuisiné sur le bateau et une baignade dans le plancton pour finir.\n\nLes îles au large d'Ao Nang sont animées de milieu de matinée à milieu d'après-midi, puis se vident presque entièrement. Partir l'après-midi signifie atteindre les derniers arrêts après que la flotte diurne soit rentrée chez elle, donc les plages que vous voyez dans les deux dernières heures ne sont pas les mêmes plages que celles vues par les bateaux du matin.\n\nLa plongée avec tuba se fait tandis qu'il fait encore jour, sur un récif peu profond que le guide choisit le jour même selon l'état de l'eau. Le coucher de soleil se prend depuis le bateau quelque part parmi les îles, et le dîner barbecue est servi après la tombée de la nuit.\n\nLa baignade dans le plancton est le dernier arrêt. La lumière vient de dinoflagellés qui s'illuminent quand l'eau autour d'eux bouge, donc elle apparaît comme des étincelles autour de vos mains et de vos pieds plutôt qu'une lueur sur la surface. Elle n'est garantie aucune nuit en particulier. Un ciel sombre proche de la nouvelle lune offre le spectacle le plus intense, une pleine lune l'efface pratiquement, et une mer agitée la disperse. Renseignez-vous sur la phase de la lune avant de fixer une date si c'est l'aspect qui vous importe.\n\nSept heures de la prise en charge au retour, attendez-vous donc à une soirée complète.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend le transfert aller-retour depuis la ville de Krabi ou Ao Nang, le dîner barbecue avec eau potable et fruits, un gilet de sauvetage, un masque de plongée avec tuba, un guide touristique, une trousse de premiers secours et une assurance accident.\n\nApportez une serviette, des vêtements secs et quelque chose de chaud pour le trajet de retour. Un jour de préavis minimum.",
+  "highlights": [
+   "Départ en après-midi, donc les derniers arrêts sont quasi déserts",
+   "Plongée avec tuba en plein jour, dîner barbecue après la tombée de la nuit",
+   "Coucher de soleil depuis l'eau parmi les îles",
+   "Baignade dans le plancton, plus intense les nuits sombres proches d'une nouvelle lune",
+   "Transferts, dîner, guide et équipement de plongée avec tuba compris"
+  ],
+  "included": [
+   "Transfert aller-retour depuis la ville de Krabi ou Ao Nang",
+   "Dîner barbecue, eau potable, fruits",
+   "Gilet de sauvetage, masque de plongée avec tuba",
+   "Guide touristique",
+   "Trousse de premiers secours",
+   "Assurance accident"
+  ],
+  "notIncluded": [
+   "Frais de parc national (200 THB par adulte et 100 THB par enfant)"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Croisière en catamaran entre 3 îles de Pattaya avec déjeuner buffet thaïlandais",
   "metaTitle": "Pattaya : catamaran 3 îles, déjeuner buffet thaïlandais",

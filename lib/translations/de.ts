@@ -43395,6 +43395,79 @@ export const DE_TOURS: Record<string, TourT> = {
    "Nationalpark-Eintrittsgebühr"
   ]
  },
+ "10-line-zipline-adventure-with-80m-double-and-high-zip-in-krabi": {
+  "title": "10-Linien-Zipline-Abenteuer mit 80-m-Doppelseil und Hochseil in Krabi",
+  "metaTitle": "Krabi: Zipline 10 Linien, 80-m-Doppelseil",
+  "metaDescription": "Halbstündiger Ausflug in Krabi, mit einem 10-Stationen-Zipline-Abenteuer und Sicherheitsbriefing. Organisiert von Aonang Fiore Zipline Adventure, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbstündiger Ausflug in Krabi, mit einem 10-Stationen-Zipline-Abenteuer und Sicherheitsbriefing. Organisiert von Aonang Fiore Zipline Adventure, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Zehn Seile durch das Kronendach in einer halben Stunde, einschließlich eines 80 Meter langen Doppelseils, das man neben jemandem fahren kann.\n\nDreißig Minuten sind kurz, und der Parcours ist genau dafür gebaut: zehn Seile hintereinander mit minimalem Gehen zwischen den Plattformen, sodass die Zeit in der Luft verbracht wird statt am Boden anzustehen. Das 80-Meter-Doppelseil ist das lange, zwei Kabel nebeneinander, sodass zwei Personen gemeinsam von der Plattform starten, was das größte Seil des Parcours zu etwas Gemeinsamem macht statt zu etwas, das man allein macht und danach beschreibt.\n\nDas Hochseil ist das andere benannte Seil und ist genau das, was der Name vermuten lässt.\n\nDie Plattformen sind in den Wald am Hang hinter der Küste eingebaut. Das Kronendach ist der Ort, an dem sich tatsächlich der meiste Bewegung und Lärm eines Tropenwaldes befindet, sodass der Parcours Sie auf die Ebene bringt, die es wert ist, mit Kalkstein und Küstenlinie sichtbar durch die Lücken.\n\nNichts hier erfordert Kraft oder Erfahrung. Der Gurt trägt Sie, Guides klippen Sie an jeder Plattform ein und aus, und das Sicherheitsbriefing ist inklusive. Geschlossene Schuhe zählen mehr, als es sich anhört, da der Boden zwischen den Plattformen unebener Waldboden ist.\n\nDreißig Minuten machen dies zu etwas, das man um etwas anderes herum bucht statt zu einer Tagesaktivität. Es passt bequem vor oder nach einem morgendlichen Bootsausflug.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst die Zipline mit 10 Stationen, das Sicherheitsbriefing, Obst und Wasser, und eine Versicherung. Transfers sind nicht aufgeführt, bestätigen Sie also bei der Buchung, wie Sie dorthin kommen.\n\nMindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Zehn Seile in dreißig Minuten, wenig Gehen dazwischen",
+   "80-Meter-Doppelseil, zu zweit gefahren",
+   "Plattformen in Kronendachhöhe mit Küstenblick",
+   "Keine Kraft oder Erfahrung nötig, Guides klippen Sie ein",
+   "Kurz genug, um vor oder nach einem Bootsausflug zu passen"
+  ],
+  "included": [
+   "Zipline-Abenteuer mit 10 Stationen",
+   "Sicherheitsbriefing",
+   "Obst und Wasser",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Abhol- und Rückfahrservice"
+  ]
+ },
+ "elephant-feeding-program-with-food-preparation-in-krabi": {
+  "title": "Elefantenfütterungsprogramm mit Essenszubereitung in Krabi",
+  "metaTitle": "Krabi: Elefantenfütterung, Zubereitung inklusive",
+  "metaDescription": "Halbstündiger Ausflug in Krabi, mit Hoteltransfer (Ao Nang, Klong Muang und Nopparat Thara) sowie Zutaten und Material. Organisiert von Krabi Elephant Shelter, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbstündiger Ausflug in Krabi, mit Hoteltransfer (Ao Nang, Klong Muang und Nopparat Thara) sowie Zutaten und Material. Organisiert von Krabi Elephant Shelter, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Eine halbe Stunde, in der Sie Elefantenfutter von Hand zubereiten und es der Herde füttern.\n\nSie rollen das Futter, bevor Sie es übergeben: Bananen, Zuckerrohr und Reis-Tamarinden-Kugeln. Ein erwachsener asiatischer Elefant isst etwa 150 Kilogramm Pflanzenmaterial pro Tag, und ein paar Kilo davon selbst zuzubereiten, ist der schnellste Weg zu verstehen, was das tatsächlich bedeutet.\n\nKein Reiten, keine Ketten während des Programms, keine Vorführungen. Die Tiere kommen aus der Holzfäller- und Reitarbeit und leben jetzt auf dem Land, das das Schutzgebiet für sie bereithält.\n\nDreißig Minuten auf trockenem Boden passen vielen Leuten besser als ein längeres Programm. Niemand wird nass, nichts erfordert einen Kleiderwechsel, und kleine Kinder kommen einem Elefanten genau so lange nahe, wie sie die Aufmerksamkeit halten können. Es passt auch vor oder nach einem Bootsausflug, ohne den Tag zu beanspruchen.\n\nDas Schutzgebiet liegt landeinwärts von der Küste, auf Land, das für die Herde reserviert ist, statt eines Geheges am Straßenrand, daher ist die Fahrt kurz, bringt Sie aber wirklich aus dem Resortstreifen heraus.\n\nHoteltransfer ab Ao Nang, Klong Muang und Nopparat Thara ist inklusive, zusammen mit jeder Zutat und jedem Material, das Sie verwenden werden, plus Kaffee, Tee, Trinkwasser und Saisonobst.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist.\n\nMindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Rollen Sie das Futter von Hand, füttern Sie es dann der Herde",
+   "Kein Reiten, keine Ketten, keine Vorführungen",
+   "Bleiben Sie trocken, auf trockenem Boden, kein Kleiderwechsel",
+   "Kurz genug für kleine Kinder und leicht um einen Bootsausflug herum zu passen",
+   "Hoteltransfer ab Ao Nang, Klong Muang und Nopparat Thara"
+  ],
+  "included": [
+   "Hoteltransfer (Gebiete Ao Nang, Klong Muang und Nopparat Thara)",
+   "Zutaten und Material",
+   "Kaffee, Tee, Trinkwasser und Saisonobst",
+   "Unfallversicherung",
+   "Für die Unfallversicherung machen Sie bitte ein Foto Ihres Reisepasses und speichern es auf Ihrem Telefon. Wir benötigen nicht den physischen Reisepass oder eine gedruckte Kopie, könnten aber im Notfall das Bild anfordern"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Fotograf"
+  ]
+ },
+ "7-islands-sunset-and-plankton-swim-with-bbq-dinner-in-krabi": {
+  "title": "Sonnenuntergang über 7 Inseln und Plankton-Schwimmen mit Barbecue-Abendessen in Krabi",
+  "metaTitle": "7 Inseln bei Sonnenuntergang, Plankton und Barbecue, Krabi",
+  "metaDescription": "Ganztagesausflug in Krabi, mit Hin- und Rücktransfer ab Krabi Town oder Ao Nang und Barbecue-Abendessen, Trinkwasser, Obst. Organisiert von Oh-Hoo, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztagesausflug in Krabi, mit Hin- und Rücktransfer ab Krabi Town oder Ao Nang und Barbecue-Abendessen, Trinkwasser, Obst. Organisiert von Oh-Hoo, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Die Sieben-Insel-Route als Abendausflug, mit Abendessen auf dem Boot gekocht und einem Plankton-Schwimmen zum Abschluss.\n\nDie Inseln vor Ao Nang sind vom späten Vormittag bis zum frühen Nachmittag belebt und leeren sich dann fast vollständig. Am Nachmittag abzufahren bedeutet, die späteren Stopps zu erreichen, nachdem die Tagesflotte heimgekehrt ist, sodass die Strände, die Sie in den letzten zwei Stunden sehen, nicht dieselben Strände sind, die die Morgenboote sahen.\n\nGeschnorchelt wird, während es noch hell ist, über flachem Riff, das der Guide am Tag selbst je nach Wasser auswählt. Der Sonnenuntergang wird vom Boot aus irgendwo zwischen den Inseln genommen, und das Barbecue-Abendessen wird nach Einbruch der Dunkelheit serviert.\n\nDas Plankton-Schwimmen ist der letzte Stopp. Das Licht kommt von Dinoflagellaten, die aufblitzen, wenn sich das Wasser um sie herum bewegt, es erscheint also als Funken um Ihre Hände und Füße statt als Leuchten über der Oberfläche. Es ist in keiner bestimmten Nacht garantiert. Ein dunkler Himmel nahe dem Neumond liefert die stärkste Lichtshow, ein Vollmond löscht sie praktisch aus, und wellliges Wasser verteilt sie. Fragen Sie nach der Mondphase, bevor Sie ein Datum festlegen, wenn Ihnen dieser Teil wichtig ist.\n\nSieben Stunden von der Abholung bis zur Rückfahrt, erwarten Sie also einen vollen Abend.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst den Hin- und Rücktransfer ab Krabi Town oder Ao Nang, Barbecue-Abendessen mit Trinkwasser und Obst, Schwimmweste, Schnorchelmaske, Reiseleiter, Erste-Hilfe-Set und Unfallversicherung.\n\nBringen Sie ein Handtuch, trockene Kleidung und etwas Warmes für die Rückfahrt mit. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Nachmittagsstart, sodass die späten Stopps fast leer sind",
+   "Schnorcheln bei Tageslicht, Barbecue-Abendessen nach Einbruch der Dunkelheit",
+   "Sonnenuntergang vom Wasser aus zwischen den Inseln",
+   "Plankton-Schwimmen, am stärksten in dunklen Nächten nahe einem Neumond",
+   "Transfers, Abendessen, Guide und Schnorchelausrüstung inklusive"
+  ],
+  "included": [
+   "Hin- und Rücktransfer ab Krabi Town oder Ao Nang",
+   "Barbecue-Abendessen, Trinkwasser, Obst",
+   "Schwimmweste, Schnorchelmaske",
+   "Reiseleiter",
+   "Erste-Hilfe-Set",
+   "Unfallversicherung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Gebühr (200 THB pro Erwachsenem und 100 THB pro Kind)"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Pattaya 3-Insel-Katamaran-Kreuzfahrt mit thailändischem Buffet-Mittagessen",
   "metaTitle": "Pattaya: Katamaran 3 Inseln, thailändisches Buffet-Mittagessen",
