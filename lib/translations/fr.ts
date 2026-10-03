@@ -43496,6 +43496,80 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ]
  },
+ "shooting-range-experience-in-ao-nang-krabi-thailand-by-local-operator": {
+  "title": "Expérience de stand de tir à Ao Nang, Krabi, Thaïlande par un opérateur local",
+  "metaTitle": "Ao Nang, Krabi : expérience de stand de tir",
+  "metaDescription": "Excursion d'une demi-heure à Krabi, incluant armes et munitions, les éléments inclus dépendant du forfait réservé. Organisée par 成都环球国际旅行社有限公司新都第三分公司, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une demi-heure à Krabi, incluant armes et munitions, les éléments inclus dépendant du forfait réservé. Organisée par 成都环球国际旅行社有限公司新都第三分公司, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Une demi-heure sur un stand de tir supervisé à Ao Nang, avec des instructions en anglais tout au long.\n\nLa Thaïlande encadre strictement les stands commerciaux, et l'effet pratique est que tout est géré par un instructeur à vos côtés : chargement, posture, prise en main et la ligne de tir elle-même. Rien n'est manipulé sans supervision à aucun moment, et aucune expérience préalable n'est nécessaire.\n\nCe que vous tirez dépend du forfait que vous réservez, donc vérifiez quelles armes à feu et combien de cartouches sont incluses dans l'option choisie avant de payer. Le stand propose différents forfaits qui ne sont pas interchangeables.\n\nTrente minutes, c'est la durée appropriée. Le temps au stand est concentré plutôt que long, et une première séance consiste à apprendre à tenir une posture et à placer un groupe sur le papier plutôt qu'à tirer autant de munitions que possible.\n\nLes instructeurs donnent le briefing et les corrections en cours de séance en anglais de base, ce qui est l'essentiel ici : vous voulez comprendre les instructions de sécurité exactement, pas approximativement.\n\nLa protection auditive et oculaire est standard sur la ligne. Portez des chaussures fermées et un haut à col montant, car les douilles usagées sont chaudes en retombant.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend les armes à feu et les munitions pour le forfait choisi, ainsi que des instructions en anglais de base.\n\nUn jour de préavis minimum, et apportez une pièce d'identité avec photo.",
+  "highlights": [
+   "Supervisé tout au long par un instructeur sur la ligne",
+   "Aucune expérience préalable nécessaire",
+   "Armes à feu et cartouches dépendent du forfait réservé",
+   "Briefing et corrections donnés en anglais de base",
+   "Chaussures fermées et col montant : les douilles usagées retombent chaudes"
+  ],
+  "included": [
+   "Armes et munitions",
+   "Les éléments de l'expérience de tir inclus dépendent du forfait réellement réservé",
+   "Les instructeurs fournissent des indications en anglais de base"
+  ],
+  "notIncluded": [
+   "Pourboires pour l'instructeur et autres dépenses personnelles"
+  ]
+ },
+ "golden-horizon-of-krabi-islands-sunset-tour-by-local-operator": {
+  "title": "Horizon doré des îles de Krabi : excursion au coucher du soleil par un opérateur local",
+  "metaTitle": "Krabi : horizon doré des îles au coucher du soleil",
+  "metaDescription": "Excursion d'une demi-journée à Krabi, incluant la visite de Koh Poda et de l'île du Poulet (Koh Gai). Organisée par Krabi long tail boat travel & tour, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une demi-journée à Krabi, incluant la visite de Koh Poda et de l'île du Poulet (Koh Gai). Organisée par Krabi long tail boat travel & tour, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Le circuit des quatre îles effectué en fin de journée par un opérateur communautaire, se terminant par le coucher de soleil à Phra Nang.\n\nLa plupart des bateaux font ce circuit le matin. Partir l'après-midi signifie atteindre chaque arrêt tandis que la flotte diurne s'en va, donc Koh Poda et l'île du Poulet sont tranquilles à votre arrivée plutôt que bordées de bateaux amarrés.\n\nL'île du Poulet tient son nom de la formation rocheuse à sa pointe, qui ressemble à une tête de poulet depuis un angle particulier à l'approche, et à un piton calcaire ordinaire depuis partout ailleurs. Thale Waek, la Mer Séparée, est le banc de sable qui émerge à marée basse et relie les îles en une bande praticable à pied, puis disparaît de nouveau quand la marée monte. Que vous puissiez la marcher dépend entièrement du moment où vous êtes là, c'est pourquoi le programme suit le tableau des marées.\n\nLe coucher de soleil se prend à la plage de la grotte de Phra Nang sur la péninsule de Railay. La falaise derrière la plage capte la dernière lumière, et le sanctuaire en grotte au bout du sable est l'endroit où les pêcheurs laissent des offrandes sculptées à un esprit censé les protéger en mer.\n\nLe guide est local et communautaire plutôt qu'employé par une grande compagnie de bateaux, ce qui signifie en pratique que le commentaire porte sur le lieu et la pêche plutôt que sur un script.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend les visites de Koh Poda, de l'île du Poulet et de Thale Waek, le coucher de soleil à la grotte de Phra Nang, et un guide local.\n\nSix heures. Les frais de parc national sont perçus à la jetée sauf confirmation contraire, prévoyez donc des espèces. Un jour de préavis minimum.",
+  "highlights": [
+   "Circuit de l'après-midi, donc chaque arrêt se vide",
+   "Banc de sable de Thale Waek, praticable uniquement à marée basse",
+   "Coucher de soleil à la plage de la grotte de Phra Nang à Railay",
+   "Le sanctuaire des pêcheurs, encore activement utilisé",
+   "Guide local communautaire plutôt qu'une compagnie de bateaux"
+  ],
+  "included": [
+   "Visite de Koh Poda",
+   "Visite de l'île du Poulet (Koh Gai)",
+   "Visite de Thale Waek (la Mer Séparée)",
+   "Coucher de soleil à la grotte de Phra Nang",
+   "Guide local (traditionnel/communautaire)",
+   "Assurance voyage"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Les frais de parc national ne sont pas compris (200 THB par personne)"
+  ]
+ },
+ "railay-bay-and-4-islands-tour-with-buffet-lunch": {
+  "title": "Excursion à la baie de Railay et aux 4 îles avec déjeuner buffet",
+  "metaTitle": "Railay et 4 îles avec déjeuner buffet, Krabi",
+  "metaDescription": "Excursion à Krabi, incluant la prise en charge depuis Ao Nam Mao et depuis Ao Nang. Organisée par Varin Preecha, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion à Krabi, incluant la prise en charge depuis Ao Nam Mao et depuis Ao Nang. Organisée par Varin Preecha, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Le circuit des quatre îles plus Railay, en cinq heures et demie plutôt qu'une journée complète.\n\nRailay est l'ajout qui distingue cette excursion du circuit standard. La péninsule n'a aucun accès routier, coupée par des promontoires calcaires, donc chaque visiteur y arrive par bateau. La plage de la grotte de Phra Nang à son extrémité sud est la raison d'y aller : une étendue de sable sous une falaise en surplomb avec le sanctuaire en grotte à une extrémité, où les pêcheurs laissent des offrandes en bois sculpté à un esprit qu'ils croient les protéger en mer. Les offrandes sont reconnaissables au premier coup d'œil et le sanctuaire est toujours activement utilisé, donc il vaut la peine d'être discret avec les photos.\n\nLes arrêts insulaires couvrent Poda, Tup et la zone du banc de sable de Thale Waek. Thale Waek, la Mer Séparée, est une bande de sable qui relie des îles à marée basse et disparaît entièrement à marée haute, c'est pourquoi le programme de départ suit le tableau des marées plutôt qu'une horloge fixe.\n\nLe déjeuner est un mini buffet thaïlandais servi sur Poda.\n\nAvec ses cinq heures et demie, cette excursion se situe entre les sorties rapides au coucher du soleil et les circuits d'une journée complète. Elle convient à ceux qui veulent voir les sites principaux sans passer toute la journée sur un bateau, et aux familles qui trouveraient huit heures trop long.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la prise en charge depuis Ao Nang ou Ao Nam Mao, l'excursion en bateau, la plage de la grotte de Phra Nang à Railay, l'île de Poda avec le déjeuner buffet, et les autres arrêts insulaires.\n\nLes frais de parc national sont perçus à la jetée sauf confirmation contraire, prévoyez donc des espèces. Un jour de préavis minimum.",
+  "highlights": [
+   "Railay, accessible uniquement par bateau, en plus des quatre îles",
+   "Plage de la grotte de Phra Nang et son sanctuaire de pêcheurs encore en usage",
+   "Banc de sable de Thale Waek, calé sur la marée",
+   "Déjeuner buffet thaïlandais servi sur l'île de Poda",
+   "Cinq heures et demie, plus court qu'un circuit d'une journée complète"
+  ],
+  "included": [
+   "Prise en charge depuis Ao Nam Mao",
+   "Prise en charge depuis Ao Nang",
+   "Excursion en bateau",
+   "Visite de la plage de la grotte de Phra Nang à Railay",
+   "Visite de l'île de Poda et mini déjeuner buffet thaïlandais",
+   "Visite de l'île de Tub et de l'île de Mor",
+   "Visite de l'île du Poulet et plongée avec tuba"
+  ],
+  "notIncluded": [
+   "Frais de parc national pour l'île"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

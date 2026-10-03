@@ -43496,6 +43496,80 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "shooting-range-experience-in-ao-nang-krabi-thailand-by-local-operator": {
+  "title": "Experiencia de campo de tiro en Ao Nang, Krabi, Tailandia por operador local",
+  "metaTitle": "Ao Nang, Krabi: experiencia de campo de tiro",
+  "metaDescription": "Excursión de media hora en Krabi, con armas y balas, los elementos incluidos dependiendo del paquete reservado. Organizada por 成都环球国际旅行社有限公司新都第三分公司, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de media hora en Krabi, con armas y balas, los elementos incluidos dependiendo del paquete reservado. Organizada por 成都环球国际旅行社有限公司新都第三分公司, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Media hora en un campo de tiro supervisado en Ao Nang, con instrucción en inglés durante todo el tiempo.\n\nTailandia regula estrictamente los campos de tiro comerciales, y el efecto práctico es que todo lo lleva un instructor a su lado: carga, postura, agarre y la línea de disparo en sí. Nada se maneja sin supervisión en ningún momento, y no necesita experiencia previa.\n\nLo que dispara depende del paquete que reserve, así que compruebe qué armas de fuego y cuántos cartuchos incluye la opción elegida antes de pagar. El campo ofrece distintos paquetes que no son intercambiables.\n\nTreinta minutos es la duración adecuada. El tiempo en el campo está concentrado en lugar de ser largo, y una primera sesión consiste en aprender a mantener una postura y agrupar tiros en el papel en lugar de gastar tanta munición como sea posible.\n\nLos instructores dan la charla y las correcciones durante la sesión en inglés básico, que es lo que importa aquí: quiere entender la instrucción de seguridad exactamente, no aproximadamente.\n\nLa protección auditiva y ocular es estándar en la línea. Use calzado cerrado y una camiseta con cuello alto, porque los casquillos usados están calientes al caer.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye las armas de fuego y la munición para el paquete elegido, así como instrucción en inglés básico.\n\nUn día de aviso mínimo, y traiga una identificación con foto.",
+  "highlights": [
+   "Supervisado todo el tiempo por un instructor en la línea",
+   "No se necesita experiencia previa",
+   "Las armas de fuego y los cartuchos dependen del paquete reservado",
+   "Charla y correcciones dadas en inglés básico",
+   "Calzado cerrado y cuello alto: los casquillos usados caen calientes"
+  ],
+  "included": [
+   "Armas y balas",
+   "Los elementos de la experiencia de tiro incluidos dependen del paquete realmente reservado",
+   "Los instructores dan indicaciones en inglés básico"
+  ],
+  "notIncluded": [
+   "Propinas para el instructor y otros gastos personales"
+  ]
+ },
+ "golden-horizon-of-krabi-islands-sunset-tour-by-local-operator": {
+  "title": "Horizonte dorado de las islas de Krabi: tour al atardecer por operador local",
+  "metaTitle": "Krabi: horizonte dorado de las islas al atardecer",
+  "metaDescription": "Excursión de medio día en Krabi, con visita a Koh Poda y a la isla del Pollo (Koh Gai). Organizada por Krabi long tail boat travel & tour, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de medio día en Krabi, con visita a Koh Poda y a la isla del Pollo (Koh Gai). Organizada por Krabi long tail boat travel & tour, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "El circuito de las cuatro islas realizado al final del día por un operador comunitario, terminando con el atardecer en Phra Nang.\n\nLa mayoría de los barcos hacen esta ruta por la mañana. Salir por la tarde significa llegar a cada parada mientras la flota diurna se marcha, así que Koh Poda y la isla del Pollo están tranquilas cuando llega en lugar de llenas de barcos amarrados.\n\nLa isla del Pollo debe su nombre a la formación rocosa en su punta, que parece una cabeza de pollo desde un ángulo particular durante la aproximación y una roca caliza corriente desde cualquier otro lugar. Thale Waek, el Mar Separado, es el banco de arena que emerge con la marea baja y une las islas en una franja transitable a pie, y después desaparece de nuevo cuando sube la marea. Si puede caminarla depende por completo de cuándo esté allí, por lo que el horario sigue la tabla de mareas.\n\nEl atardecer se disfruta en la playa de la cueva de Phra Nang en la península de Railay. El acantilado detrás de la playa capta la última luz, y el santuario de la cueva al final de la arena es donde los pescadores dejan ofrendas talladas a un espíritu que se cree que los protege en el mar.\n\nEl guía es local y comunitario en lugar de estar empleado por una gran compañía de barcos, lo que en la práctica significa que el comentario trata sobre el lugar y la pesca en lugar de un guion.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye visitas a Koh Poda, la isla del Pollo y Thale Waek, el atardecer en la cueva de Phra Nang, y un guía local.\n\nSeis horas. Las tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario, así que lleve efectivo. Un día de aviso mínimo.",
+  "highlights": [
+   "Ruta de tarde, así que cada parada se va vaciando",
+   "Banco de arena de Thale Waek, transitable solo con marea baja",
+   "Atardecer en la playa de la cueva de Phra Nang en Railay",
+   "El santuario de los pescadores, todavía en uso activo",
+   "Guía local comunitario en lugar de una compañía de barcos"
+  ],
+  "included": [
+   "Visita a Koh Poda",
+   "Visita a la isla del Pollo (Koh Gai)",
+   "Visita a Thale Waek (el Mar Separado)",
+   "Atardecer en la cueva de Phra Nang",
+   "Guía local (tradicional/comunitario)",
+   "Seguro de viaje"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "La tarifa del parque nacional no está incluida (200 THB por persona)"
+  ]
+ },
+ "railay-bay-and-4-islands-tour-with-buffet-lunch": {
+  "title": "Tour a la bahía de Railay y 4 islas con almuerzo buffet",
+  "metaTitle": "Railay y 4 islas con almuerzo buffet, Krabi",
+  "metaDescription": "Excursión en Krabi, con recogida desde Ao Nam Mao y desde Ao Nang. Organizada por Varin Preecha, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión en Krabi, con recogida desde Ao Nam Mao y desde Ao Nang. Organizada por Varin Preecha, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "La ruta de las cuatro islas más Railay, en cinco horas y media en lugar de un día completo.\n\nRailay es el añadido que distingue esta excursión del circuito estándar. La península no tiene ningún acceso por carretera, aislada por promontorios calcáreos, así que todos los visitantes llegan en barco. La playa de la cueva de Phra Nang en su extremo sur es la razón para ir: un tramo de arena bajo un acantilado en saliente con el santuario de la cueva en un extremo, donde los pescadores dejan ofrendas de madera talladas a un espíritu que creen que los protege en el mar. Las ofrendas son inconfundibles y el santuario sigue en uso activo, así que merece la pena ser discreto con las fotografías.\n\nLas paradas en islas cubren Poda, Tup y la zona del banco de arena de Thale Waek. Thale Waek, el Mar Separado, es una franja de arena que une islas en marea baja y desaparece por completo en marea alta, por lo que el horario de salida sigue la tabla de mareas en lugar de un reloj fijo.\n\nEl almuerzo es un mini buffet tailandés servido en Poda.\n\nCon cinco horas y media, esta excursión se sitúa entre las salidas rápidas al atardecer y los circuitos de día completo. Conviene a quienes quieren ver los principales lugares sin pasar todo el día en un barco, y a las familias para quienes ocho horas serían demasiado.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye la recogida desde Ao Nang o Ao Nam Mao, el tour en barco, la playa de la cueva de Phra Nang en Railay, la isla de Poda con el almuerzo buffet, y las demás paradas en islas.\n\nLas tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario, así que lleve efectivo. Un día de aviso mínimo.",
+  "highlights": [
+   "Railay, accesible solo en barco, además de las cuatro islas",
+   "Playa de la cueva de Phra Nang y su santuario de pescadores en activo",
+   "Banco de arena de Thale Waek, programado según la marea",
+   "Almuerzo buffet tailandés servido en la isla de Poda",
+   "Cinco horas y media, más corto que un circuito de día completo"
+  ],
+  "included": [
+   "Recogida desde Ao Nam Mao",
+   "Recogida desde Ao Nang",
+   "Tour en barco",
+   "Visita a la playa de la cueva de Phra Nang en Railay",
+   "Visita a la isla de Poda y mini almuerzo buffet tailandés",
+   "Visita a la isla de Tub y la isla de Mor",
+   "Visita a la isla del Pollo y snorkel"
+  ],
+  "notIncluded": [
+   "Tarifa del parque nacional para la isla"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

@@ -43496,6 +43496,80 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "shooting-range-experience-in-ao-nang-krabi-thailand-by-local-operator": {
+  "title": "Schießstand-Erlebnis in Ao Nang, Krabi, Thailand von lokalem Anbieter",
+  "metaTitle": "Ao Nang, Krabi: Schießstand-Erlebnis",
+  "metaDescription": "Halbstündiger Ausflug in Krabi, mit Waffen und Munition, die enthaltenen Elemente abhängig vom gebuchten Paket. Organisiert von 成都环球国际旅行社有限公司新都第三分公司, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbstündiger Ausflug in Krabi, mit Waffen und Munition, die enthaltenen Elemente abhängig vom gebuchten Paket. Organisiert von 成都环球国际旅行社有限公司新都第三分公司, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Eine halbe Stunde auf einem überwachten Schießstand in Ao Nang, mit durchgehender Anleitung auf Englisch.\n\nThailand lizenziert kommerzielle Schießstände streng, und die praktische Auswirkung ist, dass alles von einem neben Ihnen stehenden Instruktor geleitet wird: Laden, Haltung, Griff und die Schusslinie selbst. Nichts wird zu irgendeinem Zeitpunkt unbeaufsichtigt gehandhabt, und Sie benötigen keine vorherige Erfahrung.\n\nWas Sie schießen, hängt vom gebuchten Paket ab, prüfen Sie also, welche Schusswaffen und wie viele Schuss in der gewählten Option enthalten sind, bevor Sie bezahlen. Der Schießstand bietet verschiedene Pakete, die nicht austauschbar sind.\n\nDreißig Minuten sind die richtige Länge. Die Zeit auf dem Stand ist konzentriert statt lang, und eine erste Session geht darum, eine Haltung zu lernen und eine Gruppe auf Papier zu platzieren statt möglichst viel Munition zu verschießen.\n\nInstruktoren geben das Briefing und die laufenden Korrekturen in einfachem Englisch, was hier wichtig ist: Sie wollen die Sicherheitsanweisung genau verstehen, nicht nur ungefähr.\n\nGehör- und Augenschutz sind auf der Linie Standard. Tragen Sie geschlossene Schuhe und ein Oberteil mit hohem Kragen, denn ausgeworfene Hülsen sind heiß, wenn sie landen.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst die Schusswaffen und die Munition für Ihr gewähltes Paket sowie Anleitung in einfachem Englisch.\n\nMindestens ein Tag Vorlaufzeit, und bringen Sie einen Lichtbildausweis mit.",
+  "highlights": [
+   "Durchgehend überwacht von einem Instruktor auf der Linie",
+   "Keine vorherige Erfahrung nötig",
+   "Schusswaffen und Munition abhängig vom gebuchten Paket",
+   "Briefing und Korrekturen in einfachem Englisch",
+   "Geschlossene Schuhe und hoher Kragen: ausgeworfene Hülsen landen heiß"
+  ],
+  "included": [
+   "Waffen und Munition",
+   "Die enthaltenen Elemente des Schießerlebnisses hängen vom tatsächlich gebuchten Paket ab",
+   "Instruktoren geben Anleitung in einfachem Englisch"
+  ],
+  "notIncluded": [
+   "Trinkgelder für den Instruktor und sonstige persönliche Ausgaben"
+  ]
+ },
+ "golden-horizon-of-krabi-islands-sunset-tour-by-local-operator": {
+  "title": "Goldener Horizont der Krabi-Inseln: Sonnenuntergangstour von lokalem Anbieter",
+  "metaTitle": "Krabi: goldener Inselhorizont zum Sonnenuntergang",
+  "metaDescription": "Halbtagesausflug in Krabi, mit Besuch von Koh Poda und Chicken Island (Koh Gai). Organisiert von Krabi long tail boat travel & tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbtagesausflug in Krabi, mit Besuch von Koh Poda und Chicken Island (Koh Gai). Organisiert von Krabi long tail boat travel & tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Der Vier-Insel-Rundgang, spät am Tag von einem gemeinschaftsbasierten Anbieter durchgeführt, abgeschlossen mit Sonnenuntergang bei Phra Nang.\n\nDie meisten Boote machen diese Route am Morgen. Am Nachmittag zu fahren bedeutet, jeden Stopp zu erreichen, während die Tagesflotte abfährt, sodass Koh Poda und Chicken Island ruhig sind, wenn Sie dort ankommen, statt mit vertäuten Booten vollgestellt.\n\nChicken Island verdankt seinen Namen der Felsformation an seiner Spitze, die von einem bestimmten Blickwinkel auf der Anfahrt wie ein Hühnerkopf aussieht und von überall sonst wie ein gewöhnlicher Kalksteinfelsen. Thale Waek, das geteilte Meer, ist die Sandbank, die bei Niedrigwasser auftaucht und die Inseln zu einem begehbaren Streifen verbindet, dann wieder verschwindet, wenn die Flut kommt. Ob Sie sie begehen können, hängt ganz davon ab, wann Sie dort sind, weshalb sich das Timing nach dem Gezeitenkalender richtet.\n\nDer Sonnenuntergang wird am Phra-Nang-Höhlenstrand auf der Railay-Halbinsel genommen. Die Klippe hinter dem Strand fängt das letzte Licht ein, und der Höhlenschrein am Ende des Sandes ist der Ort, an dem Fischer geschnitzte Opfergaben für einen Geist hinterlassen, der sie angeblich auf See schützt.\n\nDer Guide ist lokal und gemeinschaftsbasiert statt von einer großen Bootsgesellschaft angestellt, was in der Praxis bedeutet, dass der Kommentar vom Ort und der Fischerei handelt statt von einem Skript.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Besuche von Koh Poda, Chicken Island und Thale Waek, Sonnenuntergang bei der Phra-Nang-Höhle, und einen lokalen Guide.\n\nSechs Stunden. Nationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt, führen Sie also Bargeld mit. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Nachmittagsroute, sodass sich jeder Stopp leert",
+   "Thale-Waek-Sandbank, nur bei Niedrigwasser begehbar",
+   "Sonnenuntergang am Phra-Nang-Höhlenstrand auf Railay",
+   "Der Fischer-Schrein, noch aktiv genutzt",
+   "Lokaler gemeinschaftsbasierter Guide statt einer Bootsgesellschaft"
+  ],
+  "included": [
+   "Besuch von Koh Poda",
+   "Besuch von Chicken Island (Koh Gai)",
+   "Besuch von Thale Waek (geteiltes Meer)",
+   "Sonnenuntergang bei der Phra-Nang-Höhle",
+   "Lokaler Guide (traditionell/gemeinschaftsbasiert)",
+   "Reiseversicherung"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Die Nationalpark-Gebühr ist nicht enthalten (200 THB pro Person)"
+  ]
+ },
+ "railay-bay-and-4-islands-tour-with-buffet-lunch": {
+  "title": "Railay-Bay- und 4-Insel-Tour mit Buffet-Mittagessen",
+  "metaTitle": "Railay und 4 Inseln mit Buffet-Mittagessen, Krabi",
+  "metaDescription": "Ausflug in Krabi, mit Abholung ab Ao Nam Mao und ab Ao Nang. Organisiert von Varin Preecha, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ausflug in Krabi, mit Abholung ab Ao Nam Mao und ab Ao Nang. Organisiert von Varin Preecha, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Die Vier-Insel-Route plus Railay, in fünfeinhalb Stunden statt einem ganzen Tag.\n\nRailay ist die Ergänzung, die dies vom Standardrundgang unterscheidet. Die Halbinsel hat überhaupt keinen Straßenzugang, abgeschnitten durch Kalksteinvorgebirge, daher kommt jeder Besucher per Boot an. Der Phra-Nang-Höhlenstrand an ihrem südlichen Ende ist der Grund hinzufahren: ein Sandabschnitt unter einer überhängenden Klippe mit dem Höhlenschrein an einem Ende, wo Fischer geschnitzte Holzopfer für einen Geist hinterlassen, den sie für ihren Schutz auf See verantwortlich machen. Die Opfergaben sind unverkennbar, und der Schrein wird noch aktiv genutzt, daher lohnt es sich, bei Fotos zurückhaltend zu sein.\n\nDie Inselstopps umfassen Poda, Tup und das Gebiet der Thale-Waek-Sandbank. Thale Waek, das geteilte Meer, ist ein Sandstreifen, der bei Niedrigwasser Inseln verbindet und bei Hochwasser vollständig verschwindet, weshalb sich der Abfahrtszeitpunkt nach dem Gezeitenkalender richtet statt nach einer festen Uhrzeit.\n\nMittagessen ist ein thailändisches Mini-Buffet, serviert auf Poda.\n\nMit fünfeinhalb Stunden liegt dies zwischen den schnellen Sonnenuntergangsausflügen und den Ganztagesrundgängen. Es passt für Leute, die die Hauptsehenswürdigkeiten sehen möchten, ohne den ganzen Tag auf einem Boot zu verbringen, und für Familien, denen acht Stunden zu lang wären.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst die Abholung ab Ao Nang oder Ao Nam Mao, die Bootstour, den Phra-Nang-Höhlenstrand in Railay, die Insel Poda mit dem Buffet-Mittagessen, und die weiteren Inselstopps.\n\nNationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt, führen Sie also Bargeld mit. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Railay, nur per Boot erreichbar, zusätzlich zu den vier Inseln",
+   "Phra-Nang-Höhlenstrand und sein aktiv genutzter Fischer-Schrein",
+   "Thale-Waek-Sandbank, an die Flut angepasst",
+   "Thailändisches Buffet-Mittagessen auf der Insel Poda serviert",
+   "Fünfeinhalb Stunden, kürzer als ein Ganztagesrundgang"
+  ],
+  "included": [
+   "Abholung ab Ao Nam Mao",
+   "Abholung ab Ao Nang",
+   "Bootstour",
+   "Besuch des Phra-Nang-Höhlenstrands in Railay",
+   "Besuch der Insel Poda mit thailändischem Mini-Buffet-Mittagessen",
+   "Besuch der Insel Tub und der Insel Mor",
+   "Besuch von Chicken Island und Schnorcheln"
+  ],
+  "notIncluded": [
+   "Nationalpark-Gebühr für die Insel"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
