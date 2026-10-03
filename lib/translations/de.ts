@@ -42891,6 +42891,89 @@ export const DE_TOURS: Record<string, TourT> = {
    "Im Reiseplan nicht erwähnte Posten"
   ]
  },
+ "huay-to-waterfall-and-tiger-cave-french-german-guide-in-krabi": {
+  "title": "Huay-To-Wasserfall und Tigerhöhle, französisch-/deutschsprachiger Guide in Krabi",
+  "metaTitle": "Huay To und Tigerhöhle, Guide Französisch/Deutsch",
+  "metaDescription": "Ganztagesausflug in Krabi, mit Aussichtspunkt. Organisiert von Ask Discovery Thailand, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztagesausflug in Krabi, mit Aussichtspunkt. Organisiert von Ask Discovery Thailand, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Krabis zwei Binnen-Sehenswürdigkeiten mit einem Guide, der auf Französisch oder Deutsch statt auf Englisch arbeitet.\n\nDer Tigerhöhlentempel, Wat Tham Sua, ist die anstrengendere Hälfte. Eine Treppe mit 1.260 Stufen erklimmt einen 309 Meter hohen Kalksteinturm bis zu einem Gipfel-Buddha und einem Ausblick über die gesamte Provinz. Die meisten Leute brauchen 45 bis 60 Minuten hinauf, die Stufen sind steil und uneben statt abgestuft, und die Makaken entlang der Route sind recht dreist bei Taschen. Früher Morgen oder nach vier Uhr nachmittags ist der vernünftige Zeitpunkt dafür; die Mittagszeit auf diesem Felsen ist wirklich strapaziös.\n\nDer Huay-To-Wasserfall liegt im Khao-Phanom-Bencha-Nationalpark, eine Reihe von Becken, die sich durch den Regenwald am Hang von Krabis höchstem Gipfel stufen. Das Wasser ist kühl, und der Wald ist dicht genug, dass die Temperatur merklich sinkt, sobald man hineingeht.\n\nDie Sprache ist hier das eigentliche Produkt. Krabi hat sehr viele englischsprachige Tagesausflüge und nur sehr wenige auf Französisch oder Deutsch, weshalb Ausflüge wie dieser einen Aufpreis gegenüber dem englischen Äquivalent haben. Wenn Ihr Französisch oder Deutsch stärker ist als Ihr Englisch, ist dies der Tag, an dem die Führung wirklich bei Ihnen ankommt, statt an Ihnen vorbeizuziehen.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hotelabholung und -rückfahrt in Krabi, den französisch- oder deutschsprachigen Guide, thailändisches Mittagessen, frisches Obst und Getränke, und eine Reiseversicherung.\n\nSieben Stunden. Tempel-Kleiderordnung gilt: Schultern und Knie bedeckt. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Guide, der auf Französisch oder Deutsch arbeitet, nicht auf Englisch",
+   "1.260 Stufen hinauf zum Kalksteinturm des Tigerhöhlentempels",
+   "Huay-To-Wasserfall im Khao-Phanom-Bencha-Wald",
+   "Sprachliche Führung mit Aufpreis gegenüber der englischen Version",
+   "Tempel-Kleiderordnung: Schultern und Knie bedeckt"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Krabi",
+   "Französisch- oder deutschsprachiger Guide",
+   "Thailändisches Mittagessen",
+   "Frisches Obst und Getränke",
+   "Reiseversicherung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittsgebühr (300 THB Erwachsene/150 THB Kind, vor Ort zu zahlen)",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "hong-island-naka-yai-and-pakbia-island-day-trip": {
+  "title": "Tagesausflug zur Insel Hong, Naka Yai und Insel Pakbia",
+  "metaTitle": "Insel Hong, Naka Yai und Pakbia, Tagesausflug",
+  "metaDescription": "Ganztagesausflug in Krabi, mit Besuch der Insel Naka Yai und der Insel Pakbia. Organisiert von Best Exotic, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztagesausflug in Krabi, mit Besuch der Insel Naka Yai und der Insel Pakbia. Organisiert von Best Exotic, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Ein voller Tag durch die Phang-Nga-Bucht, der drei sehr unterschiedliche Inseln abdeckt, mit dem Aussichtspunkt der Insel Hong als Herzstück.\n\nKoh Hongs Reiz ist seine Lagune: ein nahezu geschlossenes Becken aus flachem grünem Wasser, umringt von Kalksteinwänden, erreichbar durch eine enge Lücke, die Boote nur bei bestimmten Gezeiten befahren können. Der Aussichtspunkt darüber ist eine steile Treppe zu erklimmen, und die Belohnung ist die Form der gesamten darunter liegenden Bucht. Laem Had Beach, an der nördlichen Spitze der Insel, ist eine Sandbank, die ins Wasser hinausläuft und sich mit der Flut verschiebt, weshalb Fotos davon nie ganz übereinstimmen.\n\nNaka Yai liegt näher an Phuket und ist grüner und viel weniger besucht, mit einem langen, flachen Strand, gut für ein entspanntes Schwimmen. Pakbia ist winzig, im Wesentlichen eine Sandbank mit einem Bäumesaum, und ist der Stopp, an den sich die meisten eher wegen der Wasserfarbe als wegen irgendetwas an Land erinnern.\n\nSchnorcheln findet statt, wo es die Bedingungen erlauben, und Mittagessen wird auf der Insel serviert. Neun Stunden decken viel Wasser ab, erwarten Sie also einen vollen statt einen sanften Tag.\n\nBest Exotic organisiert diesen Ausflug und wir buchen direkt mit ihnen, sodass Ihr Platz beim Anbieter gesichert wird, bevor die Buchung endgültig ist. Der Preis umfasst alle drei Inselbesuche, den Aussichtspunkt, Schnorcheln, Mittagessen auf der Insel und die Sandbank von Laem Had.\n\nDer Nationalpark-Eintritt wird separat am Pier erhoben, sofern der Anbieter nicht etwas anderes bestätigt, führen Sie also Bargeld mit. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Lagune der Insel Hong und der Aufstieg zum Aussichtspunkt",
+   "Sandbank von Laem Had, die sich mit der Flut verschiebt",
+   "Naka Yai und Pakbia, beide deutlich ruhiger",
+   "Schnorcheln und Mittagessen auf der Insel serviert",
+   "Neunstündiger Tag durch die Phang-Nga-Bucht"
+  ],
+  "included": [
+   "Besuch der Insel Naka Yai",
+   "Besuch der Insel Pakbia",
+   "Schnorcheln",
+   "Besuch des Aussichtspunkts der Insel Hong",
+   "Mittagessen auf der Insel",
+   "Besuch der Sandbank am Strand Laem Had",
+   "Strandspiele",
+   "Wasseraktivitäten",
+   "Sonnenuntergang-Beobachtung",
+   "Hotel- und Boots-Transfers",
+   "Nationalpark-Eintrittsgebühren",
+   "Softdrinks und frisches Obst an Bord"
+  ],
+  "notIncluded": []
+ },
+ "rock-climbing-on-railay-beach-krabi": {
+  "title": "Klettern am Railay Beach (Krabi)",
+  "metaTitle": "Klettern am Railay Beach, Krabi",
+  "metaDescription": "Ausflug in Krabi, mit professionellem Klettertrainer und Sicherheitsausrüstung. Organisiert von CLIMB ON RAILAY, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ausflug in Krabi, mit professionellem Klettertrainer und Sicherheitsausrüstung. Organisiert von CLIMB ON RAILAY, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Dreieinhalb Stunden auf dem Kalkstein, der Railay zu einem der bekanntesten Klettergebiete der Welt gemacht hat.\n\nRailays Fels ist der Grund, warum Kletterer gezielt hierher fliegen. Tropischer Kalkstein verwittert zu Löchern, Tufas und Stalaktiten, was bedeutet, dass die Griffe Strukturen sind, die man packt, statt Kanten, die man zwickt, und die Wände überhängen auf eine Art, die vom Strand aus unmöglich aussieht und sich als kletterbar erweist. Die Routen reichen von Anfänger-Platten bis zu einigen der härtesten Sportklettereien Asiens, oft am selben Felsen.\n\nAnfänger sind hier die Regel statt eine Nebensache. Der Trainer baut Toprope-Sicherungen auf, sodass das Seil von einem Anker über Ihnen verläuft und Sie in dem Moment gehalten werden, in dem Sie loslassen. Am ersten Tag ist keine Oberkörperkraft nötig: Klettern geschieht mit den Beinen, und ein Großteil einer ersten Session besteht darin, dass der Trainer die Leute davon abbringt, sich mit den Armen hochzuziehen, und sie stattdessen auf ihre Füße stellt.\n\nMehrere Routen sind eingerichtet, sodass Sie weiterziehen, sobald Sie eine geschafft haben, statt sie zu wiederholen, und die Anleitung passt sich an, wenn Sie schon einmal geklettert sind.\n\nDie Umgebung ist die andere Hälfte. Die Felsen liegen über dem Strand mit der Andamanensee hinter Ihnen, sodass Sie den ganzen Weg hinauf aufs Wasser blicken.\n\nDie gesamte Kletterausrüstung, Gurt, Schuhe und Sicherheitsausrüstung werden gestellt. Railay hat keinen Straßenzugang, daher beinhaltet der Ausflug die Bootsüberfahrt als Teil der Anreise.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst einen professionellen Klettertrainer, Sicherheitsausrüstung, Kletterausrüstung, mehrere Routen und personalisierte Anleitung für Erfahrene.\n\nTragen Sie etwas, in dem Sie sich bewegen können. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Der Kalkstein, der Railay zu einem weltweiten Kletterziel gemacht hat",
+   "Löcher, Tufas und Stalaktiten statt flacher Kanten",
+   "Toprope-Sicherung, sodass Sie in dem Moment gehalten werden, in dem Sie loslassen",
+   "Klettern geschieht mit den Beinen: keine Oberkörperkraft nötig",
+   "Gesamte Ausrüstung gestellt, Routen auf Ihr Niveau eingerichtet"
+  ],
+  "included": [
+   "Professioneller Klettertrainer",
+   "Sicherheitsausrüstung",
+   "Kletterausrüstung",
+   "Mehrere Kletterrouten",
+   "Personalisierte Anleitung für erfahrene Kletterer",
+   "Atemberaubende Aussichten auf den Railay Beach",
+   "Hotelabholung und -rückfahrt (nur Ao Nang und Krabi Town)"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke",
+   "Persönliche Ausgaben",
+   "Trinkgelder (optional)"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Pattaya 3-Insel-Katamaran-Kreuzfahrt mit thailändischem Buffet-Mittagessen",
   "metaTitle": "Pattaya: Katamaran 3 Inseln, thailändisches Buffet-Mittagessen",

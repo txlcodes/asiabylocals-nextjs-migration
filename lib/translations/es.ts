@@ -42891,6 +42891,89 @@ export const ES_TOURS: Record<string, TourT> = {
    "Elementos no mencionados en el itinerario"
   ]
  },
+ "huay-to-waterfall-and-tiger-cave-french-german-guide-in-krabi": {
+  "title": "Cascada de Huay To y cueva del Tigre, guía en francés/alemán en Krabi",
+  "metaTitle": "Huay To y cueva del Tigre, guía en francés/alemán",
+  "metaDescription": "Excursión de día completo en Krabi, con mirador. Organizada por Ask Discovery Thailand, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de día completo en Krabi, con mirador. Organizada por Ask Discovery Thailand, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Los dos hitos del interior de Krabi con un guía que trabaja en francés o alemán en lugar de inglés.\n\nEl templo de la cueva del Tigre, Wat Tham Sua, es la mitad más dura. Una escalera de 1.260 escalones sube una torre caliza de 309 metros hasta un Buda en la cima y una vista sobre toda la provincia. A la mayoría de la gente le lleva de 45 a 60 minutos subir, los escalones son empinados e irregulares en lugar de graduados, y los macacos a lo largo de la ruta son bastante atrevidos con las bolsas. Temprano por la mañana o después de las cuatro de la tarde es el momento sensato para hacerlo; el mediodía en esa roca es realmente agotador.\n\nLa cascada de Huay To se encuentra dentro del parque nacional de Khao Phanom Bencha, una serie de pozas que descienden en escalones a través de la selva tropical por el flanco del pico más alto de Krabi. El agua es fresca y el bosque lo bastante denso para que la temperatura baje notablemente al entrar.\n\nEl idioma es el verdadero producto aquí. Krabi tiene un gran número de excursiones de un día en inglés y muy pocas en francés o alemán, por lo que excursiones como esta tienen un recargo frente al equivalente en inglés. Si su francés o su alemán es más fuerte que su inglés, este es el día en que la guía realmente le llega en lugar de pasar de largo.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye la recogida y el regreso al hotel en Krabi, el guía de habla francesa o alemana, el almuerzo tailandés, fruta fresca y bebidas, y un seguro de viaje.\n\nSiete horas. Se aplica código de vestimenta del templo: hombros y rodillas cubiertos. Un día de aviso mínimo.",
+  "highlights": [
+   "Guía que trabaja en francés o alemán, no en inglés",
+   "1.260 escalones para subir la torre caliza del templo de la cueva del Tigre",
+   "Cascada de Huay To en el bosque de Khao Phanom Bencha",
+   "La guía en idioma tiene un recargo frente a la versión en inglés",
+   "Código de vestimenta del templo: hombros y rodillas cubiertos"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Krabi",
+   "Guía de habla francesa o alemana",
+   "Almuerzo tailandés",
+   "Fruta fresca y bebidas",
+   "Seguro de viaje"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada al parque nacional (300 THB adulto/150 THB niño, pagadera en el lugar)",
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "hong-island-naka-yai-and-pakbia-island-day-trip": {
+  "title": "Excursión de un día a la isla de Hong, Naka Yai y la isla de Pakbia",
+  "metaTitle": "Isla de Hong, Naka Yai y Pakbia, excursión de un día",
+  "metaDescription": "Excursión de día completo en Krabi, incluyendo la visita a la isla de Naka Yai y la isla de Pakbia. Organizada por Best Exotic, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de día completo en Krabi, incluyendo la visita a la isla de Naka Yai y la isla de Pakbia. Organizada por Best Exotic, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Un día completo por la bahía de Phang Nga que cubre tres islas muy distintas, con el mirador de la isla de Hong como pieza central.\n\nEl atractivo de Koh Hong es su laguna: una piscina casi cerrada de agua verde poco profunda rodeada de paredes calizas, accesible por una estrecha abertura a la que los barcos solo pueden entrar en ciertas mareas. El mirador sobre ella es una empinada escalera que subir, y la recompensa es la forma de toda la bahía desplegada abajo. La playa de Laem Had, en la punta norte de la isla, es una lengua de arena que se extiende hacia el agua y cambia con la marea, por lo que las fotografías de ella nunca coinciden del todo.\n\nNaka Yai está más cerca de Phuket y es más verde y mucho menos visitada, con una larga playa poco profunda ideal para un baño tranquilo. Pakbia es diminuta, esencialmente un banco de arena bordeado de árboles, y es la parada que la mayoría de la gente recuerda por el color del agua más que por nada en tierra.\n\nEl snorkel se practica donde las condiciones lo permiten, y el almuerzo se sirve en la isla. Nueve horas cubren mucha agua, así que espere un día completo en lugar de uno tranquilo.\n\nBest Exotic organiza esta excursión y reservamos directamente con ellos, así que su plaza queda retenida con el operador antes de que la reserva sea definitiva. El precio incluye las tres visitas a islas, el mirador, el snorkel, el almuerzo en la isla y el banco de arena de Laem Had.\n\nLa entrada al parque nacional se cobra por separado en el muelle a menos que el operador confirme lo contrario, así que lleve efectivo. Un día de aviso mínimo.",
+  "highlights": [
+   "Laguna de la isla de Hong y la subida al mirador",
+   "Banco de arena de Laem Had, que se mueve con la marea",
+   "Naka Yai y Pakbia, ambas mucho más tranquilas",
+   "Snorkel y almuerzo servidos en la isla",
+   "Día de nueve horas por la bahía de Phang Nga"
+  ],
+  "included": [
+   "Visita a la isla de Naka Yai",
+   "Visita a la isla de Pakbia",
+   "Snorkel",
+   "Visita al mirador de la isla de Hong",
+   "Almuerzo en la isla",
+   "Visita al banco de arena de la playa de Laem Had",
+   "Juegos de playa",
+   "Actividades acuáticas",
+   "Observación del atardecer",
+   "Traslados de hotel y barco",
+   "Tarifas de entrada al parque nacional",
+   "Refrescos y fruta fresca a bordo"
+  ],
+  "notIncluded": []
+ },
+ "rock-climbing-on-railay-beach-krabi": {
+  "title": "Escalada en roca en la playa de Railay (Krabi)",
+  "metaTitle": "Escalada en roca en la playa de Railay, Krabi",
+  "metaDescription": "Excursión en Krabi, con instructor de escalada profesional y equipo de seguridad. Organizada por CLIMB ON RAILAY, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión en Krabi, con instructor de escalada profesional y equipo de seguridad. Organizada por CLIMB ON RAILAY, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Tres horas y media en la roca caliza que convirtió a Railay en uno de los destinos de escalada más conocidos del mundo.\n\nLa roca de Railay es la razón por la que los escaladores vuelan aquí específicamente. La caliza tropical se erosiona en bolsillos, tufas y estalactitas, lo que significa que las presas son elementos que se agarran en lugar de bordes que se pinzan, y las paredes sobresalen de una forma que parece imposible desde la playa y resulta escalable. Las rutas van desde losas para principiantes hasta algunas de las escaladas deportivas más difíciles de Asia, a menudo en el mismo risco.\n\nLos principiantes son la norma aquí, no una idea secundaria. El instructor instala cuerdas de seguridad superior, así que la cuerda va desde un anclaje por encima de usted y se le sujeta en el momento en que suelta. Nada el primer día requiere fuerza en la parte superior del cuerpo: escalar se hace con las piernas, y gran parte de una primera sesión consiste en que el instructor logre que la gente deje de tirar con los brazos y empiece a ponerse de pie sobre los pies.\n\nSe preparan varias rutas para que avance cuando termine una en lugar de repetirla, y la instrucción se adapta si ya ha escalado antes.\n\nEl entorno es la otra mitad. Los riscos se alzan sobre la playa con el mar de Andamán detrás de usted, así que mira hacia el agua durante toda la subida.\n\nTodo el equipo de escalada, arnés, zapatos y equipo de seguridad están incluidos. Railay no tiene acceso por carretera, así que la excursión incluye la travesía en barco como parte del trayecto.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye un instructor de escalada profesional, equipo de seguridad, equipo de escalada, varias rutas e instrucción personalizada para quienes tienen experiencia.\n\nLleve algo con lo que pueda moverse. Un día de aviso mínimo.",
+  "highlights": [
+   "La roca caliza que convirtió a Railay en un destino de escalada mundial",
+   "Bolsillos, tufas y estalactitas en lugar de bordes planos",
+   "Cuerda de seguridad superior, así que se le sujeta en el momento en que suelta",
+   "Escalar se hace con las piernas: no se necesita fuerza en la parte superior del cuerpo",
+   "Todo el equipo incluido, rutas preparadas para su nivel"
+  ],
+  "included": [
+   "Instructor de escalada profesional",
+   "Equipo de seguridad",
+   "Equipo de escalada",
+   "Varias rutas de escalada",
+   "Instrucción personalizada para escaladores avanzados",
+   "Vistas impresionantes de la playa de Railay",
+   "Recogida y regreso al hotel (solo Ao Nang y la ciudad de Krabi)"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "Gastos personales",
+   "Propinas (opcionales)"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Crucero en catamarán por 3 islas de Pattaya con almuerzo buffet tailandés",
   "metaTitle": "Pattaya: catamarán 3 islas, almuerzo buffet tailandés",
