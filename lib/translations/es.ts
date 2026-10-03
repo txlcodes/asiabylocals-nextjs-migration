@@ -23484,6 +23484,1325 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Pattaya romántica: día privado desde Bangkok",
   "metaDescription": "Tour de día completo en Pattaya. Incluye: vehículo privado climatizado. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
+ "phi-phi-and-khai-island-small-group-speedboat-tour": {
+  "title": "Tour en Grupo Pequeño en Lancha Rápida a Phi Phi y la Isla de Khai",
+  "fullDescription": "Esta es una experiencia de 10 horas desde Phuket, centrada en Lancha rápida, Islas Khai y Islas Phi Phi. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel, equipo de snorkel, almuerzo tailandés, bandeja de fruta fresca y guía en inglés. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPhuket. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Lancha rápida",
+   "Islas Khai",
+   "Islas Phi Phi",
+   "Maya Bay",
+   "Duración: 10 horas",
+   "Recogida y regreso al hotel"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Equipo de snorkel",
+   "Almuerzo tailandés",
+   "Bandeja de fruta fresca",
+   "Guía en inglés"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de día completo en Phuket, con Lancha rápida, Islas Khai y Islas Phi Phi. Operador: Happy Holiday Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour en Grupo Pequeño en Lancha Rápida a Phi Phi",
+  "metaDescription": "Tour de día completo en Phuket. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "jungle-xtrem-adventures-and-zipline-park-in-phuket": {
+  "title": "Parque de Aventuras Jungle Xtrem y Tirolina en Phuket",
+  "fullDescription": "Esta es una experiencia de 1 hora en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel, guía, entrada al parque Jungle Xtrem Adventures, agua y toalla fría para la cara. No incluye recogida y regreso al hotel para viajeros solitarios, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Phuket. Oh-Hoo confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1 hora",
+   "Recogida y regreso al hotel (mínimo 2 personas)",
+   "Guía",
+   "Entrada al parque Jungle Xtrem Adventures",
+   "Agua",
+   "Toalla fría para la cara"
+  ],
+  "included": [
+   "Recogida y regreso al hotel (mínimo 2 personas)",
+   "Guía",
+   "Entrada al parque Jungle Xtrem Adventures",
+   "Agua",
+   "Toalla fría para la cara",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel para viajeros solitarios (suplemento de 200 THB pagadero el mismo día)"
+  ],
+  "shortDescription": "Tour de 1 hora en Phuket, que incluye recogida y regreso al hotel, guía y entrada al parque Jungle Xtrem Adventures. Operador: Oh-Hoo, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Parque de Aventuras Jungle Xtrem y Tirolina en Phuket",
+  "metaDescription": "Tour de 1 hora en Phuket. Incluye: recogida y regreso al hotel y guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "blue-elephant-thai-cooking-class-with-market-tour-in-phuket": {
+  "title": "Clase de Cocina Tailandesa Blue Elephant con Visita al Mercado en Phuket",
+  "fullDescription": "Esta es una experiencia de 4 horas en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nLas clases de cocina tailandesa siguen un patrón que funciona: un paseo por el mercado para comprar galanga, hierba limón, lima kaffir y albahaca sagrada, con el profesor explicando para qué sirve cada cosa, y después cuatro o cinco platos cocinados de uno en uno en puestos individuales, normalmente una pasta de curry majada desde cero, un salteado, una sopa y un postre, comidos según se hacen. Las clases de Chiang Mai, en granjas ecológicas a las afueras, son las más relajadas; las de Bangkok, en antiguas casas comercio, las más pulidas; las de Phuket suelen añadir marisco. Las versiones vegetarianas y veganas son lo normal, y una clase es la forma más rápida de entender por qué la comida tailandesa sabe como sabe.\n\nEl precio incluye todos los ingredientes, Delantal Blue Elephant, Certificado Blue Elephant, bolsa de compras y productos Blue Elephant, recetas de cocina y toalla refrescante. No incluye recogida y regreso al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 4 horas",
+   "Todos los ingredientes",
+   "Delantal Blue Elephant",
+   "Certificado Blue Elephant",
+   "Bolsa de compras y productos Blue Elephant, recetas de cocina",
+   "Toalla refrescante"
+  ],
+  "included": [
+   "All ingredients.",
+   "Blue elephant apron.",
+   "Blue elephant certificate.",
+   "Bolsa de compras y productos Blue Elephant, recetas de cocina.",
+   "Refreshing towel.",
+   "Bebidas de hierbas tailandesas a la llegada."
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel."
+  ],
+  "shortDescription": "Tour de medio día en Phuket, que incluye todos los ingredientes, Delantal Blue Elephant y Certificado Blue Elephant. Operador: Oh-Hoo, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Clase de Cocina Tailandesa Blue Elephant con Visita al Mercado en Phuket",
+  "metaDescription": "Tour de medio día en Phuket. Incluye: todos los ingredientes. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "sunrise-maya-bay-pileh-lagoon-speedboat-tour-in-phuket": {
+  "title": "Tour en Lancha Rápida al Amanecer: Bahía de Maya y Laguna de Pileh en Phuket",
+  "fullDescription": "Esta es una experiencia desde Phuket, centrada en Muelle de Ton Sai, Koh Phi Phi, Lancha rápida y Maya Bay. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye salida en lancha rápida, guía, comida, agua potable y fruta. No incluye traslado al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nMcDonald's PP Island Krabi. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Muelle de Ton Sai, Koh Phi Phi",
+   "Lancha rápida",
+   "Maya Bay",
+   "Laguna de Pileh",
+   "Salida en lancha rápida",
+   "Guía"
+  ],
+  "included": [
+   "Salida en lancha rápida",
+   "Guía",
+   "Almuerzo (si se selecciona la opción de día completo)",
+   "Agua potable",
+   "Fruta",
+   "Tasa de entrada al parque nacional",
+   "Chaleco salvavidas y máscara de snorkel",
+   "Botiquín de primeros auxilios"
+  ],
+  "notIncluded": [
+   "Traslado al hotel"
+  ],
+  "shortDescription": "Tour en Phuket, con Muelle de Ton Sai, Koh Phi Phi, Lancha rápida y Maya Bay. Operador: Oh-Hoo, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour en Lancha Rápida al Amanecer: Bahía de Maya y Laguna de Pileh en Phuket",
+  "metaDescription": "Tour en Phuket. Incluye: salida en lancha rápida, guía y comida. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "carnival-magic-show-royal-seat-with-dinner-in-phuket": {
+  "title": "Espectáculo de Magia Carnival, Asiento Real con Cena en Phuket",
+  "fullDescription": "Esta es una experiencia de 5 horas en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye cena bufé, espectáculo en directo, mejora a asiento real y entrada al parque temático. No incluye recogida y regreso al hotel, gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 5 horas",
+   "Cena bufé",
+   "Espectáculo en directo",
+   "Mejora a asiento real",
+   "Entrada al parque temático"
+  ],
+  "included": [
+   "Cena bufé",
+   "Espectáculo en directo",
+   "Mejora a asiento real",
+   "Entrada al parque temático"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Gastos personales",
+   "Propinas (opcionales)"
+  ],
+  "shortDescription": "Tour de medio día en Phuket, que incluye cena bufé, espectáculo en directo y mejora a asiento real. Operador: Travel Bays Network Co. Ltd, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Espectáculo de Magia Carnival, Asiento Real con Cena en Phuket",
+  "metaDescription": "Tour de medio día en Phuket. Incluye: cena bufé y espectáculo en directo. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "coral-island-and-sunset-dinner-by-sailing-catamaran": {
+  "title": "Isla de Coral y Cena al Atardecer en Catamarán de Vela",
+  "fullDescription": "Esta es una experiencia de 5 horas desde Phuket, centrada en Muelle de Chalong, Catamarán y Cabo Promthep. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye traslado de ida y vuelta desde Patong, Kalim, Tri Trang, Phuket, cena a bordo, equipo de snorkel, guía y seguro de accidentes. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPhuket. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Muelle de Chalong",
+   "Catamarán",
+   "Cabo Promthep",
+   "Duración: 5 horas",
+   "Traslado de ida y vuelta desde Patong, Kalim, Tri Trang, Phuket Town, Kata, Karon, Rawai, Nai Harn y Sai Yuan",
+   "Cena a bordo, fruta y bebidas"
+  ],
+  "included": [
+   "Traslado de ida y vuelta desde Patong, Kalim, Tri Trang, Phuket Town, Kata, Karon, Rawai, Nai Harn y Sai Yuan",
+   "Cena a bordo, fruta y bebidas",
+   "Equipo de snorkel",
+   "Guía de habla inglesa",
+   "Seguro de accidentes",
+   "Fotógrafo"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour de medio día en Phuket, con Muelle de Chalong, Catamaran and Coral Island y Phuket. Operador: Oh-Hoo, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Isla de Coral y Cena al Atardecer en Catamarán de Vela",
+  "metaDescription": "Tour de medio día en Phuket. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "custom-perfume-workshop-at-boat-avenue-in-phuket": {
+  "title": "Taller de Perfume Personalizado en Boat Avenue en Phuket",
+  "fullDescription": "Esta es una experiencia de 2 horas en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye taller de perfumería completamente guiado, acceso a la biblioteca de notas de fragancia, todas las herramientas y materiales y su producto terminado para llevar a casa. No incluye viaje de ida y vuelta al punto de encuentro y otros gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 horas",
+   "Taller de perfumería completamente guiado",
+   "Acceso a la biblioteca de notas de fragancia (60+ notas)",
+   "Todas las herramientas y materiales",
+   "Su producto terminado para llevar a casa"
+  ],
+  "included": [
+   "Taller de perfumería completamente guiado",
+   "Acceso a la biblioteca de notas de fragancia (60+ notas)",
+   "Todas las herramientas y materiales",
+   "Su producto terminado para llevar a casa"
+  ],
+  "notIncluded": [
+   "Viaje de ida y vuelta al punto de encuentro",
+   "Otros gastos personales"
+  ],
+  "shortDescription": "Tour de 2 horas en Phuket, que incluye taller de perfumería completamente guiado, acceso a la biblioteca de notas de fragancia y todas las herramientas y materiales. Operador: Nouvelle Vie Paris, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Taller de Perfume Personalizado en Boat Avenue en Phuket",
+  "metaDescription": "Tour de 2 horas en Phuket. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "similan-islands-speed-catamaran-tour-with-lunch": {
+  "title": "Tour en Catamarán Rápido a las Islas Similan con Almuerzo",
+  "fullDescription": "Esta es una experiencia de 8 horas en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel, traslado de ida y vuelta en lancha rápida premium, guía de habla inglesa, entrada del parque nacional y equipo de snorkel. No incluye gastos personales, bebidas alcohólicas, alquiler de silla de playa y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Phuket. บริษัท เจ แอนด์ เจ แอฟฟลูเอนท์ ทราเวล แอนด์ ทัวร์ จํากัด confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 8 horas",
+   "Recogida y regreso al hotel (zonas seleccionadas)",
+   "Traslado de ida y vuelta en lancha rápida premium",
+   "Guía profesional de habla inglesa",
+   "Entrada del parque nacional",
+   "Equipo de snorkel (máscara, tubo y chaleco salvavidas)"
+  ],
+  "included": [
+   "Recogida y regreso al hotel (zonas seleccionadas)",
+   "Traslado de ida y vuelta en lancha rápida premium",
+   "Guía profesional de habla inglesa",
+   "Entrada del parque nacional",
+   "Equipo de snorkel (máscara, tubo y chaleco salvavidas)",
+   "Almuerzo bufé tailandés",
+   "Fruta fresca de temporada",
+   "Agua potable y refrescos",
+   "Café, té y refrescos ligeros en el muelle",
+   "Seguro de accidentes de viaje",
+   "Botiquín de primeros auxilios",
+   "Capitán experimentado y tripulación profesional"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Bebidas alcohólicas",
+   "Alquiler de silla de playa",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de día completo en Phuket, que incluye recogida y regreso al hotel, traslado de ida y vuelta en lancha rápida premium y guía de habla inglesa. Operador: บริษัท เจ แอนด์ เจ แอฟฟลูเอนท์ ทราเวล แอนด์ ทัวร์ จํากัด, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour en Catamarán Rápido a las Islas Similan con Almuerzo",
+  "metaDescription": "Tour de día completo en Phuket. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "simon-cabaret-phuket-show-included-tickets-and-transfer-by-local-operator": {
+  "title": "Espectáculo de Cabaret Simon en Phuket, Entradas Incluidas y Traslado, por un Operador Local",
+  "fullDescription": "Esta es una experiencia de 3,5 horas en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso a tu hotel y entrada al cabaret Simon en Phuket. No incluye gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3,5 horas",
+   "Recogida y regreso a tu hotel",
+   "Entrada al cabaret Simon en Phuket"
+  ],
+  "included": [
+   "Recogida y regreso a su hotel.",
+   "Entrada al cabaret Simon en Phuket"
+  ],
+  "notIncluded": [
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de medio día en Phuket, que incluye recogida y regreso a tu hotel y entrada al cabaret Simon en Phuket. Operador: Oh-Hoo, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Espectáculo de Cabaret Simon en Phuket, Entradas Incluidas y Traslado, por un Operador Local",
+  "metaDescription": "Tour de medio día en Phuket. Incluye: recogida y regreso a tu hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "bangla-boxing-stadium-muay-thai-ticket-in-phuket": {
+  "title": "Entrada de Muay Thai en el Estadio de Boxeo de Bangla en Phuket",
+  "fullDescription": "Esta es una experiencia en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada de un asiento para los combates de Muay Thai y camiseta gratuita. No incluye comida y bebidas, traslados al hotel y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Entrada de un asiento para los combates de Muay Thai",
+   "Camiseta gratuita"
+  ],
+  "included": [
+   "Entrada de un asiento para los combates de Muay Thai",
+   "Camiseta gratuita"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Traslados al hotel",
+   "Gastos personales"
+  ],
+  "shortDescription": "Entrada en Phuket, que incluye entrada de un asiento para los combates de Muay Thai y camiseta gratuita. Operador: GlobalTix (Thailand) Co., Ltd., con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Entrada de Muay Thai en el Estadio de Boxeo de Bangla en Phuket",
+  "metaDescription": "Entrada en Phuket. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "coral-island-speedboat-trip-with-parasailing-and-lunch": {
+  "title": "Excursión en Lancha Rápida a la Isla de Coral con Parasailing y Almuerzo",
+  "fullDescription": "Esta es una experiencia de 7 horas en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSe ofrece recogida desde Coral Island y Phuket; el lugar y la hora exactos se acuerdan con AMAKA TOURS TRAVEL una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye traslados de ida y vuelta desde el hotel, transporte en lancha rápida, guía de habla inglesa, experiencia de parasailing y paseo en banana acuática. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Phuket. AMAKA TOURS TRAVEL confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 7 horas",
+   "Traslados de ida y vuelta desde el hotel",
+   "Transporte en lancha rápida",
+   "Guía profesional de habla inglesa",
+   "Experiencia de parasailing",
+   "Paseo en banana acuática"
+  ],
+  "included": [
+   "Traslados de ida y vuelta desde el hotel",
+   "Transporte en lancha rápida",
+   "Guía profesional de habla inglesa",
+   "Experiencia de parasailing",
+   "Paseo en banana acuática",
+   "Equipo de snorkel",
+   "Almuerzo tailandés",
+   "Fruta fresca",
+   "Acceso a las sillas de playa",
+   "Chalecos salvavidas",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de día completo en Phuket, que incluye traslados de ida y vuelta desde el hotel, transporte en lancha rápida y guía de habla inglesa. Operador: AMAKA TOURS TRAVEL, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Excursión en Lancha Rápida a la Isla de Coral con Parasailing",
+  "metaDescription": "Tour de día completo en Phuket. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "coral-and-racha-islands-speedboat-day-trip-with-lunch": {
+  "title": "Excursión de un Día en Lancha Rápida a las Islas de Coral y Racha con Almuerzo",
+  "fullDescription": "Esta es una experiencia de 8 horas desde Phuket, centrada en Lancha rápida y Isla de Racha. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye café y té de la mañana, comida bufé, fruta fresca y refrescos, chaleco salvavidas y equipo de snorkel y guía. No incluye deportes acuáticos opcionales, propinas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Lancha rápida",
+   "Isla de Racha",
+   "Duración: 8 horas",
+   "Café y té de la mañana",
+   "Comida bufé",
+   "Fruta fresca y refrescos"
+  ],
+  "included": [
+   "Café y té de la mañana",
+   "Comida bufé",
+   "Fruta fresca y refrescos",
+   "Chaleco salvavidas y equipo de snorkel (máscara y tubo)",
+   "Guía",
+   "Seguro de accidentes"
+  ],
+  "notIncluded": [
+   "Deportes acuáticos opcionales",
+   "Propinas",
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de día completo en Phuket, con Lancha rápida, Racha Island and Coral Island y Phuket. Operador: Happy Holiday Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Excursión de un Día en Lancha Rápida a las Islas de Coral y Racha",
+  "metaDescription": "Tour de día completo en Phuket. Incluye: café y té de la mañana. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "buggy-tour-with-hidden-beach-visit-in-phuket": {
+  "title": "Tour en Buggy con Visita a una Playa Escondida en Phuket",
+  "fullDescription": "Esta es una experiencia de 1 hora en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSe ofrece recogida desde Karon Beach, Patong Beach y Kata Beach; el lugar y la hora exactos se acuerdan con Travel Bays Network Co. Ltd una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye recogida y regreso al hotel desde Patong, Karon, equipo de seguridad, tour en buggy y los traslados desde otras zonas cuestan 400 THB por persona para un. No incluye comidas, gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Phuket. Travel Bays Network Co. Ltd confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1 hora",
+   "Recogida y regreso al hotel desde Patong, Karon y Chalong",
+   "Equipo de seguridad",
+   "Tour en buggy",
+   "Los traslados desde otras zonas cuestan 400 THB por persona para un viaje de ida y vuelta, pagadero al recoger"
+  ],
+  "included": [
+   "Recogida y regreso al hotel desde Patong, Karon y Chalong",
+   "Equipo de seguridad",
+   "Tour en buggy",
+   "Los traslados desde otras zonas cuestan 400 THB por persona para un viaje de ida y vuelta, pagadero al recoger"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Gastos personales",
+   "Propinas",
+   "Los traslados desde otras zonas cuestan 400 THB por persona para un viaje de ida y vuelta, pagadero al recoger"
+  ],
+  "shortDescription": "Tour de 1 hora en Phuket, que incluye recogida y regreso al hotel desde Patong, Karon, equipo de seguridad y tour en buggy. Operador: Travel Bays Network Co. Ltd, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour en Buggy con Visita a una Playa Escondida en Phuket",
+  "metaDescription": "Tour de 1 hora en Phuket. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "similan-island-adventure-tour": {
+  "title": "Tour de Aventura en la Isla de Similan",
+  "fullDescription": "Esta es una experiencia de 12 horas desde Phuket, centrada en Lancha rápida, Ko Bangu y Ko Miang. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSe ofrece recogida desde Thalang District, Chalong, Phuket, Kathu, Pa Tong y Khao Lak; el lugar y la hora exactos se acuerdan con Delight Tours and Travels una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye traslados de ida y vuelta en lancha rápida, desayuno, equipo de snorkel, toallas y tarifas del Parque Nacional. No incluye gastos personales, propinas para los guías y bebidas adicionales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Lancha rápida",
+   "Ko Bangu",
+   "Ko Miang",
+   "Ko Payu",
+   "Duración: 12 horas",
+   "Traslados de ida y vuelta en lancha rápida"
+  ],
+  "included": [
+   "Traslados de ida y vuelta en lancha rápida",
+   "Desayuno, almuerzo y aperitivos de la tarde",
+   "Equipo de snorkel (máscara, aletas, chaleco salvavidas)",
+   "Toallas",
+   "Tarifas del Parque Nacional",
+   "Seguro de accidentes",
+   "Guía con experiencia"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas para los guías",
+   "Bebidas adicionales"
+  ],
+  "shortDescription": "Tour de día completo en Phuket, con Lancha rápida, Sailboat Rock, Similan Islands y Ko Bangu. Operador: Delight Tours and Travels, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour de Aventura en la Isla de Similan",
+  "metaDescription": "Tour de día completo en Phuket. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "from-phuket-or-khaolak-similan-islands-day-trip-by-local-operator": {
+  "title": "Desde Phuket o Khao Lak: Excursión de un Día a las Islas Similan, por un Operador Local",
+  "fullDescription": "Esta es una experiencia de 13 horas desde Phuket, centrada en Muelle de Thap Lamu, Lancha rápida y Bahía de Donald Duck. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSe ofrece recogida desde Khok Kloi, Karon Beach, Kata Beach, Kalim Surf Beach #3, Khao Lak y Pa Tong; el lugar y la hora exactos se acuerdan con Love Andaman una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye recogida y regreso desde su alojamiento, seguro de viaje, equipo de snorkel y chaleco salvavidas, guía y desayuno ligero. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Phuket. Love Andaman confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Muelle de Thap Lamu",
+   "Lancha rápida",
+   "Bahía de Donald Duck",
+   "Ko Bangu",
+   "Duración: 13 horas",
+   "Recogida y regreso desde su alojamiento (si se selecciona la opción)"
+  ],
+  "included": [
+   "Recogida y regreso desde su alojamiento (si se selecciona la opción)",
+   "Seguro de viaje",
+   "Equipo de snorkel y chaleco salvavidas",
+   "Guía",
+   "Desayuno ligero",
+   "Aperitivos",
+   "Fruta",
+   "Refrescos",
+   "Bufé de almuerzo tailandés",
+   "Entrada al parque nacional"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour en Phuket, con Muelle de Thap Lamu, Lancha rápida y Bahía de Donald Duck. Operador: Love Andaman, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Desde Phuket o Khao Lak: Excursión de un Día a las Islas Similan",
+  "metaDescription": "Tour en Phuket. Incluye: recogida y regreso desde su alojamiento. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "james-bond-island-and-phang-nga-bay-by-speedboat": {
+  "title": "Isla de James Bond y Bahía de Phang Nga en Lancha Rápida",
+  "fullDescription": "Esta es una experiencia de 6 horas en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye traslado de ida y vuelta desde la zona de recogida gratuita, solo si se reserva con traslado), café o té, agua embotellada y refrescos. No incluye tasa del parque nacional, otros gastos personales, bebida alcohólica y toallas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 6 horas",
+   "Traslado de ida y vuelta desde la zona de recogida gratuita",
+   "Solo si se reserva con traslado)",
+   "Café o té",
+   "Agua embotellada",
+   "Refrescos"
+  ],
+  "included": [
+   "Traslado de ida y vuelta desde la zona de recogida gratuita",
+   "Solo si se reserva con traslado)",
+   "Café o té",
+   "Agua embotellada",
+   "Refrescos",
+   "Comida bufé",
+   "Chaleco salvavidas",
+   "Piragüismo",
+   "Guía profesional de habla inglesa durante el tour",
+   "Seguro de accidentes"
+  ],
+  "notIncluded": [
+   "Tarifa del parque nacional (300 THB/adulto y 150 THB/niño)",
+   "Otros gastos personales",
+   "Bebida alcohólica",
+   "Toallas"
+  ],
+  "shortDescription": "Tour en Phuket, que incluye traslado de ida y vuelta desde la zona de recogida gratuita, solo si se reserva con traslado) y café o té. Operador: AnyWhere tours, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Isla de James Bond y Bahía de Phang Nga en Lancha Rápida",
+  "metaDescription": "Tour en Phuket. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "racha-islands-and-maiton-dolphin-spotting-by-catamaran": {
+  "title": "Islas de Racha y Avistamiento de Delfines en Maiton en Catamarán",
+  "fullDescription": "Esta es una experiencia de 10 horas desde Phuket, centrada en Lancha rápida, Isla de Racha Noi y Isla de Racha. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nSe ofrece recogida desde Phuket, Karon, Pa Tong y Phuket; el lugar y la hora exactos se acuerdan con Happy Holiday Thailand una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye traslados al hotel, comida, fruta de temporada, chalecos salvavidas y equipo de snorkel y seguro de accidentes de viaje. No incluye propinas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Phuket. Happy Holiday Thailand confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Lancha rápida",
+   "Isla de Racha Noi",
+   "Isla de Racha",
+   "Isla privada de Maiton",
+   "Duración: 10 horas",
+   "Traslados al hotel"
+  ],
+  "included": [
+   "Traslados al hotel",
+   "Comida",
+   "Frutas de temporada, agua potable y refrescos",
+   "Chalecos salvavidas y equipo de snorkel",
+   "Seguro de accidentes de viaje"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de día completo en Phuket, con Lancha rápida, Isla de Racha Noi y Isla de Racha. Operador: Happy Holiday Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Islas de Racha y Avistamiento de Delfines en Maiton en Catamarán",
+  "metaDescription": "Tour de día completo en Phuket. Incluye: traslados al hotel y comida. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "andamanda-water-park-full-day-adventure-in-phuket": {
+  "title": "Aventura de Día Completo en el Parque Acuático Andamanda en Phuket",
+  "fullDescription": "Esta es una experiencia de 6 horas en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada a Andamanda Phuket, acceso a todos los toboganes y atracciones, uso de la piscina de olas y el río lento, acceso a las zonas de juego infantil y Experiencia FlowRider. No incluye comida y bebidas, alquiler de toalla, alquiler de taquilla y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 6 horas",
+   "Entrada a Andamanda Phuket",
+   "Acceso a todos los toboganes y atracciones",
+   "Uso de la piscina de olas y el río lento",
+   "Acceso a las zonas de juego infantil",
+   "Experiencia FlowRider"
+  ],
+  "included": [
+   "Entrada a Andamanda Phuket",
+   "Acceso a todos los toboganes y atracciones",
+   "Uso de la piscina de olas y el río lento",
+   "Acceso a las zonas de juego infantil",
+   "Experiencia FlowRider"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Alquiler de toalla",
+   "Alquiler de taquilla",
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de medio día en Phuket, que incluye entrada a Andamanda Phuket, acceso a todos los toboganes y atracciones y uso de la piscina de olas y el río lento. Operador: ranthamborecatsafari, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Aventura de Día Completo en el Parque Acuático Andamanda en Phuket",
+  "metaDescription": "Tour de medio día en Phuket. Incluye: entrada a Andamanda Phuket. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "maiton-coral-and-racha-island-snorkeling-trip": {
+  "title": "Excursión de Snorkel a Maiton, Coral y la Isla de Racha",
+  "fullDescription": "Esta es una experiencia de 8 horas desde Phuket, centrada en Muelle de Chalong, Lancha rápida y Isla de Racha. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye traslado de ida y vuelta desde Phuket Town, Chalong, Karon, Kata, chaleco salvavidas, equipo de snorkel, comida y fruta de temporada. No incluye cargo adicional de traslado, 200 THB por persona, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPhuket. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Muelle de Chalong",
+   "Lancha rápida",
+   "Isla de Racha",
+   "Isla privada de Maiton",
+   "Duración: 8 horas",
+   "Traslado de ida y vuelta desde Phuket Town, Chalong, Karon, Kata, Patong, Kalim, Tri Tang y Rawai"
+  ],
+  "included": [
+   "Traslado de ida y vuelta desde Phuket Town, Chalong, Karon, Kata, Patong, Kalim, Tri Tang y Rawai",
+   "Chaleco salvavidas",
+   "Equipo de snorkel",
+   "Comida",
+   "Fruta de temporada",
+   "Refrescos",
+   "Guía"
+  ],
+  "notIncluded": [
+   "Cargo adicional de traslado de 200 THB/persona (ida y vuelta) para la recogida desde Kamala, Siray, Laguna, Surin, Bangtao, Naiharn, Maikhao, Naiyang y Naithon"
+  ],
+  "shortDescription": "Tour de día completo en Phuket, con Muelle de Chalong, Speedboat and Coral Island y Phuket. Operador: Oh-Hoo, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Excursión de Snorkel a Maiton, Coral y la Isla de Racha",
+  "metaDescription": "Tour de día completo en Phuket. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "racha-banana-bay-and-maiton-island-tour-by-catamaran": {
+  "title": "Tour en Catamarán: Racha, Banana Bay y la Isla de Maiton",
+  "fullDescription": "Esta es una experiencia de 8 horas desde Phuket, centrada en AA Marina, Catamarán y Playa de los Piratas. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye aletas, toalla, comida, fruta fresca y tobogán de agua. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPhuket. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "AA Marina",
+   "Catamarán",
+   "Playa de los Piratas",
+   "Racha Noi",
+   "Duración: 8 horas",
+   "Aletas"
+  ],
+  "included": [
+   "Aletas",
+   "Toalla",
+   "Comida",
+   "Fruta fresca",
+   "Tobogán de agua",
+   "Kayak transparente",
+   "Tabla de paddle",
+   "Guía profesional",
+   "Seguro de accidentes de viaje",
+   "Entradas de los parques nacionales",
+   "Agua potable y refrescos",
+   "Chaleco salvavidas y equipo de snorkel"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de día completo en Phuket, con AA Marina, Catamarán y Playa de los Piratas. Operador: Good Morning Holiday (PNT Phuket), con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour en Catamarán: Racha, Banana Bay y la Isla de Maiton",
+  "metaDescription": "Tour de día completo en Phuket. Incluye: aletas, toalla y comida. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "sea-salt-lounge-and-grill-dining-experience-in-phuket": {
+  "title": "Experiencia Gastronómica en el Sea Salt Lounge y Grill en Phuket",
+  "fullDescription": "Esta es una experiencia en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye reserva de mesa con menús fijos especiales, mesa junto al mar bajo petición y espectáculo de fuego gratuito todos los lunes a las 21:00 y viernes a las 19:00. No incluye transporte y bebidas no incluidas en el menú, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Reserva de mesa con menús fijos especiales",
+   "Mesa junto al mar bajo petición",
+   "Espectáculo de fuego gratuito todos los lunes a las 21:00 y viernes a las 19:00"
+  ],
+  "included": [
+   "Reserva de mesa con menús fijos especiales",
+   "Mesa junto al mar bajo petición",
+   "Espectáculo de fuego gratuito todos los lunes a las 21:00 y viernes a las 19:00"
+  ],
+  "notIncluded": [
+   "Transporte",
+   "Bebidas no incluidas en el menú"
+  ],
+  "shortDescription": "Tour en Phuket, que incluye reserva de mesa con menús fijos especiales, mesa junto al mar bajo petición y espectáculo de fuego gratuito todos los lunes a las 21:00 y viernes a las 19:00. Operador: PR Travel Services, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Experiencia Gastronómica en el Sea Salt Lounge y Grill en Phuket",
+  "metaDescription": "Tour en Phuket. Incluye: reserva de mesa con menús fijos especiales. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "small-group-elephant-forest-walk-and-keeper-stories-in-phuket": {
+  "title": "Caminata por el Bosque con Elefantes en Grupo Pequeño e Historias de los Cuidadores en Phuket",
+  "fullDescription": "Esta es una experiencia de 1 hora desde Phuket, centrada en Pueblo de elefantes de la tribu de montaña. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye caminata guiada por el bosque con elefantes, sesión educativa sobre elefantes, agua potable, seguro y traslado al hotel. No incluye comidas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Phuket. Patong Hill Tribe Elephant Village – Ethical Sanctuary confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Pueblo de elefantes de la tribu de montaña",
+   "Duración: 1 hora",
+   "Caminata guiada por el bosque con elefantes",
+   "Sesión educativa sobre elefantes",
+   "Agua potable (traiga su botella reutilizable)",
+   "Seguro"
+  ],
+  "included": [
+   "Caminata guiada por el bosque con elefantes",
+   "Sesión educativa sobre elefantes",
+   "Agua potable (traiga su botella reutilizable)",
+   "Seguro",
+   "Traslado al hotel (si se selecciona su opción)"
+  ],
+  "notIncluded": [
+   "Comidas"
+  ],
+  "shortDescription": "Tour de 1 hora en Phuket, con Pueblo de elefantes de la tribu de montaña. Operador: Patong Hill Tribe Elephant Village – Ethical Sanctuary, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Caminata por el Bosque con Elefantes en Grupo Pequeño e Historias de los Cuidadores en Phuket",
+  "metaDescription": "Tour de 1 hora en Phuket. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "phuket-jungle-horseback-ride-with-scenic-forest-views-by-local-operator": {
+  "title": "Paseo a Caballo por la Selva con Vistas Panorámicas del Bosque en Phuket, por un Operador Local",
+  "fullDescription": "Esta es una experiencia de 1 hora en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye equipo de equitación, agua embotellada y seguro. No incluye recogida y regreso al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1 hora",
+   "Equipo de equitación",
+   "Agua embotellada",
+   "Guía tailandés autorizado de habla inglesa",
+   "Seguro"
+  ],
+  "included": [
+   "Equipo de equitación",
+   "Agua embotellada",
+   "Guía tailandés autorizado de habla inglesa",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel"
+  ],
+  "shortDescription": "Tour de 1 hora en Phuket, que incluye equipo de equitación, agua embotellada y seguro. Operador: SIAM SCAPE JOURNEYS CO.,LTD., con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Paseo a Caballo por la Selva con Vistas Panorámicas del Bosque en Phuket, por un Operador Local",
+  "metaDescription": "Tour de 1 hora en Phuket. Incluye: equipo de equitación y agua embotellada. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "carnival-magic-experience-with-dinner-and-show-in-phuket": {
+  "title": "Experiencia Carnival Magic con Cena y Espectáculo en Phuket",
+  "fullDescription": "Esta es una experiencia de 5 horas en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye actuaciones en directo, cena bufé, exposiciones de arte y artesanía, desfiles y entrada al parque temático. No incluye transporte al evento y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 5 horas",
+   "Actuaciones en directo",
+   "Cena bufé",
+   "Exposiciones de arte y artesanía",
+   "Desfiles",
+   "Entrada al parque temático"
+  ],
+  "included": [
+   "Actuaciones en directo",
+   "Cena bufé",
+   "Exposiciones de arte y artesanía",
+   "Desfiles",
+   "Entrada al parque temático"
+  ],
+  "notIncluded": [
+   "Transporte al evento",
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de medio día en Phuket, que incluye actuaciones en directo, cena bufé y exposiciones de arte y artesanía. Operador: Travel Bays Network Co. Ltd, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Experiencia Carnival Magic con Cena y Espectáculo en Phuket",
+  "metaDescription": "Tour de medio día en Phuket. Incluye: actuaciones en directo y cena bufé. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "save-20-patong-elephant-ethical-sanctuary-tour": {
+  "title": "(Ahorre 20%) Tour del Santuario Ético de Elefantes de Patong",
+  "fullDescription": "Esta es una experiencia de 1 hora desde Phuket, centrada en Pueblo de elefantes de la tribu de montaña de Patong. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel, guía, sesión educativa sobre elefantes, caminata guiada por el bosque y actividad de preparación de alimentos naturales. No incluye comida, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Phuket. Patong Hill Tribe Elephant Village – Ethical Sanctuary confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Pueblo de elefantes de la tribu de montaña de Patong",
+   "Duración: 1 hora",
+   "Recogida y regreso al hotel (si eliges la opción)",
+   "Guía de habla inglesa",
+   "Sesión educativa sobre elefantes",
+   "Caminata guiada por el bosque"
+  ],
+  "included": [
+   "Recogida y regreso al hotel (si eliges la opción)",
+   "Guía de habla inglesa",
+   "Sesión educativa sobre elefantes",
+   "Caminata guiada por el bosque",
+   "Actividad de preparación de alimentos naturales",
+   "Agua potable",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Comida"
+  ],
+  "shortDescription": "Tour de 1 hora en Phuket, con Pueblo de elefantes de la tribu de montaña de Patong. Operador: Patong Hill Tribe Elephant Village – Ethical Sanctuary, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "(Ahorre 20%) Tour del Santuario Ético de Elefantes de Patong",
+  "metaDescription": "Tour de 1 hora en Phuket. Incluye: recogida y regreso al hotel y guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "phi-phi-and-maiton-island-sunset-premium-catamaran-tour": {
+  "title": "Tour Premium en Catamarán al Atardecer: Phi Phi y la Isla de Maiton",
+  "fullDescription": "Esta es una experiencia de 10 horas desde Phuket, centrada en Catamarán. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye servicio de traslado de ida y vuelta al hotel en Phuket, desayuno ligero, aperitivos, almuerzo bufé y equipo de snorkel. No incluye propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPhuket. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Catamarán",
+   "Duración: 10 horas",
+   "Servicio de traslado de ida y vuelta al hotel en Phuket",
+   "Desayuno ligero",
+   "Aperitivos, frutas y refrescos",
+   "Almuerzo bufé"
+  ],
+  "included": [
+   "Servicio de traslado de ida y vuelta al hotel en Phuket",
+   "Desayuno ligero",
+   "Aperitivos, frutas y refrescos",
+   "Almuerzo bufé",
+   "Equipo de snorkel (máscara, aletas y chaleco salvavidas)",
+   "Toalla",
+   "Guía de habla inglesa",
+   "Seguro de viaje"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ],
+  "shortDescription": "Tour de día completo en Phuket, con Catamarán. Operador: Love Andaman, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour Premium en Catamarán al Atardecer: Phi Phi",
+  "metaDescription": "Tour de día completo en Phuket. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "racha-and-coral-island-speedboat-tour-with-lunch": {
+  "title": "Tour en Lancha Rápida a las Islas de Racha y Coral con Almuerzo",
+  "fullDescription": "Esta es una experiencia de 7 horas desde Phuket, centrada en Lancha rápida y Isla de Racha. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye café y té de la mañana, comida bufé y fruta fresca y refrescos. No incluye deportes acuáticos opcionales, propinas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Lancha rápida",
+   "Isla de Racha",
+   "Duración: 7 horas",
+   "Café y té de la mañana",
+   "Comida bufé",
+   "Fruta fresca y refrescos"
+  ],
+  "included": [
+   "Café y té de la mañana",
+   "Comida bufé",
+   "Fruta fresca y refrescos"
+  ],
+  "notIncluded": [
+   "Deportes acuáticos opcionales",
+   "Propinas",
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de día completo en Phuket, con Lancha rápida, Racha Island and Coral Island y Phuket. Operador: Happy Holiday Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour en Lancha Rápida a las Islas de Racha y Coral con Almuerzo",
+  "metaDescription": "Tour de día completo en Phuket. Incluye: café y té de la mañana. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "elephant-jungle-sanctuary-feed-and-shower-trip-in-phuket": {
+  "title": "Excursión al Santuario de Elefantes de la Selva: Alimentación y Ducha en Phuket",
+  "fullDescription": "Esta es una experiencia de 1,5 horas en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso, guía, sesión de alimentación de elefantes y ducha de elefantes. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Phuket. Elephant Jungle Sanctuary Phuket confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1,5 horas",
+   "Recogida y regreso",
+   "Guía",
+   "Sesión de alimentación de elefantes",
+   "Ducha de elefantes"
+  ],
+  "included": [
+   "Recogida y regreso",
+   "Guía",
+   "Sesión de alimentación de elefantes",
+   "Ducha de elefantes"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour de 1,5 horas en Phuket, que incluye recogida y regreso, guía y sesión de alimentación de elefantes. Operador: Elephant Jungle Sanctuary Phuket, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Excursión al Santuario de Elefantes de la Selva: Alimentación",
+  "metaDescription": "Tour de 1,5 horas en Phuket. Incluye: recogida y regreso y guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "phuket-paramotor-adventure-by-tsa-thailand-by-local-operator": {
+  "title": "Aventura en Paramotor en Phuket por TSA Thailand, por un Operador Local",
+  "fullDescription": "Esta es una experiencia de 20 minutos en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye seguro y certificado. No incluye recogida y regreso al hotel y comida y bebidas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 20 minutos",
+   "Seguro",
+   "Certificado"
+  ],
+  "included": [
+   "Seguro",
+   "Certificado"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Comida y bebidas"
+  ],
+  "shortDescription": "Tour de 0,3333333333333333 horas en Phuket, que incluye seguro y certificado. Operador: TSA_Thailand, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Aventura en Paramotor en Phuket por TSA Thailand, por un Operador Local",
+  "metaDescription": "Tour de 0,3333333333333333 horas en Phuket. Incluye: seguro y certificado. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "simon-cabaret-show-entry-ticket-in-phuket": {
+  "title": "Entrada al Espectáculo de Cabaret Simon en Phuket",
+  "fullDescription": "Esta es una experiencia de 1,5 horas en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada prioritaria donde el lugar la ofrezca, entrada con descuento para el espectáculo de cabaret Simon. No incluye recogida en el hotel y regreso, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1,5 horas",
+   "entrada prioritaria donde el lugar la ofrezca, entrada con descuento para el espectáculo de cabaret Simon"
+  ],
+  "included": [
+   "Entrada con descuento y acceso prioritario al espectáculo de cabaret Simon"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel"
+  ],
+  "shortDescription": "Entrada en Phuket, que incluye entrada con descuento y acceso prioritario al espectáculo de cabaret Simon. Operador: Oh-Hoo, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Entrada al Espectáculo de Cabaret Simon en Phuket",
+  "metaDescription": "Entrada en Phuket. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "horseback-riding-at-ao-chalong-scenic-nature-views-in-phuket": {
+  "title": "Equitación en Ao Chalong con Vistas Panorámicas de la Naturaleza en Phuket",
+  "fullDescription": "Esta es una experiencia de 1 hora en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel, programa de equitación de 1 hora, programa de equitación de 2 horas, instructor de equitación y oportunidades de fotografía panorámica. No incluye comidas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Phuket. Anda Krabi Seatour confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1 hora",
+   "Recogida y regreso al hotel",
+   "Programa de equitación de 1 hora",
+   "Programa de equitación de 2 horas",
+   "instructor de equitación",
+   "Oportunidades de fotografía panorámica"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Programa de equitación de 1 hora",
+   "Programa de equitación de 2 horas",
+   "instructor de equitación",
+   "Oportunidades de fotografía panorámica"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de 1 hora en Phuket, que incluye recogida y regreso al hotel, programa de equitación de 1 hora y programa de equitación de 2 horas. Operador: Anda Krabi Seatour, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Equitación en Ao Chalong con Vistas Panorámicas de la Naturaleza en Phuket",
+  "metaDescription": "Tour de 1 hora en Phuket. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "phuket-racha-yai-and-coral-island-speedboat-tour-after-sun-spa-by-local-operator": {
+  "title": "Phuket: Tour en Lancha Rápida a Racha Yai y la Isla de Coral + Spa Después del Sol, por un Operador Local",
+  "fullDescription": "Esta es una experiencia de día completo desde Phuket, centrada en Punto de encuentro en el muelle de Chalong y Lancha rápida. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel, traslado en lancha rápida entre islas, guía de habla inglesa, equipo de buceo de superficie y chalecos salvavidas y café y té. No incluye gastos personales y opcional: masaje de hombros y espalda, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPhuket. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Punto de encuentro en el muelle de Chalong",
+   "Lancha rápida",
+   "Duración: día completo",
+   "Recogida y regreso al hotel",
+   "Traslado en lancha rápida entre islas",
+   "Guía profesional de habla inglesa"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Traslado en lancha rápida entre islas",
+   "Guía profesional de habla inglesa",
+   "Equipo de buceo de superficie y chalecos salvavidas",
+   "Café y té",
+   "Almuerzo bufé tailandés",
+   "Seguro de viaje"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Opcional: masaje de hombros y espalda (60 minutos)"
+  ],
+  "shortDescription": "Tour de día completo en Phuket, con Punto de encuentro en el muelle de Chalong, Speedboat and Coral Island y Phuket. Operador: Big Cat Travel Co., Ltd., con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Phuket: Tour en Lancha Rápida a Racha Yai y la Isla de Coral + Spa Después del Sol, por un Operador Local",
+  "metaDescription": "Tour de día completo en Phuket. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "james-bond-island-by-longtail-boat-and-money-temple": {
+  "title": "Isla de James Bond en Barco Longtail y Templo del Dinero",
+  "fullDescription": "Esta es una experiencia de 9 horas desde Phuket, centrada en Barco fluvial. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nLa bahía de Phang Nga es un paisaje kárstico hundido de unas 40 torres calizas que emergen de aguas verdes y poco profundas entre Phuket y Krabi, famoso por la película de Bond de 1974 rodada en Khao Phing Kan, la isla que hoy se llama isla de James Bond, pequeña, concurrida y que merece veinte minutos. La razón para venir es el piragüismo por las cuevas marinas: con la marea baja, las canoas hinchables se cuelan por túneles hasta lagunas escondidas (los hongs) dentro de las islas, rodeadas de acantilados y manglares, y es la marea la que decide el recorrido. Koh Panyee, el pueblo pesquero musulmán sobre pilotes, es la parada de la comida. Las salidas en barca de cola larga desde el lado de Phang Nga son más tranquilas que las lanchas rápidas desde Phuket.\n\nSe ofrece recogida desde Chalong, Pa Tong y Thalang District; el lugar y la hora exactos se acuerdan con Choke Chai M Travel una vez confirmada la reserva, y la opción que elijas determina si el transporte está incluido.\n\nEl precio incluye traslado de ida y vuelta, buffet de almuerzo en el pueblo de Panyee, equipo de piragüismo, crucero en barco longtail y guía. No incluye tasa del Parque Nacional, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Barco fluvial",
+   "Duración: 9 horas",
+   "Traslado de ida y vuelta",
+   "Buffet de almuerzo en el pueblo de Panyee",
+   "Equipo de piragüismo",
+   "Crucero en barco longtail"
+  ],
+  "included": [
+   "Traslado de ida y vuelta",
+   "Buffet de almuerzo en el pueblo de Panyee",
+   "Equipo de piragüismo",
+   "Crucero en barco longtail",
+   "Guía de habla inglesa"
+  ],
+  "notIncluded": [
+   "Tarifa del parque nacional (300 THB por adulto y 200 THB por niño)"
+  ],
+  "shortDescription": "Tour de día completo en Phuket, con Barco fluvial. Operador: Choke Chai M Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Isla de James Bond en Barco Longtail y Templo del Dinero",
+  "metaDescription": "Tour de día completo en Phuket. Incluye: traslado de ida y vuelta. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "phuket-big-buddha-city-tour-lion-and-atv-tour-guide-eng-by-local-operator": {
+  "title": "Phuket: Gran Buda, Tour de la Ciudad, León y ATV, Guía en Inglés, por un Operador Local",
+  "fullDescription": "Esta es una experiencia de 6 horas en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel y agua potable. No incluye comida y plátano para el elefante, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPhuket. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 6 horas",
+   "Recogida y regreso al hotel",
+   "Agua potable"
+  ],
+  "included": [
+   "Recogida y regreso al hotel.",
+   "Agua potable"
+  ],
+  "notIncluded": [
+   "Comida",
+   "Plátano para el elefante"
+  ],
+  "shortDescription": "Tour de medio día en Phuket, que incluye recogida y regreso al hotel y agua potable. Operador: Amily Tour And Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Phuket: Gran Buda, Tour de la Ciudad, León y ATV, Guía en Inglés",
+  "metaDescription": "Tour de medio día en Phuket. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "phuket-city-tour-and-scenic-viewpoints-night-market-by-local-operator": {
+  "title": "Tour de la Ciudad de Phuket, Miradores Panorámicos y Mercado Nocturno, por un Operador Local",
+  "fullDescription": "Esta es una experiencia de 5 horas en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye traslado de ida y vuelta y guía. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 5 horas",
+   "Traslado de ida y vuelta (según la opción seleccionada)",
+   "Guía de habla inglesa"
+  ],
+  "included": [
+   "Traslado de ida y vuelta (según la opción seleccionada)",
+   "Guía de habla inglesa"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas",
+   "Traslado de ida y vuelta (según la opción seleccionada)"
+  ],
+  "shortDescription": "Tour de medio día en Phuket, que incluye traslado de ida y vuelta y guía. Operador: XPLORE HOLIDAYS S.A, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour de la Ciudad de Phuket, Miradores Panorámicos y Mercado Nocturno, por un Operador Local",
+  "metaDescription": "Tour de medio día en Phuket. Incluye: traslado de ida y vuelta y guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "adrenaline-rush-show-phuket-world-class-live-action-by-local-operator": {
+  "title": "Espectáculo Adrenaline Rush en Phuket: Acción en Directo de Clase Mundial, por un Operador Local",
+  "fullDescription": "Esta es una experiencia de 1 hora en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada al circo de Phuket. No incluye recogida y regreso al hotel, comidas y bebidas, otros gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1 hora",
+   "Entrada al circo de Phuket"
+  ],
+  "included": [
+   "Entrada al circo de Phuket"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel (*cargo adicional, contacte directamente al equipo de reservas)",
+   "Comidas y bebidas (*en el lugar con cargo adicional)",
+   "Otros gastos personales",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de 1 hora en Phuket, que incluye entrada al circo de Phuket. Operador: Phuket Circus, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Espectáculo Adrenaline Rush en Phuket: Acción en Directo de Clase Mundial, por un Operador Local",
+  "metaDescription": "Tour de 1 hora en Phuket. Incluye: entrada al circo de Phuket. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "phi-phi-maya-khai-island-snorkeling-day-trip-from-phuket-by-local-operator": {
+  "title": "Phi Phi, Maya, Isla de Khai: Excursión de Snorkel de un Día desde Phuket, por un Operador Local",
+  "fullDescription": "Esta es una experiencia de 1 hora desde Phuket, centrada en Islas Phi Phi, Maya Bay y Islas Khai. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye servicio de recogida desde el hotel en Phuket, traslado de ida y vuelta en lancha rápida, equipo de snorkel, comida y tasas del parque nacional. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nPhuket. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Islas Phi Phi",
+   "Maya Bay",
+   "Islas Khai",
+   "Lancha rápida",
+   "Duración: 1 hora",
+   "Servicio de recogida desde el hotel en Phuket"
+  ],
+  "included": [
+   "Servicio de recogida desde el hotel en Phuket",
+   "Traslado de ida y vuelta en lancha rápida",
+   "Equipo de snorkel",
+   "Comida",
+   "Tasas del parque nacional",
+   "Seguro de accidentes de viaje",
+   "Guía profesional de habla inglesa",
+   "Entrada"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de 1 hora en Phuket, con Islas Phi Phi, Maya Bay y Islas Khai. Operador: Thai Adventure Hub, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Phi Phi, Maya, Isla de Khai: Excursión de Snorkel de un Día desde Phuket, por un Operador Local",
+  "metaDescription": "Tour de 1 hora en Phuket. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "james-bond-island-sea-canoeing-by-speedboat-2-meals": {
+  "title": "Isla de James Bond, Canoa de Mar en Lancha Rápida + 2 Comidas",
+  "fullDescription": "Esta es una experiencia de 8 horas desde Phuket, centrada en Lancha rápida, Ko Yao Yai y Palm Beach Club. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel, guía, desayuno ligero, comida bufé y refrescos. No incluye propinas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nThep Krasatti. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Lancha rápida",
+   "Ko Yao Yai",
+   "Palm Beach Club",
+   "Isla de Panak",
+   "Duración: 8 horas",
+   "Recogida y regreso al hotel"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Guía profesional",
+   "Desayuno ligero",
+   "Comida bufé",
+   "Refrescos, fruta de temporada y agua potable",
+   "Chaleco salvavidas y equipo de snorkel",
+   "Tasa del Parque Nacional",
+   "Seguro de viaje"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Gastos personales"
+  ],
+  "shortDescription": "Tour de día completo en Phuket, con Lancha rápida, Ko Yao Yai y Palm Beach Club. Operador: Delight Tours and Travels, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Isla de James Bond, Canoa de Mar en Lancha Rápida + 2 Comidas",
+  "metaDescription": "Tour de día completo en Phuket. Incluye: recogida y regreso al hotel y guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "tu-bar-rooftop-at-sri-panwa-food-and-drink-packages-in-phuket": {
+  "title": "Tu Bar en la Azotea del Sri Panwa: Paquetes de Comida y Bebida en Phuket",
+  "fullDescription": "Esta es una experiencia de 1,5 horas en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye impresionantes vistas panorámicas del océano y el atardecer, cócteles exclusivos creativos y vinos finos y aperitivos seleccionados para acompañar sus bebidas. No incluye propinas y transporte, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1,5 horas",
+   "Impresionantes vistas panorámicas del océano y el atardecer",
+   "Cócteles exclusivos creativos y vinos finos",
+   "Aperitivos seleccionados para acompañar sus bebidas"
+  ],
+  "included": [
+   "Impresionantes vistas panorámicas del océano y el atardecer",
+   "Cócteles exclusivos creativos y vinos finos",
+   "Aperitivos seleccionados para acompañar sus bebidas"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Transporte"
+  ],
+  "shortDescription": "Tour de 1,5 horas en Phuket, que incluye impresionantes vistas panorámicas del océano y el atardecer, cócteles exclusivos creativos y vinos finos y aperitivos seleccionados para acompañar sus bebidas. Operador: Hungry Hub, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tu Bar en la Azotea del Sri Panwa: Paquetes de Comida",
+  "metaDescription": "Tour de 1,5 horas en Phuket. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "kamala-beach-horse-riding-activity-in-phuket": {
+  "title": "Actividad de Equitación en la Playa de Kamala en Phuket",
+  "fullDescription": "Esta es una experiencia de 1 hora en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye equipo de equitación, casco, agua embotellada y paseo a caballo. No incluye recogida y regreso al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1 hora",
+   "Equipo de equitación",
+   "Casco",
+   "Agua embotellada",
+   "Guía tailandés autorizado de habla inglesa",
+   "Paseo a caballo"
+  ],
+  "included": [
+   "Equipo de equitación",
+   "Casco",
+   "Agua embotellada",
+   "Guía tailandés autorizado de habla inglesa",
+   "Paseo a caballo"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel"
+  ],
+  "shortDescription": "Tour de 1 hora en Phuket, que incluye equipo de equitación, casco y agua embotellada. Operador: Oh-Hoo, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Actividad de Equitación en la Playa de Kamala en Phuket",
+  "metaDescription": "Tour de 1 hora en Phuket. Incluye: equipo de equitación y casco. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "patong-boxing-stadium-muay-thai-entry-ticket": {
+  "title": "Entrada de Muay Thai en el Estadio de Boxeo de Patong",
+  "fullDescription": "Esta es una experiencia en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye una entrada para un asiento junto al ring, acceso a la noche de combate de Muay Thai y camiseta gratuita. No incluye traslados al hotel, comida y bebidas, gastos personales y compras adicionales en el estadio, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Una entrada para un asiento junto al ring",
+   "Acceso a la noche de combate de Muay Thai",
+   "Camiseta gratuita"
+  ],
+  "included": [
+   "Una entrada para un asiento junto al ring",
+   "Acceso a la noche de combate de Muay Thai",
+   "Camiseta gratuita"
+  ],
+  "notIncluded": [
+   "Traslados al hotel",
+   "Comida y bebidas",
+   "Gastos personales",
+   "Compras adicionales en el estadio"
+  ],
+  "shortDescription": "Entrada en Phuket, que incluye una entrada para un asiento junto al ring, acceso a la noche de combate de Muay Thai y camiseta gratuita. Operador: GlobalTix (Thailand) Co., Ltd., con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Entrada de Muay Thai en el Estadio de Boxeo de Patong",
+  "metaDescription": "Entrada en Phuket. Incluye: una entrada para un asiento junto al ring. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "ultimate-family-fun-day-at-froggy-s-fun-park-in-phuket": {
+  "title": "Día Definitivo de Diversión Familiar en el Froggy's Fun Park en Phuket",
+  "fullDescription": "Esta es una experiencia de 2 horas en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada y seguro completo. No incluye cargo adicional de 150 THB/adulto, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 horas",
+   "Entrada",
+   "Seguro completo"
+  ],
+  "included": [
+   "Entrada",
+   "Seguro completo"
+  ],
+  "notIncluded": [
+   "Cargo adicional de 150 THB/adulto (no participante) por acompañar a su hijo a las zonas principales con trampolines y el área de juegos."
+  ],
+  "shortDescription": "Tour en Phuket, que incluye entrada y seguro completo. Operador: Oh-Hoo, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Día Definitivo de Diversión Familiar en el Froggy's Fun Park en Phuket",
+  "metaDescription": "Tour en Phuket. Incluye: entrada y seguro completo. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "james-bond-island-phang-nga-bay-premium-yacht-tour": {
+  "title": "Tour Premium en Yate: Isla de James Bond y Bahía de Phang Nga",
+  "fullDescription": "Esta es una experiencia de 6 horas desde Phuket, centrada en Muelle de Ao Po, Yate y Isla de James Bond. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye tasa del Parque Nacional, traslado de ida y vuelta, chaleco salvavidas, agua potable y cena. No incluye gastos personales y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Muelle de Ao Po",
+   "Yate",
+   "Isla de James Bond",
+   "Isla de Hong",
+   "Duración: 6 horas",
+   "Tasa del Parque Nacional"
+  ],
+  "included": [
+   "Tasa del Parque Nacional",
+   "Traslado de ida y vuelta (si se selecciona la opción)",
+   "Chaleco salvavidas",
+   "Agua potable",
+   "Cena",
+   "Fruta de temporada"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
+  ],
+  "shortDescription": "Tour en Phuket, con Muelle de Ao Po, Yate y Isla de James Bond. Operador: One Asia Corporation, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour Premium en Yate: Isla de James Bond y Bahía de Phang Nga",
+  "metaDescription": "Tour en Phuket. Incluye: tasa del Parque Nacional y traslado de ida y vuelta. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "elephant-jungle-sanctuary-half-day-visit-with-meal-in-phuket": {
+  "title": "Visita de Medio Día al Santuario de Elefantes de la Selva con Comida en Phuket",
+  "fullDescription": "Esta es una experiencia de 3 horas en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel, guía de habla inglesa, comida tailandesa tradicional, agua potable y comida para dar de comer a los elefantes. No incluye traslado al hotel, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Phuket. Elephant Jungle Sanctuary Phuket confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 3 horas",
+   "Recogida y regreso al hotel (solo si se selecciona la opción con traslado)",
+   "Guía profesional de habla inglesa",
+   "Comida tailandesa tradicional",
+   "Agua potable",
+   "Comida para dar de comer a los elefantes"
+  ],
+  "included": [
+   "Recogida y regreso al hotel (solo si se selecciona la opción con traslado)",
+   "Guía profesional de habla inglesa",
+   "Comida tailandesa tradicional",
+   "Agua potable",
+   "Comida para dar de comer a los elefantes",
+   "Seguro de accidentes"
+  ],
+  "notIncluded": [
+   "Traslado al hotel (si se selecciona la opción «sin traslado»)"
+  ],
+  "shortDescription": "Tour de 3 horas en Phuket, que incluye recogida y regreso al hotel, guía de habla inglesa y comida tailandesa tradicional. Operador: Elephant Jungle Sanctuary Phuket, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Visita de Medio Día al Santuario de Elefantes de la Selva",
+  "metaDescription": "Tour de 3 horas en Phuket. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "hanuman-luge-ticket-combined-with-zipline-world-in-phuket": {
+  "title": "Entrada para el Tobogán Hanuman Combinada con Zipline World+ en Phuket",
+  "fullDescription": "Esta es una experiencia de 1,5 horas en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye alquiler de arnés y casco, buffet en la zona Wanon y seguro de vida. No incluye fotos de recuerdo, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1,5 horas",
+   "Alquiler de arnés y casco",
+   "Buffet en la zona Wanon (incluido solo con los paquetes combinados: World A+, World B+, World C+ y World D+)",
+   "Seguro de vida"
+  ],
+  "included": [
+   "Alquiler de arnés y casco",
+   "Buffet en la zona Wanon (incluido solo con los paquetes combinados: World A+, World B+, World C+ y World D+)",
+   "Seguro de vida"
+  ],
+  "notIncluded": [
+   "Fotos de recuerdo (disponibles para comprar)"
+  ],
+  "shortDescription": "Entrada en Phuket, que incluye alquiler de arnés y casco, buffet en la zona Wanon y seguro de vida. Operador: Hanuman World, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Entrada para el Tobogán Hanuman Combinada con Zipline World+ en Phuket",
+  "metaDescription": "Entrada en Phuket. Incluye: alquiler de arnés y casco. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "elephant-jungle-sanctuary-ethical-feeding-experience-in-phuket": {
+  "title": "Experiencia Ética de Alimentación en el Santuario de Elefantes de la Selva en Phuket",
+  "fullDescription": "Esta es una experiencia de 1 hora en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye tarifa de entrada al santuario de elefantes de la selva de Phuket, guía de habla inglesa, comida para dar de comer a los elefantes, 1 refresco gratis y seguro de accidentes. No incluye recogida y regreso al hotel, propinas, gastos personales y bebidas alcohólicas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 1 hora",
+   "Tarifa de entrada al santuario de elefantes de la selva de Phuket",
+   "Guía profesional de habla inglesa",
+   "Comida para alimentar a los elefantes (fruta/hierba)",
+   "1 refresco gratis",
+   "Seguro de accidentes"
+  ],
+  "included": [
+   "Tarifa de entrada al santuario de elefantes de la selva de Phuket",
+   "Guía profesional de habla inglesa",
+   "Comida para alimentar a los elefantes (fruta/hierba)",
+   "1 refresco gratis",
+   "Seguro de accidentes"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel (transporte)",
+   "Propinas",
+   "Gastos personales",
+   "Bebidas alcohólicas"
+  ],
+  "shortDescription": "Tour de 1 hora en Phuket, que incluye tarifa de entrada al santuario de elefantes de la selva de Phuket, guía de habla inglesa y comida para dar de comer a los elefantes. Operador: Elephant Jungle Sanctuary Phuket, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Experiencia Ética de Alimentación en el Santuario de Elefantes de la Selva en Phuket",
+  "metaDescription": "Tour de 1 hora en Phuket. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "patong-boxing-stadium-muay-thai-live-match-ticket": {
+  "title": "Entrada de Combate de Muay Thai en Directo en el Estadio de Boxeo de Patong",
+  "fullDescription": "Esta es una experiencia en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye entrada al estadio de boxeo de Patong, varios combates de Muay Thai y opciones de asiento. No incluye comida y bebidas y gastos personales, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Entrada al estadio de boxeo de Patong",
+   "Varios combates de Muay Thai",
+   "Opciones de asiento (estándar o junto al ring)"
+  ],
+  "included": [
+   "Entrada al estadio de boxeo de Patong",
+   "Varios combates de Muay Thai",
+   "Opciones de asiento (estándar o junto al ring)"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Gastos personales"
+  ],
+  "shortDescription": "Entrada en Phuket, que incluye entrada al estadio de boxeo de Patong, varios combates de Muay Thai y opciones de asiento. Operador: ranthamborecatsafari, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Entrada de Combate de Muay Thai en Directo en el Estadio de Boxeo de Patong",
+  "metaDescription": "Entrada en Phuket. Incluye: entrada al estadio de boxeo de Patong. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "one-day-trip-by-speedboat-with-lunch-in-phuket": {
+  "title": "Excursión de un Día en Lancha Rápida con Almuerzo en Phuket",
+  "fullDescription": "Esta es una experiencia de 8 horas desde Phuket, centrada en Monkey Beach, Laguna de Pileh y Cueva de los Vikingos. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía de habla inglesa, chaleco salvavidas, equipo de snorkel, agua potable y refresco. No incluye servicio de recogida desde el hotel y alojamiento, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nMcDonald's PP Island Krabi. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Monkey Beach",
+   "Laguna de Pileh",
+   "Cueva de los Vikingos",
+   "Maya Bay",
+   "Duración: 8 horas",
+   "Guía de habla inglesa"
+  ],
+  "included": [
+   "Guía de habla inglesa",
+   "Chaleco salvavidas",
+   "Equipo de snorkel",
+   "Agua potable",
+   "Refresco",
+   "Fruta",
+   "Caja de almuerzo",
+   "Tarifa del parque nacional"
+  ],
+  "notIncluded": [
+   "Servicio de recogida desde el hotel",
+   "Alojamiento"
+  ],
+  "shortDescription": "Tour de día completo en Phuket, con Monkey Beach, Laguna de Pileh y Cueva de los Vikingos. Operador: My Ticket Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Excursión de un Día en Lancha Rápida con Almuerzo en Phuket",
+  "metaDescription": "Tour de día completo en Phuket. Incluye: guía de habla inglesa. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "james-bond-island-and-canoeing-day-tour-by-boat": {
+  "title": "Excursión de un Día en Barco: Isla de James Bond y Piragüismo",
+  "fullDescription": "Esta es una experiencia de 7 horas en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nLa bahía de Phang Nga es un paisaje kárstico hundido de unas 40 torres calizas que emergen de aguas verdes y poco profundas entre Phuket y Krabi, famoso por la película de Bond de 1974 rodada en Khao Phing Kan, la isla que hoy se llama isla de James Bond, pequeña, concurrida y que merece veinte minutos. La razón para venir es el piragüismo por las cuevas marinas: con la marea baja, las canoas hinchables se cuelan por túneles hasta lagunas escondidas (los hongs) dentro de las islas, rodeadas de acantilados y manglares, y es la marea la que decide el recorrido. Koh Panyee, el pueblo pesquero musulmán sobre pilotes, es la parada de la comida. Las salidas en barca de cola larga desde el lado de Phang Nga son más tranquilas que las lanchas rápidas desde Phuket.\n\nEl precio incluye recogida y regreso al hotel en Phuket, entrada al parque nacional, seguro de accidentes, guía y tripulación y agua potable. No incluye gastos propios, bebidas alcohólicas, toalla y propinas, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Phuket. One Asia Corporation confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 7 horas",
+   "Recogida y regreso al hotel en Phuket",
+   "Entrada al parque nacional",
+   "Seguro de accidentes",
+   "Guía y tripulación con experiencia",
+   "Agua potable, refrescos, café y té"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Phuket",
+   "Entrada al parque nacional",
+   "Seguro de accidentes",
+   "Guía y tripulación con experiencia",
+   "Agua potable, refrescos, café y té",
+   "Almuerzo bufé tailandés",
+   "Fruta de temporada",
+   "Chaleco salvavidas",
+   "Pastillas para el mareo (a petición)"
+  ],
+  "notIncluded": [
+   "Gastos propios",
+   "Bebidas alcohólicas",
+   "Toalla",
+   "Propinas"
+  ],
+  "shortDescription": "Tour de día completo en Phuket, que incluye recogida y regreso al hotel en Phuket, entrada al parque nacional y seguro de accidentes. Operador: One Asia Corporation, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Excursión de un Día en Barco: Isla de James Bond y Piragüismo",
+  "metaDescription": "Tour de día completo en Phuket. Reserva directa con el operador local y confirmación antes de cerrar la"
+ },
+ "koh-yao-yai-noi-ko-hong-and-island-hopping-by-long-tail-boat-in-phuket": {
+  "title": "Koh Yao Yai/Noi: Ko Hong y Recorrido de Islas en Barco Longtail en Phuket",
+  "fullDescription": "Esta es una experiencia de 4 horas en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel, barca de cola larga, comida, equipo de snorkel y chaleco salvavidas. No incluye entrada del parque nacional, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nKo Yao District. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 4 horas",
+   "Recogida y regreso al hotel",
+   "Barca de cola larga",
+   "Comida",
+   "Equipo de snorkel",
+   "Chaleco salvavidas"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Barca de cola larga",
+   "Comida",
+   "Equipo de snorkel",
+   "Chaleco salvavidas",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada al parque nacional (300 THB por adulto)"
+  ],
+  "shortDescription": "Tour de medio día en Phuket, que incluye recogida y regreso al hotel, barca de cola larga y comida. Operador: Green Group Lanta Travel, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Koh Yao Yai/Noi: Ko Hong y Recorrido de Islas en Barco Longtail en Phuket",
+  "metaDescription": "Tour de medio día en Phuket. Incluye: recogida y regreso al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "bangkok-long-boat-canal-a-big-buddha-and-culture-markets-tour-phuket": {
+  "title": "Tour por los Canales de Bangkok en Barco Largo, Gran Buda y Mercados Culturales (Phuket)",
+  "fullDescription": "Esta es una experiencia de 2 horas en Phuket. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye barco longtail, guía turístico autorizado de habla inglesa y agua potable. No incluye bebidas alcohólicas, comida y propina para el guía, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nEl punto de encuentro y la hora se envían por correo en cuanto se confirma la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Duración: 2 horas",
+   "Barco longtail",
+   "Guía turístico autorizado de habla inglesa",
+   "Agua potable"
+  ],
+  "included": [
+   "Barco longtail",
+   "Guía turístico autorizado de habla inglesa",
+   "Agua potable"
+  ],
+  "notIncluded": [
+   "Bebidas alcohólicas",
+   "Comida",
+   "Propina para el guía (opcional)"
+  ],
+  "shortDescription": "Tour en Phuket, que incluye barco longtail, guía turístico autorizado de habla inglesa y agua potable. Operador: Best Local Experiences, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour por los Canales de Bangkok en Barco Largo, Gran Buda y Mercados Culturales (Phuket)",
+  "metaDescription": "Tour en Phuket. Incluye: barco longtail. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
+ "grand-palace-wat-arun-big-buddha-small-group-tour": {
+  "title": "Tour en Grupo Pequeño: Gran Palacio, Wat Arun y Gran Buda",
+  "fullDescription": "Esta es una experiencia de 8 horas desde Phuket, centrada en Wat Arun, Ferri y Gran Palacio de Bangkok. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye guía, entradas al Gran Palacio, el Wat Arun y el gran, recogida y regreso al hotel opcionales, almuerzo buffet opcional y agua potable. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Phuket. OTO TRIP SERVICE CO., LTD confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
+  "highlights": [
+   "Wat Arun",
+   "Ferri",
+   "Gran Palacio de Bangkok",
+   "Restaurante local",
+   "Duración: 8 horas",
+   "Guía de habla inglesa"
+  ],
+  "included": [
+   "Guía de habla inglesa",
+   "Entradas al Gran Palacio, el Wat Arun y el gran Buda",
+   "Recogida y regreso al hotel opcionales",
+   "Almuerzo buffet opcional",
+   "Agua potable"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour de día completo en Phuket, con Wat Arun, Gran Palacio de Bangkok y Restaurante local. Operador: OTO TRIP SERVICE CO., LTD, con reserva directa en lugar de a través de un revendedor.",
+  "metaTitle": "Tour en Grupo Pequeño: Gran Palacio, Wat Arun y Gran Buda",
+  "metaDescription": "Tour de día completo en Phuket. Incluye: guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
+ },
  "premium-phi-phi-islands-day-trip-with-lunch-and-snorkel": {
   "title": "Excursión premium de un día a las islas Phi Phi con almuerzo y buceo de superficie",
   "fullDescription": "Esta es una experiencia de 6,5 horas en Krabi. Reservamos tu plaza con el operador antes de dar la reserva por definitiva.\n\nEl precio incluye recogida y regreso al hotel desde Ao Nang, Ao Nam Mao, Khlong, guía local, delicioso almuerzo bufé, agua potable y fruta de temporada. No incluye entrada al parque nacional, así que cuenta con ese gasto aparte. Todo lo incluido figura al completo en esta página; si algo no aparece en esa lista, da por hecho que no entra en el precio.\n\nRecogida en el hotel en Krabi. Love Nature Krabi Travel and Tours confirma la hora de recogida y el punto exacto en cuanto se registra la reserva. Necesitamos al menos un día de antelación y confirmamos la fecha antes de dar la reserva por definitiva. Si no se puede confirmar la fecha, te lo decimos y te devolvemos el importe en lugar de dejarte esperando.",
@@ -23715,7 +25034,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Sin recogida desde Phuket, Koh Lanta o Koh Phi Phi Don",
    "Sin recogida desde alojamientos en colinas u hoteles remotos en la zona de Krabi de difícil acceso para los traslados de hotel estándar"
   ],
-  "shortDescription": "Tour de día completo en Krabi, con Lancha rápida, Bahía de Loh Samah, Phi Phi Islands y Maya Bay. Operador: Thailand Escapes, con reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Tour de día completo en Krabi, con Lancha rápida, Bahía de Loh Samah, Islas Phi Phi y Maya Bay. Operador: Thailand Escapes, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "El susurro de Krabi: Phi Phi y 4 islas, tour en lancha rápida al atardecer, por un operador local",
   "metaDescription": "Tour de día completo en Krabi. Incluye: traslado de ida y vuelta al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
@@ -27537,7 +28856,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Tasas de entrada al Parque Nacional de Hat Noppharat Thara - Mu Ko Phi Phi (400 THB por adulto y 200 THB por niño)"
   ],
-  "shortDescription": "Tour de día completo en Krabi, con Lancha rápida, Bahía de Loh Samah, Phi Phi Islands y Maya Bay. Operador: Wangsai Speed Boat, con reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Tour de día completo en Krabi, con Lancha rápida, Bahía de Loh Samah, Islas Phi Phi y Maya Bay. Operador: Wangsai Speed Boat, con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Islas Phi Phi y bahía de Maya en lancha rápida con almuerzo",
   "metaDescription": "Tour de día completo en Krabi. Incluye: traslado de hotel de ida y de vuelta. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
@@ -27908,7 +29227,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Servicio de recogida desde hoteles en Koh Lanta, Koh Phi Phi y Phuket",
    "Obligatorio: tasa de entrada al parque nacional (400 THB por adulto y 200 THB por niño, a pagar en efectivo el día de la excursión)"
   ],
-  "shortDescription": "Tour de día completo en Krabi, con Lancha rápida, Bahía de Loh Samah, Phi Phi Islands y Maya Bay. Operador: Krabi Sunrise Tours Co., Ltd., con reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Tour de día completo en Krabi, con Lancha rápida, Bahía de Loh Samah, Islas Phi Phi y Maya Bay. Operador: Krabi Sunrise Tours Co., Ltd., con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Isla de Phi Phi en lancha rápida con almuerzo bufé",
   "metaDescription": "Tour de día completo en Krabi. Incluye: traslado de ida y vuelta al hotel. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
@@ -27991,7 +29310,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Servicio de recogida desde hoteles en Koh Lanta, Koh Phi Phi y Phuket",
    "Obligatorio: tasa de entrada al parque nacional (400 THB por adulto y 200 THB por niño, a pagar en efectivo el día de la excursión)"
   ],
-  "shortDescription": "Tour en Krabi, con Lancha rápida, Tup Island and Loh Samah Bay y Phi Phi Islands. Operador: Krabi Sunrise Tours Co., Ltd., con reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Tour en Krabi, con Lancha rápida, Tup Island and Loh Samah Bay y Islas Phi Phi. Operador: Krabi Sunrise Tours Co., Ltd., con reserva directa en lugar de a través de un revendedor.",
   "metaTitle": "Madrugadores, isla de Phi Phi y 4 islas en lancha rápida",
   "metaDescription": "Tour en Krabi. Incluye: traslado de ida y vuelta al hotel y guía. Reserva directa con el operador local y confirmación antes de cerrar la reserva."
  },
