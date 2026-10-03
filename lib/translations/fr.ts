@@ -43232,6 +43232,92 @@ export const FR_TOURS: Record<string, TourT> = {
    "Transfert privé"
   ]
  },
+ "krabi-islands-2-snorkeling-stops-and-phra-nang-cave-by-local-operator": {
+  "title": "Îles de Krabi : 2 arrêts de plongée avec tuba et la grotte de Phra Nang par un opérateur local",
+  "metaTitle": "Krabi : 2 arrêts de tuba et grotte de Phra Nang",
+  "metaDescription": "Excursion d'une demi-journée à Krabi, incluant Ao Nang. Organisée par Bang Dee Travel and Tours, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une demi-journée à Krabi, incluant Ao Nang. Organisée par Bang Dee Travel and Tours, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Un circuit insulaire de six heures avec deux véritables arrêts de plongée avec tuba et la plage de la grotte de Phra Nang, sur un longtail traditionnel avec un équipage local.\n\nDeux arrêts de plongée avec tuba plutôt qu'un seul fait toute la différence ici. La plupart des excursions insulaires de Krabi intègrent la plongée avec tuba autour du temps de plage ; celle-ci en fait la moitié de la journée. Le récif de Krabi est peu profond et proche des îles, donc vous n'avez pas besoin d'être un bon nageur ni de vous éloigner, et à plusieurs endroits, on peut tenir debout.\n\nLa plage de la grotte de Phra Nang se trouve sur la péninsule de Railay, qui n'a aucun accès routier, donc on ne peut l'atteindre que par bateau. La plage se trouve sous une falaise calcaire en surplomb, et à une extrémité se trouve le sanctuaire où les pêcheurs laissent des offrandes en bois sculpté à un esprit qu'ils croient les protéger en mer. Il est toujours en usage plutôt que préservé pour les visiteurs.\n\nL'équipage se compose de bateliers locaux expérimentés plutôt que du personnel tournant d'une agence de voyage. Sur cette côte, cela se voit dans où ils mouillent et quel arrêt ils choisissent quand le vent tourne.\n\nLa prise en charge couvre Ao Nang et Klong Muang, ce qui vaut la peine de noter si vous résidez hors de la bande principale : beaucoup d'excursions en bateau à Krabi ne prennent en charge que depuis Ao Nang.\n\nSix heures est une durée confortable. Assez longue pour nager réellement aux deux arrêts de tuba et sur les plages, assez courte pour laisser votre soirée libre.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la prise en charge et le retour à l'hôtel depuis Ao Nang et Klong Muang, le longtail traditionnel, un équipage local expérimenté et un guide local.\n\nLes frais de parc national sont perçus à la jetée sauf confirmation contraire. Un jour de préavis minimum.",
+  "highlights": [
+   "Deux arrêts de plongée avec tuba complets, pas un seul intégré autour des plages",
+   "Assez peu profond pour tenir debout à plusieurs endroits",
+   "Plage de Phra Nang, accessible uniquement par bateau",
+   "Équipage local expérimenté qui lit le vent",
+   "Prise en charge depuis Klong Muang ainsi qu'Ao Nang"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel depuis Ao Nang et Klong Muang",
+   "Bateau à longue queue traditionnel",
+   "Équipage de bateau local expérimenté",
+   "Guide local",
+   "Déjeuner buffet",
+   "Eau potable",
+   "Équipement de plongée avec tuba",
+   "Gilet de sauvetage",
+   "Assurance voyage",
+   "Visite de 5 îles",
+   "Deux arrêts de plongée avec tuba",
+   "Possibilités de baignade"
+  ],
+  "notIncluded": [
+   "Frais d'entrée du parc national",
+   "Serviettes",
+   "Dépenses personnelles",
+   "Tout service ou dépense non spécifiquement mentionné comme compris"
+  ]
+ },
+ "krabi-province-city-tour-with-1-hour-beach-horse-ride-by-local-operator": {
+  "title": "Province de Krabi : visite de la ville avec 1 heure d'équitation sur la plage par un opérateur local",
+  "metaTitle": "Krabi : visite de la ville et équitation sur la plage",
+  "metaDescription": "Excursion d'une demi-journée à Krabi, incluant prise en charge et retour à l'hôtel et 1 heure d'équitation. Organisée par Anda Krabi Seatour, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une demi-journée à Krabi, incluant prise en charge et retour à l'hôtel et 1 heure d'équitation. Organisée par Anda Krabi Seatour, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "La ville de Krabi et une balade à cheval sur la plage en une demi-journée, pour ceux qui résident à Ao Nang et n'ont pas encore vu la province au-delà.\n\nLa plupart des visiteurs considèrent Krabi comme un simple point de départ pour les bateaux et ne vont jamais dans la ville elle-même, qui se trouve à 20 kilomètres à l'intérieur des terres sur la rivière. C'est une capitale provinciale active plutôt qu'une station touristique : une promenade le long de la rivière, un marché matinal, et le Wat Kaew Korawaram se dressant blanc au-dessus d'un long escalier. L'échelle est modeste et le rythme ordinaire, et ce contraste avec Ao Nang est précisément la raison d'y aller.\n\nLa balade à cheval dure une heure sur le sable, organisée pour que les chevaux travaillent dans la partie la plus fraîche de la journée. Aucune expérience d'équitation n'est présumée et les accompagnateurs restent avec vous tout le long ; le rythme est le pas, avec la possibilité d'aller plus vite si vous êtes à l'aise. Monter à cheval sur une plage avec les pitons calcaires au loin est le genre de chose qui photographie bien mieux qu'elle ne le laisse entendre.\n\nAnda Krabi Seatour organise cette activité et nous réservons directement avec eux, votre place est donc retenue auprès de l'opérateur avant que la réservation ne soit définitive. Le prix comprend la prise en charge et le retour à l'hôtel, l'heure d'équitation, la visite de la ville et un guide local. Les pourboires ne sont pas compris, prévoyez-les donc séparément.\n\nTrois heures et demie au total, un jour de préavis minimum.",
+  "highlights": [
+   "La ville de Krabi, que la plupart des visiteurs d'Ao Nang ne voient jamais",
+   "Le Wat Kaew Korawaram et la promenade le long de la rivière",
+   "Une heure à cheval le long de la plage",
+   "Aucune expérience d'équitation nécessaire, accompagnateurs présents tout le long",
+   "Prise en charge, retour à l'hôtel et guide local compris"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "1 heure d'équitation",
+   "Visite de la ville",
+   "Guide local"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "4-islands-sunset-longtail-boat-tour-with-bbq-dinner": {
+  "title": "Excursion en bateau à longue queue aux 4 îles au coucher du soleil avec dîner barbecue",
+  "metaTitle": "4 îles au coucher du soleil en longtail, dîner barbecue",
+  "metaDescription": "Excursion d'une demi-journée à Krabi, incluant prise en charge et retour à l'hôtel (selon l'option choisie) et dîner. Organisée par Anda Krabi Seatour, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une demi-journée à Krabi, incluant prise en charge et retour à l'hôtel (selon l'option choisie) et dîner. Organisée par Anda Krabi Seatour, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Les quatre îles dans la seconde moitié de la journée, se terminant par un barbecue tandis que la lumière décline.\n\nLes bateaux du matin partent tous d'Ao Nang dans la même heure et atteignent chaque plage ensemble. Partir à midi signifie arriver aux derniers arrêts tandis que la flotte rentre chez elle, donc les deux dernières îles de cette excursion sont plus tranquilles que les mêmes îles ne l'étaient quatre heures plus tôt.\n\nLe circuit couvre Poda, l'île du Poulet, Tup et Mor. Thale Waek, la Mer Séparée, est le banc de sable qui relie Tup et Mor à mesure que la marée descend, et disparaît quand elle revient, donc une excursion d'après-midi à marée descendante marche sur du sable que les bateaux du matin ont survolé.\n\nLa plongée avec tuba se fait sur des coraux peu profonds proches des plages, assez accommodants pour ne pas nécessiter d'être un nageur assuré.\n\nLe coucher de soleil se prend depuis l'eau avec les pitons calcaires d'Ao Nang devant vous. Le calcaire conserve la couleur longtemps après que le soleil soit couché, donc la lumière dure plus longtemps que l'horloge ne le suggère.\n\nLe dîner est un barbecue plutôt qu'un panier-repas.\n\nUne chose à vérifier lors de la réservation : la prise en charge à l'hôtel dépend de l'option choisie. Confirmez qu'elle est comprise dans la vôtre, ou déterminez comment vous rendre à la jetée, car les jetées d'Ao Nang et de la ville de Krabi sont à vingt minutes l'une de l'autre.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend le dîner, les fruits, l'eau potable, l'équipement de plongée avec tuba et les gilets de sauvetage, avec la prise en charge et le retour à l'hôtel selon l'option choisie.\n\nSix heures. Les frais de parc national sont perçus à la jetée sauf confirmation contraire. Un jour de préavis minimum.",
+  "highlights": [
+   "Départ à midi, arrivant tandis que la flotte du matin part",
+   "Le banc de sable de Thale Waek à marée descendante",
+   "Plongée avec tuba peu profonde adaptée aux nageurs peu assurés",
+   "Coucher de soleil sur les pitons calcaires d'Ao Nang depuis l'eau",
+   "Vérifiez si la prise en charge à l'hôtel est comprise dans votre option"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel (selon l'option choisie)",
+   "Dîner",
+   "Fruits",
+   "Eau potable",
+   "Équipement de plongée avec tuba",
+   "Gilets de sauvetage",
+   "Guide agréé",
+   "Assurance accident"
+  ],
+  "notIncluded": [
+   "Frais d'entrée du parc national (200 THB par adulte, 100 THB par enfant de 3 à 10 ans)",
+   "Boissons alcoolisées",
+   "Déjeuner"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Croisière en catamaran entre 3 îles de Pattaya avec déjeuner buffet thaïlandais",
   "metaTitle": "Pattaya : catamaran 3 îles, déjeuner buffet thaïlandais",

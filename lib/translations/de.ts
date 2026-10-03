@@ -43232,6 +43232,92 @@ export const DE_TOURS: Record<string, TourT> = {
    "Privater Transfer"
   ]
  },
+ "krabi-islands-2-snorkeling-stops-and-phra-nang-cave-by-local-operator": {
+  "title": "Krabi-Inseln: 2 Schnorchelstopps und die Phra-Nang-Höhle von lokalem Anbieter",
+  "metaTitle": "Krabi: 2 Schnorchelstopps und Phra-Nang-Höhle",
+  "metaDescription": "Halbtagesausflug in Krabi, mit Ao Nang. Organisiert von Bang Dee Travel and Tours, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbtagesausflug in Krabi, mit Ao Nang. Organisiert von Bang Dee Travel and Tours, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Ein sechsstündiger Inselrundgang mit zwei richtigen Schnorchelstopps und dem Phra-Nang-Höhlenstrand, auf einem traditionellen Longtail-Boot mit lokaler Crew.\n\nZwei Schnorchelstopps statt einem machen hier den Unterschied. Die meisten Krabi-Inseltouren passen das Schnorcheln um die Strandzeit herum ein; diese behandelt es als die halbe Tagesdauer. Krabis Riff liegt flach und nah an den Inseln, daher müssen Sie kein starker Schwimmer sein oder tiefer gehen als es Ihnen behagt, und an mehreren Stellen kann man stehen.\n\nDer Phra-Nang-Höhlenstrand liegt auf der Railay-Halbinsel, die überhaupt keinen Straßenzugang hat, daher nur per Boot erreichbar. Der Strand liegt unter einer überhängenden Kalksteinklippe, und an einem Ende befindet sich der Schrein, an dem Fischer geschnitzte Holzopfer für einen Geist hinterlassen, den sie für ihren Schutz auf See verantwortlich machen. Er wird noch genutzt statt für Besucher konserviert.\n\nDie Crew besteht aus erfahrenen lokalen Bootsführern statt dem wechselnden Personal einer Reiseagentur. An dieser Küste zeigt sich das darin, wo sie ankern und welchen Stopp sie wählen, wenn der Wind dreht.\n\nDie Abholung deckt Ao Nang und Klong Muang ab, was zu beachten ist, wenn Sie außerhalb der Hauptmeile wohnen: Viele Bootsausflüge in Krabi holen nur ab Ao Nang ab.\n\nSechs Stunden sind eine angenehme Länge. Lang genug, um an beiden Schnorchelstopps und an den Stränden richtig zu schwimmen, kurz genug, um Ihren Abend frei zu lassen.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hotelabholung und -rückfahrt ab Ao Nang und Klong Muang, das traditionelle Longtail-Boot, eine erfahrene lokale Crew und einen lokalen Guide.\n\nNationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Zwei vollständige Schnorchelstopps, nicht einer um die Strände herum eingepasst",
+   "Flach genug, um an mehreren Stellen zu stehen",
+   "Phra-Nang-Strand, nur per Boot erreichbar",
+   "Erfahrene lokale Crew, die den Wind liest",
+   "Abholung ab Klong Muang sowie Ao Nang"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt ab Ao Nang und Klong Muang",
+   "Traditionelles Longtail-Boot",
+   "Erfahrene lokale Bootscrew",
+   "Lokaler Guide",
+   "Buffet-Mittagessen",
+   "Trinkwasser",
+   "Schnorchelausrüstung",
+   "Schwimmweste",
+   "Reiseversicherung",
+   "Besuch von 5 Inseln",
+   "Zwei Schnorchelstopps",
+   "Schwimmmöglichkeiten"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittsgebühr",
+   "Handtücher",
+   "Persönliche Ausgaben",
+   "Jede nicht ausdrücklich als inklusive genannte Leistung oder Ausgabe"
+  ]
+ },
+ "krabi-province-city-tour-with-1-hour-beach-horse-ride-by-local-operator": {
+  "title": "Provinz Krabi: Stadtrundfahrt mit 1-stündigem Strand-Ausritt von lokalem Anbieter",
+  "metaTitle": "Krabi: Stadtrundfahrt und Ausritt am Strand",
+  "metaDescription": "Halbtagesausflug in Krabi, mit Hotelabholung und -rückfahrt und 1-stündigem Ausritt. Organisiert von Anda Krabi Seatour, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbtagesausflug in Krabi, mit Hotelabholung und -rückfahrt und 1-stündigem Ausritt. Organisiert von Anda Krabi Seatour, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Krabi Town und ein Ausritt am Strand an einem halben Tag, für Leute, die in Ao Nang wohnen und die Provinz darüber hinaus noch nicht gesehen haben.\n\nDie meisten Besucher betrachten Krabi nur als Ausgangspunkt für Boote und fahren niemals in die Stadt selbst, die 20 Kilometer landeinwärts am Fluss liegt. Es ist eine aktive Provinzhauptstadt statt eines Resorts: ein Uferweg, ein Morgenmarkt, und der Wat Kaew Korawaram, der weiß über einer langen Treppe aufragt. Der Maßstab ist klein und das Tempo gewöhnlich, und genau dieser Kontrast zu Ao Nang ist der Grund hinzufahren.\n\nDer Ausritt dauert eine Stunde auf dem Sand, so organisiert, dass die Pferde im kühleren Teil des Tages arbeiten. Es wird keine Reiterfahrung voraussetzt, und die Betreuer bleiben die ganze Zeit bei Ihnen; das Tempo ist Schritt, mit der Option auf mehr, wenn Sie sich sicher fühlen. Auf einem Strand mit den Karstfelsen vor der Küste zu reiten, fotografiert sich weit besser, als es sich anhört.\n\nAnda Krabi Seatour organisiert dies und wir buchen direkt mit ihnen, sodass Ihr Platz beim Anbieter gesichert wird, bevor die Buchung endgültig ist. Der Preis umfasst Hotelabholung und -rückfahrt, den einstündigen Ausritt, die Stadtrundfahrt und einen lokalen Guide. Trinkgelder sind nicht inklusive, planen Sie diese also separat ein.\n\nInsgesamt dreieinhalb Stunden, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Krabi Town, das die meisten Ao-Nang-Besucher nie sehen",
+   "Wat Kaew Korawaram und der Uferweg",
+   "Eine Stunde zu Pferd am Strand entlang",
+   "Keine Reiterfahrung nötig, Betreuer bleiben bei Ihnen",
+   "Hotelabholung, -rückfahrt und lokaler Guide inklusive"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt",
+   "1-stündiger Ausritt",
+   "Stadtrundfahrt",
+   "Lokaler Guide"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "4-islands-sunset-longtail-boat-tour-with-bbq-dinner": {
+  "title": "4-Insel-Longtail-Boot-Tour zum Sonnenuntergang mit Barbecue-Abendessen",
+  "metaTitle": "4 Inseln zum Sonnenuntergang per Longtail, Barbecue",
+  "metaDescription": "Halbtagesausflug in Krabi, mit Hotelabholung und -rückfahrt (je nach gewählter Option) und Abendessen. Organisiert von Anda Krabi Seatour, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbtagesausflug in Krabi, mit Hotelabholung und -rückfahrt (je nach gewählter Option) und Abendessen. Organisiert von Anda Krabi Seatour, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Die vier Inseln in der zweiten Tageshälfte, abgeschlossen mit einem Barbecue, während das Licht schwindet.\n\nDie Morgenboote fahren alle innerhalb derselben Stunde von Ao Nang ab und erreichen jeden Strand zusammen. Mittags aufzubrechen bedeutet, die späteren Stopps zu erreichen, während die Flotte heimkehrt, sodass die letzten beiden Inseln dieser Tour ruhiger sind als dieselben Inseln vier Stunden zuvor.\n\nDie Route umfasst Poda, Chicken Island, Tup und Mor. Thale Waek, das geteilte Meer, ist die Sandbank, die Tup und Mor verbindet, während die Flut sinkt, und bei der Rückkehr verschwindet, sodass ein Nachmittagsausflug bei fallender Flut auf Sand hinausgeht, über den die Morgenboote hinwegfuhren.\n\nGeschnorchelt wird über flachen Korallen nahe den Stränden, nachsichtig genug, dass man kein sicherer Schwimmer sein muss.\n\nDer Sonnenuntergang wird vom Wasser aus mit den Ao-Nang-Karstfelsen vor sich genommen. Kalkstein hält die Farbe lange nach Sonnenuntergang, sodass das Licht länger anhält, als die Uhr vermuten lässt.\n\nDas Abendessen ist ein Barbecue statt einer Lunchbox.\n\nEine Sache, die man bei der Buchung prüfen sollte: Die Hotelabholung hängt davon ab, welche Option Sie wählen. Bestätigen Sie, dass sie in Ihrer enthalten ist, oder klären Sie, wie Sie zum Pier kommen, denn die Piers von Ao Nang und Krabi Town sind zwanzig Minuten voneinander entfernt.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Abendessen, Obst, Trinkwasser, Schnorchelausrüstung und Schwimmwesten, mit Hotelabholung und -rückfahrt je nach gewählter Option.\n\nSechs Stunden. Nationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Mittagsstart, Ankunft während die Morgenflotte abfährt",
+   "Thale-Waek-Sandbank bei fallender Flut",
+   "Flaches Schnorcheln, geeignet für schwache Schwimmer",
+   "Sonnenuntergang über den Ao-Nang-Karstfelsen vom Wasser aus",
+   "Prüfen Sie, ob die Hotelabholung in Ihrer gewählten Option enthalten ist"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt (je nach gewählter Option)",
+   "Abendessen",
+   "Obst",
+   "Trinkwasser",
+   "Schnorchelausrüstung",
+   "Schwimmwesten",
+   "Lizenzierter Guide",
+   "Unfallversicherung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittsgebühr (200 THB pro Erwachsenem, 100 THB pro Kind von 3-10 Jahren)",
+   "Alkoholische Getränke",
+   "Mittagessen"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Pattaya 3-Insel-Katamaran-Kreuzfahrt mit thailändischem Buffet-Mittagessen",
   "metaTitle": "Pattaya: Katamaran 3 Inseln, thailändisches Buffet-Mittagessen",
