@@ -42390,6 +42390,85 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "koh-larn-coral-island-snorkeling-guided-tour": {
+  "title": "Tagesausflug Koh Larn und Affeninsel mit Jetski und Schnorcheln",
+  "metaTitle": "Koh Larn und Affeninsel, Jetski und Schnorcheln",
+  "metaDescription": "Ein geführter Ganztages-Inselausflug nach Koh Larn und zur Affeninsel mit Schnorcheln und einer Jetski-Fahrt inklusive: vier Strände, klares Wasser, und wilde Affen auf dem Weg.",
+  "shortDescription": "Ein geführter Ganztages-Inselausflug nach Koh Larn und zur Affeninsel mit Schnorcheln und einer Jetski-Fahrt inklusive: vier Strände, klares Wasser, und wilde Affen auf dem Weg.",
+  "fullDescription": "Nur einen kurzen Fährsprung vom Bali-Hai-Pier in Pattaya entfernt, liefert Koh Larn, oft Coral Island genannt, die Postkartenversion thailändischen Strandlebens, die das Festland nicht ganz erreicht: pudrig weißer Sand, Wasser klar genug, um die eigenen Zehen zu sehen, und ein langsameres Tempo, das die Stadt weit entfernt erscheinen lässt. Dieser geführte Tagesausflug reiht die besten Strände der Insel aneinander, führt im Laufe des Tages durch Tawaen, Samae, Tien und Nual, jeder mit eigenem Charakter, von lebendig und gut ausgestattet bis ruhig und schattig.\n\nZwei Aktivitäten sind fest im Preis enthalten statt als Zusatzverkauf: eine Schnorchelsession über flachen Korallen, wo sich tropische Fische in leichter Reichweite auch für Erstlings-Schnorchler versammeln, und eine Jetski-Fahrt, die Ihnen erlaubt, über die Bucht aufzudrehen, als Geschwindigkeitsschub zwischen den Strandstopps. Rund um Nual Beach, lokal Monkey Beach genannt, halten sich Truppen wilder Makaken an Ufer und Felsen auf, unterhaltsam zu beobachten, solange man seine Snacks gut verstaut lässt.\n\nMit Hin- und Rück-Hoteltransfer ab Pattaya, Fährüberfahrten und einem Guide, der die Logistik den ganzen Tag übernimmt, passt dieser Ausflug für alle, die ein vollständiges Inselerlebnis wollen, ohne selbst Boote, Mietausrüstung und Strandtransport zusammenstellen zu müssen.",
+  "highlights": [
+   "Vier Strände auf Koh Larn an einem Tag: Tawaen, Samae, Tien und Nual",
+   "Jetski-Fahrt im Preis inklusive",
+   "Schnorchelsession über flachen Korallen mit tropischen Fischen",
+   "Wilde Makaken am Monkey Beach",
+   "Hotelabholung, Fährüberfahrten und Guide vollständig für Sie organisiert"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Pattaya",
+   "Hin- und Rückfähre ab Bali-Hai-Pier",
+   "Englischsprachiger Guide",
+   "Schnorchelsession mit Ausrüstung",
+   "Jetski-Fahrt",
+   "Strandtransfers auf der Insel"
+  ],
+  "notIncluded": [
+   "Mittagessen und Getränke",
+   "Strandstuhl-Vermietung an manchen Stränden",
+   "Trinkgelder für Guide und Crew",
+   "Reiseversicherung"
+  ]
+ },
+ "sanctuary-of-truth-naklua-pattaya-spiritual-tour": {
+  "title": "Pattaya: Eintrittskarte für den Holztempel Heiligtum der Wahrheit",
+  "metaTitle": "Pattaya: Eintrittskarte Heiligtum der Wahrheit",
+  "metaDescription": "Treten Sie ein in Pattayas außergewöhnlichen, vollständig aus Holz gefertigten Tempel an der Küste: eine Eintrittskarte zum Heiligtum der Wahrheit und seinen endlosen handgeschnitzten Details.",
+  "shortDescription": "Treten Sie ein in Pattayas außergewöhnlichen, vollständig aus Holz gefertigten Tempel an der Küste: eine Eintrittskarte zum Heiligtum der Wahrheit und seinen endlosen handgeschnitzten Details.",
+  "fullDescription": "Mehr als 100 Meter über der Küste der Naklua-Bucht aufragend, ist das Heiligtum der Wahrheit anders als jedes andere Gebäude in Thailand, ein monumentaler Tempel, vollständig aus Holz errichtet, ohne einen einzigen Metallnagel, und innen wie außen bedeckt mit handgeschnitzten Figuren aus thailändischer, khmerischer, chinesischer und indischer Tradition. Der Bau begann 1981 und dauert bis heute an, sodass Sie bei jedem Besuch wahrscheinlich Meisterschnitzer bei der Arbeit sehen, die neue Skulpturen genauso meißeln wie ihre Vorgänger vor Jahrzehnten.\n\nDiese Eintrittskarte deckt den Zugang zum Heiligtum und seinem Gelände am Meer ab. Im Inneren erzählt jede Fläche eine Geschichte: Gottheiten, himmlische Wesen und mythologische Szenen klettern in schwindelerregenden Detailschichten die Säulen und Decken hinauf, alles gedacht, um eine philosophische Vision der Beziehung der Menschheit zum Universum auszudrücken. Die Umgebung verstärkt den Effekt: Der Tempel steht direkt am Wasser, und die Blicke auf seine geschnitzten Türme gegen das Meer zählen zu den meistfotografierten in Pattaya.\n\nDie meisten Besucher verbringen etwa 90 Minuten bis zwei Stunden hier, schließen sich einer der regelmäßigen geführten Rundgänge an, die im Eintritt enthalten sind, und erkunden anschließend das Gelände in ihrem eigenen Tempo. Schutzhelme werden dort bereitgestellt, wo erforderlich, da Teile der Struktur weiterhin eine aktive Schnitzbaustelle sind.",
+  "highlights": [
+   "Monumentaler Tempel vollständig aus Holz, ohne Metallnägel",
+   "Tausende handgeschnitzte Figuren aus vier asiatischen Traditionen",
+   "Beobachten Sie Meisterschnitzer, die noch heute an der Struktur arbeiten",
+   "Dramatische Lage am Meer in der Naklua-Bucht",
+   "Regelmäßige geführte Rundgänge im Eintritt inklusive"
+  ],
+  "included": [
+   "Eintrittskarte für das Heiligtum der Wahrheit",
+   "Zugang zum Tempelinneren und dem Gelände am Meer",
+   "Geplanter geführter Rundgang und Sicherheitsbriefing",
+   "Schutzhelm, wo erforderlich"
+  ],
+  "notIncluded": [
+   "Transport zum und vom Heiligtum",
+   "Optionale Aktivitäten auf dem Gelände (Elefantenreiten, Bootsfahrten, Shows)",
+   "Speisen und Getränke",
+   "Trinkgelder"
+  ]
+ },
+ "sina-beach-club-pattaya-entry-ticket": {
+  "title": "Pattaya: Sina Beach Club Tagespass mit Zugang zum Infinity-Pool",
+  "metaTitle": "Pattaya: Sina Beach Club Tagespass, Infinity-Pool",
+  "metaDescription": "Ein Ganztagespass für Pattayas Sina Beach Club: entspannen Sie am 25 Meter langen Infinity-Pool, genießen Sie 360-Grad-Meerblick, und erleben Sie Essen, Getränke und Live-DJ-Sets.",
+  "shortDescription": "Ein Ganztagespass für Pattayas Sina Beach Club: entspannen Sie am 25 Meter langen Infinity-Pool, genießen Sie 360-Grad-Meerblick, und erleben Sie Essen, Getränke und Live-DJ-Sets.",
+  "fullDescription": "Der Sina Beach Club ist einer der elegantesten Strand-Treffpunkte Pattayas, ein mehrstöckiges Lokal, gebaut für lange, entspannte Tage am Wasser. Das Herzstück ist ein 25 Meter langer Infinity-Pool, der scheinbar direkt ins Meer übergeht, und von den oberen Decks aus haben Sie einen echten 360-Grad-Blick über Ozean und Küste, die Art von Kulisse, die selbst einen gewöhnlichen Nachmittag zu einem besonderen Anlass macht.\n\nDieser Tagespass deckt Ihren Eintritt und den Zugang zu Pool- und Lounge-Bereichen des Clubs ab, sodass Sie sich früh einen Platz sichern und bleiben können, während sich die Atmosphäre im Laufe des Tages verändert. Vormittage und frühe Nachmittage sind ruhig und Liegestuhl-Territorium; im Laufe des Tages übernehmen hauseigene und Gast-DJs die Plattenteller, und die Energie steigt auf einen richtigen Beach-Club-Abend hin. Küche und Bars laufen den ganzen Tag und servieren eine Karte von leichten Snacks bis zu kompletten Mahlzeiten, dazu Cocktails und kalte Getränke.\n\nEs passt natürlich für Paare, Freundesgruppen, oder alle, die eine stilvolle Alternative zu den belebten öffentlichen Strände wollen, keine Zeitpläne, kein Guide, nur ein gut gestalteter Raum, gute Musik, und das Meer vor sich.",
+  "highlights": [
+   "25 Meter langer Infinity-Pool mit Blick aufs Meer",
+   "360-Grad-Meerblick von den mehrstöckigen Decks",
+   "Live-DJ-Sets, die über Nachmittag und Abend aufbauen",
+   "Vollständige Speisen- und Cocktailkarte den ganzen Tag serviert",
+   "Stilvolle Alternative zu Pattayas überfüllten öffentlichen Stränden"
+  ],
+  "included": [
+   "Tageseintritt in den Sina Beach Club",
+   "Zugang zum Infinity-Pool und den Lounge-Bereichen",
+   "Live-DJ-Unterhaltung"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke (separat oder je nach gebuchtem Paket berechnet)",
+   "Upgrade auf private Daybeds oder Cabanas",
+   "Transport zum und vom Club",
+   "Handtuch-Kaution, falls zutreffend"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

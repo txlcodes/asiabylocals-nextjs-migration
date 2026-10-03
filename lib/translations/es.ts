@@ -42390,6 +42390,85 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "koh-larn-coral-island-snorkeling-guided-tour": {
+  "title": "Excursión de un día a Koh Larn e isla de los Monos con moto de agua y snorkel",
+  "metaTitle": "Koh Larn e isla de los Monos, moto de agua y snorkel",
+  "metaDescription": "Una escapada guiada de día completo a Koh Larn y la isla de los Monos con snorkel y un paseo en moto de agua incluidos: cuatro playas, agua clara, y monos salvajes por el camino.",
+  "shortDescription": "Una escapada guiada de día completo a Koh Larn y la isla de los Monos con snorkel y un paseo en moto de agua incluidos: cuatro playas, agua clara, y monos salvajes por el camino.",
+  "fullDescription": "A un corto salto en ferri desde el muelle de Bali Hai en Pattaya, Koh Larn, a menudo llamada Isla de Coral, ofrece la versión de postal de la vida playera tailandesa que el continente no puede igualar del todo: arena blanca y fina, agua lo bastante clara para ver los dedos de los pies, y un ritmo más lento que hace que la ciudad parezca muy lejana. Esta excursión guiada de un día enlaza las mejores playas de la isla, recorriendo Tawaen, Samae, Tien y Nual a lo largo del día, cada una con su propio carácter, desde animada y bien equipada hasta tranquila y a la sombra.\n\nDos actividades vienen incluidas en el precio en lugar de ofrecerse como extras: una sesión de snorkel sobre el coral poco profundo, donde los peces tropicales se reúnen al alcance incluso de quienes hacen snorkel por primera vez, y un paseo en moto de agua que le permite acelerar por la bahía para un impulso de velocidad entre las paradas de playa. Alrededor de la playa de Nual, apodada localmente la playa de los Monos, tropas de macacos salvajes se congregan en la orilla y las rocas, entretenidas de observar siempre que mantenga los aperitivos bien guardados.\n\nCon traslado de ida y vuelta al hotel desde Pattaya, travesías en ferri, y un guía que gestiona la logística durante todo el día, esta excursión conviene a cualquiera que quiera una experiencia isleña completa sin tener que organizar barcos, alquileres y transporte de playa por su cuenta.",
+  "highlights": [
+   "Cuatro playas de Koh Larn en un día: Tawaen, Samae, Tien y Nual",
+   "Paseo en moto de agua incluido en el precio",
+   "Sesión de snorkel sobre coral poco profundo con peces tropicales",
+   "Macacos salvajes en la playa de los Monos",
+   "Recogida en el hotel, travesías en ferri y guía completamente gestionados"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Pattaya",
+   "Ferri de ida y vuelta desde el muelle de Bali Hai",
+   "Guía de habla inglesa",
+   "Sesión de snorkel con equipo",
+   "Paseo en moto de agua",
+   "Traslados de playa en la isla"
+  ],
+  "notIncluded": [
+   "Almuerzo y bebidas",
+   "Alquiler de silla de playa en algunas playas",
+   "Propinas para el guía y la tripulación",
+   "Seguro de viaje"
+  ]
+ },
+ "sanctuary-of-truth-naklua-pattaya-spiritual-tour": {
+  "title": "Pattaya: entrada al templo de madera del Santuario de la Verdad",
+  "metaTitle": "Pattaya: entrada al Santuario de la Verdad",
+  "metaDescription": "Entre en el extraordinario templo enteramente de madera de Pattaya frente al mar: una entrada al Santuario de la Verdad y sus interminables detalles tallados a mano.",
+  "shortDescription": "Entre en el extraordinario templo enteramente de madera de Pattaya frente al mar: una entrada al Santuario de la Verdad y sus interminables detalles tallados a mano.",
+  "fullDescription": "Elevándose más de 100 metros sobre la costa de la bahía de Naklua, el Santuario de la Verdad no se parece a ningún otro edificio de Tailandia: un templo monumental construido enteramente en madera, sin un solo clavo metálico, y cubierto por dentro y por fuera de figuras talladas a mano procedentes de la tradición tailandesa, jemer, china e india. La construcción comenzó en 1981 y continúa hasta hoy, así que en cualquier visita es probable ver a maestros talladores trabajando, cincelando nuevas esculturas del mismo modo que sus predecesores lo hacían hace décadas.\n\nEsta entrada cubre el acceso al santuario y sus terrenos frente al mar. En su interior, cada superficie cuenta una historia: deidades, seres celestiales y escenas mitológicas ascienden por columnas y techos en capas de detalle vertiginosas, todo ello pensado para expresar una visión filosófica de la relación de la humanidad con el universo. El entorno añade al efecto: el templo se alza justo al borde del agua, y las vistas de sus torres talladas contra el mar están entre las más fotografiadas de Pattaya.\n\nLa mayoría de los visitantes pasan entre 90 minutos y dos horas aquí, uniéndose a uno de los recorridos guiados regulares incluidos en la entrada y explorando después los terrenos a su propio ritmo. Se proporcionan cascos donde sea necesario, ya que partes de la estructura siguen siendo un lugar de tallado activo.",
+  "highlights": [
+   "Templo monumental construido enteramente en madera, sin clavos metálicos",
+   "Miles de figuras talladas a mano de cuatro tradiciones asiáticas",
+   "Observe a maestros talladores que aún trabajan hoy en la estructura",
+   "Dramático entorno frente al mar en la bahía de Naklua",
+   "Recorridos guiados regulares incluidos en la entrada"
+  ],
+  "included": [
+   "Entrada al Santuario de la Verdad",
+   "Acceso al interior del templo y los terrenos frente al mar",
+   "Recorrido guiado programado y charla de seguridad",
+   "Casco donde sea necesario"
+  ],
+  "notIncluded": [
+   "Transporte hacia y desde el santuario",
+   "Actividades opcionales en los terrenos (paseos en elefante, paseos en barco, espectáculos)",
+   "Comida y bebidas",
+   "Propinas"
+  ]
+ },
+ "sina-beach-club-pattaya-entry-ticket": {
+  "title": "Pattaya: pase de día al Sina Beach Club con acceso a la piscina infinita",
+  "metaTitle": "Pattaya: pase de día Sina Beach Club, piscina infinita",
+  "metaDescription": "Un pase de día completo para el Sina Beach Club de Pattaya: relájese junto a la piscina infinita de 25 metros, disfrute de vistas de 360 grados al océano, y disfrute de comida, bebidas y sesiones de DJ en directo.",
+  "shortDescription": "Un pase de día completo para el Sina Beach Club de Pattaya: relájese junto a la piscina infinita de 25 metros, disfrute de vistas de 360 grados al océano, y disfrute de comida, bebidas y sesiones de DJ en directo.",
+  "fullDescription": "El Sina Beach Club es uno de los lugares de ocio frente a la playa más elegantes de Pattaya, un recinto de varios niveles construido para días largos y relajados junto al agua. El elemento central es una piscina infinita de 25 metros que parece desembocar directamente en el mar, y desde las cubiertas superiores obtiene una auténtica panorámica de 360 grados del océano y la costa, el tipo de telón de fondo que convierte incluso una tarde corriente en toda una ocasión.\n\nEste pase de día cubre su entrada y acceso a la piscina y las zonas de relax del club, así que puede reservar un sitio temprano y quedarse mientras el ambiente cambia a lo largo del día. Las mañanas y primeras horas de la tarde son tranquilas y territorio de tumbonas; a medida que avanza el día, DJs residentes e invitados toman los platos y la energía sube hacia una verdadera velada de beach club. La cocina y los bares funcionan todo el día, sirviendo una carta que va de aperitivos ligeros a comidas completas junto con cócteles y bebidas frías.\n\nEs una opción natural para parejas, grupos de amigos, o cualquiera que quiera una alternativa elegante a las concurridas playas públicas: sin horarios, sin guía, solo un espacio bien diseñado, buena música, y el mar frente a usted.",
+  "highlights": [
+   "Piscina infinita de 25 metros con vistas al mar",
+   "Vistas de 360 grados al océano desde las cubiertas de varios niveles",
+   "Sesiones de DJ en directo que suben de intensidad durante la tarde y la noche",
+   "Carta completa de comida y cócteles servida todo el día",
+   "Alternativa elegante a las playas públicas abarrotadas de Pattaya"
+  ],
+  "included": [
+   "Entrada de día al Sina Beach Club",
+   "Acceso a la piscina infinita y las zonas de relax",
+   "Entretenimiento con DJ en directo"
+  ],
+  "notIncluded": [
+   "Comida y bebidas (cobradas por separado o según el paquete reservado)",
+   "Mejoras a cama privada o cabaña",
+   "Transporte hacia y desde el club",
+   "Depósito de toalla si corresponde"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",
