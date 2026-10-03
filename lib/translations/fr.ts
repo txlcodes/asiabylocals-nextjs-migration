@@ -41969,6 +41969,95 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "nemo-island-full-day-tour": {
+  "title": "Île de Nemo : excursion d'une journée de plongée avec tuba, photos par drone et déjeuner",
+  "metaTitle": "Île de Nemo journée complète, photos par drone et déjeuner",
+  "metaDescription": "Plongez avec de vrais poissons-clowns sur un récif préservé au large de Pattaya, déjeuner compris, avec photographie par drone et sous-marine de votre journée en prime.",
+  "shortDescription": "Plongez avec de vrais poissons-clowns sur un récif préservé au large de Pattaya, déjeuner compris, avec photographie par drone et sous-marine de votre journée en prime.",
+  "fullDescription": "L'île tient son surnom de ce qui y vit : des anémones denses en poissons-clowns, assez proches de la surface pour qu'on puisse les observer avec un masque plutôt qu'à travers une vitre d'aquarium. Le récif qui l'entoure a été épargné par le trafic intense des excursions à la journée qui a blanchi et abîmé le corail des îles plus accessibles, si bien que le corail est en meilleur état et la vie marine d'autant plus riche.\n\nCe qui distingue cette excursion d'une sortie classique de plongée avec tuba, c'est la photographie. L'équipe filme la journée depuis le ciel avec un drone et sous l'eau avec des caméras sous-marines, si bien que vous repartez avec de véritables images de vous dans l'eau plutôt que quelques photos floues prises depuis un bateau avec un téléphone. Pour la plupart des gens, c'est ce qu'ils retiennent le plus : les photos de plongée avec tuba sont notoirement difficiles à réussir soi-même.\n\nLe déjeuner est compris et pris à bord ou sur la plage selon les conditions, et il y a du temps entre les arrêts de plongée pour nager et s'asseoir au soleil. Les transferts d'hôtel depuis Bangkok font partie du forfait, ce qui en fait une journée longue mais entièrement organisée.",
+  "highlights": [
+   "Plongée avec tuba parmi de vrais poissons-clowns dans leurs anémones",
+   "Récif préservé, loin des îles très fréquentées",
+   "Images par drone et photos sous-marines de votre journée comprises",
+   "Déjeuner fourni",
+   "Tout l'équipement de plongée avec tuba fourni",
+   "Transferts aller-retour à l'hôtel depuis Bangkok"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Bangkok",
+   "Transfert en hors-bord jusqu'à l'île de Nemo",
+   "Équipement de plongée avec tuba et gilet de sauvetage",
+   "Déjeuner",
+   "Photographie par drone et sous-marine de l'excursion",
+   "Guide anglophone",
+   "Eau potable"
+  ],
+  "notIncluded": [
+   "Serviettes",
+   "Boissons alcoolisées",
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "samae-san-island-private-tour": {
+  "title": "Samae San en évasion privée : plage, plongée avec tuba et paddleboard",
+  "metaTitle": "Samae San évasion privée : plage, tuba et paddleboard",
+  "metaDescription": "Une excursion d'une journée entièrement privée vers les plages de sable blanc de Samae San, avec plongée avec tuba dans une eau turquoise limpide et paddleboard dans une baie calme et protégée.",
+  "shortDescription": "Une excursion d'une journée entièrement privée vers les plages de sable blanc de Samae San, avec plongée avec tuba dans une eau turquoise limpide et paddleboard dans une baie calme et protégée.",
+  "fullDescription": "Voici la version tranquille et entièrement privée d'une journée à Samae San : une longue excursion conçue pour un petit groupe qui souhaite avoir l'île pour lui seul plutôt que de la partager avec un bateau rempli d'inconnus.\n\nSamae San se trouve dans une zone protégée de la Marine royale thaïlandaise au sud de Pattaya, ce qui l'a préservée de tout développement et maintenu son eau limpide. Il n'y a ni complexe hôtelier, ni rabatteurs de jet-ski, ni bars de plage ; seulement du sable blanc, des collines boisées et une baie suffisamment calme pour que le paddleboard soit réellement relaxant plutôt qu'une lutte contre le clapot.\n\nLa journée se partage entre la plongée avec tuba sur un récif par bonne visibilité, le paddleboard dans les eaux peu profondes, et le simple fait de ne rien faire sur une plage déserte. Avec une réservation privée, le programme s'adapte à votre groupe : restez plus longtemps dans l'eau, prolongez le déjeuner, ou rejoignez une autre portion de sable si la première n'est pas assez tranquille à votre goût.\n\nC'est une longue journée, surtout depuis Bangkok, avec un trajet conséquent à chaque extrémité. C'est le prix à payer pour atteindre une île réellement préservée plutôt que la plage la plus proche et pratique.",
+  "highlights": [
+   "Excursion entièrement privée, sans bateau partagé ni programme de groupe imposé",
+   "Plages de sable blanc immaculées dans une zone navale protégée",
+   "Plongée avec tuba dans une eau turquoise limpide et peu fréquentée",
+   "Paddleboard dans une baie abritée",
+   "Aucun complexe hôtelier, vendeur ni foule sur l'île",
+   "Transferts privés porte à porte compris"
+  ],
+  "included": [
+   "Prise en charge et retour privés à l'hôtel",
+   "Transfert privé en bateau jusqu'à l'île de Samae San",
+   "Équipement de plongée avec tuba",
+   "Utilisation du paddleboard",
+   "Guide anglophone",
+   "Eau potable"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Serviettes",
+   "Boissons alcoolisées",
+   "Pourboires"
+  ]
+ },
+ "samae-san-island-full-day-tour": {
+  "title": "Île de Samae San : excursion privée d'une journée de plongée avec tuba et kayak",
+  "metaTitle": "Samae San : journée privée de plongée et kayak",
+  "metaDescription": "Une journée privée à Samae San, protégée par la marine, où l'accès restreint préserve une eau limpide et des plages désertes : plongée avec tuba, kayak et baignade loin des foules.",
+  "shortDescription": "Une journée privée à Samae San, protégée par la marine, où l'accès restreint préserve une eau limpide et des plages désertes : plongée avec tuba, kayak et baignade loin des foules.",
+  "fullDescription": "Samae San se trouve dans une zone de conservation de la Marine royale thaïlandaise au sud de Pattaya, et cette protection militaire est précisément ce qui rend le déplacement intéressant. Le nombre de visiteurs est plafonné, le développement est interdit, et les récifs ont été épargnés par le trafic qui a usé les îles plus accessibles au large de Pattaya. L'eau est sensiblement plus claire et les plages sont presque désertes, même en haute saison.\n\nLa journée est conçue autour du temps passé dans l'eau plutôt qu'autour de déplacements entre des arrêts photo. Vous plongerez avec un masque et un tuba sur des coraux par une visibilité réellement bonne, sortirez les kayaks le long du littoral pour atteindre des criques que les bateaux ne visitent pas, et profiterez de longs moments de plage sur du sable blanc bordé d'une forêt préservée. La réservation étant privée, le rythme appartient à votre groupe : pas d'attente pour les retardataires, pas de programme imposé au coup de sifflet.\n\nLes transferts d'hôtel et le bateau sont organisés pour vous. Les règles d'accès de la marine impliquent des démarches et un calendrier que la plupart des voyageurs ne voudraient pas négocier eux-mêmes, donc passer par un opérateur qui gère les autorisations est la solution la plus pratique.",
+  "highlights": [
+   "Eaux protégées par la marine, avec une visibilité que les îles plus fréquentées ne peuvent égaler",
+   "Plongée avec tuba sur des coraux sains et peu fréquentés",
+   "Kayak jusqu'à des criques au-delà de la plage de débarquement principale",
+   "Plages de sable blanc bordées d'une forêt préservée",
+   "Groupe privé, à votre propre rythme toute la journée",
+   "Toutes les démarches d'accès et les transferts pris en charge"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Pattaya",
+   "Transfert en bateau jusqu'à l'île de Samae San",
+   "Équipement de plongée avec tuba",
+   "Utilisation du kayak",
+   "Guide anglophone",
+   "Eau potable",
+   "Démarches d'accès à l'île"
+  ],
+  "notIncluded": [
+   "Déjeuner et boissons supplémentaires",
+   "Serviettes",
+   "Location de caméra sous-marine",
+   "Pourboires"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

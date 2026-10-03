@@ -41969,6 +41969,95 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "nemo-island-full-day-tour": {
+  "title": "Isla de Nemo: excursión de día completo de snorkel con fotos de dron y almuerzo",
+  "metaTitle": "Isla de Nemo día completo, fotos de dron y almuerzo",
+  "metaDescription": "Haga snorkel con peces payaso reales sobre un arrecife virgen frente a Pattaya, con almuerzo incluido y fotografía con dron y submarina de su día de regalo.",
+  "shortDescription": "Haga snorkel con peces payaso reales sobre un arrecife virgen frente a Pattaya, con almuerzo incluido y fotografía con dron y submarina de su día de regalo.",
+  "fullDescription": "El apodo de la isla viene de lo que vive allí: anémonas repletas de peces payaso, lo bastante cerca de la superficie como para observarlos haciendo snorkel en lugar de a través del cristal de un acuario. El arrecife que la rodea se ha librado del intenso tráfico de excursiones de un día que ha blanqueado y dañado el coral en las islas más accesibles, así que el coral está en mejor estado y la vida marina es correspondientemente más rica.\n\nLo que distingue esta excursión de una salida de snorkel habitual es la fotografía. El equipo filma el día desde arriba con un dron y desde abajo con cámaras submarinas, así que se marcha con imágenes reales de ustedes en el agua en lugar de unas pocas fotos borrosas tomadas con el móvil desde el barco. Para la mayoría de la gente, esto es lo que más termina valorando: las fotos de snorkel son notoriamente difíciles de conseguir uno mismo.\n\nEl almuerzo está incluido y se toma a bordo o en la playa según las condiciones, y hay tiempo entre las paradas de snorkel para nadar y tomar el sol. Los traslados de hotel desde Bangkok forman parte del paquete, lo que convierte el día en uno largo pero completamente organizado.",
+  "highlights": [
+   "Snorkel con peces payaso reales en sus anémonas",
+   "Arrecife virgen, lejos de las islas muy visitadas",
+   "Imágenes de dron y fotos submarinas de su día incluidas",
+   "Almuerzo incluido",
+   "Todo el equipo de snorkel proporcionado",
+   "Traslados de ida y vuelta al hotel desde Bangkok"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Bangkok",
+   "Traslado en lancha rápida a la isla de Nemo",
+   "Equipo de snorkel y chaleco salvavidas",
+   "Almuerzo",
+   "Fotografía con dron y submarina de la excursión",
+   "Guía de habla inglesa",
+   "Agua potable"
+  ],
+  "notIncluded": [
+   "Toallas",
+   "Bebidas alcohólicas",
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "samae-san-island-private-tour": {
+  "title": "Escapada privada a Samae San: playa, snorkel y paddle surf",
+  "metaTitle": "Samae San privado: playa, snorkel y paddle surf",
+  "metaDescription": "Una excursión de un día completamente privada a las playas de arena blanca de Samae San, con snorkel en aguas turquesas transparentes y paddle surf en una bahía tranquila y protegida.",
+  "shortDescription": "Una excursión de un día completamente privada a las playas de arena blanca de Samae San, con snorkel en aguas turquesas transparentes y paddle surf en una bahía tranquila y protegida.",
+  "fullDescription": "Esta es la versión tranquila y completamente privada de un día en Samae San: una excursión larga pensada para un grupo pequeño que quiere tener la isla para sí en lugar de compartir un barco lleno de desconocidos.\n\nSamae San se encuentra dentro de una zona protegida de la Marina Real Tailandesa al sur de Pattaya, lo que la ha mantenido sin urbanizar y sus aguas claras. No hay resorts, ni vendedores de motos de agua, ni bares de playa; solo arena blanca, colinas boscosas y una bahía lo bastante tranquila como para que el paddle surf resulte realmente relajante en lugar de una lucha contra el oleaje.\n\nEl día se reparte entre hacer snorkel sobre el arrecife con buena visibilidad, remar en paddle surf por las aguas poco profundas, y simplemente no hacer nada en una playa vacía. Con una reserva privada, el horario se adapta a su grupo: quédense más tiempo en el agua, alarguen el almuerzo, o vayan a otro tramo de arena si el primero no está lo bastante tranquilo.\n\nEs un día largo, especialmente desde Bangkok, con un trayecto considerable en cada extremo. Ese es el precio de llegar a una isla realmente virgen en lugar de a la playa más cercana y cómoda.",
+  "highlights": [
+   "Excursión completamente privada, sin barco compartido ni horario de grupo fijo",
+   "Playas de arena blanca impecables dentro de una zona naval protegida",
+   "Snorkel en aguas turquesas claras y poco transitadas",
+   "Paddle surf en una bahía resguardada",
+   "Sin resorts, vendedores ni multitudes en la isla",
+   "Traslados privados puerta a puerta incluidos"
+  ],
+  "included": [
+   "Recogida y regreso privados en el hotel",
+   "Traslado privado en barco a la isla de Samae San",
+   "Equipo de snorkel",
+   "Uso de la tabla de paddle surf",
+   "Guía de habla inglesa",
+   "Agua potable"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Toallas",
+   "Bebidas alcohólicas",
+   "Propinas"
+  ]
+ },
+ "samae-san-island-full-day-tour": {
+  "title": "Isla de Samae San: excursión privada de un día con snorkel y kayak",
+  "metaTitle": "Samae San: día privado de snorkel y kayak",
+  "metaDescription": "Un día privado en Samae San, protegida por la marina, donde el acceso restringido mantiene el agua clara y las playas vacías: snorkel, kayak y baño lejos de las multitudes.",
+  "shortDescription": "Un día privado en Samae San, protegida por la marina, donde el acceso restringido mantiene el agua clara y las playas vacías: snorkel, kayak y baño lejos de las multitudes.",
+  "fullDescription": "Samae San se encuentra dentro de una zona de conservación de la Marina Real Tailandesa al sur de Pattaya, y esa protección militar es precisamente lo que hace que merezca la pena el viaje. El número de visitantes está limitado, el desarrollo está prohibido, y los arrecifes se han librado del tráfico que ha desgastado las islas más accesibles frente a Pattaya. El agua es notablemente más clara y las playas están casi vacías incluso en temporada alta.\n\nEl día está pensado para estar en el agua en lugar de moverse entre paradas para fotos. Hará snorkel sobre coral con una visibilidad realmente buena, saldrá en kayak a lo largo de la costa para llegar a calas que los barcos no visitan, y disfrutará de largos ratos de playa en arena blanca respaldada por bosque sin urbanizar. Al ser una reserva privada, el ritmo pertenece a su grupo: sin esperar a los rezagados, sin un horario fijo marcado por un silbato.\n\nLos traslados de hotel y el barco están organizados para usted. Las normas de acceso de la marina implican papeleo y plazos que la mayoría de los viajeros no querrían negociar por su cuenta, así que ir con un operador que gestiona los permisos es la vía práctica.",
+  "highlights": [
+   "Aguas protegidas por la marina con una visibilidad que las islas más concurridas no pueden igualar",
+   "Snorkel sobre coral sano y poco transitado",
+   "Kayak hasta calas más allá de la playa de desembarco principal",
+   "Playas de arena blanca respaldadas por bosque sin urbanizar",
+   "Grupo privado, a su propio ritmo todo el día",
+   "Todos los trámites de acceso y traslados gestionados"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Pattaya",
+   "Traslado en barco a la isla de Samae San",
+   "Equipo de snorkel",
+   "Uso del kayak",
+   "Guía de habla inglesa",
+   "Agua potable",
+   "Trámites de acceso a la isla"
+  ],
+  "notIncluded": [
+   "Almuerzo y bebidas adicionales",
+   "Toallas",
+   "Alquiler de cámara submarina",
+   "Propinas"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

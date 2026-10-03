@@ -41969,6 +41969,95 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "nemo-island-full-day-tour": {
+  "title": "Nemo Island: Ganztages-Schnorchelausflug mit Drohnenfotos und Mittagessen",
+  "metaTitle": "Nemo Island Ganztag, Drohnenfotos und Mittagessen",
+  "metaDescription": "Schnorcheln Sie mit echten Clownfischen über einem unberührten Riff vor Pattaya, mit Mittagessen inklusive sowie Drohnen- und Unterwasserfotografie Ihres Tages.",
+  "shortDescription": "Schnorcheln Sie mit echten Clownfischen über einem unberührten Riff vor Pattaya, mit Mittagessen inklusive sowie Drohnen- und Unterwasserfotografie Ihres Tages.",
+  "fullDescription": "Der Spitzname der Insel kommt von dem, was dort lebt: dicht von Clownfischen bewohnte Anemonen, nahe genug an der Oberfläche, dass man sie beim Schnorcheln beobachten kann statt durch eine Aquariumscheibe. Das umgebende Riff wurde vom starken Tagesausflugsverkehr verschont, der an den bequemer gelegenen Inseln die Korallen gebleicht und beschädigt hat, sodass die Korallen hier in besserem Zustand sind und das Fischleben entsprechend reicher ist.\n\nWas diesen Ausflug von einer gewöhnlichen Schnorcheltour unterscheidet, ist die Fotografie. Die Crew filmt den Tag von oben mit einer Drohne und von unten mit Unterwasserkameras, sodass Sie mit echtem Material von sich selbst im Wasser nach Hause gehen, statt mit ein paar verwackelten Handyfotos vom Boot aus. Für die meisten Leute ist genau das der Teil, den sie am meisten schätzen, denn Schnorchelfotos sind notorisch schwer selbst hinzubekommen.\n\nMittagessen ist inklusive und wird je nach Bedingungen an Bord oder am Strand eingenommen, und zwischen den Schnorchelstopps bleibt Zeit zum Schwimmen und Sonnenbaden. Hoteltransfers ab Bangkok sind Teil des Pakets, was den Tag lang, aber vollständig organisiert macht.",
+  "highlights": [
+   "Schnorcheln mit echten Clownfischen in ihren Anemonen",
+   "Unberührtes Riff, fern der stark besuchten Inseln",
+   "Drohnenaufnahmen und Unterwasserfotos Ihres Tages inklusive",
+   "Mittagessen inklusive",
+   "Komplette Schnorchelausrüstung gestellt",
+   "Hin- und Rück-Hoteltransfers ab Bangkok"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Bangkok",
+   "Speedboot-Transfer zur Nemo Island",
+   "Schnorchelausrüstung und Schwimmweste",
+   "Mittagessen",
+   "Drohnen- und Unterwasserfotografie des Ausflugs",
+   "Englischsprachiger Guide",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Handtücher",
+   "Alkoholische Getränke",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "samae-san-island-private-tour": {
+  "title": "Samae San privates Fluchtziel: Strand, Schnorcheln und Paddleboarding",
+  "metaTitle": "Samae San privat: Strand, Schnorcheln und Paddleboard",
+  "metaDescription": "Ein vollständig privater Tagesausflug zu den weißen Sandstränden von Samae San, mit Schnorcheln in klarem türkisfarbenem Wasser und Stand-up-Paddleboarding in einer ruhigen, geschützten Bucht.",
+  "shortDescription": "Ein vollständig privater Tagesausflug zu den weißen Sandstränden von Samae San, mit Schnorcheln in klarem türkisfarbenem Wasser und Stand-up-Paddleboarding in einer ruhigen, geschützten Bucht.",
+  "fullDescription": "Dies ist die gemächliche, vollständig private Version eines Samae-San-Tages: ein langer Ausflug, konzipiert für eine kleine Gruppe, die die Insel für sich allein haben möchte statt ein Boot voller Fremder zu teilen.\n\nSamae San liegt in einer Schutzzone der königlich-thailändischen Marine südlich von Pattaya, was es unbebaut gehalten und sein Wasser klar erhalten hat. Es gibt keine Resorts, keine Jetski-Anbieter und keine Strandbars, nur weißen Sand, bewaldete Hügel und eine Bucht, die ruhig genug ist, dass Stand-up-Paddleboarding wirklich entspannend ist statt ein Kampf gegen den Wellenschlag.\n\nDer Tag teilt sich zwischen Schnorcheln über Riffen bei guter Sicht, Paddleboarding in den Flachwassern und einfach Nichtstun an einem leeren Strand. Mit einer privaten Buchung passt sich der Zeitplan Ihrer Gruppe an: Bleiben Sie länger im Wasser, nehmen Sie sich mehr Zeit zum Mittagessen, oder wechseln Sie zu einem anderen Sandabschnitt, wenn der erste nicht ruhig genug ist.\n\nEs ist ein langer Tag, besonders ab Bangkok, mit einer erheblichen Fahrzeit an beiden Enden. Das ist der Preis dafür, eine wirklich unberührte Insel zu erreichen statt den nächstgelegenen, bequemen Strand.",
+  "highlights": [
+   "Vollständig privater Ausflug, kein geteiltes Boot, kein fester Gruppenzeitplan",
+   "Makellose weiße Sandstrände in einer geschützten Marinezone",
+   "Schnorcheln in klarem, wenig befahrenem türkisfarbenem Wasser",
+   "Stand-up-Paddleboarding in einer geschützten Bucht",
+   "Keine Resorts, Verkäufer oder Menschenmassen auf der Insel",
+   "Private Tür-zu-Tür-Transfers inklusive"
+  ],
+  "included": [
+   "Private Hotelabholung und -rückfahrt",
+   "Privater Bootstransfer zur Insel Samae San",
+   "Schnorchelausrüstung",
+   "Nutzung des Stand-up-Paddleboards",
+   "Englischsprachiger Guide",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Handtücher",
+   "Alkoholische Getränke",
+   "Trinkgelder"
+  ]
+ },
+ "samae-san-island-full-day-tour": {
+  "title": "Insel Samae San: privater Tagesausflug mit Schnorcheln und Kajak",
+  "metaTitle": "Samae San: privater Tag mit Schnorcheln und Kajak",
+  "metaDescription": "Ein privater Tag im marinegeschützten Samae San, wo eingeschränkter Zugang das Wasser klar und die Strände leer hält: Schnorcheln, Kajakfahren und Schwimmen weit weg von den Menschenmassen.",
+  "shortDescription": "Ein privater Tag im marinegeschützten Samae San, wo eingeschränkter Zugang das Wasser klar und die Strände leer hält: Schnorcheln, Kajakfahren und Schwimmen weit weg von den Menschenmassen.",
+  "fullDescription": "Samae San liegt in einem Schutzgebiet der königlich-thailändischen Marine südlich von Pattaya, und genau dieser militärische Schutz macht den Ausflug lohnenswert. Die Besucherzahl ist begrenzt, Bebauung ist verboten, und die Riffe wurden von dem Verkehr verschont, der die zugänglicheren Inseln vor Pattaya abgenutzt hat. Das Wasser ist merklich klarer, und die Strände sind selbst in der Hochsaison fast leer.\n\nDer Tag ist darauf ausgelegt, im Wasser zu sein, statt zwischen Fotostopps umherzuziehen. Sie schnorcheln über Korallen bei wirklich guter Sicht, fahren mit Kajaks die Küste entlang, um Buchten zu erreichen, die die Boote nicht anfahren, und verbringen lange Zeiträume am weißen Sandstrand vor unbebautem Wald. Da die Buchung privat ist, gehört das Tempo Ihrer Gruppe: kein Warten auf Nachzügler, kein fester, mit Pfeife eingeläuteter Zeitplan.\n\nHoteltransfers und das Boot werden für Sie organisiert. Die Zugangsregeln der Marine bedeuten Papierkram und Terminabsprachen, die die meisten Reisenden nicht selbst aushandeln möchten, daher ist der Weg über einen Anbieter, der die Genehmigungen übernimmt, der praktischste.",
+  "highlights": [
+   "Marinegeschützte Gewässer mit einer Sicht, die belebtere Inseln nicht erreichen",
+   "Schnorcheln über gesunden, wenig befahrenen Korallen",
+   "Kajakfahren zu Buchten jenseits des Haupt-Anlegestrands",
+   "Weiße Sandstrände vor unbebautem Wald",
+   "Private Gruppe, Ihr eigenes Tempo den ganzen Tag",
+   "Alle Zugangsregelungen und Transfers organisiert"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Pattaya",
+   "Boots-Transfer zur Insel Samae San",
+   "Schnorchelausrüstung",
+   "Nutzung des Kajaks",
+   "Englischsprachiger Guide",
+   "Trinkwasser",
+   "Zugangsregelungen für die Insel"
+  ],
+  "notIncluded": [
+   "Mittagessen und zusätzliche Getränke",
+   "Handtücher",
+   "Unterwasserkamera-Vermietung",
+   "Trinkgelder"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
