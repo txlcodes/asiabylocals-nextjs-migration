@@ -42058,6 +42058,92 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "pattaya-full-day-tour": {
+  "title": "Composez votre Pattaya : excursion privée d'une journée complète avec guide local",
+  "metaTitle": "Composez votre Pattaya : journée privée avec guide local",
+  "metaDescription": "Indiquez à votre guide où vous souhaitez aller et il construira l'itinéraire : une journée complète avec voiture privée, chauffeur et guide local, entièrement façonnée selon votre liste.",
+  "shortDescription": "Indiquez à votre guide où vous souhaitez aller et il construira l'itinéraire : une journée complète avec voiture privée, chauffeur et guide local, entièrement façonnée selon votre liste.",
+  "fullDescription": "La plupart des excursions à Pattaya décident pour vous. Celle-ci part au contraire de votre liste : vous indiquez ce que vous voulez voir, et un guide local planifie l'ordre, les horaires et l'itinéraire pour tout faire entrer dans une seule journée bien rythmée.\n\nC'est plus utile qu'il n'y paraît, car les attractions de Pattaya sont dispersées : le Sanctuaire de la Vérité se trouve au nord à Naklua, le Big Buddha et les points de vue occupent la colline de Pratumnak au centre, le jardin de Nong Nooch et le marché flottant se situent bien plus au sud, et les plages s'étirent sur toute la longueur de la côte. Se tromper dans l'ordre signifie passer sa journée dans les embouteillages. Un guide qui connaît la ville enchaîne les arrêts de manière à ne pas traverser la ville deux fois et à profiter des points de vue sous la bonne lumière.\n\nVous disposez d'un véhicule climatisé privé, d'un chauffeur et d'un guide pour toute la journée, avec prise en charge et retour à l'hôtel compris. En chemin, le guide s'occupe des détails pratiques : où acheter les billets, quelle file d'attente est la plus courte, où manger sans tomber dans un piège à touristes, et à quoi ressemble un prix raisonnable si vous souhaitez faire des achats.\n\nCette excursion convient aux primo-visiteurs qui veulent une vue d'ensemble, aux visiteurs récurrents en quête de sites précis, et aux familles qui ont besoin d'une journée organisée autour des siestes, des repas et de l'attention limitée des enfants.",
+  "highlights": [
+   "Un itinéraire construit autour de votre liste, pas un programme fixe",
+   "Véhicule privé, chauffeur et guide local pour une journée complète",
+   "Le guide enchaîne les arrêts pour éviter les pires embouteillages de Pattaya",
+   "Aide pour les billets, les files d'attente, la nourriture et les prix justes",
+   "Prise en charge et retour à l'hôtel compris",
+   "Convient aux primo-visiteurs, aux visiteurs récurrents et aux familles"
+  ],
+  "included": [
+   "Véhicule climatisé privé avec chauffeur",
+   "Guide local anglophone pour la journée complète",
+   "Prise en charge et retour à l'hôtel à Pattaya",
+   "Planification de l'itinéraire selon vos demandes",
+   "Frais de carburant et de stationnement",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Frais d'entrée des attractions",
+   "Repas et boissons",
+   "Activités facultatives",
+   "Pourboires"
+  ]
+ },
+ "sanctuary-of-truth-half-day-tour": {
+  "title": "Les incontournables de Pattaya : excursion privée d'une demi-journée en voiture",
+  "metaTitle": "Incontournables de Pattaya : demi-journée privée en voiture",
+  "metaDescription": "Une voiture et un chauffeur privés pour une demi-journée consacrée aux sites emblématiques de Pattaya : choisissez parmi des forfaits d'itinéraire couvrant le Big Buddha, les points de vue, les temples et le Sanctuaire de la Vérité.",
+  "shortDescription": "Une voiture et un chauffeur privés pour une demi-journée consacrée aux sites emblématiques de Pattaya : choisissez parmi des forfaits d'itinéraire couvrant le Big Buddha, les points de vue, les temples et le Sanctuaire de la Vérité.",
+  "fullDescription": "Une demi-journée suffit pour voir les sites phares de Pattaya si l'on ne dépend pas d'un car rempli d'inconnus. Cette excursion privée vous réserve une voiture et un chauffeur, avec un choix de forfaits d'itinéraire, pour que vous puissiez choisir la combinaison adaptée à vos envies et au temps dont vous disposez.\n\nLes points d'ancrage habituels sont le Wat Phra Yai sur la colline de Pratumnak, où le Big Buddha doré de dix-huit mètres surplombe la ville, et le point de vue de Khao Phra Tamnak juste en dessous, qui offre le panorama classique sur la baie de Pattaya et le croissant de la plage. À partir de là, les forfaits ajoutent selon les options le Sanctuaire de la Vérité à Naklua, le vaste temple sculpté entièrement en teck sur le front de mer, ainsi que des marchés locaux, des temples plus modestes, ou une descente le long de la côte vers Jomtien.\n\nComme l'excursion est privée, le rythme est le vôtre. Si un point de vue retient votre attention, vous y restez plus longtemps ; si un marché ne vous tente pas, vous le passez. Cette flexibilité est précisément ce qui distingue cette excursion des circuits de groupe à itinéraire fixe qui dominent le tourisme à Pattaya.",
+  "highlights": [
+   "Voiture climatisée privée avec chauffeur, sans groupe à attendre",
+   "Choix de forfaits d'itinéraire selon vos envies",
+   "Le Big Buddha doré du Wat Phra Yai sur la colline de Pratumnak",
+   "Vue panoramique sur la baie depuis le point de vue de Khao Phra Tamnak",
+   "Option d'ajouter le Sanctuaire de la Vérité à Naklua",
+   "Prise en charge et retour à l'hôtel compris"
+  ],
+  "included": [
+   "Véhicule climatisé privé avec chauffeur",
+   "Prise en charge et retour à l'hôtel à Pattaya",
+   "Frais de carburant et de stationnement",
+   "Eau en bouteille",
+   "Environ 4 à 5 heures de visite"
+  ],
+  "notIncluded": [
+   "Frais d'entrée des attractions",
+   "Repas et boissons",
+   "Guide agréé (le chauffeur vous accompagne)",
+   "Pourboires"
+  ]
+ },
+ "koh-larn-full-day-tour": {
+  "title": "Plages de Koh Larn et musée 3D Art in Paradise : excursion d'une journée",
+  "metaTitle": "Koh Larn et musée 3D Art in Paradise, journée complète",
+  "metaDescription": "Associez une journée de plage à Koh Larn au musée en trompe-l'œil Art in Paradise de Pattaya : eau turquoise et sports nautiques facultatifs le matin, galeries d'illusions 3D l'après-midi.",
+  "shortDescription": "Associez une journée de plage à Koh Larn au musée en trompe-l'œil Art in Paradise de Pattaya : eau turquoise et sports nautiques facultatifs le matin, galeries d'illusions 3D l'après-midi.",
+  "fullDescription": "Voici une journée en deux temps, idéale pour ceux qui veulent profiter de la plage sans y passer tout le séjour. Le matin appartient à Koh Larn, à une courte traversée de la jetée de Bali Hai à Pattaya, où l'eau prend un turquoise limpide que les plages du continent n'atteignent jamais. Vous aurez du temps libre pour vous baigner, vous étendre sur le sable, ou ajouter des sports nautiques : parachute ascensionnel, jet-ski et plongée avec tuba sont tous disponibles directement sur la plage.\n\nL'après-midi se déplace à l'intérieur, au musée Art in Paradise, l'un des plus grands musées en trompe-l'œil d'Asie. Dans plusieurs salles à thème, les peintures sont conçues de telle sorte que, en se plaçant à un endroit marqué et en regardant à travers un appareil photo, on semble se trouver à l'intérieur de la scène : suspendu au bord d'une falaise, nageant avec des baleines, ou entrant dans une toile de la Renaissance. Cela paraît gadget, et ça l'est entièrement, mais c'est réellement amusant et c'est climatisé, ce qui tombe bien après une matinée au soleil.\n\nLes transferts sont compris du début à la fin, donc la jetée, le bateau et le musée sont tous pris en charge. Pour les familles, cela fonctionne particulièrement bien : les enfants profitent d'une plage, puis d'un endroit où on les encourage activement à grimper sur les œuvres.",
+  "highlights": [
+   "Eau turquoise limpide à Koh Larn, à une courte traversée en bateau de Pattaya",
+   "Temps libre à la plage avec parachute ascensionnel, jet-ski et plongée avec tuba en option",
+   "Après-midi climatisé au musée en trompe-l'œil Art in Paradise",
+   "Des dizaines de décors d'illusions 3D conçus pour les photos",
+   "Tous les transferts et la traversée en bateau vers l'île compris",
+   "Fonctionne bien pour les familles avec enfants"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Transfert en bateau aller-retour jusqu'à Koh Larn",
+   "Entrée au musée Art in Paradise",
+   "Temps libre à la plage",
+   "Guide anglophone",
+   "Eau potable"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "Sports nautiques sur la plage",
+   "Transats et parasols de plage",
+   "Pourboires"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

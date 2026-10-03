@@ -42058,6 +42058,92 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "pattaya-full-day-tour": {
+  "title": "Gestalten Sie Ihr Pattaya: privater Ganztagesausflug mit lokalem Guide",
+  "metaTitle": "Gestalten Sie Ihr Pattaya: Ganztag mit lokalem Guide",
+  "metaDescription": "Sagen Sie Ihrem Guide, wohin Sie möchten, und er plant die Route: ein Ganztag mit privatem Auto, Fahrer und lokalem Guide, ganz nach Ihrer Liste gestaltet.",
+  "shortDescription": "Sagen Sie Ihrem Guide, wohin Sie möchten, und er plant die Route: ein Ganztag mit privatem Auto, Fahrer und lokalem Guide, ganz nach Ihrer Liste gestaltet.",
+  "fullDescription": "Die meisten Pattaya-Touren entscheiden für Sie. Diese hier startet dagegen von Ihrer Liste aus: Sie sagen, was Sie sehen möchten, und ein lokaler Guide plant Reihenfolge, Zeitplan und Route, um alles in einen gut getakteten Tag zu packen.\n\nDas ist nützlicher, als es klingt, denn Pattayas Attraktionen liegen verstreut: das Heiligtum der Wahrheit liegt im Norden bei Naklua, der Big Buddha und die Aussichtspunkte befinden sich auf dem Pratumnak-Hügel in der Mitte, der Nong-Nooch-Garten und der schwimmende Markt liegen deutlich südlicher, und die Strände ziehen sich über die gesamte Küste. Die falsche Reihenfolge bedeutet, den Tag im Verkehr zu verbringen. Ein Guide, der die Stadt kennt, ordnet die Stopps so an, dass Sie nicht zweimal durch die Stadt fahren und die Aussichtspunkte bei gutem Licht erreichen.\n\nSie erhalten ein privates klimatisiertes Fahrzeug, einen Fahrer und einen Guide für den ganzen Tag, mit inklusiver Hotelabholung und -rückfahrt. Unterwegs übernimmt der Guide die praktischen Hürden: wo man Tickets kauft, welche Eingangsschlange kürzer ist, wo man abseits der Touristenfallen essen kann, und wie ein angemessener Preis aussieht, falls Sie einkaufen möchten.\n\nDas passt für Erstbesucher, die einen Überblick wünschen, für wiederkehrende Besucher auf der Suche nach bestimmten Sehenswürdigkeiten, und für Familien, die den Tag um Nickerchen, Mahlzeiten und kurze Aufmerksamkeitsspannen herum gestalten müssen.",
+  "highlights": [
+   "Eine Route nach Ihrer Liste, kein fester Reiseplan",
+   "Privates Fahrzeug, Fahrer und lokaler Guide für einen ganzen Tag",
+   "Guide ordnet die Stopps, um Pattayas schlimmsten Verkehr zu vermeiden",
+   "Hilfe bei Tickets, Schlangen, Essen und fairen Preisen",
+   "Hotelabholung und -rückfahrt inklusive",
+   "Passt für Erstbesucher, Wiederholungsbesucher und Familien"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug mit Fahrer",
+   "Englischsprachiger lokaler Guide für den ganzen Tag",
+   "Hotelabholung und -rückfahrt in Pattaya",
+   "Routenplanung nach Ihren Wünschen",
+   "Kraftstoff- und Parkgebühren",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Attraktionen",
+   "Mahlzeiten und Getränke",
+   "Optionale Aktivitäten",
+   "Trinkgelder"
+  ]
+ },
+ "sanctuary-of-truth-half-day-tour": {
+  "title": "Pattaya-Highlights: privater Halbtagesausflug per Auto",
+  "metaTitle": "Pattaya-Highlights: privater Halbtag per Auto",
+  "metaDescription": "Ein privates Auto und Fahrer für einen Halbtag mit Pattayas Sehenswürdigkeiten: wählen Sie aus festen Routenpaketen mit Big Buddha, Aussichtspunkten, Tempeln und dem Heiligtum der Wahrheit.",
+  "shortDescription": "Ein privates Auto und Fahrer für einen Halbtag mit Pattayas Sehenswürdigkeiten: wählen Sie aus festen Routenpaketen mit Big Buddha, Aussichtspunkten, Tempeln und dem Heiligtum der Wahrheit.",
+  "fullDescription": "Ein halber Tag reicht aus, um Pattayas Hauptattraktionen zu sehen, wenn man nicht auf einen Bus voller Fremder warten muss. Diese private Tour gibt Ihnen ein Auto und einen Fahrer ganz für sich, mit einer Auswahl an Routenpaketen, sodass Sie die Kombination wählen können, die zu Ihren Interessen und Ihrer verfügbaren Zeit passt.\n\nDie üblichen Ankerpunkte sind Wat Phra Yai auf dem Pratumnak-Hügel, wo der achtzehn Meter hohe goldene Big Buddha über die Stadt blickt, und der Khao-Phra-Tamnak-Aussichtspunkt direkt darunter, der das klassische Panorama über die Bucht von Pattaya und die Strandsichel bietet. Von dort fügen die Pakete je nach Wahl das Heiligtum der Wahrheit in Naklua hinzu, den gewaltigen, vollständig aus Teakholz geschnitzten Tempel an der Küste, zusammen mit lokalen Märkten, kleineren Tempeln oder einer Fahrt die Küste hinunter nach Jomtien.\n\nDa die Tour privat ist, gehört das Tempo Ihnen. Hält Sie ein Aussichtspunkt in Bann, bleiben Sie länger; spricht Sie ein Markt nicht an, lassen Sie ihn aus. Diese Flexibilität ist der eigentliche Punkt, und sie unterscheidet diese Tour von den Gruppentouren mit festem Reiseplan, die Pattayas Sightseeing dominieren.",
+  "highlights": [
+   "Privates klimatisiertes Auto mit Fahrer, keine Gruppe zum Warten",
+   "Auswahl an Routenpaketen passend zu Ihren Interessen",
+   "Der goldene Big Buddha im Wat Phra Yai auf dem Pratumnak-Hügel",
+   "Panoramablick über die Bucht vom Khao-Phra-Tamnak-Aussichtspunkt",
+   "Option zur Aufnahme des Heiligtums der Wahrheit in Naklua",
+   "Hotelabholung und -rückfahrt inklusive"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug mit Fahrer",
+   "Hotelabholung und -rückfahrt in Pattaya",
+   "Kraftstoff- und Parkgebühren",
+   "Flaschenwasser",
+   "Etwa 4-5 Stunden Besichtigung"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Attraktionen",
+   "Mahlzeiten und Getränke",
+   "Lizenzierter Guide (Fahrer begleitet Sie)",
+   "Trinkgelder"
+  ]
+ },
+ "koh-larn-full-day-tour": {
+  "title": "Koh-Larn-Strände und 3D-Museum Art in Paradise: Tagesausflug",
+  "metaTitle": "Koh Larn und 3D-Museum Art in Paradise, Ganztag",
+  "metaDescription": "Kombinieren Sie einen Strandtag auf Koh Larn mit Pattayas Trick-Eye-Museum Art in Paradise: türkisfarbenes Wasser und optionale Wassersportarten am Morgen, 3D-Illusionsgalerien am Nachmittag.",
+  "shortDescription": "Kombinieren Sie einen Strandtag auf Koh Larn mit Pattayas Trick-Eye-Museum Art in Paradise: türkisfarbenes Wasser und optionale Wassersportarten am Morgen, 3D-Illusionsgalerien am Nachmittag.",
+  "fullDescription": "Dies ist ein Tag in zwei Hälften, der sich für alle eignet, die Strandzeit wollen, ohne die ganze Reise im Sand zu verbringen. Der Morgen gehört Koh Larn, nur eine kurze Überfahrt vom Bali-Hai-Pier in Pattaya entfernt, wo das Wasser das klare Türkis annimmt, das die Festlandstrände nie erreichen. Sie haben freie Zeit zum Schwimmen, zum Ausstrecken im Sand oder zum Hinzufügen von Wassersport, denn Parasailing, Jetski und Schnorcheln sind alle direkt am Strand verfügbar.\n\nDer Nachmittag verlegt sich nach innen, ins Art in Paradise, eines der größten Trick-Eye-Museen Asiens. In mehreren thematischen Hallen sind die Gemälde so konstruiert, dass man, wenn man an einer markierten Stelle steht und durch eine Kamera schaut, scheinbar Teil der Szene wird: von einer Klippe hängend, mit Walen schwimmend, oder in ein Renaissance-Gemälde eintretend. Es klingt kitschig, und das ist es auch vollkommen, aber es macht wirklich Spaß, und es ist klimatisiert, was nach einem Vormittag in der Sonne gut ankommt.\n\nTransfers sind durchgehend inklusive, sodass Pier, Boot und Museum alle organisiert sind. Für Familien funktioniert das besonders gut: Die Kinder bekommen einen Strand und dann einen Ort, an dem sie aktiv ermutigt werden, auf die Exponate zu klettern.",
+  "highlights": [
+   "Klares türkisfarbenes Wasser bei Koh Larn, nur einen kurzen Bootssprung von Pattaya entfernt",
+   "Freie Strandzeit mit optionalem Parasailing, Jetski und Schnorcheln",
+   "Klimatisierter Nachmittag im Trick-Eye-Museum Art in Paradise",
+   "Dutzende von 3D-Illusionssets, gebaut für Fotos",
+   "Alle Transfers und die Bootsüberfahrt zur Insel inklusive",
+   "Eignet sich gut für Familien mit Kindern"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt",
+   "Hin- und Rück-Bootstransfer nach Koh Larn",
+   "Eintritt ins Art-in-Paradise-Museum",
+   "Freie Zeit am Strand",
+   "Englischsprachiger Guide",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke",
+   "Wassersport am Strand",
+   "Strandliegen und Sonnenschirme",
+   "Trinkgelder"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
