@@ -43318,6 +43318,83 @@ export const ES_TOURS: Record<string, TourT> = {
    "Almuerzo"
   ]
  },
+ "4-islands-longtail-boat-tour-with-lunch": {
+  "title": "Tour en barco longtail a 4 islas con almuerzo",
+  "metaTitle": "4 islas en longtail con almuerzo, Krabi",
+  "metaDescription": "Excursión de medio día en Krabi, con recogida en el hotel y un paseo de 25 minutos en barco longtail hasta la isla de Poda. Organizada por Punpuntravel and tour, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de medio día en Krabi, con recogida en el hotel y un paseo de 25 minutos en barco longtail hasta la isla de Poda. Organizada por Punpuntravel and tour, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "El clásico día de las cuatro islas de Krabi en barco longtail, con una ventana de recogida matutina que dice algo útil sobre la excursión.\n\nLa recogida se realiza entre las 8:30 y las 9:00 desde la ciudad de Krabi, Klong Muang, Ao Nam Mao o Ao Nang, lo que significa que llega a las islas a media mañana junto con la mayor parte de la flota. Ese es el compromiso de la versión matutina: más barcos en cada parada, pero mejor luz para el agua y toda una tarde libre después.\n\nLa ruta cubre Poda, la isla del Pollo, Tup y Mor. Thale Waek, el Mar Separado, es el banco de arena que une Tup y Mor en marea baja y desaparece cuando regresa el agua, así que si lo camina depende de la marea del día, no del operador. La isla del Pollo debe su nombre a la roca en su punta, que solo parece una cabeza de pollo desde un ángulo durante la aproximación.\n\nEl longtail es el barco más lento, y aquí es deliberado. Su calado reducido alcanza aguas de las que las lanchas rápidas tienen que anclar lejos, y el ritmo convierte la costa entre paradas en parte de la excursión en lugar de algo que se cruza rápidamente.\n\nEl almuerzo está incluido y se toma en una de las islas.\n\nLa recogida desde Klong Muang y Ao Nam Mao importa si se aloja fuera de Ao Nang: muchas excursiones en barco de Krabi solo recogen desde hoteles de Ao Nang y dejan que todos los demás lleguen por su cuenta al muelle.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. Las tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario, así que lleve efectivo.\n\nSeis horas, un día de aviso mínimo.",
+  "highlights": [
+   "Salida matutina con toda una tarde libre después",
+   "Poda, la isla del Pollo, Tup y Mor en barco longtail",
+   "Banco de arena de Thale Waek, transitable solo con marea baja",
+   "El longtail alcanza aguas poco profundas de las que las lanchas rápidas anclan lejos",
+   "Recogida desde Klong Muang y Ao Nam Mao, no solo Ao Nang"
+  ],
+  "included": [
+   "Comience su maravilloso día con la recogida en su hotel en la ciudad de Krabi, Klong Muang, Ao Nam Mao y Ao Nang entre las 8:30 y las 9:00",
+   "Disfrute de un paseo de 25 minutos en barco longtail hasta la isla de Poda",
+   "Relájese en la isla de Poda, conocida por su hermosa playa, donde puede pasear junto a aguas turquesas o relajarse en la arena blanca",
+   "A continuación, Kai Koh, donde puede nadar y hacer snorkel, la montaña más increíble tiene forma de pollo",
+   "Continúe su viaje hacia el Mar Separado. Mientras sigue navegando, prepárese para quedar asombrado. Hay una hermosa playa de arena blanca fina. Esté atento a ella durante la marea baja",
+   "Hacia las 13:30, viaje a la bahía de Railay para visitar la hermosa cueva de Phra Nang y explorar la belleza de los alrededores, y almuerzo",
+   "Hacia las 14:30, regreso al muelle"
+  ],
+  "notIncluded": []
+ },
+ "similan-islands-snorkeling-trip-by-speedboat-2": {
+  "title": "Excursión de snorkel a las islas Similan en lancha rápida",
+  "metaTitle": "Islas Similan en lancha rápida, snorkel",
+  "metaDescription": "Excursión de día completo en Krabi, con Fantastic Similan Travel, lancha rápida y 6Mwvhjcv+Qh9. Organizada por Oh-Hoo, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de día completo en Krabi, con Fantastic Similan Travel, lancha rápida y 6Mwvhjcv+Qh9. Organizada por Oh-Hoo, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Un día de doce horas hasta las islas Similan, lo bastante alejadas de la costa como para que el agua sea una experiencia distinta a cualquier cosa más cercana a Krabi.\n\nLas Similan son una cadena de nueve islas de granito en el mar de Andamán, y esa distinción importa: casi todo lo demás que hace snorkel en esta región es caliza. El granito se erosiona en enormes rocas redondeadas, por encima y por debajo de la línea de flotación, así que el paisaje submarino está hecho de campos de rocas y pasos a nado en lugar de plataformas de coral. La visibilidad suele ser la mejor de Tailandia, por lo que los buceadores viajan específicamente por ello.\n\nLa excursión visita la isla Miang, conocida como Isla Cuatro, y Ko Bangu en el extremo norte de la cadena. El snorkel se practica sobre arrecife poco profundo entre las rocas, y la vida marina es notablemente más densa que en los arrecifes costeros porque las islas están protegidas y más alejadas de la desembocadura de los ríos.\n\nLo importante a tener en cuenta: las islas Similan cierran por completo cada año, aproximadamente desde mediados de octubre a mediados de noviembre hasta abril o mayo, según las normas del parque nacional tailandés que permiten que el arrecife se recupere y tienen en cuenta el mar monzónico. Las fechas cambian cada año y las fija la autoridad del parque, así que confirme antes de organizar una excursión alrededor de ella.\n\nDoce horas con un largo traslado en cada extremo convierten esto en el día más largo de la lista de Krabi. Los viajeros sensibles al movimiento deberían tomar algo antes de subir a bordo, no después.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye la recogida y el regreso al hotel, la excursión en barco, el guía, el desayuno, el almuerzo buffet, fruta fresca y bebidas, y el equipo de snorkel.\n\nLas tarifas del parque nacional se cobran por separado a menos que se confirme lo contrario. Un día de aviso mínimo.",
+  "highlights": [
+   "Islas de granito, así que campos de rocas en lugar de plataforma de coral",
+   "Entre las aguas más claras de Tailandia",
+   "Isla Miang y Ko Bangu en el norte de la cadena",
+   "Cerradas por el parque nacional aproximadamente de noviembre a abril",
+   "Desayuno, almuerzo buffet, guía y equipo de snorkel incluidos"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Excursión en barco",
+   "Guía",
+   "Desayuno",
+   "Almuerzo buffet",
+   "Fruta fresca y bebida",
+   "Equipo de snorkel"
+  ],
+  "notIncluded": [
+   "Tarifa del parque nacional (400 THB por adulto y 200 THB por niño)"
+  ]
+ },
+ "4-islands-snorkeling-tour-by-speedboat-with-lunch": {
+  "title": "Tour de snorkel a 4 islas en lancha rápida con almuerzo",
+  "metaTitle": "4 islas en lancha rápida con snorkel y almuerzo, Krabi",
+  "metaDescription": "Excursión de medio día en Krabi, con recogida y regreso al hotel y guía profesional. Organizada por Love Nature Krabi Travel and Tours, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de medio día en Krabi, con recogida y regreso al hotel y guía profesional. Organizada por Love Nature Krabi Travel and Tours, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Las cuatro islas en lancha rápida, lo que le compra tiempo en cada parada en lugar de tiempo en el agua.\n\nUn longtail necesita casi todo el día para recorrer el mismo circuito. Una lancha rápida cubre la distancia entre islas en una fracción de ese tiempo, y las horas ahorradas se dedican a estar en las playas en lugar de viajar hacia ellas. Seis horas en lancha rápida cubren lo que un longtail necesita ocho o nueve horas en hacer.\n\nLa ruta es Poda, la isla del Pollo, Tup y Mor. Thale Waek, el Mar Separado, es el banco de arena que emerge cuando baja la marea y une las islas en una franja transitable a pie, y después desaparece cuando regresa el agua. Si la camina depende de la marea de ese día, no del operador.\n\nEl snorkel se practica sobre coral poco profundo cerca de las playas. El arrecife de Krabi es indulgente: no necesita nadar lejos ni bajar profundo para verlo, y varias paradas son lo bastante poco profundas para hacer pie.\n\nSe incluye un almuerzo buffet, junto con fruta de temporada durante el día.\n\nUna nota honesta sobre las lanchas rápidas: son veloces y golpean. En agua plana no es nada; con cualquier marejada, el viaje es duro para la espalda y para quien sea propenso al mareo. Si eso le preocupa, un longtail o catamarán en la misma ruta es el día más suave.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye la recogida y el regreso al hotel, un guía profesional, almuerzo buffet, equipo de snorkel y fruta de temporada.\n\nSeis horas. Las tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario. Un día de aviso mínimo.",
+  "highlights": [
+   "Lancha rápida, así que más tiempo en las playas y menos en tránsito",
+   "Poda, la isla del Pollo, Tup y Mor en seis horas",
+   "Camine por el banco de arena de Thale Waek cuando baja la marea",
+   "Snorkel poco profundo, se puede hacer pie en varias paradas",
+   "Almuerzo buffet y fruta durante el día"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Guía profesional",
+   "Delicioso almuerzo buffet",
+   "Equipo de snorkel",
+   "Frutas de temporada",
+   "Agua potable",
+   "Seguro de viaje",
+   "Chalecos salvavidas"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada al parque nacional"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Crucero en catamarán por 3 islas de Pattaya con almuerzo buffet tailandés",
   "metaTitle": "Pattaya: catamarán 3 islas, almuerzo buffet tailandés",

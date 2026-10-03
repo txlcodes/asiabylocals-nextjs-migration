@@ -43318,6 +43318,83 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mittagessen"
   ]
  },
+ "4-islands-longtail-boat-tour-with-lunch": {
+  "title": "4-Insel-Longtail-Boot-Tour mit Mittagessen",
+  "metaTitle": "4 Inseln per Longtail mit Mittagessen, Krabi",
+  "metaDescription": "Halbtagesausflug in Krabi, mit Hotelabholung und einer 25-minütigen Longtail-Bootsfahrt zur Insel Poda. Organisiert von Punpuntravel and tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbtagesausflug in Krabi, mit Hotelabholung und einer 25-minütigen Longtail-Bootsfahrt zur Insel Poda. Organisiert von Punpuntravel and tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Der klassische Vier-Insel-Tag von Krabi per Longtail-Boot, mit einem morgendlichen Abholfenster, das etwas Nützliches über den Ausflug verrät.\n\nDie Abholung erfolgt zwischen 8:30 und 9:00 Uhr ab Krabi Town, Klong Muang, Ao Nam Mao oder Ao Nang, was bedeutet, dass Sie die Inseln am Vormittag zusammen mit dem Großteil der Flotte erreichen. Das ist der Kompromiss der Vormittagsversion: mehr Boote an jedem Stopp, aber besseres Licht für das Wasser und ein voller Nachmittag, der danach übrig bleibt.\n\nDie Route umfasst Poda, Chicken Island, Tup und Mor. Thale Waek, das geteilte Meer, ist die Sandbank, die Tup und Mor bei Niedrigwasser verbindet und verschwindet, wenn das Wasser zurückkehrt, ob Sie sie begehen, hängt also von der Flut des Tages ab, nicht vom Anbieter. Chicken Island ist nach dem Felsen an seiner Spitze benannt, der nur von einem bestimmten Blickwinkel auf der Anfahrt wie ein Hühnerkopf aussieht.\n\nDas Longtail-Boot ist das langsamere Boot, und das ist hier beabsichtigt. Sein flacher Tiefgang erreicht Wasser, von dem Speedboote weit entfernt ankern müssen, und das Tempo macht die Küste zwischen den Stopps zu einem Teil der Reise statt etwas, über das man hinwegfährt.\n\nMittagessen ist inklusive und wird auf einer der Inseln eingenommen.\n\nDie Abholung ab Klong Muang und Ao Nam Mao zählt, wenn Sie außerhalb von Ao Nang wohnen: Viele Bootsausflüge in Krabi holen nur ab Ao-Nang-Hotels ab und lassen alle anderen selbst zum Pier kommen.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Nationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt, führen Sie also Bargeld mit.\n\nSechs Stunden, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Morgendliche Abfahrt mit einem vollen Nachmittag danach",
+   "Poda, Chicken Island, Tup und Mor per Longtail",
+   "Thale-Waek-Sandbank, nur bei Niedrigwasser begehbar",
+   "Longtail erreicht Flachwasser, von dem Speedboote fern ankern",
+   "Abholung ab Klong Muang und Ao Nam Mao, nicht nur Ao Nang"
+  ],
+  "included": [
+   "Beginnen Sie Ihren wunderbaren Tag mit Abholung an Ihrem Hotel in Krabi Town, Klong Muang, Ao Nam Mao und Ao Nang zwischen 8:30 und 9:00 Uhr",
+   "Genießen Sie eine 25-minütige Longtail-Bootsfahrt zur Insel Poda",
+   "Entspannen Sie auf der Insel Poda, bekannt für ihren schönen Strand, wo Sie entlang türkisfarbenem Wasser spazieren oder sich am weißen Sandstrand entspannen können",
+   "Weiter geht es zu Kai Koh, wo Sie schwimmen und schnorcheln können, der unglaublichste Berg ist wie ein Hühnchen geformt",
+   "Fahren Sie weiter zum geteilten Meer. Während die Fahrt weitergeht, bereiten Sie sich darauf vor, verblüfft zu sein. Es gibt einen feinen weißen Sandstrand. Achten Sie bei Niedrigwasser darauf",
+   "Gegen 13:30 Uhr geht es zur Railay Bay, um die wunderschöne Phra-Nang-Höhle zu besuchen und die Schönheit der Umgebung zu erkunden, und zum Mittagessen",
+   "Gegen 14:30 Uhr Rückkehr zum Pier"
+  ],
+  "notIncluded": []
+ },
+ "similan-islands-snorkeling-trip-by-speedboat-2": {
+  "title": "Schnorchelausflug zu den Similan-Inseln per Speedboot",
+  "metaTitle": "Similan-Inseln per Speedboot, Schnorcheln",
+  "metaDescription": "Ganztagesausflug in Krabi, mit Fantastic Similan Travel, Speedboot und 6Mwvhjcv+Qh9. Organisiert von Oh-Hoo, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztagesausflug in Krabi, mit Fantastic Similan Travel, Speedboot und 6Mwvhjcv+Qh9. Organisiert von Oh-Hoo, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Ein zwölfstündiger Tag zu den Similan-Inseln, die weit genug vor der Küste liegen, dass das Wasser dort ein anderes Erlebnis ist als alles, was näher an Krabi liegt.\n\nDie Similans sind eine Kette aus neun Granitinseln in der Andamanensee, und dieser Unterschied zählt: fast alles andere, was man in dieser Region schnorchelt, ist Kalkstein. Granit verwittert zu riesigen abgerundeten Felsblöcken, über und unter der Wasserlinie, sodass die Unterwasserlandschaft aus Felsblockfeldern und Durchschwimmungen besteht statt aus Korallenbänken. Die Sichtweite ist regelmäßig die beste in Thailand, weshalb Taucher gezielt dafür anreisen.\n\nDer Ausflug besucht Miang Island, bekannt als Insel Nummer vier, und Ko Bangu am nördlichen Ende der Kette. Geschnorchelt wird über flachem Riff zwischen den Felsblöcken, und das Fischleben ist merklich dichter als an den Küstenriffen, da die Inseln geschützt und weiter vom Flussausfluss entfernt sind.\n\nDie wichtige Sache, die man einplanen sollte: Die Similan-Inseln schließen jedes Jahr vollständig, etwa von Mitte Oktober bis Mitte November bis April oder Mai, nach thailändischen Nationalpark-Regeln, die dem Riff die Erholung erlauben und die Monsunsee berücksichtigen. Die Termine verschieben sich jedes Jahr und werden von der Parkbehörde festgelegt, bestätigen Sie also, bevor Sie einen Ausflug darum planen.\n\nZwölf Stunden mit einem langen Transfer an jedem Ende machen dies zum größten Tag auf der Krabi-Liste. Bewegungsempfindliche Reisende sollten etwas vor dem Einstieg einnehmen, nicht danach.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hotelabholung und -rückfahrt, die Bootsfahrt, Guide, Frühstück, Buffet-Mittagessen, frisches Obst und Getränke, und Schnorchelausrüstung.\n\nNationalpark-Gebühren werden separat erhoben, sofern nicht anders bestätigt. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Granitinseln, also Felsblockfelder statt Korallenbänke",
+   "Eines der klarsten Gewässer Thailands",
+   "Miang Island und Ko Bangu im Norden der Kette",
+   "Vom Nationalpark etwa von November bis April geschlossen",
+   "Frühstück, Buffet-Mittagessen, Guide und Schnorchelausrüstung inklusive"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt",
+   "Bootsfahrt",
+   "Guide",
+   "Frühstück",
+   "Buffet-Mittagessen",
+   "Frisches Obst und Getränk",
+   "Schnorchelausrüstung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Gebühr (400 THB pro Erwachsenem und 200 THB pro Kind)"
+  ]
+ },
+ "4-islands-snorkeling-tour-by-speedboat-with-lunch": {
+  "title": "4-Insel-Schnorcheltour per Speedboot mit Mittagessen",
+  "metaTitle": "4 Inseln per Speedboot mit Schnorcheln, Mittagessen",
+  "metaDescription": "Halbtagesausflug in Krabi, mit Hotelabholung und -rückfahrt und professionellem Guide. Organisiert von Love Nature Krabi Travel and Tours, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbtagesausflug in Krabi, mit Hotelabholung und -rückfahrt und professionellem Guide. Organisiert von Love Nature Krabi Travel and Tours, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Die vier Inseln per Speedboot, was Ihnen Zeit an jedem Stopp statt Zeit auf dem Wasser verschafft.\n\nEin Longtail-Boot braucht fast den ganzen Tag, um denselben Rundgang zu bewältigen. Ein Speedboot deckt die Distanz zwischen den Inseln in einem Bruchteil davon ab, und die gesparten Stunden fließen ins Sein am Strand statt in die Fahrt dorthin. Sechs Stunden auf einem Speedboot decken ab, wofür ein Longtail acht oder neun Stunden braucht.\n\nDie Route umfasst Poda, Chicken Island, Tup und Mor. Thale Waek, das geteilte Meer, ist die Sandbank, die bei fallender Flut auftaucht und die Inseln zu einem begehbaren Streifen verbindet, und dann verschwindet, wenn das Wasser zurückkehrt. Ob Sie sie begehen, hängt von der Flut des jeweiligen Tages ab, nicht vom Anbieter.\n\nGeschnorchelt wird über flachen Korallen nahe den Stränden. Krabis Riff ist nachsichtig: Sie müssen nicht hinausschwimmen oder tief gehen, um es zu sehen, und mehrere Stopps sind flach genug, um darin zu stehen.\n\nEin Buffet-Mittagessen ist inklusive, zusammen mit Saisonobst über den Tag.\n\nEine ehrliche Anmerkung zu Speedbooten: Sie sind schnell und schlagen auf. Auf ruhigem Wasser ist das nichts; in jedem Wellengang ist die Fahrt hart für den Rücken und für alle, die zu Seekrankheit neigen. Wenn das eine Sorge ist, ist ein Longtail oder Katamaran auf derselben Route der sanftere Tag.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hotelabholung und -rückfahrt, einen professionellen Guide, Buffet-Mittagessen, Schnorchelausrüstung und Saisonobst.\n\nSechs Stunden. Nationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Speedboot, also mehr Zeit an den Stränden und weniger auf der Fahrt",
+   "Poda, Chicken Island, Tup und Mor in sechs Stunden",
+   "Begehen Sie die Thale-Waek-Sandbank bei fallender Flut",
+   "Flaches Schnorcheln, an mehreren Stopps stehend",
+   "Buffet-Mittagessen und Obst über den Tag"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt",
+   "Professioneller Guide",
+   "Köstliches Buffet-Mittagessen",
+   "Schnorchelausrüstung",
+   "Saisonobst",
+   "Trinkwasser",
+   "Reiseversicherung",
+   "Schwimmwesten"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittsgebühr"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Pattaya 3-Insel-Katamaran-Kreuzfahrt mit thailändischem Buffet-Mittagessen",
   "metaTitle": "Pattaya: Katamaran 3 Inseln, thailändisches Buffet-Mittagessen",

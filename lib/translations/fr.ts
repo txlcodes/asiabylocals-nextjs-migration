@@ -43318,6 +43318,83 @@ export const FR_TOURS: Record<string, TourT> = {
    "Déjeuner"
   ]
  },
+ "4-islands-longtail-boat-tour-with-lunch": {
+  "title": "Excursion en bateau à longue queue aux 4 îles avec déjeuner",
+  "metaTitle": "4 îles en longtail avec déjeuner, Krabi",
+  "metaDescription": "Excursion d'une demi-journée à Krabi, incluant une prise en charge à l'hôtel et une balade de 25 minutes en bateau à longue queue jusqu'à l'île de Poda. Organisée par Punpuntravel and tour, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une demi-journée à Krabi, incluant une prise en charge à l'hôtel et une balade de 25 minutes en bateau à longue queue jusqu'à l'île de Poda. Organisée par Punpuntravel and tour, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "La journée classique des quatre îles de Krabi en bateau à longue queue, avec une fenêtre de prise en charge matinale qui en dit long sur l'excursion.\n\nLa prise en charge se fait entre 8 h 30 et 9 h depuis la ville de Krabi, Klong Muang, Ao Nam Mao ou Ao Nang, ce qui signifie que vous atteignez les îles en milieu de matinée en même temps que la majorité de la flotte. C'est le compromis de la version matinale : plus de bateaux à chaque arrêt, mais une meilleure lumière pour l'eau et un après-midi entier qui reste libre ensuite.\n\nLe circuit couvre Poda, l'île du Poulet, Tup et Mor. Thale Waek, la Mer Séparée, est le banc de sable qui relie Tup et Mor à marée basse et disparaît quand l'eau revient, donc le marcher dépend de la marée du jour plutôt que de l'opérateur. L'île du Poulet doit son nom au rocher à sa pointe, qui ne ressemble à une tête de poulet que depuis un certain angle à l'approche.\n\nLe bateau à longue queue est le bateau plus lent, et c'est délibéré ici. Son faible tirant d'eau atteint des zones dont les hors-bords doivent s'ancrer à l'écart, et le rythme fait du littoral entre les arrêts une partie de l'excursion plutôt que quelque chose qu'on traverse rapidement.\n\nLe déjeuner est compris et pris sur l'une des îles.\n\nLa prise en charge depuis Klong Muang et Ao Nam Mao compte si vous résidez hors d'Ao Nang : beaucoup d'excursions en bateau à Krabi ne prennent en charge que depuis les hôtels d'Ao Nang et laissent tous les autres se débrouiller pour rejoindre la jetée.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Les frais de parc national sont perçus à la jetée sauf confirmation contraire, prévoyez donc des espèces.\n\nSix heures, un jour de préavis minimum.",
+  "highlights": [
+   "Départ matinal avec un après-midi entier libre ensuite",
+   "Poda, l'île du Poulet, Tup et Mor en bateau à longue queue",
+   "Banc de sable de Thale Waek, praticable uniquement à marée basse",
+   "Le longtail atteint des eaux peu profondes dont les hors-bords s'ancrent à l'écart",
+   "Prise en charge depuis Klong Muang et Ao Nam Mao, pas seulement Ao Nang"
+  ],
+  "included": [
+   "Commencez votre merveilleuse journée avec une prise en charge à votre hôtel à Krabi Town, Klong Muang, Ao Nam Mao et Ao Nang entre 8 h 30 et 9 h",
+   "Profitez d'une balade de 25 minutes en bateau à longue queue jusqu'à l'île de Poda",
+   "Détendez-vous à l'île de Poda, connue pour sa magnifique plage où vous pouvez vous promener le long d'eaux turquoise ou vous relaxer sur le sable blanc",
+   "Ensuite, Kai Koh où vous pouvez nager et faire de la plongée avec tuba, la montagne la plus incroyable ayant la forme d'un poulet",
+   "Poursuivez votre voyage vers la Mer Séparée. En continuant la croisière, préparez-vous à être émerveillé. Il y a une belle plage de sable blanc fin. Surveillez-la à marée basse",
+   "Vers 13 h 30, trajet vers la baie de Railay pour visiter la magnifique grotte de Phra Nang et explorer la beauté des environs, puis déjeuner",
+   "Vers 14 h 30, retour à la jetée"
+  ],
+  "notIncluded": []
+ },
+ "similan-islands-snorkeling-trip-by-speedboat-2": {
+  "title": "Excursion de plongée avec tuba aux îles Similan en hors-bord",
+  "metaTitle": "Îles Similan en hors-bord, plongée avec tuba",
+  "metaDescription": "Excursion d'une journée complète à Krabi, incluant Fantastic Similan Travel, hors-bord et 6Mwvhjcv+Qh9. Organisée par Oh-Hoo, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une journée complète à Krabi, incluant Fantastic Similan Travel, hors-bord et 6Mwvhjcv+Qh9. Organisée par Oh-Hoo, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Une journée de douze heures vers les îles Similan, situées assez loin au large pour que l'eau y soit une expérience différente de tout ce qui se trouve plus près de Krabi.\n\nLes Similan forment une chaîne de neuf îles granitiques dans la mer d'Andaman, et cette distinction compte : presque tout le reste de la plongée avec tuba dans cette région se fait sur du calcaire. Le granite s'érode en énormes rochers arrondis, au-dessus et sous la surface de l'eau, donc le paysage sous-marin est fait de champs de rochers et de passages à la nage plutôt que de plateau corallien. La visibilité y est régulièrement la meilleure de Thaïlande, c'est pourquoi les plongeurs s'y déplacent spécifiquement.\n\nL'excursion visite l'île Miang, connue comme l'île numéro quatre, et Ko Bangu à l'extrémité nord de la chaîne. La plongée avec tuba se fait sur un récif peu profond entre les rochers, et la vie marine y est sensiblement plus dense que sur les récifs côtiers, car les îles sont protégées et plus éloignées des rejets fluviaux.\n\nL'important à anticiper : les îles Similan ferment entièrement chaque année, environ de mi-octobre à mi-novembre jusqu'en avril ou mai, selon les règles du parc national thaïlandais qui permettent au récif de se régénérer et tiennent compte de la mer de mousson. Les dates changent chaque année et sont fixées par l'autorité du parc, donc vérifiez avant de construire une excursion autour.\n\nDouze heures avec un long transfert à chaque extrémité en font la plus grande journée de la liste de Krabi. Les voyageurs sensibles au mal des transports devraient prendre quelque chose avant l'embarquement, pas après.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la prise en charge et le retour à l'hôtel, l'excursion en bateau, le guide, le petit-déjeuner, le déjeuner buffet, des fruits frais et des boissons, et l'équipement de plongée avec tuba.\n\nLes frais de parc national sont perçus séparément sauf confirmation contraire. Un jour de préavis minimum.",
+  "highlights": [
+   "Îles granitiques, donc des champs de rochers plutôt qu'un plateau corallien",
+   "Parmi les eaux les plus claires de Thaïlande",
+   "L'île Miang et Ko Bangu au nord de la chaîne",
+   "Fermées par le parc national environ de novembre à avril",
+   "Petit-déjeuner, déjeuner buffet, guide et équipement de plongée avec tuba compris"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Excursion en bateau",
+   "Guide",
+   "Petit-déjeuner",
+   "Déjeuner buffet",
+   "Fruits frais et boisson",
+   "Équipement de plongée avec tuba"
+  ],
+  "notIncluded": [
+   "Frais de parc national (400 THB par adulte et 200 THB par enfant)"
+  ]
+ },
+ "4-islands-snorkeling-tour-by-speedboat-with-lunch": {
+  "title": "Excursion de plongée avec tuba aux 4 îles en hors-bord avec déjeuner",
+  "metaTitle": "4 îles en hors-bord avec tuba et déjeuner, Krabi",
+  "metaDescription": "Excursion d'une demi-journée à Krabi, incluant prise en charge et retour à l'hôtel et guide professionnel. Organisée par Love Nature Krabi Travel and Tours, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une demi-journée à Krabi, incluant prise en charge et retour à l'hôtel et guide professionnel. Organisée par Love Nature Krabi Travel and Tours, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Les quatre îles en hors-bord, ce qui vous achète du temps à chaque arrêt plutôt que du temps sur l'eau.\n\nUn bateau à longue queue met presque toute la journée à parcourir le même circuit. Un hors-bord couvre la distance entre les îles en une fraction de ce temps, et les heures gagnées sont consacrées à être sur les plages plutôt qu'à s'y rendre. Six heures en hors-bord couvrent ce qu'un longtail met huit ou neuf heures à faire.\n\nLe circuit couvre Poda, l'île du Poulet, Tup et Mor. Thale Waek, la Mer Séparée, est le banc de sable qui émerge à mesure que la marée descend et relie les îles en une bande praticable à pied, puis disparaît quand l'eau revient. Que vous la marchiez dépend de la marée du jour, pas de l'opérateur.\n\nLa plongée avec tuba se fait sur des coraux peu profonds proches des plages. Le récif de Krabi est accommodant : vous n'avez pas besoin de nager loin ni de vous enfoncer pour le voir, et plusieurs arrêts sont assez peu profonds pour qu'on puisse y tenir debout.\n\nUn déjeuner buffet est compris, ainsi que des fruits de saison tout au long de la journée.\n\nUne note honnête sur les hors-bords : ils sont rapides et tapent fort. Sur une eau calme, ce n'est rien ; par toute houle, le trajet est éprouvant pour le dos et pour quiconque est sujet au mal de mer. Si c'est une préoccupation, un longtail ou un catamaran sur le même circuit constitue une journée plus douce.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la prise en charge et le retour à l'hôtel, un guide professionnel, le déjeuner buffet, l'équipement de plongée avec tuba et des fruits de saison.\n\nSix heures. Les frais de parc national sont perçus à la jetée sauf confirmation contraire. Un jour de préavis minimum.",
+  "highlights": [
+   "Hors-bord, donc plus de temps sur les plages et moins en transit",
+   "Poda, l'île du Poulet, Tup et Mor en six heures",
+   "Marchez sur le banc de sable de Thale Waek quand la marée descend",
+   "Plongée avec tuba peu profonde, praticable debout à plusieurs arrêts",
+   "Déjeuner buffet et fruits tout au long de la journée"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Guide professionnel",
+   "Délicieux déjeuner buffet",
+   "Équipement de plongée avec tuba",
+   "Fruits de saison",
+   "Eau potable",
+   "Assurance voyage",
+   "Gilets de sauvetage"
+  ],
+  "notIncluded": [
+   "Frais d'entrée du parc national"
+  ]
+ },
  "monkey-island-chonburi-boat-tour": {
   "title": "Croisière en catamaran entre 3 îles de Pattaya avec déjeuner buffet thaïlandais",
   "metaTitle": "Pattaya : catamaran 3 îles, déjeuner buffet thaïlandais",
