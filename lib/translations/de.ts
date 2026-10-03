@@ -23510,6 +23510,35 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Kleingruppen-Speedboot-Tour zu Phi Phi und Khai Island",
   "metaDescription": "Ganztägige Tour in Phuket. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "james-bond-panyi-and-5-islands-tour-with-canoeing": {
+  "title": "James-Bond-, Panyi- und 5-Inseln-Tour mit Kanufahren",
+  "fullDescription": "Dies ist ein 9-stündiges Erlebnis in Phuket, rund um Phuket, Schnellboot und Panak-Insel. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind All-inclusive-Tour im Schnellboot oder Katamaran, Englischsprachiger Guide, Hotelabholung und -rückfahrt in Khao Lak, Kanufahren auf Hong Island mit lokalem Guide und Nationalparkgebühr. Nicht enthalten sind Optional: zusätzliche Aktivitäten auf Khai Island oder Getränke, die nicht, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Phuket. Discover Thailand bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Phuket",
+   "Schnellboot",
+   "Panak-Insel",
+   "James-Bond-Insel",
+   "Dauer: 9 Stunden",
+   "All-inclusive-Tour im Schnellboot oder Katamaran"
+  ],
+  "included": [
+   "All-inclusive-Tour im Schnellboot oder Katamaran",
+   "Professioneller englischsprachiger Reiseleiter",
+   "Hotelabholung und -rückfahrt in Khao Lak (falls Option ausgewählt)",
+   "Kanufahren auf Hong Island mit lokalem Guide",
+   "Nationalparkgebühr (300 Baht pro Person)",
+   "Mittagsbuffet auf Koh Panyi (vegetarische und Halal-Optionen verfügbar)",
+   "Snacks den ganzen Tag über, Softdrinks und Wasser",
+   "Versicherungsschutz",
+   "Schnorchelmaske"
+  ],
+  "notIncluded": [
+   "Optional: zusätzliche Aktivitäten auf Khai Island oder Getränke, die nicht in der Tourbeschreibung aufgeführt sind (bar an den lokalen Verkäufer zu zahlen)"
+  ],
+  "shortDescription": "Ganztägige Tour in Phuket, mit Phuket, Schnellboot und Panak-Insel. Durchgeführt von Discover Thailand, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "James-Bond-, Panyi- und 5-Inseln-Tour mit Kanufahren",
+  "metaDescription": "Ganztägige Tour in Phuket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "jungle-xtrem-adventures-and-zipline-park-in-phuket": {
   "title": "Jungle-Xtrem-Abenteuer- und Zipline-Park in Phuket",
   "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Phuket. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Guide, Eintrittskarte für den Jungle Xtrem Adventures Park, Wasser und Kaltes Gesichtstuch. Nicht enthalten sind Hotelabholung und -rückfahrt für Alleinreisende, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Phuket. Oh-Hoo bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -23699,6 +23728,35 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Kleingruppen-Speedboot-Tour bei Sonnenaufgang zur Phi-Phi-Insel",
   "metaDescription": "Ganztägige Tour in Phuket. Enthalten: Abholung und Rückfahrt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "lazy-khao-phing-kan-and-yao-islands-speedboat-day-tour-in-phuket": {
+  "title": "Entspannte Tagestour mit dem Speedboot zu Khao Phing Kan und den Yao-Inseln in Phuket",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Phuket, rund um AA Marina, Schnellboot und Phang-Nga-Bucht. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Phang-Nga-Bucht ist eine versunkene Karstlandschaft aus etwa 40 Kalksteintürmen, die zwischen Phuket und Krabi aus flachem grünem Wasser aufragen, berühmt geworden durch den Bond-Film von 1974, der an Khao Phing Kan gedreht wurde, der Insel, die heute James-Bond-Insel heißt, klein, belebt und zwanzig Minuten wert. Der Grund zu kommen ist das Kanufahren in den Meereshöhlen: bei Niedrigwasser schlüpfen Schlauchkanus durch Tunnel in verborgene Lagunen (Hongs) im Inneren der Inseln, umringt von Klippen und Mangroven, und die Gezeiten bestimmen den Ablauf. Koh Panyee, das muslimische Fischerdorf auf Stelzen, ist der Halt zum Mittagessen. Fahrten im Longtail-Boot von der Phang-Nga-Seite sind ruhiger als Schnellboote ab Phuket.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Kleine Erfrischung am AA-Marina-Pier, Aktuelle Informationen zu Ihrer Bootstour, Köstliches Mittagessen und Reiseversicherung. Nicht enthalten sind Handtuch / Flossen und Nationalparkgebühr, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nPhuket. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "AA Marina",
+   "Schnellboot",
+   "Phang-Nga-Bucht",
+   "Panak-Insel",
+   "Dauer: 8 Stunden",
+   "Abholung und Rückfahrt zum Hotel"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Kleine Erfrischung am AA-Marina-Pier",
+   "Aktuelle Informationen zu Ihrer Bootstour",
+   "Köstliches Mittagessen",
+   "Reiseversicherung",
+   "Kleine Erfrischung an Bord",
+   "Schwimmwesten an Bord",
+   "Englischsprachiger Reiseleiter"
+  ],
+  "notIncluded": [
+   "Handtuch / Flossen",
+   "Nationalparkgebühr (300 THB pro Erwachsenem und 150 THB pro Kind)"
+  ],
+  "shortDescription": "Ganztägige Tour in Phuket, mit AA Marina, Schnellboot und Phang-Nga-Bucht. Durchgeführt von Oh-Hoo, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Entspannte Tagestour mit dem Speedboot zu Khao Phing Kan und den Yao-Inseln in Phuket",
+  "metaDescription": "Ganztägige Tour in Phuket. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "custom-perfume-workshop-at-boat-avenue-in-phuket": {
   "title": "Individueller Parfüm-Workshop in Boat Avenue in Phuket",
   "fullDescription": "Dies ist ein 2-stündiges Erlebnis in Phuket. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Vollständig geführter Parfüm-Workshop, Zugang zur Duftnoten-Bibliothek, Alle Werkzeuge und Materialien und Ihr fertiges Produkt zum Mitnehmen. Nicht enthalten sind Fahrt zum und vom Treffpunkt und Sonstige persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -23790,6 +23848,34 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Phuket, inklusive Abholung und Rückfahrt zum Hotel, Hin- und Rücktransfer mit Premium-Speedboot und Englischsprachiger Guide. Durchgeführt von บริษัท เจ แอนด์ เจ แอฟฟลูเอนท์ ทราเวล แอนด์ ทัวร์ จํากัด, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Schnellkatamaran-Tour zu den Similan-Inseln mit Mittagessen",
   "metaDescription": "Ganztägige Tour in Phuket. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "luxury-catamaran-cruise-phi-phi-maya-khai-and-maiton": {
+  "title": "Luxus-Katamaran-Kreuzfahrt: Phi Phi, Maya, Khai und Maiton",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Phuket, rund um Tip-Top-Reiseziel, Katamaran und Maya Bay. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Kamala, Phuket, Chalong, Pa Tong, Kata Beach und Karon möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Thailand Escapes abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Hin- und Rück-Hoteltransfer ab zentral gelegenen Hotels, Frühstück, Mittagsbuffet, Schnorchelausrüstung, Transparentes Kajak und Paddleboard und Schwimmweste. Nicht enthalten sind Trinkgeld, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Tip-Top-Reiseziel",
+   "Katamaran",
+   "Maya Bay",
+   "Pileh-Lagune",
+   "Dauer: 8 Stunden",
+   "Hin- und Rück-Hoteltransfer ab zentral gelegenen Hotels (Patong, Kata, Kathu, Kamala, Karon, Kalim, Tritrang, Koh Siray, Chalong und Phuket Town)"
+  ],
+  "included": [
+   "Hin- und Rück-Hoteltransfer ab zentral gelegenen Hotels (Patong, Kata, Kathu, Kamala, Karon, Kalim, Tritrang, Koh Siray, Chalong und Phuket Town)",
+   "Frühstück, Mittagsbuffet, Backwaren, Kaffee und Tee",
+   "Schnorchelausrüstung",
+   "Transparentes Kajak und Paddleboard (auf Maiton Island)",
+   "Schwimmweste",
+   "Basis-Unfallversicherung",
+   "Professioneller englischsprachiger Guide",
+   "Eintrittsgebühr des Nationalparks"
+  ],
+  "notIncluded": [
+   "Trinkgeld"
+  ],
+  "shortDescription": "Ganztägige Tour in Phuket, mit Tip-Top-Reiseziel, Catamaran and Loh Samah Bay und Phi-Phi-Inseln. Durchgeführt von Thailand Escapes, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Luxus-Katamaran-Kreuzfahrt: Phi Phi, Maya, Khai und Maiton",
+  "metaDescription": "Ganztägige Tour in Phuket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "simon-cabaret-phuket-show-included-tickets-and-transfer-by-local-operator": {
   "title": "Simon-Kabarett-Show in Phuket, Tickets inklusive und Transfer, von einem lokalen Anbieter",
@@ -23915,6 +24001,67 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Junkyard-Theater mit Willkommensgetränk, nur Show-Ticket",
   "metaDescription": "Eintrittskarte in Phuket. Enthalten: Abendessen mit 3 Gängen. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "similan-islands-lazy-bird-program": {
+  "title": "Lazy-Bird-Programm auf den Similan-Inseln",
+  "fullDescription": "Dies ist ein 11-stündiges Erlebnis ab Phuket, rund um Thap-Lamu-Pier und Nationalpark Mu Ko Similan. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Nai Yang beach, Karon Beach, Old Phuket Town, Khao Lak, Bang Tao Beach und Rawai möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Odeon Tours DMC Thailand abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Hotelabholung und -rückfahrt ab Phuket und Khao Lak, Leichtes Frühstück am Pier, Schnorchelausrüstung, lizenziertes Personal und Crew und Ganztägiges Similan-Inseln-Erlebnis. Nicht enthalten sind Privater Transfer und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Phuket. Odeon Tours DMC Thailand bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Thap-Lamu-Pier",
+   "Nationalpark Mu Ko Similan",
+   "Dauer: 11 Stunden",
+   "Hotelabholung und -rückfahrt ab Phuket und Khao Lak",
+   "Leichtes Frühstück am Pier",
+   "Schnorchelausrüstung (Maske, Schnorchel, Flossen)"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt ab Phuket und Khao Lak",
+   "Leichtes Frühstück am Pier",
+   "Schnorchelausrüstung (Maske, Schnorchel, Flossen)",
+   "Professionelles und lizenziertes Tourpersonal und Crew",
+   "Ganztägiges Similan-Inseln-Erlebnis",
+   "Mittagessen und Erfrischungen",
+   "Nationalparkgebühren",
+   "Reiseversicherung",
+   "Leichtes Abendessen am Pier.",
+   "Handtücher"
+  ],
+  "notIncluded": [
+   "Privater Transfer",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Ganztägige Tour in Phuket, mit Thap-Lamu-Pier, Mu Ko Similan National Park and Sailboat Rock und Similan-Inseln. Durchgeführt von Odeon Tours DMC Thailand, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Lazy-Bird-Programm auf den Similan-Inseln",
+  "metaDescription": "Ganztägige Tour in Phuket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "phuket-cheow-guided-tour": {
+  "title": "All-inclusive-Tour zum Cheow-Lan-See, Höhle, Kajak und Mittagessen in Phuket",
+  "fullDescription": "Dies ist ein 14-stündiges Erlebnis ab Phuket, rund um Khao Sam Kloe und Cheow-Lan-See. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Phang-Nga-Bucht ist eine versunkene Karstlandschaft aus etwa 40 Kalksteintürmen, die zwischen Phuket und Krabi aus flachem grünem Wasser aufragen, berühmt geworden durch den Bond-Film von 1974, der an Khao Phing Kan gedreht wurde, der Insel, die heute James-Bond-Insel heißt, klein, belebt und zwanzig Minuten wert. Der Grund zu kommen ist das Kanufahren in den Meereshöhlen: bei Niedrigwasser schlüpfen Schlauchkanus durch Tunnel in verborgene Lagunen (Hongs) im Inneren der Inseln, umringt von Klippen und Mangroven, und die Gezeiten bestimmen den Ablauf. Koh Panyee, das muslimische Fischerdorf auf Stelzen, ist der Halt zum Mittagessen. Fahrten im Longtail-Boot von der Phang-Nga-Seite sind ruhiger als Schnellboote ab Phuket.\n\nIm Preis enthalten sind Hin- und Rück-Hoteltransfer mit klimatisiertem VIP-Minivan, Nationalpark-Ticket, Reiseunfallversicherung, Longtail-Boot mit professionellem Kapitän und Mittagessen im PhuTawan Rafthouse. Nicht enthalten sind Persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nPhuket. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Khao Sam Kloe",
+   "Cheow-Lan-See",
+   "Dauer: 14 Stunden",
+   "Hin- und Rück-Hoteltransfer mit klimatisiertem VIP-Minivan",
+   "Nationalpark-Ticket, Eintrittsgebühren, Pier-Ticket",
+   "Reiseunfallversicherung"
+  ],
+  "included": [
+   "Hin- und Rück-Hoteltransfer mit klimatisiertem VIP-Minivan",
+   "Nationalpark-Ticket, Eintrittsgebühren, Pier-Ticket",
+   "Reiseunfallversicherung",
+   "Longtail-Boot mit professionellem Kapitän",
+   "Mittagessen im PhuTawan Rafthouse",
+   "Saisonales Obst, Trinkwasser",
+   "Reiseleiter (englischsprachig)",
+   "Kajak und Schwimmweste",
+   "Suchscheinwerfer für die Höhlenforschung"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Ganztägige Tour in Phuket, mit Khao Sam Kloe und Cheow-Lan-See. Durchgeführt von GRAND NATURE TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "All-inclusive-Tour zum Cheow-Lan-See, Höhle, Kajak und Mittagessen in Phuket",
+  "metaDescription": "Ganztägige Tour in Phuket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "james-bond-and-khai-day-trip-by-speedboat-catamaran": {
   "title": "Tagesausflug zur James-Bond-Insel und Khai mit Speedboot/Katamaran",
   "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Phuket, rund um Seastar Andaman, Schnellboot und Phang-Nga-Bucht. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Kleine Erfrischungen am privaten Pier, Köstliches Mittagessen, Reiseversicherung und Kleine Erfrischungen an Bord. Nicht enthalten sind Nationalparkgebühr, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nPhuket. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -23941,6 +24088,64 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Phuket, mit Seastar Andaman, Schnellboot und Phang-Nga-Bucht. Durchgeführt von Oh-Hoo, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Tagesausflug zur James-Bond-Insel und Khai mit Speedboot/Katamaran",
   "metaDescription": "Ganztägige Tour in Phuket. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "from-khao-lak-or-phuket-2-day-cheow-lan-lake-tour-by-local-operator": {
+  "title": "Ab Khao Lak oder Phuket: 2-tägige Cheow-Lan-See-Tour, von einem lokalen Anbieter",
+  "fullDescription": "Dies ist ein 2-tägiges Erlebnis ab Phuket, rund um Kreuzfahrt und jungle walk at the lake. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Klimatisierter Transport, Bootstour auf dem Cheow-Lan-See mit Gebühren, Gebühr des Nationalparks und Mahlzeiten. Nicht enthalten sind Trinkgelder und Alkoholische Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Phuket. Khaolak Planner bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Kreuzfahrt und Dschungelspaziergang am See",
+   "Dauer: 2 Tage",
+   "Abholung und Rückfahrt zum Hotel",
+   "Klimatisierter Transport",
+   "Bootstour auf dem Cheow-Lan-See mit Gebühren",
+   "Gebühr des Nationalparks"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Klimatisierter Transport",
+   "Bootstour auf dem Cheow-Lan-See mit Gebühren",
+   "Gebühr des Nationalparks",
+   "Mahlzeiten (Mittagessen, Abendessen, Frühstück und Mittagessen)",
+   "Softdrinks und Flaschenwasser",
+   "Übernachtungsunterkunft",
+   "Kajaknutzung (mit einer Kaution von 500 THB)",
+   "Fernglasvermietung"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Alkoholische Getränke"
+  ],
+  "shortDescription": "2-tägige Tour in Phuket, mit Take a kayak tour and have breakfast, Cruise and jungle walk at the lake and Lunch at local restaurant und transfer back. Durchgeführt von Khaolak Planner, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ab Khao Lak oder Phuket: 2-tägige Cheow-Lan-See-Tour, von einem lokalen Anbieter",
+  "metaDescription": "2-tägige Tour in Phuket. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "phuket-buggy-tour-to-big-buddha-1-hr-by-local-operator": {
+  "title": "Phuket-Buggy-Tour zum Großen Buddha, 1 Std., von einem lokalen Anbieter",
+  "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Phuket. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Kostenloser Transferservice nur ab Chalong, Karon, Kata, Patong, Vollständige Nutzung von Helm und Buggy, Tourleiter, Kostenloses Wasser in Flaschen und Erste-Hilfe-Versicherung. Nicht enthalten sind Trinkgelder und Mahlzeit, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nPa Tong. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1 Stunde",
+   "Kostenloser Transferservice nur ab Chalong, Karon, Kata, Patong",
+   "Vollständige Nutzung von Helm und Buggy",
+   "Erfahrene Tourleiter",
+   "Kostenloses Flaschenwasser, kalte Getränke, kaltes Handtuch",
+   "Erste-Hilfe-Versicherung"
+  ],
+  "included": [
+   "Kostenloser Transferservice nur ab Chalong, Karon, Kata, Patong",
+   "Vollständige Nutzung von Helm und Buggy",
+   "Erfahrene Tourleiter",
+   "Kostenloses Flaschenwasser, kalte Getränke, kaltes Handtuch",
+   "Erste-Hilfe-Versicherung",
+   "Kostenloser Softdrink",
+   "Versicherung nur für Verletzungen"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Mahlzeit"
+  ],
+  "shortDescription": "1-stündige Tour in Phuket, inklusive Kostenloser Transferservice nur ab Chalong, Karon, Kata, Patong, Vollständige Nutzung von Helm und Buggy und Tourleiter. Durchgeführt von Travel Bays Network Co. Ltd, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Phuket-Buggy-Tour zum Großen Buddha, 1 Std., von einem lokalen Anbieter",
+  "metaDescription": "1-stündige Tour in Phuket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "buggy-tour-with-hidden-beach-visit-in-phuket": {
   "title": "Buggy-Tour mit Besuch eines versteckten Strandes in Phuket",
@@ -23993,9 +24198,37 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder für die Reiseleiter",
    "Zusätzliche Getränke"
   ],
-  "shortDescription": "Ganztägige Tour in Phuket, mit Schnellboot, Sailboat Rock, Similan Islands und Ko Bangu. Durchgeführt von Delight Tours and Travels, direkt gebucht statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztägige Tour in Phuket, mit Schnellboot, Sailboat Rock, Similan-Inseln und Ko Bangu. Durchgeführt von Delight Tours and Travels, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Similan-Insel-Abenteuertour",
   "metaDescription": "Ganztägige Tour in Phuket. Enthalten: Hin- und Rücktransfers im Schnellboot. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "koh-haa-and-koh-rok-snorkel-tour-with-buffet-lunch-in-phuket": {
+  "title": "Koh-Haa- und Koh-Rok-Schnorcheltour mit Mittagsbuffet in Phuket",
+  "fullDescription": "Dies ist ein 9-stündiges Erlebnis ab Phuket, rund um Schnellboot, Koh-Rok-Inseln und Koh Haa (Fünf Inseln). Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind All-inclusive-Speedboot-Tour, Abholung und Rückfahrt am Hotel in Phuket, Englischsprachiger Guide, Nationalparkgebühr und Schnorchelmaske und Flossen. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Phuket. Discover Thailand bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Schnellboot",
+   "Koh-Rok-Inseln",
+   "Koh Haa (Fünf Inseln)",
+   "Private Insel Maiton",
+   "Dauer: 9 Stunden",
+   "All-inclusive-Speedboot-Tour"
+  ],
+  "included": [
+   "All-inclusive-Speedboot-Tour",
+   "Hotelabholung und -rückfahrt in Phuket (falls Option ausgewählt)",
+   "Professioneller englischsprachiger Reiseleiter",
+   "Nationalparkgebühr (400 Baht pro Person)",
+   "Schnorchelmaske und Flossen",
+   "Handtuch",
+   "Snacks den ganzen Tag über",
+   "Mittagsbuffet am Strand von Koh Rok (vegetarische und Halal-Optionen verfügbar)",
+   "Softdrinks und Wasser",
+   "Versicherungsschutz"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour in Phuket, mit Schnellboot, Koh-Rok-Inseln und Koh Haa (Fünf Inseln). Durchgeführt von Discover Thailand, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Koh-Haa- und Koh-Rok-Schnorcheltour mit Mittagsbuffet in Phuket",
+  "metaDescription": "Tour in Phuket. Enthalten: All-inclusive-Speedboot-Tour. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "from-phuket-or-khaolak-similan-islands-day-trip-by-local-operator": {
   "title": "Ab Phuket oder Khao Lak: Tagesausflug zu den Similan-Inseln, von einem lokalen Anbieter",
@@ -24024,6 +24257,38 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Phuket, mit Thap-Lamu-Pier, Schnellboot und Donald-Duck-Bucht. Durchgeführt von Love Andaman, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Ab Phuket oder Khao Lak: Tagesausflug zu den Similan-Inseln, von einem lokalen Anbieter",
   "metaDescription": "Tour in Phuket. Enthalten: Abholung und Rückfahrt zu Ihrer Unterkunft. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "luxury-cruise-to-james-bond-island-and-phang-nga-bay": {
+  "title": "Luxuskreuzfahrt zur James-Bond-Insel und Phang-Nga-Bucht",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Phuket, rund um Flussboot. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Pa Tong und Phuket möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Choke Chai M Travel abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Hotelabholung und -rückfahrt in Phuket, Kleine Erfrischung an Bord am Ao-Po-Pier, Kanuausrüstung, Köstliches Mittagessen am Bootsbuffet und Reiseversicherung. Nicht enthalten sind Gebühr des Nationalparks, Zusätzliche Transfergebühr von 300 THB/Person: Naiharn, Rawai, Chalong, Persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Phuket. Choke Chai M Travel bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Flussboot",
+   "Dauer: 8 Stunden",
+   "Hotelabholung und -rückfahrt in Phuket",
+   "Kleine Erfrischung an Bord am Ao-Po-Pier",
+   "Kanuausrüstung",
+   "Köstliches Mittagessen am Bootsbuffet (Halal)"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Phuket",
+   "Kleine Erfrischung an Bord am Ao-Po-Pier",
+   "Kanuausrüstung",
+   "Köstliches Mittagessen am Bootsbuffet (Halal)",
+   "Reiseversicherung",
+   "Schwimmwesten an Bord",
+   "Tablette gegen Seekrankheit (auf Anfrage)",
+   "Englischsprachiger Reiseleiter"
+  ],
+  "notIncluded": [
+   "Nationalparkgebühr (300 THB pro Erwachsenem und 200 THB pro Kind)",
+   "Zusätzliche Transfergebühr von 300 THB/Person: Naiharn, Rawai, Chalong, Leam Hin, Kamala, Surin, Cheong Talay, Bang Tao, Laguna, Naiyang, Flughafen",
+   "Persönliche Ausgaben",
+   "Trinkgelder",
+   "Alkoholische Getränke"
+  ],
+  "shortDescription": "Ganztägige Tour in Phuket, mit Flussboot. Durchgeführt von Choke Chai M Travel, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Luxuskreuzfahrt zur James-Bond-Insel und Phang-Nga-Bucht",
+  "metaDescription": "Ganztägige Tour in Phuket. Enthalten: Hotelabholung und -rückfahrt in Phuket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "phuket-sightseeing-and-shopping-with-german-guide": {
   "title": "Besichtigung und Einkaufen in Phuket mit deutschem Guide",
@@ -24199,6 +24464,35 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Von Laem Haad nach Pileh: ein blauer Horizont und Mittagessen in Phuket",
   "metaDescription": "Ganztägige Tour in Phuket. Enthalten: Hin- und Rücktransfer ab Hotel in Phuket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "james-bond-panyi-and-5-islands-tour-with-canoe-lunch": {
+  "title": "James-Bond-, Panyi- und 5-Inseln-Tour mit Kanu und Mittagessen",
+  "fullDescription": "Dies ist ein 9-stündiges Erlebnis in Phuket, rund um Phuket, Schnellboot und Panak-Insel. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind All-inclusive-Tour im Schnellboot oder Katamaran, Englischsprachiger Guide, Abholung und Rückfahrt am Hotel in Phuket, Kanufahren auf Hong Island mit lokalem Guide und Nationalparkgebühr. Nicht enthalten sind Optional: zusätzliche Aktivitäten auf Khai Island oder Getränke, die nicht, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Phuket. Discover Thailand bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Phuket",
+   "Schnellboot",
+   "Panak-Insel",
+   "James-Bond-Insel",
+   "Dauer: 9 Stunden",
+   "All-inclusive-Tour im Schnellboot oder Katamaran"
+  ],
+  "included": [
+   "All-inclusive-Tour im Schnellboot oder Katamaran",
+   "Professioneller englischsprachiger Reiseleiter",
+   "Hotelabholung und -rückfahrt in Phuket (falls Option ausgewählt)",
+   "Kanufahren auf Hong Island mit lokalem Guide",
+   "Nationalparkgebühr (300 Baht pro Person)",
+   "Mittagsbuffet auf Koh Panyi (vegetarische und Halal-Optionen verfügbar)",
+   "Snacks den ganzen Tag über, Softdrinks und Wasser",
+   "Versicherungsschutz",
+   "Schnorchelmaske"
+  ],
+  "notIncluded": [
+   "Optional: zusätzliche Aktivitäten auf Khai Island oder Getränke, die nicht in der Tourbeschreibung aufgeführt sind (bar an den lokalen Verkäufer zu zahlen)"
+  ],
+  "shortDescription": "Ganztägige Tour in Phuket, mit Phuket, Schnellboot und Panak-Insel. Durchgeführt von Discover Thailand, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "James-Bond-, Panyi- und 5-Inseln-Tour mit Kanu und Mittagessen",
+  "metaDescription": "Ganztägige Tour in Phuket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "maiton-coral-and-racha-island-snorkeling-trip": {
   "title": "Schnorchelausflug zu Maiton, Coral und Racha Island",
   "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Phuket, rund um Chalong-Pier, Schnellboot und Racha-Insel. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfer ab Phuket Town, Chalong, Karon, Kata, Schwimmweste, Schnorchelausrüstung, Mittagessen und Saisonales Obst. Nicht enthalten sind Zusätzliche Transfergebühr, 200 THB pro Person, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nPhuket. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -24356,6 +24650,38 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "1-stündige Tour in Phuket, inklusive Privater Hin- und Rück-Hoteltransfer mit Privatfahrzeug, Frische Früchte der Saison und Bereitstellung von Flaschenwasser. Durchgeführt von Travel Bays Network Co. Ltd, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Buggy-Tour in Phuket mit Besuch eines geheimen Strandes",
   "metaDescription": "1-stündige Tour in Phuket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "4-element-day-with-zipline-adventure-expedition-in-phuket": {
+  "title": "4-Elemente-Tag mit Zipline-Abenteuerexpedition in Phuket",
+  "fullDescription": "Dies ist ein 7-stündiges Erlebnis in Phuket. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Mittagessen, Trinkwasser, Insektenschutzmittel, Handtuch und Snacks. Nicht enthalten sind Persönliche Medikamente, Alkoholische Getränke und Optionales Kajakfahren am Strand, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nCC's Hideaway. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 7 Stunden",
+   "Mittagessen",
+   "Trinkwasser",
+   "Insektenschutzmittel",
+   "Handtuch",
+   "Snacks"
+  ],
+  "included": [
+   "Mittagessen",
+   "Trinkwasser",
+   "Insektenschutzmittel",
+   "Handtuch",
+   "Snacks",
+   "Wanderstock",
+   "Eintrittsgebühren",
+   "Einheimischer Guide",
+   "Abholung und Rückfahrt im Gebiet Kata/Karon (andere Gebiete gegen Aufpreis)",
+   "Tourversicherung"
+  ],
+  "notIncluded": [
+   "Persönliche Medikamente",
+   "Alkoholische Getränke",
+   "Optionales Kajakfahren am Strand"
+  ],
+  "shortDescription": "Ganztägige Tour in Phuket, inklusive Mittagessen, Trinkwasser und Insektenschutzmittel. Durchgeführt von CCs Eco Tours, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "4-Elemente-Tag mit Zipline-Abenteuerexpedition in Phuket",
+  "metaDescription": "Ganztägige Tour in Phuket. Enthalten: Mittagessen und Trinkwasser. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "phuket-jungle-horseback-ride-with-scenic-forest-views-by-local-operator": {
   "title": "Dschungel-Reittour mit malerischem Waldblick in Phuket, von einem lokalen Anbieter",
@@ -24638,6 +24964,34 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Phuket-Paramotor-Abenteuer von TSA Thailand, von einem lokalen Anbieter",
   "metaDescription": "0,3333333333333333-stündige Tour in Phuket. Enthalten: Versicherung. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "phi-phi-maya-bay-and-khai-islands-day-trip": {
+  "title": "Tagesausflug zu Phi Phi, Maya Bay und den Khai-Inseln",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis ab Phuket, rund um Queen of Andaman (Pier), Schnellboot und Pileh-Lagune. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Kleine Erfrischungen am privaten Pier, Aktuelle Informationen zu Ihrer Bootstour, 3 Mahlzeiten und Reiseversicherung. Nicht enthalten sind Nationalparkgebühr, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nKhao Lak. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Queen of Andaman (Pier)",
+   "Schnellboot",
+   "Pileh-Lagune",
+   "Maya Bay",
+   "Dauer: 10 Stunden",
+   "Abholung und Rückfahrt zum Hotel"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Kleine Erfrischungen am privaten Pier",
+   "Aktuelle Informationen zu Ihrer Bootstour",
+   "3 Mahlzeiten, Softdrinks, Tee, Kaffee, Snacks und Obst",
+   "Reiseversicherung",
+   "Kleine Erfrischung an Bord",
+   "Schnorchelausrüstung und Schwimmwesten an Bord",
+   "Englischsprachiger Reiseleiter"
+  ],
+  "notIncluded": [
+   "Nationalparkgebühr (400 THB pro Erwachsenem und 200 THB pro Kind, am Tag selbst zu zahlen)"
+  ],
+  "shortDescription": "Ganztägige Tour in Phuket, mit Queen of Andaman (Pier), Schnellboot und Pileh-Lagune. Durchgeführt von Oh-Hoo, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Tagesausflug zu Phi Phi, Maya Bay und den Khai-Inseln",
+  "metaDescription": "Ganztägige Tour in Phuket. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "simon-cabaret-show-entry-ticket-in-phuket": {
   "title": "Eintrittskarte für die Simon-Kabarettshow in Phuket",
   "fullDescription": "Dies ist ein 1,5-stündiges Erlebnis in Phuket. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Vorrangeinlass, wo die Einrichtung ihn anbietet, vergünstigtes Ticket für die Simon-Kabarettshow. Nicht enthalten sind Abholung vom Hotel und Rückfahrt, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -24736,6 +25090,94 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Lernerlebnis mit Elefanten für Familien und Kinder in Phuket",
   "metaDescription": "0,75-stündige Tour in Phuket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
+ "phi-phi-maya-bay-and-maiton-island-tour-by-catamaran": {
+  "title": "Katamaran-Tour: Phi Phi, Maya Bay und Maiton Island",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Phuket, rund um Jian-Wanich-Pier, Katamaran und Khai-Inseln. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Frisches Saisonobst, Tourunfallversicherung, Trinkwasser und Erfrischungsgetränke, Englischsprachiger Guide und Schnorchelausrüstung und Schwimmweste. Nicht enthalten sind Persönliche Ausgaben und Optionale Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nPhuket. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Jian-Wanich-Pier",
+   "Katamaran",
+   "Khai-Inseln",
+   "Monkey Beach",
+   "Dauer: 8 Stunden",
+   "Frisches Saisonobst"
+  ],
+  "included": [
+   "Frisches Saisonobst",
+   "Tourunfallversicherung",
+   "Trinkwasser und Erfrischungsgetränke",
+   "Professioneller englischsprachiger Guide",
+   "Schnorchelausrüstung und Schwimmweste",
+   "Hin- und Rück-Hoteltransfers (ausgewählte Gebiete)",
+   "Wasserrutsche, Paddleboard und transparentes Kajak auf Maiton Island",
+   "Leichtes Frühstück, Snacks, Kaffee und Tee am Pier",
+   "Buffet-Mittagessen am Strand auf der Insel Phi Phi Don (Halal-Restaurant mit vegetarischer Option)",
+   "Nationalparkgebühr für Phi Phi für Ausländer (400 THB/Erwachsene und 200 THB/Kind)"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Optionale Trinkgelder"
+  ],
+  "shortDescription": "Ganztägige Tour in Phuket, mit Jian-Wanich-Pier, Katamaran und Khai-Inseln. Durchgeführt von Good Morning Holiday (PNT Phuket), direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Katamaran-Tour: Phi Phi, Maya Bay und Maiton Island",
+  "metaDescription": "Ganztägige Tour in Phuket. Enthalten: Frisches Saisonobst. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "phang-nga-bay-early-bird-james-bond-and-beyond-tour-phuket": {
+  "title": "Phang-Nga-Bucht: Frühaufsteher-James-Bond-und-mehr-Tour (Phuket)",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis in Phuket, rund um Phuket, Schnellboot und Samet-Nangshe-Aussichtspunkt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Phuket und Khao Lak möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Siam Adventure World abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Hoteltransfers mit Minivan, Speedboot-Transfer, Nationalparkgebühr, Guide und Kanufahren. Nicht enthalten sind Handtuch, Trockensack und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Phuket. Siam Adventure World bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Phuket",
+   "Schnellboot",
+   "Samet-Nangshe-Aussichtspunkt",
+   "Khao Phing Kan",
+   "Dauer: 8 Stunden",
+   "Hoteltransfers mit Minivan"
+  ],
+  "included": [
+   "Hoteltransfers mit Minivan",
+   "Speedboot-Transfer",
+   "Nationalparkgebühr",
+   "Guide",
+   "Kanufahren",
+   "Schwimmwestenvermietung",
+   "Leichtes Frühstück",
+   "Softdrinks, Wasser, Kaffee und Tee",
+   "Mittagessen",
+   "Frisches Saisonobst und Snacks"
+  ],
+  "notIncluded": [
+   "Handtuch",
+   "Trockensack",
+   "Trinkgelder (optional)"
+  ],
+  "shortDescription": "Ganztägige Tour in Phuket, mit Phuket, Schnellboot und Samet-Nangshe-Aussichtspunkt. Durchgeführt von Siam Adventure World, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Phang-Nga-Bucht: Frühaufsteher-James-Bond-und-mehr-Tour (Phuket)",
+  "metaDescription": "Ganztägige Tour in Phuket. Enthalten: Hoteltransfers mit Minivan. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "junkyard-theatre-dinner-and-show-standard-ticket-in-phuket": {
+  "title": "Junkyard-Theater: Abendessen und Show, Standardticket, in Phuket",
+  "fullDescription": "Dies ist ein 2,5-stündiges Erlebnis in Phuket. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 3-Gänge-Abendessen, Ein Willkommensgetränk, Live-Darbietung und Umweltfreundliche Requisiten und Kulissen. Nicht enthalten sind Hin- und Rückfahrt zum Veranstaltungsort, Persönliche Ausgaben und Trinkgelder für Künstler oder Personal, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2,5 Stunden",
+   "3-Gänge-Abendessen",
+   "Ein Willkommensgetränk",
+   "Live-Darbietung",
+   "Umweltfreundliche Requisiten und Kulissen"
+  ],
+  "included": [
+   "3-Gänge-Abendessen",
+   "Ein Willkommensgetränk",
+   "Live-Darbietung",
+   "Umweltfreundliche Requisiten und Kulissen"
+  ],
+  "notIncluded": [
+   "Transport zum und vom Veranstaltungsort (gegen Aufpreis verfügbar).",
+   "Persönliche Ausgaben, wie Souvenirs oder zusätzliche Einkäufe.",
+   "Trinkgelder für Künstler oder Personal (optional, aber willkommen). Getränke, außer beim VIP-Paket, das Wein, Bier frei fließend beinhaltet..."
+  ],
+  "shortDescription": "Eintrittskarte in Phuket, inklusive 3-Gänge-Abendessen, Ein Willkommensgetränk und Live-Darbietung. Durchgeführt von Junkyard Theatre Phuket, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Junkyard-Theater: Abendessen und Show, Standardticket, in Phuket",
+  "metaDescription": "Eintrittskarte in Phuket. Enthalten: 3-Gänge-Abendessen. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "horseback-riding-at-ao-chalong-scenic-nature-views-in-phuket": {
   "title": "Reiten in Ao Chalong mit malerischer Naturaussicht in Phuket",
   "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Phuket. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, 1-stündiges Reitprogramm, 2-stündiges Reitprogramm, Reitlehrer und Malerische Fotomöglichkeiten. Nicht enthalten sind Mahlzeiten und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Phuket. Anda Krabi Seatour bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -24790,6 +25232,32 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Phuket: Speedboot-Tour zu Racha Yai und Coral Island + After-Sun-Spa, von einem lokalen Anbieter",
   "metaDescription": "Ganztägige Tour in Phuket. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "fantasea-show-entry-ticket-with-optional-buffet-and-transfer-in-phuket": {
+  "title": "Eintrittskarte für die FantaSea-Show mit optionalem Buffet und Transfer in Phuket",
+  "fullDescription": "Dies ist ein Erlebnis in Phuket. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind 70-minütige Fantasy-of-a-Kingdom-Show, Golden-Kinnaree-Buffet, Einkaufsstraße des Festivaldorfs, Spielhalle mit Unterwasserthema und Optionaler Transfer. Nicht enthalten sind Kameras, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "70-minütige Fantasy-of-a-Kingdom-Show",
+   "Golden-Kinnaree-Buffet",
+   "Einkaufsstraße des Festivaldorfs",
+   "Spielhalle mit Unterwasserthema",
+   "Optionaler Transfer",
+   "Optionales Abendessen"
+  ],
+  "included": [
+   "70-minütige Fantasy-of-a-Kingdom-Show",
+   "Golden-Kinnaree-Buffet",
+   "Einkaufsstraße des Festivaldorfs",
+   "Spielhalle mit Unterwasserthema",
+   "Optionaler Transfer",
+   "Optionales Abendessen"
+  ],
+  "notIncluded": [
+   "Kameras"
+  ],
+  "shortDescription": "Eintrittskarte in Phuket, inklusive 70-minütige Fantasy-of-a-Kingdom-Show, Golden-Kinnaree-Buffet und Einkaufsstraße des Festivaldorfs. Durchgeführt von PR Travel Services, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Eintrittskarte für die FantaSea-Show mit optionalem Buffet",
+  "metaDescription": "Eintrittskarte in Phuket. Enthalten: 70-minütige Fantasy-of-a-Kingdom-Show. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "phi-phi-islands-maya-bay-and-khai-islands-tour": {
   "title": "Phi-Phi-Inseln-, Maya-Bay- und Khai-Inseln-Tour",
   "fullDescription": "Dies ist ein 7-stündiges Erlebnis ab Phuket, rund um Schnellboot, Maya Bay und Pileh-Lagune. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfer in der kostenlosen Abholzone, Leichtes Frühstück am Pier, Mittagsbuffet, Schnorchelausrüstung und Paddleboard. Nicht enthalten sind Eintrittsgebühr oder Nationalparkgebühr von 400 THB/Erwachsene und, Sonstige persönliche Ausgaben, Alkoholisches Getränk und Handtuch, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Phuket. AnyWhere tours bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -24822,6 +25290,71 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "shortDescription": "Ganztägige Tour in Phuket, mit Sea Angel Cruise, Phuket, Schnellboot und Maya Bay. Durchgeführt von AnyWhere tours, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Phi-Phi-Inseln-, Maya-Bay- und Khai-Inseln-Tour",
+  "metaDescription": "Ganztägige Tour in Phuket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "khao-sok-and-cheow-lan-lake-tour-with-lunch-in-phuket": {
+  "title": "Khao-Sok- und Cheow-Lan-See-Tour mit Mittagessen in Phuket",
+  "fullDescription": "Dies ist ein 13-stündiges Erlebnis ab Phuket, rund um Tempelbesuch im Wat Bang Thong, Longtail-Boot-Kreuzfahrt auf dem Cheow-Lan-See und Morgennebel-Safari. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Nationalpark-Eintrittsgebühr, Guide, Bootsfahrt und Höhlenbesuch. Nicht enthalten sind Snacks, Alkoholische Getränke, Trinkgelder und Transfer ab, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nSteigen Sie in einen komfortablen klimatisierten Van von Ihrem Hotel in Phuket und entspannen Sie sich auf der malerischen Fahrt nach Phang Nga und Khao Sok. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Tempelbesuch im Wat Bang Thong",
+   "Longtail-Boot-Kreuzfahrt auf dem Cheow-Lan-See",
+   "Morgennebel-Safari",
+   "Bambus-Rafting entlang des Sok-Flusses",
+   "Dauer: 13 Stunden",
+   "Abholung und Rückfahrt zum Hotel"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Nationalpark-Eintrittsgebühr",
+   "Guide",
+   "Bootsfahrt",
+   "Höhlenbesuch",
+   "Mittagessen",
+   "Wasser",
+   "Softdrinks",
+   "Kajak"
+  ],
+  "notIncluded": [
+   "Snacks",
+   "Alkoholische Getränke",
+   "Trinkgelder",
+   "Der Transfer ab (Phuket Town/Panwa/Rawai/Naiharn/Laemhin) wird mit 200 THB/Person berechnet"
+  ],
+  "shortDescription": "Ganztägige Tour in Phuket, mit Tempelbesuch im Wat Bang Thong, Longtail-Boot-Kreuzfahrt auf dem Cheow-Lan-See und Lunch at Floating Restaurant. Durchgeführt von Delight Tours and Travels, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Khao-Sok- und Cheow-Lan-See-Tour mit Mittagessen in Phuket",
+  "metaDescription": "Ganztägige Tour in Phuket. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "phi-phi-and-khai-islands-speedboat-tour": {
+  "title": "Speedboot-Tour zu Phi Phi und den Khai-Inseln",
+  "fullDescription": "Dies ist ein 9-stündiges Erlebnis in Phuket, rund um Royal Phuket Marina, Schnellboot und Maya Bay. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel auf Phuket, Nationalparkgebühren, Kleine Erfrischung im Büro der Royal Phuket Marina, Tatsächliche Informationen zur Bootstour und Zwei Schnorchelsitzungen. Nicht enthalten sind Trinkgelder, Alkoholische Getränke und Flossen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Phuket. Amazing Canoeing bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Royal Phuket Marina",
+   "Schnellboot",
+   "Maya Bay",
+   "Pileh-Lagune",
+   "Dauer: 9 Stunden",
+   "Abholung und Rückfahrt am Hotel auf Phuket"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel auf Phuket",
+   "Nationalparkgebühren",
+   "Kleine Erfrischung im Büro der Royal Phuket Marina",
+   "Tatsächliche Informationen zur Bootstour",
+   "Zwei Schnorchelsitzungen",
+   "Köstliches Mittagsbuffet",
+   "Reiseversicherung",
+   "Schwimmwesten an Bord",
+   "Tablette gegen Seekrankheit (auf Anfrage)",
+   "Englischsprachiger Reiseleiter",
+   "Lokale Steuern"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Alkoholische Getränke (käuflich erhältlich im Royal Phuket Marina)",
+   "Flossen (im Royal Phuket Marina mietbar)"
+  ],
+  "shortDescription": "Ganztägige Tour in Phuket, mit Royal Phuket Marina, Schnellboot und Maya Bay. Durchgeführt von Amazing Canoeing, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Speedboot-Tour zu Phi Phi und den Khai-Inseln",
   "metaDescription": "Ganztägige Tour in Phuket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "phuket-paragliding-adventure-by-tsa-thailand-by-local-operator": {
@@ -24965,6 +25498,32 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Phuket-Stadttour, malerische Aussichtspunkte und Nachtmarkt, von einem lokalen Anbieter",
   "metaDescription": "Halbtägige Tour in Phuket. Enthalten: Hin- und Rücktransfer und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "surin-islands-snorkeling-trip-in-phuket": {
+  "title": "Surin-Inseln-Schnorchelausflug in Phuket",
+  "fullDescription": "Dies ist ein 12-stündiges Erlebnis ab Phuket, rund um Seastar, Ban-Nam-Khem-Pier, Schnellboot und Mu-Koh-Surin-Nationalpark. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransfer von Phuket zum Pier, Hin- und Rücktransfer mit dem Speedboot, Drei Mahlzeiten, Schnorcheln und Vollständiger Reiseunfallversicherungsschutz. Nicht enthalten sind Nationalparkgebühr, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nPhuket. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Seastar, Ban-Nam-Khem-Pier",
+   "Schnellboot",
+   "Mu-Koh-Surin-Nationalpark",
+   "Chong-Khat-Bucht",
+   "Dauer: 12 Stunden",
+   "Hin- und Rücktransfer von Phuket zum Pier"
+  ],
+  "included": [
+   "Hin- und Rücktransfer von Phuket zum Pier.",
+   "Hin- und Rücktransfer mit dem Speedboot.",
+   "Drei Mahlzeiten, Softdrinks, Tee, Kaffee, Snacks und Obst.",
+   "Snorkeling (Mask, snorkel, fins, life-jacket).",
+   "Full travel accident insurance coverage.",
+   "English-speaking guide."
+  ],
+  "notIncluded": [
+   "Nationalparkgebühr (400 THB pro Erwachsenem und 200 THB pro Kind)."
+  ],
+  "shortDescription": "Ganztägige Tour in Phuket, mit Seastar, Ban-Nam-Khem-Pier, Schnellboot und Mu-Koh-Surin-Nationalpark. Durchgeführt von Oh-Hoo, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Surin-Inseln-Schnorchelausflug in Phuket",
+  "metaDescription": "Ganztägige Tour in Phuket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "bukit-elephant-park-sanctuary-walk-and-feed-tour-in-phuket": {
   "title": "Bukit-Elephant-Park-Schutzgebiet-Tour: Spaziergang und Fütterung in Phuket",
   "fullDescription": "Dies ist ein 1,5-stündiges Erlebnis ab Phuket, rund um Bukit-Elefantenpark. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Guide vor Ort, Bananenkorb für die Elefanten, Zubereitung und Fütterung mit Reisbällchen, Möglichkeit, Elefanten in ihrem natürlichen Lebensraum zu beobachten und Unvergessliche Fotomöglichkeiten. Nicht enthalten sind Elefantenreiten und Baden mit den Elefanten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nPatong Beach. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -24990,6 +25549,62 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Phuket, inklusive Guide vor Ort, Bananenkorb für die Elefanten und Zubereitung und Fütterung mit Reisbällchen. Durchgeführt von Bukit Elephant Park, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Bukit-Elephant-Park-Schutzgebiet-Tour: Spaziergang und Fütterung in Phuket",
   "metaDescription": "Tour in Phuket. Enthalten: Guide vor Ort und Bananenkorb für die Elefanten. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "scuba-diving-for-beginner-shore-dive-in-kata-beach": {
+  "title": "Gerätetauchen für Anfänger (Shore-Dive am Kata Beach)",
+  "fullDescription": "Dies ist ein 2,5-stündiges Erlebnis in Phuket, rund um Tauchclub Phuket und Kata Beach. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Tauchlehrer, Komplette Tauchausrüstung und Vollständiger Versicherungsschutz. Nicht enthalten sind Unterwasserfoto und -video, Speisen und Getränke, Hoteltransfer und Sonstige persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nPhuket diving club. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Tauchclub Phuket",
+   "Kata Beach",
+   "Dauer: 2,5 Stunden",
+   "Professioneller Tauchlehrer",
+   "Komplette Tauchausrüstung",
+   "Vollständiger Versicherungsschutz"
+  ],
+  "included": [
+   "Professioneller Tauchlehrer",
+   "Komplette Tauchausrüstung",
+   "Vollständiger Versicherungsschutz"
+  ],
+  "notIncluded": [
+   "Unterwasserfoto und -video (500 THB / Person)",
+   "Speisen und Getränke",
+   "Hoteltransfer",
+   "Sonstige persönliche Ausgaben"
+  ],
+  "shortDescription": "Tour in Phuket, mit Kata Beach. Durchgeführt von Phuket Diving Club, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Gerätetauchen für Anfänger (Shore-Dive am Kata Beach)",
+  "metaDescription": "Tour in Phuket. Enthalten: Tauchlehrer und Komplette Tauchausrüstung. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "coral-island-laid-back-morning-tour-with-snorkeling": {
+  "title": "Entspannte Morgentour zu Coral Island mit Schnorcheln",
+  "fullDescription": "Dies ist ein 4-stündiges Erlebnis ab Phuket, rund um Yacht. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Reiseleiter-Dienste, Schnorchelausrüstung und Schwimmwesten, Frisches Obst und Nutzung der Wasseraktivitäten an Bord, einschließlich Rutsche. Nicht enthalten sind Einweg-Schnorchel-Mundstück, Handtücher, Optionale Wasser- und Strandaktivitäten und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Phuket. Happy Holiday Thailand bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Yacht",
+   "Dauer: 4 Stunden",
+   "Hotelabholung und -rückfahrt (falls Hotelabholoption ausgewählt)",
+   "Reiseleiter-Dienste",
+   "Schnorchelausrüstung und Schwimmwesten",
+   "Frisches Obst, Getränke und leichte Snacks an Bord"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt (falls Hotelabholoption ausgewählt)",
+   "Reiseleiter-Dienste",
+   "Schnorchelausrüstung und Schwimmwesten",
+   "Frisches Obst, Getränke und leichte Snacks an Bord",
+   "Nutzung der Wasseraktivitäten an Bord, einschließlich Rutsche, Paddleboards und Glasbodenboot",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Einweg-Schnorchel-Mundstück",
+   "Handtücher",
+   "Optionale Wasser- und Strandaktivitäten",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Halbtägige Tour in Phuket, mit Yacht, the Andaman Sea and Coral Island und Phuket. Durchgeführt von Happy Holiday Thailand, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Entspannte Morgentour zu Coral Island mit Schnorcheln",
+  "metaDescription": "Halbtägige Tour in Phuket. Enthalten: Abholung und Rückfahrt zum Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "kudo-beach-club-entry-with-set-menu-in-phuket": {
   "title": "Eintritt zum Kudo Beach Club mit Menü in Phuket",
@@ -25197,6 +25812,34 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Reitaktivität am Kamala Beach in Phuket",
   "metaDescription": "1-stündige Tour in Phuket. Enthalten: Reitausrüstung und Helm. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "james-bond-and-phang-nga-bay-tour-by-speedboat": {
+  "title": "James-Bond- und Phang-Nga-Bucht-Tour mit dem Speedboot",
+  "fullDescription": "Dies ist ein 7-stündiges Erlebnis in Phuket, rund um Royal Phuket Marina, Schnellboot und Panak-Insel. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt, Guide, Kaffee und Tee im Hafen, Softdrinks und Mittagsbuffet. Nicht enthalten sind Nationalparkgebühr und Gäste, die mit einem großen Kreuzfahrtschiff ankommen, müssen einen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nPhuket. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Royal Phuket Marina",
+   "Schnellboot",
+   "Panak-Insel",
+   "Ko Hong",
+   "Dauer: 7 Stunden",
+   "Abholung und Rückfahrt"
+  ],
+  "included": [
+   "Abholung und Rückfahrt",
+   "Guide",
+   "Kaffee und Tee im Hafen",
+   "Softdrinks, Wasser, frisches Obst und ein Snack an Bord",
+   "Mittagsbuffet",
+   "Schwimmweste",
+   "Seekanu"
+  ],
+  "notIncluded": [
+   "Nationalparkgebühr (300 THB pro Erwachsenem oder 100 THB pro Kind)",
+   "Gäste, die mit einem großen Kreuzfahrtschiff ankommen, müssen einen privaten Transfer nutzen (1.500 THB)"
+  ],
+  "shortDescription": "Ganztägige Tour in Phuket, mit Royal Phuket Marina, Schnellboot und Panak-Insel. Durchgeführt von Oh-Hoo, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "James-Bond- und Phang-Nga-Bucht-Tour mit dem Speedboot",
+  "metaDescription": "Ganztägige Tour in Phuket. Enthalten: Abholung und Rückfahrt und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "james-bond-island-by-big-boat-with-sea-cave-canoeing": {
   "title": "James-Bond-Insel mit großem Boot und Seehöhlen-Kanufahren",
   "fullDescription": "Dies ist ein 9-stündiges Erlebnis in Phuket, rund um Phuket, Sightseeing-Kreuzfahrt und Panak-Insel. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Hotel auf Phuket, Nationalparkgebühren, Kleine Erfrischung an Bord am Ao-Po-Pier, Aktuelle Informationen zu Ihrer Bootstour und Paddleboarding. Nicht enthalten sind Trinkgelder und Alkoholische Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Phuket. Amazing Canoeing bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -25297,6 +25940,37 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Premium-Yachttour: James-Bond-Insel und Phang-Nga-Bucht",
   "metaDescription": "Tour in Phuket. Enthalten: Gebühr des Nationalparks. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "similan-islands-early-bird-tour-from-phuket-and-khao-lak-by-local-operator": {
+  "title": "Frühaufsteher-Tour zu den Similan-Inseln ab Phuket und Khao Lak, von einem lokalen Anbieter",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis ab Phuket, rund um Schnellboot, Donald-Duck-Bucht und Similan-Inseln. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nAbholung ist ab Khao Lak und Phuket möglich; der genaue Ort und die Uhrzeit werden nach der Buchungsbestätigung mit Siam Adventure World abgestimmt, und die gewählte Option entscheidet, ob der Transport enthalten ist.\n\nIm Preis enthalten sind Hin- und Rücktransfers vom Hotel, Speedboot-Kreuzfahrt, Nationalparkgebühren, Ein leichtes Buffet-Frühstück beim Check-in serviert und Softdrinks und Wasser. Nicht enthalten sind Trinkgelder und Handtücher, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Phuket. Siam Adventure World bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Schnellboot",
+   "Donald-Duck-Bucht",
+   "Similan-Inseln",
+   "Ko Miang",
+   "Dauer: 10 Stunden",
+   "Hin- und Rücktransfers vom Hotel"
+  ],
+  "included": [
+   "Hin- und Rücktransfers vom Hotel",
+   "Speedboot-Kreuzfahrt",
+   "Nationalparkgebühren",
+   "Ein leichtes Buffet-Frühstück beim Check-in serviert",
+   "Softdrinks und Wasser",
+   "Frisches Obst und Snacks",
+   "Picknick-Mittagessen am Strand",
+   "Reiseleiter in einer von sechs Sprachen (Englisch, Deutsch, Französisch, Italienisch, Spanisch und Thailändisch)",
+   "Schnorchelausrüstung",
+   "Tourunfallversicherung"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Handtücher"
+  ],
+  "shortDescription": "Tour in Phuket, mit Schnellboot, Donald-Duck-Bucht und Similan-Inseln. Durchgeführt von Siam Adventure World, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Frühaufsteher-Tour zu den Similan-Inseln ab Phuket und Khao Lak, von einem lokalen Anbieter",
+  "metaDescription": "Tour in Phuket. Enthalten: Hin- und Rücktransfers vom Hotel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "elephant-jungle-sanctuary-half-day-visit-with-meal-in-phuket": {
   "title": "Halbtagesbesuch im Dschungel-Elefantenschutzgebiet mit Mahlzeit in Phuket",
   "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Phuket. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Abholung und Rückfahrt zum Hotel, Englischsprachiger Guide, Traditionelles thailändisches Essen, Trinkwasser und Futter zum Füttern der Elefanten. Nicht enthalten sind Hoteltransfer, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Phuket. Elephant Jungle Sanctuary Phuket bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -25343,6 +26017,38 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Eintrittskarte in Phuket, inklusive Gurt- und Helmvermietung, Buffet in der Wanon-Zone und Lebensversicherung. Durchgeführt von Hanuman World, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Hanuman-Rutschbahn-Ticket kombiniert mit Zipline World+ in Phuket",
   "metaDescription": "Eintrittskarte in Phuket. Enthalten: Gurt- und Helmvermietung. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "james-bond-island-luxury-sunset-cruise": {
+  "title": "James-Bond-Insel-Luxus-Sonnenuntergangskreuzfahrt",
+  "fullDescription": "Dies ist ein 8-stündiges Erlebnis ab Phuket, rund um Phang-Nga-Bucht. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nIm Preis enthalten sind Hin- und Rücktransport in Phuket, Mittag- und Abendessen, Früchte der Saison, Softdrinks frei fließend und Handtücher. Nicht enthalten sind Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nPhuket. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Phang-Nga-Bucht",
+   "Dauer: 8 Stunden",
+   "Hin- und Rücktransport in Phuket",
+   "Mittag- und Abendessen",
+   "Früchte der Saison",
+   "Softdrinks frei fließend"
+  ],
+  "included": [
+   "Hin- und Rücktransport in Phuket",
+   "Mittag- und Abendessen",
+   "Früchte der Saison",
+   "Softdrinks frei fließend",
+   "Handtücher",
+   "Schwimmweste",
+   "Kajakausflug",
+   "Wasserhängematte",
+   "Reiseversicherung",
+   "Eintrittsgebühr des Nationalparks",
+   "SUP-Boards",
+   "Rutsche"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Ganztägige Tour in Phuket, mit Phang-Nga-Bucht. Durchgeführt von Seanery, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "James-Bond-Insel-Luxus-Sonnenuntergangskreuzfahrt",
+  "metaDescription": "Ganztägige Tour in Phuket. Enthalten: Hin- und Rücktransport in Phuket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "elephant-jungle-sanctuary-ethical-feeding-experience-in-phuket": {
   "title": "Ethisches Fütterungserlebnis im Dschungel-Elefantenschutzgebiet in Phuket",
@@ -25452,6 +26158,36 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "shortDescription": "Ganztägige Tour in Phuket, inklusive Abholung und Rückfahrt am Hotel in Phuket, Eintritt in den Nationalpark und Unfallversicherung. Durchgeführt von One Asia Corporation, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Tagestour mit dem Boot: James-Bond-Insel und Kanufahren",
+  "metaDescription": "Ganztägige Tour in Phuket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "all-inclusive-cheow-lan-lake-cave-kayak-and-lunch-in-phuket-2": {
+  "title": "Alles Inklusive: Cheow-Lan-See, Höhle, Kajak und Mittagessen in Phuket",
+  "fullDescription": "Dies ist ein 14-stündiges Erlebnis ab Phuket, rund um Khao Sam Kloe und Cheow-Lan-See. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nDie Phang-Nga-Bucht ist eine versunkene Karstlandschaft aus etwa 40 Kalksteintürmen, die zwischen Phuket und Krabi aus flachem grünem Wasser aufragen, berühmt geworden durch den Bond-Film von 1974, der an Khao Phing Kan gedreht wurde, der Insel, die heute James-Bond-Insel heißt, klein, belebt und zwanzig Minuten wert. Der Grund zu kommen ist das Kanufahren in den Meereshöhlen: bei Niedrigwasser schlüpfen Schlauchkanus durch Tunnel in verborgene Lagunen (Hongs) im Inneren der Inseln, umringt von Klippen und Mangroven, und die Gezeiten bestimmen den Ablauf. Koh Panyee, das muslimische Fischerdorf auf Stelzen, ist der Halt zum Mittagessen. Fahrten im Longtail-Boot von der Phang-Nga-Seite sind ruhiger als Schnellboote ab Phuket.\n\nIm Preis enthalten sind Hin- und Rück-Hoteltransfer mit klimatisiertem VIP-Minivan, Nationalpark-Ticket, Reiseunfallversicherung, Longtail-Boot mit professionellem Kapitän und Mittagessen im PhuTawan Rafthouse. Nicht enthalten sind Persönliche Ausgaben und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nPhuket. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Khao Sam Kloe",
+   "Cheow-Lan-See",
+   "Dauer: 14 Stunden",
+   "Hin- und Rück-Hoteltransfer mit klimatisiertem VIP-Minivan",
+   "Nationalpark-Ticket, Eintrittsgebühren, Pier-Ticket",
+   "Reiseunfallversicherung"
+  ],
+  "included": [
+   "Hin- und Rück-Hoteltransfer mit klimatisiertem VIP-Minivan",
+   "Nationalpark-Ticket, Eintrittsgebühren, Pier-Ticket",
+   "Reiseunfallversicherung",
+   "Longtail-Boot mit professionellem Kapitän",
+   "Mittagessen im PhuTawan Rafthouse",
+   "Saisonales Obst, Trinkwasser",
+   "Reiseleiter (englischsprachig)",
+   "Kajak und Schwimmweste",
+   "Suchscheinwerfer für die Höhlenforschung"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgeld"
+  ],
+  "shortDescription": "Ganztägige Tour in Phuket, mit Khao Sam Kloe und Cheow-Lan-See. Durchgeführt von GRAND NATURE TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Alles Inklusive: Cheow-Lan-See, Höhle, Kajak und Mittagessen in Phuket",
   "metaDescription": "Ganztägige Tour in Phuket. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "phang-nga-bay-trip-to-hong-panak-james-bond-island": {
