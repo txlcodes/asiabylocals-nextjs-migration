@@ -42307,6 +42307,89 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "monkey-island-ko-khram-yai-area-private-tour": {
+  "title": "Pattaya: privates Katamaran-Charter zur Insel Khram oder Affeninsel",
+  "metaTitle": "Pattaya: privater Katamaran zu Khram oder Affeninsel",
+  "metaDescription": "Chartern Sie einen privaten Luxuskatamaran ab Ocean Marina und segeln Sie zur Insel Khram oder zur Affeninsel, mit Zeit zum Schnorcheln, Schwimmen und Entspannen an Deck, fern der Menschenmassen.",
+  "shortDescription": "Chartern Sie einen privaten Luxuskatamaran ab Ocean Marina und segeln Sie zur Insel Khram oder zur Affeninsel, mit Zeit zum Schnorcheln, Schwimmen und Entspannen an Deck, fern der Menschenmassen.",
+  "fullDescription": "So wird Pattayas Küste richtig erlebt: ein privater Katamaran, Ihre eigene Gruppe, und kein fester Touristenboot-Fahrplan, um den man sich kümmern müsste. Vom Ocean Marina Yacht Club direkt südlich der Stadt aus fährt das Boot über den Golf von Thailand entweder zur Insel Khram oder zur Affeninsel, beide ruhigere Alternativen zur stark befahrenen Route zur Coral Island. Die Crew übernimmt alles an Bord, sodass Sie sich frei auf den Decknetzen ausstrecken, den Panoramablick aufs Meer genießen oder ins Wasser gleiten können, wenn das Boot ankert.\n\nDie Affeninsel hält genau das, was der Name verspricht: eine kleine, dschungelbedeckte Insel, auf der eine ansässige Makakentruppe bis zum Ufer herunterkommt, während Khram klareres Wasser und je nach Tag ruhigere Schnorchelbedingungen bietet. Ihr Kapitän liest am Morgen des Charters See und Wind und steuert dasjenige Ziel an, das das bessere Erlebnis bietet.\n\nDa der Katamaran vollständig privat ist, gehört das Tempo Ihnen: verweilen Sie länger vor Anker zum Schnorcheln, fahren Sie langsam entlang der Küste für Fotos, oder genießen Sie einfach die Fahrt. Es passt für Paare, Familien und kleine Gruppen, die das Marina-Yacht-Erlebnis ohne Fremde an Bord wollen.",
+  "highlights": [
+   "Vollständig privates Katamaran-Charter, keine Fremden an Bord",
+   "Segeln zur Insel Khram oder zur Affeninsel ab dem Ocean Marina Yacht Club",
+   "Schnorchel- und Schwimmstopps vor Anker",
+   "Panoramablick über den Golf von Thailand vom Deck aus",
+   "Professioneller Kapitän und Crew übernehmen alles an Bord"
+  ],
+  "included": [
+   "Privates Katamaran-Charter mit Kapitän und Crew",
+   "Kraftstoff- und Marinagebühren",
+   "Schnorchelausrüstung",
+   "Trinkwasser und Softdrinks",
+   "Schwimmwesten und Sicherheitsausrüstung"
+  ],
+  "notIncluded": [
+   "Hoteltransfers zu und von Ocean Marina",
+   "Mahlzeiten (Catering auf Anfrage organisierbar)",
+   "Alkoholische Getränke",
+   "Trinkgelder für die Crew"
+  ]
+ },
+ "koh-samet-island-guided-tour": {
+  "title": "Koh-Samet-Ausflug ab Pattaya mit Strand-Abendessen und Feuershow",
+  "metaTitle": "Koh Samet ab Pattaya: Strand-Abendessen und Feuershow",
+  "metaDescription": "Ein Tagesausflug ohne frühen Start von Pattaya zu den weißen Sandstränden von Koh Samet, der mit einem Abendessen am Strand bei Sonnenuntergang und einer lodernden Feuershow nach Einbruch der Dunkelheit endet.",
+  "shortDescription": "Ein Tagesausflug ohne frühen Start von Pattaya zu den weißen Sandstränden von Koh Samet, der mit einem Abendessen am Strand bei Sonnenuntergang und einer lodernden Feuershow nach Einbruch der Dunkelheit endet.",
+  "fullDescription": "Die meisten Inseltagesausflüge verlangen einen schmerzhaften Wecker vor dem Morgengrauen, dieser hier bewusst nicht. Mit Abfahrt aus Pattaya gegen Mittag tauscht diese Tour den morgendlichen Trubel gegen einen späteren, entspannteren Rhythmus, der das Beste von Koh Samet für die Stunden aufhebt, in denen die Insel wirklich glänzt: goldener Spätnachmittag im Sand, Sonnenuntergang über dem Wasser, und das Spektakel einer Feuershow am Strand nach Einbruch der Dunkelheit.\n\nKoh Samet selbst liegt etwa zwei Stunden von Pattaya per Van entfernt, gefolgt von einem kurzen Speedboot-Sprung, und belohnt die Reise mit einem der weißesten, feinsten Sande im Golf von Thailand und Wasser, das glasklar und ruhig bleibt. Auf der Insel angekommen, bleibt entspannte Zeit zum Schwimmen, Umherschlendern am Strand, Probieren lokaler Snacks, und einfach ins Inseltempo zu finden, während Ihr Guide die gesamte Logistik übernimmt.\n\nWährend sich das Licht verändert, baut sich der Tag zu seinem Höhepunkt auf: ein Abendessen am Strand, serviert während die Sonne über dem Wasser untergeht, gefolgt von einer spektakulären Feuershow, Künstler, die brennende Fackeln gegen den Nachthimmel schwingen und werfen, nur wenige Meter entfernt. Sie sind am späten Abend zurück in Pattaya, nachdem Sie ein vollständiges Inselerlebnis hatten, ohne dafür eine Minute Schlaf zu opfern.",
+  "highlights": [
+   "Abfahrt am Mittag, kein frühes Aufwachen",
+   "Koh Samets berühmte weiße Sandstrände und klares Wasser",
+   "Abendessen am Strand bei Sonnenuntergang serviert",
+   "Spektakuläre Feuershow am Strand nach Einbruch der Dunkelheit",
+   "Van- und Speedboot-Transfers vollständig für Sie organisiert"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Pattaya",
+   "Hin- und Rück-Van-Transfer",
+   "Speedboot-Überfahrt nach Koh Samet",
+   "Englischsprachiger Guide",
+   "Abendessen am Strand",
+   "Feuershow",
+   "Lokale Snacks"
+  ],
+  "notIncluded": [
+   "Zusätzliche Getränke über die bereitgestellten hinaus",
+   "Nationalpark-Eintrittsgebühr für Koh Samet (falls vor Ort erhoben)",
+   "Strandstuhl-Vermietung",
+   "Trinkgelder für Guide und Fahrer"
+  ]
+ },
+ "lakeside-atv-trails-pattaya-countryside-mini-tour": {
+  "title": "Pattaya: Offroad-ATV-Fahrt mit Guide und Routenwahl",
+  "metaTitle": "Pattaya: Offroad-ATV, Guide und Routenwahl",
+  "metaDescription": "Übernehmen Sie die Steuerung Ihres eigenen ATVs auf geführten Pfaden durch das Hinterland von Pattaya und wählen Sie eine 30-minütige, 1-stündige oder 2-stündige Route passend zu Ihrem Selbstvertrauen.",
+  "shortDescription": "Übernehmen Sie die Steuerung Ihres eigenen ATVs auf geführten Pfaden durch das Hinterland von Pattaya und wählen Sie eine 30-minütige, 1-stündige oder 2-stündige Route passend zu Ihrem Selbstvertrauen.",
+  "fullDescription": "Eine kurze Fahrt von Pattayas Strandstreifen entfernt ändert sich die Landschaft rasch: Seen, Buschland, Feldwege und offenes Hinterland, die ideales ATV-Gebiet bilden. Diese geführte Fahrt setzt Sie auf Ihr eigenes Quad mit einer Wahl aus drei Routenlängen: ein 30-minütiger Appetithappen für Erstlinge, eine 1-stündige Schleife, die richtig in die Pfade eintaucht, oder eine volle 2-Stunden-Fahrt für alle, die sich ihren Staub verdienen wollen. Die Routen sind auf Ihr Wohlbefinden abgestimmt, sodass Anfänger überschaubares Gelände erhalten, während selbstbewusste Fahrer über raueres, technischeres Terrain geführt werden.\n\nVor dem Start geht das Team die Steuerung und grundlegende Handhabung auf flachem Gelände durch, sodass keine vorherige Fahrerfahrung nötig ist, die meisten Erstlinge fühlen sich innerhalb von Minuten wohl. Helme und Sicherheitsausrüstung sind inklusive, und ein Guide führt jede Fahrt an, gibt ein Tempo vor, das die ganze Gruppe halten kann, und hält an malerischen Punkten unterwegs für Fotos und eine Verschnaufpause.\n\nErwarten Sie Staub in der Trockenzeit und Schlamm nach Regen, in beiden Fällen enden Sie mit Dreck auf den Stiefeln und einem Grinsen im Gesicht. Es ist ein einfacher Adrenalinschub für einen halben Tag, der gut mit einem entspannten Strandnachmittag danach harmoniert.",
+  "highlights": [
+   "Fahren Sie Ihr eigenes ATV, keine Erfahrung nötig",
+   "Wählen Sie eine 30-minütige, 1-stündige oder 2-stündige Route",
+   "Pfade passend zu Ihrem Wohlbefinden und Können",
+   "Helm, Sicherheitsausrüstung und vollständiges Briefing inklusive",
+   "Geführte Fahrt mit Fotostopps unterwegs"
+  ],
+  "included": [
+   "ATV-Vermietung für die gewählte Dauer",
+   "Helm und Sicherheitsausrüstung",
+   "Fahrbriefing und Übung",
+   "Guide, der die gesamte Route anführt",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Hoteltransfer (selbst zu organisieren bis zur ATV-Basis)",
+   "Mahlzeiten",
+   "Persönliche Unfallversicherung",
+   "Trinkgelder"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

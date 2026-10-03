@@ -42307,6 +42307,89 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "monkey-island-ko-khram-yai-area-private-tour": {
+  "title": "Pattaya: catamarán privado a la isla de Khram o la isla de los Monos",
+  "metaTitle": "Pattaya: catamarán privado a Khram o isla de los Monos",
+  "metaDescription": "Fletar un catamarán de lujo privado desde Ocean Marina y navegar hacia la isla de Khram o la isla de los Monos, con tiempo para snorkel, baño y relax en cubierta, lejos de las multitudes.",
+  "shortDescription": "Fletar un catamarán de lujo privado desde Ocean Marina y navegar hacia la isla de Khram o la isla de los Monos, con tiempo para snorkel, baño y relax en cubierta, lejos de las multitudes.",
+  "fullDescription": "Así se recorre bien la costa de Pattaya: un catamarán privado, su propio grupo, y ningún horario fijo de barco turístico que seguir. Partiendo del Ocean Marina Yacht Club justo al sur de la ciudad, el barco navega por el golfo de Tailandia hacia la isla de Khram o la isla de los Monos, ambas alternativas más tranquilas a la muy transitada ruta de la Isla de Coral. La tripulación se encarga de todo a bordo, dejándole libre para tenderse en las redes de cubierta, disfrutar de las vistas panorámicas del mar, o deslizarse al agua cuando el barco ancla.\n\nLa isla de los Monos es exactamente lo que promete su nombre: una pequeña isla cubierta de selva donde una tropa residente de macacos baja hasta la orilla, mientras que Khram ofrece agua más clara y condiciones de snorkel más tranquilas según el día. Su capitán evalúa el mar y el viento la mañana del chárter y pone rumbo hacia la isla que le dará la mejor experiencia.\n\nComo el catamarán es totalmente privado, el ritmo es suyo: prolongue el fondeo para hacer snorkel, navegue despacio por la costa para hacer fotos, o simplemente disfrute del trayecto. Es ideal para parejas, familias y grupos pequeños que quieren la experiencia de un yate de marina sin compartir el barco con desconocidos.",
+  "highlights": [
+   "Chárter de catamarán totalmente privado, sin desconocidos a bordo",
+   "Navegación a la isla de Khram o la isla de los Monos desde el Ocean Marina Yacht Club",
+   "Paradas de snorkel y baño fondeados",
+   "Vistas panorámicas del golfo de Tailandia desde la cubierta",
+   "Capitán y tripulación profesionales se encargan de todo a bordo"
+  ],
+  "included": [
+   "Chárter privado de catamarán con capitán y tripulación",
+   "Tarifas de combustible y de marina",
+   "Equipo de snorkel",
+   "Agua potable y refrescos",
+   "Chalecos salvavidas y equipo de seguridad"
+  ],
+  "notIncluded": [
+   "Traslados al hotel hacia y desde Ocean Marina",
+   "Comidas (catering organizable bajo petición)",
+   "Bebidas alcohólicas",
+   "Propinas para la tripulación"
+  ]
+ },
+ "koh-samet-island-guided-tour": {
+  "title": "Escapada a Koh Samet desde Pattaya con cena en la playa y espectáculo de fuego",
+  "metaTitle": "Koh Samet desde Pattaya: cena en playa y espectáculo de fuego",
+  "metaDescription": "Una excursión de un día sin salida temprana desde Pattaya a las playas de arena blanca de Koh Samet, terminando con una cena junto a la playa al atardecer y un espectáculo de fuego al anochecer.",
+  "shortDescription": "Una excursión de un día sin salida temprana desde Pattaya a las playas de arena blanca de Koh Samet, terminando con una cena junto a la playa al atardecer y un espectáculo de fuego al anochecer.",
+  "fullDescription": "La mayoría de las excursiones de un día a una isla exigen un despertador doloroso antes del amanecer; esta, deliberadamente, no lo hace. Saliendo de Pattaya hacia el mediodía, esta excursión cambia las prisas matutinas por un ritmo más tardío y relajado que guarda lo mejor de Koh Samet para las horas en que la isla realmente brilla: el dorado de última hora de la tarde en la arena, la puesta de sol sobre el agua, y el espectáculo nocturno de un show de fuego junto a la playa.\n\nKoh Samet se encuentra a unas dos horas de Pattaya en furgoneta, seguidas de un breve salto en lancha rápida, y recompensa el viaje con una de las arenas más blancas y suaves del golfo de Tailandia y aguas que permanecen cristalinas y en calma. Una vez en la isla, hay tiempo sin prisas para nadar, pasear por la playa, probar aperitivos locales, y simplemente adaptarse al ritmo de la isla mientras su guía se encarga de toda la logística.\n\nMientras la luz se suaviza, el día construye hacia su punto culminante: una cena junto a la playa servida mientras el sol se pone sobre el agua, seguida de un espectacular espectáculo de fuego, artistas haciendo girar y lanzar antorchas encendidas contra el cielo nocturno a pocos metros de distancia. Estará de vuelta en Pattaya a última hora de la tarde, habiendo disfrutado de una experiencia isleña completa sin sacrificar un minuto de sueño por ello.",
+  "highlights": [
+   "Salida a mediodía, sin despertar temprano",
+   "Las famosas playas de arena blanca y aguas claras de Koh Samet",
+   "Cena junto a la playa servida al atardecer",
+   "Espectacular espectáculo de fuego nocturno en la playa",
+   "Traslados en furgoneta y lancha rápida completamente gestionados"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Pattaya",
+   "Traslado de ida y vuelta en furgoneta",
+   "Travesía en lancha rápida a Koh Samet",
+   "Guía de habla inglesa",
+   "Cena junto a la playa",
+   "Espectáculo de fuego",
+   "Aperitivos locales"
+  ],
+  "notIncluded": [
+   "Bebidas adicionales más allá de las proporcionadas",
+   "Tarifa de entrada al parque nacional de Koh Samet (si se cobra en el lugar)",
+   "Alquiler de silla de playa",
+   "Propinas para el guía y el conductor"
+  ]
+ },
+ "lakeside-atv-trails-pattaya-countryside-mini-tour": {
+  "title": "Pattaya: paseo en ATV todoterreno con guía y elección de ruta",
+  "metaTitle": "Pattaya: ATV todoterreno, guía y elección de ruta",
+  "metaDescription": "Tome los mandos de su propio ATV en senderos guiados por el campo de Pattaya, elegiendo una ruta de 30 minutos, 1 hora o 2 horas según su nivel de confianza.",
+  "shortDescription": "Tome los mandos de su propio ATV en senderos guiados por el campo de Pattaya, elegiendo una ruta de 30 minutos, 1 hora o 2 horas según su nivel de confianza.",
+  "fullDescription": "A poca distancia de la franja de playa de Pattaya, el paisaje cambia rápidamente: lagos, matorrales, caminos de tierra y campo abierto que forman un territorio perfecto para el ATV. Este paseo guiado le pone al mando de su propio quad, con una elección de tres duraciones de ruta: una toma de contacto de 30 minutos para principiantes, un circuito de 1 hora que se adentra de verdad en los senderos, o un paseo completo de 2 horas para quien quiera ganarse su polvo. Las rutas se adaptan a su nivel de comodidad, así que los principiantes obtienen un terreno manejable mientras que los conductores con más confianza son llevados por un terreno más accidentado y técnico.\n\nAntes de partir, el equipo repasa los controles y el manejo básico en terreno llano, así que no se necesita experiencia previa de conducción; la mayoría de los principiantes se sienten cómodos en minutos. Cascos y equipo de seguridad están incluidos, y un guía dirige cada paseo, marcando un ritmo que todo el grupo puede mantener y deteniéndose en puntos pintorescos por el camino para fotos y un respiro.\n\nEspere polvo en la estación seca y barro después de la lluvia; en cualquier caso, terminará con tierra en las botas y una sonrisa en la cara. Es una dosis fácil de adrenalina de medio día que combina bien con una tarde de playa tranquila a continuación.",
+  "highlights": [
+   "Conduzca su propio ATV, no se necesita experiencia",
+   "Elija una ruta de 30 minutos, 1 hora o 2 horas",
+   "Senderos adaptados a su nivel de comodidad y habilidad",
+   "Casco, equipo de seguridad y charla informativa completa incluidos",
+   "Paseo guiado con paradas para fotos por el camino"
+  ],
+  "included": [
+   "Alquiler de ATV durante la duración elegida",
+   "Casco y equipo de seguridad",
+   "Charla informativa y práctica de conducción",
+   "Guía que dirige toda la ruta",
+   "Agua potable"
+  ],
+  "notIncluded": [
+   "Traslado al hotel (a organizar por su cuenta hasta la base de ATV)",
+   "Comidas",
+   "Seguro de accidentes personal",
+   "Propinas"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

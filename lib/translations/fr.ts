@@ -42307,6 +42307,89 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "monkey-island-ko-khram-yai-area-private-tour": {
+  "title": "Pattaya : location privée de catamaran vers l'île de Khram ou l'île des Singes",
+  "metaTitle": "Pattaya : catamaran privé vers Khram ou l'île des Singes",
+  "metaDescription": "Louez un catamaran de luxe privé depuis Ocean Marina et naviguez vers l'île de Khram ou l'île des Singes, avec du temps pour la plongée avec tuba, la baignade et la détente sur le pont, loin des foules.",
+  "shortDescription": "Louez un catamaran de luxe privé depuis Ocean Marina et naviguez vers l'île de Khram ou l'île des Singes, avec du temps pour la plongée avec tuba, la baignade et la détente sur le pont, loin des foules.",
+  "fullDescription": "Voici le littoral de Pattaya exploré comme il se doit : un catamaran privé, votre propre groupe, et aucun horaire de bateau touristique fixe à respecter. Partant du Ocean Marina Yacht Club juste au sud de la ville, le bateau navigue à travers le golfe de Thaïlande en direction de l'île de Khram ou de l'île des Singes, deux alternatives plus tranquilles au circuit très fréquenté de l'île de Corail. L'équipage s'occupe de tout à bord, vous laissant libre de vous étendre sur les filets du pont, de profiter des vues panoramiques sur la mer, ou de glisser dans l'eau lorsque le bateau mouille l'ancre.\n\nL'île des Singes tient exactement ce que son nom promet : une petite île couverte de jungle où une troupe résidente de macaques descend jusqu'au rivage, tandis que Khram offre une eau plus claire et des conditions de plongée avec tuba plus calmes selon le jour. Votre capitaine évalue la mer et le vent le matin de la location et met le cap vers l'île qui vous offrira la meilleure expérience.\n\nComme le catamaran est entièrement privé, le rythme est le vôtre : prolongez le mouillage pour la plongée avec tuba, naviguez lentement le long du littoral pour les photos, ou profitez simplement de la traversée. Cela convient aux couples, aux familles et aux petits groupes qui veulent l'expérience du yacht de marina sans partager le bateau avec des inconnus.",
+  "highlights": [
+   "Location de catamaran entièrement privée, sans inconnus à bord",
+   "Navigation vers l'île de Khram ou l'île des Singes depuis le Ocean Marina Yacht Club",
+   "Arrêts de plongée avec tuba et de baignade à l'ancre",
+   "Vues panoramiques sur le golfe de Thaïlande depuis le pont",
+   "Capitaine et équipage professionnels s'occupant de tout à bord"
+  ],
+  "included": [
+   "Location privée de catamaran avec capitaine et équipage",
+   "Frais de carburant et de marina",
+   "Équipement de plongée avec tuba",
+   "Eau potable et boissons non alcoolisées",
+   "Gilets de sauvetage et équipement de sécurité"
+  ],
+  "notIncluded": [
+   "Transferts d'hôtel vers et depuis Ocean Marina",
+   "Repas (restauration organisable sur demande)",
+   "Boissons alcoolisées",
+   "Pourboires pour l'équipage"
+  ]
+ },
+ "koh-samet-island-guided-tour": {
+  "title": "Évasion à Koh Samet depuis Pattaya avec dîner de plage et spectacle de feu",
+  "metaTitle": "Koh Samet depuis Pattaya : dîner de plage et spectacle de feu",
+  "metaDescription": "Une excursion d'une journée sans départ matinal depuis Pattaya vers les plages de sable blanc de Koh Samet, se terminant par un dîner en bord de plage au coucher du soleil et un spectacle de feu flamboyant à la nuit tombée.",
+  "shortDescription": "Une excursion d'une journée sans départ matinal depuis Pattaya vers les plages de sable blanc de Koh Samet, se terminant par un dîner en bord de plage au coucher du soleil et un spectacle de feu flamboyant à la nuit tombée.",
+  "fullDescription": "La plupart des excursions insulaires d'une journée imposent un réveil douloureux avant l'aube : celle-ci, délibérément, ne le fait pas. Partant de Pattaya vers midi, cette excursion échange la précipitation matinale pour un rythme plus tardif et détendu, réservant le meilleur de Koh Samet pour les heures où l'île brille vraiment : la fin d'après-midi dorée sur le sable, le coucher de soleil sur l'eau, et le spectacle nocturne d'un spectacle de feu en bord de plage.\n\nKoh Samet se trouve à environ deux heures de Pattaya en van, suivies d'un court trajet en hors-bord, et récompense le voyage par l'un des sables les plus blancs et les plus fins du golfe de Thaïlande, ainsi qu'une eau qui reste limpide et lisse comme du verre. Une fois sur l'île, il y a du temps sans précipitation pour se baigner, flâner sur la plage, goûter des collations locales, et simplement s'installer au rythme de l'île tandis que votre guide s'occupe de toute la logistique.\n\nTandis que la lumière s'adoucit, la journée culmine vers son point d'orgue : un dîner en bord de plage servi au coucher du soleil sur l'eau, suivi d'un spectacle de feu spectaculaire, des artistes faisant tourner et lancer des torches enflammées contre le ciel nocturne à quelques mètres de vous. Vous êtes de retour à Pattaya en soirée, après avoir vécu une expérience insulaire complète sans sacrifier une minute de sommeil pour autant.",
+  "highlights": [
+   "Départ en milieu de journée, sans réveil matinal",
+   "Les célèbres plages de sable blanc et l'eau limpide de Koh Samet",
+   "Dîner en bord de plage servi au coucher du soleil",
+   "Spectacle de feu spectaculaire sur la plage à la nuit tombée",
+   "Transferts en van et en hors-bord entièrement pris en charge"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Pattaya",
+   "Transfert aller-retour en van",
+   "Traversée en hors-bord jusqu'à Koh Samet",
+   "Guide anglophone",
+   "Dîner en bord de plage",
+   "Spectacle de feu",
+   "Collations locales"
+  ],
+  "notIncluded": [
+   "Boissons supplémentaires au-delà de celles fournies",
+   "Frais d'entrée du parc national de Koh Samet (si perçus sur place)",
+   "Location de chaise de plage",
+   "Pourboires pour le guide et le chauffeur"
+  ]
+ },
+ "lakeside-atv-trails-pattaya-countryside-mini-tour": {
+  "title": "Pattaya : balade en quad tout-terrain avec guide et choix d'itinéraire",
+  "metaTitle": "Pattaya : quad tout-terrain, guide et choix d'itinéraire",
+  "metaDescription": "Prenez les commandes de votre propre quad sur des pistes guidées à travers la campagne de Pattaya, en choisissant un itinéraire de 30 minutes, 1 heure ou 2 heures selon votre niveau d'assurance.",
+  "shortDescription": "Prenez les commandes de votre propre quad sur des pistes guidées à travers la campagne de Pattaya, en choisissant un itinéraire de 30 minutes, 1 heure ou 2 heures selon votre niveau d'assurance.",
+  "fullDescription": "À une courte distance de la bande côtière de Pattaya, le paysage change rapidement : lacs, broussailles, pistes de terre et campagne ouverte, un terrain idéal pour le quad. Cette balade guidée vous met aux commandes de votre propre quad, avec un choix de trois durées d'itinéraire : une découverte de 30 minutes pour les débutants, une boucle d'une heure qui s'enfonce réellement dans les pistes, ou une balade complète de 2 heures pour ceux qui veulent mériter leur poussière. Les itinéraires sont adaptés à votre niveau de confiance, offrant aux débutants un terrain gérable tandis que les pilotes plus assurés sont emmenés sur un sol plus accidenté et technique.\n\nAvant le départ, l'équipe passe en revue les commandes et la prise en main de base sur un terrain plat, donc aucune expérience de conduite préalable n'est nécessaire : la plupart des débutants se sentent à l'aise en quelques minutes. Casques et équipement de sécurité sont fournis, et un guide dirige chaque balade, imposant un rythme que tout le groupe peut suivre et s'arrêtant à des points panoramiques en chemin pour les photos et une pause.\n\nAttendez-vous à de la poussière en saison sèche et à de la boue après la pluie : dans tous les cas, vous terminerez avec de la terre sur vos bottes et un sourire sur le visage. C'est une dose facile d'adrénaline pour une demi-journée, qui s'accorde bien avec un après-midi de plage tranquille ensuite.",
+  "highlights": [
+   "Conduisez votre propre quad, aucune expérience nécessaire",
+   "Choisissez un itinéraire de 30 minutes, 1 heure ou 2 heures",
+   "Pistes adaptées à votre niveau de confiance et d'habileté",
+   "Casque, équipement de sécurité et briefing complet compris",
+   "Balade guidée avec arrêts photo en chemin"
+  ],
+  "included": [
+   "Location de quad pour la durée choisie",
+   "Casque et équipement de sécurité",
+   "Briefing de conduite et entraînement",
+   "Guide dirigeant tout l'itinéraire",
+   "Eau potable"
+  ],
+  "notIncluded": [
+   "Transfert d'hôtel (à organiser vous-même jusqu'à la base des quads)",
+   "Repas",
+   "Assurance accident personnelle",
+   "Pourboires"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
