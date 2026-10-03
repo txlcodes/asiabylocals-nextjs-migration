@@ -41881,6 +41881,94 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "pattaia-fishing-park-private-tour": {
+  "title": "Sesión privada de pesca en lago con cabaña de bambú cerca de Pattaya",
+  "metaTitle": "Pesca privada en lago con cabaña de bambú cerca de Pattaya",
+  "metaDescription": "Cinco horas tranquilas en un lago de pesca repoblado cerca de Rayong, con su propia cabaña de bambú o muelle, equipo incluido, y bagres africanos y tilapias rojas para pescar.",
+  "shortDescription": "Cinco horas tranquilas en un lago de pesca repoblado cerca de Rayong, con su propia cabaña de bambú o muelle, equipo incluido, y bagres africanos y tilapias rojas para pescar.",
+  "fullDescription": "Este es un día lento, a propósito. El parque es un lago repoblado y bien cuidado en el campo cerca de Rayong, dispuesto con cabañas de bambú privadas a lo largo de la orilla y muelles de pesca sobre el agua. Toma una para la sesión, se instala, y pesca al ritmo que le convenga.\n\nEl lago alberga bagres africanos, que luchan con fuerza y alcanzan un tamaño considerable, y tilapias rojas, más indulgentes y que muerden con suficiente facilidad para mantener a los principiantes interesados. El equipo y el cebo están incluidos, y el personal le ayudará a prepararse y le mostrará la técnica si nunca ha sostenido una caña; es realmente accesible para principiantes, y la tasa de captura es lo bastante alta para que nadie se vaya con las manos vacías.\n\nLa cabaña de bambú importa más de lo que parece. Le da sombra, un sitio donde sentarse cómodamente, y una base privada para el grupo, lo que convierte la sesión de estar de pie en la orilla en algo más parecido a una larga tarde relajada a la sombra. Las familias disfrutan especialmente por esa razón: la pesca entretiene a quien quiera mientras los demás se quedan a la sombra.\n\nEs una reserva privada, así que la cabaña y la sesión son solo para usted.",
+  "highlights": [
+   "Cabaña de bambú privada o muelle de pesca para su grupo",
+   "Lago repoblado con bagres africanos y tilapias rojas",
+   "Equipo y cebo incluidos en su totalidad",
+   "Personal disponible para enseñar a principiantes totales",
+   "Sesión de cinco horas tranquila y a la sombra",
+   "Entorno rural tranquilo cerca de Rayong"
+  ],
+  "included": [
+   "Cabaña de bambú privada o muelle para su grupo",
+   "Cañas de pescar, equipo y cebo",
+   "Instrucción básica por parte del personal del parque",
+   "Sesión de pesca de cinco horas",
+   "Agua potable"
+  ],
+  "notIncluded": [
+   "Traslados al hotel",
+   "Comidas y bebidas",
+   "Licencia de pesca si corresponde",
+   "Propinas"
+  ]
+ },
+ "koh-samet-snorkeling-boat-tour": {
+  "title": "Tour de snorkel multi-isla alrededor de Koh Samet en lancha rápida",
+  "metaTitle": "Multi-isla desde Koh Samet, snorkel en lancha rápida",
+  "metaDescription": "Salte entre cinco o seis islas frente a Koh Samet en lancha rápida, con snorkel en cada parada y una opción de almuerzo en la ruta de seis islas.",
+  "shortDescription": "Salte entre cinco o seis islas frente a Koh Samet en lancha rápida, con snorkel en cada parada y una opción de almuerzo en la ruta de seis islas.",
+  "fullDescription": "Las islas dispersas frente a Koh Samet reciben solo una fracción del tráfico de barcos que recorre las aguas alrededor de Pattaya, y este tour enlaza las mejores de ellas en un solo día de travesías cortas y paradas repetidas en el agua.\n\nSegún la opción elegida, la ruta cubre cinco o seis islas. Koh Kudee suele ser lo más destacado: una isla pequeña con una media luna de arena blanca muy fina y aguas poco profundas y claras que resultan absurdamente fotogénicas. Koh Thalu es conocida por el arco de roca natural que le da su nombre. Entre ambas, el barco ancla en puntos de arrecife para hacer snorkel, y el ritmo es deliberadamente rápido: una parada, tiempo en el agua, de vuelta a bordo y rumbo a la siguiente.\n\nEl equipo de snorkel está incluido y los puntos son poco profundos y resguardados, por lo que conviene a grupos de nivel mixto. La opción de seis islas incluye almuerzo, que merece la pena tomar: el día es lo bastante largo como para necesitarlo, y la alternativa es pasar hambre entre paradas.\n\nEste tour parte de Koh Samet en lugar de tierra firme, por lo que combina de forma natural con una estancia en la isla o con una excursión de un día a Koh Samet.",
+  "highlights": [
+   "Cinco o seis paradas en islas en un solo día",
+   "Arena blanca fina y aguas claras poco profundas en Koh Kudee",
+   "El arco de roca natural de Koh Thalu",
+   "Snorkel en varios puntos de arrecife",
+   "Aguas mucho más tranquilas que las de las islas de Pattaya",
+   "Almuerzo incluido en la opción de seis islas"
+  ],
+  "included": [
+   "Traslado en lancha rápida para la ruta multi-isla",
+   "Equipo de snorkel y chaleco salvavidas",
+   "Almuerzo (solo en la opción de seis islas)",
+   "Guía de habla inglesa",
+   "Agua potable",
+   "Tarifas del parque nacional si corresponde"
+  ],
+  "notIncluded": [
+   "Traslados al hotel",
+   "Almuerzo en la opción de cinco islas",
+   "Toallas",
+   "Bebidas alcohólicas",
+   "Propinas"
+  ]
+ },
+ "nemo-island-half-day-tour": {
+  "title": "Isla de Nemo: snorkel de medio día con fotos de dron y almuerzo",
+  "metaTitle": "Isla de Nemo medio día, fotos de dron y almuerzo",
+  "metaDescription": "La versión con salida desde Pattaya de la excursión a la isla de Nemo: snorkel con peces payaso sobre coral virgen, con almuerzo y fotografía con dron incluidos, de vuelta a media tarde.",
+  "shortDescription": "La versión con salida desde Pattaya de la excursión a la isla de Nemo: snorkel con peces payaso sobre coral virgen, con almuerzo y fotografía con dron incluidos, de vuelta a media tarde.",
+  "fullDescription": "Si se aloja en Pattaya, esta es la forma más sensata de conocer la isla de Nemo: el mismo arrecife, los mismos peces payaso y la misma fotografía, sin las cuatro horas de carretera que la versión desde Bangkok añade al día.\n\nLa isla debe su apodo a las anémonas que cubren partes del arrecife, cada una con una familia de peces payaso que se acercarán flotando frente a su máscara y volverán a los tentáculos si se aproxima demasiado. El coral aquí está en mejor estado que en los puntos más cercanos a Pattaya, porque muchos menos barcos frecuentan estas aguas, y la visibilidad se beneficia de ello.\n\nEl equipo de snorkel está incluido y el baño se realiza en aguas poco profundas y resguardadas, con chalecos salvavidas disponibles, así que la confianza en el agua no es un requisito. Entre sesiones hay almuerzo y tiempo en la arena. Durante toda la excursión, el equipo filma imágenes con dron desde el aire y fotos y vídeos submarinos, que comparten con usted después: las fotografías son sistemáticamente lo que más mencionan los huéspedes, ya que las tomas submarinas son casi imposibles de conseguir por cuenta propia.\n\nLa recogida y el regreso al hotel en Pattaya están incluidos, y estará de vuelta en la ciudad con toda la tarde todavía por delante.",
+  "highlights": [
+   "Peces payaso reales en sus anémonas, a pocos metros de la superficie",
+   "Coral más sano que los arrecifes más cercanos a Pattaya",
+   "Fotografía con dron y submarina incluidas",
+   "Almuerzo y equipo de snorkel incluidos",
+   "Apto para nadadores inseguros gracias a los chalecos salvavidas",
+   "De vuelta en Pattaya a media tarde"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Pattaya",
+   "Traslado en lancha rápida a la isla de Nemo",
+   "Equipo de snorkel y chaleco salvavidas",
+   "Almuerzo",
+   "Fotografía con dron y submarina",
+   "Guía de habla inglesa",
+   "Agua potable"
+  ],
+  "notIncluded": [
+   "Toallas",
+   "Bebidas alcohólicas",
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

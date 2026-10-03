@@ -41881,6 +41881,94 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "pattaia-fishing-park-private-tour": {
+  "title": "Private Angelsession am See mit Bambushütte nahe Pattaya",
+  "metaTitle": "Privates Seeangeln mit Bambushütte nahe Pattaya",
+  "metaDescription": "Fünf gemächliche Stunden an einem besetzten Angelsee nahe Rayong, mit eigener Bambushütte oder Steg, Angelausrüstung inklusive, auf der Jagd nach afrikanischem Wels und rotem Tilapia.",
+  "shortDescription": "Fünf gemächliche Stunden an einem besetzten Angelsee nahe Rayong, mit eigener Bambushütte oder Steg, Angelausrüstung inklusive, auf der Jagd nach afrikanischem Wels und rotem Tilapia.",
+  "fullDescription": "Dies ist bewusst ein gemächlicher Tag. Der Park ist ein gepflegter, besetzter See auf dem Land nahe Rayong, angelegt mit privaten Bambushütten am Ufer und Angelstegen über dem Wasser. Sie nehmen eine für die Session, richten sich ein und angeln in dem Tempo, das Ihnen passt.\n\nDer See beherbergt afrikanischen Wels, der sich kräftig wehrt und eine ordentliche Größe erreicht, sowie roten Tilapia, der nachsichtiger ist und bereitwillig genug anbeißt, um Anfänger bei der Stange zu halten. Angelausrüstung und Köder sind inklusive, und das Personal hilft Ihnen beim Einrichten und zeigt Ihnen die Technik, falls Sie noch nie eine Angel in der Hand hatten. Es ist wirklich zugänglich für Erstlinge, und die Fangquote ist hoch genug, dass niemand mit leeren Händen nach Hause geht.\n\nDie Bambushütte zählt mehr, als es sich anhört. Sie bietet Schatten, einen Platz, um richtig zu sitzen, und eine private Basis für die Gruppe, was die Session von einem bloßen Stehen am Ufer in etwas verwandelt, das einem langen, entspannten Nachmittag im Schatten näherkommt. Familien kommen genau deshalb gut damit zurecht: Das Angeln beschäftigt, wer möchte, während alle anderen im Schatten sitzen.\n\nEs handelt sich um eine private Buchung, sodass die Hütte und die Session ganz Ihnen allein gehören.",
+  "highlights": [
+   "Private Bambushütte oder Angelsteg für Ihre Gruppe",
+   "Besetzter See mit afrikanischem Wels und rotem Tilapia",
+   "Angelausrüstung und Köder vollständig inklusive",
+   "Personal zur Hand, um kompletten Anfängern alles zu zeigen",
+   "Schattige, gemächliche Fünf-Stunden-Session",
+   "Ruhige Landschaft nahe Rayong"
+  ],
+  "included": [
+   "Private Bambushütte oder Steg für Ihre Gruppe",
+   "Angelruten, Ausrüstung und Köder",
+   "Grundlegende Anleitung durch das Parkpersonal",
+   "Fünfstündige Angelsession",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Hoteltransfers",
+   "Mahlzeiten und Getränke",
+   "Angelschein, falls erforderlich",
+   "Trinkgelder"
+  ]
+ },
+ "koh-samet-snorkeling-boat-tour": {
+  "title": "Multi-Insel-Schnorcheltour um Koh Samet per Speedboot",
+  "metaTitle": "Multi-Insel-Tour ab Koh Samet, Schnorcheln per Speedboot",
+  "metaDescription": "Hüpfen Sie per Speedboot zwischen fünf oder sechs Inseln vor Koh Samet, mit Schnorcheln an jedem Stopp und einer Mittagessen-Option auf der Sechs-Insel-Route.",
+  "shortDescription": "Hüpfen Sie per Speedboot zwischen fünf oder sechs Inseln vor Koh Samet, mit Schnorcheln an jedem Stopp und einer Mittagessen-Option auf der Sechs-Insel-Route.",
+  "fullDescription": "Die Inseln verstreut vor Koh Samet sehen nur einen Bruchteil des Bootsverkehrs, der die Gewässer um Pattaya befährt, und diese Tour reiht die besten von ihnen zu einem einzigen Tag mit kurzen Überfahrten und wiederholten Stopps im Wasser zusammen.\n\nJe nach gewählter Option umfasst die Route fünf oder sechs Inseln. Koh Kudee ist meist das Highlight: eine kleine Insel mit einem Halbmond aus sehr feinem weißem Sand und klarem, flachem Wasser, das sich absurd gut fotografieren lässt. Koh Thalu ist für den natürlichen Felsbogen bekannt, der ihm den Namen gibt. Zwischendurch ankert das Boot an Riffstellen zum Schnorcheln, und das Tempo ist bewusst zügig: ein Stopp, Zeit im Wasser, zurück an Bord, weiter zur nächsten Insel.\n\nSchnorchelausrüstung ist inklusive, und die Stellen sind flach und geschützt, was sie für Gruppen mit gemischtem Können geeignet macht. Die Sechs-Insel-Option beinhaltet Mittagessen, was sich lohnt: Der Tag ist lang genug, dass man es brauchen wird, und die Alternative wäre, zwischen den Stopps zu hungern.\n\nDiese Tour startet von Koh Samet aus und nicht vom Festland, weshalb sie sich natürlich mit einem Aufenthalt auf der Insel oder einem Tagesausflug nach Koh Samet kombinieren lässt.",
+  "highlights": [
+   "Fünf oder sechs Inselstopps an einem einzigen Tag",
+   "Feiner weißer Sand und klares Flachwasser bei Koh Kudee",
+   "Der natürliche Felsbogen von Koh Thalu",
+   "Schnorcheln an mehreren Riffstellen",
+   "Deutlich ruhigere Gewässer als bei den Pattaya-Inseln",
+   "Mittagessen inklusive bei der Sechs-Insel-Option"
+  ],
+  "included": [
+   "Speedboot-Transfer für das Inselhüpfen",
+   "Schnorchelausrüstung und Schwimmweste",
+   "Mittagessen (nur bei der Sechs-Insel-Option)",
+   "Englischsprachiger Guide",
+   "Trinkwasser",
+   "Nationalpark-Gebühren, falls zutreffend"
+  ],
+  "notIncluded": [
+   "Hoteltransfers",
+   "Mittagessen bei der Fünf-Insel-Option",
+   "Handtücher",
+   "Alkoholische Getränke",
+   "Trinkgelder"
+  ]
+ },
+ "nemo-island-half-day-tour": {
+  "title": "Nemo Island: Halbtages-Schnorcheln mit Drohnenfotos und Mittagessen",
+  "metaTitle": "Nemo Island Halbtag, Drohnenfotos und Mittagessen",
+  "metaDescription": "Die Pattaya-Abfahrtsversion des Nemo-Island-Ausflugs: Schnorcheln mit Clownfischen über unberührten Korallen, mit Mittagessen und Drohnenfotografie inklusive, zurück am frühen Nachmittag.",
+  "shortDescription": "Die Pattaya-Abfahrtsversion des Nemo-Island-Ausflugs: Schnorcheln mit Clownfischen über unberührten Korallen, mit Mittagessen und Drohnenfotografie inklusive, zurück am frühen Nachmittag.",
+  "fullDescription": "Wenn Sie in Pattaya übernachten, ist dies der vernünftige Weg, Nemo Island zu erleben: das gleiche Riff, die gleichen Clownfische und die gleiche Fotografie, ohne die vier Stunden Fahrzeit, die die Bangkok-Version dem Tag hinzufügt.\n\nDie Insel verdankt ihren Spitznamen den Seeanemonen, die Teile des Riffs bedecken, jede mit einer Familie von Clownfischen, die vor Ihrer Maske schweben und bei zu großer Annäherung wieder in die Tentakel zurückflitzen. Die Korallen sind hier in besserem Zustand als an den Stellen näher an Pattaya, da hier deutlich weniger Boote verkehren, und die Sichtweite profitiert davon.\n\nSchnorchelausrüstung ist inklusive, und das Schwimmen findet in geschützten Flachwassern statt, mit verfügbaren Schwimmwesten, sodass Selbstvertrauen im Wasser keine Voraussetzung ist. Zwischen den Sessions gibt es Mittagessen und Zeit im Sand. Während des gesamten Ausflugs filmt die Crew Drohnenaufnahmen von oben sowie Unterwasserfotos und -videos, die sie anschließend mit Ihnen teilt: Die Fotografien sind durchweg das, was Gäste am häufigsten erwähnen, da Unterwasseraufnahmen alleine kaum zu bekommen sind.\n\nHotelabholung und -rückfahrt in Pattaya sind inklusive, und Sie sind zurück in der Stadt, während der Abend noch vor Ihnen liegt.",
+  "highlights": [
+   "Echte Clownfische in ihren Anemonen, nur wenige Meter unter der Oberfläche",
+   "Gesündere Korallen als an den Riffen näher bei Pattaya",
+   "Drohnen- und Unterwasserfotografie inklusive",
+   "Mittagessen und Schnorchelausrüstung inklusive",
+   "Geeignet für unsichere Schwimmer dank Schwimmwesten",
+   "Zurück in Pattaya am frühen Nachmittag"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Pattaya",
+   "Speedboot-Transfer zur Nemo Island",
+   "Schnorchelausrüstung und Schwimmweste",
+   "Mittagessen",
+   "Drohnen- und Unterwasserfotografie",
+   "Englischsprachiger Guide",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Handtücher",
+   "Alkoholische Getränke",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

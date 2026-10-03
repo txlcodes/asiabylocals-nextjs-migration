@@ -41881,6 +41881,94 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "pattaia-fishing-park-private-tour": {
+  "title": "Séance privée de pêche en lac avec hutte en bambou près de Pattaya",
+  "metaTitle": "Pêche privée en lac avec hutte en bambou près de Pattaya",
+  "metaDescription": "Cinq heures tranquilles dans un lac de pêche aménagé près de Rayong, avec votre propre hutte en bambou ou jetée, matériel fourni, et silures africains et tilapias rouges à traquer.",
+  "shortDescription": "Cinq heures tranquilles dans un lac de pêche aménagé près de Rayong, avec votre propre hutte en bambou ou jetée, matériel fourni, et silures africains et tilapias rouges à traquer.",
+  "fullDescription": "Voici une journée volontairement lente. Le parc est un lac aménagé et bien entretenu à la campagne près de Rayong, bordé de huttes en bambou privées le long de la rive et de jetées de pêche au-dessus de l'eau. Vous en prenez une pour la séance, vous vous installez, et vous pêchez au rythme qui vous convient.\n\nLe lac abrite des silures africains, qui se défendent vigoureusement et atteignent une belle taille, ainsi que des tilapias rouges, plus accommodants et qui mordent assez facilement pour garder les débutants intéressés. Le matériel et les appâts sont fournis, et le personnel vous aidera à vous installer et vous montrera la technique si vous n'avez jamais tenu une canne : c'est réellement accessible pour les débutants, et le taux de prise est assez élevé pour que personne ne rentre bredouille.\n\nLa hutte en bambou compte plus qu'il n'y paraît. Elle offre de l'ombre, un endroit où s'asseoir confortablement, et une base privée pour le groupe, ce qui transforme la séance d'une simple pêche au bord de l'eau en quelque chose qui ressemble davantage à un long après-midi tranquille à l'abri du soleil. Les familles s'y plaisent particulièrement pour cette raison : la pêche occupe ceux qui le souhaitent tandis que les autres restent à l'ombre.\n\nIl s'agit d'une réservation privée, donc la hutte et la séance vous sont réservées exclusivement.",
+  "highlights": [
+   "Hutte en bambou privée ou jetée de pêche pour votre groupe",
+   "Lac aménagé avec silures africains et tilapias rouges",
+   "Matériel et appâts entièrement fournis",
+   "Personnel disponible pour initier les débutants complets",
+   "Séance ombragée et tranquille de cinq heures",
+   "Cadre campagnard paisible près de Rayong"
+  ],
+  "included": [
+   "Hutte en bambou privée ou jetée pour votre groupe",
+   "Cannes à pêche, matériel et appâts",
+   "Instructions de base par le personnel du parc",
+   "Séance de pêche de cinq heures",
+   "Eau potable"
+  ],
+  "notIncluded": [
+   "Transferts d'hôtel",
+   "Repas et boissons",
+   "Permis de pêche si applicable",
+   "Pourboires"
+  ]
+ },
+ "koh-samet-snorkeling-boat-tour": {
+  "title": "Excursion de plongée avec tuba multi-îles autour de Koh Samet en hors-bord",
+  "metaTitle": "Multi-îles au départ de Koh Samet, plongée avec tuba en hors-bord",
+  "metaDescription": "Enchaînez cinq ou six îles autour de Koh Samet en hors-bord, avec plongée avec tuba à chaque arrêt et option déjeuner sur le circuit de six îles.",
+  "shortDescription": "Enchaînez cinq ou six îles autour de Koh Samet en hors-bord, avec plongée avec tuba à chaque arrêt et une option déjeuner sur le circuit de six îles.",
+  "fullDescription": "Les îles disséminées autour de Koh Samet ne voient qu'une fraction du trafic de bateaux qui sillonne les eaux autour de Pattaya, et cette excursion rassemble les meilleures d'entre elles en une seule journée faite de courtes traversées et d'arrêts répétés dans l'eau.\n\nSelon l'option choisie, le circuit couvre cinq ou six îles. Koh Kudee en est généralement le point fort : une petite île avec un croissant de sable blanc très fin et une eau peu profonde et limpide qui se prête à des photos spectaculaires. Koh Thalu est connue pour l'arche rocheuse naturelle qui lui donne son nom. Entre les deux, le bateau mouille sur des sites de récifs pour la plongée avec tuba, et le rythme est délibérément soutenu : un arrêt, du temps dans l'eau, retour à bord, puis direction le suivant.\n\nL'équipement de plongée avec tuba est fourni et les sites sont peu profonds et abrités, ce qui convient aux groupes de niveaux mixtes. L'option six îles comprend le déjeuner, qu'il vaut la peine de prendre : la journée est assez longue pour que cela se justifie, sinon on risque d'avoir faim entre les arrêts.\n\nCette excursion part de Koh Samet plutôt que du continent, ce qui s'associe naturellement à un séjour sur l'île ou à une excursion d'une journée à Koh Samet.",
+  "highlights": [
+   "Cinq ou six escales insulaires en une seule journée",
+   "Sable blanc fin et eaux peu profondes limpides à Koh Kudee",
+   "L'arche rocheuse naturelle de Koh Thalu",
+   "Plongée avec tuba sur plusieurs sites de récifs",
+   "Des eaux bien plus calmes que celles des îles de Pattaya",
+   "Déjeuner compris avec l'option six îles"
+  ],
+  "included": [
+   "Transfert en hors-bord pour l'excursion multi-îles",
+   "Équipement de plongée avec tuba et gilet de sauvetage",
+   "Déjeuner (option six îles uniquement)",
+   "Guide anglophone",
+   "Eau potable",
+   "Frais de parc national si applicable"
+  ],
+  "notIncluded": [
+   "Transferts d'hôtel",
+   "Déjeuner sur l'option cinq îles",
+   "Serviettes",
+   "Boissons alcoolisées",
+   "Pourboires"
+  ]
+ },
+ "nemo-island-half-day-tour": {
+  "title": "Île de Nemo : plongée avec tuba d'une demi-journée avec photos par drone et déjeuner",
+  "metaTitle": "Île de Nemo demi-journée, photos par drone et déjeuner",
+  "metaDescription": "La version au départ de Pattaya de l'excursion à l'île de Nemo : plongée avec tuba parmi les poissons-clowns sur des coraux préservés, déjeuner et photographie par drone compris, retour en milieu d'après-midi.",
+  "shortDescription": "La version au départ de Pattaya de l'excursion à l'île de Nemo : plongée avec tuba parmi les poissons-clowns sur des coraux préservés, déjeuner et photographie par drone compris, retour en milieu d'après-midi.",
+  "fullDescription": "Si vous séjournez à Pattaya, voici la manière la plus sensée de découvrir l'île de Nemo : le même récif, les mêmes poissons-clowns et la même photographie, sans les quatre heures de route que la version au départ de Bangkok ajoute à la journée.\n\nL'île tient son surnom des anémones qui tapissent certaines parties du récif, chacune abritant une famille de poissons-clowns qui viendront flotter devant votre masque avant de replonger dans les tentacules si vous vous approchez de trop près. Les coraux y sont en meilleur état que sur les sites plus proches de Pattaya, car beaucoup moins de bateaux fréquentent ces eaux, et la visibilité en profite.\n\nL'équipement de plongée avec tuba est fourni et la baignade se fait dans des eaux peu profondes et abritées, avec des gilets de sauvetage disponibles, donc l'aisance en mer n'est pas un prérequis. Entre les séances, il y a le déjeuner et du temps sur le sable. Tout au long de la journée, l'équipe filme des images par drone depuis le ciel et des photos et vidéos sous-marines, qu'elle partage ensuite avec vous : les photographies sont systématiquement ce que les clients mentionnent le plus, car les clichés sous-marins sont presque impossibles à obtenir seul.\n\nLa prise en charge et le retour à l'hôtel à Pattaya sont compris, et vous êtes de retour en ville avec encore toute la soirée devant vous.",
+  "highlights": [
+   "De vrais poissons-clowns dans leurs anémones, à quelques mètres de la surface",
+   "Des coraux en meilleure santé que les récifs plus proches de Pattaya",
+   "Photographie par drone et sous-marine comprise",
+   "Déjeuner et équipement de plongée avec tuba fournis",
+   "Adapté aux nageurs peu confiants grâce aux gilets de sauvetage",
+   "Retour à Pattaya en milieu d'après-midi"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Pattaya",
+   "Transfert en hors-bord jusqu'à l'île de Nemo",
+   "Équipement de plongée avec tuba et gilet de sauvetage",
+   "Déjeuner",
+   "Photographie par drone et sous-marine",
+   "Guide anglophone",
+   "Eau potable"
+  ],
+  "notIncluded": [
+   "Serviettes",
+   "Boissons alcoolisées",
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
