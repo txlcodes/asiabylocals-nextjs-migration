@@ -42469,6 +42469,85 @@ export const DE_TOURS: Record<string, TourT> = {
    "Handtuch-Kaution, falls zutreffend"
   ]
  },
+ "nong-nooch-tropical-garden-pattaya-cultural-tour": {
+  "title": "Pattaya: Eintrittspass für den Nong-Nooch-Tropengarten mit Kulturshows",
+  "metaTitle": "Pattaya: Nong-Nooch-Pass, Kulturshows",
+  "metaDescription": "Überspringen Sie den Ticketschalter im Nong-Nooch-Tropengarten und verbringen Sie den Tag damit, durch thematische Gärten, das Dinosauriertal und tägliche thailändische Kulturaufführungen zu wandern.",
+  "shortDescription": "Überspringen Sie den Ticketschalter im Nong-Nooch-Tropengarten und verbringen Sie den Tag damit, durch thematische Gärten, das Dinosauriertal und tägliche thailändische Kulturaufführungen zu wandern.",
+  "fullDescription": "Der Nong-Nooch-Tropengarten ist einer der größten und aufwendigst gestalteten botanischen Parks Südostasiens und erstreckt sich über Hunderte von Hektar direkt südlich von Pattaya. Dieser Eintrittspass bringt Sie direkt durch das Tor und auf das gesamte Gelände, wo akribisch gestaltete Themengärten schnell aufeinanderfolgen, französische Parterres, eine Kaktus- und Sukkulentensammlung, eine Orchideenzucht, und Formschnitt-Figuren, getrimmt zu Tieren und geometrischen Mustern.\n\nEine der meistfotografierten Ecken des Parks ist das Dinosauriertal, ein ausgedehnter Pfad mit Hunderten von lebensgroßen Dinosauriermodellen inmitten des Grüns, ein garantierter Hit bei Kindern und ein wirklich lustiger Fotostopp für alle anderen. Erhöhte Skywalk-Pfade verlaufen über mehrere Gartenzonen und bieten eine Vogelperspektive auf die Landschaftsgestaltung, die man auf Bodenebene einfach nicht bekommt.\n\nIhr Ticket deckt auch die täglichen thailändischen Kulturshows im Amphitheater des Parks ab, mit traditionellem Tanz, Trommeln und inszenierten Aufführungen, die mehrmals täglich laufen. Die meisten Besucher verbringen hier drei bis vier Stunden in einem angenehmen Tempo, können aber leicht länger bleiben. Essensstände und Restaurants im Park machen es einfach, den Besuch zu einem vollen Ausflug zu machen.",
+  "highlights": [
+   "Direkter Eintritt in einen der größten botanischen Parks Südostasiens",
+   "Dutzende Themengärten von französischen Parterres bis Kaktussammlungen",
+   "Dinosauriertal-Pfad mit Hunderten lebensgroßer Modelle",
+   "Tägliche thailändische Kulturshows im Eintritt inklusive",
+   "Erhöhte Skywalk-Pfade mit Blick über die Landschaftsgestaltung"
+  ],
+  "included": [
+   "Eintritt in den Nong-Nooch-Tropengarten für ausländische Besucher",
+   "Zugang zu allen Themengartenzonen und dem Dinosauriertal",
+   "Eintritt zu geplanten thailändischen Kulturshows"
+  ],
+  "notIncluded": [
+   "Transport zum und vom Garten",
+   "Speisen und Getränke im Park",
+   "Optionale Aktivitäten im Park (Tram-Fahrten, Tierfütterung usw.)"
+  ]
+ },
+ "pattaya-dive-sites-full-day-tour": {
+  "title": "Pattaya: Bootstauch-Tagesausflug zu den Riffen von Pattaya und Samae Sarn",
+  "metaTitle": "Pattaya: Bootstauchen, Riffe Pattaya und Samae Sarn",
+  "metaDescription": "Verbringen Sie einen ganzen Tag auf dem Wasser und tauchen Sie an den Riffen von Pattaya oder Samae Sarn, mit zwei bis drei geführten Tauchgängen, Gebäck zum Frühstück und Getränken an Bord.",
+  "shortDescription": "Verbringen Sie einen ganzen Tag auf dem Wasser und tauchen Sie an den Riffen von Pattaya oder Samae Sarn, mit zwei bis drei geführten Tauchgängen, Gebäck zum Frühstück und Getränken an Bord.",
+  "fullDescription": "Die Gewässer vor Pattaya und dem nahen Samae Sarn verbergen eine überraschend lebendige Unterwasserwelt aus Korallenstöcken, tropischen Fischen und gelegentlichen Wracks, und dieser Bootsausflug ist darauf ausgelegt, zertifizierten Tauchern das Beste davon an einem einzigen Tag zu zeigen. Je nach Bedingungen und gewählter Option fährt das Boot entweder zu den Inselplätzen vor Pattaya oder südwärts in die ruhigeren, klareren Gewässer rund um Samae Sarn, wo die Sicht oft am besten ist und die Riffe deutlich weniger Besucher sehen.\n\nDer Tag umfasst zwei oder drei Tauchgänge, jeweils geleitet von einem zertifizierten Tauchguide, der diese Plätze gut kennt und auf das Meeresleben hinweisen kann, an dem Sie sonst einfach vorbeischwimmen würden. Zwischen den Tauchgängen wird das Boot zu einem schwimmenden Basislager: morgens kommen Gebäck und Kaffee heraus, und Softdrinks und Wasser halten alle während der Oberflächenpausen hydriert.\n\nHin- und Rücktransfer ab Ihrem Hotel in Pattaya ist inklusive, sodass die Logistik von Tür zu Steg und zurück einfach bleibt. Es passt für zertifizierte Spaßtaucher aller Erfahrungsstufen, die einen entspannten, gut organisierten Tag unter Wasser statt eines gehetzten Einflaschen-Ausflugs wollen, und das kleine Bootsformat hält die Gruppen persönlich.",
+  "highlights": [
+   "Zwei oder drei geführte Tauchgänge an den Plätzen von Pattaya oder Samae Sarn",
+   "Zertifizierter Tauchguide leitet jeden Tauchgang",
+   "Gebäck-Frühstück, Kaffee und Getränke an Bord serviert",
+   "Hin- und Rück-Hoteltransfer ab Pattaya inklusive",
+   "Ruhigere, klarere Riffe bei Samae Sarn als Option"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Pattaya",
+   "Bootsausflug mit 2 oder 3 Spaßtauchgängen",
+   "Zertifizierter Tauchguide",
+   "Tauchflaschen und Bleigewichte",
+   "Gebäck-Frühstück, Kaffee und Softdrinks an Bord"
+  ],
+  "notIncluded": [
+   "Vollständige Tauchausrüstungs-Vermietung (gegen Aufpreis verfügbar)",
+   "Mittagessen",
+   "Trinkgelder für Crew und Guide",
+   "Tauchversicherung"
+  ]
+ },
+ "phra-tamnak-mountain-viewpoint-private-tour": {
+  "title": "Gestalten Sie Ihren Pattaya-Tag mit privatem Auto und lokalem Guide",
+  "metaTitle": "Gestalten Sie Ihr Pattaya: privates Auto und lokaler Guide",
+  "metaDescription": "Sagen Sie einem lokalen Experten, wohin Sie möchten, oder was Sie mögen, und erhalten Sie einen vollständig privaten Tag in Pattaya mit Auto, Fahrer-Guide, und einer ganz auf Sie zugeschnittenen Route.",
+  "shortDescription": "Sagen Sie einem lokalen Experten, wohin Sie möchten, oder was Sie mögen, und erhalten Sie einen vollständig privaten Tag in Pattaya mit Auto, Fahrer-Guide, und einer ganz auf Sie zugeschnittenen Route.",
+  "fullDescription": "Dies ist Pattaya mit einem Einheimischen auf dem Beifahrersitz und Ihrer Wunschliste auf dem Armaturenbrett. Bevor der Tag beginnt, teilen Sie die Orte mit, die Sie sehen möchten, oder einfach die Art von Tag, nach der Sie suchen, und ein lokaler Experten-Guide plant die sinnvollste Route, ordnet die Stopps, um Verkehr und Menschenmassen zu vermeiden. Am Tag selbst erhalten Sie ein privates Auto, Hotelabholung und -rückfahrt, und einen flexiblen Zeitplan, der sich anpasst, wann immer Sie etwas finden, das einen längeren Aufenthalt wert ist.\n\nWenn Sie lieber einen Ausgangspunkt vorgegeben hätten, funktioniert die klassische Kombination gut: der Aussichtspunkt am Phra-Tamnak-Berg für einen ruhigen Blick über die Bucht, der berühmte Pattaya View Point für das weitläufige Panorama des Sichelstrands, das auf jeder Postkarte erscheint, und eingewobene Stopps für Tempel, Märkte, Strände, oder die skurrileren Attraktionen der Stadt, je nach Ihrem Geschmack. Ihr Guide füllt die Fahrten mit Kontext: wo Einheimische tatsächlich essen, welche Strände den Ausflug wert sind, was sich in der Stadt verändert hat und was nicht.\n\nDa das Format vollständig privat ist, passt es für fast jeden: Familien, die den Tag um Nickerchen herum takten, Fotografen auf der Jagd nach Licht, wiederkehrende Besucher, die etwas Neues suchen, oder Erstbesucher, die die Highlights ohne die Menge wollen. Ein Tag, ein Auto, Ihr Pattaya.",
+  "highlights": [
+   "Vollständig anpassbare private Route, geplant von einem lokalen Experten",
+   "Privates Auto mit Hotelabholung und -rückfahrt inklusive",
+   "Klassische Stopps wie der Phra-Tamnak-Berg und der Pattaya View Point",
+   "Flexibler Zeitplan, der sich spontan anpasst",
+   "Lokale Tipps zu Essen, Strände und versteckten Winkeln"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto",
+   "Lokaler Experten-Fahrer-Guide",
+   "Individuelle Routenplanung vor der Tour",
+   "Hotelabholung und -rückfahrt in Pattaya",
+   "Kraftstoff- und Parkgebühren",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Attraktionen",
+   "Mahlzeiten und Getränke",
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

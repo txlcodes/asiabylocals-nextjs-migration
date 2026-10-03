@@ -42469,6 +42469,85 @@ export const ES_TOURS: Record<string, TourT> = {
    "Depósito de toalla si corresponde"
   ]
  },
+ "nong-nooch-tropical-garden-pattaya-cultural-tour": {
+  "title": "Pattaya: pase de entrada al jardín tropical de Nong Nooch con espectáculos culturales",
+  "metaTitle": "Pattaya: pase Nong Nooch, espectáculos culturales",
+  "metaDescription": "Evite la taquilla del jardín tropical de Nong Nooch y pase el día recorriendo jardines temáticos, el Valle de los Dinosaurios, y espectáculos culturales tailandeses diarios.",
+  "shortDescription": "Evite la taquilla del jardín tropical de Nong Nooch y pase el día recorriendo jardines temáticos, el Valle de los Dinosaurios, y espectáculos culturales tailandeses diarios.",
+  "fullDescription": "El jardín tropical de Nong Nooch es uno de los parques botánicos más grandes y elaboradamente ajardinados del sudeste asiático, extendido sobre cientos de hectáreas justo al sur de Pattaya. Este pase de entrada le lleva directamente a través de la puerta y a todo el recinto, donde jardines temáticos meticulosamente esculpidos se suceden rápidamente: parterres de estilo francés, una colección de cactus y suculentas, un vivero de orquídeas, y exhibiciones de topiaria recortadas en forma de animales y patrones geométricos.\n\nUno de los rincones más fotografiados del parque es el Valle de los Dinosaurios, un extenso sendero flanqueado por cientos de modelos de dinosaurios a tamaño real entre la vegetación, un éxito garantizado con los niños y una parada fotográfica realmente divertida para todos los demás. Pasarelas elevadas discurren sobre varias zonas del jardín, ofreciendo una vista desde arriba del diseño paisajístico que simplemente no se obtiene a nivel del suelo.\n\nSu entrada también cubre los espectáculos culturales tailandeses diarios celebrados en el anfiteatro del parque, con danza tradicional, percusión, y representaciones escenificadas que se repiten varias veces al día. La mayoría de los visitantes pasan aquí entre tres y cuatro horas a un ritmo cómodo, aunque fácilmente puede quedarse más tiempo. Los puestos de comida y restaurantes dentro del parque facilitan convertir la visita en una excursión completa.",
+  "highlights": [
+   "Entrada directa a uno de los mayores parques botánicos del sudeste asiático",
+   "Decenas de jardines temáticos, desde parterres franceses hasta colecciones de cactus",
+   "Sendero del Valle de los Dinosaurios con cientos de modelos a tamaño real",
+   "Espectáculos culturales tailandeses diarios incluidos en la entrada",
+   "Pasarelas elevadas con vistas sobre el diseño paisajístico"
+  ],
+  "included": [
+   "Entrada al jardín tropical de Nong Nooch para visitantes extranjeros",
+   "Acceso a todas las zonas de jardines temáticos y al Valle de los Dinosaurios",
+   "Entrada a los espectáculos culturales tailandeses programados"
+  ],
+  "notIncluded": [
+   "Transporte hacia y desde el jardín",
+   "Comida y bebidas dentro del parque",
+   "Actividades opcionales dentro del parque (paseos en tranvía, alimentación de animales, etc.)"
+  ]
+ },
+ "pattaya-dive-sites-full-day-tour": {
+  "title": "Pattaya: excursión de día completo de buceo en barco a los arrecifes de Pattaya y Samaesarn",
+  "metaTitle": "Pattaya: buceo en barco, arrecifes de Pattaya y Samaesarn",
+  "metaDescription": "Pase un día completo en el agua buceando en los arrecifes de Pattaya o Samae Sarn, con dos o tres inmersiones guiadas, bollería de desayuno y bebidas servidas a bordo.",
+  "shortDescription": "Pase un día completo en el agua buceando en los arrecifes de Pattaya o Samae Sarn, con dos o tres inmersiones guiadas, bollería de desayuno y bebidas servidas a bordo.",
+  "fullDescription": "Las aguas frente a Pattaya y la cercana Samae Sarn esconden un mundo submarino sorprendentemente vivo de cabezas de coral, peces tropicales, y algún pecio ocasional, y esta salida en barco está diseñada para mostrar a buceadores certificados lo mejor de todo ello en un solo día. Según las condiciones y la opción elegida, el barco se dirige hacia los puntos insulares frente a Pattaya o hacia el sur, a las aguas más tranquilas y claras alrededor de Samae Sarn, donde la visibilidad suele ser mejor y los arrecifes reciben muchos menos visitantes.\n\nEl día incluye dos o tres inmersiones, cada una dirigida por un guía de buceo certificado que conoce bien estos puntos y puede señalar la vida marina que de otro modo pasaría desapercibida. Entre inmersiones, el barco se convierte en un campamento base flotante: por la mañana se sirven bollería y café, y refrescos y agua mantienen a todos hidratados durante los intervalos de superficie.\n\nEl traslado de ida y vuelta desde su hotel en Pattaya está incluido, así que la logística se mantiene sencilla de puerta a muelle y de vuelta. Es ideal para buceadores certificados de todos los niveles de experiencia que quieren un día relajado y bien organizado bajo el agua en lugar de una salida apresurada de una sola botella, y el formato de barco pequeño mantiene los grupos a escala personal.",
+  "highlights": [
+   "Dos o tres inmersiones guiadas en los puntos de Pattaya o Samae Sarn",
+   "Guía de buceo certificado dirigiendo cada inmersión",
+   "Desayuno de bollería, café y bebidas servidas a bordo",
+   "Traslado de ida y vuelta al hotel desde Pattaya incluido",
+   "Arrecifes más tranquilos y claros en Samae Sarn como opción"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Pattaya",
+   "Salida en barco con 2 o 3 inmersiones recreativas",
+   "Guía de buceo certificado",
+   "Botellas y lastres",
+   "Desayuno de bollería, café y refrescos a bordo"
+  ],
+  "notIncluded": [
+   "Alquiler de equipo de buceo completo (disponible con cargo adicional)",
+   "Almuerzo",
+   "Propinas para la tripulación y el guía",
+   "Seguro de buceo"
+  ]
+ },
+ "phra-tamnak-mountain-viewpoint-private-tour": {
+  "title": "Diseñe su día en Pattaya con coche privado y guía local",
+  "metaTitle": "Diseñe su Pattaya: coche privado y guía local",
+  "metaDescription": "Diga a un experto local adónde quiere ir, o qué le gusta, y disfrute de un día privado completo en Pattaya con coche, chófer-guía, y una ruta planificada enteramente en torno a usted.",
+  "shortDescription": "Diga a un experto local adónde quiere ir, o qué le gusta, y disfrute de un día privado completo en Pattaya con coche, chófer-guía, y una ruta planificada enteramente en torno a usted.",
+  "fullDescription": "Esto es Pattaya con un local en el asiento delantero y su lista de deseos en el salpicadero. Antes de que comience el día, usted comparte los lugares que quiere ver, o simplemente el tipo de día que busca, y un guía experto local planifica la ruta más sensata, ordenando las paradas para evitar el tráfico y las multitudes. El día en sí, dispone de un coche privado, recogida y regreso al hotel, y un horario flexible que se adapta cada vez que encuentra un sitio que merece la pena.\n\nSi prefiere que le den un punto de partida, la combinación clásica funciona bien: el mirador de la montaña de Phra Tamnak para una vista tranquila sobre la bahía, el famoso Pattaya View Point para la panorámica de la playa en media luna que aparece en todas las postales, y paradas entretejidas para templos, mercados, playas, o las atracciones más peculiares de la ciudad según su gusto. Su guía llena los trayectos de contexto: dónde comen realmente los locales, qué playas merecen el viaje, qué ha cambiado en la ciudad y qué no.\n\nComo el formato es totalmente privado, conviene a casi todo el mundo: familias que organizan el ritmo en torno a las siestas, fotógrafos buscando la luz adecuada, visitantes recurrentes buscando algo nuevo, o primeros visitantes que quieren lo más destacado sin la multitud. Un día, un coche, su Pattaya.",
+  "highlights": [
+   "Itinerario privado totalmente personalizable planificado por un experto local",
+   "Coche privado con recogida y regreso al hotel incluidos",
+   "Paradas clásicas como la montaña de Phra Tamnak y el Pattaya View Point",
+   "Horario flexible que se adapta sobre la marcha",
+   "Consejos locales sobre comida, playas y rincones escondidos"
+  ],
+  "included": [
+   "Coche con aire acondicionado privado",
+   "Chófer-guía experto local",
+   "Planificación de ruta personalizada antes de la excursión",
+   "Recogida y regreso al hotel en Pattaya",
+   "Tarifas de combustible y aparcamiento",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a las atracciones",
+   "Comidas y bebidas",
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",
