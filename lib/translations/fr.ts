@@ -28705,6 +28705,33 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Marché flottant et marchés de Maeklong, transfert privé",
   "metaDescription": "Excursion d'une journée entière à Krabi. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "premium-maeklong-and-floating-market-tour-9-pax": {
+  "title": "Tour Premium du Marché de Maeklong et du Marché Flottant (9 Personnes)",
+  "fullDescription": "Cette expérience de 7,5 heures se déroule au départ de Krabi, construite autour de Marché ferroviaire de Maeklong et Marché flottant de Damnoen Saduak. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend eau potable pendant la visite, guide avec perspectives locales, prise en charge et retour à l'hôtel depuis les principales zones de Bangkok, trajet en pédalo au marché flottant de Damnoen Saduak et transport en van climatisé premium. Il ne comprend pas pourboires facultatifs, dépenses personnelles et achats et nourriture et boissons, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nWatthana. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Marché ferroviaire de Maeklong",
+   "Marché flottant de Damnoen Saduak",
+   "Durée : 7,5 heures",
+   "Eau potable pendant la visite",
+   "Guide anglophone avec perspectives locales",
+   "Prise en charge et retour à l'hôtel depuis les principales zones de Bangkok"
+  ],
+  "included": [
+   "Eau potable pendant la visite",
+   "Guide anglophone avec perspectives locales",
+   "Prise en charge et retour à l'hôtel depuis les principales zones de Bangkok",
+   "Trajet en pédalo au marché flottant de Damnoen Saduak",
+   "Transport en van climatisé premium (9 personnes maximum)"
+  ],
+  "notIncluded": [
+   "Pourboires facultatifs",
+   "Dépenses personnelles et achats",
+   "Nourriture et boissons (disponibles à l'achat sur les marchés)"
+  ],
+  "shortDescription": "Excursion à Krabi, avec Marché ferroviaire de Maeklong et Marché flottant de Damnoen Saduak. Opérateur : Bigcountry Experience Co.,Ltd., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Tour Premium du Marché de Maeklong et du Marché Flottant",
+  "metaDescription": "Excursion à Krabi. Comprend eau potable pendant la visite. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "damnoen-saduak-and-mae-klong-train-markets": {
   "title": "Marchés de Damnoen Saduak et du Train de Mae Klong",
   "fullDescription": "Cette expérience de 8 heures se déroule au départ de Krabi, construite autour de Bus/car vers le marché ferroviaire de Maeklong, Village traditionnel et Marché flottant de Damnoen Saduak. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend transport climatisé aller-retour depuis Bangkok, transfert aller simple à l'hôtel, trajet en bateau à moteur à longue queue à travers Damnoen Saduak et, trajet en train à travers le marché ferroviaire de Maeklong et la campagne et guide anglophone agréé. Il ne comprend pas écouteurs, nourriture et boissons et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Krabi. MONKEY TRAVEL ASIA by Ask Discovery confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -32057,6 +32084,29 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Croisière-Dîner Viva Alangka sur la Chao Phraya à Bangkok",
   "metaDescription": "Excursion à Bangkok. Comprend croisière sur la rivière Chao Phraya. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "private-walking-tour-with-a-local-in-bangkok": {
+  "title": "Visite Privée à Pied avec un Local à Bangkok",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Bangkok, construite autour de Bangkok. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend visite privée à pied avec un Lokafyer, itinéraire sélectionné couvrant les points forts et les trésors cachés de Bangkok et recommandations personnalisées de restaurants. Il ne comprend pas achats personnels de nourriture ou de boissons aux arrêts locaux et le transport ou les frais d'entrée aux attractions ne sont pas, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nBangkok. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Bangkok",
+   "Durée : 2 heures",
+   "Visite privée à pied avec un Lokafyer",
+   "Itinéraire sélectionné couvrant les points forts et les trésors cachés de Bangkok",
+   "Recommandations personnalisées de restaurants, marchés et expériences"
+  ],
+  "included": [
+   "Visite privée à pied avec un Lokafyer",
+   "Itinéraire sélectionné couvrant les points forts et les trésors cachés de Bangkok",
+   "Recommandations personnalisées de restaurants, marchés et expériences"
+  ],
+  "notIncluded": [
+   "Achats personnels de nourriture ou de boissons aux arrêts locaux",
+   "Le transport ou les frais d'entrée aux attractions ne sont pas inclus"
+  ],
+  "shortDescription": "Excursion à Bangkok, avec Bangkok. Opérateur : Lokafy, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite Privée à Pied avec un Local à Bangkok",
+  "metaDescription": "Excursion à Bangkok. Comprend visite privée à pied avec un Lokafyer. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "make-your-own-silver-ring-near-bts-krung-thon-buri-in-bangkok": {
   "title": "Créez votre propre bague en argent près du BTS Krung Thon Buri à Bangkok",
   "fullDescription": "Cette expérience de 2 heures se déroule à Bangkok. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend atelier adapté aux débutants, créez votre propre bague en argent sterling, apprenez les techniques essentielles d'orfèvrerie, accompagnement à chaque étape du processus et rapportez chez vous une pièce d'argent unique. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -32495,6 +32545,34 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Calypso avec Danse Classique Thaïlandaise à Bangkok",
   "metaDescription": "Excursion à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "private-tuk-tuk-and-boat-multicultural-discovery-in-bangkok": {
+  "title": "Découverte Multiculturelle Privée en Tuk-Tuk et en Bateau à Bangkok",
+  "fullDescription": "Cette expérience de 3 heures se déroule à Bangkok. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend guide diplômé, trajet privé en tuk-tuk de la prise en charge au retour pour et 1 eau en bouteille / personne. Il ne comprend pas billets d'entrée : 80 THB/personne/temple, nourriture et boissons, dépenses personnelles et pourboire, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Bangkok. Around Bangkok Tours confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 3 heures",
+   "Guide professionnel agréé",
+   "Trajet privé en tuk-tuk de la prise en charge au retour pour l'option « Essentielle », et jusqu'à la jetée après les visites de temples pour l'option « Expérience Complète »",
+   "(Pour l'option « Expérience Complète » uniquement) Tour privé en bateau dans la zone (environ 1 heure)",
+   "(Pour l'option « Expérience Complète » uniquement) Transport jusqu'au point de dépose",
+   "1 eau en bouteille / personne"
+  ],
+  "included": [
+   "Guide professionnel agréé",
+   "Trajet privé en tuk-tuk de la prise en charge au retour pour l'option « Essentielle », et jusqu'à la jetée après les visites de temples pour l'option « Expérience Complète »",
+   "(Pour l'option « Expérience Complète » uniquement) Tour privé en bateau dans la zone (environ 1 heure)",
+   "(Pour l'option « Expérience Complète » uniquement) Transport jusqu'au point de dépose",
+   "1 eau en bouteille / personne"
+  ],
+  "notIncluded": [
+   "Billets d'entrée : 80 THB/personne/temple, vous pouvez payer à l'avance",
+   "Nourriture et boissons",
+   "Dépenses personnelles",
+   "Pourboire"
+  ],
+  "shortDescription": "Excursion de 3 heures à Bangkok, comprenant guide diplômé, trajet privé en tuk-tuk de la prise en charge au retour pour et 1 eau en bouteille / personne. Opérateur : Around Bangkok Tours, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Découverte Multiculturelle Privée en Tuk-Tuk et en Bateau à Bangkok",
+  "metaDescription": "Excursion de 3 heures à Bangkok. Comprend guide diplômé. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "chandee-head-spa-and-massage-at-sukhumvit-39-in-bangkok": {
   "title": "Spa Capillaire et Massage Chandee à Sukhumvit 39 à Bangkok",
   "fullDescription": "Cette expérience de 1,5 heures se déroule à Bangkok. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend traitement sélectionné avec des produits biologiques, accès au salon de relaxation et tisane. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -32840,6 +32918,31 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Croisière de Luxe The Planet et Buffet sur le Toit à Bangkok",
   "metaDescription": "Excursion de 2 heures à Bangkok. Comprend boisson de bienvenue et eau. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "thai-cooking-class-with-4-dishes-in-bangkok": {
+  "title": "Cours de Cuisine Thaïlandaise avec 4 Plats à Bangkok",
+  "fullDescription": "Cette expérience de 4 heures se déroule à Bangkok. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLes cours de cuisine thaïe suivent un schéma qui fonctionne : une visite au marché pour acheter galanga, citronnelle, combava et basilic sacré, le professeur expliquant à quoi sert chaque ingrédient, puis quatre ou cinq plats cuisinés un par un à des postes individuels, en général une pâte de curry pilée à partir de rien, un sauté, une soupe et un dessert, mangés au fur et à mesure. Les cours de Chiang Mai, dans des fermes biologiques hors de la ville, sont les plus détendus ; ceux de Bangkok, dans d'anciennes maisons de commerce, les plus soignés ; ceux de Phuket ajoutent souvent les fruits de mer. Les versions végétariennes et véganes sont la norme, et un cours est le moyen le plus rapide de comprendre pourquoi la cuisine thaïe a ce goût-là.\n\nLe prix comprend cours de cuisine thaïlandaise pratique à Bangkok, accompagnement par des instructeurs locaux sympathiques, tous les ingrédients frais et le matériel de cuisine, votre propre poste de cuisine et 4 plats thaïlandais : Pad Thaï, Tom Yum Goong, Som Tum. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 4 heures",
+   "Cours de cuisine thaïlandaise pratique à Bangkok",
+   "Accompagnement par des instructeurs locaux sympathiques",
+   "Tous les ingrédients frais et le matériel de cuisine",
+   "Votre propre poste de cuisine",
+   "4 plats thaïlandais : Pad Thaï, Tom Yum Goong, Som Tum (salade de papaye), riz gluant à la mangue"
+  ],
+  "included": [
+   "Cours de cuisine thaïlandaise pratique à Bangkok",
+   "Accompagnement par des instructeurs locaux sympathiques",
+   "Tous les ingrédients frais et le matériel de cuisine",
+   "Votre propre poste de cuisine",
+   "4 plats thaïlandais : Pad Thaï, Tom Yum Goong, Som Tum (salade de papaye), riz gluant à la mangue",
+   "Repas partagé pour déguster les plats que vous avez cuisinés",
+   "Recettes à emporter"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion d'une demi-journée à Bangkok, comprenant cours de cuisine thaïlandaise pratique à Bangkok, accompagnement par des instructeurs locaux sympathiques et tous les ingrédients frais et le matériel de cuisine. Opérateur : Homies Thai cooking classes, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Cours de Cuisine Thaïlandaise avec 4 Plats à Bangkok",
+  "metaDescription": "Excursion d'une demi-journée à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "chao-phraya-princess-dinner-cruise-and-hotel-transfer-in-bangkok": {
   "title": "Croisière-Dîner Chao Phraya Princess avec Transfert à l'Hôtel à Bangkok",
   "fullDescription": "Cette expérience de 2 heures se déroule au départ de Bangkok, construite autour de Fleuve Chao Phraya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend croisière-dîner de 2 heures depuis ICONSIAM. La croisière part à, buffet thaïlandais et international à bord, animation musicale live, boisson de bienvenue et rafraîchissements avec café/thé chaud et desserts. Il ne comprend pas autres boissons, pourboire et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -32975,6 +33078,31 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Billet d'entrée à Bangkok, comprenant nombre réservé d'aventures en RV à 360°, accès premium au simulateur de RV selon le forfait et l'âge et soutien du personnel. Opérateur : VR Fun House, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Billet d'Entrée à VR Fun House, Aventures RV 1-6 à Bangkok",
   "metaDescription": "Billet d'entrée à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "silver-ring-making-workshop-with-engraving-in-bangkok": {
+  "title": "Atelier de Fabrication de Bague en Argent avec Gravure à Bangkok",
+  "fullDescription": "Cette expérience de 1,5 heures se déroule à Bangkok. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend matériau en argent sterling 925 - bague de 2 mm de largeur jusqu'à la taille 8, gravure jusqu'à 8 caractères, emballage de bague, certificat de création et eau potable. Il ne comprend pas designs de bague avancés/personnalisés ou améliorations au-delà du design de base, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1,5 heures",
+   "Matériau en argent sterling 925 - bague de 2 mm de largeur jusqu'à la taille 8 US ou 3 mm de largeur jusqu'à la taille 6 US",
+   "Gravure jusqu'à 8 caractères (A-Z, a-z, 0-9)",
+   "Emballage de bague",
+   "Certificat de création",
+   "Eau potable"
+  ],
+  "included": [
+   "Matériau en argent sterling 925 - bague de 2 mm de largeur jusqu'à la taille 8 US ou 3 mm de largeur jusqu'à la taille 6 US",
+   "Gravure jusqu'à 8 caractères (A-Z, a-z, 0-9)",
+   "Emballage de bague",
+   "Certificat de création",
+   "Eau potable"
+  ],
+  "notIncluded": [
+   "Designs de bague avancés/personnalisés ou améliorations au-delà du design de base (payer la différence en magasin)"
+  ],
+  "shortDescription": "Excursion de 1,5 heures à Bangkok, comprenant matériau en argent sterling 925 - bague de 2 mm de largeur jusqu'à la taille 8, gravure jusqu'à 8 caractères et emballage de bague. Opérateur : OHM, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Atelier de Fabrication de Bague en Argent avec Gravure à Bangkok",
+  "metaDescription": "Excursion de 1,5 heures à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "bangkok-classical-bicycle-tour-by-local-operator": {
   "title": "Tour à Vélo Classique de Bangkok, par un Opérateur Local",
@@ -33122,6 +33250,27 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Tour Guidé de la Vieille Ville en Trottinette Électrique et/ou Vélo à Bangkok",
   "metaDescription": "Excursion d'une journée entière à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "bangkok-by-night-by-electric-scooter-and-or-bike-by-local-operator": {
+  "title": "Bangkok de Nuit en Trottinette Électrique et/ou Vélo, par un Opérateur Local",
+  "fullDescription": "Cette expérience d'une journée entière se déroule au départ de Bangkok, construite autour de Monument de la Démocratie, Wat Ratchanatdaram et Wat Suthat et la Balançoire Géante. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend trottinette électrique, guide et arrêts pour dégustation de boissons. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\n88/10 Chakrabongse Rd, Khwaeng Talat Yot, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thaïlande. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Monument de la Démocratie",
+   "Wat Ratchanatdaram",
+   "Wat Suthat et la Balançoire Géante",
+   "Chao Phraya Sky Park",
+   "Durée : une journée entière",
+   "Trottinette électrique"
+  ],
+  "included": [
+   "Trottinette électrique",
+   "Guide",
+   "Arrêts pour dégustation de boissons (sur demande)"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion d'une journée entière à Bangkok, avec Monument de la Démocratie, Wat Ratchanatdaram et Wat Suthat et la Balançoire Géante. Opérateur : Bangkok Funride, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Bangkok de Nuit en Trottinette Électrique et/ou Vélo, par un Opérateur Local",
+  "metaDescription": "Excursion d'une journée entière à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "thai-costume-rental-in-bangkok": {
   "title": "Location de Costume Thaïlandais à Bangkok",
   "fullDescription": "Cette expérience se déroule à Bangkok. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend location de costume thaïlandais pour une journée avec accessoires. Il ne comprend pas maquillage et coiffure, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -33137,6 +33286,35 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Bangkok, comprenant location de costume thaïlandais pour une journée avec accessoires. Opérateur : ThaiGlam Studio, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Location de Costume Thaïlandais à Bangkok",
   "metaDescription": "Excursion à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "yodsiam-sightseeing-cruise-with-snacks-and-unlimited-beer-in-bangkok": {
+  "title": "Croisière Touristique Yodsiam avec Collations et Bière à Volonté à Bangkok",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Bangkok, construite autour de Asiatique The Riverfront, ICONSIAM et Wat Pho. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend croisière sur la Chao Phraya, buffet à volonté avec collations et fruits, bar ouvert avec bière et boissons non alcoolisées, eau et musique. Il ne comprend pas prise en charge et retour à l'hôtel et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nAsiatique The Riverfront. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Asiatique The Riverfront",
+   "ICONSIAM",
+   "Wat Pho",
+   "Wat Arun",
+   "Durée : 1 heure",
+   "Croisière sur la Chao Phraya"
+  ],
+  "included": [
+   "Croisière sur la Chao Phraya",
+   "Buffet à volonté avec collations et fruits",
+   "Bar ouvert avec bière et boissons non alcoolisées",
+   "Eau",
+   "Musique",
+   "Assistance en thaï et en anglais à bord",
+   "Spectacles de danse en direct",
+   "Assurance selon la loi sur la protection des accidents nautiques (P.R.B.)"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel",
+   "Dépenses personnelles"
+  ],
+  "shortDescription": "Excursion de 1 heure à Bangkok, avec Asiatique The Riverfront, Iconsiam and Wat Kanlaya et Bangkok. Opérateur : MONKEY TRAVEL ASIA by Ask Discovery, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Croisière Touristique Yodsiam avec Collations et Bière à Volonté à Bangkok",
+  "metaDescription": "Excursion de 1 heure à Bangkok. Comprend croisière sur la Chao Phraya. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "from-bkk-kanchanaburi-wwii-river-kwai-and-hellfire-pass-tour-bangkok": {
   "title": "Depuis Bangkok : Tour de la Seconde Guerre Mondiale à Kanchanaburi, Rivière Kwaï et Col de l'Enfer (Bangkok)",
@@ -33220,6 +33398,106 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Tour Historique de Bangkok : Cité Ancienne, Wat Paknam et Erawan",
   "metaDescription": "Excursion à Bangkok. Comprend transport en véhicule climatisé. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "bangkok-erawan-museum-ancient-city-and-bang-pu-private-trip-by-local-operator": {
+  "title": "Excursion Privée à Bangkok : Musée Erawan, Cité Ancienne et Bang Pu, par un Opérateur Local",
+  "fullDescription": "Cette expérience d'une journée entière se déroule au départ de Bangkok, construite autour de Musée Erawan. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend transfert en voiture privée, entrée au musée Erawan, entrée à la Cité Ancienne et activités et repas sélectionnés selon le forfait choisi. Il ne comprend pas dépenses personnelles non mentionnées dans l'itinéraire, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nBangkok. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Musée Erawan",
+   "Durée : une journée entière",
+   "Transfert privé en voiture (hôtels de la zone urbaine de Bangkok)",
+   "Entrée au musée Erawan",
+   "Entrée à la Cité Ancienne (Muang Boran)",
+   "Activités et repas sélectionnés selon le forfait choisi"
+  ],
+  "included": [
+   "Transfert privé en voiture (hôtels de la zone urbaine de Bangkok)",
+   "Entrée au musée Erawan",
+   "Entrée à la Cité Ancienne (Muang Boran)",
+   "Activités et repas sélectionnés selon le forfait choisi"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles non mentionnées dans l'itinéraire"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Bangkok, avec Erawan Museum and Ancient City et Samut Prakan. Opérateur : Big Cat Travel Co., Ltd., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Excursion Privée à Bangkok : Musée Erawan, Cité Ancienne et Bang Pu, par un Opérateur Local",
+  "metaDescription": "Excursion d'une journée entière à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "city-highlights-e-scooter-and-bike-tour-in-bangkok": {
+  "title": "Points Forts de la Ville en Trottinette Électrique et Vélo à Bangkok",
+  "fullDescription": "Cette expérience de 2,5 heures se déroule à Bangkok, construite autour de Monument de la Démocratie, Wat Ratchanatdaram et Wat Suthat et la Balançoire Géante. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend trottinette électrique Segway Ninebot, trottinette électrique Xiaomi, vélo de style/taille différent, casque et chapeau thaïlandais original. Il ne comprend pas toute nourriture et boisson supplémentaires - pourboires pour le guide, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nBangkok FunRide - Electric Scooter Tours. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Monument de la Démocratie",
+   "Wat Ratchanatdaram",
+   "Wat Suthat et la Balançoire Géante",
+   "Fleuve Chao Phraya",
+   "Durée : 2,5 heures",
+   "Trottinette électrique Segway Ninebot"
+  ],
+  "included": [
+   "Trottinette électrique Segway Ninebot",
+   "Trottinette électrique Xiaomi",
+   "Vélo de style/taille différent",
+   "Casque",
+   "Chapeau thaïlandais original",
+   "Lumière et veste de sécurité",
+   "Option enfant, siège-vélo, sécurité"
+  ],
+  "notIncluded": [
+   "Toute nourriture et boisson supplémentaires - pourboires pour le guide"
+  ],
+  "shortDescription": "Excursion à Bangkok, avec Monument de la Démocratie, Wat Ratchanatdaram et Wat Suthat et la Balançoire Géante. Opérateur : Bangkok Funride, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Points Forts de la Ville en Trottinette Électrique",
+  "metaDescription": "Excursion à Bangkok. Comprend trottinette électrique Segway Ninebot. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "chao-phraya-meridian-buffet-sunset-cruise-and-music-in-bangkok": {
+  "title": "Croisière Buffet Meridian au Coucher du Soleil sur la Chao Phraya avec Musique à Bangkok",
+  "fullDescription": "Cette expérience de 2 heures se déroule au départ de Bangkok, construite autour de Pont du Roi Taksin le Grand, Asiatique The Riverfront et Pont Phra Pokklao. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend entrée à la croisière au coucher du soleil Meridian, personnel, musique live, boissons et buffet international. Il ne comprend pas autres dépenses personnelles et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nICON Siam. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Pont du Roi Taksin le Grand",
+   "Asiatique The Riverfront",
+   "Pont Phra Pokklao",
+   "Pont Phra Phuttha Yodfa",
+   "Durée : 2 heures",
+   "Entrée à la croisière au coucher du soleil Meridian"
+  ],
+  "included": [
+   "Entrée à la croisière au coucher du soleil Meridian",
+   "Personnel anglophone",
+   "Musique live",
+   "Boissons (boisson de bienvenue, eau potable, café/thé et boissons non alcoolisées à volonté)",
+   "Buffet international (fruits de mer inclus)"
+  ],
+  "notIncluded": [
+   "Autres dépenses personnelles",
+   "Prise en charge et retour à l'hôtel"
+  ],
+  "shortDescription": "Excursion de 2 heures à Bangkok, avec Pont du Roi Taksin le Grand, Asiatique The Riverfront et Pont Phra Pokklao. Opérateur : Meridian Cruise, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Croisière Buffet Meridian au Coucher du Soleil sur la Chao Phraya",
+  "metaDescription": "Excursion de 2 heures à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "river-star-princess-dinner-under-city-lights-in-bangkok": {
+  "title": "River Star Princess : Dîner sous les Lumières de la Ville à Bangkok",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Bangkok, construite autour de Asiatique The Riverfront, Pont Taksin - Phet Kasem et ICONSIAM. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend croisière du soir de 2 heures sur la rivière Chao Phraya, dîner buffet international et thaïlandais, musique live et spectacles de danse classique thaïlandaise, pont supérieur à ciel ouvert avec vues panoramiques sur la ville et boisson de bienvenue. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nRiver City Bangkok. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Asiatique The Riverfront",
+   "Pont Taksin - Phet Kasem",
+   "ICONSIAM",
+   "Pont commémoratif",
+   "Durée : 2 heures",
+   "Croisière du soir de 2 heures sur la rivière Chao Phraya"
+  ],
+  "included": [
+   "Croisière du soir de 2 heures sur la rivière Chao Phraya",
+   "Dîner buffet international et thaïlandais",
+   "Musique live et spectacles de danse classique thaïlandaise",
+   "Pont supérieur à ciel ouvert avec vues panoramiques sur la ville",
+   "Boisson de bienvenue"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion de 2 heures à Bangkok, avec Asiatique The Riverfront, Pont Taksin - Phet Kasem et Iconsiam. Opérateur : River Star Princess, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "River Star Princess : Dîner sous les Lumières de la Ville à Bangkok",
+  "metaDescription": "Excursion de 2 heures à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "lumpinee-boxing-stadium-muay-thai-match-entry-ticket-in-bangkok": {
   "title": "Billet d'Entrée pour un Combat de Muay Thaï au Stade de Boxe de Lumpinee à Bangkok",
   "fullDescription": "Cette expérience se déroule à Bangkok. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend billet selon la catégorie sélectionnée, entrée aux combats de Muay Thaï et accès aux installations du stade. Il ne comprend pas transferts à l'hôtel, nourriture et boissons, dépenses personnelles et pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -33288,6 +33566,30 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Excursion d'une Journée à Ayutthaya en Bus avec Croisière Fluviale",
   "metaDescription": "Excursion d'une journée entière à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "sala-lakorn-dinner-buffet-and-thai-theatrical-show-in-bangkok": {
+  "title": "Dîner Buffet Sala Lakorn et Spectacle Théâtral Thaïlandais à Bangkok",
+  "fullDescription": "Cette expérience de 4 heures se déroule à Bangkok. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend lieu : Sala Lakorn, Anantara Riverside Bangkok Resort, disponible : tous les jours de 18h00 à 22h00, le spectacle Eternal Siam commence à 19h00, forfaits et 2 900 THB net par personne, boissons non alcoolisées à volonté incluses. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 4 heures",
+   "Lieu : Sala Lakorn, Anantara Riverside Bangkok Resort",
+   "Disponible : tous les jours de 18h00 à 22h00",
+   "Le spectacle Eternal Siam commence à 19h00",
+   "Forfaits",
+   "2 900 THB net par personne, boissons non alcoolisées à volonté incluses"
+  ],
+  "included": [
+   "Lieu : Sala Lakorn, Anantara Riverside Bangkok Resort",
+   "Disponible : tous les jours de 18h00 à 22h00",
+   "Le spectacle Eternal Siam commence à 19h00",
+   "Forfaits :",
+   "2 900 THB net par personne, boissons non alcoolisées à volonté incluses",
+   "1 450 THB net par personne par enfant (5-11 ans), boissons non alcoolisées à volonté incluses"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion d'une demi-journée à Bangkok, comprenant lieu : Sala Lakorn, Anantara Riverside Bangkok Resort, disponible : tous les jours de 18h00 à 22h00 et le spectacle Eternal Siam commence à 19h00. Opérateur : Anantara Riverside Bangkok, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Dîner Buffet Sala Lakorn et Spectacle Théâtral Thaïlandais à Bangkok",
+  "metaDescription": "Excursion d'une demi-journée à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "nama-japanese-and-seafood-buffet-dinner-in-bangkok": {
   "title": "Dîner Buffet Japonais et Fruits de Mer NAMA à Bangkok",
   "fullDescription": "Cette expérience de 2 heures se déroule à Bangkok. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend cuisine japonaise de haute qualité, boisson non alcoolisée, fruits de mer savoureux et options de buffet étendues. Il ne comprend pas pourboires et transport, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -33310,6 +33612,29 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "shortDescription": "Excursion de 2 heures à Bangkok, comprenant cuisine japonaise de haute qualité, boisson non alcoolisée et fruits de mer savoureux. Opérateur : Hungry Hub, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Dîner Buffet Japonais et Fruits de Mer NAMA à Bangkok",
+  "metaDescription": "Excursion de 2 heures à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "baiyoke-sky-dinner-buffet-crystal-grill-82nd-floor-in-bangkok": {
+  "title": "Buffet Dîner Baiyoke Sky, Crystal Grill, 82e Étage, à Bangkok",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Bangkok. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend buffet international premium spécialisé fruits de mer et steak, 1 boisson au bar en terrasse, boissons non alcoolisées gratuites, accès gratuit à la vue au 77e étage et au toit tournant au et veuillez noter : les éléments du menu et les plats vedettes peuvent varier et. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2 heures",
+   "Buffet international premium spécialisé fruits de mer et steak",
+   "1 boisson au bar en terrasse",
+   "Boissons non alcoolisées gratuites, boissons aux herbes, jus de fruits, thé et café",
+   "Accès gratuit à la vue au 77e étage et au toit tournant au 84e étage",
+   "Veuillez noter : les éléments du menu et les plats vedettes peuvent varier et sont sujets à disponibilité"
+  ],
+  "included": [
+   "Buffet international premium spécialisé fruits de mer et steak",
+   "1 boisson au bar en terrasse",
+   "Boissons non alcoolisées gratuites, boissons aux herbes, jus de fruits, thé et café",
+   "Accès gratuit à la vue au 77e étage et au toit tournant au 84e étage",
+   "Veuillez noter : les éléments du menu et les plats vedettes peuvent varier et sont sujets à disponibilité"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion de 2 heures à Bangkok, comprenant buffet international premium spécialisé fruits de mer et steak, 1 boisson au bar en terrasse et boissons non alcoolisées gratuites. Opérateur : Baiyoke Sky Hotel, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Buffet Dîner Baiyoke Sky, Crystal Grill, 82e Étage, à Bangkok",
   "metaDescription": "Excursion de 2 heures à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "opulence-luxury-chao-phraya-dinner-cruise-in-bangkok": {
@@ -33416,6 +33741,33 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Bangkok, avec Palais royal de Bang Pa-In, Wat Chaiwatthanaram et Wat Phra Sri Sanphet. Opérateur : TripGuru Thailand, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Excursion Guidée d'une Journée au Parc Historique d'Ayutthaya",
   "metaDescription": "Excursion à Bangkok. Comprend guide et prise en charge à l'hôtel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "bangkok-space-and-time-cube-3d-museum-entry-ticket-by-local-operator": {
+  "title": "Billet d'Entrée au Musée 3D Space and Time Cube à Bangkok, par un Opérateur Local",
+  "fullDescription": "Cette expérience se déroule à Bangkok. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend accès à 27 salles thématiques avec projections holographiques à 720°, spectacles de lumière interactifs, effets 3D à l'œil nu, billet d'entrée au hall principal et au cinéma ferroviaire et toutes les taxes et frais de service. Il ne comprend pas lunettes spéciales, photos souvenirs, autres dépenses personnelles et nourriture et boissons, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Accès à 27 salles thématiques avec projections holographiques à 720°",
+   "Spectacles de lumière interactifs",
+   "Effets 3D à l'œil nu",
+   "Billet d'entrée au hall principal et au cinéma ferroviaire",
+   "Toutes les taxes et frais de service"
+  ],
+  "included": [
+   "Accès à 27 salles thématiques avec projections holographiques à 720°",
+   "Spectacles de lumière interactifs",
+   "Effets 3D à l'œil nu",
+   "Billet d'entrée au hall principal et au cinéma ferroviaire",
+   "All tax & service charges."
+  ],
+  "notIncluded": [
+   "Lunettes spéciales",
+   "Photos souvenirs (disponibles à l'achat)",
+   "Autres dépenses personnelles",
+   "Nourriture et boissons"
+  ],
+  "shortDescription": "Billet d'entrée à Bangkok, comprenant accès à 27 salles thématiques avec projections holographiques à 720°, spectacles de lumière interactifs et effets 3D à l'œil nu. Opérateur : Holidays World Pte Ltd, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Billet d'Entrée au Musée 3D Space and Time Cube à Bangkok",
+  "metaDescription": "Billet d'entrée à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "damnoen-saduak-floating-market-train-with-pickup-and-drop-off-bangkok": {
   "title": "Marché Flottant de Damnoen Saduak et Train, avec Prise en Charge et Retour (Bangkok)",
@@ -33751,6 +34103,34 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Safari Nocturne : Ruelles, Parcs et Rencontres Sauvages à Bangkok",
   "metaDescription": "Excursion de 3 heures à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "evening-tour-with-wat-arun-wat-pho-and-tuk-tuk-ride": {
+  "title": "Tour du Soir avec le Wat Arun, le Wat Pho et un Trajet en Tuk-Tuk",
+  "fullDescription": "Cette expérience de 4 heures se déroule au départ de Bangkok, construite autour de Wat Pho, Wat Arun et Tuk-tuk. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend guide, billet d'entrée au Wat Pho, billet d'entrée au Wat Arun, billets de ferry et trajet aller simple en tuk-tuk. Il ne comprend pas prise en charge et retour à l'hôtel, repas et boissons et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nTha Tian Pier ท่าเรือท่าเตียน. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Wat Pho",
+   "Wat Arun",
+   "Tuk-tuk",
+   "Durée : 4 heures",
+   "Guide",
+   "Billet d'entrée au Wat Pho (300 THB)"
+  ],
+  "included": [
+   "Guide",
+   "Billet d'entrée au Wat Pho (300 THB)",
+   "Billet d'entrée au Wat Arun (200 THB)",
+   "Billets de ferry",
+   "Trajet aller simple en tuk-tuk (du Wat Pho à Yaowarat)",
+   "Crédits de compensation des émissions de carbone"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel",
+   "Repas et boissons",
+   "Dépenses personnelles"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Bangkok, avec Wat Pho, Wat Arun et Tuk-tuk. Opérateur : TripGuru Thailand, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Tour du Soir avec le Wat Arun, le Wat Pho et un Trajet en Tuk-Tuk",
+  "metaDescription": "Excursion d'une demi-journée à Bangkok. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "chao-phraya-dinner-cruise-with-private-transportation-in-bangkok": {
   "title": "Croisière-Dîner sur la Chao Phraya avec Transport Privé à Bangkok",
   "fullDescription": "Cette expérience de 2 heures se déroule à Bangkok. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend prise en charge et retour à l'hôtel, billet pour la croisière-dîner sur la Chao Phraya, musique live et buffet à volonté avec dîner thaïlandais et international. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -33878,6 +34258,33 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 2 heures à Bangkok, avec Wat Arun, Pont Rama VIII et Grand Palais de Bangkok. Opérateur : OTO TRIP SERVICE CO., LTD, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Croisière-Dîner Buffet de Luxe Opulence avec Groupe Live à Bangkok",
   "metaDescription": "Excursion de 2 heures à Bangkok. Comprend croisière et personnel. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "baiyoke-sky-dinner-buffet-79th-floor-stella-palace-in-bangkok": {
+  "title": "Buffet Dîner Baiyoke Sky, 79e Étage, Stella Palace, à Bangkok",
+  "fullDescription": "Cette expérience se déroule à Bangkok. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend buffet premium grill chinois et steak, 1 boisson au bar en terrasse, salle privée pour groupes de 8 personnes ou plus, sodas et eau et accès à la plateforme d'observation au 77e étage. Il ne comprend pas boissons supplémentaires au-delà de la première boisson gratuite, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Buffet premium grill chinois et steak",
+   "1 boisson au bar en terrasse",
+   "Salle privée pour groupes de 8 personnes ou plus",
+   "Sodas et eau",
+   "Accès à la plateforme d'observation au 77e étage",
+   "Accès au toit tournant au 84e étage"
+  ],
+  "included": [
+   "Buffet premium grill chinois et steak",
+   "1 boisson au bar en terrasse",
+   "Salle privée pour groupes de 8 personnes ou plus",
+   "Sodas et eau",
+   "Accès à la plateforme d'observation au 77e étage",
+   "Accès au toit tournant au 84e étage",
+   "Veuillez noter : les éléments du menu, y compris les plats vedettes, peuvent varier et sont sujets à disponibilité"
+  ],
+  "notIncluded": [
+   "Boissons supplémentaires au-delà de la première boisson gratuite"
+  ],
+  "shortDescription": "Excursion à Bangkok, comprenant buffet premium grill chinois et steak, 1 boisson au bar en terrasse et salle privée pour groupes de 8 personnes ou plus. Opérateur : Baiyoke Sky Hotel, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Buffet Dîner Baiyoke Sky, 79e Étage, Stella Palace, à Bangkok",
+  "metaDescription": "Excursion à Bangkok. Comprend buffet premium grill chinois et steak. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "railway-market-floating-market-and-dragon-temple": {
   "title": "Marché du Train, Marché Flottant et Temple du Dragon",
@@ -34126,6 +34533,32 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Tour du Marché Flottant et du Marché du Train à Bangkok",
   "metaDescription": "Excursion d'une journée entière à Bangkok. Comprend eau et pédalo. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "ayutthaya-heritage-tour-with-sunset-boat-ride": {
+  "title": "Tour du Patrimoine d'Ayutthaya avec Trajet en Bateau au Coucher du Soleil",
+  "fullDescription": "Cette expérience de 6 heures se déroule au départ de Bangkok, construite autour de Bus/autocar, Wat Yai Chai Mongkhon et Wat Maha That. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend billets d'entrée - Wat Yai Chai Mongkhon, Wat Mahathat, Wat, transfert aller-retour depuis Bangkok, guide, trajet en bateau d'1 heure au coucher du soleil et boîte-collation au marché aux fruits. Il ne comprend pas dépenses personnelles et pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Bus/autocar",
+   "Wat Yai Chai Mongkhon",
+   "Wat Maha That",
+   "Wat Chaiwatthanaram",
+   "Durée : 6 heures",
+   "Billets d'entrée - Wat Yai Chai Mongkhon, Wat Mahathat, Wat Chaiwatthanaram (non disponible pour l'option : Tour de Groupe en Anglais sans Entrée, Collation et Trajet en Bateau)"
+  ],
+  "included": [
+   "Billets d'entrée - Wat Yai Chai Mongkhon, Wat Mahathat, Wat Chaiwatthanaram (non disponible pour l'option : Tour de Groupe en Anglais sans Entrée, Collation et Trajet en Bateau)",
+   "Transfert aller-retour depuis Bangkok",
+   "Guide anglophone",
+   "Trajet en bateau d'1 heure au coucher du soleil (non disponible pour l'option : Tour de Groupe en Anglais sans Entrée, Collation et Trajet en Bateau)",
+   "Boîte-collation au marché aux fruits (non disponible pour l'option : Tour de Groupe en Anglais sans Entrée, Collation et Trajet en Bateau)"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Bangkok, avec Wat Yai Chai Mongkhon, Wat Maha That et Wat Chaiwatthanaram. Opérateur : Sun Leisure World Corporation, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Tour du Patrimoine d'Ayutthaya avec Trajet en Bateau au Coucher du Soleil",
+  "metaDescription": "Excursion d'une demi-journée à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "grand-palace-and-emerald-buddha-tour": {
   "title": "Tour du Grand Palais et du Bouddha d'Émeraude",
   "fullDescription": "Cette expérience de 2 heures se déroule à Bangkok. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend guide et une bouteille d'eau potable par personne. Il ne comprend pas frais d'entrée au Grand Palais et au Wat Phra Kaew, THB, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -34306,6 +34739,65 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Croisière-Dîner White Orchid sur la Chao Phraya avec Bière Gratuite à Bangkok",
   "metaDescription": "Excursion de 2 heures à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "ayutthaya-experience-with-boat-ride-and-tickets": {
+  "title": "Expérience d'Ayutthaya avec Trajet en Bateau et Billets",
+  "fullDescription": "Cette expérience de 8 heures se déroule au départ de Bangkok, construite autour de Wat Maha That, Wat Yai Chai Mongkhon et Ayutthaya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend transport en véhicule climatisé, guide anglophone entièrement agréé, trajet en bateau le long de la rivière, frais d'entrée au Wat Mahathat, Wat Yai Chai Mongkhon, Wat et eau potable. Il ne comprend pas repas, dépenses personnelles, pourboires et traduction audio en temps réel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Wat Maha That",
+   "Wat Yai Chai Mongkhon",
+   "Ayutthaya",
+   "Wat Chaiwatthanaram",
+   "Durée : 8 heures",
+   "Transport en véhicule climatisé"
+  ],
+  "included": [
+   "Transport en véhicule climatisé",
+   "Guide anglophone entièrement agréé",
+   "Trajet en bateau le long de la rivière",
+   "Frais d'entrée au Wat Mahathat, Wat Yai Chai Mongkhon, Wat Chaiwatthanaram",
+   "Eau potable",
+   "Audioguide en 28 langues (pas de traduction audio en temps réel, merci d'apporter votre propre appareil mobile, données internet et écouteurs)",
+   "Assurance accident"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Dépenses personnelles",
+   "Pourboires",
+   "Traduction audio en temps réel"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Bangkok, avec Wat Maha That, Wat Yai Chai Mongkhon et Ayutthaya. Opérateur : TRIPZA sightseeing, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Expérience d'Ayutthaya avec Trajet en Bateau et Billets",
+  "metaDescription": "Excursion d'une journée entière à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "chao-phraya-princess-dinner-cruise-ticket-in-bangkok": {
+  "title": "Billet pour la Croisière-Dîner Chao Phraya Princess à Bangkok",
+  "fullDescription": "Cette expérience se déroule au départ de Bangkok, construite autour de Pont du Roi Taksin le Grand, Pont commémoratif - Rachawongse et Pont Rama VIII. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend billet pour la croisière Chao Phraya Princess, buffet international ou indien, une boisson de bienvenue, animation musicale live et expérience de croisière touristique. Il ne comprend pas transferts à l'hôtel, boissons supplémentaires, dépenses personnelles et assurance voyage, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Pont du Roi Taksin le Grand",
+   "Pont commémoratif - Rachawongse",
+   "Pont Rama VIII",
+   "Billet pour la croisière Chao Phraya Princess",
+   "Buffet international ou indien (selon l'option sélectionnée)",
+   "Une boisson de bienvenue"
+  ],
+  "included": [
+   "Billet pour la croisière Chao Phraya Princess",
+   "Buffet international ou indien (selon l'option sélectionnée)",
+   "Une boisson de bienvenue",
+   "Animation musicale live",
+   "Expérience de croisière touristique"
+  ],
+  "notIncluded": [
+   "Transferts à l'hôtel",
+   "Boissons supplémentaires",
+   "Dépenses personnelles",
+   "Assurance voyage",
+   "Autres dépenses non mentionnées dans les inclusions"
+  ],
+  "shortDescription": "Excursion à Bangkok, avec Pont du Roi Taksin le Grand et Pont Rama VIII. Opérateur : GlobalTix (Thailand) Co., Ltd., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Billet pour la Croisière-Dîner Chao Phraya Princess à Bangkok",
+  "metaDescription": "Excursion à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "fine-dining-in-stunning-waterfall-cave-at-myste-in-bangkok": {
   "title": "Dîner Gastronomique dans une Grotte-Cascade Spectaculaire au Myste à Bangkok",
   "fullDescription": "Cette expérience de 2 heures se déroule à Bangkok. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend restauration et boissons, repas haut de gamme et service impeccable. Il ne comprend pas pourboires et transport, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -34402,6 +34894,37 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Grand Palais, Wat Pho, Wat Arun : Tour Sacré et Local",
   "metaDescription": "Excursion d'une demi-journée à Bangkok. Comprend eau potable. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "luxury-white-dinner-cruise-free-flow-beer-and-wine-in-bangkok": {
+  "title": "Croisière-Dîner de Luxe White avec Bière et Vin à Volonté à Bangkok",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Bangkok, construite autour de ICONSIAM, Musée national des barges royales et Wat Arun. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend croisière sur la Chao Phraya, boisson de bienvenue, buffet à volonté avec dîner thaïlandais et international, plats végétariens et boissons non alcoolisées à volonté. Il ne comprend pas prise en charge et retour à l'hôtel et La CROISIÈRE AU COUCHER DU SOLEIL à 17h00 inclut des boissons non alcoolisées et, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "ICONSIAM",
+   "Musée national des barges royales",
+   "Wat Arun",
+   "Grand Palais de Bangkok",
+   "Durée : 2 heures",
+   "Croisière sur la Chao Phraya"
+  ],
+  "included": [
+   "Croisière sur la Chao Phraya",
+   "Boisson de bienvenue",
+   "Buffet à volonté avec dîner thaïlandais et international",
+   "Plats végétariens",
+   "Boissons non alcoolisées à volonté",
+   "Bar ouvert avec bière",
+   "Bar ouvert à vin (uniquement pour le départ à 20h15)",
+   "Musique live pendant la croisière",
+   "Spectacle culturel thaïlandais et de cabaret",
+   "Assurance selon la loi sur la protection des accidents nautiques (P.R.B.)"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel",
+   "La CROISIÈRE AU COUCHER DU SOLEIL à 17h00 inclut uniquement des boissons non alcoolisées et de la bière à volonté ; LE VIN N'EST PAS INCLUS"
+  ],
+  "shortDescription": "Excursion de 2 heures à Bangkok, avec Iconsiam, Musée national des barges royales et Wat Arun. Opérateur : MONKEY TRAVEL ASIA by Ask Discovery, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Croisière-Dîner de Luxe White avec Bière et Vin à Volonté à Bangkok",
+  "metaDescription": "Excursion de 2 heures à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "wow-park-interactive-amusement-and-science-park-in-bangkok": {
   "title": "Wow Park : Parc d'Attractions Interactif et Scientifique à Bangkok",
   "fullDescription": "Cette expérience de 2 heures se déroule à Bangkok. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend plus de 40 expositions scientifiques interactives, spectacle scientifique avec des expériences amusantes, expériences uniques et experiences incroyables, occasion de capturer des photos et vidéos incroyables et découverte de faits incroyables sur la science. Il ne comprend pas nourriture et boissons dans les zones d'exposition, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -34470,6 +34993,35 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Bangkok, comprenant casque, bonnet d'hygiène et combinaison de course si nécessaire. Opérateur : EasyKart, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "EasyKart Bangkok : Expérience de Karting, par un Opérateur Local",
   "metaDescription": "Excursion à Bangkok. Comprend casque et bonnet d'hygiène. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "ayutthaya-unesco-temples-and-chao-phraya-river-cruise": {
+  "title": "Temples UNESCO d'Ayutthaya et Croisière sur la Chao Phraya",
+  "fullDescription": "Cette expérience de 8 heures se déroule au départ de Bangkok, construite autour de Bus/autocar, Wat Yai Chai Mongkhon et Wat Maha That. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe prix comprend transport climatisé aller-retour depuis Bangkok, transfert aller simple à l'hôtel, guide anglophone agréé, visite du parc historique et des temples d'Ayutthaya et bateau sur la rivière Chao Phraya. Il ne comprend pas écouteurs, nourriture et boissons et billet pour un temple à Ayutthaya, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Bangkok. MONKEY TRAVEL ASIA by Ask Discovery confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Bus/autocar",
+   "Wat Yai Chai Mongkhon",
+   "Wat Maha That",
+   "Forteresse de Phet",
+   "Durée : 8 heures",
+   "Transport climatisé aller-retour depuis Bangkok"
+  ],
+  "included": [
+   "Transport climatisé aller-retour depuis Bangkok",
+   "Transfert aller simple à l'hôtel (si l'option est sélectionnée)",
+   "Guide anglophone agréé",
+   "Visite du parc historique et des temples d'Ayutthaya",
+   "Bateau sur la rivière Chao Phraya",
+   "Audioguide disponible en 41 langues",
+   "Assurance obligatoire"
+  ],
+  "notIncluded": [
+   "Écouteurs",
+   "Nourriture et boissons",
+   "Billet pour un temple à Ayutthaya (200 THB)"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Bangkok, avec Wat Yai Chai Mongkhon, Wat Maha That et Forteresse de Phet. Opérateur : MONKEY TRAVEL ASIA by Ask Discovery, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Temples UNESCO d'Ayutthaya et Croisière sur la Chao Phraya",
+  "metaDescription": "Excursion d'une journée entière à Bangkok. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "bubble-in-the-forest-cafe-photography-journey-in-bangkok": {
   "title": "Voyage Photographique au Café Bubble in the Forest à Bangkok",
