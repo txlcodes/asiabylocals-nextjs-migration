@@ -42548,6 +42548,88 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ]
  },
+ "nemo-island-mini-tour": {
+  "title": "Évasion plongée avec tuba à l'île de Nemo depuis Pattaya",
+  "metaTitle": "Île de Nemo depuis Pattaya : plongée avec tuba",
+  "metaDescription": "Une excursion décontractée d'une demi-journée de plongée avec tuba à l'île de Nemo dans la zone préservée de Samaesan au sud de Pattaya : eau limpide, coraux sains, rencontres avec des poissons-clowns et ambiance en petit groupe.",
+  "shortDescription": "Une excursion décontractée d'une demi-journée de plongée avec tuba à l'île de Nemo dans la zone préservée de Samaesan au sud de Pattaya : eau limpide, coraux sains, rencontres avec des poissons-clowns et ambiance en petit groupe.",
+  "fullDescription": "La meilleure plongée avec tuba près de Pattaya ne se trouve pas au large de Pattaya du tout : elle est au sud, dans les eaux protégées autour de Samaesan près de Sattahip, où les zones militaires restreintes ont préservé des récifs sains et une eau remarquablement claire. Cette excursion se dirige vers l'île de Nemo, nommée ainsi pour les poissons-clowns qui s'abritent dans ses jardins d'anémones, pour quelques heures détendues de baignade et d'exploration du récif, faciles à gérer pour les débutants et les familles.\n\nAprès la prise en charge à l'hôtel à Pattaya, vous descendrez la côte jusqu'à l'île, où la journée s'installe dans un rythme simple : plongée avec tuba au-dessus de massifs coralliens peu profonds grouillant de poissons tropicaux, flottement dans l'eau turquoise et calme, et pauses sur le bateau ou le sable entre les sessions. Les guides restent dans l'eau avec le groupe, signalant poissons-clowns, poissons-perroquets et tout ce qui passe, et aidant quiconque découvre pour la première fois le masque et le tuba à se sentir à l'aise.\n\nComme Samaesan reçoit une fraction du trafic qui touche l'île de Corail, toute l'expérience paraît tranquille et préservée, plus proche d'une journée de plage secrète que d'une excursion à la chaîne. C'est un excellent choix pour les débutants en plongée avec tuba, les familles avec enfants, et quiconque veut l'eau la plus claire de Pattaya sans long trajet.",
+  "highlights": [
+   "Plongée avec tuba dans les eaux limpides et protégées de la zone de Samaesan",
+   "Rencontre avec les poissons-clowns qui donnent son nom à l'île de Nemo",
+   "Récifs peu profonds sains, parfaits pour les débutants et les familles",
+   "Guides dans l'eau aidant les débutants en plongée avec tuba",
+   "Bien plus tranquille que le circuit habituel de l'île de Corail"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Pattaya",
+   "Transfert vers Samaesan et bateau jusqu'à l'île de Nemo",
+   "Équipement de plongée avec tuba (masque, tuba, gilet de sauvetage)",
+   "Assistance d'un guide dans l'eau",
+   "Eau potable et collations légères"
+  ],
+  "notIncluded": [
+   "Repas complets",
+   "Serviettes",
+   "Location de caméra sous-marine",
+   "Pourboires"
+  ]
+ },
+ "kuan-yin-shrine-guided-tour": {
+  "title": "Excursion d'une journée à l'île de Koh Si Chang depuis Pattaya avec sanctuaires et palais",
+  "metaTitle": "Koh Si Chang depuis Pattaya : sanctuaires et palais",
+  "metaDescription": "Échappez aux foules lors d'une excursion guidée d'une journée à Koh Si Chang : une île historique de sanctuaires chinois, un palais d'été royal, des ponts sur falaises marines, et le remarquable phénomène de la Mer Séparée.",
+  "shortDescription": "Échappez aux foules lors d'une excursion guidée d'une journée à Koh Si Chang : une île historique de sanctuaires chinois, un palais d'été royal, des ponts sur falaises marines, et le remarquable phénomène de la Mer Séparée.",
+  "fullDescription": "Tandis que les bateaux de touristes s'amassent sur l'île de Corail, Koh Si Chang se trouve tranquillement au nord : une petite île chargée d'histoire dont la plupart des visiteurs de Pattaya n'entendent jamais parler. Cette excursion guidée d'une journée vous y conduit avec prise en charge à l'hôtel, un court trajet le long de la côte jusqu'à Sriracha, et une traversée en ferry de 20 minutes, dévoilant une île où des temples chinois s'accrochent aux falaises, un ancien palais royal s'étend parmi des jardins en bord de mer, et de vieilles structures de l'ère coloniale laissent entrevoir un passé étonnamment grandiose.\n\nLe circuit touristique est réellement varié. Le sanctuaire Kuan Yin, au sommet de la colline, est l'un des temples chinois les plus importants de la région, avec des sanctuaires en grotte et des vues panoramiques sur la mer ; à proximité, vous grimperez jusqu'au point de vue de l'Empreinte de Bouddha pour un panorama sur le golfe. Au niveau de la mer, le palais Phra Chudathut, autrefois résidence d'été du roi Rama V, offre des jardins soignés et des pavillons en teck, tandis que l'élégant vieux pont Atsadang s'étend au-dessus de l'eau, point photo emblématique de l'île. Votre guide relie les sites à travers l'histoire royale et maritime insolite de l'île, et le parcours comprend la Mer Séparée, un phénomène de marée où l'eau semble se séparer autour d'une langue rocheuse.\n\nC'est une journée complète mais sans précipitation, particulièrement adaptée aux voyageurs qui ont déjà fait le circuit des plages et veulent un côté de la Thaïlande avec plus d'histoire à raconter.",
+  "highlights": [
+   "Découvrez Koh Si Chang, l'île historique méconnue de Pattaya",
+   "Visitez le sanctuaire Kuan Yin au sommet de la colline et ses temples en grotte",
+   "Marchez dans les jardins du palais Phra Chudathut du roi Rama V",
+   "Arrêt photo sur l'élégant pont Atsadang en bord de mer",
+   "Observez le remarquable phénomène de marée de la Mer Séparée"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Pattaya",
+   "Transfert en van jusqu'à la jetée de Koh Loy, Sriracha",
+   "Ferry aller-retour jusqu'à Koh Si Chang",
+   "Visite guidée de l'île avec transport local",
+   "Guide anglophone",
+   "Eau potable"
+  ],
+  "notIncluded": [
+   "Déjeuner (restaurants locaux disponibles sur l'île)",
+   "Dons d'entrée aux sanctuaires",
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
+ "pattaya-city-private-tour": {
+  "title": "Excursion privée de découverte de Pattaya depuis la ville ou le port de Laem Chabang",
+  "metaTitle": "Pattaya privé : découverte depuis la ville ou Laem Chabang",
+  "metaDescription": "Une voiture ou un minibus privé avec chauffeur pour une demi-journée flexible de découverte de Pattaya : composez votre propre itinéraire, à votre propre rythme, avec prise en charge depuis la ville ou le port de croisière de Laem Chabang.",
+  "shortDescription": "Une voiture ou un minibus privé avec chauffeur pour une demi-journée flexible de découverte de Pattaya : composez votre propre itinéraire, à votre propre rythme, avec prise en charge depuis la ville ou le port de croisière de Laem Chabang.",
+  "fullDescription": "Les excursions de groupe suivent le programme du groupe ; celle-ci suit le vôtre. Avec une voiture ou un minibus privé et un chauffeur dédié pendant environ quatre heures, vous décidez où va la journée : le Big Buddha sur la colline de Pratumnak, le Sanctuaire de la Vérité, des arrêts aux points de vue sur la baie de Pattaya, les marchés locaux, ou simplement une boucle efficace de tout ce qui figure sur votre liste. C'est la découverte de Pattaya débarrassée des compromis d'un itinéraire fixe.\n\nLe format est particulièrement utile pour les passagers de croisière : la prise en charge est disponible directement depuis le port de Laem Chabang ainsi que depuis les hôtels de la ville de Pattaya, et le dépose peut se faire à l'une ou l'autre extrémité, ce qui en fait une solution nette pour les journées d'escale où le timing compte. Les familles avec enfants, les voyageurs à mobilité réduite, et quiconque déteste simplement être mené en troupeau apprécieront d'avoir le véhicule pour eux seuls et la liberté de s'attarder là où c'est intéressant et de passer ce qui ne l'est pas.\n\nVotre chauffeur connaît les schémas de circulation de la ville et les horaires d'ouverture des attractions, et peut vous suggérer un itinéraire sensé si vous préférez décrire ce que vous aimez plutôt que de nommer des arrêts précis. Les frais d'entrée en chemin sont payés au fur et à mesure, gardant le prix de base simple.",
+  "highlights": [
+   "Véhicule et chauffeur privés, sans inconnus, sans itinéraire fixe",
+   "Prise en charge depuis les hôtels de Pattaya ou le port de croisière de Laem Chabang",
+   "Composez votre propre itinéraire de points de vue, temples et marchés",
+   "Idéal pour les passagers de croisière ayant un programme de journée d'escale",
+   "Rythme flexible pour les familles et les petits groupes"
+  ],
+  "included": [
+   "Voiture ou minibus climatisé privé",
+   "Chauffeur dédié pendant environ 4 heures",
+   "Prise en charge et retour à la ville de Pattaya ou au port de Laem Chabang",
+   "Frais de carburant et de stationnement",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Frais d'entrée des attractions",
+   "Repas et boissons",
+   "Guide touristique agréé (format chauffeur-guide)",
+   "Pourboires"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

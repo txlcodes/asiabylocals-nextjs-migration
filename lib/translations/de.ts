@@ -42548,6 +42548,88 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "nemo-island-mini-tour": {
+  "title": "Nemo Island Schnorchel-Ausflug ab Pattaya",
+  "metaTitle": "Nemo Island ab Pattaya: Schnorcheln",
+  "metaDescription": "Ein entspannter Halbtages-Schnorchelausflug zur Nemo Island im unberührten Samaesan-Gebiet südlich von Pattaya: klares Wasser, gesunde Korallen, Clownfisch-Begegnungen, und Kleingruppen-Atmosphäre.",
+  "shortDescription": "Ein entspannter Halbtages-Schnorchelausflug zur Nemo Island im unberührten Samaesan-Gebiet südlich von Pattaya: klares Wasser, gesunde Korallen, Clownfisch-Begegnungen, und Kleingruppen-Atmosphäre.",
+  "fullDescription": "Das beste Schnorcheln nahe Pattaya liegt gar nicht vor Pattaya selbst, sondern im Süden, in den geschützten Gewässern rund um Samaesan bei Sattahip, wo militärisch eingeschränkte Zonen die Riffe gesund und das Wasser auffallend klar gehalten haben. Dieser Ausflug führt zur Nemo Island, benannt nach den Clownfischen, die sich in ihren Anemonengärten verbergen, für ein paar entspannte Stunden Schwimmen und Rifferkundung, die Anfänger und Familien problemlos bewältigen.\n\nNach der Hotelabholung in Pattaya fahren Sie die Küste entlang hinaus zur Insel, wo sich der Tag in einen einfachen Rhythmus einfindet: Schnorcheln über flachen, von tropischen Fischen belebten Korallenstöcken, Treiben im ruhigen türkisfarbenen Wasser, und Pausen auf dem Boot oder im Sand zwischen den Sessions. Guides bleiben mit der Gruppe im Wasser, zeigen Clownfische, Papageienfische und was sonst noch vorbeitreibt, und helfen jedem, der neu mit Maske und Schnorchel ist, sich wohlzufühlen.\n\nDa Samaesan nur einen Bruchteil des Verkehrs abbekommt, der Coral Island trifft, wirkt das gesamte Erlebnis unhetzig und unberührt, näher an einem versteckten Geheimtipp-Strandtag als an einer Fließband-Tour. Es ist eine starke Wahl für Erstlings-Schnorchler, Familien mit Kindern, und alle, die Pattayas klarstes Wasser ohne lange Reise wollen.",
+  "highlights": [
+   "Schnorcheln im klaren, geschützten Wasser des Samaesan-Gebiets",
+   "Treffen Sie die Clownfische, die der Nemo Island ihren Namen geben",
+   "Gesunde Flachriffe, perfekt für Anfänger und Familien",
+   "Guides im Wasser helfen Erstlings-Schnorchlern",
+   "Deutlich ruhiger als der übliche Coral-Island-Rundgang"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Pattaya",
+   "Transfer nach Samaesan und Boot zur Nemo Island",
+   "Schnorchelausrüstung (Maske, Schnorchel, Schwimmweste)",
+   "Unterstützung durch einen Guide im Wasser",
+   "Trinkwasser und leichte Erfrischungen"
+  ],
+  "notIncluded": [
+   "Volle Mahlzeiten",
+   "Handtücher",
+   "Unterwasserkamera-Vermietung",
+   "Trinkgelder"
+  ]
+ },
+ "kuan-yin-shrine-guided-tour": {
+  "title": "Koh-Si-Chang-Inseltagesausflug ab Pattaya mit Schreinen und Palast",
+  "metaTitle": "Koh Si Chang ab Pattaya: Schreine und Palast",
+  "metaDescription": "Entfliehen Sie den Menschenmassen bei einem geführten Tagesausflug nach Koh Si Chang: eine historische Insel mit chinesischen Schreinen, einem königlichen Sommerpalast, Meeresklippenbrücken, und dem eindrucksvollen Phänomen des geteilten Meeres.",
+  "shortDescription": "Entfliehen Sie den Menschenmassen bei einem geführten Tagesausflug nach Koh Si Chang: eine historische Insel mit chinesischen Schreinen, einem königlichen Sommerpalast, Meeresklippenbrücken, und dem eindrucksvollen Phänomen des geteilten Meeres.",
+  "fullDescription": "Während sich die Tourboote auf der Coral Island stapeln, liegt Koh Si Chang still im Norden, eine kleine, geschichtsgetränkte Insel, von der die meisten Pattaya-Besucher nie hören. Dieser geführte Tagesausflug bringt Sie mit Hotelabholung, einer kurzen Fahrt die Küste hinauf nach Sriracha, und einer 20-minütigen Fährüberfahrt dorthin, und erschließt eine Insel, auf der sich chinesische Tempel an Klippen klammern, ein ehemaliger königlicher Palast sich durch Küstengärten erstreckt, und alte Bauten aus der Kolonialzeit auf eine überraschend prachtvolle Vergangenheit hindeuten.\n\nDie Besichtigung ist wirklich vielfältig. Der Kuan-Yin-Schrein auf dem Hügel ist einer der wichtigsten chinesischen Tempel der Region, mit Höhlenschreinen und weitläufigem Meerblick; in der Nähe steigen Sie zum Aussichtspunkt Buddha's Footprint für ein Panorama über den Golf. Auf Meereshöhe bietet der Phra-Chudathut-Palast, einst die Sommerresidenz von König Rama V., gepflegte Gärten und Teak-Pavillons, während sich die elegante alte Atsadang-Brücke über das Wasser spannt, der charakteristische Fotostopp der Insel. Ihr Guide verknüpft die Orte mit der ungewöhnlichen königlichen und maritimen Geschichte der Insel, und die Route umfasst das geteilte Meer, ein Gezeitenphänomen, bei dem sich das Wasser um eine felsige Landzunge zu teilen scheint.\n\nEs ist ein voller, aber unhetzter Tag, am besten geeignet für Reisende, die den Strandrundgang schon gemacht haben und eine Seite Thailands mit mehr Geschichte wollen.",
+  "highlights": [
+   "Entdecken Sie Koh Si Chang, Pattayas übersehene historische Insel",
+   "Besuchen Sie den Kuan-Yin-Schrein auf dem Hügel und seine Höhlentempel",
+   "Spazieren Sie durch die Gärten des Phra-Chudathut-Palasts von König Rama V.",
+   "Fotostopp auf der eleganten Küstenbrücke Atsadang",
+   "Sehen Sie das eindrucksvolle Gezeitenphänomen des geteilten Meeres"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Pattaya",
+   "Van-Transfer zum Koh-Loy-Pier, Sriracha",
+   "Hin- und Rückfähre nach Koh Si Chang",
+   "Geführte Inselbesichtigung mit lokalem Transport",
+   "Englischsprachiger Guide",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Mittagessen (lokale Restaurants auf der Insel verfügbar)",
+   "Eintrittsspenden an Schreinen",
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "pattaya-city-private-tour": {
+  "title": "Private Pattaya-Besichtigungstour ab Stadt oder Laem-Chabang-Hafen",
+  "metaTitle": "Pattaya privat: Besichtigung ab Stadt oder Laem Chabang",
+  "metaDescription": "Ein privates Auto oder Minibus mit Fahrer für einen flexiblen Halbtag der Pattaya-Besichtigung: gestalten Sie Ihre eigene Route, in Ihrem eigenen Tempo, mit Abholung ab der Stadt oder dem Kreuzfahrthafen Laem Chabang.",
+  "shortDescription": "Ein privates Auto oder Minibus mit Fahrer für einen flexiblen Halbtag der Pattaya-Besichtigung: gestalten Sie Ihre eigene Route, in Ihrem eigenen Tempo, mit Abholung ab der Stadt oder dem Kreuzfahrthafen Laem Chabang.",
+  "fullDescription": "Gruppentouren laufen nach dem Zeitplan der Gruppe; diese läuft nach Ihrem. Mit einem privaten Auto oder Minibus und einem eigenen Fahrer für etwa vier Stunden entscheiden Sie, wohin der Tag geht: der Big Buddha auf dem Pratumnak-Hügel, das Heiligtum der Wahrheit, Aussichtspunkt-Stopps über der Bucht von Pattaya, lokale Märkte, oder einfach eine effiziente Runde durch das, was auf Ihrer Liste steht. Es ist Pattaya-Besichtigung ohne die Kompromisse eines festen Reiseplans.\n\nDas Format ist besonders nützlich für Kreuzfahrtpassagiere: Die Abholung ist sowohl direkt am Laem-Chabang-Hafen als auch an Hotels in der Stadt Pattaya möglich, und die Rückfahrt kann an beiden Enden erfolgen, was es zu einer sauberen Lösung für Landgänge macht, bei denen das Timing wichtig ist. Familien mit Kindern, Reisende mit eingeschränkter Mobilität, und alle, die es einfach hassen, herumgeführt zu werden, werden es schätzen, das Fahrzeug für sich allein zu haben und die Freiheit, dort zu verweilen, wo es interessant ist, und das zu überspringen, was es nicht ist.\n\nIhr Fahrer kennt die Verkehrsmuster der Stadt und die Öffnungszeiten der Attraktionen und kann eine sinnvolle Route vorschlagen, wenn Sie lieber beschreiben, was Sie mögen, statt bestimmte Stopps zu nennen. Eintrittsgebühren unterwegs werden nach Bedarf bezahlt, was den Grundpreis einfach hält.",
+  "highlights": [
+   "Privates Fahrzeug und Fahrer, keine Fremden, keine feste Route",
+   "Abholung ab Hotels in Pattaya oder dem Kreuzfahrthafen Laem Chabang",
+   "Gestalten Sie Ihren eigenen Reiseplan aus Aussichtspunkten, Tempeln und Märkten",
+   "Ideal für Kreuzfahrtpassagiere mit Landgang-Zeitplan",
+   "Flexibles Tempo für Familien und kleine Gruppen"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto oder Minibus",
+   "Eigener Fahrer für etwa 4 Stunden",
+   "Abholung und Rückfahrt in der Stadt Pattaya oder am Laem-Chabang-Hafen",
+   "Kraftstoff- und Parkgebühren",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Attraktionen",
+   "Mahlzeiten und Getränke",
+   "Lizenzierter Besichtigungsguide (Fahrer-Guide-Format)",
+   "Trinkgelder"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
