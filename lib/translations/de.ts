@@ -46082,6 +46082,184 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittsgebühren und Mittagessen nicht inklusive bei der Option 'Nur englische Tour'"
   ]
  },
+ "bangkok-chinatown-food-tour-15-tastings-michelin-stops": {
+  "title": "Bangkok: Chinatown-Food-Tour, über 15 Verkostungen an Michelin-Streetfood-Stationen",
+  "metaTitle": "Bangkok: Chinatown-Gastronomie, Michelin",
+  "metaDescription": "Entdecken Sie die geschmackvollsten Seitenstraßen Bangkoks bei einer intimen Food-Tour, die auf nur 8 Gäste begrenzt ist. Besuchen Sie 8-9 Stationen, darunter zwei vom Michelin-Guide gelistete Streetfood-Lokale im ganzen Chinatown, geführt von zwei lokalen Fachkräften.",
+  "shortDescription": "Entdecken Sie die geschmackvollsten Seitenstraßen Bangkoks bei einer intimen Food-Tour, die auf nur 8 Gäste begrenzt ist. Besuchen Sie 8-9 Stationen, darunter zwei vom Michelin-Guide gelistete Streetfood-Lokale im ganzen Chinatown, geführt von zwei lokalen Fachkräften.",
+  "fullDescription": "Bangkoks Chinatown ist eines der elektrisierendsten kulinarischen Ziele der Welt, aber es kann überwältigend sein, sich dort allein zurechtzufinden. Diese exklusive Food-Tour, von Küchenprofis konzipiert und auf maximal 8 Gäste begrenzt, führt Sie tief in die Gassen und versteckten Seitenstraßen, die kein Tuk-Tuk erreichen kann.\n\nÜber 4 Stunden probieren Sie sich durch über 15 Gerichte an 8-9 sorgfältig ausgewählten Stationen, darunter zwei Lokale, die vom Michelin-Guide ausgezeichnet wurden. Von rauchigem Char Siu und seidigem Congee bis zu knusprigem Schweinebauch und legendären Eiernudeln, jeder Bissen wird gewählt, um das echte Bangkok zu repräsentieren, nicht die Touristenversion.\n\nWas diese Tour auszeichnet, ist das Detail. Sie haben die ganze Zeit zwei engagierte lokale Mitarbeiter bei sich, einen Guide und einen Assistenten, etwas, das keine andere Food-Tour in Bangkok bietet. Sie übernehmen die Logistik, übersetzen Speisekarten, erklären die kulturelle Geschichte hinter jedem Gericht, und stellen sicher, dass sich jeder Gast wohl und gut versorgt fühlt.\n\nSie erkunden Teile von Chinatown, die die meisten Besucher nie sehen: unbeschriftete Geschäftshäuser, jahrzehntealte Familienrezepte, und Straßenstände, zu denen Einheimische Woche für Woche zurückkehren. Am Ende der Tour haben Sie ein echtes Verständnis der Essenskultur Bangkoks, und eine Liste von Orten, zu denen Sie selbst zurückkehren können.\n\nNicht geeignet für strikte Vegetarier, Veganer, oder Gäste mit Lebensmittelallergien.",
+  "highlights": [
+   "Über 15 Verkostungen an 8-9 Stationen, die größte Vielfalt jeder Bangkok-Food-Tour",
+   "2 vom Michelin-Guide ausgezeichnete Streetfood-Lokale inklusive",
+   "Maximal 8 Gäste, die kleinste und exklusivste Gruppengröße in Bangkok",
+   "Zwei engagierte lokale Mitarbeiter (Guide + Assistent) die ganze Zeit",
+   "Erkunden Sie das Chinatown der Seitenstraßen, wohin Tuk-Tuks nicht gelangen können",
+   "Jahrzehntealte Familienrezepte und versteckte lokale Schätze",
+   "96 % der englischsprachigen Reisenden gaben dieser Tour eine perfekte Bewertung"
+  ],
+  "included": [
+   "Über 15 kulinarische Verkostungen",
+   "8-9 Stationen, davon 2-3 vom Michelin-Guide gelistete Lokale",
+   "Lizenzierter Guide und Assistent (2 engagierte Mitarbeiter)",
+   "Flaschenwasser während der gesamten Tour"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke",
+   "Nicht geeignet für Veganer, Vegetarier, oder Gäste mit Lebensmittelallergien"
+  ]
+ },
+ "bangkok-street-food-tuk-tuk-night-tour": {
+  "title": "Bangkok nach Einbruch der Dunkelheit: Streetfood- und Tuk-Tuk-Nachttour mit über 10 Verkostungen",
+  "metaTitle": "Bangkok: Tuk-Tuk-Nachttour, Streetfood",
+  "metaDescription": "Erleben Sie Bangkoks aufregendste Seite, nach Einbruch der Dunkelheit. Fahren Sie mit dem Tuk-Tuk durch die Altstadt mit einem lokalen Food-Guide, mit Stopps an über 10 authentischen Streetfood-Orten, die nur nachts lebendig werden. Beinhaltet ein kaltes thailändisches Bier, einen Besuch des berühmten rund um die Uhr geöffneten Blumenmarkts, und einen Drink auf einer Dachterrasse mit Blick auf Wat Arun.",
+  "shortDescription": "Erleben Sie Bangkoks aufregendste Seite, nach Einbruch der Dunkelheit. Fahren Sie mit dem Tuk-Tuk durch die Altstadt mit einem lokalen Food-Guide, mit Stopps an über 10 authentischen Streetfood-Orten, die nur nachts lebendig werden. Beinhaltet ein kaltes thailändisches Bier, einen Besuch des berühmten rund um die Uhr geöffneten Blumenmarkts, und einen Drink auf einer Dachterrasse mit Blick auf Wat Arun.",
+  "fullDescription": "Bangkok ist nach Einbruch der Dunkelheit eine andere Stadt, und diese Tour soll Ihnen zeigen, warum.\n\nBeginnend an der MRT-Station Sam Yan, springen Sie in ein Tuk-Tuk und flitzen durch die atmosphärischen Seitenstraßen des alten Bangkok mit einem vollständig lizenzierten lokalen Food-Guide, der genau weiß, wo man essen, was man bestellen, und warum jedes Gericht wichtig ist. Über 4 Stunden machen Sie über 10 Stopps bei den nächtlichen Imbissen, versteckten Küchen, und Streetfood-Ständen, für die Bangkoks Essensszene weltberühmt ist, die meisten davon würden Sie allein nie finden.\n\nDies ist keine sterile Touristenerfahrung. Sie essen an Orten, wo lokale Taxifahrer ihren Mitternachtssnack holen, wo Marktverkäufer sich zwischen den Schichten auftanken, und wo die beste Nudelschüssel 50 Baht kostet und Ihr Verständnis von thailändischem Essen für immer verändert. Ihr Guide erklärt die Geschichten hinter jedem Gericht, die regionalen Ursprünge, die Familienrezepte, die kulturellen Traditionen, und verwandelt jeden Bissen in eine echte Entdeckung.\n\nDie Tour schlängelt sich durch einige der atmosphärischsten Viertel Bangkoks bei Nacht: enge Gassen am Kanal, von Tempeln beleuchtete Höfe, und den legendären Pak Khlong Talat, Bangkoks berühmten, rund um die Uhr geöffneten Blumenmarkt, wo Berge von Jasmin, Lotus, und Ringelblumen in den frühen Morgenstunden mit dem Boot ankommen. Die Farben und Düfte um Mitternacht sind außergewöhnlich.\n\nAuf halbem Weg nimmt Ihr Guide Sie zu einer geheimen Dachbar mit einer der besten Nachtaussichten der Stadt, Wat Arun, beleuchtet über den Chao-Phraya-Fluss, mit einem kalten thailändischen Bier oder einem alkoholfreien Getränk in der Hand. Es ist die Art von Moment, die Sie Bangkok lieben lässt.\n\nDie Tour endet gegen Mitternacht, und Ihr Tuk-Tuk-Fahrer bringt Sie zurück zu Ihrem Hotel im Zentrum Bangkoks. Trinkgeld ist inklusive, keine unangenehmen Trinkgeldberechnungen am Ende.\n\nDies ist die Tour, die Wiederholungsbesucher Bangkoks als den Höhepunkt ihrer Reise bezeichnen, und die, die Erstbesucher sich wünschen, sie hätten sie am ersten Abend gebucht.",
+  "highlights": [
+   "Fahren Sie durch das alte Bangkok mit dem Tuk-Tuk und einem kenntnisreichen lokalen Food-Guide",
+   "Probieren Sie über 10 authentische Streetfood-Gerichte an Orten, die nur Einheimische kennen",
+   "Besuchen Sie Pak Khlong Talat, Bangkoks berühmten, rund um die Uhr geöffneten Blumenmarkt",
+   "Genießen Sie einen Drink auf einer Dachterrasse mit einem atemberaubenden Nachtblick auf Wat Arun und den Chao Phraya",
+   "Kaltes thailändisches Bier (oder alkoholfreies Getränk) inklusive",
+   "Kleingruppe, persönliches, intimes Erlebnis mit einem leidenschaftlichen Food-Guide",
+   "Tuk-Tuk-Rückfahrt zu Ihrem Hotel im Zentrum Bangkoks am Ende",
+   "Trinkgeld vollständig inklusive, keine Trinkgeldberechnung nötig"
+  ],
+  "included": [
+   "Über 10 Streetfood-Verkostungen an authentischen lokalen Orten",
+   "Tuk-Tuk-Fahrten während der gesamten Tour",
+   "Vollständig lizenzierter lokaler Food-Guide",
+   "Ein kaltes thailändisches Bier oder alkoholfreies Getränk",
+   "Besuch des rund um die Uhr geöffneten Blumenmarkts Pak Khlong Talat",
+   "Stopp an einer Dachbar mit Blick auf Wat Arun",
+   "Tuk-Tuk-Rückfahrt zu Ihrem Hotel im Zentrum Bangkoks",
+   "Trinkgeld (für Guide und Fahrer)",
+   "Hotelabholung (falls Option ausgewählt)"
+  ],
+  "notIncluded": [
+   "Zusätzliches Essen oder Getränke über die inklusive Verkostung hinaus",
+   "Persönliches Einkaufen",
+   "Transport zum Treffpunkt (MRT Sam Yan)",
+   "Reiseversicherung"
+  ]
+ },
+ "bangkok-floating-market-railway-market-day-trip-boat-ride": {
+  "title": "Tagesausflug zum schwimmenden Markt und Eisenbahnmarkt Bangkoks mit Bootsfahrt",
+  "metaTitle": "Bangkok: schwimmender Markt und Eisenbahnmarkt",
+  "metaDescription": "Entfliehen Sie Bangkok für einen Tag und erkunden Sie zwei der ikonischsten Märkte Thailands, den Eisenbahnmarkt Maeklong, wo Verkäufer ihre Stände zusammenklappen, während ein Zug durchfährt, und den schwimmenden Markt Damnoen Saduak, wo Einheimische frisches Essen von traditionellen Holzbooten verkaufen. Beinhaltet eine Paddelbootfahrt durch die Kanäle.",
+  "shortDescription": "Entfliehen Sie Bangkok für einen Tag und erkunden Sie zwei der ikonischsten Märkte Thailands, den Eisenbahnmarkt Maeklong, wo Verkäufer ihre Stände zusammenklappen, während ein Zug durchfährt, und den schwimmenden Markt Damnoen Saduak, wo Einheimische frisches Essen von traditionellen Holzbooten verkaufen. Beinhaltet eine Paddelbootfahrt durch die Kanäle.",
+  "fullDescription": "Diese ganztägige Reise führt Sie aus der Stadt hinaus und ins Herz der berühmtesten Marktkultur Thailands, die Art von Erlebnis, die einen guten Urlaub in einen unvergesslichen verwandelt.\n\nIhr erster Stopp ist der Eisenbahnmarkt Maeklong (auch „Schirm-Einzieh-Markt\" genannt), einer der außergewöhnlichsten Anblicke Thailands. Direkt auf aktiven Bahngleisen errichtet, erwacht dieser belebte Markt mit frischen Produkten, Meeresfrüchten, und lokalen Waren zum Leben, bis das Zughorn erklingt. Innerhalb von Sekunden ziehen die Verkäufer ihre Markisen und Produkte zurück, während die Lokomotive mit nur wenigen Zentimetern Abstand durch den Markt rollt. Es ist ein atemberaubendes Spektakel, das sich mehrmals täglich ereignet, und Sie werden genau dort stehen, wenn es passiert.\n\nVon Maeklong aus reisen Sie zum schwimmenden Markt Damnoen Saduak in der Provinz Ratchaburi, einer der ältesten und farbenfrohsten schwimmenden Märkte Thailands, seit über 150 Jahren in Betrieb. Hier steigen Sie an Bord eines traditionellen hölzernen Paddelboots und gleiten durch ein Netz enger Kanäle, gesäumt von Verkäufern, die frische tropische Früchte, gegrillte Meeresfrüchte, Kokospfannkuchen, Pad Thai, handgefertigte Souvenirs, und mehr verkaufen, alles von ihren Booten aus.\n\nIhr lokaler Guide teilt die Geschichte der kanalbasierten Handelskultur Thailands, erklärt, wie sich diese Märkte von täglichen Notwendigkeiten zu beliebten kulturellen Landmarken entwickelt haben, und zeigt die besten Dinge, die man probieren sollte. Ob Sie Fotos vom Boot aus machen, um einen handgewebten Hut verhandeln, oder in einen frisch gegrillten Garnelenspieß beißen, der schwimmende Markt ist eine Sinnesüberflutung auf die bestmögliche Weise.\n\nDie Fahrt zwischen Bangkok und den Märkten führt Sie durch die thailändische Landschaft, Reisfelder, Palmzuckerplantagen, und ruhige Dörfer, die einen schönen Kontrast zur Energie der Hauptstadt bieten. Ihr Guide nutzt diese Zeit, um Geschichten über die thailändische Kultur, lokale Traditionen, und die Bedeutung dieser Märkte im Alltagsleben zu teilen.\n\nDiese Tour ist ideal für Erstbesucher, die eine Seite Thailands sehen möchten, die jenseits der Tempel und des Nachtlebens existiert, ein lebendiges, atmendes Stück thailändischen Erbes, das Sie nirgendwo sonst auf der Welt finden.",
+  "highlights": [
+   "Sehen Sie Verkäufer ihre Stände innerhalb von Sekunden zusammenklappen, während ein Zug durch den Eisenbahnmarkt Maeklong fährt",
+   "Fahren Sie durch die Kanäle des schwimmenden Marktes Damnoen Saduak auf einem traditionellen Paddelboot",
+   "Probieren Sie authentisches thailändisches Streetfood, gegrillte Meeresfrüchte, Kokospfannkuchen, tropische Früchte, und mehr",
+   "Lernen Sie über die 150 Jahre alte Kanalhandelskultur Thailands von einem kenntnisreichen lokalen Guide",
+   "Fahren Sie durch die malerische thailändische Landschaft, Reisfelder, Palmzuckerfarmen, und ländliche Dörfer",
+   "Besuchen Sie zwei der meistfotografierten und ikonischsten Märkte Thailands an einem Tag"
+  ],
+  "included": [
+   "Hin- und Rücktransport ab Bangkok (klimatisiertes Fahrzeug)",
+   "Professioneller englischsprachiger lokaler Guide",
+   "Traditionelle Paddelbootfahrt am schwimmenden Markt Damnoen Saduak",
+   "Audioguide in mehreren Sprachen über QR-Code verfügbar",
+   "Kopfhörer bereitgestellt",
+   "Hotelabholung und -rückfahrt (falls Option ausgewählt)"
+  ],
+  "notIncluded": [
+   "Essen und Getränke auf den Märkten (bringen Sie Bargeld mit, thailändische Baht empfohlen)",
+   "Persönliches Einkaufen und Souvenirs",
+   "Trinkgelder für Guide und Fahrer (optional, aber geschätzt)",
+   "Reiseversicherung"
+  ]
+ },
+ "learn-muay-thai-bangkok-private-training-certified-fighter": {
+  "title": "Lernen Sie Muay Thai in Bangkok, privates Training mit einem zertifizierten Kämpfer",
+  "metaTitle": "Bangkok: privates Muay-Thai-Training",
+  "metaDescription": "Trainieren Sie wie ein thailändischer Kämpfer bei einer privaten 1-zu-1-Muay-Thai-Sitzung in der FITFAC Academy, Bangkoks bestbewerteter Sporthalle mit 11 klimatisierten Standorten. Keine Erfahrung nötig. Beinhaltet kostenlose handgefertigte Muay-Thai-Shorts, Boxhandschuhe, und optionale Hotelabholung.",
+  "shortDescription": "Trainieren Sie wie ein thailändischer Kämpfer bei einer privaten 1-zu-1-Muay-Thai-Sitzung in der FITFAC Academy, Bangkoks bestbewerteter Sporthalle mit 11 klimatisierten Standorten. Keine Erfahrung nötig. Beinhaltet kostenlose handgefertigte Muay-Thai-Shorts, Boxhandschuhe, und optionale Hotelabholung.",
+  "fullDescription": "Erleben Sie Thailands Nationalkampfkunst mit einer privaten 60-minütigen Muay-Thai-Trainingseinheit in der FITFAC Academy, einer der angesehensten und anfängerfreundlichsten Sporthallen Bangkoks, bewertet mit 4,9 Sternen und über 380 Bewertungen.\n\nEgal ob Sie ein absoluter Anfänger sind, der neugierig auf Muay Thai ist, oder ein erfahrener Kämpfer, der seine Fähigkeiten schärfen möchte, diese Sitzung ist vollständig auf Ihr Niveau zugeschnitten. Ihr zertifizierter Kru (Muay-Thai-Trainer) führt Sie durch authentische Techniken, von der grundlegenden Haltung und Beinarbeit bis zu kraftvollen Schlägen, Tritten, Ellbogen, und Knie-Stößen, die die Kunst der acht Gliedmaßen definieren.\n\nIm Gegensatz zu Gruppenkursen bedeutet diese private 1-zu-1-Sitzung, dass die volle Aufmerksamkeit Ihres Trainers nur auf Ihnen liegt. Er korrigiert Ihre Form in Echtzeit, passt die Intensität an Ihr Fitnessniveau an, und stellt sicher, dass Sie mit einem Erfolgsgefühl gehen, egal ob Sie wegen des Workouts, der Kultur, oder beidem gekommen sind.\n\nFITFAC hat 11 klimatisierte Sporthallen in ganz Bangkok, alle leicht erreichbar über BTS oder MRT. Die Standorte reichen von Flussufer-Orten nahe dem Chao Phraya bis zu zentralen Knotenpunkten wie Ekamai, Ploenchit, und Sukhumvit. Nach der Buchung teilen Sie einfach den Namen Ihres Hotels mit, und sie empfehlen die bequemste Filiale.\n\nAls besonderen Bonus erhält jeder Teilnehmer ein Paar handgefertigte Muay-Thai-Shorts, ein schönes, funktionales Souvenir, das Sie tatsächlich verwenden werden. Kombiniert mit dem optionalen Hotelabholservice macht FITFAC das gesamte Erlebnis von Anfang bis Ende nahtlos.\n\nDies ist mehr als nur ein Fitnesskurs, es ist ein echtes kulturelles Eintauchen in Thailands ikonischste Kampfkunst, geleitet von Trainern, die Muay Thai leben und atmen.",
+  "highlights": [
+   "Private 1-zu-1-Sitzung mit einem zertifizierten Muay-Thai-Trainer, vollständig auf Ihr Niveau zugeschnitten",
+   "Keine Erfahrung erforderlich, perfekt für absolute Anfänger und erfahrene Kämpfer gleichermaßen",
+   "Nehmen Sie ein Paar wunderschöne handgefertigte Muay-Thai-Shorts als Souvenir mit",
+   "11 klimatisierte Sporthallen-Standorte in ganz Bangkok, alle nahe BTS/MRT-Stationen",
+   "Alle Ausrüstung bereitgestellt: Boxhandschuhe, Handbandagen, und Trainingsausrüstung",
+   "Optionale Hotelabholung und -rückfahrt für ein problemloses Erlebnis",
+   "Trainieren Sie barfuß auf gepolsterten Böden, keine speziellen Schuhe nötig"
+  ],
+  "included": [
+   "60-minütige private 1-zu-1-Muay-Thai-Sitzung mit zertifiziertem Trainer",
+   "Kostenlose handgefertigte Muay-Thai-Shorts (zum Mitnehmen)",
+   "Boxhandschuhe und Handbandagen",
+   "Zugang zu Dusche und Schließfächern",
+   "Klimatisierte Trainingseinrichtung",
+   "Flaschenwasser",
+   "Hotelabholung und -rückfahrt (falls Option ausgewählt)"
+  ],
+  "notIncluded": [
+   "Essen und Getränke (käuflich erhältlich)",
+   "Persönliche Ausgaben",
+   "Trinkgelder für den Trainer (optional, aber geschätzt)",
+   "Transport zur/von der Sporthalle (falls Option ohne Abholung gewählt)"
+  ]
+ },
+ "bangkok-maeklong-railway-damnoen-saduak-dragon-temple-tour": {
+  "title": "Bangkok: Eisenbahnmarkt Maeklong, Damnoen Saduak und Drachentempel",
+  "metaTitle": "Maeklong, Damnoen Saduak und Drachentempel",
+  "metaDescription": "Fahren Sie mit der berühmten Zugfahrt durch den Eisenbahnmarkt Maeklong, kreuzen Sie die Kanäle des schwimmenden Marktes Damnoen Saduak mit dem Longtail-Boot, und erkunden Sie den unglaublichen Drachentempel mit seinem riesigen pinken Turm. Ganztägiger Ausflug ab Bangkok mit Hotelabholung, klimatisiertem Van und englischsprachigem Guide.",
+  "shortDescription": "Fahren Sie mit der berühmten Zugfahrt durch den Eisenbahnmarkt Maeklong, kreuzen Sie die Kanäle des schwimmenden Marktes Damnoen Saduak mit dem Longtail-Boot, und erkunden Sie den unglaublichen Drachentempel mit seinem riesigen pinken Turm. Ganztägiger Ausflug ab Bangkok mit Hotelabholung, klimatisiertem Van und englischsprachigem Guide.",
+  "fullDescription": "Dieser ganztägige Ausflug ab Bangkok führt Sie zu drei der einzigartigsten Attraktionen außerhalb der Stadt, alle in einem komfortablen Ausflug.\n\nIhr Morgen beginnt mit einer Abholung von Ihrem Bangkok-Hotel (oder einem von fünf zentralen Treffpunkten) in einem klimatisierten Van. Der erste Stopp ist der Eisenbahnmarkt Maeklong, wo ein in Betrieb befindlicher Zug mehrmals täglich direkt durch die Marktstände fährt. Sie fahren selbst mit dem Zug direkt in den Markt hinein und beobachten, wie Verkäufer ihre Markisen blitzschnell zusammenklappen und ihre Waren nur Sekunden vor der Durchfahrt des Zuges zurückziehen. Es ist eine dieser Dinge, die man sehen muss, um sie zu glauben.\n\nVon dort geht es weiter zum schwimmenden Markt Damnoen Saduak, einem der berühmtesten Märkte Thailands. Steigen Sie an Bord eines traditionellen Longtail-Boots und fahren Sie durch die engen Kanäle, gesäumt von Verkäufern, die tropische Früchte, frisches Kokoseis, Pad Thai, und handgefertigte Souvenirs von ihren Holzbooten aus verkaufen. Es ist eine farbenfrohe, lebendige Szene und ein großartiger Ort, um einen Snack zu holen oder Geschenke zu kaufen.\n\nDer letzte Stopp ist Wat Samphran, besser bekannt als der Drachentempel. Dieser auffällige 17-stöckige pinke Turm ist von einer riesigen Drachenskulptur umwickelt, die sich bis ganz nach oben windet. Sie können durch den Drachentunnel im Inneren des Turms gehen und hinaufsteigen für Panoramablicke auf die umgebende Landschaft. Es ist einer der fotogensten Orte in ganz Thailand und noch relativ abseits der ausgetretenen Pfade.\n\nSie sind am späten Nachmittag zurück in Bangkok.",
+  "highlights": [
+   "Fahren Sie mit dem Zug direkt durch den Eisenbahnmarkt Maeklong und beobachten Sie Verkäufer, die den Gleisen ausweichen",
+   "Fahren Sie durch die Kanäle des schwimmenden Marktes Damnoen Saduak mit dem traditionellen Longtail-Boot",
+   "Besuchen Sie den unglaublichen Drachentempel Wat Samphran mit seinem 17-stöckigen pinken Turm, umwickelt von einem riesigen Drachen",
+   "Gehen Sie durch den Drachentunnel im Inneren des Turms und steigen Sie für Panoramablicke auf die Landschaft hinauf",
+   "Kleingruppen-Tour mit komfortablem klimatisiertem Van und englischsprachigem Guide",
+   "Hotelabholung und -rückfahrt ab dem Zentrum Bangkoks inklusive"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt (innerhalb von 8 km der Khaosan Road)",
+   "Transport im klimatisierten Van",
+   "Englischsprachiger Reiseguide",
+   "Longtail-Bootfahrt bei Damnoen Saduak",
+   "Alle Eintrittsgebühren",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Essen und Getränke (Snacks an beiden Märkten verfügbar)",
+   "Persönliche Einkäufe und Souvenirs",
+   "Trinkgelder für den Guide (optional)",
+   "Reiseversicherung"
+  ]
+ },
+ "bangkok-grand-palace-wat-pho-wat-arun-guided-tour": {
+  "title": "Bangkok: geführte Tour zum Großen Palast, Wat Pho und Wat Arun",
+  "metaTitle": "Großer Palast, Wat Pho und Wat Arun",
+  "metaDescription": "Besuchen Sie Bangkoks drei wichtigste Tempel an einem Vormittag, den Großen Palast, Wat Pho, und Wat Arun, mit einem lokalen Guide, der die Geschichten hinter diesen Orten tatsächlich kennt. Kleingruppe, maximal 10 Personen, alle Eintrittsgebühren abgedeckt.",
+  "shortDescription": "Besuchen Sie Bangkoks drei wichtigste Tempel an einem Vormittag, den Großen Palast, Wat Pho, und Wat Arun, mit einem lokalen Guide, der die Geschichten hinter diesen Orten tatsächlich kennt. Kleingruppe, maximal 10 Personen, alle Eintrittsgebühren abgedeckt.",
+  "fullDescription": "Diese halbtägige Wandertour deckt Bangkoks drei berühmteste Tempel auf einmal ab, den Großen Palast, Wat Pho, und Wat Arun.\n\nSie beginnen am Großen Palast, der ehemaligen königlichen Residenz, erbaut 1782. Die Architektur hier mischt thailändische, europäische, und chinesische Stile auf eine Weise, die Sie sonst nirgendwo sehen werden. Im Inneren des Komplexes befindet sich Wat Phra Kaew, Heimat des Smaragd-Buddha, einer kleinen Jade-Statue, die die heiligste in Thailand ist.\n\nVon dort führt ein kurzer Spaziergang zu Wat Pho. Der 46 Meter lange goldene liegende Buddha ist der Höhepunkt, aber das Tempelgelände lohnt sich auch zu erkunden, 91 goldene Chedis, ruhige Innenhöfe, und der Geburtsort der thailändischen Massage.\n\nDann überqueren Sie den Chao-Phraya-Fluss mit dem Boot, um Wat Arun auf der anderen Seite zu erreichen. Der porzellanbedeckte Turm ist aus der Nähe atemberaubend, und Sie können bis zur Spitze klettern für Ausblicke über den Fluss und die Stadt.\n\nIhr Guide übernimmt alle Tickets und die Logistik. Die Gruppengröße ist auf 10 begrenzt, sodass es persönlich bleibt. Die Tour endet gegen 13:30 Uhr.",
+  "highlights": [
+   "Sehen Sie den Großen Palast aus der Nähe, Thailands wichtigstes königliches Monument",
+   "Besuchen Sie den Smaragd-Buddha bei Wat Phra Kaew, die heiligste Statue des Landes",
+   "Stehen Sie neben dem 46 Meter langen goldenen liegenden Buddha bei Wat Pho",
+   "Überqueren Sie den Chao-Phraya-Fluss mit einem traditionellen Holzboot",
+   "Besteigen Sie Wat Arun für Panoramablicke über die Skyline Bangkoks",
+   "Kleingruppe (maximal 10), damit Sie nicht in der Menge verloren gehen",
+   "Eintrittsgebühren werden am Tag selbst an den offiziellen Schaltern bezahlt, kalkulieren Sie etwa 1.000 THB pro Person"
+  ],
+  "included": [
+   "Englischsprachiger lokaler Guide",
+   "Geführter Zugang zum Großen Palast, Wat Pho, und Wat Arun",
+   "Traditionelle Bootsfahrt über den Chao-Phraya-Fluss",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren, etwa 1.000 THB pro Person, bezahlt an den offiziellen Ticketschaltern am Tag selbst (Großer Palast 500, Wat Pho 300, Wat Arun 200)",
+   "Essen und Getränke",
+   "Persönliche Ausgaben und Souvenirs",
+   "Transport zum/vom Treffpunkt",
+   "Trinkgelder für den Guide (optional, aber geschätzt)"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
