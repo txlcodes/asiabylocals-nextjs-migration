@@ -44048,6 +44048,89 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "elephant-bathing-session-at-krabi-elephant-shelter": {
+  "title": "Séance de bain pour éléphants au refuge d'éléphants de Krabi",
+  "metaTitle": "Krabi : séance de bain pour éléphants au refuge",
+  "metaDescription": "Excursion d'une heure et demie à Krabi, incluant un transfert d'hôtel et des activités de nourrissage, de bain et de l'équipement. Organisée par Krabi Elephant Shelter, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une heure et demie à Krabi, incluant un transfert d'hôtel et des activités de nourrissage, de bain et de l'équipement. Organisée par Krabi Elephant Shelter, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Quatre-vingt-dix minutes à nourrir et à baigner des éléphants sauvés au refuge situé à l'extérieur de la ville de Krabi.\n\nLes animaux ici viennent de camps d'équitation et de travaux d'abattage. La séance commence par le nourrissage, puis se poursuit dans l'eau avec une brosse. Pas de monte, pas de chaînes pendant le programme, pas de spectacles. Les éléphants entrent dans l'eau parce qu'ils le veulent, et ce sont les gardiens qui travaillent avec eux quotidiennement qui animent la séance, plutôt qu'une équipe touristique tournante.\n\nCe que vous apprenez réellement en quatre-vingt-dix minutes, c'est comment lire un éléphant : l'état des pieds, qui portent plusieurs tonnes et où la plupart des animaux captifs finissent par présenter des problèmes ; la peau derrière les oreilles ; la façon dont une trompe détendue pend. Une fois que vous le savez, vous pouvez passer devant n'importe quel camp en Thaïlande et deviner quel genre d'endroit c'est, ce qui dure plus longtemps que la visite elle-même.\n\nUne réserve honnête. Certains spécialistes du bien-être animal estiment que les séances de bain répétées avec des inconnus constituent elles-mêmes une forme de spectacle, et plusieurs des sanctuaires thaïlandais les plus réputés ont cessé de les proposer pour cette raison. Ce refuge les organise encore. Si cela vous dérange, des programmes d'observation et de nourrissage existent à Krabi et conviennent mieux.\n\nÉgalement à préciser : les éléphants d'Asie en Thaïlande sont presque entièrement nés en captivité ou sauvés. Un refuge est un dispositif de retraite, pas une population sauvage, et les animaux dépendent des gens pour la nourriture et les soins vétérinaires. Tout endroit promettant un comportement sauvage exagère.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend le transfert d'hôtel, le nourrissage et le bain avec équipement, un guide anglophone, café, thé, eau potable, fruits de saison et photos.\n\nPortez des vêtements que vous ne regretterez pas de tremper. Quatre-vingt-dix minutes, un jour de préavis minimum.",
+  "highlights": [
+   "Sauvés de camps d'équitation et de travaux d'abattage",
+   "Nourrissage puis bain, sans monte ni spectacles",
+   "Animée par les gardiens qui travaillent avec eux chaque jour",
+   "Apprenez à lire n'importe quel camp d'éléphants ensuite",
+   "Note honnête : certains sanctuaires évitent désormais entièrement le bain"
+  ],
+  "included": [
+   "Transfert d'hôtel",
+   "Activités de nourrissage et de bain, et équipement",
+   "Guide anglophone",
+   "Café, thé, eau potable et fruits de saison",
+   "Photos prises par notre équipe (les photos seront prises pendant l'expérience et partagées avec votre groupe via un lien privé par la suite)"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Serviette",
+   "Vêtements de rechange",
+   "Chaussures d'eau"
+  ]
+ },
+ "premium-4-island-day-trip-by-longtail-boat-with-lunch-in-krabi": {
+  "title": "Excursion premium d'une journée aux 4 îles en bateau à longue queue avec déjeuner à Krabi",
+  "metaTitle": "Krabi premium : 4 îles en longtail avec déjeuner",
+  "metaDescription": "Excursion d'une demi-journée à Krabi, incluant prise en charge et retour à l'hôtel et guide professionnel. Organisée par Love Nature Krabi Travel and Tours, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une demi-journée à Krabi, incluant prise en charge et retour à l'hôtel et guide professionnel. Organisée par Love Nature Krabi Travel and Tours, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Les quatre îles en bateau à longue queue, menées à un rythme qui laisse chaque arrêt être un véritable arrêt plutôt qu'une simple photo.\n\nLe bateau à longue queue est le bon choix pour ce circuit et non un compromis. Son faible tirant d'eau et son hélice à long arbre atteignent des eaux dont les hors-bords doivent s'ancrer bien à l'écart, donc vous êtes déposé plus près de la plage et plus près du récif. À sa vitesse, le littoral entre les îles fait partie de la journée plutôt que d'être quelque chose que l'on traverse à trente nœuds.\n\nLe circuit couvre Poda, l'île du Poulet, Tup et Mor. Thale Waek, la Mer Séparée, est le banc de sable qui émerge à mesure que la marée descend et relie les îles en une bande praticable à pied. C'est la photo que tout le monde rapporte, et sa présence dépend de la marée du jour, donc le programme suit le tableau des marées.\n\nL'île du Poulet offre la plongée avec tuba : des coraux peu profonds juste au large du sable, assez proches pour ne pas nécessiter d'être un nageur assuré.\n\nLe déjeuner thaïlandais est servi pendant l'excursion, avec des fruits de saison et de l'eau potable tout au long de la journée.\n\nSix heures avec prise en charge et retour à l'hôtel aux deux extrémités constituent la journée insulaire standard de Krabi faite correctement : assez longue pour nager à chaque arrêt, assez courte pour laisser la soirée libre.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la prise en charge et le retour à l'hôtel, un guide professionnel, l'excursion en bateau à longue queue, le déjeuner thaïlandais, des fruits de saison et de l'eau potable.\n\nLes frais de parc national sont perçus à la jetée sauf confirmation contraire, prévoyez donc des espèces. Un jour de préavis minimum.",
+  "highlights": [
+   "Le longtail atteint des eaux peu profondes dont les hors-bords s'ancrent à l'écart",
+   "Marchez sur le banc de sable de Thale Waek quand la marée descend",
+   "Plongée avec tuba peu profonde au large de l'île du Poulet",
+   "Déjeuner thaïlandais, fruits et eau tout au long de la journée",
+   "Six heures, avec la soirée laissée libre"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Guide professionnel",
+   "Excursion en bateau à longue queue",
+   "Fruits de saison",
+   "Eau potable",
+   "Déjeuner thaïlandais",
+   "Équipement de plongée avec tuba"
+  ],
+  "notIncluded": [
+   "Frais de parc national (200 bahts thaïlandais par personne)"
+  ]
+ },
+ "ao-nang-sunset-sunset-tour": {
+  "title": "Navigation au coucher du soleil en catamaran à moteur autour des quatre îles",
+  "metaTitle": "Catamaran à moteur : coucher de soleil, quatre îles",
+  "metaDescription": "Naviguez autour des quatre îles de Krabi à bord d'un catamaran à moteur à deux ponts, baignez-vous dans une eau turquoise et observez le coucher de soleil sur le calcaire avec collations et boissons thaïlandaises.",
+  "shortDescription": "Naviguez autour des quatre îles de Krabi à bord d'un catamaran à moteur à deux ponts, baignez-vous dans une eau turquoise et observez le coucher de soleil sur le calcaire avec collations et boissons thaïlandaises.",
+  "fullDescription": "Un catamaran plutôt qu'un bateau à longue queue, ce qui change la perception des quatre îles plus qu'on ne l'imagine.\n\nLe catamaran à moteur dispose de deux ponts, d'une véritable ombre et de sièges en plein air, et il ne tape pas dans la houle comme le fait un hors-bord ni ne trempe tout le monde comme le fait un longtail quand la mer se lève. Pour une croisière en soirée, cela compte : vous êtes à bord pendant quatre heures, la plupart du temps assis, et le bateau est ce sur quoi vous passez réellement votre temps.\n\nLe circuit se déroule autour de Poda, de l'île du Poulet et de la zone du banc de sable de Thale Waek, avec un arrêt baignade dans l'eau turquoise peu profonde entre elles. L'équipement de plongée avec tuba est disponible à bord pour qui le souhaite, bien qu'à cette heure l'objectif soit davantage la baignade que le récif.\n\nLe coucher de soleil sur le littoral de Krabi est la raison pour laquelle l'excursion se déroule tard. Les pitons calcaires conservent leur couleur longtemps après que le soleil soit couché, passant de l'orange à un gris-rouge profond, et depuis l'eau on voit toute la ligne de crête plutôt qu'une tranche à travers une ouverture dans les arbres. Des collations et boissons thaïlandaises sont servies tandis que la lumière décline.\n\nC'est la version à réserver si vous voulez voir les îles sans une journée complète à monter et descendre de bateaux, ou si quelqu'un du groupe n'est pas rassuré sur une petite embarcation.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la croisière en catamaran avec équipage, un hôte anglophone, des collations thaïlandaises, des boissons non alcoolisées et de l'eau, l'équipement de plongée avec tuba, des gilets de sauvetage et une assurance.\n\nQuatre heures depuis Ao Nang, un jour de préavis minimum.",
+  "highlights": [
+   "Catamaran à moteur à deux ponts avec ombre et sièges en plein air",
+   "Plus stable qu'un hors-bord, plus sec qu'un longtail",
+   "Arrêt baignade en eau peu profonde entre les îles",
+   "Coucher de soleil sur toute la crête calcaire de Krabi",
+   "Collations, boissons et équipement de tuba thaïlandais à bord"
+  ],
+  "included": [
+   "Croisière en catamaran à moteur avec équipage",
+   "Hôte anglophone",
+   "Collations thaïlandaises",
+   "Boissons non alcoolisées et eau",
+   "Équipement de plongée avec tuba",
+   "Gilets de sauvetage",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Transferts d'hôtel hors de la zone indiquée",
+   "Boissons alcoolisées",
+   "Serviettes",
+   "Frais de parc national si applicable",
+   "Pourboires"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

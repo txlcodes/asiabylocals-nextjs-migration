@@ -44048,6 +44048,89 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "elephant-bathing-session-at-krabi-elephant-shelter": {
+  "title": "Sesión de baño de elefantes en el refugio de elefantes de Krabi",
+  "metaTitle": "Krabi: sesión de baño de elefantes en el refugio",
+  "metaDescription": "Excursión de hora y media en Krabi, con traslado de hotel y actividades de alimentación, baño y equipo. Organizada por Krabi Elephant Shelter, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de hora y media en Krabi, con traslado de hotel y actividades de alimentación, baño y equipo. Organizada por Krabi Elephant Shelter, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Noventa minutos alimentando y bañando a elefantes rescatados en el refugio a las afueras de la ciudad de Krabi.\n\nLos animales aquí proceden de campamentos de monta y trabajo de tala. La sesión comienza con la alimentación, y después al agua con un cepillo. Sin montar, sin cadenas durante el programa, sin espectáculos. Los elefantes entran porque quieren estar en el agua, y los cuidadores que trabajan con ellos diariamente dirigen la sesión en lugar de un equipo turístico rotativo.\n\nLo que realmente aprende en noventa minutos es a leer a un elefante: el estado de las patas, que soportan varias toneladas y es donde la mayoría de los animales cautivos acaban presentando problemas; la piel detrás de las orejas; cómo cuelga una trompa relajada. Una vez que lo sabe, puede pasar junto a cualquier campamento en Tailandia y adivinar qué tipo de lugar es, algo que dura más que la propia visita.\n\nUna advertencia honesta. Algunos especialistas en bienestar animal argumentan que las sesiones de baño repetidas con desconocidos son en sí mismas una forma de espectáculo, y varios de los santuarios tailandeses más respetados han dejado de ofrecerlas por esa razón. Este refugio las ofrece. Si eso no le convence, en Krabi existen programas de observación y alimentación que se ajustan mejor.\n\nTambién vale la pena aclarar: los elefantes asiáticos en Tailandia son casi en su totalidad criados en cautividad o rescatados. Un refugio es un arreglo de jubilación, no una población salvaje, y los animales dependen de las personas para la comida y la atención veterinaria. Cualquier lugar que prometa comportamiento salvaje está exagerando.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye el traslado de hotel, la alimentación y el baño con equipo, un guía de habla inglesa, café, té, agua potable, fruta de temporada y fotos.\n\nUse ropa que no le importe mojar. Noventa minutos, un día de aviso mínimo.",
+  "highlights": [
+   "Rescatados de campamentos de monta y trabajo de tala",
+   "Alimentación y después baño, sin montar ni espectáculos",
+   "Dirigido por los cuidadores que trabajan con ellos todos los días",
+   "Aprenda a leer cualquier campamento de elefantes que visite después",
+   "Nota honesta: algunos santuarios ahora evitan el baño por completo"
+  ],
+  "included": [
+   "Traslado de hotel",
+   "Actividades de alimentación, baño y equipo",
+   "Guía de habla inglesa",
+   "Café, té, agua potable y fruta de temporada",
+   "Fotos tomadas por nuestro equipo (las fotos se tomarán durante la experiencia y se compartirán con su grupo mediante un enlace privado después)"
+  ],
+  "notIncluded": [
+   "Comida",
+   "Toalla",
+   "Ropa de cambio",
+   "Zapatos de agua"
+  ]
+ },
+ "premium-4-island-day-trip-by-longtail-boat-with-lunch-in-krabi": {
+  "title": "Excursión premium de un día a las 4 islas en barco longtail con almuerzo en Krabi",
+  "metaTitle": "Krabi premium: 4 islas en longtail con almuerzo",
+  "metaDescription": "Excursión de medio día en Krabi, con recogida y regreso al hotel y guía profesional. Organizada por Love Nature Krabi Travel and Tours, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de medio día en Krabi, con recogida y regreso al hotel y guía profesional. Organizada por Love Nature Krabi Travel and Tours, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Las cuatro islas en barco longtail, realizada a un ritmo que permite que cada parada sea una parada real en lugar de una fotografía.\n\nEl longtail es el barco adecuado para esta ruta y no un compromiso. Su calado reducido y su hélice de eje largo alcanzan aguas de las que las lanchas rápidas tienen que anclar bien lejos, así que le dejan más cerca de la playa y más cerca del arrecife. A su velocidad, la costa entre las islas forma parte del día en lugar de algo que se cruza a treinta nudos.\n\nEl circuito cubre Poda, la isla del Pollo, Tup y Mor. Thale Waek, el Mar Separado, es el banco de arena que emerge cuando baja la marea y une las islas en una franja transitable a pie. Es la fotografía con la que todos vuelven a casa, y que esté presente depende de la marea de ese día, así que el horario sigue la tabla de mareas.\n\nLa isla del Pollo ofrece el snorkel: coral poco profundo justo frente a la arena, lo bastante cerca para no necesitar ser un nadador seguro.\n\nEl almuerzo tailandés se sirve durante la excursión, con fruta de temporada y agua potable durante todo el día.\n\nSeis horas con recogida y regreso al hotel en ambos extremos son el día de islas estándar de Krabi hecho correctamente: lo bastante largo para nadar en cada parada, lo bastante corto para dejar la tarde libre.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye la recogida y el regreso al hotel, un guía profesional, la excursión en barco longtail, el almuerzo tailandés, fruta de temporada y agua potable.\n\nLas tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario, así que lleve efectivo. Un día de aviso mínimo.",
+  "highlights": [
+   "El longtail alcanza aguas poco profundas de las que las lanchas rápidas anclan lejos",
+   "Camine por el banco de arena de Thale Waek cuando baja la marea",
+   "Snorkel poco profundo frente a la isla del Pollo",
+   "Almuerzo tailandés, fruta y agua durante todo el día",
+   "Seis horas, con la tarde libre"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Guía profesional",
+   "Excursión en barco longtail",
+   "Fruta de temporada",
+   "Agua potable",
+   "Almuerzo tailandés",
+   "Equipo de snorkel"
+  ],
+  "notIncluded": [
+   "Tarifa del parque nacional (200 baht tailandeses por persona)"
+  ]
+ },
+ "ao-nang-sunset-sunset-tour": {
+  "title": "Navegación al atardecer en catamarán motorizado alrededor de las cuatro islas",
+  "metaTitle": "Catamarán motorizado: atardecer, cuatro islas",
+  "metaDescription": "Navegue alrededor de las cuatro islas de Krabi a bordo de un catamarán motorizado de dos cubiertas, nade en agua turquesa y observe el atardecer sobre la caliza con aperitivos y bebidas tailandesas.",
+  "shortDescription": "Navegue alrededor de las cuatro islas de Krabi a bordo de un catamarán motorizado de dos cubiertas, nade en agua turquesa y observe el atardecer sobre la caliza con aperitivos y bebidas tailandesas.",
+  "fullDescription": "Un catamarán en lugar de un longtail, lo que cambia la sensación de las cuatro islas más de lo que se esperaría.\n\nEl catamarán motorizado tiene dos cubiertas, sombra real y asientos al aire libre, y no golpea con la marejada como lo hace una lancha rápida ni empapa a todos como lo hace un longtail cuando el mar se agita. Para un crucero vespertino eso importa: está a bordo durante cuatro horas, la mayor parte sentado, y el barco es aquello en lo que realmente pasa el tiempo.\n\nLa ruta discurre alrededor de Poda, la isla del Pollo y la zona del banco de arena de Thale Waek, con una parada de baño en el agua turquesa poco profunda entre ellas. El equipo de snorkel está a bordo para quien lo quiera, aunque a esta hora el objetivo es más el baño que el arrecife.\n\nEl atardecer sobre la costa de Krabi es la razón por la que la excursión se hace tarde. Los karst calizos conservan el color mucho después de que se pone el sol, pasando del naranja a un gris rojizo intenso, y desde el agua se ve toda la línea de cresta en lugar de una porción a través de un hueco entre los árboles. Se sirven aperitivos y bebidas tailandesas mientras la luz se desvanece.\n\nEsta es la versión a reservar si quiere ver las islas sin un día completo subiendo y bajando de barcos, o si alguien del grupo no se siente seguro en una embarcación pequeña.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye el crucero en catamarán con tripulación, un anfitrión de habla inglesa, aperitivos tailandeses, refrescos y agua, equipo de snorkel, chalecos salvavidas y seguro.\n\nCuatro horas desde Ao Nang, un día de aviso mínimo.",
+  "highlights": [
+   "Catamarán motorizado de dos cubiertas con sombra y asientos al aire libre",
+   "Más estable que una lancha rápida, más seco que un longtail",
+   "Parada de baño en agua poco profunda entre las islas",
+   "Atardecer a lo largo de toda la cresta caliza de Krabi",
+   "Aperitivos, bebidas y equipo de snorkel tailandeses a bordo"
+  ],
+  "included": [
+   "Crucero en catamarán motorizado con tripulación",
+   "Anfitrión de habla inglesa",
+   "Aperitivos tailandeses",
+   "Refrescos y agua",
+   "Equipo de snorkel",
+   "Chalecos salvavidas",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Traslados de hotel fuera de la zona indicada",
+   "Bebidas alcohólicas",
+   "Toallas",
+   "Tarifas del parque nacional si corresponde",
+   "Propinas"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

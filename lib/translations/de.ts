@@ -44047,6 +44047,89 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "elephant-bathing-session-at-krabi-elephant-shelter": {
+  "title": "Elefanten-Bade-Session im Krabi-Elefanten-Schutzgebiet",
+  "metaTitle": "Krabi: Elefanten-Bade-Session im Schutzgebiet",
+  "metaDescription": "Anderthalbstündiger Ausflug in Krabi, mit Hoteltransfer und Fütterungs-, Bade-Aktivitäten und Ausrüstung. Organisiert von Krabi Elephant Shelter, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Anderthalbstündiger Ausflug in Krabi, mit Hoteltransfer und Fütterungs-, Bade-Aktivitäten und Ausrüstung. Organisiert von Krabi Elephant Shelter, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Neunzig Minuten Füttern und Baden geretteter Elefanten im Schutzgebiet außerhalb von Krabi Town.\n\nDie Tiere hier kommen aus Reitcamps und Holzfällerarbeit. Die Session beginnt mit Füttern, dann geht es mit einer Bürste ins Wasser. Kein Reiten, keine Ketten während des Programms, keine Vorführungen. Die Elefanten gehen ins Wasser, weil sie es wollen, und die Pfleger, die täglich mit ihnen arbeiten, leiten die Session statt einer wechselnden Tourcrew.\n\nWas Sie in neunzig Minuten tatsächlich lernen, ist, einen Elefanten zu lesen: der Zustand der Füße, die mehrere Tonnen tragen und wo die meisten gefangenen Tiere schließlich Probleme bekommen; die Haut hinter den Ohren; wie ein entspannter Rüssel hängt. Sobald Sie das wissen, können Sie an jedem Camp in Thailand vorbeigehen und erkennen, was für ein Ort es ist, was länger anhält als der Besuch selbst.\n\nEin ehrlicher Vorbehalt. Einige Tierschutzexperten argumentieren, dass wiederholte Bade-Sessions mit Fremden selbst eine Form der Vorführung sind, und mehrere der angesehensten thailändischen Schutzgebiete haben deshalb aufgehört, sie anzubieten. Dieses Schutzgebiet bietet sie an. Wenn Ihnen das nicht gut gefällt, gibt es in Krabi Beobachtungs- und Fütterungsprogramme, die besser passen.\n\nAuch wert, klarzustellen: Asiatische Elefanten in Thailand sind fast ausschließlich in Gefangenschaft geboren oder gerettet. Ein Schutzgebiet ist eine Ruhestandseinrichtung, keine wilde Population, und die Tiere sind auf Menschen für Futter und tierärztliche Versorgung angewiesen. Jeder Ort, der wildes Verhalten verspricht, übertreibt.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hoteltransfer, Fütterung und Baden mit Ausrüstung, einen englischsprachigen Guide, Kaffee, Tee, Trinkwasser, Saisonobst und Fotos.\n\nTragen Sie Kleidung, deren Durchnässen Ihnen nichts ausmacht. Neunzig Minuten, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Gerettet aus Reitcamps und Holzfällerarbeit",
+   "Füttern dann Baden, kein Reiten oder Vorführungen",
+   "Geleitet von den Pflegern, die jeden Tag mit ihnen arbeiten",
+   "Lernen Sie, danach jedes Elefantencamp zu lesen, an dem Sie vorbeikommen",
+   "Ehrlicher Hinweis: manche Schutzgebiete vermeiden Baden jetzt ganz"
+  ],
+  "included": [
+   "Hoteltransfer",
+   "Fütterungs-, Bade-Aktivitäten und Ausrüstung",
+   "Englischsprachiger Guide",
+   "Kaffee, Tee, Trinkwasser und Saisonobst",
+   "Von unserem Team aufgenommene Fotos (Fotos werden während des Erlebnisses aufgenommen und anschließend per privatem Link mit Ihrer Gruppe geteilt)"
+  ],
+  "notIncluded": [
+   "Mahlzeit",
+   "Handtuch",
+   "Wechselkleidung",
+   "Wasserschuhe"
+  ]
+ },
+ "premium-4-island-day-trip-by-longtail-boat-with-lunch-in-krabi": {
+  "title": "Premium-4-Insel-Tagesausflug per Longtail-Boot mit Mittagessen in Krabi",
+  "metaTitle": "Krabi Premium: 4 Inseln per Longtail mit Mittagessen",
+  "metaDescription": "Halbtagesausflug in Krabi, mit Hotelabholung und -rückfahrt und professionellem Guide. Organisiert von Love Nature Krabi Travel and Tours, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbtagesausflug in Krabi, mit Hotelabholung und -rückfahrt und professionellem Guide. Organisiert von Love Nature Krabi Travel and Tours, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Die vier Inseln per Longtail-Boot, in einem Tempo durchgeführt, das jeden Stopp zu einem echten Stopp statt zu einem Fotomoment macht.\n\nDas Longtail-Boot ist für diese Route das richtige Boot und kein Kompromiss. Sein flacher Tiefgang und der lange Schraubenwellenpropeller erreichen Wasser, von dem Speedboote weit entfernt ankern müssen, sodass Sie näher am Strand und näher am Riff abgesetzt werden. Bei seiner Geschwindigkeit ist die Küste zwischen den Inseln Teil des Tages statt etwas, über das man mit dreißig Knoten hinwegfährt.\n\nDie Route umfasst Poda, Chicken Island, Tup und Mor. Thale Waek, das geteilte Meer, ist die Sandbank, die bei fallender Flut auftaucht und die Inseln zu einem begehbaren Streifen verbindet. Es ist das Foto, mit dem jeder heimkehrt, und ob sie da ist, hängt von der Flut des Tages ab, daher richtet sich der Zeitplan nach dem Gezeitenkalender.\n\nChicken Island bietet das Schnorcheln: flache Korallen direkt vor dem Sand, nah genug, dass man kein sicherer Schwimmer sein muss.\n\nThailändisches Mittagessen wird während des Ausflugs serviert, mit Saisonobst und Trinkwasser über den Tag.\n\nSechs Stunden mit Hotelabholung und -rückfahrt an beiden Enden sind der Standard-Krabi-Inseltag richtig gemacht: lang genug, um an jedem Stopp zu schwimmen, kurz genug, um den Abend frei zu lassen.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hotelabholung und -rückfahrt, einen professionellen Guide, die Longtail-Bootstour, thailändisches Mittagessen, Saisonobst und Trinkwasser.\n\nNationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt, führen Sie also Bargeld mit. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Longtail erreicht Flachwasser, von dem Speedboote fern ankern",
+   "Begehen Sie die Thale-Waek-Sandbank bei fallender Flut",
+   "Flaches Schnorcheln vor Chicken Island",
+   "Thailändisches Mittagessen, Obst und Wasser über den Tag",
+   "Sechs Stunden, mit freiem Abend"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt",
+   "Professioneller Guide",
+   "Longtail-Bootstour",
+   "Saisonobst",
+   "Trinkwasser",
+   "Thailändisches Mittagessen",
+   "Schnorchelausrüstung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Gebühr (200 thailändische Baht pro Person)"
+  ]
+ },
+ "ao-nang-sunset-sunset-tour": {
+  "title": "Sonnenuntergangsfahrt mit Motorkatamaran rund um die vier Inseln",
+  "metaTitle": "Motorkatamaran: Sonnenuntergang, vier Inseln",
+  "metaDescription": "Segeln Sie um Krabis vier Inseln an Bord eines zweideckigen Motorkatamarans, schwimmen Sie in türkisfarbenem Wasser und beobachten Sie den Sonnenuntergang über dem Kalkstein mit thailändischen Snacks und Getränken.",
+  "shortDescription": "Segeln Sie um Krabis vier Inseln an Bord eines zweideckigen Motorkatamarans, schwimmen Sie in türkisfarbenem Wasser und beobachten Sie den Sonnenuntergang über dem Kalkstein mit thailändischen Snacks und Getränken.",
+  "fullDescription": "Ein Katamaran statt eines Longtail-Boots, was das Gefühl der vier Inseln mehr verändert, als man erwarten würde.\n\nDer Motorkatamaran hat zwei Decks, echten Schatten und Freiluft-Sitzplätze, und er schlägt nicht in Wellengang wie ein Speedboot und durchnässt nicht jeden wie ein Longtail-Boot, wenn das Meer unruhig wird. Für eine Abendkreuzfahrt ist das wichtig: Sie sind vier Stunden an Bord, die meiste Zeit sitzend, und das Boot ist das, worauf Sie die Zeit tatsächlich verbringen.\n\nDie Route führt um Poda, Chicken Island und das Gebiet der Thale-Waek-Sandbank, mit einem Schwimmstopp im flachen türkisfarbenen Wasser dazwischen. Schnorchelausrüstung ist an Bord für alle, die möchten, obwohl zu dieser Stunde das Schwimmen mehr im Vordergrund steht als das Riff.\n\nDer Sonnenuntergang über der Krabi-Küste ist der Grund, warum der Ausflug spät läuft. Die Kalksteinkarste halten die Farbe lange, nachdem die Sonne untergegangen ist, von Orange zu einem tiefen Rotgrau wechselnd, und vom Wasser aus sehen Sie die gesamte Bergkette statt eines Ausschnitts durch eine Lücke in den Bäumen. Thailändische Snacks und Getränke werden serviert, während das Licht schwindet.\n\nDies ist die Version, die man buchen sollte, wenn man die Inseln ohne einen vollen Tag Ein- und Aussteigen aus Booten erleben möchte, oder wenn jemand in der Gruppe sich auf einem kleinen Boot nicht sicher fühlt.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst die Katamaran-Kreuzfahrt mit Crew, einen englischsprachigen Gastgeber, thailändische Snacks, Softdrinks und Wasser, Schnorchelausrüstung, Schwimmwesten und Versicherung.\n\nVier Stunden ab Ao Nang, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Zweideckiger Motorkatamaran mit Schatten und Freiluft-Sitzplätzen",
+   "Stabiler als ein Speedboot, trockener als ein Longtail-Boot",
+   "Schwimmstopp im flachen Wasser zwischen den Inseln",
+   "Sonnenuntergang entlang der gesamten Krabi-Karstkette",
+   "Thailändische Snacks, Getränke und Schnorchelausrüstung an Bord"
+  ],
+  "included": [
+   "Motorkatamaran-Kreuzfahrt mit Crew",
+   "Englischsprachiger Gastgeber",
+   "Thailändische Snacks",
+   "Softdrinks und Wasser",
+   "Schnorchelausrüstung",
+   "Schwimmwesten",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Hoteltransfers außerhalb der angegebenen Zone",
+   "Alkoholische Getränke",
+   "Handtücher",
+   "Nationalpark-Gebühren, falls zutreffend",
+   "Trinkgelder"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
