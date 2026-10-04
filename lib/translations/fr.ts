@@ -44223,6 +44223,99 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ]
  },
+ "hot-spring-waterfall-guided-tour": {
+  "title": "Bassin Émeraude, cascade de source chaude et balade en quad en jungle",
+  "metaTitle": "Krabi : bassin Émeraude, source chaude, quad en jungle",
+  "metaDescription": "Échangez la plage contre l'intérieur de Krabi : baignade dans le célèbre bassin Émeraude, cascades minérales chaudes à la source thermale, et balade en quad à travers des sentiers de forêt tropicale.",
+  "shortDescription": "Échangez la plage contre l'intérieur de Krabi : baignade dans le célèbre bassin Émeraude, cascades minérales chaudes à la source thermale, et balade en quad à travers des sentiers de forêt tropicale.",
+  "fullDescription": "La journée intérieure de Krabi : deux types d'eau très différents, et une balade en quad entre les deux.\n\nLe bassin Émeraude se trouve dans la forêt de Khao Nor Chuchi et est alimenté par une source, c'est pourquoi l'eau a ce vert particulier et limpide et reste fraîche jusqu'en avril, lorsque la côte est à son pire. On y accède à pied à travers la forêt plutôt qu'en s'arrêtant au bord de la route, et la couleur change avec la lumière filtrant à travers la canopée.\n\nLa cascade de la source chaude est la proposition opposée. Une eau chauffée géothermiquement descend une série de bassins calcaires lisses à environ température corporelle, et vous vous y asseyez. La roche a été polie par le flux en des formes qui retiennent une personne, ce qui n'est pas le fruit de quelques années seulement.\n\nLa section quad se déroule sur des pistes de plantation et de forêt tropicale avec instruction et casque fournis, donc aucune expérience ni permis n'est nécessaire. Une courte passerelle forestière complète la journée.\n\nL'argument pratique en faveur de cette réservation : **elle fonctionne par temps de pluie.** De mai à octobre, le vent et la houle annulent les bateaux insulaires à court préavis, et c'est l'excursion qui fonctionne toujours. Les cascades sont à leur plus fort précisément pendant la saison qui ferme la mer. Si votre journée insulaire est annulée, voici le substitut qui est sans doute meilleur par ce temps plutôt qu'un simple lot de consolation.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la prise en charge et le retour à l'hôtel, le transport climatisé, un guide anglophone, la balade en quad avec instruction et casque, le déjeuner thaïlandais, l'eau potable et une assurance.\n\nSept heures. Apportez une serviette et des chaussures dans lesquelles vous pouvez marcher. Un jour de préavis minimum.",
+  "highlights": [
+   "Bassin Émeraude alimenté par une source, frais même en avril",
+   "Cascade de source chaude dans des bassins calcaires polis",
+   "Quad sur des pistes de plantation, aucun permis nécessaire",
+   "Fonctionne par temps qui annule les bateaux insulaires",
+   "Cascades à leur plus fort pendant la saison des pluies"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Transport climatisé",
+   "Guide anglophone",
+   "Balade en quad avec instruction et casque",
+   "Déjeuner thaïlandais",
+   "Eau potable",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Frais d'entrée au bassin Émeraude et à la source chaude",
+   "Serviettes",
+   "Surclassement du quad pour un circuit plus long",
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
+ "poda-island-sunrise-tour": {
+  "title": "Hors-bord au lever du soleil vers Phi Phi avec petit-déjeuner à l'île de Poda",
+  "metaTitle": "Phi Phi au lever du soleil, petit-déjeuner à Poda",
+  "metaDescription": "Partez avant l'aube, prenez le petit-déjeuner sur une plage déserte de l'île de Poda, puis atteignez Maya Bay et le lagon de Pileh des heures avant les foules principales de Phi Phi.",
+  "shortDescription": "Partez avant l'aube, prenez le petit-déjeuner sur une plage déserte de l'île de Poda, puis atteignez Maya Bay et le lagon de Pileh des heures avant les foules principales de Phi Phi.",
+  "fullDescription": "Un départ avant l'aube qui vous offre les deux choses qui manquent à chaque excursion d'une journée à Phi Phi : une Maya Bay déserte et une plage vide pour prendre le petit-déjeuner.\n\nLe hors-bord part avant les premières lueurs et se dirige vers l'île de Poda tandis que la flotte d'excursions charge encore à Ao Nang. Le petit-déjeuner est un pique-nique sur le sable avec l'île pratiquement pour vous seuls, l'exact opposé de l'allure de Poda à onze heures du matin quand une dizaine de bateaux y sont amarrés.\n\nMaya Bay vient ensuite, et le timing est tout l'intérêt. La baie a fermé entièrement de 2018 à 2022 pour permettre au récif de se régénérer, et a rouvert sous des règles strictes : les bateaux amarrent à l'arrière de Phi Phi Leh et les visiteurs marchent à travers l'île, la baignade dans la baie elle-même est restreinte, et le nombre de visiteurs quotidiens est plafonné. Arriver en premier signifie marcher avant que la file ne se forme plutôt qu'après.\n\nLe lagon de Pileh suit, un chenal d'eau vert foncé entouré de falaises de tous côtés, et les arrêts de plongée avec tuba autour de Phi Phi sont choisis selon les conditions. Le déjeuner se prend sur le bateau ou sur une plage selon le jour.\n\nOnze heures incluant une prise en charge matinale en font une longue journée, et le départ matinal n'est pas négociable, car être devant la flotte constitue toute la valeur de l'excursion.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la prise en charge matinale et le retour à l'hôtel, le hors-bord avec équipage, un guide anglophone, le petit-déjeuner pique-nique sur la plage, le déjeuner, l'équipement de plongée avec tuba, l'eau potable, les fruits et les gilets de sauvetage.\n\nLes frais de parc national sont perçus à la jetée sauf confirmation contraire, prévoyez donc des espèces. Un jour de préavis minimum.",
+  "highlights": [
+   "Départ avant l'aube, devant toute la flotte d'excursions",
+   "Petit-déjeuner pique-nique sur une île de Poda presque déserte",
+   "Maya Bay avant l'arrivée des bateaux de la journée",
+   "Lagon de Pileh, entouré de falaises de tous côtés",
+   "Hors-bord, guide, petit-déjeuner et déjeuner compris"
+  ],
+  "included": [
+   "Prise en charge matinale et retour à l'hôtel",
+   "Hors-bord avec équipage",
+   "Guide anglophone",
+   "Petit-déjeuner pique-nique sur la plage",
+   "Déjeuner",
+   "Équipement de plongée avec tuba",
+   "Eau potable et fruits",
+   "Gilets de sauvetage",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Frais d'entrée du parc national",
+   "Serviettes",
+   "Boissons alcoolisées",
+   "Pourboires",
+   "Location de caméra sous-marine"
+  ]
+ },
+ "ao-nang-sunset-tour": {
+  "title": "Croisière au coucher du soleil en petit groupe avec dîner et baignade dans le plancton",
+  "metaTitle": "Petit groupe : coucher de soleil, dîner, plancton",
+  "metaDescription": "Une journée en mer plus tranquille à Krabi : plongée avec tuba, kayak et paddleboard depuis un bateau spacieux, dîner au coucher du soleil, puis baignade parmi le plancton lumineux après la tombée de la nuit.",
+  "shortDescription": "Une journée en mer plus tranquille à Krabi : plongée avec tuba, kayak et paddleboard depuis un bateau spacieux, dîner au coucher du soleil, puis baignade parmi le plancton lumineux après la tombée de la nuit.",
+  "fullDescription": "Une croisière de huit heures limitée à trente passagers, un nombre qui détermine réellement l'ambiance de cette excursion.\n\nLa plupart des bateaux au coucher du soleil à Krabi sont soit un longtail transportant huit personnes, soit un bateau de croisière en transportant une centaine. Une limite de trente passagers se situe entre les deux : assez d'espace sur le pont pour trouver de l'ombre ou du soleil selon vos préférences, et assez peu de monde pour que les kayaks et les paddleboards soient disponibles quand vous le souhaitez plutôt qu'après une file d'attente.\n\nL'après-midi couvre la plongée avec tuba, le kayak et le paddleboard parmi les îles au large d'Ao Nang. Les kayaks sont le meilleur moyen de s'approcher du calcaire : vous pouvez pagayer jusque dans les bases en surplomb des pitons karstiques, où la roche a été rongée au niveau de l'eau, inaccessibles à un bateau.\n\nLe dîner est servi sur le pont tandis que le soleil se couche. Le calcaire conserve sa couleur longtemps après que le soleil soit couché, donc la belle lumière dure ici considérablement plus longtemps que l'horloge ne le suggère.\n\nLa baignade nocturne clôture l'excursion. Le plancton bioluminescent s'illumine quand l'eau autour bouge, donc la lumière apparaît autour de vos mains et de vos pieds. Cela varie réellement d'une nuit à l'autre : les ciels les plus sombres proches d'une nouvelle lune sont les meilleurs, une pleine lune l'efface, et une mer agitée la disperse. Renseignez-vous sur la phase de la lune lorsque vous choisissez une date.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend les transferts à l'hôtel, la croisière avec équipage et guide, l'équipement de plongée avec tuba, l'utilisation du kayak et du paddleboard, le dîner à bord, des boissons non alcoolisées, de l'eau et des fruits, et des gilets de sauvetage.\n\nHuit heures, un jour de préavis minimum. Apportez une serviette et des vêtements secs.",
+  "highlights": [
+   "Bateau en petit groupe limité à trente passagers",
+   "Les kayaks atteignent les bases en surplomb des pitons karstiques",
+   "Plongée avec tuba, kayak et paddleboard compris",
+   "Dîner servi sur le pont au coucher du soleil",
+   "Baignade nocturne parmi le plancton bioluminescent"
+  ],
+  "included": [
+   "Transferts à l'hôtel",
+   "Croisière avec équipage et guide",
+   "Équipement de plongée avec tuba",
+   "Utilisation du kayak et du paddleboard",
+   "Dîner à bord",
+   "Boissons non alcoolisées, eau et fruits",
+   "Gilets de sauvetage",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Frais de parc national",
+   "Boissons alcoolisées",
+   "Serviettes",
+   "Pourboires",
+   "Prise en charge à l'hôtel hors de la zone indiquée"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

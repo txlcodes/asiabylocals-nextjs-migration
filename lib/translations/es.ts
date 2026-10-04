@@ -44223,6 +44223,99 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "hot-spring-waterfall-guided-tour": {
+  "title": "Piscina Esmeralda, cascada de aguas termales y paseo en ATV por la selva",
+  "metaTitle": "Krabi: piscina Esmeralda, aguas termales, ATV en la selva",
+  "metaDescription": "Cambie la playa por el interior de Krabi: un baño en la famosa piscina Esmeralda, cascadas minerales cálidas en la fuente termal, y un paseo en ATV por senderos de selva tropical.",
+  "shortDescription": "Cambie la playa por el interior de Krabi: un baño en la famosa piscina Esmeralda, cascadas minerales cálidas en la fuente termal, y un paseo en ATV por senderos de selva tropical.",
+  "fullDescription": "El día interior de Krabi: dos tipos de agua muy diferentes, y un paseo en ATV entre ambos.\n\nLa piscina Esmeralda se encuentra dentro del bosque de Khao Nor Chuchi y se alimenta de un manantial, por lo que el agua tiene ese verde particular y transparente y se mantiene fresca hasta abril, cuando la costa está en su peor momento. Se llega caminando a través del bosque en lugar de parar junto a la carretera, y el color cambia con la luz a través del dosel forestal.\n\nLa cascada de aguas termales es la propuesta opuesta. El agua calentada geotérmicamente desciende por una serie de cuencas calizas lisas a aproximadamente la temperatura corporal, y usted se sienta en ellas. La roca ha sido pulida por el flujo en formas que sostienen a una persona, lo que no es obra de solo unos pocos años.\n\nLa sección de ATV se desarrolla en senderos de plantación y selva tropical con instrucción y casco incluidos, así que no se necesita experiencia ni licencia. Una corta pasarela por el bosque completa el día.\n\nEl argumento práctico para reservar esto: **funciona bajo la lluvia.** De mayo a octubre, el viento y el oleaje cancelan los barcos a islas con poco aviso, y esta es la excursión que sigue funcionando. Las cascadas están en su momento más fuerte precisamente en la temporada que cierra el mar. Si su día de isla se cancela, este es el sustituto que probablemente sea mejor con ese tiempo en lugar de un simple premio de consolación.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye la recogida y el regreso al hotel, transporte con aire acondicionado, un guía de habla inglesa, el paseo en ATV con instrucción y casco, almuerzo tailandés, agua potable y seguro.\n\nSiete horas. Traiga una toalla y calzado con el que pueda caminar. Un día de aviso mínimo.",
+  "highlights": [
+   "Piscina Esmeralda alimentada por manantial, fresca incluso en abril",
+   "Cascada de aguas termales en cuencas calizas pulidas",
+   "ATV en senderos de plantación, no se necesita licencia",
+   "Funciona en condiciones que cancelan los barcos a islas",
+   "Cascadas en su momento más fuerte en la temporada de lluvias"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Transporte con aire acondicionado",
+   "Guía de habla inglesa",
+   "Paseo en ATV con instrucción y casco",
+   "Almuerzo tailandés",
+   "Agua potable",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a la piscina Esmeralda y la fuente termal",
+   "Toallas",
+   "Mejora de ATV a una ruta más larga",
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
+ "poda-island-sunrise-tour": {
+  "title": "Lancha rápida al amanecer hacia Phi Phi con desayuno en la isla de Poda",
+  "metaTitle": "Phi Phi al amanecer, desayuno en Poda",
+  "metaDescription": "Salga antes del amanecer, desayune en una playa vacía de la isla de Poda, y después llegue a Maya Bay y la laguna de Pileh horas antes de las multitudes principales de Phi Phi.",
+  "shortDescription": "Salga antes del amanecer, desayune en una playa vacía de la isla de Poda, y después llegue a Maya Bay y la laguna de Pileh horas antes de las multitudes principales de Phi Phi.",
+  "fullDescription": "Una salida antes del amanecer que le compra las dos cosas de las que carece toda excursión de un día a Phi Phi: una Maya Bay vacía y una playa vacía donde desayunar.\n\nLa lancha rápida sale antes de que amanezca y se dirige a la isla de Poda mientras la flota de excursiones todavía está cargando en Ao Nang. El desayuno es un pícnic en la arena con la isla prácticamente para usted solo, lo opuesto a cómo luce Poda a las once de la mañana cuando una decena de barcos están amarrados frente a ella.\n\nMaya Bay viene después, y el momento es todo el objetivo. La bahía cerró por completo de 2018 a 2022 para que el arrecife se recuperara y reabrió bajo reglas estrictas: los barcos amarran en la parte trasera de Phi Phi Leh y los visitantes entran a pie a través de la isla, el baño dentro de la bahía está restringido, y el número diario de visitantes está limitado. Llegar primero significa entrar antes de que se forme la cola en lugar de después.\n\nLa laguna de Pileh sigue, un canal de agua verde oscura rodeado de acantilados por todos lados, y las paradas de snorkel alrededor de Phi Phi se eligen según las condiciones. El almuerzo se toma en el barco o en una playa según el día.\n\nOnce horas incluyendo una recogida temprana convierten esto en un día largo, y la salida temprana no es negociable, ya que ir por delante de la flota es todo el valor de la excursión.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye la recogida temprana y el regreso al hotel, la lancha rápida con tripulación, un guía de habla inglesa, desayuno pícnic en la playa, almuerzo, equipo de snorkel, agua potable, fruta y chalecos salvavidas.\n\nLas tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario, así que lleve efectivo. Un día de aviso mínimo.",
+  "highlights": [
+   "Salida antes del amanecer, por delante de toda la flota de excursiones",
+   "Desayuno pícnic en una isla de Poda casi vacía",
+   "Maya Bay antes de que lleguen los barcos diurnos",
+   "Laguna de Pileh, rodeada de acantilados por todos lados",
+   "Lancha rápida, guía, desayuno y almuerzo incluidos"
+  ],
+  "included": [
+   "Recogida temprana y regreso al hotel",
+   "Lancha rápida con tripulación",
+   "Guía de habla inglesa",
+   "Desayuno pícnic en la playa",
+   "Almuerzo",
+   "Equipo de snorkel",
+   "Agua potable y fruta",
+   "Chalecos salvavidas",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada al parque nacional",
+   "Toallas",
+   "Bebidas alcohólicas",
+   "Propinas",
+   "Alquiler de cámara submarina"
+  ]
+ },
+ "ao-nang-sunset-tour": {
+  "title": "Crucero al atardecer en grupo pequeño con cena y baño de plancton",
+  "metaTitle": "Grupo pequeño: atardecer, cena, plancton",
+  "metaDescription": "Un día más tranquilo en el mar de Krabi: snorkel, kayak y paddle surf desde un barco espacioso, cena al atardecer, y después baño entre plancton brillante tras el anochecer.",
+  "shortDescription": "Un día más tranquilo en el mar de Krabi: snorkel, kayak y paddle surf desde un barco espacioso, cena al atardecer, y después baño entre plancton brillante tras el anochecer.",
+  "fullDescription": "Un crucero de ocho horas limitado a treinta huéspedes, una cifra que realmente determina cómo se siente esta excursión.\n\nLa mayoría de los barcos al atardecer de Krabi son o bien un longtail con ocho personas o un barco de excursión diurna con cien. Un límite de treinta huéspedes queda en medio: suficiente espacio de cubierta para encontrar sombra o sol según prefiera, y pocas personas suficientes para que los kayaks y las tablas de paddle surf estén disponibles cuando los quiera en lugar de tras una cola.\n\nLa tarde cubre snorkel, kayak y paddle surf entre las islas frente a Ao Nang. Los kayaks son la mejor forma de acercarse a la caliza: puede remar hasta las bases socavadas de los karst, donde la roca ha sido erosionada a nivel del agua, algo que un barco no puede alcanzar.\n\nLa cena se sirve en cubierta mientras se pone el sol. La caliza conserva el color mucho después de que se pone el sol, así que la buena luz dura aquí considerablemente más de lo que sugiere el reloj.\n\nEl baño nocturno cierra la excursión. El plancton bioluminiscente destella cuando el agua a su alrededor se mueve, así que la luz aparece alrededor de sus manos y pies. Varía realmente de noche a noche: los cielos más oscuros cercanos a una luna nueva son los mejores, una luna llena lo borra, y el agua agitada lo dispersa. Pregunte sobre la fase lunar al elegir una fecha.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye traslados de hotel, el crucero con tripulación y guía, equipo de snorkel, uso de kayak y tabla de paddle surf, cena a bordo, refrescos, agua y fruta, y chalecos salvavidas.\n\nOcho horas, un día de aviso mínimo. Traiga una toalla y ropa seca.",
+  "highlights": [
+   "Barco de grupo pequeño limitado a treinta huéspedes",
+   "Los kayaks alcanzan las bases socavadas de los karst",
+   "Snorkel, kayak y paddle surf incluidos",
+   "Cena servida en cubierta durante el atardecer",
+   "Baño nocturno entre plancton bioluminiscente"
+  ],
+  "included": [
+   "Traslados de hotel",
+   "Crucero con tripulación y guía",
+   "Equipo de snorkel",
+   "Uso de kayak y tabla de paddle surf",
+   "Cena a bordo",
+   "Refrescos, agua y fruta",
+   "Chalecos salvavidas",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Tarifas del parque nacional",
+   "Bebidas alcohólicas",
+   "Toallas",
+   "Propinas",
+   "Recogida en el hotel fuera de la zona indicada"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

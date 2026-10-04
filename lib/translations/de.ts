@@ -44222,6 +44222,99 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "hot-spring-waterfall-guided-tour": {
+  "title": "Smaragdbecken, heiße Quelle und Dschungel-ATV-Fahrt",
+  "metaTitle": "Krabi: Smaragdbecken, heiße Quelle, ATV im Dschungel",
+  "metaDescription": "Tauschen Sie den Strand gegen Krabis Hinterland: Schwimmen im berühmten Smaragdbecken, warme Mineralkaskaden an der heißen Quelle, und eine ATV-Fahrt durch Regenwaldpfade.",
+  "shortDescription": "Tauschen Sie den Strand gegen Krabis Hinterland: Schwimmen im berühmten Smaragdbecken, warme Mineralkaskaden an der heißen Quelle, und eine ATV-Fahrt durch Regenwaldpfade.",
+  "fullDescription": "Krabis Binnentag: zwei sehr unterschiedliche Arten von Wasser, und eine ATV-Fahrt zwischen ihnen.\n\nDas Smaragdbecken liegt im Khao-Nor-Chuchi-Wald und wird von einer Quelle gespeist, weshalb das Wasser dieses besondere klare Grün hat und bis in den April kühl bleibt, wenn die Küste am schlimmsten ist. Man geht durch den Wald hinein statt an der Straße anzuhalten, und die Farbe ändert sich mit dem Licht durch das Kronendach.\n\nDer heiße Quellenwasserfall ist das Gegenteil. Geothermisch erwärmtes Wasser fließt eine Reihe glatter Kalksteinbecken bei etwa Körpertemperatur hinab, und man setzt sich darin. Der Fels wurde durch die Strömung zu Formen poliert, die eine Person halten, was nicht das Ergebnis nur einiger Jahre ist.\n\nDer ATV-Abschnitt verläuft auf Plantagen- und Regenwaldpfaden mit Anleitung und gestelltem Helm, sodass keine Erfahrung oder Führerschein nötig ist. Ein kurzer Waldsteg rundet den Tag ab.\n\nDer praktische Grund, dies zu buchen: **Es funktioniert im Regen.** Von Mai bis Oktober sagen Wind und Dünung die Inselboote kurzfristig ab, und das ist der Ausflug, der trotzdem stattfindet. Wasserfälle sind genau in der Saison am stärksten, die das Meer schließt. Wenn Ihr Inseltag abgesagt wird, ist dies der Ersatz, der bei diesem Wetter sogar besser ist, nicht nur ein Trostpreis.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hotelabholung und -rückfahrt, klimatisierten Transport, einen englischsprachigen Guide, die ATV-Fahrt mit Anleitung und Helm, thailändisches Mittagessen, Trinkwasser und Versicherung.\n\nSieben Stunden. Bringen Sie ein Handtuch und Schuhe mit, in denen Sie gehen können. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Quellgespeistes Smaragdbecken, kühl selbst im April",
+   "Heißer Quellenwasserfall in polierten Kalksteinbecken",
+   "ATV auf Plantagenpfaden, kein Führerschein nötig",
+   "Findet bei Wetter statt, das Inselboote absagt",
+   "Wasserfälle am stärksten in der Regenzeit"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt",
+   "Klimatisierter Transport",
+   "Englischsprachiger Guide",
+   "ATV-Fahrt mit Anleitung und Helm",
+   "Thailändisches Mittagessen",
+   "Trinkwasser",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Smaragdbecken und heiße Quelle",
+   "Handtücher",
+   "ATV-Upgrade auf eine längere Route",
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "poda-island-sunrise-tour": {
+  "title": "Speedboot zum Sonnenaufgang nach Phi Phi mit Frühstück auf der Insel Poda",
+  "metaTitle": "Phi Phi zum Sonnenaufgang, Frühstück auf Poda",
+  "metaDescription": "Fahren Sie vor dem Morgengrauen ab, frühstücken Sie an einem leeren Strand der Insel Poda, und erreichen Sie dann Maya Bay und die Pileh-Lagune Stunden vor den Hauptmassen von Phi Phi.",
+  "shortDescription": "Fahren Sie vor dem Morgengrauen ab, frühstücken Sie an einem leeren Strand der Insel Poda, und erreichen Sie dann Maya Bay und die Pileh-Lagune Stunden vor den Hauptmassen von Phi Phi.",
+  "fullDescription": "Ein Start vor dem Morgengrauen, der Ihnen die zwei Dinge sichert, die jedem Phi-Phi-Tagesausflug fehlen: eine leere Maya Bay und einen leeren Strand zum Frühstücken.\n\nDas Speedboot fährt vor dem ersten Licht ab und fährt zur Insel Poda, während die Ausflugsflotte in Ao Nang noch beim Beladen ist. Das Frühstück ist ein Picknick im Sand mit der Insel praktisch für sich allein, das genaue Gegenteil davon, wie Poda um elf Uhr morgens aussieht, wenn ein Dutzend Boote davor ankern.\n\nMaya Bay folgt als Nächstes, und das Timing ist der eigentliche Punkt. Die Bucht war von 2018 bis 2022 vollständig geschlossen, damit sich das Riff erholen konnte, und wieder eröffnet unter strengen Regeln: Boote legen am hinteren Teil von Phi Phi Leh an, und Besucher gehen zu Fuß durch die Insel, Schwimmen innerhalb der Bucht ist eingeschränkt, und die tägliche Besucherzahl ist begrenzt. Als Erster anzukommen bedeutet, vor der Schlange hineinzugehen statt danach.\n\nDie Pileh-Lagune folgt, ein Kanal aus tiefgrünem Wasser, von Klippen auf allen Seiten eingeschlossen, und Schnorchelstopps rund um Phi Phi werden je nach Bedingungen gewählt. Mittagessen gibt es auf dem Boot oder an einem Strand, je nach Tag.\n\nElf Stunden einschließlich einer frühen Abholung machen dies zu einem langen Tag, und der frühe Start ist nicht verhandelbar, da der Vorsprung vor der Flotte der gesamte Wert des Ausflugs ist.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst frühe Hotelabholung und -rückfahrt, das Speedboot mit Crew, einen englischsprachigen Guide, Picknick-Frühstück am Strand, Mittagessen, Schnorchelausrüstung, Trinkwasser, Obst und Schwimmwesten.\n\nNationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt, führen Sie also Bargeld mit. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Abfahrt vor dem Morgengrauen, vor der gesamten Ausflugsflotte",
+   "Picknick-Frühstück auf einer fast leeren Insel Poda",
+   "Maya Bay, bevor die Tagesboote ankommen",
+   "Pileh-Lagune, von Klippen auf allen Seiten umschlossen",
+   "Speedboot, Guide, Frühstück und Mittagessen inklusive"
+  ],
+  "included": [
+   "Frühe Hotelabholung und -rückfahrt",
+   "Speedboot mit Crew",
+   "Englischsprachiger Guide",
+   "Picknick-Frühstück am Strand",
+   "Mittagessen",
+   "Schnorchelausrüstung",
+   "Trinkwasser und Obst",
+   "Schwimmwesten",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittsgebühren",
+   "Handtücher",
+   "Alkoholische Getränke",
+   "Trinkgelder",
+   "Unterwasserkamera-Vermietung"
+  ]
+ },
+ "ao-nang-sunset-tour": {
+  "title": "Sonnenuntergangs-Kreuzfahrt in kleiner Gruppe mit Abendessen und Plankton-Schwimmen",
+  "metaTitle": "Kleine Gruppe: Sonnenuntergang, Abendessen, Plankton",
+  "metaDescription": "Ein ruhigerer Krabi-Tag auf See: Schnorcheln, Kajak und Paddleboard von einem geräumigen Boot aus, Abendessen bei Sonnenuntergang, dann Schwimmen zwischen leuchtendem Plankton nach Einbruch der Dunkelheit.",
+  "shortDescription": "Ein ruhigerer Krabi-Tag auf See: Schnorcheln, Kajak und Paddleboard von einem geräumigen Boot aus, Abendessen bei Sonnenuntergang, dann Schwimmen zwischen leuchtendem Plankton nach Einbruch der Dunkelheit.",
+  "fullDescription": "Eine achtstündige Kreuzfahrt, begrenzt auf dreißig Gäste, und diese Zahl entscheidet, wie sich dieser Ausflug tatsächlich anfühlt.\n\nDie meisten Krabi-Sonnenuntergangsboote sind entweder ein Longtail-Boot mit acht Personen oder ein Tagesausflugsboot mit hundert. Eine Begrenzung auf dreißig Gäste liegt dazwischen: genug Deckfläche, um Schatten oder Sonne zu finden, wie Sie möchten, und wenige genug Leute, dass Kajaks und Paddleboards verfügbar sind, wenn Sie sie wollen, statt nach einer Warteschlange.\n\nDer Nachmittag umfasst Schnorcheln, Kajakfahren und Paddleboarding zwischen den Inseln vor Ao Nang. Kajaks sind die bessere Möglichkeit, dem Kalkstein nahezukommen: Sie können in die unterspülten Basen der Karstfelsen paddeln, wo der Fels an der Wasserlinie ausgewaschen wurde, was ein Boot nicht erreichen kann.\n\nDas Abendessen wird an Deck serviert, während die Sonne untergeht. Der Kalkstein hält die Farbe lange, nachdem die Sonne untergegangen ist, sodass das gute Licht hier erheblich länger anhält, als die Uhr vermuten lässt.\n\nDas Nachtschwimmen schließt den Ausflug ab. Biolumineszentes Plankton blitzt auf, wenn sich das Wasser um es herum bewegt, sodass das Licht um Ihre Hände und Füße erscheint. Es variiert wirklich von Nacht zu Nacht: die dunkelsten Himmel nahe einem Neumond sind am besten, ein Vollmond löscht es aus, und raues Wasser verteilt es. Fragen Sie nach der Mondphase, wenn Sie ein Datum wählen.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hoteltransfers, die Kreuzfahrt mit Crew und Guide, Schnorchelausrüstung, Nutzung von Kajak und Paddleboard, Abendessen an Bord, Softdrinks, Wasser und Obst, und Schwimmwesten.\n\nAcht Stunden, mindestens ein Tag Vorlaufzeit. Bringen Sie ein Handtuch und trockene Kleidung mit.",
+  "highlights": [
+   "Kleingruppenboot, begrenzt auf dreißig Gäste",
+   "Kajaks erreichen die unterspülten Basen der Karstfelsen",
+   "Schnorcheln, Kajakfahren und Paddleboarding inklusive",
+   "Abendessen an Deck bei Sonnenuntergang serviert",
+   "Nachtschwimmen zwischen biolumineszentem Plankton"
+  ],
+  "included": [
+   "Hoteltransfers",
+   "Kreuzfahrt mit Crew und Guide",
+   "Schnorchelausrüstung",
+   "Nutzung von Kajak und Paddleboard",
+   "Abendessen an Bord",
+   "Softdrinks, Wasser und Obst",
+   "Schwimmwesten",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Gebühren",
+   "Alkoholische Getränke",
+   "Handtücher",
+   "Trinkgelder",
+   "Hotelabholung außerhalb des angegebenen Gebiets"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
