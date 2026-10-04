@@ -44316,6 +44316,98 @@ export const ES_TOURS: Record<string, TourT> = {
    "Recogida en el hotel fuera de la zona indicada"
   ]
  },
+ "james-bond-island-guided-tour": {
+  "title": "Isla de James Bond y bahía de Phang Nga en longtail tradicional",
+  "metaTitle": "James Bond y bahía de Phang Nga en longtail",
+  "metaDescription": "Cruce la bahía de Phang Nga en barco longtail hasta la roca caliza hecha famosa por el cine, reme por cuevas marinas y pare en un pueblo construido sobre el agua.",
+  "shortDescription": "Cruce la bahía de Phang Nga en barco longtail hasta la roca caliza hecha famosa por el cine, reme por cuevas marinas y pare en un pueblo construido sobre el agua.",
+  "fullDescription": "La bahía de Phang Nga en barco longtail tradicional en lugar de lancha rápida, lo que cambia lo que se puede alcanzar.\n\nKhao Phing Kan es la isla; Koh Tapu es la aguja caliza mar adentro que apareció en El hombre de la pistola de oro en 1974 y desde entonces lleva el nombre de la película. Desembarcar en la base del pináculo está ahora restringido porque la roca se está erosionando, así que se contempla desde la playa adyacente.\n\nEl kayak es la parte que una excursión en lancha rápida no puede hacer bien. La caliza de Phang Nga está repleta de cuevas marinas y hongs, sistemas de cuevas colapsadas que se abren a lagunas ocultas dentro de las islas, y las entradas son túneles bajos que solo un kayak puede atravesar, y solo con la marea adecuada. Entra con un remero que sabe qué aberturas son transitables ese día.\n\nKoh Panyee es un pueblo pesquero musulmán construido sobre pilotes contra un acantilado, fundado por familias pescadoras javanesas en el siglo XVIII. Tiene una mezquita, una escuela, y un campo de fútbol flotante que el propio pueblo construyó tras ver un Mundial y decidir que la falta de terreno plano no era razón suficiente para no jugar.\n\nEl longtail es lento y ruidoso en comparación con una lancha rápida. También es el barco que ha recorrido esta bahía durante generaciones, y a su ritmo la bahía se lee como un paisaje en lugar de una serie de paradas.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye la recogida y el regreso al hotel, el longtail con un capitán local, un guía de habla inglesa, piragüismo de mar con un remero, almuerzo tailandés y agua potable.\n\nOcho horas. Las tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario. Un día de aviso mínimo.",
+  "highlights": [
+   "Koh Tapu contemplada desde la playa, como ahora exigen las reglas",
+   "Kayak en cuevas marinas transitables solo con la marea adecuada",
+   "Pueblo sobre pilotes de Koh Panyee y su campo flotante autoconstruido",
+   "Longtail tradicional, el barco que siempre ha recorrido esta bahía",
+   "Piragüismo con un remero que conoce las aberturas del día"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Barco longtail con capitán local",
+   "Guía de habla inglesa",
+   "Piragüismo de mar con remero",
+   "Almuerzo tailandés",
+   "Agua potable y fruta",
+   "Chalecos salvavidas",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada al parque nacional",
+   "Toallas",
+   "Bebidas alcohólicas",
+   "Propinas",
+   "Recuerdos"
+  ]
+ },
+ "hong-island-full-day-tour": {
+  "title": "Excursión de un día a la laguna esmeralda de las islas de Hong y el mirador de 360 grados",
+  "metaTitle": "Islas de Hong: laguna esmeralda y mirador de 360°",
+  "metaDescription": "Deslícese en la laguna esmeralda oculta de la isla de Hong, suba al mirador de 360 grados en el acantilado y nade en playas tranquilas, todo con mucho menos tiempo en barco que Phi Phi.",
+  "shortDescription": "Deslícese en la laguna esmeralda oculta de la isla de Hong, suba al mirador de 360 grados en el acantilado y nade en playas tranquilas, todo con mucho menos tiempo en barco que Phi Phi.",
+  "fullDescription": "Un día completo alrededor del grupo de la isla de Hong, construido en torno a una laguna a la que se entra por una abertura en un acantilado.\n\nLa laguna de Koh Hong es la razón por la que la isla está en todos los itinerarios de Krabi. Es una piscina poco profunda de agua verde casi completamente rodeada de paredes calizas, y la única forma de entrar es un pasaje estrecho que los barcos pueden cruzar en algunas mareas y no en otras. Dentro, las paredes cortan el viento y el agua se aplana, por lo que sale así en las fotografías.\n\nEl mirador requiere una subida, y empinada. La recompensa es todo el grupo insular desplegado abajo con la bahía detrás, y es la foto con la que la gente realmente se queda de un viaje a Krabi.\n\nKo Lao Lading es la otra parada que merece mención: una pequeña isla con un único acantilado en saliente que se inclina sobre una curva de arena. Después de la isla de James Bond, es la formación rocosa más fotografiada de la bahía, y es mucho más tranquila.\n\nEl snorkel se practica sobre arrecife resguardado. Este grupo insular está dentro de la bahía en lugar de hacia Phi Phi, así que el agua sigue siendo navegable en días en que las travesías en mar abierto están agitadas, lo que la convierte en una reserva más fiable en la temporada verde de mayo a octubre.\n\nLos traslados en lancha rápida entre las islas evitan que un día de siete horas se convierta en un día de desplazamientos.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye la recogida y el regreso al hotel, traslados en lancha rápida, un guía de habla inglesa, almuerzo, agua potable y refrescos, y equipo de snorkel.\n\nLas tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario, así que lleve efectivo. Un día de aviso mínimo.",
+  "highlights": [
+   "Laguna de Hong, a la que se entra por un pasaje de acantilado dependiente de la marea",
+   "Subida empinada al mirador insular de 360 grados",
+   "Acantilado en saliente de Ko Lao Lading, mucho más tranquilo que Koh Tapu",
+   "Aguas resguardadas que se mantienen cuando las travesías en mar abierto están agitadas",
+   "Lancha rápida entre islas, así que el día no se pasa desplazándose"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Traslados en lancha rápida entre islas",
+   "Guía de habla inglesa",
+   "Almuerzo",
+   "Agua potable y refrescos",
+   "Equipo de snorkel",
+   "Chalecos salvavidas",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada al parque nacional",
+   "Toallas",
+   "Alcohol",
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
+ "phra-nang-cave-beach-boat-tour": {
+  "title": "Cuatro islas en barco: paradas de snorkel y tiempo de playa",
+  "metaTitle": "Krabi: 4 islas, paradas de snorkel, tiempo de playa",
+  "metaDescription": "Navegue hacia Poda, Tup, la isla del Pollo y Phra Nang en un día compartido en barco en Krabi, con paradas de snorkel, un almuerzo isleño y mucho tiempo de playa sin prisas.",
+  "shortDescription": "Navegue hacia Poda, Tup, la isla del Pollo y Phra Nang en un día compartido en barco en Krabi, con paradas de snorkel, un almuerzo isleño y mucho tiempo de playa sin prisas.",
+  "fullDescription": "Ocho horas completas por las cuatro islas, la versión sin prisas de una ruta que la mayoría de los barcos apresuran.\n\nLa excursión estándar a las islas de Krabi dura cinco o seis horas y mantiene a todos en movimiento. A las ocho horas, las paradas se vuelven lo bastante largas para nadar de verdad, secarse y sentarse. Si su razón para venir a Krabi fue el agua en lugar de una lista de comprobación, las dos horas adicionales marcan la diferencia.\n\nEl snorkel se practica sobre las aguas poco profundas frente a la isla del Pollo, donde el coral está lo bastante cerca de la playa para que los nadadores inseguros lo vean sin perder pie. El banco de arena de marea entre Tup y Mor emerge cuando baja el agua y une las dos islas en una franja transitable a pie, y después desaparece de nuevo, así que el horario sigue la tabla de mareas.\n\nPhra Nang es la parada que la gente recuerda. La playa está bajo un acantilado caliza en saliente en la península de Railay, con el santuario en cueva en un extremo donde los pescadores dejan ofrendas de madera talladas a un espíritu que creen que los mantiene a salvo en el mar. El santuario sigue en uso activo en lugar de ser una exhibición, lo que vale la pena saber antes de apuntar una cámara hacia él.\n\nEl almuerzo se sirve junto a la playa en lugar de en el barco.\n\nLos traslados tienen aire acondicionado, lo que suena insignificante hasta que se ha hecho la carretera costera de Krabi en un songthaew abierto en abril.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye traslados de hotel con aire acondicionado, el barco con un guía de habla inglesa, máscara de snorkel y aletas, almuerzo, agua potable, fruta fresca y chalecos salvavidas.\n\nLas tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario. Un día de aviso mínimo.",
+  "highlights": [
+   "Ocho horas, así que las paradas son lo bastante largas para nadar de verdad",
+   "Snorkel poco profundo frente a la isla del Pollo para nadadores inseguros",
+   "Camine por el banco de arena de marea entre Tup y Mor",
+   "Playa de Phra Nang y su santuario de pescadores en activo",
+   "Traslados con aire acondicionado y almuerzo junto a la playa"
+  ],
+  "included": [
+   "Traslados de hotel con aire acondicionado",
+   "Excursión en barco con guía de habla inglesa",
+   "Máscara de snorkel y aletas",
+   "Almuerzo y agua potable",
+   "Fruta fresca",
+   "Chalecos salvavidas",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada al parque nacional",
+   "Toallas",
+   "Bebidas alcohólicas",
+   "Propinas",
+   "Mejora de spa"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

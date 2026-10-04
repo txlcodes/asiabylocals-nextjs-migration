@@ -44315,6 +44315,98 @@ export const DE_TOURS: Record<string, TourT> = {
    "Hotelabholung außerhalb des angegebenen Gebiets"
   ]
  },
+ "james-bond-island-guided-tour": {
+  "title": "James-Bond-Insel und Phang-Nga-Bucht per traditionellem Longtail",
+  "metaTitle": "James Bond und Phang-Nga-Bucht per Longtail",
+  "metaDescription": "Überqueren Sie die Phang-Nga-Bucht per Longtail-Boot zum durch einen Film berühmt gewordenen Kalksteinfelsen, paddeln Sie durch Meereshöhlen und halten Sie an einem auf dem Wasser gebauten Dorf.",
+  "shortDescription": "Überqueren Sie die Phang-Nga-Bucht per Longtail-Boot zum durch einen Film berühmt gewordenen Kalksteinfelsen, paddeln Sie durch Meereshöhlen und halten Sie an einem auf dem Wasser gebauten Dorf.",
+  "fullDescription": "Die Phang-Nga-Bucht per traditionellem Longtail-Boot statt per Speedboot, was verändert, was Sie erreichen können.\n\nKhao Phing Kan ist die Insel; Koh Tapu ist die Kalksteinnadel vor der Küste, die 1974 in Der Mann mit dem goldenen Colt erschien und seitdem den Namen des Films trägt. Das Anlanden an der Basis des Felsens ist jetzt eingeschränkt, da der Fels erodiert, sodass man ihn vom angrenzenden Strand aus betrachtet.\n\nDas Kajakfahren ist der Teil, den ein Speedboot-Ausflug nicht richtig leisten kann. Phang Ngas Kalkstein ist durchsetzt mit Meereshöhlen und Hongs, eingestürzten Höhlensystemen, die sich zu versteckten Lagunen innerhalb der Inseln öffnen, und die Eingänge sind niedrige Tunnel, die nur ein Kajak passieren kann, und nur bei der richtigen Gezeit. Sie gehen mit einem Paddler hinein, der weiß, welche Öffnungen an diesem Tag passierbar sind.\n\nKoh Panyee ist ein muslimisches Fischerdorf, auf Stelzen gegen eine Klippe gebaut, gegründet von javanischen Fischerfamilien im 18. Jahrhundert. Es hat eine Moschee, eine Schule, und einen schwimmenden Fußballplatz, den das Dorf selbst baute, nachdem es eine Weltmeisterschaft gesehen und entschieden hatte, dass der Mangel an flachem Boden kein guter genug Grund war, nicht zu spielen.\n\nDas Longtail-Boot ist im Vergleich zu einem Speedboot langsam und laut. Es ist auch das Boot, das diese Bucht seit Generationen befährt, und in seinem Tempo liest sich die Bucht als Landschaft statt als eine Reihe von Stopps.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hotelabholung und -rückfahrt, das Longtail-Boot mit einem lokalen Kapitän, einen englischsprachigen Guide, Seekajakfahren mit einem Paddler, thailändisches Mittagessen und Trinkwasser.\n\nAcht Stunden. Nationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Koh Tapu vom Strand aus betrachtet, wie es die Regeln jetzt verlangen",
+   "Kajakfahren in Meereshöhlen, nur bei der richtigen Gezeit passierbar",
+   "Koh Panyees Stelzendorf und sein selbst gebauter schwimmender Fußballplatz",
+   "Traditionelles Longtail-Boot, das Boot, das diese Bucht immer befahren hat",
+   "Kajakfahren mit einem Paddler, der die Öffnungen des Tages kennt"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt",
+   "Longtail-Boot mit lokalem Kapitän",
+   "Englischsprachiger Guide",
+   "Seekajakfahren mit Paddler",
+   "Thailändisches Mittagessen",
+   "Trinkwasser und Obst",
+   "Schwimmwesten",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittsgebühr",
+   "Handtücher",
+   "Alkoholische Getränke",
+   "Trinkgelder",
+   "Souvenirs"
+  ]
+ },
+ "hong-island-full-day-tour": {
+  "title": "Tagesausflug zur Smaragdlagune der Hong-Inseln und zum 360-Grad-Aussichtspunkt",
+  "metaTitle": "Hong-Inseln: Smaragdlagune und 360°-Aussichtspunkt",
+  "metaDescription": "Gleiten Sie in die versteckte Smaragdlagune der Insel Hong, erklimmen Sie den 360-Grad-Aussichtspunkt auf der Klippe und schwimmen Sie an ruhigen Stränden, alles mit deutlich weniger Bootszeit als bei Phi Phi.",
+  "shortDescription": "Gleiten Sie in die versteckte Smaragdlagune der Insel Hong, erklimmen Sie den 360-Grad-Aussichtspunkt auf der Klippe und schwimmen Sie an ruhigen Stränden, alles mit deutlich weniger Bootszeit als bei Phi Phi.",
+  "fullDescription": "Ein voller Tag rund um die Hong-Inselgruppe, aufgebaut um eine Lagune, in die man durch eine Lücke in einer Klippe gelangt.\n\nKoh Hongs Lagune ist der Grund, warum die Insel auf jedem Krabi-Reiseplan steht. Es ist ein flaches Becken aus grünem Wasser, fast vollständig von Kalksteinwänden umschlossen, und der einzige Weg hinein ist eine enge Passage, die Boote bei manchen Gezeiten passieren können und bei anderen nicht. Im Inneren schneiden die Wände den Wind ab und das Wasser wird spiegelglatt, weshalb es so aussieht, wie es fotografiert.\n\nDer Aussichtspunkt erfordert einen Aufstieg, und einen steilen. Die Belohnung ist die gesamte darunter liegende Inselgruppe mit der Bucht dahinter, und es ist das Bild, das die Leute von einer Krabi-Reise tatsächlich behalten.\n\nKo Lao Lading ist der andere Stopp, der es wert ist, genannt zu werden: eine kleine Insel mit einer einzigen überhängenden Klippe, die sich über eine Sandkurve lehnt. Nach der James-Bond-Insel ist es die meistfotografierte Felsformation in der Bucht, und sie ist deutlich ruhiger.\n\nGeschnorchelt wird über geschütztem Riff. Diese Inselgruppe liegt innerhalb der Bucht statt in Richtung Phi Phi, daher bleibt das Wasser an Tagen befahrbar, an denen die offenen Überfahrten rau sind, was es zu einer verlässlicheren Buchung in der grünen Saison von Mai bis Oktober macht.\n\nSpeedboot-Transfers zwischen den Inseln verhindern, dass ein siebenstündiger Tag zu einem Tag voller Reisen wird.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hotelabholung und -rückfahrt, Speedboot-Transfers, einen englischsprachigen Guide, Mittagessen, Trinkwasser und Softdrinks, und Schnorchelausrüstung.\n\nNationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt, führen Sie also Bargeld mit. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Hong-Lagune, durch eine von der Gezeit abhängige Klippenpassage erreicht",
+   "Steiler Aufstieg zum 360-Grad-Inselaussichtspunkt",
+   "Koh Lao Ladings überhängende Klippe, deutlich ruhiger als Koh Tapu",
+   "Geschütztes Wasser, das sich hält, wenn offene Überfahrten rau sind",
+   "Speedboot zwischen den Inseln, sodass der Tag nicht mit Reisen vergeht"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt",
+   "Speedboot-Transfers zwischen den Inseln",
+   "Englischsprachiger Guide",
+   "Mittagessen",
+   "Trinkwasser und Softdrinks",
+   "Schnorchelausrüstung",
+   "Schwimmwesten",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittsgebühr",
+   "Handtücher",
+   "Alkohol",
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "phra-nang-cave-beach-boat-tour": {
+  "title": "Vier Inseln per Boot: Schnorchelstopps und Strandzeit",
+  "metaTitle": "Krabi: 4 Inseln, Schnorchelstopps, Strandzeit",
+  "metaDescription": "Segeln Sie hinaus zu Poda, Tup, Chicken Island und Phra Nang an einem geteilten Krabi-Bootstag, mit Schnorchelstopps, einem Inselmittagessen und viel unhetziger Strandzeit.",
+  "shortDescription": "Segeln Sie hinaus zu Poda, Tup, Chicken Island und Phra Nang an einem geteilten Krabi-Bootstag, mit Schnorchelstopps, einem Inselmittagessen und viel unhetziger Strandzeit.",
+  "fullDescription": "Volle acht Stunden über die vier Inseln, die unhetzige Version einer Route, die die meisten Boote hetzen.\n\nDie Standard-Krabi-Inseltour läuft fünf oder sechs Stunden und hält alle in Bewegung. Bei acht Stunden werden die Stopps lang genug, um wirklich zu schwimmen, abzutrocknen und sich zu setzen. Wenn Ihr Grund, nach Krabi zu kommen, das Wasser statt einer Checkliste war, machen die zusätzlichen zwei Stunden den Unterschied.\n\nGeschnorchelt wird über den Flachwassern vor Chicken Island, wo die Korallen nah genug am Strand liegen, dass schwache Schwimmer sie sehen können, ohne tiefer zu gehen. Die Gezeiten-Sandbank zwischen Tup und Mor taucht auf, während das Wasser sinkt, und verbindet die beiden Inseln zu einem begehbaren Streifen, dann verschwindet sie wieder, daher richtet sich das Timing nach dem Gezeitenkalender.\n\nPhra Nang ist der Stopp, an den sich die Leute erinnern. Der Strand liegt unter einer überhängenden Kalksteinklippe auf der Railay-Halbinsel, mit dem Höhlenschrein an einem Ende, an dem Fischer geschnitzte Holzopfer für einen Geist hinterlassen, den sie für ihre Sicherheit auf See verantwortlich machen. Der Schrein wird noch aktiv genutzt statt nur präsentiert zu werden, was es wert ist zu wissen, bevor man eine Kamera darauf richtet.\n\nMittagessen wird am Strand serviert statt auf dem Boot.\n\nDie Transfers sind klimatisiert, was unbedeutend klingt, bis man die Krabi-Küstenstraße in einem offenen Songthaew im April erlebt hat.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst klimatisierte Hoteltransfers, das Boot mit einem englischsprachigen Guide, Schnorchelmaske und Flossen, Mittagessen, Trinkwasser, frisches Obst und Schwimmwesten.\n\nNationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Acht Stunden, also lange genug für echtes Schwimmen an den Stopps",
+   "Flaches Schnorcheln vor Chicken Island für schwache Schwimmer",
+   "Begehen Sie die Gezeiten-Sandbank zwischen Tup und Mor",
+   "Phra-Nang-Strand und sein aktiv genutzter Fischer-Schrein",
+   "Klimatisierte Transfers und Mittagessen am Strand"
+  ],
+  "included": [
+   "Klimatisierte Hoteltransfers",
+   "Bootsfahrt mit englischsprachigem Guide",
+   "Schnorchelmaske und Flossen",
+   "Mittagessen und Trinkwasser",
+   "Frisches Obst",
+   "Schwimmwesten",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittsgebühr",
+   "Handtücher",
+   "Alkoholische Getränke",
+   "Trinkgelder",
+   "Spa-Upgrade"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

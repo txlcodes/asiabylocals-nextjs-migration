@@ -44316,6 +44316,98 @@ export const FR_TOURS: Record<string, TourT> = {
    "Prise en charge à l'hôtel hors de la zone indiquée"
   ]
  },
+ "james-bond-island-guided-tour": {
+  "title": "Île de James Bond et baie de Phang Nga en longtail traditionnel",
+  "metaTitle": "James Bond et baie de Phang Nga en longtail",
+  "metaDescription": "Traversez la baie de Phang Nga en bateau à longue queue jusqu'au piton calcaire rendu célèbre par un film, pagayez à travers des grottes marines et arrêtez-vous dans un village construit au-dessus de l'eau.",
+  "shortDescription": "Traversez la baie de Phang Nga en bateau à longue queue jusqu'au piton calcaire rendu célèbre par un film, pagayez à travers des grottes marines et arrêtez-vous dans un village construit au-dessus de l'eau.",
+  "fullDescription": "La baie de Phang Nga en bateau à longue queue traditionnel plutôt qu'en hors-bord, ce qui change ce que vous pouvez atteindre.\n\nKhao Phing Kan est l'île ; Koh Tapu est l'aiguille calcaire au large qui est apparue dans L'Homme au pistolet d'or en 1974 et porte depuis le nom du film. Débarquer à la base du piton est désormais restreint car le rocher s'érode, donc on l'observe depuis la plage adjacente.\n\nLe kayak est la partie qu'une excursion en hors-bord ne peut pas faire correctement. Le calcaire de Phang Nga est parsemé de grottes marines et de hongs, des systèmes de grottes effondrées qui s'ouvrent sur des lagons cachés à l'intérieur des îles, et les entrées sont des tunnels bas que seul un kayak peut franchir, et seulement à la bonne marée. Vous y entrez avec un pagayeur qui sait quelles ouvertures sont praticables ce jour-là.\n\nKoh Panyee est un village de pêcheurs musulmans construit sur pilotis contre une falaise, fondé par des familles de pêcheurs javanais au dix-huitième siècle. Il possède une mosquée, une école, et un terrain de football flottant que le village a lui-même construit après avoir regardé une Coupe du monde et décidé que l'absence de terrain plat n'était pas une raison suffisante pour ne pas jouer.\n\nLe bateau à longue queue est lent et bruyant comparé à un hors-bord. C'est aussi le bateau qui parcourt cette baie depuis des générations, et à son rythme, la baie se lit comme un paysage plutôt que comme une série d'arrêts.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la prise en charge et le retour à l'hôtel, le longtail avec un capitaine local, un guide anglophone, du kayak de mer avec un pagayeur, le déjeuner thaïlandais et l'eau potable.\n\nHuit heures. Les frais de parc national sont perçus à la jetée sauf confirmation contraire. Un jour de préavis minimum.",
+  "highlights": [
+   "Koh Tapu observée depuis la plage, comme l'exigent désormais les règles",
+   "Kayak dans des grottes marines praticables uniquement à la bonne marée",
+   "Village sur pilotis de Koh Panyee et son terrain flottant autoconstruit",
+   "Bateau à longue queue traditionnel, celui qui a toujours parcouru cette baie",
+   "Kayak avec un pagayeur qui connaît les ouvertures du jour"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Bateau à longue queue avec capitaine local",
+   "Guide anglophone",
+   "Kayak de mer avec pagayeur",
+   "Déjeuner thaïlandais",
+   "Eau potable et fruits",
+   "Gilets de sauvetage",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Frais d'entrée du parc national",
+   "Serviettes",
+   "Boissons alcoolisées",
+   "Pourboires",
+   "Souvenirs"
+  ]
+ },
+ "hong-island-full-day-tour": {
+  "title": "Excursion d'une journée au lagon émeraude des îles de Hong et au point de vue à 360 degrés",
+  "metaTitle": "Îles de Hong : lagon émeraude et point de vue à 360°",
+  "metaDescription": "Glissez-vous dans le lagon émeraude caché de l'île de Hong, grimpez jusqu'au point de vue à 360 degrés sur la falaise et baignez-vous sur des plages tranquilles, avec bien moins de temps en bateau que pour Phi Phi.",
+  "shortDescription": "Glissez-vous dans le lagon émeraude caché de l'île de Hong, grimpez jusqu'au point de vue à 360 degrés sur la falaise et baignez-vous sur des plages tranquilles, avec bien moins de temps en bateau que pour Phi Phi.",
+  "fullDescription": "Une journée complète autour du groupe des îles de Hong, construite autour d'un lagon accessible par une ouverture dans une falaise.\n\nLe lagon de Koh Hong est la raison pour laquelle l'île figure sur chaque itinéraire de Krabi. C'est un bassin peu profond d'eau verte presque entièrement clos par des parois calcaires, et le seul moyen d'y entrer est un passage étroit que les bateaux peuvent franchir à certaines marées mais pas à d'autres. À l'intérieur, les parois coupent le vent et l'eau devient plate, ce qui explique les photographies qu'on en voit.\n\nLe point de vue nécessite une montée, et une montée raide. La récompense est tout le groupe insulaire étalé en dessous avec la baie derrière, et c'est la photo que les gens gardent réellement d'un voyage à Krabi.\n\nKo Lao Lading est l'autre arrêt qui vaut la peine d'être mentionné : une petite île avec une unique falaise en surplomb penchée au-dessus d'une courbe de sable. Après l'île de James Bond, c'est la formation rocheuse la plus photographiée de la baie, et elle est bien plus tranquille.\n\nLa plongée avec tuba se fait sur un récif abrité. Ce groupe insulaire se trouve à l'intérieur de la baie plutôt que vers Phi Phi, donc l'eau y reste praticable les jours où les traversées en haute mer sont agitées, ce qui en fait une réservation plus fiable pendant la saison verte de mai à octobre.\n\nLes transferts en hors-bord entre les îles empêchent une journée de sept heures de devenir une journée de trajets.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la prise en charge et le retour à l'hôtel, les transferts en hors-bord, un guide anglophone, le déjeuner, l'eau potable et les boissons non alcoolisées, et l'équipement de plongée avec tuba.\n\nLes frais de parc national sont perçus à la jetée sauf confirmation contraire, prévoyez donc des espèces. Un jour de préavis minimum.",
+  "highlights": [
+   "Lagon de Hong, accessible par un passage de falaise dépendant de la marée",
+   "Montée raide jusqu'au point de vue insulaire à 360 degrés",
+   "Falaise en surplomb de Koh Lao Lading, bien plus tranquille que Koh Tapu",
+   "Eau abritée qui reste praticable quand les traversées en haute mer sont agitées",
+   "Hors-bord entre les îles, donc la journée ne se passe pas en trajets"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Transferts en hors-bord entre les îles",
+   "Guide anglophone",
+   "Déjeuner",
+   "Eau potable et boissons non alcoolisées",
+   "Équipement de plongée avec tuba",
+   "Gilets de sauvetage",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Frais d'entrée du parc national",
+   "Serviettes",
+   "Alcool",
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
+ "phra-nang-cave-beach-boat-tour": {
+  "title": "Quatre îles en bateau : arrêts de plongée avec tuba et temps de plage",
+  "metaTitle": "Krabi : 4 îles, arrêts tuba et temps de plage",
+  "metaDescription": "Naviguez vers Poda, Tup, l'île du Poulet et Phra Nang lors d'une journée partagée en bateau à Krabi, avec des arrêts de plongée avec tuba, un déjeuner insulaire et beaucoup de temps de plage sans précipitation.",
+  "shortDescription": "Naviguez vers Poda, Tup, l'île du Poulet et Phra Nang lors d'une journée partagée en bateau à Krabi, avec des arrêts de plongée avec tuba, un déjeuner insulaire et beaucoup de temps de plage sans précipitation.",
+  "fullDescription": "Huit heures complètes à travers les quatre îles, la version sans précipitation d'un circuit que la plupart des bateaux font à la hâte.\n\nL'excursion insulaire standard de Krabi dure cinq ou six heures et maintient tout le monde en mouvement. À huit heures, les arrêts deviennent assez longs pour réellement nager, se sécher et s'asseoir. Si votre raison de venir à Krabi était l'eau plutôt qu'une liste à cocher, les deux heures supplémentaires font toute la différence.\n\nLa plongée avec tuba se fait sur les eaux peu profondes au large de l'île du Poulet, où le corail se trouve assez proche de la plage pour que les nageurs peu assurés puissent le voir sans s'éloigner. Le banc de sable à marée entre Tup et Mor émerge à mesure que l'eau descend et relie les deux îles en une bande praticable à pied, puis disparaît de nouveau, donc le programme suit le tableau des marées.\n\nPhra Nang est l'arrêt dont les gens se souviennent. La plage se trouve sous une falaise calcaire en surplomb sur la péninsule de Railay, avec le sanctuaire en grotte à une extrémité où les pêcheurs laissent des offrandes en bois sculpté à un esprit qu'ils croient les protéger en mer. Le sanctuaire est toujours en usage actif plutôt qu'une simple exposition, ce qui vaut la peine de savoir avant de pointer un appareil photo vers lui.\n\nLe déjeuner est servi en bord de plage plutôt que sur le bateau.\n\nLes transferts sont climatisés, ce qui paraît mineur jusqu'à ce qu'on ait fait la route côtière de Krabi dans un songthaew ouvert en avril.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend les transferts climatisés à l'hôtel, le bateau avec un guide anglophone, le masque de plongée avec tuba et les palmes, le déjeuner, l'eau potable, les fruits frais et les gilets de sauvetage.\n\nLes frais de parc national sont perçus à la jetée sauf confirmation contraire. Un jour de préavis minimum.",
+  "highlights": [
+   "Huit heures, donc des arrêts assez longs pour réellement nager",
+   "Plongée avec tuba peu profonde au large de l'île du Poulet pour nageurs peu assurés",
+   "Marchez sur le banc de sable à marée entre Tup et Mor",
+   "Plage de Phra Nang et son sanctuaire de pêcheurs encore en usage",
+   "Transferts climatisés et déjeuner en bord de plage"
+  ],
+  "included": [
+   "Transferts climatisés à l'hôtel",
+   "Excursion en bateau avec guide anglophone",
+   "Masque de plongée avec tuba et palmes",
+   "Déjeuner et eau potable",
+   "Fruits frais",
+   "Gilets de sauvetage",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Frais d'entrée du parc national",
+   "Serviettes",
+   "Boissons alcoolisées",
+   "Pourboires",
+   "Surclassement spa"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
