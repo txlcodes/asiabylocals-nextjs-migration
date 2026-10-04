@@ -43970,6 +43970,84 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "krabi-4-islands-snorkeling-and-clownfish-by-local-operator": {
+  "title": "Krabi 4 islas, snorkel y peces payaso por operador local",
+  "metaTitle": "Krabi: 4 islas, snorkel y peces payaso",
+  "metaDescription": "Excursión de medio día en Krabi, con recogida y regreso al hotel (zonas seleccionadas) y excursión en barco a las 4 islas. Organizada por Sea Lovers Tour, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de medio día en Krabi, con recogida y regreso al hotel (zonas seleccionadas) y excursión en barco a las 4 islas. Organizada por Sea Lovers Tour, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Las cuatro islas organizadas como una excursión de snorkel, con las colonias de peces payaso como el verdadero objetivo de la salida.\n\nLos peces payaso viven dentro de anémonas de mar en una asociación que funciona en ambos sentidos: los tentáculos urticantes de la anémona mantienen a los depredadores alejados del pez, y el pez ahuyenta a los comedores de pólipos que de otro modo pastarían la anémona. Los peces están recubiertos de una capa de mucosidad que evita que la anémona dispare contra ellos. También son ferozmente territoriales para su tamaño, y un macho residente se enfrentará a una máscara que se acerque demasiado, algo que vale la pena experimentar al menos una vez.\n\nLas colonias aquí están en aguas poco profundas cerca de las playas, lo que convierte esto en un buen snorkel para quienes no son nadadores fuertes. En varios lugares se puede estar de pie.\n\nEl resto de la ruta es el circuito estándar: Poda, la isla del Pollo, Tup y Mor, con el banco de arena de Thale Waek transitable a pie cuando la marea baja lo suficiente para unirlas.\n\nEl guía es local y elige las paradas de snorkel el mismo día, porque qué arrecife merece la pena depende de la marea y de cuánto haya soplado el viento.\n\nSeis horas es una duración cómoda: lo bastante larga para nadar de verdad en cada parada, lo bastante corta para dejarle una tarde libre.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye la recogida y el regreso al hotel en zonas seleccionadas, la excursión en barco a las cuatro islas, equipo de snorkel, un chaleco salvavidas y un guía local profesional.\n\nLas tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario. Un día de aviso mínimo.",
+  "highlights": [
+   "Colonias de peces payaso en aguas poco profundas cerca de la playa",
+   "Lo bastante poco profundo para hacer pie en varias paradas",
+   "Poda, la isla del Pollo, Tup y Mor en el mismo circuito",
+   "Paradas de snorkel elegidas el mismo día por un guía local",
+   "Seis horas, así que queda una tarde libre después"
+  ],
+  "included": [
+   "Recogida y regreso al hotel (zonas seleccionadas)",
+   "Excursión en barco a las 4 islas",
+   "Equipo de snorkel",
+   "Chaleco salvavidas",
+   "Guía local profesional",
+   "Almuerzo",
+   "Agua potable y fruta de temporada",
+   "Seguro de accidentes básico"
+  ],
+  "notIncluded": [
+   "Toallas",
+   "Gastos personales",
+   "Tarifas del parque nacional"
+  ]
+ },
+ "1-hour-atv-adventure-through-beautiful-nature-in-krabi": {
+  "title": "Aventura de ATV de 1 hora por la hermosa naturaleza en Krabi",
+  "metaTitle": "Krabi: aventura de ATV de 1 hora en la naturaleza",
+  "metaDescription": "Excursión de hora y media en Krabi, con paseo en ATV y recogida y regreso al hotel. Organizada por Love Nature Krabi Travel and Tours, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de hora y media en Krabi, con paseo en ATV y recogida y regreso al hotel. Organizada por Love Nature Krabi Travel and Tours, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Una hora en los senderos detrás de Krabi, la versión corta para quienes quieren el paseo sin sacrificar medio día.\n\nLa ruta discurre por plantaciones de caucho y palma aceitera en caminos de arcilla roja, con afloramientos calizos elevándose de los campos a ambos lados. Es un Krabi distinto de la costa que llena los folletos: tierra agrícola en activo, a pocos kilómetros tierra adentro, donde el terreno es ondulado en lugar de plano.\n\nEl estado de los senderos sigue la temporada. De noviembre a abril, la arcilla está firme y rápida. A partir de mayo, la lluvia la convierte en barro de verdad, lo que la mayoría de los participantes considera la mejor versión aunque nadie permanezca limpio.\n\nNo se requiere licencia ni se presupone experiencia previa. Hay una charla y un breve circuito de práctica antes de que el guía dirija la salida, y el ritmo lo marca el piloto más lento en lugar del más rápido. Una hora es suficiente para familiarizarse con la máquina y aun así sentir que ha conducido algo de verdad.\n\nUse ropa y calzado cerrado que no le importe arruinar. Las lentillas y el polvo no combinan bien, así que las gafas son la mejor opción si tiene ambas cosas.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye el paseo en ATV, la recogida y el regreso al hotel, un guía profesional de habla inglesa, fruta de temporada, agua potable, equipo de seguridad y seguro de viaje.\n\nNoventa minutos incluyendo traslados, un día de aviso mínimo.",
+  "highlights": [
+   "Senderos de arcilla por plantaciones de caucho y palma",
+   "Firmes y rápidos de noviembre a abril, fangosos tras mayo",
+   "No se necesita licencia ni experiencia de conducción",
+   "Charla y circuito de práctica antes de salir",
+   "Recogida en el hotel, equipo de seguridad, fruta y agua incluidos"
+  ],
+  "included": [
+   "Paseo en ATV",
+   "Recogida y regreso al hotel",
+   "Guía profesional de habla inglesa",
+   "Deliciosa fruta de temporada",
+   "Agua potable",
+   "Equipo de seguridad",
+   "Seguro de viaje"
+  ],
+  "notIncluded": []
+ },
+ "railay-beach-sunset-and-bioluminescent-plankton-swim": {
+  "title": "Atardecer en la playa de Railay y baño de plancton bioluminiscente",
+  "metaTitle": "Railay: atardecer y plancton bioluminiscente",
+  "metaDescription": "Excursión de medio día en Krabi, con guía turístico y caja de aperitivos. Organizada por Barracudas Tour, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de medio día en Krabi, con guía turístico y caja de aperitivos. Organizada por Barracudas Tour, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Una velada que se divide claramente en dos: atardecer sobre los promontorios calizos de Railay, y después un baño en agua que se ilumina a su alrededor.\n\nEl barco sale de Ao Nang a última hora de la tarde y cruza hacia la península de Railay, que no tiene ningún acceso por carretera. Los karst que convierten a Railay en una de las grandes paredes de escalada del mundo se vuelven naranjas y después rojo intenso mientras el sol se pone detrás de Phra Nang, y la playa se vacía a medida que los excursionistas de un día regresan. Disfruta del tramo de arena en su momento más tranquilo.\n\nDespués del anochecer, el barco se traslada a aguas tranquilas y el guía hace que todos entren. El brillo proviene de dinoflagelados, plancton unicelular que emite luz cuando se perturba el agua a su alrededor, así que cada patada y movimiento de mano deja un rastro de chispas azules y verdes. Es un fenómeno real y no una garantía nocturna: el espectáculo es más intenso en noches oscuras cercanas a la luna nueva, y más débil cuando la luna está llena o el mar está agitado. Pregunte sobre la fase lunar al elegir una fecha.\n\nBarracudas Tour organiza esta excursión y reservamos directamente con ellos, así que su plaza queda retenida con el operador antes de que la reserva se considere definitiva. El precio incluye su guía, una caja de aperitivos, una esterilla de playa, agua potable, una bandeja de fruta, un chaleco salvavidas, seguro de accidentes y traslados en la zona de Ao Nang.\n\nTraiga una toalla y ropa seca para cambiarse. Cuatro horas, saliendo desde Ao Nang, un día de aviso mínimo.",
+  "highlights": [
+   "Atardecer desde Railay, accesible solo en barco",
+   "Baño en plancton bioluminiscente tras el anochecer",
+   "Más brillante en noches oscuras cercanas a la luna nueva",
+   "Guía, caja de aperitivos, fruta y agua potable incluidos",
+   "Traslados en la zona de Ao Nang y chalecos salvavidas proporcionados"
+  ],
+  "included": [
+   "Guía turístico",
+   "Caja de aperitivos",
+   "Esterilla de playa",
+   "Agua potable",
+   "Bandeja de fruta",
+   "Chaleco salvavidas",
+   "Seguro de accidentes hasta 1 millón de THB",
+   "Servicio de traslado (zona de Ao Nang)"
+  ],
+  "notIncluded": []
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

@@ -43970,6 +43970,83 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "krabi-4-islands-snorkeling-and-clownfish-by-local-operator": {
+  "title": "Krabi 4 Inseln, Schnorcheln und Clownfische von lokalem Anbieter",
+  "metaTitle": "Krabi: 4 Inseln, Schnorcheln und Clownfische",
+  "metaDescription": "Halbtagesausflug in Krabi, mit Hotelabholung und -rückfahrt (ausgewählte Gebiete) und Bootsfahrt zu den 4 Inseln. Organisiert von Sea Lovers Tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbtagesausflug in Krabi, mit Hotelabholung und -rückfahrt (ausgewählte Gebiete) und Bootsfahrt zu den 4 Inseln. Organisiert von Sea Lovers Tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Die vier Inseln als Schnorchelausflug durchgeführt, mit den Clownfisch-Kolonien als dem eigentlichen Grund hinzufahren.\n\nClownfische leben in Seeanemonen in einer Partnerschaft, die in beide Richtungen funktioniert: Die stechenden Tentakel der Anemone halten Raubtiere von den Fischen fern, und die Fische vertreiben die Polypenfresser, die sonst die Anemone abgrasen würden. Die Fische sind mit einer Schleimschicht bedeckt, die verhindert, dass die Anemone auf sie schießt. Sie sind auch für ihre Größe heftig territorial, und ein ansässiges Männchen wird sich einer Maske entgegenstellen, die zu nahe kommt, was es wert ist, mindestens einmal selbst zu erleben.\n\nDie Kolonien hier liegen in flachem Wasser nahe den Stränden, was dies zu einem guten Schnorchelausflug für Leute macht, die keine starken Schwimmer sind. An mehreren Stellen kann man stehen.\n\nDer Rest der Route ist der Standardrundgang: Poda, Chicken Island, Tup und Mor, mit der Thale-Waek-Sandbank, die begehbar ist, wenn die Flut weit genug sinkt, um sie zu verbinden.\n\nDer Guide ist lokal und wählt die Schnorchelstopps am Tag selbst, denn welches Riff die Zeit wert ist, hängt von der Flut und davon ab, wie stark der Wind war.\n\nSechs Stunden sind eine angenehme Länge: lang genug, um an jedem Stopp richtig zu schwimmen, kurz genug, um Ihnen einen Abend zu lassen.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hotelabholung und -rückfahrt in ausgewählten Gebieten, die Bootsfahrt zu den vier Inseln, Schnorchelausrüstung, eine Schwimmweste und einen professionellen lokalen Guide.\n\nNationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Clownfisch-Kolonien in flachem Wasser nahe dem Strand",
+   "Flach genug, um an mehreren Stopps zu stehen",
+   "Poda, Chicken Island, Tup und Mor auf derselben Tour",
+   "Schnorchelstopps am Tag selbst von einem lokalen Guide gewählt",
+   "Sechs Stunden, also bleibt danach ein Abend"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt (ausgewählte Gebiete)",
+   "Bootsfahrt zu den 4 Inseln",
+   "Schnorchelausrüstung",
+   "Schwimmweste",
+   "Professioneller lokaler Guide",
+   "Mittagessen",
+   "Trinkwasser und Saisonobst",
+   "Grundlegende Unfallversicherung"
+  ],
+  "notIncluded": [
+   "Handtücher",
+   "Persönliche Ausgaben",
+   "Nationalpark-Gebühren"
+  ]
+ },
+ "1-hour-atv-adventure-through-beautiful-nature-in-krabi": {
+  "title": "1-stündiges ATV-Abenteuer durch wunderschöne Natur in Krabi",
+  "metaTitle": "Krabi: 1-stündiges ATV-Abenteuer in der Natur",
+  "metaDescription": "Anderthalbstündiger Ausflug in Krabi, mit ATV-Fahrt und Hotelabholung und -rückfahrt. Organisiert von Love Nature Krabi Travel and Tours, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Anderthalbstündiger Ausflug in Krabi, mit ATV-Fahrt und Hotelabholung und -rückfahrt. Organisiert von Love Nature Krabi Travel and Tours, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Eine Stunde auf den Pfaden hinter Krabi, die kurze Version für alle, die die Fahrt wollen, ohne einen halben Tag aufzugeben.\n\nDie Route führt durch Kautschuk- und Ölpalmen-Plantagen auf roten Lehmpfaden, mit Kalksteinaufschlüssen, die auf beiden Seiten aus den Feldern aufragen. Es ist ein anderes Krabi als die Küstenlinie, die die Broschüren füllt: aktives Agrarland, ein paar Kilometer landeinwärts, wo das Gelände hügelig statt flach ist.\n\nDer Zustand der Pfade folgt der Saison. Von November bis April ist der Lehm fest und schnell. Ab Mai verwandelt der Regen ihn in richtigen Schlamm, was die meisten Fahrer als die bessere Version empfinden, obwohl niemand sauber bleibt.\n\nKein Führerschein ist erforderlich und keine vorherige Erfahrung wird vorausgesetzt. Es gibt ein Briefing und eine kurze Übungsschleife, bevor der Guide hinausführt, und das Tempo wird vom langsamsten statt vom schnellsten Fahrer bestimmt. Eine Stunde reicht, um sich an der Maschine wohlzufühlen und trotzdem das Gefühl zu haben, etwas wirklich gefahren zu sein.\n\nTragen Sie Kleidung und geschlossene Schuhe, deren Ruinierung Ihnen nichts ausmacht. Kontaktlinsen und Staub passen nicht zusammen, daher ist eine Brille die bessere Wahl, wenn Sie beides haben.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst die ATV-Fahrt, Hotelabholung und -rückfahrt, einen professionellen englischsprachigen Guide, Saisonobst, Trinkwasser, Sicherheitsausrüstung und Reiseversicherung.\n\nNeunzig Minuten einschließlich Transfers, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Lehmpfade durch Kautschuk- und Palmenplantagen",
+   "Fest und schnell von November bis April, schlammig nach Mai",
+   "Kein Führerschein oder Fahrerfahrung nötig",
+   "Briefing und Übungsschleife vor der Abfahrt",
+   "Hotelabholung, Sicherheitsausrüstung, Obst und Wasser inklusive"
+  ],
+  "included": [
+   "ATV-Fahrt",
+   "Hotelabholung und -rückfahrt",
+   "Professioneller englischsprachiger Guide",
+   "Köstliches Saisonobst",
+   "Trinkwasser",
+   "Sicherheitsausrüstung",
+   "Reiseversicherung"
+  ],
+  "notIncluded": []
+ },
+ "railay-beach-sunset-and-bioluminescent-plankton-swim": {
+  "title": "Sonnenuntergang am Railay Beach und Schwimmen im biolumineszenten Plankton",
+  "metaTitle": "Railay: Sonnenuntergang und biolumineszentes Plankton",
+  "metaDescription": "Halbtagesausflug in Krabi, mit Reiseleiter und Snackbox. Organisiert von Barracudas Tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbtagesausflug in Krabi, mit Reiseleiter und Snackbox. Organisiert von Barracudas Tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Ein Abend, der sich klar in zwei Teile gliedert: Sonnenuntergang über Railays Kalksteinvorgebirgen, dann ein Schwimmen in Wasser, das um Sie herum aufleuchtet.\n\nDas Boot verlässt Ao Nang am späten Nachmittag und fährt hinüber zur Railay-Halbinsel, die überhaupt keinen Straßenzugang hat. Die Karstfelsen, die Railay zu einer der großen Kletterwände der Welt machen, werden orange und dann tiefrot, während die Sonne hinter Phra Nang untergeht, und der Strand leert sich, während die Tagesausflügler zurückkehren. Sie erleben den Sandabschnitt zu seiner ruhigsten Zeit.\n\nNach Einbruch der Dunkelheit fährt das Boot zu ruhigem Wasser, und der Guide bringt alle ins Wasser. Das Leuchten kommt von Dinoflagellaten, einzelligem Plankton, das Licht abgibt, wenn das Wasser um sie herum gestört wird, sodass jeder Tritt und jede Handbewegung eine Spur blaugrüner Funken hinterlässt. Es ist ein echtes Phänomen und keine allnächtliche Garantie: Das Leuchten ist am stärksten in dunklen Nächten um den Neumond, und am schwächsten, wenn der Mond voll ist oder das Meer aufgewühlt ist. Fragen Sie nach der Mondphase, wenn Sie ein Datum wählen.\n\nBarracudas Tour organisiert diesen Ausflug und wir buchen direkt mit ihnen, sodass Ihr Platz beim Anbieter gesichert wird, bevor die Buchung als endgültig behandelt wird. Der Preis umfasst Ihren Guide, eine Snackbox, eine Strandmatte, Trinkwasser, eine Obstplatte, eine Schwimmweste, Unfallversicherung und Transfers im Gebiet Ao Nang.\n\nBringen Sie ein Handtuch und trockene Kleidung zum Wechseln mit. Vier Stunden, Abfahrt ab Ao Nang, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Sonnenuntergang von Railay, nur per Boot erreichbar",
+   "Schwimmen im biolumineszenten Plankton nach Einbruch der Dunkelheit",
+   "Am hellsten in dunklen Nächten nahe dem Neumond",
+   "Guide, Snackbox, Obst und Trinkwasser inklusive",
+   "Ao-Nang-Transfers und Schwimmwesten gestellt"
+  ],
+  "included": [
+   "Reiseleiter",
+   "Snackbox",
+   "Strandmatte",
+   "Trinkwasser",
+   "Obstplatte",
+   "Unfallversicherung bis zu 1 Million THB",
+   "Transferservice (Ao-Nang-Gebiet)"
+  ],
+  "notIncluded": []
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

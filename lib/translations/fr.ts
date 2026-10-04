@@ -43970,6 +43970,84 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "krabi-4-islands-snorkeling-and-clownfish-by-local-operator": {
+  "title": "Krabi, 4 îles, plongée avec tuba et poissons-clowns par un opérateur local",
+  "metaTitle": "Krabi : 4 îles, tuba et poissons-clowns",
+  "metaDescription": "Excursion d'une demi-journée à Krabi, incluant prise en charge et retour à l'hôtel (zones sélectionnées) et excursion en bateau vers les 4 îles. Organisée par Sea Lovers Tour, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une demi-journée à Krabi, incluant prise en charge et retour à l'hôtel (zones sélectionnées) et excursion en bateau vers les 4 îles. Organisée par Sea Lovers Tour, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Les quatre îles organisées comme une excursion de plongée avec tuba, avec les colonies de poissons-clowns comme véritable objectif de la sortie.\n\nLes poissons-clowns vivent dans des anémones de mer selon un partenariat qui fonctionne dans les deux sens : les tentacules urticants de l'anémone tiennent les prédateurs à l'écart du poisson, et le poisson chasse les mangeurs de polypes qui autrement grignoteraient l'anémone. Les poissons sont recouverts d'une couche de mucus qui empêche l'anémone de les piquer. Ils sont également farouchement territoriaux pour leur taille, et un mâle résident fera face à un masque qui s'approche trop, ce qui vaut la peine de vivre au moins une fois.\n\nLes colonies ici se trouvent en eau peu profonde proche des plages, ce qui en fait une bonne séance de plongée avec tuba pour les nageurs peu assurés. À plusieurs endroits, on peut tenir debout.\n\nLe reste du circuit est le parcours standard : Poda, l'île du Poulet, Tup et Mor, avec le banc de sable de Thale Waek praticable à pied quand la marée descend suffisamment pour les relier.\n\nLe guide est local et choisit les arrêts de plongée avec tuba le jour même, car quel récif vaut le temps dépend de la marée et de la mesure dans laquelle le vent a soufflé.\n\nSix heures est une durée confortable : assez longue pour nager réellement à chaque arrêt, assez courte pour vous laisser une soirée.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la prise en charge et le retour à l'hôtel dans les zones sélectionnées, l'excursion en bateau vers les quatre îles, l'équipement de plongée avec tuba, un gilet de sauvetage et un guide local professionnel.\n\nLes frais de parc national sont perçus à la jetée sauf confirmation contraire. Un jour de préavis minimum.",
+  "highlights": [
+   "Colonies de poissons-clowns en eau peu profonde proche de la plage",
+   "Assez peu profond pour tenir debout à plusieurs arrêts",
+   "Poda, l'île du Poulet, Tup et Mor sur le même circuit",
+   "Arrêts de plongée avec tuba choisis le jour même par un guide local",
+   "Six heures, donc une soirée libre ensuite"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel (zones sélectionnées)",
+   "Excursion en bateau vers les 4 îles",
+   "Équipement de plongée avec tuba",
+   "Gilet de sauvetage",
+   "Guide local professionnel",
+   "Déjeuner",
+   "Eau potable et fruits de saison",
+   "Assurance accident de base"
+  ],
+  "notIncluded": [
+   "Serviettes",
+   "Dépenses personnelles",
+   "Frais de parc national"
+  ]
+ },
+ "1-hour-atv-adventure-through-beautiful-nature-in-krabi": {
+  "title": "Aventure en quad d'une heure à travers une nature magnifique à Krabi",
+  "metaTitle": "Krabi : aventure en quad d'une heure dans la nature",
+  "metaDescription": "Excursion d'une heure et demie à Krabi, incluant une balade en quad et une prise en charge et retour à l'hôtel. Organisée par Love Nature Krabi Travel and Tours, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une heure et demie à Krabi, incluant une balade en quad et une prise en charge et retour à l'hôtel. Organisée par Love Nature Krabi Travel and Tours, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Une heure sur les sentiers derrière Krabi, la version courte pour ceux qui veulent la balade sans sacrifier une demi-journée.\n\nLe circuit traverse des plantations d'hévéas et de palmiers à huile sur des pistes d'argile rouge, avec des affleurements calcaires s'élevant des champs de part et d'autre. C'est un Krabi différent du littoral qui remplit les brochures : des terres agricoles en activité, à quelques kilomètres à l'intérieur, où le terrain est vallonné plutôt que plat.\n\nL'état des pistes suit la saison. De novembre à avril, l'argile est ferme et rapide. À partir de mai, la pluie la transforme en véritable boue, ce que la plupart des pilotes trouvent être la meilleure version même si personne ne reste propre.\n\nAucun permis n'est requis et aucune expérience préalable n'est présumée. Il y a un briefing et une courte boucle d'entraînement avant que le guide ne mène le groupe, et le rythme est fixé par le pilote le plus lent plutôt que le plus rapide. Une heure suffit pour se familiariser avec la machine et avoir tout de même l'impression d'avoir vraiment roulé.\n\nPortez des vêtements et des chaussures fermées que vous ne regretterez pas d'abîmer. Les lentilles de contact et la poussière ne font pas bon ménage, donc les lunettes sont le meilleur choix si vous avez les deux.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la balade en quad, la prise en charge et le retour à l'hôtel, un guide professionnel anglophone, des fruits de saison, de l'eau potable, l'équipement de sécurité et une assurance voyage.\n\nQuatre-vingt-dix minutes incluant les transferts, un jour de préavis minimum.",
+  "highlights": [
+   "Pistes d'argile à travers des plantations d'hévéas et de palmiers",
+   "Fermes et rapides de novembre à avril, boueuses après mai",
+   "Aucun permis ni expérience de conduite nécessaire",
+   "Briefing et boucle d'entraînement avant le départ",
+   "Prise en charge à l'hôtel, équipement de sécurité, fruits et eau compris"
+  ],
+  "included": [
+   "Balade en quad",
+   "Prise en charge et retour à l'hôtel",
+   "Guide professionnel anglophone",
+   "Délicieux fruits de saison",
+   "Eau potable",
+   "Équipement de sécurité",
+   "Assurance voyage"
+  ],
+  "notIncluded": []
+ },
+ "railay-beach-sunset-and-bioluminescent-plankton-swim": {
+  "title": "Coucher de soleil à la plage de Railay et baignade dans le plancton bioluminescent",
+  "metaTitle": "Railay : coucher de soleil et plancton bioluminescent",
+  "metaDescription": "Excursion d'une demi-journée à Krabi, incluant un guide touristique et un panier-collation. Organisée par Barracudas Tour, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une demi-journée à Krabi, incluant un guide touristique et un panier-collation. Organisée par Barracudas Tour, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Une soirée qui se divise nettement en deux : coucher de soleil sur les promontoires calcaires de Railay, puis une baignade dans une eau qui s'illumine autour de vous.\n\nLe bateau quitte Ao Nang en fin d'après-midi et traverse vers la péninsule de Railay, qui n'a aucun accès routier. Les pitons calcaires qui font de Railay l'une des plus grandes parois d'escalade du monde virent à l'orange puis au rouge profond tandis que le soleil se couche derrière Phra Nang, et la plage se vide à mesure que les excursionnistes d'une journée rentrent. Vous profitez de l'étendue de sable à son moment le plus tranquille.\n\nAprès la tombée de la nuit, le bateau se déplace vers des eaux calmes et le guide fait entrer tout le monde dans l'eau. La lueur provient de dinoflagellés, un plancton unicellulaire qui émet de la lumière lorsque l'eau autour est perturbée, donc chaque coup de pied et balayage de main laisse une traînée d'étincelles bleu-vert. C'est un phénomène réel et non une garantie nocturne : le spectacle est le plus intense les nuits sombres proches de la nouvelle lune, et le plus faible quand la lune est pleine ou que la mer est agitée. Renseignez-vous sur la phase de la lune lorsque vous choisissez une date.\n\nBarracudas Tour organise cette excursion et nous réservons directement avec eux, votre place est donc retenue auprès de l'opérateur avant que la réservation ne soit considérée comme définitive. Le prix comprend votre guide, un panier-collation, un tapis de plage, de l'eau potable, un plateau de fruits, un gilet de sauvetage, une assurance accident et les transferts dans la zone d'Ao Nang.\n\nApportez une serviette et des vêtements secs pour vous changer. Quatre heures, départ depuis Ao Nang, un jour de préavis minimum.",
+  "highlights": [
+   "Coucher de soleil depuis Railay, accessible uniquement par bateau",
+   "Baignade dans le plancton bioluminescent après la tombée de la nuit",
+   "Spectacle le plus intense les nuits sombres proches de la nouvelle lune",
+   "Guide, panier-collation, fruits et eau potable compris",
+   "Transferts dans la zone d'Ao Nang et gilets de sauvetage fournis"
+  ],
+  "included": [
+   "Guide touristique",
+   "Panier-collation",
+   "Tapis de plage",
+   "Eau potable",
+   "Plateau de fruits",
+   "Gilet de sauvetage",
+   "Assurance accident jusqu'à 1 million de THB",
+   "Service de transfert (zone d'Ao Nang)"
+  ],
+  "notIncluded": []
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
