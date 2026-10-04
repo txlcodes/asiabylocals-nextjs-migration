@@ -45566,6 +45566,65 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ]
  },
+ "thai-cooking-class-in-sukhumvit-market-tour-mango": {
+  "title": "Meilleur cours de cuisine thaïlandaise à Sukhumvit / visite du marché - Mangue",
+  "metaTitle": "Cours de cuisine thaïlandaise à Sukhumvit",
+  "metaDescription": "Rejoignez l'un des cours de cuisine thaïlandaise les mieux notés à Sukhumvit, avec un véritable marché local à seulement 2 minutes de marche.",
+  "shortDescription": "Rejoignez l'un des cours de cuisine thaïlandaise les mieux notés à Sukhumvit, avec un véritable marché local à seulement 2 minutes de marche.",
+  "fullDescription": "Rejoignez l'un des cours de cuisine thaïlandaise les mieux notés à Sukhumvit, avec un véritable marché local à seulement 2 minutes de marche.",
+  "highlights": [
+   "Véritable visite du marché (2 minutes à pied, pas de transport)"
+  ],
+  "included": [
+   "Guide parlant anglais",
+   "Visite telle que décrite"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
+ "backstreets-food-tour-with-15-tastings": {
+  "title": "Bangkok : visite gastronomique des ruelles avec plus de 15 dégustations",
+  "metaTitle": "Bangkok : visite gastronomique des ruelles",
+  "metaDescription": "Plongez dans la scène culinaire nocturne de Bangkok. Avec plus de 15 dégustations, explorez marchés, stands de rue et coins cachés où les habitants préparent des recettes séculaires.",
+  "shortDescription": "Plongez dans la scène culinaire nocturne de Bangkok. Avec plus de 15 dégustations, explorez marchés, stands de rue et coins cachés où les habitants préparent des recettes séculaires.",
+  "fullDescription": "Plongez dans la scène culinaire nocturne de Bangkok lors de cette visite à pied à travers les ruelles du quartier chinois (Yaowarat), l'une des plus grandes destinations de street food au monde.\n\nAu coucher du soleil, la route de Yaowarat se transforme. Les grilles au charbon s'allument, les woks commencent à rugir, et les étroites ruelles latérales se remplissent de l'odeur des fruits de mer grillés, des bouillons mijotés et du sucre caramélisé. C'est ici que les habitants de Bangkok viennent manger, et sur cette visite, vous suivrez un guide culinaire local au-delà des stands touristiques évidents, vers les coins cachés où se fait la vraie cuisine.\n\nAu cours de la soirée, vous profiterez de plus de 15 dégustations, la plus grande variété de toute visite gastronomique de la ville. Vous grignoterez à travers des marchés animés, des stands de rue familiaux et des restaurants discrets, en goûtant tout, des classiques thaïlandais-chinois aux spécialités régionales et aux douceurs traditionnelles. En chemin, votre guide partage les histoires derrière les plats : comment le quartier chinois a façonné la culture culinaire de Bangkok, quelles familles tiennent leurs stands depuis des générations, et quoi commander lors de votre prochaine visite.\n\nC'est une expérience détendue, sociale, de marche et de dégustation en petit groupe, parfaite pour les mangeurs curieux qui veulent comprendre Bangkok à travers sa nourriture, pas seulement la photographier. Venez l'estomac vide : à la fin, vous serez très, très rassasié.",
+  "highlights": [
+   "Goûtez à plus de 15 dégustations, la plus grande variété de toute visite gastronomique de Bangkok",
+   "Explorez le quartier chinois de Bangkok (Yaowarat) après la nuit tombée, quand la scène de street food s'anime",
+   "Mangez où mangent les habitants, marchés, stands de rue et coins cachés des ruelles",
+   "Essayez des recettes séculaires cuisinées de la même façon depuis des générations",
+   "Sortez des sentiers touristiques avec un guide culinaire local compétent",
+   "Marche du soir en petit groupe avec de quoi bien manger, venez affamé"
+  ],
+  "included": [
+   "Guide parlant anglais",
+   "Visite telle que décrite"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
+ "mahanakhon-skywalk-entry-ticket-with-options": {
+  "title": "Bangkok : billet d'entrée au Mahanakhon SkyWalk avec options",
+  "metaTitle": "Bangkok : billet Mahanakhon SkyWalk",
+  "metaDescription": "Obtenez des billets d'entrée pour le Mahanakhon Skywalk à Bangkok, le plus haut observatoire de Thaïlande à 314 mètres. Profitez d'un observatoire extérieur, d'une passerelle en verre, et d'options de bar sur le toit ou d'expériences SkyRide.",
+  "shortDescription": "Obtenez des billets d'entrée pour le Mahanakhon Skywalk à Bangkok, le plus haut observatoire de Thaïlande à 314 mètres. Profitez d'un observatoire extérieur, d'une passerelle en verre, et d'options de bar sur le toit ou d'expériences SkyRide.",
+  "fullDescription": "Obtenez des billets d'entrée pour le Mahanakhon Skywalk à Bangkok, le plus haut observatoire de Thaïlande à 314 mètres. Profitez d'un observatoire extérieur, d'une passerelle en verre, et d'options de bar sur le toit ou d'expériences SkyRide.",
+  "highlights": [
+   "Découvrez le plus haut observatoire de Thaïlande au Mahanakhon SkyWalk"
+  ],
+  "included": [
+   "Guide parlant anglais",
+   "Visite telle que décrite"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

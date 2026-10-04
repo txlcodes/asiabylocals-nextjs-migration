@@ -45565,6 +45565,65 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "thai-cooking-class-in-sukhumvit-market-tour-mango": {
+  "title": "Bester Thai-Kochkurs in Sukhumvit / Markttour - Mango",
+  "metaTitle": "Thai-Kochkurs in Sukhumvit",
+  "metaDescription": "Nehmen Sie an einem der bestbewerteten Thai-Kochkurse in Sukhumvit teil, mit einem echten lokalen Markt nur 2 Minuten entfernt.",
+  "shortDescription": "Nehmen Sie an einem der bestbewerteten Thai-Kochkurse in Sukhumvit teil, mit einem echten lokalen Markt nur 2 Minuten entfernt.",
+  "fullDescription": "Nehmen Sie an einem der bestbewerteten Thai-Kochkurse in Sukhumvit teil, mit einem echten lokalen Markt nur 2 Minuten entfernt.",
+  "highlights": [
+   "Echte Markttour (2 Minuten zu Fuß, kein Transport)"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Tour wie beschrieben"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "backstreets-food-tour-with-15-tastings": {
+  "title": "Bangkok: Streetfood-Tour durch die Seitenstraßen mit über 15 Verkostungen",
+  "metaTitle": "Bangkok: Streetfood-Tour Seitenstraßen",
+  "metaDescription": "Tauchen Sie tief in die nächtliche Food-Szene Bangkoks ein. Bei über 15 Verkostungen erkunden Sie Märkte, Straßenstände und versteckte Ecken, wo Einheimische traditionsreiche Rezepte kochen.",
+  "shortDescription": "Tauchen Sie tief in die nächtliche Food-Szene Bangkoks ein. Bei über 15 Verkostungen erkunden Sie Märkte, Straßenstände und versteckte Ecken, wo Einheimische traditionsreiche Rezepte kochen.",
+  "fullDescription": "Tauchen Sie bei dieser Wandertour durch die Seitenstraßen von Chinatown (Yaowarat), eines der größten Streetfood-Ziele der Welt, tief in die nächtliche Food-Szene Bangkoks ein.\n\nWenn die Sonne untergeht, verwandelt sich die Yaowarat-Straße. Holzkohlegrills werden angefeuert, Woks beginnen zu brodeln, und die engen Seitengassen füllen sich mit dem Geruch von gegrilltem Meeresfrüchten, köchelnden Brühen und karamellisierendem Zucker. Hierhin kommen die Bangkoker zum Essen, und auf dieser Tour folgen Sie einem lokalen Food-Guide vorbei an den offensichtlichen Touristenständen hinein in die versteckten Ecken, wo das echte Kochen stattfindet.\n\nIm Laufe des Abends genießen Sie über 15 Verkostungen, die größte Vielfalt jeder Food-Tour in der Stadt. Sie grasen sich durch belebte Märkte, familiengeführte Straßenstände und versteckte Lokale und probieren alles von thailändisch-chinesischen Klassikern bis zu regionalen Spezialitäten und traditionellen Süßigkeiten. Dabei teilt Ihr Guide die Geschichten hinter den Gerichten: wie Chinatown Bangkoks Essenskultur geprägt hat, welche Familien ihre Stände seit Generationen führen, und was Sie bei Ihrem nächsten Besuch bestellen sollten.\n\nEs ist ein entspanntes, soziales Geh-und-Ess-Erlebnis in einer kleinen Gruppe, perfekt für neugierige Esser, die Bangkok durch sein Essen verstehen wollen, nicht nur fotografieren. Kommen Sie mit leerem Magen: am Ende werden Sie sehr, sehr satt sein.",
+  "highlights": [
+   "Probieren Sie über 15 Verkostungen, die größte Vielfalt jeder Bangkok-Food-Tour",
+   "Erkunden Sie Bangkoks Chinatown (Yaowarat) nach Einbruch der Dunkelheit, wenn die Streetfood-Szene lebendig wird",
+   "Essen Sie, wo Einheimische essen, Märkte, Straßenstände und versteckte Ecken der Seitenstraßen",
+   "Probieren Sie traditionsreiche Rezepte, die seit Generationen auf dieselbe Weise gekocht werden",
+   "Verlassen Sie den Touristenpfad mit einem kenntnisreichen lokalen Food-Guide",
+   "Abendlicher Spaziergang in Kleingruppe mit viel zu essen, kommen Sie hungrig"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Tour wie beschrieben"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "mahanakhon-skywalk-entry-ticket-with-options": {
+  "title": "Bangkok: Mahanakhon-SkyWalk-Eintrittskarte mit Optionen",
+  "metaTitle": "Bangkok: Mahanakhon-SkyWalk-Ticket",
+  "metaDescription": "Holen Sie sich Eintrittskarten für den Mahanakhon Skywalk in Bangkok, Thailands höchste Aussichtsplattform auf 314 Metern. Genießen Sie ein Außenobservatorium, eine Glas-Skywalk und optionale Rooftop-Bar- oder SkyRide-Erlebnisse.",
+  "shortDescription": "Holen Sie sich Eintrittskarten für den Mahanakhon Skywalk in Bangkok, Thailands höchste Aussichtsplattform auf 314 Metern. Genießen Sie ein Außenobservatorium, eine Glas-Skywalk und optionale Rooftop-Bar- oder SkyRide-Erlebnisse.",
+  "fullDescription": "Holen Sie sich Eintrittskarten für den Mahanakhon Skywalk in Bangkok, Thailands höchste Aussichtsplattform auf 314 Metern. Genießen Sie ein Außenobservatorium, eine Glas-Skywalk und optionale Rooftop-Bar- oder SkyRide-Erlebnisse.",
+  "highlights": [
+   "Erleben Sie Thailands höchste Aussichtsplattform beim Mahanakhon SkyWalk"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Tour wie beschrieben"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

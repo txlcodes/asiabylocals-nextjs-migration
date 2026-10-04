@@ -45566,6 +45566,65 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "thai-cooking-class-in-sukhumvit-market-tour-mango": {
+  "title": "Mejor clase de cocina tailandesa en Sukhumvit / tour del mercado - Mango",
+  "metaTitle": "Clase de cocina tailandesa en Sukhumvit",
+  "metaDescription": "Únase a una de las clases de cocina tailandesa mejor valoradas en Sukhumvit, con un verdadero mercado local a solo 2 minutos de distancia.",
+  "shortDescription": "Únase a una de las clases de cocina tailandesa mejor valoradas en Sukhumvit, con un verdadero mercado local a solo 2 minutos de distancia.",
+  "fullDescription": "Únase a una de las clases de cocina tailandesa mejor valoradas en Sukhumvit, con un verdadero mercado local a solo 2 minutos de distancia.",
+  "highlights": [
+   "Verdadero tour del mercado (2 minutos a pie, sin transporte)"
+  ],
+  "included": [
+   "Guía de habla inglesa",
+   "Tour según lo descrito"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
+ "backstreets-food-tour-with-15-tastings": {
+  "title": "Bangkok: tour gastronómico por callejuelas con más de 15 degustaciones",
+  "metaTitle": "Bangkok: tour gastronómico por callejuelas",
+  "metaDescription": "Sumérjase en la escena gastronómica nocturna de Bangkok. Con más de 15 degustaciones, explore mercados, puestos de comida callejera y rincones escondidos donde los lugareños preparan recetas tradicionales.",
+  "shortDescription": "Sumérjase en la escena gastronómica nocturna de Bangkok. Con más de 15 degustaciones, explore mercados, puestos de comida callejera y rincones escondidos donde los lugareños preparan recetas tradicionales.",
+  "fullDescription": "Sumérjase profundamente en la escena gastronómica nocturna de Bangkok en este tour a pie por las callejuelas del barrio chino (Yaowarat), uno de los mejores destinos de comida callejera del mundo.\n\nCuando se pone el sol, la calle Yaowarat se transforma. Las parrillas de carbón se encienden, los woks comienzan a rugir, y los estrechos callejones laterales se llenan del olor a mariscos a la parrilla, caldos a fuego lento y azúcar caramelizando. Aquí es donde los habitantes de Bangkok vienen a comer, y en este tour seguirá a un guía gastronómico local más allá de los puestos turísticos obvios hacia los rincones escondidos donde ocurre la cocina real.\n\nA lo largo de la noche disfrutará de más de 15 degustaciones, la mayor variedad de cualquier tour gastronómico de la ciudad. Picoteará a través de mercados bulliciosos, puestos de calle familiares y restaurantes escondidos, probando desde clásicos tailandeses-chinos hasta especialidades regionales y dulces tradicionales. En el camino, su guía comparte las historias detrás de los platos: cómo el barrio chino moldeó la cultura gastronómica de Bangkok, qué familias han gestionado sus puestos durante generaciones, y qué pedir en su próxima visita.\n\nEs una experiencia relajada, social, de caminar y comer en un grupo pequeño, perfecta para comensales curiosos que quieren entender Bangkok a través de su comida, no solo fotografiarla. Venga con el estómago vacío: al final estará muy, muy lleno.",
+  "highlights": [
+   "Pruebe más de 15 degustaciones, la mayor variedad de cualquier tour gastronómico de Bangkok",
+   "Explore el barrio chino de Bangkok (Yaowarat) después del anochecer, cuando la escena de comida callejera cobra vida",
+   "Coma donde comen los lugareños, mercados, puestos de calle y rincones escondidos de callejuelas",
+   "Pruebe recetas tradicionales cocinadas de la misma manera durante generaciones",
+   "Salga de la ruta turística con un guía gastronómico local experto",
+   "Caminata nocturna en grupo pequeño con mucho para comer, venga con hambre"
+  ],
+  "included": [
+   "Guía de habla inglesa",
+   "Tour según lo descrito"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
+ "mahanakhon-skywalk-entry-ticket-with-options": {
+  "title": "Bangkok: entrada al Mahanakhon SkyWalk con opciones",
+  "metaTitle": "Bangkok: entrada Mahanakhon SkyWalk",
+  "metaDescription": "Obtenga entradas para el Mahanakhon Skywalk en Bangkok, el mirador más alto de Tailandia a 314 metros. Disfrute de un observatorio al aire libre, una pasarela de cristal, y opciones de bar en la azotea o experiencias SkyRide.",
+  "shortDescription": "Obtenga entradas para el Mahanakhon Skywalk en Bangkok, el mirador más alto de Tailandia a 314 metros. Disfrute de un observatorio al aire libre, una pasarela de cristal, y opciones de bar en la azotea o experiencias SkyRide.",
+  "fullDescription": "Obtenga entradas para el Mahanakhon Skywalk en Bangkok, el mirador más alto de Tailandia a 314 metros. Disfrute de un observatorio al aire libre, una pasarela de cristal, y opciones de bar en la azotea o experiencias SkyRide.",
+  "highlights": [
+   "Experimente el mirador más alto de Tailandia en el Mahanakhon SkyWalk"
+  ],
+  "included": [
+   "Guía de habla inglesa",
+   "Tour según lo descrito"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",
