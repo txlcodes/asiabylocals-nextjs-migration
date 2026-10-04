@@ -44578,6 +44578,91 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "ao-nang-through-bike-tour": {
+  "title": "Paseo en ATV en Khlong Son por las verdes colinas de Krabi",
+  "metaTitle": "Khlong Son: ATV en las colinas de Krabi",
+  "metaDescription": "Una hora a los mandos de su propio ATV por los senderos forestales y de colina de Khlong Son, con amplias vistas sobre las montañas de Krabi y recogida en el hotel.",
+  "shortDescription": "Una hora a los mandos de su propio ATV por los senderos forestales y de colina de Khlong Son, con amplias vistas sobre las montañas de Krabi y recogida en el hotel.",
+  "fullDescription": "Khlong Son se encuentra en los pliegues de las colinas detrás de la costa de Krabi, un paisaje de bosque, plantación y caminos de tierra que apenas aparece en el mapa turístico. Es campo tranquilo, y la mejor forma de recorrerlo es en un ATV, donde marca su propio ritmo y se detiene cada vez que una vista lo merece.\n\nTras una charla y un breve calentamiento en terreno llano, sale a un circuito de una hora. El sendero sube constantemente a través de la cubierta forestal, cruza plantaciones abiertas con crestas montañosas en el horizonte, y desciende por un par de barrancos que mantienen las cosas interesantes. Los guías conducen con el grupo todo el tiempo y ajustan la dificultad de la ruta a los pilotos que tienen, así que un grupo familiar y unos buscadores de emociones viven días bastante distintos en el mismo sendero.\n\nLa recogida en el hotel está disponible desde Ao Nang y Klong Muang, lo que convierte esto en un fácil complemento de media mañana o última hora de la tarde a unas vacaciones de playa. Las salidas de última hora captan la luz en su mejor momento sobre las colinas.",
+  "highlights": [
+   "Una hora completa conduciendo su propio ATV",
+   "Senderos de bosque y montaña en el tranquilo Khlong Son",
+   "Amplias vistas sobre las crestas y plantaciones de Krabi",
+   "Dificultad de la ruta adaptada a su grupo",
+   "Recogida disponible desde Ao Nang y Klong Muang"
+  ],
+  "included": [
+   "Paseo en ATV de una hora con combustible",
+   "Casco y equipo de protección",
+   "Instrucción y sesión de calentamiento",
+   "Guía que acompaña al grupo",
+   "Agua embotellada",
+   "Recogida en el hotel desde Ao Nang y Klong Muang",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Comidas y aperitivos",
+   "Paquete de fotos",
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
+ "ao-nang-backcountry-guided-tour": {
+  "title": "Paseo en ATV por el interior de Krabi: barro, selva y senderos de colina",
+  "metaTitle": "Krabi interior: ATV, barro, selva, colinas",
+  "metaDescription": "Tome el volante de su propio ATV y enfrente senderos fangosos de selva, senderos de plantación de caucho y una subida de colina con grandes vistas sobre el campo de Krabi.",
+  "shortDescription": "Tome el volante de su propio ATV y enfrente senderos fangosos de selva, senderos de plantación de caucho y una subida de colina con grandes vistas sobre el campo de Krabi.",
+  "fullDescription": "Diez minutos tierra adentro desde Ao Nang, los resorts desaparecen y la carretera se convierte en tierra roja. Aquí es donde discurre la red de senderos, cortando a través de plantaciones de caucho, palmerales y tramos de selva que absorben el sonido de los motores. En un ATV cubre terreno que ningún tour en minibús alcanzará jamás.\n\nConduce su propia máquina después de una lección práctica en un circuito de práctica, así que el acelerador, los frenos y las curvas se convierten en algo natural antes de que comience el sendero real. Un guía líder marca el ritmo al frente y un segundo piloto barre al final, lo que significa que los pilotos rápidos tienen su diversión y los principiantes nerviosos nunca se sienten rezagados. La ruta combina caminos de plantación llanos con subidas con surcos, cruces de agua y el barro que hace que todo esto merezca la pena.\n\nA mitad de camino se detiene en un claro en la cima de una colina con vistas a los picos kársticos y el valle verde abajo, recupera el aliento y toma fotos antes del descenso. Los pilotos deben tener al menos dieciséis años para conducir; los niños más pequeños pueden ir como pasajeros.",
+  "highlights": [
+   "Conduzca su propio ATV por senderos reales de selva y plantación",
+   "Circuito de práctica y charla completa antes de empezar",
+   "Cruce tramos de barro y cruces de agua",
+   "Parada en un mirador en la cima de una colina sobre el paisaje kárstico",
+   "Guías líder y de cierre para cubrir todos los ritmos"
+  ],
+  "included": [
+   "Alquiler de ATV y combustible",
+   "Casco y equipo de seguridad",
+   "Instrucción de conducción y sesión de práctica",
+   "Guías de sendero experimentados",
+   "Agua potable",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Traslado de hotel",
+   "Comidas",
+   "Paquete de fotos y vídeo",
+   "Propinas"
+  ]
+ },
+ "ao-thalane-guided-tour": {
+  "title": "Kayak en Ao Thalane: cañones calizos y calas de monos",
+  "metaTitle": "Ao Thalane: kayak, cañones calizos, monos",
+  "metaDescription": "Dos horas de remo fácil por los cañones calizos y vías de agua de manglar de Ao Thalane, con macacos salvajes en las orillas y traslados de hotel en ambos sentidos.",
+  "shortDescription": "Dos horas de remo fácil por los cañones calizos y vías de agua de manglar de Ao Thalane, con macacos salvajes en las orillas y traslados de hotel en ambos sentidos.",
+  "fullDescription": "La mayoría de los visitantes de Krabi nunca pasan de las playas de las islas, por eso Ao Thalane todavía se siente como un secreto local. Esta bahía está al norte de Ao Nang, donde un laberinto de vías de agua de manglar atraviesa paredes calizas escarpadas, y la única forma práctica de entrar es en kayak. El agua está resguardada durante todo el año, así que el remo se mantiene tranquilo incluso cuando el mar abierto está agitado.\n\nPasa aproximadamente dos horas en el agua. Su guía le lleva a cañones estrechos donde los acantilados se cierran por ambos lados y el sonido casi desaparece, y después a través de canales bordeados de raíces de manglar donde macacos comedores de cangrejos se alimentan junto al agua. Garzas, peces saltarines y algún varano ocasional completan el resto del reparto.\n\nLa excursión completa dura de cuatro a cinco horas de puerta a puerta contando los traslados. Los kayaks tienen capacidad para dos, los guías reman junto al grupo, y los principiantes son genuinamente bienvenidos; si puede sentarse en un barco, puede hacer esta excursión.",
+  "highlights": [
+   "Reme hacia el interior de estrechos cañones calizos",
+   "Observe macacos comedores de cangrejos junto a las orillas de manglar",
+   "Agua resguardada adecuada para principiantes completos",
+   "Grupos pequeños con un guía remando junto a ellos",
+   "Recogida y regreso al hotel en ambos sentidos"
+  ],
+  "included": [
+   "Traslado de ida y vuelta al hotel",
+   "Guía de kayak local",
+   "Kayak de dos plazas, remo y chaleco salvavidas",
+   "Agua potable",
+   "Bolsa seca",
+   "Seguro de accidentes"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Bebidas alcohólicas",
+   "Propinas para el guía y el conductor",
+   "Objetos personales"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

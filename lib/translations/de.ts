@@ -44577,6 +44577,91 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "ao-nang-through-bike-tour": {
+  "title": "Khlong-Son-Quad-Fahrt durch Krabis grüne Hügel",
+  "metaTitle": "Khlong Son: Quad in Krabis Hügeln",
+  "metaDescription": "Eine Stunde an den Steuern Ihres eigenen Quads durch Khlong Sons Waldpfade und Hügelwege, mit weitläufigen Ausblicken über Krabis Berge und Hotelabholung.",
+  "shortDescription": "Eine Stunde an den Steuern Ihres eigenen Quads durch Khlong Sons Waldpfade und Hügelwege, mit weitläufigen Ausblicken über Krabis Berge und Hotelabholung.",
+  "fullDescription": "Khlong Son liegt in den Falten der Hügel hinter Krabis Küstenlinie, eine Landschaft aus Wald, Plantage und Erdpfad, die auf der Touristenkarte kaum erscheint. Es ist ruhiges Land, und der beste Weg hindurch ist auf einem Quad, wo man sein eigenes Tempo wählt und anhält, wann immer eine Aussicht es verlangt.\n\nNach einem Briefing und einem kurzen Aufwärmen auf flachem Boden geht es auf eine einstündige Schleife. Der Pfad steigt stetig durch Waldbedeckung, kreuzt offene Plantagen mit Bergkämmen am Horizont, und fällt durch ein paar Schluchten, die die Sache spannend halten. Guides fahren durchgehend mit der Gruppe und passen die Schwierigkeit der Route an die vorhandenen Fahrer an, sodass eine Familiengruppe und eine Reihe von Adrenalinsuchenden ganz unterschiedliche Tage auf demselben Pfad erleben.\n\nHotelabholung ist ab Ao Nang und Klong Muang verfügbar, was dies zu einer leichten Ergänzung für einen halben Morgen oder späten Nachmittag zu einem Strandurlaub macht. Abfahrten am späten Tag fangen das Licht über den Hügeln zu seiner besten Zeit ein.",
+  "highlights": [
+   "Eine volle Stunde Ihr eigenes Quad fahren",
+   "Wald- und Bergpfade im ruhigen Khlong Son",
+   "Weite Ausblicke über Krabis Bergkämme und Plantagen",
+   "Routenschwierigkeit auf Ihre Gruppe abgestimmt",
+   "Abholung ab Ao Nang und Klong Muang verfügbar"
+  ],
+  "included": [
+   "Einstündige ATV-Fahrt mit Kraftstoff",
+   "Helm und Schutzausrüstung",
+   "Anleitung und Aufwärmsession",
+   "Guide, der die Gruppe begleitet",
+   "Flaschenwasser",
+   "Hotelabholung ab Ao Nang und Klong Muang",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Snacks",
+   "Fotopaket",
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "ao-nang-backcountry-guided-tour": {
+  "title": "Krabi-Hinterland-ATV-Fahrt: Schlamm, Dschungel und Hügelpfade",
+  "metaTitle": "Krabi Hinterland: ATV, Schlamm, Dschungel, Hügel",
+  "metaDescription": "Übernehmen Sie das Steuer Ihres eigenen Quads und bewältigen Sie schlammige Dschungelpfade, Kautschukplantagen-Pfade und einen Hügelaufstieg mit großartigen Ausblicken über die Landschaft von Krabi.",
+  "shortDescription": "Übernehmen Sie das Steuer Ihres eigenen Quads und bewältigen Sie schlammige Dschungelpfade, Kautschukplantagen-Pfade und einen Hügelaufstieg mit großartigen Ausblicken über die Landschaft von Krabi.",
+  "fullDescription": "Zehn Minuten landeinwärts von Ao Nang verschwinden die Resorts und die Straße wird zu rotem Lehm. Hier verläuft das Pfadnetz, durch Kautschukplantagen, Palmenhaine und Dschungelabschnitte, die den Motorlärm verschlucken. Auf einem Quad decken Sie Gelände ab, das kein Minivan-Ausflug je erreichen wird.\n\nSie fahren Ihre eigene Maschine nach einer praktischen Lektion auf einer Übungsschleife, sodass Gas, Bremsen und Kurvenfahren zur zweiten Natur werden, bevor der eigentliche Pfad beginnt. Ein Leitguide gibt das Tempo vor der Gruppe vor, und ein zweiter Fahrer fegt hinten, was bedeutet, dass schnelle Fahrer ihren Spaß haben und nervöse Erstlinge sich nie zurückgelassen fühlen. Die Route mischt flache Plantagenwege mit ausgefahrenen Anstiegen, Wasserdurchfahrten und dem Schlamm, der das Ganze lohnenswert macht.\n\nAuf halbem Weg parken Sie auf einer Lichtung auf einem Hügel mit Blick über die Karstgipfel und das grüne Tal darunter, verschnaufen und machen Fotos vor dem Abstieg. Fahrer sollten mindestens sechzehn sein, um selbst zu fahren; jüngere Kinder können als Beifahrer mitfahren.",
+  "highlights": [
+   "Fahren Sie Ihr eigenes ATV auf echten Dschungel- und Plantagenpfaden",
+   "Übungsschleife und vollständiges Briefing vor der Fahrt",
+   "Durchqueren Sie Schlammabschnitte und Wasserdurchfahrten",
+   "Stopp an einem Hügel-Aussichtspunkt über die Karstlandschaft",
+   "Leit- und Nachhut-Guides, sodass jedes Tempo abgedeckt ist"
+  ],
+  "included": [
+   "ATV-Vermietung und Kraftstoff",
+   "Helm und Sicherheitsausrüstung",
+   "Fahranleitung und Übungssession",
+   "Erfahrene Pfad-Guides",
+   "Trinkwasser",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Hoteltransfer",
+   "Mahlzeiten",
+   "Foto- und Videopaket",
+   "Trinkgelder"
+  ]
+ },
+ "ao-thalane-guided-tour": {
+  "title": "Kajakfahren in Ao Thalane: Kalksteincanyons und Affenbuchten",
+  "metaTitle": "Ao Thalane: Kajak, Kalksteincanyons, Affen",
+  "metaDescription": "Zwei Stunden leichtes Paddeln durch Ao Thalanes Kalksteincanyons und Mangrovenwasserwege, mit wilden Makaken an den Ufern und Hoteltransfers in beide Richtungen.",
+  "shortDescription": "Zwei Stunden leichtes Paddeln durch Ao Thalanes Kalksteincanyons und Mangrovenwasserwege, mit wilden Makaken an den Ufern und Hoteltransfers in beide Richtungen.",
+  "fullDescription": "Die meisten Krabi-Besucher kommen nie über die Inselstrände hinaus, weshalb sich Ao Thalane noch wie ein lokales Geheimnis anfühlt. Diese Bucht liegt nördlich von Ao Nang, wo sich ein Labyrinth von Mangrovenwasserwegen zwischen senkrechten Kalksteinwänden hindurchschneidet, und der einzige praktische Weg hinein ist per Kajak. Das Wasser ist ganzjährig geschützt, sodass das Paddeln auch ruhig bleibt, wenn die offene See rau ist.\n\nSie verbringen etwa zwei Stunden auf dem Wasser. Ihr Guide führt Sie in enge Canyons, wo sich die Klippen von beiden Seiten schließen und der Schall fast völlig verschwindet, dann hinaus durch Kanäle, die von Mangrovenwurzeln eingerahmt werden, wo krabbenfressende Makaken am Wasserrand nach Nahrung suchen. Reiher, Schlammspringer und gelegentlich eine Waran-Echse ergänzen den Rest der Besetzung.\n\nDer gesamte Ausflug dauert vier bis fünf Stunden von Tür zu Tür, wenn man die Transfers mitzählt. Kajaks bieten Platz für zwei, Guides paddeln neben der Gruppe, und Anfänger sind wirklich willkommen; wenn Sie in einem Boot sitzen können, können Sie diesen Ausflug machen.",
+  "highlights": [
+   "Paddeln Sie tief in enge Kalksteincanyons",
+   "Beobachten Sie krabbenfressende Makaken entlang der Mangrovenufer",
+   "Geschütztes Wasser, geeignet für komplette Anfänger",
+   "Kleine Gruppen mit einem neben der Gruppe paddelnden Guide",
+   "Hotelabholung und -rückfahrt in beide Richtungen"
+  ],
+  "included": [
+   "Hin- und Rück-Hoteltransfer",
+   "Lokaler Kajak-Guide",
+   "Zweisitzer-Kajak, Paddel und Schwimmweste",
+   "Trinkwasser",
+   "Trockenbeutel",
+   "Unfallversicherung"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Alkoholische Getränke",
+   "Trinkgelder für Guide und Fahrer",
+   "Persönliche Gegenstände"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

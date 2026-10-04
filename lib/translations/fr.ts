@@ -44578,6 +44578,91 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "ao-nang-through-bike-tour": {
+  "title": "Balade en quad à Khlong Son à travers les collines verdoyantes de Krabi",
+  "metaTitle": "Khlong Son : quad dans les collines de Krabi",
+  "metaDescription": "Une heure aux commandes de votre propre quad à travers les pistes forestières et les sentiers de colline de Khlong Son, avec des vues panoramiques sur les montagnes de Krabi et prise en charge à l'hôtel.",
+  "shortDescription": "Une heure aux commandes de votre propre quad à travers les pistes forestières et les sentiers de colline de Khlong Son, avec des vues panoramiques sur les montagnes de Krabi et prise en charge à l'hôtel.",
+  "fullDescription": "Khlong Son se trouve dans les plis des collines derrière le littoral de Krabi, un paysage de forêt, de plantation et de pistes de terre qui apparaît à peine sur la carte touristique. C'est une campagne tranquille, et la meilleure façon de la traverser est en quad, où vous fixez votre propre rythme et vous arrêtez chaque fois qu'un point de vue le mérite.\n\nAprès un briefing et un court échauffement sur terrain plat, vous partez pour une boucle d'une heure. Le sentier monte régulièrement à travers le couvert forestier, traverse des plantations ouvertes avec des crêtes montagneuses à l'horizon, et descend par quelques ravines qui gardent les choses intéressantes. Les guides accompagnent le groupe tout le long et ajustent la difficulté du parcours aux pilotes présents, donc un groupe familial et des amateurs de sensations fortes vivent des journées assez différentes sur le même sentier.\n\nLa prise en charge à l'hôtel est disponible depuis Ao Nang et Klong Muang, ce qui en fait un ajout facile pour une demi-matinée ou une fin d'après-midi à des vacances à la plage. Les départs en fin de journée captent la lumière à son meilleur sur les collines.",
+  "highlights": [
+   "Une heure complète à piloter votre propre quad",
+   "Sentiers de forêt et de montagne dans le calme de Khlong Son",
+   "Vues étendues sur les crêtes et les plantations de Krabi",
+   "Difficulté du parcours adaptée à votre groupe",
+   "Prise en charge disponible depuis Ao Nang et Klong Muang"
+  ],
+  "included": [
+   "Balade en quad d'une heure avec carburant",
+   "Casque et équipement de protection",
+   "Instruction et séance d'échauffement",
+   "Guide accompagnant le groupe",
+   "Eau en bouteille",
+   "Prise en charge à l'hôtel depuis Ao Nang et Klong Muang",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Repas et collations",
+   "Forfait photo",
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
+ "ao-nang-backcountry-guided-tour": {
+  "title": "Balade en quad dans l'arrière-pays de Krabi : boue, jungle et sentiers de colline",
+  "metaTitle": "Krabi arrière-pays : quad, boue, jungle, collines",
+  "metaDescription": "Prenez le volant de votre propre quad et affrontez des pistes boueuses en jungle, des sentiers de plantation d'hévéas et une montée de colline avec de grandes vues sur la campagne de Krabi.",
+  "shortDescription": "Prenez le volant de votre propre quad et affrontez des pistes boueuses en jungle, des sentiers de plantation d'hévéas et une montée de colline avec de grandes vues sur la campagne de Krabi.",
+  "fullDescription": "À dix minutes à l'intérieur des terres depuis Ao Nang, les complexes hôteliers disparaissent et la route devient terre rouge. C'est là que se trouve le réseau de sentiers, traversant des plantations d'hévéas, des palmeraies et des étendues de jungle qui absorbent le bruit des moteurs. En quad, vous couvrez un terrain qu'aucun minibus touristique n'atteindra jamais.\n\nVous conduisez votre propre machine après une leçon pratique sur une boucle d'entraînement, donc l'accélérateur, les freins et la prise de virages deviennent naturels avant que le vrai sentier ne commence. Un guide de tête fixe le rythme à l'avant et un second pilote balaie à l'arrière, ce qui signifie que les pilotes rapides s'amusent tandis que les débutants nerveux ne se sentent jamais laissés derrière. Le circuit mélange des voies de plantation plates avec des montées défoncées, des traversées d'eau et la boue qui rend tout cela digne d'être fait.\n\nÀ mi-parcours, vous vous arrêtez sur une clairière au sommet d'une colline surplombant les pics karstiques et la vallée verte en dessous, reprenez votre souffle et prenez des photos avant la descente. Les pilotes doivent avoir au moins seize ans pour conduire ; les enfants plus jeunes peuvent monter en tant que passagers.",
+  "highlights": [
+   "Conduisez votre propre quad sur de véritables sentiers de jungle et de plantation",
+   "Boucle d'entraînement et briefing complet avant le départ",
+   "Traversez des sections boueuses et des cours d'eau",
+   "Arrêt à un point de vue au sommet d'une colline sur le paysage karstique",
+   "Guides de tête et de fin pour couvrir tous les rythmes"
+  ],
+  "included": [
+   "Location de quad et carburant",
+   "Casque et équipement de sécurité",
+   "Instruction de conduite et séance d'entraînement",
+   "Guides de piste expérimentés",
+   "Eau potable",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Transfert d'hôtel",
+   "Repas",
+   "Forfait photos et vidéo",
+   "Pourboires"
+  ]
+ },
+ "ao-thalane-guided-tour": {
+  "title": "Kayak à Ao Thalane : canyons calcaires et criques des singes",
+  "metaTitle": "Ao Thalane : kayak, canyons calcaires, singes",
+  "metaDescription": "Deux heures de pagayage facile à travers les canyons calcaires et les voies d'eau de mangrove d'Ao Thalane, avec des macaques sauvages sur les rives et des transferts à l'hôtel dans les deux sens.",
+  "shortDescription": "Deux heures de pagayage facile à travers les canyons calcaires et les voies d'eau de mangrove d'Ao Thalane, avec des macaques sauvages sur les rives et des transferts à l'hôtel dans les deux sens.",
+  "fullDescription": "La plupart des visiteurs de Krabi ne vont jamais au-delà des plages insulaires, ce qui explique précisément pourquoi Ao Thalane ressemble encore à un secret local. Cette baie se trouve au nord d'Ao Nang, où un labyrinthe de voies d'eau de mangrove traverse des parois calcaires abruptes, et le seul moyen pratique d'y entrer est le kayak. L'eau est abritée toute l'année, donc le pagayage reste calme même quand la mer ouverte est agitée.\n\nVous passez environ deux heures sur l'eau. Votre guide vous mène dans d'étroits canyons où les falaises se referment des deux côtés et le son s'évanouit presque entièrement, puis à travers des chenaux bordés de racines de mangrove où des macaques crabiers se nourrissent au bord de l'eau. Hérons, poissons-grenouilles et occasionnellement un varan complètent le tableau.\n\nL'excursion complète dure de quatre à cinq heures porte-à-porte en comptant les transferts. Les kayaks accueillent deux personnes, les guides pagaient aux côtés du groupe, et les débutants sont réellement les bienvenus ; si vous pouvez vous asseoir dans un bateau, vous pouvez faire cette excursion.",
+  "highlights": [
+   "Pagayez profondément dans d'étroits canyons calcaires",
+   "Observez des macaques crabiers le long des rives de mangrove",
+   "Eau abritée adaptée aux complets débutants",
+   "Petits groupes avec un guide pagayant aux côtés",
+   "Prise en charge et retour à l'hôtel dans les deux sens"
+  ],
+  "included": [
+   "Transfert aller-retour à l'hôtel",
+   "Guide de kayak local",
+   "Kayak biplace, pagaie et gilet de sauvetage",
+   "Eau potable",
+   "Sac étanche",
+   "Assurance accident"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Boissons alcoolisées",
+   "Pourboires pour le guide et le chauffeur",
+   "Effets personnels"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
