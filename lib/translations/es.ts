@@ -46332,6 +46332,92 @@ export const ES_TOURS: Record<string, TourT> = {
    "Recargo de transporte para hoteles fuera de las zonas de recogida estándar (500 THB primera persona + 200 THB cada persona adicional)"
   ]
  },
+ "james-bond-island-evening-tour": {
+  "title": "Tour nocturno privado en bote longtail a la isla James Bond y plancton bioluminiscente",
+  "metaTitle": "James Bond Island de noche y plancton",
+  "metaDescription": "Experimente la bahía de Phang Nga como nunca antes en este tour privado nocturno en bote longtail. Visite la isla James Bond sin las multitudes diurnas, reme a través de cuevas marinas en Koh Talu, explore el pueblo flotante de Koh Panyee, y termine la noche con kayak entre plancton bioluminiscente brillante en Koh Hong, una experiencia verdaderamente mágica.",
+  "shortDescription": "Experimente la bahía de Phang Nga como nunca antes en este tour privado nocturno en bote longtail. Visite la isla James Bond sin las multitudes diurnas, reme a través de cuevas marinas en Koh Talu, explore el pueblo flotante de Koh Panyee, y termine la noche con kayak entre plancton bioluminiscente brillante en Koh Hong, una experiencia verdaderamente mágica.",
+  "fullDescription": "Esta es una de las formas más únicas de experimentar la bahía de Phang Nga, evite la prisa turística diurna y explore el paisaje marino karstico de piedra caliza más dramático de Tailandia en la luz dorada de la tarde y la magia del anochecer.\n\nSu aventura comienza después del almuerzo con una recogida en su hotel de Phuket. Se dirigirá al impresionante mirador de Samet Nangshe, uno de los panoramas más asombrosos de todo el sur de Tailandia. Desde la cima, amplias vistas de los karst de piedra caliza de la bahía de Phang Nga que se elevan de aguas color esmeralda se extienden en todas direcciones, un sueño para fotógrafos.\n\nDesde ahí, se dirigirá a un encantador muelle de pueblo pesquero local donde lo espera su bote longtail privado. Mientras se desliza hacia la bahía, la primera parada es la mundialmente famosa isla James Bond (Khao Phing Kan), que apareció en la película de 1974 \"El hombre de la pistola de oro\". Al llegar por la noche, experimentará este sitio icónico sin las multitudes habituales, solo usted, los imponentes karst, y el sonido del mar.\n\nA continuación, remará a través del arco natural de la cueva marina en Koh Talu, donde los acantilados de piedra caliza se elevan en ambos lados y el agua clara debajo revela el fondo marino rocoso. Es una experiencia pacífica y de otro mundo, especialmente a medida que la luz comienza a suavizarse.\n\nSu bote longtail lo lleva luego a Koh Panyee, un notable pueblo flotante construido completamente sobre pilotes sobre el agua. Camine por estrechas pasarelas de madera, explore el pequeño mercado local, y vislumbre una forma de vida que ha existido aquí durante generaciones.\n\nA medida que cae la oscuridad, comienza la verdadera magia. En Koh Hong, hará kayak en aguas llenas de plancton bioluminiscente, pequeños organismos que brillan de un azul-verde eléctrico cuando se perturban. Cada remada, cada ondulación del agua crea una estela de luz resplandeciente. Es uno de los fenómenos más surrealistas de la naturaleza, y experimentarlo rodeado de las oscuras siluetas de los acantilados de piedra caliza de Phang Nga es genuinamente inolvidable.\n\nDespués de la experiencia del plancton, regresará al muelle y será llevado de vuelta a su hotel, cansado, asombrado, y cargando recuerdos que la mayoría de los visitantes de Phuket nunca llegan a tener.",
+  "highlights": [
+   "Visite la isla James Bond por la noche, sin multitudes, luz dorada, y paisaje karstico dramático",
+   "Haga kayak entre plancton bioluminiscente brillante en Koh Hong después del anochecer, una experiencia única en la vida",
+   "Disfrute de amplias vistas panorámicas de la bahía de Phang Nga desde el mirador de Samet Nangshe",
+   "Reme a través de un arco natural de cueva marina en Koh Talu en canoa privada",
+   "Explore el único pueblo flotante de Koh Panyee, construido completamente sobre pilotes sobre el mar",
+   "Viaje en bote longtail privado, toda la experiencia es exclusiva para su grupo"
+  ],
+  "included": [
+   "Recogida y regreso al hotel (todos los hoteles de Phuket)",
+   "Vehículo privado con aire acondicionado y guía turístico de habla inglesa",
+   "Bote longtail privado para todo el tour",
+   "Tarifas de entrada y tarifas del parque nacional",
+   "2 sesiones de piragüismo (Koh Talu + plancton bioluminiscente de Koh Hong)",
+   "Comida tipo picnic en caja",
+   "Agua fría y refrescos durante todo el tour",
+   "Seguro de accidentes"
+  ],
+  "notIncluded": [
+   "Gastos personales y recuerdos",
+   "Comida o bebidas adicionales más allá de lo proporcionado",
+   "Propinas (opcional pero apreciado)"
+  ]
+ },
+ "phuket-jet-ski-tour-island-hopping-patong-beach": {
+  "title": "Phuket: tour en jet ski, salto de isla en isla y alquiler en Patong Beach",
+  "metaTitle": "Phuket: jet ski, salto de isla, Patong Beach",
+  "metaDescription": "Experimente la emoción del jet ski a lo largo de la impresionante costa oeste de Phuket. Elija un tour guiado de salto de isla en isla de 3 horas pasando por 6 hermosas playas hasta el cabo Promthep, o alquile un jet ski para una aventura de conducción autónoma en Patong Beach.",
+  "shortDescription": "Experimente la emoción del jet ski a lo largo de la impresionante costa oeste de Phuket. Elija un tour guiado de salto de isla en isla de 3 horas pasando por 6 hermosas playas hasta el cabo Promthep, o alquile un jet ski para una aventura de conducción autónoma en Patong Beach.",
+  "fullDescription": "¡Prepárese para una aventura en jet ski inolvidable a lo largo de la impresionante costa de Phuket! Ya sea que busque una experiencia guiada de salto de isla en isla o un rápido paseo de conducción autónoma, el operador local lo tiene cubierto.\n\n**Tour de salto de isla en isla (3 horas)**\nNuestro tour guiado distintivo lo lleva en un viaje épico de 3 horas a lo largo de las playas más hermosas de la costa oeste de Phuket. Comenzando en Patong Beach, su guía experto lo lleva a través de las aguas cristalinas de Andamán pasando por Paradise Beach, la apartada Freedom Beach, las amplias playas de Karon y Kata, alrededor del dramático promontorio de Laem Krating, y hasta el icónico cabo Promthep, la punta más al sur de Phuket, famosa por sus impresionantes vistas.\n\nEn el cabo Promthep, se detendrá para una refrescante pausa de natación en las aguas turquesa. Se proporciona agua potable de cortesía durante todo el viaje, y su guía permanece con usted durante todo el trayecto garantizando la seguridad y señalando los mejores lugares.\n\n**Alquiler de jet ski (conducción autónoma)**\n¿Prefiere conducir a su propio ritmo? Alquile un potente Yamaha WaveRunner justo en Patong Beach y disfrute de la libertad del agua abierta. No se necesita guía, solo usted, el jet ski, y el hermoso mar de Andamán. Disponible para conductores solos o parejas, con sesiones de 30 y 60 minutos de 9:00 AM a 6:00 PM diariamente.\n\nTodos los jet skis son Yamaha WaveRunner bien mantenidos, y se proporcionan chalecos salvavidas para cada conductor. No se necesita experiencia previa, nuestro equipo le dará una breve charla de seguridad antes de entrar al agua.",
+  "highlights": [
+   "Recorra 6 impresionantes playas a lo largo de la costa oeste de Phuket",
+   "Parada para nadar en el icónico cabo Promthep",
+   "Un guía profesional lo acompaña durante todo el tour de salto de isla en isla",
+   "Potentes jet skis Yamaha WaveRunner",
+   "Opción de alquiler de conducción autónoma disponible en Patong Beach",
+   "Chalecos salvavidas y charla de seguridad incluidos",
+   "Agua potable de cortesía en el tour guiado",
+   "Adecuado para principiantes, no se necesita experiencia"
+  ],
+  "included": [
+   "Chaleco salvavidas, charla de seguridad, jet ski (Yamaha WaveRunner). La opción de salto de isla en isla también incluye: guía profesional, agua potable, parada para nadar en el cabo Promthep."
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel, protector solar, toalla, seguro personal"
+  ]
+ },
+ "elephant-beach-experience-patong-phuket": {
+  "title": "Experiencia de playa con elefantes en Patong: fotos, paseo y natación con elefantes",
+  "metaTitle": "Patong: playa y elefantes",
+  "metaDescription": "Cree recuerdos inolvidables en Patong Beach con gentiles elefantes. Experimente una aventura práctica de 30 minutos: tome fotos, monte, nade en el mar, y alimente con bananas a estos magníficos animales. Opciones de fotografía profesional y drone disponibles. Traslados gratuitos desde Patong Beach.",
+  "shortDescription": "Cree recuerdos inolvidables en Patong Beach con gentiles elefantes. Experimente una aventura práctica de 30 minutos: tome fotos, monte, nade en el mar, y alimente con bananas a estos magníficos animales. Opciones de fotografía profesional y drone disponibles. Traslados gratuitos desde Patong Beach.",
+  "fullDescription": "Experimente uno de los encuentros con animales más únicos de Phuket en Patong Beach. Esta íntima experiencia de 30 minutos con elefantes combina fotografía, interacción, y natación con estos gentiles gigantes en un entorno frente a la playa.\n\nSu aventura incluye interacción directa con elefantes entrenados y bien cuidados. Pase tiempo de calidad tomando fotos con los animales, montándolos a lo largo de la playa, e incluso entrando juntos al mar. Alimente a los elefantes con bananas y zanahorias frescas para crear momentos especiales de conexión, ver a un elefante aceptar graciosamente comida de su mano es una experiencia que nunca olvidará.\n\nEsta es una experiencia en grupo pequeño, manteniendo los números íntimos para que obtenga atención personalizada y muchas oportunidades de fotos. La experiencia es adecuada para familias, parejas, y viajeros solos. Los niños de 1 a 4 años participan gratis, lo que la hace perfecta para familias con niños pequeños.\n\nFotógrafos profesionales están en el sitio para capturar sus recuerdos en su propio dispositivo. Para opciones premium, actualice a fotografía profesional DSLR (500 THB) o metraje profesional de drone que editamos y le enviamos (1.000 THB).",
+  "highlights": [
+   "Íntima experiencia de playa con elefantes en Patong, fotos, paseo y natación",
+   "Monte elefantes a lo largo de Patong Beach y hacia el mar",
+   "Alimente a mano con bananas y zanahorias frescas directamente a los elefantes",
+   "Fotógrafos profesionales en el sitio capturan sus recuerdos",
+   "Tamaños de grupo pequeños para una interacción personalizada y segura"
+  ],
+  "included": [
+   "Experiencia de playa con elefantes de 30 minutos",
+   "Fotógrafo profesional en el sitio (usa su teléfono/cámara)",
+   "Paseo en elefante a lo largo de Patong Beach",
+   "Natación en el mar con el elefante",
+   "Alimentación a mano de los elefantes (frutas proporcionadas)",
+   "Seguro de accidentes",
+   "Traslados gratuitos desde hoteles del área de Patong Beach",
+   "Niños de 1 a 4 años GRATIS"
+  ],
+  "notIncluded": [
+   "Frutas/bananas adicionales más allá de la porción estándar (100 THB por canasta si se desea)",
+   "Fotografía profesional DSLR (500 THB adicionales)",
+   "Fotografía y edición con drone (1.000 THB adicionales)",
+   "Traslados de hotel fuera del área de Patong Beach (disponibles a tarifas de taxi reducidas)",
+   "Comidas o bebidas",
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",
