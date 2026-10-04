@@ -46570,6 +46570,115 @@ export const DE_TOURS: Record<string, TourT> = {
    "Optionale Aktivitäten oder Einkäufe auf den Inseln"
   ]
  },
+ "phi-phi-khai-islands-speedboat-tour-with-lunch": {
+  "title": "Speedboot-Tour zu den Phi-Phi- und Khai-Inseln ab Phuket mit Mittagessen",
+  "metaTitle": "Phuket: Phi-Phi- und Khai-Inseln, Mittagessen",
+  "metaDescription": "Erkunden Sie die atemberaubenden Phi-Phi-Inseln bei einer ganztägigen Speedboot-Tour ab Phuket. Besuchen Sie die berühmte Maya Bay, schwimmen Sie in den türkisfarbenen Gewässern der Pileh-Lagune, sehen Sie die Wikinger-Höhle und den Affenstrand, schnorcheln Sie bei der Khai-Insel, und genießen Sie das Mittagessen auf der Insel Phi Phi Don.",
+  "shortDescription": "Erkunden Sie die atemberaubenden Phi-Phi-Inseln bei einer ganztägigen Speedboot-Tour ab Phuket. Besuchen Sie die berühmte Maya Bay, schwimmen Sie in den türkisfarbenen Gewässern der Pileh-Lagune, sehen Sie die Wikinger-Höhle und den Affenstrand, schnorcheln Sie bei der Khai-Insel, und genießen Sie das Mittagessen auf der Insel Phi Phi Don.",
+  "fullDescription": "Entdecken Sie die atemberaubende Schönheit der Phi-Phi-Inseln bei einer ganztägigen Speedboot-Tour ab Phuket. Dieses Island-Hopping-Abenteuer führt Sie durch einige der spektakulärsten Landschaften Thailands, einschließlich kristallklarer Lagunen, Kalksteinklippen, und weißer Sandstrände im Andamanischen Meer.\n\nDie Reise beginnt mit einer Hotelabholung in Phuket und Transfer zum Abfahrtspier. Nach einem kurzen Briefing und Erfrischungen gehen Sie an Bord eines Speedboots und fahren zu den berühmten Phi-Phi-Inseln. Während der malerischen Bootsfahrt genießen Sie Panoramablicke auf die türkisfarbenen Gewässer und dramatischen Kalksteinformationen, die diese Region zu einem der ikonischsten Ziele Thailands machen.",
+  "highlights": [
+   "Buchen Sie die beste Tour für die Phi-Phi-Inseln",
+   "Eine Gelegenheit, die malerische Natur Thailands zu sehen",
+   "Entdecken Sie die Unterwasserwelt und ihr faszinierendes Meeresleben",
+   "Genießen Sie eine unvergessliche Zeit bei der Erkundung einiger der versteckten Schätze unseres Planeten",
+   "Mehrere Fotostopps mit atemberaubenden Ausblicken"
+  ],
+  "included": [
+   "Professioneller englischsprachiger Guide",
+   "Hotelabholung und -rückfahrt ab Phuket",
+   "Speedboot-Transport",
+   "Mittagessen auf der Insel Phi Phi Don",
+   "Eintrittsgebühren für den Nationalpark",
+   "Schnorchelausrüstung (Maske und Schnorchel)",
+   "Schwimmwesten",
+   "Frisches Obst und Softdrinks an Bord"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Alkoholische Getränke",
+   "Optionale Wasseraktivitäten bei der Khai-Insel",
+   "Trinkgelder für Guide und Bootscrew",
+   "Zusätzliche Transferkosten für abgelegene Hotelgebiete (falls zutreffend)"
+  ]
+ },
+ "phi-phi-islands-speedboat-tour-maya-bay-snorkeling": {
+  "title": "Premium-Katamaran-Tour zu den Phi-Phi-Inseln ab Phuket (Maya Bay und Schnorcheln)",
+  "metaTitle": "Phuket: Phi Phi Premium, Maya Bay",
+  "metaDescription": "Erkunden Sie die atemberaubenden Phi-Phi-Inseln bei einer Premium-Speedboot-Tour ab Phuket. Besuchen Sie die Maya Bay, schwimmen Sie in den türkisfarbenen Gewässern der Pileh-Lagune, schnorcheln Sie nahe Phi Phi Don, und entspannen Sie sich am weißen Sand der Bambusinsel, während Mittagessen und Hoteltransfers inklusive sind.",
+  "shortDescription": "Erkunden Sie die atemberaubenden Phi-Phi-Inseln bei einer Premium-Speedboot-Tour ab Phuket. Besuchen Sie die Maya Bay, schwimmen Sie in den türkisfarbenen Gewässern der Pileh-Lagune, schnorcheln Sie nahe Phi Phi Don, und entspannen Sie sich am weißen Sand der Bambusinsel, während Mittagessen und Hoteltransfers inklusive sind.",
+  "fullDescription": "Entdecken Sie die atemberaubende Schönheit der Phi-Phi-Inseln bei einer Premium-Speedboot-Tour ab Phuket. Dieses ganztägige Island-Hopping-Erlebnis führt Sie zu einigen der berühmtesten Orte Thailands, einschließlich Maya Bay, Pileh-Lagune, Wikinger-Höhle, Affenstrand, und Bambusinsel.\n\nReisen Sie über die kristallklaren Gewässer des Andamanischen Meeres mit dem Speedboot und erkunden Sie atemberaubende Kalksteinklippen, türkisfarbene Lagunen, und weiße Sandstrände. Schnorcheln Sie zwischen farbenfrohen Korallenriffen nahe der Insel Phi Phi Don und genießen Sie ein entspannendes Mittagessen mit spektakulären Meeresblicken.\n\nDiese Phi-Phi-Inseln-Tour ab Phuket umfasst Hoteltransfers, Schnorchelausrüstung, Nationalpark-Gebühren, und einen professionellen Guide, was sie zu einer der besten Möglichkeiten macht, Thailands ikonischste tropische Inseln an einem Tag zu erleben.\n\nPerfekt für Reisende, die Abenteuer, Natur, und unvergessliche Landschaften suchen, kombiniert diese Tour Island-Hopping, Schnorcheln, Wildtierbegegnungen, und Strandentspannung im Herzen des Andamanischen Meeres.",
+  "highlights": [
+   "Besuchen Sie die weltberühmte Maya Bay (aus dem Film The Beach)",
+   "Schwimmen und entspannen Sie in den türkisfarbenen Gewässern der Pileh-Lagune",
+   "Sehen Sie wilde Affen am Affenstrand",
+   "Sehen Sie wilde Affen am Affenstrand"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Hotelabholung und -rückfahrt ab Phuket",
+   "Speedboot-Transfer",
+   "Eintrittsgebühren für den Nationalpark",
+   "Schnorchelausrüstung (Maske und Schnorchel)",
+   "Schwimmwesten",
+   "Mittagessen auf der Insel Phi Phi Don",
+   "Frisches Obst und Softdrinks an Bord",
+   "Unfallversicherung"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Alkoholische Getränke",
+   "Trinkgelder für Guide und Crew",
+   "Zusätzliche Transferkosten für abgelegene Gebiete"
+  ]
+ },
+ "phi-phi-islands-private-yacht-cruise-maya-bay": {
+  "title": "Private halbtägige Yacht-Kreuzfahrt ab Phuket zu den Phi-Phi-Inseln und Maya Bay",
+  "metaTitle": "Phuket: private Yacht, Phi Phi, Maya Bay",
+  "metaDescription": "Genießen Sie eine private halbtägige Luxus-Yacht-Kreuzfahrt ab Phuket zu den berühmten Phi-Phi-Inseln. Besuchen Sie Maya Bay, Loh Sama Bay, die Bambusinsel, und den Affenstrand, während Sie in kristallklarem Wasser schnorcheln, auf weißen Sandstränden entspannen, und Getränke und Snacks an Bord einer 52-Fuß-Yacht genießen.",
+  "shortDescription": "Genießen Sie eine private halbtägige Luxus-Yacht-Kreuzfahrt ab Phuket zu den berühmten Phi-Phi-Inseln. Besuchen Sie Maya Bay, Loh Sama Bay, die Bambusinsel, und den Affenstrand, während Sie in kristallklarem Wasser schnorcheln, auf weißen Sandstränden entspannen, und Getränke und Snacks an Bord einer 52-Fuß-Yacht genießen.",
+  "fullDescription": "Erleben Sie die Schönheit des Andamanischen Meeres Thailands bei einer privaten halbtägigen Luxus-Yacht-Kreuzfahrt ab Phuket zu den weltberühmten Phi-Phi-Inseln. Dieser exklusive Charter führt Sie zu atemberaubenden tropischen Zielen, einschließlich Maya Bay, Loh Sama Bay, der Bambusinsel, der Wikinger-Höhle, und dem Affenstrand. Kreuzen Sie an Bord einer geräumigen 52-Fuß-Yacht, konzipiert für Komfort, Entspannung, und Abenteuer.\n\nWährend der Reise haben Sie die Möglichkeit, in kristallklarem türkisfarbenem Wasser zu schwimmen, zwischen farbenfrohen Korallenriffen zu schnorcheln, und sich an unberührten weißen Sandstränden zu entspannen, umgeben von dramatischen Kalksteinklippen. Gäste können die geräumigen Sonnendecks der Yacht, schattige Loungebereiche, und klimatisierte Kabinen genießen, während sie atemberaubende Ausblicke auf Phukets tropische Inseln genießen.",
+  "highlights": [
+   "Private Luxus-Yacht-Kreuzfahrt zu den Phi-Phi-Inseln und Maya Bay",
+   "Schnorcheln Sie in kristallklarem Wasser bei Loh Sama Bay und der Bambusinsel",
+   "Entspannen Sie sich an Bord mit schwimmendem Jacuzzi, Paddleboards, und Getränken"
+  ],
+  "included": [
+   "Privater Yacht-Charter",
+   "Professioneller Kapitän und Crew",
+   "Schnorchelausrüstung",
+   "Paddleboard",
+   "Kanu",
+   "Schwimmender Jacuzzi",
+   "Biere",
+   "Trinkwasser",
+   "Snacks und frisches Obst",
+   "Schwimmwesten und Sicherheitsausrüstung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Gebühr (400 THB pro Person)",
+   "Kanu-Vermietung (500 THB)",
+   "Jetski oder Seescooter (optional)",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "phi-phi-islands-boat-tour": {
+  "title": "Bootstour Phuket",
+  "metaTitle": "Bootstour Phuket",
+  "metaDescription": "Bootstour ab Phuket zu den umliegenden Inseln.",
+  "shortDescription": "Bootstour ab Phuket zu den umliegenden Inseln.",
+  "fullDescription": "Bootstour ab Phuket zu den umliegenden Inseln.",
+  "highlights": [
+   "Bootstour",
+   "Inseln von Phuket",
+   "Erlebnis auf dem Meer"
+  ],
+  "included": [
+   "Bootstransport"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

@@ -46571,6 +46571,115 @@ export const FR_TOURS: Record<string, TourT> = {
    "Activités ou achats optionnels sur les îles"
   ]
  },
+ "phi-phi-khai-islands-speedboat-tour-with-lunch": {
+  "title": "Visite en bateau rapide des îles Phi Phi et Khai depuis Phuket avec déjeuner",
+  "metaTitle": "Phuket : îles Phi Phi et Khai, déjeuner",
+  "metaDescription": "Explorez les magnifiques îles Phi Phi lors d'une visite en bateau rapide d'une journée complète depuis Phuket. Visitez la célèbre baie de Maya, baignez-vous dans les eaux turquoise du lagon de Pileh, voyez la grotte Viking et la plage des Singes, faites du snorkeling à l'île Khai, et profitez du déjeuner sur l'île de Phi Phi Don.",
+  "shortDescription": "Explorez les magnifiques îles Phi Phi lors d'une visite en bateau rapide d'une journée complète depuis Phuket. Visitez la célèbre baie de Maya, baignez-vous dans les eaux turquoise du lagon de Pileh, voyez la grotte Viking et la plage des Singes, faites du snorkeling à l'île Khai, et profitez du déjeuner sur l'île de Phi Phi Don.",
+  "fullDescription": "Découvrez la beauté époustouflante des îles Phi Phi lors d'une visite en bateau rapide d'une journée complète depuis Phuket. Cette aventure de saut d'île en île vous emmène à travers certains des paysages les plus spectaculaires de Thaïlande, y compris des lagons cristallins, des falaises calcaires, et des plages de sable blanc dans la mer d'Andaman.\n\nLe voyage commence par une prise en charge à l'hôtel à Phuket et un transfert vers le quai de départ. Après un court briefing et des rafraîchissements, vous monterez à bord d'un bateau rapide et vous dirigerez vers les célèbres îles Phi Phi. Pendant la balade en bateau pittoresque, profitez de vues panoramiques sur les eaux turquoise et les formations calcaires spectaculaires qui font de cette région l'une des destinations les plus emblématiques de Thaïlande.",
+  "highlights": [
+   "Réservez la meilleure visite pour les îles Phi Phi",
+   "Une occasion de voir la nature pittoresque de la Thaïlande",
+   "Découvrez le monde sous-marin et sa fascinante vie marine",
+   "Profitez d'un moment inoubliable en explorant certains des joyaux cachés de notre planète",
+   "Plusieurs arrêts photo avec des vues à couper le souffle"
+  ],
+  "included": [
+   "Guide professionnel parlant anglais",
+   "Prise en charge et retour à l'hôtel depuis Phuket",
+   "Transport en bateau rapide",
+   "Déjeuner sur l'île de Phi Phi Don",
+   "Frais d'entrée au parc national",
+   "Équipement de snorkeling (masque et tuba)",
+   "Gilets de sauvetage",
+   "Fruits frais et boissons gazeuses à bord"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Boissons alcoolisées",
+   "Activités aquatiques optionnelles à l'île Khai",
+   "Pourboires pour le guide et l'équipage du bateau",
+   "Frais de transfert supplémentaires pour les zones hôtelières éloignées (si applicable)"
+  ]
+ },
+ "phi-phi-islands-speedboat-tour-maya-bay-snorkeling": {
+  "title": "Visite premium en catamaran des îles Phi Phi depuis Phuket (baie de Maya et snorkeling)",
+  "metaTitle": "Phuket : Phi Phi premium, baie de Maya",
+  "metaDescription": "Explorez les magnifiques îles Phi Phi lors d'une visite premium en bateau rapide depuis Phuket. Visitez la baie de Maya, baignez-vous dans les eaux turquoise du lagon de Pileh, faites du snorkeling près de Phi Phi Don, et détendez-vous sur les sables blancs de l'île de Bambou tout en profitant du déjeuner et des transferts hôteliers inclus.",
+  "shortDescription": "Explorez les magnifiques îles Phi Phi lors d'une visite premium en bateau rapide depuis Phuket. Visitez la baie de Maya, baignez-vous dans les eaux turquoise du lagon de Pileh, faites du snorkeling près de Phi Phi Don, et détendez-vous sur les sables blancs de l'île de Bambou tout en profitant du déjeuner et des transferts hôteliers inclus.",
+  "fullDescription": "Découvrez la beauté à couper le souffle des îles Phi Phi lors d'une visite premium en bateau rapide depuis Phuket. Cette expérience de saut d'île en île d'une journée complète vous emmène vers certains des lieux les plus célèbres de Thaïlande, y compris la baie de Maya, le lagon de Pileh, la grotte Viking, la plage des Singes, et l'île de Bambou.\n\nTraversez les eaux cristallines de la mer d'Andaman en bateau rapide et explorez de magnifiques falaises calcaires, des lagons turquoise, et des plages de sable blanc. Faites du snorkeling parmi les récifs coralliens colorés près de l'île de Phi Phi Don et profitez d'un déjeuner relaxant avec des vues océaniques spectaculaires.\n\nCette visite des îles Phi Phi depuis Phuket comprend les transferts hôteliers, l'équipement de snorkeling, les frais de parc national, et un guide professionnel, ce qui en fait l'une des meilleures façons de découvrir les îles tropicales les plus emblématiques de Thaïlande en une seule journée.\n\nParfaite pour les voyageurs recherchant l'aventure, la nature, et des paysages inoubliables, cette visite combine saut d'île en île, snorkeling, rencontres avec la faune, et détente sur la plage au cœur de la mer d'Andaman.",
+  "highlights": [
+   "Visitez la célèbre baie de Maya dans le monde entier (du film The Beach)",
+   "Baignez-vous et détendez-vous dans les eaux turquoise du lagon de Pileh",
+   "Voyez des singes sauvages à la plage des Singes",
+   "Voyez des singes sauvages à la plage des Singes"
+  ],
+  "included": [
+   "Guide parlant anglais",
+   "Prise en charge et retour à l'hôtel depuis Phuket",
+   "Transfert en bateau rapide",
+   "Frais d'entrée au parc national",
+   "Équipement de snorkeling (masque et tuba)",
+   "Gilets de sauvetage",
+   "Déjeuner sur l'île de Phi Phi Don",
+   "Fruits frais et boissons gazeuses à bord",
+   "Assurance accident"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Boissons alcoolisées",
+   "Pourboires pour le guide et l'équipage",
+   "Frais de transfert supplémentaires pour les zones éloignées"
+  ]
+ },
+ "phi-phi-islands-private-yacht-cruise-maya-bay": {
+  "title": "Croisière en yacht privé d'une demi-journée depuis Phuket vers les îles Phi Phi et la baie de Maya",
+  "metaTitle": "Phuket : yacht privé, Phi Phi, baie de Maya",
+  "metaDescription": "Profitez d'une croisière privée de luxe en yacht d'une demi-journée depuis Phuket vers les célèbres îles Phi Phi. Visitez la baie de Maya, la baie de Loh Sama, l'île de Bambou, et la plage des Singes tout en faisant du snorkeling dans des eaux cristallines, en vous détendant sur des plages de sable blanc, et en profitant de boissons et collations à bord d'un yacht de 52 pieds.",
+  "shortDescription": "Profitez d'une croisière privée de luxe en yacht d'une demi-journée depuis Phuket vers les célèbres îles Phi Phi. Visitez la baie de Maya, la baie de Loh Sama, l'île de Bambou, et la plage des Singes tout en faisant du snorkeling dans des eaux cristallines, en vous détendant sur des plages de sable blanc, et en profitant de boissons et collations à bord d'un yacht de 52 pieds.",
+  "fullDescription": "Découvrez la beauté de la mer d'Andaman de la Thaïlande lors d'une croisière privée de luxe en yacht d'une demi-journée depuis Phuket vers les îles Phi Phi mondialement célèbres. Ce charter exclusif vous emmène vers des destinations tropicales magnifiques, y compris la baie de Maya, la baie de Loh Sama, l'île de Bambou, la grotte Viking, et la plage des Singes. Naviguez à bord d'un spacieux yacht de 52 pieds conçu pour le confort, la détente, et l'aventure.\n\nPendant le voyage, vous aurez l'occasion de vous baigner dans des eaux turquoise cristallines, de faire du snorkeling parmi des récifs coralliens colorés, et de vous détendre sur des plages de sable blanc immaculées entourées de falaises calcaires spectaculaires. Les invités peuvent profiter des spacieux ponts solaires du yacht, des espaces salon ombragés, et des cabines climatisées tout en admirant des vues à couper le souffle sur les îles tropicales de Phuket.",
+  "highlights": [
+   "Croisière privée de luxe en yacht vers les îles Phi Phi et la baie de Maya",
+   "Faites du snorkeling dans des eaux cristallines à la baie de Loh Sama et à l'île de Bambou",
+   "Détendez-vous à bord avec jacuzzi flottant, paddle boards, et boissons"
+  ],
+  "included": [
+   "Charter de yacht privé",
+   "Capitaine et équipage professionnels",
+   "Équipement de snorkeling",
+   "Paddle board",
+   "Canoë",
+   "Jacuzzi flottant",
+   "Bières",
+   "Eau potable",
+   "Collations et fruits frais",
+   "Gilets de sauvetage et équipement de sécurité"
+  ],
+  "notIncluded": [
+   "Frais de parc national (400 THB par personne)",
+   "Location de canoë (500 THB)",
+   "Jet ski ou scooter des mers (facultatif)",
+   "Dépenses personnelles"
+  ]
+ },
+ "phi-phi-islands-boat-tour": {
+  "title": "Visite en bateau de Phuket",
+  "metaTitle": "Visite en bateau de Phuket",
+  "metaDescription": "Visite en bateau de Phuket vers les îles environnantes.",
+  "shortDescription": "Visite en bateau de Phuket vers les îles environnantes.",
+  "fullDescription": "Visite en bateau de Phuket vers les îles environnantes.",
+  "highlights": [
+   "Visite en bateau",
+   "Îles de Phuket",
+   "Expérience en mer"
+  ],
+  "included": [
+   "Transport en bateau"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
