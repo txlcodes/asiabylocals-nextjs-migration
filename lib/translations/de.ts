@@ -44662,6 +44662,96 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Gegenstände"
   ]
  },
+ "ao-thalane-bay-half-day-tour": {
+  "title": "Paddeln Sie durch die Mangroven von Ao Thalane: halbtägige Kajak-Flucht",
+  "metaTitle": "Ao Thalane: halbtägige Kajak-Flucht",
+  "metaDescription": "Gleiten Sie per Kajak durch Ao Thalanes Gezeiten-Mangrovenkanäle, schlüpfen Sie in versteckte Lagunen und Meereshöhlen, und beobachten Sie Tierwelt unter aufragenden Kalksteinklippen.",
+  "shortDescription": "Gleiten Sie per Kajak durch Ao Thalanes Gezeiten-Mangrovenkanäle, schlüpfen Sie in versteckte Lagunen und Meereshöhlen, und beobachten Sie Tierwelt unter aufragenden Kalksteinklippen.",
+  "fullDescription": "Ao Thalane ist das ruhige Gegengewicht zu Krabis belebten Inselstränden. Statt Speedboot-Motoren haben Sie das Eintauchen eines Paddels, das Klicken von Krabben im Schlamm und das Rauschen von Blättern, während Makaken sich auf den Ästen darüber bewegen. Unsere Guides kennen die Gezeitenkalender genau, sodass Sie aufbrechen, wenn das Wasser den richtigen Stand hat, um in die engsten Kanäle zu schlüpfen, statt auf ein Schlammfeld zu starren.\n\nDie Route schlängelt sich zwischen Mangrovenwurzeln hindurch und hinaus in eine offene Bucht, umringt von Kalksteinkarsten, die direkt aus dem Wasser aufragen. Auf dem Weg schieben Sie sich in niedrige Meereshöhlen und treiben in eine versteckte Lagune, die sich hinter einer Felslücke öffnet. Ihr Guide zeigt Schlammspringer, Waran-Echsen, Eisvögel und die krabbenfressenden Makaken, die diese Wälder zu ihrer Heimat gemacht haben.\n\nKajaks sind stabile Zweisitzer und das Paddeln ist sanft, daher ist keine Erfahrung nötig. Transfers, Schwimmwesten und Trockenbeutel sind alle für Sie organisiert.",
+  "highlights": [
+   "Paddeln Sie in stabilen Zweier-Kajaks durch Gezeiten-Mangrovenkanäle",
+   "Treiben Sie in eine versteckte, von Kalksteinklippen umringte Lagune",
+   "Beobachten Sie Makaken, Schlammspringer und Eisvögel aus der Nähe",
+   "Schlüpfen Sie bei der richtigen Flut in niedrige Meereshöhlen",
+   "Klimatisierter Hin- und Rück-Hoteltransfer inklusive"
+  ],
+  "included": [
+   "Klimatisierte Hotelabholung und -rückfahrt",
+   "Englischsprachiger Kajak-Guide",
+   "Zweisitzer-Kajak, Paddel und Schwimmweste",
+   "Trockenbeutel für Wertsachen",
+   "Trinkwasser und Saisonobst",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Mittagessen und zusätzliche Getränke",
+   "Trinkgelder",
+   "Persönliche Ausgaben",
+   "Handtuch und Wechselkleidung"
+  ]
+ },
+ "chicken-island-sunset-sunset-tour": {
+  "title": "Phi-Phi- und 4-Insel-Sonnenuntergangserlebnis per Katamaran",
+  "metaTitle": "Katamaran Sonnenuntergang: Phi Phi und 4 Inseln",
+  "metaDescription": "Kombinieren Sie die Phi-Phi-Inseln und Krabis vier Inseln auf einem schnellen Katamaran, abgeschlossen mit dem Sonnenuntergang hinter den Kalksteinkarsten vom offenen Deck aus.",
+  "shortDescription": "Kombinieren Sie die Phi-Phi-Inseln und Krabis vier Inseln auf einem schnellen Katamaran, abgeschlossen mit dem Sonnenuntergang hinter den Kalksteinkarsten vom offenen Deck aus.",
+  "fullDescription": "Phi Phi und die vier Krabi-Inseln an einem einzigen Tag, mit einem Speed-Katamaran statt eines Speedboots durchgeführt.\n\nDas Boot zählt auf dieser Route. Ein neunstündiger Tag, der sowohl Phi Phi als auch die lokalen Inseln abdeckt, bedeutet viel offenes Wasser, und die Doppelrümpfe eines Katamarans bleiben in Wellengang erheblich stabiler als ein Einrumpf-Speedboot. Wenn jemand in Ihrer Gruppe zu Seekrankheit neigt, ist dies die zu buchende Version des Tages.\n\nPhi Phi Leh beherbergt Maya Bay, die von 2018 bis 2022 vollständig geschlossen war, damit sich das Riff erholen konnte, und unter strengen Bedingungen wieder eröffnet wurde: Boote legen am hinteren Teil der Insel an und Besucher gehen zu Fuß hinein, Schwimmen innerhalb der Bucht ist eingeschränkt, und die tägliche Besucherzahl ist begrenzt. Die nahe gelegene Pileh-Lagune ist ein Kanal aus tiefgrünem Wasser, von Klippen auf allen Seiten eingeschlossen.\n\nZwei verschiedene Riffsysteme werden geschnorchelt, mehr als die meisten Ausflüge auf dieser Route schaffen, und das Mittagessen ist ein thailändisches Buffet auf Phi Phi Don, der bewohnten Insel.\n\nDie Rückfahrt führt zu den vier Krabi-Inseln mit Sonnenuntergang über der Karstküste vom Wasser aus. Der Kalkstein hält die Farbe lange, nachdem die Sonne untergegangen ist, sodass das Licht länger anhält, als man erwarten würde.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hotelabholung und -rückfahrt in Ao Nang und Krabi Town, den Premium-Speed-Katamaran mit Crew, einen englischsprachigen Guide, thailändisches Buffet-Mittagessen und leichte Erfrischungen.\n\nNeun Stunden. Nationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt, führen Sie also Bargeld mit. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Speed-Katamaran, deutlich stabiler als ein Einrumpfboot in Wellengang",
+   "Maya Bay nach den Regeln seit 2022: zu Fuß, begrenzte Besucherzahl",
+   "Pileh-Lagune, von Klippen auf allen Seiten umschlossen",
+   "Zwei getrennte Riffsysteme geschnorchelt",
+   "Sonnenuntergang über den Karstfelsen auf dem Heimweg"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Ao Nang und Krabi Town",
+   "Premium-Speed-Katamaran mit Crew",
+   "Englischsprachiger Guide",
+   "Thailändisches Buffet-Mittagessen und leichte Erfrischungen",
+   "Schnorchelausrüstung und Schwimmwesten",
+   "Softdrinks, Wasser und Obst",
+   "Nationalpark-Gebühren",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke",
+   "Handtücher",
+   "Kameravermietung",
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "maya-bay-islands-full-day-tour": {
+  "title": "Ganztages-Bootsflucht zu den Phi-Phi-Inseln mit Buffet-Mittagessen",
+  "metaTitle": "Phi Phi Ganztag: Bootsflucht, Buffet",
+  "metaDescription": "Verbringen Sie einen vollen Tag unter den Phi-Phi-Inseln per Speedboot oder Katamaran, mit Schnorcheln am Riff, dem Schwimmen in der Pileh-Lagune und einem Buffet-Mittagessen an Land auf Phi Phi Don.",
+  "shortDescription": "Verbringen Sie einen vollen Tag unter den Phi-Phi-Inseln per Speedboot oder Katamaran, mit Schnorcheln am Riff, dem Schwimmen in der Pileh-Lagune und einem Buffet-Mittagessen an Land auf Phi Phi Don.",
+  "fullDescription": "Ein voller Tag rund um die Phi-Phi-Gruppe, die Bootswahl liegt bei Ihnen.\n\nDie Entscheidung zwischen Speedboot und Katamaran ist diejenige, die es wert ist, vor der Buchung zu treffen. Ein Speedboot kommt schnell an und gibt Ihnen mehr Zeit an jedem Stopp. Ein Katamaran ist langsamer und deutlich stabiler, mit einem Deck, auf dem man richtig sitzen kann, und das ist die bessere Wahl, wenn jemand in der Gruppe seeempfindlich ist. Beide decken dieselbe Route ab.\n\nDie Pileh-Lagune ist der Stopp, für den die Leute buchen. Es ist ein tiefer Kanal aus grünem Wasser, von Klippen auf allen Seiten eingeschlossen, so ruhig, dass die Oberfläche die Spiegelung der Wände um sich herum hält, und darin zu schwimmen ist das Nächste, was Thailand zu einem Schwimmen im Inneren eines Berges hat.\n\nMaya Bay liegt auf Phi Phi Leh. Sie wurde 2022 wieder eröffnet, nachdem sie vier Jahre geschlossen war, damit sich das Riff erholen konnte, und läuft nach den aktuellen Regeln: Boote legen am hinteren Teil der Insel an, und Besucher gehen zu Fuß hindurch, was eine bessere Ankunft ist, als es das Anlegen am Strand je war.\n\nDas Schnorcheln auf dieser Route ist von der Art, bei der die Fische zu Ihnen kommen. Die Riffe rund um Phi Phi sind an Menschen gewöhnt, sodass die Schwärme ihre Position halten statt sich zu zerstreuen, und Sie sehen in zwanzig Minuten mehr als in einer Stunde an einem wilderen Ort.\n\nBuffet-Mittagessen und freie Zeit auf Phi Phi Don, der bewohnten Insel, füllen die Mitte des Tages.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hotelabholung und -rückfahrt in Ao Nang und Krabi Town, den Bootstransfer mit zertifizierter Crew, einen englischsprachigen Guide und das Buffet-Mittagessen.\n\nAcht Stunden. Nationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt, führen Sie also Bargeld mit. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Wählen Sie ein schnelles Speedboot oder einen stabileren Katamaran",
+   "Schwimmen Sie in der Pileh-Lagune, von Klippen auf allen Seiten umschlossen",
+   "Maya Bay auf ihrer aktuellen Ankunftsroute seit 2022",
+   "Riff-Fische hier halten ihre Position statt sich zu zerstreuen",
+   "Buffet-Mittagessen und freie Zeit auf Phi Phi Don"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Ao Nang und Krabi Town",
+   "Bootstransfer mit zertifizierter Crew",
+   "Englischsprachiger Guide",
+   "Buffet-Mittagessen",
+   "Schnorchelmaske, Flossen und Schwimmweste",
+   "Trinkwasser, Softdrinks und Obst",
+   "Nationalpark-Gebühren",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke",
+   "Handtücher",
+   "Kamera- und Ausrüstungsvermietung",
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

@@ -44663,6 +44663,96 @@ export const ES_TOURS: Record<string, TourT> = {
    "Objetos personales"
   ]
  },
+ "ao-thalane-bay-half-day-tour": {
+  "title": "Reme por los manglares de Ao Thalane: escapada en kayak de medio día",
+  "metaTitle": "Ao Thalane: escapada en kayak de medio día",
+  "metaDescription": "Deslícese en kayak por los canales de manglar de marea de Ao Thalane, adéntrese en lagunas ocultas y cuevas marinas, y observe fauna bajo imponentes acantilados calizos.",
+  "shortDescription": "Deslícese en kayak por los canales de manglar de marea de Ao Thalane, adéntrese en lagunas ocultas y cuevas marinas, y observe fauna bajo imponentes acantilados calizos.",
+  "fullDescription": "Ao Thalane es el contrapeso tranquilo a las ajetreadas playas de islas de Krabi. En lugar de motores de lancha rápida, tiene el chapoteo de un remo, el chasquido de cangrejos en el barro y el susurro de hojas mientras los macacos se mueven por las ramas arriba. Nuestros guías conocen íntimamente las tablas de mareas, así que sale cuando el agua está en el nivel adecuado para deslizarse por los canales más estrechos en lugar de mirar un banco de barro.\n\nLa ruta se abre paso entre raíces de manglar y sale a una bahía abierta rodeada de karst calizos que se elevan directamente del agua. Por el camino se adentra en cuevas marinas bajas y flota dentro de una laguna oculta que se abre detrás de un hueco en la roca. Su guía señala peces saltarines, varanos, martines pescadores y los macacos comedores de cangrejos que han hecho de estos bosques su hogar.\n\nLos kayaks son biplazas estables y el remo es suave, así que no se necesita experiencia. Los traslados, chalecos salvavidas y bolsas secas están todos organizados para usted.",
+  "highlights": [
+   "Reme en kayaks biplazas estables por canales de manglar de marea",
+   "Flote hacia una laguna oculta rodeada de acantilados calizos",
+   "Observe de cerca macacos, peces saltarines y martines pescadores",
+   "Adéntrese en cuevas marinas bajas con la marea adecuada",
+   "Recogida y regreso al hotel con aire acondicionado incluidos"
+  ],
+  "included": [
+   "Recogida y regreso al hotel con aire acondicionado",
+   "Guía de kayak de habla inglesa",
+   "Kayak biplaza, remo y chaleco salvavidas",
+   "Bolsa seca para objetos de valor",
+   "Agua potable y fruta de temporada",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Almuerzo y bebidas adicionales",
+   "Propinas",
+   "Gastos personales",
+   "Toalla y ropa de cambio"
+  ]
+ },
+ "chicken-island-sunset-sunset-tour": {
+  "title": "Experiencia en catamarán al atardecer en Phi Phi y cuatro islas",
+  "metaTitle": "Catamarán al atardecer: Phi Phi y 4 islas",
+  "metaDescription": "Combine las islas Phi Phi y las cuatro islas de Krabi en un catamarán rápido, terminando con la puesta de sol tras los karst calizos desde la cubierta abierta.",
+  "shortDescription": "Combine las islas Phi Phi y las cuatro islas de Krabi en un catamarán rápido, terminando con la puesta de sol tras los karst calizos desde la cubierta abierta.",
+  "fullDescription": "Phi Phi y las cuatro islas de Krabi en un solo día, realizado en catamarán rápido en lugar de lancha rápida.\n\nEl barco importa en esta ruta. Un día de nueve horas que cubre tanto Phi Phi como las islas locales significa mucha agua abierta, y los dos cascos de un catamarán se mantienen considerablemente más estables en marejada que una lancha rápida monocasco. Si alguien de su grupo es propenso al mareo, esta es la versión del día a reservar.\n\nPhi Phi Leh alberga Maya Bay, que cerró por completo de 2018 a 2022 para que el arrecife se recuperara y reabrió bajo condiciones estrictas: los barcos amarran en la parte trasera de la isla y los visitantes entran a pie, el baño dentro de la bahía está restringido, y el número diario de visitantes está limitado. La cercana laguna de Pileh es un canal de agua verde oscura rodeado de acantilados por todos lados.\n\nSe hace snorkel en dos sistemas de arrecife distintos, más de lo que la mayoría de las excursiones en esta ruta logran, y el almuerzo es un buffet tailandés en Phi Phi Don, la isla habitada.\n\nEl trayecto de vuelta recorre las cuatro islas de Krabi con el atardecer sobre la costa kárstica desde el agua. La caliza conserva el color mucho después de que se pone el sol, así que la luz dura más de lo que se esperaría.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye la recogida y el regreso al hotel en Ao Nang y la ciudad de Krabi, el catamarán rápido premium con tripulación, un guía de habla inglesa, almuerzo buffet tailandés y refrescos ligeros.\n\nNueve horas. Las tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario, así que lleve efectivo. Un día de aviso mínimo.",
+  "highlights": [
+   "Catamarán rápido, mucho más estable que un monocasco en marejada",
+   "Maya Bay bajo las reglas posteriores a 2022: a pie, número limitado",
+   "Laguna de Pileh, rodeada de acantilados por todos lados",
+   "Dos sistemas de arrecife distintos explorados en snorkel",
+   "Atardecer sobre los karst en el camino de vuelta"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Ao Nang y la ciudad de Krabi",
+   "Catamarán rápido premium con tripulación",
+   "Guía de habla inglesa",
+   "Almuerzo buffet tailandés y refrescos ligeros",
+   "Equipo de snorkel y chalecos salvavidas",
+   "Refrescos, agua y fruta",
+   "Tarifas del parque nacional",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Bebidas alcohólicas",
+   "Toallas",
+   "Alquiler de cámara",
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
+ "maya-bay-islands-full-day-tour": {
+  "title": "Escapada en barco de día completo a las islas Phi Phi con almuerzo buffet",
+  "metaTitle": "Phi Phi día completo: escapada en barco, buffet",
+  "metaDescription": "Pase un día completo entre las islas Phi Phi en lancha rápida o catamarán, con snorkel en arrecife, el baño en la laguna de Pileh y un almuerzo buffet en tierra en Phi Phi Don.",
+  "shortDescription": "Pase un día completo entre las islas Phi Phi en lancha rápida o catamarán, con snorkel en arrecife, el baño en la laguna de Pileh y un almuerzo buffet en tierra en Phi Phi Don.",
+  "fullDescription": "Un día completo alrededor del grupo de Phi Phi, dejando la elección del barco en sus manos.\n\nLa elección entre una lancha rápida y un catamarán es la decisión que merece la pena tomar antes de reservar. Una lancha rápida llega rápido y le da más tiempo en cada parada. Un catamarán es más lento y mucho más estable, con una cubierta donde sentarse adecuadamente, y es la mejor opción si alguien del grupo se marea en el mar. Ambos cubren la misma ruta.\n\nLa laguna de Pileh es la parada por la que la gente reserva. Es un canal profundo de agua verde rodeado de acantilados por todos lados, tan tranquilo que la superficie refleja las paredes a su alrededor, y nadar en ella es lo más parecido que hay en Tailandia a nadar dentro de una montaña.\n\nMaya Bay está en Phi Phi Leh. Reabrió en 2022 tras cuatro años cerrada para que el arrecife se recuperara, y funciona según las reglas actuales: los barcos amarran en la parte trasera de la isla y los visitantes entran a pie a través de ella, lo que es una mejor llegada de lo que fue nunca atracar en la playa.\n\nEl snorkel en esta ruta es del tipo en que los peces vienen a usted. Los arrecifes alrededor de Phi Phi están acostumbrados a la gente, así que los bancos mantienen su posición en lugar de dispersarse, y ve más en veinte minutos que en una hora en un lugar más salvaje.\n\nEl almuerzo buffet y el tiempo libre en Phi Phi Don, la isla habitada, llenan la mitad del día.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye la recogida y el regreso al hotel en Ao Nang y la ciudad de Krabi, el traslado en barco con tripulación certificada, un guía de habla inglesa y el almuerzo buffet.\n\nOcho horas. Las tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario, así que lleve efectivo. Un día de aviso mínimo.",
+  "highlights": [
+   "Elija una lancha rápida veloz o un catamarán más estable",
+   "Nade en la laguna de Pileh, rodeada de acantilados por todos lados",
+   "Maya Bay en su ruta de llegada actual posterior a 2022",
+   "Los peces de arrecife aquí mantienen su posición en lugar de dispersarse",
+   "Almuerzo buffet y tiempo libre en Phi Phi Don"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Ao Nang y la ciudad de Krabi",
+   "Traslado en barco con tripulación certificada",
+   "Guía de habla inglesa",
+   "Almuerzo buffet",
+   "Máscara de snorkel, aletas y chaleco salvavidas",
+   "Agua potable, refrescos y fruta",
+   "Tarifas del parque nacional",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Bebidas alcohólicas",
+   "Toallas",
+   "Alquiler de cámara y equipo",
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",
