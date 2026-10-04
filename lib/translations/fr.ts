@@ -45993,6 +45993,96 @@ export const FR_TOURS: Record<string, TourT> = {
    "Séances d'entraînement de Muay Thai (voir notre visite séparée d'entraînement privé de Muay Thai)"
   ]
  },
+ "bangkok-temples-canals-local-life-bike-tour": {
+  "title": "Bangkok : visite à vélo des temples, canaux et vie locale",
+  "metaTitle": "Bangkok : vélo, temples et canaux de Thonburi",
+  "metaDescription": "Pédalez à travers les vraies ruelles de Bangkok lors de cette visite guidée à vélo de 3 heures dans Thonburi, la rive ouest plus tranquille du Chao Phraya. Pédalez à travers des sentiers de canaux, des cours de temples et des quartiers locaux qui n'ont pas changé depuis des décennies. Maximum 8 invités par groupe.",
+  "shortDescription": "Pédalez à travers les vraies ruelles de Bangkok lors de cette visite guidée à vélo de 3 heures dans Thonburi, la rive ouest plus tranquille du Chao Phraya. Pédalez à travers des sentiers de canaux, des cours de temples et des quartiers locaux qui n'ont pas changé depuis des décennies. Maximum 8 invités par groupe.",
+  "fullDescription": "Cette visite guidée à vélo de 3 heures vous emmène à travers le district de Thonburi sur la rive ouest de Bangkok, le côté plus tranquille, plus ancien, et plus authentique de la ville que la plupart des visiteurs ne voient jamais. À vélo, vous pouvez accéder aux ruelles étroites, aux sentiers de canaux, et aux allées de temples qui sont complètement hors limites pour les tuk-tuks et les bus touristiques.\n\nL'itinéraire traverse des ruelles bordées de maisons-boutiques traditionnelles en bois, passe devant des temples communautaires où les moines collectent des aumônes tôt le matin, le long des khlongs (canaux) où les bateaux longtail transportent écoliers et vendeurs de marché, et à travers des marchés locaux vendant des choses qui n'ont rien à voir avec le tourisme. C'est la vie quotidienne de Bangkok, et vous roulez en plein milieu.\n\nVotre guide (généralement Dan ou Filip, tous deux résidents de longue date de Bangkok avec une véritable connaissance du quartier) garde le groupe petit, un maximum de 8 cyclistes, et se déplace à un rythme détendu avec des arrêts fréquents pour les photos, les histoires, et les collations de rue. L'itinéraire est plat et facile, conçu pour tous les niveaux de condition physique. Les invités âgés de 8 à 75 ans le terminent confortablement.\n\nLes points forts le long de l'itinéraire de 15 à 18 km incluent : des maisons traditionnelles en teck sur pilotis au bord des canaux, des anciens wats cachés entre les maisons avec presque aucun visiteur, le son des cloches de temple et des chants de moines tôt le matin, des bateaux longtail se faufilant à travers d'étroites voies d'eau, et un véritable marché local où les seuls touristes sont dans votre groupe.\n\nLa visite fonctionne deux fois par jour à 9h00 et 14h00. Vélos, casques, eau, et ponchos de pluie sont tous inclus. Aucune expérience nécessaire, juste la capacité de faire du vélo de manière indépendante.",
+  "highlights": [
+   "Pédalez à travers les ruelles tranquilles et les sentiers de canaux de Thonburi, hors des sentiers touristiques principaux",
+   "Petit groupe de 8 cyclistes maximum, rythme très personnel et sans précipitation",
+   "Visitez des temples anciens cachés entre les maisons locales avec presque aucun autre visiteur",
+   "Pédalez le long des khlongs avec des bateaux longtail, des maisons au bord des canaux, et des pêcheurs locaux",
+   "Arrêtez-vous à un marché local où les vendeurs ne parlent pas anglais, le vrai Bangkok",
+   "Itinéraire plat et facile de 15 à 18 km adapté aux âges de 8 à 75 ans et à tous les niveaux de condition physique",
+   "Vélo de ville de qualité, casque, eau et poncho de pluie inclus",
+   "Guidé par des résidents de longue date de Bangkok qui connaissent chaque ruelle, raccourci, et histoire"
+  ],
+  "included": [
+   "Vélo de ville de qualité avec casque (taille à l'arrivée)",
+   "Eau en bouteille pendant toute la visite",
+   "Poncho de pluie (si nécessaire)",
+   "Guide local parlant anglais",
+   "Sièges enfants et petits cadres disponibles sur demande (indiquez les tailles à l'avance)"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel (rendez-vous vous-même au BTS Pho Nimit)",
+   "Nourriture et boissons aux arrêts de marché",
+   "Achats personnels",
+   "Pourboires pour le guide (facultatif mais appréciés)"
+  ]
+ },
+ "wat-prayoon-bike-tour": {
+  "title": "Bangkok : visite à vélo des temples, canaux et vie locale",
+  "metaTitle": "Bangkok : vélo, temples et canaux de Thonburi",
+  "metaDescription": "Pédalez à travers les vraies ruelles de Bangkok lors de cette visite guidée à vélo de 3 heures dans Thonburi, la rive ouest plus tranquille du Chao Phraya. Pédalez à travers des sentiers de canaux, des cours de temples et des quartiers locaux qui n'ont pas changé depuis des décennies. Maximum 8 invités par groupe.",
+  "shortDescription": "Pédalez à travers les vraies ruelles de Bangkok lors de cette visite guidée à vélo de 3 heures dans Thonburi, la rive ouest plus tranquille du Chao Phraya. Pédalez à travers des sentiers de canaux, des cours de temples et des quartiers locaux qui n'ont pas changé depuis des décennies. Maximum 8 invités par groupe.",
+  "fullDescription": "Cette visite guidée à vélo de 3 heures vous emmène à travers le district de Thonburi sur la rive ouest de Bangkok, le côté plus tranquille, plus ancien, et plus authentique de la ville que la plupart des visiteurs ne voient jamais. À vélo, vous pouvez accéder aux ruelles étroites, aux sentiers de canaux, et aux allées de temples qui sont complètement hors limites pour les tuk-tuks et les bus touristiques.\n\nL'itinéraire traverse des ruelles bordées de maisons-boutiques traditionnelles en bois, passe devant des temples communautaires où les moines collectent des aumônes tôt le matin, le long des khlongs (canaux) où les bateaux longtail transportent écoliers et vendeurs de marché, et à travers des marchés locaux vendant des choses qui n'ont rien à voir avec le tourisme. C'est la vie quotidienne de Bangkok, et vous roulez en plein milieu.\n\nVotre guide (généralement Dan ou Filip, tous deux résidents de longue date de Bangkok avec une véritable connaissance du quartier) garde le groupe petit, un maximum de 8 cyclistes, et se déplace à un rythme détendu avec des arrêts fréquents pour les photos, les histoires, et les collations de rue. L'itinéraire est plat et facile, conçu pour tous les niveaux de condition physique. Les invités âgés de 8 à 75 ans le terminent confortablement.\n\nLes points forts le long de l'itinéraire de 15 à 18 km incluent : des maisons traditionnelles en teck sur pilotis au bord des canaux, des anciens wats cachés entre les maisons avec presque aucun visiteur, le son des cloches de temple et des chants de moines tôt le matin, des bateaux longtail se faufilant à travers d'étroites voies d'eau, et un véritable marché local où les seuls touristes sont dans votre groupe.\n\nLa visite fonctionne deux fois par jour à 9h00 et 14h00. Vélos, casques, eau, et ponchos de pluie sont tous inclus. Aucune expérience nécessaire, juste la capacité de faire du vélo de manière indépendante.",
+  "highlights": [
+   "Pédalez à travers les ruelles tranquilles et les sentiers de canaux de Thonburi, hors des sentiers touristiques principaux",
+   "Petit groupe de 8 cyclistes maximum, rythme très personnel et sans précipitation",
+   "Visitez des temples anciens cachés entre les maisons locales avec presque aucun autre visiteur",
+   "Pédalez le long des khlongs avec des bateaux longtail, des maisons au bord des canaux, et des pêcheurs locaux",
+   "Arrêtez-vous à un marché local où les vendeurs ne parlent pas anglais, le vrai Bangkok",
+   "Itinéraire plat et facile de 15 à 18 km adapté aux âges de 8 à 75 ans et à tous les niveaux de condition physique",
+   "Vélo de ville de qualité, casque, eau et poncho de pluie inclus",
+   "Guidé par des résidents de longue date de Bangkok qui connaissent chaque ruelle, raccourci, et histoire"
+  ],
+  "included": [
+   "Vélo de ville de qualité avec casque (taille à l'arrivée)",
+   "Eau en bouteille pendant toute la visite",
+   "Poncho de pluie (si nécessaire)",
+   "Guide local parlant anglais",
+   "Sièges enfants et petits cadres disponibles sur demande (indiquez les tailles à l'avance)"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel (rendez-vous vous-même au BTS Pho Nimit)",
+   "Nourriture et boissons aux arrêts de marché",
+   "Achats personnels",
+   "Pourboires pour le guide (facultatif mais appréciés)"
+  ]
+ },
+ "ayutthaya-ancient-temples-day-trip-bangkok-thai-lunch": {
+  "title": "Excursion d'une journée vers les temples anciens d'Ayutthaya depuis Bangkok avec déjeuner thaïlandais",
+  "metaTitle": "Ayutthaya : temples anciens depuis Bangkok",
+  "metaDescription": "Remontez 700 ans en arrière lors d'une visite guidée d'une journée complète à Ayutthaya, l'ancienne capitale royale de Thaïlande. Visitez quatre temples classés UNESCO, dégustez un déjeuner buffet thaïlandais local, et retournez à Bangkok avec prise en charge hôtelière incluse sur certaines options.",
+  "shortDescription": "Remontez 700 ans en arrière lors d'une visite guidée d'une journée complète à Ayutthaya, l'ancienne capitale royale de Thaïlande. Visitez quatre temples classés UNESCO, dégustez un déjeuner buffet thaïlandais local, et retournez à Bangkok avec prise en charge hôtelière incluse sur certaines options.",
+  "fullDescription": "À seulement 80 km au nord de Bangkok, l'ancienne cité d'Ayutthaya fut autrefois l'une des plus grandes et des plus puissantes villes d'Asie, une capitale royale prospère qui éblouissait les diplomates et commerçants étrangers du monde entier. Aujourd'hui, ses prangs en ruine, ses statues de Bouddha décapitées, et ses vastes terrains de temples sont un site du patrimoine mondial de l'UNESCO et l'une des destinations historiques les plus émouvantes d'Asie du Sud-Est.\n\nLors de cette excursion d'une journée guidée, un guide local compétent vous mène à travers quatre des sites les plus emblématiques d'Ayutthaya :\n\n**Wat Phra Sri Sanphet** : le cœur de l'ancien complexe du palais royal, avec ses trois chedis célèbres se dressant contre le ciel. C'était le temple le plus sacré du royaume, utilisé exclusivement par la famille royale.\n\n**Wat Mahathat** : où vous trouverez la célèbre image d'une tête de Bouddha enlacée dans les racines d'un arbre Bodhi, l'un des sites les plus photographiés de Thaïlande.\n\n**Wat Ratchaburana** : construit par le roi Borom Rachathirat II pour honorer ses frères morts lors d'un duel d'éléphants ; le prang ici contient encore des fresques originales.\n\n**Wat Phra Ram** : construit sur le site de crémation du roi Ramathibodi Ier, le fondateur d'Ayutthaya.\n\nEntre les visites de temples, vous vous arrêterez pour un authentique déjeuner buffet thaïlandais dans un restaurant local, vous donnant le temps de vous reposer et de savourer les saveurs de la Thaïlande centrale. Le guide fournit un contexte historique tout au long de la visite, transformant les ruines en histoires vivantes.\n\nLe transport se fait en fourgonnette climatisée ou en mini-car, vous gardant confortable pendant le trajet de deux heures dans chaque sens. La journée se termine par une dépose au MBK Mall à Bangkok, idéalement situé près du BTS Skytrain.",
+  "highlights": [
+   "Visitez 4 temples du patrimoine mondial de l'UNESCO dans l'ancienne capitale d'Ayutthaya",
+   "Voyez l'emblématique tête de Bouddha enlacée dans les racines d'arbre à Wat Mahathat",
+   "Explorez Wat Phra Sri Sanphet, le temple royal au cœur de l'ancien complexe du palais",
+   "Authentique déjeuner buffet thaïlandais dans un restaurant local inclus",
+   "Transport en fourgonnette climatisée ou mini-car tout au long",
+   "Guide local expert parlant anglais avec une connaissance historique approfondie",
+   "Prise en charge hôtelière disponible sur certaines options",
+   "Note de 4,7★ sur plus de 10 800 avis vérifiés"
+  ],
+  "included": [
+   "Guide local parlant anglais",
+   "Frais d'entrée aux 4 temples (sur les options standard)",
+   "Authentique déjeuner buffet thaïlandais dans un restaurant local (sur les options standard)",
+   "Transport climatisé",
+   "Prise en charge à l'hôtel (sur certaines options)",
+   "Dépose au MBK Mall, Bangkok"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles et shopping",
+   "Pourboires pour le guide et le chauffeur (appréciés)",
+   "Frais d'entrée et déjeuner non inclus sur l'option visite en anglais uniquement"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

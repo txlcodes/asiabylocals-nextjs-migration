@@ -45992,6 +45992,96 @@ export const DE_TOURS: Record<string, TourT> = {
    "Muay-Thai-Trainingseinheiten (siehe unsere separate private Muay-Thai-Trainingstour)"
   ]
  },
+ "bangkok-temples-canals-local-life-bike-tour": {
+  "title": "Bangkok: Fahrradtour zu Tempeln, Kanälen und lokalem Leben",
+  "metaTitle": "Bangkok: Fahrrad, Tempel und Kanäle Thonburi",
+  "metaDescription": "Radeln Sie durch Bangkoks echte Seitenstraßen auf dieser 3-stündigen geführten Fahrradtour durch Thonburi, das ruhigere Westufer des Chao Phraya. Radeln Sie durch Kanalpfade, Tempelhöfe, und lokale Nachbarschaften, die sich seit Jahrzehnten nicht verändert haben. Maximal 8 Gäste pro Gruppe.",
+  "shortDescription": "Radeln Sie durch Bangkoks echte Seitenstraßen auf dieser 3-stündigen geführten Fahrradtour durch Thonburi, das ruhigere Westufer des Chao Phraya. Radeln Sie durch Kanalpfade, Tempelhöfe, und lokale Nachbarschaften, die sich seit Jahrzehnten nicht verändert haben. Maximal 8 Gäste pro Gruppe.",
+  "fullDescription": "Diese 3-stündige geführte Fahrradtour führt Sie durch den Thonburi-Distrikt am Westufer Bangkoks, die ruhigere, ältere, authentischere Seite der Stadt, die die meisten Besucher nie sehen. Auf zwei Rädern erreichen Sie die engen Sois, Kanalpfade, und Tempelgassen, die für Tuk-Tuks und Reisebusse völlig unzugänglich sind.\n\nDie Route schlängelt sich durch Seitenstraßen, gesäumt von traditionellen hölzernen Geschäftshäusern, vorbei an Gemeinschaftstempeln, wo Mönche früh morgens Almosen sammeln, entlang von Khlongs (Kanälen), wo Longtail-Boote Schulkinder und Marktverkäufer transportieren, und durch lokale Märkte, die Dinge verkaufen, die nichts mit Tourismus zu tun haben. Dies ist das tägliche Leben Bangkoks, und Sie radeln mittendurch.\n\nIhr Guide (typischerweise Dan oder Filip, beide langjährige Bangkok-Bewohner mit echtem Wissen über die Nachbarschaft) hält die Gruppe klein, maximal 8 Fahrer, und bewegt sich in entspanntem Tempo mit häufigen Stopps für Fotos, Geschichten, und Streetfood. Die Route ist flach und einfach, für alle Fitnessstufen ausgelegt. Gäste von 8 bis 75 Jahren bewältigen sie komfortabel.\n\nHöhepunkte entlang der 15-18 km langen Route umfassen: traditionelle Teakholzhäuser auf Stelzen am Kanal, uralte Wats versteckt zwischen Häusern mit fast keinen Besuchern, den Klang von Tempelglocken und Mönchsgesängen früh morgens, Longtail-Boote, die durch enge Wasserwege weben, und einen echten lokalen Markt, wo die einzigen Touristen in Ihrer Gruppe sind.\n\nDie Tour findet zweimal täglich um 9:00 und 14:00 Uhr statt. Fahrräder, Helme, Wasser, und Regenponchos sind alle inklusive. Keine Erfahrung nötig, nur die Fähigkeit, selbstständig Fahrrad zu fahren.",
+  "highlights": [
+   "Radeln Sie durch Thonburis ruhige Seitenstraßen und Kanalpfade, abseits der Haupttouristenroute",
+   "Kleingruppe von maximal 8 Fahrern, sehr persönliches, entspanntes Tempo",
+   "Besuchen Sie uralte Tempel versteckt zwischen lokalen Häusern mit fast keinen anderen Besuchern",
+   "Radeln Sie entlang von Khlongs mit Longtail-Booten, Häusern am Kanal, und lokalen Fischern",
+   "Halten Sie an einem lokalen Markt, wo die Verkäufer kein Englisch sprechen, das echte Bangkok",
+   "Einfache flache 15-18 km Route geeignet für Alter 8-75 und alle Fitnessstufen",
+   "Qualitäts-Stadtfahrrad, Helm, Wasser und Regenponcho inklusive",
+   "Geführt von langjährigen Bangkok-Bewohnern, die jede Soi, Abkürzung, und Geschichte kennen"
+  ],
+  "included": [
+   "Qualitäts-Stadtfahrrad mit Helm (Größe bei Ankunft)",
+   "Flaschenwasser während der gesamten Tour",
+   "Regenponcho (falls benötigt)",
+   "Englischsprachiger lokaler Guide",
+   "Kindersitze und kleine Rahmen auf Anfrage verfügbar (Größen im Voraus angeben)"
+  ],
+  "notIncluded": [
+   "Hotelabholung und -rückfahrt (selbst zur BTS Pho Nimit gelangen)",
+   "Essen und Getränke an Marktstopps",
+   "Persönliche Einkäufe",
+   "Trinkgelder für den Guide (optional, aber geschätzt)"
+  ]
+ },
+ "wat-prayoon-bike-tour": {
+  "title": "Bangkok: Fahrradtour zu Tempeln, Kanälen und lokalem Leben",
+  "metaTitle": "Bangkok: Fahrrad, Tempel und Kanäle Thonburi",
+  "metaDescription": "Radeln Sie durch Bangkoks echte Seitenstraßen auf dieser 3-stündigen geführten Fahrradtour durch Thonburi, das ruhigere Westufer des Chao Phraya. Radeln Sie durch Kanalpfade, Tempelhöfe, und lokale Nachbarschaften, die sich seit Jahrzehnten nicht verändert haben. Maximal 8 Gäste pro Gruppe.",
+  "shortDescription": "Radeln Sie durch Bangkoks echte Seitenstraßen auf dieser 3-stündigen geführten Fahrradtour durch Thonburi, das ruhigere Westufer des Chao Phraya. Radeln Sie durch Kanalpfade, Tempelhöfe, und lokale Nachbarschaften, die sich seit Jahrzehnten nicht verändert haben. Maximal 8 Gäste pro Gruppe.",
+  "fullDescription": "Diese 3-stündige geführte Fahrradtour führt Sie durch den Thonburi-Distrikt am Westufer Bangkoks, die ruhigere, ältere, authentischere Seite der Stadt, die die meisten Besucher nie sehen. Auf zwei Rädern erreichen Sie die engen Sois, Kanalpfade, und Tempelgassen, die für Tuk-Tuks und Reisebusse völlig unzugänglich sind.\n\nDie Route schlängelt sich durch Seitenstraßen, gesäumt von traditionellen hölzernen Geschäftshäusern, vorbei an Gemeinschaftstempeln, wo Mönche früh morgens Almosen sammeln, entlang von Khlongs (Kanälen), wo Longtail-Boote Schulkinder und Marktverkäufer transportieren, und durch lokale Märkte, die Dinge verkaufen, die nichts mit Tourismus zu tun haben. Dies ist das tägliche Leben Bangkoks, und Sie radeln mittendurch.\n\nIhr Guide (typischerweise Dan oder Filip, beide langjährige Bangkok-Bewohner mit echtem Wissen über die Nachbarschaft) hält die Gruppe klein, maximal 8 Fahrer, und bewegt sich in entspanntem Tempo mit häufigen Stopps für Fotos, Geschichten, und Streetfood. Die Route ist flach und einfach, für alle Fitnessstufen ausgelegt. Gäste von 8 bis 75 Jahren bewältigen sie komfortabel.\n\nHöhepunkte entlang der 15-18 km langen Route umfassen: traditionelle Teakholzhäuser auf Stelzen am Kanal, uralte Wats versteckt zwischen Häusern mit fast keinen Besuchern, den Klang von Tempelglocken und Mönchsgesängen früh morgens, Longtail-Boote, die durch enge Wasserwege weben, und einen echten lokalen Markt, wo die einzigen Touristen in Ihrer Gruppe sind.\n\nDie Tour findet zweimal täglich um 9:00 und 14:00 Uhr statt. Fahrräder, Helme, Wasser, und Regenponchos sind alle inklusive. Keine Erfahrung nötig, nur die Fähigkeit, selbstständig Fahrrad zu fahren.",
+  "highlights": [
+   "Radeln Sie durch Thonburis ruhige Seitenstraßen und Kanalpfade, abseits der Haupttouristenroute",
+   "Kleingruppe von maximal 8 Fahrern, sehr persönliches, entspanntes Tempo",
+   "Besuchen Sie uralte Tempel versteckt zwischen lokalen Häusern mit fast keinen anderen Besuchern",
+   "Radeln Sie entlang von Khlongs mit Longtail-Booten, Häusern am Kanal, und lokalen Fischern",
+   "Halten Sie an einem lokalen Markt, wo die Verkäufer kein Englisch sprechen, das echte Bangkok",
+   "Einfache flache 15-18 km Route geeignet für Alter 8-75 und alle Fitnessstufen",
+   "Qualitäts-Stadtfahrrad, Helm, Wasser und Regenponcho inklusive",
+   "Geführt von langjährigen Bangkok-Bewohnern, die jede Soi, Abkürzung, und Geschichte kennen"
+  ],
+  "included": [
+   "Qualitäts-Stadtfahrrad mit Helm (Größe bei Ankunft)",
+   "Flaschenwasser während der gesamten Tour",
+   "Regenponcho (falls benötigt)",
+   "Englischsprachiger lokaler Guide",
+   "Kindersitze und kleine Rahmen auf Anfrage verfügbar (Größen im Voraus angeben)"
+  ],
+  "notIncluded": [
+   "Hotelabholung und -rückfahrt (selbst zur BTS Pho Nimit gelangen)",
+   "Essen und Getränke an Marktstopps",
+   "Persönliche Einkäufe",
+   "Trinkgelder für den Guide (optional, aber geschätzt)"
+  ]
+ },
+ "ayutthaya-ancient-temples-day-trip-bangkok-thai-lunch": {
+  "title": "Tagesausflug zu den antiken Tempeln von Ayutthaya ab Bangkok mit thailändischem Mittagessen",
+  "metaTitle": "Ayutthaya: antike Tempel ab Bangkok",
+  "metaDescription": "Reisen Sie 700 Jahre zurück bei einer ganztägigen geführten Reise nach Ayutthaya, Thailands antiker königlicher Hauptstadt. Besuchen Sie vier UNESCO-gelistete Tempel, genießen Sie ein lokales thailändisches Buffet-Mittagessen, und kehren Sie nach Bangkok zurück mit Hotelabholung bei ausgewählten Optionen inklusive.",
+  "shortDescription": "Reisen Sie 700 Jahre zurück bei einer ganztägigen geführten Reise nach Ayutthaya, Thailands antiker königlicher Hauptstadt. Besuchen Sie vier UNESCO-gelistete Tempel, genießen Sie ein lokales thailändisches Buffet-Mittagessen, und kehren Sie nach Bangkok zurück mit Hotelabholung bei ausgewählten Optionen inklusive.",
+  "fullDescription": "Nur 80 km nördlich von Bangkok war die antike Stadt Ayutthaya einst eine der größten und mächtigsten Städte Asiens, eine blühende königliche Hauptstadt, die ausländische Diplomaten und Händler aus der ganzen Welt beeindruckte. Heute sind ihre zerfallenden Prangs, kopflosen Buddha-Statuen, und ausgedehnten Tempelgelände eine UNESCO-Welterbestätte und eines der bewegendsten historischen Ziele Südostasiens.\n\nBei diesem geführten Tagesausflug führt Sie ein kenntnisreicher lokaler Guide durch vier der ikonischsten Stätten Ayutthayas:\n\n**Wat Phra Sri Sanphet**: das Herz des antiken königlichen Palastkomplexes, mit seinen drei berühmten Chedis, die hoch gegen den Himmel stehen. Dies war der heiligste Tempel im Königreich, ausschließlich von der königlichen Familie genutzt.\n\n**Wat Mahathat**: wo Sie das berühmte Bild eines Buddha-Kopfes finden, der sich in den Wurzeln eines Bodhi-Baums verschlungen hat, einer der meistfotografierten Anblicke Thailands.\n\n**Wat Ratchaburana**: erbaut von König Borom Rachathirat II zur Ehre seiner Brüder, die bei einem Elefantenduell starben; der Prang hier enthält noch originale Fresken.\n\n**Wat Phra Ram**: errichtet an der Einäscherungsstätte von König Ramathibodi I, dem Gründer von Ayutthaya.\n\nZwischen den Tempelbesuchen halten Sie für ein authentisches thailändisches Buffet-Mittagessen in einem lokalen Restaurant, das Ihnen Zeit gibt, sich auszuruhen und die Aromen Zentralthailands zu genießen. Der Guide liefert während der ganzen Zeit historischen Kontext und verwandelt Ruinen in lebendige Geschichten.\n\nDer Transport erfolgt im klimatisierten Van oder Minibus, der Sie auf der zweistündigen Fahrt in jede Richtung komfortabel hält. Der Tag endet mit dem Absetzen an der MBK Mall in Bangkok, bequem gelegen nahe der BTS Skytrain.",
+  "highlights": [
+   "Besuchen Sie 4 UNESCO-Weltkulturerbe-Tempel in der antiken Hauptstadt Ayutthaya",
+   "Sehen Sie den ikonischen Buddha-Kopf, verschlungen in Baumwurzeln, bei Wat Mahathat",
+   "Erkunden Sie Wat Phra Sri Sanphet, den königlichen Tempel im Herzen des alten Palastkomplexes",
+   "Authentisches thailändisches Buffet-Mittagessen in einem lokalen Restaurant inklusive",
+   "Klimatisierter Van- oder Minibus-Transport während der gesamten Tour",
+   "Fachkundiger englischsprachiger lokaler Guide mit tiefem historischem Wissen",
+   "Hotelabholung bei ausgewählten Optionen verfügbar",
+   "4,7★-Bewertung aus über 10.800 verifizierten Bewertungen"
+  ],
+  "included": [
+   "Englischsprachiger lokaler Guide",
+   "Eintrittsgebühren zu allen 4 Tempeln (bei Standardoptionen)",
+   "Authentisches thailändisches Buffet-Mittagessen im lokalen Restaurant (bei Standardoptionen)",
+   "Klimatisierter Transport",
+   "Hotelabholung (bei ausgewählten Optionen)",
+   "Absetzen an der MBK Mall, Bangkok"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben und Einkaufen",
+   "Trinkgelder für Guide und Fahrer (geschätzt)",
+   "Eintrittsgebühren und Mittagessen nicht inklusive bei der Option 'Nur englische Tour'"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
