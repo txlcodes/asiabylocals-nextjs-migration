@@ -46499,6 +46499,78 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "muay-thai-training-class-phuket-beginners": {
+  "title": "Clase de entrenamiento de Muay Thai en Phuket para principiantes",
+  "metaTitle": "Phuket: Muay Thai para principiantes",
+  "metaDescription": "Pruebe el entrenamiento autentico de Muay Thai en Phuket en el gimnasio de boxeo y Muay Thai Oleydong. Esta clase amigable para principiantes permite a los viajeros experimentar el deporte nacional de Tailandia mientras aprenden técnicas reales, mejoran su condición física, y entrenan junto a luchadores locales en un ambiente de gimnasio acogedor.",
+  "shortDescription": "Pruebe el entrenamiento autentico de Muay Thai en Phuket en el gimnasio de boxeo y Muay Thai Oleydong. Esta clase amigable para principiantes permite a los viajeros experimentar el deporte nacional de Tailandia mientras aprenden técnicas reales, mejoran su condición física, y entrenan junto a luchadores locales en un ambiente de gimnasio acogedor.",
+  "fullDescription": "Experimente el entrenamiento autentico de Muay Thai en Phuket en el gimnasio de boxeo y Muay Thai Oleydong, un campo de entrenamiento acogedor donde principiantes y entusiastas del fitness pueden aprender el famoso arte marcial de Tailandia. Esta sesión de entrenamiento está diseñada para viajeros que quieren experimentar el verdadero Muay Thai mientras visitan Phuket.\n\nDurante la sesión, entrenadores profesionales lo guiarán a través de calentamientos, técnicas básicas de Muay Thai, combinaciones de golpes, y ejercicios de fitness. Aprenderá a lanzar puñetazos, patadas, codazos, y rodillazos mientras mejora su fuerza, equilibrio, y resistencia.\n\nEl entrenamiento es amigable para principiantes, por lo que no se requiere experiencia previa. Ya sea que esté probando el Muay Thai por primera vez o quiera una experiencia autentica de gimnasio tailandés, esta clase es una forma divertida y energética de mantenerse activo mientras explora Phuket.\n\nEntrene en un ambiente real de Muay Thai, conozca a otros viajeros y luchadores, y descubra por qué el Muay Thai se conoce como el \"Arte de las Ocho Extremidades\".",
+  "highlights": [
+   "Entrenamiento de Muay Thai amigable para principiantes con entrenadores tailandeses profesionales",
+   "Experiencia autentica de gimnasio de Muay Thai en Phuket",
+   "Aprenda técnicas reales de Muay Thai, golpes, y ejercicios de fitness"
+  ],
+  "included": [
+   "Gimnasio",
+   "Entrenador"
+  ],
+  "notIncluded": [
+   "Comidas"
+  ]
+ },
+ "phuket-private-yacht-catamaran-charter-island-hopping": {
+  "title": "Chárter privado de yate y catamarán: salto de isla en isla en Phuket, 7 botes disponibles",
+  "metaTitle": "Phuket: chárter privado de yate, catamarán",
+  "metaDescription": "Elija entre 7 yates y catamaranes privados para la experiencia definitiva de salto de isla en isla en Phuket. Desde cruceros íntimos para parejas hasta chárteres de catamarán de lujo de 70 pies para hasta 20 invitados.",
+  "shortDescription": "Elija entre 7 yates y catamaranes privados para la experiencia definitiva de salto de isla en isla en Phuket. Desde cruceros íntimos para parejas hasta chárteres de catamarán de lujo de 70 pies para hasta 20 invitados.",
+  "fullDescription": "Experimente lo mejor de Phuket desde el agua con nuestra exclusiva flota de 7 yates y catamaranes privados. Ya sea que sea una pareja buscando una escapada romántica o un grupo celebrando una ocasión especial, tenemos la embarcación perfecta para usted.\n\nCada chárter incluye una tripulación profesional, almuerzo tailandés preparado a bordo, refrescos, equipo de snorkel, kayaks, y tablas de remo. Explore destinos impresionantes como la bahía de Phang Nga, la isla James Bond, las islas Khai, y playas escondidas accesibles solo en bote.\n\nNuestra flota va desde el íntimo yate Chilli (perfecto para parejas, hasta 8 invitados) hasta el magnífico catamarán de lujo Gani de 70 pies con jacuzzi, tobogán acuático, y espacio para 20 invitados. Cada bote viene completamente equipado con juguetes acuáticos y actividades.\n\nTodos los chárteres incluyen traslado de ida y vuelta desde su hotel a la marina. Simplemente elija su yate preferido, elija su fecha, y déjenos encargarnos de todo lo demás.",
+  "highlights": [
+   "Elija entre 7 yates y catamaranes privados diferentes",
+   "Experiencia de salto de isla en isla de día completo de 8 horas",
+   "Tripulación profesional con chef a bordo",
+   "Almuerzo tailandés, aperitivos, fruta fresca, y bebidas incluidos",
+   "Equipo de snorkel, kayaks, tablas de remo incluidos",
+   "Visite la bahía de Phang Nga, la isla James Bond, las islas Khai",
+   "Traslado de ida y vuelta al hotel a la marina incluido",
+   "Chárter privado, sin compartir con otros grupos"
+  ],
+  "included": [
+   "Yate/catamarán privado con capitán y tripulación completa, traslado de ida y vuelta al hotel (varía según el bote), almuerzo tailandés, refrescos y agua, equipo de snorkel, toallas, seguro, bebidas de bienvenida y fruta fresca, inclusiones adicionales varían según el bote (ver cada opción)"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada al parque nacional (400-600 THB por persona), propinas para la tripulación, puede aplicarse un recargo de combustible para ciertos destinos (Phi Phi/Racha/Krabi), licores y cócteles alcohólicos, buceo SNUBA (disponible a pedido para botes seleccionados)"
+  ]
+ },
+ "james-bond-island-speedboat-tour-phuket": {
+  "title": "Tour en lancha rápida a la isla James Bond desde Phuket con piragüismo y almuerzo",
+  "metaTitle": "Phuket: isla James Bond en lancha rápida",
+  "metaDescription": "Explore la famosa isla James Bond en la bahía de Phang Nga en un tour de día completo en lancha rápida desde Phuket. Disfrute del piragüismo a través de cuevas de piedra caliza, visite el pueblo de los gitanos del mar, nade en Koh Naka Yai, y disfrute del almuerzo con impresionantes vistas de las islas más espectaculares de Tailandia.",
+  "shortDescription": "Explore la famosa isla James Bond en la bahía de Phang Nga en un tour de día completo en lancha rápida desde Phuket. Disfrute del piragüismo a través de cuevas de piedra caliza, visite el pueblo de los gitanos del mar, nade en Koh Naka Yai, y disfrute del almuerzo con impresionantes vistas de las islas más espectaculares de Tailandia.",
+  "fullDescription": "Explore la asombrosa belleza de la bahía de Phang Nga en un tour de día completo en lancha rápida a la isla James Bond desde Phuket. Conocida por sus dramáticos acantilados de piedra caliza, aguas color esmeralda, y cuevas escondidas, este tour ofrece una de las aventuras isleñas más inolvidables del sur de Tailandia.\n\nSu viaje comienza con una conveniente recogida en el hotel en Phuket y traslado al muelle de salida. Después del check-in y un ligero desayuno con café o té, conocerá a su guía y recibirá una breve charla sobre el itinerario del día antes de subir a bordo de la lancha rápida.\n\nLa primera parada de la aventura lo lleva a Koh Panak, una isla famosa por sus impresionantes formaciones de piedra caliza y cuevas escondidas. Mientras navega alrededor de la isla, verá espectaculares estalactitas, estalagmitas, y acantilados imponentes que se elevan de las aguas turquesa de la bahía de Phang Nga.\n\nA continuación, continúe hacia la famosa Koh Tapu, mejor conocida como la isla James Bond. Este lugar icónico se hizo mundialmente famoso después de aparecer en la película de James Bond \"El hombre de la pistola de oro\". Rodeada de dramáticos karst de piedra caliza y agua cristalina, la isla es uno de los destinos más fotografiados de Tailandia.",
+  "highlights": [
+   "Visite la famosa isla James Bond en la bahía de Phang Nga",
+   "Haga piragüismo a través de cuevas y lagunas escondidas",
+   "Disfrute del almuerzo y relájese en islas tropicales"
+  ],
+  "included": [
+   "Guía turístico profesional",
+   "Recogida y regreso al hotel desde Phuket",
+   "Transporte en lancha rápida",
+   "Desayuno ligero en el muelle (café y té)",
+   "Almuerzo durante el tour",
+   "Tarifas de entrada al parque nacional",
+   "Experiencia de piragüismo",
+   "Chalecos salvavidas",
+   "Fruta fresca y bebidas refrescantes a bordo",
+   "Seguro de accidentes"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Bebidas alcohólicas",
+   "Propinas para el guía y la tripulación del bote",
+   "Actividades opcionales o compras en las islas"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

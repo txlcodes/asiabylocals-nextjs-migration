@@ -46498,6 +46498,78 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "muay-thai-training-class-phuket-beginners": {
+  "title": "Muay-Thai-Trainingskurs in Phuket für Anfänger",
+  "metaTitle": "Phuket: Muay Thai für Anfänger",
+  "metaDescription": "Probieren Sie authentisches Muay-Thai-Training in Phuket im Oleydong Boxing & Muay Thai Gym. Dieser anfängerfreundliche Kurs lässt Reisende Thailands Nationalsport erleben, während sie echte Techniken lernen, ihre Fitness verbessern, und zusammen mit lokalen Kämpfern in einer einladenden Trainingsumgebung trainieren.",
+  "shortDescription": "Probieren Sie authentisches Muay-Thai-Training in Phuket im Oleydong Boxing & Muay Thai Gym. Dieser anfängerfreundliche Kurs lässt Reisende Thailands Nationalsport erleben, während sie echte Techniken lernen, ihre Fitness verbessern, und zusammen mit lokalen Kämpfern in einer einladenden Trainingsumgebung trainieren.",
+  "fullDescription": "Erleben Sie authentisches Muay-Thai-Training in Phuket im Oleydong Boxing & Muay Thai Gym, einem einladenden Trainingslager, wo Anfänger und Fitnessbegeisterte Thailands berühmte Kampfkunst erlernen können. Diese Trainingseinheit ist für Reisende konzipiert, die echtes Muay Thai während ihres Besuchs in Phuket erleben möchten.\n\nWährend der Sitzung führen professionelle Trainer Sie durch Aufwärmübungen, grundlegende Muay-Thai-Techniken, Schlagkombinationen, und Fitnessübungen. Sie lernen, Schläge, Tritte, Ellbogen, und Knie zu setzen, während Sie Ihre Kraft, Balance, und Ausdauer verbessern.\n\nDas Training ist anfängerfreundlich, sodass keine Vorerfahrung erforderlich ist. Egal ob Sie Muay Thai zum ersten Mal ausprobieren oder ein authentisches thailändisches Sporthallen-Erlebnis wollen, dieser Kurs ist eine unterhaltsame und energiegeladene Art, aktiv zu bleiben, während Sie Phuket erkunden.\n\nTrainieren Sie in einer echten Muay-Thai-Umgebung, treffen Sie Mitreisende und Kämpfer, und entdecken Sie, warum Muay Thai als „Kunst der acht Gliedmaßen\" bekannt ist.",
+  "highlights": [
+   "Anfängerfreundliches Muay-Thai-Training mit professionellen thailändischen Trainern",
+   "Authentisches Muay-Thai-Sporthallen-Erlebnis in Phuket",
+   "Lernen Sie echte Muay-Thai-Techniken, Schläge, und Fitnessübungen"
+  ],
+  "included": [
+   "Sporthalle",
+   "Trainer"
+  ],
+  "notIncluded": [
+   "Mahlzeiten"
+  ]
+ },
+ "phuket-private-yacht-catamaran-charter-island-hopping": {
+  "title": "Private Yacht- und Katamaran-Charter: Island-Hopping Phuket, 7 Boote verfügbar",
+  "metaTitle": "Phuket: private Yacht-Charter, Katamaran",
+  "metaDescription": "Wählen Sie aus 7 privaten Yachten und Katamaranen für das ultimative Island-Hopping-Erlebnis in Phuket. Von intimen Kreuzfahrten für Paare bis zu luxuriösen 70-Fuß-Katamaran-Chartern für bis zu 20 Gäste.",
+  "shortDescription": "Wählen Sie aus 7 privaten Yachten und Katamaranen für das ultimative Island-Hopping-Erlebnis in Phuket. Von intimen Kreuzfahrten für Paare bis zu luxuriösen 70-Fuß-Katamaran-Chartern für bis zu 20 Gäste.",
+  "fullDescription": "Erleben Sie das Beste von Phuket vom Wasser aus mit unserer exklusiven Flotte von 7 privaten Yachten und Katamaranen. Egal ob Sie ein Paar auf der Suche nach einem romantischen Ausflug sind oder eine Gruppe, die einen besonderen Anlass feiert, wir haben das perfekte Boot für Sie.\n\nJede Charter umfasst eine professionelle Crew, an Bord zubereitetes thailändisches Mittagessen, Erfrischungen, Schnorchelausrüstung, Kajaks, und Paddleboards. Erkunden Sie atemberaubende Ziele wie die Phang-Nga-Bucht, die James-Bond-Insel, die Khai-Inseln, und versteckte Strände, die nur mit dem Boot erreichbar sind.\n\nUnsere Flotte reicht von der intimen Chilli-Yacht (perfekt für Paare, bis zu 8 Gäste) bis zum prächtigen 70-Fuß-Luxuskatamaran Gani mit Jacuzzi, Wasserrutsche, und Platz für 20 Gäste. Jedes Boot ist vollständig mit Wasserspielzeug und Aktivitäten ausgestattet.\n\nAlle Charter umfassen Hin- und Rücktransfer von Ihrem Hotel zum Yachthafen. Wählen Sie einfach Ihre bevorzugte Yacht, wählen Sie Ihr Datum, und überlassen Sie uns den Rest.",
+  "highlights": [
+   "Wählen Sie aus 7 verschiedenen privaten Yachten und Katamaranen",
+   "Ganztägiges 8-stündiges Island-Hopping-Erlebnis",
+   "Professionelle Crew mit Koch an Bord",
+   "Thailändisches Mittagessen, Snacks, frisches Obst, und Getränke inklusive",
+   "Schnorchelausrüstung, Kajaks, Paddleboards inklusive",
+   "Besuchen Sie die Phang-Nga-Bucht, die James-Bond-Insel, die Khai-Inseln",
+   "Hin- und Rücktransfer vom Hotel zum Yachthafen inklusive",
+   "Privatcharter, kein Teilen mit anderen Gruppen"
+  ],
+  "included": [
+   "Private Yacht/Katamaran mit Kapitän und vollständiger Crew, Hin- und Rücktransfer vom Hotel (variiert je nach Boot), thailändisches Mittagessen, Softdrinks und Wasser, Schnorchelausrüstung, Handtücher, Versicherung, Willkommensgetränke und frisches Obst, zusätzliche Leistungen variieren je nach Boot (siehe jede Option)"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Nationalparks (400-600 THB pro Person), Trinkgelder für die Crew, Treibstoffzuschlag kann für bestimmte Ziele anfallen (Phi Phi/Racha/Krabi), alkoholische Spirituosen und Cocktails, SNUBA-Tauchen (auf Anfrage für ausgewählte Boote verfügbar)"
+  ]
+ },
+ "james-bond-island-speedboat-tour-phuket": {
+  "title": "Speedboot-Tour zur James-Bond-Insel ab Phuket mit Kanufahrt und Mittagessen",
+  "metaTitle": "Phuket: James-Bond-Insel per Speedboot",
+  "metaDescription": "Erkunden Sie die berühmte James-Bond-Insel in der Phang-Nga-Bucht bei einer ganztägigen Speedboot-Tour ab Phuket. Genießen Sie Kanufahrten durch Kalksteinhöhlen, besuchen Sie das Seezigeuner-Dorf, schwimmen Sie bei Koh Naka Yai, und genießen Sie das Mittagessen mit atemberaubenden Blicken auf Thailands spektakulärste Inseln.",
+  "shortDescription": "Erkunden Sie die berühmte James-Bond-Insel in der Phang-Nga-Bucht bei einer ganztägigen Speedboot-Tour ab Phuket. Genießen Sie Kanufahrten durch Kalksteinhöhlen, besuchen Sie das Seezigeuner-Dorf, schwimmen Sie bei Koh Naka Yai, und genießen Sie das Mittagessen mit atemberaubenden Blicken auf Thailands spektakulärste Inseln.",
+  "fullDescription": "Erkunden Sie die atemberaubende Schönheit der Phang-Nga-Bucht bei einer ganztägigen Speedboot-Tour zur James-Bond-Insel ab Phuket. Bekannt für ihre dramatischen Kalksteinklippen, smaragdgrünen Gewässer, und versteckten Höhlen, bietet diese Tour eines der unvergesslichsten Inselabenteuer in Südthailand.\n\nIhre Reise beginnt mit einer bequemen Hotelabholung in Phuket und Transfer zum Abfahrtspier. Nach dem Check-in und einem leichten Frühstück mit Kaffee oder Tee treffen Sie Ihren Guide und erhalten ein kurzes Briefing über den Tagesablauf, bevor Sie an Bord des Speedboots gehen.\n\nDer erste Stopp des Abenteuers führt Sie nach Koh Panak, einer Insel, die für ihre atemberaubenden Kalksteinformationen und versteckten Höhlen bekannt ist. Während Sie um die Insel kreuzen, sehen Sie spektakuläre Stalaktiten, Stalagmiten, und hoch aufragende Klippen, die aus dem türkisfarbenen Wasser der Phang-Nga-Bucht aufsteigen.\n\nWeiter geht es zur berühmten Koh Tapu, besser bekannt als James-Bond-Insel. Dieser ikonische Ort wurde weltberühmt, nachdem er im James-Bond-Film „Der Mann mit dem goldenen Colt\" zu sehen war. Umgeben von dramatischen Kalksteinkarsten und kristallklarem Wasser, ist die Insel eines der meistfotografierten Ziele Thailands.",
+  "highlights": [
+   "Besuchen Sie die berühmte James-Bond-Insel in der Phang-Nga-Bucht",
+   "Fahren Sie mit dem Kanu durch versteckte Höhlen und Lagunen",
+   "Genießen Sie das Mittagessen und entspannen Sie auf tropischen Inseln"
+  ],
+  "included": [
+   "Professioneller Reiseguide",
+   "Hotelabholung und -rückfahrt ab Phuket",
+   "Speedboot-Transport",
+   "Leichtes Frühstück am Pier (Kaffee und Tee)",
+   "Mittagessen während der Tour",
+   "Eintrittsgebühren für den Nationalpark",
+   "Kanufahrt-Erlebnis",
+   "Schwimmwesten",
+   "Frisches Obst und erfrischende Getränke an Bord",
+   "Unfallversicherung"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Alkoholische Getränke",
+   "Trinkgelder für Guide und Bootscrew",
+   "Optionale Aktivitäten oder Einkäufe auf den Inseln"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
