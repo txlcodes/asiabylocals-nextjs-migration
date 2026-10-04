@@ -43570,6 +43570,86 @@ export const FR_TOURS: Record<string, TourT> = {
    "Frais de parc national pour l'île"
   ]
  },
+ "elephant-feeding-program-with-traditional-thai-dress-in-krabi": {
+  "title": "Programme de nourrissage des éléphants avec costume thaïlandais traditionnel à Krabi",
+  "metaTitle": "Krabi : nourrissage des éléphants en costume thaïlandais",
+  "metaDescription": "Excursion d'une demi-heure à Krabi, incluant un transfert d'hôtel (Ao Nang, Klong Muang et Nopparat Thara) et la nourriture pour éléphants. Organisée par Krabi Elephant Shelter, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une demi-heure à Krabi, incluant un transfert d'hôtel (Ao Nang, Klong Muang et Nopparat Thara) et la nourriture pour éléphants. Organisée par Krabi Elephant Shelter, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Une demi-heure à nourrir des éléphants en costume thaïlandais traditionnel, ce qui transforme la visite en photos qu'on garde réellement.\n\nLe costume est fourni et c'est la raison pour laquelle la plupart des gens choisissent cette version plutôt que le programme de nourrissage simple. Se tenir aux côtés d'un éléphant en costume thaïlandais produit des photos qui ne ressemblent en rien à un cliché de téléphone en short, et le sanctuaire est organisé pour cela : la lumière, l'arrière-plan et les animaux sont tous habitués à la routine.\n\nVous nourrissez le troupeau à la main. La nourriture pour éléphants ici est constituée de bananes et de canne à sucre, et un éléphant d'Asie adulte consomme environ 150 kilogrammes de matière végétale par jour, ce qui bouscule l'idée qu'on a de ce qu'implique d'en élever un.\n\nPas de monte, pas de chaînes pendant le programme, pas de spectacles. Les éléphants viennent du travail d'abattage et de monte, et vivent sur les terres que le sanctuaire leur réserve.\n\nTrente minutes sur un terrain sec est la durée appropriée pour cela. Vous restez propre, le costume reste propre, et cela s'insère avant ou après une excursion en bateau sans prendre la journée.\n\nUne note pratique : apportez votre propre maquillage si vous en voulez, car le costume est fourni mais pas la mise en beauté.\n\nLe transfert d'hôtel depuis Ao Nang, Klong Muang et Nopparat Thara est compris, ainsi que la nourriture pour éléphants et le costume.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive.\n\nUn jour de préavis minimum.",
+  "highlights": [
+   "Costume thaïlandais traditionnel fourni pour les photos",
+   "Nourrissez le troupeau à la main : bananes et canne à sucre",
+   "Pas de monte, pas de chaînes, pas de spectacles",
+   "Terrain sec, donc vous et le costume restez propres",
+   "Apportez votre propre maquillage ; la mise en beauté n'est pas comprise"
+  ],
+  "included": [
+   "Transfert d'hôtel (zones Ao Nang, Klong Muang et Nopparat Thara)",
+   "Nourriture pour éléphants",
+   "Costume thaïlandais traditionnel (merci de faire votre propre maquillage et coiffure)",
+   "Café, thé et eau potable",
+   "Assurance accident",
+   "Pour les besoins de l'assurance accident, merci de prendre une photo de votre passeport et de la sauvegarder sur votre téléphone. Nous n'avons pas besoin du passeport physique ni d'une copie imprimée, mais pourrions demander l'image en cas d'urgence"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Photographe",
+   "Pour éviter les allergies cutanées, merci d'apporter votre propre maquillage. Nous ne proposons pas ce service. Et n'hésitez pas à coiffer vos propres cheveux aussi"
+  ]
+ },
+ "ao-nang-elephant-sanctuary-tour": {
+  "title": "Excursion au sanctuaire d'éléphants d'Ao Nang",
+  "metaTitle": "Ao Nang : sanctuaire d'éléphants",
+  "metaDescription": "Excursion d'une heure et demie à Krabi, incluant un guide touristique et une collation, des fruits de saison et du jus. Organisée par Aonang Elephant Sanctuary, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une heure et demie à Krabi, incluant un guide touristique et une collation, des fruits de saison et du jus. Organisée par Aonang Elephant Sanctuary, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Quatre-vingt-dix minutes à nourrir des éléphants dans un sanctuaire accessible en bateau depuis la jetée d'Ao Nam Mao.\n\nLe transfert fait partie de ce qui en fait l'intérêt. Le sanctuaire se trouve loin de la bande d'Ao Nang, et la traversée depuis Ao Nam Mao est ce qui le maintient à l'écart, dans le calme plutôt qu'au bord de la route touristique.\n\nVous préparez la nourriture et la donnez vous-même. La nourriture des éléphants ici est constituée de bananes, de canne à sucre et de boules de riz et de tamarin roulées à la main, et un éléphant d'Asie adulte en engloutit environ 150 kilogrammes par jour, ce qui bouscule l'idée qu'on a de ce qu'implique d'en élever un. Le reste du temps se passe près des animaux tandis qu'ils font des choses d'éléphants ordinaires.\n\nPas de monte, pas de chaînes pendant le programme, pas de spectacles. Les éléphants ici viennent du travail d'abattage et de trekking, et les gardiens qui s'en occupent quotidiennement animent la séance.\n\nQuatre-vingt-dix minutes est une durée confortable pour cela. Vous restez sec, vous n'avez pas besoin de vous changer, et cela fonctionne avec des enfants qui perdraient intérêt dans un programme d'une demi-journée.\n\nDes collations, des fruits de saison, du jus, du café, du thé et de l'eau potable sont servis, et la nourriture pour éléphants est fournie, donc il n'y a rien à acheter sur place.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend un guide touristique, tous les rafraîchissements, la nourriture pour nourrir les éléphants, et le transfert de retour vers la jetée d'Ao Nam Mao.\n\nUn jour de préavis minimum.",
+  "highlights": [
+   "Accessible en bateau depuis Ao Nam Mao, loin de la bande d'Ao Nang",
+   "Préparez la nourriture à la main, puis nourrissez vous-même",
+   "Pas de monte, pas de chaînes, pas de spectacles",
+   "Animée par les gardiens qui s'occupent quotidiennement des animaux",
+   "Restez sec, aucun changement de vêtements nécessaire, convient aux enfants"
+  ],
+  "included": [
+   "Guide touristique",
+   "Collation, fruits de saison et jus",
+   "Eau potable, café et thé",
+   "Nourriture pour nourrir les éléphants",
+   "Transfert aller-retour depuis la jetée d'Ao Nam Mao",
+   "Assurance accident"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Déjeuner ou dîner",
+   "Serviette"
+  ]
+ },
+ "zipline-atv-and-top-rope-climbing-experience-in-krabi": {
+  "title": "Expérience de tyrolienne, quad et escalade en moulinette à Krabi",
+  "metaTitle": "Krabi : tyrolienne, quad et escalade en moulinette",
+  "metaDescription": "Excursion à Krabi, incluant un transfert aller-retour depuis Ao Nang, Ao Nammao ou la ville de Krabi et une séance d'entraînement. Organisée par Oh-Hoo, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion à Krabi, incluant un transfert aller-retour depuis Ao Nang, Ao Nammao ou la ville de Krabi et une séance d'entraînement. Organisée par Oh-Hoo, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Trois activités en deux heures sur la pente derrière Ao Nang : lignes de tyrolienne en canopée, piste de quad, et escalade en moulinette sur un véritable calcaire.\n\nL'escalade est la partie qui mérite le déplacement. Le calcaire de Krabi est ce qui a fait de Railay une des grandes destinations d'escalade sportive au monde, et le rocher ici est le même : à poches, à prises nombreuses, et accrocheur d'une manière que le granite n'est pas. La moulinette signifie que la corde part d'un point d'ancrage au-dessus de vous, donc vous n'êtes jamais qu'à un instant d'être retenu. Rien ne nécessite de force dans le haut du corps ; l'escalade se fait avec les jambes, et les instructeurs passent la séance à faire cesser aux gens de tirer avec les bras.\n\nLa tyrolienne relie des plateformes construites dans les arbres, à la hauteur où la forêt tropicale se passe réellement. La section quad se fait sur une piste de plantation et d'argile, ferme de novembre à avril et réellement boueuse après le début des pluies.\n\nUne séance d'entraînement est comprise et n'est pas une formalité. Les trois activités sont encadrées par des guides qui accrochent et vérifient, et aucune ne présume d'expérience préalable.\n\nDeux heures, c'est le programme court. Il existe une version d'une journée complète qui comprend un panier-repas thaïlandais ; si vous voulez que l'escalade soit plus qu'un avant-goût, c'est celle-là qu'il faut demander, car deux heures réparties en trois signifient environ vingt-cinq minutes sur le rocher.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend le transfert aller-retour depuis Ao Nang, Ao Nammao ou la ville de Krabi, la séance d'entraînement, des fruits, des boissons en bouteille et l'équipement de sécurité. Le panier-repas thaïlandais s'applique uniquement au programme d'une journée complète.\n\nPortez des chaussures fermées. Deux heures, un jour de préavis minimum.",
+  "highlights": [
+   "Escalade en moulinette sur le calcaire qui a rendu Railay célèbre",
+   "Tyrolienne en canopée et piste de quad en plantation",
+   "Séance d'entraînement comprise, aucune expérience présumée",
+   "Deux heures réparties en trois activités offrent un avant-goût de chacune",
+   "Une version d'une journée complète existe pour un vrai temps sur le rocher"
+  ],
+  "included": [
+   "Transfert aller-retour depuis Ao Nang, Ao Nammao ou la ville de Krabi",
+   "Séance d'entraînement",
+   "Panier-repas thaïlandais (uniquement pour le programme d'une journée complète)",
+   "Fruits, eau potable en bouteille",
+   "Assurance fournie par l'opérateur",
+   "Trousse de premiers secours",
+   "Équipement de sécurité"
+  ],
+  "notIncluded": [
+   "Supplément de transfert de 500 THB par voiture pour Klong Muang et Tubkaek"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

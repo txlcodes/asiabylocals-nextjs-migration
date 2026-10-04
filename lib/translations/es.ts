@@ -43570,6 +43570,86 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tarifa del parque nacional para la isla"
   ]
  },
+ "elephant-feeding-program-with-traditional-thai-dress-in-krabi": {
+  "title": "Programa de alimentación de elefantes con vestimenta tailandesa tradicional en Krabi",
+  "metaTitle": "Krabi: alimentación de elefantes con traje tailandés",
+  "metaDescription": "Excursión de media hora en Krabi, con traslado de hotel (Ao Nang, Klong Muang y Nopparat Thara) y comida para elefantes. Organizada por Krabi Elephant Shelter, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de media hora en Krabi, con traslado de hotel (Ao Nang, Klong Muang y Nopparat Thara) y comida para elefantes. Organizada por Krabi Elephant Shelter, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Media hora alimentando elefantes con vestimenta tailandesa tradicional, lo que convierte la visita en las fotos que realmente conserva.\n\nEl traje está incluido y es la razón por la que la mayoría de la gente elige esta versión en lugar del programa de alimentación sencillo. Estar de pie junto a un elefante con vestimenta tailandesa produce fotografías que no se parecen en nada a una foto de móvil en pantalón corto, y el santuario está preparado para ello: la luz, el fondo y los animales están todos acostumbrados a la rutina.\n\nAlimenta a la manada a mano. La comida de los elefantes aquí es plátanos y caña de azúcar, y un elefante asiático adulto consume unos 150 kilogramos de materia vegetal al día, lo que reordena su idea de lo que implica tener uno.\n\nSin montar, sin cadenas durante el programa, sin espectáculos. Los elefantes proceden del trabajo de tala y de montar, y viven en la tierra que el santuario reserva para ellos.\n\nTreinta minutos en terreno seco es la duración adecuada para esto. Usted permanece limpio, el traje permanece limpio, y encaja antes o después de una excursión en barco sin ocupar el día.\n\nUna nota práctica: traiga su propio maquillaje si lo desea, porque el traje está incluido pero el maquillaje no.\n\nEl traslado de hotel desde Ao Nang, Klong Muang y Nopparat Thara está incluido, junto con la comida para elefantes y el traje.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva.\n\nUn día de aviso mínimo.",
+  "highlights": [
+   "Vestimenta tailandesa tradicional incluida para las fotos",
+   "Alimente a la manada a mano: plátanos y caña de azúcar",
+   "Sin montar, sin cadenas, sin espectáculos",
+   "Terreno seco, así que usted y el traje permanecen limpios",
+   "Traiga su propio maquillaje; el estilismo no está incluido"
+  ],
+  "included": [
+   "Traslado de hotel (zonas de Ao Nang, Klong Muang y Nopparat Thara)",
+   "Comida para elefantes",
+   "Traje tailandés tradicional (traiga su propio maquillaje y peinado)",
+   "Café, té y agua potable",
+   "Seguro de accidentes",
+   "Para el seguro de accidentes, haga una foto de su pasaporte y guárdela en su teléfono. No necesitamos el pasaporte físico ni una copia impresa, pero podríamos solicitar la imagen en caso de emergencia"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Fotógrafo",
+   "Para evitar alergias cutáneas, traiga su propio maquillaje. No ofrecemos este servicio. Y siéntase libre de peinarse usted mismo también"
+  ]
+ },
+ "ao-nang-elephant-sanctuary-tour": {
+  "title": "Tour al santuario de elefantes de Ao Nang",
+  "metaTitle": "Ao Nang: santuario de elefantes",
+  "metaDescription": "Excursión de hora y media en Krabi, con guía turístico y aperitivo, fruta de temporada y zumo. Organizada por Aonang Elephant Sanctuary, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de hora y media en Krabi, con guía turístico y aperitivo, fruta de temporada y zumo. Organizada por Aonang Elephant Sanctuary, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Noventa minutos alimentando elefantes en un santuario al que se llega en barco desde el muelle de Ao Nam Mao.\n\nEl traslado es parte de lo que lo hace especial. El santuario se encuentra alejado de la franja de Ao Nang, y la travesía desde Ao Nam Mao es lo que lo mantiene en la tranquilidad en lugar de junto a la carretera turística.\n\nUsted prepara la comida y la entrega personalmente. La comida de los elefantes aquí es plátanos, caña de azúcar y bolas de arroz y tamarindo enrolladas a mano, y un elefante asiático adulto consume unos 150 kilogramos de materia vegetal al día, lo que reordena su idea de lo que implica tener uno. El resto del tiempo se pasa cerca de los animales mientras hacen cosas de elefantes ordinarias.\n\nSin montar, sin cadenas durante el programa, sin espectáculos. Los elefantes aquí proceden del trabajo de tala y de trekking, y los cuidadores que se ocupan de ellos diariamente dirigen la sesión.\n\nNoventa minutos es una duración cómoda para esto. Usted permanece seco, no necesita cambiarse de ropa, y funciona con niños que perderían interés en un programa de medio día.\n\nSe sirven aperitivos, fruta de temporada, zumo, café, té y agua potable, y la comida para elefantes está incluida, así que no hay nada que comprar en el lugar.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye un guía turístico, todos los refrescos, comida para alimentar a los elefantes, y el traslado de regreso al muelle de Ao Nam Mao.\n\nUn día de aviso mínimo.",
+  "highlights": [
+   "Se llega en barco desde Ao Nam Mao, alejado de la franja de Ao Nang",
+   "Prepare la comida a mano, después alimente usted mismo",
+   "Sin montar, sin cadenas, sin espectáculos",
+   "Dirigido por los cuidadores que se ocupan de los animales diariamente",
+   "Permanezca seco, no necesita cambiarse de ropa, funciona con niños"
+  ],
+  "included": [
+   "Guía turístico",
+   "Aperitivo, fruta de temporada y zumo",
+   "Agua potable, café y té",
+   "Comida para alimentar a los elefantes",
+   "Traslado de ida y vuelta al muelle de Ao Nam Mao",
+   "Seguro de accidentes"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Almuerzo o cena",
+   "Toalla"
+  ]
+ },
+ "zipline-atv-and-top-rope-climbing-experience-in-krabi": {
+  "title": "Experiencia de tirolina, ATV y escalada en cuerda superior en Krabi",
+  "metaTitle": "Krabi: tirolina, ATV y escalada en cuerda superior",
+  "metaDescription": "Excursión en Krabi, con traslado de ida y vuelta desde Ao Nang, Ao Nammao o la ciudad de Krabi y una sesión de entrenamiento. Organizada por Oh-Hoo, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión en Krabi, con traslado de ida y vuelta desde Ao Nang, Ao Nammao o la ciudad de Krabi y una sesión de entrenamiento. Organizada por Oh-Hoo, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Tres actividades en dos horas en la ladera detrás de Ao Nang: líneas de tirolina por el dosel forestal, una pista de ATV, y una escalada asegurada en caliza real.\n\nLa escalada es la parte que vale la pena venir a hacer. La caliza de Krabi es lo que convirtió a Railay en uno de los grandes destinos de escalada deportiva del mundo, y la roca aquí es la misma: con bolsillos, con relieve, y adherente de una manera que el granito no lo es. La cuerda superior significa que la cuerda va desde un anclaje por encima de usted, así que nunca está a más de un instante de ser sostenido. Nada requiere fuerza en la parte superior del cuerpo; escalar se hace con las piernas, y los instructores dedican la sesión a lograr que la gente deje de tirar con los brazos.\n\nLa tirolina discurre entre plataformas construidas en los árboles, a la altura donde realmente ocurre la selva tropical. La sección de ATV está en una pista de plantación y arcilla, firme de noviembre a abril y realmente fangosa tras el inicio de las lluvias.\n\nUna sesión de entrenamiento está incluida y no es una formalidad. Las tres actividades se realizan con guías que engancharán y comprobarán, y ninguna presupone experiencia previa.\n\nDos horas es el programa corto. Existe una versión de día completo que incluye una caja de almuerzo tailandés; si quiere que la escalada sea más que una muestra, es esa la que hay que pedir, porque dos horas repartidas en tres actividades son unos veinticinco minutos en la roca.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye el traslado de ida y vuelta desde Ao Nang, Ao Nammao o la ciudad de Krabi, la sesión de entrenamiento, fruta, bebidas embotelladas y equipo de seguridad. La caja de almuerzo tailandés aplica solo al programa de día completo.\n\nUse calzado cerrado. Dos horas, un día de aviso mínimo.",
+  "highlights": [
+   "Escalada en cuerda superior sobre la caliza que hizo famosa a Railay",
+   "Tirolina por el dosel forestal y una pista de ATV en plantación",
+   "Sesión de entrenamiento incluida, no se presupone experiencia",
+   "Dos horas repartidas en tres actividades dan una muestra de cada una",
+   "Existe una versión de día completo si quiere tiempo real en la roca"
+  ],
+  "included": [
+   "Traslado de ida y vuelta desde Ao Nang, Ao Nammao o la ciudad de Krabi",
+   "Sesión de entrenamiento",
+   "Caja de almuerzo tailandés (solo para el programa de día completo)",
+   "Fruta, agua embotellada",
+   "Seguro proporcionado por el operador",
+   "Botiquín de primeros auxilios",
+   "Equipo de seguridad"
+  ],
+  "notIncluded": [
+   "Cargo adicional de traslado de 500 THB por coche para Klong Muang y Tubkaek"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

@@ -43570,6 +43570,86 @@ export const DE_TOURS: Record<string, TourT> = {
    "Nationalpark-Gebühr für die Insel"
   ]
  },
+ "elephant-feeding-program-with-traditional-thai-dress-in-krabi": {
+  "title": "Elefantenfütterungsprogramm mit traditioneller thailändischer Kleidung in Krabi",
+  "metaTitle": "Krabi: Elefantenfütterung in thailändischer Tracht",
+  "metaDescription": "Halbstündiger Ausflug in Krabi, mit Hoteltransfer (Ao Nang, Klong Muang und Nopparat Thara) und Elefantenfutter. Organisiert von Krabi Elephant Shelter, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbstündiger Ausflug in Krabi, mit Hoteltransfer (Ao Nang, Klong Muang und Nopparat Thara) und Elefantenfutter. Organisiert von Krabi Elephant Shelter, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Eine halbe Stunde Elefantenfütterung in traditioneller thailändischer Tracht, was den Besuch in Fotos verwandelt, die man tatsächlich behält.\n\nDas Kostüm ist inklusive und ist der Grund, warum die meisten Leute diese Version dem einfachen Fütterungsprogramm vorziehen. Neben einem Elefanten in thailändischer Tracht zu stehen, ergibt Bilder, die nichts mit einem Handy-Schnappschuss in Shorts zu tun haben, und das Schutzgebiet ist dafür eingerichtet: Das Licht, der Hintergrund und die Tiere sind alle an die Routine gewöhnt.\n\nSie füttern die Herde von Hand. Elefantenfutter hier sind Bananen und Zuckerrohr, und ein erwachsener asiatischer Elefant verarbeitet etwa 150 Kilogramm Pflanzenmaterial pro Tag, was Ihr Verständnis davon neu ordnet, was es bedeutet, einen zu halten.\n\nKein Reiten, keine Ketten während des Programms, keine Vorführungen. Die Elefanten kommen aus der Holzfäller- und Reitarbeit und leben auf Land, das das Schutzgebiet für sie bereithält.\n\nDreißig Minuten auf trockenem Boden sind die richtige Länge dafür. Sie bleiben sauber, das Kostüm bleibt sauber, und es passt vor oder nach einem Bootsausflug, ohne den Tag zu beanspruchen.\n\nEin praktischer Hinweis: Bringen Sie Ihr eigenes Make-up mit, falls Sie welches möchten, denn das Kostüm ist inklusive, das Styling jedoch nicht.\n\nHoteltransfer ab Ao Nang, Klong Muang und Nopparat Thara ist inklusive, zusammen mit dem Elefantenfutter und dem Kostüm.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist.\n\nMindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Traditionelle thailändische Tracht für die Fotos inklusive",
+   "Füttern Sie die Herde von Hand: Bananen und Zuckerrohr",
+   "Kein Reiten, keine Ketten, keine Vorführungen",
+   "Trockener Boden, sodass Sie und das Kostüm sauber bleiben",
+   "Bringen Sie Ihr eigenes Make-up mit; das Styling ist nicht inklusive"
+  ],
+  "included": [
+   "Hoteltransfer (Gebiete Ao Nang, Klong Muang und Nopparat Thara)",
+   "Elefantenfutter",
+   "Traditionelle thailändische Tracht (bitte eigenes Make-up und Haarstyling mitbringen)",
+   "Kaffee, Tee und Trinkwasser",
+   "Unfallversicherung",
+   "Für die Unfallversicherung machen Sie bitte ein Foto Ihres Reisepasses und speichern es auf Ihrem Telefon. Wir benötigen nicht den physischen Reisepass oder eine gedruckte Kopie, könnten aber im Notfall das Bild anfordern"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Fotograf",
+   "Um Hautallergien zu vermeiden, bringen Sie bitte Ihr eigenes Make-up mit. Wir bieten diesen Service nicht an. Und gerne können Sie auch Ihre eigenen Haare stylen"
+  ]
+ },
+ "ao-nang-elephant-sanctuary-tour": {
+  "title": "Ao-Nang-Elefantenschutzgebiet-Tour",
+  "metaTitle": "Ao Nang: Elefantenschutzgebiet",
+  "metaDescription": "Anderthalbstündiger Ausflug in Krabi, mit Reiseleiter und Snack, Saisonobst und Saft. Organisiert von Aonang Elephant Sanctuary, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Anderthalbstündiger Ausflug in Krabi, mit Reiseleiter und Snack, Saisonobst und Saft. Organisiert von Aonang Elephant Sanctuary, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Neunzig Minuten Elefantenfütterung in einem Schutzgebiet, das per Boot vom Ao-Nam-Mao-Pier aus erreicht wird.\n\nDer Transfer ist Teil dessen, was es ausmacht. Das Schutzgebiet liegt entfernt vom Ao-Nang-Streifen, und die Überfahrt ab Ao Nam Mao ist es, was es in der Ruhe hält statt an der Touristenstraße.\n\nSie bereiten das Futter zu und übergeben es selbst. Elefantenfutter hier sind Bananen, Zuckerrohr und von Hand gerollte Reis-Tamarinden-Kugeln, und ein erwachsener asiatischer Elefant vertilgt etwa 150 Kilogramm Pflanzenmaterial pro Tag, was Ihr Verständnis davon neu ordnet, was es bedeutet, einen zu halten. Die restliche Zeit verbringen Sie nahe den Tieren, während sie gewöhnliche Elefantendinge tun.\n\nKein Reiten, keine Ketten während des Programms, keine Vorführungen. Die Elefanten hier kommen aus der Holzfäller- und Trekkingarbeit, und die Pfleger, die sich täglich um sie kümmern, leiten die Session.\n\nNeunzig Minuten sind eine angenehme Länge dafür. Sie bleiben trocken, Sie brauchen keinen Kleiderwechsel, und es funktioniert mit Kindern, die bei einem Halbtagesprogramm das Interesse verlieren würden.\n\nSnacks, Saisonobst, Saft, Kaffee, Tee und Trinkwasser werden serviert, und das Elefantenfutter ist inklusive, sodass vor Ort nichts zu kaufen ist.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst einen Reiseleiter, alle Erfrischungen, Futter zum Füttern der Elefanten, und den Rücktransfer zum Ao-Nam-Mao-Pier.\n\nMindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Per Boot ab Ao Nam Mao erreicht, fern vom Ao-Nang-Streifen",
+   "Bereiten Sie das Futter von Hand zu, füttern Sie es dann selbst",
+   "Kein Reiten, keine Ketten, keine Vorführungen",
+   "Geleitet von den Pflegern, die sich täglich um die Tiere kümmern",
+   "Bleiben Sie trocken, kein Kleiderwechsel nötig, funktioniert mit Kindern"
+  ],
+  "included": [
+   "Reiseleiter",
+   "Snack, Saisonobst und Saft",
+   "Trinkwasser, Kaffee und Tee",
+   "Futter zum Füttern der Elefanten",
+   "Transfer zum/vom Ao-Nam-Mao-Pier",
+   "Unfallversicherung"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Mittag- oder Abendessen",
+   "Handtuch"
+  ]
+ },
+ "zipline-atv-and-top-rope-climbing-experience-in-krabi": {
+  "title": "Zipline-, ATV- und Toprope-Kletter-Erlebnis in Krabi",
+  "metaTitle": "Krabi: Zipline, ATV und Toprope-Klettern",
+  "metaDescription": "Ausflug in Krabi, mit Hin- und Rücktransfer ab Ao Nang, Ao Nammao oder Krabi Town und einer Trainingseinheit. Organisiert von Oh-Hoo, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ausflug in Krabi, mit Hin- und Rücktransfer ab Ao Nang, Ao Nammao oder Krabi Town und einer Trainingseinheit. Organisiert von Oh-Hoo, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Drei Aktivitäten in zwei Stunden am Hang hinter Ao Nang: Kronendach-Seile, eine ATV-Strecke, und ein gesichertes Klettern auf echtem Kalkstein.\n\nDas Klettern ist der Teil, für den es sich zu kommen lohnt. Krabis Kalkstein ist es, der Railay zu einem der großen Sportkletter-Ziele der Welt gemacht hat, und der Fels hier ist derselbe: löchrig, strukturiert, und griffig auf eine Art, wie es Granit nicht ist. Toprope bedeutet, dass das Seil von einem Anker über Ihnen verläuft, sodass Sie nie mehr als einen Moment vom Halten entfernt sind. Nichts erfordert Oberkörperkraft; Klettern geschieht mit den Beinen, und die Instruktoren verbringen die Session damit, die Leute davon abzubringen, mit den Armen zu ziehen.\n\nDie Zipline verläuft zwischen Plattformen, die in die Bäume gebaut sind, in der Höhe, in der tropischer Wald tatsächlich passiert. Der ATV-Abschnitt liegt auf Plantagen- und Lehmstrecke, fest von November bis April und nach Beginn der Regenzeit richtig schlammig.\n\nEine Trainingseinheit ist inklusive und keine Formalität. Alle drei Aktivitäten werden von Guides begleitet, die einklippen und kontrollieren, und keine setzt vorherige Erfahrung voraus.\n\nZwei Stunden sind das kurze Programm. Es gibt eine Ganztagesversion mit einer thailändischen Lunchbox; wenn Sie möchten, dass das Klettern mehr als ein Vorgeschmack ist, ist das die Version, nach der man fragen sollte, denn zwei Stunden auf drei Aktivitäten verteilt bedeuten etwa fünfundzwanzig Minuten am Fels.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst den Hin- und Rücktransfer ab Ao Nang, Ao Nammao oder Krabi Town, die Trainingseinheit, Obst, Flaschengetränke und Sicherheitsausrüstung. Die thailändische Lunchbox gilt nur für das Ganztagesprogramm.\n\nTragen Sie geschlossene Schuhe. Zwei Stunden, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Toprope-Klettern auf dem Kalkstein, der Railay berühmt machte",
+   "Kronendach-Zipline und eine ATV-Plantagenstrecke",
+   "Trainingseinheit inklusive, keine Erfahrung vorausgesetzt",
+   "Zwei Stunden auf drei Aktivitäten verteilt geben einen Vorgeschmack auf jede",
+   "Ganztagesversion existiert, wenn Sie echte Zeit am Fels wollen"
+  ],
+  "included": [
+   "Hin- und Rücktransfer ab Ao Nang, Ao Nammao oder Krabi Town",
+   "Trainingseinheit",
+   "Thailändische Lunchbox (nur für das Ganztagesprogramm)",
+   "Obst, Flaschenwasser",
+   "Vom Anbieter bereitgestellte Versicherung",
+   "Erste-Hilfe-Set",
+   "Sicherheitsausrüstung"
+  ],
+  "notIncluded": [
+   "Zusätzliche Transfergebühr von 500 THB pro Auto für Klong Muang und Tubkaek"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
