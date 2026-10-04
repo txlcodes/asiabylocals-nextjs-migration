@@ -45210,6 +45210,84 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales, propinas, seguro de viaje"
   ]
  },
+ "doi-inthanon-national-park-full-day-tour": {
+  "title": "Parque nacional de Doi Inthanon: tour ecológico de día completo desde Chiang Mai",
+  "metaTitle": "Doi Inthanon: tour ecológico de día completo",
+  "metaDescription": "Tour ecológico de día completo al pico más alto de Tailandia, Doi Inthanon, con cascadas, pagodas y parada en un pueblo de tribu montañesa.",
+  "shortDescription": "Tour ecológico de día completo al pico más alto de Tailandia, Doi Inthanon, con cascadas, pagodas y parada en un pueblo de tribu montañesa.",
+  "fullDescription": "Salga de Chiang Mai para un día completo explorando el Parque Nacional de Doi Inthanon, hogar del pico más alto de Tailandia. Camine por las pasarelas del sendero natural de Ang Ka a través de un fresco bosque nuboso cubierto de musgo, luego visite las dos Grandes Pagodas construidas en honor al Rey y la Reina, con vistas panorámicas de las montañas desde sus terrazas. Deténgase en el pueblo de la tribu de las colinas Karen de Mae Klang Luang antes de refrescarse en la poderosa cascada de Wachirathan. Un almuerzo local está incluido en el camino, y el día termina con transporte de ida y vuelta a su hotel en Chiang Mai.",
+  "highlights": [
+   "Alcance el pico más alto de Tailandia en el Parque Nacional de Doi Inthanon",
+   "Camine por el sendero natural de Ang Ka a través de un bosque nuboso brumoso",
+   "Visite las dos Grandes Pagodas con vistas panorámicas de las montañas",
+   "Vea la poderosa cascada de Wachirathan",
+   "Parada en un pueblo de la tribu de las colinas Karen en Mae Klang Luang",
+   "Almuerzo y transporte de ida y vuelta al hotel incluidos"
+  ],
+  "included": [
+   "Recogida y regreso al hotel, transporte, guía de habla inglesa, tarifas de entrada al parque nacional, almuerzo"
+  ],
+  "notIncluded": [
+   "Gastos personales, propinas, seguro de viaje"
+  ]
+ },
+ "chiang-mai-countryside-mini-tour": {
+  "title": "Chiang Mai: vuelo en paramotor con instructores de vuelo certificados",
+  "metaTitle": "Chiang Mai: vuelo en paramotor certificado",
+  "metaDescription": "Abróchese a un paramotor en tándem y planee sobre los arrozales y colinas onduladas de Chiang Mai con un instructor certificado que se encarga de todo el vuelo, sin experiencia requerida.",
+  "shortDescription": "Abróchese a un paramotor en tándem y planee sobre los arrozales y colinas onduladas de Chiang Mai con un instructor certificado que se encarga de todo el vuelo, sin experiencia requerida.",
+  "fullDescription": "Hay un momento, justo después de que sus pies dejan el suelo, en el que Chiang Mai deja de ser un lugar que está visitando y se convierte en una imagen por la que está flotando. Eso es lo que ofrece un vuelo en paramotor en tándem: arrozales cosidos en cuadrados verdes y dorados, colinas que se extienden hacia el horizonte, y ocasionalmente un techo o búfalo que se encoge debajo de usted mientras la hélice en la espalda de su instructor zumba constantemente.\n\nNo necesita experiencia de vuelo alguna, y no necesita ser valiente de la forma que pensaría. Un instructor certificado se sienta detrás de usted en un arnés de dos asientos, encargándose del despegue, la dirección y el aterrizaje, mientras usted simplemente disfruta de la vista y recuerda respirar. El vuelo en sí dura de 15 a 20 minutos en el aire, enmarcado por una adecuada charla de seguridad y una caminata fácil o un breve transporte al sitio de despegue, por lo que toda la experiencia se completa en aproximadamente dos horas.\n\nEs el tipo de actividad que se fotografía a sí misma, a menudo hay disponibles imágenes de GoPro o cámara de acción para que pueda revivir el momento en lugar de solo describirlo después. Para cualquiera que haya recorrido el campo de Chiang Mai en scooter o songthaew y se haya preguntado cómo se ve desde arriba, esta es la respuesta, y es una forma genuinamente diferente de terminar un viaje por el norte de Tailandia.",
+  "highlights": [
+   "Vuelo en tándem con un instructor de paramotor certificado",
+   "No se requiere experiencia o habilidad de vuelo alguna",
+   "Vistas aéreas de arrozales y campo ondulado",
+   "Fotos de GoPro/cámara de acción de su vuelo a menudo disponibles",
+   "Una verdadera experiencia de adrenalina imprescindible cerca de Chiang Mai"
+  ],
+  "included": [
+   "Instructor/piloto de paramotor en tándem certificado",
+   "Todo el equipo de vuelo (arnés, casco, estructura del paramotor)",
+   "Charla de seguridad antes del vuelo",
+   "Fotos del vuelo a menudo incluidas, confirme la inclusión exacta al reservar"
+  ],
+  "notIncluded": [
+   "Recogida en el hotel y transporte al sitio de despegue (salvo que se indique en la reserva)",
+   "Propinas para su instructor",
+   "Gastos personales",
+   "Paquetes adicionales de fotos/video, si se cobran por separado"
+  ]
+ },
+ "local-market-chiang-mai-guided-tour": {
+  "title": "Chiang Mai: trekking de 2 días en la selva con granja de elefantes y paseo en balsa",
+  "metaTitle": "Chiang Mai: trekking de 2 días, elefantes y balsa",
+  "metaDescription": "Recorra senderos de selva, navegue en balsa por el río Mae Wang y pase la noche en un pueblo de tribu montañesa Karen antes de un encuentro ético con elefantes en esta aventura de 2 días en Chiang Mai.",
+  "shortDescription": "Recorra senderos de selva, navegue en balsa por el río Mae Wang y pase la noche en un pueblo de tribu montañesa Karen antes de un encuentro ético con elefantes en esta aventura de 2 días en Chiang Mai.",
+  "fullDescription": "Cambie las calles de la ciudad de Chiang Mai por dos días en lo profundo del campo del norte de Tailandia, donde senderos de selva, ríos torrentosos y la hospitalidad de las tribus montañesas son protagonistas. La aventura comienza con un paseo por un mercado local para probar la vida tailandesa cotidiana, antes de subir a bordo de una balsa de bambú para un suave flotar por el río Mae Wang, con el bosque cerrándose en ambas orillas. De ahí, el sendero sube a través de arrozales y bosque mixto hasta una cascada escondida, donde un almuerzo tipo picnic casero y un refrescante baño son la recompensa perfecta por el esfuerzo.\n\nEl verdadero corazón de este viaje es la pernoctación. Después de otro trekking a través de bosque de bambú y siempreverde, llegará a un pueblo de la tribu de las colinas Karen enclavado en las colinas, donde las familias locales comparten sus costumbres, cocinan una cena casera y se reúnen con usted alrededor de una fogata bajo un cielo lleno de estrellas. Es una oportunidad rara de desconectar y ver la vida rural tailandesa de cerca, mucho más allá del alcance de las rutas turísticas habituales.\n\nEl segundo día comienza con el desayuno en el pueblo antes de que un último trekking lo lleve a un santuario ético de elefantes, hogar de elefantes rescatados que viven libres de montar o actuar. Aquí puede alimentar, bañar y simplemente pasar tiempo sin prisas con estos gentiles gigantes en un entorno construido en torno a su bienestar en lugar del entretenimiento. El viaje termina con un tranquilo trayecto de regreso a Chiang Mai a última hora de la tarde, dejándolo con dos días de auténtica inmersión en la selva, cálida hospitalidad de tribus montañesas y una conexión significativa con los elefantes hecha de la manera correcta.",
+  "highlights": [
+   "Navegue en balsa de bambú por el río Mae Wang",
+   "Recorra bosque y arrozales hasta una cascada escondida",
+   "Pase la noche en un auténtico pueblo de tribu montañesa Karen",
+   "Comparta cena y fogata bajo las estrellas con los aldeanos",
+   "Alimente y bañe elefantes en un santuario ético sin montar"
+  ],
+  "included": [
+   "Recogida y regreso al hotel (dentro del área de recogida) u opción de punto de encuentro en Baan Meesuk",
+   "Guía de habla inglesa durante todo el recorrido",
+   "Almuerzo el día 1 (picnic en la cascada)",
+   "Cena el día 1 (pueblo de la tribu montañesa Karen)",
+   "Desayuno el día 2 (pueblo de la tribu montañesa Karen)",
+   "Alojamiento de una noche en el pueblo de la tribu montañesa Karen",
+   "Rafting en bambú en el río Mae Wang",
+   "Visita a un santuario ético de elefantes",
+   "Todas las tarifas de parque, pueblo y conservación"
+  ],
+  "notIncluded": [
+   "Propinas para el guía y los anfitriones del pueblo",
+   "Gastos personales",
+   "Seguro de viaje",
+   "Bebidas alcohólicas"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

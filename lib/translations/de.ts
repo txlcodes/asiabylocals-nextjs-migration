@@ -45209,6 +45209,84 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben, Trinkgelder, Reiseversicherung"
   ]
  },
+ "doi-inthanon-national-park-full-day-tour": {
+  "title": "Nationalpark Doi Inthanon: ganztägige Öko-Tour ab Chiang Mai",
+  "metaTitle": "Doi Inthanon: ganztägige Öko-Tour",
+  "metaDescription": "Ganztägige Öko-Tour zum höchsten Gipfel Thailands, Doi Inthanon, mit Wasserfällen, Pagoden und einem Stopp im Dorf eines Bergvolkes.",
+  "shortDescription": "Ganztägige Öko-Tour zum höchsten Gipfel Thailands, Doi Inthanon, mit Wasserfällen, Pagoden und einem Stopp im Dorf eines Bergvolkes.",
+  "fullDescription": "Brechen Sie von Chiang Mai auf zu einem ganzen Tag der Erkundung des Nationalparks Doi Inthanon, der Heimat des höchsten Gipfels Thailands. Wandern Sie über die Holzstege des Ang-Ka-Naturpfades durch kühlen, moosbehangenen Nebelwald, besuchen Sie dann die zwei Grand Pagodas, die zur Ehre des Königs und der Königin erbaut wurden, mit weitläufigen Bergblicken von ihren Terrassen. Halten Sie im Dorf des Karen-Bergvolkes Mae Klang Luang, bevor Sie sich am kraftvollen Wasserfall Wachirathan abkühlen. Ein lokales Mittagessen ist unterwegs inklusive, und der Tag schließt mit Hin- und Rücktransport zurück zu Ihrem Hotel in Chiang Mai.",
+  "highlights": [
+   "Erreichen Sie Thailands höchsten Gipfel im Nationalpark Doi Inthanon",
+   "Wandern Sie den Ang-Ka-Naturpfad durch nebligen Nebelwald",
+   "Besuchen Sie die zwei Grand Pagodas mit Panoramablick auf die Berge",
+   "Sehen Sie den kraftvollen Wasserfall Wachirathan",
+   "Stopp im Dorf des Karen-Bergvolkes in Mae Klang Luang",
+   "Mittagessen und Hin- und Rücktransport zum Hotel inklusive"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt, Transport, englischsprachiger Guide, Eintrittsgebühren für den Nationalpark, Mittagessen"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben, Trinkgelder, Reiseversicherung"
+  ]
+ },
+ "chiang-mai-countryside-mini-tour": {
+  "title": "Chiang Mai: Paramotor-Flug mit lizenzierten Fluglehrern",
+  "metaTitle": "Chiang Mai: zertifizierter Paramotor-Flug",
+  "metaDescription": "Schnallen Sie sich in einen Tandem-Paramotor und schweben Sie über die Reisfelder und sanften Hügel von Chiang Mai, während ein lizenzierter Fluglehrer das gesamte Fliegen übernimmt, keine Erfahrung erforderlich.",
+  "shortDescription": "Schnallen Sie sich in einen Tandem-Paramotor und schweben Sie über die Reisfelder und sanften Hügel von Chiang Mai, während ein lizenzierter Fluglehrer das gesamte Fliegen übernimmt, keine Erfahrung erforderlich.",
+  "fullDescription": "Es gibt einen Moment, kurz nachdem Ihre Füße den Boden verlassen haben, in dem Chiang Mai aufhört, ein Ort zu sein, den Sie besuchen, und zu einem Bild wird, durch das Sie schweben. Das ist es, was ein Tandem-Paramotor-Flug bietet: Reisfelder, die zu grünen und goldenen Quadraten vernäht sind, Hügel, die sich zum Horizont erstrecken, und gelegentlich ein Dach oder Büffel, der unter Ihnen schrumpft, während der Propeller auf dem Rücken Ihres Instruktors stetig brummt.\n\nSie benötigen keine Flugerfahrung, und Sie müssen nicht so mutig sein, wie Sie denken würden. Ein lizenzierter Fluglehrer sitzt hinter Ihnen in einem Zweisitzer-Gurtsystem, erledigt Start, Steuerung und Landung, während Sie einfach den Ausblick genießen und daran denken, zu atmen. Der Flug selbst dauert 15-20 Minuten in der Luft, umrahmt von einem richtigen Sicherheitsbriefing und einem leichten Spaziergang oder kurzen Transport zum Startplatz, sodass das gesamte Erlebnis in etwa zwei Stunden zusammenkommt.\n\nEs ist die Art von Aktivität, die sich selbst fotografiert, GoPro- oder Action-Cam-Aufnahmen sind oft verfügbar, sodass Sie den Moment wieder erleben können, statt ihn nur später zu beschreiben. Für alle, die die Landschaft von Chiang Mai mit dem Roller oder Songthaew umkreist haben und sich gefragt haben, wie sie von oben aussieht, ist dies die Antwort, und es ist eine wirklich andere Art, eine Reise durch Nordthailand zu beenden.",
+  "highlights": [
+   "Tandemflug mit einem lizenzierten Paramotor-Fluglehrer",
+   "Keine Flugerfahrung oder Fähigkeiten erforderlich",
+   "Luftaufnahmen über Reisfelder und sanfte Landschaft",
+   "GoPro-/Action-Cam-Fotos von Ihrem Flug oft verfügbar",
+   "Ein echtes Bucket-List-Adrenalinerlebnis nahe Chiang Mai"
+  ],
+  "included": [
+   "Lizenzierter Tandem-Paramotor-Fluglehrer/-Pilot",
+   "Gesamte Flugausrüstung (Gurt, Helm, Paramotor-Gestell)",
+   "Sicherheitsbriefing vor dem Flug",
+   "Flugfotos oft inklusive, genaue Einbeziehung bei Buchung bestätigen"
+  ],
+  "notIncluded": [
+   "Hotelabholung und Transport zum Startplatz (sofern nicht bei Buchung angegeben)",
+   "Trinkgelder für Ihren Fluglehrer",
+   "Persönliche Ausgaben",
+   "Zusätzliche Foto-/Videopakete, falls separat berechnet"
+  ]
+ },
+ "local-market-chiang-mai-guided-tour": {
+  "title": "Chiang Mai: 2-tägiges Dschungeltrekking mit Elefantenfarm und Floßfahrt",
+  "metaTitle": "Chiang Mai: 2-Tage-Trekking, Elefanten und Floß",
+  "metaDescription": "Wandern Sie auf Dschungelpfaden, fahren Sie mit dem Floß auf dem Mae-Wang-Fluss und verbringen Sie die Nacht in einem Dorf des Karen-Bergvolkes vor einer ethischen Elefantenbegegnung bei diesem 2-tägigen Abenteuer ab Chiang Mai.",
+  "shortDescription": "Wandern Sie auf Dschungelpfaden, fahren Sie mit dem Floß auf dem Mae-Wang-Fluss und verbringen Sie die Nacht in einem Dorf des Karen-Bergvolkes vor einer ethischen Elefantenbegegnung bei diesem 2-tägigen Abenteuer ab Chiang Mai.",
+  "fullDescription": "Tauschen Sie die Straßen der Stadt Chiang Mai gegen zwei Tage tief in der nordthailändischen Landschaft, wo Dschungelpfade, reißende Flüsse und die Gastfreundschaft der Bergvölker im Mittelpunkt stehen. Das Abenteuer beginnt mit einem Bummel durch einen lokalen Markt für einen Vorgeschmack auf den thailändischen Alltag, bevor Sie an Bord eines Bambusfloßes für eine sanfte Fahrt den Mae-Wang-Fluss hinab gehen, wobei sich der Wald an beiden Ufern schließt. Von dort führt der Pfad bergauf durch Reisfelder und Mischwald zu einem versteckten Wasserfall, wo ein hausgemachtes Picknick-Mittagessen und eine kühle Schwimmrunde die perfekte Belohnung für die Anstrengung darstellen.\n\nDas wahre Herzstück dieser Reise ist die Übernachtung. Nach einem weiteren Trekking durch Bambus- und immergrünen Wald erreichen Sie ein Dorf des Karen-Bergvolkes, eingebettet in die Hügel, wo lokale Familien ihre Bräuche teilen, ein hausgemachtes Abendessen kochen und sich mit Ihnen um ein Lagerfeuer unter einem sternenklaren Himmel versammeln. Es ist eine seltene Gelegenheit, abzuschalten und das ländliche thailändische Leben aus der Nähe zu sehen, weit außerhalb der üblichen Besichtigungsrouten.\n\nDer zweite Tag beginnt mit einem Frühstück im Dorf, bevor ein letztes Trekking zu einem ethischen Elefantenschutzgebiet führt, der Heimat geretteter Elefanten, die frei von Reiten oder Vorführungen leben. Hier können Sie diese sanften Riesen füttern, baden und einfach ungezwungen Zeit mit ihnen verbringen, in einer Umgebung, die um ihr Wohlergehen statt um Unterhaltung aufgebaut ist. Die Reise endet mit einer entspannten Fahrt zurück nach Chiang Mai am späten Nachmittag und lässt Sie mit zwei Tagen echter Dschungelimmersion, herzlicher Gastfreundschaft der Bergvölker und einer bedeutsamen Verbindung mit Elefanten auf die richtige Art zurück.",
+  "highlights": [
+   "Fahren Sie mit dem Bambusfloß den Mae-Wang-Fluss hinab",
+   "Wandern Sie durch Wald und Reisfelder zu einem versteckten Wasserfall",
+   "Verbringen Sie die Nacht in einem authentischen Dorf des Karen-Bergvolkes",
+   "Teilen Sie Abendessen und Lagerfeuer unter den Sternen mit den Dorfbewohnern",
+   "Füttern und baden Sie Elefanten in einem ethischen Schutzgebiet ohne Reiten"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt (innerhalb des Abholbereichs) oder Treffpunkt-Option bei Baan Meesuk",
+   "Englischsprachiger Guide während der gesamten Reise",
+   "Mittagessen an Tag 1 (Picknick am Wasserfall)",
+   "Abendessen an Tag 1 (Dorf des Karen-Bergvolkes)",
+   "Frühstück an Tag 2 (Dorf des Karen-Bergvolkes)",
+   "Übernachtung im Dorf des Karen-Bergvolkes",
+   "Bambus-Rafting auf dem Mae-Wang-Fluss",
+   "Besuch eines ethischen Elefantenschutzgebiets",
+   "Alle Park-, Dorf- und Naturschutzgebühren"
+  ],
+  "notIncluded": [
+   "Trinkgelder für Guide und Dorfgastgeber",
+   "Persönliche Ausgaben",
+   "Reiseversicherung",
+   "Alkoholische Getränke"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
