@@ -45822,6 +45822,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Collations ou boissons au-delà de ce qui est fourni"
   ]
  },
+ "bangkok-longtail-boat-canal-cruise-hidden-temples": {
+  "title": "Bangkok : croisière en bateau longtail sur les canaux, temples cachés et vie locale",
+  "metaTitle": "Bangkok : croisière canaux en longtail",
+  "metaDescription": "Explorez le réseau caché de canaux de Bangkok en bateau longtail. Glissez devant des maisons en bois sur pilotis, visitez un imposant Bouddha doré, arrêtez-vous à la Maison de l'Artiste pour un spectacle de marionnettes traditionnel, et découvrez un côté de Bangkok que la plupart des touristes ne découvrent jamais.",
+  "shortDescription": "Explorez le réseau caché de canaux de Bangkok en bateau longtail. Glissez devant des maisons en bois sur pilotis, visitez un imposant Bouddha doré, arrêtez-vous à la Maison de l'Artiste pour un spectacle de marionnettes traditionnel, et découvrez un côté de Bangkok que la plupart des touristes ne découvrent jamais.",
+  "fullDescription": "Éloignez-vous des rues animées et découvrez les routes originales de Bangkok, les canaux (khlongs) qui ont donné à la ville son surnom de « Venise de l'Orient ».\n\nVotre croisière de 2 heures commence à un quai près de Maha Rat Road. Montez à bord d'un bateau longtail thaïlandais traditionnel et dirigez-vous vers le réseau sinueux de canaux sur la rive ouest de Bangkok. En quelques minutes, les gratte-ciel disparaissent et vous êtes entouré de verdure luxuriante, de maisons en bois sur pilotis et de vie locale le long des voies d'eau.\n\nLe bateau s'arrête à un temple abritant une des plus grandes statues de Bouddha assis de Bangkok, une figure dorée imposante que la plupart des touristes ne voient jamais. Votre guide partage l'histoire et l'importance du temple.\n\nEnsuite, naviguez vers Baan Silapin (la Maison de l'Artiste), une charmante galerie au bord de la rivière et théâtre de marionnettes traditionnel. Regardez une courte représentation de marionnettes thaïlandaises et parcourez les œuvres d'art. Il y a aussi un petit café si vous voulez prendre un café au bord de l'eau.\n\nTout au long de la croisière, votre guide parlant anglais vous montre la vie quotidienne des canaux, des moines collectant des aumônes en bateau, des enfants se baignant, des vendeurs vendant depuis des cuisines flottantes. C'est une véritable fenêtre sur la façon dont les habitants de Bangkok vivent au bord de l'eau depuis des siècles.\n\nLa croisière vous ramène au quai de départ, où vous pouvez continuer à explorer seul ou prendre un taxi pour votre prochaine destination.",
+  "highlights": [
+   "Naviguez dans le réseau caché de canaux de Bangkok sur un bateau longtail traditionnel",
+   "Visitez un temple avec l'un des plus grands Bouddhas dorés assis de Bangkok",
+   "Regardez un spectacle de marionnettes thaïlandaises traditionnel à la Maison de l'Artiste (Baan Silapin)",
+   "Découvrez la vie authentique des canaux locaux, maisons en bois sur pilotis, vendeurs flottants, moines en bateau",
+   "Petit groupe avec guide parlant anglais pour une expérience personnelle",
+   "Annulation gratuite jusqu'à 24 heures à l'avance"
+  ],
+  "included": [
+   "Croisière de 2 heures en bateau longtail sur les canaux",
+   "Guide local parlant anglais",
+   "Tous les frais d'entrée au temple",
+   "Eau en bouteille",
+   "Spectacle de marionnettes traditionnel à la Maison de l'Artiste"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel",
+   "Nourriture et boissons (collations disponibles à la Maison de l'Artiste)",
+   "Dépenses personnelles et souvenirs",
+   "Pourboires (facultatif)"
+  ]
+ },
+ "bangkok-chao-phraya-dinner-cruise-luxury-river": {
+  "title": "Bangkok : croisière-dîner sur le Chao Phraya, expérience fluviale de luxe 5 étoiles",
+  "metaTitle": "Bangkok : croisière-dîner luxe Chao Phraya",
+  "metaDescription": "Naviguez le long de la rivière Chao Phraya sur un bateau-dîner de luxe 5 étoiles, passant devant les monuments les plus emblématiques de Bangkok illuminés la nuit. Profitez d'un buffet international gastronomique, de divertissements en direct et de spectacles thaïlandais traditionnels en glissant devant le Grand Palais, Wat Arun et plus encore.",
+  "shortDescription": "Naviguez le long de la rivière Chao Phraya sur un bateau-dîner de luxe 5 étoiles, passant devant les monuments les plus emblématiques de Bangkok illuminés la nuit. Profitez d'un buffet international gastronomique, de divertissements en direct et de spectacles thaïlandais traditionnels en glissant devant le Grand Palais, Wat Arun et plus encore.",
+  "fullDescription": "Découvrez Bangkok depuis l'eau sur une croisière-dîner de luxe 5 étoiles le long de la rivière Chao Phraya. Alors que le soleil se couche et que la ville s'illumine, vous monterez à bord d'un navire de croisière magnifiquement décoré pour une soirée inoubliable de gastronomie fine, de musique live et de spectacles de danse thaïlandaise traditionnelle.\n\nLa croisière passe devant les monuments les plus emblématiques de Bangkok illuminés la nuit, y compris le Grand Palais, Wat Arun (Temple de l'Aube), et les quartiers historiques au bord de la rivière. Profitez d'un buffet international et thaïlandais premium avec un large choix de plats, de fruits de mer frais et de desserts.\n\nLe divertissement à bord comprend de la musique live, des spectacles de danse thaïlandaise traditionnelle en costumes éblouissants, et une atmosphère festive parfaite pour les célébrations, anniversaires, ou une soirée mémorable à Bangkok. La croisière part du quai ICONSIAM, ce qui facilite l'accès depuis le centre de Bangkok.",
+  "highlights": [
+   "Naviguez devant le Grand Palais, Wat Arun et les monuments emblématiques au bord de la rivière de Bangkok illuminés la nuit",
+   "Profitez d'un dîner buffet international et thaïlandais premium à bord",
+   "Regardez des spectacles de danse thaïlandaise traditionnelle live en costume complet",
+   "Choisissez parmi plusieurs options de pont, y compris des places climatisées et en plein air",
+   "Parfait pour les célébrations, anniversaires, ou une soirée spéciale à Bangkok",
+   "Annulation gratuite jusqu'à 24 heures à l'avance"
+  ],
+  "included": [
+   "Croisière-dîner de luxe de 2 heures sur la rivière Chao Phraya",
+   "Dîner buffet international et thaïlandais avec fruits de mer frais",
+   "Musique live et spectacles culturels thaïlandais traditionnels",
+   "Boisson de bienvenue à l'arrivée",
+   "Places intérieures climatisées ou pont en plein air",
+   "Vues panoramiques du Grand Palais, de Wat Arun et des monuments au bord de la rivière"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel (disponible en supplément)",
+   "Boissons alcoolisées (disponibles à l'achat à bord)",
+   "Pourboires pour l'équipage",
+   "Dépenses personnelles"
+  ]
+ },
+ "chao-phraya-river-boat-tour": {
+  "title": "Bangkok : visite en bateau en teck des canaux et de Wat Arun",
+  "metaTitle": "Bangkok : bateau en teck, canaux et Wat Arun",
+  "metaDescription": "Glissez à travers les canaux cachés de Bangkok sur un bateau traditionnel en teck et admirez Wat Arun depuis l'eau. Cette visite guidée de 2 heures vous fait passer devant des maisons sur pilotis, des villages locaux et des temples moins connus le long du canal Daokanong et de la rivière Chao Phraya, un côté de Bangkok que la plupart des visiteurs ne voient jamais.",
+  "shortDescription": "Glissez à travers les canaux cachés de Bangkok sur un bateau traditionnel en teck et admirez Wat Arun depuis l'eau. Cette visite guidée de 2 heures vous fait passer devant des maisons sur pilotis, des villages locaux et des temples moins connus le long du canal Daokanong et de la rivière Chao Phraya, un côté de Bangkok que la plupart des visiteurs ne voient jamais.",
+  "fullDescription": "Cette visite des canaux de 2 heures est l'une des meilleures façons de découvrir un côté plus tranquille et plus authentique de Bangkok, loin de la circulation et des foules touristiques.\n\nVous monterez à bord d'un bateau longtail artisanal en teck à River City Bangkok et vous dirigerez vers la rivière Chao Phraya. En quelques minutes, les gratte-ciel céderont la place à un monde complètement différent lorsque vous tournerez dans l'étroit canal Daokanong, l'une des voies d'eau les plus anciennes et les plus pittoresques de Bangkok.\n\nEn dérivant à travers le canal, vous passerez devant des maisons thaïlandaises traditionnelles sur pilotis, de petits temples en bois et des communautés locales qui vivent encore au bord de l'eau comme elles le font depuis des générations. Votre guide parlant anglais partagera des histoires sur l'histoire de Bangkok en tant que « Venise de l'Orient », une ville qui était autrefois entièrement construite autour de ses canaux, bien avant l'existence des routes.\n\nLe moment fort de la visite est la vue de Wat Arun (le Temple de l'Aube) depuis la rivière. Voir sa flèche imposante de style khmer depuis l'eau, encadrée par le Chao Phraya et la ligne d'horizon de la ville, est l'un des spectacles les plus emblématiques de Bangkok, et bien plus impressionnant que la vue depuis la terre.\n\nEn chemin, vous apercevrez également les Barges royales, des bateaux cérémoniels ornés utilisés par la famille royale thaïlandaise lors de la procession annuelle des barges royales. Votre guide expliquera l'importance de ces bateaux et les traditions séculaires derrière la cérémonie.\n\nCette visite est parfaite pour les photographes, les amateurs de culture, et quiconque veut voir le vrai Bangkok, celui qui existe au-delà des centres commerciaux et des temples. La petite taille du groupe (15 max) et le bateau intime en teck créent une expérience détendue et personnelle que les plus grandes croisières fluviales ne peuvent tout simplement pas égaler.\n\nLes départs sont disponibles à 10h00 et 14h30 tous les jours. Le départ de l'après-midi offre une lumière particulièrement belle pour la photographie alors que le soleil commence à descendre sur la rivière.",
+  "highlights": [
+   "Naviguez le canal Daokanong sur un bateau longtail artisanal en teck",
+   "Voyez Wat Arun, le Temple de l'Aube, depuis la rivière pour la vue la plus emblématique",
+   "Passez devant des maisons thaïlandaises traditionnelles sur pilotis et des villages locaux le long du canal",
+   "Repérez les Barges royales utilisées dans la procession royale thaïlandaise",
+   "Découvrez l'histoire de Bangkok en tant que Venise de l'Orient auprès d'un guide local",
+   "Découvrez des temples cachés et des maisons en bois le long des voies d'eau étroites"
+  ],
+  "included": [
+   "Visite en bateau en teck de 2 heures sur les canaux",
+   "Guide local parlant anglais",
+   "Eau potable",
+   "Gilet de sauvetage",
+   "Assurance voyage"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons (à part l'eau)",
+   "Prise en charge et retour à l'hôtel",
+   "Pourboires (facultatif)"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
