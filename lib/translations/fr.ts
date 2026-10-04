@@ -45070,6 +45070,86 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour les guides"
   ]
  },
+ "mae-taeng-district-chiang-mai-countryside-adventure-tour": {
+  "title": "Chiang Mai : aventure en quad de 3 heures",
+  "metaTitle": "Chiang Mai : aventure en quad de 3 heures",
+  "metaDescription": "Conduisez votre propre quad sur environ 40 km de route et de piste forestière à travers la campagne de Chiang Mai, avec instruction complète et aucune expérience requise.",
+  "shortDescription": "Conduisez votre propre quad sur environ 40 km de route et de piste forestière à travers la campagne de Chiang Mai, avec instruction complète et aucune expérience requise.",
+  "fullDescription": "Il s'agit d'une véritable randonnée en quad hors route, pas d'une boucle lente autour d'un parking, le parcours de 3 heures couvre environ 40 kilomètres combinant routes rurales pavées et véritable piste forestière et agricole hors route, vous emmenant bien au-delà des zones que la plupart des excursionnistes d'un jour voient jamais. Chaque participant reçoit son propre quad (pas de partage), et l'opérateur organise un parcours de formation au départ pour que les débutants partent en confiance avant d'affronter le terrain plus difficile.\n\nLe parcours traverse le mélange de rizières, de piste forestière et de petits villages locaux du district de Mae Taeng, avec des arrêts en chemin pour se regrouper, prendre des photos et laisser votre guide signaler tout ce qui vaut la peine d'être vu. C'est un véritable moment physique et riche en adrénaline, attendez-vous à être poussiéreux ou boueux selon la saison, et cela fonctionne bien à la fois pour les débutants complets et pour toute personne ayant déjà conduit et souhaitant un parcours plus long et plus sérieux que la petite boucle touristique habituelle.",
+  "highlights": [
+   "Environ 40 km de route et de piste forestière hors route",
+   "Conduite en quad solo, sans partage avec un passager",
+   "Parcours de formation complet pour débutants",
+   "Itinéraire à travers rizières, jungle et villages locaux",
+   "Adapté aux débutants comme aux pilotes expérimentés"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Location de quad solo pour tout le parcours",
+   "Casque et équipement de sécurité",
+   "Formation/briefing sur le quad",
+   "Guide pour toute la randonnée",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Repas (sauf indication contraire à la réservation)",
+   "Équipement de conduite personnel au-delà de ce qui est fourni",
+   "Pourboires",
+   "Assurance voyage/accident"
+  ]
+ },
+ "night-bazaar-area-chiang-mai-mini-tour": {
+  "title": "Chiang Mai : expérience de massage et spa Lanna style grotte",
+  "metaTitle": "Chiang Mai : massage et spa Lanna style grotte",
+  "metaDescription": "Une retraite de massage et spa thaïlandais Lanna inspirée des grottes près du Night Bazaar, mêlant travail corporel traditionnel du Nord thaïlandais, aromathérapie et soins aux herbes.",
+  "shortDescription": "Une retraite de massage et spa thaïlandais Lanna inspirée des grottes près du Night Bazaar, mêlant travail corporel traditionnel du Nord thaïlandais, aromathérapie et soins aux herbes.",
+  "fullDescription": "Niché à quelques pas du Night Bazaar de Chiang Mai, ce spa est construit autour d'un intérieur de style grotte aux murs de pierre et plafonds bas voûtés, conçu pour se sentir comme une retraite cachée plutôt qu'une salle de spa d'hôtel typique. Le soin signature est un massage thaïlandais traditionnel Lanna, un style de travail corporel du Nord thaïlandais ancré dans une technique séculaire, distinct du massage plus familier de style Bangkok par son rythme plus lent et son accent sur l'étirement et le travail des points de pression le long des lignes d'énergie du corps.\n\nLes thérapeutes ajoutent des huiles d'aromathérapie et des compresses aux herbes pendant la séance, et le cadre semblable à une grotte garde l'espace frais et calme même pendant la chaleur du jour. C'est un bon choix pour les voyageurs qui veulent une vraie relaxation après une journée de visites de temples ou de randonnée, sans la foule d'un grand spa d'hôtel. Les séances sont privées et le rythme est détendu tout au long.",
+  "highlights": [
+   "Massage thaïlandais traditionnel Lanna ancré dans la technique du Nord thaïlandais",
+   "Intérieur unique de style grotte près du Night Bazaar",
+   "Huiles d'aromathérapie et compresses aux herbes incluses",
+   "Cadre calme et privé loin des spas d'hôtel bondés",
+   "Facilement accessible à pied depuis le centre de Chiang Mai"
+  ],
+  "included": [
+   "Soin complet de massage/spa selon réservation",
+   "Huiles d'aromathérapie et compresse aux herbes (le cas échéant)",
+   "Utilisation des installations du spa (douche, vestiaire)",
+   "Thé aux herbes de bienvenue"
+  ],
+  "notIncluded": [
+   "Transfert hôtelier (à organiser soi-même ; spa accessible à pied depuis le centre de Chiang Mai)",
+   "Pourboires",
+   "Soins additionnels non sélectionnés à la réservation"
+  ]
+ },
+ "mae-kampong-village-group-tour": {
+  "title": "Chiang Mai : trek gibbons et visite en petit groupe du village de Mae Kampong",
+  "metaTitle": "Chiang Mai : gibbons et village de Mae Kampong",
+  "metaDescription": "Une excursion d'une journée en petit groupe dans les montagnes à l'est de Chiang Mai : trek en forêt à la recherche de gibbons sauvages, puis découverte du village centenaire de Mae Kampong.",
+  "shortDescription": "Une excursion d'une journée en petit groupe dans les montagnes à l'est de Chiang Mai : trek en forêt à la recherche de gibbons sauvages, puis découverte du village centenaire de Mae Kampong.",
+  "fullDescription": "Haut dans les montagnes à l'est de Chiang Mai, le village de Mae Kampong se trouve enveloppé de brume et de forêt, ses maisons en bois reliées par des sentiers étroits au-dessus d'un ruisseau. Cette visite en petit groupe utilise le village comme base pour un véritable trek en forêt, avant d'atteindre le village lui-même, votre guide mène une courte randonnée à la recherche de gibbons qui ont été réintroduits dans ces forêts grâce à un projet de réhabilitation local.\n\nCe sont désormais de véritables animaux sauvages, libres d'errer, donc une observation n'est jamais garantie, mais la marche elle-même à travers la jungle intacte vaut la peine dans tous les cas, et une partie du prix de votre visite va directement aux soigneurs qui continuent de soutenir la sécurité et l'approvisionnement alimentaire des gibbons. Par la suite, vous traverserez le village de Mae Kampong, une communauté qui a conservé une grande partie de son mode de vie traditionnel, thé Miang fait maison, cascades cachées dans les collines, et habitants qui vivent ici depuis des générations. Le déjeuner est un repas familial du Nord thaïlandais, et la petite taille du groupe (plafonnée bas) garde la journée personnelle plutôt que de ressembler à une excursion en bus.",
+  "highlights": [
+   "Trek en forêt à la recherche de gibbons sauvages réhabilités",
+   "Découverte du village de montagne centenaire de Mae Kampong",
+   "Une partie du prix soutient les soigneurs de conservation des gibbons",
+   "Format en petit groupe, jamais une grande excursion en bus",
+   "Déjeuner familial du Nord thaïlandais inclus"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Guide parlant anglais",
+   "Trek en forêt à la recherche des gibbons",
+   "Visite à pied du village de Mae Kampong",
+   "Déjeuner",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles et souvenirs",
+   "Pourboires pour le guide et le chauffeur",
+   "Assurance voyage"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

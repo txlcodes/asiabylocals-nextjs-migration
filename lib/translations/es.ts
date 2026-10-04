@@ -45070,6 +45070,86 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas para los guías"
   ]
  },
+ "mae-taeng-district-chiang-mai-countryside-adventure-tour": {
+  "title": "Chiang Mai: aventura en quad de 3 horas",
+  "metaTitle": "Chiang Mai: aventura en quad de 3 horas",
+  "metaDescription": "Conduzca su propio quad por aproximadamente 40 km de carretera y senderos de selva a través del campo de Chiang Mai, con instrucción completa y sin experiencia requerida.",
+  "shortDescription": "Conduzca su propio quad por aproximadamente 40 km de carretera y senderos de selva a través del campo de Chiang Mai, con instrucción completa y sin experiencia requerida.",
+  "fullDescription": "Este es un verdadero recorrido en quad todoterreno, no una vuelta lenta alrededor de un estacionamiento, la ruta de 3 horas cubre aproximadamente 40 kilómetros combinando carreteras rurales pavimentadas con un verdadero sendero todoterreno de selva y tierras de cultivo, llevándolo mucho más allá de las áreas que la mayoría de los excursionistas de un día llegan a ver. Cada conductor recibe su propio quad (sin compartir), y el operador realiza un curso de entrenamiento al inicio para que los principiantes se vayan sintiéndose seguros antes de enfrentar el terreno más difícil.\n\nLa ruta recorre la mezcla de arrozales, senderos de selva y pequeños pueblos locales del distrito de Mae Taeng, con paradas en el camino para reagruparse, tomar fotos y dejar que su guía señale cualquier cosa que valga la pena ver. Son unas horas genuinamente físicas y llenas de adrenalina, espere ensuciarse de polvo o lodo según la temporada, y funciona bien tanto para principiantes totales como para cualquiera que ya haya conducido y quiera un sendero más largo y serio que el típico recorrido turístico corto.",
+  "highlights": [
+   "Aproximadamente 40 km de carretera y senderos de selva todoterreno",
+   "Conducción de quad en solitario, sin compartir con un pasajero",
+   "Curso de entrenamiento completo para principiantes totales",
+   "Ruta a través de arrozales, selva y pueblos locales",
+   "Adecuado tanto para principiantes como para conductores experimentados"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Alquiler de quad en solitario para toda la ruta",
+   "Casco y equipo de seguridad",
+   "Entrenamiento/información sobre el quad",
+   "Guía durante todo el recorrido",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Comidas (salvo que se indique en la reserva)",
+   "Equipo personal de conducción más allá de lo proporcionado",
+   "Propinas",
+   "Seguro de viaje/accidentes"
+  ]
+ },
+ "night-bazaar-area-chiang-mai-mini-tour": {
+  "title": "Chiang Mai: experiencia de masaje y spa Lanna estilo cueva",
+  "metaTitle": "Chiang Mai: masaje y spa Lanna estilo cueva",
+  "metaDescription": "Un retiro de masaje y spa tailandés Lanna inspirado en cuevas cerca del Night Bazaar, que combina el trabajo corporal tradicional del norte de Tailandia con aromaterapia y tratamientos de hierbas.",
+  "shortDescription": "Un retiro de masaje y spa tailandés Lanna inspirado en cuevas cerca del Night Bazaar, que combina el trabajo corporal tradicional del norte de Tailandia con aromaterapia y tratamientos de hierbas.",
+  "fullDescription": "A poca distancia a pie del Night Bazaar de Chiang Mai, este spa está construido alrededor de un interior estilo cueva de paredes de piedra y techos bajos abovedados, diseñado para sentirse como un retiro escondido en lugar de una sala de spa de hotel típica. El tratamiento estrella es un masaje tailandés tradicional Lanna, un estilo de trabajo corporal del norte de Tailandia enraizado en una técnica centenaria, distinto del más familiar estilo de Bangkok por su ritmo más lento y énfasis en el estiramiento y el trabajo de puntos de presión a lo largo de las líneas de energía del cuerpo.\n\nLos terapeutas añaden aceites de aromaterapia y compresas de hierbas durante la sesión, y el entorno similar a una cueva mantiene el espacio fresco y tranquilo incluso durante el calor del día. Es una buena opción para viajeros que quieren una relajación genuina después de un día visitando templos o haciendo senderismo, sin las multitudes de un gran spa de hotel. Las sesiones son privadas, y el ritmo es relajado durante toda la experiencia.",
+  "highlights": [
+   "Masaje tailandés tradicional Lanna enraizado en la técnica del norte de Tailandia",
+   "Interior único estilo cueva cerca del Night Bazaar",
+   "Aceites de aromaterapia y compresas de hierbas incluidas",
+   "Entorno tranquilo y privado lejos de los spas de hotel abarrotados",
+   "Fácilmente accesible a pie desde el centro de Chiang Mai"
+  ],
+  "included": [
+   "Tratamiento completo de masaje/spa según reserva",
+   "Aceites de aromaterapia y compresa de hierbas (según corresponda)",
+   "Uso de las instalaciones del spa (ducha, vestidor)",
+   "Té de hierbas de bienvenida"
+  ],
+  "notIncluded": [
+   "Traslado desde el hotel (a organizar por su cuenta; el spa es accesible a pie desde el centro de Chiang Mai)",
+   "Propinas",
+   "Tratamientos adicionales no seleccionados al reservar"
+  ]
+ },
+ "mae-kampong-village-group-tour": {
+  "title": "Chiang Mai: trekking de gibones y tour en grupo pequeño al pueblo de Mae Kampong",
+  "metaTitle": "Chiang Mai: gibones y pueblo de Mae Kampong",
+  "metaDescription": "Una excursión de un día en grupo pequeño a las montañas al este de Chiang Mai: trekking por el bosque en busca de gibones salvajes, luego exploración del pueblo centenario de Mae Kampong.",
+  "shortDescription": "Una excursión de un día en grupo pequeño a las montañas al este de Chiang Mai: trekking por el bosque en busca de gibones salvajes, luego exploración del pueblo centenario de Mae Kampong.",
+  "fullDescription": "En lo alto de las montañas al este de Chiang Mai, el pueblo de Mae Kampong se encuentra envuelto en niebla y bosque, sus casas de madera conectadas por senderos estrechos sobre un arroyo que fluye. Este tour en grupo pequeño usa el pueblo como base para un verdadero trekking forestal, antes de llegar al pueblo mismo, su guía lo lleva en una breve caminata en busca de gibones que fueron reintroducidos en estos bosques a través de un proyecto de rehabilitación local.\n\nEstos son ahora animales genuinamente salvajes, libres de vagar, por lo que un avistamiento nunca está garantizado, pero la caminata en sí a través de la selva intacta vale la pena de todos modos, y una parte de la tarifa de su tour va directamente a los cuidadores que continúan apoyando la seguridad y el suministro de alimento de los gibones. Después, caminará por el pueblo de Mae Kampong, una comunidad que ha mantenido intacta gran parte de su forma de vida tradicional, té Miang hecho en casa, cascadas escondidas en las colinas y lugareños que han vivido aquí por generaciones. El almuerzo es una comida casera del norte de Tailandia, y el tamaño reducido del grupo (con límite bajo) mantiene el día personal en lugar de sentirse como un recorrido en autobús.",
+  "highlights": [
+   "Trekking por el bosque en busca de gibones salvajes rehabilitados",
+   "Exploración del pueblo de montaña centenario de Mae Kampong",
+   "Parte del precio del tour apoya a los cuidadores de conservación de gibones",
+   "Formato de grupo pequeño, nunca un recorrido en autobús grande",
+   "Almuerzo casero del norte de Tailandia incluido"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Guía de habla inglesa",
+   "Trekking forestal en busca de gibones",
+   "Recorrido a pie por el pueblo de Mae Kampong",
+   "Almuerzo",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Gastos personales y recuerdos",
+   "Propinas para guía y conductor",
+   "Seguro de viaje"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

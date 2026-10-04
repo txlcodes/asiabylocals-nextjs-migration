@@ -45069,6 +45069,86 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder für Guides"
   ]
  },
+ "mae-taeng-district-chiang-mai-countryside-adventure-tour": {
+  "title": "Chiang Mai: 3-stündiges Quad-Dschungelabenteuer",
+  "metaTitle": "Chiang Mai: 3-stündiges Quad-Abenteuer",
+  "metaDescription": "Fahren Sie Ihr eigenes Quad über etwa 40 km Straße und Dschungelpfad durch die Landschaft von Chiang Mai, mit vollständiger Anleitung und ohne Vorerfahrung erforderlich.",
+  "shortDescription": "Fahren Sie Ihr eigenes Quad über etwa 40 km Straße und Dschungelpfad durch die Landschaft von Chiang Mai, mit vollständiger Anleitung und ohne Vorerfahrung erforderlich.",
+  "fullDescription": "Dies ist eine echte Geländefahrt mit dem Quad, keine langsame Schleife um einen Parkplatz, die 3-stündige Route umfasst etwa 40 Kilometer und kombiniert asphaltierte Landstraßen mit richtigem Gelände aus Dschungel und Ackerland, das Sie weit über die Bereiche hinausführt, die die meisten Tagesausflügler je zu sehen bekommen. Jeder Fahrer erhält sein eigenes Quad (kein Teilen), und der Anbieter führt zu Beginn einen Trainingskurs durch, damit Anfänger selbstbewusst in das schwierigere Gelände starten.\n\nDie Route schlängelt sich durch die Mischung aus Reisfeldern, Dschungelpfad und kleinen lokalen Dörfern des Distrikts Mae Taeng, mit Zwischenstopps, um sich neu zu gruppieren, Fotos zu machen und Ihren Guide auf alles Sehenswerte hinweisen zu lassen. Es sind einige wirklich körperliche, adrenalingetriebene Stunden, erwarten Sie je nach Jahreszeit staubig oder schlammig zu werden, und es funktioniert gut sowohl für absolute Anfänger als auch für alle, die schon gefahren sind und eine längere, ernsthaftere Strecke als die typische kurze Touristenschleife wollen.",
+  "highlights": [
+   "Etwa 40 km Straße und Gelände-Dschungelpfad",
+   "Solo-Quadfahren, kein Teilen mit einem Beifahrer",
+   "Vollständiger Trainingskurs für absolute Anfänger",
+   "Route durch Reisfelder, Dschungel und lokale Dörfer",
+   "Geeignet für Anfänger und erfahrene Fahrer"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt",
+   "Solo-Quad-Vermietung für die gesamte Route",
+   "Helm und Sicherheitsausrüstung",
+   "Quad-Training/Briefing",
+   "Guide für die gesamte Fahrt",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Mahlzeiten (sofern nicht bei Buchung angegeben)",
+   "Persönliche Fahrausrüstung über das Bereitgestellte hinaus",
+   "Trinkgelder",
+   "Reise-/Unfallversicherung"
+  ]
+ },
+ "night-bazaar-area-chiang-mai-mini-tour": {
+  "title": "Chiang Mai: Lanna-Massage- und Spa-Erlebnis im Höhlenstil",
+  "metaTitle": "Chiang Mai: Lanna-Massage und Spa im Höhlenstil",
+  "metaDescription": "Eine höhleninspirierte Lanna-Thai-Massage- und Spa-Oase nahe dem Night Bazaar, die traditionelle nordthailändische Körperarbeit mit Aromatherapie und Kräuterbehandlungen verbindet.",
+  "shortDescription": "Eine höhleninspirierte Lanna-Thai-Massage- und Spa-Oase nahe dem Night Bazaar, die traditionelle nordthailändische Körperarbeit mit Aromatherapie und Kräuterbehandlungen verbindet.",
+  "fullDescription": "Nur einen kurzen Spaziergang vom Night Bazaar von Chiang Mai entfernt, ist dieses Spa um ein höhlenartiges Interieur aus Steinwänden und niedrigen Bogendecken aufgebaut, das sich wie eine verborgene Oase anfühlen soll statt wie ein typischer Hotel-Spa-Raum. Die Signaturbehandlung ist eine traditionelle Lanna-Thai-Massage, ein nordthailändischer Stil der Körperarbeit, der auf jahrhundertealter Technik beruht und sich vom bekannteren Bangkok-Stil durch seinen langsameren Rhythmus und die Betonung von Dehnung und Druckpunktarbeit entlang der Energielinien des Körpers unterscheidet.\n\nTherapeuten fügen während der Sitzung Aromatherapie-Öle und Kräuterkompressen hinzu, und die höhlenartige Umgebung hält den Raum kühl und ruhig selbst während der Hitze des Tages. Es ist eine gute Wahl für Reisende, die echte Entspannung nach einem Tag voller Tempelbesuche oder Trekking wollen, ohne die Menschenmassen eines großen Hotel-Spas. Sitzungen sind privat, und das Tempo ist durchgehend entspannt.",
+  "highlights": [
+   "Traditionelle Lanna-Thai-Massage, verwurzelt in nordthailändischer Technik",
+   "Einzigartiges höhlenartiges Interieur nahe dem Night Bazaar",
+   "Aromatherapie-Öle und Kräuterkompressen inklusive",
+   "Ruhige, private Umgebung fern von überfüllten Hotel-Spas",
+   "Bequem zu Fuß vom Zentrum Chiang Mais erreichbar"
+  ],
+  "included": [
+   "Vollständige Massage-/Spa-Behandlung nach Buchung",
+   "Aromatherapie-Öle und Kräuterkompresse (falls zutreffend)",
+   "Nutzung der Spa-Einrichtungen (Dusche, Umkleide)",
+   "Willkommens-Kräutertee"
+  ],
+  "notIncluded": [
+   "Hoteltransfer (selbst zu organisieren; Spa zu Fuß vom Zentrum Chiang Mais erreichbar)",
+   "Trinkgelder",
+   "Zusätzliche Behandlungen, die bei Buchung nicht ausgewählt wurden"
+  ]
+ },
+ "mae-kampong-village-group-tour": {
+  "title": "Chiang Mai: Gibbon-Trek und Kleingruppen-Tour zum Dorf Mae Kampong",
+  "metaTitle": "Chiang Mai: Gibbons und Dorf Mae Kampong",
+  "metaDescription": "Ein Kleingruppen-Tagesausflug in die Berge östlich von Chiang Mai, Trekking durch den Wald auf der Suche nach wilden Gibbons, dann Erkundung des jahrhundertealten Dorfes Mae Kampong.",
+  "shortDescription": "Ein Kleingruppen-Tagesausflug in die Berge östlich von Chiang Mai, Trekking durch den Wald auf der Suche nach wilden Gibbons, dann Erkundung des jahrhundertealten Dorfes Mae Kampong.",
+  "fullDescription": "Hoch in den Bergen östlich von Chiang Mai liegt das Dorf Mae Kampong, eingehüllt in Nebel und Wald, seine Holzhäuser durch schmale Pfade über einem fließenden Bach verbunden. Diese Kleingruppentour nutzt das Dorf als Basis für ein echtes Waldtrekking, bevor Sie das Dorf selbst erreichen, führt Ihr Guide eine kurze Wanderung auf der Suche nach Gibbons, die durch ein lokales Rehabilitationsprojekt in diese Wälder wieder eingeführt wurden.\n\nDies sind inzwischen echte Wildtiere, frei zum Streifen, daher ist eine Sichtung nie garantiert, aber der Spaziergang selbst durch unberührten Dschungel ist in jedem Fall lohnenswert, und ein Teil Ihrer Tourgebühr geht direkt an die Pfleger, die weiterhin die Sicherheit und Nahrungsversorgung der Gibbons unterstützen. Danach gehen Sie durch das Dorf Mae Kampong, eine Gemeinschaft, die einen Großteil ihrer traditionellen Lebensweise bewahrt hat, hausgemachten Miang-Tee, in die Hügel eingebettete Wasserfälle und Einheimische, die seit Generationen hier leben. Das Mittagessen ist eine hausgemachte nordthailändische Mahlzeit, und die geringe Gruppengröße (niedrig begrenzt) hält den Tag persönlich statt wie eine Bustour.",
+  "highlights": [
+   "Waldtrekking auf der Suche nach wilden, rehabilitierten Gibbons",
+   "Erkundung des jahrhundertealten Bergdorfes Mae Kampong",
+   "Ein Teil des Tourpreises unterstützt die Gibbon-Pfleger",
+   "Kleingruppenformat, niemals eine große Bustour",
+   "Hausgemachtes nordthailändisches Mittagessen inklusive"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt",
+   "Englischsprachiger Guide",
+   "Gibbon-Waldtrekking",
+   "Geführter Rundgang durch das Dorf Mae Kampong",
+   "Mittagessen",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben und Souvenirs",
+   "Trinkgelder für Guide und Fahrer",
+   "Reiseversicherung"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
