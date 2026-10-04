@@ -45679,6 +45679,60 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ]
  },
+ "white-lotus-thai-cooking-class-with-market-tour": {
+  "title": "Bangkok : cours de cuisine thaïlandaise White Lotus avec visite du marché",
+  "metaTitle": "Bangkok : cours de cuisine White Lotus",
+  "metaDescription": "Découvrez les secrets de la cuisine thaïlandaise avec un cours pratique à Bangkok. Explorez un marché local, apprenez à faire du lait de coco frais, et cuisinez 4 plats thaïlandais authentiques.",
+  "shortDescription": "Découvrez les secrets de la cuisine thaïlandaise avec un cours pratique à Bangkok. Explorez un marché local, apprenez à faire du lait de coco frais, et cuisinez 4 plats thaïlandais authentiques.",
+  "fullDescription": "Découvrez les secrets de la cuisine thaïlandaise avec un cours pratique à Bangkok. Explorez un marché local, apprenez à faire du lait de coco frais, et cuisinez 4 plats thaïlandais authentiques.",
+  "highlights": [
+   "Découvrez les secrets de la cuisine thaïlandaise avec un cours pratique"
+  ],
+  "included": [
+   "Guide parlant anglais",
+   "Visite telle que décrite"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
+ "floating-market-and-train-market-experience": {
+  "title": "Bangkok : expérience du marché flottant et du marché ferroviaire",
+  "metaTitle": "Marché flottant et marché ferroviaire",
+  "metaDescription": "Touristique, mais un moment unique. Montez à bord d'un train à travers un marché, croisière sur les canaux, et découvrez la Thaïlande rurale où tradition et tourisme se rencontrent avec un guide parlant anglais et un audioguide en 28 langues.",
+  "shortDescription": "Touristique, mais un moment unique. Montez à bord d'un train à travers un marché, croisière sur les canaux, et découvrez la Thaïlande rurale où tradition et tourisme se rencontrent avec un guide parlant anglais et un audioguide en 28 langues.",
+  "fullDescription": "Touristique, mais un moment unique. Montez à bord d'un train à travers un marché, croisière sur les canaux, et découvrez la Thaïlande rurale où tradition et tourisme se rencontrent avec un guide parlant anglais et un audioguide en 28 langues.",
+  "highlights": [
+   "Trajet en train pittoresque à travers la campagne jusqu'au marché ferroviaire, et voyez-le repasser"
+  ],
+  "included": [
+   "Guide parlant anglais",
+   "Visite telle que décrite"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
+ "muay-thai-boxing-tickets-at-rajadamnern-stadium": {
+  "title": "Bangkok : billets de boxe Muay Thai au stade Rajadamnern",
+  "metaTitle": "Billets Muay Thai au stade Rajadamnern",
+  "metaDescription": "Le premier stade de Muay Thai au monde présente la toute première expérience immersive de Muay Thai",
+  "shortDescription": "Le premier stade de Muay Thai au monde présente la toute première expérience immersive de Muay Thai",
+  "fullDescription": "Le premier stade de Muay Thai au monde présente la toute première expérience immersive de Muay Thai",
+  "highlights": [
+   "Immergez-vous dans la culture authentique du Muay Thai à son lieu de naissance"
+  ],
+  "included": [
+   "Guide parlant anglais",
+   "Visite telle que décrite"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

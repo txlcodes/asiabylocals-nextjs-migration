@@ -45679,6 +45679,60 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "white-lotus-thai-cooking-class-with-market-tour": {
+  "title": "Bangkok: clase de cocina tailandesa White Lotus con tour del mercado",
+  "metaTitle": "Bangkok: clase de cocina White Lotus",
+  "metaDescription": "Descubra los secretos de la cocina tailandesa con una clase práctica en Bangkok. Explore un mercado local, aprenda a hacer leche de coco fresca, y cocine 4 platos tailandeses autenticos.",
+  "shortDescription": "Descubra los secretos de la cocina tailandesa con una clase práctica en Bangkok. Explore un mercado local, aprenda a hacer leche de coco fresca, y cocine 4 platos tailandeses autenticos.",
+  "fullDescription": "Descubra los secretos de la cocina tailandesa con una clase práctica en Bangkok. Explore un mercado local, aprenda a hacer leche de coco fresca, y cocine 4 platos tailandeses autenticos.",
+  "highlights": [
+   "Descubra los secretos de la cocina tailandesa con una clase práctica"
+  ],
+  "included": [
+   "Guía de habla inglesa",
+   "Tour según lo descrito"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
+ "floating-market-and-train-market-experience": {
+  "title": "Bangkok: experiencia del mercado flotante y el mercado ferroviario",
+  "metaTitle": "Mercado flotante y mercado ferroviario",
+  "metaDescription": "Turístico, pero un momento único. Viaje en tren a través de un mercado, navegue por los canales, y descubra la Tailandia rural donde la tradición se encuentra con el turismo con un guía de habla inglesa y audioguía en 28 idiomas.",
+  "shortDescription": "Turístico, pero un momento único. Viaje en tren a través de un mercado, navegue por los canales, y descubra la Tailandia rural donde la tradición se encuentra con el turismo con un guía de habla inglesa y audioguía en 28 idiomas.",
+  "fullDescription": "Turístico, pero un momento único. Viaje en tren a través de un mercado, navegue por los canales, y descubra la Tailandia rural donde la tradición se encuentra con el turismo con un guía de habla inglesa y audioguía en 28 idiomas.",
+  "highlights": [
+   "Viaje panorámico en tren por el campo hasta el mercado ferroviario, y véalo pasar de nuevo"
+  ],
+  "included": [
+   "Guía de habla inglesa",
+   "Tour según lo descrito"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
+ "muay-thai-boxing-tickets-at-rajadamnern-stadium": {
+  "title": "Bangkok: entradas de boxeo Muay Thai en el estadio Rajadamnern",
+  "metaTitle": "Entradas de Muay Thai en el estadio Rajadamnern",
+  "metaDescription": "El primer estadio de Muay Thai del mundo presenta la primera experiencia inmersiva de Muay Thai",
+  "shortDescription": "El primer estadio de Muay Thai del mundo presenta la primera experiencia inmersiva de Muay Thai",
+  "fullDescription": "El primer estadio de Muay Thai del mundo presenta la primera experiencia inmersiva de Muay Thai",
+  "highlights": [
+   "Sumérjase en la cultura autentica del Muay Thai en su lugar de nacimiento"
+  ],
+  "included": [
+   "Guía de habla inglesa",
+   "Tour según lo descrito"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

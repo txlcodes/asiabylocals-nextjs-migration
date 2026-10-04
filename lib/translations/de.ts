@@ -45678,6 +45678,60 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "white-lotus-thai-cooking-class-with-market-tour": {
+  "title": "Bangkok: White-Lotus-Thai-Kochkurs mit Markttour",
+  "metaTitle": "Bangkok: White-Lotus-Kochkurs",
+  "metaDescription": "Entdecken Sie die Geheimnisse der thailändischen Küche mit einem praktischen Kochkurs in Bangkok. Erkunden Sie einen lokalen Markt, lernen Sie frische Kokosmilch herzustellen, und kochen Sie 4 authentische thailändische Gerichte.",
+  "shortDescription": "Entdecken Sie die Geheimnisse der thailändischen Küche mit einem praktischen Kochkurs in Bangkok. Erkunden Sie einen lokalen Markt, lernen Sie frische Kokosmilch herzustellen, und kochen Sie 4 authentische thailändische Gerichte.",
+  "fullDescription": "Entdecken Sie die Geheimnisse der thailändischen Küche mit einem praktischen Kochkurs in Bangkok. Erkunden Sie einen lokalen Markt, lernen Sie frische Kokosmilch herzustellen, und kochen Sie 4 authentische thailändische Gerichte.",
+  "highlights": [
+   "Entdecken Sie die Geheimnisse der thailändischen Küche mit einem praktischen Kochkurs"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Tour wie beschrieben"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "floating-market-and-train-market-experience": {
+  "title": "Bangkok: Erlebnis schwimmender Markt und Eisenbahnmarkt",
+  "metaTitle": "Schwimmender Markt und Eisenbahnmarkt",
+  "metaDescription": "Touristisch, aber ein einzigartiger Moment. Fahren Sie mit dem Zug durch einen Markt, kreuzen Sie durch die Kanäle, und entdecken Sie das ländliche Thailand, wo Tradition auf Tourismus trifft, mit einem englischsprachigen Guide und Audioguide in 28 Sprachen.",
+  "shortDescription": "Touristisch, aber ein einzigartiger Moment. Fahren Sie mit dem Zug durch einen Markt, kreuzen Sie durch die Kanäle, und entdecken Sie das ländliche Thailand, wo Tradition auf Tourismus trifft, mit einem englischsprachigen Guide und Audioguide in 28 Sprachen.",
+  "fullDescription": "Touristisch, aber ein einzigartiger Moment. Fahren Sie mit dem Zug durch einen Markt, kreuzen Sie durch die Kanäle, und entdecken Sie das ländliche Thailand, wo Tradition auf Tourismus trifft, mit einem englischsprachigen Guide und Audioguide in 28 Sprachen.",
+  "highlights": [
+   "Malerische Zugfahrt durch die Landschaft zum Eisenbahnmarkt, und sehen Sie ihn wieder vorbeifahren"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Tour wie beschrieben"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "muay-thai-boxing-tickets-at-rajadamnern-stadium": {
+  "title": "Bangkok: Muay-Thai-Boxtickets im Rajadamnern-Stadion",
+  "metaTitle": "Muay-Thai-Tickets im Rajadamnern-Stadion",
+  "metaDescription": "Das erste Muay-Thai-Stadion der Welt präsentiert das allererste immersive Muay-Thai-Erlebnis",
+  "shortDescription": "Das erste Muay-Thai-Stadion der Welt präsentiert das allererste immersive Muay-Thai-Erlebnis",
+  "fullDescription": "Das erste Muay-Thai-Stadion der Welt präsentiert das allererste immersive Muay-Thai-Erlebnis",
+  "highlights": [
+   "Tauchen Sie ein in die authentische Kultur des Muay Thai an seinem Geburtsort"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Tour wie beschrieben"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
