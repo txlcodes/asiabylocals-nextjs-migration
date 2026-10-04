@@ -44408,6 +44408,89 @@ export const ES_TOURS: Record<string, TourT> = {
    "Mejora de spa"
   ]
  },
+ "ao-nang-evening-tour": {
+  "title": "Cabaret Blue Dragon en Ao Nang: entrada al espectáculo nocturno",
+  "metaTitle": "Ao Nang: cabaret Blue Dragon, espectáculo nocturno",
+  "metaDescription": "Asiento reservado para el cabaret original de Krabi en el Blue Dragon de Ao Nang, una hora de lentejuelas, espectáculo de playback y actuación escénica a toda marcha.",
+  "shortDescription": "Asiento reservado para el cabaret original de Krabi en el Blue Dragon de Ao Nang, una hora de lentejuelas, espectáculo de playback y actuación escénica a toda marcha.",
+  "fullDescription": "Blue Dragon fue el primer teatro de cabaret en abrir en Krabi y sigue marcando el estándar. El formato es el cabaret tailandés en su forma clásica: un elenco de artistas transgénero, elaborados cambios de vestuario y una sucesión de números que va de Bollywood al K-pop pasando por baladas potentes, todo ello entregado con una seguridad que domina la sala.\n\nLa calidad de la producción es la sorpresa. Los trajes están bordados con cuentas a mano y son genuinamente extravagantes, el equipo de iluminación se usa adecuadamente, y la coreografía es precisa en lugar de casual. Los números se suceden lo bastante rápido para que la hora termine antes de darse cuenta, y el elenco interactúa con el público durante todo el espectáculo, así que las primeras filas deberían esperar estar involucradas.\n\nSu entrada incluye un asiento reservado en el teatro con aire acondicionado. Los artistas salen después al vestíbulo para fotos, una tradición de las noches de Krabi y una bonita forma de terminar la velada antes de volver a la calle principal de Ao Nang para cenar o tomar algo.",
+  "highlights": [
+   "El primer y más conocido teatro de cabaret de Krabi",
+   "Trajes bordados con cuentas a mano y cambios de vestuario rapidísimos",
+   "Asiento reservado en un auditorio con aire acondicionado",
+   "Números coreografiados de éxitos tailandeses, occidentales y K-pop",
+   "Oportunidades de fotos con el elenco tras el espectáculo"
+  ],
+  "included": [
+   "Entrada con asiento reservado para el espectáculo",
+   "Asiento en un teatro con aire acondicionado",
+   "Aproximadamente una hora de actuación en directo",
+   "Acceso a la sesión de fotos tras el espectáculo"
+  ],
+  "notIncluded": [
+   "Traslados de hotel",
+   "Comida y bebidas",
+   "Propinas para los artistas",
+   "Impresiones fotográficas profesionales"
+  ]
+ },
+ "ao-nang-beach-guided-tour": {
+  "title": "Salto de islas en longtail desde Ao Nang con parada en la isla de Hong",
+  "metaTitle": "Ao Nang: salto de islas en longtail, parada isla de Hong",
+  "metaDescription": "Suba a un barco longtail tradicional desde Ao Nang para hacer snorkel en la isla de Daeng, relajarse en las playas de la isla de Hong, navegar por la laguna y subir a un mirador panorámico.",
+  "shortDescription": "Suba a un barco longtail tradicional desde Ao Nang para hacer snorkel en la isla de Daeng, relajarse en las playas de la isla de Hong, navegar por la laguna y subir a un mirador panorámico.",
+  "fullDescription": "Existe un placer particular en saltar de isla en isla en barco longtail en lugar de lancha rápida. El casco de madera va bajo, el motor resopla en lugar de rugir, y las torres kársticas se deslizan lo bastante despacio para que realmente las mire. Esta ruta de medio día desde Ao Nang cubre lo mejor del archipiélago de Hong sin las prisas.\n\nLa primera parada es la isla de Daeng, donde el arrecife se acerca a la superficie y el snorkel es fiablemente bueno: cabezas de coral duro, pez sargento, peces loro y, si la visibilidad coopera, pequeños tiburones de arrecife en aguas más profundas. Desde allí el barco continúa hasta la isla de Hong, cuya playa es una de las más blancas de la provincia y cuya laguna interior se alcanza por una abertura en el acantilado que solo se abre al acercarse.\n\nUna corta subida le lleva al mirador de Hong, donde todo el archipiélago se despliega abajo y la fotografía clásica de Krabi se toma casi sola. El equipo de snorkel, el guía y los refrescos forman parte de la excursión, y el ritmo se mantiene firmemente en el lado relajado.",
+  "highlights": [
+   "Barco longtail tradicional en lugar de una lancha rápida abarrotada",
+   "Snorkel en los jardines de coral de la isla de Daeng",
+   "Relájese en la playa de arena blanca de la isla de Hong",
+   "Navegue hacia la laguna resguardada de Hong",
+   "Suba al mirador panorámico de la isla de Hong"
+  ],
+  "included": [
+   "Barco longtail con capitán",
+   "Guía de habla inglesa",
+   "Máscara de snorkel y chaleco salvavidas",
+   "Fruta fresca y agua potable",
+   "Recogida en el hotel en la zona de Ao Nang",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada al parque nacional",
+   "Almuerzo",
+   "Toalla",
+   "Bebidas alcohólicas",
+   "Propinas para el guía y la tripulación"
+  ]
+ },
+ "ao-nang-venues-guided-tour": {
+  "title": "Ruta de bares de Ao Nang: cinco locales, chupitos gratis y final en discoteca",
+  "metaTitle": "Ao Nang: ruta de bares, chupitos gratis, discoteca",
+  "metaDescription": "Visite los mejores bares de Ao Nang con un anfitrión local, chupitos de bienvenida en cada parada, juegos de bebida, una camiseta de la ruta y entrada sin colas a la discoteca final.",
+  "shortDescription": "Visite los mejores bares de Ao Nang con un anfitrión local, chupitos de bienvenida en cada parada, juegos de bebida, una camiseta de la ruta y entrada sin colas a la discoteca final.",
+  "fullDescription": "La vida nocturna de Ao Nang se extiende por bares frente a la playa, locales de reggae en las calles traseras y una o dos discotecas propiamente dichas, y averiguar cuáles merecen la velada requiere más noches de las que tienen la mayoría de los viajeros. Nuestros anfitriones hacen esa selección por usted y convierten toda la ruta en una velada larga, ruidosa y extremadamente sociable.\n\nComienza con una reunión de grupo, una camiseta y la primera bebida, y después se mueve entre los locales como grupo. Cada parada incluye un chupito de bienvenida y un juego diseñado para romper rápidamente los grupitos, así que los viajeros solitarios dejan de estarlo hacia el segundo bar. Los anfitriones conocen a los camareros, lo que significa un servicio más rápido y, en ocasiones, una ronda que el grupo no pagó.\n\nLa noche termina en una de las mejores discotecas de Ao Nang, con entrada incluida y sin colas. Si se va a medianoche o se queda hasta que se encienden las luces es decisión suya por completo. Traiga identificación, algo de efectivo para las bebidas que compre usted mismo, y espere hacer amigos.",
+  "highlights": [
+   "Visite varios de los bares más conocidos de Ao Nang en una noche",
+   "Chupito de bienvenida incluido en cada local",
+   "Camiseta de la ruta y juegos de bebida con el grupo",
+   "Entrada sin colas a la discoteca de cierre",
+   "Forma fácil para viajeros solitarios de conocer gente"
+  ],
+  "included": [
+   "Anfitrión de fiesta local para la noche",
+   "Chupito de bienvenida en cada local",
+   "Camiseta de la ruta",
+   "Entrada a la discoteca final",
+   "Juegos de bebida y actividades de grupo",
+   "Primera bebida de bienvenida"
+  ],
+  "notIncluded": [
+   "Bebidas y comida adicionales",
+   "Transporte hacia y desde el punto de encuentro",
+   "Taxi de madrugada de regreso",
+   "Propinas"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

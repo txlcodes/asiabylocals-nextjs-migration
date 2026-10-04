@@ -44408,6 +44408,89 @@ export const FR_TOURS: Record<string, TourT> = {
    "Surclassement spa"
   ]
  },
+ "ao-nang-evening-tour": {
+  "title": "Cabaret Blue Dragon à Ao Nang : billet d'entrée au spectacle du soir",
+  "metaTitle": "Ao Nang : cabaret Blue Dragon, spectacle du soir",
+  "metaDescription": "Place réservée pour le cabaret d'origine de Krabi au Blue Dragon d'Ao Nang, une heure de paillettes, de spectacle en playback et de performance scénique à plein régime.",
+  "shortDescription": "Place réservée pour le cabaret d'origine de Krabi au Blue Dragon d'Ao Nang, une heure de paillettes, de spectacle en playback et de performance scénique à plein régime.",
+  "fullDescription": "Le Blue Dragon a été le premier théâtre de cabaret à ouvrir à Krabi et reste encore la référence. Le format est le cabaret thaïlandais dans sa forme classique : une troupe d'artistes transgenres, des changements de costumes élaborés et une succession de numéros qui passe de Bollywood au K-pop en passant par les power ballades, tout cela livré avec une assurance qui porte la salle.\n\nLa qualité de la production est la surprise. Les costumes sont brodés de perles à la main et réellement extravagants, l'installation lumineuse est utilisée correctement, et la chorégraphie est précise plutôt que décontractée. Les numéros s'enchaînent assez rapidement pour que l'heure soit terminée avant qu'on ne s'en rende compte, et la troupe joue avec le public tout au long du spectacle, donc les premiers rangs doivent s'attendre à être impliqués.\n\nVotre billet couvre une place réservée dans le théâtre climatisé. Les artistes sortent ensuite dans le hall pour des photos, une tradition des soirées de Krabi et une belle façon de terminer la soirée avant de retourner sur la rue principale d'Ao Nang pour dîner ou prendre un verre.",
+  "highlights": [
+   "Le premier et le plus connu théâtre de cabaret de Krabi",
+   "Costumes brodés de perles à la main et changements rapides",
+   "Place réservée dans un auditorium climatisé",
+   "Numéros chorégraphiés issus de tubes thaïlandais, occidentaux et K-pop",
+   "Occasions de photos avec la troupe après le spectacle"
+  ],
+  "included": [
+   "Billet d'entrée avec place réservée pour le spectacle",
+   "Siège dans un théâtre climatisé",
+   "Environ une heure de spectacle en direct",
+   "Accès à la séance photo après le spectacle"
+  ],
+  "notIncluded": [
+   "Transferts d'hôtel",
+   "Nourriture et boissons",
+   "Pourboires pour les artistes",
+   "Tirages photo professionnels"
+  ]
+ },
+ "ao-nang-beach-guided-tour": {
+  "title": "Excursion entre les îles en bateau à longue queue depuis Ao Nang avec arrêt à l'île de Hong",
+  "metaTitle": "Ao Nang : îles en longtail, arrêt île de Hong",
+  "metaDescription": "Montez à bord d'un bateau à longue queue traditionnel depuis Ao Nang pour faire de la plongée avec tuba à l'île de Daeng, vous détendre sur les plages de l'île de Hong, naviguer dans le lagon et grimper jusqu'à un point de vue panoramique.",
+  "shortDescription": "Montez à bord d'un bateau à longue queue traditionnel depuis Ao Nang pour faire de la plongée avec tuba à l'île de Daeng, vous détendre sur les plages de l'île de Hong, naviguer dans le lagon et grimper jusqu'à un point de vue panoramique.",
+  "fullDescription": "Il y a un plaisir particulier à sauter d'île en île en bateau à longue queue plutôt qu'en hors-bord. La coque en bois se trouve bas, le moteur ronronne plutôt que de rugir, et les pitons karstiques défilent assez lentement pour qu'on puisse réellement les observer. Ce circuit d'une demi-journée au départ d'Ao Nang couvre le meilleur de l'archipel de Hong sans la précipitation.\n\nLe premier arrêt est l'île de Daeng, où le récif se rapproche de la surface et où la plongée avec tuba est fiablement bonne : des massifs de corail dur, des demoiselles rayées, des poissons-perroquets et, si la visibilité coopère, de petits requins de récif dans les eaux plus profondes. De là, le bateau continue vers l'île de Hong, dont la plage est l'une des plus blanches de la province et dont le lagon intérieur est accessible par une ouverture dans la falaise qui ne s'ouvre qu'à l'approche.\n\nUne courte montée vous mène au point de vue de Hong, où tout l'archipel se déploie en dessous et où la photo classique de Krabi se prend d'elle-même. L'équipement de plongée avec tuba, le guide et les rafraîchissements font tous partie de l'excursion, et le rythme reste fermement du côté détendu.",
+  "highlights": [
+   "Bateau à longue queue traditionnel plutôt qu'un hors-bord bondé",
+   "Plongée avec tuba dans les jardins de corail de l'île de Daeng",
+   "Détente sur la plage de sable blanc de l'île de Hong",
+   "Navigation dans le lagon abrité de Hong",
+   "Montée jusqu'au point de vue panoramique de l'île de Hong"
+  ],
+  "included": [
+   "Bateau à longue queue avec capitaine",
+   "Guide anglophone",
+   "Masque de plongée avec tuba et gilet de sauvetage",
+   "Fruits frais et eau potable",
+   "Prise en charge à l'hôtel dans la zone d'Ao Nang",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Frais d'entrée du parc national",
+   "Déjeuner",
+   "Serviette",
+   "Boissons alcoolisées",
+   "Pourboires pour le guide et l'équipage"
+  ]
+ },
+ "ao-nang-venues-guided-tour": {
+  "title": "Tournée des bars d'Ao Nang : cinq établissements, shots gratuits et finale en boîte de nuit",
+  "metaTitle": "Ao Nang : tournée des bars, shots gratuits, boîte de nuit",
+  "metaDescription": "Découvrez les meilleurs bars d'Ao Nang avec un hôte local, shots de bienvenue à chaque arrêt, jeux à boire, t-shirt de la tournée et entrée prioritaire à la boîte de nuit finale.",
+  "shortDescription": "Découvrez les meilleurs bars d'Ao Nang avec un hôte local, shots de bienvenue à chaque arrêt, jeux à boire, t-shirt de la tournée et entrée prioritaire à la boîte de nuit finale.",
+  "fullDescription": "La vie nocturne d'Ao Nang se répartit entre des bars en bord de plage, des bars reggae dans les rues adjacentes et une ou deux véritables boîtes de nuit, et déterminer lesquels valent votre soirée demande plus de nuits que la plupart des voyageurs n'en ont. Nos hôtes font ce tri pour vous et transforment tout le parcours en une longue, bruyante et extrêmement sociable soirée.\n\nVous commencez par un rassemblement de groupe, un t-shirt et le premier verre, puis vous vous déplacez entre les établissements en groupe. Chaque arrêt comprend un shot de bienvenue et un jeu conçu pour briser rapidement les cliques, donc les voyageurs solo cessent d'être solo vers le deuxième bar. Les hôtes connaissent les barmen, ce qui signifie un service plus rapide et parfois une tournée que le groupe n'a pas eu à payer.\n\nLa soirée se termine dans l'une des meilleures boîtes de nuit d'Ao Nang, avec entrée comprise et sans file d'attente. Que vous partiez à minuit ou que vous restiez jusqu'à ce que les lumières se rallument est entièrement votre choix. Apportez une pièce d'identité, un peu d'espèces pour les boissons que vous achetez vous-même, et attendez-vous à vous faire des amis.",
+  "highlights": [
+   "Visitez plusieurs des bars les plus connus d'Ao Nang en une seule nuit",
+   "Shot de bienvenue compris à chaque établissement",
+   "T-shirt de la tournée et jeux à boire avec le groupe",
+   "Entrée prioritaire à la boîte de nuit de fin de soirée",
+   "Façon simple pour les voyageurs solo de rencontrer des gens"
+  ],
+  "included": [
+   "Hôte de soirée local pour la nuit",
+   "Shot de bienvenue à chaque établissement",
+   "T-shirt de la tournée",
+   "Entrée à la boîte de nuit finale",
+   "Jeux à boire et activités de groupe",
+   "Premier verre de bienvenue"
+  ],
+  "notIncluded": [
+   "Boissons et nourriture supplémentaires",
+   "Transport vers et depuis le point de rendez-vous",
+   "Taxi de nuit pour le retour",
+   "Pourboires"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

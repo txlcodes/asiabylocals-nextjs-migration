@@ -44407,6 +44407,89 @@ export const DE_TOURS: Record<string, TourT> = {
    "Spa-Upgrade"
   ]
  },
+ "ao-nang-evening-tour": {
+  "title": "Blue-Dragon-Cabaret Ao Nang: Eintrittskarte für die Abendshow",
+  "metaTitle": "Ao Nang: Blue-Dragon-Cabaret, Abendshow",
+  "metaDescription": "Reservierter Sitzplatz für Krabis ursprüngliches Cabaret im Blue Dragon in Ao Nang, eine Stunde voller Pailletten, Lippensynchron-Spektakel und Bühnenperformance in voller Fahrt.",
+  "shortDescription": "Reservierter Sitzplatz für Krabis ursprüngliches Cabaret im Blue Dragon in Ao Nang, eine Stunde voller Pailletten, Lippensynchron-Spektakel und Bühnenperformance in voller Fahrt.",
+  "fullDescription": "Blue Dragon war das erste Cabaret-Theater, das in Krabi eröffnete, und setzt bis heute den Standard. Das Format ist thailändisches Cabaret in seiner klassischen Form: eine Besetzung aus Transgender-Darstellern, aufwendige Kostümwechsel und eine Reihe von Nummern, die von Bollywood über K-Pop bis zu Powerballaden reicht, alles mit einer Selbstsicherheit vorgetragen, die den Raum trägt.\n\nDie Produktionswerte sind die Überraschung. Die Kostüme sind handbestickt und wirklich extravagant, die Lichttechnik wird richtig genutzt, und die Choreografie ist präzise statt beiläufig. Die Nummern wechseln schnell genug, dass die Stunde vorbei ist, bevor man es merkt, und die Besetzung spielt durchgehend mit dem Publikum, sodass die vorderen Reihen damit rechnen sollten, einbezogen zu werden.\n\nIhr Ticket umfasst einen reservierten Sitzplatz im klimatisierten Theater. Die Darsteller kommen anschließend für Fotos in die Lobby, eine Krabi-Abendtradition und eine schöne Art, den Abend zu beenden, bevor es zurück auf Ao Nangs Hauptmeile für Abendessen oder einen Drink geht.",
+  "highlights": [
+   "Krabis erstes und bekanntestes Cabaret-Theater",
+   "Handbestickte Kostüme und blitzschnelle Kostümwechsel",
+   "Reservierter Sitzplatz in einem klimatisierten Auditorium",
+   "Choreografierte Nummern aus thailändischen, westlichen und K-Pop-Hits",
+   "Fotogelegenheiten mit der Besetzung nach der Show"
+  ],
+  "included": [
+   "Eintrittskarte mit reserviertem Sitzplatz für die Show",
+   "Sitzplatz im klimatisierten Theater",
+   "Etwa eine Stunde Live-Performance",
+   "Zugang zur Fotosession nach der Show"
+  ],
+  "notIncluded": [
+   "Hoteltransfers",
+   "Speisen und Getränke",
+   "Trinkgelder für die Darsteller",
+   "Professionelle Fotoabzüge"
+  ]
+ },
+ "ao-nang-beach-guided-tour": {
+  "title": "Longtail-Inselhopping ab Ao Nang mit Stopp an der Insel Hong",
+  "metaTitle": "Ao Nang: Inselhopping per Longtail, Stopp Insel Hong",
+  "metaDescription": "Fahren Sie mit einem traditionellen Longtail-Boot ab Ao Nang, um bei der Insel Daeng zu schnorcheln, an den Stränden der Insel Hong zu entspannen, die Lagune zu durchkreuzen und zu einem Panorama-Aussichtspunkt hinaufzusteigen.",
+  "shortDescription": "Fahren Sie mit einem traditionellen Longtail-Boot ab Ao Nang, um bei der Insel Daeng zu schnorcheln, an den Stränden der Insel Hong zu entspannen, die Lagune zu durchkreuzen und zu einem Panorama-Aussichtspunkt hinaufzusteigen.",
+  "fullDescription": "Es gibt ein besonderes Vergnügen beim Inselhopping per Longtail-Boot statt per Speedboot. Der Holzrumpf liegt tief, der Motor tuckert statt zu dröhnen, und die Karsttürme gleiten langsam genug vorbei, dass man sie tatsächlich betrachtet. Diese Halbtagesroute ab Ao Nang deckt das Beste des Hong-Archipels ohne Hetze ab.\n\nDer erste Stopp ist die Insel Daeng, wo das Riff nah an die Oberfläche kommt und das Schnorcheln verlässlich gut ist: harte Korallenstöcke, Soldatenfische, Papageienfische und, wenn die Sicht mitspielt, kleine Riffhaie im tieferen Wasser. Von dort fährt das Boot weiter zur Insel Hong, deren Strand einer der weißesten der Provinz ist und deren Binnenlagune durch eine Klippenlücke erreicht wird, die sich erst beim Herannahen öffnet.\n\nEin kurzer Aufstieg bringt Sie zum Hong-Aussichtspunkt, wo sich der gesamte Archipel darunter entfaltet und das klassische Krabi-Foto sich quasi von selbst macht. Schnorchelausrüstung, Guide und Erfrischungen sind alle Teil des Ausflugs, und das Tempo bleibt fest auf der entspannten Seite.",
+  "highlights": [
+   "Traditionelles Longtail-Boot statt eines überfüllten Speedboots",
+   "Schnorcheln in den Korallengärten der Insel Daeng",
+   "Entspannen am weißen Sandstrand der Insel Hong",
+   "Fahrt in die geschützte Hong-Lagune",
+   "Aufstieg zum panoramischen Hong-Insel-Aussichtspunkt"
+  ],
+  "included": [
+   "Longtail-Boot mit Kapitän",
+   "Englischsprachiger Guide",
+   "Schnorchelmaske und Schwimmweste",
+   "Frisches Obst und Trinkwasser",
+   "Hotelabholung im Gebiet Ao Nang",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittsgebühr",
+   "Mittagessen",
+   "Handtuch",
+   "Alkoholische Getränke",
+   "Trinkgelder für Guide und Crew"
+  ]
+ },
+ "ao-nang-venues-guided-tour": {
+  "title": "Ao-Nang-Kneipentour: fünf Lokale, kostenlose Shots und Club-Finale",
+  "metaTitle": "Ao Nang: Kneipentour, kostenlose Shots, Club",
+  "metaDescription": "Besuchen Sie Ao Nangs beste Bars mit einem lokalen Gastgeber, Willkommens-Shots an jedem Stopp, Trinkspiele, ein Kneipentour-T-Shirt und Eintritt ohne Anstehen in den abschließenden Club.",
+  "shortDescription": "Besuchen Sie Ao Nangs beste Bars mit einem lokalen Gastgeber, Willkommens-Shots an jedem Stopp, Trinkspiele, ein Kneipentour-T-Shirt und Eintritt ohne Anstehen in den abschließenden Club.",
+  "fullDescription": "Ao Nangs Nachtleben verteilt sich auf Strandbars, Reggae-Lokale in den Seitenstraßen und ein oder zwei richtige Clubs, und herauszufinden, welche einen Abend wert sind, braucht mehr Nächte, als die meisten Reisenden haben. Unsere Gastgeber übernehmen diese Auswahl für Sie und verwandeln die gesamte Route in einen einzigen langen, lauten, äußerst geselligen Abend.\n\nSie beginnen mit einem Gruppentreffen, einem T-Shirt und dem ersten Drink, bewegen sich dann als Gruppe zwischen den Lokalen. Jeder Stopp bringt einen Willkommens-Shot und ein Spiel mit, das darauf ausgelegt ist, Cliquen schnell aufzubrechen, sodass Alleinreisende etwa an der zweiten Bar nicht mehr allein sind. Die Gastgeber kennen die Barkeeper, was schnelleren Service und gelegentlich eine Runde bedeutet, für die die Gruppe nicht bezahlt hat.\n\nDer Abend landet in einem der besten Clubs von Ao Nang, mit Eintritt inklusive und ohne Anstehen. Ob Sie um Mitternacht gehen oder bleiben, bis die Lichter angehen, ist ganz Ihre Entscheidung. Bringen Sie einen Ausweis mit, etwas Bargeld für Getränke, die Sie selbst kaufen, und erwarten Sie, Freunde zu finden.",
+  "highlights": [
+   "Besuchen Sie mehrere der bekanntesten Bars von Ao Nang an einem Abend",
+   "Willkommens-Shot in jedem Lokal inklusive",
+   "Kneipentour-T-Shirt und Trinkspiele mit der Gruppe",
+   "Eintritt ohne Anstehen in den abschließenden Nachtclub",
+   "Einfacher Weg für Alleinreisende, Leute zu treffen"
+  ],
+  "included": [
+   "Lokaler Party-Gastgeber für den Abend",
+   "Willkommens-Shot in jedem Lokal",
+   "Kneipentour-T-Shirt",
+   "Eintritt in den abschließenden Nachtclub",
+   "Trinkspiele und Gruppenaktivitäten",
+   "Erster Willkommensdrink"
+  ],
+  "notIncluded": [
+   "Zusätzliche Getränke und Speisen",
+   "Transport zum und vom Treffpunkt",
+   "Spätnacht-Taxi nach Hause",
+   "Trinkgelder"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
