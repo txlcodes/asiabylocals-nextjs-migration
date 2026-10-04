@@ -45369,6 +45369,81 @@ export const DE_TOURS: Record<string, TourT> = {
    "Hotelabholung (nur bei der Option Hoteltransfer inklusive)"
   ]
  },
+ "wat-chedi-luang-walking-tour": {
+  "title": "Chiang Mai: 3-stündige geführte Wandertour durch die Altstadt und Tempel",
+  "metaTitle": "Chiang Mai: Altstadt und Tempel zu Fuß",
+  "metaDescription": "Durchqueren Sie die Altstadtmauern von Chiang Mai zu drei ihrer berühmtesten Tempel mit einem kenntnisreichen lokalen Guide an Ihrer Seite.",
+  "shortDescription": "Durchqueren Sie die Altstadtmauern von Chiang Mai zu drei ihrer berühmtesten Tempel mit einem kenntnisreichen lokalen Guide an Ihrer Seite.",
+  "fullDescription": "Treten Sie hinter den Burggraben und die Backsteinwälle der Altstadt von Chiang Mai und lassen Sie sich von einem lokalen Guide in nur wenigen entspannten Stunden durch Jahrhunderte der Lanna-Geschichte führen. Die Route beginnt bei Wat Chedi Luang, Heimat eines massiven, verwitterten Chedi, der einst den verehrten Smaragd-Buddha beherbergte und noch immer die Skyline des alten Viertels dominiert. Ihr Guide erklärt das Erdbeben, das seine Spitze zum Einsturz brachte, die Rolle des Tempels bei königlichen Zeremonien und die ruhigen Details, die man beim Alleinwandern leicht übersieht.\n\nVon dort führt ein kurzer Spaziergang zu Wat Phan Tao, einem ruhigen Tiekholz-Tempel, der aus einer ehemaligen königlichen Palasthalle gebaut wurde. Seine dunklen Holzwände und goldenen Schablonenmuster bieten einen auffälligen Kontrast zur steinernen Pracht nebenan, und es ist oft einer der am meisten fotografierten, am wenigsten überfüllten Stopps der Stadt.\n\nDer Spaziergang führt weiter zu Wat Phra Singh, dem meistverehrten Tempel in Chiang Mai und einem Schaufenster klassischer Lanna-Architektur, von seinen geschwungenen mehrstufigen Dächern bis zu den Wandmalereien im Wihan Lai Kham, die das alltägliche Lanna-Leben darstellen. Dabei verbindet Ihr Guide die Tempel mit der Gründung der Stadt, ihren buddhistischen Traditionen und den Bräuchen, die heute noch auf diesem Gelände praktiziert werden, und verwandelt drei Fotostopps in eine zusammenhängende Geschichte der Vergangenheit von Chiang Mai.",
+  "highlights": [
+   "Besuchen Sie zu Fuß drei der bekanntesten Tempel Chiang Mais",
+   "Lernen Sie Lanna-Geschichte und Legenden von einem lokalen Guide",
+   "Sehen Sie den ruinierten Mega-Chedi bei Wat Chedi Luang aus der Nähe",
+   "Entdecken Sie den Tiekholz-Charme von Wat Phan Tao",
+   "Erkunden Sie Wat Phra Singh, den meistverehrten Tempel der Stadt"
+  ],
+  "included": [
+   "Englischsprachiger lokaler Guide",
+   "Geführte Besuche bei Wat Chedi Luang, Wat Phan Tao und Wat Phra Singh"
+  ],
+  "notIncluded": [
+   "Hotelabholung und -rückfahrt (dies ist eine Wandertour; Treffpunkt direkt vor Ort)",
+   "Tempeleintrittsspenden, falls erbeten",
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "doi-inthanon-national-park-guided-tour": {
+  "title": "Chiang Mai: Reisterrassen von Pa Bong Piang und Doi Inthanon",
+  "metaTitle": "Pa Bong Piang und Doi Inthanon",
+  "metaDescription": "Wandern Sie über die Postkartenansichten hinaus zu den terrassierten Hügeln von Pa Bong Piang, besteigen Sie dann Doi Inthanon für königliche Pagoden, Nebelwald und einen donnernden Wasserfall, alles an einem vollen Tag ab Chiang Mai.",
+  "shortDescription": "Wandern Sie über die Postkartenansichten hinaus zu den terrassierten Hügeln von Pa Bong Piang, besteigen Sie dann Doi Inthanon für königliche Pagoden, Nebelwald und einen donnernden Wasserfall, alles an einem vollen Tag ab Chiang Mai.",
+  "fullDescription": "Die auffälligste Landschaft Nordthailands ist kein Tempel oder Strand, es ist ein Hügel, der von Generationen von Bauern des Karen-Bergvolkes in hunderte sich schlängelnde grüne Stufen geschnitzt wurde. Diese ganztägige Reise ab Chiang Mai führt Sie tief in die Berge, um die Reisterrassen von Pa Bong Piang aus der Nähe zu sehen, ihre smaragdgrünen oder goldenen Töne, die sich mit der Jahreszeit ändern, in einem Muster um die Hänge gewickelt, das von oben fast handgemalt aussieht.\n\nVon dort steigt die Route zum Doi Inthanon an, Thailands höchstem Gipfel, wo kühlere Luft und dichterer Wald fast sofort die Hitze des Tals ersetzen. Im Gipfelbereich besuchen Sie die zwei königlichen Zwillingspagoden, Phra Mahathat Naphapholphumisiri und Naphamethanidon, erbaut zu Ehren des Königs und der Königin und umrahmt von gepflegten Gärten mit weitläufigen Bergblicken an klaren Tagen.\n\nEin Spaziergang entlang des Ang-Ka-Naturpfades folgt, ein Holzsteg durch nebligen Nebelwald, dicht mit Moos, Farnen und Vogelwelt, die nirgendwo sonst im Land zu finden ist. Der Tag geht weiter hinunter nach Mae Klang Luang, einem ruhigen Karen-Dorf, eingebettet zwischen weiteren Reisterrassen, bevor er am Wasserfall Wachirathan endet, einer der kraftvollsten Kaskaden von Doi Inthanon, wo kühle Gischt und Waldgeräusche einen erfrischenden letzten Stopp vor der Rückfahrt nach Chiang Mai bieten.\n\nZwischen den Terrassen, den Pagoden, dem Nebelwald und dem Wasserfall packt diese Tour eine überdurchschnittliche Bandbreite der natürlichen Schönheit Nordthailands in einen einzigen, gut getakteten Tag.",
+  "highlights": [
+   "Sehen Sie die ikonischen Reisterrassen von Pa Bong Piang aus der Nähe",
+   "Besuchen Sie die zwei königlichen Zwillingspagoden auf dem Doi Inthanon",
+   "Wandern Sie den nebligen Ang-Ka-Nebelwald-Holzsteg-Pfad",
+   "Erkunden Sie Mae Klang Luang, ein traditionelles Karen-Dorf",
+   "Kühlen Sie sich am kraftvollen Wasserfall Wachirathan ab"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Hin- und Rücktransport ab Chiang Mai",
+   "Mittagessen",
+   "Alle Parkeintrittsgebühren",
+   "Spaziergang auf dem Ang-Ka-Naturpfad"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben",
+   "Getränke und Snacks über das Mittagessen hinaus",
+   "Ausländer-Eintrittsgebühr für den Nationalpark Doi Inthanon, falls am Tag separat von den Parkbehörden berechnet"
+  ]
+ },
+ "chiangmai-boxing-stadium-entry-ticket": {
+  "title": "Chiang Mai: Ticket für die Boxstadien von Chiang Mai",
+  "metaTitle": "Chiang Mai: Ticket für Muay Thai",
+  "metaDescription": "Spüren Sie das Brüllen der Menge bei einem Live-Muay-Thai-Kampfabend in Chiang Mai, wählen Sie Ihren Platz, von den jubelnden Tribünen bis zum Rundum-VIP.",
+  "shortDescription": "Spüren Sie das Brüllen der Menge bei einem Live-Muay-Thai-Kampfabend in Chiang Mai, wählen Sie Ihren Platz, von den jubelnden Tribünen bis zum Rundum-VIP.",
+  "fullDescription": "Tauchen Sie ein in einen der elektrisierendsten Abende Chiang Mais in einem Live-Muay-Thai-Boxstadion, wo sich die alte Kunst der acht Gliedmaßen unter grellen Lichtern und tobenden Massen entfaltet. Der Abend beginnt mit dem Wai Kru Ram Muay, einem hypnotischen Vorkampf-Ritual, bei dem jeder Kämpfer durch langsame, bewusste Bewegungen seinen Trainern und Vorfahren Respekt erweist, ein ruhiger, fast meditativer Moment vor dem Sturm.\n\nSobald die Handschuhe an sind, setzt die Sarama-Band ein, ihre wehklagenden Pfeifen und treibenden Trommeln steigen und fallen mit jedem Schlag und bauen Runde für Runde Spannung auf. Kämpfer tauschen Knie-, Ellbogenstöße und Clinches mit einer Fähigkeit und Intensität aus, die thailändisches Boxen weltweit legendär gemacht hat, während die Menge in Jubel, Stöhnen und gutmütigem Wettgeplänkel rund um den Ring ausbricht.\n\nOb Sie von den allgemeinen Tribünen aus zuschauen, ringseitig nahe genug sitzen, um den Einschlag zu fühlen, oder sich im VIP-Bereich mit einem Drink in der Hand entspannen, ein Abend im Boxstadion von Chiang Mai ist ein rohes, authentisches Stück thailändischer Kultur, das Sie in keinem Lehrbuch finden. Es ist laut, es ist schnell, und es ist unverkennbar Chiang Mai nach Einbruch der Dunkelheit.",
+  "highlights": [
+   "Tribünenplätze ab 21 $ in den lebhaften jubelnden Ständen",
+   "Ringseitige Plätze ab 35 $ mit einem kostenlosen Getränk inklusive",
+   "VIP-Erlebnis ab 53 $ mit unbegrenzten Getränken und Snacks",
+   "Sehen Sie die traditionelle Wai-Kru-Ram-Muay-Vorkampfzeremonie",
+   "Live-Sarama-Musik und elektrische Menschenmengenenergie die ganze Nacht"
+  ],
+  "included": [
+   "Eintrittskarte für die ausgewählte Stufe (Tribüne, Ringseite oder VIP)",
+   "VIP: unbegrenzte Getränke und Snacks den ganzen Abend",
+   "Ringseite: ein kostenloser Getränkegutschein"
+  ],
+  "notIncluded": [
+   "Transport zum und vom Stadion",
+   "Essen (sofern nicht VIP-Stufe gewählt)",
+   "Trinkgelder für das Personal"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
