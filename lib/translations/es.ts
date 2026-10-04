@@ -43650,6 +43650,75 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cargo adicional de traslado de 500 THB por coche para Klong Muang y Tubkaek"
   ]
  },
+ "khao-sok-cheow-lan-lake-day-trip-in-krabi": {
+  "title": "Excursión de un día a Khao Sok y al lago Cheow Lan desde Krabi",
+  "metaTitle": "Khao Sok y lago Cheow Lan desde Krabi",
+  "metaDescription": "Excursión de día completo en Krabi, con la presa de Rajjaprabha, el parque nacional de Khao Sok y el lago Cheow Lan. Organizada por Oh-Hoo, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de día completo en Krabi, con la presa de Rajjaprabha, el parque nacional de Khao Sok y el lago Cheow Lan. Organizada por Oh-Hoo, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Un día largo desde Krabi hacia la selva tropical más antigua del mundo, y hasta un lago que no existía hace cincuenta años.\n\nEl parque nacional de Khao Sok protege un bosque estimado en unos 160 millones de años, lo que lo hace considerablemente más antiguo que el Amazonas. Sobrevivió a las eras glaciales que remodelaron la mayoría de los demás bosques tropicales, y el resultado es una densidad de especies vegetales y un paisaje de torres calizas que emergen directamente del dosel forestal.\n\nEl lago Cheow Lan es la parte artificial. La presa de Rajjaprabha inundó el valle en 1987, sumergiendo el suelo del bosque y dejando los picos kársticos en pie como islas. Por eso el paisaje tiene este aspecto: caliza vertical que se eleva de aguas esmeralda planas, con troncos de árboles sumergidos todavía visibles cerca de las zonas poco profundas. Barcos longtail circulan entre los picos, y la escala solo se percibe una vez que está debajo de ellos.\n\nEl trayecto desde Krabi dura aproximadamente dos horas y media en cada dirección, lo que explica en gran parte por qué este día dura diez horas. Los avistamientos de fauna son cuestión de suerte: los gibones se oyen más a menudo de lo que se ven, los cálaos son comunes a lo largo de la orilla, y los macacos son una certeza cerca de los muelles de los barcos.\n\nEl precio incluye la recogida en el hotel desde la ciudad de Krabi, Ao Nang, Klong Muang y Tub Kaek, una furgoneta con aire acondicionado, agua, café y fruta, almuerzo en un restaurante, y un chaleco salvavidas, un impermeable y una bolsa impermeable. Su plaza queda retenida con el operador antes de que su reserva sea definitiva.\n\nDiez horas, un día de aviso mínimo.",
+  "highlights": [
+   "Selva tropical estimada en 160 millones de años",
+   "Lago Cheow Lan, creado por la presa de Rajjaprabha en 1987",
+   "Picos calizos en pie como islas en agua verde plana",
+   "Barco longtail entre los picos kársticos",
+   "Recogida en el hotel, furgoneta, almuerzo y equipo para la lluvia incluidos"
+  ],
+  "included": [
+   "Recogida en el hotel desde la ciudad de Krabi, Ao Nang, Klong Muang y Tub Kaek",
+   "Transporte en furgoneta con aire acondicionado",
+   "Agua, café y fruta",
+   "Almuerzo en un restaurante",
+   "Chaleco salvavidas, impermeable y bolsa impermeable",
+   "Guía",
+   "Tarifa del parque nacional"
+  ],
+  "notIncluded": []
+ },
+ "atv-ride-and-natural-swimming-experience-in-krabi": {
+  "title": "Paseo en ATV y experiencia de baño natural en Krabi",
+  "metaTitle": "Krabi: ATV y baño natural",
+  "metaDescription": "Excursión en Krabi, con recogida y regreso al hotel y paseo en ATV. Organizada por Krabi tour, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión en Krabi, con recogida y regreso al hotel y paseo en ATV. Organizada por Krabi tour, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Dos horas en los caminos de tierra roja detrás de Ao Nang, terminando en una poza de agua dulce.\n\nLa costa de Krabi recibe toda la atención, pero a pocos kilómetros tierra adentro, el paisaje se convierte en plantaciones de caucho y palma aceitera atravesadas por senderos de arcilla. Allí es donde va este paseo. Tras una charla y un breve circuito de práctica, sigue al guía por senderos de plantación, cruces de agua poco profunda y afloramientos calizos que se elevan directamente de los campos. Los senderos mantienen su forma en la estación seca y se vuelven realmente fangosos a partir de mayo, lo que la mayoría de los participantes considera la mejor parte de la diversión.\n\nEl paseo hace una parada en un lugar de baño natural para quitarse el polvo. El agua del interior de Krabi viene de manantiales y se mantiene fresca incluso en abril, por lo que el baño se programa al final en lugar de al principio.\n\nNo se necesita licencia ni se presupone experiencia; el guía marca el ritmo según el piloto más lento del grupo. Use ropa y calzado que no le importe arruinar, porque no permanecerá limpio.\n\nKrabi tour organiza esto y reservamos directamente con ellos, así que su plaza queda retenida con el operador antes de que la reserva sea definitiva. El precio incluye la recogida y el regreso al hotel, el ATV en sí, un guía, fruta fresca, agua potable y seguro de accidentes.\n\nDos horas incluyendo traslados, recogida en la zona de Ao Nang, un día de aviso mínimo.",
+  "highlights": [
+   "Senderos de plantación y arcilla detrás de Ao Nang",
+   "Parada de baño en agua dulce al final del paseo",
+   "No se necesita licencia ni experiencia",
+   "Recogida y regreso al hotel incluidos",
+   "Fruta, agua, guía y seguro de accidentes"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Paseo en ATV",
+   "Fruta fresca",
+   "Agua potable",
+   "Guía profesional",
+   "Seguro de accidentes"
+  ],
+  "notIncluded": []
+ },
+ "koh-lanta-boxing-stadium-muay-thai-entry-ticket": {
+  "title": "Entrada al estadio de boxeo de Koh Lanta para Muay Thai",
+  "metaTitle": "Koh Lanta: entrada de Muay Thai en el estadio",
+  "metaDescription": "Entrada en Krabi, con un billete de un asiento. Organizada por GlobalTix (Thailand) Co., Ltd., reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Entrada en Krabi, con un billete de un asiento. Organizada por GlobalTix (Thailand) Co., Ltd., reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Un asiento en el estadio de Muay Thai de Koh Lanta, una velada muy diferente a la de las grandes arenas de ciudad.\n\nEl Muay Thai es el deporte nacional de Tailandia y un arte de golpeo de ocho extremidades: puños, codos, rodillas y tibias cuentan todos, lo que lo distingue del boxeo y del kickboxing. Una cartelera recorre varios combates a lo largo de la velada, comenzando con los luchadores más jóvenes y menos experimentados y subiendo hacia los eventos principales, así que llegar temprano significa ver el deporte en su forma más cruda, y llegar tarde significa verlo en su forma más experta.\n\nCada combate comienza con el Wai Khru Ram Muay, una danza ritual lenta en la que el luchador honra a su maestro y a su familia y sella el ring. No es un calentamiento ni está pensado para el público; es anterior por completo a la forma comercial del deporte. La banda en directo toca el sarama, un ritmo de oboe y tambor que se acelera a medida que el combate se intensifica, el detalle que más recuerdan después la mayoría de los espectadores primerizos.\n\nEl estadio de la isla es pequeño. Está lo bastante cerca como para oír el impacto de una tibia contra un antebrazo, el público es una mezcla de locales que apuestan y viajeros que miran, y nadie actúa para un grupo turístico. Los grandes estadios de Bangkok son más pulidos; este es más auténtico.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye un billete de un asiento. La comida, las bebidas y el transporte no están incluidos, así que planifique cómo llegar y volver.\n\nLos horarios varían cada semana en lugar de celebrarse todas las noches, así que la fecha se confirma con el estadio antes de que su reserva sea definitiva. Un día de aviso mínimo.",
+  "highlights": [
+   "El deporte nacional de Tailandia en un pequeño estadio insular",
+   "Ritual Wai Khru Ram Muay antes de cada combate",
+   "Banda de sarama en directo que se acelera con el combate",
+   "Combates preliminares primero, eventos principales más tarde en la noche",
+   "Lo bastante cerca como para oír los golpes"
+  ],
+  "included": [
+   "Billete de un asiento"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

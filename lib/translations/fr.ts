@@ -43650,6 +43650,75 @@ export const FR_TOURS: Record<string, TourT> = {
    "Supplément de transfert de 500 THB par voiture pour Klong Muang et Tubkaek"
   ]
  },
+ "khao-sok-cheow-lan-lake-day-trip-in-krabi": {
+  "title": "Excursion d'une journée à Khao Sok et au lac Cheow Lan depuis Krabi",
+  "metaTitle": "Khao Sok et lac Cheow Lan depuis Krabi",
+  "metaDescription": "Excursion d'une journée complète à Krabi, incluant le barrage de Rajjaprabha, le parc national de Khao Sok et le lac Cheow Lan. Organisée par Oh-Hoo, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une journée complète à Krabi, incluant le barrage de Rajjaprabha, le parc national de Khao Sok et le lac Cheow Lan. Organisée par Oh-Hoo, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Une longue journée au départ de Krabi vers la plus ancienne forêt tropicale du monde, et sur un lac qui n'existait pas il y a cinquante ans.\n\nLe parc national de Khao Sok protège une forêt estimée à environ 160 millions d'années, ce qui la rend considérablement plus ancienne que l'Amazonie. Elle a survécu aux périodes glaciaires qui ont remodelé la plupart des autres forêts tropicales, et il en résulte une densité d'espèces végétales et un paysage de tours calcaires s'élevant directement hors de la canopée.\n\nLe lac Cheow Lan est la partie artificielle. Le barrage de Rajjaprabha a inondé la vallée en 1987, submergeant le sol forestier et laissant les pics karstiques se dresser comme des îles. C'est pourquoi le paysage a cet aspect : du calcaire abrupt émergeant d'une eau émeraude plate, avec des troncs d'arbres noyés encore visibles près des eaux peu profondes. Des bateaux à longue queue circulent entre les pics, et l'échelle ne se révèle vraiment qu'une fois qu'on se trouve en dessous.\n\nLe trajet depuis Krabi dure environ deux heures et demie dans chaque sens, ce qui explique en grande partie pourquoi cette journée dure dix heures. Les observations de faune relèvent de la chance : les gibbons s'entendent plus souvent qu'ils ne se voient, les calaos sont fréquents le long du rivage, et les macaques sont une certitude près des jetées de bateaux.\n\nLe prix comprend la prise en charge à l'hôtel depuis la ville de Krabi, Ao Nang, Klong Muang et Tub Kaek, un van climatisé, de l'eau, du café et des fruits, un déjeuner dans un restaurant, et un gilet de sauvetage, un imperméable et un sac étanche. Votre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive.\n\nDix heures, un jour de préavis minimum.",
+  "highlights": [
+   "Forêt tropicale estimée à 160 millions d'années",
+   "Lac Cheow Lan, créé par le barrage de Rajjaprabha en 1987",
+   "Pics calcaires se dressant comme des îles dans une eau verte plate",
+   "Bateau à longue queue entre les pitons karstiques",
+   "Prise en charge à l'hôtel, van, déjeuner et équipement de pluie compris"
+  ],
+  "included": [
+   "Prise en charge à l'hôtel depuis la ville de Krabi, Ao Nang, Klong Muang et Tub Kaek",
+   "Transport en van climatisé",
+   "Eau, café et fruits",
+   "Déjeuner dans un restaurant",
+   "Gilet de sauvetage, imperméable et sac étanche",
+   "Guide",
+   "Frais de parc national"
+  ],
+  "notIncluded": []
+ },
+ "atv-ride-and-natural-swimming-experience-in-krabi": {
+  "title": "Balade en quad et expérience de baignade naturelle à Krabi",
+  "metaTitle": "Krabi : quad et baignade naturelle",
+  "metaDescription": "Excursion à Krabi, incluant prise en charge et retour à l'hôtel et balade en quad. Organisée par Krabi tour, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion à Krabi, incluant prise en charge et retour à l'hôtel et balade en quad. Organisée par Krabi tour, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Deux heures sur les pistes de terre rouge derrière Ao Nang, se terminant par un bassin d'eau douce.\n\nLe littoral de Krabi attire toute l'attention, mais à quelques kilomètres à l'intérieur des terres, le paysage se transforme en plantations d'hévéas et de palmiers à huile traversées de sentiers d'argile. C'est là que se déroule cette balade. Après un briefing et une courte boucle d'entraînement, vous suivez le guide à travers des pistes de plantation, des traversées d'eau peu profonde et des affleurements calcaires qui s'élèvent directement des champs. Les sentiers conservent leur forme en saison sèche et deviennent réellement boueux à partir de mai, ce qui, pour la plupart des pilotes, constitue la meilleure partie du plaisir.\n\nLa balade fait une pause dans un lieu de baignade naturel pour se rincer de la poussière. L'eau intérieure de Krabi est alimentée par des sources et reste fraîche même en avril, c'est pourquoi la baignade est programmée à la fin plutôt qu'au début.\n\nAucun permis n'est nécessaire et aucune expérience n'est présumée ; le guide adapte le rythme au pilote le plus lent du groupe. Portez des vêtements et des chaussures que vous ne regretterez pas d'abîmer, car vous ne resterez pas propre.\n\nKrabi tour organise cette activité et nous réservons directement avec eux, votre place est donc retenue auprès de l'opérateur avant que la réservation ne soit définitive. Le prix comprend la prise en charge et le retour à l'hôtel, le quad lui-même, un guide, des fruits frais, de l'eau potable et une assurance accident.\n\nDeux heures incluant les transferts, prise en charge dans la zone d'Ao Nang, un jour de préavis minimum.",
+  "highlights": [
+   "Sentiers de plantation et d'argile derrière Ao Nang",
+   "Arrêt baignade en eau douce à la fin de la balade",
+   "Aucun permis ni expérience nécessaire",
+   "Prise en charge et retour à l'hôtel compris",
+   "Fruits, eau, guide et assurance accident"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Balade en quad",
+   "Fruits frais",
+   "Eau potable",
+   "Guide professionnel",
+   "Assurance accident"
+  ],
+  "notIncluded": []
+ },
+ "koh-lanta-boxing-stadium-muay-thai-entry-ticket": {
+  "title": "Billet d'entrée au stade de boxe de Koh Lanta pour le Muay Thai",
+  "metaTitle": "Koh Lanta : billet Muay Thai au stade de boxe",
+  "metaDescription": "Billet d'entrée à Krabi, incluant un billet pour une place. Organisé par GlobalTix (Thailand) Co., Ltd., réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Billet d'entrée à Krabi, incluant un billet pour une place. Organisé par GlobalTix (Thailand) Co., Ltd., réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Une place au stade de Muay Thai de Koh Lanta, une soirée très différente des grandes arènes citadines.\n\nLe Muay Thai est le sport national de la Thaïlande, un art de frappe à huit membres : poings, coudes, genoux et tibias comptent tous, ce qui le distingue de la boxe et du kickboxing. Une carte enchaîne plusieurs combats au cours de la soirée, en commençant par les combattants les plus jeunes et les moins expérimentés et en montant vers les événements principaux, donc arriver tôt signifie voir le sport dans sa forme la plus brute, et arriver tard signifie le voir à son plus haut niveau technique.\n\nChaque combat s'ouvre par le Wai Khru Ram Muay, une danse rituelle lente dans laquelle le combattant rend hommage à son professeur et à sa famille et scelle le ring. Ce n'est pas un échauffement et ce n'est pas destiné au public ; cela précède entièrement la forme commerciale du sport. L'orchestre en direct joue le sarama, un rythme de hautbois et de tambour qui s'accélère à mesure que le combat s'intensifie, ce qui est le détail dont la plupart des spectateurs néophytes se souviennent par la suite.\n\nLe stade insulaire est petit. Vous êtes assez proche pour entendre l'impact d'un tibia sur un avant-bras, le public est un mélange de locaux qui parient et de voyageurs qui regardent, et personne ne joue pour un groupe de touristes. Les grands stades de Bangkok sont plus soignés ; celui-ci est plus authentique.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend un billet pour une place. Nourriture, boissons et transport ne sont pas compris, donc organisez-vous pour vous y rendre et en revenir.\n\nLes horaires varient selon la semaine plutôt que de se tenir chaque soir, donc la date est confirmée avec le stade avant que votre réservation ne soit définitive. Un jour de préavis minimum.",
+  "highlights": [
+   "Le sport national de la Thaïlande dans un petit stade insulaire",
+   "Rituel Wai Khru Ram Muay avant chaque combat",
+   "Orchestre sarama en direct qui s'accélère avec le combat",
+   "Combats préliminaires d'abord, événements principaux plus tard dans la soirée",
+   "Assez proche pour entendre les coups porter"
+  ],
+  "included": [
+   "Billet pour une place"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

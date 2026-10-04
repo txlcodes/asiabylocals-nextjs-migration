@@ -43650,6 +43650,75 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zusätzliche Transfergebühr von 500 THB pro Auto für Klong Muang und Tubkaek"
   ]
  },
+ "khao-sok-cheow-lan-lake-day-trip-in-krabi": {
+  "title": "Tagesausflug zu Khao Sok und dem Cheow-Lan-See von Krabi",
+  "metaTitle": "Khao Sok und Cheow-Lan-See von Krabi",
+  "metaDescription": "Ganztagesausflug in Krabi, mit dem Rajjaprabha-Staudamm, dem Khao-Sok-Nationalpark und dem Cheow-Lan-See. Organisiert von Oh-Hoo, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztagesausflug in Krabi, mit dem Rajjaprabha-Staudamm, dem Khao-Sok-Nationalpark und dem Cheow-Lan-See. Organisiert von Oh-Hoo, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Ein langer Tag ab Krabi in den ältesten Regenwald der Welt, und auf einen See, der vor fünfzig Jahren noch nicht existierte.\n\nDer Khao-Sok-Nationalpark schützt einen Wald, der auf etwa 160 Millionen Jahre geschätzt wird, was ihn erheblich älter macht als den Amazonas. Er überlebte die Eiszeiten, die die meisten anderen Tropenwälder umgestalteten, und das Ergebnis ist eine Dichte an Pflanzenarten und eine Landschaft aus Kalksteintürmen, die direkt aus dem Kronendach aufragen.\n\nDer Cheow-Lan-See ist der künstliche Teil. Der Rajjaprabha-Staudamm überflutete 1987 das Tal, ertränkte den Waldboden und ließ die Karstgipfel als Inseln zurück. Deshalb sieht die Landschaft so aus, wie sie aussieht: senkrechter Kalkstein, der aus flachem smaragdgrünem Wasser aufragt, mit ertränkten Baumstämmen, die nahe den Flachwassern noch sichtbar sind. Longtail-Boote fahren zwischen den Gipfeln, und die Größenordnung erfasst man erst, wenn man direkt darunter steht.\n\nDie Fahrt ab Krabi dauert jede Richtung etwa zweieinhalb Stunden, was der Hauptgrund ist, warum dieser Tag zehn Stunden dauert. Tiersichtungen sind eine Frage des Glücks: Gibbons sind öfter zu hören als zu sehen, Nashornvögel sind entlang des Ufers häufig, und Makaken sind in der Nähe der Bootsstege eine Gewissheit.\n\nDer Preis umfasst Hotelabholung ab Krabi Town, Ao Nang, Klong Muang und Tub Kaek, einen klimatisierten Van, Wasser, Kaffee und Obst, Mittagessen in einem Restaurant, und eine Schwimmweste, einen Regenmantel und eine wasserdichte Tasche. Ihr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist.\n\nZehn Stunden, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Regenwald, geschätzt auf 160 Millionen Jahre",
+   "Cheow-Lan-See, entstanden durch den Rajjaprabha-Staudamm 1987",
+   "Kalksteingipfel, die als Inseln in flachem grünem Wasser stehen",
+   "Longtail-Boot zwischen den Karstfelsen",
+   "Hotelabholung, Van, Mittagessen und Regenausrüstung inklusive"
+  ],
+  "included": [
+   "Hotelabholung ab Krabi Town, Ao Nang, Klong Muang und Tub Kaek",
+   "Transport in einem klimatisierten Van",
+   "Wasser, Kaffee und Obst",
+   "Mittagessen in einem Restaurant",
+   "Schwimmweste, Regenmantel und wasserdichte Tasche",
+   "Guide",
+   "Nationalpark-Gebühr"
+  ],
+  "notIncluded": []
+ },
+ "atv-ride-and-natural-swimming-experience-in-krabi": {
+  "title": "ATV-Fahrt und natürliches Schwimmerlebnis in Krabi",
+  "metaTitle": "Krabi: ATV und natürliches Schwimmen",
+  "metaDescription": "Ausflug in Krabi, mit Hotelabholung und -rückfahrt und ATV-Fahrt. Organisiert von Krabi tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ausflug in Krabi, mit Hotelabholung und -rückfahrt und ATV-Fahrt. Organisiert von Krabi tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Zwei Stunden auf den roten Erdpfaden hinter Ao Nang, abgeschlossen in einem Süßwasserbecken.\n\nKrabis Küste bekommt alle Aufmerksamkeit, aber ein paar Kilometer landeinwärts verwandelt sich die Landschaft in Kautschuk- und Ölpalmen-Plantagen, durchzogen von Lehmpfaden. Dorthin führt diese Fahrt. Nach einem Briefing und einer kurzen Übungsschleife folgen Sie dem Guide durch Plantagenpfade, über flache Wasserdurchfahrten und vorbei an Kalksteinaufschlüssen, die direkt aus den Feldern aufragen. Die Pfade behalten in der Trockenzeit ihre Form und werden ab Mai richtig schlammig, was die meisten Fahrer als den besseren Teil des Spaßes empfinden.\n\nDie Fahrt macht an einer natürlichen Badestelle Halt, um den Staub abzuspülen. Krabis Binnenwasser wird von Quellen gespeist und bleibt selbst im April kühl, weshalb das Schwimmen am Ende statt am Anfang eingeplant ist.\n\nKein Führerschein ist erforderlich und keine Erfahrung wird vorausgesetzt; der Guide richtet das Tempo nach dem langsamsten Fahrer der Gruppe. Tragen Sie Kleidung und Schuhe, deren Ruinierung Ihnen nichts ausmacht, denn Sie bleiben nicht sauber.\n\nKrabi tour organisiert dies und wir buchen direkt mit ihnen, sodass Ihr Platz beim Anbieter gesichert wird, bevor die Buchung endgültig ist. Der Preis umfasst Hotelabholung und -rückfahrt, das ATV selbst, einen Guide, frisches Obst, Trinkwasser und Unfallversicherung.\n\nZwei Stunden einschließlich Transfers, Abholung im Gebiet Ao Nang, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Plantagen- und Lehmpfade hinter Ao Nang",
+   "Süßwasser-Schwimmstopp am Ende der Fahrt",
+   "Kein Führerschein oder Erfahrung nötig",
+   "Hotelabholung und -rückfahrt inklusive",
+   "Obst, Wasser, Guide und Unfallversicherung"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt",
+   "ATV-Fahrt",
+   "Frisches Obst",
+   "Trinkwasser",
+   "Professioneller Guide",
+   "Unfallversicherung"
+  ],
+  "notIncluded": []
+ },
+ "koh-lanta-boxing-stadium-muay-thai-entry-ticket": {
+  "title": "Eintrittskarte für Muay Thai im Boxstadion von Koh Lanta",
+  "metaTitle": "Koh Lanta: Muay-Thai-Ticket im Boxstadion",
+  "metaDescription": "Eintrittskarte in Krabi, mit einem Sitzplatz-Ticket. Organisiert von GlobalTix (Thailand) Co., Ltd., Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Eintrittskarte in Krabi, mit einem Sitzplatz-Ticket. Organisiert von GlobalTix (Thailand) Co., Ltd., Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Ein Sitzplatz im Muay-Thai-Stadion auf Ko Lanta, ein ganz anderer Abend als in den Großstadtarenen.\n\nMuay Thai ist Thailands Nationalsport und eine Acht-Gliedmaßen-Schlagkunst: Fäuste, Ellbogen, Knie und Schienbeine zählen alle, was es von Boxen und Kickboxen unterscheidet. Eine Kartenfolge läuft über den Abend mit mehreren Kämpfen, beginnend mit den jüngsten und unerfahrensten Kämpfern und steigernd zu den Hauptkämpfen, sodass frühes Kommen bedeutet, den Sport in seiner rohesten Form zu sehen, und spätes Kommen bedeutet, ihn auf höchstem Niveau zu sehen.\n\nJeder Kampf beginnt mit dem Wai Khru Ram Muay, einem langsamen Ritualtanz, in dem der Kämpfer Lehrer und Familie Respekt erweist und den Ring versiegelt. Es ist kein Aufwärmen und nicht für das Publikum gedacht; es geht der kommerziellen Form des Sports vollständig voraus. Die Live-Band spielt den Sarama, einen Oboe-und-Trommel-Rhythmus, der sich beschleunigt, während der Kampf intensiver wird, das Detail, an das sich die meisten Erstbesucher danach erinnern.\n\nDas Inselstadion ist klein. Sie sind nah genug, um den Aufprall eines Schienbeins auf einen Unterarm zu hören, das Publikum ist eine Mischung aus wettenden Einheimischen und zuschauenden Reisenden, und niemand tritt für eine Reisegruppe auf. Die größeren Bangkok-Stadien sind polierter; dies ist ehrlicher.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst ein Sitzplatz-Ticket. Essen, Getränke und Transport sind nicht inklusive, planen Sie also, wie Sie hin- und zurückkommen.\n\nDie Termine variieren wöchentlich statt jeden Abend stattzufinden, daher wird das Datum mit dem Stadion bestätigt, bevor Ihre Buchung endgültig ist. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Thailands Nationalsport in einem kleinen Inselstadion",
+   "Wai-Khru-Ram-Muay-Ritual vor jedem Kampf",
+   "Live-Sarama-Band, die sich mit dem Kampf beschleunigt",
+   "Vorkämpfe zuerst, Hauptkämpfe später am Abend",
+   "Nah genug, um die Treffer landen zu hören"
+  ],
+  "included": [
+   "Sitzplatz-Ticket"
+  ],
+  "notIncluded": [
+   "Essen und Getränke",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
