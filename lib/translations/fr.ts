@@ -45625,6 +45625,60 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ]
  },
+ "tingly-thai-cooking-school-half-day-cooking-class": {
+  "title": "Bangkok : cours de cuisine d'une demi-journée à l'école Tingly Thai",
+  "metaTitle": "Bangkok : cours de cuisine thaïlandaise Tingly",
+  "metaDescription": "Découvrez comment préparer la cuisine thaïlandaise traditionnelle dans cette école de cuisine. Préparez un repas de 4 plats, apprenez diverses méthodes pour bien conserver la nourriture thaïlandaise, et visitez le marché avec le cours de cuisine du matin.",
+  "shortDescription": "Découvrez comment préparer la cuisine thaïlandaise traditionnelle dans cette école de cuisine. Préparez un repas de 4 plats, apprenez diverses méthodes pour bien conserver la nourriture thaïlandaise, et visitez le marché avec le cours de cuisine du matin.",
+  "fullDescription": "Découvrez comment préparer la cuisine thaïlandaise traditionnelle dans cette école de cuisine. Préparez un repas de 4 plats, apprenez diverses méthodes pour bien conserver la nourriture thaïlandaise, et visitez le marché avec le cours de cuisine du matin.",
+  "highlights": [
+   "Savourez les quatre plats traditionnels savoureux que vous préparez à partir de zéro"
+  ],
+  "included": [
+   "Guide parlant anglais",
+   "Visite telle que décrite"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
+ "soi-cowboy-nana-soi-11-rooftops-clubs-go-gos": {
+  "title": "Bangkok : Soi Cowboy, Nana, Soi 11, rooftops, clubs et Go Go's",
+  "metaTitle": "Bangkok : Soi Cowboy, Nana et rooftops",
+  "metaDescription": "Par EPIC TOURS : accès coupe-file exclusif et entrée gratuite à 6 des lieux les plus en vogue, rooftops et endroits emblématiques de Soi Cowboy, Soi 11 et Nana Plaza à Bangkok. Un shot GRATUIT inclus ! Places limitées !",
+  "shortDescription": "Par EPIC TOURS : accès coupe-file exclusif et entrée gratuite à 6 des lieux les plus en vogue, rooftops et endroits emblématiques de Soi Cowboy, Soi 11 et Nana Plaza à Bangkok. Un shot GRATUIT inclus ! Places limitées !",
+  "fullDescription": "Par EPIC TOURS : accès coupe-file exclusif et entrée gratuite à 6 des lieux les plus en vogue, rooftops et endroits emblématiques de Soi Cowboy, Soi 11 et Nana Plaza à Bangkok. Un shot GRATUIT inclus ! Places limitées !",
+  "highlights": [
+   "Entrée VIP coupe-file et shots de bienvenue à chaque lieu"
+  ],
+  "included": [
+   "Guide parlant anglais",
+   "Visite telle que décrite"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
+ "damnoen-saduak-market-and-maeklong-railway-market": {
+  "title": "Bangkok : marché de Damnoen Saduak et marché ferroviaire de Maeklong",
+  "metaTitle": "Damnoen Saduak et marché ferroviaire de Maeklong",
+  "metaDescription": "Visitez le marché ferroviaire de Maeklong et le marché flottant de Damnoen Saduak lors d'une visite privée ou en groupe depuis Bangkok. Échangez avec des vendeurs de marché locaux accueillants.",
+  "shortDescription": "Visitez le marché ferroviaire de Maeklong et le marché flottant de Damnoen Saduak lors d'une visite privée ou en groupe depuis Bangkok. Échangez avec des vendeurs de marché locaux accueillants.",
+  "fullDescription": "Visitez le marché ferroviaire de Maeklong et le marché flottant de Damnoen Saduak lors d'une visite privée ou en groupe depuis Bangkok. Échangez avec des vendeurs de marché locaux accueillants.",
+  "highlights": [
+   "Découvrez le mode de vie plus tranquille de la Thaïlande, loin des grandes villes"
+  ],
+  "included": [
+   "Guide parlant anglais",
+   "Visite telle que décrite"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

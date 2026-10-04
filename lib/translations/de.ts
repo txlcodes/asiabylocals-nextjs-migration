@@ -45624,6 +45624,60 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "tingly-thai-cooking-school-half-day-cooking-class": {
+  "title": "Bangkok: halbtägiger Kochkurs an der Tingly-Thai-Kochschule",
+  "metaTitle": "Bangkok: Tingly-Thai-Kochkurs",
+  "metaDescription": "Entdecken Sie, wie man traditionelle thailändische Küche zubereitet, an dieser Kochschule. Bereiten Sie ein 4-Gänge-Menü zu, lernen Sie verschiedene Methoden zur richtigen Aufbewahrung thailändischer Speisen, und besuchen Sie den Markt beim morgendlichen Kochkurs.",
+  "shortDescription": "Entdecken Sie, wie man traditionelle thailändische Küche zubereitet, an dieser Kochschule. Bereiten Sie ein 4-Gänge-Menü zu, lernen Sie verschiedene Methoden zur richtigen Aufbewahrung thailändischer Speisen, und besuchen Sie den Markt beim morgendlichen Kochkurs.",
+  "fullDescription": "Entdecken Sie, wie man traditionelle thailändische Küche zubereitet, an dieser Kochschule. Bereiten Sie ein 4-Gänge-Menü zu, lernen Sie verschiedene Methoden zur richtigen Aufbewahrung thailändischer Speisen, und besuchen Sie den Markt beim morgendlichen Kochkurs.",
+  "highlights": [
+   "Genießen Sie die vier köstlichen, traditionellen Gerichte, die Sie von Grund auf zubereiten"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Tour wie beschrieben"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "soi-cowboy-nana-soi-11-rooftops-clubs-go-gos": {
+  "title": "Bangkok: Soi Cowboy, Nana, Soi 11, Rooftops, Clubs und Go Go's",
+  "metaTitle": "Bangkok: Soi Cowboy, Nana und Rooftops",
+  "metaDescription": "Von EPIC TOURS: exklusiver Warteschlangen-Überspring und kostenloser Eintritt in 6 der heißesten Lokale, Rooftops und ikonischen Orte von Bangkoks Soi Cowboy, Soi 11 und Nana Plaza. Inklusive EINES KOSTENLOSEN Shots! Plätze begrenzt!",
+  "shortDescription": "Von EPIC TOURS: exklusiver Warteschlangen-Überspring und kostenloser Eintritt in 6 der heißesten Lokale, Rooftops und ikonischen Orte von Bangkoks Soi Cowboy, Soi 11 und Nana Plaza. Inklusive EINES KOSTENLOSEN Shots! Plätze begrenzt!",
+  "fullDescription": "Von EPIC TOURS: exklusiver Warteschlangen-Überspring und kostenloser Eintritt in 6 der heißesten Lokale, Rooftops und ikonischen Orte von Bangkoks Soi Cowboy, Soi 11 und Nana Plaza. Inklusive EINES KOSTENLOSEN Shots! Plätze begrenzt!",
+  "highlights": [
+   "VIP-Warteschlangen-Überspring-Eintritt und Willkommens-Shots an jedem Lokal"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Tour wie beschrieben"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "damnoen-saduak-market-and-maeklong-railway-market": {
+  "title": "Bangkok: Markt Damnoen Saduak und Eisenbahnmarkt Maeklong",
+  "metaTitle": "Damnoen Saduak und Eisenbahnmarkt Maeklong",
+  "metaDescription": "Besuchen Sie den Eisenbahnmarkt Maeklong und den schwimmenden Markt Damnoen Saduak bei einer privaten oder Gruppentour ab Bangkok. Interagieren Sie mit freundlichen lokalen Marktverkäufern.",
+  "shortDescription": "Besuchen Sie den Eisenbahnmarkt Maeklong und den schwimmenden Markt Damnoen Saduak bei einer privaten oder Gruppentour ab Bangkok. Interagieren Sie mit freundlichen lokalen Marktverkäufern.",
+  "fullDescription": "Besuchen Sie den Eisenbahnmarkt Maeklong und den schwimmenden Markt Damnoen Saduak bei einer privaten oder Gruppentour ab Bangkok. Interagieren Sie mit freundlichen lokalen Marktverkäufern.",
+  "highlights": [
+   "Erleben Sie die ruhigere Lebensweise Thailands fernab der großen Städte"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Tour wie beschrieben"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
