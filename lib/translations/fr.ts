@@ -45445,6 +45445,69 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le personnel"
   ]
  },
+ "wat-rong-khun-white-temple-spiritual-tour": {
+  "title": "Chiang Mai : temples Blanc, Bleu et Rouge de Chiang Rai et tribu Karen",
+  "metaTitle": "Chiang Rai : temples Blanc, Bleu et Rouge",
+  "metaDescription": "Excursion d'une journée complète depuis Chiang Mai vers les temples Blanc, Bleu et Rouge de Chiang Rai, avec arrêts aux sources chaudes de Mae Kachan et un village de la tribu Karen à cou long.",
+  "shortDescription": "Excursion d'une journée complète depuis Chiang Mai vers les temples Blanc, Bleu et Rouge de Chiang Rai, avec arrêts aux sources chaudes de Mae Kachan et un village de la tribu Karen à cou long.",
+  "fullDescription": "Les trois temples emblématiques de Chiang Rai sont suffisamment proches pour être visités en une seule journée inoubliable, et ce voyage les relie avec quelques arrêts que la plupart des visiteurs ne planifient jamais par eux-mêmes. Vous partirez tôt de Chiang Mai et sinuerez vers le nord à travers les collines, interrompant le trajet aux sources chaudes de Mae Kachan, où une eau riche en minéraux bouillonne du sol et où vous pouvez tremper vos pieds, regarder les habitants faire bouillir des œufs dans la chaleur naturelle, et vous dégourdir les jambes avant de continuer. Un court trajet plus loin vous mène à un village de la tribu des collines Karen à cou long, où vous rencontrerez des membres de la communauté, verrez de près le tissage traditionnel et les anneaux de cou en laiton, et apprendrez un peu sur un mode de vie très différent des villes que traversent la plupart des voyageurs.\n\nDe là, la journée se tourne vers les temples de Chiang Rai, chacun offrant une saveur de spectacle complètement différente. Wat Rong Khun, le Temple Blanc, est une structure éblouissante et presque surréaliste de plâtre blanc et de verre miroité construite par un artiste local en cadeau au bouddhisme. Wat Rong Suea Ten, le Temple Bleu, rayonne de murs indigo profonds et de détails dorés qui donnent l'impression d'entrer dans un monde complètement différent. Enfin, l'imposant Grand Bouddha blanc et le saisissant Temple Rouge de Huay Pla Kang complètent le voyage avec des vues panoramiques depuis la colline sur la ville.\n\nAvec un guide compétent vous menant à travers chaque arrêt et un transport en car confortable gérant les longs trajets entre eux, c'est la façon la plus simple de voir tout ce pour quoi Chiang Rai est connu sans louer de voiture ni assembler votre propre itinéraire.",
+  "highlights": [
+   "Émerveillez-vous devant l'éblouissant Temple Blanc miroité, Wat Rong Khun",
+   "Explorez le saisissant Temple Bleu indigo, Wat Rong Suea Ten",
+   "Voyez l'imposant Grand Bouddha et le Temple Rouge à Huay Pla Kang",
+   "Détendez-vous et rechargez-vous aux sources chaudes de Mae Kachan",
+   "Visitez un village et une communauté de la tribu des collines Karen à cou long"
+  ],
+  "included": [
+   "Guide professionnel parlant anglais",
+   "Transport aller-retour en car climatisé depuis Chiang Mai",
+   "Entrée et visite guidée de Wat Rong Khun (Temple Blanc)",
+   "Entrée et visite guidée de Wat Rong Suea Ten (Temple Bleu)",
+   "Entrée et visite guidée de la zone du temple de Huay Pla Kang, du Grand Bouddha et du Temple Rouge",
+   "Visite des sources chaudes de Mae Kachan",
+   "Visite du village de la tribu des collines Karen à cou long",
+   "Dépose dans les hôtels du centre de Chiang Mai"
+  ],
+  "notIncluded": [
+   "Prise en charge à l'hôtel (le lieu de prise en charge dépend de l'option sélectionnée)",
+   "Repas et boissons",
+   "Pourboires pour le guide et le chauffeur",
+   "Dépenses personnelles et souvenirs",
+   "Dons dans les temples (facultatif, espèces appréciées)",
+   "Assurance voyage"
+  ]
+ },
+ "chiang-mai-thai-cooking-class-ethical-elephant-sanctuary": {
+  "title": "Chiang Mai : cours de cuisine thaïlandaise et excursion au sanctuaire éthique pour éléphants",
+  "metaTitle": "Chiang Mai : cuisine thaïlandaise et éléphants",
+  "metaDescription": "De la ferme à la forêt : cuisinez 5 plats thaïlandais authentiques dans une ferme biologique, puis rencontrez des éléphants secourus dans un sanctuaire éthique près de Doi Inthanon. Transferts aller-retour à Chiang Mai inclus.",
+  "shortDescription": "De la ferme à la forêt : cuisinez 5 plats thaïlandais authentiques dans une ferme biologique, puis rencontrez des éléphants secourus dans un sanctuaire éthique près de Doi Inthanon. Transferts aller-retour à Chiang Mai inclus.",
+  "fullDescription": "Laissez derrière vous les rues animées de Chiang Mai pour un voyage d'une journée complète qui relie culture thaïlandaise, nature et conservation éthique de la faune, conçu pour les voyageurs qui veulent des histoires, des saveurs et du sens, pas seulement du tourisme.\n\nVotre journée commence par un cours de cuisine thaïlandaise pratique à Casa de Mango, une ferme biologique à 45 minutes de la ville au pied de Doi Inthanon, le plus haut sommet de Thaïlande. Après une visite d'un marché local animé pour choisir des herbes et épices fraîches, vous sélectionnerez vous-même des ingrédients du jardin et cuisinerez cinq plats authentiques à votre propre poste individuel, puis vous vous installerez pour déguster le festin parmi les manguiers et les vues sur la montagne.\n\nDans l'après-midi, dirigez-vous profondément dans la forêt vers l'opérateur local, l'un des sanctuaires éthiques pionniers de Thaïlande (depuis 2016). Installé parmi des ruisseaux naturels et des vallées vertes, il permet aux éléphants secourus de vivre librement, sans monte, sans tours, sans chaînes. Rencontrez chaque éléphant par son nom, écoutez leurs histoires de sauvetage, nourrissez-les à la main, et marchez à leurs côtés à travers la jungle. S'ils le choisissent, rejoignez-les pour un bain rafraîchissant dans la rivière. Chaque interaction est respectueuse et se fait selon les conditions des éléphants.",
+  "highlights": [
+   "Deux expériences premium en une journée : un cours de cuisine thaïlandaise ET un sanctuaire éthique pour éléphants",
+   "Cuisinez 5 plats thaïlandais authentiques de la ferme à la table dans une ferme biologique près de Doi Inthanon",
+   "Rencontrez des éléphants secourus par leur nom et écoutez leurs histoires, sans monte, sans tours, sans chaînes",
+   "Nourrissez les éléphants à la main et marchez avec eux à travers la jungle",
+   "Baignade optionnelle en rivière avec les éléphants (uniquement s'ils le souhaitent)",
+   "Petit groupe (12 max), transferts aller-retour à l'hôtel à Chiang Mai et photos professionnelles gratuites incluses"
+  ],
+  "included": [
+   "Transferts aller-retour à l'hôtel (ville de Chiang Mai)",
+   "Visite du marché local",
+   "Cours de cuisine thaïlandaise complet avec postes individuels",
+   "Déjeuner (votre propre cuisine) + dîner au sanctuaire",
+   "Entrée au sanctuaire d'éléphants et toutes les activités",
+   "Tenue thaïlandaise traditionnelle pour la visite du sanctuaire",
+   "Guides locaux parlant anglais",
+   "Eau potable, collations et thé aux herbes",
+   "Couverture d'assurance",
+   "Service photo gratuit"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

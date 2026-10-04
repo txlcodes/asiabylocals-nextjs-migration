@@ -45445,6 +45445,69 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas para el personal"
   ]
  },
+ "wat-rong-khun-white-temple-spiritual-tour": {
+  "title": "Chiang Mai: templos Blanco, Azul y Rojo de Chiang Rai y tribu Karen",
+  "metaTitle": "Chiang Rai: templos Blanco, Azul y Rojo",
+  "metaDescription": "Excursión de día completo desde Chiang Mai a los templos Blanco, Azul y Rojo de Chiang Rai, con paradas en las aguas termales de Mae Kachan y un pueblo de la tribu Karen de cuello largo.",
+  "shortDescription": "Excursión de día completo desde Chiang Mai a los templos Blanco, Azul y Rojo de Chiang Rai, con paradas en las aguas termales de Mae Kachan y un pueblo de la tribu Karen de cuello largo.",
+  "fullDescription": "Los tres templos icónicos de Chiang Rai están lo suficientemente cerca para visitarlos en un solo día inolvidable, y este viaje los conecta con un par de paradas que la mayoría de los visitantes nunca planean por su cuenta. Saldrá temprano de Chiang Mai y se abrirá camino hacia el norte a través de las colinas, interrumpiendo el trayecto en las aguas termales de Mae Kachan, donde el agua rica en minerales burbujea desde el suelo y puede mojar los pies, ver a los lugareños hervir huevos en el calor natural, y estirar las piernas antes de continuar. Un corto trayecto después lo lleva a un pueblo de la tribu Karen de cuello largo, donde conocerá a miembros de la comunidad, verá de cerca el tejido tradicional y los anillos de latón en el cuello, y aprenderá un poco sobre una forma de vida muy diferente de las ciudades por las que pasan la mayoría de los viajeros.\n\nDe ahí, el día se dirige hacia los templos de Chiang Rai, cada uno con un sabor completamente diferente de espectacularidad. Wat Rong Khun, el Templo Blanco, es una estructura deslumbrante, casi surrealista, de yeso blanco y vidrio espejado construida por un artista local como un regalo al budismo. Wat Rong Suea Ten, el Templo Azul, brilla con paredes de índigo profundo y detalles dorados que se sienten como entrar en un mundo completamente diferente. Finalmente, el imponente Gran Buda blanco y el llamativo Templo Rojo en Huay Pla Kang completan el viaje con amplias vistas desde la colina sobre la ciudad.\n\nCon un guía experto que lo lleva a través de cada parada y un transporte en autobús cómodo que se encarga de los largos trayectos entre ellas, esta es la forma más fácil de ver todo por lo que Chiang Rai es conocido sin alquilar un coche ni armar su propio itinerario.",
+  "highlights": [
+   "Maravíllese con el deslumbrante Templo Blanco espejado, Wat Rong Khun",
+   "Explore el llamativo Templo Azul índigo, Wat Rong Suea Ten",
+   "Vea el imponente Gran Buda y el Templo Rojo en Huay Pla Kang",
+   "Relájese y recargue energías en las aguas termales de Mae Kachan",
+   "Visite un pueblo y comunidad de la tribu Karen de cuello largo"
+  ],
+  "included": [
+   "Guía profesional de habla inglesa",
+   "Transporte de ida y vuelta en autobús con aire acondicionado desde Chiang Mai",
+   "Entrada y visita guiada a Wat Rong Khun (Templo Blanco)",
+   "Entrada y visita guiada a Wat Rong Suea Ten (Templo Azul)",
+   "Entrada y visita guiada a la zona del templo de Huay Pla Kang, el Gran Buda y el Templo Rojo",
+   "Visita a las aguas termales de Mae Kachan",
+   "Visita al pueblo de la tribu Karen de cuello largo",
+   "Regreso a hoteles en el centro de Chiang Mai"
+  ],
+  "notIncluded": [
+   "Recogida en el hotel (el lugar de recogida depende de la opción seleccionada)",
+   "Comidas y bebidas",
+   "Propinas para el guía y el conductor",
+   "Gastos personales y recuerdos",
+   "Donativos en los templos (opcional, se agradece el efectivo)",
+   "Seguro de viaje"
+  ]
+ },
+ "chiang-mai-thai-cooking-class-ethical-elephant-sanctuary": {
+  "title": "Chiang Mai: clase de cocina tailandesa y excursión a santuario ético de elefantes",
+  "metaTitle": "Chiang Mai: cocina tailandesa y elefantes",
+  "metaDescription": "De la granja al bosque: cocine 5 platos tailandeses autenticos en una granja orgánica, luego conozca elefantes rescatados en un santuario ético cerca de Doi Inthanon. Traslados de ida y vuelta en Chiang Mai incluidos.",
+  "shortDescription": "De la granja al bosque: cocine 5 platos tailandeses autenticos en una granja orgánica, luego conozca elefantes rescatados en un santuario ético cerca de Doi Inthanon. Traslados de ida y vuelta en Chiang Mai incluidos.",
+  "fullDescription": "Deje atrás las concurridas calles de Chiang Mai para un viaje de día completo que conecta cultura tailandesa, naturaleza y conservación ética de la vida silvestre, diseñado para viajeros que quieren historias, sabores y significado, no solo turismo.\n\nSu día comienza con una clase práctica de cocina tailandesa en Casa de Mango, una granja orgánica a 45 minutos de la ciudad bajo el Doi Inthanon, el pico más alto de Tailandia. Después de una visita a un animado mercado local para elegir hierbas y especias frescas, seleccionará personalmente ingredientes del huerto y cocinará cinco platos autenticos en su propia estación individual, luego se sentará a disfrutar del festín entre árboles de mango y vistas a la montaña.\n\nPor la tarde, dirígese profundamente al bosque hacia el operador local, uno de los santuarios éticos pioneros de Tailandia (desde 2016). Situado entre arroyos naturales y valles verdes, permite que los elefantes rescatados vivan libremente, sin montar, sin trucos, sin cadenas. Conozca a cada elefante por su nombre, escuche sus historias de rescate, alimentelos a mano, y camine junto a ellos por la selva. Si ellos lo eligen, únase a ellos para un refrescante baño en el río. Cada interacción es respetuosa y se realiza según los términos de los elefantes.",
+  "highlights": [
+   "Dos experiencias premium en un día: una clase de cocina tailandesa Y un santuario ético de elefantes",
+   "Cocine 5 platos tailandeses autenticos de la granja a la mesa en una granja orgánica cerca de Doi Inthanon",
+   "Conozca a elefantes rescatados por su nombre y escuche sus historias, sin montar, sin trucos, sin cadenas",
+   "Alimente a los elefantes a mano y camine con ellos por la selva",
+   "Baño opcional en el río con los elefantes (solo si ellos están dispuestos)",
+   "Grupo pequeño (máximo 12), traslados de ida y vuelta al hotel en Chiang Mai y fotos profesionales gratuitas incluidas"
+  ],
+  "included": [
+   "Traslados de ida y vuelta al hotel (ciudad de Chiang Mai)",
+   "Recorrido por el mercado local",
+   "Clase completa de cocina tailandesa con estaciones individuales",
+   "Almuerzo (su propia preparación) + cena en el santuario",
+   "Entrada al santuario de elefantes y todas las actividades",
+   "Vestimenta tailandesa tradicional para la visita al santuario",
+   "Guías locales de habla inglesa",
+   "Agua potable, aperitivos y té de hierbas",
+   "Cobertura de seguro",
+   "Servicio de fotos de cortesía"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",
