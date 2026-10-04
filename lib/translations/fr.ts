@@ -44844,6 +44844,96 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ]
  },
+ "maya-bay-adventure-boat-tour": {
+  "title": "Aventure matinale en hors-bord à Phi Phi et aux quatre îles",
+  "metaTitle": "Phi Phi matinal et 4 îles en hors-bord",
+  "metaDescription": "Partez d'Ao Nang à l'aube pour atteindre Maya Bay avant les foules, plongez avec tuba au lagon de Pileh et sur les récifs de Phi Phi, puis terminez avec les quatre îles classiques de Krabi.",
+  "shortDescription": "Partez d'Ao Nang à l'aube pour atteindre Maya Bay avant les foules, plongez avec tuba au lagon de Pileh et sur les récifs de Phi Phi, puis terminez avec les quatre îles classiques de Krabi.",
+  "fullDescription": "Phi Phi et les quatre îles de Krabi en une seule journée en hors-bord, programmée pour que Maya Bay vienne avant la flotte.\n\nMaya Bay est la raison du départ matinal. La baie a fermé entièrement en 2018 après des années de dégâts et a rouvert en 2022 sous des conditions strictes : les bateaux amarrent à l'arrière de Phi Phi Leh et les visiteurs marchent à travers l'île, la baignade dans la baie elle-même est restreinte, et le nombre de visiteurs quotidiens est plafonné. Arriver en premier signifie marcher plutôt que faire la queue, et voir la baie plus proche de son apparence dans le film qui l'a rendue célèbre.\n\nLe lagon de Pileh suit, un chenal profond d'eau verte entouré de falaises de tous côtés, puis deux systèmes récifaux distincts pour la plongée avec tuba, ce qui dépasse ce que la plupart des excursions à Phi Phi parviennent à faire. Le déjeuner est un buffet thaïlandais sur Phi Phi Don, l'île habitée.\n\nLe trajet de retour couvre les quatre îles de Krabi, donc la journée couvre à la fois le célèbre arrêt au large et le circuit local. C'est beaucoup de terrain pour neuf heures et un hors-bord est le seul moyen de le faire, avec pour compromis que les hors-bords tapent fort dans toute houle.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la prise en charge et le retour à l'hôtel à Ao Nang et dans la ville de Krabi, le hors-bord avec équipage certifié, un guide anglophone, le déjeuner buffet thaïlandais, le masque de plongée avec tuba, les palmes et les gilets de sauvetage.\n\nLes frais de parc national sont perçus à la jetée sauf confirmation contraire, prévoyez donc des espèces. Neuf heures, un jour de préavis minimum.",
+  "highlights": [
+   "Maya Bay avant la flotte des excursions d'une journée",
+   "Règles post-2022 : à pied, nombre quotidien plafonné",
+   "Lagon de Pileh, entouré de falaises de tous côtés",
+   "Deux systèmes récifaux distincts pour la plongée avec tuba",
+   "Phi Phi et les quatre îles de Krabi en une seule journée"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Ao Nang et dans la ville de Krabi",
+   "Hors-bord avec équipage certifié",
+   "Guide anglophone",
+   "Déjeuner buffet thaïlandais",
+   "Masque de plongée avec tuba, palmes et gilet de sauvetage",
+   "Boissons non alcoolisées, eau et fruits",
+   "Frais de parc national",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisées",
+   "Serviettes",
+   "Location de caméra sous-marine",
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
+ "krabi-elephant-shelter-entry-ticket": {
+  "title": "Baignade et éclaboussures avec des éléphants sauvés près de la ville de Krabi",
+  "metaTitle": "Krabi : baignade avec éléphants sauvés",
+  "metaDescription": "Passez une séance pratique à laver, éclabousser et nager avec des éléphants sauvés dans un refuge éthique sans monte, guidé par leurs propres gardiens habituels.",
+  "shortDescription": "Passez une séance pratique à laver, éclabousser et nager avec des éléphants sauvés dans un refuge éthique sans monte, guidé par leurs propres gardiens habituels.",
+  "fullDescription": "Une courte visite près de la ville de Krabi passée à laver des éléphants sauvés, avec leurs gardiens habituels plutôt qu'une équipe touristique tournante.\n\nLe refuge accueille des animaux venus de camps d'équitation et de travaux d'abattage. Une heure et demie suffit pour la séance de bain et les récits, et ne suffit pas à prétendre que vous faites un travail de conservation, ce qui est un cadrage honnête plutôt qu'une lacune.\n\nPas de monte, pas de chaînes, pas de spectacles. Les éléphants entrent dans l'eau parce qu'ils aiment y être, et vous y entrez avec eux avec une brosse.\n\nCe qui rend cela valable par rapport à un camp plus grand, c'est que les gardiens qui travaillent avec chaque animal au quotidien animent la séance. Ils connaissent les histoires individuelles : de quel camp un éléphant est sorti, quelles sont les blessures, pourquoi l'un est nerveux face à certains sons. Ces récits sont spécifiques plutôt qu'un script, et constituent le véritable contenu de la visite.\n\nUne réserve honnête sur le bain en général : certains spécialistes du bien-être animal estiment que les séances de bain répétées avec des inconnus constituent elles-mêmes une forme de spectacle, et quelques-uns des sanctuaires les plus réputés de Thaïlande les ont arrêtées pour cette raison. Ce refuge les organise encore. Si cela vous importe, un programme uniquement d'observation et de nourrissage pourrait mieux vous convenir, et il en existe exactement de ce genre à Krabi.\n\nDes vêtements de refuge, un casier, des douches, une serviette et de l'eau potable sont fournis, donc vous pouvez arriver en vêtements ordinaires.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Quatre-vingt-dix minutes, un jour de préavis minimum.",
+  "highlights": [
+   "Éléphants sauvés, sans monte, chaînes ni spectacles",
+   "Séance animée par les gardiens qui travaillent avec eux quotidiennement",
+   "L'histoire de sauvetage de chaque animal, pas un script",
+   "Vêtements, casier, douche et serviette fournis",
+   "Note honnête : certains sanctuaires évitent désormais entièrement les séances de bain"
+  ],
+  "included": [
+   "Entrée au refuge d'éléphants de Krabi",
+   "Séance de bain guidée avec les gardiens",
+   "Vêtements de refuge et casier",
+   "Installations de douche et serviette",
+   "Eau potable et fruits de saison",
+   "Photos prises pendant la séance",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Transferts d'hôtel sauf réservés séparément",
+   "Repas",
+   "Pourboires pour les gardiens",
+   "Dépenses personnelles"
+  ]
+ },
+ "tiger-cave-temple-spiritual-tour": {
+  "title": "Sortie au bassin Émeraude, aux sources chaudes et au temple de la grotte du Tigre",
+  "metaTitle": "Bassin Émeraude, sources chaudes, grotte du Tigre",
+  "metaDescription": "Baignez-vous dans un bassin émeraude alimenté par la jungle, trempez-vous dans des sources minérales chaudes et grimpez jusqu'au sanctuaire au sommet de la falaise du temple de la grotte du Tigre, lors d'une journée complète à l'intérieur des terres depuis la côte.",
+  "shortDescription": "Baignez-vous dans un bassin émeraude alimenté par la jungle, trempez-vous dans des sources minérales chaudes et grimpez jusqu'au sanctuaire au sommet de la falaise du temple de la grotte du Tigre, lors d'une journée complète à l'intérieur des terres depuis la côte.",
+  "fullDescription": "L'intérieur de Krabi est un monde différent de ses plages : une forêt tropicale dense de basse altitude, une eau chaude qui jaillit à travers le calcaire, et un temple perché sur un piton rocheux au-dessus de la canopée. Cette journée complète à l'intérieur des terres couvre les trois, avec un véhicule climatisé et un guide qui connaît les sentiers de marche et l'étiquette au sanctuaire.\n\nLe bassin Émeraude se trouve dans une réserve naturelle protégée, alimenté par une source chaude qui donne à l'eau sa teinte verte saisissante. Une courte passerelle forestière y mène, et un sentier supplémentaire continue jusqu'au Lagon Bleu, un bassin plus profond et à la couleur encore plus vive. Ensuite, vous vous trempez dans la cascade de source chaude naturelle, où l'eau minérale a creusé des baignoires lisses dans la roche.\n\nLa journée se termine au temple de la grotte du Tigre, qui abrite une communauté de méditation active. Ceux qui ont de bonnes jambes peuvent affronter le célèbre escalier jusqu'au sommet ; tous les autres explorent les terrains ombragés du monastère et les grottes à la base.",
+  "highlights": [
+   "Baignez-vous dans le bassin Émeraude alimenté par la jungle",
+   "Marchez sur le sentier forestier jusqu'au Lagon Bleu",
+   "Trempez-vous dans des bassins rocheux de source chaude naturelle",
+   "Découvrez le sanctuaire au sommet de la falaise du temple de la grotte du Tigre",
+   "Transport climatisé avec un guide local"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Véhicule climatisé",
+   "Guide local anglophone",
+   "Déjeuner thaïlandais",
+   "Frais d'entrée à la réserve naturelle et à la source chaude",
+   "Eau potable",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Dons au temple",
+   "Serviettes",
+   "Location de casier",
+   "Boissons alcoolisées",
+   "Pourboires"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

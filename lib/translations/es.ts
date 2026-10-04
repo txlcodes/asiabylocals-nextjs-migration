@@ -44844,6 +44844,96 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "maya-bay-adventure-boat-tour": {
+  "title": "Aventura madrugadora en lancha rápida a Phi Phi y las cuatro islas",
+  "metaTitle": "Phi Phi madrugador y 4 islas en lancha rápida",
+  "metaDescription": "Salga de Ao Nang al amanecer para llegar a Maya Bay antes de las multitudes, haga snorkel en la laguna de Pileh y los arrecifes de Phi Phi, y termine con las cuatro islas clásicas de Krabi.",
+  "shortDescription": "Salga de Ao Nang al amanecer para llegar a Maya Bay antes de las multitudes, haga snorkel en la laguna de Pileh y los arrecifes de Phi Phi, y termine con las cuatro islas clásicas de Krabi.",
+  "fullDescription": "Phi Phi y las cuatro islas de Krabi en un solo día en lancha rápida, programado para que Maya Bay llegue antes de la flota.\n\nMaya Bay es la razón de la salida temprana. La bahía cerró por completo en 2018 tras años de daños y reabrió en 2022 bajo condiciones estrictas: los barcos amarran en la parte trasera de Phi Phi Leh y los visitantes entran a pie a través de la isla, el baño dentro de la bahía está restringido, y el número diario de visitantes está limitado. Llegar primero significa entrar a pie en lugar de hacer cola, y ver la bahía más cerca de cómo luce en la película que la hizo famosa.\n\nLa laguna de Pileh viene después, un canal profundo de agua verde rodeado de acantilados por todos lados, después dos sistemas de arrecife distintos para hacer snorkel, más de lo que la mayoría de las excursiones a Phi Phi logran. El almuerzo es un buffet tailandés en Phi Phi Don, la isla habitada.\n\nEl trayecto de vuelta recoge las cuatro islas de Krabi, así que el día cubre tanto la famosa parada mar adentro como el circuito local. Eso es mucho terreno para nueve horas, y una lancha rápida es la única forma de hacerlo, con el inconveniente de que las lanchas rápidas golpean con fuerza en cualquier marejada.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye la recogida y el regreso al hotel en Ao Nang y la ciudad de Krabi, la lancha rápida con tripulación certificada, un guía de habla inglesa, almuerzo buffet tailandés, máscara de snorkel, aletas y chalecos salvavidas.\n\nLas tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario, así que lleve efectivo. Nueve horas, un día de aviso mínimo.",
+  "highlights": [
+   "Maya Bay antes de la flota de excursiones de un día",
+   "Reglas posteriores a 2022: a pie, número diario limitado",
+   "Laguna de Pileh, rodeada de acantilados por todos lados",
+   "Dos sistemas de arrecife distintos para hacer snorkel",
+   "Phi Phi y las cuatro islas de Krabi en un solo día"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Ao Nang y la ciudad de Krabi",
+   "Lancha rápida con tripulación certificada",
+   "Guía de habla inglesa",
+   "Almuerzo buffet tailandés",
+   "Máscara de snorkel, aletas y chaleco salvavidas",
+   "Refrescos, agua y fruta",
+   "Tarifas del parque nacional",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Bebidas alcohólicas",
+   "Toallas",
+   "Alquiler de cámara submarina",
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
+ "krabi-elephant-shelter-entry-ticket": {
+  "title": "Bañe y chapotee con elefantes rescatados cerca de la ciudad de Krabi",
+  "metaTitle": "Krabi: baño con elefantes rescatados",
+  "metaDescription": "Pase una sesión práctica lavando, chapoteando y nadando con elefantes rescatados en un refugio ético sin montar, guiado por sus propios cuidadores habituales.",
+  "shortDescription": "Pase una sesión práctica lavando, chapoteando y nadando con elefantes rescatados en un refugio ético sin montar, guiado por sus propios cuidadores habituales.",
+  "fullDescription": "Una breve visita cerca de la ciudad de Krabi pasada lavando elefantes rescatados, con sus cuidadores habituales en lugar de un equipo turístico rotativo.\n\nEl refugio acoge animales procedentes de campamentos de monta y trabajo de tala. Una hora y media es suficiente para la sesión de baño y las historias, y no suficiente para fingir que está haciendo labor de conservación, lo que es un planteamiento honesto en lugar de una carencia.\n\nSin montar, sin cadenas, sin espectáculos. Los elefantes entran al agua porque les gusta estar en ella, y usted entra con ellos con un cepillo.\n\nLo que hace que esto merezca la pena frente a un campamento más grande es que los cuidadores que trabajan con cada animal todos los días dirigen la sesión. Conocen las historias individuales: de qué campamento salió un elefante, cuáles son las lesiones, por qué uno se pone nervioso con ciertos sonidos. Esas historias son específicas en lugar de un guion, y son el verdadero contenido de la visita.\n\nUna advertencia honesta sobre el baño en general: algunos especialistas en bienestar animal argumentan que las sesiones de baño repetidas con desconocidos son en sí mismas una forma de espectáculo, y algunos de los santuarios más respetados de Tailandia las han dejado de ofrecer por esa razón. Este refugio las ofrece. Si eso le importa, un programa solo de observación y alimentación podría convenirle mejor, y existen justo en Krabi.\n\nSe proporciona ropa del refugio, una taquilla, duchas, una toalla y agua potable, así que puede llegar con ropa normal.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. Noventa minutos, un día de aviso mínimo.",
+  "highlights": [
+   "Elefantes rescatados, sin montar, cadenas ni espectáculos",
+   "Sesión dirigida por los cuidadores que trabajan con ellos diariamente",
+   "La historia de rescate de cada animal, no un guion",
+   "Ropa, taquilla, ducha y toalla proporcionadas",
+   "Nota honesta: algunos santuarios ahora evitan por completo las sesiones de baño"
+  ],
+  "included": [
+   "Entrada al refugio de elefantes de Krabi",
+   "Sesión de baño guiada con cuidadores",
+   "Ropa del refugio y taquilla",
+   "Instalaciones de ducha y toalla",
+   "Agua potable y fruta de temporada",
+   "Fotos tomadas durante la sesión",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Traslados de hotel a menos que se reserven por separado",
+   "Comidas",
+   "Propinas para los cuidadores",
+   "Gastos personales"
+  ]
+ },
+ "tiger-cave-temple-spiritual-tour": {
+  "title": "Excursión a la piscina Esmeralda, aguas termales y el templo de la cueva del Tigre",
+  "metaTitle": "Piscina Esmeralda, aguas termales, cueva del Tigre",
+  "metaDescription": "Nade en una piscina esmeralda alimentada por la selva, sumérjase en manantiales minerales cálidos y suba al santuario en la cima del acantilado del templo de la cueva del Tigre, en un día completo tierra adentro desde la costa.",
+  "shortDescription": "Nade en una piscina esmeralda alimentada por la selva, sumérjase en manantiales minerales cálidos y suba al santuario en la cima del acantilado del templo de la cueva del Tigre, en un día completo tierra adentro desde la costa.",
+  "fullDescription": "El interior de Krabi es un mundo distinto de sus playas: densa selva tropical de tierras bajas, agua cálida que brota a través de la caliza, y un templo posado sobre una aguja rocosa por encima de las copas de los árboles. Este día completo tierra adentro cubre las tres cosas, con un vehículo con aire acondicionado y un guía que conoce los senderos y el protocolo en el santuario.\n\nLa piscina Esmeralda se encuentra dentro de una reserva natural protegida, alimentada por un manantial termal que da al agua su sorprendente tono verde. Una corta pasarela por el bosque lleva hasta allí, y un sendero adicional continúa hasta la Laguna Azul, una cuenca más profunda y de color aún más vivo. Después se sumerge en la cascada natural de aguas termales, donde el agua mineral ha esculpido bañeras lisas en la roca.\n\nEl día termina en el templo de la cueva del Tigre, hogar de una comunidad de meditación en activo. Quienes tengan piernas fuertes pueden afrontar la famosa escalera hasta la cima; todos los demás exploran los terrenos sombreados del monasterio y las cuevas en la base.",
+  "highlights": [
+   "Nade en la piscina Esmeralda alimentada por la selva",
+   "Camine por el sendero del bosque hasta la Laguna Azul",
+   "Sumérjase en piscinas rocosas naturales de aguas termales",
+   "Vea el santuario en la cima del acantilado del templo de la cueva del Tigre",
+   "Transporte con aire acondicionado con un guía local"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Vehículo con aire acondicionado",
+   "Guía local de habla inglesa",
+   "Almuerzo tailandés",
+   "Tarifas de entrada a la reserva natural y las aguas termales",
+   "Agua potable",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Donativos al templo",
+   "Toallas",
+   "Alquiler de taquilla",
+   "Bebidas alcohólicas",
+   "Propinas"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

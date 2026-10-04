@@ -44843,6 +44843,96 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "maya-bay-adventure-boat-tour": {
+  "title": "Frühmorgen-Speedboot-Abenteuer zu Phi Phi und den vier Inseln",
+  "metaTitle": "Phi Phi früh am Morgen und 4 Inseln per Speedboot",
+  "metaDescription": "Fahren Sie bei Sonnenaufgang von Ao Nang ab, um Maya Bay vor den Menschenmassen zu erreichen, schnorcheln Sie in der Pileh-Lagune und den Phi-Phi-Riffen, und beenden Sie den Tag mit Krabis vier Insel-Klassikern.",
+  "shortDescription": "Fahren Sie bei Sonnenaufgang von Ao Nang ab, um Maya Bay vor den Menschenmassen zu erreichen, schnorcheln Sie in der Pileh-Lagune und den Phi-Phi-Riffen, und beenden Sie den Tag mit Krabis vier Insel-Klassikern.",
+  "fullDescription": "Phi Phi und die vier Krabi-Inseln an einem Speedboot-Tag, vorgezogen, sodass Maya Bay vor der Flotte kommt.\n\nMaya Bay ist der Grund für den frühen Start. Die Bucht war 2018 nach Jahren der Schädigung vollständig geschlossen und wurde 2022 unter strengen Bedingungen wieder eröffnet: Boote legen am hinteren Teil von Phi Phi Leh an, und Besucher gehen zu Fuß durch die Insel, Schwimmen innerhalb der Bucht ist eingeschränkt, und die tägliche Besucherzahl ist begrenzt. Als Erster anzukommen bedeutet, hineinzugehen statt anzustehen, und die Bucht näher an ihrem Aussehen im Film zu sehen, für den sie berühmt ist.\n\nDie Pileh-Lagune folgt, ein tiefer Kanal aus grünem Wasser, von Klippen auf allen Seiten eingeschlossen, dann zwei getrennte Riffsysteme zum Schnorcheln, mehr als die meisten Phi-Phi-Ausflüge schaffen. Mittagessen ist ein thailändisches Buffet auf Phi Phi Don, der bewohnten Insel.\n\nDie Rückfahrt nimmt Krabis vier Inseln mit, sodass der Tag sowohl den berühmten Offshore-Stopp als auch den lokalen Rundgang abdeckt. Das ist viel Boden für neun Stunden, und ein Speedboot ist der einzige Weg, dies zu tun, mit dem Nachteil, dass Speedboote in jedem Wellengang hart aufschlagen.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hotelabholung und -rückfahrt in Ao Nang und Krabi Town, das Speedboot mit zertifizierter Crew, einen englischsprachigen Guide, thailändisches Buffet-Mittagessen, Schnorchelmaske, Flossen und Schwimmwesten.\n\nNationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt, führen Sie also Bargeld mit. Neun Stunden, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Maya Bay vor der Tagesausflugsflotte",
+   "Regeln seit 2022: zu Fuß, begrenzte tägliche Besucherzahl",
+   "Pileh-Lagune, von Klippen auf allen Seiten umringt",
+   "Zwei getrennte Riffsysteme zum Schnorcheln",
+   "Phi Phi und Krabis vier Inseln an einem Tag"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Ao Nang und Krabi Town",
+   "Speedboot mit zertifizierter Crew",
+   "Englischsprachiger Guide",
+   "Thailändisches Buffet-Mittagessen",
+   "Schnorchelmaske, Flossen und Schwimmweste",
+   "Softdrinks, Wasser und Obst",
+   "Nationalpark-Gebühren",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke",
+   "Handtücher",
+   "Unterwasserkamera-Vermietung",
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "krabi-elephant-shelter-entry-ticket": {
+  "title": "Baden und Planschen mit geretteten Elefanten nahe Krabi Town",
+  "metaTitle": "Krabi: Baden mit geretteten Elefanten",
+  "metaDescription": "Verbringen Sie eine praktische Session beim Waschen, Planschen und Schwimmen mit geretteten Elefanten in einem ethischen Schutzgebiet ohne Reiten, geleitet von ihren eigenen regulären Pflegern.",
+  "shortDescription": "Verbringen Sie eine praktische Session beim Waschen, Planschen und Schwimmen mit geretteten Elefanten in einem ethischen Schutzgebiet ohne Reiten, geleitet von ihren eigenen regulären Pflegern.",
+  "fullDescription": "Ein kurzer Besuch nahe Krabi Town, verbracht mit dem Waschen geretteter Elefanten, mit ihren regulären Pflegern statt einer wechselnden Tourcrew.\n\nDas Schutzgebiet nimmt Tiere aus Reitcamps und Holzfällerarbeit auf. Neunzig Minuten reichen für die Badesession und die Geschichten, und reichen nicht aus, um vorzutäuschen, Naturschutzarbeit zu leisten, was eine ehrliche Einordnung ist statt eines Mangels.\n\nKein Reiten, keine Ketten, keine Vorführungen. Die Elefanten gehen ins Wasser, weil sie es gerne tun, und Sie gehen mit einer Bürste mit ihnen hinein.\n\nWas dies gegenüber einem größeren Camp lohnenswert macht, ist, dass die Pfleger, die täglich mit jedem Tier arbeiten, die Session leiten. Sie kennen die individuellen Geschichten: aus welchem Camp ein Elefant kam, welche Verletzungen es gibt, warum einer bei bestimmten Geräuschen nervös ist. Diese Geschichten sind spezifisch statt eines Skripts, und sie sind der eigentliche Inhalt des Besuchs.\n\nEin ehrlicher Vorbehalt zum Baden im Allgemeinen: Einige Tierschutzexperten argumentieren, dass wiederholte Bade-Sessions mit Fremden selbst eine Form der Vorführung sind, und einige der angesehensten Schutzgebiete in Thailand haben sie deshalb eingestellt. Dieses Schutzgebiet bietet sie an. Wenn Ihnen das wichtig ist, könnte ein reines Beobachtungs- und Fütterungsprogramm besser zu Ihnen passen, und es gibt solche genau in Krabi.\n\nSchutzgebiets-Kleidung, ein Schließfach, Duschen, ein Handtuch und Trinkwasser werden gestellt, sodass Sie in normaler Kleidung ankommen können.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Neunzig Minuten, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Gerettete Elefanten, kein Reiten, keine Ketten oder Vorführungen",
+   "Session geleitet von den Pflegern, die täglich mit ihnen arbeiten",
+   "Die Rettungsgeschichte jedes Tieres, kein Skript",
+   "Kleidung, Schließfach, Dusche und Handtuch gestellt",
+   "Ehrlicher Hinweis: manche Schutzgebiete vermeiden Bade-Sessions jetzt ganz"
+  ],
+  "included": [
+   "Eintritt ins Krabi-Elefantenschutzgebiet",
+   "Geführte Badesession mit Pflegern",
+   "Schutzgebiets-Kleidung und Schließfach",
+   "Duschmöglichkeiten und Handtuch",
+   "Trinkwasser und Saisonobst",
+   "Während der Session aufgenommene Fotos",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Hoteltransfers, sofern nicht separat gebucht",
+   "Mahlzeiten",
+   "Trinkgelder für die Pfleger",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "tiger-cave-temple-spiritual-tour": {
+  "title": "Ausflug zum Smaragdbecken, den heißen Quellen und dem Tigerhöhlentempel",
+  "metaTitle": "Smaragdbecken, heiße Quellen, Tigerhöhlentempel",
+  "metaDescription": "Schwimmen Sie in einem dschungelgespeisten Smaragdbecken, baden Sie in warmen Mineralquellen und erklimmen Sie den Klippenschrein des Tigerhöhlentempels an einem ganzen Tag landeinwärts von der Küste.",
+  "shortDescription": "Schwimmen Sie in einem dschungelgespeisten Smaragdbecken, baden Sie in warmen Mineralquellen und erklimmen Sie den Klippenschrein des Tigerhöhlentempels an einem ganzen Tag landeinwärts von der Küste.",
+  "fullDescription": "Krabis Inneres ist eine andere Welt als seine Strände: dichter Tiefland-Regenwald, warmes Wasser, das durch Kalkstein aufsteigt, und ein Tempel, der auf einem Felsturm über den Baumkronen sitzt. Dieser ganze Tag landeinwärts deckt alle drei ab, mit einem klimatisierten Fahrzeug und einem Guide, der die Wanderpfade und die Etikette am Schrein kennt.\n\nDas Smaragdbecken liegt in einem geschützten Naturreservat, gespeist von einer heißen Quelle, die dem Wasser seine erstaunliche grüne Tönung gibt. Ein kurzer Waldsteg führt dorthin, und ein weiterer Pfad führt weiter zur Blauen Lagune, einem tieferen und noch lebendiger gefärbten Becken. Danach baden Sie im natürlichen heißen Quellenwasserfall, wo Mineralwasser glatte Badewannen in den Fels geschnitzt hat.\n\nDer Tag endet am Tigerhöhlentempel, Heimat einer aktiven Meditationsgemeinschaft. Diejenigen mit starken Beinen können die berühmte Treppe zum Gipfel in Angriff nehmen; alle anderen erkunden das schattige Klostergelände und die Höhlen an der Basis.",
+  "highlights": [
+   "Schwimmen Sie im dschungelgespeisten Smaragdbecken",
+   "Gehen Sie den Waldpfad zur Blauen Lagune",
+   "Baden Sie in natürlichen heißen Quellen-Felsbecken",
+   "Besuchen Sie den Klippenschrein am Tigerhöhlentempel",
+   "Klimatisierter Transport mit einem lokalen Guide"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt",
+   "Klimatisiertes Fahrzeug",
+   "Englischsprachiger lokaler Guide",
+   "Thailändisches Mittagessen",
+   "Eintrittsgebühren für Naturreservat und heiße Quelle",
+   "Trinkwasser",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Tempelspenden",
+   "Handtücher",
+   "Schließfachvermietung",
+   "Alkoholische Getränke",
+   "Trinkgelder"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
