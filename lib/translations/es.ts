@@ -44131,6 +44131,98 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "hong-island-sunset-tour": {
+  "title": "Isla de Hong y Ko Pak Bia con cena barbacoa al atardecer",
+  "metaTitle": "Isla de Hong y Ko Pak Bia, barbacoa al atardecer",
+  "metaDescription": "Nade y haga snorkel alrededor de la isla de Hong y los bancos de arena de Ko Pak Bia, después quédese para una cena barbacoa al atardecer y un baño nocturno con plancton brillante.",
+  "shortDescription": "Nade y haga snorkel alrededor de la isla de Hong y los bancos de arena de Ko Pak Bia, después quédese para una cena barbacoa al atardecer y un baño nocturno con plancton brillante.",
+  "fullDescription": "La isla de Hong a última hora de la tarde, cuando los barcos diurnos se han marchado y la laguna está tranquila.\n\nEl elemento central de Koh Hong es su laguna, una piscina casi cerrada de agua verde poco profunda rodeada de paredes calizas, accesible por una abertura a la que los barcos solo pueden entrar en ciertas mareas. Hacia última hora de la tarde, las líneas de amarre que la abarrotan al mediodía han desaparecido. Las bahías resguardadas alrededor de la isla son donde se practica el snorkel; el agua aquí permanece más tranquila que las travesías en mar abierto porque el grupo de islas bloquea el oleaje.\n\nKo Pak Bia es la otra parada, y apenas es una isla. Es un banco de arena bordeado de árboles cuya forma cambia con cada marea, así que la franja por la que camina no es la de la fotografía que vio. Ese es el atractivo en lugar de una decepción.\n\nLa barbacoa se cocina y se sirve mientras se pone el sol. La caliza conserva el color mucho después del atardecer, así que la buena luz dura mucho más de lo que se esperaría.\n\nLa excursión termina con un baño de plancton. Los dinoflagelados bioluminiscentes destellan cuando el agua a su alrededor se mueve, así que la luz aparece alrededor de sus manos y pies en lugar de sobre la superficie. Es genuinamente variable: las noches oscuras cercanas a una luna nueva lo muestran mejor, una luna llena lo diluye, y el agua agitada lo dispersa. Vale la pena preguntar sobre la fase lunar antes de fijar una fecha.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye la recogida y el regreso al hotel, el barco con tripulación y guía, equipo de snorkel, cena barbacoa, agua potable, refrescos y fruta, chalecos salvavidas y seguro.\n\nSeis a siete horas. Las tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario, así que lleve efectivo. Un día de aviso mínimo.",
+  "highlights": [
+   "Laguna de la isla de Hong después de que se marchan los barcos diurnos",
+   "Snorkel en las bahías resguardadas de la isla",
+   "Banco de arena de Ko Pak Bia, remodelado con cada marea",
+   "Cena barbacoa cocinada al atardecer",
+   "Baño de plancton, mejor en noches oscuras cercanas a una luna nueva"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Excursión en barco con tripulación y guía",
+   "Equipo de snorkel",
+   "Cena barbacoa",
+   "Agua potable, refrescos y fruta",
+   "Chalecos salvavidas",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada al parque nacional",
+   "Bebidas alcohólicas",
+   "Toallas",
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
+ "krabi-four-islands-separated-sea-longtail-trip": {
+  "title": "Excursión en barco longtail al Mar Separado y las cuatro islas",
+  "metaTitle": "Krabi: Mar Separado y 4 islas en longtail",
+  "metaDescription": "El día clásico de Krabi en barco longtail: el banco de arena del Mar Separado, cuatro playas de islas, un santuario en cueva bajo los acantilados, paradas de snorkel y almuerzo en la arena.",
+  "shortDescription": "El día clásico de Krabi en barco longtail: el banco de arena del Mar Separado, cuatro playas de islas, un santuario en cueva bajo los acantilados, paradas de snorkel y almuerzo en la arena.",
+  "fullDescription": "El día clásico de Krabi, realizado en barco longtail en lugar de lancha rápida, y programado alrededor de un banco de arena que solo existe durante parte del día.\n\nThale Waek, el Mar Separado, es una franja de arena que emerge con la marea baja y une las islas de Tup, Mor y del Pollo en una sola lengua transitable a pie. Con la marea alta, simplemente desaparece. Por eso esta excursión se programa según la tabla de mareas y no un horario de salida fijo, y por eso una fotografía de gente de pie en medio del mar es posible aquí.\n\nLa isla del Pollo debe su nombre a la formación rocosa en su punta, que parece una cabeza de pollo desde el ángulo correcto y nada en particular desde el incorrecto. El snorkel se practica sobre coral poco profundo justo frente a la playa. Phra Nang tiene el santuario en cueva, donde los pescadores dejan ofrendas talladas a un espíritu que creen que los protege en el mar, y es una de las mejores playas de Tailandia independientemente de eso. Tup y Poda son paradas de baño y descanso.\n\nEl longtail importa. Es más lento que una lancha rápida, es más ruidoso, y le lleva a aguas poco profundas de las que las lanchas rápidas tienen que anclar lejos. Ir con un capitán local también significa que la ruta se adapta al mar en lugar de seguir un horario fijo.\n\nEl precio incluye la recogida y el regreso al hotel, el longtail con un capitán local, un guía de habla inglesa, almuerzo, equipo de snorkel, agua potable, fruta, chalecos salvavidas y seguro. Las tarifas del parque nacional se cobran en el muelle, así que lleve efectivo. Su plaza queda retenida con el operador antes de que su reserva sea definitiva.\n\nSiete horas, recogida en Ao Nang o en la ciudad de Krabi, salida desde el muelle de Nopparat Thara. Un día de aviso mínimo.",
+  "highlights": [
+   "Camine por el banco de arena de Thale Waek, que solo aparece con marea baja",
+   "Salida programada según la marea, no un reloj fijo",
+   "Snorkel sobre coral poco profundo frente a la isla del Pollo",
+   "El santuario en cueva en la playa de Phra Nang",
+   "Longtail con un capitán local, almuerzo y equipo incluidos"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Barco longtail con capitán local",
+   "Guía de habla inglesa",
+   "Almuerzo",
+   "Equipo de snorkel",
+   "Agua potable y fruta",
+   "Chalecos salvavidas",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada al parque nacional",
+   "Toallas",
+   "Bebidas alcohólicas",
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
+ "phra-nang-cave-beach-afternoon-tour": {
+  "title": "Excursión en barco de la tarde a las cuatro islas con almuerzo buffet",
+  "metaTitle": "4 islas de Krabi por la tarde, almuerzo buffet",
+  "metaDescription": "Salga después de que la flota de la mañana regrese a casa y vea las cuatro islas de Krabi en su momento más tranquilo, con snorkel, almuerzo buffet y luz de tarde más suave.",
+  "shortDescription": "Salga después de que la flota de la mañana regrese a casa y vea las cuatro islas de Krabi en su momento más tranquilo, con snorkel, almuerzo buffet y luz de tarde más suave.",
+  "fullDescription": "El circuito de las cuatro islas en barco longtail, saliendo después del almuerzo para que llegue mientras todos los demás se marchan.\n\nLos barcos de la mañana salen todos de Ao Nang dentro de la misma hora y llegan a las mismas playas juntos. La salida de la tarde invierte eso. Para cuando llega a las paradas posteriores, la flota amarrada se ha ido, y Poda y Phra Nang están en su momento más tranquilo del día.\n\nEl banco de arena de Thale Waek está programado para funcionar a su favor. El Mar Separado es una franja de arena que une las islas de Tup, Mor y del Pollo que emerge cuando baja la marea y desaparece cuando sube, así que una excursión de tarde con marea bajando camina sobre arena que estaba bajo el agua cuando los barcos de la mañana pasaron por allí.\n\nLa isla del Pollo ofrece el snorkel: coral poco profundo justo frente a la playa, lo bastante cerca para no necesitar ser un nadador fuerte para verlo. La playa de la cueva de Phra Nang está bajo un acantilado en saliente en la península de Railay, con el santuario en un extremo donde los pescadores dejan ofrendas de madera talladas a un espíritu que creen que los protege en el mar. El santuario sigue en uso, así que vale la pena ser discreto con las fotografías.\n\nEl longtail es más lento y ruidoso que una lancha rápida y alcanza aguas poco profundas de las que una lancha rápida tiene que anclar lejos, lo que en esta ruta es precisamente el intercambio deseado.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye traslados de ida y vuelta al hotel, el longtail con guía, almuerzo buffet, máscara de snorkel y aletas, agua potable y refrescos, fruta fresca, chalecos salvavidas y seguro.\n\nSeis horas. Las tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario, así que lleve efectivo. Un día de aviso mínimo.",
+  "highlights": [
+   "Salida tardía que evita la flota de la mañana",
+   "Camine por el banco de arena de Thale Waek mientras baja la marea",
+   "Snorkel sobre coral poco profundo junto a la isla del Pollo",
+   "Playa de la cueva de Phra Nang y su santuario en activo",
+   "El longtail alcanza aguas de las que las lanchas rápidas anclan lejos"
+  ],
+  "included": [
+   "Traslados de ida y vuelta al hotel",
+   "Barco longtail con guía",
+   "Almuerzo buffet",
+   "Máscara de snorkel y aletas",
+   "Agua potable y refrescos",
+   "Fruta fresca",
+   "Chalecos salvavidas",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada al parque nacional",
+   "Toallas",
+   "Bebidas alcohólicas",
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

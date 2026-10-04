@@ -44131,6 +44131,98 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "hong-island-sunset-tour": {
+  "title": "Île de Hong et Ko Pak Bia avec dîner barbecue au coucher du soleil",
+  "metaTitle": "Île de Hong et Ko Pak Bia, dîner barbecue au coucher du soleil",
+  "metaDescription": "Baignez-vous et plongez avec tuba autour de l'île de Hong et des bancs de sable de Ko Pak Bia, puis restez pour un dîner barbecue au coucher du soleil et une baignade nocturne avec du plancton lumineux.",
+  "shortDescription": "Baignez-vous et plongez avec tuba autour de l'île de Hong et des bancs de sable de Ko Pak Bia, puis restez pour un dîner barbecue au coucher du soleil et une baignade nocturne avec du plancton lumineux.",
+  "fullDescription": "L'île de Hong en fin d'après-midi, quand les bateaux de la journée sont partis et que le lagon est calme.\n\nLa pièce maîtresse de Koh Hong est son lagon, un bassin presque clos d'eau verte peu profonde ceinturé de parois calcaires, accessible par une ouverture que les bateaux ne peuvent franchir qu'à certaines marées. En fin d'après-midi, les lignes d'ancrage qui l'encombrent à midi ont disparu. Les baies abritées autour de l'île sont là où se fait la plongée avec tuba ; l'eau y reste plus calme que les traversées en pleine mer car le groupe d'îles bloque la houle.\n\nKo Pak Bia est l'autre arrêt, et c'est à peine une île. C'est un banc de sable bordé d'arbres dont la forme change à chaque marée, donc la bande sur laquelle vous marchez n'est pas celle de la photo que vous avez vue. C'est l'attrait plutôt qu'une déception.\n\nLe barbecue est cuisiné et servi tandis que le soleil se couche. Le calcaire conserve sa couleur longtemps après le coucher du soleil, donc la belle lumière dure bien plus longtemps qu'on ne l'attendrait.\n\nL'excursion se termine par une baignade dans le plancton. Les dinoflagellés bioluminescents s'illuminent quand l'eau autour d'eux bouge, donc la lumière apparaît autour de vos mains et de vos pieds plutôt qu'à la surface. C'est réellement variable : les nuits sombres proches d'une nouvelle lune la montrent le mieux, une pleine lune l'atténue, et une mer agitée la disperse. Il vaut la peine de se renseigner sur la phase de la lune avant de fixer une date.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la prise en charge et le retour à l'hôtel, le bateau avec équipage et guide, l'équipement de plongée avec tuba, le dîner barbecue, l'eau potable, les boissons non alcoolisées et les fruits, les gilets de sauvetage et une assurance.\n\nSix à sept heures. Les frais de parc national sont perçus à la jetée sauf confirmation contraire, prévoyez donc des espèces. Un jour de préavis minimum.",
+  "highlights": [
+   "Lagon de l'île de Hong une fois les bateaux de la journée partis",
+   "Plongée avec tuba dans les baies abritées de l'île",
+   "Banc de sable de Ko Pak Bia, remodelé à chaque marée",
+   "Dîner barbecue cuisiné au coucher du soleil",
+   "Baignade dans le plancton, idéale les nuits sombres proches d'une nouvelle lune"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Excursion en bateau avec équipage et guide",
+   "Équipement de plongée avec tuba",
+   "Dîner barbecue",
+   "Eau potable, boissons non alcoolisées et fruits",
+   "Gilets de sauvetage",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Frais d'entrée du parc national",
+   "Boissons alcoolisées",
+   "Serviettes",
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
+ "krabi-four-islands-separated-sea-longtail-trip": {
+  "title": "Excursion en bateau à longue queue vers la Mer Séparée et les quatre îles",
+  "metaTitle": "Krabi : Mer Séparée et 4 îles en longtail",
+  "metaDescription": "Journée classique de Krabi en bateau à longue queue : le banc de sable de la Mer Séparée, quatre plages insulaires, un sanctuaire en grotte sous les falaises, des arrêts de plongée avec tuba et un déjeuner sur le sable.",
+  "shortDescription": "Journée classique de Krabi en bateau à longue queue : le banc de sable de la Mer Séparée, quatre plages insulaires, un sanctuaire en grotte sous les falaises, des arrêts de plongée avec tuba et un déjeuner sur le sable.",
+  "fullDescription": "La journée classique de Krabi, effectuée en bateau à longue queue plutôt qu'en hors-bord, et calée sur un banc de sable qui n'existe qu'une partie de la journée.\n\nThale Waek, la Mer Séparée, est une bande de sable qui émerge à marée basse et relie les îles de Tup, Mor et du Poulet en une seule langue praticable à pied. À marée haute, elle disparaît simplement. C'est pourquoi cette excursion est programmée selon le tableau des marées et non un horaire de départ fixe, et pourquoi une photo de gens debout au milieu de la mer est même possible ici.\n\nL'île du Poulet doit son nom à la formation rocheuse à sa pointe, qui ressemble à une tête de poulet sous le bon angle et à rien de particulier sous le mauvais. La plongée avec tuba se fait sur des coraux peu profonds juste au large de la plage. Phra Nang possède le sanctuaire en grotte, où les pêcheurs laissent des offrandes sculptées à un esprit censé les protéger en mer, et c'est l'une des meilleures plages de Thaïlande indépendamment de cela. Tup et Poda sont des arrêts de baignade et de détente.\n\nLe bateau à longue queue compte. Il est plus lent qu'un hors-bord, plus bruyant, et il vous mène dans des eaux peu profondes dont les hors-bords doivent s'ancrer à l'écart. Partir avec un capitaine local signifie aussi que le circuit s'adapte à la mer plutôt que de suivre un horaire rigide.\n\nLe prix comprend la prise en charge et le retour à l'hôtel, le longtail avec un capitaine local, un guide anglophone, le déjeuner, l'équipement de plongée avec tuba, l'eau potable, les fruits, les gilets de sauvetage et une assurance. Les frais de parc national sont perçus à la jetée, prévoyez donc des espèces. Votre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive.\n\nSept heures, prise en charge à Ao Nang ou en ville de Krabi, départ de la jetée de Nopparat Thara. Un jour de préavis minimum.",
+  "highlights": [
+   "Marchez sur le banc de sable de Thale Waek, visible uniquement à marée basse",
+   "Départ calé sur la marée, pas sur une horloge fixe",
+   "Plongée avec tuba sur des coraux peu profonds au large de l'île du Poulet",
+   "Le sanctuaire en grotte à la plage de Phra Nang",
+   "Longtail avec un capitaine local, déjeuner et équipement compris"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Bateau à longue queue avec capitaine local",
+   "Guide anglophone",
+   "Déjeuner",
+   "Équipement de plongée avec tuba",
+   "Eau potable et fruits",
+   "Gilets de sauvetage",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Frais d'entrée du parc national",
+   "Serviettes",
+   "Boissons alcoolisées",
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
+ "phra-nang-cave-beach-afternoon-tour": {
+  "title": "Excursion en bateau de l'après-midi aux quatre îles avec déjeuner buffet",
+  "metaTitle": "4 îles de Krabi en après-midi, déjeuner buffet",
+  "metaDescription": "Partez après le départ de la flotte matinale et découvrez les quatre îles de Krabi à leur moment le plus tranquille, avec plongée avec tuba, déjeuner buffet et lumière d'après-midi plus douce.",
+  "shortDescription": "Partez après le départ de la flotte matinale et découvrez les quatre îles de Krabi à leur moment le plus tranquille, avec plongée avec tuba, déjeuner buffet et lumière d'après-midi plus douce.",
+  "fullDescription": "Le circuit des quatre îles en bateau à longue queue, partant après le déjeuner pour que vous arriviez tandis que tout le monde s'en va.\n\nLes bateaux du matin quittent tous Ao Nang dans la même heure et atteignent les mêmes plages ensemble. Le départ de l'après-midi inverse cela. Au moment où vous atteignez les derniers arrêts, la flotte amarrée est partie, et Poda et Phra Nang sont au plus tranquille de leur journée.\n\nLe banc de sable de Thale Waek est calé pour jouer en votre faveur. La Mer Séparée est une bande de sable reliant les îles de Tup, Mor et du Poulet qui émerge à mesure que la marée descend et disparaît à mesure qu'elle monte, donc une excursion d'après-midi à marée descendante marche sur du sable qui était sous l'eau quand les bateaux du matin l'ont survolé.\n\nL'île du Poulet offre la plongée avec tuba : des coraux peu profonds juste au large de la plage, assez proches pour ne pas nécessiter d'être un bon nageur pour les voir. La plage de la grotte de Phra Nang se trouve sous une falaise en surplomb sur la péninsule de Railay, avec le sanctuaire à une extrémité où les pêcheurs laissent des offrandes en bois sculpté à un esprit qu'ils croient les protéger en mer. Le sanctuaire est toujours en usage, donc il vaut la peine d'être discret avec les photos.\n\nLe bateau à longue queue est plus lent et plus bruyant qu'un hors-bord et atteint des eaux peu profondes dont un hors-bord doit s'ancrer à l'écart, ce qui sur ce circuit est précisément l'échange souhaité.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend les transferts aller-retour à l'hôtel, le longtail avec guide, le déjeuner buffet, le masque de plongée avec tuba et les palmes, l'eau potable et les boissons non alcoolisées, les fruits frais, les gilets de sauvetage et une assurance.\n\nSix heures. Les frais de parc national sont perçus à la jetée sauf confirmation contraire, prévoyez donc des espèces. Un jour de préavis minimum.",
+  "highlights": [
+   "Départ tardif qui évite la flotte matinale",
+   "Marchez sur le banc de sable de Thale Waek à marée descendante",
+   "Plongée avec tuba sur des coraux peu profonds à côté de l'île du Poulet",
+   "Plage de la grotte de Phra Nang et son sanctuaire encore en usage",
+   "Le longtail atteint des eaux dont les hors-bords s'ancrent à l'écart"
+  ],
+  "included": [
+   "Transferts aller-retour à l'hôtel",
+   "Bateau à longue queue avec guide",
+   "Déjeuner buffet",
+   "Masque de plongée avec tuba et palmes",
+   "Eau potable et boissons non alcoolisées",
+   "Fruits frais",
+   "Gilets de sauvetage",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Frais d'entrée du parc national",
+   "Serviettes",
+   "Boissons alcoolisées",
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

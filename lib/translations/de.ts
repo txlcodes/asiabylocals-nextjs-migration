@@ -44130,6 +44130,98 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "hong-island-sunset-tour": {
+  "title": "Insel Hong und Ko Pak Bia mit Barbecue-Abendessen zum Sonnenuntergang",
+  "metaTitle": "Insel Hong und Ko Pak Bia, Barbecue zum Sonnenuntergang",
+  "metaDescription": "Schwimmen und schnorcheln Sie rund um die Insel Hong und die Sandbänke von Ko Pak Bia, bleiben Sie dann für ein Barbecue-Abendessen bei Sonnenuntergang und ein Nachtschwimmen mit leuchtendem Plankton.",
+  "shortDescription": "Schwimmen und schnorcheln Sie rund um die Insel Hong und die Sandbänke von Ko Pak Bia, bleiben Sie dann für ein Barbecue-Abendessen bei Sonnenuntergang und ein Nachtschwimmen mit leuchtendem Plankton.",
+  "fullDescription": "Die Insel Hong am späten Nachmittag, wenn die Tagesboote abgefahren sind und die Lagune ruhig ist.\n\nKoh Hongs Herzstück ist seine Lagune, ein nahezu geschlossenes Becken aus flachem grünem Wasser, umringt von Kalksteinwänden, erreichbar durch eine Lücke, die Boote nur bei bestimmten Gezeiten befahren können. Am späten Nachmittag sind die Ankerleinen, die sie zur Mittagszeit überfüllen, verschwunden. Die geschützten Buchten rund um die Insel sind der Ort, an dem das Schnorcheln stattfindet; das Wasser hier bleibt ruhiger als die offenen Überfahrten, weil die Inselgruppe die Dünung blockiert.\n\nKo Pak Bia ist der andere Stopp, und er ist kaum eine Insel. Es ist eine Sandbank mit einem Bäumesaum, deren Form sich mit jeder Flut ändert, sodass der Streifen, auf dem Sie gehen, nicht der ist, den Sie auf dem Foto gesehen haben. Das ist der Reiz statt einer Enttäuschung.\n\nDas Barbecue wird gekocht und serviert, während die Sonne untergeht. Kalkstein hält die Farbe lange nach Sonnenuntergang, daher hält das gute Licht weit über den Punkt hinaus, an dem man es erwarten würde.\n\nDer Ausflug schließt mit einem Plankton-Schwimmen. Biolumineszente Dinoflagellaten blitzen auf, wenn sich das Wasser um sie herum bewegt, sodass das Licht um Ihre Hände und Füße erscheint statt über der Oberfläche. Es ist wirklich unterschiedlich: dunkle Nächte nahe einem Neumond zeigen es am besten, ein Vollmond schwemmt es aus, und welliges Wasser verteilt es. Es lohnt sich, nach der Mondphase zu fragen, bevor man ein Datum festlegt.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hotelabholung und -rückfahrt, das Boot mit Crew und Guide, Schnorchelausrüstung, Barbecue-Abendessen, Trinkwasser, Softdrinks und Obst, Schwimmwesten und Versicherung.\n\nSechs bis sieben Stunden. Nationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt, führen Sie also Bargeld mit. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Lagune der Insel Hong, nachdem die Tagesboote abgefahren sind",
+   "Schnorcheln in den geschützten Buchten der Insel",
+   "Sandbank von Ko Pak Bia, von jeder Flut neu geformt",
+   "Barbecue-Abendessen bei Sonnenuntergang gekocht",
+   "Plankton-Schwimmen, am besten in dunklen Nächten nahe einem Neumond"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt",
+   "Bootsfahrt mit Crew und Guide",
+   "Schnorchelausrüstung",
+   "Barbecue-Abendessen",
+   "Trinkwasser, Softdrinks und Obst",
+   "Schwimmwesten",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittsgebühr",
+   "Alkoholische Getränke",
+   "Handtücher",
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "krabi-four-islands-separated-sea-longtail-trip": {
+  "title": "Longtail-Ausflug zum geteilten Meer und den vier Inseln",
+  "metaTitle": "Krabi: geteiltes Meer und 4 Inseln per Longtail",
+  "metaDescription": "Klassischer Krabi-Tag per Longtail-Boot: die Sandbank des geteilten Meeres, vier Inselstrände, ein Höhlenschrein unter den Klippen, Schnorchelstopps und Mittagessen im Sand.",
+  "shortDescription": "Klassischer Krabi-Tag per Longtail-Boot: die Sandbank des geteilten Meeres, vier Inselstrände, ein Höhlenschrein unter den Klippen, Schnorchelstopps und Mittagessen im Sand.",
+  "fullDescription": "Der klassische Krabi-Tag, per Longtail-Boot statt Speedboot durchgeführt, und abgestimmt auf eine Sandbank, die nur für einen Teil des Tages existiert.\n\nThale Waek, das geteilte Meer, ist ein Sandstreifen, der bei Niedrigwasser auftaucht und die Inseln Tup, Mor und Chicken zu einer begehbaren Landzunge verbindet. Bei Hochwasser ist er einfach weg. Deshalb wird dieser Ausflug nach dem Gezeitenkalender geplant und nicht nach einer festen Abfahrtszeit, und deshalb ist hier überhaupt ein Foto möglich, auf dem Leute mitten im Meer stehen.\n\nChicken Island ist nach der Felsformation an seiner Spitze benannt, die aus dem richtigen Winkel wie ein Hühnerkopf aussieht und aus dem falschen wie kaum etwas Besonderes. Das Schnorcheln findet über flachen Korallen direkt vor dem Strand statt. Phra Nang hat den Höhlenschrein, an dem Fischer geschnitzte Opfergaben für einen Geist hinterlassen, der sie angeblich auf See schützt, und unabhängig davon ist er einer der besseren Strände Thailands. Tup und Poda sind Schwimm- und Liegestopps.\n\nDas Longtail-Boot zählt. Es ist langsamer als ein Speedboot, lauter, und es bringt Sie in flaches Wasser, von dem Speedboote weit entfernt ankern müssen. Mit einem lokalen Kapitän zu fahren bedeutet auch, dass sich die Route dem Meer anpasst, statt an einem Zeitplan festzuhalten.\n\nDer Preis umfasst Hotelabholung und -rückfahrt, das Longtail-Boot mit einem lokalen Kapitän, einen englischsprachigen Guide, Mittagessen, Schnorchelausrüstung, Trinkwasser, Obst, Schwimmwesten und Versicherung. Nationalpark-Gebühren werden am Pier erhoben, führen Sie also Bargeld mit. Ihr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist.\n\nSieben Stunden, Abholung in Ao Nang oder Krabi Town, Abfahrt vom Nopparat-Thara-Pier. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Begehen Sie die Thale-Waek-Sandbank, die nur bei Niedrigwasser erscheint",
+   "Abfahrt nach der Flut getaktet, nicht nach einer festen Uhrzeit",
+   "Schnorcheln über flachen Korallen vor Chicken Island",
+   "Der Höhlenschrein am Phra-Nang-Strand",
+   "Longtail mit lokalem Kapitän, Mittagessen und Ausrüstung inklusive"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt",
+   "Longtail-Boot mit lokalem Kapitän",
+   "Englischsprachiger Guide",
+   "Mittagessen",
+   "Schnorchelausrüstung",
+   "Trinkwasser und Obst",
+   "Schwimmwesten",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittsgebühr",
+   "Handtücher",
+   "Alkoholische Getränke",
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "phra-nang-cave-beach-afternoon-tour": {
+  "title": "Nachmittags-Bootsausflug zu den vier Inseln mit Buffet-Mittagessen",
+  "metaTitle": "4 Inseln Krabi am Nachmittag, Buffet-Mittagessen",
+  "metaDescription": "Fahren Sie ab, nachdem die Morgenflotte heimgekehrt ist, und erleben Sie Krabis vier Inseln zu ihrer ruhigsten Zeit, mit Schnorcheln, Buffet-Mittagessen und sanfterem Nachmittagslicht.",
+  "shortDescription": "Fahren Sie ab, nachdem die Morgenflotte heimgekehrt ist, und erleben Sie Krabis vier Inseln zu ihrer ruhigsten Zeit, mit Schnorcheln, Buffet-Mittagessen und sanfterem Nachmittagslicht.",
+  "fullDescription": "Der Vier-Insel-Rundgang per Longtail-Boot, der nach dem Mittagessen abfährt, sodass Sie ankommen, während alle anderen gehen.\n\nMorgenboote verlassen Ao Nang alle innerhalb derselben Stunde und erreichen dieselben Strände zusammen. Die Nachmittagsabfahrt kehrt das um. Wenn Sie die späteren Stopps erreichen, ist die ankernde Flotte abgefahren, und Poda und Phra Nang sind zur ruhigsten Zeit ihres Tages.\n\nDie Thale-Waek-Sandbank ist so getaktet, dass sie zu Ihren Gunsten funktioniert. Das geteilte Meer ist ein Sandstreifen, der die Inseln Tup, Mor und Chicken verbindet, bei fallender Flut auftaucht und bei steigender Flut verschwindet, sodass ein Nachmittagsausflug bei fallender Flut auf Sand hinausgeht, der unter Wasser war, als die Morgenboote daran vorbeifuhren.\n\nChicken Island bietet das Schnorcheln: flache Korallen direkt vor dem Strand, nah genug, dass man kein starker Schwimmer sein muss, um sie zu sehen. Der Phra-Nang-Höhlenstrand liegt unter einer überhängenden Klippe auf der Railay-Halbinsel, mit dem Schrein an einem Ende, an dem Fischer geschnitzte Holzopfer für einen Geist hinterlassen, den sie für ihren Schutz auf See verantwortlich machen. Der Schrein wird noch genutzt, daher lohnt es sich, bei Fotos zurückhaltend zu sein.\n\nDas Longtail-Boot ist langsamer und lauter als ein Speedboot und erreicht flaches Wasser, von dem ein Speedboot weit entfernt ankern muss, was auf dieser Route genau der gewünschte Tausch ist.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hin- und Rück-Hoteltransfers, das Longtail-Boot mit Guide, Buffet-Mittagessen, Schnorchelmaske und Flossen, Trinkwasser und Softdrinks, frisches Obst, Schwimmwesten und Versicherung.\n\nSechs Stunden. Nationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt, führen Sie also Bargeld mit. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Späte Abfahrt, die die Morgenflotte verpasst",
+   "Begehen Sie die Thale-Waek-Sandbank bei fallender Flut",
+   "Schnorcheln über flachen Korallen neben Chicken Island",
+   "Phra-Nang-Höhlenstrand und sein aktiv genutzter Schrein",
+   "Longtail-Boot erreicht Wasser, von dem Speedboote fern ankern"
+  ],
+  "included": [
+   "Hin- und Rück-Hoteltransfers",
+   "Longtail-Boot mit Guide",
+   "Buffet-Mittagessen",
+   "Schnorchelmaske und Flossen",
+   "Trinkwasser und Softdrinks",
+   "Frisches Obst",
+   "Schwimmwesten",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittsgebühr",
+   "Handtücher",
+   "Alkoholische Getränke",
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
