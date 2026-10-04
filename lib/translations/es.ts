@@ -45733,6 +45733,95 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "bangkok-tuk-tuk-chinatown-street-food-temple-night-tour": {
+  "title": "Bangkok: tour nocturno en tuk-tuk, comida callejera del barrio chino y ruta de templos",
+  "metaTitle": "Bangkok: tuk-tuk nocturno y barrio chino",
+  "metaDescription": "Recorra el vibrante barrio chino de Bangkok en tuk-tuk, probando comida callejera recomendada por Michelin, visitando un templo escondido con el Buda de oro macizo más grande del mundo, y explorando el mercado de flores después del anochecer. Una noche inolvidable en Bangkok.",
+  "shortDescription": "Recorra el vibrante barrio chino de Bangkok en tuk-tuk, probando comida callejera recomendada por Michelin, visitando un templo escondido con el Buda de oro macizo más grande del mundo, y explorando el mercado de flores después del anochecer. Una noche inolvidable en Bangkok.",
+  "fullDescription": "Experimente el barrio más electrizante de Bangkok después del anochecer, el barrio chino (calle Yaowarat), en tuk-tuk con un guía local que conoce cada callejón y cada puesto de comida que vale la pena visitar.\n\nSu noche comienza con un paseo en tuk-tuk por las calles iluminadas con neón de Yaowarat, el barrio más antiguo y con más ambiente de Bangkok. La energía después del anochecer es increíble, cientos de puestos de comida callejera se encienden, los vendedores chino-tailandeses compiten por clientes, y los estrechos sois (callejones) bullen de lugareños cenando.\n\nSu guía lo lleva a sus paradas gastronómicas favoritas, piense en mariscos recién asados, cerdo char siu, arroz pegajoso con mango, pad thai al estilo tailandés cocinado sobre carbón, y roti crujiente con leche condensada. Varias paradas están recomendadas por el Bib Gourmand de Michelin. Comerá a través de 5-6 degustaciones durante la noche.\n\nEntre las paradas gastronómicas, visite Wat Traimit, hogar de la estatua de Buda de oro macizo más grande del mundo, con un peso de 5,5 toneladas. El templo está menos concurrido por la noche y la estatua dorada es impresionante bajo la iluminación nocturna.\n\nEl tour también lo lleva a Pak Khlong Talat, el famoso mercado de flores de 24 horas de Bangkok, donde montañas de jazmín, orquídeas y caléndulas se clasifican y empaquetan para las entregas de la mañana siguiente.\n\nLos paseos en tuk-tuk entre paradas son la mitad de la diversión, sorteando el tráfico con el aire cálido de la noche y los neones del barrio chino reflejándose por todas partes.",
+  "highlights": [
+   "Recorra el barrio chino iluminado con neón de Bangkok en tuk-tuk por la noche",
+   "Pruebe 5-6 platos de comida callejera recomendados por Michelin con un guía local",
+   "Visite la estatua de Buda de oro macizo más grande del mundo en Wat Traimit",
+   "Explore el mercado de flores de 24 horas de Bangkok (Pak Khlong Talat)",
+   "Grupo pequeño para una experiencia personal y local",
+   "Cancelación gratuita hasta 24 horas antes"
+  ],
+  "included": [
+   "Todo el transporte en tuk-tuk durante el tour",
+   "Guía gastronómico local de habla inglesa",
+   "5-6 degustaciones de comida callejera",
+   "Entrada al templo Wat Traimit",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel (encuentro en el punto designado)",
+   "Comida o bebidas adicionales más allá de las degustaciones incluidas",
+   "Gastos personales",
+   "Propinas para el guía (opcional)"
+  ]
+ },
+ "bangkok-death-railway-bridge-river-kwai-hellfire-pass": {
+  "title": "Desde Bangkok: ferrocarril de la muerte, puente sobre el río Kwai y Hellfire Pass, tour de día completo",
+  "metaTitle": "Ferrocarril de la muerte y río Kwai",
+  "metaDescription": "Un poderoso tour de día completo desde Bangkok a Kanchanaburi, recorra el histórico ferrocarril de la muerte, camine por el inquietante memorial de Hellfire Pass, cruce el puente sobre el río Kwai, y rinda homenaje en el cementerio de guerra aliado. Almuerzo y transporte al hotel incluidos.",
+  "shortDescription": "Un poderoso tour de día completo desde Bangkok a Kanchanaburi, recorra el histórico ferrocarril de la muerte, camine por el inquietante memorial de Hellfire Pass, cruce el puente sobre el río Kwai, y rinda homenaje en el cementerio de guerra aliado. Almuerzo y transporte al hotel incluidos.",
+  "fullDescription": "Este tour de día completo lo lleva de Bangkok a la provincia de Kanchanaburi para un viaje inolvidable a través de uno de los capítulos más significativos y conmovedores de la Segunda Guerra Mundial, el ferrocarril de la muerte Tailandia-Birmania.\n\nConstruido por prisioneros de guerra aliados y trabajadores forzados asiáticos bajo la ocupación japonesa, el ferrocarril costó un estimado de 100.000 vidas durante su construcción. Hoy, quedan secciones de la vía original y puede recorrerlas.\n\nSu día comienza con la recogida en el hotel en Bangkok y un trayecto de 2,5 horas hacia el oeste hasta Kanchanaburi. La primera parada es el Museo Memorial de Hellfire Pass y el sendero para caminar, construido por el gobierno australiano. El museo narra la historia de la construcción del ferrocarril a través de testimonios de primera mano, fotografías y artefactos. El sendero sigue el corte real donde los prisioneros excavaron la roca a mano, el nombre \"Hellfire Pass\" proviene del inquietante brillo de las antorchas mientras los hombres trabajaban durante la noche.\n\nA continuación, visite el cementerio de guerra aliado (Cementerio de Guerra de Kanchanaburi), el lugar de descanso de casi 7.000 prisioneros de guerra aliados. Es un sitio hermosamente mantenido y profundamente conmovedor.\n\nDespués de un almuerzo tailandés en un restaurante junto al río, recorrerá una sección del propio ferrocarril de la muerte original. El tren cruza el dramático viaducto de Wampo, un puente de caballetes de madera que se aferra al acantilado sobre el río, una de las secciones ferroviarias más fotografiadas del sudeste asiático.\n\nLa última parada es el famoso puente sobre el río Kwai. Camine por el puente, aprenda su historia de su guía, y disfrute de las vistas. Regreso a Bangkok a primera hora de la noche.",
+  "highlights": [
+   "Recorra una sección del ferrocarril de la muerte original de la Segunda Guerra Mundial a través del dramático viaducto de Wampo",
+   "Camine por Hellfire Pass, el inquietante corte excavado por prisioneros de guerra con herramientas manuales",
+   "Visite el Museo Memorial de Hellfire Pass (construido por el gobierno australiano)",
+   "Rinda homenaje en el cementerio de guerra aliado con casi 7.000 tumbas de prisioneros de guerra",
+   "Camine por el famoso puente sobre el río Kwai",
+   "Almuerzo tailandés en un restaurante junto al río incluido",
+   "Recogida y regreso al hotel de ida y vuelta desde Bangkok"
+  ],
+  "included": [
+   "Transporte con aire acondicionado con recogida y regreso al hotel",
+   "Guía de habla inglesa",
+   "Paseo en tren por el ferrocarril de la muerte",
+   "Entrada al Museo Memorial de Hellfire Pass",
+   "Visita al cementerio de guerra aliado",
+   "Puente sobre el río Kwai",
+   "Almuerzo tailandés en un restaurante junto al río",
+   "Todas las tarifas de entrada",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Bebidas más allá del agua",
+   "Gastos personales y recuerdos",
+   "Propinas para el guía y el conductor (opcional)"
+  ]
+ },
+ "bangkok-ethical-elephant-sanctuary-day-trip": {
+  "title": "Excursión de día desde Bangkok: experiencia de santuario ético de elefantes en Chonburi",
+  "metaTitle": "Bangkok: santuario ético de elefantes, Chonburi",
+  "metaDescription": "Pase un día en un santuario ético de elefantes a solo 90 minutos de Bangkok. Alimente, bañe y camine junto a elefantes rescatados en un entorno de selva natural, sin montar, sin cadenas, sin espectáculos. Transporte de ida y vuelta desde su hotel en Bangkok incluido.",
+  "shortDescription": "Pase un día en un santuario ético de elefantes a solo 90 minutos de Bangkok. Alimente, bañe y camine junto a elefantes rescatados en un entorno de selva natural, sin montar, sin cadenas, sin espectáculos. Transporte de ida y vuelta desde su hotel en Bangkok incluido.",
+  "fullDescription": "Escápese de la ciudad por un día y conéctese con los gentiles gigantes de Tailandia en el operador local en la provincia de Chonburi, a solo 90 minutos del centro de Bangkok.\n\nEste es un santuario genuinamente ético, sin montar elefantes, sin cadenas, sin actuaciones. Los elefantes deambulan libremente en un entorno de selva exuberante y usted interactúa con ellos según sus términos. El santuario rescata elefantes de campamentos de tala y atracciones turísticas, dándoles un retiro pacífico.\n\nSu día comienza con la recogida en el hotel en Bangkok entre las 6:30 y las 7:30 AM. Después de llegar al santuario, se cambiará a ropa tradicional de mahout y conocerá a los elefantes. Camine junto a ellos por la selva, alimentelos a mano con bananas y caña de azúcar, y aprenda la historia de rescate de cada elefante de los cuidadores.\n\nEl punto culminante es bañar a los elefantes en la piscina de barro y el río, a ellos les encanta, y es una experiencia inolvidable ser salpicado por un elefante feliz. Después de lavarse, disfrute de un almuerzo tailandés preparado por el personal del santuario.\n\nLa tarde incluye más tiempo con los elefantes y una caminata por la naturaleza a través de la selva circundante. El transporte de regreso lo deja en su hotel de Bangkok a última hora de la tarde.",
+  "highlights": [
+   "Pase un día completo en un santuario ético de elefantes sin montar",
+   "Alimente, bañe y camine junto a elefantes rescatados en un entorno de selva natural",
+   "Recogida y regreso al hotel de ida y vuelta desde el centro de Bangkok incluido",
+   "Aprenda la historia de rescate de cada elefante de cuidadores expertos",
+   "Almuerzo tailandés en el santuario incluido",
+   "Solo a 90 minutos de Bangkok, excursión de día perfecta",
+   "Cancelación gratuita hasta 24 horas antes"
+  ],
+  "included": [
+   "Recogida y regreso al hotel de ida y vuelta (centro de Bangkok)",
+   "Todas las actividades del santuario (alimentación, baño, caminata con elefantes)",
+   "Ropa tradicional de mahout",
+   "Almuerzo tailandés y agua potable",
+   "Guía de habla inglesa y cuidadores de elefantes",
+   "Seguro de accidentes"
+  ],
+  "notIncluded": [
+   "Gastos personales y recuerdos",
+   "Propinas para el guía y los cuidadores (opcional)",
+   "Aperitivos o bebidas más allá de lo proporcionado"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

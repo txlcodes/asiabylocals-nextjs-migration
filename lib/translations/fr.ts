@@ -45733,6 +45733,95 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ]
  },
+ "bangkok-tuk-tuk-chinatown-street-food-temple-night-tour": {
+  "title": "Bangkok : visite nocturne en tuk-tuk, street food du quartier chinois et piste des temples",
+  "metaTitle": "Bangkok : tuk-tuk nocturne, Chinatown et temples",
+  "metaDescription": "Filez à travers le quartier chinois animé de Bangkok en tuk-tuk, dégustez de la street food recommandée par le Michelin, visitez un temple caché abritant le plus grand Bouddha en or massif du monde, et explorez le marché aux fleurs après la tombée de la nuit. Une soirée inoubliable à Bangkok.",
+  "shortDescription": "Filez à travers le quartier chinois animé de Bangkok en tuk-tuk, dégustez de la street food recommandée par le Michelin, visitez un temple caché abritant le plus grand Bouddha en or massif du monde, et explorez le marché aux fleurs après la tombée de la nuit. Une soirée inoubliable à Bangkok.",
+  "fullDescription": "Vivez le quartier le plus électrisant de Bangkok après la tombée de la nuit, le quartier chinois (rue Yaowarat), en tuk-tuk avec un guide local qui connaît chaque ruelle et chaque stand de nourriture qui vaut le détour.\n\nVotre soirée commence par un trajet en tuk-tuk à travers les rues illuminées au néon de Yaowarat, le quartier le plus ancien et le plus atmosphérique de Bangkok. L'énergie après la tombée de la nuit est incroyable, des centaines de stands de street food s'allument, les vendeurs sino-thaïlandais se disputent les clients, et les ruelles étroites (sois) bourdonnent de locaux dînant.\n\nVotre guide vous conduit à ses arrêts gastronomiques préférés, pensez fruits de mer grillés frais, porc char siu, riz gluant à la mangue, pad thaï cuit au charbon de bois à la thaïlandaise, et roti croustillant au lait concentré. Plusieurs arrêts sont recommandés par le Bib Gourmand du Michelin. Vous dégusterez 5 à 6 plats au cours de la soirée.\n\nEntre les arrêts gastronomiques, visitez Wat Traimit, abritant la plus grande statue de Bouddha en or massif du monde, pesant 5,5 tonnes. Le temple est moins fréquenté le soir et la statue dorée est éblouissante sous l'éclairage nocturne.\n\nLa visite vous emmène également à Pak Khlong Talat, le célèbre marché aux fleurs ouvert 24h/24 de Bangkok, où des montagnes de jasmin, d'orchidées et de soucis sont triées et préparées en bouquets pour les livraisons du lendemain matin.\n\nLes trajets en tuk-tuk entre les arrêts font partie du plaisir, se faufiler dans la circulation avec l'air chaud de la nuit et les néons du quartier chinois se reflétant partout.",
+  "highlights": [
+   "Filez à travers le quartier chinois illuminé au néon de Bangkok en tuk-tuk de nuit",
+   "Dégustez 5 à 6 plats de street food recommandés par le Michelin avec un guide local",
+   "Visitez la plus grande statue de Bouddha en or massif du monde à Wat Traimit",
+   "Explorez le marché aux fleurs 24h/24 de Bangkok (Pak Khlong Talat)",
+   "Petit groupe pour une expérience personnelle et locale",
+   "Annulation gratuite jusqu'à 24 heures à l'avance"
+  ],
+  "included": [
+   "Tout le transport en tuk-tuk pendant la visite",
+   "Guide culinaire local parlant anglais",
+   "5 à 6 dégustations de street food",
+   "Entrée au temple de Wat Traimit",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel (rendez-vous au point désigné)",
+   "Nourriture ou boissons supplémentaires au-delà des dégustations incluses",
+   "Dépenses personnelles",
+   "Pourboires pour le guide (facultatif)"
+  ]
+ },
+ "bangkok-death-railway-bridge-river-kwai-hellfire-pass": {
+  "title": "Depuis Bangkok : chemin de fer de la mort, pont sur la rivière Kwaï et Hellfire Pass, excursion d'une journée",
+  "metaTitle": "Chemin de fer de la mort et rivière Kwaï",
+  "metaDescription": "Une puissante excursion d'une journée complète depuis Bangkok jusqu'à Kanchanaburi : parcourez le chemin de fer de la mort historique, traversez le mémorial troublant de Hellfire Pass, franchissez le pont sur la rivière Kwaï, et rendez hommage au cimetière de guerre allié. Déjeuner et transport hôtelier inclus.",
+  "shortDescription": "Une puissante excursion d'une journée complète depuis Bangkok jusqu'à Kanchanaburi : parcourez le chemin de fer de la mort historique, traversez le mémorial troublant de Hellfire Pass, franchissez le pont sur la rivière Kwaï, et rendez hommage au cimetière de guerre allié. Déjeuner et transport hôtelier inclus.",
+  "fullDescription": "Cette excursion d'une journée complète vous emmène de Bangkok à la province de Kanchanaburi pour un voyage inoubliable à travers l'un des chapitres les plus significatifs et les plus poignants de la Seconde Guerre mondiale, le chemin de fer de la mort Thaïlande-Birmanie.\n\nConstruit par des prisonniers de guerre alliés et des travailleurs forcés asiatiques sous l'occupation japonaise, le chemin de fer a coûté environ 100 000 vies pendant sa construction. Aujourd'hui, des sections de la voie originale subsistent et vous pouvez les parcourir.\n\nVotre journée commence par une prise en charge à l'hôtel à Bangkok et un trajet de 2h30 vers l'ouest jusqu'à Kanchanaburi. Le premier arrêt est le musée mémorial et le sentier de randonnée de Hellfire Pass, construit par le gouvernement australien. Le musée raconte l'histoire de la construction du chemin de fer à travers des témoignages directs, des photographies et des artefacts. Le sentier de randonnée suit la véritable tranchée où les prisonniers ont creusé la roche à la main, le nom « Hellfire Pass » vient de la lueur inquiétante des torches alors que les hommes travaillaient toute la nuit.\n\nEnsuite, visitez le cimetière de guerre allié (cimetière de guerre de Kanchanaburi), le lieu de repos de près de 7 000 prisonniers de guerre alliés. C'est un site magnifiquement entretenu et profondément émouvant.\n\nAprès un déjeuner thaïlandais dans un restaurant au bord de la rivière, vous parcourrez une section du véritable chemin de fer de la mort original. Le train traverse le spectaculaire viaduc de Wampo, un pont en chevalets de bois accroché à la falaise au-dessus de la rivière, l'une des sections ferroviaires les plus photographiées d'Asie du Sud-Est.\n\nLe dernier arrêt est le célèbre pont sur la rivière Kwaï. Traversez le pont à pied, apprenez son histoire auprès de votre guide, et admirez les vues. Retour à Bangkok en début de soirée.",
+  "highlights": [
+   "Parcourez une section du chemin de fer de la mort original de la Seconde Guerre mondiale à travers le spectaculaire viaduc de Wampo",
+   "Traversez Hellfire Pass, la tranchée troublante creusée par les prisonniers de guerre à l'outil manuel",
+   "Visitez le musée mémorial de Hellfire Pass (construit par le gouvernement australien)",
+   "Rendez hommage au cimetière de guerre allié avec près de 7 000 tombes de prisonniers de guerre",
+   "Traversez à pied le célèbre pont sur la rivière Kwaï",
+   "Déjeuner thaïlandais dans un restaurant au bord de la rivière inclus",
+   "Prise en charge et retour à l'hôtel aller-retour depuis Bangkok"
+  ],
+  "included": [
+   "Transport climatisé avec prise en charge et retour à l'hôtel",
+   "Guide parlant anglais",
+   "Trajet en train sur le chemin de fer de la mort",
+   "Entrée au musée mémorial de Hellfire Pass",
+   "Visite du cimetière de guerre allié",
+   "Pont sur la rivière Kwaï",
+   "Déjeuner thaïlandais dans un restaurant au bord de la rivière",
+   "Tous les frais d'entrée",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Boissons autres que l'eau",
+   "Dépenses personnelles et souvenirs",
+   "Pourboires pour le guide et le chauffeur (facultatif)"
+  ]
+ },
+ "bangkok-ethical-elephant-sanctuary-day-trip": {
+  "title": "Excursion d'une journée depuis Bangkok : sanctuaire éthique pour éléphants à Chonburi",
+  "metaTitle": "Bangkok : sanctuaire éthique d'éléphants, Chonburi",
+  "metaDescription": "Passez une journée dans un sanctuaire éthique pour éléphants à seulement 90 minutes de Bangkok. Nourrissez, baignez et marchez aux côtés d'éléphants secourus dans un cadre de jungle naturel, sans monte, sans chaînes, sans spectacle. Transport aller-retour depuis votre hôtel à Bangkok inclus.",
+  "shortDescription": "Passez une journée dans un sanctuaire éthique pour éléphants à seulement 90 minutes de Bangkok. Nourrissez, baignez et marchez aux côtés d'éléphants secourus dans un cadre de jungle naturel, sans monte, sans chaînes, sans spectacle. Transport aller-retour depuis votre hôtel à Bangkok inclus.",
+  "fullDescription": "Échappez-vous de la ville pour une journée et connectez-vous avec les géants doux de la Thaïlande chez l'opérateur local dans la province de Chonburi, à seulement 90 minutes du centre de Bangkok.\n\nC'est un sanctuaire véritablement éthique, sans monte d'éléphant, sans chaînes, sans spectacles. Les éléphants errent librement dans un cadre de jungle luxuriante et vous interagissez avec eux selon leurs conditions. Le sanctuaire secourt des éléphants des camps d'exploitation forestière et des attractions touristiques, leur offrant une retraite paisible.\n\nVotre journée commence par une prise en charge à l'hôtel à Bangkok entre 6h30 et 7h30. Après votre arrivée au sanctuaire, vous changerez pour des vêtements traditionnels de cornac et rencontrerez les éléphants. Marchez à leurs côtés à travers la jungle, nourrissez-les à la main avec des bananes et de la canne à sucre, et apprenez l'histoire du sauvetage de chaque éléphant auprès des soigneurs.\n\nLe moment fort est le bain des éléphants dans la mare de boue et la rivière, ils adorent cela, et c'est une expérience inoubliable de se faire éclabousser par un éléphant heureux. Après vous être rincé, savourez un déjeuner thaïlandais préparé par le personnel du sanctuaire.\n\nL'après-midi comprend plus de temps avec les éléphants et une randonnée nature à travers la jungle environnante. Le transport de retour vous dépose à votre hôtel de Bangkok en fin d'après-midi.",
+  "highlights": [
+   "Passez une journée complète dans un sanctuaire éthique sans monte d'éléphants",
+   "Nourrissez, baignez et marchez aux côtés d'éléphants secourus dans un cadre de jungle naturel",
+   "Prise en charge et retour à l'hôtel aller-retour depuis le centre de Bangkok inclus",
+   "Apprenez l'histoire du sauvetage de chaque éléphant auprès de soigneurs compétents",
+   "Déjeuner thaïlandais au sanctuaire inclus",
+   "Seulement à 90 minutes de Bangkok, excursion d'une journée parfaite",
+   "Annulation gratuite jusqu'à 24 heures à l'avance"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel aller-retour (centre de Bangkok)",
+   "Toutes les activités du sanctuaire (nourrissage, baignade, marche avec les éléphants)",
+   "Vêtements traditionnels de cornac",
+   "Déjeuner thaïlandais et eau potable",
+   "Guide parlant anglais et soigneurs d'éléphants",
+   "Assurance accident"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles et souvenirs",
+   "Pourboires pour le guide et les soigneurs (facultatif)",
+   "Collations ou boissons au-delà de ce qui est fourni"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

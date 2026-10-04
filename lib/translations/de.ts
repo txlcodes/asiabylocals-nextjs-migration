@@ -45732,6 +45732,95 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "bangkok-tuk-tuk-chinatown-street-food-temple-night-tour": {
+  "title": "Bangkok: Tuk-Tuk-Nachttour, Streetfood im Chinatown und Tempelpfad",
+  "metaTitle": "Bangkok: Tuk-Tuk-Nachttour Chinatown",
+  "metaDescription": "Flitzen Sie mit dem Tuk-Tuk durch Bangkoks lebendiges Chinatown, probieren Sie Michelin-empfohlenes Streetfood, besuchen Sie einen versteckten Tempel mit der weltgrößten massiven Goldbuddha-Statue, und erkunden Sie den Blumenmarkt nach Einbruch der Dunkelheit. Ein unvergesslicher Abend in Bangkok.",
+  "shortDescription": "Flitzen Sie mit dem Tuk-Tuk durch Bangkoks lebendiges Chinatown, probieren Sie Michelin-empfohlenes Streetfood, besuchen Sie einen versteckten Tempel mit der weltgrößten massiven Goldbuddha-Statue, und erkunden Sie den Blumenmarkt nach Einbruch der Dunkelheit. Ein unvergesslicher Abend in Bangkok.",
+  "fullDescription": "Erleben Sie Bangkoks elektrisierendsten Stadtteil nach Einbruch der Dunkelheit, Chinatown (Yaowarat-Straße), mit dem Tuk-Tuk und einem lokalen Guide, der jede Seitengasse und jeden lohnenswerten Essensstand kennt.\n\nIhr Abend beginnt mit einer Tuk-Tuk-Fahrt durch die neonbeleuchteten Straßen von Yaowarat, Bangkoks ältestem und atmosphärischstem Stadtteil. Die Energie nach Einbruch der Dunkelheit ist unglaublich, Hunderte von Streetfood-Ständen werden angeheizt, chinesisch-thailändische Verkäufer konkurrieren um Kunden, und die engen Sois (Gassen) brummen vor Einheimischen beim Abendessen.\n\nIhr Guide führt Sie zu seinen Lieblings-Essensstationen, denken Sie an frisch gegrillte Meeresfrüchte, Char-Siu-Schweinefleisch, Klebreis mit Mango, thailändisches Pad Thai über Holzkohle gekocht, und knusprige Roti mit Kondensmilch. Mehrere Stopps sind von Michelin Bib Gourmand empfohlen. Sie essen sich im Laufe des Abends durch 5-6 Verkostungen.\n\nZwischen den Essensstationen besuchen Sie Wat Traimit, Heimat der weltgrößten massiven Goldbuddha-Statue mit einem Gewicht von 5,5 Tonnen. Der Tempel ist nachts weniger überfüllt und die goldene Statue ist unter abendlicher Beleuchtung atemberaubend.\n\nDie Tour führt Sie auch zum Pak Khlong Talat, Bangkoks berühmtem 24-Stunden-Blumenmarkt, wo Berge von Jasmin, Orchideen und Ringelblumen für die Lieferungen am nächsten Morgen sortiert und gebündelt werden.\n\nDie Tuk-Tuk-Fahrten zwischen den Stationen machen die halbe Freude aus, sich durch den Verkehr zu schlängeln mit der warmen Nachtluft und den überall reflektierten Neonlichtern von Chinatown.",
+  "highlights": [
+   "Flitzen Sie nachts mit dem Tuk-Tuk durch Bangkoks neonbeleuchtetes Chinatown",
+   "Probieren Sie 5-6 Michelin-empfohlene Streetfood-Gerichte mit einem lokalen Guide",
+   "Besuchen Sie die weltgrößte massive Goldbuddha-Statue bei Wat Traimit",
+   "Erkunden Sie Bangkoks 24-Stunden-Blumenmarkt (Pak Khlong Talat)",
+   "Kleingruppe für ein persönliches, lokales Erlebnis",
+   "Kostenlose Stornierung bis zu 24 Stunden im Voraus"
+  ],
+  "included": [
+   "Gesamter Tuk-Tuk-Transport während der Tour",
+   "Englischsprachiger lokaler Food-Guide",
+   "5-6 Streetfood-Verkostungen",
+   "Eintritt zum Tempel Wat Traimit",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Hotelabholung und -rückfahrt (Treffpunkt an festgelegtem Ort)",
+   "Zusätzliches Essen oder Getränke über die inklusive Verkostung hinaus",
+   "Persönliche Ausgaben",
+   "Trinkgelder für den Guide (optional)"
+  ]
+ },
+ "bangkok-death-railway-bridge-river-kwai-hellfire-pass": {
+  "title": "Ab Bangkok: Todeseisenbahn, Brücke am Kwai und Hellfire Pass, Tagestour",
+  "metaTitle": "Todeseisenbahn und Kwai-Fluss",
+  "metaDescription": "Eine eindrucksvolle ganztägige Tour von Bangkok nach Kanchanaburi, fahren Sie mit der historischen Todeseisenbahn, durchwandern Sie das eindringliche Hellfire-Pass-Denkmal, überqueren Sie die Brücke am Kwai-Fluss, und erweisen Sie Ihre Ehre am alliierten Soldatenfriedhof. Mittagessen und Hoteltransport inklusive.",
+  "shortDescription": "Eine eindrucksvolle ganztägige Tour von Bangkok nach Kanchanaburi, fahren Sie mit der historischen Todeseisenbahn, durchwandern Sie das eindringliche Hellfire-Pass-Denkmal, überqueren Sie die Brücke am Kwai-Fluss, und erweisen Sie Ihre Ehre am alliierten Soldatenfriedhof. Mittagessen und Hoteltransport inklusive.",
+  "fullDescription": "Diese ganztägige Tour führt Sie von Bangkok in die Provinz Kanchanaburi für eine unvergessliche Reise durch eines der bedeutendsten und ernüchterndsten Kapitel des Zweiten Weltkriegs, die Thailand-Birma-Todeseisenbahn.\n\nErbaut von alliierten Kriegsgefangenen und asiatischen Zwangsarbeitern unter japanischer Besatzung, kostete die Eisenbahn während des Baus schätzungsweise 100.000 Menschenleben. Heute sind Abschnitte der ursprünglichen Strecke erhalten und Sie können sie befahren.\n\nIhr Tag beginnt mit der Hotelabholung in Bangkok und einer 2,5-stündigen Fahrt westwärts nach Kanchanaburi. Der erste Stopp ist das Hellfire-Pass-Denkmalsmuseum und der Wanderpfad, erbaut von der australischen Regierung. Das Museum erzählt die Geschichte des Eisenbahnbaus durch Augenzeugenberichte, Fotografien und Artefakte. Der Wanderpfad folgt dem tatsächlichen Durchstich, wo Gefangene von Hand durch den Felsen gruben, der Name „Hellfire Pass\" stammt vom unheimlichen Glühen der Fackeln, während die Männer die ganze Nacht arbeiteten.\n\nAls Nächstes besuchen Sie den alliierten Soldatenfriedhof (Kanchanaburi-Soldatenfriedhof), die letzte Ruhestätte von fast 7.000 alliierten Kriegsgefangenen. Es ist eine wunderschön gepflegte und zutiefst bewegende Stätte.\n\nNach einem thailändischen Mittagessen in einem Restaurant am Fluss fahren Sie einen Abschnitt der originalen Todeseisenbahn selbst. Der Zug überquert das dramatische Wampo-Viadukt, eine Holzbrücke, die sich an die Felswand über dem Fluss klammert, einer der meistfotografierten Eisenbahnabschnitte Südostasiens.\n\nDer letzte Stopp ist die berühmte Brücke am Kwai-Fluss. Gehen Sie über die Brücke, erfahren Sie ihre Geschichte von Ihrem Guide, und genießen Sie die Aussicht. Rückkehr nach Bangkok am frühen Abend.",
+  "highlights": [
+   "Fahren Sie einen Abschnitt der originalen Todeseisenbahn des Zweiten Weltkriegs über das dramatische Wampo-Viadukt",
+   "Durchwandern Sie Hellfire Pass, den eindringlichen Durchstich, der von Kriegsgefangenen mit Handwerkzeugen gegraben wurde",
+   "Besuchen Sie das Hellfire-Pass-Denkmalsmuseum (erbaut von der australischen Regierung)",
+   "Erweisen Sie Ihre Ehre am alliierten Soldatenfriedhof mit fast 7.000 Kriegsgefangenengräbern",
+   "Gehen Sie über die berühmte Brücke am Kwai-Fluss",
+   "Thailändisches Mittagessen in einem Restaurant am Fluss inklusive",
+   "Hin- und Rücktransport zum Hotel ab Bangkok"
+  ],
+  "included": [
+   "Klimatisierter Transport mit Hotelabholung und -rückfahrt",
+   "Englischsprachiger Guide",
+   "Fahrt mit der Todeseisenbahn",
+   "Eintritt zum Hellfire-Pass-Denkmalsmuseum",
+   "Besuch des alliierten Soldatenfriedhofs",
+   "Brücke am Kwai-Fluss",
+   "Thailändisches Mittagessen in einem Restaurant am Fluss",
+   "Alle Eintrittsgebühren",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Getränke über Wasser hinaus",
+   "Persönliche Ausgaben und Souvenirs",
+   "Trinkgelder für Guide und Fahrer (optional)"
+  ]
+ },
+ "bangkok-ethical-elephant-sanctuary-day-trip": {
+  "title": "Tagesausflug ab Bangkok: ethisches Elefantenschutzgebiet-Erlebnis in Chonburi",
+  "metaTitle": "Bangkok: ethisches Elefantenschutzgebiet, Chonburi",
+  "metaDescription": "Verbringen Sie einen Tag in einem ethischen Elefantenschutzgebiet nur 90 Minuten von Bangkok entfernt. Füttern, baden und wandern Sie zusammen mit geretteten Elefanten in einer natürlichen Dschungelumgebung, kein Reiten, keine Ketten, keine Shows. Hin- und Rücktransport ab Ihrem Hotel in Bangkok inklusive.",
+  "shortDescription": "Verbringen Sie einen Tag in einem ethischen Elefantenschutzgebiet nur 90 Minuten von Bangkok entfernt. Füttern, baden und wandern Sie zusammen mit geretteten Elefanten in einer natürlichen Dschungelumgebung, kein Reiten, keine Ketten, keine Shows. Hin- und Rücktransport ab Ihrem Hotel in Bangkok inklusive.",
+  "fullDescription": "Entfliehen Sie der Stadt für einen Tag und verbinden Sie sich mit Thailands sanften Riesen beim lokalen Betreiber in der Provinz Chonburi, nur 90 Minuten vom Zentrum Bangkoks entfernt.\n\nDies ist ein wirklich ethisches Schutzgebiet, kein Elefantenreiten, keine Ketten, keine Vorführungen. Die Elefanten streifen frei in einer üppigen Dschungelumgebung und Sie interagieren mit ihnen nach ihren Bedingungen. Das Schutzgebiet rettet Elefanten aus Holzfällercamps und Touristenattraktionen und gibt ihnen einen friedlichen Ruhestand.\n\nIhr Tag beginnt mit der Hotelabholung in Bangkok zwischen 6:30-7:30 Uhr. Nach der Ankunft im Schutzgebiet wechseln Sie in traditionelle Mahout-Kleidung und treffen die Elefanten. Gehen Sie mit ihnen durch den Dschungel, füttern Sie sie von Hand mit Bananen und Zuckerrohr, und erfahren Sie die Rettungsgeschichte jedes Elefanten von den Pflegern.\n\nDer Höhepunkt ist das Baden der Elefanten im Schlammbecken und Fluss, sie lieben es, und es ist ein unvergessliches Erlebnis, von einem glücklichen Elefanten bespritzt zu werden. Nach dem Abwaschen genießen Sie ein thailändisches Mittagessen, zubereitet vom Personal des Schutzgebiets.\n\nDer Nachmittag umfasst mehr Zeit mit den Elefanten und eine Naturwanderung durch den umgebenden Dschungel. Der Rücktransport bringt Sie am späten Nachmittag zurück zu Ihrem Hotel in Bangkok.",
+  "highlights": [
+   "Verbringen Sie einen vollen Tag in einem ethischen Elefantenschutzgebiet ohne Reiten",
+   "Füttern, baden und wandern Sie zusammen mit geretteten Elefanten in einer natürlichen Dschungelumgebung",
+   "Hin- und Rücktransport zum Hotel ab dem Zentrum Bangkoks inklusive",
+   "Erfahren Sie die Rettungsgeschichte jedes Elefanten von kenntnisreichen Pflegern",
+   "Thailändisches Mittagessen im Schutzgebiet inklusive",
+   "Nur 90 Minuten von Bangkok, perfekter Tagesausflug",
+   "Kostenlose Stornierung bis zu 24 Stunden im Voraus"
+  ],
+  "included": [
+   "Hin- und Rücktransport zum Hotel (Zentrum Bangkok)",
+   "Alle Aktivitäten im Schutzgebiet (Füttern, Baden, Wandern mit Elefanten)",
+   "Traditionelle Mahout-Kleidung",
+   "Thailändisches Mittagessen und Trinkwasser",
+   "Englischsprachiger Guide und Elefantenpfleger",
+   "Unfallversicherung"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben und Souvenirs",
+   "Trinkgelder für Guide und Pfleger (optional)",
+   "Snacks oder Getränke über das Bereitgestellte hinaus"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
