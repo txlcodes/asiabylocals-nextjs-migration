@@ -94,7 +94,10 @@ const SEO_TITLE_OVERRIDES: Record<string, string> = {
   'explore-old-new-delhi-city-luxury-car-tour': 'Old & New Delhi Luxury Car Tour – Private City Sightseeing',
   'delhi-guided-shopping-tour-female-expert': 'Delhi Shopping Tour with Female Guide – Markets & Crafts',
   'jaipur-city-highlights-tour-with-amber-fort-hawa-mahal': 'Jaipur City Tour – Amber Fort, Hawa Mahal & City Palace',
-  'fatehpur-sikri-guided-tour': 'Fatehpur Sikri Guided Tour – Private Local Guide in Agra',
+  // 143 impressions / 0 clicks at position 7.4 over 90 days for "fatehpur sikri
+  // private tour" — the exact phrase wasn't in the tag, just "Private" and
+  // "Guide" separately. Lead with the matching phrase instead.
+  'fatehpur-sikri-guided-tour': 'Fatehpur Sikri Private Tour with Local Guide 2026',
   // 27.5k impressions / 61 clicks (0.22% CTR) at position 8.8 over 90 days. The
   // page ranks for "taj mahal tickets"; the old title never said "tickets" or a
   // price, so the listing lost the click. Ranking volatility is a real risk on a
@@ -107,6 +110,8 @@ const SEO_TITLE_OVERRIDES: Record<string, string> = {
 const SEO_DESCRIPTION_OVERRIDES: Record<string, string> = {
   'taj-mahal-entry-ticket':
     'Taj Mahal ticket prices 2026: ₹1,100 foreign adults, ₹50 Indians, +₹200 for the mausoleum. Skip the queue — we pre-book and meet you at the gate.',
+  'fatehpur-sikri-guided-tour':
+    'Private Fatehpur Sikri tour with a licensed local guide. Explore Akbar’s abandoned Mughal capital at your own pace, no group, no rush — book direct with no OTA markup.',
 };
 
 function isInfoSlug(city: string, slug: string): boolean {
