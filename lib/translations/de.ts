@@ -45905,6 +45905,93 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder (optional)"
   ]
  },
+ "living-green-elephant-sanctuary-half-day-tour-bangkok": {
+  "title": "Living-Green-Elefantenschutzgebiet: Halbtagestour ab Bangkok",
+  "metaTitle": "Bangkok: Living-Green-Elefantenschutzgebiet",
+  "metaDescription": "Verbringen Sie einen halben Tag im Living-Green-Elefantenschutzgebiet in der Provinz Kanchanaburi, füttern, baden und wandern Sie zusammen mit geretteten Elefanten in einer natürlichen Waldumgebung. Kein Reiten, keine Vorführungen. Hotelabholung ab Bangkok inklusive. Kleingruppen von maximal 12 Personen.",
+  "shortDescription": "Verbringen Sie einen halben Tag im Living-Green-Elefantenschutzgebiet in der Provinz Kanchanaburi, füttern, baden und wandern Sie zusammen mit geretteten Elefanten in einer natürlichen Waldumgebung. Kein Reiten, keine Vorführungen. Hotelabholung ab Bangkok inklusive. Kleingruppen von maximal 12 Personen.",
+  "fullDescription": "Der lokale Betreiber bietet eines der wirklich ethischsten Elefantenerlebnisse, das als Tagesausflug ab Bangkok verfügbar ist. In der Provinz Kanchanaburi gelegen, etwa 2,5 Stunden von der Stadt entfernt, bietet das Schutzgebiet dauerhaften Ruhestand für Arbeitselefanten und ehemalige Holzfäller- und Unterhaltungselefanten, die aus ausbeuterischen Bedingungen gerettet wurden.\n\nDies ist kein Reitcamp oder Vorführungsort. Die Philosophie hier ist einfach: Elefanten leben in einer natürlichen Waldumgebung, interagieren mit Menschen nach ihren eigenen Bedingungen, und werden niemals gezwungen, aufzutreten oder Passagiere zu tragen. Sie verbringen den Morgen damit, mit ihnen durch den Wald zu wandern, sie mit Obst und Gemüse zu füttern, ihnen beim Baden im Fluss zuzusehen (und mitzumachen, wenn Sie möchten), und ihre individuellen Geschichten von Ihrem Guide zu erfahren.\n\nDas Programm ist um das ausgerichtet, was die Elefanten an diesem Morgen natürlich tun möchten, wenn sie tiefer in den Wald gehen wollen, folgen Sie ihnen. Wenn sie lieber in der Nähe des Flusses bleiben, bleiben Sie in der Nähe des Flusses. Dies schafft ein grundlegend anderes Erlebnis als in Camps, wo der Zeitplan starr ist und die Elefanten lediglich Werkzeuge für Touristenfotos sind.\n\n**So sieht ein typischer Morgen aus**: Nach der Ankunft von Bangkok erhalten Sie ein Briefing von Ihrem Guide und ziehen traditionelle Mahout-Kleidung an. Sie gehen dann hinaus, um die Elefanten zu treffen und mit ihnen durch den Schutzgebietswald zu wandern. Die Fütterungszeit nutzt eine große Vielfalt an Obst und Gemüse, Elefanten hier erhalten ernährungsphysiologisch vielfältige Diäten statt nur Bananen. Sie folgen der Herde zum Badebereich, wo Sie zusammen mit ihnen hineinwaten können. Vor der Rückfahrt nach Bangkok wird ein traditionelles thailändisches Mittagessen serviert.\n\nDas Schutzgebiet ist von Elephant Voices akkreditiert und befolgt strenge Protokolle ohne Reiten, ohne Vorführungen, ohne Ketten. Die Gruppengrößen sind strikt auf maximal 12 Gäste begrenzt, um den Stress der Elefanten zu minimieren und eine qualitativ hochwertige Interaktion zu gewährleisten.",
+  "highlights": [
+   "Ethisches Elefantenerlebnis, kein Reiten, keine Vorführungen, keine Ketten",
+   "Wandern, füttern und baden Sie zusammen mit geretteten Elefanten in einer natürlichen Waldumgebung",
+   "Erfahren Sie die individuelle Rettungsgeschichte und Persönlichkeit jedes Elefanten",
+   "Kleingruppen von maximal 12 Personen für echte, entspannte Interaktion",
+   "Hotelabholung ab Bangkok inklusive, Tür-zu-Tür-Service",
+   "Traditionelles thailändisches Mittagessen inklusive",
+   "Schutzgebiet akkreditiert für ethische Praktiken, unterstützt echtes Elefantenwohl",
+   "In der Provinz Kanchanaburi gelegen, 2,5 Stunden von Bangkok"
+  ],
+  "included": [
+   "Hin- und Rücktransport vom Hotel in Bangkok zum Schutzgebiet",
+   "Englischsprachiger Guide während des gesamten Programms",
+   "Traditionelle Mahout-Kleidung zum Tragen während des Programms",
+   "Elefantenfütterung (Obst und Gemüse)",
+   "Flussbaden mit den Elefanten",
+   "Traditionelles thailändisches Mittagessen",
+   "Unfallversicherung während des Schutzgebietsprogramms"
+  ],
+  "notIncluded": [
+   "Persönliche Einkäufe und Snacks",
+   "Fotodienste (persönliche Kameras und Telefone willkommen)",
+   "Trinkgelder für Guide und Mahout-Personal (optional, aber geschätzt)"
+  ]
+ },
+ "opulence-luxury-chao-phraya-dinner-cruise-bangkok": {
+  "title": "Bangkok: Opulence-Luxus-Dinner-Kreuzfahrt auf dem Chao Phraya",
+  "metaTitle": "Bangkok: Opulence-Luxus-Dinner-Kreuzfahrt",
+  "metaDescription": "Gleiten Sie entlang des Chao-Phraya-Flusses an Bord eines Luxuskreuzfahrtschiffs mit Live-Band, internationalem Buffet, und Ausblicken auf Bangkoks beleuchtete Skyline. Fahren Sie an Wat Arun, dem Großen Palast und Asiatique vorbei, nachts vom Wasser aus beleuchtet, eine der glamourösesten Abenderlebnisse Bangkoks.",
+  "shortDescription": "Gleiten Sie entlang des Chao-Phraya-Flusses an Bord eines Luxuskreuzfahrtschiffs mit Live-Band, internationalem Buffet, und Ausblicken auf Bangkoks beleuchtete Skyline. Fahren Sie an Wat Arun, dem Großen Palast und Asiatique vorbei, nachts vom Wasser aus beleuchtet, eine der glamourösesten Abenderlebnisse Bangkoks.",
+  "fullDescription": "Die Opulence-Luxus-Dinner-Kreuzfahrt ist eines der visuell spektakulärsten Abenderlebnisse Bangkoks, eine 3-stündige Kreuzfahrt entlang des Chao-Phraya-Flusses an Bord eines zweckgebauten Luxusschiffs mit Panorama-Glasfenstern, einer Live-Band, und einem großzügigen internationalen Buffet.\n\nVom Pier des Anantara Riverside Bangkok Resort abfahrend, fährt die Kreuzfahrt nordwärts entlang des Flusses, vorbei an einigen der bekanntesten Sehenswürdigkeiten Bangkoks aus ihrem dramatischsten Blickwinkel gesehen, auf dem Wasser, nachts, wenn alles beleuchtet ist. Sie segeln vorbei an **Wat Arun** (dem Tempel der Morgenröte), dessen zentraler Prang sich im dunklen Wasser spiegelt; vorbei an den beleuchteten Dachlinien des **Großen-Palast**-Komplexes; vorbei an hölzernen Longtail-Booten, die noch immer durch die Khlongs fahren; und entlang der funkelnden Flussufer-Promenaden von Asiatique und ICONSIAM.\n\nAn Bord bietet das **internationale Buffet** Meeresfrüchte, thailändische Gerichte, gegrilltes Fleisch, Salate, und Desserts, die Qualität liegt deutlich über dem, was man bei diesem Preis erwarten würde. Eine **Live-Band** spielt während der gesamten Kreuzfahrt thailändische und internationale Musik, mit einer kleinen Tanzfläche für diejenigen, die sie nutzen möchten. Die Kombination aus Flussbrise, Panoramablicken, und Musik schafft eine Atmosphäre, die auf dem Land schwer zu reproduzieren ist.\n\nDie Kreuzfahrt ist beliebt für Hochzeitstage, Heiratsanträge, Geburtstage, und Gruppenfeiern, funktioniert aber genauso gut als luxuriöse Dinner-Option nach einem Tag voller Tempelbesuche. Gepflegt-lässige Kleidung ist angebracht (keine Shorts oder Flip-Flops). Das Schiff ist vollständig klimatisiert geschlossen, was es ganzjährig komfortabel macht.\n\nAbfahrten sind in der Regel um 19:30 Uhr und dauern 3 Stunden, mit Rückkehr zum Anantara-Riverside-Pier bis 22:30 Uhr.",
+  "highlights": [
+   "3-stündige Luxus-Kreuzfahrt entlang des Chao Phraya mit Panoramablick auf Bangkoks beleuchtete Skyline",
+   "Segeln Sie vorbei an Wat Arun, dem Großen Palast und Asiatique in ihrer dramatischsten Form, nachts vom Wasser aus beleuchtet",
+   "Internationales Buffet mit Meeresfrüchten, thailändischen Gerichten, gegrilltem Fleisch, Salaten und Desserts",
+   "Live-Band und kleine Tanzfläche während der gesamten Kreuzfahrt",
+   "Zweckgebautes Luxusschiff mit Klimaanlage und Panorama-Glasfenstern",
+   "Perfekt für Paare, Hochzeitstage, Heiratsanträge, und Feiern",
+   "Abfahrt vom Anantara Riverside, kostenloses Shuttle-Boot vom Sathorn-Pier (BTS Saphan Taksin)"
+  ],
+  "included": [
+   "3-stündige Dinner-Kreuzfahrt an Bord eines Luxusschiffs",
+   "Internationales Buffet-Dinner (Meeresfrüchte, thailändische Gerichte, gegrilltes Fleisch, Desserts)",
+   "Live-Unterhaltung und Musik",
+   "Kostenloses Shuttle-Boot vom Sathorn-Pier zum Anantara Riverside (alle 30 Minuten)"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke (an Bord käuflich erhältlich)",
+   "Softdrinks und Wasser (an Bord käuflich erhältlich)",
+   "Transport zum Sathorn-Pier oder Anantara Riverside",
+   "Persönliche Einkäufe und Trinkgelder"
+  ]
+ },
+ "muay-thai-boxing-rajadamnern-stadium-bangkok": {
+  "title": "Bangkok: Muay-Thai-Boxabend im Rajadamnern-Stadion",
+  "metaTitle": "Bangkok: Muay Thai im Rajadamnern-Stadion",
+  "metaDescription": "Sehen Sie Muay Thai von Weltklasse im Rajadamnern-Stadion, einer von Bangkoks zwei legendären Kampfstätten, gegründet 1945. Ringseitige Plätze, Stadionplätze, und VIP-Optionen verfügbar. Die Atmosphäre, die Kämpfer, und das Ritual des thailändischen Boxens machen dies zu einer der unvergesslichsten Nächte Bangkoks.",
+  "shortDescription": "Sehen Sie Muay Thai von Weltklasse im Rajadamnern-Stadion, einer von Bangkoks zwei legendären Kampfstätten, gegründet 1945. Ringseitige Plätze, Stadionplätze, und VIP-Optionen verfügbar. Die Atmosphäre, die Kämpfer, und das Ritual des thailändischen Boxens machen dies zu einer der unvergesslichsten Nächte Bangkoks.",
+  "fullDescription": "Das Rajadamnern-Stadion ist eine der ikonischsten Sportstätten Südostasiens. 1945 unter königlicher Schirmherrschaft gegründet, ist es die älteste und prestigeträchtigste Muay-Thai-Stätte in Bangkok, ein Ort, an dem Champions geformt werden und an dem die Traditionen des thailändischen Boxens seit acht Jahrzehnten ununterbrochen aufrechterhalten wurden.\n\nEin Abend in Rajadamnern ist keine Touristenshow. Dies sind professionelle thailändische Boxer, viele von ihnen regionale und nationale Champions, die um Ranglisten, Preisgeld, und nationale Anerkennung kämpfen. Die Kämpfe werden von den offiziellen Muay-Thai-Verbänden sanktioniert und folgen den vollständigen Regeln: 5 Runden, je 3 Minuten, mit einem traditionellen thailändischen Orchester (der Sarama-Band), das während jedes Kampfes live spielt, dessen Tempo mit der Intensität jeder Runde steigt.\n\nDie Atmosphäre im Inneren des Stadions ist anders als alles andere in Bangkok. Thailändische Wettende füllen die oberen Ränge und kommunizieren Wetten quer durchs Stadion mit einer ausgefeilten Handzeichensprache. Trainer rufen Anweisungen von den Ecken. Die Menge brandet bei jedem punktenden Tritt oder Clinch-Wurf auf. Und am Ring selbst ist das Vorkampfritual, der Wai Kru Ram Muay, ein langsamer zeremonieller Tanz, der von jedem Kämpfer zur Ehre seines Lehrers aufgeführt wird, eines der schönsten und bewegendsten Rituale der thailändischen Kultur.\n\nTickets sind in drei Stufen verfügbar: ringseitig (vorderste Reihen, beste Sicht auf Technik und Beinarbeit), Stadionplätze (standardmäßige gestufte Sitze, volle Sicht auf den Ring), und eine Standardoption. Ein typischer Kampfabend umfasst 8 bis 12 Kämpfe über 3 bis 4 Stunden, von Nachwuchskämpfern bis zu erfahrenen Profis. Die letzten Kämpfe des Abends zeigen die erfahrensten Kämpfer.\n\nRajadamnern veranstaltet Kampfabende montags, mittwochs, donnerstags, und sonntags. Prüfen Sie den aktuellen Zeitplan vor der Buchung, da spezifische Veranstaltungen je nach Datum variieren.",
+  "highlights": [
+   "Sehen Sie professionelles Muay Thai im Rajadamnern-Stadion, gegründet 1945, Bangkoks prestigeträchtigste Kampfstätte",
+   "8-12 Live-Kämpfe pro Abend mit thailändischen Boxern auf regionalem und nationalem Niveau",
+   "Live-Sarama-Orchester spielt während jedes Kampfes, der traditionelle Soundtrack des Muay Thai",
+   "Wai-Kru-Ram-Muay-Vorkampf-Zeremonie, das schönste Ritual der thailändischen Kampfkünste",
+   "Stadionatmosphäre mit professionellen Buchmachern und Handzeichen-Wettsprache",
+   "Mehrere Sitzkategorien von ringseitig bis standard, wählen Sie Ihre bevorzugte Sicht",
+   "Keine Touristenshow, dies ist der echte professionelle Muay-Thai-Zirkus",
+   "Günstig gelegen nahe Rattanakosin, Khao San Road, und der Altstadt"
+  ],
+  "included": [
+   "Eintrittskarte für das Rajadamnern-Stadion (Stufe je nach gewählter Option)",
+   "Zugang zu allen Kämpfen der Kampfkarte (8-12 Kämpfe pro Abend)",
+   "Kampfprogramm (falls verfügbar)"
+  ],
+  "notIncluded": [
+   "Transport zum/vom Stadion (nehmen Sie ein Taxi oder Tuk-Tuk von Khao San Road oder der Altstadt)",
+   "Essen und Getränke (im Stadion käuflich erhältlich)",
+   "Souvenirs",
+   "Muay-Thai-Trainingseinheiten (siehe unsere separate private Muay-Thai-Trainingstour)"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
