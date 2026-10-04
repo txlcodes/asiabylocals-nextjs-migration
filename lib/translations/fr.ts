@@ -46418,6 +46418,87 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "seasoning-thai-cooking-class-phuket-cherngtalay": {
+  "title": "Cours de cuisine thaïlandaise Seasoning à Phuket : tomyum, pad thaï et curry vert",
+  "metaTitle": "Phuket : cours de cuisine, Chef Ern",
+  "metaDescription": "Apprenez à cuisiner 4 plats thaïlandais authentiques avec le Chef Ern, un chef formé dans un hôtel 5 étoiles avec plus de 6 ans d'expérience à Phuket. Comprend une boisson de bienvenue, tous les ingrédients, et une recette à emporter. Expérience pratique avec la cuisine locale.",
+  "shortDescription": "Apprenez à cuisiner 4 plats thaïlandais authentiques avec le Chef Ern, un chef formé dans un hôtel 5 étoiles avec plus de 6 ans d'expérience à Phuket. Comprend une boisson de bienvenue, tous les ingrédients, et une recette à emporter. Expérience pratique avec la cuisine locale.",
+  "fullDescription": "Découvrez la cuisine thaïlandaise authentique avec le Chef Ern au cours de cuisine thaïlandaise Seasoning.\n\nLe Chef Ern apporte plus de 5 ans d'expérience professionnelle en cuisine dans des hôtels de luxe à Phuket, combinée à une passion pour partager les riches traditions culinaires de la Thaïlande avec des voyageurs du monde entier.\n\nPendant ce cours pratique de 2h30, vous allez :\n• Apprendre à préparer la soupe Tomyum aux crevettes (adaptable au poulet si préféré)\n• Préparer des nouilles Pad thaï aux crevettes (option végétarienne disponible)\n• Créer un authentique curry vert au poulet\n• Préparer le traditionnel riz gluant à la mangue\n\nTous les ingrédients vont du jardin à la table et sont préparés au préalable afin que vous vous concentriez sur les techniques de cuisine. Vous recevrez une boisson de bienvenue, un équipement de cuisine professionnel, et un livret de recettes pour recréer les plats à la maison.\n\nLe cours accueille de petits groupes dans un cadre de jardin privé et paisible à Cherngtalay. Parfait pour les voyageurs solo, les couples, ou les petits groupes souhaitant une expérience culturelle intime.\n\nAccommodements alimentaires : options végétariennes, allergies aux crustacés, et substitutions personnalisées disponibles, informez-nous simplement lors de la réservation.",
+  "highlights": [
+   "Chef Ern, formé dans un hôtel 5 étoiles, expert de Phuket",
+   "4 plats thaïlandais signature, tomyum, pad thaï, curry vert, riz gluant à la mangue",
+   "Cuisine pratique, apprenez des techniques professionnelles, pas seulement regarder",
+   "Boisson de bienvenue + livret de recettes à emporter",
+   "Petits groupes intimes, cadre de jardin privé"
+  ],
+  "included": [
+   "Boisson de bienvenue",
+   "Équipement de cuisine professionnel",
+   "Tous les ingrédients",
+   "Instruction de cuisine par le Chef Ern",
+   "Livret de recettes à emporter"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles"
+  ]
+ },
+ "private-surf-lesson-kata-beach-phuket": {
+  "title": "Cours de surf privé à Kata Beach, Phuket",
+  "metaTitle": "Phuket : cours de surf privé, Kata Beach",
+  "metaDescription": "Apprenez à surfer à Phuket avec un cours de surf privé à Kata Beach, l'un des spots de surf débutant les plus populaires de Thaïlande. Recevez un coaching professionnel, pratiquez les techniques de surf sur la plage, et affrontez de vraies vagues avec les conseils d'un instructeur certifié. Planche de surf, rashguard, photos, et vidéos sont inclus, faisant de ceci l'introduction parfaite au surf à Phuket.",
+  "shortDescription": "Apprenez à surfer à Phuket avec un cours de surf privé à Kata Beach, l'un des spots de surf débutant les plus populaires de Thaïlande. Recevez un coaching professionnel, pratiquez les techniques de surf sur la plage, et affrontez de vraies vagues avec les conseils d'un instructeur certifié. Planche de surf, rashguard, photos, et vidéos sont inclus, faisant de ceci l'introduction parfaite au surf à Phuket.",
+  "fullDescription": "Découvrez l'excitation du surf à Phuket avec un cours de surf privé à Kata Beach, l'une des destinations de surf les plus célèbres de Thaïlande. Connue pour ses vagues douces et sa plage de sable, Kata Beach est l'endroit parfait pour les débutants qui veulent apprendre à surfer dans un environnement sûr et amusant.\n\nVotre expérience de surf commence par un court briefing sur la plage où votre instructeur expliquera les fondamentaux du surf, y compris comment se positionner sur la planche, comment pagayer correctement, et comment se lever en toute sécurité en attrapant une vague. L'instructeur vous aidera également à choisir la bonne taille de planche en fonction de votre niveau d'expérience, de votre taille, et de votre poids.\n\nAprès avoir appris les bases sur la plage, vous irez dans l'eau avec votre instructeur pour un coaching pratique. Votre instructeur vous guidera vers les meilleures vagues, vous donnera des conseils pour l'équilibre sur la planche, et vous aidera à attraper vos premières vagues. De nombreux débutants parviennent à se tenir debout sur leur planche de surf dès leur premier cours de surf.",
+  "highlights": [
+   "Cours de surf privé à Kata Beach, Phuket",
+   "Expérience de surf débutant parfaite à Phuket",
+   "Affrontez vos premières vagues à Phuket",
+   "Photos et vidéos incluses"
+  ],
+  "included": [
+   "Instructeur de surf professionnel",
+   "Cours de surf privé à Kata Beach",
+   "Planche de surf",
+   "Rashguard",
+   "Photos de votre session de surf",
+   "Vidéos de votre cours de surf"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel",
+   "Transport vers Kata Beach",
+   "Nourriture et boissons",
+   "Dépenses personnelles"
+  ]
+ },
+ "phuket-scuba-diving-beginners-full-day-racha-yai-island": {
+  "title": "Phuket : plongée sous-marine pour débutants, excursion d'une journée complète à l'île de Racha Yai",
+  "metaTitle": "Phuket : plongée débutant, Racha Yai",
+  "metaDescription": "Découvrez le frisson de la plongée sous-marine à Phuket avec cette expérience de plongée débutant d'une journée complète à l'île de Racha Yai. Parfait pour les plongeurs débutants, le voyage comprend deux plongées guidées en eau libre, des instructeurs professionnels, un équipement de plongée complet, des transferts en bateau, des repas, et une prise en charge hôtelière depuis les principales zones de Phuket.",
+  "shortDescription": "Découvrez le frisson de la plongée sous-marine à Phuket avec cette expérience de plongée débutant d'une journée complète à l'île de Racha Yai. Parfait pour les plongeurs débutants, le voyage comprend deux plongées guidées en eau libre, des instructeurs professionnels, un équipement de plongée complet, des transferts en bateau, des repas, et une prise en charge hôtelière depuis les principales zones de Phuket.",
+  "fullDescription": "Découvrez l'un des meilleurs voyages de plongée sous-marine pour débutants à Phuket avec cette aventure de plongée d'une journée complète à l'île de Racha Yai. Cette expérience est conçue pour les plongeurs débutants et les voyageurs qui veulent explorer le monde sous-marin de la Thaïlande sans avoir besoin d'une certification de plongée.\n\nVotre journée commence par une prise en charge hôtelière pratique depuis les principales zones de Phuket, y compris Patong, Kata, Karon, Kamala, Rawai, et Chalong. Après être arrivé au quai de Chalong, vous monterez à bord d'un bateau de plongée en direction des belles eaux entourant l'île de Racha Yai dans la mer d'Andaman.\n\nPendant le trajet, des instructeurs de plongée professionnels vous donneront un briefing de sécurité et une formation de base en plongée sous-marine. Vous pratiquerez les compétences essentielles sur le bateau et à la surface avant de descendre dans l'eau pour votre première plongée en eau libre.",
+  "highlights": [
+   "Plongée sous-marine adaptée aux débutants à Phuket",
+   "Explorez les récifs coralliens et la vie marine de Racha Yai",
+   "Deux plongées en eau libre avec instructeur professionnel"
+  ],
+  "included": [
+   "Équipement de plongée complet (combinaison, gilet stabilisateur, masque, détendeur, palmes)",
+   "Instructeur de plongée sous-marine certifié professionnel",
+   "Deux plongées en eau libre (45 à 50 minutes chacune)",
+   "Trajet en bateau vers les sites de plongée de l'île de Racha Yai",
+   "Petit-déjeuner à bord",
+   "Déjeuner à bord",
+   "Collations et rafraîchissements",
+   "Eau potable, thé et café",
+   "Prise en charge et retour à l'hôtel depuis Kamala, Patong, Karon, Kata, Rawai et Chalong",
+   "Assurance plongée sous-marine"
+  ],
+  "notIncluded": [
+   "Photos souvenirs (1 000 à 1 500 THB)",
+   "Boissons alcoolisées",
+   "Prise en charge hôtelière hors des zones de Kamala, Patong, Karon, Kata, Rawai et Chalong",
+   "Dépenses personnelles"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

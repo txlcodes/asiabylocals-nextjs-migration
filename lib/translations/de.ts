@@ -46417,6 +46417,87 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "seasoning-thai-cooking-class-phuket-cherngtalay": {
+  "title": "Seasoning-Thai-Kochkurs Phuket: Tomyum, Padthai und grünes Curry",
+  "metaTitle": "Phuket: Kochkurs, Chef Ern",
+  "metaDescription": "Lernen Sie, 4 authentische thailändische Gerichte mit Chef Ern zu kochen, einem in einem 5-Sterne-Hotel ausgebildeten Koch mit über 6 Jahren Erfahrung in Phuket. Beinhaltet ein Willkommensgetränk, alle Zutaten, und ein Rezept zum Mitnehmen. Praktische Erfahrung mit lokaler Küche.",
+  "shortDescription": "Lernen Sie, 4 authentische thailändische Gerichte mit Chef Ern zu kochen, einem in einem 5-Sterne-Hotel ausgebildeten Koch mit über 6 Jahren Erfahrung in Phuket. Beinhaltet ein Willkommensgetränk, alle Zutaten, und ein Rezept zum Mitnehmen. Praktische Erfahrung mit lokaler Küche.",
+  "fullDescription": "Erleben Sie authentisches thailändisches Kochen mit Chef Ern beim Seasoning-Thai-Kochkurs.\n\nChef Ern bringt über 5 Jahre professionelle Kücherfahrung aus Luxushotels in Phuket mit, kombiniert mit einer Leidenschaft dafür, Thailands reiche kulinarische Traditionen mit Reisenden aus aller Welt zu teilen.\n\nWährend dieses 2,5-stündigen praktischen Kurses werden Sie:\n• Lernen, Tomyum-Suppe mit Garnelen zu machen (auf Hühnchen anpassbar, falls bevorzugt)\n• Padthai-Nudeln mit Garnelen zubereiten (vegetarisch verfügbar)\n• Authentisches grünes Curry mit Hühnchen zubereiten\n• Traditionellen Mango-Klebreis machen\n\nAlle Zutaten sind vom Garten zum Tisch und vorab zubereitet, sodass Sie sich auf die Kochtechniken konzentrieren können. Sie erhalten ein Willkommensgetränk, professionelle Kochausrüstung, und ein Rezeptheft, um die Gerichte zu Hause nachzukochen.\n\nDer Kurs nimmt kleine Gruppen in einer privaten, ruhigen Gartenumgebung in Cherngtalay auf. Perfekt für Alleinreisende, Paare, oder kleine Gruppen, die ein intimes kulturelles Erlebnis wünschen.\n\nErnährungsanpassungen: vegetarische Optionen, Schalentier-Allergien, und individuelle Ersetzungen verfügbar, teilen Sie es uns einfach bei der Buchung mit.",
+  "highlights": [
+   "Chef Ern, ausgebildet in einem 5-Sterne-Hotel, Phuket-Experte",
+   "4 signifikante thailändische Gerichte, Tomyum, Padthai, grünes Curry, Mango-Klebreis",
+   "Praktisches Kochen, lernen Sie professionelle Techniken, nicht nur zuschauen",
+   "Willkommensgetränk + Rezeptheft zum Mitnehmen",
+   "Kleine, intime Gruppen, private Gartenumgebung"
+  ],
+  "included": [
+   "Willkommensgetränk",
+   "Professionelle Kochausrüstung",
+   "Alle Zutaten",
+   "Kochanleitung von Chef Ern",
+   "Rezeptheft zum Mitnehmen"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben"
+  ]
+ },
+ "private-surf-lesson-kata-beach-phuket": {
+  "title": "Privater Surfkurs am Kata Beach, Phuket",
+  "metaTitle": "Phuket: privater Surfkurs, Kata Beach",
+  "metaDescription": "Lernen Sie Surfen in Phuket mit einem privaten Surfkurs am Kata Beach, einem der beliebtesten Surf-Spots für Anfänger Thailands. Erhalten Sie professionelles Coaching, üben Sie Surftechniken am Strand, und reiten Sie echte Wellen mit Anleitung eines zertifizierten Instruktors. Surfbrett, Rashguard, Fotos, und Videos sind inklusive, was dies zur perfekten Einführung ins Surfen in Phuket macht.",
+  "shortDescription": "Lernen Sie Surfen in Phuket mit einem privaten Surfkurs am Kata Beach, einem der beliebtesten Surf-Spots für Anfänger Thailands. Erhalten Sie professionelles Coaching, üben Sie Surftechniken am Strand, und reiten Sie echte Wellen mit Anleitung eines zertifizierten Instruktors. Surfbrett, Rashguard, Fotos, und Videos sind inklusive, was dies zur perfekten Einführung ins Surfen in Phuket macht.",
+  "fullDescription": "Erleben Sie die Begeisterung des Surfens in Phuket mit einem privaten Surfkurs am Kata Beach, einem der berühmtesten Surf-Ziele in Thailand. Bekannt für seine sanften Wellen und seinen Sandstrand, ist Kata Beach der perfekte Ort für Anfänger, die in einer sicheren und unterhaltsamen Umgebung surfen lernen möchten.\n\nIhr Surferlebnis beginnt mit einem kurzen Strandbriefing, bei dem Ihr Instruktor die Grundlagen des Surfens erklärt, einschließlich wie Sie sich auf dem Surfbrett positionieren, wie Sie richtig paddeln, und wie Sie beim Fangen einer Welle sicher aufstehen. Der Instruktor hilft Ihnen auch, die richtige Surfbrettgröße basierend auf Ihrem Erfahrungsniveau, Ihrer Größe, und Ihrem Gewicht zu wählen.\n\nNachdem Sie die Grundlagen am Strand gelernt haben, gehen Sie mit Ihrem Instruktor ins Wasser für praktisches Coaching. Ihr Instruktor führt Sie zu den besten Wellen, gibt Ihnen Tipps zum Balancieren auf dem Brett, und hilft Ihnen, Ihre ersten Wellen zu fangen. Viele Anfänger können bereits während ihres allerersten Surfkurses auf ihrem Surfbrett stehen.",
+  "highlights": [
+   "Privater Surfkurs am Kata Beach, Phuket",
+   "Perfektes Anfänger-Surferlebnis in Phuket",
+   "Reiten Sie Ihre ersten Wellen in Phuket",
+   "Fotos und Videos inklusive"
+  ],
+  "included": [
+   "Professioneller Surfinstruktor",
+   "Privater Surfkurs am Kata Beach",
+   "Surfbrett",
+   "Rashguard",
+   "Fotos Ihrer Surfsession",
+   "Videos Ihres Surfkurses"
+  ],
+  "notIncluded": [
+   "Hotelabholung und -rückfahrt",
+   "Transport zum Kata Beach",
+   "Essen und Getränke",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "phuket-scuba-diving-beginners-full-day-racha-yai-island": {
+  "title": "Phuket: Schnorcheltauchen für Anfänger, ganztägiger Tauchausflug zur Insel Racha Yai",
+  "metaTitle": "Phuket: Tauchen für Anfänger, Racha Yai",
+  "metaDescription": "Entdecken Sie den Nervenkitzel des Gerätetauchens in Phuket mit diesem ganztägigen Anfänger-Tauchererlebnis auf der Insel Racha Yai. Perfekt für Erstteilnehmer, der Ausflug umfasst zwei geführte Freiwasser-Tauchgänge, professionelle Instruktoren, vollständige Tauchausrüstung, Bootstransfers, Mahlzeiten, und Hotelabholung aus den wichtigsten Gebieten Phukets.",
+  "shortDescription": "Entdecken Sie den Nervenkitzel des Gerätetauchens in Phuket mit diesem ganztägigen Anfänger-Tauchererlebnis auf der Insel Racha Yai. Perfekt für Erstteilnehmer, der Ausflug umfasst zwei geführte Freiwasser-Tauchgänge, professionelle Instruktoren, vollständige Tauchausrüstung, Bootstransfers, Mahlzeiten, und Hotelabholung aus den wichtigsten Gebieten Phukets.",
+  "fullDescription": "Erleben Sie einen der besten Anfänger-Tauchausflüge in Phuket mit diesem ganztägigen Tauchabenteuer zur Insel Racha Yai. Dieses Erlebnis ist für Erstteilnehmer und Reisende konzipiert, die die Unterwasserwelt Thailands erkunden möchten, ohne eine Tauchzertifizierung zu benötigen.\n\nIhr Tag beginnt mit bequemer Hotelabholung aus den wichtigsten Gebieten Phukets, einschließlich Patong, Kata, Karon, Kamala, Rawai, und Chalong. Nach der Ankunft am Chalong-Pier steigen Sie an Bord eines Tauchboots in Richtung der schönen Gewässer rund um die Insel Racha Yai im Andamanischen Meer.\n\nWährend der Reise geben professionelle Tauchinstruktoren ein Sicherheitsbriefing und eine grundlegende Tauchschulung. Sie üben wesentliche Fähigkeiten auf dem Boot und an der Oberfläche, bevor Sie für Ihren ersten Freiwasser-Tauchgang ins Wasser hinabsteigen.",
+  "highlights": [
+   "Anfängerfreundliches Gerätetauchen in Phuket",
+   "Erkunden Sie die Korallenriffe und das Meeresleben von Racha Yai",
+   "Zwei Freiwasser-Tauchgänge mit professionellem Instruktor"
+  ],
+  "included": [
+   "Vollständige Tauchausrüstung (Neoprenanzug, Tarierweste, Maske, Lungenautomat, Flossen)",
+   "Professioneller zertifizierter Tauchinstruktor",
+   "Zwei Freiwasser-Tauchgänge (jeweils 45-50 Minuten)",
+   "Bootsfahrt zu den Tauchplätzen der Insel Racha Yai",
+   "Frühstück an Bord",
+   "Mittagessen an Bord",
+   "Snacks und Erfrischungen",
+   "Trinkwasser, Tee und Kaffee",
+   "Hotelabholung und -rückfahrt aus Kamala, Patong, Karon, Kata, Rawai und Chalong",
+   "Tauchversicherung"
+  ],
+  "notIncluded": [
+   "Erinnerungsfotos (1.000-1.500 THB)",
+   "Alkoholische Getränke",
+   "Hotelabholung außerhalb der Gebiete Kamala, Patong, Karon, Kata, Rawai und Chalong",
+   "Persönliche Ausgaben"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

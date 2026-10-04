@@ -46418,6 +46418,87 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "seasoning-thai-cooking-class-phuket-cherngtalay": {
+  "title": "Clase de cocina tailandesa Seasoning en Phuket: tomyum, pad thai y curry verde",
+  "metaTitle": "Phuket: clase de cocina, Chef Ern",
+  "metaDescription": "Aprenda a cocinar 4 platos tailandeses autenticos con el Chef Ern, un chef formado en un hotel 5 estrellas con más de 6 años de experiencia en Phuket. Incluye bebida de bienvenida, todos los ingredientes, y receta para llevar a casa. Experiencia práctica con la cocina local.",
+  "shortDescription": "Aprenda a cocinar 4 platos tailandeses autenticos con el Chef Ern, un chef formado en un hotel 5 estrellas con más de 6 años de experiencia en Phuket. Incluye bebida de bienvenida, todos los ingredientes, y receta para llevar a casa. Experiencia práctica con la cocina local.",
+  "fullDescription": "Experimente la cocina tailandesa autentica con el Chef Ern en la clase de cocina tailandesa Seasoning.\n\nEl Chef Ern aporta más de 5 años de experiencia profesional en cocina de hoteles de lujo en Phuket, combinada con una pasión por compartir las ricas tradiciones culinarias de Tailandia con viajeros de todo el mundo.\n\nDurante esta clase práctica de 2,5 horas, usted:\n• Aprenderá a hacer sopa Tomyum con camarones (ajustable a pollo si se prefiere)\n• Preparará fideos Pad thai con camarones (opción vegetariana disponible)\n• Creará un autentico curry verde con pollo\n• Hará el tradicional arroz pegajoso con mango\n\nTodos los ingredientes son del huerto a la mesa y preparados previamente para que usted se concentre en las técnicas de cocina. Recibirá una bebida de bienvenida, equipo de cocina profesional, y un folleto de recetas para recrear los platos en casa.\n\nLa clase acomoda grupos pequeños en un entorno de jardín privado y tranquilo en Cherngtalay. Perfecta para viajeros solos, parejas, o grupos pequeños que desean una experiencia cultural íntima.\n\nAdaptaciones dietéticas: opciones vegetarianas, alergias a mariscos, y sustituciones personalizadas disponibles, simplemente avísenos al reservar.",
+  "highlights": [
+   "Chef Ern, formado en un hotel 5 estrellas, experto de Phuket",
+   "4 platos tailandeses distintivos, tomyum, pad thai, curry verde, arroz pegajoso con mango",
+   "Cocina práctica, aprenda técnicas profesionales, no solo observar",
+   "Bebida de bienvenida + folleto de recetas para llevar",
+   "Grupos pequeños e íntimos, entorno de jardín privado"
+  ],
+  "included": [
+   "Bebida de bienvenida",
+   "Equipo de cocina profesional",
+   "Todos los ingredientes",
+   "Instrucción de cocina por el Chef Ern",
+   "Folleto de recetas para llevar"
+  ],
+  "notIncluded": [
+   "Gastos personales"
+  ]
+ },
+ "private-surf-lesson-kata-beach-phuket": {
+  "title": "Clase privada de surf en Kata Beach, Phuket",
+  "metaTitle": "Phuket: clase privada de surf, Kata Beach",
+  "metaDescription": "Aprenda a surfear en Phuket con una clase privada de surf en Kata Beach, uno de los lugares de surf para principiantes más populares de Tailandia. Reciba entrenamiento profesional, practique técnicas de surf en la playa, y monte olas reales con la guía de un instructor certificado. Tabla de surf, rashguard, fotos, y videos están incluidos, haciendo de esta la introducción perfecta al surf en Phuket.",
+  "shortDescription": "Aprenda a surfear en Phuket con una clase privada de surf en Kata Beach, uno de los lugares de surf para principiantes más populares de Tailandia. Reciba entrenamiento profesional, practique técnicas de surf en la playa, y monte olas reales con la guía de un instructor certificado. Tabla de surf, rashguard, fotos, y videos están incluidos, haciendo de esta la introducción perfecta al surf en Phuket.",
+  "fullDescription": "Experimente la emoción del surf en Phuket con una clase privada de surf en Kata Beach, uno de los destinos de surf más famosos de Tailandia. Conocida por sus olas suaves y su playa de arena, Kata Beach es el lugar perfecto para principiantes que quieren aprender a surfear en un ambiente seguro y divertido.\n\nSu experiencia de surf comienza con una breve charla en la playa donde su instructor explicará los fundamentos del surf, incluyendo cómo posicionarse en la tabla, cómo remar correctamente, y cómo ponerse de pie de manera segura al atrapar una ola. El instructor también le ayudará a elegir el tamaño de tabla adecuado según su nivel de experiencia, altura, y peso.\n\nDespués de aprender lo básico en la playa, se dirigirá al agua con su instructor para entrenamiento práctico. Su instructor lo guiará hacia las mejores olas, le dará consejos para equilibrarse en la tabla, y le ayudará a atrapar sus primeras olas. Muchos principiantes logran ponerse de pie en su tabla de surf durante su primera clase de surf.",
+  "highlights": [
+   "Clase privada de surf en Kata Beach, Phuket",
+   "Experiencia de surf perfecta para principiantes en Phuket",
+   "Monte sus primeras olas en Phuket",
+   "Fotos y videos incluidos"
+  ],
+  "included": [
+   "Instructor profesional de surf",
+   "Clase privada de surf en Kata Beach",
+   "Tabla de surf",
+   "Rashguard",
+   "Fotos de su sesión de surf",
+   "Videos de su clase de surf"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Transporte a Kata Beach",
+   "Comida y bebidas",
+   "Gastos personales"
+  ]
+ },
+ "phuket-scuba-diving-beginners-full-day-racha-yai-island": {
+  "title": "Phuket: buceo con tanque para principiantes, excursión de día completo a la isla Racha Yai",
+  "metaTitle": "Phuket: buceo para principiantes, Racha Yai",
+  "metaDescription": "Descubra la emoción del buceo con tanque en Phuket con esta experiencia de buceo para principiantes de día completo en la isla Racha Yai. Perfecto para buceadores primerizos, el viaje incluye dos inmersiones guiadas en aguas abiertas, instructores profesionales, equipo completo de buceo, traslados en bote, comidas, y recogida en el hotel desde las principales áreas de Phuket.",
+  "shortDescription": "Descubra la emoción del buceo con tanque en Phuket con esta experiencia de buceo para principiantes de día completo en la isla Racha Yai. Perfecto para buceadores primerizos, el viaje incluye dos inmersiones guiadas en aguas abiertas, instructores profesionales, equipo completo de buceo, traslados en bote, comidas, y recogida en el hotel desde las principales áreas de Phuket.",
+  "fullDescription": "Experimente uno de los mejores viajes de buceo para principiantes en Phuket con esta aventura de buceo de día completo a la isla Racha Yai. Esta experiencia está diseñada para buceadores primerizos y viajeros que quieren explorar el mundo submarino de Tailandia sin necesitar una certificación de buceo.\n\nSu día comienza con una conveniente recogida en el hotel desde las principales áreas de Phuket, incluyendo Patong, Kata, Karon, Kamala, Rawai, y Chalong. Después de llegar al muelle de Chalong, subirá a bordo de un bote de buceo hacia las hermosas aguas que rodean la isla Racha Yai en el mar de Andamán.\n\nDurante el trayecto, instructores de buceo profesionales le darán una charla de seguridad y un entrenamiento básico de buceo. Practicará habilidades esenciales en el bote y en la superficie antes de descender al agua para su primera inmersión en aguas abiertas.",
+  "highlights": [
+   "Buceo con tanque amigable para principiantes en Phuket",
+   "Explore los arrecifes de coral y la vida marina de Racha Yai",
+   "Dos inmersiones en aguas abiertas con instructor profesional"
+  ],
+  "included": [
+   "Equipo completo de buceo (traje de neopreno, chaleco compensador, máscara, regulador, aletas)",
+   "Instructor de buceo certificado profesional",
+   "Dos inmersiones en aguas abiertas (45-50 minutos cada una)",
+   "Viaje en bote a los sitios de buceo de la isla Racha Yai",
+   "Desayuno a bordo",
+   "Almuerzo a bordo",
+   "Aperitivos y refrescos",
+   "Agua potable, té y café",
+   "Recogida y regreso al hotel desde Kamala, Patong, Karon, Kata, Rawai y Chalong",
+   "Seguro de buceo"
+  ],
+  "notIncluded": [
+   "Fotos de recuerdo (1.000-1.500 THB)",
+   "Bebidas alcohólicas",
+   "Recogida en el hotel fuera de las áreas de Kamala, Patong, Karon, Kata, Rawai y Chalong",
+   "Gastos personales"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",
