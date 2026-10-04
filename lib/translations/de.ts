@@ -44752,6 +44752,97 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "crystal-lake-mini-tour": {
+  "title": "Kajakfahren am Kristallsee durch Klong Roots smaragdgrünes Wasser",
+  "metaTitle": "Kristallsee: Kajak im smaragdgrünen Wasser von Klong Root",
+  "metaDescription": "Paddeln Sie einen ruhigen quellgespeisten Wasserweg, umgeben von Dschungel, Lianen und Seerosen, mit klarem smaragdgrünem Wasser, ansässigen Eisvögeln und einem Süßwasser-Schwimmstopp.",
+  "shortDescription": "Paddeln Sie einen ruhigen quellgespeisten Wasserweg, umgeben von Dschungel, Lianen und Seerosen, mit klarem smaragdgrünem Wasser, ansässigen Eisvögeln und einem Süßwasser-Schwimmstopp.",
+  "fullDescription": "Zweieinhalb Stunden Paddeln auf Klong Root, einem quellgespeisten Kanal landeinwärts von Ao Nang, von dem die meisten Besucher nie hören.\n\nDas Wasser kommt aus dem Kalkstein, weshalb es dieses besondere klare Smaragdgrün hat und kühl bleibt, wenn alles an der Küste warm ist. Man sieht den Boden den ganzen Weg entlang. Der Kanal ist eng, mit Dschungel, der sich oben schließt, Seerosen über der Oberfläche und Lianen, die bis zur Wasserlinie herabhängen, und da es Süßwasser landeinwärts ist, gibt es keine Dünung, kein Salz und kein Motorengeräusch.\n\nDas Kajak ist der einzige Weg hindurch. Der Kanal ist zu flach und zu eng für alles mit einem Motor, daher ist das Lauteste auf dem Wasser Ihr eigenes Paddel.\n\nAuf halbem Weg gibt es einen Schwimmstopp. Süßwasserquellen sind kalt genug, um nach der Andamanensee ein echter Schock zu sein, weshalb dort gehalten wird statt am Ende.\n\nEisvögel arbeiten die Kanalränder ab und sind der Vogel, den Sie tatsächlich sehen werden, statt der aus der Broschüre; Waran-Echsen sonnen sich an den Ufern.\n\nDies ist der richtige Ausflug für einen Tag, an dem das Meer geschlossen ist. Klong Root ist landeinwärtiges Süßwasser, daher berühren Wind und Dünung es nicht, und von Mai bis Oktober läuft er an Tagen, an denen jedes Inselboot in Ao Nang abgesagt wird. Es ist auch die richtige Wahl mit kleinen Kindern, die nicht schwimmen müssen, um ihn zu genießen.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Kajak und Paddel, Schwimmweste und Trockenbeutel, einen englischsprachigen lokalen Guide, die Eintrittsgebühr, Trinkwasser, und von Ihrem Guide aufgenommene Fotos.\n\nZweieinhalb Stunden. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Quellgespeister Kanal, klar bis zum Boden und ganzjährig kühl",
+   "Nur Kajak: zu flach und eng für jeden Motor",
+   "Süßwasser-Schwimmstopp, nach dem Meer wirklich kalt",
+   "Findet statt, wenn Wind und Dünung die Inselboote absagen",
+   "Eisvögel, Waran-Echsen, Seerosen und hängende Lianen"
+  ],
+  "included": [
+   "Kajak und Paddel",
+   "Schwimmweste und Trockenbeutel",
+   "Englischsprachiger lokaler Guide",
+   "Eintrittsgebühr",
+   "Trinkwasser",
+   "Von Ihrem Guide aufgenommene Fotos",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Hoteltransfers, sofern nicht bei Buchung hinzugefügt",
+   "Mahlzeiten",
+   "Handtücher",
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "chicken-island-sunset-tour": {
+  "title": "Sonnenuntergangs-Kreuzfahrt zu sieben Inseln mit Barbecue und leuchtendem Plankton",
+  "metaTitle": "7 Inseln zum Sonnenuntergang: Barbecue, Plankton",
+  "metaDescription": "Ein Nachmittag Schnorcheln über sieben Inseln, ein im Sand gegrilltes Barbecue in der Dämmerung und ein Nachtschwimmen zwischen leuchtendem biolumineszentem Plankton vor Ao Nang.",
+  "shortDescription": "Ein Nachmittag Schnorcheln über sieben Inseln, ein im Sand gegrilltes Barbecue in der Dämmerung und ein Nachtschwimmen zwischen leuchtendem biolumineszentem Plankton vor Ao Nang.",
+  "fullDescription": "Sieben Inselstopps über den Nachmittag, ein im Sand gegrilltes Barbecue, und ein Plankton-Schwimmen nach Einbruch der Dunkelheit.\n\nNachmittagsabfahrten drehen den üblichen Krabi-Tag um. Morgenboote kommen alle zusammen an und fahren alle zusammen ab; später abzufahren bedeutet, die letzten Stopps zu erreichen, während die Flotte heimkehrt, sodass die Strände am Ende dieses Ausflugs nicht die Strände sind, die die Morgenboote sahen.\n\nTalay Waek, das geteilte Meer, ist die Sandbank, die bei fallender Flut auftaucht und drei Inseln zu einem begehbaren Streifen verbindet, bevor sie wieder verschwindet. Ein Nachmittagsausflug bei fallender Flut geht auf Sand hinaus, der unter Wasser war, als die Morgenboote darüber fuhren.\n\nDer Sonnenuntergang wird vom Wasser aus mit den Ao-Nang-Karstfelsen vor sich genommen. Kalkstein hält die Farbe gut, nachdem die Sonne untergegangen ist, sodass das Licht länger anhält, als die Uhr vermuten lässt.\n\nDas Abendessen ist ein am Strand gegrilltes Barbecue statt an Bord aufgewärmt, was auf einem siebenstündigen Ausflug einen bedeutsamen Unterschied macht.\n\nDas Plankton-Schwimmen schließt den Abend ab. Biolumineszente Dinoflagellaten blitzen auf, wenn sie gestört werden, sodass das Leuchten um Ihre Hände und Füße erscheint, während Sie sich bewegen, statt über der Oberfläche. Es variiert ehrlich von Nacht zu Nacht: die dunkelsten Himmel nahe einem Neumond sind am besten, ein Vollmond löscht es aus, und raues Wasser verteilt es. Fragen Sie nach der Mondphase, wenn dies der Teil ist, für den Sie buchen.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Hotelabholung und -rückfahrt in Ao Nang, das Longtail-Boot mit lokaler Crew, einen englischsprachigen Guide, Strand-Barbecue-Abendessen mit Softdrinks, Schnorchelausrüstung und Schwimmwesten.\n\nSieben Stunden. Bringen Sie ein Handtuch und trockene Kleidung mit. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Nachmittagsroute, Ankunft während die Flotte abfährt",
+   "Begehen Sie die Talay-Waek-Sandbank bei fallender Flut",
+   "Sonnenuntergang über den Ao-Nang-Karstfelsen vom Wasser aus",
+   "Am Strand gegrilltes Barbecue, nicht an Bord aufgewärmt",
+   "Plankton-Schwimmen, am besten in dunklen Nächten nahe einem Neumond"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Ao Nang",
+   "Longtail-Boot mit lokaler Crew",
+   "Englischsprachiger Guide",
+   "Strand-Barbecue-Abendessen und Softdrinks",
+   "Schnorchelausrüstung, Schwimmweste und Kopflampe",
+   "Nationalpark-Eintrittsgebühr",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke",
+   "Handtücher",
+   "Unterwasserkamera-Vermietung",
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "chicken-island-premium-boat-tour": {
+  "title": "Premium-Katamaran-Kreuzfahrt zu den vier Inseln mit transparenten Kajaks",
+  "metaTitle": "Premium-Katamaran: 4 Inseln, transparente Kajaks",
+  "metaDescription": "Segeln Sie zu den vier Inseln auf einem stabilen Motorkatamaran mit Schnorcheln am Riff, transparenten Kajaks, Trampolin-Netz zum Entspannen und einer an Bord servierten Mahlzeit.",
+  "shortDescription": "Segeln Sie zu den vier Inseln auf einem stabilen Motorkatamaran mit Schnorcheln am Riff, transparenten Kajaks, Trampolin-Netz zum Entspannen und einer an Bord servierten Mahlzeit.",
+  "fullDescription": "Die vier Inseln auf einem Motorkatamaran mit klaren Kajak-Böden, ein anderer Tag als die Longtail-Version für ein Drittel des Preises.\n\nWas der Katamaran Ihnen bringt, sind Stabilität und Platz. Doppelrümpfe schaukeln nicht wie ein Longtail-Boot, es gibt ein Sonnendeck und ein Netz zum Liegen, und das Essen wird an Bord serviert statt auf den Knien an einem Strand balanciert zu werden. Bei einem fünfstündigen Ausflug ist das der Großteil des Erlebnisses.\n\nDie transparenten Kajaks sind der Teil, für den die Leute buchen. Über flache Korallen in einem klaren Rumpf zu paddeln bedeutet, das Riff zu sehen, ohne das Gesicht ins Wasser zu tauchen, was wichtig ist, wenn jemand in Ihrer Gruppe nicht schnorcheln will, nicht sicher schwimmen kann, oder mit kleinen Kindern reist.\n\nDie Crew geht beim Schnorchelstopp mit Ihnen ins Wasser statt vom Boot aus zuzuschauen. Das klingt nach einer Kleinigkeit, ist es aber nicht: Auf einem belebten Riff mit Strömung macht es den Unterschied zwischen entspanntem Schwimmen und dem Zählen von Köpfen, jemanden im Wasser bei der Gruppe zu haben.\n\nDie Route ist der Standardrundgang, Poda, Chicken Island, Tup und Mor, mit der Thale-Waek-Sandbank, die begehbar ist, wenn die Flut niedrig genug ist.\n\nDies ist die Version für Komfort und Gruppen mit gemischtem Können: Wer nicht schnorcheln will, sieht das Riff trotzdem durch einen Kajak-Rumpf, und niemand verbringt fünf Stunden damit, sich gegen das Schaukeln zu stemmen.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst den Hoteltransfer innerhalb von Ao Nang und Krabi Town, den Katamaran mit Crew, einen englischsprachigen Guide, ein Festmenü und Softdrinks, und Schnorchelausrüstung.\n\nFünf Stunden. Nationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Motorkatamaran, stabiler als ein Longtail-Boot, mit Sonnendeck",
+   "Transparente Kajaks lassen Nichtschwimmer das Riff sehen",
+   "Crew schnorchelt im Wasser mit der Gruppe, nicht vom Boot aus",
+   "Mahlzeit an Bord serviert statt am Strand",
+   "Bequem genug für volle fünf Stunden an Bord"
+  ],
+  "included": [
+   "Hoteltransfer innerhalb von Ao Nang und Krabi Town",
+   "Katamaran-Kreuzfahrt mit Crew",
+   "Englischsprachiger Guide",
+   "Festmenü und Softdrinks",
+   "Schnorchelausrüstung und Schwimmwesten",
+   "Transparente Kajak-Session",
+   "Nationalpark-Eintrittsgebühr",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke",
+   "Handtücher",
+   "Fotopaket",
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

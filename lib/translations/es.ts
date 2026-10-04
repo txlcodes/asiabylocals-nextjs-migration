@@ -44753,6 +44753,97 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "crystal-lake-mini-tour": {
+  "title": "Kayak en el lago de Cristal por el agua esmeralda de Klong Root",
+  "metaTitle": "Lago de Cristal: kayak en el agua esmeralda de Klong Root",
+  "metaDescription": "Reme por una tranquila vía de agua alimentada por un manantial, bordeada de selva, lianas y nenúfares, con agua esmeralda clara, martines pescadores residentes y una parada de baño en agua dulce.",
+  "shortDescription": "Reme por una tranquila vía de agua alimentada por un manantial, bordeada de selva, lianas y nenúfares, con agua esmeralda clara, martines pescadores residentes y una parada de baño en agua dulce.",
+  "fullDescription": "Dos horas y media remando por Klong Root, un canal alimentado por un manantial tierra adentro desde Ao Nang del que la mayoría de los visitantes nunca oyen hablar.\n\nEl agua surge de la caliza, por lo que tiene ese verde esmeralda particular y transparente y permanece fresca cuando todo en la costa está cálido. Se ve el fondo durante todo el recorrido. El canal es estrecho con la selva cerrándose arriba, nenúfares cubriendo la superficie y lianas colgando hasta el agua, y como es agua dulce tierra adentro, no hay oleaje, ni sal, ni ruido de motor.\n\nEl kayak es la única forma de atravesarlo. El canal es demasiado poco profundo y demasiado estrecho para cualquier cosa con motor, así que lo más ruidoso en el agua es su propio remo.\n\nHay una parada de baño a mitad de camino. Los manantiales de agua dulce corren lo bastante fríos como para ser un verdadero shock después del Andamán, que es la razón de pararse allí en lugar de al final.\n\nLos martines pescadores trabajan los bordes del canal y son el pájaro que realmente verá en lugar del del folleto; los varanos se asolean en las orillas.\n\nEsta es la excursión para un día en que el mar está cerrado. Klong Root es agua dulce tierra adentro, así que el viento y el oleaje no la afectan, y de mayo a octubre funciona en días en que se cancela todo barco a islas en Ao Nang. También es la elección correcta con niños pequeños, que no necesitan nadar para disfrutarla.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye el kayak y el remo, chaleco salvavidas y bolsa seca, un guía local de habla inglesa, la tarifa de entrada, agua potable, y fotos tomadas por su guía.\n\nDos horas y media. Un día de aviso mínimo.",
+  "highlights": [
+   "Canal alimentado por manantial, claro hasta el fondo y fresco todo el año",
+   "Solo kayak: demasiado poco profundo y estrecho para cualquier motor",
+   "Parada de baño en agua dulce, genuinamente fría tras el mar",
+   "Funciona cuando el viento y el oleaje cancelan los barcos a islas",
+   "Martines pescadores, varanos, nenúfares y lianas colgantes"
+  ],
+  "included": [
+   "Kayak y remo",
+   "Chaleco salvavidas y bolsa seca",
+   "Guía local de habla inglesa",
+   "Tarifa de entrada",
+   "Agua potable",
+   "Fotos tomadas por su guía",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Traslados de hotel a menos que se añadan al reservar",
+   "Comidas",
+   "Toallas",
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
+ "chicken-island-sunset-tour": {
+  "title": "Crucero al atardecer por siete islas con barbacoa y plancton brillante",
+  "metaTitle": "7 islas al atardecer: barbacoa, plancton",
+  "metaDescription": "Una tarde de snorkel por siete islas, una barbacoa a la parrilla en la arena al anochecer y un baño nocturno entre plancton bioluminiscente brillante frente a Ao Nang.",
+  "shortDescription": "Una tarde de snorkel por siete islas, una barbacoa a la parrilla en la arena al anochecer y un baño nocturno entre plancton bioluminiscente brillante frente a Ao Nang.",
+  "fullDescription": "Siete paradas en islas a lo largo de la tarde, una barbacoa a la parrilla en la arena, y un baño de plancton tras el anochecer.\n\nLas salidas de tarde invierten el día habitual de Krabi. Los barcos de la mañana llegan todos juntos y se marchan todos juntos; salir más tarde significa llegar a las últimas paradas mientras la flota regresa a casa, así que las playas al final de esta excursión no son las playas que vieron los barcos de la mañana.\n\nTalay Waek, el Mar Separado, es el banco de arena que emerge cuando baja la marea y une tres islas en una franja transitable a pie antes de desaparecer de nuevo. Una excursión de tarde con marea bajando camina sobre arena que estaba bajo el agua cuando los barcos de la mañana pasaron por encima.\n\nEl atardecer se disfruta desde el agua con los karst de Ao Nang delante. La caliza conserva bien el color después de que se pone el sol, así que la luz dura más de lo que sugiere el reloj.\n\nLa cena es una barbacoa a la parrilla en la playa en lugar de recalentada a bordo, lo que supone una diferencia significativa en una excursión de siete horas.\n\nEl baño de plancton cierra la velada. Los dinoflagelados bioluminiscentes destellan cuando se perturban, así que el brillo aparece alrededor de sus manos y pies al moverse en lugar de sobre la superficie. Varía honestamente de noche a noche: los cielos más oscuros cercanos a una luna nueva son los mejores, una luna llena lo borra, y el agua agitada lo dispersa. Pregunte sobre la fase lunar si esta es la parte por la que reserva.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye la recogida y el regreso al hotel en Ao Nang, el longtail con tripulación local, un guía de habla inglesa, cena barbacoa en la playa con refrescos, equipo de snorkel y chalecos salvavidas.\n\nSiete horas. Traiga una toalla y ropa seca. Un día de aviso mínimo.",
+  "highlights": [
+   "Ruta de tarde, llegando mientras la flota se marcha",
+   "Camine por el banco de arena de Talay Waek con la marea bajando",
+   "Atardecer sobre los karst de Ao Nang desde el agua",
+   "Barbacoa a la parrilla en la playa, no recalentada a bordo",
+   "Baño de plancton, mejor en noches oscuras cercanas a una luna nueva"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Ao Nang",
+   "Barco longtail con tripulación local",
+   "Guía de habla inglesa",
+   "Cena barbacoa en la playa y refrescos",
+   "Equipo de snorkel, chaleco salvavidas y linterna frontal",
+   "Tarifa de entrada al parque nacional",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Bebidas alcohólicas",
+   "Toallas",
+   "Alquiler de cámara submarina",
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
+ "chicken-island-premium-boat-tour": {
+  "title": "Crucero premium en catamarán a las cuatro islas con kayaks transparentes",
+  "metaTitle": "Catamarán premium: 4 islas, kayaks transparentes",
+  "metaDescription": "Navegue por las cuatro islas en un catamarán motorizado estable con snorkel en arrecife, kayaks transparentes, red de trampolín para relajarse y comida servida a bordo.",
+  "shortDescription": "Navegue por las cuatro islas en un catamarán motorizado estable con snorkel en arrecife, kayaks transparentes, red de trampolín para relajarse y comida servida a bordo.",
+  "fullDescription": "Las cuatro islas en un catamarán motorizado con kayaks de fondo transparente, un día distinto a la versión en longtail por un tercio del precio.\n\nLo que el catamarán le ofrece es estabilidad y espacio. Los dos cascos no se mecen como lo hace un longtail, hay una cubierta solar y una red donde tumbarse, y la comida se sirve a bordo en lugar de equilibrarse sobre las rodillas en una playa. En una excursión de cinco horas, eso es la mayor parte de la experiencia.\n\nLos kayaks transparentes son la parte por la que la gente reserva. Remar sobre coral poco profundo en un casco transparente significa ver el arrecife sin meter la cara en el agua, lo que importa si alguien de su grupo no va a hacer snorkel, no puede nadar con seguridad, o viaja con niños pequeños.\n\nLa tripulación entra al agua con usted en la parada de snorkel en lugar de observar desde el barco. Suena como un detalle y no lo es: en un arrecife concurrido con corriente, tener a alguien en el agua con el grupo marca la diferencia entre un baño relajado y contar cabezas.\n\nLa ruta es el circuito estándar, Poda, la isla del Pollo, Tup y Mor, con el banco de arena de Thale Waek transitable a pie cuando la marea está lo bastante baja.\n\nEsta es la versión para la comodidad y grupos de habilidad mixta: quien no vaya a hacer snorkel aún verá el arrecife a través de un casco de kayak, y nadie pasa cinco horas aguantando el balanceo.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye el traslado de hotel dentro de Ao Nang y la ciudad de Krabi, el catamarán con tripulación, un guía de habla inglesa, un menú fijo y refrescos, y equipo de snorkel.\n\nCinco horas. Las tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario. Un día de aviso mínimo.",
+  "highlights": [
+   "Catamarán motorizado, más estable que un longtail, con cubierta solar",
+   "Los kayaks transparentes permiten a los no nadadores ver el arrecife",
+   "La tripulación hace snorkel en el agua con el grupo, no desde el barco",
+   "Comida servida a bordo en lugar de en una playa",
+   "Lo bastante cómodo para cinco horas completas a bordo"
+  ],
+  "included": [
+   "Traslado de hotel dentro de Ao Nang y la ciudad de Krabi",
+   "Crucero en catamarán con tripulación",
+   "Guía de habla inglesa",
+   "Menú fijo y refrescos",
+   "Equipo de snorkel y chalecos salvavidas",
+   "Sesión de kayak transparente",
+   "Tarifa de entrada al parque nacional",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Bebidas alcohólicas",
+   "Toallas",
+   "Paquete de fotografía",
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

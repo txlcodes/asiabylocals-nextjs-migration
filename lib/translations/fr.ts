@@ -44753,6 +44753,97 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ]
  },
+ "crystal-lake-mini-tour": {
+  "title": "Kayak au lac de Cristal à travers l'eau émeraude de Klong Root",
+  "metaTitle": "Lac de Cristal : kayak dans l'eau émeraude de Klong Root",
+  "metaDescription": "Pagayez dans une voie d'eau alimentée par une source, bordée de jungle, de lianes et de nénuphars, avec une eau émeraude limpide, des martins-pêcheurs résidents et un arrêt baignade en eau douce.",
+  "shortDescription": "Pagayez dans une voie d'eau alimentée par une source, bordée de jungle, de lianes et de nénuphars, avec une eau émeraude limpide, des martins-pêcheurs résidents et un arrêt baignade en eau douce.",
+  "fullDescription": "Deux heures et demie de pagayage sur Klong Root, un canal alimenté par une source à l'intérieur des terres depuis Ao Nang dont la plupart des visiteurs n'entendent jamais parler.\n\nL'eau sort du calcaire, c'est pourquoi elle a ce vert émeraude particulier et limpide et reste fraîche quand tout est chaud sur la côte. On voit le fond tout le long. Le canal est étroit avec la jungle se refermant au-dessus, des nénuphars sur la surface et des lianes pendant jusqu'à l'eau, et comme c'est de l'eau douce à l'intérieur des terres, il n'y a ni houle, ni sel, ni bruit de moteur.\n\nLe kayak est le seul moyen d'y passer. Le canal est trop peu profond et trop étroit pour tout engin à moteur, donc la chose la plus bruyante sur l'eau est votre propre pagaie.\n\nIl y a un arrêt baignade à mi-parcours. Les sources d'eau douce sont assez froides pour être un véritable choc après l'Andaman, ce qui est précisément la raison de s'y arrêter plutôt qu'à la fin.\n\nLes martins-pêcheurs travaillent les bords du canal et sont l'oiseau que vous verrez réellement plutôt que celui de la brochure ; les varans se dorent sur les rives.\n\nC'est l'excursion idéale pour une journée où la mer est fermée. Klong Root est une eau douce intérieure, donc le vent et la houle ne la touchent pas, et de mai à octobre elle fonctionne les jours où tous les bateaux insulaires d'Ao Nang sont annulés. C'est aussi le bon choix avec de jeunes enfants, qui n'ont pas besoin de nager pour en profiter.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend le kayak et la pagaie, le gilet de sauvetage et le sac étanche, un guide local anglophone, les frais d'entrée, l'eau potable, et des photos prises par votre guide.\n\nDeux heures et demie. Un jour de préavis minimum.",
+  "highlights": [
+   "Canal alimenté par une source, limpide jusqu'au fond et frais toute l'année",
+   "Kayak uniquement : trop peu profond et étroit pour tout moteur",
+   "Arrêt baignade en eau douce, réellement froide après la mer",
+   "Fonctionne quand le vent et la houle annulent les bateaux insulaires",
+   "Martins-pêcheurs, varans, nénuphars et lianes pendantes"
+  ],
+  "included": [
+   "Kayak et pagaie",
+   "Gilet de sauvetage et sac étanche",
+   "Guide local anglophone",
+   "Frais d'entrée",
+   "Eau potable",
+   "Photos prises par votre guide",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Transferts d'hôtel sauf ajout à la réservation",
+   "Repas",
+   "Serviettes",
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
+ "chicken-island-sunset-tour": {
+  "title": "Croisière au coucher du soleil sur sept îles avec barbecue et plancton lumineux",
+  "metaTitle": "7 îles au coucher du soleil : barbecue, plancton",
+  "metaDescription": "Un après-midi de plongée avec tuba sur sept îles, un barbecue grillé sur le sable au crépuscule et une baignade nocturne parmi le plancton bioluminescent au large d'Ao Nang.",
+  "shortDescription": "Un après-midi de plongée avec tuba sur sept îles, un barbecue grillé sur le sable au crépuscule et une baignade nocturne parmi le plancton bioluminescent au large d'Ao Nang.",
+  "fullDescription": "Sept arrêts insulaires tout au long de l'après-midi, un barbecue grillé sur le sable, et une baignade dans le plancton après la tombée de la nuit.\n\nLes départs en après-midi inversent la journée habituelle de Krabi. Les bateaux du matin arrivent tous ensemble et partent tous ensemble ; partir plus tard signifie atteindre les derniers arrêts tandis que la flotte rentre chez elle, donc les plages à la fin de cette excursion ne sont pas les plages que les bateaux du matin ont vues.\n\nTalay Waek, la Mer Séparée, est le banc de sable qui émerge à mesure que la marée descend et relie trois îles en une bande praticable à pied avant de disparaître de nouveau. Une excursion d'après-midi à marée descendante marche sur du sable qui était sous l'eau quand les bateaux du matin l'ont survolé.\n\nLe coucher de soleil se prend depuis l'eau avec les pitons karstiques d'Ao Nang devant vous. Le calcaire conserve bien sa couleur une fois le soleil couché, donc la lumière dure plus longtemps que l'horloge ne le suggère.\n\nLe dîner est un barbecue grillé sur la plage plutôt que réchauffé à bord, ce qui fait une différence significative sur une excursion de sept heures.\n\nLa baignade dans le plancton clôture la soirée. Les dinoflagellés bioluminescents s'illuminent quand ils sont perturbés, donc la lueur apparaît autour de vos mains et de vos pieds quand vous bougez plutôt que sur la surface. Cela varie honnêtement d'une nuit à l'autre : les ciels les plus sombres proches d'une nouvelle lune sont les meilleurs, une pleine lune l'efface, et une mer agitée la disperse. Renseignez-vous sur la phase de la lune si c'est cette partie qui motive votre réservation.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la prise en charge et le retour à l'hôtel à Ao Nang, le longtail avec équipage local, un guide anglophone, le dîner barbecue de plage avec boissons non alcoolisées, l'équipement de plongée avec tuba et les gilets de sauvetage.\n\nSept heures. Apportez une serviette et des vêtements secs. Un jour de préavis minimum.",
+  "highlights": [
+   "Circuit de l'après-midi, arrivant tandis que la flotte part",
+   "Marchez sur le banc de sable de Talay Waek à marée descendante",
+   "Coucher de soleil sur les pitons karstiques d'Ao Nang depuis l'eau",
+   "Barbecue grillé sur la plage, non réchauffé à bord",
+   "Baignade dans le plancton, idéale les nuits sombres proches d'une nouvelle lune"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Ao Nang",
+   "Bateau à longue queue avec équipage local",
+   "Guide anglophone",
+   "Dîner barbecue de plage et boissons non alcoolisées",
+   "Équipement de plongée avec tuba, gilet de sauvetage et lampe frontale",
+   "Frais d'entrée du parc national",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisées",
+   "Serviettes",
+   "Location de caméra sous-marine",
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
+ "chicken-island-premium-boat-tour": {
+  "title": "Croisière premium en catamaran sur les quatre îles avec kayaks transparents",
+  "metaTitle": "Catamaran premium : 4 îles, kayaks transparents",
+  "metaDescription": "Naviguez sur les quatre îles à bord d'un catamaran à moteur stable avec plongée avec tuba sur le récif, kayaks transparents, filet de trampoline pour se détendre et repas servi à bord.",
+  "shortDescription": "Naviguez sur les quatre îles à bord d'un catamaran à moteur stable avec plongée avec tuba sur le récif, kayaks transparents, filet de trampoline pour se détendre et repas servi à bord.",
+  "fullDescription": "Les quatre îles en catamaran à moteur avec des kayaks à fond transparent, une journée différente de la version en longtail pour un tiers du prix.\n\nCe que le catamaran vous achète, c'est la stabilité et l'espace. Les deux coques ne roulent pas comme le fait un longtail, il y a un pont solaire et un filet pour s'allonger, et le repas est servi à bord plutôt qu'en équilibre sur les genoux sur une plage. Sur une excursion de cinq heures, c'est l'essentiel de l'expérience.\n\nLes kayaks transparents sont la partie pour laquelle les gens réservent. Pagayer au-dessus de coraux peu profonds dans une coque transparente signifie voir le récif sans mettre le visage dans l'eau, ce qui compte si quelqu'un de votre groupe ne plongera pas avec tuba, ne sait pas nager avec assurance, ou voyage avec de jeunes enfants.\n\nL'équipage entre dans l'eau avec vous à l'arrêt de plongée avec tuba plutôt que de regarder depuis le bateau. Cela paraît un détail, mais ça ne l'est pas : sur un récif animé avec du courant, avoir quelqu'un dans l'eau avec le groupe fait la différence entre une baignade détendue et un comptage de têtes.\n\nLe circuit est le parcours standard, Poda, l'île du Poulet, Tup et Mor, avec le banc de sable de Thale Waek praticable à pied quand la marée est assez basse.\n\nC'est la version pour le confort et les groupes de niveaux mixtes : quiconque ne plongera pas avec tuba voit tout de même le récif à travers une coque de kayak, et personne ne passe cinq heures à se cramponner contre le roulis.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend le transfert à l'hôtel dans Ao Nang et la ville de Krabi, le catamaran avec équipage, un guide anglophone, un repas fixe et des boissons non alcoolisées, et l'équipement de plongée avec tuba.\n\nCinq heures. Les frais de parc national sont perçus à la jetée sauf confirmation contraire. Un jour de préavis minimum.",
+  "highlights": [
+   "Catamaran à moteur, plus stable qu'un longtail, avec pont solaire",
+   "Les kayaks transparents permettent aux non-nageurs de voir le récif",
+   "L'équipage plonge avec tuba dans l'eau avec le groupe, pas depuis le bateau",
+   "Repas servi à bord plutôt que sur une plage",
+   "Assez confortable pour cinq heures complètes à bord"
+  ],
+  "included": [
+   "Transfert à l'hôtel dans Ao Nang et la ville de Krabi",
+   "Croisière en catamaran avec équipage",
+   "Guide anglophone",
+   "Repas fixe et boissons non alcoolisées",
+   "Équipement de plongée avec tuba et gilets de sauvetage",
+   "Session de kayak transparent",
+   "Frais d'entrée du parc national",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisées",
+   "Serviettes",
+   "Forfait photographie",
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
