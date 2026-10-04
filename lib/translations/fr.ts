@@ -46261,6 +46261,77 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le guide (facultatif mais appréciés)"
   ]
  },
+ "james-bond-island-private-tour": {
+  "title": "Visite privée de la baie de Phang Nga depuis Phuket avec l'île James Bond, Koh Panyi et Samet Nangshe",
+  "metaTitle": "Phang Nga : île James Bond en privé",
+  "metaDescription": "Explorez les meilleurs points forts de la baie de Phang Nga lors d'une visite entièrement privée depuis Phuket. Visitez l'île James Bond en bateau longtail privé, déjeunez au village flottant de Koh Panyi, découvrez un temple-grotte avec un Bouddha couché, et profitez des vues du coucher de soleil au point de vue de Samet Nangshe.",
+  "shortDescription": "Explorez les meilleurs points forts de la baie de Phang Nga lors d'une visite entièrement privée depuis Phuket. Visitez l'île James Bond en bateau longtail privé, déjeunez au village flottant de Koh Panyi, découvrez un temple-grotte avec un Bouddha couché, et profitez des vues du coucher de soleil au point de vue de Samet Nangshe.",
+  "fullDescription": "Découvrez le meilleur de la baie de Phang Nga lors de cette excursion privée exclusive d'une journée depuis Phuket, sans partage avec des étrangers, sans précipitation entre les arrêts.\n\nVotre chauffeur privé vous prend à votre hôtel de Phuket vers 8h00 pour le trajet pittoresque vers Phang Nga. Montez à bord de votre propre bateau longtail privé pour une croisière de 4 heures à travers les spectaculaires formations karstiques calcaires de la baie de Phang Nga.\n\nPremier arrêt : l'emblématique île James Bond (Ko Tapu), rendue célèbre par « L'Homme au pistolet d'or ». Baignez-vous dans les eaux émeraude, prenez des photos du célèbre rocher en aiguille, et explorez éventuellement des grottes de mangrove cachées en kayak. Continuez en bateau jusqu'à Koh Panyi, un remarquable village de pêcheurs musulmans entièrement construit sur pilotis au-dessus de la mer. Profitez ici d'un déjeuner buffet avec des fruits de mer frais en regardant la vie quotidienne se dérouler sur l'eau.\n\nAprès la visite en bateau, dirigez-vous vers Wat Suwan Khuha, un magnifique temple-grotte abritant un Bouddha couché de 15 mètres et l'un des sites religieux les plus uniques de Thaïlande. Terminez la journée au point de vue de Samet Nangshe, un joyau caché offrant des vues panoramiques à couper le souffle sur les innombrables îles calcaires de la baie de Phang Nga. Retour à votre hôtel en début de soirée.\n\nC'est l'expérience ultime de Phang Nga, transport privé, bateau privé, et un guide qui adapte la journée à votre rythme.",
+  "highlights": [
+   "Visite en bateau longtail privé à travers les formations karstiques calcaires de la baie de Phang Nga",
+   "Visitez l'île James Bond (Ko Tapu) avec kayak optionnel à travers les mangroves",
+   "Déjeuner buffet à Koh Panyi, un village de pêcheurs flottant sur pilotis",
+   "Explorez le temple-grotte de Wat Suwan Khuha avec son Bouddha couché",
+   "Vues panoramiques du coucher de soleil au point de vue de Samet Nangshe",
+   "Voiture et chauffeur entièrement privés, aucun partage de groupe"
+  ],
+  "included": [
+   "Voiture privée avec chauffeur et prise en charge/retour à l'hôtel, visite en bateau longtail privé de 4 heures, déjeuner buffet à Koh Panyi, frais d'entrée pour le point de vue et le temple, eau dans la voiture"
+  ],
+  "notIncluded": [
+   "Frais de parc national pour l'île James Bond (300 THB/adulte, 150 THB/enfant 3-14 ans), service de kayak optionnel pendant la visite en bateau (300 THB/personne), dépenses personnelles et pourboires"
+  ]
+ },
+ "phuket-old-town-full-day-tour": {
+  "title": "Phuket : visite de la ville d'une journée complète avec le Grand Bouddha, Wat Chalong et la vieille ville",
+  "metaTitle": "Phuket : Grand Bouddha, Wat Chalong, vieille ville",
+  "metaDescription": "Explorez les meilleurs sites de Phuket lors d'une visite guidée d'une journée complète avec prise en charge hôtelière. Visitez le Grand Bouddha, Wat Chalong, le point de vue de Karon, et la colorée vieille ville sino-portugaise avec un guide local parlant anglais.",
+  "shortDescription": "Explorez les meilleurs sites de Phuket lors d'une visite guidée d'une journée complète avec prise en charge hôtelière. Visitez le Grand Bouddha, Wat Chalong, le point de vue de Karon, et la colorée vieille ville sino-portugaise avec un guide local parlant anglais.",
+  "fullDescription": "Découvrez le cœur culturel de Phuket lors de cette visite complète d'une journée de la ville avec prise en charge et retour hôteliers pratiques.\n\nVotre journée commence par un trajet pittoresque passant devant les célèbres plages de Patong, Karon, et Kata. Arrêtez-vous au point de vue de Karon pour des photos panoramiques de trois magnifiques baies s'étendant le long de la côte d'Andaman.\n\nContinuez vers la majestueuse statue du Grand Bouddha au sommet du mont Nakerd, l'un des monuments les plus emblématiques de Phuket. S'élevant à 45 mètres, le Bouddha en marbre blanc offre des vues panoramiques à 360 degrés sur l'île. Ensuite, visitez Wat Chalong, le temple bouddhiste le plus important et le plus vénéré de Phuket, situé dans la baie de Chalong.\n\nAprès avoir exploré les temples, arrêtez-vous dans une usine locale de noix de cajou pour déguster et acheter les célèbres produits à base de noix de cajou de Phuket. Dirigez-vous ensuite vers les charmantes rues de la vieille ville de Phuket, où des maisons-boutiques colorées sino-portugaises bordent les rues, parfaites pour les photos, le café local, et pour s'imprégner du patrimoine architectural unique de l'île.\n\nVotre guide partage des histoires sur l'histoire minière de l'étain à Phuket, la culture des immigrants chinois, et les traditions qui ont façonné cette île vibrante tout au long de la visite.",
+  "highlights": [
+   "Visitez l'emblématique statue du Grand Bouddha avec des vues panoramiques sur l'île",
+   "Explorez Wat Chalong, le temple bouddhiste le plus sacré de Phuket",
+   "Photographiez trois magnifiques baies depuis le point de vue de Karon",
+   "Marchez dans les rues colorées sino-portugaises de la vieille ville de Phuket",
+   "Prise en charge et retour à l'hôtel inclus pour des visites sans tracas",
+   "Guide local parlant anglais avec une connaissance approfondie de l'histoire de Phuket"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Phuket, guide parlant anglais, frais d'entrée, fourgonnette climatisée confortable"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons, dépenses personnelles, pourboires (facultatif)"
+  ]
+ },
+ "hanuman-world-phuket-adventure-tour": {
+  "title": "Hanuman World Phuket : aventure en luge et tyrolienne",
+  "metaTitle": "Phuket : luge et tyrolienne Hanuman World",
+  "metaDescription": "Découvrez le premier et unique parcours de luge à Phuket chez Hanuman World, une piste de descente de 650 mètres à travers la jungle. Combinez-la avec le forfait Zipline World+ pour une journée riche en action de tyroliennes, ponts suspendus, montagnes russes dans la jungle, une marche dans le ciel parmi les cimes des arbres, et un déjeuner buffet.",
+  "shortDescription": "Découvrez le premier et unique parcours de luge à Phuket chez Hanuman World, une piste de descente de 650 mètres à travers la jungle. Combinez-la avec le forfait Zipline World+ pour une journée riche en action de tyroliennes, ponts suspendus, montagnes russes dans la jungle, une marche dans le ciel parmi les cimes des arbres, et un déjeuner buffet.",
+  "fullDescription": "L'opérateur local est le principal parc d'aventure dans la jungle de Phuket, situé haut dans les collines du district de Kathu, entouré d'arbres de forêt tropicale centenaires. Ce forfait combiné Luge + Zipline World+ vous offre le meilleur des deux mondes, des courses pleines d'adrénaline et des aventures en canopée à haute altitude.\n\nLa luge Hanuman est la première et unique expérience de luge à Phuket, un chariot propulsé par gravité qui vous fait descendre à toute vitesse une piste sinueuse de 650 mètres taillée à travers la jungle. Vous contrôlez la vitesse avec un simple système de freinage au guidon alors que vous vous penchez dans les virages serrés, dérivez autour des bords relevés, et prenez de la vitesse dans les lignes droites. Vous obtenez deux descentes, la première pour prendre le coup de main, et la seconde pour repousser vos limites.\n\nAprès la luge, vous vous préparerez pour Zipline World+, l'aventure en canopée signature de l'opérateur local. Cela comprend des tyroliennes à grande vitesse s'étendant entre d'immenses arbres de la jungle, des ponts suspendus haut au-dessus du sol forestier, des points de rappel, et la Jungle Roller Coaster unique, un trajet sur rails de 800 mètres qui traverse les cimes des arbres à une vitesse palpitante.\n\nLa section Sky Walk offre une expérience plus sereine, un réseau de passerelles surélevées parmi la canopée où vous pouvez admirer des vues panoramiques sur la jungle et repérer la faune. C'est un beau contraste avec les activités à haute énergie.\n\nAprès toute cette aventure, vous vous installerez pour un déjeuner buffet dans la zone Wanon, inclus dans le forfait World+. C'est une pause bien méritée avec de bonne nourriture dans un cadre de jungle magnifique.\n\nTout l'équipement de sécurité (harnais, casque) est fourni, et des guides professionnels vous accompagnent tout au long. Le parc a un excellent dossier de sécurité et suit les normes internationales du tourisme d'aventure. Cette expérience convient aux personnes de 4 ans et plus et à la plupart des niveaux de condition physique, aucune capacité physique extrême n'est requise.",
+  "highlights": [
+   "Descendez la seule piste de luge de Phuket, un parcours de jungle de 650 mètres avec 2 descentes incluses",
+   "Volez à travers la canopée de la forêt tropicale sur des tyroliennes à grande vitesse entre des arbres centenaires",
+   "Montez dans la Jungle Roller Coaster de 800 mètres, un trajet à sensations fortes guidé sur rails à travers les cimes des arbres",
+   "Traversez des ponts suspendus et des points de rappel haut au-dessus du sol de la jungle",
+   "Parcourez le serein Sky Walk parmi les cimes des arbres avec des vues panoramiques sur la jungle",
+   "Profitez d'un déjeuner buffet dans la zone Wanon en pleine jungle après votre aventure"
+  ],
+  "included": [
+   "2 descentes de luge sur la piste de jungle de 650 mètres",
+   "Forfait Zipline World+ complet (tyroliennes, ponts suspendus, rappel, montagnes russes de jungle, marche dans le ciel)",
+   "Harnais et casque professionnels",
+   "Déjeuner buffet dans la zone Wanon",
+   "Prise en charge et retour à l'hôtel (depuis les zones répertoriées de Phuket)",
+   "Assurance vie/accident",
+   "Guides de sécurité professionnels tout au long"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles et souvenirs",
+   "Photos et vidéos (disponibles à l'achat au parc)",
+   "Supplément de transport pour les hôtels hors des zones de prise en charge standard (500 THB première personne + 200 THB par personne supplémentaire)"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

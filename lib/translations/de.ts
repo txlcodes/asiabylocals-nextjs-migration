@@ -46260,6 +46260,77 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder für den Guide (optional, aber geschätzt)"
   ]
  },
+ "james-bond-island-private-tour": {
+  "title": "Private Phang-Nga-Bucht-Tour ab Phuket mit James-Bond-Insel, Koh Panyi und Samet Nangshe",
+  "metaTitle": "Phang Nga: James-Bond-Insel privat",
+  "metaDescription": "Erkunden Sie die besten Highlights der Phang-Nga-Bucht bei einer vollständig privaten Tour ab Phuket. Besuchen Sie die James-Bond-Insel mit privatem Longtail-Boot, Mittagessen im schwimmenden Dorf Koh Panyi, entdecken Sie einen Höhlentempel mit liegendem Buddha, und erleben Sie Sonnenuntergangsblicke am Aussichtspunkt Samet Nangshe.",
+  "shortDescription": "Erkunden Sie die besten Highlights der Phang-Nga-Bucht bei einer vollständig privaten Tour ab Phuket. Besuchen Sie die James-Bond-Insel mit privatem Longtail-Boot, Mittagessen im schwimmenden Dorf Koh Panyi, entdecken Sie einen Höhlentempel mit liegendem Buddha, und erleben Sie Sonnenuntergangsblicke am Aussichtspunkt Samet Nangshe.",
+  "fullDescription": "Erleben Sie das Beste der Phang-Nga-Bucht bei dieser exklusiven privaten Tagestour ab Phuket, kein Teilen mit Fremden, keine Eile zwischen den Stopps.\n\nIhr privater Fahrer holt Sie gegen 8:00 Uhr von Ihrem Hotel in Phuket ab für die malerische Fahrt nach Phang Nga. Steigen Sie an Bord Ihres eigenen privaten Longtail-Boots für eine 4-stündige Kreuzfahrt durch die dramatischen Kalksteinkarste der Phang-Nga-Bucht.\n\nErster Stopp: die ikonische James-Bond-Insel (Ko Tapu), berühmt gemacht durch „Der Mann mit dem goldenen Colt\". Schwimmen Sie in den smaragdgrünen Gewässern, machen Sie Fotos vom berühmten Nadelfelsen, und erkunden Sie optional versteckte Mangrovenhöhlen mit dem Kajak. Weiter mit dem Boot nach Koh Panyi, einem bemerkenswerten muslimischen Fischerdorf, das vollständig auf Stelzen über dem Meer gebaut ist. Genießen Sie hier ein Buffet-Mittagessen mit frischen Meeresfrüchten, während Sie das tägliche Leben auf dem Wasser beobachten.\n\nNach der Bootstour fahren Sie zu Wat Suwan Khuha, einem atemberaubenden Höhlentempel mit einem 15 Meter langen liegenden Buddha und einer der einzigartigsten religiösen Stätten Thailands. Beenden Sie den Tag am Aussichtspunkt Samet Nangshe, einem versteckten Juwel mit atemberaubenden Panoramablicken über die unzähligen Kalksteininseln der Phang-Nga-Bucht. Rückkehr zu Ihrem Hotel am frühen Abend.\n\nDies ist das ultimative Phang-Nga-Erlebnis, privater Transport, privates Boot, und ein Guide, der den Tag an Ihr Tempo anpasst.",
+  "highlights": [
+   "Private Longtail-Boot-Tour durch die Kalksteinkarste der Phang-Nga-Bucht",
+   "Besuchen Sie die James-Bond-Insel (Ko Tapu) mit optionalem Kajakfahren durch Mangroven",
+   "Buffet-Mittagessen bei Koh Panyi, einem schwimmenden Fischerdorf auf Stelzen",
+   "Erkunden Sie den Höhlentempel Wat Suwan Khuha mit seinem liegenden Buddha",
+   "Panorama-Sonnenuntergangsblicke am Aussichtspunkt Samet Nangshe",
+   "Vollständig privates Auto und Fahrer, kein Teilen in der Gruppe"
+  ],
+  "included": [
+   "Privates Auto mit Fahrer und Hotelabholung/-rückfahrt, 4-stündige private Longtail-Boot-Tour, Buffet-Mittagessen bei Koh Panyi, Eintrittsgebühren für Aussichtspunkt und Tempel, Wasser im Auto"
+  ],
+  "notIncluded": [
+   "Nationalpark-Gebühr für die James-Bond-Insel (300 THB/Erwachsener, 150 THB/Kind 3-14 Jahre), optionaler Kajak-Service während der Bootstour (300 THB/Person), persönliche Ausgaben und Trinkgelder"
+  ]
+ },
+ "phuket-old-town-full-day-tour": {
+  "title": "Phuket: ganztägige Stadttour mit Big Buddha, Wat Chalong und Altstadt",
+  "metaTitle": "Phuket: Big Buddha, Wat Chalong, Altstadt",
+  "metaDescription": "Erkunden Sie Phukets Top-Sehenswürdigkeiten bei einer ganztägigen geführten Tour mit Hotelabholung. Besuchen Sie Big Buddha, Wat Chalong, den Karon-Aussichtspunkt, und die farbenfrohe sino-portugiesische Altstadt mit einem englischsprachigen lokalen Guide.",
+  "shortDescription": "Erkunden Sie Phukets Top-Sehenswürdigkeiten bei einer ganztägigen geführten Tour mit Hotelabholung. Besuchen Sie Big Buddha, Wat Chalong, den Karon-Aussichtspunkt, und die farbenfrohe sino-portugiesische Altstadt mit einem englischsprachigen lokalen Guide.",
+  "fullDescription": "Entdecken Sie das kulturelle Herz Phukets bei dieser umfassenden ganztägigen Stadttour mit bequemer Hotelabholung und -rückfahrt.\n\nIhr Tag beginnt mit einer malerischen Fahrt vorbei an den berühmten Strände von Patong, Karon, und Kata. Halten Sie am Karon-Aussichtspunkt für Panoramafotos von drei atemberaubenden Buchten entlang der Andamanenküste.\n\nWeiter zur majestätischen Big-Buddha-Statue auf dem Gipfel des Nakerd-Berges, einem der ikonischsten Wahrzeichen Phukets. Mit 45 Metern Höhe bietet der weiße Marmor-Buddha weitläufige 360-Grad-Blicke auf die Insel. Als Nächstes besuchen Sie Wat Chalong, den wichtigsten und verehrtesten buddhistischen Tempel in Phuket, gelegen in der Chalong-Bucht.\n\nNach der Erkundung der Tempel halten Sie an einer lokalen Cashewnuss-Fabrik, um Phukets berühmte Cashew-Produkte zu probieren und zu kaufen. Dann geht es weiter in die charmanten Straßen der Altstadt von Phuket, wo farbenfrohe sino-portugiesische Geschäftshäuser die Straßen säumen, perfekt für Fotos, lokalen Kaffee, und um das einzigartige architektonische Erbe der Insel aufzusaugen.\n\nIhr Guide teilt während der gesamten Tour Geschichten über Phukets Zinnbergbau-Geschichte, die Kultur der chinesischen Einwanderer, und die Traditionen, die diese lebendige Insel geprägt haben.",
+  "highlights": [
+   "Besuchen Sie die ikonische Big-Buddha-Statue mit Panoramablick auf die Insel",
+   "Erkunden Sie Wat Chalong, Phukets heiligsten buddhistischen Tempel",
+   "Fotografieren Sie drei atemberaubende Buchten vom Karon-Aussichtspunkt",
+   "Gehen Sie durch die farbenfrohen sino-portugiesischen Straßen der Altstadt von Phuket",
+   "Hotelabholung und -rückfahrt inklusive für problemlose Besichtigungen",
+   "Englischsprachiger lokaler Guide mit tiefem Wissen über Phukets Geschichte"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt in Phuket, englischsprachiger Guide, Eintrittsgebühren, komfortabler klimatisierter Van"
+  ],
+  "notIncluded": [
+   "Essen und Getränke, persönliche Ausgaben, Trinkgelder (optional)"
+  ]
+ },
+ "hanuman-world-phuket-adventure-tour": {
+  "title": "Hanuman World Phuket: Rodelbahn und Zipline-Abenteuer",
+  "metaTitle": "Phuket: Rodelbahn und Zipline Hanuman World",
+  "metaDescription": "Erleben Sie die erste und einzige Rodelbahn in Phuket bei Hanuman World, eine 650 Meter lange Bergabstrecke durch den Dschungel. Kombinieren Sie sie mit dem Zipline-World+-Paket für einen actionreichen Tag mit Ziplines, Himmelsbrücken, Dschungel-Achterbahnen, einem Himmelsspaziergang zwischen den Baumkronen, und einem Buffet-Mittagessen.",
+  "shortDescription": "Erleben Sie die erste und einzige Rodelbahn in Phuket bei Hanuman World, eine 650 Meter lange Bergabstrecke durch den Dschungel. Kombinieren Sie sie mit dem Zipline-World+-Paket für einen actionreichen Tag mit Ziplines, Himmelsbrücken, Dschungel-Achterbahnen, einem Himmelsspaziergang zwischen den Baumkronen, und einem Buffet-Mittagessen.",
+  "fullDescription": "Der lokale Betreiber ist Phukets führender Dschungel-Abenteuerpark, hoch in den Hügeln des Kathu-Distrikts gelegen, umgeben von 100 Jahre alten Regenwaldbäumen. Dieses kombinierte Rodelbahn-+-Zipline-World+-Paket bietet Ihnen das Beste aus beiden Welten, adrenalingetriebene Fahrten und hochfliegende Kronendach-Abenteuer.\n\nDie Hanuman-Rodelbahn ist Phukets erstes und einziges Rodelbahn-Erlebnis, ein schwerkraftbetriebener Wagen, der Sie eine 650 Meter lange, durch den Dschungel geschnitzte, kurvenreiche Strecke hinunterrasen lässt. Sie steuern die Geschwindigkeit mit einem einfachen Lenkerbrems-System, während Sie sich in steile Kurven lehnen, um überhöhte Kanten driften, und auf den Geraden Geschwindigkeit aufnehmen. Sie erhalten zwei Fahrten, die erste, um das Gefühl zu bekommen, und die zweite, um Ihre Grenzen auszutesten.\n\nNach der Rodelbahn rüsten Sie sich für Zipline World+ aus, das Signatur-Kronendach-Abenteuer des lokalen Betreibers. Dies umfasst Hochgeschwindigkeits-Ziplines, die sich zwischen massiven Dschungelbäumen spannen, Himmelsbrücken, die hoch über dem Waldboden hängen, Abseilpunkte, und die einzigartige Jungle Roller Coaster, eine 800 Meter lange Schienenfahrt, die sich mit aufregender Geschwindigkeit durch die Baumkronen windet.\n\nDer Sky-Walk-Abschnitt bietet ein ruhigeres Erlebnis, ein Netz erhöhter Gehwege zwischen dem Kronendach, wo Sie Panoramablicke auf den Dschungel genießen und Wildtiere entdecken können. Es ist ein schöner Kontrast zu den energiegeladenen Aktivitäten.\n\nNach diesem ganzen Abenteuer setzen Sie sich zu einem Buffet-Mittagessen in der Wanon-Zone, inklusive beim World+-Paket. Es ist eine wohlverdiente Pause mit gutem Essen in einer atemberaubenden Dschungelumgebung.\n\nDie gesamte Sicherheitsausrüstung (Gurt, Helm) wird gestellt, und professionelle Guides begleiten Sie während der gesamten Zeit. Der Park hat eine ausgezeichnete Sicherheitsbilanz und folgt internationalen Standards für Abenteuertourismus. Dieses Erlebnis ist geeignet für Alter 4+ und die meisten Fitnessstufen, keine extreme körperliche Fähigkeit erforderlich.",
+  "highlights": [
+   "Rasen Sie Phukets einzige Rodelbahn hinunter, eine 650-Meter-Dschungelfahrt mit 2 inklusiven Fahrten",
+   "Fliegen Sie durch das Regenwald-Kronendach auf Hochgeschwindigkeits-Ziplines zwischen 100 Jahre alten Bäumen",
+   "Fahren Sie die 800-Meter-Jungle-Roller-Coaster, eine schienengeführte Nervenkitzel-Fahrt durch die Baumkronen",
+   "Überqueren Sie Himmelsbrücken und Abseilpunkte hoch über dem Dschungelboden",
+   "Gehen Sie den ruhigen Sky Walk zwischen den Baumkronen mit Panoramablicken auf den Dschungel",
+   "Genießen Sie ein Buffet-Mittagessen in der Dschungel-Wanon-Zone nach Ihrem Abenteuer"
+  ],
+  "included": [
+   "2 Rodelbahn-Fahrten auf der 650-Meter-Dschungelstrecke",
+   "Vollständiges Zipline-World+-Paket (Ziplines, Himmelsbrücken, Abseilen, Dschungel-Achterbahn, Sky Walk)",
+   "Professioneller Gurt und Helm",
+   "Buffet-Mittagessen in der Wanon-Zone",
+   "Hotelabholung und -rückfahrt (aus aufgeführten Phuket-Gebieten)",
+   "Lebens-/Unfallversicherung",
+   "Professionelle Sicherheitsguides während der gesamten Zeit"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben und Souvenirs",
+   "Fotos und Videos (im Park käuflich erhältlich)",
+   "Transportzuschlag für Hotels außerhalb der Standard-Abholzonen (500 THB erste Person + 200 THB je zusätzlicher Person)"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

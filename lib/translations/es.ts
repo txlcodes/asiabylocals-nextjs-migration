@@ -46261,6 +46261,77 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas para el guía (opcional pero apreciado)"
   ]
  },
+ "james-bond-island-private-tour": {
+  "title": "Tour privado a la bahía de Phang Nga desde Phuket con la isla James Bond, Koh Panyi y Samet Nangshe",
+  "metaTitle": "Phang Nga: isla James Bond privado",
+  "metaDescription": "Explore lo mejor de la bahía de Phang Nga en un tour completamente privado desde Phuket. Visite la isla James Bond en bote longtail privado, almuerce en el pueblo flotante de Koh Panyi, descubra un templo-cueva con un Buda reclinado, y disfrute de las vistas del atardecer en el mirador de Samet Nangshe.",
+  "shortDescription": "Explore lo mejor de la bahía de Phang Nga en un tour completamente privado desde Phuket. Visite la isla James Bond en bote longtail privado, almuerce en el pueblo flotante de Koh Panyi, descubra un templo-cueva con un Buda reclinado, y disfrute de las vistas del atardecer en el mirador de Samet Nangshe.",
+  "fullDescription": "Experimente lo mejor de la bahía de Phang Nga en este exclusivo tour privado de día desde Phuket, sin compartir con extraños, sin prisas entre paradas.\n\nSu conductor privado lo recoge en su hotel de Phuket alrededor de las 8:00 AM para el pintoresco trayecto hacia Phang Nga. Suba a bordo de su propio bote longtail privado para un crucero de 4 horas a través de los dramáticos karst de piedra caliza de la bahía de Phang Nga.\n\nPrimera parada: la icónica isla James Bond (Ko Tapu), hecha famosa por \"El hombre de la pistola de oro\". Nade en las aguas color esmeralda, tome fotos de la famosa roca en forma de aguja, y explore opcionalmente cuevas de manglar escondidas en kayak. Continúe en bote hasta Koh Panyi, un notable pueblo pesquero musulmán construido completamente sobre pilotes sobre el mar. Disfrute aquí de un almuerzo buffet con mariscos frescos mientras observa la vida cotidiana desarrollarse sobre el agua.\n\nDespués del tour en bote, viaje a Wat Suwan Khuha, un impresionante templo-cueva que alberga un Buda reclinado de 15 metros y uno de los sitios religiosos más únicos de Tailandia. Termine el día en el mirador de Samet Nangshe, una joya escondida que ofrece impresionantes vistas panorámicas sobre las innumerables islas de piedra caliza de la bahía de Phang Nga. Regreso a su hotel a primera hora de la noche.\n\nEsta es la experiencia definitiva de Phang Nga, transporte privado, bote privado, y un guía que adapta el día a su ritmo.",
+  "highlights": [
+   "Tour en bote longtail privado a través de los karst de piedra caliza de la bahía de Phang Nga",
+   "Visite la isla James Bond (Ko Tapu) con kayak opcional a través de manglares",
+   "Almuerzo buffet en Koh Panyi, un pueblo pesquero flotante sobre pilotes",
+   "Explore el templo-cueva de Wat Suwan Khuha con su Buda reclinado",
+   "Vistas panorámicas del atardecer en el mirador de Samet Nangshe",
+   "Auto y conductor completamente privados, sin compartir en grupo"
+  ],
+  "included": [
+   "Auto privado con conductor y recogida/regreso al hotel, tour en bote longtail privado de 4 horas, almuerzo buffet en Koh Panyi, tarifas de entrada para mirador y templo, agua en el auto"
+  ],
+  "notIncluded": [
+   "Tarifa del parque nacional para la isla James Bond (300 THB/adulto, 150 THB/niño 3-14 años), servicio opcional de kayak durante el tour en bote (300 THB/persona), gastos personales y propinas"
+  ]
+ },
+ "phuket-old-town-full-day-tour": {
+  "title": "Phuket: tour de ciudad de día completo con el Gran Buda, Wat Chalong y la ciudad antigua",
+  "metaTitle": "Phuket: Gran Buda, Wat Chalong, ciudad antigua",
+  "metaDescription": "Explore los principales sitios de Phuket en un tour guiado de día completo con recogida en el hotel. Visite el Gran Buda, Wat Chalong, el mirador de Karon, y la colorida ciudad antigua sino-portuguesa con un guía local de habla inglesa.",
+  "shortDescription": "Explore los principales sitios de Phuket en un tour guiado de día completo con recogida en el hotel. Visite el Gran Buda, Wat Chalong, el mirador de Karon, y la colorida ciudad antigua sino-portuguesa con un guía local de habla inglesa.",
+  "fullDescription": "Descubra el corazón cultural de Phuket en este completo tour de ciudad de día completo con conveniente recogida y regreso al hotel.\n\nSu día comienza con un trayecto pintoresco pasando por las famosas playas de Patong, Karon, y Kata. Deténgase en el mirador de Karon para fotos panorámicas de tres impresionantes bahías que se extienden por la costa de Andamán.\n\nContinúe hacia la majestuosa estatua del Gran Buda en la cima de la montaña Nakerd, uno de los monumentos más icónicos de Phuket. Con 45 metros de altura, el Buda de mármol blanco ofrece amplias vistas de 360 grados de la isla. A continuación, visite Wat Chalong, el templo budista más importante y venerado de Phuket, ubicado en la bahía de Chalong.\n\nDespués de explorar los templos, deténgase en una fábrica local de anacardos para probar y comprar los famosos productos de anacardo de Phuket. Luego dirígese a las encantadoras calles de la ciudad antigua de Phuket, donde coloridas tiendas-casa sino-portuguesas bordean las calles, perfectas para fotos, café local, y para empaparse del patrimonio arquitectónico único de la isla.\n\nSu guía comparte historias sobre la historia minera del estaño de Phuket, la cultura de los inmigrantes chinos, y las tradiciones que dieron forma a esta vibrante isla durante todo el tour.",
+  "highlights": [
+   "Visite la icónica estatua del Gran Buda con vistas panorámicas de la isla",
+   "Explore Wat Chalong, el templo budista más sagrado de Phuket",
+   "Fotografíe tres impresionantes bahías desde el mirador de Karon",
+   "Camine por las coloridas calles sino-portuguesas de la ciudad antigua de Phuket",
+   "Recogida y regreso al hotel incluidos para turismo sin complicaciones",
+   "Guía local de habla inglesa con profundo conocimiento de la historia de Phuket"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Phuket, guía de habla inglesa, tarifas de entrada, furgoneta cómoda con aire acondicionado"
+  ],
+  "notIncluded": [
+   "Comida y bebidas, gastos personales, propinas (opcional)"
+  ]
+ },
+ "hanuman-world-phuket-adventure-tour": {
+  "title": "Hanuman World Phuket: trineo sobre rieles y aventura en tirolina",
+  "metaTitle": "Phuket: trineo sobre rieles y tirolina Hanuman World",
+  "metaDescription": "Experimente el primer y único trineo sobre rieles de Phuket en Hanuman World, una pista de descenso de 650 metros a través de la selva. Combínelo con el paquete Zipline World+ para un día lleno de acción con tirolinas, puentes colgantes, montañas rusas en la selva, un paseo aéreo entre las copas de los árboles, y un almuerzo buffet.",
+  "shortDescription": "Experimente el primer y único trineo sobre rieles de Phuket en Hanuman World, una pista de descenso de 650 metros a través de la selva. Combínelo con el paquete Zipline World+ para un día lleno de acción con tirolinas, puentes colgantes, montañas rusas en la selva, un paseo aéreo entre las copas de los árboles, y un almuerzo buffet.",
+  "fullDescription": "El operador local es el principal parque de aventura en la selva de Phuket, ubicado en las colinas altas del distrito de Kathu, rodeado de árboles de selva tropical centenarios. Este paquete combinado de Trineo + Zipline World+ le ofrece lo mejor de ambos mundos, paseos llenos de adrenalina y aventuras de altura en el dosel.\n\nEl trineo Hanuman es la primera y única experiencia de trineo sobre rieles de Phuket, un carro propulsado por gravedad que lo hace correr por una pista sinuosa de 650 metros tallada a través de la selva. Usted controla la velocidad con un simple sistema de freno de manillar mientras se inclina en curvas pronunciadas, deriva alrededor de bordes peraltados, y gana velocidad en las rectas. Obtiene dos recorridos, el primero para tomarle el ritmo, y el segundo para poner a prueba sus límites.\n\nDespués del trineo, se equipará para Zipline World+, la aventura de dosel distintiva del operador local. Esto incluye tirolinas de alta velocidad que se extienden entre árboles masivos de la selva, puentes colgantes suspendidos en lo alto sobre el suelo del bosque, puntos de descenso en rappel, y la única Montaña Rusa de la Selva, un recorrido sobre rieles de 800 metros que se enrosca a través de las copas de los árboles a una velocidad emocionante.\n\nLa sección Sky Walk ofrece una experiencia más serena, una red de pasarelas elevadas entre el dosel donde puede disfrutar de vistas panorámicas de la selva y detectar vida silvestre. Es un hermoso contraste con las actividades de alta energía.\n\nDespués de toda esa aventura, se sentará a un almuerzo buffet en la Zona Wanon, incluido en el paquete World+. Es un descanso bien merecido con buena comida en un entorno de selva impresionante.\n\nTodo el equipo de seguridad (arnés, casco) se proporciona, y guías profesionales lo acompañan durante todo el recorrido. El parque tiene un excelente historial de seguridad y sigue los estándares internacionales de turismo de aventura. Esta experiencia es adecuada para edades de 4 años en adelante y la mayoría de los niveles de condición física, no se requiere capacidad física extrema.",
+  "highlights": [
+   "Corra por la única pista de trineo de Phuket, un recorrido de selva de 650 metros con 2 vueltas incluidas",
+   "Vuele a través del dosel de la selva tropical en tirolinas de alta velocidad entre árboles centenarios",
+   "Monte la Montaña Rusa de la Selva de 800 metros, un paseo emocionante guiado sobre rieles a través de las copas de los árboles",
+   "Cruce puentes colgantes y puntos de rappel suspendidos en lo alto sobre el suelo de la selva",
+   "Camine por el sereno Sky Walk entre las copas de los árboles con vistas panorámicas de la selva",
+   "Disfrute de un almuerzo buffet en la Zona Wanon en plena selva después de su aventura"
+  ],
+  "included": [
+   "2 recorridos de trineo en la pista de selva de 650 metros",
+   "Paquete completo Zipline World+ (tirolinas, puentes colgantes, rappel, montaña rusa de selva, paseo aéreo)",
+   "Arnés y casco profesionales",
+   "Almuerzo buffet en la Zona Wanon",
+   "Recogida y regreso al hotel (desde las áreas listadas de Phuket)",
+   "Seguro de vida/accidentes",
+   "Guías de seguridad profesionales durante todo el recorrido"
+  ],
+  "notIncluded": [
+   "Gastos personales y recuerdos",
+   "Fotos y videos (disponibles para comprar en el parque)",
+   "Recargo de transporte para hoteles fuera de las zonas de recogida estándar (500 THB primera persona + 200 THB cada persona adicional)"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",
