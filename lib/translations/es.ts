@@ -43798,6 +43798,94 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "7-islands-sunset-tour-with-dinner-and-snorkeling-in-krabi": {
+  "title": "Tour de 7 islas al atardecer con cena y snorkel en Krabi",
+  "metaTitle": "7 islas de Krabi: atardecer, cena y snorkel",
+  "metaDescription": "Excursión de día completo en Krabi, con elementos incluidos y recogida y regreso al hotel (zonas seleccionadas). Organizada por Krabi tour, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de día completo en Krabi, con elementos incluidos y recogida y regreso al hotel (zonas seleccionadas). Organizada por Krabi tour, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "El circuito de las islas de Krabi al revés, para que esté en el agua durante la parte del día que todos los demás se pierden.\n\nLa mayoría de los barcos salen de Ao Nang por la mañana, llegan a las mismas playas al mismo tiempo que otros veinte barcos, y regresan a media tarde. Este sale más tarde y recorre las islas mientras las multitudes se dispersan. Para cuando llega a las últimas paradas, la flota de excursiones de un día se ha marchado y la luz ha cambiado, lo que constituye todo el argumento a favor de reservar la versión de la tarde.\n\nLa ruta cubre siete islas frente a la costa de Krabi, con snorkel donde el agua está clara y el arrecife es lo bastante poco profundo para valer la pena. El atardecer se disfruta desde el barco, seguido de la cena. Si las condiciones son adecuadas, la excursión termina con plancton bioluminiscente, que brilla alrededor de sus manos y pies cuando se perturba el agua. Esa parte depende de la luna: las noches oscuras cercanas a una luna nueva ofrecen el espectáculo más intenso y una luna llena lo diluye por completo, así que considérelo un extra en lugar del motivo de su reserva.\n\nUna lancha rápida cubre siete paradas en siete horas con comodidad. Es una tarde y noche largas en lugar de relajadas.\n\nEl precio incluye la recogida y el regreso al hotel en zonas seleccionadas, el traslado de ida y vuelta en lancha rápida, un guía profesional de habla inglesa, chaleco salvavidas, equipo de snorkel, agua potable y fruta fresca de temporada. Su plaza queda retenida con el operador antes de que su reserva sea definitiva.\n\nSiete horas, un día de aviso mínimo. Traiga una toalla y ropa seca.",
+  "highlights": [
+   "Salida por la tarde, así que las islas se van vaciando",
+   "Siete paradas con snorkel sobre arrecife poco profundo",
+   "Atardecer disfrutado desde el agua, cena después",
+   "Plancton si la luna está oscura, considerado un extra",
+   "Lancha rápida, guía, equipo de snorkel y recogida en el hotel"
+  ],
+  "included": [
+   "Incluido",
+   "Recogida y regreso al hotel (zonas seleccionadas)",
+   "Traslado de ida y vuelta en lancha rápida",
+   "Guía profesional de habla inglesa",
+   "Chaleco salvavidas",
+   "Equipo de snorkel",
+   "Agua potable",
+   "Fruta fresca de temporada",
+   "Cena al atardecer frente a la playa en la isla de Poda",
+   "Seguro de accidentes",
+   "Visita a la bahía de Railay y la playa de la cueva de Phra Nang",
+   "Visita a la isla del Pollo, la isla de Tup y la isla de Poda"
+  ],
+  "notIncluded": [
+   "Tarifa del parque nacional"
+  ]
+ },
+ "4-island-awesomeness-adventure-in-krabi": {
+  "title": "Aventura increíble de 4 islas en Krabi",
+  "metaTitle": "Krabi: aventura increíble de 4 islas",
+  "metaDescription": "Excursión de medio día en Krabi, con tuk-tuk, el sur de Tailandia y la costa de Andamán. Organizada por Nomads Adventures, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de medio día en Krabi, con tuk-tuk, el sur de Tailandia y la costa de Andamán. Organizada por Nomads Adventures, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "El circuito de las cuatro islas organizado como una excursión de hostal, lo que cambia más el ambiente que la ruta.\n\nLas islas son las mismas que visita cualquier barco de Krabi: Poda, la isla del Pollo con su formación rocosa, Tup y Mor unidas por el banco de arena de Thale Waek con marea baja. Lo que es diferente es que esta sale desde Nomads Krabi y Base Ao Nang Beach y se llena con sus huéspedes, así que el grupo tiende a ser joven, solitario y sociable en lugar de familia con nevera portátil.\n\nThale Waek, el Mar Separado, es la parte que merece la pena programar bien. El banco de arena emerge cuando baja la marea y une tres islas en una franja transitable a pie, y después desaparece cuando regresa el agua. Si puede caminarla depende por completo de cuándo esté allí.\n\nEl snorkel se practica sobre coral poco profundo justo frente a la isla del Pollo, lo bastante cerca de la playa para no necesitar ser un nadador seguro para verlo.\n\nEl precio es genuinamente todo incluido de una manera que es rara en esta costa: las tarifas del parque nacional están incluidas en lugar de cobrarse en el muelle, y el almuerzo, el agua durante todo el día y una cerveza están cubiertos. La mayoría de las excursiones en barco de Krabi cotizan un precio y después le quitan 300 a 400 THB en la taquilla, así que compare el total en lugar del precio anunciado.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye almuerzo, tarifas del parque nacional, agua durante todo el día, una cerveza, seguro, y recogida y regreso en Nomads Krabi o Base Ao Nang Beach.\n\nSeis horas, un día de aviso mínimo.",
+  "highlights": [
+   "Salida desde hostal, así que un grupo más joven y sociable",
+   "Camine por el banco de arena de Thale Waek con marea baja",
+   "Snorkel sobre coral poco profundo frente a la isla del Pollo",
+   "Tarifas del parque nacional incluidas, no cobradas en el muelle",
+   "Almuerzo, agua durante todo el día y una cerveza en el precio"
+  ],
+  "included": [
+   "Almuerzo",
+   "Tarifas del parque nacional",
+   "Agua durante todo el día",
+   "1 cerveza",
+   "Seguro",
+   "Diversión garantizada",
+   "Recogida y regreso en Nomads Krabi o Base Ao Nang Beach"
+  ],
+  "notIncluded": [
+   "Bebidas adicionales disponibles para comprar"
+  ]
+ },
+ "phi-phi-small-group-tour-and-early-maya-bay-with-lunch": {
+  "title": "Tour en grupo pequeño a Phi Phi con Maya Bay temprano y almuerzo",
+  "metaTitle": "Phi Phi grupo pequeño, Maya Bay temprano, almuerzo",
+  "metaDescription": "Excursión en Krabi, con punto de encuentro por la mañana y regreso para todos los hoteles y un guía turístico. Organizada por Thalassa Tour, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión en Krabi, con punto de encuentro por la mañana y regreso para todos los hoteles y un guía turístico. Organizada por Thalassa Tour, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Phi Phi en grupo pequeño con un horario temprano para Maya Bay y la tarifa del parque nacional ya incluida en el precio.\n\nMaya Bay cerró por completo de 2018 a 2022 para que el arrecife se recuperara. Reabrió bajo reglas estrictas que la mayoría de los anuncios no explican: los barcos amarran en la parte trasera de Phi Phi Leh y los visitantes entran a pie a través de la isla, el baño dentro de la bahía está restringido, y el número diario de visitantes está limitado. Un horario temprano significa entrar antes de la cola en lugar de después, lo que en un lugar con límite diario supone toda la diferencia.\n\nEl formato de grupo pequeño importa especialmente en esta ruta. Los grandes barcos a Phi Phi llevan cuarenta personas o más, y el cuello de botella no es la navegación, es el movimiento: hacer cola para desembarcar, hacer cola para volver a subir, hacer snorkel entre la multitud. Un grupo más pequeño despeja cada parada más rápido y dedica el tiempo ahorrado al agua.\n\nLa tarifa del parque nacional de 400 THB está incluida en lugar de cobrarse en el muelle. La mayoría de las cotizaciones a Phi Phi desde Krabi parecen más baratas y después le quitan eso antes de subir a bordo, así que compare el total en lugar del precio anunciado.\n\nSe incluye un almuerzo buffet tailandés, y el punto de encuentro y el regreso cubren todos los hoteles de Ao Nang.\n\nSiete horas y media con una salida temprana. Las excursiones a Phi Phi son travesías en mar abierto y una lancha rápida golpea con fuerza en cualquier marejada; quien sea propenso al mareo debería tomar algo antes de subir a bordo, no después.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva.\n\nUn día de aviso mínimo.",
+  "highlights": [
+   "Horario temprano para Maya Bay, antes de la cola en un lugar con límite diario",
+   "Reglas posteriores a 2022: a pie, baño restringido, límite diario",
+   "Grupo pequeño, así que menos colas en cada parada",
+   "Tarifa del parque nacional de 400 THB en el precio, no en el muelle",
+   "Punto de encuentro y regreso para todos los hoteles de Ao Nang"
+  ],
+  "included": [
+   "Punto de encuentro por la mañana y regreso para todos los hoteles en Ao Nang",
+   "Guía turístico",
+   "Entrada de la tarifa del parque nacional (400 THB por persona)",
+   "Almuerzo buffet tailandés en la playa (indíquenos cualquier restricción alimentaria)",
+   "Fruta fresca, refresco y agua mineral",
+   "Café",
+   "Equipo de snorkel",
+   "Identificación de peces",
+   "Chaleco salvavidas",
+   "Guía a bordo",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Toalla",
+   "Crema solar"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

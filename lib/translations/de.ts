@@ -43798,6 +43798,94 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "7-islands-sunset-tour-with-dinner-and-snorkeling-in-krabi": {
+  "title": "7-Insel-Tour zum Sonnenuntergang mit Abendessen und Schnorcheln in Krabi",
+  "metaTitle": "7 Inseln Krabi: Sonnenuntergang, Abendessen, Schnorcheln",
+  "metaDescription": "Ganztagesausflug in Krabi, mit inkludierten Leistungen und Hotelabholung und -rückfahrt (ausgewählte Gebiete). Organisiert von Krabi tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztagesausflug in Krabi, mit inkludierten Leistungen und Hotelabholung und -rückfahrt (ausgewählte Gebiete). Organisiert von Krabi tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Der Krabi-Inselrundgang rückwärts gefahren, sodass Sie für den Teil des Tages auf dem Wasser sind, den alle anderen verpassen.\n\nDie meisten Boote verlassen Ao Nang am Morgen, erreichen dieselben Strände zur selben Zeit wie zwanzig andere Boote, und sind bis zum frühen Nachmittag zurück. Dieses hier fährt später ab und arbeitet sich durch die Inseln, während sich die Menschenmassen verdünnen. Wenn Sie die letzten Stopps erreichen, ist die Tagesausflugsflotte weg und das Licht hat sich verändert, was das ganze Argument für die Buchung der Nachmittagsversion ist.\n\nDie Route umfasst sieben Inseln vor der Küste von Krabi, mit Schnorcheln, wo das Wasser klar ist und das Riff flach genug ist, um es wert zu sein. Der Sonnenuntergang wird vom Boot aus genommen, gefolgt vom Abendessen. Wenn die Bedingungen stimmen, endet der Ausflug mit biolumineszentem Plankton, das um Ihre Hände und Füße leuchtet, wenn das Wasser gestört wird. Dieser Teil hängt vom Mond ab: dunkle Nächte nahe einem Neumond liefern die stärkste Lichtshow, und ein Vollmond schwemmt sie vollständig aus, betrachten Sie es also als Bonus statt als Buchungsgrund.\n\nEin Speedboot deckt sieben Stopps in sieben Stunden bequem ab. Es ist ein langer Nachmittag und Abend statt eines entspannten.\n\nDer Preis umfasst Hotelabholung und -rückfahrt in ausgewählten Gebieten, Hin- und Rück-Speedboot-Transfer, einen professionellen englischsprachigen Guide, Schwimmweste, Schnorchelausrüstung, Trinkwasser und frisches Saisonobst. Ihr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist.\n\nSieben Stunden, mindestens ein Tag Vorlaufzeit. Bringen Sie ein Handtuch und trockene Kleidung mit.",
+  "highlights": [
+   "Nachmittagsabfahrt, sodass sich die Inseln leeren",
+   "Sieben Stopps mit Schnorcheln über flachem Riff",
+   "Sonnenuntergang vom Wasser aus genommen, danach Abendessen",
+   "Plankton bei dunklem Mond, als Bonus betrachtet",
+   "Speedboot, Guide, Schnorchelausrüstung und Hotelabholung"
+  ],
+  "included": [
+   "Inklusive",
+   "Hotelabholung und -rückfahrt (ausgewählte Gebiete)",
+   "Hin- und Rück-Speedboot-Transfer",
+   "Professioneller englischsprachiger Guide",
+   "Schwimmweste",
+   "Schnorchelausrüstung",
+   "Trinkwasser",
+   "Frisches Saisonobst",
+   "Sonnenuntergangs-Abendessen am Strand auf der Insel Poda",
+   "Unfallversicherung",
+   "Besuch der Railay Bay und des Phra-Nang-Höhlenstrands",
+   "Besuch von Chicken Island, Tup Island und der Insel Poda"
+  ],
+  "notIncluded": [
+   "Nationalpark-Gebühr"
+  ]
+ },
+ "4-island-awesomeness-adventure-in-krabi": {
+  "title": "Großartiges 4-Insel-Abenteuer in Krabi",
+  "metaTitle": "Krabi: großartiges 4-Insel-Abenteuer",
+  "metaDescription": "Halbtagesausflug in Krabi, mit Tuk-Tuk, Südthailand und der Andamanenküste. Organisiert von Nomads Adventures, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbtagesausflug in Krabi, mit Tuk-Tuk, Südthailand und der Andamanenküste. Organisiert von Nomads Adventures, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Der Vier-Insel-Rundgang als Hostel-Ausflug durchgeführt, was die Gesellschaft mehr verändert als die Route.\n\nDie Inseln sind dieselben, die jedes Krabi-Boot besucht: Poda, Chicken Island mit seiner Felsformation, Tup und Mor, verbunden durch die Thale-Waek-Sandbank bei Niedrigwasser. Der Unterschied ist, dass dieser ab Nomads Krabi und Base Ao Nang Beach abfährt und sich mit deren Gästen füllt, sodass die Gruppe eher jung, alleinreisend und gesellig ist als Familie mit Kühlbox.\n\nThale Waek, das geteilte Meer, ist der Teil, der eine gute Zeitplanung wert ist. Die Sandbank taucht bei fallender Flut auf und verbindet drei Inseln zu einem begehbaren Streifen, dann verschwindet sie wieder, wenn das Wasser zurückkehrt. Ob Sie sie begehen können, hängt ganz davon ab, wann Sie dort sind.\n\nGeschnorchelt wird über flachen Korallen direkt vor Chicken Island, nah genug am Strand, dass man kein sicherer Schwimmer sein muss, um es zu sehen.\n\nDer Preis ist auf eine Art wirklich komplett, die an dieser Küste selten ist: Nationalpark-Gebühren sind inklusive statt am Pier erhoben zu werden, und Mittagessen, Wasser den ganzen Tag und ein Bier sind abgedeckt. Die meisten Krabi-Bootsausflüge nennen einen Preis und ziehen dann 300 bis 400 THB am Ticketschalter ab, also vergleichen Sie den Gesamtpreis statt die Schlagzeile.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst Mittagessen, Nationalpark-Gebühren, Wasser den ganzen Tag, ein Bier, Versicherung, und Abholung und Rückfahrt bei Nomads Krabi oder Base Ao Nang Beach.\n\nSechs Stunden, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Hostel-Abfahrt, also eine jüngere und geselligere Gruppe",
+   "Begehen Sie die Thale-Waek-Sandbank bei Niedrigwasser",
+   "Schnorcheln über flachen Korallen vor Chicken Island",
+   "Nationalpark-Gebühren inklusive, nicht am Pier berechnet",
+   "Mittagessen, Wasser den ganzen Tag und ein Bier im Preis"
+  ],
+  "included": [
+   "Mittagessen",
+   "Nationalpark-Gebühren",
+   "Wasser den ganzen Tag",
+   "1 Bier",
+   "Versicherung",
+   "Spaß garantiert",
+   "Abholung und Rückfahrt bei Nomads Krabi oder Base Ao Nang Beach"
+  ],
+  "notIncluded": [
+   "Zusätzliche Getränke käuflich erhältlich"
+  ]
+ },
+ "phi-phi-small-group-tour-and-early-maya-bay-with-lunch": {
+  "title": "Phi-Phi-Kleingruppentour mit frühem Maya-Bay-Slot und Mittagessen",
+  "metaTitle": "Phi Phi Kleingruppe, frühe Maya Bay, Mittagessen",
+  "metaDescription": "Ausflug in Krabi, mit Treffpunkt am Morgen und Rückfahrt zu allen Hotels sowie einem Reiseleiter. Organisiert von Thalassa Tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ausflug in Krabi, mit Treffpunkt am Morgen und Rückfahrt zu allen Hotels sowie einem Reiseleiter. Organisiert von Thalassa Tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Phi Phi in kleiner Gruppe mit einem frühen Maya-Bay-Slot und der Nationalpark-Gebühr bereits im Preis.\n\nMaya Bay war von 2018 bis 2022 vollständig geschlossen, damit sich das Riff erholen konnte. Sie wurde wieder eröffnet unter strengen Regeln, die die meisten Angebote nicht erklären: Boote legen am hinteren Teil von Phi Phi Leh an, und Besucher gehen zu Fuß durch die Insel, Schwimmen innerhalb der Bucht ist eingeschränkt, und die tägliche Besucherzahl ist begrenzt. Ein früher Slot bedeutet, vor der Schlange hineinzugehen statt danach, was auf einem begrenzten Standort den ganzen Unterschied macht.\n\nDas Kleingruppenformat zählt auf dieser Route besonders. Große Phi-Phi-Boote fahren mit vierzig oder mehr Personen, und der Engpass ist nicht die Fahrt, es ist die Bewegung: Anstehen zum Aussteigen, Anstehen zum Wiedereinsteigen, Schnorcheln in der Menge. Eine kleinere Gruppe räumt jeden Stopp schneller und verbringt die gesparte Zeit im Wasser.\n\nDie Nationalpark-Gebühr von 400 THB ist inklusive statt am Pier erhoben zu werden. Die meisten Phi-Phi-Angebote ab Krabi wirken günstiger und ziehen Ihnen das dann vor dem Einstieg ab, also vergleichen Sie den Gesamtpreis statt die Schlagzeile.\n\nEin thailändisches Buffet-Mittagessen ist inklusive, und Treffpunkt und Rückfahrt decken alle Ao-Nang-Hotels ab.\n\nSiebeneinhalb Stunden mit einem frühen Start. Phi-Phi-Ausflüge sind Überfahrten über offenes Meer, und ein Speedboot schlägt in jedem Wellengang hart auf; wer zu Seekrankheit neigt, sollte vor dem Einstieg etwas einnehmen, nicht danach.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist.\n\nMindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Früher Maya-Bay-Slot, vor der Schlange an einem begrenzten Standort",
+   "Regeln seit 2022: zu Fuß, eingeschränktes Schwimmen, tägliches Limit",
+   "Kleine Gruppe, also weniger Anstehen an jedem Stopp",
+   "400 THB Nationalpark-Gebühr im Preis, nicht am Pier",
+   "Treffpunkt und Rückfahrt für alle Ao-Nang-Hotels"
+  ],
+  "included": [
+   "Treffpunkt am Morgen und Rückfahrt zu allen Hotels in Ao Nang",
+   "Reiseleiter",
+   "Nationalpark-Eintrittsgebühr (400 THB pro Person)",
+   "Thailändisches Buffet-Mittagessen am Strand (bitte Ernährungseinschränkungen mitteilen)",
+   "Frisches Obst, Limonade und Mineralwasser",
+   "Kaffee",
+   "Schnorchelausrüstung",
+   "Fischbestimmung",
+   "Schwimmweste",
+   "Leitfaden an Bord",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Handtuch",
+   "Sonnencreme"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
