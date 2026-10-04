@@ -43719,6 +43719,85 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "krabi-exclusive-phi-phi-island-discovery-by-premium-speed-by-local-operator": {
+  "title": "Exklusive Entdeckung der Insel Phi Phi ab Krabi per Premium-Speedboot von lokalem Anbieter",
+  "metaTitle": "Krabi: exklusives Phi Phi per Premium-Speedboot",
+  "metaDescription": "Ganztagesausflug in Krabi, mit Hoteltransfer und Premium-Speedboot. Organisiert von Krabi tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztagesausflug in Krabi, mit Hoteltransfer und Premium-Speedboot. Organisiert von Krabi tour, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Phi Phi ab Krabi statt ab Phuket, was die Überfahrt verkürzt und die Ankunftsreihenfolge ändert.\n\nDie Phi-Phi-Gruppe besteht aus zwei Hauptinseln. Phi Phi Don ist bewohnt, ein schmaler Sandisthmus mit einem Dorf zwischen zwei Buchten, und Phi Phi Leh ist unbewohnt und dort liegt Maya Bay. Maya Bay war von 2018 bis 2022 vollständig geschlossen, damit sich das Riff erholen konnte, und wieder eröffnet unter strengen Regeln: Boote legen am hinteren Teil der Insel an, Besucher gehen zu Fuß hinein, Schwimmen in der Bucht selbst ist eingeschränkt, und die tägliche Besucherzahl ist begrenzt. Jeder Anbieter, der Ihnen ein Schwimmen in Maya Bay verspricht, beschreibt etwas, das nicht mehr stattfindet.\n\nDer Rest des Tages umfasst die Pileh-Lagune, einen Kanal aus stillem grünem Wasser, umschlossen von Klippen, die Viking-Höhle mit ihren Felsmalereien, und Monkey Beach, wo die Makaken wirklich aggressiv in Bezug auf Essen sind und man sich von ihnen besser fernhält. Die Schnorchelstopps hängen vom Meer ab, und der Guide wählt sie am Tag selbst.\n\nAb Krabi zu starten bedeutet eine kürzere Fahrt als ab Phuket und eine bessere Chance, die Hauptstopps vor den Phuket-Booten zu erreichen.\n\nDer Preis umfasst den Hoteltransfer, das Premium-Speedboot, Buffet-Mittagessen, Schnorchelausrüstung, Trinkwasser, Saisonobst, einen professionellen Guide, Schwimmweste und Reiseversicherung. Nationalpark-Gebühren werden separat am Pier erhoben, sofern nicht anders bestätigt, führen Sie also Bargeld mit. Ihr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist.\n\nSieben Stunden ab Ao Nang, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Kürzere Überfahrt ab Krabi als ab Phuket",
+   "Maya Bay nach den Regeln seit 2022: zu Fuß, begrenzte Besucherzahl",
+   "Pileh-Lagune, Viking-Höhle und Monkey Beach",
+   "Schnorchelstopps je nach Bedingungen am Tag selbst gewählt",
+   "Speedboot, Buffet-Mittagessen, Guide und Versicherung inklusive"
+  ],
+  "included": [
+   "Hoteltransfer",
+   "Premium-Speedboot",
+   "Buffet-Mittagessen",
+   "Schnorchelausrüstung",
+   "Trinkwasser",
+   "Saisonobst",
+   "Professioneller Reiseleiter",
+   "Schwimmweste",
+   "Reiseversicherung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Gebühr",
+   "Abholung und Rückfahrt am Railay Beach nur ab dem Ao-Nam-Mao-Pier"
+  ]
+ },
+ "ko-lanta-old-town-and-mangrove-forest-sightseeing-tour-krabi": {
+  "title": "Ko Lanta: Altstadt und Mangrovenwald-Besichtigungstour (Krabi)",
+  "metaTitle": "Ko Lanta: Altstadt und Mangrovenwald",
+  "metaDescription": "Halbtagesausflug in Krabi, mit Tung Yee Peng und der Altstadt von Lanta. Organisiert von Oh-Hoo, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbtagesausflug in Krabi, mit Tung Yee Peng und der Altstadt von Lanta. Organisiert von Oh-Hoo, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Ko Lantas Ostküste, die fast niemand sieht, weil die Resorts und die Sonnenuntergänge alle im Westen liegen.\n\nDie Altstadt von Lanta ist eine einzige Straße aus hölzernen Geschäftshäusern, auf Stelzen über das Wasser gebaut, aus der Zeit, als dies der Hauptort der Insel und eine Station auf der Handelsroute zwischen Phuket und Penang war. Einige der Gebäude sind ein Jahrhundert alt und noch bewohnt. Es ist eine chinesisch-thailändische und muslimische Fischergemeinschaft statt einer konservierten Attraktion, erwarten Sie also trocknenden Fisch, Bootsreparaturen und ein paar Cafés statt einer Kulturerbe-Ausstellung.\n\nDie Mangroven-Hälfte des Ausflugs führt in die Kanäle bei Tung Yee Peng per Longtail-Boot, dessen flacher Tiefgang Wasser erreicht, das ein Speedboot nicht befahren kann. Mangrovenwald wirkt von außen gewöhnlich und ergibt mit einem Guide Sinn: Die Stelzwurzeln sind eine Kinderstube, in der Jungfische und Krabben Schutz finden, bevor sie zum Riff weiterziehen, und der Wald nimmt die Kraft der Sturmflut von der Insel dahinter. Schlammspringer, Krabben und Eisvögel sind die üblichen Sichtungen, und das Wasser liegt fast still.\n\nDies ist eine gute Wahl an einem windigen oder regnerischen Tag. Mangrovenkanäle sind geschützt, daher findet der Ausflug unter Bedingungen statt, die die Hochsee-Inseltouren zwischen Mai und Oktober absagen lassen.\n\nOh-Hoo organisiert dies und wir buchen direkt mit ihnen, sodass Ihr Platz beim Anbieter gesichert wird, bevor die Buchung endgültig ist. Der Preis umfasst den Hin- und Rück-Hoteltransfer, Mittagessen mit Trinkwasser und Obst, eine Schwimmweste, einen englischsprachigen lokalen Guide und eine grundlegende Unfallversicherung.\n\nFünf Stunden auf Ko Lanta, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Altstadt von Lanta: Stelzenhäuser an der ruhigen Ostküste",
+   "Eine aktive Fischergemeinschaft, keine Kulturerbe-Ausstellung",
+   "Longtail-Boot in die Mangrovenkanäle von Tung Yee Peng",
+   "Geschütztes Wasser, daher findet der Ausflug statt, wenn Inseltouren absagen",
+   "Mittagessen, Guide, Schwimmweste und Transfers inklusive"
+  ],
+  "included": [
+   "Hin- und Rück-Hoteltransfer",
+   "Mittagessen, Trinkwasser und Obst",
+   "Schwimmweste",
+   "Englischsprachiger lokaler Guide",
+   "Grundlegende Unfallversicherung"
+  ],
+  "notIncluded": []
+ },
+ "ethical-elephant-sanctuary-experience-in-krabi": {
+  "title": "Ethisches Elefantenschutzgebiet-Erlebnis in Krabi",
+  "metaTitle": "Krabi: ethisches Elefantenschutzgebiet",
+  "metaDescription": "Halbtagesausflug in Krabi, mit Lernen über asiatische Elefanten und Vorbereiten von Futter für Ihren Elefanten. Organisiert von Phang Nga Elephant Park, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbtagesausflug in Krabi, mit Lernen über asiatische Elefanten und Vorbereiten von Futter für Ihren Elefanten. Organisiert von Phang Nga Elephant Park, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Vier Stunden mit Elefanten, die nicht geritten werden, nach einem Programm, das um Pflege statt um Vorführung herum aufgebaut ist.\n\nDas Wort ethisch wird in ganz Thailand locker verwendet, daher hier, was es bei diesem Besuch bedeutet: kein Reiten, keine Ketten während des Programms, keine Shows. Die Zeit wird damit verbracht, Futter vorzubereiten, eine grundlegende Gesundheitskontrolle durchzuführen, zu füttern, und allgemein Tiere zu beobachten, die gewöhnliche Elefantendinge tun statt Routinen.\n\nDie Gesundheitskontrolle ist der Teil, der am meisten lehrt. Sie lernen, worauf man bei einem asiatischen Elefanten achten muss: der Zustand der Füße, die mehrere Tonnen tragen und wo die meisten gefangenen Elefanten Probleme bekommen; der Zustand der Haut hinter den Ohren; wie das Tier seinen Rüssel hält, wenn es entspannt ist. Sobald Sie wissen, wie ein gesunder Elefant aussieht, können Sie jedes Camp lesen, an dem Sie in Thailand vorbeikommen, was nützlicher ist als ein einzelner Besuch.\n\nEhrlich zu wissen wert: Asiatische Elefanten in Thailand sind fast ausschließlich in Gefangenschaft geboren oder aus der Holzfäller- und Trekkingarbeit gerettet. Ein Schutzgebiet ist eine Ruhestandseinrichtung, keine wilde Population, und die Tiere sind weiterhin auf Menschen für Futter und tierärztliche Versorgung angewiesen. Orte, die wildes Verhalten versprechen, übertreiben.\n\nTragen Sie Kleidung, deren Verschmutzung Ihnen nichts ausmacht, denn das wird passieren.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst das Lernen über asiatische Elefanten, die Vorbereitung ihres Futters, die Gesundheitskontrolle, Füttern und Pflegezeit.\n\nVier Stunden, mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Kein Reiten, keine Ketten während des Programms, keine Shows",
+   "Futter vorbereiten, füttern, und eine grundlegende Gesundheitskontrolle durchführen",
+   "Lernen, wie ein gesunder Elefant aussieht, und danach jedes Camp lesen",
+   "Gerettete und im Ruhestand lebende Tiere, keine wilde Population",
+   "Tragen Sie Kleidung, deren Verschmutzung Ihnen nichts ausmacht"
+  ],
+  "included": [
+   "Lernen über asiatische Elefanten",
+   "Vorbereitung von Futter für Ihren Elefanten",
+   "Durchführung einer vollständigen Gesundheitskontrolle Ihres Elefanten",
+   "Füttern Ihres Elefanten",
+   "Pflege der Haut Ihres Elefanten",
+   "Beobachten Ihres Elefanten beim Baden in einem erfrischenden Felsbecken",
+   "Wanderung durch den Dschungel",
+   "Traditionelles und köstliches thailändisches Mittagessen",
+   "Klimatisierter Transfer",
+   "Englischsprachiger Guide",
+   "Ausgezeichnete Dusch- und Umkleideeinrichtungen zur Aufbewahrung Ihrer Sachen verfügbar"
+  ],
+  "notIncluded": []
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

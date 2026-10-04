@@ -43719,6 +43719,85 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "krabi-exclusive-phi-phi-island-discovery-by-premium-speed-by-local-operator": {
+  "title": "Découverte exclusive de l'île de Phi Phi depuis Krabi en hors-bord premium par un opérateur local",
+  "metaTitle": "Krabi : Phi Phi exclusif en hors-bord premium",
+  "metaDescription": "Excursion d'une journée complète à Krabi, incluant transfert d'hôtel et hors-bord premium. Organisée par Krabi tour, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une journée complète à Krabi, incluant transfert d'hôtel et hors-bord premium. Organisée par Krabi tour, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Phi Phi depuis Krabi plutôt que depuis Phuket, ce qui raccourcit la traversée et change l'ordre d'arrivée.\n\nLe groupe de Phi Phi se compose de deux îles principales. Phi Phi Don est habitée, un isthme de sable étroit avec un village entre deux baies, et Phi Phi Leh est inhabitée et c'est là que se trouve Maya Bay. Maya Bay a fermé entièrement de 2018 à 2022 pour permettre au récif de se régénérer, et a rouvert sous des règles strictes : les bateaux amarrent à l'arrière de l'île et les visiteurs marchent à travers, la baignade dans la baie elle-même est restreinte, et le nombre de visiteurs quotidiens est plafonné. Tout opérateur qui vous promet une baignade dans Maya Bay décrit quelque chose qui n'a plus lieu.\n\nLe reste de la journée couvre le lagon de Pileh, un chenal d'eau verte calme entouré de falaises, la grotte Viking avec ses peintures rupestres, et la plage des Singes, où les macaques sont réellement agressifs pour la nourriture et où il vaut mieux garder ses distances. Les arrêts de plongée avec tuba dépendent de la mer et le guide les choisit le jour même.\n\nPartir de Krabi signifie une traversée plus courte que depuis Phuket et de meilleures chances d'atteindre les arrêts principaux avant les bateaux venant de Phuket.\n\nLe prix comprend le transfert d'hôtel, le hors-bord premium, le déjeuner buffet, l'équipement de plongée avec tuba, l'eau potable, les fruits de saison, un guide professionnel, un gilet de sauvetage et une assurance voyage. Les frais de parc national sont perçus séparément à la jetée sauf confirmation contraire, prévoyez donc des espèces. Votre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive.\n\nSept heures depuis Ao Nang, un jour de préavis minimum.",
+  "highlights": [
+   "Traversée plus courte depuis Krabi que depuis Phuket",
+   "Maya Bay sous les règles post-2022 : à pied, nombre plafonné",
+   "Lagon de Pileh, grotte Viking et plage des Singes",
+   "Arrêts de plongée avec tuba choisis le jour même selon les conditions",
+   "Hors-bord, déjeuner buffet, guide et assurance compris"
+  ],
+  "included": [
+   "Transfert d'hôtel",
+   "Hors-bord premium",
+   "Déjeuner buffet",
+   "Équipement de plongée avec tuba",
+   "Eau potable",
+   "Fruits de saison",
+   "Guide touristique professionnel",
+   "Gilet de sauvetage",
+   "Assurance voyage"
+  ],
+  "notIncluded": [
+   "Frais de parc national",
+   "Prise en charge et retour à la plage de Railay uniquement depuis la jetée d'Ao Nam Mao"
+  ]
+ },
+ "ko-lanta-old-town-and-mangrove-forest-sightseeing-tour-krabi": {
+  "title": "Ko Lanta : visite de la vieille ville et de la forêt de mangrove (Krabi)",
+  "metaTitle": "Ko Lanta : vieille ville et forêt de mangrove",
+  "metaDescription": "Excursion d'une demi-journée à Krabi, incluant Tung Yee Peng et la vieille ville de Lanta. Organisée par Oh-Hoo, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une demi-journée à Krabi, incluant Tung Yee Peng et la vieille ville de Lanta. Organisée par Oh-Hoo, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "La côte est de Ko Lanta, que presque personne ne voit, car les complexes hôteliers et les couchers de soleil se trouvent tous à l'ouest.\n\nLa vieille ville de Lanta est une unique rue de maisons de commerce en bois construites sur pilotis au-dessus de l'eau, datant de l'époque où c'était le principal port de l'île et une étape sur la route commerciale entre Phuket et Penang. Certains bâtiments ont un siècle et sont toujours habités. C'est une communauté de pêcheurs sino-thaïlandaise et musulmane plutôt qu'une attraction préservée, donc attendez-vous à du poisson en train de sécher, des réparations de bateaux et quelques cafés plutôt qu'une exposition patrimoniale.\n\nLa moitié mangrove de l'excursion s'aventure dans les canaux de Tung Yee Peng en bateau à longue queue, dont le faible tirant d'eau atteint des zones qu'un hors-bord ne peut atteindre. La forêt de mangrove paraît ordinaire de l'extérieur et prend tout son sens avec un guide : les racines-échasses forment une nurserie où de jeunes poissons et crabes s'abritent avant de partir vers le récif, et la forêt absorbe la force des ondes de tempête pour l'île qui se trouve derrière. Poissons-grenouilles, crabes et martins-pêcheurs sont les observations habituelles, et l'eau reste presque immobile.\n\nC'est un bon choix pour une journée venteuse ou pluvieuse. Les canaux de mangrove sont abrités, donc l'excursion fonctionne par des conditions qui annulent les excursions insulaires en haute mer entre mai et octobre.\n\nOh-Hoo organise cette excursion et nous réservons directement avec eux, votre place est donc retenue auprès de l'opérateur avant que la réservation ne soit définitive. Le prix comprend le transfert aller-retour à l'hôtel, le déjeuner avec eau potable et fruits, un gilet de sauvetage, un guide local anglophone et une assurance accident de base.\n\nCinq heures sur Ko Lanta, un jour de préavis minimum.",
+  "highlights": [
+   "Vieille ville de Lanta : maisons sur pilotis sur la côte est tranquille",
+   "Une communauté de pêcheurs active, pas une exposition patrimoniale",
+   "Longtail dans les canaux de mangrove de Tung Yee Peng",
+   "Eaux abritées, donc l'excursion fonctionne quand les sorties insulaires sont annulées",
+   "Déjeuner, guide, gilet de sauvetage et transferts compris"
+  ],
+  "included": [
+   "Transfert aller-retour à l'hôtel",
+   "Déjeuner, eau potable et fruits",
+   "Gilet de sauvetage",
+   "Guide local anglophone",
+   "Assurance accident de base"
+  ],
+  "notIncluded": []
+ },
+ "ethical-elephant-sanctuary-experience-in-krabi": {
+  "title": "Expérience de sanctuaire d'éléphants éthique à Krabi",
+  "metaTitle": "Krabi : sanctuaire d'éléphants éthique",
+  "metaDescription": "Excursion d'une demi-journée à Krabi, incluant l'apprentissage sur les éléphants d'Asie et la préparation de nourriture pour votre éléphant. Organisée par Phang Nga Elephant Park, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une demi-journée à Krabi, incluant l'apprentissage sur les éléphants d'Asie et la préparation de nourriture pour votre éléphant. Organisée par Phang Nga Elephant Park, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Quatre heures avec des éléphants qu'on ne monte pas, selon un programme construit autour du soin plutôt que de la performance.\n\nLe mot éthique est utilisé de manière lâche à travers la Thaïlande, donc voici ce qu'il signifie pour cette visite : pas de monte, pas de chaînes pendant le programme, pas de spectacles. Le temps se passe à préparer la nourriture, à effectuer un contrôle de santé de base, à nourrir, et de manière générale à observer des animaux qui font des choses d'éléphants normales plutôt que des routines.\n\nLe contrôle de santé est la partie qui enseigne le plus. Vous apprenez ce qu'il faut observer chez un éléphant d'Asie : l'état des pieds, qui portent plusieurs tonnes et où la plupart des éléphants captifs présentent des problèmes ; l'état de la peau derrière les oreilles ; la façon dont l'animal tient sa trompe quand il est détendu. Une fois que vous savez à quoi ressemble un éléphant en bonne santé, vous pouvez évaluer n'importe quel camp que vous croisez en Thaïlande, ce qui est plus utile qu'une simple visite.\n\nHonnêtement, ce qu'il faut savoir : les éléphants d'Asie en Thaïlande sont presque entièrement nés en captivité ou sauvés du travail d'abattage et de trekking. Un sanctuaire est un dispositif de retraite, pas une population sauvage, et les animaux dépendent toujours des gens pour la nourriture et les soins vétérinaires. Les endroits qui promettent un comportement sauvage exagèrent.\n\nPortez des vêtements que vous ne regretterez pas de salir, car vous le ferez.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend l'apprentissage sur les éléphants d'Asie, la préparation de leur nourriture, le contrôle de santé, le nourrissage et le temps de soin.\n\nQuatre heures, un jour de préavis minimum.",
+  "highlights": [
+   "Pas de monte, pas de chaînes pendant le programme, pas de spectacles",
+   "Préparez la nourriture, nourrissez, et effectuez un contrôle de santé de base",
+   "Apprenez à quoi ressemble un éléphant en bonne santé, et évaluez n'importe quel camp ensuite",
+   "Animaux sauvés et retraités, pas une population sauvage",
+   "Portez des vêtements que vous ne regretterez pas d'abîmer"
+  ],
+  "included": [
+   "Apprentissage sur les éléphants d'Asie",
+   "Préparation de la nourriture pour votre éléphant",
+   "Réalisation d'un contrôle de santé complet de votre éléphant",
+   "Nourrissage de votre éléphant",
+   "Soin de la peau de votre éléphant",
+   "Observation de votre éléphant se baignant dans un bassin de roche rafraîchissant",
+   "Marche à travers la jungle",
+   "Déjeuner thaïlandais traditionnel et délicieux",
+   "Transfert climatisé",
+   "Guide anglophone",
+   "Excellentes installations de douche et de vestiaire disponibles pour ranger vos affaires"
+  ],
+  "notIncluded": []
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

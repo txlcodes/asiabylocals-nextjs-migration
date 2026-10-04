@@ -43719,6 +43719,85 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "krabi-exclusive-phi-phi-island-discovery-by-premium-speed-by-local-operator": {
+  "title": "Descubrimiento exclusivo de la isla Phi Phi desde Krabi en lancha rápida premium por operador local",
+  "metaTitle": "Krabi: Phi Phi exclusivo en lancha rápida premium",
+  "metaDescription": "Excursión de día completo en Krabi, con traslado de hotel y lancha rápida premium. Organizada por Krabi tour, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de día completo en Krabi, con traslado de hotel y lancha rápida premium. Organizada por Krabi tour, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Phi Phi desde Krabi en lugar de desde Phuket, lo que acorta la travesía y cambia el orden en que llega.\n\nEl grupo de Phi Phi se compone de dos islas principales. Phi Phi Don está habitada, un estrecho istmo de arena con un pueblo entre dos bahías, y Phi Phi Leh está deshabitada y es donde se encuentra Maya Bay. Maya Bay cerró por completo de 2018 a 2022 para que el arrecife se recuperara, y reabrió bajo reglas estrictas: los barcos amarran en la parte trasera de la isla y los visitantes entran a pie, el baño en la bahía en sí está restringido, y el número diario de visitantes está limitado. Cualquier operador que le prometa un baño en Maya Bay está describiendo algo que ya no ocurre.\n\nEl resto del día cubre la laguna de Pileh, un canal de agua verde en calma rodeado de acantilados, la cueva Vikinga con sus pinturas rupestres, y la playa de los Monos, donde los macacos son realmente agresivos por la comida y conviene mantener las distancias. Las paradas de snorkel dependen del mar y el guía las elige el mismo día.\n\nSalir desde Krabi significa un trayecto más corto que desde Phuket y una mejor oportunidad de llegar a las paradas principales antes que los barcos de Phuket.\n\nEl precio incluye el traslado de hotel, la lancha rápida premium, almuerzo buffet, equipo de snorkel, agua potable, fruta de temporada, un guía profesional, chaleco salvavidas y seguro de viaje. Las tarifas del parque nacional se cobran por separado en el muelle a menos que se confirme lo contrario, así que lleve efectivo. Su plaza queda retenida con el operador antes de que su reserva sea definitiva.\n\nSiete horas desde Ao Nang, un día de aviso mínimo.",
+  "highlights": [
+   "Travesía más corta desde Krabi que desde Phuket",
+   "Maya Bay bajo las reglas posteriores a 2022: a pie, número limitado",
+   "Laguna de Pileh, cueva Vikinga y playa de los Monos",
+   "Paradas de snorkel elegidas el mismo día según las condiciones",
+   "Lancha rápida, almuerzo buffet, guía y seguro incluidos"
+  ],
+  "included": [
+   "Traslado de hotel",
+   "Lancha rápida premium",
+   "Almuerzo buffet",
+   "Equipo de snorkel",
+   "Agua potable",
+   "Fruta de temporada",
+   "Guía turístico profesional",
+   "Chaleco salvavidas",
+   "Seguro de viaje"
+  ],
+  "notIncluded": [
+   "Tarifa del parque nacional",
+   "Recogida y regreso en la playa de Railay solo desde el muelle de Ao Nam Mao"
+  ]
+ },
+ "ko-lanta-old-town-and-mangrove-forest-sightseeing-tour-krabi": {
+  "title": "Ko Lanta: casco antiguo y tour por el bosque de manglares (Krabi)",
+  "metaTitle": "Ko Lanta: casco antiguo y bosque de manglares",
+  "metaDescription": "Excursión de medio día en Krabi, con Tung Yee Peng y el casco antiguo de Lanta. Organizada por Oh-Hoo, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de medio día en Krabi, con Tung Yee Peng y el casco antiguo de Lanta. Organizada por Oh-Hoo, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "La costa este de Ko Lanta, que casi nadie ve, porque los resorts y las puestas de sol están todos en el oeste.\n\nEl casco antiguo de Lanta es una única calle de casas comerciales de madera construidas sobre el agua en pilotes, que data de cuando este era el puerto principal de la isla y una parada en la ruta comercial entre Phuket y Penang. Algunos edificios tienen un siglo de antigüedad y todavía están habitados. Es una comunidad pesquera chino-tailandesa y musulmana en lugar de una atracción conservada, así que espere pescado secándose, reparaciones de barcos y algunos cafés en lugar de una exhibición patrimonial.\n\nLa mitad de manglar de la excursión se adentra en los canales de Tung Yee Peng en barco longtail, cuyo calado reducido alcanza aguas a las que una lancha rápida no puede entrar. El bosque de manglares parece corriente desde fuera y cobra sentido con un guía: las raíces zancudas son un vivero donde peces y cangrejos juveniles se refugian antes de desplazarse al arrecife, y el bosque absorbe la fuerza del oleaje de tormenta para la isla que hay detrás. Peces saltarines, cangrejos y martines pescadores son los avistamientos habituales, y el agua permanece casi inmóvil.\n\nEsta es una buena opción en un día ventoso o lluvioso. Los canales de manglar están resguardados, así que la excursión funciona en condiciones que cancelan las excursiones a islas en mar abierto entre mayo y octubre.\n\nOh-Hoo organiza esto y reservamos directamente con ellos, así que su plaza queda retenida con el operador antes de que la reserva sea definitiva. El precio incluye el traslado de ida y vuelta al hotel, almuerzo con agua potable y fruta, un chaleco salvavidas, un guía local de habla inglesa y un seguro de accidentes básico.\n\nCinco horas en Ko Lanta, un día de aviso mínimo.",
+  "highlights": [
+   "Casco antiguo de Lanta: casas sobre pilotes en la tranquila costa este",
+   "Una comunidad pesquera en activo, no una exhibición patrimonial",
+   "Longtail hacia los canales de manglar de Tung Yee Peng",
+   "Aguas resguardadas, así que funciona cuando se cancelan las excursiones a islas",
+   "Almuerzo, guía, chaleco salvavidas y traslados incluidos"
+  ],
+  "included": [
+   "Traslado de ida y vuelta al hotel",
+   "Almuerzo, agua potable y frutas",
+   "Chaleco salvavidas",
+   "Guía local de habla inglesa",
+   "Seguro de accidentes básico"
+  ],
+  "notIncluded": []
+ },
+ "ethical-elephant-sanctuary-experience-in-krabi": {
+  "title": "Experiencia en santuario de elefantes ético en Krabi",
+  "metaTitle": "Krabi: santuario de elefantes ético",
+  "metaDescription": "Excursión de medio día en Krabi, con aprendizaje sobre elefantes asiáticos y preparación de comida para su elefante. Organizada por Phang Nga Elephant Park, reserva directa en lugar de a través de un revendedor.",
+  "shortDescription": "Excursión de medio día en Krabi, con aprendizaje sobre elefantes asiáticos y preparación de comida para su elefante. Organizada por Phang Nga Elephant Park, reserva directa en lugar de a través de un revendedor.",
+  "fullDescription": "Cuatro horas con elefantes que no se montan, en un programa construido en torno al cuidado en lugar del espectáculo.\n\nLa palabra ético se usa de forma laxa en toda Tailandia, así que esto es lo que significa en esta visita: sin montar, sin cadenas durante el programa, sin espectáculos. El tiempo se pasa preparando comida, realizando un control de salud básico, alimentando, y en general observando animales que hacen cosas de elefantes normales en lugar de rutinas.\n\nEl control de salud es la parte que más enseña. Aprende qué buscar en un elefante asiático: el estado de las patas, que soportan varias toneladas y es donde la mayoría de los elefantes cautivos presentan problemas; el estado de la piel detrás de las orejas; cómo sostiene el animal su trompa cuando está relajado. Una vez que sabe cómo luce un elefante sano, puede evaluar cualquier campamento que visite en Tailandia, lo que es más útil que una sola visita.\n\nVale la pena saber con honestidad: los elefantes asiáticos en Tailandia son casi en su totalidad criados en cautividad o rescatados del trabajo de tala y trekking. Un santuario es un arreglo de jubilación, no una población salvaje, y los animales siguen dependiendo de las personas para la comida y la atención veterinaria. Los lugares que prometen comportamiento salvaje están exagerando.\n\nUse ropa que no le importe ensuciar, porque lo hará.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye el aprendizaje sobre elefantes asiáticos, la preparación de su comida, el control de salud, la alimentación y el tiempo de cuidado.\n\nCuatro horas, un día de aviso mínimo.",
+  "highlights": [
+   "Sin montar, sin cadenas durante el programa, sin espectáculos",
+   "Prepare comida, alimente, y realice un control de salud básico",
+   "Aprenda cómo luce un elefante sano, y evalúe cualquier campamento después",
+   "Animales rescatados y jubilados, no una población salvaje",
+   "Use ropa que no le importe arruinar"
+  ],
+  "included": [
+   "Aprendizaje sobre elefantes asiáticos",
+   "Preparación de comida para su elefante",
+   "Realización de un control de salud completo de su elefante",
+   "Alimentación de su elefante",
+   "Cuidado de la piel de su elefante",
+   "Observación de su elefante bañándose en una piscina de roca refrescante",
+   "Caminata por la selva",
+   "Delicioso almuerzo tailandés tradicional",
+   "Traslado con aire acondicionado",
+   "Guía de habla inglesa",
+   "Excelentes instalaciones de ducha y taquillas disponibles para guardar sus pertenencias"
+  ],
+  "notIncluded": []
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",
