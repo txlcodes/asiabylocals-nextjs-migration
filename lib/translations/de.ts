@@ -43886,6 +43886,90 @@ export const DE_TOURS: Record<string, TourT> = {
    "Sonnencreme"
   ]
  },
+ "7-islands-sunset-tour-with-premium-longtail-boat-in-krabi": {
+  "title": "7-Insel-Sonnenuntergangstour mit Premium-Longtail-Boot in Krabi",
+  "metaTitle": "7 Inseln Krabi, Premium-Longtail, Sonnenuntergang",
+  "metaDescription": "Ganztagesausflug in Krabi, mit englisch-/thailändischsprachigem Guide und Boot. Organisiert von LOCAL CNX. TOURS 99 CO., LTD., Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztagesausflug in Krabi, mit englisch-/thailändischsprachigem Guide und Boot. Organisiert von LOCAL CNX. TOURS 99 CO., LTD., Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Sieben Inseln über einen Nachmittag und Abend auf einem Longtail-Boot, das für die Länge des Tages ausgestattet ist.\n\nAcht Stunden auf einem Standard-Longtail sind lange auf einer harten Bank. Die Premium-Version ist derselbe Bootstyp mit geregelter Sitzgelegenheit, Schatten und Platz, was auf diesem Ausflug das Meiste von dem ist, wofür Sie zahlen.\n\nDer Nachmittagsstart kehrt den üblichen Krabi-Tag um. Morgenboote erreichen alle dieselben Strände innerhalb derselben Stunde; später abzufahren bedeutet, die letzten Stopps zu erreichen, während die Flotte heimkehrt, sodass die letzten Inseln dieser Tour ruhiger sind als dieselben Inseln zur Mittagszeit.\n\nGeschnorchelt wird, während es noch hell ist, über flachem Riff, das der Guide am Tag selbst je nach Flut und Wasserklarheit auswählt. Der Sonnenuntergang wird vom Wasser aus genommen, und Krabis Kalkstein hält die Farbe lange, nachdem die Sonne untergegangen ist.\n\nDer Guide arbeitet auf Englisch und Thailändisch. Das zählt mehr, als es sich auf einem Boot anhört: Die Crew ist lokal, und die Person, die mit beiden Seiten sprechen kann, ist diejenige, die den Plan ändern kann, wenn es das Meer tut.\n\nPrüfen Sie eine Sache bei der Buchung: Hoteltransfers sind als abhängig von der gewählten Option gekennzeichnet. Bestätigen Sie, dass Ihre sie enthält, oder klären Sie, wie Sie zum Pier kommen.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst den englisch- und thailändischsprachigen Guide, das Boot, Schnorchelmaske und Schwimmweste, mit Hin- und Rück-Hoteltransfers, wenn Ihre Option sie enthält.\n\nAcht Stunden. Nationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Longtail, ausgestattet für einen achtstündigen Tag",
+   "Nachmittagsstart: letzte Stopps nachdem die Flotte abfährt",
+   "Schnorchelstopps am Tag selbst je nach Flut und Klarheit gewählt",
+   "Guide arbeitet auf Thailändisch sowie Englisch",
+   "Prüfen Sie, ob Transfers in Ihrer gewählten Option enthalten sind"
+  ],
+  "included": [
+   "Englisch-/thailändischsprachiger Guide",
+   "Boot",
+   "Hin- und Rück-Hoteltransfers (falls Option gewählt)",
+   "Schnorchelmaske",
+   "Schwimmweste",
+   "Trinkwasser",
+   "Saisonobst",
+   "Buffet-Abendessen, normale und vegetarische Gerichte",
+   "Nationalpark-Gebühr (falls Option gewählt)"
+  ],
+  "notIncluded": [
+   "Sonstige Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "krabi-pub-crawl-the-best-nightlife-tour-in-ao-nang-by-local-operator": {
+  "title": "Krabi-Kneipentour: die beste Nachtleben-Tour in Ao Nang, von lokalem Anbieter",
+  "metaTitle": "Krabi: Kneipentour, Nachtleben in Ao Nang",
+  "metaDescription": "Halbtagesausflug in Krabi, mit einer lokalen Bar. Organisiert von Bucket List Events, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Halbtagesausflug in Krabi, mit einer lokalen Bar. Organisiert von Bucket List Events, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Eine geführte Runde durch Ao Nangs Bars über fünf Stunden, die das Problem löst, allein irgendwo anzukommen und nicht zu wissen, wo was ist.\n\nAo Nangs Nachtleben erstreckt sich entlang der Strandstraße und die Seitensois hinauf, und der Unterschied zwischen den Bars ist von außen nicht offensichtlich. Eine Kneipentour löst das auf eine Art, wie es eine Karte nicht kann: Sie gehen mit einer Gruppe hinein, die bereits miteinander spricht, und der Guide weiß, welche Orte an diesem Wochentag den Stopp wert sind.\n\nDas Armband ist der Teil, der weiter funktioniert, nachdem sich die Gruppe aufgelöst hat. Es bringt Rabatte in den Lokalen entlang der Route, sodass der Rest Ihres Aufenthalts in Ao Nang günstiger wird, als er es sonst gewesen wäre.\n\nDie Weste markiert die Gruppe, was albern klingt und der Grund ist, warum Fremde mit Ihnen sprechen. Für Alleinreisende ist das der eigentliche Nutzen.\n\nPraktische Dinge, die man wissen sollte. Ao Nang ist kompakt und die gesamte Route ist zu Fuß gehbar, daher braucht niemand Transport. Thailändische Barmaße sind großzügig statt abgemessen, und Buckets sind geteilte Getränke für eine Gruppe statt eine Einzelportion, planen Sie Ihr Tempo also auf die fünf Stunden statt auf die erste Stunde. Halten Sie Handy und Bargeld in einer Vordertasche; die Strandstraße wird spätabends voll.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst die Kneipentour-Weste, ein Bucket, Pour-Shots entlang der Route, und das Rabatt-Armband.\n\nFünf Stunden, Start beim KOKO Hostel. Bringen Sie einen Ausweis mit. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Geführte Route durch Ao Nangs Bars, alles zu Fuß gehbar",
+   "Armband gibt weiter Rabatte, nachdem die Nacht endet",
+   "Weste markiert die Gruppe, weshalb Fremde mit Ihnen sprechen",
+   "Für Alleinreisende gemacht, die ohne Plan ankommen",
+   "Thailändische Maße sind großzügig: Tempo auf fünf Stunden planen"
+  ],
+  "included": [
+   "Kneipentour-Weste",
+   "Bucket",
+   "Pour-Shots (viele)",
+   "Armband (für Rabatte)",
+   "Erinnerungen (oder vielleicht nicht)"
+  ],
+  "notIncluded": [
+   "Bitte Bargeld für (rabattierte) Getränke in den Bars und Clubs mitbringen"
+  ]
+ },
+ "similan-islands-day-trip-by-speedboat": {
+  "title": "Tagesausflug zu den Similan-Inseln per Speedboot",
+  "metaTitle": "Similan-Inseln per Speedboot, Tagesausflug",
+  "metaDescription": "Ganztagesausflug in Krabi, mit Hotelabholung und -rückfahrt im Zentrum von Krabi, Klong Muang und Frühstück. Organisiert von One Asia Corporation, Direktbuchung statt über einen Wiederverkäufer.",
+  "shortDescription": "Ganztagesausflug in Krabi, mit Hotelabholung und -rückfahrt im Zentrum von Krabi, Klong Muang und Frühstück. Organisiert von One Asia Corporation, Direktbuchung statt über einen Wiederverkäufer.",
+  "fullDescription": "Ein voller Tag hinaus zu den Similans, die ein anderes Meer sind als alles, was näher an Krabi liegt.\n\nDie Similans sind neun Granitinseln draußen in der Andamanensee, und der Granit ist der eigentliche Punkt. Alles andere, was man an dieser Küste schnorchelt, ist Kalkstein; hier verwittert der Fels zu riesigen abgerundeten Felsblöcken über und unter der Wasserlinie, sodass die Unterwasserlandschaft aus Felsblockfeldern und Durchschwimmungen besteht statt aus Korallenbänken. Die Sichtweite ist routinemäßig die beste in Thailand, weshalb Taucher Reisen gezielt um diese Inseln planen.\n\nDa die Inseln weit draußen und innerhalb eines Nationalparks liegen, ist das Wasser frei von Flussausfluss, und das Fischleben ist merklich dichter als an den Küstenriffen.\n\nDie eine Sache, die man einplanen sollte: **Die Similans schließen jedes Jahr**, etwa von Mitte Oktober oder November bis April oder Mai, nach Nationalpark-Regeln, die dem Riff die Erholung durch den Monsun erlauben. Die genauen Termine werden von der Parkbehörde festgelegt und verschieben sich jährlich, bestätigen Sie also, bevor Sie einen Ausflug darum planen.\n\nFrühstück und ein internationales Buffet-Mittagessen sind inklusive, und die Hotelabholung deckt das Zentrum von Krabi, Klong Muang Beach und Ao Nang Beach ab, wenn Sie diese Option wählen.\n\nNeun Stunden mit einem langen Transfer an jedem Ende machen dies zum größten Tag auf der Krabi-Liste. Es ist ein Speedboot über offenes Meer, daher sollte jeder, der seeunempfindlich ist, etwas vor dem Einstieg einnehmen, nicht danach.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist.\n\nNationalpark-Gebühren werden separat erhoben, sofern nicht anders bestätigt. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Granitinseln: Felsblockfelder, keine Korallenbänke",
+   "Eines der klarsten Gewässer in ganz Thailand",
+   "Weit draußen, daher dichteres Fischleben als an Küstenriffen",
+   "Vom Nationalpark etwa von November bis April geschlossen",
+   "Frühstück, Buffet-Mittagessen und Abholung im Krabi-Gebiet inklusive"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt im Zentrum von Krabi, am Klong Muang Beach und am Ao Nang Beach (falls Option gewählt)",
+   "Frühstück",
+   "Internationales Buffet-Mittagessen",
+   "Snack",
+   "Softdrinks",
+   "Saisonobst",
+   "Reiseleiter",
+   "Reisekrankheitstabletten (auf Anfrage)",
+   "Maske und Schnorchel",
+   "Unfallversicherung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Gebühren",
+   "Handtuch",
+   "Trinkgelder"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

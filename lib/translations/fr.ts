@@ -43886,6 +43886,90 @@ export const FR_TOURS: Record<string, TourT> = {
    "Crème solaire"
   ]
  },
+ "7-islands-sunset-tour-with-premium-longtail-boat-in-krabi": {
+  "title": "Excursion des 7 îles au coucher du soleil en bateau à longue queue premium à Krabi",
+  "metaTitle": "7 îles de Krabi en longtail premium, coucher de soleil",
+  "metaDescription": "Excursion d'une journée complète à Krabi, incluant un guide anglophone/thaïophone et un bateau. Organisée par LOCAL CNX. TOURS 99 CO., LTD., réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une journée complète à Krabi, incluant un guide anglophone/thaïophone et un bateau. Organisée par LOCAL CNX. TOURS 99 CO., LTD., réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Sept îles sur une après-midi et une soirée à bord d'un bateau à longue queue aménagé pour la longueur de la journée.\n\nHuit heures sur un longtail standard, c'est long sur un banc dur. La version premium est le même type de bateau, mais avec l'assise, l'ombre et l'espace réglés, ce qui constitue l'essentiel de ce qu'on paie sur cette excursion.\n\nLe départ en après-midi inverse la journée habituelle à Krabi. Les bateaux du matin atteignent tous les mêmes plages dans la même heure ; partir plus tard signifie atteindre les derniers arrêts tandis que la flotte rentre chez elle, donc les dernières îles de cette excursion sont plus tranquilles que les mêmes îles ne l'étaient à midi.\n\nLa plongée avec tuba se fait tandis qu'il fait encore jour, sur un récif peu profond que le guide choisit le jour même selon la marée et la clarté de l'eau. Le coucher de soleil se prend depuis l'eau, et le calcaire de Krabi conserve sa couleur longtemps après que le soleil soit couché.\n\nLe guide travaille en anglais et en thaï. Cela compte plus qu'on ne le pense sur un bateau : l'équipage est local, et la personne capable de parler aux deux parties est celle qui peut changer le programme quand la mer le fait.\n\nVérifiez un point lors de la réservation : les transferts d'hôtel sont indiqués comme dépendant de l'option sélectionnée. Confirmez que la vôtre les inclut, ou déterminez comment vous rendre à la jetée.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend le guide anglophone et thaïophone, le bateau, le masque de plongée avec tuba et le gilet de sauvetage, avec des transferts aller-retour à l'hôtel si votre option les inclut.\n\nHuit heures. Les frais de parc national sont perçus à la jetée sauf confirmation contraire. Un jour de préavis minimum.",
+  "highlights": [
+   "Longtail aménagé pour une journée de huit heures",
+   "Départ en après-midi : derniers arrêts après le départ de la flotte",
+   "Arrêts de plongée avec tuba choisis le jour même selon la marée et la clarté",
+   "Guide travaillant en thaï comme en anglais",
+   "Vérifiez si les transferts sont inclus dans votre option"
+  ],
+  "included": [
+   "Guide anglophone/thaïophone",
+   "Bateau",
+   "Transferts aller-retour à l'hôtel (si option sélectionnée)",
+   "Masque de plongée avec tuba",
+   "Gilet de sauvetage",
+   "Eau potable",
+   "Fruits de saison",
+   "Dîner buffet, plats normaux et végétariens",
+   "Frais de parc national (si option sélectionnée)"
+  ],
+  "notIncluded": [
+   "Autres dépenses",
+   "Pourboires"
+  ]
+ },
+ "krabi-pub-crawl-the-best-nightlife-tour-in-ao-nang-by-local-operator": {
+  "title": "Tournée des bars de Krabi : la meilleure excursion nocturne à Ao Nang, par un opérateur local",
+  "metaTitle": "Krabi : tournée des bars, vie nocturne d'Ao Nang",
+  "metaDescription": "Excursion d'une demi-journée à Krabi, incluant un bar local. Organisée par Bucket List Events, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une demi-journée à Krabi, incluant un bar local. Organisée par Bucket List Events, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Un parcours guidé à travers les bars d'Ao Nang sur cinq heures, qui résout le problème d'arriver seul quelque part sans savoir où se trouve quoi.\n\nLa vie nocturne d'Ao Nang s'étend le long de la route de la plage et dans les sois adjacents, et la différence entre les bars n'est pas évidente depuis l'extérieur. Une tournée résout cela d'une manière qu'une carte ne peut pas : vous entrez avec un groupe qui discute déjà, et le guide sait quels endroits valent l'arrêt ce jour-là de la semaine.\n\nLe bracelet est la partie qui continue de fonctionner après la dissolution du groupe. Il donne droit à des réductions dans les établissements du parcours, donc le reste de votre séjour à Ao Nang coûte moins cher qu'il ne l'aurait fait.\n\nLe gilet marque le groupe, ce qui paraît ridicule et est précisément la raison pour laquelle des inconnus vous adressent la parole. Pour les voyageurs solo, c'est l'intérêt principal.\n\nChoses pratiques à savoir. Ao Nang est compacte et tout le parcours se fait à pied, donc personne n'a besoin de transport. Les mesures des bars thaïlandais sont généreuses plutôt que dosées, et les buckets sont des boissons partagées conçues pour un groupe plutôt qu'une portion individuelle, donc gérez votre rythme sur les cinq heures plutôt que sur la première heure. Gardez votre téléphone et vos espèces dans une poche avant ; la route de la plage devient bondée en fin de soirée.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend le gilet de la tournée des bars, un bucket, des shots versés le long du parcours, et le bracelet de réduction.\n\nCinq heures, en partant du KOKO Hostel. Apportez une pièce d'identité. Un jour de préavis minimum.",
+  "highlights": [
+   "Parcours guidé à travers les bars d'Ao Nang, tout à pied",
+   "Le bracelet continue d'offrir des réductions après la fin de la soirée",
+   "Le gilet marque le groupe, ce qui fait que des inconnus vous parlent",
+   "Conçu pour les voyageurs solo arrivant sans programme",
+   "Mesures thaïlandaises généreuses : gérez le rythme sur cinq heures"
+  ],
+  "included": [
+   "Gilet de tournée des bars",
+   "Bucket",
+   "Shots versés (nombreux)",
+   "Bracelet (pour les réductions)",
+   "Souvenirs (ou peut-être pas)"
+  ],
+  "notIncluded": [
+   "Merci d'apporter des espèces pour les boissons (à prix réduit) dans les bars et clubs"
+  ]
+ },
+ "similan-islands-day-trip-by-speedboat": {
+  "title": "Excursion d'une journée aux îles Similan en hors-bord",
+  "metaTitle": "Îles Similan en hors-bord, excursion d'une journée",
+  "metaDescription": "Excursion d'une journée complète à Krabi, incluant prise en charge et retour à l'hôtel dans le centre de Krabi, Klong Muang et petit-déjeuner. Organisée par One Asia Corporation, réservation directe plutôt que via un revendeur.",
+  "shortDescription": "Excursion d'une journée complète à Krabi, incluant prise en charge et retour à l'hôtel dans le centre de Krabi, Klong Muang et petit-déjeuner. Organisée par One Asia Corporation, réservation directe plutôt que via un revendeur.",
+  "fullDescription": "Une journée complète vers les Similan, une mer différente de tout ce qui se trouve plus près de Krabi.\n\nLes Similan sont neuf îles granitiques au large dans l'Andaman, et le granite est précisément l'intérêt. Tout le reste de la plongée avec tuba sur cette côte se fait sur du calcaire ; ici, la roche s'érode en énormes rochers arrondis au-dessus et sous la surface de l'eau, donc le paysage sous-marin est fait de champs de rochers et de passages à la nage plutôt que de plateau corallien. La visibilité y est régulièrement la meilleure de Thaïlande, c'est pourquoi les plongeurs planifient leurs excursions spécifiquement autour de ces îles.\n\nComme les îles se trouvent loin au large et à l'intérieur d'un parc national, l'eau est libre de tout rejet fluvial et la vie marine y est sensiblement plus dense que sur les récifs côtiers.\n\nUn point important à anticiper : **les Similan ferment chaque année**, environ de mi-octobre ou novembre jusqu'en avril ou mai, selon les règles du parc national qui permettent au récif de se régénérer pendant la mousson. Les dates exactes sont fixées par l'autorité du parc et changent d'année en année, donc vérifiez avant de construire une excursion autour.\n\nLe petit-déjeuner et un déjeuner buffet international sont compris, et la prise en charge à l'hôtel couvre le centre de Krabi, la plage de Klong Muang et la plage d'Ao Nang si vous sélectionnez cette option.\n\nNeuf heures avec un long transfert à chaque extrémité en font la plus grande journée de la liste de Krabi. C'est un hors-bord à travers la mer ouverte, donc toute personne sensible au mal de mer devrait prendre quelque chose avant l'embarquement plutôt qu'après.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive.\n\nLes frais de parc national sont perçus séparément sauf confirmation contraire. Un jour de préavis minimum.",
+  "highlights": [
+   "Îles granitiques : champs de rochers, pas de plateau corallien",
+   "Parmi les eaux les plus claires de toute la Thaïlande",
+   "Loin au large, donc une vie marine plus dense que sur les récifs côtiers",
+   "Fermées par le parc national environ de novembre à avril",
+   "Petit-déjeuner, déjeuner buffet et prise en charge dans la région de Krabi compris"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel dans le centre de Krabi, à la plage de Klong Muang et à la plage d'Ao Nang (si option sélectionnée)",
+   "Petit-déjeuner",
+   "Déjeuner buffet international",
+   "Collation",
+   "Boissons non alcoolisées",
+   "Fruits de saison",
+   "Guide touristique",
+   "Comprimés contre le mal de mer (sur demande)",
+   "Masque et tuba",
+   "Assurance accident"
+  ],
+  "notIncluded": [
+   "Frais de parc national",
+   "Serviette",
+   "Pourboires"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
