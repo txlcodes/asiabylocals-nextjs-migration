@@ -44933,6 +44933,67 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "krabi-private-longtail-charter-hong-island": {
+  "title": "Privates Luxus-Longtail-Charter zu Krabis besten Inseln",
+  "metaTitle": "Krabi: privates Luxus-Longtail, Inseln nach Wahl",
+  "metaDescription": "Chartern Sie ein aufgewertetes privates Longtail-Boot mit gepolsterten Sitzen und wählen Sie Ihre eigene Route zur Insel Hong, Chicken Island oder dem Phi-Phi-Archipel.",
+  "shortDescription": "Chartern Sie ein aufgewertetes privates Longtail-Boot mit gepolsterten Sitzen und wählen Sie Ihre eigene Route zur Insel Hong, Chicken Island oder dem Phi-Phi-Archipel.",
+  "fullDescription": "Das ganze Boot nur für Sie, und eine Route, die Sie selbst wählen, statt einer, der Sie sich anschließen.\n\nAuf einem geteilten Longtail-Boot fahren Sie, wohin der Zeitplan führt, Sie fahren ab, wenn die letzte Person wieder an Bord ist, und Sie erhalten zwanzig Minuten an einem Strand, an dem Sie eine Stunde geblieben wären. Ein Charter beseitigt das alles. Wählen Sie Hong, Chicken Island oder Phi Phi, und ändern Sie Ihre Meinung auf dem Wasser, wenn es das Meer oder die Menschenmassen nahelegen, denn der Skipper arbeitet für Ihre Gruppe statt für eine Passagierliste.\n\nDie praktischen Vorteile sind größer, als sie sich anhören. Sie können einen Stopp vor oder nach der Flotte erreichen statt mit ihr. Sie können einen belebten Strand sofort verlassen, statt die geplante Stunde abzuwarten. Mit kleinen Kindern können Sie früh nach Hause fahren, ohne das mit zwanzig Fremden auszuhandeln.\n\nDas Boot ist über ein normales Arbeits-Longtail hinaus ausgestattet: gepolsterte Sitze, ein Sonnenverdeck, und eine Badeleiter, das Detail, das am meisten zählt, denn der Wiedereinstieg in ein gewöhnliches Longtail-Boot über die Seite ist wirklich unbequem.\n\nEin Picknick wird an Bord ausgelegt, und ein lokaler Skipper arbeitet mit einem englischsprachigen Guide zusammen, sodass die Person, die das Wasser liest, und die Person, die es erklärt, zwei verschiedene Menschen sind, die jeweils ihre eigene Aufgabe gut erfüllen.\n\nBei diesem Preis ergibt es Sinn für vier oder mehr Personen, die sich die Kosten teilen, oder für alle, die das geteilte Boot einmal gemacht und entschieden haben, dass der Zeitplan das Problem war.\n\nIhr Platz wird beim Anbieter gesichert, bevor Ihre Buchung endgültig ist. Der Preis umfasst private Hotelabholung und -rückfahrt, exklusive Nutzung des Boots, den Skipper und Guide, und die Picknick-Mahlzeit.\n\nAcht Stunden. Nationalpark-Gebühren werden am Pier erhoben, sofern nicht anders bestätigt. Mindestens ein Tag Vorlaufzeit.",
+  "highlights": [
+   "Das ganze Boot nur für Sie, keine anderen Passagiere",
+   "Wählen Sie Hong, Chicken Island oder Phi Phi, und ändern Sie es auf dem Wasser",
+   "Ankunft vor oder nach der Flotte statt mit ihr",
+   "Gepolsterte Sitze, Sonnenverdeck und eine Badeleiter",
+   "Ergibt Sinn ab vier Personen, die sich die Kosten teilen"
+  ],
+  "included": [
+   "Private Hotelabholung und -rückfahrt",
+   "Exklusive Nutzung des Luxus-Longtail-Boots",
+   "Lokaler Skipper und englischsprachiger Guide",
+   "Picknick-Mahlzeit und Softdrinks",
+   "Schnorchelausrüstung und Schwimmwesten",
+   "Kühle Handtücher und Trinkwasser",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittsgebühren",
+   "Alkohol",
+   "Trinkgelder",
+   "Professionelle Fotografie",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "chicken-island-boat-tour": {
+  "title": "Vier Andamanen-Inseln per Longtail-Boot mit thailändischem Mittagessen",
+  "metaTitle": "4 Andamanen-Inseln per Longtail, thail. Mittagessen",
+  "metaDescription": "Fahren Sie mit einem traditionellen hölzernen Longtail-Boot zu vier Kalksteininseln, schnorcheln Sie über leuchtenden Rifffischen, begehen Sie eine Gezeiten-Sandbank und essen Sie ein heißes thailändisches Mittagessen im Sand.",
+  "shortDescription": "Fahren Sie mit einem traditionellen hölzernen Longtail-Boot zu vier Kalksteininseln, schnorcheln Sie über leuchtenden Rifffischen, begehen Sie eine Gezeiten-Sandbank und essen Sie ein heißes thailändisches Mittagessen im Sand.",
+  "fullDescription": "Die vier verstreuten Inseln vor Ao Nang sind der Grund, warum die meisten Reisenden überhaupt nach Krabi kommen, und der ehrliche Weg, sie zu sehen, ist der, den Einheimische immer genutzt haben: an Bord eines hölzernen Longtail-Boots mit knurrendem Motor und Gischt über dem Bug. Unser Skipper verlässt den Strand früh genug, um die Riffe vor der Ankunft der Speedboot-Flotte zu erreichen, sodass Ihr erstes Schnorcheln des Tages ruhig abläuft.\n\nSie treiben über Korallengärten vor Chicken Island, waten über die flache Sandbank, die Tup und Mor verbindet, wenn die Flut zurückgeht, und strecken sich auf Podas blassem Sandhalbmond aus. Mittagessen ist ein richtiges thailändisches Büffet, serviert im Schatten statt einer lauwarmen Lunchbox, und danach bleibt reichlich Zeit zum Schwimmen oder einfach, um zu beobachten, wie die Karstfelsen die Farbe wechseln.\n\nDer letzte Stopp ist Phra Nang und Railay, wo die Klippen direkt aus dem Wasser aufragen und das Nachmittagslicht am sanftesten ist. Ihr Guide übernimmt Gezeiten, Timing und Fotos, während Sie den Tag genießen.",
+  "highlights": [
+   "Schnorcheln über den flachen Riffen vor Chicken Island",
+   "Begehen Sie die Gezeiten-Sandbank zwischen Tup und Mor",
+   "Heißes thailändisches Mittagessen am Strand serviert",
+   "Schwimmen unter den Klippen bei Phra Nang",
+   "Traditionelles hölzernes Longtail-Boot, kein überfülltes Speedboot"
+  ],
+  "included": [
+   "Hin- und Rück-Hoteltransfer innerhalb von Ao Nang und Krabi Town",
+   "Longtail-Boot mit erfahrenem lokalem Skipper",
+   "Englischsprachiger Guide",
+   "Thailändisches Mittagessen",
+   "Schnorchelmaske und Schwimmweste",
+   "Trinkwasser und Saisonobst",
+   "Nationalpark-Eintrittsgebühr",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke",
+   "Handtücher",
+   "Unterwasserkamera-Vermietung",
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

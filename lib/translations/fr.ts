@@ -44934,6 +44934,67 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "krabi-private-longtail-charter-hong-island": {
+  "title": "Location privée de longtail de luxe vers les meilleures îles de Krabi",
+  "metaTitle": "Krabi : longtail privé de luxe, îles au choix",
+  "metaDescription": "Louez un bateau à longue queue privé amélioré avec sièges capitonnés et choisissez votre propre circuit vers l'île de Hong, l'île du Poulet ou l'archipel de Phi Phi.",
+  "shortDescription": "Louez un bateau à longue queue privé amélioré avec sièges capitonnés et choisissez votre propre circuit vers l'île de Hong, l'île du Poulet ou l'archipel de Phi Phi.",
+  "fullDescription": "Le bateau entier pour vous seuls, et un circuit que vous choisissez plutôt que de rejoindre.\n\nSur un longtail partagé, vous allez où le programme vous mène, vous partez quand la dernière personne est de retour à bord, et vous obtenez vingt minutes sur une plage où vous seriez resté une heure. Une location privée élimine tout cela. Choisissez Hong, l'île du Poulet ou Phi Phi, et changez d'avis sur l'eau si la mer ou les foules le suggèrent, car le capitaine travaille pour votre groupe plutôt que pour un manifeste.\n\nLes avantages pratiques sont plus importants qu'ils ne paraissent. Vous pouvez arriver à un arrêt avant ou après la flotte plutôt qu'avec elle. Vous pouvez quitter une plage animée immédiatement plutôt que d'attendre l'heure programmée. Avec de jeunes enfants, vous pouvez rentrer tôt sans avoir à négocier avec vingt inconnus.\n\nLe bateau est équipé au-delà d'un longtail de travail ordinaire : sièges capitonnés, auvent solaire, et une échelle de baignade, le détail qui compte le plus car remonter dans un longtail ordinaire par-dessus le bord est réellement malcommode.\n\nUn pique-nique est préparé à bord, et un capitaine local travaille avec un guide anglophone, donc la personne qui lit la mer et celle qui l'explique sont deux personnes différentes qui font chacune bien leur travail.\n\nÀ ce prix, cela a du sens pour quatre personnes ou plus se partageant le coût, ou pour quiconque a déjà fait le bateau partagé une fois et a décidé que le programme était le problème.\n\nVotre place est retenue auprès de l'opérateur avant que votre réservation ne soit définitive. Le prix comprend la prise en charge et le retour privés à l'hôtel, l'usage exclusif du bateau, le capitaine et le guide, et le repas pique-nique.\n\nHuit heures. Les frais de parc national sont perçus à la jetée sauf confirmation contraire. Un jour de préavis minimum.",
+  "highlights": [
+   "Le bateau entier pour vous seuls, sans autres passagers",
+   "Choisissez Hong, l'île du Poulet ou Phi Phi, et changez sur l'eau",
+   "Arrivez avant ou après la flotte plutôt qu'avec elle",
+   "Sièges capitonnés, auvent solaire et échelle de baignade",
+   "A du sens à partir de quatre personnes se partageant le coût"
+  ],
+  "included": [
+   "Prise en charge et retour privés à l'hôtel",
+   "Usage exclusif du bateau à longue queue de luxe",
+   "Capitaine local et guide anglophone",
+   "Repas pique-nique et boissons non alcoolisées",
+   "Équipement de plongée avec tuba et gilets de sauvetage",
+   "Serviettes fraîches et eau potable",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Frais d'entrée du parc national",
+   "Alcool",
+   "Pourboires",
+   "Photographie professionnelle",
+   "Dépenses personnelles"
+  ]
+ },
+ "chicken-island-boat-tour": {
+  "title": "Quatre îles d'Andaman en bateau à longue queue avec déjeuner thaïlandais",
+  "metaTitle": "4 îles d'Andaman en longtail, déjeuner thaïlandais",
+  "metaDescription": "Montez à bord d'un longtail en bois traditionnel vers quatre îles calcaires, plongez avec tuba parmi des poissons de récif colorés, marchez sur un banc de sable à marée et mangez un déjeuner thaïlandais chaud sur le sable.",
+  "shortDescription": "Montez à bord d'un longtail en bois traditionnel vers quatre îles calcaires, plongez avec tuba parmi des poissons de récif colorés, marchez sur un banc de sable à marée et mangez un déjeuner thaïlandais chaud sur le sable.",
+  "fullDescription": "Les quatre îles disséminées au large d'Ao Nang sont la raison principale pour laquelle la plupart des voyageurs viennent à Krabi, et la façon honnête de les découvrir est celle que les habitants ont toujours employée : à bord d'un longtail en bois, moteur grondant et embruns passant par-dessus la proue. Notre capitaine quitte la plage assez tôt pour atteindre les récifs avant l'arrivée de la flotte de hors-bords, donc votre première séance de plongée avec tuba de la journée se fait dans le calme.\n\nVous dériverez au-dessus de jardins de corail au large de l'île du Poulet, traverserez à gué le banc de sable peu profond qui relie Tup et Mor quand la marée se retire, et vous étendrez sur le croissant de sable pâle de Poda. Le déjeuner est un véritable repas thaïlandais servi à l'ombre plutôt qu'un plat-repas tiède, et il reste ensuite amplement le temps de nager ou simplement d'observer les pitons karstiques changer de couleur.\n\nLe dernier arrêt est Phra Nang et Railay, où les falaises s'élèvent directement de l'eau et où la lumière de l'après-midi est à son plus doux. Votre guide gère les marées, le timing et les photographies tandis que vous profitez de la journée.",
+  "highlights": [
+   "Plongée avec tuba sur les eaux peu profondes du récif au large de l'île du Poulet",
+   "Marchez sur le banc de sable à marée entre Tup et Mor",
+   "Déjeuner thaïlandais chaud servi sur la plage",
+   "Baignade sous les falaises à Phra Nang",
+   "Longtail en bois traditionnel, pas un hors-bord bondé"
+  ],
+  "included": [
+   "Transfert aller-retour à l'hôtel dans Ao Nang et la ville de Krabi",
+   "Bateau à longue queue avec capitaine local expérimenté",
+   "Guide anglophone",
+   "Déjeuner thaïlandais",
+   "Masque de plongée avec tuba et gilet de sauvetage",
+   "Eau potable et fruits de saison",
+   "Frais d'entrée du parc national",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisées",
+   "Serviettes",
+   "Location de caméra sous-marine",
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

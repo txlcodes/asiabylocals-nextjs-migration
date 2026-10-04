@@ -44934,6 +44934,67 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "krabi-private-longtail-charter-hong-island": {
+  "title": "Chárter privado de longtail de lujo a las mejores islas de Krabi",
+  "metaTitle": "Krabi: longtail privado de lujo, islas a elegir",
+  "metaDescription": "Fletar un barco longtail privado mejorado con asientos acolchados y elegir su propia ruta a la isla de Hong, la isla del Pollo o el archipiélago de Phi Phi.",
+  "shortDescription": "Fletar un barco longtail privado mejorado con asientos acolchados y elegir su propia ruta a la isla de Hong, la isla del Pollo o el archipiélago de Phi Phi.",
+  "fullDescription": "Todo el barco para usted solo, y una ruta que elige en lugar de unirse a una.\n\nEn un longtail compartido va donde va el horario, sale cuando la última persona está de vuelta a bordo, y obtiene veinte minutos en una playa donde se habría quedado una hora. Un chárter elimina todo eso. Elija Hong, la isla del Pollo o Phi Phi, y cambie de opinión en el agua si el mar o las multitudes lo sugieren, porque el capitán trabaja para su grupo en lugar de para un manifiesto.\n\nLas ventajas prácticas son mayores de lo que parecen. Puede llegar a una parada antes o después de la flota en lugar de con ella. Puede dejar una playa concurrida de inmediato en lugar de esperar la hora programada. Con niños pequeños, puede volver temprano sin tener que negociarlo con veinte desconocidos.\n\nEl barco está equipado más allá de un longtail de trabajo normal: asientos acolchados, un toldo solar, y una escalera de baño, el detalle que importa más porque volver a subir a un longtail corriente por el costado resulta genuinamente incómodo.\n\nSe dispone un pícnic a bordo, y un capitán local trabaja junto a un guía de habla inglesa, así que la persona que lee el agua y la que la explica son dos personas distintas que cada una hace bien su trabajo.\n\nA este precio tiene sentido para cuatro personas o más que comparten el coste, o para quien ya haya hecho el barco compartido una vez y haya decidido que el horario era el problema.\n\nSu plaza queda retenida con el operador antes de que su reserva sea definitiva. El precio incluye la recogida y el regreso privados al hotel, el uso exclusivo del barco, el capitán y el guía, y la comida de pícnic.\n\nOcho horas. Las tarifas del parque nacional se cobran en el muelle a menos que se confirme lo contrario. Un día de aviso mínimo.",
+  "highlights": [
+   "Todo el barco para usted solo, sin otros pasajeros",
+   "Elija Hong, la isla del Pollo o Phi Phi, y cambie sobre la marcha en el agua",
+   "Llegue antes o después de la flota en lugar de con ella",
+   "Asientos acolchados, toldo solar y una escalera de baño",
+   "Tiene sentido a partir de cuatro personas que comparten el coste"
+  ],
+  "included": [
+   "Recogida y regreso privados al hotel",
+   "Uso exclusivo del barco longtail de lujo",
+   "Capitán local y guía de habla inglesa",
+   "Comida de pícnic y refrescos",
+   "Equipo de snorkel y chalecos salvavidas",
+   "Toallas frías y agua potable",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada al parque nacional",
+   "Alcohol",
+   "Propinas",
+   "Fotografía profesional",
+   "Gastos personales"
+  ]
+ },
+ "chicken-island-boat-tour": {
+  "title": "Cuatro islas de Andamán en barco longtail con almuerzo tailandés",
+  "metaTitle": "4 islas de Andamán en longtail, almuerzo tailandés",
+  "metaDescription": "Suba a un longtail de madera tradicional hacia cuatro islas calizas, haga snorkel entre peces de arrecife coloridos, camine por un banco de arena de marea y coma un almuerzo tailandés caliente en la arena.",
+  "shortDescription": "Suba a un longtail de madera tradicional hacia cuatro islas calizas, haga snorkel entre peces de arrecife coloridos, camine por un banco de arena de marea y coma un almuerzo tailandés caliente en la arena.",
+  "fullDescription": "Las cuatro islas dispersas frente a Ao Nang son la razón por la que la mayoría de los viajeros vienen a Krabi en primer lugar, y la forma honesta de verlas es como lo han hecho siempre los locales: a bordo de un longtail de madera con su motor rugiendo y las salpicaduras pasando por encima de la proa. Nuestro capitán sale de la playa lo bastante temprano para llegar a los arrecifes antes de que llegue la flota de lanchas rápidas, así que su primera sesión de snorkel del día es tranquila.\n\nFlotará sobre jardines de coral frente a la isla del Pollo, vadeará el banco de arena poco profundo que une Tup y Mor cuando se retira la marea, y se tenderá en la media luna de arena pálida de Poda. El almuerzo es un auténtico despliegue tailandés servido a la sombra en lugar de una comida tibia en caja, y hay mucho tiempo después para nadar o simplemente observar cómo cambian de color los karst.\n\nLa última parada es Phra Nang y Railay, donde los acantilados se elevan directamente del agua y la luz de la tarde es más suave. Su guía se encarga de las mareas, el horario y las fotografías mientras usted disfruta del día.",
+  "highlights": [
+   "Snorkel en los bajos del arrecife frente a la isla del Pollo",
+   "Camine por el banco de arena de marea entre Tup y Mor",
+   "Almuerzo tailandés caliente servido en la playa",
+   "Baño bajo los acantilados en Phra Nang",
+   "Longtail de madera tradicional, no una lancha rápida abarrotada"
+  ],
+  "included": [
+   "Traslado de ida y vuelta al hotel dentro de Ao Nang y la ciudad de Krabi",
+   "Barco longtail con capitán local experimentado",
+   "Guía de habla inglesa",
+   "Almuerzo tailandés",
+   "Máscara de snorkel y chaleco salvavidas",
+   "Agua potable y fruta de temporada",
+   "Tarifa de entrada al parque nacional",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Bebidas alcohólicas",
+   "Toallas",
+   "Alquiler de cámara submarina",
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",
