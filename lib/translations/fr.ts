@@ -44995,6 +44995,81 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ]
  },
+ "floracreek-gardens-hang-dong-chiang-mai-mini-tour": {
+  "title": "Chiang Mai : expérience de déjeuner au jardin en bord de ruisseau",
+  "metaTitle": "Chiang Mai : déjeuner au jardin en bord de ruisseau",
+  "metaDescription": "Mangez les pieds dans un frais ruisseau de montagne dans un jardin luxuriant juste à l'extérieur de Chiang Mai, autour d'un déjeuner thaïlandais frais dans un cadre réellement tranquille.",
+  "shortDescription": "Mangez les pieds dans un frais ruisseau de montagne dans un jardin luxuriant juste à l'extérieur de Chiang Mai, autour d'un déjeuner thaïlandais frais dans un cadre réellement tranquille.",
+  "fullDescription": "À une courte distance du centre de Chiang Mai, dans le district de Hang Dong, l'aménagement de restauration de Floracreek est construit directement au-dessus d'un ruisseau de montagne qui coule : des tables basses et des coussins sont disposés pour que vous mangiez les pieds dans l'eau fraîche, un détail petit mais mémorable par rapport à l'arrêt déjeuner standard. Les jardins alentour sont denses et verdoyants, plantés de fleurs locales et d'arbres d'ombrage, et tout l'espace est conçu pour ressembler à une évasion plutôt qu'à un restaurant.\n\nLe menu propose une sélection tournante de plats frais du nord de la Thaïlande, généralement légers et faits pour être partagés, adaptés à un repas de midi détendu plutôt qu'à un déjeuner copieux assis. Cela fonctionne bien en tant qu'expérience autonome ou comme point médian calme entre une matinée et une après-midi de visites plus animées, particulièrement dans la chaleur de la journée, quand l'eau du ruisseau aide réellement à se rafraîchir.",
+  "highlights": [
+   "Mangez les pieds dans un véritable ruisseau de montagne",
+   "Cadre de jardin luxuriant loin du centre-ville",
+   "Menu de déjeuner frais et tournant du nord de la Thaïlande",
+   "Format détendu et sans précipitation de deux heures",
+   "Un lieu de déjeuner réellement unique près de Chiang Mai"
+  ],
+  "included": [
+   "Déjeuner (menu fixe de plats du nord de la Thaïlande)",
+   "Utilisation de l'espace de restauration en bord de ruisseau et des jardins",
+   "Eau potable"
+  ],
+  "notIncluded": [
+   "Transfert d'hôtel (à organiser vous-même ; situé dans le district de Hang Dong)",
+   "Boissons supplémentaires au-delà de l'eau",
+   "Pourboires"
+  ]
+ },
+ "bua-tong-sticky-waterfall-adventure-tour": {
+  "title": "Chiang Mai : aventure en petit groupe à la cascade collante de Bua Tong et à Dantewada",
+  "metaTitle": "Chiang Mai : cascade collante de Bua Tong et Dantewada",
+  "metaDescription": "Une journée détendue en petit groupe combinant l'ascension pieds nus de la cascade collante et minérale de Bua Tong avec les jardins surréalistes de conte de fées de Dantewada.",
+  "shortDescription": "Une journée détendue en petit groupe combinant l'ascension pieds nus de la cascade collante et minérale de Bua Tong avec les jardins surréalistes de conte de fées de Dantewada.",
+  "fullDescription": "Cette excursion reste délibérément en petit comité, évitant les grands bus touristiques qui encombrent les excursions d'une journée les plus populaires de Chiang Mai. La pièce maîtresse est Bua Tong, connue localement comme la cascade collante : des dépôts minéraux dans l'eau donnent au calcaire une surface d'adhérence inhabituellement élevée, donc vous pouvez réellement marcher et grimper pieds nus directement sur la face de la cascade, quelque chose qui serait impossible sur une roche mouillée normale. C'est l'une des caractéristiques naturelles les plus surprenantes près de Chiang Mai et un favori pour les photos.\n\nDe là, la journée se poursuit vers Dantewada Land of Angels, un parc de cascades construit autour d'une esthétique plus fantaisiste, de conte de fées : chutes en cascade, jardins fleuris, et des coins photogéniques qui semblent presque mis en scène malgré le fait d'être un véritable site naturel. Le format en petit groupe (limité) signifie un rythme détendu et flexible tout au long de la journée plutôt qu'un programme rigide, votre guide ajustant le timing selon ce sur quoi le groupe veut s'attarder.",
+  "highlights": [
+   "Grimpez pieds nus sur la cascade collante et minérale de Bua Tong",
+   "Explorez les jardins de conte de fées de Dantewada Land of Angels",
+   "Format en petit groupe, jamais un grand bus touristique",
+   "Rythme flexible et détendu tout au long de la journée",
+   "Excellent mélange de nature et d'arrêts photogéniques"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Guide anglophone",
+   "Frais d'entrée à la cascade collante de Bua Tong et à Dantewada",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Repas (collations/boissons disponibles à l'achat sur les deux sites)",
+   "Pourboires pour le guide et le chauffeur",
+   "Dépenses personnelles"
+  ]
+ },
+ "jungle-flight-canopy-course-chiang-mai-adventure-tour": {
+  "title": "Chiang Mai : aventure en tyrolienne Jungle Flight avec montagnes russes en canopée",
+  "metaTitle": "Chiang Mai : tyrolienne Jungle Flight, montagnes russes",
+  "metaDescription": "Parcourez l'un des parcours de tyrolienne les plus longs et les plus hauts du monde à travers la canopée de la forêt tropicale de Chiang Mai, avec un véritable segment de montagnes russes en tyrolienne.",
+  "shortDescription": "Parcourez l'un des parcours de tyrolienne les plus longs et les plus hauts du monde à travers la canopée de la forêt tropicale de Chiang Mai, avec un véritable segment de montagnes russes en tyrolienne.",
+  "fullDescription": "L'opérateur local a construit sa réputation sur l'échelle : c'est réellement l'un des parcours de tyrolienne les plus longs et les plus hauts de la région, traversant une véritable canopée de forêt tropicale à environ une heure de Chiang Mai. Au-delà du format standard de ligne à plateforme, le parcours comprend un véritable segment de « montagnes russes » en tyrolienne, où la ligne plonge et tourne plutôt que de filer en une seule ligne droite, ajoutant un type de sensation différent à la tyrolienne de canopée standard.\n\nL'équipement est certifié double câble (matériel Petzl), et chaque invité passe par un briefing complet et une vérification de l'équipement avant la première plateforme. Entre les lignes, vous traverserez des ponts suspendus et de courtes marches en canopée, les guides signalant l'écosystème forestier en chemin. C'est une matinée ou une après-midi complète, et la prise en charge gratuite depuis la vieille ville est comprise, ce qui simplifie la logistique.",
+  "highlights": [
+   "Un des parcours de tyrolienne les plus longs et les plus hauts du monde",
+   "Comprend un véritable segment de montagnes russes en tyrolienne",
+   "Système de sécurité à double câble avec équipement Petzl",
+   "Ponts suspendus et marches en canopée entre les lignes",
+   "Prise en charge gratuite depuis la vieille ville de Chiang Mai"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel/vieille ville",
+   "Accès complet à la tyrolienne et au parcours en canopée",
+   "Équipement de sécurité (harnais, casque, matériel double câble)",
+   "Équipe de guides tout au long du parcours",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Repas (sauf précisé à la réservation)",
+   "Photos/vidéos de votre parcours (peuvent être disponibles avec supplément)",
+   "Pourboires pour les guides"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

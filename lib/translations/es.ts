@@ -44995,6 +44995,81 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "floracreek-gardens-hang-dong-chiang-mai-mini-tour": {
+  "title": "Chiang Mai: experiencia de almuerzo en jardín junto al arroyo",
+  "metaTitle": "Chiang Mai: almuerzo en jardín junto al arroyo",
+  "metaDescription": "Coma con los pies en un fresco arroyo de montaña dentro de un exuberante refugio de jardín justo a las afueras de Chiang Mai, con un almuerzo tailandés fresco en un entorno realmente tranquilo.",
+  "shortDescription": "Coma con los pies en un fresco arroyo de montaña dentro de un exuberante refugio de jardín justo a las afueras de Chiang Mai, con un almuerzo tailandés fresco en un entorno realmente tranquilo.",
+  "fullDescription": "A poca distancia en coche del centro de Chiang Mai, en el distrito de Hang Dong, el restaurante Floracreek está construido directamente sobre un arroyo de montaña en movimiento, con mesas bajas y cojines dispuestos para que se siente con los pies en el agua fresca mientras come, una variante pequeña pero memorable de la parada de almuerzo habitual. Los jardines circundantes son densos y verdes, plantados con flores locales y árboles de sombra, y todo el espacio está diseñado para sentirse como un escape en lugar de un restaurante.\n\nEl menú es una selección rotativa de platos frescos del norte de Tailandia, generalmente ligeros y pensados para compartir, adecuados para una comida de almuerzo relajada en lugar de una comida pesada y sentada. Funciona bien como experiencia independiente o como punto medio tranquilo entre una mañana y una tarde más ajetreadas de visitas turísticas, especialmente en el calor del día cuando el agua del arroyo realmente ayuda a refrescar.",
+  "highlights": [
+   "Coma con los pies en un verdadero arroyo de montaña",
+   "Exuberante entorno de jardín lejos del centro de la ciudad",
+   "Menú de almuerzo fresco y rotativo del norte de Tailandia",
+   "Formato relajado y sin prisas de dos horas",
+   "Un lugar de almuerzo realmente único cerca de Chiang Mai"
+  ],
+  "included": [
+   "Almuerzo (menú fijo de platos del norte de Tailandia)",
+   "Uso del comedor junto al arroyo y los jardines",
+   "Agua potable"
+  ],
+  "notIncluded": [
+   "Traslado desde el hotel (a organizar por su cuenta; ubicado en el distrito de Hang Dong)",
+   "Bebidas adicionales además del agua",
+   "Propinas"
+  ]
+ },
+ "bua-tong-sticky-waterfall-adventure-tour": {
+  "title": "Chiang Mai: aventura en grupo pequeño a la cascada pegajosa de Bua Tong y Dantewada",
+  "metaTitle": "Chiang Mai: cascada pegajosa de Bua Tong y Dantewada",
+  "metaDescription": "Un día relajado en grupo pequeño que combina la subida descalza por la cascada pegajosa rica en minerales de Bua Tong con los surrealistas jardines de cuento de hadas de Dantewada.",
+  "shortDescription": "Un día relajado en grupo pequeño que combina la subida descalza por la cascada pegajosa rica en minerales de Bua Tong con los surrealistas jardines de cuento de hadas de Dantewada.",
+  "fullDescription": "Esta excursión se mantiene deliberadamente pequeña, evitando los grandes autobuses turísticos que abarrotan las excursiones de un día más populares desde Chiang Mai. El punto central es Bua Tong, conocida localmente como la cascada pegajosa, los depósitos minerales en el agua le dan a la piedra caliza una superficie inusualmente adherente, por lo que realmente se puede caminar y trepar descalzo directamente por la cara de la cascada, algo que sería imposible en roca mojada normal. Es una de las atracciones naturales más sorprendentes cerca de Chiang Mai y un favorito para las fotos.\n\nDesde allí, el día continúa hacia Dantewada Land of Angels, un parque de cascadas construido alrededor de una estética más fantástica y de cuento de hadas, cascadas en cascada, jardines de flores y rincones fotogénicos que se sienten casi escenificados a pesar de ser un entorno natural real. El formato de grupo pequeño (con límite bajo) significa un ritmo relajado y flexible durante todo el día en lugar de un horario rígido, con su guía ajustando el tiempo según lo que el grupo quiera disfrutar.",
+  "highlights": [
+   "Suba descalzo por la cascada pegajosa rica en minerales de Bua Tong",
+   "Explore los jardines de cuento de hadas de Dantewada Land of Angels",
+   "Formato de grupo pequeño, nunca un autobús turístico grande",
+   "Ritmo flexible y relajado durante todo el día",
+   "Excelente combinación de naturaleza y paradas fotogénicas"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Guía de habla inglesa",
+   "Entradas a la cascada pegajosa de Bua Tong y Dantewada",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Comidas (bocadillos/bebidas disponibles para comprar en ambos lugares)",
+   "Propinas para guía y conductor",
+   "Gastos personales"
+  ]
+ },
+ "jungle-flight-canopy-course-chiang-mai-adventure-tour": {
+  "title": "Chiang Mai: aventura de tirolina Jungle Flight con montaña rusa de dosel",
+  "metaTitle": "Chiang Mai: tirolina Jungle Flight, montaña rusa",
+  "metaDescription": "Recorra uno de los circuitos de tirolina más largos y altos del mundo a través del dosel de la selva tropical de Chiang Mai, incluyendo un verdadero tramo de montaña rusa de tirolina.",
+  "shortDescription": "Recorra uno de los circuitos de tirolina más largos y altos del mundo a través del dosel de la selva tropical de Chiang Mai, incluyendo un verdadero tramo de montaña rusa de tirolina.",
+  "fullDescription": "El operador local construyó su reputación sobre la escala, este es realmente uno de los circuitos de tirolina más largos y altos de la región, atravesando un dosel real de selva tropical a aproximadamente una hora de Chiang Mai. Más allá del formato estándar de cable a plataforma, el circuito incluye un verdadero tramo de \"montaña rusa\" de tirolina donde el cable cae y gira en lugar de recorrer un único tiro recto, añadiendo una emoción diferente a la tirolina de dosel estándar.\n\nEl equipo está certificado para doble cable (equipo Petzl), y cada huésped pasa por una sesión informativa completa y una verificación de equipo antes de la primera plataforma. Entre los cables, cruzará puentes colgantes y pasarelas cortas de dosel, con los guías señalando el ecosistema forestal a lo largo del camino. Es una mañana o tarde completa, y la recogida gratuita desde el casco antiguo está incluida, lo que simplifica la logística.",
+  "highlights": [
+   "Uno de los circuitos de tirolina más largos y altos del mundo",
+   "Incluye un verdadero tramo de montaña rusa de tirolina",
+   "Sistema de seguridad de doble cable con equipo Petzl",
+   "Puentes colgantes y pasarelas de dosel entre cables",
+   "Recogida gratuita desde el casco antiguo de Chiang Mai"
+  ],
+  "included": [
+   "Recogida y regreso desde el hotel/casco antiguo",
+   "Acceso completo a la tirolina y al circuito de dosel",
+   "Equipo de seguridad (arnés, casco, equipo de doble cable)",
+   "Equipo de guías durante todo el circuito",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Comidas (salvo que se indique en la reserva)",
+   "Fotos/videos de su recorrido (posiblemente disponibles con cargo adicional)",
+   "Propinas para los guías"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

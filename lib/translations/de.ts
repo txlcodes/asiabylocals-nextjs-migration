@@ -44994,6 +44994,81 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "floracreek-gardens-hang-dong-chiang-mai-mini-tour": {
+  "title": "Chiang Mai: Mittagessen-Erlebnis im Garten am Bach",
+  "metaTitle": "Chiang Mai: Mittagessen im Garten am Bach",
+  "metaDescription": "Essen Sie mit den Füßen in einem kühlen Gebirgsbach in einem üppigen Gartenrückzug direkt außerhalb von Chiang Mai, bei einem frischen thailändischen Mittagessen in einer wirklich ruhigen Umgebung.",
+  "shortDescription": "Essen Sie mit den Füßen in einem kühlen Gebirgsbach in einem üppigen Gartenrückzug direkt außerhalb von Chiang Mai, bei einem frischen thailändischen Mittagessen in einer wirklich ruhigen Umgebung.",
+  "fullDescription": "Eine kurze Fahrt vom Zentrum Chiang Mais im Bezirk Hang Dong entfernt, ist Floracreeks Restaurant-Aufbau direkt über einem fließenden Gebirgsbach gebaut, niedrige Tische und Kissen sind so angeordnet, dass Sie mit den Füßen im kühlen Wasser sitzen, während Sie essen, eine kleine, aber unvergessliche Variante des üblichen Mittagsstopps. Die umgebenden Gärten sind dicht und grün, bepflanzt mit lokalen Blumen und Schattenbäumen, und der ganze Raum ist darauf ausgelegt, sich wie eine Flucht statt wie ein Restaurant anzufühlen.\n\nDie Speisekarte ist eine wechselnde Auswahl frischer nordthailändischer Gerichte, im Allgemeinen leicht und zum Teilen gedacht, passend für eine entspannte Mittagsmahlzeit statt eines schweren Sitzessens. Es funktioniert gut als eigenständiges Erlebnis oder als ruhiger Mittelpunkt zwischen einem geschäftigeren Vormittag und Nachmittag der Besichtigung, besonders in der Hitze des Tages, wenn das Bachwasser wirklich hilft, abzukühlen.",
+  "highlights": [
+   "Essen Sie mit den Füßen in einem echten Gebirgsbach",
+   "Üppige Gartenumgebung fern vom Stadtzentrum",
+   "Frische, wechselnde nordthailändische Mittagskarte",
+   "Entspanntes, unhetziges zweistündiges Format",
+   "Ein wirklich einzigartiger Mittagsort nahe Chiang Mai"
+  ],
+  "included": [
+   "Mittagessen (Festmenü nordthailändischer Gerichte)",
+   "Nutzung des Essbereichs am Bach und der Gärten",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Hoteltransfer (selbst zu organisieren; liegt im Bezirk Hang Dong)",
+   "Zusätzliche Getränke über Wasser hinaus",
+   "Trinkgelder"
+  ]
+ },
+ "bua-tong-sticky-waterfall-adventure-tour": {
+  "title": "Chiang Mai: Kleingruppen-Abenteuer zum klebrigen Wasserfall Bua Tong und Dantewada",
+  "metaTitle": "Chiang Mai: klebriger Wasserfall Bua Tong und Dantewada",
+  "metaDescription": "Ein entspannter Tag in kleiner Gruppe, der den barfüßigen Aufstieg am mineralreichen klebrigen Wasserfall von Bua Tong mit den surrealen Märchengärten von Dantewada kombiniert.",
+  "shortDescription": "Ein entspannter Tag in kleiner Gruppe, der den barfüßigen Aufstieg am mineralreichen klebrigen Wasserfall von Bua Tong mit den surrealen Märchengärten von Dantewada kombiniert.",
+  "fullDescription": "Dieser Ausflug bleibt bewusst klein und meidet die großen Reisebusse, die die beliebteren Tagesausflüge von Chiang Mai überfüllen. Das Herzstück ist Bua Tong, lokal bekannt als der klebrige Wasserfall, Mineralablagerungen im Wasser verleihen dem Kalkstein eine ungewöhnlich griffige Oberfläche, sodass Sie wirklich barfuß direkt die Fläche des Wasserfalls hinaufgehen und klettern können, etwas, das auf normalem nassem Fels unmöglich wäre. Es ist eine der überraschenderen Naturattraktionen nahe Chiang Mai und ein Favorit für Fotos.\n\nVon dort geht der Tag weiter zu Dantewada Land of Angels, einem Wasserfallpark, der um eine fantasievollere, märchenhafte Ästhetik herum gebaut ist, kaskadierende Wasserfälle, Blumengärten, und fotogene Ecken, die sich fast inszeniert anfühlen, trotz eines echten Naturstandorts. Das Kleingruppenformat (niedrig begrenzt) bedeutet ein entspanntes, flexibles Tempo den ganzen Tag über statt eines starren Zeitplans, wobei Ihr Guide das Timing danach anpasst, wobei die Gruppe verweilen möchte.",
+  "highlights": [
+   "Klettern Sie barfuß den mineralreichen klebrigen Wasserfall bei Bua Tong hinauf",
+   "Erkunden Sie die Märchengärten von Dantewada Land of Angels",
+   "Kleingruppenformat, niemals eine große Bustour",
+   "Flexibles, entspanntes Tempo den ganzen Tag über",
+   "Großartige Mischung aus Natur und fotogenen Stopps"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt",
+   "Englischsprachiger Guide",
+   "Eintrittsgebühren für den klebrigen Wasserfall Bua Tong und Dantewada",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Mahlzeiten (Snacks/Getränke an beiden Standorten käuflich erhältlich)",
+   "Trinkgelder für Guide und Fahrer",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "jungle-flight-canopy-course-chiang-mai-adventure-tour": {
+  "title": "Chiang Mai: Jungle-Flight-Zipline-Achterbahn-Abenteuer",
+  "metaTitle": "Chiang Mai: Jungle-Flight-Zipline, Achterbahn",
+  "metaDescription": "Fahren Sie einen der längsten und höchsten Zipline-Parcours der Welt durch das Kronendach des Regenwalds von Chiang Mai, einschließlich eines echten Zipline-Achterbahn-Abschnitts.",
+  "shortDescription": "Fahren Sie einen der längsten und höchsten Zipline-Parcours der Welt durch das Kronendach des Regenwalds von Chiang Mai, einschließlich eines echten Zipline-Achterbahn-Abschnitts.",
+  "fullDescription": "Der lokale Anbieter baute seinen Ruf auf Größe auf, dies ist wirklich einer der längsten und höchsten Zipline-Parcours der Region, der sich durch echtes Regenwald-Kronendach etwa eine Stunde außerhalb von Chiang Mai zieht. Über das Standard-Format von Seil zu Plattform hinaus umfasst der Parcours einen echten Zipline-„Achterbahn\"-Abschnitt, bei dem das Seil sich senkt und kurvt statt in einem einzigen geraden Schuss zu verlaufen, was dem Standard-Kronendach-Zipline einen anderen Nervenkitzel hinzufügt.\n\nDie Ausrüstung ist für Doppelseile zugelassen (Petzl-Ausrüstung), und jeder Gast durchläuft ein vollständiges Briefing und eine Ausrüstungsprüfung vor der ersten Plattform. Zwischen den Seilen überqueren Sie Hängebrücken und kurze Kronendach-Wege, wobei Guides unterwegs auf das Waldökosystem hinweisen. Es ist ein voller Vormittag oder Nachmittag, und die kostenlose Abholung aus der Altstadt ist inklusive, was die Logistik einfach macht.",
+  "highlights": [
+   "Einer der längsten und höchsten Zipline-Parcours der Welt",
+   "Enthält einen echten Zipline-Achterbahn-Abschnitt",
+   "Doppelseil-Sicherheitssystem mit Petzl-Ausrüstung",
+   "Hängebrücken und Kronendach-Wege zwischen den Seilen",
+   "Kostenlose Abholung ab der Altstadt von Chiang Mai"
+  ],
+  "included": [
+   "Hotel-/Altstadt-Abholung und -rückfahrt",
+   "Vollständiger Zugang zu Zipline und Kronendach-Parcours",
+   "Sicherheitsausrüstung (Gurt, Helm, Doppelseil-Ausrüstung)",
+   "Guide-Team während des gesamten Parcours",
+   "Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Mahlzeiten (sofern nicht bei Buchung angegeben)",
+   "Fotos/Videos Ihrer Fahrt (gegen Aufpreis möglicherweise verfügbar)",
+   "Trinkgelder für Guides"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
