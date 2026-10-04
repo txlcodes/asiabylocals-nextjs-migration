@@ -45507,6 +45507,64 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "bangkok-night-river-experience-with-dinner-cultural-show": {
+  "title": "Bangkok: Nachtfluss-Erlebnis mit Abendessen und Kulturshow",
+  "metaTitle": "Bangkok: nächtliche Flusskreuzfahrt mit Dinner",
+  "metaDescription": "Erleben Sie ein nächtliches Flusserlebnis in Bangkok an Bord der Sawasdee-Chao-Phraya-Dinner-Kreuzfahrt ab ICONSIAM, mit Buffet-Abendessen, Live-Musik und thailändischen Kulturvorführungen, sowie atemberaubenden Stadtblicken nach Einbruch der Dunkelheit.",
+  "shortDescription": "Erleben Sie ein nächtliches Flusserlebnis in Bangkok an Bord der Sawasdee-Chao-Phraya-Dinner-Kreuzfahrt ab ICONSIAM, mit Buffet-Abendessen, Live-Musik und thailändischen Kulturvorführungen, sowie atemberaubenden Stadtblicken nach Einbruch der Dunkelheit.",
+  "fullDescription": "Erleben Sie ein nächtliches Flusserlebnis in Bangkok an Bord der Sawasdee-Chao-Phraya-Dinner-Kreuzfahrt ab ICONSIAM, mit Buffet-Abendessen, Live-Musik und thailändischen Kulturvorführungen, sowie atemberaubenden Stadtblicken nach Einbruch der Dunkelheit.",
+  "highlights": [
+   "Bangkok-Dinner-Kreuzfahrt auf dem Chao-Phraya-Fluss mit Buffet und Show."
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Tour wie beschrieben"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "khao-yai-national-park-small-group-day-trip": {
+  "title": "Ab Bangkok: Kleingruppen-Tagesausflug zum Nationalpark Khao Yai",
+  "metaTitle": "Khao Yai: Kleingruppen-Tagesausflug",
+  "metaDescription": "Machen Sie eine Pause vom geschäftigen Bangkok und verbringen Sie den Tag in der Natur, erkunden Sie den Nationalpark Khao Yai bei einem Tagesausflug mit optionalen Hoteltransfers. Wandern Sie auf Naturpfaden und sehen Sie beeindruckende Wasserfälle.",
+  "shortDescription": "Machen Sie eine Pause vom geschäftigen Bangkok und verbringen Sie den Tag in der Natur, erkunden Sie den Nationalpark Khao Yai bei einem Tagesausflug mit optionalen Hoteltransfers. Wandern Sie auf Naturpfaden und sehen Sie beeindruckende Wasserfälle.",
+  "fullDescription": "Machen Sie eine Pause vom geschäftigen Bangkok und verbringen Sie den Tag in der Natur, erkunden Sie den Nationalpark Khao Yai bei einem Tagesausflug mit optionalen Hoteltransfers. Wandern Sie auf Naturpfaden und sehen Sie beeindruckende Wasserfälle.",
+  "highlights": [
+   "Verbringen Sie einen Tag in der Natur im Nationalpark Khao Yai"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Tour wie beschrieben"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "bangkok-authentic-tasting-thai-chinatown-walking-food-tour": {
+  "title": "Bangkok: authentische Verkostungstour zu Fuß durch Thai-Chinatown",
+  "metaTitle": "Bangkok: Streetfood-Tour Chinatown",
+  "metaDescription": "Begleiten Sie die Wandertour und begeben Sie sich auf ein kulinarisches Abenteuer durch die lebendigen Straßen Bangkoks mit einer authentischen Verkostungstour mit über 10 Stationen.",
+  "shortDescription": "Begleiten Sie die Wandertour und begeben Sie sich auf ein kulinarisches Abenteuer durch die lebendigen Straßen Bangkoks mit einer authentischen Verkostungstour mit über 10 Stationen.",
+  "fullDescription": "Begleiten Sie die Wandertour und begeben Sie sich auf ein kulinarisches Abenteuer durch die lebendigen Straßen Bangkoks mit einer authentischen Verkostungstour mit über 10 Stationen.",
+  "highlights": [
+   "Über 10 authentische thailändisch-chinesische Streetfood-Verkostungen bei einer 3-stündigen Wandertour",
+   "Erkunden Sie die Seitenstraßen und versteckten Ecken von Bangkoks Chinatown (Yaowarat)",
+   "Essen Sie, wo Einheimische essen, familiengeführte Stände mit traditionsreichen Rezepten",
+   "Geführt von einem lokalen Food-Guide, der die Geschichten hinter jedem Gericht teilt",
+   "Kleingruppen-Gehtempo, perfekt für neugierige Esser und Feinschmecker"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Tour wie beschrieben"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
