@@ -45150,6 +45150,66 @@ export const ES_TOURS: Record<string, TourT> = {
    "Seguro de viaje"
   ]
  },
+ "mae-wang-elephant-eco-park-adventure-tour": {
+  "title": "Chiang Mai: parque ecológico de elefantes, quad, rafting en bambú y aventura en tirolina",
+  "metaTitle": "Chiang Mai: parque de elefantes, quad y tirolina",
+  "metaDescription": "Entrada y alimentación gratuitas en el parque de elefantes, paseo en quad por la selva de Mae Wang, rafting en bambú y parada en un pueblo Karen, con tirolina opcional.",
+  "shortDescription": "Entrada y alimentación gratuitas en el parque de elefantes, paseo en quad por la selva de Mae Wang, rafting en bambú y parada en un pueblo Karen, con tirolina opcional.",
+  "fullDescription": "Pase el día en el valle de Mae Wang combinando la entrada gratuita a un parque ecológico de elefantes con un paseo en quad por la selva. Alimente a los elefantes y aprenda sobre su cuidado de un guía local, luego enfrente un tramo de rafting en bambú por el río antes de detenerse en un cercano pueblo de la tribu de las colinas Karen. Complete el día con una parada en una cascada escondida, con una tirolina opcional para quienes quieran una dosis extra de adrenalina. Los traslados de ida y vuelta al hotel están incluidos.",
+  "highlights": [
+   "Entrada gratuita al parque ecológico de elefantes de Mae Wang con alimentación",
+   "Paseo en quad por la selva de Mae Wang",
+   "Rafting en bambú por el río",
+   "Visita a un pueblo de la tribu de las colinas Karen",
+   "Parada en una cascada secreta",
+   "Tirolina opcional"
+  ],
+  "included": [
+   "Recogida y regreso al hotel, entrada al parque de elefantes, paseo en quad, rafting en bambú, guía"
+  ],
+  "notIncluded": [
+   "Tirolina (opcional, costo adicional), gastos personales, propinas"
+  ]
+ },
+ "traditional-khan-toke-restaurant-chiang-mai-experience": {
+  "title": "Chiang Mai: cena tradicional Khan Toke y espectáculo de danza Lanna",
+  "metaTitle": "Chiang Mai: cena Khan Toke y danza Lanna",
+  "metaDescription": "Cena de estilo Khan Toke del norte de Tailandia combinada con un espectáculo cultural Lanna en vivo de danza, música y vestimenta tradicionales.",
+  "shortDescription": "Cena de estilo Khan Toke del norte de Tailandia combinada con un espectáculo cultural Lanna en vivo de danza, música y vestimenta tradicionales.",
+  "fullDescription": "Siéntese a una cena de estilo Khan Toke en Chiang Mai, una comida tradicional del norte de Tailandia servida en bandejas bajas sobre pedestal y compartida al estilo familiar. Mientras come, se desarrolla un espectáculo cultural en vivo en el escenario, bailarines Lanna con vestimenta tradicional interpretan danzas folclóricas acompañadas de música en vivo, ofreciendo una ventana al patrimonio de la región en un ambiente relajado y acogedor.",
+  "highlights": [
+   "Cena tradicional de estilo Khan Toke del norte de Tailandia",
+   "Espectáculo de danza cultural Lanna en vivo",
+   "Vestimenta tradicional y música en vivo",
+   "Introducción autentica al patrimonio de Chiang Mai"
+  ],
+  "included": [
+   "Cena Khan Toke, espectáculo cultural en vivo"
+  ],
+  "notIncluded": [
+   "Recogida/regreso al hotel (salvo que se indique en la reserva), bebidas, propinas"
+  ]
+ },
+ "kingkong-smile-zipline-doi-saket-adventure-tour": {
+  "title": "Chiang Mai: aventura en tirolina Kingkong Smile con almuerzo y traslados",
+  "metaTitle": "Chiang Mai: tirolina Kingkong Smile con almuerzo",
+  "metaDescription": "Vuele sobre el circuito de tirolina más largo y alto de Asia cerca de Chiang Mai, con un almuerzo buffet tailandés y traslados de ida y vuelta al hotel.",
+  "shortDescription": "Vuele sobre el circuito de tirolina más largo y alto de Asia cerca de Chiang Mai, con un almuerzo buffet tailandés y traslados de ida y vuelta al hotel.",
+  "fullDescription": "Vuele sobre el dosel de la selva en Kingkong Smile Zipline, hogar del circuito de tirolina más largo y alto de Asia. Elija su nivel de emoción a través de una red de plataformas y cables tendidos entre las colinas de Doi Saket, con vistas panorámicas sobre el valle debajo. Después de generar apetito en las copas de los árboles, reponga energías con un almuerzo buffet tailandés antes de regresar a su hotel. Los traslados de ida y vuelta desde Chiang Mai están incluidos, por lo que todo el día está cubierto desde la recogida hasta el regreso.",
+  "highlights": [
+   "Recorra el circuito de tirolina más largo y alto de Asia",
+   "Elija entre múltiples plataformas y cables sobre la selva",
+   "Vistas panorámicas del valle desde el circuito en el dosel",
+   "Almuerzo buffet tailandés incluido",
+   "Traslados de ida y vuelta al hotel desde Chiang Mai"
+  ],
+  "included": [
+   "Recogida y regreso al hotel, acceso al circuito de tirolina, equipo de seguridad, almuerzo buffet tailandés"
+  ],
+  "notIncluded": [
+   "Gastos personales, propinas, seguro de viaje"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

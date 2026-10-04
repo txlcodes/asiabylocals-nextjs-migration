@@ -45149,6 +45149,66 @@ export const DE_TOURS: Record<string, TourT> = {
    "Reiseversicherung"
   ]
  },
+ "mae-wang-elephant-eco-park-adventure-tour": {
+  "title": "Chiang Mai: Elefanten-Ökopark, Quad, Bambus-Rafting und Zipline-Abenteuer",
+  "metaTitle": "Chiang Mai: Elefantenpark, Quad und Zipline",
+  "metaDescription": "Kostenloser Eintritt und Fütterung im Elefantenpark, Quad-Fahrt durch den Dschungel von Mae Wang, Bambus-Rafting und Stopp in einem Karen-Dorf, mit optionaler Zipline.",
+  "shortDescription": "Kostenloser Eintritt und Fütterung im Elefantenpark, Quad-Fahrt durch den Dschungel von Mae Wang, Bambus-Rafting und Stopp in einem Karen-Dorf, mit optionaler Zipline.",
+  "fullDescription": "Verbringen Sie den Tag im Mae-Wang-Tal und kombinieren Sie kostenlosen Eintritt in einen Elefanten-Ökopark mit einer Quad-Fahrt durch den Dschungel. Füttern Sie die Elefanten und lernen Sie von einem lokalen Guide mehr über ihre Pflege, unternehmen Sie dann eine Strecke Bambus-Rafting den Fluss hinab, bevor Sie in einem nahegelegenen Dorf des Karen-Bergvolkes anhalten. Runden Sie den Tag mit einem Stopp an einem versteckten Wasserfall ab, mit einer optionalen Zipline für diejenigen, die einen zusätzlichen Adrenalinschub wollen. Hin- und Rücktransfer vom Hotel sind inklusive.",
+  "highlights": [
+   "Kostenloser Eintritt in den Elefanten-Ökopark Mae Wang mit Fütterung",
+   "Quad-Fahrt durch den Dschungel von Mae Wang",
+   "Bambus-Rafting den Fluss hinab",
+   "Besuch eines Dorfes des Karen-Bergvolkes",
+   "Stopp an einem geheimen Wasserfall",
+   "Optionale Zipline"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt, Eintritt in den Elefantenpark, Quad-Fahrt, Bambus-Rafting, Guide"
+  ],
+  "notIncluded": [
+   "Zipline (optional, gegen Aufpreis), persönliche Ausgaben, Trinkgelder"
+  ]
+ },
+ "traditional-khan-toke-restaurant-chiang-mai-experience": {
+  "title": "Chiang Mai: traditionelles Khan-Toke-Abendessen und Lanna-Tanzshow",
+  "metaTitle": "Chiang Mai: Khan-Toke-Abendessen und Lanna-Tanz",
+  "metaDescription": "Nordthailändisches Khan-Toke-Abendessen gepaart mit einer Live-Lanna-Kulturshow aus traditionellem Tanz, Musik und Kostümen.",
+  "shortDescription": "Nordthailändisches Khan-Toke-Abendessen gepaart mit einer Live-Lanna-Kulturshow aus traditionellem Tanz, Musik und Kostümen.",
+  "fullDescription": "Setzen Sie sich zu einem Khan-Toke-Abendessen in Chiang Mai, einer traditionellen nordthailändischen Mahlzeit, die auf niedrigen Sockeltabletts serviert und familienstilgemeinschaftlich geteilt wird. Während Sie essen, entfaltet sich eine Live-Kulturshow auf der Bühne, Lanna-Tänzer in traditioneller Kleidung führen Volkstänze begleitet von Live-Musik auf und geben einen Einblick in das Erbe der Region in einer entspannten, einladenden Umgebung.",
+  "highlights": [
+   "Traditionelles Khan-Toke-Abendessen aus Nordthailand",
+   "Live-Lanna-Kulturtanzaufführung",
+   "Traditionelle Kostüme und Live-Musik",
+   "Authentische Einführung in das Erbe von Chiang Mai"
+  ],
+  "included": [
+   "Khan-Toke-Abendessen, Live-Kulturshow"
+  ],
+  "notIncluded": [
+   "Hotelabholung/-rückfahrt (sofern nicht bei Buchung angegeben), Getränke, Trinkgelder"
+  ]
+ },
+ "kingkong-smile-zipline-doi-saket-adventure-tour": {
+  "title": "Chiang Mai: Kingkong-Smile-Zipline-Abenteuer mit Mittagessen und Transfers",
+  "metaTitle": "Chiang Mai: Kingkong-Smile-Zipline mit Mittagessen",
+  "metaDescription": "Fliegen Sie über Asiens längsten und höchsten Zipline-Parcours nahe Chiang Mai, mit einem thailändischen Buffet-Mittagessen und Hin- und Rücktransfer vom Hotel.",
+  "shortDescription": "Fliegen Sie über Asiens längsten und höchsten Zipline-Parcours nahe Chiang Mai, mit einem thailändischen Buffet-Mittagessen und Hin- und Rücktransfer vom Hotel.",
+  "fullDescription": "Schweben Sie über das Dschungel-Kronendach bei Kingkong Smile Zipline, der Heimat des längsten und höchsten Zipline-Parcours in Asien. Wählen Sie Ihr Nervenkitzel-Level über ein Netzwerk von Plattformen und Seilen, die zwischen den Hügeln von Doi Saket gespannt sind, mit weitläufigen Blicken über das darunterliegende Tal. Nachdem Sie sich im Kronendach einen Appetit erarbeitet haben, tanken Sie mit einem thailändischen Buffet-Mittagessen auf, bevor es zurück zu Ihrem Hotel geht. Hin- und Rücktransfers von Chiang Mai sind inklusive, sodass sich der ganze Tag von der Abholung bis zur Rückfahrt um Sie kümmert.",
+  "highlights": [
+   "Fahren Sie Asiens längsten und höchsten Zipline-Parcours",
+   "Wählen Sie aus mehreren Plattformen und Seilen über dem Dschungel",
+   "Weitläufige Talblicke vom Kronendach-Parcours",
+   "Thailändisches Buffet-Mittagessen inklusive",
+   "Hin- und Rücktransfer vom Hotel ab Chiang Mai"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt, Zugang zum Zipline-Parcours, Sicherheitsausrüstung, thailändisches Buffet-Mittagessen"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben, Trinkgelder, Reiseversicherung"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

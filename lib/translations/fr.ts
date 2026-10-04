@@ -45150,6 +45150,66 @@ export const FR_TOURS: Record<string, TourT> = {
    "Assurance voyage"
   ]
  },
+ "mae-wang-elephant-eco-park-adventure-tour": {
+  "title": "Chiang Mai : parc écologique d'éléphants, quad, rafting en bambou et tyrolienne",
+  "metaTitle": "Chiang Mai : parc d'éléphants, quad et tyrolienne",
+  "metaDescription": "Entrée et nourrissage gratuits au parc d'éléphants, conduite en quad dans la jungle de Mae Wang, rafting en bambou et arrêt dans un village Karen, avec option tyrolienne.",
+  "shortDescription": "Entrée et nourrissage gratuits au parc d'éléphants, conduite en quad dans la jungle de Mae Wang, rafting en bambou et arrêt dans un village Karen, avec option tyrolienne.",
+  "fullDescription": "Passez la journée dans la vallée de Mae Wang en combinant l'entrée gratuite à un parc écologique d'éléphants avec une balade en quad dans la jungle. Nourrissez les éléphants et apprenez-en plus sur leurs soins auprès d'un guide local, puis affrontez un tronçon de rafting en bambou sur la rivière avant de vous arrêter dans un village voisin de la tribu des collines Karen. Terminez la journée par un arrêt à une cascade cachée, avec une option tyrolienne pour ceux qui veulent une dose supplémentaire d'adrénaline. Les transferts aller-retour depuis l'hôtel sont inclus.",
+  "highlights": [
+   "Entrée gratuite au parc écologique d'éléphants de Mae Wang avec nourrissage",
+   "Balade en quad dans la jungle de Mae Wang",
+   "Rafting en bambou sur la rivière",
+   "Visite d'un village de la tribu des collines Karen",
+   "Arrêt à une cascade secrète",
+   "Option tyrolienne"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel, entrée au parc d'éléphants, balade en quad, rafting en bambou, guide"
+  ],
+  "notIncluded": [
+   "Option tyrolienne (facultative, coût supplémentaire), dépenses personnelles, pourboires"
+  ]
+ },
+ "traditional-khan-toke-restaurant-chiang-mai-experience": {
+  "title": "Chiang Mai : dîner traditionnel Khan Toke et spectacle de danse Lanna",
+  "metaTitle": "Chiang Mai : dîner Khan Toke et danse Lanna",
+  "metaDescription": "Dîner de style Khan Toke du Nord thaïlandais accompagné d'un spectacle culturel Lanna en direct de danse, musique et costumes traditionnels.",
+  "shortDescription": "Dîner de style Khan Toke du Nord thaïlandais accompagné d'un spectacle culturel Lanna en direct de danse, musique et costumes traditionnels.",
+  "fullDescription": "Installez-vous pour un dîner de style Khan Toke à Chiang Mai, un repas traditionnel du Nord thaïlandais servi sur des plateaux bas sur pied et partagé façon familiale. Pendant que vous mangez, un spectacle culturel en direct se déroule sur scène, des danseurs Lanna en costume traditionnel exécutent des danses folkloriques accompagnées de musique live, offrant un aperçu du patrimoine de la région dans un cadre détendu et accueillant.",
+  "highlights": [
+   "Dîner traditionnel de style Khan Toke du Nord thaïlandais",
+   "Spectacle de danse culturelle Lanna en direct",
+   "Costumes traditionnels et musique live",
+   "Introduction authentique au patrimoine de Chiang Mai"
+  ],
+  "included": [
+   "Dîner Khan Toke, spectacle culturel en direct"
+  ],
+  "notIncluded": [
+   "Prise en charge/retour à l'hôtel (sauf indication contraire à la réservation), boissons, pourboires"
+  ]
+ },
+ "kingkong-smile-zipline-doi-saket-adventure-tour": {
+  "title": "Chiang Mai : aventure tyrolienne Kingkong Smile avec déjeuner et transferts",
+  "metaTitle": "Chiang Mai : tyrolienne Kingkong Smile avec déjeuner",
+  "metaDescription": "Survolez le parcours de tyrolienne le plus long et le plus haut d'Asie près de Chiang Mai, avec un déjeuner buffet thaïlandais et des transferts aller-retour à l'hôtel.",
+  "shortDescription": "Survolez le parcours de tyrolienne le plus long et le plus haut d'Asie près de Chiang Mai, avec un déjeuner buffet thaïlandais et des transferts aller-retour à l'hôtel.",
+  "fullDescription": "Planez au-dessus de la canopée de la jungle à Kingkong Smile Zipline, qui abrite le parcours de tyrolienne le plus long et le plus haut d'Asie. Choisissez votre niveau de sensation à travers un réseau de plateformes et de câbles tendus entre les collines de Doi Saket, avec des vues panoramiques sur la vallée en dessous. Après avoir pris de l'appétit dans la canopée, refaites le plein d'énergie avec un déjeuner buffet thaïlandais avant de retourner à votre hôtel. Les transferts aller-retour depuis Chiang Mai sont inclus, donc toute la journée est prise en charge de la prise en charge au retour.",
+  "highlights": [
+   "Parcourez le parcours de tyrolienne le plus long et le plus haut d'Asie",
+   "Choisissez parmi plusieurs plateformes et câbles au-dessus de la jungle",
+   "Vues panoramiques sur la vallée depuis le parcours en canopée",
+   "Déjeuner buffet thaïlandais inclus",
+   "Transferts aller-retour à l'hôtel depuis Chiang Mai"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel, accès au parcours de tyrolienne, équipement de sécurité, déjeuner buffet thaïlandais"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles, pourboires, assurance voyage"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
