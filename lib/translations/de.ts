@@ -44490,6 +44490,93 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "ao-nang-cooking-food-tour": {
+  "title": "Praktischer thailändischer Kochkurs in einer Freiluftküche in Ao Nang",
+  "metaTitle": "Ao Nang: praktischer thailändischer Kochkurs",
+  "metaDescription": "Kochen Sie vier klassische thailändische Gerichte von Grund auf mit einem lokalen Koch in einer Freiluftküche, beginnend auf dem Markt und endend mit der von Ihnen zubereiteten Mahlzeit.",
+  "shortDescription": "Kochen Sie vier klassische thailändische Gerichte von Grund auf mit einem lokalen Koch in einer Freiluftküche, beginnend auf dem Markt und endend mit der von Ihnen zubereiteten Mahlzeit.",
+  "fullDescription": "Thailändisches Essen ergibt Sinn, sobald einem jemand die Logik dahinter zeigt: die Balance von scharf, sauer, salzig und süß, und warum die Reihenfolge, in der man Dinge in den Wok gibt, alles verändert. Genau das lehrt dieser Kurs, anhand von vier Gerichten als Vehikel.\n\nEs beginnt auf einem lokalen Markt, wo Ihr Koch Sie durch die Zutaten führt, die die meisten Besucher verwirren, Galgant versus Ingwer, die vier Basilikumsorten, Palmzucker, Shrimp-Paste, und die Chilis, die man mit Respekt behandeln sollte. Dann geht es zurück in eine Freiluftküche, wo jeder seine eigene Station, Wok und Brenner erhält. Sie stampfen Ihre eigene Currypaste in einem Granitmörser, was mehr Arbeit macht und weit besser schmeckt als alles aus dem Glas, und kochen sich dann durch ein Curry, eine Pfanne, eine Suppe und ein Dessert.\n\nAm besten von allem: Sie essen, was Sie zubereiten, und sitzen am Ende zusammen, mit allem, was Sie gekocht haben, vor sich ausgebreitet. Sie gehen mit einem Rezeptheft und, nützlicher noch, mit der Technik in den Händen.",
+  "highlights": [
+   "Kaufen Sie Zutaten auf einem lokalen Krabi-Markt ein",
+   "Stampfen Sie frische Currypaste in einem Granitmörser",
+   "Eigene Kochstation, Wok und Brenner für jeden Gast",
+   "Bereiten Sie vier klassische thailändische Gerichte von Grund auf zu",
+   "Setzen Sie sich und essen Sie alles, was Sie gekocht haben"
+  ],
+  "included": [
+   "Geführter Marktbesuch",
+   "Alle Zutaten und Kochausrüstung",
+   "Englischsprachiger Kochinstruktor",
+   "Schürze und persönliche Kochstation",
+   "Rezeptheft zum Mitnehmen",
+   "Wasser, Tee und Softdrinks",
+   "Hotelabholung im Gebiet Ao Nang"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke",
+   "Zusätzliche Markteinkäufe",
+   "Trinkgelder",
+   "Hotelabholung außerhalb von Ao Nang"
+  ]
+ },
+ "hong-island-boat-tour": {
+  "title": "Hong-Inseln per Speedboot: Schnorcheln, Lagune und Strand-Mittagessen",
+  "metaTitle": "Hong-Inseln per Speedboot: Schnorcheln, Lagune, Mittagessen",
+  "metaDescription": "Ein voller Tag per Speedboot rund um den Hong-Archipel: Schnorcheln über dem Riff, die smaragdgrüne Binnenlagune, weiße Sandinseln und Mittagessen am Strand serviert.",
+  "shortDescription": "Ein voller Tag per Speedboot rund um den Hong-Archipel: Schnorcheln über dem Riff, die smaragdgrüne Binnenlagune, weiße Sandinseln und Mittagessen am Strand serviert.",
+  "fullDescription": "Die Hong-Inseln liegen eine kurze Speedbootfahrt vor der Küste von Ao Nang, eine Ansammlung von Kalksteintürmen mit Strände so blass, dass das Wasser darüber türkisfarben wird. Hong selbst ist berühmt für die in seiner Mitte versteckte Lagune, ein nahezu geschlossenes Becken aus jadegrünem Wasser, erreichbar durch eine enge Lücke in den Klippen, und es ist wirklich so schön, wie es die Fotos vermuten lassen.\n\nDer Tag deckt viel ab. Sie ankern über Riff zum Schnorcheln zwischen Papageienfischen, Falterfischen und Muscheln, fahren in die Lagune, wenn die Flut es erlaubt, und halten an kleineren Inseln wie Pakbia und Lading, wo die Sandbänke mit dem Wasser auftauchen und verschwinden. Das Mittagessen ist thailändisch, am Strand ausgebreitet statt auf einem schaukelnden Boot gegessen, mit Zeit danach zum Schwimmen oder einfach zum Liegen unter einem Baum.\n\nDie Crew übernimmt Schnorchelausrüstung, Sicherheit und die knifflige Aufgabe, den Lagunen-Eingang auf die Flut abzustimmen. Speedboote bedeuten weniger Zeit im Transit und mehr Zeit im Sand, was für einen vollen Tag genau der richtige Tausch ist.",
+  "highlights": [
+   "Schnorcheln über dem Riff im klaren Wasser der Hong-Bucht",
+   "Betreten Sie die versteckte Smaragdlagune der Insel Hong",
+   "Stopp an den Sandbänken der Inseln Pakbia und Lading",
+   "Thailändisches Mittagessen am Strand serviert",
+   "Schnelle Speedboot-Transfers für maximale Strandzeit"
+  ],
+  "included": [
+   "Speedboot-Transfers und Nationalpark-Bootsservice",
+   "Englischsprachiger Guide und Crew",
+   "Thailändisches Mittagessen am Strand",
+   "Schnorchelmaske und Schwimmweste",
+   "Trinkwasser, Softdrinks und Obst",
+   "Hotelabholung im Gebiet Ao Nang",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Nationalpark-Eintrittsgebühr",
+   "Handtücher",
+   "Alkoholische Getränke",
+   "Unterwasserkamera-Vermietung",
+   "Trinkgelder"
+  ]
+ },
+ "ao-nang-elephant-sanctuary-guided-tour": {
+  "title": "Ao-Nang-Elefantenschutzgebiet: füttern und kochen für gerettete Herden",
+  "metaTitle": "Ao Nang: Elefantenschutzgebiet, Füttern und Kochen",
+  "metaDescription": "Bereiten Sie Futter zu, füttern Sie von Hand und verbringen Sie entspannte Zeit mit geretteten Elefanten in einem ethischen Schutzgebiet in Ao Nang, wo weder Reiten noch Vorführungen je auf dem Programm stehen.",
+  "shortDescription": "Bereiten Sie Futter zu, füttern Sie von Hand und verbringen Sie entspannte Zeit mit geretteten Elefanten in einem ethischen Schutzgebiet in Ao Nang, wo weder Reiten noch Vorführungen je auf dem Programm stehen.",
+  "fullDescription": "Jeder Elefant hier kam von einem härteren Ort: Holzfällerlager, Trekking-Unternehmen, Straßenbetteln in Touristenstädten. Das Schutzgebiet kauft sie oder nimmt sie auf und lässt sie leben, wie Elefanten es tun, was bedeutet: kein Reiten, keine Ketten während des Tages und keine Zirkustricks. Ihr Besuch finanziert die Futterrechnung, und das ist eine erhebliche.\n\nDie Session beginnt in der Außenküche, wo Sie helfen, die Ergänzungsnahrung der Herde herzustellen, Bananen, Reis und Tamarinde unter Anleitung der Pfleger zu faustgroßen Kugeln verarbeiten. Es klingt einfach; es ist auch der Moment, in dem der Besuch aufhört, eine Besichtigung zu sein, und zur Teilnahme wird. Sie gehen dann hinaus zur Fütterungsplattform, um diese zusammen mit Zuckerrohr und Ananas zu übergeben, während ein Pfleger jedes Tier mit Namen vorstellt und erzählt, woher es kam.\n\nDie restliche Zeit verbringen Sie einfach in ihrer Nähe, während sie grasen. Guides erklären die Herdenhierarchie und was ethische Pflege tatsächlich kostet. Kurz, ehrlich und wirklich bewegend.",
+  "highlights": [
+   "Füttern Sie gerettete Elefanten von Hand mit Zuckerrohr, Obst und Reiskugeln",
+   "Helfen Sie, Ergänzungsfutter in der Schutzgebiets-Küche zuzubereiten",
+   "Hören Sie die individuelle Rettungsgeschichte jedes Elefanten",
+   "Strikt kein Reiten, keine Ketten und keine Vorführungen",
+   "Kleine Gruppen für ruhige, entspannte Begegnungen"
+  ],
+  "included": [
+   "Eintritt ins Schutzgebiet und Naturschutzgebühr",
+   "Englischsprachiger Pfleger-Guide",
+   "Elefantenfutter und Kochzutaten",
+   "Trinkwasser",
+   "Hoteltransfer ab dem Zentrum von Ao Nang",
+   "Versicherung"
+  ],
+  "notIncluded": [
+   "Mahlzeiten für Gäste",
+   "Professionelle Fotos",
+   "Spenden an das Schutzgebiet",
+   "Trinkgelder"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",

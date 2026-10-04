@@ -44491,6 +44491,93 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "ao-nang-cooking-food-tour": {
+  "title": "Cours de cuisine thaïlandaise pratique dans une cuisine en plein air à Ao Nang",
+  "metaTitle": "Ao Nang : cours de cuisine thaïlandaise pratique",
+  "metaDescription": "Cuisinez quatre plats thaïlandais classiques à partir de zéro avec un chef local dans une cuisine en plein air, en commençant au marché et en terminant par le repas que vous avez préparé.",
+  "shortDescription": "Cuisinez quatre plats thaïlandais classiques à partir de zéro avec un chef local dans une cuisine en plein air, en commençant au marché et en terminant par le repas que vous avez préparé.",
+  "fullDescription": "La cuisine thaïlandaise prend tout son sens une fois que quelqu'un vous en montre la logique : l'équilibre entre épicé, acide, salé et sucré, et pourquoi l'ordre dans lequel on ajoute les ingrédients dans le wok change tout. C'est précisément ce que ce cours enseigne, en utilisant quatre plats comme support.\n\nCela commence dans un marché local où votre chef vous présente les ingrédients qui déroutent la plupart des visiteurs, le galanga face au gingembre, les quatre types de basilic, le sucre de palme, la pâte de crevettes, et les piments qu'il faut traiter avec respect. Puis retour à une cuisine en plein air où chacun dispose de son propre poste, wok et brûleur. Vous pilez votre propre pâte de curry dans un mortier en granit, ce qui est plus difficile et bien meilleur au goût que n'importe quel pot du commerce, puis vous cuisinez un curry, un sauté, une soupe et un dessert.\n\nLe meilleur de tout : vous mangez ce que vous avez préparé, assis ensemble à la fin avec tout ce que vous avez cuisiné étalé devant vous. Vous partez avec un livret de recettes et, plus utile encore, avec la technique entre vos mains.",
+  "highlights": [
+   "Faites vos courses pour les ingrédients dans un marché local de Krabi",
+   "Pilez une pâte de curry fraîche dans un mortier en granit",
+   "Votre propre poste de cuisine, wok et brûleur pour chaque invité",
+   "Préparez quatre plats thaïlandais classiques à partir de zéro",
+   "Asseyez-vous et mangez tout ce que vous avez cuisiné"
+  ],
+  "included": [
+   "Visite guidée du marché",
+   "Tous les ingrédients et le matériel de cuisine",
+   "Chef instructeur anglophone",
+   "Tablier et poste de cuisine personnel",
+   "Livret de recettes à emporter",
+   "Eau, thé et boissons non alcoolisées",
+   "Prise en charge à l'hôtel dans la zone d'Ao Nang"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisées",
+   "Achats supplémentaires au marché",
+   "Pourboires",
+   "Prise en charge à l'hôtel hors d'Ao Nang"
+  ]
+ },
+ "hong-island-boat-tour": {
+  "title": "Îles de Hong en hors-bord : plongée avec tuba, lagon et déjeuner de plage",
+  "metaTitle": "Îles de Hong en hors-bord : tuba, lagon, déjeuner plage",
+  "metaDescription": "Une journée complète en hors-bord autour de l'archipel de Hong : plongée avec tuba sur le récif, lagon intérieur émeraude, îlots de sable blanc et déjeuner servi sur la plage.",
+  "shortDescription": "Une journée complète en hors-bord autour de l'archipel de Hong : plongée avec tuba sur le récif, lagon intérieur émeraude, îlots de sable blanc et déjeuner servi sur la plage.",
+  "fullDescription": "Les îles de Hong se trouvent à une courte distance en hors-bord au large d'Ao Nang, un semis de tours calcaires avec des plages si pâles que l'eau au-dessus devient turquoise. Hong elle-même est célèbre pour le lagon caché en son centre, un bassin presque clos d'eau vert jade accessible par une étroite ouverture dans les falaises, et c'est réellement aussi beau que les photos le suggèrent.\n\nLa journée couvre du terrain. Vous mouillez sur le récif pour la plongée avec tuba parmi les poissons-perroquets, les poissons-papillons et les palourdes, naviguez dans le lagon lorsque la marée le permet, et vous arrêtez à de plus petites îles comme Pakbia et Lading où les bancs de sable apparaissent et disparaissent avec l'eau. Le déjeuner est thaïlandais, étalé sur la plage plutôt que mangé sur un bateau qui tangue, avec du temps ensuite pour nager ou simplement s'allonger sous un arbre.\n\nL'équipage s'occupe de l'équipement de plongée avec tuba, de la sécurité et de la question délicate de synchroniser l'entrée dans le lagon avec la marée. Les hors-bords signifient moins de temps en transit et plus de temps sur le sable, ce qui pour une journée complète est exactement le bon compromis.",
+  "highlights": [
+   "Plongée avec tuba sur le récif dans l'eau limpide de la baie de Hong",
+   "Entrez dans le lagon émeraude caché de l'île de Hong",
+   "Arrêt aux bancs de sable des îles Pakbia et Lading",
+   "Déjeuner thaïlandais servi sur la plage",
+   "Transferts rapides en hors-bord pour un maximum de temps à la plage"
+  ],
+  "included": [
+   "Transferts en hors-bord et service de bateau du parc national",
+   "Guide et équipage anglophones",
+   "Déjeuner thaïlandais sur la plage",
+   "Masque de plongée avec tuba et gilet de sauvetage",
+   "Eau potable, boissons non alcoolisées et fruits",
+   "Prise en charge à l'hôtel dans la zone d'Ao Nang",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Frais d'entrée du parc national",
+   "Serviettes",
+   "Boissons alcoolisées",
+   "Location de caméra sous-marine",
+   "Pourboires"
+  ]
+ },
+ "ao-nang-elephant-sanctuary-guided-tour": {
+  "title": "Sanctuaire d'éléphants d'Ao Nang : nourrissez et cuisinez pour des troupeaux sauvés",
+  "metaTitle": "Ao Nang : sanctuaire d'éléphants, nourrissage et cuisine",
+  "metaDescription": "Préparez de la nourriture, nourrissez à la main et passez du temps sans précipitation avec des éléphants sauvés dans un sanctuaire éthique d'Ao Nang où la monte et les spectacles ne sont jamais au programme.",
+  "shortDescription": "Préparez de la nourriture, nourrissez à la main et passez du temps sans précipitation avec des éléphants sauvés dans un sanctuaire éthique d'Ao Nang où la monte et les spectacles ne sont jamais au programme.",
+  "fullDescription": "Chaque éléphant ici est arrivé d'un endroit plus difficile : camps d'abattage, entreprises de trekking, mendicité des rues dans les villes touristiques. Le sanctuaire les achète ou les accueille et les laisse vivre comme des éléphants, ce qui signifie pas de monte, pas de chaînes pendant la journée et pas de tours de cirque. Votre visite finance la facture alimentaire, qui est considérable.\n\nLa séance commence dans la cuisine extérieure où vous aidez à préparer les compléments alimentaires du troupeau, en écrasant bananes, riz et tamarin en boules de la taille d'un poing sous la direction des gardiens. Cela paraît simple ; c'est aussi le moment où la visite cesse d'être une observation et devient une participation. Vous marchez ensuite jusqu'à la plateforme de nourrissage pour les donner, ainsi que de la canne à sucre et de l'ananas, tandis qu'un gardien présente chaque animal par son nom et vous raconte d'où elle vient.\n\nLe reste du temps se passe simplement à être près d'eux tandis qu'ils paissent. Les guides expliquent la hiérarchie du troupeau et ce que coûte réellement un soin éthique. Court, honnête et réellement émouvant.",
+  "highlights": [
+   "Nourrissez à la main des éléphants sauvés avec canne à sucre, fruits et boules de riz",
+   "Aidez à préparer la nourriture complémentaire dans la cuisine du sanctuaire",
+   "Écoutez l'histoire de sauvetage individuelle de chaque éléphant",
+   "Strictement sans monte, sans chaînes et sans spectacles",
+   "Petits groupes pour des rencontres calmes et sans précipitation"
+  ],
+  "included": [
+   "Entrée au sanctuaire et frais de conservation",
+   "Guide gardien anglophone",
+   "Nourriture pour éléphants et ingrédients de cuisine",
+   "Eau potable",
+   "Transfert d'hôtel depuis le centre d'Ao Nang",
+   "Assurance"
+  ],
+  "notIncluded": [
+   "Repas pour les invités",
+   "Photos professionnelles",
+   "Dons au sanctuaire",
+   "Pourboires"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",

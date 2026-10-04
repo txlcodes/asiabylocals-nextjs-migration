@@ -44491,6 +44491,93 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "ao-nang-cooking-food-tour": {
+  "title": "Clase práctica de cocina tailandesa en una cocina al aire libre en Ao Nang",
+  "metaTitle": "Ao Nang: clase práctica de cocina tailandesa",
+  "metaDescription": "Cocine cuatro platos tailandeses clásicos desde cero con un chef local en una cocina al aire libre, comenzando en el mercado y terminando con la comida que usted mismo preparó.",
+  "shortDescription": "Cocine cuatro platos tailandeses clásicos desde cero con un chef local en una cocina al aire libre, comenzando en el mercado y terminando con la comida que usted mismo preparó.",
+  "fullDescription": "La comida tailandesa tiene sentido una vez que alguien le muestra la lógica detrás de ella: el equilibrio entre picante, ácido, salado y dulce, y por qué el orden en que se añaden las cosas al wok lo cambia todo. Eso es lo que esta clase realmente enseña, usando cuatro platos como vehículo.\n\nComienza en un mercado local donde su chef le guía por los ingredientes que confunden a la mayoría de los visitantes, galanga frente a jengibre, los cuatro tipos de albahaca, azúcar de palma, pasta de camarones, y los chiles que debe tratar con respeto. Después se regresa a una cocina al aire libre donde cada persona tiene su propia estación, wok y quemador. Machaca su propia pasta de curry en un mortero de granito, lo que es más trabajo y sabe mucho mejor que cualquier cosa de un bote, y después cocina un curry, un salteado, una sopa y un postre.\n\nLo mejor de todo: come lo que prepara, sentándose todos juntos al final con todo lo que cocinó servido delante. Se va con un libro de recetas y, más útil aún, con la técnica en las manos.",
+  "highlights": [
+   "Compre ingredientes en un mercado local de Krabi",
+   "Machaque pasta de curry fresca en un mortero de granito",
+   "Estación de cocina propia, wok y quemador para cada huésped",
+   "Prepare cuatro platos tailandeses clásicos desde cero",
+   "Siéntese y coma todo lo que ha cocinado"
+  ],
+  "included": [
+   "Visita guiada al mercado",
+   "Todos los ingredientes y equipo de cocina",
+   "Chef instructor de habla inglesa",
+   "Delantal y estación de cocina personal",
+   "Libro de recetas para llevar a casa",
+   "Agua, té y refrescos",
+   "Recogida en el hotel en la zona de Ao Nang"
+  ],
+  "notIncluded": [
+   "Bebidas alcohólicas",
+   "Compras adicionales en el mercado",
+   "Propinas",
+   "Recogida en el hotel fuera de Ao Nang"
+  ]
+ },
+ "hong-island-boat-tour": {
+  "title": "Islas de Hong en lancha rápida: snorkel, laguna y almuerzo de playa",
+  "metaTitle": "Islas de Hong en lancha rápida: snorkel, laguna, almuerzo",
+  "metaDescription": "Un día completo en lancha rápida alrededor del archipiélago de Hong: snorkel sobre el arrecife, la laguna interior esmeralda, islotes de arena blanca y almuerzo servido en la playa.",
+  "shortDescription": "Un día completo en lancha rápida alrededor del archipiélago de Hong: snorkel sobre el arrecife, la laguna interior esmeralda, islotes de arena blanca y almuerzo servido en la playa.",
+  "fullDescription": "Las islas de Hong están a un corto trayecto en lancha rápida mar adentro desde Ao Nang, una dispersión de torres calizas con playas tan pálidas que el agua sobre ellas se vuelve turquesa. Hong en sí es famosa por la laguna oculta en su centro, una piscina casi cerrada de agua verde jade a la que se accede por una estrecha abertura en los acantilados, y es genuinamente tan bonita como sugieren las fotografías.\n\nEl día cubre terreno. Ancla sobre el arrecife para hacer snorkel entre peces loro, peces mariposa y almejas, navega hacia la laguna cuando la marea lo permite, y hace parada en islas más pequeñas como Pakbia y Lading, donde los bancos de arena aparecen y desaparecen con el agua. El almuerzo es tailandés, servido en la playa en lugar de comerse en un barco que se mece, con tiempo después para nadar o simplemente tumbarse bajo un árbol.\n\nLa tripulación se encarga del equipo de snorkel, la seguridad y el delicado asunto de programar la entrada a la laguna según la marea. Las lanchas rápidas significan menos tiempo en tránsito y más tiempo en la arena, lo que para un día completo es exactamente el intercambio correcto.",
+  "highlights": [
+   "Snorkel sobre el arrecife en el agua clara de la bahía de Hong",
+   "Entre en la laguna esmeralda oculta de la isla de Hong",
+   "Parada en los bancos de arena de las islas Pakbia y Lading",
+   "Almuerzo tailandés servido en la playa",
+   "Traslados rápidos en lancha rápida para máximo tiempo de playa"
+  ],
+  "included": [
+   "Traslados en lancha rápida y servicio de barco del parque nacional",
+   "Guía y tripulación de habla inglesa",
+   "Almuerzo tailandés en la playa",
+   "Máscara de snorkel y chaleco salvavidas",
+   "Agua potable, refrescos y fruta",
+   "Recogida en el hotel en la zona de Ao Nang",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada al parque nacional",
+   "Toallas",
+   "Bebidas alcohólicas",
+   "Alquiler de cámara submarina",
+   "Propinas"
+  ]
+ },
+ "ao-nang-elephant-sanctuary-guided-tour": {
+  "title": "Santuario de elefantes de Ao Nang: alimente y cocine para manadas rescatadas",
+  "metaTitle": "Ao Nang: santuario de elefantes, alimentar y cocinar",
+  "metaDescription": "Prepare comida, alimente a mano y pase tiempo sin prisas con elefantes rescatados en un santuario ético de Ao Nang donde montar y los espectáculos nunca están en el programa.",
+  "shortDescription": "Prepare comida, alimente a mano y pase tiempo sin prisas con elefantes rescatados en un santuario ético de Ao Nang donde montar y los espectáculos nunca están en el programa.",
+  "fullDescription": "Cada elefante aquí llegó de un lugar más duro: campamentos de tala, empresas de trekking, mendicidad en ciudades turísticas. El santuario los compra o los acoge y los deja vivir como elefantes, lo que significa sin montar, sin cadenas durante el día y sin trucos de circo. Su visita financia la factura de comida, y es considerable.\n\nLa sesión comienza en la cocina al aire libre donde ayuda a preparar los suplementos de la manada, machacando plátanos, arroz y tamarindo en bolas del tamaño de un puño bajo la dirección de los cuidadores. Suena sencillo; también es el momento en que la visita deja de ser una observación y se convierte en participación. Después camina hasta la plataforma de alimentación para entregarlas, junto con caña de azúcar y piña, mientras un cuidador presenta a cada animal por su nombre y le cuenta de dónde viene.\n\nEl resto del tiempo se pasa simplemente estando cerca de ellos mientras pastan. Los guías explican la jerarquía de la manada y lo que realmente cuesta el cuidado ético. Corto, honesto y genuinamente conmovedor.",
+  "highlights": [
+   "Alimente a mano a elefantes rescatados con caña de azúcar, fruta y bolas de arroz",
+   "Ayude a preparar comida suplementaria en la cocina del santuario",
+   "Escuche la historia individual de rescate de cada elefante",
+   "Estrictamente sin montar, sin cadenas y sin espectáculos",
+   "Grupos pequeños para encuentros tranquilos y sin prisas"
+  ],
+  "included": [
+   "Entrada al santuario y tarifa de conservación",
+   "Guía cuidador de habla inglesa",
+   "Comida para elefantes e ingredientes de cocina",
+   "Agua potable",
+   "Traslado de hotel desde el centro de Ao Nang",
+   "Seguro"
+  ],
+  "notIncluded": [
+   "Comidas para los huéspedes",
+   "Fotos profesionales",
+   "Donaciones al santuario",
+   "Propinas"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",
