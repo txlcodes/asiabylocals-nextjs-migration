@@ -45288,6 +45288,88 @@ export const ES_TOURS: Record<string, TourT> = {
    "Bebidas alcohólicas"
   ]
  },
+ "local-market-chiang-mai-food-tour": {
+  "title": "Chiang Mai: clase de cocina, mercado y visita al jardín de hierbas tailandesas",
+  "metaTitle": "Chiang Mai: clase de cocina y mercado",
+  "metaDescription": "Compre en un mercado local, cocine cinco platos tailandeses clásicos con un chef formado en casa, y termine con arroz pegajoso dulce y mango en un exuberante huerto.",
+  "shortDescription": "Compre en un mercado local, cocine cinco platos tailandeses clásicos con un chef formado en casa, y termine con arroz pegajoso dulce y mango en un exuberante huerto.",
+  "fullDescription": "La escena gastronómica de Chiang Mai se entiende mejor detrás de un wok que frente a una mesa de restaurante, y esta clase práctica está construida alrededor de esa idea. La mañana (o tarde) comienza con un paseo por un bullicioso mercado local, donde su instructor señala las hierbas frescas, pastas de curry y productos que dan a la comida tailandesa su equilibrio característico de ácido, dulce, salado y picante. Se irá con una sensación genuina de cómo se eligen los ingredientes incluso antes de tomar un cuchillo.\n\nDe ahí, se dirige a una escuela de cocina de estilo casero instalada dentro de un huerto en funcionamiento, donde la citronela, la lima kaffir y la albahaca tailandesa crecen a pocos pasos de la estufa. Elegirá cinco platos para cocinar de un menú rotativo de favoritos de Chiang Mai, trabajando en pequeños lotes junto a un chef local amable que descompone cada receta en pasos simples y repetibles. No se necesita experiencia previa en cocina.\n\nA medida que cada plato sale del fuego, se sienta y lo come, por lo que la comida se desarrolla plato por plato en lugar de todo al final. La clase termina con una lección de arroz pegajoso dulce con mango, el postre más conocido de Tailandia, que usted mismo preparará y disfrutará. Todos se llevan a casa un folleto de recetas, para que los platos no tengan que quedarse como un recuerdo de una sola vez. El transporte de ida y vuelta al hotel está incluido, lo que facilita integrar toda la experiencia en un día en Chiang Mai.",
+  "highlights": [
+   "Recorra un mercado local de Chiang Mai con su chef",
+   "Cocine cinco platos tailandeses autenticos desde cero",
+   "Domine el arroz pegajoso dulce con mango",
+   "Aprenda en un verdadero jardín de hierbas de cocina",
+   "Llévese a casa un folleto de recetas para cocinar de nuevo"
+  ],
+  "included": [
+   "Recogida y regreso al hotel (dentro de la zona elegible)",
+   "Chef/instructor de habla inglesa",
+   "Recorrido por el mercado local",
+   "Todos los ingredientes",
+   "Folleto de recetas para llevar",
+   "Visita al jardín de hierbas"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Gastos personales",
+   "Bebidas alcohólicas"
+  ]
+ },
+ "pha-chor-nature-trail-mae-wang-national-park-guided-tour": {
+  "title": "Sendero natural de Pha Chor y parque acuático Gran Cañón de Chiang Mai",
+  "metaTitle": "Pha Chor y Gran Cañón de Chiang Mai",
+  "metaDescription": "Camine por los cañones de arenisca esculpidos por el viento de Pha Chor en el Parque Nacional de Mae Wang, luego refrésquese con saltos desde acantilados y kayak en el turquesa parque acuático Gran Cañón.",
+  "shortDescription": "Camine por los cañones de arenisca esculpidos por el viento de Pha Chor en el Parque Nacional de Mae Wang, luego refrésquese con saltos desde acantilados y kayak en el turquesa parque acuático Gran Cañón.",
+  "fullDescription": "Justo al sur de Chiang Mai, el Parque Nacional de Mae Wang esconde uno de los paisajes más extraños del norte de Tailandia: Pha Chor, un laberinto de pilares y barrancos de arenisca esculpidos durante siglos por la lluvia y el viento en formas que se sienten más como el suroeste estadounidense que la Tailandia tropical. Pasarelas de madera y senderos se entrelazan entre los acantilados erosionados y las paredes rocosas en forma de colmena, dándole tiempo para recorrer el cañón a un ritmo tranquilo, tomar fotos desde los miradores, y experimentar un lado de la región que la mayoría de los visitantes nunca ve.\n\nDe ahí, el tour se dirige a un tipo muy diferente de cañón. El parque acuático Gran Cañón de Chiang Mai es una antigua cantera de piedra que se llenó de agua de lluvia a lo largo de los años, dejando paredes rocosas verticales que envuelven una piscina de agua turquesa notablemente clara. Lo que una vez fue un pozo industrial es ahora un relajado lugar para nadar con plataformas flotantes, kayaks y puntos para saltar desde acantilados para quienes quieren un poco de adrenalina con su nado de la tarde.\n\nLas dos paradas crean un buen contraste: naturaleza y geología tranquilas por la mañana, chapoteando con una bebida helada en mano por la tarde. El transporte entre todo se maneja en una furgoneta con aire acondicionado, y tendrá tiempo libre genuino en el parque acuático para nadar, relajarse en las rocas, o simplemente observar a los saltadores desde un lugar con sombra. Es un día fácil y bien equilibrado para cualquiera que busque salir de la ciudad.",
+  "highlights": [
+   "Camine por el cañón de arenisca de Pha Chor esculpido por el viento y la lluvia",
+   "Nade en las aguas turquesas de una antigua cantera inundada",
+   "Pruebe el salto desde acantilados o el kayak en el parque acuático Gran Cañón",
+   "Transporte cómodo de ida y vuelta en furgoneta incluido",
+   "Excursión en grupo pequeño con tiempo libre incorporado"
+  ],
+  "included": [
+   "Guía de habla inglesa",
+   "Transporte de ida y vuelta en furgoneta con aire acondicionado",
+   "Tarifa de entrada al parque acuático Gran Cañón de Chiang Mai",
+   "Tarifa de entrada a Pha Chor, Parque Nacional de Mae Wang"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel (solo puntos de encuentro fijos)",
+   "Almuerzo y comida",
+   "Propinas",
+   "Gastos personales",
+   "Alquiler de kayaks u otro equipo de actividad acuática si se cobra por separado"
+  ]
+ },
+ "pon-elephant-sanctuary-half-day-tour": {
+  "title": "Chiang Mai: programa de alimentación en santuario de elefantes, medio día",
+  "metaTitle": "Chiang Mai: santuario de elefantes, medio día",
+  "metaDescription": "Conozca elefantes rescatados en un parque de rehabilitación al sur de Chiang Mai: alimente, bañe y aprenda de estos gentiles gigantes sin montar en absoluto.",
+  "shortDescription": "Conozca elefantes rescatados en un parque de rehabilitación al sur de Chiang Mai: alimente, bañe y aprenda de estos gentiles gigantes sin montar en absoluto.",
+  "fullDescription": "Enclavado en las colinas al sur de Chiang Mai, el santuario de elefantes Pon ofrece una oportunidad rara de pasar tiempo real con elefantes rescatados y rehabilitados en un entorno construido en torno a su bienestar, no al entretenimiento. Este programa de medio día está diseñado para ser genuinamente práctico: preparará y alimentará a mano canastas de bananas y caña de azúcar, caminará junto a la manada por la propiedad, y conocerá la personalidad e historia de cada elefante gracias a los cuidadores que mejor los conocen.\n\nUn punto destacado de la visita es unirse a los elefantes en su baño de barro y zona de baño, donde ayudará a salpicarlos y frotarlos en una piscina poco profunda mientras ellos claramente disfrutan la atención. Los guías comparten conocimientos sobre la biología de los elefantes, el comportamiento social y las realidades que enfrenta la población de elefantes cautivos de Tailandia, dando a la visita una capa educativa además de la diversión.\n\nMontar nunca es parte de la experiencia. Pon Elephant opera bajo principios éticos sin montar, manteniendo el enfoque en la observación, el cuidado y la interacción respetuosa en su lugar. Los tamaños de grupo se mantienen pequeños, por lo que hay mucho espacio para hacer preguntas y acercarse sin sentirse apresurado.\n\nYa sea que llegue por su cuenta al punto de encuentro, se una a un guía en la ciudad de Chiang Mai, o lo recojan en su hotel, la experiencia del santuario en sí sigue siendo la misma: sin prisas, personal, y centrada en el bienestar de los elefantes en lugar de un espectáculo.",
+  "highlights": [
+   "Alimente a mano a elefantes rescatados con bananas y caña de azúcar",
+   "Únase a la manada para un baño de barro y chapoteo",
+   "Santuario ético sin montar, los elefantes son lo primero",
+   "Aprenda sobre el comportamiento, biología e historias de rescate de los elefantes",
+   "Entorno de grupo pequeño para una visita cercana y sin prisas"
+  ],
+  "included": [
+   "Guía de habla inglesa",
+   "Alimentación de elefantes (bananas y caña de azúcar)",
+   "Tarifa de entrada al santuario",
+   "Agua potable",
+   "Uso de ropa del santuario para actividades de baño"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Gastos personales",
+   "Montar elefantes (no se ofrece, este es un santuario ético sin montar)",
+   "Bebidas alcohólicas",
+   "Recogida en el hotel (incluida solo con la opción de traslado al hotel)"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",

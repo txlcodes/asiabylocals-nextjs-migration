@@ -45287,6 +45287,88 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alkoholische Getränke"
   ]
  },
+ "local-market-chiang-mai-food-tour": {
+  "title": "Chiang Mai: Kochkurs, Markt und Thai-Kräutergarten-Tour",
+  "metaTitle": "Chiang Mai: Kochkurs und Markt",
+  "metaDescription": "Kaufen Sie auf einem lokalen Markt ein, kochen Sie fünf klassische thailändische Gerichte mit einem zuhause ausgebildeten Koch, und beenden Sie mit süßem Klebreis und Mango in einem üppigen Küchengarten.",
+  "shortDescription": "Kaufen Sie auf einem lokalen Markt ein, kochen Sie fünf klassische thailändische Gerichte mit einem zuhause ausgebildeten Koch, und beenden Sie mit süßem Klebreis und Mango in einem üppigen Küchengarten.",
+  "fullDescription": "Chiang Mais kulinarische Szene versteht man am besten hinter einem Wok, nicht über einen Restauranttisch hinweg, und dieser praktische Kurs ist um diese Idee aufgebaut. Der Morgen (oder Nachmittag) beginnt mit einem Spaziergang durch einen belebten lokalen Markt, wo Ihr Instruktor auf die frischen Kräuter, Currypasten und Produkte hinweist, die der thailändischen Küche ihre charakteristische Balance aus sauer, süß, salzig und scharf geben. Sie gehen mit einem echten Gefühl dafür, wie Zutaten ausgewählt werden, bevor Sie überhaupt ein Messer in die Hand nehmen.\n\nVon dort geht es weiter zu einer hausgemachten Kochschule in einem funktionierenden Küchengarten, wo Zitronengras, Kaffir-Limette und Thai-Basilikum nur wenige Schritte vom Herd entfernt wachsen. Sie wählen fünf Gerichte aus einem wechselnden Menü von Chiang-Mai-Favoriten, arbeiten in kleinen Gruppen neben einem freundlichen lokalen Koch, der jedes Rezept in einfache, wiederholbare Schritte zerlegt. Keine vorherige Kocherfahrung ist nötig.\n\nSobald jedes Gericht vom Feuer kommt, setzen Sie sich und essen es, sodass sich die Mahlzeit Gang für Gang entfaltet statt alles am Ende auf einmal. Der Kurs schließt mit einer Lektion in süßem Klebreis mit Mango, Thailands bekanntestem Dessert, das Sie selbst zubereiten und genießen. Jeder nimmt ein Rezeptheft mit, sodass die Gerichte nicht nur ein einmaliges Souvenir bleiben müssen. Hin- und Rücktransport vom Hotel ist inklusive, was es leicht macht, das gesamte Erlebnis in einen Tag in Chiang Mai einzupassen.",
+  "highlights": [
+   "Durchstöbern Sie einen lokalen Markt in Chiang Mai mit Ihrem Koch",
+   "Kochen Sie fünf authentische thailändische Gerichte von Grund auf",
+   "Meistern Sie süßen Klebreis mit Mango",
+   "Lernen Sie in einem echten Küchenkräutergarten",
+   "Nehmen Sie ein Rezeptheft mit, um erneut zu kochen"
+  ],
+  "included": [
+   "Hotelabholung und -rückfahrt (innerhalb der berechtigten Zone)",
+   "Englischsprachiger Koch/Instruktor",
+   "Lokale Markttour",
+   "Alle Zutaten",
+   "Rezeptheft zum Mitnehmen",
+   "Besuch des Kräutergartens"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben",
+   "Alkoholische Getränke"
+  ]
+ },
+ "pha-chor-nature-trail-mae-wang-national-park-guided-tour": {
+  "title": "Pha-Chor-Naturpfad und Grand-Canyon-Wasserpark Chiang Mai",
+  "metaTitle": "Pha Chor und Grand Canyon Chiang Mai",
+  "metaDescription": "Wandern Sie durch die vom Wind geschnitzten Sandsteincanyons von Pha Chor im Nationalpark Mae Wang, kühlen Sie sich dann mit Klippensprüngen und Kajakfahren im türkisfarbenen Grand-Canyon-Wasserpark ab.",
+  "shortDescription": "Wandern Sie durch die vom Wind geschnitzten Sandsteincanyons von Pha Chor im Nationalpark Mae Wang, kühlen Sie sich dann mit Klippensprüngen und Kajakfahren im türkisfarbenen Grand-Canyon-Wasserpark ab.",
+  "fullDescription": "Nur südlich von Chiang Mai verbirgt der Nationalpark Mae Wang eine der seltsamsten Landschaften Nordthailands: Pha Chor, ein Labyrinth aus Sandsteinsäulen und Schluchten, die über Jahrhunderte durch Regen und Wind in Formen geschnitzt wurden, die sich mehr wie der amerikanische Südwesten als wie das tropische Thailand anfühlen. Holzstege und Pfade winden sich zwischen den erodierten Klippen und wabenförmigen Felswänden, sodass Sie Zeit haben, den Canyon in einem entspannten Tempo zu durchwandern, Fotos von den Aussichtspunkten zu machen und eine Seite der Region zu erleben, die die meisten Besucher nie sehen.\n\nVon dort führt die Tour zu einer sehr anderen Art von Canyon. Chiang Mais Grand-Canyon-Wasserpark ist ein ehemaliger Steinbruch, der sich über die Jahre mit Regenwasser füllte und steile Felswände hinterließ, die ein Becken mit auffallend klarem, türkisfarbenem Wasser umschließen. Was einst eine industrielle Grube war, ist jetzt ein entspannter Badeplatz mit schwimmenden Plattformen, Kajaks und Klippensprungpunkten für diejenigen, die etwas Adrenalin zu ihrem Nachmittagsschwimmen wollen.\n\nDie beiden Stopps bilden einen schönen Kontrast: ruhige Natur und Geologie am Morgen, Plantschen mit einem eiskalten Getränk in der Hand am Nachmittag. Der Transport zwischen allem erfolgt in einem klimatisierten Van, und Sie haben echte freie Zeit im Wasserpark zum Schwimmen, Entspannen auf den Felsen oder einfach zum Beobachten der Springer von einem schattigen Platz aus. Es ist ein einfacher, rundum gelungener Tag für alle, die aus der Stadt herauswollen.",
+  "highlights": [
+   "Wandern Sie durch den von Wind und Regen geschnitzten Sandsteincanyon von Pha Chor",
+   "Schwimmen Sie im türkisfarbenen Wasser eines überfluteten ehemaligen Steinbruchs",
+   "Probieren Sie Klippensprung oder Kajakfahren im Grand-Canyon-Wasserpark",
+   "Komfortabler Hin- und Rücktransport im Van inklusive",
+   "Kleingruppen-Tagesausflug mit eingebauter Freizeit"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Hin- und Rücktransport im klimatisierten Van",
+   "Eintrittsgebühr für den Grand-Canyon-Wasserpark Chiang Mai",
+   "Eintrittsgebühr für Pha Chor, Nationalpark Mae Wang"
+  ],
+  "notIncluded": [
+   "Hotelabholung und -rückfahrt (nur feste Treffpunkte)",
+   "Mittagessen und Verpflegung",
+   "Trinkgelder",
+   "Persönliche Ausgaben",
+   "Vermietung von Kajaks oder anderer Wasseraktivitätsausrüstung, falls separat berechnet"
+  ]
+ },
+ "pon-elephant-sanctuary-half-day-tour": {
+  "title": "Chiang Mai: Elefantenschutzgebiet-Fütterungsprogramm, Halbtagestour",
+  "metaTitle": "Chiang Mai: Elefantenschutzgebiet, Halbtag",
+  "metaDescription": "Treffen Sie gerettete Elefanten in einem Rehabilitationspark südlich von Chiang Mai, füttern, baden und lernen Sie von diesen sanften Riesen ganz ohne Reiten.",
+  "shortDescription": "Treffen Sie gerettete Elefanten in einem Rehabilitationspark südlich von Chiang Mai, füttern, baden und lernen Sie von diesen sanften Riesen ganz ohne Reiten.",
+  "fullDescription": "Eingebettet in die Hügel südlich von Chiang Mai bietet das Pon-Elefantenschutzgebiet eine seltene Gelegenheit, echte Zeit mit geretteten und rehabilitierten Elefanten in einer Umgebung zu verbringen, die um ihr Wohlergehen statt um Unterhaltung aufgebaut ist. Dieses Halbtagesprogramm ist darauf ausgelegt, wirklich praxisnah zu sein: Sie bereiten vor und füttern von Hand Körbe mit Bananen und Zuckerrohr, laufen zusammen mit der Herde durch das Gelände und lernen die Persönlichkeit und Geschichte jedes Elefanten von Pflegern kennen, die sie am besten kennen.\n\nEin Höhepunkt des Besuchs ist es, sich den Elefanten an ihrem Schlammbad und Badebereich anzuschließen, wo Sie helfen, sie in einem flachen Becken zu bespritzen und zu schrubben, während sie die Aufmerksamkeit deutlich genießen. Guides teilen Einblicke in die Biologie der Elefanten, ihr Sozialverhalten und die Realitäten der in Gefangenschaft lebenden Elefantenpopulation Thailands mit und geben dem Besuch neben dem Spaß eine Bildungsebene.\n\nReiten ist niemals Teil des Erlebnisses. Pon Elephant arbeitet nach ethischen Grundsätzen ohne Reiten und legt den Fokus stattdessen auf Beobachtung, Pflege und respektvolle Interaktion. Die Gruppengrößen werden klein gehalten, sodass viel Raum bleibt, um Fragen zu stellen und nahe zu kommen, ohne sich gehetzt zu fühlen.\n\nOb Sie sich selbst zum Treffpunkt begeben, sich einem Guide in der Stadt Chiang Mai anschließen oder von Ihrem Hotel abgeholt werden, das Erlebnis im Schutzgebiet selbst bleibt gleich: entspannt, persönlich und auf das Wohlergehen der Elefanten statt auf eine Show ausgerichtet.",
+  "highlights": [
+   "Füttern Sie gerettete Elefanten von Hand mit Bananen und Zuckerrohr",
+   "Schließen Sie sich der Herde für ein Schlammbad und Plantschen an",
+   "Ethisches Schutzgebiet ohne Reiten, Elefanten stehen an erster Stelle",
+   "Lernen Sie über Verhalten, Biologie und Rettungsgeschichten der Elefanten",
+   "Kleingruppen-Umgebung für einen nahen, entspannten Besuch"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Elefantenfütterung (Bananen und Zuckerrohr)",
+   "Eintrittsgebühr für das Schutzgebiet",
+   "Trinkwasser",
+   "Nutzung der Schutzgebiet-Kleidung für Badeaktivitäten"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben",
+   "Elefantenreiten (nicht angeboten, dies ist ein ethisches Schutzgebiet ohne Reiten)",
+   "Alkoholische Getränke",
+   "Hotelabholung (nur bei der Option Hoteltransfer inklusive)"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
