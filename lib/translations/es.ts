@@ -893,6 +893,79 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier actividad adicional no mencionada en el itinerario"
   ]
  },
+ "from-delhi-taj-mahal-agra-city-day-tour-all": {
+  "title": "Desde Delhi: tour de un día al Taj Mahal y la ciudad de Agra (todo incluido)",
+  "metaTitle": "Delhi-Agra: Taj Mahal, tour todo incluido",
+  "metaDescription": "Recogida desde Delhi (2:00-7:00 a.m.) para un trayecto cómodo hacia Agra.",
+  "shortDescription": "Recogida desde Delhi (2:00-7:00 a.m.) para un trayecto cómodo hacia Agra.",
+  "fullDescription": "**Tour privado de un día desde Nueva Delhi a Agra – Taj Mahal, Fuerte de Agra, y Baby Taj con almuerzo**\n\nExperimente uno de los viajes más icónicos de la India en este tour privado en el mismo día desde Nueva Delhi a Agra, diseñado para comodidad, flexibilidad, y recuerdos inolvidables.\n\nSu día comienza con una conveniente recogida en su lugar preferido en Delhi, Noida, o Gurgaon por su conductor de habla inglesa. Relájese en un vehículo privado con aire acondicionado mientras viaja a Agra por la autopista Yamuna, una de las autopistas más rápidas de la India. El viaje toma aproximadamente 3 horas, y su conductor estará feliz de parar en el camino para refrescos o pausas de baño si lo solicita.\n\nA su llegada a Agra, conocerá a su guía turístico local profesional y se dirigirá directamente al magnífico Taj Mahal, un Sitio del Patrimonio Mundial de la UNESCO y una de las Siete Maravillas del Mundo. Construido en el siglo XVII por el emperador Shah Jahan en memoria de su amada esposa Mumtaz Mahal, esta obra maestra de mármol blanco es admirada por su simetría, intrincados tallados, e belleza atemporal. Dedique todo el tiempo que desee explorando el monumento, y disfrute de la ayuda de su guía para capturar fotos memorables.\n\nA continuación, visite el histórico Fuerte de Agra, otro sitio catalogado por la UNESCO construido en 1565 por el emperador Akbar. Durante un recorrido guiado de aproximadamente una hora, explore estructuras impresionantes como el Diwan-i-Am (Salón de Audiencia Pública), Diwan-i-Khas (Salón de Audiencia Privada), Sheesh Mahal (Palacio de los Espejos), y Moti Masjid (Mezquita de la Perla), mientras aprende sobre la historia mogol y la vida real.\n\nDespués del avistamiento, disfrute de un delicioso almuerzo buffet en el popular restaurante Pinch of Spice, conocido por su excelente cocina india y ambiente acogedor.\n\nContinúe su recorrido con una visita a la elegante Tumba de Itmad-ud-Daulah, a menudo llamada el Baby Taj. Este hermoso mausoleo junto al río se considera un precursor del Taj Mahal y es admirado por su diseño inspirado en Persia, su delicada incrustación en mármol, y su trabajo de celosía.\n\nAl final de su recorrido, relájese mientras su conductor lo lleva de regreso a su punto de recogida original en Delhi o lo deja en el Aeropuerto de Nueva Delhi.",
+  "highlights": [
+   "Recogida desde Delhi (2:00-7:00 a.m.) para un trayecto cómodo hacia Agra"
+  ],
+  "included": [
+   "Tour privado de lujo con servicio personalizado",
+   "Recogida y traslado a su hotel, el aeropuerto de Delhi, la estación de tren, o cualquier lugar preferido en la región NCR",
+   "Todos los traslados de avistamiento en un cómodo auto privado con aire acondicionado",
+   "Servicios de un guía turístico local profesional competente para todos los avistamientos",
+   "Boletos de entrada a todos los monumentos (incluido SI ELIGE ESTA OPCIÓN)",
+   "Almuerzo en restaurantes locales buffet de 5 estrellas (incluido SI ELIGE ESTA OPCIÓN)",
+   "Agua embotellada de cortesía y sombrilla proporcionados durante el viaje",
+   "Todos los impuestos, tarifas, estacionamiento, y cargos de manejo aplicables incluidos"
+  ],
+  "notIncluded": [
+   "Cualquier propina para el conductor y el guía",
+   "Agua embotellada y bebidas durante el almuerzo"
+  ]
+ },
+ "agra-taj-mahal-guided-tour-with-instagram": {
+  "title": "Agra: tour guiado del Taj Mahal con sesión de fotos para Instagram",
+  "metaTitle": "Agra: Taj Mahal, tour guiado y sesión Instagram",
+  "metaDescription": "Explore el icónico Taj Mahal con un guía local experto con licencia.",
+  "shortDescription": "Explore el icónico Taj Mahal con un guía local experto con licencia.",
+  "fullDescription": "**1. Recogida en el hotel / punto de encuentro en Agra**\nSu experiencia comienza con una conveniente recogida en su hotel en Agra o en un punto de encuentro organizado con antelación cerca de la entrada del Taj Mahal. Conozca a su guía local con licencia y fotógrafo profesional que lo acompañarán durante toda la visita.\n\n**2. Entrada exprés al Taj Mahal**\nLlegue al magnífico Taj Mahal, una de las Siete Maravillas del Mundo. Evite las largas filas (si los boletos están organizados con antelación) y entre en una obra maestra construida por el emperador mogol Shah Jahan en memoria de su amada esposa Mumtaz Mahal.\n\n**3. Caminata histórica guiada**\nExplore el mausoleo de mármol con su guía experto, quien compartirá historias fascinantes sobre:\n\nLa historia romántica detrás de su construcción\nEl intrincado trabajo de incrustación en mármol y la artesanía de piedras preciosas\nLas influencias arquitectónicas persas y mogoles\nIlusiones ópticas y secretos de diseño ocultos\n\nVisite el mausoleo principal (sujeto a las regulaciones gubernamentales), la mezquita, la casa de huéspedes, y camine por los jardines mogoles simétricos.\n\n**4. Sesión de fotos para Instagram**\nMientras su guía explica el rico patrimonio del monumento, su fotógrafo profesional lo capturará en los lugares más icónicos y fotogénicos del Taj Mahal, incluyendo:\n\nLa famosa vista del banco de Diana\nEl gran estanque reflectante central\nMarcos de arcos de mármol\nCaminos de jardín con perfecta simetría\n\nReciba orientación sobre poses, ángulos, y fotos espontáneas para crear fotografías naturales y elegantes. Se pueden organizar retratos tanto individuales como de pareja.\n\n**6. Fin del tour**\nDespués de completar su exploración guiada y sesión de fotos, será llevado de regreso a su hotel en Agra o asistido con planes de viaje adicionales. Las fotos digitales editadas en alta resolución se le compartirán dentro del plazo prometido.",
+  "highlights": [
+   "Explore el icónico Taj Mahal con un guía local experto con licencia"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto",
+   "Auto privado con aire acondicionado para el traslado con conductor",
+   "Guía turístico local experto y fotógrafo",
+   "Boletos de entrada a los monumentos (si se selecciona la opción)",
+   "Botella de agua mineral",
+   "Todos los peajes y estacionamiento"
+  ],
+  "notIncluded": [
+   "Cualquier comida",
+   "Cualquier gasto personal"
+  ]
+ },
+ "golden-triangle-3-days-2-nights-express-tour-with": {
+  "title": "Triángulo Dorado 3 días / 2 noches: tour exprés con hotel",
+  "metaTitle": "Triángulo Dorado exprés 3 días con hotel",
+  "metaDescription": "Sienta la magia de la India en un tour del Triángulo Dorado de 3 días desde Delhi.",
+  "shortDescription": "Sienta la magia de la India en un tour del Triángulo Dorado de 3 días desde Delhi.",
+  "fullDescription": "Experimente el icónico Triángulo Dorado de la India en un viaje privado de 3 días y 2 noches que cubre Delhi, Agra, y Jaipur. Este tour exprés está diseñado para viajeros que quieren descubrir los famosos monumentos de la India, su vibrante cultura, patrimonio real, y tradiciones locales en un itinerario cómodo y eficiente en tiempo.\n\nExplore los puntos destacados de Delhi como India Gate, el Fuerte Rojo, Jama Masjid, Qutub Minar, y el Palacio Presidencial. Continúe hacia Agra para visitar el Taj Mahal y el Fuerte de Agra, así como mercados locales. Termine su viaje en Jaipur con visitas al Fuerte Amber, el City Palace, y Jantar Mantar.",
+  "highlights": [
+   "Sienta la magia de la India en un tour del Triángulo Dorado de 3 días desde Delhi"
+  ],
+  "included": [
+   "Guía y conductor privados",
+   "Visita al Fuerte Rojo",
+   "Visita a Jama Masjid",
+   "Visita a India Gate",
+   "Visita a Qutub Minar",
+   "Visita al Palacio Presidencial",
+   "Visita al Taj Mahal",
+   "Visita al Fuerte de Agra",
+   "Visita a mercados locales en Agra",
+   "Visita al Fuerte Amber",
+   "Visita al City Palace",
+   "Visita a Jantar Mantar"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
