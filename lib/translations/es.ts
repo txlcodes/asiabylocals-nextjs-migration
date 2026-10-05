@@ -25676,6 +25676,76 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comidas"
   ]
  },
+ "delhi-old-delhi-street-food-heritage-tour-with": {
+  "title": "Delhi: tour de street food y patrimonio por el Viejo Delhi, con rickshaw",
+  "metaTitle": "Delhi: Viejo Delhi, street food, patrimonio",
+  "metaDescription": "Prueba el street food del Viejo Delhi con un conocedor guía local",
+  "shortDescription": "Prueba el street food del Viejo Delhi con un conocedor guía local",
+  "fullDescription": "Delhi: tour de street food y patrimonio por el Viejo Delhi, con rickshaw. Prueba el street food del Viejo Delhi con un conocedor guía local.\n\nDescubre los sabores, la historia, y la vida cotidiana de la capital de la India en un tour de street food y patrimonio por el Viejo Delhi, a través de sus bulliciosos callejones, mercados tradicionales, y barrios centenarios.\n\nEncuentra a tu guía local, y comienza a explorar el corazón del Viejo Delhi a pie. En el camino, prueba una selección de comidas locales populares de vendedores cuidadosamente elegidos, mientras aprendes sobre los platos, ingredientes, tradiciones, e historias detrás de la famosa cultura de street food de Delhi.\n\nElige la experiencia vegetariana diurna para un tour gastronómico completamente vegetariano por el Viejo Delhi, con favoritos como jalebis recién preparados, parathas, chaats, dulces, y otras especialidades locales.\n\nPara viajeros que quieran experimentar ambas caras de la cultura gastronómica de Delhi, elige una experiencia mixta vespertina. Disfruta de una combinación de favoritos vegetarianos y especialidades no vegetarianas seleccionadas, como kebabs tradicionales, junto con chaats, dulces, y otros platos asociados al Viejo Delhi.\n\nLa experiencia es más que una degustación de comida. Camina por callejones históricos y bulliciosos bazares mientras tu guía te presenta el patrimonio y la cultura que dieron forma a esta parte de la ciudad. Visita el colorido mercado de especias, y experimenta las vistas, aromas, y energía de una de las zonas comerciales más distintivas del Viejo Delhi.\n\nDisfruta de un paseo incluido en rickshaw de bicicleta por las bulliciosas calles y estrechos callejones, que te ofrece otra perspectiva del barrio mientras te mueves entre las diferentes partes de la ruta gastronómica y patrimonial.\n\nTu guía te ayudará a entender lo que estás probando, recomendará cómo se come tradicionalmente cada plato, y compartirá historias locales que dan vida al Viejo Delhi más allá de sus monumentos.\n\nYa sea que elijas el tour vegetariano diurno o el tour mixto vegetariano y no vegetariano vespertino, ven preparado para probar, explorar, y experimentar el Viejo Delhi a través de la comida, los mercados, el patrimonio, y la vida callejera que lo convierten en uno de los barrios más memorables de Delhi.\n\n**Qué incluye**\nExperiencia guiada de street food y patrimonio en el Viejo Delhi\nDegustaciones de comida local durante todo el tour\nDegustaciones vegetarianas para la experiencia diurna\nDegustaciones vegetarianas y no vegetarianas para la experiencia mixta vespertina\nGuía local profesional\nPaseo en rickshaw de bicicleta por el Viejo Delhi\nVisita a Chandni Chowk y al mercado de especias\n\n**No incluye**\nRecogida y regreso al hotel, a menos que se seleccione como extra\nComida o bebidas adicionales más allá de las degustaciones incluidas\nCualquier servicio no mencionado específicamente como incluido\nPropinas y gratificaciones\nGastos personales",
+  "highlights": [
+   "Prueba el street food del Viejo Delhi con un conocedor guía local"
+  ],
+  "included": [
+   "Experiencia guiada de street food y patrimonio en el Viejo Delhi",
+   "Degustaciones de comida local durante todo el tour",
+   "Degustaciones vegetarianas para la experiencia diurna",
+   "Degustaciones vegetarianas y no vegetarianas para la experiencia mixta vespertina",
+   "Guía local profesional",
+   "Paseo en rickshaw de bicicleta por el Viejo Delhi",
+   "Visita a Chandni Chowk y al mercado de especias"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel, a menos que se seleccione como extra",
+   "Comida o bebidas adicionales más allá de las degustaciones incluidas",
+   "Cualquier servicio no mencionado específicamente como incluido",
+   "Propinas y gratificaciones",
+   "Gastos personales"
+  ]
+ },
+ "from-delhi-all-inclusive-tour-of-old-new-delhi": {
+  "title": "Desde Delhi: tour todo incluido por el Viejo y Nuevo Delhi, con opciones",
+  "metaTitle": "Delhi: todo incluido, Viejo y Nuevo Delhi",
+  "metaDescription": "Coche privado con aire acondicionado y un experimentado chófer local durante todo el día.",
+  "shortDescription": "Coche privado con aire acondicionado y un experimentado chófer local durante todo el día.",
+  "fullDescription": "Desde Delhi: tour todo incluido por el Viejo y Nuevo Delhi, con opciones. Coche privado con aire acondicionado y un experimentado chófer local durante todo el día.\n\n**1. Mañana – recogida en el hotel/aeropuerto**\nTu día comienza con una cómoda recogida en tu hotel, aeropuerto, o lugar preferido en Delhi, Gurugram, o Noida. Encuentra a tu guía privado, y relájate en un vehículo con aire acondicionado mientras te diriges hacia el corazón de la capital.\n\n**2. Exploración del Viejo Delhi**\nComienza en los barrios históricos del Viejo Delhi, donde cobran vida siglos de patrimonio mogol. Visita la majestuosa Jama Masjid, una de las mezquitas más grandes de la India, y disfruta de un tradicional paseo en rickshaw por Chandni Chowk, pasando por mercados de especias, estrechos callejones, y havelis patrimoniales. Detente frente al icónico Fuerte Rojo para aprender sobre su papel en la historia de la India.\n\n**3. Pausa cultural y culinaria (almuerzo opcional)**\nHaz una pausa para almorzar en un restaurante local cuidadosamente seleccionado (si tu opción elegida incluye el almuerzo). Disfruta de auténticos sabores del norte de la India o cocina internacional, según tu preferencia.\n\n**4. Lo más destacado de Nueva Delhi**\nContinúa hacia Nueva Delhi, mostrando la elegancia colonial y los lugares emblemáticos modernos de la ciudad. Pasa frente a India Gate, Rashtrapati Bhavan, y el Parlamento, mientras tu guía comparte ideas sobre la arquitectura de la era británica y la gobernanza contemporánea.\n\n**5. Sitios patrimoniales y espirituales**\nVisita la tumba de Humayun, Patrimonio de la Humanidad de la UNESCO y obra maestra de la arquitectura mogol. Más tarde, explora el sereno Templo del Loto o el complejo del Qutub Minar, según tu opción de tour seleccionada y el tiempo disponible.\n\n**6. Experiencias locales y paradas fotográficas**\nDisfruta de breves paradas para fotografía, narración, e interacciones locales, que te brindan una comprensión más profunda de la cultura estratificada de Delhi, antigua, medieval, y moderna, todo en un día.\n\n**7. Ocio y paradas personalizadas**\nSi el tiempo lo permite, disfruta de una breve visita a un mercado local o zona de artesanos, o relájate durante un trayecto panorámico por las avenidas arboladas de Nueva Delhi.\n\n**8. Regreso**\nTras un día completo de descubrimiento, serás llevado cómodamente de regreso a tu hotel, aeropuerto, o lugar preferido, concluyendo tu experiencia todo incluido por el Viejo y Nuevo Delhi.\n\n**Qué incluye**\nRecogida y regreso al hotel/aeropuerto\nCoche privado con aire acondicionado para toda la actividad del tour, con chófer\nGuía turístico experto aprobado por el gobierno\nEntradas a los monumentos (si se selecciona esta opción)\nAlmuerzo en restaurante (si se selecciona esta opción)\nBotella de agua mineral\nTodos los peajes y gastos de estacionamiento\n\n**No incluye**\nCualquier gasto personal",
+  "highlights": [
+   "Coche privado con aire acondicionado y un experimentado chófer local durante todo el día"
+  ],
+  "included": [
+   "Recogida y regreso al hotel/aeropuerto",
+   "Coche privado con aire acondicionado para toda la actividad del tour, con chófer",
+   "Guía turístico experto aprobado por el gobierno",
+   "Entradas a los monumentos (si se selecciona esta opción)",
+   "Almuerzo en restaurante (si se selecciona esta opción)",
+   "Botella de agua mineral",
+   "Todos los peajes y gastos de estacionamiento"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
+  ]
+ },
+ "delhi-customized-shopping-tour-with-female": {
+  "title": "Delhi: tour de compras personalizado con consultora",
+  "metaTitle": "Delhi: compras personalizadas, consultora",
+  "metaDescription": "Obtén la ayuda de una consultora personal de compras",
+  "shortDescription": "Obtén la ayuda de una consultora personal de compras",
+  "fullDescription": "Delhi: tour de compras personalizado con consultora. Obtén la ayuda de una consultora personal de compras.\n\nEste tour es una excelente oportunidad para descubrir nuestra dinámica capital, y sumergirte plenamente en nuestra cultura, ya seas una turista primeriza o una viajera solitaria en busca de una experiencia de viaje segura y protegida.\nRealiza esta excursión de compras privada, personalizada según tus gustos e intereses, e incluye recogida y regreso cómodos para explorar los bulliciosos mercados de Delhi.\nUn chófer profesional y una amable consultora local de compras te recogerán en tu hotel, el aeropuerto, o cualquier otro lugar que especifiques. Podrás hablar sobre tus preferencias de compras, haciendo la experiencia más divertida y personalizada. Visitarás algunas de las mejores tiendas y mercados de la ciudad bajo la dirección de una guía conocedora, sentando las bases para una increíble expedición de compras.\nComo es un tour personalizable, puedes elegir comprar lo que más te interese: ropa, accesorios, joyería, y mucho más. Visita mercados y boutiques, y disfruta de visitas turísticas en el camino.\n\nComienza tu día encontrándote con tu consultora de compras, quien te dará un resumen del plan del día, y hablará sobre cualquier preferencia o interés de compras específico que tengas.\n\n**Parada en: Chandni Chowk**\nChandni Chowk tiene algo que ofrecer para todos. Ya sea comida, textiles, joyería, y mucho más.\n\n**Parada en: Dariba Kalan**\nDariba Kalan justifica su significado como la «calle de las perlas incomparables». Es una calle del siglo 17 en Chandni Chowk, en el Viejo Delhi o Shahjahanabad. Conecta Chandni Chowk con la Jama Masjid. Es un mercado histórico, popular por sus piedras preciosas y joyería de oro y plata.\n\n**Parada en: Kinari Bazaar**\nKinari Bazaar es un mercado mayorista. Aquí encontrarás de todo. Una gran variedad y colección de bordes y adornos se encuentra aquí a precios muy bajos. Compra artículos bordados como encaje, trabajos de hilo, adornos, bordes, trabajos en piedra.\n\n**Parada en: Ballimaran**\nBallimaran es famoso por tiendas que venden calzado, desde hermosas juttis y Kolhapuris hasta modernas cuñas y mocasines: puedes encontrar todo tipo de calzado sin marca en este mercado.\n\n**Parada en: Khari Baoli**\nKhari Baoli es el mercado mayorista de especias más grande de Asia, vendiendo todo tipo de especias, nueces, hierbas, y productos alimenticios como arroz y té. Puedes tomar una clase de demostración para entender las diversas especias indias.\n\n**Parada en: mercado INA**\nINA es un bazar artesanal y mercado textil al aire libre ubicado en Delhi; el mercado INA es permanente. Se encuentra en el centro comercial del sur de Delhi.\n\n**Parada en: Central Craft Cottage Industries**\nTienda grande y de larga trayectoria que ofrece artesanía tradicional y tejidos a mano de artesanos indios.\n\n**Parada en: mercado de Sarojini Nagar**\nEl mercado de Sarojini Nagar es un mercado callejero famoso por la venta de ropa estilo occidental a precios de regalo.\n\nTu consultora te ayudará a navegar por los estrechos callejones y puestos, y asistirá con el regateo, si es necesario.\n\nAl final, tras mucha diversión, te dejarán en tu lugar.\n\n**Qué incluye**\nVehículo con aire acondicionado con todas las tarifas de estacionamiento e impuestos\nRecogida y regreso desde el aeropuerto, el hotel, o cualquier otro lugar que especifiques, siempre que se encuentre en Delhi, Noida, Gurugram, o Faridabad\nBotellas de agua y tentempiés ligeros\nDegustaciones de famoso street food en el Viejo Delhi\nTarifas de la asistente personal de compras\nTarifas de paseo en tuk-tuk y rickshaw\n\n**No incluye**\nPropinas y gratificaciones para el chófer y la guía (recomendadas)\nCualquier tipo de gasto personal",
+  "highlights": [
+   "Obtén la ayuda de una consultora personal de compras"
+  ],
+  "included": [
+   "Vehículo con aire acondicionado con todas las tarifas de estacionamiento e impuestos",
+   "Recogida y regreso desde el aeropuerto, el hotel, o cualquier otro lugar que especifiques, siempre que se encuentre en Delhi, Noida, Gurugram, o Faridabad",
+   "Botellas de agua y tentempiés ligeros",
+   "Degustaciones de famoso street food en el Viejo Delhi",
+   "Tarifas de la asistente personal de compras",
+   "Tarifas de paseo en tuk-tuk y rickshaw"
+  ],
+  "notIncluded": [
+   "Propinas y gratificaciones para el chófer y la guía (recomendadas)",
+   "Cualquier tipo de gasto personal"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",

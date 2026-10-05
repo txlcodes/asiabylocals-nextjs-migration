@@ -25676,6 +25676,76 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten"
   ]
  },
+ "delhi-old-delhi-street-food-heritage-tour-with": {
+  "title": "Delhi: Street-Food- und Kulturtour durch Alt-Delhi, mit Rikscha",
+  "metaTitle": "Delhi: Alt-Delhi, Street Food, Kulturerbe",
+  "metaDescription": "Probieren Sie Street Food aus Alt-Delhi mit einem sachkundigen lokalen Reiseführer",
+  "shortDescription": "Probieren Sie Street Food aus Alt-Delhi mit einem sachkundigen lokalen Reiseführer",
+  "fullDescription": "Delhi: Street-Food- und Kulturtour durch Alt-Delhi, mit Rikscha. Probieren Sie Street Food aus Alt-Delhi mit einem sachkundigen lokalen Reiseführer.\n\nEntdecken Sie die Aromen, Geschichte, und das Alltagsleben von Indiens Hauptstadt bei einer Street-Food- und Kulturtour durch Alt-Delhi, durch seine belebten Gassen, traditionellen Märkte, und jahrhundertealten Viertel.\n\nTreffen Sie Ihren lokalen Reiseführer, und beginnen Sie die Erkundung des Herzens von Alt-Delhi zu Fuß. Unterwegs probieren Sie eine Auswahl beliebter lokaler Speisen von sorgfältig ausgewählten Verkäufern, während Sie mehr über die Gerichte, Zutaten, Traditionen, und Geschichten hinter Delhis berühmter Street-Food-Kultur erfahren.\n\nWählen Sie das vegetarische Tageserlebnis für eine vollständig vegetarische Food-Tour durch Alt-Delhi, mit Favoriten wie frisch zubereiteten Jalebis, Parathas, Chaats, Süßigkeiten, und anderen lokalen Spezialitäten.\n\nFür Reisende, die beide Seiten von Delhis Esskultur erleben möchten, wählen Sie ein gemischtes abendliches Erlebnis. Genießen Sie eine Kombination aus vegetarischen Favoriten und ausgewählten nicht-vegetarischen Spezialitäten wie traditionellen Kebabs, zusammen mit Chaats, Süßigkeiten, und anderen Gerichten, die mit Alt-Delhi verbunden sind.\n\nDas Erlebnis ist mehr als nur eine Essensverkostung. Spazieren Sie durch historische Gassen und lebendige Basare, während Ihr Reiseführer Sie in das Erbe und die Kultur einführt, die diesen Teil der Stadt geprägt haben. Besuchen Sie den farbenfrohen Gewürzmarkt, und erleben Sie die Eindrücke, Aromen, und Energie eines der unverwechselbarsten Handelsviertel von Alt-Delhi.\n\nGenießen Sie eine inbegriffene Fahrradrikscha-Fahrt durch die belebten Straßen und engen Gassen, die Ihnen eine weitere Perspektive auf das Viertel bietet, während Sie sich zwischen verschiedenen Teilen der Kulinarik- und Kulturroute bewegen.\n\nIhr Reiseführer hilft Ihnen zu verstehen, was Sie probieren, empfiehlt, wie jedes Gericht traditionell gegessen wird, und teilt lokale Geschichten, die Alt-Delhi über seine Sehenswürdigkeiten hinaus zum Leben erwecken.\n\nOb Sie die vegetarische Tagestour oder die gemischte vegetarische und nicht-vegetarische Abendtour wählen, kommen Sie bereit, Alt-Delhi durch Essen, Märkte, Erbe, und Straßenleben zu probieren, zu erkunden, und zu erleben, die es zu einem der unvergesslichsten Viertel Delhis machen.\n\n**Was ist inbegriffen**\nGeführtes Street-Food- und Kulturerlebnis in Alt-Delhi\nLokale Kostproben während der gesamten Tour\nVegetarische Kostproben für das Tageserlebnis\nVegetarische und nicht-vegetarische Kostproben für das gemischte Abenderlebnis\nProfessioneller lokaler Reiseführer\nFahrradrikscha-Fahrt durch Alt-Delhi\nBesuch von Chandni Chowk und dem Gewürzmarkt\n\n**Nicht inbegriffen**\nAbholung und Rückfahrt zum Hotel, sofern nicht als Zusatzoption gewählt\nZusätzliche Speisen oder Getränke über die enthaltenen Kostproben hinaus\nJegliche Leistungen, die nicht ausdrücklich als inbegriffen erwähnt werden\nTrinkgelder und Gratifikationen\nPersönliche Ausgaben",
+  "highlights": [
+   "Probieren Sie Street Food aus Alt-Delhi mit einem sachkundigen lokalen Reiseführer"
+  ],
+  "included": [
+   "Geführtes Street-Food- und Kulturerlebnis in Alt-Delhi",
+   "Lokale Kostproben während der gesamten Tour",
+   "Vegetarische Kostproben für das Tageserlebnis",
+   "Vegetarische und nicht-vegetarische Kostproben für das gemischte Abenderlebnis",
+   "Professioneller lokaler Reiseführer",
+   "Fahrradrikscha-Fahrt durch Alt-Delhi",
+   "Besuch von Chandni Chowk und dem Gewürzmarkt"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel, sofern nicht als Zusatzoption gewählt",
+   "Zusätzliche Speisen oder Getränke über die enthaltenen Kostproben hinaus",
+   "Jegliche Leistungen, die nicht ausdrücklich als inbegriffen erwähnt werden",
+   "Trinkgelder und Gratifikationen",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "from-delhi-all-inclusive-tour-of-old-new-delhi": {
+  "title": "Ab Delhi: All-Inclusive-Tour durch Alt- und New Delhi, mit Optionen",
+  "metaTitle": "Delhi: All-Inclusive, Alt- und New Delhi",
+  "metaDescription": "Privates klimatisiertes Auto mit einem erfahrenen lokalen Fahrer für den gesamten Tag.",
+  "shortDescription": "Privates klimatisiertes Auto mit einem erfahrenen lokalen Fahrer für den gesamten Tag.",
+  "fullDescription": "Ab Delhi: All-Inclusive-Tour durch Alt- und New Delhi, mit Optionen. Privates klimatisiertes Auto mit einem erfahrenen lokalen Fahrer für den gesamten Tag.\n\n**1. Morgen – Abholung vom Hotel/Flughafen**\nIhr Tag beginnt mit einer bequemen Abholung von Ihrem Hotel, Flughafen, oder bevorzugten Ort in Delhi, Gurugram, oder Noida. Treffen Sie Ihren privaten Reiseführer, und entspannen Sie sich in einem klimatisierten Fahrzeug, während Sie sich dem Herzen der Hauptstadt nähern.\n\n**2. Erkundung von Alt-Delhi**\nBeginnen Sie in den historischen Vierteln von Alt-Delhi, wo Jahrhunderte mogulischen Erbes lebendig werden. Besuchen Sie die majestätische Jama Masjid, eine der größten Moscheen Indiens, und genießen Sie eine traditionelle Rikscha-Fahrt durch Chandni Chowk, vorbei an Gewürzmärkten, engen Gassen, und historischen Havelis. Halten Sie am ikonischen Roten Fort, um mehr über seine Rolle in Indiens Geschichte zu erfahren.\n\n**3. Kulturelle und kulinarische Pause (optionales Mittagessen)**\nMachen Sie eine Mittagspause in einem sorgfältig ausgewählten lokalen Restaurant (falls Ihre gewählte Option das Mittagessen beinhaltet). Genießen Sie authentische nordindische Aromen oder internationale Küche, je nach Ihrer Präferenz.\n\n**4. Highlights von New Delhi**\nWeiter geht es nach New Delhi, mit seiner kolonialen Eleganz und modernen Sehenswürdigkeiten. Fahren Sie an India Gate, Rashtrapati Bhavan, und dem Parlamentsgebäude vorbei, während Ihr Reiseführer Einblicke in die Architektur der britischen Ära und die zeitgenössische Regierungsführung teilt.\n\n**5. Historische und spirituelle Stätten**\nBesuchen Sie Humayuns Grabmal, ein UNESCO-Weltkulturerbe und Meisterwerk mogulischer Architektur. Später erkunden Sie entweder den ruhigen Lotustempel oder den Qutub-Minar-Komplex, je nach gewählter Tour-Option und verfügbarer Zeit.\n\n**6. Lokale Erlebnisse und Fotostopps**\nGenießen Sie kurze Stopps für Fotografie, Geschichten, und lokale Interaktionen, die Ihnen ein tieferes Verständnis für Delhis vielschichtige Kultur vermitteln, antik, mittelalterlich, und modern, alles an einem Tag.\n\n**7. Freizeit und individuelle Stopps**\nWenn die Zeit es erlaubt, genießen Sie einen kurzen Besuch eines lokalen Marktes oder Handwerksviertels, oder entspannen Sie sich bei einer malerischen Fahrt durch die baumgesäumten Alleen von New Delhi.\n\n**8. Rückfahrt**\nNach einem ganzen Tag der Entdeckung werden Sie bequem zu Ihrem Hotel, Flughafen, oder bevorzugten Ort zurückgebracht, womit Ihr All-Inclusive-Erlebnis durch Alt- und New Delhi endet.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel/Flughafen\nPrivates klimatisiertes Auto für die gesamte Tour, mit Fahrer\nVon der Regierung zugelassener Experten-Reiseführer\nEintrittskarten für Sehenswürdigkeiten (falls diese Option gewählt wird)\nMittagessen im Restaurant (falls diese Option gewählt wird)\nFlasche Mineralwasser\nAlle Maut- und Parkgebühren\n\n**Nicht inbegriffen**\nJegliche persönliche Ausgaben",
+  "highlights": [
+   "Privates klimatisiertes Auto mit einem erfahrenen lokalen Fahrer für den gesamten Tag"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "Privates klimatisiertes Auto für die gesamte Tour, mit Fahrer",
+   "Von der Regierung zugelassener Experten-Reiseführer",
+   "Eintrittskarten für Sehenswürdigkeiten (falls diese Option gewählt wird)",
+   "Mittagessen im Restaurant (falls diese Option gewählt wird)",
+   "Flasche Mineralwasser",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "delhi-customized-shopping-tour-with-female": {
+  "title": "Delhi: individuelle Shopping-Tour mit Beraterin",
+  "metaTitle": "Delhi: individuelles Shopping, Beraterin",
+  "metaDescription": "Profitieren Sie von der Unterstützung einer persönlichen Shopping-Beraterin",
+  "shortDescription": "Profitieren Sie von der Unterstützung einer persönlichen Shopping-Beraterin",
+  "fullDescription": "Delhi: individuelle Shopping-Tour mit Beraterin. Profitieren Sie von der Unterstützung einer persönlichen Shopping-Beraterin.\n\nDiese Tour ist eine großartige Gelegenheit, unsere dynamische Hauptstadt zu entdecken, und sich vollständig in unsere Kultur zu vertiefen, ob Sie Erstbesucherin sind oder eine alleinreisende Frau, die eine sichere und geschützte Reiseerfahrung sucht.\nNehmen Sie an diesem privaten Shopping-Ausflug teil, angepasst an Ihren Geschmack und Ihre Interessen, inklusive bequemer Abholung und Rückfahrt, um Delhis belebte Märkte zu erkunden.\nEin professioneller Fahrer und eine freundliche lokale Shopping-Beraterin holen Sie von Ihrem Hotel, dem Flughafen, oder einem anderen von Ihnen angegebenen Ort ab. Sie können über Ihre Vorlieben beim Einkaufen sprechen, was das Erlebnis unterhaltsamer und individueller gestaltet. Sie besuchen einige der besten Geschäfte und Marktplätze der Stadt unter Anleitung einer sachkundigen Reiseführerin, womit die Grundlage für eine großartige Shopping-Expedition gelegt wird.\nDa es sich um eine individuell anpassbare Tour handelt, können Sie wählen, nach dem zu shoppen, was Sie am meisten interessiert, Kleidung, Accessoires, Schmuck, und vieles mehr. Besuchen Sie Märkte und Boutiquen, und genießen Sie Besichtigungen unterwegs.\n\nBeginnen Sie Ihren Tag mit dem Treffen Ihrer Shopping-Beraterin, die Ihnen einen Überblick über den Tagesplan gibt, und Ihre spezifischen Vorlieben oder Shopping-Interessen bespricht.\n\n**Halt bei: Chandni Chowk**\nChandni Chowk hat für jeden etwas zu bieten. Sei es Essen, Textilien, Schmuck, und vieles mehr.\n\n**Halt bei: Dariba Kalan**\nDariba Kalan rechtfertigt seine Bedeutung als die „Straße der unvergleichlichen Perlen\". Es ist eine Straße aus dem 17. Jahrhundert in Chandni Chowk in Alt-Delhi oder Shahjahanabad. Sie verbindet Chandni Chowk mit der Jama Masjid. Es ist ein historischer Markt, beliebt für Edelsteine und Gold- und Silberschmuck.\n\n**Halt bei: Kinari Bazaar**\nKinari Bazaar ist ein Großhandelsmarkt. Hier finden Sie alles. Eine große Vielfalt und Sammlung von Bordüren und Verzierungen finden Sie hier zu sehr niedrigen Preisen. Kaufen Sie bestickte Artikel wie Spitze, Fadenarbeiten, Verzierungen, Bordüren, Steinarbeiten.\n\n**Halt bei: Ballimaran**\nBallimaran ist berühmt für Geschäfte, die Schuhwerk verkaufen, von wunderschönen Juttis und Kolhapuris bis hin zu modischen Keilabsätzen und Slip-ons: Sie finden hier alle Arten von Schuhwerk ohne Markenname.\n\n**Halt bei: Khari Baoli**\nKhari Baoli ist Asiens größter Großhandels-Gewürzmarkt, der alle Arten von Gewürzen, Nüssen, Kräutern, und Lebensmitteln wie Reis und Tee verkauft. Sie können an einem Demonstrationskurs teilnehmen, um die verschiedenen indischen Gewürze zu verstehen.\n\n**Halt bei: INA-Markt**\nINA ist ein offener Handwerks- und Textilmarkt in Delhi; der INA-Markt ist dauerhaft. Er liegt im Geschäftszentrum von Süd-Delhi.\n\n**Halt bei: Central Craft Cottage Industries**\nGroßes, langjähriges Geschäft mit traditionellem Kunsthandwerk und Handwebarbeiten indischer Kunsthandwerker.\n\n**Halt bei: Sarojini-Nagar-Markt**\nDer Sarojini-Nagar-Markt ist ein Straßenmarkt, bekannt für westliche Kleidung zu Schleuderpreisen.\n\nIhre Beraterin hilft Ihnen, sich durch die engen Gassen und Stände zurechtzufinden, und unterstützt Sie bei Bedarf beim Verhandeln.\n\nAm Ende, nach viel Spaß, werden Sie zurückgebracht.\n\n**Was ist inbegriffen**\nKlimatisiertes Fahrzeug mit allen Parkgebühren und Steuern\nAbholung und Rückfahrt vom Flughafen, Hotel, oder einem anderen von Ihnen angegebenen Ort, sofern dieser in Delhi, Noida, Gurugram, oder Faridabad liegt\nWasserflaschen und leichte Snacks\nBerühmte Street-Food-Verkostungen in Alt-Delhi\nGebühren für die persönliche Shopping-Beraterin\nGebühren für Tuk-Tuk- und Rikscha-Fahrten\n\n**Nicht inbegriffen**\nTrinkgelder und Gratifikationen für Fahrer und Reiseführer (empfohlen)\nJegliche Art von persönlichen Ausgaben",
+  "highlights": [
+   "Profitieren Sie von der Unterstützung einer persönlichen Shopping-Beraterin"
+  ],
+  "included": [
+   "Klimatisiertes Fahrzeug mit allen Parkgebühren und Steuern",
+   "Abholung und Rückfahrt vom Flughafen, Hotel, oder einem anderen von Ihnen angegebenen Ort, sofern dieser in Delhi, Noida, Gurugram, oder Faridabad liegt",
+   "Wasserflaschen und leichte Snacks",
+   "Berühmte Street-Food-Verkostungen in Alt-Delhi",
+   "Gebühren für die persönliche Shopping-Beraterin",
+   "Gebühren für Tuk-Tuk- und Rikscha-Fahrten"
+  ],
+  "notIncluded": [
+   "Trinkgelder und Gratifikationen für Fahrer und Reiseführer (empfohlen)",
+   "Jegliche Art von persönlichen Ausgaben"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
