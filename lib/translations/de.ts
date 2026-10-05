@@ -26011,6 +26011,85 @@ export const DE_TOURS: Record<string, TourT> = {
    "Transport zum und vom Roten Fort"
   ]
  },
+ "delhi-old-new-delhi-private-city-tour-with-pickup": {
+  "title": "Delhi: private Stadttour durch Alt- und New Delhi mit Abholung und Fahrt",
+  "metaTitle": "Delhi: Alt- und New Delhi, private Tour",
+  "metaDescription": "Erkunden Sie das kulturelle, spirituelle, und historische Herz von Delhi, Indiens Hauptstadt",
+  "shortDescription": "Erkunden Sie das kulturelle, spirituelle, und historische Herz von Delhi, Indiens Hauptstadt",
+  "fullDescription": "Delhi: private Stadttour durch Alt- und New Delhi mit Abholung und Fahrt. Erkunden Sie das kulturelle, spirituelle, und historische Herz von Delhi, Indiens Hauptstadt.\n\nTreffen Sie Ihren privaten Fahrer und Experten-Reiseführer, mit flexibler Abholung zwischen 7:00 und 12:00 Uhr, und beginnen Sie dann, den faszinierenden Kontrast zwischen Alt- und New Delhi zu erkunden.\n\nBeginnen Sie in Alt-Delhi mit einem Besuch der Jama Masjid, einer der größten und beeindruckendsten Moscheen Indiens. Weiter geht es mit einer traditionellen Rikscha-Fahrt durch Chandni Chowk, wo Sie lebendige Märkte voller Gewürze, Schmuck, Textilien, und authentisches Straßenleben erleben. Halten Sie für Fotos vor dem prächtigen Roten Fort, der ehemaligen Residenz der Mogul-Kaiser, bevor Sie den ruhigen Gurudwara Bangla Sahib besuchen, bekannt für seine goldene Kuppel und Gemeinschaftsküche.\n\nWeiter geht es nach New Delhi, mit Fahrt an India Gate, Rashtrapati Bhavan, und dem Parlamentsgebäude vorbei, einigen der ikonischsten Sehenswürdigkeiten Indiens. Besuchen Sie das prächtige Humayun-Grabmal, ein UNESCO-Weltkulturerbe, das das Design des Taj Mahal inspirierte, gefolgt vom hoch aufragenden Qutub Minar, dem höchsten Backsteinminarett der Welt. Weiter geht es zum atemberaubenden Lotustempel (montags geschlossen), gefeiert für sein unverwechselbares lotusförmiges Design, und falls die Zeit es erlaubt, entdecken Sie die verborgene Schönheit des jahrhundertealten Stufenbrunnens von Agrasen ki Baoli, oder schlendern Sie durch die üppigen Lodhi Gardens, Heimat historischer Grabmäler.\n\nNach der Erkundung von Delhis reicher Geschichte, Kultur, und Architektur entspannen Sie sich während Ihres komfortablen Rücktransfers zu Ihrem Hotel, Flughafen, oder bevorzugten Ort.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel, Flughafen, oder einer nahegelegenen Stadt\nPrivates klimatisiertes Auto mit professionellem Chauffeur\nDienste eines lizenzierten lokalen Reiseführers\nEintrittskarten für Sehenswürdigkeiten (falls diese Option gewählt wird)\nRikscha-Fahrt durch Chandni Chowk (falls die Ticket-Option gewählt wird)\nMittagessen in einem erstklassigen Restaurant (falls diese Option gewählt wird)\nKostenloses Mineralwasser in Flaschen während der Tour\nIndividuelle Besichtigung mit flexibler Reiseroute\nAlle Parkgebühren, Mautgebühren, Treibstoffkosten, und anfallenden Steuern\n\n**Nicht inbegriffen**\nJegliche persönlichen Ausgaben und Trinkgelder oder Gratifikationen\nZusätzliche, nicht erwähnte Aktivitäten",
+  "highlights": [
+   "Erkunden Sie das kulturelle, spirituelle, und historische Herz von Delhi, Indiens Hauptstadt"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel, Flughafen, oder einer nahegelegenen Stadt",
+   "Privates klimatisiertes Auto mit professionellem Chauffeur",
+   "Dienste eines lizenzierten lokalen Reiseführers",
+   "Eintrittskarten für Sehenswürdigkeiten (falls diese Option gewählt wird)",
+   "Rikscha-Fahrt durch Chandni Chowk (falls die Ticket-Option gewählt wird)",
+   "Mittagessen in einem erstklassigen Restaurant (falls diese Option gewählt wird)",
+   "Kostenloses Mineralwasser in Flaschen während der Tour",
+   "Individuelle Besichtigung mit flexibler Reiseroute",
+   "Alle Parkgebühren, Mautgebühren, Treibstoffkosten, und anfallenden Steuern"
+  ],
+  "notIncluded": [
+   "Jegliche persönlichen Ausgaben und Trinkgelder oder Gratifikationen",
+   "Zusätzliche, nicht erwähnte Aktivitäten"
+  ]
+ },
+ "10-days-private-golden-triangle-with-udaipur": {
+  "title": "Privates Golden Triangle von 10 Tagen mit Udaipur, Jodhpur, Pushkar",
+  "metaTitle": "Golden Triangle privat 10 Tage, Udaipur-Jodhpur-Pushkar",
+  "metaDescription": "Mit nur 10 Tagen können Sie viel sehen und erleben.",
+  "shortDescription": "Mit nur 10 Tagen können Sie viel sehen und erleben.",
+  "fullDescription": "Privates Golden Triangle von 10 Tagen mit Udaipur, Jodhpur, Pushkar. Mit nur 10 Tagen können Sie viel sehen und erleben.\n\nGenießen Sie problemlose Besichtigungen, und erkunden Sie die Top-Attraktionen bei dieser privaten 10-tägigen Tour. Tauchen Sie ein, indem Sie die ikonischen Denkmäler von Delhi, Agra, Jaipur, Udaipur, Jodhpur, und Pushkar besuchen.\n\n**Was ist inbegriffen**\nUnterkunft für 9 Nächte (falls die Tour mit der Option inklusive Hotels gebucht wird)\nTransport in einem privaten klimatisierten Fahrzeug mit Fahrer\nAbholung und Rückfahrt zum Hotel oder Flughafen\nAlle Besichtigungen mit privaten lokalen Reiseführern\nTägliches Frühstück im Hotel (falls die Tour mit der Option inklusive Hotels gebucht wird)\nFlaschen Mineralwasser während der Reisen\nBatteriebus-Fahrt zum und vom Parkplatz des Taj Mahal bis zum Taj-Mahal-Monument\n\n**Nicht inbegriffen**\nEintrittsgebühren für Sehenswürdigkeiten\nKameragebühren an Sehenswürdigkeiten\nTrinkgelder (optional)\nReiseversicherung und Flug- und Zugtickets\nMedizinische Versorgung\nMittag- und Abendessen\nTrinkgeld für Fahrer und Reiseführer\nPersönliche Ausgaben wie Telefonate, Tablets, Getränke usw.\nAlles, was nicht in den Einschlüssen erwähnt wird",
+  "highlights": [
+   "Mit nur 10 Tagen können Sie viel sehen und erleben"
+  ],
+  "included": [
+   "Unterkunft für 9 Nächte (falls die Tour mit der Option inklusive Hotels gebucht wird)",
+   "Transport in einem privaten klimatisierten Fahrzeug mit Fahrer",
+   "Abholung und Rückfahrt zum Hotel oder Flughafen",
+   "Alle Besichtigungen mit privaten lokalen Reiseführern",
+   "Tägliches Frühstück im Hotel (falls die Tour mit der Option inklusive Hotels gebucht wird)",
+   "Flaschen Mineralwasser während der Reisen",
+   "Batteriebus-Fahrt zum und vom Parkplatz des Taj Mahal bis zum Taj-Mahal-Monument"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Sehenswürdigkeiten",
+   "Kameragebühren an Sehenswürdigkeiten",
+   "Trinkgelder (optional)",
+   "Reiseversicherung und Flug- und Zugtickets",
+   "Medizinische Versorgung",
+   "Mittag- und Abendessen",
+   "Trinkgeld für Fahrer und Reiseführer",
+   "Persönliche Ausgaben wie Telefonate, Tablets, Getränke usw.",
+   "Alles, was nicht in den Einschlüssen erwähnt wird"
+  ]
+ },
+ "delhi-private-old-new-delhi-guided-half-or-full": {
+  "title": "Delhi: private geführte Tour durch Alt- und New Delhi, halber oder ganzer Tag",
+  "metaTitle": "Delhi: Alt- und New Delhi, halber oder ganzer Tag",
+  "metaDescription": "Genießen Sie die lebendigen Farben der Geschäfte und Waren auf dem Chandni-Chowk-Markt.",
+  "shortDescription": "Genießen Sie die lebendigen Farben der Geschäfte und Waren auf dem Chandni-Chowk-Markt.",
+  "fullDescription": "Delhi: private geführte Tour durch Alt- und New Delhi, halber oder ganzer Tag. Genießen Sie die lebendigen Farben der Geschäfte und Waren auf dem Chandni-Chowk-Markt.\n\nBeginnen Sie mit einer Abholung von Ihrem Hotel überall in Delhi/Gurgaon/Noida/Ghaziabad und Faridabad, oder vom Flughafen Delhi.\n\nZuerst holt Sie unser Fahrer von Ihrem Hotel ab. Nach der Abholung geht es weiter mit Ihrer Besichtigung der Stadt Alt-Delhi oder New Delhi, je nachdem, welche Tour-Option Sie buchen.\n\nSie können eine beliebige Abholzeit zwischen 7:30 und 17:00 Uhr wählen.\n\n**Orte, die Sie in Alt-Delhi besuchen werden:**\nIn Alt-Delhi besuchen Sie die Jama Masjid, eine Rikscha-Fahrt, Chandni Chowk, den Gewürzmarkt, India Gate, den Präsidentenpalast, das Rote Fort (von außen), und Rajghat.\n\n**Orte, die Sie in New Delhi besuchen werden:**\nIn New Delhi besuchen Sie (den Lotustempel, Humayuns Grabmal, India Gate, das Parlamentsgebäude, den Präsidentenpalast, den Lodhi Garden, und Agrasen ki Baoli), falls Sie Zeit haben.\n\nWenn Sie sowohl Alt- als auch New Delhi mit dem Qutub Minar und dem Gurudwara Bangla Sahib abdecken möchten, können Sie die 3. oder 4. Option wählen, dann decken Sie beides in 8 Stunden ab.\n\nNach Abschluss der Tour bringen wir Sie zurück zu Ihrem Hotel oder zum Flughafen Delhi.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel/Flughafen\nKlimatisierter Transport während der Aktivität\nLive-Reiseführer\nRikscha-Fahrt in Alt-Delhi (falls diese Option gewählt wird)\nEintrittskarten für Sehenswürdigkeiten (falls diese Option gewählt wird)\nMittagessen (falls die 4. Option gewählt wird)\nWasserflasche und Regenschirme\nParkgebühren und Steuern\n\n**Nicht inbegriffen**\nGetränke\nTrinkgelder",
+  "highlights": [
+   "Genießen Sie die lebendigen Farben der Geschäfte und Waren auf dem Chandni-Chowk-Markt"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "Klimatisierter Transport während der Aktivität",
+   "Live-Reiseführer",
+   "Rikscha-Fahrt in Alt-Delhi (falls diese Option gewählt wird)",
+   "Eintrittskarten für Sehenswürdigkeiten (falls diese Option gewählt wird)",
+   "Mittagessen (falls die 4. Option gewählt wird)",
+   "Wasserflasche und Regenschirme",
+   "Parkgebühren und Steuern"
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Trinkgelder"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
