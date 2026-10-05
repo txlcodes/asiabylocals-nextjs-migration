@@ -6478,6 +6478,74 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld (optional)"
   ]
  },
+ "taj-mahal-mahal-sunrise-tour": {
+  "title": "Von Delhi aus: Taj Mahal Sonnenaufgang und Agra Tagestour mit 5-Sterne-Mahlzeit",
+  "metaTitle": "Delhi-Agra: Taj Mahal Sonnenaufgang, 5-Sterne-Mahlzeit",
+  "metaDescription": "Erkunden Sie das ikonische Taj Mahal, das atemberaubendste Symbol der Liebe der Welt.",
+  "shortDescription": "Erkunden Sie das ikonische Taj Mahal, das atemberaubendste Symbol der Liebe der Welt.",
+  "fullDescription": "**Abholung vom Hotel/Flughafen Delhi, Gurgaon, und Noida**\n\nUnser Fahrer holt Sie von Ihrem Hotel oder Flughafen in Delhi, Gurgaon, oder Noida in einem privaten klimatisierten Auto ab. Entspannen Sie sich und genießen Sie eine reibungslose und komfortable Fahrt nach Agra über die moderne Yamuna Expressway.\n\n**Besuch des prächtigen Taj Mahal**\n\nKommen Sie in Agra an, wo unser erfahrener Guide Sie herzlich willkommen heißt und Ihnen bei den schnellen Eintrittskarten zum Taj Mahal hilft. Überspringen Sie die langen Schlangen, und genießen Sie einen reibungslosen Besuch des atemberaubenden Denkmals, bewundert für seine atemberaubende weiße Marmorschönheit, friedliche Gärten, und prächtige Mogul-Architektur. Ihr Guide hilft Ihnen auch, schöne Fotos an den besten Orten rund um das Taj Mahal zu machen.\n\n**Erkundung des historischen Agra Forts**\n\nWeiter geht es zum majestätischen Agra Fort, einem UNESCO-Weltkulturerbe voller königlicher Paläste, eleganter Hallen, und schöner Höfe mit Blick auf das Taj Mahal.\n\n**Mittagessen im DoubleTree by Hilton oder einem lokalen Restaurant (optional)**\n\nMachen Sie eine Pause und genießen Sie ein geschmackvolles indisches Mittagessen in einem beliebten lokalen Restaurant oder im DoubleTree by Hilton (optional je nach Paketinhalt). Ein 5-Sterne-Hotel ist je nach gewählter Option verfügbar.\n\n**Entdecken Sie das schöne Baby Taj**\n\nBesuchen Sie das charmante Baby Taj, bekannt für seine zarte Marmor-Einlegearbeit und ruhige Atmosphäre entlang des Yamuna-Flusses.\n\n**Rückfahrt nach Delhi**\n\nBeenden Sie Ihren Tag mit einer entspannten Fahrt zurück nach Delhi, mit unvergesslichen Erinnerungen an Agras reiches Erbe und zeitlose Schönheit.",
+  "highlights": [
+   "Erkunden Sie das ikonische Taj Mahal, das atemberaubendste Symbol der Liebe der Welt"
+  ],
+  "included": [
+   "Transport im privaten klimatisierten Auto mit Fahrer",
+   "Privater Reiseführer",
+   "Abholung und Rückbringung zum Hotel",
+   "Eintrittskarten zu den Denkmälern (falls ausgewählt)",
+   "Frühstück oder Mittagessen in einem 5-Sterne-Hotel (falls ausgewählt)",
+   "Wasser in Flaschen",
+   "Alle Steuern und Gebühren"
+  ],
+  "notIncluded": [
+   "Jegliches zum Mittagessen servierte Getränk",
+   "Trinkgeld für Fahrer und Guide"
+  ]
+ },
+ "taj-mahal-sunrise-tour-express-ticket-guide-photos": {
+  "title": "Taj Mahal Sonnenaufgangstour: Express-Ticket, Guide, und Fotos",
+  "metaTitle": "Agra: Taj Mahal Sonnenaufgang, Express-Ticket",
+  "metaDescription": "Genießen Sie einen stressfreien Sonnenaufgangsbesuch am Taj Mahal mit Skip-the-Line-Tickets.",
+  "shortDescription": "Genießen Sie einen stressfreien Sonnenaufgangsbesuch am Taj Mahal mit Skip-the-Line-Tickets.",
+  "fullDescription": "Genießen Sie einen magischen Sonnenaufgangsbesuch am Taj Mahal und seinem Mausoleum mit Express-Eintrittskarten. Erkunden Sie dieses Weltwunder mit Ihrem privaten Guide, der Ihnen die faszinierende Geschichte, Geheimnisse, und optischen Täuschungen erzählt, während er Ihre besten Fotos aus den besten Winkeln an den schönsten und ikonischsten Orten macht.\n\nBeginnen Sie Ihre Tour mit einer bequemen Abholung von Ihrem Hotel in Agra oder Delhi. Entspannen Sie sich auf der Fahrt zum Taj Mahal. Mehrere Optionen sind verfügbar, einschließlich der Hinzufügung einer Agra Fort Tour für ein vollständiges Erlebnis.\n\nÜberspringen Sie die Ticketschlangen, und erkunden Sie das Taj Mahal mit Ihrem erfahrenen Guide. Hören Sie seine faszinierende Geschichte, Geheimnisse, und einzigartigen optischen Täuschungen, und entdecken Sie, warum es eines der größten Weltwunder ist.\n\nNach dem Besuch können Sie auch eine Live-Vorführung der traditionellen Marmor-Einlegearbeit von erfahrenen Handwerkern sehen, Nachkommen der ursprünglichen Kunsthandwerker.\n\nHinweis: Dies ist eine vollständig anpassbare private Tour nach Ihren Vorlieben.",
+  "highlights": [
+   "Genießen Sie einen stressfreien Sonnenaufgangsbesuch am Taj Mahal mit Skip-the-Line-Tickets"
+  ],
+  "included": [
+   "Eintrittsgebühren zu den Denkmälern (falls ausgewählt)",
+   "Abholung und Rückbringung in Agra oder Delhi (je nach gewählter Option)",
+   "Professioneller Guide",
+   "Private Tour",
+   "Vorführung der Einlegearbeit",
+   "Unser Guide macht Ihre social-media-tauglichen Fotos",
+   "Klimatisiertes Fahrzeug",
+   "Wasserflaschen und Schuhüberzieher"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Essen und alkoholische Getränke"
+  ]
+ },
+ "agra-evening-tour-with-sunset-view-of-taj-mahal": {
+  "title": "Agra Abendtour mit Sonnenuntergangsblick auf das Taj Mahal",
+  "metaTitle": "Agra: Abendtour, Sonnenuntergang am Taj",
+  "metaDescription": "Bewundern Sie einen unglaublichen Blick auf das Taj Mahal bei Sonnenuntergang.",
+  "shortDescription": "Bewundern Sie einen unglaublichen Blick auf das Taj Mahal bei Sonnenuntergang.",
+  "fullDescription": "Sie werden von Ihrem Hotel, Flughafen, oder gewünschten Ort in Agra abgeholt, wo Ihr Fahrer und Guide Sie begrüßen.\n\nBeginnen Sie Ihren Abend mit einem Besuch des Baby Taj (Itimad-ud-Daulah), eines prächtigen Marmor-Mausoleums, das das Design des Taj Mahal inspirierte. Bekannt als Schmuckkästchen, zeigt es exquisite Einlegearbeit und eine friedliche Umgebung entlang des Yamuna-Flusses, und bietet einen Einblick in die mogulische Kunstfertigkeit vor der Pracht des Taj selbst.\n\nAls Nächstes geht es weiter zum Mehtab Bagh, einem ruhigen Garten direkt gegenüber dem Taj Mahal. Auch Mondlichtgarten genannt, bietet er einen idealen Ort, um die Schönheit des Taj Mahal beim Sonnenuntergang zu erleben, während das Denkmal in goldene und rosa Töne getaucht wird. Machen Sie atemberaubende Fotos des Taj von diesem romantischen Aussichtspunkt.\n\nDanach erkunden Sie lokale Märkte wie Sadar Bazaar, wo Sie Agras lebendige Kultur erleben, Kunsthandwerk, Marmorarbeiten, und Textilien kaufen, und lokales Street Food probieren können. Später genießen Sie ein optionales Abendessen in einem der beliebten mogulischen Restaurants Agras (Abendessen nicht enthalten). Falls die Zeit es erlaubt, besuchen Sie kulturelle Shows mit traditioneller Musik und Tanz (Tickets nicht enthalten).\n\nBeenden Sie Ihren Abend mit etwas Nachtfotografie, indem Sie die schön beleuchteten Denkmäler und lebendigen Straßen festhalten.\nSchließlich setzt Ihr Fahrer Sie an Ihrem Ort ab und beendet Ihre Tour mit unvergesslichen Erinnerungen.",
+  "highlights": [
+   "Bewundern Sie einen unglaublichen Blick auf das Taj Mahal bei Sonnenuntergang"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel",
+   "Besichtigung im privaten Auto",
+   "Privater Guide",
+   "Private Agra-Abendtour",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Trinkgeld"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",

@@ -6478,6 +6478,74 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas (opcional)"
   ]
  },
+ "taj-mahal-mahal-sunrise-tour": {
+  "title": "Desde Delhi: tour del amanecer en el Taj Mahal y Agra con comida de 5 estrellas",
+  "metaTitle": "Delhi-Agra: Taj Mahal al amanecer, comida de 5 estrellas",
+  "metaDescription": "Explore el icónico Taj Mahal, el símbolo de amor más impresionante del mundo.",
+  "shortDescription": "Explore el icónico Taj Mahal, el símbolo de amor más impresionante del mundo.",
+  "fullDescription": "**Recogida en el hotel/aeropuerto de Delhi, Gurgaon, y Noida**\n\nNuestro conductor lo recogerá en su hotel o aeropuerto en Delhi, Gurgaon, o Noida en un coche privado con aire acondicionado. Relájese y disfrute de un trayecto fluido y cómodo hacia Agra por la moderna autopista exprés Yamuna.\n\n**Visita al magnífico Taj Mahal**\n\nLlegue a Agra, donde nuestro guía experto le dará la bienvenida calurosamente y lo ayudará con los boletos de entrada rápida al Taj Mahal. Evite las largas colas, y disfrute de una visita fluida al impresionante monumento, admirado por su deslumbrante belleza de mármol blanco, jardines tranquilos, y magnífica arquitectura mogola. Su guía también le ayudará a capturar hermosas fotos en los mejores lugares alrededor del Taj Mahal.\n\n**Exploración del histórico fuerte de Agra**\n\nContinúe hacia el majestuoso fuerte de Agra, un sitio del Patrimonio Mundial de la UNESCO lleno de palacios reales, elegantes salones, y hermosos patios con vista al Taj Mahal.\n\n**Almuerzo en el DoubleTree by Hilton o restaurante local (opcional)**\n\nTómese un descanso y disfrute de un sabroso almuerzo indio en un popular restaurante local o en el DoubleTree by Hilton (opcional según la inclusión del paquete). Un hotel de 5 estrellas está disponible según la opción elegida.\n\n**Descubra el hermoso Baby Taj**\n\nVisite el encantador Baby Taj, famoso por su delicado trabajo de incrustación en mármol y su atmósfera serena junto al río Yamuna.\n\n**Trayecto de regreso a Delhi**\n\nTermine su día con un relajante trayecto de regreso a Delhi, llevando recuerdos inolvidables del rico patrimonio y la belleza atemporal de Agra.",
+  "highlights": [
+   "Explore el icónico Taj Mahal, el símbolo de amor más impresionante del mundo"
+  ],
+  "included": [
+   "Transporte en coche privado con aire acondicionado y conductor",
+   "Guía turístico privado",
+   "Recogida y traslado al hotel",
+   "Boletos de entrada a los monumentos (si se selecciona esa opción)",
+   "Desayuno o almuerzo en un hotel de 5 estrellas (si se selecciona esa opción)",
+   "Agua embotellada",
+   "Todos los impuestos y cargos"
+  ],
+  "notIncluded": [
+   "Cualquier bebida servida con el almuerzo",
+   "Propinas para el conductor y el guía"
+  ]
+ },
+ "taj-mahal-sunrise-tour-express-ticket-guide-photos": {
+  "title": "Tour del amanecer en el Taj Mahal: boleto exprés, guía, y fotos",
+  "metaTitle": "Agra: Taj Mahal al amanecer, boleto exprés",
+  "metaDescription": "Disfrute de una visita del amanecer sin estrés al Taj Mahal, con boletos sin filas.",
+  "shortDescription": "Disfrute de una visita del amanecer sin estrés al Taj Mahal, con boletos sin filas.",
+  "fullDescription": "Disfrute de una mágica visita del amanecer al Taj Mahal y su mausoleo con boletos de entrada exprés. Explore esta maravilla del mundo con su guía privado, quien compartirá su fascinante historia, secretos, e ilusiones ópticas, mientras captura sus mejores fotos desde los mejores ángulos en los lugares más hermosos e icónicos.\n\nComience su tour con una cómoda recogida en su hotel en Agra o Delhi. Relájese durante el trayecto hacia el Taj Mahal. Hay múltiples opciones disponibles, incluyendo agregar un tour al fuerte de Agra para una experiencia completa.\n\nEvite las filas de boletos, y explore el Taj Mahal con su guía experto. Escuche su fascinante historia, secretos, e ilusiones ópticas únicas, y descubra por qué es una de las mayores maravillas del mundo.\n\nDespués de la visita, también puede ver una demostración en vivo del trabajo tradicional de incrustación en mármol por artesanos expertos, descendientes de los artesanos originales.\n\nNota: este es un tour privado totalmente personalizable según sus preferencias.",
+  "highlights": [
+   "Disfrute de una visita del amanecer sin estrés al Taj Mahal, con boletos sin filas"
+  ],
+  "included": [
+   "Tarifas de entrada a los monumentos (si se selecciona esa opción)",
+   "Recogida y traslado en Agra o Delhi (según la opción seleccionada)",
+   "Guía profesional",
+   "Tour privado",
+   "Demostración de trabajo de incrustación",
+   "Nuestro guía tomará sus fotos dignas de redes sociales",
+   "Vehículo con aire acondicionado",
+   "Botellas de agua y cubrezapatos"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Comida y bebidas alcohólicas"
+  ]
+ },
+ "agra-evening-tour-with-sunset-view-of-taj-mahal": {
+  "title": "Tour vespertino de Agra con vista del atardecer en el Taj Mahal",
+  "metaTitle": "Agra: tour vespertino, atardecer en el Taj",
+  "metaDescription": "Vea una vista increíble del Taj Mahal al atardecer.",
+  "shortDescription": "Vea una vista increíble del Taj Mahal al atardecer.",
+  "fullDescription": "Será recogido en su hotel, aeropuerto, o lugar deseado en Agra, donde su conductor y guía lo recibirán.\n\nComience su tarde con una visita al Baby Taj (Itimad-ud-Daulah), un impresionante mausoleo de mármol que inspiró el diseño del Taj Mahal. Conocido como el joyero, muestra un exquisito trabajo de incrustación y un entorno tranquilo junto al río Yamuna, ofreciendo una visión del arte mogol antes de la grandeza del Taj mismo.\n\nA continuación, continúe hacia Mehtab Bagh, un jardín sereno situado directamente frente al Taj Mahal. También llamado el Jardín de la Luz de Luna, ofrece un lugar ideal para ver la belleza del Taj Mahal al atardecer, pintando el monumento en tonos dorados y rosados. Capture fotos impresionantes del Taj desde este romántico mirador.\n\nDespués, explore mercados locales como Sadar Bazaar, donde puede experimentar la vibrante cultura de Agra, comprar artesanías, trabajo en mármol, textiles, y probar comida de calle local. Más tarde, disfrute de una cena opcional en uno de los populares restaurantes mogoles de Agra (cena no incluida). Si el tiempo lo permite, asista a espectáculos culturales con música y danza tradicionales (boletos no incluidos).\n\nTermine su tarde con algo de fotografía nocturna, capturando los monumentos bellamente iluminados y las calles animadas.\nFinalmente, su conductor lo dejará en su lugar, terminando su tour con recuerdos inolvidables.",
+  "highlights": [
+   "Vea una vista increíble del Taj Mahal al atardecer"
+  ],
+  "included": [
+   "Recogida y traslado al hotel",
+   "Recorrido en coche privado",
+   "Guía privado",
+   "Tour vespertino privado en Agra",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Propinas"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
