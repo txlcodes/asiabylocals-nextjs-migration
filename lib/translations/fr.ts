@@ -4758,6 +4758,71 @@ export const FR_TOURS: Record<string, TourT> = {
    "Gratifications/pourboires"
   ]
  },
+ "skip-the-line-agra-tour-with-tuk-tuk-live": {
+  "title": "Visite d'Agra avec entrée coupe-file en tuk-tuk et guide en direct",
+  "metaTitle": "Agra : visite en tuk-tuk, entrée coupe-file",
+  "metaDescription": "Balade traditionnelle en tuk-tuk pour explorer Agra.",
+  "shortDescription": "Balade traditionnelle en tuk-tuk pour explorer Agra.",
+  "fullDescription": "**6h00** : prise en charge à votre hôtel/aéroport/gare vers le Taj Mahal. Visitez le magnifique Taj Mahal, l'une des sept merveilles du monde, sans doute l'expression la plus extravagante de l'amour jamais créée. 20 000 hommes ont travaillé pendant plus de 17 ans pour construire ce mémorial à l'épouse bien-aimée de Shah Jahan. Le Taj Mahal révèle un aspect différent de sa beauté à différents moments de la journée.\n\n**9h30 à 10h30** : petit-déjeuner à vos frais.\n\n**10h30** : visite du fort d'Agra.\n\n**12h00** : direction le Baby Taj, découvrez ce magnifique monument.\n\n**13h00 à 14h30** : bazar artisanal local.",
+  "highlights": [
+   "Balade traditionnelle en tuk-tuk pour explorer Agra"
+  ],
+  "included": [
+   "Visites en auto-rickshaw privé (tuk-tuk)",
+   "Chauffeur privé en uniforme",
+   "Tous les frais de stationnement, péages, taxes, indemnités, carburant, et taxes inter-États",
+   "Guide touristique privé en direct agréé par le gouvernement",
+   "Carburant et taxes d'État"
+  ],
+  "notIncluded": [
+   "Frais d'entrée aux monuments",
+   "Déjeuner",
+   "Pourboires (facultatifs)",
+   "Boissons alcoolisées (disponibles à l'achat)",
+   "Assurance"
+  ]
+ },
+ "mathura-vrindavan-evening-tour-from-agra": {
+  "title": "Visite du soir à Mathura Vrindavan depuis Agra",
+  "metaTitle": "Agra-Mathura-Vrindavan : visite du soir",
+  "metaDescription": "Explorez le lieu de naissance du Seigneur Krishna.",
+  "shortDescription": "Explorez le lieu de naissance du Seigneur Krishna.",
+  "fullDescription": "**Agra – Mathura Vrindavan – Agra**\nLors de cette visite, vous serez pris en charge à votre hôtel à Agra dans un véhicule privé de luxe l'après-midi, et conduit vers la ville sacrée de Mathura. À l'arrivée, vous visiterez le temple Janambhoomi, lieu de naissance du Seigneur Krishna. Ensuite, vous procéderez à la visite du temple Dwarka Dheesh, dédié au Seigneur Krishna. Ce temple est construit dans un style gujarati et constitue l'une des principales attractions de la ville de Mathura.\n\nVous vous dirigerez ensuite vers la ville de Vrindavan, où vous visiterez des temples mondialement célèbres comme le temple Bankey Bihari, où le Seigneur Krishna est représenté sous forme d'enfant. Ensuite, vous visiterez le temple ISKCON de Vrindavan, construit par le trust Hare Rama Hare Krishna. Ensuite, la prochaine visite sera celle de l'immense Prem Mandir, qui paraît magnifique parmi les éclairages colorés. Ce temple a été construit par Shri Jagat Guru Kripalu Ji Maharaj. Ici, les lumières et le spectacle laser font de ce temple une beauté immense. Après la visite, vous retournerez à votre hôtel à Agra dans le même véhicule privé.",
+  "highlights": [
+   "Explorez le lieu de naissance du Seigneur Krishna"
+  ],
+  "included": [
+   "Voiture privée pour toute la visite",
+   "Toutes les taxes",
+   "Prise en charge et retour à l'hôtel/gare"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Dépenses personnelles",
+   "Guide pour les visites"
+  ]
+ },
+ "from-gurugram-agra-private-day-tour-by-car": {
+  "title": "Depuis Gurugram : visite privée d'Agra d'une journée en voiture",
+  "metaTitle": "Gurugram-Agra : visite d'une journée en voiture",
+  "metaDescription": "Visite d'une journée au Taj Mahal, adaptée aux entreprises.",
+  "shortDescription": "Visite d'une journée au Taj Mahal, adaptée aux entreprises.",
+  "fullDescription": "**6h00 : départ de Gurgaon**\nLe matin, notre chauffeur vous rencontrera à l'endroit souhaité à Gurgaon avec le véhicule privé de luxe. Après la rencontre, votre trajet commencera pour atteindre Agra, la ville historique des Moghols. Cette ville est célèbre pour ses grands monuments, et particulièrement pour le Taj Mahal. Votre trajet prend au maximum 4 heures pour atteindre la ville d'Agra.\n\n**10h00 : pause thé**\nÀ l'arrivée, nous vous accueillons et vous rafraîchissez. Ensuite, préparez-vous à visiter les principaux sites avec votre guide touristique.\n\n**10h30 : visite du Taj Mahal**\nPréparez-vous maintenant pour la visite guidée de l'emblème de l'amour, le Taj Mahal. Ce fut le projet le plus coûteux du 16e siècle, dont la construction débuta au 16e siècle par l'empereur moghol Shah Jahan. Profitez du Taj Mahal pendant 2 heures avec les explications historiques.\n\n**12h30 : visite du fort d'Agra**\nVous poursuivrez vers la visite du fort d'Agra, construit au 16e siècle et connu dans le monde entier pour ses magnifiques palais intérieurs tels que le Deewan E Aam, le Deewan E Khaas, le Sheesh Mahal, l'Angoori Bagh, et le palais des miroirs.\n\n**14h00 : déjeuner dans un restaurant local**\nVous profiterez du déjeuner et pourrez goûter à de délicieuses cuisines moghole.\n\n**15h15 : visite du Baby Taj Mahal**\nVous partirez pour la visite du mini Taj, également appelé le Baby Taj Mahal. Ce magnifique monument a également été construit en marbre blanc avec des incrustations de pierres précieuses et semi-précieuses.\n\n**16h30 (04: 30 PM) : shopping libre**\nSi vous le souhaitez, vous pouvez explorer les célèbres marchés d'artisanat d'Agra.\n\n**17h30 : d'Agra à Gurgaon**\nAprès la visite d'Agra, vous roulerez de retour vers l'endroit souhaité à Gurgaon.",
+  "highlights": [
+   "Visite d'une journée au Taj Mahal, adaptée aux entreprises"
+  ],
+  "included": [
+   "Véhicule privé pour tout le voyage",
+   "Toutes les taxes applicables",
+   "Aller-retour",
+   "Prise en charge et retour à l'hôtel",
+   "Guide touristique en direct"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Billets d'entrée aux monuments"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",

@@ -4758,6 +4758,71 @@ export const DE_TOURS: Record<string, TourT> = {
    "Zuwendungen/Trinkgeld"
   ]
  },
+ "skip-the-line-agra-tour-with-tuk-tuk-live": {
+  "title": "Agra-Tour mit Skip-the-Line-Eintritt per Tuk-Tuk und Live-Guide",
+  "metaTitle": "Agra: Tuk-Tuk-Tour, Skip-the-Line",
+  "metaDescription": "Traditionelle Tuk-Tuk-Fahrt, um Agra zu erkunden.",
+  "shortDescription": "Traditionelle Tuk-Tuk-Fahrt, um Agra zu erkunden.",
+  "fullDescription": "**6:00 Uhr**: Abholung von Ihrem Hotel/Flughafen/Bahnhof zum Taj Mahal. Besuchen Sie das prächtige Taj Mahal, eines der sieben Weltwunder, sicherlich der extravaganteste Ausdruck der Liebe, der je geschaffen wurde. 20.000 Männer arbeiteten über 17 Jahre lang, um dieses Denkmal für Shah Jahans geliebte Frau zu bauen. Das Taj Mahal zeigt zu verschiedenen Tageszeiten einen anderen Aspekt der Schönheit.\n\n**9:30 bis 10:30 Uhr**: Frühstück auf eigene Kosten.\n\n**10:30 Uhr**: Besuch des Agra Forts.\n\n**12:00 Uhr**: Weiter zum Baby Taj, erkunden Sie dieses wunderschöne Denkmal.\n\n**13:00 bis 14:30 Uhr**: lokaler Kunsthandwerksbasar.",
+  "highlights": [
+   "Traditionelle Tuk-Tuk-Fahrt, um Agra zu erkunden"
+  ],
+  "included": [
+   "Besichtigung im privaten Auto-Rikscha (Tuk-Tuk)",
+   "Privater uniformierter Fahrer",
+   "Alle Parkgebühren, Mautgebühren und Steuern, Zulagen, Kraftstoff, und Steuern zwischen Bundesstaaten",
+   "Privater, staatlich zugelassener Live-Reiseführer",
+   "Kraftstoff und Landessteuern"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren zu den Denkmälern",
+   "Mittagessen",
+   "Trinkgeld (optional)",
+   "Alkoholische Getränke (zum Kauf erhältlich)",
+   "Versicherung"
+  ]
+ },
+ "mathura-vrindavan-evening-tour-from-agra": {
+  "title": "Abendtour nach Mathura Vrindavan von Agra aus",
+  "metaTitle": "Agra-Mathura-Vrindavan: Abendtour",
+  "metaDescription": "Erkunden Sie den Geburtsort des Herrn Krishna.",
+  "shortDescription": "Erkunden Sie den Geburtsort des Herrn Krishna.",
+  "fullDescription": "**Agra – Mathura Vrindavan – Agra**\nBei dieser Tour werden Sie nachmittags von Ihrem Hotel in Agra in einem privaten Luxusfahrzeug empfangen und in die heilige Stadt Mathura gefahren. Bei der Ankunft besuchen Sie den Janambhoomi-Tempel, den Geburtsort des Herrn Krishna. Danach besuchen Sie den Dwarka-Dheesh-Tempel, der dem Herrn Krishna geweiht ist. Dieser Tempel ist im gujaratischen Stil erbaut und eine der wichtigsten Attraktionen der Stadt Mathura.\n\nNun geht es weiter zur Stadt Vrindavan, wo Sie weltberühmte Tempel wie den Bankey-Bihari-Tempel besuchen, in dem der Herr Krishna in Kindesform verehrt wird. Danach besuchen Sie den ISKCON-Vrindavan-Tempel, erbaut vom Hare-Rama-Hare-Krishna-Trust. Als Nächstes folgt der Besuch des riesigen Prem Mandir, das zwischen den farbenfrohen Beleuchtungen fantastisch aussieht. Dieser Tempel wurde von Shri Jagat Guru Kripalu Ji Maharaj erbaut. Hier machen die Licht- und Lasershows den Tempel zu einer gewaltigen Schönheit. Nach der Tour werden Sie mit demselben privaten Fahrzeug zu Ihrem Hotel in Agra zurückgebracht.",
+  "highlights": [
+   "Erkunden Sie den Geburtsort des Herrn Krishna"
+  ],
+  "included": [
+   "Privates Auto für die gesamte Tour",
+   "Alle Steuern",
+   "Abholung und Rückbringung zum Hotel/Bahnhof"
+  ],
+  "notIncluded": [
+   "Trinkgeld",
+   "Persönliche Ausgaben",
+   "Guide für die Besichtigung"
+  ]
+ },
+ "from-gurugram-agra-private-day-tour-by-car": {
+  "title": "Von Gurugram aus: private Agra-Tagestour mit dem Auto",
+  "metaTitle": "Gurugram-Agra: Tagestour mit Auto",
+  "metaDescription": "Unternehmensfreundliche Taj Mahal Tagestour.",
+  "shortDescription": "Unternehmensfreundliche Taj Mahal Tagestour.",
+  "fullDescription": "**6:00 Uhr: Abfahrt von Gurgaon**\nMorgens trifft Sie unser Chauffeur an Ihrem jeweiligen Ort in Gurgaon mit dem privaten Luxusfahrzeug. Nach dem Treffen beginnt Ihre Fahrt nach Agra, der historischen Stadt der Moguln. Diese Stadt ist berühmt für ihre grandiosen Denkmäler und besonders für das Taj Mahal. Ihre Fahrt dauert maximal 4 Stunden, um die Stadt Agra zu erreichen.\n\n**10:00 Uhr: Teepause**\nBei der Ankunft begrüßen wir Sie und bieten Erfrischungen an. Danach bereiten Sie sich darauf vor, die wichtigsten Höhepunkte mit Ihrem Reiseführer zu besuchen.\n\n**10:30 Uhr: Besuch des Taj Mahal**\nBereiten Sie sich nun auf die geführte Tour des Sinnbilds der Liebe, dem Taj Mahal, vor. Dies war das teuerste Projekt des 16. Jahrhunderts, dessen Bau im 16. Jahrhundert vom Mogulkaiser Shah Jahan begonnen wurde. Genießen Sie das Taj Mahal für 2 Stunden mit historischen Erläuterungen.\n\n**12:30 Uhr: Besichtigung des Agra Forts**\nSie besuchen weiter das im 16. Jahrhundert erbaute Agra Fort, das weltweit für seine schönen Paläste im Inneren bekannt ist, wie den Deewan E Aam, den Deewan E Khaas, den Sheesh Mahal, den Angoori Bagh, und den Spiegelpalast.\n\n**14:00 Uhr: Mittagessen in einem lokalen Restaurant**\nSie genießen das Mittagessen und probieren einige köstliche mogulische Gerichte.\n\n**15:15 Uhr: Besuch des Baby Taj Mahal**\nSie brechen auf zum Besuch des Mini-Taj, auch Baby Taj Mahal genannt. Dieses schöne Denkmal wurde ebenfalls aus weißem Marmor mit Einlegearbeiten aus Edel- und Halbedelsteinen erbaut.\n\n**16:30 Uhr (04: 30 PM): freies Einkaufen**\nFalls gewünscht, können Sie die berühmten Kunsthandwerksmärkte von Agra erkunden.\n\n**17:30 Uhr: von Agra nach Gurgaon**\nNach der Besichtigung von Agra fahren Sie zurück an Ihren jeweiligen Ort in Gurgaon.",
+  "highlights": [
+   "Unternehmensfreundliche Taj Mahal Tagestour"
+  ],
+  "included": [
+   "Privates Fahrzeug für die gesamte Reise",
+   "Alle anfallenden Steuern",
+   "Hin- und Rückfahrt",
+   "Abholung und Rückbringung zum Hotel",
+   "Live-Reiseführer"
+  ],
+  "notIncluded": [
+   "Trinkgeld",
+   "Eintrittskarten zu den Denkmälern"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
