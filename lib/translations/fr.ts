@@ -163,6 +163,98 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "from-agra-3-day-agra-and-delhi-mughal-empire": {
+  "title": "Depuis Agra : visite de 3 jours de l'empire moghol à Agra et Delhi",
+  "metaTitle": "Agra et Delhi : 3 jours, empire moghol",
+  "metaDescription": "Découvrez le patrimoine moghol d'Agra et Delhi lors d'une visite de 3 jours.",
+  "shortDescription": "Découvrez le patrimoine moghol d'Agra et Delhi lors d'une visite de 3 jours.",
+  "fullDescription": "Découvrez le patrimoine moghol d'Agra et Delhi lors de cette visite de 3 jours.",
+  "highlights": [
+   "Découvrez le patrimoine moghol d'Agra et Delhi lors d'une visite de 3 jours"
+  ],
+  "included": [
+   "Assistance à l'arrivée à l'aéroport",
+   "2 nuits d'hébergement dans la catégorie d'hôtel sélectionnée",
+   "Petit-déjeuner quotidien",
+   "Véhicule privé climatisé pour les transferts et visites",
+   "Guides locaux parlant anglais à Agra et Delhi",
+   "Frais d'entrée aux monuments selon l'itinéraire",
+   "Visite culturelle guidée privée à pied à Agra",
+   "Eau potable en bouteille",
+   "Parking, péages, et indemnités de chauffeur",
+   "Taxes gouvernementales y compris la TPS"
+  ],
+  "notIncluded": [
+   "Billets d'avion",
+   "Frais de caméra aux monuments",
+   "Repas autres que ceux mentionnés",
+   "Dépenses personnelles telles que blanchisserie, pourboires, et boissons",
+   "Activités optionnelles non mentionnées",
+   "Assurance voyage",
+   "Frais d'arrivée anticipée/départ tardif",
+   "Tout ce qui n'est pas spécifiquement listé dans les inclusions"
+  ]
+ },
+ "delhi-private-city-tour-with-red-fort-rickshaw": {
+  "title": "Delhi : visite privée de la ville avec le Fort Rouge et une balade en pousse-pousse",
+  "metaTitle": "Delhi : Fort Rouge et pousse-pousse",
+  "metaDescription": "Découvrez le meilleur de Delhi lors d'une visite privée guidée de la ville.",
+  "shortDescription": "Découvrez le meilleur de Delhi lors d'une visite privée guidée de la ville.",
+  "fullDescription": "Rencontrez votre chauffeur privé et guide parlant anglais à votre hôtel de Delhi et commencez vos visites dans le vieux Delhi, le cœur historique de la capitale.\n\nVisitez le magnifique Fort Rouge, un symbole célébré de la puissance et de l'architecture mogholes.\n\nContinuez vers Jama Masjid, l'une des grandes mosquées historiques de l'Inde. Admirez sa vaste cour, ses portes imposantes, et ses détails architecturaux tout en découvrant l'atmosphère de ce monument important du vieux Delhi.\n\nFaites une balade traditionnelle en pousse-pousse à travers Chandni Chowk, en passant devant des bazars animés, des boutiques d'épices, des bâtiments historiques, et des rues vivantes. Cette courte balade offre un aperçu authentique de l'énergie et des traditions du vieux Delhi.\n\nVisitez Raj Ghat, le mémorial serein du Mahatma Gandhi. Promenez-vous dans les paisibles jardins aménagés et prenez un moment de réflexion.\n\nContinuez vers le nouveau Delhi, où de larges avenues et une architecture gouvernementale monumentale contrastent avec les rues denses du vieux Delhi. Passez devant India Gate, le mémorial de guerre proéminent honorant les soldats indiens, et admirez les grands bâtiments gouvernementaux le long de l'avenue cérémonielle.\n\nExplorez le tombeau de Humayun, un site classé au patrimoine mondial de l'UNESCO et un exemple remarquable d'architecture de tombeau-jardin moghol primitif. Admirez son design symétrique, ses dômes élégants, et ses environs aménagés.\n\nContinuez vers Qutub Minar, un autre site classé au patrimoine mondial de l'UNESCO. Admirez le minaret en briques imposant et les vestiges architecturaux indo-islamiques environnants tout en découvrant l'histoire médiévale de Delhi.\n\nTerminez les visites au temple du Lotus distinctif, réputé pour son architecture inspirée des fleurs et son atmosphère calme et contemplative.\n\nAprès avoir terminé la visite, retournez à votre hôtel de Delhi en véhicule privé et concluez votre exploration d'une journée complète de la capitale.",
+  "highlights": [
+   "Découvrez le meilleur de Delhi lors d'une visite privée guidée de la ville"
+  ],
+  "included": [
+   "Véhicule privé climatisé pour les transferts et visites",
+   "Prise en charge et retour à l'hôtel à Delhi",
+   "Guide privé professionnel parlant anglais",
+   "Frais d'entrée pour les visites mentionnées dans l'itinéraire",
+   "Balade en pousse-pousse dans le vieux Delhi",
+   "Eau potable en bouteille dans le véhicule",
+   "Frais de parking, péages, carburant, et indemnités de chauffeur",
+   "Taxes gouvernementales applicables et TPS"
+  ],
+  "notIncluded": [
+   "Déjeuner et boissons non spécifiquement mentionnés",
+   "Billets d'avion ou de train",
+   "Assurance voyage",
+   "Pourboires et activités optionnels",
+   "Frais de caméra ou vidéo aux monuments, le cas échéant",
+   "Dépenses personnelles, y compris pourboires, shopping, et blanchisserie",
+   "Visites ou services supplémentaires non listés",
+   "Toute augmentation des taxes ou dépenses imprévues",
+   "Tout ce qui n'est pas spécifiquement mentionné dans les inclusions"
+  ]
+ },
+ "from-delhi-taj-mahal-agra-fort-tour-with-skydeck": {
+  "title": "Depuis Delhi : visite du Taj Mahal et du fort d'Agra avec dîner au Skydeck",
+  "metaTitle": "Delhi-Agra : Taj Mahal, fort et Skydeck",
+  "metaDescription": "Visitez l'emblématique Taj Mahal, l'un des monuments les plus célébrés au monde.",
+  "shortDescription": "Visitez l'emblématique Taj Mahal, l'un des monuments les plus célébrés au monde.",
+  "fullDescription": "Commencez votre voyage par une prise en charge à votre hôtel ou résidence à Delhi. Rencontrez votre chauffeur privé et voyagez confortablement vers Agra via l'autoroute Yamuna. Le trajet dure environ 3 à 3,5 heures, couvrant environ 230 km.\n\nÀ l'arrivée à Agra, rencontrez votre guide privé professionnel parlant anglais et visitez le magnifique Taj Mahal. Admirez son architecture en marbre blanc, son savoir-faire complexe, ses dômes élégants, et ses jardins magnifiquement proportionnés. Découvrez l'empereur Shah Jahan, l'histoire du monument, et les traditions architecturales derrière ce chef-d'œuvre moghol extraordinaire.\n\nContinuez vers le fort d'Agra, à environ 2,5 km du Taj Mahal. Explorez cette impressionnante forteresse en grès rouge et découvrez ses grandes cours, palais, salles d'audience, et résidences royales. Voyez les sections importantes incluant Diwan-i-Am, Diwan-i-Khas, le palais Jahangir, et Khas Mahal tout en découvrant les empereurs moghols qui vécurent et régnèrent ici.\n\nAprès les visites, continuez vers IHCL Skydeck pour votre expérience gastronomique organisée. Selon l'option sélectionnée, profitez d'un déjeuner ou d'un thé raffiné tout en admirant des vues panoramiques vers le Taj Mahal. Détendez-vous dans ce cadre élégant et profitez d'un moment pour des photographies et des vues mémorables du monument le plus célèbre d'Agra.\n\nAprès votre expérience gastronomique, commencez le trajet de retour vers Delhi en véhicule privé climatisé. Détendez-vous pendant le trajet d'environ 230 km et revenez à votre hôtel ou résidence, concluant votre expérience d'Agra en une seule journée.",
+  "highlights": [
+   "Visitez l'emblématique Taj Mahal, l'un des monuments les plus célébrés au monde"
+  ],
+  "included": [
+   "Véhicule privé climatisé pour les transferts et visites",
+   "Prise en charge et retour à l'hôtel/résidence à Delhi",
+   "Guide privé professionnel parlant anglais à Agra",
+   "Frais d'entrée aux monuments pour le Taj Mahal et le fort d'Agra",
+   "Déjeuner ou thé raffiné à IHCL Skydeck selon l'option sélectionnée",
+   "Eau potable en bouteille dans le véhicule",
+   "Frais de parking, péages, et indemnités de chauffeur",
+   "Taxes applicables"
+  ],
+  "notIncluded": [
+   "Repas et boissons non spécifiquement mentionnés",
+   "Pourboires et activités optionnels",
+   "Frais de caméra ou vidéo aux monuments, le cas échéant",
+   "Boissons alcoolisées",
+   "Visites ou services supplémentaires non listés dans l'itinéraire",
+   "Dépenses personnelles et shopping",
+   "Tout ce qui n'est pas spécifiquement mentionné dans les inclusions"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
