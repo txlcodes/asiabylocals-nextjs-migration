@@ -20951,6 +20951,74 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires et gratifications"
   ]
  },
+ "secret-and-spooky-ruins-of-mehrauli": {
+  "title": "Ruines secrètes et effrayantes du parc archéologique de Mehrauli",
+  "metaTitle": "Delhi : ruines du parc archéologique de Mehrauli",
+  "metaDescription": "Soyez transporté à travers les différentes époques et empires qui ont régné sur Delhi.",
+  "shortDescription": "Soyez transporté à travers les différentes époques et empires qui ont régné sur Delhi.",
+  "fullDescription": "Ruines secrètes et effrayantes du parc archéologique de Mehrauli. Soyez transporté à travers les différentes époques et empires qui ont régné sur Delhi.\n\nRencontrez le responsable de la promenade devant la sortie de la station de métro Qutub Minar. Notre guide expérimenté, bien versé dans l'histoire et le patrimoine du lieu, commencera par une brève histoire sur le lieu et ses reliques. Il est temps de découvrir les ruines du célèbre « parc archéologique de Mehrauli ». Les fascinantes couches d'histoire de Delhi se dévoilent devant vous. Traversez des siècles du passé de Delhi, tandis que notre guide raconte les histoires des monuments anciens.\nLe pavillon Metcalfe : un pavillon unique perché au sommet d'un monticule, construit dans les années 1850 par l'érudit britannique « Charles Metcalfe » comme une « folie ». On l'appelle une folie car une folie est un bâtiment relativement récent censé paraître ancien. Avec un paysage pittoresque en toile de fond, cette folie semble très charmante. Structurellement construite en forme d'hexagone.\n\nLe puits à degrés de Rajon ki Baoli : un puits à degrés à couper le souffle (appelé localement « baoli »). Ce baoli est nommé « Rajon ki Baoli » d'après les tailleurs de pierre effrayants qui résidaient dans ses chambres souterraines. Le baoli possède un puits vertical pour puiser l'eau, et dispose de part et d'autre de passages creux avec de petites chambres pour échapper à la chaleur pendant les étés indiens. Cet endroit est considéré comme le lieu le plus hanté de Delhi pendant les heures tardives de la nuit.\n\nMosquée Jamali Kamali : cette ancienne mosquée et tombe construite en grès rouge appartenait à un saint ayant une immense communauté de fidèles. Là encore, les gens évitent cet endroit en fin de soirée, et il est considéré comme hanté, avec de nombreuses histoires de rencontres fantomatiques et de mésaventures.\n\nFIN : le groupe, accompagné du guide, retourne à pied à la station de métro Qutub Minar, et la visite se termine.\n\nREMARQUE : ceux qui souhaitent se rendre et revenir du lieu de promenade en toute sécurité et confortablement dans une voiture privée peuvent nous demander de l'aide, et nous nous en occuperons.\n\n**Ce qui est inclus**\nGuide touristique expérimenté pendant la visite à pied\nTaxes locales\n1 bouteille d'eau minérale par personne\n\n**Non inclus**\nPrise en charge et retour à l'hôtel\nNourriture et boissons\nPourboires",
+  "highlights": [
+   "Soyez transporté à travers les différentes époques et empires qui ont régné sur Delhi"
+  ],
+  "included": [
+   "Guide touristique expérimenté pendant la visite à pied",
+   "Taxes locales",
+   "1 bouteille d'eau minérale par personne"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel",
+   "Nourriture et boissons",
+   "Pourboires"
+  ]
+ },
+ "5-day-jaipur-jodhpur-bikaner-pushkar-tour-from": {
+  "title": "Circuit de 5 jours à Jaipur, Jodhpur, Bikaner, et Pushkar depuis Delhi",
+  "metaTitle": "Jaipur-Jodhpur-Bikaner-Pushkar en 5 jours depuis Delhi",
+  "metaDescription": "Nous offrons une assistance client 24h/24 et 7j/7.",
+  "shortDescription": "Nous offrons une assistance client 24h/24 et 7j/7.",
+  "fullDescription": "Circuit de 5 jours à Jaipur, Jodhpur, Bikaner, et Pushkar depuis Delhi. Nous offrons une assistance client 24h/24 et 7j/7.\n\n**Jour 1 : Delhi à Jaipur, exploration de la ville rose**\nPrise en charge : prise en charge tôt le matin depuis Delhi par un représentant de Padma Holidays. Route vers Jaipur (environ 5 à 6 heures).\nÀ l'arrivée à Jaipur, visitez ses monuments emblématiques :\nJal Mahal (arrêt photo) : un magnifique palais d'eau situé au milieu du lac Man Sagar, présentant les styles architecturaux rajpoute et moghol.\nCity Palace : un complexe royal comprenant de grandes cours, des musées, et le Mubarak Mahal, qui expose une vaste collection d'artefacts rajpoutes.\nJantar Mantar : un observatoire astronomique du XVIIIe siècle construit par le Maharaja Jai Singh II, abritant le plus grand cadran solaire en pierre du monde.\nHawa Mahal : connu comme le « Palais des Vents », cette structure de cinq étages compte 953 petites fenêtres conçues pour permettre aux femmes royales d'observer la vie quotidienne sans être vues.\nMarchés locaux de Jaipur : visitez le bazar Johari et le bazar Bapu, connus pour leurs bijoux, textiles, et objets artisanaux.\nNuit : Jaipur\n\n**Jour 2 : Jaipur à Jodhpur, les merveilles de la ville bleue**\nAprès le petit-déjeuner, route vers Jodhpur (environ 5 à 6 heures). À l'arrivée, visitez :\nLe fort de Mehrangarh : l'un des plus grands forts de l'Inde, construit par Rao Jodha en 1459. Il offre des vues à couper le souffle sur les maisons peintes en bleu en dessous, et abrite des palais, musées, et temples complexes.\nJaswant Thada : un magnifique cénotaphe en marbre blanc construit en mémoire du Maharaja Jaswant Singh II, connu pour ses sculptures complexes et ses jardins paisibles.\nLa tour de l'horloge et le marché Sardar : explorez le marché local animé près de la célèbre tour de l'horloge, réputée pour ses épices, textiles, et objets artisanaux.\nNuit : Jodhpur\n\n**Jour 3 : visites de Jodhpur et route vers Bikaner**\nAprès le petit-déjeuner, visitez les attractions restantes à Jodhpur :\nLe palais Umaid Bhawan (visite extérieure) : un palais grandiose construit au XXe siècle, dont une partie fonctionne aujourd'hui comme un hôtel de luxe et un musée présentant des artefacts royaux.\nAprès les visites, route vers Bikaner (environ 5 à 6 heures).\nNuit : Bikaner\n\n**Jour 4 : visites de Bikaner et route vers Pushkar**\nAprès le petit-déjeuner, explorez les principaux monuments de Bikaner :\nLe fort de Junagarh : un fort du XVIe siècle connu pour son mélange unique de styles architecturaux rajpoute, moghol, et gujarati, comprenant des palais et cours exquis.\nLe palais Lalgarh (visite extérieure) : un chef-d'œuvre architectural construit en grès rouge, reflétant des influences indo-sarrasines et moghol.\nLe temple jaïn de Bhandasar : un temple jaïn magnifiquement orné, célèbre pour ses fresques, ses décorations en feuilles d'or, et ses sculptures détaillées.\nAprès l'exploration de Bikaner, route vers Pushkar (environ 5 à 6 heures).\nNuit : Pushkar\n\n**Jour 5 : visites de Pushkar et retour à Delhi**\nAprès le petit-déjeuner, visitez les sites sacrés de Pushkar :\nLe temple de Brahma : l'un des rares temples dans le monde dédiés au Seigneur Brahma, présentant une flèche rouge frappante et des sculptures complexes.\nLe lac Pushkar : un lac sacré entouré de 52 ghats, où les pèlerins font des bains sacrés pour une purification spirituelle.\nAprès les visites, route de retour vers Delhi (environ 7 à 8 heures).\nDépôt : en fin de soirée à l'hôtel, à l'aéroport, ou à la gare ferroviaire de Delhi.\n\n**Ce qui est inclus**\nHébergement : 4 nuits dans des hôtels 4 étoiles (uniquement avec l'option circuit tout compris)\nRepas : petit-déjeuner quotidien à l'hôtel (uniquement avec l'option circuit tout compris)\nTransport : véhicule climatisé pour tous les transferts et visites\nGuide professionnel : guide local expérimenté et compétent\nFrais d'entrée : inclus pour tous les monuments et attractions (avec l'option circuit tout compris ou circuit sans hébergement)\nTaxes et frais : toutes les taxes et frais de service applicables inclus\nAssistance : assistance 24h/24 et 7j/7 pendant tout le circuit\nBouteille d'eau\n\n**Non inclus**\nDépenses personnelles : toute dépense personnelle telle que pourboires, souvenirs, repas ou boissons supplémentaires, et shopping\nActivités optionnelles\nGratifications : pourboires pour le guide, le chauffeur, ou le personnel de l'hôtel\nRepas : déjeuner et dîner",
+  "highlights": [
+   "Nous offrons une assistance client 24h/24 et 7j/7"
+  ],
+  "included": [
+   "Hébergement : 4 nuits dans des hôtels 4 étoiles (uniquement avec l'option circuit tout compris)",
+   "Repas : petit-déjeuner quotidien à l'hôtel (uniquement avec l'option circuit tout compris)",
+   "Transport : véhicule climatisé pour tous les transferts et visites",
+   "Guide professionnel : guide local expérimenté et compétent",
+   "Frais d'entrée : inclus pour tous les monuments et attractions (avec l'option circuit tout compris ou circuit sans hébergement)",
+   "Taxes et frais : toutes les taxes et frais de service applicables inclus",
+   "Assistance : assistance 24h/24 et 7j/7 pendant tout le circuit",
+   "Bouteille d'eau"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles : toute dépense personnelle telle que pourboires, souvenirs, repas ou boissons supplémentaires, et shopping",
+   "Activités optionnelles",
+   "Gratifications : pourboires pour le guide, le chauffeur, ou le personnel de l'hôtel",
+   "Repas : déjeuner et dîner"
+  ]
+ },
+ "delhi-agra-jaipur-3-day-tour": {
+  "title": "Delhi - Agra - Jaipur : circuit de 3 jours",
+  "metaTitle": "Delhi-Agra-Jaipur en 3 jours",
+  "metaDescription": "Visite du Taj Mahal au lever du soleil.",
+  "shortDescription": "Visite du Taj Mahal au lever du soleil.",
+  "fullDescription": "Delhi - Agra - Jaipur : circuit de 3 jours. Visite du Taj Mahal au lever du soleil.\n\nJour 1 : arrivée à Delhi, exploration de Delhi, transfert vers Agra.\nLe matin, selon votre horaire de vol, le chauffeur viendra vous chercher à l'aéroport ou à l'hôtel de Delhi. Commencez votre visite guidée de la capitale de l'Inde, Delhi.\nExplorez : la tombe de Humayun, Qutub Minar, India Gate, la résidence présidentielle, le temple du Lotus.\n\nEn soirée, trajet de Delhi à Agra d'environ 4 heures ; enregistrement à l'hôtel d'Agra vers 20h ou 21h. Repos pour la nuit à l'hôtel d'Agra.\n\nJour 2 : visite d'Agra, transfert vers Jaipur.\nTôt le matin, au lever du soleil, explorez le Taj Mahal (meilleur moment pour visiter le Taj Mahal). Après la visite du Taj Mahal, retour à l'hôtel pour le petit-déjeuner. Ensuite, visitez le fort d'Agra. En fin d'après-midi, départ d'Agra vers Jaipur, environ 4 heures de trajet. En chemin vers Jaipur, vous pouvez explorer Fatehpur Sikri (la capitale de rêve de l'empereur moghol Akbar). Le soir, enregistrement à l'hôtel de Jaipur. Repos pour la nuit à l'hôtel.\n\nJour 3 : visite de Jaipur, transfert vers Delhi.\nLe matin, après le petit-déjeuner, explorez la capitale du Rajasthan, Jaipur.\nVisitez : le fort Amber, le City Palace, le Jantar Mantar (site astronomique), le Hawa Mahal (palais des vents), le Jal Mahal (palais d'eau). En soirée, trajet de Jaipur à Delhi d'environ 5 heures. En fin de soirée, selon votre horaire de vol, le chauffeur vous transfère à l'aéroport ou à l'hôtel de Delhi.\n\nFin du circuit avec de doux souvenirs.\n\n**Ce qui est inclus**\nHébergement dans un hôtel 3, 4, ou 5 étoiles.\nPetit-déjeuner quotidien avec la chambre à l'hôtel.\nVoiture privée climatisée avec chauffeur.\nToutes taxes, péages, taxes d'état, stationnement.\nGuide touristique dans chaque ville.\nToutes les prises en charge et retours.",
+  "highlights": [
+   "Visite du Taj Mahal au lever du soleil"
+  ],
+  "included": [
+   "Hébergement dans un hôtel 3, 4, ou 5 étoiles",
+   "Petit-déjeuner quotidien avec la chambre à l'hôtel",
+   "Voiture privée climatisée avec chauffeur",
+   "Toutes taxes, péages, taxes d'état, stationnement",
+   "Guide touristique dans chaque ville",
+   "Toutes les prises en charge et retours"
+  ],
+  "notIncluded": [
+   "Tout billet d'avion domestique ou international",
+   "Repas tels que déjeuner et dîner"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
