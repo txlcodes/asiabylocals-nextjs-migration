@@ -3293,6 +3293,74 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche Art von Eintrittsgebühr ist nicht enthalten"
   ]
  },
+ "delhi-airport-to-airport-layover-taj-mahal-city": {
+  "title": "Delhi: Flughafen-zu-Flughafen-Zwischenstopp Taj Mahal Stadttour im Auto",
+  "metaTitle": "Delhi: Flughafen-Zwischenstopp, Taj Mahal, Auto",
+  "metaDescription": "Verwandeln Sie Ihren 10-stündigen Zwischenstopp in ein unvergessliches Taj Mahal Abenteuer.",
+  "shortDescription": "Verwandeln Sie Ihren 10-stündigen Zwischenstopp in ein unvergessliches Taj Mahal Abenteuer.",
+  "fullDescription": "Begeben Sie sich auf eine außergewöhnliche Reise mit unserer sorgfältig gestalteten 10-stündigen Taj-Mahal- und Agra-Fort-Tour ab dem Flughafen Delhi. Von dem Moment an, in dem wir Sie abholen, verläuft Ihr Tag mühelos. Entspannen Sie sich im luxuriösen Komfort unseres Autos, während wir Sie durch die schöne indische Landschaft führen.\n\nIhr Abenteuer beginnt am zeitlosen Taj Mahal, wo Sie von seiner atemberaubenden Schönheit fasziniert sein werden. Überspringen Sie die langen Schlangen mit unseren im Voraus organisierten Tickets und tauchen Sie ein in die Liebesgeschichte hinter diesem ikonischen Denkmal, erfassen Sie seine Pracht ohne die übliche Mühe.\n\nAls Nächstes genießen Sie ein köstliches Mittagessen in einem renommierten 5-Sterne-Hotel. Genießen Sie exquisite Küche und tauchen Sie in die reiche Geschichte der Mogulzeit mit fesselnden Geschichten unserer erfahrenen Guides ein.\n\nNach dem Mittagessen erkunden Sie das historische Agra Fort, wo seine imposanten Mauern Geschichten einer vergangenen Epoche erzählen. Überspringen Sie die Schlangen und tauchen Sie mit unseren kompetenten Guides tiefer in die Geschichte und das Erbe ein.\n\nWährend sich der Tag nahtlos entfaltet, erleben Sie eine perfekte Mischung aus Luxus, Erbe, und Bequemlichkeit. Wir setzen Sie am Ende Ihres unvergesslichen Tages ab und lassen Sie mit bleibenden Erinnerungen an eine unvergessliche Reise. Reservieren Sie jetzt Ihren Platz, um Ihren Zwischenstopp in ein bereicherndes Abenteuer zu verwandeln.",
+  "highlights": [
+   "Verwandeln Sie Ihren 10-stündigen Zwischenstopp in ein unvergessliches Taj Mahal Abenteuer"
+  ],
+  "included": [
+   "Abholung und Rückfahrt von Ihrem Hotel",
+   "Exklusiver klimatisierter Transport",
+   "Persönlicher Reiseführer",
+   "Eintrittstickets für Denkmäler (falls Option ausgewählt)",
+   "Gehobenes kulinarisches Erlebnis in einem 5-Sterne-Hotel (falls Option ausgewählt)",
+   "Kostenloses Wasser in Flaschen und Regenschirme",
+   "Alle Parkgebühren und Steuern enthalten"
+  ],
+  "notIncluded": [
+   "Jegliche Art von Getränken",
+   "Trinkgelder und Gratifikationen"
+  ]
+ },
+ "luxury-taj-mahal-agra-tour-by-first-class-train": {
+  "title": "Luxus Taj Mahal und Agra Tour mit Erste-Klasse-Zug ab Delhi",
+  "metaTitle": "Delhi-Agra: Erste-Klasse-Zug, Taj Mahal",
+  "metaDescription": "Nahtlose Erste-Klasse-Zugreise von Delhi nach Agra und zurück enthalten.",
+  "shortDescription": "Nahtlose Erste-Klasse-Zugreise von Delhi nach Agra und zurück enthalten.",
+  "fullDescription": "Von Delhi zum Taj Mahal mit dem Zug zu reisen, ist einer der effizientesten und angenehmsten Tagesausflüge, die Sie in Indien machen können. Es führt Sie von der geschäftigen Energie der Hauptstadt zur zeitlosen Romantik Agras in nur ein paar Stunden.\n\nIhre Reise beginnt normalerweise früh am Morgen am Bahnhof New Delhi (NDLS) oder Hazrat Nizamuddin (NZM). Während der Zug aus der Stadt gleitet, sehen Sie, wie sich die urbane Landschaft in die weiten, offenen Felder der indo-gangetischen Ebene verwandelt. Der Morgennebel über den Feldern bietet einen ruhigen Hintergrund für das vor Ihnen liegende Abenteuer.",
+  "highlights": [
+   "Nahtlose Erste-Klasse-Zugreise von Delhi nach Agra und zurück enthalten"
+  ],
+  "included": [
+   "Private Abholung, Transfers, und Besichtigungen in einer Luxuslimousine oder einem SUV für vollständigen Komfort",
+   "Professioneller Chauffeur, gut gekleidet, höflich, und englischsprachig",
+   "Luxus-Zugreise, Hin- und Rückfahrkarten 1. Klasse AC Delhi ⇄ Agra ⇄ Delhi",
+   "Erfahrener englischsprachiger Reiseführer",
+   "Eintrittsgebühren für Denkmäler, Besichtigungstickets für Taj Mahal und Agra Fort enthalten",
+   "Mittagessen in einem 5-Sterne-Hotel, Premium-Essenserlebnis im Buffet-Stil",
+   "Alle Steuern und Gebühren enthalten, keine versteckten Kosten"
+  ],
+  "notIncluded": []
+ },
+ "one-day-mathura-vrindavan-tour-from-agra-with": {
+  "title": "Eintägige Mathura-Vrindavan-Tour ab Agra mit Guru Ka Taal",
+  "metaTitle": "Agra-Mathura-Vrindavan: Tour mit Guru Ka Taal",
+  "metaDescription": "Tauchen Sie ein in die Geschichte am lebendigen Dwarkadhish-Tempel.",
+  "shortDescription": "Tauchen Sie ein in die Geschichte am lebendigen Dwarkadhish-Tempel.",
+  "fullDescription": "**Abholung in Agra**\nIhre spirituelle Reise beginnt mit einer morgendlichen Abholung von Ihrem Hotel in Agra in einem komfortablen klimatisierten Auto mit einem professionellen Chauffeur und Guide.\n\n**Shri Krishna Janmabhoomi (Mathura)**\nKommen Sie in Mathura an und besuchen Sie das heilige Shri Krishna Janmabhoomi, den Geburtsort von Lord Krishna. Erkunden Sie die spirituelle Aura und erfahren Sie mehr über seine tiefen mythologischen Wurzeln.\n\n**Dwarkadhish-Tempel**\nAls Nächstes besuchen Sie den Dwarkadhish-Tempel, ein atemberaubendes architektonisches Juwel, bekannt für seine lebendige Atmosphäre und Hingabe an Lord Krishna.\n\n**ISKCON-Tempel, Vrindavan**\nBegeben Sie sich nach Vrindavan und besuchen Sie den weltweit bekannten ISKCON-Tempel (Sri Krishna-Balaram Mandir). Tauchen Sie ein in die göttlichen Gesänge und die friedliche Umgebung.\n\n**Mittagspause**\nGenießen Sie ein köstliches vegetarisches Mittagessen in einem lokalen Restaurant mit traditionellen nordindischen Aromen.\n\n**Prem Mandir, Vrindavan**\nBesuchen Sie Prem Mandir, einen schön geschnitzten weißen Marmortempel, der die göttliche Liebe von Radha und Krishna durch faszinierende Skulpturen und Lichtshows erzählt.\n\n**Rückfahrt nach Agra**\nNach der Erkundung der göttlichen Schönheit von Mathura und Vrindavan beginnen Sie Ihre Rückreise nach Agra.\n\n**Besuch von Guru Ka Taal (Agra)**\nAuf dem Rückweg halten Sie an Guru Ka Taal, einer ruhigen historischen Sikh-Gurudwara in Agra. Ihr Fahrer führt Sie durch seine friedliche Umgebung und reiche Geschichte.\n\n**Abgabe in Agra**\nDie Tour endet mit der Abgabe an Ihrem Hotel oder gewünschten Ort in Agra, mit Segen und schönen Erinnerungen an den Tag.",
+  "highlights": [
+   "Tauchen Sie ein in die Geschichte am lebendigen Dwarkadhish-Tempel"
+  ],
+  "included": [
+   "Abholung und Rückfahrt: bequeme Transfers von Ihrem Hotel, Zuhause, Flughafen, oder Bahnhof in Agra",
+   "Privates klimatisiertes Auto: komfortables Reisen in einem sauberen, klimatisierten Fahrzeug mit einem höflichen Chauffeur",
+   "Reiseführer: erfahrener und kompetenter privater Guide für Tempelbesuche",
+   "Eintrittstickets: alle Eintrittsgebühren für Tempel und Attraktionen enthalten",
+   "Parkgebühren: alle Parkgebühren während der Tour gedeckt",
+   "Mautgebühren und Kraftstoff: alle Mautgebühren und Kraftstoffkosten enthalten",
+   "Steuern: alle anwendbaren Steuern sind Teil des Pakets, keine versteckten Kosten"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben: jegliche persönliche Ausgaben wie Souvenirs oder zusätzliche Speisen und Getränke, die nicht im Reiseplan erwähnt sind",
+   "Trinkgelder: Trinkgelder für den Chauffeur und Reiseführer",
+   "Mahlzeiten: keine Mahlzeit enthalten",
+   "Kameragebühren: jegliche zusätzliche Kamera- oder Videogebühren an den Tempeln oder Attraktionen"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",

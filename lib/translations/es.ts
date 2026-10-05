@@ -3293,6 +3293,74 @@ export const ES_TOURS: Record<string, TourT> = {
    "Ningún tipo de tarifa de entrada está incluido"
   ]
  },
+ "delhi-airport-to-airport-layover-taj-mahal-city": {
+  "title": "Delhi: tour de escala aeropuerto-aeropuerto, tour por la ciudad del Taj Mahal en auto",
+  "metaTitle": "Delhi: escala en aeropuerto, Taj Mahal, auto",
+  "metaDescription": "Transforme su escala de 10 horas en una aventura inolvidable en el Taj Mahal.",
+  "shortDescription": "Transforme su escala de 10 horas en una aventura inolvidable en el Taj Mahal.",
+  "fullDescription": "Embárquese en un viaje extraordinario con nuestro meticulosamente diseñado tour de 10 horas del Taj Mahal y el Fuerte de Agra desde el Aeropuerto de Delhi. Desde el momento en que lo recogemos, su día fluirá sin esfuerzo. Relájese en el lujoso confort de nuestro auto mientras lo guiamos a través del hermoso paisaje indio.\n\nSu aventura comienza en el atemporal Taj Mahal, donde quedará cautivado por su impresionante belleza. Evite las largas filas con nuestros boletos organizados con antelación y sumérjase en la historia de amor detrás de este monumento icónico, capturando su grandeza sin las molestias habituales.\n\nA continuación, saboree un delicioso almuerzo en un prestigioso hotel de 5 estrellas. Disfrute de una exquisita cocina y sumérjase en la rica historia de la era mogol con historias cautivadoras de nuestros guías expertos.\n\nDespués del almuerzo, explore el histórico Fuerte de Agra, donde sus imponentes muros narran historias de una época pasada. Evite las filas y profundice más en la historia y el patrimonio con nuestros guías conocedores.\n\nMientras el día se desarrolla sin problemas, experimente una mezcla perfecta de lujo, patrimonio, y conveniencia. Lo dejaremos al final de su día memorable, dejándolo con recuerdos duraderos de un viaje inolvidable. Reserve su lugar ahora para transformar su escala en una aventura enriquecedora.",
+  "highlights": [
+   "Transforme su escala de 10 horas en una aventura inolvidable en el Taj Mahal"
+  ],
+  "included": [
+   "Recogida y traslado desde su hotel",
+   "Transporte exclusivo con aire acondicionado",
+   "Guía turístico personal",
+   "Boletos de entrada a los monumentos (si se selecciona la opción)",
+   "Experiencia gastronómica fina en un hotel de 5 estrellas (si se selecciona la opción)",
+   "Agua embotellada y sombrillas de cortesía",
+   "Todas las tarifas de estacionamiento e impuestos incluidos"
+  ],
+  "notIncluded": [
+   "Cualquier tipo de bebida",
+   "Propinas y gratificaciones"
+  ]
+ },
+ "luxury-taj-mahal-agra-tour-by-first-class-train": {
+  "title": "Tour de lujo al Taj Mahal y Agra en tren de primera clase desde Delhi",
+  "metaTitle": "Delhi-Agra: tren de primera clase, Taj Mahal",
+  "metaDescription": "Viaje fluido en tren de primera clase de Delhi a Agra y regreso incluido.",
+  "shortDescription": "Viaje fluido en tren de primera clase de Delhi a Agra y regreso incluido.",
+  "fullDescription": "Viajar de Delhi al Taj Mahal en tren es una de las excursiones de un día más eficientes y agradables que puede hacer en la India. Lo transporta de la bulliciosa energía de la capital al romance atemporal de Agra en solo un par de horas.\n\nSu viaje generalmente comienza temprano por la mañana en la estación de Nueva Delhi (NDLS) o Hazrat Nizamuddin (NZM). A medida que el tren se desliza fuera de la ciudad, verá cómo el paisaje urbano se transforma en los vastos campos abiertos de las llanuras indo-gangéticas. La niebla matutina sobre las granjas proporciona un telón de fondo sereno para la aventura que le espera.",
+  "highlights": [
+   "Viaje fluido en tren de primera clase de Delhi a Agra y regreso incluido"
+  ],
+  "included": [
+   "Recogida privada, traslados, y avistamientos en sedán o SUV de lujo para total comodidad",
+   "Chófer profesional, bien vestido, educado, y de habla inglesa",
+   "Viaje en tren de lujo, boletos de tren de ida y vuelta en 1ra clase AC Delhi ⇄ Agra ⇄ Delhi",
+   "Guía turístico experto de habla inglesa",
+   "Tarifas de entrada a los monumentos, boletos de avistamiento del Taj Mahal y el Fuerte de Agra incluidos",
+   "Almuerzo en un hotel de 5 estrellas, experiencia gastronómica premium estilo buffet",
+   "Todos los impuestos y tarifas incluidos, sin cargos ocultos"
+  ],
+  "notIncluded": []
+ },
+ "one-day-mathura-vrindavan-tour-from-agra-with": {
+  "title": "Tour de un día a Mathura y Vrindavan desde Agra con Guru Ka Taal",
+  "metaTitle": "Agra-Mathura-Vrindavan: tour con Guru Ka Taal",
+  "metaDescription": "Adéntrese en la historia en el vibrante Templo Dwarkadhish.",
+  "shortDescription": "Adéntrese en la historia en el vibrante Templo Dwarkadhish.",
+  "fullDescription": "**Recogida en Agra**\nSu viaje espiritual comienza con una recogida matutina en su hotel en Agra en un cómodo auto con aire acondicionado con un chófer profesional y guía.\n\n**Shri Krishna Janmabhoomi (Mathura)**\nLlegue a Mathura y visite el sagrado Shri Krishna Janmabhoomi, el lugar de nacimiento del Señor Krishna. Explore el aura espiritual y conozca sus profundas raíces mitológicas.\n\n**Templo Dwarkadhish**\nA continuación, visite el Templo Dwarkadhish, una impresionante joya arquitectónica conocida por su vibrante ambiente y devoción al Señor Krishna.\n\n**Templo ISKCON, Vrindavan**\nDiríjase a Vrindavan y visite el mundialmente reconocido Templo ISKCON (Sri Krishna-Balaram Mandir). Sumérjase en los cantos divinos y el ambiente pacífico.\n\n**Pausa para el almuerzo**\nDisfrute de un delicioso almuerzo vegetariano en un restaurante local, con sabores tradicionales del norte de la India.\n\n**Prem Mandir, Vrindavan**\nVisite Prem Mandir, un templo de mármol blanco hermosamente tallado que narra el amor divino de Radha y Krishna a través de fascinantes esculturas y espectáculos de luces.\n\n**Regreso a Agra**\nDespués de explorar la belleza divina de Mathura y Vrindavan, comience su viaje de regreso a Agra.\n\n**Visita a Guru Ka Taal (Agra)**\nEn el camino de regreso, pare en Guru Ka Taal, una serena gurdwara sij histórica en Agra. Su conductor lo guiará a través de su entorno pacífico y rica historia.\n\n**Traslado en Agra**\nEl tour termina con el traslado a su hotel o lugar deseado en Agra, llevando bendiciones y hermosos recuerdos del día.",
+  "highlights": [
+   "Adéntrese en la historia en el vibrante Templo Dwarkadhish"
+  ],
+  "included": [
+   "Recogida y traslado: traslados convenientes desde su hotel, casa, aeropuerto, o estación de tren en Agra",
+   "Auto privado con aire acondicionado: viaje cómodo en un vehículo limpio y climatizado con un chófer cortés",
+   "Guía turístico: guía privado experimentado y conocedor para visitas a templos",
+   "Boletos de entrada: todas las tarifas de entrada a templos y atracciones incluidas",
+   "Tarifas de estacionamiento: todas las tarifas de estacionamiento cubiertas durante el tour",
+   "Peajes y combustible: todos los peajes y cargos de combustible incluidos",
+   "Impuestos: todos los impuestos aplicables son parte del paquete, sin costos ocultos"
+  ],
+  "notIncluded": [
+   "Gastos personales: cualquier gasto personal como recuerdos o comida y bebidas adicionales no mencionadas en el itinerario",
+   "Propinas: propinas para el chófer y el guía turístico",
+   "Comidas: no incluye ninguna comida",
+   "Tarifas de cámara: cualquier tarifa adicional de cámara o video en los templos o atracciones"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
