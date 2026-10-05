@@ -2993,6 +2993,81 @@ export const DE_TOURS: Record<string, TourT> = {
    "Gratifikationen"
   ]
  },
+ "11-days-luxury-golden-triangle-with-uttarakhand": {
+  "title": "11 Tage Luxus-Goldenes-Dreieck mit Uttarakhand-Tour",
+  "metaTitle": "Luxus-Goldenes-Dreieck, 11 Tage, Uttarakhand",
+  "metaDescription": "Luxusunterkünfte.",
+  "shortDescription": "Luxusunterkünfte.",
+  "fullDescription": "Begeben Sie sich auf diese 11-tägige Luxusreise (10 Tage Besichtigung plus Anreise) durch Indiens ikonisches Goldenes Dreieck und die malerische Schönheit von Uttarakhand. Beginnen Sie in Delhi und erkunden Sie seine historischen Sehenswürdigkeiten und lebendigen Märkte. Reisen Sie nach Agra, um das prächtige Agra Fort und seine anderen architektonischen Wunder zu bestaunen. Setzen Sie Ihre Reise nach Jaipur fort, der Pink City, und besuchen Sie das Amber Fort und andere königliche Paläste. Fliegen Sie nach Uttarakhand, um die spirituelle Atmosphäre von Haridwar und die ruhige Schönheit von Rishikesh zu erleben, wo Sie an der bezaubernden Ganga Aarti teilnehmen und die berühmten Yoga- und Wellness-Retreats erkunden. Entdecken Sie Dehraduns kolonialen Charme und malerische Landschaften. Schließlich ziehen Sie sich nach Nainital zurück und genießen Bootfahren auf dem Naini-See und Panoramablicke auf die Hügel. Diese Reise bietet luxuriöse Unterkünfte, private Transfers, und kuratierte Erlebnisse, die Kultur, Spiritualität, und Natur verbinden.",
+  "highlights": [
+   "Luxusunterkünfte"
+  ],
+  "included": [
+   "Unterstützung bei der Ankunft am Flughafen New Delhi (nur falls Option ausgewählt)",
+   "Transfers vom Flughafen zum Hotel und zurück (nur falls Option ausgewählt)",
+   "Tägliches Frühstück (nur falls Option ausgewählt)",
+   "Bootsfahrt in Udaipur und Pushkar (nur falls Option ausgewählt)",
+   "Professioneller Guide (nur falls Option ausgewählt)",
+   "Besichtigungen gemäß Programm im klimatisierten Fahrzeug (nur falls Option ausgewählt)",
+   "Überraschungsgeschenk",
+   "Alle Steuern",
+   "Direktorzuweisungen",
+   "Mineralwasser im Auto",
+   "Antibakterielles Gel",
+   "Die Maske"
+  ],
+  "notIncluded": [
+   "Internationale und nationale Flüge",
+   "Visagebühren und Reiseversicherung",
+   "Mittag- und Abendessen, die nicht im Reiseplan spezifiziert sind",
+   "Persönliche Ausgaben wie Souvenirs, Wäsche, und Telefonanrufe",
+   "Trinkgelder und Gratifikationen für Guides, Fahrer, und Hotelpersonal",
+   "Optionale Aktivitäten und Ausflüge, die nicht im Reiseplan erwähnt sind",
+   "Alkoholische Getränke und Minibar-Gebühren",
+   "Medizinische Kosten und Notfallevakuierung",
+   "Jegliche Ausgaben, die aus unvorhergesehenen Umständen wie Flugverspätungen oder Naturkatastrophen entstehen",
+   "Zusätzliche Dienstleistungen, die außerhalb des geplanten Reiseplans angefordert werden"
+  ]
+ },
+ "taj-mahal-sunrisesunset-and-city-sightseeings": {
+  "title": "Taj Mahal bei Sonnenaufgang/Sonnenuntergang und Stadtbesichtigungen mit Optionen",
+  "metaTitle": "Taj Mahal: Sonnenaufgang/-untergang, Stadttour",
+  "metaDescription": "Erkunden Sie die historischen Stätten der Stadt Agra.",
+  "shortDescription": "Erkunden Sie die historischen Stätten der Stadt Agra.",
+  "fullDescription": "Diese Ganztages-Agra-Tour taucht Sie in die lebendige Kultur, reiche Geschichte, und beeindruckende Architektur der Stadt ein und bietet ein einzigartiges Erlebnis jenseits des typischen Touristenpfads. Beginnen Sie mit einer Abholung von Ihrem Hotel in Agra oder Delhi (falls Option ausgewählt).\n\n(Falls Sie die Option ab Delhi erhalten)\nWählen Sie jederzeit eine Abholung zwischen 3 und 10 Uhr.\nZunächst holt unser Fahrer Sie von Delhi, Gurgaon, Noida, oder dem Flughafen ab.\nEntspannen Sie sich bei einem nahtlosen Transfer in einem klimatisierten Auto für 3 Stunden.\n\nDer Guide trifft Sie mit Ihren hochwertigen Eintrittstickets.\n\n1. Zuerst bringen wir Sie zum Taj Mahal mit Eintritt ohne Warteschlange (falls Option ausgewählt).\n\n2. Nach dem Besuch des Taj Mahal zeigen wir Ihnen das Agra Fort.\n• Baby Taj, Mehtab Bagh, Akbars Gräber, und Markt (falls Option ausgewählt).\n\n3. Sie werden zu einem Mittagessen in einem gut empfohlenen Restaurant gebracht.\n\n4. Rückfahrt zu Ihrem Ort.",
+  "highlights": [
+   "Erkunden Sie die historischen Stätten der Stadt Agra"
+  ],
+  "included": [
+   "Hotelabholung und Rückfahrt",
+   "Privater Reiseführer",
+   "Transport im klimatisierten Auto"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "agra-royal-sunset-taj-mahal-tour-with-guide": {
+  "title": "Agra: königliche Taj Mahal Sonnenuntergangstour mit Guide",
+  "metaTitle": "Agra: Taj Mahal Sonnenuntergang, Guide",
+  "metaDescription": "Friedliche Abendatmosphäre in Agra.",
+  "shortDescription": "Friedliche Abendatmosphäre in Agra.",
+  "fullDescription": "Entdecken Sie die zeitlose Schönheit Agras auf einer bezaubernden Abendtour mit einem spektakulären Sonnenuntergangsblick auf den Taj Mahal. Während die Sonne langsam untergeht, beobachten Sie, wie sich das weiße Marmordenkmal in leuchtende Gold-, Rosa-, und Orangetöne verwandelt. Dieses friedliche Erlebnis ermöglicht es Ihnen, die Pracht der Mogul-Architektur zu bewundern, atemberaubende Fotos zu machen, und eine ruhige, romantische Atmosphäre fern von den Tagesmassen zu genießen. Perfekt für Paare, Familien, und Reisende, die ein unvergessliches kulturelles Erlebnis in Agra suchen.",
+  "highlights": [
+   "Friedliche Abendatmosphäre in Agra"
+  ],
+  "included": [
+   "Hotelabholung und Rückfahrt",
+   "Professioneller Guide",
+   "Besichtigung in einem privaten Auto",
+   "Eintrittstickets (falls Option ausgewählt)",
+   "Wasserflaschen"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
