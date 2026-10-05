@@ -3907,6 +3907,78 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld für Fahrer und Guide"
   ]
  },
+ "taj-mahal-sunset-view-or-morning-view-tour-with": {
+  "title": "Taj Mahal Sonnenuntergangs- oder Morgenblick-Tour mit Hotelabholung",
+  "metaTitle": "Agra: Taj Mahal Sonnenuntergang/Aufgang, Shopping",
+  "metaDescription": "Überspringen Sie alle Schlangen und genießen Sie die Schönheit des bezaubernden Taj Mahal.",
+  "shortDescription": "Überspringen Sie alle Schlangen und genießen Sie die Schönheit des bezaubernden Taj Mahal.",
+  "fullDescription": "Abholung von Ihrem Hotel in Agra mit privatem Auto, dann Treffen mit dem Reiseführer und Fahrt zu Geschäften, wo Sie Originalware zu den besten Preisen erhalten, bevor Sie zu einigen der lebendigen Basare und Fachgeschäfte Agras gefahren werden. Beim Einkaufen in Agra sollten Sie auf die Qualität der Marmorprodukte achten.\n\nEchter Marmor ist undurchsichtig und lässt kein Licht durch. Verhandeln Sie so viel wie möglich beim Einkaufen in Agra. Erkunden Sie Marmor-Ausstellungsräume oder suchen Sie nach schönen Saris bei hochwertigen Sari-Händlern. Agra hat viele Einkaufsgebiete, da die historische Stadt Agra viele lokale Handwerksstätten hat. Weitere Highlights sind Geschäfte mit fein bestickten Teppichen und Schmuck.\n\nBesuchen Sie auch den Ort, an dem Silber- und Goldfäden mit edlen und halbedlen Steinen verwendet werden, für Wandteppiche, mit Edelsteinen besetzte Teppiche und mehr. Stellen Sie alle Fragen zu Ihrem gewünschten Produkt, und der Verkäufer wird Ihnen die Vorteile des Produkts erklären und warum es besser ist, in Agra zu kaufen. Besuchen Sie dann den Taj Mahal Sonnenuntergangsblick von Mehtab Bagh. Sie können es als Geschenk für jemanden, den Sie lieben, mitnehmen: Zu den feinen Arbeiten, für die Agra berühmt ist, gehört die Marmorarbeit, wie die Einlegearbeiten, die man im Taj Mahal sieht.\n\nLederwaren sind das andere große Einkaufsprodukt in Agra. Alle Lederartikel wie Taschen, Schuhe, Gürtel, Lederjacken usw. sind in verschiedenen Designs erhältlich. Agra-Teppiche sind ebenfalls sehr beliebt. Sie werden auch in die indische Welt des Verhandelns eingeführt, damit Sie den besten Preis für Ihre Waren erhalten. Anschließend werden Sie zu Ihrem Hotel zurückgebracht.",
+  "highlights": [
+   "Überspringen Sie alle Schlangen und genießen Sie die Schönheit des bezaubernden Taj Mahal"
+  ],
+  "included": [
+   "Privatauto zum Einkaufen",
+   "Reiseführer",
+   "Abholung und Rückbringung zum Hotel",
+   "Persönliche Ausgaben",
+   "Taj Mahal Sonnenuntergangsblick von Mehtab Bagh",
+   "Eintrittskarte für Mehtab Bagh",
+   "Alle Steuern"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Trinkgeld",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "taj-mahal-sunset-tour-by-tuk-tuk-with-private": {
+  "title": "Taj Mahal Sonnenuntergangstour mit Tuk-Tuk und privatem Guide",
+  "metaTitle": "Agra: Taj Mahal Sonnenuntergang per Tuk-Tuk",
+  "metaDescription": "Überspringen Sie alle Schlangen und genießen Sie die Schönheit des bezaubernden Taj Mahal.",
+  "shortDescription": "Überspringen Sie alle Schlangen und genießen Sie die Schönheit des bezaubernden Taj Mahal.",
+  "fullDescription": "Unser Tuk-Tuk-Fahrer wird Sie zusammen mit dem erfahrenen Reiseführer am gewünschten Ort treffen. Der Reiseführer informiert Sie über den Tagesablauf und was man am Taj Mahal tun und nicht tun sollte.\n\nNun erreichen Sie den Parkplatz des Taj Mahal, wo Sie Ihr Tuk-Tuk (Auto-Rickshaw) zurücklassen und mit einem batteriebetriebenen Fahrzeug zum Taj Mahal weiterfahren.\n\nNach der Sicherheitskontrolle betreten Sie das Gelände des berühmten Taj Mahal. Ihr erfahrener Reiseführer erzählt Ihnen die romantische Geschichte des Taj Mahal und architektonische Einblicke. Er hilft Ihnen, instagramtaugliche Fotos zu machen. Sie sehen die Kammer, in der sich die Gräber des Kaisers und der Dame befinden. Die Kammer ist mit außergewöhnlicher Handwerkskunst verziert.\n\nNach dem Besuch des Taj Mahal geben wir Ihnen etwas Zeit, um die bunten Basare zu durchstöbern. Sie können sich eine kurze Shopping-Tour gönnen.\n\nWenn Sie möchten, können Sie in einem lokalen Restaurant zum Abendessen anhalten. Danach bringen wir Sie zurück zu Ihrem Hotel.",
+  "highlights": [
+   "Überspringen Sie alle Schlangen und genießen Sie die Schönheit des bezaubernden Taj Mahal"
+  ],
+  "included": [
+   "Abhol- und Rückbringhilfe",
+   "Lokale Besichtigung von Agra per Tuk-Tuk",
+   "Live-Reiseführer-Service in Ihrer Sprache",
+   "Batteriebus-Fahrt zwischen dem Parkplatz und dem Taj Mahal Denkmal",
+   "Mineralwasserflaschen",
+   "Alle Steuern"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Denkmalgebühren",
+   "Trinkgeld/Zuwendungen für Guide und Fahrer",
+   "Jegliche anderen persönlichen Ausgaben"
+  ]
+ },
+ "women-spcl-taj-mahal-lord-shiva-temple-5-buffet": {
+  "title": "Frauen-Spezial: Taj Mahal und Shiva-Tempel, 5-Sterne-Buffet-Mittagessen",
+  "metaTitle": "Agra: Frauen-Spezial, Taj Mahal, Shiva-Tempel",
+  "metaDescription": "Früher Abfahrt von Delhi über Indiens schnellste Autobahn, um Agra bequem zu erreichen.",
+  "shortDescription": "Früher Abfahrt von Delhi über Indiens schnellste Autobahn, um Agra bequem zu erreichen.",
+  "fullDescription": "Entdecken Sie den ewigen Charme von Agra\nErleben Sie die Magie der Morgendämmerung, wenn das Taj Mahal in sanftem goldenem Licht erstrahlt, geführt von einem lokalen Experten, der seine zeitlose Geschichte lebendig macht. Tauchen Sie ein in Agras kaiserliches Erbe, heilige Traditionen und lebendige Basare auf dieser unvergesslichen Reise.\n\n**2:00 Uhr: früher Abfahrt**: Beginnen Sie Ihr Abenteuer mit einer reibungslosen Fahrt auf der Yamuna Expressway, Indiens schnellster Autobahn, die eine komfortable 4,5-stündige Fahrt nach Agra gewährleistet.\n\n**5:30 Uhr: Sonnenaufgang am Taj Mahal**: Bei der Ankunft treffen Sie Ihren kundigen Reiseführer und betreten das Taj Mahal genau in dem Moment, in dem die Morgensonne seinen weißen Marmor erstrahlen lässt. Lassen Sie sich von den bezaubernden Geschichten von Shah Jahan und Mumtaz verzaubern, während Sie atemberaubende Ansichten aus jedem Blickwinkel einfangen.\n\n**7:00 Uhr: Frühstücksgenuss**: Genießen Sie ein üppiges Buffet-Frühstück mit einer Vielzahl an unbegrenzten Köstlichkeiten.\n\n**8:00 Uhr: heiliges Erlebnis**: Besuchen Sie einen berühmten Shiva-Tempel, wo Ihr Reiseführer Ihnen Indiens tief verwurzelte spirituelle Wurzeln und lebendige hinduistische Traditionen näherbringt.\n\n**9:00 Uhr: Entdeckung des Agra Forts**: Erkunden Sie das majestätische Agra Fort, einst Sitz der Mogulmacht. Wandeln Sie durch Diwan-i-Khas, Diwan-i-Aam, und blicken Sie auf das Taj Mahal von seinen atemberaubenden Aussichtspunkten, während Sie die reiche Geschichte der Mogul-Dynastie kennenlernen.\n\n**11:00 Uhr: Marktspaziergang**: Beenden Sie die Tour mit einem geführten Spaziergang durch Agras geschäftige Märkte, die den Charme der Mogulzeit mit moderner Kultur verbinden. Gegen 13:00 Uhr entspannen Sie sich, während Ihr Chauffeur Sie bequem zurückfährt.\n\nWichtige Hinweise:\n- Das Taj Mahal bleibt jeden Freitag geschlossen.\n- Preisoptionen können variieren: Überprüfen Sie diese sorgfältig vor der Buchung.\n- Touren können auch nach der Bestätigung an Ihre Wünsche angepasst werden.",
+  "highlights": [
+   "Früher Abfahrt von Delhi über Indiens schnellste Autobahn, um Agra bequem zu erreichen"
+  ],
+  "included": [
+   "Transport im privaten klimatisierten Auto / Minivan / Tempo Traveller",
+   "Abhol- und Rückbringservice zum Hotel",
+   "Eintritt zum Taj Mahal (falls ausgewählt)",
+   "Eintritt zum Agra Fort (falls ausgewählt)",
+   "Shiva-Tempel (falls ausgewählt)",
+   "Frühstück (Buffet) (falls ausgewählt)",
+   "Wasserflaschen während der Fahrt",
+   "Parken, Kraftstoff, Maut und alle Steuern mit GST"
+  ],
+  "notIncluded": [
+   "Trinkgeld und Zuwendungen",
+   "Alle anderen persönlichen Ausgaben"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
