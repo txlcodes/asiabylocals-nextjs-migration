@@ -24401,6 +24401,85 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gratificaciones y propinas para el guía y el chófer"
   ]
  },
+ "from-delhi-3-day-golden-triangle-tour-with-agra": {
+  "title": "Desde Delhi: tour del Triángulo de Oro de 3 días con Agra y Jaipur",
+  "metaTitle": "Delhi: Triángulo de Oro 3 días, Agra-Jaipur",
+  "metaDescription": "Explora Delhi, Agra, y Jaipur en un tour guiado del Triángulo de Oro de 3 días",
+  "shortDescription": "Explora Delhi, Agra, y Jaipur en un tour guiado del Triángulo de Oro de 3 días",
+  "fullDescription": "Desde Delhi: tour del Triángulo de Oro de 3 días con Agra y Jaipur. Explora Delhi, Agra, y Jaipur en un tour guiado del Triángulo de Oro de 3 días.\n\n**Día 1 – tour por la ciudad de Delhi, Agra**\nComienza tu tour del Triángulo de Oro de 3 días con la recogida en el lugar que desees en Delhi, Noida, o Gurugram en un coche privado con aire acondicionado. Encuentra a tu guía y comienza a explorar los lugares emblemáticos de Delhi.\n\nVisita el Qutub Minar, Patrimonio de la Humanidad de la UNESCO construido por Qutub-ud-din Aibak. Continúa hacia el Templo del Loto, una pacífica casa de culto bahá'í, y luego dirígete a India Gate, el monumento nacional de Delhi.\n\nPasa frente al Parlamento, el Palacio Presidencial (Rashtrapati Bhavan), y los edificios del secretariado. Detente en Agrasen ki Baoli, un antiguo pozo escalonado escondido en el corazón de la ciudad.\n\nVisita la tumba de Humayun, otro Patrimonio de la Humanidad de la UNESCO que más tarde inspiró el diseño del Taj Mahal.\n\nEn el Viejo Delhi, explora la gran Jama Masjid, una de las mezquitas más grandes de la India. Luego, disfruta de un tradicional paseo en rickshaw por los bulliciosos callejones de Chandni Chowk, y pasa frente al histórico Fuerte Rojo.\n\nDetente para almorzar en un restaurante local (por cuenta propia). Después del almuerzo, viaja hacia Agra por la autopista (aprox. 3 a 4 horas). Al llegar a Agra, regístrate en tu hotel. La tarde queda libre.\n\nNoche en Agra\n\n**Día 2 – Agra y Jaipur**\nComienza tu día con una visita al amanecer al Taj Mahal, una de las Siete Maravillas del Mundo. Disfruta de un tour guiado y contempla la impresionante belleza del monumento de mármol blanco bañado por la luz de la mañana. Regreso a tu hotel para el desayuno.\n\nDespués de hacer el checkout, visita el Fuerte de Agra, una fortaleza de arenisca roja y antigua residencia real de los emperadores mogoles.\n\nContinúa hacia la tumba de Itimad-ud-Daulah, también conocida como el «Pequeño Taj», admirada por su delicado trabajo de incrustaciones de mármol y su entorno junto al río.\n\nMás tarde, parte hacia Jaipur (aprox. 4 a 5 horas). Al llegar, regístrate en tu hotel. Tarde libre.\n\nNoche en Jaipur\n\n**Día 3 – tour por la ciudad de Jaipur, Delhi**\nDespués del desayuno, comienza tu tour por la ciudad de Jaipur con una visita al fuerte Amber, una majestuosa fortaleza en la cima de una colina con vistas pintorescas. En el camino, haz una parada para fotos en Panna Meena ka Kund, un hermoso pozo escalonado del siglo 16 con escaleras simétricas.\n\nDetente en el Jal Mahal para fotos junto al lago, luego explora Gatore ki Chhatriyan, un tranquilo lugar de cremación real alejado de las multitudes.\n\nA continuación, visita el famoso Hawa Mahal (Palacio de los Vientos), seguido del Jantar Mantar, un observatorio astronómico, y el City Palace, una histórica residencia real todavía parcialmente en uso hoy en día.\n\nDisfruta del almuerzo en un restaurante local durante el tour.\n\nDespués de terminar las visitas, viaja de regreso a Delhi (aprox. 5 a 6 horas), o elige que te dejen en el aeropuerto de Jaipur si lo prefieres.\n\n**Opciones de alojamiento**\nHoteles de 4 estrellas en Agra:\nRoyale Sarovar Portico / similar\nHoteles de 4 estrellas en Jaipur:\nThe Fern Residency / similar\n\nHoteles de 5 estrellas en Agra:\nJaypee Palace / Courtyard by Marriott / similar\nHoteles de 5 estrellas en Jaipur:\nHilton / Intercontinental / similar\n\n**Qué incluye**\nCoche privado con aire acondicionado con chófer para todo el tour\nAlojamiento de 2 noches con desayuno (4 o 5 estrellas, según selección)\nEntradas sin colas para todos los monumentos (si se selecciona esta opción)\nGuías turísticos profesionales con licencia en Delhi, Agra, y Jaipur\nRecogida y regreso desde el aeropuerto de Delhi, el hotel, u otro lugar deseado\nPaseo en rickshaw en Chandni Chowk, en el Viejo Delhi\nVisita al amanecer al Taj Mahal\nAgua mineral embotellada durante el viaje\nTodos los impuestos aplicables, peajes, estacionamiento, y gastos de combustible\n\n**No incluye**\nGastos personales\nPropinas",
+  "highlights": [
+   "Explora Delhi, Agra, y Jaipur en un tour guiado del Triángulo de Oro de 3 días"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado con chófer para todo el tour",
+   "Alojamiento de 2 noches con desayuno (4 o 5 estrellas, según selección)",
+   "Entradas sin colas para todos los monumentos (si se selecciona esta opción)",
+   "Guías turísticos profesionales con licencia en Delhi, Agra, y Jaipur",
+   "Recogida y regreso desde el aeropuerto de Delhi, el hotel, u otro lugar deseado",
+   "Paseo en rickshaw en Chandni Chowk, en el Viejo Delhi",
+   "Visita al amanecer al Taj Mahal",
+   "Agua mineral embotellada durante el viaje",
+   "Todos los impuestos aplicables, peajes, estacionamiento, y gastos de combustible"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "new-delhi-2-days-luxury-agra-tour-with-five": {
+  "title": "Nueva Delhi: tour de lujo de 2 días a Agra con estancia en hotel de 5 estrellas",
+  "metaTitle": "Delhi-Agra: lujo 2 días, hotel 5 estrellas",
+  "metaDescription": "Deleita tu vista con el Taj Mahal bañado en los tonos tanto del atardecer como del amanecer",
+  "shortDescription": "Deleita tu vista con el Taj Mahal bañado en los tonos tanto del atardecer como del amanecer",
+  "fullDescription": "Nueva Delhi: tour de lujo de 2 días a Agra con estancia en hotel de 5 estrellas. Deleita tu vista con el Taj Mahal bañado en los tonos tanto del atardecer como del amanecer.\n\nExperimenta Agra en su forma más refinada y tranquila en este viaje premium de una noche desde Delhi. Observa el Taj Mahal tanto al amanecer como al atardecer, explora majestuosos lugares emblemáticos mogoles, y disfruta de una cuidada estancia en un hotel de 5 estrellas o patrimonial. Completa tu viaje con una visita a la atemporal ciudad de Fatehpur Sikri.\n\nDisfruta de una escapada de lujo de 2 días a Agra cuidadosamente diseñada, pensada para viajeros que valoran la comodidad, la exclusividad, y una conexión cultural más profunda. Desde traslados privados hasta alojamientos seleccionados a mano, cada detalle está organizado para ofrecer una experiencia fluida e inolvidable.\n\n**Día 1 – de Delhi a Agra: elegancia patrimonial y atardecer**\nTu viaje comienza con una recogida privada en el lugar que prefieras en Delhi, en un vehículo premium con aire acondicionado. Relájate y disfruta de un trayecto fluido hacia Agra, atravesando los paisajes cambiantes del norte de la India.\nAl llegar, regístrate en tu cuidadosamente seleccionado hotel de 5 estrellas o patrimonial, donde podrás relajarte con comodidad. Más tarde, sal a almorzar en un restaurante local recomendado (por cuenta propia), que ofrece auténticos sabores regionales.\nPor la tarde, explora el magnífico Fuerte de Agra, Patrimonio de la Humanidad de la UNESCO que refleja el poder y la elegancia del Imperio mogol. Continúa hacia el exquisito Itmad-ud-Daulah (Pequeño Taj), a menudo admirado por su delicado trabajo de incrustaciones de mármol y su entorno tranquilo.\nA medida que se acerca la tarde, visita Mehtab Bagh, un sereno jardín junto al río perfectamente ubicado para una vista impresionante del atardecer sobre el Taj Mahal. Observa cómo el monumento resplandece en suaves tonos dorados, una experiencia tanto íntima como inolvidable. Los huéspedes pueden elegir explorar el interior del jardín para una experiencia más inmersiva.\nLa tarde queda libre para explorar mercados y la vida local.\nRegreso a tu hotel para una tranquila noche. El vehículo estará disponible si deseas salir a cenar.\n\n**Día 2 – amanecer en el Taj Mahal, Fatehpur Sikri, regreso a Delhi**\nComienza tu día temprano con una visita privada guiada al Taj Mahal al amanecer, posiblemente el momento más mágico para experimentar esta maravilla del mundo. Mientras la primera luz toca el mármol, el monumento revela una belleza tranquila que pocos momentos pueden igualar.\nDisfruta de una exploración relajada del Taj Mahal con tu guía experto, descubriendo su brillantez arquitectónica y la atemporal historia detrás de su creación.\nRegreso a tu hotel para el desayuno, seguido del checkout. Luego continúa tu viaje hacia Fatehpur Sikri, la antigua capital mogol ubicada a unos 45 km de Agra.\nDescubre este notablemente bien conservado Patrimonio de la Humanidad de la UNESCO, donde amplios patios, palacios reales, y estructuras icónicas como el Buland Darwaza y el Panch Mahal ofrecen un vistazo a un glorioso pasado.\nDespués de un almuerzo opcional en un restaurante local (por cuenta propia), comienza tu cómodo trayecto de regreso a Delhi.\nLlegada a Delhi al anochecer, donde te dejarán en el lugar que prefieras, concluyendo tu refinada experiencia en Agra.\n\n**Qué incluye**\nRecogida y regreso al hotel\nTransporte cómodo en un coche con aire acondicionado\nEstancia de 1 noche en un hotel de 5 estrellas o patrimonial en habitación doble\nDesayuno diario en el hotel\nVisita guiada a Fatehpur Sikri (visita única)\n2 días de visitas por Agra, incluyendo:\nVisita al amanecer y al atardecer al Taj Mahal\nFuerte de Agra\nItmad-ud-Daulah (Pequeño Taj)\nVisitas vespertinas a mercados para experimentar la vida local\nWifi de cortesía a bordo\nGuía local privado (2 días en Agra, 1 día en Fatehpur Sikri)\n\n**No incluye**\nEntradas a los monumentos (dejadas flexibles, ya que algunos huéspedes pueden optar por omitir ciertos sitios además del Taj Mahal)\nComidas y bebidas (excepto el desayuno)\nPropinas (opcionales)",
+  "highlights": [
+   "Deleita tu vista con el Taj Mahal bañado en los tonos tanto del atardecer como del amanecer"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Transporte cómodo en un coche con aire acondicionado",
+   "Estancia de 1 noche en un hotel de 5 estrellas o patrimonial en habitación doble",
+   "Desayuno diario en el hotel",
+   "Visita guiada a Fatehpur Sikri (visita única)",
+   "2 días de visitas por Agra, incluyendo:",
+   "Visita al amanecer y al atardecer al Taj Mahal",
+   "Fuerte de Agra",
+   "Itmad-ud-Daulah (Pequeño Taj)",
+   "Visitas vespertinas a mercados para experimentar la vida local",
+   "Wifi de cortesía a bordo",
+   "Guía local privado (2 días en Agra, 1 día en Fatehpur Sikri)"
+  ],
+  "notIncluded": [
+   "Entradas a los monumentos (dejadas flexibles, ya que algunos huéspedes pueden optar por omitir ciertos sitios además del Taj Mahal)",
+   "Comidas y bebidas (excepto el desayuno)",
+   "Propinas (opcionales)"
+  ]
+ },
+ "akshardham-temple-light-water-show-with-oldnew": {
+  "title": "Templo de Akshardham: espectáculo de luces y agua con tour por el Viejo/Nuevo Delhi",
+  "metaTitle": "Delhi: Akshardham, espectáculo de luz y sonido",
+  "metaDescription": "Descubre la impresionante arquitectura y los intrincados tallados de Akshardham",
+  "shortDescription": "Descubre la impresionante arquitectura y los intrincados tallados de Akshardham",
+  "fullDescription": "Templo de Akshardham: espectáculo de luces y agua con tour por el Viejo/Nuevo Delhi. Descubre la impresionante arquitectura y los intrincados tallados de Akshardham.\n\nComienza tu viaje con una cómoda recogida en tu hotel o el aeropuerto en un vehículo confortable y con aire acondicionado. Tu primera parada es el icónico India Gate, un solemne monumento de guerra dedicado a los soldados indios, que ofrece un vistazo a la rica historia y el orgullo nacional del país. A continuación, visita el sereno y espiritual Gurudwara Bangla Sahib, uno de los templos sijs más prominentes de Delhi, conocido por su cúpula dorada, su ambiente pacífico, y su cocina comunitaria (langar) que sirve comidas gratuitas a miles de personas cada día.\n\nContinúa tu tour hacia el magnífico templo de Akshardham, uno de los sitios espirituales más impresionantes de la India. Con un guía experto, explora la impresionante arquitectura del templo, sus intrincados tallados, y exposiciones culturales que muestran las tradiciones hindúes y 10.000 años de patrimonio indio. Los puntos destacados incluyen un apacible paseo en bote a través de la historia india, una inspiradora película IMAX sobre un viaje espiritual, y exposiciones interactivas con robótica, arte, y narración de historias.\n\nPor la noche, disfruta del fascinante espectáculo de agua Sahaj Anand, una espectacular demostración de efectos de agua, láseres, música, y narración en vivo, perfecta para todas las edades. Durante todo el tour, se proporciona agua embotellada para tu comodidad.\n\nDespués del espectáculo, tienes la opción de detenerte para una cena tradicional india en un restaurante local (por cuenta propia), antes de ser llevado de regreso a tu hotel o al aeropuerto.\n\n**Qué incluye**\nTour vespertino privado guiado al templo de Akshardham\nRecogida y regreso desde el hotel o el aeropuerto\nVehículo con aire acondicionado\nGuía experto\nPaseo en bote a través de 10.000 años de patrimonio indio\nPelícula IMAX sobre un viaje espiritual\nExposiciones interactivas con robótica y arte\nEspectáculo de luz y sonido Sahaj Anand\nAgua embotellada\nTodas las entradas a las exposiciones y al espectáculo de agua están incluidas\n\n**No incluye**\nCena tradicional india en un restaurante local",
+  "highlights": [
+   "Descubre la impresionante arquitectura y los intrincados tallados de Akshardham"
+  ],
+  "included": [
+   "Tour vespertino privado guiado al templo de Akshardham",
+   "Recogida y regreso desde el hotel o el aeropuerto",
+   "Vehículo con aire acondicionado",
+   "Guía experto",
+   "Paseo en bote a través de 10.000 años de patrimonio indio",
+   "Película IMAX sobre un viaje espiritual",
+   "Exposiciones interactivas con robótica y arte",
+   "Espectáculo de luz y sonido Sahaj Anand",
+   "Agua embotellada",
+   "Todas las entradas a las exposiciones y al espectáculo de agua están incluidas"
+  ],
+  "notIncluded": [
+   "Cena tradicional india en un restaurante local"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
