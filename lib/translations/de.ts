@@ -6546,6 +6546,76 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld"
   ]
  },
+ "from-delhi-taj-mahal-agra-fort-shared-group-tour": {
+  "title": "Von Delhi aus: geteilte Gruppentour zum Taj Mahal und Agra Fort",
+  "metaTitle": "Delhi-Agra: geteilte Gruppentour",
+  "metaDescription": "Wir fahren früh von Delhi ab und reisen in einem sauberen, geteilten klimatisierten Auto.",
+  "shortDescription": "Wir fahren früh von Delhi ab und reisen in einem sauberen, geteilten klimatisierten Auto.",
+  "fullDescription": "Wenn Sie in Delhi sind und das Taj Mahal und das Agra Fort sehen möchten, ohne eine private Tour zu buchen, ist diese geteilte Gruppenreise eine solide Option. Der Tag beginnt in der Nähe des Akshardham-Tempels (Sie müssen selbst dorthin gelangen), wo Sie die Gruppe und Ihren Guide treffen.\n\nVon dort steigen Sie in einen geteilten Van (mit Klimaanlage!) und machen sich auf den Weg nach Agra. Die Gruppengröße variiert, es könnte also eine kleine Besatzung oder ein voller besetzter Van sein, aber in jedem Fall ist es eine entspannte Atmosphäre und eine gute Gelegenheit, mit anderen Reisenden zu plaudern.\n\nDas Hauptereignis ist natürlich das Taj Mahal, und ja, es ist genauso beeindruckend persönlich wie Sie gehört haben. Ein Guide führt Sie normalerweise durch die Geschichte und wenig bekannte Details, und je nach Tag besuchen Sie auch das Agra Fort.\n\nNach ein paar Stunden in Agra fahren Sie gemeinsam zurück nach Delhi. Es ist ein voller Tag, aber eine lustige und einfache Art, das Taj Mahal von Ihrer Liste zu streichen, ohne den Stress, alles allein zu organisieren.",
+  "highlights": [
+   "Wir fahren früh von Delhi ab und reisen in einem sauberen, geteilten klimatisierten Auto"
+  ],
+  "included": [
+   "Alle Parkgebühren, Mautgebühren, Steuern, Zulagen, Kraftstoff",
+   "Gebühren zwischen Bundesstaaten für Besichtigungen im klimatisierten Auto oder Minivan mit lizenziertem Fahrer",
+   "Taj Mahal Reiseführer auf Englisch",
+   "Eintrittsgebühr zum Taj Mahal (für Besucher aus dem Ausland) (falls ausgewählt)",
+   "Abholung und Rückbringung an den Hotels (falls ausgewählt)"
+  ],
+  "notIncluded": [
+   "Essen und Getränke",
+   "Zuwendungen",
+   "Trinkgeld"
+  ]
+ },
+ "from-jaipur-taj-mahal-agra-private-day-trip-with": {
+  "title": "Von Jaipur aus: privater Tagesausflug zum Taj Mahal und Agra mit Transfer",
+  "metaTitle": "Jaipur-Agra: Taj Mahal privat, 1 Tag",
+  "metaDescription": "Erkunden Sie das majestätische Taj Mahal, ein ikonisches Symbol der Liebe, an 1 Tag.",
+  "shortDescription": "Erkunden Sie das majestätische Taj Mahal, ein ikonisches Symbol der Liebe, an 1 Tag.",
+  "fullDescription": "Erkunden Sie die Schönheit des Taj Mahal mit unserem privaten Tagesausflug zum Taj Mahal und Agra mit Transfer von Jaipur aus am selben Tag. Wählen Sie einen privaten Tagesausflug mit köstlichem Mittagessen in einem 5-Sterne-Hotel oder eine Gruppentour, und sehen Sie das Agra Fort, das Baby Taj, und das Taj Mahal.\n\nBeginnen Sie Ihren Tag mit einer frühen Abholung um 6:00 Uhr von Ihrem Hotel in Jaipur. Fahren Sie nach Agra, und genießen Sie eine friedliche 4-stündige Fahrt in einem privaten klimatisierten Auto.\n\nErreichen Sie Agra, treffen Sie Ihren Reiseführer, und besuchen Sie das Taj Mahal. Erkunden Sie das Taj Mahal, und machen Sie einige unvergessliche Fotos, wobei Sie etwa 2 Stunden am Mausoleum verbringen.\n\nNach dem Besuch des Taj Mahal genießen Sie ein köstliches Mittagessen in einem 5-Sterne-Hotel in Agra, und besuchen Sie das Agra Fort, ein UNESCO-Weltkulturerbe, und entdecken Sie seine reiche Geschichte. Erkunden Sie die schönen Gärten und Strukturen innerhalb des Festungskomplexes.\n\n**Erkundung lokaler Märkte**\nSie können lokale Märkte in Agra besuchen, um staatlich zugelassene Fabriken für Kunsthandwerk, Marmor-Souvenirs, Teppiche, und andere Spezialitäten zu erkunden (dort treffen Sie die Nachkommen und Familienmitglieder der Handwerker).\n\n**Erkundung des Baby Taj:**\nDas Baby Taj ist eine kleinere Nachbildung des Taj Mahal. Trotz seiner Größe ist es ein exquisites Denkmal und ein verehrtes Mausoleum, das definitiv einen Besuch wert ist. Die kunstvollen Schnitzereien, eingelegt mit Edelsteinen und detailliert mit zarter Handwerkskunst, machen es zu einer unbedingt zu besuchenden Attraktion.\n\n**Rückkehr nach Delhi oder Jaipur:**\nNach Abschluss Ihrer Agra-Tour beginnen Sie Ihre Rückreise nach Jaipur. Abhängig von der Zeit könnten Sie während der Rückreise Verkehr erleben.",
+  "highlights": [
+   "Erkunden Sie das majestätische Taj Mahal, ein ikonisches Symbol der Liebe, an 1 Tag"
+  ],
+  "included": [
+   "Abholung und Rückbringung von Jaipur, Rajasthan",
+   "Erfahrener, staatlich zugelassener Live-Reiseführer",
+   "Köstliches Mittagessen in einem Multi-Küchen-Restaurant in Agra (falls Sie diese Option gebucht haben)",
+   "Bezahlte Eintrittskarten zu den Denkmälern (falls Sie diese Option gebucht haben)",
+   "Private Besichtigung im klimatisierten Auto mit Chauffeur",
+   "Mineralwasserflaschen",
+   "Kraftstoffkosten und alle Steuern"
+  ],
+  "notIncluded": [
+   "Zuwendungen",
+   "Essen und Getränke",
+   "Unterkunft"
+  ]
+ },
+ "from-delhi-taj-mahal-tour-by-superfast-train-w": {
+  "title": "Von Delhi aus: Taj Mahal Tour mit Superschnellzug mit kostenlosem Mittagessen",
+  "metaTitle": "Delhi-Agra mit Superschnellzug, kostenloses Mittagessen",
+  "metaDescription": "Reisen Sie mit einem Superschnellzug von Delhi nach Agra und zurück, bei einem Tagesausflug.",
+  "shortDescription": "Reisen Sie mit einem Superschnellzug von Delhi nach Agra und zurück, bei einem Tagesausflug.",
+  "fullDescription": "Entfliehen Sie den geschäftigen Straßen von Delhi und machen Sie einen Tagesausflug nach Agra, indem Sie einen bequemen Hochgeschwindigkeitszug nehmen. Ihre Reise beinhaltet eine geführte Tour zum berühmten Taj Mahal, einen Besuch des beeindruckenden Agra Forts, und eine Erkundung des Baby Taj.\n\nDer Tag beginnt mit einer Hotelabholung und einem Transfer zum Bahnhof Nizamuddin. Dort besteigen Sie einen schnellen Zug nach Agra. Ihr Fahrer hilft Ihnen, Ihre Zugsitze zu finden, und Sie können während der Reise ein Frühstück genießen.\n\nBei der Ankunft in Agra treffen Sie Ihren Guide in der Nähe Ihres Zuges, und machen sich direkt auf den Weg zum ikonischen Taj Mahal. Sie haben bis zu 3 Stunden Zeit, dieses prächtige Denkmal zu erkunden, und Sie können auch ein köstliches Mittagessen in einem 5-Sterne-Hotel genießen, wenn Sie diese Option gewählt haben.\n\nIhre Tour geht weiter mit einem Besuch des Agra Forts, einem riesigen Bauwerk aus rotem Sandstein aus dem 16. Jahrhundert. Nach Ihrer Zeit in der Festung machen Sie einen letzten Besuch bei Itimad-Ud-Daulah, auch bekannt als Baby Taj.\n\nWenn der Tag sich dem Ende nähert, kehren Sie zum Bahnhof Agra zurück und besteigen Ihren Zug zurück nach Delhi. Genießen Sie das Abendessen im Zug, bevor Sie am Abend in Delhi ankommen, wo Ihr Fahrer Sie trifft und zu Ihrem Hotel zurückbringt.",
+  "highlights": [
+   "Reisen Sie mit einem Superschnellzug von Delhi nach Agra und zurück, bei einem Tagesausflug"
+  ],
+  "included": [
+   "Abhol- und Rückbringhilfe",
+   "Hin- und Rückfahrt klimatisiertes Zugticket",
+   "Besichtigung im privaten klimatisierten Auto in der Stadt Agra",
+   "Eintrittskarten zu allen Denkmälern (falls ausgewählt)",
+   "Mineralwasserflaschen",
+   "Mittagessen in einem 5-Sterne-Hotel (falls ausgewählt)",
+   "Frühstück und Abendessen werden im Zug serviert",
+   "Live-Reiseführer-Service"
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Trinkgeld"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
