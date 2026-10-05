@@ -26794,6 +26794,52 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comidas y bebidas\nTarifas de entrada a monumentos\nLas noches de gala, si corresponde, no están incluidas en el costo del hotel\nPropina para el guía y el conductor"
   ]
  },
+ "delhi-airport-to-airport-guided-layover-city-tour": {
+  "title": "Delhi: tour guiado por la ciudad durante la escala, de aeropuerto a aeropuerto",
+  "metaTitle": "Delhi: tour guiado durante la escala, aeropuerto a aeropuerto",
+  "metaDescription": "Planifique una breve excursión durante su escala en lugar de esperar en el aeropuerto, con tour guiado por Delhi.",
+  "shortDescription": "Planifique una breve excursión durante su escala en lugar de esperar en el aeropuerto",
+  "fullDescription": "Delhi: tour guiado por la ciudad durante la escala, de aeropuerto a aeropuerto. Planifique una breve excursión durante su escala en lugar de esperar en el aeropuerto.\n\nComience su tour con una recogida en el Aeropuerto de Delhi, donde su conductor y guía le darán la bienvenida. Busque un cartel con su nombre.\n\nTras su llegada, diríjase a conocer Old y New Delhi. Descubra monumentos como Qutub Minar, India Gate (parada fotográfica), el Parlamento (paso en coche), el Fuerte Rojo (desde fuera), la Mezquita Jama, la Tumba de Humayun, el Gurudwara Bangla Sahib, el Templo del Loto, el Lodhi Garden y el Templo Akshardham.\n\nHaga una pausa para comer cuando lo desee. Después del tour de avistamiento, regresará al Aeropuerto de Delhi.\n\n### Qué incluye\n\n- Asistencia de recogida y traslado desde y hacia el Aeropuerto de Delhi\n- Coche privado con aire acondicionado y conductor\n- Servicio de guía turístico en vivo\n- Entradas a monumentos (si selecciona la opción Tour guiado de escala de 8 horas por Delhi (todo incluido))\n- Paseo en tuk-tuk por Chandni Chowk (si selecciona la opción 3 o 4)\n- Botellas de agua\n- Todos los impuestos\n\n### No incluye\n\n- Comida\n- Bebidas\n- Propinas (opcionales)",
+  "highlights": [
+   "Planifique una breve excursión durante su escala en lugar de esperar en el aeropuerto"
+  ],
+  "included": [
+   "Asistencia de recogida y traslado desde y hacia el Aeropuerto de Delhi\nCoche privado con aire acondicionado y conductor\nServicio de guía turístico en vivo\nEntradas a monumentos (si selecciona la opción Tour guiado de escala de 8 horas por Delhi (todo incluido))\nPaseo en tuk-tuk por Chandni Chowk (si selecciona la opción 3 o 4)\nBotellas de agua\nTodos los impuestos"
+  ],
+  "notIncluded": [
+   "Comida\nBebidas\nPropinas (opcionales)"
+  ]
+ },
+ "delhi-heritage-night-walking-tour-with-food": {
+  "title": "Delhi: recorrido nocturno patrimonial a pie con degustación de comida",
+  "metaTitle": "Delhi: recorrido nocturno patrimonial con degustación de comida",
+  "metaDescription": "Viaje en vehículo privado con aire acondicionado y descubra el patrimonio nocturno de Delhi con una degustación de comida.",
+  "shortDescription": "Viaje en vehículo privado con aire acondicionado",
+  "fullDescription": "Delhi: recorrido nocturno patrimonial a pie con degustación de comida. Viaje en vehículo privado con aire acondicionado.\n\nResidencia Presidencial (paso en coche): sirviendo como residencia oficial del Presidente de la democracia más grande del mundo, esta maravilla arquitectónica se encuentra en una extensa finca de 330 acres. Construida por Sir Edwin Lutyens y Herbert Baker, es un símbolo de las tradiciones democráticas inclusivas de la India.\n\nIndia Gate: designado inicialmente como el All India War Memorial, este solemne homenaje a los héroes caídos se encuentra en Rajpath, en New Delhi.\n\nAgrasen Ki Baoli: escondido en Delhi, este antiguo pozo escalonado es una joya oculta que ofrece una atmósfera única y tranquila. Tenga en cuenta que normalmente está cerrado después del atardecer.\n\nLodhi Garden: con una extensión de 90 acres, este parque de New Delhi cuenta con estructuras históricas como la Tumba de Mohammed Shah y la Tumba de Sikandar Lodi, ofreciendo un retiro sereno.\n\nTemplo Akshardham: Swaminarayan Akshardham es un impresionante templo hindú y complejo cultural que exhibe aspectos tradicionales y modernos de la cultura, la espiritualidad y la arquitectura hindúes.\n\n### Qué incluye\n\n- Asistencia de recogida y traslado\n- Servicio de coche con aire acondicionado de ida y vuelta\n- Guía turístico profesional\n- Botellas de agua mineral\n- Todos los impuestos",
+  "highlights": [
+   "Viaje en vehículo privado con aire acondicionado"
+  ],
+  "included": [
+   "Asistencia de recogida y traslado\nServicio de coche con aire acondicionado de ida y vuelta\nGuía turístico profesional\nBotellas de agua mineral\nTodos los impuestos"
+  ],
+  "notIncluded": []
+ },
+ "delhi-by-night-private-3-hour-luxury-tour": {
+  "title": "Delhi by Night: tour privado de lujo de 3 horas",
+  "metaTitle": "Delhi by Night: tour privado de lujo de 3 horas",
+  "metaDescription": "Disfrute de una tarde refrescante mientras explora los lugares emblemáticos de Delhi en este tour nocturno privado.",
+  "shortDescription": "Disfrute de una tarde refrescante mientras explora los lugares emblemáticos de Delhi",
+  "fullDescription": "Delhi by Night: tour privado de lujo de 3 horas. Disfrute de una tarde refrescante mientras explora los lugares emblemáticos de Delhi.\n\nExperimente la magia de Delhi después del anochecer en este tour nocturno privado de lujo de 3 horas en coche, diseñado para viajeros que desean explorar la ciudad con comodidad, estilo y seguridad. Mientras las luces de la ciudad cobran vida, disfrute de un recorrido relajado por los monumentos más icónicos de Delhi, bellamente iluminados contra el cielo nocturno.\n\nComience su velada con un paso frente al majestuoso India Gate, resplandeciente bajo luces suaves y rodeado de un ambiente animado. Continúe hacia Rashtrapati Bhavan y los grandiosos edificios gubernamentales a lo largo de Rajpath, que ofrecen impresionantes vistas nocturnas y oportunidades fotográficas perfectas.\n\nExplore las vibrantes calles de Connaught Place, donde la arquitectura colonial se encuentra con la vida urbana moderna. Disfrute de un tranquilo recorrido por bulliciosos mercados y elegantes avenidas, experimentando la mezcla única de Delhi entre historia y encanto contemporáneo.\n\nViaje en un coche de lujo privado con aire acondicionado y un conductor profesional, garantizando un trayecto fluido y cómodo durante todo el tour. Su guía experto compartirá historias fascinantes, conocimientos locales y detalles ocultos sobre la ciudad, convirtiendo esto en una experiencia memorable y enriquecedora.\n\nCon recogida y traslado flexibles desde su hotel o lugar preferido en Delhi NCR, este tour es perfecto para parejas, familias y viajeros solos que buscan una forma segura y de primera categoría de descubrir Delhi de noche.\n\n### Qué incluye\n\n- Recogida y traslado en coche de lujo privado\n- Tarifas de entrada (si se selecciona la opción)\n- Guía privado profesional\n- Botellas de agua de cortesía\n- Comidas (si se selecciona la opción)\n- Todos los impuestos y cargos\n\n### No incluye\n\n- Gastos personales\n- Propinas y gratificaciones",
+  "highlights": [
+   "Disfrute de una tarde refrescante mientras explora los lugares emblemáticos de Delhi"
+  ],
+  "included": [
+   "Recogida y traslado en coche de lujo privado\nTarifas de entrada (si se selecciona la opción)\nGuía privado profesional\nBotellas de agua de cortesía\nComidas (si se selecciona la opción)\nTodos los impuestos y cargos"
+  ],
+  "notIncluded": [
+   "Gastos personales\nPropinas y gratificaciones"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",

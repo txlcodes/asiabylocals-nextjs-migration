@@ -26794,6 +26794,52 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten und Getränke\nEintrittsgebühren für Denkmäler\nGala-Abende, falls zutreffend, sind nicht in den Hotelkosten enthalten\nTrinkgeld für Führer und Fahrer"
   ]
  },
+ "delhi-airport-to-airport-guided-layover-city-tour": {
+  "title": "Delhi: Geführte Stadttour während der Zwischenlandung, Flughafen zu Flughafen",
+  "metaTitle": "Delhi: Geführte Stadttour während der Zwischenlandung",
+  "metaDescription": "Planen Sie einen kurzen Ausflug während Ihrer Zwischenlandung statt am Flughafen zu sitzen, mit geführter Delhi-Tour.",
+  "shortDescription": "Planen Sie einen kurzen Ausflug während Ihrer Zwischenlandung statt am Flughafen zu sitzen",
+  "fullDescription": "Delhi: Geführte Stadttour während der Zwischenlandung, Flughafen zu Flughafen. Planen Sie einen kurzen Ausflug während Ihrer Zwischenlandung statt am Flughafen zu sitzen.\n\nBeginnen Sie Ihre Tour mit einer Abholung vom Flughafen Delhi, wo Ihr Fahrer und Reiseführer Sie willkommen heißen. Achten Sie auf ein Schild mit Ihrem Namen.\n\nNach Ihrer Ankunft geht es zur Besichtigung von Old und New Delhi City. Entdecken Sie Denkmäler wie Qutub Minar, India Gate (Fotostopp), das Parlamentsgebäude (Vorbeifahrt), das Rote Fort (von außen), die Jama Masjid, Humayuns Grabmal, Gurudwara Bangla Sahib, den Lotustempel, den Lodhi Garden und den Akshardham-Tempel.\n\nMachen Sie zwischendurch eine Essenspause, wenn Sie möchten. Nach der Besichtigungstour kehren Sie zum Flughafen Delhi zurück.\n\n### Inklusive\n\n- Abhol- und Rückfahrhilfe vom und zum Flughafen Delhi\n- Privates klimatisiertes Auto mit Fahrer\n- Live-Reiseführerservice\n- Eintrittskarten für Denkmäler - (bei Auswahl der Option 8-Stunden-geführte Zwischenlandungstour Delhi (All Inclusive))\n- Tuk-Tuk-Fahrt in Chandni Chowk (bei Auswahl der Option 3 oder 4)\n- Wasserflaschen\n- Alle Steuern\n\n### Nicht inklusive\n\n- Essen\n- Getränke\n- Trinkgelder (optional)",
+  "highlights": [
+   "Planen Sie einen kurzen Ausflug während Ihrer Zwischenlandung statt am Flughafen zu sitzen"
+  ],
+  "included": [
+   "Abhol- und Rückfahrhilfe vom und zum Flughafen Delhi\nPrivates klimatisiertes Auto mit Fahrer\nLive-Reiseführerservice\nEintrittskarten für Denkmäler - (bei Auswahl der Option 8-Stunden-geführte Zwischenlandungstour Delhi (All Inclusive))\nTuk-Tuk-Fahrt in Chandni Chowk (bei Auswahl der Option 3 oder 4)\nWasserflaschen\nAlle Steuern"
+  ],
+  "notIncluded": [
+   "Essen\nGetränke\nTrinkgelder (optional)"
+  ]
+ },
+ "delhi-heritage-night-walking-tour-with-food": {
+  "title": "Delhi: Nächtlicher Kulturerbe-Rundgang mit Essensverkostung",
+  "metaTitle": "Delhi: Nächtlicher Kulturerbe-Rundgang mit Essensverkostung",
+  "metaDescription": "Reisen Sie in einem privaten klimatisierten Fahrzeug und entdecken Sie Delhis nächtliches Kulturerbe mit Essensverkostung.",
+  "shortDescription": "Reisen Sie in einem privaten klimatisierten Fahrzeug",
+  "fullDescription": "Delhi: Nächtlicher Kulturerbe-Rundgang mit Essensverkostung. Reisen Sie in einem privaten klimatisierten Fahrzeug.\n\nPräsidentenresidenz (Vorbeifahrt): Als offizielle Residenz des Präsidenten der größten Demokratie der Welt dienend, liegt dieses architektonische Wunderwerk auf einem weitläufigen Anwesen von 330 Acres. Erbaut von Sir Edwin Lutyens und Herbert Baker, steht es als Symbol für Indiens inklusive demokratische Traditionen.\n\nIndia Gate: Ursprünglich als All India War Memorial bezeichnet, befindet sich diese feierliche Ehrung gefallener Helden am Rajpath in New Delhi.\n\nAgrasen Ki Baoli: Versteckt in Delhi, ist dieser antike Stufenbrunnen ein verborgenes Juwel, das eine einzigartige und ruhige Atmosphäre bietet. Beachten Sie, dass er nach Sonnenuntergang normalerweise geschlossen ist.\n\nLodhi Garden: Dieser 90 Acres große Park in New Delhi umfasst historische Bauwerke wie das Grab von Mohammed Shah und das Grab von Sikandar Lodi und bietet einen ruhigen Rückzugsort.\n\nAkshardham-Tempel: Swaminarayan Akshardham ist ein beeindruckender Hindu-Tempel und Kulturkomplex, der traditionelle und moderne Aspekte der hinduistischen Kultur, Spiritualität und Architektur präsentiert.\n\n### Inklusive\n\n- Abhol- und Rückfahrhilfe\n- Klimatisierter Autoservice hin und zurück\n- Professioneller Reiseführer\n- Mineralwasserflaschen\n- Alle Steuern",
+  "highlights": [
+   "Reisen Sie in einem privaten klimatisierten Fahrzeug"
+  ],
+  "included": [
+   "Abhol- und Rückfahrhilfe\nKlimatisierter Autoservice hin und zurück\nProfessioneller Reiseführer\nMineralwasserflaschen\nAlle Steuern"
+  ],
+  "notIncluded": []
+ },
+ "delhi-by-night-private-3-hour-luxury-tour": {
+  "title": "Delhi by Night: Private 3-stündige Luxustour",
+  "metaTitle": "Delhi by Night: Private 3-stündige Luxustour",
+  "metaDescription": "Genießen Sie einen erfrischenden Abend bei der Erkundung der ikonischen Sehenswürdigkeiten von Delhi.",
+  "shortDescription": "Genießen Sie einen erfrischenden Abend bei der Erkundung der ikonischen Sehenswürdigkeiten von Delhi",
+  "fullDescription": "Delhi by Night: Private 3-stündige Luxustour. Genießen Sie einen erfrischenden Abend bei der Erkundung der ikonischen Sehenswürdigkeiten von Delhi.\n\nErleben Sie die Magie von Delhi nach Einbruch der Dunkelheit bei dieser privaten 3-stündigen Luxus-Nachttour mit dem Auto, die für Reisende konzipiert ist, die die Stadt bequem, stilvoll und sicher erkunden möchten. Während die Lichter der Stadt zum Leben erwachen, genießen Sie eine entspannte Fahrt durch Delhis ikonischste Wahrzeichen, wunderschön beleuchtet vor dem Nachthimmel.\n\nBeginnen Sie Ihren Abend mit einer Fahrt vorbei am majestätischen India Gate, das in sanftem Licht erstrahlt und von lebendiger Atmosphäre umgeben ist. Fahren Sie weiter zum Rashtrapati Bhavan und den prächtigen Regierungsgebäuden entlang des Rajpath, die atemberaubende nächtliche Ausblicke und perfekte Fotogelegenheiten bieten.\n\nErkunden Sie die lebhaften Straßen von Connaught Place, wo koloniale Architektur auf modernes Stadtleben trifft. Genießen Sie eine gemütliche Fahrt durch belebte Märkte und elegante Alleen und erleben Sie Delhis einzigartige Mischung aus Geschichte und zeitgenössischem Charme.\n\nReisen Sie in einem privaten luxuriösen klimatisierten Auto mit einem professionellen Fahrer, der für eine reibungslose und komfortable Fahrt während der gesamten Tour sorgt. Ihr fachkundiger Reiseführer teilt faszinierende Geschichten, lokale Einblicke und versteckte Details über die Stadt mit Ihnen und macht dies zu einem unvergesslichen und bereichernden Erlebnis.\n\nMit flexibler Abholung und Rückfahrt von Ihrem Hotel oder bevorzugten Ort in Delhi NCR ist diese Tour perfekt für Paare, Familien und Alleinreisende, die auf der Suche nach einer sicheren und erstklassigen Art sind, Delhi bei Nacht zu entdecken.\n\n### Inklusive\n\n- Abholung und Rückfahrt im privaten Luxusauto\n- Eintrittsgebühren (falls Option gewählt)\n- Professioneller privater Reiseführer\n- Kostenlose Wasserflaschen\n- Mahlzeiten (falls Option gewählt)\n- Alle Steuern und Gebühren\n\n### Nicht inklusive\n\n- Persönliche Ausgaben\n- Trinkgelder",
+  "highlights": [
+   "Genießen Sie einen erfrischenden Abend bei der Erkundung der ikonischen Sehenswürdigkeiten von Delhi"
+  ],
+  "included": [
+   "Abholung und Rückfahrt im privaten Luxusauto\nEintrittsgebühren (falls Option gewählt)\nProfessioneller privater Reiseführer\nKostenlose Wasserflaschen\nMahlzeiten (falls Option gewählt)\nAlle Steuern und Gebühren"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben\nTrinkgelder"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
