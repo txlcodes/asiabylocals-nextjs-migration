@@ -20238,6 +20238,82 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "delhi-connaught-place-heritage-walk-with-markets": {
+  "title": "Delhi: Connaught Place Kulturerbe-Spaziergang mit Märkten",
+  "metaTitle": "Delhi: Connaught Place, Märkte, Kulturerbe",
+  "metaDescription": "Spüren Sie den Pulsschlag Delhis, während Sie das geschäftige Connaught Place erkunden.",
+  "shortDescription": "Spüren Sie den Pulsschlag Delhis, während Sie das geschäftige Connaught Place erkunden.",
+  "fullDescription": "Beginnen Sie Ihre Tour mit einem warmen traditionellen Tee, angereichert mit Zimt, Kardamom, und Safran. Treffen Sie Ihren Guide, und erhalten Sie eine kurze Einführung in die Geschichte von Connaught Place und Delhis koloniales Design.\n\nGehen Sie zum Central Park, dem Herzen von Connaught Place. Hören Sie Geschichten über Sir Edwin Lutyens' Vision, und wie CP zum kommerziellen Herzen Delhis wurde.\n\nErkunden Sie das astronomische Observatorium aus dem 18. Jahrhundert, Jantar Mantar, erbaut von Maharaja Jai Singh II. Entdecken Sie, wie riesige Instrumente verwendet wurden, um Sterne zu verfolgen und Sonnenfinsternisse vorherzusagen.\n\nBesuchen Sie einen der ältesten Tempel Delhis, den Hanuman-Tempel, von dem man glaubt, dass er auf das Mahabharata zurückgeht. Erleben Sie den Kontrast zwischen heiliger Tradition und kolonialem Kreisverkehr.\n\nSchlendern Sie durch den Janpath-Markt, berühmt für Kunsthandwerk, Textilien, Bücher, und ausgefallene Souvenirs. Erfahren Sie, wie sich CP zu einem Zentrum für Shopping und Straßenkultur entwickelte.\n\nGehen Sie zum mystischen Stufenbrunnen aus dem 14. Jahrhundert, Agrasen ki Baoli, verborgen zwischen Hochhäusern. Hören Sie Geschichten über Wasserschutz, Gemeinschaftsleben, und Geistergeschichten.\n\nKommen Sie an ikonischen Orten wie dem Odeon Cinema und dem Regal Cinema vorbei. Halten Sie bei FabIndia für hochwertige indische Textilien und Kunsthandwerk.\n\nBeenden Sie Ihren Spaziergang bei Starbucks Connaught Place, untergebracht in einem historischen Gebäude. Genießen Sie Kaffee und Erfrischungen, und machen Sie eine Pause, während Sie über den Spaziergang nachdenken.",
+  "highlights": [
+   "Spüren Sie den Pulsschlag Delhis, während Sie das geschäftige Connaught Place erkunden"
+  ],
+  "included": [
+   "Professioneller lokaler Guide",
+   "Begrüßungstee (Mischung aus Zimt, Kardamom, Safran)",
+   "Eintrittsticket zu Jantar Mantar",
+   "Spaziergang durch Connaught Place, den Janpath-Markt, und Agrasen ki Baoli"
+  ],
+  "notIncluded": [
+   "Persönliche Einkaufsausgaben",
+   "Essen und Getränke (außer Begrüßungstee)"
+  ]
+ },
+ "10day-private-luxury-golden-triangle-with": {
+  "title": "10-tägige private Luxus-Golden-Triangle-Tour mit Khajuraho und Varanasi",
+  "metaTitle": "Luxus-Golden-Triangle in 10 Tagen, Khajuraho, Varanasi",
+  "metaDescription": "Mit nur 10 Tagen können Sie viel sehen und erleben.",
+  "shortDescription": "Mit nur 10 Tagen können Sie viel sehen und erleben.",
+  "fullDescription": "Genießen Sie problemlose Besichtigungen, und erkunden Sie die wichtigsten Attraktionen der Region mit dieser privaten 10-tägigen Tour. Tauchen Sie ein, indem Sie die ikonischen Denkmäler von Delhi, Agra, Jaipur, Khajuraho, und Varanasi besuchen, mit 9 Nächten Unterbringung je nach gewählter Option.",
+  "highlights": [
+   "Mit nur 10 Tagen können Sie viel sehen und erleben"
+  ],
+  "included": [
+   "9 Nächte Unterbringung (falls die Tour mit der Option inklusive Hotels gebucht wird)",
+   "Transport im privaten klimatisierten Fahrzeug mit Fahrer",
+   "Abholung und Rückbringung zum Hotel oder Flughafen",
+   "Alle Besichtigungen mit privaten lokalen Guides",
+   "Tägliches Frühstück im Hotel (falls die Tour mit der Option inklusive Hotels gebucht wird)",
+   "Mineralwasserflaschen während der Reisen",
+   "Batteriebus-Fahrt zwischen dem Taj Mahal-Parkplatz und dem Taj Mahal-Denkmal"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren zu den Denkmälern",
+   "Kameragebühren an Denkmälern",
+   "Trinkgeld (optional)",
+   "Reiseversicherung und Flug-/Zugtickets",
+   "Medizinische Versorgung",
+   "Mittag- und Abendessen",
+   "Trinkgeld für Fahrer und Guide",
+   "Persönliche Ausgaben wie Telefonanrufe, Tablets, Getränke, usw.",
+   "Alles, was nicht in den Einschlüssen genannt ist"
+  ]
+ },
+ "private-5-day-golden-triangle-tour-from-delhi": {
+  "title": "Private 5-tägige Golden-Triangle-Tour von Delhi, Agra, und Jaipur",
+  "metaTitle": "Delhi-Agra-Jaipur: Golden Triangle in 5 Tagen",
+  "metaDescription": "Erkunden Sie Alt- und Neu-Delhi mit einer aufregenden Rikscha-Fahrt in Chandni Chowk.",
+  "shortDescription": "Erkunden Sie Alt- und Neu-Delhi mit einer aufregenden Rikscha-Fahrt in Chandni Chowk.",
+  "fullDescription": "Erkunden Sie das Golden Triangle Indiens auf einer privaten 5-tägigen Tour durch Delhi, Agra, und Jaipur. Besuchen Sie das Taj Mahal, Festungen, und Paläste mit einem Guide, privatem Auto, und problemlosem Reiseplan. Die Tour beinhaltet 4 Nächte Unterbringung (falls die Hoteloption ausgewählt wird) und 1 Mittagessen während der Besichtigung von Agra.",
+  "highlights": [
+   "Erkunden Sie Alt- und Neu-Delhi mit einer aufregenden Rikscha-Fahrt in Chandni Chowk"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Flughafen/Hotel in Delhi, Agra, und Jaipur",
+   "5 Tage privater klimatisierter Transport",
+   "Rikscha-Fahrt in Alt-Delhi",
+   "E-Fahrzeugfahrt zum und vom Taj Mahal-Parkplatz",
+   "Geführte Besichtigung mit lokalen Experten",
+   "1 Mittagessen während der Besichtigung von Agra",
+   "4 Nächte Unterbringung (falls die Hoteloption ausgewählt wird)",
+   "Tägliches Frühstück im Hotel (falls die Hoteloption ausgewählt wird)",
+   "Mineralwasser in Flaschen während der gesamten Reise",
+   "Alle Mautgebühren, Parkgebühren, und Steuern"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren zu den Denkmälern (65 USD pro Person)",
+   "Trinkgeld und Zuwendungen"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

@@ -20238,6 +20238,82 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ]
  },
+ "delhi-connaught-place-heritage-walk-with-markets": {
+  "title": "Delhi : promenade patrimoniale à Connaught Place avec les marchés",
+  "metaTitle": "Delhi : Connaught Place, marchés, patrimoine",
+  "metaDescription": "Ressentez le pouls de Delhi en explorant l'animé Connaught Place.",
+  "shortDescription": "Ressentez le pouls de Delhi en explorant l'animé Connaught Place.",
+  "fullDescription": "Commencez votre visite par un thé traditionnel chaud infusé à la cannelle, à la cardamome, et au safran. Rencontrez votre guide, et obtenez une brève introduction à l'histoire de Connaught Place et au design colonial de Delhi.\n\nMarchez jusqu'à Central Park, le cœur de Connaught Place. Écoutez les histoires de la vision de Sir Edwin Lutyens, et comment CP est devenu le cœur commercial de Delhi.\n\nExplorez l'observatoire astronomique du 18e siècle, Jantar Mantar, construit par le Maharaja Jai Singh II. Découvrez comment des instruments géants étaient utilisés pour suivre les étoiles et prédire les éclipses.\n\nVisitez l'un des plus anciens temples de Delhi, le temple Hanuman, dont on pense qu'il remonte au Mahabharata. Découvrez le contraste entre tradition sacrée et cercle colonial.\n\nPromenez-vous dans le marché de Janpath, célèbre pour son artisanat, ses textiles, ses livres, et ses souvenirs originaux. Apprenez comment CP est devenu un pôle de shopping et de culture de rue.\n\nMarchez jusqu'au mystique puits à degrés du 14e siècle, Agrasen ki Baoli, caché entre les gratte-ciels. Écoutez des histoires de conservation de l'eau, de vie communautaire, et de légendes fantomatiques.\n\nPassez devant des lieux emblématiques comme l'Odeon Cinema et le Regal Cinema. Arrêtez-vous chez FabIndia pour des textiles et artisanats indiens de haute qualité.\n\nTerminez votre promenade au Starbucks de Connaught Place, logé dans un bâtiment patrimonial. Profitez d'un café et de rafraîchissements, et faites une pause en repensant à la promenade.",
+  "highlights": [
+   "Ressentez le pouls de Delhi en explorant l'animé Connaught Place"
+  ],
+  "included": [
+   "Guide local professionnel",
+   "Thé de bienvenue (mélange de cannelle, cardamome, safran)",
+   "Billet d'entrée à Jantar Mantar",
+   "Visite à pied de Connaught Place, du marché de Janpath, et d'Agrasen ki Baoli"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles de shopping",
+   "Nourriture et boissons (autres que le thé de bienvenue)"
+  ]
+ },
+ "10day-private-luxury-golden-triangle-with": {
+  "title": "Circuit privé de luxe de 10 jours dans le triangle d'or avec Khajuraho et Varanasi",
+  "metaTitle": "Triangle d'or de luxe en 10 jours, Khajuraho, Varanasi",
+  "metaDescription": "En seulement 10 jours, vous pouvez voir et faire beaucoup de choses.",
+  "shortDescription": "En seulement 10 jours, vous pouvez voir et faire beaucoup de choses.",
+  "fullDescription": "Profitez de visites sans tracas, et explorez les principales attractions de la région avec ce circuit privé de 10 jours. Immergez-vous en visitant les monuments emblématiques de Delhi, Agra, Jaipur, Khajuraho, et Varanasi, avec 9 nuits d'hébergement incluses selon l'option choisie.",
+  "highlights": [
+   "En seulement 10 jours, vous pouvez voir et faire beaucoup de choses"
+  ],
+  "included": [
+   "9 nuits d'hébergement (si le circuit est réservé avec l'option incluant les hôtels)",
+   "Transport en véhicule privé climatisé avec chauffeur",
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Toutes les visites avec des guides locaux privés",
+   "Petit-déjeuner quotidien à l'hôtel (si le circuit est réservé avec l'option incluant les hôtels)",
+   "Bouteilles d'eau minérale pendant les trajets",
+   "Navette électrique entre le parking du Taj Mahal et le monument du Taj Mahal"
+  ],
+  "notIncluded": [
+   "Frais d'entrée aux monuments",
+   "Frais de caméra aux monuments",
+   "Pourboires (facultatifs)",
+   "Assurance voyage et billets d'avion/train",
+   "Soins médicaux",
+   "Déjeuner et dîner",
+   "Pourboire du chauffeur et du guide",
+   "Dépenses personnelles comme appels téléphoniques, tablettes, boissons, etc.",
+   "Tout ce qui n'est pas mentionné dans les inclusions"
+  ]
+ },
+ "private-5-day-golden-triangle-tour-from-delhi": {
+  "title": "Circuit privé de 5 jours dans le triangle d'or depuis Delhi, Agra, et Jaipur",
+  "metaTitle": "Delhi-Agra-Jaipur : triangle d'or en 5 jours",
+  "metaDescription": "Explorez le Vieux et le Nouveau Delhi avec une balade palpitante en rickshaw à Chandni Chowk.",
+  "shortDescription": "Explorez le Vieux et le Nouveau Delhi avec une balade palpitante en rickshaw à Chandni Chowk.",
+  "fullDescription": "Explorez le triangle d'or de l'Inde lors d'un circuit privé de 5 jours à Delhi, Agra, et Jaipur. Visitez le Taj Mahal, forts, et palais avec un guide, une voiture privée, et un itinéraire sans tracas. Le circuit inclut 4 nuits d'hébergement (si l'option hôtel est sélectionnée) et 1 déjeuner lors des visites à Agra.",
+  "highlights": [
+   "Explorez le Vieux et le Nouveau Delhi avec une balade palpitante en rickshaw à Chandni Chowk"
+  ],
+  "included": [
+   "Prise en charge et retour à l'aéroport/l'hôtel à Delhi, Agra, et Jaipur",
+   "5 jours de transport privé climatisé",
+   "Balade en rickshaw dans le Vieux Delhi",
+   "Trajet en véhicule électrique vers et depuis le parking du Taj Mahal",
+   "Visites guidées avec des experts locaux",
+   "1 déjeuner lors des visites à Agra",
+   "4 nuits d'hébergement (si l'option hôtel est sélectionnée)",
+   "Petit-déjeuner quotidien à l'hôtel (si l'option hôtel est sélectionnée)",
+   "Eau minérale en bouteille tout au long du voyage",
+   "Tous les péages, frais de stationnement, et taxes"
+  ],
+  "notIncluded": [
+   "Frais d'entrée aux monuments (65 USD par personne)",
+   "Pourboires et gratifications"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
