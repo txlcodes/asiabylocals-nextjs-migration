@@ -22946,6 +22946,63 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses d'urgence"
   ]
  },
+ "delhi-old-delhi-walking-tour-with-rickshaw-ride": {
+  "title": "Delhi : visite à pied du Vieux Delhi avec balade en rickshaw",
+  "metaTitle": "Delhi : visite à pied du Vieux Delhi",
+  "metaDescription": "Promenez-vous à travers les ruelles et marchés du Vieux Delhi.",
+  "shortDescription": "Promenez-vous à travers les ruelles et marchés du Vieux Delhi.",
+  "fullDescription": "Delhi : visite à pied du Vieux Delhi avec balade en rickshaw. Promenez-vous à travers les ruelles et marchés du Vieux Delhi.\n\nCommencez par une brève introduction à Chandni Chowk, l'un des marchés les plus anciens et les plus animés de Delhi. Posez le contexte historique, et expliquez l'importance de la zone.\n\n1. Jama Masjid : commencez la visite à pied en vous dirigeant vers la Jama Masjid, l'une des plus grandes mosquées de l'Inde. Explorez son architecture époustouflante, et découvrez son histoire.\n\n2. Kinari Bazaar : vivez le marché vibrant de Kinari Bazaar, connu pour ses accessoires de mariage.\n\n3. Paranthe Wali Gali, et goûtez à de traditionnels parathas indiens (pains plats farcis).\n\n4. Chandni Chowk : vivez les rues animées de Chandni Chowk en rickshaw. Laissez votre guide vous emmener à travers les ruelles étroites, et découvrez l'atmosphère chaotique mais charmante.\n\n5. Fort Rouge : explorez le Fort Rouge, un site du patrimoine mondial de l'UNESCO. Découvrez son architecture moghole, et son rôle dans l'histoire indienne.\n\n6. Khari Baoli, le plus grand marché de gros d'épices d'Asie. Découvrez les vues et les odeurs de ce marché vibrant.\n\n7. Église St. James : visitez l'église St. James, l'une des plus anciennes églises de Delhi, et découvrez son importance historique.\n\nTerminez la visite par un retour au point de rencontre initial.\n\n**Ce qui est inclus**\nPrise en charge et retour au point de rencontre\nGuide touristique professionnel\nBalade en rickshaw dans le Vieux Delhi\nBouteille d'eau\nToutes les taxes et le stationnement\n\n**Non inclus**\nPourboires",
+  "highlights": [
+   "Promenez-vous à travers les ruelles et marchés du Vieux Delhi"
+  ],
+  "included": [
+   "Prise en charge et retour au point de rencontre",
+   "Guide touristique professionnel",
+   "Balade en rickshaw dans le Vieux Delhi",
+   "Bouteille d'eau",
+   "Toutes les taxes et le stationnement"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "new-delhi-red-fort-entry-ticket-with-optional-add": {
+  "title": "New Delhi : billet d'entrée au Fort Rouge avec options supplémentaires",
+  "metaTitle": "New Delhi : billet d'entrée au Fort Rouge",
+  "metaDescription": "Remontez le temps en explorant le Fort Rouge, un site du patrimoine mondial de l'UNESCO.",
+  "shortDescription": "Remontez le temps en explorant le Fort Rouge, un site du patrimoine mondial de l'UNESCO.",
+  "fullDescription": "New Delhi : billet d'entrée au Fort Rouge avec options supplémentaires. Remontez le temps en explorant le Fort Rouge, un site du patrimoine mondial de l'UNESCO.\n\nExplorez le Fort Rouge à New Delhi, un site du patrimoine mondial de l'UNESCO, et découvrez son architecture moghole époustouflante et son importance historique. Visitez la porte de Lahore, le Naubat Khana, le Diwan-i-Aam, le Diwan-i-Khas, le Mumtaz Mahal, et le Zafar Mahal.\n\nCommencez à la porte de Lahore, l'entrée principale, l'un des éléments les plus emblématiques du fort, et symbole de sa grandeur. De là, dirigez-vous vers le Naubat Khana (maison des tambours), où jouaient autrefois les musiciens royaux.\n\nEnsuite, visitez le Diwan-i-Aam (salle des audiences publiques), un grand espace ouvert où l'empereur tenait sa cour et s'adressait au public. Ne manquez pas le Diwan-i-Khas (salle des audiences privées), une chambre magnifiquement ornée où l'empereur rencontrait les officiels et dignitaires.\n\nLe Mumtaz Mahal et le Zafar Mahal sont également des attractions clés, présentant le mélange de styles architecturaux moghols et ultérieurs. Explorez les musées du fort, qui exposent des artefacts de l'ère moghole et de la rébellion de 1857.\n\nUne visite du fort prend généralement 1 heure, et engager un guide peut enrichir votre expérience en offrant des perspectives plus approfondies sur l'histoire et l'importance des différentes structures.\n\n**En bref** : le Fort Rouge à New Delhi est l'un des monuments moghols les plus emblématiques de l'Inde, construit en 1648 par l'empereur Shah Jahan lorsqu'il a transféré sa capitale d'Agra à Delhi. Construit à partir de massifs murs en grès rouge s'étendant sur plus de 2 km, le fort a servi de résidence principale aux empereurs moghols pendant près de 200 ans. À l'intérieur, vous trouverez de magnifiques structures comme le Diwan-i-Aam (salle des audiences publiques) et le Diwan-i-Khas (salle des audiences privées), présentant un travail de marbre complexe et une architecture de style persan. Aujourd'hui, il est également un symbole de l'indépendance de l'Inde, le Premier ministre y hissant le drapeau national chaque année le jour de l'Indépendance.\n\nVotre visite commence généralement à la grande porte de Lahori, où vous rencontrez votre guide, et commencez à explorer la riche histoire et l'architecture du fort. Après avoir découvert les principales cours et palais, vous pouvez éventuellement continuer vers la Jama Masjid voisine, l'une des plus grandes mosquées de l'Inde, connue pour sa cour impressionnante et ses vues panoramiques, ou faire une promenade à travers Chandni Chowk.\n\n**Ce qui est inclus**\nGuide touristique professionnel\nEntrée sans tracas\nBalade en rickshaw\nPrise en charge et retour à l'hôtel (si l'option est sélectionnée)\nBillets d'entrée (si l'option est sélectionnée)\nToutes les taxes et frais",
+  "highlights": [
+   "Remontez le temps en explorant le Fort Rouge, un site du patrimoine mondial de l'UNESCO"
+  ],
+  "included": [
+   "Guide touristique professionnel",
+   "Entrée sans tracas",
+   "Balade en rickshaw",
+   "Prise en charge et retour à l'hôtel (si l'option est sélectionnée)",
+   "Billets d'entrée (si l'option est sélectionnée)",
+   "Toutes les taxes et frais"
+  ],
+  "notIncluded": []
+ },
+ "from-delhiagrajaipur-half-day-private-shopping": {
+  "title": "Depuis Delhi/Agra/Jaipur : visite shopping privée en demi-journée",
+  "metaTitle": "Delhi-Agra-Jaipur : shopping privé demi-journée",
+  "metaDescription": "Visitez les galeries d'art et d'artisanat pour le meilleur de l'art indien.",
+  "shortDescription": "Visitez les galeries d'art et d'artisanat pour le meilleur de l'art indien.",
+  "fullDescription": "Depuis Delhi/Agra/Jaipur : visite shopping privée en demi-journée. Visitez les galeries d'art et d'artisanat pour le meilleur de l'art indien.\n\nPrise en charge à votre hôtel à Delhi, Agra, et Jaipur par un guide touristique local/expert shopping, et un chauffeur, qui discuteront de vos intérêts, puis vous emmèneront pour un circuit shopping de 3 heures dans les boutiques et marchés de la ville les mieux adaptés à vos besoins. Vous verrez rapidement à quel point c'est une excellente destination shopping !\n\nChandni Chowk a été construit au XIXe siècle par l'empereur moghol Shahajahan, et était habité par les familles aisées de l'époque. Aujourd'hui, c'est l'un des marchés de gros les plus connus du pays pour les textiles, les produits électroniques, et les montres.\n\n**Khari Baoli**\nKhari Baoli est une rue de Delhi, en Inde, connue pour son commerce de gros en épicerie, et le plus grand marché de gros d'épices d'Asie, vendant toutes sortes d'épices, de noix, d'herbes, et de produits alimentaires comme le riz et le thé.\n\n**Le Dilli Haat et le golden arcade cottage emporium**\nC'est une entreprise qui fabrique et vend des tapis, de l'artisanat, et des objets patrimoniaux de l'Inde. Elle offre l'occasion non seulement de découvrir et partager le patrimoine indien d'antan, mais aussi d'acheter des articles tels que des tapis, des châles en pashmina, de la soie, des artefacts dorés, des reproductions d'art islamique, et des miniatures.\n\nAprès toute la visite, vous serez déposé à l'endroit de votre choix.\n\n**Ce qui est inclus**\nPrise en charge et retour inclus\nGuide touristique privé\nVoiture privée climatisée\nEau en bouteille\nToutes les taxes et frais de stationnement",
+  "highlights": [
+   "Visitez les galeries d'art et d'artisanat pour le meilleur de l'art indien"
+  ],
+  "included": [
+   "Prise en charge et retour inclus",
+   "Guide touristique privé",
+   "Voiture privée climatisée",
+   "Eau en bouteille",
+   "Toutes les taxes et frais de stationnement"
+  ],
+  "notIncluded": []
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

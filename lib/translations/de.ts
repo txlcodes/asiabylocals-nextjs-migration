@@ -22946,6 +22946,63 @@ export const DE_TOURS: Record<string, TourT> = {
    "Notfallkosten"
   ]
  },
+ "delhi-old-delhi-walking-tour-with-rickshaw-ride": {
+  "title": "Delhi: Wandertour durch Alt-Delhi mit Rikscha-Fahrt",
+  "metaTitle": "Delhi: Wandertour durch Alt-Delhi",
+  "metaDescription": "Gehen Sie durch die Gassen und Märkte von Alt-Delhi.",
+  "shortDescription": "Gehen Sie durch die Gassen und Märkte von Alt-Delhi.",
+  "fullDescription": "Delhi: Wandertour durch Alt-Delhi mit Rikscha-Fahrt. Gehen Sie durch die Gassen und Märkte von Alt-Delhi.\n\nBeginnen Sie mit einer kurzen Einführung in Chandni Chowk, einen der ältesten und belebtesten Märkte Delhis. Setzen Sie den historischen Kontext, und erklären Sie die Bedeutung des Gebiets.\n\n1. Jama Masjid: Beginnen Sie die Wandertour, indem Sie sich zur Jama Masjid begeben, einer der größten Moscheen Indiens. Erkunden Sie die atemberaubende Architektur, und erfahren Sie mehr über ihre Geschichte.\n\n2. Kinari Bazaar: Erleben Sie den lebendigen Markt von Kinari Bazaar, bekannt für Hochzeitsaccessoires.\n\n3. Paranthe Wali Gali, und probieren Sie traditionelle indische Paranthas (gefüllte Fladenbrote).\n\n4. Chandni Chowk: Erleben Sie die belebten Straßen von Chandni Chowk in einer Rikscha. Lassen Sie sich von Ihrem Guide durch enge Gassen führen, und erleben Sie die chaotische, aber charmante Atmosphäre.\n\n5. Red Fort: Erkunden Sie das Red Fort, eine UNESCO-Weltkulturerbestätte. Erfahren Sie mehr über seine Mogul-Architektur, und seine Rolle in der indischen Geschichte.\n\n6. Khari Baoli, Asiens größter Gewürz-Großhandelsmarkt. Erleben Sie die Anblicke und Düfte dieses lebendigen Marktes.\n\n7. St.-James-Kirche: Besuchen Sie die St.-James-Kirche, eine der ältesten Kirchen Delhis, und erfahren Sie mehr über ihre historische Bedeutung.\n\nBeenden Sie die Tour mit einer Rückfahrt zum ursprünglichen Treffpunkt.\n\n**Was ist enthalten**\nAbholung und Rückfahrt zum Treffpunkt\nProfessioneller Reiseführer\nRikscha-Fahrt in Alt-Delhi\nWasserflasche\nAlle Steuern und Parkgebühren\n\n**Nicht enthalten**\nTrinkgelder",
+  "highlights": [
+   "Gehen Sie durch die Gassen und Märkte von Alt-Delhi"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Treffpunkt",
+   "Professioneller Reiseführer",
+   "Rikscha-Fahrt in Alt-Delhi",
+   "Wasserflasche",
+   "Alle Steuern und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "new-delhi-red-fort-entry-ticket-with-optional-add": {
+  "title": "New Delhi: Eintrittskarte für das Red Fort mit optionalen Erweiterungen",
+  "metaTitle": "New Delhi: Eintrittskarte für das Red Fort",
+  "metaDescription": "Reisen Sie in der Zeit zurück, während Sie das Red Fort erkunden, eine UNESCO-Weltkulturerbestätte.",
+  "shortDescription": "Reisen Sie in der Zeit zurück, während Sie das Red Fort erkunden, eine UNESCO-Weltkulturerbestätte.",
+  "fullDescription": "New Delhi: Eintrittskarte für das Red Fort mit optionalen Erweiterungen. Reisen Sie in der Zeit zurück, während Sie das Red Fort erkunden, eine UNESCO-Weltkulturerbestätte.\n\nErkunden Sie das Red Fort in New Delhi, eine UNESCO-Weltkulturerbestätte, und erfahren Sie mehr über seine beeindruckende Mogul-Architektur und historische Bedeutung. Besuchen Sie das Lahore-Tor, das Naubat Khana, das Diwan-i-Aam, das Diwan-i-Khas, den Mumtaz Mahal, und den Zafar Mahal.\n\nBeginnen Sie am Lahore-Tor, dem Haupteingang, einem der ikonischsten Merkmale der Festung, und Symbol ihrer Erhabenheit. Von dort geht es weiter zum Naubat Khana (Trommelhaus), wo einst königliche Musiker auftraten.\n\nAls Nächstes besuchen Sie das Diwan-i-Aam (Halle der öffentlichen Audienzen), einen großartigen offenen Raum, in dem der Kaiser Hof hielt und sich an die Öffentlichkeit wandte. Verpassen Sie nicht das Diwan-i-Khas (Halle der privaten Audienzen), eine wunderschön geschmückte Kammer, in der der Kaiser Beamte und Würdenträger empfing.\n\nDer Mumtaz Mahal und der Zafar Mahal sind ebenfalls wichtige Attraktionen, die die Mischung aus Mogul- und späteren Architekturstilen zeigen. Erkunden Sie die Museen der Festung, die Artefakte aus der Mogul-Ära und der Rebellion von 1857 zeigen.\n\nEin Besuch der Festung dauert normalerweise 1 Stunde, und das Buchen eines Guides kann Ihr Erlebnis bereichern, indem er tiefere Einblicke in die Geschichte und Bedeutung der verschiedenen Strukturen bietet.\n\n**Kurz gesagt**: Das Red Fort in New Delhi ist eines von Indiens ikonischsten Mogul-Denkmälern, erbaut 1648 von Kaiser Shah Jahan, als er seine Hauptstadt von Agra nach Delhi verlegte. Erbaut aus massiven roten Sandsteinmauern, die sich über 2 km erstrecken, diente die Festung fast 200 Jahre lang als Hauptresidenz der Mogulkaiser. Im Inneren finden Sie wunderschöne Strukturen wie das Diwan-i-Aam (Halle der öffentlichen Audienzen) und das Diwan-i-Khas (Halle der privaten Audienzen), die kunstvolle Marmorarbeiten und Architektur im persischen Stil zeigen. Heute ist es auch ein Symbol für Indiens Unabhängigkeit, da der Premierminister hier jedes Jahr am Unabhängigkeitstag die Nationalflagge hisst.\n\nIhr Besuch beginnt normalerweise am großartigen Lahori-Tor, wo Sie Ihren Guide treffen, und mit der Erkundung der reichen Geschichte und Architektur der Festung beginnen. Nach der Entdeckung der Hauptinnenhöfe und Paläste können Sie optional weiter zur nahegelegenen Jama Masjid gehen, einer der größten Moscheen Indiens, bekannt für ihren beeindruckenden Innenhof und Panoramablicke, oder einen Spaziergang durch Chandni Chowk machen.\n\n**Was ist enthalten**\nProfessioneller geführter Rundgang\nProblemloser Eintritt\nRikscha-Fahrt\nAbholung und Rückfahrt zum Hotel (falls Option gewählt wird)\nEintrittskarten (falls Option gewählt wird)\nAlle Steuern und Gebühren",
+  "highlights": [
+   "Reisen Sie in der Zeit zurück, während Sie das Red Fort erkunden, eine UNESCO-Weltkulturerbestätte"
+  ],
+  "included": [
+   "Professioneller geführter Rundgang",
+   "Problemloser Eintritt",
+   "Rikscha-Fahrt",
+   "Abholung und Rückfahrt zum Hotel (falls Option gewählt wird)",
+   "Eintrittskarten (falls Option gewählt wird)",
+   "Alle Steuern und Gebühren"
+  ],
+  "notIncluded": []
+ },
+ "from-delhiagrajaipur-half-day-private-shopping": {
+  "title": "Ab Delhi/Agra/Jaipur: private Halbtages-Shopping-Tour",
+  "metaTitle": "Delhi-Agra-Jaipur: privates Shopping, halber Tag",
+  "metaDescription": "Besuchen Sie Kunst- und Kunsthandwerksgalerien für das Beste der indischen Kunst.",
+  "shortDescription": "Besuchen Sie Kunst- und Kunsthandwerksgalerien für das Beste der indischen Kunst.",
+  "fullDescription": "Ab Delhi/Agra/Jaipur: private Halbtages-Shopping-Tour. Besuchen Sie Kunst- und Kunsthandwerksgalerien für das Beste der indischen Kunst.\n\nAbholung von Ihrem Hotel in Delhi, Agra, und Jaipur durch einen örtlichen Reiseführer/Shopping-Experten, und einen Fahrer, die Ihre Interessen besprechen, und Sie dann auf eine 3-stündige Shopping-Tour zu den Geschäften und Märkten der Stadt mitnehmen, die am besten zu Ihren Bedürfnissen passen. Sie werden schnell sehen, was für ein großartiges Shopping-Ziel dies ist!\n\nChandni Chowk wurde im 19. Jahrhundert vom Mogulkaiser Shahajahan erbaut, und von den wohlhabenden Familien der damaligen Zeit bewohnt. Heute ist es einer der bekanntesten Großhandelsmärkte des Landes für Textilien, elektronische Waren, und Uhren.\n\n**Khari Baoli**\nKhari Baoli ist eine Straße in Delhi, Indien, bekannt für ihren Großhandel mit Lebensmitteln, und Asiens größten Gewürz-Großhandelsmarkt, der alle Arten von Gewürzen, Nüssen, Kräutern, und Lebensmitteln wie Reis und Tee verkauft.\n\n**Der Dilli Haat und das Golden Arcade Cottage Emporium**\nDies ist ein Unternehmen, das Teppiche, Kunsthandwerk, und Kulturerbe-Artikel aus Indien herstellt und verkauft. Es bietet die Gelegenheit, nicht nur das indische Erbe vergangener Tage zu sehen und zu teilen, sondern auch Artikel wie Teppiche, Pashmina-Schals, Seide, vergoldete Artefakte, Reproduktionen islamischer Kunst, und Miniaturen zu kaufen.\n\nNach der gesamten Tour werden Sie an Ihrem gewünschten Ort abgesetzt.\n\n**Was ist enthalten**\nAbholung und Rückfahrt inklusive\nPrivater Reiseführer\nPrivates klimatisiertes Auto\nWasser in Flaschen\nAlle Steuern und Parkgebühren",
+  "highlights": [
+   "Besuchen Sie Kunst- und Kunsthandwerksgalerien für das Beste der indischen Kunst"
+  ],
+  "included": [
+   "Abholung und Rückfahrt inklusive",
+   "Privater Reiseführer",
+   "Privates klimatisiertes Auto",
+   "Wasser in Flaschen",
+   "Alle Steuern und Parkgebühren"
+  ],
+  "notIncluded": []
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

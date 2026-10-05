@@ -22946,6 +22946,63 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos de emergencia"
   ]
  },
+ "delhi-old-delhi-walking-tour-with-rickshaw-ride": {
+  "title": "Delhi: tour a pie por la Vieja Delhi con paseo en rickshaw",
+  "metaTitle": "Delhi: tour a pie por la Vieja Delhi",
+  "metaDescription": "Pasee por los callejones y mercados de la Vieja Delhi.",
+  "shortDescription": "Pasee por los callejones y mercados de la Vieja Delhi.",
+  "fullDescription": "Delhi: tour a pie por la Vieja Delhi con paseo en rickshaw. Pasee por los callejones y mercados de la Vieja Delhi.\n\nComience con una breve introducción a Chandni Chowk, uno de los mercados más antiguos y concurridos de Delhi. Establezca el contexto histórico, y explique la importancia de la zona.\n\n1. Jama Masjid: comience el tour a pie dirigiéndose a la Jama Masjid, una de las mezquitas más grandes de la India. Explore su impresionante arquitectura, y aprenda sobre su historia.\n\n2. Kinari Bazaar: experimente el vibrante mercado de Kinari Bazaar, conocido por sus artículos para bodas.\n\n3. Paranthe Wali Gali, y pruebe algunos paranthas indios tradicionales (panes planos rellenos).\n\n4. Chandni Chowk: experimente las bulliciosas calles de Chandni Chowk en rickshaw. Deje que el guía lo lleve por estrechos callejones, y presencie el ambiente caótico pero encantador.\n\n5. Fuerte Rojo: explore el Fuerte Rojo, un sitio del Patrimonio Mundial de la UNESCO. Aprenda sobre su arquitectura mogol, y su papel en la historia de la India.\n\n6. Khari Baoli, el mercado mayorista de especias más grande de Asia. Experimente las vistas y olores de este vibrante mercado.\n\n7. Iglesia de St. James: visite la iglesia de St. James, una de las iglesias más antiguas de Delhi, y aprenda sobre su importancia histórica.\n\nTermine el tour con un traslado de regreso al punto de encuentro original.\n\n**Qué incluye**\nRecogida y regreso al punto de encuentro\nGuía turístico profesional\nPaseo en rickshaw en la Vieja Delhi\nBotella de agua\nTodos los impuestos y el estacionamiento\n\n**No incluye**\nPropinas",
+  "highlights": [
+   "Pasee por los callejones y mercados de la Vieja Delhi"
+  ],
+  "included": [
+   "Recogida y regreso al punto de encuentro",
+   "Guía turístico profesional",
+   "Paseo en rickshaw en la Vieja Delhi",
+   "Botella de agua",
+   "Todos los impuestos y el estacionamiento"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "new-delhi-red-fort-entry-ticket-with-optional-add": {
+  "title": "Nueva Delhi: entrada al Fuerte Rojo con extras opcionales",
+  "metaTitle": "Nueva Delhi: entrada al Fuerte Rojo",
+  "metaDescription": "Retroceda en el tiempo mientras explora el Fuerte Rojo, un sitio del Patrimonio Mundial de la UNESCO.",
+  "shortDescription": "Retroceda en el tiempo mientras explora el Fuerte Rojo, un sitio del Patrimonio Mundial de la UNESCO.",
+  "fullDescription": "Nueva Delhi: entrada al Fuerte Rojo con extras opcionales. Retroceda en el tiempo mientras explora el Fuerte Rojo, un sitio del Patrimonio Mundial de la UNESCO.\n\nExplore el Fuerte Rojo en Nueva Delhi, un sitio del Patrimonio Mundial de la UNESCO, y aprenda sobre su impresionante arquitectura mogol e importancia histórica. Visite la Puerta de Lahore, el Naubat Khana, el Diwan-i-Aam, el Diwan-i-Khas, el Mumtaz Mahal, y el Zafar Mahal.\n\nComience en la Puerta de Lahore, la entrada principal, una de las características más icónicas del fuerte, y símbolo de su grandeza. Desde allí, diríjase hacia el Naubat Khana (Casa de los Tambores), donde los músicos reales actuaban antiguamente.\n\nA continuación, visite el Diwan-i-Aam (Salón de las Audiencias Públicas), un gran espacio abierto donde el emperador celebraba su corte y se dirigía al público. No se pierda el Diwan-i-Khas (Salón de las Audiencias Privadas), una cámara bellamente adornada donde el emperador se reunía con funcionarios y dignatarios.\n\nEl Mumtaz Mahal y el Zafar Mahal también son atracciones clave, que muestran la mezcla de estilos arquitectónicos mogoles y posteriores. Explore los museos del fuerte, que exhiben artefactos de la era mogol y la rebelión de 1857.\n\nUna visita al fuerte toma típicamente 1 hora, y contratar a un guía puede enriquecer su experiencia al ofrecer una comprensión más profunda de la historia e importancia de las diversas estructuras.\n\n**En resumen**: el Fuerte Rojo en Nueva Delhi es uno de los monumentos mogoles más icónicos de la India, construido en 1648 por el emperador Shah Jahan cuando trasladó su capital de Agra a Delhi. Construido con enormes muros de arenisca roja que se extienden por más de 2 km, el fuerte sirvió como residencia principal de los emperadores mogoles durante casi 200 años. En el interior, encontrará hermosas estructuras como el Diwan-i-Aam (Salón de las Audiencias Públicas) y el Diwan-i-Khas (Salón de las Audiencias Privadas), que muestran intrincado trabajo en mármol y arquitectura de estilo persa. Hoy en día, también es un símbolo de la independencia de la India, ya que el Primer Ministro iza la bandera nacional aquí cada año en el Día de la Independencia.\n\nSu visita generalmente comienza en la gran Puerta de Lahori, donde conoce a su guía, y comienza a explorar la rica historia y arquitectura del fuerte. Después de descubrir los principales patios y palacios, puede continuar opcionalmente hacia la cercana Jama Masjid, una de las mezquitas más grandes de la India, conocida por su impresionante patio y vistas panorámicas, o dar un paseo por Chandni Chowk.\n\n**Qué incluye**\nGuía turístico profesional\nEntrada sin complicaciones\nPaseo en rickshaw\nRecogida y regreso al hotel (si se selecciona esta opción)\nEntradas (si se selecciona esta opción)\nTodos los impuestos y cargos",
+  "highlights": [
+   "Retroceda en el tiempo mientras explora el Fuerte Rojo, un sitio del Patrimonio Mundial de la UNESCO"
+  ],
+  "included": [
+   "Guía turístico profesional",
+   "Entrada sin complicaciones",
+   "Paseo en rickshaw",
+   "Recogida y regreso al hotel (si se selecciona esta opción)",
+   "Entradas (si se selecciona esta opción)",
+   "Todos los impuestos y cargos"
+  ],
+  "notIncluded": []
+ },
+ "from-delhiagrajaipur-half-day-private-shopping": {
+  "title": "Desde Delhi/Agra/Jaipur: tour de compras privado de medio día",
+  "metaTitle": "Delhi-Agra-Jaipur: compras privadas medio día",
+  "metaDescription": "Visite galerías de arte y artesanía para lo mejor del arte de la India.",
+  "shortDescription": "Visite galerías de arte y artesanía para lo mejor del arte de la India.",
+  "fullDescription": "Desde Delhi/Agra/Jaipur: tour de compras privado de medio día. Visite galerías de arte y artesanía para lo mejor del arte de la India.\n\nRecogida en su hotel en Delhi, Agra, y Jaipur por un guía turístico local/experto en compras, y un conductor, que discutirán sus intereses, y luego lo llevarán a un tour de compras de 3 horas a las tiendas y mercados de la ciudad que mejor se adapten a sus necesidades. ¡Rápidamente verá qué gran destino de compras es este!\n\nChandni Chowk fue construido en el siglo XIX por el emperador mogol Shahajahan, y estaba habitado por las familias acomodadas de la época. Hoy en día es uno de los mercados mayoristas más conocidos del país para textiles, productos electrónicos, y relojes.\n\n**Khari Baoli**\nKhari Baoli es una calle en Delhi, India, conocida por su comercio mayorista de víveres, y el mercado mayorista de especias más grande de Asia, que vende todo tipo de especias, nueces, hierbas, y productos alimenticios como arroz y té.\n\n**El Dilli Haat y el Golden Arcade Cottage Emporium**\nEs una empresa que fabrica y vende alfombras, artesanías, y artículos patrimoniales de la India. Ofrece la oportunidad no solo de ver y compartir el patrimonio indio de épocas pasadas, sino también de comprar artículos como alfombras, chales de pashmina, seda, artefactos dorados, reproducciones de arte islámico, y miniaturas.\n\nDespués de todo el tour, será dejado en el lugar que desee.\n\n**Qué incluye**\nRecogida y regreso incluidos\nGuía turístico privado\nAuto privado con aire acondicionado\nAgua embotellada\nTodos los impuestos y tarifas de estacionamiento",
+  "highlights": [
+   "Visite galerías de arte y artesanía para lo mejor del arte de la India"
+  ],
+  "included": [
+   "Recogida y regreso incluidos",
+   "Guía turístico privado",
+   "Auto privado con aire acondicionado",
+   "Agua embotellada",
+   "Todos los impuestos y tarifas de estacionamiento"
+  ],
+  "notIncluded": []
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
