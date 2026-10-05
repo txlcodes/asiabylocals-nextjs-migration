@@ -21088,6 +21088,75 @@ export const ES_TOURS: Record<string, TourT> = {
    "Entradas al Jantar Mantar (su guía le ayudará a comprar los boletos)"
   ]
  },
+ "delhi-akshardham-temple-guided-tour-with-water": {
+  "title": "Delhi: tour guiado del templo Akshardham con espectáculo de agua y luces",
+  "metaTitle": "Delhi: templo Akshardham, espectáculo de agua y luces",
+  "metaDescription": "Visite uno de los templos más emblemáticos de Delhi después del atardecer.",
+  "shortDescription": "Visite uno de los templos más emblemáticos de Delhi después del atardecer.",
+  "fullDescription": "Delhi: tour guiado del templo Akshardham con espectáculo de agua y luces. Visite uno de los templos más emblemáticos de Delhi después del atardecer.\n\nDescubra la belleza del templo Akshardham en un tour guiado al atardecer, y viva una de las atracciones culturales más espectaculares de Delhi. Explore la impresionante arquitectura del templo, sus intrincados grabados, y su entorno tranquilo, mientras aprende sobre su historia e importancia espiritual con su guía experto.\n\nAl caer la noche, sea testigo del impresionante Espectáculo de Agua Sahaj Anand, donde luces, fuentes, música, y narración se unen en una actuación inolvidable. Perfecto para familias, parejas, y viajeros solos, esta experiencia ofrece una mezcla memorable de cultura, espiritualidad, y entretenimiento en uno de los monumentos más emblemáticos de Delhi.\n\n**Qué incluye**\nGuía profesional\nTransporte privado con aire acondicionado (si se selecciona)\nRecogida y regreso al hotel (si se selecciona)\nEntradas (si se seleccionan)\nAsistencia con los procedimientos de entrada\n\n**No incluye**\nGastos personales (por ejemplo, souvenirs, bocadillos, o alimentos adicionales)\nPropinas o gratificaciones",
+  "highlights": [
+   "Visite uno de los templos más emblemáticos de Delhi después del atardecer"
+  ],
+  "included": [
+   "Guía profesional",
+   "Transporte privado con aire acondicionado (si se selecciona)",
+   "Recogida y regreso al hotel (si se selecciona)",
+   "Entradas (si se seleccionan)",
+   "Asistencia con los procedimientos de entrada"
+  ],
+  "notIncluded": [
+   "Gastos personales (por ejemplo, souvenirs, bocadillos, o alimentos adicionales)",
+   "Propinas o gratificaciones"
+  ]
+ },
+ "journey-to-indias-heart-7-day-golden-triangle": {
+  "title": "Viaje al corazón de la India: escapada del Triángulo Dorado de 7 días",
+  "metaTitle": "Triángulo Dorado: escapada de 7 días",
+  "metaDescription": "Paseo en tuk-tuk en Delhi.",
+  "shortDescription": "Paseo en tuk-tuk en Delhi.",
+  "fullDescription": "Viaje al corazón de la India: escapada del Triángulo Dorado de 7 días. Paseo en tuk-tuk en Delhi.\n\n¡Experimente lo mejor del Triángulo Dorado de la India en solo 7 días! Admire maravillas arquitectónicas, explore mercados coloridos, y saboree los sabores auténticos de la cocina india. No se pierda esta aventura extraordinaria. ¡Reserve ahora!\n\n**Día 1: llegada a Delhi**\nLlegada al aeropuerto internacional de Delhi. Nuestro representante le dará una cálida bienvenida, y luego lo trasladará a su hotel previamente reservado para relajarse y superar el jet lag del largo vuelo, y adaptarse a nuestras condiciones climáticas. Noche en el hotel.\n\n**Día 2: visita a Delhi**\nPor la mañana, después del desayuno, en su tour de día completo por la ciudad de Delhi explorará Qutub Minar, la tumba de Humayun, el templo Bangla Sahib, el Templo del Loto, el templo Akshardham, India Gate, y un paseo en tuk-tuk por Chandni Chowk. Noche en el hotel.\n\n**Día 3: Delhi – Agra (230 km)**\nEsta mañana, disfrute del desayuno, después de lo cual será conducido a Agra. La ciudad de Agra también es famosa con el nombre de ciudad de los mármoles. A su llegada a Agra, registro en el hotel, y luego salida para explorar Mehtab Bagh. Después, disfrute del almuerzo, y visite también la tumba de Itimad-ud-Daulah (conocida como el Baby Taj). Más tarde, disfrute de las compras, y luego cena en un restaurante mogol. Después de la cena, noche en el hotel.\n\n**Día 4: visita a Agra**\nEl cuarto día de su tour del Triángulo Dorado de 6 noches y 7 días visitará el mundialmente famoso Taj Mahal. Después del desayuno, visita matutina al Taj Mahal al amanecer sin hacer fila, luego visita al Fuerte Rojo, seguida de un almuerzo en el restaurante mogol, y luego exploración de la tumba de Itimad-ud-Daulah (conocida como el Baby Taj). Por la tarde, podrá explorar los mercados locales de Agra, y comprar maravillosos souvenirs para su familia y amigos. Más tarde, disfrute de la cena, y noche en el hotel.\n\n**Día 5: Agra - Jaipur (245 km)**\nHoy, en el quinto día de su tour del Triángulo Dorado, después del desayuno, nuestro representante lo llevará a la ciudad de Jaipur. Visitará Fatehpur Sikri en el camino hacia la ciudad rosa. A su llegada a Jaipur, registro en el hotel, y tiempo para refrescarse o relajarse un poco. Por la tarde, podrá disfrutar de las compras, donde le encantará la amplia variedad de productos artesanales. Disfrute también de la cena en uno de los mejores restaurantes de la ciudad, donde podrá encontrar un excelente sabor rajput. Después de la cena, noche en el hotel.\n\n**Día 6: visita a Jaipur**\nDespués del desayuno, visitará el fuerte Amer. Después, visite el fuerte Jaigarh, donde podrá presenciar el cañón más grande sobre ruedas. Luego visite el Hawa Mahal, el City Palace, el Jantar Mantar, y otras atracciones famosas de la ciudad. Por la tarde, visite el palacio Jal Mahal. Más tarde, visite una fábrica de alfombras, y vea a las mujeres en su intrincado trabajo, o una fábrica de gemas, y vea el proceso de corte y pulido de las gemas. Noche en el hotel.\n\n**Día 7: Jaipur - Delhi (280 km)**\nAquí llega el final de su tour del Triángulo Dorado de 6 noches y 7 días con nosotros. Desayuno por la mañana, luego traslado al aeropuerto de Delhi, lo que tomará aproximadamente 4 horas desde Jaipur hasta el aeropuerto de Delhi, para abordar un vuelo hacia su destino de origen con dulces recuerdos del tour.\n\n**Qué incluye**\nAlojamiento de 6 noches en habitación doble compartida (si se elige la opción todo incluido de la tarifa escalonada)\nDesayuno buffet diario\nRecogida y regreso al aeropuerto en auto con aire acondicionado exclusivo con chófer\nAsistencia en la llegada y la salida\nGuía privado de habla inglesa\nPaseo en carro tirado por caballos desde el estacionamiento del Taj Mahal hasta el monumento\nPaseo en jeep desde el estacionamiento del fuerte Amer hasta la entrada\nTodas las visitas y traslados en un auto privado con aire acondicionado exclusivo con chófer experimentado\nPeajes, estacionamiento, gastos del conductor\nBotellas de agua mineral disponibles en el auto\nTodos los demás impuestos aplicables\n\n**No incluye**\nCualquier gasto por circunstancias desafortunadas como cancelación/retraso de vuelo/aumento de tarifa u otra razón similar o catástrofes naturales\nGastos de naturaleza personal, es decir, lavandería, llamadas telefónicas, bebidas suaves/alcohólicas, comidas, propinas y gratificaciones, etc.\nTarifas de entrada a monumentos\nTarifa de cámara en monumentos\nCualquier cosa no mencionada anteriormente en las \"inclusiones\"\nSuplemento aplicable para el período de Año Nuevo/Navidad",
+  "highlights": [
+   "Paseo en tuk-tuk en Delhi"
+  ],
+  "included": [
+   "Alojamiento de 6 noches en habitación doble compartida (si se elige la opción todo incluido de la tarifa escalonada)",
+   "Desayuno buffet diario",
+   "Recogida y regreso al aeropuerto en auto con aire acondicionado exclusivo con chófer",
+   "Asistencia en la llegada y la salida",
+   "Guía privado de habla inglesa",
+   "Paseo en carro tirado por caballos desde el estacionamiento del Taj Mahal hasta el monumento",
+   "Paseo en jeep desde el estacionamiento del fuerte Amer hasta la entrada",
+   "Todas las visitas y traslados en un auto privado con aire acondicionado exclusivo con chófer experimentado",
+   "Peajes, estacionamiento, gastos del conductor",
+   "Botellas de agua mineral disponibles en el auto",
+   "Todos los demás impuestos aplicables"
+  ],
+  "notIncluded": [
+   "Cualquier gasto por circunstancias desafortunadas como cancelación/retraso de vuelo/aumento de tarifa u otra razón similar o catástrofes naturales",
+   "Gastos de naturaleza personal, es decir, lavandería, llamadas telefónicas, bebidas suaves/alcohólicas, comidas, propinas y gratificaciones, etc.",
+   "Tarifas de entrada a monumentos",
+   "Tarifa de cámara en monumentos",
+   "Cualquier cosa no mencionada anteriormente en las \"inclusiones\"",
+   "Suplemento aplicable para el período de Año Nuevo/Navidad"
+  ]
+ },
+ "yoga-class-in-delhi-by-yoga-tours-in-india": {
+  "title": "Clase de yoga en Delhi por Yoga Tours in India",
+  "metaTitle": "Delhi: clase de yoga",
+  "metaDescription": "Las mejores clases de yoga en Delhi.",
+  "shortDescription": "Las mejores clases de yoga en Delhi.",
+  "fullDescription": "Clase de yoga en Delhi por Yoga Tours in India. Las mejores clases de yoga en Delhi.\n\nPractique la atención plena y el autocuidado con nuestras clases de yoga en Delhi. Ubicadas en un entorno sereno y tranquilo, nuestras clases ofrecen un espacio seguro para que las personas se conecten consigo mismas y con su entorno. Nuestros instructores de yoga experimentados y certificados ofrecen una variedad de estilos de yoga para todos los niveles de experiencia, asegurando que cada persona tenga una práctica enriquecedora y personalizada.\n\nNuestras clases se centran en una variedad de elementos, incluyendo meditación, técnicas de respiración, y asanas. Con énfasis en la respiración, la conciencia corporal, y la relajación, los participantes se irán sintiéndose tranquilos, centrados, y renovados. Además de las clases regulares, también ofrecemos sesiones privadas y talleres para personas o grupos que buscan mejorar su práctica.\n\nÚnase a nosotros para una experiencia transformadora que lo dejará sintiéndose más conectado consigo mismo y con el mundo que lo rodea. Ya sea que sea nuevo en el yoga o un practicante experimentado, le damos la bienvenida a nuestra comunidad, y esperamos ayudarlo a encontrar su paz interior.\n\n**Qué incluye**\nAgua embotellada\nEsterilla de yoga\n\n**No incluye**\nPropinas",
+  "highlights": [
+   "Las mejores clases de yoga en Delhi"
+  ],
+  "included": [
+   "Agua embotellada",
+   "Esterilla de yoga"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
