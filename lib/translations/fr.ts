@@ -26230,6 +26230,69 @@ export const FR_TOURS: Record<string, TourT> = {
    "Nourriture et boissons"
   ]
  },
+ "old-new-delhi-private-tour-with-slum-visit": {
+  "title": "Visite privée du Vieux et du New Delhi avec visite d'un bidonville",
+  "metaTitle": "Delhi : Vieux et New Delhi, bidonville",
+  "metaDescription": "Profitez du meilleur du Vieux et du New Delhi, en un temps limité.",
+  "shortDescription": "Profitez du meilleur du Vieux et du New Delhi, en un temps limité.",
+  "fullDescription": "Visite privée du Vieux et du New Delhi avec visite d'un bidonville. Profitez du meilleur du Vieux et du New Delhi, en un temps limité.\n\nCommencez votre visite au Qutub Minar, site du patrimoine mondial de l'UNESCO. Explorez ce superbe minaret de 73 mètres de haut, construit au début du 13e siècle, et soyez émerveillé par ses sculptures ornées et sa splendeur architecturale.\n\nVisitez le temple du Lotus, réputé pour son architecture en forme de fleur. Ce lieu de culte bahá'í est une merveille architecturale et un havre paisible pour la méditation et la contemplation.\n\nArrêtez-vous à India Gate, un mémorial dédié aux hommes indiens ayant perdu la vie pendant la Première Guerre mondiale. Faites une promenade autour du monument et de ses magnifiques jardins.\n\nPassez devant le Rashtrapati Bhavan, résidence du président de l'Inde. Remarquez la majesté de ce bâtiment superbe et de ses jardins moghols parfaitement entretenus.\n\nVisitez la tombe de Humayun, site du patrimoine mondial de l'UNESCO. Émerveillez-vous devant cette magnifique tombe-jardin du 16e siècle, précurseur du Taj Mahal, à l'architecture moghole impeccable.\n\nPromenez-vous dans Sanjay Colony, un petit mais vibrant quartier de bidonville, lors d'une visite à pied accompagnée. Découvrez la vie quotidienne, l'entreprise locale, et les programmes communautaires, tout en promouvant un tourisme responsable.\n\nCommencez votre visite du Vieux Delhi par la Jama Masjid, la plus grande et la plus belle mosquée d'Inde. Montez au minaret pour une vue panoramique sur le Vieux Delhi.\n\nContinuez vers Chandni Chowk, un marché animé. Faites une balade en rickshaw, ou parcourez à pied ses ruelles bondées et vibrantes, avec boutiques et stands de street food.\n\n**Sri Digambar Jain Lal Mandir** : rendez-vous au plus ancien et au plus important temple jaïn de Delhi. C'est un lieu de prière important pour les jaïns.\n\n**Paranthe Wali Gali** : réputée pour ses savoureux parathas, cette ancienne rue propose une variété de pains farcis aux saveurs distinctes.\n\nMarchez jusqu'à Khari Baoli, le plus grand marché de gros d'épices d'Asie. Découvrez les couleurs et les parfums des épices, fruits secs, et herbes.\n\n**Fort Rouge** : visitez l'imposant Fort Rouge. Bien qu'une visite complète prenne plus de temps, vous pouvez apprécier son imposante architecture moghole et son importance historique depuis l'extérieur.\n\n**Gurudwara Sis Ganj Sahib** : visitez ce temple sikh historique à Chandni Chowk. Découvrez la cuisine communautaire (langar), et vivez les traditions sikhes de service et d'égalité.\n\nRetour à votre hôtel avec des souvenirs inoubliables de votre visite d'une journée complète.\nFin de la visite.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel\nTransport climatisé\nBalade en rickshaw dans le Vieux Delhi\nGuide touristique\nBouteille d'eau\nTous les frais de stationnement et taxes\n\n**Non inclus**\nNourriture et boissons\nPourboires",
+  "highlights": [
+   "Profitez du meilleur du Vieux et du New Delhi, en un temps limité"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Transport climatisé",
+   "Balade en rickshaw dans le Vieux Delhi",
+   "Guide touristique",
+   "Bouteille d'eau",
+   "Tous les frais de stationnement et taxes"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Pourboires"
+  ]
+ },
+ "delhi-old-and-new-delhi-city-private-guided-day": {
+  "title": "Delhi : excursion privée guidée d'une journée dans le Vieux et le New Delhi",
+  "metaTitle": "Delhi : Vieux et New Delhi, excursion privée",
+  "metaDescription": "India Gate : un arrêt rapide à cet emblématique mémorial de guerre.",
+  "shortDescription": "India Gate : un arrêt rapide à cet emblématique mémorial de guerre.",
+  "fullDescription": "Delhi : excursion privée guidée d'une journée dans le Vieux et le New Delhi. India Gate : un arrêt rapide à cet emblématique mémorial de guerre.\n\n**Programme du matin :**\n\n**Prise en charge à l'endroit désigné**\nLa visite commence généralement par une prise en charge confortable à votre hôtel, l'aéroport, ou un point de rendez-vous préétabli.\n\n**India Gate :**\nCommencez la visite à India Gate, un mémorial de guerre honorant les soldats indiens. Prenez le temps de faire des photos et de découvrir son importance historique.\n\n**Rashtrapati Bhavan et Rajpath :**\nPassez devant le Rashtrapati Bhavan, la résidence présidentielle, et parcourez le Rajpath, une avenue cérémonielle bordée de verdure et de bâtiments notables.\n\n**Temple du Lotus :**\nVisitez le temple du Lotus, un superbe lieu de culte bahá'í connu pour son architecture distinctive en forme de lotus et son atmosphère paisible.\n\n**Qutub Minar :**\nDirigez-vous vers le Qutub Minar, un impressionnant site du patrimoine mondial de l'UNESCO, présentant un majestueux minaret et des ruines anciennes. En raison de contraintes de temps, cette visite pourrait n'être qu'extérieure.\n\n**Tombe de Humayun :**\nPassez devant la tombe de Humayun, un magnifique mausolée de l'époque moghole, réputé pour sa beauté architecturale. Des vues extérieures et un bref aperçu historique peuvent être fournis.\n\n**Retour au point de dépôt**\nRetour à votre point de dépôt désigné, qui peut être votre hôtel, l'aéroport, ou un autre endroit convenu.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel\nGuide touristique privé\nFrais d'entrée aux monuments (si choisi en option)\nBouteille d'eau\nTout le stationnement et les taxes\n\n**Non inclus**\nNourriture et boissons",
+  "highlights": [
+   "India Gate : un arrêt rapide à cet emblématique mémorial de guerre"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Guide touristique privé",
+   "Frais d'entrée aux monuments (si choisi en option)",
+   "Bouteille d'eau",
+   "Tout le stationnement et les taxes"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons"
+  ]
+ },
+ "delhi-famous-temples-spiritual-sites-guided-tour": {
+  "title": "Delhi : visite guidée des temples célèbres et sites spirituels, en voiture",
+  "metaTitle": "Delhi : temples célèbres, sites spirituels",
+  "metaDescription": "Visitez les 5 principaux sites spirituels de Delhi lors d'une visite guidée confortable.",
+  "shortDescription": "Visitez les 5 principaux sites spirituels de Delhi lors d'une visite guidée confortable.",
+  "fullDescription": "Delhi : visite guidée des temples célèbres et sites spirituels, en voiture. Visitez les 5 principaux sites spirituels de Delhi lors d'une visite guidée confortable.\n\nDécouvrez le cœur spirituel de Delhi lors d'une visite touristique privée confortable, couvrant cinq des lieux de culte les plus emblématiques de la ville. Voyagez dans une voiture privée climatisée avec un guide local compétent, et explorez les riches traditions, l'histoire, l'architecture, et la diversité religieuse qui font de Delhi l'une des destinations culturelles les plus fascinantes de l'Inde.\n\nCette visite soigneusement conçue vous emmène au temple du Lotus, au temple d'Akshardham, au Birla Mandir (temple de Laxmi Narayan), au temple sikh Bangla Sahib (Gurudwara Bangla Sahib), et à la Jama Masjid, la plus grande mosquée d'Inde. Que vous soyez intéressé par l'histoire, l'architecture, la photographie, ou la spiritualité, cette expérience offre un voyage inoubliable à travers les sites religieux les plus célébrés de Delhi.\n\nCommencez votre visite au superbe temple du Lotus, l'un des lieux de culte bahá'ís les plus célèbres au monde. Sa structure unique en marbre en forme de lotus accueille des personnes de toutes religions, et est connue pour son atmosphère paisible et son architecture primée.\n\nContinuez vers le magnifique temple de Swaminarayan Akshardham, un chef-d'œuvre d'artisanat indien traditionnel. Admirez ses sculptures en pierre complexes, ses jardins magnifiquement aménagés, et découvrez les traditions spirituelles intemporelles de l'Inde. Votre guide expliquera le symbolisme, l'architecture, et l'importance culturelle du temple.\n\nEnsuite, visitez le Birla Mandir (temple de Laxmi Narayan), l'un des temples hindous les plus importants de Delhi. Dédié au Seigneur Vishnu et à la déesse Lakshmi, cet élégant temple est admiré pour ses magnifiques sculptures, son environnement paisible, et son importance historique.\n\nVotre voyage vous mène ensuite au temple sikh Bangla Sahib (Gurudwara Bangla Sahib), l'un des sanctuaires sikhs les plus sacrés d'Inde. Découvrez les valeurs sikhes d'égalité, de compassion, et de service désintéressé, tout en visitant la sereine salle de prière et le bassin d'eau sacré. Si vous le souhaitez, vous pouvez également découvrir la cuisine communautaire (Langar), où des repas gratuits sont servis quotidiennement à des milliers de visiteurs.\n\nTerminez votre visite spirituelle à la magnifique Jama Masjid, la plus grande mosquée d'Inde, et l'une des plus grandes réalisations architecturales de l'empire moghol. Construite par l'empereur Shah Jahan au 17e siècle, cette grande mosquée présente des minarets majestueux, des dômes élégants, et une vaste cour pouvant accueillir environ 25 000 fidèles. Votre guide partagera des histoires fascinantes sur son histoire, son architecture, et son rôle dans le Vieux Delhi.\n\nTout au long de la visite, votre guide expert fournira des commentaires captivants, des éclairages historiques, et des histoires locales qui donnent vie à chaque destination. Vous aurez de nombreuses occasions de prendre des photos mémorables, d'admirer une architecture remarquable, et de découvrir l'harmonie des diverses traditions religieuses de Delhi.\n\nQue vous visitiez Delhi pour la première fois ou que vous recherchiez une expérience culturelle plus approfondie, cette visite est la façon idéale d'explorer les sites spirituels les plus importants de la ville, en toute commodité et confort.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel/l'aéroport\nVoiture privée climatisée pour les visites, avec chauffeur\nGuide touristique expert agréé par le gouvernement\nBillets d'entrée aux monuments (si l'option est sélectionnée)\nBouteille d'eau minérale\nTous les péages et frais de stationnement\n\n**Non inclus**\nToute dépense personnelle",
+  "highlights": [
+   "Visitez les 5 principaux sites spirituels de Delhi lors d'une visite guidée confortable"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel/l'aéroport",
+   "Voiture privée climatisée pour les visites, avec chauffeur",
+   "Guide touristique expert agréé par le gouvernement",
+   "Billets d'entrée aux monuments (si l'option est sélectionnée)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
