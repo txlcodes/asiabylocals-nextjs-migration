@@ -6202,6 +6202,69 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "agra-fort-baby-taj-mehtab-bagh-express-ticket": {
+  "title": "Fuerte de Agra, Baby Taj, y Mehtab Bagh: boleto exprés con guía",
+  "metaTitle": "Agra: fuerte, Baby Taj, Mehtab Bagh, exprés",
+  "metaDescription": "Los boletos de alto valor le dan entrada exprés; sin espera ni filas.",
+  "shortDescription": "Los boletos de alto valor le dan entrada exprés; sin espera ni filas.",
+  "fullDescription": "Al reservar boletos con nosotros, asegurarmos su lugar y generaremos boletos de alto valor para usted, que se le entregarán en su teléfono móvil o se le entregarán a través de nuestro guía. Tendrá tranquilidad, ya que no tendrá que esperar ni hacer fila.\n\nComo sabemos que en la India la puntualidad siempre es un tema, prepararemos un boleto para usted que se puede usar en cualquier hora del día.\n\nTiene boletos reservados con anticipación para los tres lugares, o puede elegir un solo monumento.\nTambién le proporcionaremos un guía local que compartirá con usted la historia y le sugerirá lugares mágicos para tomar excelentes fotos, si se selecciona esa opción.\n\nTambién se ofrece un servicio de recogida y entrega si se selecciona esa opción.",
+  "highlights": [
+   "Los boletos de alto valor le dan entrada exprés; sin espera ni filas"
+  ],
+  "included": [
+   "Boletos de entrada de alto valor para el fuerte de Agra, el Baby Taj, y Mehtab Bagh (si se selecciona esa opción)",
+   "Tour guiado profesional",
+   "Recogida y entrega"
+  ],
+  "notIncluded": []
+ },
+ "from-delhi-taj-mahal-private-tour-by-car-with": {
+  "title": "Desde Delhi: tour privado al Taj Mahal en coche con tarifas de entrada",
+  "metaTitle": "Delhi-Agra: Taj Mahal privado, entrada incluida",
+  "metaDescription": "Explore el icónico Taj Mahal con un guía experto privado.",
+  "shortDescription": "Explore el icónico Taj Mahal con un guía experto privado.",
+  "fullDescription": "Comience su tour privado de día completo al Taj Mahal con una recogida entre las 3:00 y las 10:00 en su hotel o el aeropuerto en Delhi, Gurgaon, o Noida. Viaje en un cómodo vehículo con aire acondicionado para un trayecto pintoresco hacia Agra. A su llegada, conozca a su guía local experto, y evite las filas de boletos para explorar el mundialmente famoso Taj Mahal, sitio del Patrimonio Mundial de la UNESCO y símbolo perdurable del amor, construido por el emperador Shah Jahan en memoria de su esposa Mumtaz Mahal.\n\nDespués de admirar la obra maestra de mármol blanco, continúe hacia el fuerte de Agra, otro sitio de la UNESCO conocido por su impresionante arquitectura de arenisca roja y rica historia mogola. Luego haga una pausa para desayunar o almorzar en un hotel de 5 estrellas, dependiendo de su hora de recogida, y disfrute de una deliciosa comida en un entorno refinado.\n\nDespués de la comida, visite la encantadora Tumba de Itimad-Ud-Daulah, a menudo llamada el \"Baby Taj\" por su diseño similar y delicada artesanía. Concluya su memorable día con un cómodo viaje de regreso a Delhi, donde será dejado en su hotel, el aeropuerto, o cualquier lugar preferido.",
+  "highlights": [
+   "Explore el icónico Taj Mahal con un guía experto privado"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto",
+   "Coche privado con aire acondicionado y conductor profesional",
+   "Servicio de guía turístico en vivo en todos los lugares",
+   "Tarifas de entrada a los monumentos (si se selecciona esa opción)",
+   "Botella de agua de cortesía",
+   "Asignaciones del conductor",
+   "Todos los peajes, estacionamiento, e impuestos"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "Gastos personales",
+   "Propinas (opcional)"
+  ]
+ },
+ "2-day-all-inclusive-taj-mahal-agra-city-tour": {
+  "title": "Tour todo incluido de 2 días al Taj Mahal y la ciudad de Agra desde Bangalore",
+  "metaTitle": "Bangalore-Agra en 2 días: Taj Mahal, todo incluido",
+  "metaDescription": "Disfrute de un viaje de ida y vuelta todo incluido de Bangalore a Agra (Taj Mahal).",
+  "shortDescription": "Disfrute de un viaje de ida y vuelta todo incluido de Bangalore a Agra (Taj Mahal).",
+  "fullDescription": "Disfrute de su tour todo incluido de 2 días al Taj Mahal y la ciudad de Agra desde Bangalore. Visite el mundialmente famoso Taj Mahal, el fuerte de Agra, el Baby Taj, y el Jardín Mehtab para ver el Taj Mahal desde el otro lado del río Yamuna, con alojamiento de 5 estrellas incluido.",
+  "highlights": [
+   "Disfrute de un viaje de ida y vuelta todo incluido de Bangalore a Agra (Taj Mahal)"
+  ],
+  "included": [
+   "Transporte en vehículo privado con aire acondicionado",
+   "Recogida y traslado al hotel en Bangalore",
+   "Guía turístico en vivo",
+   "Boletos de avión de ida y vuelta en clase económica de Bangalore a Agra (si se selecciona esa opción)",
+   "Alojamiento de 5 estrellas (si se selecciona esa opción)",
+   "Boleto de entrada sin filas al Taj Mahal",
+   "Boleto de entrada sin filas para el fuerte de Agra",
+   "Boleto de entrada sin filas para el Baby Taj",
+   "Agua mineral",
+   "Cubrezapatos"
+  ],
+  "notIncluded": []
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
