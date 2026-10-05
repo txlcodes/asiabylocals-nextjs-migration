@@ -26698,6 +26698,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles : toute dépense personnelle telle que pourboires, souvenirs, repas ou boissons supplémentaires, et shopping.\nActivités optionnelles\nPourboires : pourboires pour le guide, le chauffeur ou le personnel de l'hôtel.\nRepas : déjeuner et dîner."
   ]
  },
+ "delhi-old-delhi-walking-food-and-heritage-tour": {
+  "title": "Delhi : circuit pédestre gastronomique et patrimonial à Old Delhi",
+  "metaTitle": "Delhi : circuit pédestre gastronomique et patrimonial à Old Delhi",
+  "metaDescription": "Explorez Old Delhi lors d'un circuit guidé avec un tour en rickshaw, du Fort Rouge au marché aux épices.",
+  "shortDescription": "Explorez Old Delhi lors d'un circuit guidé avec un tour en rickshaw",
+  "fullDescription": "Delhi : circuit pédestre gastronomique et patrimonial à Old Delhi. Explorez Old Delhi lors d'un circuit guidé avec un tour en rickshaw.\n\nCommencez votre circuit par une prise en charge à votre hôtel et dirigez-vous vers la Sunehri Masjid, également connue sous le nom de Mosquée Dorée, près du Fort Rouge. Marchez jusqu'au Fort Rouge et admirez la beauté de cette immense forteresse historique de Delhi.\n\nEnsuite, prenez un rickshaw à pédales pour rejoindre la Jama Masjid historique, construite sous la supervision de l'empereur Shah Jahan, qui a également fait construire le Taj Mahal à Agra pour sa bien-aimée épouse.\n\nPoursuivez votre voyage par une marche à travers les ruelles animées d'Old Delhi. Capturez des photos authentiques de Kinari Bazaar (la rue des mariages), Dariba Kalan (le marché aux bijoux) et Paranthe Wali Gali (la rue des restaurants indiens).\n\nRemontez dans le rickshaw pour aller goûter le célèbre masala chai (thé épicé) servi dans un kulhad (pot en argile). Puis, dirigez-vous vers le meilleur marché aux épices d'Asie pour découvrir les arômes riches et les couleurs vives des épices indiennes.\n\nEnfin, retournez au parking et rentrez à votre hôtel.\n\n### Ce qui est inclus\n\n- Prise en charge à l'hôtel\n- Visite de la Sunehri Masjid\n- Arrêt photo au Fort Rouge\n- Trajet en rickshaw jusqu'à la Jama Masjid\n- Visite de Kinari Bazaar\n- Visite de Dariba Kalan\n- Visite de Paranthe Wali Gali\n- Dégustation de masala chai dans un kulhad\n- Visite du marché aux épices\n- Retour à l'hôtel\n\n### Non inclus\n\n- Entrée au Fort Rouge",
+  "highlights": [
+   "Explorez Old Delhi lors d'un circuit guidé avec un tour en rickshaw"
+  ],
+  "included": [
+   "Prise en charge à l'hôtel\nVisite de la Sunehri Masjid\nArrêt photo au Fort Rouge\nTrajet en rickshaw jusqu'à la Jama Masjid\nVisite de Kinari Bazaar\nVisite de Dariba Kalan\nVisite de Paranthe Wali Gali\nDégustation de masala chai dans un kulhad\nVisite du marché aux épices\nRetour à l'hôtel"
+  ],
+  "notIncluded": [
+   "Entrée au Fort Rouge"
+  ]
+ },
+ "delhi-archeological-sites-tour": {
+  "title": "Circuit des sites archéologiques de Delhi",
+  "metaTitle": "Circuit des sites archéologiques de Delhi",
+  "metaDescription": "Visitez Qutub Minar, site du patrimoine mondial de l'UNESCO, et d'autres sites archéologiques de Delhi.",
+  "shortDescription": "Visitez Qutub Minar, site du patrimoine mondial de l'UNESCO",
+  "fullDescription": "Circuit des sites archéologiques de Delhi. Visitez Qutub Minar, site du patrimoine mondial de l'UNESCO.\n\nQutub Minar :\nCommencez votre circuit par Qutub Minar, site du patrimoine mondial de l'UNESCO. C'est une impressionnante tour de 73 mètres de haut construite au 12e siècle par Qutub-ud-din Aibak. Explorez le complexe environnant, qui comprend la mosquée Quwwat-ul-Islam et le pilier de fer de Delhi.\n\nParc archéologique de Mehrauli :\nCe parc est adjacent au complexe de Qutub Minar et abrite plusieurs structures historiques, dont le tombeau de Balban, le tombeau de Quli Khan et la mosquée Jamali Kamali.\n\nTombeau de Humayun :\nVisitez le complexe du tombeau de Humayun, un autre site du patrimoine mondial de l'UNESCO. Ce tombeau de l'ère moghole est celui de l'empereur moghol Humayun et est réputé pour sa magnifique architecture moghole et ses jardins luxuriants.\n\nPurana Qila (Vieux Fort) :\nExplorez Purana Qila, un fort historique que l'on pense dater de l'époque du Mahabharata. Il abrite la mosquée Qila-i-Kuhna et le Sher Mandal, une tour octogonale.\n\nFort Feroz Shah Kotla :\nVisitez les ruines du fort Feroz Shah Kotla, une ancienne citadelle construite par Feroz Shah Tughlaq. Le pilier d'Ashoka qui s'y trouve est l'une des attractions célèbres.\n\nFort Rouge (Lal Qila) :\nExplorez l'emblématique Fort Rouge, un autre site du patrimoine mondial de l'UNESCO. C'est un symbole de l'indépendance de l'Inde qui accueille les célébrations du Jour de l'Indépendance chaque année le 15 août. Flânez à travers son architecture impressionnante et ses jardins.\n\nJama Masjid :\nSitué près du Fort Rouge, Jama Masjid est l'une des plus grandes mosquées d'Inde. Grimpez à ses minarets pour une vue panoramique sur Old Delhi.\n\nRaj Ghat :\nRendez hommage au Raj Ghat, le mémorial du Mahatma Gandhi, où il a été incinéré. C'est un lieu paisible sur les rives de la rivière Yamuna.\n\nMusée commémoratif Indira Gandhi :\nCe musée est dédié à la vie de l'ancienne Première ministre de l'Inde, Indira Gandhi. Il est situé dans son ancienne résidence et offre un aperçu de sa vie et de ses contributions à l'Inde.\n\nMusée national de l'artisanat et des textiles (Crafts Museum) :\nSi vous avez le temps et un intérêt pour l'artisanat et l'art indiens, visitez ce musée pour découvrir une collection diversifiée d'artisanat et de textiles traditionnels.\n\nTemple du Lotus :\nBien qu'il ne s'agisse pas d'un site archéologique, le Temple du Lotus est une merveille architecturale moderne et un symbole d'harmonie religieuse. C'est une maison d'adoration bahá'íe avec son design en forme de lotus.\n\n### Ce qui est inclus\n\n- Voiture privée climatisée pour toute l'activité du circuit\n- Prise en charge et dépose\n- Guide en direct\n- Bouteille d'eau minérale\n- Tous les péages et frais de stationnement\n\n### Non inclus\n\n- Billets d'entrée aux monuments\n- Nourriture\n- Toute dépense personnelle",
+  "highlights": [
+   "Visitez Qutub Minar, site du patrimoine mondial de l'UNESCO"
+  ],
+  "included": [
+   "Voiture privée climatisée pour toute l'activité du circuit\nPrise en charge et dépose\nGuide en direct\nBouteille d'eau minérale\nTous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Billets d'entrée aux monuments\nNourriture\nToute dépense personnelle"
+  ]
+ },
+ "delhi-private-old-delhi-new-delhi-full-or-half": {
+  "title": "Delhi : circuit privé Old Delhi et New Delhi journée ou demi-journée",
+  "metaTitle": "Delhi : circuit privé Old Delhi et New Delhi journée/demi-journée",
+  "metaDescription": "Véhicule privé climatisé avec prise en charge à l'hôtel ou l'aéroport pour découvrir Old Delhi et New Delhi.",
+  "shortDescription": "Véhicule privé climatisé avec prise en charge et dépose à l'hôtel ou l'aéroport.",
+  "fullDescription": "Delhi : circuit privé Old Delhi et New Delhi journée ou demi-journée. Véhicule privé climatisé avec prise en charge et dépose à l'hôtel ou l'aéroport.\n\nMatin : explorez Old Delhi\n\n1. Jama Masjid\nL'une des plus grandes mosquées d'Inde (construite en 1656 par Shah Jahan)\nExplorez la grande cour, les dômes et les minarets\nMontée optionnelle au minaret pour des vues panoramiques\n\n2. Trajet en rickshaw à Chandni Chowk\nTraversez les bazars animés et les ruelles étroites\nDécouvrez les marchés aux épices, les stands de street food, les bijouteries et plus encore\n\n3. Fort Rouge (arrêt photo)\nFort moghol emblématique du 17e siècle (site du patrimoine mondial de l'UNESCO)\nAdmirez ses majestueuses murailles en grès rouge depuis l'extérieur\n\n4. Raj Ghat\nMémorial paisible dédié au Mahatma Gandhi\nPromenez-vous dans le jardin serein et l'espace de recueillement\n\nPause déjeuner (vers 13h00)\nSavourez une authentique cuisine indienne dans un restaurant local propre et adapté aux touristes (options végétariennes et non végétariennes disponibles)\n\nAprès-midi : découvrez New Delhi\n\n5. India Gate\nMémorial de guerre de 42 mètres de haut dédié aux soldats indiens\nExcellente occasion de photo au cœur de New Delhi\n\n6. Rashtrapati Bhavan et le Parlement (passage en voiture)\nAdmirez les grands bâtiments de l'ère coloniale depuis l'extérieur\nArrêtez-vous pour des photos et découvrez la capitale politique de l'Inde\n\n7. Tombeau de Humayun\nTombeau-jardin moghol du 16e siècle, précurseur du Taj Mahal\nSite du patrimoine mondial de l'UNESCO avec une magnifique architecture\n\n8. Qutub Minar\nLe plus haut minaret en brique du monde, entouré de ruines anciennes\nComplexe archéologique classé à l'UNESCO\n\n9. Temple du Lotus (maison d'adoration bahá'íe)\nAdmirez l'architecture moderne en forme de fleur (entrée gratuite)\nJardins paisibles et espaces de méditation\n\n10. Fin du circuit (vers 5h00-18h00)\nDépose à votre hôtel, à l'aéroport ou au lieu de votre choix\n\n### Ce qui est inclus\n\n- Prise en charge et dépose\n- Voiture climatisée privée pour toute l'activité du circuit\n- Guide touristique professionnel\n- Billets d'entrée (si l'option est sélectionnée)\n- Déjeuner (si l'option est sélectionnée)\n- Bouteille d'eau minérale\n- Tous les péages et frais de stationnement\n\n### Non inclus\n\n- Toute dépense personnelle",
+  "highlights": [
+   "Véhicule privé climatisé avec prise en charge et dépose à l'hôtel ou l'aéroport"
+  ],
+  "included": [
+   "Prise en charge et dépose\nVoiture climatisée privée pour toute l'activité du circuit\nGuide touristique professionnel\nBillets d'entrée (si l'option est sélectionnée)\nDéjeuner (si l'option est sélectionnée)\nBouteille d'eau minérale\nTous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
