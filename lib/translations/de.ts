@@ -26888,6 +26888,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten\nPersönliche Einkaufskosten\nTrinkgelder"
   ]
  },
+ "delhi-2-day-jim-corbett-safari-adventure": {
+  "title": "Delhi: 2-tägiges Jim-Corbett-Safari-Abenteuer",
+  "metaTitle": "Delhi: 2-tägiges Jim-Corbett-Safari-Abenteuer",
+  "metaDescription": "Entdecken Sie Bengaltiger und vielfältige Tierwelt in Corbett bei einem 2-tägigen Safari-Abenteuer ab Delhi.",
+  "shortDescription": "Entdecken Sie Bengaltiger und vielfältige Tierwelt in Corbett.",
+  "fullDescription": "Delhi: 2-tägiges Jim-Corbett-Safari-Abenteuer. Entdecken Sie Bengaltiger und vielfältige Tierwelt in Corbett.\n\nTag 1: Delhi zum Jim-Corbett-Nationalpark\n\nMorgen:\nAbfahrt von Delhi zum Jim-Corbett-Nationalpark. Genießen Sie eine malerische Fahrt durch die üppigen Landschaften von Uttarakhand.\n\nAnkunft:\nAnkunft im Jim-Corbett-Nationalpark und Check-in im Hotel. Frischen Sie sich auf und entspannen Sie sich nach der Reise.\n\nNachmittag:\nBrechen Sie zu einer Nachmittags-Jeep-Safari im Jim-Corbett-Nationalpark auf. Erkunden Sie die vielfältige Flora und Fauna des Parks und halten Sie Ausschau nach dem majestätischen Bengaltiger und anderen Wildtieren.\n\nAbend:\nRückkehr zum Resort und Genuss von Freizeit. Sie können die Annehmlichkeiten des Resorts wie Schwimmbad oder Spa nutzen oder einfach in der ruhigen Umgebung entspannen.\n\nAbendessen im Resort.\n\nTag 2: Erkundung und Abendsafari, Rückkehr nach Delhi\nWachen Sie früh auf für eine aufregende Jeep-Safari im Jim-Corbett-Nationalpark. Erkunden Sie die vielfältige Flora und Fauna des Parks und halten Sie Ausschau nach dem majestätischen Bengaltiger.\n\nSpäter Vormittag:\nRückkehr zum Resort, Auffrischung, köstliches Frühstück und Entspannung mit etwas Freizeit im Resort.\n\nNachmittag:\nCheck-out aus dem Resort und Beginn der Rückfahrt nach Delhi.\n\nSpäter Abend:\nAnkunft in Delhi. Ende der Tour mit wertvollen Erinnerungen an den Jim-Corbett-Nationalpark.\n\n### Inklusive\n\n- Eine Übernachtung\n- Ein Frühstück im Aufenthaltshotel\n- Ein Abendessen im Aufenthaltshotel\n- Transport in privatem, klimatisiertem Fahrzeug mit Fahrer\n- Fahrzeugtyp: für zwei Personen, viersitzige Limousine\n- Fahrzeugtyp: für drei bis vier Personen, sechssitziger SUV\n- Fahrzeugtyp: für fünf bis zehn Personen, zehnsitziger Van\n- Abholung und Rückfahrt vom Hotel oder Flughafen\n- Alle Steuern und Servicegebühren\n- Alle anfallenden Hotelsteuern\n- Flaschen Mineralwasser während der Fahrt im Auto\n- Persönliche Betreuung und Aufmerksamkeit\n\n### Nicht inklusive\n\n- Trinkgelder (optional)\n- Getränke und Wasserflaschen beim Abendessen\n- Mittagessen",
+  "highlights": [
+   "Entdecken Sie Bengaltiger und vielfältige Tierwelt in Corbett"
+  ],
+  "included": [
+   "Eine Übernachtung\nEin Frühstück im Aufenthaltshotel\nEin Abendessen im Aufenthaltshotel\nTransport in privatem, klimatisiertem Fahrzeug mit Fahrer\nFahrzeugtyp: für zwei Personen, viersitzige Limousine\nFahrzeugtyp: für drei bis vier Personen, sechssitziger SUV\nFahrzeugtyp: für fünf bis zehn Personen, zehnsitziger Van\nAbholung und Rückfahrt vom Hotel oder Flughafen\nAlle Steuern und Servicegebühren\nAlle anfallenden Hotelsteuern\nFlaschen Mineralwasser während der Fahrt im Auto\nPersönliche Betreuung und Aufmerksamkeit"
+  ],
+  "notIncluded": [
+   "Trinkgelder (optional)\nGetränke und Wasserflaschen beim Abendessen\nMittagessen"
+  ]
+ },
+ "from-delhi-4-day-manali-tour-with-transport": {
+  "title": "Ab Delhi: 4-tägige Manali-Tour mit Transport",
+  "metaTitle": "Ab Delhi: 4-tägige Manali-Tour mit Transport",
+  "metaDescription": "Entdecken Sie die Schönheit von Manali, ein Paradies für Flitterwöchner und Abenteuerlustige, auf einer 4-tägigen Tour.",
+  "shortDescription": "Entdecken Sie die Schönheit von Manali, ein Paradies für Flitterwöchner und Abenteuerlustige",
+  "fullDescription": "Ab Delhi: 4-tägige Manali-Tour mit Transport. Entdecken Sie die Schönheit von Manali, ein Paradies für Flitterwöchner und Abenteuerlustige.\n\n### Inklusive\n\n- Lokale Besichtigungen von Manali\n- Besuch des Hidimba-Tempels, des Vasistha-Muni-Tempels, Jagatsukh, der Arjun-Gufa (Höhle), des tibetischen Marktes\n- Ausflug ins Solang-Tal für Abenteueraktivitäten\n- Erkundung der Mall Road für Einkäufe und Restaurants\n- Tagesausflug zum Rohtang-La-Pass (falls geöffnet, gegen Direktzahlung)\n\n### Nicht inklusive\n\n- Trinkgelder\n- Persönliche Ausgaben\n- Aktivitätsgebühren\n- Hotelunterkunft",
+  "highlights": [
+   "Entdecken Sie die Schönheit von Manali, ein Paradies für Flitterwöchner und Abenteuerlustige"
+  ],
+  "included": [
+   "Lokale Besichtigungen von Manali\nBesuch des Hidimba-Tempels, des Vasistha-Muni-Tempels, Jagatsukh, der Arjun-Gufa (Höhle), des tibetischen Marktes\nAusflug ins Solang-Tal für Abenteueraktivitäten\nErkundung der Mall Road für Einkäufe und Restaurants\nTagesausflug zum Rohtang-La-Pass (falls geöffnet, gegen Direktzahlung)"
+  ],
+  "notIncluded": [
+   "Trinkgelder\nPersönliche Ausgaben\nAktivitätsgebühren\nHotelunterkunft"
+  ]
+ },
+ "delhi-old-delhi-half-day-private-guided-heritage": {
+  "title": "Delhi: privater geführter Kulturerbe-Halbtagesausflug in Old Delhi",
+  "metaTitle": "Delhi: privater geführter Kulturerbe-Halbtagesausflug",
+  "metaDescription": "Erkunden Sie Old Delhis lebendige Basare und jahrhundertealtes Mogul-Erbe bei einem privaten geführten Halbtagesausflug.",
+  "shortDescription": "Erkunden Sie Old Delhis lebendige Basare und jahrhundertealtes Mogul-Erbe",
+  "fullDescription": "Delhi: privater geführter Kulturerbe-Halbtagesausflug in Old Delhi. Erkunden Sie Old Delhis lebendige Basare und jahrhundertealtes Mogul-Erbe.\n\nReisen Sie zurück in der Zeit und tauchen Sie ein in das Herz von Indiens Hauptstadt mit diesem privaten geführten Halbtagesausflug durch Old Delhi. Ihre Reise beginnt mit einem herzlichen Empfang durch Ihren professionellen Reiseführer, der Sie durch die engen Gassen, historischen Stätten und belebten Märkte führt, die den Charme von Old Delhi ausmachen.\n\nStaunen Sie über die Pracht der Jama Masjid, einer der größten Moscheen Indiens, bevor Sie die lebendige Energie von Chandni Chowk erleben, wo jahrhundertealte Basare Gewürze, Textilien und traditionelle Süßigkeiten anbieten. Fahren Sie mit einer Rikscha durch die verwinkelten Gassen, um den Puls der Stadt wirklich zu spüren.\n\nBesuchen Sie das prächtige Rote Fort (Außenansicht), eine UNESCO-Welterbestätte und Symbol für Indiens reiche Mogul-Geschichte. Erfahren Sie unterwegs faszinierende Geschichten über Kaiser, Händler und Traditionen, die Delhis Kultur geprägt haben.\n\nDiese Tour ist vollständig anpassbar mit drei flexiblen Optionen: nur Führer, Führer plus Transport oder Rundum-Sorglos-Paket mit Mittagessen und Eintrittskarten. Ob Sie eine einfache Spaziergangserfahrung oder eine bequeme Erkundung mit Chauffeur wünschen, dieses Paket ist für jeden Reisenden geeignet.\n\nBeenden Sie Ihre Reise mit unvergesslichen Erinnerungen an Delhis Kulturerbe, lebendige Märkte und lebendige Geschichte. Perfekt für Reisende, die die Seele von Old Delhi in nur einem halben Tag erleben möchten.\n\n### Inklusive\n\n- Professioneller lokaler Reiseführer\n- Privater klimatisierter Transport (falls Option gewählt)\n- Abholung und Rückfahrt vom Hotel (falls Option gewählt)\n- Rikscha-Fahrt in Chandni Chowk (falls Rundum-Sorglos-Option gewählt)\n- Mittagessen (falls Rundum-Sorglos-Option gewählt)\n- Eintrittskarten für Denkmäler (falls Rundum-Sorglos-Option gewählt)\n\n### Nicht inklusive\n\n- Mahlzeiten und Getränke\n- Persönliche Ausgaben und Trinkgelder",
+  "highlights": [
+   "Erkunden Sie Old Delhis lebendige Basare und jahrhundertealtes Mogul-Erbe"
+  ],
+  "included": [
+   "Professioneller lokaler Reiseführer\nPrivater klimatisierter Transport (falls Option gewählt)\nAbholung und Rückfahrt vom Hotel (falls Option gewählt)\nRikscha-Fahrt in Chandni Chowk (falls Rundum-Sorglos-Option gewählt)\nMittagessen (falls Rundum-Sorglos-Option gewählt)\nEintrittskarten für Denkmäler (falls Rundum-Sorglos-Option gewählt)"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke\nPersönliche Ausgaben und Trinkgelder"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
