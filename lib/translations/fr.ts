@@ -5848,6 +5848,83 @@ export const FR_TOURS: Record<string, TourT> = {
    "Nourriture"
   ]
  },
+ "from-agra-sos-elephant-conservation-bear-rescue": {
+  "title": "Depuis Agra : excursion d'une journée au centre SOS de conservation des éléphants et de sauvetage des ours",
+  "metaTitle": "Agra : éléphants et ours, centre de conservation",
+  "metaDescription": "Découvrez les programmes de sauvetage et de réhabilitation des éléphants et des ours paresseux.",
+  "shortDescription": "Découvrez les programmes de sauvetage et de réhabilitation des éléphants et des ours paresseux.",
+  "fullDescription": "Découvrez le centre de conservation des éléphants et le centre de sauvetage des ours lors d'une visite d'une journée complète depuis Agra. Découvrez les histoires de ces animaux et les efforts de conservation pour les protéger, venus de différentes régions de l'Inde.\n\nVous serez pris en charge à votre hôtel à Agra et voyagerez vers le centre de conservation des éléphants et le centre de sauvetage des ours, ce qui prend une heure, car ces centres sont situés à la périphérie de la ville, à environ 30 km.\n\nIci, vous vous dirigerez vers une visite guidée par les agents d'éducation, et écouterez les histoires de ces grands animaux qui ont été sauvés de temples, cirques, processions, et villages où ils étaient utilisés pour le transport, les usages domestiques, et pour des promenades de divertissement de manière brutale.\n\nÉcoutez les histoires terribles de leurs vies passées. Regardez un documentaire lié aux programmes de sauvetage et à leurs traitements médicaux. Aucune interaction directe n'est autorisée pour les visiteurs ; vous visiterez ce centre en présence de vétérinaires, d'agents d'éducation, et de soignants.\n\nIci, vous pouvez également visiter le mémorial des éléphants, où sont conservés les souvenirs de ces éléphants qui, après avoir passé quelques années sous traitement médical.\n\nCe centre fonctionne comme une maison de retraite pour ces animaux, qui passent leurs dernières années dans les meilleurs soins. Ce centre offre également des emplois et mène divers programmes pour le bien-être de la communauté Kalandar, propriétaire de ces ours danseurs en Inde.\n\nCette installation fonctionne grâce à l'aide des visiteurs et de diverses ONG et soutiens privés, et les visiteurs doivent verser un petit don après la visite, utilisé pour les soins de ces animaux et les traitements médicaux. Après la visite, vous serez reconduit à votre hôtel à Agra.",
+  "highlights": [
+   "Découvrez les programmes de sauvetage et de réhabilitation des éléphants et des ours paresseux"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Voiture privée climatisée",
+   "Guide expert en faune sauvage",
+   "Visionnage du documentaire",
+   "Sanctuaire des ours (frais de don non inclus)",
+   "Sanctuaire des éléphants (frais de don non inclus)",
+   "Visite éducative avec des experts",
+   "Visite du mémorial des éléphants"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Dépenses personnelles",
+   "Frais d'entrée au parc",
+   "Frais de don des centres",
+   "Pourboires"
+  ]
+ },
+ "from-delhi-private-taj-mahal-and-agra-fort-same": {
+  "title": "Depuis Delhi : visite privée du Taj Mahal et du fort d'Agra, le jour même",
+  "metaTitle": "Delhi-Agra : Taj Mahal et fort, même jour",
+  "metaDescription": "Évitez les files d'attente ! Visite guidée du Taj Mahal avec photos et histoires captivantes.",
+  "shortDescription": "Évitez les files d'attente ! Visite guidée du Taj Mahal avec photos et histoires captivantes.",
+  "fullDescription": "Profitez d'un confort et d'une flexibilité ultimes dans votre voiture privée climatisée. Votre guide personnel vous conduira à travers les emblématiques sites moghols d'Agra, garantissant un voyage fluide et mémorable.\n\nCommencez votre aventure par une prise en charge pratique à votre hôtel ou à l'aéroport de Delhi, adaptée à votre emploi du temps. Optez pour un départ matinal pour admirer le majestueux Taj Mahal baigné d'une douce lumière du matin.\n\nÀ Agra, rencontrez votre guide local expert et dirigez-vous directement vers le superbe Taj Mahal, un site du patrimoine mondial de l'UNESCO. Plongez dans son histoire fascinante, son design, et les histoires derrière cette merveille architecturale.\n\nEnsuite, explorez l'exquis tombeau d'Itimad-ud-Daulah (Baby Taj), réputé pour son travail complexe d'incrustation de marbre et ses jardins sereins. Ensuite, détendez-vous et savourez un délicieux déjeuner dans un hôtel 5 étoiles.\n\nContinuez vers le grandiose fort d'Agra, un autre site de l'UNESCO. Promenez-vous à travers ses impressionnantes cours et salles historiques tandis que votre guide fait revivre l'histoire moghole.\n\nEnfin, profitez d'un trajet confortable de retour vers Delhi, avec une dépose pratique à l'endroit de votre choix. Une journée parfaite de découverte, conçue juste pour vous.",
+  "highlights": [
+   "Évitez les files d'attente ! Visite guidée du Taj Mahal avec photos et histoires captivantes"
+  ],
+  "included": [
+   "Prise en charge et retour à Delhi, Noida, Gurugram, Ghaziabad, Faridabad",
+   "Transport en voiture privée climatisée",
+   "Visite guidée du Taj Mahal et du fort d'Agra",
+   "Bouteille d'eau offerte",
+   "Frais d'entrée (si option sélectionnée)",
+   "Déjeuner (si option sélectionnée)"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Repas"
+  ]
+ },
+ "from-agra-taj-mahal-tour-w-elephant-conservation": {
+  "title": "Depuis Agra : visite du Taj Mahal avec conservation des éléphants",
+  "metaTitle": "Agra : Taj Mahal et conservation des éléphants",
+  "metaDescription": "Une confirmation sera fournie lors de la réservation.",
+  "shortDescription": "Une confirmation sera fournie lors de la réservation.",
+  "fullDescription": "Lancez-vous dans une visite en voiture privée depuis Agra pour explorer l'emblématique Taj Mahal et visiter le centre de conservation des éléphants. Votre voyage commence par une prise en charge pratique à l'endroit choisi, qu'il s'agisse de votre hôtel ou de la gare à Agra.\n\nCommencez votre journée en rencontrant votre guide, tôt le matin ou à l'heure de votre choix. Passez environ deux heures à découvrir la beauté du Taj Mahal, particulièrement époustouflant au lever du soleil si vous optez pour une visite matinale.\n\nEnsuite, visitez le fort d'Agra, une majestueuse forteresse en grès rouge construite par l'empereur Akbar en 1565 après J.-C., présentant un mélange d'architecture hindoue et d'Asie centrale.\n\nAprès avoir exploré le fort, profitez d'un délicieux petit-déjeuner ou déjeuner dans un restaurant local, savourant un mélange de saveurs locales et internationales (cette option est disponible si vous choisissez le forfait tout compris).\n\nVotre aventure continue avec une visite au centre de conservation et de soins des éléphants Wildlife SOS. Passez jusqu'à deux heures dans ce sanctuaire, où vous rencontrerez les éléphants et découvrirez les efforts du centre pour prendre soin de ces géants doux.",
+  "highlights": [
+   "Une confirmation sera fournie lors de la réservation"
+  ],
+  "included": [
+   "Véhicule privé climatisé avec chauffeur",
+   "Prise en charge et retour à l'hôtel",
+   "Chauffeur",
+   "Transport en véhicule climatisé",
+   "Guide touristique au Taj Mahal",
+   "Bouteille d'eau",
+   "Prise en charge proposée depuis la gare, l'hôtel, ou tout endroit à Agra",
+   "Déjeuner buffet (si option tout compris choisie)",
+   "Frais d'entrée aux monuments (si option tout compris choisie)",
+   "Frais d'entrée au centre de conservation des éléphants (si option tout compris choisie)"
+  ],
+  "notIncluded": [
+   "Toute boisson alcoolisée (disponible à l'achat)",
+   "Toute gratification",
+   "Toute dépense personnelle",
+   "Tout ce qui n'est pas mentionné dans les inclusions"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",

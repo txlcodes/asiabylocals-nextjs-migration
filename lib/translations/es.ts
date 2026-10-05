@@ -5848,6 +5848,83 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comida"
   ]
  },
+ "from-agra-sos-elephant-conservation-bear-rescue": {
+  "title": "Desde Agra: excursión de un día al centro SOS de conservación de elefantes y rescate de osos",
+  "metaTitle": "Agra: elefantes y osos, centro de conservación",
+  "metaDescription": "Conozca los programas de rescate y rehabilitación de elefantes y osos perezosos.",
+  "shortDescription": "Conozca los programas de rescate y rehabilitación de elefantes y osos perezosos.",
+  "fullDescription": "Descubra el Centro de Conservación de Elefantes y el Centro de Rescate de Osos en un tour de día completo desde Agra. Conozca las historias de estos animales y los esfuerzos de conservación para protegerlos de diferentes partes de la India.\n\nSerá recogido en su hotel en Agra y viajará al Centro de Conservación de Elefantes y al Centro de Rescate de Osos, lo que toma una hora, ya que estos centros se encuentran en las afueras de la ciudad, a unos 30 km.\n\nAquí se dirigirá a un recorrido guiado por los oficiales de educación y escuchará las historias de estos grandes animales que han sido rescatados de templos, circos, procesiones, y pueblos donde eran utilizados para transporte, usos domésticos, y para paseos de entretenimiento de manera brutal.\n\nEscuche las terribles historias sobre sus vidas pasadas. Vea un documental relacionado con los programas de rescate y sus tratamientos médicos. No se permiten interacciones directas para los visitantes; visitará este centro en presencia de veterinarios, oficiales de educación, y cuidadores.\n\nAquí también puede visitar el memorial de elefantes, donde se conservan los recuerdos de estos elefantes que, después de pasar algunos años bajo tratamiento médico.\n\nEste centro funciona como un hogar de retiro para estos animales, que pasan sus últimos años con el mejor cuidado. Además, este centro proporciona empleos y lleva a cabo diferentes programas para el bienestar de la comunidad Kalandar, propietaria de estos osos danzantes en la India.\n\nEsta instalación funciona con la ayuda de visitantes y de diferentes ONG y patrocinadores privados, y los visitantes deben pagar una pequeña donación después de la visita, que se usa para el cuidado de estos animales y los tratamientos médicos. Después de la visita, será llevado de regreso a su hotel en Agra.",
+  "highlights": [
+   "Conozca los programas de rescate y rehabilitación de elefantes y osos perezosos"
+  ],
+  "included": [
+   "Recogida y traslado al hotel",
+   "Coche privado con aire acondicionado",
+   "Guía experto en vida salvaje",
+   "Visualización del documental",
+   "Santuario de osos (tarifa de donación no incluida)",
+   "Santuario de elefantes (tarifa de donación no incluida)",
+   "Tour educativo con expertos",
+   "Visita al memorial de elefantes"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Gastos personales",
+   "Tarifas de entrada al parque",
+   "Tarifas de donación de los centros",
+   "Propinas"
+  ]
+ },
+ "from-delhi-private-taj-mahal-and-agra-fort-same": {
+  "title": "Desde Delhi: tour privado al Taj Mahal y al fuerte de Agra en el mismo día",
+  "metaTitle": "Delhi-Agra: Taj Mahal y fuerte, mismo día",
+  "metaDescription": "¡Evite las filas! Tour guiado al Taj Mahal con fotos e historias cautivadoras.",
+  "shortDescription": "¡Evite las filas! Tour guiado al Taj Mahal con fotos e historias cautivadoras.",
+  "fullDescription": "Disfrute de la máxima comodidad y flexibilidad en su coche privado con aire acondicionado. Su guía personal lo llevará por los icónicos lugares mogoles de Agra, garantizando un viaje fluido y memorable.\n\nComience su aventura con una cómoda recogida en su hotel en Delhi o en el aeropuerto, adaptada a su horario. Opte por un inicio temprano para ver el majestuoso Taj Mahal bañado en una suave luz matutina.\n\nEn Agra, conozca a su guía local experto y dirígese directamente al impresionante Taj Mahal, un sitio del Patrimonio Mundial de la UNESCO. Sumérjase en su fascinante historia, diseño, y las historias detrás de esta maravilla arquitectónica.\n\nA continuación, explore la exquisita Tumba de Itimad-ud-Daulah (Baby Taj), reconocida por su intrincado trabajo de incrustación en mármol y sus serenos jardines. Después, relájese y disfrute de un delicioso almuerzo en un hotel de 5 estrellas.\n\nContinúe hacia el grandioso fuerte de Agra, otro sitio de la UNESCO. Pasee por sus impresionantes patios y salones históricos mientras su guía da vida a la historia mogola.\n\nFinalmente, disfrute de un cómodo trayecto de regreso a Delhi, con una entrega práctica en el lugar de su elección. Un día perfecto de descubrimiento, diseñado solo para usted.",
+  "highlights": [
+   "¡Evite las filas! Tour guiado al Taj Mahal con fotos e historias cautivadoras"
+  ],
+  "included": [
+   "Recogida y traslado en Delhi, Noida, Gurugram, Ghaziabad, Faridabad",
+   "Transporte en coche privado con aire acondicionado",
+   "Tour guiado al Taj Mahal y al fuerte de Agra",
+   "Botella de agua de cortesía",
+   "Tarifas de entrada (si se selecciona esa opción)",
+   "Almuerzo (si se selecciona esa opción)"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Comidas"
+  ]
+ },
+ "from-agra-taj-mahal-tour-w-elephant-conservation": {
+  "title": "Desde Agra: tour al Taj Mahal con conservación de elefantes",
+  "metaTitle": "Agra: Taj Mahal y conservación de elefantes",
+  "metaDescription": "Se proporcionará una confirmación al reservar.",
+  "shortDescription": "Se proporcionará una confirmación al reservar.",
+  "fullDescription": "Embárquese en un tour en coche privado desde Agra para explorar el icónico Taj Mahal y visitar el Centro de Conservación de Elefantes. Su viaje comienza con una cómoda recogida en el lugar elegido, ya sea su hotel o la estación de tren en Agra.\n\nComience su día conociendo a su guía, ya sea temprano en la mañana o a la hora que prefiera. Pase alrededor de dos horas descubriendo la belleza del Taj Mahal, especialmente impresionante al amanecer si opta por un tour temprano.\n\nA continuación, visite el fuerte de Agra, una majestuosa fortaleza de arenisca roja construida por el emperador Akbar en el año 1565 d. C., que muestra una mezcla de arquitectura hindú y de Asia Central.\n\nDespués de explorar el fuerte, disfrute de un delicioso desayuno o almuerzo en un restaurante local, saboreando una mezcla de sabores locales e internacionales (esta opción está disponible si elige el paquete todo incluido).\n\nSu aventura continúa con una visita al Centro de Conservación y Cuidado de Elefantes de Wildlife SOS. Pase hasta dos horas en este santuario, donde conocerá a los elefantes y aprenderá sobre los esfuerzos del centro para cuidar a estos gentiles gigantes.",
+  "highlights": [
+   "Se proporcionará una confirmación al reservar"
+  ],
+  "included": [
+   "Vehículo privado con aire acondicionado y conductor",
+   "Recogida y traslado al hotel",
+   "Conductor",
+   "Transporte en vehículo con aire acondicionado",
+   "Guía turístico en el Taj Mahal",
+   "Botella de agua",
+   "Recogida ofrecida desde la estación de tren, el hotel, o cualquier lugar en Agra",
+   "Almuerzo bufé (si se elige la opción todo incluido)",
+   "Tarifas de entrada a los monumentos (si se elige la opción todo incluido)",
+   "Tarifas de entrada al centro de conservación de elefantes (si se elige la opción todo incluido)"
+  ],
+  "notIncluded": [
+   "Cualquier bebida alcohólica (disponible para comprar)",
+   "Cualquier tipo de gratificación",
+   "Cualquier gasto personal",
+   "Cualquier cosa no mencionada en las inclusiones"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
