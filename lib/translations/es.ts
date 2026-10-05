@@ -20739,6 +20739,76 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "delhi-agra-jaipur-udaipur-8-days-golden-triangle": {
+  "title": "Delhi, Agra, Jaipur, y Udaipur: tour del Triángulo Dorado de 8 días",
+  "metaTitle": "Delhi-Agra-Jaipur-Udaipur en 8 días",
+  "metaDescription": "Explore la Jama Masjid, Qutub Minar, el Templo del Loto, la tumba de Humayun.",
+  "shortDescription": "Explore la Jama Masjid, Qutub Minar, el Templo del Loto, la tumba de Humayun.",
+  "fullDescription": "Delhi, Agra, Jaipur, y Udaipur: tour del Triángulo Dorado de 8 días. Explore la Jama Masjid, Qutub Minar, el Templo del Loto, la tumba de Humayun.\n\nExperimente lo mejor de la India en un inolvidable tour del Triángulo Dorado de 8 días que abarca Delhi, Agra, Jaipur, y Udaipur. Descubra monumentos emblemáticos, rica historia, palacios reales, y cultura vibrante.\n\n**Qué incluye**\nServicio de recogida y regreso al hotel\nVehículo privado con aire acondicionado para los recorridos turísticos\nConductor personal uniformado\nPaseo en rickshaw en la Vieja Delhi\nGuía turístico profesional en cada ciudad\nAgua embotellada de cortesía\n7 noches de estancia en el hotel (si se selecciona esta opción)\nDesayuno diario en el hotel (si se selecciona esta opción)\nTodos los peajes y el estacionamiento",
+  "highlights": [
+   "Explore la Jama Masjid, Qutub Minar, el Templo del Loto, la tumba de Humayun"
+  ],
+  "included": [
+   "Servicio de recogida y regreso al hotel",
+   "Vehículo privado con aire acondicionado para los recorridos turísticos",
+   "Conductor personal uniformado",
+   "Paseo en rickshaw en la Vieja Delhi",
+   "Guía turístico profesional en cada ciudad",
+   "Agua embotellada de cortesía",
+   "7 noches de estancia en el hotel (si se selecciona esta opción)",
+   "Desayuno diario en el hotel (si se selecciona esta opción)",
+   "Todos los peajes y el estacionamiento"
+  ],
+  "notIncluded": [
+   "Entradas",
+   "Almuerzo y cena",
+   "Cualquier gasto personal"
+  ]
+ },
+ "delhi-airport-guided-tour": {
+  "title": "Desde el aeropuerto de Delhi: tour guiado durante la escala por la Vieja y la Nueva Delhi",
+  "metaTitle": "Delhi: tour guiado durante la escala en el aeropuerto",
+  "metaDescription": "Planifique un viaje corto durante su escala en lugar de esperar sentado en el aeropuerto.",
+  "shortDescription": "Planifique un viaje corto durante su escala en lugar de esperar sentado en el aeropuerto.",
+  "fullDescription": "Desde el aeropuerto de Delhi: tour guiado durante la escala por la Vieja y la Nueva Delhi. Planifique un viaje corto durante su escala en lugar de esperar sentado en el aeropuerto.\n\nComience su breve escala para explorar la Vieja Delhi y la Nueva Delhi. Aquí visitará la mezquita más grande de la India, la Jama Masjid, construida en el siglo XVI. Luego dará un paseo en rickshaw hasta Chandni Chowk para explorar el mercado de especias, el mercado de frutos secos, y el barrio residencial marginal de la Vieja Delhi. Después se dirigirá a la Nueva Delhi, donde almorzará en un restaurante multicocina. Luego visitará el segundo templo más grande de la religión sij, el Gurudwara Bangla Sahib.\n\nMás adelante explorará los monumentos más emblemáticos de la Nueva Delhi, como la tumba de Humayun, el Templo del Loto, y Qutub Minar. Antes de dirigirse a su hotel o al aeropuerto, hará una parada en India Gate, el Palacio Presidencial, y el Parlamento de la India.\n\n**Qué incluye**\nRecogida y regreso desde/hacia el hotel o aeropuerto de Delhi\nAuto privado con aire acondicionado y chófer\nServicio de guía turístico en vivo\nBotellas de agua y paraguas\nTodos los estacionamientos e impuestos\n\n**No incluye**\nBebidas\nAlmuerzo\nEntradas a monumentos\nPropinas",
+  "highlights": [
+   "Planifique un viaje corto durante su escala en lugar de esperar sentado en el aeropuerto"
+  ],
+  "included": [
+   "Recogida y regreso desde/hacia el hotel o aeropuerto de Delhi",
+   "Auto privado con aire acondicionado y chófer",
+   "Servicio de guía turístico en vivo",
+   "Botellas de agua y paraguas",
+   "Todos los estacionamientos e impuestos"
+  ],
+  "notIncluded": [
+   "Bebidas",
+   "Almuerzo",
+   "Entradas a monumentos",
+   "Propinas"
+  ]
+ },
+ "private-tour-of-akshardham-iskcon-lotus-temple": {
+  "title": "Tour privado de Akshardham, ISKCON, y el Templo del Loto - Delhi",
+  "metaTitle": "Delhi: Akshardham, ISKCON, y Templo del Loto",
+  "metaDescription": "El templo Akshardham, uno de los templos hindúes más grandes del mundo.",
+  "shortDescription": "El templo Akshardham, uno de los templos hindúes más grandes del mundo.",
+  "fullDescription": "Tour privado de Akshardham, ISKCON, y el Templo del Loto - Delhi. El templo Akshardham, uno de los templos hindúes más grandes del mundo.\n\nEl templo Akshardham, el Templo del Loto, y el templo ISKCON. Estos templos no son solo sitios religiosos importantes, sino también maravillas arquitectónicas.\n\nTemplo Akshardham:\nEl templo Akshardham, oficialmente conocido como Swaminarayan Akshardham, es un enorme complejo de templos hindúes ubicado en las orillas del río Yamuna. Está dedicado a Bhagwan Swaminarayan, y muestra una mezcla de arte antiguo, cultura, y espiritualidad. El complejo incluye mandapas intrincadamente esculpidos, un monumento central, exposiciones, y un amplio jardín.\n\nTemplo del Loto:\nEl Templo del Loto, también llamado la Casa de Adoración Bahá'í, es un templo distintivo con forma de loto que pertenece a la fe bahá'í. Es conocido por su llamativa arquitectura y ambiente sereno. El diseño del templo simboliza la unidad y la pureza. Se da la bienvenida a visitantes de todas las creencias para meditar y reflexionar en el entorno tranquilo.\n\nTemplo ISKCON:\nEl templo ISKCON en Delhi está dedicado al Señor Krishna, y es un centro destacado de la Sociedad Internacional para la Conciencia de Krishna (ISKCON). Cuenta con una arquitectura impresionante, arte vibrante, y actividades espirituales. El templo suele albergar ceremonias devocionales, conferencias, y festivales relacionados con el Señor Krishna.\n\nRecuerde que estos templos no son solo atracciones turísticas, sino también lugares de culto, por lo que es importante respetar las costumbres y pautas de cada templo durante su visita.\n\n**Qué incluye**\nVehículo con aire acondicionado\nTodas las tarifas e impuestos\nGuía profesional\n1 botella de agua por persona durante el recorrido\nRecogida y regreso a su destino\n\n**No incluye**\nPropinas\nEntradas a cualquier monumento o sitio",
+  "highlights": [
+   "El templo Akshardham, uno de los templos hindúes más grandes del mundo"
+  ],
+  "included": [
+   "Vehículo con aire acondicionado",
+   "Todas las tarifas e impuestos",
+   "Guía profesional",
+   "1 botella de agua por persona durante el recorrido",
+   "Recogida y regreso a su destino"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Entradas a cualquier monumento o sitio"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
