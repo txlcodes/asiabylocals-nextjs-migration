@@ -19240,6 +19240,58 @@ export const FR_TOURS: Record<string, TourT> = {
    "Droits d'entrée"
   ]
  },
+ "japanese-taiko-drum-workshop-in-gion": {
+  "title": "Atelier de tambour taiko japonais à Gion",
+  "fullDescription": "Cette expérience de 50 minutes se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nGion est le quartier historique de divertissement de Kyoto, les rues de maisons machiya en bois autour de Hanamikoji où les geiko et maiko du district de Gion Kobu travaillent encore. Ce sont des professionnelles en route vers des engagements, pas des artistes de rue, et Kyoto a interdit la photographie dans les ruelles privées ; une promenade du soir avec un guide qui explique le système ochaya est la façon respectueuse de voir cela. Les sessions de cérémonie du thé à Gion enseignent la forme de base de la préparation du matcha en une heure. La location de kimono pour une journée, avec habillage et coiffure, est une activité établie dans le quartier et est bien accueillie plutôt que mal perçue.\n\nLe prix comprend atelier de tambour taiko, concert de musique traditionnelle japonaise, démonstration en direct, atelier participatif et performance de musiciens locaux. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 50 minutes",
+   "Atelier de tambour taiko",
+   "Concert de musique traditionnelle japonaise",
+   "Démonstration en direct",
+   "Atelier participatif",
+   "Performance de musiciens locaux"
+  ],
+  "included": [
+   "Atelier de tambour taiko",
+   "Concert de musique traditionnelle japonaise",
+   "Démonstration en direct",
+   "Atelier participatif",
+   "Performance de musiciens locaux"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion de 0,8333333333333334 heures à Kyoto, comprenant atelier de tambour taiko, concert de musique traditionnelle japonaise et démonstration en direct. Opérateur : HidB LLC, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Atelier de tambour taiko japonais à Gion",
+  "metaDescription": "Excursion de 0,8333333333333334 heures à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "fushimi-inari-shrine-and-tofukuji-temple-e-bike-tour": {
+  "title": "Visite en vélo électrique du sanctuaire Fushimi Inari et du temple Tofukuji",
+  "fullDescription": "Cette expérience de 4 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nFushimi Inari Taisha est le sanctuaire principal d'Inari, la divinité du riz et des affaires, et ses plus de mille portiques torii vermillon, chacun donné par une entreprise ou une famille, s'enchaînent en tunnels sur les 233 mètres du mont Inari derrière le hall principal. La boucle complète jusqu'au sommet fait environ quatre kilomètres et deux heures ; la plupart des visiteurs font demi-tour au point de vue de Yotsutsuji à mi-chemin. C'est ouvert 24 heures sur 24 et gratuit, ce qui en fait le seul grand site de Kyoto que l'on peut faire à l'aube ou après la nuit tombée, quand les portiques sont vides et illuminés. Dès neuf heures du matin, les tunnels inférieurs deviennent une file lente. Les statues de renard portent des clés du grenier à riz dans leur bouche.\n\nLe prix comprend guide touristique local en direct, location de vélo électrique, casque, assurance et en-cas. Il ne comprend pas prise en charge et retour à l'hôtel, déjeuner et pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 4 heures",
+   "Guide touristique local en direct",
+   "Location de vélo électrique",
+   "Casque",
+   "Assurance",
+   "En-cas"
+  ],
+  "included": [
+   "Guide touristique local en direct",
+   "Location de vélo électrique",
+   "Casque",
+   "Assurance",
+   "En-cas",
+   "Bouteille d'eau",
+   "Frais d'entrée pour 2 lieux"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel",
+   "Déjeuner",
+   "Pourboires"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Kyoto, comprenant guide touristique local en direct, location de vélo électrique et casque. Opérateur : Pedal Adventure Kyoto, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite en vélo électrique du sanctuaire Fushimi Inari",
+  "metaDescription": "Excursion d'une demi-journée à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "kyoto-home-cooking-class-and-supermarket-tour-near-fushimiinari-by-local-operator": {
   "title": "Kyoto : cours de cuisine maison et visite de supermarché près de Fushimi Inari",
   "fullDescription": "Cette expérience de 4 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nFushimi Inari Taisha est le sanctuaire principal d'Inari, la divinité du riz et des affaires, et ses plus de mille portiques torii vermillon, chacun donné par une entreprise ou une famille, s'enchaînent en tunnels sur les 233 mètres du mont Inari derrière le hall principal. La boucle complète jusqu'au sommet fait environ quatre kilomètres et deux heures ; la plupart des visiteurs font demi-tour au point de vue de Yotsutsuji à mi-chemin. C'est ouvert 24 heures sur 24 et gratuit, ce qui en fait le seul grand site de Kyoto que l'on peut faire à l'aube ou après la nuit tombée, quand les portiques sont vides et illuminés. Dès neuf heures du matin, les tunnels inférieurs deviennent une file lente. Les statues de renard portent des clés du grenier à riz dans leur bouche.\n\nLe prix comprend déjeuner et tous les assaisonnements et ingrédients. Il ne comprend pas pourboire et service de prise en charge et de retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -19281,6 +19333,31 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Dégustation privée de saké au centre de Kyoto avec un sommelier",
   "metaDescription": "Excursion de 2 heures à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "hands-on-zen-calligraphy-and-150-year-old-kyoto-machiya-tour-by-local-operator": {
+  "title": "Calligraphie zen pratique et visite d'une machiya de Kyoto vieille de 150 ans",
+  "fullDescription": "Cette expérience de 75 minutes se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend pratique guidée et tous les outils nécessaires, œuvre de calligraphie originale, thé et douceurs japonaises, visite culturelle machiya et Kyoto et assistance pour la photographie. Il ne comprend pas transport, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 75 minutes",
+   "Pratique guidée et tous les outils nécessaires",
+   "Œuvre de calligraphie originale",
+   "Thé et douceurs japonaises",
+   "Visite culturelle machiya et Kyoto",
+   "Assistance pour la photographie"
+  ],
+  "included": [
+   "Pratique guidée et tous les outils nécessaires",
+   "Œuvre de calligraphie originale",
+   "Thé et douceurs japonaises",
+   "Visite culturelle machiya et Kyoto",
+   "Assistance pour la photographie"
+  ],
+  "notIncluded": [
+   "Transport"
+  ],
+  "shortDescription": "Excursion de 1,25 heures à Kyoto, comprenant pratique guidée et tous les outils nécessaires, œuvre de calligraphie originale et thé et douceurs japonaises. Opérateur : 聚らく, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Calligraphie zen pratique et visite d'une machiya de Kyoto vieille de 150 ans",
+  "metaDescription": "Excursion de 1,25 heures à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "nintendo-museum-admission-ticket-in-kyoto": {
   "title": "Billet d'entrée au musée Nintendo à Kyoto",
   "fullDescription": "Cette expérience se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend réservation pour le musée Nintendo et billet d'entrée au musée Nintendo. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -19296,6 +19373,146 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Billet d'entrée à Kyoto, comprenant réservation pour le musée Nintendo et billet d'entrée au musée Nintendo. Opérateur : NovaTrip, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Billet d'entrée au musée Nintendo à Kyoto",
   "metaDescription": "Billet d'entrée à Kyoto. Comprend réservation pour le musée Nintendo. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "hands-on-sushi-making-experience-in-kyoto": {
+  "title": "Expérience pratique de fabrication de sushi à Kyoto",
+  "fullDescription": "Cette expérience de 1,5 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe marché de gros aux poissons de Tokyo a déménagé de Tsukiji à Toyosu en 2018, mais le marché extérieur de Tsukiji, les allées de boutiques et d'étals autour de l'ancien site, est resté et c'est là que se déroulent les visites culinaires : tamagoyaki sur bâtonnet, découpes de thon, uni, pétoncles grillés et boutiques de couteaux, le plus animé de 8h00 à 11h00 environ et fermé le dimanche et certains mercredis. La vente aux enchères de thon elle-même se déroule à Toyosu, observée depuis une plateforme avant 6h30 avec une loterie anticipée. Les cours de sushi enseignent le shari, le riz vinaigré, et la pression de la main du nigiri ; la plupart durent deux à trois heures et vous mangez ce que vous faites.\n\nLe prix comprend ingrédients de sushi dans l'expérience et repas de sushi. Il ne comprend pas boissons et service de prise en charge et de retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1,5 heures",
+   "Ingrédients de sushi dans l'expérience",
+   "Repas de sushi"
+  ],
+  "included": [
+   "Ingrédients de sushi dans l'expérience",
+   "Repas de sushi"
+  ],
+  "notIncluded": [
+   "Boissons (vous pouvez commander des boissons non alcoolisées et de l'alcool pendant le cours)",
+   "Service de prise en charge et de retour à l'hôtel"
+  ],
+  "shortDescription": "Excursion à Kyoto, comprenant ingrédients de sushi dans l'expérience et repas de sushi. Opérateur : WILL Co.,Ltd., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Expérience pratique de fabrication de sushi à Kyoto",
+  "metaDescription": "Excursion à Kyoto. Comprend ingrédients de sushi dans l'expérience. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "kyoto-kimono-tea-ceremony-and-city-car-tour-with-photos-by-local-operator": {
+  "title": "Kyoto : kimono, cérémonie du thé et visite de la ville en voiture avec photos",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nGion est le quartier historique de divertissement de Kyoto, les rues de maisons machiya en bois autour de Hanamikoji où les geiko et maiko du district de Gion Kobu travaillent encore. Ce sont des professionnelles en route vers des engagements, pas des artistes de rue, et Kyoto a interdit la photographie dans les ruelles privées ; une promenade du soir avec un guide qui explique le système ochaya est la façon respectueuse de voir cela. Les sessions de cérémonie du thé à Gion enseignent la forme de base de la préparation du matcha en une heure. La location de kimono pour une journée, avec habillage et coiffure, est une activité établie dans le quartier et est bien accueillie plutôt que mal perçue.\n\nLe prix comprend transport en voiture privée, prise en charge et retour à l'hôtel, expérience de location de kimono, cérémonie du thé traditionnelle et photographe. Il ne comprend pas repas et boissons, billets d'entrée aux sites, dépenses personnelles et accessoires de kimono supplémentaires ou mises à niveau, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Kyoto. 合同会社Aruisha confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 heure",
+   "Transport en voiture privée",
+   "Prise en charge et retour à l'hôtel",
+   "Expérience de location de kimono",
+   "Cérémonie du thé traditionnelle",
+   "Photographe professionnel"
+  ],
+  "included": [
+   "Transport en voiture privée",
+   "Prise en charge et retour à l'hôtel",
+   "Expérience de location de kimono",
+   "Cérémonie du thé traditionnelle",
+   "Photographe professionnel",
+   "Assistance en anglais",
+   "Carburant, parking et frais d'autoroute"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "Billets d'entrée aux sites",
+   "Dépenses personnelles",
+   "Accessoires de kimono supplémentaires ou mises à niveau"
+  ],
+  "shortDescription": "Excursion de 1 heure à Kyoto, comprenant transport en voiture privée, prise en charge et retour à l'hôtel et expérience de location de kimono. Opérateur : 合同会社Aruisha, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Kyoto : kimono, cérémonie du thé et visite de la ville en voiture",
+  "metaDescription": "Excursion de 1 heure à Kyoto. Comprend transport en voiture privée. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "make-your-own-ring-from-a-vintage-japanese-coin-in-kyoto": {
+  "title": "Fabriquez votre propre bague à partir d'une pièce japonaise ancienne à Kyoto",
+  "fullDescription": "Cette expérience de 1,5 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend pièce japonaise ancienne authentique de votre choix, expérience de fabrication de bague avec un artisan qualifié et polissage final pour compléter votre bague. Il ne comprend pas pendentif central fabriqué à partir de la pièce, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1,5 heures",
+   "Pièce japonaise ancienne authentique de votre choix (incluant des pièces de l'ère Meiji de plus de 100 ans)",
+   "Expérience de fabrication de bague avec un artisan qualifié",
+   "Polissage final pour compléter votre bague"
+  ],
+  "included": [
+   "Pièce japonaise ancienne authentique de votre choix (incluant des pièces de l'ère Meiji de plus de 100 ans)",
+   "Expérience de fabrication de bague avec un artisan qualifié",
+   "Polissage final pour compléter votre bague"
+  ],
+  "notIncluded": [
+   "Pendentif central fabriqué à partir de la pièce (+1 000 yens)"
+  ],
+  "shortDescription": "Excursion de 1,5 heures à Kyoto, comprenant pièce japonaise ancienne authentique de votre choix, expérience de fabrication de bague avec un artisan qualifié et polissage final pour compléter votre bague. Opérateur : 合同会社コウフクロウ, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Fabriquez votre propre bague à partir d'une pièce japonaise ancienne à Kyoto",
+  "metaDescription": "Excursion de 1,5 heures à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "private-tour-to-monkey-park-and-arashiyama-highlights-kyoto": {
+  "title": "Visite privée du parc à singes et des points forts d'Arashiyama (Kyoto)",
+  "fullDescription": "Cette expérience de 3 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nArashiyama, à l'extrémité ouest de Kyoto, c'est la forêt de bambous, le pont Togetsukyo sur la rivière Katsura, les jardins de Tenryu-ji et le parc à singes sur la colline au-dessus. Le chemin de bambous fait environ 500 mètres et est photographié vide dans tous les guides parce que ces photos sont prises avant 7h30 ; en milieu de matinée c'est un défilé. Les balades en pousse-pousse, le chemin de fer panoramique de Sagano le long des gorges, et les descentes en bateau des rapides de Hozu partent tous d'ici. Les couleurs d'automne culminent dans la seconde moitié de novembre et les fleurs de cerisier autour de la première semaine d'avril.\n\nLe prix comprend entrée à la forêt de bambous d'Arashiyama, entrée au parc à singes d'Iwatayama, occasion de nourrir les singes sous supervision, frais de nourrissage pour les singes et entrée au temple Tenryuji. Il ne comprend pas transport vers/depuis les attractions et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 3 heures",
+   "Entrée à la forêt de bambous d'Arashiyama",
+   "Entrée au parc à singes d'Iwatayama",
+   "Occasion de nourrir les singes sous supervision",
+   "Frais de nourrissage pour les singes",
+   "Entrée au temple Tenryuji"
+  ],
+  "included": [
+   "Entrée à la forêt de bambous d'Arashiyama",
+   "Entrée au parc à singes d'Iwatayama",
+   "Occasion de nourrir les singes sous supervision",
+   "Frais de nourrissage pour les singes",
+   "Entrée au temple Tenryuji"
+  ],
+  "notIncluded": [
+   "Transport vers/depuis les attractions",
+   "Dépenses personnelles"
+  ],
+  "shortDescription": "Excursion de 3 heures à Kyoto, comprenant entrée à la forêt de bambous d'Arashiyama, entrée au parc à singes d'Iwatayama et occasion de nourrir les singes sous supervision. Opérateur : Arashiyama Culture Experience, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite privée du parc à singes et des points forts d'Arashiyama",
+  "metaDescription": "Excursion de 3 heures à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "wagashi-sweets-nerikiri-making-class-in-sapporo": {
+  "title": "Cours de fabrication de douceurs wagashi nerikiri à Sapporo",
+  "fullDescription": "Cette expérience de 2 heures se déroule au départ de Sapporo, construite autour de Point de vue. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHokkaido est l'île septentrionale du Japon, un climat différent et une échelle différente : Sapporo en est la ville, avec le musée de la bière, l'allée des ramen et le festival de neige de février ; Otaru, à 40 minutes, a le canal et les boutiques de verre et de boîtes à musique ; Noboribetsu ce sont les sources chaudes de la vallée de l'enfer ; le lac Toya et le lac Shikotsu sont des lacs de caldeira ; et Biei et Furano au centre sont les champs de fleurs et de lavande de juillet. L'hiver apporte deux mètres de neige à Sapporo et la poudreuse qui a rendu Niseko célèbre. Les distances sont longues et les trains rares, donc les excursions d'une journée depuis Sapporo se font surtout en bus et durent huit à dix heures.\n\nLe prix comprend boisson de bienvenue, fiche de recette, ingrédients et outils pour l'atelier et 4 douceurs nerikiri faites à la main à emporter. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Point de vue",
+   "Durée : 2 heures",
+   "Boisson de bienvenue (par exemple, sencha)",
+   "Fiche de recette",
+   "Ingrédients et outils pour l'atelier",
+   "4 douceurs nerikiri faites à la main à emporter"
+  ],
+  "included": [
+   "Boisson de bienvenue (par exemple, sencha)",
+   "Fiche de recette",
+   "Ingrédients et outils pour l'atelier",
+   "4 douceurs nerikiri faites à la main à emporter"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion de 2 heures à Sapporo, avec On foot et Point de vue. Opérateur : 石黒 ユキ, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Cours de fabrication de douceurs wagashi nerikiri à Sapporo",
+  "metaDescription": "Excursion de 2 heures à Sapporo. Comprend boisson de bienvenue. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "ice-fishing-tour-with-tempura-and-pickup-option-in-sapporo": {
+  "title": "Pêche sur glace avec tempura et option de prise en charge à Sapporo",
+  "fullDescription": "Cette expérience de 3,5 heures se déroule à Sapporo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHokkaido est l'île septentrionale du Japon, un climat différent et une échelle différente : Sapporo en est la ville, avec le musée de la bière, l'allée des ramen et le festival de neige de février ; Otaru, à 40 minutes, a le canal et les boutiques de verre et de boîtes à musique ; Noboribetsu ce sont les sources chaudes de la vallée de l'enfer ; le lac Toya et le lac Shikotsu sont des lacs de caldeira ; et Biei et Furano au centre sont les champs de fleurs et de lavande de juillet. L'hiver apporte deux mètres de neige à Sapporo et la poudreuse qui a rendu Niseko célèbre. Les distances sont longues et les trains rares, donc les excursions d'une journée depuis Sapporo se font surtout en bus et durent huit à dix heures.\n\nLe prix comprend transport aller-retour depuis la gare de Sapporo, tout le matériel de pêche fourni, instructions de pêche et cuisine et dégustation d'éperlan fraîchement pêché en tempura. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nHokkaido International House Kita 8. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 3,5 heures",
+   "Transport aller-retour depuis la gare de Sapporo",
+   "Tout le matériel de pêche fourni",
+   "Instructions de pêche",
+   "Cuisine et dégustation d'éperlan fraîchement pêché en tempura"
+  ],
+  "included": [
+   "Transport aller-retour depuis la gare de Sapporo",
+   "Tout le matériel de pêche fourni",
+   "Instructions de pêche",
+   "Cuisine et dégustation d'éperlan fraîchement pêché en tempura"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion d'une demi-journée à Sapporo, avec 39-2 Oyafuru. Opérateur : Earth Outdoor Tours, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Pêche sur glace avec tempura et option de prise en charge à Sapporo",
+  "metaDescription": "Excursion d'une demi-journée à Sapporo. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "chopstick-and-ramen-making-experience-in-sapporo": {
   "title": "Expérience de fabrication de baguettes et de ramen à Sapporo",
@@ -19322,6 +19539,83 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 3 heures à Sapporo, comprenant expérience de fabrication de baguettes, expérience de fabrication artisanale de nouilles ramen et accompagnement par un instructeur. Opérateur : 和do Studio Sapporo, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Expérience de fabrication de baguettes et de ramen à Sapporo",
   "metaDescription": "Excursion de 3 heures à Sapporo. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "guided-mt-moiwa-hike-with-hotel-transfer-in-sapporo": {
+  "title": "Randonnée guidée au mont Moiwa avec transfert hôtelier à Sapporo",
+  "fullDescription": "Cette expérience de 5 heures se déroule au départ de Sapporo, construite autour de Mont Moiwa. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHokkaido est l'île septentrionale du Japon, un climat différent et une échelle différente : Sapporo en est la ville, avec le musée de la bière, l'allée des ramen et le festival de neige de février ; Otaru, à 40 minutes, a le canal et les boutiques de verre et de boîtes à musique ; Noboribetsu ce sont les sources chaudes de la vallée de l'enfer ; le lac Toya et le lac Shikotsu sont des lacs de caldeira ; et Biei et Furano au centre sont les champs de fleurs et de lavande de juillet. L'hiver apporte deux mètres de neige à Sapporo et la poudreuse qui a rendu Niseko célèbre. Les distances sont longues et les trains rares, donc les excursions d'une journée depuis Sapporo se font surtout en bus et durent huit à dix heures.\n\nLe prix comprend frais de guidage, gestion de la sécurité, communication de base avant la visite et transfert depuis/vers votre hébergement à Sapporo. Il ne comprend pas déjeuner et boissons, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nSapporo. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Mont Moiwa",
+   "Durée : 5 heures",
+   "Frais de guidage",
+   "Gestion de la sécurité",
+   "Communication de base avant la visite",
+   "Transfert depuis/vers votre hébergement à Sapporo"
+  ],
+  "included": [
+   "Frais de guidage",
+   "Gestion de la sécurité",
+   "Communication de base avant la visite",
+   "Transfert depuis/vers votre hébergement à Sapporo"
+  ],
+  "notIncluded": [
+   "Déjeuner",
+   "Boissons"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Sapporo, avec Mont Moiwa. Opérateur : 北海道登山ガイドオフィス Mountain Flow, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Randonnée guidée au mont Moiwa avec transfert hôtelier à Sapporo",
+  "metaDescription": "Excursion d'une demi-journée à Sapporo. Comprend frais de guidage. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "sushi-making-in-spacious-studio-same-day-ok-in-osaka": {
+  "title": "Fabrication de sushi dans un studio spacieux (réservation le jour même possible) à Osaka",
+  "fullDescription": "Cette expérience de 1,5 heures se déroule à Osaka. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe marché de gros aux poissons de Tokyo a déménagé de Tsukiji à Toyosu en 2018, mais le marché extérieur de Tsukiji, les allées de boutiques et d'étals autour de l'ancien site, est resté et c'est là que se déroulent les visites culinaires : tamagoyaki sur bâtonnet, découpes de thon, uni, pétoncles grillés et boutiques de couteaux, le plus animé de 8h00 à 11h00 environ et fermé le dimanche et certains mercredis. La vente aux enchères de thon elle-même se déroule à Toyosu, observée depuis une plateforme avant 6h30 avec une loterie anticipée. Les cours de sushi enseignent le shari, le riz vinaigré, et la pression de la main du nigiri ; la plupart durent deux à trois heures et vous mangez ce que vous faites.\n\nLe prix comprend ingrédients de sushi dans l'expérience, repas de sushi !, certificat de maître sushi et souvenir japonais mignon. Il ne comprend pas boissons et service de prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1,5 heures",
+   "Ingrédients de sushi dans l'expérience",
+   "Repas de sushi ! (que vous avez préparés)",
+   "Certificat de maître sushi",
+   "Souvenir japonais mignon"
+  ],
+  "included": [
+   "Ingrédients de sushi dans l'expérience",
+   "Repas de sushi ! (que vous avez préparés)",
+   "Certificat de maître sushi",
+   "Souvenir japonais mignon"
+  ],
+  "notIncluded": [
+   "Boissons (vous pouvez commander une boisson non alcoolisée et de l'alcool pendant notre cours)",
+   "Service de prise en charge et retour à l'hôtel"
+  ],
+  "shortDescription": "Excursion à Osaka, comprenant ingrédients de sushi dans l'expérience, repas de sushi ! et certificat de maître sushi. Opérateur : WILL Co.,Ltd., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Fabrication de sushi dans un studio spacieux (réservation le jour même possible) à Osaka",
+  "metaDescription": "Excursion à Osaka. Comprend ingrédients de sushi dans l'expérience. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "canal-historic-streets-and-market-private-walk-in-sapporo": {
+  "title": "Promenade privée dans le canal, les rues historiques et le marché à Sapporo",
+  "fullDescription": "Cette expérience de 3 heures se déroule à Sapporo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHokkaido est l'île septentrionale du Japon, un climat différent et une échelle différente : Sapporo en est la ville, avec le musée de la bière, l'allée des ramen et le festival de neige de février ; Otaru, à 40 minutes, a le canal et les boutiques de verre et de boîtes à musique ; Noboribetsu ce sont les sources chaudes de la vallée de l'enfer ; le lac Toya et le lac Shikotsu sont des lacs de caldeira ; et Biei et Furano au centre sont les champs de fleurs et de lavande de juillet. L'hiver apporte deux mètres de neige à Sapporo et la poudreuse qui a rendu Niseko célèbre. Les distances sont longues et les trains rares, donc les excursions d'une journée depuis Sapporo se font surtout en bus et durent huit à dix heures.\n\nLe prix comprend visite photo privée, guide, visite du marché Sankaku, visite du canal d'Otaru et visite de l'ancienne ligne de chemin de fer de Temiya. Il ne comprend pas transport vers et depuis Sapporo, repas et boissons et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 3 heures",
+   "Visite photo privée",
+   "Guide local",
+   "Visite du marché Sankaku",
+   "Visite du canal d'Otaru",
+   "Visite de l'ancienne ligne de chemin de fer de Temiya"
+  ],
+  "included": [
+   "Visite photo privée",
+   "Guide local",
+   "Visite du marché Sankaku",
+   "Visite du canal d'Otaru",
+   "Visite de l'ancienne ligne de chemin de fer de Temiya",
+   "Visite de la rue Sakaimachi"
+  ],
+  "notIncluded": [
+   "Transport vers et depuis Sapporo",
+   "Repas et boissons",
+   "Dépenses personnelles"
+  ],
+  "shortDescription": "Excursion de 3 heures à Sapporo, comprenant visite photo privée, guide et visite du marché Sankaku. Opérateur : Native Japan, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Promenade privée dans le canal, les rues historiques et le marché à Sapporo",
+  "metaDescription": "Excursion de 3 heures à Sapporo. Comprend visite photo privée. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "sushi-roll-making-class-in-sapporo": {
   "title": "Cours de fabrication de rouleaux de sushi à Sapporo",
@@ -19395,6 +19689,128 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Visite à pied de Sapporo",
   "metaDescription": "Excursion de 2 heures à Sapporo. Comprend guide anglophone. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "furano-and-biei-day-tour-with-lavender-pillow-making-option-sapporo": {
+  "title": "Excursion d'une journée à Furano et Biei avec option de fabrication de coussin à la lavande (Sapporo)",
+  "fullDescription": "Cette expérience de 10 heures se déroule à Sapporo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHokkaido est l'île septentrionale du Japon, un climat différent et une échelle différente : Sapporo en est la ville, avec le musée de la bière, l'allée des ramen et le festival de neige de février ; Otaru, à 40 minutes, a le canal et les boutiques de verre et de boîtes à musique ; Noboribetsu ce sont les sources chaudes de la vallée de l'enfer ; le lac Toya et le lac Shikotsu sont des lacs de caldeira ; et Biei et Furano au centre sont les champs de fleurs et de lavande de juillet. L'hiver apporte deux mètres de neige à Sapporo et la poudreuse qui a rendu Niseko célèbre. Les distances sont longues et les trains rares, donc les excursions d'une journée depuis Sapporo se font surtout en bus et durent huit à dix heures.\n\nLe prix comprend tarif de bus, guide parlant chinois/anglais/japonais, entrée à : Shikisai no Oka, frais de déjeuner : inclus selon le forfait sélectionné et expérience de fabrication d'un mini coussin de lavande à faire soi-même : incluse. Il ne comprend pas autres dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 10 heures",
+   "Tarif de bus",
+   "Guide parlant chinois/anglais/japonais",
+   "Entrée à : Shikisai no Oka",
+   "Frais de déjeuner : inclus selon le forfait sélectionné",
+   "Expérience de fabrication d'un mini coussin de lavande à faire soi-même : incluse selon le forfait sélectionné"
+  ],
+  "included": [
+   "Tarif de bus",
+   "Guide parlant chinois/anglais/japonais",
+   "Entrée à : Shikisai no Oka",
+   "Frais de déjeuner : inclus selon le forfait sélectionné",
+   "Expérience de fabrication d'un mini coussin de lavande à faire soi-même : incluse selon le forfait sélectionné"
+  ],
+  "notIncluded": [
+   "Autres dépenses personnelles"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Sapporo, comprenant tarif de bus, guide parlant chinois/anglais/japonais et entrée à : Shikisai no Oka. Opérateur : Doushin Kokusai Co,.LTD, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Excursion d'une journée à Furano et Biei avec option de fabrication de coussin à la lavande (Sapporo)",
+  "metaDescription": "Excursion d'une journée entière à Sapporo. Comprend tarif de bus. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "lake-toya-and-noboribetsu-jigokudani-valley": {
+  "title": "Lac Toya et la vallée de Jigokudani à Noboribetsu",
+  "fullDescription": "Cette expérience d'une journée entière se déroule à Sapporo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHokkaido est l'île septentrionale du Japon, un climat différent et une échelle différente : Sapporo en est la ville, avec le musée de la bière, l'allée des ramen et le festival de neige de février ; Otaru, à 40 minutes, a le canal et les boutiques de verre et de boîtes à musique ; Noboribetsu ce sont les sources chaudes de la vallée de l'enfer ; le lac Toya et le lac Shikotsu sont des lacs de caldeira ; et Biei et Furano au centre sont les champs de fleurs et de lavande de juillet. L'hiver apporte deux mètres de neige à Sapporo et la poudreuse qui a rendu Niseko célèbre. Les distances sont longues et les trains rares, donc les excursions d'une journée depuis Sapporo se font surtout en bus et durent huit à dix heures.\n\nLe prix comprend visite guidée, transport aller-retour, supplément carburant, chauffeur et parking. Il ne comprend pas nourriture et boissons, billets pour les attractions ci-dessus, dépenses personnelles et assurance voyage ou accident personnelle, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : une journée entière",
+   "Visite guidée",
+   "Transport aller-retour",
+   "Supplément carburant",
+   "Chauffeur",
+   "Parking"
+  ],
+  "included": [
+   "Visite guidée",
+   "Transport aller-retour",
+   "Supplément carburant",
+   "Chauffeur",
+   "Parking",
+   "Frais de péage"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Billets pour les attractions ci-dessus",
+   "Dépenses personnelles",
+   "Assurance voyage ou accident personnelle",
+   "Frais de balade en motoneige"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Sapporo, comprenant visite guidée, transport aller-retour et supplément carburant. Opérateur : JRT Group, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Lac Toya et la vallée de Jigokudani à Noboribetsu",
+  "metaDescription": "Excursion d'une journée entière à Sapporo. Comprend visite guidée. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "hokkaido-shrine-guided-tour-and-local-sweets-in-sapporo": {
+  "title": "Visite guidée du sanctuaire d'Hokkaido et douceurs locales à Sapporo",
+  "fullDescription": "Cette expérience de 1 heure se déroule au départ de Sapporo, construite autour de Hokkaido Jingu. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHokkaido est l'île septentrionale du Japon, un climat différent et une échelle différente : Sapporo en est la ville, avec le musée de la bière, l'allée des ramen et le festival de neige de février ; Otaru, à 40 minutes, a le canal et les boutiques de verre et de boîtes à musique ; Noboribetsu ce sont les sources chaudes de la vallée de l'enfer ; le lac Toya et le lac Shikotsu sont des lacs de caldeira ; et Biei et Furano au centre sont les champs de fleurs et de lavande de juillet. L'hiver apporte deux mètres de neige à Sapporo et la poudreuse qui a rendu Niseko célèbre. Les distances sont longues et les trains rares, donc les excursions d'une journée depuis Sapporo se font surtout en bus et durent huit à dix heures.\n\nLe prix comprend visite guidée du sanctuaire d'Hokkaido, expérience omikuji et dégustation de douceurs mochi. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\n円山公園パークセンター. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Hokkaido Jingu",
+   "Durée : 1 heure",
+   "Visite guidée du sanctuaire d'Hokkaido",
+   "Expérience omikuji",
+   "Dégustation de douceurs mochi"
+  ],
+  "included": [
+   "Visite guidée du sanctuaire d'Hokkaido",
+   "Expérience omikuji",
+   "Dégustation de douceurs mochi"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion de 1 heure à Sapporo, avec Hokkaido Jingu. Opérateur : DeepExperience, Inc., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite guidée du sanctuaire d'Hokkaido et douceurs locales à Sapporo",
+  "metaDescription": "Excursion de 1 heure à Sapporo. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "hokkaido-historical-village-step-into-the-frontier-in-sapporo": {
+  "title": "Village historique d'Hokkaido : entrez dans la frontière à Sapporo",
+  "fullDescription": "Cette expérience de 2 heures se déroule au départ de Sapporo, construite autour de Village historique d'Hokkaido. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHokkaido est l'île septentrionale du Japon, un climat différent et une échelle différente : Sapporo en est la ville, avec le musée de la bière, l'allée des ramen et le festival de neige de février ; Otaru, à 40 minutes, a le canal et les boutiques de verre et de boîtes à musique ; Noboribetsu ce sont les sources chaudes de la vallée de l'enfer ; le lac Toya et le lac Shikotsu sont des lacs de caldeira ; et Biei et Furano au centre sont les champs de fleurs et de lavande de juillet. L'hiver apporte deux mètres de neige à Sapporo et la poudreuse qui a rendu Niseko célèbre. Les distances sont longues et les trains rares, donc les excursions d'une journée depuis Sapporo se font surtout en bus et durent huit à dix heures.\n\nLe prix comprend visite guidée du village historique d'Hokkaido et histoires et aperçus des jours pionniers d'Hokkaido. Il ne comprend pas transport jusqu'au point de rendez-vous, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Village historique d'Hokkaido",
+   "Durée : 2 heures",
+   "Visite guidée du village historique d'Hokkaido",
+   "Histoires et aperçus des jours pionniers d'Hokkaido"
+  ],
+  "included": [
+   "Visite guidée du village historique d'Hokkaido",
+   "Histoires et aperçus des jours pionniers d'Hokkaido"
+  ],
+  "notIncluded": [
+   "Transport jusqu'au point de rendez-vous"
+  ],
+  "shortDescription": "Excursion de 2 heures à Sapporo, avec Village historique d'Hokkaido. Opérateur : DeepExperience, Inc., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Village historique d'Hokkaido : entrez dans la frontière à Sapporo",
+  "metaDescription": "Excursion de 2 heures à Sapporo. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "private-custom-tour-with-local-guide-in-sapporo": {
+  "title": "Visite privée personnalisée avec guide local à Sapporo",
+  "fullDescription": "Cette expérience de 4 heures se déroule à Sapporo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHokkaido est l'île septentrionale du Japon, un climat différent et une échelle différente : Sapporo en est la ville, avec le musée de la bière, l'allée des ramen et le festival de neige de février ; Otaru, à 40 minutes, a le canal et les boutiques de verre et de boîtes à musique ; Noboribetsu ce sont les sources chaudes de la vallée de l'enfer ; le lac Toya et le lac Shikotsu sont des lacs de caldeira ; et Biei et Furano au centre sont les champs de fleurs et de lavande de juillet. L'hiver apporte deux mètres de neige à Sapporo et la poudreuse qui a rendu Niseko célèbre. Les distances sont longues et les trains rares, donc les excursions d'une journée depuis Sapporo se font surtout en bus et durent huit à dix heures.\n\nLe prix comprend visite privée, visite à pied, guide local, personnalisez l'itinéraire et prise en charge depuis votre hébergement dans la ville de Niigata. Il ne comprend pas déjeuner, tous les frais d'entrée et transport, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Sapporo. Travel Japan Together confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 4 heures",
+   "Visite privée",
+   "Visite à pied",
+   "Guide local anglophone",
+   "Personnalisez l'itinéraire",
+   "Prise en charge depuis votre hébergement dans la ville de Niigata (si vous le souhaitez)"
+  ],
+  "included": [
+   "Visite privée",
+   "Visite à pied",
+   "Guide local anglophone",
+   "Personnalisez l'itinéraire",
+   "Prise en charge depuis votre hébergement dans la ville de Niigata (si vous le souhaitez)"
+  ],
+  "notIncluded": [
+   "Déjeuner",
+   "Tous les frais d'entrée",
+   "Transport"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Sapporo, comprenant visite privée, visite à pied et guide local. Opérateur : Travel Japan Together, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite privée personnalisée avec guide local à Sapporo",
+  "metaDescription": "Excursion d'une demi-journée à Sapporo. Comprend visite privée. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "jozankei-natsu-touro-8-scenic-spots-day-tour-in-sapporo": {
   "title": "Jozankei Natsu-touro : excursion d'une journée aux 8 sites pittoresques à Sapporo",
   "fullDescription": "Cette expérience de 10 heures se déroule à Sapporo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHokkaido est l'île septentrionale du Japon, un climat différent et une échelle différente : Sapporo en est la ville, avec le musée de la bière, l'allée des ramen et le festival de neige de février ; Otaru, à 40 minutes, a le canal et les boutiques de verre et de boîtes à musique ; Noboribetsu ce sont les sources chaudes de la vallée de l'enfer ; le lac Toya et le lac Shikotsu sont des lacs de caldeira ; et Biei et Furano au centre sont les champs de fleurs et de lavande de juillet. L'hiver apporte deux mètres de neige à Sapporo et la poudreuse qui a rendu Niseko célèbre. Les distances sont longues et les trains rares, donc les excursions d'une journée depuis Sapporo se font surtout en bus et durent huit à dix heures.\n\nLe prix comprend tarif de bus et guide parlant chinois/anglais/japonais. Il ne comprend pas frais de repas, frais d'entrée à la colline du Bouddha et autres dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -19439,6 +19855,97 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Visite à pied privée et personnalisable de Sapporo",
   "metaDescription": "Excursion à Sapporo. Comprend guide et itinéraire personnalisé. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "sushi-and-chopstick-making-workshop-in-sapporo": {
+  "title": "Atelier de fabrication de sushi et de baguettes à Sapporo",
+  "fullDescription": "Cette expérience de 2,5 heures se déroule à Sapporo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHokkaido est l'île septentrionale du Japon, un climat différent et une échelle différente : Sapporo en est la ville, avec le musée de la bière, l'allée des ramen et le festival de neige de février ; Otaru, à 40 minutes, a le canal et les boutiques de verre et de boîtes à musique ; Noboribetsu ce sont les sources chaudes de la vallée de l'enfer ; le lac Toya et le lac Shikotsu sont des lacs de caldeira ; et Biei et Furano au centre sont les champs de fleurs et de lavande de juillet. L'hiver apporte deux mètres de neige à Sapporo et la poudreuse qui a rendu Niseko célèbre. Les distances sont longues et les trains rares, donc les excursions d'une journée depuis Sapporo se font surtout en bus et durent huit à dix heures.\n\nLe prix comprend expérience de fabrication de sushi, expérience de fabrication de baguettes, instruction par un chef sushi et location de tablier et d'uniforme. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2,5 heures",
+   "Expérience de fabrication de sushi",
+   "Expérience de fabrication de baguettes",
+   "Instruction par un chef sushi professionnel",
+   "Location de tablier et d'uniforme"
+  ],
+  "included": [
+   "Expérience de fabrication de sushi",
+   "Expérience de fabrication de baguettes",
+   "Instruction par un chef sushi professionnel",
+   "Location de tablier et d'uniforme"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion à Sapporo, comprenant expérience de fabrication de sushi, expérience de fabrication de baguettes et instruction par un chef sushi. Opérateur : 和do Studio Sapporo, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Atelier de fabrication de sushi et de baguettes à Sapporo",
+  "metaDescription": "Excursion à Sapporo. Comprend expérience de fabrication de sushi. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "samurai-kendo-practice-experience-in-nagoya": {
+  "title": "Expérience de pratique du kendo samouraï à Nagoya",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Nagoya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNagoya est la quatrième ville du Japon et la porte d'entrée vers le parc Ghibli à Nagakute, ouvert en 2022 avec des billets à horaire fixe qui se vendent des semaines à l'avance, vers Nagashima Spa Land et ses montagnes russes, et vers Inuyama, dont le château est l'un des douze donjons originaux. Les dauphins dorés du château de Nagoya et le musée commémoratif Toyota sont les sites propres à la ville, et l'anguille grillée hitsumabushi et le katsu au miso sont sa cuisine. Le grand sanctuaire d'Ise, le site le plus sacré du shintoïsme, reconstruit tous les vingt ans, est à 90 minutes au sud.\n\nLe prix comprend guide/instructeur, location d'armure et d'équipement de kendo, eau minérale gratuite et serviette de main japonaise gratuite. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2 heures",
+   "Guide/instructeur professionnel",
+   "Location d'armure et d'équipement de kendo",
+   "Eau minérale gratuite",
+   "Serviette de main japonaise gratuite"
+  ],
+  "included": [
+   "Guide/instructeur professionnel",
+   "Location d'armure et d'équipement de kendo",
+   "Eau minérale gratuite",
+   "Serviette de main japonaise gratuite"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion de 2 heures à Nagoya, comprenant guide/instructeur, location d'armure et d'équipement de kendo et eau minérale gratuite. Opérateur : Park for us Co.,Ltd, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Expérience de pratique du kendo samouraï à Nagoya",
+  "metaDescription": "Excursion de 2 heures à Nagoya. Comprend guide/instructeur. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "osu-kannon-photoshoot-with-local-guide-in-nagoya": {
+  "title": "Séance photo à Osu Kannon avec guide local à Nagoya",
+  "fullDescription": "Cette expérience de 1 heure se déroule au départ de Nagoya, construite autour de Osu Kannon et Quartier commerçant d'Osu. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNagoya est la quatrième ville du Japon et la porte d'entrée vers le parc Ghibli à Nagakute, ouvert en 2022 avec des billets à horaire fixe qui se vendent des semaines à l'avance, vers Nagashima Spa Land et ses montagnes russes, et vers Inuyama, dont le château est l'un des douze donjons originaux. Les dauphins dorés du château de Nagoya et le musée commémoratif Toyota sont les sites propres à la ville, et l'anguille grillée hitsumabushi et le katsu au miso sont sa cuisine. Le grand sanctuaire d'Ise, le site le plus sacré du shintoïsme, reconstruit tous les vingt ans, est à 90 minutes au sud.\n\nLe prix comprend séance photo, guide et 40 images haute résolution éditées professionnellement. Il ne comprend pas transport aller-retour jusqu'au lieu de l'activité et repas et boissons, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\n2-chōme-21-47 Ōsu, Naka Ward, Nagoya, Aichi 460-0011, Japan. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Osu Kannon",
+   "Quartier commerçant d'Osu",
+   "Durée : 1 heure",
+   "Séance photo professionnelle",
+   "Guide local",
+   "40 images haute résolution éditées professionnellement"
+  ],
+  "included": [
+   "Séance photo professionnelle",
+   "Guide local",
+   "40 images haute résolution éditées professionnellement"
+  ],
+  "notIncluded": [
+   "Transport aller-retour jusqu'au lieu de l'activité",
+   "Repas et boissons"
+  ],
+  "shortDescription": "Excursion de 1 heure à Nagoya, avec Osu Kannon et Quartier commerçant d'Osu. Opérateur : Monogatari Moments, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Séance photo à Osu Kannon avec guide local à Nagoya",
+  "metaDescription": "Excursion de 1 heure à Nagoya. Comprend séance photo et guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "make-handmade-udon-and-miso-tasting-experience-in-nagoya": {
+  "title": "Fabriquez des udon faits main et dégustation de miso à Nagoya",
+  "fullDescription": "Cette expérience de 2,5 heures se déroule à Nagoya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNagoya est la quatrième ville du Japon et la porte d'entrée vers le parc Ghibli à Nagakute, ouvert en 2022 avec des billets à horaire fixe qui se vendent des semaines à l'avance, vers Nagashima Spa Land et ses montagnes russes, et vers Inuyama, dont le château est l'un des douze donjons originaux. Les dauphins dorés du château de Nagoya et le musée commémoratif Toyota sont les sites propres à la ville, et l'anguille grillée hitsumabushi et le katsu au miso sont sa cuisine. Le grand sanctuaire d'Ise, le site le plus sacré du shintoïsme, reconstruit tous les vingt ans, est à 90 minutes au sud.\n\nLe prix comprend ustensiles de cuisine, ingrédients, instruction en anglais, tablier et serviette et eau potable. Il ne comprend pas transport, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2,5 heures",
+   "Ustensiles de cuisine",
+   "Ingrédients",
+   "Instruction en anglais",
+   "Tablier et serviette",
+   "Eau potable"
+  ],
+  "included": [
+   "Ustensiles de cuisine",
+   "Ingrédients",
+   "Instruction en anglais",
+   "Tablier et serviette",
+   "Eau potable"
+  ],
+  "notIncluded": [
+   "Transport"
+  ],
+  "shortDescription": "Excursion de 2,5 heures à Nagoya, comprenant ustensiles de cuisine, ingrédients et instruction en anglais. Opérateur : I.C Class Kitchen, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Fabriquez des udon faits main et dégustation de miso à Nagoya",
+  "metaDescription": "Excursion de 2,5 heures à Nagoya. Comprend ustensiles de cuisine. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "custom-fragrance-workshop-in-nagoya": {
   "title": "Atelier de création de parfum personnalisé à Nagoya",
   "fullDescription": "Cette expérience de 30 minutes se déroule à Nagoya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNagoya est la quatrième ville du Japon et la porte d'entrée vers le parc Ghibli à Nagakute, ouvert en 2022 avec des billets à horaire fixe qui se vendent des semaines à l'avance, vers Nagashima Spa Land et ses montagnes russes, et vers Inuyama, dont le château est l'un des douze donjons originaux. Les dauphins dorés du château de Nagoya et le musée commémoratif Toyota sont les sites propres à la ville, et l'anguille grillée hitsumabushi et le katsu au miso sont sa cuisine. Le grand sanctuaire d'Ise, le site le plus sacré du shintoïsme, reconstruit tous les vingt ans, est à 90 minutes au sud.\n\nLe prix comprend création exclusive de parfum par un conseiller et taxe de vente. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -19455,6 +19962,33 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 0,5 heures à Nagoya, comprenant création exclusive de parfum par un conseiller et taxe de vente. Opérateur : Fragrance Project Co., Ltd., en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Atelier de création de parfum personnalisé à Nagoya",
   "metaDescription": "Excursion de 0,5 heures à Nagoya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "hiroshima-and-miyajima-in-1-day-private-tour-licensed-guide-by-local-operator": {
+  "title": "Hiroshima et Miyajima en 1 jour : visite privée avec guide agréé",
+  "fullDescription": "Cette expérience de 8 heures se déroule à Hiroshima. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe parc Mémorial de la Paix d'Hiroshima se trouve sur le sol sous le point où la bombe a explosé à 8h15 le 6 août 1945. Le dôme de la bombe A, le squelette du hall de promotion industrielle, a été laissé tel qu'il était ; le musée Mémorial de la Paix a rouvert en 2019 après une refonte et prend environ deux heures, et ne convient pas aux jeunes enfants. Le monument de la Paix des enfants est orné de grues en papier envoyées du monde entier. La cuisine propre d'Hiroshima est l'okonomiyaki en couches avec des nouilles, mangé aux comptoirs d'Okonomimura. Miyajima est à 40 minutes et la plupart des visiteurs combinent les deux en une journée.\n\nLe prix comprend visite privée, guide local agréé, prise en charge à pied depuis votre hébergement et visite à pied. Il ne comprend pas nourriture et boissons, tous les frais d'entrée, transport aller-retour vers le point de rendez-vous et frais de transport public/privé pendant la visite, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hiroshima. Japan Guide Agency, JGA Inc. confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 8 heures",
+   "Visite privée",
+   "Guide local agréé",
+   "Prise en charge à pied depuis votre hébergement (si à distance raisonnable)",
+   "Visite à pied"
+  ],
+  "included": [
+   "Visite privée",
+   "Guide local agréé",
+   "Prise en charge à pied depuis votre hébergement (si à distance raisonnable)",
+   "Visite à pied"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Tous les frais d'entrée",
+   "Transport aller-retour vers le point de rendez-vous",
+   "Frais de transport public/privé pendant la visite",
+   "Taxe de visiteur de Miyajima de 100 yens par personne (espèces uniquement)"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Hiroshima, comprenant visite privée, guide local agréé et prise en charge à pied depuis votre hébergement. Opérateur : Japan Guide Agency, JGA Inc., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Hiroshima et Miyajima en 1 jour : visite privée avec guide agréé",
+  "metaDescription": "Excursion d'une journée entière à Hiroshima. Comprend visite privée. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "play-the-koto-near-hiroshima-s-atomic-bomb-dome-by-local-operator": {
   "title": "Jouez du koto près du dôme de la bombe atomique d'Hiroshima",
@@ -19514,6 +20048,30 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Visite à pied privée et personnalisée à Hiroshima",
   "metaDescription": "Excursion d'une demi-journée à Hiroshima. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "private-walking-tour-with-a-local-in-hiroshima": {
+  "title": "Visite à pied privée avec un habitant à Hiroshima",
+  "fullDescription": "Cette expérience de 3 heures se déroule à Hiroshima. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe parc Mémorial de la Paix d'Hiroshima se trouve sur le sol sous le point où la bombe a explosé à 8h15 le 6 août 1945. Le dôme de la bombe A, le squelette du hall de promotion industrielle, a été laissé tel qu'il était ; le musée Mémorial de la Paix a rouvert en 2019 après une refonte et prend environ deux heures, et ne convient pas aux jeunes enfants. Le monument de la Paix des enfants est orné de grues en papier envoyées du monde entier. La cuisine propre d'Hiroshima est l'okonomiyaki en couches avec des nouilles, mangé aux comptoirs d'Okonomimura. Miyajima est à 40 minutes et la plupart des visiteurs combinent les deux en une journée.\n\nLe prix comprend guide et visite privée à pied personnalisée. Il ne comprend pas droits d'entrée, dépenses personnelles, pourboires et coûts d'activités optionnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 3 heures",
+   "Guide local (« Lokafyer »)",
+   "Visite privée à pied personnalisée"
+  ],
+  "included": [
+   "Guide local (« Lokafyer »)",
+   "Visite privée à pied personnalisée"
+  ],
+  "notIncluded": [
+   "Droits d'entrée",
+   "Dépenses personnelles",
+   "Pourboires",
+   "Coûts d'activités optionnelles",
+   "Repas et boissons",
+   "Transport local dans la ville (c'est une visite à pied, le transport en voiture n'est pas inclus)"
+  ],
+  "shortDescription": "Excursion de 3 heures à Hiroshima, comprenant guide et visite privée à pied personnalisée. Opérateur : Lokafy, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite à pied privée avec un habitant à Hiroshima",
+  "metaDescription": "Excursion de 3 heures à Hiroshima. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "hiroshima-peace-experience-fold-and-dedicate-an-origami-crane-by-local-operator": {
   "title": "Hiroshima : expérience de paix, pliez et dédiez une grue en origami",
   "fullDescription": "Cette expérience de 1,5 heures se déroule à Hiroshima. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLe parc Mémorial de la Paix d'Hiroshima se trouve sur le sol sous le point où la bombe a explosé à 8h15 le 6 août 1945. Le dôme de la bombe A, le squelette du hall de promotion industrielle, a été laissé tel qu'il était ; le musée Mémorial de la Paix a rouvert en 2019 après une refonte et prend environ deux heures, et ne convient pas aux jeunes enfants. Le monument de la Paix des enfants est orné de grues en papier envoyées du monde entier. La cuisine propre d'Hiroshima est l'okonomiyaki en couches avec des nouilles, mangé aux comptoirs d'Okonomimura. Miyajima est à 40 minutes et la plupart des visiteurs combinent les deux en une journée.\n\nLe prix comprend tous les frais et taxes et tous les matériaux nécessaires. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -19566,6 +20124,82 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion d'une demi-journée à Hiroshima, comprenant frais d'entrée au musée Mémorial de la Paix, frais d'entrée au musée des Forces maritimes d'autodéfense (JMSDF) et guide. Opérateur : GuideMe Japan, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Hiroshima : visite matinale du mémorial de la Paix avec guide",
   "metaDescription": "Excursion d'une demi-journée à Hiroshima. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "deer-park-todai-ji-and-naramachi-walking-tour": {
+  "title": "Visite à pied du parc aux cerfs, Todai-ji et Naramachi",
+  "fullDescription": "Cette expérience de 2,5 heures se déroule à Nara. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNara fut la première capitale permanente du Japon, de 710 à 784, et son parc abrite Todai-ji, dont le Hall du Grand Bouddha est l'un des plus grands bâtiments en bois du monde et contient un Bouddha de bronze de 15 mètres fondu en 752, Kasuga Taisha avec ses trois mille lanternes, et environ 1 200 cerfs sika considérés comme des messagers des dieux et protégés. Les cerfs s'inclinent pour les crackers shika senbei vendus dans le parc et donneront des coups de tête à quiconque les taquine. Nara est à 45 minutes de Kyoto ou Osaka en train et se visite en une demi-journée ; Todai-ji avant 10h00 est l'heure calme.\n\nLe prix comprend visite guidée à pied, visite du parc de Nara, visite de Kasuga Taisha et visite de Naramachi. Il ne comprend pas frais d'entrée au temple Todaiji, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2,5 heures",
+   "Visite guidée à pied",
+   "Visite du parc de Nara",
+   "Visite de Kasuga Taisha",
+   "Visite de Naramachi"
+  ],
+  "included": [
+   "Visite guidée à pied",
+   "Visite du parc de Nara",
+   "Visite de Kasuga Taisha",
+   "Visite de Naramachi"
+  ],
+  "notIncluded": [
+   "Frais d'entrée au temple Todaiji"
+  ],
+  "shortDescription": "Excursion de 2,5 heures à Nara, comprenant visite guidée à pied, visite du parc de Nara et visite de Kasuga Taisha. Opérateur : Native Japan, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite à pied du parc aux cerfs, Todai-ji et Naramachi",
+  "metaDescription": "Excursion de 2,5 heures à Nara. Comprend visite guidée à pied. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "pre-dawn-heritage-walk-with-local-guide-in-nara": {
+  "title": "Promenade patrimoniale avant l'aube avec guide local à Nara",
+  "fullDescription": "Cette expérience de 2,5 heures se déroule au départ de Nara, construite autour de Rue Sanjo-Dori et Étang de Sarusawa. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNara fut la première capitale permanente du Japon, de 710 à 784, et son parc abrite Todai-ji, dont le Hall du Grand Bouddha est l'un des plus grands bâtiments en bois du monde et contient un Bouddha de bronze de 15 mètres fondu en 752, Kasuga Taisha avec ses trois mille lanternes, et environ 1 200 cerfs sika considérés comme des messagers des dieux et protégés. Les cerfs s'inclinent pour les crackers shika senbei vendus dans le parc et donneront des coups de tête à quiconque les taquine. Nara est à 45 minutes de Kyoto ou Osaka en train et se visite en une demi-journée ; Todai-ji avant 10h00 est l'heure calme.\n\nLe prix comprend guide, guide et spots photo. Il ne comprend pas prise en charge à l'hôtel, achats personnels et nourriture et boissons supplémentaires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nKintetsu-Nara Station. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Rue Sanjo-Dori",
+   "Étang de Sarusawa",
+   "Durée : 2,5 heures",
+   "Guide local",
+   "Guide anglophone",
+   "Spots photo"
+  ],
+  "included": [
+   "Guide local",
+   "Guide anglophone",
+   "Spots photo"
+  ],
+  "notIncluded": [
+   "Prise en charge à l'hôtel",
+   "Achats personnels",
+   "Nourriture et boissons supplémentaires"
+  ],
+  "shortDescription": "Excursion de 2,5 heures à Nara, avec Rue Sanjo-Dori et Étang de Sarusawa. Opérateur : Gappy, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Promenade patrimoniale avant l'aube avec guide local à Nara",
+  "metaDescription": "Excursion de 2,5 heures à Nara. Comprend guide, guide et spots photo. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "3-days-private-osaka-kyoto-and-nara-tour-with-english-driver-by-local-operator": {
+  "title": "Visite privée de 3 jours à Osaka, Kyoto et Nara avec chauffeur anglophone",
+  "fullDescription": "Cette expérience de 3 jours se déroule à Nara. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend ce qui est inclus, véhicule climatisé, wi-Fi à bord, transport privé et frais de stationnement. Il ne comprend pas hébergement, déjeuner et billets d'entrée, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Nara. Japan Travel and Tour confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 3 jours",
+   "Ce qui est inclus",
+   "Véhicule climatisé",
+   "Wi-Fi à bord",
+   "Transport privé",
+   "Frais de stationnement"
+  ],
+  "included": [
+   "Ce qui est inclus",
+   "Véhicule climatisé",
+   "Wi-Fi à bord",
+   "Transport privé",
+   "Frais de stationnement",
+   "Prise en charge et retour"
+  ],
+  "notIncluded": [
+   "Hébergement",
+   "Déjeuner",
+   "Billets d'entrée"
+  ],
+  "shortDescription": "Excursion de 3 jours à Nara, comprenant ce qui est inclus, véhicule climatisé et wi-Fi à bord. Opérateur : Japan Travel and Tour, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite privée de 3 jours à Osaka, Kyoto et Nara avec chauffeur anglophone",
+  "metaDescription": "Excursion de 3 jours à Nara. Comprend ce qui est inclus. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "nara-samurai-tour-yagyu-village-and-split-rock-hike-by-local-operator": {
   "title": "Nara : visite samouraï, village de Yagyu et randonnée du rocher fendu",
@@ -19626,6 +20260,27 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Entrez dans les rues de l'ère Edo dans la ville patrimoniale d'Imai à Nara",
   "metaDescription": "Excursion à Nara. Comprend visite guidée à pied d'Imai-chō et guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "design-your-own-deer-ceramic-figurine-with-shipping-in-nara": {
+  "title": "Concevez votre propre figurine en céramique de cerf avec livraison à Nara",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Nara. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNara fut la première capitale permanente du Japon, de 710 à 784, et son parc abrite Todai-ji, dont le Hall du Grand Bouddha est l'un des plus grands bâtiments en bois du monde et contient un Bouddha de bronze de 15 mètres fondu en 752, Kasuga Taisha avec ses trois mille lanternes, et environ 1 200 cerfs sika considérés comme des messagers des dieux et protégés. Les cerfs s'inclinent pour les crackers shika senbei vendus dans le parc et donneront des coups de tête à quiconque les taquine. Nara est à 45 minutes de Kyoto ou Osaka en train et se visite en une demi-journée ; Todai-ji avant 10h00 est l'heure calme.\n\nLe prix comprend tout le matériel, instruction, cuisson au four et expédition internationale. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 heure",
+   "Tout le matériel",
+   "Instruction",
+   "Cuisson au four",
+   "Expédition internationale"
+  ],
+  "included": [
+   "Tout le matériel",
+   "Instruction",
+   "Cuisson au four",
+   "Expédition internationale"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion de 1 heure à Nara, comprenant tout le matériel, instruction et cuisson au four. Opérateur : Kurabi, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Concevez votre propre figurine en céramique de cerf avec livraison à Nara",
+  "metaDescription": "Excursion de 1 heure à Nara. Comprend tout le matériel et instruction. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "private-custom-walking-tour-with-local-guide-in-nara": {
   "title": "Visite à pied privée et personnalisée avec guide local à Nara",
   "fullDescription": "Cette expérience de 4 heures se déroule à Nara. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNara fut la première capitale permanente du Japon, de 710 à 784, et son parc abrite Todai-ji, dont le Hall du Grand Bouddha est l'un des plus grands bâtiments en bois du monde et contient un Bouddha de bronze de 15 mètres fondu en 752, Kasuga Taisha avec ses trois mille lanternes, et environ 1 200 cerfs sika considérés comme des messagers des dieux et protégés. Les cerfs s'inclinent pour les crackers shika senbei vendus dans le parc et donneront des coups de tête à quiconque les taquine. Nara est à 45 minutes de Kyoto ou Osaka en train et se visite en une demi-journée ; Todai-ji avant 10h00 est l'heure calme.\n\nLe prix comprend guide et itinéraire personnalisé. Il ne comprend pas tous les frais et taxes et transport privé, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -19645,6 +20300,30 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion d'une demi-journée à Nara, comprenant guide et itinéraire personnalisé. Opérateur : DeepExperience, Inc., en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Visite à pied privée et personnalisée avec guide local à Nara",
   "metaDescription": "Excursion d'une demi-journée à Nara. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "private-walking-tour-with-a-local-in-nara": {
+  "title": "Visite à pied privée avec un habitant à Nara",
+  "fullDescription": "Cette expérience de 3 heures se déroule à Nara. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNara fut la première capitale permanente du Japon, de 710 à 784, et son parc abrite Todai-ji, dont le Hall du Grand Bouddha est l'un des plus grands bâtiments en bois du monde et contient un Bouddha de bronze de 15 mètres fondu en 752, Kasuga Taisha avec ses trois mille lanternes, et environ 1 200 cerfs sika considérés comme des messagers des dieux et protégés. Les cerfs s'inclinent pour les crackers shika senbei vendus dans le parc et donneront des coups de tête à quiconque les taquine. Nara est à 45 minutes de Kyoto ou Osaka en train et se visite en une demi-journée ; Todai-ji avant 10h00 est l'heure calme.\n\nLe prix comprend guide et visite privée à pied personnalisée. Il ne comprend pas droits d'entrée, dépenses personnelles, pourboires et coûts d'activités optionnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 3 heures",
+   "Guide local (lokafyer)",
+   "Visite privée à pied personnalisée"
+  ],
+  "included": [
+   "Guide local (lokafyer)",
+   "Visite privée à pied personnalisée"
+  ],
+  "notIncluded": [
+   "Droits d'entrée",
+   "Dépenses personnelles",
+   "Pourboires",
+   "Coûts d'activités optionnelles",
+   "Repas et boissons",
+   "Transport local dans la ville"
+  ],
+  "shortDescription": "Excursion de 3 heures à Nara, comprenant guide et visite privée à pied personnalisée. Opérateur : Lokafy, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite à pied privée avec un habitant à Nara",
+  "metaDescription": "Excursion de 3 heures à Nara. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "kyoto-geisha-walking-tour-gion-district-and-local-sites-by-local-operator": {
   "title": "Kyoto : visite à pied geisha, quartier de Gion et sites locaux",
@@ -19703,6 +20382,25 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Visite en vélo électrique des secrets de la ville à Kyoto",
   "metaDescription": "Excursion à Kyoto. Comprend guide, vélos et casques. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "ry-an-ji-greatest-zen-garden-guided-tour-in-90-min-in-kyoto": {
+  "title": "Ryoan-ji : visite guidée du plus grand jardin zen en 90 minutes à Kyoto",
+  "fullDescription": "Cette expérience de 1,5 heures se déroule au départ de Kyoto, construite autour de Ryoan-ji et Point de vue. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend frais de guide et entrée à Ryoan-ji. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\n龍安寺山門. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Ryoan-ji",
+   "Point de vue",
+   "Durée : 1,5 heures",
+   "Frais de guide",
+   "Entrée à Ryoan-ji"
+  ],
+  "included": [
+   "Frais de guide",
+   "Entrée à Ryoan-ji"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion à Kyoto, avec Ryoan-ji et Point de vue. Opérateur : DeepExperience, Inc., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Ryoan-ji : visite guidée du plus grand jardin zen en 90 minutes à Kyoto",
+  "metaDescription": "Excursion à Kyoto. Comprend frais de guide et entrée à Ryoan-ji. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "morning-highlights-e-bike-tour-in-kyoto": {
   "title": "Visite matinale des points forts en vélo électrique à Kyoto",
   "fullDescription": "Cette expérience de 2,5 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend guides, billets d'entrée et location de vélo électrique. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -19721,6 +20419,30 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Kyoto, comprenant guides, billets d'entrée et location de vélo électrique. Opérateur : Aska, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Visite matinale des points forts en vélo électrique à Kyoto",
   "metaDescription": "Excursion à Kyoto. Comprend guides et billets d'entrée. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "early-access-fushimi-inari-private-walking-tour": {
+  "title": "Visite privée à pied matinale à Fushimi Inari (accès anticipé)",
+  "fullDescription": "Cette expérience de 3 heures se déroule au départ de Kyoto, construite autour de Fushimi Inari Taisha, Point de vue et Trésor caché. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nFushimi Inari Taisha est le sanctuaire principal d'Inari, la divinité du riz et des affaires, et ses plus de mille portiques torii vermillon, chacun donné par une entreprise ou une famille, s'enchaînent en tunnels sur les 233 mètres du mont Inari derrière le hall principal. La boucle complète jusqu'au sommet fait environ quatre kilomètres et deux heures ; la plupart des visiteurs font demi-tour au point de vue de Yotsutsuji à mi-chemin. C'est ouvert 24 heures sur 24 et gratuit, ce qui en fait le seul grand site de Kyoto que l'on peut faire à l'aube ou après la nuit tombée, quand les portiques sont vides et illuminés. Dès neuf heures du matin, les tunnels inférieurs deviennent une file lente. Les statues de renard portent des clés du grenier à riz dans leur bouche.\n\nLe prix comprend visite privée à pied, guide en personne, éclairages sur la culture locale et occasions de photos. Il ne comprend pas eau et boissons, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nFushimi Inari Taisha. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Fushimi Inari Taisha",
+   "Point de vue",
+   "Trésor caché",
+   "Durée : 3 heures",
+   "Visite privée à pied",
+   "Guide en personne"
+  ],
+  "included": [
+   "Visite privée à pied",
+   "Guide en personne",
+   "Éclairages sur la culture locale",
+   "Occasions de photos"
+  ],
+  "notIncluded": [
+   "Eau et boissons"
+  ],
+  "shortDescription": "Excursion de 3 heures à Kyoto, avec Fushimi Inari Taisha, Point de vue et Trésor caché. Opérateur : Senbon Tours, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite privée à pied matinale à Fushimi Inari (accès anticipé)",
+  "metaDescription": "Excursion de 3 heures à Kyoto. Comprend visite privée à pied. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "kyoto-shinkyogoku-custom-fragrance-workshop-by-local-operator": {
   "title": "Kyoto Shinkyogoku : atelier de création de parfum personnalisé",
@@ -19758,6 +20480,47 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Visite architecturale exclusive dans une maison patrimoniale de l'ère Taisho à Kyoto",
   "metaDescription": "Excursion à Kyoto. Comprend visite guidée de 1h30. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "hanakoushi-shibori-cotton-scarf-class-in-kyoto": {
+  "title": "Cours d'écharpe en coton hanakoushi shibori à Kyoto",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend les participants à l'atelier reçoivent une entrée gratuite à Kyoto. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 heure",
+   "Les participants à l'atelier reçoivent une entrée gratuite au musée Shibori de Kyoto, qui coûte normalement 1 000 yens"
+  ],
+  "included": [
+   "Les participants à l'atelier reçoivent une entrée gratuite au musée Shibori de Kyoto, qui coûte normalement 1 000 yens."
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion de 1 heure à Kyoto, comprenant les participants à l'atelier reçoivent une entrée gratuite à Kyoto. Opérateur : KYOTO SHIBORI MUSEUM, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Cours d'écharpe en coton hanakoushi shibori à Kyoto",
+  "metaDescription": "Excursion de 1 heure à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "karasuma-shijo-kimono-tea-ceremony-with-matcha-and-sweets-in-kyoto": {
+  "title": "Karasuma Shijo : kimono, cérémonie du thé avec matcha et douceurs à Kyoto",
+  "fullDescription": "Cette expérience de 1,5 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nGion est le quartier historique de divertissement de Kyoto, les rues de maisons machiya en bois autour de Hanamikoji où les geiko et maiko du district de Gion Kobu travaillent encore. Ce sont des professionnelles en route vers des engagements, pas des artistes de rue, et Kyoto a interdit la photographie dans les ruelles privées ; une promenade du soir avec un guide qui explique le système ochaya est la façon respectueuse de voir cela. Les sessions de cérémonie du thé à Gion enseignent la forme de base de la préparation du matcha en une heure. La location de kimono pour une journée, avec habillage et coiffure, est une activité établie dans le quartier et est bien accueillie plutôt que mal perçue.\n\nLe prix comprend habillage en kimono, cérémonie du thé traditionnelle dirigée par un maître du thé, préparation pratique du thé matcha, douceurs japonaises et assistance d'un personnel bilingue. Il ne comprend pas transport aller-retour jusqu'au lieu de l'activité, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1,5 heures",
+   "Habillage en kimono",
+   "Cérémonie du thé traditionnelle dirigée par un maître du thé",
+   "Préparation pratique du thé matcha",
+   "Douceurs japonaises",
+   "Assistance d'un personnel bilingue"
+  ],
+  "included": [
+   "Habillage en kimono",
+   "Cérémonie du thé traditionnelle dirigée par un maître du thé",
+   "Préparation pratique du thé matcha",
+   "Douceurs japonaises",
+   "Assistance d'un personnel bilingue",
+   "Coiffure pour femmes (cheveux longs uniquement)"
+  ],
+  "notIncluded": [
+   "Transport aller-retour jusqu'au lieu de l'activité"
+  ],
+  "shortDescription": "Excursion à Kyoto, comprenant habillage en kimono, cérémonie du thé traditionnelle dirigée par un maître du thé et préparation pratique du thé matcha. Opérateur : GLOBA Inc., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Karasuma Shijo : kimono, cérémonie du thé avec matcha",
+  "metaDescription": "Excursion à Kyoto. Comprend habillage en kimono. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "hidden-gems-e-bike-tour-with-local-japanese-guide-in-kyoto": {
   "title": "Visite des joyaux cachés en vélo électrique avec guide local japonais à Kyoto",
   "fullDescription": "Cette expérience de 3,5 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend location de vélo électrique et casque, guide, billet d'entrée et frais de stationnement. Il ne comprend pas eau, nourriture, prise en charge et retour à l'hôtel et pourboire, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -19784,6 +20547,28 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Visite des joyaux cachés en vélo électrique avec guide local japonais à Kyoto",
   "metaDescription": "Excursion d'une demi-journée à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "kyoto-night-walk-fushimi-inari-s-lantern-lit-torii-by-local-operator": {
+  "title": "Kyoto : promenade nocturne aux torii illuminés de lanternes de Fushimi Inari",
+  "fullDescription": "Cette expérience de 2 heures se déroule au départ de Kyoto, construite autour de Transport public et Fushimi Inari Taisha. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nFushimi Inari Taisha est le sanctuaire principal d'Inari, la divinité du riz et des affaires, et ses plus de mille portiques torii vermillon, chacun donné par une entreprise ou une famille, s'enchaînent en tunnels sur les 233 mètres du mont Inari derrière le hall principal. La boucle complète jusqu'au sommet fait environ quatre kilomètres et deux heures ; la plupart des visiteurs font demi-tour au point de vue de Yotsutsuji à mi-chemin. C'est ouvert 24 heures sur 24 et gratuit, ce qui en fait le seul grand site de Kyoto que l'on peut faire à l'aube ou après la nuit tombée, quand les portiques sont vides et illuminés. Dès neuf heures du matin, les tunnels inférieurs deviennent une file lente. Les statues de renard portent des clés du grenier à riz dans leur bouche.\n\nLe prix comprend guide. Il ne comprend pas nourriture et boissons, frais de transport, frais d'entrée non spécifiés dans la section « Inclus » et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Transport public",
+   "Fushimi Inari Taisha",
+   "Durée : 2 heures",
+   "Guide local"
+  ],
+  "included": [
+   "Guide local"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Frais de transport",
+   "Frais d'entrée non spécifiés dans la section « Inclus »",
+   "Prise en charge et retour à l'hôtel"
+  ],
+  "shortDescription": "Excursion de 2 heures à Kyoto, avec Transport public et Fushimi Inari Taisha. Opérateur : MARKEVISION株式会社, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Kyoto : promenade nocturne aux torii illuminés de lanternes de Fushimi Inari",
+  "metaDescription": "Excursion de 2 heures à Kyoto. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "kintsugi-workshop-restore-ceramics-with-gold-in-kyoto": {
   "title": "Atelier de kintsugi : restaurez la céramique à l'or à Kyoto",
   "fullDescription": "Cette expérience de 1 heure se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend atelier de kintsugi, tout le matériel et les outils nécessaires et accompagnement par un instructeur. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -19803,6 +20588,30 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Atelier de kintsugi : restaurez la céramique à l'or à Kyoto",
   "metaDescription": "Excursion de 1 heure à Kyoto. Comprend atelier de kintsugi. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "kintsugi-gold-repair-workshop-in-gion": {
+  "title": "Atelier de réparation à l'or kintsugi à Gion",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nGion est le quartier historique de divertissement de Kyoto, les rues de maisons machiya en bois autour de Hanamikoji où les geiko et maiko du district de Gion Kobu travaillent encore. Ce sont des professionnelles en route vers des engagements, pas des artistes de rue, et Kyoto a interdit la photographie dans les ruelles privées ; une promenade du soir avec un guide qui explique le système ochaya est la façon respectueuse de voir cela. Les sessions de cérémonie du thé à Gion enseignent la forme de base de la préparation du matcha en une heure. La location de kimono pour une journée, avec habillage et coiffure, est une activité établie dans le quartier et est bien accueillie plutôt que mal perçue.\n\nLe prix comprend atelier de kintsugi, tous les matériaux et outils nécessaires pour l'expérience de kintsugi, une assiette incluse et instructeur. Il ne comprend pas mises à niveau d'assiette premium et pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 heure",
+   "Atelier de kintsugi",
+   "Tous les matériaux et outils nécessaires pour l'expérience de kintsugi",
+   "Une assiette incluse",
+   "Instructeur anglophone"
+  ],
+  "included": [
+   "Atelier de kintsugi",
+   "Tous les matériaux et outils nécessaires pour l'expérience de kintsugi",
+   "Une assiette incluse",
+   "Instructeur anglophone"
+  ],
+  "notIncluded": [
+   "Mises à niveau d'assiette premium (disponibles contre un supplément)",
+   "Pourboires (facultatifs)"
+  ],
+  "shortDescription": "Excursion de 1 heure à Kyoto, comprenant atelier de kintsugi, tous les matériaux et outils nécessaires pour l'expérience de kintsugi et une assiette incluse. Opérateur : Traveling Tokyo, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Atelier de réparation à l'or kintsugi à Gion",
+  "metaDescription": "Excursion de 1 heure à Kyoto. Comprend atelier de kintsugi. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "samurai-canals-and-edo-sake-brewery-walk-in-kyoto": {
   "title": "Promenade samouraï, canaux et brasserie de saké de l'ère Edo à Kyoto",
   "fullDescription": "Cette expérience de 3,5 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend guide et tarifs de train. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -19820,6 +20629,54 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Promenade samouraï, canaux et brasserie de saké de l'ère Edo à Kyoto",
   "metaDescription": "Excursion à Kyoto. Comprend guide et tarifs de train. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "kendo-samurai-experience-tour-in-kyoto": {
+  "title": "Visite d'expérience samouraï kendo à Kyoto",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend guide/instructeur, location d'armure et d'équipement de kendo, eau minérale gratuite et serviette « Kendo » gratuite. Il ne comprend pas prise en charge et retour à l'hôtel et nourriture, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2 heures",
+   "Guide/instructeur professionnel",
+   "Location d'armure et d'équipement de kendo",
+   "Eau minérale gratuite",
+   "Serviette « Kendo » gratuite"
+  ],
+  "included": [
+   "Guide/instructeur professionnel",
+   "Location d'armure et d'équipement de kendo",
+   "Eau minérale gratuite",
+   "Serviette « Kendo » gratuite"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel",
+   "Nourriture"
+  ],
+  "shortDescription": "Excursion de 2 heures à Kyoto, comprenant guide/instructeur, location d'armure et d'équipement de kendo et eau minérale gratuite. Opérateur : Park for us Co.,Ltd, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite d'expérience samouraï kendo à Kyoto",
+  "metaDescription": "Excursion de 2 heures à Kyoto. Comprend guide/instructeur. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "private-walking-tour-with-a-local-in-kyoto": {
+  "title": "Visite à pied privée avec un habitant à Kyoto",
+  "fullDescription": "Cette expérience de 3 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend guide et visite privée à pied personnalisée. Il ne comprend pas droits d'entrée, dépenses personnelles, pourboires et coûts d'activités optionnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 3 heures",
+   "Guide local",
+   "Visite privée à pied personnalisée"
+  ],
+  "included": [
+   "Guide local",
+   "Visite privée à pied personnalisée"
+  ],
+  "notIncluded": [
+   "Droits d'entrée",
+   "Dépenses personnelles",
+   "Pourboires",
+   "Coûts d'activités optionnelles",
+   "Repas et boissons",
+   "Transport dans la ville"
+  ],
+  "shortDescription": "Excursion de 3 heures à Kyoto, comprenant guide et visite privée à pied personnalisée. Opérateur : Lokafy, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite à pied privée avec un habitant à Kyoto",
+  "metaDescription": "Excursion de 3 heures à Kyoto. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "ramen-and-gyoza-cooking-class-in-dotonbori": {
   "title": "Cours de cuisine ramen et gyoza à Dotonbori",
   "fullDescription": "Cette expérience de 3 heures se déroule à Osaka. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nOsaka est la cuisine du Japon : la ville qui a inventé le takoyaki, l'okonomiyaki et le kushikatsu, et le canal aux enseignes de néon de Dotonbori est l'endroit où on les mange. Le château d'Osaka est une reconstruction en béton de 1931 de la forteresse de Hideyoshi avec un musée à l'intérieur et des douves et un parc qui valent une heure ; le marché Kuromon est le marché alimentaire ; Shinsekai est le quartier rétro sous la tour Tsutenkaku ; le Umeda Sky Building a l'observatoire en plein air. Osaka est la base pour des excursions d'une journée à Nara, Kobe, Himeji et Koyasan, tous à moins d'une heure et demie. La ville est plus bruyante et moins chère que Kyoto et ses habitants en sont fiers.\n\nLe prix comprend tous les ingrédients du cours de cuisine. Il ne comprend pas prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -19836,6 +20693,118 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 3 heures à Osaka, comprenant tous les ingrédients du cours de cuisine. Opérateur : Cooking Sun, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Cours de cuisine ramen et gyoza à Dotonbori",
   "metaDescription": "Excursion de 3 heures à Osaka. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "osaka-namba-entertainment-hub-maid-cafe-exp-maidreamin-by-local-operator": {
+  "title": "Osaka Namba : pôle de divertissement, expérience de café maid Maidreamin",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Osaka. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nOsaka est la cuisine du Japon : la ville qui a inventé le takoyaki, l'okonomiyaki et le kushikatsu, et le canal aux enseignes de néon de Dotonbori est l'endroit où on les mange. Le château d'Osaka est une reconstruction en béton de 1931 de la forteresse de Hideyoshi avec un musée à l'intérieur et des douves et un parc qui valent une heure ; le marché Kuromon est le marché alimentaire ; Shinsekai est le quartier rétro sous la tour Tsutenkaku ; le Umeda Sky Building a l'observatoire en plein air. Osaka est la base pour des excursions d'une journée à Nara, Kobe, Himeji et Koyasan, tous à moins d'une heure et demie. La ville est plus bruyante et moins chère que Kyoto et ses habitants en sont fiers.\n\nLe prix comprend une boisson, repas ou dessert, séance photo avec une maid, passeport du pays des rêves et omajinai. Il ne comprend pas des options supplémentaires pour rendre votre expérience encore plus agréable, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 heure",
+   "Une boisson",
+   "Repas ou dessert",
+   "Séance photo avec une maid",
+   "Passeport du pays des rêves (frais de table)",
+   "Omajinai (mots magiques pour une délicieuse friandise)"
+  ],
+  "included": [
+   "Une boisson",
+   "Repas ou dessert",
+   "Séance photo avec une maid",
+   "Passeport du pays des rêves (frais de table)",
+   "Omajinai (mots magiques pour une délicieuse friandise)"
+  ],
+  "notIncluded": [
+   "Des options supplémentaires pour rendre votre expérience encore plus agréable"
+  ],
+  "shortDescription": "Excursion de 1 heure à Osaka, comprenant une boisson, repas ou dessert et séance photo avec une maid. Opérateur : 株式会社ネオディライトインターナショナル, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Osaka Namba : pôle de divertissement, expérience de café maid Maidreamin",
+  "metaDescription": "Excursion de 1 heure à Osaka. Comprend une boisson. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "a5-grade-japanese-black-wagyu-yakiniku-experience-in-osaka-by-local-operator": {
+  "title": "Expérience de yakiniku de bœuf wagyu noir japonais de grade A5 à Osaka",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Osaka. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nOsaka est la cuisine du Japon : la ville qui a inventé le takoyaki, l'okonomiyaki et le kushikatsu, et le canal aux enseignes de néon de Dotonbori est l'endroit où on les mange. Le château d'Osaka est une reconstruction en béton de 1931 de la forteresse de Hideyoshi avec un musée à l'intérieur et des douves et un parc qui valent une heure ; le marché Kuromon est le marché alimentaire ; Shinsekai est le quartier rétro sous la tour Tsutenkaku ; le Umeda Sky Building a l'observatoire en plein air. Osaka est la base pour des excursions d'une journée à Nara, Kobe, Himeji et Koyasan, tous à moins d'une heure et demie. La ville est plus bruyante et moins chère que Kyoto et ses habitants en sont fiers.\n\nLe prix comprend menu complet, taxe de vente et réservation. Il ne comprend pas boissons et autres dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2 heures",
+   "Menu complet",
+   "Taxe de vente",
+   "Réservation"
+  ],
+  "included": [
+   "Menu complet",
+   "Taxe de vente",
+   "Réservation"
+  ],
+  "notIncluded": [
+   "Boissons (sauf eau)",
+   "Autres dépenses personnelles"
+  ],
+  "shortDescription": "Excursion de 2 heures à Osaka, comprenant menu complet, taxe de vente et réservation. Opérateur : TakeMe Co.,Ltd., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Expérience de yakiniku de bœuf wagyu noir japonais de grade A5 à Osaka",
+  "metaDescription": "Excursion de 2 heures à Osaka. Comprend menu complet et taxe de vente. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "must-see-and-hidden-gems-walking-tour-in-osaka": {
+  "title": "Visite à pied des incontournables et joyaux cachés à Osaka",
+  "fullDescription": "Cette expérience de 3 heures se déroule à Osaka. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nOsaka est la cuisine du Japon : la ville qui a inventé le takoyaki, l'okonomiyaki et le kushikatsu, et le canal aux enseignes de néon de Dotonbori est l'endroit où on les mange. Le château d'Osaka est une reconstruction en béton de 1931 de la forteresse de Hideyoshi avec un musée à l'intérieur et des douves et un parc qui valent une heure ; le marché Kuromon est le marché alimentaire ; Shinsekai est le quartier rétro sous la tour Tsutenkaku ; le Umeda Sky Building a l'observatoire en plein air. Osaka est la base pour des excursions d'une journée à Nara, Kobe, Himeji et Koyasan, tous à moins d'une heure et demie. La ville est plus bruyante et moins chère que Kyoto et ses habitants en sont fiers.\n\nLe prix comprend visite privée ou en petit groupe et visite à pied. Il ne comprend pas boisson ou nourriture, pourboires et transport dans la ville, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\n1-chōme-7-10 Namba, Chuo Ward, Osaka, 542-0076, Japan. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 3 heures",
+   "Visite privée ou en petit groupe",
+   "Visite à pied"
+  ],
+  "included": [
+   "Visite privée ou en petit groupe",
+   "Visite à pied"
+  ],
+  "notIncluded": [
+   "Boisson ou nourriture",
+   "Pourboires (facultatifs)",
+   "Transport local dans la ville (c'est une visite à pied, le transport en voiture n'est pas inclus)"
+  ],
+  "shortDescription": "Excursion de 3 heures à Osaka, comprenant visite privée ou en petit groupe et visite à pied. Opérateur : Guydeez, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite à pied des incontournables et joyaux cachés à Osaka",
+  "metaDescription": "Excursion de 3 heures à Osaka. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "3-4-5-hours-private-tour-with-local-guide-in-osaka": {
+  "title": "Visite privée de 3/4/5 heures avec guide local à Osaka",
+  "fullDescription": "Cette expérience de 3 heures se déroule au départ de Osaka, construite autour de Train. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nOsaka est la cuisine du Japon : la ville qui a inventé le takoyaki, l'okonomiyaki et le kushikatsu, et le canal aux enseignes de néon de Dotonbori est l'endroit où on les mange. Le château d'Osaka est une reconstruction en béton de 1931 de la forteresse de Hideyoshi avec un musée à l'intérieur et des douves et un parc qui valent une heure ; le marché Kuromon est le marché alimentaire ; Shinsekai est le quartier rétro sous la tour Tsutenkaku ; le Umeda Sky Building a l'observatoire en plein air. Osaka est la base pour des excursions d'une journée à Nara, Kobe, Himeji et Koyasan, tous à moins d'une heure et demie. La ville est plus bruyante et moins chère que Kyoto et ses habitants en sont fiers.\n\nLe prix comprend visite privée à pied, personnalisation de votre expérience, prise en charge à votre hôtel et conseils et astuces pour le reste de votre voyage. Il ne comprend pas billets pour toute attraction, nourriture et boissons, transport et pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nOsaka. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Train",
+   "Durée : 3 heures",
+   "Visite privée à pied",
+   "Personnalisation de votre expérience",
+   "Prise en charge à votre hôtel",
+   "Conseils et astuces pour le reste de votre voyage"
+  ],
+  "included": [
+   "Visite privée à pied",
+   "Personnalisation de votre expérience",
+   "Prise en charge à votre hôtel",
+   "Conseils et astuces pour le reste de votre voyage"
+  ],
+  "notIncluded": [
+   "Billets pour toute attraction",
+   "Nourriture et boissons",
+   "Transport",
+   "Pourboires (facultatifs)"
+  ],
+  "shortDescription": "Excursion de 3 heures à Osaka, comprenant visite privée à pied, personnalisation de votre expérience et prise en charge à votre hôtel. Opérateur : Osaka local, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite privée de 3/4/5 heures avec guide local à Osaka",
+  "metaDescription": "Excursion de 3 heures à Osaka. Comprend visite privée à pied. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "traditional-tea-ceremony-experience-in-osaka": {
+  "title": "Expérience de cérémonie du thé traditionnelle à Osaka",
+  "fullDescription": "Cette expérience de 30 minutes se déroule à Osaka. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nGion est le quartier historique de divertissement de Kyoto, les rues de maisons machiya en bois autour de Hanamikoji où les geiko et maiko du district de Gion Kobu travaillent encore. Ce sont des professionnelles en route vers des engagements, pas des artistes de rue, et Kyoto a interdit la photographie dans les ruelles privées ; une promenade du soir avec un guide qui explique le système ochaya est la façon respectueuse de voir cela. Les sessions de cérémonie du thé à Gion enseignent la forme de base de la préparation du matcha en une heure. La location de kimono pour une journée, avec habillage et coiffure, est une activité établie dans le quartier et est bien accueillie plutôt que mal perçue.\n\nLe prix comprend un ensemble d'expérience OTE-MAE. Il ne comprend pas certificat d'achèvement de l'expérience : 300 JPY, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 30 minutes",
+   "Un ensemble d'expérience OTE-MAE (cérémonie du thé japonaise)"
+  ],
+  "included": [
+   "Un ensemble d'expérience OTE-MAE (cérémonie du thé japonaise)"
+  ],
+  "notIncluded": [
+   "Certificat d'achèvement de l'expérience : 300 JPY"
+  ],
+  "shortDescription": "Excursion de 0,5 heures à Osaka, comprenant un ensemble d'expérience OTE-MAE. Opérateur : B.B.Advisors Inc. AN OSAKA, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Expérience de cérémonie du thé traditionnelle à Osaka",
+  "metaDescription": "Excursion de 0,5 heures à Osaka. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "bike-adventure-with-lunch-in-osaka": {
   "title": "Aventure à vélo avec déjeuner à Osaka",
@@ -19883,6 +20852,24 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Aventure de jeu rétro et moderne à Nipponbashi, Osaka",
   "metaDescription": "Excursion de 3 heures à Osaka. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "cup-noodles-museum-guided-tour-90-minutes-in-osaka": {
+  "title": "Visite guidée du musée Cup Noodles (90 minutes) à Osaka",
+  "fullDescription": "Cette expérience de 1,5 heures se déroule à Osaka, construite autour de Musée Cup Noodles Osaka Ikeda. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nOsaka est la cuisine du Japon : la ville qui a inventé le takoyaki, l'okonomiyaki et le kushikatsu, et le canal aux enseignes de néon de Dotonbori est l'endroit où on les mange. Le château d'Osaka est une reconstruction en béton de 1931 de la forteresse de Hideyoshi avec un musée à l'intérieur et des douves et un parc qui valent une heure ; le marché Kuromon est le marché alimentaire ; Shinsekai est le quartier rétro sous la tour Tsutenkaku ; le Umeda Sky Building a l'observatoire en plein air. Osaka est la base pour des excursions d'une journée à Nara, Kobe, Himeji et Koyasan, tous à moins d'une heure et demie. La ville est plus bruyante et moins chère que Kyoto et ses habitants en sont fiers.\n\nLe prix comprend frais de guide et frais d'expérience Cup Noodle. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Musée Cup Noodles Osaka Ikeda",
+   "Durée : 1,5 heures",
+   "Frais de guide",
+   "Frais d'expérience Cup Noodle"
+  ],
+  "included": [
+   "Frais de guide",
+   "Frais d'expérience Cup Noodle"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion à Osaka, avec Musée Cup Noodles Osaka Ikeda. Opérateur : DeepExperience, Inc., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite guidée du musée Cup Noodles (90 minutes) à Osaka",
+  "metaDescription": "Excursion à Osaka. Comprend frais de guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "private-samurai-experience-train-with-a-sword-master-in-osaka": {
   "title": "Expérience samouraï privée : entraînez-vous avec un maître sabreur à Osaka",
   "fullDescription": "Cette expérience de 5 heures se déroule au départ de Osaka, construite autour de Trésor caché. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nOsaka est la cuisine du Japon : la ville qui a inventé le takoyaki, l'okonomiyaki et le kushikatsu, et le canal aux enseignes de néon de Dotonbori est l'endroit où on les mange. Le château d'Osaka est une reconstruction en béton de 1931 de la forteresse de Hideyoshi avec un musée à l'intérieur et des douves et un parc qui valent une heure ; le marché Kuromon est le marché alimentaire ; Shinsekai est le quartier rétro sous la tour Tsutenkaku ; le Umeda Sky Building a l'observatoire en plein air. Osaka est la base pour des excursions d'une journée à Nara, Kobe, Himeji et Koyasan, tous à moins d'une heure et demie. La ville est plus bruyante et moins chère que Kyoto et ses habitants en sont fiers.\n\nLe prix comprend expérience d'entraînement de samouraï, instruction par un maître sabreur et guide. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -19921,6 +20908,28 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Osaka, comprenant visite privée à pied et guide en personne. Opérateur : ACE Travel Japan, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Promenade privée dans les rues rétro de Nakazakicho",
   "metaDescription": "Excursion à Osaka. Comprend visite privée à pied et guide en personne. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "kobe-s-top-restaurant-reservation-for-a5-kobe-beef-and-sushi-osaka": {
+  "title": "Réservation au meilleur restaurant de Kobe pour du bœuf de Kobe A5 et des sushis (Osaka)",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Osaka. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nOsaka est la cuisine du Japon : la ville qui a inventé le takoyaki, l'okonomiyaki et le kushikatsu, et le canal aux enseignes de néon de Dotonbori est l'endroit où on les mange. Le château d'Osaka est une reconstruction en béton de 1931 de la forteresse de Hideyoshi avec un musée à l'intérieur et des douves et un parc qui valent une heure ; le marché Kuromon est le marché alimentaire ; Shinsekai est le quartier rétro sous la tour Tsutenkaku ; le Umeda Sky Building a l'observatoire en plein air. Osaka est la base pour des excursions d'une journée à Nara, Kobe, Himeji et Koyasan, tous à moins d'une heure et demie. La ville est plus bruyante et moins chère que Kyoto et ses habitants en sont fiers.\n\nLe prix comprend menu complet, taxe de vente et réservation. Il ne comprend pas boissons et autres dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2 heures",
+   "Menu complet",
+   "Taxe de vente",
+   "Réservation"
+  ],
+  "included": [
+   "Menu complet",
+   "Taxe de vente",
+   "Réservation"
+  ],
+  "notIncluded": [
+   "Boissons (sauf eau)",
+   "Autres dépenses personnelles"
+  ],
+  "shortDescription": "Excursion de 2 heures à Osaka, comprenant menu complet, taxe de vente et réservation. Opérateur : TakeMe Co.,Ltd., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Réservation au meilleur restaurant de Kobe pour du bœuf de Kobe A5 et des sushis (Osaka)",
+  "metaDescription": "Excursion de 2 heures à Osaka. Comprend menu complet et taxe de vente. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "katsuoji-temple-guided-tour-in-osaka": {
   "title": "Visite guidée du temple Katsuoji à Osaka",
@@ -19972,6 +20981,96 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 2 heures à Kyoto, comprenant guide et frais de guide. Opérateur : Nara Guide, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Kyoto : visite privée des sites emblématiques et joyaux cachés",
   "metaDescription": "Excursion de 2 heures à Kyoto. Comprend guide et frais de guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "traditional-tea-ceremony-experience-in-kyoto-by-local-operator": {
+  "title": "Expérience de cérémonie du thé traditionnelle à Kyoto",
+  "fullDescription": "Cette expérience de 30 minutes se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nGion est le quartier historique de divertissement de Kyoto, les rues de maisons machiya en bois autour de Hanamikoji où les geiko et maiko du district de Gion Kobu travaillent encore. Ce sont des professionnelles en route vers des engagements, pas des artistes de rue, et Kyoto a interdit la photographie dans les ruelles privées ; une promenade du soir avec un guide qui explique le système ochaya est la façon respectueuse de voir cela. Les sessions de cérémonie du thé à Gion enseignent la forme de base de la préparation du matcha en une heure. La location de kimono pour une journée, avec habillage et coiffure, est une activité établie dans le quartier et est bien accueillie plutôt que mal perçue.\n\nLe prix comprend un ensemble d'expérience OTE-MAE. Il ne comprend pas certificat d'achèvement de l'expérience : 300 JPY, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 30 minutes",
+   "Un ensemble d'expérience OTE-MAE (cérémonie du thé japonaise)"
+  ],
+  "included": [
+   "Un ensemble d'expérience OTE-MAE (cérémonie du thé japonaise)"
+  ],
+  "notIncluded": [
+   "Certificat d'achèvement de l'expérience : 300 JPY"
+  ],
+  "shortDescription": "Excursion de 0,5 heures à Kyoto, comprenant un ensemble d'expérience OTE-MAE. Opérateur : B.B.Advisors Inc. AN KYOTO, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Expérience de cérémonie du thé traditionnelle à Kyoto",
+  "metaDescription": "Excursion de 0,5 heures à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "customizable-2-day-private-daytrips-with-guide-in-tokyo": {
+  "title": "Excursions privées personnalisables de 2 jours avec guide à Tokyo",
+  "fullDescription": "Cette expérience de 2 jours se déroule à Tokyo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nTokyo est la plus grande ville du monde par population métropolitaine et se visite mieux comme un ensemble de quartiers sur la ligne circulaire Yamanote plutôt que comme un seul lieu. Asakusa a Senso-ji, le plus ancien temple de la ville, et l'allée commerçante de Nakamise ; Shibuya a le carrefour piéton géant et Shinjuku les bars de Golden Gai et Omoide Yokocho ; Harajuku c'est la rue Takeshita et la forêt du sanctuaire Meiji ; Akihabara c'est l'électronique et l'anime ; Ginza ce sont les grands magasins et les comptoirs à sushi. Tout fonctionne à l'heure et les derniers trains partent vers minuit. L'argent liquide compte encore dans les petits restaurants, une carte IC couvre chaque train et bus, et le pourboire ne se pratique nulle part.\n\nLe prix comprend véhicule privé climatisé, prise en charge/retour à l'hôtel, itinéraire personnalisable, chauffeur et billets d'entrée. Il ne comprend pas nourriture et boissons et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Tokyo. RINGO TOURS confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2 jours",
+   "Véhicule privé climatisé",
+   "Prise en charge/retour à l'hôtel",
+   "Itinéraire personnalisable",
+   "Chauffeur expérimenté",
+   "Billets d'entrée"
+  ],
+  "included": [
+   "Véhicule privé climatisé",
+   "Prise en charge/retour à l'hôtel",
+   "Itinéraire personnalisable",
+   "Chauffeur expérimenté",
+   "Billets d'entrée"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Dépenses personnelles"
+  ],
+  "shortDescription": "Excursion de 2 jours à Tokyo, comprenant véhicule privé climatisé, prise en charge/retour à l'hôtel et itinéraire personnalisable. Opérateur : RINGO TOURS, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Excursions privées personnalisables de 2 jours avec guide à Tokyo",
+  "metaDescription": "Excursion de 2 jours à Tokyo. Comprend véhicule privé climatisé. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "premium-japan-private-tour-with-driver-and-guide-4-days": {
+  "title": "Visite privée premium du Japon avec chauffeur et guide : 4 jours",
+  "fullDescription": "Cette expérience de 4 jours se déroule à Hakone. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nUne journée privée avec un chauffeur-guide est la façon de voir le plus possible d'une ville ou région japonaise en une journée, car cela élimine les transferts entre les sites qui dévorent un tiers de la journée en transport public. Les prix sont généralement par véhicule pour un nombre défini d'invités plutôt que par personne, et couvrent la voiture, le carburant, les péages et le guide ; les frais d'entrée et le déjeuner sont payés au fur et à mesure sauf indication contraire. Les guides japonais sont agréés pour ce travail et généralement ponctuels à la minute. Donnez à l'opérateur vos priorités, et attendez-vous à ce qu'il réorganise la journée en fonction des heures d'ouverture et des foules ; c'est ce que vous payez.\n\nLe prix comprend véhicule privé climatisé, prise en charge/retour à l'hôtel, itinéraire personnalisable, chauffeur et billets d'entrée. Il ne comprend pas nourriture et boissons et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Hakone. RINGO TOURS confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 4 jours",
+   "Véhicule privé climatisé",
+   "Prise en charge/retour à l'hôtel",
+   "Itinéraire personnalisable",
+   "Chauffeur expérimenté",
+   "Billets d'entrée"
+  ],
+  "included": [
+   "Véhicule privé climatisé",
+   "Prise en charge/retour à l'hôtel",
+   "Itinéraire personnalisable",
+   "Chauffeur expérimenté",
+   "Billets d'entrée"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Dépenses personnelles"
+  ],
+  "shortDescription": "Excursion de 4 jours à Hakone, comprenant véhicule privé climatisé, prise en charge/retour à l'hôtel et itinéraire personnalisable. Opérateur : RINGO TOURS, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite privée premium du Japon avec chauffeur et guide : 4 jours",
+  "metaDescription": "Excursion de 4 jours à Hakone. Comprend véhicule privé climatisé. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "biei-snow-experience-and-optional-buffet": {
+  "title": "Expérience de neige à Biei et buffet optionnel",
+  "fullDescription": "Cette expérience de 10 heures se déroule à Sapporo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHokkaido est l'île septentrionale du Japon, un climat différent et une échelle différente : Sapporo en est la ville, avec le musée de la bière, l'allée des ramen et le festival de neige de février ; Otaru, à 40 minutes, a le canal et les boutiques de verre et de boîtes à musique ; Noboribetsu ce sont les sources chaudes de la vallée de l'enfer ; le lac Toya et le lac Shikotsu sont des lacs de caldeira ; et Biei et Furano au centre sont les champs de fleurs et de lavande de juillet. L'hiver apporte deux mètres de neige à Sapporo et la poudreuse qui a rendu Niseko célèbre. Les distances sont longues et les trains rares, donc les excursions d'une journée depuis Sapporo se font surtout en bus et durent huit à dix heures.\n\nLe prix comprend tarif de bus, guide parlant chinois/anglais/japonais et frais de déjeuner : inclus selon le forfait sélectionné. Il ne comprend pas autres dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 10 heures",
+   "Tarif de bus",
+   "Guide parlant chinois/anglais/japonais",
+   "Frais de déjeuner : inclus selon le forfait sélectionné"
+  ],
+  "included": [
+   "Tarif de bus",
+   "Guide parlant chinois/anglais/japonais",
+   "Frais de déjeuner : inclus selon le forfait sélectionné."
+  ],
+  "notIncluded": [
+   "Autres dépenses personnelles"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Sapporo, comprenant tarif de bus, guide parlant chinois/anglais/japonais et frais de déjeuner : inclus selon le forfait sélectionné. Opérateur : Doushin Kokusai Co,.LTD, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Expérience de neige à Biei et buffet optionnel",
+  "metaDescription": "Excursion d'une journée entière à Sapporo. Comprend tarif de bus. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "twilight-christmas-tree-and-double-illumination-in-sapporo": {
   "title": "Sapin de Noël au crépuscule et double illumination à Sapporo",
@@ -20078,6 +21177,28 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Cours de fabrication de ramen à Sapporo",
   "metaDescription": "Excursion de 1,5 heures à Sapporo. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "all-you-can-eat-sukiyaki-and-shabu-shabu-reservation-in-sapporo": {
+  "title": "Réservation de sukiyaki et shabu-shabu à volonté à Sapporo",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Sapporo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nHokkaido est l'île septentrionale du Japon, un climat différent et une échelle différente : Sapporo en est la ville, avec le musée de la bière, l'allée des ramen et le festival de neige de février ; Otaru, à 40 minutes, a le canal et les boutiques de verre et de boîtes à musique ; Noboribetsu ce sont les sources chaudes de la vallée de l'enfer ; le lac Toya et le lac Shikotsu sont des lacs de caldeira ; et Biei et Furano au centre sont les champs de fleurs et de lavande de juillet. L'hiver apporte deux mètres de neige à Sapporo et la poudreuse qui a rendu Niseko célèbre. Les distances sont longues et les trains rares, donc les excursions d'une journée depuis Sapporo se font surtout en bus et durent huit à dix heures.\n\nLe prix comprend menu complet, taxe de vente et réservation. Il ne comprend pas boissons et autres dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2 heures",
+   "Menu complet",
+   "Taxe de vente",
+   "Réservation"
+  ],
+  "included": [
+   "Menu complet",
+   "Taxe de vente",
+   "Réservation"
+  ],
+  "notIncluded": [
+   "Boissons (sauf eau)",
+   "Autres dépenses personnelles"
+  ],
+  "shortDescription": "Excursion de 2 heures à Sapporo, comprenant menu complet, taxe de vente et réservation. Opérateur : TakeMe Co.,Ltd., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Réservation de sukiyaki et shabu-shabu à volonté à Sapporo",
+  "metaDescription": "Excursion de 2 heures à Sapporo. Comprend menu complet. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "retro-vintage-arcades-and-subculture-walk-in-nagoya": {
   "title": "Promenade dans les salles d'arcade rétro et la sous-culture à Nagoya",
   "fullDescription": "Cette expérience de 3 heures se déroule à Nagoya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNagoya est la quatrième ville du Japon et la porte d'entrée vers le parc Ghibli à Nagakute, ouvert en 2022 avec des billets à horaire fixe qui se vendent des semaines à l'avance, vers Nagashima Spa Land et ses montagnes russes, et vers Inuyama, dont le château est l'un des douze donjons originaux. Les dauphins dorés du château de Nagoya et le musée commémoratif Toyota sont les sites propres à la ville, et l'anguille grillée hitsumabushi et le katsu au miso sont sa cuisine. Le grand sanctuaire d'Ise, le site le plus sacré du shintoïsme, reconstruit tous les vingt ans, est à 90 minutes au sud.\n\nLe prix comprend guide. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -20092,6 +21213,31 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 3 heures à Nagoya, comprenant guide. Opérateur : MARKEVISION株式会社, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Promenade dans les salles d'arcade rétro et la sous-culture à Nagoya",
   "metaDescription": "Excursion de 3 heures à Nagoya. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "nagoya-osu-maneki-neko-maid-cafe-experience-maidreamin-by-local-operator": {
+  "title": "Nagoya Osu Maneki Neko : expérience de café maid Maidreamin",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Nagoya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNagoya est la quatrième ville du Japon et la porte d'entrée vers le parc Ghibli à Nagakute, ouvert en 2022 avec des billets à horaire fixe qui se vendent des semaines à l'avance, vers Nagashima Spa Land et ses montagnes russes, et vers Inuyama, dont le château est l'un des douze donjons originaux. Les dauphins dorés du château de Nagoya et le musée commémoratif Toyota sont les sites propres à la ville, et l'anguille grillée hitsumabushi et le katsu au miso sont sa cuisine. Le grand sanctuaire d'Ise, le site le plus sacré du shintoïsme, reconstruit tous les vingt ans, est à 90 minutes au sud.\n\nLe prix comprend une boisson, repas ou dessert, séance photo avec une maid, passeport du pays des rêves et omajinai. Il ne comprend pas des options supplémentaires pour rendre votre expérience encore plus agréable, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 heure",
+   "Une boisson",
+   "Repas ou dessert",
+   "Séance photo avec une maid",
+   "Passeport du pays des rêves (frais de table)",
+   "Omajinai (mots magiques pour une délicieuse friandise)"
+  ],
+  "included": [
+   "Une boisson",
+   "Repas ou dessert",
+   "Séance photo avec une maid",
+   "Passeport du pays des rêves (frais de table)",
+   "Omajinai (mots magiques pour une délicieuse friandise)"
+  ],
+  "notIncluded": [
+   "Des options supplémentaires pour rendre votre expérience encore plus agréable"
+  ],
+  "shortDescription": "Excursion de 1 heure à Nagoya, comprenant une boisson, repas ou dessert et séance photo avec une maid. Opérateur : 株式会社ネオディライトインターナショナル, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Nagoya Osu Maneki Neko : expérience de café maid Maidreamin",
+  "metaDescription": "Excursion de 1 heure à Nagoya. Comprend une boisson. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "authentic-teriyaki-chicken-with-fermented-seasonings-in-nagoya": {
   "title": "Authentique poulet teriyaki aux assaisonnements fermentés à Nagoya",
@@ -20254,6 +21400,31 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Expérience de prêtre shinto ou de miko à Nagoya",
   "metaDescription": "Excursion de 0,75 heures à Nagoya. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "nagoya-osu-akamon-street-maid-cafe-exp-maidreamin-by-local-operator": {
+  "title": "Nagoya Osu, rue Akamon : expérience de café maid Maidreamin",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Nagoya. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNagoya est la quatrième ville du Japon et la porte d'entrée vers le parc Ghibli à Nagakute, ouvert en 2022 avec des billets à horaire fixe qui se vendent des semaines à l'avance, vers Nagashima Spa Land et ses montagnes russes, et vers Inuyama, dont le château est l'un des douze donjons originaux. Les dauphins dorés du château de Nagoya et le musée commémoratif Toyota sont les sites propres à la ville, et l'anguille grillée hitsumabushi et le katsu au miso sont sa cuisine. Le grand sanctuaire d'Ise, le site le plus sacré du shintoïsme, reconstruit tous les vingt ans, est à 90 minutes au sud.\n\nLe prix comprend une boisson, repas ou dessert, séance photo avec une maid, passeport du pays des rêves et omajinai. Il ne comprend pas des options supplémentaires pour rendre votre expérience encore plus agréable, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 heure",
+   "Une boisson",
+   "Repas ou dessert",
+   "Séance photo avec une maid",
+   "Passeport du pays des rêves (frais de table)",
+   "Omajinai (mots magiques pour une délicieuse friandise)"
+  ],
+  "included": [
+   "Une boisson",
+   "Repas ou dessert",
+   "Séance photo avec une maid",
+   "Passeport du pays des rêves (frais de table)",
+   "Omajinai (mots magiques pour une délicieuse friandise)"
+  ],
+  "notIncluded": [
+   "Des options supplémentaires pour rendre votre expérience encore plus agréable"
+  ],
+  "shortDescription": "Excursion de 1 heure à Nagoya, comprenant une boisson, repas ou dessert et séance photo avec une maid. Opérateur : 株式会社ネオディライトインターナショナル, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Nagoya Osu, rue Akamon : expérience de café maid Maidreamin",
+  "metaDescription": "Excursion de 1 heure à Nagoya. Comprend une boisson. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "nara-private-custom-tour-with-local-guide-by-local-operator": {
   "title": "Nara : visite privée personnalisée avec guide local",
   "fullDescription": "Cette expérience de 4 heures se déroule à Nara. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNara fut la première capitale permanente du Japon, de 710 à 784, et son parc abrite Todai-ji, dont le Hall du Grand Bouddha est l'un des plus grands bâtiments en bois du monde et contient un Bouddha de bronze de 15 mètres fondu en 752, Kasuga Taisha avec ses trois mille lanternes, et environ 1 200 cerfs sika considérés comme des messagers des dieux et protégés. Les cerfs s'inclinent pour les crackers shika senbei vendus dans le parc et donneront des coups de tête à quiconque les taquine. Nara est à 45 minutes de Kyoto ou Osaka en train et se visite en une demi-journée ; Todai-ji avant 10h00 est l'heure calme.\n\nLe prix comprend visite privée, visite à pied, guide local et personnalisez l'itinéraire. Il ne comprend pas déjeuner, tous les frais d'entrée et transport, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -20297,6 +21468,32 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 1 heure à Kyoto, comprenant tissu de kimono pour la fabrication de temari, tous les outils et matériaux nécessaires et accompagnement par un instructeur. Opérateur : Fmpty, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Atelier de fabrication de balles temari avec tissu de kimono à Kyoto",
   "metaDescription": "Excursion de 1 heure à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "maikoya-nishiki-kimono-tea-ceremony-with-matcha-and-sweet-kyoto": {
+  "title": "Maikoya Nishiki : kimono, cérémonie du thé avec matcha et douceurs (Kyoto)",
+  "fullDescription": "Cette expérience de 1,5 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nGion est le quartier historique de divertissement de Kyoto, les rues de maisons machiya en bois autour de Hanamikoji où les geiko et maiko du district de Gion Kobu travaillent encore. Ce sont des professionnelles en route vers des engagements, pas des artistes de rue, et Kyoto a interdit la photographie dans les ruelles privées ; une promenade du soir avec un guide qui explique le système ochaya est la façon respectueuse de voir cela. Les sessions de cérémonie du thé à Gion enseignent la forme de base de la préparation du matcha en une heure. La location de kimono pour une journée, avec habillage et coiffure, est une activité établie dans le quartier et est bien accueillie plutôt que mal perçue.\n\nLe prix comprend habillage en kimono, cérémonie du thé traditionnelle dirigée par un maître du thé, préparation pratique du thé matcha, douceurs japonaises et assistance d'un personnel bilingue. Il ne comprend pas transport aller-retour jusqu'au lieu de l'activité, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1,5 heures",
+   "Habillage en kimono",
+   "Cérémonie du thé traditionnelle dirigée par un maître du thé",
+   "Préparation pratique du thé matcha",
+   "Douceurs japonaises",
+   "Assistance d'un personnel bilingue"
+  ],
+  "included": [
+   "Habillage en kimono",
+   "Cérémonie du thé traditionnelle dirigée par un maître du thé",
+   "Préparation pratique du thé matcha",
+   "Douceurs japonaises",
+   "Assistance d'un personnel bilingue",
+   "Coiffure pour femmes (cheveux longs uniquement)"
+  ],
+  "notIncluded": [
+   "Transport aller-retour jusqu'au lieu de l'activité"
+  ],
+  "shortDescription": "Excursion à Kyoto, comprenant habillage en kimono, cérémonie du thé traditionnelle dirigée par un maître du thé et préparation pratique du thé matcha. Opérateur : GLOBA Inc., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Maikoya Nishiki : kimono, cérémonie du thé avec matcha",
+  "metaDescription": "Excursion à Kyoto. Comprend habillage en kimono. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "tea-museum-tickets-and-matcha-grinding-experience-in-kyoto": {
   "title": "Billets pour le musée du thé et expérience de broyage de matcha à Kyoto",
@@ -20500,6 +21697,193 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Cours d'écharpe itajime shibori au musée Shibori de Kyoto",
   "metaDescription": "Excursion de 1 heure à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "gion-geisha-traditions-shinto-rituals-and-hidden-machiya": {
+  "title": "Gion : traditions des geishas, rituels shinto et machiya cachées",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nGion est le quartier historique de divertissement de Kyoto, les rues de maisons machiya en bois autour de Hanamikoji où les geiko et maiko du district de Gion Kobu travaillent encore. Ce sont des professionnelles en route vers des engagements, pas des artistes de rue, et Kyoto a interdit la photographie dans les ruelles privées ; une promenade du soir avec un guide qui explique le système ochaya est la façon respectueuse de voir cela. Les sessions de cérémonie du thé à Gion enseignent la forme de base de la préparation du matcha en une heure. La location de kimono pour une journée, avec habillage et coiffure, est une activité établie dans le quartier et est bien accueillie plutôt que mal perçue.\n\nLe prix comprend guide parlant anglais. Il ne comprend pas nourriture et boissons, souvenirs et dépenses personnelles et transport aller-retour vers le point de rendez-vous, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2 heures",
+   "Guide parlant anglais"
+  ],
+  "included": [
+   "Guide parlant anglais"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons (disponibles à l'achat à vos frais)",
+   "Souvenirs et dépenses personnelles",
+   "Transport aller-retour vers le point de rendez-vous"
+  ],
+  "shortDescription": "Excursion de 2 heures à Kyoto, comprenant guide parlant anglais. Opérateur : JRT Group, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Gion : traditions des geishas, rituels shinto et machiya cachées",
+  "metaDescription": "Excursion de 2 heures à Kyoto. Comprend guide parlant anglais. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "kyo-arashi-shibori-scarf-class-at-kyoto-shibori-museum-by-local-operator": {
+  "title": "Cours d'écharpe kyo-arashi shibori au musée Shibori de Kyoto",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend les participants à l'atelier reçoivent une entrée gratuite à Kyoto. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 heure",
+   "Les participants à l'atelier reçoivent une entrée gratuite au musée Shibori de Kyoto, qui coûte normalement 1 000 yens"
+  ],
+  "included": [
+   "Les participants à l'atelier reçoivent une entrée gratuite au musée Shibori de Kyoto, qui coûte normalement 1 000 yens."
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion de 1 heure à Kyoto, comprenant les participants à l'atelier reçoivent une entrée gratuite à Kyoto. Opérateur : KYOTO SHIBORI MUSEUM, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Cours d'écharpe kyo-arashi shibori au musée Shibori de Kyoto",
+  "metaDescription": "Excursion de 1 heure à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "handcraft-rug-of-japanese-symbols-geisha-daruma-etc-in-kyoto": {
+  "title": "Tapis artisanal de symboles japonais (geisha, daruma, etc.) à Kyoto",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nGion est le quartier historique de divertissement de Kyoto, les rues de maisons machiya en bois autour de Hanamikoji où les geiko et maiko du district de Gion Kobu travaillent encore. Ce sont des professionnelles en route vers des engagements, pas des artistes de rue, et Kyoto a interdit la photographie dans les ruelles privées ; une promenade du soir avec un guide qui explique le système ochaya est la façon respectueuse de voir cela. Les sessions de cérémonie du thé à Gion enseignent la forme de base de la préparation du matcha en une heure. La location de kimono pour une journée, avec habillage et coiffure, est une activité établie dans le quartier et est bien accueillie plutôt que mal perçue.\n\nLe prix comprend frais de location d'outils de tufting, tous les matériaux nécessaires et tablier. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2 heures",
+   "Frais de location d'outils de tufting",
+   "Tous les matériaux nécessaires",
+   "Tablier"
+  ],
+  "included": [
+   "Frais de location d'outils de tufting",
+   "Tous les matériaux nécessaires",
+   "Tablier"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion de 2 heures à Kyoto, comprenant frais de location d'outils de tufting, tous les matériaux nécessaires et tablier. Opérateur : Kendo Experience, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Tapis artisanal de symboles japonais (geisha, daruma, etc.) à Kyoto",
+  "metaDescription": "Excursion de 2 heures à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "reservations-for-premium-japanese-wagyu-yakiniku-in-kyoto-by-local-operator": {
+  "title": "Réservations pour un yakiniku de wagyu japonais premium à Kyoto",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend menu complet, taxe de vente et réservation. Il ne comprend pas boissons et autres dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2 heures",
+   "Menu complet",
+   "Taxe de vente",
+   "Réservation"
+  ],
+  "included": [
+   "Menu complet",
+   "Taxe de vente",
+   "Réservation"
+  ],
+  "notIncluded": [
+   "Boissons (sauf eau)",
+   "Autres dépenses personnelles"
+  ],
+  "shortDescription": "Excursion de 2 heures à Kyoto, comprenant menu complet, taxe de vente et réservation. Opérateur : TakeMe Co.,Ltd., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Réservations pour un yakiniku de wagyu japonais premium à Kyoto",
+  "metaDescription": "Excursion de 2 heures à Kyoto. Comprend menu complet et taxe de vente. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "kaiseki-reservation-at-hanasaki-manjiro-in-kyoto": {
+  "title": "Réservation de kaiseki à Hanasaki Manjiro à Kyoto",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend menu complet, taxe de vente et réservation. Il ne comprend pas boissons et autres dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2 heures",
+   "Menu complet",
+   "Taxe de vente",
+   "Réservation"
+  ],
+  "included": [
+   "Menu complet",
+   "Taxe de vente",
+   "Réservation"
+  ],
+  "notIncluded": [
+   "Boissons (sauf eau)",
+   "Autres dépenses personnelles"
+  ],
+  "shortDescription": "Excursion de 2 heures à Kyoto, comprenant menu complet, taxe de vente et réservation. Opérateur : TakeMe Co.,Ltd., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Réservation de kaiseki à Hanasaki Manjiro à Kyoto",
+  "metaDescription": "Excursion de 2 heures à Kyoto. Comprend menu complet et taxe de vente. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "kyoto-customized-private-tour-in-1-day-with-licensed-guide-by-local-operator": {
+  "title": "Kyoto : visite privée personnalisée d'une journée avec guide agréé",
+  "fullDescription": "Cette expérience de 4 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend visite à pied privée et personnalisée, guide local agréé et prise en charge à pied depuis votre hébergement. Il ne comprend pas nourriture et boissons, tous les frais d'entrée et frais de transport public/privé pendant la visite, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nKyoto. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 4 heures",
+   "Visite à pied privée et personnalisée",
+   "Guide local agréé",
+   "Prise en charge à pied depuis votre hébergement (si à distance raisonnable)"
+  ],
+  "included": [
+   "Visite à pied privée et personnalisée",
+   "Guide local agréé",
+   "Prise en charge à pied depuis votre hébergement (si à distance raisonnable)"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Tous les frais d'entrée",
+   "Frais de transport public/privé pendant la visite"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Kyoto, comprenant visite à pied privée et personnalisée, guide local agréé et prise en charge à pied depuis votre hébergement. Opérateur : Japan Guide Agency, JGA Inc., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Kyoto : visite privée personnalisée d'une journée",
+  "metaDescription": "Excursion d'une demi-journée à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "miyajima-private-tour-with-ropeway-views": {
+  "title": "Visite privée de Miyajima avec vues depuis le téléphérique",
+  "fullDescription": "Cette expérience de 5 heures se déroule à Hiroshima. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nMiyajima, officiellement Itsukushima, est l'île dans la baie d'Hiroshima dont le sanctuaire se dresse sur pilotis au-dessus de l'eau avec son grand portique torii dans la mer, reconstruit en 1875 et restauré en 2022. On marche jusqu'au portique à marée basse et il flotte à marée haute, et la table des marées décide de ce que l'on voit ; les deux valent le détour. Des cerfs errent dans le village, le téléphérique monte le mont Misen pour la vue sur la mer intérieure, et les plats locaux sont les huîtres grillées et les gâteaux momiji manju à l'érable. Depuis Hiroshima, c'est un tramway ou un train jusqu'à Miyajimaguchi puis un ferry de dix minutes, environ 40 minutes au total, ou un bateau direct depuis le parc de la Paix.\n\nLe prix comprend guide privé, trajet en ferry vers Miyajima, visite du sanctuaire d'Itsukushima et billet aller-retour pour le téléphérique de Miyajima. Il ne comprend pas déjeuner, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 5 heures",
+   "Guide privé",
+   "Trajet en ferry vers Miyajima",
+   "Visite du sanctuaire d'Itsukushima",
+   "Billet aller-retour pour le téléphérique de Miyajima"
+  ],
+  "included": [
+   "Guide privé",
+   "Trajet en ferry vers Miyajima",
+   "Visite du sanctuaire d'Itsukushima",
+   "Billet aller-retour pour le téléphérique de Miyajima"
+  ],
+  "notIncluded": [
+   "Déjeuner"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Hiroshima, comprenant guide privé, trajet en ferry vers Miyajima et visite du sanctuaire d'Itsukushima. Opérateur : Native Japan, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite privée de Miyajima avec vues depuis le téléphérique",
+  "metaDescription": "Excursion d'une demi-journée à Hiroshima. Comprend guide privé. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "kobe-day-and-night-tour-arima-onsen-and-mt-rokko": {
+  "title": "Visite de Kobe jour et nuit, Arima Onsen et mont Rokko",
+  "fullDescription": "Cette expérience de 9 heures se déroule à Osaka. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLes excursions d'une journée depuis Osaka ont chacune une raison d'être. Himeji possède le plus beau château subsistant du Japon, le Héron blanc, un original de 1609 avec six étages d'intérieur en bois, son plâtre re-blanchi dans une restauration achevée en 2015 ; la montée vers le donjon principal est raide et la file à l'époque des cerisiers en fleurs est longue. Kobe a le bœuf, vendu par grade à des comptoirs où l'on regarde sa cuisson, et le port. Koyasan, deux heures au sud, est la ville monastère de montagne fondée par Kukai en 816, où 117 temples se trouvent dans une forêt de cèdres et le cimetière d'Okunoin est le plus grand du Japon ; une nuit dans un hébergement de temple shukubo avec le shojin ryori végétarien est la raison d'y aller.\n\nLe prix comprend transport et guide parlant anglais et coréen. Il ne comprend pas repas, assurance voyage, autres dépenses personnelles et entrée à l'attraction, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 9 heures",
+   "Transport",
+   "Guide parlant anglais et coréen"
+  ],
+  "included": [
+   "Transport",
+   "Guide parlant anglais et coréen"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Assurance voyage",
+   "Autres dépenses personnelles",
+   "Entrée à l'attraction"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Osaka, comprenant transport et guide parlant anglais et coréen. Opérateur : TOURSTORY Japan, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite de Kobe jour et nuit, Arima Onsen et mont Rokko",
+  "metaDescription": "Excursion d'une journée entière à Osaka. Comprend transport. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "world-class-kobe-beef-teppanyaki-in-osaka-orientalhotel-by-local-operator": {
+  "title": "Teppanyaki de bœuf de Kobe de classe mondiale à l'Oriental Hotel d'Osaka",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Osaka. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nOsaka est la cuisine du Japon : la ville qui a inventé le takoyaki, l'okonomiyaki et le kushikatsu, et le canal aux enseignes de néon de Dotonbori est l'endroit où on les mange. Le château d'Osaka est une reconstruction en béton de 1931 de la forteresse de Hideyoshi avec un musée à l'intérieur et des douves et un parc qui valent une heure ; le marché Kuromon est le marché alimentaire ; Shinsekai est le quartier rétro sous la tour Tsutenkaku ; le Umeda Sky Building a l'observatoire en plein air. Osaka est la base pour des excursions d'une journée à Nara, Kobe, Himeji et Koyasan, tous à moins d'une heure et demie. La ville est plus bruyante et moins chère que Kyoto et ses habitants en sont fiers.\n\nLe prix comprend menu complet, taxe de vente et réservation. Il ne comprend pas boissons et autres dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2 heures",
+   "Menu complet",
+   "Taxe de vente",
+   "Réservation"
+  ],
+  "included": [
+   "Menu complet",
+   "Taxe de vente",
+   "Réservation"
+  ],
+  "notIncluded": [
+   "Boissons (sauf eau)",
+   "Autres dépenses personnelles"
+  ],
+  "shortDescription": "Excursion de 2 heures à Osaka, comprenant menu complet, taxe de vente et réservation. Opérateur : TakeMe Co.,Ltd., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Teppanyaki de bœuf de Kobe de classe mondiale à l'Oriental Hotel d'Osaka",
+  "metaDescription": "Excursion de 2 heures à Osaka. Comprend menu complet et taxe de vente. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "matcha-making-experience-with-japanese-sweets-in-osaka": {
   "title": "Expérience de fabrication de matcha avec douceurs japonaises à Osaka",
   "fullDescription": "Cette expérience de 1 heure se déroule à Osaka. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nOsaka est la cuisine du Japon : la ville qui a inventé le takoyaki, l'okonomiyaki et le kushikatsu, et le canal aux enseignes de néon de Dotonbori est l'endroit où on les mange. Le château d'Osaka est une reconstruction en béton de 1931 de la forteresse de Hideyoshi avec un musée à l'intérieur et des douves et un parc qui valent une heure ; le marché Kuromon est le marché alimentaire ; Shinsekai est le quartier rétro sous la tour Tsutenkaku ; le Umeda Sky Building a l'observatoire en plein air. Osaka est la base pour des excursions d'une journée à Nara, Kobe, Himeji et Koyasan, tous à moins d'une heure et demie. La ville est plus bruyante et moins chère que Kyoto et ses habitants en sont fiers.\n\nLe prix comprend cours de cuisine, ingrédients et instructeur. Il ne comprend pas prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -20540,6 +21924,28 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Osaka, avec Restaurant local, Bar local et Trésor caché. Opérateur : Japan Guide Stars, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Visite gastronomique guidée avec 12 plats et 2 boissons à Osaka",
   "metaDescription": "Excursion à Osaka. Comprend 12 plats japonais recommandés. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "all-you-can-eat-wagyu-shabu-shabu-reservation-in-osaka": {
+  "title": "Réservation de shabu-shabu de wagyu à volonté à Osaka",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Osaka. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nOsaka est la cuisine du Japon : la ville qui a inventé le takoyaki, l'okonomiyaki et le kushikatsu, et le canal aux enseignes de néon de Dotonbori est l'endroit où on les mange. Le château d'Osaka est une reconstruction en béton de 1931 de la forteresse de Hideyoshi avec un musée à l'intérieur et des douves et un parc qui valent une heure ; le marché Kuromon est le marché alimentaire ; Shinsekai est le quartier rétro sous la tour Tsutenkaku ; le Umeda Sky Building a l'observatoire en plein air. Osaka est la base pour des excursions d'une journée à Nara, Kobe, Himeji et Koyasan, tous à moins d'une heure et demie. La ville est plus bruyante et moins chère que Kyoto et ses habitants en sont fiers.\n\nLe prix comprend menu complet, taxe de vente et réservation. Il ne comprend pas boissons et autres dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2 heures",
+   "Menu complet",
+   "Taxe de vente",
+   "Réservation"
+  ],
+  "included": [
+   "Menu complet",
+   "Taxe de vente",
+   "Réservation"
+  ],
+  "notIncluded": [
+   "Boissons (sauf eau)",
+   "Autres dépenses personnelles"
+  ],
+  "shortDescription": "Excursion de 2 heures à Osaka, comprenant menu complet, taxe de vente et réservation. Opérateur : TakeMe Co.,Ltd., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Réservation de shabu-shabu de wagyu à volonté à Osaka",
+  "metaDescription": "Excursion de 2 heures à Osaka. Comprend menu complet et taxe de vente. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "iconic-taiko-bridge-and-sumiyoshi-taisha-shrine-tour-in-osaka": {
   "title": "Visite du pont taiko emblématique et du sanctuaire Sumiyoshi Taisha à Osaka",
@@ -20603,6 +22009,54 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Hakone : excursion panoramique d'une journée, Owakudani, lac Ashi",
   "metaDescription": "Excursion d'une journée entière à Hakone. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "tokyo-akihabara-maid-cafe-maidreamin-at-original-location-by-local-operator": {
+  "title": "Tokyo Akihabara : café maid Maidreamin à son emplacement d'origine",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Tokyo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nTokyo est la plus grande ville du monde par population métropolitaine et se visite mieux comme un ensemble de quartiers sur la ligne circulaire Yamanote plutôt que comme un seul lieu. Asakusa a Senso-ji, le plus ancien temple de la ville, et l'allée commerçante de Nakamise ; Shibuya a le carrefour piéton géant et Shinjuku les bars de Golden Gai et Omoide Yokocho ; Harajuku c'est la rue Takeshita et la forêt du sanctuaire Meiji ; Akihabara c'est l'électronique et l'anime ; Ginza ce sont les grands magasins et les comptoirs à sushi. Tout fonctionne à l'heure et les derniers trains partent vers minuit. L'argent liquide compte encore dans les petits restaurants, une carte IC couvre chaque train et bus, et le pourboire ne se pratique nulle part.\n\nLe prix comprend une boisson, repas ou dessert, séance photo avec une maid, passeport du pays des rêves et omajinai. Il ne comprend pas des options supplémentaires pour rendre votre expérience encore plus agréable, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 heure",
+   "Une boisson",
+   "Repas ou dessert",
+   "Séance photo avec une maid",
+   "Passeport du pays des rêves (frais de table)",
+   "Omajinai (mots magiques pour une délicieuse friandise)"
+  ],
+  "included": [
+   "Une boisson",
+   "Repas ou dessert",
+   "Séance photo avec une maid",
+   "Passeport du pays des rêves (frais de table)",
+   "Omajinai (mots magiques pour une délicieuse friandise)"
+  ],
+  "notIncluded": [
+   "Des options supplémentaires pour rendre votre expérience encore plus agréable"
+  ],
+  "shortDescription": "Excursion de 1 heure à Tokyo, comprenant une boisson, repas ou dessert et séance photo avec une maid. Opérateur : 株式会社ネオディライトインターナショナル, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Tokyo Akihabara : café maid Maidreamin à son emplacement d'origine",
+  "metaDescription": "Excursion de 1 heure à Tokyo. Comprend une boisson. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "imperial-palace-and-shogun-castle-walking-tour-in-tokyo": {
+  "title": "Visite à pied du palais impérial et du château du shogun à Tokyo",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Tokyo, construite autour de Palais impérial de Tokyo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nTokyo est la plus grande ville du monde par population métropolitaine et se visite mieux comme un ensemble de quartiers sur la ligne circulaire Yamanote plutôt que comme un seul lieu. Asakusa a Senso-ji, le plus ancien temple de la ville, et l'allée commerçante de Nakamise ; Shibuya a le carrefour piéton géant et Shinjuku les bars de Golden Gai et Omoide Yokocho ; Harajuku c'est la rue Takeshita et la forêt du sanctuaire Meiji ; Akihabara c'est l'électronique et l'anime ; Ginza ce sont les grands magasins et les comptoirs à sushi. Tout fonctionne à l'heure et les derniers trains partent vers minuit. L'argent liquide compte encore dans les petits restaurants, une carte IC couvre chaque train et bus, et le pourboire ne se pratique nulle part.\n\nLe prix comprend guide, photos prises pendant la visite et aperçus historiques sur les quartiers. Il ne comprend pas nourriture et boissons et frais de transport, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nスターバックス コーヒー 皇居外苑 和田倉噴水公園店. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Palais impérial de Tokyo",
+   "Durée : 2 heures",
+   "Guide anglophone",
+   "Photos prises pendant la visite",
+   "Aperçus historiques sur les quartiers"
+  ],
+  "included": [
+   "Guide anglophone",
+   "Photos prises pendant la visite",
+   "Aperçus historiques sur les quartiers"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Frais de transport"
+  ],
+  "shortDescription": "Excursion de 2 heures à Tokyo, avec Palais impérial de Tokyo. Opérateur : Travel Japan Together, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite à pied du palais impérial et du château du shogun à Tokyo",
+  "metaDescription": "Excursion de 2 heures à Tokyo. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "casual-japanese-sake-tasting-and-snack-experience-kabukicho-in-tokyo": {
   "title": "Dégustation décontractée de saké japonais et collations à Kabukicho, Tokyo",
   "fullDescription": "Cette expérience d'une journée entière se déroule à Tokyo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nTokyo est la plus grande ville du monde par population métropolitaine et se visite mieux comme un ensemble de quartiers sur la ligne circulaire Yamanote plutôt que comme un seul lieu. Asakusa a Senso-ji, le plus ancien temple de la ville, et l'allée commerçante de Nakamise ; Shibuya a le carrefour piéton géant et Shinjuku les bars de Golden Gai et Omoide Yokocho ; Harajuku c'est la rue Takeshita et la forêt du sanctuaire Meiji ; Akihabara c'est l'électronique et l'anime ; Ginza ce sont les grands magasins et les comptoirs à sushi. Tout fonctionne à l'heure et les derniers trains partent vers minuit. L'argent liquide compte encore dans les petits restaurants, une carte IC couvre chaque train et bus, et le pourboire ne se pratique nulle part.\n\nLe prix comprend tous les frais et taxes. Il ne comprend pas repas et boissons supplémentaires, frais de transport jusqu'au lieu de rencontre et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -20645,6 +22099,48 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Marché de Tsukiji : visite avec un guide local (Tokyo)",
   "metaDescription": "Excursion à Tokyo. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "karaoke-box-experience-at-big-echo-in-tokyo": {
+  "title": "Expérience de box karaoké chez BIG ECHO à Tokyo",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Tokyo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nTokyo est la plus grande ville du monde par population métropolitaine et se visite mieux comme un ensemble de quartiers sur la ligne circulaire Yamanote plutôt que comme un seul lieu. Asakusa a Senso-ji, le plus ancien temple de la ville, et l'allée commerçante de Nakamise ; Shibuya a le carrefour piéton géant et Shinjuku les bars de Golden Gai et Omoide Yokocho ; Harajuku c'est la rue Takeshita et la forêt du sanctuaire Meiji ; Akihabara c'est l'électronique et l'anime ; Ginza ce sont les grands magasins et les comptoirs à sushi. Tout fonctionne à l'heure et les derniers trains partent vers minuit. L'argent liquide compte encore dans les petits restaurants, une carte IC couvre chaque train et bus, et le pourboire ne se pratique nulle part.\n\nLe prix comprend location de salle de karaoké, boissons et bâton lumineux. Il ne comprend pas repas, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 heure",
+   "Location de salle de karaoké",
+   "Boissons",
+   "Bâton lumineux"
+  ],
+  "included": [
+   "Location de salle de karaoké",
+   "Boissons",
+   "Bâton lumineux"
+  ],
+  "notIncluded": [
+   "Repas"
+  ],
+  "shortDescription": "Excursion de 1 heure à Tokyo, comprenant location de salle de karaoké, boissons et bâton lumineux. Opérateur : H.I.S. Co Ltd(TIC), en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Expérience de box karaoké chez BIG ECHO à Tokyo",
+  "metaDescription": "Excursion de 1 heure à Tokyo. Comprend location de salle de karaoké. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "guided-food-tour-with-12-dishes-at-4-local-eateries-in-tokyo": {
+  "title": "Visite gastronomique guidée avec 12 plats dans 4 restaurants locaux à Tokyo",
+  "fullDescription": "Cette expérience de 2,5 heures se déroule à Tokyo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nTokyo est la plus grande ville du monde par population métropolitaine et se visite mieux comme un ensemble de quartiers sur la ligne circulaire Yamanote plutôt que comme un seul lieu. Asakusa a Senso-ji, le plus ancien temple de la ville, et l'allée commerçante de Nakamise ; Shibuya a le carrefour piéton géant et Shinjuku les bars de Golden Gai et Omoide Yokocho ; Harajuku c'est la rue Takeshita et la forêt du sanctuaire Meiji ; Akihabara c'est l'électronique et l'anime ; Ginza ce sont les grands magasins et les comptoirs à sushi. Tout fonctionne à l'heure et les derniers trains partent vers minuit. L'argent liquide compte encore dans les petits restaurants, une carte IC couvre chaque train et bus, et le pourboire ne se pratique nulle part.\n\nLe prix comprend 12 plats japonais recommandés, 2 boissons et visite guidée à pied en anglais à travers Asakusa. Il ne comprend pas prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2,5 heures",
+   "12 plats japonais recommandés",
+   "2 boissons",
+   "Visite guidée à pied en anglais à travers Asakusa"
+  ],
+  "included": [
+   "12 plats japonais recommandés",
+   "2 boissons",
+   "Visite guidée à pied en anglais à travers Asakusa"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel"
+  ],
+  "shortDescription": "Excursion à Tokyo, comprenant 12 plats japonais recommandés, 2 boissons et visite guidée à pied en anglais à travers Asakusa. Opérateur : Japan Guide Stars, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite gastronomique guidée avec 12 plats dans 4 restaurants locaux à Tokyo",
+  "metaDescription": "Excursion à Tokyo. Comprend 12 plats japonais recommandés. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "samurai-ninja-museum-shinjuku-guided-tour-and-ninja-experience-tokyo": {
   "title": "Musée samouraï ninja Shinjuku : visite guidée et expérience ninja (Tokyo)",
   "fullDescription": "Cette expérience de 1 heure se déroule à Tokyo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nTokyo est la plus grande ville du monde par population métropolitaine et se visite mieux comme un ensemble de quartiers sur la ligne circulaire Yamanote plutôt que comme un seul lieu. Asakusa a Senso-ji, le plus ancien temple de la ville, et l'allée commerçante de Nakamise ; Shibuya a le carrefour piéton géant et Shinjuku les bars de Golden Gai et Omoide Yokocho ; Harajuku c'est la rue Takeshita et la forêt du sanctuaire Meiji ; Akihabara c'est l'électronique et l'anime ; Ginza ce sont les grands magasins et les comptoirs à sushi. Tout fonctionne à l'heure et les derniers trains partent vers minuit. L'argent liquide compte encore dans les petits restaurants, une carte IC couvre chaque train et bus, et le pourboire ne se pratique nulle part.\n\nLe prix comprend billet d'entrée, visite guidée avec un guide parlant anglais et expérience de lancer d'étoiles de ninja. Il ne comprend pas transport, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -20666,6 +22162,95 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Musée samouraï ninja Shinjuku : visite guidée et expérience ninja",
   "metaDescription": "Excursion de 1 heure à Tokyo. Comprend billet d'entrée. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "easy-ramen-cooking-experience-in-kabukicho-shinjuku": {
+  "title": "Expérience facile de cuisine ramen à Kabukicho, Shinjuku",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Tokyo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nTokyo est la plus grande ville du monde par population métropolitaine et se visite mieux comme un ensemble de quartiers sur la ligne circulaire Yamanote plutôt que comme un seul lieu. Asakusa a Senso-ji, le plus ancien temple de la ville, et l'allée commerçante de Nakamise ; Shibuya a le carrefour piéton géant et Shinjuku les bars de Golden Gai et Omoide Yokocho ; Harajuku c'est la rue Takeshita et la forêt du sanctuaire Meiji ; Akihabara c'est l'électronique et l'anime ; Ginza ce sont les grands magasins et les comptoirs à sushi. Tout fonctionne à l'heure et les derniers trains partent vers minuit. L'argent liquide compte encore dans les petits restaurants, une carte IC couvre chaque train et bus, et le pourboire ne se pratique nulle part.\n\nLe prix comprend expérience de cuisine ramen et repas. Il ne comprend pas boissons en bouteille, repas et boissons supplémentaires et frais de transport jusqu'au lieu de rencontre, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 heure",
+   "Expérience de cuisine ramen",
+   "Repas"
+  ],
+  "included": [
+   "Expérience de cuisine ramen",
+   "Repas"
+  ],
+  "notIncluded": [
+   "Boissons en bouteille",
+   "Repas et boissons supplémentaires",
+   "Frais de transport jusqu'au lieu de rencontre"
+  ],
+  "shortDescription": "Excursion de 1 heure à Tokyo, comprenant expérience de cuisine ramen et repas. Opérateur : Bancre Inc., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Expérience facile de cuisine ramen à Kabukicho, Shinjuku",
+  "metaDescription": "Excursion de 1 heure à Tokyo. Comprend expérience de cuisine ramen. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "kintsugi-gold-repair-workshop-in-tokyo": {
+  "title": "Atelier de réparation à l'or kintsugi à Tokyo",
+  "fullDescription": "Cette expérience de 45 minutes se déroule à Tokyo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nTokyo est la plus grande ville du monde par population métropolitaine et se visite mieux comme un ensemble de quartiers sur la ligne circulaire Yamanote plutôt que comme un seul lieu. Asakusa a Senso-ji, le plus ancien temple de la ville, et l'allée commerçante de Nakamise ; Shibuya a le carrefour piéton géant et Shinjuku les bars de Golden Gai et Omoide Yokocho ; Harajuku c'est la rue Takeshita et la forêt du sanctuaire Meiji ; Akihabara c'est l'électronique et l'anime ; Ginza ce sont les grands magasins et les comptoirs à sushi. Tout fonctionne à l'heure et les derniers trains partent vers minuit. L'argent liquide compte encore dans les petits restaurants, une carte IC couvre chaque train et bus, et le pourboire ne se pratique nulle part.\n\nLe prix comprend atelier de kintsugi, tous les matériaux et outils nécessaires pour l'expérience de kintsugi, une assiette incluse et instructeur. Il ne comprend pas mises à niveau d'assiette premium, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 45 minutes",
+   "Atelier de kintsugi",
+   "Tous les matériaux et outils nécessaires pour l'expérience de kintsugi",
+   "Une assiette incluse",
+   "Instructeur anglophone"
+  ],
+  "included": [
+   "Atelier de kintsugi",
+   "Tous les matériaux et outils nécessaires pour l'expérience de kintsugi",
+   "Une assiette incluse",
+   "Instructeur anglophone"
+  ],
+  "notIncluded": [
+   "Mises à niveau d'assiette premium (disponibles contre un supplément)"
+  ],
+  "shortDescription": "Excursion de 0,75 heures à Tokyo, comprenant atelier de kintsugi, tous les matériaux et outils nécessaires pour l'expérience de kintsugi et une assiette incluse. Opérateur : Traveling Tokyo, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Atelier de réparation à l'or kintsugi à Tokyo",
+  "metaDescription": "Excursion de 0,75 heures à Tokyo. Comprend atelier de kintsugi. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "authentic-tea-ceremony-with-matcha-and-kimono-in-tokyo": {
+  "title": "Authentique cérémonie du thé avec matcha et kimono à Tokyo",
+  "fullDescription": "Cette expérience de 1,5 heures se déroule à Tokyo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nTokyo est la plus grande ville du monde par population métropolitaine et se visite mieux comme un ensemble de quartiers sur la ligne circulaire Yamanote plutôt que comme un seul lieu. Asakusa a Senso-ji, le plus ancien temple de la ville, et l'allée commerçante de Nakamise ; Shibuya a le carrefour piéton géant et Shinjuku les bars de Golden Gai et Omoide Yokocho ; Harajuku c'est la rue Takeshita et la forêt du sanctuaire Meiji ; Akihabara c'est l'électronique et l'anime ; Ginza ce sont les grands magasins et les comptoirs à sushi. Tout fonctionne à l'heure et les derniers trains partent vers minuit. L'argent liquide compte encore dans les petits restaurants, une carte IC couvre chaque train et bus, et le pourboire ne se pratique nulle part.\n\nLe prix comprend cérémonie du thé traditionnelle, location de kimono et habillage professionnel et coiffure pour femmes. Il ne comprend pas transport jusqu'au lieu de l'activité et repas autres que les douceurs japonaises, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1,5 heures",
+   "Cérémonie du thé traditionnelle",
+   "Location de kimono et habillage professionnel",
+   "Coiffure pour femmes (cheveux longs uniquement)"
+  ],
+  "included": [
+   "Cérémonie du thé traditionnelle",
+   "Location de kimono et habillage professionnel",
+   "Coiffure pour femmes (cheveux longs uniquement)"
+  ],
+  "notIncluded": [
+   "Transport jusqu'au lieu de l'activité",
+   "Repas autres que les douceurs japonaises"
+  ],
+  "shortDescription": "Excursion de 1,5 heures à Tokyo, comprenant cérémonie du thé traditionnelle, location de kimono et habillage professionnel et coiffure pour femmes. Opérateur : GLOBA Inc., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Authentique cérémonie du thé avec matcha et kimono à Tokyo",
+  "metaDescription": "Excursion de 1,5 heures à Tokyo. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "sushi-and-ramen-cooking-class-with-sake-pairing-set-in-tokyo": {
+  "title": "Cours de cuisine sushi et ramen avec accord saké à Tokyo",
+  "fullDescription": "Cette expérience de 3 heures se déroule à Tokyo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nTokyo est la plus grande ville du monde par population métropolitaine et se visite mieux comme un ensemble de quartiers sur la ligne circulaire Yamanote plutôt que comme un seul lieu. Asakusa a Senso-ji, le plus ancien temple de la ville, et l'allée commerçante de Nakamise ; Shibuya a le carrefour piéton géant et Shinjuku les bars de Golden Gai et Omoide Yokocho ; Harajuku c'est la rue Takeshita et la forêt du sanctuaire Meiji ; Akihabara c'est l'électronique et l'anime ; Ginza ce sont les grands magasins et les comptoirs à sushi. Tout fonctionne à l'heure et les derniers trains partent vers minuit. L'argent liquide compte encore dans les petits restaurants, une carte IC couvre chaque train et bus, et le pourboire ne se pratique nulle part.\n\nLe prix comprend expérience de fabrication de sushi, cours de cuisine ramen, tous les ingrédients nécessaires et instructeur. Il ne comprend pas prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 3 heures",
+   "Expérience de fabrication de sushi",
+   "Cours de cuisine ramen",
+   "Tous les ingrédients nécessaires",
+   "Instructeur anglophone"
+  ],
+  "included": [
+   "Expérience de fabrication de sushi",
+   "Cours de cuisine ramen",
+   "Tous les ingrédients nécessaires",
+   "Instructeur anglophone"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel"
+  ],
+  "shortDescription": "Excursion de 3 heures à Tokyo, comprenant expérience de fabrication de sushi, cours de cuisine ramen et tous les ingrédients nécessaires. Opérateur : Sushi Making Japan | Cooking Class in Japan, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Cours de cuisine sushi et ramen avec accord saké à Tokyo",
+  "metaDescription": "Excursion de 3 heures à Tokyo. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "matcha-making-experience-with-mochi-sweets-in-asakusa": {
   "title": "Expérience de fabrication de matcha avec douceurs mochi à Asakusa",
   "fullDescription": "Cette expérience de 1 heure se déroule à Tokyo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nTokyo est la plus grande ville du monde par population métropolitaine et se visite mieux comme un ensemble de quartiers sur la ligne circulaire Yamanote plutôt que comme un seul lieu. Asakusa a Senso-ji, le plus ancien temple de la ville, et l'allée commerçante de Nakamise ; Shibuya a le carrefour piéton géant et Shinjuku les bars de Golden Gai et Omoide Yokocho ; Harajuku c'est la rue Takeshita et la forêt du sanctuaire Meiji ; Akihabara c'est l'électronique et l'anime ; Ginza ce sont les grands magasins et les comptoirs à sushi. Tout fonctionne à l'heure et les derniers trains partent vers minuit. L'argent liquide compte encore dans les petits restaurants, une carte IC couvre chaque train et bus, et le pourboire ne se pratique nulle part.\n\nLe prix comprend cours de cuisine, ingrédients et instructeur. Il ne comprend pas prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -20686,6 +22271,27 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 1 heure à Tokyo, comprenant cours de cuisine, ingrédients et instructeur. Opérateur : Sushi Making Japan | Cooking Class in Japan, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Expérience de fabrication de matcha avec douceurs mochi à Asakusa",
   "metaDescription": "Excursion de 1 heure à Tokyo. Comprend cours de cuisine. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "exquisite-wagyu-beef-experience-at-yakiniku-nikunone-in-tokyo": {
+  "title": "Exquise expérience de bœuf wagyu chez Yakiniku Nikunone à Tokyo",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Tokyo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nTokyo est la plus grande ville du monde par population métropolitaine et se visite mieux comme un ensemble de quartiers sur la ligne circulaire Yamanote plutôt que comme un seul lieu. Asakusa a Senso-ji, le plus ancien temple de la ville, et l'allée commerçante de Nakamise ; Shibuya a le carrefour piéton géant et Shinjuku les bars de Golden Gai et Omoide Yokocho ; Harajuku c'est la rue Takeshita et la forêt du sanctuaire Meiji ; Akihabara c'est l'électronique et l'anime ; Ginza ce sont les grands magasins et les comptoirs à sushi. Tout fonctionne à l'heure et les derniers trains partent vers minuit. L'argent liquide compte encore dans les petits restaurants, une carte IC couvre chaque train et bus, et le pourboire ne se pratique nulle part.\n\nLe prix comprend menu complet, taxe de vente et réservation. Il ne comprend pas autres dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2 heures",
+   "Menu complet",
+   "Taxe de vente",
+   "Réservation"
+  ],
+  "included": [
+   "Menu complet",
+   "Taxe de vente",
+   "Réservation"
+  ],
+  "notIncluded": [
+   "Autres dépenses personnelles"
+  ],
+  "shortDescription": "Excursion de 2 heures à Tokyo, comprenant menu complet, taxe de vente et réservation. Opérateur : TakeMe Co.,Ltd., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Exquise expérience de bœuf wagyu chez Yakiniku Nikunone à Tokyo",
+  "metaDescription": "Excursion de 2 heures à Tokyo. Comprend menu complet et taxe de vente. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "samurai-ninja-museum-asakusa-guided-tour-and-ninja-experience-tokyo": {
   "title": "Musée samouraï ninja Asakusa : visite guidée et expérience ninja (Tokyo)",
@@ -20722,6 +22328,46 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 1,5 heures à Tokyo, comprenant frais de forfait. Opérateur : tourcandy ltd., en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Tokyo Daikanyama : fabrication de bague en argent",
   "metaDescription": "Excursion de 1,5 heures à Tokyo. Comprend frais de forfait. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "experience-crafting-a-flower-adorned-mini-japanese-garden-in-tokyo": {
+  "title": "Créez un mini jardin japonais orné de fleurs à Tokyo",
+  "fullDescription": "Cette expérience de 1,5 heures se déroule à Tokyo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nTokyo est la plus grande ville du monde par population métropolitaine et se visite mieux comme un ensemble de quartiers sur la ligne circulaire Yamanote plutôt que comme un seul lieu. Asakusa a Senso-ji, le plus ancien temple de la ville, et l'allée commerçante de Nakamise ; Shibuya a le carrefour piéton géant et Shinjuku les bars de Golden Gai et Omoide Yokocho ; Harajuku c'est la rue Takeshita et la forêt du sanctuaire Meiji ; Akihabara c'est l'électronique et l'anime ; Ginza ce sont les grands magasins et les comptoirs à sushi. Tout fonctionne à l'heure et les derniers trains partent vers minuit. L'argent liquide compte encore dans les petits restaurants, une carte IC couvre chaque train et bus, et le pourboire ne se pratique nulle part.\n\nLe prix comprend une boisson non alcoolisée et tous les frais et taxes. Il ne comprend pas déjeuner, dîner, boissons en bouteille et repas et boissons supplémentaires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1,5 heures",
+   "une boisson non alcoolisée",
+   "Tous les frais et taxes"
+  ],
+  "included": [
+   "une boisson non alcoolisée",
+   "Tous les frais et taxes"
+  ],
+  "notIncluded": [
+   "Déjeuner",
+   "Dîner",
+   "Boissons en bouteille",
+   "Repas et boissons supplémentaires",
+   "Frais de transport jusqu'au lieu de rencontre"
+  ],
+  "shortDescription": "Excursion de 1,5 heures à Tokyo, comprenant une boisson non alcoolisée et tous les frais et taxes. Opérateur : Bancre Inc., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Créez un mini jardin japonais orné de fleurs à Tokyo",
+  "metaDescription": "Excursion de 1,5 heures à Tokyo. Comprend une boisson non alcoolisée. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "japanese-massage-kangfu-beauty-and-body-care-salon-in-tokyo": {
+  "title": "Massage japonais au salon de beauté et soins du corps Kangfu à Tokyo",
+  "fullDescription": "Cette expérience de 30 minutes se déroule à Tokyo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nTokyo est la plus grande ville du monde par population métropolitaine et se visite mieux comme un ensemble de quartiers sur la ligne circulaire Yamanote plutôt que comme un seul lieu. Asakusa a Senso-ji, le plus ancien temple de la ville, et l'allée commerçante de Nakamise ; Shibuya a le carrefour piéton géant et Shinjuku les bars de Golden Gai et Omoide Yokocho ; Harajuku c'est la rue Takeshita et la forêt du sanctuaire Meiji ; Akihabara c'est l'électronique et l'anime ; Ginza ce sont les grands magasins et les comptoirs à sushi. Tout fonctionne à l'heure et les derniers trains partent vers minuit. L'argent liquide compte encore dans les petits restaurants, une carte IC couvre chaque train et bus, et le pourboire ne se pratique nulle part.\n\nLe prix comprend frais de forfait. Il ne comprend pas transport et autres dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 30 minutes",
+   "Frais de forfait"
+  ],
+  "included": [
+   "Frais de forfait"
+  ],
+  "notIncluded": [
+   "Transport et autres dépenses personnelles"
+  ],
+  "shortDescription": "Excursion de 0,5 heures à Tokyo, comprenant frais de forfait. Opérateur : tourcandy ltd., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Massage japonais au salon de beauté et soins du corps Kangfu à Tokyo",
+  "metaDescription": "Excursion de 0,5 heures à Tokyo. Comprend frais de forfait. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "padamsar-lake-guided-tour": {
   "title": "Splendeur bleue : saveurs locales et ruelles secrètes de Jodhpur",
