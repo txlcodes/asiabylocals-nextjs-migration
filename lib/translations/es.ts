@@ -26293,6 +26293,76 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier gasto personal"
   ]
  },
+ "delhi-full-day-private-tour-of-old-new-delhi": {
+  "title": "Delhi: tour privado de día completo por el Viejo y Nuevo Delhi",
+  "metaTitle": "Delhi: día completo, Viejo y Nuevo Delhi",
+  "metaDescription": "Explora el Viejo Delhi y el Nuevo Delhi en un día",
+  "shortDescription": "Explora el Viejo Delhi y el Nuevo Delhi en un día",
+  "fullDescription": "Delhi: tour privado de día completo por el Viejo y Nuevo Delhi. Explora el Viejo Delhi y el Nuevo Delhi en un día.\n\nDescubre los fascinantes contrastes de la capital de la India en un tour privado de día completo por el Viejo y Nuevo Delhi. Viaja cómodamente en un vehículo privado con aire acondicionado con un guía local profesional, y explora siglos de historia, impresionante arquitectura, coloridos mercados, y la vibrante cultura de Delhi.\n\nComienza tu viaje en el Viejo Delhi, el corazón histórico de la ciudad. Visita la magnífica Jama Masjid, una de las mezquitas más grandes e impresionantes de la India. Continúa hacia las animadas calles de Chandni Chowk, donde podrás experimentar el ambiente del Delhi tradicional. Disfruta de un memorable paseo en rickshaw por los estrechos callejones de la ciudad vieja, pasando por tiendas coloridas, mercados locales, y edificios históricos.\n\nContinúa hacia Raj Ghat, el apacible monumento dedicado a Mahatma Gandhi, antes de explorar las grandes avenidas del Nuevo Delhi. Visita India Gate, un icónico monumento de guerra rodeado de jardines, y pasa frente a importantes edificios gubernamentales y el impresionante Patrimonio Presidencial.\n\nExplora la magnífica tumba de Humayun, Patrimonio de la Humanidad de la UNESCO y obra maestra arquitectónica que influyó en el diseño del Taj Mahal. Continúa hacia el Qutub Minar, otro Patrimonio de la Humanidad de la UNESCO, famoso por su imponente minarete y notable arquitectura indoislámica.\n\nA lo largo del tour, tu guía privado compartirá fascinantes historias sobre la historia mogol, británica, y moderna de Delhi. También tendrás oportunidades de experimentar la vida local, tomar fotografías, y disfrutar de la ciudad a tu propio ritmo.\n\nAl final del día, relájate en tu vehículo privado, y regresa a tu hotel o lugar preferido en Delhi/Gurugram/Noida.\n\n**Qué incluye**\nVehículo privado con aire acondicionado\nGuía turístico privado profesional\nRecogida y regreso al hotel\nPaseo en rickshaw en el Viejo Delhi\nAgua potable embotellada\n\n**No incluye**\nEntradas a los monumentos\nComidas y bebidas\nGastos personales\nPropinas y gratificaciones",
+  "highlights": [
+   "Explora el Viejo Delhi y el Nuevo Delhi en un día"
+  ],
+  "included": [
+   "Vehículo privado con aire acondicionado",
+   "Guía turístico privado profesional",
+   "Recogida y regreso al hotel",
+   "Paseo en rickshaw en el Viejo Delhi",
+   "Agua potable embotellada"
+  ],
+  "notIncluded": [
+   "Entradas a los monumentos",
+   "Comidas y bebidas",
+   "Gastos personales",
+   "Propinas y gratificaciones"
+  ]
+ },
+ "delhi-nightlife-tour-in-private-car-temple-bars": {
+  "title": "Tour nocturno por Delhi en coche privado: templo, bares, y cafés",
+  "metaTitle": "Delhi: vida nocturna, coche privado",
+  "metaDescription": "Una noche, cuatro facetas de Delhi: templo, comida, vida nocturna, e India Gate",
+  "shortDescription": "Una noche, cuatro facetas de Delhi: templo, comida, vida nocturna, e India Gate",
+  "fullDescription": "Tour nocturno por Delhi en coche privado: templo, bares, y cafés. Una noche, cuatro facetas de Delhi: templo, comida, vida nocturna, e India Gate.\n\nMuchos de nuestros huéspedes viajan solos, y eso determina cómo planificamos esta noche, desde el ritmo, hasta los lugares que elegimos, y permanecer contigo durante todo el recorrido en lugar de dejarte en una parada y seguir adelante.\n\nEste tour nocturno privado por Delhi te lleva desde un resplandeciente Gurudwara sij hasta street food en Connaught Place que hemos seleccionado personalmente, luego a los bares y cafés de Hauz Khas y Connaught Place, terminando con un recorrido frente a India Gate iluminado tras el anochecer.\n\nTendrás un coche privado y un chófer durante toda la noche, y tus guías, Sid y Vishal, tratan cada parada con el mismo cuidado que querríamos para nuestra propia familia visitando Delhi.\n\nResérvalo como tu noche: solo, en pareja, o con amigos. Coche privado, guía privado, tu propio ritmo.\n\n**Qué incluye**\nTarifa del guía\nBotellas de agua empaquetadas\nServicios de wifi durante todo el tour\nServicios de llamadas locales\nCoche privado\nTarifas de estacionamiento\nFotógrafo (que tomará fotos con el teléfono)\n\n**No incluye**\nTarifas de entrada en cafés y bares\nComida y bebidas",
+  "highlights": [
+   "Una noche, cuatro facetas de Delhi: templo, comida, vida nocturna, e India Gate"
+  ],
+  "included": [
+   "Tarifa del guía",
+   "Botellas de agua empaquetadas",
+   "Servicios de wifi durante todo el tour",
+   "Servicios de llamadas locales",
+   "Coche privado",
+   "Tarifas de estacionamiento",
+   "Fotógrafo (que tomará fotos con el teléfono)"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada en cafés y bares",
+   "Comida y bebidas"
+  ]
+ },
+ "from-delhi-airport-guided-layover-tour-of-old-new": {
+  "title": "Desde el aeropuerto de Delhi: tour guiado durante escala, Viejo y Nuevo Delhi",
+  "metaTitle": "Delhi: escala guiada, Viejo y Nuevo Delhi",
+  "metaDescription": "Experimenta el contraste cultural e histórico de esta vibrante ciudad.",
+  "shortDescription": "Experimenta el contraste cultural e histórico de esta vibrante ciudad.",
+  "fullDescription": "Desde el aeropuerto de Delhi: tour guiado durante escala, Viejo y Nuevo Delhi. Experimenta el contraste cultural e histórico de esta vibrante ciudad.\n\nAprovecha al máximo tu escala en Delhi con un tour cómodo, privado, y totalmente guiado por el Viejo y el Nuevo Delhi. Diseñado para viajeros con 4 a 8 horas (o más) entre vuelos, este tour ofrece una mezcla fluida de historia, cultura, y visitas turísticas. Disfruta de recogida y regreso al aeropuerto, un coche con aire acondicionado, y la experiencia de un guía local profesional que asegura tu regreso puntual al aeropuerto para tu próximo vuelo.\n\nSiéntate, relájate, y explora los lugares emblemáticos de Delhi, sus vibrantes mercados, y sus obras maestras arquitectónicas, personalizadas según la duración que elijas.\n\n**Opciones de duración del tour y qué verás**\n\n**Tour de escala de 4 horas (destacados breves y esenciales)**\n\nPerfecto para escalas ajustadas. En esta opción, visitarás:\n\nEl Qutub Minar (visita)\n\nIndia Gate (parada para fotos)\n\nEl Parlamento (recorrido en coche)\n\nLa tumba de Humayun (visita)\n\n**Tour de escala de 5 horas (destacados ampliados)**\n\nEsta opción incluye todo lo del tour de 4 horas, además de:\n\nEl Rashtrapati Bhavan, Palacio Presidencial (recorrido en coche)\n\n**Tour de escala de 6 horas (esenciales del Nuevo Delhi)**\n\nEste tour ampliado cubre:\n\nEl Qutub Minar\n\nIndia Gate\n\nEl Parlamento (recorrido en coche)\n\nEl Rashtrapati Bhavan (recorrido en coche)\n\nEl Gurudwara Bangla Sahib (visita)\n\nLa tumba de Humayun (visita)\n\n**Tour de escala de 8 horas (combinación Viejo y Nuevo Delhi)**\n\nLa opción más popular, cubriendo tanto el Viejo como el Nuevo Delhi:\n\nEl Qutub Minar\n\nIndia Gate\n\nLa tumba de Humayun\n\nEl Templo del Loto\n\nEl templo de Akshardham\n\nEl Parlamento (recorrido en coche)\n\nEl Gurudwara Bangla Sahib\n\nLa Jama Masjid\n\nChandni Chowk, con paseo en tuk-tuk/rickshaw\n\nEl Fuerte Rojo (parada fotográfica exterior)\n\n**Resumen de la experiencia del tour**\n\nTu viaje comienza con una cómoda recogida en el Aeropuerto Internacional Indira Gandhi, donde te recibirán tu chófer privado y guía con licencia. Viaja cómodamente en un vehículo con aire acondicionado mientras exploras tanto el Viejo como el Nuevo Delhi.\n\n**Lo más destacado del Nuevo Delhi**\n\n**Qutub Minar**\nVisita el minarete de ladrillo más alto y Patrimonio de la Humanidad de la UNESCO.\n\n**Tumba de Humayun**\nExplora esta tumba de la era mogol que inspiró el Taj Mahal.\n\n**India Gate**\nDetente para fotos en este icónico monumento de guerra nacional.\n\n**Gurudwara Bangla Sahib**\nVisita el pacífico templo sij, conocido por su estanque sagrado.\n\n**Casa del Presidente y Parlamento**\nPasa frente a los edificios gubernamentales más importantes de la India.\n\n**Templo del Loto**\nObserva el templo en forma de loto y sus tranquilos jardines.\n\n**Templo de Akshardham**\nObserva los detallados tallados y la gran arquitectura.\n\n**Lo más destacado del Viejo Delhi**\n\n**Jama Masjid**\nVisita una de las mezquitas más grandes de la India, con impresionante arquitectura mogol.\n\n**Chandni Chowk**\nRecorre el bullicioso mercado en un tuk-tuk tradicional, experimentando estrechos callejones llenos de vida, especias, y cultura.\n\n**Mercado de especias Khari Baoli**\nCamina por el mercado de especias y frutos secos más grande de Asia, y disfruta de los aromas.\n\n**Fuerte Rojo (exterior)**\nObserva el majestuoso Fuerte Rojo desde el exterior, y toma fotos memorables.\n\n**Regreso al aeropuerto**\n\nTu guía y chófer asegurarán un regreso fluido y puntual al aeropuerto, dejándote con experiencias memorables y una comprensión más profunda del rico patrimonio de Delhi.\n\n**Qué incluye**\nServicio de recogida y regreso desde/hacia el hotel o aeropuerto de Delhi\nCoche privado con aire acondicionado y chófer\nGuía turístico privado en vivo\nBotellas de agua mineral\nParaguas\nTodo el estacionamiento e impuestos\n\n**No incluye**\nEntradas a los monumentos\nComidas\nBebidas\nPropinas/gratificaciones (opcionales)",
+  "highlights": [
+   "Experimenta el contraste cultural e histórico de esta vibrante ciudad"
+  ],
+  "included": [
+   "Servicio de recogida y regreso desde/hacia el hotel o aeropuerto de Delhi",
+   "Coche privado con aire acondicionado y chófer",
+   "Guía turístico privado en vivo",
+   "Botellas de agua mineral",
+   "Paraguas",
+   "Todo el estacionamiento e impuestos"
+  ],
+  "notIncluded": [
+   "Entradas a los monumentos",
+   "Comidas",
+   "Bebidas",
+   "Propinas/gratificaciones (opcionales)"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
