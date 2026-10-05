@@ -24705,6 +24705,87 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier otro gasto personal"
   ]
  },
+ "delhi-create-your-own-itinerary-private-tour": {
+  "title": "Delhi: crea tu propio itinerario - tour privado y traslados",
+  "metaTitle": "Delhi: itinerario personalizado, privado",
+  "metaDescription": "Adapta tu itinerario con tu guía, explorando los lugares clave de Delhi.",
+  "shortDescription": "Adapta tu itinerario con tu guía, explorando los lugares clave de Delhi.",
+  "fullDescription": "Delhi: crea tu propio itinerario - tour privado y traslados. Adapta tu itinerario con tu guía, explorando los lugares clave de Delhi.\n\nComienza tu día con una cómoda recogida en tu hotel, aeropuerto, o cualquier lugar deseado en Delhi, Noida, Gurugram, Ghaziabad, o Faridabad. Con la ayuda de tu guía, puedes crear tu propio itinerario a partir de las atracciones más famosas listadas a continuación. Disfruta de una experiencia personalizada explorando lo mejor del Viejo y Nuevo Delhi. Elige entre las opciones disponibles: un tour de día completo (8 a 10 horas) o un tour de medio día (4 a 5 horas).\n\nDisfruta de tu pausa para el almuerzo en el momento que elijas durante el tour, lo que te permite relajarte y reponer fuerzas en un restaurante indio de cocina variada. Se indican los tiempos de cada atracción para ayudarte a planificar tu itinerario según la duración del tour que elijas.\n\n**Atracciones del Viejo Delhi:**\n\nJama Masjid (45 min): una de las mezquitas más grandes de la India, con una arquitectura majestuosa y vistas impresionantes del Viejo Delhi.\nFuerte Rojo (1 hora 30 min): Patrimonio de la Humanidad de la UNESCO, conocido por sus muros de arenisca roja y su importancia histórica.\nKhari Baoli (1 hora): un animado mercado de especias que ofrece una experiencia sensorial con especias y hierbas.\nPaseo en tuk-tuk (30 min): navega por las estrechas calles del Viejo Delhi en un tuk-tuk tradicional.\nRaj Ghat (30 min): un tranquilo monumento a Mahatma Gandhi junto al río Yamuna.\n\n**Atracciones del Nuevo Delhi:**\n\nIndia Gate (30 min): un monumento de guerra que honra a los soldados de la Primera Guerra Mundial.\nTumba de Humayun (1 hora 30 min): un sitio de la UNESCO con jardines mogoles y una arquitectura impresionante.\nQutub Minar (1 hora 30 min): un imponente minarete que muestra el diseño mogol temprano.\nTemplo del Loto (1 hora): un templo bahá'í con un diseño único en forma de loto, abierto a todas las religiones.\nRashtrapati Bhavan (10 min): la residencia del presidente con una arquitectura majestuosa.\nParlamento (10 min): la sede legislativa de la India, con un distintivo diseño circular.\nTemplo de Akshardham (1 hora): un complejo de templo moderno con intrincados tallados.\nGurudwara Bangla Sahib (1 hora): un templo sij conocido por su cocina comunitaria.\nBirla House (30 min): la última residencia de Gandhi, hoy un museo.\nTemplo Birla (45 min): un templo hindú conocido por sus ornamentados tallados.\nAgrasen Ki Baoli (30 min): un antiguo pozo escalonado que ofrece un vistazo al rico patrimonio arquitectónico de Delhi.\n\nTermina tu día con el regreso a tu hotel, aeropuerto, o al lugar que prefieras en Delhi, Noida, Gurugram, Ghaziabad, o Faridabad, llevándote hermosos recuerdos de un día bien aprovechado.\n\n**Qué incluye**\nServicio de recogida y regreso desde el hotel o aeropuerto en Delhi, Noida, Gurugram, Faridabad, Ghaziabad\nTransporte en coche privado con aire acondicionado\nGuía turístico privado en vivo\nParaguas (si es necesario)\nTodos los impuestos, estacionamiento, y gastos de combustible\nAgua mineral embotellada\nPaseo en rickshaw en el Viejo Delhi (si se selecciona esta opción)\nTarifas de entrada a los monumentos (si se selecciona esta opción)\nAlmuerzo (si se selecciona esta opción)\n\n**No incluye**\nBebidas\nGratificaciones/propinas (opcionales)",
+  "highlights": [
+   "Adapta tu itinerario con tu guía, explorando los lugares clave de Delhi"
+  ],
+  "included": [
+   "Servicio de recogida y regreso desde el hotel o aeropuerto en Delhi, Noida, Gurugram, Faridabad, Ghaziabad",
+   "Transporte en coche privado con aire acondicionado",
+   "Guía turístico privado en vivo",
+   "Paraguas (si es necesario)",
+   "Todos los impuestos, estacionamiento, y gastos de combustible",
+   "Agua mineral embotellada",
+   "Paseo en rickshaw en el Viejo Delhi (si se selecciona esta opción)",
+   "Tarifas de entrada a los monumentos (si se selecciona esta opción)",
+   "Almuerzo (si se selecciona esta opción)"
+  ],
+  "notIncluded": [
+   "Bebidas",
+   "Gratificaciones/propinas (opcionales)"
+  ]
+ },
+ "6-day-golden-triangle-tour-with-ranthambore": {
+  "title": "Tour del Triángulo de Oro de 6 días con safari en Ranthambore y Jhalana",
+  "metaTitle": "Triángulo de Oro 6 días, Ranthambore-Jhalana",
+  "metaDescription": "Disfruta de la belleza de los palacios rosados de Jaipur y su observatorio",
+  "shortDescription": "Disfruta de la belleza de los palacios rosados de Jaipur y su observatorio",
+  "fullDescription": "Tour del Triángulo de Oro de 6 días con safari en Ranthambore y Jhalana. Disfruta de la belleza de los palacios rosados de Jaipur y su observatorio.\n\nLa India es un hermoso país con innumerables lugares que explorar; el Triángulo de Oro ofrece la oportunidad de experimentar en solo 6 días la cultura india con el emocionante safari de Ranthambore y Jhalana.\n\n**Qué incluye**\nTour privado\nTransporte en vehículo privado con aire acondicionado\nAlojamiento de 5 noches en hotel con desayuno (si se elige esta opción)\nTodas las visitas con guías locales privados\nIncluye todos los costos de combustible, dietas del chófer, peajes, estacionamiento, comida del chófer, seguro del vehículo, y parada nocturna\nRecogida y regreso en hoteles, aeropuerto, o estación de tren\nBotellas de agua mineral durante los trayectos\n2 safaris en Gypsy o Canter en Ranthambore\n1 safari Jhalana en Jaipur\n\n**No incluye**\nTarifas de entrada a los monumentos\nTarifas de cámara en los monumentos\nPropinas (opcionales)\nSeguro de viaje y billetes de avión y tren\nAtención médica\nAlmuerzo y cena\nPropina para el chófer y el guía\nGastos personales como llamadas telefónicas, tabletas, bebidas, etc.\nCualquier cosa no mencionada en lo que incluye",
+  "highlights": [
+   "Disfruta de la belleza de los palacios rosados de Jaipur y su observatorio"
+  ],
+  "included": [
+   "Tour privado",
+   "Transporte en vehículo privado con aire acondicionado",
+   "Alojamiento de 5 noches en hotel con desayuno (si se elige esta opción)",
+   "Todas las visitas con guías locales privados",
+   "Incluye todos los costos de combustible, dietas del chófer, peajes, estacionamiento, comida del chófer, seguro del vehículo, y parada nocturna",
+   "Recogida y regreso en hoteles, aeropuerto, o estación de tren",
+   "Botellas de agua mineral durante los trayectos",
+   "2 safaris en Gypsy o Canter en Ranthambore",
+   "1 safari Jhalana en Jaipur"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a los monumentos",
+   "Tarifas de cámara en los monumentos",
+   "Propinas (opcionales)",
+   "Seguro de viaje y billetes de avión y tren",
+   "Atención médica",
+   "Almuerzo y cena",
+   "Propina para el chófer y el guía",
+   "Gastos personales como llamadas telefónicas, tabletas, bebidas, etc.",
+   "Cualquier cosa no mencionada en lo que incluye"
+  ]
+ },
+ "from-delhi-private-2-day-taj-mahal-agra-overnight": {
+  "title": "Desde Delhi: tour privado de 2 días al Taj Mahal y Agra con pernoctación",
+  "metaTitle": "Delhi-Agra: Taj Mahal 2 días, pernoctación",
+  "metaDescription": "Visita el Taj Mahal cerca del amanecer con tu guía privado",
+  "shortDescription": "Visita el Taj Mahal cerca del amanecer con tu guía privado",
+  "fullDescription": "Desde Delhi: tour privado de 2 días al Taj Mahal y Agra con pernoctación. Visita el Taj Mahal cerca del amanecer con tu guía privado.\n\nComienza con una recogida privada en tu hotel, residencia, o aeropuerto en cualquier lugar de Delhi NCR, incluyendo Delhi, Noida, Greater Noida, Gurugram, Ghaziabad, y Faridabad. La recogida en el aeropuerto también está disponible desde el Aeropuerto Internacional Indira Gandhi de Delhi, el Aeropuerto Hindon en Ghaziabad, y el Aeropuerto Internacional de Noida en Jewar.\n\nElige un horario de recogida flexible entre las 5:00 y las 11:00, luego viaja aproximadamente 3 horas 30 minutos hasta Agra por la autopista Yamuna en un coche privado con aire acondicionado. Si es necesario, se puede organizar una breve parada de descanso o refrigerio en el camino.\n\nAl llegar a Agra, encuéntrate con tu guía privado y comienza el primer día de visitas. Según tu horario de recogida, podrás hacer una pausa para un desayuno o almuerzo opcional en un restaurante local de cocina variada o en el restaurante de un hotel premium antes de continuar.\n\nVisita Mehtab Bagh, el jardín mogol junto al río, ubicado directamente frente al Taj Mahal, al otro lado del río Yamuna. Disfruta de vistas apacibles del monumento y fotografía el Taj Mahal con la luz más suave del atardecer, mientras el sol comienza a ponerse.\n\nDespués de las visitas del Día 1, traslado a tu hotel seleccionado en Agra y registro. Pasa la tarde relajándote antes del temprano inicio del día siguiente.\n\nEn el Día 2, comienza con una visita matutina temprana al Taj Mahal cerca del amanecer. Explora el monumento con tu guía privado mientras aprendes sobre el emperador Shah Jahan, Mumtaz Mahal, la arquitectura mogol, el trabajo artesanal en mármol blanco, las incrustaciones decorativas, los jardines paisajísticos, y la historia detrás de uno de los monumentos más reconocidos de la India.\n\nDespués de la visita al Taj Mahal, regreso a tu hotel para el desayuno, si está incluido con tu opción de hotel seleccionada, y completa el checkout antes de continuar con las visitas.\n\nContinúa hacia el Fuerte de Agra, Patrimonio de la Humanidad de la UNESCO construido bajo el emperador Akbar. Camina por sus puertas fortificadas, patios reales, salas de audiencia, y antiguas zonas de palacio, mientras tu guía explica la historia de los emperadores mogoles que vivieron allí.\n\nA continuación, visita la tumba de Itmad-ud-Daula, comúnmente conocida como el Pequeño Taj. Admira su delicada arquitectura de mármol blanco, su intrincado trabajo de incrustaciones, sus celosías talladas, y sus apacibles jardines de estilo persa junto al río Yamuna.\n\nDespués de completar las visitas por Agra, relájate durante el trayecto de regreso de aproximadamente 3 horas 30 minutos a Delhi en tu vehículo privado con aire acondicionado.\n\nEl regreso está disponible en el hotel, residencia, o aeropuerto que elijas en cualquier lugar de Delhi NCR. La hora exacta de regreso depende de tu horario de recogida, las condiciones del tráfico, las colas en los monumentos, las paradas para comer, el checkout del hotel, y el ritmo de las visitas.\n\n**Qué incluye**\nRecogida y regreso privados en cualquier lugar de Delhi, Noida, Greater Noida, Gurugram (Gurgaon), Ghaziabad, o Faridabad, incluyendo los aeropuertos de Delhi (IGI), Hindon (Ghaziabad), y Noida International (Jewar)\nCoche privado con aire acondicionado para la recogida, las visitas, y el regreso\nGuía turístico privado en vivo según el itinerario\nEstancia de 1 noche en un hotel de 5 estrellas, si se selecciona la opción de hotel de 5 estrellas\nDesayuno en el hotel el Día 2, si se selecciona la opción de hotel de 5 estrellas\nEntradas a monumentos preorganizadas, si se selecciona la opción de hotel de 5 estrellas\nBotellas de agua y paraguas de cortesía\nTodos los gastos de estacionamiento, peajes, combustible, e impuestos aplicables\n\n**No incluye**\nGastos personales\nPropinas y gratificaciones",
+  "highlights": [
+   "Visita el Taj Mahal cerca del amanecer con tu guía privado"
+  ],
+  "included": [
+   "Recogida y regreso privados en cualquier lugar de Delhi, Noida, Greater Noida, Gurugram (Gurgaon), Ghaziabad, o Faridabad, incluyendo los aeropuertos de Delhi (IGI), Hindon (Ghaziabad), y Noida International (Jewar)",
+   "Coche privado con aire acondicionado para la recogida, las visitas, y el regreso",
+   "Guía turístico privado en vivo según el itinerario",
+   "Estancia de 1 noche en un hotel de 5 estrellas, si se selecciona la opción de hotel de 5 estrellas",
+   "Desayuno en el hotel el Día 2, si se selecciona la opción de hotel de 5 estrellas",
+   "Entradas a monumentos preorganizadas, si se selecciona la opción de hotel de 5 estrellas",
+   "Botellas de agua y paraguas de cortesía",
+   "Todos los gastos de estacionamiento, peajes, combustible, e impuestos aplicables"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas y gratificaciones"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
