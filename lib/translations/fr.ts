@@ -19340,6 +19340,31 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Visite en vélo électrique du sanctuaire Fushimi Inari",
   "metaDescription": "Excursion d'une demi-journée à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "gion-district-nighttime-walk-with-souvenir-and-snack": {
+  "title": "Promenade nocturne dans le quartier de Gion avec souvenir et collation",
+  "fullDescription": "Cette expérience se déroule à Kyoto, construite autour de Gion, Rivière Kamo et Sanctuaire Yasaka. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nGion est le quartier historique de divertissement de Kyoto, les rues de maisons machiya en bois autour de Hanamikoji où les geiko et maiko du district de Gion Kobu travaillent encore. Ce sont des professionnelles en route vers des engagements, pas des artistes de rue, et Kyoto a interdit la photographie dans les ruelles privées ; une promenade du soir avec un guide qui explique le système ochaya est la façon respectueuse de voir cela. Les sessions de cérémonie du thé à Gion enseignent la forme de base de la préparation du matcha en une heure. La location de kimono pour une journée, avec habillage et coiffure, est une activité établie dans le quartier et est bien accueillie plutôt que mal perçue.\n\nLe prix comprend guide, visite à pied, collations gratuites et suivi et recommandations. Il ne comprend pas nourriture et billets de transport public, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\n394 Komeyachō, Nakagyo Ward, Kyoto, 604-8026, Japan. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Gion",
+   "Rivière Kamo",
+   "Sanctuaire Yasaka",
+   "Parc Maruyama",
+   "Guide local",
+   "Visite à pied"
+  ],
+  "included": [
+   "Guide local",
+   "Visite à pied",
+   "Collations gratuites",
+   "Suivi et recommandations"
+  ],
+  "notIncluded": [
+   "Nourriture",
+   "Billets de transport public"
+  ],
+  "shortDescription": "Excursion à Kyoto, avec Gion, Rivière Kamo et Sanctuaire Yasaka. Opérateur : Tour kyoto, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Promenade nocturne dans le quartier de Gion avec souvenir",
+  "metaDescription": "Excursion à Kyoto. Comprend guide et visite à pied. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "kyoto-home-cooking-class-and-supermarket-tour-near-fushimiinari-by-local-operator": {
   "title": "Kyoto : cours de cuisine maison et visite de supermarché près de Fushimi Inari",
   "fullDescription": "Cette expérience de 4 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nFushimi Inari Taisha est le sanctuaire principal d'Inari, la divinité du riz et des affaires, et ses plus de mille portiques torii vermillon, chacun donné par une entreprise ou une famille, s'enchaînent en tunnels sur les 233 mètres du mont Inari derrière le hall principal. La boucle complète jusqu'au sommet fait environ quatre kilomètres et deux heures ; la plupart des visiteurs font demi-tour au point de vue de Yotsutsuji à mi-chemin. C'est ouvert 24 heures sur 24 et gratuit, ce qui en fait le seul grand site de Kyoto que l'on peut faire à l'aube ou après la nuit tombée, quand les portiques sont vides et illuminés. Dès neuf heures du matin, les tunnels inférieurs deviennent une file lente. Les statues de renard portent des clés du grenier à riz dans leur bouche.\n\nLe prix comprend déjeuner et tous les assaisonnements et ingrédients. Il ne comprend pas pourboire et service de prise en charge et de retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -20958,6 +20983,31 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Promenade patrimoniale avant l'aube avec guide local à Nara",
   "metaDescription": "Excursion de 2,5 heures à Nara. Comprend guide, guide et spots photo. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "must-see-attractions-tour-with-english-speaking-guide-in-nara": {
+  "title": "Visite des attractions incontournables avec guide anglophone à Nara",
+  "fullDescription": "Cette expérience de 4 heures se déroule à Nara, construite autour de Temple Kofukuji, Parc de Nara et Todai-ji Daibutsuden (Hall du Grand Bouddha). Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNara fut la première capitale permanente du Japon, de 710 à 784, et son parc abrite Todai-ji, dont le Hall du Grand Bouddha est l'un des plus grands bâtiments en bois du monde et contient un Bouddha de bronze de 15 mètres fondu en 752, Kasuga Taisha avec ses trois mille lanternes, et environ 1 200 cerfs sika considérés comme des messagers des dieux et protégés. Les cerfs s'inclinent pour les crackers shika senbei vendus dans le parc et donneront des coups de tête à quiconque les taquine. Nara est à 45 minutes de Kyoto ou Osaka en train et se visite en une demi-journée ; Todai-ji avant 10h00 est l'heure calme.\n\nLe prix comprend guide anglophone, frais d'entrée au sanctuaire Kasuga Taisha et au temple Todai-ji, photos prises pendant la visite et aperçus historiques sur les quartiers. Il ne comprend pas frais de transport et déjeuner, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nローソン 近鉄奈良駅前店. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Temple Kofukuji",
+   "Parc de Nara",
+   "Todai-ji Daibutsuden (Hall du Grand Bouddha)",
+   "Honden du Kasuga Taisha Honsha",
+   "Durée : 4 heures",
+   "Guide professionnel anglophone"
+  ],
+  "included": [
+   "Guide professionnel anglophone",
+   "Frais d'entrée au sanctuaire Kasuga Taisha et au temple Todai-ji",
+   "Photos prises pendant la visite",
+   "Aperçus historiques sur les quartiers"
+  ],
+  "notIncluded": [
+   "Frais de transport",
+   "Déjeuner"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Nara, avec Temple Kofukuji, Parc de Nara et Todai-ji Daibutsuden (Hall du Grand Bouddha). Opérateur : Travel Japan Together, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite des attractions incontournables avec guide anglophone à Nara",
+  "metaDescription": "Excursion d'une demi-journée à Nara. Comprend guide anglophone. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "3-days-private-osaka-kyoto-and-nara-tour-with-english-driver-by-local-operator": {
   "title": "Visite privée de 3 jours à Osaka, Kyoto et Nara avec chauffeur anglophone",
   "fullDescription": "Cette expérience de 3 jours se déroule à Nara. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend ce qui est inclus, véhicule climatisé, wi-Fi à bord, transport privé et frais de stationnement. Il ne comprend pas hébergement, déjeuner et billets d'entrée, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nPrise en charge à l'hôtel à Nara. Japan Travel and Tour confirme l'heure de prise en charge et le lieu exact une fois la réservation enregistrée. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -21348,6 +21398,27 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 2 heures à Kyoto, avec Canal Shirakawa, Sanctuaire Tatsumi-jinja et Sanctuaire Yasaka. Opérateur : Japan Guide Stars, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Visite des joyaux cachés de Gion et de la culture des geishas",
   "metaDescription": "Excursion de 2 heures à Kyoto. Comprend guide local. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "gion-and-geisha-district-nighttime-walking-tour": {
+  "title": "Visite nocturne à pied du quartier de Gion et des geishas",
+  "fullDescription": "Cette expérience de 2 heures se déroule au départ de Kyoto, construite autour de Gion, Sanctuaire Yasaka et Nene no Michi. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nGion est le quartier historique de divertissement de Kyoto, les rues de maisons machiya en bois autour de Hanamikoji où les geiko et maiko du district de Gion Kobu travaillent encore. Ce sont des professionnelles en route vers des engagements, pas des artistes de rue, et Kyoto a interdit la photographie dans les ruelles privées ; une promenade du soir avec un guide qui explique le système ochaya est la façon respectueuse de voir cela. Les sessions de cérémonie du thé à Gion enseignent la forme de base de la préparation du matcha en une heure. La location de kimono pour une journée, avec habillage et coiffure, est une activité établie dans le quartier et est bien accueillie plutôt que mal perçue.\n\nLe prix comprend guide, aperçus historiques sur le sanctuaire Yasaka et photos pendant la visite. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nStarbucks Coffee - Kyoto Gion Hotel. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Gion",
+   "Sanctuaire Yasaka",
+   "Nene no Michi",
+   "Ninenzaka",
+   "Durée : 2 heures",
+   "Guide anglophone"
+  ],
+  "included": [
+   "Guide anglophone",
+   "Aperçus historiques sur le sanctuaire Yasaka",
+   "Photos pendant la visite"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion de 2 heures à Kyoto, avec Gion, Sanctuaire Yasaka et Nene no Michi. Opérateur : Traveling Tokyo, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite nocturne à pied du quartier de Gion et des geishas",
+  "metaDescription": "Excursion de 2 heures à Kyoto. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "2-hour-shopping-tour-plan-private-in-kyoto": {
   "title": "Plan de visite shopping privée de 2 heures à Kyoto",
@@ -22666,6 +22737,30 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Kyoto : visite privée des sites emblématiques et joyaux cachés",
   "metaDescription": "Excursion de 2 heures à Kyoto. Comprend guide et frais de guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "arashiyama-monkey-park-bamboo-forest-and-temples": {
+  "title": "Parc à singes d'Arashiyama, forêt de bambous et temples",
+  "fullDescription": "Cette expérience de 3 heures se déroule au départ de Kyoto, construite autour de Parc à singes d'Iwatayama, Restaurant local et Temple Tenryuji. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nArashiyama, à l'extrémité ouest de Kyoto, c'est la forêt de bambous, le pont Togetsukyo sur la rivière Katsura, les jardins de Tenryu-ji et le parc à singes sur la colline au-dessus. Le chemin de bambous fait environ 500 mètres et est photographié vide dans tous les guides parce que ces photos sont prises avant 7h30 ; en milieu de matinée c'est un défilé. Les balades en pousse-pousse, le chemin de fer panoramique de Sagano le long des gorges, et les descentes en bateau des rapides de Hozu partent tous d'ici. Les couleurs d'automne culminent dans la seconde moitié de novembre et les fleurs de cerisier autour de la première semaine d'avril.\n\nLa prise en charge est proposée depuis Kyoto, Saga-Arashiyama Station et Hankyu Arashiyama Station ; le lieu et l’heure exacts sont convenus avec Nara Guide une fois la réservation confirmée, et l’option que vous choisissez détermine si le transport est inclus.\n\nLe prix comprend guide en personne, promenade dans la forêt de bambous et frais d'entrée au parc à singes d'Iwatayama et au temple Tenryuji. Il ne comprend pas déjeuner et frais de transport, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Parc à singes d'Iwatayama",
+   "Restaurant local",
+   "Temple Tenryuji",
+   "Forêt de bambous d'Arashiyama",
+   "Durée : 3 heures",
+   "Guide en personne"
+  ],
+  "included": [
+   "Guide en personne",
+   "Promenade dans la forêt de bambous",
+   "Frais d'entrée au parc à singes d'Iwatayama et au temple Tenryuji"
+  ],
+  "notIncluded": [
+   "Déjeuner",
+   "Frais de transport (gratuit pour les détenteurs du JR Pass)"
+  ],
+  "shortDescription": "Excursion de 3 heures à Kyoto, avec Parc à singes d'Iwatayama, Restaurant local et Temple Tenryuji. Opérateur : Nara Guide, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Parc à singes d'Arashiyama, forêt de bambous et temples",
+  "metaDescription": "Excursion de 3 heures à Kyoto. Comprend guide en personne. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "traditional-tea-ceremony-experience-in-kyoto-by-local-operator": {
   "title": "Expérience de cérémonie du thé traditionnelle à Kyoto",
   "fullDescription": "Cette expérience de 30 minutes se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nGion est le quartier historique de divertissement de Kyoto, les rues de maisons machiya en bois autour de Hanamikoji où les geiko et maiko du district de Gion Kobu travaillent encore. Ce sont des professionnelles en route vers des engagements, pas des artistes de rue, et Kyoto a interdit la photographie dans les ruelles privées ; une promenade du soir avec un guide qui explique le système ochaya est la façon respectueuse de voir cela. Les sessions de cérémonie du thé à Gion enseignent la forme de base de la préparation du matcha en une heure. La location de kimono pour une journée, avec habillage et coiffure, est une activité établie dans le quartier et est bien accueillie plutôt que mal perçue.\n\nLe prix comprend un ensemble d'expérience OTE-MAE. Il ne comprend pas certificat d'achèvement de l'expérience : 300 JPY, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -23035,6 +23130,31 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Nagoya, comprenant expérience de cours de cuisine, ingrédients utilisés et ustensiles de cuisine. Opérateur : Japanese Cooking Class / NAGOYA, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Amusez-vous à préparer le très populaire takoyaki à Nagoya",
   "metaDescription": "Excursion à Nagoya. Comprend expérience de cours de cuisine. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "nagoya-highlights-toyota-samurai-culture-and-food-by-local-operator": {
+  "title": "Points forts de Nagoya : Toyota, culture samouraï et gastronomie",
+  "fullDescription": "Cette expérience de 9 heures se déroule à Nagoya, construite autour de Train, Toyota Commemorative Museum of Industry et Technology and Subway / metro. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNagoya est la quatrième ville du Japon et la porte d'entrée vers le parc Ghibli à Nagakute, ouvert en 2022 avec des billets à horaire fixe qui se vendent des semaines à l'avance, vers Nagashima Spa Land et ses montagnes russes, et vers Inuyama, dont le château est l'un des douze donjons originaux. Les dauphins dorés du château de Nagoya et le musée commémoratif Toyota sont les sites propres à la ville, et l'anguille grillée hitsumabushi et le katsu au miso sont sa cuisine. Le grand sanctuaire d'Ise, le site le plus sacré du shintoïsme, reconstruit tous les vingt ans, est à 90 minutes au sud.\n\nLe prix comprend guide, tous les frais d'entrée du château de Nagoya et du musée Toyota et tarifs de transport public. Il ne comprend pas pourboires pour le guide, frais médicaux d'urgence et autres dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Train",
+   "Musée commémoratif Toyota de l'industrie et de la technologie",
+   "Métro",
+   "Château de Nagoya",
+   "Durée : 9 heures",
+   "Guide anglophone"
+  ],
+  "included": [
+   "Guide anglophone",
+   "Tous les frais d'entrée du château de Nagoya et du musée Toyota",
+   "Tarifs de transport public"
+  ],
+  "notIncluded": [
+   "Pourboires pour le guide",
+   "Frais médicaux d'urgence",
+   "Autres dépenses personnelles"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Nagoya, avec Métro, Château de Nagoya et Transport public. Opérateur : Mini Mini Trip, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Points forts de Nagoya : Toyota, culture samouraï et gastronomie",
+  "metaDescription": "Excursion d'une journée entière à Nagoya. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "shimenawa-wreath-making-workshop-in-nagoya": {
   "title": "Atelier de fabrication de couronne shimenawa à Nagoya",
@@ -23456,6 +23576,89 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Kasuga Taisha : visite guidée du sanctuaire sacré aux cerfs à Nara",
   "metaDescription": "Excursion à Nara. Comprend frais de guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "5-type-of-tea-tasting-and-mindful-tea-ceremony-in-nara": {
+  "title": "Dégustation de 5 types de thé et cérémonie du thé pleine conscience à Nara",
+  "fullDescription": "Cette expérience de 1,5 heures se déroule à Nara. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nGion est le quartier historique de divertissement de Kyoto, les rues de maisons machiya en bois autour de Hanamikoji où les geiko et maiko du district de Gion Kobu travaillent encore. Ce sont des professionnelles en route vers des engagements, pas des artistes de rue, et Kyoto a interdit la photographie dans les ruelles privées ; une promenade du soir avec un guide qui explique le système ochaya est la façon respectueuse de voir cela. Les sessions de cérémonie du thé à Gion enseignent la forme de base de la préparation du matcha en une heure. La location de kimono pour une journée, avec habillage et coiffure, est une activité établie dans le quartier et est bien accueillie plutôt que mal perçue.\n\nLe prix comprend 5 types de thé japonais, matcha et douceur japonaise. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1,5 heures",
+   "5 types de thé japonais",
+   "Matcha",
+   "Douceur japonaise"
+  ],
+  "included": [
+   "5 types de thé japonais",
+   "Matcha",
+   "Douceur japonaise"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion à Nara, comprenant 5 types de thé japonais, matcha et douceur japonaise. Opérateur : Kurabi, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Dégustation de 5 types de thé et cérémonie du thé pleine conscience à Nara",
+  "metaDescription": "Excursion à Nara. Comprend 5 types de thé japonais et matcha. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "nara-in-spanish-half-day-small-group-tour-private-option-available-by-local-operator": {
+  "title": "Nara en espagnol : visite d'une demi-journée en petit groupe, option privée disponible",
+  "fullDescription": "Cette expérience de 4 heures se déroule à Nara. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNara fut la première capitale permanente du Japon, de 710 à 784, et son parc abrite Todai-ji, dont le Hall du Grand Bouddha est l'un des plus grands bâtiments en bois du monde et contient un Bouddha de bronze de 15 mètres fondu en 752, Kasuga Taisha avec ses trois mille lanternes, et environ 1 200 cerfs sika considérés comme des messagers des dieux et protégés. Les cerfs s'inclinent pour les crackers shika senbei vendus dans le parc et donneront des coups de tête à quiconque les taquine. Nara est à 45 minutes de Kyoto ou Osaka en train et se visite en une demi-journée ; Todai-ji avant 10h00 est l'heure calme.\n\nLe prix comprend guide touristique expert parlant espagnol. Il ne comprend pas repas et boissons, frais d'entrée aux temples et sanctuaires et frais de transport optionnels, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 4 heures",
+   "Guide touristique expert local parlant espagnol"
+  ],
+  "included": [
+   "Guide touristique expert local parlant espagnol"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "Frais d'entrée aux temples et sanctuaires",
+   "Frais de transport optionnels"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Nara, comprenant guide touristique expert parlant espagnol. Opérateur : Tours 2 Nara, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Nara en espagnol : visite d'une demi-journée en petit groupe, option privée disponible",
+  "metaDescription": "Excursion d'une demi-journée à Nara. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "yoshikien-and-isuien-gardens-tour-with-tea-tasting-in-nara": {
+  "title": "Visite des jardins Yoshikien et Isuien avec dégustation de thé à Nara",
+  "fullDescription": "Cette expérience de 3 heures se déroule au départ de Nara, construite autour de Jardin Yoshikien. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNara fut la première capitale permanente du Japon, de 710 à 784, et son parc abrite Todai-ji, dont le Hall du Grand Bouddha est l'un des plus grands bâtiments en bois du monde et contient un Bouddha de bronze de 15 mètres fondu en 752, Kasuga Taisha avec ses trois mille lanternes, et environ 1 200 cerfs sika considérés comme des messagers des dieux et protégés. Les cerfs s'inclinent pour les crackers shika senbei vendus dans le parc et donneront des coups de tête à quiconque les taquine. Nara est à 45 minutes de Kyoto ou Osaka en train et se visite en une demi-journée ; Todai-ji avant 10h00 est l'heure calme.\n\nLe prix comprend visite guidée des jardins Yoshikien et Isuien et dégustation de thé matcha. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Jardin Yoshikien",
+   "Durée : 3 heures",
+   "Visite guidée des jardins Yoshikien et Isuien",
+   "Dégustation de thé matcha"
+  ],
+  "included": [
+   "Visite guidée des jardins Yoshikien et Isuien",
+   "Dégustation de thé matcha"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion de 3 heures à Nara, avec Jardin Yoshikien et Finish at. Opérateur : DeepExperience, Inc., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite des jardins Yoshikien et Isuien avec dégustation de thé à Nara",
+  "metaDescription": "Excursion de 3 heures à Nara. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "private-city-tour-with-a-local-guide-in-nara": {
+  "title": "Visite privée de la ville avec un guide local à Nara",
+  "fullDescription": "Cette expérience de 6 heures se déroule à Nara. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNara fut la première capitale permanente du Japon, de 710 à 784, et son parc abrite Todai-ji, dont le Hall du Grand Bouddha est l'un des plus grands bâtiments en bois du monde et contient un Bouddha de bronze de 15 mètres fondu en 752, Kasuga Taisha avec ses trois mille lanternes, et environ 1 200 cerfs sika considérés comme des messagers des dieux et protégés. Les cerfs s'inclinent pour les crackers shika senbei vendus dans le parc et donneront des coups de tête à quiconque les taquine. Nara est à 45 minutes de Kyoto ou Osaka en train et se visite en une demi-journée ; Todai-ji avant 10h00 est l'heure calme.\n\nLe prix comprend visite privée et exclusive, prise en charge à l'hôtel, visite à pied et transport public et aide de notre équipe pour réserver les billets pour le. Il ne comprend pas entrée aux monuments et musées, boisson ou nourriture, pourboires et billets pour toute attraction, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nNara, Japan. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 6 heures",
+   "Visite privée et exclusive",
+   "Prise en charge à l'hôtel",
+   "Visite à pied et transport public",
+   "Aide de notre équipe pour réserver les billets pour les visites souhaitées"
+  ],
+  "included": [
+   "Visite privée et exclusive",
+   "Prise en charge à l'hôtel",
+   "Visite à pied et transport public",
+   "Aide de notre équipe pour réserver les billets pour les visites souhaitées."
+  ],
+  "notIncluded": [
+   "Entrée aux monuments et musées",
+   "Boisson ou nourriture",
+   "Pourboires (facultatifs)",
+   "Billets pour toute attraction",
+   "Transport local dans la ville (c'est une visite à pied, le transport en voiture n'est pas inclus)"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Nara, comprenant visite privée et exclusive, prise en charge à l'hôtel et visite à pied et transport public. Opérateur : Guydeez, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite privée de la ville avec un guide local à Nara",
+  "metaDescription": "Excursion d'une demi-journée à Nara. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "nara-private-custom-tour-with-local-guide-by-local-operator": {
   "title": "Nara : visite privée personnalisée avec guide local",
   "fullDescription": "Cette expérience de 4 heures se déroule à Nara. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNara fut la première capitale permanente du Japon, de 710 à 784, et son parc abrite Todai-ji, dont le Hall du Grand Bouddha est l'un des plus grands bâtiments en bois du monde et contient un Bouddha de bronze de 15 mètres fondu en 752, Kasuga Taisha avec ses trois mille lanternes, et environ 1 200 cerfs sika considérés comme des messagers des dieux et protégés. Les cerfs s'inclinent pour les crackers shika senbei vendus dans le parc et donneront des coups de tête à quiconque les taquine. Nara est à 45 minutes de Kyoto ou Osaka en train et se visite en une demi-journée ; Todai-ji avant 10h00 est l'heure calme.\n\nLe prix comprend visite privée, visite à pied, guide local et personnalisez l'itinéraire. Il ne comprend pas déjeuner, tous les frais d'entrée et transport, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -23481,6 +23684,74 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Nara : visite privée personnalisée avec guide local",
   "metaDescription": "Excursion d'une demi-journée à Nara. Comprend visite privée. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "sake-tasting-tour-at-the-birthplace-of-japanese-sake-in-nara": {
+  "title": "Visite de dégustation de saké au berceau du saké japonais à Nara",
+  "fullDescription": "Cette expérience de 3 heures se déroule à Nara. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNara fut la première capitale permanente du Japon, de 710 à 784, et son parc abrite Todai-ji, dont le Hall du Grand Bouddha est l'un des plus grands bâtiments en bois du monde et contient un Bouddha de bronze de 15 mètres fondu en 752, Kasuga Taisha avec ses trois mille lanternes, et environ 1 200 cerfs sika considérés comme des messagers des dieux et protégés. Les cerfs s'inclinent pour les crackers shika senbei vendus dans le parc et donneront des coups de tête à quiconque les taquine. Nara est à 45 minutes de Kyoto ou Osaka en train et se visite en une demi-journée ; Todai-ji avant 10h00 est l'heure calme.\n\nLe prix comprend visite guidée des quartiers de saké de Nara, visite de quatre lieux de dégustation et dégustations de saké dans trois brasseries en activité et 1 boutique de saké. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 3 heures",
+   "Visite guidée des quartiers de saké de Nara",
+   "Visite de quatre lieux de dégustation",
+   "Dégustations de saké dans trois brasseries en activité et 1 boutique de saké"
+  ],
+  "included": [
+   "Visite guidée des quartiers de saké de Nara",
+   "Visite de quatre lieux de dégustation",
+   "Dégustations de saké dans trois brasseries en activité et 1 boutique de saké"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion de 3 heures à Nara, avec Finish at. Opérateur : DeepExperience, Inc., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite de dégustation de saké au berceau du saké japonais à Nara",
+  "metaDescription": "Excursion de 3 heures à Nara. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "himeji-kobe-and-nara-trip": {
+  "title": "Voyage à Himeji, Kobe et Nara",
+  "fullDescription": "Cette expérience de 11 heures se déroule à Nara, construite autour de Bus/autocar, Château de Himeji et Kobe. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nNara fut la première capitale permanente du Japon, de 710 à 784, et son parc abrite Todai-ji, dont le Hall du Grand Bouddha est l'un des plus grands bâtiments en bois du monde et contient un Bouddha de bronze de 15 mètres fondu en 752, Kasuga Taisha avec ses trois mille lanternes, et environ 1 200 cerfs sika considérés comme des messagers des dieux et protégés. Les cerfs s'inclinent pour les crackers shika senbei vendus dans le parc et donneront des coups de tête à quiconque les taquine. Nara est à 45 minutes de Kyoto ou Osaka en train et se visite en une demi-journée ; Todai-ji avant 10h00 est l'heure calme.\n\nLe prix comprend guide bilingue anglais/espagnol, transport depuis le point de rencontre et accès au château de Himeji. Il ne comprend pas nourriture et boissons et prise en charge et retour à votre hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nOsaka Mode Gakuen. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Bus/autocar",
+   "Château de Himeji",
+   "Kobe",
+   "Parc de Nara",
+   "Durée : 11 heures",
+   "Guide bilingue anglais/espagnol"
+  ],
+  "included": [
+   "Guide bilingue anglais/espagnol",
+   "Transport depuis le point de rencontre",
+   "Accès au château de Himeji"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Prise en charge et retour à votre hôtel"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Nara, avec Château de Himeji, Kobe et Parc de Nara. Opérateur : AMIGO TOURS JAPAN GK, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Voyage à Himeji, Kobe et Nara",
+  "metaDescription": "Excursion d'une journée entière à Nara. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "nara-arashiyama-fushimi-inari-taisha-day-tour": {
+  "title": "Excursion d'une journée à Nara, Arashiyama et Fushimi Inari Taisha",
+  "fullDescription": "Cette expérience de 10 heures se déroule à Nara, construite autour de Parc de Nara, Arashiyama et Forêt de bambous d'Arashiyama. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nFushimi Inari Taisha est le sanctuaire principal d'Inari, la divinité du riz et des affaires, et ses plus de mille portiques torii vermillon, chacun donné par une entreprise ou une famille, s'enchaînent en tunnels sur les 233 mètres du mont Inari derrière le hall principal. La boucle complète jusqu'au sommet fait environ quatre kilomètres et deux heures ; la plupart des visiteurs font demi-tour au point de vue de Yotsutsuji à mi-chemin. C'est ouvert 24 heures sur 24 et gratuit, ce qui en fait le seul grand site de Kyoto que l'on peut faire à l'aube ou après la nuit tombée, quand les portiques sont vides et illuminés. Dès neuf heures du matin, les tunnels inférieurs deviennent une file lente. Les statues de renard portent des clés du grenier à riz dans leur bouche.\n\nLe prix comprend guide bilingue, véhicule confortable climatisé, transferts aller-retour depuis et vers le lieu de rendez-vous et toutes les taxes. Il ne comprend pas repas et boissons et autres dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Parc de Nara",
+   "Arashiyama",
+   "Forêt de bambous d'Arashiyama",
+   "Sanctuaire Nonomiya",
+   "Durée : 10 heures",
+   "Guide professionnel bilingue (anglais et chinois)"
+  ],
+  "included": [
+   "Guide professionnel bilingue (anglais et chinois)",
+   "Véhicule confortable climatisé",
+   "Transferts aller-retour depuis et vers le lieu de rendez-vous",
+   "Toutes les taxes, frais de parking, péages, frais de carburant, frais environnementaux"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "Autres dépenses personnelles"
+  ],
+  "shortDescription": "Excursion à Nara, avec Parc de Nara, Arashiyama et Forêt de bambous d'Arashiyama. Opérateur : Japan Vision Tour, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Excursion d'une journée à Nara, Arashiyama et Fushimi Inari Taisha",
+  "metaDescription": "Excursion à Nara. Comprend guide bilingue. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "early-morning-fushimi-inari-shrine-beat-the-crowds": {
   "title": "Sanctuaire Fushimi Inari tôt le matin : évitez les foules",
   "fullDescription": "Cette expérience de 2,5 heures se déroule au départ de Kyoto, construite autour de Fushimi Inari Taisha, Point de vue et Trésor caché. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nFushimi Inari Taisha est le sanctuaire principal d'Inari, la divinité du riz et des affaires, et ses plus de mille portiques torii vermillon, chacun donné par une entreprise ou une famille, s'enchaînent en tunnels sur les 233 mètres du mont Inari derrière le hall principal. La boucle complète jusqu'au sommet fait environ quatre kilomètres et deux heures ; la plupart des visiteurs font demi-tour au point de vue de Yotsutsuji à mi-chemin. C'est ouvert 24 heures sur 24 et gratuit, ce qui en fait le seul grand site de Kyoto que l'on peut faire à l'aube ou après la nuit tombée, quand les portiques sont vides et illuminés. Dès neuf heures du matin, les tunnels inférieurs deviennent une file lente. Les statues de renard portent des clés du grenier à riz dans leur bouche.\n\nLe prix comprend guide expert local. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nInari Station. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -23498,6 +23769,27 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 2,5 heures à Kyoto, avec Fushimi Inari Taisha, Point de vue et Trésor caché. Opérateur : DeepExperience, Inc., en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Sanctuaire Fushimi Inari tôt le matin : évitez les foules",
   "metaDescription": "Excursion de 2,5 heures à Kyoto. Comprend guide expert local. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "kintsugi-in-kyoto-the-art-of-golden-repair-by-local-operator": {
+  "title": "Kintsugi à Kyoto : l'art de la réparation à l'or",
+  "fullDescription": "Cette expérience de 2,5 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend atelier de kintsugi, thé premium d'Uji, pièce de kintsugi terminée et instruction étape par étape par un artisan maître. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2,5 heures",
+   "Atelier de kintsugi",
+   "Thé premium d'Uji",
+   "Pièce de kintsugi terminée",
+   "Instruction étape par étape par un artisan maître"
+  ],
+  "included": [
+   "Atelier de kintsugi",
+   "Thé premium d'Uji",
+   "Pièce de kintsugi terminée",
+   "Instruction étape par étape par un artisan maître"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion de 2,5 heures à Kyoto, comprenant atelier de kintsugi, thé premium d'Uji et pièce de kintsugi terminée. Opérateur : Pinpoint Traveler, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Kintsugi à Kyoto : l'art de la réparation à l'or",
+  "metaDescription": "Excursion de 2,5 heures à Kyoto. Comprend atelier de kintsugi. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "temari-ball-making-workshop-with-kimono-fabric-in-kyoto": {
   "title": "Atelier de fabrication de balles temari avec tissu de kimono à Kyoto",
@@ -23582,6 +23874,52 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Kyoto Ninenzaka : cours de calligraphie japonaise dans une maison traditionnelle",
   "metaDescription": "Excursion de 0,75 heures à Kyoto. Comprend instructeurs. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "manga-drawing-workshop-guided-by-pro-artist-in-kyoto": {
+  "title": "Atelier de dessin de manga guidé par un artiste professionnel à Kyoto",
+  "fullDescription": "Cette expérience de 2,5 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend artiste-instructeur, interprète et matériaux de dessin de manga. Il ne comprend pas nourriture et boissons et prise en charge, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2,5 heures",
+   "Instructeur artiste professionnel",
+   "Interprète",
+   "Matériaux de dessin de manga"
+  ],
+  "included": [
+   "Instructeur artiste professionnel",
+   "Interprète",
+   "Matériaux de dessin de manga"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Prise en charge"
+  ],
+  "shortDescription": "Excursion à Kyoto, comprenant artiste-instructeur, interprète et matériaux de dessin de manga. Opérateur : Manga Do, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Atelier de dessin de manga guidé par un artiste professionnel à Kyoto",
+  "metaDescription": "Excursion à Kyoto. Comprend artiste-instructeur et interprète. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "kiyomizu-dera-ninenzaka-and-gion-evening-tour": {
+  "title": "Visite du soir à Kiyomizu-dera, Ninenzaka et Gion",
+  "fullDescription": "Cette expérience de 3,5 heures se déroule au départ de Kyoto, construite autour de Transport public, Pagode Koyasunoto de Kiyomizu-dera et Sannenzaka. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nGion est le quartier historique de divertissement de Kyoto, les rues de maisons machiya en bois autour de Hanamikoji où les geiko et maiko du district de Gion Kobu travaillent encore. Ce sont des professionnelles en route vers des engagements, pas des artistes de rue, et Kyoto a interdit la photographie dans les ruelles privées ; une promenade du soir avec un guide qui explique le système ochaya est la façon respectueuse de voir cela. Les sessions de cérémonie du thé à Gion enseignent la forme de base de la préparation du matcha en une heure. La location de kimono pour une journée, avec habillage et coiffure, est une activité établie dans le quartier et est bien accueillie plutôt que mal perçue.\n\nLe prix comprend guide. Il ne comprend pas nourriture et boissons, frais de transport, frais d'entrée non spécifiés dans la section « Inclus » et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Transport public",
+   "Pagode Koyasunoto de Kiyomizu-dera",
+   "Sannenzaka",
+   "Gion",
+   "Durée : 3,5 heures",
+   "Guide local"
+  ],
+  "included": [
+   "Guide local"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Frais de transport",
+   "Frais d'entrée non spécifiés dans la section « Inclus »",
+   "Prise en charge et retour à l'hôtel"
+  ],
+  "shortDescription": "Excursion à Kyoto, avec Transport public, Pagode Koyasunoto de Kiyomizu-dera et Sannenzaka. Opérateur : MARKEVISION株式会社, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite du soir à Kiyomizu-dera, Ninenzaka et Gion",
+  "metaDescription": "Excursion à Kyoto. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "geiko-or-maiko-dance-and-gion-museum-visit": {
   "title": "Danse de geiko ou maiko et visite du musée de Gion",
   "fullDescription": "Cette expérience de 15 minutes se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nGion est le quartier historique de divertissement de Kyoto, les rues de maisons machiya en bois autour de Hanamikoji où les geiko et maiko du district de Gion Kobu travaillent encore. Ce sont des professionnelles en route vers des engagements, pas des artistes de rue, et Kyoto a interdit la photographie dans les ruelles privées ; une promenade du soir avec un guide qui explique le système ochaya est la façon respectueuse de voir cela. Les sessions de cérémonie du thé à Gion enseignent la forme de base de la préparation du matcha en une heure. La location de kimono pour une journée, avec habillage et coiffure, est une activité établie dans le quartier et est bien accueillie plutôt que mal perçue.\n\nLe prix comprend entrée au musée d'art de Gion Kagai et frais de spectacle. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -23596,6 +23934,44 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 0,25 heures à Kyoto, comprenant entrée au musée d'art de Gion Kagai et frais de spectacle. Opérateur : Gion Kagai Art Museum, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Danse de geiko ou maiko et visite du musée de Gion",
   "metaDescription": "Excursion de 0,25 heures à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "unlimited-sake-tasting-with-sushi-omakase-in-kyoto": {
+  "title": "Dégustation de saké illimitée avec sushi omakase à Kyoto",
+  "fullDescription": "Cette expérience de 1,5 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend omakase de 10 pièces de sushi et dégustation illimitée de saké japonais. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1,5 heures",
+   "Omakase de 10 pièces de sushi",
+   "Dégustation illimitée de saké japonais (plus de 8 types, 75 minutes)"
+  ],
+  "included": [
+   "Omakase de 10 pièces de sushi",
+   "Dégustation illimitée de saké japonais (plus de 8 types, 75 minutes)"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion à Kyoto, comprenant omakase de 10 pièces de sushi et dégustation illimitée de saké japonais. Opérateur : SUSHI GARYU, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Dégustation de saké illimitée avec sushi omakase à Kyoto",
+  "metaDescription": "Excursion à Kyoto. Comprend omakase de 10 pièces de sushi. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "tea-ceremony-experience-in-a-small-tea-room-in-kyoto": {
+  "title": "Expérience de cérémonie du thé dans une petite salle de thé à Kyoto",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nGion est le quartier historique de divertissement de Kyoto, les rues de maisons machiya en bois autour de Hanamikoji où les geiko et maiko du district de Gion Kobu travaillent encore. Ce sont des professionnelles en route vers des engagements, pas des artistes de rue, et Kyoto a interdit la photographie dans les ruelles privées ; une promenade du soir avec un guide qui explique le système ochaya est la façon respectueuse de voir cela. Les sessions de cérémonie du thé à Gion enseignent la forme de base de la préparation du matcha en une heure. La location de kimono pour une journée, avec habillage et coiffure, est une activité établie dans le quartier et est bien accueillie plutôt que mal perçue.\n\nLe prix comprend cérémonie du thé, instructions par un enseignant expérimenté, thé matcha et douceurs séchées traditionnelles. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 heure",
+   "Cérémonie du thé",
+   "Instructions par un enseignant expérimenté",
+   "Thé matcha",
+   "Douceurs séchées traditionnelles"
+  ],
+  "included": [
+   "Cérémonie du thé",
+   "Instructions par un enseignant expérimenté",
+   "Thé matcha",
+   "Douceurs séchées traditionnelles"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion de 1 heure à Kyoto, comprenant cérémonie du thé, instructions par un enseignant expérimenté et thé matcha. Opérateur : Travel Japan Together, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Expérience de cérémonie du thé dans une petite salle de thé à Kyoto",
+  "metaDescription": "Excursion de 1 heure à Kyoto. Comprend cérémonie du thé. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "afternoon-bamboo-forest-and-monkey-park-bike-tour-in-kyoto": {
   "title": "Visite à vélo de l'après-midi à la forêt de bambous et au parc à singes à Kyoto",
@@ -23642,6 +24018,28 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion d'une demi-journée à Kyoto, comprenant guide expert. Opérateur : Jewel Tours Japan, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Kyoto : visite à pied d'une demi-journée avec un guide expert local",
   "metaDescription": "Excursion d'une demi-journée à Kyoto. Comprend guide expert. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "gion-geisha-district-walking-tour-stories-of-geisha": {
+  "title": "Visite à pied du quartier des geishas de Gion : histoires de geishas",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Kyoto, construite autour de Ben's Cookies Kyoto Shijo, Ruelle Pontocho et Statue d'Izumo-no-Okuni. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nGion est le quartier historique de divertissement de Kyoto, les rues de maisons machiya en bois autour de Hanamikoji où les geiko et maiko du district de Gion Kobu travaillent encore. Ce sont des professionnelles en route vers des engagements, pas des artistes de rue, et Kyoto a interdit la photographie dans les ruelles privées ; une promenade du soir avec un guide qui explique le système ochaya est la façon respectueuse de voir cela. Les sessions de cérémonie du thé à Gion enseignent la forme de base de la préparation du matcha en une heure. La location de kimono pour une journée, avec habillage et coiffure, est une activité établie dans le quartier et est bien accueillie plutôt que mal perçue.\n\nLe prix comprend visite à pied et guide. Il ne comprend pas pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nBen's Cookies Kyoto Shijo. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Ben's Cookies Kyoto Shijo",
+   "Ruelle Pontocho",
+   "Statue d'Izumo-no-Okuni",
+   "Gion",
+   "Durée : 2 heures",
+   "Visite à pied"
+  ],
+  "included": [
+   "Visite à pied",
+   "Guide local"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ],
+  "shortDescription": "Excursion de 2 heures à Kyoto, avec Ben's Cookies Kyoto Shijo, Ruelle Pontocho et Statue d'Izumo-no-Okuni. Opérateur : Localized Walking, Bike & Food Tours, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite à pied du quartier des geishas de Gion : histoires de geishas",
+  "metaDescription": "Excursion de 2 heures à Kyoto. Comprend visite à pied et guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "1-hour-geisha-show-and-dinner-wagyu-vegan-halal-in-kyoto": {
   "title": "Spectacle de geisha d'une heure et dîner (wagyu, végan, halal) à Kyoto",
@@ -23694,6 +24092,79 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Cours de fukusa shibori au musée Shibori de Kyoto",
   "metaDescription": "Excursion de 1 heure à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
+ "tea-ceremony-and-kimono-experience-in-heritage-machiya-in-kyoto": {
+  "title": "Expérience de cérémonie du thé et de kimono dans une machiya patrimoniale à Kyoto",
+  "fullDescription": "Cette expérience de 1,5 heures se déroule à Kyoto, construite autour de Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nGion est le quartier historique de divertissement de Kyoto, les rues de maisons machiya en bois autour de Hanamikoji où les geiko et maiko du district de Gion Kobu travaillent encore. Ce sont des professionnelles en route vers des engagements, pas des artistes de rue, et Kyoto a interdit la photographie dans les ruelles privées ; une promenade du soir avec un guide qui explique le système ochaya est la façon respectueuse de voir cela. Les sessions de cérémonie du thé à Gion enseignent la forme de base de la préparation du matcha en une heure. La location de kimono pour une journée, avec habillage et coiffure, est une activité établie dans le quartier et est bien accueillie plutôt que mal perçue.\n\nLe prix comprend droit d'entrée, cérémonie du thé et habillage en kimono. Il ne comprend pas chaussettes et coiffure et maquillage, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nTondaya -Nishijin Japanese Cultural Experience Museum. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Kyoto",
+   "Durée : 1,5 heures",
+   "Droit d'entrée",
+   "Cérémonie du thé",
+   "Habillage en kimono"
+  ],
+  "included": [
+   "Droit d'entrée",
+   "Cérémonie du thé",
+   "Habillage en kimono"
+  ],
+  "notIncluded": [
+   "Chaussettes (veuillez apporter vos propres chaussettes)",
+   "Coiffure et maquillage"
+  ],
+  "shortDescription": "Excursion à Kyoto, avec Kyoto. Opérateur : Tondaya, Co., Ltd., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Expérience de cérémonie du thé et de kimono dans une machiya patrimoniale à Kyoto",
+  "metaDescription": "Excursion à Kyoto. Comprend droit d'entrée et cérémonie du thé. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "kyoto-night-tour-samurai-secrets-and-gion-dark-history-by-local-operator": {
+  "title": "Visite nocturne de Kyoto : samouraïs, secrets et histoire sombre de Gion",
+  "fullDescription": "Cette expérience de 3 heures se déroule au départ de Kyoto, construite autour de Sanctuaire Yasaka, Gion et Rue Hanamikoji. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nGion est le quartier historique de divertissement de Kyoto, les rues de maisons machiya en bois autour de Hanamikoji où les geiko et maiko du district de Gion Kobu travaillent encore. Ce sont des professionnelles en route vers des engagements, pas des artistes de rue, et Kyoto a interdit la photographie dans les ruelles privées ; une promenade du soir avec un guide qui explique le système ochaya est la façon respectueuse de voir cela. Les sessions de cérémonie du thé à Gion enseignent la forme de base de la préparation du matcha en une heure. La location de kimono pour une journée, avec habillage et coiffure, est une activité établie dans le quartier et est bien accueillie plutôt que mal perçue.\n\nLe prix comprend guide. Il ne comprend pas nourriture et boissons, frais de transport, frais d'entrée non spécifiés dans la section « Inclus » et prise en charge et retour à l'hôtel, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Sanctuaire Yasaka",
+   "Gion",
+   "Rue Hanamikoji",
+   "Pontocho",
+   "Durée : 3 heures",
+   "Guide local"
+  ],
+  "included": [
+   "Guide local"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Frais de transport",
+   "Frais d'entrée non spécifiés dans la section « Inclus »",
+   "Prise en charge et retour à l'hôtel"
+  ],
+  "shortDescription": "Excursion de 3 heures à Kyoto, avec Sanctuaire Yasaka, Gion et Rue Hanamikoji. Opérateur : MARKEVISION株式会社, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite nocturne de Kyoto : samouraïs, secrets et histoire sombre de Gion",
+  "metaDescription": "Excursion de 3 heures à Kyoto. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "katsuoji-and-arashiyama-and-kinkakuji-day-tour": {
+  "title": "Excursion d'une journée à Katsuoji, Arashiyama et Kinkakuji",
+  "fullDescription": "Cette expérience de 9 heures se déroule au départ de Kyoto, construite autour de Katsuo-ji, Arashiyama et Forêt de bambous d'Arashiyama. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nArashiyama, à l'extrémité ouest de Kyoto, c'est la forêt de bambous, le pont Togetsukyo sur la rivière Katsura, les jardins de Tenryu-ji et le parc à singes sur la colline au-dessus. Le chemin de bambous fait environ 500 mètres et est photographié vide dans tous les guides parce que ces photos sont prises avant 7h30 ; en milieu de matinée c'est un défilé. Les balades en pousse-pousse, le chemin de fer panoramique de Sagano le long des gorges, et les descentes en bateau des rapides de Hozu partent tous d'ici. Les couleurs d'automne culminent dans la seconde moitié de novembre et les fleurs de cerisier autour de la première semaine d'avril.\n\nLe prix comprend guide bilingue, véhicule confortable climatisé, transferts aller-retour depuis et vers le lieu de rendez-vous et toutes les taxes. Il ne comprend pas entrée au temple Katsuo-ji et au temple Kinkaku-ji, repas et boissons et autres dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Katsuo-ji",
+   "Arashiyama",
+   "Forêt de bambous d'Arashiyama",
+   "Sanctuaire Nonomiya",
+   "Durée : 9 heures",
+   "Guide professionnel bilingue (anglais et chinois)"
+  ],
+  "included": [
+   "Guide professionnel bilingue (anglais et chinois)",
+   "Véhicule confortable climatisé",
+   "Transferts aller-retour depuis et vers le lieu de rendez-vous",
+   "Toutes les taxes, frais de parking, péages, frais de carburant, frais environnementaux"
+  ],
+  "notIncluded": [
+   "Entrée au temple Katsuo-ji et au temple Kinkaku-ji",
+   "Repas et boissons",
+   "Autres dépenses personnelles"
+  ],
+  "shortDescription": "Excursion d'une journée entière à Kyoto, avec Katsuo-ji, Arashiyama et Forêt de bambous d'Arashiyama. Opérateur : Japan Vision Tour, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Excursion d'une journée à Katsuoji, Arashiyama et Kinkakuji",
+  "metaDescription": "Excursion d'une journée entière à Kyoto. Comprend guide bilingue. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
  "uji-matcha-and-unesco-byodoin-temple-tour": {
   "title": "Visite du matcha d'Uji et du temple Byodoin classé UNESCO",
   "fullDescription": "Cette expérience de 3,5 heures se déroule au départ de Kyoto, construite autour de Transport public, Temple Byodo-in et Rivière Uji. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nLes sanctuaires shinto et les temples bouddhistes se trouvent côte à côte à travers le Japon et l'étiquette diffère légèrement : dans un sanctuaire, s'incliner au torii, se rincer les mains et la bouche au bassin d'eau, puis s'incliner deux fois, taper des mains deux fois, s'incliner une fois devant le hall ; dans un temple, pas d'applaudissement, les mains jointes, et de l'encens s'il est proposé. La photographie est acceptable à l'extérieur et généralement pas à l'intérieur des halls. Les sessions de méditation zen, zazen, sont enseignées dans plusieurs temples de Kyoto et Tokyo en séances de 30 à 60 minutes avec la posture expliquée ; un séjour en temple shukubo ajoute le service matinal et le shojin ryori végétarien. Les chaussures se retirent devant chaque hall.\n\nLe prix comprend guide. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -23711,6 +24182,31 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion à Kyoto, avec Transport public, Temple Byodo-in et Rivière Uji. Opérateur : MARKEVISION株式会社, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Visite du matcha d'Uji et du temple Byodoin classé UNESCO",
   "metaDescription": "Excursion à Kyoto. Comprend guide. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "kiyomizudera-higashiyama-and-yasaka-discovery-tour": {
+  "title": "Visite découverte de Kiyomizudera, Higashiyama et Yasaka",
+  "fullDescription": "Cette expérience de 3 heures se déroule au départ de Kyoto, construite autour de Kiyomizu-dera, Sannenzaka et Temple Kodaiji. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend guide, droits d'entrée et en-cas. Il ne comprend pas prise en charge et retour à l'hôtel, repas et autres boissons et dépenses personnelles, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\n112 Tatsumichō, Higashiyama Ward, Kyoto, 605-0855, Japan. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Kiyomizu-dera",
+   "Sannenzaka",
+   "Temple Kodaiji",
+   "Sanctuaire Yasaka",
+   "Durée : 3 heures",
+   "Guide anglophone"
+  ],
+  "included": [
+   "Guide anglophone",
+   "Frais d'entrée (Kiyomizudera et temple Kodaiji)",
+   "En-cas"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel",
+   "Repas et autres boissons",
+   "Dépenses personnelles"
+  ],
+  "shortDescription": "Excursion de 3 heures à Kyoto, avec Kiyomizu-dera, Sannenzaka et Temple Kodaiji. Opérateur : TripGuru Japan, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite découverte de Kiyomizudera, Higashiyama et Yasaka",
+  "metaDescription": "Excursion de 3 heures à Kyoto. Comprend guide et droits d'entrée. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "kyoto-sushi-making-and-footbath-grand-opening-by-local-operator": {
   "title": "Kyoto : fabrication de sushi et bain de pieds (grande ouverture)",
@@ -23732,6 +24228,51 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 1,5 heures à Kyoto, comprenant cours de cuisine, ingrédients et instructeur. Opérateur : SUSHI GARYU, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Kyoto : fabrication de sushi et bain de pieds (grande ouverture)",
   "metaDescription": "Excursion de 1,5 heures à Kyoto. Comprend cours de cuisine. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "kyoto-food-tour-in-fushimi-7-stops-by-local-operator": {
+  "title": "Visite gastronomique de Kyoto à Fushimi : 7 arrêts",
+  "fullDescription": "Cette expérience de 2,5 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nFushimi Inari Taisha est le sanctuaire principal d'Inari, la divinité du riz et des affaires, et ses plus de mille portiques torii vermillon, chacun donné par une entreprise ou une famille, s'enchaînent en tunnels sur les 233 mètres du mont Inari derrière le hall principal. La boucle complète jusqu'au sommet fait environ quatre kilomètres et deux heures ; la plupart des visiteurs font demi-tour au point de vue de Yotsutsuji à mi-chemin. C'est ouvert 24 heures sur 24 et gratuit, ce qui en fait le seul grand site de Kyoto que l'on peut faire à l'aube ou après la nuit tombée, quand les portiques sont vides et illuminés. Dès neuf heures du matin, les tunnels inférieurs deviennent une file lente. Les statues de renard portent des clés du grenier à riz dans leur bouche.\n\nLe prix comprend jusqu'à 10 types de cuisine japonaise, 1 boisson, guide anglophone et aperçus culturels et histoires de quartier. Il ne comprend pas achats supplémentaires et transport aller-retour vers le point de rendez-vous, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2,5 heures",
+   "Jusqu'à 10 types de cuisine japonaise (salée et sucrée)",
+   "1 boisson",
+   "Guide local anglophone",
+   "Aperçus culturels et histoires de quartier"
+  ],
+  "included": [
+   "Jusqu'à 10 types de cuisine japonaise (salée et sucrée)",
+   "1 boisson",
+   "Guide local anglophone",
+   "Aperçus culturels et histoires de quartier"
+  ],
+  "notIncluded": [
+   "Achats supplémentaires",
+   "Transport aller-retour vers le point de rendez-vous"
+  ],
+  "shortDescription": "Excursion de 2,5 heures à Kyoto, comprenant jusqu'à 10 types de cuisine japonaise, 1 boisson et guide anglophone. Opérateur : Tokyo Ramen Tours, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite gastronomique de Kyoto à Fushimi : 7 arrêts",
+  "metaDescription": "Excursion de 2,5 heures à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "kyoto-sword-experience-includes-museum-ticket-by-local-operator": {
+  "title": "Expérience du sabre à Kyoto, billet de musée inclus",
+  "fullDescription": "Cette expérience de 2 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend sentez-vous comme un vrai samouraï, une expérience unique dans une vie et comprend le billet de musée gratuit et la visite de l'histoire des samouraïs. Il ne comprend pas transport vers/depuis les attractions, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 2 heures",
+   "Sentez-vous comme un vrai samouraï",
+   "Une expérience unique dans une vie",
+   "Comprend le billet de musée gratuit et la visite de l'histoire des samouraïs"
+  ],
+  "included": [
+   "Sentez-vous comme un vrai samouraï",
+   "Une expérience unique dans une vie",
+   "Comprend le billet de musée gratuit et la visite de l'histoire des samouraïs"
+  ],
+  "notIncluded": [
+   "Transport vers/depuis les attractions"
+  ],
+  "shortDescription": "Billet d'entrée à Kyoto, comprenant sentez-vous comme un vrai samouraï, une expérience unique dans une vie et comprend le billet de musée gratuit et la visite de l'histoire des samouraïs. Opérateur : GLOBA Inc., en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Expérience du sabre à Kyoto, billet de musée inclus",
+  "metaDescription": "Billet d'entrée à Kyoto. Comprend sentez-vous comme un vrai samouraï. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "ginkakuji-silver-pavilion-guided-tour-in-1-hour": {
   "title": "Visite guidée du Pavillon d'argent Ginkakuji en 1 heure",
@@ -23769,6 +24310,50 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Entrée au château de Nijo : visite guidée du patrimoine mondial à Kyoto",
   "metaDescription": "Excursion à Kyoto. Comprend entrée au château de Nijo. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
+ "best-of-kyoto-ginkakuji-and-path-of-philosophy-e-bike-tour-by-local-operator": {
+  "title": "Le meilleur de Kyoto : Ginkakuji et le chemin du philosophe en vélo électrique",
+  "fullDescription": "Cette expérience de 4 heures se déroule au départ de Kyoto, construite autour de Temple Ginkaku-ji, Temple Nanzenji et Sanctuaire Heian. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend location de vélo électrique, guide, frais d'entrée aux jardins et casques. Il ne comprend pas prise en charge et retour à l'hôtel et déjeuner, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Temple Ginkaku-ji",
+   "Temple Nanzenji",
+   "Sanctuaire Heian",
+   "Durée : 4 heures",
+   "Location de vélo électrique",
+   "Guide"
+  ],
+  "included": [
+   "Location de vélo électrique",
+   "Guide",
+   "Frais d'entrée aux jardins",
+   "Casques"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel",
+   "Déjeuner"
+  ],
+  "shortDescription": "Excursion d'une demi-journée à Kyoto, avec Temple Ginkaku-ji, Philosopher's Path, Kyoto et Temple Nanzenji. Opérateur : Kyoto Fun, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Le meilleur de Kyoto : Ginkakuji et le chemin du philosophe en vélo électrique",
+  "metaDescription": "Excursion d'une demi-journée à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "distrito-de-las-geishas-al-atardecer-tour-en-gion": {
+  "title": "Le quartier des geishas au crépuscule : visite à Gion",
+  "fullDescription": "Cette expérience de 2 heures se déroule au départ de Kyoto, construite autour de Pontocho, Canal Shirakawa et Sanctuaire Yasaka. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nGion est le quartier historique de divertissement de Kyoto, les rues de maisons machiya en bois autour de Hanamikoji où les geiko et maiko du district de Gion Kobu travaillent encore. Ce sont des professionnelles en route vers des engagements, pas des artistes de rue, et Kyoto a interdit la photographie dans les ruelles privées ; une promenade du soir avec un guide qui explique le système ochaya est la façon respectueuse de voir cela. Les sessions de cérémonie du thé à Gion enseignent la forme de base de la préparation du matcha en une heure. La location de kimono pour une journée, avec habillage et coiffure, est une activité établie dans le quartier et est bien accueillie plutôt que mal perçue.\n\nLe prix comprend guide expert local hispanophone natif. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nMcDonald's - Shijo-ohashi Bridge. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Pontocho",
+   "Canal Shirakawa",
+   "Sanctuaire Yasaka",
+   "Nene no Michi",
+   "Durée : 2 heures",
+   "Guide expert local hispanophone natif"
+  ],
+  "included": [
+   "Guide expert local hispanophone natif"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion de 2 heures à Kyoto, avec Pontocho, Canal Shirakawa et Sanctuaire Yasaka. Opérateur : Japan Guide Stars, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Le quartier des geishas au crépuscule : visite à Gion",
+  "metaDescription": "Excursion de 2 heures à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
  "sacred-pathways-discover-the-philosopher-s-path-of-kyoto-by-local-operator": {
   "title": "Chemins sacrés : découvrez le chemin du philosophe à Kyoto",
   "fullDescription": "Cette expérience de 4 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend tous les droits d'entrée, guide bilingue et guide urbain numérique. Il ne comprend pas nourriture, boissons et pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
@@ -23791,6 +24376,73 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion d'une demi-journée à Kyoto, comprenant tous les droits d'entrée, guide bilingue et guide urbain numérique. Opérateur : Kyoto Fun, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Chemins sacrés : découvrez le chemin du philosophe à Kyoto",
   "metaDescription": "Excursion d'une demi-journée à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
+ },
+ "best-of-kyoto-red-gates-of-fushimi-inari-and-kiyomizu-temple-by-local-operator": {
+  "title": "Le meilleur de Kyoto : portiques rouges de Fushimi Inari et temple Kiyomizu",
+  "fullDescription": "Cette expérience de 3 heures se déroule au départ de Kyoto, construite autour de Fushimi Inari Taisha et Kiyomizu-dera. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nFushimi Inari Taisha est le sanctuaire principal d'Inari, la divinité du riz et des affaires, et ses plus de mille portiques torii vermillon, chacun donné par une entreprise ou une famille, s'enchaînent en tunnels sur les 233 mètres du mont Inari derrière le hall principal. La boucle complète jusqu'au sommet fait environ quatre kilomètres et deux heures ; la plupart des visiteurs font demi-tour au point de vue de Yotsutsuji à mi-chemin. C'est ouvert 24 heures sur 24 et gratuit, ce qui en fait le seul grand site de Kyoto que l'on peut faire à l'aube ou après la nuit tombée, quand les portiques sont vides et illuminés. Dès neuf heures du matin, les tunnels inférieurs deviennent une file lente. Les statues de renard portent des clés du grenier à riz dans leur bouche.\n\nLe prix comprend guide, tarifs de train, tarifs de taxi et droits d'entrée. Il ne comprend pas prise en charge et retour à l'hôtel, nourriture et boissons et pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nGare d'Inari (devant l'entrée de la gare). Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Fushimi Inari Taisha",
+   "Kiyomizu-dera",
+   "Durée : 3 heures",
+   "Guide",
+   "Tarifs de train",
+   "Tarifs de taxi"
+  ],
+  "included": [
+   "Guide",
+   "Tarifs de train",
+   "Tarifs de taxi",
+   "Droits d'entrée"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel",
+   "Nourriture et boissons",
+   "Pourboires"
+  ],
+  "shortDescription": "Excursion de 3 heures à Kyoto, avec Fushimi Inari Taisha, Kiyomizu-dera et Finish at. Opérateur : Kyoto Fun, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Le meilleur de Kyoto : portiques rouges de Fushimi Inari",
+  "metaDescription": "Excursion de 3 heures à Kyoto. Comprend guide et tarifs de train. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "escape-the-crowds-with-a-private-japanese-sound-bath-in-kyoto": {
+  "title": "Échappez à la foule avec un bain sonore japonais privé à Kyoto",
+  "fullDescription": "Cette expérience de 1,5 heures se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend guide, bain sonore et une expérience pratique de jeu d'instrument sous forme d'atelier. Il ne comprend pas aucun repas n'est disponible, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1,5 heures",
+   "Guide",
+   "Bain sonore",
+   "Une expérience pratique de jeu d'instrument sous forme d'atelier"
+  ],
+  "included": [
+   "Guide",
+   "Bain sonore",
+   "Une expérience pratique de jeu d'instrument sous forme d'atelier"
+  ],
+  "notIncluded": [
+   "Aucun repas n'est disponible"
+  ],
+  "shortDescription": "Excursion à Kyoto, comprenant guide, bain sonore et une expérience pratique de jeu d'instrument sous forme d'atelier. Opérateur : SoniQ Ronin, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Échappez à la foule avec un bain sonore japonais privé à Kyoto",
+  "metaDescription": "Excursion à Kyoto. Comprend guide et bain sonore. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "arashiyama-unesco-walking-tour-with-admission": {
+  "title": "Visite à pied UNESCO d'Arashiyama avec entrée",
+  "fullDescription": "Cette expérience de 1,5 heures se déroule au départ de Kyoto, construite autour de Temple Tenryuji, Bosquet de bambous de Sagano et Pont Togetsu-kyo. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nArashiyama, à l'extrémité ouest de Kyoto, c'est la forêt de bambous, le pont Togetsukyo sur la rivière Katsura, les jardins de Tenryu-ji et le parc à singes sur la colline au-dessus. Le chemin de bambous fait environ 500 mètres et est photographié vide dans tous les guides parce que ces photos sont prises avant 7h30 ; en milieu de matinée c'est un défilé. Les balades en pousse-pousse, le chemin de fer panoramique de Sagano le long des gorges, et les descentes en bateau des rapides de Hozu partent tous d'ici. Les couleurs d'automne culminent dans la seconde moitié de novembre et les fleurs de cerisier autour de la première semaine d'avril.\n\nLe prix comprend billet d'entrée au temple Tenryuji et guide. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nChopsticks Studio Kyoto. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Temple Tenryuji",
+   "Bosquet de bambous de Sagano",
+   "Pont Togetsu-kyo",
+   "Durée : 1,5 heures",
+   "Billet d'entrée au temple Tenryuji",
+   "Guide"
+  ],
+  "included": [
+   "Billet d'entrée au temple Tenryuji",
+   "Guide"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Excursion à Kyoto, avec Temple Tenryuji, Bosquet de bambous de Sagano et Pont Togetsu-kyo. Opérateur : Japan Guide Stars, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Visite à pied UNESCO d'Arashiyama avec entrée",
+  "metaDescription": "Excursion à Kyoto. Comprend billet d'entrée au temple Tenryuji. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
  },
  "nijo-castle-and-kyoto-imperial-palace-guided-tour": {
   "title": "Visite guidée du château de Nijo et du palais impérial de Kyoto",
@@ -24007,6 +24659,29 @@ export const FR_TOURS: Record<string, TourT> = {
   "shortDescription": "Excursion de 2 heures à Kyoto, comprenant guide parlant anglais. Opérateur : JRT Group, en réservation directe plutôt que via un revendeur.",
   "metaTitle": "Gion : traditions des geishas, rituels shinto et machiya cachées",
   "metaDescription": "Excursion de 2 heures à Kyoto. Comprend guide parlant anglais. Réservation directe auprès de l'opérateur local, confirmation avant paiement définitif."
+ },
+ "chopstick-making-workshop-with-optional-engraving-in-kyoto": {
+  "title": "Atelier de fabrication de baguettes avec gravure optionnelle à Kyoto",
+  "fullDescription": "Cette expérience de 1 heure se déroule à Kyoto. Votre place est retenue auprès de l'opérateur avant que nous considérions votre réservation comme définitive.\n\nKyoto fut la capitale du Japon pendant plus de mille ans jusqu'en 1868 et compte 17 sites classés UNESCO parmi environ 2 000 temples et sanctuaires. Les trois grands sont Kinkaku-ji, le Pavillon d'or, recouvert de feuille d'or et meilleur à la lumière du matin ; Kiyomizu-dera, la scène en bois sur les collines orientales avec les allées de Higashiyama, Sannenzaka et Ninenzaka en dessous ; et les portiques de Fushimi Inari. Le château de Nijo a les planchers du rossignol qui grincent contre les intrus, et Ryoan-ji le jardin de pierres. Les temples ouvrent vers 8h00 ou 9h00 et ferment à 17h00, et le bus municipal est lent ; une journée avec un chauffeur ou un guide qui ordonne les arrêts contre les foules fait la différence entre quatre sites et sept.\n\nLe prix comprend atelier de fabrication de baguettes, bois de hinoki, accompagnement par un instructeur et gravure optionnelle contre un supplément. Il ne comprend pas pourboires, à prévoir en plus. Tout ce qui est inclus est listé en entier sur cette page ; si quelque chose ne figure pas dans cette liste, considérez que ce n’est pas compris dans le prix.\n\nLe point de rendez-vous et l'heure vous sont envoyés par e-mail dès la confirmation de la réservation. Nous avons besoin d'au moins un jour de préavis et nous confirmons la date avant de considérer votre réservation comme définitive. Si la date ne peut pas être confirmée, nous vous le disons et vous remboursons plutôt que de vous laisser attendre.",
+  "highlights": [
+   "Durée : 1 heure",
+   "Atelier de fabrication de baguettes",
+   "Bois de hinoki (autres bois en supplément)",
+   "Accompagnement par un instructeur",
+   "Gravure optionnelle contre un supplément"
+  ],
+  "included": [
+   "Atelier de fabrication de baguettes",
+   "Bois de hinoki (autres bois en supplément)",
+   "Accompagnement par un instructeur",
+   "Gravure optionnelle contre un supplément"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ],
+  "shortDescription": "Excursion de 1 heure à Kyoto, comprenant atelier de fabrication de baguettes, bois de hinoki et accompagnement par un instructeur. Opérateur : Japanese Craft Workshop, en réservation directe plutôt que via un revendeur.",
+  "metaTitle": "Atelier de fabrication de baguettes avec gravure optionnelle à Kyoto",
+  "metaDescription": "Excursion de 1 heure à Kyoto. Réservation directe auprès de l'opérateur local, confirmation avant paiement"
  },
  "kyo-arashi-shibori-scarf-class-at-kyoto-shibori-museum-by-local-operator": {
   "title": "Cours d'écharpe kyo-arashi shibori au musée Shibori de Kyoto",
