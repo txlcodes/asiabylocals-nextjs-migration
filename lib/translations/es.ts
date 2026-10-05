@@ -21862,6 +21862,76 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas para el guía y el conductor (recomendado)"
   ]
  },
+ "delhi-full-day-tour-with-red-fort-humayuns-tomb": {
+  "title": "Delhi: tour de día completo con el Fuerte Rojo, la tumba de Humayun, y más",
+  "metaTitle": "Delhi: día completo, Fuerte Rojo y tumba de Humayun",
+  "metaDescription": "Descubra la rica historia y cultura de Delhi en un tour guiado de día completo.",
+  "shortDescription": "Descubra la rica historia y cultura de Delhi en un tour guiado de día completo.",
+  "fullDescription": "Delhi: tour de día completo con el Fuerte Rojo, la tumba de Humayun, y más. Descubra la rica historia y cultura de Delhi en un tour guiado de día completo.\n\nExplore el vibrante e histórico corazón de la India en un tour de día completo por Delhi. Visite el Fuerte Rojo, la Jama Masjid, y la tumba de Humayun, y vea India Gate, el Rashtrapati Bhavan, y el Parlamento. Dé un paseo en rickshaw por los bulliciosos callejones de Chandni Chowk, y visite el Templo del Loto.\n\nComience su día con una visita al Fuerte Rojo, un sitio del Patrimonio Mundial de la UNESCO y un símbolo de la rica historia de la India. Este magnífico fuerte de arenisca roja, construido por el emperador Shah Jahan, ofrece un vistazo a la opulenta era mogol.\n\nCerca de allí, explore la Jama Masjid, una de las mezquitas más grandes de la India. Construida por Shah Jahan, esta impresionante mezquita puede albergar hasta 25.000 fieles, y presenta una intrincada arquitectura mogol.\n\nDé un paseo en rickshaw por los bulliciosos callejones de Chandni Chowk, el mercado histórico de Delhi. Experimente el caótico encanto de esta zona de mercado, famosa por su comida callejera, especias, joyas, y textiles.\n\nRinda homenaje a Mahatma Gandhi en Raj Ghat, el sitio conmemorativo donde fue incinerado. Este sereno lugar es un recordatorio conmovedor de las contribuciones de Gandhi a la independencia de la India.\n\nVisite India Gate, un monumento de guerra dedicado a los soldados indios que perdieron la vida durante la Primera Guerra Mundial. Este icónico monumento se alza majestuosamente al final del Rajpath, y está rodeado de exuberantes jardines.\n\nPase frente al Rashtrapati Bhavan, la residencia oficial del Presidente de la India, y el Parlamento adyacente. Estos edificios de la era colonial reflejan la grandeza de la influencia arquitectónica británica.\n\nDiríjase a la tumba de Humayun, otro sitio del Patrimonio Mundial de la UNESCO. Este gran mausoleo, construido a mediados del siglo XVI, es un precursor del Taj Mahal, y muestra una exquisita arquitectura mogol.\n\nVisite Qutub Minar, el minarete de ladrillo más alto del mundo, y otro sitio del Patrimonio Mundial de la UNESCO. El complejo incluye la mezquita Quwwat-ul-Islam, y el Pilar de Hierro, que ha permanecido libre de óxido durante más de 1.500 años.\n\nPor la tarde, visite el Templo del Loto, conocido por su distintivo diseño en forma de loto. Esta Casa de Adoración Bahá'í da la bienvenida a personas de todas las religiones, y es un lugar pacífico para la reflexión.\n\nConcluya su día en Dilli Haat, un mercado al aire libre que ofrece una variedad de artesanías, textiles, y cocinas de diferentes estados de la India. Es un excelente lugar para comprar souvenirs, y disfrutar de comidas regionales.\n\n**Qué incluye**\nRecogida y regreso al hotel\nAuto con aire acondicionado para visitas\nGuía turístico profesional en vivo\nPaseo en rickshaw en Chandni Chowk\nTodos los impuestos aplicables\n\n**No incluye**\nTarifa de monumento\nComidas y bebidas\nGastos personales\nPropinas",
+  "highlights": [
+   "Descubra la rica historia y cultura de Delhi en un tour guiado de día completo"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Auto con aire acondicionado para visitas",
+   "Guía turístico profesional en vivo",
+   "Paseo en rickshaw en Chandni Chowk",
+   "Todos los impuestos aplicables"
+  ],
+  "notIncluded": [
+   "Tarifa de monumento",
+   "Comidas y bebidas",
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "old-delhi-red-fort-jama-masjid-chandi-chowk": {
+  "title": "Vieja Delhi: tour guiado del Fuerte Rojo, la Jama Masjid, y Chandni Chowk",
+  "metaTitle": "Vieja Delhi: Fuerte Rojo, Jama Masjid, Chandni Chowk",
+  "metaDescription": "Visite la Jama Masjid, una de las mezquitas más grandes de la India, con explicaciones guiadas.",
+  "shortDescription": "Visite la Jama Masjid, una de las mezquitas más grandes de la India, con explicaciones guiadas.",
+  "fullDescription": "Vieja Delhi: tour guiado del Fuerte Rojo, la Jama Masjid, y Chandni Chowk. Visite la Jama Masjid, una de las mezquitas más grandes de la India, con explicaciones guiadas.\n\nDescubra el vibrante patrimonio de la Vieja Delhi en un tour guiado que abarca el Fuerte Rojo, la Jama Masjid, Chandni Chowk, y el Gurudwara Sis Ganj. Disfrute de un divertido paseo en rickshaw por bulliciosos mercados, y experimente la historia, cultura, y sabores que definen la Vieja Delhi.\n\nDuración: 5 horas\nTransporte: vehículo privado + ciclo-rickshaw/rickshaw\n\n**Itinerario: recogida desde Delhi**\nComience su caminata patrimonial con una recogida en su ubicación seleccionada en Delhi.\n\n1. Fuerte Rojo: visite el icónico Fuerte Rojo, un sitio del Patrimonio Mundial de la UNESCO conocido por su magnífica arquitectura mogol. Aprenda sobre su historia real e importancia mientras explora el exterior y los alrededores.\n\n2. Jama Masjid: explore una de las mezquitas más grandes e impresionantes de la India. Admire sus grandes cúpulas y minaretes mientras su guía explica su importancia espiritual e histórica.\n\n3. Chandni Chowk (paseo en rickshaw): disfrute de un paseo en ciclo-rickshaw o rickshaw por los bulliciosos callejones de Chandni Chowk. Camine por vibrantes mercados llenos de especias, textiles, comida callejera, y tiendas tradicionales, absorbiendo el animado ambiente.\n\n4. Gurudwara Sis Ganj Sahib: visite este histórico templo sij, y aprenda sobre su importancia religiosa, cultural, e histórica. Experimente un momento de paz en medio de las concurridas calles de la Vieja Delhi.\n\nRegreso a la Vieja Delhi: concluya su tour con un cómodo regreso a su punto de recogida en la Vieja Delhi, llevando consigo recuerdos de las vistas, sonidos, y sabores de esta ciudad histórica.\n\nNota: por favor, proporcione también el comprobante y el número de habitación por WhatsApp.\n\n**Qué incluye**\nRecogida y regreso al punto de encuentro\nTour guiado a pie por la Vieja Delhi\nPaseo en tuk-tuk en Chandni Chowk\nGuía turístico profesional\nEntradas (si se selecciona esta opción)\nComida callejera (costo adicional)\nBotella de agua\nTodos los impuestos y el estacionamiento\n\n**No incluye**\nPropinas",
+  "highlights": [
+   "Visite la Jama Masjid, una de las mezquitas más grandes de la India, con explicaciones guiadas"
+  ],
+  "included": [
+   "Recogida y regreso al punto de encuentro",
+   "Tour guiado a pie por la Vieja Delhi",
+   "Paseo en tuk-tuk en Chandni Chowk",
+   "Guía turístico profesional",
+   "Entradas (si se selecciona esta opción)",
+   "Comida callejera (costo adicional)",
+   "Botella de agua",
+   "Todos los impuestos y el estacionamiento"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "delhi-guided-shopping-tour-for-gems-jewellery": {
+  "title": "Delhi: tour de compras guiado para gemas, joyas, y artesanías",
+  "metaTitle": "Delhi: compras guiadas, gemas y joyas",
+  "metaDescription": "Tour de compras privado todo incluido con guía femenina experta.",
+  "shortDescription": "Tour de compras privado todo incluido con guía femenina experta.",
+  "fullDescription": "Delhi: tour de compras guiado para gemas, joyas, y artesanías. Tour de compras privado todo incluido con guía femenina experta.\n\nDescubra la vibrante cultura de compras de Delhi en este tour de compras todo incluido y totalmente personalizable, dirigido por una conocedora experta femenina. Diseñado especialmente para viajeros que valoran la comodidad, la seguridad, y una experiencia personalizada, este tour lo lleva más allá de las rutas turísticas típicas hacia el corazón de los destinos de compras más icónicos y ocultos de la ciudad.\n\nSu viaje comienza con una conveniente recogida en el hotel en un vehículo privado con aire acondicionado, asegurando un comienzo sin complicaciones para su día. Con su guía femenina experta a su lado, explorará una selección curada de los famosos mercados de Delhi según sus intereses, ya sea que busque ropa tradicional india, moda de moda, joyas, artesanías, decoración del hogar, o souvenirs únicos.\n\nPasee por los bulliciosos callejones de Chandni Chowk, uno de los mercados más antiguos y coloridos de la India, donde puede encontrar de todo, desde lehengas de novia hasta especias y comida callejera. Explore las animadas calles del mercado de Sarojini Nagar, famoso por su moda económica y marcas de excedentes de exportación. Visite el mercado Janpath para joyas bohemias, textiles, y productos artesanales, o diríjase a Dilli Haat para experimentar una colección curada de artesanías tradicionales de toda la India.\n\nSi prefiere una experiencia de compras más exclusiva, su guía puede llevarlo a centros comerciales modernos o boutiques de diseñador, que ofrecen productos de alta calidad y precios fijos. El tour es completamente flexible, permitiéndole pasar más tiempo en los lugares que le gustan, y omitir lo que no le interesa.\n\nUno de los puntos destacados de esta experiencia es tener una experta femenina en compras que entiende los mercados locales, los precios, y la calidad. Ella le ayudará a navegar cómodamente por zonas concurridas, sugerirá las mejores tiendas, asistirá en el regateo, y asegurará que obtenga productos auténticos a precios justos. Esto hace que el tour sea especialmente ideal para viajeras solas, familias, o cualquier persona que busque un entorno de compras más seguro y relajado.\n\nDurante todo el día, disfrute de la comodidad del transporte privado, con la opción de hacer pausas en cafés o restaurantes locales para relajarse y recargar energías. Su guía también puede recomendarle los mejores lugares para probar bocadillos o comidas locales auténticas, si desea combinar las compras con un sabor de las delicias culinarias de Delhi.\n\nEste tour todo incluido generalmente cubre transporte, servicios de guía, y asistencia personalizada, asegurando una experiencia fluida de principio a fin. Ya sea que esté comprando trajes de boda, regalos, o simplemente quiera explorar la rica cultura de mercado de Delhi, este tour ofrece la combinación perfecta de comodidad, experiencia, y conocimiento local.\n\nIdeal tanto para visitantes primerizos como para viajeros experimentados, este tour de compras de Delhi es más que una experiencia minorista, es un viaje cultural a través de los vibrantes bazares, tradiciones, y artesanía de la ciudad. Disfrute de un día seguro, agradable, e inolvidable descubriendo lo mejor de las compras en Delhi con una experta femenina de confianza a su lado.\n\n**Qué incluye**\nGuía local privado\nRecogida y regreso al hotel (Delhi/NCR)\nVehículo con aire acondicionado\nVisitas a mercados según sus intereses\nAsistencia con el regateo\nAgua embotellada\n\n**No incluye**\nGastos personales de compras\nComidas y compras adicionales de alimentos\nEntradas (si corresponde para sitios específicos)\nGratificaciones (opcionales)",
+  "highlights": [
+   "Tour de compras privado todo incluido con guía femenina experta"
+  ],
+  "included": [
+   "Guía local privado",
+   "Recogida y regreso al hotel (Delhi/NCR)",
+   "Vehículo con aire acondicionado",
+   "Visitas a mercados según sus intereses",
+   "Asistencia con el regateo",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Gastos personales de compras",
+   "Comidas y compras adicionales de alimentos",
+   "Entradas (si corresponde para sitios específicos)",
+   "Gratificaciones (opcionales)"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
