@@ -537,6 +537,78 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche persönliche Ausgaben"
   ]
  },
+ "agra-by-night-private-street-food-tour-with-local": {
+  "title": "Agra bei Nacht: private Street-Food-Tour mit lokalen Märkten",
+  "metaTitle": "Agra bei Nacht: Street Food und lokale Märkte",
+  "metaDescription": "Erkunden Sie Agras lebendige Nachtmärkte mit traditionellem Tuk-Tuk.",
+  "shortDescription": "Erkunden Sie Agras lebendige Nachtmärkte mit traditionellem Tuk-Tuk.",
+  "fullDescription": "Erleben Sie Agra auf eine Weise, wie es nur wenige Reisende tun, mit einer privaten abendlichen Tuk-Tuk-Tour, die die Stadt nach Einbruch der Dunkelheit zum Leben erweckt. Mit Sonnenuntergang verwandelt sich Agra in ein lebendiges Geflecht aus Lichtern, geschäftigen Straßen, und duftenden Essensständen, und diese Tour lässt Sie alles wie ein Einheimischer erkunden. Gleiten Sie durch enge Gassen und lebendige Viertel, während Ihr erfahrener Guide Sie zu versteckten Schätzen, lokalen Märkten, und Ecken der Stadt führt, die die meisten Besucher nie sehen. Auf dem Weg genießen Sie authentisches Agra-Street-Food, das von würzigen Chaats und herzhaften Snacks bis hin zu süßen Delikatessen reicht, alle sorgfältig ausgewählt für einen echten Geschmack der Stadt.\n\nDiese nächtliche Agra-Tour bietet eine einzigartige Mischung aus Kultur, Küche, und Abenteuer. Während Sie durch die Straßen in Ihrem privaten Tuk-Tuk fahren, entdecken Sie die Rhythmen des lokalen Lebens, hören Geschichten über Agras Geschichte und Traditionen, und erleben den nächtlichen Charme der Stadt. Der Schein der Straßenlaternen, die Geräusche geschäftiger Märkte, und die verlockenden Aromen von Street Food schaffen eine magische Atmosphäre, die sowohl eindringlich als auch unvergesslich ist. Egal ob Sie ein Feinschmecker sind, der authentische Aromen erkunden möchte, ein Kulturenthusiast, der die versteckten Schätze der Stadt entdecken möchte, oder ein Reisender, der ein unvergessliches Abendabenteuer sucht, diese Tour bietet eine perfekte Mischung von Erlebnissen, die auf Ihre Interessen zugeschnitten sind.\n\nAgra bei Nacht zu erkunden bedeutet nicht nur Sightseeing; es geht darum, sich auf persönlicher Ebene mit der Stadt zu verbinden. Vom Probieren lokaler Spezialitäten bis zum Schlendern durch bunte Märkte ist jeder Moment darauf ausgelegt, Ihnen eine Insider-Perspektive auf das Leben nach Sonnenuntergang zu geben. Ihr privates Tuk-Tuk garantiert Komfort und Flexibilität, sodass Sie sich leicht zwischen Orten bewegen, versteckte Ecken entdecken, und die Stadt ohne die Tagesmassen voll genießen können. Am Ende der Tour haben Sie die Sehenswürdigkeiten, Klänge, und Geschmäcker Agras auf eine Weise erlebt, wie es nur wenige Reisende je tun, und Erinnerungen geschaffen, die lange nach Ihrem Besuch anhalten werden.\n\nEntdecken Sie die Magie Agras nach Einbruch der Dunkelheit auf dieser exklusiven Abendtour, die Street Food, Kultur, und Stadtlichter zu einem wirklich unvergesslichen Abenteuer verbindet.",
+  "highlights": [
+   "Erkunden Sie Agras lebendige Nachtmärkte mit traditionellem Tuk-Tuk"
+  ],
+  "included": [
+   "Private Tuk-Tuk-Fahrt durch Agra bei Nacht",
+   "Lokaler Guide während der gesamten Tour",
+   "Verkostung von authentischem Agra-Street-Food",
+   "Besuche lokaler Märkte und versteckter Schätze",
+   "Kulturelle Einblicke und Geschichtenerzählen während der Tour",
+   "Flexibler Reiseplan, angepasst an Ihr Tempo",
+   "Wasser in Flaschen während der Tour"
+  ],
+  "notIncluded": [
+   "Trinkgelder für Guide und Fahrer (optional)",
+   "Eintrittsgebühren für Denkmäler oder Attraktionen, falls vorhanden"
+  ]
+ },
+ "new-delhi-one-way-airport-to-hotel-transfer-all": {
+  "title": "New Delhi: einfacher Transfer vom Flughafen zum Hotel (Komplettpaket)",
+  "metaTitle": "New Delhi: Flughafen-Hotel-Transfer Komplettpaket",
+  "metaDescription": "Privater einfacher Transfer vom Flughafen zum Hotel in New Delhi.",
+  "shortDescription": "Privater einfacher Transfer vom Flughafen zum Hotel in New Delhi.",
+  "fullDescription": "Beginnen Sie Ihre Reise in New Delhi auf die richtige Weise mit einem zuverlässigen und komfortablen einfachen Flughafentransfer zu Ihrem Hotel. Vermeiden Sie die Mühe, mit lokalen Taxis zu verhandeln oder nach einem langen Flug durch geschäftige Straßen zu navigieren.\n\nBei der Ankunft begrüßt Sie Ihr professioneller Fahrer am Flughafen und hilft Ihnen mit Ihrem Gepäck, bevor er Sie zu einem sauberen, klimatisierten Fahrzeug begleitet. Setzen Sie sich zurück, entspannen Sie sich, und genießen Sie eine reibungslose Fahrt direkt zu Ihrem Hotel.\n\nDieser Komplettservice garantiert völlige Sorgenfreiheit und deckt Kraftstoff, Mautgebühren, Parkgebühren, und Fahrerzulagen ab, sodass Sie sich keine Sorgen über zusätzliche Kosten machen müssen. Ob Sie allein, mit der Familie, oder in einer Gruppe reisen, wird eine passende Fahrzeugoption organisiert, um Ihren Bedürfnissen zu entsprechen.\n\nPerfekt für Erstbesucher und Vielreisende gleichermaßen bietet dieser Transferservice Komfort, Sicherheit, und Effizienz vom Moment Ihrer Landung an.",
+  "highlights": [
+   "Privater einfacher Transfer vom Flughafen zum Hotel in New Delhi"
+  ],
+  "included": [
+   "Privater einfacher Transfer",
+   "Flughafenabholung mit persönlichem Empfang",
+   "Kraftstoffkosten",
+   "Mautgebühren und Parkgebühren",
+   "Fahrerzulage",
+   "Klimatisiertes Fahrzeug"
+  ],
+  "notIncluded": [
+   "Trinkgelder (optional)",
+   "Zusätzliche Stopps (sofern nicht angegeben)"
+  ]
+ },
+ "from-delhi-luxury-taj-mahal-tour-by-audibmw-w": {
+  "title": "Ab Delhi: Luxus-Tour zum Taj Mahal mit Audi/BMW inkl. 5-Sterne-Mahl",
+  "metaTitle": "Delhi-Agra: Taj Mahal Luxustour mit Audi/BMW",
+  "metaDescription": "Reisen Sie in einem luxuriösen Audi, BMW, oder Mercedes mit privatem Chauffeur.",
+  "shortDescription": "Reisen Sie in einem luxuriösen Audi, BMW, oder Mercedes mit privatem Chauffeur.",
+  "fullDescription": "Erleben Sie eine der ikonischsten Reisen Indiens in unvergleichlichem Komfort und Stil auf dieser privaten Luxus-Tagestour ab Delhi. Reisen Sie in einem Premiumfahrzeug wie Audi, BMW, oder Mercedes, begleitet von einem professionellen Chauffeur, der eine reibungslose, sichere, und entspannte Reise von Anfang bis Ende garantiert.\n\nFür Gäste, die das Sonnenaufgangserlebnis am Taj Mahal wählen, ist die Abholung sehr früh geplant, um die Ankunft vor Sonnenaufgang zu gewährleisten:\n\nSommer (April-September): Abholung zwischen 02:00 und 02:30 Uhr\nWinter (Oktober-März): Abholung zwischen 02:30 und 03:00 Uhr\n\nDiese frühen Abfahrtszeiten ermöglichen es Ihnen, den Taj Mahal in seinem magischsten Moment bei Sonnenaufgang zu erleben.\n\nFür Tagestouren ist die Abholzeit flexibel und kann nach Ihrer Präferenz und Bequemlichkeit geplant werden.\n\nIhr Erlebnis beginnt mit einer bequemen Abholung von Ihrem Hotel, Flughafen, oder bevorzugten Ort in der Region Delhi NCR. Lehnen Sie sich zurück und genießen Sie die malerische Fahrt über die Yamuna Expressway, während Sie sich in Ihrem Luxusauto nach Agra begeben, mit Erfrischungen, die auf dem Weg bereitgestellt werden.\n\nBei der Ankunft treffen Sie Ihren privaten lizenzierten Expertenguide und begeben sich direkt zum atemberaubenden Taj Mahal. Überspringen Sie die langen Ticket-Warteschlangen und erkunden Sie dieses weltberühmte Denkmal, eine UNESCO-Welterbestätte und Symbol der Liebe, während Sie seine faszinierende Geschichte, Architektur, und zeitlose Schönheit entdecken.\n\nNach Ihrem Besuch genießen Sie ein exquisites 5-Sterne-Essenserlebnis in einem Luxushotel wie dem Double Tree by Hilton oder einer ähnlichen Premium-Unterkunft. Genießen Sie eine Vielzahl köstlicher lokaler und internationaler Gerichte in einem eleganten Ambiente mit Blick auf die Stadt.\n\nSetzen Sie Ihre Reise mit einem Besuch des majestätischen Agra Fort fort, einer weiteren UNESCO-gelisteten Stätte. Entdecken Sie seine prächtigen Paläste, Höfe, und die reiche Mogul-Geschichte, während Ihr Guide die Geschichten der Kaiser und des königlichen Lebens zum Leben erweckt.\n\nNach einem unvergesslichen Tag voller Erkundung und Luxus entspannen Sie sich während Ihrer komfortablen Rückfahrt nach Delhi, wo Sie an Ihrem bevorzugten Ort abgesetzt werden.\n\nDieses sorgfältig zusammengestellte Erlebnis ist perfekt für Reisende, die Komfort, Exklusivität, und einen nahtlosen Weg suchen, um Agras berühmteste Sehenswürdigkeiten an einem einzigen Tag zu erkunden.",
+  "highlights": [
+   "Reisen Sie in einem luxuriösen Audi, BMW, oder Mercedes mit privatem Chauffeur"
+  ],
+  "included": [
+   "Privates Luxusauto (Audi / BMW / Mercedes / Toyota Fortuner)",
+   "Professioneller Chauffeur",
+   "Privater lizenzierter Reiseführer in Agra",
+   "Besuch des Taj Mahal und des Agra Fort",
+   "5-Sterne-Mittagessen in einem Premiumhotel (multi-kulinarisch) (falls Option ausgewählt)",
+   "Eintrittstickets für Denkmäler (falls Option ausgewählt)",
+   "Batteriebus-/Golfwagenfahrt zum und vom Eingangstor des Taj Mahal",
+   "Überschuhe für den Besuch des Taj Mahal",
+   "Hotel-/Flughafenabholung und Rückfahrt in der Region Delhi NCR",
+   "Wasser in Flaschen und Erfrischungen im Auto",
+   "Alle Parkgebühren, Mautgebühren, Kraftstoff, und Steuern"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben (Souvenirs, Getränke, usw.)",
+   "Trinkgelder für Guide und Fahrer (optional)"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
