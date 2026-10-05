@@ -2412,6 +2412,81 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "from-delhi-5-8-hours-customizable-layover-guided": {
+  "title": "Depuis Delhi : visites guidées personnalisables de 5 à 8 heures pour escale",
+  "metaTitle": "Delhi : visite d'escale personnalisable, 5-8 heures",
+  "metaDescription": "Explorez les monuments emblématiques de Delhi : fort rouge, Jama Masjid, India Gate, et Qutub Minar.",
+  "shortDescription": "Explorez les monuments emblématiques de Delhi : fort rouge, Jama Masjid, India Gate, et Qutub Minar.",
+  "fullDescription": "**Visite guidée d'escale à Delhi, explorez la capitale en seulement quelques heures**\n\nProfitez au maximum de votre temps d'attente à l'aéroport international Indira Gandhi avec une visite guidée d'escale à Delhi, la façon parfaite de découvrir la capitale de l'Inde avec confort et style. Que vous ayez 4, 6, ou 10 heures avant votre prochain vol, cette visite privée guidée vous permet d'explorer le meilleur du vieux et du nouveau Delhi sans tracas.\n\nCommencez votre voyage alors que votre chauffeur professionnel et guide parlant anglais vous accueillent à l'aéroport. Découvrez le cœur historique du vieux Delhi, abritant le magnifique fort rouge, la grande Jama Masjid, et les ruelles animées de Chandni Chowk, où vous pouvez profiter d'un trajet en rickshaw palpitant à travers des marchés animés remplis d'épices, de soies, et d'arômes de street food. Visitez Raj Ghat, un mémorial paisible dédié au Mahatma Gandhi, avant de vous diriger vers New Delhi.\n\nDécouvrez le charme moderne de la capitale avec des arrêts à India Gate, Rashtrapati Bhavan, et le tombeau de Humayun classé par l'UNESCO ou Qutub Minar. Si le temps le permet, visitez le paisible temple du Lotus ou profitez du shopping à Connaught Place ou Dilli Haat.\n\nProfitez d'un délicieux repas dans un restaurant local ou goûtez l'authentique street food de Delhi, du butter chicken aux golgappas croustillants. La visite est entièrement personnalisée selon votre horaire, garantissant un retour fluide à l'aéroport à temps pour votre vol suivant.\n\nParfaite pour les voyageurs recherchant une évasion culturelle rapide, cette visite d'escale combine histoire, architecture, vie locale, et cuisine, transformant votre temps de transit en une expérience inoubliable à Delhi.",
+  "highlights": [
+   "Explorez les monuments emblématiques de Delhi : fort rouge, Jama Masjid, India Gate, et Qutub Minar"
+  ],
+  "included": [
+   "Billet d'entrée aux monuments inclus (avec option)",
+   "Guide touristique en direct",
+   "Bouteilles d'eau",
+   "Rickshaw"
+  ],
+  "notIncluded": [
+   "Pourboires pour les guides",
+   "Dépenses personnelles"
+  ]
+ },
+ "delhi-taj-mahal-private-tour-by-luxury-car-all": {
+  "title": "Delhi : visite privée du Taj Mahal en voiture de luxe, tout compris",
+  "metaTitle": "Delhi-Taj Mahal : voiture de luxe, tout compris",
+  "metaDescription": "Voyagez dans une spacieuse voiture de luxe climatisée à 6 places avec chauffeur privé.",
+  "shortDescription": "Voyagez dans une spacieuse voiture de luxe climatisée à 6 places avec chauffeur privé.",
+  "fullDescription": "Commencez votre voyage tôt le matin depuis votre hôtel à Delhi, Noida, Gurugram, ou Aerocity. Détendez-vous dans une voiture de luxe climatisée à 6 places (Innova Hycross ou Crysta) tandis que votre chauffeur professionnel vous conduit en douceur le long de l'autoroute Yamuna vers Agra (environ 3 heures).\n\nÀ l'arrivée, rencontrez votre guide agréé qui vous mènera directement au Taj Mahal avec un accès sans file d'attente. Explorez cette merveille du monde tout en découvrant des histoires fascinantes sur l'empereur Shah Jahan et Mumtaz Mahal. Votre guide vous aidera également à prendre de superbes photos sous les meilleurs angles.\n\nEnsuite, visitez le fort d'Agra depuis l'extérieur, et admirez sa grande structure en grès rouge et les belles vues sur le Taj Mahal.\n\nAprès la visite, profitez d'un repas somptueux 5 étoiles dans l'un des meilleurs hôtels de luxe d'Agra, une façon parfaite de vous détendre et de vous ressourcer.\n\nContinuez vers le Baby Taj (Itimad-ud-Daulah), connu comme le « coffret à bijoux d'Agra ». Découvrez sa riche histoire et voyez l'impressionnant travail d'incrustation en marbre. Vous profiterez également d'une vue paisible sur le Taj Mahal à travers la rivière Yamuna avant de quitter la ville.\n\nEnfin, détendez-vous pendant votre trajet confortable de retour vers Delhi, chérissant les souvenirs de votre excursion de luxe.",
+  "highlights": [
+   "Voyagez dans une spacieuse voiture de luxe climatisée à 6 places avec chauffeur privé",
+   "Entrée sans file d'attente au Taj Mahal",
+   "Profitez d'un aller-retour Delhi-Agra en voiture de luxe"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Prise en charge et retour n'importe où dans la région de Delhi NCR, Noida, ou Gurugram",
+   "Billets sans file d'attente pour le Taj Mahal et le Baby Taj (si option sélectionnée)",
+   "Visite privée",
+   "Voiture entièrement climatisée",
+   "Guide professionnel",
+   "Notre guide vous montrera également une démonstration du travail d'incrustation",
+   "Notre guide prendra vos photos dignes des réseaux sociaux",
+   "Repas dans un hôtel 5 étoiles (si option sélectionnée)",
+   "Bouteilles d'eau et couvre-chaussures",
+   "Tous les péages, taxes, et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Toute boisson servie avec le déjeuner"
+  ]
+ },
+ "overnight-periyar-wildlife-nature-escape-guided": {
+  "title": "Visite guidée d'une nuit, évasion nature et faune de Periyar",
+  "metaTitle": "Periyar : évasion nature et faune, une nuit",
+  "metaDescription": "Trajet pittoresque à travers les collines du Kerala.",
+  "shortDescription": "Trajet pittoresque à travers les collines du Kerala.",
+  "fullDescription": "**À propos de Periyar (Thekkady)**\nDécouvrez la beauté sereine des Ghâts occidentaux du Kerala lors de cette évasion relaxante d'une nuit à Periyar. Entourée de forêts luxuriantes, de collines brumeuses, de plantations d'épices, et de lacs tranquilles, Thekkady offre la retraite parfaite pour les amoureux de la nature. Cette visite se concentre sur les paysages pittoresques, la culture locale, et le riche patrimoine des épices du Kerala. Découvrez des jardins d'épices parfumés, profitez de points de vue à couper le souffle, explorez les marchés locaux, et imprégnez-vous de la beauté naturelle de l'une des destinations les plus pittoresques du Kerala.\n\n**Jour 1 : arrivée / prise en charge à l'hôtel de Kochi ou à l'aéroport, Thekkady (160 km / 4 à 5 heures)**\n« Le pays de Dieu »\nPrise en charge à l'aéroport de Kochi, l'hôtel, ou la gare. Commencez votre voyage pittoresque vers Thekkady à travers des paysages verdoyants luxuriants, des plantations de caoutchouc, des cascades, et des villages charmants.\n\nÀ l'arrivée à Thekkady, enregistrez-vous à l'hôtel. Après vous être rafraîchi, partez pour une visite guidée d'une plantation d'épices traditionnelle. Découvrez les épices célèbres du Kerala, notamment la cardamome, le poivre, la cannelle, les clous de girofle, la vanille, et la noix de muscade. Découvrez comment ces épices sont cultivées et transformées. Ensuite, partez pour une balade en bateau sur le lac Periyar. L'un des points forts de la visite du lac Periyar est le trajet en bateau pittoresque à travers le cœur de la réserve de tigres de Periyar. Cette croisière relaxante offre aux visiteurs une occasion unique de découvrir la beauté naturelle de la nature sauvage du Kerala depuis les eaux tranquilles du lac.\n\nEn soirée, profitez d'un spectacle culturel traditionnel du Kerala mettant en scène la danse Kathakali. Nuitée à Thekkady.\n\n**Jour 2 : Thekkady (promenade dans la nature), départ vers l'aéroport/hôtel de Kochi (160 km / 4-5 heures)**\nPromenade dans la nature. La promenade dans la nature de Periyar est une expérience paisible et immersive qui permet aux visiteurs d'explorer la beauté pittoresque des forêts entourant la réserve de tigres de Periyar. Accompagnés de guides naturalistes expérimentés, les participants marchent le long de sentiers forestiers bien sélectionnés, profitant de la tranquillité et du charme naturel des Ghâts occidentaux.\n\n**Points forts :**\nPromenade guidée à travers de belles pistes forestières\nDécouvrez les plantes locales, les arbres, et les herbes médicinales\nDécouvrez la vie végétale et animale diversifiée des Ghâts occidentaux\nProfitez de paysages pittoresques et d'un environnement paisible\nExcellentes opportunités pour la photographie de nature\nDécouvrez l'air frais de montagne et la tranquillité de la forêt\nConvient à tous les groupes d'âge et niveaux de condition physique\n\nEnsuite, poursuivez vers Kochi ; à l'arrivée à Kochi, notre chauffeur vous aidera à vous déposer à l'aéroport/hôtel de Kochi avec de nombreux doux souvenirs.",
+  "highlights": [
+   "Trajet pittoresque à travers les collines du Kerala"
+  ],
+  "included": [
+   "1 nuit d'hébergement en hôtel 3/4/5 étoiles (si option choisie/sélectionnée)",
+   "1 délicieux petit-déjeuner à l'hôtel pendant le séjour",
+   "Tous les transferts et visites en voiture",
+   "Voiture privée pour toute la visite",
+   "Services d'un chauffeur parlant anglais",
+   "Bouteille d'eau",
+   "Toutes les taxes et frais de service applicables"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Frais de caméra",
+   "Toute dépense personnelle",
+   "Frais d'entrée aux monuments, frais de caméra",
+   "Coût du dîner de gala du Nouvel An et de Noël"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",

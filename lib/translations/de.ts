@@ -2412,6 +2412,81 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche persönliche Ausgaben"
   ]
  },
+ "from-delhi-5-8-hours-customizable-layover-guided": {
+  "title": "Ab Delhi: 5-8 Stunden anpassbare geführte Zwischenstopp-Touren",
+  "metaTitle": "Delhi: anpassbare Zwischenstopp-Tour, 5-8 Stunden",
+  "metaDescription": "Erkunden Sie Delhis ikonische Sehenswürdigkeiten: Rotes Fort, Jama Masjid, India Gate, und Qutub Minar.",
+  "shortDescription": "Erkunden Sie Delhis ikonische Sehenswürdigkeiten: Rotes Fort, Jama Masjid, India Gate, und Qutub Minar.",
+  "fullDescription": "**Geführte Delhi-Zwischenstopp-Tour, erkunden Sie die Hauptstadt in nur wenigen Stunden**\n\nNutzen Sie Ihre Wartezeit am Indira Gandhi International Airport optimal mit einer geführten Delhi-Zwischenstopp-Tour, der perfekten Möglichkeit, Indiens Hauptstadt mit Komfort und Stil zu erleben. Ob Sie 4, 6, oder 10 Stunden vor Ihrem nächsten Flug haben, diese private geführte Tour lässt Sie das Beste von Alt- und Neu-Delhi ohne Probleme erkunden.\n\nBeginnen Sie Ihre Reise, während Ihr professioneller Fahrer und englischsprachiger Guide Sie am Flughafen begrüßen. Entdecken Sie das historische Herz von Alt-Delhi, Heimat des prächtigen Roten Forts, der großen Jama Masjid, und der lebendigen Gassen von Chandni Chowk, wo Sie eine aufregende Rikscha-Fahrt durch geschäftige Märkte voller Gewürze, Seide, und Street-Food-Aromen genießen können. Besuchen Sie Raj Ghat, ein friedliches Denkmal für Mahatma Gandhi, bevor Sie sich nach New Delhi begeben.\n\nErleben Sie den modernen Charme der Hauptstadt mit Stopps bei India Gate, Rashtrapati Bhavan, und dem UNESCO-gelisteten Humayuns Grab oder Qutub Minar. Falls die Zeit es erlaubt, besuchen Sie den ruhigen Lotus-Tempel oder genießen Sie Einkaufen am Connaught Place oder Dilli Haat.\n\nGenießen Sie eine köstliche Mahlzeit in einem lokalen Restaurant oder probieren Sie authentisches Delhi-Street-Food, von Butter Chicken bis zu knusprigen Golgappas. Die Tour wird vollständig an Ihren Zeitplan angepasst und gewährleistet eine reibungslose Rückkehr zum Flughafen rechtzeitig für Ihren Weiterflug.\n\nPerfekt für Reisende, die eine schnelle kulturelle Flucht suchen, kombiniert diese Zwischenstopp-Tour Geschichte, Architektur, lokales Leben, und Küche und verwandelt Ihre Transitzeit in ein unvergessliches Delhi-Erlebnis.",
+  "highlights": [
+   "Erkunden Sie Delhis ikonische Sehenswürdigkeiten: Rotes Fort, Jama Masjid, India Gate, und Qutub Minar"
+  ],
+  "included": [
+   "Eintrittsticket für Denkmäler enthalten (mit Option)",
+   "Live-Reiseführer",
+   "Wasserflaschen",
+   "Rikscha"
+  ],
+  "notIncluded": [
+   "Trinkgelder für Guides",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "delhi-taj-mahal-private-tour-by-luxury-car-all": {
+  "title": "Delhi: private Taj Mahal Tour im Luxusauto, Komplettpaket",
+  "metaTitle": "Delhi-Taj Mahal: Luxusauto, Komplettpaket",
+  "metaDescription": "Reisen Sie in einem geräumigen 6-sitzigen klimatisierten Luxusauto mit privatem Fahrer.",
+  "shortDescription": "Reisen Sie in einem geräumigen 6-sitzigen klimatisierten Luxusauto mit privatem Fahrer.",
+  "fullDescription": "Beginnen Sie Ihre Reise früh am Morgen von Ihrem Hotel in Delhi, Noida, Gurugram, oder Aerocity. Entspannen Sie sich in einem luxuriösen 6-sitzigen klimatisierten Auto (Innova Hycross oder Crysta), während Ihr professioneller Fahrer Sie reibungslos über die Yamuna Expressway nach Agra bringt (ca. 3 Stunden).\n\nBei der Ankunft treffen Sie Ihren lizenzierten Guide, der Sie direkt zum Taj Mahal mit Eintritt ohne Warteschlange bringt. Erkunden Sie dieses Weltwunder, während Sie faszinierende Geschichten über Kaiser Shah Jahan und Mumtaz Mahal erfahren. Ihr Guide hilft Ihnen auch, großartige Fotos aus den besten Winkeln zu machen.\n\nAls Nächstes besuchen Sie das Agra Fort von außen und bewundern seine prächtige Struktur aus rotem Sandstein und schöne Ausblicke auf den Taj Mahal.\n\nNach der Besichtigung genießen Sie ein üppiges 5-Sterne-Essen in einem der besten Luxushotels Agras, eine perfekte Möglichkeit, sich zu entspannen und aufzuladen.\n\nFahren Sie weiter zum Baby Taj (Itimad-ud-Daulah), bekannt als das \"Schmuckkästchen Agras\". Erfahren Sie mehr über seine reiche Geschichte und sehen Sie die atemberaubende Marmor-Einlegearbeit. Sie genießen auch einen friedlichen Blick auf den Taj Mahal über den Fluss Yamuna, bevor Sie die Stadt verlassen.\n\nZum Schluss lehnen Sie sich zurück und entspannen Sie sich während Ihrer komfortablen Rückfahrt nach Delhi und schätzen die Erinnerungen an Ihren Luxustagesausflug.",
+  "highlights": [
+   "Reisen Sie in einem geräumigen 6-sitzigen klimatisierten Luxusauto mit privatem Fahrer",
+   "Eintritt ohne Warteschlange zum Taj Mahal",
+   "Genießen Sie eine Delhi-Agra-Hin-und-Rückfahrt im Luxusauto"
+  ],
+  "included": [
+   "Hotelabholung und Rückfahrt",
+   "Abholung und Rückfahrt von überall in der Region Delhi NCR, Noida, oder Gurugram",
+   "Tickets ohne Warteschlange für den Taj Mahal und Baby Taj (falls Option ausgewählt)",
+   "Private Tour",
+   "Vollständig klimatisiertes Auto",
+   "Professioneller Guide",
+   "Unser Guide zeigt Ihnen auch eine Demonstration der Einlegearbeit",
+   "Unser Guide macht Ihre Social-Media-tauglichen Fotos",
+   "Mahlzeiten in einem 5-Sterne-Hotel (falls Option ausgewählt)",
+   "Wasserflaschen und Überschuhe",
+   "Alle Mautgebühren, Steuern, und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Jegliche Getränke, die zum Mittagessen serviert werden"
+  ]
+ },
+ "overnight-periyar-wildlife-nature-escape-guided": {
+  "title": "Geführte Übernachtungstour: Periyar Wildnis- und Naturflucht",
+  "metaTitle": "Periyar: Wildnis- und Naturflucht, Übernachtung",
+  "metaDescription": "Malerische Fahrt durch Keralas Hügelland.",
+  "shortDescription": "Malerische Fahrt durch Keralas Hügelland.",
+  "fullDescription": "**Über Periyar (Thekkady)**\nErleben Sie die ruhige Schönheit der westlichen Ghats Keralas auf dieser entspannenden Übernachtungsflucht nach Periyar. Umgeben von üppigen Wäldern, nebligen Hügeln, Gewürzplantagen, und ruhigen Seen, bietet Thekkady den perfekten Rückzugsort für Naturliebhaber. Diese Tour konzentriert sich auf malerische Landschaften, lokale Kultur, und das reiche Gewürzerbe Keralas. Entdecken Sie duftende Gewürzgärten, genießen Sie atemberaubende Aussichtspunkte, erkunden Sie lokale Märkte, und tauchen Sie ein in die natürliche Schönheit eines der malerischsten Ziele Keralas.\n\n**Tag 1: Ankunft / Abholung vom Hotel oder Flughafen Kochi, Thekkady (160 km / 4 bis 5 Stunden)**\n\"Gottes eigenes Land\"\nAbholung vom Flughafen Kochi, Hotel, oder Bahnhof. Beginnen Sie Ihre malerische Reise nach Thekkady durch üppige grüne Landschaften, Kautschukplantagen, Wasserfälle, und charmante Dörfer.\n\nBei der Ankunft in Thekkady checken Sie im Hotel ein. Nach dem Auffrischen geht es weiter zu einem geführten Besuch einer traditionellen Gewürzplantage. Erfahren Sie mehr über Keralas berühmte Gewürze, einschließlich Kardamom, Pfeffer, Zimt, Nelken, Vanille, und Muskatnuss. Entdecken Sie, wie diese Gewürze angebaut und verarbeitet werden. Danach geht es weiter zu einer Bootsfahrt auf dem Periyar-See. Eines der Highlights des Besuchs des Periyar-Sees ist die malerische Bootsfahrt durch das Herz des Periyar-Tigerreservats. Diese entspannende Kreuzfahrt bietet Besuchern eine einzigartige Möglichkeit, die natürliche Schönheit der Wildnis Keralas von den ruhigen Gewässern des Sees aus zu erleben.\n\nAm Abend genießen Sie eine traditionelle kulturelle Vorstellung Keralas mit Kathakali-Tanz. Übernachtung in Thekkady.\n\n**Tag 2: Thekkady (Naturwanderung), Abreise zum Flughafen/Hotel Kochi (160 km / 4-5 Stunden)**\nNaturwanderung. Die Periyar-Naturwanderung ist ein friedliches und intensives Erlebnis, das Besuchern ermöglicht, die malerische Schönheit der Wälder rund um das Periyar-Tigerreservat zu erkunden. Begleitet von erfahrenen Naturführern, wandern die Teilnehmer entlang gut ausgewählter Waldpfade und genießen die Ruhe und den natürlichen Charme der westlichen Ghats.\n\n**Highlights**\nGeführter Spaziergang durch schöne Waldpfade\nErfahren Sie mehr über lokale Pflanzen, Bäume, und Heilkräuter\nErfahren Sie mehr über die vielfältige Pflanzen- und Tierwelt der westlichen Ghats\nGenießen Sie malerische Landschaften und ruhige Umgebung\nAusgezeichnete Möglichkeiten für Naturfotografie\nErleben Sie frische Bergluft und Waldruhe\nGeeignet für alle Altersgruppen und Fitnessniveaus\n\nSpäter geht es weiter nach Kochi; bei der Ankunft in Kochi hilft Ihnen unser Fahrer, Sie am Flughafen/Hotel Kochi mit vielen süßen Erinnerungen abzusetzen.",
+  "highlights": [
+   "Malerische Fahrt durch Keralas Hügelland"
+  ],
+  "included": [
+   "1 Nacht Hotelunterkunft in 3-/4-/5-Sterne-Hotels (falls Option gewählt/ausgewählt)",
+   "1 köstliches Frühstück im Hotel während des Aufenthalts",
+   "Alle Transfers und Besichtigungen im Auto",
+   "Privates Auto für die gesamte Tour",
+   "Dienste eines englischsprachigen Fahrers",
+   "Wasserflasche",
+   "Alle anwendbaren Steuern und Servicegebühren"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Kameragebühren",
+   "Jegliche persönliche Ausgaben",
+   "Eintrittsgebühren für Denkmäler, Kameragebühren",
+   "Kosten für das Silvester- und Weihnachtsgala-Abendessen"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
