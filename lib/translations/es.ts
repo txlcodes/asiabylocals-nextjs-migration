@@ -23003,6 +23003,78 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "same-day-tour-of-amritsar-from-delhi-with-flight": {
+  "title": "Tour de un día a Amritsar desde Delhi, con boletos de avión",
+  "metaTitle": "Delhi: Amritsar en un día, con vuelo",
+  "metaDescription": "Viaje espiritual de un día a la Ciudad Dorada de Amritsar, comienza y termina en Delhi.",
+  "shortDescription": "Viaje espiritual de un día a la Ciudad Dorada de Amritsar, comienza y termina en Delhi.",
+  "fullDescription": "Tour de un día a Amritsar desde Delhi, con boletos de avión. Viaje espiritual de un día a la Ciudad Dorada de Amritsar, comienza y termina en Delhi.\n\nAl llegar al aeropuerto de Amritsar desde Delhi a las 7:15, será recibido por nuestro representante, quien le presentará a su conductor o guía.\n\nSu primera parada será el icónico Templo Dorado, una serena y espiritual obra maestra que es el corazón de Amritsar. Tómese el tiempo suficiente para explorar sus alrededores sagrados y sus aguas tranquilas.\n\nEl Templo Dorado tiene la cocina gratuita o cocina comunitaria más grande del mundo, también conocida como \"langar\", que sirve entre 50.000 y 100.000 comidas calientes cada día a las almas hambrientas.\n\nA continuación, diríjase a Jallianwala Bagh, un sitio histórico que sirve como un conmovedor recordatorio de la lucha por la independencia de la India.\n\nDisfrute de un almuerzo tradicional punjabi en un restaurante local, saboreando los ricos sabores de la cocina regional (opcional).\n\nPor la tarde, visite la frontera de Wagah para presenciar la electrizante Ceremonia de la Retirada.\n\nSi el tiempo lo permite, explore los vibrantes bazares locales en busca de auténticas artesanías y delicias punjabis.\n\nConcluya su día con una cómoda entrega en el aeropuerto de Amritsar para su viaje de regreso.\n\n**Información del vuelo de Delhi a Amritsar**\nIndigo 6E - 5103 (5:45 Delhi a 7:00 Amritsar).\n\n**Información del vuelo de Amritsar a Delhi**\nIndigo 6E - 2473 (22:20 Amritsar a 23:35 Delhi).\n\n**Qué incluye**\nTraslados y visitas durante todo el tour en un auto privado con aire acondicionado\nGuía profesional privado\nConductor profesional que habla bien hindi e inglés\nCapacidad de transporte: 1 a 2 personas en un sedán con aire acondicionado, Toyota Etios, y 3 a 5 personas en un SUV con aire acondicionado o una Innova Crysta\nTodos los peajes, estacionamiento, combustible, impuestos, y cargos de servicio\nBotellas de agua mineral durante los trayectos\nTodo tipo de tarifa de entrada incluida\nVuelos de ida y vuelta entre Delhi y Amritsar incluidos (si se selecciona esta opción)\n\n**No incluye**\nCualquier tipo de boleto de avión no está incluido\nCualquier tipo de comida y bebidas no está incluido\nCualquier tipo de hotel o alojamiento no está incluido",
+  "highlights": [
+   "Viaje espiritual de un día a la Ciudad Dorada de Amritsar, comienza y termina en Delhi"
+  ],
+  "included": [
+   "Traslados y visitas durante todo el tour en un auto privado con aire acondicionado",
+   "Guía profesional privado",
+   "Conductor profesional que habla bien hindi e inglés",
+   "Capacidad de transporte: 1 a 2 personas en un sedán con aire acondicionado, Toyota Etios, y 3 a 5 personas en un SUV con aire acondicionado o una Innova Crysta",
+   "Todos los peajes, estacionamiento, combustible, impuestos, y cargos de servicio",
+   "Botellas de agua mineral durante los trayectos",
+   "Todo tipo de tarifa de entrada incluida",
+   "Vuelos de ida y vuelta entre Delhi y Amritsar incluidos (si se selecciona esta opción)"
+  ],
+  "notIncluded": [
+   "Cualquier tipo de boleto de avión no está incluido",
+   "Cualquier tipo de comida y bebidas no está incluido",
+   "Cualquier tipo de hotel o alojamiento no está incluido"
+  ]
+ },
+ "delhi-same-day-taj-mahal-tour-by-luxury-car": {
+  "title": "Delhi: tour del Taj Mahal el mismo día en auto de lujo, con almuerzo 5 estrellas",
+  "metaTitle": "Delhi: Taj Mahal en auto de lujo",
+  "metaDescription": "De Delhi a Agra, use un auto premium como un Audi, Mercedes, o BMW.",
+  "shortDescription": "De Delhi a Agra, use un auto premium como un Audi, Mercedes, o BMW.",
+  "fullDescription": "Delhi: tour del Taj Mahal el mismo día en auto de lujo, con almuerzo 5 estrellas. De Delhi a Agra, use un auto premium como un Audi, Mercedes, o BMW.\n\nSerá recogido por nuestro conductor profesional en la comodidad de su auto de lujo desde su hotel o el aeropuerto en Delhi, Noida, o Gurugram. Recuéstese, y relájese mientras viaja a Agra por la autopista Yamuna, la ruta más rápida y segura de Delhi a Agra.\n\nA su llegada, conozca a su amable guía local, quien lo recibirá, y le entregará sus boletos de entrada VIP previamente reservados. Continúe hacia la visita del Taj Mahal, un sitio del Patrimonio Mundial de la UNESCO, y símbolo eterno del amor construido por el emperador Shah Jahan en memoria de su amada esposa Mumtaz Mahal.\n\nA continuación, explore el magnífico fuerte de Agra, otro sitio del Patrimonio Mundial de la UNESCO. Este gran fuerte de arenisca roja, construido por el emperador Akbar en 1565, combina hermosamente los estilos arquitectónicos hindúes y de Asia Central.\n\nDespués de la exploración, disfrute de un delicioso almuerzo 5 estrellas en el Hotel Hilton Agra, con una selección de platos indios e internacionales.\n\nConcluya su día con una visita a la tumba de Itimad-ud-Daulah, a menudo llamada el \"Baby Taj\". Esta elegante estructura de mármol fue encargada por Noor Jahan en memoria de su padre.\n\nSu memorable día termina con un cómodo trayecto de regreso a su hotel o al aeropuerto en Delhi, Noida, o Gurugram.\n\n**Qué incluye**\nViaje en su vehículo premium preferido, como un Audi, Mercedes, o BMW\nDisfrute de los servicios de un chófer profesional y cortés\nUn guía experto le proporcionará información detallada e historias sobre el Taj Mahal y el fuerte de Agra\nTodos los costos de entrada al Taj Mahal y al fuerte de Agra están incluidos\nDisfrute de una comida suntuosa en un exclusivo hotel 5 estrellas en Agra\nDurante todo el viaje, se proporcionan agua embotellada y refrigerios de cortesía",
+  "highlights": [
+   "De Delhi a Agra, use un auto premium como un Audi, Mercedes, o BMW"
+  ],
+  "included": [
+   "Viaje en su vehículo premium preferido, como un Audi, Mercedes, o BMW",
+   "Disfrute de los servicios de un chófer profesional y cortés",
+   "Un guía experto le proporcionará información detallada e historias sobre el Taj Mahal y el fuerte de Agra",
+   "Todos los costos de entrada al Taj Mahal y al fuerte de Agra están incluidos",
+   "Disfrute de una comida suntuosa en un exclusivo hotel 5 estrellas en Agra",
+   "Durante todo el viaje, se proporcionan agua embotellada y refrigerios de cortesía"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "from-delhi-private-3-day-golden-triangle-tour-all": {
+  "title": "Desde Delhi: tour privado del Triángulo Dorado de 3 días todo incluido",
+  "metaTitle": "Delhi: Triángulo Dorado privado 3 días, todo incluido",
+  "metaDescription": "Explore Qutub Minar, un sitio del Patrimonio Mundial de la UNESCO.",
+  "shortDescription": "Explore Qutub Minar, un sitio del Patrimonio Mundial de la UNESCO.",
+  "fullDescription": "Desde Delhi: tour privado del Triángulo Dorado de 3 días todo incluido. Explore Qutub Minar, un sitio del Patrimonio Mundial de la UNESCO.\n\n**Día 1: Delhi a Agra (210 km)**\nPrimer día del tour del Triángulo Dorado de 3 días, nuestro representante de la empresa lo recibirá en el aeropuerto o el hotel de Delhi. Explore la impresionante belleza de Delhi disfrutando de la visita a las famosas atracciones de la capital de la India, como Qutub Minar, el Templo del Loto, Raj Ghat, Chandni Chowk, la Casa del Presidente (Rashtrapati Bhavan), y India Gate. Después del tour por la ciudad de Delhi, disfrute de una deliciosa comida. Ahora viaje hacia la histórica ciudad de Agra por la autopista Yamuna. Llegue a Agra, y regístrese en el hotel de Agra. Noche en el hotel de Agra.\n\n**Día 2: Agra a Jaipur (250 km)**\nTemprano por la mañana, visite la maravillosa y atemporal belleza del Taj Mahal durante el amanecer. Regreso al hotel para el desayuno. Visite el histórico fuerte de Agra, también llamado Fuerte Rojo, y explore el mercado tradicional local de Agra. Después del almuerzo, traslado a Jaipur, la ciudad rosa. A su llegada, regístrese en el hotel de Jaipur. Noche en el hotel de Jaipur.\n\n**Día 3: Jaipur a Delhi (260 km)**\nComience su día con el desayuno, y explore Jaipur, visitando las principales atracciones de la hermosa ciudad de Jaipur como el fuerte Amer (Palacio Amber), el Jantar Mantar (observatorio), el Hawa Mahal, el Jal Mahal, el City Palace, y otros lugares. Más tarde, viajará hacia Delhi, y será dejado en el aeropuerto o el hotel; su tour termina con maravillosos recuerdos del tour del Triángulo Dorado de 3 días.\n\n**Qué incluye**\nAlojamiento de 2 noches en hoteles (si se elige esta opción)\nDesayuno diario en el hotel\nEntradas a monumentos (si se selecciona esta opción)\nTransporte en auto privado con aire acondicionado\nTodas las visitas de la ciudad con guía turístico privado\nRecogida y regreso desde el hotel, aeropuerto, o cualquier lugar en Delhi, Gurugram, y Noida\nPaseo en autobús eléctrico en el Taj Mahal\nAtención personalizada\nBotellas de agua mineral durante el tour\nTodos los impuestos y combustible, tarifas de estacionamiento, y asignaciones del conductor\n\n**No incluye**\nAlmuerzo y cena\nGratificaciones",
+  "highlights": [
+   "Explore Qutub Minar, un sitio del Patrimonio Mundial de la UNESCO"
+  ],
+  "included": [
+   "Alojamiento de 2 noches en hoteles (si se elige esta opción)",
+   "Desayuno diario en el hotel",
+   "Entradas a monumentos (si se selecciona esta opción)",
+   "Transporte en auto privado con aire acondicionado",
+   "Todas las visitas de la ciudad con guía turístico privado",
+   "Recogida y regreso desde el hotel, aeropuerto, o cualquier lugar en Delhi, Gurugram, y Noida",
+   "Paseo en autobús eléctrico en el Taj Mahal",
+   "Atención personalizada",
+   "Botellas de agua mineral durante el tour",
+   "Todos los impuestos y combustible, tarifas de estacionamiento, y asignaciones del conductor"
+  ],
+  "notIncluded": [
+   "Almuerzo y cena",
+   "Gratificaciones"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",

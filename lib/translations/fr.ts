@@ -23003,6 +23003,78 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "same-day-tour-of-amritsar-from-delhi-with-flight": {
+  "title": "Visite d'Amritsar le jour même depuis Delhi, avec billets d'avion",
+  "metaTitle": "Delhi : Amritsar en une journée, avec vol",
+  "metaDescription": "Voyage spirituel d'une journée vers la ville dorée d'Amritsar, départ et retour à Delhi.",
+  "shortDescription": "Voyage spirituel d'une journée vers la ville dorée d'Amritsar, départ et retour à Delhi.",
+  "fullDescription": "Visite d'Amritsar le jour même depuis Delhi, avec billets d'avion. Voyage spirituel d'une journée vers la ville dorée d'Amritsar, départ et retour à Delhi.\n\nÀ votre arrivée à l'aéroport d'Amritsar depuis Delhi à 7h15, vous serez accueilli par notre représentant, qui vous présentera votre chauffeur ou guide.\n\nVotre premier arrêt sera l'emblématique Temple d'or, un chef-d'œuvre serein et spirituel qui est le cœur d'Amritsar. Prenez le temps d'explorer ses environs sacrés et ses eaux tranquilles.\n\nLe Temple d'or abrite la plus grande cuisine gratuite ou cuisine communautaire au monde, également connue sous le nom de « langar », qui sert entre 50 000 et 100 000 repas chauds chaque jour aux âmes affamées.\n\nEnsuite, rendez-vous à Jallianwala Bagh, un site historique qui rappelle de manière poignante la lutte pour l'indépendance de l'Inde.\n\nSavourez un déjeuner traditionnel pendjabi dans un restaurant local, en appréciant les riches saveurs de la cuisine régionale (optionnel).\n\nL'après-midi, visitez la frontière de Wagah pour assister à l'électrisante cérémonie de la retraite.\n\nSi le temps le permet, explorez les bazars locaux vibrants pour de l'artisanat et des spécialités pendjabies authentiques.\n\nTerminez votre journée par un dépôt confortable à l'aéroport d'Amritsar pour votre voyage de retour.\n\n**Informations sur le vol Delhi vers Amritsar**\nIndigo 6E - 5103 (5h45 Delhi à 7h00 Amritsar).\n\n**Informations sur le vol Amritsar vers Delhi**\nIndigo 6E - 2473 (22h20 Amritsar à 23h35 Delhi).\n\n**Ce qui est inclus**\nTransferts et visites tout au long du circuit en voiture privée climatisée\nGuide professionnel privé\nChauffeur professionnel parlant bien l'hindi et l'anglais\nCapacité de transport : 1 à 2 personnes dans une berline climatisée, Toyota Etios, et 3 à 5 personnes dans un SUV climatisé ou une Innova Crysta\nTous les péages, le stationnement, le carburant, les taxes, et les frais de service\nBouteilles d'eau minérale pendant les trajets\nTous les types de frais d'entrée inclus\nVols aller-retour entre Delhi et Amritsar inclus (si l'option est sélectionnée)\n\n**Non inclus**\nTout type de billet d'avion n'est pas inclus\nTout type de nourriture et boissons n'est pas inclus\nTout type d'hôtel ou d'hébergement n'est pas inclus",
+  "highlights": [
+   "Voyage spirituel d'une journée vers la ville dorée d'Amritsar, départ et retour à Delhi"
+  ],
+  "included": [
+   "Transferts et visites tout au long du circuit en voiture privée climatisée",
+   "Guide professionnel privé",
+   "Chauffeur professionnel parlant bien l'hindi et l'anglais",
+   "Capacité de transport : 1 à 2 personnes dans une berline climatisée, Toyota Etios, et 3 à 5 personnes dans un SUV climatisé ou une Innova Crysta",
+   "Tous les péages, le stationnement, le carburant, les taxes, et les frais de service",
+   "Bouteilles d'eau minérale pendant les trajets",
+   "Tous les types de frais d'entrée inclus",
+   "Vols aller-retour entre Delhi et Amritsar inclus (si l'option est sélectionnée)"
+  ],
+  "notIncluded": [
+   "Tout type de billet d'avion n'est pas inclus",
+   "Tout type de nourriture et boissons n'est pas inclus",
+   "Tout type d'hôtel ou d'hébergement n'est pas inclus"
+  ]
+ },
+ "delhi-same-day-taj-mahal-tour-by-luxury-car": {
+  "title": "Delhi : visite du Taj Mahal le jour même en voiture de luxe, avec déjeuner 5 étoiles",
+  "metaTitle": "Delhi : Taj Mahal en voiture de luxe",
+  "metaDescription": "De Delhi à Agra, utilisez une voiture premium telle qu'une Audi, Mercedes, ou BMW.",
+  "shortDescription": "De Delhi à Agra, utilisez une voiture premium telle qu'une Audi, Mercedes, ou BMW.",
+  "fullDescription": "Delhi : visite du Taj Mahal le jour même en voiture de luxe, avec déjeuner 5 étoiles. De Delhi à Agra, utilisez une voiture premium telle qu'une Audi, Mercedes, ou BMW.\n\nVous serez pris en charge par notre chauffeur professionnel dans le confort de votre voiture de luxe, depuis votre hôtel ou l'aéroport à Delhi, Noida, ou Gurugram. Installez-vous confortablement, et détendez-vous pendant le trajet vers Agra via l'autoroute Yamuna, l'itinéraire le plus rapide et le plus sûr de Delhi à Agra.\n\nÀ votre arrivée, rencontrez votre sympathique guide local, qui vous accueillera, et vous fournira vos billets d'entrée VIP préréservés. Poursuivez vers la visite du Taj Mahal, un site du patrimoine mondial de l'UNESCO, et symbole éternel de l'amour construit par l'empereur Shah Jahan en mémoire de son épouse bien-aimée Mumtaz Mahal.\n\nEnsuite, explorez le magnifique fort d'Agra, un autre site du patrimoine mondial de l'UNESCO. Ce grand fort en grès rouge, construit par l'empereur Akbar en 1565, mélange harmonieusement les styles architecturaux hindous et d'Asie centrale.\n\nAprès l'exploration, savourez un délicieux déjeuner 5 étoiles à l'hôtel Hilton Agra, proposant une sélection de plats indiens et internationaux.\n\nTerminez votre journée par une visite de la tombe d'Itimad-ud-Daulah, souvent appelée le « Baby Taj ». Cette élégante structure en marbre a été commandée par Noor Jahan en mémoire de son père.\n\nVotre journée mémorable se termine par un trajet confortable de retour à votre hôtel ou à l'aéroport à Delhi, Noida, ou Gurugram.\n\n**Ce qui est inclus**\nVoyagez dans votre véhicule premium préféré, tel qu'une Audi, Mercedes, ou BMW\nProfitez des services d'un chauffeur professionnel et courtois\nUn guide expert vous fournira des informations détaillées et des récits sur le Taj Mahal et le fort d'Agra\nTous les frais d'entrée au Taj Mahal et au fort d'Agra sont inclus\nSavourez un repas somptueux dans un hôtel 5 étoiles haut de gamme à Agra\nTout au long du voyage, de l'eau en bouteille et des rafraîchissements offerts sont fournis",
+  "highlights": [
+   "De Delhi à Agra, utilisez une voiture premium telle qu'une Audi, Mercedes, ou BMW"
+  ],
+  "included": [
+   "Voyagez dans votre véhicule premium préféré, tel qu'une Audi, Mercedes, ou BMW",
+   "Profitez des services d'un chauffeur professionnel et courtois",
+   "Un guide expert vous fournira des informations détaillées et des récits sur le Taj Mahal et le fort d'Agra",
+   "Tous les frais d'entrée au Taj Mahal et au fort d'Agra sont inclus",
+   "Savourez un repas somptueux dans un hôtel 5 étoiles haut de gamme à Agra",
+   "Tout au long du voyage, de l'eau en bouteille et des rafraîchissements offerts sont fournis"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "from-delhi-private-3-day-golden-triangle-tour-all": {
+  "title": "Depuis Delhi : circuit privé du Triangle d'or de 3 jours tout compris",
+  "metaTitle": "Delhi : Triangle d'or privé 3 jours, tout compris",
+  "metaDescription": "Explorez Qutub Minar, un site du patrimoine mondial de l'UNESCO.",
+  "shortDescription": "Explorez Qutub Minar, un site du patrimoine mondial de l'UNESCO.",
+  "fullDescription": "Depuis Delhi : circuit privé du Triangle d'or de 3 jours tout compris. Explorez Qutub Minar, un site du patrimoine mondial de l'UNESCO.\n\n**Jour 1 : Delhi à Agra (210 km)**\nPremier jour du circuit du Triangle d'or de 3 jours, notre représentant vous rencontrera à l'aéroport ou à l'hôtel de Delhi. Explorez la magnifique beauté de Delhi en profitant de la visite des attractions célèbres de la capitale de l'Inde, telles que Qutub Minar, le temple du Lotus, Raj Ghat, Chandni Chowk, la résidence présidentielle (Rashtrapati Bhavan), et India Gate. Après la visite de la ville de Delhi, savourez un délicieux repas. Roulez ensuite vers la ville historique d'Agra via l'autoroute Yamuna. Arrivez à Agra, et enregistrement à l'hôtel d'Agra. Nuit à l'hôtel d'Agra.\n\n**Jour 2 : Agra à Jaipur (250 km)**\nTôt le matin, visitez la merveilleuse et intemporelle beauté du Taj Mahal au lever du soleil. Retour à l'hôtel pour le petit-déjeuner. Visitez l'historique fort d'Agra, également appelé fort rouge, et explorez le marché traditionnel local d'Agra. Après le déjeuner, route vers Jaipur, la ville rose. À l'arrivée, enregistrement à l'hôtel de Jaipur. Nuit à l'hôtel de Jaipur.\n\n**Jour 3 : Jaipur à Delhi (260 km)**\nCommencez votre journée par le petit-déjeuner, et explorez Jaipur, en visitant les principales attractions de la magnifique ville de Jaipur telles que le fort Amer (palais Amber), le Jantar Mantar (observatoire), le Hawa Mahal, le Jal Mahal, le City Palace, et d'autres lieux. Plus tard, vous roulerez vers Delhi, et serez déposé à l'aéroport ou à l'hôtel ; votre circuit se termine avec de merveilleux souvenirs du circuit du Triangle d'or de 3 jours.\n\n**Ce qui est inclus**\nHébergement de 2 nuits dans des hôtels (si l'option est choisie)\nPetit-déjeuner quotidien à l'hôtel\nBillets d'entrée aux monuments (si l'option est sélectionnée)\nTransport en voiture privée climatisée\nToutes les visites de la ville avec guide touristique privé\nPrise en charge et retour depuis l'hôtel, l'aéroport, ou tout endroit à Delhi, Gurugram, et Noida\nTrajet en bus électrique au Taj Mahal\nSoin personnalisé\nBouteilles d'eau minérale pendant le circuit\nToutes les taxes et le carburant, les frais de stationnement, et les indemnités de chauffeur\n\n**Non inclus**\nDéjeuner et dîner\nGratifications",
+  "highlights": [
+   "Explorez Qutub Minar, un site du patrimoine mondial de l'UNESCO"
+  ],
+  "included": [
+   "Hébergement de 2 nuits dans des hôtels (si l'option est choisie)",
+   "Petit-déjeuner quotidien à l'hôtel",
+   "Billets d'entrée aux monuments (si l'option est sélectionnée)",
+   "Transport en voiture privée climatisée",
+   "Toutes les visites de la ville avec guide touristique privé",
+   "Prise en charge et retour depuis l'hôtel, l'aéroport, ou tout endroit à Delhi, Gurugram, et Noida",
+   "Trajet en bus électrique au Taj Mahal",
+   "Soin personnalisé",
+   "Bouteilles d'eau minérale pendant le circuit",
+   "Toutes les taxes et le carburant, les frais de stationnement, et les indemnités de chauffeur"
+  ],
+  "notIncluded": [
+   "Déjeuner et dîner",
+   "Gratifications"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
