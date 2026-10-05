@@ -27032,6 +27032,52 @@ export const ES_TOURS: Record<string, TourT> = {
    "Almuerzo\nEntradas SOS\nCualquier gasto personal"
   ]
  },
+ "night-view-of-delhi-tour-4-hrs": {
+  "title": "Tour nocturno de Delhi - 4 h",
+  "metaTitle": "Tour nocturno de Delhi - 4 h",
+  "metaDescription": "Tour nocturno de Delhi de 4 horas en vehículo privado con aire acondicionado y guía, descubra los monumentos iluminados.",
+  "shortDescription": "Entrar en los templos requiere un código de vestimenta, se deben cubrir los brazos y los hombros.",
+  "fullDescription": "Tour nocturno de Delhi - 4 h. Entrar en los templos requiere un código de vestimenta, se deben cubrir los brazos y los hombros.\n\nEl conductor se reunirá con usted en su hotel en Delhi/Gurugram/Noida o en el aeropuerto a las 18:00 (0600 PM) (recogida flexible en el aeropuerto) y comenzará su tour de avistamiento de los monumentos de Delhi con un guía privado. El atractivo de la capital de la India, Delhi, adquiere una dimensión completamente nueva por la noche. Un viaje nocturno de 4 horas ofrece una vista relajante de las amplias avenidas de Delhi, que se vuelven aún más encantadoras y acogedoras cuando el cielo estrellado despejado brilla sobre los monumentos.\n\nUn agradable paseo para explorar India Gate, el Palacio Presidencial (paso en coche), el Parlamento (paso en coche), el Gurdwara Bangla Sahib, el Templo Shri Laxmi Narayan (Birla Mandir), el Templo ISKCON, en Delhi, antes de un recorrido por Delhi de noche. Connaught Place, uno de los mercados comerciales más antiguos del Delhi de Lutyens, es una visita obligada.\n\nLos paseantes nocturnos inundan India Gate por la noche. El destino final será el Gurdwara Bangla Sahib, un santuario sij históricamente significativo. Después de ver todos los sitios, el conductor lo llevará de regreso a su hotel o aeropuerto. Termine su noche en Delhi con maravillosos recuerdos. El conductor lo dejará en el aeropuerto o en el hotel en Delhi.\n\nNOTA:\n1) En invierno, puede haber algunos sitios que cierren antes o que no se puedan ver debido a la niebla.\n\n2) La Casa Presidencial (paso en coche): no se permite fotografía ni parada debido al protocolo de seguridad presidencial.\n\n3) En invierno, los templos cierran a las 19:30. Y en verano: a las 20:30.\n\n### Qué incluye\n\n- Todos los peajes, impuestos, estacionamiento, combustible, dietas del conductor\n- Vehículo privado con aire acondicionado y conductor\n- Servicio de recogida y traslado al hotel o aeropuerto\n- Guía turístico de habla inglesa en Delhi\n- Botella de agua mineral empaquetada en el coche\n\n### No incluye\n\n- Cualquier tarifa de entrada a monumentos\n- Cualquier comida y bebida no incluida en este precio\n- Cualquier propina o gratificación\n- Cualquier gasto personal\n- Souvenirs o fotos (disponibles para comprar)",
+  "highlights": [
+   "Entrar en los templos requiere un código de vestimenta, se deben cubrir los brazos y los hombros"
+  ],
+  "included": [
+   "Todos los peajes, impuestos, estacionamiento, combustible, dietas del conductor\nVehículo privado con aire acondicionado y conductor\nServicio de recogida y traslado al hotel o aeropuerto\nGuía turístico de habla inglesa en Delhi\nBotella de agua mineral empaquetada en el coche"
+  ],
+  "notIncluded": [
+   "Cualquier tarifa de entrada a monumentos\nCualquier comida y bebida no incluida en este precio\nCualquier propina o gratificación\nCualquier gasto personal\nSouvenirs o fotos (disponibles para comprar)"
+  ]
+ },
+ "indira-gandhi-museum-indias-1st-woman-prime": {
+  "title": "Museo Indira Gandhi: la 1.ª primera ministra de la India",
+  "metaTitle": "Museo Indira Gandhi: la 1.ª primera ministra",
+  "metaDescription": "Sumérjase en la vida y el legado de Indira Gandhi en su museo, la antigua residencia de la primera ministra en Delhi.",
+  "shortDescription": "Sumérjase en la vida y el legado de Indira Gandhi en su museo",
+  "fullDescription": "Museo Indira Gandhi: la 1.ª primera ministra de la India. Sumérjase en la vida y el legado de Indira Gandhi en su museo.\n\nComience su viaje con transporte privado y con aire acondicionado desde su hotel en Delhi. Diríjase al Museo Nacional Indira Gandhi, la antigua residencia de Indira Gandhi, ahora convertida en museo.\n\nDescubra objetos personales, fotografías y documentos que ofrecen una visión de su vida y liderazgo. Visite el conmovedor lugar donde Indira Gandhi fue asesinada, preservado como memorial con un pasillo de vidrio e inscripciones.\n\nObtenga una comprensión más profunda de la historia política de la India y los desafíos enfrentados durante su mandato como primera ministra. Interactúe con exhibiciones multimedia que destacan eventos clave de su vida, incluyendo el período de emergencia y sus contribuciones al desarrollo de la India.\n\nCapture la histórica residencia, los objetos expuestos y el sereno jardín que rodea el museo.\n\n### Qué incluye\n\n- Recogida y traslado al hotel en Delhi en un vehículo privado con aire acondicionado\n- Servicios de un guía conocedor y amigable\n- Agua embotellada y refrigerios ligeros durante el trayecto\n- Asistencia con la traducción del idioma local para una comunicación fluida durante la visita",
+  "highlights": [
+   "Sumérjase en la vida y el legado de Indira Gandhi en su museo"
+  ],
+  "included": [
+   "Recogida y traslado al hotel en Delhi en un vehículo privado con aire acondicionado\nServicios de un guía conocedor y amigable\nAgua embotellada y refrigerios ligeros durante el trayecto\nAsistencia con la traducción del idioma local para una comunicación fluida durante la visita"
+  ],
+  "notIncluded": []
+ },
+ "from-delhi-6-day-goldentriangle-tour-with": {
+  "title": "Desde Delhi: tour de 6 días del Triángulo Dorado con Varanasi en avión",
+  "metaTitle": "Desde Delhi: tour de 6 días Triángulo Dorado y Varanasi",
+  "metaDescription": "Paseo en barco al amanecer por el sagrado Ganges en Varanasi, en un tour de 6 días del Triángulo Dorado.",
+  "shortDescription": "Paseo en barco al amanecer por el sagrado Ganges en Varanasi",
+  "fullDescription": "Desde Delhi: tour de 6 días del Triángulo Dorado con Varanasi en avión. Paseo en barco al amanecer por el sagrado Ganges en Varanasi.\n\nExperimente uno de los viajes más hermosos desde New Delhi hasta Agra, visitando Delhi, Agra, Jaipur y Varanasi. Reserve este tour privado del Triángulo Dorado con Varanasi para un viaje inolvidable de 5 noches/6 días.\n\n### Qué incluye\n\n- Tour privado guiado con conductor personal\n- 5 noches de estancia en hotel con desayuno (si se elige la opción de hotel)\n- Desayuno diario en el hotel (si se elige la opción de hotel)\n- Transporte en coche privado con aire acondicionado\n- Guías locales privados en cada ciudad\n- Todos los impuestos y cargos por servicio incluidos\n- Recogida/traslado en el hotel o aeropuerto\n- Atención personalizada y asistencia 24/7\n- Vuelo: Delhi a Varanasi (15 kg de equipaje facturado + 7 kg de equipaje de mano permitidos)\n- Vuelo: Varanasi a Delhi (15 kg de equipaje facturado + 7 kg de equipaje de mano permitidos)\n- Recogida y traslado en el aeropuerto de Varanasi\n- Paseo en barco en Varanasi\n\n### No incluye\n\n- Propinas (opcionales)\n- Almuerzo y cena\n- Cualquier gasto personal",
+  "highlights": [
+   "Paseo en barco al amanecer por el sagrado Ganges en Varanasi"
+  ],
+  "included": [
+   "Tour privado guiado con conductor personal\n5 noches de estancia en hotel con desayuno (si se elige la opción de hotel)\nDesayuno diario en el hotel (si se elige la opción de hotel)\nTransporte en coche privado con aire acondicionado\nGuías locales privados en cada ciudad\nTodos los impuestos y cargos por servicio incluidos\nRecogida/traslado en el hotel o aeropuerto\nAtención personalizada y asistencia 24/7\nVuelo: Delhi a Varanasi (15 kg de equipaje facturado + 7 kg de equipaje de mano permitidos)\nVuelo: Varanasi a Delhi (15 kg de equipaje facturado + 7 kg de equipaje de mano permitidos)\nRecogida y traslado en el aeropuerto de Varanasi\nPaseo en barco en Varanasi"
+  ],
+  "notIncluded": [
+   "Propinas (opcionales)\nAlmuerzo y cena\nCualquier gasto personal"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",

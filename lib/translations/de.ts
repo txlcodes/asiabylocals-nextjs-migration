@@ -27032,6 +27032,52 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mittagessen\nSOS-Eintrittskarten\nJegliche persönlichen Ausgaben"
   ]
  },
+ "night-view-of-delhi-tour-4-hrs": {
+  "title": "Nächtliche Delhi-Tour - 4 Std.",
+  "metaTitle": "Nächtliche Delhi-Tour - 4 Std.",
+  "metaDescription": "4-stündige nächtliche Tour durch Delhi im privaten klimatisierten Fahrzeug mit Führer, entdecken Sie die beleuchteten Denkmäler.",
+  "shortDescription": "Für den Eintritt in Tempel gilt ein Kleidungskodex, Arme und Schultern müssen bedeckt sein.",
+  "fullDescription": "Nächtliche Delhi-Tour - 4 Std. Für den Eintritt in Tempel gilt ein Kleidungskodex, Arme und Schultern müssen bedeckt sein.\n\nDer Fahrer trifft Sie um 18:00 Uhr (0600 PM) an Ihrem Hotel in Delhi/Gurugram/Noida oder am Flughafen (flexible Flughafenabholung) und beginnt Ihre Besichtigungstour zu den Denkmälern von Delhi mit einem privaten Reiseführer. Die Faszination von Indiens Hauptstadt Delhi bekommt bei Nacht eine ganz neue Dimension. Eine 4-stündige nächtliche Fahrt bietet einen entspannten Blick auf Delhis weitläufige Alleen, die noch schöner und einladender wirken, wenn der klare Sternenhimmel über den Denkmälern erstrahlt.\n\nEin herrlicher Spaziergang zur Besichtigung von India Gate, dem Präsidentenpalast (Vorbeifahrt), dem Parlamentsgebäude (Vorbeifahrt), dem Gurdwara Bangla Sahib, dem Shri-Laxmi-Narayan-Tempel (Birla Mandir), dem ISKCON-Tempel in Delhi, bevor es auf eine nächtliche Fahrt durch Delhi geht. Connaught Place, einer der ältesten Einkaufsmärkte im Lutyens-Delhi, ist ein Muss.\n\nAbendspaziergänger strömen am Abend zum India Gate. Das letzte Ziel ist der Gurdwara Bangla Sahib, ein historisch bedeutender Sikh-Schrein. Nach der Besichtigung aller Stätten bringt Sie der Fahrer zurück zu Ihrem Hotel oder Flughafen. Beenden Sie Ihren Abend in Delhi mit wunderbaren Erinnerungen. Der Fahrer setzt Sie am Flughafen oder Hotel in Delhi ab.\n\nHINWEIS:\n1) Im Winter können einige Stätten früher schließen oder wegen Nebel nicht sichtbar sein.\n\n2) Das Präsidentenhaus (Vorbeifahrt): Aufgrund des Sicherheitsprotokolls des Präsidenten ist kein Fotografieren und kein Halt erlaubt.\n\n3) Im Winter schließen die Tempel um 19:30 Uhr. Und im Sommer: 20:30 Uhr.\n\n### Inklusive\n\n- Alle Mautgebühren, Steuern, Parkgebühren, Kraftstoff, Fahrerzulage\n- Privates klimatisiertes Fahrzeug mit Fahrer\n- Abhol- und Rückfahrservice vom Hotel oder Flughafen\n- Englischsprachiger Reiseführer in Delhi\n- Verpackte Mineralwasserflasche im Auto\n\n### Nicht inklusive\n\n- Jegliche Eintrittsgebühr für Denkmäler\n- Jegliches Essen und Trinken, das nicht in diesem Preis enthalten ist\n- Jegliche Trinkgelder\n- Jegliche persönliche Ausgaben\n- Souvenirs oder Fotos (käuflich erhältlich)",
+  "highlights": [
+   "Für den Eintritt in Tempel gilt ein Kleidungskodex, Arme und Schultern müssen bedeckt sein"
+  ],
+  "included": [
+   "Alle Mautgebühren, Steuern, Parkgebühren, Kraftstoff, Fahrerzulage\nPrivates klimatisiertes Fahrzeug mit Fahrer\nAbhol- und Rückfahrservice vom Hotel oder Flughafen\nEnglischsprachiger Reiseführer in Delhi\nVerpackte Mineralwasserflasche im Auto"
+  ],
+  "notIncluded": [
+   "Jegliche Eintrittsgebühr für Denkmäler\nJegliches Essen und Trinken, das nicht in diesem Preis enthalten ist\nJegliche Trinkgelder\nJegliche persönliche Ausgaben\nSouvenirs oder Fotos (käuflich erhältlich)"
+  ]
+ },
+ "indira-gandhi-museum-indias-1st-woman-prime": {
+  "title": "Indira-Gandhi-Museum: Indiens 1. Premierministerin",
+  "metaTitle": "Indira-Gandhi-Museum: Indiens 1. Premierministerin",
+  "metaDescription": "Tauchen Sie ein in Leben und Vermächtnis von Indira Gandhi in ihrem Museum, der ehemaligen Residenz der Premierministerin in Delhi.",
+  "shortDescription": "Tauchen Sie ein in Leben und Vermächtnis von Indira Gandhi in ihrem Museum",
+  "fullDescription": "Indira-Gandhi-Museum: Indiens 1. Premierministerin. Tauchen Sie ein in Leben und Vermächtnis von Indira Gandhi in ihrem Museum.\n\nBeginnen Sie Ihre Reise mit privatem, klimatisiertem Transport von Ihrem Hotel in Delhi. Fahren Sie zum Indira-Gandhi-Nationalmuseum, der ehemaligen Residenz von Indira Gandhi, heute in ein Museum umgewandelt.\n\nEntdecken Sie persönliche Gegenstände, Fotografien und Dokumente, die einen Einblick in ihr Leben und ihre Führungsrolle bieten. Besuchen Sie die ergreifende Stätte, an der Indira Gandhi ermordet wurde, bewahrt als Denkmal mit einem Glaspfad und Inschriften.\n\nGewinnen Sie ein tieferes Verständnis für Indiens politische Geschichte und die Herausforderungen während ihrer Amtszeit als Premierministerin. Erleben Sie Multimedia-Ausstellungen, die wichtige Ereignisse ihres Lebens hervorheben, einschließlich der Notstandszeit und ihrer Beiträge zu Indiens Entwicklung.\n\nHalten Sie die historische Residenz, die Exponate und den ruhigen Garten rund um das Museum fest.\n\n### Inklusive\n\n- Abholung und Rückfahrt vom Hotel in Delhi in einem privaten, klimatisierten Fahrzeug\n- Leistungen eines sachkundigen und freundlichen Reiseführers\n- Wasser in Flaschen und leichte Erfrischungen während der Reise\n- Hilfe bei der Übersetzung der lokalen Sprache für eine reibungslose Kommunikation während des Besuchs",
+  "highlights": [
+   "Tauchen Sie ein in Leben und Vermächtnis von Indira Gandhi in ihrem Museum"
+  ],
+  "included": [
+   "Abholung und Rückfahrt vom Hotel in Delhi in einem privaten, klimatisierten Fahrzeug\nLeistungen eines sachkundigen und freundlichen Reiseführers\nWasser in Flaschen und leichte Erfrischungen während der Reise\nHilfe bei der Übersetzung der lokalen Sprache für eine reibungslose Kommunikation während des Besuchs"
+  ],
+  "notIncluded": []
+ },
+ "from-delhi-6-day-goldentriangle-tour-with": {
+  "title": "Ab Delhi: 6-tägige Goldenes-Dreieck-Tour mit Varanasi per Flug",
+  "metaTitle": "Ab Delhi: 6-tägige Goldenes-Dreieck-Tour mit Varanasi",
+  "metaDescription": "Bootsfahrt bei Sonnenaufgang auf dem heiligen Ganges in Varanasi, bei einer 6-tägigen Goldenes-Dreieck-Tour.",
+  "shortDescription": "Bootsfahrt bei Sonnenaufgang auf dem heiligen Ganges in Varanasi",
+  "fullDescription": "Ab Delhi: 6-tägige Goldenes-Dreieck-Tour mit Varanasi per Flug. Bootsfahrt bei Sonnenaufgang auf dem heiligen Ganges in Varanasi.\n\nErleben Sie eine der schönsten Reisen von New Delhi nach Agra, mit Besuchen in Delhi, Agra, Jaipur und Varanasi. Buchen Sie diese private Goldenes-Dreieck-Tour mit Varanasi für eine unvergessliche Reise von 5 Nächten/6 Tagen.\n\n### Inklusive\n\n- Private geführte Tour mit persönlichem Fahrer\n- 5 Übernachtungen im Hotel mit Frühstück (falls Hoteloption gewählt)\n- Tägliches Hotelfrühstück (falls Hoteloption gewählt)\n- Transport im privaten, klimatisierten Auto\n- Private lokale Führer in jeder Stadt\n- Alle Steuern und Servicegebühren inbegriffen\n- Abholung/Rückfahrt am Hotel oder Flughafen\n- Persönliche Betreuung und Unterstützung 24/7\n- Flug: Delhi nach Varanasi (15 kg Aufgabegepäck + 7 kg Handgepäck erlaubt)\n- Flug: Varanasi nach Delhi (15 kg Aufgabegepäck + 7 kg Handgepäck erlaubt)\n- Abholung und Rückfahrt am Flughafen Varanasi\n- Bootsfahrt in Varanasi\n\n### Nicht inklusive\n\n- Trinkgelder (optional)\n- Mittag- und Abendessen\n- Jegliche persönlichen Ausgaben",
+  "highlights": [
+   "Bootsfahrt bei Sonnenaufgang auf dem heiligen Ganges in Varanasi"
+  ],
+  "included": [
+   "Private geführte Tour mit persönlichem Fahrer\n5 Übernachtungen im Hotel mit Frühstück (falls Hoteloption gewählt)\nTägliches Hotelfrühstück (falls Hoteloption gewählt)\nTransport im privaten, klimatisierten Auto\nPrivate lokale Führer in jeder Stadt\nAlle Steuern und Servicegebühren inbegriffen\nAbholung/Rückfahrt am Hotel oder Flughafen\nPersönliche Betreuung und Unterstützung 24/7\nFlug: Delhi nach Varanasi (15 kg Aufgabegepäck + 7 kg Handgepäck erlaubt)\nFlug: Varanasi nach Delhi (15 kg Aufgabegepäck + 7 kg Handgepäck erlaubt)\nAbholung und Rückfahrt am Flughafen Varanasi\nBootsfahrt in Varanasi"
+  ],
+  "notIncluded": [
+   "Trinkgelder (optional)\nMittag- und Abendessen\nJegliche persönlichen Ausgaben"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
