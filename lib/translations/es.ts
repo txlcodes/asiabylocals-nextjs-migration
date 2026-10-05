@@ -21157,6 +21157,71 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "4-day-kerala-nature-tour-kochi-munnar-thekkady": {
+  "title": "Tour de naturaleza de Kerala de 4 días: Kochi, Munnar, Thekkady, y remansos",
+  "metaTitle": "Kerala: Kochi-Munnar-Thekkady en 4 días",
+  "metaDescription": "Disfrute de la comodidad de recogida y regreso al hotel o aeropuerto en Kochi.",
+  "shortDescription": "Disfrute de la comodidad de recogida y regreso al hotel o aeropuerto en Kochi.",
+  "fullDescription": "Tour de naturaleza de Kerala de 4 días: Kochi, Munnar, Thekkady, y remansos. Disfrute de la comodidad de recogida y regreso al hotel o aeropuerto en Kochi.\n\n**Día 1: Kochi a Munnar**\nRecogida en el aeropuerto o el hotel, traslado a Munnar, una pintoresca estación de montaña conocida por sus plantaciones de té.\nEn el camino, disfrute de:\nValles pintorescos y cascadas\nJardines de té y vegetación exuberante\nA su llegada, registro en el hotel.\nParque Nacional de Eravikulam (Rajamalai)\nPresa de Mattupetty\nEcho Point\nMuseo del Té\nRegreso al hotel. Noche en Munnar.\n\n**Día 2: Munnar a Periyar/Thekkady**\nDespués del desayuno, salida del hotel, y traslado a Thekkady.\nA su llegada:\nVisite una plantación de especias\nDisfrute de un paseo en bote en el lago Periyar, dentro del Parque Nacional Periyar\nRegistro en el hotel. Noche en Thekkady.\n\n**Día 3: Thekkady a Alleppey (experiencia de los remansos)**\nDespués del desayuno, salida del hotel, y traslado a Alleppey.\nSuba a bordo de una casa flotante tradicional de Kerala, y disfrute de:\nCrucero por los remansos\nAuténtica cocina de Kerala a bordo\nNoche a bordo de la casa flotante.\n\n**Día 4: Alleppey a Kochi, salida**\nDespués del desayuno, salida de la casa flotante.\nTraslado de regreso a Kochi, y entrega en:\nEl Aeropuerto Internacional de Cochin\nLa estación de tren o el hotel\nEl tour concluye con hermosos recuerdos de Kerala.\n\n**Qué incluye**\nAsistencia durante la llegada y la salida\nVehículo con aire acondicionado, incluyendo estacionamiento y peaje según el itinerario anterior\nOpción seleccionada: 2 noches en un hotel de 3, 4, o 5 estrellas en habitación doble con desayuno\n1 noche de estancia en una casa flotante con todas las comidas incluidas\nConductor de habla inglesa\n1 botella de agua mineral por persona y por día\nTodos los impuestos actualmente aplicables, incluyendo el GST\n\n**No incluye**\nCualquier vuelo nacional o internacional no está incluido\nPropinas",
+  "highlights": [
+   "Disfrute de la comodidad de recogida y regreso al hotel o aeropuerto en Kochi"
+  ],
+  "included": [
+   "Asistencia durante la llegada y la salida",
+   "Vehículo con aire acondicionado, incluyendo estacionamiento y peaje según el itinerario anterior",
+   "Opción seleccionada: 2 noches en un hotel de 3, 4, o 5 estrellas en habitación doble con desayuno",
+   "1 noche de estancia en una casa flotante con todas las comidas incluidas",
+   "Conductor de habla inglesa",
+   "1 botella de agua mineral por persona y por día",
+   "Todos los impuestos actualmente aplicables, incluyendo el GST"
+  ],
+  "notIncluded": [
+   "Cualquier vuelo nacional o internacional no está incluido",
+   "Propinas"
+  ]
+ },
+ "new-delhi-ethical-sanjay-colony-slum-tour-with": {
+  "title": "Nueva Delhi - tour ético por el barrio marginal de Sanjay Colony con guía local",
+  "metaTitle": "Nueva Delhi: tour ético por Sanjay Colony",
+  "metaDescription": "Experimente la vida diaria de las personas que viven en el barrio marginal de Sanjay Colony.",
+  "shortDescription": "Experimente la vida diaria de las personas que viven en el barrio marginal de Sanjay Colony.",
+  "fullDescription": "Nueva Delhi - tour ético por el barrio marginal de Sanjay Colony con guía local. Experimente la vida diaria de las personas que viven en el barrio marginal de Sanjay Colony.\n\nExplore el barrio marginal de Sanjay Colony, donde viven aproximadamente 60.000 personas. A través del tour, aprenderá sobre las alegrías y dificultades de vivir en un asentamiento informal tan densamente poblado. Visite un templo, comprenda el sistema educativo, la vida en el hogar, el papel de la fe en la vida de las personas, y los desafíos que la gente enfrenta a diario, como encontrar agua.\n\nComience el tour conociendo a su guía en la estación de metro Harkesh Nagar Okhla, frente a la puerta número 2.\n\nComenzaremos con una visita a una escuela pública para conocer el sistema educativo. Luego continuaremos hacia el barrio marginal de Sanjay Colony para ver cómo la gente trabaja en la industria textil. Visite un hogar para experimentar cómo vive la gente en sus casas. Comprenda el papel de la fe en la vida de las personas, y termine el tour con una visita a un templo.\n\nComprenda el sistema educativo en Delhi y en el barrio marginal. Explicación de los desafíos diarios de vivir en el barrio marginal, considerando el agua, la electricidad, y la higiene.\n\nExplore la zona con un guía para hacer preguntas en el camino, y escuchar historias personales.\n\nDespués del tour, disfrute de una taza de té local y una botella de agua. El 50 % de las ganancias se destina a la organización sin fines de lucro del barrio marginal llamada Learning by Locals.\n\n**Qué incluye**\nTé local\nBotella de agua\nGuía local\n\n**No incluye**\nGratificaciones",
+  "highlights": [
+   "Experimente la vida diaria de las personas que viven en el barrio marginal de Sanjay Colony"
+  ],
+  "included": [
+   "Té local",
+   "Botella de agua",
+   "Guía local"
+  ],
+  "notIncluded": [
+   "Gratificaciones"
+  ]
+ },
+ "8-day-golden-triangle-tour-w-jaisalmer-heritage": {
+  "title": "Tour del Triángulo Dorado de 8 días con Jaisalmer: patrimonio y desierto",
+  "metaTitle": "Triángulo Dorado de 8 días con Jaisalmer",
+  "metaDescription": "Explore el Triángulo Dorado: Delhi, Jaipur, Agra.",
+  "shortDescription": "Explore el Triángulo Dorado: Delhi, Jaipur, Agra.",
+  "fullDescription": "Tour del Triángulo Dorado de 8 días con Jaisalmer: patrimonio y desierto. Explore el Triángulo Dorado: Delhi, Jaipur, Agra.\n\n**Qué incluye**\nRecogida y regreso al hotel o aeropuerto\nAuto privado con aire acondicionado para toda la actividad del tour, con conductor\nGuía turístico profesional en cada ciudad\nAlojamiento en hotel por 7 noches (si se selecciona esta opción)\nDesayuno en el hotel (si se selecciona esta opción)\nBotella de agua mineral\nTodos los peajes y el estacionamiento\n\n**No incluye**\nEntradas a monumentos\nAlmuerzo y cena\nCualquier gasto personal",
+  "highlights": [
+   "Explore el Triángulo Dorado: Delhi, Jaipur, Agra"
+  ],
+  "included": [
+   "Recogida y regreso al hotel o aeropuerto",
+   "Auto privado con aire acondicionado para toda la actividad del tour, con conductor",
+   "Guía turístico profesional en cada ciudad",
+   "Alojamiento en hotel por 7 noches (si se selecciona esta opción)",
+   "Desayuno en el hotel (si se selecciona esta opción)",
+   "Botella de agua mineral",
+   "Todos los peajes y el estacionamiento"
+  ],
+  "notIncluded": [
+   "Entradas a monumentos",
+   "Almuerzo y cena",
+   "Cualquier gasto personal"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
