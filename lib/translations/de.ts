@@ -25283,6 +25283,74 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "from-delhi-full-day-jaipur-city-guided-tour-with": {
+  "title": "Ab Delhi: geführte Ganztagestour durch die Stadt Jaipur mit Mittagessen",
+  "metaTitle": "Delhi-Jaipur: Ganztag, Mittagessen",
+  "metaDescription": "Genießen Sie den Anblick der atemberaubenden Architektur Jaipurs bei einer Tour ab New Delhi",
+  "shortDescription": "Genießen Sie den Anblick der atemberaubenden Architektur Jaipurs bei einer Tour ab New Delhi",
+  "fullDescription": "Ab Delhi: geführte Ganztagestour durch die Stadt Jaipur mit Mittagessen. Genießen Sie den Anblick der atemberaubenden Architektur Jaipurs bei einer Tour ab New Delhi.\n\nErleben Sie die Schönheit Jaipurs bei einem Tagesausflug ab New Delhi. Bewundern Sie die wichtigsten Highlights der Stadt wie den Jal Mahal, den City Palace, und andere berühmte Stätten mit einem Reiseführer.\n\nGegen 5:00 Uhr holen wir Sie von Ihrem Flughafen oder Hotel in Delhi/Gurugram/Noida ab. Nach der Abholung fahren Sie nach Jaipur. Gegen 9:30 Uhr kommen Sie in Jaipur an und treffen Ihren Reiseführer.\n\nWeiter geht es zum Besuch des Amber Forts, einer majestätischen Festung auf einem Hügel, die beeindruckende Rajput-Architektur zeigt und Panoramablicke auf die umliegende Landschaft bietet.\n\nWeiter geht es zum magischen Jal Mahal, einem malerischen Palast, der auf dem Wasser zu schweben scheint. Hören Sie interessante Geschichten über die Rajputen, während Sie die Rajput- und mogulische Architektur bewundern.\n\nSie besuchen auch den City Palace, das Jantar Mantar, das Albert-Hall-Museum, und die Ram-Niwas-Gärten. Entdecken Sie eine Reihe von Innenhöfen, Gärten, und Gebäuden mit einzigartigem Charme und Merkmalen am City Palace.\n\nErkunden Sie eine Sammlung von neunzehn architektonischen astronomischen Instrumenten, erbaut vom König, im Jantar Mantar. Danach fahren Sie am Hawa Mahal vorbei, einem fünfstöckigen Bauwerk aus rosafarbenem Sandstein.\n\nIhr Reiseführer erzählt Ihnen von der königlichen Lebensweise der Rajput-Könige und -Königinnen von Jaipur. Tauchen Sie ein in die architektonischen Wunder der Stadt, bevor Sie nach Delhi zurückkehren.\n\n**Was ist inbegriffen**\nKlimatisiertes Fahrzeug\nAbholung und Rückfahrt zum Hotel\nSachkundiger Reiseführer\nEintrittsgebühren (falls diese Option gewählt wird)\nMittagessen (falls diese Option gewählt wird)\nWasser in Flaschen\nRegenschirme\nAlle Steuern und Parkgebühren\n\n**Nicht inbegriffen**\nJegliche Getränke\nTrinkgelder und Gratifikationen",
+  "highlights": [
+   "Genießen Sie den Anblick der atemberaubenden Architektur Jaipurs bei einer Tour ab New Delhi"
+  ],
+  "included": [
+   "Klimatisiertes Fahrzeug",
+   "Abholung und Rückfahrt zum Hotel",
+   "Sachkundiger Reiseführer",
+   "Eintrittsgebühren (falls diese Option gewählt wird)",
+   "Mittagessen (falls diese Option gewählt wird)",
+   "Wasser in Flaschen",
+   "Regenschirme",
+   "Alle Steuern und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Jegliche Getränke",
+   "Trinkgelder und Gratifikationen"
+  ]
+ },
+ "same-day-mathura-and-vrindavan-tour-from-delhi-or": {
+  "title": "Tagestour nach Mathura und Vrindavan ab Delhi oder Agra",
+  "metaTitle": "Mathura-Vrindavan: Tagestour, Delhi/Agra",
+  "metaDescription": "Erkunden Sie den Krishna-Janmabhoomi-Tempel",
+  "shortDescription": "Erkunden Sie den Krishna-Janmabhoomi-Tempel",
+  "fullDescription": "Tagestour nach Mathura und Vrindavan ab Delhi oder Agra. Erkunden Sie den Krishna-Janmabhoomi-Tempel.\n\n**1. Abfahrt von Delhi/Agra**\nAb Delhi: früh am Morgen Abholung von Ihrem Hotel oder Wohnsitz in Delhi. Eine komfortable Fahrt von etwa 3 bis 4 Stunden (145 km) bringt Sie nach Mathura.\nAb Agra: Abholung von Ihrem Hotel in Agra, etwa 1 Stunde bis 1 Stunde 30 Minuten (60 km) malerischer Fahrt bringen Sie nach Mathura.\n\n**2. Ankunft in Mathura**\n**Krishna-Janmabhoomi-Tempel**: Besuchen Sie die heilige Stätte, die als Geburtsort von Lord Krishna gilt. Der Tempelkomplex umfasst verschiedene Schreine und einen kleinen gefängnisartigen Raum, in dem Lord Krishna geboren worden sein soll.\n**Dwarkadhish-Tempel**: einer der bedeutendsten Tempel in Mathura, Lord Krishna gewidmet. Bewundern Sie die wunderschöne Architektur, und nehmen Sie an der lebendigen andächtigen Atmosphäre teil.\n**Vishram Ghat**: Besuchen Sie die ruhigen Ufer des Flusses Yamuna, wo sich Lord Krishna nach dem Sieg über den bösen König Kansa ausgeruht haben soll.\n\n**3. Vrindavan-Tour**\nEine kurze Fahrt von Mathura bringt Sie nach Vrindavan, bekannt für seine zahlreichen Tempel und ruhige Umgebung.\n\n**Banke-Bihari-Tempel**: einer der berühmtesten Tempel in Vrindavan, Lord Krishna gewidmet. Der Tempel ist immer voller Gläubiger, und die göttliche Energie ist spürbar.\n\n**ISKCON-Tempel**: auch bekannt als Krishna-Balaram-Mandir, ist dieser Tempel ein beliebtes Ziel für internationale Anhänger von Lord Krishna. Die ruhige Atmosphäre, die wunderschönen Idole, und der Gesang machen ihn zu einem Muss.\n\n**Prem Mandir**: dieser moderne Tempel aus weißem Marmor ist Lord Krishna und Radha gewidmet. Die Architektur und die kunstvollen Schnitzereien sind atemberaubend, und die abendliche Lichtshow trägt zur Schönheit bei.\n\n**4. Mittagspause**\nNach einem spirituell bereichernden Vormittag genießen Sie ein traditionelles vegetarisches Mittagessen in einem lokalen Restaurant in Mathura oder Vrindavan.\n\n**5. Zusätzliche Tempelbesuche (optional)**\n**Radha-Raman-Tempel**: ein alter Tempel, Radha und Lord Krishna gewidmet, mit friedlicher Atmosphäre.\n**Nidhivan**: Besuchen Sie diesen geheimnisvollen und heiligen Wald, in dem Lord Krishna jede Nacht noch immer mit Radha und den Gopis das Ras Leela vollführen soll.\n\n**6. Rückkehr nach Delhi/Agra**\nNach der Erkundung der heiligen Städte Mathura und Vrindavan Fahrt zurück nach Delhi oder Agra. Sie erreichen Ihr Ziel voraussichtlich am Abend.\n\n**Was ist inbegriffen**\nPrivates klimatisiertes Auto für Besichtigungen\nAbholung und Rückfahrt\nEin sachkundiger Reiseführer\nAlle Mautgebühren und Parkgebühren\nFlasche Mineralwasser\n\n**Nicht inbegriffen**\nEintrittskarten\nMittagessen\nJegliche persönliche Ausgaben",
+  "highlights": [
+   "Erkunden Sie den Krishna-Janmabhoomi-Tempel"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto für Besichtigungen",
+   "Abholung und Rückfahrt",
+   "Ein sachkundiger Reiseführer",
+   "Alle Mautgebühren und Parkgebühren",
+   "Flasche Mineralwasser"
+  ],
+  "notIncluded": [
+   "Eintrittskarten",
+   "Mittagessen",
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "delhi-old-delhi-spiritual-walking-tour-with-guide": {
+  "title": "Delhi: spirituelle Wandertour durch Alt-Delhi mit Reiseführer",
+  "metaTitle": "Delhi: Alt-Delhi spirituell, Wandertour",
+  "metaDescription": "Tauchen Sie ein in das spirituelle Herz von Alt-Delhi bei einer geführten Tour",
+  "shortDescription": "Tauchen Sie ein in das spirituelle Herz von Alt-Delhi bei einer geführten Tour",
+  "fullDescription": "Delhi: spirituelle Wandertour durch Alt-Delhi mit Reiseführer. Tauchen Sie ein in das spirituelle Herz von Alt-Delhi bei einer geführten Tour.\n\nBeginnen Sie am Gurudwara Sis Ganj Sahib, einem bedeutenden Sikh-Tempel, wo Sie die Gemeinschaftsküche erleben, die täglich Tausende versorgt. Erleben Sie die Wärme von Seva (selbstloser Dienst), während Gläubige Mahlzeiten zubereiten und servieren.\n\nWeiter geht es zum Digambar Jain Lal Mandir, Delhis ältestem Jain-Tempel, und erfahren Sie mehr über die Philosophie der Gewaltlosigkeit und des Mitgefühls. In der Nähe erkunden Sie das Vogelkrankenhaus, wo verletzte Vögel gepflegt werden, ein wahres Spiegelbild der Jain-Werte.\n\nAls Nächstes betreten Sie die Jama Masjid, eine der größten Moscheen Indiens, erbaut von Kaiser Shah Jahan. Staunen Sie über ihren weitläufigen Innenhof, die Kuppeln, und die spirituelle Atmosphäre.\n\nUnterwegs halten Sie an einem kleinen hinduistischen Schrein, versteckt in den belebten Gassen von Chandni Chowk, wo Glocken, Weihrauch, und Gesänge die Luft erfüllen.\n\nIhr Reiseführer teilt Geschichten, Rituale, und Legenden, die Delhis reiches spirituelles Gefüge offenbaren, wo jede Ecke eine Geschichte von Harmonie und Hingabe erzählt.\n\n**Was ist inbegriffen**\nBesuch des Gurudwara Sis Ganj Sahib\nBesuch des Digambar Jain Lal Mandir\nBesuch des Vogelkrankenhauses\nBesuch der Jama Masjid\nBesuch eines kleinen hinduistischen Schreins\nGeführte Wandertour\nChai-Pause\n\n**Nicht inbegriffen**\nMahlzeiten",
+  "highlights": [
+   "Tauchen Sie ein in das spirituelle Herz von Alt-Delhi bei einer geführten Tour"
+  ],
+  "included": [
+   "Besuch des Gurudwara Sis Ganj Sahib",
+   "Besuch des Digambar Jain Lal Mandir",
+   "Besuch des Vogelkrankenhauses",
+   "Besuch der Jama Masjid",
+   "Besuch eines kleinen hinduistischen Schreins",
+   "Geführte Wandertour",
+   "Chai-Pause"
+  ],
+  "notIncluded": [
+   "Mahlzeiten"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
