@@ -6408,6 +6408,76 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld"
   ]
  },
+ "from-delhi-taj-mahal-agra-city-private-tour-by": {
+  "title": "Von Delhi aus: private Taj Mahal und Agra Stadttour mit SUV",
+  "metaTitle": "Delhi-Agra: Taj Mahal privat mit SUV",
+  "metaDescription": "Erkunden Sie die Schönheit des weißen Marmor-Taj Mahal, ein UNESCO-Weltkulturerbe.",
+  "shortDescription": "Erkunden Sie die Schönheit des weißen Marmor-Taj Mahal, ein UNESCO-Weltkulturerbe.",
+  "fullDescription": "Beginnen Sie Ihre Reise früh am Morgen mit einer Abholung von Ihrem Hotel, Flughafen, oder bevorzugten Ort in Delhi. Reisen Sie komfortabel nach Agra in einem privaten klimatisierten SUV mit Ihrem professionellen Fahrer und lokalen Guide.\n\n**Besuch des Taj Mahal**\nBei der Ankunft in Agra geht es direkt zum Taj Mahal, einem der ikonischsten Denkmäler der Welt und einem UNESCO-Weltkulturerbe. Erkunden Sie das prächtige weiße Marmor-Mausoleum, schöne Gärten, und den umgebenden Komplex, während Sie seine faszinierende Geschichte und Architektur entdecken.\n\n**Besuch des Agra Forts**\nWeiter geht es zum Agra Fort, einem weiteren UNESCO-Weltkulturerbe. Erkunden Sie seine beeindruckenden Paläste, Höfe, Moscheen, und königlichen Hallen, während Sie die Geschichte der Mogulkaiser entdecken.\n\n**Mittagessen**\nGenießen Sie ein entspannendes Mittagessen in einem lokalen Restaurant, und probieren Sie köstliche indische Küche.\n\n**Besuch von Itmad-ud-Daulah (Baby Taj)**\nNach dem Mittagessen besuchen Sie Itmad-ud-Daulah, allgemein bekannt als Baby Taj. Bewundern Sie seine zarte Marmor-Einlegearbeit und kunstvolle Dekorationen. Das Denkmal gilt oft als architektonische Inspiration für das Taj Mahal.\n\n**Rückkehr nach Delhi**\nNach der Erkundung von Agra beginnen Sie Ihre komfortable Rückreise nach Delhi. Bei der Ankunft genießen Sie die Absetzung an Ihrem Hotel, Flughafen, Bahnhof, oder bevorzugten Ort.",
+  "highlights": [
+   "Erkunden Sie die Schönheit des weißen Marmor-Taj Mahal, ein UNESCO-Weltkulturerbe"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel oder Flughafen",
+   "Privater klimatisierter SUV",
+   "Professioneller Reiseführer",
+   "Eintrittsticket (falls ausgewählt)",
+   "Mittagessen (falls ausgewählt)",
+   "Wasserflasche",
+   "Alle Steuern und Parken"
+  ],
+  "notIncluded": [
+   "Zuwendungen",
+   "Trinkgeld"
+  ]
+ },
+ "from-agra-taj-mahal-fatehpur-sikri-bird-safari": {
+  "title": "Von Agra aus: Taj Mahal, Fatehpur Sikri, und Vogelsafari-Tour",
+  "metaTitle": "Agra-Fatehpur Sikri: Taj Mahal und Vogelsafari",
+  "metaDescription": "Bewundern Sie die atemberaubende Architektur und genießen Sie die reiche Geschichte des Taj Mahal.",
+  "shortDescription": "Bewundern Sie die atemberaubende Architektur und genießen Sie die reiche Geschichte des Taj Mahal.",
+  "fullDescription": "Ihr bezaubernder Tag beginnt mit einer prompten Abholung von Ihrem festgelegten Ort in Agra. Die Luft ist erfüllt von Vorfreude, wenn Sie sich auf den Weg machen, um das Symbol der Liebe, das Taj Mahal, zu sehen. Bewundern Sie die atemberaubende Architektur und genießen Sie die reiche Geschichte rund um dieses UNESCO-Weltkulturerbe. Ihr kundiger Guide webt Geschichten von Liebe und Legende, während Sie die kunstvollen Details dieses architektonischen Meisterwerks erkunden.\n\nNach einem herrlichen Morgen am Taj Mahal setzt sich Ihr Abenteuer in Richtung Fatehpur Sikri fort, einer historischen Stadt, die einst als Mogulhauptstadt diente. Tauchen Sie ein in die Pracht der Paläste, Moscheen, und Höfe, die die architektonische Brillanz der Mogulzeit widerspiegeln. Die kunstvollen Schnitzereien und Bauwerke aus rotem Sandstein versetzen Sie zurück in der Zeit und bieten einen Einblick in Indiens königliche Vergangenheit.\n\nGenießen Sie ein köstliches Mittagessen in einem lokalen Restaurant, kosten Sie die Aromen der authentischen indischen Küche, eine ideale Gelegenheit, sich zu entspannen und zu erholen, bevor der nächste Teil Ihrer Reise beginnt.\n\nIm Laufe des Tages geht es weiter zum Keoladeo-Nationalpark für eine faszinierende Vogelsafari. Erkunden Sie die vielfältigen Vogelwunder dieses UNESCO-gelisteten Vogelschutzgebiets, wo Zugvögel und einheimische Vögel in Harmonie leben. Ihre geführte Safari bietet Einblicke in das lebendige Ökosystem von Keoladeo, was es zu einem Paradies für Vogelbeobachter und Naturliebhaber macht.\n\nDie Reise endet mit einer komfortablen Absetzung an Ihrem gewählten Ort in Agra, während die Sonne untergeht. Lassen Sie die Erlebnisse des Tages Revue passieren, mit Erinnerungen an die Schönheit des Taj Mahal, die historische Pracht von Fatehpur Sikri, und die Naturwunder des Keoladeo-Nationalparks. Dieser sorgfältig gestaltete Reiseplan garantiert eine ununterbrochene und bereichernde Erkundung der kulturellen und natürlichen Schätze Agras, und hinterlässt bei Ihnen eine tiefe Wertschätzung für die Vielfalt, die die Region ausmacht.",
+  "highlights": [
+   "Bewundern Sie die atemberaubende Architektur und genießen Sie die reiche Geschichte des Taj Mahal"
+  ],
+  "included": [
+   "Abhol- und Rückbringdienste",
+   "Klimatisiertes Fahrzeug für die Besichtigung",
+   "Live-Reiseführer-Service",
+   "Mittagessen in einem Multi-Küchen-Restaurant (falls ausgewählt)",
+   "Eintrittskarte zu den Denkmälern (falls ausgewählt)",
+   "Eintrittsgebühr zur Vogelsafari (falls ausgewählt)",
+   "Wasserflaschen und Regenschirme",
+   "Alles Parken und Steuern"
+  ],
+  "notIncluded": [
+   "Jegliche Getränke",
+   "Trinkgeld und Zuwendungen"
+  ]
+ },
+ "from-delhi-sunrise-taj-mahal-and-agra-tour-by": {
+  "title": "Von Delhi aus: Taj Mahal Sonnenaufgangstour und Agra mit dem Auto",
+  "metaTitle": "Delhi-Agra: Taj Mahal Sonnenaufgang, mit Auto",
+  "metaDescription": "Erleben Sie das Taj Mahal beim Sonnenaufgang, wenn es im goldenen Morgenlicht erstrahlt.",
+  "shortDescription": "Erleben Sie das Taj Mahal beim Sonnenaufgang, wenn es im goldenen Morgenlicht erstrahlt.",
+  "fullDescription": "Erleben Sie das Wunder des Taj Mahal beim Sonnenaufgang auf diesem privaten geführten Tagesausflug von Delhi nach Agra, einer Reise, die Komfort, Geschichte, und einmalige Momente kombiniert.\n\nIhr Abenteuer beginnt mit einer Abholung vom Flughafen Delhi oder Ihrem Hotel in Delhi, Gurugram, Noida, Ghaziabad, oder Faridabad. Reisen Sie komfortabel nach Agra, gerade rechtzeitig ankommend, um das Taj Mahal im ersten Licht der Morgendämmerung erstrahlen zu sehen. Mit weniger Menschenmassen und goldenem Licht, das sich auf dem Marmor spiegelt, ist dies die magischste Zeit, um das Denkmal zu erleben. Ihr privater Guide teilt die ewige Liebesgeschichte von Shah Jahan und Mumtaz Mahal, während Sie durch die ruhigen Gärten und Höfe schlendern.\n\nAls Nächstes erkunden Sie das prächtige Agra Fort, ein UNESCO-Weltkulturerbe, das einst als königliche Residenz der Mogulkaiser diente. Spazieren Sie durch seine Paläste und Höfe, während Sie faszinierende Geschichten von Reich und Macht hören, und genießen Sie Panoramablicke auf das Taj Mahal von seinen Mauern aus.\n\nJe nach gewählter Option genießen Sie ein köstliches Mittagessen in einem 5-Sterne-Hotel, und überspringen die Schlangen mit inkludierten Eintrittskarten. Ob Sie nur einen Guide, einen Guide mit Transport, oder ein Rundum-Paket mit Mittagessen und Tickets bevorzugen, diese Tour bietet Flexibilität für Ihren Reisestil.\n\nAm Ende des Tages entspannen Sie sich auf der Rückreise, und genießen die Absetzung an Ihrem Hotel oder Flughafen in Delhi, mit Erinnerungen an eines der größten Wunder der Welt.",
+  "highlights": [
+   "Erleben Sie das Taj Mahal beim Sonnenaufgang, wenn es im goldenen Morgenlicht erstrahlt"
+  ],
+  "included": [
+   "Professioneller privater Reiseführer",
+   "Privates klimatisiertes Auto mit Fahrer (falls ausgewählt)",
+   "Abholung und Rückbringung vom Flughafen Delhi oder Hotels in Delhi, Gurugram, Noida, Ghaziabad, oder Faridabad",
+   "Wasser in Flaschen",
+   "Eintrittskarten (falls ausgewählt)",
+   "Mittagessen in einem 5-Sterne-Hotel (falls ausgewählt)"
+  ],
+  "notIncluded": [
+   "Eintrittskarten (sofern die Rundum-Option nicht gebucht wird)",
+   "Mahlzeiten und Getränke (sofern die Mittagessen-Option nicht gebucht wird)",
+   "Trinkgeld (optional)"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
