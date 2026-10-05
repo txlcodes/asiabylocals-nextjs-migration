@@ -23413,6 +23413,65 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tarifas de cámara (si corresponde dentro de los templos)"
   ]
  },
+ "from-new-delhi-sultanpur-national-park-day-tour": {
+  "title": "Desde Nueva Delhi: tour de un día al Parque Nacional Sultanpur en auto",
+  "metaTitle": "Delhi: Parque Nacional Sultanpur, tour de un día",
+  "metaDescription": "Descubra la belleza del Santuario de Aves Sultanpur en una excursión de un día desde Delhi.",
+  "shortDescription": "Descubra la belleza del Santuario de Aves Sultanpur en una excursión de un día desde Delhi.",
+  "fullDescription": "Desde Nueva Delhi: tour de un día al Parque Nacional Sultanpur en auto. Descubra la belleza del Santuario de Aves Sultanpur en una excursión de un día desde Delhi.\n\nExplore el Santuario de Aves Sultanpur en una excursión de un día desde Nueva Delhi. Disfrute de un cómodo trayecto al parque, y dé un paseo guiado para avistar aves migratorias, aves acuáticas, y la especie de ciervo más grande de la India.\n\nDespués de una recogida en su hotel en Delhi, viaje al Santuario de Aves Sultanpur. Conozca a su guía, y dé un paseo de 3 horas por el parque para observar hermosas aves migratorias.\n\nEl lugar tiene diferentes zonas. Al entrar, gire a la izquierda para disfrutar observando aves en la zona boscosa, o siga caminando por las orillas del lago para disfrutar del paisaje.\n\nSiga un pequeño sendero que lleva a un espacio que le da la sensación de una isla, y acérquese al agua, desde donde podrá observar muchas variedades de aves acuáticas. Suba a la torre para obtener una vista completa de este pequeño pero hermoso cuerpo de agua.\n\nObserve la especie de ciervo más grande de la India, el ciervo \"Nilgó\". Después de su paseo, regreso a su hotel en Delhi.\n\n**Qué incluye**\nRecogida y regreso al hotel\nTransporte en auto con aire acondicionado\nGuía turístico en vivo\nTarifas de entrada\n\n**No incluye**\nComida y bebidas\nGastos personales\nPropinas",
+  "highlights": [
+   "Descubra la belleza del Santuario de Aves Sultanpur en una excursión de un día desde Delhi"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Transporte en auto con aire acondicionado",
+   "Guía turístico en vivo",
+   "Tarifas de entrada"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "guided-akshardham-light-fountain-show-with-pick": {
+  "title": "Espectáculo guiado de luz y fuentes en Akshardham, con recogida y regreso",
+  "metaTitle": "Delhi: Akshardham, espectáculo de luz y fuentes",
+  "metaDescription": "Experimente el templo Akshardham en Nueva Delhi con un tour guiado.",
+  "shortDescription": "Experimente el templo Akshardham en Nueva Delhi con un tour guiado.",
+  "fullDescription": "Espectáculo guiado de luz y fuentes en Akshardham, con recogida y regreso. Experimente el templo Akshardham en Nueva Delhi con un tour guiado.\n\nComience su viaje de medio día con una recogida en taxi privado desde su hotel hacia el templo Akshardham, donde le esperan intrincados grabados y una serena arquitectura. Explore tres exposiciones inmersivas: el Salón de Valores, una película en formato gigante sobre el viaje espiritual de Neelkanth Varni, y un paseo en bote cultural a través de los logros antiguos de la India.\n\nAl caer la noche, presencie un espectacular espectáculo de luz y sonido en el pozo escalonado del templo, donde la narración, la música, y los efectos de agua dan vida a verdades atemporales.\n\nSaboree ricos sabores como el pollo a la mantequilla y kebabs, antes de su cómodo regreso al hotel, completando un día de cultura, asombro, y placer.\n\n**Qué incluye**\nServicio de recogida y regreso al hotel\nGuía local de habla inglesa\nAgua embotellada\nEntrada/admisión a Swaminarayan Akshardham\n\n**No incluye**\nGratificaciones (recomendadas)\nCualquier comida",
+  "highlights": [
+   "Experimente el templo Akshardham en Nueva Delhi con un tour guiado"
+  ],
+  "included": [
+   "Servicio de recogida y regreso al hotel",
+   "Guía local de habla inglesa",
+   "Agua embotellada",
+   "Entrada/admisión a Swaminarayan Akshardham"
+  ],
+  "notIncluded": [
+   "Gratificaciones (recomendadas)",
+   "Cualquier comida"
+  ]
+ },
+ "old-delhi-new-delhi-sight-seeing-by-ac-luxury": {
+  "title": "Recorrido turístico por la Vieja y la Nueva Delhi en autobús de lujo con aire acondicionado",
+  "metaTitle": "Delhi: recorrido en autobús de lujo con aire acondicionado",
+  "metaDescription": "Descubra lo mejor de Delhi en un tour en autobús con paradas libres.",
+  "shortDescription": "Descubra lo mejor de Delhi en un tour en autobús con paradas libres.",
+  "fullDescription": "Recorrido turístico por la Vieja y la Nueva Delhi en autobús de lujo con aire acondicionado. Descubra lo mejor de Delhi en un tour en autobús con paradas libres.\n\nExplore lo más destacado de Delhi en un tour en autobús. Vea el templo Laxmi Narayan Birla, el Parlamento, el Rashtrapati Bhavan, India Gate, y más.\n\nComience su tour en Karol Bagh, Paharganj, Connaught Place, o R.K. Ashram Marg. Suba al autobús, y diríjase al templo Laxmi Narayan Birla. Continúe hacia el Gyarah Murti, el Parlamento, el Rashtrapati Bhavan, y el Vijay Chowk.\n\nA continuación, visite el Museo Indira Gandhi, la zona de embajadas, y India Gate. Luego, diríjase a Qutub Minar y al mercado de artesanías. Continúe hacia el Templo del Loto, Rajghat, Shanti Van, Shakti Sthal, y el Fuerte Rojo.\n\n**Qué incluye**\nTour Delhi Darshan en autobús de lujo con aire acondicionado por solo 350 rupias por persona, que incluye traslado y guía\nLa comida y el boleto de entrada no están incluidos en el precio del boleto\n\n**No incluye**\nComida y bebidas\nTarifas de entrada a monumentos",
+  "highlights": [
+   "Descubra lo mejor de Delhi en un tour en autobús con paradas libres"
+  ],
+  "included": [
+   "Tour Delhi Darshan en autobús de lujo con aire acondicionado por solo 350 rupias por persona, que incluye traslado y guía",
+   "La comida y el boleto de entrada no están incluidos en el precio del boleto"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Tarifas de entrada a monumentos"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",

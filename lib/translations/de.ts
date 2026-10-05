@@ -23413,6 +23413,65 @@ export const DE_TOURS: Record<string, TourT> = {
    "Kameragebühren (falls zutreffend innerhalb der Tempel)"
   ]
  },
+ "from-new-delhi-sultanpur-national-park-day-tour": {
+  "title": "Ab New Delhi: Tagestour zum Sultanpur-Nationalpark mit dem Auto",
+  "metaTitle": "Delhi: Sultanpur-Nationalpark, Tagestour",
+  "metaDescription": "Entdecken Sie die Schönheit des Sultanpur-Vogelschutzgebiets auf einem Tagesausflug ab Delhi.",
+  "shortDescription": "Entdecken Sie die Schönheit des Sultanpur-Vogelschutzgebiets auf einem Tagesausflug ab Delhi.",
+  "fullDescription": "Ab New Delhi: Tagestour zum Sultanpur-Nationalpark mit dem Auto. Entdecken Sie die Schönheit des Sultanpur-Vogelschutzgebiets auf einem Tagesausflug ab Delhi.\n\nErkunden Sie das Sultanpur-Vogelschutzgebiet auf einem Tagesausflug ab New Delhi. Genießen Sie eine bequeme Fahrt zum Park, und machen Sie einen geführten Spaziergang, um Zugvögel, Wasservögel, und die größte Hirschart Indiens zu entdecken.\n\nNach einer Abholung von Ihrem Hotel in Delhi reisen Sie zum Sultanpur-Vogelschutzgebiet. Treffen Sie Ihren Guide, und machen Sie einen 3-stündigen Spaziergang um den Park, um wunderschöne Zugvögel zu beobachten.\n\nDer Ort hat verschiedene Zonen. Beim Betreten halten Sie sich links, um Vögel im bewaldeten Gebiet zu entdecken, oder gehen Sie weiter an den Ufern des Sees entlang, um die Szenerie zu genießen.\n\nFolgen Sie einem kleinen Pfad, der zu einem Raum führt, der Ihnen das Gefühl einer Insel vermittelt, und kommen Sie dem Wasser nahe, von wo aus Sie viele Arten von Wasservögeln entdecken können. Steigen Sie auf den Turm, um einen vollständigen Blick auf dieses kleine, aber wunderschöne Gewässer zu erhalten.\n\nEntdecken Sie die größte Hirschart Indiens, den „Nilgau\"-Hirsch. Nach Ihrem Spaziergang Rückkehr zu Ihrem Hotel in Delhi.\n\n**Was ist enthalten**\nAbholung und Rückfahrt zum Hotel\nTransport im klimatisierten Auto\nLive-Reiseführer\nEintrittsgebühren\n\n**Nicht enthalten**\nEssen und Getränke\nPersönliche Ausgaben\nTrinkgelder",
+  "highlights": [
+   "Entdecken Sie die Schönheit des Sultanpur-Vogelschutzgebiets auf einem Tagesausflug ab Delhi"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Transport im klimatisierten Auto",
+   "Live-Reiseführer",
+   "Eintrittsgebühren"
+  ],
+  "notIncluded": [
+   "Essen und Getränke",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "guided-akshardham-light-fountain-show-with-pick": {
+  "title": "Geführte Licht- und Brunnenshow in Akshardham, mit Abholung und Rückfahrt",
+  "metaTitle": "Delhi: Akshardham, Licht- und Brunnenshow",
+  "metaDescription": "Erleben Sie den Akshardham-Tempel in New Delhi mit einer geführten Tour.",
+  "shortDescription": "Erleben Sie den Akshardham-Tempel in New Delhi mit einer geführten Tour.",
+  "fullDescription": "Geführte Licht- und Brunnenshow in Akshardham, mit Abholung und Rückfahrt. Erleben Sie den Akshardham-Tempel in New Delhi mit einer geführten Tour.\n\nBeginnen Sie Ihre Halbtagesreise mit einer privaten Taxi-Abholung von Ihrem Hotel zum Akshardham-Tempel, wo kunstvolle Schnitzereien und ruhige Architektur auf Sie warten. Erkunden Sie drei immersive Ausstellungen: die Hall of Values, einen Film im Großformat über Neelkanth Varnis spirituelle Reise, und eine kulturelle Bootsfahrt durch Indiens antike Errungenschaften.\n\nBei Einbruch des Abends erleben Sie eine spektakuläre Licht- und Tonshow am Stufenbrunnen des Tempels, wo Erzählkunst, Musik, und Wassereffekte zeitlose Wahrheiten zum Leben erwecken.\n\nGenießen Sie reichhaltige Aromen wie Butter Chicken und Kebabs, bevor Sie bequem zum Hotel zurückgebracht werden, und so einen Tag voller Kultur, Staunen, und Genuss abschließen.\n\n**Was ist enthalten**\nAbholungs- und Rückfahrtservice zum Hotel\nEnglischsprachiger örtlicher Guide\nWasser in Flaschen\nEintritt/Zugang zu Swaminarayan Akshardham\n\n**Nicht enthalten**\nGratifikationen (empfohlen)\nJegliche Mahlzeiten",
+  "highlights": [
+   "Erleben Sie den Akshardham-Tempel in New Delhi mit einer geführten Tour"
+  ],
+  "included": [
+   "Abholungs- und Rückfahrtservice zum Hotel",
+   "Englischsprachiger örtlicher Guide",
+   "Wasser in Flaschen",
+   "Eintritt/Zugang zu Swaminarayan Akshardham"
+  ],
+  "notIncluded": [
+   "Gratifikationen (empfohlen)",
+   "Jegliche Mahlzeiten"
+  ]
+ },
+ "old-delhi-new-delhi-sight-seeing-by-ac-luxury": {
+  "title": "Besichtigung von Alt- und New Delhi mit klimatisiertem Luxusbus",
+  "metaTitle": "Delhi: Besichtigung mit klimatisiertem Luxusbus",
+  "metaDescription": "Entdecken Sie das Beste von Delhi auf einer Hop-on-Hop-off-Bustour.",
+  "shortDescription": "Entdecken Sie das Beste von Delhi auf einer Hop-on-Hop-off-Bustour.",
+  "fullDescription": "Besichtigung von Alt- und New Delhi mit klimatisiertem Luxusbus. Entdecken Sie das Beste von Delhi auf einer Hop-on-Hop-off-Bustour.\n\nErkunden Sie die Highlights Delhis auf einer Bustour. Sehen Sie den Laxmi-Narayan-Birla-Tempel, das Parlamentsgebäude, das Rashtrapati Bhavan, das India Gate, und mehr.\n\nBeginnen Sie Ihre Tour in Karol Bagh, Paharganj, Connaught Place, oder R.K. Ashram Marg. Besteigen Sie den Bus, und fahren Sie zum Laxmi-Narayan-Birla-Tempel. Weiter geht es zum Gyarah Murti, dem Parlamentsgebäude, dem Rashtrapati Bhavan, und dem Vijay Chowk.\n\nAls Nächstes besuchen Sie das Indira-Gandhi-Museum, das Botschaftsviertel, und das India Gate. Dann geht es weiter zu Qutub Minar und dem Kunsthandwerksmarkt. Weiter zum Lotustempel, Rajghat, Shanti Van, Shakti Sthal, und dem Red Fort.\n\n**Was ist enthalten**\nDelhi-Darshan-Tour mit klimatisiertem Luxusbus für nur 350 Rupien pro Person, einschließlich Fahrt und Guide\nEssen und Eintrittskarte sind nicht im Ticketpreis enthalten\n\n**Nicht enthalten**\nEssen und Getränke\nEintrittsgebühren zu Denkmälern",
+  "highlights": [
+   "Entdecken Sie das Beste von Delhi auf einer Hop-on-Hop-off-Bustour"
+  ],
+  "included": [
+   "Delhi-Darshan-Tour mit klimatisiertem Luxusbus für nur 350 Rupien pro Person, einschließlich Fahrt und Guide",
+   "Essen und Eintrittskarte sind nicht im Ticketpreis enthalten"
+  ],
+  "notIncluded": [
+   "Essen und Getränke",
+   "Eintrittsgebühren zu Denkmälern"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

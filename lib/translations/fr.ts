@@ -23413,6 +23413,65 @@ export const FR_TOURS: Record<string, TourT> = {
    "Frais d'appareil photo (le cas échéant à l'intérieur des temples)"
   ]
  },
+ "from-new-delhi-sultanpur-national-park-day-tour": {
+  "title": "Depuis New Delhi : visite d'une journée du parc national de Sultanpur en voiture",
+  "metaTitle": "Delhi : parc national de Sultanpur en une journée",
+  "metaDescription": "Découvrez la beauté du sanctuaire ornithologique de Sultanpur lors d'une excursion d'une journée depuis Delhi.",
+  "shortDescription": "Découvrez la beauté du sanctuaire ornithologique de Sultanpur lors d'une excursion d'une journée depuis Delhi.",
+  "fullDescription": "Depuis New Delhi : visite d'une journée du parc national de Sultanpur en voiture. Découvrez la beauté du sanctuaire ornithologique de Sultanpur lors d'une excursion d'une journée depuis Delhi.\n\nExplorez le sanctuaire ornithologique de Sultanpur lors d'une excursion d'une journée depuis New Delhi. Profitez d'un trajet confortable vers le parc, et faites une promenade guidée pour observer des oiseaux migrateurs, des oiseaux aquatiques, et la plus grande espèce de cerf de l'Inde.\n\nAprès une prise en charge à votre hôtel à Delhi, voyagez vers le sanctuaire ornithologique de Sultanpur. Rencontrez votre guide, et faites une promenade de 3 heures autour du parc pour observer de magnifiques oiseaux migrateurs.\n\nIl existe différentes zones dans ce lieu. En entrant, tournez à gauche pour profiter de l'observation des oiseaux dans la zone boisée, ou continuez à marcher le long des rives du lac pour profiter du paysage.\n\nSuivez un petit sentier qui mène à un espace vous donnant la sensation d'une île, et rapprochez-vous de l'eau, d'où vous pourrez observer de nombreuses variétés d'oiseaux aquatiques. Montez la tour pour obtenir une vue complète de ce petit mais magnifique plan d'eau.\n\nRepérez la plus grande espèce de cerf de l'Inde, le cerf « Nilgaut ». Après votre promenade, retour à votre hôtel à Delhi.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel\nTransport en voiture climatisée\nGuide touristique en direct\nFrais d'entrée\n\n**Non inclus**\nNourriture et boissons\nDépenses personnelles\nPourboires",
+  "highlights": [
+   "Découvrez la beauté du sanctuaire ornithologique de Sultanpur lors d'une excursion d'une journée depuis Delhi"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Transport en voiture climatisée",
+   "Guide touristique en direct",
+   "Frais d'entrée"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "guided-akshardham-light-fountain-show-with-pick": {
+  "title": "Spectacle guidé de lumière et de fontaines à Akshardham, avec prise en charge et retour",
+  "metaTitle": "Delhi : Akshardham, spectacle de lumière et fontaines",
+  "metaDescription": "Découvrez le temple Akshardham à New Delhi avec une visite guidée.",
+  "shortDescription": "Découvrez le temple Akshardham à New Delhi avec une visite guidée.",
+  "fullDescription": "Spectacle guidé de lumière et de fontaines à Akshardham, avec prise en charge et retour. Découvrez le temple Akshardham à New Delhi avec une visite guidée.\n\nCommencez votre voyage en demi-journée par une prise en charge en taxi privé à votre hôtel vers le temple Akshardham, où des sculptures complexes et une architecture sereine vous attendent. Explorez trois expositions immersives : le Hall of Values, un film au format géant sur le voyage spirituel de Neelkanth Varni, et une balade en bateau culturelle à travers les réalisations anciennes de l'Inde.\n\nAu coucher du soleil, assistez à un spectaculaire spectacle de lumière et de son au puits à degrés du temple, où narration, musique, et effets d'eau donnent vie à des vérités intemporelles.\n\nSavourez des saveurs riches comme le poulet au beurre et les kebabs, avant votre retour confortable à l'hôtel, concluant une journée de culture, d'émerveillement, et de plaisir.\n\n**Ce qui est inclus**\nService de prise en charge et de retour à l'hôtel\nGuide local anglophone\nEau en bouteille\nEntrée/admission à Swaminarayan Akshardham\n\n**Non inclus**\nGratifications (recommandées)\nTout repas",
+  "highlights": [
+   "Découvrez le temple Akshardham à New Delhi avec une visite guidée"
+  ],
+  "included": [
+   "Service de prise en charge et de retour à l'hôtel",
+   "Guide local anglophone",
+   "Eau en bouteille",
+   "Entrée/admission à Swaminarayan Akshardham"
+  ],
+  "notIncluded": [
+   "Gratifications (recommandées)",
+   "Tout repas"
+  ]
+ },
+ "old-delhi-new-delhi-sight-seeing-by-ac-luxury": {
+  "title": "Visite touristique du Vieux et du New Delhi en bus de luxe climatisé",
+  "metaTitle": "Delhi : visite en bus de luxe climatisé",
+  "metaDescription": "Découvrez le meilleur de Delhi lors d'une visite en bus avec arrêts à volonté.",
+  "shortDescription": "Découvrez le meilleur de Delhi lors d'une visite en bus avec arrêts à volonté.",
+  "fullDescription": "Visite touristique du Vieux et du New Delhi en bus de luxe climatisé. Découvrez le meilleur de Delhi lors d'une visite en bus avec arrêts à volonté.\n\nExplorez les points forts de Delhi lors d'une visite en bus. Voyez le temple Laxmi Narayan Birla, le Parlement, le Rashtrapati Bhavan, India Gate, et plus encore.\n\nCommencez votre visite à Karol Bagh, Paharganj, Connaught Place, ou R.K. Ashram Marg. Montez à bord du bus, et dirigez-vous vers le temple Laxmi Narayan Birla. Continuez vers le Gyarah Murti, le Parlement, le Rashtrapati Bhavan, et le Vijay Chowk.\n\nEnsuite, visitez le musée Indira Gandhi, la zone des ambassades, et India Gate. Dirigez-vous ensuite vers Qutub Minar et le marché de l'artisanat. Continuez vers le temple du Lotus, Rajghat, Shanti Van, Shakti Sthal, et le Fort Rouge.\n\n**Ce qui est inclus**\nVisite Delhi Darshan en bus de luxe climatisé, pour seulement 350 roupies par personne, incluant le trajet et le guide\nLes repas et le billet d'entrée ne sont pas inclus dans le prix du billet\n\n**Non inclus**\nNourriture et boissons\nFrais d'entrée aux monuments",
+  "highlights": [
+   "Découvrez le meilleur de Delhi lors d'une visite en bus avec arrêts à volonté"
+  ],
+  "included": [
+   "Visite Delhi Darshan en bus de luxe climatisé, pour seulement 350 roupies par personne, incluant le trajet et le guide",
+   "Les repas et le billet d'entrée ne sont pas inclus dans le prix du billet"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Frais d'entrée aux monuments"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
