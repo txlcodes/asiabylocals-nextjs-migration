@@ -1841,6 +1841,83 @@ export const FR_TOURS: Record<string, TourT> = {
    "Nourriture et boissons"
   ]
  },
+ "delhi-round-trip-taj-mahal-fast-track-entry-tour": {
+  "title": "Aller-retour depuis Delhi : visite du Taj Mahal avec entrée rapide et options",
+  "metaTitle": "Delhi-Taj Mahal : entrée rapide, aller-retour",
+  "metaDescription": "Regardez le Taj Mahal s'éveiller dans la première lumière du jour.",
+  "shortDescription": "Regardez le Taj Mahal s'éveiller dans la première lumière du jour.",
+  "fullDescription": "**Matin, Delhi vers Agra**\n\nPrise en charge à votre hôtel à Delhi ou à l'aéroport de Delhi.\n\nVoyagez vers Agra via l'autoroute Yamuna.\n\nArrivez à Agra et rencontrez votre guide local.\n\n**Lever du soleil au Taj Mahal**\n\nCommencez votre expérience d'Agra par une visite matinale du Taj Mahal au lever du soleil, lorsque le monument rayonne dans la douce lumière matinale.\n\nExplorez l'emblématique mausolée en marbre blanc et écoutez l'histoire fascinante de Shah Jahan et Mumtaz Mahal.\n\nProfitez de temps pour les photographies et admirez le Taj Mahal dans son atmosphère paisible du matin.\n\n**Après-midi, déjeuner et artisanat local**\n\nProfitez du déjeuner dans un restaurant local, avec une cuisine moghole traditionnelle recommandée.\n\nVisitez des artisans locaux et découvrez le savoir-faire traditionnel d'incrustation en marbre inspiré des techniques utilisées pour créer le Taj Mahal.\n\n**Fort d'Agra, arrêt photo en passant**\n\nPassez devant le fort d'Agra, ancien siège de l'Empire moghol et site du patrimoine mondial de l'UNESCO. Arrêtez-vous pour des photos tandis que votre guide partage des histoires sur ses grands palais, les dirigeants moghols, et les dernières années de Shah Jahan.\n\n**Soir, Baby Taj**\n\nVisitez Itmad-ud-Daulah (Baby Taj) et admirez son incrustation en marbre complexe et son architecture délicate.\n\nProfitez de vues sur le Taj Mahal à travers la rivière Yamuna et capturez des photographies mémorables.\n\nRetour à Delhi, détendez-vous pendant le trajet de retour vers Delhi.\n\nDépôt à votre hôtel ou à l'aéroport de Delhi, concluant votre excursion à Agra.\n\nUne belle fin :-)",
+  "highlights": [
+   "Regardez le Taj Mahal s'éveiller dans la première lumière du jour"
+  ],
+  "included": [
+   "Prise en charge et retour",
+   "Guide touristique professionnel",
+   "Voiture privée climatisée pour toute l'activité du tour (si option sélectionnée)",
+   "Billets d'entrée aux monuments (si option sélectionnée)",
+   "Petit-déjeuner ou déjeuner dans un hôtel 5 étoiles (si option sélectionnée)",
+   "Bouteille d'eau minérale",
+   "Toutes les taxes et le stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "delhi-2-day-private-guided-tour-with-car": {
+  "title": "Delhi : visite privée guidée de 2 jours avec voiture",
+  "metaTitle": "Delhi : visite privée guidée 2 jours avec voiture",
+  "metaDescription": "Voiture privée et propre avec chauffeur, pas les taxis typiques habituels.",
+  "shortDescription": "Voiture privée et propre avec chauffeur, pas les taxis typiques habituels.",
+  "fullDescription": "**Itinéraire de visite de la ville de Delhi en 2 jours**\n\nRemarque : il s'agit de l'itinéraire exemple et il est entièrement personnalisable selon votre préférence. Faites-nous savoir si vous souhaitez ajouter ou retirer un monument, notre équipe est très flexible :)\n\n**Jour 1 : prise en charge à Delhi, visite du vieux Delhi**\n\nPrise en charge à l'aéroport : un chauffeur parlant anglais vous attendra à la sortie de l'aéroport, tenant une pancarte avec votre nom pour votre prise en charge depuis l'aéroport.\n\nPrise en charge à l'hôtel : si vous êtes pris en charge depuis un hôtel à Delhi, votre chauffeur vous passera un appel rapide à son arrivée.\n\nLe chauffeur et le guide touristique vous prendront en charge à votre lieu choisi et commenceront votre visite excitante de Delhi.\n\n**Jama Masjid**\nUn début matinal de votre visite avec Jama Masjid, l'une des plus grandes et des plus emblématiques mosquées de l'Inde, construite à l'époque moghole.\n\n**Fort rouge de Delhi**\nLe fort rouge (Lal Qila) à Delhi est une citadelle moghole du XVIIe siècle commandée par l'empereur Shah Jahan en 1639 lorsqu'il déplaça sa capitale à Delhi.\n\n**Qutub Minar**\nQutub Minar est un site du patrimoine mondial de l'UNESCO et le plus haut minaret en briques du monde.\n\n**Chandni Chowk et trajet en rickshaw**\nC'est l'un des marchés les plus anciens, les plus animés, et les plus emblématiques du vieux Delhi. Connu comme la « place du clair de lune », ce bazar vibrant, chaotique, et historique. Profitez également de trajets en rickshaw à Chandni Chowk, si vous le souhaitez.\n\n**Agrasen ki Baoli**\nC'est l'un des rares puits à degrés de Delhi encore en bon état. Il a été déclaré monument protégé par l'Archaeological Survey of India (ASI).\n\n**Temple Akshardham**\nLe temple représente 10 000 ans de culture, d'architecture, et de spiritualité indiennes. Dédié à Bhagwan Swaminarayan, cette « demeure de Dieu ».\n\n**Dépôt à l'hôtel**\nAprès votre journée complète d'excursion à Delhi, le chauffeur vous déposera à votre hôtel à Delhi.\n\n**Jour 2 : visite de New Delhi, dépôt à Delhi**\n\n**Tombeau de Humayun**\nCommencez votre journée par une visite du tombeau de Humayun, un site du patrimoine mondial de l'UNESCO et un chef-d'œuvre de l'architecture moghole.\n\n**Birla Mandir**\nBirla Mandir est un serein temple en marbre blanc dédié au Seigneur Vishnu et à la déesse Lakshmi.\n\n**Temple du Lotus de Delhi**\nLe temple du Lotus est une merveille architecturale moderne en forme de fleur de lotus épanouie.\n\n**Jardins de Lodhi**\nLes jardins de Lodhi sont un parc patrimonial luxuriant rempli de tombeaux et de monuments du XVe siècle. Il offre un mélange rafraîchissant d'histoire, de nature, et de promenades tranquilles au centre de Delhi.\n\n**India Gate**\nVous verrez ensuite India Gate, situé à New Delhi, un emblématique mémorial de guerre de 42 mètres de hauteur conçu par Sir Edwin Lutyens, commémorant 70 000 soldats de l'armée britannique indienne morts pendant la Première Guerre mondiale et la troisième guerre anglo-afghane.\n\n**Parliament House**\nEnfin, vous verrez le Parlement de l'Inde, ou Sansad Bhavan, l'organe législatif suprême de la nation, comprenant le Président, le Rajya Sabha (chambre haute), et le Lok Sabha (chambre basse). Il fonctionne comme un parlement bicaméral à New Delhi.\n\n**Dépôt à l'hôtel/aéroport**\nAprès votre journée complète de visite de Delhi, le chauffeur vous déposera à n'importe quel lieu souhaité à Delhi.\n\n**Véhicules disponibles**\n\nSelon la taille de votre groupe : berline climatisée 4 places pour 1 à 2 personnes, SUV climatisé 6 places pour 3 à 4 personnes, ou van climatisé 10 places pour 5 à 10 personnes.\n",
+  "highlights": [
+   "Voiture privée et propre avec chauffeur, pas les taxis typiques habituels"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Guide touristique privé",
+   "Bouteilles d'eau pendant toute la visite",
+   "Véhicule privé climatisé (le type de véhicule dépend du nombre d'adultes)",
+   "Type de voiture pour 1 à 2 personnes : berline climatisée 4 places ; pour 3 à 4 personnes : SUV climatisé 6 places ; pour 5 à 10 personnes : van climatisé 10 places",
+   "Visite privée",
+   "Transport en voiture privée climatisée",
+   "Toutes les taxes, frais, et frais de manutention",
+   "Supplément carburant",
+   "TPS (taxe sur les produits et services)",
+   "Soin et attention personnalisés"
+  ],
+  "notIncluded": [
+   "Billets d'entrée (pas d'attente dans les files ! Les guides organisent les billets d'entrée à l'avance. Payez simplement le coût exact du billet en espèces au guide à la fin de la visite)",
+   "Repas",
+   "Pourboires (optionnel)"
+  ]
+ },
+ "golden-triangle-tour-3-days-2-nights-with-private": {
+  "title": "Visite du Triangle Doré, 3 jours 2 nuits, avec voiture privée et guide",
+  "metaTitle": "Triangle Doré : 3 jours 2 nuits, voiture privée",
+  "metaDescription": "Visite au lever du soleil du Taj Mahal mondialement célèbre.",
+  "shortDescription": "Visite au lever du soleil du Taj Mahal mondialement célèbre.",
+  "fullDescription": "Découvrez le Triangle Doré de l'Inde lors de cette visite de 3 jours et 2 nuits avec voiture privée et guide. Profitez d'une visite au lever du soleil du Taj Mahal mondialement célèbre, explorez le fort d'Agra, et découvrez les merveilles de Jaipur, la ville rose, avec un hébergement flexible en hôtel 3, 4, ou 5 étoiles selon votre préférence.",
+  "highlights": [
+   "Visite au lever du soleil du Taj Mahal mondialement célèbre"
+  ],
+  "included": [
+   "Prise en charge et retour",
+   "Voiture privée climatisée pour toute l'activité du tour",
+   "Guide touristique professionnel",
+   "Bouteille d'eau minérale",
+   "Tous les péages et le stationnement",
+   "Billets d'entrée",
+   "Inclut hôtel 3 étoiles",
+   "Hôtel 4 étoiles",
+   "Hôtel 5 étoiles"
+  ],
+  "notIncluded": [
+   "Le shopping et les dépenses personnelles du client ne sont pas inclus",
+   "Toute dépense personnelle",
+   "Le déjeuner et le dîner ne sont pas inclus",
+   "Le pourboire n'est pas inclus"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",

@@ -1841,6 +1841,83 @@ export const DE_TOURS: Record<string, TourT> = {
    "Essen und Getränke"
   ]
  },
+ "delhi-round-trip-taj-mahal-fast-track-entry-tour": {
+  "title": "Delhi Hin- und Rückfahrt: Taj Mahal Schnellzugangstour mit Optionen",
+  "metaTitle": "Delhi-Taj Mahal: Schnellzugang, hin und zurück",
+  "metaDescription": "Beobachten Sie, wie der Taj Mahal im ersten Tageslicht erwacht.",
+  "shortDescription": "Beobachten Sie, wie der Taj Mahal im ersten Tageslicht erwacht.",
+  "fullDescription": "**Morgen, Delhi nach Agra**\n\nAbholung von Ihrem Hotel in Delhi oder dem Flughafen Delhi.\n\nReisen Sie nach Agra über die Yamuna Expressway.\n\nKommen Sie in Agra an und treffen Sie Ihren lokalen Guide.\n\n**Sonnenaufgang am Taj Mahal**\n\nBeginnen Sie Ihr Agra-Erlebnis mit einem frühmorgendlichen Besuch des Taj Mahal bei Sonnenaufgang, wenn das Denkmal im sanften Morgenlicht erstrahlt.\n\nErkunden Sie das ikonische weiße Marmormausoleum und hören Sie die faszinierende Geschichte von Shah Jahan und Mumtaz Mahal.\n\nGenießen Sie Zeit für Fotos und bewundern Sie den Taj Mahal in seiner friedlichen Morgenatmosphäre.\n\n**Nachmittag, Mittagessen und lokales Kunsthandwerk**\n\nGenießen Sie das Mittagessen in einem lokalen Restaurant, mit empfohlener traditioneller Mughlai-Küche.\n\nBesuchen Sie lokale Kunsthandwerker und entdecken Sie die traditionelle Marmor-Einlegekunst, inspiriert von den Techniken, die zur Schaffung des Taj Mahal verwendet wurden.\n\n**Agra Fort, Vorbeifahrt und Fotostopp**\n\nFahren Sie am Agra Fort vorbei, dem ehemaligen Sitz des Mogulreichs und einer UNESCO-Welterbestätte. Halten Sie für Fotos, während Ihr Guide Geschichten über seine prächtigen Paläste, Mogulherrscher, und Shah Jahans letzte Jahre teilt.\n\n**Abend, Baby Taj**\n\nBesuchen Sie Itmad-ud-Daulah (Baby Taj) und bewundern Sie seine kunstvolle Marmor-Einlegearbeit und zarte Architektur.\n\nGenießen Sie Ausblicke auf den Taj Mahal über den Fluss Yamuna und machen Sie unvergessliche Fotos.\n\nRückkehr nach Delhi, entspannen Sie sich auf der Rückfahrt nach Delhi.\n\nAbgabe an Ihrem Hotel oder dem Flughafen Delhi, womit Ihr Agra-Tagesausflug endet.\n\nEin schönes Ende :-)",
+  "highlights": [
+   "Beobachten Sie, wie der Taj Mahal im ersten Tageslicht erwacht"
+  ],
+  "included": [
+   "Abholung und Rückfahrt",
+   "Professioneller Reiseführer",
+   "Privates klimatisiertes Auto für die gesamte Tour (falls Option ausgewählt)",
+   "Eintrittstickets für Denkmäler (falls Option ausgewählt)",
+   "Frühstück oder Mittagessen in einem 5-Sterne-Hotel (falls Option ausgewählt)",
+   "Mineralwasserflasche",
+   "Alle Steuern und Parken"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "delhi-2-day-private-guided-tour-with-car": {
+  "title": "Delhi: 2-tägige private geführte Tour mit Auto",
+  "metaTitle": "Delhi: private geführte Tour 2 Tage mit Auto",
+  "metaDescription": "Privates und sauberes Auto mit Chauffeur, nicht die typischen alten Taxis.",
+  "shortDescription": "Privates und sauberes Auto mit Chauffeur, nicht die typischen alten Taxis.",
+  "fullDescription": "**Reiseplan der 2-tägigen Delhi-Stadttour**\n\nHinweis: Dies ist der Beispielreiseplan und vollständig nach Ihren Wünschen anpassbar. Lassen Sie uns wissen, wenn Sie ein Denkmal hinzufügen oder entfernen möchten, unser Team ist sehr flexibel :)\n\n**Tag 1: Abholung in Delhi, Tour durch Alt-Delhi**\n\nFlughafenabholung: Ein englischsprachiger Chauffeur wird am Flughafenausgang auf Sie warten und ein Schild mit Ihrem Namen für Ihre Abholung vom Flughafen halten.\n\nHotelabholung: Wenn Sie von einem Hotel in Delhi abgeholt werden, ruft Ihr Chauffeur Sie kurz bei der Ankunft an.\n\nDer Chauffeur und der Reiseführer holen Sie an Ihrem gewählten Ort ab und beginnen Ihre aufregende Delhi-Besichtigungstour.\n\n**Jama Masjid**\nEin früher Start Ihrer Tour mit dem Besuch von Jama Masjid, einer der größten und ikonischsten Moscheen Indiens, erbaut während der Mogulzeit.\n\n**Rotes Fort Delhi**\nDas Rote Fort (Lal Qila) in Delhi ist eine Mogul-Zitadelle aus dem 17. Jahrhundert, beauftragt von Kaiser Shah Jahan im Jahr 1639, als er seine Hauptstadt nach Delhi verlegte.\n\n**Qutub Minar**\nQutub Minar ist eine UNESCO-Welterbestätte und das höchste Backsteinminarett der Welt.\n\n**Chandni Chowk und Rikscha-Fahrt**\nEs ist einer der ältesten, geschäftigsten, und ikonischsten Märkte Alt-Delhis. Bekannt als \"Mondlichtplatz\", dieser lebendige, chaotische, und historische Bazar. Genießen Sie auch Rikscha-Fahrten in Chandni Chowk, wenn Sie möchten.\n\n**Agrasen ki Baoli**\nEs ist einer der wenigen Stufenbrunnen in Delhi, der noch in gutem Zustand ist. Er wurde vom Archaeological Survey of India (ASI) als geschütztes Denkmal erklärt.\n\n**Akshardham-Tempel**\nDer Tempel repräsentiert 10.000 Jahre indischer Kultur, Architektur, und Spiritualität. Gewidmet Bhagwan Swaminarayan, diese \"Wohnstätte Gottes\".\n\n**Hotelabgabe**\nNach Ihrem vollen Tag der Delhi-Tagestour bringt Sie der Fahrer zu Ihrem Hotel in Delhi.\n\n**Tag 2: New-Delhi-Tour, Abgabe in Delhi**\n\n**Humayuns Grab**\nBeginnen Sie Ihren Tag mit einem Besuch von Humayuns Grab, einer UNESCO-Welterbestätte und einem Meisterwerk der Mogul-Architektur.\n\n**Birla Mandir**\nBirla Mandir ist ein ruhiger weißer Marmor-Tempel, gewidmet Lord Vishnu und Göttin Lakshmi.\n\n**Lotus-Tempel Delhi**\nDer Lotus-Tempel ist ein modernes architektonisches Wunder, geformt wie ein blühender Lotus-Blumentempel.\n\n**Lodhi-Gärten**\nDie Lodhi-Gärten sind ein üppiger historischer Park voller Gräber und Denkmäler aus dem 15. Jahrhundert. Er bietet eine erfrischende Mischung aus Geschichte, Natur, und ruhigen Spaziergängen im Zentrum von Delhi.\n\n**India Gate**\nDann sehen Sie India Gate, gelegen in New Delhi, ein ikonisches 42 Meter hohes Kriegsdenkmal, entworfen von Sir Edwin Lutyens, das an 70.000 Soldaten der britisch-indischen Armee erinnert, die im Ersten Weltkrieg und im Dritten Anglo-Afghanischen Krieg starben.\n\n**Parlamentsgebäude**\nZuletzt sehen Sie das Parlament Indiens, oder Sansad Bhavan, das oberste gesetzgebende Organ der Nation, bestehend aus dem Präsidenten, der Rajya Sabha (Oberhaus), und der Lok Sabha (Unterhaus). Es fungiert als Zweikammerparlament in New Delhi.\n\n**Hotel-/Flughafenabgabe**\nNach Ihrem vollen Tag der Delhi-Tour bringt Sie der Fahrer zu jedem gewünschten Ort in Delhi.\n\n**Verfügbare Fahrzeuge**\n\nJe nach Gruppengröße: klimatisierte 4-sitzige Limousine für 1-2 Personen, klimatisierter 6-sitziger SUV für 3-4 Personen, oder klimatisierter 10-sitziger Van für 5-10 Personen.\n",
+  "highlights": [
+   "Privates und sauberes Auto mit Chauffeur, nicht die typischen alten Taxis"
+  ],
+  "included": [
+   "Hotelabholung und Rückfahrt",
+   "Privater Reiseführer",
+   "Wasserflaschen während der gesamten Tour",
+   "Privates klimatisiertes Fahrzeug (der Fahrzeugtyp hängt von der Anzahl der Erwachsenen ab)",
+   "Autotyp für 1-2 Personen: klimatisierte 4-sitzige Limousine; für 3-4 Personen: klimatisierter 6-sitziger SUV; für 5-10 Personen: klimatisierter 10-sitziger Van",
+   "Private Tour",
+   "Transport in einem privaten, klimatisierten Auto",
+   "Alle Steuern, Gebühren, und Bearbeitungsgebühren",
+   "Kraftstoffzuschlag",
+   "GST (Waren- und Dienstleistungssteuer)",
+   "Persönliche Betreuung und Aufmerksamkeit"
+  ],
+  "notIncluded": [
+   "Eintrittstickets (kein Warten in Schlangen! Guides organisieren Eintrittstickets im Voraus. Zahlen Sie einfach den genauen Ticketpreis in bar an den Guide am Ende der Besichtigung)",
+   "Mahlzeiten",
+   "Trinkgelder (optional)"
+  ]
+ },
+ "golden-triangle-tour-3-days-2-nights-with-private": {
+  "title": "Goldenes-Dreieck-Tour, 3 Tage 2 Nächte, mit privatem Auto und Guide",
+  "metaTitle": "Goldenes Dreieck: 3 Tage 2 Nächte, privates Auto",
+  "metaDescription": "Sonnenaufgangsbesuch beim weltberühmten Taj Mahal.",
+  "shortDescription": "Sonnenaufgangsbesuch beim weltberühmten Taj Mahal.",
+  "fullDescription": "Entdecken Sie Indiens Goldenes Dreieck auf dieser 3-tägigen Tour mit 2 Übernachtungen, privatem Auto, und Guide. Genießen Sie einen Sonnenaufgangsbesuch beim weltberühmten Taj Mahal, erkunden Sie das Agra Fort, und entdecken Sie die Wunder von Jaipur, der Pink City, mit flexibler Unterkunft in 3-, 4-, oder 5-Sterne-Hotels je nach Ihrer Präferenz.",
+  "highlights": [
+   "Sonnenaufgangsbesuch beim weltberühmten Taj Mahal"
+  ],
+  "included": [
+   "Abholung und Rückfahrt",
+   "Privates klimatisiertes Auto für die gesamte Tour",
+   "Professioneller Reiseführer",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parken",
+   "Eintrittstickets",
+   "Inklusive 3-Sterne-Hotel",
+   "4-Sterne-Hotel",
+   "5-Sterne-Hotel"
+  ],
+  "notIncluded": [
+   "Einkaufen und eigene Ausgaben des Kunden sind nicht enthalten",
+   "Jegliche persönliche Ausgaben",
+   "Mittag- und Abendessen nicht enthalten",
+   "Trinkgeld nicht enthalten"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
