@@ -20465,6 +20465,72 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten und Getränke: Essen und Getränke werden während der Show nicht bereitgestellt"
   ]
  },
+ "delhi-ranthambore-national-park-3-day-trip-w": {
+  "title": "Delhi: 3-tägiger Ausflug zum Ranthambore-Nationalpark mit Tigersafari",
+  "metaTitle": "Delhi-Ranthambore: Tigersafari in 3 Tagen",
+  "metaDescription": "Die Bestätigung wird zum Zeitpunkt der Buchung erhalten.",
+  "shortDescription": "Die Bestätigung wird zum Zeitpunkt der Buchung erhalten.",
+  "fullDescription": "**Tag 1**\nAbholung von Ihrem Hotel und Flughafen, Fahrt mit Fahrer nach Ranthambore, Ruhe in Ihrem Hotel.\n\n**Tag 2**\nWachen Sie früh am Morgen auf, und bereiten Sie sich auf eine morgendliche Dschungelsafari im Ranthambore-Nationalpark vor. Erkunden Sie die Tierwelt von Ranthambore mit einem erfahrenen Guide und Fahrer. Der Besuch der Dschungelsafari im Park dauert etwa 3 Stunden, danach kehren Sie zum Hotel zum Frühstück zurück. Es ist Zeit, die Einrichtungen Ihres Hotels zu genießen, die Sie erfrischen werden.\n\nNach dem Mittagessen bereiten Sie sich auf eine weitere aufregende Dschungelsafari im Ranthambore-Wildschutzgebiet vor. Sie kehren bei Sonnenuntergang aus dem Wald zurück. Nach einem aufregenden Tag genießen Sie ein köstliches Abendessen, und übernachten komfortabel im Hotel.\n\n**Tag 3**\nGenießen Sie ein nahrhaftes und köstliches Frühstück, checken Sie dann aus dem Hotel aus, mit Fahrer nach Delhi.",
+  "highlights": [
+   "Die Bestätigung wird zum Zeitpunkt der Buchung erhalten"
+  ],
+  "included": [
+   "Abhol- und Rückbringservice",
+   "2 Jeep-Safaris werden gemäß Reiseplan angeboten (falls ausgewählt)",
+   "Unterbringung für 2 Nächte in einem 3-Tage-Hotel (falls ausgewählt)",
+   "Tägliches Frühstück im Hotel",
+   "Alle Parkgebühren, Mautgebühren, und Steuern"
+  ],
+  "notIncluded": [
+   "Jegliche Art von persönlichen Ausgaben wie Trinkgeld, Wäsche, Telefonrechnungen, und Getränke",
+   "Kameragebühr (Foto oder Video)",
+   "Mittag- und Abendessen"
+  ]
+ },
+ "new-delhi-local-shopping-tour-by-car-female-guide": {
+  "title": "Neu-Delhi: lokale Shopping-Tour mit Auto, Option mit weiblichem Guide",
+  "metaTitle": "Delhi: Shopping mit Auto, weiblicher Guide",
+  "metaDescription": "Entdecken Sie Delhis berühmte Märkte auf einer privaten Shopping-Tour.",
+  "shortDescription": "Entdecken Sie Delhis berühmte Märkte auf einer privaten Shopping-Tour.",
+  "fullDescription": "Erleben Sie die lebendigen Farben, Aromen, und Traditionen Delhis auf einer privaten Shopping-Tour mit dem Auto. Erkunden Sie die berühmten Märkte der Stadt mit einer bequemen Hotelabholung, einem privaten klimatisierten Fahrzeug, und einem erfahrenen lokalen Shopping-Guide.\n\nBeginnen Sie Ihre Delhi-Shopping-Tour in Chandni Chowk, einem der ältesten und berühmtesten Märkte der Stadt. Entdecken Sie geschäftige Gassen voller traditioneller indischer Textilien, Gewürze, Silberschmuck, Kunsthandwerk, und Souvenirs. Genießen Sie eine lustige Rikscha-Fahrt durch die lebhaften Straßen, und erleben Sie die authentische Atmosphäre Alt-Delhis.\n\nWeiter geht es zum Dilli Haat, einem beliebten Open-Air-Kunsthandwerks- und Kulturmarkt, der Produkte von Kunsthandwerkern aus ganz Indien zeigt. Durchstöbern Sie handgefertigte Textilien, Töpferwaren, Lederwaren, traditionelles Kunsthandwerk, und regionale Spezialitäten. Ihr Guide kann Ihnen helfen, authentische Produkte zu finden und den Markt mit Leichtigkeit zu durchqueren.\n\nAls Nächstes besuchen Sie Connaught Place, Delhis historisches Shopping- und Unterhaltungszentrum. Erkunden Sie Markengeschäfte, lokale Boutiquen, moderne Showrooms, und traditionelle Geschäfte. Machen Sie eine entspannte Pause in einem historischen Café, oder machen Sie unvergessliche Fotos rund um die ikonische koloniale Architektur.\n\nGenießen Sie ein flexibles privates Shopping-Erlebnis, zugeschnitten auf Ihre Interessen, ob Sie indisches Kunsthandwerk, Schmuck, Textilien, Mode, Antiquitäten, Kunstwerke, oder einzigartige Souvenirs suchen. Am Ende Ihrer Delhi-Shopping-Tour entspannen Sie sich in Ihrem privaten Auto, während Sie bequem zu Ihrem Hotel zurückgebracht werden.",
+  "highlights": [
+   "Entdecken Sie Delhis berühmte Märkte auf einer privaten Shopping-Tour"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto mit Fahrer",
+   "Professioneller englischsprachiger Guide",
+   "Abholung und Rückbringung zum Hotel",
+   "Wasser in Flaschen",
+   "Parken, Mautgebühren, und Kraftstoffkosten"
+  ],
+  "notIncluded": [
+   "Persönliche Einkaufsausgaben",
+   "Mahlzeiten oder Getränke (sofern nicht anders angegeben)"
+  ]
+ },
+ "delhi-private-half-day-guided-shopping-tour-with": {
+  "title": "Delhi: private geführte Halbtages-Shopping-Tour mit Abholung",
+  "metaTitle": "Delhi: privates Shopping geführt, Halbtag",
+  "metaDescription": "Entdecken Sie die lebendigen Basare von Chandni Chowk mit einem privaten erfahrenen Guide.",
+  "shortDescription": "Entdecken Sie die lebendigen Basare von Chandni Chowk mit einem privaten erfahrenen Guide.",
+  "fullDescription": "Tauchen Sie ein in das Herz der geschäftigen Basare Delhis bei dieser privaten geführten Halbtages-Shopping-Tour, konzipiert für Reisende, die mehr als nur Besichtigungen möchten. Mit Hotelabholung führt Ihr Guide Sie in Delhis bunte Märkte, wo Tradition auf modernen Stil trifft.\n\nBeginnen Sie in Alt-Delhis Chandni Chowk, einem lebhaften Basar, überflutet mit Seide, Schmuck, und versteckten Schätzen. Navigieren Sie durch die gewundenen Gassen, und erleben Sie den Rhythmus des Alltagslebens, während Händler ihre Angebote ausrufen. Weiter geht es zum berühmten Khari-Baoli-Gewürzmarkt, wo der Duft von Kardamom, Safran, und Zimt die Luft erfüllt. Hier entdecken Sie Asiens größtes Gewürzzentrum, ein sinnliches Abenteuer ohnegleichen.\n\nFür diejenigen, die eine zeitgemäße Atmosphäre bevorzugen, erkunden Sie Connaught Place oder Dilli Haat, wo traditionelles Kunsthandwerk auf moderne Boutiquen trifft. Ob Sie Stoffe, Souvenirs, oder eleganten Schmuck suchen, Ihr privater Guide hilft Ihnen, klug einzukaufen und die besten Angebote zu verhandeln.\n\nDiese Delhi-Shopping-Tour geht nicht nur um Einkaufen, es geht um das Eintauchen in Kultur, Aromen, und authentische Erlebnisse. Mit privaten Transfers, Wasser in Flaschen, und einem kundigen Guide ist es stressfrei, sicher, und zutiefst unvergesslich.",
+  "highlights": [
+   "Entdecken Sie die lebendigen Basare von Chandni Chowk mit einem privaten erfahrenen Guide"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel (Delhi, Noida, Gurugram, Ghaziabad, Faridabad)",
+   "Privates klimatisiertes Auto mit Fahrer",
+   "Genießen Sie eine Rikscha-Fahrt durch Alt-Delhi",
+   "Privater professioneller Shopping-Guide",
+   "Unterstützung beim Verhandeln und bei Einkäufen",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und persönliche Ausgaben",
+   "Trinkgeld für Guide/Fahrer",
+   "Jegliche Einkäufe"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
