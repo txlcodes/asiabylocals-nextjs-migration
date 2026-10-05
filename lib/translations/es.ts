@@ -1574,6 +1574,74 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "agra-taj-mahal-mausoleum-with-skip-the-line-entry": {
+  "title": "Agra: Taj Mahal y mausoleo con entrada sin colas y guía",
+  "metaTitle": "Agra: Taj Mahal, sin colas, guía",
+  "metaDescription": "Evite las filas con boletos de entrada al Taj Mahal reservados con antelación.",
+  "shortDescription": "Evite las filas con boletos de entrada al Taj Mahal reservados con antelación.",
+  "fullDescription": "Una vez que haya reservado este tour con nosotros, simplemente relájese, nosotros nos encargamos de todo de principio a fin. Sus boletos para el Taj Mahal se comprarán con antelación, y nuestro guía profesional lo recibirá en su hotel o en cualquier lugar de su elección en Agra. Evite las largas filas y diríjase directamente al Taj Mahal para una experiencia inolvidable. Disfrute de su tiempo explorando, tomando hermosas fotos, y conociendo la fascinante historia del monumento. Su guía sugerirá los mejores lugares para fotos y compartirá historias ocultas detrás del mármol.\n\nDespués del tour, será llevado cómodamente de regreso a su hotel o lugar preferido en Agra.",
+  "highlights": [
+   "Evite las filas con boletos de entrada al Taj Mahal reservados con antelación"
+  ],
+  "included": [
+   "Acceso de entrada sin colas",
+   "Guía turístico profesional con licencia",
+   "Recogida y traslado al hotel en Agra",
+   "Vehículo privado con aire acondicionado para traslados",
+   "Agua embotellada durante el tour",
+   "Boleto de entrada (si se elige la opción)"
+  ],
+  "notIncluded": [
+   "Comidas, bocadillos",
+   "Gastos personales"
+  ]
+ },
+ "same-day-agrataj-mahal-tour-from-delhi-all": {
+  "title": "Tour de Agra y el Taj Mahal en el mismo día desde Delhi: todo incluido",
+  "metaTitle": "Delhi-Agra/Taj Mahal, mismo día, todo incluido",
+  "metaDescription": "Tour guiado del Taj Mahal, una de las Siete Maravillas del Mundo.",
+  "shortDescription": "Tour guiado del Taj Mahal, una de las Siete Maravillas del Mundo.",
+  "fullDescription": "**5:30 a.m. – recogida desde Delhi**\nRecogida temprano por la mañana en su hotel/aeropuerto en Delhi/NCR. Trayecto hacia Agra por la autopista Yamuna (aproximadamente 3 horas).\n\n**8:30 a.m. – llegada a Agra y encuentro con su guía**\nConozca a su guía turístico local profesional en Agra. Comience su tour guiado de avistamiento.\n\n**9:00 a.m. – visita al Taj Mahal**\nExplore el majestuoso Taj Mahal, una de las Siete Maravillas del Mundo. Su guía compartirá la historia y la historia de amor detrás de esta maravilla de mármol blanco.\n\n**11:30 a.m. – visita al Fuerte de Agra**\nDiríjase al Fuerte de Agra, Sitio del Patrimonio Mundial de la UNESCO, una impresionante estructura de arenisca roja que sirvió como residencia real de los mogoles.\n\n**1:00 p.m. – almuerzo en un hotel de 5 estrellas**\nDisfrute de un delicioso almuerzo buffet en un hotel de 5 estrellas o un restaurante local bien valorado (incluido).\n\n**2:30 p.m. – visita a Itimad-ud-Daulah (Baby Taj)**\nExplore el exquisito Itimad-ud-Daulah, a menudo llamado el \"Baby Taj\", conocido por su intrincado trabajo de incrustación en mármol.\n\n**3:30 p.m. – visita de arte y artesanía local (opcional)**\nVisite artesanos locales para ver el famoso trabajo de incrustación en mármol, alfombras, o artesanía de Agra. (Parada opcional a pedido.)\n\n**4:00 p.m. – regreso a Delhi**\nComience su viaje de regreso a Delhi en auto privado.\n\n**7:00 p.m. – traslado a su hotel/aeropuerto**\nLlegue a Delhi y sea dejado en su lugar preferido.",
+  "highlights": [
+   "Tour guiado del Taj Mahal, una de las Siete Maravillas del Mundo"
+  ],
+  "included": [
+   "Recogida y traslado",
+   "Transporte en auto privado con aire acondicionado con chófer",
+   "Guía turístico en vivo profesional aprobado",
+   "Entrada sin colas",
+   "Agua embotellada",
+   "Almuerzo (si se selecciona la opción)",
+   "Boletos de entrada a los monumentos (si se selecciona la opción)",
+   "Todos los peajes y estacionamiento"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "bharatpur-bird-sanctuary-tour-with-pickup-and-drop": {
+  "title": "Tour del santuario de aves de Bharatpur con recogida y traslado",
+  "metaTitle": "Bharatpur: santuario de aves, recogida y traslado",
+  "metaDescription": "Auto privado con aire acondicionado para recogida y traslado.",
+  "shortDescription": "Auto privado con aire acondicionado para recogida y traslado.",
+  "fullDescription": "En este tour, nuestro conductor profesional lo recogerá en cualquier lugar deseado en Agra, ya sea su hotel, la estación de tren, o la terminal de autobuses. Desde allí, disfrutará de un cómodo trayecto de 1,5 horas en auto privado hacia el reconocido santuario de aves de Bharatpur, también conocido como el Parque Nacional Keoladeo.\n\nA su llegada al santuario, nuestro experimentado guía local se unirá a usted y lo acompañará en un emocionante safari en jeep abierto a través del corazón de la selva. Mientras viaja por el santuario, estará rodeado de una atmósfera pacífica y refrescante y tendrá la oportunidad de observar una amplia variedad de aves raras y migratorias que hacen de este parque un paraíso para los observadores de aves.\n\nUno de los puntos destacados del tour incluye una visita al famoso mirador del lago, donde su guía lo ayudará a observar y comprender las especies de aves únicas que se reúnen alrededor del agua. Esta experiencia de naturaleza de 3 horas está diseñada para ofrecer tanto aventura como tranquilidad, haciendo que su visita sea verdaderamente memorable.",
+  "highlights": [
+   "Auto privado con aire acondicionado para recogida y traslado"
+  ],
+  "included": [
+   "Tour privado",
+   "Recogida y traslado en auto privado con aire acondicionado",
+   "Todos los peajes, impuestos, y tarifas de estacionamiento",
+   "Experiencia de safari en jeep abierto",
+   "Botellas de agua",
+   "Fotos dignas de redes sociales tomadas por el guía"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Almuerzo"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
