@@ -678,6 +678,69 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier gasto personal"
   ]
  },
+ "delhiagrajaipur-guided-shopping-tour-with-expert": {
+  "title": "Delhi/Agra/Jaipur: tour de compras guiado con guía experto",
+  "metaTitle": "Delhi/Agra/Jaipur: compras guiadas con experto",
+  "metaDescription": "Explore famosos mercados locales y tesoros de compras escondidos.",
+  "shortDescription": "Explore famosos mercados locales y tesoros de compras escondidos.",
+  "fullDescription": "Descubra los colores, la artesanía, y la cultura de la India a través de nuestros tours de compras guiados en Delhi, Agra, y Jaipur. Cada ciudad ofrece una experiencia de compras única llena de mercados tradicionales, artesanos locales, productos hechos a mano, y auténtico patrimonio indio. Ya sea que busque textiles, joyería, artesanía, artículos de cuero, recuerdos, o boutiques de diseñadores, nuestros guías locales expertos lo ayudan a explorar las mejores zonas de compras mientras comparten información local e historias culturales.\n\nEsta experiencia está diseñada para viajeros que quieren más que un turismo ordinario. Junto con las compras, descubrirá la atmósfera, las tradiciones, y la vida cotidiana de cada destino a través de sus famosos bazares y distritos de artesanos. Puede elegir un tour de compras separado en Delhi, Agra, o Jaipur según sus planes de viaje e intereses.\n\nEn Delhi, explore una mezcla de destinos de compras tradicionales y modernos. Camine por los animados callejones de Chandni Chowk, descubra artesanía en tiendas aprobadas por el gobierno, recorra coloridos mercados callejeros, y visite boutiques elegantes y distritos comerciales. Delhi es conocida por sus textiles, moda, especias, joyería, alfombras, artesanía, y diseños indios contemporáneos.\n\nEn Agra, disfrute de experiencias de compras inspiradas en el arte mogol y la artesanía patrimonial. Visite talleres y tiendas locales famosos por el trabajo de incrustación en mármol, productos de cuero, alfombras, piedras preciosas, y recuerdos artesanales. Su guía puede presentarle las auténticas tradiciones artesanales conectadas con la rica historia y cultura de la ciudad.\n\nEn Jaipur, experimente los vibrantes mercados de la Ciudad Rosa, conocida mundialmente por el arte y la artesanía tradicional de Rajastán. Explore bazares llenos de textiles estampados en bloque, cerámica azul, joyería de plata, piedras preciosas, zapatos mojari, bolsos hechos a mano, y artesanía decorativa. Jaipur es un paraíso para los compradores que buscan productos locales coloridos y auténticos.\n\nNuestros tours de compras son flexibles y pueden personalizarse según sus intereses, estilo de compra preferido, y tiempo disponible. Ya sea que desee boutiques de lujo, bazares locales, tiendas de precio fijo, talleres de artesanos, o tesoros de mercado escondidos, su guía ayudará a crear una experiencia cómoda y agradable.\n\nEstos tours son ideales para viajeros solos, parejas, familias, y grupos que desean orientación local confiable mientras compran en la India. Su guía también puede ayudar con consejos de negociación, recomendaciones de productos, e información cultural para ayudarlo a comprar con confianza y evitar trampas turísticas.",
+  "highlights": [
+   "Explore famosos mercados locales y tesoros de compras escondidos"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto",
+   "Auto privado con aire acondicionado para el traslado con conductor",
+   "Guía turístico experto aprobado por el gobierno",
+   "Botella de agua mineral",
+   "Todos los peajes y estacionamiento"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
+  ]
+ },
+ "all-inclusive-taj-mahal-agra-highlight-day-trip": {
+  "title": "Excursión de un día todo incluido, lo más destacado del Taj Mahal y Agra, desde Delhi",
+  "metaTitle": "Todo incluido: Taj Mahal y Agra, excursión desde Delhi",
+  "metaDescription": "Visite el famoso Taj Mahal, una de las Siete Maravillas del Mundo.",
+  "shortDescription": "Visite el famoso Taj Mahal, una de las Siete Maravillas del Mundo.",
+  "fullDescription": "**1. Recogida en Delhi / NCR**\nSu conductor llegará a su lugar preferido en Delhi, Noida, Gurugram, Ghaziabad, o Faridabad. Comience su viaje hacia Agra por la moderna autopista Yamuna en un cómodo auto privado con aire acondicionado.\n\n**2. Llegada a Agra y encuentro con su guía**\nA su llegada a Agra, conozca a su experimentado guía turístico local que lo asistirá durante todo el recorrido.\n\n**3. Explore el Taj Mahal**\nVisite el impresionante Taj Mahal, una de las Siete Maravillas del Mundo y un Sitio del Patrimonio Mundial de la UNESCO. Construido por el emperador mogol Shah Jahan en memoria de su amada esposa Mumtaz Mahal, esta obra maestra de mármol blanco es admirada por su impresionante arquitectura, intrincados tallados, e historia romántica.\n\nDedique tiempo a capturar fotografías memorables y aprender historias fascinantes detrás de este monumento icónico.\n\n**4. Disfrute de un almuerzo buffet**\nRelájese y disfrute de un delicioso almuerzo buffet en un hotel de 5 estrellas en Agra con platos indios tradicionales e internacionales.\n\n**5. Visite el Fuerte de Agra**\nContinúe hacia el majestuoso Fuerte de Agra, otro Sitio del Patrimonio Mundial de la UNESCO. Esta impresionante fortaleza de arenisca roja sirvió como residencia principal de los emperadores mogoles durante muchos años.\n\nCamine por sus palacios reales, salones de audiencia, patios, y hermosos jardines mientras descubre la rica historia del Imperio mogol.\n\n**6. Visite Itimad-ud-Daulah (Baby Taj)**\nA continuación, visite el elegante Itimad-ud-Daulah, a menudo denominado el Baby Taj. Conocido por su delicado trabajo de incrustación en mármol y su entorno pacífico, este hermoso mausoleo se considera la inspiración detrás del diseño del Taj Mahal.\n\n**7. Explore la artesanía local**\nSi el tiempo lo permite, explore las famosas tiendas de artesanía de Agra conocidas por el arte de incrustación en mármol, artículos de cuero, alfombras, y recuerdos tradicionales.\n\n**8. Regreso a Delhi**\nDespués de completar su recorrido por Agra, comience su cómodo trayecto de regreso a Delhi.\n\n**9. Traslado a su ubicación**\nLlegue a Delhi y sea dejado en su hotel, aeropuerto, o lugar preferido con recuerdos inolvidables de su excursión a Agra.",
+  "highlights": [
+   "Visite el famoso Taj Mahal, una de las Siete Maravillas del Mundo"
+  ],
+  "included": [
+   "Recogida y traslado al hotel o aeropuerto",
+   "Guía turístico profesional en vivo",
+   "Vehículo privado con aire acondicionado para el viaje",
+   "Boletos de entrada a los monumentos (si se selecciona la opción)",
+   "Desayuno o almuerzo en un hotel de 5 estrellas (si se selecciona la opción)",
+   "Agua embotellada de cortesía",
+   "Todos los impuestos y tarifas aplicables incluidos"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Gastos personales"
+  ]
+ },
+ "agra-handicraft-shopping-tour-marble-jewelry-rugs": {
+  "title": "Tour de compras de artesanía en Agra: mármol, joyería, y alfombras",
+  "metaTitle": "Agra: compras de artesanía, mármol, joyería, alfombras",
+  "metaDescription": "Explore mármol, joyería, telas, y alfombras auténticos.",
+  "shortDescription": "Explore mármol, joyería, telas, y alfombras auténticos.",
+  "fullDescription": "Explore los vibrantes mercados locales de Agra en un tour de compras privado guiado diseñado para mostrar la rica artesanía de la ciudad más allá del Taj Mahal.\n\nComience con una visita a auténticos talleres de incrustación en mármol, donde artesanos expertos demuestran las técnicas tradicionales utilizadas durante generaciones para crear un fino arte en mármol.\n\nContinúe hacia tiendas locales de confianza para explorar recuerdos de mármol hechos a mano, tableros de mesa, y piezas decorativas elaboradas con piedras semipreciosas.\n\nDescubra las famosas colecciones de joyería de Agra, junto con telas de calidad y alfombras tejidas a mano que reflejan el patrimonio cultural de la ciudad.\n\nSu guía local explicará la historia, los materiales, y la artesanía detrás de cada producto, ayudándolo a entender la calidad y los precios justos.\n\nDisfrute de una experiencia de compras relajada y sin presión con paradas personalizables, transporte privado, y orientación experta para un tour de compras en Agra verdaderamente memorable.",
+  "highlights": [
+   "Explore mármol, joyería, telas, y alfombras auténticos"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto",
+   "Auto privado con aire acondicionado para el traslado con conductor",
+   "Guía turístico experto aprobado por el gobierno",
+   "Botella de agua mineral",
+   "Todos los peajes y estacionamiento"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
