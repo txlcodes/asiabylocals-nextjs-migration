@@ -21720,6 +21720,79 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "old-delhi-guided-food-tour-experience-with-local": {
+  "title": "Alt-Delhi: geführte kulinarische Tour mit örtlichem Experten",
+  "metaTitle": "Alt-Delhi: geführte kulinarische Tour",
+  "metaDescription": "Befolgen Sie die Anweisungen des Guides zu Hygiene und örtlicher Etikette.",
+  "shortDescription": "Befolgen Sie die Anweisungen des Guides zu Hygiene und örtlicher Etikette.",
+  "fullDescription": "Alt-Delhi: geführte kulinarische Tour mit örtlichem Experten. Befolgen Sie die Anweisungen des Guides zu Hygiene und örtlicher Etikette.\n\nWährend Sie durch die engen Gassen und belebten Märkte von Alt-Delhi gehen, begegnen Sie einer Vielzahl von Anblicken, Geräuschen, und Düften. Jede Ecke offenbart einen neuen kulinarischen Genuss, von brutzelnden Kebabs und duftenden Biryanis bis zu knusprigen Jalebis und cremigem Kulfi (traditionelles indisches Eis).\n\nWährend der Tour haben Sie die Gelegenheit, eine breite Palette von Street Food zu probieren. Zu den unbedingt zu probierenden Gerichten gehören oft:\n\nParathas: gefüllte Fladenbrote, serviert mit Pickles und Chutneys.\nChaat: würzige und scharfe Straßensnacks wie Golgappa (Pani Puri), Papdi Chaat, und Dahi Puri.\nKebabs: Spieße aus marinierten Fleisch- oder Gemüsestücken, perfekt gegart in Tandoors oder auf Holzkohlegrills.\nBiryani: duftender Reis, gekocht mit zarten Fleisch- oder Gemüsestücken, oft mit aromatischen Gewürzen verfeinert.\nSüßigkeiten: Gönnen Sie sich Desserts wie Rabri Falooda, Gajar Halwa, und natürlich die berühmten Jalebis.\n\n**Was ist enthalten**\nAbholung und Rückfahrt zum Hotel\nPrivater klimatisierter Transport\nPrivater Guide\nEintrittsgebühren (falls Option gewählt wird)\nTuk-Tuk-Fahrt\nStreet Food (falls Option gewählt wird)\nWasserflaschen\n\n**Nicht enthalten**\nGetränke\nTrinkgelder",
+  "highlights": [
+   "Befolgen Sie die Anweisungen des Guides zu Hygiene und örtlicher Etikette"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Privater klimatisierter Transport",
+   "Privater Guide",
+   "Eintrittsgebühren (falls Option gewählt wird)",
+   "Tuk-Tuk-Fahrt",
+   "Street Food (falls Option gewählt wird)",
+   "Wasserflaschen"
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Trinkgelder"
+  ]
+ },
+ "delhi-mathura-vrindavan-private-luxury-tour-with": {
+  "title": "Delhi: private Luxustour nach Mathura und Vrindavan mit Guide",
+  "metaTitle": "Delhi: Mathura und Vrindavan, Luxustour",
+  "metaDescription": "Tauchen Sie ein in das spirituelle Herz Indiens mit einer Luxustour.",
+  "shortDescription": "Tauchen Sie ein in das spirituelle Herz Indiens mit einer Luxustour.",
+  "fullDescription": "Delhi: private Luxustour nach Mathura und Vrindavan mit Guide. Tauchen Sie ein in das spirituelle Herz Indiens mit einer Luxustour.\n\nBegeben Sie sich auf eine sorgfältig gestaltete Luxuspilgerreise von Delhi zu den heiligen Ländern von Mathura und Vrindavan. Ihr Erlebnis beginnt mit einer prompten, professionellen Abholung von Ihrem Standort in einem Premium-klimatisierten SUV, konzipiert für ultimativen Komfort mit edlen Innenräumen und makelloser Sauberkeit. Genießen Sie eine reibungslose Fahrt entlang des Yamuna Expressway, die eine ruhige Stimmung für den Tag setzt.\n\nBei der Ankunft begrüßt Sie Ihr persönlicher Expertenguide, ein kenntnisreicher Einheimischer, bewandert in der Geschichte, Mythologie, und den lebendigen Traditionen von Braj. Er dient als Ihr kultureller Dolmetscher, und sorgt für ein nahtloses und aufschlussreiches Erlebnis.\n\nIhre Erkundung beginnt am Shri-Krishna-Janmasthan-Tempel, dem Geburtsort von Lord Krishna, wo Ihr Guide seine spirituelle und archäologische Bedeutung erläutert. Weiter geht es zum Regierungsmuseum, um antike Artefakte zu sehen, die das reiche Erbe der Region in einen Kontext setzen. Ein ruhiger Spaziergang am Vishram Ghat bietet einen Moment der Besinnung am Ufer der Yamuna.\n\nEin vorab arrangiertes Mittagessen in einem erstklassigen vegetarischen Restaurant ermöglicht es Ihnen, authentische Braj-Bhoomi-Küche zu genießen, einschließlich regionaler Spezialitäten wie Kachori und Chole Bhature, in einer eleganten Umgebung.\n\nIn Vrindavan spüren Sie die hingebungsvolle Energie am Banke-Bihari-Tempel, und erkunden die philosophischen und kulturellen Ausstellungen des ISKCON-Tempels. Die Reise gipfelt am prächtigen Prem Mandir, wo das abendliche Ton- und Lichtspektakel lebhaft göttliche Erzählungen schildert.\n\nRückkehr nach Delhi in entspannter Behaglichkeit, und Reflexion über einen zutiefst bereichernden Tag voller Kultur, Spiritualität, und unvergleichlichem Service.\n\n**Was ist enthalten**\nTransport im Luxus-SUV\nProfessioneller Chauffeur\nÖrtlicher Expertenguide\nBesuch des Shri-Krishna-Janmasthan-Tempels\nBesuch des Regierungsmuseums\nSpaziergang entlang des Vishram Ghat\nMittagessen in einem vegetarischen Restaurant\nBesuch des Banke-Bihari-Tempels\nBesuch des ISKCON-Tempels\nBesuch des Prem Mandir\nTon- und Musikshow am Prem Mandir\n\n**Nicht enthalten**\nPersönliche Ausgaben\nTrinkgelder\nHotelunterkunft",
+  "highlights": [
+   "Tauchen Sie ein in das spirituelle Herz Indiens mit einer Luxustour"
+  ],
+  "included": [
+   "Transport im Luxus-SUV",
+   "Professioneller Chauffeur",
+   "Örtlicher Expertenguide",
+   "Besuch des Shri-Krishna-Janmasthan-Tempels",
+   "Besuch des Regierungsmuseums",
+   "Spaziergang entlang des Vishram Ghat",
+   "Mittagessen in einem vegetarischen Restaurant",
+   "Besuch des Banke-Bihari-Tempels",
+   "Besuch des ISKCON-Tempels",
+   "Besuch des Prem Mandir",
+   "Ton- und Musikshow am Prem Mandir"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder",
+   "Hotelunterkunft"
+  ]
+ },
+ "delhi-hidden-gem-nature-oasis-mudhouse-visit-with": {
+  "title": "Delhi: versteckte Natur-Oase und Besuch des Lehmhauses mit Mittagessen",
+  "metaTitle": "Delhi: Natur-Oase und Lehmhaus",
+  "metaDescription": "Van Bhoj ist ein architektonisches Wunder, erbaut von den Architekten Revathi und Vasanth Kamath.",
+  "shortDescription": "Van Bhoj ist ein architektonisches Wunder, erbaut von den Architekten Revathi und Vasanth Kamath.",
+  "fullDescription": "Delhi: versteckte Natur-Oase und Besuch des Lehmhauses mit Mittagessen. Van Bhoj ist ein architektonisches Wunder, erbaut von den Architekten Revathi und Vasanth Kamath.\n\nEntdecken Sie Van Bhoj, ein nachhaltiges Lehmhaus im NCR von Delhi, und erfahren Sie mehr über seine Geschichte und umweltfreundlichen Praktiken. Beginnen Sie mit einer geführten Tour durch das Lehmhaus, erbaut mit Materialien aus dem umliegenden Land. Bewundern Sie die großen Glasfenster, die reichlich Sonnenlicht hereinlassen, und Ausblicke auf die üppigen grünen Baumkronen bieten.\n\nErkunden Sie die nachhaltigen Merkmale des Hauses, wie Regenwassersammlung, Abwasseraufbereitung, Solarkochen, und Kompostierung. Erfahren Sie mehr über die Geschichte des Hauses, und wie es zu einem Symbol für Widerstandsfähigkeit und nachhaltiges Leben geworden ist.\n\nNach der Tour genießen Sie ein himalayisches Kräutergetränk, und ein vegetarisches Mittagessen. Dann machen Sie einen Naturspaziergang durch den umliegenden Wald, wo Sie örtliche Tierwelt entdecken können, darunter Pfauen, Affen, Eichhörnchen, Spechte, Papageien, Adler, und Stachelschweine. Erleben Sie die Ruhe des Waldes, und verbinden Sie sich mit der Natur.\n\n**Was ist enthalten**\nPersonalisierte geführte Tour durch das Lehmhaus\nHimalayisches Kräutergetränk\nHausgemachtes traditionelles vegetarisches Mittagessen\nSüße Speise/Dessert\nNaturspaziergang\nWaldbaden\nVogelbeobachtung\n\n**Nicht enthalten**\nTransport zum Ort",
+  "highlights": [
+   "Van Bhoj ist ein architektonisches Wunder, erbaut von den Architekten Revathi und Vasanth Kamath"
+  ],
+  "included": [
+   "Personalisierte geführte Tour durch das Lehmhaus",
+   "Himalayisches Kräutergetränk",
+   "Hausgemachtes traditionelles vegetarisches Mittagessen",
+   "Süße Speise/Dessert",
+   "Naturspaziergang",
+   "Waldbaden",
+   "Vogelbeobachtung"
+  ],
+  "notIncluded": [
+   "Transport zum Ort"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
