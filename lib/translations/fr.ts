@@ -22444,6 +22444,72 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "delhi-jaipur-private-day-trip-with-guide-lunch": {
+  "title": "Delhi : excursion privée d'une journée à Jaipur avec guide et déjeuner",
+  "metaTitle": "Delhi : excursion privée à Jaipur avec déjeuner",
+  "metaDescription": "Plongez dans la riche histoire et culture de Jaipur.",
+  "shortDescription": "Plongez dans la riche histoire et culture de Jaipur.",
+  "fullDescription": "Delhi : excursion privée d'une journée à Jaipur avec guide et déjeuner. Plongez dans la riche histoire et culture de Jaipur.\n\nCommencez votre journée dans une tranquillité absolue, tandis qu'un majordome personnel et un chauffeur discret arrivent dans un véhicule de luxe impeccable. Ce sanctuaire sur roues, avec ses sièges en cuir moelleux, son eau fraîche, et sa playlist soigneusement sélectionnée, vous assure de glisser sur l'autoroute, laissant le quotidien derrière vous.\n\nLe voyage est une destination en soi. Votre guide expert, conteur de l'histoire du Rajasthan, vous captive avec des récits de maharajas, vous préparant aux merveilles à venir. Détendez-vous, ou perdez-vous dans le paysage, tandis que les collines arides d'Aravalli dessinent l'horizon.\n\nVotre entrée à Jaipur est digne. Évitez les portes bondées pour une arrivée conçue pour l'émerveillement. La première vue des murs de la ville couleur terre cuite miel est un moment à savourer seul.\n\nAu célèbre City Palace, vous êtes un invité. Dépassez les files d'attente pour pénétrer au cœur de l'ancienne résidence royale. Ici, l'histoire de Jaipur prend vie. Au Mubarak Mahal, tenez-vous à quelques centimètres des tenues cérémoniales du maharaja. À Pritam Niwas Chowk, la Porte du Paon est un chef-d'œuvre à contempler. C'est une visite privée d'un musée vivant.\n\nLe déjeuner est un événement. Oubliez les buffets touristiques pour un cadre exclusif dans une cour de haveli restaurée, ou une réservation dans un restaurant raffiné. Savourez un repas gastronomique qui réinterprète les saveurs classiques du Rajasthan. C'est un intermède culinaire pour vous détendre et vous régénérer.\n\nAprès le déjeuner, montez au majestueux fort Amber. Pendant que d'autres se bousculent, votre expérience est celle de l'élévation. Un trajet en jeep vous emmène au sommet. À l'intérieur, le Sheesh Mahal est une galaxie de mille petites étoiles, attendant votre émerveillement silencieux.\n\nAvant votre retour, rencontrez l'âme de Jaipur : ses artisans. Dans un studio sélectionné, assistez au travail de maîtres imprimeurs de blocs ou sertisseurs de pierres précieuses. C'est une interaction authentique et sans hâte avec les arts vivants qui définissent la région.\n\nAlors que le soleil de fin d'après-midi projette des ombres dorées, commencez votre retour vers Delhi. Le trajet retour est propice au repos et à la réflexion, une conclusion paisible à une journée où les souvenirs de la ville rose deviennent une partie de vous.\n\n**Ce qui est inclus**\nService de majordome personnel\nVéhicule de luxe climatisé\nGuide expert avec connaissances historiques\nEntrée privée au City Palace\nDéjeuner gastronomique dans un restaurant raffiné\nVisite du fort Amber\nAudience privée avec des artisans",
+  "highlights": [
+   "Plongez dans la riche histoire et culture de Jaipur"
+  ],
+  "included": [
+   "Service de majordome personnel",
+   "Véhicule de luxe climatisé",
+   "Guide expert avec connaissances historiques",
+   "Entrée privée au City Palace",
+   "Déjeuner gastronomique dans un restaurant raffiné",
+   "Visite du fort Amber",
+   "Audience privée avec des artisans"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Gratifications"
+  ]
+ },
+ "from-delhi-3-day-golden-triangle-tour-with-tiger": {
+  "title": "Depuis Delhi : circuit du Triangle d'or de 3 jours avec safari aux tigres",
+  "metaTitle": "Delhi : Triangle d'or 3 jours avec safari aux tigres",
+  "metaDescription": "Explorez les sites historiques de Delhi : Qutub Minar, la tombe de Humayun, et India Gate.",
+  "shortDescription": "Explorez les sites historiques de Delhi : Qutub Minar, la tombe de Humayun, et India Gate.",
+  "fullDescription": "Depuis Delhi : circuit du Triangle d'or de 3 jours avec safari aux tigres. Explorez les sites historiques de Delhi : Qutub Minar, la tombe de Humayun, et India Gate.\n\nCircuit du Triangle d'or Delhi, Agra, et Jaipur (3 à 7 jours) avec safari optionnel aux tigres de Ranthambore\n\n**Aperçu**\nDécouvrez les destinations les plus emblématiques de l'Inde : Delhi, Agra, et Jaipur, lors de ce circuit flexible du Triangle d'or. Choisissez parmi les options de 3, 4, 5, ou 7 jours, avec la possibilité de vivre un passionnant safari aux tigres au parc national de Ranthambore.\n\n**Circuit du Triangle d'or de 7 jours avec safari de Ranthambore (optionnel)**\n\nJour 1 : Delhi vers Agra. Explorez les points forts de Delhi, notamment Qutub Minar, India Gate, la tombe de Humayun, le temple du Lotus, la Jama Masjid, et profitez d'une balade en rickshaw à travers Chandni Chowk. Visitez le temple Swaminarayan Akshardham avant de rouler vers Agra. Nuit à Agra.\n\nJour 2 : Agra. Assistez au lever du soleil au Taj Mahal, puis visitez le fort d'Agra et Itmad-ud-Daulah. Nuit à Agra.\n\nJour 3 : Agra vers Ranthambore. Visitez Fatehpur Sikri, et le puits à degrés de Chand Baori. Continuez vers Ranthambore. Nuit sur place.\n\nJour 4 : Ranthambore vers Jaipur. Profitez d'un safari aux tigres matinal au parc national de Ranthambore. Route vers Jaipur. Nuit à Jaipur.\n\nJour 5 : excursion à Pushkar. Visitez le temple de Brahma, le lac Pushkar, et les marchés locaux. Retour à Jaipur. Nuit à Jaipur.\n\nJour 6 : visites de Jaipur. Explorez le fort Amber, le City Palace de Jaipur, le Jantar Mantar de Jaipur, le Hawa Mahal, et le Jal Mahal. Profitez du shopping dans les marchés animés de Jaipur. Nuit à Jaipur.\n\nJour 7 : Jaipur vers Delhi. Route de retour vers Delhi. Dépôt à l'aéroport.\n\n**Circuit du Triangle d'or de 5 jours avec safari de Ranthambore (optionnel)**\n\nJour 1 : Delhi vers Agra. Visite de la ville de Delhi, suivie d'une route vers Agra. Nuit à Agra.\n\nJour 2 : Agra. Lever de soleil au Taj Mahal, visite du fort d'Agra et d'Itmad-ud-Daulah. Nuit à Agra.\n\nJour 3 : Agra vers Ranthambore. Visite de Fatehpur Sikri, et du puits à degrés de Chand Baori. Continuez vers Ranthambore. Nuit sur place.\n\nJour 4 : Ranthambore vers Jaipur. Safari aux tigres matinal, puis route vers Jaipur. Nuit à Jaipur.\n\nJour 5 : Jaipur vers Delhi. Visitez le fort Amber, le City Palace, le Jantar Mantar, le Hawa Mahal, et le Jal Mahal. Route vers Delhi en soirée.\n\n**Circuit du Triangle d'or de 4 jours avec safari de Ranthambore (optionnel)**\n\nJour 1 : Delhi vers Agra. Explorez Delhi, et roulez vers Agra. Nuit à Agra.\n\nJour 2 : Agra vers Ranthambore. Lever de soleil au Taj Mahal, puis transfert vers la région de Ranthambore.\n\nJour 3 : Ranthambore vers Jaipur. Expérience de safari matinal, puis route vers Jaipur. Nuit à Jaipur.\n\nJour 4 : Jaipur vers Delhi. Visites de Jaipur, suivies d'un retour à Delhi.\n\n**Circuit du Triangle d'or de 3 jours**\n\nJour 1 : Delhi vers Agra. Explorez les monuments de Delhi, et roulez vers Agra. Nuit à Agra.\n\nJour 2 : Agra vers Jaipur. Lever de soleil au Taj Mahal, visite du fort d'Agra et d'Itmad-ud-Daulah, puis route vers Jaipur. Nuit à Jaipur.\n\nJour 3 : Jaipur vers Delhi. Visitez le fort Amber, le City Palace, le Jantar Mantar, le Hawa Mahal, et le Jal Mahal. Retour à Delhi.\n\n**Ce qui est inclus**\nGuides professionnels anglophones dans chaque ville\nVoiture privée climatisée avec chauffeur\nToutes les visites selon l'itinéraire\nEau en bouteille pendant le voyage\nPrise en charge et retour à l'hôtel ou à l'aéroport\n\n**Non inclus**\nDéjeuner et dîner\nPourboires et dépenses personnelles",
+  "highlights": [
+   "Explorez les sites historiques de Delhi : Qutub Minar, la tombe de Humayun, et India Gate"
+  ],
+  "included": [
+   "Guides professionnels anglophones dans chaque ville",
+   "Voiture privée climatisée avec chauffeur",
+   "Toutes les visites selon l'itinéraire",
+   "Eau en bouteille pendant le voyage",
+   "Prise en charge et retour à l'hôtel ou à l'aéroport"
+  ],
+  "notIncluded": [
+   "Déjeuner et dîner",
+   "Pourboires et dépenses personnelles"
+  ]
+ },
+ "delhi-evening-at-akshardham-with-light-show-local": {
+  "title": "Delhi : soirée à Akshardham avec spectacle de lumière et dîner local",
+  "metaTitle": "Delhi : Akshardham en soirée avec dîner",
+  "metaDescription": "Assistez au spectacle magique de lumière et d'eau d'Akshardham.",
+  "shortDescription": "Assistez au spectacle magique de lumière et d'eau d'Akshardham.",
+  "fullDescription": "Delhi : soirée à Akshardham avec spectacle de lumière et dîner local. Assistez au spectacle magique de lumière et d'eau d'Akshardham.\n\nVotre soirée commence par une visite guidée du temple Akshardham, une merveille architecturale connue pour sa beauté spirituelle. Au coucher du soleil, profitez du spectaculaire spectacle d'eau Sahaj Anand, où lumières, eau, et son se rejoignent pour raconter des histoires intemporelles du patrimoine indien.\n\nAprès la visite du temple, plongez dans la culture gastronomique vibrante de Delhi avec un parcours de street food spécialement conçu pour les couples. Votre guide local vous emmènera vers des étals sûrs et authentiques, où vous pourrez partager de délicieux chaats, kebabs, et desserts savoureux. Contrairement aux visites habituelles, cette expérience est conçue à un rythme confortable, laissant aux couples le temps de se détendre, de prendre des photos, et de s'imprégner de l'atmosphère.\n\n**Ce qui est inclus**\nBillets d'entrée au spectacle de lumière et de son du temple Akshardham\nVisite guidée avec un expert local en gastronomie et culture\nDégustations de street food (chaat, kebabs, sucreries, etc.)\nDîner dans un restaurant local\nEau en bouteille\n\n**Non inclus**\nDépenses personnelles\nPourboires/gratifications\nBoissons alcoolisées",
+  "highlights": [
+   "Assistez au spectacle magique de lumière et d'eau d'Akshardham"
+  ],
+  "included": [
+   "Billets d'entrée au spectacle de lumière et de son du temple Akshardham",
+   "Visite guidée avec un expert local en gastronomie et culture",
+   "Dégustations de street food (chaat, kebabs, sucreries, etc.)",
+   "Dîner dans un restaurant local",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires/gratifications",
+   "Boissons alcoolisées"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

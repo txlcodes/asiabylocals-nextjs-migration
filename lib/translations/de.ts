@@ -22444,6 +22444,72 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche persönliche Ausgaben"
   ]
  },
+ "delhi-jaipur-private-day-trip-with-guide-lunch": {
+  "title": "Delhi: private Tagesreise nach Jaipur mit Guide und Mittagessen",
+  "metaTitle": "Delhi: private Tagesreise nach Jaipur mit Mittagessen",
+  "metaDescription": "Tauchen Sie ein in die reiche Geschichte und Kultur Jaipurs.",
+  "shortDescription": "Tauchen Sie ein in die reiche Geschichte und Kultur Jaipurs.",
+  "fullDescription": "Delhi: private Tagesreise nach Jaipur mit Guide und Mittagessen. Tauchen Sie ein in die reiche Geschichte und Kultur Jaipurs.\n\nBeginnen Sie Ihren Tag in ungestörter Ruhe, während ein persönlicher Butler und ein diskreter Chauffeur in einem makellosen Luxusfahrzeug eintreffen. Dieses Heiligtum auf Rädern, mit seinen plüschigen Ledersitzen, gekühltem Wasser, und kuratierter Playlist, sorgt dafür, dass Sie auf die Schnellstraße gleiten, und den Alltag hinter sich lassen.\n\nDie Reise ist ein Ziel für sich. Ihr Expertenguide, ein Erzähler der rajasthanischen Geschichte, fesselt Sie mit Geschichten von Maharadschas, und bereitet Sie auf die kommenden Wunder vor. Lehnen Sie sich zurück, oder verlieren Sie sich in der Landschaft, während die kargen Aravalli-Hügel den Horizont zeichnen.\n\nIhr Einzug in Jaipur ist würdevoll. Umgehen Sie überfüllte Tore für eine Ankunft, die für Staunen konzipiert ist. Der erste Anblick der honigfarbenen Terrakotta-Stadtmauern ist ein Moment, den man allein genießen sollte.\n\nAm ikonischen City Palace sind Sie ein Gast. Umgehen Sie Warteschlangen und gelangen Sie direkt ins Herz der ehemaligen königlichen Residenz. Hier lebt die Geschichte Jaipurs. Im Mubarak Mahal stehen Sie wenige Zentimeter von der zeremoniellen Kleidung des Maharadschas entfernt. Am Pritam Niwas Chowk ist das Pfauentor ein Meisterwerk zum Betrachten. Dies ist eine private Besichtigung eines lebendigen Museums.\n\nDas Mittagessen ist ein Ereignis. Verzichten Sie auf touristische Buffets für ein exklusives Innenhof-Ambiente in einer restaurierten Haveli, oder eine Reservierung in einem feinen Restaurant. Genießen Sie ein Gourmet-Essen, das klassische rajasthanische Aromen neu interpretiert. Dies ist ein kulinarisches Zwischenspiel zum Reflektieren und Auftanken.\n\nNach dem Mittagessen geht es hinauf zum majestätischen Amber-Fort. Während andere sich drängen, ist Ihr Erlebnis eines der Erhebung. Eine Jeep-Fahrt bringt Sie zum Gipfel. Im Inneren ist der Sheesh Mahal eine Galaxie aus tausend winzigen Sternen, die auf Ihr stilles Staunen wartet.\n\nVor Ihrer Rückkehr treffen Sie die Seele Jaipurs: seine Kunsthandwerker. In einem kuratierten Studio beobachten Sie Meister-Blockdrucker oder Edelsteinfasser bei der Arbeit. Dies ist eine authentische, unaufgeregte Interaktion mit den lebendigen Künsten, die die Region prägen.\n\nWährend die späte Nachmittagssonne goldene Schatten wirft, beginnen Sie Ihre Rückkehr nach Delhi. Die Rückfahrt dient der Erholung und Reflexion, ein friedlicher Abschluss eines Tages, an dem die Erinnerungen an die Pink City zu einem Teil von Ihnen werden.\n\n**Was ist enthalten**\nPersönlicher Butler-Service\nLuxusfahrzeug mit Klimaanlage\nExpertenguide mit historischem Wissen\nPrivater Eingang zum City Palace\nGourmet-Mittagessen in einem feinen Restaurant\nBesuch des Amber-Forts\nPrivate Audienz bei Kunsthandwerkern",
+  "highlights": [
+   "Tauchen Sie ein in die reiche Geschichte und Kultur Jaipurs"
+  ],
+  "included": [
+   "Persönlicher Butler-Service",
+   "Luxusfahrzeug mit Klimaanlage",
+   "Expertenguide mit historischem Wissen",
+   "Privater Eingang zum City Palace",
+   "Gourmet-Mittagessen in einem feinen Restaurant",
+   "Besuch des Amber-Forts",
+   "Private Audienz bei Kunsthandwerkern"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Gratifikationen"
+  ]
+ },
+ "from-delhi-3-day-golden-triangle-tour-with-tiger": {
+  "title": "Ab Delhi: 3-tägige Golden-Triangle-Tour mit Tiger-Safari",
+  "metaTitle": "Delhi: Golden Triangle 3 Tage mit Tiger-Safari",
+  "metaDescription": "Erkunden Sie Delhis historische Stätten: Qutub Minar, Humayuns Grabmal, und India Gate.",
+  "shortDescription": "Erkunden Sie Delhis historische Stätten: Qutub Minar, Humayuns Grabmal, und India Gate.",
+  "fullDescription": "Ab Delhi: 3-tägige Golden-Triangle-Tour mit Tiger-Safari. Erkunden Sie Delhis historische Stätten: Qutub Minar, Humayuns Grabmal, und India Gate.\n\nGolden-Triangle-Tour Delhi, Agra, und Jaipur (3 bis 7 Tage) mit optionaler Ranthambore-Tiger-Safari\n\n**Überblick**\nEntdecken Sie Indiens ikonischste Reiseziele: Delhi, Agra, und Jaipur, auf dieser flexiblen Golden-Triangle-Tour. Wählen Sie zwischen 3, 4, 5, oder 7 Tagen, mit der Möglichkeit, eine aufregende Tiger-Safari im Ranthambore-Nationalpark zu erleben.\n\n**7-tägige Golden-Triangle-Tour mit Ranthambore-Safari (optional)**\n\nTag 1: Delhi nach Agra. Erkunden Sie Delhis Highlights, darunter Qutub Minar, India Gate, Humayuns Grabmal, den Lotustempel, die Jama Masjid, und genießen Sie eine Rikscha-Fahrt durch Chandni Chowk. Besuchen Sie den Swaminarayan-Akshardham-Tempel, bevor Sie nach Agra fahren. Übernachtung in Agra.\n\nTag 2: Agra. Erleben Sie den Sonnenaufgang am Taj Mahal, besuchen Sie dann das Agra-Fort und Itmad-ud-Daulah. Übernachtung in Agra.\n\nTag 3: Agra nach Ranthambore. Besuchen Sie Fatehpur Sikri, und den Stufenbrunnen Chand Baori. Weiter nach Ranthambore. Übernachtung vor Ort.\n\nTag 4: Ranthambore nach Jaipur. Genießen Sie eine morgendliche Tiger-Safari im Ranthambore-Nationalpark. Fahrt nach Jaipur. Übernachtung in Jaipur.\n\nTag 5: Pushkar-Ausflug. Besuchen Sie den Brahma-Tempel, den Pushkar-See, und örtliche Märkte. Rückkehr nach Jaipur. Übernachtung in Jaipur.\n\nTag 6: Besichtigung von Jaipur. Erkunden Sie das Amber-Fort, den City Palace Jaipur, das Jantar Mantar Jaipur, den Hawa Mahal, und den Jal Mahal. Genießen Sie das Einkaufen in Jaipurs lebendigen Märkten. Übernachtung in Jaipur.\n\nTag 7: Jaipur nach Delhi. Fahrt zurück nach Delhi. Absetzung am Flughafen.\n\n**5-tägige Golden-Triangle-Tour mit Ranthambore-Safari (optional)**\n\nTag 1: Delhi nach Agra. Stadtbesichtigung von Delhi, gefolgt von der Fahrt nach Agra. Übernachtung in Agra.\n\nTag 2: Agra. Sonnenaufgang am Taj Mahal, Besuch des Agra-Forts und Itmad-ud-Daulah. Übernachtung in Agra.\n\nTag 3: Agra nach Ranthambore. Besuch von Fatehpur Sikri, und des Stufenbrunnens Chand Baori. Weiter nach Ranthambore. Übernachtung vor Ort.\n\nTag 4: Ranthambore nach Jaipur. Morgendliche Tiger-Safari, dann Fahrt nach Jaipur. Übernachtung in Jaipur.\n\nTag 5: Jaipur nach Delhi. Besuchen Sie das Amber-Fort, den City Palace, das Jantar Mantar, den Hawa Mahal, und den Jal Mahal. Abendliche Fahrt nach Delhi.\n\n**4-tägige Golden-Triangle-Tour mit Ranthambore-Safari (optional)**\n\nTag 1: Delhi nach Agra. Erkunden Sie Delhi, und fahren Sie nach Agra. Übernachtung in Agra.\n\nTag 2: Agra nach Ranthambore. Sonnenaufgang am Taj Mahal, dann Transfer in Richtung Ranthambore-Region.\n\nTag 3: Ranthambore nach Jaipur. Morgendliches Safari-Erlebnis, dann Fahrt nach Jaipur. Übernachtung in Jaipur.\n\nTag 4: Jaipur nach Delhi. Besichtigung von Jaipur, gefolgt von der Rückkehr nach Delhi.\n\n**3-tägige Golden-Triangle-Tour**\n\nTag 1: Delhi nach Agra. Erkunden Sie Delhis Sehenswürdigkeiten, und fahren Sie nach Agra. Übernachtung in Agra.\n\nTag 2: Agra nach Jaipur. Sonnenaufgang am Taj Mahal, Besuch des Agra-Forts und Itmad-ud-Daulah, dann Fahrt nach Jaipur. Übernachtung in Jaipur.\n\nTag 3: Jaipur nach Delhi. Besuchen Sie das Amber-Fort, den City Palace, das Jantar Mantar, den Hawa Mahal, und den Jal Mahal. Rückkehr nach Delhi.\n\n**Was ist enthalten**\nProfessionelle englischsprachige Guides in jeder Stadt\nPrivates klimatisiertes Auto mit Fahrer\nAlle Besichtigungen gemäß Reiseplan\nWasser in Flaschen während der Reise\nAbholung und Rückfahrt zum Hotel/Flughafen\n\n**Nicht enthalten**\nMittag- und Abendessen\nTrinkgelder und persönliche Ausgaben",
+  "highlights": [
+   "Erkunden Sie Delhis historische Stätten: Qutub Minar, Humayuns Grabmal, und India Gate"
+  ],
+  "included": [
+   "Professionelle englischsprachige Guides in jeder Stadt",
+   "Privates klimatisiertes Auto mit Fahrer",
+   "Alle Besichtigungen gemäß Reiseplan",
+   "Wasser in Flaschen während der Reise",
+   "Abholung und Rückfahrt zum Hotel/Flughafen"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen",
+   "Trinkgelder und persönliche Ausgaben"
+  ]
+ },
+ "delhi-evening-at-akshardham-with-light-show-local": {
+  "title": "Delhi: Abend in Akshardham mit Lichtshow und örtlichem Abendessen",
+  "metaTitle": "Delhi: Akshardham am Abend mit Abendessen",
+  "metaDescription": "Erleben Sie die magische Licht- und Wassershow von Akshardham.",
+  "shortDescription": "Erleben Sie die magische Licht- und Wassershow von Akshardham.",
+  "fullDescription": "Delhi: Abend in Akshardham mit Lichtshow und örtlichem Abendessen. Erleben Sie die magische Licht- und Wassershow von Akshardham.\n\nIhr Abend beginnt mit einem geführten Besuch des Akshardham-Tempels, einem architektonischen Wunder, bekannt für seine spirituelle Schönheit. Bei Sonnenuntergang genießen Sie die spektakuläre Sahaj-Anand-Wassershow, bei der Licht, Wasser, und Klang zusammenkommen, um zeitlose Geschichten des indischen Erbes zu erzählen.\n\nNach dem Tempelbesuch tauchen Sie ein in Delhis lebendige Esskultur mit einer speziell kuratierten, paarfreundlichen Street-Food-Tour. Ihr örtlicher Guide bringt Sie zu sicheren und authentischen Essensständen, wo Sie köstliche Chaats, Kebabs, und verführerische Desserts teilen können. Anders als bei regulären Touren ist dieses Erlebnis in einem angenehmen Tempo gestaltet, und gibt Paaren Zeit zum Entspannen, Fotografieren, und Aufsaugen der Atmosphäre.\n\n**Was ist enthalten**\nEintrittskarten für die Licht- und Tonshow des Akshardham-Tempels\nGeführte Tour mit einem örtlichen Essens- und Kulturexperten\nStreet-Food-Verkostungen (Chaat, Kebabs, Süßigkeiten, usw.)\nAbendessen in einem örtlichen Restaurant\nWasser in Flaschen\n\n**Nicht enthalten**\nPersönliche Ausgaben\nTrinkgelder/Gratifikationen\nAlkoholische Getränke",
+  "highlights": [
+   "Erleben Sie die magische Licht- und Wassershow von Akshardham"
+  ],
+  "included": [
+   "Eintrittskarten für die Licht- und Tonshow des Akshardham-Tempels",
+   "Geführte Tour mit einem örtlichen Essens- und Kulturexperten",
+   "Street-Food-Verkostungen (Chaat, Kebabs, Süßigkeiten, usw.)",
+   "Abendessen in einem örtlichen Restaurant",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder/Gratifikationen",
+   "Alkoholische Getränke"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
