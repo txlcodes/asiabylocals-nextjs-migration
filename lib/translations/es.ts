@@ -20314,6 +20314,83 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas y gratificaciones"
   ]
  },
+ "delhi-northern-ridge-walk-with-tibetan-colony-tour": {
+  "title": "Delhi: paseo por Northern Ridge con tour por la colonia tibetana",
+  "metaTitle": "Delhi: Northern Ridge, colonia tibetana",
+  "metaDescription": "Descubra monumentos británicos ocultos en la parte norte de Delhi.",
+  "shortDescription": "Descubra monumentos británicos ocultos en la parte norte de Delhi.",
+  "fullDescription": "Descubra los tesoros escondidos del norte de Delhi en un tour guiado a pie. Explore monumentos británicos ubicados en un bosque urbano, y sumérjase en la historia de la ciudad.\n\nPasee por el vibrante asentamiento tibetano, en su momento un campo de refugiados, ahora un bullicioso barrio con animados cafés, música, y comida de calle. Visite templos locales, sumérjase en el bullicio de las calles, y saboree deliciosa cocina tibetana.\n\nConozca la historia del Tíbet y la vida en el exilio de su pueblo en la India. Este tour ofrece una visión única de la vida diaria de un ciudadano común en una parte no turística pero fascinante del norte de Delhi.",
+  "highlights": [
+   "Descubra monumentos británicos ocultos en la parte norte de Delhi"
+  ],
+  "included": [
+   "Exploración de monumentos británicos",
+   "Visita al asentamiento tibetano",
+   "Degustación de comida tibetana",
+   "Visita a templos locales"
+  ],
+  "notIncluded": [
+   "Transporte al punto de inicio",
+   "Gastos personales"
+  ]
+ },
+ "delhi-private-old-delhi-and-spice-market-tour": {
+  "title": "Delhi: tour privado al Viejo Delhi y al mercado de especias con traslado",
+  "metaTitle": "Delhi: Viejo Delhi, mercado de especias",
+  "metaDescription": "Visite el mercado de especias más grande de Asia para tés, especias, hierbas, y más.",
+  "shortDescription": "Visite el mercado de especias más grande de Asia para tés, especias, hierbas, y más.",
+  "fullDescription": "Recogida en su hotel en Delhi por un conductor local, luego encuentro con su guía experto local; discuta sus intereses, y luego parta hacia un tour de 4 horas por el Viejo Delhi, hacia las tiendas y mercados de la ciudad que mejor se adapten a sus necesidades. Rápidamente verá qué gran destino de compras es este, lleno de vida y colores.\n\nChandni Chowk fue construida en el siglo XVII por el emperador mogol Shah Jahan, y estaba habitada por las familias acomodadas de la época. Hoy en día es uno de los mercados mayoristas más conocidos del país para textiles, artículos electrónicos, y relojes.\n\nKhari Baoli es una calle en Delhi, India, conocida por su comercio mayorista de abarrotes y el mercado mayorista de especias más grande de Asia, que vende todo tipo de especias, nueces, hierbas, y productos alimenticios como el arroz y el té.\n\nTambién puede visitar la cooperativa donde se fabrican alfombras, y ver todo el proceso de tejido de las alfombras persas y los objetos artesanales patrimoniales de la India. Esto ofrece la oportunidad no solo de ver y compartir el patrimonio indio de tiempos pasados, sino también de comprar artículos como alfombras, chales de pashmina, seda, artefactos dorados, reproducciones de arte islámico, y miniaturas.",
+  "highlights": [
+   "Visite el mercado de especias más grande de Asia para tés, especias, hierbas, y más"
+  ],
+  "included": [
+   "Viaje sin complicaciones con recogida y entrega en el hotel",
+   "Paseo en rickshaw en el mercado",
+   "Descubra secretos con un guía turístico privado dedicado",
+   "Viaje cómodamente en un coche privado con aire acondicionado",
+   "Comida de calle (si se selecciona esa opción)",
+   "Botellas de agua mineral",
+   "Todos los impuestos y cargos de estacionamiento cubiertos"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Propinas (opcional)",
+   "Cualquier tipo de boleto de entrada al monumento",
+   "Cualquier otro gasto"
+  ]
+ },
+ "sultanpur-bird-sanctuary-2-day-tour-from-delhi": {
+  "title": "Santuario de aves de Sultanpur: tour de 2 días desde Delhi",
+  "metaTitle": "Delhi-Sultanpur: santuario de aves en 2 días",
+  "metaDescription": "Visita a uno de los santuarios de aves más accesibles cerca de Delhi.",
+  "shortDescription": "Visita a uno de los santuarios de aves más accesibles cerca de Delhi.",
+  "fullDescription": "**Día 1: Delhi, santuario de aves de Sultanpur (aproximadamente 45 km / 1,5 horas)**\nRecogida matutina desde Delhi (hotel/hogar/aeropuerto/estación de tren)\nTrayecto hacia el santuario de aves de Sultanpur en el distrito de Gurugram\nRegistro en un resort/hotel cercano\nDesayuno y tiempo para refrescarse\nVisita al Parque Nacional de Sultanpur, caminata guiada por los humedales\nObserve aves migratorias y residentes como la cigüeña pintada, la cigüeña de cuello negro, el ibis blanco, el cormorán indio, y más\nDisfrute de torres de observación de aves y sesiones de fotografía\nVisita a ecoparques o pueblos cercanos\nTarde: vista del atardecer en el parque, sendero natural\nRegreso al hotel/resort, cena, y noche en el lugar\n\n**Día 2: observación matutina de aves, regreso a Delhi**\nCaminata natural temprano en la mañana con guía dentro del santuario de aves de Sultanpur\nExcelente momento para observar aves migratorias de invierno (de octubre a marzo)\nRegreso al hotel para desayunar\nVisita al Centro de Interpretación / Centro de Educación Natural\nOpcional: interacción con el pueblo o visita a una granja orgánica (para grupos)\nTrayecto de regreso a Delhi por la tarde\nEntrega en el lugar deseado (hogar/hotel/estación de tren/aeropuerto)",
+  "highlights": [
+   "Visita a uno de los santuarios de aves más accesibles cerca de Delhi"
+  ],
+  "included": [
+   "1 noche de alojamiento en ecorresort u hotel",
+   "Vehículo privado para todo el tour",
+   "Desayuno y cena diarios en el hotel",
+   "Guía profesional de naturaleza/observación de aves",
+   "Recogida y entrega desde la estación de tren/aeropuerto/hotel",
+   "Visita a la vista del atardecer en el parque",
+   "Caminata natural y sesión de interpretación",
+   "Agua embotellada y refrescos durante el viaje",
+   "Recorridos según el itinerario",
+   "Estacionamiento, peajes, cargos del conductor",
+   "Todos los impuestos aplicables incluidos"
+  ],
+  "notIncluded": [
+   "Cualquier tarifa aérea/de tren",
+   "Almuerzo y bocadillos",
+   "Cualquier gasto personal (lavandería, compras, propinas)",
+   "Cargos por binoculares o cámara (si corresponde)",
+   "Comidas o bebidas adicionales no mencionadas",
+   "Seguro médico o de viaje",
+   "Cualquier cosa no mencionada en las inclusiones"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",

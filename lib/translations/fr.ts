@@ -20314,6 +20314,83 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires et gratifications"
   ]
  },
+ "delhi-northern-ridge-walk-with-tibetan-colony-tour": {
+  "title": "Delhi : balade sur la crête nord avec visite de la colonie tibétaine",
+  "metaTitle": "Delhi : crête nord, colonie tibétaine",
+  "metaDescription": "Découvrez des monuments britanniques cachés dans la partie nord de Delhi.",
+  "shortDescription": "Découvrez des monuments britanniques cachés dans la partie nord de Delhi.",
+  "fullDescription": "Découvrez les trésors cachés du nord de Delhi lors d'une visite guidée à pied. Explorez des monuments britanniques nichés dans une forêt urbaine, et plongez dans l'histoire de la ville.\n\nPromenez-vous dans la vibrante colonie tibétaine, autrefois un camp de réfugiés, aujourd'hui un quartier animé avec des cafés vivants, de la musique, et de la street food. Visitez des temples locaux, imprégnez-vous de l'effervescence des rues, et savourez une délicieuse cuisine tibétaine.\n\nDécouvrez l'histoire du Tibet et la vie en exil de son peuple en Inde. Cette visite offre un aperçu unique de la vie quotidienne d'un citoyen ordinaire dans une partie non touristique mais fascinante du nord de Delhi.",
+  "highlights": [
+   "Découvrez des monuments britanniques cachés dans la partie nord de Delhi"
+  ],
+  "included": [
+   "Exploration des monuments britanniques",
+   "Visite de la colonie tibétaine",
+   "Dégustation de cuisine tibétaine",
+   "Visite de temples locaux"
+  ],
+  "notIncluded": [
+   "Transport vers le point de départ",
+   "Dépenses personnelles"
+  ]
+ },
+ "delhi-private-old-delhi-and-spice-market-tour": {
+  "title": "Delhi : visite privée du Vieux Delhi et du marché aux épices avec transfert",
+  "metaTitle": "Delhi : Vieux Delhi, marché aux épices",
+  "metaDescription": "Visitez le plus grand marché aux épices d'Asie pour les thés, épices, herbes, et plus encore.",
+  "shortDescription": "Visitez le plus grand marché aux épices d'Asie pour les thés, épices, herbes, et plus encore.",
+  "fullDescription": "Prise en charge à votre hôtel à Delhi par un chauffeur local, puis rencontre avec votre guide expert local ; discutez de vos intérêts, puis partez pour une visite de 4 heures du Vieux Delhi, vers les boutiques et marchés de la ville qui correspondent le mieux à vos besoins. Vous verrez rapidement à quel point c'est une destination shopping formidable, pleine de vie et de couleurs.\n\nChandni Chowk fut construite au 17e siècle par l'empereur moghol Shah Jahan, et était habitée par les familles aisées de l'époque. Aujourd'hui, c'est l'un des marchés de gros les plus connus du pays pour les textiles, articles électroniques, et montres.\n\nKhari Baoli est une rue de Delhi, en Inde, connue pour son commerce de gros en épicerie et le plus grand marché aux épices de gros d'Asie, vendant toutes sortes d'épices, noix, herbes, et produits alimentaires comme le riz et le thé.\n\nVous pouvez également visiter la coopérative où sont fabriqués les tapis, et voir tout le processus de tissage des tapis persans et des objets artisanaux patrimoniaux d'Inde. Cela offre l'opportunité non seulement de découvrir et partager le patrimoine indien d'autrefois, mais aussi d'acheter des articles tels que des tapis, châles en pashmina, soie, objets dorés, reproductions d'art islamique, et miniatures.",
+  "highlights": [
+   "Visitez le plus grand marché aux épices d'Asie pour les thés, épices, herbes, et plus encore"
+  ],
+  "included": [
+   "Voyage sans tracas avec prise en charge et retour à l'hôtel",
+   "Balade en rickshaw au marché",
+   "Découvrez des secrets avec un guide touristique privé dédié",
+   "Voyagez confortablement dans une voiture privée climatisée",
+   "Street food (si option sélectionnée)",
+   "Bouteilles d'eau minérale",
+   "Toutes les taxes et frais de stationnement couverts"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Pourboires (facultatifs)",
+   "Tout type de billet d'entrée au monument",
+   "Toute autre dépense"
+  ]
+ },
+ "sultanpur-bird-sanctuary-2-day-tour-from-delhi": {
+  "title": "Sanctuaire d'oiseaux de Sultanpur : circuit de 2 jours depuis Delhi",
+  "metaTitle": "Delhi-Sultanpur : sanctuaire d'oiseaux en 2 jours",
+  "metaDescription": "Visite d'un des sanctuaires d'oiseaux les plus accessibles près de Delhi.",
+  "shortDescription": "Visite d'un des sanctuaires d'oiseaux les plus accessibles près de Delhi.",
+  "fullDescription": "**Jour 1 : Delhi – sanctuaire d'oiseaux de Sultanpur (environ 45 km / 1 heure 30)**\nPrise en charge matinale à Delhi (hôtel/domicile/aéroport/gare)\nTrajet vers le sanctuaire d'oiseaux de Sultanpur dans le district de Gurugram\nEnregistrement dans un complexe/hôtel à proximité\nPetit-déjeuner et rafraîchissement\nVisite du parc national de Sultanpur, promenade guidée autour des zones humides\nRepérez des oiseaux migrateurs et résidents comme la cigogne peinte, la cigogne à cou noir, l'ibis blanc, le cormoran indien, et plus\nProfitez des tours d'observation des oiseaux et des séances de photographie\nVisitez des éco-parcs ou villages à proximité\nSoirée : vue du coucher de soleil au parc, sentier nature\nRetour à l'hôtel/complexe, dîner, et nuit sur place\n\n**Jour 2 : observation matinale des oiseaux, retour à Delhi**\nPromenade nature matinale tôt avec guide à l'intérieur du sanctuaire d'oiseaux de Sultanpur\nExcellent moment pour repérer les oiseaux migrateurs d'hiver (d'octobre à mars)\nRetour à l'hôtel pour le petit-déjeuner\nVisite du centre d'interprétation / centre d'éducation nature\nOptionnel : interaction villageoise ou visite de ferme biologique (pour les groupes)\nTrajet de retour vers Delhi dans l'après-midi\nDépose à l'endroit souhaité (domicile/hôtel/gare/aéroport)",
+  "highlights": [
+   "Visite d'un des sanctuaires d'oiseaux les plus accessibles près de Delhi"
+  ],
+  "included": [
+   "1 nuit d'hébergement en éco-complexe ou hôtel",
+   "Véhicule privé pour tout le circuit",
+   "Petit-déjeuner et dîner quotidiens à l'hôtel",
+   "Guide professionnel nature/observation des oiseaux",
+   "Prise en charge et retour depuis la gare/l'aéroport/l'hôtel",
+   "Visite de la vue du coucher de soleil au parc",
+   "Promenade nature et session d'interprétation",
+   "Eau en bouteille et rafraîchissements pendant le voyage",
+   "Visites selon l'itinéraire",
+   "Stationnement, péages, frais de chauffeur",
+   "Toutes les taxes applicables incluses"
+  ],
+  "notIncluded": [
+   "Tout billet d'avion/train",
+   "Déjeuner et collations",
+   "Toute dépense personnelle (blanchisserie, shopping, pourboires)",
+   "Frais de jumelles ou de caméra (si applicable)",
+   "Repas ou boissons supplémentaires non mentionnés",
+   "Assurance médicale ou voyage",
+   "Tout ce qui n'est pas mentionné dans les inclusions"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

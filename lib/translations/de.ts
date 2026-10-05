@@ -20314,6 +20314,83 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld und Zuwendungen"
   ]
  },
+ "delhi-northern-ridge-walk-with-tibetan-colony-tour": {
+  "title": "Delhi: Spaziergang am Northern Ridge mit Besuch der tibetischen Kolonie",
+  "metaTitle": "Delhi: Northern Ridge, tibetische Kolonie",
+  "metaDescription": "Entdecken Sie versteckte britische Denkmäler im nördlichen Teil von Delhi.",
+  "shortDescription": "Entdecken Sie versteckte britische Denkmäler im nördlichen Teil von Delhi.",
+  "fullDescription": "Entdecken Sie die versteckten Schätze von Nord-Delhi auf einer geführten Wandertour. Erkunden Sie britische Denkmäler, eingebettet in einen städtischen Wald, und tauchen Sie ein in die Geschichte der Stadt.\n\nSchlendern Sie durch die lebendige tibetische Siedlung, einst ein Flüchtlingslager, heute ein geschäftiges Viertel mit lebhaften Cafés, Musik, und Street Food. Besuchen Sie lokale Tempel, tauchen Sie ein in das Treiben der Straßen, und kosten Sie köstliche tibetische Küche.\n\nErfahren Sie mehr über die Geschichte Tibets und das Exilleben seines Volkes in Indien. Diese Tour bietet einen einzigartigen Einblick in den Alltag eines gewöhnlichen Bürgers in einem nicht-touristischen, aber faszinierenden Teil von Nord-Delhi.",
+  "highlights": [
+   "Entdecken Sie versteckte britische Denkmäler im nördlichen Teil von Delhi"
+  ],
+  "included": [
+   "Erkundung britischer Denkmäler",
+   "Besuch der tibetischen Siedlung",
+   "Verkostung tibetischer Küche",
+   "Besuch lokaler Tempel"
+  ],
+  "notIncluded": [
+   "Transport zum Startpunkt",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "delhi-private-old-delhi-and-spice-market-tour": {
+  "title": "Delhi: private Alt-Delhi und Gewürzmarkt-Tour mit Transfer",
+  "metaTitle": "Delhi: Alt-Delhi, Gewürzmarkt",
+  "metaDescription": "Besuchen Sie Asiens größten Gewürzmarkt für Tees, Gewürze, Kräuter, und mehr.",
+  "shortDescription": "Besuchen Sie Asiens größten Gewürzmarkt für Tees, Gewürze, Kräuter, und mehr.",
+  "fullDescription": "Abholung von Ihrem Hotel in Delhi durch einen lokalen Fahrer, dann Treffen mit Ihrem erfahrenen lokalen Guide; besprechen Sie Ihre Interessen, und machen Sie sich dann auf eine 4-stündige Alt-Delhi-Tour zu den Geschäften und Märkten der Stadt, die am besten zu Ihren Bedürfnissen passen. Sie werden schnell sehen, was für ein großartiges Einkaufsziel dies ist, voller Leben und Farben.\n\nChandni Chowk wurde im 17. Jahrhundert vom Mogulkaiser Shah Jahan erbaut und war von den wohlhabenden Familien der damaligen Zeit bewohnt. Heute ist es einer der bekanntesten Großhandelsmärkte des Landes für Textilien, elektronische Waren, und Uhren.\n\nKhari Baoli ist eine Straße in Delhi, Indien, bekannt für ihren Großhandel mit Lebensmitteln und Asiens größten Großhandels-Gewürzmarkt, der alle Arten von Gewürzen, Nüssen, Kräutern, und Lebensmittelprodukten wie Reis und Tee verkauft.\n\nSie können auch die Kooperative besuchen, in der Teppiche hergestellt werden, und den gesamten Prozess des Webens persischer Teppiche und indischer Kunsthandwerks-Erbstücke sehen. Dies bietet die Möglichkeit, nicht nur das indische Erbe vergangener Tage zu sehen und zu teilen, sondern auch die Möglichkeit, Artikel wie Teppiche, Pashmina-Schals, Seide, vergoldete Artefakte, Reproduktionen islamischer Kunst, und Miniaturen zu kaufen.",
+  "highlights": [
+   "Besuchen Sie Asiens größten Gewürzmarkt für Tees, Gewürze, Kräuter, und mehr"
+  ],
+  "included": [
+   "Problemlose Reise mit Hotelabholung und -absetzung",
+   "Rikscha-Fahrt auf dem Markt",
+   "Entdecken Sie Geheimnisse mit einem engagierten privaten Reiseführer",
+   "Reisen Sie komfortabel in einem privaten klimatisierten Auto",
+   "Street Food (falls diese Option ausgewählt wird)",
+   "Mineralwasserflaschen",
+   "Alle Steuern und Parkgebühren abgedeckt"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Trinkgeld (optional)",
+   "Jegliche Art von Eintrittsticket zum Denkmal",
+   "Jegliche weiteren Ausgaben"
+  ]
+ },
+ "sultanpur-bird-sanctuary-2-day-tour-from-delhi": {
+  "title": "Sultanpur-Vogelschutzgebiet: 2-tägige Tour von Delhi aus",
+  "metaTitle": "Delhi-Sultanpur: Vogelschutzgebiet in 2 Tagen",
+  "metaDescription": "Besuch eines der am besten zugänglichen Vogelschutzgebiete in der Nähe von Delhi.",
+  "shortDescription": "Besuch eines der am besten zugänglichen Vogelschutzgebiete in der Nähe von Delhi.",
+  "fullDescription": "**Tag 1: Delhi – Sultanpur-Vogelschutzgebiet (etwa 45 km / 1,5 Stunden)**\nMorgens Abholung von Delhi (Hotel/Zuhause/Flughafen/Bahnhof)\nFahrt zum Sultanpur-Vogelschutzgebiet im Distrikt Gurugram\nCheck-in im nahegelegenen Resort/Hotel\nFrühstück und Erfrischung\nBesuch des Sultanpur-Nationalparks, geführter Spaziergang um die Feuchtgebiete\nEntdecken Sie Zugvögel und einheimische Vögel wie den Buntstorch, den Schwarzhalsstorch, den Weißen Ibis, den Indischen Kormoran, und mehr\nGenießen Sie Vogelbeobachtungstürme und Fotografie-Sessions\nBesuch nahegelegener Ökoparks oder Dörfer\nAbend: Sonnenuntergangsblick im Park, Naturpfad\nRückkehr zum Hotel/Resort, Abendessen, und Übernachtung\n\n**Tag 2: morgendliche Vogelbeobachtung, Rückkehr nach Delhi**\nFrüher morgendlicher Naturspaziergang mit Guide im Sultanpur-Vogelschutzgebiet\nBeste Zeit, um Wintervögel zu entdecken (Oktober bis März)\nRückkehr zum Hotel zum Frühstück\nBesuch des Interpretationszentrums / Naturbildungszentrums\nOptional: Dorfinteraktion oder Besuch eines Bio-Bauernhofs (für Gruppen)\nRückfahrt nach Delhi am Nachmittag\nAbsetzung am gewünschten Ort (Zuhause/Hotel/Bahnhof/Flughafen)",
+  "highlights": [
+   "Besuch eines der am besten zugänglichen Vogelschutzgebiete in der Nähe von Delhi"
+  ],
+  "included": [
+   "1 Nacht Unterbringung im Öko-Resort oder Hotel",
+   "Privates Fahrzeug für die gesamte Tour",
+   "Tägliches Frühstück und Abendessen im Hotel",
+   "Professioneller Natur-/Vogelbeobachtungsguide",
+   "Abholung und Absetzung vom Bahnhof/Flughafen/Hotel",
+   "Besuch des Sonnenuntergangsblicks im Park",
+   "Naturspaziergang und Interpretationssitzung",
+   "Wasser in Flaschen und Erfrischungen während der Reise",
+   "Besichtigung gemäß Reiseplan",
+   "Parken, Mautgebühren, Fahrerkosten",
+   "Alle anfallenden Steuern inklusive"
+  ],
+  "notIncluded": [
+   "Jeglicher Flug-/Zugfahrpreis",
+   "Mittagessen und Snacks",
+   "Jegliche persönlichen Ausgaben (Wäsche, Einkaufen, Trinkgeld)",
+   "Fernglas- oder Kameragebühren (falls vorhanden)",
+   "Zusätzliche nicht genannte Mahlzeiten oder Getränke",
+   "Medizinische oder Reiseversicherung",
+   "Alles, was nicht in den Einschlüssen genannt ist"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
