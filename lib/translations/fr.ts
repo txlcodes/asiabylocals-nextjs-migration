@@ -3632,6 +3632,76 @@ export const FR_TOURS: Record<string, TourT> = {
    "Prise en charge et retour depuis l'aéroport de Bangalore (nous pouvons aider si nécessaire)"
   ]
  },
+ "same-day-taj-mahal-tour-by-flight-from-hyderabad": {
+  "title": "Visite du Taj Mahal le même jour en avion depuis Hyderabad",
+  "metaTitle": "Hyderabad-Taj Mahal : visite le même jour en avion",
+  "metaDescription": "Un guide touristique sera fourni.",
+  "shortDescription": "Un guide touristique sera fourni.",
+  "fullDescription": "Nous offrons une assistance 24h/24 et 7j/7 pendant toute la visite.\n\n**4h00 :** vous devez vous rendre à l'aéroport d'Hyderabad pour votre vol matinal, vos cartes d'embarquement vous seront envoyées par e-mail avec l'enregistrement en ligne effectué. À votre arrivée à Delhi, vous serez accueilli par le chauffeur de Taj Explorer.\n\n**6h00 :** arrivez à Delhi et rencontrez votre guide et chauffeur. Profitez d'un délicieux petit-déjeuner dans un restaurant local.\n\n**9h00 - 11h00 :** visitez l'emblématique Taj Mahal, chef-d'œuvre de l'architecture moghole, et symbole d'amour éternel. Découvrez l'histoire et l'importance du Taj Mahal avec votre guide compétent.\n\n**11h00 - 12h30 :** explorez le majestueux fort d'Agra, un site du patrimoine mondial de l'UNESCO, connu pour son architecture impressionnante et son importance historique. Découvrez l'histoire fascinante de l'Empire moghol en vous promenant dans les cours, palais, et jardins du fort.\n\n**12h30 - 13h30 :** profitez d'un délicieux déjeuner dans un restaurant local, où vous pouvez savourer une authentique cuisine indienne.\n\n**13h30 - 15h00 :** visitez le tombeau d'Itmad-ud-Daulah, également connu comme le « Baby Taj », un beau mausolée en marbre considéré comme un précurseur du Taj Mahal. Explorez le design complexe du tombeau et découvrez son histoire avec votre guide.\n\n**16h00 :** après une journée d'exploration, vous serez transféré à l'aéroport pour votre vol de retour vers Hyderabad.\n\n**19h00 :** à l'arrivée à l'aéroport de Delhi, les billets de retour vous seront remis et vous prendrez votre vol de retour vers Hyderabad. Nos services se terminent ici. À l'arrivée à Hyderabad, retournez à votre hôtel/domicile.\n\n**Informations supplémentaires :**\nLe Taj Mahal est fermé le vendredi, donc l'itinéraire peut varier légèrement si votre visite tombe un vendredi. Des chaussures de marche confortables sont recommandées, car il y aura de la marche pendant la visite. Veuillez apporter une pièce d'identité avec photo valide (passeport, permis de conduire, etc.) pour les contrôles de sécurité à l'aéroport. Découvrez la magie du Taj Mahal avec notre visite du Taj Mahal le même jour en avion depuis Hyderabad. Réservez maintenant et créez des souvenirs qui dureront toute une vie ! Veuillez noter : la prise en charge et le retour à l'aéroport d'Hyderabad ne sont pas inclus.",
+  "highlights": [
+   "Un guide touristique sera fourni"
+  ],
+  "included": [
+   "Repas : déjeuner (avec l'option visite tout compris ou visite sans vols)",
+   "Transport : véhicule climatisé pour tous les transferts et visites",
+   "Visites guidées : guides locaux parlant anglais pour les principales visites",
+   "Frais d'entrée : frais d'entrée aux monuments et attractions (avec l'option visite tout compris ou visite sans vols)",
+   "Billets d'avion aller-retour (uniquement avec l'option visite tout compris)",
+   "Toutes les taxes et frais de service applicables",
+   "Assistance pendant toute la visite 24h/24 et 7j/7",
+   "Bouteille d'eau fournie pendant le voyage",
+   "WIFI à bord"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles : toute dépense personnelle telle que pourboires, souvenirs, repas ou boissons supplémentaires, et shopping",
+   "Activités optionnelles",
+   "Pourboires pour le guide, le chauffeur, ou le personnel de l'hôtel",
+   "Prise en charge et retour depuis l'aéroport d'Hyderabad (nous pouvons aider si nécessaire)"
+  ]
+ },
+ "agra-evening-tour-sunset-taj-mahal-agra-fort-with": {
+  "title": "Visite du soir à Agra : Taj Mahal au coucher du soleil et fort d'Agra avec options",
+  "metaTitle": "Agra : Taj Mahal coucher du soleil, fort d'Agra",
+  "metaDescription": "Explorez le magnifique fort d'Agra et l'histoire royale moghole.",
+  "shortDescription": "Explorez le magnifique fort d'Agra et l'histoire royale moghole.",
+  "fullDescription": "Découvrez la magie d'Agra au coucher du soleil lors de cette visite mémorable de la ville d'Agra mettant en vedette le magnifique fort d'Agra et la vue à couper le souffle du coucher de soleil sur le Taj Mahal depuis le jardin Mehtab. Cette visite est parfaite pour les voyageurs qui souhaitent voir le Taj Mahal au coucher du soleil. Si vous prévoyez de visiter le Taj Mahal au lever du soleil, nous recommandons de faire cette visite la veille.\n\nCommencez votre visite au fort d'Agra, l'un des forts moghols les plus impressionnants de l'Inde. Explorez ses grands palais, cours, mosquées, et chambres royales tout en découvrant l'histoire fascinante des empereurs moghols. Depuis le fort d'Agra, profitez d'une vue unique sur le Taj Mahal et découvrez l'histoire de l'empereur Shah Jahan, qui admirait le Taj Mahal depuis le fort pendant sa période de résidence surveillée.\n\nContinuez avec une visite touristique de la ville d'Agra avant de vous diriger vers le jardin Mehtab, situé à travers la rivière Yamuna en face du Taj Mahal. Alors que le soleil commence à se coucher, profitez d'une vue spectaculaire et moins fréquentée du Taj Mahal rayonnant dans la lumière du soir. C'est une merveilleuse opportunité de capturer des photographies impressionnantes de l'un des monuments les plus célèbres du monde.\n\nDétendez-vous, profitez du coucher de soleil, prenez des photos inoubliables, et découvrez la beauté du Taj Mahal sous une perspective différente. À la fin de la visite, vous serez confortablement déposé à votre hôtel ou lieu préféré à Agra.",
+  "highlights": [
+   "Explorez le magnifique fort d'Agra et l'histoire royale moghole"
+  ],
+  "included": [
+   "Guide touristique professionnel privé",
+   "Accès sans file d'attente",
+   "Prise en charge et retour à l'hôtel",
+   "Billet d'entrée aux monuments (si option sélectionnée)",
+   "Eau minérale en bouteille",
+   "Couvre-chaussures"
+  ],
+  "notIncluded": [
+   "Pourboires et gratifications"
+  ]
+ },
+ "taj-mahal-and-agra-fort-private-guided-tour-with": {
+  "title": "Visite privée guidée du Taj Mahal et du fort d'Agra avec transferts",
+  "metaTitle": "Agra : Taj Mahal et fort, visite privée guidée",
+  "metaDescription": "Découvrez la beauté du Taj Mahal et du fort d'Agra en une journée.",
+  "shortDescription": "Découvrez la beauté du Taj Mahal et du fort d'Agra en une journée.",
+  "fullDescription": "Votre visite commencera par une prise en charge à votre hôtel ou aéroport. Notre chauffeur vous prendra en charge à votre hôtel ou aéroport et se dirigera vers Agra via l'autoroute Yamuna. Une fois arrivé à Agra, vous rencontrerez votre guide touristique en direct et procéderez à la visite du Taj Mahal, symbole emblématique de l'amour. Le Taj Mahal, joyau de la couronne d'Agra, incarne l'amour et la brillance architecturale. Construit par Shah Jahan, cette merveille en marbre se dresse comme un témoignage intemporel de romance et d'art moghol.\n\nAprès avoir visité le Taj Mahal, vous explorerez le fort d'Agra, un joyau de l'UNESCO, qui incarne la puissance et la splendeur moghole. Cette forteresse en grès rouge, construite par Akbar, présente des palais, mosquées, et cours impressionnants. Explorez sa riche histoire et sa grandeur architecturale tout en surplombant la rivière Yamuna.\n\nAprès la visite du fort d'Agra, vous pouvez prendre une courte pause pour déguster un délicieux déjeuner dans un restaurant multi-cuisine à Agra.\n\nAprès le déjeuner, vous pouvez visiter le Baby Taj, ou tombeau d'Itimad-ud-Daulah, qui charme avec ses incrustations complexes en marbre. Joyau de l'architecture moghole, il précède le Taj Mahal, offrant une retraite sereine le long de la rivière Yamuna. Votre visite se terminera par un dépôt à votre hôtel ou aéroport.",
+  "highlights": [
+   "Découvrez la beauté du Taj Mahal et du fort d'Agra en une journée"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Visite privée en voiture climatisée avec chauffeur",
+   "Guide touristique en direct",
+   "Déjeuner dans un restaurant multi-cuisine (si vous avez réservé cette option)",
+   "Billets d'entrée payants aux monuments (si vous avez réservé cette option)",
+   "Bouteilles d'eau minérale",
+   "Frais de carburant et toutes les taxes"
+  ],
+  "notIncluded": [
+   "Gratifications : pourboires pour le guide et le chauffeur"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",

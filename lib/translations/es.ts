@@ -3632,6 +3632,76 @@ export const ES_TOURS: Record<string, TourT> = {
    "Recogida y traslado desde el Aeropuerto de Bangalore (podemos ayudar si es necesario)"
   ]
  },
+ "same-day-taj-mahal-tour-by-flight-from-hyderabad": {
+  "title": "Tour del Taj Mahal en el mismo día en avión desde Hyderabad",
+  "metaTitle": "Hyderabad-Taj Mahal: tour en el mismo día en avión",
+  "metaDescription": "Se proporcionará un guía turístico.",
+  "shortDescription": "Se proporcionará un guía turístico.",
+  "fullDescription": "Ofrecemos asistencia 24/7 durante todo el tour.\n\n**4:00 a.m.:** debe llegar al aeropuerto de Hyderabad para tomar su vuelo matutino, sus tarjetas de embarque le serán enviadas por correo electrónico con el check-in en línea realizado. A su llegada a Delhi, será recibido por el conductor de Taj Explorer.\n\n**6:00 a.m.:** llegue a Delhi y conozca a su guía y conductor. Disfrute de un delicioso desayuno en un restaurante local.\n\n**9:00-11:00 a.m.:** visite el icónico Taj Mahal, una obra maestra de la arquitectura mogol, y un símbolo del amor eterno. Conozca la historia e importancia del Taj Mahal con su conocedor guía.\n\n**11:00 a.m.-12:30 p.m.:** explore el majestuoso Fuerte de Agra, un Sitio del Patrimonio Mundial de la UNESCO, conocido por su impresionante arquitectura e importancia histórica. Descubra la fascinante historia del Imperio mogol mientras camina por los patios, palacios, y jardines del fuerte.\n\n**12:30-1:30 p.m.:** disfrute de un delicioso almuerzo en un restaurante local, donde puede saborear auténtica cocina india.\n\n**1:30-3:00 p.m.:** visite la Tumba de Itmad-ud-Daulah, también conocida como el \"Baby Taj\", un hermoso mausoleo de mármol considerado un precursor del Taj Mahal. Explore el intrincado diseño de la tumba y conozca su historia con su guía.\n\n**4:00 p.m.:** después de un día de exploración, será trasladado al aeropuerto para su vuelo de regreso a Hyderabad.\n\n**7:00 p.m.:** a su llegada al Aeropuerto de Delhi, se le entregarán los boletos de regreso y tomará su vuelo de regreso a Hyderabad. Nuestros servicios terminan aquí. A su llegada a Hyderabad, regrese a su hotel/casa.\n\n**Información adicional:**\nEl Taj Mahal está cerrado los viernes, por lo que el itinerario puede variar ligeramente si su tour cae en viernes. Se recomiendan zapatos cómodos para caminar, ya que habrá algo de caminata durante el tour. Por favor lleve una identificación con foto válida (pasaporte, licencia de conducir, etc.) para los controles de seguridad del aeropuerto. Experimente la magia del Taj Mahal con nuestro Tour del Taj Mahal en el mismo día en avión desde Hyderabad. ¡Reserve ahora y cree recuerdos que durarán toda la vida! Tenga en cuenta: la recogida y el traslado al aeropuerto en Hyderabad no están incluidos.",
+  "highlights": [
+   "Se proporcionará un guía turístico"
+  ],
+  "included": [
+   "Comidas: almuerzo (con la opción de tour todo incluido o tour sin vuelos)",
+   "Transporte: vehículo con aire acondicionado para todos los traslados y avistamientos",
+   "Tours guiados: guías locales de habla inglesa para los principales avistamientos",
+   "Tarifas de entrada: tarifas de entrada a monumentos y atracciones (con la opción de tour todo incluido o tour sin vuelos)",
+   "Boletos de avión de ida y vuelta (solo con la opción de tour todo incluido)",
+   "Todos los impuestos y cargos de servicio aplicables",
+   "Asistencia durante todo el tour 24/7",
+   "Se proporcionará botella de agua durante el viaje",
+   "WiFi a bordo"
+  ],
+  "notIncluded": [
+   "Gastos personales: cualquier gasto personal como propinas, recuerdos, comidas o bebidas adicionales, y compras",
+   "Actividades opcionales",
+   "Propinas para el guía, conductor, o personal del hotel",
+   "Recogida y traslado desde el Aeropuerto de Hyderabad (podemos ayudar si es necesario)"
+  ]
+ },
+ "agra-evening-tour-sunset-taj-mahal-agra-fort-with": {
+  "title": "Tour vespertino de Agra: Taj Mahal al atardecer y Fuerte de Agra con opciones",
+  "metaTitle": "Agra: Taj Mahal al atardecer, Fuerte de Agra",
+  "metaDescription": "Explore el magnífico Fuerte de Agra y la historia real mogol.",
+  "shortDescription": "Explore el magnífico Fuerte de Agra y la historia real mogol.",
+  "fullDescription": "Experimente la magia de Agra al atardecer en este memorable tour por la ciudad de Agra que presenta el magnífico Fuerte de Agra y la impresionante vista del atardecer en el Taj Mahal desde el Jardín Mehtab. Este tour es perfecto para viajeros que desean ver el Taj Mahal al atardecer. Si planea visitar el Taj Mahal al amanecer, le recomendamos hacer este tour el día anterior.\n\nComience su tour en el Fuerte de Agra, uno de los fuertes mogoles más impresionantes de la India. Explore sus grandiosos palacios, patios, mezquitas, y cámaras reales mientras conoce la fascinante historia de los emperadores mogoles. Desde el Fuerte de Agra, disfrute de una vista única del Taj Mahal y descubra la historia del emperador Shah Jahan, quien admiraba el Taj Mahal desde el fuerte durante su período de arresto domiciliario.\n\nContinúe con un tour de avistamiento por la ciudad de Agra antes de dirigirse al Jardín Mehtab, ubicado al otro lado del río Yamuna frente al Taj Mahal. Mientras el sol comienza a ponerse, disfrute de una vista espectacular y menos concurrida del Taj Mahal brillando en la luz de la tarde. Esta es una maravillosa oportunidad para capturar fotografías increíbles de uno de los monumentos más famosos del mundo.\n\nRelájese, disfrute del atardecer, tome fotos inolvidables, y experimente la belleza del Taj Mahal desde una perspectiva diferente. Al final del tour, será cómodamente llevado de regreso a su hotel o lugar preferido en Agra.",
+  "highlights": [
+   "Explore el magnífico Fuerte de Agra y la historia real mogol"
+  ],
+  "included": [
+   "Guía turístico profesional privado",
+   "Acceso sin colas",
+   "Recogida y traslado al hotel",
+   "Boleto de entrada a los monumentos (si se selecciona la opción)",
+   "Agua mineral embotellada",
+   "Cubrezapatos"
+  ],
+  "notIncluded": [
+   "Propinas y gratificaciones"
+  ]
+ },
+ "taj-mahal-and-agra-fort-private-guided-tour-with": {
+  "title": "Tour privado guiado del Taj Mahal y el Fuerte de Agra con traslados",
+  "metaTitle": "Agra: Taj Mahal y fuerte, tour privado guiado",
+  "metaDescription": "Experimente la belleza del Taj Mahal y el Fuerte de Agra en un día.",
+  "shortDescription": "Experimente la belleza del Taj Mahal y el Fuerte de Agra en un día.",
+  "fullDescription": "Su tour comenzará con la recogida en su hotel o aeropuerto. Nuestro conductor lo recogerá en su hotel o aeropuerto y se dirigirá a Agra por la autopista Yamuna. Una vez que llegue a Agra, conocerá a su guía turístico en vivo y procederá a visitar el Taj Mahal, un símbolo icónico del amor. El Taj Mahal, la joya de la corona de Agra, personifica el amor y el brillo arquitectónico. Construido por Shah Jahan, esta maravilla de mármol se erige como un testimonio atemporal del romance y el arte mogol.\n\nDespués de visitar el Taj Mahal, explorará el Fuerte de Agra, una joya de la UNESCO, que encarna el poder y el esplendor mogol. Esta fortaleza de arenisca roja, construida por Akbar, cuenta con impresionantes palacios, mezquitas, y patios. Explore su rica historia y grandeza arquitectónica mientras domina el río Yamuna.\n\nDespués del avistamiento del Fuerte de Agra, puede tomar un pequeño descanso para disfrutar de un delicioso almuerzo en un restaurante multicocina en Agra.\n\nDespués del almuerzo, puede visitar el Baby Taj, o Tumba de Itimad-ud-Daulah, que encanta con sus intrincadas incrustaciones de mármol. Una joya de la arquitectura mogol, precede al Taj Mahal, ofreciendo un retiro sereno junto al río Yamuna. Su tour terminará con el traslado a su hotel o aeropuerto.",
+  "highlights": [
+   "Experimente la belleza del Taj Mahal y el Fuerte de Agra en un día"
+  ],
+  "included": [
+   "Recogida y traslado al hotel",
+   "Avistamiento privado en auto con aire acondicionado con chófer",
+   "Guía turístico en vivo",
+   "Almuerzo en un restaurante multicocina (si reservó esa opción)",
+   "Boletos de entrada pagados a los monumentos (si reservó esa opción)",
+   "Botellas de agua mineral",
+   "Cargos de combustible y todos los impuestos"
+  ],
+  "notIncluded": [
+   "Gratificaciones: propinas para el guía y el conductor"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
