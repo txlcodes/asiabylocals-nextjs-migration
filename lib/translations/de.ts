@@ -24786,6 +24786,70 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder und Gratifikationen"
   ]
  },
+ "delhiagrajaipur-one-way-private-taxi-transfer": {
+  "title": "Delhi/Agra/Jaipur: private Taxi-Einwegfahrt",
+  "metaTitle": "Delhi-Agra-Jaipur: privater Taxitransfer",
+  "metaDescription": "Genießen Sie die Transferfahrt",
+  "shortDescription": "Genießen Sie die Transferfahrt",
+  "fullDescription": "Delhi/Agra/Jaipur: private Taxi-Einwegfahrt. Genießen Sie die Transferfahrt.\n\nGenießen Sie einen privaten Transfer von Delhi, Agra, oder Jaipur mit Fahrer in einem privaten klimatisierten Auto. Unser Fahrer holt Sie an Ihrem gewünschten Ort in diesen Städten ab, egal ob am Flughafen oder in Ihrem Hotel, und bringt Sie zu Ihrem Hotel oder zum Flughafen in Delhi, Jaipur, oder Agra.\n\nVerschwenden Sie keine Zeit damit, ein Taxi zu suchen und über Preise zu verhandeln; buchen Sie Ihren bequemen Transfer im Voraus, und genießen Sie einen entspannteren Urlaub. Lehnen Sie sich zurück und entspannen Sie sich, denn Sie sind in sicheren Händen und kommen genau dort an, wo Sie hinwollen. Genießen Sie kostenloses Wasser während der Fahrt.\n\nDas verwendete Fahrzeug hängt von der Anzahl der beförderten Personen ab. 1 bis 3 Personen: klimatisierte Limousine, Toyota Etios, oder Maruti Swift Dzire; 4 bis 6 Personen: klimatisierter Kia Carens oder Innova; und 12 bis 26 Personen: Tempo Traveller oder Minibus (falls zutreffend).\n\n**Was ist inbegriffen**\nTaxi/Auto\nMautgebühr\nParken\nReiseführer (falls diese Option gewählt wird)\n\n**Nicht inbegriffen**\nJegliche Mahlzeit\nBesichtigungen\nGratifikationen/Trinkgelder",
+  "highlights": [
+   "Genießen Sie die Transferfahrt"
+  ],
+  "included": [
+   "Taxi/Auto",
+   "Mautgebühr",
+   "Parken",
+   "Reiseführer (falls diese Option gewählt wird)"
+  ],
+  "notIncluded": [
+   "Jegliche Mahlzeit",
+   "Besichtigungen",
+   "Gratifikationen/Trinkgelder"
+  ]
+ },
+ "from-delhi-akshardham-exhibition-and-sahaj-anand": {
+  "title": "Ab Delhi: Akshardham-Ausstellung und Sahaj-Anand-Wassershow",
+  "metaTitle": "Delhi: Akshardham, Sahaj-Anand-Show",
+  "metaDescription": "Nahtlose Abholung und Rückfahrt quer durch Delhi zum Akshardham-Tempelkomplex",
+  "shortDescription": "Nahtlose Abholung und Rückfahrt quer durch Delhi zum Akshardham-Tempelkomplex",
+  "fullDescription": "Ab Delhi: Akshardham-Ausstellung und Sahaj-Anand-Wassershow. Nahtlose Abholung und Rückfahrt quer durch Delhi zum Akshardham-Tempelkomplex.\n\nBeginnen Sie Ihre Reise mit nahtlosen Abhol- und Rückfahrservices von Ihrem gewünschten Ort in Delhi, und genießen Sie eine entspannte Fahrt zum Akshardham-Tempel, einem prächtigen hinduistischen Tempelkomplex, der Lord Swaminarayan gewidmet ist. Ihr bezaubernder Tag beginnt mit einem wunderbaren Darshan, geführt von Ihrem sachkundigen Live-Reiseführer.\n\nErkunden Sie die Sahajananda-Philosophie, und tauchen Sie ein in eine multimediale Präsentation, die Werte wie Gewaltlosigkeit, Ausdauer, Gebet, Moral, und familiäre Harmonie beleuchtet.\n\nAls Nächstes begeben Sie sich zum Neelkanth Darshan, der die epische Pilgerreise von Neelkanth Varni durch Indien nacherzählt, von den Gipfeln des Himalaya bis zu den südlichen Stränden, und die Themen Opfer, Dienst, Wissen, und Glauben hervorhebt.\n\nUnternehmen Sie einen Sanskriti Darshan, eine fesselnde kulturelle Bootsfahrt durch die antike indische Geschichte, bei der Sie den Lebensstil der vedischen Epoche erleben und sich über bedeutende Errungenschaften wie die antike Augenchirurgie wundern.\n\nBeenden Sie Ihr Erlebnis mit einer optionalen Licht- und Wassershow, einem sinnlichen Festmahl. Kehren Sie zu Ihrem Hotel zurück, bereichert mit Wissen und einer tiefen Verbindung zu Indiens spirituellem Erbe.\n\n**Was ist inbegriffen**\nAbhol- und Rückfahrservice zum Hotel\nPrivates klimatisiertes Fahrzeug\nPrivate Tempeltour\nLive-Reiseführer\nTicket für die Licht- und Wassershow (falls diese Option gewählt wird)\nMineralwasser in Flaschen\n\n**Nicht inbegriffen**\nJegliche Mahlzeiten und Getränke\nTrinkgelder und Gratifikationen",
+  "highlights": [
+   "Nahtlose Abholung und Rückfahrt quer durch Delhi zum Akshardham-Tempelkomplex"
+  ],
+  "included": [
+   "Abhol- und Rückfahrservice zum Hotel",
+   "Privates klimatisiertes Fahrzeug",
+   "Private Tempeltour",
+   "Live-Reiseführer",
+   "Ticket für die Licht- und Wassershow (falls diese Option gewählt wird)",
+   "Mineralwasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Jegliche Mahlzeiten und Getränke",
+   "Trinkgelder und Gratifikationen"
+  ]
+ },
+ "delhi-guided-evening-tour-of-delhi-city": {
+  "title": "Delhi: geführte Abendtour durch die Stadt Delhi",
+  "metaTitle": "Delhi: Abendtour geführt",
+  "metaDescription": "Eine private, halbtägige nächtliche Tour durch Delhi im klimatisierten Fahrzeug",
+  "shortDescription": "Eine private, halbtägige nächtliche Tour durch Delhi im klimatisierten Fahrzeug",
+  "fullDescription": "Delhi: geführte Abendtour durch die Stadt Delhi. Eine private, halbtägige nächtliche Tour durch Delhi im klimatisierten Fahrzeug.\n\nLassen Sie sich von Ihrem Hotel abholen, und beginnen Sie Ihre abendliche Besichtigung mit einem Reiseführer.\n\n**Rashtrapati Bhavan (Vorbeifahrt)**\n\nRashtrapati Bhavan, Heimat des Präsidenten der größten Demokratie der Welt, ist sinnbildlich für die indische Demokratie und ihre säkularen, pluralen, und integrativen Traditionen. Es wurde von Sir Edwin Lutyens und Herbert Baker entworfen und steht auf einem 330 Hektar großen Anwesen. Es dauerte siebzehn Jahre, diesen Präsidentenpalast zu errichten, der im Jahr 1929 fertiggestellt wurde. Fast siebenhundert Millionen Ziegel und drei Millionen Kubikfuß Stein wurden beim Bau dieses architektonischen Wunders verwendet, das über 2,5 Kilometer Korridore und 190 Hektar Gartenfläche verfügt. Das Hauptgebäude umfasst eine Fläche von 5 Hektar und hat 340 Räume, verteilt auf vier Stockwerke. Manchmal ist das Anhalten nicht erlaubt, und wir müssen einfach vorbeifahren.\n\n**India Gate**\nIndia Gate भारत द्वार (ursprünglich das All India War Memorial genannt) ist ein Kriegsdenkmal, das am Rajpath liegt, am östlichen Rand der „zeremoniellen Achse\" von New Delhi, Indien, früher Kingsway genannt. Manchmal ist das Anhalten nicht erlaubt, und wir müssen einfach vorbeifahren.\n\n**Agrasen Ki Baoli**\nNur für Touren buchbar von 3:30 bis 5pm (17:00 Uhr)\nDer geheime Ort in Delhi. Es ist ein ungewöhnlicher Ort mit außergewöhnlichem Ausblick. Mitten im Herzen der Stadt gelegen, kann man hier das Beste aus moderner und antiker Welt genießen. Schließt nach Sonnenuntergang.\n\n**Lodhi Garden**\nLodi Gardens ist ein Stadtpark in New Delhi, Indien. Auf einer Fläche von 90 Hektar beherbergt er das Grabmal von Mohammed Shah, das Grabmal von Sikandar Lodi, das Shisha Gumbad, und das Bara Gumbad, architektonische Werke...\n\n**Safdarjungs Grabmal**\n\nSafdarjungs Grabmal ist ein Grabmal, das Safdar Jang gewidmet ist, einem Herrscher von Awadh im mittelalterlichen Indien. Dieses Grabmal liegt in der Nähe des Flughafens Safdarjung, an der Kreuzung von Lodhi Road und Aurobindo Marg in New Delhi, der Hauptstadt. Dieses Grabmal wurde von Shuja-ud-Daula im mogulischen Baustil errichtet, nach dem Tod seines Vaters im Jahr 1754.\n\nDanach Rückkehr zu Ihrem Hotel.\n\n**Was ist inbegriffen**\nBesichtigungen in einem privaten klimatisierten Auto mit Chauffeur\nProfessioneller Reiseführer\nKostenlose Wasserflaschen\nAlle Parkgebühren, Mautgebühren, Treibstoff, und Steuern\n\n**Nicht inbegriffen**\nEintrittsgebühren\nMahlzeiten\nTrinkgelder für Fahrer und Reiseführer",
+  "highlights": [
+   "Eine private, halbtägige nächtliche Tour durch Delhi im klimatisierten Fahrzeug"
+  ],
+  "included": [
+   "Besichtigungen in einem privaten klimatisierten Auto mit Chauffeur",
+   "Professioneller Reiseführer",
+   "Kostenlose Wasserflaschen",
+   "Alle Parkgebühren, Mautgebühren, Treibstoff, und Steuern"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren",
+   "Mahlzeiten",
+   "Trinkgelder für Fahrer und Reiseführer"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
