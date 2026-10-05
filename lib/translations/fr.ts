@@ -26159,6 +26159,77 @@ export const FR_TOURS: Record<string, TourT> = {
    "Gratifications"
   ]
  },
+ "new-delhi-traditional-indian-cooking-class-market": {
+  "title": "New Delhi : cours de cuisine indienne traditionnelle et visite du marché",
+  "metaTitle": "Delhi : cours de cuisine, marché",
+  "metaDescription": "Préparez un repas indien authentique avec vos plats principaux favoris.",
+  "shortDescription": "Préparez un repas indien authentique avec vos plats principaux favoris.",
+  "fullDescription": "New Delhi : cours de cuisine indienne traditionnelle et visite du marché. Préparez un repas indien authentique avec vos plats principaux favoris.\n\nPlongez au cœur des délices culinaires indiens avec Lubna, une chef à domicile passionnée, impatiente de partager son amour de la cuisine et de la culture. Située dans le quartier vibrant de Delhi, sa maison accueillante sert de chambre d'hôtes populaire, offrant aux visiteurs une occasion unique d'explorer les saveurs indiennes authentiques.\n\nLubna se spécialise dans la cuisine indienne traditionnelle, puisant son inspiration dans le patrimoine familial. Elle chérit les recettes de sa belle-mère, les adaptant selon divers besoins alimentaires. Son dévouement lui a valu une reconnaissance, notamment en accueillant une jeune fille du Royaume-Uni ayant remporté le concours « Take Away My Takeaway ».\n\nAprès avoir réservé votre visite, Lubna encourage les échanges par WhatsApp pour discuter de vos intérêts culinaires et adapter l'expérience à vos préférences. Pour de nombreux visiteurs, c'est la première fois qu'ils apprennent la cuisine indienne, et ils apprécient d'acquérir de nouvelles compétences sous la direction de Lubna. D'autres, expérimentés en cuisine indienne, sont ravis d'apprendre des techniques authentiques, et promettent d'organiser des fêtes sur le thème indien pour leurs amis à leur retour.\n\nUn jour, une invitée ne pouvant consommer ni blé, ni produits laitiers, ni agrumes, est venue séjourner chez Lubna. Après avoir discuté de ses restrictions alimentaires, Lubna a concocté des plats incroyables en utilisant l'avoine comme ingrédient principal. L'invitée fut si impressionnée qu'elle nota toutes les recettes, affirmant que sa vie s'était améliorée grâce à ces nouvelles compétences culinaires.\n\nVotre aventure débute par un trajet personnalisé vers un marché local, à seulement 10 minutes des sites touristiques habituels. Vous explorerez des étals animés remplis de produits frais, d'épices aromatiques, et de couleurs vibrantes qui définissent les marchés indiens. Certains visiteurs ont même goûté de la street food sur place, lorsque la boutique était ouverte, ajoutant une touche passionnante à l'expérience.\n\nDe retour dans la cuisine de Lubna, vous serez accueilli avec une tasse fumante de chai, instaurant une ambiance chaleureuse pour la session à venir. Vous embarquerez pour un cours de cuisine instructif, où le menu propose des plats traditionnels, des entrées aux desserts. Les plats suggérés comprennent le Rogan Josh, des kebabs (végétariens et au poulet), des idées de petits-déjeuners, et des en-cas tels que le pakora de pain et les samosas.\n\nDe plus, vous pouvez vous joindre à elle pour la préparation du petit-déjeuner ; notez toutefois que la visite du marché ne serait pas possible avec cette option. Vous pouvez réserver la visite de 11h00, et envoyer un message à Lubna pour vérifier si elle peut être convertie en option petit-déjeuner, ou si vous préférez apprendre uniquement des en-cas.\n\nLa maison de Lubna est un régal pour les amoureux des plantes, et présente une architecture traditionnelle de haveli indienne, construite en 1974. Avec son charme unique et sa verdure vibrante, elle offre un cadre serein pour votre expérience culinaire. Si vous avez le temps, faites une courte promenade dans le charmant voisinage, à l'écart du circuit touristique, pour un aperçu de la vie locale.\n\nVous vous plongerez dans la cuisine, apprenant les épices et techniques qui rendent la cuisine indienne si spéciale. Une fois les plats prêts, rassemblez-vous autour de la table familiale pour savourer vos créations, partageant éventuellement avec un membre de la famille de Lubna pour une touche personnelle.\n\nRejoignez Lubna pour une expérience culinaire indienne mémorable !\n\n**Ce qui est inclus**\nHôtesse\nTous les ingrédients\n3 plats principaux\n3 types de pain\n1 plat de riz\nDégustation du repas que nous préparons\nLa famille de l'hôtesse peut se joindre pour célébrer votre cuisine\nThé/eau\n\n**Non inclus**\nPrise en charge et retour à l'hôtel\nPourboires pour l'hôtesse\nDépenses personnelles telles que le shopping, les tickets de métro, les VTC, et les en-cas\nVotre propre assurance voyage et santé\nTout service non spécifié ou garanti par l'agent/l'agence\nDépenses imprévues ou d'urgence",
+  "highlights": [
+   "Préparez un repas indien authentique avec vos plats principaux favoris"
+  ],
+  "included": [
+   "Hôtesse",
+   "Tous les ingrédients",
+   "3 plats principaux",
+   "3 types de pain",
+   "1 plat de riz",
+   "Dégustation du repas que nous préparons",
+   "La famille de l'hôtesse peut se joindre pour célébrer votre cuisine",
+   "Thé/eau"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel",
+   "Pourboires pour l'hôtesse",
+   "Dépenses personnelles telles que le shopping, les tickets de métro, les VTC, et les en-cas",
+   "Votre propre assurance voyage et santé",
+   "Tout service non spécifié ou garanti par l'agent/l'agence",
+   "Dépenses imprévues ou d'urgence"
+  ]
+ },
+ "private-golden-triangle-tour-2-nights3-days-all": {
+  "title": "Circuit privé du Triangle d'or, 2 nuits/3 jours - tout compris",
+  "metaTitle": "Triangle d'or privé, 2 nuits/3 jours",
+  "metaDescription": "Explorez le circuit le plus célèbre de l'Inde, couvrant Delhi, Agra, et Jaipur.",
+  "shortDescription": "Explorez le circuit le plus célèbre de l'Inde, couvrant Delhi, Agra, et Jaipur.",
+  "fullDescription": "Circuit privé du Triangle d'or, 2 nuits/3 jours - tout compris. Explorez le circuit le plus célèbre de l'Inde, couvrant Delhi, Agra, et Jaipur.\n\nDécouvrez le Triangle d'or de l'Inde lors d'un circuit privé tout compris de 2 nuits/3 jours, couvrant Delhi, Agra, et Jaipur. Profitez de visites guidées, d'une entrée coupe-file, de transport, et d'une expérience de voyage fluide.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel/l'aéroport\nVoiture privée climatisée pour toute l'activité du circuit, avec chauffeur\nGuide touristique professionnel dans chaque ville\nHébergement de 2 nuits à l'hôtel (si l'option est sélectionnée)\nPetit-déjeuner à l'hôtel\nBouteille d'eau minérale\nTous les péages et frais de stationnement\n\n**Non inclus**\nBillets d'entrée aux monuments\nDéjeuner et dîner\nToute dépense personnelle",
+  "highlights": [
+   "Explorez le circuit le plus célèbre de l'Inde, couvrant Delhi, Agra, et Jaipur"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel/l'aéroport",
+   "Voiture privée climatisée pour toute l'activité du circuit, avec chauffeur",
+   "Guide touristique professionnel dans chaque ville",
+   "Hébergement de 2 nuits à l'hôtel (si l'option est sélectionnée)",
+   "Petit-déjeuner à l'hôtel",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Billets d'entrée aux monuments",
+   "Déjeuner et dîner",
+   "Toute dépense personnelle"
+  ]
+ },
+ "old-delhi-spices-heritage-and-bazaars-walking-tour": {
+  "title": "Vieux Delhi : visite à pied des épices, du patrimoine, et des bazars",
+  "metaTitle": "Delhi : Vieux Delhi, épices, patrimoine, bazars",
+  "metaDescription": "Découvrez la magnifique Jama Masjid vieille de 400 ans, offrant des vues sur la vieille ville",
+  "shortDescription": "Découvrez la magnifique Jama Masjid vieille de 400 ans, offrant des vues sur la vieille ville",
+  "fullDescription": "Vieux Delhi : visite à pied des épices, du patrimoine, et des bazars. Découvrez la magnifique Jama Masjid vieille de 400 ans, offrant des vues sur la vieille ville.\n\nVotre guide vous retrouve à la porte n° 1 de la station de métro nommée « Jama Masjid Metro Station ». Après un bref briefing sur l'aventure à venir, nous commençons à marcher et à découvrir la ville vivante de 400 ans, connue sous le nom de « Vieux Delhi ».\nLa balade commence au cœur de l'historique « Meena Bazaar », autrefois un marché opulent de pierres précieuses à l'époque impériale moghole, mais aujourd'hui un marché de fortune desservant les couches les plus modestes de la société, où les vendeurs proposent des articles très abordables au grand public.\nBientôt, nous apercevons les imposants escaliers en pierre menant à la « mosquée Jama », considérée comme la plus grande mosquée d'Inde, construite par le même empereur qui bâtit le « Taj Mahal », connu sous le nom de « Shah Jahan ».\nRemarque : la visite de la mosquée est entièrement optionnelle, et non obligatoire. Les frais d'entrée de la « mosquée Jama » s'élèvent à 450 roupies indiennes par personne. Ceux qui ne souhaitent pas entrer peuvent néanmoins faire un arrêt photo depuis l'extérieur.\n\nIl est temps de plonger dans la chasse au labyrinthe, d'entrer dans le dédale du Vieux Delhi, tout en marchant, de découvrir des maisons patrimoniales appelées havelis en raison de leurs designs traditionnels et patrimoniaux. De multiples ruelles sinueuses mènent à de nombreux marchés animés et éblouissants, en activité depuis l'ère impériale moghole. Ces quartiers énigmatiques, baignés de l'attrait du crépuscule, promettent une exploration de secrets murmurés à travers le temps.\n\nBientôt, nous atteignons le « marché aux épices », et commençons notre exploration des épices. Nous nous frayons un chemin jusqu'à un immense entrepôt où tous les grands marchands d'épices viennent conclure des accords avec les grossistes en épices. De grands sacs d'épices sont entrouverts pour l'exposition, remplissant l'air environnant d'épices et d'arômes. Nous entrons bientôt dans l'un des célèbres et anciens dépôts/entrepôts d'épices pour un briefing sur de nombreuses épices indiennes renommées. Vous serez surpris de découvrir à quel point vous payez cher dans votre pays d'origine pour certaines épices d'usage quotidien de votre cuisine.\n\nNous retournons ensuite vers la station de métro ou le point Uber le plus proche.\n\nRemarque : il n'est pas recommandé de prendre trop de photos ; la visite se déroule au milieu des vrais habitants, de leurs quartiers, et de leurs commerces. Quelques photos souvenirs sont tolérées, mais la visite n'est pas conçue pour les photographes professionnels.\n\n**Ce qui est inclus**\nGuide local compétent\n1 bouteille d'eau minérale par personne\n\n**Non inclus**\nPourboire pour le guide\nPrise en charge et retour à l'hôtel\nNourriture et boissons",
+  "highlights": [
+   "Découvrez la magnifique Jama Masjid vieille de 400 ans, offrant des vues sur la vieille ville"
+  ],
+  "included": [
+   "Guide local compétent",
+   "1 bouteille d'eau minérale par personne"
+  ],
+  "notIncluded": [
+   "Pourboire pour le guide",
+   "Prise en charge et retour à l'hôtel",
+   "Nourriture et boissons"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

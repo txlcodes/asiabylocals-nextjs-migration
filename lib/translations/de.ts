@@ -26159,6 +26159,77 @@ export const DE_TOURS: Record<string, TourT> = {
    "Gratifikationen"
   ]
  },
+ "new-delhi-traditional-indian-cooking-class-market": {
+  "title": "New Delhi: traditioneller indischer Kochkurs und Marktbesuch",
+  "metaTitle": "Delhi: Kochkurs, Markt",
+  "metaDescription": "Bereiten Sie ein authentisches indisches Essen mit Ihren liebsten Hauptgerichten zu.",
+  "shortDescription": "Bereiten Sie ein authentisches indisches Essen mit Ihren liebsten Hauptgerichten zu.",
+  "fullDescription": "New Delhi: traditioneller indischer Kochkurs und Marktbesuch. Bereiten Sie ein authentisches indisches Essen mit Ihren liebsten Hauptgerichten zu.\n\nTauchen Sie ein in das Herz indischer kulinarischer Köstlichkeiten mit Lubna, einer leidenschaftlichen Hausköchin, die begeistert ihre Liebe zu Essen und Kultur teilt. Gelegen im lebendigen Delhi, dient ihr einladendes Zuhause als beliebtes Bed & Breakfast, das Gästen eine einzigartige Gelegenheit bietet, authentische indische Aromen zu entdecken.\n\nLubna spezialisiert sich auf traditionelle indische Küche, inspiriert vom Erbe ihrer Familie. Sie schätzt Rezepte ihrer Schwiegermutter, und passt sie an verschiedene Ernährungsbedürfnisse an. Ihr Engagement hat ihr Anerkennung eingebracht, einschließlich der Betreuung eines jungen Mädchens aus Großbritannien, das den Wettbewerb „Take Away My Takeaway\" gewann.\n\nNach Ihrer Buchung ermutigt Lubna zum Austausch über WhatsApp, um Ihre kulinarischen Interessen zu besprechen und das Erlebnis an Ihre Vorlieben anzupassen. Für viele Gäste ist es das erste Mal, dass sie indisches Kochen erlernen, und sie genießen es, unter Lubnas Anleitung neue Fähigkeiten zu erwerben. Andere, erfahren in der Zubereitung indischer Gerichte, sind begeistert, authentische Techniken zu lernen, und versprechen, zu Hause indisch inspirierte Partys für ihre Freunde zu veranstalten.\n\nEinmal kam eine Gästin, die weder Weizen, Milchprodukte, noch Zitrusfrüchte vertrug, um bei Lubna zu übernachten. Nach Besprechung ihrer Ernährungseinschränkungen kreierte Lubna erstaunliche Gerichte mit Hafer als Hauptzutat. Die Gästin war so beeindruckt, dass sie alle Rezepte aufschrieb, und sagte, ihr Leben habe sich dank dieser neuen kulinarischen Fähigkeiten verbessert.\n\nIhr Abenteuer beginnt mit einer individuellen Fahrt zu einem lokalen Markt, nur 10 Minuten von den üblichen Touristenorten entfernt. Sie erkunden belebte Stände voller frischer Produkte, aromatischer Gewürze, und lebendiger Farben, die indische Märkte ausmachen. Einige Gäste haben dort sogar Street Food probiert, falls der Laden geöffnet war, was dem Erlebnis eine aufregende zusätzliche Ebene verleiht.\n\nZurück in Lubnas Küche werden Sie mit einer dampfenden Tasse Chai begrüßt, die einen warmen Ton für die bevorstehende Sitzung setzt. Sie nehmen an einem informativen Kochkurs teil, bei dem das Menü traditionelle Gerichte von Vorspeisen bis Desserts umfasst. Vorgeschlagene Gerichte sind Rogan Josh, Kebabs (vegetarisch und mit Hähnchen), Frühstücksideen, und Snacks wie Brot-Pakora und Samosas.\n\nZusätzlich können Sie sich ihr bei der Frühstückszubereitung anschließen; beachten Sie jedoch, dass der Marktbesuch bei dieser Option nicht möglich wäre. Sie können die Tour um 11:00 Uhr buchen, und Lubna fragen, ob sie in eine Frühstücksoption umgewandelt werden kann, oder ob Sie lieber nur Snacks lernen möchten.\n\nLubnas Zuhause ist ein Fest für Pflanzenliebhaber, und zeigt traditionelle indische Haveli-Architektur, erbaut im Jahr 1974. Mit seinem einzigartigen Charme und üppigem Grün bietet es eine ruhige Kulisse für Ihr kulinarisches Erlebnis. Wenn Sie Zeit haben, unternehmen Sie einen kurzen Spaziergang durch das charmante Viertel abseits der touristischen Routen, für einen Hauch lokalen Lebens.\n\nSie tauchen ein in das Kochen, und lernen die Gewürze und Techniken, die indische Küche besonders machen. Sobald die Gerichte fertig sind, versammeln Sie sich am Familientisch, um Ihre Kreationen zu genießen, möglicherweise mit einem Familienmitglied von Lubna für eine persönliche Note.\n\nBegleiten Sie Lubna für ein unvergessliches indisches Kocherlebnis!\n\n**Was ist inbegriffen**\nGastgeberin\nAlle Zutaten\n3 Hauptgerichte\n3 Brotsorten\n1 Reisgericht\nVerzehr der von uns zubereiteten Mahlzeit\nDie Familie der Gastgeberin kann sich anschließen, um Ihr Kochen zu feiern\nTee/Wasser\n\n**Nicht inbegriffen**\nAbholung und Rückfahrt zum Hotel\nTrinkgelder für die Gastgeberin\nPersönliche Ausgaben wie Einkaufen, U-Bahn-Fahrten, Fahrdienste, und Snacks\nIhre eigene Reise- und Krankenversicherung\nJegliche Leistungen, die nicht vom Vermittler/der Agentur spezifiziert oder garantiert werden\nUnerwartete oder Notfallausgaben",
+  "highlights": [
+   "Bereiten Sie ein authentisches indisches Essen mit Ihren liebsten Hauptgerichten zu"
+  ],
+  "included": [
+   "Gastgeberin",
+   "Alle Zutaten",
+   "3 Hauptgerichte",
+   "3 Brotsorten",
+   "1 Reisgericht",
+   "Verzehr der von uns zubereiteten Mahlzeit",
+   "Die Familie der Gastgeberin kann sich anschließen, um Ihr Kochen zu feiern",
+   "Tee/Wasser"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Trinkgelder für die Gastgeberin",
+   "Persönliche Ausgaben wie Einkaufen, U-Bahn-Fahrten, Fahrdienste, und Snacks",
+   "Ihre eigene Reise- und Krankenversicherung",
+   "Jegliche Leistungen, die nicht vom Vermittler/der Agentur spezifiziert oder garantiert werden",
+   "Unerwartete oder Notfallausgaben"
+  ]
+ },
+ "private-golden-triangle-tour-2-nights3-days-all": {
+  "title": "Private Golden-Triangle-Tour, 2 Nächte/3 Tage - All-Inclusive",
+  "metaTitle": "Golden Triangle privat, 2 Nächte/3 Tage",
+  "metaDescription": "Erkunden Sie Indiens berühmteste Route mit Delhi, Agra, und Jaipur.",
+  "shortDescription": "Erkunden Sie Indiens berühmteste Route mit Delhi, Agra, und Jaipur.",
+  "fullDescription": "Private Golden-Triangle-Tour, 2 Nächte/3 Tage - All-Inclusive. Erkunden Sie Indiens berühmteste Route mit Delhi, Agra, und Jaipur.\n\nEntdecken Sie Indiens Golden Triangle bei einer privaten All-Inclusive-Tour von 2 Nächten/3 Tagen, mit Delhi, Agra, und Jaipur. Genießen Sie geführte Besichtigungen, Skip-the-Line-Eintritt, Transport, und ein nahtloses Reiseerlebnis.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel/Flughafen\nPrivates klimatisiertes Auto für die gesamte Tour, mit Fahrer\nProfessioneller Reiseführer in jeder Stadt\nUnterkunft für 2 Nächte im Hotel (falls diese Option gewählt wird)\nFrühstück im Hotel\nFlasche Mineralwasser\nAlle Maut- und Parkgebühren\n\n**Nicht inbegriffen**\nEintrittskarten für Sehenswürdigkeiten\nMittag- und Abendessen\nJegliche persönliche Ausgaben",
+  "highlights": [
+   "Erkunden Sie Indiens berühmteste Route mit Delhi, Agra, und Jaipur"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "Privates klimatisiertes Auto für die gesamte Tour, mit Fahrer",
+   "Professioneller Reiseführer in jeder Stadt",
+   "Unterkunft für 2 Nächte im Hotel (falls diese Option gewählt wird)",
+   "Frühstück im Hotel",
+   "Flasche Mineralwasser",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für Sehenswürdigkeiten",
+   "Mittag- und Abendessen",
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "old-delhi-spices-heritage-and-bazaars-walking-tour": {
+  "title": "Alt-Delhi: Wandertour durch Gewürze, Kulturerbe, und Basare",
+  "metaTitle": "Delhi: Alt-Delhi, Gewürze, Erbe, Basare",
+  "metaDescription": "Entdecken Sie die wunderschöne, 400 Jahre alte Jama Masjid mit Ausblicken auf die Altstadt",
+  "shortDescription": "Entdecken Sie die wunderschöne, 400 Jahre alte Jama Masjid mit Ausblicken auf die Altstadt",
+  "fullDescription": "Alt-Delhi: Wandertour durch Gewürze, Kulturerbe, und Basare. Entdecken Sie die wunderschöne, 400 Jahre alte Jama Masjid mit Ausblicken auf die Altstadt.\n\nIhr Reiseführer trifft Sie am Tor Nr. 1 der U-Bahn-Station „Jama Masjid Metro Station\". Nach einer kurzen Einführung in das bevorstehende Abenteuer beginnen wir zu spazieren und die 400 Jahre alte lebendige Stadt namens „Alt-Delhi\" zu entdecken.\n\nDer Spaziergang beginnt inmitten des historischen „Meena Bazaar\", einst ein prächtiger Markt für Edelsteine zur Zeit des damaligen Mogulreichs, heute jedoch ein improvisierter Markt für die einfachsten Bevölkerungsschichten, wo Händler sehr preiswerte Waren für die breite Masse anbieten.\nBald sehen wir imposante Steinstufen, die zur „Jama-Moschee\" hinaufführen, die als größte Moschee Indiens gilt, erbaut von demselben Kaiser, der auch das „Taj Mahal\" errichtete: Shah Jahan.\nHinweis: Der Besuch der Moschee ist rein optional, nicht verpflichtend. Der Eintrittspreis für die „Jama-Moschee\" beträgt 450 Indische Rupien pro Person. Diejenigen, die die Moschee nicht betreten möchten, können dennoch einen Fotostopp von außen machen.\n\nZeit, sich auf die Labyrinthjagd zu begeben, und in das Labyrinth von Alt-Delhi einzutauchen, während wir beim Gehen historische Häuser entdecken, bekannt als Havelis aufgrund ihrer traditionellen historischen Gestaltung. Zahlreiche sich windende Gassen führen zu vielen belebten und beeindruckenden Märkten, die seit der Mogulzeit Geschäfte betreiben. Diese rätselhaften Viertel, getaucht in das Flair der Dämmerung, versprechen eine Entdeckungsreise durch die Jahrhunderte geflüsterter Geheimnisse.\n\nBald erreichen wir den „Gewürzmarkt\", und beginnen unsere Gewürzspuren. Wir bahnen uns unseren Weg zu einem riesigen Lagerhaus, wo alle großen Gewürzhändler zusammenkommen, um Geschäfte mit den Gewürzgroßhändlern abzuschließen. Große Säcke mit Gewürzen werden zur Ausstellung halb geöffnet, wodurch Gewürze und Aromen die Luft um uns herum erfüllen. Bald betreten wir eines der berühmten alten Gewürzlager für eine Einführung in viele bekannte indische Gewürze. Sie werden überrascht sein zu erfahren, wie teuer Sie in Ihrem Heimatland für einige alltägliche Gewürze in Ihrer Küche bezahlen.\n\nDanach kehren wir schließlich zur nächstgelegenen U-Bahn-Station/zum Uber-Treffpunkt zurück.\n\nHinweis: Es wird davon abgeraten, zu viele Fotos zu machen; die Tour findet unter echten Einheimischen, in ihren Vierteln, und bei ihren Geschäften statt. Ein paar Fotos zur Erinnerung sind in Ordnung, die Tour ist jedoch nicht für professionelle Fotografen gedacht.\n\n**Was ist inbegriffen**\nSachkundiger lokaler Reiseführer\n1 Flasche Mineralwasser pro Person\n\n**Nicht inbegriffen**\nTrinkgeld für den Reiseführer\nAbholung und Rückfahrt zum Hotel\nSpeisen und Getränke",
+  "highlights": [
+   "Entdecken Sie die wunderschöne, 400 Jahre alte Jama Masjid mit Ausblicken auf die Altstadt"
+  ],
+  "included": [
+   "Sachkundiger lokaler Reiseführer",
+   "1 Flasche Mineralwasser pro Person"
+  ],
+  "notIncluded": [
+   "Trinkgeld für den Reiseführer",
+   "Abholung und Rückfahrt zum Hotel",
+   "Speisen und Getränke"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
