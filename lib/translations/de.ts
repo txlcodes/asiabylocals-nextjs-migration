@@ -21298,6 +21298,82 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche persönliche Ausgaben"
   ]
  },
+ "delhi-henna-art-workshop-with-local-artist": {
+  "title": "Delhi: Henna-Kunst-Workshop mit örtlichem Künstler",
+  "metaTitle": "Delhi: Henna-Kunst-Workshop",
+  "metaDescription": "Entdecken Sie die uralte Kunst des Mehndi (Henna) in einem praktischen Workshop.",
+  "shortDescription": "Entdecken Sie die uralte Kunst des Mehndi (Henna) in einem praktischen Workshop.",
+  "fullDescription": "Delhi: Henna-Kunst-Workshop mit örtlichem Künstler. Entdecken Sie die uralte Kunst des Mehndi (Henna) in einem praktischen Workshop.\n\nTauchen Sie ein in indische Kunst und Kultur mit einer Henna-Tour in Delhi. Betreten Sie die farbenfrohe Welt der traditionellen indischen Kunstfertigkeit mit einem einzigartigen und bereichernden kulturellen Erlebnis, das Schönheit, Kreativität, und Erbe vereint.\n\nBeginnen Sie mit einem herzlichen Empfang durch einen erfahrenen örtlichen Henna-Künstler, der Sie in die Geschichte, kulturelle Bedeutung, und kunstvollen Techniken dieser zeitlosen Körperkunst einführt. Ob Sie völlig neu im Henna sind oder seine Muster bereits bewundert haben, dieses Erlebnis ist sowohl lehrreich als auch interaktiv gestaltet, sodass Sie sich von Anfang bis Ende am Prozess beteiligen können.\n\nErfahren Sie mehr über die Ursprünge von Henna, seine Bedeutung bei indischen Hochzeiten, Festen, und religiösen Zeremonien. Sehen Sie eine Live-Demonstration, während Ihr erfahrener Künstler freihändig Designs mit natürlicher Henna-Paste aus frischen Henna-Blättern zeichnet.\n\nWählen Sie aus einer Vielzahl traditioneller oder moderner Muster, und erhalten Sie Ihr eigenes wunderschönes, temporäres Henna-Tattoo an Hand oder Arm. Versuchen Sie sich unter Anleitung an einfachen Designs, großer Spaß für alle Altersgruppen.\n\nEntdecken Sie die Geheimnisse hinter natürlichem Henna, wie es zubereitet wird, und Tipps für länger haltbare Färbungen. Machen Sie atemberaubende Fotos Ihres Henna-Designs vor lebendigen indischen Kulissen, perfekt zum Teilen in sozialen Medien.\n\n**Was ist enthalten**\nKulturelle Einführung in Henna\nLive-Demonstration durch einen erfahrenen Henna-Künstler\nPersönliches Henna-Design\nPraktische Übungseinheit\nInformationen zu natürlichem Henna und pflanzlichen Tipps\nFotomöglichkeiten vor indischen Kulissen\n\n**Nicht enthalten**\nJegliche zusätzlichen Dienstleistungen\nPersönliche Ausgaben",
+  "highlights": [
+   "Entdecken Sie die uralte Kunst des Mehndi (Henna) in einem praktischen Workshop"
+  ],
+  "included": [
+   "Kulturelle Einführung in Henna",
+   "Live-Demonstration durch einen erfahrenen Henna-Künstler",
+   "Persönliches Henna-Design",
+   "Praktische Übungseinheit",
+   "Informationen zu natürlichem Henna und pflanzlichen Tipps",
+   "Fotomöglichkeiten vor indischen Kulissen"
+  ],
+  "notIncluded": [
+   "Jegliche zusätzlichen Dienstleistungen",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "delhi-private-multi-faith-day-tour-with-hotel": {
+  "title": "Delhi: private multireligiöse Tagestour mit Hotelabholung",
+  "metaTitle": "Delhi: private multireligiöse Tour",
+  "metaDescription": "Entdecken Sie Delhis religiöse Vielfalt auf einer privaten multireligiösen Tagestour.",
+  "shortDescription": "Entdecken Sie Delhis religiöse Vielfalt auf einer privaten multireligiösen Tagestour.",
+  "fullDescription": "Delhi: private multireligiöse Tagestour mit Hotelabholung. Entdecken Sie Delhis religiöse Vielfalt auf einer privaten multireligiösen Tagestour.\n\nTreffen Sie Ihren privaten Fahrer und englischsprachigen Guide in Ihrem Hotel in New Delhi gegen 9:00 Uhr. Beginnen Sie am Akshardham-Tempel, bekannt für seine kunstvolle Steinarchitektur und kunstvollen Schnitzereien. Erkunden Sie den Tempelkomplex, während Ihr Guide die hinduistische Philosophie, Traditionen, und das kulturelle Erbe vorstellt. Der Besuch kann auch das Erlebnis des Musikbrunnens umfassen, abhängig von dessen Betriebszeiten und Verfügbarkeit.\n\nWeiter geht es zur Jama Masjid, einer der berühmtesten historischen Moscheen Indiens. Bewundern Sie ihre imposante Mogul-Architektur, roten Sandstein, und weißen Marmordetails. Wo erlaubt und verfügbar, können Sie das Minarett für Ausblicke über die historischen Viertel von Alt-Delhi besteigen.\n\nBesuchen Sie den Gurudwara Bangla Sahib, eine der wichtigsten Sikh-Gebetsstätten in Delhi. Erfahren Sie mehr über die Sikh-Prinzipien von Gleichheit, Hingabe, und selbstlosem Dienst, während Sie den heiligen Komplex und den Sarovar beobachten. Wo angemessen und abhängig von örtlichen Gegebenheiten, erleben Sie die Tradition des Langar, der Gemeinschaftsküche, in der Essen an Besucher unabhängig von ihrer Herkunft serviert wird.\n\nMachen Sie eine Pause in einem örtlichen Restaurant, und genießen Sie Delhis vielfältige Küche nach Ihrem Geschmack. Das Mittagessen ist nicht enthalten, und wird direkt bezahlt.\n\nWeiter geht es zur Kathedrale vom Heiligsten Herzen, einer der bedeutendsten christlichen Kirchen Delhis. Bewundern Sie ihre neugotische Architektur, friedlichen Innenräume, und umliegenden Gärten, während Sie mehr über das christliche Erbe der Hauptstadt erfahren. Die Teilnahme an einer Messe hängt vom Zeitplan der Kirche und dem Besucherzugang ab.\n\nBeenden Sie Ihre spirituelle Reise am ikonischen Lotustempel, einem Bahá'í-Andachtshaus, bekannt für sein unverwechselbares, vom Lotus inspiriertes Design. Erleben Sie seine ruhige Atmosphäre, und erfahren Sie mehr über die Bahá'í-Prinzipien von Einheit, Frieden, und Harmonie zwischen Menschen unterschiedlicher Herkunft und Glaubensrichtungen.\n\nNach Abschluss der multireligiösen Erkundung des Tages kehren Sie zu Ihrem Hotel in New Delhi zurück, und beenden das private Erlebnis.\n\n**Was ist enthalten**\nPrivates klimatisiertes Fahrzeug für Transfers und Besichtigungen\nAbholung und Rückfahrt zum Hotel in New Delhi\nProfessioneller privater englischsprachiger Guide\nEintrittsgebühren für die im Reiseplan genannten Besichtigungen\nTrinkwasser in Flaschen im Fahrzeug\nParkgebühren, Mautgebühren, Treibstoff, und Fahrerkosten\nAnfallende staatliche Steuern und GST\n\n**Nicht enthalten**\nMittagessen und Getränke, sofern nicht ausdrücklich erwähnt\nFlugtickets oder Zugtickets\nReiseversicherung\nOptionale Aktivitäten oder Dienstleistungen, sofern nicht ausdrücklich enthalten\nOptionale Trinkgelder\nKamera- oder Videogebühren an religiösen Stätten, soweit zutreffend\nPersönliche Ausgaben und Einkäufe\nZusätzliche Besichtigungen oder Dienstleistungen, die nicht aufgeführt sind\nAlles, was nicht ausdrücklich unter den Einschlüssen erwähnt wird",
+  "highlights": [
+   "Entdecken Sie Delhis religiöse Vielfalt auf einer privaten multireligiösen Tagestour"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug für Transfers und Besichtigungen",
+   "Abholung und Rückfahrt zum Hotel in New Delhi",
+   "Professioneller privater englischsprachiger Guide",
+   "Eintrittsgebühren für die im Reiseplan genannten Besichtigungen",
+   "Trinkwasser in Flaschen im Fahrzeug",
+   "Parkgebühren, Mautgebühren, Treibstoff, und Fahrerkosten",
+   "Anfallende staatliche Steuern und GST"
+  ],
+  "notIncluded": [
+   "Mittagessen und Getränke, sofern nicht ausdrücklich erwähnt",
+   "Flugtickets oder Zugtickets",
+   "Reiseversicherung",
+   "Optionale Aktivitäten oder Dienstleistungen, sofern nicht ausdrücklich enthalten",
+   "Optionale Trinkgelder",
+   "Kamera- oder Videogebühren an religiösen Stätten, soweit zutreffend",
+   "Persönliche Ausgaben und Einkäufe",
+   "Zusätzliche Besichtigungen oder Dienstleistungen, die nicht aufgeführt sind",
+   "Alles, was nicht ausdrücklich unter den Einschlüssen erwähnt wird"
+  ]
+ },
+ "delhi-authentic-shopping-tour-by-car-with-local": {
+  "title": "Delhi: authentische Shopping-Tour mit dem Auto und örtlichem Guide",
+  "metaTitle": "Delhi: authentische Shopping-Tour mit dem Auto",
+  "metaDescription": "Erkunden Sie Delhis berühmte örtliche Märkte mit einem kenntnisreichen örtlichen Guide.",
+  "shortDescription": "Erkunden Sie Delhis berühmte örtliche Märkte mit einem kenntnisreichen örtlichen Guide.",
+  "fullDescription": "Delhi: authentische Shopping-Tour mit dem Auto und örtlichem Guide. Erkunden Sie Delhis berühmte örtliche Märkte mit einem kenntnisreichen örtlichen Guide.\n\nEntdecken Sie den authentischen Shopping-Charme von Delhi auf einer privaten Autotour mit einem örtlichen Guide. Reisen Sie bequem durch die Stadt, und erkunden Sie lebhafte örtliche Märkte voller traditionellem Kunsthandwerk, Textilien, Gewürzen, Schmuck, Kleidung, und einzigartigen Souvenirs.\n\nIhr örtlicher Guide führt Sie durch beliebte Einkaufsviertel, stellt Ihnen örtliche Spezialitäten vor, und hilft Ihnen, echte Produkte zu finden, während er wertvolle Einkaufstipps teilt. Erleben Sie die lebendige Atmosphäre von Delhis Basaren, interagieren Sie mit örtlichen Ladenbesitzern, und genießen Sie eine personalisierte Einkaufsreise abseits der üblichen Touristenrouten.\n\nOb Sie traditionelle indische Geschenke, handgefertigtes Kunsthandwerk, Modeartikel, oder unvergessliche Souvenirs suchen, diese Tour bietet eine aufregende Möglichkeit, Delhis Kultur und örtlichen Lebensstil zu erleben.\n\n**Was ist enthalten**\nPrivates klimatisiertes Auto\nProfessioneller Fahrer\nÖrtlicher Shopping-Guide\nAbholung und Rückfahrt zum Hotel (falls gewählt)\nUnterstützung beim Einkaufen und Verhandeln\n\n**Nicht enthalten**\nEinkaufsausgaben\nEssen und Getränke\nPersönliche Ausgaben\nTrinkgelder und Gratifikationen\nAlles, was nicht in den Einschlüssen erwähnt wird",
+  "highlights": [
+   "Erkunden Sie Delhis berühmte örtliche Märkte mit einem kenntnisreichen örtlichen Guide"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto",
+   "Professioneller Fahrer",
+   "Örtlicher Shopping-Guide",
+   "Abholung und Rückfahrt zum Hotel (falls gewählt)",
+   "Unterstützung beim Einkaufen und Verhandeln"
+  ],
+  "notIncluded": [
+   "Einkaufsausgaben",
+   "Essen und Getränke",
+   "Persönliche Ausgaben",
+   "Trinkgelder und Gratifikationen",
+   "Alles, was nicht in den Einschlüssen erwähnt wird"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
