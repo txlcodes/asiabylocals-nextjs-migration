@@ -24120,6 +24120,74 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ]
  },
+ "park-archaeological-guided-tour": {
+  "title": "Delhi : visite du parc archéologique de Mehrauli avec prise en charge à l'hôtel",
+  "metaTitle": "Delhi : parc archéologique de Mehrauli, guide",
+  "metaDescription": "Explorez le parc archéologique de Mehrauli à pied avec un guide local expert",
+  "shortDescription": "Explorez le parc archéologique de Mehrauli à pied avec un guide local expert",
+  "fullDescription": "Delhi : visite du parc archéologique de Mehrauli avec prise en charge à l'hôtel. Explorez le parc archéologique de Mehrauli à pied avec un guide local expert.\n\nDécouvrez l'histoire cachée de Delhi lors de cette visite à pied d'une demi-journée à travers le parc archéologique de Mehrauli. Abritant plus de 1 000 ans d'histoire, ce site à la fois paisible et puissant offre un aperçu des nombreux passés de Delhi, du début du sultanat aux Moghols, en passant par le Raj britannique.\n\nAccompagné d'un guide local compétent, vous marcherez parmi des ruines séculaires, des tombes, et des puits à degrés, notamment le Rajon Ki Baoli, la mosquée Jamali Kamali, et les vestiges de la tombe de Balban. Votre guide partagera des histoires fascinantes et expliquera l'importance historique de chaque monument.\n\nLa visite inclut une prise en charge et un retour privés depuis votre hôtel à Delhi, garantissant une expérience fluide et confortable du début à la fin. Parfaite pour les amateurs d'histoire, les photographes, et les voyageurs curieux, cette expérience immersive est une façon unique d'explorer l'un des joyaux les moins connus de Delhi.\n\n**Ce qui est inclus**\nGuide professionnel anglophone\nPrise en charge et retour privés à l'hôtel à Delhi\nEau en bouteille\nEntrée au parc archéologique de Mehrauli\nVisite à pied des principaux sites du parc\n\n**Non inclus**\nRepas ou collations\nPourboires (optionnels)\nDépenses personnelles",
+  "highlights": [
+   "Explorez le parc archéologique de Mehrauli à pied avec un guide local expert"
+  ],
+  "included": [
+   "Guide professionnel anglophone",
+   "Prise en charge et retour privés à l'hôtel à Delhi",
+   "Eau en bouteille",
+   "Entrée au parc archéologique de Mehrauli",
+   "Visite à pied des principaux sites du parc"
+  ],
+  "notIncluded": [
+   "Repas ou collations",
+   "Pourboires (optionnels)",
+   "Dépenses personnelles"
+  ]
+ },
+ "delhi-private-full-day-city-tour-with-akshardham": {
+  "title": "Delhi : visite privée de la ville sur une journée complète avec Akshardham et le Fort Rouge",
+  "metaTitle": "Delhi : journée complète, Akshardham, Fort Rouge",
+  "metaDescription": "La vue intérieure du Fort Rouge : le côté caché que personne d'autre ne vous montrera, garanti !",
+  "shortDescription": "La vue intérieure du Fort Rouge : le côté caché que personne d'autre ne vous montrera, garanti !",
+  "fullDescription": "Delhi : visite privée de la ville sur une journée complète avec Akshardham et le Fort Rouge. La vue intérieure du Fort Rouge : le côté caché que personne d'autre ne vous montrera, garanti !\n\n**Début de la visite et prise en charge**\nVotre visite commence par une prise en charge à votre hôtel/aéroport à Delhi et Noida. Une fois installé dans la voiture, vos visites débuteront selon l'option de circuit que vous aurez choisie.\n\n**Options de circuit :**\n\n**1. Visite complète du Vieux et du New Delhi avec le Fort Rouge (7 heures)**\nVisite :\n\n(1) Fort Rouge (intérieur), (2) Jama Masjid, (3) balade en rickshaw, (4) Chandni Chowk, (5) marché aux épices, (6) Gurdwara Bangla Sahib, (7) temple du Lotus, (8) tombe de Humayun, (9) Qutub Minar, (10) Agrasen ki Baoli, (11) India Gate, (12) Parlement et Rashtrapati Bhavan (passage en voiture).\n\n**2. Visite complète du Vieux et du New Delhi avec Akshardham (7 heures)**\nVisite :\n\n(1) temple d'Akshardham, (2) Jama Masjid, (3) balade en rickshaw, (4) Chandni Chowk, (5) marché aux épices, (6) Gurdwara Bangla Sahib, (7) temple du Lotus, (8) tombe de Humayun, (10) Agrasen ki Baoli, (11) India Gate, (12) Parlement et Rashtrapati Bhavan (passage en voiture).\n\n**3. Visite complète du Vieux et du New Delhi avec les deux (8 heures)**\nVisite :\n\n(1) temple d'Akshardham, (2) Fort Rouge (intérieur), (3) Jama Masjid, (4) balade en rickshaw, (5) Chandni Chowk, (6) marché aux épices, (7) Gurdwara Bangla Sahib, (8) temple du Lotus, (9) tombe de Humayun, (10) Agrasen ki Baoli, (11) India Gate, (12) Parlement et Rashtrapati Bhavan (passage en voiture).\n\n**Fin de la visite et retour**\nAprès une expérience de visite inoubliable, votre chauffeur vous déposera à votre hôtel.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel ou à l'aéroport\nVoiture de visite privée climatisée avec chauffeur professionnel\nGuide local expert privé, agréé par le gouvernement\nBouteille d'eau minérale pendant la visite\nToutes les taxes, frais, frais de gestion, supplément carburant, taxes locales (zéro frais caché)\n\n**Non inclus**\nPourboires et gratifications (optionnels, mais toujours appréciés)\nToute dépense personnelle (par exemple, shopping, souvenirs)",
+  "highlights": [
+   "La vue intérieure du Fort Rouge : le côté caché que personne d'autre ne vous montrera, garanti !"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture de visite privée climatisée avec chauffeur professionnel",
+   "Guide local expert privé, agréé par le gouvernement",
+   "Bouteille d'eau minérale pendant la visite",
+   "Toutes les taxes, frais, frais de gestion, supplément carburant, taxes locales (zéro frais caché)"
+  ],
+  "notIncluded": [
+   "Pourboires et gratifications (optionnels, mais toujours appréciés)",
+   "Toute dépense personnelle (par exemple, shopping, souvenirs)"
+  ]
+ },
+ "full-day-new-and-old-delhi-city-tour": {
+  "title": "Visite de la ville de New Delhi et du Vieux Delhi sur une journée complète",
+  "metaTitle": "Delhi : journée complète, Vieux et New Delhi",
+  "metaDescription": "Une visite qui fait gagner du temps, pensée pour les touristes de première visite",
+  "shortDescription": "Une visite qui fait gagner du temps, pensée pour les touristes de première visite",
+  "fullDescription": "Visite de la ville de New Delhi et du Vieux Delhi sur une journée complète. Une visite qui fait gagner du temps, pensée pour les touristes de première visite.\n\n**Prise en charge à l'hôtel à Delhi / Gurgaon / Noida à 9h00**\n\nVotre visite du Vieux et du New Delhi débutera à 8h00 et durera environ 8 heures. N'importe quel moment entre 8h00 et 11h00 est propice pour commencer cette visite. Votre chauffeur et guide vous prendront en charge à l'aéroport de Delhi ou à l'hôtel, et vous conduiront au point de départ de votre visite du Vieux et du New Delhi. Découvrez la capitale de l'Inde et profitez de l'occasion de visiter ses sites les plus significatifs.\n\nDans votre circuit du Vieux et du New Delhi, vous découvrirez d'abord le Vieux Delhi. Les lieux que vous visiterez dans le Vieux Delhi comprennent la Jama Masjid, également connue sous le nom de mosquée du vendredi. C'est l'une des plus grandes mosquées d'Inde, construite par l'empereur moghol Shah Jahan. Ensuite, dirigez-vous vers les rues animées de Chandni Chowk en rickshaw (balade en tuk-tuk). Chandni Chowk est également connu comme le cœur du Vieux Delhi, c'est une zone animée avec des marchés d'épices, de fruits secs, de bijoux en argent, de saris, et bien plus encore. Poursuivez ensuite vers le Fort Rouge, prenez des photos du Fort Rouge depuis l'extérieur ; il servait de résidence principale à l'empereur moghol Shah Jahan lorsqu'il déplaça sa capitale moghole d'Agra à Delhi.\n\nRendez-vous ensuite dans un restaurant chic, proposant une cuisine multiple, pour une pause déjeuner.\n\nEnsuite, continuez vers la visite de la ville de New Delhi. Vous vous rendrez au mausolée de l'empereur moghol Humayun, connu sous le nom de mausolée de Humayun. Il s'agit, pour ainsi dire, de la première tombe-jardin du sous-continent indien. Vous vous rendrez ensuite à India Gate, un mémorial militaire honorant les soldats indiens britanniques ayant perdu la vie lors de conflits entre 1914 et 1919. Après cela, roulez devant le bâtiment du Parlement et faites halte au Qutub Minar, un minaret et une tour de la victoire qui est également un site du patrimoine mondial. Le temple du Lotus, un lieu de culte bahá'í, constitue le dernier arrêt. Si le temps le permet, le Gurudwara Bangla Sahib, l'un des temples sikhs les plus connus de Delhi, pourra être ajouté comme second lieu à votre itinéraire.\n\nLa visite de la ville du Vieux et du New Delhi se terminera entre 5h00 et 18h00. Retournez à votre hébergement à Delhi.\n\n**Ce qui est inclus**\nAssistance pour la prise en charge et le retour\nService de voiture climatisée aller-retour\nBillets d'entrée pour tous les monuments\nService de guide touristique en direct\nTaxes applicables\nBouteilles d'eau offertes (dans la voiture)\nStationnement, péages, carburant, et taxe routière inclus\nToutes les taxes\n\n**Non inclus**\nPourboires et gratifications\nBoissons offertes avec le déjeuner\nToute dépense personnelle",
+  "highlights": [
+   "Une visite qui fait gagner du temps, pensée pour les touristes de première visite"
+  ],
+  "included": [
+   "Assistance pour la prise en charge et le retour",
+   "Service de voiture climatisée aller-retour",
+   "Billets d'entrée pour tous les monuments",
+   "Service de guide touristique en direct",
+   "Taxes applicables",
+   "Bouteilles d'eau offertes (dans la voiture)",
+   "Stationnement, péages, carburant, et taxe routière inclus",
+   "Toutes les taxes"
+  ],
+  "notIncluded": [
+   "Pourboires et gratifications",
+   "Boissons offertes avec le déjeuner",
+   "Toute dépense personnelle"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

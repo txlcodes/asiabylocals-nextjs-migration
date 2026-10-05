@@ -24120,6 +24120,74 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "park-archaeological-guided-tour": {
+  "title": "Delhi: Mehrauli Archaeological Park Tour mit Hotelabholung",
+  "metaTitle": "Delhi: Mehrauli Archaeological Park, Guide",
+  "metaDescription": "Erkunden Sie den Mehrauli Archaeological Park zu Fuß mit einem erfahrenen lokalen Reiseführer",
+  "shortDescription": "Erkunden Sie den Mehrauli Archaeological Park zu Fuß mit einem erfahrenen lokalen Reiseführer",
+  "fullDescription": "Delhi: Mehrauli Archaeological Park Tour mit Hotelabholung. Erkunden Sie den Mehrauli Archaeological Park zu Fuß mit einem erfahrenen lokalen Reiseführer.\n\nEntdecken Sie die verborgene Geschichte Delhis bei dieser halbtägigen Wandertour durch den Mehrauli Archaeological Park. Mit über 1.000 Jahren Geschichte bietet diese friedliche und doch eindrucksvolle Stätte einen Einblick in Delhis vielfältige Vergangenheit, vom frühen Sultanat über die Moguln bis zum britischen Raj.\n\nAn der Seite eines sachkundigen lokalen Reiseführers spazieren Sie zwischen jahrhundertealten Ruinen, Gräbern, und Stufenbrunnen, darunter Rajon Ki Baoli, die Jamali-Kamali-Moschee, und die Überreste von Balbans Grabmal. Ihr Reiseführer teilt faszinierende Geschichten und erklärt die historische Bedeutung jedes Monuments.\n\nDie Tour beinhaltet private Abholung und Rückfahrt von Ihrem Hotel in Delhi, für ein reibungsloses und komfortables Erlebnis von Anfang bis Ende. Perfekt für Geschichtsliebhaber, Fotografen, und neugierige Reisende, ist dieses immersive Erlebnis eine einzigartige Art, eines von Delhis weniger bekannten Juwelen zu erkunden.\n\n**Was ist inbegriffen**\nProfessioneller englischsprachiger Reiseführer\nPrivate Abholung und Rückfahrt zum Hotel in Delhi\nWasser in Flaschen\nEintritt zum Mehrauli Archaeological Park\nWandertour zu den wichtigsten Stätten im Park\n\n**Nicht inbegriffen**\nMahlzeiten oder Snacks\nTrinkgelder (optional)\nPersönliche Ausgaben",
+  "highlights": [
+   "Erkunden Sie den Mehrauli Archaeological Park zu Fuß mit einem erfahrenen lokalen Reiseführer"
+  ],
+  "included": [
+   "Professioneller englischsprachiger Reiseführer",
+   "Private Abholung und Rückfahrt zum Hotel in Delhi",
+   "Wasser in Flaschen",
+   "Eintritt zum Mehrauli Archaeological Park",
+   "Wandertour zu den wichtigsten Stätten im Park"
+  ],
+  "notIncluded": [
+   "Mahlzeiten oder Snacks",
+   "Trinkgelder (optional)",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "delhi-private-full-day-city-tour-with-akshardham": {
+  "title": "Delhi: private Ganztagestour mit Akshardham und Rotem Fort",
+  "metaTitle": "Delhi: Ganztagestour, Akshardham, Rotes Fort",
+  "metaDescription": "Der Blick ins Innere des Roten Forts: die verborgene Seite, die Ihnen sonst niemand zeigen wird, garantiert!",
+  "shortDescription": "Der Blick ins Innere des Roten Forts: die verborgene Seite, die Ihnen sonst niemand zeigen wird, garantiert!",
+  "fullDescription": "Delhi: private Ganztagestour mit Akshardham und Rotem Fort. Der Blick ins Innere des Roten Forts: die verborgene Seite, die Ihnen sonst niemand zeigen wird, garantiert!\n\n**Beginn der Tour und Abholung**\nIhre Tour beginnt mit einer Abholung von Ihrem Hotel/Flughafen in Delhi und Noida. Sobald Sie im Auto sitzen, beginnt Ihre Besichtigung gemäß der von Ihnen gewählten Tour-Option.\n\n**Tour-Optionen:**\n\n**1. Ganztägige Alt- und New-Delhi-Tour mit Rotem Fort (7 Stunden)**\nBesuch:\n\n(1) Rotes Fort (innen), (2) Jama Masjid, (3) Rikscha-Fahrt, (4) Chandni Chowk, (5) Gewürzmarkt, (6) Gurdwara Bangla Sahib, (7) Lotustempel, (8) Humayuns Grabmal, (9) Qutub Minar, (10) Agrasen ki Baoli, (11) India Gate, (12) Parlamentsgebäude und Rashtrapati Bhavan (Vorbeifahrt).\n\n**2. Ganztägige Alt- und New-Delhi-Tour mit Akshardham (7 Stunden)**\nBesuch:\n\n(1) Akshardham-Tempel, (2) Jama Masjid, (3) Rikscha-Fahrt, (4) Chandni Chowk, (5) Gewürzmarkt, (6) Gurdwara Bangla Sahib, (7) Lotustempel, (8) Humayuns Grabmal, (10) Agrasen ki Baoli, (11) India Gate, (12) Parlamentsgebäude und Rashtrapati Bhavan (Vorbeifahrt).\n\n**3. Ganztägige Alt- und New-Delhi-Tour mit beidem (8 Stunden)**\nBesuch:\n\n(1) Akshardham-Tempel, (2) Rotes Fort (innen), (3) Jama Masjid, (4) Rikscha-Fahrt, (5) Chandni Chowk, (6) Gewürzmarkt, (7) Gurdwara Bangla Sahib, (8) Lotustempel, (9) Humayuns Grabmal, (10) Agrasen ki Baoli, (11) India Gate, (12) Parlamentsgebäude und Rashtrapati Bhavan (Vorbeifahrt).\n\n**Ende der Tour und Rückfahrt**\nNach einem unvergesslichen Besichtigungserlebnis bringt Sie Ihr Fahrer zurück zu Ihrem Hotel.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel oder Flughafen\nPrivates klimatisiertes Besichtigungsauto mit professionellem Fahrer\nPrivater, staatlich zugelassener Experten-Reiseführer\nFlasche Mineralwasser während der Tour\nAlle Steuern, Gebühren, Bearbeitungsgebühren, Treibstoffzuschlag, lokale Steuern (keine versteckten Kosten)\n\n**Nicht inbegriffen**\nTrinkgelder (optional, aber immer geschätzt)\nJegliche persönliche Ausgaben (z. B. Einkaufen, Souvenirs)",
+  "highlights": [
+   "Der Blick ins Innere des Roten Forts: die verborgene Seite, die Ihnen sonst niemand zeigen wird, garantiert!"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel oder Flughafen",
+   "Privates klimatisiertes Besichtigungsauto mit professionellem Fahrer",
+   "Privater, staatlich zugelassener Experten-Reiseführer",
+   "Flasche Mineralwasser während der Tour",
+   "Alle Steuern, Gebühren, Bearbeitungsgebühren, Treibstoffzuschlag, lokale Steuern (keine versteckten Kosten)"
+  ],
+  "notIncluded": [
+   "Trinkgelder (optional, aber immer geschätzt)",
+   "Jegliche persönliche Ausgaben (z. B. Einkaufen, Souvenirs)"
+  ]
+ },
+ "full-day-new-and-old-delhi-city-tour": {
+  "title": "Ganztägige Stadttour durch New Delhi und Alt-Delhi",
+  "metaTitle": "Delhi: Ganztagestour, Alt- und New Delhi",
+  "metaDescription": "Eine zeitsparende Tour, konzipiert für Erstbesucher",
+  "shortDescription": "Eine zeitsparende Tour, konzipiert für Erstbesucher",
+  "fullDescription": "Ganztägige Stadttour durch New Delhi und Alt-Delhi. Eine zeitsparende Tour, konzipiert für Erstbesucher.\n\n**Abholung um 9:00 Uhr vom Hotel in Delhi / Gurgaon / Noida**\n\nIhre Alt- und New-Delhi-Stadttour beginnt um 8:00 Uhr und dauert etwa 8 Stunden. Jede Zeit zwischen 8:00 Uhr und 11:00 Uhr ist ein guter Zeitpunkt, um diese Tour zu beginnen. Ihr Fahrer und Reiseführer holen Sie vom Flughafen Delhi oder dem Hotel ab und bringen Sie zum Ausgangspunkt Ihrer Besichtigungstour durch Alt- und New Delhi. Entdecken Sie die Hauptstadt Indiens, und nutzen Sie die Gelegenheit, ihre bedeutendsten Sehenswürdigkeiten zu besuchen.\n\nBei Ihrer Alt- und New-Delhi-Stadttour besuchen Sie zuerst Alt-Delhi. Orte, die Sie in Alt-Delhi besuchen, umfassen die Jama Masjid, auch bekannt als Freitagsmoschee. Sie ist eine der größten Moscheen Indiens, erbaut vom Mogul-Kaiser Shah Jahan. Dann geht es weiter in die belebten Straßen von Chandni Chowk mit einer Rikscha-Fahrt (Tuk-Tuk-Fahrt). Chandni Chowk gilt auch als das Herz von Alt-Delhi, ein belebtes Gebiet mit Märkten für Gewürze, Trockenfrüchte, Silberschmuck, Saris, und vieles mehr. Weiter geht es zum Roten Fort, machen Sie Fotos vom Roten Fort von außen; es diente als Hauptresidenz des Mogul-Kaisers Shah Jahan, als er seine Mogul-Hauptstadt von Agra nach Delhi verlegte.\n\nWeiter geht es zu einem schicken Restaurant mit vielfältiger Küche für eine Mittagspause.\n\nAnschließend geht es weiter mit der Stadttour durch New Delhi. Sie besuchen das Mausoleum des Mogul-Kaisers Humayun, bekannt als Humayuns Mausoleum. Es gilt sozusagen als das erste Gartengrab des indischen Subkontinents. Anschließend geht es zum India Gate, einem Militärdenkmal zu Ehren der britisch-indischen Soldaten, die zwischen 1914 und 1919 in Konflikten ihr Leben verloren. Danach fahren Sie am Parlamentsgebäude vorbei und halten am Qutub Minar, einem Minarett und Siegesturm, der auch ein Weltkulturerbe ist. Der Lotustempel, eine Bahai-Kultstätte, ist der letzte Halt. Wenn die Zeit es erlaubt, wird der Gurudwara Bangla Sahib, einer der bekanntesten Sikh-Tempel in Delhi, als zweiter Ort in Ihre Reiseroute aufgenommen.\n\nDie Alt- und New-Delhi-Stadttour endet zwischen 5:00 und 18:00 Uhr. Kehren Sie zu Ihrer Unterkunft in Delhi zurück.\n\n**Was ist inbegriffen**\nUnterstützung bei Abholung und Rückfahrt\nKlimatisierter Fahrservice für die Hin- und Rückfahrt\nEintrittskarten für alle Sehenswürdigkeiten\nLive-Reiseführer-Service\nAnfallende Steuern\nKostenlose Wasserflaschen (im Auto)\nParken, Mautgebühren, Kraftstoff, und Straßensteuer inbegriffen\nAlle Steuern\n\n**Nicht inbegriffen**\nTrinkgelder und Gratifikationen\nKostenlose Getränke zum Mittagessen\nJegliche persönlichen Kosten",
+  "highlights": [
+   "Eine zeitsparende Tour, konzipiert für Erstbesucher"
+  ],
+  "included": [
+   "Unterstützung bei Abholung und Rückfahrt",
+   "Klimatisierter Fahrservice für die Hin- und Rückfahrt",
+   "Eintrittskarten für alle Sehenswürdigkeiten",
+   "Live-Reiseführer-Service",
+   "Anfallende Steuern",
+   "Kostenlose Wasserflaschen (im Auto)",
+   "Parken, Mautgebühren, Kraftstoff, und Straßensteuer inbegriffen",
+   "Alle Steuern"
+  ],
+  "notIncluded": [
+   "Trinkgelder und Gratifikationen",
+   "Kostenlose Getränke zum Mittagessen",
+   "Jegliche persönlichen Kosten"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
