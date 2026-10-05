@@ -2270,6 +2270,78 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten: Mittag- und Abendessen"
   ]
  },
+ "from-delhi-airport-taj-mahal-day-trip-with": {
+  "title": "Ab Flughafen Delhi: Taj Mahal Tagesausflug mit optionalem Fort",
+  "metaTitle": "Flughafen Delhi-Taj Mahal: Tagesausflug",
+  "metaDescription": "Erleben Sie die zeitlose Schönheit des Taj Mahal mit von Experten erzählten Geschichten.",
+  "shortDescription": "Erleben Sie die zeitlose Schönheit des Taj Mahal mit von Experten erzählten Geschichten.",
+  "fullDescription": "Steigen Sie am Flughafen Delhi aus Ihrem Flug und reisen Sie direkt ins Herz des Mogul-Indiens. Diese private Taj Mahal Tagestour ab dem Flughafen Delhi bietet Komfort, Flexibilität, und die Chance, eines der größten Wunder der Welt zu sehen.\n\nBeginnen Sie Ihre Reise mit einer reibungslosen Fahrt auf der Yamuna Expressway (falls Transportoption gewählt). Bei der Ankunft in Agra führt Sie Ihr privater Guide zum majestätischen Taj Mahal. Erbaut von Kaiser Shah Jahan für seine geliebte Frau Mumtaz Mahal, ist dieses Marmormeisterwerk ein zeitloses Symbol der Liebe. Während das Sonnenlicht auf seinen weißen Kuppeln tanzt, hören Sie die Geschichten, Legenden, und Geheimnisse, die dieses Denkmal unvergesslich machen.\n\nFalls die Zeit es erlaubt, haben Sie auch die Chance, das Agra Fort zu erkunden, eine UNESCO-Welterbestätte voller königlicher Paläste, Höfe, und Mogul-Geschichte. Von seinen Mauern können Sie sogar einen weiteren atemberaubenden Blick auf den Taj Mahal in der Ferne erhaschen.\n\nJe nach Ihrer gewählten Buchungsoption können Sie mit nur einem Guide reisen, ein privates Auto mit Fahrer genießen, oder sich für ein Komplettpaket mit Transport, Guide, Eintrittstickets, und Buffet-Mittagessen entscheiden.\n\nDiese flexible Taj Mahal Tour ab dem Flughafen Delhi ist darauf ausgelegt, das Beste aus Ihrem Zeitplan zu machen und bietet sowohl Bequemlichkeit als auch Tiefe. Ob Sie nur den Taj Mahal sehen oder das Agra Fort hinzufügen, Sie kehren mit unvergesslichen Erinnerungen zurück.",
+  "highlights": [
+   "Erleben Sie die zeitlose Schönheit des Taj Mahal mit von Experten erzählten Geschichten"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto mit Fahrer (falls Option gewählt)",
+   "Abholung und Rückfahrt vom Flughafen Delhi (falls Option gewählt)",
+   "Kostenloses Wasser in Flaschen",
+   "Eintrittstickets für Denkmäler ohne Warteschlange (falls Option gewählt)",
+   "Professioneller lizenzierter Reiseführer (in allen Optionen enthalten)"
+  ],
+  "notIncluded": [
+   "Trinkgelder (optional)",
+   "Mahlzeiten und Getränke",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "delhi-mehrauli-archaeological-park-tour-with": {
+  "title": "Delhi: Mehrauli Archäologischer Park Tour mit Qutub Minar",
+  "metaTitle": "Delhi: Mehrauli Archäologischer Park, Qutub Minar",
+  "metaDescription": "Genießen Sie einen Spaziergang in dichtem Waldgebiet, der ein ruhiges und beruhigendes Erlebnis bietet.",
+  "shortDescription": "Genießen Sie einen Spaziergang in dichtem Waldgebiet, der ein ruhiges und beruhigendes Erlebnis bietet.",
+  "fullDescription": "Treffen Sie den Wanderführer außerhalb des Ausgangstors der U-Bahn-Station Qutub Minar. Unser kompetenter Guide ist gut mit der Geschichte und dem Erbe des Ortes vertraut. Er beginnt mit einer kurzen Geschichte über den Ort und die Relikte. Zeit, die Ruinen des historischen \"Mehrauli Archäologischen Parks\" zu entdecken. Delhis faszinierende Geschichtsschichten liegen vor Ihnen offen. Segeln Sie durch Jahrhunderte Delhis Vergangenheit, während unser Wanderführer die Geschichten über die antiken Denkmäler erzählt.\n\n**Metcalfe Canopy:** ein einzigartiger Baldachin auf der Spitze eines hügeligen Hügels, erbaut in den 1850er Jahren vom britischen Gelehrten \"Charles Metcalfe\" als \"Folly\". Es wird Folly genannt, da eine Folly ein relativ neues Gebäude ist, das eigentlich alt aussehen soll. Mit einer malerischen Landschaft im Hintergrund wirkt die Folly so charmant. Strukturell wie ein Sechseck erbaut.\n\n**Rajon ki Baoli:** ein atemberaubender Stufenbrunnen (lokal \"Baoli\" genannt). Dieser Baoli ist nach gespenstischen Steinmetzen benannt, die in seinen unterirdischen Kammern lebten. Der Baoli hat einen vertikalen Schacht zum Wasserschöpfen und daneben hohle Durchgänge mit kleinen Kammern, um der Hitze während indischer Sommer zu entgehen. Dieser Ort gilt als der am meisten verfolgte Ort Delhis während der späten Nachtstunden.\n\n**Jamali-Kamali-Moschee:** diese antike Moschee und Grab, erbaut aus rotem Sandstein, gehörte einem Heiligen mit großer lokaler Anhängerschaft. Auch hier bleiben Menschen in den späten Abendstunden von diesem Ort fern, und er gilt als verflucht mit vielen Geschichten über geisterhafte Begegnungen und Missgeschicke.\n\n**Ende:** Nun geht die Gruppe zusammen mit dem Wanderführer zurück zur U-Bahn-Station Qutub Minar und die Tour endet.\n\nHinweis: Wer sicher und bequem mit einem privaten Auto zum und vom Wanderort reisen möchte, kann unsere Hilfe dafür in Anspruch nehmen, und wir organisieren dies.",
+  "highlights": [
+   "Genießen Sie einen Spaziergang in dichtem Waldgebiet, der ein ruhiges und beruhigendes Erlebnis bietet"
+  ],
+  "included": [
+   "Professioneller englischsprachiger Guide",
+   "Private Hotelabholung und Rückfahrt in Delhi",
+   "Wasser in Flaschen",
+   "Eintritt zum Mehrauli Archäologischen Park (falls Option ausgewählt)",
+   "Wandertour zu den wichtigsten Stätten im Park (falls Option ausgewählt)",
+   "Qutub Minar (falls Option ausgewählt)"
+  ],
+  "notIncluded": [
+   "Mahlzeiten oder Snacks",
+   "Trinkgelder (optional)",
+   "Persönliche Ausgaben",
+   "Fahrt"
+  ]
+ },
+ "from-agra-mathura-vrindavan-sightseeing-day-tour": {
+  "title": "Ab Agra: Mathura-Vrindavan-Besichtigungstour",
+  "metaTitle": "Agra-Mathura-Vrindavan: Tagestour",
+  "metaDescription": "Erkunden Sie Krishnas Geburtsort im Janmabhoomi-Tempel.",
+  "shortDescription": "Erkunden Sie Krishnas Geburtsort im Janmabhoomi-Tempel.",
+  "fullDescription": "**07:00 Uhr – Abholung vom Hotel in Agra**\nBeginnen Sie Ihr spirituelles Abenteuer mit einer morgendlichen Abholung von Ihrem Hotel in Agra. Genießen Sie eine reibungslose Fahrt in einem privaten klimatisierten Fahrzeug in Richtung der nahegelegenen Stadt Mathura.\n\n**08:00 Uhr – Krishna Janmabhoomi Tempel, Mathura**\nKommen Sie am Krishna Janmabhoomi Tempel an, dem Geburtsort von Lord Krishna. Erkunden Sie die heilige Stätte und nehmen Sie die Atmosphäre voller Hingabe und reicher historischer Bedeutung auf.\n\n**09:00 Uhr – Vishram Ghat am Fluss Yamuna**\nBegeben Sie sich zum Vishram Ghat, nur eine kurze Strecke entfernt. Hier genießen Sie eine friedliche Bootsfahrt oder sitzen einfach am Flussufer und denken über die Geschichten von Lord Krishna nach.\n\n**10:00 Uhr – Fahrt nach Vrindavan**\nNehmen Sie eine 20-minütige Fahrt nach Vrindavan, dem Land von Krishnas spielerischen und göttlichen Zeitvertreiben.\n\n**10:30 Uhr – Banke-Bihari-Tempel**\nBesuchen Sie den berühmten Banke-Bihari-Tempel, bekannt für seine lebendige andächtige Atmosphäre und das einzigartige Erlebnis, Lord Krishna in einer seiner charmantesten Formen zu sehen.\n\n**11:30 Uhr – Prem Mandir**\nStaunen Sie über die atemberaubende Architektur von Prem Mandir, ein spirituelles Wunder, das man gesehen haben muss. Schlendern Sie durch seine üppigen Gärten und genießen Sie die schönen Schnitzereien, die Lord Krishnas Leben erzählen.\n\n**12:30 Uhr – Mittagspause**\nEntspannen Sie sich und genießen Sie ein nahrhaftes vegetarisches Mittagessen in einem lokalen Restaurant in Vrindavan, bei dem Sie die Aromen der traditionellen Küche genießen.\n\n**13:30 Uhr – ISKCON-Tempel**\nNach dem Mittagessen besuchen Sie den friedlichen ISKCON-Tempel (Sri Krishna-Balaram Mandir). Nehmen Sie an der spirituellen Atmosphäre teil und verbringen Sie Zeit mit der Erkundung der ruhigen Umgebung.\n\n**14:30 Uhr – Madan-Mohan-Tempel**\nBeenden Sie Ihre Vrindavan-Tour mit einem Besuch des Madan-Mohan-Tempels, der auf einem Hügel mit malerischen Ausblicken auf die Gegend liegt. Es ist einer der ältesten Tempel in Vrindavan und bietet einen ruhigen Raum zum Nachdenken.\n\n**15:30 Uhr – Rückreise nach Agra**\nBeginnen Sie Ihre Rückreise nach Agra, erfrischt von den spirituellen Erfahrungen des Tages.\n\n**16:30 Uhr – Abgabe am Hotel in Agra**\nKommen Sie zurück an Ihrem Hotel in Agra an und schließen Sie einen erfüllenden Tag der Hingabe, Gelassenheit, und Krishnas göttlicher Gegenwart ab.",
+  "highlights": [
+   "Erkunden Sie Krishnas Geburtsort im Janmabhoomi-Tempel"
+  ],
+  "included": [
+   "Abholung und Rückfahrt: bequeme Abholung und Rückfahrt von Ihrem Ort in Agra",
+   "Privater Chauffeur: klimatisiertes Auto mit einem professionellen und höflichen Chauffeur",
+   "Reiseführer: kompetenter und erfahrener privater Reiseführer",
+   "Eintrittsgebühren: alle Eintrittsgebühren für Tempel und Attraktionen im Reiseplan",
+   "Parkgebühren: alle Parkgebühren während der Reise",
+   "Mautgebühren und Kraftstoff: alle Mautgebühren und Kraftstoffkosten enthalten",
+   "Steuern: alle anwendbaren Steuern"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben: jegliche persönliche Ausgaben wie Souvenirs oder zusätzliche Speisen und Getränke, die nicht im Reiseplan erwähnt sind",
+   "Trinkgelder: Trinkgelder für den Chauffeur und Reiseführer",
+   "Mahlzeiten: keine Mahlzeit enthalten",
+   "Bootsfahrt nicht enthalten",
+   "Kameragebühren: jegliche zusätzliche Kamera- oder Videogebühren an den Tempeln oder Attraktionen"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
