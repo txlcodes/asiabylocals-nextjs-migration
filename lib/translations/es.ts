@@ -27700,6 +27700,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier tarifa de entrada a monumentos\nCualquier comida y bebida no incluida en este precio\nCualquier propina o gratificación\nCualquier gasto personal\nSouvenirs o fotos (disponibles para comprar)"
   ]
  },
+ "from-delhi-private-jaipur-2-day-tour-with": {
+  "title": "Desde Delhi: tour privado de 2 días a Jaipur con alojamiento",
+  "metaTitle": "Desde Delhi: tour privado de 2 días a Jaipur",
+  "metaDescription": "Descubra la belleza de Jaipur, la capital de Rajastán, en un tour de 2 días con alojamiento incluido.",
+  "shortDescription": "Descubra la belleza de Jaipur, la capital de Rajastán, en un tour de 2 días",
+  "fullDescription": "Desde Delhi: tour privado de 2 días a Jaipur con alojamiento. Descubra la belleza de Jaipur, la capital de Rajastán, en un tour de 2 días.\n\n### Qué incluye\n\n- Todos los peajes, impuestos, estacionamiento, combustible, dietas del conductor\n- Vehículo privado con aire acondicionado\n- Botella de agua en el coche\n- Recogida y traslado al hotel/aeropuerto\n- Almuerzo buffet en restaurante (2 almuerzos en Jaipur)\n- Guía turístico de habla inglesa\n- Hotel de 3 o 5 estrellas con desayuno (si se elige la opción) (1 noche en Jaipur)\n\n### No incluye\n\n- Cualquier bebida durante el desayuno/almuerzo\n- Cena, lavandería, llamadas telefónicas\n- Cualquier gasto personal\n- Propinas para el guía y el conductor",
+  "highlights": [
+   "Descubra la belleza de Jaipur, la capital de Rajastán, en un tour de 2 días"
+  ],
+  "included": [
+   "Todos los peajes, impuestos, estacionamiento, combustible, dietas del conductor\nVehículo privado con aire acondicionado\nBotella de agua en el coche\nRecogida y traslado al hotel/aeropuerto\nAlmuerzo buffet en restaurante (2 almuerzos en Jaipur)\nGuía turístico de habla inglesa\nHotel de 3 o 5 estrellas con desayuno (si se elige la opción) (1 noche en Jaipur)"
+  ],
+  "notIncluded": [
+   "Cualquier bebida durante el desayuno/almuerzo\nCena, lavandería, llamadas telefónicas\nCualquier gasto personal\nPropinas para el guía y el conductor"
+  ]
+ },
+ "from-delhi-8-day-golden-triangle-tour-with": {
+  "title": "Desde Delhi: tour de 8 días del Triángulo Dorado con Udaipur, 4 ciudades",
+  "metaTitle": "Desde Delhi: tour de 8 días Triángulo Dorado, Udaipur",
+  "metaDescription": "Taj Mahal: sea testigo del amanecer sobre este icónico símbolo del amor, en este tour de 8 días.",
+  "shortDescription": "Taj Mahal: sea testigo del amanecer sobre este icónico símbolo del amor.",
+  "fullDescription": "Desde Delhi: tour de 8 días del Triángulo Dorado con Udaipur, 4 ciudades. Taj Mahal: sea testigo del amanecer sobre este icónico símbolo del amor.\n\nExplore Delhi, Agra, Jaipur y Udaipur en este tour de 8 días del Triángulo Dorado desde Delhi. Descubra monumentos icónicos, palacios reales y el rico patrimonio indio en 4 vibrantes ciudades.\n\n### Qué incluye\n\n- Recogida y traslado al hotel/aeropuerto\n- Coche privado con aire acondicionado para toda la actividad del tour con conductor\n- Guía turístico profesional en cada ciudad\n- 7 noches de alojamiento en hotel (si se elige la opción)\n- Desayuno en el hotel (si se elige la opción)\n- Botella de agua mineral\n- Todos los peajes y el estacionamiento\n\n### No incluye\n\n- Entradas a monumentos\n- Almuerzo y cena\n- Cualquier gasto personal",
+  "highlights": [
+   "Taj Mahal: sea testigo del amanecer sobre este icónico símbolo del amor"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto\nCoche privado con aire acondicionado para toda la actividad del tour con conductor\nGuía turístico profesional en cada ciudad\n7 noches de alojamiento en hotel (si se elige la opción)\nDesayuno en el hotel (si se elige la opción)\nBotella de agua mineral\nTodos los peajes y el estacionamiento"
+  ],
+  "notIncluded": [
+   "Entradas a monumentos\nAlmuerzo y cena\nCualquier gasto personal"
+  ]
+ },
+ "delhi-qutub-minar-skip-the-line-private-tour-with": {
+  "title": "Delhi: tour privado sin colas de Qutub Minar con traslados",
+  "metaTitle": "Delhi: tour privado sin colas de Qutub Minar",
+  "metaDescription": "Maravíllese con el imponente Qutub Minar, un sitio Patrimonio de la Humanidad de la UNESCO, en este tour privado.",
+  "shortDescription": "Maravíllese con el imponente Qutub Minar, un sitio Patrimonio de la Humanidad de la UNESCO",
+  "fullDescription": "Delhi: tour privado sin colas de Qutub Minar con traslados. Maravíllese con el imponente Qutub Minar, un sitio Patrimonio de la Humanidad de la UNESCO.\n\nComience su tour privado con una cómoda recogida en el hotel o un punto de encuentro central en Delhi. Descubra la grandiosidad del Qutub Minar, un sitio Patrimonio de la Humanidad de la UNESCO y una de las maravillas arquitectónicas más célebres de la India.\n\nCon una altura de 73 metros, este imponente minarete está adornado con arenisca roja finamente tallada, intrincadas inscripciones árabes y elegantes motivos, reflejando el arte del Sultanato de Delhi.\n\nPasee por el extenso complejo arqueológico, incluyendo la histórica Mezquita Quwwat-ul-Islam, el enigmático Pilar de Hierro y otras notables ruinas. Su guía experto compartirá historias fascinantes, perspectivas históricas y secretos arquitectónicos, ofreciendo una comprensión más profunda del pasado medieval de Delhi.\n\nDisfrute de una experiencia privada y tranquila, sin multitudes, perfecta para viajeros que aprecian la historia, la fotografía y la inmersión cultural. Capture fotos impresionantes, absorba el sereno ambiente de los jardines y obtenga una conexión íntima con uno de los monumentos más icónicos de Delhi.\n\nConcluya su experiencia premium con un relajante traslado de regreso a su hotel o punto de entrega preferido en Delhi.\n\n### Qué incluye\n\n- Recogida y traslado al hotel\n- Tarifas de entrada a Qutub Minar\n- Tour privado\n- Guía experto\n- Botella de agua\n\n### No incluye\n\n- Comida y bebidas\n- Propinas",
+  "highlights": [
+   "Maravíllese con el imponente Qutub Minar, un sitio Patrimonio de la Humanidad de la UNESCO"
+  ],
+  "included": [
+   "Recogida y traslado al hotel\nTarifas de entrada a Qutub Minar\nTour privado\nGuía experto\nBotella de agua"
+  ],
+  "notIncluded": [
+   "Comida y bebidas\nPropinas"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
