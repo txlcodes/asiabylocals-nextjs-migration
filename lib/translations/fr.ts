@@ -23075,6 +23075,73 @@ export const FR_TOURS: Record<string, TourT> = {
    "Gratifications"
   ]
  },
+ "mughal-heritage-sites-agra-fatehpur-from-delhi-2": {
+  "title": "Sites du patrimoine moghol, Agra et Fatehpur, depuis Delhi, 2 jours",
+  "metaTitle": "Delhi : Agra et Fatehpur, patrimoine moghol, 2 jours",
+  "metaDescription": "Émerveillez-vous devant la grandeur du fort d'Agra, un site du patrimoine mondial de l'UNESCO.",
+  "shortDescription": "Émerveillez-vous devant la grandeur du fort d'Agra, un site du patrimoine mondial de l'UNESCO.",
+  "fullDescription": "Sites du patrimoine moghol, Agra et Fatehpur, depuis Delhi, 2 jours. Émerveillez-vous devant la grandeur du fort d'Agra, un site du patrimoine mondial de l'UNESCO.\n\n**Circuit de l'Empire moghol de 2 jours : Delhi - Agra - Fatehpur Sikri - Delhi**\n\n**Jour 1 : Delhi vers Agra, la grandeur moghole commence**\n\nDépart de Delhi.\nDépart matinal pour éviter la circulation, et profiter d'une journée détendue.\nRoute via l'autoroute Yamuna.\nVisitez la tombe d'Akbar (Sikandra), une magnifique fusion d'architecture islamique, hindoue, bouddhiste, et jaïne.\nDernière demeure de l'empereur Akbar, reflétant sa vision d'unité et de tolérance.\nDurée : environ 45 minutes.\n\nFin de matinée.\nFort d'Agra (site du patrimoine mondial de l'UNESCO).\nImmense forteresse en grès rouge construite par l'empereur Akbar.\nExplorez le palais de Jahangir, le Diwan-i-Am, le Diwan-i-Khas, et le Musamman Burj (où Shah Jahan fut emprisonné).\n\nVues époustouflantes sur le Taj Mahal depuis l'intérieur du fort.\nDéjeuner dans un restaurant local, cuisine moghole en option.\nVisitez Itimad-ud-Daulah (Baby Taj), souvent appelé « le brouillon du Taj Mahal ».\nConstruit par l'impératrice Nur Jahan pour son père.\nCélèbre pour son délicat travail d'incrustation de marbre.\nMehtab Bagh (optionnel mais recommandé).\n\nVues du coucher de soleil sur le Taj Mahal à travers la rivière Yamuna.\nIdéal pour la photographie et des promenades paisibles.\nEnregistrement à l'hôtel et dîner.\nNuit à Agra.\n\n**Jour 2 : Agra vers Fatehpur Sikri vers Delhi**\n\nTôt le matin.\n6h00 : visite du Taj Mahal (lever du soleil) s'il n'y a pas de vendredi (le Taj Mahal est fermé tous les vendredis).\nSymbole de l'amour éternel construit par Shah Jahan pour Mumtaz Mahal.\nMeilleur moment pour la lumière douce, moins de foules, et un temps plus frais.\nPetit-déjeuner à l'hôtel, et départ.\n\nRoute vers Fatehpur Sikri, environ 1 heure 30 depuis Agra.\nExplorez Fatehpur Sikri (site du patrimoine mondial de l'UNESCO).\nAutrefois capitale de l'Empire moghol sous Akbar.\n\nBuland Darwaza (porte de la Victoire).\nJama Masjid.\nTombe de Salim Chishti.\nPanch Mahal.\nDiwan-i-Khas.\nRoute de retour vers Delhi.\nLe circuit se termine par un dépôt à l'hôtel ou à l'aéroport.\n\n**Ce qui est inclus**\nCircuit privé de 2 jours depuis Delhi\nService de guide touristique privé\nHébergement en hôtel 3 étoiles (si vous choisissez l'option tout compris)\nFrais d'entrée pour tous les lieux (si vous choisissez l'option tout compris)\n\n**Non inclus**\nRepas\nDépenses personnelles",
+  "highlights": [
+   "Émerveillez-vous devant la grandeur du fort d'Agra, un site du patrimoine mondial de l'UNESCO"
+  ],
+  "included": [
+   "Circuit privé de 2 jours depuis Delhi",
+   "Service de guide touristique privé",
+   "Hébergement en hôtel 3 étoiles (si vous choisissez l'option tout compris)",
+   "Frais d'entrée pour tous les lieux (si vous choisissez l'option tout compris)"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Dépenses personnelles"
+  ]
+ },
+ "new-delhi-private-tour-of-qutub-minar-light-and": {
+  "title": "New Delhi : visite privée du spectacle son et lumière de Qutub Minar",
+  "metaTitle": "New Delhi : Qutub Minar, spectacle son et lumière",
+  "metaDescription": "Découvrez le spectacle son et lumière de Qutub Minar avec un guide local.",
+  "shortDescription": "Découvrez le spectacle son et lumière de Qutub Minar avec un guide local.",
+  "fullDescription": "New Delhi : visite privée du spectacle son et lumière de Qutub Minar. Découvrez le spectacle son et lumière de Qutub Minar avec un guide local.\n\nSoyez pris en charge à votre hôtel à Delhi/NCR, et dirigez-vous vers Qutub Minar. À l'arrivée, profitez de l'histoire narrée de Qutub Minar, et de son importance dans le patrimoine de Delhi. Regardez le monument s'illuminer de lumières colorées, donnant vie à son histoire à travers des visuels et de la musique captivants.\n\nPassez une heure à explorer l'architecture complexe, les ruines historiques, et la verdure luxuriante entourant le monument. Visitez d'autres attractions au sein du complexe, telles que le pilier de fer, Alai Darwaza, et la mosquée Quwwat-ul-Islam.\n\nAprès le spectacle de lumière, votre chauffeur vous déposera à l'endroit mentionné.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel en voiture climatisée (si l'option est sélectionnée)\nGuide touristique en direct\nBillet d'entrée avec spectacle son et lumière (si l'option est sélectionnée)\nBouteille d'eau\nTous les frais de stationnement et taxes\n\n**Non inclus**\nTout repas\nPourboires (optionnels)\nDépenses personnelles",
+  "highlights": [
+   "Découvrez le spectacle son et lumière de Qutub Minar avec un guide local"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel en voiture climatisée (si l'option est sélectionnée)",
+   "Guide touristique en direct",
+   "Billet d'entrée avec spectacle son et lumière (si l'option est sélectionnée)",
+   "Bouteille d'eau",
+   "Tous les frais de stationnement et taxes"
+  ],
+  "notIncluded": [
+   "Tout repas",
+   "Pourboires (optionnels)",
+   "Dépenses personnelles"
+  ]
+ },
+ "from-delhi-2-days-taj-mahal-tour-with-elephant": {
+  "title": "Depuis Delhi : circuit du Taj Mahal de 2 jours avec Elephant Wildlife SOS",
+  "metaTitle": "Delhi : Taj Mahal 2 jours avec éléphants",
+  "metaDescription": "Passez un moment de qualité avec les éléphants dans leur habitat naturel.",
+  "shortDescription": "Passez un moment de qualité avec les éléphants dans leur habitat naturel.",
+  "fullDescription": "Depuis Delhi : circuit du Taj Mahal de 2 jours avec Elephant Wildlife SOS. Passez un moment de qualité avec les éléphants dans leur habitat naturel.\n\nDécouvrez la beauté intemporelle d'Agra, et apprenez-en davantage sur la conservation responsable de la faune sauvage lors d'un circuit privé de 2 jours en voiture depuis Delhi.\n\n**Jour 1 : Delhi, visites d'Agra**\nVoyagez de Delhi à Agra en voiture climatisée. Explorez le magnifique fort d'Agra, et découvrez la riche histoire moghole de la ville. Profitez des visites locales, et de temps libre pour explorer Agra à votre propre rythme. Nuit à Agra.\n\n**Jour 2 : Taj Mahal au lever du soleil, et conservation des éléphants**\nCommencez votre journée par une visite au lever du soleil époustouflante du Taj Mahal. Après le petit-déjeuner, visitez le centre de conservation des éléphants (Wildlife SOS) pour découvrir le sauvetage, la réhabilitation, et la conservation des éléphants. Plus tard, route de retour vers Delhi, concluant votre expérience mémorable de 2 jours.\n\n**Ce qui est inclus**\nTous les péages, taxes, stationnement, carburant\nVéhicule privé climatisé avec chauffeur\nGuide touristique professionnel\nBouteille d'eau dans la voiture\nPrise en charge et retour depuis l'aéroport/l'hôtel de Delhi\nDéjeuner buffet dans un restaurant d'Agra (si l'option est choisie)\nFrais d'entrée au Taj Mahal, au fort d'Agra, et à Elephant Wildlife (si l'option est sélectionnée)\nHôtel 5 étoiles à Agra avec petit-déjeuner (si l'option est choisie)\n\n**Non inclus**\nTout pourboire pour le guide touristique et le chauffeur\nToute boisson servie au déjeuner\nTout ce qui n'est pas mentionné dans les inclusions",
+  "highlights": [
+   "Passez un moment de qualité avec les éléphants dans leur habitat naturel"
+  ],
+  "included": [
+   "Tous les péages, taxes, stationnement, carburant",
+   "Véhicule privé climatisé avec chauffeur",
+   "Guide touristique professionnel",
+   "Bouteille d'eau dans la voiture",
+   "Prise en charge et retour depuis l'aéroport/l'hôtel de Delhi",
+   "Déjeuner buffet dans un restaurant d'Agra (si l'option est choisie)",
+   "Frais d'entrée au Taj Mahal, au fort d'Agra, et à Elephant Wildlife (si l'option est sélectionnée)",
+   "Hôtel 5 étoiles à Agra avec petit-déjeuner (si l'option est choisie)"
+  ],
+  "notIncluded": [
+   "Tout pourboire pour le guide touristique et le chauffeur",
+   "Toute boisson servie au déjeuner",
+   "Tout ce qui n'est pas mentionné dans les inclusions"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

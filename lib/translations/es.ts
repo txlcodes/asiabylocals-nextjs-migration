@@ -23075,6 +23075,73 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gratificaciones"
   ]
  },
+ "mughal-heritage-sites-agra-fatehpur-from-delhi-2": {
+  "title": "Sitios del patrimonio mogol, Agra y Fatehpur, desde Delhi, 2 días",
+  "metaTitle": "Delhi: Agra y Fatehpur, patrimonio mogol, 2 días",
+  "metaDescription": "Maravíllese con la grandeza del fuerte de Agra, un sitio del Patrimonio Mundial de la UNESCO.",
+  "shortDescription": "Maravíllese con la grandeza del fuerte de Agra, un sitio del Patrimonio Mundial de la UNESCO.",
+  "fullDescription": "Sitios del patrimonio mogol, Agra y Fatehpur, desde Delhi, 2 días. Maravíllese con la grandeza del fuerte de Agra, un sitio del Patrimonio Mundial de la UNESCO.\n\n**Tour del Imperio Mogol de 2 días: Delhi - Agra - Fatehpur Sikri - Delhi**\n\n**Día 1: Delhi a Agra, comienza la grandeza mogol**\n\nSalida de Delhi.\nInicio temprano para evitar el tráfico, y disfrutar de un día relajado.\nTraslado por la autopista Yamuna.\nVisite la tumba de Akbar (Sikandra), una magnífica fusión de arquitectura islámica, hindú, budista, y jainista.\nLugar de descanso final del emperador Akbar, que refleja su visión de unidad y tolerancia.\nDuración: aproximadamente 45 minutos.\n\nMedia mañana.\nFuerte de Agra (sitio del Patrimonio Mundial de la UNESCO).\nEnorme fortaleza de arenisca roja construida por el emperador Akbar.\nExplore el Palacio Jahangir, el Diwan-i-Am, el Diwan-i-Khas, y el Musamman Burj (donde Shah Jahan estuvo preso).\n\nImpresionantes vistas del Taj Mahal desde dentro del fuerte.\nAlmuerzo en un restaurante local, opcional cocina mogol.\nVisite Itimad-ud-Daulah (Baby Taj), a menudo llamado \"el borrador del Taj Mahal\".\nConstruido por la emperatriz Nur Jahan para su padre.\nFamoso por su delicado trabajo de incrustación en mármol.\nMehtab Bagh (opcional, pero recomendado).\n\nVistas del atardecer sobre el Taj Mahal a través del río Yamuna.\nIdeal para fotografía y paseos tranquilos.\nRegistro en el hotel, y cena.\nNoche en Agra.\n\n**Día 2: Agra a Fatehpur Sikri a Delhi**\n\nTemprano por la mañana.\n6:00: visita al Taj Mahal (amanecer) si no es viernes (el Taj Mahal permanece cerrado todos los viernes).\nSímbolo del amor eterno construido por Shah Jahan para Mumtaz Mahal.\nMejor momento para la luz suave, menos multitudes, y clima más fresco.\nDesayuno en el hotel, y salida.\n\nTraslado a Fatehpur Sikri, aproximadamente 1 hora 30 minutos desde Agra.\nExplore Fatehpur Sikri (sitio del Patrimonio Mundial de la UNESCO).\nAlguna vez capital del Imperio Mogol bajo Akbar.\n\nBuland Darwaza (Puerta de la Victoria).\nJama Masjid.\nTumba de Salim Chishti.\nPanch Mahal.\nDiwan-i-Khas.\nTraslado de regreso a Delhi.\nEl tour concluye con la entrega en el hotel o aeropuerto.\n\n**Qué incluye**\nTour privado de 2 días desde Delhi\nServicio de guía turístico privado\nAlojamiento en hotel de 3 estrellas (si elige la opción todo incluido)\nTarifas de entrada a todos los lugares (si elige la opción todo incluido)\n\n**No incluye**\nComidas\nGastos personales",
+  "highlights": [
+   "Maravíllese con la grandeza del fuerte de Agra, un sitio del Patrimonio Mundial de la UNESCO"
+  ],
+  "included": [
+   "Tour privado de 2 días desde Delhi",
+   "Servicio de guía turístico privado",
+   "Alojamiento en hotel de 3 estrellas (si elige la opción todo incluido)",
+   "Tarifas de entrada a todos los lugares (si elige la opción todo incluido)"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Gastos personales"
+  ]
+ },
+ "new-delhi-private-tour-of-qutub-minar-light-and": {
+  "title": "Nueva Delhi: tour privado del espectáculo de luz y sonido de Qutub Minar",
+  "metaTitle": "Nueva Delhi: Qutub Minar, luz y sonido",
+  "metaDescription": "Experimente el espectáculo de luz y sonido de Qutub Minar con un guía local.",
+  "shortDescription": "Experimente el espectáculo de luz y sonido de Qutub Minar con un guía local.",
+  "fullDescription": "Nueva Delhi: tour privado del espectáculo de luz y sonido de Qutub Minar. Experimente el espectáculo de luz y sonido de Qutub Minar con un guía local.\n\nSerá recogido en su hotel en Delhi/NCR, y se dirigirá a Qutub Minar. A su llegada, disfrute de la historia narrada de Qutub Minar, y su importancia en el patrimonio de Delhi. Observe cómo el monumento se ilumina con luces de colores, dando vida a su historia a través de cautivadores visuales y música.\n\nPase una hora explorando la intrincada arquitectura, ruinas históricas, y exuberante vegetación que rodean el monumento. Visite otras atracciones dentro del complejo, como el Pilar de Hierro, el Alai Darwaza, y la mezquita Quwwat-ul-Islam.\n\nDespués del espectáculo de luz, su conductor lo dejará en el lugar mencionado.\n\n**Qué incluye**\nRecogida y regreso al hotel en auto con aire acondicionado (si se selecciona esta opción)\nGuía turístico en vivo\nEntrada con espectáculo de luz y sonido (si se selecciona esta opción)\nBotella de agua\nTodas las tarifas de estacionamiento y cargos\n\n**No incluye**\nCualquier comida\nPropinas (opcionales)\nGastos personales",
+  "highlights": [
+   "Experimente el espectáculo de luz y sonido de Qutub Minar con un guía local"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en auto con aire acondicionado (si se selecciona esta opción)",
+   "Guía turístico en vivo",
+   "Entrada con espectáculo de luz y sonido (si se selecciona esta opción)",
+   "Botella de agua",
+   "Todas las tarifas de estacionamiento y cargos"
+  ],
+  "notIncluded": [
+   "Cualquier comida",
+   "Propinas (opcionales)",
+   "Gastos personales"
+  ]
+ },
+ "from-delhi-2-days-taj-mahal-tour-with-elephant": {
+  "title": "Desde Delhi: tour del Taj Mahal de 2 días con Elephant Wildlife SOS",
+  "metaTitle": "Delhi: Taj Mahal 2 días con elefantes",
+  "metaDescription": "Pase un tiempo de calidad con los elefantes en su hábitat natural.",
+  "shortDescription": "Pase un tiempo de calidad con los elefantes en su hábitat natural.",
+  "fullDescription": "Desde Delhi: tour del Taj Mahal de 2 días con Elephant Wildlife SOS. Pase un tiempo de calidad con los elefantes en su hábitat natural.\n\nExperimente la belleza atemporal de Agra, y aprenda sobre la conservación responsable de la vida silvestre en un tour privado de 2 días desde Delhi en auto.\n\n**Día 1: Delhi, visitas a Agra**\nViaje de Delhi a Agra en auto con aire acondicionado. Explore el magnífico fuerte de Agra, y descubra la rica historia mogol de la ciudad. Disfrute de visitas locales, y tiempo libre para explorar Agra a su propio ritmo. Noche en Agra.\n\n**Día 2: Taj Mahal al amanecer, y conservación de elefantes**\nComience su día con una impresionante visita al amanecer al Taj Mahal. Después del desayuno, visite el Centro de Conservación de Elefantes (Wildlife SOS) para aprender sobre el rescate, rehabilitación, y conservación de elefantes. Más tarde, traslado de regreso a Delhi, concluyendo su memorable experiencia de 2 días.\n\n**Qué incluye**\nTodos los peajes, impuestos, estacionamiento, combustible\nVehículo privado con aire acondicionado con conductor\nGuía turístico profesional\nBotella de agua en el auto\nRecogida y regreso desde el aeropuerto/hotel de Delhi\nAlmuerzo buffet en un restaurante de Agra (si se elige esta opción)\nTarifas de entrada al Taj Mahal, el fuerte de Agra, y Elephant Wildlife (si se selecciona esta opción)\nHotel de 5 estrellas en Agra con desayuno (si se elige esta opción)\n\n**No incluye**\nCualquier propina/gratificación para el guía turístico y el conductor\nCualquier tipo de bebida servida en el almuerzo\nCualquier cosa no mencionada en las inclusiones",
+  "highlights": [
+   "Pase un tiempo de calidad con los elefantes en su hábitat natural"
+  ],
+  "included": [
+   "Todos los peajes, impuestos, estacionamiento, combustible",
+   "Vehículo privado con aire acondicionado con conductor",
+   "Guía turístico profesional",
+   "Botella de agua en el auto",
+   "Recogida y regreso desde el aeropuerto/hotel de Delhi",
+   "Almuerzo buffet en un restaurante de Agra (si se elige esta opción)",
+   "Tarifas de entrada al Taj Mahal, el fuerte de Agra, y Elephant Wildlife (si se selecciona esta opción)",
+   "Hotel de 5 estrellas en Agra con desayuno (si se elige esta opción)"
+  ],
+  "notIncluded": [
+   "Cualquier propina/gratificación para el guía turístico y el conductor",
+   "Cualquier tipo de bebida servida en el almuerzo",
+   "Cualquier cosa no mencionada en las inclusiones"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
