@@ -3769,6 +3769,76 @@ export const FR_TOURS: Record<string, TourT> = {
    "Gratifications"
   ]
  },
+ "agra-taj-mahal-agra-full-or-half-day-tour": {
+  "title": "Agra : visite d'une journée complète ou d'une demi-journée du Taj Mahal avec guide local",
+  "metaTitle": "Agra : Taj Mahal, journée complète ou demi-journée",
+  "metaDescription": "Les jardins symbolisent le paradis dans l'architecture islamique.",
+  "shortDescription": "Les jardins symbolisent le paradis dans l'architecture islamique.",
+  "fullDescription": "Découvrez la beauté d'Agra lors d'une visite guidée d'une demi-journée ou d'une journée complète avec prise en charge à l'hôtel. Explorez le Taj Mahal mondialement célèbre, de magnifiques monuments moghols, et des trésors cachés tout en voyageant dans un confort climatisé avec un guide local compétent.\n\n**Visite de la ville d'Agra en demi-journée**\nDurée : 4 à 5 heures\nTransport : voiture privée climatisée\n\n**Itinéraire : prise en charge à Agra (hôtel / lieu préféré)**\nCommencez votre voyage par une prise en charge confortable à votre hôtel ou lieu préféré à Agra.\n\n1. Taj Mahal : visitez le Taj Mahal à couper le souffle, l'une des Sept Merveilles du Monde. Découvrez l'histoire d'amour intemporelle de l'empereur Shah Jahan et Mumtaz Mahal tout en admirant l'architecture en marbre impressionnante du monument.\n\n2. Fort d'Agra : continuez vers le magnifique fort d'Agra, un site du patrimoine mondial de l'UNESCO. Explorez les palais royaux, salles d'audience, et belles cours qui servaient autrefois de résidence aux empereurs moghols.\n\n3. Itimad-ud-Daulah (Baby Taj) : visitez Itimad-ud-Daulah, souvent appelé le Baby Taj. Admirez son travail complexe d'incrustation en marbre et son cadre paisible au bord de la rivière.\n\n**Retour à l'hôtel**\nDétendez-vous pendant le trajet de retour vers votre hôtel, concluant votre visite d'une demi-journée à Agra.\n\n**Visite d'Agra d'une journée complète**\nDurée : 8 heures\nTransport : voiture privée climatisée\n\n**Itinéraire : prise en charge à Agra (hôtel / lieu préféré)**\nRencontrez votre guide local et commencez votre exploration d'une journée complète d'Agra dans un véhicule privé climatisé.\n\n1. Taj Mahal : commencez votre visite par une visite guidée de l'emblématique Taj Mahal. Découvrez son histoire fascinante, son architecture impressionnante, et ses beaux jardins tout en profitant d'amplement de temps pour les photos.\n\n2. Fort d'Agra : explorez le grand fort d'Agra, une forteresse classée par l'UNESCO présentant des siècles d'histoire moghole, d'architecture, et de vie royale.\n\n3. Pause déjeuner : profitez du déjeuner dans un restaurant local et dégustez une authentique cuisine du nord de l'Inde avant de continuer votre visite.\n\n4. Itimad-ud-Daulah (Baby Taj) : visitez l'élégant Itimad-ud-Daulah, connu pour son délicat artisanat en marbre et ses beaux jardins.\n\n5. Mehtab Bagh : découvrez Mehtab Bagh, un jardin au bord de la rivière offrant des vues spectaculaires sur le Taj Mahal à travers la rivière Yamuna.\n\n6. Visite du marché local : explorez les marchés locaux animés d'Agra, réputés pour l'artisanat en marbre, les articles en cuir, les textiles traditionnels, et les souvenirs locaux.\n\n**Retour à l'hôtel**\nConcluez votre visite d'une journée complète à Agra par un trajet confortable de retour vers votre hôtel, emportant des souvenirs inoubliables de la ville moghole.",
+  "highlights": [
+   "Les jardins symbolisent le paradis dans l'architecture islamique"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel/aéroport",
+   "Prise en charge gratuite à la gare ou à l'aéroport à Agra",
+   "Voiture climatisée premium",
+   "Réservez également une visite au lever du soleil pour moins de foule",
+   "Guide touristique agréé",
+   "Banc de la princesse Diana",
+   "Entrée sans file d'attente pour les ressortissants étrangers",
+   "Bouteille d'eau gratuite",
+   "Frais d'entrée (si option sélectionnée)",
+   "Déjeuner (si option sélectionnée)",
+   "Toutes les taxes et le stationnement"
+  ],
+  "notIncluded": []
+ },
+ "from-delhi-2-days-new-delhi-taj-mahal-guided": {
+  "title": "Depuis Delhi : visite guidée de 2 jours de New Delhi et du Taj Mahal",
+  "metaTitle": "Delhi : New Delhi et Taj Mahal, visite 2 jours",
+  "metaDescription": "Découvrez la visite à pied du vieux Delhi avec un guide touristique professionnel.",
+  "shortDescription": "Découvrez la visite à pied du vieux Delhi avec un guide touristique professionnel.",
+  "fullDescription": "Découvrez New Delhi et le Taj Mahal lors de cette visite guidée de 2 jours depuis Delhi. Profitez d'une visite à pied du vieux Delhi avec un guide touristique professionnel, explorez les monuments emblématiques de New Delhi, puis voyagez vers Agra pour admirer le célèbre Taj Mahal, avec hébergement en hôtel 3 étoiles et transport privé climatisé tout au long du voyage.",
+  "highlights": [
+   "Découvrez la visite à pied du vieux Delhi avec un guide touristique professionnel"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Transport privé climatisé",
+   "Guide touristique privé",
+   "Déjeuner (si option sélectionnée)",
+   "Frais d'entrée (si option sélectionnée)",
+   "Hébergement en hôtel 3 étoiles (si option sélectionnée)",
+   "Bouteilles d'eau"
+  ],
+  "notIncluded": [
+   "Shopping",
+   "Pourboires/gratifications (fortement recommandés)"
+  ]
+ },
+ "taj-mahal-tour-with-optional-wildlife-rescue": {
+  "title": "Visite du Taj Mahal avec visite optionnelle d'un centre de secours pour animaux sauvages",
+  "metaTitle": "Taj Mahal : visite avec secours animaux optionnel",
+  "metaDescription": "Regardez le lever du soleil sur le magnifique Taj Mahal, un site du patrimoine mondial de l'UNESCO.",
+  "shortDescription": "Regardez le lever du soleil sur le magnifique Taj Mahal, un site du patrimoine mondial de l'UNESCO.",
+  "fullDescription": "Assistez à l'un des monuments les plus impressionnants du monde à son heure la plus belle, le Taj Mahal au lever du soleil. Cette visite guidée commence tôt le matin pour vous garantir de capturer le marbre ivoire du monument rayonnant dans la douce lumière matinale, loin des grandes foules.\n\nAprès avoir exploré la riche histoire du Taj Mahal et de ses jardins environnants, vous pouvez personnaliser votre visite avec une visite significative d'un centre de secours pour animaux proche. Choisissez de visiter soit le centre de conservation et de soins des éléphants, soit l'installation de secours des ours d'Agra, tous deux gérés par Wildlife SOS. Ces centres sont dédiés à la protection et à la réhabilitation d'animaux maltraités et offrent une expérience éducative et touchante.\n\nQue vous préfériez seulement le Taj Mahal ou souhaitiez le combiner avec une expérience unique de secours de la faune sauvage, cette visite flexible est idéale pour les amoureux des animaux, les passionnés d'histoire, et les explorateurs curieux.",
+  "highlights": [
+   "Regardez le lever du soleil sur le magnifique Taj Mahal, un site du patrimoine mondial de l'UNESCO"
+  ],
+  "included": [
+   "Véhicule privé climatisé avec chauffeur",
+   "Guide touristique agréé au Taj Mahal",
+   "Bouteille d'eau dans la voiture",
+   "Prise en charge et retour depuis l'aéroport/hôtel de Delhi",
+   "Tous les péages, taxes, stationnement, carburant"
+  ],
+  "notIncluded": [
+   "Billets d'entrée aux monuments (par exemple, Taj Mahal, fort d'Agra)",
+   "Frais d'entrée/don aux centres de secours des éléphants et des ours",
+   "Repas, pourboires, et dépenses personnelles",
+   "Tout ce qui n'est pas mentionné dans les inclusions"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",

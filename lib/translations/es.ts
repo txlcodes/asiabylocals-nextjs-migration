@@ -3749,11 +3749,11 @@ export const ES_TOURS: Record<string, TourT> = {
  "5-days-delhi-agra-jaipur-tour-with-accommodation": {
   "title": "Tour de 5 días Delhi-Agra-Jaipur con alojamiento en hotel de 5 estrellas",
   "metaTitle": "5 días: Delhi-Agra-Jaipur, hotel de 5 estrellas",
-  "metaDescription": "La Tumba de Humayun es un Sitio del Patrimonio Mundial de la UNESCO, exporarla definitivamente.",
-  "shortDescription": "La Tumba de Humayun es un Sitio del Patrimonio Mundial de la UNESCO, exporarla definitivamente.",
+  "metaDescription": "La Tumba de Humayun es un Sitio del Patrimonio Mundial de la UNESCO, explorarla definitivamente.",
+  "shortDescription": "La Tumba de Humayun es un Sitio del Patrimonio Mundial de la UNESCO, explorarla definitivamente.",
   "fullDescription": "**Día 1: llegada a Delhi, inmersión en la Vieja Delhi y delicias culinarias**\nLlegada al Aeropuerto Internacional Indira Gandhi (DEL), Delhi.\nTraslado privado a su lujoso hotel de 5 estrellas.\nExperiencia única: exploración guiada por la tarde de la Vieja Delhi en ciclo-rickshaw, sumergiéndose en los bulliciosos callejones de Chandni Chowk. Experimente el vibrante mercado de especias, observe artesanía tradicional, y sumérjase en el ambiente histórico.\nExperiencia única: tour de comida callejera curado por la noche en la Vieja Delhi con un experto local, saboreando sabores autenticos y joyas culinarias escondidas. (Opcional: participe en una breve demostración de cocina india.)\nNoche en su hotel de 5 estrellas en Delhi.\n\n**Día 2: grandeza de la Nueva Delhi y exploración artística**\nTour de avistamiento matutino por la Nueva Delhi: India Gate, la Tumba de Humayun (un precursor del Taj Mahal), Qutub Minar, y el Templo del Loto.\nExperiencia única: visita por la tarde al Museo de Artesanía, que muestra las diversas artes y artesanías de la India. Interactúe con artesanos y observe técnicas tradicionales.\nExperiencia única: asista por la noche a una cautivadora actuación de danza clásica india (por ejemplo, Kathak o Bharatnatyam) con boletos reservados con antelación.\nNoche en su hotel de 5 estrellas en Delhi.\n\n**Día 3: Agra, más allá del Taj Mahal y el patrimonio mogol**\nTraslado matutino a Agra (aproximadamente 3 a 4 horas). Registro en su hotel de 5 estrellas en Agra.\nVisita por la tarde al magnífico Taj Mahal (se recomienda la vista al atardecer para una experiencia mágica).\nExperiencia única: explore el Fuerte de Agra, sumergiéndose en sus intrincados palacios, salones de audiencia, y el Diwan-i-Am. Después, visite Mehtab Bagh para una impresionante vista a la luz de la luna del Taj Mahal al otro lado del río Yamuna (si el tiempo lo permite y el clima es favorable).\nExperiencia única: interacción por la noche con artesanos locales especializados en Pietra Dura (trabajo de incrustación en mármol), una artesanía estrechamente asociada con el Taj Mahal. Observe sus intrincadas habilidades y quizás intente su propio diseño simple.\nNoche en su hotel de 5 estrellas en Agra.\n\n**Día 4: el encanto fantasmal de Fatehpur Sikri y viaje a Jaipur**\nExcursión matutina a Fatehpur Sikri (aproximadamente 1 hora en auto), un Sitio del Patrimonio Mundial de la UNESCO y una fascinante ciudad mogol desierta. Explore su impresionante arquitectura y conozca su historia.\nExperiencia única: en el camino a Jaipur, pare en Abhaneri para visitar el pozo escalonado Chand Baori, una maravilla arquitectónica, y el Templo Harshad Mata.\nContinúe su viaje a Jaipur (aproximadamente 4 a 5 horas). Registro en su lujoso hotel de 5 estrellas en Jaipur.\nNoche libre en Jaipur.\n\n**Día 5: grandeza real de Jaipur y salida**\nExploración matutina de Jaipur: visite el Fuerte Amber, Hawa Mahal (Palacio de los Vientos), City Palace, y Jantar Mantar (observatorio astronómico).\nExperiencia única: participe en un taller de estampado en bloque, una artesanía tradicional de Jaipur. Conozca el proceso y cree su propio recuerdo.\nTarde libre para ir de compras de artesanía local, textiles, y joyería.\nTraslado por la noche al Aeropuerto Internacional de Jaipur (JAI) para su viaje posterior o regreso a Delhi.",
   "highlights": [
-   "La Tumba de Humayun es un Sitio del Patrimonio Mundial de la UNESCO, exporarla definitivamente"
+   "La Tumba de Humayun es un Sitio del Patrimonio Mundial de la UNESCO, explorarla definitivamente"
   ],
   "included": [
    "Alojamiento de 3 o 5 estrellas disponible por 4 noches en cada destino según la opción elegida",
@@ -3767,6 +3767,76 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tarifa de entrada a los monumentos",
    "Almuerzo y cena",
    "Gratificaciones"
+  ]
+ },
+ "agra-taj-mahal-agra-full-or-half-day-tour": {
+  "title": "Agra: tour de día completo o medio día al Taj Mahal con guía local",
+  "metaTitle": "Agra: Taj Mahal, día completo o medio día",
+  "metaDescription": "Los jardines simbolizan el paraíso en la arquitectura islámica.",
+  "shortDescription": "Los jardines simbolizan el paraíso en la arquitectura islámica.",
+  "fullDescription": "Descubra la belleza de Agra en un tour guiado de medio día o día completo con recogida en el hotel. Explore el Taj Mahal mundialmente famoso, magníficos monumentos mogoles, y joyas escondidas mientras viaja con comodidad climatizada con un guía local conocedor.\n\n**Tour de medio día por la ciudad de Agra**\nDuración: 4 a 5 horas\nTransporte: auto privado con aire acondicionado\n\n**Itinerario: recogida en Agra (hotel / lugar preferido)**\nComience su viaje con una cómoda recogida en su hotel o lugar preferido en Agra.\n\n1. Taj Mahal: visite el impresionante Taj Mahal, una de las Siete Maravillas del Mundo. Conozca la atemporal historia de amor del emperador Shah Jahan y Mumtaz Mahal mientras admira la impresionante arquitectura de mármol del monumento.\n\n2. Fuerte de Agra: continúe hacia el magnífico Fuerte de Agra, un Sitio del Patrimonio Mundial de la UNESCO. Explore palacios reales, salones de audiencia, y hermosos patios que una vez sirvieron como residencia de los emperadores mogoles.\n\n3. Itimad-ud-Daulah (Baby Taj): visite Itimad-ud-Daulah, a menudo llamado el Baby Taj. Admire su intrincado trabajo de incrustación en mármol y su entorno tranquilo junto al río.\n\n**Regreso al hotel**\nRelájese durante el trayecto de regreso a su hotel, concluyendo su tour de medio día por Agra.\n\n**Tour de día completo por Agra**\nDuración: 8 horas\nTransporte: auto privado con aire acondicionado\n\n**Itinerario: recogida en Agra (hotel / lugar preferido)**\nConozca a su guía local y comience su exploración de día completo por Agra en un vehículo privado con aire acondicionado.\n\n1. Taj Mahal: comience su tour con una visita guiada al icónico Taj Mahal. Descubra su fascinante historia, impresionante arquitectura, y hermosos jardines mientras disfruta de bastante tiempo para fotografías.\n\n2. Fuerte de Agra: explore el magnífico Fuerte de Agra, una fortaleza catalogada por la UNESCO que muestra siglos de historia mogol, arquitectura, y vida real.\n\n3. Pausa para el almuerzo: disfrute del almuerzo en un restaurante local y pruebe la auténtica cocina del norte de la India antes de continuar su avistamiento.\n\n4. Itimad-ud-Daulah (Baby Taj): visite el elegante Itimad-ud-Daulah, conocido por su delicada artesanía en mármol y hermosos jardines.\n\n5. Mehtab Bagh: descubra Mehtab Bagh, un jardín junto al río que ofrece vistas espectaculares del Taj Mahal al otro lado del río Yamuna.\n\n6. Visita al mercado local: explore los vibrantes mercados locales de Agra, famosos por la artesanía en mármol, artículos de cuero, textiles tradicionales, y recuerdos locales.\n\n**Regreso al hotel**\nConcluya su tour de día completo por Agra con un cómodo trayecto de regreso a su hotel, llevándose recuerdos inolvidables de la ciudad mogol.",
+  "highlights": [
+   "Los jardines simbolizan el paraíso en la arquitectura islámica"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto",
+   "Recogida gratuita en la estación de tren o aeropuerto en Agra",
+   "Auto premium con aire acondicionado",
+   "Reserve también un tour al amanecer para menos multitudes",
+   "Guía turístico con licencia",
+   "Banco de la Princesa Diana",
+   "Entrada sin colas para ciudadanos extranjeros",
+   "Botella de agua gratuita",
+   "Tarifas de entrada (si se selecciona la opción)",
+   "Almuerzo (si se selecciona la opción)",
+   "Todos los impuestos y estacionamiento"
+  ],
+  "notIncluded": []
+ },
+ "from-delhi-2-days-new-delhi-taj-mahal-guided": {
+  "title": "Desde Delhi: tour guiado de 2 días por Nueva Delhi y el Taj Mahal",
+  "metaTitle": "Delhi: Nueva Delhi y Taj Mahal, tour de 2 días",
+  "metaDescription": "Experimente el tour a pie por la Vieja Delhi con guía turístico profesional.",
+  "shortDescription": "Experimente el tour a pie por la Vieja Delhi con guía turístico profesional.",
+  "fullDescription": "Descubra Nueva Delhi y el Taj Mahal en este tour guiado de 2 días desde Delhi. Disfrute de un tour a pie por la Vieja Delhi con un guía turístico profesional, explore los monumentos icónicos de Nueva Delhi, y luego viaje a Agra para admirar el famoso Taj Mahal, con alojamiento en hotel de 3 estrellas y transporte privado con aire acondicionado durante todo el viaje.",
+  "highlights": [
+   "Experimente el tour a pie por la Vieja Delhi con guía turístico profesional"
+  ],
+  "included": [
+   "Recogida y traslado al hotel",
+   "Transporte privado con aire acondicionado",
+   "Guía turístico privado",
+   "Almuerzo (si se selecciona la opción)",
+   "Tarifas de entrada (si se selecciona la opción)",
+   "Alojamiento en hotel de 3 estrellas (si se selecciona la opción)",
+   "Botellas de agua"
+  ],
+  "notIncluded": [
+   "Compras",
+   "Propinas/gratificaciones (muy recomendadas)"
+  ]
+ },
+ "taj-mahal-tour-with-optional-wildlife-rescue": {
+  "title": "Tour del Taj Mahal con visita opcional al Centro de Rescate de Vida Salvaje",
+  "metaTitle": "Taj Mahal: tour con rescate de animales opcional",
+  "metaDescription": "Observe el amanecer sobre el impresionante Taj Mahal, un Sitio del Patrimonio Mundial de la UNESCO.",
+  "shortDescription": "Observe el amanecer sobre el impresionante Taj Mahal, un Sitio del Patrimonio Mundial de la UNESCO.",
+  "fullDescription": "Sea testigo de uno de los monumentos más impresionantes del mundo en su hora más hermosa, el Taj Mahal al amanecer. Este tour guiado comienza temprano por la mañana para garantizar que capture el mármol marfil del monumento brillando en la suave luz matutina, libre de grandes multitudes.\n\nDespués de explorar la rica historia del Taj Mahal y sus jardines circundantes, puede personalizar su tour con una visita significativa a un Centro de Rescate de Animales cercano. Elija visitar el Centro de Conservación y Cuidado de Elefantes o la Instalación de Rescate de Osos de Agra, ambos administrados por Wildlife SOS. Estos centros se dedican a proteger y rehabilitar animales maltratados y ofrecen una experiencia educativa y conmovedora.\n\nYa sea que prefiera solo el Taj Mahal o desee combinarlo con una experiencia única de rescate de vida salvaje, este tour flexible es ideal tanto para amantes de los animales, aficionados a la historia, como exploradores curiosos.",
+  "highlights": [
+   "Observe el amanecer sobre el impresionante Taj Mahal, un Sitio del Patrimonio Mundial de la UNESCO"
+  ],
+  "included": [
+   "Vehículo privado con aire acondicionado con conductor",
+   "Guía turístico con licencia en el Taj Mahal",
+   "Botella de agua en el auto",
+   "Recogida y traslado desde el Aeropuerto/Hotel de Delhi",
+   "Todos los peajes, impuestos, estacionamiento, combustible"
+  ],
+  "notIncluded": [
+   "Boletos de entrada a los monumentos (por ejemplo, Taj Mahal, Fuerte de Agra)",
+   "Tarifas de entrada/donación en los Centros de Rescate de Elefantes y Osos",
+   "Comidas, propinas, y gastos personales",
+   "Cualquier cosa no mencionada en las inclusiones"
   ]
  },
  "agra-fort-sunset-tour": {
