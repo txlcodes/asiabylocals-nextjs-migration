@@ -27366,6 +27366,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Boissons\nDéjeuner et dîner\nBillets d'entrée aux monuments (environ 70 $ USD par personne pour tous les monuments)\nPourboires/gratifications (optionnels)"
   ]
  },
+ "from-delhi-golden-triangle-multi-day-guided": {
+  "title": "Depuis Delhi : circuit privé guidé multi-jours du Triangle d'Or",
+  "metaTitle": "Depuis Delhi : circuit privé guidé multi-jours",
+  "metaDescription": "Transport privé climatisé avec service porte-à-porte depuis Delhi, Agra et Jaipur, circuit de 3, 4 ou 5 jours.",
+  "shortDescription": "Transport privé climatisé avec service porte-à-porte depuis Delhi, Agra et Jaipur",
+  "fullDescription": "Depuis Delhi : circuit privé guidé multi-jours du Triangle d'Or. Transport privé climatisé avec service porte-à-porte depuis Delhi, Agra et Jaipur.\n\nChoisissez un circuit de 3, 4 ou 5 jours de Delhi à Agra, Jaipur et retour. Voyagez dans une voiture privée climatisée avec un guide et découvrez les monuments les plus célèbres de chaque ville, avec hébergement optionnel inclus.\n\n### Ce qui est inclus\n\n- Véhicule privé climatisé pour un transport confortable et exclusif tout au long du voyage\n- Tarification tout compris couvrant péages, taxes, stationnement et frais de chauffeur, sans frais cachés\n- Guides locaux experts dans chaque ville pour des circuits instructifs et captivants\n- Frais d'entrée aux monuments inclus pour toutes les principales attractions (si sélectionné) (si l'option est sélectionnée)\n- Hébergement avec petit-déjeuner offert dans des hôtels soigneusement sélectionnés (si sélectionné)\n\n### Non inclus\n\n- Déjeuner et dîner\n- Gratifications",
+  "highlights": [
+   "Transport privé climatisé avec service porte-à-porte depuis Delhi, Agra et Jaipur"
+  ],
+  "included": [
+   "Véhicule privé climatisé pour un transport confortable et exclusif tout au long du voyage\nTarification tout compris couvrant péages, taxes, stationnement et frais de chauffeur, sans frais cachés\nGuides locaux experts dans chaque ville pour des circuits instructifs et captivants\nFrais d'entrée aux monuments inclus pour toutes les principales attractions (si sélectionné) (si l'option est sélectionnée)\nHébergement avec petit-déjeuner offert dans des hôtels soigneusement sélectionnés (si sélectionné)"
+  ],
+  "notIncluded": [
+   "Déjeuner et dîner\nGratifications"
+  ]
+ },
+ "from-delhi-all-inclusive-3-day-private-golden": {
+  "title": "Depuis Delhi : circuit privé tout compris de 3 jours du Triangle d'Or",
+  "metaTitle": "Depuis Delhi : circuit privé tout compris de 3 jours",
+  "metaDescription": "Profitez d'un circuit privé fluide couvrant Delhi, Agra et Jaipur en 3 jours, avec hôtels et transport inclus.",
+  "shortDescription": "Profitez d'un circuit privé fluide couvrant Delhi, Agra et Jaipur en 3 jours.",
+  "fullDescription": "Depuis Delhi : circuit privé tout compris de 3 jours du Triangle d'Or. Profitez d'un circuit privé fluide couvrant Delhi, Agra et Jaipur en 3 jours.\n\nDécouvrez l'emblématique Triangle d'Or de l'Inde lors d'un circuit privé de 3 jours depuis Delhi, avec hôtels tout compris, transport et visites guidées à Delhi, Agra et Jaipur. Profitez d'une expérience fluide, confortable et riche.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel/aéroport\n- Voiture climatisée privée pour toute l'activité du circuit avec chauffeur\n- Guide touristique professionnel dans chaque ville\n- 2 nuits d'hébergement à l'hôtel (si l'option est sélectionnée)\n- Petit-déjeuner à l'hôtel\n- Bouteille d'eau minérale\n- Tous les péages et frais de stationnement\n\n### Non inclus\n\n- Déjeuner et dîner\n- Billets d'entrée aux monuments\n- Toute dépense personnelle",
+  "highlights": [
+   "Profitez d'un circuit privé fluide couvrant Delhi, Agra et Jaipur en 3 jours"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel/aéroport\nVoiture climatisée privée pour toute l'activité du circuit avec chauffeur\nGuide touristique professionnel dans chaque ville\n2 nuits d'hébergement à l'hôtel (si l'option est sélectionnée)\nPetit-déjeuner à l'hôtel\nBouteille d'eau minérale\nTous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Déjeuner et dîner\nBillets d'entrée aux monuments\nToute dépense personnelle"
+  ]
+ },
+ "delhi-private-luxury-full-or-half-day-city-tour": {
+  "title": "Delhi : circuit privé de luxe en ville, journée ou demi-journée",
+  "metaTitle": "Delhi : circuit privé de luxe, journée/demi-journée",
+  "metaDescription": "Explorez Old et New Delhi avec un guide privé lors de ce circuit de ville de luxe en véhicule climatisé.",
+  "shortDescription": "Explorez Old et New Delhi avec un guide privé",
+  "fullDescription": "Delhi : circuit privé de luxe en ville, journée ou demi-journée. Explorez Old et New Delhi avec un guide privé.\n\nDécouvrez les incontournables de Delhi dans le confort et le style lors d'un circuit touristique privé de luxe en voiture climatisée avec un guide local professionnel. Choisissez une option demi-journée ou journée complète selon votre emploi du temps et découvrez le contraste fascinant entre Old Delhi et New Delhi.\n\nCommencez par une prise en charge pratique à votre hôtel, à l'aéroport ou à un autre lieu à Delhi. Votre guide vous accompagnera tout au long de l'expérience, partageant des histoires sur l'histoire, l'architecture, la culture et la vie quotidienne de Delhi.\n\nPour l'expérience Old Delhi, explorez les environs de la Jama Masjid et de Chandni Chowk, l'un des quartiers historiques les plus animés de la ville. Profitez d'un trajet traditionnel en rickshaw à pédales à travers les rues animées et découvrez les marchés colorés et l'atmosphère historique d'Old Delhi. Vous pouvez également voir l'impressionnant Fort Rouge de l'extérieur.\n\nPour l'expérience New Delhi, visitez le tombeau de Humayun, un magnifique tombeau-jardin moghol et site du patrimoine mondial de l'UNESCO, et faites un arrêt au Temple du Lotus. Passez devant des monuments emblématiques tels qu'India Gate et Rashtrapati Bhavan, découvrant les grandes avenues de New Delhi.\n\nAvec l'option journée complète, vous pouvez combiner le meilleur d'Old et New Delhi à un rythme détendu. L'option demi-journée est idéale pour les voyageurs disposant de peu de temps qui souhaitent une introduction ciblée à la ville.\n\nVotre voiture privée, votre guide personnel, votre itinéraire flexible et votre expérience de visite confortable rendent ce circuit adapté aux couples, familles et petits groupes.\n\n### Ce qui est inclus\n\n- Voiture privée climatisée\n- Guide touristique privé professionnel\n- Billets d'entrée aux monuments (si l'option est sélectionnée)\n- Repas (si l'option est sélectionnée)\n- Prise en charge et dépose à l'hôtel, à l'aéroport ou au lieu sélectionné\n- Trajet en rickshaw à pédales à Old Delhi\n- Eau potable en bouteille\n- Toutes les taxes applicables\n\n### Non inclus\n\n- Boissons\n- Dépenses personnelles\n- Pourboires et gratifications",
+  "highlights": [
+   "Explorez Old et New Delhi avec un guide privé"
+  ],
+  "included": [
+   "Voiture privée climatisée\nGuide touristique privé professionnel\nBillets d'entrée aux monuments (si l'option est sélectionnée)\nRepas (si l'option est sélectionnée)\nPrise en charge et dépose à l'hôtel, à l'aéroport ou au lieu sélectionné\nTrajet en rickshaw à pédales à Old Delhi\nEau potable en bouteille\nToutes les taxes applicables"
+  ],
+  "notIncluded": [
+   "Boissons\nDépenses personnelles\nPourboires et gratifications"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

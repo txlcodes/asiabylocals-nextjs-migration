@@ -27366,6 +27366,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Getränke\nMittag- und Abendessen\nEintrittskarten für Denkmäler (ca. 70 $ USD pro Person für alle Denkmäler)\nTrinkgelder/Gratifikationen (optional)"
   ]
  },
+ "from-delhi-golden-triangle-multi-day-guided": {
+  "title": "Ab Delhi: private geführte Mehrtages-Tour des Goldenen Dreiecks",
+  "metaTitle": "Ab Delhi: private geführte Mehrtages-Tour",
+  "metaDescription": "Privater klimatisierter Transport mit Tür-zu-Tür-Service ab Delhi, Agra und Jaipur, 3-, 4- oder 5-tägige Tour.",
+  "shortDescription": "Privater klimatisierter Transport mit Tür-zu-Tür-Service ab Delhi, Agra und Jaipur",
+  "fullDescription": "Ab Delhi: private geführte Mehrtages-Tour des Goldenen Dreiecks. Privater klimatisierter Transport mit Tür-zu-Tür-Service ab Delhi, Agra und Jaipur.\n\nWählen Sie eine 3-, 4- oder 5-tägige Tour von Delhi nach Agra, Jaipur und zurück. Reisen Sie in einem privaten klimatisierten Auto mit einem Reiseführer und sehen Sie die berühmtesten Denkmäler jeder Stadt, mit optional enthaltener Unterkunft.\n\n### Inklusive\n\n- Privates klimatisiertes Fahrzeug für komfortablen und exklusiven Transport während der gesamten Reise\n- Rundum-Preisgestaltung inklusive Mautgebühren, Steuern, Parkgebühren und Fahrerkosten ohne versteckte Gebühren\n- Erfahrene lokale Reiseführer in jeder Stadt für aufschlussreiche und spannende Touren\n- Eintrittsgebühren für Denkmäler für alle wichtigen Attraktionen inbegriffen (falls ausgewählt) (falls Option gewählt)\n- Unterkunft mit kostenlosem Frühstück in sorgfältig ausgewählten Hotels (falls ausgewählt)\n\n### Nicht inklusive\n\n- Mittag- und Abendessen\n- Trinkgelder",
+  "highlights": [
+   "Privater klimatisierter Transport mit Tür-zu-Tür-Service ab Delhi, Agra und Jaipur"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug für komfortablen und exklusiven Transport während der gesamten Reise\nRundum-Preisgestaltung inklusive Mautgebühren, Steuern, Parkgebühren und Fahrerkosten ohne versteckte Gebühren\nErfahrene lokale Reiseführer in jeder Stadt für aufschlussreiche und spannende Touren\nEintrittsgebühren für Denkmäler für alle wichtigen Attraktionen inbegriffen (falls ausgewählt) (falls Option gewählt)\nUnterkunft mit kostenlosem Frühstück in sorgfältig ausgewählten Hotels (falls ausgewählt)"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen\nTrinkgelder"
+  ]
+ },
+ "from-delhi-all-inclusive-3-day-private-golden": {
+  "title": "Ab Delhi: private Rundum-Sorglos-Tour des Goldenen Dreiecks, 3 Tage",
+  "metaTitle": "Ab Delhi: private Rundum-Sorglos-Tour, 3 Tage",
+  "metaDescription": "Genießen Sie eine reibungslose private Tour durch Delhi, Agra und Jaipur in 3 Tagen, mit Hotels und Transport inbegriffen.",
+  "shortDescription": "Genießen Sie eine reibungslose private Tour durch Delhi, Agra und Jaipur in 3 Tagen.",
+  "fullDescription": "Ab Delhi: private Rundum-Sorglos-Tour des Goldenen Dreiecks, 3 Tage. Genießen Sie eine reibungslose private Tour durch Delhi, Agra und Jaipur in 3 Tagen.\n\nEntdecken Sie Indiens ikonisches Goldenes Dreieck auf einer privaten 3-tägigen Tour ab Delhi mit Rundum-Sorglos-Hotels, Transport und geführten Besuchen in Delhi, Agra und Jaipur. Genießen Sie ein reibungsloses, komfortables und reichhaltiges Erlebnis.\n\n### Inklusive\n\n- Abholung und Rückfahrt vom Hotel/Flughafen\n- Privates klimatisiertes Auto für die gesamte Tour mit Fahrer\n- Professioneller Reiseführer in jeder Stadt\n- 2 Übernachtungen im Hotel (falls Option gewählt)\n- Frühstück im Hotel\n- Mineralwasserflasche\n- Alle Mautgebühren und Parkgebühren\n\n### Nicht inklusive\n\n- Mittag- und Abendessen\n- Eintrittskarten für Denkmäler\n- Jegliche persönlichen Ausgaben",
+  "highlights": [
+   "Genießen Sie eine reibungslose private Tour durch Delhi, Agra und Jaipur in 3 Tagen"
+  ],
+  "included": [
+   "Abholung und Rückfahrt vom Hotel/Flughafen\nPrivates klimatisiertes Auto für die gesamte Tour mit Fahrer\nProfessioneller Reiseführer in jeder Stadt\n2 Übernachtungen im Hotel (falls Option gewählt)\nFrühstück im Hotel\nMineralwasserflasche\nAlle Mautgebühren und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen\nEintrittskarten für Denkmäler\nJegliche persönlichen Ausgaben"
+  ]
+ },
+ "delhi-private-luxury-full-or-half-day-city-tour": {
+  "title": "Delhi: privater Luxus-Stadtausflug, ganz- oder halbtägig",
+  "metaTitle": "Delhi: privater Luxus-Stadtausflug, ganz-/halbtägig",
+  "metaDescription": "Erkunden Sie Old und New Delhi mit einem privaten Reiseführer bei diesem luxuriösen Stadtausflug im klimatisierten Fahrzeug.",
+  "shortDescription": "Erkunden Sie Old und New Delhi mit einem privaten Reiseführer",
+  "fullDescription": "Delhi: privater Luxus-Stadtausflug, ganz- oder halbtägig. Erkunden Sie Old und New Delhi mit einem privaten Reiseführer.\n\nErleben Sie die Highlights von Delhi mit Komfort und Stil auf einer privaten Luxus-Besichtigungstour im klimatisierten Auto mit einem professionellen lokalen Reiseführer. Wählen Sie je nach Zeitplan eine Halbtages- oder Ganztagesoption und entdecken Sie den faszinierenden Kontrast zwischen Old Delhi und New Delhi.\n\nBeginnen Sie mit einer bequemen Abholung von Ihrem Hotel, Flughafen oder einem anderen Ort in Delhi. Ihr Reiseführer begleitet Sie während des gesamten Erlebnisses und teilt Geschichten über Delhis Geschichte, Architektur, Kultur und Alltagsleben.\n\nFür das Old-Delhi-Erlebnis erkunden Sie die Gegend um die Jama Masjid und Chandni Chowk, eines der lebendigsten historischen Viertel der Stadt. Genießen Sie eine traditionelle Pedal-Rikscha-Fahrt durch die belebten Straßen und erleben Sie die bunten Märkte und die historische Atmosphäre von Old Delhi. Sie können auch das beeindruckende Rote Fort von außen sehen.\n\nFür das New-Delhi-Erlebnis besuchen Sie Humayuns Grabmal, ein prächtiges Mogul-Gartengrabmal und UNESCO-Welterbestätte, und halten am Lotustempel. Fahren Sie an ikonischen Wahrzeichen wie India Gate und Rashtrapati Bhavan vorbei und erleben Sie die prächtigen Alleen von New Delhi.\n\nMit der Ganztagesoption können Sie das Beste von Old und New Delhi in entspanntem Tempo kombinieren. Die Halbtagesoption ist ideal für Reisende mit begrenzter Zeit, die eine fokussierte Einführung in die Stadt wünschen.\n\nIhr privates Auto, persönlicher Reiseführer, flexibler Reiseplan und komfortables Besichtigungserlebnis machen diese Tour geeignet für Paare, Familien und kleine Gruppen.\n\n### Inklusive\n\n- Privates klimatisiertes Auto\n- Professioneller privater Reiseführer\n- Eintrittskarten für Denkmäler (falls Option gewählt)\n- Mahlzeiten (falls Option gewählt)\n- Abholung und Rückfahrt am Hotel, Flughafen oder gewählten Ort\n- Pedal-Rikscha-Fahrt in Old Delhi\n- Trinkwasser in Flaschen\n- Alle anfallenden Steuern\n\n### Nicht inklusive\n\n- Getränke\n- Persönliche Ausgaben\n- Trinkgelder",
+  "highlights": [
+   "Erkunden Sie Old und New Delhi mit einem privaten Reiseführer"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto\nProfessioneller privater Reiseführer\nEintrittskarten für Denkmäler (falls Option gewählt)\nMahlzeiten (falls Option gewählt)\nAbholung und Rückfahrt am Hotel, Flughafen oder gewählten Ort\nPedal-Rikscha-Fahrt in Old Delhi\nTrinkwasser in Flaschen\nAlle anfallenden Steuern"
+  ],
+  "notIncluded": [
+   "Getränke\nPersönliche Ausgaben\nTrinkgelder"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
