@@ -4324,6 +4324,79 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten"
   ]
  },
+ "same-day-tajmahal-tour-with-holi-celebration": {
+  "title": "Taj Mahal Tour am selben Tag mit Holi-Feier",
+  "metaTitle": "Taj Mahal und Holi-Feier an 1 Tag",
+  "metaDescription": "Auf dieser Tour können Sie Shri Krishan Janambhumi besuchen.",
+  "shortDescription": "Auf dieser Tour können Sie Shri Krishan Janambhumi besuchen.",
+  "fullDescription": "**4:00 Uhr**: Unser Fahrer trifft Sie früh am Morgen überall im NCR von Delhi, damit Sie morgens einen herrlichen Blick auf das Taj Mahal genießen und auch der Menge entgehen können (Zeiten können nach Ihrem Wunsch angepasst werden). Danach erwartet Sie eine 3-stündige Fahrt nach Agra über die Taj Expressway. Es gibt eine 30-minütige Pause zur Erfrischung (kann bei Wunsch übersprungen werden).\n\n**7:30 Uhr**: Gegen 7:30 Uhr erreichen Sie Agra, und Ihr Guide trifft Sie in der Stadt. Ihr Guide bringt Sie zu einem der sieben Weltwunder, dem Taj Mahal. Sie können den schönen und ruhigen Blick auf den Sonnenaufgang am Taj Mahal erleben. Ihr Guide erklärt Ihnen die historische Bedeutung dieses wunderschönen Ortes.\n\n**10:00 Uhr**: Während der gesamten Tour steht Ihnen 24/7-Unterstützung zur Verfügung. Nach der Besichtigung und Erkundung des Taj Mahal nehmen Sie Ihr Frühstück in einem 5-Sterne-Hotel ein (im Reiseplan enthalten). Sie können auch die lokale Küche von Agra probieren. Nach dem Frühstück können Sie, falls gewünscht, lokale Kunst und Handwerk erkunden. Nachdem Sie lokale Kunst besichtigt haben, geht es weiter zu Ihrem nächsten Ziel, dem heiligen Land des Herrn Krishna. Es gibt keinen besseren Zeitpunkt, diesen Ort zu besuchen, als während dieses farbenfrohen Festivals \"Holi\".\n\n**11:00 Uhr**: Auf dem Weg nach Mathura Vrindavan sehen Sie auch das majestätische Agra Fort von außen. Diese Fahrt dauert etwa 2 Stunden, danach erreichen Sie das Land des Herrn Krishna.\n\n**13:00 Uhr**: Bis zu diesem Zeitpunkt können Sie in die Stadt eintreten. In Mathura Vrindavan werden Sie zu verschiedenen Tempeln und Feierorten der Stadt gebracht, wie dem ISKCON-Tempel, Baikai Bihari, Prem Mandir, usw. Wie wir alle wissen, wird dieses Festival gefeiert, indem man Farben wirft und sich gegenseitig grüßt. Alles wird farbenfroh, musikalisch, und voller positiver Energie um Sie herum sein. Sie erhalten genügend Zeit, um in diesem Festival aufzugehen, und diese Erfahrung wird Ihnen Erinnerungen für ein Leben lang geben. All dies dauert etwa 4 Stunden.\nVergessen Sie nicht, viele farbenfrohe Fotos zu machen.\n\n**17:30 Uhr**: Es wird Ihnen wirklich schwerfallen, diesen Ort zu verlassen, es wird eine so erstaunliche Erfahrung für Sie sein. Am Abend fahren Sie zurück zu Ihrem Hotel oder Flughafen in Neu-Delhi, was etwa 2 Stunden dauert. Damit endet Ihre wunderbare Reise zum Taj und Mathura Vrindavan während der besten Zeit des Jahres.\n\n**19:30 Uhr**: Bis zu diesem Zeitpunkt erreichen Sie Ihren Ort, und diese Tour endet hier mit einigen süßen und farbenfrohen Erinnerungen.",
+  "highlights": [
+   "Auf dieser Tour können Sie Shri Krishan Janambhumi besuchen"
+  ],
+  "included": [
+   "Mahlzeiten: Mittagessen (nur bei der Rundum-Tour-Option)",
+   "Transport: klimatisiertes Fahrzeug für alle Transfers und Besichtigungen",
+   "Professioneller Guide: erfahrener und kompetenter lokaler Reiseführer",
+   "Eintrittsgebühren: enthalten für alle Denkmäler und Attraktionen (mit der Rundum-Tour-Option)",
+   "Abholung und Rückbringung: von Ihrem Hotel oder dem Flughafen",
+   "Steuern und Gebühren: alle anfallenden Steuern und Servicegebühren enthalten",
+   "Unterstützung: 24/7-Support während der gesamten Tour",
+   "Wasserflasche: kostenloses Wasser in Flaschen während der Reise"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben: jegliche persönlichen Ausgaben wie Trinkgeld, Souvenirs, zusätzliche Mahlzeiten oder Getränke, und Einkaufen",
+   "Optionale Aktivitäten: jegliche optionalen Erfahrungen oder Aktivitäten, die nicht im Standard-Reiseplan enthalten sind",
+   "Zuwendungen: Trinkgeld für Guide, Fahrer, oder Hotelpersonal"
+  ]
+ },
+ "delhi-taj-mahal-wildlife-sos-elephantbear": {
+  "title": "Delhi: Taj Mahal und Besuch des Wildlife SOS Elefanten-/Bärenschutzgebiets",
+  "metaTitle": "Delhi-Agra: Taj Mahal und Tierschutzgebiet",
+  "metaDescription": "Tierbegegnungen und ikonische Besichtigung von Agra an einem Tag.",
+  "shortDescription": "Tierbegegnungen und ikonische Besichtigung von Agra an einem Tag.",
+  "fullDescription": "Während der gesamten Tour steht Ihnen 24/7-Unterstützung zur Verfügung.\n\n**4:00 Uhr**: Sie treffen den Vertreter von Padma Holiday's und fahren von Ihrem Hotel in Delhi in einem komfortablen Privatfahrzeug ab.\n**7:00 Uhr**: Ankunft in Agra und Beginn Ihrer Tour mit einem Besuch des ikonischen Taj Mahal. Bewundern Sie die atemberaubende Schönheit dieses UNESCO-Weltkulturerbes, dessen Schönheit durch das frühe Morgenlicht noch verstärkt wird. Erfahren Sie von Ihrem erfahrenen Guide mehr über die Geschichte und Architektur des Taj Mahal.\n**10:00 Uhr**: Erkunden Sie das Agra Fort, ein UNESCO-Weltkulturerbe. Entdecken Sie die Geschichte dieser majestätischen Festung bei einem Besuch ihrer Paläste, Moscheen, und Audienzsäle. Bewundern Sie die atemberaubenden Ausblicke auf das Taj Mahal von den Festungsmauern.\n**12:00 Uhr**: Genießen Sie ein köstliches Mittagessen in einem lokalen Restaurant in Agra und kosten Sie die Aromen der authentischen indischen Küche.\n**13:00 Uhr**: Abfahrt zum Wildlife SOS Elefanten- und Bärenschutzgebiet, direkt außerhalb von Agra.\n**14:00 Uhr**: Ankunft im Wildlife SOS Schutzgebiet und geführte Tour. Erfahren Sie mehr über die unglaubliche Arbeit, die geleistet wird, um Elefanten und Bären aus unmenschlichen Bedingungen zu retten und zu rehabilitieren. Beobachten Sie die Elefanten und Bären, wie sie frei im Schutzgebiet umherstreifen und ihre neu gewonnene Freiheit und Sicherheit genießen.\n**16:00 Uhr**: Nehmen Sie an einer Fütterungssitzung für die Elefanten und Bären teil, kommen Sie diesen erstaunlichen Tieren näher, und erfahren Sie mehr über ihre Rettungs- und Erholungsgeschichten.\n**17:00 Uhr**: Abfahrt vom Schutzgebiet und Beginn der Rückfahrt nach Delhi.\n**20:00 Uhr**: Rückkehr nach Delhi und Absetzung an Ihrem Hotel, womit Ihre Tagestour endet.\n\nDieser detaillierte Reiseplan stellt sicher, dass Sie ausreichend Zeit haben, das Taj Mahal und das Agra Fort eingehend zu erkunden, während Sie gleichzeitig ein bedeutungsvolles und unvergessliches Erlebnis im Wildlife SOS Schutzgebiet haben.",
+  "highlights": [
+   "Tierbegegnungen und ikonische Besichtigung von Agra an einem Tag"
+  ],
+  "included": [
+   "Mahlzeiten: Mittagessen (nur bei der Rundum-Tour-Option)",
+   "Transport: klimatisiertes Fahrzeug für alle Transfers und Besichtigungen",
+   "Professioneller Guide: erfahrener und kompetenter lokaler Reiseführer",
+   "Eintrittsgebühren: enthalten für alle Denkmäler und Attraktionen (mit der Rundum-Tour- oder Tour-ohne-Unterkunft-Option)",
+   "Steuern und Gebühren: alle anfallenden Steuern und Servicegebühren enthalten",
+   "Unterstützung: 24/7-Support während der gesamten Tour",
+   "Wasserflasche"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben: jegliche persönlichen Ausgaben wie Trinkgeld, Souvenirs, zusätzliche Mahlzeiten oder Getränke, und Einkaufen",
+   "Optionale Aktivitäten: jegliche optionalen Erfahrungen oder Aktivitäten, die nicht im Standard-Reiseplan enthalten sind",
+   "Zuwendungen: Trinkgeld für Guide, Fahrer, oder Hotelpersonal",
+   "Reiseversicherung"
+  ]
+ },
+ "from-delhi-same-day-agra-tour-from-delhi-by": {
+  "title": "Von Delhi aus: Agra-Besichtigung am selben Tag mit dem Superschnellzug",
+  "metaTitle": "Delhi-Agra mit Gatimaan Express, 1 Tag",
+  "metaDescription": "Reisen Sie mit Indiens schnellstem Zug, dem Gatimaan Express.",
+  "shortDescription": "Reisen Sie mit Indiens schnellstem Zug, dem Gatimaan Express.",
+  "fullDescription": "Reisen Sie komfortabel mit Indiens schnellstem Zug, dem Gatimaan Express, und erleben Sie die Pracht des Taj Mahal und des Agra Forts. Genießen Sie ein luxuriöses 5-Sterne-Buffet-Mittagessen, bevor Sie am Abend nach Delhi zurückkehren.\n\n**Detaillierte Reiseroute**\n\n**6:30 Uhr: Hotelabholung in Delhi**\nIhr Chauffeur begrüßt Sie in der Hotellobby und bringt Sie zum Bahnhof Hazrat Nizamuddin, um den Gatimaan Express zu besteigen.\n\n**8:10 Uhr: Zugabfahrt**\nMachen Sie sich in Ihrem komfortablen Sitzwagen oder der Executive-Klasse bequem. Genießen Sie ein warmes Frühstück an Bord, während der Zug sanft Richtung Agra gleitet.\n\n**9:50 Uhr: Ankunft in Agra**\nTreffen Sie Ihren privaten Guide und Fahrer am Bahnhof Agra Cantt, um Ihre Besichtigungstour zu beginnen.\n\n**10:15 Uhr: Besuch des Taj Mahal**\nBewundern Sie das atemberaubende Taj Mahal, ein UNESCO-Weltkulturerbe und Symbol ewiger Liebe, während Ihr Guide faszinierende Geschichten über seine Geschichte und Architektur erzählt.\n\n**12:30 Uhr: Buffet-Mittagessen in einem 5-Sterne-Hotel**\nGenießen Sie ein großartiges Buffet in einem der besten 5-Sterne-Hotels Agras (zur Auswahl stehen Courtyard by Marriott, ITC Mughal, oder Taj Hotel). Erleben Sie königliche Gastfreundschaft und genießen Sie mogulische und internationale Küche.\n\n**13:45 Uhr: Erkundung des Agra Forts**\nEntdecken Sie das majestätische Agra Fort, ein Meisterwerk aus rotem Sandstein, das die Mogul-Macht und -Kunstfertigkeit zeigt.\n\n**15:00 Uhr: Besuch des lokalen Marktes (optional)**\nSchlendern Sie durch Agras lebendige Kunsthandwerksmärkte, bekannt für Marmor-Einlegearbeiten, Lederwaren, und traditionelle Kunst.\n\n**16:30 Uhr: Rückkehr zum Bahnhof**\nIhr Fahrer bringt Sie zurück zum Bahnhof Agra Cantt, um Ihren Abendzug zu besteigen.\n\n**17:50 Uhr: Abfahrt des Gatimaan Express**\nEntspannen Sie sich auf Ihrer Rückreise nach Delhi. Abendtee und Snacks werden an Bord serviert.\n\n**19:30 Uhr: Ankunft in Delhi und Hotelabsetzung**\nTreffen Sie Ihren Fahrer am Bahnhof und kehren Sie mit wertvollen Erinnerungen an Agra zu Ihrem Hotel zurück.",
+  "highlights": [
+   "Reisen Sie mit Indiens schnellstem Zug, dem Gatimaan Express"
+  ],
+  "included": [
+   "Abhol- und Rückbringservice zum Hotel",
+   "Live-Reiseführer-Service",
+   "Hin- und Rückfahrt Zugtickets (je nach Preiswahl)",
+   "Privates klimatisiertes Auto in der Stadt Agra",
+   "Kraftstoff, Parken, Zuschlag",
+   "Alle Steuern"
+  ],
+  "notIncluded": [
+   "Trinkgeld und Zuwendungen",
+   "Alle anderen persönlichen Ausgaben",
+   "Eintritt zu den Denkmälern"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
