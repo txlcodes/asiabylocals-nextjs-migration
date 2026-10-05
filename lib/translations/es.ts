@@ -1510,6 +1510,70 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier gasto personal"
   ]
  },
+ "agra-artistic-heritage-trails-guided-walking-tour": {
+  "title": "Senderos del patrimonio artístico de Agra: tour guiado a pie",
+  "metaTitle": "Agra: patrimonio artístico, tour guiado a pie",
+  "metaDescription": "Admírese con los intrincados diseños y la delicada artesanía del trabajo de incrustación en mármol.",
+  "shortDescription": "Admírese con los intrincados diseños y la delicada artesanía del trabajo de incrustación en mármol.",
+  "fullDescription": "Comience su viaje con una visita a los talleres de artesanos del mármol, reconocidos por su exquisito trabajo de incrustación en mármol. Admírese con los intrincados diseños y la delicada artesanía mientras los artesanos demuestran el proceso de creación de impresionantes obras de arte en mármol, incluyendo tableros de mesa, piezas decorativas, y maravillas arquitectónicas.\n\nA continuación, explore el mundo del bordado y el arte textil en los talleres de artesanos locales. Observe las manos hábiles de los artesanos mientras bordan intrincadamente telas con motivos tradicionales, creando textiles impresionantes que muestran el rico patrimonio textil de Agra.\n\nContinúe su exploración con una visita a los estudios de cerámica, donde alfareros expertos moldean la arcilla en hermosas piezas de cerámica utilizando técnicas ancestrales. Aprenda sobre el arte de la cerámica, desde moldear la arcilla en el torno hasta la cocción y el esmaltado, y aprecie la belleza de los objetos de cerámica hechos a mano.\n\nProfundice en el arte del tejido de alfombras, visitando los telares de artesanos de alfombras que crean exquisitas alfombras tejidas a mano. Admire los intrincados patrones, colores vibrantes, y fina artesanía que hacen de las alfombras de Agra obras de arte apreciadas.\n\nConcluya su viaje con interacciones con artistas locales especializados en pinturas en miniatura, una forma de arte tradicional que data de siglos atrás. Observe el detalle meticuloso y la narración a través del arte en miniatura, obteniendo perspectivas sobre esta fascinante tradición artística.",
+  "highlights": [
+   "Admírese con los intrincados diseños y la delicada artesanía del trabajo de incrustación en mármol"
+  ],
+  "included": [
+   "Guía turístico en vivo de habla inglesa/hindi",
+   "Visita a talleres de artesanos del mármol",
+   "Demostración del trabajo de incrustación en mármol",
+   "Interacción con artistas de pintura en miniatura"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Transporte hacia y desde el lugar de la actividad"
+  ]
+ },
+ "from-delhi-taj-mahal-day-trip-by-private-car": {
+  "title": "• Desde Delhi: excursión de un día al Taj Mahal en auto privado con guía",
+  "metaTitle": "Delhi-Taj Mahal: auto privado con guía",
+  "metaDescription": "Historia mogol: explore el enorme Fuerte de Agra de arenisca roja.",
+  "shortDescription": "Historia mogol: explore el enorme Fuerte de Agra de arenisca roja.",
+  "fullDescription": "Experimente el \"Símbolo del Amor Eterno\" y la grandeza del Imperio mogol en una excursión de lujo fluida de un día. Evite el estrés de navegar el transporte público y el caos de las filas de boletos. Nuestro tour premium en el mismo día ofrece un viaje organizado desde el corazón de Nueva Delhi hasta la histórica ciudad de Agra. Ya sea que sea un viajero solo, una pareja en una escapada romántica, o una familia explorando el patrimonio de la India, garantizamos una experiencia cómoda de puerta a puerta.\n\n**Lo más destacado del tour**\n• El Taj Mahal: sea testigo de la impresionante simetría del monumento más famoso del mundo en su mejor luz.\n• Fuerte de Agra: explore la enorme fortaleza de arenisca roja que sirvió como residencia principal de los emperadores mogoles.\n• Auténtico almuerzo mogol: saboree los sabores de Agra con un almuerzo de varios platos en un restaurante local de primer nivel.\n• Artesanos de Agra: descubra el antiguo arte de la Pietra Dura (trabajo de incrustación en mármol) practicado por descendientes de los constructores originales del Taj Mahal.\n• Ritmo flexible: este es un tour privado. Usted establece el ritmo, sin prisas, sin esperar a otros.\n\n**Itinerario (ejemplo)**\n• 6:00 a.m.: recogida privada en su hotel de Delhi/NCR o en el aeropuerto en un vehículo con clima controlado.\n• 9:30 a.m.: llegada a Agra; encuentro con su experto guía narrador aprobado por el gobierno.\n• 10:00 a.m.: exploración del Taj Mahal, una inmersión profunda en la historia, arquitectura, y símbolos ocultos del mausoleo.\n• 1:00 p.m.: pausa para el almuerzo, relájese y recárguese con un festín tradicional del norte de la India.\n• 2:30 p.m.: Fuerte de Agra, visite la \"ciudad amurallada\" y vea las cámaras privadas donde Shah Jahan pasó sus últimos años contemplando el Taj Mahal.\n• 4:00 p.m.: paradas opcionales, elija entre el \"Baby Taj\" (Itimad-ud-Daulah) o vistas del atardecer desde el otro lado del río en Mehtab Bagh.\n• 5:30 p.m.: salida hacia Delhi por la autopista Yamuna.\n• 9:00 p.m.: traslado a su hotel o lugar preferido.",
+  "highlights": [
+   "Historia mogol: explore el enorme Fuerte de Agra de arenisca roja"
+  ],
+  "included": [
+   "Transporte y viaje",
+   "Boletos de tren de ida y vuelta: boletos confirmados de clase ejecutiva (AC Chair Car/EC) o clase AC (CC) en el Gatimaan Express (Delhi-Agra-Delhi)",
+   "Comidas en el tren: desayuno de cortesía (servido en el viaje matutino a Agra) y cena (servida en el viaje vespertino de regreso a Delhi)",
+   "Auto privado con aire acondicionado: todos los traslados en Delhi y Agra son gestionados por un vehículo privado con aire acondicionado (por ejemplo, sedán o SUV)",
+   "Avistamiento y orientación",
+   "Guía privado: un guía turístico local profesional de habla inglesa, aprobado por el gobierno, en Agra",
+   "Tarifas de entrada a los monumentos: boletos de entrada para todos los monumentos principales especificados, típicamente el Taj Mahal y el Fuerte de Agra, y a veces Itimad-ud-Daulah (Baby Taj)",
+   "Recogida y traslado: traslados convenientes desde su hotel/residencia en Delhi/NCR a la estación de tren de Nizamuddin"
+  ],
+  "notIncluded": [
+   "Tarifas de cámara: tarifas específicas de videocámara en los monumentos (las cámaras fotográficas generalmente son gratuitas)",
+   "Propinas: propinas para el conductor, guía, o personal del tren",
+   "Gastos personales: recuerdos, compras, u otras compras personales"
+  ]
+ },
+ "delhiagrajaipur-private-one-way-premium-car": {
+  "title": "Delhi/Agra/Jaipur: traslado privado de ida en auto premium",
+  "metaTitle": "Delhi/Agra/Jaipur: traslado de ida premium",
+  "metaDescription": "Traslado privado de ida entre Delhi, Agra, y Jaipur.",
+  "shortDescription": "Traslado privado de ida entre Delhi, Agra, y Jaipur.",
+  "fullDescription": "**Viaje con comodidad, seguridad, y flexibilidad, a su manera**\n\nEvite el estrés de negociar con taxistas o navegar el transporte público. Nuestro servicio de traslado privado de ida le ofrece un viaje cómodo, confiable, y seguro entre Delhi, Agra, y Jaipur, así como traslados convenientes de aeropuerto a hotel o de hotel a aeropuerto. Ya sea que sea un viajero solo, una pareja, una familia, o un grupo, le proporcionamos el vehículo adecuado para sus necesidades, todos completamente climatizados y bien mantenidos.\n\n**Elija la ruta que se adapte a su viaje**\nTiene la flexibilidad de elegir entre múltiples opciones de traslado:\n\nDelhi, Agra: ideal para viajeros que se dirigen a ver el Taj Mahal o que regresan después de su visita.\n\nDelhi, Jaipur: la forma perfecta de conectar la capital de la India con la Ciudad Rosa.\n\nAgra, Jaipur: un viaje fluido entre dos destinos patrimoniales icónicos.\n\nTraslados aeropuerto-hotel: disponibles para los aeropuertos de Delhi, Jaipur, y Agra, con servicio personalizado de bienvenida.\n\nNo importa qué ruta elija, disfrutará del mismo nivel de servicio: recogida puntual, asientos cómodos, y conveniencia de puerta a puerta.\n\n**Por qué los viajeros aman este servicio**\n\nPrivado y sin complicaciones: su vehículo está reservado solo para usted, sin compartir con extraños.\n\nRecogida y traslado flexibles: venimos a su lugar elegido, hotel, aeropuerto, estación de tren, o una dirección específica.\n\nVehículos con aire acondicionado cómodos: todos los autos son modernos, limpios, y con aire acondicionado para un viaje agradable.\n\nConductores profesionales: conductores experimentados de habla inglesa que conocen las mejores rutas.\n\nGarantía de precio fijo: sin cargos ocultos ni sorpresas de último momento.\n\n**Perfecto para cada viajero**\nYa sea que esté comenzando un tour del Triángulo Dorado, tomando un vuelo, o simplemente viajando entre ciudades, nuestro servicio garantiza que llegue a su destino relajado y a tiempo. También puede combinar su traslado con paradas de avistamiento, simplemente háganoslo saber con antelación y personalizaremos la ruta para usted.\n\n**Cómo funciona**\n\nSeleccione su ruta de traslado deseada entre las opciones disponibles.\n\nElija su hora y lugar de recogida preferidos.\n\nConozca a su conductor en el horario programado, lo ayudará con su equipaje.\n\nRelájese y disfrute de su viaje en un vehículo con aire acondicionado cómodo.\n\n**Información adicional**\n\nDisponibilidad 24/7 para todos los traslados.\n\nAsientos para niños disponibles a pedido.\n\nVehículos más grandes disponibles para grupos.\n\nSe pueden agregar paradas de avistamiento opcionales con costo adicional.\n\nReserve ahora y disfrute de un viaje fluido, cómodo, y sin estrés, ya sea de Delhi a Agra, de Agra a Jaipur, de Jaipur a Delhi, o un traslado conveniente al aeropuerto. Su comodidad y tiempo importan, y nos asegeramos de que cada viaje sea tan fácil y agradable como sea posible.",
+  "highlights": [
+   "Traslado privado de ida entre Delhi, Agra, y Jaipur"
+  ],
+  "included": [
+   "Vehículo privado con aire acondicionado",
+   "Conductor-guía de habla inglesa",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Comidas o bocadillos",
+   "Propinas"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
