@@ -27510,6 +27510,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Repas ou achats de nourriture\nPourboires pour le guide et le chauffeur"
   ]
  },
+ "6-day-delhi-agra-jaipur-ranthambore-safari": {
+  "title": "Aventure de 6 jours Delhi, Agra, Jaipur et safari à Ranthambore",
+  "metaTitle": "Aventure de 6 jours Delhi, Agra, Jaipur, Ranthambore",
+  "metaDescription": "Taj Mahal et Fort d'Agra : monuments moghols emblématiques, lors de cette aventure de 6 jours avec safari.",
+  "shortDescription": "Taj Mahal et Fort d'Agra : monuments moghols emblématiques",
+  "fullDescription": "Aventure de 6 jours Delhi, Agra, Jaipur et safari à Ranthambore. Taj Mahal et Fort d'Agra : monuments moghols emblématiques.\n\nDécouvrez le Triangle d'Or de l'Inde et sa faune lors d'une aventure de 6 jours. Explorez Delhi, Agra, Jaipur, et profitez d'un palpitant safari aux tigres à Ranthambore.\n\n### Ce qui est inclus\n\n- Guide touristique professionnel\n- Voiture climatisée privée pour toute l'activité\n- Eau minérale en bouteille\n- Hébergement en hôtel 3 étoiles\n- Safari en jeep\n- Petit-déjeuner à l'hôtel\n- Tous les péages et frais de stationnement\n\n### Non inclus\n\n- Billets d'entrée aux monuments\n- Déjeuner et dîner\n- Toute dépense personnelle",
+  "highlights": [
+   "Taj Mahal et Fort d'Agra : monuments moghols emblématiques"
+  ],
+  "included": [
+   "Guide touristique professionnel\nVoiture climatisée privée pour toute l'activité\nEau minérale en bouteille\nHébergement en hôtel 3 étoiles\nSafari en jeep\nPetit-déjeuner à l'hôtel\nTous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Billets d'entrée aux monuments\nDéjeuner et dîner\nToute dépense personnelle"
+  ]
+ },
+ "delhi-old-delhi-and-new-delhi-private-tour": {
+  "title": "Delhi : circuit privé d'Old Delhi et New Delhi",
+  "metaTitle": "Delhi : circuit privé d'Old Delhi et New Delhi",
+  "metaDescription": "Admirez l'inoubliable exploration de Qutub Minar lors de ce circuit privé d'une journée complète à Delhi.",
+  "shortDescription": "Admirez l'inoubliable exploration de Qutub Minar",
+  "fullDescription": "Delhi : circuit privé d'Old Delhi et New Delhi. Admirez l'inoubliable exploration de Qutub Minar.\n\nDécouvrez le meilleur d'Old et New Delhi lors de ce circuit privé d'une journée complète, combinant la riche histoire, la culture diversifiée et l'architecture remarquable de la ville.\n\nCommencez votre journée par une prise en charge pratique à votre hôtel, à l'aéroport ou au lieu de votre choix à Delhi, Gurugram, Noida, Ghaziabad ou Faridabad. Rencontrez votre chauffeur professionnel et votre guide privé optionnel avant de partir dans un véhicule confortable et climatisé.\n\nVotre voyage commence à Old Delhi, où vous visiterez la magnifique Jama Masjid, l'une des plus grandes et des plus belles mosquées d'Inde, construite par l'empereur moghol Shah Jahan. Admirez son impressionnante architecture en grès rouge et marbre tout en découvrant son histoire fascinante.\n\nPoursuivez vers les ruelles animées de Chandni Chowk, l'un des marchés les plus anciens et les plus animés de Delhi. Découvrez l'atmosphère vibrante en flânant à travers des bazars colorés remplis d'épices, de textiles, de bijoux et de douceurs traditionnelles. Vous aurez également l'occasion de goûter à l'authentique street food indienne (optionnel) et de découvrir les véritables saveurs de Delhi.\n\nEnsuite, rendez-vous à New Delhi pour explorer l'élégant tombeau de Humayun, site du patrimoine mondial de l'UNESCO et l'un des plus beaux exemples d'architecture moghole. Entouré de jardins magnifiquement paysagers, ce monument magnifique a inspiré la conception du célèbre Taj Mahal.\n\nSi vous avez sélectionné l'option incluant le déjeuner, savourez un délicieux repas dans un restaurant local soigneusement sélectionné proposant des spécialités indiennes. Vous pouvez également choisir d'explorer des cafés locaux ou de continuer à déguster la célèbre street food de Delhi.\n\nContinuez vers l'emblématique Qutub Minar, un autre site du patrimoine mondial de l'UNESCO et le plus haut minaret en brique du monde. Découvrez son remarquable architecture indo-islamique, ses sculptures de pierre complexes et le mystérieux pilier de fer qui est resté sans rouille pendant des siècles.\n\nVotre dernier arrêt est le superbe Temple du Lotus, l'un des monuments modernes les plus reconnaissables de Delhi. En forme de fleur de lotus en éclosion, cette maison d'adoration bahá'íe accueille des visiteurs de toutes les confessions et offre un environnement paisible pour un recueillement tranquille.\n\nAprès une journée enrichissante remplie d'histoire, de culture, d'architecture et d'expériences locales, détendez-vous pendant votre trajet confortable de retour à votre hôtel, à l'aéroport ou au lieu de votre choix à Delhi et dans les zones environnantes. Ce circuit mémorable offre une introduction parfaite au patrimoine incroyable et à l'esprit vibrant de la capitale de l'Inde.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose\n- Circuit privé\n- Guide en direct\n- Frais d'entrée aux monuments (si l'option est sélectionnée)\n- Déjeuner dans un restaurant local (si l'option est sélectionnée)\n\n### Non inclus\n\n- Frais d'entrée aux monuments (si l'option n'est pas sélectionnée)\n- Déjeuner dans un restaurant local (si l'option n'est pas sélectionnée)",
+  "highlights": [
+   "Admirez l'inoubliable exploration de Qutub Minar"
+  ],
+  "included": [
+   "Prise en charge et dépose\nCircuit privé\nGuide en direct\nFrais d'entrée aux monuments (si l'option est sélectionnée)\nDéjeuner dans un restaurant local (si l'option est sélectionnée)"
+  ],
+  "notIncluded": [
+   "Frais d'entrée aux monuments (si l'option n'est pas sélectionnée)\nDéjeuner dans un restaurant local (si l'option n'est pas sélectionnée)"
+  ]
+ },
+ "from-delhi-delhi-agra-jaipur-tour-for-solo-female": {
+  "title": "Depuis Delhi : circuit Delhi-Agra-Jaipur pour voyageuse solo",
+  "metaTitle": "Depuis Delhi : circuit Delhi-Agra-Jaipur pour solo féminin",
+  "metaDescription": "Émerveillez-vous devant le Taj Mahal au lever du soleil avec une guide agréée, lors de ce circuit de 4 jours.",
+  "shortDescription": "Émerveillez-vous devant le Taj Mahal au lever du soleil avec une guide agréée",
+  "fullDescription": "Depuis Delhi : circuit Delhi-Agra-Jaipur pour voyageuse solo. Émerveillez-vous devant le Taj Mahal au lever du soleil avec une guide agréée.\n\nExplorez Agra, Jaipur et Delhi lors d'un circuit guidé de 4 jours. Visitez le Taj Mahal au lever du soleil, explorez le Fort d'Agra et découvrez les forts et palais de Jaipur.\n\n### Ce qui est inclus\n\n- Prise en charge à l'hôtel/aéroport de Delhi\n- Transfert vers Agra\n- Circuit du Fort d'Agra\n- Visite du Taj Mahal au lever du soleil\n- Trajet vers Jaipur\n- Visites de Jaipur\n- Trajet vers Delhi\n- Visites de Delhi\n- Dépose à l'hôtel/aéroport de Delhi\n- Hébergement (si l'option est choisie)\n- Frais d'entrée (si l'option est choisie)\n\n### Non inclus\n\n- Repas et boissons\n- Dépenses personnelles\n- Pourboires (recommandés)",
+  "highlights": [
+   "Émerveillez-vous devant le Taj Mahal au lever du soleil avec une guide agréée"
+  ],
+  "included": [
+   "Prise en charge à l'hôtel/aéroport de Delhi\nTransfert vers Agra\nCircuit du Fort d'Agra\nVisite du Taj Mahal au lever du soleil\nTrajet vers Jaipur\nVisites de Jaipur\nTrajet vers Delhi\nVisites de Delhi\nDépose à l'hôtel/aéroport de Delhi\nHébergement (si l'option est choisie)\nFrais d'entrée (si l'option est choisie)"
+  ],
+  "notIncluded": [
+   "Repas et boissons\nDépenses personnelles\nPourboires (recommandés)"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

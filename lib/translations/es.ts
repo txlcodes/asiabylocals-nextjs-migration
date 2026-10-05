@@ -27510,6 +27510,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comidas o compras de alimentos\nPropinas para el guía y el conductor"
   ]
  },
+ "6-day-delhi-agra-jaipur-ranthambore-safari": {
+  "title": "Aventura de 6 días Delhi, Agra, Jaipur y safari en Ranthambore",
+  "metaTitle": "Aventura de 6 días Delhi, Agra, Jaipur, Ranthambore",
+  "metaDescription": "Taj Mahal y Fuerte de Agra: monumentos mogoles emblemáticos, en esta aventura de 6 días con safari.",
+  "shortDescription": "Taj Mahal y Fuerte de Agra: monumentos mogoles emblemáticos",
+  "fullDescription": "Aventura de 6 días Delhi, Agra, Jaipur y safari en Ranthambore. Taj Mahal y Fuerte de Agra: monumentos mogoles emblemáticos.\n\nExperimente el Triángulo Dorado de la India y su vida silvestre en una aventura de 6 días. Explore Delhi, Agra, Jaipur, y disfrute de un emocionante safari de tigres en Ranthambore.\n\n### Qué incluye\n\n- Guía turístico profesional\n- Coche privado con aire acondicionado para toda la actividad\n- Botella de agua mineral\n- Alojamiento en hotel de 3 estrellas\n- Safari en jeep\n- Desayuno en el hotel\n- Todos los peajes y el estacionamiento\n\n### No incluye\n\n- Entradas a monumentos\n- Almuerzo y cena\n- Cualquier gasto personal",
+  "highlights": [
+   "Taj Mahal y Fuerte de Agra: monumentos mogoles emblemáticos"
+  ],
+  "included": [
+   "Guía turístico profesional\nCoche privado con aire acondicionado para toda la actividad\nBotella de agua mineral\nAlojamiento en hotel de 3 estrellas\nSafari en jeep\nDesayuno en el hotel\nTodos los peajes y el estacionamiento"
+  ],
+  "notIncluded": [
+   "Entradas a monumentos\nAlmuerzo y cena\nCualquier gasto personal"
+  ]
+ },
+ "delhi-old-delhi-and-new-delhi-private-tour": {
+  "title": "Delhi: tour privado por Old Delhi y New Delhi",
+  "metaTitle": "Delhi: tour privado por Old Delhi y New Delhi",
+  "metaDescription": "Admire la inolvidable exploración de Qutub Minar en este tour privado de día completo en Delhi.",
+  "shortDescription": "Admire la inolvidable exploración de Qutub Minar",
+  "fullDescription": "Delhi: tour privado por Old Delhi y New Delhi. Admire la inolvidable exploración de Qutub Minar.\n\nExperimente lo mejor de Old y New Delhi en este tour privado de día completo, combinando la rica historia, diversa cultura y notable arquitectura de la ciudad.\n\nComience su día con una cómoda recogida en su hotel, aeropuerto o lugar preferido en Delhi, Gurugram, Noida, Ghaziabad o Faridabad. Conozca a su conductor profesional y guía privado opcional antes de partir en un vehículo cómodo con aire acondicionado.\n\nSu viaje comienza en Old Delhi, donde visitará la magnífica Mezquita Jama, una de las mezquitas más grandes y hermosas de la India, construida por el emperador mogol Shah Jahan. Admire su impresionante arquitectura de arenisca roja y mármol mientras aprende sobre su fascinante historia.\n\nContinúe hacia las bulliciosas callejuelas de Chandni Chowk, uno de los mercados más antiguos y concurridos de Delhi. Experimente el ambiente vibrante mientras pasea por coloridos bazares llenos de especias, textiles, joyas y dulces tradicionales. También tendrá la oportunidad de probar auténtica comida callejera india (opcional) y experimentar los verdaderos sabores de Delhi.\n\nA continuación, viaje a New Delhi para explorar la elegante Tumba de Humayun, un sitio Patrimonio de la Humanidad de la UNESCO y uno de los mejores ejemplos de arquitectura mogol. Rodeado de hermosos jardines paisajísticos, este magnífico monumento inspiró el diseño del mundialmente famoso Taj Mahal.\n\nSi ha seleccionado la opción con almuerzo incluido, disfrute de una deliciosa comida en un restaurante local cuidadosamente seleccionado que ofrece especialidades indias. Alternativamente, puede explorar cafés locales o continuar probando la famosa comida callejera de Delhi.\n\nContinúe hacia el icónico Qutub Minar, otro sitio Patrimonio de la Humanidad de la UNESCO y el minarete de ladrillo más alto del mundo. Descubra su notable arquitectura indoislámica, intrincados tallados en piedra y el misterioso Pilar de Hierro que ha permanecido libre de óxido durante siglos.\n\nSu última parada es el impresionante Templo del Loto, uno de los monumentos modernos más reconocibles de Delhi. Con forma de flor de loto en flor, esta Casa de Adoración Bahá'í da la bienvenida a visitantes de todas las creencias y ofrece un ambiente pacífico para la reflexión tranquila.\n\nDespués de un día enriquecedor lleno de historia, cultura, arquitectura y experiencias locales, relájese durante su cómodo trayecto de regreso a su hotel, aeropuerto o lugar preferido en Delhi y zonas cercanas. Este tour memorable ofrece la introducción perfecta al increíble patrimonio y espíritu vibrante de la capital de la India.\n\n### Qué incluye\n\n- Recogida y traslado\n- Tour privado\n- Guía en vivo\n- Tarifas de entrada a monumentos (si se selecciona la opción)\n- Almuerzo en un restaurante local (si se selecciona la opción)\n\n### No incluye\n\n- Tarifas de entrada a monumentos (si no se selecciona la opción)\n- Almuerzo en un restaurante local (si no se selecciona la opción)",
+  "highlights": [
+   "Admire la inolvidable exploración de Qutub Minar"
+  ],
+  "included": [
+   "Recogida y traslado\nTour privado\nGuía en vivo\nTarifas de entrada a monumentos (si se selecciona la opción)\nAlmuerzo en un restaurante local (si se selecciona la opción)"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a monumentos (si no se selecciona la opción)\nAlmuerzo en un restaurante local (si no se selecciona la opción)"
+  ]
+ },
+ "from-delhi-delhi-agra-jaipur-tour-for-solo-female": {
+  "title": "Desde Delhi: tour Delhi-Agra-Jaipur para viajera solo",
+  "metaTitle": "Desde Delhi: tour Delhi-Agra-Jaipur para viajera solo",
+  "metaDescription": "Maravíllese con el Taj Mahal al amanecer con una guía con licencia, en este tour de 4 días.",
+  "shortDescription": "Maravíllese con el Taj Mahal al amanecer con una guía con licencia",
+  "fullDescription": "Desde Delhi: tour Delhi-Agra-Jaipur para viajera solo. Maravíllese con el Taj Mahal al amanecer con una guía con licencia.\n\nExplore Agra, Jaipur y Delhi en un tour guiado de 4 días. Visite el Taj Mahal al amanecer, explore el Fuerte de Agra y descubra los fuertes y palacios de Jaipur.\n\n### Qué incluye\n\n- Recogida en el hotel/aeropuerto de Delhi\n- Traslado a Agra\n- Tour del Fuerte de Agra\n- Visita al Taj Mahal al amanecer\n- Viaje a Jaipur\n- Visitas en Jaipur\n- Viaje a Delhi\n- Visitas en Delhi\n- Traslado al hotel/aeropuerto de Delhi\n- Alojamiento (si se elige la opción)\n- Tarifas de entrada (si se elige la opción)\n\n### No incluye\n\n- Comidas y bebidas\n- Gastos personales\n- Propinas (recomendadas)",
+  "highlights": [
+   "Maravíllese con el Taj Mahal al amanecer con una guía con licencia"
+  ],
+  "included": [
+   "Recogida en el hotel/aeropuerto de Delhi\nTraslado a Agra\nTour del Fuerte de Agra\nVisita al Taj Mahal al amanecer\nViaje a Jaipur\nVisitas en Jaipur\nViaje a Delhi\nVisitas en Delhi\nTraslado al hotel/aeropuerto de Delhi\nAlojamiento (si se elige la opción)\nTarifas de entrada (si se elige la opción)"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas\nGastos personales\nPropinas (recomendadas)"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",

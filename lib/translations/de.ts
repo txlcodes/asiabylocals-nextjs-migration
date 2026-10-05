@@ -27510,6 +27510,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten oder Essenskäufe\nTrinkgelder für Führer und Fahrer"
   ]
  },
+ "6-day-delhi-agra-jaipur-ranthambore-safari": {
+  "title": "6-tägiges Abenteuer: Delhi, Agra, Jaipur und Ranthambore-Safari",
+  "metaTitle": "6-tägiges Abenteuer Delhi, Agra, Jaipur, Ranthambore",
+  "metaDescription": "Taj Mahal und Agra-Fort: ikonische Mogul-Wahrzeichen, bei diesem 6-tägigen Abenteuer mit Safari.",
+  "shortDescription": "Taj Mahal und Agra-Fort: ikonische Mogul-Wahrzeichen",
+  "fullDescription": "6-tägiges Abenteuer: Delhi, Agra, Jaipur und Ranthambore-Safari. Taj Mahal und Agra-Fort: ikonische Mogul-Wahrzeichen.\n\nErleben Sie Indiens Goldenes Dreieck und die Tierwelt bei einem 6-tägigen Abenteuer. Erkunden Sie Delhi, Agra, Jaipur und genießen Sie eine spannende Ranthambore-Tiger-Safari.\n\n### Inklusive\n\n- Professioneller Reiseführer\n- Privates klimatisiertes Auto für die gesamte Aktivität\n- Mineralwasserflasche\n- Unterkunft im 3-Sterne-Hotel\n- Jeep-Safari\n- Frühstück im Hotel\n- Alle Mautgebühren und Parkgebühren\n\n### Nicht inklusive\n\n- Eintrittskarten für Denkmäler\n- Mittag- und Abendessen\n- Jegliche persönlichen Ausgaben",
+  "highlights": [
+   "Taj Mahal und Agra-Fort: ikonische Mogul-Wahrzeichen"
+  ],
+  "included": [
+   "Professioneller Reiseführer\nPrivates klimatisiertes Auto für die gesamte Aktivität\nMineralwasserflasche\nUnterkunft im 3-Sterne-Hotel\nJeep-Safari\nFrühstück im Hotel\nAlle Mautgebühren und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für Denkmäler\nMittag- und Abendessen\nJegliche persönlichen Ausgaben"
+  ]
+ },
+ "delhi-old-delhi-and-new-delhi-private-tour": {
+  "title": "Delhi: privater Ausflug durch Old Delhi und New Delhi",
+  "metaTitle": "Delhi: privater Ausflug Old Delhi und New Delhi",
+  "metaDescription": "Bewundern Sie die unvergessliche Erkundung des Qutub Minar bei diesem privaten Ganztagesausflug in Delhi.",
+  "shortDescription": "Bewundern Sie die unvergessliche Erkundung des Qutub Minar",
+  "fullDescription": "Delhi: privater Ausflug durch Old Delhi und New Delhi. Bewundern Sie die unvergessliche Erkundung des Qutub Minar.\n\nErleben Sie das Beste von Old und New Delhi bei diesem privaten Ganztagesausflug, der die reiche Geschichte, vielfältige Kultur und bemerkenswerte Architektur der Stadt verbindet.\n\nBeginnen Sie Ihren Tag mit einer bequemen Abholung von Ihrem Hotel, Flughafen oder bevorzugten Ort in Delhi, Gurugram, Noida, Ghaziabad oder Faridabad. Treffen Sie Ihren professionellen Fahrer und optionalen privaten Reiseführer, bevor Sie in einem komfortablen klimatisierten Fahrzeug aufbrechen.\n\nIhre Reise beginnt in Old Delhi, wo Sie die prächtige Jama Masjid besuchen, eine der größten und schönsten Moscheen Indiens, erbaut vom Mogulkaiser Shah Jahan. Bewundern Sie ihre beeindruckende Architektur aus rotem Sandstein und Marmor, während Sie mehr über ihre faszinierende Geschichte erfahren.\n\nWeiter geht es zu den belebten Gassen von Chandni Chowk, einem der ältesten und belebtesten Märkte Delhis. Erleben Sie die lebendige Atmosphäre, während Sie durch bunte Basare schlendern, gefüllt mit Gewürzen, Textilien, Schmuck und traditionellen Süßigkeiten. Sie haben auch die Gelegenheit, authentisches indisches Street Food zu probieren (optional) und die wahren Aromen von Delhi zu erleben.\n\nAls Nächstes reisen Sie nach New Delhi, um das elegante Humayuns Grabmal zu erkunden, eine UNESCO-Welterbestätte und eines der schönsten Beispiele der Mogul-Architektur. Umgeben von wunderschön gestalteten Gärten inspirierte dieses prächtige Denkmal das Design des weltberühmten Taj Mahal.\n\nWenn Sie die Option mit Mittagessen gewählt haben, genießen Sie eine köstliche Mahlzeit in einem sorgfältig ausgewählten lokalen Restaurant mit indischen Spezialitäten. Alternativ können Sie lokale Cafés erkunden oder weiterhin Delhis berühmtes Street Food probieren.\n\nWeiter geht es zum ikonischen Qutub Minar, einer weiteren UNESCO-Welterbestätte und dem höchsten Backsteinminarett der Welt. Entdecken Sie seine bemerkenswerte indo-islamische Architektur, kunstvolle Steinschnitzereien und die geheimnisvolle Eiserne Säule, die seit Jahrhunderten rostfrei geblieben ist.\n\nIhr letzter Halt ist der atemberaubende Lotustempel, eines der bekanntesten modernen Wahrzeichen Delhis. In Form einer blühenden Lotusblume geformt, heißt dieses Bahá'í-Gotteshaus Besucher aller Glaubensrichtungen willkommen und bietet eine friedliche Umgebung für stille Besinnung.\n\nNach einem bereichernden Tag voller Geschichte, Kultur, Architektur und lokaler Erlebnisse entspannen Sie sich während Ihrer komfortablen Rückfahrt zu Ihrem Hotel, Flughafen oder bevorzugten Ort in Delhi und Umgebung. Diese unvergessliche Tour bietet die perfekte Einführung in das unglaubliche Erbe und den lebendigen Geist der indischen Hauptstadt.\n\n### Inklusive\n\n- Abholung und Rückfahrt\n- Private Tour\n- Live-Reiseführer\n- Eintrittsgebühren für Denkmäler (falls Option gewählt)\n- Mittagessen in einem lokalen Restaurant (falls Option gewählt)\n\n### Nicht inklusive\n\n- Eintrittsgebühren für Denkmäler (falls Option nicht gewählt)\n- Mittagessen in einem lokalen Restaurant (falls Option nicht gewählt)",
+  "highlights": [
+   "Bewundern Sie die unvergessliche Erkundung des Qutub Minar"
+  ],
+  "included": [
+   "Abholung und Rückfahrt\nPrivate Tour\nLive-Reiseführer\nEintrittsgebühren für Denkmäler (falls Option gewählt)\nMittagessen in einem lokalen Restaurant (falls Option gewählt)"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Denkmäler (falls Option nicht gewählt)\nMittagessen in einem lokalen Restaurant (falls Option nicht gewählt)"
+  ]
+ },
+ "from-delhi-delhi-agra-jaipur-tour-for-solo-female": {
+  "title": "Ab Delhi: Delhi-Agra-Jaipur-Tour für alleinreisende Frauen",
+  "metaTitle": "Ab Delhi: Delhi-Agra-Jaipur-Tour für Soloreisende",
+  "metaDescription": "Bestaunen Sie das Taj Mahal bei Sonnenaufgang mit einer lizenzierten Reiseführerin, bei dieser 4-tägigen Tour.",
+  "shortDescription": "Bestaunen Sie das Taj Mahal bei Sonnenaufgang mit einer lizenzierten Reiseführerin",
+  "fullDescription": "Ab Delhi: Delhi-Agra-Jaipur-Tour für alleinreisende Frauen. Bestaunen Sie das Taj Mahal bei Sonnenaufgang mit einer lizenzierten Reiseführerin.\n\nErkunden Sie Agra, Jaipur und Delhi auf einer 4-tägigen geführten Tour. Besuchen Sie das Taj Mahal bei Sonnenaufgang, erkunden Sie das Agra-Fort und entdecken Sie Jaipurs Festungen und Paläste.\n\n### Inklusive\n\n- Abholung vom Hotel/Flughafen Delhi\n- Transfer nach Agra\n- Agra-Fort-Tour\n- Besuch des Taj Mahal bei Sonnenaufgang\n- Fahrt nach Jaipur\n- Jaipur-Besichtigung\n- Fahrt nach Delhi\n- Delhi-Besichtigung\n- Abgabe am Hotel/Flughafen Delhi\n- Unterkunft (falls Option gewählt)\n- Eintrittsgebühren (falls Option gewählt)\n\n### Nicht inklusive\n\n- Mahlzeiten und Getränke\n- Persönliche Ausgaben\n- Trinkgelder (empfohlen)",
+  "highlights": [
+   "Bestaunen Sie das Taj Mahal bei Sonnenaufgang mit einer lizenzierten Reiseführerin"
+  ],
+  "included": [
+   "Abholung vom Hotel/Flughafen Delhi\nTransfer nach Agra\nAgra-Fort-Tour\nBesuch des Taj Mahal bei Sonnenaufgang\nFahrt nach Jaipur\nJaipur-Besichtigung\nFahrt nach Delhi\nDelhi-Besichtigung\nAbgabe am Hotel/Flughafen Delhi\nUnterkunft (falls Option gewählt)\nEintrittsgebühren (falls Option gewählt)"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke\nPersönliche Ausgaben\nTrinkgelder (empfohlen)"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
