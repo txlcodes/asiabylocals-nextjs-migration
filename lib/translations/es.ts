@@ -26746,6 +26746,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier gasto personal"
   ]
  },
+ "6-day-golden-triangle-ranthambore-tiger-safari": {
+  "title": "Triángulo Dorado de 6 días y safari de tigres de Ranthambore desde Delhi",
+  "metaTitle": "Triángulo Dorado 6 días y safari de tigres de Ranthambore",
+  "metaDescription": "Lugares de fama mundial del Triángulo Dorado de la India con un safari de tigres de Ranthambore.",
+  "shortDescription": "Lugares de fama mundial del Triángulo Dorado de la India con un safari de tigres de Ranthambore.",
+  "fullDescription": "Triángulo Dorado de 6 días y safari de tigres de Ranthambore desde Delhi. Lugares de fama mundial del Triángulo Dorado de la India con un safari de tigres de Ranthambore.\n\nExperimente el famoso Triángulo Dorado de la India en un tour de 6 días desde Delhi, incluyendo el Taj Mahal, los majestuosos fuertes de Jaipur y un emocionante safari de tigres de Ranthambore con hoteles incluidos.\n\n### Qué incluye\n\n- Recogida con una bienvenida tradicional india y traslado fácil\n- Vehículo privado con aire acondicionado para el tour de 6 días\n- Guías locales profesionales aprobados por el gobierno\n- Alojamiento (si se selecciona la opción)\n- Visitas según el itinerario en Delhi, Agra y Jaipur\n- Un safari compartido o privado por la jungla en el Parque Nacional de Ranthambore\n- Todos los gastos de combustible, peajes, estacionamiento y dietas del conductor\n- Asistencia 24/7 durante el viaje\n- Agua potable embotellada\n\n### No incluye\n\n- Propinas y gratificaciones\n- Comidas y bebidas\n- Tarifas de entrada a monumentos\n- Gastos personales\n- Actividades opcionales no mencionadas en el itinerario",
+  "highlights": [
+   "Lugares de fama mundial del Triángulo Dorado de la India con un safari de tigres de Ranthambore"
+  ],
+  "included": [
+   "Recogida con una bienvenida tradicional india y traslado fácil\nVehículo privado con aire acondicionado para el tour de 6 días\nGuías locales profesionales aprobados por el gobierno\nAlojamiento (si se selecciona la opción)\nVisitas según el itinerario en Delhi, Agra y Jaipur\nUn safari compartido o privado por la jungla en el Parque Nacional de Ranthambore\nTodos los gastos de combustible, peajes, estacionamiento y dietas del conductor\nAsistencia 24/7 durante el viaje\nAgua potable embotellada"
+  ],
+  "notIncluded": [
+   "Propinas y gratificaciones\nComidas y bebidas\nTarifas de entrada a monumentos\nGastos personales\nActividades opcionales no mencionadas en el itinerario"
+  ]
+ },
+ "delhi-night-evening-tour": {
+  "title": "New Delhi: tour nocturno de Delhi - 4 h",
+  "metaTitle": "New Delhi: tour nocturno de Delhi - 4 h",
+  "metaDescription": "Tour nocturno de Delhi de 4 horas en vehículo con aire acondicionado, descubra los monumentos iluminados de noche.",
+  "shortDescription": "Tour nocturno de Delhi de 4 horas en vehículo con aire acondicionado",
+  "fullDescription": "New Delhi: tour nocturno de Delhi - 4 h. Tour nocturno de Delhi de 4 horas en vehículo con aire acondicionado.\n\nNuestro conductor se reunirá con usted en su hotel/aeropuerto a las 18:00 (0600 PM) (recogida flexible en el aeropuerto) y comenzará su tour de avistamiento de los monumentos de Delhi. El atractivo de la capital de la India, Delhi, adquiere una dimensión completamente nueva por la noche. Un viaje nocturno de 4 horas ofrece una vista relajante de las amplias avenidas de Delhi, que se vuelven aún más encantadoras y acogedoras cuando el cielo estrellado despejado brilla sobre los monumentos.\n\nUn agradable paseo para explorar India Gate, el Palacio Presidencial (paso en coche), el Gurdwara Bangla Sahib y el Templo Shri Laxmi Narayan (Birla Mandir) o el Templo ISKCON, en Delhi, antes de un recorrido por Delhi de noche. Connaught Place, uno de los mercados más antiguos del Delhi de Lutyens, es una visita obligada.\n\nLos paseantes nocturnos inundan India Gate por la noche. El destino final será el Gurdwara Bangla Sahib, un santuario sij históricamente significativo. Después de ver todos los sitios, el conductor lo llevará de regreso a su hotel o aeropuerto. Termine su noche en Delhi con maravillosos recuerdos. El conductor lo dejará en el aeropuerto o en el hotel en Delhi.\n\nNOTA:\n1) En invierno, puede haber algunos sitios que cierren antes o que no se puedan ver debido a la niebla.\n2) La Casa Presidencial (paso en coche): no se permite fotografía ni parada debido al protocolo de seguridad presidencial.\n3) En invierno, los templos cierran a las 19:30. Y en verano: a las 20:30.\n\n### Qué incluye\n\n- Todos los peajes, impuestos, estacionamiento, combustible, dietas del conductor\n- Vehículo con aire acondicionado (no compartido)\n- Servicio de recogida y traslado al hotel o aeropuerto\n- Guía turístico de habla inglesa en Delhi\n- Botella de agua mineral empaquetada\n\n### No incluye\n\n- Cualquier entrada a monumentos\n- Cualquier comida y bebida no incluida en este precio\n- Cualquier propina, souvenir o foto (disponibles para comprar)\n- Cualquier gasto personal",
+  "highlights": [
+   "Tour nocturno de Delhi de 4 horas en vehículo con aire acondicionado"
+  ],
+  "included": [
+   "Todos los peajes, impuestos, estacionamiento, combustible, dietas del conductor\nVehículo con aire acondicionado (no compartido)\nServicio de recogida y traslado al hotel o aeropuerto\nGuía turístico de habla inglesa en Delhi\nBotella de agua mineral empaquetada"
+  ],
+  "notIncluded": [
+   "Cualquier entrada a monumentos\nCualquier comida y bebida no incluida en este precio\nCualquier propina, souvenir o foto (disponibles para comprar)\nCualquier gasto personal"
+  ]
+ },
+ "delhi-agra-guided-tour": {
+  "title": "Desde Delhi: tour de 3 días del Triángulo Dorado con Agra y Jaipur (desde 135,67 $)",
+  "metaTitle": "Desde Delhi: tour de 3 días Triángulo Dorado (desde 135,67 $)",
+  "metaDescription": "Descubra lo más destacado de Old y New Delhi en un tour guiado de 3 días con Agra y Jaipur.",
+  "shortDescription": "Descubra lo más destacado de Old y New Delhi en un tour turístico guiado",
+  "fullDescription": "Desde Delhi: tour de 3 días del Triángulo Dorado con Agra y Jaipur (desde 135,67 $). Descubra lo más destacado de Old y New Delhi en un tour turístico guiado.\n\nEmbárquese en un tour de 3 días del Triángulo Dorado, visitando Delhi, Agra y Jaipur. Explore las bulliciosas calles de Old Delhi, vea el icónico Taj Mahal y descubra el Fuerte Amber en Jaipur.\n\n**Día 1 – Delhi a Agra**\nComience su viaje de avistamiento por Old y New Delhi con una recogida en el lugar de su preferencia. Después de refrescarse, su guía turístico le proporcionará un itinerario detallado. Explore Old Delhi, incluyendo visitas a la Mezquita Jama, el Fuerte Rojo y el mercado de Chandni Chowk. Disfrute de un delicioso almuerzo en un restaurante local.\n\nA continuación, descubra las atracciones de New Delhi como India Gate, Rastrapati Bhawan, la Tumba de Humayun y Qutub Minar. Por la tarde, viaje a Agra, regístrese en su hotel y pase la noche en la ciudad.\n\n**Día 2 – Agra a Jaipur**\nPrepárese para una experiencia pintoresca del amanecer en el Taj Mahal, ya que su conductor lo recogerá de su hotel a las 6:30. Después de la exploración del amanecer, disfrute del desayuno y un breve descanso de vuelta en el hotel. Después del desayuno y el check-out, visite el Fuerte de Agra.\n\nLuego, continúe su viaje hacia Jaipur, haciendo una parada en Fatehpur Sikri. Al llegar a Jaipur, regístrese en su hotel para pasar la noche.\n\n**Día 3 – Jaipur a Delhi**\nDespués del desayuno y el check-out, su conductor y guía lo recogerán en el hotel para comenzar su tour de avistamiento por Jaipur. Explore el Fuerte Amber, contemple el Jal Mahal, el Hawa Mahal, el City Palace, el Jantar Mantar y el Panna Meena Ka Kund.\n\nDespués del almuerzo y las visitas, disfrute de compras de recuerdos en el mercado local antes de regresar a Delhi por la noche. Concluya su tour del Triángulo Dorado de 2 noches y 3 días con un traslado a su hotel o al aeropuerto de Delhi, llevando consigo recuerdos encantadores.\n\n### Qué incluye\n\n- Recogida y traslado a su hotel o al aeropuerto de Delhi\n- Transporte en vehículo con aire acondicionado\n- 2 noches de alojamiento en hotel (si se selecciona la opción)\n- Desayuno en el hotel (si el hotel se reserva con nosotros)\n- Guía turístico profesional para todas las visitas\n- Paseo en tuk-tuk hasta el Taj Mahal desde el estacionamiento\n- Agua embotellada en el coche\n- Todos los impuestos y cargos\n- Recargos de combustible",
+  "highlights": [
+   "Descubra lo más destacado de Old y New Delhi en un tour turístico guiado"
+  ],
+  "included": [
+   "Recogida y traslado a su hotel o al aeropuerto de Delhi\nTransporte en vehículo con aire acondicionado\n2 noches de alojamiento en hotel (si se selecciona la opción)\nDesayuno en el hotel (si el hotel se reserva con nosotros)\nGuía turístico profesional para todas las visitas\nPaseo en tuk-tuk hasta el Taj Mahal desde el estacionamiento\nAgua embotellada en el coche\nTodos los impuestos y cargos\nRecargos de combustible"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas\nTarifas de entrada a monumentos\nLas noches de gala, si corresponde, no están incluidas en el costo del hotel\nPropina para el guía y el conductor"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",

@@ -26746,6 +26746,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "6-day-golden-triangle-ranthambore-tiger-safari": {
+  "title": "Triangle d'Or de 6 jours et safari aux tigres de Ranthambore depuis Delhi",
+  "metaTitle": "Triangle d'Or 6 jours et safari aux tigres de Ranthambore",
+  "metaDescription": "Sites mondialement célèbres du Triangle d'Or indien avec un safari aux tigres de Ranthambore.",
+  "shortDescription": "Sites mondialement célèbres du Triangle d'Or indien avec un safari aux tigres de Ranthambore.",
+  "fullDescription": "Triangle d'Or de 6 jours et safari aux tigres de Ranthambore depuis Delhi. Sites mondialement célèbres du Triangle d'Or indien avec un safari aux tigres de Ranthambore.\n\nDécouvrez le célèbre Triangle d'Or indien lors d'un circuit de 6 jours depuis Delhi, incluant le Taj Mahal, les majestueux forts de Jaipur et un palpitant safari aux tigres de Ranthambore avec hôtels inclus.\n\n### Ce qui est inclus\n\n- Prise en charge avec un accueil traditionnel indien et dépose facile\n- Véhicule privé climatisé pour le circuit de 6 jours\n- Guides locaux professionnels agréés par le gouvernement\n- Hébergement (si l'option est sélectionnée)\n- Visites selon l'itinéraire à Delhi, Agra et Jaipur\n- Un safari dans la jungle partagé ou privé au parc national de Ranthambore\n- Tous les frais de carburant, péages, frais de stationnement et indemnités du chauffeur\n- Assistance 24h/24 et 7j/7 pendant le circuit\n- Eau potable en bouteille\n\n### Non inclus\n\n- Pourboires et gratifications\n- Repas et boissons\n- Frais d'entrée aux monuments\n- Dépenses personnelles\n- Activités optionnelles non mentionnées dans l'itinéraire",
+  "highlights": [
+   "Sites mondialement célèbres du Triangle d'Or indien avec un safari aux tigres de Ranthambore"
+  ],
+  "included": [
+   "Prise en charge avec un accueil traditionnel indien et dépose facile\nVéhicule privé climatisé pour le circuit de 6 jours\nGuides locaux professionnels agréés par le gouvernement\nHébergement (si l'option est sélectionnée)\nVisites selon l'itinéraire à Delhi, Agra et Jaipur\nUn safari dans la jungle partagé ou privé au parc national de Ranthambore\nTous les frais de carburant, péages, frais de stationnement et indemnités du chauffeur\nAssistance 24h/24 et 7j/7 pendant le circuit\nEau potable en bouteille"
+  ],
+  "notIncluded": [
+   "Pourboires et gratifications\nRepas et boissons\nFrais d'entrée aux monuments\nDépenses personnelles\nActivités optionnelles non mentionnées dans l'itinéraire"
+  ]
+ },
+ "delhi-night-evening-tour": {
+  "title": "New Delhi : circuit de nuit de Delhi - 4 h",
+  "metaTitle": "New Delhi : circuit de nuit de Delhi - 4 h",
+  "metaDescription": "Circuit nocturne de Delhi de 4 heures en véhicule climatisé, découvrez les monuments illuminés de nuit.",
+  "shortDescription": "Circuit nocturne de Delhi de 4 heures en véhicule climatisé",
+  "fullDescription": "New Delhi : circuit de nuit de Delhi - 4 h. Circuit nocturne de Delhi de 4 heures en véhicule climatisé.\n\nNotre chauffeur vous rencontrera à votre hôtel/aéroport à 18h00 (0600 PM) (prise en charge flexible à l'aéroport) et commencera votre circuit de découverte des monuments de Delhi. L'attrait de Delhi, la capitale de l'Inde, prend une toute nouvelle dimension la nuit. Un trajet nocturne de 4 heures offre une vue relaxante des vastes avenues de Delhi, qui deviennent encore plus charmantes et accueillantes lorsque le ciel étoilé illumine les monuments.\n\nUne délicieuse promenade pour découvrir India Gate, le Palais du Président (passage en voiture), le Gurdwara Bangla Sahib et le temple Shri Laxmi Narayan (Birla Mandir) ou le temple ISKCON, à Delhi, avant un parcours nocturne à travers Delhi. Connaught Place, l'un des plus anciens marchés du Delhi de Lutyens, est incontournable.\n\nLes promeneurs du soir envahissent India Gate en soirée. La destination finale sera le Gurdwara Bangla Sahib, un sanctuaire sikh historiquement important. Après avoir vu tous les sites, le chauffeur vous ramènera à votre hôtel ou à l'aéroport. Terminez votre soirée à Delhi avec de merveilleux souvenirs. Le chauffeur vous déposera à l'aéroport ou à l'hôtel à Delhi.\n\nREMARQUE :\n1) En hiver, certains sites peuvent fermer plus tôt ou être invisibles à cause du brouillard.\n2) Le Palais du Président (passage en voiture) : aucune photographie ni arrêt n'est autorisé en raison du protocole de sécurité présidentiel.\n3) En hiver, les temples ferment à 19h30. Et en été : 20h30.\n\n### Ce qui est inclus\n\n- Tous les péages, taxes, stationnement, carburant, indemnité du chauffeur\n- Véhicule climatisé (non partagé)\n- Service de prise en charge et dépose à l'hôtel ou à l'aéroport\n- Guide touristique anglophone à Delhi\n- Bouteille d'eau minérale emballée\n\n### Non inclus\n\n- Toute entrée aux monuments\n- Toute nourriture et boisson non incluse dans ce prix\n- Tout pourboire, souvenir ou photo (disponibles à l'achat)\n- Toute dépense personnelle",
+  "highlights": [
+   "Circuit nocturne de Delhi de 4 heures en véhicule climatisé"
+  ],
+  "included": [
+   "Tous les péages, taxes, stationnement, carburant, indemnité du chauffeur\nVéhicule climatisé (non partagé)\nService de prise en charge et dépose à l'hôtel ou à l'aéroport\nGuide touristique anglophone à Delhi\nBouteille d'eau minérale emballée"
+  ],
+  "notIncluded": [
+   "Toute entrée aux monuments\nToute nourriture et boisson non incluse dans ce prix\nTout pourboire, souvenir ou photo (disponibles à l'achat)\nToute dépense personnelle"
+  ]
+ },
+ "delhi-agra-guided-tour": {
+  "title": "Depuis Delhi : circuit de 3 jours du Triangle d'Or avec Agra et Jaipur (à partir de 135,67 $)",
+  "metaTitle": "Depuis Delhi : circuit de 3 jours du Triangle d'Or (135,67 $)",
+  "metaDescription": "Découvrez les incontournables d'Old et New Delhi lors d'un circuit guidé de 3 jours avec Agra et Jaipur.",
+  "shortDescription": "Découvrez les incontournables d'Old et New Delhi lors d'un circuit touristique guidé",
+  "fullDescription": "Depuis Delhi : circuit de 3 jours du Triangle d'Or avec Agra et Jaipur (à partir de 135,67 $). Découvrez les incontournables d'Old et New Delhi lors d'un circuit touristique guidé.\n\nEmbarquez pour un circuit de 3 jours du Triangle d'Or, visitant Delhi, Agra et Jaipur. Explorez les rues animées d'Old Delhi, admirez l'emblématique Taj Mahal et découvrez le Fort Ambre à Jaipur.\n\n**Jour 1 – Delhi à Agra**\nCommencez votre voyage de découverte d'Old et New Delhi avec une prise en charge à l'endroit de votre choix. Après vous être rafraîchi, votre guide vous fournira un itinéraire détaillé. Explorez Old Delhi, avec des visites de la Jama Masjid, du Fort Rouge et du marché de Chandni Chowk. Savourez un délicieux déjeuner dans un restaurant local.\n\nEnsuite, découvrez les attractions de New Delhi comme India Gate, le Rastrapati Bhawan, le tombeau de Humayun et Qutub Minar. Le soir, rendez-vous à Agra, enregistrez-vous à votre hôtel et passez la nuit dans la ville.\n\n**Jour 2 – Agra à Jaipur**\nPréparez-vous pour une expérience pittoresque de lever de soleil au Taj Mahal, votre chauffeur venant vous chercher à votre hôtel à 6h30. Après cette exploration au lever du soleil, profitez du petit-déjeuner et d'un bref repos à l'hôtel. Après le petit-déjeuner et le départ, visitez le Fort d'Agra.\n\nEnsuite, poursuivez votre voyage vers Jaipur, avec un arrêt à Fatehpur Sikri. À votre arrivée à Jaipur, enregistrez-vous à votre hôtel pour y passer la nuit.\n\n**Jour 3 – Jaipur à Delhi**\nAprès le petit-déjeuner et le départ, votre chauffeur et votre guide viendront vous chercher à l'hôtel pour commencer votre circuit de découverte de Jaipur. Explorez le Fort Ambre, admirez le Jal Mahal, le Hawa Mahal, le City Palace, le Jantar Mantar et le Panna Meena Ka Kund.\n\nAprès le déjeuner et les visites, profitez du shopping de souvenirs au marché local avant de retourner à Delhi en soirée. Terminez votre circuit du Triangle d'Or de 2 nuits et 3 jours avec une dépose à votre hôtel ou à l'aéroport de Delhi, emportant avec vous des souvenirs enchanteurs.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à votre hôtel ou à l'aéroport de Delhi\n- Transport en véhicule climatisé\n- 2 nuits d'hébergement à l'hôtel (si l'option est sélectionnée)\n- Petit-déjeuner à l'hôtel (si l'hôtel est réservé avec nous)\n- Guide touristique professionnel pour toutes les visites\n- Trajet en tuk-tuk jusqu'au Taj Mahal depuis le parking\n- Eau en bouteille dans la voiture\n- Toutes les taxes et frais\n- Suppléments carburant",
+  "highlights": [
+   "Découvrez les incontournables d'Old et New Delhi lors d'un circuit touristique guidé"
+  ],
+  "included": [
+   "Prise en charge et dépose à votre hôtel ou à l'aéroport de Delhi\nTransport en véhicule climatisé\n2 nuits d'hébergement à l'hôtel (si l'option est sélectionnée)\nPetit-déjeuner à l'hôtel (si l'hôtel est réservé avec nous)\nGuide touristique professionnel pour toutes les visites\nTrajet en tuk-tuk jusqu'au Taj Mahal depuis le parking\nEau en bouteille dans la voiture\nToutes les taxes et frais\nSuppléments carburant"
+  ],
+  "notIncluded": [
+   "Repas et boissons\nFrais d'entrée aux monuments\nLes soirées de gala, le cas échéant, ne sont pas incluses dans le coût de l'hôtel\nPourboire pour le guide et le chauffeur"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

@@ -26746,6 +26746,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche persönlichen Ausgaben"
   ]
  },
+ "6-day-golden-triangle-ranthambore-tiger-safari": {
+  "title": "6-tägiges Goldenes Dreieck und Ranthambore-Tigersafari ab Delhi",
+  "metaTitle": "6-tägiges Goldenes Dreieck und Ranthambore-Tigersafari",
+  "metaDescription": "Weltberühmte Sehenswürdigkeiten des indischen Goldenen Dreiecks mit einer Ranthambore-Tigersafari.",
+  "shortDescription": "Weltberühmte Sehenswürdigkeiten des indischen Goldenen Dreiecks mit einer Ranthambore-Tigersafari.",
+  "fullDescription": "6-tägiges Goldenes Dreieck und Ranthambore-Tigersafari ab Delhi. Weltberühmte Sehenswürdigkeiten des indischen Goldenen Dreiecks mit einer Ranthambore-Tigersafari.\n\nErleben Sie Indiens berühmtes Goldenes Dreieck auf einer 6-tägigen Tour ab Delhi, einschließlich des Taj Mahal, der majestätischen Festungen von Jaipur und einer spannenden Ranthambore-Tigersafari mit inkludierten Hotels.\n\n### Inklusive\n\n- Abholung mit traditioneller indischer Begrüßung und einfacher Rückfahrt\n- Privates klimatisiertes Fahrzeug für die 6-tägige Tour\n- Professionelle, staatlich zugelassene lokale Führer\n- Unterkunft (falls Option gewählt)\n- Besichtigungen gemäß Reiseplan in Delhi, Agra und Jaipur\n- Eine geteilte oder private Dschungel-Safari im Ranthambore-Nationalpark\n- Alle Kraftstoffkosten, Mautgebühren, Parkgebühren und Fahrerzulagen\n- Betreuung während der gesamten Reise 24/7\n- Trinkwasser in Flaschen\n\n### Nicht inklusive\n\n- Trinkgelder\n- Mahlzeiten und Getränke\n- Eintrittsgebühren für Denkmäler\n- Persönliche Ausgaben\n- Optionale Aktivitäten, die nicht im Reiseplan erwähnt sind",
+  "highlights": [
+   "Weltberühmte Sehenswürdigkeiten des indischen Goldenen Dreiecks mit einer Ranthambore-Tigersafari"
+  ],
+  "included": [
+   "Abholung mit traditioneller indischer Begrüßung und einfacher Rückfahrt\nPrivates klimatisiertes Fahrzeug für die 6-tägige Tour\nProfessionelle, staatlich zugelassene lokale Führer\nUnterkunft (falls Option gewählt)\nBesichtigungen gemäß Reiseplan in Delhi, Agra und Jaipur\nEine geteilte oder private Dschungel-Safari im Ranthambore-Nationalpark\nAlle Kraftstoffkosten, Mautgebühren, Parkgebühren und Fahrerzulagen\nBetreuung während der gesamten Reise 24/7\nTrinkwasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Trinkgelder\nMahlzeiten und Getränke\nEintrittsgebühren für Denkmäler\nPersönliche Ausgaben\nOptionale Aktivitäten, die nicht im Reiseplan erwähnt sind"
+  ]
+ },
+ "delhi-night-evening-tour": {
+  "title": "New Delhi: Nächtliche Delhi-Tour - 4 Std.",
+  "metaTitle": "New Delhi: Nächtliche Delhi-Tour - 4 Std.",
+  "metaDescription": "4-stündige nächtliche Tour durch Delhi im klimatisierten Fahrzeug, entdecken Sie die beleuchteten Denkmäler bei Nacht.",
+  "shortDescription": "4-stündige nächtliche Tour durch Delhi im klimatisierten Fahrzeug",
+  "fullDescription": "New Delhi: Nächtliche Delhi-Tour - 4 Std. 4-stündige nächtliche Tour durch Delhi im klimatisierten Fahrzeug.\n\nUnser Fahrer trifft Sie um 18:00 Uhr (0600 PM) an Ihrem Hotel/Flughafen (flexible Flughafenabholung) und beginnt Ihre Besichtigungstour zu den Denkmälern von Delhi. Die Faszination von Indiens Hauptstadt Delhi bekommt bei Nacht eine ganz neue Dimension. Eine 4-stündige nächtliche Fahrt bietet einen entspannten Blick auf Delhis weitläufige Alleen, die noch schöner und einladender wirken, wenn der klare Sternenhimmel über den Denkmälern erstrahlt.\n\nEin herrlicher Spaziergang zur Besichtigung von India Gate, dem Präsidentenpalast (Vorbeifahrt), dem Gurdwara Bangla Sahib und dem Shri-Laxmi-Narayan-Tempel (Birla Mandir) oder dem ISKCON-Tempel in Delhi, bevor es auf eine nächtliche Fahrt durch Delhi geht. Connaught Place, einer der ältesten Marktplätze im Lutyens-Delhi, ist ein Muss.\n\nAbendspaziergänger strömen am Abend zum India Gate. Das letzte Ziel ist der Gurdwara Bangla Sahib, ein historisch bedeutender Sikh-Schrein. Nach der Besichtigung aller Stätten bringt Sie der Fahrer zurück zu Ihrem Hotel oder Flughafen. Beenden Sie Ihren Abend in Delhi mit wunderbaren Erinnerungen. Der Fahrer setzt Sie am Flughafen oder Hotel in Delhi ab.\n\nHINWEIS:\n1) Im Winter können einige Stätten früher schließen oder wegen Nebel nicht sichtbar sein.\n2) Das Präsidentenhaus (Vorbeifahrt): Aufgrund des Sicherheitsprotokolls des Präsidenten ist kein Fotografieren und kein Halt erlaubt.\n3) Im Winter schließen die Tempel um 19:30 Uhr. Und im Sommer: 20:30 Uhr.\n\n### Inklusive\n\n- Alle Mautgebühren, Steuern, Parkgebühren, Kraftstoff, Fahrerzulage\n- Klimatisiertes Fahrzeug (nicht geteilt)\n- Abhol- und Rückfahrservice vom Hotel oder Flughafen\n- Englischsprachiger Reiseführer in Delhi\n- Verpackte Mineralwasserflasche\n\n### Nicht inklusive\n\n- Jegliche Eintritte zu Denkmälern\n- Jegliches Essen und Trinken, das nicht in diesem Preis enthalten ist\n- Jegliche Trinkgelder, Souvenirs oder Fotos (käuflich erhältlich)\n- Jegliche persönliche Ausgaben",
+  "highlights": [
+   "4-stündige nächtliche Tour durch Delhi im klimatisierten Fahrzeug"
+  ],
+  "included": [
+   "Alle Mautgebühren, Steuern, Parkgebühren, Kraftstoff, Fahrerzulage\nKlimatisiertes Fahrzeug (nicht geteilt)\nAbhol- und Rückfahrservice vom Hotel oder Flughafen\nEnglischsprachiger Reiseführer in Delhi\nVerpackte Mineralwasserflasche"
+  ],
+  "notIncluded": [
+   "Jegliche Eintritte zu Denkmälern\nJegliches Essen und Trinken, das nicht in diesem Preis enthalten ist\nJegliche Trinkgelder, Souvenirs oder Fotos (käuflich erhältlich)\nJegliche persönliche Ausgaben"
+  ]
+ },
+ "delhi-agra-guided-tour": {
+  "title": "Ab Delhi: 3-tägige Goldenes-Dreieck-Tour mit Agra und Jaipur (ab 135,67 $)",
+  "metaTitle": "Ab Delhi: 3-tägige Goldenes-Dreieck-Tour (ab 135,67 $)",
+  "metaDescription": "Entdecken Sie die Highlights von Old und New Delhi auf einer geführten 3-tägigen Tour mit Agra und Jaipur.",
+  "shortDescription": "Entdecken Sie die Highlights von Old und New Delhi auf einer geführten Besichtigungstour",
+  "fullDescription": "Ab Delhi: 3-tägige Goldenes-Dreieck-Tour mit Agra und Jaipur (ab 135,67 $). Entdecken Sie die Highlights von Old und New Delhi auf einer geführten Besichtigungstour.\n\nBegeben Sie sich auf eine 3-tägige Tour des Goldenen Dreiecks und besuchen Sie Delhi, Agra und Jaipur. Erkunden Sie die belebten Straßen von Old Delhi, sehen Sie das ikonische Taj Mahal und entdecken Sie das Amber-Fort in Jaipur.\n\n**Tag 1 – Delhi nach Agra**\nBeginnen Sie Ihre Besichtigungsreise durch Old und New Delhi mit einer Abholung an Ihrem bevorzugten Ort. Nach einer kurzen Erfrischung gibt Ihnen Ihr Reiseführer einen detaillierten Reiseplan. Erkunden Sie Old Delhi, einschließlich Besuchen der Jama Masjid, des Roten Forts und des Chandni-Chowk-Marktes. Genießen Sie ein köstliches Mittagessen in einem lokalen Restaurant.\n\nAnschließend entdecken Sie die Sehenswürdigkeiten von New Delhi wie India Gate, Rastrapati Bhawan, Humayuns Grabmal und Qutub Minar. Am Abend reisen Sie nach Agra, checken in Ihrem Hotel ein und übernachten in der Stadt.\n\n**Tag 2 – Agra nach Jaipur**\nMachen Sie sich bereit für ein malerisches Sonnenaufgangserlebnis am Taj Mahal, wenn Ihr Fahrer Sie um 6:30 Uhr von Ihrem Hotel abholt. Nach der Sonnenaufgangs-Erkundung genießen Sie ein Frühstück und eine kurze Ruhepause im Hotel. Nach dem Frühstück und dem Check-out besuchen Sie das Agra-Fort.\n\nAnschließend setzen Sie Ihre Reise nach Jaipur fort, mit einem Zwischenstopp in Fatehpur Sikri. Bei Ihrer Ankunft in Jaipur checken Sie zur Übernachtung in Ihrem Hotel ein.\n\n**Tag 3 – Jaipur nach Delhi**\nNach dem Frühstück und dem Check-out holen Sie Ihr Fahrer und Reiseführer vom Hotel ab, um Ihre Jaipur-Besichtigungstour zu beginnen. Erkunden Sie das Amber-Fort, erleben Sie den Jal Mahal, den Hawa Mahal, den City Palace, das Jantar Mantar und den Panna Meena Ka Kund.\n\nNach dem Mittagessen und der Besichtigung genießen Sie Souvenir-Shopping auf dem lokalen Markt, bevor Sie am Abend nach Delhi zurückkehren. Beenden Sie Ihre 2-Nächte-3-Tage-Goldenes-Dreieck-Tour mit einer Rückfahrt zu Ihrem Hotel oder zum Flughafen Delhi, mit bezaubernden Erinnerungen im Gepäck.\n\n### Inklusive\n\n- Abholung und Rückfahrt zu Ihrem Hotel oder zum Flughafen Delhi\n- Transport im klimatisierten Fahrzeug\n- 2 Übernachtungen im Hotel (falls Option gewählt)\n- Frühstück im Hotel (falls Hotel bei uns gebucht)\n- Professioneller Reiseführer für alle Besichtigungen\n- Tuk-Tuk-Fahrt zum Taj Mahal vom Parkplatz\n- Wasser in Flaschen im Auto\n- Alle Steuern und Gebühren\n- Kraftstoffzuschläge",
+  "highlights": [
+   "Entdecken Sie die Highlights von Old und New Delhi auf einer geführten Besichtigungstour"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zu Ihrem Hotel oder zum Flughafen Delhi\nTransport im klimatisierten Fahrzeug\n2 Übernachtungen im Hotel (falls Option gewählt)\nFrühstück im Hotel (falls Hotel bei uns gebucht)\nProfessioneller Reiseführer für alle Besichtigungen\nTuk-Tuk-Fahrt zum Taj Mahal vom Parkplatz\nWasser in Flaschen im Auto\nAlle Steuern und Gebühren\nKraftstoffzuschläge"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke\nEintrittsgebühren für Denkmäler\nGala-Abende, falls zutreffend, sind nicht in den Hotelkosten enthalten\nTrinkgeld für Führer und Fahrer"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
