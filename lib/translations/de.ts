@@ -5032,6 +5032,79 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld"
   ]
  },
+ "taj-mahal-tour-skip-the-line-all-inclusive-with": {
+  "title": "Taj Mahal Tour, Skip-the-Line, alles inklusive, mit 5-Sterne-Mittagessen",
+  "metaTitle": "Agra: Taj Mahal, Skip-the-Line, alles inklusive",
+  "metaDescription": "Alles inklusive: klimatisiertes Auto, Skip-the-Line-Tickets, erfahrener Guide, und 5-Sterne-Mittagessen.",
+  "shortDescription": "Alles inklusive: klimatisiertes Auto, Skip-the-Line-Tickets, erfahrener Guide, und 5-Sterne-Mittagessen.",
+  "fullDescription": "Es gibt einen Moment, an den sich jeder Taj Mahal-Besucher für den Rest seines Lebens erinnert: durch das Große Tor zu schreiten und zum allerersten Mal die weiße Marmorkuppel gegen den offenen Himmel aufsteigen zu sehen. Wir stellen sicher, dass Ihr Moment perfekt wird.\n\nDies ist eine vollständig all-inklusive private Tour. Ihr privates klimatisiertes Auto holt Sie direkt von Ihrem Hotel oder Flughafen ab, in Delhi, Agra, oder Jaipur, je nach gewählter Buchungsoption. Alles ist arrangiert. Sie müssen nur erscheinen.\n\nIhr Guide wurde in Agra geboren und aufgewachsen und hat über 7 Jahre damit verbracht, die Geschichte dieses Denkmals für Reisende aus aller Welt lebendig zu machen. Dies ist kein einstudiertes Skript, sondern persönlich. Sie hören, was kein Reiseführer verrät: die optische Täuschung, die in die vier Minarette eingebaut ist, das Geheimnis der 28 Edelsteine, die in den Marmor eingelegt sind, und die wahre Liebesgeschichte, kompliziert, menschlich, und weit faszinierender als die Postkartenversion.\n\nSkip-the-Line-Eintritt bedeutet, dass Sie direkt an der Menge vorbei und durch die Tore gehen. Ihr Guide kennt jede ruhige Ecke, die die Touristengruppen verpassen, und den einen genauen Punkt, an dem sich das Taj Mahal perfekt im zentralen Becken spiegelt, das Foto, das Sie tatsächlich einrahmen werden.\n\nNach dem Taj Mahal geht es weiter zum Agra Fort, einem UNESCO-Weltkulturerbe. Stehen Sie genau in dem Raum, in dem Kaiser Shah Jahan seine letzten Jahre damit verbrachte, auf das Denkmal zu blicken, das er für seine Königin über den Yamuna-Fluss hinweg erbaute.\n\nMittags setzen Sie sich zu einem 5-Sterne-Buffet-Mittagessen in einem der besten Restaurants Agras, eine richtige Mahlzeit, keine hastige Pause, mit indischen und internationalen Optionen.\n\nAm Ende des Tages setzt Ihr privates Auto Sie an Ihrem Hotel oder Flughafen ab, Delhi, Agra, oder Jaipur, je nach gewählter Buchungsoption. Keine Vorkehrungen zu treffen, kein Stress.\n\nIhr Guide spricht Ihre Sprache. Wählen Sie zwischen Englisch, Französisch, Deutsch, Italienisch, Russisch, Portugiesisch, oder Japanisch.",
+  "highlights": [
+   "Alles inklusive: klimatisiertes Auto, Skip-the-Line-Tickets, erfahrener Guide, und 5-Sterne-Mittagessen"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto mit professionellem Fahrer",
+   "Abholung und Rückbringung (Delhi/Agra/Jaipur)",
+   "Skip-the-Line-Eintrittskarten (falls ausgewählt)",
+   "Lizenzierter privater Reiseführer",
+   "5-Sterne-Buffet-Mittagessen (falls ausgewählt)",
+   "Alle Parkgebühren, Mautgebühren, und Steuern"
+  ],
+  "notIncluded": [
+   "Getränke während des Mittagessens",
+   "Persönliche Ausgaben",
+   "Trinkgeld (optional)"
+  ]
+ },
+ "from-delhi-3-day-trip-to-agra-fatehpur-sikri": {
+  "title": "Von Delhi aus: 3-tägige Reise nach Agra, Fatehpur Sikri, und Jaipur",
+  "metaTitle": "Delhi-Agra-Jaipur: Goldenes Dreieck in 3 Tagen",
+  "metaDescription": "3-tägige Golden-Triangle-Tour von Delhi aus.",
+  "shortDescription": "3-tägige Golden-Triangle-Tour von Delhi aus.",
+  "fullDescription": "Diese 3-tägige Golden-Triangle-Tour von Delhi aus bringt Sie nach Agra, Fatehpur Sikri, und Jaipur, mit einem privaten klimatisierten Auto mit Fahrer, Unterbringung in einem 4-Sterne-Hotel in Agra und Jaipur mit Frühstück, und Eintrittskarten für das Taj Mahal, das Agra Fort, und Fatehpur Sikri, begleitet von einem englischsprachigen Guide für das Taj Mahal und das Agra Fort.",
+  "highlights": [
+   "3-tägige Golden-Triangle-Tour von Delhi aus"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto mit Fahrer für den Transport von Delhi nach Agra und Jaipur",
+   "Alle Mautgebühren, Steuern, und Parkgebühren",
+   "Eintrittskarten für das Taj Mahal, das Agra Fort, und Fatehpur Sikri",
+   "Englischsprachiger Guide für das Taj Mahal und das Agra Fort",
+   "Unterbringung im 4-Sterne-Hotel in Agra und Jaipur mit Frühstück",
+   "Wasser in Flaschen",
+   "Snacks im Auto"
+  ],
+  "notIncluded": [
+   "Mahlzeiten außer dem Frühstück",
+   "Jegliche persönlichen Ausgaben wie Einkaufen, Trinkgeld, usw.",
+   "Jegliche Aktivitäten, die nicht im Reiseplan genannt sind"
+  ]
+ },
+ "taj-mahal-day-trip-from-delhi-with-agra-fort": {
+  "title": "Taj Mahal Tagesausflug von Delhi aus mit Agra Fort und Baby Taj",
+  "metaTitle": "Delhi-Agra: Taj Mahal, Fort, Baby Taj in 1 Tag",
+  "metaDescription": "Erkunden Sie das UNESCO-gelistete Taj Mahal, das siebte Weltwunder.",
+  "shortDescription": "Erkunden Sie das UNESCO-gelistete Taj Mahal, das siebte Weltwunder.",
+  "fullDescription": "Abholung von Ihrem Hotel, Flughafen, oder bevorzugten Ort in Delhi/NCR.\nTreffen Sie Ihren professionellen Fahrer und beginnen Sie Ihre Reise nach Agra in einem komfortablen privaten Fahrzeug.\nGenießen Sie eine reibungslose Fahrt über die Yamuna Expressway (etwa 3 bis 3,5 Stunden).\nEntspannen Sie sich und genießen Sie die wechselnden Landschaften Nordindiens.\nOptionaler Erfrischungsstopp während der Reise.\n\n**Morgen: Erkundung des Taj Mahal**\n\nBesuch: Taj Mahal.\nTreffen Sie Ihren erfahrenen lokalen Guide in Agra und beginnen Sie Ihr Besichtigungserlebnis am weltberühmten Taj Mahal.\n\nErkunden Sie dieses UNESCO-Weltkulturerbe und Symbol ewiger Liebe.\nErfahren Sie mehr über die faszinierende Geschichte von Kaiser Shah Jahan und Mumtaz Mahal.\nEntdecken Sie die atemberaubende Mogul-Architektur, Marmorhandwerkskunst, und detaillierte Einlegearbeiten.\nGenießen Sie eine geführte Besichtigung mit viel Zeit für Fotografie.\n\n**Erkundung des Agra Forts**\nSetzen Sie Ihre Kulturreise am prächtigen Agra Fort fort, einem weiteren UNESCO-Weltkulturerbe.\n\nDurchschreiten Sie die großen Eingangstore und massiven Wände aus rotem Sandstein.\nErkunden Sie königliche Paläste, Höfe, Audienzhallen, und historische Kammern.\nEntdecken Sie den Lebensstil der Mogulkaiser, die Indien von dieser Festung aus regierten.\nGenießen Sie Panoramablicke auf das Taj Mahal von der Festung aus.\n\n**Mittagspause: kulinarisches Erlebnis in Agra**\n\n**Mausoleum von Itmad-ud-Daulah (Baby Taj)**\nBesuchen Sie dieses schöne Marmor-Mausoleum, bekannt für:\nZarte Marmor-Einlegemuster\nFriedliche Gärten\nFrühe Mogul-Architektur\nKünstlerische Handwerkskunst, die das Taj Mahal inspirierte\n\n**Mehtab Bagh**\nBesuchen Sie den Garten am Flussufer, gegenüber dem Taj Mahal.\nGenießen Sie eine friedliche Atmosphäre abseits der Menschenmassen.\nMachen Sie atemberaubende Fotos des Taj Mahal von der anderen Seite des Yamuna-Flusses.\nErleben Sie einen der besten Sonnenuntergangs-Aussichtspunkte Agras.\n\n**Option: lokales Kunsthandwerk-Erlebnis**\nErkunden Sie Agras berühmtes traditionelles Kunsthandwerk:\nMarmor-Einlegekunst\nHandgefertigte Souvenirs\nLokale Handwerkswerkstätten\nErfahren Sie, wie Generationen von Handwerkern das Erbe der Kunstfertigkeit der Mogulzeit fortführen.\n\n**Rückfahrt nach Delhi**\nVerlassen Sie Agra in Ihrem privaten klimatisierten Fahrzeug.\nEntspannen Sie sich während der komfortablen Rückfahrt nach Delhi.\nAbsetzung an Ihrem Hotel, Flughafen, Bahnhof, oder bevorzugten Ort. Ein 5-Sterne-Buffet-Mittagessen ist bei der Rundum-Option verfügbar.",
+  "highlights": [
+   "Erkunden Sie das UNESCO-gelistete Taj Mahal, das siebte Weltwunder"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel, Flughafen, oder Bahnhof im Großraum Delhi",
+   "Privates klimatisiertes Fahrzeug für die gesamte Tour",
+   "Professioneller privater lokaler Guide in Agra",
+   "Besuch des Taj Mahal",
+   "Besuch des Agra Forts",
+   "Besuch des Baby Taj (Itmad-ud-Daulah)",
+   "Mineralwasser in Flaschen während der Reise",
+   "Alle Parkgebühren, Mautgebühren, Kraftstoff, und Fahrerzulage",
+   "Eintrittskarten zu den Denkmälern (falls die Rundum-Option gewählt wird)",
+   "5-Sterne-Buffet-Mittagessen (falls die Rundum-Option gewählt wird)",
+   "Alle anfallenden Steuern"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben (optional)"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
