@@ -25479,6 +25479,74 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "from-delhi-private-full-day-mathura-vrindavan": {
+  "title": "Ab Delhi: private Ganztagestour nach Mathura und Vrindavan mit dem Auto",
+  "metaTitle": "Delhi: Mathura-Vrindavan, Ganztag",
+  "metaDescription": "Besuchen Sie Mathura, den Geburtsort von Lord Krishna, Janmabhoomi.",
+  "shortDescription": "Besuchen Sie Mathura, den Geburtsort von Lord Krishna, Janmabhoomi.",
+  "fullDescription": "Ab Delhi: private Ganztagestour nach Mathura und Vrindavan mit dem Auto. Besuchen Sie Mathura, den Geburtsort von Lord Krishna, Janmabhoomi.\n\n**1. Abholung in Delhi**\nFrühmorgendliche Abholung von Ihrem Hotel oder Flughafen in Delhi.\nFahrt nach Mathura (ca. 3 Stunden).\n\n**2. Besichtigung von Mathura**\nBesuchen Sie den Krishna-Janmabhoomi-Tempel, den Geburtsort von Lord Krishna.\nErkunden Sie den Dwarkadhish-Tempel, berühmt für seine beeindruckende Architektur und spirituelle Atmosphäre.\nSpazieren Sie am Vishram Ghat am Fluss Yamuna entlang, bekannt für seine abendlichen Aarti-Rituale.\n\n**3. Mittagspause**\nGenießen Sie das Mittagessen in einem lokalen Restaurant mit vegetarischen Optionen.\n\n**4. Besichtigung von Vrindavan**\nBesuchen Sie den Banke-Bihari-Tempel, Lord Krishna gewidmet.\nErkunden Sie den berühmten ISKCON-Tempel, ein Zentrum spiritueller Gesänge und Hingabe.\nBewundern Sie den prächtigen Prem Mandir, bekannt für seine Marmorschnitzereien und abendliche Lichtshow.\nOptionaler Besuch des Radha-Raman-Tempels oder Seva Kunj, je nach verfügbarer Zeit.\n\n**5. Rückkehr nach Delhi**\nAbendliche Rückfahrt nach Delhi.\nRückfahrt zu Ihrem Hotel oder Flughafen.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel/Flughafen\nPrivates klimatisiertes Auto für die gesamte Tour, mit Fahrer\nProfessioneller Reiseführer\nMittagessen im Restaurant (falls diese Option gewählt wird)\nFlasche Mineralwasser\nAlle Maut- und Parkgebühren\n\n**Nicht inbegriffen**\nJegliche persönliche Ausgaben",
+  "highlights": [
+   "Besuchen Sie Mathura, den Geburtsort von Lord Krishna, Janmabhoomi"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "Privates klimatisiertes Auto für die gesamte Tour, mit Fahrer",
+   "Professioneller Reiseführer",
+   "Mittagessen im Restaurant (falls diese Option gewählt wird)",
+   "Flasche Mineralwasser",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "old-delhi-food-tour-with-heritage-walk": {
+  "title": "Kulinarische Tour durch Alt-Delhi mit historischem Spaziergang",
+  "metaTitle": "Delhi: Alt-Delhi, Food-Tour, Erbe",
+  "metaDescription": "Genießen Sie das beste Paneer-Masala-Curry der Stadt in einem geheimen Restaurant",
+  "shortDescription": "Genießen Sie das beste Paneer-Masala-Curry der Stadt in einem geheimen Restaurant",
+  "fullDescription": "Kulinarische Tour durch Alt-Delhi mit historischem Spaziergang. Genießen Sie das beste Paneer-Masala-Curry der Stadt in einem geheimen Restaurant.\n\nEntdecken Sie die Food-Szene von Alt-Delhi bei dieser privaten Exkursion. Ihr Fahrer und Reiseführer holen Sie vom Hotel ab, und bringen Sie in einem klimatisierten Auto nach Alt-Delhi. Tauchen Sie ein in Delhis Küche und Kultur mit kostenlosen Verkostungen von Pani Puris, Pakoras, gefüllten Parathas, Paneer-Masala-Curry, und anderen Gerichten. Besichtigen Sie einen Sikh-Tempel mit einer 24-Stunden-Küche, und lernen Sie, Chapattis zuzubereiten, erkunden Sie einen Gewürzmarkt, und genießen Sie köstliche Desserts.\n\nTreffen Sie Ihren Reiseführer an Ihrem Abholort, Hotel oder Flughafen, und beginnen Sie Ihre kulinarische Tour durch Alt-Delhi. Tauchen Sie ein in die lokale Food-Szene mit kostenlosen Verkostungen von Pani Puris, Pakoras, gefüllten Parathas, Paneer-Masala-Curry, und anderen Gerichten.\n\nBesichtigen Sie einen Sikh-Tempel mit einer 24-Stunden-Küche, und lernen Sie, Chapattis zuzubereiten. Erkunden Sie einen Gewürzmarkt, und genießen Sie köstliche Desserts.\n\nWährend Sie mit Ihrem Reiseführer spazieren, erfahren Sie mehr über das lokale Leben, und erhalten einen Eindruck von der Food-Szene in Alt-Delhi. Nacheinander genießen Sie eine Tontasse süßen, schaumigen Lassi, bevor Sie sich an das beste Jalebi Indiens heranwagen.\n\nTauchen Sie ein in einen riesigen Sikh-Tempel, um dessen rund um die Uhr geöffnete Küche zu besichtigen, die täglich über 30.000 Einwohner Delhis aus allen Lebensbereichen versorgt. Probieren Sie sich an der Zubereitung von Chapattis, und am Rühren in riesigen Töpfen, groß genug, um eine Armee zu verköstigen.\n\nTauchen Sie ein in das Labyrinth von Alt-Delhi. Ihr Reiseführer nimmt Sie mit auf eine Wandertour durch die engen Straßen, wobei vorbeiziehende Kühe, Fahrradrikschas, und kleine Händler sorgfältig umkurvt werden, und Sie halten an, um Kleinigkeiten wie Pani Puris, köstliche Pakoras, und gefüllte Parathas von einem kleinen Laden zu probieren, der sie seit fast einem Jahrhundert herstellt.\n\nSteigen Sie die Stufen hinauf zu einem kleinen geheimen Restaurant ohne Schild an der Außenseite, um eines der besten Paneer-Masala-Currys der Stadt zu probieren, bevor Sie es mit einem Masala-Limetten-Soda in der Nähe hinunterspülen.\n\nSchlängeln Sie sich weiter durch die verwinkelten Hintergassen, bis Sie den duftenden Gewürzmarkt erreichen. Nach einem Spaziergang und Gesprächen über die in der indischen Küche verwendeten Gewürze und Kräuter gehen Sie geheime Stufen hinauf zu einer prächtigen Dachterrasse mit Blick auf den Gewürzmarkt und den Rest Delhis. Nehmen Sie sich Zeit zum Entspannen, machen Sie Fotos, und genießen Sie einen Tee, der von einem lokalen Chaiwalla auf das Dach gebracht wird.\n\nAusgeruht geht es weiter zur letzten Etappe, bei der Sie mehrere Desserts probieren, darunter ein Karotten-Halva und ein traditionelles mogulisches Gericht aus Vermicelli-Nudeln, belegt mit einer cremigen, nussigen Schicht.\n\nAuf dem Rückweg zur Metrostation Chandni Chowk lässt Ihr Reiseführer einen Paan für Sie zubereiten: ein Betelblatt, gefüllt mit Trockenfrüchten, Sirupen, und anderen guten Dingen.\n\n**Was ist inbegriffen**\nVerkostung von über 14 verschiedenen Speisen und Getränken aus Delhi\nEchtes kleines Gruppenerlebnis für kulinarische Entdecker in Delhi, begrenzt auf wenige Gäste\nEin lizenzierter kulinarischer Reiseführer begleitet Sie\nWasser in Flaschen und erfrischende indische Getränke\nDiese Tour eignet sich für Vegetarier\nFahrradrikscha zum Besuch der lokalen Märkte\nAbholung und Rückfahrt vom Hotel\n\n**Nicht inbegriffen**\nAlkoholische Getränke\nTrinkgelder für Reiseführer und Fahrer\nEinkaufen",
+  "highlights": [
+   "Genießen Sie das beste Paneer-Masala-Curry der Stadt in einem geheimen Restaurant"
+  ],
+  "included": [
+   "Verkostung von über 14 verschiedenen Speisen und Getränken aus Delhi",
+   "Echtes kleines Gruppenerlebnis für kulinarische Entdecker in Delhi, begrenzt auf wenige Gäste",
+   "Ein lizenzierter kulinarischer Reiseführer begleitet Sie",
+   "Wasser in Flaschen und erfrischende indische Getränke",
+   "Diese Tour eignet sich für Vegetarier",
+   "Fahrradrikscha zum Besuch der lokalen Märkte",
+   "Abholung und Rückfahrt vom Hotel"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke",
+   "Trinkgelder für Reiseführer und Fahrer",
+   "Einkaufen"
+  ]
+ },
+ "delhi-full-day-old-and-new-delhi-city-sightseeing": {
+  "title": "Delhi: ganztägige Besichtigung der Stadt Alt- und New Delhi",
+  "metaTitle": "Delhi: Ganztag, Alt- und New Delhi",
+  "metaDescription": "Erkunden Sie die Jama Masjid, unternehmen Sie eine Rikscha-Fahrt durch die belebten Straßen",
+  "shortDescription": "Erkunden Sie die Jama Masjid, unternehmen Sie eine Rikscha-Fahrt durch die belebten Straßen",
+  "fullDescription": "Delhi: ganztägige Besichtigung der Stadt Alt- und New Delhi. Erkunden Sie die Jama Masjid, unternehmen Sie eine Rikscha-Fahrt durch die belebten Straßen.\n\nBeginnen Sie Ihren Tag mit einem Besuch der Jama Masjid, einer der größten Moscheen Indiens. Staunen Sie über ihre beeindruckende Architektur und die Panoramablicke von den Minaretten.\n\nNach der Erkundung der Jama Masjid unternehmen Sie eine Rikscha-Fahrt durch die belebten Gassen von Chandni Chowk. Tauchen Sie ein in die lebendige Atmosphäre, probieren Sie Street Food, und saugen Sie die Eindrücke und Klänge von Alt-Delhi auf.\n\nFahren Sie am Roten Fort vorbei, einem UNESCO-Weltkulturerbe. Weiter geht es zum Gurudwara Bangla Sahib, einem der bedeutendsten Sikh-Gurdwaras in Delhi, um dessen Ruhe zu erleben. Nehmen Sie am Langar (Gemeinschaftsmahl) teil, für ein herzerwärmendes Erlebnis.\n\nFahren Sie am imposanten Rashtrapati Bhawan (Präsidentenpalast) vorbei, der offiziellen Residenz des indischen Präsidenten. Halten Sie an India Gate, einem Kriegsdenkmal, und erweisen Sie den Soldaten, die ihr Leben opferten, Ihre Ehre.\n\nMachen Sie eine Mittagspause in einem nahegelegenen Restaurant, wo Sie lokale indische Küche oder internationale Gerichte genießen können.\n\nBesuchen Sie den Lotustempel, bekannt für seine auffällige lotusförmige Architektur und ruhige Atmosphäre. Verbringen Sie einige Zeit mit Besinnung an dieser Bahai-Kultstätte.\n\nErkunden Sie den Qutub Minar, das höchste Backsteinminarett der Welt. Bewundern Sie die kunstvollen Schnitzereien und architektonischen Wunder dieses UNESCO-Weltkulturerbes.\n\nBesuchen Sie Humayuns Grabmal, ein Meisterwerk mogulischer Architektur und ein weiteres UNESCO-Weltkulturerbe. Schlendern Sie durch die üppigen Gärten, und staunen Sie über die Pracht des Grabmals.\n\nLassen Sie Ihren Tag der Entdeckung Revue passieren, während Sie zurück zu Ihrem Hotel oder bevorzugten Rückfahrort gebracht werden.\n\n**Was ist inbegriffen**\nPrivates klimatisiertes Fahrzeug für die gesamte Tour\nAbholung und Rückfahrt zum Hotel/Flughafen/Bahnhof\nVon der Regierung zugelassener Reiseführer an allen Zielen\nAbgefülltes Trinkwasser (2 Flaschen pro Tag)\nRikscha-Fahrt in Chandni Chowk, in Alt-Delhi\nAlle Parkgebühren, Kraftstoffkosten\n\n**Nicht inbegriffen**\nEintrittsgebühren für Sehenswürdigkeiten\nSpeisen und Getränke\nTrinkgeld für Reiseführer und Fahrer",
+  "highlights": [
+   "Erkunden Sie die Jama Masjid, unternehmen Sie eine Rikscha-Fahrt durch die belebten Straßen"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug für die gesamte Tour",
+   "Abholung und Rückfahrt zum Hotel/Flughafen/Bahnhof",
+   "Von der Regierung zugelassener Reiseführer an allen Zielen",
+   "Abgefülltes Trinkwasser (2 Flaschen pro Tag)",
+   "Rikscha-Fahrt in Chandni Chowk, in Alt-Delhi",
+   "Alle Parkgebühren, Kraftstoffkosten"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Sehenswürdigkeiten",
+   "Speisen und Getränke",
+   "Trinkgeld für Reiseführer und Fahrer"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

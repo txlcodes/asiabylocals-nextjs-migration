@@ -25479,6 +25479,74 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "from-delhi-private-full-day-mathura-vrindavan": {
+  "title": "Desde Delhi: tour privado de día completo a Mathura y Vrindavan en coche",
+  "metaTitle": "Delhi: Mathura-Vrindavan, día completo",
+  "metaDescription": "Visita Mathura, el lugar de nacimiento del Señor Krishna, Janmabhoomi.",
+  "shortDescription": "Visita Mathura, el lugar de nacimiento del Señor Krishna, Janmabhoomi.",
+  "fullDescription": "Desde Delhi: tour privado de día completo a Mathura y Vrindavan en coche. Visita Mathura, el lugar de nacimiento del Señor Krishna, Janmabhoomi.\n\n**1. Recogida en Delhi**\nRecogida temprano por la mañana en tu hotel o aeropuerto en Delhi.\nViaje hacia Mathura (aprox. 3 horas).\n\n**2. Visitas por Mathura**\nVisita el templo de Shri Krishna Janmabhoomi, lugar de nacimiento del Señor Krishna.\nExplora el templo de Dwarkadhish, famoso por su impresionante arquitectura y ambiente espiritual.\nPasea por el Vishram Ghat en el río Yamuna, conocido por sus rituales de aarti vespertinos.\n\n**3. Pausa para el almuerzo**\nDisfruta del almuerzo en un restaurante local con opciones vegetarianas.\n\n**4. Visitas por Vrindavan**\nVisita el templo de Banke Bihari, dedicado al Señor Krishna.\nExplora el famoso templo ISKCON, un centro de cánticos espirituales y devoción.\nAdmira el grandioso Prem Mandir, conocido por sus tallados de mármol y su espectáculo de luces nocturno.\nVisita opcional al templo de Radha Raman o a Seva Kunj, según el tiempo disponible.\n\n**5. Regreso a Delhi**\nTrayecto de regreso a Delhi por la tarde.\nRegreso a tu hotel o aeropuerto.\n\n**Qué incluye**\nRecogida y regreso al hotel/aeropuerto\nCoche privado con aire acondicionado para toda la actividad del tour, con chófer\nGuía turístico profesional\nAlmuerzo en restaurante (si se selecciona esta opción)\nBotella de agua mineral\nTodos los peajes y gastos de estacionamiento\n\n**No incluye**\nCualquier gasto personal",
+  "highlights": [
+   "Visita Mathura, el lugar de nacimiento del Señor Krishna, Janmabhoomi"
+  ],
+  "included": [
+   "Recogida y regreso al hotel/aeropuerto",
+   "Coche privado con aire acondicionado para toda la actividad del tour, con chófer",
+   "Guía turístico profesional",
+   "Almuerzo en restaurante (si se selecciona esta opción)",
+   "Botella de agua mineral",
+   "Todos los peajes y gastos de estacionamiento"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
+  ]
+ },
+ "old-delhi-food-tour-with-heritage-walk": {
+  "title": "Tour gastronómico por el Viejo Delhi con paseo patrimonial",
+  "metaTitle": "Delhi: Viejo Delhi, food tour, patrimonio",
+  "metaDescription": "Saborea el mejor curry de paneer masala de la ciudad en un restaurante secreto",
+  "shortDescription": "Saborea el mejor curry de paneer masala de la ciudad en un restaurante secreto",
+  "fullDescription": "Tour gastronómico por el Viejo Delhi con paseo patrimonial. Saborea el mejor curry de paneer masala de la ciudad en un restaurante secreto.\n\nSaborea la escena gastronómica del Viejo Delhi en esta excursión privada. Tu chófer y guía te recogen en el hotel y te trasladan al Viejo Delhi en coche con aire acondicionado. Sumérgete en la cocina y cultura de Delhi con degustaciones de cortesía de pani puri, pakoras, parathas rellenos, curry de paneer masala, y otros platos. Visita un templo sij con una cocina abierta las 24 horas, y aprende a hacer chapatis, explora un mercado de especias, y saborea deliciosos postres.\n\nEncuentra a tu guía en tu punto de recogida, hotel o aeropuerto, y comienza tu tour gastronómico por el Viejo Delhi. Sumérgete en la escena gastronómica local con degustaciones de cortesía de pani puri, pakoras, parathas rellenos, curry de paneer masala, y otros platos.\n\nVisita un templo sij con una cocina abierta las 24 horas, y aprende a hacer chapatis. Explora un mercado de especias, y saborea deliciosos postres.\n\nMientras caminas con tu guía, aprende sobre la vida local, y hazte una idea de la escena gastronómica del Viejo Delhi. Sucesivamente, disfruta de una taza de barro de lassi dulce y espumoso, antes de abrirte paso hacia el mejor jalebi de la India.\n\nSumérgete en un enorme templo sij para hacer un tour por su cocina abierta las 24 horas, que alimenta a más de 30.000 habitantes de Delhi de todos los ámbitos de la vida cada día. Prueba a hacer chapatis y a remover enormes ollas lo suficientemente grandes para alimentar a un ejército.\n\nAdéntrate en el laberinto del Viejo Delhi. Tu guía te llevará en un recorrido a pie por las estrechas calles, sorteando con cuidado vacas, rickshaws de bicicleta, y pequeños vendedores, donde te detendrás para probar pequeños bocados como pani puri, sabrosos pakoras, y parathas rellenos de un pequeño local que los produce desde hace casi un siglo.\n\nSube unos escalones hasta un pequeño restaurante secreto sin letrero en el exterior para probar uno de los mejores currys de paneer masala de la ciudad, antes de acompañarlo con una soda de lima masala cerca de allí.\n\nContinúa serpenteando por los sinuosos callejones hasta llegar al aromático mercado de especias. Tras un paseo y una charla sobre las especias y hierbas utilizadas en la cocina india, sube unos escalones secretos hasta una magnífica azotea con vistas al mercado de especias y al resto de Delhi. Tómate un tiempo para relajarte, tomar fotos, y disfrutar de un té que un chaiwalla local te lleva a la azotea.\n\nYa descansado, continúa hacia la etapa final, donde probarás varios postres, incluyendo un halva de zanahoria y un plato tradicionalmente mogol hecho de fideos vermicelli cubiertos con una cremosa capa de frutos secos.\n\nMientras caminas de regreso a la estación de metro de Chandni Chowk, tu guía te hará preparar un paan: una hoja de betel rellena de frutos secos, jarabes, y otras delicias.\n\n**Qué incluye**\nDegustación de más de 14 comidas y bebidas diferentes de Delhi\nAuténtica aventura gastronómica en grupo muy reducido en Delhi, limitada a pocos huéspedes\nUn guía gastronómico con licencia te acompañará\nAgua embotellada y refrescantes bebidas indias\nEste tour es apto para vegetarianos\nRickshaw de bicicleta para visitar los mercados locales\nRecogida y regreso al hotel\n\n**No incluye**\nBebidas alcohólicas\nPropinas para el guía y el chófer\nCompras",
+  "highlights": [
+   "Saborea el mejor curry de paneer masala de la ciudad en un restaurante secreto"
+  ],
+  "included": [
+   "Degustación de más de 14 comidas y bebidas diferentes de Delhi",
+   "Auténtica aventura gastronómica en grupo muy reducido en Delhi, limitada a pocos huéspedes",
+   "Un guía gastronómico con licencia te acompañará",
+   "Agua embotellada y refrescantes bebidas indias",
+   "Este tour es apto para vegetarianos",
+   "Rickshaw de bicicleta para visitar los mercados locales",
+   "Recogida y regreso al hotel"
+  ],
+  "notIncluded": [
+   "Bebidas alcohólicas",
+   "Propinas para el guía y el chófer",
+   "Compras"
+  ]
+ },
+ "delhi-full-day-old-and-new-delhi-city-sightseeing": {
+  "title": "Delhi: visitas de día completo por la ciudad del Viejo y Nuevo Delhi",
+  "metaTitle": "Delhi: día completo, Viejo y Nuevo Delhi",
+  "metaDescription": "Explora la Jama Masjid, haz un paseo en rickshaw por las bulliciosas calles",
+  "shortDescription": "Explora la Jama Masjid, haz un paseo en rickshaw por las bulliciosas calles",
+  "fullDescription": "Delhi: visitas de día completo por la ciudad del Viejo y Nuevo Delhi. Explora la Jama Masjid, haz un paseo en rickshaw por las bulliciosas calles.\n\nComienza tu día con una visita a la Jama Masjid, una de las mezquitas más grandes de la India. Maravíllate con su impresionante arquitectura y las vistas panorámicas desde los minaretes.\n\nDespués de explorar la Jama Masjid, disfruta de un paseo en rickshaw por los bulliciosos callejones de Chandni Chowk. Sumérgete en el ambiente vibrante, prueba street food, y empápate de las vistas y sonidos del Viejo Delhi.\n\nPasa frente al Fuerte Rojo, Patrimonio de la Humanidad de la UNESCO. Dirígete luego a experimentar la serenidad del Gurudwara Bangla Sahib, uno de los gurdwaras sijs más prominentes de Delhi. Participa en el langar (comida comunitaria) para una experiencia conmovedora.\n\nPasa frente al imponente Rashtrapati Bhawan (Casa del Presidente), la residencia oficial del Presidente de la India. Detente en India Gate, un monumento de guerra, y rinde homenaje a los soldados que sacrificaron sus vidas.\n\nHaz una pausa para almorzar en un restaurante cercano, donde podrás disfrutar de cocina india local o platos internacionales.\n\nVisita el Templo del Loto, reconocido por su llamativa arquitectura en forma de loto y ambiente tranquilo. Pasa un tiempo de contemplación en esta Casa de Culto Bahá'í.\n\nExplora el Qutub Minar, el minarete de ladrillo más alto del mundo. Admira los intrincados tallados y las maravillas arquitectónicas de este Patrimonio de la Humanidad de la UNESCO.\n\nVisita la tumba de Humayun, una obra maestra de la arquitectura mogol y otro Patrimonio de la Humanidad de la UNESCO. Pasea por los exuberantes jardines, y maravíllate con la grandeza de la tumba.\n\nReflexiona sobre tu día de exploración mientras te llevan de regreso a tu hotel o al lugar de entrega preferido.\n\n**Qué incluye**\nVehículo privado con aire acondicionado para todo el tour\nRecogida y regreso al hotel/aeropuerto/estación de tren\nGuía turístico aprobado por el gobierno en todos los destinos\nAgua potable embotellada (2 botellas por día)\nPaseo en rickshaw en Chandni Chowk, en el Viejo Delhi\nTodos los gastos de estacionamiento y combustible\n\n**No incluye**\nTarifa de monumentos\nComida y bebidas\nPropina para el guía y el chófer",
+  "highlights": [
+   "Explora la Jama Masjid, haz un paseo en rickshaw por las bulliciosas calles"
+  ],
+  "included": [
+   "Vehículo privado con aire acondicionado para todo el tour",
+   "Recogida y regreso al hotel/aeropuerto/estación de tren",
+   "Guía turístico aprobado por el gobierno en todos los destinos",
+   "Agua potable embotellada (2 botellas por día)",
+   "Paseo en rickshaw en Chandni Chowk, en el Viejo Delhi",
+   "Todos los gastos de estacionamiento y combustible"
+  ],
+  "notIncluded": [
+   "Tarifa de monumentos",
+   "Comida y bebidas",
+   "Propina para el guía y el chófer"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
