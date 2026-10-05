@@ -5169,6 +5169,70 @@ export const ES_TOURS: Record<string, TourT> = {
    "Alojamiento"
   ]
  },
+ "agra-taj-mahal-sunrise-agra-fort-guided-tour": {
+  "title": "Agra: opciones de tour guiado al amanecer en el Taj Mahal y al fuerte de Agra",
+  "metaTitle": "Agra: Taj Mahal al amanecer y fuerte, opciones",
+  "metaDescription": "Vea el amanecer en el majestuoso Taj Mahal.",
+  "shortDescription": "Vea el amanecer en el majestuoso Taj Mahal.",
+  "fullDescription": "Sienta la magia del monumento más icónico de la India mientras el Taj Mahal brilla bajo el sol de la mañana, un momento que conmueve el alma. Comience con una recogida en su hotel en Agra (si se selecciona), y conozca a su guía local experto.\n\nEntre al Taj Mahal al amanecer, bañado en luz suave y con menos multitudes. Conozca la conmovedora historia del amor eterno entre Shah Jahan y Mumtaz Mahal mientras su guía lo lleva por la majestuosa estructura, los jardines, y el simbolismo de su diseño.\n\nDespués del Taj, continúe hacia el impresionante fuerte de Agra, una fortaleza de arenisca roja y antigua residencia de los emperadores mogoles. Descubra las cámaras reales, las vistas del Taj desde los balcones, y la rica mezcla arquitectónica de estilos persas e indios.\n\nSegún la opción seleccionada, disfrute de un cómodo coche con aire acondicionado, un abundante desayuno local, y boletos de entrada incluidos, para una mañana sin complicaciones, enriquecedora, e inolvidable en Agra.\n\nYa sea que tenga un horario ajustado o quiera experimentar lo mejor de los tours al Taj Mahal, esta opción privada de medio día hace que su visita sea profundamente personal y fluida.",
+  "highlights": [
+   "Vea el amanecer en el majestuoso Taj Mahal"
+  ],
+  "included": [
+   "Guía turístico privado autorizado",
+   "Recogida y traslado en Agra (si se selecciona)",
+   "Vehículo privado con aire acondicionado (si se selecciona)",
+   "Boletos de entrada al Taj Mahal y al fuerte de Agra (solo opción todo incluido)",
+   "Agua embotellada",
+   "Desayuno en un restaurante local (solo opción todo incluido)",
+   "Combustible, estacionamiento, peajes, e impuestos (si se selecciona el transporte)"
+  ],
+  "notIncluded": [
+   "Boletos de entrada a los monumentos (si no es todo incluido)",
+   "Comidas (si no es todo incluido)",
+   "Gastos personales",
+   "Propinas (opcional)"
+  ]
+ },
+ "taj-mahal-pick-guided-tour": {
+  "title": "Agra: tour sin filas al Taj Mahal y al fuerte de Agra con recogida",
+  "metaTitle": "Agra: Taj Mahal y fuerte, sin filas, recogida",
+  "metaDescription": "Evite las filas de boletos en el Taj Mahal y el fuerte de Agra con pases de entrada rápida.",
+  "shortDescription": "Evite las filas de boletos en el Taj Mahal y el fuerte de Agra con pases de entrada rápida.",
+  "fullDescription": "La mayoría de las personas que visitan Agra pasan una gran parte de su mañana esperando en filas de boletos. Este tour evita todo eso. Obtiene entrada rápida tanto en el Taj Mahal como en el fuerte de Agra, lo que significa más tiempo realmente dentro de estos lugares y menos tiempo mirando la nuca de alguien en una fila.\nComenzamos recogiéndolo. Ya sea que se aloje en un hotel en Agra o llegue a la estación de tren, su conductor viene a usted. El coche es privado, limpio, y con aire acondicionado. Nadie más comparte su tour. Es solo usted, su guía, y su conductor durante todo el día.\nSu guía no lee de un guion. Son personas que han pasado años trabajando en estos monumentos y saben cosas que ninguna audioguía o folleto le dirá jamás. En el Taj Mahal, le contarán la historia de Shah Jahan y Mumtaz, explicarán cómo se construyó realmente el edificio, y señalarán detalles en el trabajo de incrustación de mármol que la mayoría de los visitantes pasan completamente por alto. Puede tomarse su tiempo aquí. Hacer preguntas. Caminar a su propio ritmo.\nDesde allí se dirige al fuerte de Agra. Este lugar suele ser pasado por alto por turistas que solo tienen una cosa en mente, pero realmente vale la pena su tiempo. El fuerte mantuvo unido todo el Imperio mogol durante generaciones, y su guía le mostrará exactamente por qué fue importante. También hay un lugar en el interior donde Shah Jahan fue mantenido prisionero por su propio hijo y solo podía mirar el Taj Mahal a lo lejos. Solo esa historia hace que valga la pena la visita.\nSi tiene tiempo adicional y quiere añadir una parada más, el Baby Taj está justo ahí. Oficialmente se llama Itimad-Ud-Daulah. Es más pequeño que el Taj Mahal, pero el trabajo en mármol es posiblemente igual de intrincado, y casi nunca hay multitudes. Muchos viajeros lo consideran posteriormente un punto destacado.\nCuando termine el recorrido, su conductor lo lleva de regreso a donde necesite ir en Agra. Hotel, estación de tren, aeropuerto, simplemente háganoslo saber y nosotros nos encargamos.",
+  "highlights": [
+   "Evite las filas de boletos en el Taj Mahal y el fuerte de Agra con pases de entrada rápida"
+  ],
+  "included": [
+   "Asistencia de recogida y traslado",
+   "Coche privado con aire acondicionado con conductor",
+   "Guía que habla su idioma preferido en todos los lugares",
+   "Acceso sin filas a los monumentos",
+   "Tarifas de entrada a los monumentos (si se reserva esa opción)",
+   "Botellas de agua mineral",
+   "Asignaciones del conductor",
+   "Todos los peajes, estacionamiento, y cargos"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "Gastos personales",
+   "Propinas (opcional)"
+  ]
+ },
+ "agra-skip-the-line-taj-mahal-agra-fort-tickets": {
+  "title": "Agra: boletos sin filas para el Taj Mahal y el fuerte de Agra, con opciones adicionales",
+  "metaTitle": "Agra: Taj Mahal y fuerte, sin filas, opciones",
+  "metaDescription": "Evite las largas filas con entrada prioritaria al Taj Mahal y al fuerte de Agra.",
+  "shortDescription": "Evite las largas filas con entrada prioritaria al Taj Mahal y al fuerte de Agra.",
+  "fullDescription": "**Agra: boletos sin filas para el Taj Mahal y el fuerte de Agra, con opciones adicionales**\nAproveche al máximo su visita a Agra con opciones flexibles de boletos sin filas y servicios guiados opcionales. Elija entre una variedad de paquetes adaptados a sus necesidades de viaje:\n\n**Opción 1: solo boleto de entrada al Taj Mahal**\nEntrada rápida al icónico Taj Mahal\nSin coche, conductor, ni guía incluidos\n\n**Opción 2: guía, coche, y conductor con recogida/entrega en el hotel**\nCoche privado con aire acondicionado y guía autorizado\nRecogida y entrega en el hotel en Agra\nBoleto de entrada no incluido (comprar por separado)\n\n**Opción 3: entrada al Taj Mahal + guía, coche, y conductor con recogida en el hotel**\nIncluye entrada sin filas al Taj Mahal\nTour guiado y transporte privado\nRecogida y entrega sin complicaciones desde su hotel\n\n**Opción 4: solo boletos de entrada al Taj Mahal y al fuerte de Agra**\nAcceso sin filas a ambos monumentos\nSin guía, coche, ni conductor incluidos\nIdeal para viajeros flexibles y autoguiados\n\n**Opción 5: guía, coche, y conductor con recogida (sin boletos de entrada)**\nTransporte privado de puerta a puerta\nGuía turístico para ambos monumentos\nBoletos para el Taj Mahal y el fuerte de Agra no incluidos\n\n**Opción 6: paquete completo, boletos, guía, coche, y recogida**\nIncluye acceso sin filas al Taj Mahal y al fuerte de Agra\nCoche privado, guía experto, y recogida/entrega en el hotel\nLo mejor para una experiencia completa y sin estrés",
+  "highlights": [
+   "Evite las largas filas con entrada prioritaria al Taj Mahal y al fuerte de Agra"
+  ],
+  "included": [
+   "Consulte las opciones disponibles para ver qué está incluido y excluido, y elija la que mejor le convenga"
+  ],
+  "notIncluded": []
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",

@@ -5169,6 +5169,70 @@ export const DE_TOURS: Record<string, TourT> = {
    "Unterkunft"
   ]
  },
+ "agra-taj-mahal-sunrise-agra-fort-guided-tour": {
+  "title": "Agra: Taj Mahal Sonnenaufgang und Agra Fort, geführte Tour-Optionen",
+  "metaTitle": "Agra: Taj Mahal Sonnenaufgang und Fort, Optionen",
+  "metaDescription": "Erleben Sie den Sonnenaufgang am majestätischen Taj Mahal.",
+  "shortDescription": "Erleben Sie den Sonnenaufgang am majestätischen Taj Mahal.",
+  "fullDescription": "Spüren Sie die Magie Indiens ikonischsten Denkmals, wenn das Taj Mahal unter der Morgensonne erstrahlt, ein Moment, der die Seele berührt. Beginnen Sie mit einer Abholung von Ihrem Hotel in Agra (falls ausgewählt), und treffen Sie Ihren erfahrenen lokalen Guide.\n\nBetreten Sie das Taj Mahal im Morgengrauen, gebadet in sanftem Licht und mit weniger Menschenmassen. Erfahren Sie die herzberührende Geschichte der ewigen Liebe zwischen Shah Jahan und Mumtaz Mahal, während Ihr Guide Sie durch die majestätische Struktur, die Gärten, und die Symbolik ihres Designs führt.\n\nNach dem Taj geht es weiter zum beeindruckenden Agra Fort, einer Festung aus rotem Sandstein und ehemaligen Residenz der Mogulkaiser. Entdecken Sie königliche Kammern, Ausblicke auf das Taj von den Balkonen, und die reiche architektonische Mischung aus persischen und indischen Stilen.\n\nJe nach gewählter Option genießen Sie ein komfortables klimatisiertes Auto, ein herzhaftes lokales Frühstück, und inkludierte Eintrittskarten, für einen problemlosen, bereichernden, und unvergesslichen Morgen in Agra.\n\nOb Sie einen engen Zeitplan haben oder das Beste der Taj Mahal-Touren erleben möchten, diese private Halbtagsoption macht Ihren Besuch zutiefst persönlich und reibungslos.",
+  "highlights": [
+   "Erleben Sie den Sonnenaufgang am majestätischen Taj Mahal"
+  ],
+  "included": [
+   "Lizenzierter privater Reiseführer",
+   "Abholung und Rückbringung in Agra (falls ausgewählt)",
+   "Privates klimatisiertes Fahrzeug (falls ausgewählt)",
+   "Eintrittskarten zum Taj Mahal und Agra Fort (nur bei der Rundum-Option)",
+   "Wasser in Flaschen",
+   "Frühstück in einem lokalen Restaurant (nur bei der Rundum-Option)",
+   "Kraftstoff, Parken, Mautgebühren, und Steuern (falls Transport ausgewählt)"
+  ],
+  "notIncluded": [
+   "Eintrittskarten zu den Denkmälern (falls nicht Rundum-Option)",
+   "Mahlzeiten (falls nicht Rundum-Option)",
+   "Persönliche Ausgaben",
+   "Trinkgeld (optional)"
+  ]
+ },
+ "taj-mahal-pick-guided-tour": {
+  "title": "Agra: Skip-the-Line-Tour zum Taj Mahal und Agra Fort mit Abholung",
+  "metaTitle": "Agra: Taj Mahal und Fort, Skip-the-Line, Abholung",
+  "metaDescription": "Vermeiden Sie die Warteschlangen am Taj Mahal und Agra Fort mit Fast-Track-Eintrittspässen.",
+  "shortDescription": "Vermeiden Sie die Warteschlangen am Taj Mahal und Agra Fort mit Fast-Track-Eintrittspässen.",
+  "fullDescription": "Die meisten Menschen, die Agra besuchen, verbringen einen großen Teil ihres Vormittags in Ticketschlangen. Diese Tour überspringt das alles. Sie erhalten einen Fast-Track-Eintritt sowohl zum Taj Mahal als auch zum Agra Fort, was bedeutet, mehr Zeit tatsächlich in diesen Orten zu verbringen und weniger Zeit damit, auf den Hinterkopf einer Person in einer Schlange zu starren.\nWir beginnen damit, Sie abzuholen. Egal, ob Sie in einem Hotel in Agra wohnen oder am Bahnhof ankommen, Ihr Fahrer kommt zu Ihnen. Das Auto ist privat, sauber, und klimatisiert. Niemand sonst teilt sich Ihre Tour. Es sind nur Sie, Ihr Guide, und Ihr Fahrer für den ganzen Tag.\nIhr Guide liest nicht von einem Skript ab. Dies sind Menschen, die jahrelang an diesen Denkmälern gearbeitet haben und Dinge wissen, die kein Audioguide oder Flyer Ihnen je erzählen wird. Am Taj Mahal führen sie Sie durch die Geschichte von Shah Jahan und Mumtaz, erklären, wie das Gebäude tatsächlich errichtet wurde, und zeigen Details in der Marmor-Einlegearbeit, die die meisten Besucher völlig übersehen. Sie können sich hier Zeit nehmen. Fragen stellen. In Ihrem eigenen Tempo herumgehen.\nVon dort geht es weiter zum Agra Fort. Dieser Ort wird von Touristen, die nur eine Sache im Kopf haben, oft übersehen, aber er ist es wirklich wert, Zeit dort zu verbringen. Das Fort hielt das gesamte Mogulreich über Generationen zusammen, und Ihr Guide zeigt Ihnen genau, warum es wichtig war. Es gibt auch eine Stelle im Inneren, wo Shah Jahan von seinem eigenen Sohn gefangen gehalten wurde und nur in der Ferne auf das Taj Mahal blicken konnte. Allein diese Geschichte macht den Besuch lohnenswert.\nWenn Sie etwas zusätzliche Zeit haben und einen weiteren Stopp hinzufügen möchten, ist das Baby Taj gleich dort. Offiziell heißt es Itimad-Ud-Daulah. Es ist kleiner als das Taj Mahal, aber die Marmorarbeit ist wohl genauso kunstvoll, und es gibt fast nie Menschenmassen. Viele Reisende bezeichnen es nachträglich als ein Highlight.\nWenn die Besichtigung beendet ist, bringt Sie Ihr Fahrer zurück zu Ihrem gewünschten Ort in Agra. Hotel, Bahnhof, Flughafen, lassen Sie es uns einfach wissen, und wir erledigen es.",
+  "highlights": [
+   "Vermeiden Sie die Warteschlangen am Taj Mahal und Agra Fort mit Fast-Track-Eintrittspässen"
+  ],
+  "included": [
+   "Abhol- und Rückbringhilfe",
+   "Privates klimatisiertes Auto mit Fahrer",
+   "Guide, der Ihre bevorzugte Sprache spricht, an allen Orten",
+   "Skip-the-Line-Zugang zu den Denkmälern",
+   "Eintrittsgebühren zu den Denkmälern (falls Option gebucht)",
+   "Mineralwasserflaschen",
+   "Fahrerzulagen",
+   "Alle Mautgebühren, Parken, und Gebühren"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke",
+   "Persönliche Ausgaben",
+   "Trinkgeld (optional)"
+  ]
+ },
+ "agra-skip-the-line-taj-mahal-agra-fort-tickets": {
+  "title": "Agra: Skip-the-Line-Tickets für Taj Mahal und Agra Fort, mit Zusatzoptionen",
+  "metaTitle": "Agra: Taj Mahal und Fort, Skip-the-Line, Optionen",
+  "metaDescription": "Vermeiden Sie die langen Schlangen mit Priority-Eintritt zum Taj Mahal und Agra Fort.",
+  "shortDescription": "Vermeiden Sie die langen Schlangen mit Priority-Eintritt zum Taj Mahal und Agra Fort.",
+  "fullDescription": "**Agra: Skip-the-Line-Tickets für Taj Mahal und Agra Fort, mit Zusatzoptionen**\nNutzen Sie Ihren Besuch in Agra optimal mit flexiblen Skip-the-Line-Ticketoptionen und optionalen geführten Services. Wählen Sie aus einer Vielzahl von Paketen, die auf Ihre Reisebedürfnisse zugeschnitten sind:\n\n**Option 1: nur Eintrittsticket für das Taj Mahal**\nFast-Track-Eintritt zum ikonischen Taj Mahal\nKein Auto, Fahrer, oder Guide enthalten\n\n**Option 2: Guide, Auto, und Fahrer mit Hotelabholung/Absetzung**\nPrivates klimatisiertes Auto und lizenzierter Guide\nHotelabholung und Absetzung in Agra\nEintrittsticket nicht enthalten (separat kaufen)\n\n**Option 3: Taj Mahal Eintritt + Guide, Auto, und Fahrer mit Hotelabholung**\nBeinhaltet Skip-the-Line-Eintritt zum Taj Mahal\nGeführte Tour und privater Transport\nProblemlose Abholung und Absetzung von Ihrem Hotel\n\n**Option 4: nur Eintrittstickets für Taj Mahal und Agra Fort**\nSkip-the-Line-Zugang zu beiden Denkmälern\nKein Guide, Auto, oder Fahrer enthalten\nIdeal für flexible, selbstgeführte Reisende\n\n**Option 5: Guide, Auto, und Fahrer mit Abholung (ohne Eintrittstickets)**\nPrivater Tür-zu-Tür-Transport\nReiseführer für beide Denkmäler\nTickets für Taj Mahal und Agra Fort nicht enthalten\n\n**Option 6: Komplettpaket – Tickets, Guide, Auto, und Abholung**\nBeinhaltet Skip-the-Line-Zugang zum Taj Mahal und Agra Fort\nPrivates Auto, erfahrener Guide, und Hotelabholung/Absetzung\nAm besten für ein vollständiges, stressfreies Erlebnis",
+  "highlights": [
+   "Vermeiden Sie die langen Schlangen mit Priority-Eintritt zum Taj Mahal und Agra Fort"
+  ],
+  "included": [
+   "Prüfen Sie die verfügbaren Optionen, um zu sehen, was enthalten und ausgeschlossen ist, und wählen Sie dann die für Sie passende aus"
+  ],
+  "notIncluded": []
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
