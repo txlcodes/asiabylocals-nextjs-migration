@@ -5105,6 +5105,70 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben (optional)"
   ]
  },
+ "private-taj-mahal-agra-fort-fatehpur-day-trip": {
+  "title": "Privater Tagesausflug zum Taj Mahal, Agra Fort, und Fatehpur von Delhi aus",
+  "metaTitle": "Delhi-Agra-Fatehpur Sikri: Tagesausflug",
+  "metaDescription": "Besuchen Sie die UNESCO-Weltkulturerbestätten Agra und Fatehpur Sikri am selben Tag.",
+  "shortDescription": "Besuchen Sie die UNESCO-Weltkulturerbestätten Agra und Fatehpur Sikri am selben Tag.",
+  "fullDescription": "**Private Taj Mahal, Agra Fort, und Fatehpur Sikri Tour von Delhi aus**\n\nEntdecken Sie drei UNESCO-Weltkulturerbestätten in einem unvergesslichen privaten Tagesausflug von Delhi aus. Reisen Sie komfortabel in einem privaten klimatisierten Fahrzeug über die Yamuna Expressway und erkunden Sie das prächtige Taj Mahal, das historische Agra Fort, und die bemerkenswerte Mogulstadt Fatehpur Sikri mit einem erfahrenen lokalen Guide.\n\nWählen Sie das Paket, das zu Ihnen passt, einschließlich Optionen mit privatem Transport, professionellem Guide, Eintrittskarten zu den Denkmälern, und einem köstlichen Buffet-Mittagessen in einem 5-Sterne-Luxushotel.\n\n**Abholung von Delhi**\n\nIhre private Tour beginnt mit einer bequemen Abholung von Ihrem Hotel, Flughafen, Bahnhof, oder einem bevorzugten Ort in Delhi, Noida, Gurugram, Ghaziabad, oder Faridabad.\n\nLehnen Sie sich zurück und genießen Sie die etwa 3-stündige Fahrt nach Agra in einem komfortablen privaten klimatisierten Fahrzeug über die Yamuna Expressway.\n\n**Erkundung des Taj Mahal**\n\nTreffen Sie Ihren erfahrenen lokalen Guide in Agra und beginnen Sie Ihre Besichtigung am weltberühmten Taj Mahal, einem der ikonischsten Denkmäler Indiens und einem UNESCO-Weltkulturerbe.\n\nErbaut vom Mogulkaiser Shah Jahan zum Gedenken an seine geliebte Frau Mumtaz Mahal, wird das Taj Mahal für seine atemberaubende weiße Marmor-Architektur und exquisite Handwerkskunst gefeiert.\n\nEntdecken Sie:\n\nPrächtige weiße Marmor-Architektur\nKunstvolle Marmor-Einlegearbeiten und Steinmetzarbeiten\nSchöne Mogul-Gärten\nSpiegelbecken und ikonische Aussichtspunkte\nBeste Orte für Fotos\nDie faszinierende Geschichte und Liebesgeschichte hinter dem Denkmal\n\n**Besuch des historischen Agra Forts**\n\nWeiter geht es zum Agra Fort, der prächtigen Festung aus rotem Sandstein, die als Hauptresidenz der Mogulkaiser diente.\n\nErkunden Sie wichtige Bereiche der Festung, einschließlich:\n\nDiwan-i-Am (Halle der öffentlichen Audienz)\nDiwan-i-Khas (Halle der privaten Audienz)\nJahangirs Palast\nKhas Mahal\nMusamman Burj\nKönigliche Höfe und Paläste\nSpektakuläre Ausblicke auf das Taj Mahal\n\nErfahren Sie mehr über die mächtigen Mogulkaiser, die von dieser beeindruckenden Festung aus regierten, und hören Sie die Geschichte von Shah Jahans letzten Jahren.\n\n**Optionales 5-Sterne-Buffet-Mittagessen**\n\nJe nach gewähltem Paket genießen Sie ein entspannendes Buffet-Mittagessen in einem 5-Sterne-Luxushotel in Agra.\n\nWählen Sie aus einer Vielzahl indischer und internationaler Gerichte, mit vegetarischen Optionen.\n\n**Reise nach Fatehpur Sikri**\n\nNach dem Mittagessen geht es etwa eine Stunde mit dem privaten Fahrzeug weiter nach Fatehpur Sikri, der bemerkenswerten Mogul-Hauptstadt aus dem 16. Jahrhundert, erbaut von Kaiser Akbar.\n\n**Erkundung von Fatehpur Sikri**\n\nSpazieren Sie durch den wunderschön erhaltenen Komplex aus rotem Sandstein und entdecken Sie die Pracht der kaiserlichen Stadt Akbars.\n\nBesuchen Sie Highlights, darunter:\n\nBuland Darwaza, Jama Masjid, das Mausoleum von Sheikh Salim Chishti, Diwan-i-Khas, Diwan-i-Am, Panch Mahal\nJodha Bai Palast, Anup Talao\n\nIhr Guide erklärt die Geschichte, Architektur, das königliche Leben, und die faszinierende Geschichte von Fatehpur Sikri, einschließlich warum die prächtige Stadt letztendlich verlassen wurde.\n\n**Rückfahrt nach Delhi**, mit Absetzung, wo Sie möchten.",
+  "highlights": [
+   "Besuchen Sie die UNESCO-Weltkulturerbestätten Agra und Fatehpur Sikri am selben Tag"
+  ],
+  "included": [
+   "Abhol- und Rückbringservice",
+   "Klimatisiertes Fahrzeug für die Besichtigung",
+   "Skip-the-Line-Tour zum Taj Mahal",
+   "Privater Live-Reiseführer-Service",
+   "Mittagessen im 5-Sterne-Hotel (falls ausgewählt)",
+   "Eintrittskarte zu den Denkmälern (falls ausgewählt)",
+   "Wasserflaschen und Regenschirme",
+   "Alle Parkgebühren und Steuern"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben"
+  ]
+ },
+ "agra-ranthambore-jaipur-delhi-multi-day-tour": {
+  "title": "Agra: mehrtägige Tour Ranthambore, Jaipur, und Delhi",
+  "metaTitle": "Agra-Ranthambore-Jaipur-Delhi: mehrtägige Tour",
+  "metaDescription": "Bewundern Sie die Schönheit des Taj Mahal und des Agra Forts.",
+  "shortDescription": "Bewundern Sie die Schönheit des Taj Mahal und des Agra Forts.",
+  "fullDescription": "Diese mehrtägige Tour führt Sie von Agra nach Ranthambore, Jaipur, und Delhi, mit einem privaten klimatisierten Fahrzeug und einem erfahrenen englischsprachigen Fahrer/Guide, einer Jeep-Safari im Ranthambore-Nationalpark (je nach Verfügbarkeit), und allen anfallenden Steuern und Parkgebühren, um die Schönheit des Taj Mahal und des Agra Forts zu bewundern.",
+  "highlights": [
+   "Bewundern Sie die Schönheit des Taj Mahal und des Agra Forts"
+  ],
+  "included": [
+   "Alle Transfers und Besichtigungen im privaten klimatisierten Fahrzeug",
+   "Erfahrener englischsprachiger Fahrer/Guide",
+   "Jeep-Safari im Ranthambore-Nationalpark (je nach Verfügbarkeit)",
+   "Alle anfallenden Steuern und Parkgebühren",
+   "Eintrittsgebühren zu den Denkmälern",
+   "Zusätzliche Safaris oder optionale Touren"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgeld"
+  ]
+ },
+ "taj-mahal-visits-private-tour-with-licensed-tour": {
+  "title": "Private Taj Mahal Tour mit lizenziertem Reiseführer",
+  "metaTitle": "Agra: Taj Mahal, lizenzierter Guide, flexibler Eintritt",
+  "metaDescription": "Flexibler Eintritt vom Sonnenaufgang bis zum Sonnenuntergang.",
+  "shortDescription": "Flexibler Eintritt vom Sonnenaufgang bis zum Sonnenuntergang.",
+  "fullDescription": "Genießen Sie einen flexiblen, vollständig geführten Besuch des Taj Mahal, bei dem Sie sich jederzeit vom Sonnenaufgang bis zum Sonnenuntergang nach Belieben anschließen können. Dieses Erlebnis ist für problemloses Reisen gestaltet, mit allen Tickets für jeden erlaubten Bereich des Denkmals inklusive, um einen reibungslosen und ununterbrochenen Zugang zu gewährleisten.\n\nMit einem professionellen Guide können Sie das Warten in Schlangen vermeiden und Ihre Zeit bei der Erkundung dieses UNESCO-Weltkulturerbes optimal nutzen. Erfahren Sie mehr über seine faszinierende Geschichte, Mogul-Architektur, und die zeitlose Liebesgeschichte hinter seiner Entstehung, während Sie einen komfortablen und gut organisierten Besuch genießen.\n\nPerfekt für Reisende, die Flexibilität, Bequemlichkeit, und ein reiches kulturelles Erlebnis an einer der ikonischsten Sehenswürdigkeiten der Welt suchen.",
+  "highlights": [
+   "Flexibler Eintritt vom Sonnenaufgang bis zum Sonnenuntergang"
+  ],
+  "included": [
+   "Eintrittskarten zum Taj Mahal",
+   "Eintritt zum Mausoleum des Taj Mahal",
+   "Englischsprachiger lizenzierter Reiseführer"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Unterkunft"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
