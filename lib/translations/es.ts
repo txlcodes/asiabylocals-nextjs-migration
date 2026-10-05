@@ -20159,6 +20159,85 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "delhis-spiritual-tour-yoga-meditation-hindu": {
+  "title": "Tour espiritual de Delhi: yoga, meditación, y tradiciones hindúes",
+  "metaTitle": "Delhi: yoga, meditación, tradiciones hindúes",
+  "metaDescription": "Disfrute de una experiencia segura, incluso para viajeras solas.",
+  "shortDescription": "Disfrute de una experiencia segura, incluso para viajeras solas.",
+  "fullDescription": "Organizado por la guía Nidhi y su esposo, una pareja felizmente casada durante más de 28 años, este tour abre las puertas a un hermoso y seguro hogar familiar local en Delhi, donde se le ofrecerá este tour. Desde el momento en que llegue, se sentirá súper seguro, cómodamente a gusto, y cálidamente bienvenido a sus vidas.\n\nLos detalles del tour son los siguientes:\n\nÚnase a un profundo viaje de 4 horas al corazón espiritual de la India. En esta experiencia única, se sumergirá en las tradiciones y costumbres del hinduismo, descubrirá el significado de los mantras sagrados, explorará la importancia mística del número 108, y tendrá una sesión de yoga con la guía experta.\n\nP. ¿Por qué el hinduismo, la religión más antigua del mundo, no se ha extendido a otras partes del globo, y de dónde viene la palabra 'hindú'?\n\nP. ¿Por qué los hindúes rezan a millones de dioses, y quién es el más grande de todos ellos?\n\nP. ¿Cómo suena el sánscrito, la lengua sagrada de los mantras hindúes, y qué lo hace uno de los idiomas más difíciles de aprender?\n\nP. ¿Por qué los hindúes solo comen comida vegetariana, y qué dificulta ser vegano en la India?\n\nP. ¿Qué hace que el Ganges sea el río más sagrado para los hindúes, y por qué suceden tantas cremaciones en su orilla en Varanasi?\n\nEstas y muchas más preguntas serán respondidas de manera interactiva y muy sencilla durante esta experiencia.\n\n**1.** Al entrar en un entorno sereno y pacífico, se envolverá en una sensación de calma y tranquilidad. Una cálida bienvenida comienza con una refrescante taza de té de hierbas para calmar sus sentidos y prepararlo para el viaje espiritual que le espera.\n\n**2. Clase de yoga:** comience con una sesión de yoga dirigida por un instructor experto, adaptada a todos los niveles. Respire, estírese, y conéctese con su ser interior.\n\n**3. Tradiciones y costumbres hindúes:** conozca el rico patrimonio cultural del hinduismo, sus rituales, y prácticas. Obtenga una visión de la vida diaria de una familia hindú y sus prácticas espirituales al visitar su santuario personal en su hogar.\n\n**4. Mantras y sonidos sagrados:** descubra el poder de los antiguos mantras hindúes. Participe en una sesión guiada de canto de mantras para experimentar las vibraciones.\n\n**5. El significado del 108:** descubra la importancia mística del número místico 108 en el hinduismo. Explore su conexión con el universo, la naturaleza, y la existencia humana.\n\n**6. Visita al establo de vacas:** visitará un establo de vacas cercano, donde tendrá la oportunidad de alimentar a mano a estos animales venerados. Conocerá los cinco productos maravillosos derivados de las vacas, usados por los hindúes.\n\n**7.** Vea un lugar de cremación hindú con la guía, y conozca la filosofía detrás de las cremaciones.\n\nDespués de todo lo anterior, será invitado a participar en una sesión de preguntas y respuestas reflexiva, para aclarar dudas, buscar una comprensión más profunda, y explorar temas que le hayan resonado.\n\nSe le proporcionará un recuerdo especial de la India hacia el final de la experiencia.\n\nReserve ahora para embarcarse en un viaje único que combina educación y espiritualidad, cuidadosamente diseñado para dejarle recuerdos inolvidables y una nueva perspectiva.",
+  "highlights": [
+   "Disfrute de una experiencia segura, incluso para viajeras solas"
+  ],
+  "included": [
+   "Esterilla de yoga",
+   "Té de hierbas",
+   "Un recuerdo especial",
+   "Agua embotellada ilimitada",
+   "Wi-Fi gratuito a velocidad 5G",
+   "Baño limpio e higiénico",
+   "Recogida y traslado gratuitos desde la estación de metro",
+   "Se puede personalizar para cumpleaños o aniversario"
+  ],
+  "notIncluded": [
+   "Recogida y traslado al hotel",
+   "Seguros de viaje y médico",
+   "Propinas y gratificaciones para la guía",
+   "No se permite alcohol en la casa de la guía",
+   "No se permite comida no vegetariana en la casa de la guía",
+   "No se permiten sustancias prohibidas en la casa de la guía"
+  ]
+ },
+ "2-days-agra-jaipur-experience-from-delhi": {
+  "title": "Experiencia de 2 días a Agra y Jaipur desde Delhi",
+  "metaTitle": "Delhi-Agra-Jaipur en 2 días",
+  "metaDescription": "Explore las icónicas ciudades de Agra y Jaipur en un tour privado de 2 días desde Delhi.",
+  "shortDescription": "Explore las icónicas ciudades de Agra y Jaipur en un tour privado de 2 días desde Delhi.",
+  "fullDescription": "**Día 1: Delhi, Agra, estancia en Jaipur**\n\n**Paso 1: recogida en Delhi**\nConozca a su conductor privado en su hotel, aeropuerto, o lugar preferido en Delhi, y comience su cómodo viaje a Agra en un vehículo privado con aire acondicionado.\n\n**Paso 2: visita al Taj Mahal**\nExplore el impresionante Taj Mahal con su guía experto. Descubra la fascinante historia de amor detrás de esta obra maestra de mármol blanco, mientras admira su impresionante arquitectura, tranquilos jardines, y intrincada artesanía.\n\n**Paso 3: exploración del fuerte de Agra**\nContinúe hacia el fuerte de Agra, catalogado por la UNESCO, donde grandiosos palacios, patios reales, e impresionante arquitectura mogola revelan la rica historia del mayor imperio de la India.\n\n**Paso 4: pausa para el almuerzo**\nDisfrute de un relajante almuerzo en un restaurante local cuidadosamente seleccionado, o en un hotel de 5 estrellas si se selecciona esa opción.\n\n**Paso 5: trayecto hacia Jaipur**\nDespués de los recorridos, continúe su pintoresco trayecto hacia Jaipur. Regístrese en su hotel, y disfrute de una relajante noche.\n\n**Hoteles en Jaipur:**\nHoteles de 3 estrellas: Golden Tulip Essential / similar\nHoteles de 4 estrellas: Fern Residency / similar\nHoteles de 5 estrellas: Intercontinental / Hilton / Holiday Inn City Center / similar\n\n**Día 2: recorrido por Jaipur, Delhi**\n\n**Paso 1: desayuno en el hotel**\nComience su día con el desayuno, antes de conocer a su guía local para un día completo de recorridos.\n\n**Paso 2: fuerte Amber**\nExplore el majestuoso fuerte Amber, famoso por sus patios reales, hermoso trabajo de espejos, y espectaculares vistas desde la colina.\n\n**Paso 3: Jal Mahal**\nDeténgase en el pintoresco Palacio del Agua para fotografías memorables con vista al lago Man Sagar.\n\n**Paso 4: Hawa Mahal**\nAdmire el icónico Palacio de los Vientos, reconocido por su única fachada de panal y notable arquitectura rajput.\n\n**Paso 5: City Palace**\nVisite la residencia real de los maharajás de Jaipur, y explore sus museos, elegantes patios, y colecciones históricas.\n\n**Paso 6: Jantar Mantar**\nDescubra el observatorio astronómico catalogado por la UNESCO, hogar de instrumentos notables que han medido el tiempo y los movimientos celestiales durante siglos.\n\n**Paso 7: regreso a Delhi**\nRelájese durante el trayecto de regreso a Delhi, donde su conductor privado lo dejará en su hotel, aeropuerto, o lugar preferido, concluyendo su inolvidable viaje de dos días por Agra y Jaipur.",
+  "highlights": [
+   "Explore las icónicas ciudades de Agra y Jaipur en un tour privado de 2 días desde Delhi"
+  ],
+  "included": [
+   "Tour privado para una experiencia personalizada",
+   "1 noche de alojamiento (si se elige esa opción)",
+   "1 desayuno en los hoteles (si se elige la opción de hotel)",
+   "Transporte en vehículo privado con aire acondicionado",
+   "Guía turístico en vivo",
+   "Paseo en carrito de golf, estacionamiento hasta la puerta del Taj Mahal",
+   "Todos los impuestos y cargos de servicio",
+   "Recogida y traslado en hoteles, aeropuerto, o estación de tren",
+   "Agua mineral embotellada proporcionada durante el viaje"
+  ],
+  "notIncluded": [
+   "Cualquier propina para el conductor y el guía (opcional)",
+   "Tarifas de entrada (aproximadamente $60 en total por persona para todos los monumentos)",
+   "Almuerzo y cena"
+  ]
+ },
+ "delhi-same-day-sariska-national-park-tour-with": {
+  "title": "Delhi: tour al Parque Nacional de Sariska en el mismo día con safari de tigres",
+  "metaTitle": "Delhi-Sariska: safari de tigres en 1 día",
+  "metaDescription": "Observe tigres de Bengala, leopardos, y especies de ciervos como el sambar y el chital.",
+  "shortDescription": "Observe tigres de Bengala, leopardos, y especies de ciervos como el sambar y el chital.",
+  "fullDescription": "Embárquese en una excursión de un día desde Delhi al Parque Nacional de Sariska. Disfrute de un safari matutino para observar tigres de Bengala, especies de ciervos, nilgós, leopardos, y varias especies de aves. Después del almuerzo, visite el fuerte de Kankwari y el templo Pandupol Hanuman.\n\nComience su día con una recogida temprano en la mañana en su hotel en Delhi. Conduzca hacia el Parque Nacional de Sariska, deteniéndose en el camino para desayunar en un restaurante local o dhaba. Llegue a la puerta de entrada del parque, y complete el registro para el safari.\n\nOpte por un safari en jeep o un safari en cantor. Explore las zonas centrales de la Reserva de Tigres de Sariska. Observe tigres de Bengala, especies de ciervos (como el sambar y el chital), nilgós, leopardos, y varias especies de aves.\n\nDespués del safari, almuerce en un restaurante o resort cercano. Algunos resorts cerca del parque ofrecen excelente cocina de Rajasthan. Después del almuerzo, visite el fuerte de Kankwari, un antiguo fuerte dentro del parque.\n\nDiríjase hacia el templo Pandupol Hanuman, asociado con el Mahabharata. Relájese, y disfrute de la belleza pintoresca de las colinas Aravalli. Comience el trayecto de regreso a Delhi alrededor de las 18:30, y llegue a Delhi entre las 22:30 y las 23:00 (10:30-11:00 PM).",
+  "highlights": [
+   "Observe tigres de Bengala, leopardos, y especies de ciervos como el sambar y el chital"
+  ],
+  "included": [
+   "Recogida y traslado privados",
+   "Guía privado",
+   "Transporte en coche con aire acondicionado",
+   "Agua mineral embotellada",
+   "Safari matutino (si se reserva esa opción)",
+   "Safari matutino y de tarde (si se reserva esa opción)",
+   "Safari en jeep/cantor (según disponibilidad)",
+   "Todos los impuestos y el estacionamiento"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "Propinas (opcional)",
+   "Gastos personales"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
