@@ -609,6 +609,75 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder für Guide und Fahrer (optional)"
   ]
  },
+ "9-days-private-trip-holy-amritsar-and-golden": {
+  "title": "9-tägige Privatreise - Heiliges Amritsar und Goldenes Dreieck",
+  "metaTitle": "9 Tage: heiliges Amritsar und Goldenes Dreieck",
+  "metaDescription": "Besuchen Sie den heiligen Goldenen Tempel und erleben Sie seine spirituelle Atmosphäre.",
+  "shortDescription": "Besuchen Sie den heiligen Goldenen Tempel und erleben Sie seine spirituelle Atmosphäre.",
+  "fullDescription": "**Tag 1: Ankunft in Delhi**\nBei der Ankunft in Delhi treffen Sie Ihren Fahrer und werden zu Ihrem Hotel transferiert. Nach dem Check-in genießen Sie eine entspannte Einführung in Indiens Hauptstadt mit einem kurzen abendlichen Besuch lokaler Märkte oder nahegelegener Attraktionen. Übernachtung in Delhi.\n\n**Tag 2: Delhi Besichtigungstour**\nNach dem Frühstück begeben Sie sich auf eine ganztägige Erkundung von Alt- und Neu-Delhi. Besuchen Sie Jama Masjid, genießen Sie eine Rikscha-Fahrt durch Chandni Chowk, und fahren Sie am Roten Fort vorbei. Weiter zu India Gate, Humayuns Grab, Qutub Minar, und den Präsidentengebäuden. Rückkehr zum Hotel für eine Übernachtung.\n\n**Tag 3: Delhi – Amritsar**\nNach dem Frühstück fahren Sie oder nehmen den Zug nach Amritsar. Bei der Ankunft checken Sie in Ihrem Hotel ein und entspannen sich. Am Abend erleben Sie die patriotische Wagah-Grenz-Zeremonie an der Wagah-Grenze. Rückkehr zum Hotel für eine Übernachtung.\n\n**Tag 4: Amritsar Besichtigung – Rückkehr nach Delhi**\nBeginnen Sie den Tag mit einem Besuch des heiligen Goldenen Tempels und erleben Sie seine friedliche Atmosphäre. Erkunden Sie Jallianwala Bagh und erfahren Sie mehr über seine historische Bedeutung. Später reisen Sie zurück nach Delhi und übernachten dort.\n\n**Tag 5: Delhi – Agra**\nNach dem Frühstück fahren Sie nach Agra über die Yamuna Expressway. Checken Sie in Ihrem Hotel ein und besuchen Sie das Agra Fort, eine prächtige Mogul-Festung. Genießen Sie Sonnenuntergangsblicke auf den Taj Mahal von Mehtab Bagh. Übernachtung in Agra.\n\n**Tag 6: Agra – Fatehpur Sikri – Jaipur**\nFrüh morgens Besuch des ikonischen Taj Mahal bei Sonnenaufgang. Rückkehr zum Hotel zum Frühstück vor der Abfahrt nach Jaipur. Auf dem Weg erkunden Sie das UNESCO-gelistete Fatehpur Sikri. Weiter nach Jaipur und Check-in in Ihrem Hotel. Übernachtung in Jaipur.\n\n**Tag 7: Jaipur Besichtigungstour**\nEntdecken Sie das königliche Erbe von Jaipur. Besuchen Sie Amber Fort, Jal Mahal, City Palace, und Jantar Mantar. Halten Sie für Fotos am berühmten Hawa Mahal und genießen Sie lokale Märkte am Abend. Übernachtung in Jaipur.\n\n**Tag 8: Jaipur – Delhi**\nNach dem Frühstück fahren Sie zurück nach Delhi. Bei der Ankunft genießen Sie Freizeit zum Einkaufen, für Freizeitaktivitäten, oder optionale Besichtigungen. Übernachtung in Delhi.\n\n**Tag 9: Abreise aus Delhi**\nNach dem Frühstück checken Sie aus Ihrem Hotel aus und werden zum Flughafen oder Ihrem bevorzugten Ort in Delhi transferiert. Reisen Sie ab mit unvergesslichen Erinnerungen an den spirituellen Charme von Amritsar und die kulturellen Schätze des Goldenen Dreiecks.",
+  "highlights": [
+   "Besuchen Sie den heiligen Goldenen Tempel und erleben Sie seine spirituelle Atmosphäre"
+  ],
+  "included": [
+   "Hotel-/Flughafenabholung und Rückfahrt",
+   "Privates klimatisiertes Auto für die gesamte Tour mit Fahrer",
+   "Von der Regierung zugelassener lokaler Expertenguide in jeder Stadt",
+   "8 Nächte Hotelunterkunft (falls Option ausgewählt)",
+   "Frühstück im Hotel",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parken"
+  ],
+  "notIncluded": [
+   "Eintrittstickets für Denkmäler",
+   "Mittag- und Abendessen",
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "agra-create-your-own-itinerary-with-private-car": {
+  "title": "Agra: gestalten Sie Ihren eigenen Reiseplan mit Privatauto & Guide",
+  "metaTitle": "Agra: eigener Reiseplan, Privatauto und Guide",
+  "metaDescription": "Erkunden Sie Agra in Ihrem eigenen Tempo mit einem privaten Guide und Fahrer.",
+  "shortDescription": "Erkunden Sie Agra in Ihrem eigenen Tempo mit einem privaten Guide und Fahrer.",
+  "fullDescription": "Gestalten Sie Ihr eigenes unvergessliches Agra-Besichtigungserlebnis mit der Flexibilität eines privaten Guides und eines klimatisierten Fahrzeugs. Nach der Abholung von Ihrem Hotel, Flughafen, Bahnhof, oder einem beliebigen bevorzugten Ort in Agra treffen Sie Ihren kompetenten Guide, um einen personalisierten Reiseplan basierend auf Ihren Interessen, verfügbarer Zeit, und Tempo zu planen.\n\nWählen Sie, weltberühmte Sehenswürdigkeiten wie den Taj Mahal, das Agra Fort, Itmad-ud-Daulah (Baby Taj), Mehtab Bagh, oder Akbars Grab in Sikandra zu besuchen. Sie können auch Agras lebendige lokale Märkte, berühmte Marmor-Einlegewerkstätten, Kunsthandwerksläden, Gewürzmärkte erkunden, oder authentische Mughlai-Küche in einem empfohlenen lokalen Restaurant genießen.\n\nIhr privater Guide wird faszinierende Geschichten über Agras Mogul-Erbe teilen, während Ihr Chauffeur eine komfortable Reise zwischen den Attraktionen gewährleistet. Egal ob Sie ein paar Stunden oder einen ganzen Tag haben, diese flexible Tour lässt Sie Agra genau so erleben, wie Sie es möchten.\n\nNach Ihrem personalisierten Besichtigungserlebnis entspannen Sie sich, während Sie an Ihrem Hotel, Flughafen, Bahnhof, oder Ihrem bevorzugten Ort abgesetzt werden.",
+  "highlights": [
+   "Erkunden Sie Agra in Ihrem eigenen Tempo mit einem privaten Guide und Fahrer"
+  ],
+  "included": [
+   "Abholung vom Hotel, Flughafen, oder Bahnhof in Agra",
+   "Privater Reiseführer",
+   "Klimatisiertes Fahrzeug",
+   "Eintritt ohne Warteschlange",
+   "Personalisierter Reiseplan",
+   "Wasser in Flaschen",
+   "Rückfahrt zum Hotel, Flughafen, oder Bahnhof in Agra"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "gatimaan-train-tour-delhi-agra-delhi-with-train": {
+  "title": "Gatimaan Zugtour: Delhi Agra Delhi mit Zugtickets",
+  "metaTitle": "Gatimaan Zug: Delhi-Agra-Delhi mit Tickets",
+  "metaDescription": "Reisen Sie mit Indiens schnellstem Gatimaan Express mit bestätigten Zugtickets.",
+  "shortDescription": "Reisen Sie mit Indiens schnellstem Gatimaan Express mit bestätigten Zugtickets.",
+  "fullDescription": "**06:30 Uhr – Ankunft am Bahnhof Hazrat Nizamuddin**\nKommen Sie am Bahnhof Hazrat Nizamuddin an und besteigen Sie den Gatimaan Express. Ihr Zug fährt gegen 8:10 Uhr ab. Genießen Sie das an Bord servierte Frühstück während der Fahrt.\n\n**09:50 Uhr – Ankunft in Agra**\nBei der Ankunft am Bahnhof Agra Cantt treffen Sie Ihren Fahrer und professionellen Reiseführer. Beginnen Sie Ihre Besichtigungstour in einem privaten klimatisierten Fahrzeug.\n\n**10:15 Uhr – Besuch des Taj Mahal**\nErkunden Sie den atemberaubenden Taj Mahal, eines der Sieben Weltwunder. Erfahren Sie mehr über die zeitlose Liebesgeschichte von Kaiser Shah Jahan und Mumtaz Mahal, während Sie die atemberaubende Marmorarchitektur des Denkmals bewundern.\n\n**12:30 Uhr – Besuch des Agra Fort**\nFahren Sie weiter zum Agra Fort, einer beeindruckenden UNESCO-Welterbestätte, erbaut von Kaiser Akbar. Entdecken Sie seine prächtigen Paläste, Audienzhallen, und schönen Höfe mit Blick auf den Taj Mahal.\n\n**14:00 Uhr – Mittagessen**\nGenießen Sie ein entspannendes Mittagessen in einem gut bewerteten lokalen Restaurant mit indischer und internationaler Küche (je nach gewähltem Paket).\n\n**15:00 Uhr – Optionale Besichtigung**\nBesuchen Sie Itmad-ud-Daulah (Baby Taj), bekannt für seine kunstvolle Marmor-Einlegearbeit, oder Mehtab Bagh für spektakuläre Ausblicke auf den Taj Mahal über den Fluss Yamuna.\n\n**17:00 Uhr – Transfer zum Bahnhof Agra Cantt**\nNach der Besichtigung werden Sie zum Bahnhof Agra Cantt transferiert, um den Gatimaan Express zurück nach Delhi zu besteigen. Abendessen wird an Bord serviert.\n\n**19:30 Uhr – Ankunft in Delhi**\nAnkunft am Bahnhof Hazrat Nizamuddin, was das Ende Ihrer unvergesslichen eintägigen Gatimaan Zugtour von Delhi nach Agra markiert.",
+  "highlights": [
+   "Reisen Sie mit Indiens schnellstem Gatimaan Express mit bestätigten Zugtickets"
+  ],
+  "included": [
+   "Zugtickets Gatimaan Express (Delhi Agra Delhi) Hin- und Rückfahrt, je nach ausgewählter Option, CC- oder EC-Zugtickets",
+   "Professioneller Reiseführer",
+   "Privates klimatisiertes Auto für die gesamte Aktivität",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parken",
+   "Mittagessen"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
