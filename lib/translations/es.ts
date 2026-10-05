@@ -3148,6 +3148,77 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier gasto personal"
   ]
  },
+ "from-delhi-private-guided-day-tour-of-taj-mahal": {
+  "title": "Desde Delhi: tour guiado privado de un día al Taj Mahal y Agra",
+  "metaTitle": "Delhi-Agra: Taj Mahal, tour guiado privado",
+  "metaDescription": "Maravíllese con la impresionante belleza del icónico Taj Mahal.",
+  "shortDescription": "Maravíllese con la impresionante belleza del icónico Taj Mahal.",
+  "fullDescription": "Elija cualquier momento para la recogida entre las 3 y las 11 de la mañana.\n\nDisfrute de un tour guiado de día completo por Agra siendo recogido en su hotel o en el aeropuerto en Delhi, Gurgaon, o Noida. Relájese durante un traslado consolidado en un vehículo con aire acondicionado. A su llegada a Agra, conozca a su guía privado, evite las multitudes, y diríjase al icónico Taj Mahal (Sitio del Patrimonio Mundial de la UNESCO), un testimonio viviente del profundo amor del gran emperador mogol Shah Jahan por su amada esposa Mumtaz Mahal. Hablemos ahora de otro Sitio del Patrimonio Mundial de la UNESCO, el Fuerte de Agra. Usando arenisca roja, el emperador Akbar construyó esta formidable fortaleza en el año 1565 d.C. Combina características arquitectónicas de Asia Central e hindúes de manera armoniosa.\n\nPare en un restaurante de 5 estrellas para un delicioso almuerzo y disfrute de un festín que combina elementos de la cocina extranjera y local.\n\nDespués del almuerzo, diríjase a la magnífica Tumba de Itmad-Ud-Daulah, también conocida como el Baby Taj. Noor Jahan construyó esta maravilla de mármol impecable como tributo a su padre.\n\nRegrese a su hotel, el aeropuerto, o cualquier otro destino en Delhi mientras el día llega a su fin.",
+  "highlights": [
+   "Maravíllese con la impresionante belleza del icónico Taj Mahal"
+  ],
+  "included": [
+   "Recogida y traslado al hotel",
+   "Guía turístico privado",
+   "Auto privado con aire acondicionado",
+   "Lanzadera eléctrica desde el estacionamiento hasta la entrada del Taj Mahal",
+   "Boletos de entrada a los monumentos (si se elige la opción)",
+   "Almuerzo o desayuno (si se elige la opción)",
+   "Agua embotellada gratuita con minerales",
+   "Todos los impuestos, tarifas, y cargos de manejo",
+   "Recargo de combustible",
+   "GST (impuesto sobre bienes y servicios)",
+   "Atención y cuidado personalizado"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "a-day-tour-of-bharatpur-bird-sanctuary-from-agra": {
+  "title": "Tour de un día al santuario de aves de Bharatpur desde Agra",
+  "metaTitle": "Agra-Bharatpur: santuario de aves",
+  "metaDescription": "Cubra más terreno en el parque nacional durante el paseo en rickshaw.",
+  "shortDescription": "Cubra más terreno en el parque nacional durante el paseo en rickshaw.",
+  "fullDescription": "**1. Salida desde Agra**\nComience su día temprano por la mañana para aprovechar al máximo su visita al Parque Nacional Keoladeo. La distancia de Jaipur a Agra es de aproximadamente 60 kilómetros, y el viaje por carretera toma alrededor de 2 horas.\n\n**2. Llegada al Parque Nacional Keoladeo**\nUna vez que llegue a Bharatpur, diríjase directamente a la entrada del parque. Es recomendable llegar lo más temprano posible para disfrutar de las mejores oportunidades de observación de aves cuando están más activas.\n\n**3. Explore el parque en un paseo en rickshaw**\nEl parque es conocido por su extensa red de senderos y humedales. Para apreciar verdaderamente la vida de las aves y la belleza natural, considere tomar un paseo guiado en rickshaw. Los conductores de rickshaw locales conocen bien la biodiversidad del parque y pueden ayudarlo a detectar e identificar varias especies de aves.\n\n**4. Visite puntos clave de observación de aves**\nAlgunos de los puntos clave de observación de aves dentro del parque incluyen el Templo Keoladeo, la torre de vigilancia Shanti Kutir, y varios escondites y puntos de observación. Asegúrese de traer sus binoculares y cámara para capturar la increíble diversidad de aves.\n\n**5. Observación de aves y fotografía**\nPase su día observando y fotografiando la diversa vida de aves en el parque. El Parque Nacional Keoladeo es hogar de más de 370 especies de aves, incluyendo aves migratorias que visitan durante los meses de invierno. Algunas de las especies destacadas que podría encontrar incluyen cigüeñas pintadas, grullas sarus, grullas siberianas, y muchas más.\n\n**6. Visite el Centro de Interpretación**\nAntes de salir del parque, haga una parada en el Centro de Interpretación para conocer más sobre la historia, ecología, e importancia de la conservación de aves del parque.\n\n**7. Almuerzo**\nDespués de la observación de aves por la mañana, puede disfrutar de un almuerzo empacado o dirigirse a un restaurante cercano en la ciudad de Bharatpur para reponer energías.\n\n**8. Regreso a Agra**\nDespués de un día gratificante en el Parque Nacional Keoladeo, comience su viaje de regreso a Agra. Según sus preferencias, puede regresar por la noche o quedarse un poco más para disfrutar del atardecer si el parque lo permite.\n\nDespués de completar este tour, el huésped será dejado en el lugar que desee en Agra, marcando el final de este tour.",
+  "highlights": [
+   "Cubra más terreno en el parque nacional durante el paseo en rickshaw"
+  ],
+  "included": [
+   "Vehículo con aire acondicionado",
+   "Transporte privado",
+   "Peaje, estacionamiento, combustible, y asignación del conductor incluidos"
+  ],
+  "notIncluded": [
+   "El paseo en rickshaw y el servicio de guía no están incluidos en el santuario de aves de Bharatpur",
+   "Ningún tipo de comida/bebida está incluido",
+   "Ningún tipo de gasto personal está incluido",
+   "Ningún tipo de tarifa de entrada está incluido"
+  ]
+ },
+ "delhi-sunrise-taj-mahal-elephant-sos-tour-with": {
+  "title": "Delhi: tour del Taj Mahal al amanecer y SOS Elefantes con traslados",
+  "metaTitle": "Delhi-Taj Mahal: amanecer, SOS Elefantes",
+  "metaDescription": "Experimente un hermoso amanecer y un tour guiado del majestuoso Taj Mahal.",
+  "shortDescription": "Experimente un hermoso amanecer y un tour guiado del majestuoso Taj Mahal.",
+  "fullDescription": "**Recogida**\nSea recogido en su lugar deseado en Delhi, Gurgaon, Noida, o el aeropuerto. Conduzca hacia Agra, disfrutando de un viaje pacífico de 3 horas en un auto privado con aire acondicionado.\n\n**Taj Mahal**\nLlegue a Agra y conozca a su guía turístico antes de visitar el Taj Mahal. Explore el Taj Mahal mientras disfruta de sus vistas, pasando alrededor de 2 a 3 horas en el mausoleo.\n\n**Fuerte de Agra**\nDespués del Taj Mahal, continúe hacia el Fuerte de Agra, construido por el gran emperador mogol \"Akbar\". El imponente fuerte de arenisca roja fue construido por el emperador Akbar en el año 1565 d.C. Combina estilos arquitectónicos hindúes y de Asia Central.\n\n**Almuerzo**\nLuego tome un descanso para disfrutar de un autentico almuerzo mogol en el restaurante y disfrute de una deliciosa comida de sabores locales e internacionales.\n\n**Conservación de elefantes**\nA continuación, continúe hacia el Parque de Conservación de Elefantes. Después de Agra, diríjase a SoS Elefantes. Disfrute de hasta 2 horas en el Parque de Cuidado y Conservación de Elefantes, Wildlife SoS. Conozca y alimente a los elefantes en este tour del santuario de elefantes.\n\n**Traslado**\nDespués de visitar el Parque de Cuidado y Conservación de Elefantes, conduzca de regreso a Delhi. Nuestro conductor lo dejará en su lugar deseado en Delhi.",
+  "highlights": [
+   "Experimente un hermoso amanecer y un tour guiado del majestuoso Taj Mahal"
+  ],
+  "included": [
+   "Auto privado con aire acondicionado con conductor",
+   "Guía turístico para todos los monumentos",
+   "Recogida y traslado desde el Aeropuerto/Hotel de Delhi",
+   "Almuerzo mogol en un hotel de 5 estrellas (si se selecciona la opción)",
+   "Visita a la conservación de elefantes",
+   "Tarifas de entrada a los monumentos (si se selecciona la opción)",
+   "Agua mineral",
+   "Todos los impuestos"
+  ],
+  "notIncluded": [
+   "Donación",
+   "Propinas"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
