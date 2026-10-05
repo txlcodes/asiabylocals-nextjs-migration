@@ -27126,6 +27126,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "1. Nourriture et boissons (payées sur place)\n2. Transport depuis/vers le lieu\n3. Frais de shopping"
   ]
  },
+ "5-day-guided-tour-to-varanasi-ayodhya-and": {
+  "title": "Circuit guidé de 5 jours à Varanasi, Ayodhya et Prayagraj",
+  "metaTitle": "Circuit guidé de 5 jours à Varanasi, Ayodhya, Prayagraj",
+  "metaDescription": "Visitez le temple Kashi Vishwanath, l'un des temples hindous les plus sacrés, lors d'un circuit guidé de 5 jours.",
+  "shortDescription": "Visitez le temple Kashi Vishwanath, l'un des temples hindous les plus sacrés",
+  "fullDescription": "Circuit guidé de 5 jours à Varanasi, Ayodhya et Prayagraj. Visitez le temple Kashi Vishwanath, l'un des temples hindous les plus sacrés.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose\n- Voiture privée climatisée pendant tout le circuit\n- Guide touristique en direct\n- Hébergement avec petit-déjeuner\n- Tous les péages et frais de stationnement\n- Bouteille d'eau\n\n### Non inclus\n\n- Pourboires ou gratifications pour le chauffeur et le guide\n- Billets d'entrée\n- Toute dépense personnelle",
+  "highlights": [
+   "Visitez le temple Kashi Vishwanath, l'un des temples hindous les plus sacrés"
+  ],
+  "included": [
+   "Prise en charge et dépose\nVoiture privée climatisée pendant tout le circuit\nGuide touristique en direct\nHébergement avec petit-déjeuner\nTous les péages et frais de stationnement\nBouteille d'eau"
+  ],
+  "notIncluded": [
+   "Pourboires ou gratifications pour le chauffeur et le guide\nBillets d'entrée\nToute dépense personnelle"
+  ]
+ },
+ "old-delhi-street-food-night-spices-bazaars-tuk": {
+  "title": "Old Delhi : soirée street food, épices, bazars et trajet en tuk-tuk",
+  "metaTitle": "Old Delhi : soirée street food, épices, bazars, tuk-tuk",
+  "metaDescription": "Explorez les ruelles d'Old Delhi et goûtez les incontournables de la street food locale lors de cette soirée culinaire.",
+  "shortDescription": "Explorez les ruelles d'Old Delhi et goûtez les incontournables de la street food locale",
+  "fullDescription": "Old Delhi : soirée street food, épices, bazars et trajet en tuk-tuk. Explorez les ruelles d'Old Delhi et goûtez les incontournables de la street food locale.\n\nPlongez dans les saveurs audacieuses de l'Inde lors d'un circuit street food guidé à travers les ruelles animées d'Old Delhi. Cette expérience vous rapproche de l'âme culinaire de la ville, où chaque coin offre un arôme, une tradition et un goût différents.\n\nFlânez à travers les lieux culinaires légendaires d'Old Delhi et dégustez des incontournables locaux comme le chole bhature, le dahi bhalla, l'aloo chaat, les parathas croustillants, le lassi crémeux, les jalebis chauds et les desserts indiens traditionnels qui fondent dans la bouche. Tous les plats servis sont végétariens, mais les non-végétariens peuvent également savourer du poulet frit à la façon de Delhi dans l'animé quartier de Matia Mahal.\n\nEntre les dégustations, explorez le plus grand marché aux épices d'Asie, parcourez les ruelles historiques de Chandni Chowk et admirez la majestueuse Jama Masjid s'élevant au-dessus des rues animées. Ressentez l'énergie d'Old Delhi en vous déplaçant à pied et en tuk-tuk, serpentant à travers des ruelles étroites, des boutiques colorées et des restaurants cachés que seuls les locaux connaissent.\n\nCe circuit offre un mélange parfait de gastronomie, de culture et d'aventure de rue, vous offrant un avant-goût authentique du patrimoine d'Old Delhi.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel (si l'option est choisie)\n- Guide local professionnel anglophone\n- Trajet en tuk-tuk/rickshaw à travers les ruelles d'Old Delhi\n- Dégustations de street food\n- Promenade à travers Chandni Chowk et le marché aux épices\n- Eau en bouteille\n- Toutes les taxes et frais de gestion\n- Arrêts culinaires hygiéniques sélectionnés par le guide\n\n### Non inclus\n\n- Dépenses personnelles\n- Pourboires",
+  "highlights": [
+   "Explorez les ruelles d'Old Delhi et goûtez les incontournables de la street food locale"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel (si l'option est choisie)\nGuide local professionnel anglophone\nTrajet en tuk-tuk/rickshaw à travers les ruelles d'Old Delhi\nDégustations de street food\nPromenade à travers Chandni Chowk et le marché aux épices\nEau en bouteille\nToutes les taxes et frais de gestion\nArrêts culinaires hygiéniques sélectionnés par le guide"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles\nPourboires"
+  ]
+ },
+ "delhi-akshardham-tour-water-light-show-with-boat": {
+  "title": "Circuit Akshardham de Delhi : spectacle d'eau et de lumière avec balade en bateau",
+  "metaTitle": "Circuit Akshardham de Delhi : spectacle d'eau et de lumière",
+  "metaDescription": "Assistance WhatsApp 24h/24 et 7j/7 spécialement pour les voyageurs solo et les voyageuses, circuit spirituel à Delhi.",
+  "shortDescription": "Assistance WhatsApp 24h/24 et 7j/7 spécialement pour les voyageurs solo et les voyageuses",
+  "fullDescription": "Circuit Akshardham de Delhi : spectacle d'eau et de lumière avec balade en bateau. Assistance WhatsApp 24h/24 et 7j/7 spécialement pour les voyageurs solo et les voyageuses.\n\nCommencez votre circuit spirituel enrichissant par une prise en charge confortable directement à votre hôtel à New Delhi. Ce voyage soigneusement conçu mêle les monuments historiques de Delhi à de profondes expériences spirituelles, offrant à la fois un aperçu culturel et des moments de réflexion silencieuse.\nVotre premier arrêt est l'emblématique India Gate, un majestueux mémorial de guerre et l'un des monuments les plus reconnaissables de Delhi. Se dressant fièrement au cœur de la ville, il honore les soldats qui ont donné leur vie pour la nation et sert de puissant symbole de sacrifice et de fierté nationale. De là, continuez à pied le long du Rajpath, la grande avenue cérémonielle qui s'étend vers le siège de la démocratie indienne. En parcourant ce boulevard bordé d'arbres, imprégnez-vous des vastes panoramas et du sentiment d'histoire qui vous entoure.\nÀ l'extrémité du Rajpath se trouve le magnifique Rashtrapati Bhavan, résidence officielle du Président de l'Inde, ainsi que le Parlement voisin. Bien que l'entrée ne soit pas autorisée, vous pouvez admirer la grandeur architecturale et la présence imposante de ces bâtiments depuis l'extérieur, des structures qui incarnent la dignité et la continuité de la république indienne.\nLe cœur spirituel du circuit se concentre sur deux Darshans immersifs.\nLe premier est le Sahajanand Darshan. Vous y découvrirez une série d'expositions soigneusement conçues, chacune offrant une expérience nouvelle, un message nouveau et une forme de présentation inédite. Grâce à des technologies multimédias modernes, ces expositions donnent vie à des valeurs intemporelles telles que la non-violence, la persévérance, le pouvoir de la prière, une vie morale et l'importance de l'harmonie familiale. Chaque présentation invite à une contemplation silencieuse et laisse une impression durable.\nLe second est le Neelkanth Darshan, qui raconte le voyage épique de Neelkanth Varni à travers le sous-continent indien. Suivez son remarquable périple de 12 000 kilomètres, des cimes glacées de l'Himalaya du nord aux plages chaudes du sud de l'Inde, alors qu'il traverse le pays dans toute sa longueur et sa largeur. En chemin, vous vous rappelez des valeurs durables du sacrifice et du service désintéressé, de la sagesse de l'âme éternelle et du pouvoir transformateur d'une foi inébranlable.\nCe circuit spirituel offre un mélange équilibré de monuments historiques et de profondes perspectives spirituelles, créant une expérience significative et mémorable qui commence dès le seuil de votre hôtel à New Delhi.\n\n### Ce qui est inclus\n\n- Circuit guidé du Temple Akshardham\n- Prise en charge et dépose à l'hôtel\n- Repas incluant déjeuner et dîner (si l'option est sélectionnée)\n- Visite de l'exposition\n- Visite du spectacle d'eau et de lumière\n- Balade en bateau\n- Dîner (si l'option est sélectionnée)\n\n### Non inclus\n\n- Dépenses personnelles\n- Pourboires",
+  "highlights": [
+   "Assistance WhatsApp 24h/24 et 7j/7 spécialement pour les voyageurs solo et les voyageuses"
+  ],
+  "included": [
+   "Circuit guidé du Temple Akshardham\nPrise en charge et dépose à l'hôtel\nRepas incluant déjeuner et dîner (si l'option est sélectionnée)\nVisite de l'exposition\nVisite du spectacle d'eau et de lumière\nBalade en bateau\nDîner (si l'option est sélectionnée)"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles\nPourboires"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
