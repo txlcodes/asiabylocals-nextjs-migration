@@ -21374,6 +21374,75 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alles, was nicht in den Einschlüssen erwähnt wird"
   ]
  },
+ "delhi-city-tour-old-new-or-both-half-full": {
+  "title": "Delhi-Stadtrundfahrt: Alt, Neu, oder beide: Halb- und Ganztagsoptionen",
+  "metaTitle": "Delhi: Stadtrundfahrt, halber oder ganzer Tag",
+  "metaDescription": "Erkunden Sie die zwei Hauptteile von Delhi: New Delhi und Alt-Delhi.",
+  "shortDescription": "Erkunden Sie die zwei Hauptteile von Delhi: New Delhi und Alt-Delhi.",
+  "fullDescription": "Delhi-Stadtrundfahrt: Alt, Neu, oder beide: Halb- und Ganztagsoptionen. Erkunden Sie die zwei Hauptteile von Delhi: New Delhi und Alt-Delhi.\n\nBeginnen Sie Ihre Reise mit einer bequemen Abholung von Ihrem Hotel, Flughafen, oder einem beliebigen Ort in Delhi, Noida, Gurugram, Ghaziabad, oder Faridabad. Wählen Sie aus drei flexiblen Tour-Optionen: halber Tag Alt-Delhi, halber Tag New Delhi, oder Kombi-Ganztagestour.\n\n**Alt-Delhi-Tour**\nErkunden Sie die belebten Straßen von Alt-Delhi in einem Tuk-Tuk. Besuchen Sie die Jama Masjid, Indiens größte Moschee, und spazieren Sie durch den lebhaften Gewürzmarkt Khari Baoli. Sehen Sie das Red Fort von außen, und halten Sie am Gurudwara Bangla Sahib, bekannt für seinen heiligen Teich und seine Gemeinschaftsküche.\n\n**New-Delhi-Tour**\nBeginnen Sie am historischen Stufenbrunnen Agrasen ki Baoli. Fahren Sie vorbei am India Gate, dem Parlamentsgebäude, und dem Rashtrapati Bhavan. Besuchen Sie Humayuns Grabmal, eine UNESCO-Weltkulturerbestätte, und enden Sie am Lotustempel (montags ersetzt durch Qutub Minar).\n\n**Kombi-Ganztagestour**\nErleben Sie beide Teile der Stadt mit allen Highlights von Alt- und New Delhi an einem bereichernden Tag. Entdecken Sie Delhis vielfältige Geschichte, Kultur, und Architektur, von Mogul-Wundern bis zu kolonialen Wahrzeichen.\n\nIhre Tour umfasst ein privates klimatisiertes Auto, einen professionellen Guide, Wasser in Flaschen, und Eintrittskarten für Denkmäler. Genießen Sie persönlichen Service und reibungslose Logistik während Ihrer gesamten Tour.\n\n**Was ist enthalten**\nPrivates klimatisiertes Auto mit professionellem Chauffeur\nAbholung und Rückfahrt zum Hotel, Flughafen, oder bevorzugten Ort in Delhi, Noida, Gurugram, Faridabad, oder Ghaziabad\nPrivater englischsprachiger Reiseführer\nEintrittskarten für Denkmäler\nTraditionelle Tuk-Tuk-Fahrt in Alt-Delhi (nur bei Alt-Delhi- und Kombi-Touren)\nMineralwasser in Flaschen während der Tour\nParken, Mautgebühren, Treibstoffkosten, und alle staatlichen Steuern\nPersönliche Betreuung während des gesamten Erlebnisses\n\n**Nicht enthalten**\nTrinkgelder und Gratifikationen\nMahlzeiten und persönliche Ausgaben",
+  "highlights": [
+   "Erkunden Sie die zwei Hauptteile von Delhi: New Delhi und Alt-Delhi"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto mit professionellem Chauffeur",
+   "Abholung und Rückfahrt zum Hotel, Flughafen, oder bevorzugten Ort in Delhi, Noida, Gurugram, Faridabad, oder Ghaziabad",
+   "Privater englischsprachiger Reiseführer",
+   "Eintrittskarten für Denkmäler",
+   "Traditionelle Tuk-Tuk-Fahrt in Alt-Delhi (nur bei Alt-Delhi- und Kombi-Touren)",
+   "Mineralwasser in Flaschen während der Tour",
+   "Parken, Mautgebühren, Treibstoffkosten, und alle staatlichen Steuern",
+   "Persönliche Betreuung während des gesamten Erlebnisses"
+  ],
+  "notIncluded": [
+   "Trinkgelder und Gratifikationen",
+   "Mahlzeiten und persönliche Ausgaben"
+  ]
+ },
+ "delhi-jama-masjid-and-red-fort-skip-the-line": {
+  "title": "Delhi: geführte Tour zur Jama Masjid und zum Red Fort ohne Warteschlange",
+  "metaTitle": "Delhi: Jama Masjid und Red Fort ohne Warteschlange",
+  "metaDescription": "Umgehen Sie die langen Warteschlangen an der Jama Masjid und am Red Fort mit priorisiertem Zugang.",
+  "shortDescription": "Umgehen Sie die langen Warteschlangen an der Jama Masjid und am Red Fort mit priorisiertem Zugang.",
+  "fullDescription": "Delhi: geführte Tour zur Jama Masjid und zum Red Fort ohne Warteschlange. Umgehen Sie die langen Warteschlangen an der Jama Masjid und am Red Fort mit priorisiertem Zugang.\n\n**1. Abholung und Einführung**\nBeginnen Sie Ihre private Tour mit einer bequemen Abholung von Ihrem Hotel oder einem zentralen Treffpunkt in Delhi. Treffen Sie Ihren professionellen örtlichen Guide, der Sie in das reiche Mogul-Erbe von Alt-Delhi einführt.\n\n**2. Erkundung der Jama Masjid**\nAnkunft an der Jama Masjid, Indiens größter Moschee. Umgehen Sie die Warteschlangen, und betreten Sie dieses großartige Meisterwerk aus dem 17. Jahrhundert, erbaut von Kaiser Shah Jahan. Erfahren Sie mehr über seine Architektur, spirituelle Bedeutung, und die Panoramablicke auf Alt-Delhi von seinem weitläufigen Innenhof aus.\n\n**3. Spaziergang durch Alt-Delhi (optional)**\nSchlendern Sie durch die lebendigen Gassen rund um die Jama Masjid. Erleben Sie die Anblicke, Geräusche, und Düfte von Alt-Delhi, während Ihr Guide Geschichten über jahrhundertealte Basare und das Alltagsleben im historischen Viertel teilt.\n\n**4. Red Fort: Eintritt ohne Warteschlange**\nGehen Sie weiter zum UNESCO-gelisteten Red Fort mit priorisiertem Zugang. Erkunden Sie beeindruckende Säle, königliche Innenhöfe, und Paläste, in denen einst Mogulkaiser herrschten. Hören Sie faszinierende Geschichten über Macht, Politik, und Indiens Weg zur Unabhängigkeit.\n\n**5. Kulturelle Einblicke und Fotostopps**\nGenießen Sie viel Zeit für Fotos und vertiefte Erklärungen, während Ihr Guide die Mogul-Geschichte mit fesselnden Erzählungen und örtlichem Wissen zum Leben erweckt.\n\n**6. Abschluss der Tour**\nNach dem Besuch entspannen Sie bei einer bequemen Rückfahrt zu Ihrem Hotel oder bevorzugten Ort in Delhi, womit eine reibungslose und bereichernde private Kulturerbe-Tour endet.\n\n**Was ist enthalten**\nAbholung und Rückfahrt zum Hotel/Flughafen\nPrivates klimatisiertes Auto für den Transfer mit Fahrer\nVon der Regierung anerkannter Experten-Reiseführer\nEintrittskarte für Denkmäler (falls Option gewählt wird)\nMineralwasserflasche\nAlle Mautgebühren und Parkkosten\n\n**Nicht enthalten**\nJegliche persönliche Ausgaben",
+  "highlights": [
+   "Umgehen Sie die langen Warteschlangen an der Jama Masjid und am Red Fort mit priorisiertem Zugang"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "Privates klimatisiertes Auto für den Transfer mit Fahrer",
+   "Von der Regierung anerkannter Experten-Reiseführer",
+   "Eintrittskarte für Denkmäler (falls Option gewählt wird)",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parkkosten"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "from-delhi-4-days-golden-triangle-tour-delhi-agra": {
+  "title": "Ab Delhi: 4-tägige Golden-Triangle-Tour Delhi, Agra, und Jaipur",
+  "metaTitle": "Delhi: Golden Triangle 4 Tage, Delhi-Agra-Jaipur",
+  "metaDescription": "Besuchen Sie ikonische Orte: Delhis Sehenswürdigkeiten wie India Gate, Qutub Minar, Lotustempel.",
+  "shortDescription": "Besuchen Sie ikonische Orte: Delhis Sehenswürdigkeiten wie India Gate, Qutub Minar, Lotustempel.",
+  "fullDescription": "Ab Delhi: 4-tägige Golden-Triangle-Tour Delhi, Agra, und Jaipur. Besuchen Sie ikonische Orte: Delhis Sehenswürdigkeiten wie India Gate, Qutub Minar, Lotustempel.\n\n**Tag 1: Ankunft in Delhi und örtliche Besichtigung**\nAnkunft in Delhi, und Treffen mit Ihrem Fahrer/Guide. Beginnen Sie mit der Erkundung von Indiens Hauptstadt.\nBesuchen Sie die Sehenswürdigkeiten von New Delhi: India Gate, Rashtrapati Bhavan (Vorbeifahrt), und Parliament Street.\nErkunden Sie Qutub Minar, eine UNESCO-Weltkulturerbestätte.\nBesuchen Sie den Lotustempel für seine friedliche Architektur.\nAbend frei für Einkäufe am Connaught Place, oder zur Entspannung.\nÜbernachtung in Delhi.\n\n**Tag 2: Delhi nach Agra (etwa 3 bis 4 Stunden Fahrt)**\nNach dem Frühstück Fahrt nach Agra über den Yamuna Expressway.\nCheck-in im Hotel, und Entspannung.\nBesuchen Sie das prächtige Agra-Fort, eine UNESCO-Stätte.\nErkunden Sie örtliche Marmor-Einlegearbeiten-Werkstätten (optional).\nSonnenuntergangsblick von Mehtab Bagh über den Fluss Yamuna.\nÜbernachtung in Agra.\n\n**Tag 3: Besichtigung von Agra, und Fahrt nach Jaipur**\nFrüh morgens besuchen Sie den Höhepunkt der Tour.\nSonnenaufgangsbesuch des ikonischen Taj Mahal (beste Fotozeit).\nRückkehr zum Hotel zum Frühstück.\nAbfahrt nach Jaipur mit einem Halt in Fatehpur Sikri (historische Mogul-Stadt).\nWeiterfahrt nach Jaipur, der Pink City.\nAnkunft am Abend, und Check-in im Hotel.\nÜbernachtung in Jaipur.\n\n**Tag 4: Besichtigung von Jaipur, und Rückkehr nach Delhi**\nErkunden Sie das königliche Erbe von Rajasthan, bevor Sie zurückkehren.\nBesuchen Sie das majestätische Amber-Fort mit optionaler Jeep-Fahrt.\nHalt am Hawa Mahal (Palast der Winde) für Fotos.\nErkunden Sie den City Palace, und das Jantar-Mantar-Observatorium.\nEinkauf von örtlichem Kunsthandwerk und Textilien in den Basaren von Jaipur.\nAbends Rückfahrt nach Delhi, oder Absetzung am Flughafen oder Bahnhof.\n\n**Was ist enthalten**\nAbholung und Rückfahrt zum Hotel/Flughafen\nPrivates klimatisiertes Auto für die gesamte Touraktivität mit Fahrer\nVon der Regierung anerkannter Experten-Guide in jeder Stadt\n3 Nächte Hotelunterkunft (falls Option gewählt wird)\nFrühstück im Hotel\nMineralwasserflasche\nAlle Mautgebühren und Parkkosten\n\n**Nicht enthalten**\nEintrittskarten für Denkmäler\nMittag- und Abendessen\nJegliche persönliche Ausgaben",
+  "highlights": [
+   "Besuchen Sie ikonische Orte: Delhis Sehenswürdigkeiten wie India Gate, Qutub Minar, Lotustempel"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "Privates klimatisiertes Auto für die gesamte Touraktivität mit Fahrer",
+   "Von der Regierung anerkannter Experten-Guide in jeder Stadt",
+   "3 Nächte Hotelunterkunft (falls Option gewählt wird)",
+   "Frühstück im Hotel",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parkkosten"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für Denkmäler",
+   "Mittag- und Abendessen",
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
