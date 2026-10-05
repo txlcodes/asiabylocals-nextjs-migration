@@ -23842,6 +23842,75 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "new-delhi-slum-walking-tour-with-chapati-factory": {
+  "title": "New Delhi: Slum-Wandertour mit Besuch einer Chapati-Fabrik",
+  "metaTitle": "New Delhi: Slum-Tour, Chapati-Fabrik",
+  "metaDescription": "Besuch einer Chapati-Fabrik, in der täglich mehr als 8.000 Chapatis ausgeliefert werden",
+  "shortDescription": "Besuch einer Chapati-Fabrik, in der täglich mehr als 8.000 Chapatis ausgeliefert werden",
+  "fullDescription": "New Delhi: Slum-Wandertour mit Besuch einer Chapati-Fabrik. Besuch einer Chapati-Fabrik, in der täglich mehr als 8.000 Chapatis ausgeliefert werden.\n\nBegeben Sie sich auf eine Entdeckungsreise mit unserer Gruppen-Wandertour durch einen Slum in New Delhi. Betreten Sie einen der größten Slums Asiens und erleben Sie einen Hoffnungsschimmer inmitten der pulsierenden Stadt. Begleiten Sie uns durch die engen Gassen und lebendigen Straßen, während wir in das tägliche Leben der Bewohner eintauchen.\n\nErleben Sie den Puls des Lebens, während wir mehr über die alltäglichen Aktivitäten erfahren, kleine Unternehmen in Aktion beobachten, und die belebten Märkte innerhalb des Slums erkunden. Staunen Sie über den Rhythmus der Züge, die alle zehn Minuten vorbeifahren, eine ständige Kulisse für das Leben dieser Gemeinschaft.\n\nTauchen Sie tiefer in die Feinheiten des Lebens im Slum ein, während wir eine Chapati-Fabrik besuchen, in der der Duft von frisch gebackenem Brot die Luft erfüllt. Entdecken Sie die Widerstandsfähigkeit und den Geist der Menschen, die sich mit Anmut und Entschlossenheit durch Widrigkeiten bewegen.\n\nBegleiten Sie uns auf dieser einzigartigen Reise, um Herz und Seele der Slums von New Delhi zu erkunden, wo jede Ecke eine Geschichte von Hoffnung, Ausdauer, und menschlichem Geist erzählt.\n\n**Was ist inbegriffen**\nEnglischsprachige Tour\n\n**Nicht inbegriffen**\nEssen und Getränke\nTrinkgelder",
+  "highlights": [
+   "Besuch einer Chapati-Fabrik, in der täglich mehr als 8.000 Chapatis ausgeliefert werden"
+  ],
+  "included": [
+   "Englischsprachige Tour"
+  ],
+  "notIncluded": [
+   "Essen und Getränke",
+   "Trinkgelder"
+  ]
+ },
+ "from-delhi-3-days-jaipur-ranthambore-wildlife": {
+  "title": "Ab Delhi: 3-tägige Jaipur- und Ranthambore-Wildlife-Safaritour",
+  "metaTitle": "Delhi: 3-tägige Safari, Jaipur und Ranthambore",
+  "metaDescription": "Erkunden Sie die rosa Stadt (Jaipur), das Amber Fort, den City Palace, den Jal Mahal, den Hawa Mahal",
+  "shortDescription": "Erkunden Sie die rosa Stadt (Jaipur), das Amber Fort, den City Palace, den Jal Mahal, den Hawa Mahal",
+  "fullDescription": "Ab Delhi: 3-tägige Jaipur- und Ranthambore-Wildlife-Safaritour. Erkunden Sie die rosa Stadt (Jaipur), das Amber Fort, den City Palace, den Jal Mahal, den Hawa Mahal.\n\nWildlife-Safaris in Indien haben eine einzigartige Identität, wenn es um Tiger geht. Wenn Sie also in Indien sind und Jaipur und Ranthambore erkunden möchten, verpassen Sie nicht die Gelegenheit, an den Abenteuer-Wildlife-Safari-Touren ab Delhi teilzunehmen. Buchen Sie ein Upgrade, um Unterkunft und Frühstück zu erhalten.\n\n**Tag 1: New Delhi - Jaipur**\nSie werden vom Flughafen Delhi, Ihrem Hotel in Delhi oder Gurgaon, oder einem gewünschten Ort in Delhi abgeholt und dann nach Jaipur gefahren. Sie genießen eine Besichtigung von Jaipur mit seiner unglaublichen Architektur wie dem Amber Fort, dem Jal Mahal, dem City Palace, und dem Hawa Mahal. Nach Abschluss Ihrer Besichtigung in Jaipur werden Sie nach Ranthambore gefahren und übernachten im Hotel in Ranthambore.\n\nÜbernachtung in Ranthambore.\n\n**Tag 2: Safari-Touren in Ranthambore**\nVormittags- und Nachmittagssafari im Ranthambore-Nationalpark zur Beobachtung der Tierwelt.\n\nÜbernachtung in Ranthambore.\n\n**Tag 3: Ranthambore - New Delhi**\nNach dem Frühstück werden Sie zum Flughafen Delhi, zu Ihrem Hotel in Delhi oder Gurgaon, oder anderswo an den gewünschten Ort in New Delhi gebracht.\n\n**Was ist inbegriffen**\nPrivate Tour\n2 Safari-Fahrten gemäß Reiseroute\n2 Nächte Unterkunft in einem 3-Sterne-Hotel in Einzel-, Doppel-/Twin-, oder Dreibettzimmer (nur bei gewählter Hoteloption)\n2 Frühstücke im Hotel in Ranthambore pro Reisendem inbegriffen (nur bei gewählter Hoteloption)\nAlle Transfers und Besichtigungen in einem klimatisierten Privatfahrzeug\nAbholung und Rückfahrt zum Hotel oder Flughafen\nKosten für Auto, Fahrer, und Kraftstoff\nMaut, Parken, und Fahrergebühr\nUnbegrenzte Wasserflaschen\nStaatliche Dienstleistungssteuer inbegriffen\n\n**Nicht inbegriffen**\nEintrittsgebühren für Sehenswürdigkeiten\nWäscherei, Telefonanrufe, und sonstige Mahlzeiten\nTrinkgelder und persönliche Ausgaben",
+  "highlights": [
+   "Erkunden Sie die rosa Stadt (Jaipur), das Amber Fort, den City Palace, den Jal Mahal, den Hawa Mahal"
+  ],
+  "included": [
+   "Private Tour",
+   "2 Safari-Fahrten gemäß Reiseroute",
+   "2 Nächte Unterkunft in einem 3-Sterne-Hotel in Einzel-, Doppel-/Twin-, oder Dreibettzimmer (nur bei gewählter Hoteloption)",
+   "2 Frühstücke im Hotel in Ranthambore pro Reisendem inbegriffen (nur bei gewählter Hoteloption)",
+   "Alle Transfers und Besichtigungen in einem klimatisierten Privatfahrzeug",
+   "Abholung und Rückfahrt zum Hotel oder Flughafen",
+   "Kosten für Auto, Fahrer, und Kraftstoff",
+   "Maut, Parken, und Fahrergebühr",
+   "Unbegrenzte Wasserflaschen",
+   "Staatliche Dienstleistungssteuer inbegriffen"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Sehenswürdigkeiten",
+   "Wäscherei, Telefonanrufe, und sonstige Mahlzeiten",
+   "Trinkgelder und persönliche Ausgaben"
+  ]
+ },
+ "delhi-evening-tour-of-old-delhi-city-with-guide": {
+  "title": "Delhi: Abendtour durch Alt-Delhi mit Reiseführer",
+  "metaTitle": "Delhi: Abendtour Alt-Delhi, Reiseführer",
+  "metaDescription": "Entdecken Sie die prächtige Mogul-Architektur des Roten Forts.",
+  "shortDescription": "Entdecken Sie die prächtige Mogul-Architektur des Roten Forts.",
+  "fullDescription": "Delhi: Abendtour durch Alt-Delhi mit Reiseführer. Entdecken Sie die prächtige Mogul-Architektur des Roten Forts.\n\n**Abholung von Ihrem Hotel**\nIhr Fahrer und Reiseführer treffen Sie an Ihrem Hotel oder dem gewählten Abholpunkt in Delhi. Beginnen Sie Ihre private Besichtigungstour zu den historischen Wahrzeichen von Alt-Delhi.\n\n**1. Rotes Fort**\nFahren Sie zum prächtigen Roten Fort, einem UNESCO-Weltkulturerbe. Genießen Sie einen Fotostopp und erfahren Sie mehr über seine mogulische Geschichte und die beeindruckende Architektur aus rotem Sandstein.\n\n**2. Jama Masjid**\nBesuchen Sie die Jama Masjid, eine der größten und geschichtsträchtigsten Moscheen Indiens. Erkunden Sie den großen Innenhof, die Kuppeln, und Minarette, während Sie mehr über ihre Geschichte erfahren.\n\n**3. Chandni Chowk**\nErkunden Sie die belebten Straßen von Chandni Chowk zu Fuß durch seine quirligen Märkte. Erleben Sie lokale Küche, traditionelle Geschäfte, Kunsthandwerk, und die pulsierende Atmosphäre von Alt-Delhi.\n\n**4. Gurudwara Sis Ganj Sahib**\nBesuchen Sie diesen historischen Sikh-Schrein in Chandni Chowk. Erfahren Sie mehr über seine Verbindung zu Guru Tegh Bahadur und erleben Sie die friedliche Atmosphäre dieser bedeutenden Kultstätte.\n\n**5. Agrasen Ki Baoli**\nHalten Sie an diesem historischen Stufenbrunnen im Zentrum von Delhi. Bewundern Sie seine einzigartige Architektur, die symmetrischen Stufen, und die stimmungsvollen Korridore, während Ihr Reiseführer seine faszinierende Geschichte teilt.\n\n**Ende der Tour**\nIhr Fahrer bringt Sie zurück zu Ihrem Hotel oder einem anderen Ort in Delhi, womit Ihre 4-stündige Alt-Delhi-Highlights-Tour endet.\n\n**Was ist inbegriffen**\nPrivate Abholung und Rückfahrt zum Hotel\nKomfortables klimatisiertes Auto\nLizenzierter Reiseführer\nBesuch des Roten Forts\nBesuch der Jama-Moschee\nBesuch von Chandni Chowk\nBesuch von Agarsen ki Baoli\nBesuch des Gurudwara Bangla Sahib\nRikscha-Fahrt\nEintrittsgebühren (falls diese Option gewählt wird)\nAbendessen (falls diese Option gewählt wird)\nKostenlose Wasserflaschen",
+  "highlights": [
+   "Entdecken Sie die prächtige Mogul-Architektur des Roten Forts"
+  ],
+  "included": [
+   "Private Abholung und Rückfahrt zum Hotel",
+   "Komfortables klimatisiertes Auto",
+   "Lizenzierter Reiseführer",
+   "Besuch des Roten Forts",
+   "Besuch der Jama-Moschee",
+   "Besuch von Chandni Chowk",
+   "Besuch von Agarsen ki Baoli",
+   "Besuch des Gurudwara Bangla Sahib",
+   "Rikscha-Fahrt",
+   "Eintrittsgebühren (falls diese Option gewählt wird)",
+   "Abendessen (falls diese Option gewählt wird)",
+   "Kostenlose Wasserflaschen"
+  ],
+  "notIncluded": []
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

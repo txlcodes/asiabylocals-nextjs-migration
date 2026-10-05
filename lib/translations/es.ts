@@ -23842,6 +23842,75 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "new-delhi-slum-walking-tour-with-chapati-factory": {
+  "title": "Nueva Delhi: tour a pie por un barrio marginal con visita a una fábrica de chapatis",
+  "metaTitle": "Nueva Delhi: tour barrio marginal, fábrica de chapatis",
+  "metaDescription": "Visita a una fábrica de chapatis donde cada día se entregan más de 8.000 chapatis",
+  "shortDescription": "Visita a una fábrica de chapatis donde cada día se entregan más de 8.000 chapatis",
+  "fullDescription": "Nueva Delhi: tour a pie por un barrio marginal con visita a una fábrica de chapatis. Visita a una fábrica de chapatis donde cada día se entregan más de 8.000 chapatis.\n\nEmbárcate en un viaje de descubrimiento con nuestro tour grupal a pie por un barrio marginal de Nueva Delhi. Adéntrate en uno de los barrios marginales más grandes de Asia y presencia un rayo de esperanza en medio de la bulliciosa ciudad. Únete a nosotros mientras caminamos por los estrechos callejones y las vibrantes calles, sumergiéndonos en la vida cotidiana de sus residentes.\n\nExperimenta el pulso de la vida mientras conocemos las actividades diarias, presenciamos pequeños negocios en acción, y exploramos los animados mercados dentro del barrio. Maravíllate con el ritmo de los trenes que pasan cada diez minutos, un telón de fondo constante para la existencia de esta comunidad.\n\nProfundiza en las complejidades de la vida dentro del barrio marginal mientras visitamos una fábrica de chapatis, donde el aroma del pan recién horneado llena el aire. Descubre la resiliencia y el espíritu de las personas mientras superan la adversidad con gracia y determinación.\n\nÚnete a nosotros en este viaje único para explorar el corazón y el alma de los barrios marginales de Nueva Delhi, donde cada rincón cuenta una historia de esperanza, perseverancia, y espíritu humano.\n\n**Qué incluye**\nTour en inglés\n\n**No incluye**\nComida y bebidas\nPropinas",
+  "highlights": [
+   "Visita a una fábrica de chapatis donde cada día se entregan más de 8.000 chapatis"
+  ],
+  "included": [
+   "Tour en inglés"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Propinas"
+  ]
+ },
+ "from-delhi-3-days-jaipur-ranthambore-wildlife": {
+  "title": "Desde Delhi: tour safari de fauna salvaje de 3 días a Jaipur y Ranthambore",
+  "metaTitle": "Delhi: safari 3 días, Jaipur y Ranthambore",
+  "metaDescription": "Explora la ciudad rosa (Jaipur), el fuerte Amber, el City Palace, el Jal Mahal, el Hawa Mahal",
+  "shortDescription": "Explora la ciudad rosa (Jaipur), el fuerte Amber, el City Palace, el Jal Mahal, el Hawa Mahal",
+  "fullDescription": "Desde Delhi: tour safari de fauna salvaje de 3 días a Jaipur y Ranthambore. Explora la ciudad rosa (Jaipur), el fuerte Amber, el City Palace, el Jal Mahal, el Hawa Mahal.\n\nLos safaris de fauna salvaje en la India tienen una identidad única en lo que respecta a los tigres. Así que, si estás en la India y quieres explorar la ciudad de Jaipur y Ranthambore, no te pierdas la oportunidad de unirte a las excursiones de safari de aventura con salida desde Delhi. Elige una mejora para obtener alojamiento y desayuno.\n\n**Día 1: Nueva Delhi - Jaipur**\nSerás recogido en el aeropuerto de Delhi, tu hotel en Delhi o Gurgaon, o cualquier lugar deseado en Delhi, y luego conducido a Jaipur. Disfrutarás de un recorrido por Jaipur, que posee una arquitectura increíble como el fuerte Amber, el Jal Mahal, el City Palace, y el Hawa Mahal. Una vez terminado tu recorrido por Jaipur, serás conducido a Ranthambore y te alojarás en el hotel de Ranthambore.\n\nNoche en Ranthambore.\n\n**Día 2: excursiones safari en Ranthambore**\nSafari matutino y vespertino en el Parque Nacional de Ranthambore para observar la fauna salvaje.\n\nNoche en Ranthambore.\n\n**Día 3: Ranthambore - Nueva Delhi**\nDespués del desayuno, serás llevado al aeropuerto de Delhi, a tu hotel en Delhi o Gurgaon, o a otro lugar deseado en Nueva Delhi.\n\n**Qué incluye**\nTour privado\n2 excursiones safari según el itinerario\n2 noches de alojamiento en un hotel de 3 estrellas en habitación individual, doble/twin, o triple (solo si se selecciona la opción con hotel)\n2 desayunos en el hotel de Ranthambore incluidos para cada viajero (solo si se selecciona la opción con hotel)\nTodos los traslados y visitas en vehículo privado con aire acondicionado\nRecogida y regreso al hotel o aeropuerto\nCostos de coche, chófer, y combustible\nPeajes, estacionamiento, e indemnización del chófer\nBotellas de agua ilimitadas\nImpuesto de servicio gubernamental incluido\n\n**No incluye**\nTarifas de entrada a los monumentos\nLavandería, llamadas telefónicas, y cualquier otra comida\nPropinas y gastos personales",
+  "highlights": [
+   "Explora la ciudad rosa (Jaipur), el fuerte Amber, el City Palace, el Jal Mahal, el Hawa Mahal"
+  ],
+  "included": [
+   "Tour privado",
+   "2 excursiones safari según el itinerario",
+   "2 noches de alojamiento en un hotel de 3 estrellas en habitación individual, doble/twin, o triple (solo si se selecciona la opción con hotel)",
+   "2 desayunos en el hotel de Ranthambore incluidos para cada viajero (solo si se selecciona la opción con hotel)",
+   "Todos los traslados y visitas en vehículo privado con aire acondicionado",
+   "Recogida y regreso al hotel o aeropuerto",
+   "Costos de coche, chófer, y combustible",
+   "Peajes, estacionamiento, e indemnización del chófer",
+   "Botellas de agua ilimitadas",
+   "Impuesto de servicio gubernamental incluido"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a los monumentos",
+   "Lavandería, llamadas telefónicas, y cualquier otra comida",
+   "Propinas y gastos personales"
+  ]
+ },
+ "delhi-evening-tour-of-old-delhi-city-with-guide": {
+  "title": "Delhi: tour vespertino por el Viejo Delhi con guía",
+  "metaTitle": "Delhi: tour vespertino Viejo Delhi, guía",
+  "metaDescription": "Descubre la magnífica arquitectura mogol del Fuerte Rojo.",
+  "shortDescription": "Descubre la magnífica arquitectura mogol del Fuerte Rojo.",
+  "fullDescription": "Delhi: tour vespertino por el Viejo Delhi con guía. Descubre la magnífica arquitectura mogol del Fuerte Rojo.\n\n**Recogida en tu hotel**\nTu chófer y guía te recibirán en tu hotel o en el punto de recogida elegido en Delhi. Comienza tu tour privado por los lugares históricos del Viejo Delhi.\n\n**1. Fuerte Rojo**\nDirígete al magnífico Fuerte Rojo, Patrimonio de la Humanidad de la UNESCO. Disfruta de una parada para fotos y aprende sobre su historia mogol y su impresionante arquitectura de arenisca roja.\n\n**2. Jama Masjid**\nVisita la Jama Masjid, una de las mezquitas más grandes e históricas de la India. Explora su amplio patio, sus cúpulas, y sus minaretes mientras conoces su historia.\n\n**3. Chandni Chowk**\nExplora las animadas calles de Chandni Chowk paseando por sus bulliciosos mercados. Experimenta la comida local, las tiendas tradicionales, la artesanía, y el ambiente vibrante del Viejo Delhi.\n\n**4. Gurudwara Sis Ganj Sahib**\nVisita este histórico santuario sij en Chandni Chowk. Conoce su conexión con el Gurú Tegh Bahadur y experimenta el ambiente pacífico de este importante lugar de culto.\n\n**5. Agrasen Ki Baoli**\nDetente en este histórico pozo escalonado en el centro de Delhi. Admira su arquitectura única, sus escalones simétricos, y sus pasillos llenos de atmósfera mientras tu guía comparte su fascinante historia.\n\n**Fin del tour**\nTu chófer te llevará de regreso a tu hotel u otro lugar dentro de Delhi, marcando el final de tu tour de 4 horas por lo más destacado del Viejo Delhi.\n\n**Qué incluye**\nRecogida y regreso privados al hotel\nCoche cómodo y con aire acondicionado\nGuía turístico con licencia\nVisita al Fuerte Rojo\nVisita a la Mezquita Jama\nVisita a Chandni Chowk\nVisita a Agarsen ki Baoli\nVisita al Gurudwara Bangla Sahib\nPaseo en rickshaw\nTarifas de entrada (si se selecciona esta opción)\nCena (si se selecciona esta opción)\nBotellas de agua de cortesía",
+  "highlights": [
+   "Descubre la magnífica arquitectura mogol del Fuerte Rojo"
+  ],
+  "included": [
+   "Recogida y regreso privados al hotel",
+   "Coche cómodo y con aire acondicionado",
+   "Guía turístico con licencia",
+   "Visita al Fuerte Rojo",
+   "Visita a la Mezquita Jama",
+   "Visita a Chandni Chowk",
+   "Visita a Agarsen ki Baoli",
+   "Visita al Gurudwara Bangla Sahib",
+   "Paseo en rickshaw",
+   "Tarifas de entrada (si se selecciona esta opción)",
+   "Cena (si se selecciona esta opción)",
+   "Botellas de agua de cortesía"
+  ],
+  "notIncluded": []
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
