@@ -20809,6 +20809,80 @@ export const ES_TOURS: Record<string, TourT> = {
    "Entradas a cualquier monumento o sitio"
   ]
  },
+ "from-delhi-luxury-2-day-golden-triangle-agra": {
+  "title": "Desde Delhi: tour de lujo del Triángulo Dorado de 2 días, Agra y Jaipur",
+  "metaTitle": "Delhi: Triángulo Dorado de lujo de 2 días, Agra y Jaipur",
+  "metaDescription": "Disfrute de los servicios de un conductor privado y un vehículo con aire acondicionado.",
+  "shortDescription": "Disfrute de los servicios de un conductor privado y un vehículo con aire acondicionado.",
+  "fullDescription": "Desde Delhi: tour de lujo del Triángulo Dorado de 2 días, Agra y Jaipur. Disfrute de los servicios de un conductor privado y un vehículo con aire acondicionado.\n\nEn el día 1, viaje de Nueva Delhi a Agra en auto, y disfrute de algunas visitas durante el día. Comience el viaje con una recogida en el aeropuerto, la estación de tren, o su hotel en Delhi. Realice un trayecto de 3 horas por la autopista para llegar a Agra, la ciudad del Taj Mahal. A su llegada a Agra, conozca al guía turístico, y dirígase al magnífico monumento, el Taj Mahal. El Taj Mahal es un mausoleo de mármol blanco marfil en la orilla sur del río Yamuna. Fue encargado en 1632 por el emperador mogol Shah Jahan, para albergar la tumba de su esposa favorita, Mumtaz Mahal. Después de explorar el fuerte de Agra, otro sitio del Patrimonio Mundial de la UNESCO. El fuerte de Agra es una fortaleza histórica en la ciudad de Agra, en la India. Fue la residencia principal de los emperadores de la dinastía mogol hasta 1638, cuando la capital se trasladó de Agra a Delhi. Después de visitar el fuerte de Agra, será llevado a Jaipur. A su llegada, regístrese en su hotel, y pase la noche en Jaipur.\n\nEn el día 2, disfrute de las visitas en Jaipur. Salga por la mañana después del desayuno, y conozca a su guía local para visitar el fuerte Amber. El fuerte Amber fue la capital de este estado hace mucho tiempo. En el camino, disfrute de una parada fotográfica en el Hawa Mahal, el Palacio de los Vientos. Luego, visite el Jantar Mantar, el museo del City Palace, y los apartamentos-museo con una variedad de textiles, trajes, armas, armamentos, y pinturas. Al final, será trasladado de regreso a su hotel en Nueva Delhi u otro lugar de la ciudad.\n\n**Qué incluye**\nAlojamiento de una noche en un hotel de 3 estrellas con desayuno (según la opción seleccionada)\nTarifas de entrada a monumentos (según la opción seleccionada)\nAgua embotellada\nGuía profesional\nRecogida y regreso al hotel o aeropuerto\nGarantía de evitar largas filas\nTour privado\nPara pareja/familia/grupo, alojamiento en habitación doble o twin\nPara viajero solo, una habitación individual de ocupación simple\nTransporte en vehículo privado con aire acondicionado\nConductor",
+  "highlights": [
+   "Disfrute de los servicios de un conductor privado y un vehículo con aire acondicionado"
+  ],
+  "included": [
+   "Alojamiento de una noche en un hotel de 3 estrellas con desayuno (según la opción seleccionada)",
+   "Tarifas de entrada a monumentos (según la opción seleccionada)",
+   "Agua embotellada",
+   "Guía profesional",
+   "Recogida y regreso al hotel o aeropuerto",
+   "Garantía de evitar largas filas",
+   "Tour privado",
+   "Para pareja/familia/grupo, alojamiento en habitación doble o twin",
+   "Para viajero solo, una habitación individual de ocupación simple",
+   "Transporte en vehículo privado con aire acondicionado",
+   "Conductor"
+  ],
+  "notIncluded": [
+   "Propinas opcionales",
+   "Comidas y bebidas"
+  ]
+ },
+ "delhi-self-choice-own-itinerary-private-tour-with": {
+  "title": "Delhi: itinerario a su elección - tour privado con guía",
+  "metaTitle": "Delhi: itinerario a su elección con guía",
+  "metaDescription": "Experimente lo mejor de Delhi en un tiempo limitado.",
+  "shortDescription": "Experimente lo mejor de Delhi en un tiempo limitado.",
+  "fullDescription": "Delhi: itinerario a su elección - tour privado con guía. Experimente lo mejor de Delhi en un tiempo limitado.\n\nComience con una recogida en su hotel en cualquier lugar de Delhi, Gurgaon, o Noida, o desde el aeropuerto de Delhi.\nPrimero, nuestro conductor lo recogerá en su hotel. Después de la recogida, continúe con su visita a la Vieja Delhi o la Nueva Delhi, según la opción de tour que reserve.\n\nPuede seleccionar cualquier hora de recogida entre las 7:30 y las 16:00.\n\nLugares que visitará en la Vieja Delhi:\nEn la Vieja Delhi visitará la Jama Masjid, hará un paseo en rickshaw, visitará Chandni Chowk, el mercado de especias, el Fuerte Rojo (exterior), y Rajghat.\n\nLugares que visitará en la Nueva Delhi:\nEn la Nueva Delhi visitará la tumba de Humayun, el jardín Lodi, India Gate, la residencia del Presidente, y Agresan Ki Baoli.\n\nSi desea cubrir tanto la Vieja como la Nueva Delhi, puede seleccionar la 3.ª o la 4.ª opción, y cubrirá ambas en 8 horas.\n\nUna vez finalizado el tour, lo dejaremos en su hotel o en el aeropuerto de Delhi.\n\n**Qué incluye**\nWi-Fi gratis\nRecogida y regreso al hotel o aeropuerto\nAuto con aire acondicionado y conductor\nGuía\nAgua embotellada\n\n**No incluye**\nEntradas a monumentos\nComidas y bebidas\nPropinas",
+  "highlights": [
+   "Experimente lo mejor de Delhi en un tiempo limitado"
+  ],
+  "included": [
+   "Wi-Fi gratis",
+   "Recogida y regreso al hotel o aeropuerto",
+   "Auto con aire acondicionado y conductor",
+   "Guía",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Entradas a monumentos",
+   "Comidas y bebidas",
+   "Propinas"
+  ]
+ },
+ "jim-corbett-national-park-safari-with-lunch": {
+  "title": "Safari en el Parque Nacional Jim Corbett con almuerzo y tour de naturaleza",
+  "metaTitle": "Parque Nacional Jim Corbett: safari y almuerzo",
+  "metaDescription": "Explore el Parque Nacional Jim Corbett en un safari de día completo desde Ramnagar.",
+  "shortDescription": "Explore el Parque Nacional Jim Corbett en un safari de día completo desde Ramnagar.",
+  "fullDescription": "Safari en el Parque Nacional Jim Corbett con almuerzo y tour de naturaleza. Explore el Parque Nacional Jim Corbett en un safari de día completo desde Ramnagar.\n\nComience su día con una recogida conveniente en su hotel en Ramnagar, Haridwar, Rishikesh, o Delhi, y un traslado a la puerta del safari. Complete la verificación de permisos requerida, y reciba una breve charla de seguridad antes de ingresar al parque.\n\nDisfrute de un emocionante safari matutino en jeep a través de una de las zonas de safari más reconocidas del Parque Nacional Jim Corbett. Busque tigres de Bengala, elefantes asiáticos, leopardos, cocodrilos, ciervos sambar, ciervos moteados, jabalíes, y más de 600 especies de aves, mientras su naturalista experto comparte datos fascinantes sobre la vida salvaje y el ecosistema del parque.\n\nDespués de su primer safari, relájese con té, café, y ligeros refrescos. Pase algo de tiempo libre cerca del río Kosi, o disfrute del entorno tranquilo del bosque mientras captura hermosas fotografías.\n\nDisfrute de un delicioso almuerzo tipo buffet o de menú fijo con auténtica cocina del norte de la India y kumaoni, en un resort o restaurante local cuidadosamente seleccionado.\n\nRegrese al parque nacional para su segundo safari en jeep o canter, disfrutando de otro safari. Esto le da otra excelente oportunidad de observar vida salvaje que pudo haberse perdido durante el safari matutino, incluyendo tigres de Bengala, elefantes, leopardos, nutrias, cocodrilos, y una amplia variedad de aves en un hábitat diferente.\n\nDespués de su segundo safari, regrese en auto a su hotel con recuerdos inolvidables de una increíble aventura de vida salvaje.\n\n**Qué incluye**\nRecogida y regreso al hotel\nSafari matutino en jeep\nSafari en jeep por la tarde\nTé y bocadillos por la noche\nAlmuerzo tradicional indio\nConductor profesional\nGuía turístico de naturaleza\nNaturalista experto\n\n**No incluye**\nTarifas del permiso de entrada al parque\nGastos personales\nPropinas",
+  "highlights": [
+   "Explore el Parque Nacional Jim Corbett en un safari de día completo desde Ramnagar"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Safari matutino en jeep",
+   "Safari en jeep por la tarde",
+   "Té y bocadillos por la noche",
+   "Almuerzo tradicional indio",
+   "Conductor profesional",
+   "Guía turístico de naturaleza",
+   "Naturalista experto"
+  ],
+  "notIncluded": [
+   "Tarifas del permiso de entrada al parque",
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
