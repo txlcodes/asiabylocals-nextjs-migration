@@ -20680,6 +20680,65 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "new-delhi-sanjay-colony-slum-tour-with-local-guide": {
+  "title": "New Delhi: Sanjay-Colony-Slum-Tour mit örtlichem Guide",
+  "metaTitle": "New Delhi: Sanjay-Colony-Slum-Tour",
+  "metaDescription": "Kleiderrecycling und -herstellung.",
+  "shortDescription": "Kleiderrecycling und -herstellung.",
+  "fullDescription": "New Delhi: Sanjay-Colony-Slum-Tour mit örtlichem Guide. Kleiderrecycling und -herstellung.\n\nErkunden Sie die intime Landschaft von Sanjay Colony, einem bescheidenen Slum auf 25 Acres neben Delhis berühmten Sehenswürdigkeiten, dem Bahá'í-Lotustempel und dem ISKCON-Hare-Krishna-Tempel. Ursprünglich aus Waldgelände gerodet, beherbergt diese lebendige Gemeinschaft etwa 50.000 Menschen inmitten einer der größten Industriezonen Indiens.\n\nNehmen Sie an einem transformativen, lehrreichen Spaziergang teil, der den Dialog über die authentischen Realitäten des Slumlebens anregen soll. Nähern Sie sich mit offenem Herzen und offenem Geist, bereit, Missverständnisse über diese urbanen Lebensräume auszuräumen.\n\nErleben Sie aus erster Hand die komplexen Abläufe des Kleiderrecyclings und der Produktion, einer Schlüsselindustrie innerhalb von Sanjay Colony. Entdecken Sie ein Mosaik von Unternehmen, von Autoteilen bis zu Elektronik, die alle in das Gewebe dieses dynamischen Viertels eingewoben sind. Nehmen Sie Teil an den vielschichtigen sozialen Dynamiken, und halten Sie an, um Grüße mit örtlichen Jugendlichen auszutauschen, die die Straßen beleben. Bereichern Sie Ihre Reise mit Besuchen eines Hindu-Tempels und einer Moschee, die den Teppich der Glaubensrichtungen in dieser Enklave verkörpern.\n\nTauchen Sie ein in den Rhythmus des täglichen Lebens, wo trotz der Widrigkeiten Widerstandsfähigkeit und gemeinschaftliche Solidarität gedeihen. Erleben Sie den lebhaften Geist und die unerschütterliche Kameradschaft, die diese lebendige Gemeinschaft ausmachen, über die Grenzen ihrer Umgebung hinaus.\n\n**Was ist enthalten**\nAbgepacktes Wasser",
+  "highlights": [
+   "Kleiderrecycling und -herstellung"
+  ],
+  "included": [
+   "Abgepacktes Wasser"
+  ],
+  "notIncluded": []
+ },
+ "delhi-old-delhi-slum-tour-by-metro-or-car": {
+  "title": "Delhi: Slum-Tour durch Alt-Delhi mit Metro oder Auto",
+  "metaTitle": "Delhi: Slum-Tour durch Alt-Delhi",
+  "metaDescription": "Nehmen Sie an einer sicheren, respektvollen, und nicht aufdringlichen Spaziertour durch Delhis Slum teil.",
+  "shortDescription": "Nehmen Sie an einer sicheren, respektvollen, und nicht aufdringlichen Spaziertour durch Delhis Slum teil.",
+  "fullDescription": "Delhi: Slum-Tour durch Alt-Delhi mit Metro oder Auto. Nehmen Sie an einer sicheren, respektvollen, und nicht aufdringlichen Spaziertour durch Delhis Slum teil.\n\n**Einführung (10 Minuten)**\nTreffen Sie Ihren Guide an der Sadipur-Metrostation in der Nähe von Burger King.\nKurze Einführung in die Geschichte und Kultur von Alt-Delhi und den Slums von Sadipur.\nErklärung des Zwecks der Tour: Einblick in den Alltag der Bewohner zu gewinnen.\n\n**Besuch eines Gemeindezentrums (30 Minuten)**\nErkunden Sie ein örtliches Gemeindezentrum, das als Knotenpunkt für soziale Aktivitäten dient.\nErfahren Sie mehr über die Rolle des Zentrums in Bildung, Berufsausbildung, und Gemeindeentwicklung.\nTreffen Sie Gemeindemitglieder, und führen Sie informelle Gespräche.\n\n**Spaziergang durch die engen Gassen (40 Minuten)**\nBeginnen Sie einen geführten Spaziergang durch die engen Gassen des Slumgebiets.\nErleben Sie das geschäftige Treiben des Alltags, von Straßenhändlern bis zu spielenden Kindern.\nErfahren Sie mehr über die Herausforderungen und Chancen, denen die Bewohner gegenüberstehen.\n\n**Besuch in einem örtlichen Zuhause (20 Minuten)**\nErleben Sie die Wärme der indischen Gastfreundschaft bei einem Besuch im Zuhause einer örtlichen Familie.\nFühren Sie ein Gespräch mit der Familie über ihren Alltag, ihre Hoffnungen, und ihre Herausforderungen.\nGewinnen Sie Einblick in die Lebensbedingungen und Traditionen der Gemeinschaft.\n\n**Interaktion mit Kunsthandwerkern (10 Minuten)**\nBesuchen Sie örtliche Kunsthandwerker in ihren Werkstätten.\nErfahren Sie mehr über traditionelles Handwerk wie Stickerei oder Töpferei.\nMöglichkeit, einzigartige, handgefertigte Souvenirs zu kaufen, um lokale Existenzgrundlagen zu unterstützen.\n\n**Besuch eines Kleinunternehmens (10 Minuten)**\nErkunden Sie ein kleines Unternehmen, das von einem Bewohner des Slums geführt wird.\nVerstehen Sie, wie Unternehmertum zur Verbesserung der Existenzgrundlagen beiträgt.\nOptional: Unterstützen Sie das Unternehmen durch einen Kauf.\n\n**Was ist enthalten**\nTuk-Tuk-Fahrt (falls Option gebucht wird)\nPrivater Guide\nÖrtlicher englischsprachiger Guide\nWasser / Kaltgetränk\nAbholung und Rückfahrt zum Hotel (falls Option gebucht wird)\n\n**Nicht enthalten**\nGetränke\nTrinkgelder",
+  "highlights": [
+   "Nehmen Sie an einer sicheren, respektvollen, und nicht aufdringlichen Spaziertour durch Delhis Slum teil"
+  ],
+  "included": [
+   "Tuk-Tuk-Fahrt (falls Option gebucht wird)",
+   "Privater Guide",
+   "Örtlicher englischsprachiger Guide",
+   "Wasser / Kaltgetränk",
+   "Abholung und Rückfahrt zum Hotel (falls Option gebucht wird)"
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Trinkgelder"
+  ]
+ },
+ "delhi-textile-trail-tour-with-artisan-interaction": {
+  "title": "Delhi: Textil-Pfad-Tour mit Begegnung mit Kunsthandwerkern",
+  "metaTitle": "Delhi: Textil-Pfad-Tour",
+  "metaDescription": "Erfahren Sie mehr über die Geschichte der Textilindustrie und ihren Einfluss auf Indien.",
+  "shortDescription": "Erfahren Sie mehr über die Geschichte der Textilindustrie und ihren Einfluss auf Indien.",
+  "fullDescription": "Delhi: Textil-Pfad-Tour mit Begegnung mit Kunsthandwerkern. Erfahren Sie mehr über die Geschichte der Textilindustrie und ihren Einfluss auf Indien.\n\nAbholung vom Hotel oder Flughafen\n\nEntdecken Sie die Seele Indiens durch seine reichen Textiltraditionen und sein kunsthandwerkliches Erbe.\n\nBegeben Sie sich auf eine unvergessliche Reise durch Delhis florierende Textillandschaft, wo uraltes Handwerk auf moderne Kreativität trifft. Speziell für Reisende mit Interesse an Kunst, Kultur, oder Design konzipiert, bietet diese Tour einen seltenen Blick hinter die Kulissen des lebendigen Textilerbes Indiens.\n\nBeginnen Sie Ihr Erlebnis in Alt-Delhi, wo belebte Bazare und ruhige Kunsthandwerker-Enklaven Generationen von Handwerkswissen verbergen. Besuchen Sie familiengeführte Werkstätten, traditionelle Handwerkszentren, und Design-Kollektive, wo Sie Live-Vorführungen traditioneller Techniken wie Teppich- und Teppichweberei, Pashmina-Schal-Herstellung, Blockdruck, Handwebkunst, Zari-Stickerei, und natürliche Färbung erleben.\n\nTreten Sie direkt mit Meister-Kunsthandwerkern in Kontakt, während sie die Geschichten, Fähigkeiten, und Symbolik hinter ihrer Arbeit teilen: von Stickerei aus der Mogulzeit bis zu zeitgenössischen Innovationen. Erfahren Sie, wie Textilien Schritt für Schritt entstehen, vom Spinnen und Färben bis zum Drucken und Nähen, und erkunden Sie, wie diese Techniken in der modernen Zeit bewahrt und wiederbelebt werden.\n\nAuf dem Weg haben Sie die Möglichkeit, ethisch und sinnvoll einzukaufen, und authentische, handgefertigte Textilien direkt von den Herstellern zu erwerben, wodurch Sie sowohl Tradition als auch Nachhaltigkeit unterstützen. Zu den Stopps können von NGOs unterstützte Handwerkszentren, Boutique-Studios, und Kunsthandwerker-Kooperativen gehören, die bekannt dafür sind, ländliche Kunsthandwerker zu stärken und faire Handelspraktiken zu fördern.\n\nMit einem fließend englischsprachigen Experten-Guide, privatem klimatisiertem Transport, und flexiblen Zeiten ist dieses immersive Erlebnis sowohl lehrreich als auch bereichernd. Ob Sie ein Modeprofi, Design-Student, oder neugieriger Reisender sind, die Delhi-Textil-Pfad-Tour bietet tiefe kulturelle Einblicke und eine unvergessliche menschliche Verbindung, gewoben aus den Fäden des künstlerischen Geistes Indiens.\n\n**Was ist enthalten**\nGeführter Textil-Pfad\nBegegnungen mit örtlichen Kunsthandwerkern\nBesuch verschiedener Textilmärkte\nAbholung und Rückfahrt zum Hotel oder Flughafen\nAller notwendige Transport zu/von den Attraktionen\nMineralwasser\nKosten für die Tuk-Tuk-Fahrt (Fahrradrikscha) zum Besuch der Märkte in Alt-Delhi\n\n**Nicht enthalten**\nMahlzeiten und Getränke\nPersönliche Einkaufsausgaben\nTrinkgelder",
+  "highlights": [
+   "Erfahren Sie mehr über die Geschichte der Textilindustrie und ihren Einfluss auf Indien"
+  ],
+  "included": [
+   "Geführter Textil-Pfad",
+   "Begegnungen mit örtlichen Kunsthandwerkern",
+   "Besuch verschiedener Textilmärkte",
+   "Abholung und Rückfahrt zum Hotel oder Flughafen",
+   "Aller notwendige Transport zu/von den Attraktionen",
+   "Mineralwasser",
+   "Kosten für die Tuk-Tuk-Fahrt (Fahrradrikscha) zum Besuch der Märkte in Alt-Delhi"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke",
+   "Persönliche Einkaufsausgaben",
+   "Trinkgelder"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

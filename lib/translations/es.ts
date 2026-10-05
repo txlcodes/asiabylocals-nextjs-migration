@@ -20680,6 +20680,65 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "new-delhi-sanjay-colony-slum-tour-with-local-guide": {
+  "title": "Nueva Delhi: tour por el barrio marginal de Sanjay Colony con guía local",
+  "metaTitle": "Nueva Delhi: tour por Sanjay Colony",
+  "metaDescription": "Reciclaje y fabricación de prendas.",
+  "shortDescription": "Reciclaje y fabricación de prendas.",
+  "fullDescription": "Nueva Delhi: tour por el barrio marginal de Sanjay Colony con guía local. Reciclaje y fabricación de prendas.\n\nExplore el paisaje íntimo de Sanjay Colony, un modesto barrio marginal situado en 25 acres junto a los monumentos más famosos de Delhi, el Templo del Loto Bahá'í y el templo Hare Krishna de ISKCON. Originalmente despejado de terreno forestal, esta vibrante comunidad alberga aproximadamente a 50.000 personas en medio de una de las zonas industriales más grandes de la India.\n\nÚnase a una excursión a pie educativa y transformadora diseñada para generar diálogo sobre las realidades autenticas de la vida en los barrios marginales. Acérquese con el corazón y la mente abiertos, dispuesto a disipar conceptos erróneos sobre estos hábitats urbanos.\n\nSea testigo de primera mano de los intrincados mecanismos del reciclaje y la producción de prendas, una industria fundamental dentro de Sanjay Colony. Descubra un mosaico de empresas, desde piezas de automóviles hasta electrónica, cada una entrelazada en el tejido de este dinámico barrio. Interactúe con las múltiples dinámicas sociales, deteniéndose para intercambiar saludos con los jóvenes locales que animan las calles. Enriquezca su viaje con visitas a un templo hindú y una mezquita, que encarnan el tapiz de creencias abrazadas en este enclave.\n\nSumérjase en los ritmos de la vida diaria, donde a pesar de la adversidad, florecen la resiliencia y la solidaridad comunitaria. Experimente el espíritu animado y la camaradería inquebrantable que definen a esta vibrante comunidad, trascendiendo las limitaciones de su entorno.\n\n**Qué incluye**\nAgua embotellada",
+  "highlights": [
+   "Reciclaje y fabricación de prendas"
+  ],
+  "included": [
+   "Agua embotellada"
+  ],
+  "notIncluded": []
+ },
+ "delhi-old-delhi-slum-tour-by-metro-or-car": {
+  "title": "Delhi: tour por el barrio marginal de la Vieja Delhi en metro o auto",
+  "metaTitle": "Delhi: tour por el barrio marginal de la Vieja Delhi",
+  "metaDescription": "Participe en un tour a pie seguro, respetuoso, y no intrusivo por el barrio marginal de Delhi.",
+  "shortDescription": "Participe en un tour a pie seguro, respetuoso, y no intrusivo por el barrio marginal de Delhi.",
+  "fullDescription": "Delhi: tour por el barrio marginal de la Vieja Delhi en metro o auto. Participe en un tour a pie seguro, respetuoso, y no intrusivo por el barrio marginal de Delhi.\n\n**Introducción (10 minutos)**\nConozca a su guía en la estación de metro Sadipur, cerca de Burger King.\nBreve introducción a la historia y cultura de la Vieja Delhi y de los barrios marginales de Sadipur.\nExplicación del propósito del tour: comprender la vida diaria de los residentes.\n\n**Visita a un centro comunitario (30 minutos)**\nExplore un centro comunitario local que sirve como núcleo de actividades sociales.\nConozca el papel del centro en la educación, la formación profesional, y el desarrollo comunitario.\nConozca a miembros de la comunidad, y entable conversaciones informales.\n\n**Caminata por los callejones estrechos (40 minutos)**\nComience una caminata guiada por los callejones estrechos de la zona marginal.\nSea testigo del bullicio de la vida diaria, desde vendedores ambulantes hasta niños jugando.\nConozca los desafíos y oportunidades que enfrentan los residentes.\n\n**Visita a un hogar local (20 minutos)**\nExperimente la calidez de la hospitalidad india visitando el hogar de una familia local.\nEntable una conversación con la familia sobre sus rutinas diarias, aspiraciones, y desafíos.\nObtenga una visión de las condiciones de vida y tradiciones de la comunidad.\n\n**Interacción con artesanos (10 minutos)**\nVisite a artesanos locales en sus talleres.\nConozca oficios tradicionales, como el bordado o la cerámica.\nOportunidad de comprar souvenirs únicos hechos a mano para apoyar los medios de vida locales.\n\n**Visita a un pequeño negocio (10 minutos)**\nExplore un pequeño negocio dirigido por un residente del barrio marginal.\nComprenda cómo el emprendimiento contribuye a mejorar los medios de vida.\nOpcional: apoye el negocio realizando una compra.\n\n**Qué incluye**\nPaseo en tuk-tuk (si se reserva la opción)\nGuía privado\nGuía local de habla inglesa\nAgua / bebida fría\nRecogida y regreso al hotel (si se reserva la opción)\n\n**No incluye**\nBebidas\nPropinas",
+  "highlights": [
+   "Participe en un tour a pie seguro, respetuoso, y no intrusivo por el barrio marginal de Delhi"
+  ],
+  "included": [
+   "Paseo en tuk-tuk (si se reserva la opción)",
+   "Guía privado",
+   "Guía local de habla inglesa",
+   "Agua / bebida fría",
+   "Recogida y regreso al hotel (si se reserva la opción)"
+  ],
+  "notIncluded": [
+   "Bebidas",
+   "Propinas"
+  ]
+ },
+ "delhi-textile-trail-tour-with-artisan-interaction": {
+  "title": "Delhi: recorrido textil con interacción con artesanos",
+  "metaTitle": "Delhi: recorrido textil",
+  "metaDescription": "Conozca la historia de la industria textil y su impacto en la India.",
+  "shortDescription": "Conozca la historia de la industria textil y su impacto en la India.",
+  "fullDescription": "Delhi: recorrido textil con interacción con artesanos. Conozca la historia de la industria textil y su impacto en la India.\n\nRecogida en el hotel o aeropuerto\n\nDescubra el alma de la India a través de sus ricas tradiciones textiles y su patrimonio artesanal.\n\nEmbárquese en un viaje inolvidable a través del próspero panorama textil de Delhi, donde el arte ancestral se encuentra con la creatividad moderna. Diseñado especialmente para viajeros interesados en el arte, la cultura, o el diseño, este recorrido ofrece una mirada poco común detrás de escena del patrimonio textil vivo de la India.\n\nComience su experiencia en la Vieja Delhi, donde bulliciosos bazares y tranquilos enclaves de artesanos esconden generaciones de conocimiento artesanal. Visite talleres familiares, centros artesanales patrimoniales, y colectivos de diseño, donde será testigo de demostraciones en vivo de técnicas tradicionales como el tejido de alfombras y tapices, la elaboración de bufandas de pashmina, la impresión en bloque, el tejido manual, el bordado zari, y el teñido natural.\n\nInteractúe directamente con artesanos maestros mientras comparten las historias, habilidades, y simbolismo detrás de su trabajo: desde el bordado de la era mogol hasta las innovaciones contemporáneas. Aprenda cómo se crean los textiles paso a paso, desde el hilado y el teñido hasta la impresión y la costura, y explore cómo estas técnicas se están preservando y reviviendo en la era moderna.\n\nEn el camino, tendrá oportunidades de comprar de manera ética y significativa, adquiriendo textiles auténticos hechos a mano directamente de los artesanos, apoyando así tanto la tradición como la sostenibilidad. Las paradas pueden incluir centros artesanales apoyados por ONG, estudios boutique, y cooperativas de artesanos, conocidos por empoderar a los artesanos rurales y promover prácticas de comercio justo.\n\nCon un guía experto que habla inglés con fluidez, transporte privado con aire acondicionado, y horarios flexibles, esta experiencia inmersiva es tanto educativa como enriquecedora. Ya sea que sea un profesional de la moda, estudiante de diseño, o viajero curioso, el recorrido textil de Delhi ofrece una profunda perspectiva cultural y una conexión humana memorable, tejida con los hilos del espíritu artístico de la India.\n\n**Qué incluye**\nRecorrido textil guiado\nInteracciones con artesanos locales\nVisita a varios mercados textiles\nRecogida y regreso al hotel o aeropuerto\nTodo el transporte necesario hacia/desde las atracciones del sitio\nAgua mineral\nCosto del paseo en tuk-tuk (rickshaw de pedales) para visitar los mercados de la Vieja Delhi\n\n**No incluye**\nComidas y bebidas\nGastos personales de compras\nPropinas",
+  "highlights": [
+   "Conozca la historia de la industria textil y su impacto en la India"
+  ],
+  "included": [
+   "Recorrido textil guiado",
+   "Interacciones con artesanos locales",
+   "Visita a varios mercados textiles",
+   "Recogida y regreso al hotel o aeropuerto",
+   "Todo el transporte necesario hacia/desde las atracciones del sitio",
+   "Agua mineral",
+   "Costo del paseo en tuk-tuk (rickshaw de pedales) para visitar los mercados de la Vieja Delhi"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "Gastos personales de compras",
+   "Propinas"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",

@@ -20680,6 +20680,65 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "new-delhi-sanjay-colony-slum-tour-with-local-guide": {
+  "title": "New Delhi : visite du bidonville de Sanjay Colony avec guide local",
+  "metaTitle": "New Delhi : visite du bidonville de Sanjay Colony",
+  "metaDescription": "Recyclage et fabrication de vêtements.",
+  "shortDescription": "Recyclage et fabrication de vêtements.",
+  "fullDescription": "New Delhi : visite du bidonville de Sanjay Colony avec guide local. Recyclage et fabrication de vêtements.\n\nExplorez le paysage intime de Sanjay Colony, un modeste bidonville nichée sur 25 acres à côté des monuments renommés de Delhi, le temple bahá'í du Lotus et le temple Hare Krishna de l'ISKCON. Initialement défriché sur un terrain forestier, cette communauté vibrante héberge environ 50 000 personnes au cœur d'une des plus grandes zones industrielles de l'Inde.\n\nRejoignez une excursion éducative et transformatrice à pied conçue pour susciter le dialogue sur les réalités authentiques de la vie dans les bidonvilles. Approchez avec un cœur et un esprit ouverts, prêt à dissiper les idées fausses entourant ces habitats urbains.\n\nObservez de première main les mécanismes complexes du recyclage et de la production de vêtements, une industrie pilier de Sanjay Colony. Découvrez une mosaïque d'entreprises, des pièces automobiles à l'électronique, tissant chacune la trame de ce quartier dynamique. Engagez-vous avec les dynamiques sociales multiples, en vous arrêtant pour échanger des salutations avec les jeunes locaux qui animent les rues. Enrichissez votre voyage avec des visites d'un temple hindou et d'une mosquée, incarnant la tapisserie des croyances embrassées dans cette enclave.\n\nPlongez-vous dans les rythmes de la vie quotidienne, où malgré l'adversité, la résilience et la solidarité communautaire s'épanouissent. Vivez l'esprit enjoué et la camaraderie inébranlable qui définissent cette communauté vibrante, transcendant les contraintes de son environnement.\n\n**Ce qui est inclus**\nEau en bouteille",
+  "highlights": [
+   "Recyclage et fabrication de vêtements"
+  ],
+  "included": [
+   "Eau en bouteille"
+  ],
+  "notIncluded": []
+ },
+ "delhi-old-delhi-slum-tour-by-metro-or-car": {
+  "title": "Delhi : visite du bidonville du Vieux Delhi en métro ou en voiture",
+  "metaTitle": "Delhi : visite du bidonville du Vieux Delhi",
+  "metaDescription": "Participez à une visite à pied sûre, respectueuse, et non intrusive du bidonville de Delhi.",
+  "shortDescription": "Participez à une visite à pied sûre, respectueuse, et non intrusive du bidonville de Delhi.",
+  "fullDescription": "Delhi : visite du bidonville du Vieux Delhi en métro ou en voiture. Participez à une visite à pied sûre, respectueuse, et non intrusive du bidonville de Delhi.\n\n**Introduction (10 minutes)**\nRencontrez votre guide à la station de métro Sadipur, près du Burger King.\nBrève introduction à l'histoire et à la culture du Vieux Delhi et des bidonvilles de Sadipur.\nExplication de l'objectif de la visite : comprendre le quotidien des résidents.\n\n**Visite d'un centre communautaire (30 minutes)**\nExplorez un centre communautaire local qui sert de pôle d'activités sociales.\nDécouvrez le rôle du centre dans l'éducation, la formation professionnelle, et le développement communautaire.\nRencontrez des membres de la communauté et engagez des conversations informelles.\n\n**Promenade dans les ruelles étroites (40 minutes)**\nCommencez une promenade guidée à travers les ruelles étroites du quartier.\nObservez l'agitation de la vie quotidienne, des vendeurs de rue aux enfants qui jouent.\nDécouvrez les défis et opportunités auxquels font face les résidents.\n\n**Visite d'un foyer local (20 minutes)**\nDécouvrez la chaleur de l'hospitalité indienne en visitant le foyer d'une famille locale.\nEngagez une discussion avec la famille sur leur quotidien, leurs aspirations, et leurs défis.\nComprenez les conditions de vie et les traditions de la communauté.\n\n**Interaction avec des artisans (10 minutes)**\nVisitez des artisans locaux dans leurs ateliers.\nDécouvrez des artisanats traditionnels, comme la broderie ou la poterie.\nPossibilité d'acheter des souvenirs uniques faits main pour soutenir les moyens de subsistance locaux.\n\n**Visite d'une petite entreprise (10 minutes)**\nExplorez une petite entreprise gérée par un résident du bidonville.\nComprenez comment l'entrepreneuriat contribue à améliorer les moyens de subsistance.\nFacultatif : soutenez l'entreprise en effectuant un achat.\n\n**Ce qui est inclus**\nTrajet en tuk-tuk (si l'option est réservée)\nGuide privé\nGuide local anglophone\nEau / boisson fraîche\nPrise en charge et retour à l'hôtel (si l'option est réservée)\n\n**Non inclus**\nBoissons\nPourboires",
+  "highlights": [
+   "Participez à une visite à pied sûre, respectueuse, et non intrusive du bidonville de Delhi"
+  ],
+  "included": [
+   "Trajet en tuk-tuk (si l'option est réservée)",
+   "Guide privé",
+   "Guide local anglophone",
+   "Eau / boisson fraîche",
+   "Prise en charge et retour à l'hôtel (si l'option est réservée)"
+  ],
+  "notIncluded": [
+   "Boissons",
+   "Pourboires"
+  ]
+ },
+ "delhi-textile-trail-tour-with-artisan-interaction": {
+  "title": "Delhi : circuit du textile avec interaction avec des artisans",
+  "metaTitle": "Delhi : circuit du textile",
+  "metaDescription": "Découvrez l'histoire de l'industrie textile et son impact sur l'Inde.",
+  "shortDescription": "Découvrez l'histoire de l'industrie textile et son impact sur l'Inde.",
+  "fullDescription": "Delhi : circuit du textile avec interaction avec des artisans. Découvrez l'histoire de l'industrie textile et son impact sur l'Inde.\n\nPrise en charge depuis l'hôtel ou l'aéroport\n\nDécouvrez l'âme de l'Inde à travers ses riches traditions textiles et son patrimoine artisanal.\n\nLancez-vous dans un voyage inoubliable à travers le paysage textile florissant de Delhi, où le savoir-faire ancestral rencontre la créativité moderne. Conçu spécialement pour les voyageurs intéressés par l'art, la culture, ou le design, ce circuit offre un regard rare sur les coulisses du patrimoine textile vivant de l'Inde.\n\nCommencez votre expérience depuis le Vieux Delhi, où des bazars animés et de discrètes enclaves d'artisans cachent des générations de savoir-faire artisanal. Visitez des ateliers familiaux, des centres artisanaux patrimoniaux, et des collectifs de design, où vous assisterez à des démonstrations en direct de techniques traditionnelles telles que le tissage de tapis et de moquettes, la fabrication d'écharpes en pashmina, l'impression au bloc, le tissage manuel, la broderie zari, et la teinture naturelle.\n\nÉchangez directement avec des maîtres artisans alors qu'ils partagent les histoires, les compétences, et le symbolisme derrière leur travail : de la broderie de l'époque moghole aux innovations contemporaines. Découvrez comment les textiles sont créés étape par étape, du filage et de la teinture à l'impression et à la couture, et explorez comment ces techniques sont préservées et ravivées à l'ère moderne.\n\nEn chemin, vous aurez l'occasion de faire des achats éthiques et significatifs, en acquérant des textiles authentiques faits main directement auprès des artisans, soutenant ainsi à la fois la tradition et la durabilité. Les arrêts peuvent inclure des centres artisanaux soutenus par des ONG, des studios-boutiques, et des coopératives d'artisans, connus pour autonomiser les artisans ruraux et promouvoir des pratiques de commerce équitable.\n\nAvec un guide expert parlant couramment anglais, un transport privé climatisé, et des horaires flexibles, cette expérience immersive est à la fois éducative et enrichissante. Que vous soyez un professionnel de la mode, un étudiant en design, ou un voyageur curieux, le circuit du textile de Delhi offre une profonde perspective culturelle et une connexion humaine mémorable, tissée par les fils de l'esprit artistique de l'Inde.\n\n**Ce qui est inclus**\nCircuit textile guidé\nInteractions avec des artisans locaux\nVisite de divers marchés textiles\nPrise en charge et retour à l'hôtel ou à l'aéroport\nTout le transport nécessaire vers et depuis les attractions du site\nEau minérale\nCoût du trajet en tuk-tuk (rickshaw à pédales) pour visiter les marchés du Vieux Delhi\n\n**Non inclus**\nRepas et boissons\nDépenses personnelles de shopping\nPourboires",
+  "highlights": [
+   "Découvrez l'histoire de l'industrie textile et son impact sur l'Inde"
+  ],
+  "included": [
+   "Circuit textile guidé",
+   "Interactions avec des artisans locaux",
+   "Visite de divers marchés textiles",
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Tout le transport nécessaire vers et depuis les attractions du site",
+   "Eau minérale",
+   "Coût du trajet en tuk-tuk (rickshaw à pédales) pour visiter les marchés du Vieux Delhi"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "Dépenses personnelles de shopping",
+   "Pourboires"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
