@@ -6265,6 +6265,80 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "skip-the-line-private-taj-mahal-agra-fort-tour": {
+  "title": "Visite privée coupe-file du Taj Mahal et du fort d'Agra",
+  "metaTitle": "Agra : Taj Mahal et fort, coupe-file, privé",
+  "metaDescription": "Entrée coupe-file : assistance d'entrée rapide au Taj Mahal et au fort d'Agra.",
+  "shortDescription": "Entrée coupe-file : assistance d'entrée rapide au Taj Mahal et au fort d'Agra.",
+  "fullDescription": "Économisez du temps à Agra grâce à une assistance directe et coupe-file dans les deux sites du patrimoine mondial de l'UNESCO mondialement célèbres : le Taj Mahal et le fort d'Agra. Conçue pour les voyageurs qui souhaitent zéro stress, un contexte riche, et des photos mémorables, cette visite privée vous offre une flexibilité complète du début à la fin.\n\nVotre expérience commence par une prise en charge de porte à porte à votre hôtel à Agra, la gare, ou l'endroit préféré, dans un véhicule confortable et climatisé. Rencontrez votre guide local agréé, qui apporte une véritable perspective historique sur l'architecture moghole, plutôt que des listes de dates scriptées.\n\n**Le Taj Mahal sans la foule**\n\nArrivez au Taj Mahal et passez directement devant les files d'attente publiques principales. À l'intérieur, votre guide vous emmène aux endroits les plus emblématiques, incluant les bassins réfléchissants, la plateforme centrale en marbre, et les arches royales symétriques. Au-delà de la riche narration historique de Shah Jahan et Mumtaz Mahal, votre guide vous aide à prendre des photos dignes de cartes postales aux meilleurs points de vue à l'intérieur du complexe.\n\n**Explorez le royal fort d'Agra**\n\nEnsuite, un court trajet vous mène au grandiose fort d'Agra, ancien siège de l'Empire moghol. Franchissez les imposantes portes en grès rouge pour explorer les salles privées (Diwan-i-Am et Diwan-i-Khas), les palais en marbre complexes, et les cours luxuriantes. Tenez-vous au balcon exact où Shah Jahan passa ses dernières années à contempler le Taj Mahal à travers la rivière.\n\n**Rythme personnalisé et sans stress**\n\nComme cette visite est 100 % privée, vous contrôlez le rythme. Passez plus de temps à admirer les détails architecturaux, à prendre des photos, ou à poser des questions. Votre guide garantit une expérience fluide et authentique, se terminant par un transfert relaxant de retour à votre hôtel ou à la gare.",
+  "highlights": [
+   "Entrée coupe-file : assistance d'entrée rapide au Taj Mahal et au fort d'Agra"
+  ],
+  "included": [
+   "Transferts en véhicule privé climatisé (si option sélectionnée)",
+   "Chauffeur professionnel et courtois",
+   "Guide local expert agréé avec assistance photographique à l'intérieur des monuments",
+   "Gestion des billets coupe-file",
+   "Eau en bouteille offerte",
+   "Frais de carburant",
+   "Péages et frais de stationnement",
+   "Visite guidée du Taj Mahal",
+   "Visite guidée du fort d'Agra",
+   "Visite guidée d'Itimad-ud-Daulah (Baby Taj)",
+   "Meilleurs endroits pour la photographie et assistance photo à tous les monuments",
+   "Recommandations personnalisées pour la nourriture locale, le shopping, et les trésors cachés"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires et gratifications"
+  ]
+ },
+ "agra-professional-tour-guide-in-agra-full-day": {
+  "title": "Agra : guide touristique professionnel à Agra, journée complète",
+  "metaTitle": "Agra : guide professionnel, journée complète",
+  "metaDescription": "La confirmation sera reçue au moment de la réservation.",
+  "shortDescription": "La confirmation sera reçue au moment de la réservation.",
+  "fullDescription": "Selon l'heure que vous avez sélectionnée, le guide vous rencontrera à votre hôtel à Agra ou en chemin vers le Taj Mahal, si vous venez de Delhi ou d'ailleurs.\n\nVisitez Agra pendant une journée complète ; l'histoire détaillée et l'architecture du Taj Mahal seront racontées par le guide touristique, ainsi que le fort d'Agra, et le Baby Taj ou Mehtab Bagh. Vous profiterez de la beauté de ce monument mondialement célèbre.\n\nLe guide touristique est très amical, professionnel, compétent, éduqué, et bien habillé. Il pourra vous expliquer la beauté et l'histoire du Taj Mahal pendant environ 2 heures, et la visite du fort d'Agra pendant 1 heure. Après le fort d'Agra, partez déjeuner.\n\nEnsuite, visitez des boutiques d'artisanat local (optionnel).\n\nLe soir, visitez Mehtab Bagh, l'arrière du Taj Mahal, de l'autre côté de la rivière, et observez le reflet du Taj dans la rivière, ainsi que la vue du coucher de soleil sur le Taj Mahal.\n\nEt les services de guide touristique se terminent ici.",
+  "highlights": [
+   "La confirmation sera reçue au moment de la réservation"
+  ],
+  "included": [
+   "1) Toutes les taxes, le stationnement, le carburant, l'indemnité de chauffeur",
+   "2) Véhicule privé climatisé (si option choisie)",
+   "3) Guide touristique professionnel à Agra",
+   "4) Billets d'entrée aux monuments (Taj Mahal, fort d'Agra, Mehtab Bagh, ou Baby Taj) (si option choisie)",
+   "5) Petit-déjeuner/déjeuner au restaurant (si option choisie)"
+  ],
+  "notIncluded": [
+   "1) Photos souvenirs (disponibles à l'achat)",
+   "2) Boissons alcoolisées (disponibles à l'achat)"
+  ]
+ },
+ "agra-taj-mahal-entry-ticket-for-foreigner-and": {
+  "title": "Agra : billet d'entrée au Taj Mahal pour étrangers et Indiens",
+  "metaTitle": "Agra : billet d'entrée au Taj Mahal",
+  "metaDescription": "Évitez les longues files grâce à un billet d'entrée sans tracas pour le Taj Mahal.",
+  "shortDescription": "Évitez les longues files grâce à un billet d'entrée sans tracas pour le Taj Mahal.",
+  "fullDescription": "Commencez votre expérience à Agra par une visite du magnifique Taj Mahal, l'un des plus beaux monuments du monde et un symbole durable d'amour. Rencontrez votre guide touristique local, et entrez au Taj Mahal avec votre billet d'entrée sélectionné.\n\nEntrez dans le monument et découvrez l'histoire touchante derrière sa création. Construit par l'empereur moghol Shah Jahan en mémoire de son épouse bien-aimée Mumtaz Mahal, le Taj Mahal représente une histoire d'amour qui a perduré à travers les siècles. Votre guide partagera l'histoire, les légendes, l'architecture, et les détails fascinants derrière le monument en marbre blanc, tandis que vous explorez ses jardins, bassins réfléchissants, grande porte, mosquée, et mausolée.\n\nPrenez votre temps pour admirer le travail complexe d'incrustation de marbre, les sculptures délicates, et les couleurs changeantes du Taj Mahal au fil du mouvement de la lumière du soleil sur son marbre blanc. Capturez des photographies mémorables depuis les points de vue célèbres, et profitez de temps pour explorer à votre propre rythme.\n\n**Options supplémentaires :**\nFort d'Agra : continuez vers l'impressionnant fort d'Agra, site du patrimoine mondial de l'UNESCO et ancienne résidence royale des empereurs moghols. Explorez ses grandes cours, palais, mosquées, et chambres tout en écoutant des histoires de pouvoir moghol, de romance, et d'histoire.\n\nItmad-ud-Daulah (Baby Taj) : visitez cet élégant tombeau en marbre, souvent appelé le « Baby Taj ». Admirez son délicat travail d'incrustation et son architecture détaillée, considérée comme une inspiration importante pour le Taj Mahal.\n\nMehtab Bagh : choisissez une visite de Mehtab Bagh, un magnifique jardin moghol situé de l'autre côté de la rivière Yamuna. Profitez d'une vue paisible sur le Taj Mahal depuis la rive opposée, particulièrement belle au coucher du soleil.\n\n**Retour à l'hôtel**\nÀ la fin de votre itinéraire sélectionné, votre guide vous aidera à retourner à votre point de dépose choisi à Agra.",
+  "highlights": [
+   "Évitez les longues files grâce à un billet d'entrée sans tracas pour le Taj Mahal"
+  ],
+  "included": [
+   "Prise en charge ou dépose",
+   "Voiture privée climatisée",
+   "Guide touristique agréé",
+   "Entrée coupe-file pour les touristes étrangers",
+   "Billet d'entrée (si option sélectionnée)",
+   "Eau en bouteille",
+   "Protège-chaussures",
+   "Aucun frais caché",
+   "Toutes les taxes et le stationnement"
+  ],
+  "notIncluded": [
+   "Déjeuner",
+   "Pourboires"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
