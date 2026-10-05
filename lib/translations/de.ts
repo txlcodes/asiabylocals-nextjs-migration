@@ -1642,6 +1642,72 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mittagessen"
   ]
  },
+ "agra-day-tour-to-tomb-of-akbar-baby-taj": {
+  "title": "Agra: Tagestour zum Grab von Akbar, Baby Taj, Mehtab, und mehr",
+  "metaTitle": "Agra: Grab von Akbar, Baby Taj, Mehtab",
+  "metaDescription": "Erkunden Sie Jama Masjid, Agras ikonische Moschee aus rotem Sandstein.",
+  "shortDescription": "Erkunden Sie Jama Masjid, Agras ikonische Moschee aus rotem Sandstein.",
+  "fullDescription": "Ihre Reise beginnt mit einer bequemen Abholung von Ihrem Hotel in Agra durch unseren erfahrenen lokalen Guide und Fahrer. Diese speziell zusammengestellte Tour führt Sie über den Taj Mahal hinaus und enthüllt die weniger bekannten, aber historisch reichen Schätze Agras.\n\nIhr erster Stopp ist die Jama Masjid, eine der größten Moscheen Indiens, bekannt für ihre markante Architektur aus rotem Sandstein und spirituelle Bedeutung. Wandern Sie durch ihren riesigen Hof und genießen Sie die friedliche Atmosphäre fern von den üblichen Touristenmassen.\n\nAls Nächstes genießen Sie einen malerischen Besuch von Mehtab Bagh, einem schönen Gartenkomplex am gegenüberliegenden Ufer des Flusses Yamuna, der atemberaubende Ausblicke auf den Taj Mahal aus einer einzigartigen Perspektive bietet. Es ist der perfekte Ort für Fotografie und stille Besinnung.\n\nWeiter geht es zu Itimad-ud-Daulah, oft als \"Baby Taj\" bezeichnet. Dieses exquisite weiße Marmorgrab, erbaut vor dem Taj Mahal, ist berühmt für seine kunstvolle Einlegearbeit und wird als Vorentwurf des Taj-Designs betrachtet. Die Stätte ist ruhig und voller reichem Mogul-Erbe.\n\nIhr letztes Ziel ist das majestätische Grab von Akbar dem Großen in Sikandra. Diese prächtige Struktur, die hinduistische, islamische, und christliche Architekturstile kombiniert, spiegelt den vielfältigen und inklusiven Geist des Mogulreichs wider. Erkunden Sie seine weiten Gärten und detaillierten Schnitzereien, während Sie mehr über einen der größten Kaiser Indiens erfahren.\n\nNach einem vollen Tag der Erkundung Agras versteckter historischer Schätze werden Sie bequem zurück zu Ihrem Hotel gebracht.\n\nEnde der Tour.",
+  "highlights": [
+   "Erkunden Sie Jama Masjid, Agras ikonische Moschee aus rotem Sandstein"
+  ],
+  "included": [
+   "Hotelabholung und Rückfahrt",
+   "Privater klimatisierter SUV",
+   "Live-Reiseführerservice an allen Orten",
+   "Mineralwasserflaschen",
+   "Fahrerzulagen",
+   "Alle Mautgebühren, Parkgebühren, und Steuern"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Denkmäler",
+   "Mahlzeiten und Getränke",
+   "Trinkgelder (optional)"
+  ]
+ },
+ "from-delhi-sunrise-taj-mahal-agra-city-tour-all": {
+  "title": "Ab Delhi: Taj Mahal bei Sonnenaufgang und Agra Stadttour, Komplettpaket",
+  "metaTitle": "Delhi-Agra: Taj Mahal bei Sonnenaufgang, Komplettpaket",
+  "metaDescription": "Erleben Sie den Sonnenaufgangsblick auf den Taj Mahal, eines der Sieben Weltwunder.",
+  "shortDescription": "Erleben Sie den Sonnenaufgangsblick auf den Taj Mahal, eines der Sieben Weltwunder.",
+  "fullDescription": "**2:30-3:00 Uhr – Abholung von Delhi**\nIhr Fahrer holt Sie früh von Ihrem Hotel oder Flughafen in Delhi, Noida, oder Gurugram in einem komfortablen klimatisierten Fahrzeug für eine malerische Fahrt nach Agra über die Yamuna Expressway ab.\n\n**6:00 Uhr – Besuch des Taj Mahal bei Sonnenaufgang**\nKommen Sie in Agra an und treffen Sie Ihren privaten Guide. Erleben Sie den atemberaubenden Sonnenaufgangsblick auf den Taj Mahal, eines der Sieben Weltwunder, während die ersten Sonnenstrahlen das weiße Marmordenkmal erleuchten.\n\n**8:00 Uhr – Frühstück in einem 5-Sterne-Hotel**\nGenießen Sie ein köstliches Buffet-Frühstück in einem 5-Sterne-Hotel in Agra, bevor Sie Ihre Stadterkundung fortsetzen.\n\n**9:00 Uhr – Erkunden Sie das Agra Fort**\nBesuchen Sie das prächtige Agra Fort, eine UNESCO-Welterbestätte und ehemalige königliche Residenz der Mogulkaiser, die beeindruckende Architektur und reiche Geschichte zeigt.\n\n**11:00 Uhr – Besuch von Mehtab Bagh (optional)**\nFangen Sie atemberaubende Ausblicke auf den Taj Mahal von Mehtab Bagh ein, dem Mondlichtgarten über den Fluss Yamuna, ideal für Fotografie-Liebhaber.\n\n**12:00 Uhr – lokale Kunst und Einkaufen (optional)**\nErkunden Sie Agras lokale Kunsthandwerksmärkte, bekannt für Marmor-Einlegearbeit, Schmuck, und Souvenirs.\n\n**13:00 Uhr – Rückfahrt nach Delhi**\nEntspannen Sie sich in Ihrem privaten Auto, während Ihr Fahrer Sie über die Yamuna Expressway zurück nach Delhi bringt.\n\n**16:00-17:00 Uhr – Abgabe in Delhi**\nKommen Sie zurück an Ihrem Hotel oder dem Flughafen an, mit unvergesslichen Erinnerungen an die Taj Mahal Sonnenaufgangs- und Agra Stadttour.",
+  "highlights": [
+   "Erleben Sie den Sonnenaufgangsblick auf den Taj Mahal, eines der Sieben Weltwunder"
+  ],
+  "included": [
+   "Hotel-/Flughafenabholung und Rückfahrt",
+   "Privates klimatisiertes Auto für die gesamte Tour mit Fahrer",
+   "Von der Regierung zugelassener Live-Reiseführer",
+   "Eintrittstickets für Denkmäler (falls Option ausgewählt)",
+   "Frühstück/Mittagessen in einem 5-Sterne-Hotel (falls Option ausgewählt)",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parken"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "from-delhi-private-taj-mahal-sunrise-with-agra": {
+  "title": "Ab Delhi: privater Taj Mahal Sonnenaufgang mit Agra Tour im Auto",
+  "metaTitle": "Delhi-Taj Mahal: privater Sonnenaufgang, Agra-Tour",
+  "metaDescription": "Erleben Sie den Taj Mahal bei Sonnenaufgang, den magischen frühmorgendlichen Anblick.",
+  "shortDescription": "Erleben Sie den Taj Mahal bei Sonnenaufgang, den magischen frühmorgendlichen Anblick.",
+  "fullDescription": "**Abfahrt: früh am Morgen von Delhi**\n**2:30 Uhr – Abholung von Ihrem Hotel in Delhi/NCR**\nBeginnen Sie Ihren Tag früh, um einen spektakulären Sonnenaufgangsblick auf den Taj Mahal zu gewährleisten. Reisen Sie in einem privaten klimatisierten Auto mit einem professionellen Fahrer (ca. 3,5 Stunden Fahrt nach Agra über die Yamuna Expressway).\n\n**Stopp 1: Taj Mahal bei Sonnenaufgang**\n**6:00 Uhr – Besuch des Taj Mahal**\nErleben Sie die faszinierende Schönheit des Taj Mahal, während die ersten Sonnenstrahlen den Marmor treffen. Ihr erfahrener Guide teilt faszinierende Geschichten und die Geschichte dieses Weltwunders. Nehmen Sie sich ausreichend Zeit zum Erkunden und Fotografieren, bevor die Menschenmassen eintreffen.\n\n**Optionaler Frühstücksstopp**\n**8:30 Uhr – Frühstück in einem 5-Sterne-Hotel (optional, auf eigene Kosten)**\nEntspannen Sie sich und genießen Sie ein köstliches Frühstück in einer Premium-Umgebung.\n\n**Stopp 2: Agra Fort**\n**9:30 Uhr – Besuch des Agra Fort**\nErkunden Sie das majestätische Agra Fort aus rotem Sandstein, eine UNESCO-Welterbestätte. Entdecken Sie Paläste, Audienzhallen, und königliche Gemächer im Inneren des Forts.\n\n**Stopp 3: Itmad-ud-Daulah (Baby Taj), optional**\n**11:00 Uhr – Besuch des Baby Taj (optional)**\nEin schmuckkästchenartiges Mausoleum und Inspiration für den Taj Mahal. Genießen Sie ruhige Gärten und kunstvolle Marmor-Einlegearbeit.\n\n**Optional: lokale Kunst und Kunsthandwerk**\n**11:45 Uhr – Erkunden Sie lokale Kunst- und Marmor-Einlegewerkstätten (optional)**\nErfahren Sie mehr über Agras traditionelles Handwerk und Marmorkunst.\n\n**Rückreise nach Delhi**\n**12:30 Uhr – Rückfahrt nach Delhi**\nLehnen Sie sich zurück und entspannen Sie sich während der Rückreise nach Delhi.\n\n**Ankunft in Delhi**\n**16:00 Uhr – Abgabe an Ihrem Hotel/Flughafen in Delhi**\nDie Tour endet mit unvergesslichen Erinnerungen an den Taj Mahal Sonnenaufgang.",
+  "highlights": [
+   "Erleben Sie den Taj Mahal bei Sonnenaufgang, den magischen frühmorgendlichen Anblick"
+  ],
+  "included": [
+   "Professioneller Reiseführerservice",
+   "Privates klimatisiertes Fahrzeug (falls Option ausgewählt)",
+   "Eintrittstickets für Denkmäler (falls Option ausgewählt)",
+   "Wasserflaschen im Auto",
+   "Frühstück/Mittagessen in einem 5-Sterne-Hotel (falls Option ausgewählt)",
+   "Alle Steuern und Parken"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",

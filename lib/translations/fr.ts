@@ -1642,6 +1642,72 @@ export const FR_TOURS: Record<string, TourT> = {
    "Déjeuner"
   ]
  },
+ "agra-day-tour-to-tomb-of-akbar-baby-taj": {
+  "title": "Agra : visite d'une journée au tombeau d'Akbar, Baby Taj, Mehtab, et plus",
+  "metaTitle": "Agra : tombeau d'Akbar, Baby Taj, Mehtab",
+  "metaDescription": "Explorez Jama Masjid, la mosquée emblématique en grès rouge d'Agra.",
+  "shortDescription": "Explorez Jama Masjid, la mosquée emblématique en grès rouge d'Agra.",
+  "fullDescription": "Votre voyage commence par une prise en charge pratique à votre hôtel à Agra par notre guide local expérimenté et chauffeur. Cette visite spécialement organisée vous emmène au-delà du Taj Mahal, révélant les trésors moins connus mais historiquement riches d'Agra.\n\nVotre premier arrêt est la Jama Masjid, l'une des plus grandes mosquées de l'Inde, connue pour son architecture frappante en grès rouge et sa signification spirituelle. Promenez-vous dans sa vaste cour et imprégnez-vous de l'atmosphère paisible, loin des foules touristiques habituelles.\n\nEnsuite, profitez d'une visite pittoresque de Mehtab Bagh, un beau complexe de jardins situé sur la rive opposée de la rivière Yamuna, offrant des vues impressionnantes sur le Taj Mahal depuis une perspective unique. C'est l'endroit parfait pour la photographie et la réflexion tranquille.\n\nContinuez vers Itimad-ud-Daulah, souvent appelé le « Baby Taj ». Ce tombeau exquis en marbre blanc, construit avant le Taj Mahal, est réputé pour son travail d'incrustation complexe et est considéré comme une ébauche du design du Taj. Le site est serein et riche en patrimoine moghol.\n\nVotre destination finale est le majestueux tombeau d'Akbar le Grand à Sikandra. Cette grande structure, combinant des styles architecturaux hindous, islamiques, et chrétiens, reflète l'esprit diversifié et inclusif de l'Empire moghol. Explorez ses vastes jardins et ses sculptures détaillées tout en découvrant l'un des plus grands empereurs de l'Inde.\n\nAprès une journée complète d'exploration des trésors historiques cachés d'Agra, vous serez confortablement déposé à votre hôtel.\n\nFin de la visite.",
+  "highlights": [
+   "Explorez Jama Masjid, la mosquée emblématique en grès rouge d'Agra"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "SUV privé climatisé",
+   "Service de guide touristique en direct dans tous les lieux",
+   "Bouteilles d'eau minérale",
+   "Indemnités du chauffeur",
+   "Tous les péages, stationnements, et taxes"
+  ],
+  "notIncluded": [
+   "Frais d'entrée aux monuments",
+   "Repas et boissons",
+   "Pourboires (optionnel)"
+  ]
+ },
+ "from-delhi-sunrise-taj-mahal-agra-city-tour-all": {
+  "title": "Depuis Delhi : Taj Mahal au lever du soleil et visite de la ville d'Agra, tout compris",
+  "metaTitle": "Delhi-Agra : Taj Mahal au lever du soleil, tout compris",
+  "metaDescription": "Assistez à la vue du lever du soleil sur le Taj Mahal, l'une des Sept Merveilles du Monde.",
+  "shortDescription": "Assistez à la vue du lever du soleil sur le Taj Mahal, l'une des Sept Merveilles du Monde.",
+  "fullDescription": "**2h30-3h00 – prise en charge depuis Delhi**\nVotre chauffeur vous prendra en charge tôt à votre hôtel ou aéroport à Delhi, Noida, ou Gurugram dans un véhicule confortable et climatisé pour un trajet pittoresque vers Agra via l'autoroute Yamuna.\n\n**6h00 – visite du Taj Mahal au lever du soleil**\nArrivez à Agra et rencontrez votre guide privé. Assistez à la vue à couper le souffle du lever du soleil sur le Taj Mahal, l'une des Sept Merveilles du Monde, alors que les premiers rayons du soleil illuminent le monument en marbre blanc.\n\n**8h00 – petit-déjeuner dans un hôtel 5 étoiles**\nProfitez d'un délicieux petit-déjeuner buffet dans un hôtel 5 étoiles à Agra avant de continuer votre exploration de la ville.\n\n**9h00 – explorez le fort d'Agra**\nVisitez le grand fort d'Agra, un site du patrimoine mondial de l'UNESCO et ancienne résidence royale des empereurs moghols, présentant une architecture magnifique et une riche histoire.\n\n**11h00 – visite de Mehtab Bagh (optionnel)**\nCapturez des vues impressionnantes sur le Taj Mahal depuis Mehtab Bagh, le jardin du clair de lune à travers la rivière Yamuna, idéal pour les amateurs de photographie.\n\n**12h00 – art local et shopping (optionnel)**\nExplorez les marchés d'artisanat local d'Agra réputés pour le travail d'incrustation en marbre, les bijoux, et les souvenirs.\n\n**13h00 – retour vers Delhi**\nDétendez-vous dans votre voiture privée alors que votre chauffeur vous ramène à Delhi via l'autoroute Yamuna.\n\n**16h00-17h00 – dépôt à Delhi**\nRevenez à votre hôtel ou à l'aéroport avec des souvenirs inoubliables de la visite du Taj Mahal au lever du soleil et de la ville d'Agra.",
+  "highlights": [
+   "Assistez à la vue du lever du soleil sur le Taj Mahal, l'une des Sept Merveilles du Monde"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel/aéroport",
+   "Voiture privée climatisée pour toute l'activité du tour avec chauffeur",
+   "Guide touristique en direct agréé par le gouvernement",
+   "Billets d'entrée aux monuments (si option sélectionnée)",
+   "Petit-déjeuner/déjeuner dans un hôtel 5 étoiles (si option sélectionnée)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et le stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "from-delhi-private-taj-mahal-sunrise-with-agra": {
+  "title": "Depuis Delhi : lever du soleil privé au Taj Mahal avec visite d'Agra en voiture",
+  "metaTitle": "Delhi-Taj Mahal : lever du soleil privé, visite d'Agra",
+  "metaDescription": "Assistez au Taj Mahal au lever du soleil, la vue magique du petit matin.",
+  "shortDescription": "Assistez au Taj Mahal au lever du soleil, la vue magique du petit matin.",
+  "fullDescription": "**Départ : tôt le matin depuis Delhi**\n**2h30 – prise en charge à votre hôtel à Delhi/NCR**\nCommencez votre journée tôt pour garantir une vue spectaculaire du lever de soleil sur le Taj Mahal. Voyagez dans une voiture privée climatisée avec un chauffeur professionnel (trajet d'environ 3h30 vers Agra via l'autoroute Yamuna).\n\n**Arrêt 1 : Taj Mahal au lever du soleil**\n**6h00 – visite du Taj Mahal**\nAssistez à la beauté fascinante du Taj Mahal alors que les premiers rayons du soleil touchent le marbre. Votre guide expert partagera des histoires fascinantes et l'histoire de cette merveille du monde. Passez amplement de temps à explorer et à prendre des photos avant l'arrivée des foules.\n\n**Arrêt petit-déjeuner optionnel**\n**8h30 – petit-déjeuner dans un hôtel 5 étoiles (optionnel, à vos frais)**\nDétendez-vous et profitez d'un délicieux petit-déjeuner dans un cadre haut de gamme.\n\n**Arrêt 2 : fort d'Agra**\n**9h30 – visite du fort d'Agra**\nExplorez le majestueux fort d'Agra en grès rouge, un site du patrimoine mondial de l'UNESCO. Découvrez les palais, salles d'audience, et chambres royales à l'intérieur du fort.\n\n**Arrêt 3 : Itmad-ud-Daulah (Baby Taj), optionnel**\n**11h00 – visite du Baby Taj (optionnel)**\nUn mausolée semblable à un coffret à bijoux et une inspiration pour le Taj Mahal. Profitez de jardins sereins et d'un travail complexe d'incrustation en marbre.\n\n**Optionnel : art et artisanat local**\n**11h45 – explorez les ateliers d'art local et d'incrustation en marbre (optionnel)**\nDécouvrez l'artisanat traditionnel d'Agra et l'art du marbre.\n\n**Voyage de retour vers Delhi**\n**12h30 – retour vers Delhi**\nAsseyez-vous et détendez-vous pendant le voyage de retour vers Delhi.\n\n**Arrivée à Delhi**\n**16h00 – dépôt à votre hôtel/aéroport à Delhi**\nLa visite se termine avec des souvenirs inoubliables du lever de soleil au Taj Mahal.",
+  "highlights": [
+   "Assistez au Taj Mahal au lever du soleil, la vue magique du petit matin"
+  ],
+  "included": [
+   "Service de guide touristique professionnel",
+   "Véhicule privé climatisé (si option sélectionnée)",
+   "Billets d'entrée aux monuments (si option sélectionnée)",
+   "Bouteilles d'eau dans la voiture",
+   "Petit-déjeuner/déjeuner dans un hôtel 5 étoiles (si option sélectionnée)",
+   "Toutes les taxes et le stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
