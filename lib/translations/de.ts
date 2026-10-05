@@ -25746,6 +25746,74 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche Art von persönlichen Ausgaben"
   ]
  },
+ "from-delhi-golden-triangle-tour-w-spiritual": {
+  "title": "Ab Delhi: Golden-Triangle-Tour mit spirituellem Varanasi, 6T/5N",
+  "metaTitle": "Delhi: Golden Triangle, Varanasi, 6T/5N",
+  "metaDescription": "Erkunden Sie Indiens ikonisches Golden Triangle mit Delhi, Jaipur, Agra, und Varanasi",
+  "shortDescription": "Erkunden Sie Indiens ikonisches Golden Triangle mit Delhi, Jaipur, Agra, und Varanasi",
+  "fullDescription": "Ab Delhi: Golden-Triangle-Tour mit spirituellem Varanasi, 6T/5N. Erkunden Sie Indiens ikonisches Golden Triangle mit Delhi, Jaipur, Agra, und Varanasi.\n\n**Tag 1 – Ankunft in New Delhi, Besichtigung**\nAnkunft am Flughafen oder Bahnhof Delhi, und Treffen mit Ihrem Fahrer/Reiseführer\nBeginnen Sie die Erkundung von Indiens lebendiger Hauptstadt:\nBesuchen Sie India Gate\nFahren Sie am Rashtrapati Bhavan und Parlamentsgebäude vorbei\nErkunden Sie Humayuns Grabmal\nBesuchen Sie den Qutub Minar\nOptional: Rikscha-Fahrt durch Chandni Chowk\nÜbernachtung in Delhi\n\n**Tag 2 – Delhi nach Jaipur (ca. 5 bis 6 Stunden Fahrt)**\nFrühstück, und Fahrt nach Jaipur, der rosa Stadt\nCheck-in im Hotel und Entspannung\nAbendaktivitäten:\nBesuchen Sie den Birla-Tempel\nFotostopp am Hawa Mahal\nOptional: Erkunden Sie lokale Basare\nÜbernachtung in Jaipur\n\n**Tag 3 – Besichtigung von Jaipur**\nNach dem Frühstück, ganztägige Besichtigung:\nBesuchen Sie das majestätische Amber Fort (optionale Elefanten-/Jeep-Fahrt)\nHalt am Jal Mahal (Fotogelegenheit)\nErkunden Sie den City Palace von Jaipur\nEntdecken Sie Astronomie im Jantar Mantar von Jaipur\nAbend frei zum Einkaufen oder für ein kulturelles Erlebnis\nÜbernachtung in Jaipur\n\n**Tag 4 – Jaipur nach Agra (über Fatehpur Sikri)**\nFrühes Frühstück, und Fahrt nach Agra\nUnterwegs Besuch der UNESCO-Stätte:\nFatehpur Sikri\nWeiterfahrt nach Agra, und Check-in im Hotel\nBesuch von:\nAgra Fort\nOptionaler Blick auf den Sonnenuntergang über dem Taj Mahal von Mehtab Bagh\nÜbernachtung in Agra\n\n**Tag 5 – Agra - Varanasi (mit Zug/Flugzeug)**\nFrüher Morgenbesuch:\nSonnenaufgang am Taj Mahal\nRückkehr zum Hotel zum Frühstück\nTransfer zum Bahnhof/Flughafen für die Reise nach Varanasi\nAnkunft in Varanasi, Check-in im Hotel\nAbenderlebnis:\nErleben Sie die spirituelle Ganga Aarti am Dashashwamedh Ghat\nÜbernachtung in Varanasi\n\n**Tag 6 – Besichtigung von Varanasi, und Abreise nach Delhi**\nFrüher Morgen:\nBootsfahrt bei Sonnenaufgang auf dem Fluss Ganges\nErkunden Sie berühmte Ghats und spirituelle Rituale\nBesuch von:\nKashi-Vishwanath-Tempel\nAusflug nach Sarnath (buddhistische Stätte)\nDanach Transfer zum Flughafen/Bahnhof für die Rückkehr nach Delhi\nEnde der Tour mit unvergesslichen Erinnerungen\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel/Flughafen\nPrivates klimatisiertes Auto für die gesamte Tour, mit Fahrer\nProfessioneller Reiseführer in jeder Stadt\nUnterkunft für 5 Nächte im Hotel (falls diese Option gewählt wird)\nFrühstück im Hotel\nZugtickets (Agra nach Varanasi) (falls diese Option gewählt wird)\nFlasche Mineralwasser\nAlle Maut- und Parkgebühren\n\n**Nicht inbegriffen**\nJegliche persönliche Ausgaben",
+  "highlights": [
+   "Erkunden Sie Indiens ikonisches Golden Triangle mit Delhi, Jaipur, Agra, und Varanasi"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "Privates klimatisiertes Auto für die gesamte Tour, mit Fahrer",
+   "Professioneller Reiseführer in jeder Stadt",
+   "Unterkunft für 5 Nächte im Hotel (falls diese Option gewählt wird)",
+   "Frühstück im Hotel",
+   "Zugtickets (Agra nach Varanasi) (falls diese Option gewählt wird)",
+   "Flasche Mineralwasser",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "from-delhi-ranthambore-national-park-day-trip": {
+  "title": "Ab Delhi: Tagesausflug zum Ranthambore-Nationalpark mit Safari",
+  "metaTitle": "Delhi: Ranthambore, Tag, Safari",
+  "metaDescription": "Entdecken Sie die vielfältige Tierwelt des Ranthambore-Nationalparks bei einer Safari",
+  "shortDescription": "Entdecken Sie die vielfältige Tierwelt des Ranthambore-Nationalparks bei einer Safari",
+  "fullDescription": "Ab Delhi: Tagesausflug zum Ranthambore-Nationalpark mit Safari. Entdecken Sie die vielfältige Tierwelt des Ranthambore-Nationalparks bei einer Safari.\n\nLassen Sie sich von Ihrem Hotel in Delhi oder dem Flughafen abholen, wo Sie von Ihrem Reiseführer begrüßt werden. Lehnen Sie sich zurück und entspannen Sie sich auf einer malerischen 3- bis 4-stündigen Fahrt von Delhi zum Ranthambore-Nationalpark. Bewundern Sie die Ausblicke auf die Aravalli-Berge, malerische Dörfer, und üppiges Grün unterwegs.\n\nBei Ankunft in Sawai Madhopur begeben Sie sich ins Herz des Ranthambore-Nationalparks für eine aufregende Nachmittags- oder Morgensafari (je nach Ihrer Auswahl). Geführt von einem Naturforscher, erkunden Sie das vielfältige Terrain des Parks an Bord eines offenen 6-sitzigen Jeeps oder eines 20-sitzigen Canters.\n\nWährend Sie die Waldpfade durchqueren, bleiben Sie aufmerksam für die Eindrücke und Klänge der Wildnis. Begegnen Sie einer Vielfalt an Tierwelt, darunter majestätische Bengal-Tiger, die sich im Schatten ausruhen, Krokodile, die sich in der Sonne sonnen, und Leoparden, die durch das Unterholz streifen, sowie verspielte Tiere.\n\nEntdecken Sie eine Vielzahl farbenfroher Vögel, die zwischen den Bäumen umherflattern, und zum lebendigen Gewebe des Lebens im Park beitragen. Während der gesamten Safari teilt Ihr Reiseführer faszinierende Einblicke in die Ökologie des Parks, das Tierverhalten, und die Erhaltungsbemühungen. Rückfahrt nach Delhi am Ende Ihrer Tour.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel\nHin- und Rückfahrt von Jaipur zum Ranthambore-Nationalpark\nPrivates klimatisiertes Fahrzeug\nEintrittsgebühr für den Nationalpark (falls diese Option gewählt wird)\nSafari-Kosten\nNaturforscher-Reiseführer im Nationalpark\nTreibstoffkosten, Straßenmautgebühren, und Steuern\nKostenlose Wasserflasche",
+  "highlights": [
+   "Entdecken Sie die vielfältige Tierwelt des Ranthambore-Nationalparks bei einer Safari"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Hin- und Rückfahrt von Jaipur zum Ranthambore-Nationalpark",
+   "Privates klimatisiertes Fahrzeug",
+   "Eintrittsgebühr für den Nationalpark (falls diese Option gewählt wird)",
+   "Safari-Kosten",
+   "Naturforscher-Reiseführer im Nationalpark",
+   "Treibstoffkosten, Straßenmautgebühren, und Steuern",
+   "Kostenlose Wasserflasche"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "delhi-old-delhi-highlighs-tuk-tuk-tour-with-guide": {
+  "title": "Delhi: Highlights von Alt-Delhi, Tuk-Tuk-Tour mit Reiseführer",
+  "metaTitle": "Delhi: Alt-Delhi, Tuk-Tuk, Reiseführer",
+  "metaDescription": "Besuchen Sie die historische und majestätische Jama Masjid, eine der größten Moscheen Indiens",
+  "shortDescription": "Besuchen Sie die historische und majestätische Jama Masjid, eine der größten Moscheen Indiens",
+  "fullDescription": "Delhi: Highlights von Alt-Delhi, Tuk-Tuk-Tour mit Reiseführer. Besuchen Sie die historische und majestätische Jama Masjid, eine der größten Moscheen Indiens.\n\nEntdecken Sie Alt-Delhi bei einer geführten Tour. Erkunden Sie Chandni Chowk bei einer Tuk-Tuk-Tour, halten Sie an lokalen Märkten, um köstliches Street Food zu probieren, und sehen Sie India Gate.\n\nBeginnen Sie Ihre Tour mit einer Abholung von Ihrem Hotel, und fahren Sie nach Alt-Delhi, um die Jama Masjid zu besuchen, auch bekannt als Masjid-i Jehan-Numa. Besuchen Sie diese gewaltige Moschee, erbaut vom Mogul-Kaiser Shah Jahan, und aus den 1600er Jahren stammend.\n\nAls Nächstes steigen Sie in ein Tuk-Tuk, und durchstreifen die Straßen von Chandni Chowk, dem Herzen von Alt-Delhi. Erkunden Sie dieses belebte Einkaufsviertel, und genießen Sie die verlockenden Düfte, die aus den Märkten voller Gewürze, Trockenfrüchte, ätherischer Öle, und traditioneller Süßigkeiten strömen. Sehen Sie Silberschmuck und leuchtende Saris zum Verkauf.\n\nBeenden Sie Ihre Alt-Delhi-Tour mit einer Vorbeifahrt an India Gate. Rückkehr zu Ihrem Hotel, vorbei am Parlamentsgebäude.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel\nPrivater klimatisierter Transport\nPrivater Reiseführer\nTuk-Tuk-Fahrt\n\n**Nicht inbegriffen**\nSpeisen und Getränke\nTrinkgelder\nEintrittsgebühren",
+  "highlights": [
+   "Besuchen Sie die historische und majestätische Jama Masjid, eine der größten Moscheen Indiens"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Privater klimatisierter Transport",
+   "Privater Reiseführer",
+   "Tuk-Tuk-Fahrt"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke",
+   "Trinkgelder",
+   "Eintrittsgebühren"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
