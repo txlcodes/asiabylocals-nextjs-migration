@@ -4475,6 +4475,82 @@ export const DE_TOURS: Record<string, TourT> = {
    "SOS Elefanten-Schutzzentrum (es fällt eine nicht enthaltene Spendengebühr an)"
   ]
  },
+ "7-days-private-golden-triangle-tour-with-holi": {
+  "title": "7-tägige private Golden-Triangle-Tour mit Holi-Fest 2027",
+  "metaTitle": "Golden Triangle in 7 Tagen mit Holi 2027",
+  "metaDescription": "Erfahren Sie mehr über die Geschichte und Kultur mit Ihrem lokalen Guide.",
+  "shortDescription": "Erfahren Sie mehr über die Geschichte und Kultur mit Ihrem lokalen Guide.",
+  "fullDescription": "Diese private 7-tägige Golden-Triangle-Tour fällt mit dem Holi-Fest 2027 in Jaipur zusammen. Mit 6 Nächten Hotelunterkunft und inkludiertem Frühstück erfahren Sie mehr über die Geschichte und Kultur von Delhi, Agra, und Jaipur mit Ihrem lokalen Guide, während Sie auch die farbenfrohe Holi-Feier genießen.",
+  "highlights": [
+   "Erfahren Sie mehr über die Geschichte und Kultur mit Ihrem lokalen Guide"
+  ],
+  "included": [
+   "Private Tour",
+   "Transport im privaten klimatisierten Fahrzeug",
+   "6 Nächte Hotelunterkunft mit Frühstück (falls ausgewählt)",
+   "Alle Besichtigungen mit privaten lokalen Guides",
+   "Alle Kosten für Kraftstoff, Fahrerzulagen, Mautgebühren, Parken, Fahreressen, Fahrzeugversicherung, und Nachthalt inklusive",
+   "Abholung und Absetzung an Hotels, Flughafen, oder Bahnhof",
+   "Mineralwasserflaschen während der Reisen",
+   "Holi-Feier in Jaipur inklusive"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren zu den Denkmälern",
+   "Kameragebühren an Denkmälern",
+   "Trinkgeld (optional)",
+   "Reiseversicherung und Flug-/Zugtickets",
+   "Medizinische Versorgung",
+   "Mittag- und Abendessen",
+   "Trinkgeld für Fahrer und Guide",
+   "Persönliche Ausgaben wie Telefonanrufe, Tablets, Getränke, usw.",
+   "Alles, was nicht in den Einschlüssen genannt ist"
+  ]
+ },
+ "from-delhi-private-agra-day-tour-with-fatehpur": {
+  "title": "Von Delhi aus: private Agra-Tagestour mit Fatehpur Sikri im Auto",
+  "metaTitle": "Delhi-Agra-Fatehpur Sikri: 3 UNESCO-Stätten",
+  "metaDescription": "3 UNESCO-Weltkulturerbestätten: Taj Mahal, Agra Fort, und Fatehpur Sikri.",
+  "shortDescription": "3 UNESCO-Weltkulturerbestätten: Taj Mahal, Agra Fort, und Fatehpur Sikri.",
+  "fullDescription": "**5:00 Uhr: Abfahrt von Delhi nach Agra**\nDie Tour beginnt mit einer Abholung von Ihrem Hotel in Delhi, Gurugram, oder Noida. Anschließend begeben Sie sich auf eine Straßenreise nach Agra, die etwa 3 Stunden dauert.\n\n**Besuch des Taj Mahal:**\nBei der Ankunft in Agra ist Ihr erster Stopp das Taj Mahal, eines der sieben Weltwunder. Sie haben ausreichend Zeit, dieses prächtige weiße Marmor-Mausoleum zu erkunden, das von Kaiser Shah Jahan zum Gedenken an seine geliebte Frau Mumtaz Mahal erbaut wurde. Sie können die kunstvolle Architektur bewundern, durch die schönen Gärten schlendern, und unvergessliche Fotos machen.\n\n**Besuch des Agra Forts:**\nDas Agra Fort, ein weiteres UNESCO-Weltkulturerbe. Diese schöne Festung wurde vom dritten Mogulkaiser Akbar im Jahr 1565 erbaut.\n\n**Mittagessen**: Nach dem Besuch des Agra Forts genießen Sie ein köstliches Mittagessen in einem lokalen Restaurant.\n\n**Fatehpur Sikri:**\nNach dem Mittagessen geht die Tour weiter nach Fatehpur Sikri, etwa 40 Kilometer (25 Meilen) von Agra entfernt. Fatehpur Sikri ist ein UNESCO-Weltkulturerbe und war einst die Hauptstadt des Mogulreichs. Sie erkunden die gut erhaltenen Bauten aus rotem Sandstein, einschließlich des Buland Darwaza (Tor des Sieges), der Jama Masjid, des Panch Mahal, und anderer beeindruckender Gebäude.\n\n**Rückkehr nach Delhi**\nNach der Erkundung von Agra und Fatehpur Sikri beginnen Sie Ihre Rückreise nach Delhi. Sie werden an Ihrem Hotel in Delhi, Gurugram, oder Noida abgesetzt.",
+  "highlights": [
+   "3 UNESCO-Weltkulturerbestätten: Taj Mahal, Agra Fort, und Fatehpur Sikri"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel oder Flughafen",
+   "Alle Transfers und Besichtigungen im privaten Auto",
+   "Eintrittskarten zu den Denkmälern (falls ausgewählt)",
+   "Live-privater Reiseführer",
+   "Mineralwasserflasche",
+   "Alle Fahrzeug- und Fahrerkosten",
+   "Alle Steuern"
+  ],
+  "notIncluded": [
+   "Essen und Getränke",
+   "Trinkgeld"
+  ]
+ },
+ "from-agra-jaipur-transfer-via-fatehpur-sikri": {
+  "title": "Von Agra aus: Transfer nach Jaipur über Fatehpur Sikri und Abhaneri",
+  "metaTitle": "Agra-Jaipur: Transfer über Fatehpur Sikri",
+  "metaDescription": "Genießen Sie eine flexible und bequeme Art, zwischen Agra und Jaipur zu reisen.",
+  "shortDescription": "Genießen Sie eine flexible und bequeme Art, zwischen Agra und Jaipur zu reisen.",
+  "fullDescription": "Nehmen Sie den Stress aus der Reise von Agra nach Jaipur mit diesem privaten Door-to-Door-Transfer. Erkunden Sie die Highlights von Fatehpur Sikri und bewundern Sie den Chand Baori Stufenbrunnen auf dem Weg. Reisen Sie komfortabel in einem klimatisierten Auto, und genießen Sie Hotelabholung und -absetzung.\n\n**Reiseroute:**\n\n**Tag 1: Agra – Fatehpur Sikri – Abhaneri – Jaipur**\n\nAbholung von Ihrem gewünschten Ort in Agra, um mit dem Auto nach Jaipur weiterzufahren. Während Sie im Auto sitzen, können Sie die Aufregung spüren, die Ihren Geist und Ihr Herz ergreifen wird, wenn Sie diese wunderbare Tour mit Ihrer Fahrt nach Jaipur beginnen. Auf dem Weg Besuch von Fatehpur Sikri und dem Abhaneri-Stufenbrunnen.\n\nFatehpur Sikri ist eine prächtige ummauerte Stadt etwa 40 km von Agra entfernt. Sie war einst die Hauptstadt des Mogulreichs. Die rätselhafte Struktur ist aus rotem Sandstein gehauen. Sie wurde vom Mogulkaiser Akbar dem Großen im 16. Jahrhundert erbaut. Diese Stadt ist auch das perfekte Beispiel indo-islamischer Architektur. Erkunden Sie die prächtigen Höfe, Audienzsäle, Paläste, und andere heilige Orte des Gebäudes.\n\nWeiter geht es nach Abhaneri, um Chand Baori zu besuchen, einen der größten, tiefsten, und schönsten Stufenbrunnen Indiens. Staunen Sie über den gewaltigen Stufenbrunnen, und machen Sie unbedingt viele Fotos von einigen großartigen Aussichtspunkten.\n\n**Ankunft in Jaipur:**\n\nNach der Erkundung von Fatehpur Sikri und Abhaneri fahren Sie nach Jaipur. Bei der Ankunft Absetzung an Ihrem Hotel in Jaipur. Diese historische Tour wird für alle kommenden Jahre in Ihrer Erinnerung bleiben.",
+  "highlights": [
+   "Genießen Sie eine flexible und bequeme Art, zwischen Agra und Jaipur zu reisen"
+  ],
+  "included": [
+   "Abholung und Absetzung am Hotel/Bahnhof/Busbahnhof mit klimatisiertem Fahrzeug",
+   "Klimatisiertes Fahrzeug und privater Transport",
+   "Kraftstoff (Benzin/Diesel), Parkgebühren, Mautgebühren, und Fahrten zwischen Bundesstaaten",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren zu den Denkmälern / Kameragebühren",
+   "Mahlzeiten und persönliche Ausgaben",
+   "Weitere Aktivitäten",
+   "Trinkgeld für den Fahrer"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
