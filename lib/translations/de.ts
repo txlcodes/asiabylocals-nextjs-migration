@@ -26363,6 +26363,87 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder/Gratifikationen (optional)"
   ]
  },
+ "5-day-delhiagrajaipur-golden-triangle-with-dayal": {
+  "title": "5-tägiges Golden Triangle Delhi-Agra-Jaipur mit Dayal Bagh",
+  "metaTitle": "Delhi-Agra-Jaipur: 5 Tage, Dayal Bagh",
+  "metaDescription": "Dayal Bagh: Erkunden Sie den wunderschönen weißen Marmortempel, bekannt für seine kunstvollen Schnitzereien und friedliche spirituelle Atmosphäre.",
+  "shortDescription": "Dayal Bagh: Erkunden Sie den wunderschönen weißen Marmortempel, bekannt für seine kunstvollen Schnitzereien und friedliche spirituelle Atmosphäre.",
+  "fullDescription": "5-tägiges Golden Triangle Delhi-Agra-Jaipur mit Dayal Bagh. Dayal Bagh: Erkunden Sie den wunderschönen weißen Marmortempel, bekannt für seine kunstvollen Schnitzereien und friedliche spirituelle Atmosphäre.\n\n**Tag 1 – Ankunft in New Delhi und Stadtrundfahrt durch Alt- und New Delhi**\n\nIhr Fahrer holt Sie am Flughafen oder Hotel ab, für eine vollständige Stadtrundfahrt durch Noida/Gurugram/Delhi, Indiens historische Hauptstadt und Sitz von sieben antiken Städten.\n\n**Besichtigung von Alt-Delhi**\n\nRaj Ghat: Denkmal von Mahatma Gandhi\nRotes Fort (Vorbeifahrt/Fotostopp): mogulische Festung aus dem 17. Jahrhundert (montags geschlossen)\nJama Masjid: Indiens größte Moschee, erbaut von Shah Jahan\nVorbeifahrt an Chandni Chowk (optionale Rikscha-Fahrt auf Anfrage)\n\n**Besichtigung von New Delhi**\n\nHumayuns Grabmal: Vorläufer des Taj Mahal\nQutub Minar: 72,5 m hoher UNESCO-Siegesturm\nRashtrapati Bhawan (Vorbeifahrt): Präsidentenresidenz\nIndia Gate: Kriegsdenkmal mit Amar Jawan Jyoti\n\nÜbernachtung in Delhi\n\n**Tag 2 – Delhi → Agra, Taj Mahal, Agra Fort, und Dayal Bagh**\n\nNach dem Frühstück Fahrt nach Agra. Check-in im Hotel, gefolgt von einer historischen Tour.\n\n**Besichtigung von Agra**\n\nTaj Mahal: Weltwunder und ikonisches Symbol der Liebe (freitags geschlossen)\nAgra Fort: UNESCO-Stätte aus dem 16. Jahrhundert, mit Palästen und mogulischer Architektur\nDayal Bagh (Soami Bagh Samadhi): ein atemberaubender Marmortempel, seit über 100 Jahren im Bau, bekannt für seine kunstvollen Schnitzereien und friedliche spirituelle Atmosphäre\n\nErfahren Sie mehr über die mogulische Geschichte Agras, seine Kaiser, und die Liebesgeschichte hinter dem Taj Mahal.\n\nÜbernachtung in Agra\n\n**Tag 3 – Agra → Jaipur über Fatehpur Sikri**\n\nNach dem Frühstück Fahrt nach Jaipur. Unterwegs besuchen Sie:\n\n**Fatehpur Sikri (UNESCO-Stätte)**\n\nErkunden Sie die verlassene Mogul-Hauptstadt, erbaut von Kaiser Akbar:\n\nDiwan-i-Aam\nPanch Mahal\nJodha-Bai-Palast\nBirbal-Palast\nSalim-Chishti-Dargah\n\nAbendliche Ankunft in Jaipur und Check-in im Hotel.\n\nÜbernachtung in Jaipur\n\n**Tag 4 – ganztägige Besichtigung von Jaipur (Pink-City-Tour)**\n\nErkunden Sie Indiens königliches Erbe in der Hauptstadt Rajasthans.\n\n**Amber Fort**\n\nJeep-Fahrt zum Hügel\nErkunden Sie den Sheesh Mahal, Innenhöfe, und mogulisch-rajputische Architektur\n\n**Stadtrundfahrt durch Jaipur**\n\nCity Palace: königliche Residenz und Museen\nJantar Mantar: astronomisches Observatorium\nHawa Mahal: Palast der Winde (Fotostopp)\nBasare der Pink City: Textilien, Edelsteine, Kunsthandwerk\n\nÜbernachtung in Jaipur\n\n**Tag 5 – Jaipur → Delhi (Abreise)**\n\nNach dem Frühstück Rückfahrt nach Delhi. Sie werden am Flughafen oder in Ihrem vorab gebuchten Hotel abgesetzt.\n\n**Was ist inbegriffen**\nUnterkunft für 4 Nächte im Hotel (Delhi, Agra, Jaipur, 3-Sterne/4-Sterne/5-Sterne je nach Option)\nTägliches Frühstück im Hotel\nPrivates klimatisiertes Auto für die gesamte Tour\nProfessioneller englischsprachiger Reiseführer\nAlle Mautgebühren, Parkgebühren, und Kraftstoffkosten\nAbholung und Rückfahrt\nGeführte Besichtigungen in jeder Stadt\nWasser in Flaschen pro Person und Tag\nAlle anfallenden Steuern\n\n**Nicht inbegriffen**\nNicht erwähnte Mahlzeiten (Mittag- und Abendessen)\nEintrittskarten für Sehenswürdigkeiten\nKameragebühren (falls zutreffend)\nPersönliche Ausgaben (Trinkgelder, Einkaufen, Getränke, Wäscherei)\nFahrt am Amber Fort (nicht empfohlen/optional)\nReiseversicherung\nAlles, was nicht unter „Einschlüsse“ erwähnt wird",
+  "highlights": [
+   "Dayal Bagh: Erkunden Sie den wunderschönen weißen Marmortempel, bekannt für seine kunstvollen Schnitzereien und friedliche spirituelle Atmosphäre"
+  ],
+  "included": [
+   "Unterkunft für 4 Nächte im Hotel (Delhi, Agra, Jaipur, 3-Sterne/4-Sterne/5-Sterne je nach Option)",
+   "Tägliches Frühstück im Hotel",
+   "Privates klimatisiertes Auto für die gesamte Tour",
+   "Professioneller englischsprachiger Reiseführer",
+   "Alle Mautgebühren, Parkgebühren, und Kraftstoffkosten",
+   "Abholung und Rückfahrt",
+   "Geführte Besichtigungen in jeder Stadt",
+   "Wasser in Flaschen pro Person und Tag",
+   "Alle anfallenden Steuern"
+  ],
+  "notIncluded": [
+   "Nicht erwähnte Mahlzeiten (Mittag- und Abendessen)",
+   "Eintrittskarten für Sehenswürdigkeiten",
+   "Kameragebühren (falls zutreffend)",
+   "Persönliche Ausgaben (Trinkgelder, Einkaufen, Getränke, Wäscherei)",
+   "Fahrt am Amber Fort (nicht empfohlen/optional)",
+   "Reiseversicherung",
+   "Alles, was nicht unter „Einschlüsse“ erwähnt wird"
+  ]
+ },
+ "from-delhi-taj-mahal-1-day-tour-by-superfast": {
+  "title": "Ab Delhi: Taj-Mahal-Tagestour mit dem Superschnellzug",
+  "metaTitle": "Delhi-Agra: Taj Mahal, Superschnellzug",
+  "metaDescription": "Reisen Sie zwischen Delhi und Agra mit Indiens Superschnellzug, dem Gatimaan Express",
+  "shortDescription": "Reisen Sie zwischen Delhi und Agra mit Indiens Superschnellzug, dem Gatimaan Express",
+  "fullDescription": "Ab Delhi: Taj-Mahal-Tagestour mit dem Superschnellzug. Reisen Sie zwischen Delhi und Agra mit Indiens Superschnellzug, dem Gatimaan Express.\n\nReisen Sie ab Delhi mit einem bequemen, schnellsten Zug nach Agra bei diesem Tagesausflug. Sehen Sie das weltberühmte Taj Mahal mit einem Reiseführer, bestaunen Sie das imposante Agra Fort, und erkunden Sie den Baby Taj.\n\nBeginnen Sie Ihren Tag mit einer Abholung von Ihrem Hotel, und einem Transfer zum Bahnhof Hazrat Nizamuddin in Delhi, wo Sie in den schnellsten Zug nach Agra einsteigen. Finden Sie Ihre Sitzplätze mit Hilfe Ihres Fahrers, und genießen Sie das Frühstück und Ihre Reise.\n\nBei Ankunft in Agra treffen Sie Ihren Reiseführer vor Ihrem Zug, und machen sich auf den Weg zum ikonischen Taj Mahal. Verbringen Sie bis zu 3 Stunden mit der Erkundung dieses wunderschönen Denkmals, und genießen Sie anschließend ein köstliches Mittagessen in einem 5-Sterne-Hotel (bei manchen Optionen inbegriffen).\n\nSetzen Sie Ihre Tour mit einem Besuch des Agra Forts fort, einem gewaltigen Gebäude aus rotem Sandstein aus dem 16. Jahrhundert. Nach der Erkundung des Forts machen Sie einen letzten Halt bei Itimad-Ud-Daulah, auch bekannt als Baby Taj.\n\nRückkehr zum Bahnhof Agra, und Einstieg in Ihren Zug nach Delhi. Essen Sie im Zug zu Abend, bevor Sie am Abend in Delhi ankommen. Treffen Sie Ihren Fahrer an Ihrem Zug, und kehren Sie zu Ihrem Hotel in Delhi zurück.\n\n**Was ist inbegriffen**\n1) Alle Mautgebühren, Steuern, Parken, Kraftstoff, Fahrergebühr (falls diese Option gewählt wird)\n2) Privates Auto für alle Transfers und Besichtigungen (falls diese Option gewählt wird)\n3) Alle Besichtigungen mit privater weiblicher Reiseführerin (falls diese Option gewählt wird)\n4) Eintritt zu Sehenswürdigkeiten (Taj Mahal, Agra Fort, Baby Taj) (falls diese Option gewählt wird)\n5) Buffet-Mittagessen im Restaurant (falls diese Option gewählt wird)\n6) Abholung angeboten vom Flughafen, Bahnhof, Hotel, oder einem beliebigen Ort in Delhi, Noida, oder Gurugram, Agra\n7) Golfwagen-Fahrt vom Parkplatz zum Eingangstor des Taj Mahal\n8) Privater Transfer hin und zurück (nicht geteilt)\n\n**Nicht inbegriffen**\n1) Jegliche weitere Mahlzeit und zusätzliche Leistungen\n2) Jegliche persönliche Ausgaben (käuflich erhältlich)\n3) Jegliche Getränke während des Mittagessens (käuflich erhältlich)\n4) Gratifikationen (optional)",
+  "highlights": [
+   "Reisen Sie zwischen Delhi und Agra mit Indiens Superschnellzug, dem Gatimaan Express"
+  ],
+  "included": [
+   "1) Alle Mautgebühren, Steuern, Parken, Kraftstoff, Fahrergebühr (falls diese Option gewählt wird)",
+   "2) Privates Auto für alle Transfers und Besichtigungen (falls diese Option gewählt wird)",
+   "3) Alle Besichtigungen mit privater weiblicher Reiseführerin (falls diese Option gewählt wird)",
+   "4) Eintritt zu Sehenswürdigkeiten (Taj Mahal, Agra Fort, Baby Taj) (falls diese Option gewählt wird)",
+   "5) Buffet-Mittagessen im Restaurant (falls diese Option gewählt wird)",
+   "6) Abholung angeboten vom Flughafen, Bahnhof, Hotel, oder einem beliebigen Ort in Delhi, Noida, oder Gurugram, Agra",
+   "7) Golfwagen-Fahrt vom Parkplatz zum Eingangstor des Taj Mahal",
+   "8) Privater Transfer hin und zurück (nicht geteilt)"
+  ],
+  "notIncluded": [
+   "1) Jegliche weitere Mahlzeit und zusätzliche Leistungen",
+   "2) Jegliche persönliche Ausgaben (käuflich erhältlich)",
+   "3) Jegliche Getränke während des Mittagessens (käuflich erhältlich)",
+   "4) Gratifikationen (optional)"
+  ]
+ },
+ "delhi-guided-shopping-tour-experience-with-female": {
+  "title": "Delhi: geführtes Shopping-Erlebnis mit einer Expertin",
+  "metaTitle": "Delhi: Shopping geführt, Expertin",
+  "metaDescription": "Ein halber oder ganzer Tag durch Delhis Märkte mit einer Shopping-Expertin.",
+  "shortDescription": "Ein ganzer oder halber Tag durch Delhis Märkte mit einer Shopping-Expertin, die Stoffe, faire Preise, und Verhandlungstaktiken kennt. Hotelabholung, Snacks unterwegs.",
+  "fullDescription": "**Jemand, der weiß, was die Dinge wirklich kosten.**\n\nDelhis Märkte sind nicht schwer zu finden. Schwer ist es zu wissen, welches Geschäft echtes Pashmina verkauft und welches Viskose zum gleichen Preis, wie viel ein Meter guter Seide kosten sollte, bevor das Gespräch überhaupt beginnt, und welche Gasse in Chandni Chowk den Großhandelspreis statt des Touristenpreises bietet.\n\nGenau das bietet diese Tour. Ihre Reiseführerin ist eine Frau, die selbst in diesen Märkten einkauft, und der Unterschied, den sie macht, zeigt sich in dem, was Sie am Ende bezahlen.\n\n**Wohin Sie gehen**\n\nDie Route richtet sich danach, wonach Sie suchen, nicht nach einer festen Liste. **Chandni Chowk** und **Kinari Bazaar** für Hochzeitsstoffe, Besätze, und Zari-Arbeiten. **Janpath** und **Sarojini Nagar** für Kleidung zu einem Bruchteil des Einzelhandelspreises. **Dilli Haat** für Kunsthandwerk aus ganz Indien unter einem Dach. **Lajpat Nagar** für alltägliches Einkaufen, so wie Delhi es macht. **Khan Market**, falls Sie das gehobene Ende suchen.\n\nUnterwegs gibt es sichere Stopps für lokale Snacks und Süßigkeiten, ausgewählt von jemandem, der selbst dort isst.\n\n**Optionen**\n\nVier bei der Buchung: ein exklusiver halber Tag, ein ganzer Tag, eine dedizierte **Hochzeits-Shopping**-Tour für alle, die für eine indische Hochzeit einkaufen, und eine vollständig individuell anpassbare Version.\n\n**Was ist inbegriffen**\n\nHotelabholung, eine persönliche Shopping-Beratung vor dem Aufbruch, die geführte Tour selbst, und sichere Verkostungen lokaler Snacks. Mittag- oder Abendessen bei einigen Optionen.\n\n**Wissenswertes**\n\n**Teilen Sie Ihrer Reiseführerin Ihr Budget und Ihre Liste vor dem Tag mit**, nicht währenddessen. Das ändert, welche Märkte Ihre Zeit wert sind.\nDie meisten Märkte akzeptieren Bargeld, und viele kleine Geschäfte nehmen keine Karten. Ihre Reiseführerin sagt Ihnen, wo.\n**Sarojini Nagar ist montags geschlossen**; die Geschäfte in Chandni Chowk schließen größtenteils sonntags. Die Route wird um Ihren Tag herum geplant.\nVerhandeln wird in den Basaren erwartet, nicht in Geschäften mit Festpreisen. Ihre Reiseführerin regelt den Unterschied.\nDie Gassen von Alt-Delhi sind eng und überfüllt. Bequeme Schuhe und eine Tasche, die Sie vor sich tragen können.\n\n**Für wen es geeignet ist**\n\nFrauen, die allein oder zusammen reisen, alle, die für eine Hochzeit einkaufen, und Reisende, die lieber einen Tag mit gutem Einkaufen verbringen, als einen Nachmittag zu Provisionsgeschäften geschleppt zu werden.",
+  "highlights": [
+   "Entdecken Sie Delhis lebendige Shopping-Kultur mit einer Expertin als Reiseführerin"
+  ],
+  "included": [
+   "Hotelabholung",
+   "Persönliche Shopping-Beratung",
+   "Geführte Shopping-Tour",
+   "Sichere Verkostungen lokaler Snacks und traditionellen Chais",
+   "Unterstützung beim Verhandeln",
+   "Unterstützung bei Änderungen",
+   "Produktversand",
+   "GST-Rechnungen bei Bedarf",
+   "Klimatisierter Transport",
+   "Mittagessen (falls diese Option gewählt wird)"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
