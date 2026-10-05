@@ -5712,6 +5712,73 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas y gratificaciones (opcional)"
   ]
  },
+ "agra-taj-mahal-vip-tickets-with-professional": {
+  "title": "Agra: boletos VIP para el Taj Mahal con fotógrafo profesional",
+  "metaTitle": "Agra: Taj Mahal VIP con fotógrafo",
+  "metaDescription": "Disfrute de la entrada VIP sin filas al Taj Mahal.",
+  "shortDescription": "Disfrute de la entrada VIP sin filas al Taj Mahal.",
+  "fullDescription": "**Recogida**\nEl tour comienza con una recogida en el hotel/aeropuerto o cualquier lugar solicitado en la ciudad de Agra.\n\n**Taj Mahal**\nConozca al guía turístico y al fotógrafo, y proceda a visitar el Taj Mahal con un boleto de entrada VIP, descubriendo el mausoleo de mármol del Taj Mahal en Agra a su propio ritmo.\n\n**Fuerte de Agra (opcional)**\nAgregue el fuerte de Agra a su tour simplemente diciéndoselo a su guía. Visite el histórico fuerte de Agra, otro sitio del Patrimonio Mundial de la UNESCO; este lugar solía ser el hogar de los emperadores mogoles antes de que Delhi se convirtiera en la capital de la India.\n\n**Entrega**\nSea trasladado de regreso a su hotel/aeropuerto o cualquier lugar deseado en Agra al finalizar el tour.",
+  "highlights": [
+   "Disfrute de la entrada VIP sin filas al Taj Mahal"
+  ],
+  "included": [
+   "Recorrido en coche privado con aire acondicionado",
+   "Fotógrafo en el Taj Mahal",
+   "Boleto de entrada sin filas al Taj Mahal (si se elige esa opción)",
+   "Guía turístico profesional en vivo",
+   "Recogida y traslado al hotel",
+   "Agua mineral",
+   "Todos los impuestos"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "from-delhi-taj-mahal-sunrise-tour-with-elephant": {
+  "title": "Desde Delhi: tour del amanecer en el Taj Mahal con centro Elephant SOS",
+  "metaTitle": "Delhi-Agra: Taj Mahal al amanecer y elefantes",
+  "metaDescription": "Vea el amanecer sobre el Taj Mahal, bañando el monumento en luz dorada.",
+  "shortDescription": "Vea el amanecer sobre el Taj Mahal, bañando el monumento en luz dorada.",
+  "fullDescription": "Su día comienza temprano con una cómoda recogida en su hotel en Delhi. Relájese mientras viaja en coche privado hacia Agra, disfrutando de un tranquilo trayecto matutino.\n\nA su llegada, visite el Taj Mahal al amanecer, cuando el monumento está tranquilo y bellamente iluminado por la suave luz de la mañana. Mientras explora los jardines y admira el impresionante mármol blanco, su guía profesional compartirá la historia, la arquitectura, y la famosa historia de amor detrás de este monumento de renombre mundial.\n\nA continuación, continúe hacia el histórico fuerte de Agra, un sitio del Patrimonio Mundial de la UNESCO. Camine por sus grandiosos patios y palacios mientras aprende sobre los emperadores mogoles que una vez gobernaron la India desde esta impresionante fortaleza.\n\nDespués de los recorridos en Agra, comience el viaje de regreso a Delhi. En el camino, deténgase en un centro ético de rescate de elefantes donde podrá observar a los elefantes rescatados desde una distancia respetuosa, mientras los cuidadores explican cómo fueron rescatados y cómo se les cuida hoy. No hay montar ni interacción física con los elefantes, y cualquier contribución voluntaria ayuda a sostener su alimentación, atención médica, y refugio.\n\nDespués de la visita, continúe el trayecto de regreso a Delhi para una entrega cómoda en su hotel.",
+  "highlights": [
+   "Vea el amanecer sobre el Taj Mahal, bañando el monumento en luz dorada"
+  ],
+  "included": [
+   "Transporte en coche privado",
+   "Tour guiado al Taj Mahal y al fuerte de Agra",
+   "Recogida y traslado desde Delhi (si se selecciona esa opción)",
+   "Experiencia personalizada con un guía conocedor",
+   "Tarifas de entrada al Taj Mahal y al fuerte de Agra (si se selecciona esa opción)",
+   "Almuerzo (si se selecciona esa opción)"
+  ],
+  "notIncluded": [
+   "Tarifa/donación para Elephant SOS",
+   "Propinas"
+  ]
+ },
+ "taj-mahal-express-entry-ticket-sunrise-daytime": {
+  "title": "Boleto de entrada exprés al Taj Mahal: opciones de amanecer y de día",
+  "metaTitle": "Agra: Taj Mahal entrada exprés, amanecer",
+  "metaDescription": "Admire el majestuoso mausoleo y los exquisitos detalles del Taj Mahal.",
+  "shortDescription": "Admire el majestuoso mausoleo y los exquisitos detalles del Taj Mahal.",
+  "fullDescription": "Asegure su visita al Taj Mahal y su mausoleo con un boleto de admisión sin filas, ¡y ahorre tiempo precioso! Aproveche al máximo su experiencia en este icónico sitio del Patrimonio Mundial de la UNESCO, explorando a su propio ritmo.\n\nEvite los largos tiempos de espera, que pueden extenderse hasta una hora durante las temporadas altas, y entre más rápido a este impresionante monumento con su boleto sin filas.\n\nNuestro guía profesional lo recibirá en un lugar conveniente cerca del Taj Mahal, donde recibirá sus boletos reservados con anticipación. Una vez dentro, su guía compartirá la historia auténtica y fascinante detrás de este monumento icónico, incluyendo las ilusiones ópticas dentro de su arquitectura. Además, su guía capturará impresionantes fotos dignas de redes sociales durante su visita.\n\nTambién ofrecemos servicios de recogida y entrega en el hotel, el aeropuerto, y la estación de tren, por un cargo adicional.\n\nHay múltiples opciones personalizables disponibles para mejorar su experiencia.",
+  "highlights": [
+   "Admire el majestuoso mausoleo y los exquisitos detalles del Taj Mahal"
+  ],
+  "included": [
+   "Boleto sin filas para el Taj Mahal con mausoleo (si se selecciona esa opción)",
+   "Tour privado",
+   "Guía profesional",
+   "Nuestro guía tomará su foto digna de redes sociales",
+   "Cubrezapatos",
+   "Agua embotellada",
+   "Recogida y entrega en cualquier lugar de Agra (si se selecciona esa opción)"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Comida y bebidas alcohólicas"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",

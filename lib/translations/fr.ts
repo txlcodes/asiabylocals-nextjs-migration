@@ -5712,6 +5712,73 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires et gratifications (facultatifs)"
   ]
  },
+ "agra-taj-mahal-vip-tickets-with-professional": {
+  "title": "Agra : billets VIP pour le Taj Mahal avec photographe professionnel",
+  "metaTitle": "Agra : Taj Mahal VIP avec photographe",
+  "metaDescription": "Profitez d'une entrée VIP coupe-file au Taj Mahal.",
+  "shortDescription": "Profitez d'une entrée VIP coupe-file au Taj Mahal.",
+  "fullDescription": "**Prise en charge**\nLa visite commence par une prise en charge à l'hôtel/aéroport ou à tout endroit demandé dans la ville d'Agra.\n\n**Taj Mahal**\nRencontrez le guide touristique et le photographe, et procédez à la visite du Taj Mahal avec un billet d'entrée VIP, en découvrant le mausolée en marbre du Taj Mahal à Agra, à votre propre rythme.\n\n**Fort d'Agra (optionnel)**\nAjoutez le fort d'Agra à votre visite en le demandant simplement à votre guide. Visitez l'historique fort d'Agra, un autre site du patrimoine mondial de l'UNESCO ; ce site abritait autrefois les empereurs moghols avant que Delhi ne devienne la capitale de l'Inde.\n\n**Dépose**\nSoyez transféré à votre hôtel/aéroport ou à tout endroit souhaité à Agra à la fin de la visite.",
+  "highlights": [
+   "Profitez d'une entrée VIP coupe-file au Taj Mahal"
+  ],
+  "included": [
+   "Visites en voiture privée climatisée",
+   "Photographe au Taj Mahal",
+   "Billet d'entrée coupe-file au Taj Mahal (si option choisie)",
+   "Guide touristique professionnel en direct",
+   "Prise en charge et retour à l'hôtel",
+   "Eau minérale",
+   "Toutes les taxes"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "from-delhi-taj-mahal-sunrise-tour-with-elephant": {
+  "title": "Depuis Delhi : visite du lever du soleil au Taj Mahal avec centre Elephant SOS",
+  "metaTitle": "Delhi-Agra : Taj Mahal au lever du soleil et éléphants",
+  "metaDescription": "Admirez le lever du soleil sur le Taj Mahal, baignant le monument d'une lumière dorée.",
+  "shortDescription": "Admirez le lever du soleil sur le Taj Mahal, baignant le monument d'une lumière dorée.",
+  "fullDescription": "Votre journée commence tôt avec une prise en charge confortable à votre hôtel à Delhi. Détendez-vous pendant que vous voyagez en voiture privée vers Agra, en profitant d'un trajet matinal paisible.\n\nÀ l'arrivée, visitez le Taj Mahal au lever du soleil, lorsque le monument est calme et magnifiquement illuminé par la douce lumière du matin. Tandis que vous explorez les jardins et admirez le superbe marbre blanc, votre guide professionnel partagera l'histoire, l'architecture, et la célèbre histoire d'amour derrière ce monument de renommée mondiale.\n\nEnsuite, continuez vers l'historique fort d'Agra, un site du patrimoine mondial de l'UNESCO. Promenez-vous à travers ses grandes cours et palais tout en découvrant les empereurs moghols qui régnaient autrefois sur l'Inde depuis cette impressionnante forteresse.\n\nAprès les visites à Agra, commencez le trajet de retour vers Delhi. En chemin, arrêtez-vous à un centre éthique de sauvetage d'éléphants où vous pourrez observer des éléphants sauvés à une distance respectueuse, pendant que les soigneurs expliquent comment ils ont été sauvés et comment ils sont soignés aujourd'hui. Il n'y a ni monte ni interaction physique avec les éléphants, et toute contribution volontaire aide à soutenir leur alimentation, leurs soins médicaux, et leur abri.\n\nAprès la visite, continuez le trajet de retour vers Delhi pour une dépose confortable à votre hôtel.",
+  "highlights": [
+   "Admirez le lever du soleil sur le Taj Mahal, baignant le monument d'une lumière dorée"
+  ],
+  "included": [
+   "Transport en voiture privée",
+   "Visite guidée du Taj Mahal et du fort d'Agra",
+   "Prise en charge et retour depuis Delhi (si option sélectionnée)",
+   "Expérience personnalisée avec un guide compétent",
+   "Frais d'entrée au Taj Mahal et au fort d'Agra (si option sélectionnée)",
+   "Déjeuner (si option sélectionnée)"
+  ],
+  "notIncluded": [
+   "Frais/don pour Elephant SOS",
+   "Pourboires"
+  ]
+ },
+ "taj-mahal-express-entry-ticket-sunrise-daytime": {
+  "title": "Billet d'entrée express au Taj Mahal : options lever du soleil et journée",
+  "metaTitle": "Agra : Taj Mahal entrée express, lever de soleil",
+  "metaDescription": "Admirez le majestueux mausolée et les détails exquis du Taj Mahal.",
+  "shortDescription": "Admirez le majestueux mausolée et les détails exquis du Taj Mahal.",
+  "fullDescription": "Assurez votre visite du Taj Mahal et de son mausolée avec un billet d'admission coupe-file, et économisez un temps précieux ! Profitez au maximum de ce site emblématique du patrimoine mondial de l'UNESCO, en explorant à votre propre rythme.\n\nÉvitez les longues attentes, qui peuvent s'étendre jusqu'à une heure pendant les périodes de pointe, et entrez plus rapidement dans ce monument à couper le souffle grâce à votre billet coupe-file.\n\nNotre guide professionnel vous rencontrera à un endroit pratique près du Taj Mahal, où vous recevrez vos billets réservés à l'avance. Une fois à l'intérieur, votre guide partagera l'histoire authentique et fascinante de ce monument emblématique, y compris les illusions d'optique au sein de son architecture. De plus, votre guide capturera de superbes photos dignes des réseaux sociaux pendant votre visite.\n\nNous proposons également des services de prise en charge et de dépose à l'hôtel, l'aéroport, et la gare, moyennant des frais supplémentaires.\n\nPlusieurs options personnalisables sont disponibles pour enrichir votre expérience.",
+  "highlights": [
+   "Admirez le majestueux mausolée et les détails exquis du Taj Mahal"
+  ],
+  "included": [
+   "Billet coupe-file pour le Taj Mahal avec mausolée (si option sélectionnée)",
+   "Visite privée",
+   "Guide professionnel",
+   "Notre guide prendra votre photo digne des réseaux sociaux",
+   "Protège-chaussures",
+   "Eau en bouteille",
+   "Prise en charge et retour n'importe où à Agra (si option sélectionnée)"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Nourriture et boissons alcoolisées"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
