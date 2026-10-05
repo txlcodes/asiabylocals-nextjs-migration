@@ -25950,6 +25950,67 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "delhi-red-fort-guided-evening-light-sound-show": {
+  "title": "Delhi : visite guidée en soirée du spectacle son et lumière du Fort Rouge",
+  "metaTitle": "Delhi : Fort Rouge, spectacle son et lumière",
+  "metaDescription": "Spectacle son et lumière en soirée de 2 heures au Fort Rouge, Delhi",
+  "shortDescription": "Spectacle son et lumière en soirée de 2 heures au Fort Rouge, Delhi",
+  "fullDescription": "Delhi : visite guidée en soirée du spectacle son et lumière du Fort Rouge. Spectacle son et lumière en soirée de 2 heures au Fort Rouge, Delhi.\n\nEntrez dans le monde majestueux du Fort Rouge à Delhi, lors de ce spectacle son et lumière guidé en soirée de 2 heures. Observez l'histoire prendre vie à travers des lumières vibrantes, de la musique, et une narration, racontant les histoires de l'empire moghol, du riche patrimoine de Delhi, et de l'architecture fascinante du Fort Rouge.\n\nVotre guide professionnel vous accompagnera tout au long du spectacle, expliquant les récits derrière les portes, les murs, et les palais du fort. Cette expérience immersive est parfaite pour les passionnés d'histoire, les familles, et les voyageurs souhaitant découvrir l'un des sites les plus emblématiques de l'Inde d'une manière unique et mémorable.\n\n**Pourquoi vous aimerez cette visite :**\n\nDécouvrez l'histoire et les légendes du Fort Rouge\n\nAdmirez le fort magnifiquement illuminé en soirée\n\nUn guide expert fournit des commentaires éclairants\n\nParfait pour la photographie et l'immersion culturelle\n\nRythme confortable pour tous les âges\n\n**Ce qui est inclus**\nVisite guidée du Fort Rouge pendant le spectacle son et lumière du soir\nGuide professionnel anglophone\nBillets\nPrise en charge/retour\nBouteilles d'eau\n\n**Non inclus**\nDépenses personnelles telles que souvenirs, collations, ou boissons\nPourboires/gratifications",
+  "highlights": [
+   "Spectacle son et lumière en soirée de 2 heures au Fort Rouge, Delhi"
+  ],
+  "included": [
+   "Visite guidée du Fort Rouge pendant le spectacle son et lumière du soir",
+   "Guide professionnel anglophone",
+   "Billets",
+   "Prise en charge/retour",
+   "Bouteilles d'eau"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles telles que souvenirs, collations, ou boissons",
+   "Pourboires/gratifications"
+  ]
+ },
+ "10-days-golden-triangle-tour-with-udaipur-jodhpur": {
+  "title": "Circuit du Triangle d'or de 10 jours avec Udaipur, Jodhpur, et Pushkar",
+  "metaTitle": "Triangle d'or 10 jours, Udaipur-Jodhpur-Pushkar",
+  "metaDescription": "Explorez le célèbre Triangle d'or de l'Inde : Delhi, Agra, et Jaipur.",
+  "shortDescription": "Explorez le célèbre Triangle d'or de l'Inde : Delhi, Agra, et Jaipur.",
+  "fullDescription": "Circuit du Triangle d'or de 10 jours avec Udaipur, Jodhpur, et Pushkar. Explorez le célèbre Triangle d'or de l'Inde : Delhi, Agra, et Jaipur.\n\n**Jour 1 – arrivée à Delhi, bienvenue en Inde**\nArrivée à New Delhi, où votre représentant vous accueille et vous transfère à votre hôtel. Après l'enregistrement, détendez-vous ou profitez d'une courte promenade d'orientation près de votre hôtel. Nuit à Delhi.\n\n**Jour 2 – visites de Delhi, Vieux et New Delhi**\nCommencez votre exploration guidée de la capitale. Visitez la Jama Masjid, l'une des plus grandes mosquées d'Inde. Passez devant le Fort Rouge, et continuez vers India Gate et la résidence présidentielle.\nL'après-midi, explorez le Qutub Minar et la tombe de Humayun, tous deux sites classés par l'UNESCO. Retour à votre hôtel pour la nuit.\n\n**Jour 3 – Delhi vers Agra, la ville du Taj (environ 3 à 4 heures)**\nTrajet vers Agra. À votre arrivée, enregistrement à l'hôtel. Visitez le magnifique Taj Mahal, symbole intemporel d'amour construit par l'empereur Shah Jahan.\nPlus tard, explorez le fort d'Agra, une grande forteresse en grès rouge. Vue optionnelle du coucher de soleil sur le Taj depuis Mehtab Bagh. Nuit à Agra.\n\n**Jour 4 – Agra vers Jaipur via Fatehpur Sikri (environ 5 heures)**\nAprès le petit-déjeuner, trajet vers Jaipur. En chemin, visitez Fatehpur Sikri, la capitale moghole abandonnée, connue pour son architecture impressionnante.\nContinuez vers Jaipur, enregistrement à l'hôtel, et détendez-vous pour la soirée.\n\n**Jour 5 – Jaipur, la ville rose**\nCommencez par le Hawa Mahal (Palais des Vents), et explorez le City Palace et le Jantar Mantar. Soirée libre pour les marchés locaux. Nuit à Jaipur.\n\n**Jour 6 – Jaipur vers Pushkar (environ 3 heures)**\nTrajet vers Pushkar, une ville sacrée connue pour son atmosphère spirituelle. Visitez le vénéré temple de Brahma, l'un des rares temples dédiés au Seigneur Brahma.\nPromenez-vous autour du lac de Pushkar, et explorez les bazars colorés. Nuit à Pushkar.\n\n**Jour 7 – Pushkar vers Jodhpur (environ 4 à 5 heures)**\nVoyagez vers Jodhpur, surnommée la ville bleue. Après l'enregistrement, explorez la zone du marché local, et profitez des vues sur le fort illuminé en soirée.\n\n**Jour 8 – Jodhpur vers Udaipur via Ranakpur (environ 5 à 6 heures)**\nVisitez le grand fort de Mehrangarh, offrant des vues panoramiques sur les maisons bleues de Jodhpur.\nPlus tard, trajet vers Udaipur, avec un arrêt en chemin au somptueux temple jaïn de Ranakpur, connu pour ses sculptures en marbre complexes. Continuez vers Udaipur pour la nuit.\n\n**Jour 9 – Udaipur, la cité des lacs**\nExplorez le City Palace d'Udaipur, un élégant complexe de palais surplombant le lac Pichola. Visitez Saheliyon-ki-Bari, le jardin des demoiselles.\nProfitez d'une paisible balade en bateau sur le lac Pichola, passant devant le Jag Mandir. Nuit à Udaipur.\n\n**Jour 10 – départ d'Udaipur**\nAprès le petit-déjeuner, transfert vers l'aéroport d'Udaipur pour la suite de votre voyage, emportant d'inoubliables souvenirs du patrimoine royal de l'Inde, de ses grands forts, de ses villes spirituelles, et de ses monuments intemporels.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel/l'aéroport\nVoiture privée climatisée pour toute l'activité du circuit, avec chauffeur\nGuide touristique professionnel dans chaque ville\nHébergement de 9 nuits à l'hôtel (si l'option est sélectionnée)\nPetit-déjeuner à l'hôtel\nBouteille d'eau minérale\nTous les péages et frais de stationnement\n\n**Non inclus**\nDéjeuner et dîner\nBouteille d'eau minérale\nToute dépense personnelle",
+  "highlights": [
+   "Explorez le célèbre Triangle d'or de l'Inde : Delhi, Agra, et Jaipur"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel/l'aéroport",
+   "Voiture privée climatisée pour toute l'activité du circuit, avec chauffeur",
+   "Guide touristique professionnel dans chaque ville",
+   "Hébergement de 9 nuits à l'hôtel (si l'option est sélectionnée)",
+   "Petit-déjeuner à l'hôtel",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Déjeuner et dîner",
+   "Bouteille d'eau minérale",
+   "Toute dépense personnelle"
+  ]
+ },
+ "delhi-unesco-world-heritage-walking-tour-of-red": {
+  "title": "Delhi : visite à pied du patrimoine mondial de l'UNESCO, le Fort Rouge",
+  "metaTitle": "Delhi : Fort Rouge, patrimoine UNESCO",
+  "metaDescription": "Plongez dans la grandeur du Fort Rouge, site du patrimoine mondial de l'UNESCO",
+  "shortDescription": "Plongez dans la grandeur du Fort Rouge, site du patrimoine mondial de l'UNESCO",
+  "fullDescription": "Delhi : visite à pied du patrimoine mondial de l'UNESCO, le Fort Rouge. Plongez dans la grandeur du Fort Rouge, site du patrimoine mondial de l'UNESCO.\n\nCommencez votre voyage à la porte de Lahori, la grande entrée du fort, et marchez à travers l'animé Chhatta Chowk, un marché vibrant autrefois utilisé pour vendre des biens de luxe aux visiteurs royaux.\n\nExplorez le Diwan-i-Aam, la salle d'audience publique, où l'empereur s'adressait à ses sujets. Continuez vers le Diwan-i-Khas, la salle d'audience privée, ornée de sculptures complexes, et autrefois abritant le célèbre trône du Paon.\n\nFlânez à travers les luxuriants jardins de Hayat Bakhsh Bagh, et admirez la Moti Masjid, une superbe mosquée privée construite pour les prières royales. Découvrez le Rang Mahal, le palais des couleurs, où résidaient les épouses et maîtresses de l'empereur.\n\nTout au long de la visite, découvrez des histoires fascinantes sur l'histoire du fort, notamment son rôle pendant le mouvement d'indépendance de l'Inde.\n\n**Ce qui est inclus**\nVisite à pied du Fort Rouge\n\n**Non inclus**\nTransport aller-retour vers le Fort Rouge",
+  "highlights": [
+   "Plongez dans la grandeur du Fort Rouge, site du patrimoine mondial de l'UNESCO"
+  ],
+  "included": [
+   "Visite à pied du Fort Rouge"
+  ],
+  "notIncluded": [
+   "Transport aller-retour vers le Fort Rouge"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

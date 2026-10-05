@@ -25950,6 +25950,67 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier gasto personal"
   ]
  },
+ "delhi-red-fort-guided-evening-light-sound-show": {
+  "title": "Delhi: espectáculo guiado de luz y sonido vespertino en el Fuerte Rojo",
+  "metaTitle": "Delhi: Fuerte Rojo, luz y sonido",
+  "metaDescription": "Espectáculo de luz y sonido vespertino de 2 horas en el Fuerte Rojo, Delhi",
+  "shortDescription": "Espectáculo de luz y sonido vespertino de 2 horas en el Fuerte Rojo, Delhi",
+  "fullDescription": "Delhi: espectáculo guiado de luz y sonido vespertino en el Fuerte Rojo. Espectáculo de luz y sonido vespertino de 2 horas en el Fuerte Rojo, Delhi.\n\nAdéntrate en el majestuoso mundo del Fuerte Rojo en Delhi con este espectáculo guiado de luz y sonido vespertino de 2 horas. Observa cómo la historia cobra vida a través de vibrantes luces, música, y narración, contando las historias del imperio mogol, el rico patrimonio de Delhi, y la fascinante arquitectura del Fuerte Rojo.\n\nTu guía profesional te acompañará durante el espectáculo, explicando los relatos detrás de las puertas, murallas, y palacios del fuerte. Esta experiencia inmersiva es perfecta para entusiastas de la historia, familias, y viajeros que desean presenciar uno de los lugares más emblemáticos de la India de una manera única e inolvidable.\n\n**Por qué te encantará este tour:**\n\nAprende la historia y las leyendas del Fuerte Rojo\n\nObserva el fuerte bellamente iluminado por la noche\n\nUn guía experto ofrece comentarios perspicaces\n\nPerfecto para fotografía e inmersión cultural\n\nRitmo cómodo para todas las edades\n\n**Qué incluye**\nTour guiado por el Fuerte Rojo durante el espectáculo de luz y sonido vespertino\nGuía profesional de habla inglesa\nEntradas\nRecogida/regreso\nBotellas de agua\n\n**No incluye**\nGastos personales como recuerdos, tentempiés, o bebidas\nPropinas/gratificaciones",
+  "highlights": [
+   "Espectáculo de luz y sonido vespertino de 2 horas en el Fuerte Rojo, Delhi"
+  ],
+  "included": [
+   "Tour guiado por el Fuerte Rojo durante el espectáculo de luz y sonido vespertino",
+   "Guía profesional de habla inglesa",
+   "Entradas",
+   "Recogida/regreso",
+   "Botellas de agua"
+  ],
+  "notIncluded": [
+   "Gastos personales como recuerdos, tentempiés, o bebidas",
+   "Propinas/gratificaciones"
+  ]
+ },
+ "10-days-golden-triangle-tour-with-udaipur-jodhpur": {
+  "title": "Tour del Triángulo de Oro de 10 días con Udaipur, Jodhpur, y Pushkar",
+  "metaTitle": "Triángulo de Oro 10 días, Udaipur-Jodhpur-Pushkar",
+  "metaDescription": "Explora el famoso Triángulo de Oro de la India: Delhi, Agra, y Jaipur.",
+  "shortDescription": "Explora el famoso Triángulo de Oro de la India: Delhi, Agra, y Jaipur.",
+  "fullDescription": "Tour del Triángulo de Oro de 10 días con Udaipur, Jodhpur, y Pushkar. Explora el famoso Triángulo de Oro de la India: Delhi, Agra, y Jaipur.\n\n**Día 1 – llegada a Delhi, bienvenido a la India**\nLlegada a Nueva Delhi, donde tu representante te recibe y te traslada a tu hotel. Tras el registro, relájate o disfruta de un breve paseo de orientación cerca de tu hotel. Noche en Delhi.\n\n**Día 2 – visitas por Delhi, Viejo y Nuevo Delhi**\nComienza tu exploración guiada de la capital. Visita la Jama Masjid, una de las mezquitas más grandes de la India. Pasa frente al Fuerte Rojo, y continúa hacia India Gate y la Casa Presidencial.\nPor la tarde, explora el Qutub Minar y la tumba de Humayun, ambos lugares emblemáticos catalogados por la UNESCO. Regreso a tu hotel para pasar la noche.\n\n**Día 3 – Delhi a Agra, la ciudad del Taj (aprox. 3 a 4 horas)**\nViaje hacia Agra. Al llegar, regístrate en el hotel. Visita el magnífico Taj Mahal, símbolo atemporal del amor construido por el emperador Shah Jahan.\nMás tarde, explora el Fuerte de Agra, una gran fortaleza de arenisca roja. Vista opcional del atardecer sobre el Taj desde Mehtab Bagh. Noche en Agra.\n\n**Día 4 – Agra a Jaipur vía Fatehpur Sikri (aprox. 5 horas)**\nDespués del desayuno, viaje hacia Jaipur. En el camino, visita Fatehpur Sikri, la capital mogol abandonada conocida por su impresionante arquitectura.\nContinúa hacia Jaipur, regístrate en el hotel, y relájate durante la tarde.\n\n**Día 5 – Jaipur, la ciudad rosa**\nComienza con el Hawa Mahal (Palacio de los Vientos), y explora el City Palace y el Jantar Mantar. Tarde libre para mercados locales. Noche en Jaipur.\n\n**Día 6 – Jaipur a Pushkar (aprox. 3 horas)**\nViaje hacia Pushkar, un pueblo sagrado conocido por su ambiente espiritual. Visita el venerado templo de Brahma, uno de los pocos templos dedicados al Señor Brahma.\nPasea por el lago Pushkar, y explora coloridos bazares. Noche en Pushkar.\n\n**Día 7 – Pushkar a Jodhpur (aprox. 4 a 5 horas)**\nViaja a Jodhpur, conocida como la ciudad azul. Tras el registro, explora la zona del mercado local, y disfruta de vistas del fuerte iluminado por la noche.\n\n**Día 8 – Jodhpur a Udaipur vía Ranakpur (aprox. 5 a 6 horas)**\nVisita el gran fuerte de Mehrangarh, con vistas panorámicas de las casas azules de Jodhpur.\nMás tarde, viaje hacia Udaipur, con una parada en el camino en el exquisito templo jainista de Ranakpur, conocido por sus intrincados tallados de mármol. Continúa hacia Udaipur para la noche.\n\n**Día 9 – Udaipur, la ciudad de los lagos**\nExplora el City Palace de Udaipur, un elegante complejo de palacios con vistas al lago Pichola. Visita Saheliyon-ki-Bari, el Jardín de las Doncellas.\nDisfruta de un apacible paseo en bote por el lago Pichola, pasando por el Jag Mandir. Noche en Udaipur.\n\n**Día 10 – salida desde Udaipur**\nDespués del desayuno, traslado al aeropuerto de Udaipur para continuar tu viaje, llevando inolvidables recuerdos del patrimonio real de la India, sus grandiosos fuertes, pueblos espirituales, y monumentos atemporales.\n\n**Qué incluye**\nRecogida y regreso al hotel/aeropuerto\nCoche privado con aire acondicionado para toda la actividad del tour, con chófer\nGuía turístico profesional en cada ciudad\nAlojamiento de 9 noches en hotel (si se selecciona esta opción)\nDesayuno en el hotel\nBotella de agua mineral\nTodos los peajes y gastos de estacionamiento\n\n**No incluye**\nAlmuerzo y cena\nBotella de agua mineral\nCualquier gasto personal",
+  "highlights": [
+   "Explora el famoso Triángulo de Oro de la India: Delhi, Agra, y Jaipur"
+  ],
+  "included": [
+   "Recogida y regreso al hotel/aeropuerto",
+   "Coche privado con aire acondicionado para toda la actividad del tour, con chófer",
+   "Guía turístico profesional en cada ciudad",
+   "Alojamiento de 9 noches en hotel (si se selecciona esta opción)",
+   "Desayuno en el hotel",
+   "Botella de agua mineral",
+   "Todos los peajes y gastos de estacionamiento"
+  ],
+  "notIncluded": [
+   "Almuerzo y cena",
+   "Botella de agua mineral",
+   "Cualquier gasto personal"
+  ]
+ },
+ "delhi-unesco-world-heritage-walking-tour-of-red": {
+  "title": "Delhi: tour a pie por el Patrimonio de la Humanidad de la UNESCO, el Fuerte Rojo",
+  "metaTitle": "Delhi: Fuerte Rojo, patrimonio UNESCO",
+  "metaDescription": "Sumérgete en la grandeza del Fuerte Rojo, Patrimonio de la Humanidad de la UNESCO",
+  "shortDescription": "Sumérgete en la grandeza del Fuerte Rojo, Patrimonio de la Humanidad de la UNESCO",
+  "fullDescription": "Delhi: tour a pie por el Patrimonio de la Humanidad de la UNESCO, el Fuerte Rojo. Sumérgete en la grandeza del Fuerte Rojo, Patrimonio de la Humanidad de la UNESCO.\n\nComienza tu viaje en la Puerta de Lahori, la gran entrada al fuerte, y camina por el bullicioso Chhatta Chowk, un vibrante mercado antes usado para vender bienes de lujo a los visitantes reales.\n\nExplora el Diwan-i-Aam, la Sala de Audiencias Públicas, donde el emperador se dirigía a sus súbditos. Continúa hacia el Diwan-i-Khas, la Sala de Audiencias Privadas, adornada con intrincados tallados, y hogar en su día del famoso Trono del Pavo Real.\n\nPasea por los exuberantes jardines de Hayat Bakhsh Bagh, y admira la Moti Masjid, una impresionante mezquita privada construida para las oraciones reales. Descubre el Rang Mahal, el palacio de los colores, donde residían las esposas y amantes del emperador.\n\nA lo largo del tour, conoce fascinantes historias sobre la historia del fuerte, incluyendo su papel durante el movimiento de independencia de la India.\n\n**Qué incluye**\nTour a pie por el Fuerte Rojo\n\n**No incluye**\nTransporte hacia y desde el Fuerte Rojo",
+  "highlights": [
+   "Sumérgete en la grandeza del Fuerte Rojo, Patrimonio de la Humanidad de la UNESCO"
+  ],
+  "included": [
+   "Tour a pie por el Fuerte Rojo"
+  ],
+  "notIncluded": [
+   "Transporte hacia y desde el Fuerte Rojo"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
