@@ -21996,6 +21996,84 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "from-delhi-varanasi-overnight-tour-with-train": {
+  "title": "Depuis Delhi : circuit d'une nuit à Varanasi avec train et balade en bateau",
+  "metaTitle": "Delhi : Varanasi en train, circuit d'une nuit",
+  "metaDescription": "Vivez la cérémonie spirituelle de la Ganga Aarti au Dashashwamedh Ghat.",
+  "shortDescription": "Vivez la cérémonie spirituelle de la Ganga Aarti au Dashashwamedh Ghat.",
+  "fullDescription": "Depuis Delhi : circuit d'une nuit à Varanasi avec train et balade en bateau. Vivez la cérémonie spirituelle de la Ganga Aarti au Dashashwamedh Ghat.\n\n**Jour 1 : Delhi à Varanasi**\n\nCommencez votre voyage à la gare de New Delhi, où vous embarquerez à bord du Vande Bharat Express vers Varanasi. Profitez du petit-déjeuner et du thé à bord pendant le trajet.\n\nÀ votre arrivée à Varanasi, rencontrez votre guide et votre chauffeur, et transfert vers votre hôtel. Enregistrement, rafraîchissement, et détente avant de partir déjeuner dans un restaurant local ou à l'hôtel.\n\nL'après-midi, lancez-vous dans une visite guidée à pied du Vieux Varanasi. Explorez les ruelles étroites, Vishwanath Gali, les bazars locaux, et les temples.\n\nEn soirée, rendez-vous au Dashashwamedh Ghat pour la célèbre cérémonie de la Ganga Aarti. Observez le fleuve s'illuminer de lampes et de chants, l'une des expériences spirituelles les plus profondes de l'Inde.\n\nEnsuite, savourez un dîner dans un restaurant sur le toit surplombant le Gange, ou à votre hôtel. En option, faites une promenade en soirée le long des ghats avant de vous retirer pour la nuit.\n\n**Jour 2 : Varanasi à Delhi**\n\nLevez-vous tôt pour une balade en bateau matinale sur le Gange. Assistez au lever du soleil, aux rituels locaux, et aux prières matinales sur les ghats. Retour à votre hôtel pour le petit-déjeuner, et un court repos.\n\nEnsuite, faites une excursion à Sarnath, où Bouddha a prononcé son premier sermon. Visitez le stupa de Dhamek, le musée de Sarnath, et les ruines archéologiques.\n\nProfitez du déjeuner, et d'un court trajet en ville, avec un arrêt optionnel à un centre de tissage de soie de Banaras. Enfin, transfert vers la gare de Varanasi, et embarquement à bord du Vande Bharat Express de retour vers Delhi. Profitez de collations et du dîner à bord avant d'arriver à la gare de New Delhi, marquant la fin de votre circuit.\n\n**Ce qui est inclus**\nBillets de train aller-retour sur le Vande Bharat Express\nPrise en charge et retour\nPetit-déjeuner et thé à bord du train\nVisite guidée à pied du Vieux Varanasi\nCérémonie de la Ganga Aarti\nBalade en bateau au lever du soleil sur le Gange\nBillet d'entrée à Sarnath\nHébergement à l'hôtel à Varanasi (si l'option est choisie)\n\n**Non inclus**\nDépenses personnelles\nPourboires (recommandés)\nAssurance voyage",
+  "highlights": [
+   "Vivez la cérémonie spirituelle de la Ganga Aarti au Dashashwamedh Ghat"
+  ],
+  "included": [
+   "Billets de train aller-retour sur le Vande Bharat Express",
+   "Prise en charge et retour",
+   "Petit-déjeuner et thé à bord du train",
+   "Visite guidée à pied du Vieux Varanasi",
+   "Cérémonie de la Ganga Aarti",
+   "Balade en bateau au lever du soleil sur le Gange",
+   "Billet d'entrée à Sarnath",
+   "Hébergement à l'hôtel à Varanasi (si l'option est choisie)"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires (recommandés)",
+   "Assurance voyage"
+  ]
+ },
+ "golden-triangle-6-day-tour-with-ranthambore": {
+  "title": "Circuit du Triangle d'or de 6 jours avec safari animalier de Ranthambore",
+  "metaTitle": "Triangle d'or 6 jours avec Ranthambore",
+  "metaDescription": "Visite au lever du soleil du Taj Mahal avec un guide professionnel.",
+  "shortDescription": "Visite au lever du soleil du Taj Mahal avec un guide professionnel.",
+  "fullDescription": "Circuit du Triangle d'or de 6 jours avec safari animalier de Ranthambore. Visite au lever du soleil du Taj Mahal avec un guide professionnel.\n\nDécouvrez le Triangle d'or de l'Inde avec un safari responsable à Ranthambore. Visitez Delhi, Agra, et Jaipur, et observez des tigres sauvages dans leur habitat naturel depuis une jeep ou un canter agréé par le gouvernement.\n\n**Ce qui est inclus**\nTransport privé climatisé pour tout le circuit\nGuide professionnel anglophone à Delhi, Agra, et Jaipur\nVisite au lever du soleil du Taj Mahal\nBouteilles d'eau minérale pendant les trajets\n5 nuits d'hébergement avec petit-déjeuner (si l'option est sélectionnée)\n2 safaris aux tigres, matin et soir, à Ranthambore, inclus sauf pour la 1ʳᵉ option\nFrais d'entrée aux monuments (si l'option tout compris est sélectionnée)\nDéjeuner et dîner quotidiens (si l'option tout compris est sélectionnée)\nToutes les taxes applicables",
+  "highlights": [
+   "Visite au lever du soleil du Taj Mahal avec un guide professionnel"
+  ],
+  "included": [
+   "Transport privé climatisé pour tout le circuit",
+   "Guide professionnel anglophone à Delhi, Agra, et Jaipur",
+   "Visite au lever du soleil du Taj Mahal",
+   "Bouteilles d'eau minérale pendant les trajets",
+   "5 nuits d'hébergement avec petit-déjeuner (si l'option est sélectionnée)",
+   "2 safaris aux tigres, matin et soir, à Ranthambore, inclus sauf pour la 1ʳᵉ option",
+   "Frais d'entrée aux monuments (si l'option tout compris est sélectionnée)",
+   "Déjeuner et dîner quotidiens (si l'option tout compris est sélectionnée)",
+   "Toutes les taxes applicables"
+  ],
+  "notIncluded": [
+   "Toute alimentation ou interaction avec la faune sauvage",
+   "Dépenses personnelles et pourboires",
+   "Frais d'appareil photo aux monuments (le cas échéant)",
+   "Assurance voyage",
+   "Pourboires"
+  ]
+ },
+ "delhi-private-spiritual-sites-car-tour-with-lunch": {
+  "title": "Delhi : circuit privé en voiture des sites spirituels, avec déjeuner et entrées",
+  "metaTitle": "Delhi : sites spirituels en voiture privée",
+  "metaDescription": "Vivez les sites spirituels de Delhi et l'encens aromatique.",
+  "shortDescription": "Vivez les sites spirituels de Delhi et l'encens aromatique.",
+  "fullDescription": "Delhi : circuit privé en voiture des sites spirituels, avec déjeuner et entrées. Vivez les sites spirituels de Delhi et l'encens aromatique.\n\nDécouvrez le cœur de Delhi lors d'une visite en voiture privée remplie d'histoire, de culture, et de spiritualité. Commencez votre voyage à la magnifique Jama Masjid, l'une des plus grandes mosquées de la ville, et profitez d'une vue extérieure sur l'historique Fort Rouge. Ensuite, explorez le marché animé de Chandni Chowk, avec une amusante balade en rickshaw à travers ses rues animées et colorées, où vous découvrirez la véritable énergie du Vieux Delhi.\n\nAprès un savoureux déjeuner local, visitez le paisible Gurudwara Bangla Sahib et le superbe temple du Lotus, tous deux offrant calme et beauté. Passez devant des monuments célèbres comme India Gate et la résidence présidentielle, en découvrant leurs histoires en chemin. Terminez votre journée au temple Akshardham, un lieu de sculptures incroyables et d'un environnement serein, créant la fin parfaite de votre aventure à Delhi.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'endroit souhaité à Delhi/Noida, Gurgaon/Ghaziabad, et Faridabad\nChauffeur privé avec voiture climatisée pour les visites\nGuide touristique agréé\nBalade en rickshaw dans le Vieux Delhi (si l'option est sélectionnée)\nBillet d'entrée aux monuments (si l'option est sélectionnée)\nDéjeuner (si l'option est sélectionnée)\nHoraire et itinéraire flexibles selon votre rythme et votre temps\nEau minérale illimitée\nTous les frais de véhicule, frais de stationnement, et taxes applicables\n\n**Non inclus**\nDépenses personnelles\nGratifications et pourboires",
+  "highlights": [
+   "Vivez les sites spirituels de Delhi et l'encens aromatique"
+  ],
+  "included": [
+   "Prise en charge et retour à l'endroit souhaité à Delhi/Noida, Gurgaon/Ghaziabad, et Faridabad",
+   "Chauffeur privé avec voiture climatisée pour les visites",
+   "Guide touristique agréé",
+   "Balade en rickshaw dans le Vieux Delhi (si l'option est sélectionnée)",
+   "Billet d'entrée aux monuments (si l'option est sélectionnée)",
+   "Déjeuner (si l'option est sélectionnée)",
+   "Horaire et itinéraire flexibles selon votre rythme et votre temps",
+   "Eau minérale illimitée",
+   "Tous les frais de véhicule, frais de stationnement, et taxes applicables"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Gratifications et pourboires"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

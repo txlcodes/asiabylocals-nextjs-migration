@@ -21996,6 +21996,84 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "from-delhi-varanasi-overnight-tour-with-train": {
+  "title": "Desde Delhi: tour de una noche a Varanasi con tren y paseo en bote",
+  "metaTitle": "Delhi: Varanasi en tren, tour de una noche",
+  "metaDescription": "Viva la ceremonia espiritual de la Ganga Aarti en Dashashwamedh Ghat.",
+  "shortDescription": "Viva la ceremonia espiritual de la Ganga Aarti en Dashashwamedh Ghat.",
+  "fullDescription": "Desde Delhi: tour de una noche a Varanasi con tren y paseo en bote. Viva la ceremonia espiritual de la Ganga Aarti en Dashashwamedh Ghat.\n\n**Día 1: Delhi a Varanasi**\n\nComience su viaje en la estación de tren de Nueva Delhi, donde abordará el Vande Bharat Express hacia Varanasi. Disfrute del desayuno y el té a bordo durante el viaje.\n\nAl llegar a Varanasi, conozca a su guía y conductor, y traslado a su hotel. Registro, refresco, y relajación antes de salir a almorzar en un restaurante local o en el hotel.\n\nPor la tarde, emprenda un tour guiado a pie por la Vieja Varanasi. Explore los estrechos callejones, Vishwanath Gali, bazares locales, y templos.\n\nPor la noche, diríjase a Dashashwamedh Ghat para la mundialmente famosa Ceremonia de la Ganga Aarti. Observe cómo el río se ilumina con lámparas y cánticos, una de las experiencias espirituales más profundas de la India.\n\nDespués, disfrute de la cena en un restaurante en la azotea con vista al Ganges, o en su hotel. Opcionalmente, dé un paseo nocturno por los ghats antes de retirarse a descansar.\n\n**Día 2: Varanasi a Delhi**\n\nLevántese temprano para un paseo matutino en bote por el río Ganges. Sea testigo del amanecer, los rituales locales, y las oraciones matutinas en los ghats. Regreso a su hotel para el desayuno, y un breve descanso.\n\nA continuación, haga una excursión a Sarnath, donde Buda dio su primer sermón. Visite la estupa Dhamek, el Museo de Sarnath, y las ruinas arqueológicas.\n\nDisfrute del almuerzo, y un breve recorrido por la ciudad, con una parada opcional en un centro de tejido de seda de Banaras. Finalmente, traslado a la estación de tren de Varanasi, y abordaje del Vande Bharat Express de regreso a Delhi. Disfrute de bocadillos y cena a bordo antes de llegar a la estación de tren de Nueva Delhi, marcando el final de su tour.\n\n**Qué incluye**\nBoletos de tren de ida y vuelta en el Vande Bharat Express\nRecogida y regreso\nDesayuno y té a bordo del tren\nTour guiado a pie por la Vieja Varanasi\nCeremonia de la Ganga Aarti\nPaseo en bote al amanecer por el río Ganges\nBoleto de entrada a Sarnath\nAlojamiento en hotel en Varanasi (si se elige esta opción)\n\n**No incluye**\nGastos personales\nPropinas (recomendadas)\nSeguro de viaje",
+  "highlights": [
+   "Viva la ceremonia espiritual de la Ganga Aarti en Dashashwamedh Ghat"
+  ],
+  "included": [
+   "Boletos de tren de ida y vuelta en el Vande Bharat Express",
+   "Recogida y regreso",
+   "Desayuno y té a bordo del tren",
+   "Tour guiado a pie por la Vieja Varanasi",
+   "Ceremonia de la Ganga Aarti",
+   "Paseo en bote al amanecer por el río Ganges",
+   "Boleto de entrada a Sarnath",
+   "Alojamiento en hotel en Varanasi (si se elige esta opción)"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas (recomendadas)",
+   "Seguro de viaje"
+  ]
+ },
+ "golden-triangle-6-day-tour-with-ranthambore": {
+  "title": "Tour del Triángulo Dorado de 6 días con safari de vida silvestre en Ranthambore",
+  "metaTitle": "Triángulo Dorado 6 días con Ranthambore",
+  "metaDescription": "Visita al amanecer al Taj Mahal con un guía profesional.",
+  "shortDescription": "Visita al amanecer al Taj Mahal con un guía profesional.",
+  "fullDescription": "Tour del Triángulo Dorado de 6 días con safari de vida silvestre en Ranthambore. Visita al amanecer al Taj Mahal con un guía profesional.\n\nDescubra el Triángulo Dorado de la India con un safari responsable en Ranthambore. Visite Delhi, Agra, y Jaipur, y observe tigres salvajes en su hábitat natural desde un jeep o canter aprobado por el gobierno.\n\n**Qué incluye**\nTransporte privado con aire acondicionado para todo el tour\nGuía profesional de habla inglesa en Delhi, Agra, y Jaipur\nVisita al amanecer al Taj Mahal\nBotellas de agua mineral durante los trayectos\n5 noches de alojamiento con desayuno (si se selecciona esta opción)\n2 safaris de tigres matutinos y vespertinos en Ranthambore incluidos, excepto en la 1.ª opción\nTarifas de entrada a monumentos (si se selecciona la opción todo incluido)\nAlmuerzo y cena diarios (si se selecciona la opción todo incluido)\nTodos los impuestos aplicables",
+  "highlights": [
+   "Visita al amanecer al Taj Mahal con un guía profesional"
+  ],
+  "included": [
+   "Transporte privado con aire acondicionado para todo el tour",
+   "Guía profesional de habla inglesa en Delhi, Agra, y Jaipur",
+   "Visita al amanecer al Taj Mahal",
+   "Botellas de agua mineral durante los trayectos",
+   "5 noches de alojamiento con desayuno (si se selecciona esta opción)",
+   "2 safaris de tigres matutinos y vespertinos en Ranthambore incluidos, excepto en la 1.ª opción",
+   "Tarifas de entrada a monumentos (si se selecciona la opción todo incluido)",
+   "Almuerzo y cena diarios (si se selecciona la opción todo incluido)",
+   "Todos los impuestos aplicables"
+  ],
+  "notIncluded": [
+   "Cualquier alimentación o interacción con la vida silvestre",
+   "Gastos personales y propinas",
+   "Tarifas de cámara en monumentos (si corresponde)",
+   "Seguro de viaje",
+   "Propinas"
+  ]
+ },
+ "delhi-private-spiritual-sites-car-tour-with-lunch": {
+  "title": "Delhi: tour privado en auto por sitios espirituales, con almuerzo y entradas",
+  "metaTitle": "Delhi: sitios espirituales en auto privado",
+  "metaDescription": "Experimente los sitios espirituales de Delhi y el incienso aromático.",
+  "shortDescription": "Experimente los sitios espirituales de Delhi y el incienso aromático.",
+  "fullDescription": "Delhi: tour privado en auto por sitios espirituales, con almuerzo y entradas. Experimente los sitios espirituales de Delhi y el incienso aromático.\n\nDescubra el corazón de Delhi en un tour privado en auto lleno de historia, cultura, y espiritualidad. Comience su viaje en la hermosa Jama Masjid, una de las mezquitas más grandiosas de la ciudad, y disfrute de una vista exterior del histórico Fuerte Rojo. A continuación, explore el animado mercado de Chandni Chowk con un divertido paseo en rickshaw por sus concurridas y coloridas calles, donde experimentará la verdadera energía de la Vieja Delhi.\n\nDespués de un sabroso almuerzo local, visite el tranquilo Gurudwara Bangla Sahib, y el impresionante Templo del Loto, ambos ofreciendo calma y belleza. Pase frente a monumentos famosos como India Gate y la Casa del Presidente, aprendiendo sus historias en el camino. Termine su día en el templo Akshardham, un lugar de increíbles grabados y entorno sereno, creando el final perfecto para su aventura en Delhi.\n\n**Qué incluye**\nRecogida y regreso en cualquier lugar deseado en Delhi/Noida, Gurgaon/Ghaziabad, y Faridabad\nConductor privado con auto con aire acondicionado para las visitas\nGuía turístico con licencia\nPaseo en rickshaw en la Vieja Delhi (si se selecciona esta opción)\nEntrada a monumentos (si se selecciona esta opción)\nAlmuerzo (si se selecciona esta opción)\nHorario e itinerario flexibles según su ritmo y tiempo\nAgua mineral ilimitada\nTodos los gastos del vehículo, tarifas de estacionamiento, e impuestos aplicables\n\n**No incluye**\nGastos personales\nGratificaciones y propinas",
+  "highlights": [
+   "Experimente los sitios espirituales de Delhi y el incienso aromático"
+  ],
+  "included": [
+   "Recogida y regreso en cualquier lugar deseado en Delhi/Noida, Gurgaon/Ghaziabad, y Faridabad",
+   "Conductor privado con auto con aire acondicionado para las visitas",
+   "Guía turístico con licencia",
+   "Paseo en rickshaw en la Vieja Delhi (si se selecciona esta opción)",
+   "Entrada a monumentos (si se selecciona esta opción)",
+   "Almuerzo (si se selecciona esta opción)",
+   "Horario e itinerario flexibles según su ritmo y tiempo",
+   "Agua mineral ilimitada",
+   "Todos los gastos del vehículo, tarifas de estacionamiento, e impuestos aplicables"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Gratificaciones y propinas"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
