@@ -20606,6 +20606,80 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "from-delhi-3-day-private-golden-triangle-tour-tour": {
+  "title": "Desde Delhi: tour privado del Triángulo Dorado de 3 días",
+  "metaTitle": "Delhi: Triángulo Dorado privado de 3 días",
+  "metaDescription": "Explore Delhi, Agra, y Jaipur con un auto privado, un conductor, y guías locales.",
+  "shortDescription": "Explore Delhi, Agra, y Jaipur con un auto privado, un conductor, y guías locales.",
+  "fullDescription": "Desde Delhi: tour privado del Triángulo Dorado de 3 días. Explore Delhi, Agra, y Jaipur con un auto privado, un conductor, y guías locales.\n\nExplore Delhi, Agra, y Jaipur en un tour privado del Triángulo Dorado de 3 días con transporte privado, guías locales expertos, y opciones de hotel flexibles, desde sin hotel hasta estancias de 5 estrellas.\n\n**Qué incluye**\nVehículo privado con aire acondicionado durante todo el recorrido\nConductor privado profesional durante 3 días\nRecogida y regreso al hotel o al aeropuerto\nGuías locales autorizados en Delhi, Agra, y Jaipur\nPaseo en rickshaw en la Vieja Delhi\nAgua embotellada durante el recorrido\nCombustible, peajes, estacionamiento, y gastos del conductor\nTodos los impuestos de transporte aplicables\n2 noches de alojamiento en hotel (si se selecciona la opción de hotel)\nDesayuno diario en el hotel (si se selecciona la opción de hotel)",
+  "highlights": [
+   "Explore Delhi, Agra, y Jaipur con un auto privado, un conductor, y guías locales"
+  ],
+  "included": [
+   "Vehículo privado con aire acondicionado durante todo el recorrido",
+   "Conductor privado profesional durante 3 días",
+   "Recogida y regreso al hotel o al aeropuerto",
+   "Guías locales autorizados en Delhi, Agra, y Jaipur",
+   "Paseo en rickshaw en la Vieja Delhi",
+   "Agua embotellada durante el recorrido",
+   "Combustible, peajes, estacionamiento, y gastos del conductor",
+   "Todos los impuestos de transporte aplicables",
+   "2 noches de alojamiento en hotel (si se selecciona la opción de hotel)",
+   "Desayuno diario en el hotel (si se selecciona la opción de hotel)"
+  ],
+  "notIncluded": [
+   "Bebidas distintas al agua embotellada",
+   "Entradas a monumentos",
+   "Propinas para guías y conductor"
+  ]
+ },
+ "delhi-half-day-private-guided-city-sightseeing": {
+  "title": "Delhi: recorrido privado guiado por la ciudad de medio día",
+  "metaTitle": "Delhi: recorrido privado por la ciudad de medio día",
+  "metaDescription": "Explore Delhi sin complicaciones con transporte privado y un chófer dedicado.",
+  "shortDescription": "Explore Delhi sin complicaciones con transporte privado y un chófer dedicado.",
+  "fullDescription": "Delhi: recorrido privado guiado por la ciudad de medio día. Explore Delhi sin complicaciones con transporte privado y un chófer dedicado.\n\nA las 9:00, o a la hora que prefiera, disfrute de la comodidad de ser recogido en el lugar de su elección en Delhi, Gurugram, o Noida. Explore la capital de la India con estilo y comodidad en un auto privado con aire acondicionado, con un chófer profesional como su guía.\n\nSu aventura comienza con una visita a Agrasen Ki Baoli, un antiguo pozo escalonado que se extiende 60 metros de largo, 15 metros de ancho, y cuenta con 108 escalones adornados con intrincados detalles en piedra, incluyendo imponentes muros arqueados y nichos. A continuación, haremos una parada en India Gate, una puerta monumental de 140 pies de altura que recuerda al Arco de Triunfo. Fue erigida como monumento de guerra para honrar a los 70.000 soldados del ejército británico de la India que sacrificaron sus vidas durante la Primera Guerra Mundial.\n\nTambién pasaremos por Rashtrapati Bhavan, la antigua Casa del Virrey, cuyo tamaño imponente y magnífica arquitectura son verdaderamente impresionantes. Pocas residencias oficiales de líderes mundiales pueden rivalizar con la grandeza de Rashtrapati Bhavan.\n\nNuestra ruta nos llevará por el Parlamento, diseñado por los arquitectos británicos Edwin Lutyens y Herbert Baker, y hogar del Lok Sabha, el Rajya Sabha, y una sala de biblioteca. Es allí donde el gobierno de la democracia más grande del mundo gobierna a una población de 1,3 miles de millones de personas.\n\nSeguirá una visita a la tumba de Humayun, un sitio del Patrimonio Mundial de la UNESCO. Esta tumba-jardín fue encargada por la esposa de Humayun, Hamida Banu Begum, en 1562 d.C., y diseñada por el arquitecto persa Mirak Mirza Ghiyath. Es la primera tumba-jardín de su tipo en el subcontinente indio, y está situada en Nizamuddin East, cerca de la ciudadela de Dina-panah que Humayun estableció en 1533.\n\nPor último, exploraremos el Jardín Lodhi, el santuario más encantador de Delhi. Originalmente nombrado en honor a la esposa del residente británico, Lady Willingdon, el parque fue creado en 1936 al despejar dos aldeas. Ahora cuenta con exuberantes jardines sombreados por árboles, frecuentados por la élite de Delhi, corredores, y parejas, y alberga más de 100 especies de árboles, más de 50 especies de aves y mariposas, y varios cautivadores monumentos mogoles del siglo XV.\n\nDespués de este recorrido memorable, su chófer lo llevará de vuelta a su hotel, dejándole dulces recuerdos de Delhi.\n\n**Qué incluye**\nAuto privado con aire acondicionado\nSi selecciona solo la opción de servicio de guía, el auto no está incluido\nGuía turístico\nRecogida y regreso\nBotella de agua\nPeajes y estacionamiento\n\n**No incluye**\nComida y bebidas\nTarifas de entrada\nPropinas para el conductor y el guía",
+  "highlights": [
+   "Explore Delhi sin complicaciones con transporte privado y un chófer dedicado"
+  ],
+  "included": [
+   "Auto privado con aire acondicionado",
+   "Si selecciona solo la opción de servicio de guía, el auto no está incluido",
+   "Guía turístico",
+   "Recogida y regreso",
+   "Botella de agua",
+   "Peajes y estacionamiento"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Tarifas de entrada",
+   "Propinas para el conductor y el guía"
+  ]
+ },
+ "from-mumbai-3-day-golden-triangle-with-flight-5": {
+  "title": "Desde Mumbai: Triángulo Dorado de 3 días con vuelo y hoteles de 5*",
+  "metaTitle": "Mumbai: Triángulo Dorado de 3 días con vuelo y hoteles de 5*",
+  "metaDescription": "Explore las ciudades emblemáticas de la India: Delhi, Agra, y Jaipur.",
+  "shortDescription": "Explore las ciudades emblemáticas de la India: Delhi, Agra, y Jaipur.",
+  "fullDescription": "Desde Mumbai: Triángulo Dorado de 3 días con vuelo y hoteles de 5*. Explore las ciudades emblemáticas de la India: Delhi, Agra, y Jaipur.\n\nMumbai\nSerá recogido en su hotel o en el lugar deseado en Mumbai, y llevado al aeropuerto, desde donde tomará un vuelo a Delhi. Al llegar a Delhi, nuestro conductor lo recogerá en el aeropuerto, y sus visitas principales comenzarán aquí.\n\n**Día 1: Delhi, capital de la India**\nSu recorrido por el Triángulo Dorado comienza en Delhi, la capital de la India y una bulliciosa metrópolis impregnada de historia. Comience su día visitando el icónico Fuerte Rojo, un sitio del Patrimonio Mundial, y admire su magnífica arquitectura. Explore la Jama Masjid, una de las mezquitas más grandes de la India, y luego dé un paseo en rickshaw por las vibrantes calles de Chandni Chowk, un mercado bullicioso. Visite Raj Ghat, el monumento a Mahatma Gandhi, y Qutub Minar. Descubra la tumba de Humayun, precursora del Taj Mahal y otro sitio del Patrimonio Mundial. Termine su día con una visita a India Gate y un recorrido frente a la Casa del Presidente. Luego, viaje a Agra. Pernocte.\n\n**Día 2: Agra, Taj Mahal, y fuerte de Agra**\nExplore el Taj Mahal, epítome del amor y sitio del Patrimonio Mundial, conocido por su impresionante arquitectura de mármol blanco. Visite el fuerte de Agra, una fortaleza histórica con una mezcla de arquitectura persa y mogol. Después de la visita a Agra, será llevado a Jaipur, luego viaje a Jaipur. Pernocte en Jaipur.\n\n**Día 3: la ciudad rosa de Jaipur**\nVisite el fuerte Amber y luego el Hawa Mahal, un palacio singular con ventanas en forma de panal. Explore el City Palace y sus museos, que muestran el patrimonio real de Rajasthan. Visite el Jantar Mantar, un observatorio astronómico y otro sitio del Patrimonio Mundial. Concluya su día con una parada fotográfica en el Jal Mahal, un palacio en medio del lago Man Sagar. Disfrute de tiempo libre para explorar los coloridos bazares de Jaipur.\n\n**Regreso**\nEl recorrido concluye con las visitas de Jaipur, después de lo cual su conductor lo dejará en el aeropuerto de Delhi; tomará su vuelo y aterrizará en Mumbai, donde su conductor lo esperará en el aeropuerto de Mumbai para llevarlo al lugar deseado en Mumbai.\n\n**Qué incluye**\nVuelos de ida y vuelta desde Mumbai\nRecogida y regreso en Mumbai\n2 noches de alojamiento en un hotel de 3 o 5 estrellas (según la opción elegida)\nAuto privado con aire acondicionado para todo el recorrido\nDesayuno en el hotel\nGuía turístico privado para todos los monumentos en Delhi, Agra, y Jaipur\nEntradas a monumentos en todas las ciudades (si se selecciona esta opción)\nAgua mineral\nTodos los impuestos",
+  "highlights": [
+   "Explore las ciudades emblemáticas de la India: Delhi, Agra, y Jaipur"
+  ],
+  "included": [
+   "Vuelos de ida y vuelta desde Mumbai",
+   "Recogida y regreso en Mumbai",
+   "2 noches de alojamiento en un hotel de 3 o 5 estrellas (según la opción elegida)",
+   "Auto privado con aire acondicionado para todo el recorrido",
+   "Desayuno en el hotel",
+   "Guía turístico privado para todos los monumentos en Delhi, Agra, y Jaipur",
+   "Entradas a monumentos en todas las ciudades (si se selecciona esta opción)",
+   "Agua mineral",
+   "Todos los impuestos"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
