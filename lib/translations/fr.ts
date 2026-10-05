@@ -2554,6 +2554,80 @@ export const FR_TOURS: Record<string, TourT> = {
    "TPS"
   ]
  },
+ "rishikesh-private-2-day-taj-mahal-tour-with": {
+  "title": "Rishikesh : visite privée de 2 jours du Taj Mahal avec hébergement",
+  "metaTitle": "Rishikesh-Taj Mahal : visite privée, 2 jours",
+  "metaDescription": "Assistez aux couleurs changeantes du Taj Mahal alors que le soleil se lève sur la ville.",
+  "shortDescription": "Assistez aux couleurs changeantes du Taj Mahal alors que le soleil se lève sur la ville.",
+  "fullDescription": "Découvrez le Taj Mahal lors de cette visite privée de 2 jours depuis Rishikesh, avec hébergement en hôtel confortable, un guide touristique compétent parlant anglais, et l'exploration des marchés colorés d'Agra. Assistez aux couleurs changeantes du Taj Mahal au lever du soleil et profitez d'une vue sur le coucher de soleil depuis le jardin Mehtab.",
+  "highlights": [
+   "Assistez aux couleurs changeantes du Taj Mahal alors que le soleil se lève sur la ville"
+  ],
+  "included": [
+   "Taxi privé climatisé avec chauffeur professionnel",
+   "Hébergement correct en hôtel",
+   "Guide touristique compétent parlant anglais",
+   "Vue du coucher de soleil sur le Taj Mahal depuis le jardin Mehtab",
+   "Exploration des marchés colorés d'Agra",
+   "Prise en charge et retour à l'hôtel/aéroport/gare"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Billets d'entrée aux monuments",
+   "Repas",
+   "Tarif des billets d'avion/train"
+  ]
+ },
+ "taj-mahal-airport-guided-tour": {
+  "title": "Delhi : visite d'escale aéroport-aéroport, visite de la ville du Taj Mahal en voiture",
+  "metaTitle": "Delhi : escale aéroport, Taj Mahal en voiture",
+  "metaDescription": "Visitez le Taj Mahal au lever du soleil, l'un des monuments les plus connus du monde.",
+  "shortDescription": "Visitez le Taj Mahal au lever du soleil, l'un des monuments les plus connus du monde.",
+  "fullDescription": "Partez pour un voyage extraordinaire avec notre visite méticuleusement conçue de 10 heures du Taj Mahal et du fort d'Agra depuis l'aéroport de Delhi. Dès le moment où nous vous prenons en charge, votre journée se déroulera sans effort. Détendez-vous dans le confort luxueux de notre voiture tandis que nous vous guidons à travers le beau paysage indien.\n\nVotre aventure commence au Taj Mahal intemporel, où vous serez captivé par sa beauté à couper le souffle. Évitez les longues files grâce à nos billets organisés à l'avance et plongez dans l'histoire d'amour derrière ce monument emblématique, capturant sa grandeur sans le tracas habituel.\n\nEnsuite, savourez un délicieux déjeuner dans un restaurant 5 étoiles prestigieux (si l'option est choisie). Profitez d'une cuisine exquise et imprégnez-vous de la riche histoire de l'ère moghole avec des histoires captivantes de nos guides experts.\n\nAprès le déjeuner, explorez le fort historique d'Agra, où ses murs imposants racontent des histoires d'une époque révolue. Évitez les files et plongez plus profondément dans l'histoire et le patrimoine avec nos guides compétents.\n\nAlors que la journée se déroule sans effort, découvrez un mélange parfait de luxe, de patrimoine, et de commodité. Nous vous déposerons à la fin de votre journée mémorable, vous laissant avec des souvenirs durables d'un voyage inoubliable. Réservez votre place maintenant pour transformer votre escale en une aventure enrichissante.",
+  "highlights": [
+   "Visitez le Taj Mahal au lever du soleil, l'un des monuments les plus connus du monde"
+  ],
+  "included": [
+   "Tous les péages, taxes, stationnement, carburant, indemnité du chauffeur",
+   "Prise en charge et retour à l'hôtel",
+   "Guide touristique privé",
+   "Bouteille d'eau offerte",
+   "Transport aller-retour depuis l'aéroport/hôtel de Delhi en véhicule climatisé",
+   "Frais d'entrée aux monuments (si option sélectionnée)",
+   "Déjeuner buffet au restaurant (si option sélectionnée)"
+  ],
+  "notIncluded": [
+   "Toute boisson pendant le déjeuner",
+   "Tout pourboire",
+   "Toute dépense personnelle"
+  ]
+ },
+ "indias-private-luxury-golden-triangle-tour-4-day": {
+  "title": "Visite privée de luxe du Triangle Doré de l'Inde, 4 jours depuis Delhi",
+  "metaTitle": "Triangle Doré de luxe : 4 jours depuis Delhi",
+  "metaDescription": "Visitez le célèbre Taj Mahal au lever du soleil à Agra.",
+  "shortDescription": "Visitez le célèbre Taj Mahal au lever du soleil à Agra.",
+  "fullDescription": "Découvrez le Triangle Doré de l'Inde lors de cette visite privée de luxe de 4 jours depuis Delhi. Visitez le célèbre Taj Mahal au lever du soleil à Agra, explorez le vieux Delhi en rickshaw, et profitez de 3 nuits d'hébergement avec petit-déjeuner, d'un guide touristique privé en direct, et d'un service personnalisé tout au long de votre voyage. Les frais d'entrée aux monuments (environ 65 $) ne sont pas inclus.",
+  "highlights": [
+   "Visitez le célèbre Taj Mahal au lever du soleil à Agra"
+  ],
+  "included": [
+   "Visite privée de 4 jours",
+   "Prise en charge et retour à l'hôtel ou l'aéroport inclus",
+   "Trois nuits d'hébergement avec petit-déjeuner (si option choisie)",
+   "Tous les transferts et visites en voiture privée climatisée avec chauffeur",
+   "Guide touristique privé en direct",
+   "Soin et attention personnalisés",
+   "Trajet en rickshaw à et depuis le vieux Delhi",
+   "Trajet en bus à batterie vers le Taj Mahal",
+   "Bouteilles d'eau minérale"
+  ],
+  "notIncluded": [
+   "Frais d'entrée (environ 65 $)",
+   "Déjeuners et dîners",
+   "Gratifications et pourboires"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
