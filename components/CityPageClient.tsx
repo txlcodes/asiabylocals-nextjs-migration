@@ -3171,10 +3171,19 @@ export default function CityPageClient({ tours: initialTours, city, country, h1,
                         {tour.title}
                       </h3>
 
-                      {/* Duration */}
-                      {tour.duration && (
+                      {/* Duration + a compact facts line (private option /
+                          pickup), the way GYG's own cards read "1-8 hours ·
+                          Private option available · Pickup available" in one
+                          glance instead of making the guest open the page to
+                          find out. hasSkipLine/hasPickup were already being
+                          computed above and never rendered anywhere. */}
+                      {(tour.duration || hasPickup || /private/i.test(tour.title || '')) && (
                         <div className="text-[11px] md:text-[12px] text-gray-500 font-semibold mb-1 md:mb-3">
-                          {formatDurationDisplay(tour.duration)}
+                          {[
+                            tour.duration ? formatDurationDisplay(tour.duration) : null,
+                            /private/i.test(tour.title || '') ? 'Private option available' : null,
+                            hasPickup ? 'Pickup available' : null,
+                          ].filter(Boolean).join(' · ')}
                         </div>
                       )}
 
