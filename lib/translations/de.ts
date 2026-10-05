@@ -2342,6 +2342,76 @@ export const DE_TOURS: Record<string, TourT> = {
    "Kameragebühren: jegliche zusätzliche Kamera- oder Videogebühren an den Tempeln oder Attraktionen"
   ]
  },
+ "mathura-vrindavan-tour-with-nidhivan-temple": {
+  "title": "Mathura-Vrindavan-Tour mit Nidhivan-Tempel, Delhi/Agra",
+  "metaTitle": "Mathura-Vrindavan-Nidhivan: Delhi/Agra",
+  "metaDescription": "Besuchen Sie den Krishna Janmabhoomi Tempel in Mathura.",
+  "shortDescription": "Besuchen Sie den Krishna Janmabhoomi Tempel in Mathura.",
+  "fullDescription": "**06:30 Uhr – Abholung vom Hotel in Agra/Delhi**\nFahren Sie von Ihrem Hotel in Agra/Delhi in einem privaten klimatisierten Fahrzeug ab.\n\n**07:30 Uhr – Ankunft in Mathura**\nKrishna Janmabhoomi Tempel: Erkunden Sie den Geburtsort von Lord Krishna, tauchen Sie in die Geschichte des Tempels ein, und nehmen Sie die spirituelle Atmosphäre auf.\n\n**08:30 Uhr – Vishram Ghat**\nBesuchen Sie dieses heilige Flussufer am Fluss Yamuna, wo Lord Krishna sich nach seinem Triumph über den Dämon Kansa ausgeruht haben soll. Nehmen Sie sich einen Moment, um über die Bedeutung dieser Stätte nachzudenken.\n\n**09:30 Uhr – Fahrt nach Vrindavan**\nVerlassen Sie Mathura in Richtung Vrindavan, nur eine kurze 20-minütige Fahrt entfernt.\n\n**10:00 Uhr – Prem Mandir**\nStaunen Sie über die architektonische Schönheit von Prem Mandir, umgeben von üppigen Gärten und fesselnden Skulpturen, die Geschichten aus Krishnas Leben erzählen.\n\n**11:00 Uhr – Mittagspause (optional)**\nGenießen Sie köstliche lokale vegetarische Küche in einem Restaurant in Vrindavan.\n\n**12:00 Uhr – ISKCON-Tempel**\nBesuchen Sie den ISKCON-Tempel (Sri Krishna-Balaram Mandir), bekannt für seine friedliche Atmosphäre und lebendige spirituelle Stimmung.\n\n**13:00 Uhr – Nidhivan-Tempel**\nErkunden Sie Nidhivan, eine mystische Stätte, die mit den göttlichen Zeitvertreiben von Lord Krishna verbunden ist. Erfahren Sie von Ihrem Guide mehr über seine bezaubernden Legenden.\n\n**14:00 Uhr – Rückreise**\nBeginnen Sie Ihre Rückfahrt nach Agra.\n\n**15:00 Uhr – Abgabe am Hotel in Agra/Delhi**\nBeenden Sie Ihren spirituellen Tagesausflug an Ihrem Hotel in Agra, bereichert durch die heiligen Erfahrungen des Tages.",
+  "highlights": [
+   "Besuchen Sie den Krishna Janmabhoomi Tempel in Mathura"
+  ],
+  "included": [
+   "Abholung und Rückfahrt: bequeme Abholung und Rückfahrt von Ihrem Ort in Agra oder Delhi",
+   "Privater Chauffeur: klimatisiertes Auto mit einem professionellen und höflichen Chauffeur",
+   "Reiseführer: kompetenter und erfahrener privater Reiseführer",
+   "Eintrittsgebühren: alle Eintrittsgebühren für Tempel und Attraktionen im Reiseplan",
+   "Parkgebühren: alle Parkgebühren während der Reise",
+   "Mautgebühren und Kraftstoff: alle Mautgebühren und Kraftstoffkosten enthalten",
+   "Steuern: alle anwendbaren Steuern"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben: jegliche persönliche Ausgaben wie Souvenirs oder zusätzliche Speisen und Getränke, die nicht im Reiseplan erwähnt sind",
+   "Trinkgelder: Trinkgelder für den Chauffeur und Reiseführer",
+   "Mahlzeiten: keine Mahlzeit enthalten",
+   "Kameragebühren: jegliche zusätzliche Kamera- oder Videogebühren an den Tempeln oder Attraktionen"
+  ]
+ },
+ "agra-taj-mahal-sunrise-tour-with-walk-inside-the": {
+  "title": "Agra: Taj Mahal Sonnenaufgangstour mit Spaziergang im Mausoleum",
+  "metaTitle": "Agra: Taj Mahal Sonnenaufgang, Mausoleum",
+  "metaDescription": "Erleben Sie den Taj Mahal bei Sonnenaufgang, perfekt für atemberaubende Fotos ohne Menschenmassen.",
+  "shortDescription": "Erleben Sie den Taj Mahal bei Sonnenaufgang, perfekt für atemberaubende Fotos ohne Menschenmassen.",
+  "fullDescription": "**Abholungserlebnis vor Sonnenaufgang**\nBeginnen Sie Ihre Reise vor Sonnenaufgang mit einer privaten, problemlosen Abholung von Ihrem Hotel, die den perfekten Ton für einen Tag voller Wunder und Entdeckungen in Agra setzt.\n\n**Magischer Taj-Mahal-Sonnenaufgangsmoment**\nSeien Sie unter den Ersten, die die ätherische Schönheit des Taj Mahal bei Sonnenaufgang erleben, wenn das Denkmal in sanftem, goldenem Licht erstrahlt und unvergessliche Fotomöglichkeiten ohne Menschenmassen und eine friedliche Atmosphäre schafft.\n\n**Geführte Mausoleum-Erkundung**\nBetreten Sie das Herz der Geschichte des Taj Mahal mit einem erfahrenen Guide, der die Geheimnisse, Symbolik, und exquisite Handwerkskunst enthüllt, die in den Marmorwänden des Mausoleums verborgen sind.\n\n**Optionales kuratiertes Frühstückserlebnis**\nErweitern Sie Ihre Tour mit einem speziell ausgewählten Frühstück an einem gemütlichen, authentischen lokalen Ort, der einen Geschmack von Agras Aromen bietet, um Ihre kulturelle Reise zu ergänzen.\n\n**Majestätisches Agra-Fort-Erlebnis**\nReisen Sie zurück in der Zeit, während Sie die großen Wälle und Paläste des Agra Fort erkunden, geführt von Geschichten über Mogulkaiser, architektonische Wunder, und historische Schlachten, die Indiens Erbe geformt haben.\n\n**Komfortable Rückfahrt**\nBeenden Sie Ihr intensives Abenteuer mit einer entspannenden Fahrt zurück zu Ihrem Hotel oder bevorzugten Ort, mit bleibenden Erinnerungen und Inspiration für Ihre Reisen.",
+  "highlights": [
+   "Erleben Sie den Taj Mahal bei Sonnenaufgang, perfekt für atemberaubende Fotos ohne Menschenmassen"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel, Flughafen, oder Bahnhof",
+   "Privates klimatisiertes Fahrzeug mit professionellem Fahrer",
+   "Alle Kraftstoff-, Park-, Mautgebühren, und Steuern enthalten, ohne Überraschungen",
+   "Erfahrener Guide zum Teilen reicher Geschichte und Geschichten",
+   "Kostenloses Wasser in Flaschen zur Erfrischung",
+   "Buffet-Frühstück (falls Option gewählt)",
+   "Eintrittstickets für Denkmäler (falls Option gewählt)"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Getränke",
+   "Trinkgelder"
+  ]
+ },
+ "agra-taj-mahal-guided-tour-with-cinematic": {
+  "title": "Agra: geführte Taj Mahal Tour mit kinematografischem Instagram-Shooting",
+  "metaTitle": "Agra: Taj Mahal, kinematografisches Instagram-Shooting",
+  "metaDescription": "Erkunden Sie den ikonischen Taj Mahal mit einem lizenzierten lokalen Guide, der Liebesgeschichten teilt.",
+  "shortDescription": "Erkunden Sie den ikonischen Taj Mahal mit einem lizenzierten lokalen Guide, der Liebesgeschichten teilt.",
+  "fullDescription": "**1. Hotelabholung / Treffpunkt in Agra**\nTreffen Sie Ihren professionellen Guide und Fotografen an Ihrem Hotel oder festgelegten Treffpunkt. Eine kurze Einweisung über das Erlebnis, die besten Fotostellen, und Denkmalrichtlinien wird gegeben.\n\n**2. Ankunft am Taj Mahal**\nGenießen Sie einen nahtlosen Eintritt, während Ihr Guide die faszinierende Liebesgeschichte von Kaiser Shah Jahan und Mumtaz Mahal teilt. Erfahren Sie mehr über Mogul-Architektur, kunstvolle Marmor-Einlegearbeit, und die Symbolik hinter dieser UNESCO-Welterbestätte.\n\n**3. Kinematografisches Instagram-Shooting-Erlebnis**\nMachen Sie atemberaubende, professionell inszenierte Fotos und kurze kinematografische Reels an den malerischsten Winkeln des Taj Mahal:\n\nDer ikonische Hauptportal-Rahmen\nSpiegelungsaufnahmen am langen Wasserkanal\nPorträts auf der Marmorplattform\nGartensymmetrie-Ansichten\nKünstlerische Nahaufnahmen mit architektonischen Details\n\nIhr Fotograf führt Sie mit natürlichen Posen und kreativen Kompositionen für Instagram-taugliche Ergebnisse.\n\n**4. Geführte Erkundung des Mausoleums**\nTreten Sie in das Hauptmausoleum ein, um die zarten Marmorschnitzereien zu bewundern und detaillierte Einblicke in seine Geschichte und Bautechniken zu erfahren.\n\n**6. Ende der Tour**\nNach Abschluss der geführten Tour und des Shootings kehren Sie mit unvergesslichen Erinnerungen und kinematografischen Aufnahmen eines der größten Denkmäler der Welt zu Ihrem Hotel zurück.",
+  "highlights": [
+   "Erkunden Sie den ikonischen Taj Mahal mit einem lizenzierten lokalen Guide, der Liebesgeschichten teilt"
+  ],
+  "included": [
+   "Hotel-/Flughafenabholung und Rückfahrt",
+   "Privates klimatisiertes Auto für den Transfer mit Fahrer",
+   "Von der Regierung zugelassener erfahrener Reiseführer und Fotograf",
+   "Eintrittstickets für Denkmäler (falls Option ausgewählt)",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parken"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
