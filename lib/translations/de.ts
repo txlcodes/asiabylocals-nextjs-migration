@@ -337,6 +337,73 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alles, was nicht unter den Einschlüssen genannt ist"
   ]
  },
+ "agra-taj-mahal-entry-ticket-with-express-access": {
+  "title": "Agra: Taj Mahal Eintrittskarte mit Express-Zugang",
+  "metaTitle": "Agra: Taj Mahal Ticket mit Express-Zugang",
+  "metaDescription": "Buchen Sie Ihr Taj Mahal Eintrittsticket im Voraus.",
+  "shortDescription": "Buchen Sie Ihr Taj Mahal Eintrittsticket im Voraus.",
+  "fullDescription": "Erleben Sie den Taj Mahal, ohne wertvolle Zeit mit der Organisation Ihrer Eintrittskarte zu verschwenden. Buchen Sie Ihr Taj Mahal Eintrittsticket im Voraus und verbringen Sie mehr Zeit damit, eines der berühmtesten Denkmäler Indiens zu erleben.\n\nDer Taj Mahal liegt in Agra und ist eine UNESCO-Welterbestätte sowie eines der gefeiertsten architektonischen Meisterwerke der Welt. Erbaut vom Mogulkaiser Shah Jahan zum Gedenken an Mumtaz Mahal, ist das Denkmal bekannt für seine weiße Marmorarchitektur, kunstvolle Einlegearbeiten, symmetrische Gärten, und atemberaubende Schönheit.\n\nMit Ihrem im Voraus organisierten Taj Mahal Eintrittsticket kommen Sie zum Denkmal und durchlaufen die erforderlichen Sicherheitskontrollen, bevor Sie Ihren Besuch beginnen. Erkunden Sie den Taj Mahal Komplex in Ihrem eigenen Tempo, bewundern Sie das Hauptmausoleum, spazieren Sie durch die Mogulgärten, und nehmen Sie sich Zeit für Fotos.\n\nDiese Erfahrung ist vor allem für Reisende gedacht, die Taj Mahal Tickets ohne Buchung einer vollständigen Besichtigungstour wünschen. Sie können die Basis-Ticket-Option wählen, wenn Sie lieber unabhängig erkunden möchten.\n\nBenötigen Sie mehr Unterstützung? Erweitern Sie Ihre Buchung um einen professionellen lokalen Guide, der Ihnen die Geschichte, Architektur, Mogul-Traditionen, und Geschichten hinter dem Taj Mahal erklären kann. Sie können auch eine Option mit privatem Transport von Ihrem Hotel in Agra wählen für ein bequemeres Erlebnis.\n\nEgal, ob Sie Agra zum ersten Mal besuchen oder einfach nur eine bequeme Möglichkeit suchen, Ihr Taj Mahal Ticket zu organisieren, dieses flexible Erlebnis lässt Sie genau wählen, wie viel Unterstützung Sie benötigen.",
+  "highlights": [
+   "Buchen Sie Ihr Taj Mahal Eintrittsticket im Voraus"
+  ],
+  "included": [
+   "Taj Mahal Eintrittsticket",
+   "Im Voraus organisiertes Eintrittsticket",
+   "Mineralwasser",
+   "Überschuhe",
+   "Lokaler Guide nur wenn ausgewählt",
+   "Privater Transport nur wenn ausgewählt"
+  ],
+  "notIncluded": [
+   "Guide, sofern nicht ausgewählt",
+   "Transport, sofern nicht ausgewählt",
+   "Essen und Getränke",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "from-bangalore-taj-mahal-agra-day-trip-with-5": {
+  "title": "Ab Bangalore: Tagesausflug zum Taj Mahal, Agra mit 5-Sterne-Hotelaufenthalt",
+  "metaTitle": "Bangalore-Agra: Taj Mahal Tagesausflug mit 5-Sterne-Hotel",
+  "metaDescription": "Erleben Sie den Taj Mahal bei Sonnenaufgang auf einer privaten Reise ab Bangalore.",
+  "shortDescription": "Erleben Sie den Taj Mahal bei Sonnenaufgang auf einer privaten Reise ab Bangalore.",
+  "fullDescription": "Erleben Sie den ikonischen Taj Mahal auf einer unvergesslichen privaten Reise von Bangalore nach Agra, die bequemes Reisen, geführte Besichtigungen, und einen entspannenden Aufenthalt in einem luxuriösen 5-Sterne-Hotel verbindet.\n\nIhr Erlebnis beginnt mit der Abholung von Ihrem Hotel oder bevorzugten Ort in Bangalore und dem Transfer zum Flughafen für Ihren Flug nach Agra. Bei der Ankunft treffen Sie Ihren privaten Fahrer und professionellen Guide und beginnen Ihr Agra-Abenteuer.\n\nBesuchen Sie das prächtige Agra Fort, eine UNESCO-Welterbestätte, und erkunden Sie seine großen Paläste, Höfe, und historische Mogul-Architektur. Fahren Sie weiter zum Itmad-ud-Daulah, allgemein bekannt als Baby Taj, bewundert für seine kunstvolle Marmorarbeit und schöne Verarbeitung.\n\nNach der Besichtigung checken Sie in Ihrem luxuriösen 5-Sterne-Hotel ein und genießen Zeit zum Entspannen in Komfort.\n\nAm nächsten Morgen stehen Sie früh auf für einen magischen Sonnenaufgangsbesuch am Taj Mahal. Erkunden Sie dieses weltberühmte Denkmal mit Ihrem Guide und erfahren Sie mehr über seine faszinierende Geschichte, Architektur, und die Geschichte hinter seiner Entstehung. Nehmen Sie sich Zeit, das Denkmal zu bewundern und unvergessliche Fotos zu machen.\n\nNach Ihrem Taj Mahal Besuch kehren Sie zu Ihrem Hotel zurück für das Frühstück und etwas Freizeit vor dem Check-out. Je nach gewählter Option und Zeitplan genießen Sie Freizeit zum lokalen Einkaufen oder für Erfrischungen vor Ihrem Transfer zum Flughafen.\n\nSchließlich reisen Sie zurück nach Bangalore und schließen Ihr unvergessliches Taj Mahal Erlebnis mit dem Komfort einer privaten Tour und einem luxuriösen 5-Sterne-Aufenthalt ab.",
+  "highlights": [
+   "Erleben Sie den Taj Mahal bei Sonnenaufgang auf einer privaten Reise ab Bangalore"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug",
+   "Professioneller Fahrer",
+   "Eintrittstickets für Denkmäler",
+   "Erfahrener lokaler Guide in Agra",
+   "Besichtigung von Agra laut Reiseplan",
+   "Flugtickets",
+   "5-Sterne- und 4-Sterne-Hotel (falls Option ausgewählt)",
+   "Frühstück im Hotel",
+   "Mittagessen während der Agra-Besichtigung",
+   "Alle anwendbaren Steuern, Parken, und Mautgebühren"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "agra-taj-mahal-full-moon-night-tour-with-hotel": {
+  "title": "Agra: Taj Mahal Vollmond-Nachttour mit Hotelabholung",
+  "metaTitle": "Agra: Taj Mahal Vollmond, Nachttour",
+  "metaDescription": "Erleben Sie den Taj Mahal im Vollmondlicht auf einer Nachttour in kleiner Gruppe.",
+  "shortDescription": "Erleben Sie den Taj Mahal im Vollmondlicht auf einer Nachttour in kleiner Gruppe.",
+  "fullDescription": "Erleben Sie den Taj Mahal im Vollmondlicht mit dieser exklusiven Nachttour in kleiner Gruppe. Weithin als eines der romantischsten und unvergesslichsten Anblicke der Welt angesehen, bietet der Blick auf das elfenbeinweiße Marmormausoleum im Mondlicht eine ruhige Atmosphäre, weit entfernt vom geschäftigen Trubel am Tag. Nur fünf Nächte pro Monat um den Vollmond herum verfügbar, ist diese seltene nächtliche Besichtigung ein Muss für jeden Indien-Reisenden.\n\nIhre nächtliche Reise beginnt mit einer problemlosen privaten Abholung von Ihrem Hotel in Agra. Ihr erfahrener lokaler Guide hilft Ihnen durch die obligatorischen Sicherheitskontrollen und den Ticketabwicklungsprozess und sorgt für einen reibungslosen Eintritt in den Denkmalkomplex. Einmal drinnen, staunen Sie darüber, wie das Mondlicht einen sanften, perlmuttartigen Schimmer über die kunstvollen Marmor-Einlegearbeiten und Spiegelteiche des Taj Mahal wirft.\n\nIhr Guide wird fesselnde historische Legenden über Kaiser Shah Jahan, Mumtaz Mahal, und die architektonische Brillanz dieser UNESCO-Welterbestätte unter dem Sternenhimmel teilen. Nachdem Sie den faszinierenden nächtlichen Anblick genossen und Fotos von der vorgesehenen Aussichtsplattform gemacht haben, endet Ihr Erlebnis mit einer süßen lokalen Note. Genießen Sie eine kostenlose Verkostung von Agras weltberühmtem Petha (eine traditionelle süße Spezialität).",
+  "highlights": [
+   "Erleben Sie den Taj Mahal im Vollmondlicht auf einer Nachttour in kleiner Gruppe"
+  ],
+  "included": [
+   "Private Abholung vom Hotel in Agra",
+   "Erfahrener lokaler Guide",
+   "Eintritt zum Denkmalkomplex",
+   "Verkostung von Agras Petha"
+  ],
+  "notIncluded": []
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
