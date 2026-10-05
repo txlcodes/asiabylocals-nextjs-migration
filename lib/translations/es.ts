@@ -2048,6 +2048,82 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas y gratificaciones"
   ]
  },
+ "3-day-golden-triangle-getaway-from-goa-by-flight": {
+  "title": "3 días: escapada al Triángulo Dorado desde Goa en avión",
+  "metaTitle": "Goa: escapada al Triángulo Dorado, 3 días",
+  "metaDescription": "Ofrecemos soporte al cliente 24/7.",
+  "shortDescription": "Ofrecemos soporte al cliente 24/7.",
+  "fullDescription": " Ofrecemos soporte al cliente 24/7.\n\n**Día 1: llegada a Delhi, exploración de los monumentos de Delhi, trayecto hacia Agra**\n\nMañana: debe llegar al aeropuerto de Goa para tomar su vuelo matutino, sus tarjetas de embarque le serán enviadas por correo electrónico con el check-in en línea realizado. Llegada al Aeropuerto de Delhi, donde un representante de Taj Explorer lo recibirá. Comience su tour con un vehículo cómodo.\n\n**Avistamiento de Delhi:**\nQutub Minar: descubra la grandeza de este Sitio del Patrimonio Mundial de la UNESCO, testimonio de la historia medieval de Delhi.\nTumba de Humayun: admire la impresionante arquitectura del lugar de descanso del emperador mogol.\nIndia Gate: tome fotos en este icónico monumento a los caídos.\nParliament House y Rashtrapati Bhavan: pase por estos grandiosos edificios de la era colonial.\nTemplo del Loto: visite esta serena Casa de Adoración Bahá'í (cerrada los lunes).\n\nNoche: trayecto hacia Agra (aproximadamente 4 horas). Regístrese en su hotel y relájese. Noche en Agra.\n\n**Día 2: avistamiento de Agra, trayecto hacia Jaipur**\n\nMañana: comience su día con el desayuno en el hotel.\n\n**Avistamiento de Agra:**\nTaj Mahal: sea testigo de la impresionante belleza del Taj Mahal al amanecer, símbolo del amor eterno.\nFuerte de Agra: explore la majestuosa fortaleza de arenisca roja que sirvió como residencia de los emperadores mogoles.\nItimad-ud-Daulah (Baby Taj): visite esta exquisita tumba, a menudo considerada un boceto del Taj Mahal.\n\nTarde: trayecto hacia Jaipur (aproximadamente 5 horas).\nNoche: llegada a Jaipur y registro en su hotel. Pase la noche a su propio ritmo. Noche en Jaipur.\n\n**Día 3: avistamiento de Jaipur, regreso a Delhi, vuelo a Goa**\n\nMañana: disfrute del desayuno en el hotel y comience su exploración de Jaipur.\n\n**Avistamiento de Jaipur:**\nFuerte Amber: suba a este majestuoso fuerte y explore sus palacios y patios.\nCity Palace: admire la mezcla de arquitectura rajastaní y mogol en esta residencia real.\nJantar Mantar: descubra este Sitio del Patrimonio Mundial de la UNESCO, un observatorio astronómico.\nHawa Mahal (Palacio de los Vientos): pare para fotos en este icónico monumento.\n\nTarde: regreso a Delhi (aproximadamente 5 a 6 horas).\nNoche: a su llegada al Aeropuerto de Delhi, se le entregarán los boletos de regreso y tomará su vuelo de regreso a Goa. Nuestros servicios terminan aquí. A su llegada a Goa, regrese a su hotel/casa.",
+  "highlights": [
+   "Ofrecemos soporte al cliente 24/7"
+  ],
+  "included": [
+   "Alojamiento: 2 noches en hoteles de 4 estrellas (solo con la opción de tour)",
+   "Comidas: desayuno diario en el hotel (solo con la opción de tour)",
+   "Transporte: vehículo con aire acondicionado para todos los traslados y avistamientos",
+   "Tours guiados: guías locales de habla inglesa para los principales avistamientos",
+   "Tarifas de entrada: tarifas de entrada a monumentos y atracciones (solo con la opción de tour)",
+   "Boletos de avión de ida y vuelta (solo con la opción de tour)",
+   "Todos los impuestos y cargos de servicio aplicables",
+   "Asistencia durante todo el tour 24/7",
+   "Se proporcionará botella de agua durante el viaje",
+   "WiFi a bordo"
+  ],
+  "notIncluded": [
+   "Gastos personales: cualquier gasto personal como propinas, recuerdos, comidas o bebidas adicionales, y compras",
+   "Actividades opcionales",
+   "Propinas para el guía, conductor, o personal del hotel",
+   "Recogida y traslado desde el Aeropuerto de Goa (podemos ayudar si es necesario)",
+   "Comidas: almuerzo y cena"
+  ]
+ },
+ "from-delhi-spiritual-mathura-and-vrindavan-tour": {
+  "title": "Desde Delhi: tour espiritual de Mathura y Vrindavan en auto",
+  "metaTitle": "Delhi: Mathura y Vrindavan, tour espiritual",
+  "metaDescription": "Cómodo viaje de ida y vuelta en el mismo día desde Delhi en un auto privado con aire acondicionado y conductor.",
+  "shortDescription": "Cómodo viaje de ida y vuelta en el mismo día desde Delhi en un auto privado con aire acondicionado y conductor.",
+  "fullDescription": "**1. Salida desde Delhi**\nComience su viaje espiritual con una cómoda recogida en su hotel, aeropuerto, o lugar preferido en Delhi. Viaje en auto privado con aire acondicionado mientras se dirige hacia Mathura, el sagrado lugar de nacimiento del Señor Krishna.\n\n**2. Explore la sagrada Mathura**\nA su llegada a Mathura, visite el Templo Shri Krishna Janmabhoomi, el sitio más venerado asociado con el nacimiento del Señor Krishna. Dedique tiempo a absorber el ambiente devocional antes de dirigirse a Vishram Ghat, donde se cree que el Señor Krishna descansó después de derrotar a Kansa. Disfrute de una breve caminata por los ghats y sea testigo de los rituales locales junto al río Yamuna.\n\n**3. Trayecto hacia Vrindavan**\nContinúe su viaje hacia Vrindavan, la ciudad donde el Señor Krishna pasó su infancia. En el camino, su conductor o guía compartirá información sobre las leyendas y la importancia espiritual de la región.\n\n**4. Templos de Vrindavan**\nVisite el icónico Templo Banke Bihari, conocido por su animado darshan y profunda devoción. Más tarde, explore el sereno Templo ISKCON, famoso por su hermosa arquitectura y cantos pacíficos. También puede parar en Prem Mandir, un gran templo de mármol que representa escenas de la vida de Krishna.\n\n**5. Pausa para el almuerzo**\nDisfrute del almuerzo en un restaurante local o según su preferencia (opcional), probando la cocina vegetariana tradicional de la región.\n\n**6. Caminata espiritual y regreso**\nPase algo de tiempo libre caminando por los estrechos callejones de Vrindavan, llenos de templos, ashrams, y tiendas devocionales. Por la noche, comience su viaje de regreso a Delhi, reflexionando sobre un día lleno de fe y energía espiritual.\n\n**7. Llegada a Delhi**\nLlegue a Delhi y sea dejado en su hotel o lugar elegido, concluyendo su espiritualmente enriquecedor tour de Mathura y Vrindavan en auto.",
+  "highlights": [
+   "Cómodo viaje de ida y vuelta en el mismo día desde Delhi en un auto privado con aire acondicionado y conductor"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto",
+   "Auto privado con aire acondicionado para toda la actividad del tour con conductor",
+   "Guía turístico experto aprobado por el gobierno",
+   "Almuerzo en restaurante (si se selecciona la opción)",
+   "Botella de agua mineral",
+   "Todos los peajes y estacionamiento"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
+  ]
+ },
+ "from-mathura-same-day-spiritual-tour-mathura": {
+  "title": "Desde Mathura: tour espiritual en el mismo día, Mathura y Vrindavan",
+  "metaTitle": "Mathura-Vrindavan: tour espiritual en el mismo día",
+  "metaDescription": "Explore el lugar de nacimiento del Señor Krishna en el Templo Shri Krishna Janmabhoomi.",
+  "shortDescription": "Explore el lugar de nacimiento del Señor Krishna en el Templo Shri Krishna Janmabhoomi.",
+  "fullDescription": "El tour espiritual en el mismo día a Mathura y Vrindavan es una excursión privada de un día organizada sin problemas, diseñada para sumergirlo en el lugar de nacimiento y el hogar de la infancia del Señor Krishna. Evitando el estrés del transporte público local, esta excursión de 10 a 12 horas incluye traslados de puerta a puerta en un vehículo privado con aire acondicionado con un chófer profesional y un guía local experto.\n\nComience su día temprano y diríjase a Mathura. Visite el Templo Shri Krishna Janmabhoomi, considerado el lugar de nacimiento del Señor Krishna. Admire los intrincados tallados y sumérjase en el ambiente espiritual.\n\nA continuación, visite el Templo Dwarkadhish, conocido por su impresionante arquitectura y decoraciones vibrantes. Asista a la aarti matutina si es posible. Si el tiempo lo permite, visite la Colina Govardhan, donde se dice que Krishna levantó la colina para proteger a sus devotos.\n\nDespués, dirígase a Vrindavan y disfrute de una comida tradicional en un restaurante local. Visite el Templo Banke Bihari, uno de los templos más famosos de Vrindavan, dedicado al Señor Krishna. El templo tiene una tradición única de no permitir a los devotos tener darshan (vista) por largos períodos; la deidad se revela en vistazos.\n\nA continuación, visite el Templo ISKCON, también conocido como Krishna Balaram Mandir, un sereno templo que es favorito entre devotos y turistas internacionales. Participe en el kirtan (canto devocional).\n\nVisite Prem Mandir, un templo relativamente más nuevo, conocido por su impresionante arquitectura y su exhibición iluminada durante la noche. El templo narra la vida de Krishna a través de tallados y dioramas.\n\nConcluya su viaje asistiendo a la encantadora Yamuna Aarti cerca de Keshi Ghat. Sea testigo de los devotos ofreciendo oraciones con lámparas y flores. Explore los bazares en busca de artesanía, artículos religiosos, y el famoso peda de Mathura (un dulce tradicional).",
+  "highlights": [
+   "Explore el lugar de nacimiento del Señor Krishna en el Templo Shri Krishna Janmabhoomi"
+  ],
+  "included": [
+   "Los siguientes detalles dependen de las opciones, por favor revise y verifique",
+   "Guía",
+   "Auto con aire acondicionado",
+   "Desayuno en un restaurante local (si se elige la opción)",
+   "Visita al Templo Shri Krishna Janmabhoomi",
+   "Visita al Templo Dwarkadhish",
+   "Visita al Templo Banke Bihari",
+   "Visita al Templo ISKCON",
+   "Visita a Prem Mandir",
+   "Experiencia de la Yamuna Aarti",
+   "Oportunidad de compras locales"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
