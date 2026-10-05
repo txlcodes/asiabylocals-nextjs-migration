@@ -23142,6 +23142,81 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alles, was nicht in den Einschlüssen erwähnt wird"
   ]
  },
+ "rajasthan-tour-cultural-private-tour-by-ac-car": {
+  "title": "Rajasthan-Tour: kulturelle private Tour im klimatisierten Auto mit Guide",
+  "metaTitle": "Rajasthan: private kulturelle Autotour",
+  "metaDescription": "Entdecken Sie das königliche Rajasthan mit englischsprachigem Fahrer und zertifiziertem örtlichem Guide.",
+  "shortDescription": "Entdecken Sie das königliche Rajasthan mit englischsprachigem Fahrer und zertifiziertem örtlichem Guide.",
+  "fullDescription": "Rajasthan-Tour: kulturelle private Tour im klimatisierten Auto mit Guide. Entdecken Sie das königliche Rajasthan mit englischsprachigem Fahrer und zertifiziertem örtlichem Guide.\n\nEntdecken Sie den königlichen Charme Rajasthans auf einer 6- oder 8-tägigen privaten Luxustour mit dem Auto, mit professionellem Fahrer und Guide. Erkunden Sie die majestätischen Festungen, großartigen Paläste, wunderschönen Seen, und lebendigen Märkte von Jaipur, Udaipur, Jodhpur, Jaisalmer, und Pushkar. Reisen Sie bequem in einem klimatisierten Auto mit einem engagierten Fahrer, und genießen Sie eine personalisierte, reibungslose Reise durch Rajasthans reiche Geschichte und Kultur.\n\n**6-tägige Rajasthan-Tour mit dem Auto und professionellem Guide**\n\nTag 1: Ankunft in Jaipur. Abholung vom Hotel/Flughafen, abendlicher Besuch von Chokhi Dhani oder örtlichen Fabriken für Edelsteine, Schmuck, Textilien, und Kunsthandwerks-Shopping. Übernachtung in Jaipur.\n\nTag 2: Besichtigung von Jaipur. Besuchen Sie: den Hawa Mahal, das Amber-Fort, Panna Meena ka Kund (Stufenbrunnen), den Jal Mahal, den City Palace, das Jantar Mantar, und farbenfrohe örtliche Märkte. Ruhige Nacht in Jaipur.\n\nTag 3: Jaipur - Pushkar - Jodhpur. Besuchen Sie: den Brahma-Tempel, und den heiligen Pushkar-See, erkunden Sie den örtlichen Markt, und fahren Sie dann weiter nach Jodhpur. Übernachtung in Jodhpur.\n\nTag 4: Jodhpur - Ranakpur - Udaipur. Erkunden Sie das Mehrangarh-Fort, Jaswant Thada, und den Mandore-Garten. Fahrt nach Udaipur über die Jain-Tempel von Ranakpur. Übernachtung in Udaipur.\n\nTag 5: Besichtigung von Udaipur. Besuchen Sie den City Palace, den Jagdish-Tempel, den Fateh-Sagar-See, und den Saheliyon Ki Bari.\n\nTag 6: Abreise. Transfer zum Flughafen Udaipur, Bahnhof, oder Hotel, oder Rückkehr nach Jaipur im privaten Auto.\n\n**8-tägige Rajasthan-Tour mit dem Auto und professionellem Guide**\n\nTag 1: Ankunft in Jaipur. Bei Ihrer Ankunft in Jaipur begrüßt Sie Ihr Fahrer am Flughafen/Bahnhof Jaipur, und bringt Sie zu Ihrem Hotel. Abendlicher Besuch von Chokhi Dhani, dem traditionellen ethnischen Dorf. Übernachtung in Jaipur.\n\nTag 2: Besichtigung von Jaipur. Nach dem Frühstück besuchen Sie die Sehenswürdigkeiten der Stadt, einschließlich des Amber-Forts mit Panna Meena ka Kund. Fühlen Sie sich wie ein Maharadscha. Später besuchen Sie den Hawa Mahal, den Jal Mahal, den City Palace, das Jantar Mantar, die Gaitore ki Chatriyan, und farbenfrohe Märkte. Übernachtung in Jaipur.\n\nTag 3: Fahrt nach Pushkar, Besuch des Brahma-Tempels und des heiligen Sees, weiter nach Jaisalmer.\n\nTag 4: Jaisalmer. Nach dem Frühstück Fahrt zur Besichtigung des Forts, der Jain-Tempel, Havelis, und des Gadhisar-Sees. Am Nachmittag Besuch der Lodurva-Jain-Tempel, und Fahrt zu den Sam-Sanddünen zum Sonnenuntergangspunkt. Übernachtung in Jaisalmer.\n\nTag 5: Jaisalmer - Jodhpur. Nach dem Frühstück Fahrt nach Jodhpur, unterwegs Besuch der Tempel von Osian. Ankunft in Jodhpur am Nachmittag. Besuchen Sie das Mehrangarh-Fort, Jaswant Thada, und den Mandore-Garten. Übernachtung in Jodhpur.\n\nTag 6: Jodhpur - Udaipur. Nach dem Frühstück Fahrt nach Udaipur. Unterwegs Halt im Hotel Shilpi in Ranakpur zum Mittagessen, und Besuch des Jain-Tempels. Ankunft in Udaipur. Übernachtung in Udaipur.\n\nTag 7: Udaipur. Nach dem Frühstück Fahrt zum City Palace, dem Jagdish-Tempel, dem Maharana-Pratap-Denkmal, und dem Fateh-Sagar-See. Rückkehr zum Hotel zum Mittagessen. Nach dem Mittagessen Besuch des Sahelion Ki Bari und des Lok Kala Mandal, sowie Ausflug nach Haldighati, Nathdwara, und Eklingji. Übernachtung in Udaipur.\n\nTag 8: Abreise. Abreise zum Flughafen Udaipur, Bahnhof, Busbahnhof, oder Rückkehr nach Jaipur.\nEnde der Tour.\n\n**Was ist enthalten**\nAbholungs- und Rückfahrtservice vom Hotel, Flughafen, oder Bahnhof\nPrivates klimatisiertes Fahrzeug mit Chauffeur für Besichtigungen\nTreibstoff, Parkgebühren, Mautgebühren, und zwischenstaatliche Steuern\nEin professioneller Guide zur Unterstützung während der Tour\nWasser in Flaschen für die Gäste\n4-Sterne-Heritage-Hotelunterkunft (optional)\nAlle staatlichen Steuern, einschließlich der Waren- und Dienstleistungssteuer (GST)\n\n**Nicht enthalten**\nMahlzeitenkosten, die nicht vom Paket abgedeckt werden\nPersönliche Ausgaben, wie Einkäufe oder zusätzliche Aktivitäten, die nicht im Reiseplan enthalten sind\nEintrittsgebühren an jedem Ort, die nicht im Paket enthalten sind, und separat bezahlt werden müssen\nTrinkgelder",
+  "highlights": [
+   "Entdecken Sie das königliche Rajasthan mit englischsprachigem Fahrer und zertifiziertem örtlichem Guide"
+  ],
+  "included": [
+   "Abholungs- und Rückfahrtservice vom Hotel, Flughafen, oder Bahnhof",
+   "Privates klimatisiertes Fahrzeug mit Chauffeur für Besichtigungen",
+   "Treibstoff, Parkgebühren, Mautgebühren, und zwischenstaatliche Steuern",
+   "Ein professioneller Guide zur Unterstützung während der Tour",
+   "Wasser in Flaschen für die Gäste",
+   "4-Sterne-Heritage-Hotelunterkunft (optional)",
+   "Alle staatlichen Steuern, einschließlich der Waren- und Dienstleistungssteuer (GST)"
+  ],
+  "notIncluded": [
+   "Mahlzeitenkosten, die nicht vom Paket abgedeckt werden",
+   "Persönliche Ausgaben, wie Einkäufe oder zusätzliche Aktivitäten, die nicht im Reiseplan enthalten sind",
+   "Eintrittsgebühren an jedem Ort, die nicht im Paket enthalten sind, und separat bezahlt werden müssen",
+   "Trinkgelder"
+  ]
+ },
+ "delhi-half-day-guided-tour-humayuns-tomb": {
+  "title": "Delhi: geführte Halbtagestour zu Humayuns Grabmal und dem Safdarjung-Grabmal",
+  "metaTitle": "Delhi: Humayuns und Safdarjungs Grabmal, halber Tag",
+  "metaDescription": "Erkunden Sie Humayuns Grabmal, eine UNESCO-Weltkulturerbestätte, auf einer geführten Halbtagestour.",
+  "shortDescription": "Erkunden Sie Humayuns Grabmal, eine UNESCO-Weltkulturerbestätte, auf einer geführten Halbtagestour.",
+  "fullDescription": "Delhi: geführte Halbtagestour zu Humayuns Grabmal und dem Safdarjung-Grabmal. Erkunden Sie Humayuns Grabmal, eine UNESCO-Weltkulturerbestätte, auf einer geführten Halbtagestour.\n\nErkunden Sie Delhis Mogul-Pracht mit unserer geführten Halbtagestour zu Humayuns Grabmal und dem Safdarjung-Grabmal. Diese Tour beinhaltet eine bequeme Abholung und Rückfahrt zum Hotel in Delhi, zusammen mit einem freundlichen englischsprachigen Guide, der Sie durch zwei der ikonischsten Denkmäler der Mogul-Ära führt.\n\nHumayuns Grabmal, eine UNESCO-Weltkulturerbestätte, ist bekannt für sein kunstvolles Mogul-Design, üppige Gärten, und seine Rolle als architektonischer Vorläufer des Taj Mahal.\n\nDas Safdarjung-Grabmal, oft als versteckter Schatz bezeichnet, zeigt die Eleganz der späten Mogul-Architektur. Bewundern Sie seine symmetrische Schönheit, umgeben von ruhigen Gärten, während Ihr Guide Geschichten über Safdarjung teilt, einen bedeutenden Mogul-Staatsmann.\n\nNach Ihrer Erkundung entspannen Sie sich bei einer bequemen Rückfahrt zu Ihrem Hotel, bereichert mit einer tieferen Wertschätzung für Delhis Mogul-Erbe.\n\n**Was ist enthalten**\nPrivater Transport\nEintrittsgebühren zu Denkmälern\nAbholung und Rückfahrt zum Hotel\nEnglischsprachiger Guide\nWasser in Flaschen und leichte Snacks\n\n**Nicht enthalten**\nPersönliche Ausgaben\nKameragebühren\nFrühstück und Mittagessen",
+  "highlights": [
+   "Erkunden Sie Humayuns Grabmal, eine UNESCO-Weltkulturerbestätte, auf einer geführten Halbtagestour"
+  ],
+  "included": [
+   "Privater Transport",
+   "Eintrittsgebühren zu Denkmälern",
+   "Abholung und Rückfahrt zum Hotel",
+   "Englischsprachiger Guide",
+   "Wasser in Flaschen und leichte Snacks"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Kameragebühren",
+   "Frühstück und Mittagessen"
+  ]
+ },
+ "2-day-agra-and-ranthambore-tour-from-delhi": {
+  "title": "2-tägige Tour nach Agra und Ranthambore ab Delhi",
+  "metaTitle": "Delhi: Agra und Ranthambore, 2 Tage",
+  "metaDescription": "Wir bieten rund um die Uhr Kundensupport, 24 Stunden am Tag, 7 Tage die Woche.",
+  "shortDescription": "Wir bieten rund um die Uhr Kundensupport, 24 Stunden am Tag, 7 Tage die Woche.",
+  "fullDescription": "2-tägige Tour nach Agra und Ranthambore ab Delhi. Wir bieten rund um die Uhr Kundensupport, 24 Stunden am Tag, 7 Tage die Woche.\n\n**Tag 1: Delhi nach Agra (Besichtigung von Agra)**\nFrüh morgens: Abfahrt von Delhi mit dem Auto nach Agra (etwa 3 bis 4 Stunden, 230 km).\nSpäter Vormittag: Ankunft in Agra, und Beginn Ihrer Besichtigung:\nTaj Mahal: Erkunden Sie das ikonische Symbol der Liebe, und eines der Sieben Weltwunder.\nAgra-Fort: Besuchen Sie diese UNESCO-Weltkulturerbestätte, ein massives Fort mit wunderschönen Palästen, und atemberaubenden Ausblicken auf das Taj Mahal.\nNachmittag: Erkunden Sie die örtlichen Märkte für Souvenirs und Kunsthandwerk.\nSpäter Nachmittag: Abfahrt nach Ranthambore (etwa 5 bis 6 Stunden, 270 km).\nAbend: Ankunft in Ranthambore, und Check-in im Hotel.\nNacht: Aufenthalt in Ranthambore.\n\n**Tag 2: Ranthambore-Safari, und Rückkehr nach Delhi**\nFrüh morgens: Aufbruch zu einer frühen Dschungel-Safari im Ranthambore-Nationalpark, bekannt für seine Population von Bengal-Tigern und anderer Tierwelt.\nSpäter Vormittag: Nach der Safari erkunden Sie das nahegelegene Ranthambore-Fort, eine UNESCO-Weltkulturerbestätte mit Panoramablicken über den Park.\nNachmittag: Nach dem Mittagessen (auf eigene Kosten) beginnt die Rückreise nach Delhi (etwa 6 bis 7 Stunden, 400 km).\nNacht: Ankunft in Delhi, und Abschluss Ihrer 2-tägigen Tour.\n\n**Was ist enthalten**\nUnterkunft: 1 Nacht in 4-Sterne-Hotels (nur mit Tour-Option)\nMahlzeiten: tägliches Frühstück im Hotel (nur mit Tour-Option)\nTransport: klimatisiertes Fahrzeug für alle Transfers und Besichtigungen\nGeführte Touren: örtliche englischsprachige Guides für die wichtigsten Besichtigungen\nEintrittsgebühren: Eintrittsgebühren für Denkmäler und Safari-Ticket (nur mit Tour-Option, falls Option gewählt wird)\nTiger-Safaris in geteiltem Jeep/Canter für die Safari (Fahrzeug je nach Verfügbarkeit)\nAlle anfallenden Steuern und Servicegebühren\nUnterstützung während der gesamten Tour, 24 Stunden am Tag, 7 Tage die Woche\nWasserflasche wird während der Reise bereitgestellt\nWLAN an Bord\n\n**Nicht enthalten**\nPersönliche Ausgaben: jegliche persönlichen Ausgaben wie Trinkgelder, Souvenirs, zusätzliche Mahlzeiten oder Getränke, und Einkäufe\nOptionale Aktivitäten\nGratifikationen: Trinkgelder für den Guide, Fahrer, oder das Hotelpersonal\nMahlzeit: Mittag- und Abendessen",
+  "highlights": [
+   "Wir bieten rund um die Uhr Kundensupport, 24 Stunden am Tag, 7 Tage die Woche"
+  ],
+  "included": [
+   "Unterkunft: 1 Nacht in 4-Sterne-Hotels (nur mit Tour-Option)",
+   "Mahlzeiten: tägliches Frühstück im Hotel (nur mit Tour-Option)",
+   "Transport: klimatisiertes Fahrzeug für alle Transfers und Besichtigungen",
+   "Geführte Touren: örtliche englischsprachige Guides für die wichtigsten Besichtigungen",
+   "Eintrittsgebühren: Eintrittsgebühren für Denkmäler und Safari-Ticket (nur mit Tour-Option, falls Option gewählt wird)",
+   "Tiger-Safaris in geteiltem Jeep/Canter für die Safari (Fahrzeug je nach Verfügbarkeit)",
+   "Alle anfallenden Steuern und Servicegebühren",
+   "Unterstützung während der gesamten Tour, 24 Stunden am Tag, 7 Tage die Woche",
+   "Wasserflasche wird während der Reise bereitgestellt",
+   "WLAN an Bord"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben: jegliche persönlichen Ausgaben wie Trinkgelder, Souvenirs, zusätzliche Mahlzeiten oder Getränke, und Einkäufe",
+   "Optionale Aktivitäten",
+   "Gratifikationen: Trinkgelder für den Guide, Fahrer, oder das Hotelpersonal",
+   "Mahlzeit: Mittag- und Abendessen"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

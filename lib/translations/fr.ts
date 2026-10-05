@@ -23142,6 +23142,81 @@ export const FR_TOURS: Record<string, TourT> = {
    "Tout ce qui n'est pas mentionné dans les inclusions"
   ]
  },
+ "rajasthan-tour-cultural-private-tour-by-ac-car": {
+  "title": "Circuit du Rajasthan : visite culturelle privée en voiture climatisée avec guide",
+  "metaTitle": "Rajasthan : circuit culturel privé en voiture",
+  "metaDescription": "Découvrez le Rajasthan royal avec un chauffeur anglophone et un guide local certifié.",
+  "shortDescription": "Découvrez le Rajasthan royal avec un chauffeur anglophone et un guide local certifié.",
+  "fullDescription": "Circuit du Rajasthan : visite culturelle privée en voiture climatisée avec guide. Découvrez le Rajasthan royal avec un chauffeur anglophone et un guide local certifié.\n\nDécouvrez le charme royal du Rajasthan lors d'un circuit privé de luxe de 6 ou 8 jours en voiture, avec un chauffeur professionnel et un guide. Explorez les forts majestueux, les grands palais, les magnifiques lacs, et les marchés animés de Jaipur, Udaipur, Jodhpur, Jaisalmer, et Pushkar. Voyagez confortablement dans une voiture climatisée avec un chauffeur dédié, et profitez d'un voyage personnalisé et sans tracas à travers la riche histoire et culture du Rajasthan.\n\n**Circuit du Rajasthan de 6 jours en voiture avec guide professionnel**\n\nJour 1 : arrivée à Jaipur. Prise en charge à l'hôtel ou à l'aéroport, visite en soirée à Chokhi Dhani ou dans des usines locales pour le shopping de pierres précieuses, bijoux, textiles, et artisanat. Nuit à Jaipur.\n\nJour 2 : visites de Jaipur. Visitez : le Hawa Mahal, le fort Amber, Panna Meena ka Kund (puits à degrés), le Jal Mahal, le City Palace, le Jantar Mantar, et les marchés locaux colorés. Nuit paisible à Jaipur.\n\nJour 3 : Jaipur - Pushkar - Jodhpur. Visitez : le temple de Brahma, et le lac sacré de Pushkar, explorez le marché local, puis continuez vers Jodhpur. Nuit à Jodhpur.\n\nJour 4 : Jodhpur - Ranakpur - Udaipur. Explorez le fort de Mehrangarh, Jaswant Thada, et le jardin de Mandore. Route vers Udaipur via les temples jaïns de Ranakpur. Nuit à Udaipur.\n\nJour 5 : visites d'Udaipur. Visitez le City Palace, le temple de Jagdish, le lac Fateh Sagar, et le Saheliyon Ki Bari.\n\nJour 6 : départ. Transfert vers l'aéroport d'Udaipur, la gare ferroviaire, ou l'hôtel, ou retour à Jaipur en voiture privée.\n\n**Circuit du Rajasthan de 8 jours en voiture avec guide professionnel**\n\nJour 1 : arrivée à Jaipur. À votre arrivée à Jaipur, votre chauffeur vous accueillera à l'aéroport ou à la gare de Jaipur, et vous transférera à votre hôtel. Visite en soirée de Chokhi Dhani, le village ethnique traditionnel. Nuit à Jaipur.\n\nJour 2 : visites de Jaipur. Après le petit-déjeuner, visitez les attractions de la ville, notamment le fort Amber avec Panna Meena ka Kund. Vivez une expérience de maharaja. Plus tard, visitez le Hawa Mahal, le Jal Mahal, le City Palace, le Jantar Mantar, les Gaitore ki Chatriyan, et des marchés colorés. Nuit à Jaipur.\n\nJour 3 : route vers Pushkar, visite du temple de Brahma et du lac sacré, continuation vers Jaisalmer.\n\nJour 4 : Jaisalmer. Après le petit-déjeuner, route vers les visites du fort, des temples jaïns, des havelis, et du lac Gadhisar. L'après-midi, visite des temples jaïns de Lodurva, et route vers les dunes de sable de Sam au point de coucher de soleil. Nuit à Jaisalmer.\n\nJour 5 : Jaisalmer - Jodhpur. Après le petit-déjeuner, route vers Jodhpur, en visitant en chemin les temples d'Osian. Arrivée à Jodhpur l'après-midi. Visitez le fort de Mehrangarh, Jaswant Thada, et le jardin de Mandore. Nuit à Jodhpur.\n\nJour 6 : Jodhpur - Udaipur. Après le petit-déjeuner, route vers Udaipur. En chemin, arrêt à l'hôtel Shilpi de Ranakpur pour le déjeuner, et visite du temple jaïn. Arrivée à Udaipur. Nuit à Udaipur.\n\nJour 7 : Udaipur. Après le petit-déjeuner, route vers le City Palace, le temple de Jagdish, le mémorial Maharana Pratap, et le lac Fateh Sagar. Retour à l'hôtel pour le déjeuner. Après le déjeuner, visite du Sahelion Ki Bari et du Lok Kala Mandal, et excursion vers Haldighati, Nathdwara, et Eklingji. Nuit à Udaipur.\n\nJour 8 : départ. Départ vers l'aéroport d'Udaipur, la gare ferroviaire, la gare routière, ou retour à Jaipur.\nFin du circuit.\n\n**Ce qui est inclus**\nService de prise en charge et de retour depuis l'hôtel, l'aéroport, ou la gare\nVéhicule privé climatisé avec chauffeur pour les visites\nCarburant, frais de stationnement, péages, et taxes interétatiques\nUn guide professionnel pour vous accompagner pendant le circuit\nEau en bouteille pour les invités\nHébergement en hôtel patrimonial 4 étoiles (optionnel)\nToutes les taxes gouvernementales, y compris la taxe sur les biens et services (TPS)\n\n**Non inclus**\nFrais de repas, non couverts par le forfait\nDépenses personnelles, telles que shopping ou activités supplémentaires non incluses dans l'itinéraire\nFrais d'entrée à tout endroit, non inclus dans le forfait, et pouvant nécessiter un paiement séparé\nPourboires",
+  "highlights": [
+   "Découvrez le Rajasthan royal avec un chauffeur anglophone et un guide local certifié"
+  ],
+  "included": [
+   "Service de prise en charge et de retour depuis l'hôtel, l'aéroport, ou la gare",
+   "Véhicule privé climatisé avec chauffeur pour les visites",
+   "Carburant, frais de stationnement, péages, et taxes interétatiques",
+   "Un guide professionnel pour vous accompagner pendant le circuit",
+   "Eau en bouteille pour les invités",
+   "Hébergement en hôtel patrimonial 4 étoiles (optionnel)",
+   "Toutes les taxes gouvernementales, y compris la taxe sur les biens et services (TPS)"
+  ],
+  "notIncluded": [
+   "Frais de repas, non couverts par le forfait",
+   "Dépenses personnelles, telles que shopping ou activités supplémentaires non incluses dans l'itinéraire",
+   "Frais d'entrée à tout endroit, non inclus dans le forfait, et pouvant nécessiter un paiement séparé",
+   "Pourboires"
+  ]
+ },
+ "delhi-half-day-guided-tour-humayuns-tomb": {
+  "title": "Delhi : visite guidée en demi-journée de la tombe de Humayun et de la tombe de Safdarjung",
+  "metaTitle": "Delhi : tombes de Humayun et Safdarjung, demi-journée",
+  "metaDescription": "Explorez la tombe de Humayun, un site du patrimoine mondial de l'UNESCO, lors d'une visite guidée en demi-journée.",
+  "shortDescription": "Explorez la tombe de Humayun, un site du patrimoine mondial de l'UNESCO, lors d'une visite guidée en demi-journée.",
+  "fullDescription": "Delhi : visite guidée en demi-journée de la tombe de Humayun et de la tombe de Safdarjung. Explorez la tombe de Humayun, un site du patrimoine mondial de l'UNESCO, lors d'une visite guidée en demi-journée.\n\nExplorez la grandeur moghole de Delhi avec notre visite guidée en demi-journée de la tombe de Humayun et de la tombe de Safdarjung. Cette visite comprend une prise en charge et un retour pratiques à l'hôtel à Delhi, ainsi qu'un guide anglophone sympathique, qui vous mènera à travers deux des monuments les plus emblématiques de l'ère moghole.\n\nLa tombe de Humayun, un site du patrimoine mondial de l'UNESCO, est réputée pour son design moghol complexe, ses jardins luxuriants, et son rôle de précurseur architectural du Taj Mahal.\n\nLa tombe de Safdarjung, souvent appelée un joyau caché, présente l'élégance de l'architecture moghole tardive. Admirez sa beauté symétrique entourée de jardins sereins, tandis que votre guide partage des histoires sur Safdarjung, un éminent homme d'État moghol.\n\nAprès votre exploration, détendez-vous lors d'un retour confortable à votre hôtel, enrichi d'une appréciation plus profonde du patrimoine moghol de Delhi.\n\n**Ce qui est inclus**\nTransport privé\nFrais d'entrée aux monuments\nPrise en charge et retour à l'hôtel\nGuide anglophone\nEau en bouteille et collations légères\n\n**Non inclus**\nDépenses personnelles\nFrais d'appareil photo\nPetit-déjeuner et déjeuner",
+  "highlights": [
+   "Explorez la tombe de Humayun, un site du patrimoine mondial de l'UNESCO, lors d'une visite guidée en demi-journée"
+  ],
+  "included": [
+   "Transport privé",
+   "Frais d'entrée aux monuments",
+   "Prise en charge et retour à l'hôtel",
+   "Guide anglophone",
+   "Eau en bouteille et collations légères"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Frais d'appareil photo",
+   "Petit-déjeuner et déjeuner"
+  ]
+ },
+ "2-day-agra-and-ranthambore-tour-from-delhi": {
+  "title": "Circuit de 2 jours à Agra et Ranthambore depuis Delhi",
+  "metaTitle": "Delhi : Agra et Ranthambore, 2 jours",
+  "metaDescription": "Nous offrons une assistance client 24h/24 et 7j/7.",
+  "shortDescription": "Nous offrons une assistance client 24h/24 et 7j/7.",
+  "fullDescription": "Circuit de 2 jours à Agra et Ranthambore depuis Delhi. Nous offrons une assistance client 24h/24 et 7j/7.\n\n**Jour 1 : Delhi à Agra (visites d'Agra)**\nTôt le matin : départ de Delhi en voiture vers Agra (environ 3 à 4 heures, 230 km).\nFin de matinée : arrivée à Agra, et début des visites :\nTaj Mahal : explorez le symbole emblématique de l'amour, et l'une des sept merveilles du monde.\nFort d'Agra : visitez ce site du patrimoine mondial de l'UNESCO, un immense fort avec de magnifiques palais, et des vues époustouflantes sur le Taj Mahal.\nAprès-midi : explorez les marchés locaux pour des souvenirs et de l'artisanat.\nFin d'après-midi : départ pour Ranthambore (environ 5 à 6 heures, 270 km).\nSoir : arrivée à Ranthambore, et enregistrement à l'hôtel.\nNuit : séjour à Ranthambore.\n\n**Jour 2 : safari à Ranthambore, et retour à Delhi**\nTôt le matin : départ pour un safari matinal dans la jungle au parc national de Ranthambore, connu pour sa population de tigres du Bengale et d'autre faune sauvage.\nFin de matinée : après le safari, explorez le fort de Ranthambore à proximité, un site du patrimoine mondial de l'UNESCO offrant des vues panoramiques sur le parc.\nAprès-midi : après le déjeuner (à vos frais), commencez le trajet de retour vers Delhi (environ 6 à 7 heures, 400 km).\nSoir : arrivée à Delhi, concluant votre circuit de 2 jours.\n\n**Ce qui est inclus**\nHébergement : 1 nuit dans des hôtels 4 étoiles (avec l'option circuit uniquement)\nRepas : petit-déjeuner quotidien à l'hôtel (avec l'option circuit uniquement)\nTransport : véhicule climatisé pour tous les transferts et visites\nVisites guidées : guides locaux anglophones pour les principales visites\nFrais d'entrée : frais d'entrée aux monuments et billet de safari (avec l'option circuit uniquement, si l'option est sélectionnée)\nSafaris aux tigres en jeep/canter partagé pour le safari (véhicule selon disponibilité)\nToutes les taxes applicables et frais de service\nAssistance tout au long du circuit, 24h/24 et 7j/7\nBouteille d'eau fournie pendant le voyage\nWifi à bord\n\n**Non inclus**\nDépenses personnelles : toute dépense personnelle telle que pourboires, souvenirs, repas ou boissons supplémentaires, et shopping\nActivités optionnelles\nGratifications : pourboires pour le guide, le chauffeur, ou le personnel de l'hôtel\nRepas : déjeuner et dîner",
+  "highlights": [
+   "Nous offrons une assistance client 24h/24 et 7j/7"
+  ],
+  "included": [
+   "Hébergement : 1 nuit dans des hôtels 4 étoiles (avec l'option circuit uniquement)",
+   "Repas : petit-déjeuner quotidien à l'hôtel (avec l'option circuit uniquement)",
+   "Transport : véhicule climatisé pour tous les transferts et visites",
+   "Visites guidées : guides locaux anglophones pour les principales visites",
+   "Frais d'entrée : frais d'entrée aux monuments et billet de safari (avec l'option circuit uniquement, si l'option est sélectionnée)",
+   "Safaris aux tigres en jeep/canter partagé pour le safari (véhicule selon disponibilité)",
+   "Toutes les taxes applicables et frais de service",
+   "Assistance tout au long du circuit, 24h/24 et 7j/7",
+   "Bouteille d'eau fournie pendant le voyage",
+   "Wifi à bord"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles : toute dépense personnelle telle que pourboires, souvenirs, repas ou boissons supplémentaires, et shopping",
+   "Activités optionnelles",
+   "Gratifications : pourboires pour le guide, le chauffeur, ou le personnel de l'hôtel",
+   "Repas : déjeuner et dîner"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
