@@ -1244,6 +1244,70 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier gasto personal"
   ]
  },
+ "agra-guided-street-food-local-market-tour-by-tuk": {
+  "title": "Agra: tour guiado de comida callejera y mercado local en tuk-tuk",
+  "metaTitle": "Agra: comida callejera y mercado local en tuk-tuk",
+  "metaDescription": "Disfrute de un vibrante paseo en tuk-tuk por las bulliciosas calles y puntos culinarios de Agra.",
+  "shortDescription": "Disfrute de un vibrante paseo en tuk-tuk por las bulliciosas calles y puntos culinarios de Agra.",
+  "fullDescription": "**Recogida en el hotel en Agra**\nSu guía lo recibe en su hotel y sube a un colorido tuk-tuk para un divertido paseo por las bulliciosas calles de Agra.\n\n**Parada 1: Sadar Bazaar, sabores y moda**\nComience con kachoris, jalebis, o pakoras de pan recién hechos en un establecimiento local favorito. Camine por el mercado conocido por artículos de cuero, artesanía, y puestos callejeros vibrantes. Conozca la cultura gastronómica de Agra con su guía.\n\n**Parada 2: Kinari Bazaar, callejones históricos y bocadillos**\nNavegue por los estrechos callejones históricos llenos de tiendas de joyería, telas, y decoración de bodas. Pruebe especialidades locales como chaat, golgappas, y aloo tikki de vendedores confiables. Observe a los artesanos trabajando en tiendas tradicionales.\n\n**Parada 3: mercado de Rawatpara, paraíso dulce**\nVisite el icónico centro de dulces de Agra. Disfrute de petha, gajak, y otros dulces de temporada. Descubra cómo Agra se hizo famosa por sus delicias azucaradas.\n\n**Parada 4: punto de té/chai local**\nHaga una pausa para disfrutar de una refrescante taza de chai masala o té kulhad. Converse con los lugareños y sumérjase en el ambiente auténtico.\n\n**Parada 5: visita al mercado de especias y abarrotes**\nExplore un bullicioso callejón de especias repleto de aromas de cardamomo, canela, cúrcuma, y más. El guía explica los usos tradicionales de las especias e hierbas indias en la cocina diaria.\n\n**Fin del tour: traslado a su hotel**\nRegrese a su hotel en el tuk-tuk, terminando el tour con las papilas gustativas satisfechas y vibrantes recuerdos de la vida local de Agra.",
+  "highlights": [
+   "Disfrute de un vibrante paseo en tuk-tuk por las bulliciosas calles y puntos culinarios de Agra"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto",
+   "Tuk-tuk privado para el avistamiento con conductor",
+   "Guía turístico experto aprobado por el gobierno",
+   "Bocadillos (si se selecciona la opción)",
+   "Botella de agua mineral",
+   "Todos los peajes y estacionamiento"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
+  ]
+ },
+ "from-agra-exclusive-skip-the-line-tour-tajmahal": {
+  "title": "Desde Agra: tour exclusivo sin colas al Taj Mahal y Fuerte de Agra",
+  "metaTitle": "Agra: Taj Mahal y fuerte sin colas",
+  "metaDescription": "Disfrute de una entrada sin complicaciones y sin colas al Taj Mahal.",
+  "shortDescription": "Disfrute de una entrada sin complicaciones y sin colas al Taj Mahal.",
+  "fullDescription": "**1. Recogida desde Agra**\nRecogida en su hotel/aeropuerto/estación de tren en Agra en vehículo privado con aire acondicionado. Conozca a su guía turístico profesional y diríjase al Taj Mahal.\n\n**2. Visita al Taj Mahal, acceso sin colas**\nEntrada directa sin esperar en largas filas. Explore el impresionante mausoleo de mármol blanco construido por el emperador Shah Jahan para Mumtaz Mahal. Conozca el brillo arquitectónico y la historia de amor detrás del Taj. Disfrute de tiempo para capturar hermosas fotografías en lugares icónicos.\n\n**3. Recorrido por el Fuerte de Agra**\nDiríjase al Fuerte de Agra, un Sitio del Patrimonio Mundial de la UNESCO. Descubra las obras maestras de arenisca roja y los palacios reales. Sea testigo del lugar donde Shah Jahan fue encarcelado por su hijo Aurangzeb. Vistas panorámicas del Taj Mahal desde el interior del fuerte.\n\n**4. Complemento opcional**\nParada para un delicioso almuerzo en un restaurante multicocina (a su propio costo).\n\n**5. Tiendas de artesanía local (opcional)**\nExplore el trabajo de incrustación en mármol, joyería, artículos de cuero (sin obligación de compra).\n\n**6. Traslado**\nTraslado a su hotel o lugar preferido en Agra. El tour termina con hermosos recuerdos.",
+  "highlights": [
+   "Disfrute de una entrada sin complicaciones y sin colas al Taj Mahal"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto",
+   "Auto privado con aire acondicionado para el recorrido con conductor",
+   "Guía turístico profesional",
+   "Boletos de entrada a los monumentos (si se selecciona la opción)",
+   "Almuerzo en un hotel de 5 estrellas (si se selecciona la opción)",
+   "Botella de agua mineral",
+   "Todos los peajes y estacionamiento"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
+  ]
+ },
+ "from-delhi-agra-or-jaipur-bharatpur-bird": {
+  "title": "Desde Delhi, Agra, o Jaipur: tour del santuario de aves de Bharatpur",
+  "metaTitle": "Delhi/Agra/Jaipur: santuario de aves de Bharatpur",
+  "metaDescription": "Sumérjase en la naturaleza en el Parque Nacional Keoladeo, un sitio de la UNESCO.",
+  "shortDescription": "Sumérjase en la naturaleza en el Parque Nacional Keoladeo, un sitio de la UNESCO.",
+  "fullDescription": "Comience su viaje con un cómodo trayecto desde su ciudad de salida elegida, Delhi, Agra, o Jaipur, a través de un campo pintoresco. A su llegada, conozca a su guía local experto o conductor de rickshaw que lo llevará a lo profundo de los exuberantes humedales del parque.\n\nDeslícese silenciosamente por senderos rodeados de canales de agua, observando coloridos martines pescadores, cigüeñas, y garzas mientras realizan sus actividades diarias. Visite el sereno Templo Keoladeo, ubicado en el corazón del santuario, y conozca los orígenes antiguos del parque.\n\nDisfrute de la atmósfera tranquila mientras se conecta con la naturaleza, toma fotografías, y experimenta la increíble biodiversidad que hace de Bharatpur uno de los mejores destinos de observación de aves en Asia. Para los entusiastas de la fotografía, este es un lugar de ensueño: cada rincón del parque ofrece composiciones impresionantes de vida salvaje, reflejos, y paisajes naturales.\n\nDespués de explorar el santuario, relájese con un delicioso almuerzo local (si se selecciona la opción), y luego disfrute de un cómodo trayecto de regreso a su ciudad.",
+  "highlights": [
+   "Sumérjase en la naturaleza en el Parque Nacional Keoladeo, un sitio de la UNESCO"
+  ],
+  "included": [
+   "Transporte privado con aire acondicionado",
+   "Tarifas de entrada",
+   "Paseo guiado en rickshaw",
+   "Visita al Templo Keoladeo",
+   "Servicios de guía local"
+  ],
+  "notIncluded": [
+   "Almuerzo",
+   "Alcohol"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
