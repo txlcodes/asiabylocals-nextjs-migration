@@ -2849,6 +2849,83 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder und persönliche Ausgaben"
   ]
  },
+ "golden-triangle-7-days-tour-with-ranthambore": {
+  "title": "Goldenes Dreieck, 7-tägige Tour mit Ranthambore",
+  "metaTitle": "Goldenes Dreieck: 7 Tage mit Ranthambore",
+  "metaDescription": "Besuchen Sie Delhis ikonisches Rotes Fort und machen Sie eine Tour zum majestätischen Qutub Minar.",
+  "shortDescription": "Besuchen Sie Delhis ikonisches Rotes Fort und machen Sie eine Tour zum majestätischen Qutub Minar.",
+  "fullDescription": "**Tag 1: Ankunft in Delhi**\nBei der Ankunft in Delhi treffen Sie unseren Vertreter und werden zu Ihrem Hotel in Delhi transferiert. Übernachtung in Delhi.\n\n**Tag 2: Besichtigungstour durch Alt- und Neu-Delhi**\nDie Tour beginnt mit einer Abholung von Ihrem bevorzugten Ort um 09:00 Uhr. Unser Fahrer kommt, um Sie zu empfangen, und Sie setzen die Besichtigungstour durch Alt- und Neu-Delhi fort. Ihr Reiseführer trifft Sie auf dem Weg und begleitet Sie den ganzen Tag. Zuerst besuchen Sie Alt-Delhi (Jama Masjid, Rikscha-Fahrt, Chandni Chowk, und Rotes Fort). Später besuchen Sie Neu-Delhi (Humayuns Grab, India Gate, Parliament House, Qutub Minar, und Lotus-Tempel). Zwischen den Besichtigungen haben Sie eine Mittagspause. Nach der Besichtigung von Alt- und Neu-Delhi kehren Sie zu Ihrem Hotel in Delhi zurück und übernachten in Delhi.\n\n**Tag 3: Delhi nach Agra und Agra-Besichtigung**\nNach dem Frühstück und Check-out gegen 9 Uhr fahren Sie nach Agra, die Fahrt dauert bis zu 3 Stunden. Bei der Ankunft in Agra checken Sie in Ihrem Hotel ein. Ruhen Sie sich aus und verbringen Sie etwas Zeit nach Belieben. Später am Abend besuchen Sie Etimad-Ud-Daulah (Baby Taj) und Mehtab Bagh (Sonnenuntergangspunkt) und erkunden den Hintergrundblick auf den Taj Mahal über den Fluss Yamuna während des Sonnenuntergangs und fangen die schönen Eindrücke mit Ihrer Kamera ein.\n\n**Tag 4: Agra-Besichtigung und Fahrt nach Ranthambore**\nUnser Fahrer holt Sie um 06:30 Uhr von Ihrem Hotel ab für den Sonnenaufgangsblick auf den Taj Mahal. Erkunden Sie den Sonnenaufgangsblick auf den Taj Mahal. Danach kehren Sie zum Hotel zurück. Frühstücken Sie und ruhen Sie sich etwas aus.\nNach dem Frühstück und Check-out besuchen Sie das Agra Fort. Setzen Sie dann die Fahrt nach Ranthambore fort. Auf dem Weg nach Ranthambore besuchen Sie Fatehpur Sikri. Setzen Sie die Fahrt nach Ranthambore fort, nach der Ankunft checken Sie in Ihrem Hotel ein und übernachten in Ranthambore.\nHinweis: Frühstück, Mittag- und Abendessen sind hier im Ranthambore-Hotel enthalten.\n\n**Tag 5: Ranthambore Wildlife-Safari-Tour**\nAn diesem Tag erkunden und genießen Sie die Tierwelt Indiens. Sie genießen eine morgendliche und abendliche Wildtier-Safari. Erhalten Sie die Chance, Tiger und andere Wildtiere in ihrem natürlichen Lebensraum zu sehen. Übernachtung in Ranthambore.\n\n**Tag 6: Ranthambore nach Jaipur und Jaipur-Besichtigung**\nNach dem Frühstück und Check-out fahren Sie nach Jaipur. Bei der Ankunft in Jaipur checken Sie in Ihrem Hotel ein. Später geht es weiter zur Jaipur-Besichtigung. Sie besuchen den City Palace, Jantar Mantar, und Hawa Mahal (Windpalast). Dann kehren Sie zum Hotel zurück und übernachten in Jaipur.\n\n**Tag 7: Jaipur-Besichtigung und Rückfahrt nach Delhi**\nNach dem Frühstück und Check-out holen Sie unser Fahrer und Guide vom Hotel ab. Beginnen Sie Ihre Jaipur-Besichtigungstour. Sie besuchen das Amber Fort, genießen eine Elefantenfahrt, Jal Mahal, und den Affentempel. Nach dem Mittagessen und der Besichtigung fahren Sie zurück nach Delhi. Gegen 20-21 Uhr sind Sie zurück in Delhi. Abfahrt zum Hotel/Flughafen in Delhi.",
+  "highlights": [
+   "Besuchen Sie Delhis ikonisches Rotes Fort und machen Sie eine Tour zum majestätischen Qutub Minar"
+  ],
+  "included": [
+   "Flughafen-/Hotelabholung und Rückfahrt",
+   "Privates klimatisiertes Auto mit Fahrer",
+   "Rikscha-Fahrt in Alt-Delhi",
+   "Elefantenfahrt in Jaipur",
+   "Live-Reiseführerservice an allen Orten",
+   "Eintrittsgebühren für Denkmäler (falls Option ausgewählt)",
+   "Morgen- und Nachmittags-Wildtier-Safari, geteilter Gypsy (falls Option ausgewählt)",
+   "4 Nächte Hotelunterkunft in Agra und Jaipur mit Frühstück (falls Option ausgewählt)",
+   "2 Nächte Hotelunterkunft in Ranthambore mit Frühstück, Mittag- und Abendessen (falls Option ausgewählt)",
+   "Mineralwasserflaschen",
+   "Fahrerzulagen",
+   "Alle Mautgebühren, Parkgebühren, und Steuern"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke",
+   "Persönliche Ausgaben",
+   "Trinkgelder (optional)"
+  ]
+ },
+ "magical-mathura-vrindavan-tour-krishnas-homeland": {
+  "title": "Magische Mathura-Vrindavan-Tour: Krishnas Heimatland",
+  "metaTitle": "Mathura-Vrindavan: Krishnas Heimatland",
+  "metaDescription": "Besuchen Sie Krishna Janmabhoomi, den Geburtsort von Lord Krishna.",
+  "shortDescription": "Besuchen Sie Krishna Janmabhoomi, den Geburtsort von Lord Krishna.",
+  "fullDescription": "**06:00-08:00 Uhr: Abholung und Fahrt nach Mathura**\nBeginnen Sie Ihre spirituelle Reise mit einer frühmorgendlichen Abholung von Ihrem Ort in Agra oder Delhi. Ihr privater Chauffeur fährt Sie bequem in einem klimatisierten Auto nach Mathura.\n\n**08:00-09:30 Uhr: Krishna Janmabhoomi Tempel**\nBei der Ankunft in Mathura besuchen Sie den Krishna Janmabhoomi Tempel, eine verehrte Stätte, die als Geburtsort von Lord Krishna gilt. Tauchen Sie ein in die reiche Geschichte und spirituelle Bedeutung des Tempels und fühlen Sie die heilige Energie, die die Luft erfüllt.\n\n**09:30-10:30 Uhr: Dwarkadhish-Tempel**\nSetzen Sie Ihre Reise zum Dwarkadhish-Tempel fort, bekannt für seine beeindruckende Architektur und ruhige Atmosphäre. Bewundern Sie die kunstvollen Schnitzereien und nehmen Sie an der ruhigen Umgebung des Tempels teil, während Sie das reiche spirituelle Erbe Mathuras erleben.\n\n**10:30-11:00 Uhr: Fahrt nach Vrindavan**\nNach der Erkundung Mathuras begeben Sie sich in die nahegelegene Stadt Vrindavan, einen Ort, der tief mit dem frühen Leben von Lord Krishna verbunden ist.\n\n**11:00-12:00 Uhr: Banke-Bihari-Tempel**\nIhr erster Stopp in Vrindavan wird der Banke-Bihari-Tempel sein, einer der beliebtesten und spirituell lebendigsten Tempel der Region. Fühlen Sie die Hingabe der Anhänger und die lebendige Energie, die diesen Ort so besonders macht.\n\n**12:00-13:00 Uhr: Spaziergang durch die Straßen von Vrindavan**\nMachen Sie einen gemütlichen Spaziergang durch die farbenfrohen Straßen von Vrindavan, tauchen Sie in die spirituelle Atmosphäre ein, und erkunden Sie die lokalen Geschäfte und Verkäufer. Erleben Sie die Essenz von Vrindavan, wo jede Ecke eine Geschichte von Hingabe und Liebe für Lord Krishna erzählt.\n\n**13:00-14:00 Uhr: ISKCON-Tempel**\nAls Nächstes besuchen Sie den ISKCON-Tempel, auch bekannt als Krishna Balaram Mandir. Dieses internationale Zentrum für Anhänger bietet eine friedliche Umgebung für Besinnung und Gebet. Die ruhige Umgebung und schön gepflegten Gärten bieten den perfekten Rahmen für einen spirituellen Rückzug.\n\n**14:00-15:00 Uhr: Mittagspause**\nGenießen Sie ein traditionelles vegetarisches Mittagessen in einem lokalen Restaurant in Vrindavan. Genießen Sie die Aromen der lokalen Küche und verbinden Sie sich mit den kulturellen und kulinarischen Traditionen der Region.\n\n**15:00-16:00 Uhr: Prem Mandir**\nBeenden Sie Ihren Tag der Hingabe mit einem Besuch des Prem Mandir, eines wunderschön gestalteten Tempels, bekannt für seine kunstvollen Schnitzereien und beleuchtete abendliche Atmosphäre. Verbringen Sie Zeit mit der Erkundung des Tempels und seiner Gärten und staunen Sie über die architektonische Schönheit und spirituelle Gelassenheit.\n\n**16:00-18:00 Uhr: Rückfahrt nach Agra/Delhi**\nWährend der Tag zu Ende geht, beginnen Sie Ihre Rückreise nach Agra oder Delhi. Reflektieren Sie über die spirituellen Erfahrungen und das tiefe Gefühl von Frieden und Hingabe, das Sie den ganzen Tag erlebt haben. Ihr privater Chauffeur gewährleistet eine komfortable und entspannende Fahrt zurück und beendet Ihren unvergesslichen Tag der Hingabe in Mathura und Vrindavan.",
+  "highlights": [
+   "Besuchen Sie Krishna Janmabhoomi, den Geburtsort von Lord Krishna"
+  ],
+  "included": [
+   "Abholung und Rückfahrt: bequeme Abholung und Rückfahrt von Ihrem Ort in Agra/Delhi",
+   "Privater Chauffeur: klimatisiertes Auto mit einem professionellen und höflichen Chauffeur",
+   "Reiseführer: kompetenter und erfahrener privater Reiseführer",
+   "Eintrittsgebühren: alle Eintrittsgebühren für Tempel und Attraktionen im Reiseplan",
+   "Parkgebühren: alle Parkgebühren während der Reise",
+   "Mautgebühren und Kraftstoff: alle Mautgebühren und Kraftstoffkosten enthalten",
+   "Steuern: alle anwendbaren Steuern"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben: jegliche persönliche Ausgaben wie Souvenirs oder zusätzliche Speisen und Getränke, die nicht im Reiseplan erwähnt sind",
+   "Trinkgelder: Trinkgelder für den Chauffeur und Reiseführer",
+   "Mahlzeiten: keine Mahlzeit enthalten",
+   "Kameragebühren: jegliche zusätzliche Kamera- oder Videogebühren an den Tempeln oder Attraktionen"
+  ]
+ },
+ "mathura-vrindavan-tour-with-keshi-ghat-delhiagra": {
+  "title": "Mathura-Vrindavan-Tour mit Keshi Ghat, Delhi/Agra",
+  "metaTitle": "Mathura-Vrindavan-Keshi Ghat: Delhi/Agra",
+  "metaDescription": "Besuchen Sie Krishna Janmasthan, den Geburtsort von Lord Krishna.",
+  "shortDescription": "Besuchen Sie Krishna Janmasthan, den Geburtsort von Lord Krishna.",
+  "fullDescription": "**Abfahrt von Delhi/Agra**\nBeginnen Sie Ihre Reise mit einer bequemen Abholung von Ihrem Hotel in Delhi oder Agra. Reisen Sie in einem klimatisierten Auto mit einem erfahrenen Chauffeur nach Mathura.\n\n**Krishna-Janmasthan-Tempel**\nKommen Sie in Mathura an und besuchen Sie den Krishna-Janmasthan-Tempelkomplex mit Ihrem privaten Guide. Entdecken Sie den Geburtsort von Lord Krishna und fühlen Sie die spirituelle Aura.\n\n**Banke-Bihari-Tempel**\nBegeben Sie sich nach Vrindavan und besuchen Sie den berühmten Banke-Bihari-Tempel, bekannt für seine von Hingabe erfüllte Atmosphäre und das bezaubernde Idol von Lord Krishna.\n\n**ISKCON-Tempel**\nErkunden Sie den ISKCON-Tempel (Sri Krishna-Balaram Mandir), ein Zentrum der Hingabe für Gaudiya Vaishnavas, mit friedlichen Gesängen und ruhiger Umgebung.\n\n**Mittagspause**\nGenießen Sie ein köstliches nordindisches vegetarisches Mittagessen in einem lokalen Restaurant und tauchen Sie in die Aromen von Braj Bhoomi ein.\n\n**Prem Mandir**\nBesuchen Sie den majestätischen Prem Mandir, ein modernes Wunder der Hingabe mit kunstvollen Schnitzereien und göttlichen Krishna-Leelas, die auf seinen Wänden dargestellt sind.\n\n**Keshi Ghat**\nGehen Sie entlang des heiligen Flusses Yamuna am Keshi Ghat, wo Krishna den Dämon Keshi getötet haben soll. Erleben Sie Frieden, Schönheit, und Spiritualität.\n\n**Rückreise**\nNach einem seelenberührenden Tag fahren Sie zurück nach Delhi oder Agra. Abgabe an Ihrem Hotel oder bevorzugten Ort am frühen Abend.",
+  "highlights": [
+   "Besuchen Sie Krishna Janmasthan, den Geburtsort von Lord Krishna"
+  ],
+  "included": [
+   "Abholung und Rückfahrt überall in Agra",
+   "Privater Reiseführer",
+   "Besichtigung in einem privaten klimatisierten Auto mit Chauffeur",
+   "Alle Parkgebühren, Mautgebühren, Kraftstoff, und Steuern",
+   "Keshi Ghat"
+  ],
+  "notIncluded": [
+   "Jegliche andere nicht erwähnte Mahlzeiten und zusätzliche Dienstleistungen",
+   "Trinkgelder für den Fahrer und Guide",
+   "Kameragebühren an Tempeln",
+   "Nicht in den Inklusionen aufgeführte Artikel"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
