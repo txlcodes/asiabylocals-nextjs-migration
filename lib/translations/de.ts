@@ -26840,6 +26840,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben\nTrinkgelder"
   ]
  },
+ "new-delhi-night-view-of-delhi-tour-4-hrs": {
+  "title": "New Delhi: Nächtliche Delhi-Tour - 4 Std.",
+  "metaTitle": "New Delhi: Nächtliche Delhi-Tour - 4 Std.",
+  "metaDescription": "4-stündige nächtliche Tour durch Delhi im klimatisierten Fahrzeug mit Führer, entdecken Sie die beleuchteten Denkmäler.",
+  "shortDescription": "4-stündige nächtliche Tour durch Delhi im klimatisierten Fahrzeug",
+  "fullDescription": "New Delhi: Nächtliche Delhi-Tour - 4 Std. 4-stündige nächtliche Tour durch Delhi im klimatisierten Fahrzeug.\n\nDer Fahrer trifft Sie um 18:00 Uhr (0600 PM) an Ihrem Hotel in Delhi/Gurugram/Noida oder am Flughafen (flexible Flughafenabholung) und beginnt Ihre Besichtigungstour zu den Denkmälern von Delhi mit einem Reiseführer. Die Faszination von Indiens Hauptstadt Delhi bekommt bei Nacht eine ganz neue Dimension. Eine 4-stündige nächtliche Fahrt bietet einen entspannten Blick auf Delhis weitläufige Alleen, die noch schöner und einladender wirken, wenn der klare Sternenhimmel über den Denkmälern erstrahlt.\n\nEin herrlicher Spaziergang zur Besichtigung von India Gate, dem Präsidentenpalast (Vorbeifahrt), dem Parlamentsgebäude (Vorbeifahrt), dem Gurdwara Bangla Sahib, dem Shri-Laxmi-Narayan-Tempel (Birla Mandir), dem ISKCON-Tempel in Delhi, bevor es auf eine nächtliche Fahrt durch Delhi geht. Connaught Place, einer der ältesten Einkaufsmärkte im Lutyens-Delhi, ist ein Muss.\n\nAbendspaziergänger strömen am Abend zum India Gate. Das letzte Ziel ist der Gurdwara Bangla Sahib, ein historisch bedeutender Sikh-Schrein. Nach der Besichtigung aller Stätten bringt Sie der Fahrer zurück zu Ihrem Hotel oder Flughafen. Beenden Sie Ihren Abend in Delhi mit wunderbaren Erinnerungen. Der Fahrer setzt Sie am Flughafen oder Hotel in Delhi ab.\n\nHINWEIS:\n1) Im Winter können einige Stätten früher schließen oder wegen Nebel nicht sichtbar sein.\n\n2) Das Präsidentenhaus (Vorbeifahrt): Aufgrund des Sicherheitsprotokolls des Präsidenten ist kein Fotografieren und kein Halt erlaubt.\n\n3) Im Winter schließen die Tempel um 19:30 Uhr. Und im Sommer: 20:30 Uhr.\n\n### Inklusive\n\n- Alle Mautgebühren, Steuern, Parkgebühren, Kraftstoff, Fahrerzulage\n- Klimatisiertes Fahrzeug mit Fahrer\n- Abhol- und Rückfahrservice vom Hotel oder Flughafen\n- Englischsprachiger Reiseführer in Delhi\n- Verpackte Mineralwasserflasche im Auto\n\n### Nicht inklusive\n\n- Jegliche Eintrittsgebühr für Denkmäler\n- Jegliches Essen und Trinken, das nicht in diesem Preis enthalten ist\n- Jegliche Trinkgelder\n- Jegliche persönliche Ausgaben\n- Souvenirs oder Fotos (käuflich erhältlich)",
+  "highlights": [
+   "4-stündige nächtliche Tour durch Delhi im klimatisierten Fahrzeug"
+  ],
+  "included": [
+   "Alle Mautgebühren, Steuern, Parkgebühren, Kraftstoff, Fahrerzulage\nKlimatisiertes Fahrzeug mit Fahrer\nAbhol- und Rückfahrservice vom Hotel oder Flughafen\nEnglischsprachiger Reiseführer in Delhi\nVerpackte Mineralwasserflasche im Auto"
+  ],
+  "notIncluded": [
+   "Jegliche Eintrittsgebühr für Denkmäler\nJegliches Essen und Trinken, das nicht in diesem Preis enthalten ist\nJegliche Trinkgelder\nJegliche persönliche Ausgaben\nSouvenirs oder Fotos (käuflich erhältlich)"
+  ]
+ },
+ "delhi-lodhi-garden-guided-story-walk-optional": {
+  "title": "Delhi: Geführter Erzähl-Spaziergang im Lodhi Garden und optionale Nebenausflüge",
+  "metaTitle": "Delhi: Geführter Erzähl-Spaziergang im Lodhi Garden",
+  "metaDescription": "Tauchen Sie ein in die anmutige Mischung aus Geschichte, Kunst und Natur des Lodhi Garden bei einem geführten Spaziergang in Delhi.",
+  "shortDescription": "Delhi: Geführter Erzähl-Spaziergang im Lodhi Garden und optionale Nebenausflüge.",
+  "fullDescription": "Delhi: Geführter Erzähl-Spaziergang im Lodhi Garden und optionale Nebenausflüge.\n\nTauchen Sie ein in Delhis anmutigste Mischung aus Geschichte, Kunst und Natur in den Lodhi Gardens. Entdecken Sie ein Heiligtum aus Kuppelgräbern, antiken Pfaden, singenden Papageien, Banyan-Wurzeln und frühmorgendlichen Joggern, die jahrhundertealte Geschichten atmen.\n\nGehen Sie langsam, beobachten Sie tief und verbinden Sie sich mit Delhi jenseits der üblichen touristischen Perspektive. Erkunden Sie prächtige islamische Gräber aus dem 15. Jahrhundert, wunderschöne Bogenbrücken, königliche Moscheen, versteckte Nischen und den ruhigen Rhythmus der Natur, die Hand in Hand mit der Architektur des Sultanats geht.\n\nNach dem Spaziergang geht es zum stilvollen India Habitat Centre, einem kulturellen Zentrum für Künstler, Diplomaten und Stadtdenker. Entspannen Sie sich bei Snacks oder Mittagessen (Ihre Wahl), teilen Sie Reisegeschichten und sprechen Sie über Delhi, so wie Einheimische es kennen, von Café-Ecken bis zu Straßengeheimnissen, Festivals, Kunst und Essen.\n\nDas ist nicht nur Besichtigung, das ist gelebte Geschichte.\n\n### Inklusive\n\n- Geführter Kulturerbe-Spaziergang durch die Lodhi Gardens\n- Geschichten über Architektur, Dynastien und Delhis Entwicklung\n- Natur, Vögel und friedliche grüne Atmosphäre\n- Fotografie-Hilfe: spontane und Solo-Aufnahmen\n- Reisetipps für den Rest Ihrer Delhi-Erkundung\n\n### Nicht inklusive\n\n- Mittagessen-/Snack-Stopp im India Habitat Centre (Verpflegungskosten separat)",
+  "highlights": [
+   "Tauchen Sie ein in die anmutige Mischung aus Geschichte, Kunst und Natur des Lodhi Garden bei einem geführten Spaziergang"
+  ],
+  "included": [
+   "Geführter Kulturerbe-Spaziergang durch die Lodhi Gardens\nGeschichten über Architektur, Dynastien und Delhis Entwicklung\nNatur, Vögel und friedliche grüne Atmosphäre\nFotografie-Hilfe: spontane und Solo-Aufnahmen\nReisetipps für den Rest Ihrer Delhi-Erkundung"
+  ],
+  "notIncluded": [
+   "Mittagessen-/Snack-Stopp im India Habitat Centre (Verpflegungskosten separat)"
+  ]
+ },
+ "delhi-guided-shopping-tour-experience-with-expert": {
+  "title": "Delhi: Geführte Shopping-Tour mit Expertin",
+  "metaTitle": "Delhi: Geführte Shopping-Tour mit Expertin",
+  "metaDescription": "Erkunden Sie Delhis belebte Märkte und versteckte lokale Geschäfte bei einer geführten Shopping-Tour.",
+  "shortDescription": "Erkunden Sie Delhis belebte Märkte und versteckte lokale Geschäfte",
+  "fullDescription": "Delhi: Geführte Shopping-Tour mit Expertin. Erkunden Sie Delhis belebte Märkte und versteckte lokale Geschäfte.\n\nErleben Sie die lebendigen Märkte von Delhi auf einer geführten Shopping-Tour mit einer sachkundigen lokalen Expertin. Erkunden Sie belebte Basare und versteckte Geschäfte, in denen Sie Textilien, Kunsthandwerk, Schmuck, Gewürze und einzigartige Souvenirs finden.\n\nIhre Reiseführerin hilft Ihnen, lokale Preise zu verstehen, unterstützt Sie beim Verhandeln und gibt Ihnen Insider-Tipps, um Ihr Einkaufserlebnis authentisch und angenehm zu gestalten. Reisen Sie bequem in einem privaten, klimatisierten Auto zwischen den Orten, was die Tour einfach und stressfrei macht.\n\nDieses Rundum-Erlebnis ist auf Ihre Interessen und Ihr Tempo zugeschnitten, perfekt für Erstbesucher, Alleinreisende oder jeden, der wie ein Einheimischer einkaufen möchte, während er von fachkundiger Führung profitiert.\n\n### Inklusive\n\n- Experten-Shopping-Führerin\n- Abholung und Rückfahrt vom Hotel (klimatisiertes Auto)\n- Wasser in Flaschen\n- Alle Steuern und Parkgebühren\n- Hilfe bei Verhandlung und Qualitätsauswahl\n\n### Nicht inklusive\n\n- Mahlzeiten\n- Persönliche Einkaufskosten\n- Trinkgelder",
+  "highlights": [
+   "Erkunden Sie Delhis belebte Märkte und versteckte lokale Geschäfte"
+  ],
+  "included": [
+   "Experten-Shopping-Führerin\nAbholung und Rückfahrt vom Hotel (klimatisiertes Auto)\nWasser in Flaschen\nAlle Steuern und Parkgebühren\nHilfe bei Verhandlung und Qualitätsauswahl"
+  ],
+  "notIncluded": [
+   "Mahlzeiten\nPersönliche Einkaufskosten\nTrinkgelder"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

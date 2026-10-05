@@ -26840,6 +26840,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales\nPropinas y gratificaciones"
   ]
  },
+ "new-delhi-night-view-of-delhi-tour-4-hrs": {
+  "title": "New Delhi: tour nocturno de Delhi - 4 h",
+  "metaTitle": "New Delhi: tour nocturno de Delhi - 4 h",
+  "metaDescription": "Tour nocturno de Delhi de 4 horas en vehículo con aire acondicionado y guía, descubra los monumentos iluminados.",
+  "shortDescription": "Tour nocturno de Delhi de 4 horas en vehículo con aire acondicionado",
+  "fullDescription": "New Delhi: tour nocturno de Delhi - 4 h. Tour nocturno de Delhi de 4 horas en vehículo con aire acondicionado.\n\nEl conductor se reunirá con usted en su hotel en Delhi/Gurugram/Noida o en el aeropuerto a las 18:00 (0600 PM) (recogida flexible en el aeropuerto) y comenzará su tour de avistamiento de los monumentos de Delhi con un guía. El atractivo de la capital de la India, Delhi, adquiere una dimensión completamente nueva por la noche. Un viaje nocturno de 4 horas ofrece una vista relajante de las amplias avenidas de Delhi, que se vuelven aún más encantadoras y acogedoras cuando el cielo estrellado despejado brilla sobre los monumentos.\n\nUn agradable paseo para explorar India Gate, el Palacio Presidencial (paso en coche), el Parlamento (paso en coche), el Gurdwara Bangla Sahib, el Templo Shri Laxmi Narayan (Birla Mandir), el Templo ISKCON, en Delhi, antes de un recorrido por Delhi de noche. Connaught Place, uno de los mercados comerciales más antiguos del Delhi de Lutyens, es una visita obligada.\n\nLos paseantes nocturnos inundan India Gate por la noche. El destino final será el Gurdwara Bangla Sahib, un santuario sij históricamente significativo. Después de ver todos los sitios, el conductor lo llevará de regreso a su hotel o aeropuerto. Termine su noche en Delhi con maravillosos recuerdos. El conductor lo dejará en el aeropuerto o en el hotel en Delhi.\n\nNOTA:\n1) En invierno, puede haber algunos sitios que cierren antes o que no se puedan ver debido a la niebla.\n\n2) La Casa Presidencial (paso en coche): no se permite fotografía ni parada debido al protocolo de seguridad presidencial.\n\n3) En invierno, los templos cierran a las 19:30. Y en verano: a las 20:30.\n\n### Qué incluye\n\n- Todos los peajes, impuestos, estacionamiento, combustible, dietas del conductor\n- Vehículo con aire acondicionado con conductor\n- Servicio de recogida y traslado al hotel o aeropuerto\n- Guía turístico de habla inglesa en Delhi\n- Botella de agua mineral empaquetada en el coche\n\n### No incluye\n\n- Cualquier tarifa de entrada a monumentos\n- Cualquier comida y bebida no incluida en este precio\n- Cualquier propina o gratificación\n- Cualquier gasto personal\n- Souvenirs o fotos (disponibles para comprar)",
+  "highlights": [
+   "Tour nocturno de Delhi de 4 horas en vehículo con aire acondicionado"
+  ],
+  "included": [
+   "Todos los peajes, impuestos, estacionamiento, combustible, dietas del conductor\nVehículo con aire acondicionado con conductor\nServicio de recogida y traslado al hotel o aeropuerto\nGuía turístico de habla inglesa en Delhi\nBotella de agua mineral empaquetada en el coche"
+  ],
+  "notIncluded": [
+   "Cualquier tarifa de entrada a monumentos\nCualquier comida y bebida no incluida en este precio\nCualquier propina o gratificación\nCualquier gasto personal\nSouvenirs o fotos (disponibles para comprar)"
+  ]
+ },
+ "delhi-lodhi-garden-guided-story-walk-optional": {
+  "title": "Delhi: paseo narrado guiado por Lodhi Garden y excursiones opcionales",
+  "metaTitle": "Delhi: paseo narrado guiado por Lodhi Garden",
+  "metaDescription": "Sumérjase en la elegante mezcla de historia, arte y naturaleza de los jardines de Lodhi en un paseo guiado por Delhi.",
+  "shortDescription": "Delhi: paseo narrado guiado por Lodhi Garden y excursiones opcionales.",
+  "fullDescription": "Delhi: paseo narrado guiado por Lodhi Garden y excursiones opcionales.\n\nAdéntrese en la mezcla más elegante de historia, arte y naturaleza de Delhi en los Jardines de Lodhi. Descubra un santuario de tumbas con cúpulas, senderos antiguos, loros cantores, raíces de baniano y corredores matutinos que respiran siglos de historias.\n\nCamine despacio, observe profundamente y conéctese con Delhi más allá de la mirada turística habitual. Explore grandiosas tumbas islámicas del siglo 15, hermosos puentes arqueados, mezquitas reales, rincones ocultos y el ritmo tranquilo de la naturaleza de la mano con la arquitectura del Sultanato.\n\nDespués del paseo, diríjase al elegante India Habitat Centre, un centro cultural para artistas, diplomáticos y pensadores de la ciudad. Relájese con un snack o un almuerzo (a su elección), comparta historias de viaje y hable sobre Delhi como la conocen los locales, desde rincones de cafés hasta secretos de las calles, festivales, arte y comida.\n\nEsto no es solo turismo, es respirar historia.\n\n### Qué incluye\n\n- Paseo patrimonial guiado por los Jardines de Lodhi\n- Historias sobre arquitectura, dinastías y la evolución de Delhi\n- Naturaleza, aves y un ambiente verde y pacífico\n- Ayuda con la fotografía: tomas espontáneas e individuales\n- Consejos de viaje para el resto de su exploración de Delhi\n\n### No incluye\n\n- Parada para almuerzo/snack en el India Habitat Centre (coste de la comida aparte)",
+  "highlights": [
+   "Sumérjase en la elegante mezcla de historia, arte y naturaleza de los jardines de Lodhi en un paseo guiado"
+  ],
+  "included": [
+   "Paseo patrimonial guiado por los Jardines de Lodhi\nHistorias sobre arquitectura, dinastías y la evolución de Delhi\nNaturaleza, aves y un ambiente verde y pacífico\nAyuda con la fotografía: tomas espontáneas e individuales\nConsejos de viaje para el resto de su exploración de Delhi"
+  ],
+  "notIncluded": [
+   "Parada para almuerzo/snack en el India Habitat Centre (coste de la comida aparte)"
+  ]
+ },
+ "delhi-guided-shopping-tour-experience-with-expert": {
+  "title": "Delhi: experiencia de compras guiada con una experta",
+  "metaTitle": "Delhi: experiencia de compras guiada con una experta",
+  "metaDescription": "Explore los bulliciosos mercados y las tiendas locales ocultas de Delhi en un tour de compras guiado.",
+  "shortDescription": "Explore los bulliciosos mercados y las tiendas locales ocultas de Delhi",
+  "fullDescription": "Delhi: experiencia de compras guiada con una experta. Explore los bulliciosos mercados y las tiendas locales ocultas de Delhi.\n\nExperimente los vibrantes mercados de Delhi en un tour de compras guiado con una experta local conocedora. Explore bulliciosos bazares y tiendas ocultas, donde encontrará textiles, artesanías, joyas, especias y souvenirs únicos.\n\nSu guía le ayudará a entender los precios locales, le asistirá con la negociación y le proporcionará consejos de experta para hacer sus compras auténticas y agradables. Viaje cómodamente en un coche privado con aire acondicionado entre los lugares, haciendo que el tour sea fácil y sin estrés.\n\nEsta experiencia todo incluido está personalizada según sus intereses y ritmo, perfecta para visitantes primerizos, viajeros solos o cualquier persona que desee comprar como un local mientras disfruta de orientación experta durante todo el recorrido.\n\n### Qué incluye\n\n- Guía experta de compras\n- Recogida y traslado al hotel (coche con aire acondicionado)\n- Agua embotellada\n- Todos los impuestos y el estacionamiento\n- Ayuda con la negociación y la selección de calidad\n\n### No incluye\n\n- Comida\n- Gastos personales de compras\n- Propinas y gratificaciones",
+  "highlights": [
+   "Explore los bulliciosos mercados y las tiendas locales ocultas de Delhi"
+  ],
+  "included": [
+   "Guía experta de compras\nRecogida y traslado al hotel (coche con aire acondicionado)\nAgua embotellada\nTodos los impuestos y el estacionamiento\nAyuda con la negociación y la selección de calidad"
+  ],
+  "notIncluded": [
+   "Comida\nGastos personales de compras\nPropinas y gratificaciones"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
