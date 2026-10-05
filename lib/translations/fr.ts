@@ -22374,6 +22374,76 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "from-delhi-3-day-ranthambore-tiger-safari-tours": {
+  "title": "Depuis Delhi : circuits de safari aux tigres de Ranthambore en Inde, 3 jours",
+  "metaTitle": "Delhi : safari aux tigres de Ranthambore, 3 jours",
+  "metaDescription": "Observez des tigres du Bengale dans leur habitat naturel avec des guides experts.",
+  "shortDescription": "Observez des tigres du Bengale dans leur habitat naturel avec des guides experts.",
+  "fullDescription": "Depuis Delhi : circuits de safari aux tigres de Ranthambore en Inde, 3 jours. Observez des tigres du Bengale dans leur habitat naturel avec des guides experts.\n\nLancez-vous dans une aventure inoubliable de safari aux tigres en Inde avec ce circuit privé de 3 jours depuis Delhi. Parfait pour les passionnés de faune sauvage, ce voyage vous plonge dans la beauté sauvage du parc national de Ranthambore, abritant des tigres du Bengale, des léopards, et des oiseaux exotiques, tout en offrant confort, encadrement expert, et une expérience nature inoubliable.\n\n**Jour 1 : Delhi à Ranthambore**\nCommencez votre aventure par une prise en charge matinale à votre hôtel ou à l'aéroport à Delhi, Gurugram, Noida, Ghaziabad, ou Faridabad. Détendez-vous dans un transport privé climatisé en voyageant vers Ranthambore, en profitant de la campagne pittoresque. À l'arrivée, rencontrez votre guide expert, qui vous présente le riche écosystème du parc. Selon votre choix de réservation, enregistrez-vous dans un hôtel 4 ou 5 étoiles, ou préparez-vous pour une expérience purement axée sur le safari. En soirée, lancez-vous dans votre premier safari passionnant, guidé par des experts qui vous aident à repérer la faune sauvage, et, avec un peu de chance, le majestueux tigre du Bengale dans son habitat naturel.\n\n**Jour 2 : exploration en safari à Ranthambore**\nLevez-vous tôt pour un safari matinal, alors que la forêt s'éveille. Vivez le frisson d'explorer un terrain accidenté en jeep ouverte, tout en découvrant la flore, la faune, et le comportement des tigres avec votre guide expert. Après une pause déjeuner pittoresque, continuez avec un safari l'après-midi. Découvrez des léopards, des sangliers, des cerfs, et des espèces d'oiseaux vibrantes, tout en profitant des paysages à couper le souffle. Retournez à votre hôtel pour vous détendre et dîner, ou poursuivez votre immersion dans la faune sauvage si vous avez opté pour le forfait sans hôtel.\n\n**Jour 3 : de Ranthambore à Delhi**\nLors de la dernière matinée, profitez d'un dernier safari pour capturer l'essence de la nature sauvage de Ranthambore. Observez la faune dans son environnement naturel, et savourez l'atmosphère paisible avant de retourner vers Delhi. Votre chauffeur vous déposera à votre hôtel ou à l'aéroport à Delhi, Gurugram, Noida, Ghaziabad, ou Faridabad, concluant une inoubliable expérience de safari aux tigres en Inde, pleine d'aventure, de nature, et de rencontres impressionnantes avec la faune sauvage.\n\n**Ce qui est inclus**\nVoiture privée climatisée avec chauffeur (Delhi - Ranthambore - Delhi)\nPrise en charge et retour à l'hôtel ou à l'aéroport\n3 safaris en canter partagé au parc national de Ranthambore\nServices de circuit privé avec rythme personnalisable\nChauffeur anglophone\nEau en bouteille pendant le voyage\nHébergement de 2 nuits dans un hôtel 4 étoiles (si l'option est choisie)\n2 petits-déjeuners à Ranthambore (si l'option est choisie)\n2 dîners à Ranthambore (si l'option est choisie)\n\n**Non inclus**\nRepas et dépenses personnelles\nPourboires et gratifications\nFrais d'appareil photo/caméra",
+  "highlights": [
+   "Observez des tigres du Bengale dans leur habitat naturel avec des guides experts"
+  ],
+  "included": [
+   "Voiture privée climatisée avec chauffeur (Delhi - Ranthambore - Delhi)",
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "3 safaris en canter partagé au parc national de Ranthambore",
+   "Services de circuit privé avec rythme personnalisable",
+   "Chauffeur anglophone",
+   "Eau en bouteille pendant le voyage",
+   "Hébergement de 2 nuits dans un hôtel 4 étoiles (si l'option est choisie)",
+   "2 petits-déjeuners à Ranthambore (si l'option est choisie)",
+   "2 dîners à Ranthambore (si l'option est choisie)"
+  ],
+  "notIncluded": [
+   "Repas et dépenses personnelles",
+   "Pourboires et gratifications",
+   "Frais d'appareil photo/caméra"
+  ]
+ },
+ "from-delhi-3-day-ranthambore-tour-with-3-tiger": {
+  "title": "Depuis Delhi : circuit de 3 jours à Ranthambore avec 3 safaris aux tigres",
+  "metaTitle": "Delhi : Ranthambore 3 jours, 3 safaris aux tigres",
+  "metaDescription": "Vivez 3 safaris dans la jungle lors d'un circuit nature de 3 jours à Ranthambore.",
+  "shortDescription": "Vivez 3 safaris dans la jungle lors d'un circuit nature de 3 jours à Ranthambore.",
+  "fullDescription": "Depuis Delhi : circuit de 3 jours à Ranthambore avec 3 safaris aux tigres. Vivez 3 safaris dans la jungle lors d'un circuit nature de 3 jours à Ranthambore.\n\n**Ce qui est inclus**\nVoiture privée climatisée pour les transferts Delhi-Ranthambore-Delhi\n3 safaris en canter partagé dans la jungle au parc national de Ranthambore\nPermis de safari et frais d'entrée au parc pour les 3 safaris inclus\n2 nuits au Ranthambhore Heritage Haveli ou hôtel similaire (option avec hôtel uniquement)\nPetit-déjeuner, déjeuner, et dîner (option avec hôtel uniquement)\n\n**Non inclus**\nBoissons et nourriture supplémentaire non incluses dans le forfait sélectionné\nPourboires pour le chauffeur et le personnel de safari\nDépenses personnelles",
+  "highlights": [
+   "Vivez 3 safaris dans la jungle lors d'un circuit nature de 3 jours à Ranthambore"
+  ],
+  "included": [
+   "Voiture privée climatisée pour les transferts Delhi-Ranthambore-Delhi",
+   "3 safaris en canter partagé dans la jungle au parc national de Ranthambore",
+   "Permis de safari et frais d'entrée au parc pour les 3 safaris inclus",
+   "2 nuits au Ranthambhore Heritage Haveli ou hôtel similaire (option avec hôtel uniquement)",
+   "Petit-déjeuner, déjeuner, et dîner (option avec hôtel uniquement)"
+  ],
+  "notIncluded": [
+   "Boissons et nourriture supplémentaire non incluses dans le forfait sélectionné",
+   "Pourboires pour le chauffeur et le personnel de safari",
+   "Dépenses personnelles"
+  ]
+ },
+ "park-national-guided-tour": {
+  "title": "Delhi : visite du parc national de Sariska en une journée avec safari aux tigres",
+  "metaTitle": "Delhi : parc national de Sariska en une journée",
+  "metaDescription": "Explorez la magnifique réserve de tigres de Sariska, célèbre pour ses tigres du Bengale.",
+  "shortDescription": "Explorez la magnifique réserve de tigres de Sariska, célèbre pour ses tigres du Bengale.",
+  "fullDescription": "Delhi : visite du parc national de Sariska en une journée avec safari aux tigres. Explorez la magnifique réserve de tigres de Sariska, célèbre pour ses tigres du Bengale.\n\n**Départ matinal depuis Delhi**\nDistance : environ 200 km (4 à 5 heures en voiture)\nDépart vers 5h00 pour atteindre Sariska vers 9h30-10h00.\nPetit-déjeuner en chemin dans un restaurant local ou un dhaba.\n\n**Arrivée au parc national de Sariska**\nAtteignez la porte d'entrée du parc, et terminez l'enregistrement pour le safari.\nOptez pour un safari en jeep ou en canter. Ceux-ci durent généralement 3 à 4 heures.\n\n**Safari matinal (10h00-13h00)**\nExplorez les zones centrales de la réserve de tigres de Sariska.\nRepérez des tigres du Bengale, des espèces de cerfs (comme le sambar et le chital), des nilgauts, des léopards, et diverses espèces d'oiseaux.\n\n**Pause déjeuner**\nDéjeunez dans un restaurant ou complexe à proximité. Certains complexes près du parc proposent une excellente cuisine du Rajasthan.\n\n**Activités optionnelles après le déjeuner**\nVisitez le fort de Kankwari, un ancien fort situé dans le parc.\nRendez-vous au temple Pandupol Hanuman, associé au Mahabharata.\nDétendez-vous, et profitez de la beauté pittoresque des collines d'Aravalli.\n\n**Trajet de retour vers Delhi**\nDépart du trajet de retour vers 18h30.\nArrivée à Delhi vers 22h30-23h00 (10:30-11:00 PM).\n\n**Ce qui est inclus**\nPrise en charge et retour privés\nGuide privé\nTransport en voiture climatisée\nEau minérale en bouteille\nSafari en jeep/canter (selon disponibilité)\nToutes les taxes et le stationnement\n\n**Non inclus**\nDéjeuner\nToute dépense personnelle",
+  "highlights": [
+   "Explorez la magnifique réserve de tigres de Sariska, célèbre pour ses tigres du Bengale"
+  ],
+  "included": [
+   "Prise en charge et retour privés",
+   "Guide privé",
+   "Transport en voiture climatisée",
+   "Eau minérale en bouteille",
+   "Safari en jeep/canter (selon disponibilité)",
+   "Toutes les taxes et le stationnement"
+  ],
+  "notIncluded": [
+   "Déjeuner",
+   "Toute dépense personnelle"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
