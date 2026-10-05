@@ -23911,6 +23911,76 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "from-delhi-same-day-taj-mahal-group-tour-with": {
+  "title": "Desde Delhi: tour grupal al Taj Mahal el mismo día con traslados",
+  "metaTitle": "Delhi: Taj Mahal mismo día, grupo",
+  "metaDescription": "Visita el icónico Taj Mahal, Patrimonio de la Humanidad de la UNESCO.",
+  "shortDescription": "Visita el icónico Taj Mahal, Patrimonio de la Humanidad de la UNESCO.",
+  "fullDescription": "Desde Delhi: tour grupal al Taj Mahal el mismo día con traslados. Visita el icónico Taj Mahal, Patrimonio de la Humanidad de la UNESCO.\n\nExperimenta la belleza atemporal del Taj Mahal en un sencillo tour grupal el mismo día desde Delhi. Comienza tu viaje con una cómoda recogida y viaja en un vehículo con aire acondicionado hasta Agra, disfrutando de un trayecto fluido por la autopista Yamuna.\n\nAl llegar, encuéntrate con tu guía profesional y explora el mundialmente famoso Taj Mahal, Patrimonio de la Humanidad de la UNESCO, construido por el emperador Shah Jahan en memoria de Mumtaz Mahal. Admira la impresionante arquitectura de mármol blanco, el intrincado trabajo de incrustaciones, y conoce la romántica historia mogol detrás de este monumento icónico.\n\nDespués de visitar el Taj Mahal, continúa hacia el impresionante Fuerte de Agra, otro sitio catalogado por la UNESCO. Descubre sus majestuosos palacios, patios, y cámaras reales mientras disfrutas de vistas al Taj Mahal desde el interior de las murallas del fuerte.\n\nTambién puedes disponer de tiempo libre para almorzar en un restaurante local (opcional) y una breve parada para descubrir la artesanía local y el arte en mármol. Por la tarde, relájate en tu trayecto de regreso a Delhi, donde serás dejado en tu hotel o en el lugar seleccionado.\n\nPerfecto para viajeros con tiempo limitado, este tour grupal guiado ofrece comodidad, confort, y una enriquecedora experiencia cultural, todo en un día inolvidable.\n\n**Qué incluye**\nTour turístico grupal\nViaje en minivan con aire acondicionado\nGuía local profesional para todos los monumentos\nTrayecto en autobús de batería desde el estacionamiento hasta la entrada del Taj Mahal, recogida y regreso desde lugares seleccionados de Delhi\nBotella de agua mineral de cortesía\nTodos los impuestos aplicables, peajes, estacionamiento, y cargos por servicio incluidos\n\n**No incluye**\nDesayuno no incluido\nAlmuerzo no incluido (disponible por cuenta propia)\nTarifas de entrada a los monumentos no incluidas",
+  "highlights": [
+   "Visita el icónico Taj Mahal, Patrimonio de la Humanidad de la UNESCO"
+  ],
+  "included": [
+   "Tour turístico grupal",
+   "Viaje en minivan con aire acondicionado",
+   "Guía local profesional para todos los monumentos",
+   "Trayecto en autobús de batería desde el estacionamiento hasta la entrada del Taj Mahal, recogida y regreso desde lugares seleccionados de Delhi",
+   "Botella de agua mineral de cortesía",
+   "Todos los impuestos aplicables, peajes, estacionamiento, y cargos por servicio incluidos"
+  ],
+  "notIncluded": [
+   "Desayuno no incluido",
+   "Almuerzo no incluido (disponible por cuenta propia)",
+   "Tarifas de entrada a los monumentos no incluidas"
+  ]
+ },
+ "from-delhi-mathura-vrindavan-day-tour-with-lunch": {
+  "title": "Desde Delhi: tour de un día a Mathura y Vrindavan con almuerzo y guía",
+  "metaTitle": "Delhi: Mathura-Vrindavan, almuerzo y guía",
+  "metaDescription": "Siente la energía que eriza la piel en la celda exacta donde nació Krishna",
+  "shortDescription": "Siente la energía que eriza la piel en la celda exacta donde nació Krishna",
+  "fullDescription": "Desde Delhi: tour de un día a Mathura y Vrindavan con almuerzo y guía. Siente la energía que eriza la piel en la celda exacta donde nació Krishna.\n\nExplora el lugar de nacimiento del Señor Krishna en una excursión de un día desde Delhi. Visita el templo de Krishna Janmabhoomi, el templo de Dwarkadhish, y el templo de Banke Bihari. Observa la puesta de sol en Prem Mandir y conoce la magia de Nidhivan.\n\nComienza tu día con una visita al templo de Krishna Janmabhoomi. Siente la energía que eriza la piel en la celda de prisión exacta donde nació Krishna. Descubre cómo la mezquita de Aurangzeb, construida sobre el sitio, alberga hoy a peregrinos hindúes en extraña armonía.\n\nA continuación, visita el templo de Dwarkadhish y observa el aarti matutino. Observa a los sacerdotes agitar lámparas de siete niveles al ritmo de tambores que no han cambiado en siglos. Prueba un prasadam tan dulce que entenderás por qué Krishna robaba mantequilla.\n\nCamina por los escalones de Vishram Ghat donde Krishna descansó tras derrotar a Kansa. Visita Sati Burj, la torre del siglo XVI donde antaño rezaban las reinas rajput. ¿Ves esa discreta tienda de dulces? Sus pedas usan leche de las propias vacas de Nand Gaon de Krishna.\n\nDespués del almuerzo, dirígete al templo de Banke Bihari. Experimenta el ritual único de la cortina, donde la deidad «juega al escondite» con los devotos. Descubre por qué los sacerdotes nunca tocan campanas aquí (se dice que Krishna se quejó de que le dolían los oídos).\n\nCamina entre los retorcidos árboles bajra de Nidhivan, que se dice se transforman en gopis por la noche. Escucha la extraña historia de cómo las hojas de tulsi aparecen a diario sobre el trono nocturno de Krishna.\n\nObserva el mármol blanco cobrar vida con luz dorada y proyecciones devocionales en Prem Mandir. Visita la cámara de meditación subterránea donde el sonido desaparece. Al caer la tarde, haz una parada en el dhaba de carretera de Goverdhan para probar un rabri tan espeso que la cuchara se sostiene de pie.\n\nComparte las últimas historias sobre cómo Akbar donó una vez oro para el cumpleaños de Krishna. Recibe una pequeña vasija de tierra sagrada de Braj: planta tulsi en ella para obtener bendiciones.\n\n**Qué incluye**\n**1. Recogida y regreso cómodos**: servicio puerta a puerta para mayor comodidad y facilidad\n**2. Transporte privado**: coche con aire acondicionado durante todo el tour\n**3. Guía experto**: acompañado por un guía turístico profesional y conocedor\n**4. Refrigerios**: botella de agua mineral de cortesía para mantenerte hidratado\n**5. Impuestos y tarifas**: todos los peajes y tarifas de estacionamiento cubiertos, sin ninguna preocupación\n\n**No incluye**\nRecogida y regreso al hotel\nGastos personales",
+  "highlights": [
+   "Siente la energía que eriza la piel en la celda exacta donde nació Krishna"
+  ],
+  "included": [
+   "1. Recogida y regreso cómodos: servicio puerta a puerta para mayor comodidad y facilidad",
+   "2. Transporte privado: coche con aire acondicionado durante todo el tour",
+   "3. Guía experto: acompañado por un guía turístico profesional y conocedor",
+   "4. Refrigerios: botella de agua mineral de cortesía para mantenerte hidratado",
+   "5. Impuestos y tarifas: todos los peajes y tarifas de estacionamiento cubiertos, sin ninguna preocupación"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Gastos personales"
+  ]
+ },
+ "from-delhi-8-day-golden-triangle-jodhpur-udaipur": {
+  "title": "Desde Delhi: tour del Triángulo de Oro de 8 días con Jodhpur y Udaipur",
+  "metaTitle": "Delhi: Triángulo de Oro 8 días, Jodhpur-Udaipur",
+  "metaDescription": "Presencia el mundialmente famoso Taj Mahal y el Fuerte de Agra",
+  "shortDescription": "Presencia el mundialmente famoso Taj Mahal y el Fuerte de Agra",
+  "fullDescription": "Desde Delhi: tour del Triángulo de Oro de 8 días con Jodhpur y Udaipur. Presencia el mundialmente famoso Taj Mahal y el Fuerte de Agra.\n\n**Día 1 – Llegada a Delhi**\nA tu llegada al aeropuerto de Delhi o a la estación de tren, nuestro representante te recibirá y te ayudará con el traslado a tu hotel. Regístrate y relájate después de tu viaje. La tarde queda libre para explorar la ciudad por tu cuenta. Noche en Delhi.\n\n**Día 2 – Visitas en Delhi**\nDespués del desayuno, continúa con un tour guiado de día completo por la ciudad de Delhi. Visita la Jama Masjid, Raj Ghat, y pasa frente a India Gate, el Parlamento, y el Rashtrapati Bhavan. Explora el Qutub Minar, la tumba de Humayun, y el Templo del Loto. Regreso a tu hotel para pasar la noche.\n\n**Día 3 – Delhi a Agra (aprox. 4 horas de trayecto)**\nDespués del desayuno, viaje a Agra, visitando en el camino Sikandra, la tumba de Akbar. A la llegada, regístrate en el hotel. Más tarde, explora el magnífico Taj Mahal, símbolo de amor eterno, seguido del Fuerte de Agra y la tumba de Itmad-ud-Daula. La tarde queda libre para ir de compras. Noche en Agra.\n\n**Día 4 – Agra a Jaipur vía Fatehpur Sikri (aprox. 5 horas de trayecto)**\nDespués del desayuno, parte hacia Jaipur. En el camino, haz una parada en Fatehpur Sikri, la antigua capital mogol, y visita Buland Darwaza, Jama Masjid, y Panch Mahal. Continúa hacia Jaipur y regístrate en tu hotel. La tarde queda libre para explorar los coloridos bazares locales. Noche en Jaipur.\n\n**Día 5 – Visitas en Jaipur**\nDisfruta del desayuno antes de salir para un tour de día completo por Jaipur. Visita el majestuoso fuerte Amber, donde puedes disfrutar de un paseo en elefante o jeep hasta la entrada del fuerte. Más tarde, ve el City Palace, el observatorio Jantar Mantar, y el icónico Hawa Mahal. Pasa frente al Jal Mahal para fotos. Por la noche, puedes disfrutar de un programa cultural opcional con cena tradicional. Noche en Jaipur.\n\n**Día 6 – Jaipur a Jodhpur (aprox. 6 horas de trayecto)**\nDespués del desayuno, viaja a Jodhpur, conocida como la ciudad azul. A la llegada, regístrate en tu hotel. La tarde queda libre para descansar o explorar los bulliciosos mercados locales cerca de la Torre del Reloj. Noche en Jodhpur.\n\n**Día 7 – Jodhpur a Udaipur (aprox. 5 horas de trayecto)**\nComienza el día con visitas en Jodhpur, incluyendo el gran fuerte de Mehrangarh, Jaswant Thada, y una vista panorámica del palacio Umaid Bhawan. Más tarde, viaja a Udaipur con una parada opcional en los hermosos templos jainistas de Ranakpur. Llega a Udaipur y regístrate en tu hotel. Noche en Udaipur.\n\n**Día 8 – Visitas en Udaipur y salida**\nDespués del desayuno, continúa con las visitas a la Ciudad de los Lagos. Visita el magnífico City Palace, el templo de Jagdish, el Saheliyon Ki Bari, y el Museo de Arte Popular. Disfruta de un pintoresco paseo en barco por el lago Pichola para admirar el Jag Mandir y el Jag Niwas. Más tarde, traslado al aeropuerto o la estación de tren de Udaipur para continuar tu viaje.\n\n**Qué incluye**\nAlojamiento de 6 noches en un hotel de 3 estrellas en habitación twin\nTraslados y visitas en vehículo privado con aire acondicionado\nGuías turísticos profesionales de la ciudad\nAgua potable embotellada en el coche\nDesayuno (6)\nTodos los peajes e impuestos\nEstacionamiento\n\n**No incluye**\nAlmuerzo, cena\nEntradas a los monumentos\nCualquier bebida\nGastos personales y cualquier otra actividad\nPropinas",
+  "highlights": [
+   "Presencia el mundialmente famoso Taj Mahal y el Fuerte de Agra"
+  ],
+  "included": [
+   "Alojamiento de 6 noches en un hotel de 3 estrellas en habitación twin",
+   "Traslados y visitas en vehículo privado con aire acondicionado",
+   "Guías turísticos profesionales de la ciudad",
+   "Agua potable embotellada en el coche",
+   "Desayuno (6)",
+   "Todos los peajes e impuestos",
+   "Estacionamiento"
+  ],
+  "notIncluded": [
+   "Almuerzo, cena",
+   "Entradas a los monumentos",
+   "Cualquier bebida",
+   "Gastos personales y cualquier otra actividad",
+   "Propinas"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
