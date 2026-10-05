@@ -4255,6 +4255,75 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld und Zuwendungen"
   ]
  },
+ "3-days-delhi-agra-jaipur-tour-with-options": {
+  "title": "3-tägige Tour Delhi, Agra und Jaipur mit Optionen",
+  "metaTitle": "Delhi-Agra-Jaipur: Goldenes Dreieck in 3 Tagen",
+  "metaDescription": "Erleben Sie den Sonnenaufgang am Taj Mahal auf Ihrer Delhi-Agra-Jaipur-Tour.",
+  "shortDescription": "Erleben Sie den Sonnenaufgang am Taj Mahal auf Ihrer Delhi-Agra-Jaipur-Tour.",
+  "fullDescription": "Erleben Sie das Beste der Golden-Triangle-Tour in Indien mit dieser 2-tägigen Delhi-Agra-Jaipur-Tour. Diese private Golden-Triangle-Indien-Route ist perfekt für Reisende mit begrenzter Zeit, die ikonische Sehenswürdigkeiten wie das Taj Mahal, das Agra Fort, und Jaipurs königliche Paläste erkunden möchten.\n\n**3-tägige Golden-Triangle-Tour:**\n\n**Tag 1**: Erkunden Sie Delhis Sehenswürdigkeiten: Qutub Minar, India Gate, das Humayun-Mausoleum, den Lotustempel, die Jama Masjid, eine Rikscha-Fahrt in Chandni Chowk, und Akshardham. Abendfahrt nach Agra. Übernachtung in Agra.\n\n**Tag 2**: Agra: Sonnenaufgang am Taj Mahal, Besuch des Agra Forts und von Itmad-ud-Daula. Fahrt nach Jaipur und Übernachtung in Jaipur.\n\n**Tag 3**: Jaipur: Entdecken Sie das Amber Fort, den City Palace, das Jantar Mantar, den Hawa Mahal, den Jal Mahal, und shoppen Sie auf den Märkten der Pink City. Abendfahrt nach Delhi.\n\nReisen Sie komfortabel mit dem Auto nach einem gut geplanten Golden-Triangle-Indien-Reiseführer, der Delhi, Agra, und Jaipur effizient abdeckt. Während viele Reisende eine 3-tägige Golden-Triangle-Route Indien bevorzugen, bietet dieser kurze Ausflug ein schnelles, aber unvergessliches Erlebnis.\n\nDiese Tour ist Teil beliebter Golden-Triangle-Tourpakete, mit Optionen vom Budget- bis zum Luxus-Golden-Triangle-Indien-Erlebnis. Das Golden Triangle Indien ist Indiens berühmtester touristischer Rundweg, der Delhi, Agra, und Jaipur verbindet, bekannt für seine reiche Kultur und sein Erbe.\n\nViele Reisende fragen sich, ob sich der Besuch des Golden Triangle Indien lohnt: die Antwort ist ja, dank seiner historischen Denkmäler, lebendigen Märkte, und königlichen Architektur. Sie können Ihre Reise einfach planen mit flexiblen Optionen wie dem Golden Triangle Indien mit dem Auto.\n\nDer Preis der Golden-Triangle-Tour Indien und die Kosten des Delhi-Agra-Jaipur-Tourpakets variieren je nach Hotelkategorie und Reisestil. Die beste Zeit für einen Besuch des Golden Triangle Indien ist von Oktober bis März wegen des angenehmen Wetters.\n\nOb Sie nach Golden-Triangle-Indien-Urlaubspaketen oder einer privaten Golden-Triangle-Tour Indien suchen, dieser Reiseplan hilft Ihnen zu verstehen, wie Sie eine Golden-Triangle-Reise planen und wie viele Tage für das Golden Triangle Indien ideal sind.",
+  "highlights": [
+   "Erleben Sie den Sonnenaufgang am Taj Mahal auf Ihrer Delhi-Agra-Jaipur-Tour"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto",
+   "Alle Mautgebühren, Steuern, und Parkgebühren inklusive",
+   "Reiseführer-Service in jeder Stadt",
+   "5-Sterne-Unterkunft (falls ausgewählt)",
+   "Eintritt zu den Denkmälern (falls ausgewählt)",
+   "Mineralwasser"
+  ],
+  "notIncluded": [
+   "Trinkgeld"
+  ]
+ },
+ "from-agra-one-day-taj-mahal-agra-fort-baby": {
+  "title": "Von Agra aus: eintägige Tour zum Taj Mahal, Agra Fort und Baby Taj",
+  "metaTitle": "Agra: Taj Mahal, Fort, Baby Taj in 1 Tag",
+  "metaDescription": "100 % private Tour mit engagiertem lokalem Guide und privatem klimatisiertem Auto.",
+  "shortDescription": "100 % private Tour mit engagiertem lokalem Guide und privatem klimatisiertem Auto.",
+  "fullDescription": "Erleben Sie die zeitlose Romantik und kaiserliche Pracht von Agra in Ihrem eigenen Tempo. Auf dieser privaten, vollständig individuell gestalteten Tour entdecken Sie das atemberaubende Taj Mahal, erkunden das majestätische Agra Fort, und bewundern die zarte Marmorkunst des Baby Taj. Geführt von einem leidenschaftlichen lokalen Experten, genießen Sie eine warme, problemlose Reise voller faszinierender Geschichte, mühelosem Ablauf, und unvergesslichen Momenten.\n\n**Tour-Highlights**\nPersönliches Erlebnis: privates klimatisiertes Fahrzeug und engagierter Guide für vollständigen Komfort, im Rahmen einer 100 % privaten Tour.\n\nSkip-the-Line-Leichtigkeit: Priority-Eintrittshilfe, damit Sie mehr Zeit mit der Besichtigung verbringen.\n\nMogul-Erbe: Entdecken Sie drei ikonische Denkmäler an einem einzigen Tag.\n\nFlexibles Tempo: ganz auf Ihren Komfort, Ihre Vorlieben, und Ihre Fotostopps zugeschnitten.\n\n**Detaillierte Reiseroute**\n\nAbholung: Treffen Sie Ihren privaten Fahrer und erfahrenen Guide an Ihrem Hotel in Agra, dem Bahnhof, oder dem gewünschten Ort mit einem herzlichen Empfang.\n\nTaj Mahal: Durchschreiten Sie die prächtigen Tore, um das strahlend weiße Marmor-Mausoleum zu bewundern. Ihr Guide erzählt Ihnen die beständige Romanze von Shah Jahan und Mumtaz Mahal, während er auf kunstvolle Marmor-Einlegearbeiten hinweist und Ihnen hilft, perfekte Fotos zu machen.\n\nAgra Fort: Erkunden Sie diese prächtige UNESCO-Weltkulturerbe-Festung. Wandeln Sie durch kaiserliche Paläste, kunstvoll verzierte Hofsäle, und den Marmorbalkon, auf dem Kaiser Shah Jahan seine letzten Jahre damit verbrachte, auf das Taj Mahal über den Yamuna-Fluss zu blicken.\n\nMittagspause: Entspannen Sie sich bei einem köstlichen Mittagessen in einem 5-Sterne-Hotel/lokalen Restaurant, um sich zu erholen und authentische nordindische Aromen zu probieren.\n\nBaby Taj (Mausoleum von I'timad-ud-Daulah): Besuchen Sie das exquisite \"Baby Taj\", die erste vollständig aus Marmor erbaute Mogul-Struktur. Friedlich am Flussufer ruhend, ist es bekannt für seine zarten Gitterbildschirme und feinen Marmormosaike.\n\nAbsetzung: Beenden Sie Ihren Tag mit einem komfortablen Transfer zurück zu Ihrem Hotel oder dem bevorzugten Absetzpunkt in Agra.\n\n**Was Sie mitbringen sollten**\nGültiger Lichtbildausweis oder Passkopie.\nBequeme Wanderschuhe und Sonnenschutz.",
+  "highlights": [
+   "100 % private Tour mit engagiertem lokalem Guide und privatem klimatisiertem Auto"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel/Flughafen",
+   "Privates klimatisiertes Auto für die gesamte Touraktivität mit Fahrer",
+   "Staatlich zugelassener erfahrener Reiseführer",
+   "Eintrittskarten zu den Denkmälern (falls ausgewählt)",
+   "Frühstück im 5-Sterne-Hotel (falls ausgewählt)",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren, Kraftstoff, und Parken"
+  ],
+  "notIncluded": [
+   "Jegliche persönlichen Ausgaben",
+   "Trinkgeld"
+  ]
+ },
+ "agra-taj-mahal-sunrise-and-agra-fort-half-day": {
+  "title": "Agra: Taj Mahal Sonnenaufgang und Agra Fort, geführte Halbtagestour",
+  "metaTitle": "Agra: Taj Mahal Sonnenaufgang, Fort, Halbtag",
+  "metaDescription": "Entdecken Sie die wahre Geschichte des Taj Mahal, des Agra Forts, und des Mogulreichs.",
+  "shortDescription": "Entdecken Sie die wahre Geschichte des Taj Mahal, des Agra Forts, und des Mogulreichs.",
+  "fullDescription": "Für diejenigen mit begrenzter Zeit ist eine geführte Halbtagestour zum Taj Mahal und Agra Fort die perfekte Option. Erleben Sie die Magie von Agra auf dieser privaten 5-stündigen Tour, die beide ikonischen Sehenswürdigkeiten in kurzer Zeit abdeckt.\n\n**Frühmorgendliche Abholung**\nIhre Tour beginnt um 5:30 Uhr mit einer Hotelabholung durch Ihren erfahrenen Fahrer/Guide. Entspannen Sie sich in einem privaten, klimatisierten Fahrzeug, während Sie zu Indiens ikonischster Kulturerbestätte, dem Taj Mahal, fahren.\n\n**Erleben Sie das Taj Mahal beim Sonnenaufgang**\nErleben Sie das Taj Mahal beim Sonnenaufgang, wie es aus dem Nebel auftaucht, gebadet im sanften Morgenlicht. Beobachten Sie voller Staunen, wie sich der Marmor von sanftem Grau und Gelb zu perlmuttartigem Creme und blendendem Weiß wandelt und einen wirklich faszinierenden Anblick schafft.\n\n**Frühstückspause**\nNach der Sonnenaufgangstour können Sie entweder zu Ihrem Hotel zurückkehren oder sich an einem köstlichen Frühstück in einem nahegelegenen Restaurant erfreuen.\n\n**Agra Fort**\nNachdem Sie sich erfrischt haben, geht es weiter zum Agra Fort, einer grandiosen Struktur, erbaut vom legendären Mogulkaiser Akbar. Aus rotem Sandstein gefertigt, zeigt das Fort exquisite Paläste wie Diwan-e-Aam, Khas Mahal, die Perlenmoschee, und Musamman Burj. Hier wurde Shah Jahan, der Schöpfer des Taj Mahal, von seinem Sohn Aurangzeb neun Jahre lang gefangen gehalten.\n\n**Rückkehr zu Ihrem Hotel**\nNach einer faszinierenden Erkundung des Agra Forts endet Ihre private Tour mit einer Absetzung an Ihrem Hotel oder einem anderen bevorzugten Ort in Agra. Begeben Sie sich auf diese unvergessliche Reise und tauchen Sie ein in die reiche Geschichte und architektonischen Wunder von Agra.",
+  "highlights": [
+   "Entdecken Sie die wahre Geschichte des Taj Mahal, des Agra Forts, und des Mogulreichs"
+  ],
+  "included": [
+   "Besichtigung im klimatisierten Privatauto",
+   "Beinhaltet einen offiziellen Reiseführer",
+   "Kraftstoff, Parken, und alle Steuern inklusive",
+   "Abhol- und Rückbringservice zum Hotel",
+   "Privates Tour-Erlebnis",
+   "Golfwagen-Service zum Taj Mahal vom Parkplatz aus",
+   "Skip-the-Line mit schnellem Eintritt zum Taj Mahal",
+   "Kostenlose Wasserflaschen und Schuhüberzieher inklusive"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren zu den Denkmälern",
+   "Trinkgeld",
+   "Mahlzeiten"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
