@@ -3068,6 +3068,86 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "5-days-private-luxury-golden-triangle-tour-agra": {
+  "title": "Visite privée de luxe du Triangle Doré de 5 jours : Agra, Jaipur, Delhi",
+  "metaTitle": "Triangle Doré de luxe, 5 jours, Agra-Jaipur-Delhi",
+  "metaDescription": "Explorez trois grandes villes : Delhi, Agra, Jaipur.",
+  "shortDescription": "Explorez trois grandes villes : Delhi, Agra, Jaipur.",
+  "fullDescription": "Découvrez le Triangle Doré de l'Inde lors de cette visite privée de luxe de 5 jours. Explorez trois grandes villes : Delhi, Agra, et Jaipur, avec 4 nuits d'hébergement en hôtel avec petit-déjeuner, des guides locaux privés pour toutes les visites, et un véhicule privé climatisé tout au long du voyage.",
+  "highlights": [
+   "Explorez trois grandes villes : Delhi, Agra, Jaipur"
+  ],
+  "included": [
+   "Visite privée",
+   "Transport en véhicule privé climatisé",
+   "4 nuits d'hébergement en hôtel avec petit-déjeuner (si option choisie)",
+   "Toutes les visites avec des guides locaux privés",
+   "Y compris tous les coûts de carburant, indemnités du chauffeur, péage, stationnement, repas du chauffeur, assurance du véhicule, halte nocturne",
+   "Prise en charge et retour aux hôtels, à l'aéroport, ou à la gare",
+   "Bouteilles d'eau minérale pendant les voyages"
+  ],
+  "notIncluded": [
+   "Frais d'entrée aux monuments",
+   "Frais de caméra aux monuments",
+   "Gratifications (optionnel)",
+   "Assurance voyage et billets d'avion et de train",
+   "Soins médicaux",
+   "Déjeuner et dîner",
+   "Pourboire pour le chauffeur et le guide",
+   "Dépenses personnelles telles qu'appels téléphoniques, tablettes, boissons, etc.",
+   "Tout ce qui n'est pas mentionné dans les inclusions"
+  ]
+ },
+ "agra-private-taj-mahal-photoshoot-with-entry": {
+  "title": "Agra : séance photo privée au Taj Mahal avec billet d'entrée",
+  "metaTitle": "Agra : Taj Mahal, séance photo privée",
+  "metaDescription": "Capturez la photo parfaite du Taj Mahal avec une séance photo privée.",
+  "shortDescription": "Capturez la photo parfaite du Taj Mahal avec une séance photo privée.",
+  "fullDescription": "Soyez pris en charge à votre hôtel à Agra et partez pour une aventure privée avec un objectif spécial : capturer des photographies incroyables près du Taj Mahal. Opter pour une expérience privée signifie que vous pouvez avoir l'attention exclusive d'un photographe personnel qui recommande et capture des photos de vous contre les plus beaux décors de ce monument mondialement connu.\n\nÉvitez les longues files pour les billets du Taj Mahal grâce à l'entrée incluse. Profitez du luxe d'avoir un photographe privé. Pas besoin de partager l'expérience, elle est juste pour vous. Le forfait inclut 15 meilleures photos par personne pour les voyageurs étrangers, ou 20 pour les voyageurs indiens ; au-delà, chaque photo supplémentaire coûte 100 roupies.",
+  "highlights": [
+   "Capturez la photo parfaite du Taj Mahal avec une séance photo privée"
+  ],
+  "included": [
+   "Photographe privé à l'intérieur du Taj Mahal uniquement",
+   "Pour les voyageurs étrangers, 15 meilleures photos par personne",
+   "Pour les voyageurs indiens, 20 meilleures photos par personne",
+   "Prise en charge et retour à l'hôtel à Agra",
+   "Billet d'entrée au Taj Mahal",
+   "Billet d'entrée sans file d'attente au Taj Mahal",
+   "Véhicule climatisé pour la prise en charge et le retour à Agra",
+   "Guide professionnel parlant anglais",
+   "Les photos d'enfants doivent être ajustées avec celles des adultes"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Gratifications",
+   "Pour plus de photos que celles incluses, les voyageurs doivent payer 100 Rs par photo"
+  ]
+ },
+ "from-delhi-overnight-taj-mahal-agra-city-tour-by": {
+  "title": "Depuis Delhi : visite d'une nuit du Taj Mahal et de la ville d'Agra en voiture",
+  "metaTitle": "Delhi-Agra : visite d'une nuit, Taj Mahal, voiture",
+  "metaDescription": "Admirez le Taj Mahal classé par l'UNESCO, la septième merveille du monde.",
+  "shortDescription": "Admirez le Taj Mahal classé par l'UNESCO, la septième merveille du monde.",
+  "fullDescription": "Découvrez le Taj Mahal et la ville d'Agra lors de cette visite d'une nuit en voiture depuis Delhi. Admirez le Taj Mahal classé par l'UNESCO, la septième merveille du monde, avec un guide local expert agréé par le gouvernement, 1 nuit d'hébergement en hôtel, et un véhicule privé climatisé pour toute l'activité de la visite.",
+  "highlights": [
+   "Admirez le Taj Mahal classé par l'UNESCO, la septième merveille du monde"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel/aéroport",
+   "Voiture privée climatisée pour toute l'activité du tour avec chauffeur",
+   "Guide touristique local expert agréé par le gouvernement",
+   "1 nuit d'hébergement en hôtel (si option sélectionnée)",
+   "Petit-déjeuner à l'hôtel",
+   "Bouteille d'eau minérale",
+   "Tous les péages et le stationnement"
+  ],
+  "notIncluded": [
+   "Déjeuner et dîner",
+   "Billets d'entrée aux monuments",
+   "Toute dépense personnelle"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
