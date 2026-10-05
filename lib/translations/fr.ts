@@ -21932,6 +21932,70 @@ export const FR_TOURS: Record<string, TourT> = {
    "Gratifications (optionnelles)"
   ]
  },
+ "from-delhi-3-days-golden-triangle-with-fatehpur": {
+  "title": "Depuis Delhi : Triangle d'or de 3 jours avec Fatehpur Sikri",
+  "metaTitle": "Delhi : Triangle d'or 3 jours avec Fatehpur Sikri",
+  "metaDescription": "Explorez les chefs-d'œuvre moghols du Taj Mahal et du fort d'Agra.",
+  "shortDescription": "Explorez les chefs-d'œuvre moghols du Taj Mahal et du fort d'Agra.",
+  "fullDescription": "Depuis Delhi : Triangle d'or de 3 jours avec Fatehpur Sikri. Explorez les chefs-d'œuvre moghols du Taj Mahal et du fort d'Agra.\n\n**Jour 1 : visites de Delhi, route vers Agra**\nVotre voyage commence à Delhi, la capitale vibrante de l'Inde mêlant histoire ancienne et vie moderne. Visitez des monuments emblématiques, notamment Qutub Minar, la tombe de Humayun, le temple du Lotus, India Gate, Raj Ghat, la Jama Masjid, et profitez d'un passage devant le Rashtrapati Bhavan. Arrêtez-vous pour des photos devant l'extérieur du Fort Rouge.\nSi le temps le permet, visitez le magnifique temple Akshardham.\nNuit à Agra.\n\n**Jour 2 : lever de soleil au Taj Mahal, Fatehpur Sikri, Chand Baori, Jaipur**\nCommencez tôt avec une visite au lever du soleil du Taj Mahal, l'un des monuments les plus beaux du monde, et symbole de l'amour éternel. Continuez vers l'impressionnant fort d'Agra, un site du patrimoine mondial de l'UNESCO.\n\nPlus tard, route vers Jaipur via Fatehpur Sikri, la capitale moghole abandonnée, et explorez le Buland Darwaza, le Diwan-i-Khas, et la vénérée tombe de Salim Chishti.\nContinuez vers Abhaneri pour admirer le magnifique Chand Baori, l'un des puits à degrés les plus profonds et complexes de l'Inde.\nNuit à Jaipur.\n\n**Jour 3 : visites de Jaipur, retour à Delhi**\nDécouvrez le patrimoine royal de Jaipur en commençant par le fort Amber, suivi du pittoresque puits à degrés Panna Meena ka Kund. Arrêtez-vous au Jal Mahal pour des photos, puis explorez la grandeur du City Palace, et les merveilles astronomiques du Jantar Mantar. Admirez l'emblématique Hawa Mahal, et profitez de temps libre pour faire du shopping dans les bazars colorés de Jaipur.\n\nEn soirée, route de retour vers Delhi, concluant votre voyage mémorable du Triangle d'or.\n\n**Ce qui est inclus**\nPrise en charge et retour aux hôtels ou à l'aéroport\nVisites en voiture privée climatisée\nCircuit privé avec guides locaux\nEntrée aux monuments (si l'option est sélectionnée)\nHébergement (si l'option est sélectionnée)\nBouteilles d'eau minérale\nToutes les taxes, le stationnement, et les frais de service\n\n**Non inclus**\nDépenses personnelles\nPourboires",
+  "highlights": [
+   "Explorez les chefs-d'œuvre moghols du Taj Mahal et du fort d'Agra"
+  ],
+  "included": [
+   "Prise en charge et retour aux hôtels ou à l'aéroport",
+   "Visites en voiture privée climatisée",
+   "Circuit privé avec guides locaux",
+   "Entrée aux monuments (si l'option est sélectionnée)",
+   "Hébergement (si l'option est sélectionnée)",
+   "Bouteilles d'eau minérale",
+   "Toutes les taxes, le stationnement, et les frais de service"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "new-delhi-half-day-city-highlights-tour": {
+  "title": "New Delhi : visite des points forts de la ville en demi-journée",
+  "metaTitle": "New Delhi : points forts en demi-journée",
+  "metaDescription": "Explorez les monuments emblématiques de New Delhi avec un guide local compétent.",
+  "shortDescription": "Explorez les monuments emblématiques de New Delhi avec un guide local compétent.",
+  "fullDescription": "New Delhi : visite des points forts de la ville en demi-journée. Explorez les monuments emblématiques de New Delhi avec un guide local compétent.\n\nDécouvrez les principaux points forts de New Delhi lors d'une visite guidée de la ville en demi-journée avec prise en charge à l'hôtel. Visitez des monuments emblématiques comme India Gate, la tombe de Humayun, et Qutub Minar, tout en découvrant la riche histoire de la capitale dans le confort climatisé.\n\nDurée : 5 heures\nTransport : voiture privée climatisée\n\n**Itinéraire : prise en charge depuis New Delhi (hôtel / endroit préféré)**\nCommencez votre visite par une prise en charge confortable à votre hôtel ou à l'endroit choisi à New Delhi.\n\n1. India Gate : visitez l'emblématique mémorial de guerre dédié aux soldats indiens. Profitez d'arrêts photo, et découvrez son importance historique.\n\n2. Rashtrapati Bhavan : passez devant la résidence officielle du président de l'Inde, et admirez sa grandiose architecture coloniale (arrêt photo / vue extérieure).\n\n3. Parlement : voyez l'impressionnant Parlement circulaire, un symbole clé du système démocratique de l'Inde (vue extérieure).\n\n4. Tombe de Humayun : explorez ce site du patrimoine mondial de l'UNESCO, et chef-d'œuvre architectural qui a inspiré le Taj Mahal.\n\n5. Qutub Minar : visitez le plus haut minaret en brique du monde, entouré de ruines anciennes et d'une riche histoire indo-islamique.\n\nRetour à l'hôtel : détendez-vous pendant le trajet de retour à votre hôtel.\n\n**Ce qui est inclus**\nVoiture privée climatisée\nPrise en charge et retour à l'hôtel\nBillet d'entrée (si l'option est sélectionnée)\nRepas (si l'option est sélectionnée)\nGuide touristique professionnel\nBouteille d'eau\nToutes les taxes et le stationnement\n\n**Non inclus**\nPourboires",
+  "highlights": [
+   "Explorez les monuments emblématiques de New Delhi avec un guide local compétent"
+  ],
+  "included": [
+   "Voiture privée climatisée",
+   "Prise en charge et retour à l'hôtel",
+   "Billet d'entrée (si l'option est sélectionnée)",
+   "Repas (si l'option est sélectionnée)",
+   "Guide touristique professionnel",
+   "Bouteille d'eau",
+   "Toutes les taxes et le stationnement"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "delhi-all-inclusive-old-new-delhi-full-half-day": {
+  "title": "Delhi : visite tout compris du Vieux et du New Delhi, journée complète et demi-journée",
+  "metaTitle": "Delhi : Vieux et New Delhi tout compris",
+  "metaDescription": "Découvrez les monuments emblématiques du Vieux et du New Delhi en une journée.",
+  "shortDescription": "Découvrez les monuments emblématiques du Vieux et du New Delhi en une journée.",
+  "fullDescription": "Delhi : visite tout compris du Vieux et du New Delhi, journée complète et demi-journée. Découvrez les monuments emblématiques du Vieux et du New Delhi en une journée.\n\nNotre chauffeur et guide touristique professionnel viendra vous chercher à l'endroit choisi à Faridabad, dans le Vieux Delhi, à New Delhi, Noida, Aerocity, ou Gurugram, et vous accueillera avant de commencer la visite.\n\nQutub Minar : visitez Qutub Minar, un site du patrimoine mondial de l'UNESCO, et l'un des monuments les plus célèbres de Delhi. Admirez son architecture magnifique, et explorez le complexe historique environnant.\n\nTemple du Lotus : visitez le magnifique temple du Lotus, connu pour son design unique en forme de lotus, et son environnement paisible. Profitez d'un arrêt photo et de la visite.\n\nJardins Lodi : explorez les pittoresques jardins Lodi, abritant de beaux jardins et des tombes historiques. Profitez d'une promenade relaxante et d'occasions de photos.\n\nIndia Gate : visitez India Gate, un célèbre mémorial de guerre dédié aux soldats indiens. Arrêtez-vous pour des photos, et profitez des environs.\n\nParlement : passez devant le bâtiment du Parlement, et découvrez son importance dans le gouvernement de l'Inde. Arrêt photo depuis l'extérieur.\n\nRashtrapati Bhavan : passez devant le Rashtrapati Bhavan, la résidence officielle du président de l'Inde, et admirez sa grandiose architecture depuis l'extérieur.\n\nTombe de Humayun : visitez la tombe de Humayun, un site du patrimoine mondial de l'UNESCO, et un exemple exceptionnel de l'architecture moghole avec de magnifiques jardins.\n\nJama Masjid : visitez la Jama Masjid, l'une des plus grandes mosquées de l'Inde, construite par l'empereur moghol Shah Jahan. Admirez son architecture impressionnante et sa cour.\n\nChandni Chowk : explorez les rues historiques de Chandni Chowk, l'un des marchés les plus anciens et animés de Delhi. Profitez des visites, des boutiques locales, et de l'atmosphère vibrante.\n\nGurudwara Sis Ganj : visitez cet important temple sikh, et découvrez son histoire, ses traditions, et son atmosphère paisible.\n\nFort Rouge : passez devant l'emblématique Fort Rouge, un site du patrimoine mondial de l'UNESCO, et chef-d'œuvre de l'architecture moghole. Profitez d'un arrêt photo depuis l'extérieur.\n\nRetour à l'hôtel : à la fin de la visite, votre chauffeur vous déposera à l'endroit choisi à Aerocity, Noida, New Delhi, Vieux Delhi, Gurugram, ou Faridabad.\n\n**Ce qui est inclus**\nPrise en charge et retour\nVoiture privée climatisée avec chauffeur\nBillets d'entrée (si l'option est sélectionnée)\nService de guide touristique en direct\nBouteilles d'eau minérale\nToutes les taxes",
+  "highlights": [
+   "Découvrez les monuments emblématiques du Vieux et du New Delhi en une journée"
+  ],
+  "included": [
+   "Prise en charge et retour",
+   "Voiture privée climatisée avec chauffeur",
+   "Billets d'entrée (si l'option est sélectionnée)",
+   "Service de guide touristique en direct",
+   "Bouteilles d'eau minérale",
+   "Toutes les taxes"
+  ],
+  "notIncluded": []
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
