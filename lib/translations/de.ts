@@ -26519,6 +26519,91 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittskarten für Sehenswürdigkeiten"
   ]
  },
+ "delhi-6-day-private-golden-triangle-tour-with": {
+  "title": "Delhi: private 6-tägige Golden-Triangle-Tour mit Tiger-Safari",
+  "metaTitle": "Delhi: Golden Triangle 6 Tage, Tiger-Safari",
+  "metaDescription": "Erkunden Sie Indiens weltberühmte Sehenswürdigkeiten mit der Ranthambore-Tiger-Safari",
+  "shortDescription": "Erkunden Sie Indiens weltberühmte Sehenswürdigkeiten mit der Ranthambore-Tiger-Safari",
+  "fullDescription": "Delhi: private 6-tägige Golden-Triangle-Tour mit Tiger-Safari. Erkunden Sie Indiens weltberühmte Sehenswürdigkeiten mit der Ranthambore-Tiger-Safari.\n\nEntdecken Sie die ultimative 6-tägige Reise durch Delhi, Agra, und Jaipur, und genießen Sie eine aufregende Tiger-Safari im Ranthambore-Nationalpark.\n\n**Was ist inbegriffen**\nPrivater Transport in einem klimatisierten Fahrzeug mit Fahrer\nAbholung und Rückfahrt zum Hotel oder Flughafen\nAlle Besichtigungen mit privaten lokalen Reiseführern\nBusfahrt vom Parkplatz zum Taj Mahal, und umgekehrt\nAlle anfallenden Steuern\nFlaschen Mineralwasser während der Reisen\nUnterkunft für 5 Nächte mit Frühstück (falls diese Option gewählt wird)\nZwei Safaris, morgens und nachmittags (je nach Verfügbarkeit, mit Canter oder Jeep)\n\n**Nicht inbegriffen**\nGetränke\nJegliche Fotografiegebühren\nPersönliche Ausgaben\nTrinkgelder",
+  "highlights": [
+   "Erkunden Sie Indiens weltberühmte Sehenswürdigkeiten mit der Ranthambore-Tiger-Safari"
+  ],
+  "included": [
+   "Privater Transport in einem klimatisierten Fahrzeug mit Fahrer",
+   "Abholung und Rückfahrt zum Hotel oder Flughafen",
+   "Alle Besichtigungen mit privaten lokalen Reiseführern",
+   "Busfahrt vom Parkplatz zum Taj Mahal, und umgekehrt",
+   "Alle anfallenden Steuern",
+   "Flaschen Mineralwasser während der Reisen",
+   "Unterkunft für 5 Nächte mit Frühstück (falls diese Option gewählt wird)",
+   "Zwei Safaris, morgens und nachmittags (je nach Verfügbarkeit, mit Canter oder Jeep)"
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Jegliche Fotografiegebühren",
+   "Persönliche Ausgaben",
+   "Trinkgelder",
+   "Eintrittsgebühren (ca. 60 $ pro Person)",
+   "Zwei Safaris pro Person: 50 $ (4, 500 Rupien)"
+  ]
+ },
+ "from-delhi-6-day-golden-triangle-tour-with": {
+  "title": "Ab Delhi: 6-tägige Golden-Triangle-Tour mit Ranthambore",
+  "metaTitle": "Delhi: Golden Triangle 6 Tage, Ranthambore",
+  "metaDescription": "Weltberühmte Sehenswürdigkeiten von Indiens Golden Triangle, mit Ranthambore-Tiger-Safari.",
+  "shortDescription": "Weltberühmte Sehenswürdigkeiten von Indiens Golden Triangle, mit Ranthambore-Tiger-Safari.",
+  "fullDescription": "Ab Delhi: 6-tägige Golden-Triangle-Tour mit Ranthambore. Weltberühmte Sehenswürdigkeiten von Indiens Golden Triangle, mit Ranthambore-Tiger-Safari.\n\n**Tag 1 – Abholung in Delhi, Alt- und New-Delhi-Besichtigung, Fahrt nach Agra**\n\nIhre Besichtigungstour durch Alt- und New Delhi beginnt mit einer Abholung an Ihrem gewählten Ort. Unser Fahrer wird dort sein, um Sie zu begrüßen. Nachdem Sie sich frisch gemacht haben, treffen Sie Ihren Reiseführer, der Ihnen die Reiseroute erklärt. Sie erkunden dann die alten und neuen Teile Delhis mit Ihrem Reiseführer. In Alt-Delhi besuchen Sie die Jama Masjid, das Rote Fort von außen, und den Chandni-Chowk-Markt. Sie genießen ein köstliches Mittagessen in einem lokalen Restaurant. Danach sehen Sie die Sehenswürdigkeiten von New Delhi, wie India Gate, das Rashtrapati Bhawan, Humayuns Grabmal, und den Qutub Minar. Am Abend fahren Sie nach Agra, und checken in Ihrem Hotel ein. Sie verbringen die 1. Nacht in Ihrem Hotel in der Stadt Agra.\n\n**Tag 2 – Besichtigungstour durch Agra**\n\nMachen Sie sich bereit für einen unglaublichen Taj-Besuch bei Sonnenaufgang. Das Taj Mahal (freitags geschlossen) ist der Inbegriff wahrer Liebe, erbaut vom Mogul-Kaiser Shah Jahan, um das Grabmal seiner Lieblingsfrau Mumtaz Mahal zu beherbergen. Dieses Mausoleum erstrahlt hell in weißem Marmor, und hat sich einen Platz unter den Neuen 7 Weltwundern verdient. Besuchen Sie auch das Agra Fort, und Sie verbringen die 2. Nacht in Ihrem Hotel in der Stadt Agra.\n\n**Tag 03 – Fahrt nach Ranthambore, unterwegs (Fatehpur Sikri)**\n\nFrühstück, und danach Fahrt nach Ranthambore. Bei Ankunft Check-in im Hotel. Nach dem Mittagessen genießen Sie eine aufregende Tiger-Safari.\n\nRanthambore-Wildlife-Reservat. Es ist ein berühmtes Wildlife-Paradies, bekannt für Tigerbeobachtungen. Sie erhalten großartige Gelegenheiten, Tiger aus der Nähe zu beobachten, neben vielen anderen Tieren wie dem indischen Leoparden, Nilgauantilope, Wildschwein, Sambar, gestreiften Hyänen, Lippenbären usw. Danach verbringen Sie die 3. Nacht in Ihrem Hotel in Ranthambore.\n\n**Tag 4 – Besichtigungstour durch Ranthambore, und Fahrt nach Jaipur**\n\nMorgens genießen Sie erneut die Tiger-Safari im Ranthambore-Wildlife-Reservat. Später, am Abend, fahren Sie nach Jaipur, und checken in Ihrem Hotel ein. Sie verbringen die 4. Nacht in Ihrem Hotel in der Stadt Jaipur.\n\n**Tag 05 – Besichtigungstour durch Jaipur**\n\nNach dem Frühstück Ausflug zum Amber Fort am Rande von Jaipur. Fotostopp am Jal Mahal, dem Palast der Winde, besser bekannt als Hawa Mahal, dem City-Palace-Museum, und dem Jantar Mantar (Observatorium). Danach Rundgang durch die ummauerte Stadt zu Fuß.\n\nStartpunkt: vom City Palace über das Tripolia-Tor (Eingangstor der königlichen Familie), die Erkundung des wunderschönen Stadtzentrums von Jaipur mit seinem farbenfrohen Alltagsleben und der pulsierenden rosa Stadt, den alten Basaren, von Gewürzen bis zu den exquisiten Schätzen Jaipurs, Besuch der Armreifen-Straße mit dem Duft von Gewürztee und floralen Weihrauchgerüchen. Nach der Besichtigung Rückkehr zum Hotel, Übernachtung in Jaipur. 5. Nacht.\n\n**Tag 6 – nach dem Frühstück Jaipur, Rückfahrt nach Delhi gegen 16:00 Uhr (3:00/4:00 pm).**\n\nAn diesem Tag setzen wir Sie an Ihrem Hotel oder Flughafen in Delhi ab, mit wunderbaren Erinnerungen an Ihre 5-Nächte-6-Tage-Golden-Triangle-Tour.\n\n**Was ist inbegriffen**\nPrivates klimatisiertes Fahrzeug mit Fahrer\nAbholung und Rückfahrt zum Hotel/Flughafen\nPrivate lokale Reiseführer\nShuttle-Bus zum Taj Mahal\n2 Tiger-Safaris (geteilter Jeep/Canter, falls diese Option gewählt wird)\nEintrittskarten (falls diese Option gewählt wird)\nUnterkunft für 5 Nächte mit Frühstück (falls diese Option gewählt wird)\nWasser in Flaschen\nAlle Steuern inbegriffen\n\n**Nicht inbegriffen**\nGetränke\nJegliche Fotografiegebühren\nPersönliche Ausgaben\nTrinkgelder",
+  "highlights": [
+   "Weltberühmte Sehenswürdigkeiten von Indiens Golden Triangle, mit Ranthambore-Tiger-Safari"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug mit Fahrer",
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "Private lokale Reiseführer",
+   "Shuttle-Bus zum Taj Mahal",
+   "2 Tiger-Safaris (geteilter Jeep/Canter, falls diese Option gewählt wird)",
+   "Eintrittskarten (falls diese Option gewählt wird)",
+   "Unterkunft für 5 Nächte mit Frühstück (falls diese Option gewählt wird)",
+   "Wasser in Flaschen",
+   "Alle Steuern inbegriffen"
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Jegliche Fotografiegebühren",
+   "Persönliche Ausgaben",
+   "Trinkgelder",
+   "Zwei Safaris pro Person (5.000 Rupien)",
+   "Eintrittsgebühren (ca. 70 $ pro Person)"
+  ]
+ },
+ "from-delhi-4-day-golden-triangle-tour-with-tiger": {
+  "title": "Ab Delhi: 4-tägige Golden-Triangle-Tour mit Tiger-Safari",
+  "metaTitle": "Delhi: Golden Triangle 4 Tage, Tiger-Safari",
+  "metaDescription": "Erkunden Sie Delhis großartige mogulische Sehenswürdigkeiten, Tempel, und lebendige Stadtkultur",
+  "shortDescription": "Erkunden Sie Delhis großartige mogulische Sehenswürdigkeiten, Tempel, und lebendige Stadtkultur",
+  "fullDescription": "Ab Delhi: 4-tägige Golden-Triangle-Tour mit Tiger-Safari. Erkunden Sie Delhis großartige mogulische Sehenswürdigkeiten, Tempel, und lebendige Stadtkultur.\n\nErleben Sie die Magie der Golden-Triangle-Tour mit Tiger-Safari, wo Geschichte, Kultur, und Tierwelt aufeinandertreffen. Erkunden Sie Delhis Denkmäler, erleben Sie das Taj Mahal bei Sonnenaufgang, und bewundern Sie Jaipurs königliche Paläste. Der Höhepunkt erwartet Sie im Ranthambore-Nationalpark mit spannenden Safaris, die den Bengal-Tiger offenbaren können. Diese 4-tägige private Tour vereint Erbe, Abenteuer, und authentisches Indien, mit flexiblen Optionen von reiner Reiseführung bis zu luxuriösen 5-Sterne-Paketen.\n\n**Tag 1 – Abholung in Delhi, Besichtigung, und Fahrt nach Agra**\nIhre Reise beginnt mit einem herzlichen Willkommen, während Ihr Fahrer und Reiseführer Sie an Ihrem Hotel in Delhi oder am Flughafen treffen. Beginnen Sie mit der Erkundung der Jama Masjid, einer der größten Moscheen Indiens, bevor Sie den Qutub Minar aus dem 12. Jahrhundert besuchen, ein UNESCO-Weltkulturerbe. Erleben Sie Geschichte am Humayun-Grabmal, der architektonischen Inspiration für das Taj Mahal. Erfahren Sie Ruhe am Lotustempel, bewundern Sie India Gate, und betrachten Sie das Rote Fort von außen. Am Abend Fahrt entlang des Yamuna Expressway nach Agra für Ihre Übernachtung.\n\n**Tag 2 – Besichtigung von Agra, und Fahrt nach Ranthambore**\nStehen Sie früh auf, um den magischen Sonnenaufgang über dem Taj Mahal zu erleben, wenn sanftes goldenes Licht das weiße Marmordenkmal zum Leben erweckt. Nach dem Frühstück besuchen Sie das majestätische Agra Fort, einst Sitz der Mogul-Kaiser, mit atemberaubenden Ausblicken auf das Taj Mahal von seinen Wällen aus. Später begeben Sie sich auf eine malerische Fahrt zum Ranthambore-Nationalpark, bekannt für seine reiche Tierwelt und sein Tigerreservat. Check-in in Ihrem Hotel oder Resort, und Entspannung am Abend in der natürlichen Umgebung.\n\n**Tag 3 – Tiger-Safari in Ranthambore, und Fahrt nach Jaipur**\nDas Abenteuer setzt sich fort mit einer frühmorgendlichen Safari im Ranthambore-Nationalpark. Erkunden Sie die dichten Dschungel, sanften Hügel, und antiken Ruinen, die über den Park verstreut sind, auf der Suche nach dem schwer fassbaren Bengal-Tiger. Nach einer Pause in Ihrer Lodge brechen Sie erneut zu einer Nachmittagssafari auf, um Ihre Chancen auf Tierbegegnungen zu maximieren, einschließlich Leoparden, Lippenbären, und unzähligen Vogelarten. Später Fahrt nach Jaipur, der rosa Stadt Rajasthans, und Check-in in Ihrem Hotel für die Nacht.\n\n**Tag 4 – Besichtigung von Jaipur, und Rückfahrt nach Delhi**\nNach dem Frühstück erkunden Sie Jaipurs königliche Highlights. Beginnen Sie mit dem majestätischen Amber Fort, auf einem Hügel gelegen, mit Panoramablicken. Weiter geht es zum City Palace, noch immer Heimat der königlichen Familie, und besuchen Sie das Jantar Mantar, das UNESCO-gelistete astronomische Observatorium. Halten Sie für Fotos am Hawa Mahal, dem „Palast der Winde\", mit seiner kunstvollen Wabenfassade. Schlendern Sie durch farbenfrohe Basare voller Textilien, Schmuck, und Kunsthandwerk, bevor Sie zurück nach Delhi fahren, wo Ihre unvergessliche Golden-Triangle-Tour mit Tiger-Safari endet.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel oder Flughafen\nPrivates klimatisiertes Fahrzeug mit Fahrer\nUnterkunft für 3 Nächte (falls die Option mit Hotels gewählt wird)\nTägliches Frühstück (falls die Option mit Hotels gewählt wird)\nPrivate lokale Reiseführer für Besichtigungen\nRikscha-Fahrt durch Alt-Delhi\nBatteriebus zum Eingang des Taj Mahal\nMineralwasser während der Reise\n2 Tiger-Safaris in Ranthambore (geteilter Jeep/Canter)\nPrivate Tour\n\n**Nicht inbegriffen**\nEssen\nGetränke\nEintrittsgebühren\nTrinkgelder",
+  "highlights": [
+   "Erkunden Sie Delhis großartige mogulische Sehenswürdigkeiten, Tempel, und lebendige Stadtkultur"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel oder Flughafen",
+   "Privates klimatisiertes Fahrzeug mit Fahrer",
+   "Unterkunft für 3 Nächte (falls die Option mit Hotels gewählt wird)",
+   "Tägliches Frühstück (falls die Option mit Hotels gewählt wird)",
+   "Private lokale Reiseführer für Besichtigungen",
+   "Rikscha-Fahrt durch Alt-Delhi",
+   "Batteriebus zum Eingang des Taj Mahal",
+   "Mineralwasser während der Reise",
+   "2 Tiger-Safaris in Ranthambore (geteilter Jeep/Canter)",
+   "Private Tour"
+  ],
+  "notIncluded": [
+   "Essen",
+   "Getränke",
+   "Eintrittsgebühren",
+   "Trinkgelder"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
