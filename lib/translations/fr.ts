@@ -4823,6 +4823,84 @@ export const FR_TOURS: Record<string, TourT> = {
    "Billets d'entrée aux monuments"
   ]
  },
+ "from-delhi-5-day-golden-triangle-safari-bird": {
+  "title": "Depuis Delhi : triangle d'or de 5 jours, safari, et sanctuaire d'oiseaux",
+  "metaTitle": "Delhi-Agra-Jaipur-Ranthambore en 5 jours",
+  "metaDescription": "Admirez la beauté de l'architecture indienne avec le Taj Mahal.",
+  "shortDescription": "Admirez la beauté de l'architecture indienne avec le Taj Mahal.",
+  "fullDescription": "**Jour 1 : exploration de Delhi et trajet vers Agra**\n\nVous serez pris en charge le matin par notre chauffeur à l'aéroport/hôtel. Trajet vers l'une des plus grandes mosquées d'Inde, la Jama Masjid. La visite continue vers Chandni Chowk, une rue de marché animée abritant une grande variété de boutiques vendant tout, des épices aux vêtements et bijoux. Chandni Chowk est un excellent endroit pour découvrir les vues, sons, et odeurs du Vieux Delhi. Vous passerez devant le Fort Rouge. Puis vous arriverez au mémorial du Mahatma Gandhi. Ensuite, vous serez emmené au tombeau d'Humayun, ce site du patrimoine mondial fut construit en 1570. Le tombeau est considéré comme l'un des plus beaux exemples de l'architecture moghole. Admirez India Gate et les bâtiments présidentiels en passant en voiture. Puis visitez le Guru Dwara Bangla Sahib (temple sikh). La cuisine du Gurudwara est toujours animée, et c'est un lieu vraiment inspirant à visiter. Trajet ensuite vers Agra et enregistrement (4 heures de trajet). Nuit à Agra.\n\n**Jour 2 : exploration d'Agra et du sanctuaire d'oiseaux, puis trajet vers Ranthambore.**\n\nTôt le matin, vous serez pris en charge à l'hôtel pour visiter le Taj Mahal avec votre guide au lever du soleil, afin d'admirer la beauté ravissante du monument le plus célèbre de l'Inde, puis retourner à l'hôtel. Après le petit-déjeuner et le départ, visitez le fort d'Agra, l'un des plus grands forts de l'Inde.\nProcédez ensuite vers le sanctuaire d'oiseaux de Bharatpur, l'un des sanctuaires d'oiseaux les plus importants d'Asie, abritant plus de 350 espèces d'oiseaux, notamment des pélicans, cigognes, hérons, canards, oies, et flamants roses. Après cela, trajet vers Ranthambore (4 heures de trajet). Nuit à Ranthambore.\n\n**Jour 3 : safari aux tigres, matin et soir.**\n\nVous ferez un safari aux tigres le matin et le soir en jeep partagée. Ce parc national couvre une superficie de 1 334 kilomètres carrés, et abrite, en plus du tigre, une variété d'autres animaux sauvages, notamment des léopards, ours paresseux, chacals, crocodiles, renards, cerfs chital, cerfs sambar, et sangliers.\nNuit à Ranthambore.\n\n**Jour 4 : trajet vers Jaipur et exploration de Jaipur**\n\nAprès le petit-déjeuner, trajet vers Jaipur (3 heures de trajet). Après l'enregistrement, explorez Jaipur avec un guide touristique professionnel. Commencez vos visites par le fort d'Amber, connu pour son mélange d'architecture indo-islamique, de peinture dorée, de travail de miroir, et d'architecture européenne. Ensuite, arrêt pour des photos du Jal Mahal. Explorez le Hawa Mahal, le palais des Vents, avec ses hauts murs à claire-voie. Puis visitez le City Palace, résidence de la famille royale de Jaipur. Une grande partie du palais est transformée en musée royal. Ensuite, explorez le Jantar Mantar, une collection de dix-neuf instruments architecturaux astronomiques et le plus grand cadran solaire en pierre du monde.\n\n**Jour 5 : départ**\n\nAprès le petit-déjeuner, visite de Jaipur, puis le chauffeur vous conduira à Delhi et vous déposera à l'hôtel/aéroport. Votre visite se termine ! Gardez les souvenirs de ces douces vacances dans votre cœur !",
+  "highlights": [
+   "Admirez la beauté de l'architecture indienne avec le Taj Mahal"
+  ],
+  "included": [
+   "Prise en charge et retour",
+   "Voiture privée SUV ou berline climatisée avec chauffeur professionnel",
+   "Service de guide touristique en direct",
+   "Balade en rickshaw dans le bazar de Chandni Chowk",
+   "Sanctuaire d'oiseaux de Keoladeo Bharatpur",
+   "Safari aux tigres matin et soir dans le parc national de Ranthambore, en jeep ou canter partagé (si option sélectionnée)",
+   "Hôtel 4 étoiles avec petit-déjeuner quotidien (si option sélectionnée)",
+   "Frais d'entrée aux monuments (si option sélectionnée)",
+   "Eau et serviettes illimitées",
+   "Toutes les taxes applicables"
+  ],
+  "notIncluded": [
+   "Pourboires/gratifications pour le guide et le chauffeur",
+   "Spécialiste des oiseaux au sanctuaire",
+   "Tout coût de nourriture à Agra Chaupati",
+   "Visite d'Hathi Gaon",
+   "Tout ce qui n'est pas spécifié dans les inclusions ci-dessus"
+  ]
+ },
+ "from-delhi-5-day-tiger-safari-delhi-agra-jaipur": {
+  "title": "Depuis Delhi : circuit guidé de 5 jours, safari aux tigres, Delhi, Agra, Jaipur",
+  "metaTitle": "Delhi-Agra-Jaipur-Ranthambore : safari aux tigres",
+  "metaDescription": "Profitez d'un circuit de plusieurs jours à Delhi, Agra, Jaipur, et Ranthambore.",
+  "shortDescription": "Profitez d'un circuit de plusieurs jours à Delhi, Agra, Jaipur, et Ranthambore.",
+  "fullDescription": "Arrivée à Delhi, la capitale vibrante de l'Inde. Explorez les principales attractions comme le Fort Rouge, la Jama Masjid, Qutub Minar, India Gate, et le tombeau d'Humayun. Vous pourrez profiter de la street food à Chandni Chowk et visiter le temple du Lotus.\nTrajet vers Agra, foyer du célèbre Taj Mahal.\n\nVisitez le site du patrimoine mondial de l'UNESCO, l'emblématique Taj Mahal, un chef-d'œuvre impressionnant de l'architecture moghole. Explorez d'autres sites historiques comme le fort d'Agra et le tombeau d'Itmad-ud-Daulah, également connu comme le « Baby Taj ».\n\nTrajet vers Ranthambore via Fatehpur Sikri, arrêt à Fatehpur Sikri, un site du patrimoine mondial de l'UNESCO. Connue pour son architecture moghole, la ville abrite de grandes structures comme le Buland Darwaza, la Jama Masjid, le Diwan-i-Khas, le Panch Mahal, et le tombeau de Salim Chishti.\n\nAprès votre visite à Fatehpur Sikri, continuez votre voyage vers Ranthambore. Enregistrement à votre hôtel à Ranthambore et détente pour la soirée.\n\nCommencez votre journée par un safari aux tigres tôt le matin dans le parc national de Ranthambore, où vous pourrez apercevoir des tigres du Bengale, léopards, crocodiles, et diverses espèces d'oiseaux.\n\nLancez-vous tôt le matin pour explorer des attractions comme le fort d'Amber, le City Palace, le Hawa Mahal (palais des Vents), le Jantar Mantar (observatoire astronomique), et les bazars animés de la vieille ville.\n\nAprès votre visite, nous vous ramènerons à Delhi ou Jaipur et assurerons une dépose confortable à votre hôtel ou à l'aéroport.",
+  "highlights": [
+   "Profitez d'un circuit de plusieurs jours à Delhi, Agra, Jaipur, et Ranthambore"
+  ],
+  "included": [
+   "Service de prise en charge et retour",
+   "Billet d'entrée aux monuments (si option sélectionnée)",
+   "Voiture privée climatisée avec chauffeur anglophone",
+   "Service de guide touristique professionnel dans votre langue",
+   "Deux safaris aux tigres (si option sélectionnée)",
+   "Billets d'entrée (si option sélectionnée)",
+   "Hôtel avec petit-déjeuner (si option sélectionnée)",
+   "Bouteilles d'eau minérale et lingettes",
+   "Toutes les taxes applicables"
+  ],
+  "notIncluded": [
+   "Tout ce qui n'est pas spécifiquement mentionné dans les inclusions ci-dessus",
+   "Pourboires/gratifications pour le guide et le chauffeur",
+   "Tout type de boisson servie au petit-déjeuner",
+   "Tout ce qui n'est pas mentionné dans les inclusions"
+  ]
+ },
+ "taj-mahal-agra-fort-mathura-vrindavan-private-day": {
+  "title": "Visite privée d'une journée : Taj Mahal, fort d'Agra, Mathura, et Vrindavan",
+  "metaTitle": "Agra-Mathura-Vrindavan : visite privée 1 jour",
+  "metaDescription": "Le Taj Mahal, symbole d'amour éternel et site du patrimoine mondial de l'UNESCO.",
+  "shortDescription": "Le Taj Mahal, symbole d'amour éternel et site du patrimoine mondial de l'UNESCO.",
+  "fullDescription": "Prise en charge à votre hôtel ou à l'aéroport de Delhi dans une voiture confortable et climatisée, sans tracas, en toute fluidité.\n\nVisitez le Taj Mahal, l'un des sites les plus incroyables du monde. Prenez le temps d'explorer, d'apprendre l'histoire derrière ce lieu, et de prendre de superbes photos, vraiment incroyable.\n\nEnsuite, dirigez-vous vers le fort d'Agra, un puissant symbole de l'histoire moghole. Promenez-vous à travers ses grandes salles, palais, et beaux jardins.\n\nProfitez d'un excellent déjeuner avec de la délicieuse cuisine indienne locale, des saveurs riches, un goût inoubliable.\n\nPuis voyagez vers Mathura pour visiter le temple Shri Krishna Janmabhoomi, le lieu de naissance sacré du Seigneur Krishna, plein d'énergie et de dévotion.\n\nContinuez vers Vrindavan pour voir des temples célèbres comme Banke Bihari, Prem Mandir, le temple ISKCON, et Vishram Ghat, vibrants, spirituels, et pleins de vie.\n\nTerminez la journée par un trajet de retour confortable et une dépose à votre hôtel ou à l'aéroport de Delhi.",
+  "highlights": [
+   "Le Taj Mahal, symbole d'amour éternel et site du patrimoine mondial de l'UNESCO"
+  ],
+  "included": [
+   "Prise en charge et retour depuis l'hôtel ou l'aéroport",
+   "Voiture privée climatisée",
+   "Billets d'entrée à tous les monuments (si option sélectionnée)",
+   "Déjeuner (si option sélectionnée)",
+   "Guide touristique professionnel en direct",
+   "Bouteilles d'eau minérale offertes",
+   "Toutes les taxes et frais applicables inclus"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",

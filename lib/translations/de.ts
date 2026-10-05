@@ -4823,6 +4823,84 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittskarten zu den Denkmälern"
   ]
  },
+ "from-delhi-5-day-golden-triangle-safari-bird": {
+  "title": "Von Delhi aus: 5-tägiges Golden Triangle, Safari, und Vogelschutzgebiet",
+  "metaTitle": "Delhi-Agra-Jaipur-Ranthambore in 5 Tagen",
+  "metaDescription": "Bewundern Sie die Schönheit der indischen Architektur mit dem Taj Mahal.",
+  "shortDescription": "Bewundern Sie die Schönheit der indischen Architektur mit dem Taj Mahal.",
+  "fullDescription": "**Tag 1: Erkundung von Delhi und Fahrt nach Agra**\n\nSie werden morgens von unserem Fahrer vom Flughafen/Hotel abgeholt. Fahrt zu einer der größten Moscheen Indiens, der Jama Masjid. Die Tour geht weiter nach Chandni Chowk, einer belebten Marktstraße mit einer großen Vielfalt an Geschäften, die alles von Gewürzen bis Kleidung und Schmuck verkaufen. Chandni Chowk ist ein großartiger Ort, um die Sehenswürdigkeiten, Geräusche, und Gerüche von Alt-Delhi zu erleben. Sie fahren am Roten Fort vorbei. Dann erreichen Sie das Mahatma-Gandhi-Denkmal. Danach werden Sie zum Humayun-Mausoleum gebracht, dieses Weltkulturerbe wurde 1570 erbaut. Das Mausoleum gilt als eines der schönsten Beispiele der Mogul-Architektur. Sehen Sie das India Gate und die Präsidentengebäude im Vorbeifahren. Besuchen Sie dann den Guru Dwara Bangla Sahib (Sikh-Tempel). Die Küche im Gurudwara ist immer belebt, und es ist ein wirklich inspirierender Ort zum Besuchen. Dann Fahrt nach Agra und Check-in (4 Stunden Fahrt). Übernachtung in Agra.\n\n**Tag 2: Erkundung von Agra und Vogelschutzgebiet, dann Fahrt nach Ranthambore.**\n\nFrüh am Morgen werden Sie vom Hotel abgeholt, um das Taj Mahal mit Ihrem Guide beim Sonnenaufgang zu besuchen, um die bezaubernde Schönheit Indiens berühmtesten Denkmals zu sehen, und kehren zum Hotel zurück. Nach dem Frühstück und Check-out besuchen Sie das Agra Fort, eines der größten Forts in Indien.\nWeiter geht es zum Bharatpur-Vogelschutzgebiet, eines der wichtigsten Vogelschutzgebiete in Asien, Heimat von über 350 Vogelarten, einschließlich Pelikanen, Störchen, Reihern, Enten, Gänsen, und Flamingos. Danach Fahrt nach Ranthambore (4 Stunden Fahrt). Übernachtung in Ranthambore.\n\n**Tag 3: Morgen- und Abend-Tigersafari.**\n\nSie unternehmen eine Morgen- und Abend-Tigersafari in einem gemeinsamen Jeep. Dieser Nationalpark umfasst eine Fläche von 1.334 Quadratkilometern und beherbergt neben dem Tiger auch eine Vielzahl anderer Wildtiere, einschließlich Leoparden, Lippenbären, Schakale, Krokodile, Füchse, Chital-Hirsche, Sambar-Hirsche, und Wildschweine.\nÜbernachtung in Ranthambore.\n\n**Tag 4: Fahrt nach Jaipur und Erkundung von Jaipur**\n\nNach dem Frühstück Fahrt nach Jaipur (3 Stunden Fahrt). Nach dem Check-in erkunden Sie Jaipur mit einem professionellen Reiseführer. Beginnen Sie Ihre Besichtigung mit dem Amber Fort, bekannt für seine Mischung aus indo-islamischer Architektur, goldbeschichteter Malerei, Spiegelarbeiten, und europäischer Architektur. Danach Stopp für Fotos am Jal Mahal. Erkunden Sie den Hawa Mahal, den Palast der Winde, mit seinen hohen Gitterwänden. Besuchen Sie dann den City Palace, Heimat der königlichen Familie von Jaipur. Ein großer Teil des Palastes wurde in ein königliches Museum umgewandelt. Danach erkunden Sie das Jantar Mantar, eine Sammlung von neunzehn astronomischen Architekturinstrumenten und die größte steinerne Sonnenuhr der Welt.\n\n**Tag 5: Abreise**\n\nNach dem Frühstück Besuch von Jaipur, dann fährt Sie der Fahrer nach Delhi und setzt Sie am Hotel/Flughafen ab. Ihre Tour endet! Nehmen Sie die Erinnerungen an diesen schönen Urlaub mit in Ihrem Herzen!",
+  "highlights": [
+   "Bewundern Sie die Schönheit der indischen Architektur mit dem Taj Mahal"
+  ],
+  "included": [
+   "Abholung und Rückbringung",
+   "Privates klimatisiertes SUV oder Limousine mit professionellem Chauffeur",
+   "Live-Reiseführer-Service",
+   "Rikscha-Fahrt im Chandni-Chowk-Basar",
+   "Keoladeo Bharatpur Vogelschutzgebiet",
+   "Morgen- und Abend-Tigersafari im Ranthambore-Nationalpark in gemeinsamem Jeep oder Canter (falls ausgewählt)",
+   "4-Sterne-Hotel mit täglichem Frühstück (falls ausgewählt)",
+   "Eintrittsgebühren zu den Denkmälern (falls ausgewählt)",
+   "Unbegrenztes Wasser und Servietten",
+   "Alle anfallenden Steuern"
+  ],
+  "notIncluded": [
+   "Trinkgeld/Zuwendungen für Guide und Fahrer",
+   "Vogelspezialist im Vogelschutzgebiet",
+   "Jegliche Lebensmittelkosten in Agra Chaupati",
+   "Besuch von Hathi Gaon",
+   "Alles, was nicht in den obigen Einschlüssen angegeben ist"
+  ]
+ },
+ "from-delhi-5-day-tiger-safari-delhi-agra-jaipur": {
+  "title": "Von Delhi aus: 5-tägige geführte Tigersafari-Tour Delhi, Agra, Jaipur",
+  "metaTitle": "Delhi-Agra-Jaipur-Ranthambore: Tigersafari",
+  "metaDescription": "Genießen Sie eine mehrtägige Tour durch Delhi, Agra, Jaipur, und Ranthambore.",
+  "shortDescription": "Genießen Sie eine mehrtägige Tour durch Delhi, Agra, Jaipur, und Ranthambore.",
+  "fullDescription": "Ankunft in Delhi, Indiens lebendiger Hauptstadt. Erkunden Sie wichtige Attraktionen wie das Rote Fort, die Jama Masjid, Qutub Minar, India Gate, und das Humayun-Mausoleum. Sie können Street Food in Chandni Chowk genießen und den Lotustempel besuchen.\nFahrt nach Agra, Heimat des ikonischen Taj Mahal.\n\nBesuchen Sie das ikonische Taj Mahal, ein UNESCO-Weltkulturerbe und beeindruckendes Meisterwerk der Mogul-Architektur. Erkunden Sie weitere historische Stätten wie das Agra Fort und das Mausoleum von Itmad-ud-Daulah, auch bekannt als \"Baby Taj\".\n\nFahrt nach Ranthambore über Fatehpur Sikri, Stopp in Fatehpur Sikri, einem UNESCO-Weltkulturerbe. Bekannt für seine Mogul-Architektur, beherbergt die Stadt grandiose Bauwerke wie den Buland Darwaza, die Jama Masjid, den Diwan-i-Khas, den Panch Mahal, und das Mausoleum von Salim Chishti.\n\nNach Ihrem Besuch in Fatehpur Sikri setzen Sie Ihre Reise nach Ranthambore fort. Check-in in Ihrem Hotel in Ranthambore und Entspannung für den Abend.\n\nBeginnen Sie Ihren Tag mit einer frühmorgendlichen Tigersafari im Ranthambore-Nationalpark, wo Sie bengalische Tiger, Leoparden, Krokodile, und verschiedene Vogelarten entdecken können.\n\nBegeben Sie sich früh am Morgen auf Entdeckung von Attraktionen wie dem Amber Fort, dem City Palace, dem Hawa Mahal (Palast der Winde), dem Jantar Mantar (astronomisches Observatorium), und den lebendigen Basaren der Altstadt.\n\nNach Ihrer Tour fahren wir Sie zurück nach Delhi oder Jaipur und sorgen für eine komfortable Absetzung an Ihrem Hotel oder dem Flughafen.",
+  "highlights": [
+   "Genießen Sie eine mehrtägige Tour durch Delhi, Agra, Jaipur, und Ranthambore"
+  ],
+  "included": [
+   "Abhol- und Rückbringservice",
+   "Eintrittsticket zu den Denkmälern (falls ausgewählt)",
+   "Privates klimatisiertes Auto mit englischsprachigem Chauffeur",
+   "Professioneller Reiseführer-Service in Ihrer Sprache",
+   "Zwei Tigersafaris (falls ausgewählt)",
+   "Eintrittskarten (falls ausgewählt)",
+   "Hotel mit Frühstück (falls ausgewählt)",
+   "Mineralwasserflaschen und Feuchttücher",
+   "Alle anfallenden Steuern"
+  ],
+  "notIncluded": [
+   "Alles, was nicht ausdrücklich in den obigen Einschlüssen genannt ist",
+   "Trinkgeld/Zuwendungen für Reiseführer und Chauffeur",
+   "Jegliche beim Frühstück servierten Getränke",
+   "Alles, was nicht in den Einschlüssen genannt ist"
+  ]
+ },
+ "taj-mahal-agra-fort-mathura-vrindavan-private-day": {
+  "title": "Private Tagestour: Taj Mahal, Agra Fort, Mathura, und Vrindavan",
+  "metaTitle": "Agra-Mathura-Vrindavan: private Tagestour",
+  "metaDescription": "Das Taj Mahal, ein Symbol ewiger Liebe und UNESCO-Weltkulturerbe.",
+  "shortDescription": "Das Taj Mahal, ein Symbol ewiger Liebe und UNESCO-Weltkulturerbe.",
+  "fullDescription": "Abholung von Ihrem Hotel oder dem Flughafen Delhi in einem komfortablen, klimatisierten Auto, reibungslos, einfach, ohne Aufwand.\n\nBesuchen Sie das Taj Mahal, eines der unglaublichsten Sehenswürdigkeiten der Welt. Nehmen Sie sich Zeit, um zu erkunden, die Geschichte dahinter zu erfahren, und fantastische Fotos zu machen, wirklich erstaunlich.\n\nWeiter geht es zum Agra Fort, einem mächtigen Symbol der Mogul-Geschichte. Spazieren Sie durch seine großen Hallen, Paläste, und schönen Gärten.\n\nGenießen Sie ein großartiges Mittagessen mit köstlicher lokaler indischer Küche, reiche Aromen, unvergesslicher Geschmack.\n\nDann reisen Sie nach Mathura, um den Shri Krishna Janmabhoomi Tempel zu besuchen, den heiligen Geburtsort des Herrn Krishna, voller Energie und Hingabe.\n\nWeiter nach Vrindavan, um berühmte Tempel wie Banke Bihari, Prem Mandir, den ISKCON-Tempel, und Vishram Ghat zu sehen, lebendig, spirituell, und voller Leben.\n\nBeenden Sie den Tag mit einer komfortablen Rückfahrt und Absetzung an Ihrem Hotel oder dem Flughafen Delhi.",
+  "highlights": [
+   "Das Taj Mahal, ein Symbol ewiger Liebe und UNESCO-Weltkulturerbe"
+  ],
+  "included": [
+   "Abholung und Rückbringung vom Hotel oder Flughafen",
+   "Privates klimatisiertes Auto",
+   "Eintrittskarten zu allen Denkmälern (falls ausgewählt)",
+   "Mittagessen (falls ausgewählt)",
+   "Professioneller Live-Reiseführer",
+   "Kostenlose Mineralwasserflaschen",
+   "Alle anfallenden Steuern und Gebühren inklusive"
+  ],
+  "notIncluded": [
+   "Trinkgeld"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
