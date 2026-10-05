@@ -3567,6 +3567,71 @@ export const FR_TOURS: Record<string, TourT> = {
    "Repas (disponibles en supplément optionnel)"
   ]
  },
+ "agra-taj-mahal-tour-with-guide": {
+  "title": "Agra : visite du Taj Mahal avec guide",
+  "metaTitle": "Agra : Taj Mahal, visite avec guide",
+  "metaDescription": "Beauté du Taj Mahal en marbre blanc, un site du patrimoine mondial de l'UNESCO, 7e merveille du monde.",
+  "shortDescription": "Beauté du Taj Mahal en marbre blanc, un site du patrimoine mondial de l'UNESCO, 7e merveille du monde.",
+  "fullDescription": "Commencez votre visite en rencontrant votre guide à votre hôtel à Agra ou au Pizza Hut le plus proche du Taj Mahal, et commencez votre visite d'une journée incluant les visites du Taj Mahal et du fort d'Agra avec guide privé. Votre visite commence par une prise en charge pratique à votre hôtel ou à l'aéroport de Delhi. Depuis Delhi, notre représentant vous rencontrera et vous assistera pour la suite du voyage vers Agra.\n\nÀ Agra, vous serez accueilli par notre guide expert qui vous accompagnera pendant toute la visite. Préparez-vous à être émerveillé en entrant dans le Taj Mahal, un chef-d'œuvre architectural construit par l'empereur Shah Jahan comme symbole d'amour pour sa bien-aimée épouse Mumtaz Mahal. Émerveillez-vous devant le design symétrique, les sculptures complexes en marbre, et la beauté éthérée de ce mausolée.\n\nAprès cela, vous retournerez à l'hôtel pour vous rafraîchir et garder le merveilleux souvenir d'Agra et du Taj Mahal.",
+  "highlights": [
+   "Beauté du Taj Mahal en marbre blanc, un site du patrimoine mondial de l'UNESCO, 7e merveille du monde"
+  ],
+  "included": [
+   "Visite privée guidée du Taj Mahal",
+   "Rencontre à la porte est du Taj Mahal / votre hébergement à Agra",
+   "Billets sans file d'attente pour le Taj Mahal"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Pourboires"
+  ]
+ },
+ "agra-agra-fort-skip-the-line-ticket-with-full": {
+  "title": "Agra : billet sans file d'attente pour le fort d'Agra avec visite guidée complète",
+  "metaTitle": "Agra : fort d'Agra, sans file d'attente, guide",
+  "metaDescription": "Billets d'entrée sans file d'attente pour le fort d'Agra.",
+  "shortDescription": "Billets d'entrée sans file d'attente pour le fort d'Agra.",
+  "fullDescription": "Le fort d'Agra est une visite incontournable si vous êtes à Agra ! Le fort a été construit par l'empereur Akbar et agrandi plus tard par son petit-fils, Shah Jahan. Il est similaire au fort rouge de Delhi mais un peu plus compact. Cette visite inclut un billet sans file d'attente afin que vous n'ayez pas à attendre et puissiez entrer plus rapidement.\n\nVotre guide vous emmènera à travers toutes les parties les plus importantes du fort et vous expliquera chacune d'entre elles. Vous apprendrez beaucoup sur l'architecture moghole et comment le fort était utilisé à l'époque. Après la fin de la visite, vous pourrez passer autant de temps que vous le souhaitez à explorer le fort par vous-même.",
+  "highlights": [
+   "Billets d'entrée sans file d'attente pour le fort d'Agra"
+  ],
+  "included": [
+   "Billet d'entrée sans file d'attente pour le fort d'Agra",
+   "Visite à pied du fort d'Agra",
+   "Guide touristique parlant anglais, hindi, espagnol, allemand, et français (selon votre sélection)"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Pourboires"
+  ]
+ },
+ "same-day-taj-mahal-tour-by-flight-from-bangalore": {
+  "title": "Visite du Taj Mahal le même jour en avion depuis Bangalore",
+  "metaTitle": "Bangalore-Taj Mahal : visite le même jour en avion",
+  "metaDescription": "Taj Mahal, emblématique mausolée en marbre blanc.",
+  "shortDescription": "Taj Mahal, emblématique mausolée en marbre blanc.",
+  "fullDescription": "Cette visite du Taj Mahal le même jour depuis Bangalore offre une expérience unique et mémorable, combinant la commodité d'un vol rapide avec la beauté impressionnante du Taj Mahal. Assister à cette merveille architecturale, explorer le fort historique d'Agra, et vous immerger dans la culture vibrante d'Agra font de cette visite un mélange parfait d'histoire, de culture, et d'aventure, créant des souvenirs inoubliables en une seule journée.\n\nNous offrons une assistance 24h/24 et 7j/7 pendant toute la visite.\n\n**Matin :**\n4h00 : vous êtes priés de vous rendre à l'aéroport de Bangalore pour votre vol matinal de Bangalore à Delhi. Les cartes d'embarquement vous seront envoyées par e-mail. La prise en charge et le retour depuis l'aéroport de Bangalore ne sont pas inclus dans le forfait, nous pouvons aider si nécessaire.\n5h00 : vol vers Delhi : montez à bord de votre vol matinal de Bangalore à Delhi. Profitez des vues pittoresques pendant le vol d'environ 2,5 heures.\n8h30 : arrivée à Delhi : à l'arrivée à Delhi, vous serez accueilli par notre représentant qui vous assistera pour le transfert vers Agra.\n10h00 : arrivée à Agra : arrivez à Agra, la ville de l'emblématique Taj Mahal. Vous serez accueilli par votre guide qui vous accompagnera toute la journée.\n\n**Matin à après-midi :**\n10h30 : visite du Taj Mahal : explorez le magnifique Taj Mahal, un site du patrimoine mondial de l'UNESCO et l'une des Sept Merveilles du Monde. Admirez la beauté de ce mausolée en marbre blanc, construit par l'empereur Shah Jahan à la mémoire de sa bien-aimée épouse Mumtaz Mahal.\n12h30 : déjeuner : profitez d'un délicieux déjeuner dans un restaurant local à Agra, où vous pouvez savourer une authentique cuisine indienne.\n\n**Après-midi :**\n13h30 : visite du fort d'Agra : explorez le fort d'Agra, un site du patrimoine mondial de l'UNESCO et symbole du pouvoir de la dynastie moghole. Explorez son architecture impressionnante et découvrez son histoire avec votre guide.\n\n**Soir :**\n15h00 : départ vers Delhi : après une journée complète d'exploration d'Agra, il est temps de retourner à Delhi. Montez dans votre véhicule pour le trajet de retour vers l'aéroport.\n18h00 : à l'arrivée à l'aéroport de Delhi, les billets de retour vous seront remis et vous prendrez votre vol de retour vers Bangalore. Nos services se terminent ici. À l'arrivée à Bangalore, retournez à votre hôtel/domicile.\n\nRemarque : cet itinéraire est basé sur une visite le même jour et est sujet à changement selon la disponibilité et les horaires des vols. Veuillez vérifier avec votre agent de voyage pour les informations les plus récentes.",
+  "highlights": [
+   "Taj Mahal, emblématique mausolée en marbre blanc"
+  ],
+  "included": [
+   "Repas : déjeuner (avec l'option visite tout compris ou visite sans vols)",
+   "Transport : véhicule climatisé pour tous les transferts et visites",
+   "Visites guidées : guides locaux parlant anglais pour les principales visites",
+   "Frais d'entrée : frais d'entrée aux monuments et attractions (avec l'option visite tout compris ou visite sans vols)",
+   "Billets d'avion aller-retour (uniquement avec l'option visite tout compris)",
+   "Toutes les taxes et frais de service applicables",
+   "Assistance pendant toute la visite 24h/24 et 7j/7",
+   "Bouteille d'eau fournie pendant le voyage",
+   "WIFI à bord"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles : toute dépense personnelle telle que pourboires, souvenirs, repas ou boissons supplémentaires, et shopping",
+   "Activités optionnelles",
+   "Pourboires pour le guide, le chauffeur, ou le personnel de l'hôtel",
+   "Prise en charge et retour depuis l'aéroport de Bangalore (nous pouvons aider si nécessaire)"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
