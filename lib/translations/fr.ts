@@ -25888,6 +25888,68 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "old-delhi-3-hour-tuk-tukrickshaw-tour": {
+  "title": "Vieux Delhi : visite en tuk-tuk/rickshaw de 3 heures",
+  "metaTitle": "Delhi : Vieux Delhi, tuk-tuk, 3 heures",
+  "metaDescription": "Explorez la plus grande mosquée d'Inde, et découvrez des vues sur le Vieux Delhi",
+  "shortDescription": "Explorez la plus grande mosquée d'Inde, et découvrez des vues sur le Vieux Delhi",
+  "fullDescription": "Vieux Delhi : visite en tuk-tuk/rickshaw de 3 heures. Explorez la plus grande mosquée d'Inde, et découvrez des vues sur le Vieux Delhi.\n\n**Commencez au Fort Rouge** : commencez votre visite à l'impressionnant Fort Rouge, site du patrimoine mondial de l'UNESCO et symbole de l'architecture moghole indienne. Émerveillez-vous devant ses murs en grès rouge, et explorez le complexe.\n\n**Jama Masjid** : visitez la proche Jama Masjid, l'une des plus grandes mosquées d'Inde. Admirez sa grandeur, et grimpez au minaret pour une vue panoramique sur le Vieux Delhi.\n\n**Chandni Chowk** : parcourez les rues animées de Chandni Chowk, l'un des marchés les plus anciens et les plus fréquentés de Delhi. Découvrez les vues, sons, et odeurs de ce quartier vibrant.\n\n**Marché aux épices** : visitez le marché aux épices, un paradis pour les amateurs de cuisine. Explorez les ruelles étroites remplies de l'arôme des épices, et observez comment elles sont échangées.\n\n**Échoppes locales** : arrêtez-vous dans une échoppe locale pour goûter d'authentiques plats de street food du Vieux Delhi. Essayez des mets délicieux tels que des parathas, du chaat, et des jalebis.\n\n**Ruelles étroites** : faites un détour à travers les ruelles étroites du Vieux Delhi, connues sous le nom de « galiyan », pour vivre le charme de l'ancien monde, et découvrir des trésors cachés.\n\n**Interactions locales** : échangez avec les habitants, et découvrez leur vie quotidienne, leurs traditions, et leur culture. Votre guide peut faciliter ces échanges.\n\n**Retour** : après avoir exploré le cœur du Vieux Delhi, retournez à votre point de départ, en profitant une dernière fois des vues et des sons.\n\n**Ce qui est inclus**\nVisite en tuk-tuk\nGuide professionnel anglophone\nThé et collations\n\n**Non inclus**\nEau\nCette visite n'inclut pas l'option de prise en charge et de retour à l'hôtel\nTout service supplémentaire\nGratifications",
+  "highlights": [
+   "Explorez la plus grande mosquée d'Inde, et découvrez des vues sur le Vieux Delhi"
+  ],
+  "included": [
+   "Visite en tuk-tuk",
+   "Guide professionnel anglophone",
+   "Thé et collations"
+  ],
+  "notIncluded": [
+   "Eau",
+   "Cette visite n'inclut pas l'option de prise en charge et de retour à l'hôtel",
+   "Tout service supplémentaire",
+   "Gratifications"
+  ]
+ },
+ "delhi-city-sightseeing-and-cooking-class": {
+  "title": "Delhi : visite touristique de la ville et cours de cuisine",
+  "metaTitle": "Delhi : visite touristique, cours de cuisine",
+  "metaDescription": "Découvrez le riche patrimoine de Delhi lors d'une visite touristique guidée",
+  "shortDescription": "Découvrez le riche patrimoine de Delhi lors d'une visite touristique guidée",
+  "fullDescription": "Delhi : visite touristique de la ville et cours de cuisine. Découvrez le riche patrimoine de Delhi lors d'une visite touristique guidée.\n\nDécouvrez le riche patrimoine de Delhi, et profitez d'une authentique expérience culinaire indienne, le tout en une seule journée inoubliable.\n\nCommencez par une visite privée en voiture, accompagnée d'un chauffeur anglophone. Visitez les sites emblématiques de Delhi, notamment le Fort Rouge (vue extérieure), Raj Ghat, Agrasen Ki Baoli (puits à degrés), India Gate, la tombe de Humayun, et le paisible temple du Lotus. Imprégnez-vous de l'ambiance vibrante de la ville, et découvrez le mélange parfait d'histoire, de culture, et de vie moderne.\n\nAprès les visites, dirigez-vous vers un foyer indien local pour une session de cuisine pratique. Découvrez les secrets des épices indiennes, les techniques de cuisine traditionnelles, et comment préparer des plats classiques tels que le curry de poulet au beurre, le dal curry (lentilles), le chapati (pain plat indien), le riz au jeera, et le chai masala. Guidé en anglais par un chef à domicile chaleureux et amical, vous cuisinerez avec des ingrédients frais et locaux, et approfondirez votre compréhension des traditions culinaires de l'Inde.\n\nEnfin, installez-vous pour savourer le délicieux repas que vous avez préparé, partagez des histoires, et vivez une véritable hospitalité indienne.\nQue vous aimiez la nourriture, la culture, ou les expériences locales authentiques, cette visite offre la combinaison parfaite de tourisme, de cuisine, et de connexion, en faisant une activité incontournable à Delhi.\n\n**Ce qui est inclus**\nVoiture avec chauffeur anglophone\nCours de cuisine dans un foyer indien local\nTous les ingrédients pour le cours de cuisine\nPrise en charge et retour à l'hôtel\nVisite de la ville de Delhi\n\n**Non inclus**\nBoissons alcoolisées non spécifiées",
+  "highlights": [
+   "Découvrez le riche patrimoine de Delhi lors d'une visite touristique guidée"
+  ],
+  "included": [
+   "Voiture avec chauffeur anglophone",
+   "Cours de cuisine dans un foyer indien local",
+   "Tous les ingrédients pour le cours de cuisine",
+   "Prise en charge et retour à l'hôtel",
+   "Visite de la ville de Delhi"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisées non spécifiées"
+  ]
+ },
+ "from-delhi-private-same-day-haridwar-and": {
+  "title": "Depuis Delhi : visite privée de Haridwar et Rishikesh dans la journée",
+  "metaTitle": "Delhi : Haridwar-Rishikesh, journée privée",
+  "metaDescription": "Visitez Har Ki Pauri, le célèbre ghat le long du Gange.",
+  "shortDescription": "Visitez Har Ki Pauri, le célèbre ghat le long du Gange.",
+  "fullDescription": "Depuis Delhi : visite privée de Haridwar et Rishikesh dans la journée. Visitez Har Ki Pauri, le célèbre ghat le long du Gange.\n\n**5h00 – départ de Delhi**\nPrise en charge tôt le matin à votre hôtel à Delhi.\nTrajet vers Haridwar en voiture privée climatisée (environ 4 à 5 heures).\n\n**9h30 – arrivée à Haridwar**\nVisitez Har Ki Pauri, le célèbre ghat sur les rives du Gange sacré.\nExplorez le temple de Mansa Devi (en téléphérique), ou le temple de Chandi Devi, offrant des vues panoramiques sur la ville et le fleuve.\nFlânez dans les bazars locaux animés, et observez la vie spirituelle le long des ghats.\n\n**12h30 – trajet vers Rishikesh (environ 1 heure)**\nDirigez-vous vers Rishikesh, la capitale mondiale du yoga.\n\n**13h30 – déjeuner à Rishikesh**\nProfitez d'un repas végétarien traditionnel dans un restaurant local au bord de la rivière.\n\n**14h30 – visites à Rishikesh**\nVisitez les emblématiques ponts suspendus Lakshman Jhula et Ram Jhula.\nExplorez l'ashram Parmarth Niketan ou l'ashram des Beatles (optionnel, selon le temps disponible).\nDétendez-vous au bord du Gange, et profitez des paisibles contreforts himalayens.\n\n**17h30 – assistez au Ganga Aarti du soir au Triveni Ghat (Rishikesh)**\nAssistez à la magique cérémonie du Ganga Aarti, où les prêtres effectuent des rituels avec du feu, et les chants créent une atmosphère spirituelle.\n\n**18h00 – trajet de retour vers Delhi**\nDépart de Rishikesh, et profitez d'un trajet confortable de retour vers Delhi.\n\n**22h30 – arrivée à Delhi**\nDépôt à votre hôtel, avec de précieux souvenirs de Haridwar et Rishikesh.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel/l'aéroport\nVoiture privée climatisée pour toute l'activité du circuit, avec chauffeur\nGuide touristique professionnel\nBouteille d'eau minérale\nTous les péages et frais de stationnement\n\n**Non inclus**\nDéjeuner au restaurant\nToute dépense personnelle",
+  "highlights": [
+   "Visitez Har Ki Pauri, le célèbre ghat le long du Gange"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel/l'aéroport",
+   "Voiture privée climatisée pour toute l'activité du circuit, avec chauffeur",
+   "Guide touristique professionnel",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Déjeuner au restaurant",
+   "Toute dépense personnelle"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
