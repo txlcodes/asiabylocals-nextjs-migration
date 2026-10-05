@@ -20099,6 +20099,66 @@ export const FR_TOURS: Record<string, TourT> = {
    "Gratifications : pourboires pour le guide, le chauffeur, ou le personnel de l'hôtel"
   ]
  },
+ "chandni-chowk-old-delhi-food-tour-with-local-guide": {
+  "title": "Visite culinaire de Chandni Chowk, Vieux Delhi, avec guide local",
+  "metaTitle": "Delhi : visite culinaire de Chandni Chowk",
+  "metaDescription": "Explorez plus de 20 plats de street food emblématiques au cœur de Chandni Chowk.",
+  "shortDescription": "Explorez plus de 20 plats de street food emblématiques au cœur de Chandni Chowk.",
+  "fullDescription": "Rejoignez-nous pour une visite culinaire inoubliable à travers Chandni Chowk dans le Vieux Delhi, où vous découvrirez plus de 20 plats de street food emblématiques. Notre guide expert vous présentera une variété d'options alléchantes, et c'est à vous de choisir ce que vous voulez savourer. Que vous soyez novice en cuisine indienne ou amateur de gastronomie expérimenté, vous pouvez sauter ou plonger dans chaque plat selon vos papilles et préférences.\n\nVoici un aperçu de ce qui vous attend :\nJalebi\nPanipuri\nDahi Bhalla\nChole Bhature\nChaat\nBesan Laddoo\nDouceurs indiennes\nRaj Kachori\nPanipuri croustillant\nLassi\nSamosa\nParanthas\nKulia Ki Chaat\nRabri Faluda\nKulfi\nTandoori Roti\nButter Chicken\nRose Sharbat\nAloo Tikki\net bien plus encore\n\nChaque bouchée vient avec une histoire, riche en histoire, saveur, et culture !\nCeci n'est pas juste une visite, c'est une aventure culinaire !",
+  "highlights": [
+   "Explorez plus de 20 plats de street food emblématiques au cœur de Chandni Chowk"
+  ],
+  "included": [
+   "Guide professionnel",
+   "Bouteille d'eau"
+  ],
+  "notIncluded": [
+   "Coût de la nourriture",
+   "Tout autre shopping, etc."
+  ]
+ },
+ "delhi-night-tour-with-rickshaw-ride-and-street": {
+  "title": "Delhi : visite nocturne avec balade en rickshaw et street food",
+  "metaTitle": "Delhi : visite nocturne, rickshaw, street food",
+  "metaDescription": "Découvrez l'essence spirituelle du Gurudwara Bangla Sahib de nuit.",
+  "shortDescription": "Découvrez l'essence spirituelle du Gurudwara Bangla Sahib de nuit.",
+  "fullDescription": "Commencez votre voyage au paisible Gurudwara Bangla Sahib, où les dômes dorés scintillent sous le ciel nocturne, et les doux échos du kirtan créent une atmosphère de paix. Ressentez la chaleur de la communauté en entrant, découvrant l'essence spirituelle de ce lieu sacré.\n\nUne courte marche vous mène à la Sacred Heart Cathedral, un contraste frappant avec les rues animées à l'extérieur. La grandeur de son architecture coloniale, baignée d'un éclairage doux, ajoute au charme de la ville. En traversant les ruelles tranquilles, le National Philatelic Museum offre un aperçu de la riche histoire postale de l'Inde, sa rare collection racontant des histoires du passé à travers timbres et lettres.\n\nLe voyage prend ensuite un tournant passionnant lorsque vous montez dans un rickshaw, glissant à travers les rues illuminées vers le Sardar Patel Bhavan et le Parlement. La grandeur de ces structures la nuit, avec leurs imposantes façades rayonnant sous des lampadaires dorés, est un spectacle à voir. La balade continue à travers la vaste zone de Rajpath, où la fraîche brise nocturne et les larges avenues créent un moment de sérénité au milieu de l'énergie de la capitale.\n\nArrivez à India Gate, et assistez au mémorial de guerre qui se dresse fièrement, sa flamme éternelle vacillant en l'honneur des soldats tombés. L'atmosphère vivante ici est contagieuse, avec des familles, musiciens de rue, et vendeurs de nourriture ajoutant à l'expérience.\n\nAucune visite nocturne n'est complète sans se délecter de la légendaire street food de Delhi. Savourez du chaat fumant, des golgappas croustillants, et de délicieux kebabs des vendeurs locaux, chaque bouchée explosant de saveurs uniques à la ville. Avec le goût de l'authentique Delhi persistant encore, le voyage se termine parfaitement, vous laissant avec des souvenirs d'une ville qui ne dort jamais vraiment, mais qui, au contraire, rayonne d'histoire, de culture, et de vie.",
+  "highlights": [
+   "Découvrez l'essence spirituelle du Gurudwara Bangla Sahib de nuit"
+  ],
+  "included": [
+   "Guide touristique en direct anglophone/hindiphone",
+   "Visite nocturne guidée à pied",
+   "Balade traditionnelle en rickshaw",
+   "Dégustation de plus de 4 plats de street food",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Transport vers le point de départ",
+   "Dépenses personnelles",
+   "Gratifications"
+  ]
+ },
+ "gandhi-smriti-legacy-guided-half-day-trip-with-a": {
+  "title": "Gandhi Smriti et héritage : excursion guidée d'une demi-journée avec un local",
+  "metaTitle": "Delhi : Gandhi Smriti, demi-journée guidée",
+  "metaDescription": "Rendez hommage au Père de la Nation à la colonne des Martyrs.",
+  "shortDescription": "Rendez hommage au Père de la Nation à la colonne des Martyrs.",
+  "fullDescription": "Lancez-vous dans une visite guidée instructive de 1 heure 30 de Gandhi Smriti, l'un des mémoriaux les plus importants de Delhi dédiés au Mahatma Gandhi. Ce lieu serein est où le Père de la Nation passa ses 144 derniers jours avant son tragique assassinat en 1948.\n\nPendant la visite, un guide expert vous emmènera à travers les différentes salles et expositions qui reflètent la vie de Gandhi, ses idéologies, et son message durable de paix et de non-violence. Vous visiterez également la colonne des Martyrs, l'endroit exact où Gandhi fut abattu, offrant un moment poignant de réflexion.\n\nLe site est rempli d'artefacts historiques, de photographies, et de présentations multimédias qui offrent un aperçu profond de ses contributions au mouvement pour l'indépendance de l'Inde.\n\nDes services de prise en charge et de retour sont disponibles depuis tous les emplacements dans le NCR de Delhi, rendant la visite pratique et accessible. La visite commence à 10h00, vous offrant un début de journée paisible et réfléchi tandis que vous explorez l'héritage de l'un des plus grands leaders du monde.",
+  "highlights": [
+   "Rendez hommage au Père de la Nation à la colonne des Martyrs"
+  ],
+  "included": [
+   "Visite guidée de 1 heure 30 de Gandhi Smriti",
+   "Guide expert anglophone",
+   "Services de prise en charge et retour depuis tous les emplacements dans le NCR de Delhi",
+   "Aperçu de la vie, des idéologies, et des contributions de Gandhi"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Dépenses personnelles"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
