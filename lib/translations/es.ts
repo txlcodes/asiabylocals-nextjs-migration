@@ -5995,6 +5995,78 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas y gratificaciones"
   ]
  },
+ "from-delhi-taj-mahal-agra-fort-fatehpur-sikri-day": {
+  "title": "Desde Delhi: excursión de un día al Taj Mahal, fuerte de Agra, y Fatehpur Sikri",
+  "metaTitle": "Delhi-Agra-Fatehpur Sikri: excursión de 1 día",
+  "metaDescription": "Descubra el Taj Mahal, sitio del Patrimonio Mundial de la UNESCO, con un guía privado.",
+  "shortDescription": "Descubra el Taj Mahal, sitio del Patrimonio Mundial de la UNESCO, con un guía privado.",
+  "fullDescription": "Embárquese en un viaje cautivador desde Delhi hasta Agra, explorando el Taj Mahal, el fuerte de Agra, y Fatehpur Sikri. Viaje cómodamente en un coche privado con aire acondicionado con un guía profesional, y disfrute de una comida lujosa en un restaurante indio multicocina.\n\n**Horarios de recogida flexibles**\nVisita del amanecer: recogida entre las 2:30 y las 3:00 de la madrugada para quienes quieran ver la impresionante belleza del Taj Mahal al amanecer. Este inicio temprano garantiza que llegue a Agra cuando se abran las puertas, ofreciendo una experiencia serena con menos multitudes.\n\nPara la opción de excursión de un día: puede elegir la hora de recogida preferida para una excursión relajada entre las 2:30 y las 8:30 de la mañana. Disfrute de la flexibilidad de comenzar su viaje a la hora que mejor se adapte a su horario, mientras experimenta los puntos destacados de Agra, incluyendo el Taj Mahal, el fuerte de Agra, y Fatehpur Sikri.\n\nComience su viaje con una cómoda recogida en su hotel, aeropuerto, estación de tren, o cualquier otro lugar preferido en Delhi, Noida, Gurugram, Faridabad, Ghaziabad. Disfrute de un trayecto pintoresco hacia Agra en un cómodo coche privado con aire acondicionado, de aproximadamente 3 horas. Al llegar a Agra, le presentarán a su guía turístico, y comenzará el tour.\n\n**Su primera visita, el Taj Mahal**: experimente la impresionante belleza del Taj Mahal, sitio del Patrimonio Mundial de la UNESCO y una de las Nuevas Siete Maravillas del Mundo. Conozca la historia romántica detrás de su construcción de su conocedor guía. Capture impresionantes fotografías de este monumento icónico, y después de visitar el Taj Mahal, su aventura continúa hacia el fuerte de Agra con su guía turístico.\n\n**Su segunda visita**: descubra el impresionante fuerte de Agra, otro sitio del Patrimonio Mundial de la UNESCO, conocido por su magnífica arquitectura y rica historia. Pasee por sus palacios, salones, y jardines, y disfrute de vistas panorámicas del Taj Mahal desde el fuerte. Después de explorar el fuerte de Agra, procederá a un delicioso almuerzo en un restaurante indio multicocina.\n\n**Opciones de comida en un restaurante multicocina**: si elige una hora de recogida para una visita del amanecer al Taj Mahal, disfrutará de un desayuno en lugar de almuerzo. Si selecciona una hora de recogida después de las 3:00, se le servirá un almuerzo en un restaurante indio multicocina. Disfrute de un delicioso almuerzo o desayuno en un restaurante indio multicocina, y saboree una variedad de platos, desde curris indios tradicionales hasta favoritos internacionales, para todos los gustos.\n\nDespués del almuerzo, continuará su visita a Fatehpur Sikri con su guía privado, una ciudad histórica fundada por el emperador Akbar. Situada a aproximadamente 40 km de Agra, toma alrededor de 1 hora llegar. Explore las ruinas bien conservadas de Fatehpur Sikri, sitio del Patrimonio Mundial de la UNESCO, y descubra sus grandiosos palacios, mezquitas, y patios.\n\nComience su viaje de regreso a Delhi, reflexionando sobre las experiencias y recuerdos del día. A su llegada, será dejado en su hotel, el aeropuerto, o cualquier otro lugar deseado en Delhi, Gurugram, Noida, Ghaziabad, o Faridabad, concluyendo el tour.",
+  "highlights": [
+   "Descubra el Taj Mahal, sitio del Patrimonio Mundial de la UNESCO, con un guía privado"
+  ],
+  "included": [
+   "Recogida y traslado al hotel o al aeropuerto",
+   "Guía turístico privado",
+   "Transporte en coche con aire acondicionado con conductor profesional",
+   "Tarifas de entrada a todos los monumentos (si se elige esa opción)",
+   "Comidas (si se elige esa opción)",
+   "Todos los cargos de estacionamiento, peajes, combustible, e impuestos",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Bebidas",
+   "Gratificaciones/propinas (opcional)"
+  ]
+ },
+ "from-delhi-taj-mahal-day-trip-by-high-speed": {
+  "title": "Desde Delhi: excursión de un día al Taj Mahal en el tren de alta velocidad Gatimaan",
+  "metaTitle": "Delhi-Agra en Gatimaan, excursión de 1 día",
+  "metaDescription": "Viaje rápido de Delhi a Agra a bordo del Gatimaan, el tren más rápido de la India.",
+  "shortDescription": "Viaje rápido de Delhi a Agra a bordo del Gatimaan, el tren más rápido de la India.",
+  "fullDescription": "Comience su viaje desde su hotel o el aeropuerto en Delhi, u otro lugar preferido en Delhi, Noida, Gurugram, Ghaziabad, o Faridabad. Su conductor lo recogerá para trasladarlo a la estación de tren de Nizamuddin. Encuentre su vagón y asientos con la ayuda de su conductor, y salga de la estación a las 8:10.\n\nDisfrute de un delicioso desayuno servido a bordo del tren mientras se desliza por los pintorescos paisajes del norte de la India.\n\nLlegue a Agra, la ciudad del Taj Mahal, en solo unas horas. Será recibido por su guía conocedor a su llegada frente al vagón.\n\nExplore el icónico Taj Mahal, sitio del Patrimonio Mundial de la UNESCO y una de las Nuevas Siete Maravillas del Mundo. Maravíllese con su impresionante arquitectura, y conozca su fascinante historia.\n\nPor la tarde, disfrute de un delicioso almuerzo en un hotel de 5 estrellas y saboree la auténtica cocina mogola. A continuación, visite el majestuoso fuerte de Agra, sitio del Patrimonio Mundial de la UNESCO y símbolo de la grandiosa arquitectura mogola. Explore sus palacios, patios, y jardines mientras disfruta de vistas panorámicas del Taj Mahal a distancia, y haga una última parada en Itimad-Ud-Daulah, también conocido como Baby Taj.\n\nDespídase de Agra y aborde el Gatimaan Express a las 17:50 para su viaje de regreso a Delhi. Disfrute de una suntuosa cena servida a bordo mientras reflexiona sobre las experiencias del día y admira los paisajes que pasan.\n\nLlegue a Delhi a las 19:30 por la noche, y conozca a su conductor para ser trasladado a su hotel.\n\nNota: la duración del tour y las inclusiones pueden variar ligeramente según la opción seleccionada al momento de la reserva. Por favor revise cuidadosamente su opción de actividad elegida para horarios e inclusiones específicas.",
+  "highlights": [
+   "Viaje rápido de Delhi a Agra a bordo del Gatimaan, el tren más rápido de la India"
+  ],
+  "included": [
+   "Recogida y traslado (solo si se selecciona esa opción)",
+   "Boletos de tren de ida y vuelta (solo si se selecciona esa opción)",
+   "Guía turístico privado",
+   "Boletos de entrada a todos los monumentos (solo si se selecciona esa opción)",
+   "Transporte en vehículo con aire acondicionado en Agra (solo si se selecciona esa opción)",
+   "Almuerzo en hotel de 5 estrellas (solo si se selecciona esa opción)",
+   "Agua embotellada",
+   "Todos los cargos de estacionamiento e impuestos"
+  ],
+  "notIncluded": [
+   "Bebidas",
+   "Propinas (opcional)"
+  ]
+ },
+ "gurgaon-private-taj-mahal-day-tour-from": {
+  "title": "Gurgaon: tour privado de un día al Taj Mahal desde Gurgaon/Gurugram",
+  "metaTitle": "Gurgaon-Agra: Taj Mahal ida y vuelta",
+  "metaDescription": "Tour al Taj Mahal, ida y vuelta.",
+  "shortDescription": "Tour al Taj Mahal, ida y vuelta.",
+  "fullDescription": "Un gran número de visitantes vienen a la India y a Gurgaon con el deseo de visitar el monumento mundialmente famoso, el Taj Mahal. Pueden planificar fácilmente un tour de Gurgaon al Taj Mahal, una excursión de un día de Gurugram a Agra en coche, durante su apretada agenda.\n\nPara tener en cuenta las necesidades de estos viajeros, diseñamos el mejor tour al Taj Mahal desde Gurgaon en el mismo día. Este tour cubre los 2 sitios del Patrimonio Mundial de la ciudad de Agra junto con otros famosos monumentos históricos de la ciudad. Este es un tour privado de un día desde Gurugram al Taj Mahal en Agra, que le ofrece un vehículo privado de lujo para el viaje de ida y vuelta junto con un excelente conductor, y también podrá disfrutar de las delicias de Agra, la ciudad mogola, en esta breve excursión.\n\n**6:00: recogida en Gurgaon**\nPor la mañana, nuestro conductor lo recibirá en la dirección indicada en la ciudad de Gurgaon, con su vehículo limpio y ordenado. Su trayecto comienza hacia la ciudad de Agra, que se encuentra a una distancia de 220 km. Este trayecto tomará alrededor de 3 a 4 horas para llegar a la histórica ciudad de Agra.\n\n**10:00: tour al Taj Mahal**\nAl llegar a Agra, procederá directamente a la visita del monumento mundialmente famoso, el Taj Mahal. Este fue uno de los proyectos más costosos del siglo XVII y sigue siendo famoso como maravilla del mundo. Disfrute de la visita al Taj Mahal, que tomará alrededor de 2 horas.\n\n**12:00: tour al fuerte de Agra**\nSu próxima visita será al sitio del Patrimonio Mundial de la UNESCO, el fuerte de Agra, construido en el siglo XVI por los mogoles, con numerosos y hermosos palacios y jardines. Aquí visitará importantes palacios como Deewan E Aam, Sheesh Mahal, Deewan E Khaas, Angoori Bagh, Jahangir Takht, y la bañera real.\n\n**13:30: pausa para el almuerzo**\nAhora procederá a disfrutar del suntuoso almuerzo, y debe probar las cocinas favoritas de los mogoles en un restaurante/hotel recomendado en Agra.\n\n**15:00: tour a Itmad Ud Daula**\nDespués del almuerzo, procederá al tour de Itmad Ud Daula, también famoso con el nombre de Baby Taj Mahal. Este hermoso monumento de mármol blanco fue construido en memoria amorosa de Mirza Ghyas Beg, quien fue el padre de la reina Noorjahan. Está ubicado en la orilla del río Yamuna, rodeado de hermosos jardines, y es un lugar pintoresco para los viajeros.\n\n**15:45: tour de compras**\nLa ciudad de Agra es también un paraíso para los amantes de las compras, y esta ciudad es famosa por sus artículos artesanales de incrustación en mármol, cuero, y alfombras. Puede visitar los coloridos mercados y explorar la cultura de la ciudad mogola.\n\n**17:00: de Agra a Gurgaon**\nDespués de la visita, su viaje de regreso comienza directamente hacia Gurgaon. Después de dejarlo en su respectivo destino, el tour de Gurgaon al Taj Mahal termina.",
+  "highlights": [
+   "Tour al Taj Mahal, ida y vuelta"
+  ],
+  "included": [
+   "Vehículo privado con aire acondicionado para todo el tour",
+   "Todos los peajes, estacionamiento, cargos de combustible, e impuestos interestatales",
+   "Recogida y entrega en el hotel/aeropuerto/estación de tren",
+   "Guía turístico aprobado por el gobierno en todos los destinos",
+   "Agua potable empaquetada (4 botellas por día)",
+   "Paseo en carrito de golf en el Taj Mahal",
+   "Bienvenida tradicional por un representante en el aeropuerto/estación de tren/hotel"
+  ],
+  "notIncluded": [
+   "Gratificaciones",
+   "Boletos de cámara y monumentos",
+   "Gastos de naturaleza personal",
+   "Tarifa aérea"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
