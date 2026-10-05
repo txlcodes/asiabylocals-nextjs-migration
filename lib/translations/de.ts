@@ -3839,6 +3839,74 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alles, was nicht in den Inklusionen erwähnt ist"
   ]
  },
+ "taj-mahal-sunrise-agra-fort-tour-with-fatehpur": {
+  "title": "Taj Mahal Sonnenaufgang und Agra Fort Tour mit Fatehpur Sikri",
+  "metaTitle": "Agra: Taj Mahal, Fort, Fatehpur Sikri",
+  "metaDescription": "Besuchen Sie die bekannteste Sehenswürdigkeit (Taj Mahal, Agra Fort, Fatehpur Sikri mit Frühstück).",
+  "shortDescription": "Besuchen Sie die bekannteste Sehenswürdigkeit (Taj Mahal, Agra Fort, Fatehpur Sikri mit Frühstück).",
+  "fullDescription": "**5:00 Uhr: Abholung vom Hotel in Agra**\nAbholung von Ihrem Hotel in Agra und Fahrt zum Taj Mahal.\n\n**5:10 Uhr: Erkundung des Taj Mahal**\nErkunden Sie das prächtige Taj Mahal, ein architektonisches Meisterwerk und Symbol ewiger Liebe. Erfahren Sie mehr über seine Geschichte, bewundern Sie die kunstvolle Marmorarbeit und machen Sie unvergessliche Fotos vom berühmten weißen Mausoleum.\n\n**21:00 Uhr: Agra Fort**\nBesuchen Sie das majestätische Agra Fort, ein UNESCO-Weltkulturerbe. Erkunden Sie die Paläste, Höfe und Gärten innerhalb des Festungskomplexes. Entdecken Sie die faszinierende Geschichte des Mogulreichs und genießen Sie Panoramablicke auf das Taj Mahal von den Aussichtspunkten der Festung.\n\n**23:30 Uhr: Abfahrt nach Fatehpur Sikri**\nVerlassen Sie Agra und fahren Sie nach Fatehpur Sikri, einer historischen Stadt etwa 40 Kilometer entfernt.\n\n**12:30 Uhr: Erkundung von Fatehpur Sikri**\nErkunden Sie die Großartigkeit von Fatehpur Sikri, einer verlassenen Stadt und einem weiteren UNESCO-Weltkulturerbe. Besuchen Sie das Buland Darwaza (Tor des Sieges), die Jama Masjid, den Panch Mahal und andere architektonische Wunder, die die Mischung aus indischen und islamischen Baustilen zeigen.\n\n**14:00 Uhr: Mittagspause**\nMachen Sie eine Mittagspause in einem lokalen Restaurant in Fatehpur Sikri. Genießen Sie köstliche Mogulküche oder wählen Sie eine Küche Ihrer Wahl.\n\n**15:00 Uhr: Rückfahrt nach Agra**\nNach einem unvergesslichen Tag voller Besichtigungen verlassen Sie Fatehpur Sikri und fahren zurück nach Agra.\n\n**16:00 Uhr: Ankunft in Agra**\nRückkehr nach Agra und Absetzung an Ihrem Hotel in Agra.",
+  "highlights": [
+   "Besuchen Sie die bekannteste Sehenswürdigkeit (Taj Mahal, Agra Fort, Fatehpur Sikri mit Frühstück)"
+  ],
+  "included": [
+   "Abhol- und Rückbringservice",
+   "Privates klimatisiertes Auto / Bus / Minivan / Tempo Traveller",
+   "Privater Reiseführer-Service",
+   "Eintritt zu den Denkmälern (falls ausgewählt)",
+   "Parken, Kraftstoff, Fernverkehrsgebühren",
+   "GST und alle Steuern"
+  ],
+  "notIncluded": [
+   "Jegliche Art von Mahlzeiten",
+   "Trinkgelder und Zuwendungen",
+   "Alle anderen persönlichen Ausgaben"
+  ]
+ },
+ "from-delhi-guided-taj-mahal-tour-with-drop-at": {
+  "title": "Von Delhi aus: Geführte Taj Mahal Tour mit Absetzung in Jaipur",
+  "metaTitle": "Delhi-Jaipur: Taj Mahal, Absetzung in Jaipur",
+  "metaDescription": "Abholung in New Delhi und Absetzung in Jaipur mit Besichtigung des Taj Mahal in Agra.",
+  "shortDescription": "Abholung in New Delhi und Absetzung in Jaipur mit Besichtigung des Taj Mahal in Agra.",
+  "fullDescription": "Diese Tour beginnt mit Ihrer Abholung in New Delhi, danach genießen Sie die Fahrt in Ihrem komfortablen Taxi mit professionellem Fahrer nach Agra für dreieinhalb Stunden. Bei der Ankunft in Agra werden Sie von unserem Vertreter begrüßt und anschließend zum Taj Mahal gebracht, wo Sie den schönen Ort genießen und unvergessliche Fotos des Siebten Weltwunders machen können.\n\nNach dem Besuch des Taj Mahal können Sie Ihre Mahlzeit genießen, also Frühstück oder Mittagessen je nach Ihrer Abholzeit, und anschließend das Agra Fort besichtigen, eine der bedeutendsten Festungen Indiens mit herrlichem Blick auf das Taj Mahal. Genießen Sie eine Stunde in der massiven Festung von Agra und setzen Sie dann Ihre Fahrt nach Jaipur für weitere vier Stunden fort.\n\nAuf dem Weg machen Sie einen Halt für eine Erfrischungspause, und später werden Sie an Ihrem gewünschten Ziel in Jaipur abgesetzt.",
+  "highlights": [
+   "Abholung in New Delhi und Absetzung in Jaipur mit Besichtigung des Taj Mahal in Agra"
+  ],
+  "included": [
+   "Klimatisiertes Fahrzeug und professioneller Fahrer",
+   "Lokaler Guide in Agra",
+   "Eintrittsgebühren für das Taj Mahal und vegetarisches Buffet-Mittagessen",
+   "Trinkwasser in Flaschen",
+   "Abholung und Rückbringung zum Hotel",
+   "Privater Einwegtransfer",
+   "Transport in klimatisiertem Auto"
+  ],
+  "notIncluded": [
+   "Frühstück oder Abendessen",
+   "Trinkgelder",
+   "Eintritt, Agra Fort/Baby Taj"
+  ]
+ },
+ "from-delhi-private-taj-mahal-agra-tour-all": {
+  "title": "Von Delhi aus: Private Taj Mahal und Agra Tour, alles inklusive",
+  "metaTitle": "Delhi-Agra: privater Taj Mahal, alles inklusive",
+  "metaDescription": "Flüstern der Liebe, die die Magie des Taj Mahal beim Sonnenaufgang mit einem lokalen Guide umarmt.",
+  "shortDescription": "Flüstern der Liebe, die die Magie des Taj Mahal beim Sonnenaufgang mit einem lokalen Guide umarmt.",
+  "fullDescription": "Beginnen Sie Ihren Tag mit einer bequemen Abholung in Delhi, Gurgaon, Noida oder am Flughafen. Entspannen Sie sich in einem privaten klimatisierten Fahrzeug auf der malerischen Yamuna-Autobahn nach Agra, mit optionalen Stopps für Tee oder Snacks.\n\nTreffen Sie Ihren erfahrenen Guide und erkunden Sie das weltberühmte Taj Mahal, gefolgt vom UNESCO-gelisteten Agra Fort mit seiner beeindruckenden Mogul-Architektur und Blick auf das Taj Mahal.\n\nGenießen Sie Frühstück oder Mittagessen an erstklassigen Orten Ihrer Wahl, darunter DoubleTree by Hilton, Bon Barbeque, Two Saints, Cairo oder Courtyard by Marriott.\n\nFahren Sie weiter zum Itmad-Ud-Daulah (Baby Taj), einem schönen Mogul-Marmorgrab, bekannt für seine Pietra-Dura-Handwerkskunst.\n\nNach der Besichtigung entspannen Sie sich während Ihrer privaten Rückfahrt zu Ihrem Hotel, Flughafen oder bevorzugten Ort in Delhi, Gurgaon oder Noida.",
+  "highlights": [
+   "Flüstern der Liebe, die die Magie des Taj Mahal beim Sonnenaufgang mit einem lokalen Guide umarmt"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel/Flughafen",
+   "Transport im privaten klimatisierten Auto",
+   "Privater Live-Reiseführer",
+   "Trinkwasser in Flaschen während der Reise",
+   "Eintrittskarten zu den Denkmälern (falls ausgewählt)",
+   "Buffet-Mittagessen in einem 5-Sterne-Hotel (falls ausgewählt)"
+  ],
+  "notIncluded": [
+   "Trinkgeld für Fahrer und Guide"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
