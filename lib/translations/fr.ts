@@ -4551,6 +4551,71 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires du chauffeur"
   ]
  },
+ "delhi-private-day-tour-of-agra-all-inclusive": {
+  "title": "Delhi : visite privée d'une journée à Agra, tout compris",
+  "metaTitle": "Delhi-Agra : visite privée en 1 jour, tout compris",
+  "metaDescription": "Service de porte à porte.",
+  "shortDescription": "Service de porte à porte.",
+  "fullDescription": "**6h00** : prise en charge à votre hôtel à Delhi par une voiture privée et trajet vers Agra. Le voyage prend généralement environ 3 à 4 heures, selon les conditions de circulation.\n\n**9h00** : arrivée à Agra et rencontre avec votre guide local qui vous accompagnera toute la journée. Commencez votre visite par le Taj Mahal.\n\n**9h30** : explorez le majestueux Taj Mahal, l'une des sept merveilles du monde. Votre guide vous fournira des informations historiques et architecturales sur ce magnifique mausolée en marbre construit par l'empereur Shah Jahan pour son épouse bien-aimée, Mumtaz Mahal. Profitez des vues à couper le souffle et prenez des photos mémorables.\n\n**11h30** : après avoir passé suffisamment de temps au Taj Mahal, dirigez-vous vers un restaurant local pour un délicieux déjeuner. Vous pourrez savourer une cuisine indienne authentique et des spécialités régionales.\n\n**12h30** : procédez à la visite du fort d'Agra, un site du patrimoine mondial de l'UNESCO. Explorez cette forteresse en grès rouge qui servait de siège du pouvoir pour l'Empire moghol. Découvrez son histoire, son architecture complexe, et visitez des attractions notables au sein du fort, comme le Diwan-i-Aam (salle d'audience publique), le Diwan-i-Khas (salle d'audience privée), et le palais de Jahangir.\n\n**14h00** : après avoir exploré le fort d'Agra, vous pouvez visiter quelques boutiques ou marchés locaux pour acheter des souvenirs ou découvrir la culture locale.\n\n**15h00** : départ d'Agra et début de votre retour vers Delhi.\n\n**18h00** : retour à votre hôtel à Delhi, où le chauffeur vous déposera, marquant la fin de la visite.",
+  "highlights": [
+   "Service de porte à porte"
+  ],
+  "included": [
+   "Entrées aux monuments",
+   "Déjeuner (buffet dans un hôtel 5 étoiles)",
+   "Transport",
+   "Péage, stationnement, carburant",
+   "Services de guide et de chauffeur",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Tout service non mentionné dans les inclusions"
+  ]
+ },
+ "same-day-incredible-taj-mahal-tour-from-jaipur-by": {
+  "title": "Visite incroyable du Taj Mahal le jour même depuis Jaipur en voiture",
+  "metaTitle": "Jaipur-Agra en 1 jour : Taj Mahal",
+  "metaDescription": "Émerveillez-vous devant la beauté du Taj Mahal en marbre blanc, site du patrimoine mondial de l'UNESCO.",
+  "shortDescription": "Émerveillez-vous devant la beauté du Taj Mahal en marbre blanc, site du patrimoine mondial de l'UNESCO.",
+  "fullDescription": "Il s'agit d'un voyage routier privé en une journée vers Agra depuis Jaipur. En une seule journée, explorez le Taj Mahal, le fort d'Agra, et le Baby Taj Mahal. Découvrez le Taj Mahal avec un guide touristique privé local qualifié et expérimenté, et apprenez-en davantage sur la conception architecturale incroyable mais mystérieuse du monument. De plus, visitez le magnifique fort d'Agra, un site du patrimoine mondial de l'UNESCO, et le Baby Taj Mahal (tombeau d'Etmad Ud Daulla).\n\n**Itinéraire :**\n\n**Jour 1 : Jaipur – Agra**\n\nÀ l'arrivée, un représentant vous prendra en charge le matin à 6h00 à l'endroit souhaité à Jaipur pour vous diriger vers Agra en voiture. Le trajet prendra environ 4 à 5 heures pour 250 km. Alors que vous vous installez dans la voiture, pouvez-vous ressentir l'excitation qui saisira votre esprit et votre cœur en commençant ce merveilleux circuit avec votre trajet vers Agra. À l'arrivée, procédez à la visite touristique d'Agra.\n\n**Le Taj Mahal** : le Taj Mahal, lors de cette excursion d'une journée à Agra, est un site du patrimoine mondial de l'UNESCO et l'une des 7 merveilles du monde. Découvrez l'histoire et le récit de comment et pourquoi Shah Jahan a construit ce grand monument en mémoire de son épouse bien-aimée, Mumtaz Mahal.\n\n**Fort Rouge** : le site du patrimoine mondial de l'UNESCO à Agra est le fort d'Agra. Ce monument en grès rouge fut construit par l'empereur moghol Akbar. Il a perdu une grande partie de sa splendeur après la mort d'Akbar. Nombre de ses bâtiments ont été détruits, mais certaines mosquées, salles d'audience publiques et privées, palais, tours, et cours subsistent encore.\n\n**Baby Taj** : le tombeau du Baby Taj d'I'timad-ud-Daulah est un mausolée moghol dans la ville d'Agra. Souvent décrit comme un « coffret à bijoux », parfois appelé le « Baby Taj », le tombeau d'I'timad-ud-Daulah est souvent considéré comme une esquisse du Taj Mahal.\n\n**Trajet vers Jaipur** : après avoir exploré Agra, vous roulerez vers Jaipur. Le trajet prendra environ 4 à 5 heures pour 250 km.\n\n**Arrivée à Jaipur** : à l'arrivée, dépose à votre hôtel à Jaipur. Ce circuit historique restera à jamais gravé dans votre mémoire.\n\nNote : le Taj Mahal est fermé tous les vendredis.",
+  "highlights": [
+   "Émerveillez-vous devant la beauté du Taj Mahal en marbre blanc, site du patrimoine mondial de l'UNESCO"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel/gare/station de bus en véhicule climatisé",
+   "Véhicule climatisé et transport privé",
+   "Carburant (essence/diesel), frais de stationnement, péages, et taxes inter-États",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Frais d'entrée aux monuments / frais de caméra",
+   "Repas et dépenses personnelles",
+   "Autres activités",
+   "Pourboires du chauffeur (somme symbolique d'appréciation)"
+  ]
+ },
+ "from-rishikesh-2-days-taj-mahal-agra-tour": {
+  "title": "Depuis Rishikesh : circuit de 2 jours au Taj Mahal et à Agra",
+  "metaTitle": "Rishikesh-Agra : Taj Mahal en 2 jours",
+  "metaDescription": "Plongez dans la beauté du Taj Mahal à l'aube.",
+  "shortDescription": "Plongez dans la beauté du Taj Mahal à l'aube.",
+  "fullDescription": "**Jour 1 : Rishikesh – Agra**\nLe matin, nous vous accueillerons à votre hôtel/ashram à Rishikesh dans notre véhicule privé de luxe, et votre trajet continuera vers Agra, situé à environ 400 kilomètres de Rishikesh. Le voyage complet prendra environ 7 heures pour atteindre la ville d'Agra. À votre arrivée, vous serez enregistré dans votre hôtel pré-réservé et pourrez vous rafraîchir. Avant le coucher du soleil, nous vous emmènerons visiter le jardin de Mehtab, d'où vous pourrez profiter de la vue du coucher de soleil sur le Taj Mahal. Après la visite, vous serez reconduit à votre hôtel. Profitez de votre dîner et passez la nuit à l'hôtel.\n\n**Jour 2 : Agra – Delhi**\nTôt le matin, à l'aube, nous vous emmènerons visiter le Taj Mahal, le meilleur moment pour visiter cet emblème de l'amour. Ensuite, vous reviendrez pour prendre votre petit-déjeuner. Après le petit-déjeuner, départ de votre hôtel et trajet vers la visite du magnifique fort d'Agra, situé à seulement 3 kilomètres du Taj Mahal. Ce magnifique fort a commencé à être construit au 15e siècle, et de nombreuses générations de Moghols y ont ensuite résidé. Après avoir terminé la visite, vous poursuivrez votre trajet vers Delhi via l'autoroute express Yamuna, qui prendra au maximum 3 heures pour atteindre Delhi. À l'arrivée, nous vous transférerons à votre hôtel/aéroport à Delhi. Ici se termine la visite.",
+  "highlights": [
+   "Plongez dans la beauté du Taj Mahal à l'aube"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Voiture privée climatisée pour tout le voyage",
+   "Toutes les taxes",
+   "Hébergement en hôtel 3 étoiles",
+   "Petit-déjeuner à l'hôtel"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Frais d'entrée aux monuments"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
