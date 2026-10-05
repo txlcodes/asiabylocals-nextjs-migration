@@ -23778,6 +23778,70 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "delhi-red-fort-skip-the-line-guided-tour-with": {
+  "title": "Delhi: Rotes Fort Skip-the-Line geführte Tour mit Eintrittskarten",
+  "metaTitle": "Delhi: Rotes Fort Skip-the-Line, geführte Tour",
+  "metaDescription": "Vermeiden Sie lange Warteschlangen am ikonischen Roten Fort von Delhi mit einer vorab gebuchten Eintrittskarte.",
+  "shortDescription": "Vermeiden Sie lange Warteschlangen am ikonischen Roten Fort von Delhi mit einer vorab gebuchten Eintrittskarte.",
+  "fullDescription": "Delhi: Rotes Fort Skip-the-Line geführte Tour mit Eintrittskarten. Vermeiden Sie lange Warteschlangen am ikonischen Roten Fort von Delhi mit einer vorab gebuchten Eintrittskarte.\n\n**1. Ankunft und bevorzugter Einlass**\nTreffen Sie Ihren professionellen lokalen Reiseführer in der Nähe des Eingangs zum Roten Fort. Vermeiden Sie lange Warteschlangen an der Kasse mit Ihrer vorab gebuchten Eintrittskarte und gehen Sie direkt hinein, um wertvolle Zeit zu sparen.\n\n**2. Lahori-Tor und Chhatta Chowk**\nBetreten Sie das Fort durch das prächtige Lahori-Tor, das einst königlichen Prozessionen vorbehalten war. Schlendern Sie durch den Chhatta Chowk, den historischen überdachten Basar, auf dem Mogul-Handwerker Seide, Juwelen und Parfüms verkauften.\n\n**3. Diwan-i-Aam (Halle der öffentlichen Audienz)**\nBesuchen Sie die beeindruckende Halle, in der Kaiser Shah Jahan sich an die einfachen Bürger wandte. Ihr Reiseführer lässt die Geschichten des Hofes lebendig werden und erklärt die mogulische Rechtsprechung, das Alltagsleben und die königlichen Traditionen.\n\n**4. Königliche Paläste und private Gemächer**\nErkunden Sie die eleganten Paläste, darunter Khas Mahal und Rang Mahal, einst Heimat von Kaisern und Königinnen. Bewundern Sie Marmorpavillons, Wasserkanäle und die verfeinerte mogulische Architektur.\n\n**5. Diwan-i-Khas (Halle der privaten Audienz)**\nEntdecken Sie die exklusivste Kammer des Forts, in der geheime Treffen und diplomatische Gespräche stattfanden. Hören Sie faszinierende Geschichten über den legendären Pfauenthron und königliche Intrigen.\n\n**6. Mogulische Gärten und Wasserwege**\nSpazieren Sie durch wunderschön angelegte Gärten im Stil persischer Gestaltung, mit Symmetrie, Brunnen und kühlenden Wasserkanälen, die den Luxus und die Innovationskraft der Moguln widerspiegeln.\n\n**7. Kulturelle Einblicke und Fotozeit**\nGenießen Sie freie Zeit für Fotos, während Ihr Reiseführer Einblicke in die hier jährlich stattfindenden Feierlichkeiten zum indischen Unabhängigkeitstag sowie den UNESCO-Weltkulturerbe-Status des Forts gibt.\n\n**8. Abschluss der Tour**\nDie geführte Tour endet innerhalb des Komplexes des Roten Forts, sodass Sie anschließend auf eigene Faust die nahegelegenen Sehenswürdigkeiten von Alt-Delhi erkunden oder Ihre Reise in Ihrem eigenen Tempo fortsetzen können.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel oder Flughafen\nPrivater klimatisierter Wagen für den Transfer, mit Fahrer\nVon der Regierung zugelassener Experten-Reiseführer\nEintrittskarten für Sehenswürdigkeiten (falls diese Option gewählt wird)\nFlasche Mineralwasser\nAlle Maut- und Parkgebühren\n\n**Nicht inbegriffen**\nJegliche persönliche Ausgaben",
+  "highlights": [
+   "Vermeiden Sie lange Warteschlangen am ikonischen Roten Fort von Delhi mit einer vorab gebuchten Eintrittskarte"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel oder Flughafen",
+   "Privater klimatisierter Wagen für den Transfer, mit Fahrer",
+   "Von der Regierung zugelassener Experten-Reiseführer",
+   "Eintrittskarten für Sehenswürdigkeiten (falls diese Option gewählt wird)",
+   "Flasche Mineralwasser",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "delhi-private-guided-instagram-photographery-tour": {
+  "title": "Delhi: private geführte Instagram-Fototour in Delhi",
+  "metaTitle": "Delhi: private geführte Instagram-Fototour",
+  "metaDescription": "Vermeiden Sie die Warteschlangen für Tickets",
+  "shortDescription": "Vermeiden Sie die Warteschlangen für Tickets",
+  "fullDescription": "Delhi: private geführte Instagram-Fototour in Delhi. Vermeiden Sie die Warteschlangen für Tickets.\n\n**Reiseroute**\nDies ist eine typische Reiseroute für dieses Angebot.\n\nBeginnen Sie die wunderbare Tour mit dem Treffen Ihres Reiseführers: Ankunft am Treffpunkt Sunehri Masjid, in der Nähe des Parkplatzes des Roten Forts.\n\n**1. Jama Masjid**: Besuchen Sie am Morgen die Jama Masjid, eine der größten und bekanntesten Moscheen Indiens. Erkunden Sie die beeindruckende Architektur und erleben Sie die spirituelle Atmosphäre.\n\n**2. Vorbeifahrt an**: Chandni Chowk, Chandni Chowk, New Delhi, Unionsterritorium Delhi.\n\n**3.** Fahren Sie durch Khari Baoli auf dem Chandni-Chowk-Markt. Hier befindet sich seit dem 17. Jahrhundert Asiens größter Gewürzmarkt. Erfahren Sie praxisnah mehr über die wunderbare Welt der Gewürze und ihre medizinischen und gesundheitlichen Vorteile.\n\n**4. Laxminarayan-Tempel**: Beginnen Sie Ihre spirituelle Reise am Laxminarayan-Tempel, einem modernen architektonischen Meisterwerk, das Bhagwan Vishnu gewidmet ist. Erkunden Sie die kunstvoll geschnitzten Wände, Gärten und Ausstellungen, die indische Kultur und Spiritualität zeigen.\n\n**5. Gurudwara Bangla Sahib**: Weiter geht es zum Gurudwara Bangla Sahib, einem der bedeutendsten Sikh-Tempel in Delhi. Erleben Sie die friedliche Atmosphäre, nehmen Sie an der Gemeinschaftsküche (Langar) teil, und lauschen Sie den heiligen Hymnen.\n\n**6. Agarsen ki Baoli**: bekannt als eine im 14. Jahrhundert errichtete Treppenanlage zur Sammlung von Regenwasser.\n\n**7. India Gate und Rajpath**: Fahren Sie am India Gate vorbei, einem Kriegsdenkmal für die indischen Soldaten, die im Ersten Weltkrieg gefallen sind. Spazieren Sie entlang des Rajpath und genießen Sie das üppige Grün.\n\n**8. Präsidentenpalast und Parlamentsgebäude**: Fahren Sie am Rashtrapati Bhavan (Präsidentenpalast) und dem Parlamentsgebäude vorbei, zwei bedeutenden Symbolen der indischen Demokratie.\n\n**9. Lotustempel**: Beenden Sie Ihren Tag mit einem Besuch des Lotustempels, einer Bahai-Kultstätte, bekannt für ihre einzigartige lotusförmige Architektur und friedliche Atmosphäre.\n\n**Was ist inbegriffen**\nTransport für Abholung und Rückfahrt überall in Delhi, Noida (falls diese Option für die Abholung gewählt wird)\nPersönlicher Live-Reiseführer, der Ihre Fotos mit Ihrem Handy macht\nParkgebühren, Mautgebühren, Kraftstoff, und Steuern inbegriffen\nKostenlose Wasserflasche und Regenschirm bereitgestellt\nEintritt - Jama Masjid, New Delhi\nEintrittsgebühren für die Jama-Moschee und Abholung an Sehenswürdigkeiten inbegriffen, falls diese Option gewählt wird\n\n**Nicht inbegriffen**\nMahlzeiten und Trinkgelder nicht inbegriffen\nTrinkgelder nicht inbegriffen\nTuk-Tuk-Fahrt nicht inbegriffen\nFotograf nicht inbegriffen",
+  "highlights": [
+   "Vermeiden Sie die Warteschlangen für Tickets"
+  ],
+  "included": [
+   "Transport für Abholung und Rückfahrt überall in Delhi, Noida (falls diese Option für die Abholung gewählt wird)",
+   "Persönlicher Live-Reiseführer, der Ihre Fotos mit Ihrem Handy macht",
+   "Parkgebühren, Mautgebühren, Kraftstoff, und Steuern inbegriffen",
+   "Kostenlose Wasserflasche und Regenschirm bereitgestellt",
+   "Eintritt - Jama Masjid, New Delhi",
+   "Eintrittsgebühren für die Jama-Moschee und Abholung an Sehenswürdigkeiten inbegriffen, falls diese Option gewählt wird"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Trinkgelder nicht inbegriffen",
+   "Trinkgelder nicht inbegriffen",
+   "Tuk-Tuk-Fahrt nicht inbegriffen",
+   "Fotograf nicht inbegriffen"
+  ]
+ },
+ "delhi-vegetarian-street-food-walking-tour": {
+  "title": "Delhi: vegetarische Street-Food-Wandertour",
+  "metaTitle": "Delhi: vegetarische Street-Food-Tour",
+  "metaDescription": "Entdecken Sie vegetarische und hygienische Street-Food-Stände",
+  "shortDescription": "Entdecken Sie vegetarische und hygienische Street-Food-Stände",
+  "fullDescription": "Delhi: vegetarische Street-Food-Wandertour. Entdecken Sie vegetarische und hygienische Street-Food-Stände.\n\nFür alle Liebhaber vegetarischer Küche: Begeben Sie sich auf eine außergewöhnliche Reise mit einer kulinarischen Tour durch Alt-Delhi. Entdecken Sie verborgene Schätze und legendäre kulinarische Köstlichkeiten, während Sie in das reiche kulturelle Geflecht dieser historischen Stadt eintauchen.\n\nBeginnen Sie an einem einzigartigen Tempel, in dem sogar Vögel verehrt und versorgt werden. Von dort aus schlendern Sie durch belebte Hochzeitsbasare und probieren drei unterschiedliche Arten von Samosas, nicht nur die übliche Kartoffelfüllung, sondern auch Varianten mit Blumenkohl und grünen Erbsen.\n\nWährend Sie tiefer in die labyrinthartigen Gassen vordringen, gewinnen Sie Einblicke in das Alltagsleben der Einheimischen, erkunden Tempel und verstehen den tiefgreifenden Einfluss der Religion auf ihre Kultur, Werte und Traditionen.\n\nVerwöhnen Sie Ihren Gaumen mit einer Vielfalt lokaler Spezialitäten, darunter gedämpfte Brote mit gewürzten Kichererbsen, Kartoffelcurry und mit Linsen gefüllte frittierte Brote, sowie ein herzhaftes Dessert, alles vegetarisch!\n\nSteigen Sie in eine Tuk-Tuk und begeben Sie sich in den aromatischen Gewürzbasar, wo Sie von einer sinnlichen Explosion intensiver Gewürze empfangen werden. Steigen Sie zu einem versteckten Aussichtspunkt hinauf, für eine einzigartige Perspektive auf diesen belebten Markt.\n\nGenießen Sie authentischen Chai-Tee, serviert in einer traditionellen Tontasse, und erleben Sie die Geschmacksexplosion von Joghurt-Klößchen, einer klassischen Delhi-Spezialität.\n\n**Was ist inbegriffen**\nVerkostung verschiedener vegetarischer lokaler Spezialitäten mit einem Einheimischen aus Delhi\nTuk-Tuk-Fahrt\nBesuch eines Gewürzbasars\nChai-Tee in einer traditionellen Tontasse\nGeschichten und interessante Fakten über Delhi, ohne trockene Geschichtsvorträge\nEine Tour ohne Einkaufsstopps, nur reines kulturelles und kulinarisches Erlebnis",
+  "highlights": [
+   "Entdecken Sie vegetarische und hygienische Street-Food-Stände"
+  ],
+  "included": [
+   "Verkostung verschiedener vegetarischer lokaler Spezialitäten mit einem Einheimischen aus Delhi",
+   "Tuk-Tuk-Fahrt",
+   "Besuch eines Gewürzbasars",
+   "Chai-Tee in einer traditionellen Tontasse",
+   "Geschichten und interessante Fakten über Delhi, ohne trockene Geschichtsvorträge",
+   "Eine Tour ohne Einkaufsstopps, nur reines kulturelles und kulinarisches Erlebnis"
+  ],
+  "notIncluded": []
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
