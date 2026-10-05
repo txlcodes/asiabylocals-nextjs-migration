@@ -1918,6 +1918,70 @@ export const ES_TOURS: Record<string, TourT> = {
    "La propina no está incluida"
   ]
  },
+ "delhi-taj-mahal-agra-fort-baby-taj-tour-with": {
+  "title": "Delhi: tour del Taj Mahal, Fuerte de Agra, y Baby Taj con traslado",
+  "metaTitle": "Delhi-Agra: Taj Mahal, fuerte, Baby Taj",
+  "metaDescription": "Visite el icónico Taj Mahal, símbolo del amor eterno.",
+  "shortDescription": "Visite el icónico Taj Mahal, símbolo del amor eterno.",
+  "fullDescription": "**6:30 a.m. – recogida desde Delhi (hotel / aeropuerto / estación de tren)**\nComience su viaje con un auto cómodo y con aire acondicionado. Trayecto hacia Agra por la autopista Yamuna (aproximadamente 3 a 4 horas). Opcional: parada para té/café o pausa de baño.\n\n**10:00 a.m. – visita al Taj Mahal**\nConozca a su guía local profesional en Agra. Explore el impresionante Taj Mahal, símbolo del amor eterno construido por el emperador mogol Shah Jahan para su amada esposa Mumtaz Mahal. Conozca su historia, arquitectura, y legado romántico. Disfrute de tiempo para la fotografía y la exploración de los jardines.\n\n**12:30 p.m. – visita al Fuerte de Agra**\nDiríjase al Fuerte de Agra catalogado por la UNESCO, la majestuosa fortaleza de arenisca roja de los emperadores mogoles. Descubra los palacios, patios, salones de audiencia, e impresionantes vistas del Taj Mahal desde el interior del fuerte.\n\n**2:00 p.m. – pausa para el almuerzo (opcional)**\nDisfrute de un delicioso almuerzo en un restaurante local multicocina (buffet o a la carta).\n\n**3:00 p.m. – visita a la Tumba de Itimad-ud-Daulah (Baby Taj)**\nVisite el elegante Baby Taj, a menudo considerado un boceto del Taj Mahal. Admire el intrincado trabajo de incrustación, las pantallas de celosía de mármol, y los jardines de estilo persa.\n\n**4:00 p.m. – visita opcional al mercado local**\nExplore un poco del arte y artesanía local famosa de Agra, incluyendo incrustación en mármol, cuero, o alfombras tejidas a mano.\n\n**4:30 p.m. – regreso a Delhi**\nComience el viaje de regreso a Delhi por la misma autopista.\n\n**8:30 p.m. – traslado en Delhi**\nRegrese a su hotel/aeropuerto con preciados recuerdos de su tour de Agra.",
+  "highlights": [
+   "Visite el icónico Taj Mahal, símbolo del amor eterno"
+  ],
+  "included": [
+   "Recogida y traslado al hotel",
+   "Guía privado en vivo",
+   "Transporte en vehículo con aire acondicionado",
+   "Boletos de entrada sin colas (si se selecciona la opción)",
+   "Botella de agua mineral",
+   "Todos los impuestos y estacionamiento"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
+  ]
+ },
+ "exclusive-golden-triangle-tour-03-nights-04-days": {
+  "title": "Tour exclusivo del Triángulo Dorado (3 noches / 4 días)",
+  "metaTitle": "Triángulo Dorado exclusivo: 3 noches / 4 días",
+  "metaDescription": "Visite Qutub Minar, el Templo del Loto, Akshardham, el Palacio Presidencial, y la India Gate.",
+  "shortDescription": "Visite Qutub Minar, el Templo del Loto, Akshardham, el Palacio Presidencial, y la India Gate.",
+  "fullDescription": "Descubra el Triángulo Dorado de la India en este tour exclusivo de 3 noches y 4 días. Explore los monumentos icónicos de Delhi como Qutub Minar, el Templo del Loto, Akshardham, el Palacio Presidencial, y la India Gate, luego viaje a Agra y Jaipur para descubrir sus respectivos tesoros patrimoniales con un guía local experto aprobado por el gobierno.",
+  "highlights": [
+   "Visite Qutub Minar, el Templo del Loto, Akshardham, el Palacio Presidencial, y la India Gate"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto",
+   "Auto privado con aire acondicionado para toda la actividad del tour con conductor",
+   "Guía turístico local experto aprobado por el gobierno",
+   "3 noches de alojamiento en hotel (si se selecciona la opción)",
+   "Desayuno en el hotel",
+   "Botella de agua mineral",
+   "Todos los peajes y estacionamiento"
+  ],
+  "notIncluded": [
+   "Boletos de entrada a los monumentos",
+   "Almuerzo y cena",
+   "Cualquier gasto personal"
+  ]
+ },
+ "taj-nature-and-country-side-bike-tour": {
+  "title": "Tour en bicicleta del Taj, naturaleza, y campo",
+  "metaTitle": "Taj: naturaleza y campo en bicicleta",
+  "metaDescription": "Explore la serena belleza de las zonas rurales que rodean Agra.",
+  "shortDescription": "Explore la serena belleza de las zonas rurales que rodean Agra.",
+  "fullDescription": "Tiene dos opciones: podemos recogerlo directamente en su hotel en Agra, garantizando un inicio sin complicaciones de su día. Alternativamente, puede encontrarse con nosotros en el punto de encuentro designado.\n\nPara ahorrar tiempo, considere comprar boletos con antelación. Podemos proporcionarle el enlace oficial para comprarlos en línea. Alternativamente, si lo prefiere, nos encargaremos de la compra de boletos por usted. Evite la fila y entre directamente en la historia.\n\nNuestro amigable guía estará allí para recibirlo, estableciendo el tono para una aventura inolvidable.\n\nAntes de entrar al Taj Mahal, nuestro conocedor guía le proporcionará información esencial. Conozca lo que se debe y no se debe hacer.\n\nMientras camina hacia el Taj Mahal, su mármol blanco inmaculado se revela gradualmente.\n\nMagia del amanecer: llegue temprano para presenciar el Taj Mahal, los colores cambiantes, de rosa a dorado, crean una atmósfera etérea.\n\nCapture este momento mágico, una historia de amor grabada en mármol contra el lienzo del cielo.",
+  "highlights": [
+   "Explore la serena belleza de las zonas rurales que rodean Agra"
+  ],
+  "included": [
+   "Guía local",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Boletos de entrada",
+   "Comida",
+   "Cualquier gasto personal"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",

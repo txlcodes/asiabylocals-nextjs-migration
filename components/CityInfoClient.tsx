@@ -204,6 +204,30 @@ const CITY_RECOMMENDED_TOURS: Record<string, { title: string; slug: string; desc
         { title: 'Khlong Toei Market Scavenger Hunt', slug: 'bangkok-scavenger-hunt-tour', description: 'Interactive market tour + tuk-tuk ride through Bangkok', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773742435/tours/bangkok/tours/bangkok_1773742434677_0.jpg', price: 'From $35', rating: '4.7' },
         { title: 'Bangkok Temples, Canals & Local Life Bike Tour', slug: 'bangkok-temples-canals-local-life-bike-tour', description: 'Ride through Thonburi\'s backstreets, canals & temples — max 8 riders', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1773875959/tours/bangkok/biketour/cover.jpg', price: 'From $23', rating: '4.9' },
     ],
+    'beijing': [
+        { title: 'BJ in a Day: Great Wall, Forbidden City, Hutong & Acrobatics', slug: 'bj-in-a-day-great-wall-forbidden-city-hutong', description: 'Great Wall, Forbidden City, Temple of Heaven and Summer Palace tickets in one packed day', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/70c602548385993fe63184f846c1d0b664db7cfcd45baf6fc9d31370e08f4080.jpg', price: 'From $246', rating: '4.7' },
+        { title: 'Off-Peak Mutianyu Great Wall Tour: Early Morning/Last Entry', slug: 'off-peak-mutianyu-great-wall-tour-early', description: 'Timed entry slots that dodge the midday tour-bus crowd wave at Mutianyu', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c6c2e541f4e7c143070d03', price: 'From $181', rating: '4.8' },
+        { title: 'Beijing: Mutianyu Great Wall Private Photo Tour with Guide', slug: 'beijing-mutianyu-great-wall-private-photo-tour', description: 'A private, paced Wall day with a guide who knows the empty stretches for photos', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c6c2e541f4e7c143070d03', price: 'From $566', rating: '4.9' },
+        { title: 'Beijing Hutong, Drum Tower & Fortune Temple Tour', slug: 'beijing-hutong-drum-tower-fortune-temple-tour', description: 'Old lane neighborhoods, the Drum Tower and a fortune temple most tourists miss', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9179579e8225c71c901c7ad', price: 'From $78', rating: '4.7' },
+        { title: 'Beijing: Forbidden City and 798 Art Zone Guided Day Tour', slug: 'beijing-forbidden-city-and-798-art-zone-guided', description: 'Imperial history in the morning, contemporary art in the afternoon', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/91fe6e96cc216fe2cce77c3', price: 'From $402', rating: '4.7' },
+        { title: 'Beijing: Private Tour with Forbidden City and Summer Palace', slug: 'beijing-private-tour-with-forbidden-city-and', description: 'Both of Beijing\'s biggest imperial sites in one paced private day', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/beijing-lama-temple-summer-palace', price: 'From $1157', rating: '4.9' },
+        { title: 'Beijing: Dumpling-Making Class with Local Host', slug: 'beijing-dumpling-making-class-with-local-host', description: 'Hands-on in a real home kitchen — consistently the top-rated single activity in the city', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/68cf1ea2154466309633bfd', price: 'From $117', rating: '4.9' },
+        { title: 'Beijing: Chinese Home Cooking Class with Local Host', slug: 'beijing-chinese-home-cooking-class-with-local-host', description: 'Market shopping then cooking a full home-style meal together', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ed259f9300e7ac7505eb8a1', price: 'From $117', rating: '4.9' },
+        { title: 'Beijing: Temple of Heaven Detective Tour with Tickets', slug: 'beijing-temple-of-heaven-detective-tour-with', description: 'A game-format guided visit to the Temple of Heaven, tickets included', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0cab3f', price: 'From $81', rating: '4.6' },
+        { title: 'Beijing: Paper-Cutting Workshop and Tea Tasting Experience', slug: 'beijing-paper-cutting-workshop-and-tea-tasting', description: 'A traditional craft workshop with a local artist and a tea tasting', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2781edc31918e27ba7d0b8a768d9c1c460ee043921f828d659a8063f438841ec.png', price: 'From $123', rating: '4.8' },
+    ],
+    'shanghai': [
+        { title: 'Shanghai: Zhujiajiao, French Concession & Bund Day Tour', slug: 'shanghai-zhujiajiao-french-concession-bund-day', description: 'A one-day sampler of the water town, old colonial district and skyline', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/shanghai-zhujiajiao', price: 'From $152', rating: '4.7' },
+        { title: 'Modern Suzhou & Ancient Water Town Tour with Boat Ride', slug: 'modern-suzhou-ancient-water-town-tour-with-boat', description: "Suzhou's UNESCO-listed gardens and canals in one day trip with a boat ride", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/suzhou-canal', price: 'From $440', rating: '4.8' },
+        { title: 'Private Suzhou Day Trip from Shanghai by Bullet Train', slug: 'private-suzhou-day-trip-from-shanghai-by-bullet', description: "The stronger day-trip pick if you can only do one — classical gardens via bullet train", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/suzhou-garden', price: 'From $585', rating: '4.8' },
+        { title: 'Shanghai: Yu Garden and City God Temple Culture Tour', slug: 'shanghai-yu-garden-and-city-god-temple-culture', description: 'A guided visit separating the real garden from the surrounding bazaar', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/shanghai-yu-garden', price: 'From $102', rating: '4.7' },
+        { title: 'From Shanghai: Zhujiajiao Water Town Day Trip with Boat Ride', slug: 'from-shanghai-zhujiajiao-water-town-day-trip-with', description: 'The easiest canal-town day trip from Shanghai, with the signature gondola ride', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/zhujiajiao-boat', price: 'From $676', rating: '4.7' },
+        { title: 'Shanghai: River Ferry and Bund Tour with Local English Guide', slug: 'shanghai-river-ferry-and-bund-tour-with-local', description: "Both the historic Bund and futuristic Pudong skyline from the water", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0f00744670e8541da39765d', price: 'From $101', rating: '4.7' },
+        { title: 'Shanghai Tower: Observation Deck Admission Ticket', slug: 'shanghai-tower-observation-deck-admission-ticket', description: "The world's second-tallest building, best visited in the morning", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/shanghai-tower', price: 'From $66', rating: '4.7' },
+        { title: 'Shanghai: Former French Concession Bike Tour with Brunch', slug: 'shanghai-former-french-concession-bike-tour-with', description: "Covers more ground than walking alone, brunch stop included", image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/french-concession-bike', price: 'From $323', rating: '4.7' },
+        { title: 'Shanghai: VIP Huangpu Night Cruise with Guide & Bund Views', slug: 'shanghaivip-huangpu-night-cruise-with-guide-bund', description: 'Both skylines lit up at night, seen from the water', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/shanghai-night-cruise', price: 'From $41', rating: '4.6' },
+        { title: 'Shanghai Disneyland Guided Tour: 6-Hour Group/Private', slug: 'shanghai-disneyland-guided-tour-6-hour', description: 'Ticketing and park logistics handled for the first Disney park on the Chinese mainland', image: 'https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/shanghai-disneyland-tour', price: 'From $40', rating: '4.5' },
+    ],
     'phuket': [
         { title: 'Phi Phi Islands Premium Catamaran Tour (Maya Bay & Snorkeling)', slug: 'phi-phi-islands-speedboat-tour-maya-bay-snorkeling', description: 'Maya Bay, Pileh Lagoon & Bamboo Island snorkelling — 8 hours', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1784980215/tours/phuket-phi-phi-bamboo-buffet-455/img_0.jpg', price: 'From $119', rating: '4.9' },
         { title: 'James Bond Island Speedboat Tour with Canoeing & Lunch', slug: 'james-bond-island-speedboat-tour-phuket', description: 'Phang Nga Bay sea caves, hong lagoons & Koh Panyee stilt village', image: 'https://res.cloudinary.com/dx2fxyaft/image/upload/v1772835259/tours/phuket/james-bond-island-speedboat-tour-phuket-0.jpg', price: 'From $99', rating: '4.8' },
@@ -285,6 +309,42 @@ const BANGKOK_SIDEBAR = [
     { name: 'Street Food Guide', slug: 'bangkok-street-food-guide' },
     { name: 'Khao San Road', slug: 'khao-san-road-bangkok' },
     { name: 'Kanchanaburi Day Trip', slug: 'bangkok-kanchanaburi-day-trip' },
+];
+
+const BEIJING_SIDEBAR = [
+    { name: 'Beijing Travel Guide', slug: 'beijing-travel-guide-2026' },
+    { name: 'Things to Do', slug: 'things-to-do-in-beijing' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-beijing' },
+    { name: 'China Visa Guide', slug: 'china-visa-guide-for-tourists' },
+    { name: 'Great Wall: Which Section', slug: 'great-wall-of-china-which-section' },
+    { name: 'Mutianyu vs Badaling', slug: 'mutianyu-vs-badaling' },
+    { name: 'Forbidden City Tickets', slug: 'forbidden-city-tickets-guide' },
+    { name: '1-Day Itinerary', slug: 'beijing-1-day-itinerary' },
+    { name: '3-Day Itinerary', slug: 'beijing-3-day-itinerary' },
+    { name: 'Subway Guide', slug: 'beijing-subway-guide' },
+    { name: 'Temple of Heaven', slug: 'temple-of-heaven' },
+    { name: 'Summer Palace', slug: 'summer-palace-beijing' },
+    { name: 'Hutong Tours', slug: 'hutong-tours-beijing' },
+    { name: 'Food Guide', slug: 'beijing-food-guide' },
+    { name: 'Air Quality & When to Visit', slug: 'beijing-air-quality-when-to-visit' },
+];
+
+const SHANGHAI_SIDEBAR = [
+    { name: 'Shanghai Travel Guide', slug: 'shanghai-travel-guide-2026' },
+    { name: 'Things to Do', slug: 'things-to-do-in-shanghai' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-shanghai' },
+    { name: '1-Day Itinerary', slug: 'shanghai-1-day-itinerary' },
+    { name: '3-Day Itinerary', slug: 'shanghai-3-day-itinerary' },
+    { name: 'The Bund', slug: 'the-bund-shanghai' },
+    { name: 'Shanghai Tower Tickets', slug: 'shanghai-tower-tickets' },
+    { name: 'Yu Garden', slug: 'yu-garden-shanghai' },
+    { name: 'Zhujiajiao Water Town', slug: 'zhujiajiao-water-town' },
+    { name: 'French Concession Guide', slug: 'shanghai-french-concession-guide' },
+    { name: 'Food Guide', slug: 'shanghai-food-guide' },
+    { name: 'Disneyland Guide', slug: 'shanghai-disneyland-guide' },
+    { name: 'Suzhou Day Trip', slug: 'suzhou-day-trip-from-shanghai' },
+    { name: 'Metro Guide', slug: 'shanghai-metro-guide' },
+    { name: 'Shanghai vs Beijing', slug: 'shanghai-vs-beijing-which-to-visit' },
 ];
 
 const PHUKET_SIDEBAR = [
@@ -690,6 +750,8 @@ export default function CityInfoClient({ country, city, slug, data = null }: Pro
         langkawi: LANGKAWI_SIDEBAR,
         malacca: MALACCA_SIDEBAR,
         'kota-kinabalu': KOTA_KINABALU_SIDEBAR,
+        beijing: BEIJING_SIDEBAR,
+        shanghai: SHANGHAI_SIDEBAR,
     };
     // No fallback to Agra: a Kandy page showing Taj Mahal links is worse than
     // a page with no sidebar. Cities without a map entry render none.
