@@ -26090,6 +26090,75 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "4-day-golden-triangle-tour-to-agra-jaipur-from": {
+  "title": "4-tägige Golden-Triangle-Tour nach Agra und Jaipur, ab Delhi",
+  "metaTitle": "Delhi: Golden Triangle 4 Tage, Agra-Jaipur",
+  "metaDescription": "Entdecken Sie Delhis Sehenswürdigkeiten, einschließlich India Gate, Qutub Minar, und Humayuns Grabmal.",
+  "shortDescription": "Entdecken Sie Delhis Sehenswürdigkeiten, einschließlich India Gate, Qutub Minar, und Humayuns Grabmal.",
+  "fullDescription": "4-tägige Golden-Triangle-Tour nach Agra und Jaipur, ab Delhi. Entdecken Sie Delhis Sehenswürdigkeiten, einschließlich India Gate, Qutub Minar, und Humayuns Grabmal.\n\nErleben Sie das Beste von Indien bei einer 4-tägigen Golden-Triangle-Tour ab Delhi, mit Erkundung des Taj Mahal in Agra und Jaipurs königlichen Sehenswürdigkeiten, mit geführten Touren, Transfers, und einem nahtlosen Reiseerlebnis.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel/Flughafen\nPrivates klimatisiertes Auto für die gesamte Tour, mit Fahrer\nProfessioneller Reiseführer in jeder Stadt\nUnterkunft für 3 Nächte im Hotel (falls diese Option gewählt wird)\nFrühstück im Hotel\nFlasche Mineralwasser\nAlle Maut- und Parkgebühren\n\n**Nicht inbegriffen**\nEintrittskarten für Sehenswürdigkeiten\nMittag- und Abendessen\nJegliche persönliche Ausgaben",
+  "highlights": [
+   "Entdecken Sie Delhis Sehenswürdigkeiten, einschließlich India Gate, Qutub Minar, und Humayuns Grabmal"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "Privates klimatisiertes Auto für die gesamte Tour, mit Fahrer",
+   "Professioneller Reiseführer in jeder Stadt",
+   "Unterkunft für 3 Nächte im Hotel (falls diese Option gewählt wird)",
+   "Frühstück im Hotel",
+   "Flasche Mineralwasser",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für Sehenswürdigkeiten",
+   "Mittag- und Abendessen",
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "shopping-tour-of-old-delhi-and-new-delhi-with": {
+  "title": "Shopping-Tour durch Alt-Delhi und New Delhi, mit Reiseführer",
+  "metaTitle": "Delhi: Shopping, Alt- und New Delhi",
+  "metaDescription": "Eine ganztägige VIP-Shopping-Tour durch Delhi, mit Geschäften und Ständen",
+  "shortDescription": "Eine ganztägige VIP-Shopping-Tour durch Delhi, mit Geschäften und Ständen",
+  "fullDescription": "Shopping-Tour durch Alt-Delhi und New Delhi, mit Reiseführer. Eine ganztägige VIP-Shopping-Tour durch Delhi, mit Geschäften und Ständen.\n\nIhr Fahrer und Reiseführer holen Sie um 10:00 Uhr von Ihrem Hotel ab, und helfen Ihnen, die besten Märkte zum Einkaufen auszuwählen, wo Sie alles finden.\n\nBeginnen Sie Ihre Shopping-Tour mit einem Besuch von Chandni Chowk. Dieser Markt wird „Moon Light Square\" genannt; er ist einer der ältesten Märkte Delhis, etwa drei Jahrhunderte alt, und wird auch „Einkaufsparadies\" genannt.\nSie können mit Ihrem Reiseführer durch die belebten und engen Gassen dieses Marktes spazieren.\nDer Chandni-Chowk-Markt bietet Ihnen die Möglichkeit, lebendige Vielfalt an Parfums, Hochzeitskleidung, Silber- und Goldschmuck, elektronischen Geräten, Spielzeug, Kerzen, Lifestyle-Artikeln, Götterfiguren, Süßigkeiten, und Street Food zu kaufen, das Sie auch probieren können.\n\n**Nächster Halt: Connaught Place, New Delhi**\nDies ist einer der ältesten Märkte in New Delhi, benannt nach Prinz Arthur, erstem Herzog von Connaught, im Jahr 1933. Dieser Markt ist heute einer der berühmten Orte zum Einkaufen, Essen, und für das Nachtleben. Sie können auch verschiedene Showrooms berühmter indischer Marken besuchen, die mit verschiedenen Dingen handeln, wie Textilien, Schmuck, Leder, und Haushaltswaren.\n\n**Besuchen Sie den Sarojini-Nagar-Markt**\nDies ist der berühmteste Markt in Delhi, der Käufer aus ganz New Delhi anzieht. Dieser Markt ist ein offener Großhandelsmarkt mit vielen Straßenläden, in denen Sie verschiedene indische und moderne Kleidung (für Männer und Frauen), Kunsthandwerk, Haushaltswaren, Souvenirs usw. zu sehr niedrigen Preisen kaufen können.\n\n**Besuchen Sie als Nächstes das Hauz-Khas-Dorf**\nZwischen Hauz Khas und den Ruinen des jahrhundertealten Siri Forts liegt Shahpur Jat, ein winziges urbanes Dorf, das zu einer hippen, bohemienhaften Enklave geworden ist, Heimat von Designerstudios und ausgefallenen Geschäften. Entlang enger Straßen, geschmückt mit lebendigen Wandgemälden, bieten gemütliche Läden aufwendig verpackte Tees, mit indischen Motiven bedruckte Kissenbezüge, bestickte Saris, und Tuniken.\n\nNach diesem Marktbesuch können Sie zurück zu Ihrem Hotel oder Flughafen fahren, je nachdem, was für Sie zutrifft.\n\n**Was ist inbegriffen**\nProfessioneller englischsprachiger Reiseführer\nAbholung und Rückfahrt zum Hotel/Flughafen\nPrivates klimatisiertes Auto\nStreet Food (falls diese Option gewählt wird)\nTuk-Tuk-Fahrt in Chandni Chowk (falls diese Option gewählt wird)\nFlaschen Mineralwasser\n\n**Nicht inbegriffen**\nMahlzeiten\nPersönliche Ausgaben",
+  "highlights": [
+   "Eine ganztägige VIP-Shopping-Tour durch Delhi, mit Geschäften und Ständen"
+  ],
+  "included": [
+   "Professioneller englischsprachiger Reiseführer",
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "Privates klimatisiertes Auto",
+   "Street Food (falls diese Option gewählt wird)",
+   "Tuk-Tuk-Fahrt in Chandni Chowk (falls diese Option gewählt wird)",
+   "Flaschen Mineralwasser"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "from-delhi-private-rishikesh-and-haridwar-day": {
+  "title": "Ab Delhi: private Tagestour nach Rishikesh und Haridwar mit dem Auto",
+  "metaTitle": "Delhi: Rishikesh-Haridwar, privater Tag, Auto",
+  "metaDescription": "Erkunden Sie in der heiligen Stadt Haridwar die zahlreichen Ghats und Tempel.",
+  "shortDescription": "Erkunden Sie in der heiligen Stadt Haridwar die zahlreichen Ghats und Tempel.",
+  "fullDescription": "Ab Delhi: private Tagestour nach Rishikesh und Haridwar mit dem Auto. Erkunden Sie in der heiligen Stadt Haridwar die zahlreichen Ghats und Tempel.\n\nBei Tagesanbruch, genau um 5:00 Uhr, wird unser Chauffeur vor Ihrer Tür stehen, um eine erhellende Reise zu beginnen. Wir machen uns auf eine 4-stündige Fahrt zur heiligen Stadt Haridwar, gelegen 214 Kilometer von Delhi entfernt. Eingebettet im Bundesstaat Uttarakhand in Nordindien, nimmt Haridwar, was „das Tor Gottes\" bedeutet, einen verehrten Platz im Hinduismus ein. Seit Jahrhunderten ist es ein Heiligtum der Mystik und Hingabe, das hinduistische Pilger aus aller Welt anzieht. Haridwars Bedeutung ergibt sich aus seiner Lage an den Ufern des heiligen Flusses Ganges, wo der Fluss aus den Bergen in die Ebenen Nordindiens herabsteigt.\n\n**Bemerkenswerte Sehenswürdigkeiten von Haridwar:**\n\n**Har-ki-Pauri**: bekannt für die Abdrücke der Füße von Lord Vishnu, oder „Charan\", eingemeißelt in den Stein, der beim Bau der oberen Mauer des Damms verwendet wurde, ist dies ein heiliger Badeort. Hier findet die Ganga Aarti statt, eine faszinierende Zeremonie, bei der sich die goldenen Farbtöne unzähliger schwimmender Lampen auf dem Ganges widerspiegeln. Es ist ein spirituelles Erlebnis, die Dämmerungs-Aarti an diesem ikonischen Ghat zu erleben.\n\n**Mansa-Devi-Tempel**: Dieser Tempel ist der Göttin Mansa Devi gewidmet, von der man glaubt, dass sie die Wünsche ihrer Anhänger erfüllt. Er bietet einen Panoramablick auf Haridwar, und bildet das heilige Dreieck mit dem Chandi-Devi-Tempel und dem Maya-Devi-Tempel.\n\nVon Haridwar aus führt unsere Reise weiter zur malerischen Stadt Rishikesh, eingebettet im Bundesstaat Uttarakhand. Rishikesh, oft als „Yoga-Hauptstadt der Welt\" bezeichnet, ist ein Ort von immenser spiritueller Bedeutung. Sie gilt als Tor zum Himalaya und als Ausgangspunkt für die Char-Dham-Yatra, eine heilige Pilgerreise zu vier heiligen Schreinen.\n\n**Wichtige Sehenswürdigkeiten in Rishikesh:**\n\n**Triveni Ghat**: ein bedeutender Badeort am Ganges, geschmückt mit zeitgenössischen Darstellungen hinduistischer Gottheiten und einem ruhigen weißen Sandstrand. Perfekt für ein reinigendes Bad, und um die abendliche „Arati\"-Zeremonie mit Laternen zu erleben.\n\n**Lakshman Jhula**: eine ikonische Hängebrücke über den Ganges, reich an Geschichte und Mythologie. Etwa zwei Kilometer flussaufwärts liegt eine historische Fußgängerbrücke namens Lakshmanjhula, benannt nach dem Bruder von Lord Rama.\n\n**Swarg Ashram**: dieser Ashram, voller weiterer Ashrams, Restaurants, und Geschäfte, ist ein begehrtes Ziel für spirituell Suchende.\n\nWir beenden diesen spirituellen Aufenthalt mit der traditionellen Ganga Aarti, einem Schauspiel von tiefer Schönheit. Beobachten Sie, wie Priester anmutig Lampen in kreisförmiger Bewegung entzünden, begleitet von gefühlvollen Gesängen, um der Mutter Ganga Tribut zu zollen. Gläubige halten ihre Hände über die Flammen, reinigen sich, und suchen den Segen der Göttin.\n\nBei Ihrer Rückkehr nach Delhi erreichen Sie Ihre Unterkunft voraussichtlich gegen 22:00 Uhr, mit einem Herzen voller spiritueller Erlebnisse und wertvoller Erinnerungen.\n\n**Was ist inbegriffen**\nAlle Mautgebühren, Steuern, Parken, Kraftstoff\nAbholung und Rückfahrt in New Delhi\nTransport in einem privaten klimatisierten Auto mit Fahrer\nEnglischsprachiger Reiseführer\nWasserflaschen im Auto\n\n**Nicht inbegriffen**\nEssen und alkoholische Getränke (käuflich erhältlich)\nEintrittskarten für Sehenswürdigkeiten\nPersönliche Ausgaben\nGratifikationen",
+  "highlights": [
+   "Erkunden Sie in der heiligen Stadt Haridwar die zahlreichen Ghats und Tempel"
+  ],
+  "included": [
+   "Alle Mautgebühren, Steuern, Parken, Kraftstoff",
+   "Abholung und Rückfahrt in New Delhi",
+   "Transport in einem privaten klimatisierten Auto mit Fahrer",
+   "Englischsprachiger Reiseführer",
+   "Wasserflaschen im Auto"
+  ],
+  "notIncluded": [
+   "Essen und alkoholische Getränke (käuflich erhältlich)",
+   "Eintrittskarten für Sehenswürdigkeiten",
+   "Persönliche Ausgaben",
+   "Gratifikationen"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
