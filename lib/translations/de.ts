@@ -24265,6 +24265,78 @@ export const DE_TOURS: Record<string, TourT> = {
    "Optionale Aktivitäten sind nicht inbegriffen; auf Anfrage können sie gegen Aufpreis arrangiert werden"
   ]
  },
+ "from-delhi-private-3-day-golden-triangle-tour": {
+  "title": "Ab Delhi: private 3-tägige Golden-Triangle-Tour",
+  "metaTitle": "Delhi: Golden Triangle privat, 3 Tage",
+  "metaDescription": "Taj Mahal: Besuchen Sie das ikonische Taj Mahal, ein Symbol ewiger Liebe.",
+  "shortDescription": "Taj Mahal: Besuchen Sie das ikonische Taj Mahal, ein Symbol ewiger Liebe.",
+  "fullDescription": "Ab Delhi: private 3-tägige Golden-Triangle-Tour. Taj Mahal: Besuchen Sie das ikonische Taj Mahal, ein Symbol ewiger Liebe.\n\n**Tag 1: Delhi: ein Einblick in Majestät**\n\n**Willkommen in Indien!** Ihre faszinierende Reise durch das Golden Triangle beginnt im Herzen Indiens, Delhi. Ob wir Sie vom Flughafen oder Ihrem Hotel abholen, Ihr Abenteuer beginnt hier.\n\n**Der Charme von Alt-Delhi**: Beginnen Sie Ihren Tag mit der Erkundung der historischen Schätze von Alt-Delhi. Staunen Sie über die Pracht des **Roten Forts**, besuchen Sie die ikonische **Jama Masjid**, schlendern Sie durch die belebten Gassen von **Chandni Chowk**, und erweisen Sie Ihre Ehre in **Rajghat**, wo das Mahatma-Gandhi-Denkmal steht.\n\n**Kaiserliches Erbe**: Entdecken Sie das prächtige **Humayun-Grabmal** und würdigen Sie **India Gate**, ein Symbol für Tapferkeit und Opferbereitschaft.\n\n**Ankunft in Agra**: Am Abend geht es weiter nach Agra, wo Sie in Ihrem Hotel einchecken und sich auf den bezaubernden Sonnenaufgang am Taj Mahal vorbereiten.\n\n**Tag 2: Agra: das Symbol der Liebe**\n\n**Sonnenaufgang am Taj**: Stehen Sie früh auf, um das Taj Mahal im goldenen Licht der Morgensonne zu erleben. Ein Anblick, der für immer in Erinnerung bleibt.\n\n**Frühstück**: Rückkehr zu Ihrem Hotel für ein herzhaftes Frühstück und eine kurze Ruhepause.\n\n**Fatehpur Sikri**: Auf dem Weg nach Jaipur halten Sie am bemerkenswerten **Fatehpur Sikri**, einem architektonischen Meisterwerk mogulischer Pracht.\n\n**Chand Baori**: Erkunden Sie die geheimnisvollen Tiefen von **Chand Baori**, einem jahrhundertealten Stufenbrunnen, einem Wunder antiker Ingenieurskunst und Gestaltung.\n\n**Ankunft in Jaipur**: Bei Ihrer Ankunft in Jaipur haben Sie Zeit, sich in Ihrem Hotel zu entspannen und zu erfrischen.\n\n**Tag 3: Jaipur: die rosa Stadt**\n\n**Hawa Mahal**: Beginnen Sie Ihren Tag am **Hawa Mahal**, auch bekannt als der Palast der Winde, ein architektonisches Wunder, perfekt für atemberaubende Fotos.\n\n**Amber Fort**: Weiter geht es zum majestätischen **Amber Fort**. Das Amber Fort in Jaipur, ein UNESCO-Weltkulturerbe aus dem 16. Jahrhundert, ist ein atemberaubender Hügelpalast, der rajputische und mogulische Architektur vereint. Es liegt 11 km von Jaipur entfernt.\n\n**Wasserpalast**: Besuchen Sie den ruhigen **Jal Mahal**, einen auf einem See schwimmenden Palast, umgeben von den Aravalli-Hügeln.\n\n**City Palace**: Erkunden Sie den prächtigen **City Palace**, eine königliche Residenz, die Jaipurs reiches Erbe präsentiert.\n\n**Rückkehr nach Delhi**: Nachdem Sie die Pracht Jaipurs aufgesogen haben, fahren wir zurück nach Delhi. Sie können wählen, Ihre Reise am Flughafen Delhi, Ihrem Hotel, oder Ihrem Hotel oder Flughafen in Jaipur zu beenden.\n\n**Goldene Erinnerungen**: Beim Abschied nehmen Sie goldene Erinnerungen an diese außergewöhnliche Reise durch die lebendige Geschichte und Kultur des Golden Triangle mit. Bis wir uns wiedersehen!\n\nDiese 3-tägige Tour bietet eine wunderbare Mischung aus Geschichte, Architektur, Kultur, und atemberaubenden Anblicken. Machen Sie sich bereit für ein unvergessliches Abenteuer!\n\n**Was ist inbegriffen**\n5-Sterne-Luxusunterkunft (Hotel in Agra - ITC Mughal, Hotel in Jaipur - ITC Rajputana)\nMüheloser Transport\nFachkundige geführte Touren\nKöstliche Frühstücke\nReibungslose Transfers\nMautgebühren inbegriffen\nIndividuelle Pakete\nFlexible Reiserouten\nFamilienfreundlich\n\n**Nicht inbegriffen**\nTrinkgelder\nEssen und Getränke",
+  "highlights": [
+   "Taj Mahal: Besuchen Sie das ikonische Taj Mahal, ein Symbol ewiger Liebe"
+  ],
+  "included": [
+   "5-Sterne-Luxusunterkunft (Hotel in Agra - ITC Mughal, Hotel in Jaipur - ITC Rajputana)",
+   "Müheloser Transport",
+   "Fachkundige geführte Touren",
+   "Köstliche Frühstücke",
+   "Reibungslose Transfers",
+   "Mautgebühren inbegriffen",
+   "Individuelle Pakete",
+   "Flexible Reiserouten",
+   "Familienfreundlich"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Essen und Getränke"
+  ]
+ },
+ "delhi-street-art-walk-lodhi-art-district-urban": {
+  "title": "Delhi Street-Art-Spaziergang: Lodhi Art District und urbane Geschichten",
+  "metaTitle": "Delhi: Street Art, Lodhi Art District",
+  "metaDescription": "Erkunden Sie den Lodhi Art District, Indiens ersten öffentlichen Kunstbezirk",
+  "shortDescription": "Erkunden Sie den Lodhi Art District, Indiens ersten öffentlichen Kunstbezirk",
+  "fullDescription": "Delhi Street-Art-Spaziergang: Lodhi Art District und urbane Geschichten. Erkunden Sie den Lodhi Art District, Indiens ersten öffentlichen Kunstbezirk.\n\nDelhi wird oft über Sehenswürdigkeiten und Märkte erlebt, doch einige der aufschlussreichsten Geschichten der Stadt stehen leise auf ihren Wänden geschrieben.\n\nDieses Erlebnis führt Sie durch den Lodhi Art District, Indiens ersten öffentlichen Kunstbezirk, wo Wandgemälde alltägliche Gebäude in kraftvolle Ausdrucksformen des modernen Indiens verwandeln.\n\nWährend wir durch das Viertel spazieren, erkunden wir gemeinsam die Kunstwerke und die Ideen, die sie inspirieren, und berühren Themen wie Gleichberechtigung, Feminismus, Klimawandel, und die vielen Widersprüche des heutigen Indiens.\n\nStatt einfach auf Wandgemälde hinzuweisen, konzentriert sich dieser Spaziergang auf die Geschichten und Gespräche, die sie auslösen. Anhand der Kunst um uns herum diskutieren wir über die sozialen und kulturellen Realitäten, die das Land heute prägen.\n\nDer Spaziergang findet in einem ruhigen, offenen Viertel statt und ist darauf ausgelegt, komfortabel, respektvoll, und einladend für alle Reisenden zu sein, einschließlich Alleinreisender.\n\nDieses Erlebnis ist bewusst frei von Einkaufsstopps und Touristenfallen: nur Kunst, Kultur, und bedeutungsvolle Gespräche.\n\nKonzipiert für neugierige Reisende, die Indien jenseits der üblichen touristischen Perspektive verstehen möchten, bietet dieser Spaziergang eine durchdachtere und persönlichere Art, Delhi zu erleben.\n\nDer Spaziergang endet in der Nähe eines großartigen lokalen Cafés, und wer möchte, kann das Gespräch bei einem Kaffee in entspannter Atmosphäre fortsetzen.\n\n**Was ist inbegriffen**\nGeführter Spaziergang durch den Lodhi Art District und seine Wandgemälde\nKulturelles Storytelling und Einblicke in das moderne Indien\n\n**Nicht inbegriffen**\nAbholung oder Rückfahrt zum Hotel\nTrinkgelder (optional)",
+  "highlights": [
+   "Erkunden Sie den Lodhi Art District, Indiens ersten öffentlichen Kunstbezirk"
+  ],
+  "included": [
+   "Geführter Spaziergang durch den Lodhi Art District und seine Wandgemälde",
+   "Kulturelles Storytelling und Einblicke in das moderne Indien"
+  ],
+  "notIncluded": [
+   "Abholung oder Rückfahrt zum Hotel",
+   "Trinkgelder (optional)"
+  ]
+ },
+ "from-delhi-2-day-golden-triangle-tour-to-agra": {
+  "title": "Ab Delhi: 2-tägige Golden-Triangle-Tour nach Agra und Jaipur",
+  "metaTitle": "Delhi: Golden Triangle 2 Tage, Agra-Jaipur",
+  "metaDescription": "Verfolgen Sie Indiens Geschichte von den Moguln zu den Rajputen, von Agra nach Jaipur",
+  "shortDescription": "Verfolgen Sie Indiens Geschichte von den Moguln zu den Rajputen, von Agra nach Jaipur",
+  "fullDescription": "Ab Delhi: 2-tägige Golden-Triangle-Tour nach Agra und Jaipur. Verfolgen Sie Indiens Geschichte von den Moguln zu den Rajputen, von Agra nach Jaipur.\n\nErleben Sie eine 2-tägige Golden-Triangle-Tour ab Delhi durch Agra und Jaipur, mit dem Taj Mahal, Fatehpur Sikri, und dem königlichen Jaipur, mit Optionen ohne Hotel, mit 4-Sterne- oder 5-Sterne-Aufenthalt.\n\n**Was ist inbegriffen**\nPrivates klimatisiertes Fahrzeug für die gesamte 2-tägige Tour\nProfessioneller privater Fahrer für die gesamte Reise\nLizenzierte lokale Reiseführer in Agra und Jaipur\nAbholung und Rückfahrt zum Hotel oder Flughafen in Delhi\nEintrittskarten für Sehenswürdigkeiten gemäß der Reiseroute\nGolfwagen-Fahrt zwischen dem Parkplatz des Taj Mahal und dem Eingang\nWasser in Flaschen während der Straßenfahrten\nKraftstoff, Mautgebühren, Parken, und Fahrergebühren\nAlle anfallenden Transportsteuern\n1 Nacht Hotelunterkunft bei der 4-Sterne- oder 5-Sterne-Hoteloption\nHotelfrühstück bei der 4-Sterne- oder 5-Sterne-Hoteloption\n\n**Nicht inbegriffen**\nMittag- und Abendessen\nGetränke außer Wasser in Flaschen\nTrinkgelder für Reiseführer und Fahrer\nPersönliche Ausgaben",
+  "highlights": [
+   "Verfolgen Sie Indiens Geschichte von den Moguln zu den Rajputen, von Agra nach Jaipur"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug für die gesamte 2-tägige Tour",
+   "Professioneller privater Fahrer für die gesamte Reise",
+   "Lizenzierte lokale Reiseführer in Agra und Jaipur",
+   "Abholung und Rückfahrt zum Hotel oder Flughafen in Delhi",
+   "Eintrittskarten für Sehenswürdigkeiten gemäß der Reiseroute",
+   "Golfwagen-Fahrt zwischen dem Parkplatz des Taj Mahal und dem Eingang",
+   "Wasser in Flaschen während der Straßenfahrten",
+   "Kraftstoff, Mautgebühren, Parken, und Fahrergebühren",
+   "Alle anfallenden Transportsteuern",
+   "1 Nacht Hotelunterkunft bei der 4-Sterne- oder 5-Sterne-Hoteloption",
+   "Hotelfrühstück bei der 4-Sterne- oder 5-Sterne-Hoteloption"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen",
+   "Getränke außer Wasser in Flaschen",
+   "Trinkgelder für Reiseführer und Fahrer",
+   "Persönliche Ausgaben"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

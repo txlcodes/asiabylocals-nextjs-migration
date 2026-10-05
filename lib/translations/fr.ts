@@ -24265,6 +24265,78 @@ export const FR_TOURS: Record<string, TourT> = {
    "Les activités optionnelles ne sont pas incluses ; sur demande, elles peuvent être organisées moyennant un coût supplémentaire"
   ]
  },
+ "from-delhi-private-3-day-golden-triangle-tour": {
+  "title": "Depuis Delhi : circuit privé du Triangle d'or de 3 jours",
+  "metaTitle": "Delhi : Triangle d'or privé, 3 jours",
+  "metaDescription": "Taj Mahal : visitez l'emblématique Taj Mahal, symbole d'amour éternel.",
+  "shortDescription": "Taj Mahal : visitez l'emblématique Taj Mahal, symbole d'amour éternel.",
+  "fullDescription": "Depuis Delhi : circuit privé du Triangle d'or de 3 jours. Taj Mahal : visitez l'emblématique Taj Mahal, symbole d'amour éternel.\n\n**Jour 1 : Delhi, un aperçu de la majesté**\n\n**Bienvenue en Inde !** Votre voyage envoûtant à travers le Triangle d'or commence au cœur de l'Inde, Delhi. Que nous vous prenions en charge à l'aéroport ou à votre hôtel, votre aventure débute ici.\n\n**Le charme du Vieux Delhi** : commencez votre journée en explorant les trésors historiques du Vieux Delhi. Émerveillez-vous devant la grandeur du **Fort Rouge**, visitez l'emblématique **Jama Masjid**, flânez dans les ruelles animées de **Chandni Chowk**, et rendez hommage à **Rajghat**, où se trouve le mémorial du Mahatma Gandhi.\n\n**Héritage impérial** : découvrez la magnifique **tombe de Humayun** et rendez hommage à **India Gate**, emblème de courage et de sacrifice.\n\n**Arrivée à Agra** : en fin de journée, nous nous dirigerons vers Agra, où vous vous enregistrerez à votre hôtel et vous préparerez pour l'envoûtant lever de soleil sur le Taj Mahal.\n\n**Jour 2 : Agra, le symbole de l'amour**\n\n**Lever de soleil au Taj** : levez-vous tôt pour assister au Taj Mahal baigné des teintes dorées du soleil levant. Un spectacle qui restera gravé en vous pour toujours.\n\n**Petit-déjeuner** : retour à votre hôtel pour un copieux petit-déjeuner et un bref repos.\n\n**Fatehpur Sikri** : en chemin vers Jaipur, arrêtez-vous au remarquable **Fatehpur Sikri**, un chef-d'œuvre architectural illustrant la grandeur moghole.\n\n**Chand Baori** : explorez les profondeurs mystiques de **Chand Baori**, un puits à degrés séculaire, merveille d'ingénierie et de design ancien.\n\n**Arrivée à Jaipur** : à votre arrivée à Jaipur, vous aurez le temps de vous détendre et de vous rafraîchir à votre hôtel.\n\n**Jour 3 : Jaipur, la ville rose**\n\n**Hawa Mahal** : commencez votre journée au **Hawa Mahal**, aussi connu sous le nom de Palais des Vents, une merveille architecturale idéale pour de superbes photos.\n\n**Fort Amber** : dirigez-vous ensuite vers le majestueux **fort Amber**. Le fort Amber à Jaipur, site du patrimoine mondial de l'UNESCO datant du XVIe siècle, est un superbe palais perché sur une colline, mêlant architecture rajpoute et moghole. Situé à 11 km de Jaipur.\n\n**Palais de l'eau** : visitez le paisible **Jal Mahal**, un palais flottant sur un lac, entouré des collines des Aravalli.\n\n**City Palace** : explorez le splendide **City Palace**, une résidence royale illustrant le riche patrimoine de Jaipur.\n\n**Retour à Delhi** : après avoir savouré la grandeur de Jaipur, nous reprendrons la route vers Delhi. Vous pouvez choisir de conclure votre voyage à l'aéroport de Delhi, à votre hôtel, ou à votre hôtel ou aéroport de Jaipur.\n\n**Souvenirs dorés** : en nous disant au revoir, vous emporterez avec vous de merveilleux souvenirs de ce voyage extraordinaire à travers l'histoire et la culture vibrantes du Triangle d'or. À bientôt !\n\nCe circuit de 3 jours offre un merveilleux mélange d'histoire, d'architecture, de culture, et de paysages à couper le souffle. Préparez-vous pour une aventure inoubliable !\n\n**Ce qui est inclus**\nHébergement luxueux 5 étoiles (hôtel à Agra - ITC Mughal, hôtel à Jaipur - ITC Rajputana)\nTransport sans effort\nVisites guidées par des experts\nDélicieux petits-déjeuners\nTransferts fluides\nPéage inclus\nForfaits personnalisés\nItinéraires flexibles\nAdapté aux familles\n\n**Non inclus**\nPourboires\nNourriture et boissons",
+  "highlights": [
+   "Taj Mahal : visitez l'emblématique Taj Mahal, symbole d'amour éternel"
+  ],
+  "included": [
+   "Hébergement luxueux 5 étoiles (hôtel à Agra - ITC Mughal, hôtel à Jaipur - ITC Rajputana)",
+   "Transport sans effort",
+   "Visites guidées par des experts",
+   "Délicieux petits-déjeuners",
+   "Transferts fluides",
+   "Péage inclus",
+   "Forfaits personnalisés",
+   "Itinéraires flexibles",
+   "Adapté aux familles"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Nourriture et boissons"
+  ]
+ },
+ "delhi-street-art-walk-lodhi-art-district-urban": {
+  "title": "Delhi : balade street art dans le quartier artistique de Lodhi et histoires urbaines",
+  "metaTitle": "Delhi : street art, quartier artistique de Lodhi",
+  "metaDescription": "Explorez le quartier artistique de Lodhi, premier quartier d'art public de l'Inde",
+  "shortDescription": "Explorez le quartier artistique de Lodhi, premier quartier d'art public de l'Inde",
+  "fullDescription": "Delhi : balade street art dans le quartier artistique de Lodhi et histoires urbaines. Explorez le quartier artistique de Lodhi, premier quartier d'art public de l'Inde.\n\nDelhi est souvent découverte à travers ses monuments et ses marchés, mais certaines des histoires les plus révélatrices de la ville s'écrivent discrètement sur ses murs.\n\nCette expérience vous emmène à travers le quartier artistique de Lodhi, le premier quartier d'art public de l'Inde, où des fresques murales transforment des bâtiments ordinaires en puissantes expressions de l'Inde moderne.\n\nEn marchant à travers le quartier, nous explorons ensemble les œuvres d'art et les idées qu'elles inspirent, abordant des thèmes tels que l'égalité, le féminisme, le changement climatique, et les nombreuses contradictions de l'Inde contemporaine.\n\nPlutôt que de simplement désigner les fresques, cette balade se concentre sur les histoires et conversations qu'elles suscitent. À travers l'art qui nous entoure, nous discutons des réalités sociales et culturelles qui façonnent le pays aujourd'hui.\n\nLa balade se déroule dans un quartier calme et ouvert, conçue pour être confortable, respectueuse, et accueillante pour tous les voyageurs, y compris les voyageurs solo.\n\nCette expérience est intentionnellement exempte d'arrêts shopping et de pièges à touristes : juste de l'art, de la culture, et des conversations significatives.\n\nConçue pour les voyageurs curieux souhaitant comprendre l'Inde au-delà du regard touristique habituel, cette balade offre une façon plus réfléchie et personnelle de découvrir Delhi.\n\nLa balade se termine près d'un excellent café local, et ceux qui le souhaitent peuvent poursuivre la conversation autour d'un café dans une ambiance détendue.\n\n**Ce qui est inclus**\nBalade guidée à travers le quartier artistique de Lodhi et ses fresques murales\nRécits culturels et éclairages sur l'Inde moderne\n\n**Non inclus**\nPrise en charge ou retour à l'hôtel\nPourboires (optionnels)",
+  "highlights": [
+   "Explorez le quartier artistique de Lodhi, premier quartier d'art public de l'Inde"
+  ],
+  "included": [
+   "Balade guidée à travers le quartier artistique de Lodhi et ses fresques murales",
+   "Récits culturels et éclairages sur l'Inde moderne"
+  ],
+  "notIncluded": [
+   "Prise en charge ou retour à l'hôtel",
+   "Pourboires (optionnels)"
+  ]
+ },
+ "from-delhi-2-day-golden-triangle-tour-to-agra": {
+  "title": "Depuis Delhi : circuit du Triangle d'or de 2 jours vers Agra et Jaipur",
+  "metaTitle": "Delhi : Triangle d'or 2 jours, Agra-Jaipur",
+  "metaDescription": "Retracez l'histoire moghole à rajpoute de l'Inde, d'Agra à Jaipur",
+  "shortDescription": "Retracez l'histoire moghole à rajpoute de l'Inde, d'Agra à Jaipur",
+  "fullDescription": "Depuis Delhi : circuit du Triangle d'or de 2 jours vers Agra et Jaipur. Retracez l'histoire moghole à rajpoute de l'Inde, d'Agra à Jaipur.\n\nDécouvrez un circuit du Triangle d'or de 2 jours depuis Delhi, à travers Agra et Jaipur, avec le Taj Mahal, Fatehpur Sikri, et la royale Jaipur, avec des options de séjour sans hôtel, 4 étoiles, ou 5 étoiles.\n\n**Ce qui est inclus**\nVéhicule privé climatisé pour tout le circuit de 2 jours\nChauffeur privé professionnel pour tout le trajet\nGuides touristiques locaux agréés à Agra et Jaipur\nPrise en charge et retour à l'hôtel ou à l'aéroport à Delhi\nBillets d'entrée aux monuments selon l'itinéraire\nTrajet en voiturette de golf entre le parking du Taj Mahal et l'entrée\nEau en bouteille pendant les trajets routiers\nCarburant, péages, stationnement, et indemnités de chauffeur\nToutes les taxes de transport applicables\nHébergement à l'hôtel pour 1 nuit avec l'option d'hôtel 4 étoiles ou 5 étoiles\nPetit-déjeuner à l'hôtel avec l'option d'hôtel 4 étoiles ou 5 étoiles\n\n**Non inclus**\nDéjeuner et dîner\nBoissons autres que l'eau en bouteille\nPourboires pour les guides et le chauffeur\nDépenses personnelles",
+  "highlights": [
+   "Retracez l'histoire moghole à rajpoute de l'Inde, d'Agra à Jaipur"
+  ],
+  "included": [
+   "Véhicule privé climatisé pour tout le circuit de 2 jours",
+   "Chauffeur privé professionnel pour tout le trajet",
+   "Guides touristiques locaux agréés à Agra et Jaipur",
+   "Prise en charge et retour à l'hôtel ou à l'aéroport à Delhi",
+   "Billets d'entrée aux monuments selon l'itinéraire",
+   "Trajet en voiturette de golf entre le parking du Taj Mahal et l'entrée",
+   "Eau en bouteille pendant les trajets routiers",
+   "Carburant, péages, stationnement, et indemnités de chauffeur",
+   "Toutes les taxes de transport applicables",
+   "Hébergement à l'hôtel pour 1 nuit avec l'option d'hôtel 4 étoiles ou 5 étoiles",
+   "Petit-déjeuner à l'hôtel avec l'option d'hôtel 4 étoiles ou 5 étoiles"
+  ],
+  "notIncluded": [
+   "Déjeuner et dîner",
+   "Boissons autres que l'eau en bouteille",
+   "Pourboires pour les guides et le chauffeur",
+   "Dépenses personnelles"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
