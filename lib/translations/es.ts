@@ -26444,6 +26444,81 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "old-delhi-famous-private-street-food-tour-by-tuk": {
+  "title": "Viejo Delhi: famoso tour privado de street food en tuk-tuk",
+  "metaTitle": "Delhi: Viejo Delhi, street food, tuk-tuk",
+  "metaDescription": "Una experiencia enriquecedora y sin complicaciones.",
+  "shortDescription": "Una experiencia enriquecedora y sin complicaciones.",
+  "fullDescription": "Viejo Delhi: famoso tour privado de street food en tuk-tuk. Una experiencia enriquecedora y sin complicaciones.\n\nSumérgete en los vibrantes sabores de Delhi en un tour privado de street food por los animados callejones del Viejo Delhi. Explora las bulliciosas calles de Chandni Chowk en tuk-tuk, y descubre las ricas tradiciones culinarias que hacen de Delhi un paraíso para los amantes de la comida.\n\nPrueba una deliciosa variedad de favoritos locales auténticos, incluyendo chaat picante, parathas crujientes, suculentos kebabs, y dulces jalebis. Visita populares puestos de comida, joyas locales escondidas, y restaurantes tradicionales, mientras tu guía experto comparte fascinantes historias sobre la comida, historia, y cultura de Delhi.\n\nExperimenta el colorido ambiente del Viejo Delhi mientras recorres sus bulliciosas calles y mercados en tuk-tuk. También visitarás el famoso mercado de especias en Chandni Chowk, donde los aromas, colores, y la variedad de especias crean una experiencia verdaderamente inolvidable.\n\nDesde sabrosos tentempiés callejeros hasta dulces tradicionales, este tour ofrece una combinación perfecta de deliciosa comida, cultura local, historia, y aventura en el corazón de Delhi.\n\n**Qué incluye**\nRecogida y regreso\nPaseo en rickshaw y tuk-tuk por las calles del Viejo Delhi\nGuía multilingüe\nBotellas de agua\n\n**No incluye**\nPropinas\nBebidas",
+  "highlights": [
+   "Una experiencia enriquecedora y sin complicaciones"
+  ],
+  "included": [
+   "Recogida y regreso",
+   "Paseo en rickshaw y tuk-tuk por las calles del Viejo Delhi",
+   "Guía multilingüe",
+   "Botellas de agua"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Bebidas"
+  ]
+ },
+ "from-delhi-char-dham-yatra-package-with": {
+  "title": "Desde Delhi: paquete Char Dham Yatra con alojamiento",
+  "metaTitle": "Delhi: Char Dham Yatra, alojamiento",
+  "metaDescription": "Embárcate en un viaje espiritual al Char Dham Yatra, una peregrinación de 4 templos",
+  "shortDescription": "Embárcate en un viaje espiritual al Char Dham Yatra, una peregrinación de 4 templos",
+  "fullDescription": "Desde Delhi: paquete Char Dham Yatra con alojamiento. Embárcate en un viaje espiritual al Char Dham Yatra, una peregrinación de 4 templos.\n\nEmbárcate en un viaje espiritual al Char Dham Yatra, una de las peregrinaciones hindúes más únicas y sagradas de la India. Visita los cuatro santuarios sagrados de Yamunotri, Gangotri, Kedarnath, y Badrinath Dham. Disfruta de una fogata y rafting en el río en Rishikesh.\n\n**Día 1: Delhi - Haridwar (225 km/7 horas)**\n\nA tu llegada, traslado por carretera a Haridwar, la ciudad sagrada. Al llegar, registro en el hotel, y por la tarde visita a Har ki Paudi para el baño sagrado y el famoso Ganga Aarti. Noche en el lugar.\n\n**Día 2: Haridwar - Sonprayag (235 km/8 a 9 horas)**\n\nPor la mañana, después del desayuno, viaje hacia Sonprayag vía Rudraprayag y Devprayag. En el camino podrás ver el hermoso río Mandakini en Tilwara, y visitar el Templo Ardh Narishwar. Registro en el hotel al llegar a Sonprayag. Noche en el lugar.\n\n**Día 3: Sonprayag - Kedarnath**\n(30 km por carretera, y 16 km de caminata, solo ida)\n\nTemprano por la mañana viajarás hasta Sonprayag (los vehículos están permitidos hasta este punto), desde donde deberás tomar un jeep local o Max para llegar a Gaurikund. Gaurikund: la caminata comienza desde este punto hacia Kedarnath, después de llegar realiza la pooja y el darshan. Más tarde, registro en el hotel en Kedarnath para la estancia en hotel/campamento.\n\n**Día 4: Kedarnath - Chopta (48 km)**\n\nComienza temprano por la mañana la caminata de descenso hasta Gaurikund, y toma el jeep local hasta Sonprayag, donde te recogeremos y te trasladaremos por carretera a Chopta, para pasar la noche.\n\n**Día 5: Chopta - Tungnath - Chandrashila - Rishikesh**\n(6 km de caminata solo ida, 165 km en coche)\n\nDespués de un abundante desayuno, prepárate para una caminata de 4.000 m hasta Chandrashila, atravesando diferentes tipos de densos bosques. Disfruta de la majestuosa vista de picos prominentes como Garhwal desde la cima de Chandrashila. La caminata es de unos 3 km desde Chopta. Rinde homenaje en el templo de Tungnath. Además, si es posible, camina 1 km más para llegar a la cima o cumbre de Chandrashila. Presenciarás la vista panorámica de 360 grados del Himalaya cubierto de nieve. Viaje vespertino hacia Rishikesh. Noche en campamento en Rishikesh.\n\n**Día 6: Rishikesh - Delhi (250 km/7 horas)**\n\nDespierta temprano por la mañana después de desayunar, y continúa con el rafting, seguido del checkout por la tarde y el regreso por carretera a Delhi.\n\n**Qué incluye**\nAlojamiento en habitación doble o triple compartida\nPlan de comidas: cena desde el Día 1 hasta el desayuno del Día 6, en hotel/campamento\nFogata y rafting en el río en Rishikesh\nTodos los traslados, excursiones, y visitas según el itinerario\nEstacionamiento, dietas del chófer, todos los gastos relacionados con el transporte incluidos\nAsistencia a la llegada\nTodos los impuestos relacionados con transporte y hoteles\n\n**No incluye**\nGastos personales como teléfono, lavandería, propinas, y bebidas de mesa, etc.\nCualquier tipo de seguro: médico, de accidentes, robo\nCualquier billete de avión/tren, aparte de lo mencionado en las «inclusiones»\nCualquier almuerzo y otras comidas no mencionadas en las inclusiones del paquete\nEstacionamiento y tarifas de entrada a monumentos durante las visitas\nCualquier costo incurrido debido a la extensión, cambio de itinerario por desastres naturales, carreteras bloqueadas, averías de vehículos, problemas sindicales, y factores fuera de nuestro control\nCostos adicionales de alojamiento/comida incurridos debido a cualquier retraso",
+  "highlights": [
+   "Embárcate en un viaje espiritual al Char Dham Yatra, una peregrinación de 4 templos"
+  ],
+  "included": [
+   "Alojamiento en habitación doble o triple compartida",
+   "Plan de comidas: cena desde el Día 1 hasta el desayuno del Día 6, en hotel/campamento",
+   "Fogata y rafting en el río en Rishikesh",
+   "Todos los traslados, excursiones, y visitas según el itinerario",
+   "Estacionamiento, dietas del chófer, todos los gastos relacionados con el transporte incluidos",
+   "Asistencia a la llegada",
+   "Todos los impuestos relacionados con transporte y hoteles"
+  ],
+  "notIncluded": [
+   "Gastos personales como teléfono, lavandería, propinas, y bebidas de mesa, etc.",
+   "Cualquier tipo de seguro: médico, de accidentes, robo",
+   "Cualquier billete de avión/tren, aparte de lo mencionado en las «inclusiones»",
+   "Cualquier almuerzo y otras comidas no mencionadas en las inclusiones del paquete",
+   "Estacionamiento y tarifas de entrada a monumentos durante las visitas",
+   "Cualquier costo incurrido debido a la extensión, cambio de itinerario por desastres naturales, carreteras bloqueadas, averías de vehículos, problemas sindicales, y factores fuera de nuestro control",
+   "Costos adicionales de alojamiento/comida incurridos debido a cualquier retraso"
+  ]
+ },
+ "new-delhi-akshardham-temple-light-show-with": {
+  "title": "Nueva Delhi: espectáculo de luces del templo de Akshardham, con extras personalizados",
+  "metaTitle": "Delhi: Akshardham, espectáculo, extras",
+  "metaDescription": "Visita el magnífico templo de Akshardham, con sus exposiciones y serenos jardines",
+  "shortDescription": "Visita el magnífico templo de Akshardham, con sus exposiciones y serenos jardines",
+  "fullDescription": "Nueva Delhi: espectáculo de luces del templo de Akshardham, con extras personalizados. Visita el magnífico templo de Akshardham, con sus exposiciones y serenos jardines.\n\nDescubre una mezcla perfecta de paz espiritual, profundidad cultural, y viaje personalizado con este inolvidable tour al templo de Akshardham en Delhi. Esta experiencia ofrece mucho más que una visita a un templo, te da la libertad de personalizar tu viaje con extras significativos, adaptados a tus intereses y estilo de viaje.\n\nTu día comienza con una cómoda recogida en el hotel en un coche privado con aire acondicionado. Al llegar al gran templo de Swaminarayan Akshardham, quedarás cautivado por su increíble arquitectura, con detallados tallados que reflejan el antiguo arte y devoción de la India. Los pacíficos terrenos del templo incluyen hermosos jardines, exposiciones sagradas, y exhibiciones culturales que ofrecen una visión profunda del patrimonio, valores, y espiritualidad de la India.\n\nPor la noche, disfruta del fascinante Espectáculo de Luz y Agua Sahaj Anand, una actuación inolvidable que utiliza fuentes, música, fuego, y narración para dar vida a la sabiduría antigua. Este mágico espectáculo es una de las experiencias más únicas y encantadoras de Delhi.\n\nLo que distingue a este tour es la flexibilidad para mejorar tu itinerario con una variedad de experiencias seleccionadas. Puedes explorar los audaces sabores del Viejo Delhi con un tour guiado de degustación de street food, probando favoritos locales de puestos tradicionales. Para relajarte, elige un masaje ayurvédico o un tratamiento de spa después de tu visita al templo. Los amantes de la cultura pueden añadir un tour de compras por los mercados locales, una visita a una galería de arte, o una sesión de cocina india con una cena en casa de una familia.\n\nLos entusiastas de la fotografía pueden reservar una sesión profesional vestidos con atuendo tradicional indio, perfecta para crear fotos memorables. Si te atrae la historia, quizás disfrutes de un paseo en tuk-tuk por el Viejo Delhi, o un paseo patrimonial por barrios históricos. También puedes visitar el Nizamuddin Dargah por la noche para experimentar música sufí Qawwali en vivo, en un entorno espiritual.\n\nEsta experiencia es ideal para viajeros solitarios, parejas, familias, y grupos pequeños que buscan ir más allá del turismo estándar. Cada detalle es gestionado por un equipo profesional para asegurar una experiencia fluida, privada, y enriquecedora. Un conocedor guía local (si se selecciona) añade contexto histórico y conocimientos culturales a tu viaje, ayudándote a conectar más profundamente con la ciudad.\n\nYa seas un explorador espiritual, un amante de la comida, o un entusiasta de la cultura, este tour de Akshardham ofrece un hermoso equilibrio entre reflexión, aventura, y autenticidad. Deja que la belleza divina de Akshardham y el vibrante espíritu de Delhi se unan en esta flexible e inmersiva experiencia de viaje.\n\n**Qué incluye**\nRecogida y regreso desde tu hotel en Delhi (coche privado con aire acondicionado)\nEntrada al templo de Akshardham y al espectáculo de luces (si se selecciona esta opción)\nElección de una o más experiencias adicionales (seleccionadas durante la reserva)\nGuía experto local\nAgua embotellada en el vehículo\nAsistencia para itinerario personalizado\nCena (si se selecciona esta opción)\nAgua mineral embotellada\nFolleto informativo de Akshardham\n\n**No incluye**\nPropinas/gratificaciones (opcionales)\nGastos personales (artículos de compras, recuerdos)\nFotografía dentro del templo (no permitida según las normas del templo)\nEntradas a los monumentos",
+  "highlights": [
+   "Visita el magnífico templo de Akshardham, con sus exposiciones y serenos jardines"
+  ],
+  "included": [
+   "Recogida y regreso desde tu hotel en Delhi (coche privado con aire acondicionado)",
+   "Entrada al templo de Akshardham y al espectáculo de luces (si se selecciona esta opción)",
+   "Elección de una o más experiencias adicionales (seleccionadas durante la reserva)",
+   "Guía experto local",
+   "Agua embotellada en el vehículo",
+   "Asistencia para itinerario personalizado",
+   "Cena (si se selecciona esta opción)",
+   "Agua mineral embotellada",
+   "Folleto informativo de Akshardham"
+  ],
+  "notIncluded": [
+   "Propinas/gratificaciones (opcionales)",
+   "Gastos personales (artículos de compras, recuerdos)",
+   "Fotografía dentro del templo (no permitida según las normas del templo)",
+   "Entradas a los monumentos"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
