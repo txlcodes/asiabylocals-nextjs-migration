@@ -27606,6 +27606,52 @@ export const FR_TOURS: Record<string, TourT> = {
    "Nourriture ou boissons supplémentaires non mentionnées\nDépenses personnelles\nPourboires et gratifications\nBoissons alcoolisées"
   ]
  },
+ "old-delhi-photo-tour": {
+  "title": "Circuit photo à Old Delhi",
+  "metaTitle": "Circuit photo à Old Delhi",
+  "metaDescription": "Idéal pour la photographie de portrait, ce circuit explore le Fort Rouge, Chandni Chowk et le marché aux épices.",
+  "shortDescription": "Idéal pour la photographie de portrait",
+  "fullDescription": "Circuit photo à Old Delhi. Idéal pour la photographie de portrait.\n\nLa région d'Old Delhi, qui comprend des lieux emblématiques comme le Fort Rouge, Chandni Chowk, le bazar de Chawari et le marché aux épices, est l'endroit idéal pour capturer les foules, les bazars, la nourriture et la diversité stupéfiante de la ville de Delhi. Les anciennes demeures (havelis), les bazars, les boutiques colorées, des milliers de personnes, des temples, des mosquées, une circulation chaotique mais fonctionnelle et bien plus encore sont uniques à tout ce que vous expérimenterez ailleurs. Les photographes adorent y capturer la vie quotidienne des habitants et des scènes bouleversantes qui semblent si pittoresques et hors du temps dans une métropole moderne comme Delhi. Le spectacle des boutiques d'Old Delhi, mélange d'entreprises nouvelles et de traditions anciennes, est difficile à trouver ailleurs. Montez en rickshaw, marchez à pied, prenez de superbes photos de tout lors de ce circuit de photographie de rue rythmé à Old Delhi.\n\n### Ce qui est inclus\n\n- Guide photo anglophone\n- Bouteille d'eau\n\n### Non inclus\n\n- Prise en charge et dépose\n- Shopping",
+  "highlights": [
+   "Idéal pour la photographie de portrait"
+  ],
+  "included": [
+   "Guide photo anglophone\nBouteille d'eau"
+  ],
+  "notIncluded": [
+   "Prise en charge et dépose\nShopping"
+  ]
+ },
+ "chai-master-class-savor-food-in-an-indian-family": {
+  "title": "Master class chai : savourez un repas dans une famille indienne",
+  "metaTitle": "Master class chai dans une famille indienne",
+  "metaDescription": "Maîtrisez l'art de préparer le chai parfait lors d'une master class unique dans un foyer familial indien authentique.",
+  "shortDescription": "Maîtrisez l'art de préparer le chai parfait.",
+  "fullDescription": "Master class chai : savourez un repas dans une famille indienne. Maîtrisez l'art de préparer le chai parfait.\n\nDécouvrez une master class de chai unique dans un foyer familial indien authentique. Cette expérience personnelle comprend un apprentissage pratique où vous maîtriserez l'art de préparer le chai parfait, approfondirez vos connaissances sur l'utilisation des épices, créerez votre mélange d'épices unique, et découvrirez les racines historiques et l'essor du chai en Inde, y compris la genèse du Masala Chai. Enfin, savourez le chai que vous avez préparé accompagné d'un petit-déjeuner traditionnel du nord de l'Inde. À la fin, vous serez un maître du chai, enrichi de son histoire, de sa signification culturelle et d'un nouvel ami en Inde.\n\nPoints forts :\n\n1. Cette expérience unique et personnelle se démarque : vous n'entrez pas dans un studio de cuisine ordinaire, mais vous êtes un invité d'honneur dans un foyer familial indien authentique.\n\n2. Participez à un apprentissage pratique :\n\n3. Maîtrisez l'art de préparer le chai parfait.\n\n4. Approfondissez vos connaissances sur l'utilisation des épices et les saveurs.\n\n5. Créez votre mélange d'épices unique.\n\n6. Découvrez les racines historiques et l'essor du chai en Inde.\n\n7. Découvrez la genèse du Masala Chai.\n\n8. Enfin, savourez le chai que vous avez préparé. Mais ce n'est pas tout ! Nous partagerons un petit-déjeuner traditionnel du nord de l'Inde.\n\n9. À la fin, vous serez un maître du chai, enrichi de son histoire, de sa signification culturelle et d'un nouvel ami en Inde.\n\n### Ce qui est inclus\n\n- Ingrédients\n- Collation\n- Toutes les boissons comme thé/eau\n- Frais d'instructeur\n\n### Non inclus\n\n- Dépenses personnelles telles que shopping, billet de métro, Uber, en-cas, etc.\n- Pourboires pour l'instructeur\n- Votre assurance voyage et médicale\n- Services non mentionnés ou non promis par l'agent/l'agence\n- Dépenses d'urgence",
+  "highlights": [
+   "Maîtrisez l'art de préparer le chai parfait"
+  ],
+  "included": [
+   "Ingrédients\nCollation\nToutes les boissons comme thé/eau\nFrais d'instructeur"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles telles que shopping, billet de métro, Uber, en-cas, etc.\nPourboires pour l'instructeur\nVotre assurance voyage et médicale\nServices non mentionnés ou non promis par l'agent/l'agence\nDépenses d'urgence"
+  ]
+ },
+ "delhi-half-day-shopping-tour-with-guide-by-car": {
+  "title": "Delhi : circuit shopping d'une demi-journée avec guide en voiture",
+  "metaTitle": "Delhi : circuit shopping demi-journée avec guide",
+  "metaDescription": "Visitez le plus grand marché aux épices d'Asie pour les thés, épices, herbes et plus, lors de ce circuit shopping.",
+  "shortDescription": "Visitez le plus grand marché aux épices d'Asie pour les thés, épices, herbes et plus",
+  "fullDescription": "Delhi : circuit shopping d'une demi-journée avec guide en voiture. Visitez le plus grand marché aux épices d'Asie pour les thés, épices, herbes et plus.\n\nPrise en charge\nPrise en charge à votre hôtel à Delhi par un guide local/expert en shopping et un chauffeur, discutez de vos intérêts, puis partez pour un circuit shopping de 3 heures vers les boutiques et marchés de la ville qui correspondent le mieux à vos besoins. Vous verrez rapidement à quel point c'est une excellente destination shopping !\n\nChandni Chowk a été construit au 19e siècle par l'empereur moghol Shah Jahan et était habité par les familles aisées de l'époque. Aujourd'hui, c'est l'un des marchés de gros les plus connus du pays pour les textiles, les produits électroniques et les montres.\n\nKhari Baoli\nKhari Baoli est une rue de Delhi, en Inde, connue pour son marché de gros d'épices, le plus grand d'Asie, vendant toutes sortes d'épices, de noix, d'herbes et de produits alimentaires comme le riz et le thé.\n\nLe Dilli Haat et le golden arcade cottage emporium est une entreprise qui fabrique et vend des tapis, de l'artisanat et des objets patrimoniaux d'Inde. Elle offre l'occasion non seulement de découvrir et de partager le patrimoine indien d'antan, mais aussi d'acheter des articles tels que des tapis, des châles en pashmina, de la soie, des objets dorés, des reproductions d'art islamique et des miniatures.\n\nAprès le circuit, vous serez déposé à l'endroit de votre choix à Delhi.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose incluses\n- Guide touristique privé\n- Voiture climatisée privée\n- Toutes les taxes et frais de stationnement",
+  "highlights": [
+   "Visitez le plus grand marché aux épices d'Asie pour les thés, épices, herbes et plus"
+  ],
+  "included": [
+   "Prise en charge et dépose incluses\nGuide touristique privé\nVoiture climatisée privée\nToutes les taxes et frais de stationnement"
+  ],
+  "notIncluded": []
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

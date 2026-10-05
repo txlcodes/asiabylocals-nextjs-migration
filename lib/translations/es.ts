@@ -27606,6 +27606,52 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comida o bebidas adicionales no mencionadas\nGastos personales\nPropinas y gratificaciones\nBebidas alcohólicas"
   ]
  },
+ "old-delhi-photo-tour": {
+  "title": "Tour fotográfico por Old Delhi",
+  "metaTitle": "Tour fotográfico por Old Delhi",
+  "metaDescription": "Ideal para fotografía de retrato, este tour explora el Fuerte Rojo, Chandni Chowk y el mercado de especias.",
+  "shortDescription": "Ideal para fotografía de retrato",
+  "fullDescription": "Tour fotográfico por Old Delhi. Ideal para fotografía de retrato.\n\nLa zona de Old Delhi, que incluye lugares emblemáticos como el Fuerte Rojo, Chandni Chowk, el bazar de Chawari y el mercado de especias, es el mejor lugar para capturar las multitudes, los bazares, la comida y la asombrosa diversidad de la ciudad de Delhi. Las antiguas mansiones (havelis), los bazares, las tiendas coloridas, miles de personas, templos, mezquitas, un tráfico caótico pero funcional y mucho más son diferentes a todo lo que experimentará en cualquier otro lugar. A los fotógrafos les encanta capturar allí la vida cotidiana de la gente y las escenas conmovedoras que parecen tan pintorescas y fuera de la realidad en una metrópoli moderna como Delhi. La vista de las tiendas en Old Delhi, una mezcla de nuevos negocios y tradiciones antiguas, es difícil de encontrar en otro lugar. Monte en rickshaws, camine a pie, tome grandes fotografías de todo en este dinámico tour de fotografía callejera por Old Delhi.\n\n### Qué incluye\n\n- Guía fotográfico de habla inglesa\n- Botella de agua\n\n### No incluye\n\n- Recogida y traslado\n- Compras",
+  "highlights": [
+   "Ideal para fotografía de retrato"
+  ],
+  "included": [
+   "Guía fotográfico de habla inglesa\nBotella de agua"
+  ],
+  "notIncluded": [
+   "Recogida y traslado\nCompras"
+  ]
+ },
+ "chai-master-class-savor-food-in-an-indian-family": {
+  "title": "Clase magistral de chai: saboree comida en un hogar familiar indio",
+  "metaTitle": "Clase magistral de chai en un hogar familiar indio",
+  "metaDescription": "Domine el arte de preparar el chai perfecto en una clase magistral única en un auténtico hogar familiar indio.",
+  "shortDescription": "Domine el arte de preparar el chai perfecto.",
+  "fullDescription": "Clase magistral de chai: saboree comida en un hogar familiar indio. Domine el arte de preparar el chai perfecto.\n\nExperimente una clase magistral de chai única en un auténtico hogar familiar indio. Esta experiencia personal incluye aprendizaje práctico donde dominará el arte de preparar el chai perfecto, obtendrá conocimientos sobre el uso de especias, creará su propia mezcla de especias única y descubrirá las raíces históricas y el auge del chai en la India, incluyendo el origen del Masala Chai. Finalmente, disfrute del chai que ha preparado junto con un desayuno tradicional del norte de la India. Al final, será un maestro del chai, enriquecido con su historia, su significado cultural y un nuevo amigo en la India.\n\nLo más destacado:\n\n1. Esta experiencia única y personal se destaca: no está entrando en un estudio de cocina típico, sino que es un invitado de honor en un auténtico hogar familiar indio.\n\n2. Participe en un aprendizaje práctico:\n\n3. Domine el arte de preparar el chai perfecto.\n\n4. Obtenga conocimientos sobre el uso de especias y sabores.\n\n5. Cree su propia mezcla de especias única.\n\n6. Descubra las raíces históricas y el auge del chai en la India.\n\n7. Descubra el origen del Masala Chai.\n\n8. Finalmente, disfrute del chai que ha preparado. ¡Pero eso no es todo! Compartiremos un desayuno tradicional del norte de la India.\n\n9. Al final, será un maestro del chai, enriquecido con su historia, su significado cultural y un nuevo amigo en la India.\n\n### Qué incluye\n\n- Ingredientes\n- Aperitivo\n- Todas las bebidas como té/agua\n- Tarifa del instructor\n\n### No incluye\n\n- Gastos personales como compras, billete de metro, Uber, tentempiés, etc.\n- Propinas para el instructor\n- Su seguro de viaje y médico\n- Servicios no mencionados o no prometidos por el agente/agencia\n- Gastos de emergencia",
+  "highlights": [
+   "Domine el arte de preparar el chai perfecto"
+  ],
+  "included": [
+   "Ingredientes\nAperitivo\nTodas las bebidas como té/agua\nTarifa del instructor"
+  ],
+  "notIncluded": [
+   "Gastos personales como compras, billete de metro, Uber, tentempiés, etc.\nPropinas para el instructor\nSu seguro de viaje y médico\nServicios no mencionados o no prometidos por el agente/agencia\nGastos de emergencia"
+  ]
+ },
+ "delhi-half-day-shopping-tour-with-guide-by-car": {
+  "title": "Delhi: tour de compras de medio día con guía en coche",
+  "metaTitle": "Delhi: tour de compras de medio día con guía",
+  "metaDescription": "Visite el mercado de especias más grande de Asia para tés, especias, hierbas y más, en este tour de compras.",
+  "shortDescription": "Visite el mercado de especias más grande de Asia para tés, especias, hierbas y más",
+  "fullDescription": "Delhi: tour de compras de medio día con guía en coche. Visite el mercado de especias más grande de Asia para tés, especias, hierbas y más.\n\nRecogida\nRecogida en su hotel en Delhi por un guía local/experto en compras y un conductor, converse sobre sus intereses, y luego lo llevarán en un tour de compras de 3 horas a las tiendas y mercados de la ciudad que mejor se adapten a sus necesidades. ¡Rápidamente verá qué gran destino de compras es este!\n\nChandni Chowk fue construido en el siglo 19 por el emperador mogol Shah Jahan y estaba habitado por las familias acomodadas de la época. Hoy en día es uno de los mercados mayoristas más conocidos del país para textiles, productos electrónicos y relojes.\n\nKhari Baoli\nKhari Baoli es una calle en Delhi, India, conocida por su mercado mayorista de alimentos y el mercado mayorista de especias más grande de Asia, que vende todo tipo de especias, frutos secos, hierbas y productos alimenticios como arroz y té.\n\nEl Dilli Haat y el golden arcade cottage emporium es una empresa que fabrica y vende alfombras, artesanías y objetos patrimoniales de la India. Ofrece la oportunidad no solo de ver y compartir el patrimonio indio de tiempos pasados, sino también de comprar artículos como alfombras, chales de pashmina, seda, artefactos dorados, reproducciones de arte islámico y miniaturas.\n\nDespués del tour, será dejado en el lugar que desee en Delhi.\n\n### Qué incluye\n\n- Recogida y traslado incluidos\n- Guía turístico privado\n- Coche privado con aire acondicionado\n- Todos los impuestos y tarifas de estacionamiento",
+  "highlights": [
+   "Visite el mercado de especias más grande de Asia para tés, especias, hierbas y más"
+  ],
+  "included": [
+   "Recogida y traslado incluidos\nGuía turístico privado\nCoche privado con aire acondicionado\nTodos los impuestos y tarifas de estacionamiento"
+  ],
+  "notIncluded": []
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
