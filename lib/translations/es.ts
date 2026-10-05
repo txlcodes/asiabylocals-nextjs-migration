@@ -3979,6 +3979,81 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier otro gasto personal"
   ]
  },
+ "jaipuragradelhi-tofrom-ranthambore-one-way": {
+  "title": "Jaipur/Agra/Delhi hacia/desde Ranthambore, traslado solo ida",
+  "metaTitle": "Jaipur/Agra/Delhi-Ranthambore: traslado solo ida",
+  "metaDescription": "Traslado privado solo ida desde/hacia Jaipur, Agra, Delhi hacia/desde el parque de Ranthambore.",
+  "shortDescription": "Traslado privado solo ida desde/hacia Jaipur, Agra, Delhi hacia/desde el parque de Ranthambore.",
+  "fullDescription": "Esta actividad es ideal para viajeros que buscan una experiencia sin complicaciones para un traslado de ida desde Jaipur/Agra/Delhi hacia/desde el Parque Nacional de Ranthambore. Un coche privado con conductor garantiza su recogida y entrega puntual en el lugar deseado en Ranthambore. La recogida se puede realizar desde cualquier lugar en Jaipur, con entrega puntual.\n\nLa recogida se realizará en los horarios deseados en Jaipur/Agra/Delhi/Ranthambore, y luego será llevado a Ranthambore/Jaipur/Agra/Delhi en su coche privado. Después de un trayecto de aproximadamente 3 a 6 horas, será dejado en su destino deseado en Ranthambore/Jaipur/Agra/Delhi.",
+  "highlights": [
+   "Traslado privado solo ida desde/hacia Jaipur, Agra, Delhi hacia/desde el parque de Ranthambore"
+  ],
+  "included": [
+   "Recogida en Jaipur/Agra/Ranthambore y entrega en el Parque Nacional de Ranthambore/Jaipur/Agra",
+   "Coche con aire acondicionado y conductor",
+   "Botellas de agua",
+   "Traslado privado solo ida",
+   "Todos los peajes aplicables y estacionamiento durante el traslado"
+  ],
+  "notIncluded": [
+   "Solo traslado de ida",
+   "Cualquier comida a precio adicional",
+   "Propinas o compras",
+   "Sin guías"
+  ]
+ },
+ "taj-same-day-from-mumbai": {
+  "title": "Taj Mahal en el mismo día desde Mumbai",
+  "metaTitle": "Desde Mumbai: Taj Mahal en un día",
+  "metaDescription": "Organización de viaje sin complicaciones, unas 20 horas en total.",
+  "shortDescription": "Organización de viaje sin complicaciones, unas 20 horas en total.",
+  "fullDescription": "Duración total del recorrido: aproximadamente 20 horas.\n\nEsta emocionante y cómoda excursión de un día comienza con una recogida en su hotel o cualquier lugar preferido dentro de Mumbai o las áreas circundantes (Thane, Kalyan, Navi Mumbai, Vasai), seguida de un traslado al aeropuerto de Mumbai. Una vez confirmada su reserva, los boletos de avión se compartirán inmediatamente, y las tarjetas de embarque se entregarán 24 horas antes de la salida. (El desayuno está incluido en el vuelo.)\n\nSu vuelo a Delhi durará aproximadamente 2 horas. A su llegada, un chófer profesional lo saludará y lo llevará a Agra, la ciudad del Taj Mahal, durante aproximadamente 3 horas en un coche privado con aire acondicionado o MUV.\n\nAl llegar a Agra, su guía lo recibirá en el coche con su boleto de entrada para el Taj Mahal. Luego comenzará un recorrido guiado de 2 a 3 horas con un guía de habla inglesa o de su idioma, que lo guiará por este monumento de renombre mundial, conocido como \"símbolo de amor, devoción y romance\". El Taj Mahal, obra maestra de la arquitectura mogola, fue construido por el emperador Shah Jahan en memoria de su amada esposa, Mumtaz Mahal.\n\nSi el tiempo lo permite, su recorrido puede incluir una visita al gran fuerte de Agra. Aquí verá la impresionante fortaleza de arenisca roja y mármol blanco, un tesoro de la arquitectura mogola, con palacios, cámaras y salas de recepción adornadas con diseños intrincados.\n\nDespués, será trasladado al aeropuerto de Delhi para su vuelo de regreso a Mumbai. (Se ofrecerá una comida gratuita durante el vuelo.)\n\nA su llegada a Mumbai, será recogido en el aeropuerto y llevado a su hotel o cualquier lugar deseado dentro de un radio de 50 km de Mumbai. Este paquete reúne en total 11 prestaciones, siendo la 10.ª este regreso al hotel o lugar elegido en Mumbai. Para las reservas de vuelo, se aplican cargos por exceso de equipaje por encima de 15 kg de equipaje registrado y 7 kg de equipaje de mano; para el tren, puede llevar hasta 30 kg repartidos en dos maletas.",
+  "highlights": [
+   "Organización de viaje sin complicaciones"
+  ],
+  "included": [
+   "1. Boletos de avión de ida y vuelta en una de las aerolíneas: Air India / Vistara / Indigo / SpiceJet (si se selecciona esa opción)",
+   "2. Boletos de tren de ida y vuelta en coche cama con aire acondicionado de 2 niveles (si se selecciona esa opción)",
+   "3. Recogida y entrega privada en el hotel/puerto/aeropuerto/estación de tren/lugar en Mumbai (usted comparte los detalles de recogida y entrega en Mumbai, nosotros enviamos un vehículo)",
+   "4. Transporte en vehículo privado de Delhi al Taj Mahal y de regreso (para todas las opciones de reserva de vuelo)",
+   "5. Transporte en vehículo privado de la estación de Agra al Taj Mahal y de regreso (para todas las opciones de reserva de tren)",
+   "6. Guía turístico privado de habla inglesa",
+   "7. Tarifas de entrada al monumento (si se selecciona esa opción)",
+   "8. Alojamiento nocturno (si se selecciona esa opción)",
+   "9. Entrada sin filas al Taj Mahal",
+   "10. Regreso al hotel/lugar en Mumbai al final del recorrido tras la recogida en el aeropuerto/estación de tren",
+   "11. Cargos de maletero en la estación de tren y asistencia hasta su vagón"
+  ],
+  "notIncluded": [
+   "Para reservas de vuelo: cargos por exceso de equipaje (por encima de 15 kg de equipaje registrado y 7 kg de equipaje de mano)",
+   "Para el tren, puede llevar hasta 30 kg repartidos en dos maletas",
+   "Boletos de avión o tren en la opción sin vuelo"
+  ]
+ },
+ "create-your-own-itinerary-private-guided-tour": {
+  "title": "Cree su propio itinerario: tour privado guiado y traslado",
+  "metaTitle": "Itinerario personalizado: tour privado en India",
+  "metaDescription": "Personalice su itinerario con su guía, explorando los lugares emblemáticos de la India.",
+  "shortDescription": "Personalice su itinerario con su guía, explorando los lugares emblemáticos de la India.",
+  "fullDescription": "Haga que su viaje a la India sea verdaderamente suyo con un tour privado guiado y traslado diseñado según sus intereses. Comience con una cómoda recogida en el aeropuerto y viaje confortablemente a su hotel con un chófer privado.\n\nDespués del registro, conozca a su guía privado y cree su propia experiencia de turismo. Elija los lugares que desea visitar, explore lugares famosos, descubra la cultura local, o simplemente disfrute de la ciudad a su propio ritmo.\n\nDisfrute de un delicioso almuerzo local, tome una relajante pausa para el té por la tarde, y continúe explorando antes de regresar cómodamente a su hotel.\n\nDisponible en Delhi, Agra, Jaipur, Varanasi, Mumbai, Hyderabad, y otros destinos en toda la India. Su itinerario, su ritmo, su experiencia.",
+  "highlights": [
+   "Personalice su itinerario con su guía, explorando los lugares emblemáticos de la India"
+  ],
+  "included": [
+   "Recogida y traslado",
+   "Coche privado con aire acondicionado",
+   "Servicio de guía turístico en vivo",
+   "Conductor profesional",
+   "Agua embotellada",
+   "Cargos de combustible",
+   "Todos los impuestos y cargos"
+  ],
+  "notIncluded": [
+   "Boleto de entrada",
+   "Comidas",
+   "Propinas"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
