@@ -6616,6 +6616,126 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "from-delhi-taj-mahal-agra-fort-fatehpur-sikri-in-tour": {
+  "title": "Desde Delhi: Taj Mahal, fuerte de Agra, y Fatehpur Sikri en un día (11 horas)",
+  "metaTitle": "Delhi-Agra-Fatehpur Sikri en 11 horas",
+  "metaDescription": "Los tres sitios UNESCO de Agra desde Delhi en un solo día: Taj Mahal, fuerte de Agra, y Fatehpur Sikri. Once horas con coche privado y guía aprobado por el gobierno.",
+  "shortDescription": "Los tres sitios UNESCO de Agra desde Delhi en un solo día: Taj Mahal, fuerte de Agra, y Fatehpur Sikri. Once horas con coche privado y guía aprobado por el gobierno.",
+  "fullDescription": "**Tres sitios del Patrimonio Mundial, un largo día desde Delhi.**\n\nAgra tiene tres sitios catalogados por la UNESCO, y este tour los cubre todos. Funciona porque se alinean: el Taj y el fuerte están a minutos de distancia en la ciudad, y Fatehpur Sikri se encuentra a 40 km al oeste en la carretera de salida, por lo que la ruta avanza en una sola dirección en lugar de regresar.\n\n**Lo que verá**\n\nEl **Taj Mahal**, con suficiente tiempo para hacerlo correctamente, no como una parada para fotos. Su guía cubre la incrustación, la caligrafía, y la construcción.\n\nEl **fuerte de Agra**, arenisca roja por fuera con palacios de mármol en el interior, y el Musamman Burj, donde Shah Jahan fue retenido por su hijo Aurangzeb, mirando a través del río hacia la tumba de su esposa.\n\n**Fatehpur Sikri**, la capital de Akbar, construida en la década de 1570 y abandonada en aproximadamente quince años cuando se agotó el agua. El Buland Darwaza, el Panch Mahal, y el dargah de mármol de Salim Chishti sobreviven todos, y rara vez hay multitudes.\n\n**Incluido**\n\nRecogida y traslado al hotel o aeropuerto en Delhi, coche privado con aire acondicionado y conductor para todo el día, guía aprobado por el gobierno, agua embotellada, peajes, y estacionamiento. La entrada a los monumentos es una opción al finalizar la compra.\n\n**Vale la pena saber**\n\n- **El Taj está cerrado los viernes.** El fuerte y Fatehpur Sikri permanecen abiertos, por lo que una versión de viernes aún le da dos de los tres.\n- Entrada para extranjeros: Taj 1.100 ₹ más 200 ₹ por el mausoleo, fuerte de Agra 650 ₹, Fatehpur Sikri 610 ₹.\n- Once horas de puerta a puerta, seis de ellas de conducción. Un inicio temprano no es opcional si quiere ver los tres.\n- Fatehpur Sikri tiene una breve lanzadera desde el estacionamiento hasta el sitio, y bastante caminata sobre piedra al descubierto.\n- El calzado cómodo importa más que cualquier otra cosa que lleve.\n\n**A quién le conviene**\n\nA los viajeros con exactamente un día desde Delhi que quieren el arco mogol completo en lugar del único edificio famoso.",
+  "highlights": [
+   "Viaje cómodamente en un coche privado con aire acondicionado con un conductor profesional"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto",
+   "Coche privado con aire acondicionado para toda la actividad del tour, con conductor",
+   "Guía turístico en vivo aprobado por el gobierno",
+   "Boletos de entrada a los monumentos (si se selecciona esa opción)",
+   "Almuerzo en un hotel de 5 estrellas (si se selecciona esa opción)",
+   "Botella de agua mineral",
+   "Todos los peajes y el estacionamiento"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
+  ]
+ },
+ "private-transfers-agra-to-jaipur-via-sikri-step": {
+  "title": "Traslados privados de Agra a Jaipur vía Sikri y el pozo escalonado",
+  "metaTitle": "Agra-Jaipur: traslado vía Sikri y pozo escalonado",
+  "metaDescription": "Viaje divertido a través de las maravillas históricas del pozo escalonado y Fatehpur Sikri.",
+  "shortDescription": "Viaje divertido a través de las maravillas históricas del pozo escalonado y Fatehpur Sikri.",
+  "fullDescription": "Conozca a su conductor privado en el lugar de hotel sugerido en Agra, y comience un viaje cómodo hacia Jaipur con paradas turísticas en el camino. Visite el histórico Fatehpur Sikri y el famoso Chand Baori con un guía turístico local, acceso sin filas, y boletos de entrada incluidos, antes de ser dejado en su lugar preferido en Jaipur.\n\n**Fatehpur Sikri**\nExplore la ciudad mogola catalogada por la UNESCO en el camino de Agra a Jaipur con un guía profesional. Los boletos de entrada están incluidos.\nDuración: 1,5 horas • Boleto de entrada incluido\n\n**Chand Baori**\nVisite uno de los pozos escalonados antiguos más impresionantes de la India con un tour guiado y boletos de entrada incluidos mientras viaja hacia Jaipur.\nDuración: 45 minutos • Boleto de entrada incluido",
+  "highlights": [
+   "Viaje divertido a través de las maravillas históricas del pozo escalonado y Fatehpur Sikri"
+  ],
+  "included": [
+   "Transporte privado de Agra a Jaipur con 2 paradas",
+   "Recogida y traslado en un vehículo con aire acondicionado",
+   "Paradas en Chand Baori y Fatehpur Sikri",
+   "Boletos de entrada y guía turístico de habla inglesa incluidos",
+   "Tarifas de entrada a ambos monumentos",
+   "Garantizado evitar las filas",
+   "Guía en Fatehpur Sikri (de habla inglesa)",
+   "Guía en Chand Baori (de habla inglesa)",
+   "Cargos de cámara",
+   "Tarifas de entrada a los monumentos",
+   "Cargos de estacionamiento y peaje",
+   "Combustible, todo incluido"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Alojamiento",
+   "Compras, propinas, y gastos personales"
+  ]
+ },
+ "agra-shopping-tour-with-female-guide-marble-inlay": {
+  "title": "Tour de compras en Agra con guía femenina y taller de incrustación en mármol",
+  "metaTitle": "Agra: compras con guía femenina, taller de mármol",
+  "metaDescription": "Cuatro horas de compras en Agra con una guía femenina, incluyendo un taller de incrustación en mármol. En tuk-tuk o coche privado.",
+  "shortDescription": "Cuatro horas de compras en Agra con una guía femenina, incluyendo un taller de incrustación en mármol. En tuk-tuk o coche privado.",
+  "fullDescription": "**El oficio que dejó el Taj**\n\nEl comercio de incrustación en mármol de Agra existe gracias al Taj Mahal. La técnica de la **pietra dura**, que consiste en cortar piedra semipreciosa en formas y encajarla a nivel en el mármol, se trajo aquí para ese edificio, y las familias que la practican hoy en día rastrean su habilidad hasta los artesanos que trabajaron en él.\n\nLa visita al taller es la razón para reservar esto en lugar de un tour de compras genérico.\n\n**El taller**\n\nUsted observa el proceso real: un diseño trazado en el mármol, la cavidad cincelada a mano, la piedra pulida a la forma en una rueda, y las piezas colocadas con adhesivo con tanta precisión que no se puede sentir la unión con la punta del dedo.\n\nUna mesa del tamaño de un plato puede tomarle semanas a un hombre. Una vez que haya visto eso, los acres de incrustación en el Taj se convierten en un tipo diferente de asombro.\n\n**Cómo distinguir lo real de lo falso**: la incrustación real es de **mármol** y es fresca al tacto, opaca, y pesada. La versión económica es alabastro o esteatita, más cálida, más ligera, y translúcida cuando se sostiene una linterna detrás de ella. Cualquier guía que valga la tarifa le mostrará esta prueba, y la suya lo hará.\n\n**El resto de las compras**\n\nLos otros oficios de Agra: el **cuero**, que la ciudad ha trabajado durante siglos; las alfombras **dhurrie**; el bordado **zari**; y los bazares alrededor de **Kinari** y **Sadar** para artículos cotidianos a precios cotidianos.\n\n**Su guía**\n\nUna guía femenina, por eso las mujeres que viajan solas y las familias reservan esta. Su trabajo es representar su lado de la transacción: qué está hecho a mano, qué está hecho a máquina y se vende como hecho a mano, y cuál es el precio local antes de que usted pregunte.\n\nDiga desde el principio que quiere ser llevado a donde compran los locales en lugar de donde las tiendas pagan comisión, y sucederá.\n\n**Dos opciones**\n\nEn tuk-tuk privado con conductor y guía, o en coche privado con conductor y guía.\n\n**Práctico**\n\nCuatro horas con recogida en el hotel. Lo que compre es a su cargo; nada está incluido.\n\nLleve efectivo para los talleres más pequeños.",
+  "highlights": [
+   "Explore los vibrantes mercados locales de Agra con una guía femenina conocedora"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto",
+   "Coche privado con aire acondicionado/tuk-tuk para el traslado con conductor",
+   "Guía turística femenina aprobada por el gobierno",
+   "Té/café",
+   "Botella de agua mineral",
+   "Todos los impuestos y estacionamiento"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
+  ]
+ },
+ "from-delhi-taj-mahal-and-agra-tour-by-indias": {
+  "title": "Desde Delhi: tour al Taj Mahal y Agra con el tren más rápido de la India",
+  "metaTitle": "Delhi-Agra en Gatimaan, tren más rápido",
+  "metaDescription": "Disfrute de un viaje rápido y cómodo de Delhi a Agra en el tren más rápido de la India.",
+  "shortDescription": "Disfrute de un viaje rápido y cómodo de Delhi a Agra en el tren más rápido de la India.",
+  "fullDescription": "**1. Recogida en el hotel y traslado a la estación**\nSu día comienza con una cómoda recogida en su hotel en Delhi, Noida, o Gurugram. Será llevado a la estación de tren para abordar el tren de alta velocidad Gatimaan Express, conocido como el tren más rápido de la India.\n\n**2. Salida del tren hacia Agra**\nDisfrute de un viaje fluido y relajante hacia Agra. Se sirve el desayuno a bordo mientras viaja por el pintoresco campo.\n\n**3. Llegada a Agra y encuentro con su guía**\nA su llegada a la estación de tren de Agra Cantt, conozca a su guía profesional, que lo acompañará durante todo el día.\n\n**4. Taj Mahal**\nDirígete directamente al impresionante Taj Mahal, una de las siete maravillas del mundo. Explore la obra maestra de mármol blanco, conozca su romántica historia, y capture fotos inolvidables.\n\n**5. Fuerte de Agra**\nA continuación, visite el grandioso fuerte de Agra, sitio del Patrimonio Mundial de la UNESCO. Descubra sus palacios, patios, y la fascinante arquitectura mogola mientras escucha historias de emperadores como Shah Jahan.\n\n**6. Restaurante local**\nDisfrute de un delicioso almuerzo en un restaurante local de primera categoría, con una variedad de platos indios e internacionales (opcional, dependiendo de su paquete).\n\n**7. Mehtab Bagh (opcional)**\nDespués del almuerzo, visite Mehtab Bagh para una tranquila vista posterior del Taj Mahal al otro lado del río Yamuna, perfecto para los amantes de la fotografía.\n\n**8. Tiempo libre / visita al mercado local**\nExplore los mercados locales de Agra, conocidos por sus artesanías en mármol, artículos de cuero, y recuerdos.\n\n**9. Tren de regreso a Delhi**\nTraslado de regreso a la estación de tren de Agra Cantt para abordar el Gatimaan Express. Disfrute de la cena servida a bordo durante su viaje de regreso.\n\n**10. Llegada a Delhi y entrega**\nLlegue a Delhi y sea trasladado de regreso a su hotel o lugar preferido, marcando el final de un memorable tour de Agra en el mismo día.",
+  "highlights": [
+   "Disfrute de un viaje rápido y cómodo de Delhi a Agra en el tren más rápido de la India"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto",
+   "Coche privado con aire acondicionado para los recorridos",
+   "Guía turístico experto aprobado por el gobierno",
+   "Boletos de tren de ida y vuelta (si se selecciona esa opción)",
+   "Boletos de entrada a los monumentos (si se selecciona esa opción)",
+   "Almuerzo en un hotel de 5 estrellas (si se selecciona esa opción)",
+   "Botella de agua mineral",
+   "Todos los peajes y el estacionamiento"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
+  ]
+ },
+ "taj-mahal-delhi-private-tour": {
+  "title": "Desde Delhi: tour privado al Taj Mahal y Agra con almuerzo de 5 estrellas",
+  "metaTitle": "Delhi-Agra: Taj Mahal privado, almuerzo de 5 estrellas",
+  "metaDescription": "Explore la «ciudad del Taj» sin ninguna complicación de transporte.",
+  "shortDescription": "Explore la «ciudad del Taj» sin ninguna complicación de transporte.",
+  "fullDescription": "Comience su día con una recogida temprana en su hotel en Delhi, Gurgaon, Noida, o el aeropuerto. Siéntese y relájese en un coche privado con aire acondicionado para un fluido trayecto de 3 horas hacia Agra.\n\nCuando llegue, conozca a su amigable guía, y visite el Taj Mahal. Disfrute de la hermosa vista al amanecer, y pase de 2 a 3 horas explorando este monumento mundialmente famoso.\n\nDespués de eso, vaya al fuerte de Agra, un grandioso fuerte de arenisca roja construido por el emperador Akbar en 1565. Vea la asombrosa mezcla de diseño hindú y de Asia Central.\n\nA continuación, haga una parada para un sabroso desayuno o almuerzo en un hotel de 5 estrellas (si está incluido en su tour).\n\nFinalmente, visite el encantador Baby Taj (también conocido como Itmad-ud-Daulah), y luego relájese mientras su conductor lo lleva de regreso a Delhi.\n\nLa recogida y entrega están disponibles desde Agra, Delhi, Noida, Gurugram, y otras áreas cercanas en Haryana, según la opción que elija. ¡No espere, reserve este tour privado, y haga su visita a Agra verdaderamente memorable!",
+  "highlights": [
+   "Explore la «ciudad del Taj» sin ninguna complicación de transporte"
+  ],
+  "included": [
+   "Tarifas de entrada a los monumentos (si se selecciona esa opción)",
+   "Recogida y entrega desde Delhi/Agra (según la opción seleccionada)",
+   "Vehículo privado con aire acondicionado",
+   "Guía turístico para todos los monumentos",
+   "Nuestro guía le tomará hermosas fotos",
+   "Todos los peajes, estacionamiento, e impuestos",
+   "Demostración de trabajo de incrustación en mármol",
+   "Almuerzo bufé en hotel de 5 estrellas (si se elige esa opción)",
+   "Botellas de agua, cubrezapatos"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Cualquier tipo de bebida servida con el almuerzo"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
