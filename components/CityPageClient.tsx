@@ -14,7 +14,7 @@ const CITY_GUIDES: Record<string, { name: string; slug: string; image: string }[
 import {
   MapPin, Star, Clock, Users, Search, Filter, Heart, User, Globe, ChevronDown, Calendar, ChevronUp, Mail,
   HelpCircle,
-  HelpCircle as HelpIcon, ArrowLeft, Ticket, Info, ChevronRight, Home
+  HelpCircle as HelpIcon, ArrowLeft, Ticket, Info, ChevronRight, Home, CheckCircle2
 } from 'lucide-react';
 import LanguageSwitcher, { useLanguage } from '@/components/LanguageSwitcher';
 import Breadcrumbs from '@/components/Breadcrumbs';
@@ -3177,6 +3177,14 @@ export default function CityPageClient({ tours: initialTours, city, country, h1,
                           {formatDurationDisplay(tour.duration)}
                         </div>
                       )}
+
+                      {/* Free Cancellation badge — a trust signal every tour
+                          page already promises (see "Know before you go"),
+                          surfaced on the card so it's seen before the click. */}
+                      <div className="flex items-center gap-1 text-[10px] md:text-[11px] text-[#10B981] font-bold mb-1 md:mb-3">
+                        <CheckCircle2 size={12} className="shrink-0" />
+                        <span>{ui.freeCancellation || 'Free cancellation'}</span>
+                      </div>
 
                       {/* Tour Types */}
                       {tour.tourTypes && (() => {

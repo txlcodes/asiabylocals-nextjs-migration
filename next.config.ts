@@ -93,12 +93,14 @@ const nextConfig: NextConfig = {
       // Cambodia came OFF this list when it launched in September 2026 with 487
       // tours across Siem Reap and Phnom Penh - leaving it here 308s the whole
       // country to /explore, including every tour, guide and itinerary page.
-      // Malaysia (618 tours, 9 cities) and Singapore (207 tours) launched
-      // 2026-10-03/04 and came off this list the same way - every single one of
-      // their live tour pages was 308-redirecting to /explore until this line
-      // was caught by a GSC indexing check the day after launch.
-      { source: '/:c(china|macau|hong-kong|taiwan|philippines|myanmar|south-korea)', destination: '/explore', permanent: true },
-      { source: '/:c(china|macau|hong-kong|taiwan|philippines|myanmar|south-korea)/:path*', destination: '/explore', permanent: true },
+      // Malaysia (618 tours, 9 cities), Singapore (207 tours), and China
+      // (1,628 tours, Beijing+Shanghai) launched 2026-10-03/05 and came off
+      // this list the same way - every single one of their live tour pages
+      // was 308-redirecting to /explore until this line was caught, this time
+      // BEFORE any guest or GoogleBot hit it (China was caught in the same
+      // session that built it, by previewing the tour cards locally).
+      { source: '/:c(macau|hong-kong|taiwan|philippines|myanmar|south-korea)', destination: '/explore', permanent: true },
+      { source: '/:c(macau|hong-kong|taiwan|philippines|myanmar|south-korea)/:path*', destination: '/explore', permanent: true },
       // City hubs with no supply (GSC held 25 of them as noindex for months). Send them to
       // the live country page until they get tours; delete the line when a city launches.
       { source: '/india/:c(bangalore|leh-ladakh|mysore)', destination: '/india', permanent: true },
