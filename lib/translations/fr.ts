@@ -25814,6 +25814,80 @@ export const FR_TOURS: Record<string, TourT> = {
    "Frais d'entrée"
   ]
  },
+ "from-delhi-golden-triangle-private-tour-with": {
+  "title": "Depuis Delhi : circuit privé du Triangle d'or avec safari",
+  "metaTitle": "Delhi : Triangle d'or privé, safari",
+  "metaDescription": "Explorez Delhi, Agra, et Jaipur lors d'un circuit privé de 5 jours avec guide",
+  "shortDescription": "Explorez Delhi, Agra, et Jaipur lors d'un circuit privé de 5 jours avec guide",
+  "fullDescription": "Depuis Delhi : circuit privé du Triangle d'or avec safari. Explorez Delhi, Agra, et Jaipur lors d'un circuit privé de 5 jours avec guide.\n\nDepuis Delhi : circuit privé du Triangle d'or avec safari\n\n**Circuit du Triangle d'or de 7 jours avec safari (si l'option est sélectionnée)**\n**Jour 1 – Delhi → Agra** : explorez les sites de Delhi : Qutub Minar, India Gate, tombe de Humayun, temple du Lotus, Jama Masjid, balade en rickshaw à Chandni Chowk, et Akshardham. Trajet en soirée vers Agra. Nuit à Agra.\n**Jour 2 – Agra** : lever de soleil au Taj Mahal, visite du fort d'Agra et d'Itmad-ud-Daula. Nuit à Agra.\n**Jour 3 – Agra → Fatehpur Sikri → Abhaneri → Ranthambore** : explorez Fatehpur Sikri et le puits à degrés d'Abhaneri. Continuez vers Ranthambore. Nuit à Ranthambore.\n**Jour 4 – Ranthambore → Jaipur** : safari matinal aux tigres, suivi d'un trajet vers Jaipur. Nuit à Jaipur.\n**Jour 5 – Pushkar** : visitez le temple de Brahma, le lac de Pushkar, et le marché local. Retour à Jaipur. Nuit à Jaipur.\n**Jour 6 – Jaipur** : découvrez le fort Amber, le City Palace, le Jantar Mantar, le Hawa Mahal, et le Jal Mahal. Faites du shopping dans les marchés colorés de la ville rose. Nuit à Jaipur.\n**Jour 7 – Jaipur → Delhi** : trajet de retour vers Delhi, et dépôt à l'aéroport de Delhi, la gare, l'hôtel, ou l'endroit de votre choix.\n\n**Circuit du Triangle d'or de 5 jours avec safari (si l'option est sélectionnée)**\n**Jour 1 – Delhi → Agra** : explorez le Qutub Minar, India Gate, la tombe de Humayun, le temple du Lotus, la Jama Masjid, la balade en rickshaw à Chandni Chowk, et Akshardham. Trajet en soirée vers Agra. Nuit à Agra.\n**Jour 2 – Agra** : lever de soleil au Taj Mahal, visite du fort d'Agra et d'Itmad-ud-Daula. Nuit à Agra.\n**Jour 3 – Agra → Fatehpur Sikri → Abhaneri → Ranthambore** : visitez l'historique Fatehpur Sikri et le puits à degrés d'Abhaneri. Continuez vers Ranthambore. Nuit à Ranthambore.\n**Jour 4 – Ranthambore → Jaipur** : safari matinal aux tigres, suivi d'un trajet vers Jaipur. Nuit à Jaipur.\n**Jour 5 – Jaipur → Delhi** : découvrez le fort Amber, le City Palace, le Jantar Mantar, le Hawa Mahal, et le Jal Mahal. Faites du shopping dans les marchés de la ville rose. Trajet en soirée vers Delhi.\n\n**Circuit du Triangle d'or de 4 jours avec safari (si l'option est sélectionnée)**\n**Jour 1 – Delhi → Agra** : explorez le Qutub Minar, India Gate, la tombe de Humayun, le temple du Lotus, la Jama Masjid, la balade en rickshaw à Chandni Chowk, et Akshardham. Trajet en soirée vers Agra. Nuit à Agra.\n**Jour 2 – Agra → Ranthambore** : lever de soleil au Taj Mahal, visite du fort d'Agra et d'Itmad-ud-Daula. Trajet vers Ranthambore. Nuit à Ranthambore.\n**Jour 3 – Ranthambore → Jaipur** : safari matinal aux tigres, suivi d'un trajet vers Jaipur. Nuit à Jaipur.\n**Jour 4 – Jaipur → Delhi** : découvrez le fort Amber, le City Palace, le Jantar Mantar, le Hawa Mahal, et le Jal Mahal. Faites du shopping dans les marchés de la ville rose. Trajet en soirée vers Delhi.\n\n**Circuit du Triangle d'or de 3 jours (si l'option est sélectionnée)**\n**Jour 1 – Delhi → Agra** : explorez le Qutub Minar, India Gate, la tombe de Humayun, le temple du Lotus, la Jama Masjid, la balade en rickshaw à Chandni Chowk, et Akshardham. Trajet en soirée vers Agra. Nuit à Agra.\n**Jour 2 – Agra → Jaipur** : lever de soleil au Taj Mahal, visite du fort d'Agra et d'Itmad-ud-Daula. Trajet vers Jaipur. Nuit à Jaipur.\n**Jour 3 – Jaipur → Delhi** : découvrez le fort Amber, le City Palace, le Jantar Mantar, le Hawa Mahal, et le Jal Mahal. Faites du shopping dans les marchés de la ville rose. Trajet en soirée vers Delhi.\n\n**Ce qui est inclus**\nPrise en charge et retour aux hôtels ou à l'aéroport\nToutes les taxes, le stationnement, et les frais de service\nVisites en voiture privée climatisée\nVisite privée avec guides locaux\nEntrée aux monuments (si l'option est sélectionnée)\nHébergement avec petit-déjeuner (si l'option est sélectionnée)\nBouteilles d'eau minérale\nAttention et soin personnalisés\n\n**Non inclus**\nDépenses personnelles\nPourboires",
+  "highlights": [
+   "Explorez Delhi, Agra, et Jaipur lors d'un circuit privé de 5 jours avec guide"
+  ],
+  "included": [
+   "Prise en charge et retour aux hôtels ou à l'aéroport",
+   "Toutes les taxes, le stationnement, et les frais de service",
+   "Visites en voiture privée climatisée",
+   "Visite privée avec guides locaux",
+   "Entrée aux monuments (si l'option est sélectionnée)",
+   "Hébergement avec petit-déjeuner (si l'option est sélectionnée)",
+   "Bouteilles d'eau minérale",
+   "Attention et soin personnalisés"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "delhi-6-day-golden-triangle-tour-with-varanasi": {
+  "title": "Delhi : circuit du Triangle d'or de 6 jours avec Varanasi",
+  "metaTitle": "Delhi : Triangle d'or 6 jours, Varanasi",
+  "metaDescription": "Balade en bateau au lever du soleil sur le Gange sacré à Varanasi",
+  "shortDescription": "Balade en bateau au lever du soleil sur le Gange sacré à Varanasi",
+  "fullDescription": "Delhi : circuit du Triangle d'or de 6 jours avec Varanasi. Balade en bateau au lever du soleil sur le Gange sacré à Varanasi.\n\n**Jour 01 – visite de la ville de Delhi - Agra**\nPrise en charge à l'hôtel, l'aéroport, la gare, ou tout autre endroit souhaité à Delhi, Noida, ou Gurugram. Commencez les visites à Delhi :\n\nQutub Minar : le plus haut minaret en briques du monde, site de l'UNESCO.\nTemple du Lotus : un temple bahá'í en forme de lotus, connu pour la paix et la méditation.\nIndia Gate : un grand mémorial en forme d'arche, honorant les soldats indiens.\nParlement et Rashtrapati Bhavan (passage en voiture) : des exemples saisissants d'architecture de l'époque britannique.\nAgrasen Ki Baoli : un ancien puits à degrés au design fascinant.\n\nRoute vers Agra, et enregistrement à l'hôtel. Nuit à Agra.\n\n**Jour 02 – Agra - Jaipur**\n\nTaj Mahal : visite au lever du soleil de ce chef-d'œuvre en marbre, symbole d'amour éternel.\nFort d'Agra : une forteresse moghole mêlant palais, mosquées, et histoire.\nItmad-ud-Daula (Petit Taj) : un délicat mausolée en marbre, précurseur du Taj Mahal.\n\nRoute vers Jaipur, avec un arrêt en chemin à Fatehpur Sikri (si le temps le permet). Nuit à Jaipur.\n\n**Jour 03 – visite de la ville de Jaipur**\n\nPanna Meena ka Kund : un puits à degrés symétrique, parfait pour la photographie.\nPalais Amber : un fort perché sur une colline avec des salles aux miroirs et une architecture rajpoute.\nJal Mahal : un palais pittoresque flottant au milieu du lac Man Sagar.\nCity Palace de Jaipur : la résidence royale mettant en valeur l'art et les cours.\nJantar Mantar : un observatoire astronomique de l'UNESCO avec des instruments géants.\nHawa Mahal : le célèbre « Palais des Vents » aux fenêtres en nid d'abeille.\nGaitore Ki Chhatriyan : des cénotaphes ornés des souverains de Jaipur.\n\nNuit à Jaipur.\n\n**Jour 04 – Jaipur - Delhi (par la route) - Varanasi (en vol commercial)**\nTrajet de Jaipur à Delhi, puis embarquement pour un vol vers Varanasi. À l'arrivée, vous serez transféré à votre hôtel pour l'enregistrement. Nuit à Varanasi.\n\n**Jour 05 – visite de la ville de Varanasi**\n\nBalade en bateau au lever du soleil (sous réserve de conditions météorologiques) : glissez le long du Gange à l'aube, observant rituels, prières, et vie se dérouler sur les ghats.\nAssi Ghat : un ghat sacré où les pèlerins prennent des bains sacrés.\nTemple Shri Kashi Vishwanath : l'un des sanctuaires les plus vénérés du Seigneur Shiva.\nUniversité hindoue de Bénarès (BHU) : un centre éducatif prestigieux avec le musée Bharat Kala Bhavan.\nTemple Durga : le frappant temple rouge, également connu comme le temple des Singes.\nUne école de Gurukul : assistez à des méthodes d'apprentissage indiennes traditionnelles.\nGanga Aarti du soir au Dasaswamedh Ghat : un rituel envoûtant de lumières, de chants, et de dévotion sur les rives du fleuve sacré.\n\nNuit à Varanasi.\n\n**Jour 06 – Varanasi - Delhi (en vol commercial)**\nBalade en bateau tôt le matin sur le Gange pour assister au lever du soleil et aux rituels sur les ghats. Plus tard, transfert vers l'aéroport pour le vol retour vers Delhi, et la suite de votre voyage.\n\n**Ce qui est inclus**\nVisite privée guidée avec chauffeur personnel\nSéjour de 5 nuits à l'hôtel avec petit-déjeuner (si l'option hôtel est choisie)\nPetit-déjeuner quotidien à l'hôtel (si l'option hôtel est choisie)\nTransport en voiture privée climatisée\nGuides locaux privés dans chaque ville\nToutes les taxes et frais de service inclus\nPrise en charge et retour à l'hôtel ou à l'aéroport\nSoin personnalisé et assistance 24h/24 et 7j/7\nVol : Delhi vers Varanasi (15 kg en bagage enregistré + 7 kg en bagage à main autorisés)\nVol : Varanasi vers Delhi (15 kg en bagage enregistré + 7 kg en bagage à main autorisés)\nFrais d'entrée à tous les monuments inclus (si l'option est sélectionnée)\n\n**Non inclus**\nGratifications (optionnelles)\nDéjeuner et dîner",
+  "highlights": [
+   "Balade en bateau au lever du soleil sur le Gange sacré à Varanasi"
+  ],
+  "included": [
+   "Visite privée guidée avec chauffeur personnel",
+   "Séjour de 5 nuits à l'hôtel avec petit-déjeuner (si l'option hôtel est choisie)",
+   "Petit-déjeuner quotidien à l'hôtel (si l'option hôtel est choisie)",
+   "Transport en voiture privée climatisée",
+   "Guides locaux privés dans chaque ville",
+   "Toutes les taxes et frais de service inclus",
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Soin personnalisé et assistance 24h/24 et 7j/7",
+   "Vol : Delhi vers Varanasi (15 kg en bagage enregistré + 7 kg en bagage à main autorisés)",
+   "Vol : Varanasi vers Delhi (15 kg en bagage enregistré + 7 kg en bagage à main autorisés)",
+   "Frais d'entrée à tous les monuments inclus (si l'option est sélectionnée)"
+  ],
+  "notIncluded": [
+   "Gratifications (optionnelles)",
+   "Déjeuner et dîner"
+  ]
+ },
+ "full-day-tour-of-old-new-delhi-with-red": {
+  "title": "Visite d'une journée complète du Vieux et du New Delhi avec le Fort Rouge",
+  "metaTitle": "Delhi : journée complète, Fort Rouge",
+  "metaDescription": "Découvrez les incontournables du Vieux Delhi avec une balade en tuk-tuk à Chandni Chowk",
+  "shortDescription": "Découvrez les incontournables du Vieux Delhi avec une balade en tuk-tuk à Chandni Chowk",
+  "fullDescription": "Visite d'une journée complète du Vieux et du New Delhi avec le Fort Rouge. Découvrez les incontournables du Vieux Delhi avec une balade en tuk-tuk à Chandni Chowk.\n\nVotre guide et chauffeur professionnels vous prendront en charge à l'endroit de votre choix à New Delhi, à l'heure choisie. Commencez votre visite touristique par le Qutub Minar, le plus haut minaret en briques du monde, et la tombe de Humayun, site du patrimoine mondial de l'UNESCO qui a inspiré la conception du Taj Mahal. Continuez vers le temple du Lotus, admirez son architecture frappante en forme de lotus, et arrêtez-vous à India Gate pour des photos. Passez devant le Rashtrapati Bhavan et le Parlement pour des vues panoramiques.\n\nEnsuite, visitez le magnifique temple d'Akshardham, célèbre pour ses sculptures complexes, sa grande architecture, et son importance culturelle. Découvrez le riche patrimoine de l'Inde, tandis que votre guide partage des histoires et des éclairages fascinants tout au long de votre visite.\n\nContinuez vers le Vieux Delhi pour explorer la Jama Masjid, l'une des plus grandes mosquées d'Inde, et découvrez l'ambiance vibrante de Chandni Chowk avec une balade optionnelle en rickshaw à travers ses rues animées. Terminez votre visite au Gurudwara Bangla Sahib, célèbre pour son dôme doré et son environnement paisible, avant de retourner à l'endroit de votre choix à Delhi.\n\n**Ce qui est inclus**\nPrise en charge et retour depuis l'hôtel ou l'aéroport\nVoiture privée climatisée avec chauffeur\nBillets d'entrée aux monuments (si l'option est sélectionnée)\nDéjeuner (si l'option est sélectionnée)\nBouteille d'eau\nService de guide touristique en direct\nToutes les taxes et frais applicables\n\n**Non inclus**\nGratifications\nPourboires",
+  "highlights": [
+   "Découvrez les incontournables du Vieux Delhi avec une balade en tuk-tuk à Chandni Chowk"
+  ],
+  "included": [
+   "Prise en charge et retour depuis l'hôtel ou l'aéroport",
+   "Voiture privée climatisée avec chauffeur",
+   "Billets d'entrée aux monuments (si l'option est sélectionnée)",
+   "Déjeuner (si l'option est sélectionnée)",
+   "Bouteille d'eau",
+   "Service de guide touristique en direct",
+   "Toutes les taxes et frais applicables"
+  ],
+  "notIncluded": [
+   "Gratifications",
+   "Pourboires"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
