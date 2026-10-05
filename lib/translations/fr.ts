@@ -24188,6 +24188,83 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "delhi-taj-mahal-tour-with-high-speed-train-all": {
+  "title": "Delhi : visite du Taj Mahal en train à grande vitesse - tout compris",
+  "metaTitle": "Delhi : Taj Mahal en Gatimaan Express",
+  "metaDescription": "Profitez d'une visite de luxe dans la journée, de Delhi à Agra via le Gatimaan Express.",
+  "shortDescription": "Profitez d'une visite de luxe dans la journée, de Delhi à Agra via le Gatimaan Express.",
+  "fullDescription": "Delhi : visite du Taj Mahal en train à grande vitesse - tout compris. Profitez d'une visite de luxe dans la journée, de Delhi à Agra via le Gatimaan Express.\n\n**5h00 – prise en charge à l'hôtel à Delhi**\nVotre chauffeur viendra vous chercher à votre hôtel/domicile à Delhi, Gurugram, ou Noida.\nTransfert vers la gare ferroviaire de Hazrat Nizamuddin dans un véhicule climatisé.\n\n**6h00 – départ à bord du train Gatimaan Express**\nMontez à bord du train le plus rapide d'Inde : le Gatimaan Express.\nProfitez d'un voyage confortable en classe exécutive ou en voiture-salon.\nLe petit-déjeuner sera servi à bord.\n\n**8h10 – arrivée à Agra**\nRetrouvez votre guide touristique local professionnel à la gare d'Agra.\nCommencez vos visites d'Agra dans une voiture privée climatisée.\n\n**8h30 – visite du Taj Mahal**\nExplorez le mondialement célèbre Taj Mahal, un site du patrimoine mondial de l'UNESCO.\nDécouvrez son histoire romantique et son génie architectural.\n\n**11h00 – visite du fort d'Agra**\nDirigez-vous vers le majestueux fort d'Agra, un fort et résidence royale de l'époque moghole.\nDécouvrez ses cours, ses chambres, et la vue sur la rivière Yamuna.\n\n**13h00 – déjeuner dans un hôtel 5 étoiles**\nProfitez d'un délicieux déjeuner buffet dans un hôtel de luxe 5 étoiles à Agra.\nDes options végétariennes et non végétariennes sont disponibles.\n\n**14h30 – visite d'Itmad-ud-Daulah (le Petit Taj)**\nExplorez l'élégant Petit Taj, une tombe moghole souvent considérée comme une ébauche du Taj Mahal.\n\n**15h30 – temps libre pour le shopping (optionnel)**\nVisitez les marchés locaux pour des souvenirs tels que des incrustations de marbre, de l'artisanat, ou des articles en cuir.\n\n**17h45 – embarquement à bord du Gatimaan Express de retour vers Delhi**\nRetour à la gare ferroviaire d'Agra Cantt.\nLe dîner sera servi à bord durant votre trajet de retour.\n\n**19h30 – arrivée à la gare de Hazrat Nizamuddin**\nRetrouvez votre chauffeur à la gare.\nTransfert de retour vers votre hôtel/domicile à Delhi.\n\n**Ce qui est inclus**\nService de prise en charge et de retour depuis/vers tout hôtel ou aéroport et gare ferroviaire à Delhi et ses environs\nTarif de train Delhi - Agra - Delhi en classe climatisée 1re et 2e (si l'option est sélectionnée)\nVisites en voiture privée climatisée (berline/SUV) dans la ville de destination (Agra)\nBillet d'entrée aux monuments (si l'option est sélectionnée)\nDéjeuner buffet dans un restaurant multi-cuisines propre et hygiénique (si l'option est sélectionnée)\nService de guide touristique professionnel dans votre langue\nBouteilles d'eau minérale\n\n**Non inclus**\nPourboires et gratifications pour le guide et le chauffeur\nTout ce qui n'est pas mentionné dans les inclusions",
+  "highlights": [
+   "Profitez d'une visite de luxe dans la journée, de Delhi à Agra via le Gatimaan Express"
+  ],
+  "included": [
+   "Service de prise en charge et de retour depuis/vers tout hôtel ou aéroport et gare ferroviaire à Delhi et ses environs",
+   "Tarif de train Delhi - Agra - Delhi en classe climatisée 1re et 2e (si l'option est sélectionnée)",
+   "Visites en voiture privée climatisée (berline/SUV) dans la ville de destination (Agra)",
+   "Billet d'entrée aux monuments (si l'option est sélectionnée)",
+   "Déjeuner buffet dans un restaurant multi-cuisines propre et hygiénique (si l'option est sélectionnée)",
+   "Service de guide touristique professionnel dans votre langue",
+   "Bouteilles d'eau minérale"
+  ],
+  "notIncluded": [
+   "Pourboires et gratifications pour le guide et le chauffeur",
+   "Tout ce qui n'est pas mentionné dans les inclusions"
+  ]
+ },
+ "delhi-agra-jaipur-golden-triangle-multiday-trip": {
+  "title": "Circuit de plusieurs jours du Triangle d'or Delhi, Agra, Jaipur avec safari",
+  "metaTitle": "Delhi-Agra-Jaipur : Triangle d'or, safari",
+  "metaDescription": "Visitez le Taj Mahal, le fort d'Agra, et les merveilles mogholes d'Itmad-ud-Daula",
+  "shortDescription": "Visitez le Taj Mahal, le fort d'Agra, et les merveilles mogholes d'Itmad-ud-Daula",
+  "fullDescription": "Circuit de plusieurs jours du Triangle d'or Delhi, Agra, Jaipur avec safari. Visitez le Taj Mahal, le fort d'Agra, et les merveilles mogholes d'Itmad-ud-Daula.\n\nCircuit de plusieurs jours du Triangle d'or Delhi, Agra, Jaipur avec safari\n\n**Circuit du Triangle d'or de 7 jours avec safari (si l'option est sélectionnée)**\n**Jour 1** – Explorez les sites de Delhi : Qutub Minar, India Gate, tombe de Humayun, temple du Lotus, Jama Masjid, balade en rickshaw à Chandni Chowk, et Akshardham. Trajet en soirée vers Agra. Nuit à Agra.\n**Jour 2** – Agra : lever de soleil au Taj Mahal, visite du fort d'Agra et d'Itmad-ud-Daula. Nuit à Agra.\n**Jour 3** – Agra → Fatehpur Sikri → Abhaneri → Ranthambore : explorez Fatehpur Sikri et le puits à degrés d'Abhaneri. Nuit à Ranthambore.\n**Jour 4** – Ranthambore → Jaipur : safari matinal aux tigres, trajet l'après-midi vers Jaipur. Nuit à Jaipur.\n**Jour 5** – Pushkar : visitez le temple de Brahma, le lac de Pushkar, et le marché local. Nuit à Jaipur.\n**Jour 6** – Jaipur : découvrez le fort Amber, le City Palace, le Jantar Mantar, le Hawa Mahal, le Jal Mahal, et faites du shopping dans les marchés de la ville rose. Nuit à Jaipur.\n**Jour 7** – Jaipur → Delhi : trajet de retour vers l'aéroport de Delhi.\n\n**Circuit du Triangle d'or de 5 jours avec safari (si l'option est sélectionnée)**\n**Jour 1** – Explorez les sites de Delhi : Qutub Minar, India Gate, tombe de Humayun, temple du Lotus, Jama Masjid, balade en rickshaw à Chandni Chowk, et Akshardham. Trajet en soirée vers Agra. Nuit à Agra.\n**Jour 2** – Agra : lever de soleil au Taj Mahal, visite du fort d'Agra et d'Itmad-ud-Daula. Nuit à Agra.\n**Jour 3** – Agra → Fatehpur Sikri → Abhaneri → Ranthambore : visitez l'historique Fatehpur Sikri et le puits à degrés d'Abhaneri. Nuit à Ranthambore.\n**Jour 4** – Ranthambore : safari matinal aux tigres, trajet vers Jaipur. Nuit à Jaipur.\n**Jour 5** – Jaipur : découvrez le fort Amber, le City Palace, le Jantar Mantar, le Hawa Mahal, le Jal Mahal, et faites du shopping dans les marchés de la ville rose. Trajet en soirée vers Delhi.\n\n**Circuit du Triangle d'or de 4 jours avec safari (si l'option est sélectionnée)**\n**Jour 1** – Explorez les sites de Delhi : Qutub Minar, India Gate, tombe de Humayun, temple du Lotus, Jama Masjid, balade en rickshaw à Chandni Chowk, et Akshardham. Trajet en soirée vers Agra. Nuit à Agra.\n**Jour 2** – Agra : lever de soleil au Taj Mahal, visite du fort d'Agra et d'Itmad-ud-Daula. Nuit à Ranthambore.\n**Jour 3** – Ranthambore : safari matinal aux tigres, trajet vers Jaipur. Nuit à Jaipur.\n**Jour 4** – Jaipur : découvrez le fort Amber, le City Palace, le Jantar Mantar, le Hawa Mahal, le Jal Mahal, et faites du shopping dans les marchés de la ville rose. Trajet en soirée vers Delhi.\n\n**Circuit du Triangle d'or de 3 jours (si l'option est sélectionnée)**\n**Jour 1** – Explorez les sites de Delhi : Qutub Minar, India Gate, tombe de Humayun, temple du Lotus, Jama Masjid, balade en rickshaw à Chandni Chowk, et Akshardham. Trajet en soirée vers Agra. Nuit à Agra.\n**Jour 2** – Agra : lever de soleil au Taj Mahal, visite du fort d'Agra et d'Itmad-ud-Daula. Trajet vers Jaipur et nuit à Jaipur.\n**Jour 3** – Jaipur : découvrez le fort Amber, le City Palace, le Jantar Mantar, le Hawa Mahal, le Jal Mahal, et faites du shopping dans les marchés de la ville rose. Trajet en soirée vers Delhi.\n\n**Ce qui est inclus**\nVisites en voiture privée climatisée\nVisite privée avec guides locaux\nEntrée aux monuments (si l'option est sélectionnée)\nHébergement avec petit-déjeuner (si l'option est sélectionnée)\nBouteilles d'eau minérale\nAttention et soin personnalisés\nToutes les taxes, le stationnement, et les frais de service\nPrise en charge et retour aux hôtels ou à l'aéroport\n\n**Non inclus**\nDépenses personnelles\nPourboires",
+  "highlights": [
+   "Visitez le Taj Mahal, le fort d'Agra, et les merveilles mogholes d'Itmad-ud-Daula"
+  ],
+  "included": [
+   "Visites en voiture privée climatisée",
+   "Visite privée avec guides locaux",
+   "Entrée aux monuments (si l'option est sélectionnée)",
+   "Hébergement avec petit-déjeuner (si l'option est sélectionnée)",
+   "Bouteilles d'eau minérale",
+   "Attention et soin personnalisés",
+   "Toutes les taxes, le stationnement, et les frais de service",
+   "Prise en charge et retour aux hôtels ou à l'aéroport"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "from-delhi-8-days-golden-triangle-tour-with-5": {
+  "title": "Depuis Delhi : circuit du Triangle d'or de 8 jours avec hôtels 5 étoiles",
+  "metaTitle": "Delhi : Triangle d'or 8 jours, hôtels 5 étoiles",
+  "metaDescription": "Explorez le Vieux et le New Delhi, notamment la Jama Masjid et le Qutub Minar",
+  "shortDescription": "Explorez le Vieux et le New Delhi, notamment la Jama Masjid et le Qutub Minar",
+  "fullDescription": "Depuis Delhi : circuit du Triangle d'or de 8 jours avec hôtels 5 étoiles. Explorez le Vieux et le New Delhi, notamment la Jama Masjid et le Qutub Minar.\n\n**Jour 1 – Arrivée à New Delhi**\nPrise en charge à l'aéroport de Delhi, à la gare, ou à tout autre endroit préféré à Delhi. Rencontrez votre représentant et transfert vers l'hôtel. Le reste de la journée est libre pour vous détendre et récupérer de votre voyage.\nNuit : New Delhi\n\n**Jour 2 – Visite de la ville du Vieux et du New Delhi**\nDistance et durée des visites : environ 35 à 40 km | 5 à 6 heures\nExplorez le riche patrimoine de Delhi avec des visites de la tombe de Humayun et du Vieux Delhi, notamment la Jama Masjid et une balade en rickshaw à travers Chandni Chowk. Continuez à travers New Delhi, en passant devant India Gate, le Parlement, et le palais présidentiel. Visitez un temple sikh et Gandhi Smriti.\nNuit : New Delhi\n\n**Jour 3 – New Delhi → Jaipur**\nDistance et durée : environ 280 km | 5 à 6 heures\nTrajet vers Jaipur, la « ville rose ». Visitez un grossiste en bijoux et explorez les bazars locaux. Soirée libre.\nNuit : Jaipur\n\n**Jour 4 – Jaipur – fort Amber et détente**\nDistance et durée des visites : environ 25 à 30 km | 4 à 5 heures\nVisitez le majestueux fort Amber en jeep, en profitant de vues panoramiques sur Jaipur. L'après-midi est libre, ou vous pouvez opter pour une visite de la ville comprenant le City Palace et le Jantar Mantar, ou une expérience culturelle optionnelle.\nNuit : Jaipur\n\n**Jour 5 – Jaipur → Agra via Abhaneri**\nDistance et durée : environ 240 km | 5 à 6 heures\nTrajet vers Agra, avec un arrêt en chemin à Abhaneri pour visiter l'impressionnant puits à degrés de Chand Baori. Continuez ensuite vers Agra.\nNuit : Agra\n\n**Jour 6 – Agra – Taj Mahal**\nDistance et durée des visites : environ 10 à 15 km | 3 à 4 heures\nVisitez l'emblématique Taj Mahal, un chef-d'œuvre de l'architecture moghole. L'après-midi, optez pour une visite guidée du fort d'Agra et de la tombe d'Itmad-ud-Daulah (le Petit Taj).\nNuit : Agra\nRemarque : le Taj Mahal reste fermé le vendredi.\n\n**Jour 7 – Agra → New Delhi**\nDistance et durée : environ 230 km | 4 à 5 heures\nTrajet de retour vers New Delhi avec un arrêt photo au Qutub Minar. Soirée libre.\nNuit : New Delhi\n\n**Jour 8 – Départ de New Delhi**\nTransfert vers l'aéroport pour la suite de votre voyage.\n\n**Fin de nos services**\n\n**Informations importantes**\nLe Taj Mahal reste fermé le vendredi.\nIl s'agit d'une visite privée assurée avec un véhicule climatisé et un chauffeur expérimenté.\nDes guides locaux sont fournis pour les visites selon l'itinéraire.\nLes guides parlant une langue spécifique sont soumis à disponibilité.\nLe transport n'est pas inclus si l'option guide seul est sélectionnée.\nLes horaires d'enregistrement et de départ de l'hôtel sont soumis à la politique de l'hôtel.\nLes frais d'entrée aux monuments, les repas, et l'hébergement ne sont pas inclus sauf indication contraire.\nDes activités optionnelles sont disponibles sur demande et peuvent être organisées moyennant un coût supplémentaire.\n\nRemarque : cet itinéraire est flexible et personnalisable. Veuillez noter que pendant les festivals, les week-ends, et les hautes saisons, une affluence plus importante peut affecter le temps de visite, les activités, et la durée des trajets.\n\nVeuillez noter : l'hébergement sera organisé exclusivement dans des hôtels 5 étoiles soigneusement sélectionnés, offrant un confort premium, des normes de service élevées, et une expérience de séjour élégante tout au long du voyage.\n\n**Ce qui est inclus**\nVéhicule privé climatisé avec chauffeur expérimenté pour tout le circuit\nTous les transferts et visites selon l'itinéraire confirmé (si l'option est sélectionnée)\nGuides locaux selon la ville à Delhi, Jaipur, et Agra\nHébergement dans des hôtels 5 étoiles présélectionnés (si l'option avec hôtel est sélectionnée)\nPetit-déjeuner quotidien (si l'option avec hôtels est sélectionnée)\nBalade en rickshaw dans le Vieux Delhi\nDeux bouteilles d'eau offertes par personne et par jour dans le véhicule\nAssistance locale 24h/24 et 7j/7\nToutes les taxes applicables, frais de stationnement, péages, et frais de chauffeur\nDépart garanti : le circuit a lieu même avec un seul voyageur\nRemarque : les guides parlant une langue spécifique sont soumis à disponibilité\n\n**Non inclus**\nBillets d'avion internationaux et nationaux, visa, et assurance voyage (recommandée)\nFrais d'entrée aux monuments\nPourboires pour les guides et chauffeurs, dépenses personnelles\nTout service non explicitement mentionné dans les inclusions\nLes activités optionnelles ne sont pas incluses ; sur demande, elles peuvent être organisées moyennant un coût supplémentaire",
+  "highlights": [
+   "Explorez le Vieux et le New Delhi, notamment la Jama Masjid et le Qutub Minar"
+  ],
+  "included": [
+   "Véhicule privé climatisé avec chauffeur expérimenté pour tout le circuit",
+   "Tous les transferts et visites selon l'itinéraire confirmé (si l'option est sélectionnée)",
+   "Guides locaux selon la ville à Delhi, Jaipur, et Agra",
+   "Hébergement dans des hôtels 5 étoiles présélectionnés (si l'option avec hôtel est sélectionnée)",
+   "Petit-déjeuner quotidien (si l'option avec hôtels est sélectionnée)",
+   "Balade en rickshaw dans le Vieux Delhi",
+   "Deux bouteilles d'eau offertes par personne et par jour dans le véhicule",
+   "Assistance locale 24h/24 et 7j/7",
+   "Toutes les taxes applicables, frais de stationnement, péages, et frais de chauffeur",
+   "Départ garanti : le circuit a lieu même avec un seul voyageur",
+   "Remarque : les guides parlant une langue spécifique sont soumis à disponibilité"
+  ],
+  "notIncluded": [
+   "Billets d'avion internationaux et nationaux, visa, et assurance voyage (recommandée)",
+   "Frais d'entrée aux monuments",
+   "Pourboires pour les guides et chauffeurs, dépenses personnelles",
+   "Tout service non explicitement mentionné dans les inclusions",
+   "Les activités optionnelles ne sont pas incluses ; sur demande, elles peuvent être organisées moyennant un coût supplémentaire"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
