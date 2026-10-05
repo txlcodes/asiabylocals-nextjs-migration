@@ -6141,6 +6141,67 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires et gratifications"
   ]
  },
+ "from-delhi-taj-mahal-agra-private-day-tour-by": {
+  "title": "Depuis Delhi : visite privée d'une journée au Taj Mahal et à Agra en train rapide",
+  "metaTitle": "Delhi-Agra en Gatimaan Express, visite privée",
+  "metaDescription": "Voyagez à bord du Gatimaan Express, le train le plus rapide de l'Inde, de Delhi à Agra.",
+  "shortDescription": "Voyagez à bord du Gatimaan Express, le train le plus rapide de l'Inde, de Delhi à Agra.",
+  "fullDescription": "Découvrez l'une des excursions d'une journée les plus emblématiques de l'Inde de la bonne manière, avec tout géré depuis le moment où nous vous prenons en charge à Delhi jusqu'au moment où votre chauffeur vous dépose à votre hôtel ce soir-là.\nVotre matinée commence entre 6h30 et 7h00, lorsque votre chauffeur privé arrive à votre hôtel à Delhi. L'heure de prise en charge dépend de la distance entre votre hôtel et la gare de Hazrat Nizamuddin. Votre chauffeur ne vous dépose pas simplement à l'extérieur. Il vous accompagne, trouve votre wagon dans le Gatimaan Express, et s'assure que vous êtes confortablement assis avant de partir. Que ce soit votre première ou dixième fois dans une gare indienne, cela ne fait aucune différence. Vous ne vous sentirez pas perdu.\nLe Gatimaan Express part à 8h10 et arrive à Agra à 9h50. C'est le train le plus rapide de l'Inde, et le voyage lui-même est fluide et agréable. Descendez du train, et votre guide et chauffeur à Agra se trouvent juste devant votre wagon à vous attendre. Pas d'appels, pas de recherche, pas de temps perdu.\nVotre premier arrêt est le Taj Mahal. Votre guide vous fait découvrir l'une des sept merveilles du monde, et va bien au-delà des bases. L'histoire d'amour, les secrets de construction, le symbolisme sculpté sur chaque surface, les techniques d'incrustation de marbre qui ne peuvent toujours pas être entièrement reproduites aujourd'hui. Vous avez le tableau complet. Après votre visite du Taj Mahal, vous vous installez pour une véritable pause déjeuner avant de continuer l'après-midi.\nLe fort d'Agra vient ensuite. Cette imposante forteresse en grès rouge a régné sur l'ensemble de l'Empire moghol pendant des générations, et il y a bien plus à explorer à l'intérieur que la plupart des visiteurs ne l'imaginent. Votre guide fait revivre l'histoire et vous emmène à l'endroit où Shah Jahan passa ses dernières années à contempler le Taj Mahal qu'il ne pouvait plus visiter.\nSi votre journée a de la place pour un arrêt supplémentaire, ajoutez le Baby Taj. Connu officiellement comme Itimad-Ud-Daulah, ce mausolée au bord de la rivière est plus calme, moins fréquenté, et rempli de certains des plus beaux travaux d'incrustation de marbre que vous verrez n'importe où à Agra. De nombreux voyageurs disent que c'était le point fort surprenant de leur journée.\nÀ 17h30, votre guide vous amène à la gare d'Agra Cantt, vous aide à trouver votre wagon, et vous installe dans votre siège à bord du Gatimaan Express de retour. Le train part à 17h50 et arrive à Delhi à 19h30. Votre chauffeur à Delhi est déjà sur le quai, vous attendant devant votre wagon, et vous emmène directement à l'endroit de votre choix à Delhi.\nExplorez deux des plus grandes villes de l'Inde en une seule journée, et revenez avec des souvenirs qui dureront bien plus longtemps que le voyage.",
+  "highlights": [
+   "Voyagez à bord du Gatimaan Express, le train le plus rapide de l'Inde, de Delhi à Agra"
+  ],
+  "included": [
+   "Service de prise en charge et retour à l'hôtel/l'aéroport",
+   "Billets de train aller-retour avec repas, Gatimaan Express",
+   "Voiture privée climatisée avec chauffeur",
+   "Services de guide touristique en direct à tous les endroits",
+   "Billets d'entrée à tous les monuments",
+   "Assistance d'entrée coupe-file",
+   "Déjeuner dans un restaurant local 5 étoiles",
+   "Bouteilles d'eau minérale",
+   "Tous les péages, stationnements, et taxes"
+  ],
+  "notIncluded": [
+   "Gratifications et pourboires (facultatifs)"
+  ]
+ },
+ "from-delhi-taj-mahal-agra-day-trip-with-jaipur": {
+  "title": "Depuis Delhi : excursion d'une journée au Taj Mahal et à Agra avec dépose à Jaipur",
+  "metaTitle": "Delhi-Agra-Jaipur : excursion en 1 jour",
+  "metaDescription": "Explorez le fascinant Taj Mahal, l'une des sept merveilles du monde.",
+  "shortDescription": "Explorez le fascinant Taj Mahal, l'une des sept merveilles du monde.",
+  "fullDescription": "Votre chauffeur vous prendra en charge à votre hôtel, l'aéroport, ou l'endroit préféré à New Delhi. Détendez-vous dans un véhicule confortable et climatisé en voyageant vers Agra via l'autoroute express Yamuna.\n\n**1. Visite du Taj Mahal**\nÀ l'arrivée à Agra, rencontrez votre guide local et explorez le magnifique Taj Mahal. Découvrez l'histoire d'amour intemporelle de l'empereur Shah Jahan et de Mumtaz Mahal tout en admirant l'époustouflante architecture en marbre et les beaux jardins.\n\n**2. Fort d'Agra**\nContinuez vers l'impressionnant fort d'Agra, un site du patrimoine mondial de l'UNESCO et ancienne résidence des empereurs moghols. Explorez ses palais, cours, et chambres royales tout en découvrant sa riche histoire.\n\n**3. Pause déjeuner**\nProfitez d'un déjeuner relaxant dans un restaurant local à Agra (à vos frais), et prenez le temps de vous rafraîchir avant de poursuivre votre voyage.\n\n**4. Visite optionnelle du Baby Taj**\nSi le temps le permet, visitez Itimad-ud-Daulah, souvent appelé le Baby Taj. Ce élégant mausolée en marbre est considéré comme un précurseur du Taj Mahal, et est connu pour son travail artistique complexe.\n\n**5. Trajet vers Jaipur**\nAprès les visites à Agra, commencez votre voyage vers Jaipur. En chemin, profitez des vues de l'Inde rurale, et faites un arrêt confort pour des rafraîchissements si nécessaire.\n\n**Dépose à Jaipur**\nArrivez à Jaipur et profitez d'une dépose à votre hôtel, l'aéroport, la gare, ou l'endroit préféré dans la ville.",
+  "highlights": [
+   "Explorez le fascinant Taj Mahal, l'une des sept merveilles du monde"
+  ],
+  "included": [
+   "Prise en charge à l'hôtel/l'aéroport depuis Delhi",
+   "Voiture privée climatisée",
+   "Guide touristique professionnel",
+   "Bouteille d'eau minérale",
+   "Frais d'entrée (si option sélectionnée)",
+   "Déjeuner 5 étoiles (si option sélectionnée)",
+   "Tout le stationnement et les taxes",
+   "Dépose à l'hôtel/l'aéroport à Jaipur"
+  ],
+  "notIncluded": []
+ },
+ "rent-a-sari-or-kurta-pajama-for-taj-mahal": {
+  "title": "Location d'un sari ou kurta pyjama pour la visite et les photos au Taj Mahal",
+  "metaTitle": "Agra : location de tenues indiennes au Taj Mahal",
+  "metaDescription": "Louez des tenues traditionnelles indiennes pour votre visite du Taj Mahal.",
+  "shortDescription": "Louez des tenues traditionnelles indiennes pour votre visite du Taj Mahal.",
+  "fullDescription": "Pour mettre en valeur votre visite du Taj Mahal, nous vous proposons des tenues traditionnelles indiennes à louer, comme des saris colorés pour les femmes et des kurta pyjamas pour les hommes. Prenez des photos incroyables au Taj Mahal en tenues traditionnelles indiennes, et partagez-les avec vos amis. Après la visite terminée, vous pouvez nous rendre les tenues.\n\nNous vous amènerons depuis votre hôtel, ou vous indiquerons l'emplacement de notre boutique où vous pourrez venir choisir votre sari préféré ou kurta pyjama, ou tout autre style de vêtement indien pour la visite du Taj Mahal.\n\nNous proposons une large gamme de saris colorés et de tenues traditionnelles indiennes masculines à des prix très économiques en location.",
+  "highlights": [
+   "Louez des tenues traditionnelles indiennes pour votre visite du Taj Mahal"
+  ],
+  "included": [
+   "Prise en charge et retour depuis l'hôtel",
+   "Saris en location pour la visite du Taj Mahal",
+   "Tenue traditionnelle indienne en location pour la visite du Taj Mahal"
+  ],
+  "notIncluded": []
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
