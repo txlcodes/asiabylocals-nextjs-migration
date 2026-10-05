@@ -21443,6 +21443,79 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "1-night-2-day-jim-corbett-national-park-tour": {
+  "title": "Circuit de 2 jours et 1 nuit au parc national de Jim Corbett depuis Delhi",
+  "metaTitle": "Jim Corbett : 2 jours et 1 nuit depuis Delhi",
+  "metaDescription": "Safaris de faune sauvage au parc national de Jim Corbett.",
+  "shortDescription": "Safaris de faune sauvage au parc national de Jim Corbett.",
+  "fullDescription": "Circuit de 2 jours et 1 nuit au parc national de Jim Corbett depuis Delhi. Safaris de faune sauvage au parc national de Jim Corbett.\n\n**Ce qui est inclus**\nPrise en charge et retour\nVoiture privée climatisée pour toute l'activité\nGuide touristique professionnel\nEau minérale en bouteille\nTous les péages et frais de stationnement\nHébergement à l'hôtel 3 étoiles avec petit-déjeuner\nHôtel 4 étoiles\n\n**Non inclus**\nBillets d'entrée\nDéjeuner et dîner\nToute dépense personnelle\nJeep et canter selon votre choix",
+  "highlights": [
+   "Safaris de faune sauvage au parc national de Jim Corbett"
+  ],
+  "included": [
+   "Prise en charge et retour",
+   "Voiture privée climatisée pour toute l'activité",
+   "Guide touristique professionnel",
+   "Eau minérale en bouteille",
+   "Tous les péages et frais de stationnement",
+   "Hébergement à l'hôtel 3 étoiles avec petit-déjeuner",
+   "Hôtel 4 étoiles"
+  ],
+  "notIncluded": [
+   "Billets d'entrée",
+   "Déjeuner et dîner",
+   "Toute dépense personnelle",
+   "Jeep et canter selon votre choix"
+  ]
+ },
+ "delhi-7-day-golden-triangle-with-haridwar": {
+  "title": "Delhi : circuit du Triangle d'or de 7 jours avec Haridwar et Rishikesh",
+  "metaTitle": "Delhi : Triangle d'or 7 jours, Haridwar-Rishikesh",
+  "metaDescription": "Assistez à la vue majestueuse du lever du soleil sur le Taj Mahal à Agra.",
+  "shortDescription": "Assistez à la vue majestueuse du lever du soleil sur le Taj Mahal à Agra.",
+  "fullDescription": "Delhi : circuit du Triangle d'or de 7 jours avec Haridwar et Rishikesh. Assistez à la vue majestueuse du lever du soleil sur le Taj Mahal à Agra.\n\n**Jour 1 : arrivée à Delhi, route vers Agra**\nArrivez à Delhi, et rencontrez notre représentant, qui vous assistera pour la route vers Agra. En chemin, profitez des vues pittoresques, et enregistrez-vous à votre hôtel à l'arrivée. En soirée, visitez Mehtab Bagh pour une magnifique vue du coucher de soleil sur le Taj Mahal. Nuit à Agra.\n\n**Jour 2 : Agra, Jaipur**\nTôt le matin, visitez le Taj Mahal à couper le souffle au lever du soleil. Plus tard, explorez le fort d'Agra, et profitez d'un peu de shopping local. Après le déjeuner, route vers Jaipur, la ville rose de l'Inde. En chemin, arrêtez-vous à Fatehpur Sikri, un site du patrimoine mondial de l'UNESCO. Enregistrement à votre hôtel de Jaipur pour la nuit.\n\n**Jour 3 : Jaipur, visites locales**\nAprès le petit-déjeuner, explorez le patrimoine royal de Jaipur. Visitez le fort Amber, le City Palace, le Jantar Mantar, et le Hawa Mahal. Profitez d'un arrêt photo au Jal Mahal. En soirée, promenez-vous dans les bazars colorés pour de l'artisanat et des bijoux. Retour à votre hôtel pour une nuit reposante.\n\n**Jour 4 : Jaipur, Delhi**\nAprès le petit-déjeuner, route de retour vers Delhi. À l'arrivée, enregistrement à votre hôtel, et repos. En soirée, vous pourrez explorer India Gate, Connaught Place, ou faire une promenade tranquille dans les rues animées de Delhi. Nuit à Delhi.\n\n**Jour 5 : Delhi, Haridwar**\nAprès le petit-déjeuner, route vers Haridwar, une ville sacrée sur les rives du Gange. Visitez Har Ki Pauri, et assistez à l'envoûtante Ganga Aarti du soir. Explorez les temples locaux et le bazar animé. Nuit à Haridwar.\n\n**Jour 6 : excursion d'une journée à Rishikesh**\nAprès le petit-déjeuner, profitez d'une excursion d'une journée à Rishikesh. Visitez Laxman Jhula, Ram Jhula, et l'Ashram des Beatles. Vivez la paisible Ganga Aarti à Parmarth Niketan. Retour à Haridwar en soirée pour la nuit.\n\n**Jour 7 : Haridwar, Delhi**\nAprès le petit-déjeuner, route de retour vers Delhi. À l'arrivée, vous serez déposé à votre hôtel ou à l'aéroport pour la suite de votre voyage, avec de merveilleux souvenirs de votre périple dans le Nord de l'Inde.\n\n**Ce qui est inclus**\nHébergement dans des hôtels 3, 4, ou 5 étoiles avec petit-déjeuner quotidien.\nVoiture privée confortable et climatisée avec chauffeur professionnel.\nToutes les visites touristiques et transferts selon l'itinéraire.\nGuides locaux anglophones expérimentés sur les principales attractions.\nAssistance à l'arrivée et au départ par l'équipe de Gets Holiday India Tour.\nEau en bouteille offerte pendant le voyage.",
+  "highlights": [
+   "Assistez à la vue majestueuse du lever du soleil sur le Taj Mahal à Agra"
+  ],
+  "included": [
+   "Hébergement dans des hôtels 3, 4, ou 5 étoiles avec petit-déjeuner quotidien",
+   "Voiture privée confortable et climatisée avec chauffeur professionnel",
+   "Toutes les visites touristiques et transferts selon l'itinéraire",
+   "Guides locaux anglophones expérimentés sur les principales attractions",
+   "Assistance à l'arrivée et au départ par l'équipe de Gets Holiday India Tour",
+   "Eau en bouteille offerte pendant le voyage"
+  ],
+  "notIncluded": [
+   "Frais d'entrée aux monuments",
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "4-day-golden-triangle-tour-with-ranthambore-tiger": {
+  "title": "Circuit du Triangle d'or de 4 jours avec safari aux tigres de Ranthambore",
+  "metaTitle": "Triangle d'or 4 jours avec Ranthambore",
+  "metaDescription": "Explorez le Triangle d'or emblématique de l'Inde : Delhi, Agra, et Jaipur en seulement 4 jours.",
+  "shortDescription": "Explorez le Triangle d'or emblématique de l'Inde : Delhi, Agra, et Jaipur en seulement 4 jours.",
+  "fullDescription": "Circuit du Triangle d'or de 4 jours avec safari aux tigres de Ranthambore. Explorez le Triangle d'or emblématique de l'Inde : Delhi, Agra, et Jaipur en seulement 4 jours.\n\nExplorez Delhi, Agra, et Jaipur lors d'un circuit du Triangle d'or de 4 jours avec safari aux tigres de Ranthambore. Voyez le Taj Mahal, des forts royaux, une culture vibrante, et des rencontres passionnantes avec la faune sauvage.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel ou à l'aéroport\nVoiture privée climatisée pour toute l'activité du circuit, avec chauffeur\nGuide touristique professionnel dans chaque ville\nHébergement à l'hôtel pour 3 nuits (si l'option est sélectionnée)\nPetit-déjeuner à l'hôtel\nBouteille d'eau minérale\nTous les péages et frais de stationnement",
+  "highlights": [
+   "Explorez le Triangle d'or emblématique de l'Inde : Delhi, Agra, et Jaipur en seulement 4 jours"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée pour toute l'activité du circuit, avec chauffeur",
+   "Guide touristique professionnel dans chaque ville",
+   "Hébergement à l'hôtel pour 3 nuits (si l'option est sélectionnée)",
+   "Petit-déjeuner à l'hôtel",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Safari en jeep/cantor",
+   "Déjeuner et dîner",
+   "Billets d'entrée",
+   "Toute dépense personnelle"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
