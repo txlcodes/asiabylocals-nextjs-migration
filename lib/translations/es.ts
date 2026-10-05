@@ -2124,6 +2124,75 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "5-days-of-indias-golden-triangle-wild-ranthambore": {
+  "title": "5 días del Triángulo Dorado de la India y safari salvaje en Ranthambore",
+  "metaTitle": "Triángulo Dorado y Ranthambore, 5 días",
+  "metaDescription": "Ofrecemos soporte al cliente 24/7.",
+  "shortDescription": "Ofrecemos soporte al cliente 24/7.",
+  "fullDescription": "Descubra el Triángulo Dorado de la India combinado con un safari salvaje en el Parque Nacional de Ranthambore en este viaje de 5 días. Disfrute de 4 noches de alojamiento en hoteles de 4 estrellas, guías locales de habla inglesa, y un safari de tigres en Jeep o Canter compartido. Ofrecemos soporte al cliente 24/7 durante todo su viaje.",
+  "highlights": [
+   "Ofrecemos soporte al cliente 24/7"
+  ],
+  "included": [
+   "Alojamiento: 4 noches en hoteles de 4 estrellas (solo con la opción de tour)",
+   "Comidas: desayuno diario en el hotel (solo con la opción de tour)",
+   "Transporte: vehículo con aire acondicionado para todos los traslados y avistamientos",
+   "Tours guiados: guías locales de habla inglesa para los principales avistamientos",
+   "Tarifas de entrada: tarifas de entrada a monumentos y atracciones (solo con la opción de tour)",
+   "Safaris de tigres en Jeep/Canter compartido (vehículo según disponibilidad)",
+   "Todos los impuestos y cargos de servicio aplicables",
+   "Asistencia durante todo el tour 24/7",
+   "Se proporcionará botella de agua durante el viaje",
+   "WiFi a bordo"
+  ],
+  "notIncluded": [
+   "Gastos personales: cualquier gasto personal como propinas, recuerdos, comidas o bebidas adicionales, y compras",
+   "Actividades opcionales",
+   "Propinas para el guía, conductor, o personal del hotel",
+   "Comidas: almuerzo y cena"
+  ]
+ },
+ "delhi-qutub-minar-skip-the-line-guided-tour-with": {
+  "title": "Delhi: tour guiado de Qutub Minar sin colas con recogida",
+  "metaTitle": "Delhi: Qutub Minar, sin colas",
+  "metaDescription": "Evite las largas filas de boletos y entre al complejo de Qutub Minar sin esperar.",
+  "shortDescription": "Evite las largas filas de boletos y entre al complejo de Qutub Minar sin esperar.",
+  "fullDescription": "**1. Recogida en su ubicación**\nSu experiencia comienza con una cómoda recogida en su hotel, aeropuerto, o cualquier lugar preferido en Delhi. Relájese en un vehículo con aire acondicionado mientras se dirige hacia el sur de Delhi con su guía local con licencia.\n\n**2. Entrada sin colas en Qutub Minar**\nEvite las largas filas y entre directamente al Sitio del Patrimonio Mundial de la UNESCO. Su guía le presenta el complejo de Qutub, estableciendo el escenario con historias del período temprano del Sultanato de Delhi.\n\n**3. Caminata guiada por el complejo de Qutub**\nExplore el imponente Qutub Minar, el minarete de ladrillo más alto del mundo, mientras aprende sobre su construcción, simbolismo, e inscripciones centenarias. Camine por monumentos históricos como la Mezquita Quwwat-ul-Islam, Alai Darwaza, y el famoso Pilar de Hierro, conocido por su misterio de resistencia a la óxido.\n\n**4. Fotografía y tiempo libre**\nDisfrute de tiempo para capturar fotos de los intrincados tallados del minarete y su entorno de jardín pacífico. Su guía puede sugerir los mejores ángulos y puntos de vista.\n\n**5. Perspectivas locales e historias culturales**\nEscuche leyendas fascinantes, detalles arquitectónicos, y hechos menos conocidos que dan vida al sitio, ofreciendo una comprensión más profunda más allá de las guías turísticas.\n\n**6. Traslado de regreso**\nDespués del tour, relájese y disfrute de un trayecto fluido de regreso a su hotel o punto de traslado elegido, concluyendo su experiencia patrimonial de Delhi sin complicaciones.",
+  "highlights": [
+   "Evite las largas filas de boletos y entre al complejo de Qutub Minar sin esperar"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto",
+   "Auto privado con aire acondicionado para el traslado con conductor",
+   "Guía turístico experto aprobado por el gobierno",
+   "Boletos de entrada a Qutub Minar (si se selecciona la opción)",
+   "Botella de agua mineral",
+   "Todos los peajes y estacionamiento"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
+  ]
+ },
+ "agra-taj-mahal-skip-the-line-guided-tour-by": {
+  "title": "Agra: tour guiado del Taj Mahal sin colas en auto",
+  "metaTitle": "Agra: Taj Mahal, sin colas, auto",
+  "metaDescription": "Explore el Taj Mahal y el Fuerte de Agra en un tour guiado con un guía local.",
+  "shortDescription": "Explore el Taj Mahal y el Fuerte de Agra en un tour guiado con un guía local.",
+  "fullDescription": "Comience su día con una conveniente recogida en el hotel/aeropuerto o cualquier lugar solicitado en la ciudad de Agra, conozca a su guía turístico y proceda a visitar el Taj Mahal.\n\nEl Taj Mahal, un Sitio del Patrimonio Mundial de la UNESCO y uno de los monumentos más icónicos del mundo. Acompañado de un guía competente, explore la belleza e historia de este monumento construido por el emperador Shah Jahan en memoria de su esposa, Mumtaz Mahal.\n\nTome un descanso y disfrute de un delicioso almuerzo o desayuno en un restaurante local, donde puede probar algunos de los platos famosos de Agra y los sabores tradicionales indios.\n\nA continuación, diríjase al Fuerte de Agra, otro sitio de la UNESCO y un ejemplo majestuoso de la arquitectura mogol. Construido por el emperador Akbar en 1565, el fuerte ofrece una mezcla única de estilos arquitectónicos hindúes y musulmanes. Este solía ser el hogar de los emperadores mogoles antes de que Delhi se convirtiera en la capital mogol.\n\nDespués de un día memorable explorando los monumentos icónicos de Agra, su guía lo acompañará de regreso a su hotel o lugar de traslado en Agra.",
+  "highlights": [
+   "Explore el Taj Mahal y el Fuerte de Agra en un tour guiado con un guía local"
+  ],
+  "included": [
+   "Recogida y traslado en auto dentro de Agra",
+   "Guía turístico",
+   "Tarifas de entrada a los monumentos (si se selecciona la opción)",
+   "Botella de agua",
+   "Cubrezapatos"
+  ],
+  "notIncluded": [
+   "Almuerzo"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
