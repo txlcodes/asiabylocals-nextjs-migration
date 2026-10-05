@@ -1308,6 +1308,74 @@ export const FR_TOURS: Record<string, TourT> = {
    "Alcool"
   ]
  },
+ "from-agra-full-day-agra-private-tour-with-tickets": {
+  "title": "Depuis Agra : visite privée d'une journée complète d'Agra, avec billets et guide",
+  "metaTitle": "Agra : visite privée journée complète, billets et guide",
+  "metaDescription": "Explorez les meilleurs sites du patrimoine mondial de l'UNESCO d'Agra avec un guide local professionnel.",
+  "shortDescription": "Explorez les meilleurs sites du patrimoine mondial de l'UNESCO d'Agra avec un guide local professionnel.",
+  "fullDescription": "**1. Prise en charge à l'hôtel ou au lieu souhaité à Agra**\nVotre chauffeur et guide privés vous prendront en charge à votre hôtel, gare, ou tout lieu préféré à Agra dans un véhicule climatisé.\n\n**2. Visite du Taj Mahal**\nCommencez votre journée au Taj Mahal à couper le souffle, l'une des Sept Merveilles du Monde. Découvrez l'histoire d'amour derrière sa création et admirez son impressionnante architecture en marbre tandis que votre guide partage des informations fascinantes.\n\n**3. Explorez le fort d'Agra**\nEnsuite, visitez le magnifique fort d'Agra, un site du patrimoine mondial de l'UNESCO et la résidence royale des empereurs moghols. Promenez-vous à travers de grandes salles, cours, et tours offrant de belles vues sur le Taj Mahal.\n\n**4. Déjeuner dans un hôtel 5 étoiles**\nProfitez d'un délicieux déjeuner buffet dans un hôtel 5 étoiles.\n\n**5. Visitez Itmad-ud-Daulah (Baby Taj)**\nContinuez vers l'élégant tombeau d'Itmad-ud-Daulah, souvent appelé le « Baby Taj ». Admirez son travail complexe d'incrustation en marbre et ses jardins paisibles.\n\n**6. Vue du coucher de soleil à Mehtab Bagh (optionnel)**\nTerminez votre journée par une vue sereine sur le Taj Mahal depuis Mehtab Bagh, à travers la rivière Yamuna, un endroit parfait pour les photos, surtout au coucher du soleil.\n\n**7. Dépôt à votre hôtel ou lieu à Agra**\nVotre chauffeur vous déposera à votre hôtel ou à tout lieu choisi, marquant la fin de votre expérience mémorable à Agra.",
+  "highlights": [
+   "Explorez les meilleurs sites du patrimoine mondial de l'UNESCO d'Agra avec un guide local professionnel"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel/aéroport",
+   "Voiture privée climatisée pour toute l'activité du tour avec chauffeur",
+   "Guide touristique professionnel",
+   "Billets d'entrée aux monuments (si option sélectionnée)",
+   "Déjeuner dans un hôtel 5 étoiles (si option sélectionnée)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et le stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "agra-taj-mahal-skip-the-line-and-agra-fort": {
+  "title": "Agra : Taj Mahal sans file d'attente et fort d'Agra",
+  "metaTitle": "Agra : Taj Mahal sans file et fort d'Agra",
+  "metaDescription": "Profitez au maximum de votre temps à Agra avec un billet sans file d'attente pour le Taj Mahal.",
+  "shortDescription": "Profitez au maximum de votre temps à Agra avec un billet sans file d'attente pour le Taj Mahal.",
+  "fullDescription": "Découvrez le meilleur de la visite privée de la ville d'Agra avec une prise en charge confortable à votre hôtel, aéroport, ou gare à Agra. Voyagez dans une voiture privée climatisée avec un chauffeur professionnel et rencontrez votre guide expert pour une visite inoubliable du Taj Mahal mondialement célèbre. Découvrez sa beauté intemporelle, son histoire fascinante, et capturez des photos impressionnantes de ce symbole emblématique de l'amour.\n\nContinuez votre visite guidée vers le majestueux fort d'Agra, un site du patrimoine mondial de l'UNESCO construit par l'empereur moghol Akbar. Explorez ses grands palais, cours royales, et profitez d'une vue unique sur le Taj Mahal depuis le complexe historique du fort.\n\nAprès avoir exploré les monuments patrimoniaux d'Agra, détendez-vous et profitez du déjeuner dans un restaurant multi-cuisine hygiénique.\n\nTerminez votre visite d'Agra le même jour par un dépôt confortable à votre lieu préféré. Cette visite privée guidée est idéale pour les voyageurs recherchant une expérience détendue et riche en patrimoine avec un service personnalisé, des horaires flexibles, et des transferts fluides.",
+  "highlights": [
+   "Profitez au maximum de votre temps à Agra avec un billet sans file d'attente pour le Taj Mahal"
+  ],
+  "included": [
+   "Transport en voiture privée climatisée",
+   "Prise en charge et retour à l'hôtel",
+   "Guide touristique privé en direct",
+   "Frais d'entrée aux monuments (si option sélectionnée)",
+   "Déjeuner buffet dans un hôtel 5 étoiles (si option sélectionnée)",
+   "Eau en bouteille",
+   "Toutes les taxes"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Pourboires pour le chauffeur et le guide"
+  ]
+ },
+ "from-agra-taj-mahal-moonlight-tour-with-agra": {
+  "title": "Depuis Agra : visite du Taj Mahal au clair de lune avec visite de la ville d'Agra",
+  "metaTitle": "Agra : Taj Mahal au clair de lune, visite de ville",
+  "metaDescription": "Émerveillez-vous devant le Taj Mahal sous un clair de lune enchanteur.",
+  "shortDescription": "Émerveillez-vous devant le Taj Mahal sous un clair de lune enchanteur.",
+  "fullDescription": "**Itinéraire de la visite, visite nocturne du Taj Mahal**\n\n**7h00 – prise en charge à l'hôtel (Agra)**\nRencontrez votre chauffeur et guide local pour commencer votre visite du Taj Mahal au clair de lune depuis Agra.\n\n**7h30 – Taj Mahal (visite matinale, optionnelle)**\nExplorez le Taj Mahal à la lumière du jour et découvrez son histoire et son architecture. (Vous pouvez ignorer cette étape si vous préférez uniquement la visite nocturne.)\n\n**9h30 – petit-déjeuner**\n\n**10h30 – fort d'Agra (site de l'UNESCO)**\nDécouvrez les palais et cours moghols avec des vues sur le Taj Mahal.\n\n**12h30 – déjeuner**\nProfitez d'une authentique cuisine moghole dans un restaurant local.\n\n**14h00 – Baby Taj (Itmad-ud-Daulah)**\nVisitez l'élégant tombeau en marbre connu comme l'inspiration du Taj Mahal.\n\n**15h30 – Mehtab Bagh**\nVues parfaites du coucher de soleil et point de photographie avant la visite nocturne du Taj Mahal.\n\n**17h30 – retour à l'hôtel / repos / dîner anticipé**\n\n**Nuit – visite du Taj Mahal à la pleine lune**\n\n**19h30 – rendez-vous au parking de Shilpgram (porte est)**\nMunissez-vous de votre pièce d'identité et de votre billet de vue nocturne.\n\n**20h30 – observation du Taj Mahal au clair de lune**\nProfitez de la visite nocturne à couper le souffle du Taj Mahal alors que le monument brille sous le clair de lune.\n\n**21h30 – retour à l'hôtel**",
+  "highlights": [
+   "Émerveillez-vous devant le Taj Mahal sous un clair de lune enchanteur"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel à Agra",
+   "Véhicule privé de luxe climatisé avec chauffeur",
+   "Guide professionnel agréé par le gouvernement",
+   "Billets d'entrée aux monuments (visite de jour et de nuit) (si option sélectionnée)",
+   "Billet réservé à l'avance pour la visite nocturne au clair de lune du Taj Mahal (si option sélectionnée)",
+   "Déjeuner (si option sélectionnée)",
+   "Tout le stationnement, les péages, et les taxes"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
