@@ -24850,6 +24850,85 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le chauffeur et le guide"
   ]
  },
+ "from-delhi-4-day-luxury-golden-triangle": {
+  "title": "Depuis Delhi : Triangle d'or de luxe de 4 jours et safari à Ranthambore",
+  "metaTitle": "Delhi : Triangle d'or de luxe 4 jours, Ranthambore",
+  "metaDescription": "Explorez 4 villes patrimoniales en 4 jours",
+  "shortDescription": "Explorez 4 villes patrimoniales en 4 jours",
+  "fullDescription": "Depuis Delhi : Triangle d'or de luxe de 4 jours et safari à Ranthambore. Explorez 4 villes patrimoniales en 4 jours.\n\n**Jour 1 – explorez Delhi et conduisez vers Agra**\n\nVous serez pris en charge le matin par notre chauffeur à l'aéroport/l'hôtel. Dirigez-vous vers l'une des plus grandes mosquées d'Inde, la Jama Masjid. Après avoir exploré la mosquée, profitez d'une balade en rickshaw à travers une rue étroite du marché de Chandni Chowk.\nVous passerez devant le Fort Rouge, construit par Shah Jahan en 1648. Puis vous atteindrez le mémorial du Mahatma Gandhi. Voyez India Gate et les bâtiments présidentiels lors du passage en voiture. Visitez ensuite le Guru Dwara (temple sikh). Ici, vous pourrez visiter la cuisine où des milliers de personnes sont nourries chaque jour. Visitez le Qutub Minar, la plus longue tour en briques d'Inde. Puis visitez le temple du Lotus, appelé temple de culte bahá'í. Après ces visites, prenez la route vers Agra.\nNuit à Agra\n\n**Jour 2 – explorez Agra et conduisez vers Ranthambore**\n\nTôt le matin, vous serez pris en charge à l'hôtel pour visiter le Taj Mahal avec votre guide au lever du soleil, afin d'admirer la beauté ravissante du monument le plus célèbre d'Inde, puis vous reviendrez à l'hôtel.\nAprès le petit-déjeuner, visitez le fort d'Agra, résidence de la famille royale moghole. L'un des plus grands forts d'Inde. Puis dirigez-vous vers Ranthambore. En chemin, visitez le fort de Fatehpur Sikri. Nuit à Ranthambore.\n\n**Jour 3 – profitez de la réserve de tigres de Ranthambore et conduisez vers Jaipur**\n\nTôt le matin, un véhicule de brousse vous emmènera dans la réserve de tigres, où vous aurez la chance d'apercevoir un tigre. Outre le tigre, le parc national de Ranthambore est réputé pour les léopards, les chacals, les crocodiles, les renards, les antilopes, les oiseaux, etc. Après la visite de la jungle, retour à l'hôtel. Prenez le petit-déjeuner et quittez l'hôtel. Puis route vers Jaipur. Enregistrement à l'hôtel. Après vous être rafraîchi, visitez le temple Birla, dont la structure est en marbre entièrement blanc. Il est dédié au dieu hindou Vishnu. Puis découvrez l'art local de Jaipur.\nNuit à Jaipur.\n\n**Jour 4 – explorez Jaipur et départ**\n\nCe matin, votre guide vous emmènera découvrir la ville rose (Jaipur). Commencez vos visites par le fort Amber. Il est connu pour son mélange d'architecture indo-islamique, de peintures dorées, de travail en miroir, et d'architecture européenne également. Après cela, arrêtez-vous pour des photos du Jal Mahal. Jal Mahal signifie palais de l'eau ; ce palais flottant est situé au milieu du lac Man Sagar à Jaipur. Explorez le Hawa Mahal, Palais des Vents, dont les hauts murs en treillis ont été construits afin que les femmes de la maison royale puissent observer les festivals de rue sans être vues de l'extérieur. Visitez ensuite le City Palace, qui fut le siège des Maharajas de Jaipur, construit en 1727 apr. J.-C. par Sawai Jai Singh. Une grande partie du palais a été transformée en musée royal, où l'on peut voir la collection privée des Maharajas de Jaipur. Après cela, explorez le Jantar Mantar, une collection de dix-neuf instruments astronomiques architecturaux construits par le roi rajpoute Sawai Jay Singh, et achevés en 1734 apr. J.-C. Vous y découvrirez le plus grand cadran solaire en pierre du monde, un site du patrimoine mondial de l'UNESCO. Puis explorez l'art local de la ville de Jaipur.\n\nAprès avoir profité de ces 4 jours, le chauffeur vous ramènera à Delhi et vous déposera à votre lieu de résidence.\nFin du circuit ! Gardez ces souvenirs dans votre cœur !\n\n**Ce qui est inclus**\nPrise en charge et retour à votre hôtel\nVoiture privée climatisée, SUV ou berline, avec chauffeur professionnel\nService de guide touristique en direct\nBalade en rickshaw au marché de Chandni Chowk\nSafari matinal aux tigres dans le parc national de Ranthambore, en jeep partagée ou canter (si l'option est sélectionnée)\nHôtel 3 étoiles avec petit-déjeuner quotidien (si l'option est sélectionnée)\nHôtel 4 étoiles avec petit-déjeuner quotidien (si l'option est sélectionnée)\nHôtel 5 étoiles avec petit-déjeuner quotidien (si l'option hôtel 5 étoiles est sélectionnée)\nFrais d'entrée aux monuments (si l'option est sélectionnée)\nEau illimitée\nWi-Fi gratuit dans la voiture\nPanier de collations dans la voiture\n\n**Non inclus**\nTout autre repas et service supplémentaire\nDéjeuner/dîner",
+  "highlights": [
+   "Explorez 4 villes patrimoniales en 4 jours"
+  ],
+  "included": [
+   "Prise en charge et retour à votre hôtel",
+   "Voiture privée climatisée, SUV ou berline, avec chauffeur professionnel",
+   "Service de guide touristique en direct",
+   "Balade en rickshaw au marché de Chandni Chowk",
+   "Safari matinal aux tigres dans le parc national de Ranthambore, en jeep partagée ou canter (si l'option est sélectionnée)",
+   "Hôtel 3 étoiles avec petit-déjeuner quotidien (si l'option est sélectionnée)",
+   "Hôtel 4 étoiles avec petit-déjeuner quotidien (si l'option est sélectionnée)",
+   "Hôtel 5 étoiles avec petit-déjeuner quotidien (si l'option hôtel 5 étoiles est sélectionnée)",
+   "Frais d'entrée aux monuments (si l'option est sélectionnée)",
+   "Eau illimitée",
+   "Wi-Fi gratuit dans la voiture",
+   "Panier de collations dans la voiture"
+  ],
+  "notIncluded": [
+   "Tout autre repas et service supplémentaire",
+   "Déjeuner/dîner"
+  ]
+ },
+ "2-day-agra-overnight-tour-from-delhi-by-car": {
+  "title": "Circuit de 2 jours avec nuitée à Agra depuis Delhi en voiture",
+  "metaTitle": "Delhi-Agra : 2 jours, nuitée, voiture",
+  "metaDescription": "Profitez d'un circuit privé relaxant de 2 jours avec nuitée, de Delhi à Agra.",
+  "shortDescription": "Profitez d'un circuit privé relaxant de 2 jours avec nuitée, de Delhi à Agra.",
+  "fullDescription": "Circuit de 2 jours avec nuitée à Agra depuis Delhi en voiture. Profitez d'un circuit privé relaxant de 2 jours avec nuitée, de Delhi à Agra.\n\n**Itinéraire détaillé :**\n\n**Jour 1 – Delhi - Agra | Petit Taj et Mehtab Bagh**\n\n**Prise en charge à Delhi** : commencez votre voyage par une prise en charge pratique à votre hôtel, l'aéroport, la gare, ou tout autre endroit préféré à Delhi, Noida, ou Gurugram. Détendez-vous dans votre véhicule privé climatisé tandis que votre chauffeur professionnel vous conduit à Agra via l'autoroute Yamuna.\n\nRemarque : les clients peuvent modifier l'itinéraire selon leur convenance.\n\n**Arrivée à Agra** : à votre arrivée, retrouvez votre guide local expérimenté, qui vous accompagnera tout au long de vos visites et partagera de fascinantes histoires sur le riche patrimoine moghol d'Agra.\n\n**Enregistrement à l'hôtel** : après les visites, enregistrez-vous à votre hôtel et profitez d'un peu de temps libre pour vous détendre ou vous rafraîchir avant votre excursion en soirée.\n\n**Options d'hôtel** :\nHôtel 3 étoiles : Taj Villas et Golden Tulip ou similaire\nHôtel 4 étoiles : Clarks Shiraz et Grand Mercure ou similaire\nHôtel 5 étoiles : Radisson et Courtyard by Marriott ou similaire\n\nRemarque : l'hébergement est soumis à disponibilité. Si l'hôtel listé n'est pas disponible, un hôtel similaire de la même catégorie d'étoiles sera fourni.\n\n**Visite du Petit Taj (Itmad-ud-Daulah)** : visitez le magnifique Itmad-ud-Daulah, communément appelé le Petit Taj. Admirez son travail de marqueterie en marbre complexe et son élégante architecture moghole, qui a inspiré la conception du Taj Mahal.\n\n**Coucher de soleil à Mehtab Bagh** : continuez vers Mehtab Bagh, un paisible jardin au bord de la rivière offrant des vues panoramiques spectaculaires sur le Taj Mahal. C'est l'endroit idéal pour se détendre et capturer des photographies mémorables, surtout sous la douce lumière du soir. Nuit à Agra.\n\n**Jour 2 – Taj Mahal, fort d'Agra, Fatehpur Sikri, Delhi**\n\n**Visite au lever du soleil au Taj Mahal** : commencez votre journée tôt avec une visite au lever du soleil du célèbre Taj Mahal. Découvrez le monument sous la douce lumière matinale tandis que votre guide explique sa fascinante histoire, son architecture remarquable, et l'intemporelle histoire d'amour entre l'empereur Shah Jahan et Mumtaz Mahal. Profitez de suffisamment de temps pour explorer les jardins et capturer de superbes photographies avant l'arrivée des foules.\n\n**Petit-déjeuner à l'hôtel** : retour à votre hôtel pour un petit-déjeuner fraîchement préparé avant le départ.\n\n**Visite du fort d'Agra** : continuez vers le magnifique fort d'Agra, un site du patrimoine mondial de l'UNESCO et ancienne résidence des empereurs moghols. Explorez ses impressionnants palais, cours royales, salles d'audience, et pavillons en marbre, tout en découvrant le glorieux passé de l'empire.\n\n**Trajet vers Fatehpur Sikri et exploration** : découvrez les merveilles architecturales de ce site du patrimoine mondial de l'UNESCO, notamment le Buland Darwaza, la Jama Masjid, la tombe de Sheikh Salim Chishti, le Panch Mahal, le Diwan-i-Khas, le Diwan-i-Aam, et le palais de Jodha Bai. Votre guide donnera vie à la fascinante histoire de la ville et à son héritage royal.\n\n**Retour vers Delhi** : détendez-vous dans votre véhicule privé climatisé tandis que vous retournez vers Delhi via l'autoroute Yamuna. Arrivée à Delhi et dépôt pratique à votre hôtel, l'aéroport, la gare, ou tout autre endroit préféré.\n\n**Ce qui est inclus**\nVéhicule climatisé de Delhi à Agra et retour à Delhi\n1 à 2 personnes : berline 4 places\n3 à 5 personnes : SUV 6 places\n6 à 10 personnes : minivan de luxe 10 places\nVéhicule climatisé de Delhi à Agra et retour à Delhi\nGuide touristique professionnel à Agra et Fatehpur Sikri\nVoiturettes de golf électriques du parking jusqu'au Taj Mahal\nVisites selon l'itinéraire\nEau en bouteille pendant la visite\nHébergement (si l'option est sélectionnée)\nToutes les taxes applicables et frais de stationnement\nTemps libre pour les photos et la découverte de l'artisanat local",
+  "highlights": [
+   "Profitez d'un circuit privé relaxant de 2 jours avec nuitée, de Delhi à Agra"
+  ],
+  "included": [
+   "Véhicule climatisé de Delhi à Agra et retour à Delhi",
+   "1 à 2 personnes : berline 4 places",
+   "3 à 5 personnes : SUV 6 places",
+   "6 à 10 personnes : minivan de luxe 10 places",
+   "Véhicule climatisé de Delhi à Agra et retour à Delhi",
+   "Guide touristique professionnel à Agra et Fatehpur Sikri",
+   "Voiturettes de golf électriques du parking jusqu'au Taj Mahal",
+   "Visites selon l'itinéraire",
+   "Eau en bouteille pendant la visite",
+   "Hébergement (si l'option est sélectionnée)",
+   "Toutes les taxes applicables et frais de stationnement",
+   "Temps libre pour les photos et la découverte de l'artisanat local"
+  ],
+  "notIncluded": [
+   "Tout pourboire pour le chauffeur et le guide",
+   "Toute dépense personnelle",
+   "Billets d'entrée aux monuments"
+  ]
+ },
+ "private-5-days-historical-golden-triangle-tour": {
+  "title": "Circuit historique privé du Triangle d'or de 5 jours depuis Delhi",
+  "metaTitle": "Delhi : Triangle d'or historique, 5 jours",
+  "metaDescription": "Explorez le Qutub Minar, la tombe de Humayun, India Gate, le temple du Lotus.",
+  "shortDescription": "Explorez le Qutub Minar, la tombe de Humayun, India Gate, le temple du Lotus.",
+  "fullDescription": "Circuit historique privé du Triangle d'or de 5 jours depuis Delhi. Explorez le Qutub Minar, la tombe de Humayun, India Gate, le temple du Lotus.\n\nDécouvrez un circuit privé du Triangle d'or de 5 jours depuis Delhi. Visitez Delhi, Agra, et Jaipur avec des visites guidées du Taj Mahal, du fort Amber, et plus encore. Voyage confortable et expérience personnalisée.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel/l'aéroport\nVoiture privée climatisée pour toute l'activité du circuit, avec chauffeur\nGuide touristique professionnel dans chaque ville\nHébergement de 4 nuits avec petit-déjeuner (si l'option est sélectionnée)\nBillets d'entrée aux monuments (si l'option est sélectionnée)\nBouteille d'eau minérale\nTous les péages et frais de stationnement\n\n**Non inclus**\nToute dépense personnelle",
+  "highlights": [
+   "Explorez le Qutub Minar, la tombe de Humayun, India Gate, le temple du Lotus"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel/l'aéroport",
+   "Voiture privée climatisée pour toute l'activité du circuit, avec chauffeur",
+   "Guide touristique professionnel dans chaque ville",
+   "Hébergement de 4 nuits avec petit-déjeuner (si l'option est sélectionnée)",
+   "Billets d'entrée aux monuments (si l'option est sélectionnée)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
