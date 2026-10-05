@@ -27796,6 +27796,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "from-delhi-elephant-conservation-and-care-centre": {
+  "title": "Depuis Delhi : centre de conservation et de soins des éléphants, faune sauvage",
+  "metaTitle": "Depuis Delhi : centre de conservation des éléphants",
+  "metaDescription": "Profitez d'un circuit flexible avec chauffeur privé et transport climatisé vers le centre de conservation des éléphants.",
+  "shortDescription": "Profitez d'un circuit flexible avec chauffeur privé et transport climatisé",
+  "fullDescription": "Depuis Delhi : centre de conservation et de soins des éléphants, faune sauvage. Profitez d'un circuit flexible avec chauffeur privé et transport climatisé.\n\nNotre chauffeur viendra vous chercher à l'hôtel/l'aéroport à Delhi/Gurgaon/Noida.\n\nVous serez ensuite conduit vers le centre de conservation et de soins des éléphants (Mathura). Projet de Wildlife SOS, le « centre de conservation et de soins des éléphants » a été créé en 2010 en collaboration avec le gouvernement de l'état. Les éléphants hébergés dans le centre de soins ont été secourus de situations épouvantables, certains ayant été forcés à travailler durement dans des conditions difficiles sans aucune sécurité ni soin.\n\nAyez la chance de voir ces mammifères profiter de leur vie sous les meilleurs soins. Vous pourrez facilement observer certains des éléphants se déplacer librement et profiter de promenades quotidiennes au sein du centre, riche en végétation naturelle et doté de vastes espaces ouverts, le rendant très proche de leur habitat naturel. De plus, le bassin d'eau permet également aux éléphants de jouer et de se baigner.\n\nEnsuite, retour à Delhi où vous serez déposé à votre point de prise en charge initial.\n\n### Ce qui est inclus\n\n- Tous les péages, taxes, stationnement, carburant\n- Véhicule privé climatisé avec chauffeur\n- Bouteille d'eau dans la voiture\n- Prise en charge et dépose depuis l'aéroport/hôtel de Delhi\n- Une personne qui vous fera découvrir le sauvetage des éléphants\n- Frais d'entrée au centre de conservation des éléphants sauvages (si vous avez choisi l'option tout compris)\n\n### Non inclus\n\n- Tout pourboire ou gratification pour le guide touristique et le chauffeur\n- Tout type de déjeuner et boissons\n- Tout ce qui n'est pas mentionné dans les inclusions",
+  "highlights": [
+   "Profitez d'un circuit flexible avec chauffeur privé et transport climatisé"
+  ],
+  "included": [
+   "Tous les péages, taxes, stationnement, carburant\nVéhicule privé climatisé avec chauffeur\nBouteille d'eau dans la voiture\nPrise en charge et dépose depuis l'aéroport/hôtel de Delhi\nUne personne qui vous fera découvrir le sauvetage des éléphants\nFrais d'entrée au centre de conservation des éléphants sauvages (si vous avez choisi l'option tout compris)"
+  ],
+  "notIncluded": [
+   "Tout pourboire ou gratification pour le guide touristique et le chauffeur\nTout type de déjeuner et boissons\nTout ce qui n'est pas mentionné dans les inclusions"
+  ]
+ },
+ "skip-the-line-qutub-minar-private-tour-with": {
+  "title": "Circuit privé coupe-file de Qutub Minar avec transfert et guide",
+  "metaTitle": "Circuit privé coupe-file de Qutub Minar",
+  "metaDescription": "Évitez les longues files d'attente grâce à une entrée rapide au complexe de Qutub Minar, classé à l'UNESCO.",
+  "shortDescription": "Évitez les longues files d'attente grâce à une entrée rapide au complexe de Qutub Minar, classé à l'UNESCO.",
+  "fullDescription": "Circuit privé coupe-file de Qutub Minar avec transfert et guide. Évitez les longues files d'attente grâce à une entrée rapide au complexe de Qutub Minar, classé à l'UNESCO.\n\n1. Prise en charge à l'hôtel/aéroport (horaire flexible)\nVotre chauffeur privé vous prend en charge à votre hôtel, à l'aéroport ou au lieu de votre choix à Delhi, dans un véhicule confortable et climatisé. Rencontrez votre guide local agréé en chemin.\n\n2. Arrivée au complexe de Qutub Minar : entrée coupe-file\nÉvitez les files d'attente pour les billets et dirigez-vous directement vers le site du patrimoine mondial de l'UNESCO. Votre guide présente l'histoire de la première période du Sultanat de Delhi.\n\n3. Promenade guidée de Qutub Minar\nExplorez l'emblématique Qutub Minar, haut de 73 mètres, en découvrant ses sculptures complexes, ses inscriptions et les dirigeants qui ont façonné sa construction.\n\n4. Explorez la mosquée Quwwat-ul-Islam\nVisitez la première mosquée de l'Inde et comprenez son mélange unique d'architecture indo-islamique utilisant des matériaux de temples recyclés.\n\n5. Pilier de fer et coins cachés\nDécouvrez le célèbre pilier de fer résistant à la rouille et explorez des ruines, tombeaux et cours intérieures moins connus au sein du complexe, avec des commentaires instructifs.\n\n6. Photographie et temps libre\nProfitez de temps libre pour prendre de superbes photos, admirer les détails architecturaux ou simplement vous imprégner de l'atmosphère paisible du monument.\n\n7. Dépose privée\nAprès la visite, détendez-vous pendant que votre chauffeur vous ramène à votre hôtel, à l'aéroport ou au lieu de votre choix à Delhi.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel/aéroport\n- Voiture climatisée privée pour le transfert avec chauffeur\n- Guide touristique expert agréé par le gouvernement\n- Billets d'entrée aux monuments (si l'option est sélectionnée)\n- Bouteille d'eau minérale\n- Tous les péages et frais de stationnement\n\n### Non inclus\n\n- Toute nourriture\n- Toute dépense personnelle",
+  "highlights": [
+   "Évitez les longues files d'attente grâce à une entrée rapide au complexe de Qutub Minar, classé à l'UNESCO"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel/aéroport\nVoiture climatisée privée pour le transfert avec chauffeur\nGuide touristique expert agréé par le gouvernement\nBillets d'entrée aux monuments (si l'option est sélectionnée)\nBouteille d'eau minérale\nTous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute nourriture\nToute dépense personnelle"
+  ]
+ },
+ "delhi-luxury-old-new-delhi-city-tour-with-female": {
+  "title": "Delhi : circuit de luxe d'Old et New Delhi avec guide féminine",
+  "metaTitle": "Delhi : circuit de luxe Old/New Delhi, guide féminine",
+  "metaDescription": "Explorez Old Delhi lors d'un trajet palpitant en tuk-tuk à travers des bazars animés, avec une guide experte.",
+  "shortDescription": "Explorez Old Delhi lors d'un trajet palpitant en tuk-tuk à travers des bazars animés.",
+  "fullDescription": "Delhi : circuit de luxe d'Old et New Delhi avec guide féminine. Explorez Old Delhi lors d'un trajet palpitant en tuk-tuk à travers des bazars animés.\n\nDécouvrez le meilleur de Delhi lors d'un circuit privé d'Old et New Delhi mené par une guide experte. Explorez l'histoire fascinante, la culture vibrante, l'architecture impressionnante et les monuments célèbres de la ville en toute tranquillité et à votre propre rythme.\n\nCommencez votre voyage par une prise en charge pratique à votre hôtel, à l'aéroport ou au lieu de votre choix à Delhi, Noida ou Gurugram. Voyagez dans une voiture privée climatisée confortable avec votre chauffeur professionnel et votre guide féminine compétente.\n\nÀ Old Delhi, découvrez le cœur historique de la capitale. Visitez la magnifique Jama Masjid, explorez les rues animées de Chandni Chowk, et voyez le célèbre Fort Rouge de l'extérieur. Selon l'itinéraire sélectionné, profitez d'un trajet traditionnel en rickshaw à travers les ruelles colorées et visitez Khari Baoli, le célèbre marché aux épices d'Asie.\n\nContinuez vers New Delhi pour découvrir les monuments impressionnants et les grandes avenues de la ville. Visitez India Gate, le Parlement, le Rashtrapati Bhavan, le tombeau de Humayun, le Temple du Lotus et d'autres incontournables selon l'itinéraire choisi et le temps disponible.\n\nVotre guide experte partagera des histoires fascinantes sur l'histoire de Delhi, le patrimoine moghol, les traditions religieuses et la culture moderne, rendant l'expérience instructive, captivante et personnelle.\n\nChoisissez un itinéraire flexible qui vous permet de vous concentrer sur les lieux et expériences qui vous intéressent le plus. Que vous souhaitiez explorer les monuments historiques, les sites religieux, les marchés animés ou les merveilles architecturales de Delhi, ce circuit privé offre un moyen pratique de découvrir le meilleur d'Old et New Delhi en une journée.\n\nÀ la fin du circuit, profitez d'une dépose confortable à votre hôtel ou à un autre lieu de votre choix à Delhi, Noida ou Gurugram.\n\n### Ce qui est inclus\n\n- Voiture privée climatisée avec chauffeur expérimenté\n- Guide touristique privée professionnelle\n- Eau en bouteille et coupe-vent offerts\n- Tous les péages, frais de stationnement, frais de carburant et taxes\n- Billets d'entrée aux monuments et repas (avec l'option sélectionnée)\n\n### Non inclus\n\n- Dépenses personnelles\n- Pourboires et gratifications",
+  "highlights": [
+   "Explorez Old Delhi lors d'un trajet palpitant en tuk-tuk à travers des bazars animés"
+  ],
+  "included": [
+   "Voiture privée climatisée avec chauffeur expérimenté\nGuide touristique privée professionnelle\nEau en bouteille et coupe-vent offerts\nTous les péages, frais de stationnement, frais de carburant et taxes\nBillets d'entrée aux monuments et repas (avec l'option sélectionnée)"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles\nPourboires et gratifications"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

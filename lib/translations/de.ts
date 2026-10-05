@@ -27796,6 +27796,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "from-delhi-elephant-conservation-and-care-centre": {
+  "title": "Ab Delhi: Elefanten-Schutz- und Pflegezentrum, Wildtiere",
+  "metaTitle": "Ab Delhi: Elefanten-Schutz- und Pflegezentrum",
+  "metaDescription": "Genießen Sie eine flexible Tour mit eigenem Fahrer und klimatisiertem Transport zum Elefanten-Schutzzentrum.",
+  "shortDescription": "Genießen Sie eine flexible Tour mit eigenem Fahrer und klimatisiertem Transport",
+  "fullDescription": "Ab Delhi: Elefanten-Schutz- und Pflegezentrum, Wildtiere. Genießen Sie eine flexible Tour mit eigenem Fahrer und klimatisiertem Transport.\n\nUnser Fahrer holt Sie vom Hotel/Flughafen in Delhi/Gurgaon/Noida ab.\n\nSie werden dann zum Elefanten-Schutz- und Pflegezentrum (Mathura) gefahren. Als Wildlife-SOS-Projekt wurde das „Elefanten-Schutz- und Pflegezentrum\" 2010 in Zusammenarbeit mit der Landesregierung geschaffen. Die im Zentrum untergebrachten Elefanten wurden aus grausamen Situationen gerettet, von denen einige ohne jegliche Sicherheit und Pflege zu harter Arbeit unter harten Bedingungen gezwungen wurden.\n\nErhalten Sie die Chance, die Dickhäuter zu sehen, wie sie ihr Leben unter höchster Fürsorge genießen. Sie können leicht beobachten, wie sich einige der Elefanten frei bewegen und tägliche Spaziergänge im Zentrum genießen, das voller natürlicher Vegetation ist und über ausreichend offene Flächen verfügt, was es ihrem natürlichen Lebensraum sehr nahe bringt. Darüber hinaus ermöglicht das Wasserbecken den Elefanten auch, zu spielen und zu baden.\n\nAnschließend Rückkehr nach Delhi, wo Sie an Ihrem ursprünglichen Abholpunkt abgesetzt werden.\n\n### Inklusive\n\n- Alle Mautgebühren, Steuern, Parkgebühren, Kraftstoff\n- Privates klimatisiertes Fahrzeug mit Fahrer\n- Wasserflasche im Auto\n- Abholung und Rückfahrt vom Flughafen/Hotel Delhi\n- Eine Person, die Ihnen die Elefantenrettung erklärt\n- Eintrittsgebühren für das Wildtier-Elefanten-Schutzzentrum (falls Rundum-Sorglos-Option gewählt)\n\n### Nicht inklusive\n\n- Jegliche Trinkgelder für Reiseführer und Fahrer\n- Jegliches Mittagessen und Getränke\n- Alles, was nicht in den Einschlüssen erwähnt ist",
+  "highlights": [
+   "Genießen Sie eine flexible Tour mit eigenem Fahrer und klimatisiertem Transport"
+  ],
+  "included": [
+   "Alle Mautgebühren, Steuern, Parkgebühren, Kraftstoff\nPrivates klimatisiertes Fahrzeug mit Fahrer\nWasserflasche im Auto\nAbholung und Rückfahrt vom Flughafen/Hotel Delhi\nEine Person, die Ihnen die Elefantenrettung erklärt\nEintrittsgebühren für das Wildtier-Elefanten-Schutzzentrum (falls Rundum-Sorglos-Option gewählt)"
+  ],
+  "notIncluded": [
+   "Jegliche Trinkgelder für Reiseführer und Fahrer\nJegliches Mittagessen und Getränke\nAlles, was nicht in den Einschlüssen erwähnt ist"
+  ]
+ },
+ "skip-the-line-qutub-minar-private-tour-with": {
+  "title": "Privater Qutub-Minar-Ausflug ohne Warteschlange mit Transfer und Reiseführer",
+  "metaTitle": "Privater Qutub-Minar-Ausflug ohne Warteschlange",
+  "metaDescription": "Vermeiden Sie lange Warteschlangen mit schnellem Eintritt zum UNESCO-gelisteten Qutub-Minar-Komplex.",
+  "shortDescription": "Vermeiden Sie lange Warteschlangen mit schnellem Eintritt zum UNESCO-gelisteten Qutub-Minar-Komplex.",
+  "fullDescription": "Privater Qutub-Minar-Ausflug ohne Warteschlange mit Transfer und Reiseführer. Vermeiden Sie lange Warteschlangen mit schnellem Eintritt zum UNESCO-gelisteten Qutub-Minar-Komplex.\n\n1. Abholung vom Hotel/Flughafen (flexible Zeit)\nIhr privater Fahrer holt Sie von Ihrem Hotel, Flughafen oder bevorzugten Ort in Delhi in einem komfortablen, klimatisierten Fahrzeug ab. Treffen Sie unterwegs Ihren lizenzierten lokalen Reiseführer.\n\n2. Ankunft am Qutub-Minar-Komplex: Eintritt ohne Warteschlange\nUmgehen Sie die Ticketschlangen und begeben Sie sich direkt zur UNESCO-Welterbestätte. Ihr Reiseführer stellt Ihnen die Geschichte von Delhis frühester Sultanatszeit vor.\n\n3. Geführter Spaziergang durch Qutub Minar\nErkunden Sie den ikonischen, 73 Meter hohen Qutub Minar und erfahren Sie mehr über seine aufwendigen Schnitzereien, Inschriften und die Herrscher, die seinen Bau prägten.\n\n4. Erkunden Sie die Quwwat-ul-Islam-Moschee\nBesuchen Sie Indiens erste Moschee und verstehen Sie ihre einzigartige Mischung aus indo-islamischer Architektur unter Verwendung recycelter Tempelmaterialien.\n\n5. Eiserne Säule und versteckte Ecken\nEntdecken Sie die berühmte rostbeständige Eiserne Säule und erkunden Sie weniger bekannte Ruinen, Gräber und Innenhöfe innerhalb des Komplexes mit aufschlussreichen Kommentaren.\n\n6. Fotografie und Freizeit\nGenießen Sie freie Zeit, um atemberaubende Fotos zu machen, architektonische Details zu bewundern oder einfach die friedliche Atmosphäre des Denkmals zu genießen.\n\n7. Private Abgabe\nNach dem Besuch entspannen Sie sich, während Ihr Fahrer Sie zurück zu Ihrem Hotel, Flughafen oder gewählten Ort in Delhi bringt.\n\n### Inklusive\n\n- Abholung und Rückfahrt am Hotel/Flughafen\n- Privates klimatisiertes Auto für den Transfer mit Fahrer\n- Staatlich zugelassener Experten-Reiseführer\n- Eintrittskarten für Denkmäler (falls Option gewählt)\n- Mineralwasserflasche\n- Alle Mautgebühren und Parkgebühren\n\n### Nicht inklusive\n\n- Jegliches Essen\n- Jegliche persönlichen Ausgaben",
+  "highlights": [
+   "Vermeiden Sie lange Warteschlangen mit schnellem Eintritt zum UNESCO-gelisteten Qutub-Minar-Komplex"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel/Flughafen\nPrivates klimatisiertes Auto für den Transfer mit Fahrer\nStaatlich zugelassener Experten-Reiseführer\nEintrittskarten für Denkmäler (falls Option gewählt)\nMineralwasserflasche\nAlle Mautgebühren und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Jegliches Essen\nJegliche persönlichen Ausgaben"
+  ]
+ },
+ "delhi-luxury-old-new-delhi-city-tour-with-female": {
+  "title": "Delhi: Luxus-Stadtrundfahrt durch Old und New Delhi mit weiblicher Reiseführerin",
+  "metaTitle": "Delhi: Luxus-Stadtrundfahrt, weibliche Reiseführerin",
+  "metaDescription": "Erkunden Sie Old Delhi bei einer aufregenden Tuk-Tuk-Fahrt durch lebendige Basare, mit einer erfahrenen Reiseführerin.",
+  "shortDescription": "Erkunden Sie Old Delhi bei einer aufregenden Tuk-Tuk-Fahrt durch lebendige Basare.",
+  "fullDescription": "Delhi: Luxus-Stadtrundfahrt durch Old und New Delhi mit weiblicher Reiseführerin. Erkunden Sie Old Delhi bei einer aufregenden Tuk-Tuk-Fahrt durch lebendige Basare.\n\nEntdecken Sie das Beste von Delhi bei einer privaten Stadtrundfahrt durch Old und New Delhi, geleitet von einer erfahrenen weiblichen Reiseführerin. Erkunden Sie die faszinierende Geschichte, lebendige Kultur, beeindruckende Architektur und berühmten Wahrzeichen der Stadt bequem und in Ihrem eigenen Tempo.\n\nBeginnen Sie Ihre Reise mit einer bequemen Abholung von Ihrem Hotel, Flughafen oder gewählten Ort in Delhi, Noida oder Gurugram. Reisen Sie in einem komfortablen privaten klimatisierten Auto mit Ihrem professionellen Fahrer und sachkundigen weiblichen Reiseführerin.\n\nIn Old Delhi erleben Sie das historische Herz der Hauptstadt. Besuchen Sie die prächtige Jama Masjid, erkunden Sie die lebendigen Straßen von Chandni Chowk und sehen Sie das berühmte Rote Fort von außen. Je nach gewähltem Reiseplan genießen Sie eine traditionelle Rikscha-Fahrt durch die bunten Gassen und besuchen Khari Baoli, Asiens berühmten Gewürzmarkt.\n\nWeiter geht es nach New Delhi, um die beeindruckenden Wahrzeichen und prächtigen Alleen der Stadt zu entdecken. Besuchen Sie India Gate, das Parlamentsgebäude, Rashtrapati Bhavan, Humayuns Grabmal, den Lotustempel und weitere Highlights gemäß Ihrem gewählten Reiseplan und verfügbarer Zeit.\n\nIhre erfahrene weibliche Reiseführerin teilt faszinierende Geschichten über Delhis Geschichte, Mogul-Erbe, religiöse Traditionen und moderne Kultur mit Ihnen und macht das Erlebnis informativ, ansprechend und persönlich.\n\nWählen Sie einen flexiblen Reiseplan, der es Ihnen ermöglicht, sich auf die Orte und Erlebnisse zu konzentrieren, die Sie am meisten interessieren. Ob Sie Delhis historische Denkmäler, religiöse Stätten, belebte Märkte oder architektonische Highlights erkunden möchten, diese private Tour bietet eine bequeme Möglichkeit, das Beste von Old und New Delhi an einem Tag zu erleben.\n\nAm Ende der Tour genießen Sie eine komfortable Abgabe an Ihrem Hotel oder einem anderen bevorzugten Ort in Delhi, Noida oder Gurugram.\n\n### Inklusive\n\n- Privates klimatisiertes Auto mit erfahrenem Fahrer\n- Professionelle private Reiseführerin\n- Kostenloses Wasser in Flaschen und Windjacken\n- Alle Mautgebühren, Parkgebühren, Kraftstoffkosten und Steuern\n- Eintrittskarten für Denkmäler und Mahlzeiten (bei gewählter Option)\n\n### Nicht inklusive\n\n- Persönliche Ausgaben\n- Trinkgelder",
+  "highlights": [
+   "Erkunden Sie Old Delhi bei einer aufregenden Tuk-Tuk-Fahrt durch lebendige Basare"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto mit erfahrenem Fahrer\nProfessionelle private Reiseführerin\nKostenloses Wasser in Flaschen und Windjacken\nAlle Mautgebühren, Parkgebühren, Kraftstoffkosten und Steuern\nEintrittskarten für Denkmäler und Mahlzeiten (bei gewählter Option)"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben\nTrinkgelder"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
