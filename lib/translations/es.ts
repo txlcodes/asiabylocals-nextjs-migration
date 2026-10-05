@@ -404,6 +404,74 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "from-new-delhi-taj-mahal-agra-fort-keetham-lake": {
+  "title": "Desde Nueva Delhi: excursión de un día al Taj Mahal, Fuerte de Agra y lago Keetham",
+  "metaTitle": "Nueva Delhi-Agra: Taj Mahal, fuerte, lago Keetham",
+  "metaDescription": "Visite el famoso Taj Mahal y descubra su fascinante historia.",
+  "shortDescription": "Visite el famoso Taj Mahal y descubra su fascinante historia.",
+  "fullDescription": "Embárquese en una memorable excursión privada de un día desde Nueva Delhi a Agra y descubra una mezcla perfecta de historia, arquitectura, y belleza natural. Viaje cómodamente en un vehículo privado con aire acondicionado y explore algunas de las atracciones más famosas de Agra en un día inolvidable.\n\nSu viaje comienza con una recogida conveniente en su hotel, aeropuerto, o lugar preferido en Nueva Delhi. Conozca a su conductor privado y relájese durante el pintoresco trayecto hacia Agra por la autopista.\n\nA su llegada, conozca a su guía profesional y comience su aventura de avistamiento con una visita al magnífico Taj Mahal. Admire la impresionante arquitectura de mármol blanco y descubra la fascinante historia de amor y la historia detrás de este famoso Sitio del Patrimonio Mundial de la UNESCO.\n\nContinúe hacia el impresionante Fuerte de Agra, otro Sitio del Patrimonio Mundial de la UNESCO y un magnífico ejemplo de la arquitectura mogol. Explore sus hermosos palacios, patios, y estructuras históricas mientras descubre las historias de los emperadores mogoles.\n\nDisfrute de tiempo libre para almorzar en un restaurante local antes de continuar su viaje hacia el lago Keetham, también conocido como Sur Sarovar. Relájese y disfrute del entorno natural tranquilo de este hermoso lago y su paisaje escénico.\n\nDespués de un día lleno de historia, cultura, y naturaleza, comience su cómodo viaje de regreso a Nueva Delhi. A su llegada, será dejado en su hotel o lugar preferido, marcando el final de su memorable excursión a Agra.",
+  "highlights": [
+   "Visite el famoso Taj Mahal y descubra su fascinante historia"
+  ],
+  "included": [
+   "Recogida y regreso al hotel, aeropuerto, o estación de tren",
+   "Vehículo privado con aire acondicionado",
+   "Taj Mahal al amanecer o atardecer",
+   "Conductor profesional",
+   "Guía local experto",
+   "Todos los impuestos y estacionamiento"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada",
+   "Comidas",
+   "Propinas"
+  ]
+ },
+ "all-inclusive-agra-full-half-day-tour-with-hotel": {
+  "title": "Todo incluido: tour de Agra, día completo o medio día con recogida en el hotel",
+  "metaTitle": "Agra todo incluido: día completo o medio día",
+  "metaDescription": "Visite el icónico Taj Mahal y descubra su fascinante historia.",
+  "shortDescription": "Visite el icónico Taj Mahal y descubra su fascinante historia.",
+  "fullDescription": "Descubra la belleza intemporal de Agra en un tour de avistamiento todo incluido de medio día o día completo. Disfrute de una conveniente recogida en el hotel y explore monumentos mogoles mundialmente famosos, fuertes históricos, y mercados locales vibrantes con un guía profesional mientras viaja en un cómodo vehículo privado con aire acondicionado.\n\n**Tour de medio día por Agra (si se selecciona la opción)**\nDuración: 5 horas\nComience su viaje con una cómoda recogida en su hotel o lugar preferido en Agra.\n\n1. Taj Mahal\nComience su recorrido en el icónico Taj Mahal, una de las Siete Maravillas del Mundo. Admire su impresionante arquitectura de mármol blanco y descubra la fascinante historia de amor detrás de este Sitio del Patrimonio Mundial de la UNESCO.\n\n2. Fuerte de Agra\nDescubra la impresionante fortaleza de arenisca roja que sirvió como residencia de los emperadores mogoles durante generaciones.\n\n3. Taller local de artesanía en mármol\nExperimente la famosa artesanía de incrustaciones en mármol de Agra y observe a artesanos expertos crear diseños intrincados inspirados en el Taj Mahal.\n\n**Regreso al hotel**\nRelájese durante el cómodo trayecto de regreso a su hotel, concluyendo su tour de medio día.\n\n**Tour de día completo por Agra (si se selecciona la opción)**\nDuración: 8 horas\nComience su día con una cómoda recogida en su hotel en un vehículo privado con aire acondicionado.\n\n1. Taj Mahal\nVisite el monumento más famoso de Agra y explore sus magníficos jardines, mausoleo de mármol, y fascinante historia mogol.\n\n2. Fuerte de Agra\nDescubra la impresionante fortaleza de arenisca roja que sirvió como residencia de los emperadores mogoles durante generaciones.\n\n3. Itmad-ud-Daulah (Baby Taj)\nExplore el elegante mausoleo de Itmad-ud-Daulah, a menudo llamado el \"Baby Taj\", admirado por su delicado trabajo de incrustación en mármol y sus jardines tranquilos.\n\n4. Mehtab Bagh (opcional)\nDisfrute de vistas espectaculares del Taj Mahal desde este tranquilo jardín mogol a lo largo del río Yamuna.\n\n5. Taller local de mármol y artesanía\nObserve a maestros artesanos demostrar el arte tradicional de incrustaciones en mármol transmitido a través de generaciones.\n\n**Regreso al hotel**\nTermine su tour con un cómodo regreso a su hotel.",
+  "highlights": [
+   "Visite el icónico Taj Mahal y descubra su fascinante historia"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Transporte privado con aire acondicionado",
+   "Guía turístico profesional",
+   "Boleto de entrada (si se selecciona la opción)",
+   "Almuerzo (si se selecciona la opción)",
+   "Botella de agua",
+   "Todos los impuestos y estacionamiento"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "private-guided-tour-taj-fort-fatehpur-sikri": {
+  "title": "Tour guiado privado: Taj, fuerte y Fatehpur Sikri",
+  "metaTitle": "Tour privado: Taj Mahal, fuerte, Fatehpur Sikri",
+  "metaDescription": "Explore el Taj Mahal, el Fuerte de Agra, y Fatehpur Sikri en un día.",
+  "shortDescription": "Explore el Taj Mahal, el Fuerte de Agra, y Fatehpur Sikri en un día.",
+  "fullDescription": "Sumérjase en la grandeza del Imperio mogol en un viaje guiado privado a través de tres de los monumentos más notables del norte de la India. Comience en el impresionante Taj Mahal, donde su guía experto comparte la fascinante historia de amor, el brillo arquitectónico, y los detalles ocultos detrás del monumento más celebrado del mundo.\n\nContinúe hacia el magnífico Fuerte de Agra, un Sitio del Patrimonio Mundial de la UNESCO que sirvió como residencia de los emperadores mogoles durante generaciones. Explore sus salones reales, elegantes palacios, cámaras de audiencia, y patios pintorescos mientras descubre las historias de poder, política, y vida cotidiana dentro de sus muros.\n\nEl viaje lo lleva luego a Fatehpur Sikri, la espectacular capital del siglo XVI del emperador Akbar. Camine por palacios notablemente conservados, patios, mezquitas, y el icónico Buland Darwaza mientras su guía revela por qué se construyó esta magnífica ciudad y por qué fue abandonada después.\n\nViaje cómodamente en un vehículo privado con aire acondicionado con un ritmo flexible, lo que le permite disfrutar de cada sitio sin sentirse apresurado. Ya sea que le apasione la historia, la arquitectura, o la fotografía, este tour ofrece una comprensión más profunda del rico patrimonio mogol de la India a través de una narración atractiva y orientación personalizada.\n\nPerfecto para parejas, familias, viajeros solos, y grupos pequeños, esta experiencia privada combina monumentos icónicos con una historia fascinante, convirtiéndolo en un día inolvidable en Agra.",
+  "highlights": [
+   "Explore el Taj Mahal, el Fuerte de Agra, y Fatehpur Sikri en un día"
+  ],
+  "included": [
+   "Vehículo privado con aire acondicionado",
+   "Guía profesional",
+   "Recogida y regreso al hotel (Agra)",
+   "Tour guiado del Taj Mahal",
+   "Tour guiado del Fuerte de Agra",
+   "Tour guiado de Fatehpur Sikri",
+   "Agua potable embotellada",
+   "Todas las tarifas de estacionamiento, combustible, y conductor",
+   "Peajes e impuestos estatales",
+   "Experiencia de tour privado personalizada"
+  ],
+  "notIncluded": []
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
