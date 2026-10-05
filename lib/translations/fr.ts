@@ -21650,6 +21650,76 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires (toujours facultatifs, mais quelques conseils seront donnés dans le dossier d'informations avant départ que vous recevrez après la réservation)"
   ]
  },
+ "all-inclusive-delhi-full-or-half-day-tour-with": {
+  "title": "Visite tout compris de Delhi en journée complète ou demi-journée avec prise en charge à l'hôtel",
+  "metaTitle": "Delhi : visite tout compris, journée ou demi-journée",
+  "metaDescription": "Explorez les monuments les plus emblématiques de Delhi, des forts historiques aux marchés animés.",
+  "shortDescription": "Explorez les monuments les plus emblématiques de Delhi, des forts historiques aux marchés animés.",
+  "fullDescription": "Visite tout compris de Delhi en journée complète ou demi-journée avec prise en charge à l'hôtel. Explorez les monuments les plus emblématiques de Delhi, des forts historiques aux marchés animés.\n\nDécouvrez l'essence de Delhi en une journée complète ou une demi-journée avec cette visite guidée des monuments les plus emblématiques de la ville. Explorez des temples historiques, des marchés animés, et de grands forts, tout en vous imprégnant de la culture et du patrimoine de la capitale indienne.\n\n**Visite demi-journée de Delhi (si l'option est sélectionnée)**\nDurée : 5 heures\nCommencez votre visite par une prise en charge à votre hôtel ou à l'endroit sélectionné, dans un véhicule privé climatisé depuis Delhi.\n\n1. Jama Masjid : explorez l'une des plus grandes mosquées de l'Inde, admirée pour son architecture moghole époustouflante et son atmosphère spirituelle.\n2. Chandni Chowk : promenez-vous dans les ruelles animées de ce marché historique, remplies de boutiques colorées, de street food, et de vie locale animée.\n3. Fort Rouge, New Delhi : découvrez la grandeur de ce site du patrimoine mondial de l'UNESCO, symbole du patrimoine moghol et de la brillance architecturale.\n4. Gurudwara Bangla Sahib : visitez ce temple sikh serein, célèbre pour son dôme doré et son bassin sacré, offrant une expérience paisible et propice à la réflexion.\n\nRetour à Delhi : terminez par un trajet confortable de retour à votre hôtel, concluant une exploration riche et culturelle de Delhi en demi-journée.\n\n**Visite journée complète de Delhi (si l'option est sélectionnée)**\nDurée : 8 heures\nCommencez votre journée par une prise en charge à votre hôtel ou à l'endroit sélectionné, dans un véhicule privé climatisé depuis Delhi.\n\n1. Jama Masjid : commencez par une visite guidée de cette mosquée emblématique, et découvrez son importance spirituelle et historique.\n2. Chandni Chowk : promenez-vous dans les rues animées du Vieux Delhi, profitant de boutiques traditionnelles, de street food, et de scènes locales animées.\n3. Fort Rouge, New Delhi : faites une visite guidée de ce fort majestueux, présentant l'architecture et l'histoire moghole.\n4. Gurudwara Bangla Sahib : explorez le temple sikh paisible avec son dôme doré et son bassin sacré.\n5. Temple du Lotus : visitez la Maison d'adoration bahá'íe, réputée pour son ambiance sereine et son design unique.\n6. Tombe de Humayun : découvrez ce site du patrimoine mondial de l'UNESCO, avec son architecture et ses jardins moghols époustouflants.\n7. India Gate et le Parlement : passez devant ces monuments emblématiques de l'histoire moderne de l'Inde.\n8. Rashtrapati Bhavan : admirez la grandiose façade de la résidence officielle du Président.\n9. Qutub Minar : faites une visite guidée du plus haut minaret en brique de l'Inde, et site du patrimoine.\n10. Jardins Lodi : profitez d'une promenade à travers des jardins luxuriants parsemés de tombes historiques.\n11. Agrasen ki Baoli : explorez cet ancien puits à degrés au cœur de Delhi, connu pour son architecture unique.\n\nRetour à Delhi : concluez la visite par un trajet confortable de retour à votre hôtel, achevant une journée complète d'exploration du patrimoine, de la culture, et de l'architecture de Delhi.\n\n**Ce qui est inclus**\nVoiture privée climatisée\nPrise en charge et retour à l'hôtel\nBalade en rickshaw à Chandni Chowk\nGuide touristique professionnel\nItinéraire flexible\nBillet d'entrée (si l'option est sélectionnée)\nDéjeuner (si l'option est sélectionnée)\nBouteille d'eau\nToutes les taxes et le stationnement\n\n**Non inclus**\nPourboires",
+  "highlights": [
+   "Explorez les monuments les plus emblématiques de Delhi, des forts historiques aux marchés animés"
+  ],
+  "included": [
+   "Voiture privée climatisée",
+   "Prise en charge et retour à l'hôtel",
+   "Balade en rickshaw à Chandni Chowk",
+   "Guide touristique professionnel",
+   "Itinéraire flexible",
+   "Billet d'entrée (si l'option est sélectionnée)",
+   "Déjeuner (si l'option est sélectionnée)",
+   "Bouteille d'eau",
+   "Toutes les taxes et le stationnement"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "delhi-private-fullhalf-day-luxury-tour-with": {
+  "title": "Delhi : visite privée de luxe en journée complète ou demi-journée avec guide féminine",
+  "metaTitle": "Delhi : visite de luxe privée avec guide féminine",
+  "metaDescription": "Explorez Delhi en privé avec une guide féminine experte.",
+  "shortDescription": "Explorez Delhi en privé avec une guide féminine experte.",
+  "fullDescription": "Delhi : visite privée de luxe en journée complète ou demi-journée avec guide féminine. Explorez Delhi en privé avec une guide féminine experte.\n\nDécouvrez Delhi lors d'une visite touristique privée en journée complète ou demi-journée, menée par une guide féminine experte. Voyagez confortablement dans un véhicule privé climatisé avec un chauffeur professionnel, et explorez la ville à votre rythme.\n\nChoisissez l'option demi-journée si votre temps est limité, ou optez pour l'expérience journée complète pour une introduction plus complète au Vieux et au New Delhi.\n\nSelon l'option sélectionnée, visitez certains des monuments les plus importants de Delhi, notamment la Jama Masjid, Chandni Chowk, le Fort Rouge, India Gate, le Rashtrapati Bhavan, la tombe de Humayun, Qutub Minar, le temple du Lotus, et le Gurudwara Bangla Sahib.\n\nVotre guide partagera des histoires sur l'histoire, l'architecture, les traditions, et la vie locale de Delhi, tout en vous aidant à découvrir la ville au-delà d'un parcours touristique standard.\n\nProfitez d'une expérience privée personnalisée, avec des visites flexibles, un transport confortable, et la commodité d'une prise en charge et d'un retour à l'hôtel.\n\n**Ce qui est inclus**\nVisite privée en journée complète ou demi-journée\nGuide touristique féminine experte\nVéhicule privé climatisé\nChauffeur professionnel\nPrise en charge et retour à l'hôtel\nEau en bouteille\nItinéraire de visite flexible\nBillets d'entrée, si inclus dans l'option sélectionnée\n\n**Non inclus**\nCoût des produits achetés\nNourriture et boissons\nFrais d'entrée, le cas échéant\nDépenses personnelles\nPourboires et gratifications",
+  "highlights": [
+   "Explorez Delhi en privé avec une guide féminine experte"
+  ],
+  "included": [
+   "Visite privée en journée complète ou demi-journée",
+   "Guide touristique féminine experte",
+   "Véhicule privé climatisé",
+   "Chauffeur professionnel",
+   "Prise en charge et retour à l'hôtel",
+   "Eau en bouteille",
+   "Itinéraire de visite flexible",
+   "Billets d'entrée, si inclus dans l'option sélectionnée"
+  ],
+  "notIncluded": [
+   "Coût des produits achetés",
+   "Nourriture et boissons",
+   "Frais d'entrée, le cas échéant",
+   "Dépenses personnelles",
+   "Pourboires et gratifications"
+  ]
+ },
+ "delhi-to-jaipur-tour-with-jaigarh-fort-royal": {
+  "title": "Circuit Delhi à Jaipur avec le fort Jaigarh et Royal Gaitor",
+  "metaTitle": "Delhi à Jaipur : fort Jaigarh et Royal Gaitor",
+  "metaDescription": "Explorez le majestueux fort Amber avec un guide local expert.",
+  "shortDescription": "Explorez le majestueux fort Amber avec un guide local expert.",
+  "fullDescription": "Circuit Delhi à Jaipur avec le fort Jaigarh et Royal Gaitor. Explorez le majestueux fort Amber avec un guide local expert.\n\nDécouvrez un côté différent de Jaipur lors de cette excursion privée d'une journée depuis Delhi, qui va au-delà des monuments les plus photographiés de la ville. Voyagez dans un véhicule privé confortable et climatisé, tandis que votre guide local fait vivre l'histoire royale du Rajasthan à travers des récits, l'architecture, et des détails cachés que de nombreux visiteurs manquent.\n\nCommencez votre voyage au magnifique fort Amber, où de grandes cours, un travail de miroirs complexe, et des vues depuis le sommet de la colline révèlent la gloire des souverains rajpoutes. Poursuivez vers le fort Jaigarh, célèbre pour ses puissantes défenses, ses vues panoramiques sur les collines d'Aravalli, et le légendaire canon Jaivana. Marchez le long des chemins royaux, tout en découvrant comment ces deux forts travaillaient autrefois ensemble pour protéger le royaume.\n\nEnsuite, visitez le paisible Royal Gaitor, l'élégant site de crémation royale des maharajas de Jaipur. Admirez les cénotaphes en marbre magnifiquement sculptés, et profitez d'une expérience patrimoniale plus tranquille, loin des foules animées de la ville. Arrêtez-vous au pittoresque Jal Mahal pour des photos mémorables, avant d'explorer les rues vibrantes et l'atmosphère locale colorée de Jaipur.\n\nAvec une prise en charge et un retour à l'hôtel depuis Delhi, un véhicule privé, et un guide local compétent, ce circuit offre une manière détendue, flexible, et enrichissante de découvrir le patrimoine royal de Jaipur en une seule journée. Parfait pour les couples, les familles, les voyageurs solo, et les petits groupes recherchant un voyage culturel authentique au-delà du parcours touristique habituel.\n\n**Ce qui est inclus**\nPrise en charge et retour depuis n'importe quel endroit à Delhi/NCR\nVéhicule privé climatisé avec chauffeur professionnel\nGuide local à Jaipur\nEau potable en bouteille\nTous les frais de stationnement, péages, et frais de carburant\nExpérience de circuit privé flexible",
+  "highlights": [
+   "Explorez le majestueux fort Amber avec un guide local expert"
+  ],
+  "included": [
+   "Prise en charge et retour depuis n'importe quel endroit à Delhi/NCR",
+   "Véhicule privé climatisé avec chauffeur professionnel",
+   "Guide local à Jaipur",
+   "Eau potable en bouteille",
+   "Tous les frais de stationnement, péages, et frais de carburant",
+   "Expérience de circuit privé flexible"
+  ],
+  "notIncluded": []
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

@@ -21650,6 +21650,76 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder (immer optional, aber einige Hinweise werden in den Informationen vor der Abreise gegeben, die Sie nach der Buchung erhalten)"
   ]
  },
+ "all-inclusive-delhi-full-or-half-day-tour-with": {
+  "title": "All-inclusive Delhi Ganz- oder Halbtagestour mit Hotelabholung",
+  "metaTitle": "Delhi: All-inclusive Tour, ganzer oder halber Tag",
+  "metaDescription": "Erkunden Sie Delhis ikonischste Sehenswürdigkeiten, von historischen Festungen bis zu lebhaften Märkten.",
+  "shortDescription": "Erkunden Sie Delhis ikonischste Sehenswürdigkeiten, von historischen Festungen bis zu lebhaften Märkten.",
+  "fullDescription": "All-inclusive Delhi Ganz- oder Halbtagestour mit Hotelabholung. Erkunden Sie Delhis ikonischste Sehenswürdigkeiten, von historischen Festungen bis zu lebhaften Märkten.\n\nErleben Sie das Wesen von Delhi an einem ganzen oder halben Tag mit dieser geführten Tour zu den ikonischsten Sehenswürdigkeiten der Stadt. Erkunden Sie historische Tempel, belebte Märkte, und großartige Festungen, während Sie die Kultur und das Erbe von Indiens Hauptstadt aufsaugen.\n\n**Halbtägige Delhi-Besichtigungstour (falls Option gewählt wird)**\nDauer: 5 Stunden\nBeginnen Sie Ihre Tour mit einer Abholung von Ihrem Hotel oder gewählten Ort in einem privaten klimatisierten Fahrzeug aus Delhi.\n\n1. Jama Masjid: erkunden Sie eine der größten Moscheen Indiens, bewundert für ihre beeindruckende Mogul-Architektur und spirituelle Atmosphäre.\n2. Chandni Chowk: schlendern Sie durch die belebten Gassen dieses historischen Marktes, voller farbenfroher Geschäfte, Street Food, und lebendigem örtlichem Leben.\n3. Red Fort, New Delhi: entdecken Sie die Erhabenheit dieser UNESCO-Weltkulturerbestätte, ein Symbol des Mogul-Erbes und architektonischer Brillanz.\n4. Gurudwara Bangla Sahib: besuchen Sie diesen ruhigen Sikh-Tempel, berühmt für seine goldene Kuppel und seinen heiligen Teich, der ein friedliches und nachdenkliches Erlebnis bietet.\n\nRückkehr nach Delhi: beenden Sie mit einer bequemen Fahrt zurück zu Ihrem Hotel, und schließen Sie eine reiche und kulturelle Halbtagsentdeckung von Delhi ab.\n\n**Ganztägige Delhi-Besichtigungstour (falls Option gewählt wird)**\nDauer: 8 Stunden\nBeginnen Sie Ihren Tag mit einer Abholung von Ihrem Hotel oder gewählten Ort in einem privaten klimatisierten Fahrzeug aus Delhi.\n\n1. Jama Masjid: beginnen Sie mit einem geführten Besuch dieser ikonischen Moschee, und erfahren Sie mehr über ihre spirituelle und historische Bedeutung.\n2. Chandni Chowk: schlendern Sie durch die lebhaften Straßen von Alt-Delhi, und genießen Sie traditionelle Geschäfte, Street Food, und lebendige örtliche Szenen.\n3. Red Fort, New Delhi: machen Sie eine geführte Tour durch diese majestätische Festung, die Mogul-Architektur und Geschichte zeigt.\n4. Gurudwara Bangla Sahib: erkunden Sie den ruhigen Sikh-Tempel mit seiner goldenen Kuppel und seinem heiligen Teich.\n5. Lotustempel: besuchen Sie das Bahá'í-Andachtshaus, bekannt für seine ruhige Atmosphäre und sein einzigartiges Design.\n6. Humayuns Grabmal: entdecken Sie diese UNESCO-Weltkulturerbestätte mit ihrer beeindruckenden Mogul-Architektur und ihren Gärten.\n7. India Gate und Parlamentsgebäude: fahren Sie an diesen ikonischen Sehenswürdigkeiten der modernen Geschichte Indiens vorbei.\n8. Rashtrapati Bhavan: sehen Sie die prächtige Fassade der offiziellen Residenz des Präsidenten.\n9. Qutub Minar: machen Sie eine geführte Tour zu Indiens höchstem Backsteinminarett und Kulturerbestätte.\n10. Lodi-Gärten: genießen Sie einen Spaziergang durch üppige Gärten, gesprenkelt mit historischen Grabmälern.\n11. Agrasen ki Baoli: erkunden Sie diesen alten Stufenbrunnen im Herzen von Delhi, bekannt für seine einzigartige Architektur.\n\nRückkehr nach Delhi: schließen Sie die Tour mit einer bequemen Fahrt zurück zu Ihrem Hotel ab, und vollenden Sie einen ganzen Tag Erkundung von Delhis Erbe, Kultur, und Architektur.\n\n**Was ist enthalten**\nPrivates klimatisiertes Auto\nAbholung und Rückfahrt zum Hotel\nRikscha-Fahrt in Chandni Chowk\nProfessioneller Reiseführer\nFlexibler Reiseplan\nEintrittskarte (falls Option gewählt wird)\nMittagessen (falls Option gewählt wird)\nWasserflasche\nAlle Steuern und Parkgebühren\n\n**Nicht enthalten**\nTrinkgelder",
+  "highlights": [
+   "Erkunden Sie Delhis ikonischste Sehenswürdigkeiten, von historischen Festungen bis zu lebhaften Märkten"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto",
+   "Abholung und Rückfahrt zum Hotel",
+   "Rikscha-Fahrt in Chandni Chowk",
+   "Professioneller Reiseführer",
+   "Flexibler Reiseplan",
+   "Eintrittskarte (falls Option gewählt wird)",
+   "Mittagessen (falls Option gewählt wird)",
+   "Wasserflasche",
+   "Alle Steuern und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "delhi-private-fullhalf-day-luxury-tour-with": {
+  "title": "Delhi: private Luxustour, ganzer oder halber Tag, mit weiblichem Guide",
+  "metaTitle": "Delhi: private Luxustour mit weiblichem Guide",
+  "metaDescription": "Erkunden Sie Delhi privat mit einer erfahrenen weiblichen Reiseführerin.",
+  "shortDescription": "Erkunden Sie Delhi privat mit einer erfahrenen weiblichen Reiseführerin.",
+  "fullDescription": "Delhi: private Luxustour, ganzer oder halber Tag, mit weiblichem Guide. Erkunden Sie Delhi privat mit einer erfahrenen weiblichen Reiseführerin.\n\nEntdecken Sie Delhi bei einem privaten Ganz- oder Halbtages-Besichtigungserlebnis, geführt von einer erfahrenen weiblichen Reiseführerin. Reisen Sie bequem in einem privaten klimatisierten Fahrzeug mit professionellem Fahrer, und erkunden Sie die Stadt in Ihrem eigenen Tempo.\n\nWählen Sie die Halbtagsoption, wenn Ihre Zeit begrenzt ist, oder entscheiden Sie sich für das Ganztageserlebnis für eine umfassendere Einführung in Alt- und New Delhi.\n\nJe nach gewählter Option besuchen Sie einige der wichtigsten Sehenswürdigkeiten Delhis, darunter die Jama Masjid, Chandni Chowk, das Red Fort, India Gate, das Rashtrapati Bhavan, Humayuns Grabmal, Qutub Minar, den Lotustempel, und den Gurudwara Bangla Sahib.\n\nIhr Guide teilt Geschichten über Delhis Geschichte, Architektur, Traditionen, und örtliches Leben, und hilft Ihnen dabei, die Stadt jenseits einer Standard-Besichtigungsroute zu erleben.\n\nGenießen Sie ein personalisiertes privates Erlebnis mit flexibler Besichtigung, bequemem Transport, und der Annehmlichkeit von Abholung und Rückfahrt zum Hotel.\n\n**Was ist enthalten**\nPrivate Ganz- oder Halbtagestour\nErfahrene weibliche Reiseführerin\nPrivates klimatisiertes Fahrzeug\nProfessioneller Fahrer\nAbholung und Rückfahrt zum Hotel\nWasser in Flaschen\nFlexibler Besichtigungsplan\nEintrittskarten, falls in der gewählten Option enthalten\n\n**Nicht enthalten**\nKosten für gekaufte Produkte\nEssen und Getränke\nEintrittsgebühren, falls zutreffend\nPersönliche Ausgaben\nTrinkgelder und Gratifikationen",
+  "highlights": [
+   "Erkunden Sie Delhi privat mit einer erfahrenen weiblichen Reiseführerin"
+  ],
+  "included": [
+   "Private Ganz- oder Halbtagestour",
+   "Erfahrene weibliche Reiseführerin",
+   "Privates klimatisiertes Fahrzeug",
+   "Professioneller Fahrer",
+   "Abholung und Rückfahrt zum Hotel",
+   "Wasser in Flaschen",
+   "Flexibler Besichtigungsplan",
+   "Eintrittskarten, falls in der gewählten Option enthalten"
+  ],
+  "notIncluded": [
+   "Kosten für gekaufte Produkte",
+   "Essen und Getränke",
+   "Eintrittsgebühren, falls zutreffend",
+   "Persönliche Ausgaben",
+   "Trinkgelder und Gratifikationen"
+  ]
+ },
+ "delhi-to-jaipur-tour-with-jaigarh-fort-royal": {
+  "title": "Tour von Delhi nach Jaipur mit dem Jaigarh-Fort und Royal Gaitor",
+  "metaTitle": "Delhi nach Jaipur: Jaigarh-Fort und Royal Gaitor",
+  "metaDescription": "Erkunden Sie das majestätische Amber-Fort mit einem örtlichen Expertenguide.",
+  "shortDescription": "Erkunden Sie das majestätische Amber-Fort mit einem örtlichen Expertenguide.",
+  "fullDescription": "Tour von Delhi nach Jaipur mit dem Jaigarh-Fort und Royal Gaitor. Erkunden Sie das majestätische Amber-Fort mit einem örtlichen Expertenguide.\n\nEntdecken Sie eine andere Seite von Jaipur auf diesem privaten Tagesausflug ab Delhi, der über die meistfotografierten Sehenswürdigkeiten der Stadt hinausgeht. Reisen Sie in einem bequemen privaten klimatisierten Fahrzeug, während Ihr örtlicher Guide Rajasthans königliche Geschichte durch Geschichten, Architektur, und versteckte Details zum Leben erweckt, die viele Besucher verpassen.\n\nBeginnen Sie Ihre Reise am prächtigen Amber-Fort, wo großartige Innenhöfe, kunstvolle Spiegelarbeiten, und Ausblicke vom Hügel die Pracht der Rajput-Herrscher offenbaren. Weiter geht es zum Jaigarh-Fort, berühmt für seine mächtigen Verteidigungsanlagen, weitläufige Ausblicke über die Aravalli-Berge, und die legendäre Jaivana-Kanone. Gehen Sie durch königliche Wege, während Sie erfahren, wie diese beiden Festungen einst zusammenarbeiteten, um das Königreich zu schützen.\n\nAls Nächstes besuchen Sie das friedliche Royal Gaitor, die elegante königliche Einäscherungsstätte der Maharajas von Jaipur. Bewundern Sie die wunderschön geschnitzten Marmor-Kenotaphe, und genießen Sie ein ruhigeres Kulturerbe-Erlebnis, abseits der geschäftigen Menschenmengen der Stadt. Halten Sie am malerischen Jal Mahal für unvergessliche Fotos, bevor Sie die lebhaften Straßen und die farbenfrohe örtliche Atmosphäre von Jaipur erkunden.\n\nMit Abholung und Rückfahrt zum Hotel von Delhi, einem privaten Fahrzeug, und einem kenntnisreichen örtlichen Guide bietet diese Tour eine entspannte, flexible, und bereichernde Möglichkeit, Jaipurs königliches Erbe an einem einzigen Tag zu erleben. Perfekt für Paare, Familien, Alleinreisende, und kleine Gruppen, die eine authentische kulturelle Reise abseits der üblichen Besichtigungsroute suchen.\n\n**Was ist enthalten**\nAbholung und Rückfahrt von jedem Ort in Delhi/NCR\nPrivates klimatisiertes Fahrzeug mit professionellem Fahrer\nÖrtlicher Guide in Jaipur\nTrinkwasser in Flaschen\nAlle Parkgebühren, Mautgebühren, und Treibstoffkosten\nFlexibles privates Tour-Erlebnis",
+  "highlights": [
+   "Erkunden Sie das majestätische Amber-Fort mit einem örtlichen Expertenguide"
+  ],
+  "included": [
+   "Abholung und Rückfahrt von jedem Ort in Delhi/NCR",
+   "Privates klimatisiertes Fahrzeug mit professionellem Fahrer",
+   "Örtlicher Guide in Jaipur",
+   "Trinkwasser in Flaschen",
+   "Alle Parkgebühren, Mautgebühren, und Treibstoffkosten",
+   "Flexibles privates Tour-Erlebnis"
+  ],
+  "notIncluded": []
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
