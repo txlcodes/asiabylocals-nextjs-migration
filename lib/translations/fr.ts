@@ -27318,6 +27318,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Boissons\nDépenses personnelles\nPourboires (optionnels)"
   ]
  },
+ "old-delhi-food-tour-8-tastings-trusted-local-stops": {
+  "title": "Circuit culinaire à Old Delhi : 8 dégustations dans des lieux locaux de confiance",
+  "metaTitle": "Circuit culinaire à Old Delhi : 8 dégustations",
+  "metaDescription": "Profitez de 8 dégustations authentiques de street food à Old Delhi lors d'un circuit guidé dans des lieux de confiance.",
+  "shortDescription": "Profitez de 8 dégustations authentiques de street food à Old Delhi",
+  "fullDescription": "Circuit culinaire à Old Delhi : 8 dégustations dans des lieux locaux de confiance. Profitez de 8 dégustations authentiques de street food à Old Delhi.\n\nDécouvrez les saveurs incroyables et la culture d'Old Delhi lors d'un circuit street food guidé proposant 8 dégustations alléchantes et des expériences locales authentiques. Des en-cas grésillants aux desserts riches, chaque bouchée est soigneusement sélectionnée pour sa qualité, son goût et son hygiène.\nDécouvrez New Delhi en 2026 : les activités les plus populaires\nCircuit New Delhi\nNouveau circuit culinaire\nMeilleur circuit à Delhi\nMeilleur nouveau circuit culinaire\nVotre guide local vous conduira à travers des bazars animés et des ruelles cachées, partageant l'histoire culinaire, la culture et des anecdotes amusantes en chemin. Montez dans un tuk-tuk à travers des ruelles étroites, sirotez un lassi traditionnel dans des tasses en argile, et goûtez les célèbres délices de Delhi comme le chaat, les parathas, les kebabs et les jalebis chez des vendeurs de confiance établis de longue date.\nNouveau circuit culinaire\nCircuit à Delhi\nChaque arrêt culinaire est soigneusement sélectionné pour sa réputation, sa propreté et sa saveur authentique, rendant cette expérience non seulement délicieuse, mais aussi sûre et sans souci. Que vous soyez végétarien ou que vous préfériez des options non végétariennes, nous répondons à toutes les préférences gustatives.\nCircuit à Delhi\nCe circuit est parfait pour les visiteurs de première fois, les gourmets, les familles, les voyageurs solo et toute personne souhaitant une aventure locale sans se soucier des détails.\n\n### Ce qui est inclus\n\n- 8 dégustations authentiques de street food dans des lieux locaux de confiance\n- Guide culinaire privé anglophone\n- Trajet en tuk-tuk à travers Old Delhi\n- Eau en bouteille\n- Options végétariennes et non végétariennes disponibles\n- Aide à la photographie et perspectives culinaires locales\n- Gel hydroalcoolique disponible pendant le circuit\n- Prise en charge à la station de métro la plus proche (pour l'option point de rencontre)\n- Prise en charge et dépose à l'hôtel/aéroport (uniquement si l'option sélectionnée est choisie)\n\n### Non inclus\n\n- Pourboires ou gratifications (optionnels)\n- Nourriture ou boissons supplémentaires non incluses dans les dégustations\n- Dépenses personnelles",
+  "highlights": [
+   "Profitez de 8 dégustations authentiques de street food à Old Delhi"
+  ],
+  "included": [
+   "8 dégustations authentiques de street food dans des lieux locaux de confiance\nGuide culinaire privé anglophone\nTrajet en tuk-tuk à travers Old Delhi\nEau en bouteille\nOptions végétariennes et non végétariennes disponibles\nAide à la photographie et perspectives culinaires locales\nGel hydroalcoolique disponible pendant le circuit\nPrise en charge à la station de métro la plus proche (pour l'option point de rencontre)\nPrise en charge et dépose à l'hôtel/aéroport (uniquement si l'option sélectionnée est choisie)"
+  ],
+  "notIncluded": [
+   "Pourboires ou gratifications (optionnels)\nNourriture ou boissons supplémentaires non incluses dans les dégustations\nDépenses personnelles"
+  ]
+ },
+ "06-days-golden-triangle-tour-with-ranthambore": {
+  "title": "Circuit de 6 jours du Triangle d'Or avec safari à Ranthambore",
+  "metaTitle": "Circuit de 6 jours du Triangle d'Or, safari Ranthambore",
+  "metaDescription": "Sites mondialement célèbres du Triangle d'Or indien avec un safari aux tigres de Ranthambore, circuit de 6 jours.",
+  "shortDescription": "Sites mondialement célèbres du Triangle d'Or indien avec un safari aux tigres de Ranthambore.",
+  "fullDescription": "Circuit de 6 jours du Triangle d'Or avec safari à Ranthambore. Sites mondialement célèbres du Triangle d'Or indien avec un safari aux tigres de Ranthambore.\n\nExplorez les monuments les plus emblématiques de l'Inde lors du circuit du Triangle d'Or avec Ranthambore, avec chauffeur et guide. Bénéficiez d'une attention personnalisée et profitez d'un itinéraire flexible lors de ce circuit de 6 jours.\n\n### Ce qui est inclus\n\n- Taxi climatisé privé avec chauffeur anglophone\n- Guides touristiques professionnels agréés par le gouvernement à Delhi, Agra et Jaipur\n- Tous les péages, le stationnement et les taxes d'état\n- 2 bouteilles d'eau minérale par voyageur et par jour dans le taxi\n- Hôtels 4 étoiles pour 5 nuits d'hébergement avec petit-déjeuner\n- 2 safaris en jeep à Ranthambore\n\n### Non inclus\n\n- Tout pourboire pour le chauffeur ou le guide touristique\n- Frais d'entrée aux monuments\n- Déjeuner et dîner",
+  "highlights": [
+   "Sites mondialement célèbres du Triangle d'Or indien avec un safari aux tigres de Ranthambore"
+  ],
+  "included": [
+   "Taxi climatisé privé avec chauffeur anglophone\nGuides touristiques professionnels agréés par le gouvernement à Delhi, Agra et Jaipur\nTous les péages, le stationnement et les taxes d'état\n2 bouteilles d'eau minérale par voyageur et par jour dans le taxi\nHôtels 4 étoiles pour 5 nuits d'hébergement avec petit-déjeuner\n2 safaris en jeep à Ranthambore"
+  ],
+  "notIncluded": [
+   "Tout pourboire pour le chauffeur ou le guide touristique\nFrais d'entrée aux monuments\nDéjeuner et dîner"
+  ]
+ },
+ "from-delhi-4-day-private-golden-triangle-tour": {
+  "title": "Depuis Delhi : circuit privé de 4 jours du Triangle d'Or avec options",
+  "metaTitle": "Depuis Delhi : circuit privé 4 jours Triangle d'Or",
+  "metaDescription": "Visitez le Taj Mahal au lever du soleil, le Fort Ambre de Jaipur et les monuments emblématiques de Delhi, circuit de 4 jours.",
+  "shortDescription": "Visitez le Taj Mahal au lever du soleil, le Fort Ambre de Jaipur et les monuments emblématiques de Delhi",
+  "fullDescription": "Depuis Delhi : circuit privé de 4 jours du Triangle d'Or avec options. Visitez le Taj Mahal au lever du soleil, le Fort Ambre de Jaipur et les monuments emblématiques de Delhi.\n\nEmbarquez pour un circuit du Triangle d'Or, un itinéraire populaire en Inde couvrant Delhi, Agra et Jaipur. Hébergement, repas et billets optionnels. Ce circuit offre un aperçu de la riche histoire et culture de l'Inde.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'aéroport, à la gare, à l'hôtel ou à tout autre lieu à Delhi, Noida, Gurugram, Faridabad et Ghaziabad\n- Circuit privé\n- 3 nuits d'hébergement (si l'option est sélectionnée)\n- Transport en véhicule privé climatisé avec chauffeur\n- Guide personnel à toutes les attractions\n- Trajet en rickshaw à Old Delhi\n- Petit-déjeuner quotidien aux hôtels (si l'hébergement est inclus)\n- Transport en bus électrique vers et depuis le parking du Taj Mahal\n- Eau minérale en bouteille offerte pendant les transferts\n- Toutes les taxes applicables et suppléments carburant inclus\n\n### Non inclus\n\n- Boissons\n- Déjeuner et dîner\n- Billets d'entrée aux monuments (environ 70 $ USD par personne pour tous les monuments)\n- Pourboires/gratifications (optionnels)",
+  "highlights": [
+   "Visitez le Taj Mahal au lever du soleil, le Fort Ambre de Jaipur et les monuments emblématiques de Delhi"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'aéroport, à la gare, à l'hôtel ou à tout autre lieu à Delhi, Noida, Gurugram, Faridabad et Ghaziabad\nCircuit privé\n3 nuits d'hébergement (si l'option est sélectionnée)\nTransport en véhicule privé climatisé avec chauffeur\nGuide personnel à toutes les attractions\nTrajet en rickshaw à Old Delhi\nPetit-déjeuner quotidien aux hôtels (si l'hébergement est inclus)\nTransport en bus électrique vers et depuis le parking du Taj Mahal\nEau minérale en bouteille offerte pendant les transferts\nToutes les taxes applicables et suppléments carburant inclus"
+  ],
+  "notIncluded": [
+   "Boissons\nDéjeuner et dîner\nBillets d'entrée aux monuments (environ 70 $ USD par personne pour tous les monuments)\nPourboires/gratifications (optionnels)"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

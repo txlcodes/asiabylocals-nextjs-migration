@@ -27318,6 +27318,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Getränke\nPersönliche Ausgaben\nTrinkgelder (optional)"
   ]
  },
+ "old-delhi-food-tour-8-tastings-trusted-local-stops": {
+  "title": "Old-Delhi-Food-Tour: 8 Verkostungen an bewährten lokalen Stationen",
+  "metaTitle": "Old-Delhi-Food-Tour: 8 Verkostungen",
+  "metaDescription": "Genießen Sie 8 authentische Street-Food-Verkostungen in Old Delhi bei einer geführten Tour an vertrauenswürdigen Orten.",
+  "shortDescription": "Genießen Sie 8 authentische Street-Food-Verkostungen in Old Delhi",
+  "fullDescription": "Old-Delhi-Food-Tour: 8 Verkostungen an bewährten lokalen Stationen. Genießen Sie 8 authentische Street-Food-Verkostungen in Old Delhi.\n\nEntdecken Sie die unglaublichen Aromen und die Kultur von Old Delhi bei einer geführten Street-Food-Tour mit 8 köstlichen Verkostungen und authentischen lokalen Erlebnissen. Von brutzelnden Snacks bis zu reichhaltigen Desserts ist jeder Bissen sorgfältig für Qualität, Geschmack und Hygiene ausgewählt.\nSehen Sie New Delhi 2026: die beliebtesten Aktivitäten\nNew-Delhi-Tour\nNeue Food-Tour\nBeste Delhi-Tour\nBeste neue Food-Tour\nIhr lokaler Reiseführer führt Sie durch belebte Basare und versteckte Gassen und teilt dabei Essensgeschichte, Kultur und unterhaltsame Geschichten. Fahren Sie mit einem Tuk-Tuk durch enge Gassen, nippen Sie an traditionellem Lassi in Tonbechern und probieren Sie berühmte Delhi-Köstlichkeiten wie Chaat, Parathas, Kebabs und Jalebis von vertrauenswürdigen, langjährigen Verkäufern.\nNeue Food-Tour\nDelhi-Tour\nJeder Essensstopp wird sorgfältig nach Ruf, Sauberkeit und authentischem Geschmack ausgewählt, was dieses Erlebnis nicht nur köstlich, sondern auch sicher und sorgenfrei macht. Ob Sie Vegetarier sind oder nicht-vegetarische Optionen bevorzugen, wir bedienen alle Geschmacksvorlieben.\nDelhi-Tour\nDiese Tour ist perfekt für Erstbesucher, Feinschmecker, Familien, Alleinreisende und jeden, der ein lokales Abenteuer ohne Rätselraten sucht.\n\n### Inklusive\n\n- 8 authentische Street-Food-Verkostungen an vertrauenswürdigen lokalen Orten\n- Privater englischsprachiger Essensführer\n- Tuk-Tuk-Fahrt durch Old Delhi\n- Wasser in Flaschen\n- Vegetarische und nicht-vegetarische Optionen verfügbar\n- Foto-Unterstützung und lokale Essens-Einblicke\n- Handdesinfektionsmittel während der Tour verfügbar\n- Abholung von der nächstgelegenen U-Bahn-Station (für die Treffpunkt-Option)\n- Abholung und Rückfahrt am Hotel/Flughafen (nur bei Auswahl der entsprechenden Option)\n\n### Nicht inklusive\n\n- Trinkgelder (optional)\n- Zusätzliches Essen oder Getränke sind nicht in den Verkostungen enthalten\n- Persönliche Ausgaben",
+  "highlights": [
+   "Genießen Sie 8 authentische Street-Food-Verkostungen in Old Delhi"
+  ],
+  "included": [
+   "8 authentische Street-Food-Verkostungen an vertrauenswürdigen lokalen Orten\nPrivater englischsprachiger Essensführer\nTuk-Tuk-Fahrt durch Old Delhi\nWasser in Flaschen\nVegetarische und nicht-vegetarische Optionen verfügbar\nFoto-Unterstützung und lokale Essens-Einblicke\nHanddesinfektionsmittel während der Tour verfügbar\nAbholung von der nächstgelegenen U-Bahn-Station (für die Treffpunkt-Option)\nAbholung und Rückfahrt am Hotel/Flughafen (nur bei Auswahl der entsprechenden Option)"
+  ],
+  "notIncluded": [
+   "Trinkgelder (optional)\nZusätzliches Essen oder Getränke sind nicht in den Verkostungen enthalten\nPersönliche Ausgaben"
+  ]
+ },
+ "06-days-golden-triangle-tour-with-ranthambore": {
+  "title": "6-tägige Goldenes-Dreieck-Tour mit Ranthambore-Safari",
+  "metaTitle": "6-tägige Goldenes-Dreieck-Tour, Ranthambore-Safari",
+  "metaDescription": "Weltberühmte Sehenswürdigkeiten des indischen Goldenen Dreiecks mit einer Ranthambore-Tiger-Safari, 6-tägige Tour.",
+  "shortDescription": "Weltberühmte Sehenswürdigkeiten des indischen Goldenen Dreiecks mit einer Ranthambore-Tiger-Safari.",
+  "fullDescription": "6-tägige Goldenes-Dreieck-Tour mit Ranthambore-Safari. Weltberühmte Sehenswürdigkeiten des indischen Goldenen Dreiecks mit einer Ranthambore-Tiger-Safari.\n\nErkunden Sie Indiens ikonischste Denkmäler bei der Goldenes-Dreieck-Tour mit Ranthambore, mit Fahrer und Reiseführer. Genießen Sie persönliche Betreuung und einen flexiblen Reiseplan bei dieser 6-tägigen Tour.\n\n### Inklusive\n\n- Privates klimatisiertes Taxi mit englischsprachigem Fahrer\n- Professionelle, staatlich zugelassene Reiseführer in Delhi, Agra und Jaipur\n- Alle Mautgebühren, Parkgebühren und staatliche Steuern\n- 2 Flaschen Mineralwasser pro Reisendem und Tag im Taxi\n- 4-Sterne-Hotels für 5 Übernachtungen mit Frühstück\n- 2 Jeep-Safaris in Ranthambore\n\n### Nicht inklusive\n\n- Jegliches Trinkgeld für Fahrer oder Reiseführer\n- Eintrittsgebühren für Denkmäler\n- Mittag- und Abendessen",
+  "highlights": [
+   "Weltberühmte Sehenswürdigkeiten des indischen Goldenen Dreiecks mit einer Ranthambore-Tiger-Safari"
+  ],
+  "included": [
+   "Privates klimatisiertes Taxi mit englischsprachigem Fahrer\nProfessionelle, staatlich zugelassene Reiseführer in Delhi, Agra und Jaipur\nAlle Mautgebühren, Parkgebühren und staatliche Steuern\n2 Flaschen Mineralwasser pro Reisendem und Tag im Taxi\n4-Sterne-Hotels für 5 Übernachtungen mit Frühstück\n2 Jeep-Safaris in Ranthambore"
+  ],
+  "notIncluded": [
+   "Jegliches Trinkgeld für Fahrer oder Reiseführer\nEintrittsgebühren für Denkmäler\nMittag- und Abendessen"
+  ]
+ },
+ "from-delhi-4-day-private-golden-triangle-tour": {
+  "title": "Ab Delhi: 4-tägige private Goldenes-Dreieck-Tour mit Optionen",
+  "metaTitle": "Ab Delhi: 4-tägige private Goldenes-Dreieck-Tour",
+  "metaDescription": "Besuchen Sie das Taj Mahal bei Sonnenaufgang, das Amber-Fort in Jaipur und Delhis ikonische Wahrzeichen, 4-tägige Tour.",
+  "shortDescription": "Besuchen Sie das Taj Mahal bei Sonnenaufgang, das Amber-Fort in Jaipur und Delhis ikonische Wahrzeichen",
+  "fullDescription": "Ab Delhi: 4-tägige private Goldenes-Dreieck-Tour mit Optionen. Besuchen Sie das Taj Mahal bei Sonnenaufgang, das Amber-Fort in Jaipur und Delhis ikonische Wahrzeichen.\n\nBegeben Sie sich auf eine Goldenes-Dreieck-Tour, eine beliebte Route in Indien, die Delhi, Agra und Jaipur abdeckt. Optionale Unterkunft, Mahlzeiten und Tickets. Diese Tour bietet einen Einblick in Indiens reiche Geschichte und Kultur.\n\n### Inklusive\n\n- Abholung und Rückfahrt vom Flughafen, Bahnhof, Hotel oder jedem Ort in Delhi, Noida, Gurugram, Faridabad und Ghaziabad\n- Private Tour\n- 3 Übernachtungen (falls Option gewählt)\n- Transport im privaten, klimatisierten Fahrzeug mit Fahrer\n- Persönlicher Reiseführer an allen Attraktionen\n- Rikscha-Fahrt in Old Delhi\n- Tägliches Frühstück in Hotels (falls Unterkunft enthalten ist)\n- Batteriebus-Transport zum und vom Parkplatz des Taj Mahal\n- Kostenloses Mineralwasser in Flaschen während der Transfers\n- Alle anfallenden Steuern und Kraftstoffzuschläge inbegriffen\n\n### Nicht inklusive\n\n- Getränke\n- Mittag- und Abendessen\n- Eintrittskarten für Denkmäler (ca. 70 $ USD pro Person für alle Denkmäler)\n- Trinkgelder/Gratifikationen (optional)",
+  "highlights": [
+   "Besuchen Sie das Taj Mahal bei Sonnenaufgang, das Amber-Fort in Jaipur und Delhis ikonische Wahrzeichen"
+  ],
+  "included": [
+   "Abholung und Rückfahrt vom Flughafen, Bahnhof, Hotel oder jedem Ort in Delhi, Noida, Gurugram, Faridabad und Ghaziabad\nPrivate Tour\n3 Übernachtungen (falls Option gewählt)\nTransport im privaten, klimatisierten Fahrzeug mit Fahrer\nPersönlicher Reiseführer an allen Attraktionen\nRikscha-Fahrt in Old Delhi\nTägliches Frühstück in Hotels (falls Unterkunft enthalten ist)\nBatteriebus-Transport zum und vom Parkplatz des Taj Mahal\nKostenloses Mineralwasser in Flaschen während der Transfers\nAlle anfallenden Steuern und Kraftstoffzuschläge inbegriffen"
+  ],
+  "notIncluded": [
+   "Getränke\nMittag- und Abendessen\nEintrittskarten für Denkmäler (ca. 70 $ USD pro Person für alle Denkmäler)\nTrinkgelder/Gratifikationen (optional)"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

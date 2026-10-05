@@ -27318,6 +27318,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Bebidas\nGastos personales\nPropinas (opcionales)"
   ]
  },
+ "old-delhi-food-tour-8-tastings-trusted-local-stops": {
+  "title": "Tour gastronómico de Old Delhi: 8 degustaciones en paradas locales de confianza",
+  "metaTitle": "Tour gastronómico de Old Delhi: 8 degustaciones",
+  "metaDescription": "Disfrute de 8 degustaciones auténticas de comida callejera en Old Delhi en un tour guiado por lugares de confianza.",
+  "shortDescription": "Disfrute de 8 degustaciones auténticas de comida callejera en Old Delhi",
+  "fullDescription": "Tour gastronómico de Old Delhi: 8 degustaciones en paradas locales de confianza. Disfrute de 8 degustaciones auténticas de comida callejera en Old Delhi.\n\nDescubra los increíbles sabores y la cultura de Old Delhi en un tour guiado de comida callejera repleto de 8 deliciosas degustaciones y experiencias locales auténticas. Desde bocadillos chisporroteantes hasta ricos postres, cada bocado está cuidadosamente seleccionado por su calidad, sabor e higiene.\nVea New Delhi en 2026: las actividades más populares\nTour por New Delhi\nNuevo tour gastronómico\nMejor tour por Delhi\nMejor nuevo tour gastronómico\nSu guía local lo llevará por bulliciosos bazares y callejones ocultos, compartiendo historia culinaria, cultura e historias divertidas en el camino. Monte en un tuk-tuk por callejones estrechos, beba lassi tradicional en vasos de barro y pruebe las famosas delicias de Delhi como el chaat, los parathas, los kebabs y los jalebis de vendedores de confianza y de larga trayectoria.\nNuevo tour gastronómico\nTour por Delhi\nCada parada gastronómica se selecciona cuidadosamente por su reputación, limpieza y sabor auténtico, haciendo de esta experiencia no solo deliciosa, sino también segura y libre de preocupaciones. Ya sea que sea vegetariano o prefiera opciones no vegetarianas, atendemos todas las preferencias de gusto.\nTour por Delhi\nEste tour es perfecto para visitantes primerizos, amantes de la comida, familias, viajeros solos y cualquiera que desee una aventura local sin complicaciones.\n\n### Qué incluye\n\n- 8 degustaciones auténticas de comida callejera en lugares locales de confianza\n- Guía gastronómico privado de habla inglesa\n- Paseo en tuk-tuk por Old Delhi\n- Agua embotellada\n- Opciones vegetarianas y no vegetarianas disponibles\n- Asistencia fotográfica y conocimientos gastronómicos locales\n- Desinfectante de manos disponible durante el tour\n- Recogida en la estación de metro más cercana (para la opción de punto de encuentro)\n- Recogida y traslado al hotel/aeropuerto (solo si se elige la opción seleccionada)\n\n### No incluye\n\n- Propinas o gratificaciones (opcionales)\n- Comida o bebidas adicionales no incluidas en las degustaciones\n- Gastos personales",
+  "highlights": [
+   "Disfrute de 8 degustaciones auténticas de comida callejera en Old Delhi"
+  ],
+  "included": [
+   "8 degustaciones auténticas de comida callejera en lugares locales de confianza\nGuía gastronómico privado de habla inglesa\nPaseo en tuk-tuk por Old Delhi\nAgua embotellada\nOpciones vegetarianas y no vegetarianas disponibles\nAsistencia fotográfica y conocimientos gastronómicos locales\nDesinfectante de manos disponible durante el tour\nRecogida en la estación de metro más cercana (para la opción de punto de encuentro)\nRecogida y traslado al hotel/aeropuerto (solo si se elige la opción seleccionada)"
+  ],
+  "notIncluded": [
+   "Propinas o gratificaciones (opcionales)\nComida o bebidas adicionales no incluidas en las degustaciones\nGastos personales"
+  ]
+ },
+ "06-days-golden-triangle-tour-with-ranthambore": {
+  "title": "Tour de 6 días del Triángulo Dorado con safari en Ranthambore",
+  "metaTitle": "Tour de 6 días Triángulo Dorado, safari Ranthambore",
+  "metaDescription": "Lugares de fama mundial del Triángulo Dorado de la India con un safari de tigres de Ranthambore, tour de 6 días.",
+  "shortDescription": "Lugares de fama mundial del Triángulo Dorado de la India con un safari de tigres de Ranthambore.",
+  "fullDescription": "Tour de 6 días del Triángulo Dorado con safari en Ranthambore. Lugares de fama mundial del Triángulo Dorado de la India con un safari de tigres de Ranthambore.\n\nExplore los monumentos más icónicos de la India en el tour del Triángulo Dorado con Ranthambore, con conductor y guía. Obtenga atención personalizada y disfrute de un itinerario flexible en este tour de 6 días.\n\n### Qué incluye\n\n- Taxi privado con aire acondicionado y conductor de habla inglesa\n- Guías turísticos profesionales aprobados por el gobierno en Delhi, Agra y Jaipur\n- Todos los peajes, el estacionamiento y los impuestos estatales\n- 2 botellas de agua mineral por viajero y día en el taxi\n- Hoteles de 4 estrellas para 5 noches de alojamiento con desayuno\n- 2 safaris en jeep en Ranthambore\n\n### No incluye\n\n- Cualquier propina para el conductor o el guía turístico\n- Tarifas de entrada a monumentos\n- Almuerzo y cena",
+  "highlights": [
+   "Lugares de fama mundial del Triángulo Dorado de la India con un safari de tigres de Ranthambore"
+  ],
+  "included": [
+   "Taxi privado con aire acondicionado y conductor de habla inglesa\nGuías turísticos profesionales aprobados por el gobierno en Delhi, Agra y Jaipur\nTodos los peajes, el estacionamiento y los impuestos estatales\n2 botellas de agua mineral por viajero y día en el taxi\nHoteles de 4 estrellas para 5 noches de alojamiento con desayuno\n2 safaris en jeep en Ranthambore"
+  ],
+  "notIncluded": [
+   "Cualquier propina para el conductor o el guía turístico\nTarifas de entrada a monumentos\nAlmuerzo y cena"
+  ]
+ },
+ "from-delhi-4-day-private-golden-triangle-tour": {
+  "title": "Desde Delhi: tour privado de 4 días del Triángulo Dorado con opciones",
+  "metaTitle": "Desde Delhi: tour privado 4 días Triángulo Dorado",
+  "metaDescription": "Visite el Taj Mahal al amanecer, el Fuerte Amber de Jaipur y los monumentos emblemáticos de Delhi, tour de 4 días.",
+  "shortDescription": "Visite el Taj Mahal al amanecer, el Fuerte Amber de Jaipur y los monumentos emblemáticos de Delhi",
+  "fullDescription": "Desde Delhi: tour privado de 4 días del Triángulo Dorado con opciones. Visite el Taj Mahal al amanecer, el Fuerte Amber de Jaipur y los monumentos emblemáticos de Delhi.\n\nEmbárquese en un tour del Triángulo Dorado, una ruta popular en la India que cubre Delhi, Agra y Jaipur. Alojamiento, comidas y entradas opcionales. Este tour ofrece una visión de la rica historia y cultura de la India.\n\n### Qué incluye\n\n- Recogida y traslado desde el aeropuerto, la estación de tren, el hotel o cualquier lugar en Delhi, Noida, Gurugram, Faridabad y Ghaziabad\n- Tour privado\n- 3 noches de alojamiento (si se selecciona la opción)\n- Transporte en vehículo privado con aire acondicionado y conductor\n- Guía personal en todas las atracciones\n- Paseo en rickshaw en Old Delhi\n- Desayuno diario en hoteles (si se incluye alojamiento)\n- Transporte en autobús eléctrico hacia y desde la zona de estacionamiento del Taj Mahal\n- Agua mineral embotellada de cortesía durante los traslados\n- Todos los impuestos aplicables y recargos de combustible incluidos\n\n### No incluye\n\n- Bebidas\n- Almuerzo y cena\n- Entradas a monumentos (aprox. 70 $ USD por persona para todos los monumentos)\n- Propinas/gratificaciones (opcionales)",
+  "highlights": [
+   "Visite el Taj Mahal al amanecer, el Fuerte Amber de Jaipur y los monumentos emblemáticos de Delhi"
+  ],
+  "included": [
+   "Recogida y traslado desde el aeropuerto, la estación de tren, el hotel o cualquier lugar en Delhi, Noida, Gurugram, Faridabad y Ghaziabad\nTour privado\n3 noches de alojamiento (si se selecciona la opción)\nTransporte en vehículo privado con aire acondicionado y conductor\nGuía personal en todas las atracciones\nPaseo en rickshaw en Old Delhi\nDesayuno diario en hoteles (si se incluye alojamiento)\nTransporte en autobús eléctrico hacia y desde la zona de estacionamiento del Taj Mahal\nAgua mineral embotellada de cortesía durante los traslados\nTodos los impuestos aplicables y recargos de combustible incluidos"
+  ],
+  "notIncluded": [
+   "Bebidas\nAlmuerzo y cena\nEntradas a monumentos (aprox. 70 $ USD por persona para todos los monumentos)\nPropinas/gratificaciones (opcionales)"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
