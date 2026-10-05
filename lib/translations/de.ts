@@ -4123,6 +4123,69 @@ export const DE_TOURS: Record<string, TourT> = {
    "Kosten für weitere Aktivitäten"
   ]
  },
+ "tajmahal-with-mausoleum-skip-the-line-ticket-with": {
+  "title": "Taj Mahal mit Mausoleum: Skip-the-Line-Ticket mit Guide",
+  "metaTitle": "Taj Mahal: Skip-the-Line-Ticket mit Guide",
+  "metaDescription": "Skip-the-Line-Ticket.",
+  "shortDescription": "Skip-the-Line-Ticket.",
+  "fullDescription": "Erkunden Sie die Schönheit des Taj Mahal mit einer problemlosen und zeitsparenden Tour mit uns. Vermeiden Sie Zeitverschwendung in Warteschlangen und kommen Sie am Taj Mahal-Eingang an der Menge vorbei. Dieses Ticket ist ein Skip-the-Line-Ticket, sodass Sie keine Zeit damit verschwenden, in einer langen Schlange zu stehen.\n\nDas Ticket wird Ihnen persönlich von unserem Vertreter an Ihrem Standort in Agra zu Ihrer bevorzugten Zeit übergeben.\n\nUnser Eintrittsticket beinhaltet auch einen privaten Reiseführer (falls ausgewählt), der es Ihnen ermöglicht, die Geschichte und den Hintergrund dieses wunderbaren Denkmals zu erkunden, und Ihnen auch hilft, großartige Fotos im Inneren des Taj Mahal zu machen.\n\nDie Tour beinhaltet auch (falls ausgewählt) den Transport mit einem Tuk-Tuk zum Taj Mahal, und das gleiche Tuk-Tuk bringt Sie nach Ihrem Taj Mahal-Besuch zu Ihrem Hotel in Agra zurück.\n\nWir können das Eintrittsticket auch zum Taj Mahal-Parkplatz oder Ihrem bevorzugten Ort in Agra liefern, falls Sie Agra im Rahmen eines Tagesbesuchs besuchen.\n\nBitte beachten Sie: Dieses Ticket ermöglicht Ihnen den Eintritt zum Taj Mahal durch einen separaten Eingang, aber Sie müssen die Sicherheitskontrolle durchlaufen.",
+  "highlights": [
+   "Skip-the-Line-Ticket"
+  ],
+  "included": [
+   "Skip-the-Line-Eintrittsticket mit Taj Mahal Mausoleum",
+   "Privater Guide (falls ausgewählt)",
+   "Privates Tuk-Tuk (falls ausgewählt)",
+   "Wasser in Flaschen",
+   "Schuhüberzieher"
+  ],
+  "notIncluded": [
+   "Jegliches Essen oder Getränke",
+   "Trinkgeld"
+  ]
+ },
+ "taj-mahal-tour-from-delhi-with-skip-the-line": {
+  "title": "Taj Mahal Tour von Delhi mit Skip-the-Line-Eintritt",
+  "metaTitle": "Delhi-Agra: Taj Mahal, Skip-the-Line",
+  "metaDescription": "Skip-the-Line-Eintritt zum Taj Mahal.",
+  "shortDescription": "Skip-the-Line-Eintritt zum Taj Mahal.",
+  "fullDescription": "Entfliehen Sie den geschäftigen Straßen von Delhi und entdecken Sie die zeitlose Schönheit von Agra auf einer privaten Tagestour. Reisen Sie komfortabel entlang der Yamuna Expressway und erleben Sie das weltberühmte Taj Mahal mit bequemem Skip-the-Line-Eintritt.\n\nTreffen Sie Ihren erfahrenen lokalen Guide und erkunden Sie die faszinierende Geschichte, atemberaubende Architektur, und romantische Geschichte hinter Indiens ikonischstem Denkmal. Fahren Sie weiter zum prächtigen Agra Fort, einem UNESCO-Weltkulturerbe, das einst als Residenz der Mogulkaiser diente.\n\nBereichern Sie Ihr Erlebnis mit einem optionalen Besuch von Mehtab Bagh für atemberaubende Ausblicke auf das Taj Mahal über den Yamuna-Fluss, genießen Sie ein köstliches Mittagessen in einem erstklassigen lokalen Restaurant, und durchstöbern Sie Agras renommierte Marmor-Einlegearbeiten-Werkstätten und Kunsthandwerksläden.\n\nMit privatem Hin- und Rücktransport, Hotelabholung und -rückbringung, einem kompetenten Guide, und einem sorgfältig geplanten Reiseplan bietet diese Tour die perfekte Balance aus Geschichte, Kultur, Komfort und Bequemlichkeit, alles an einem einzigen unvergesslichen Tag.\n\nOb Sie Indien zum ersten Mal besuchen, als Paar, mit der Familie reisen, oder allein erkunden, diese Tagestour zum Taj Mahal von Delhi verspricht ein bereicherndes und problemloses Erlebnis, das Sie für immer in Erinnerung behalten werden.",
+  "highlights": [
+   "Skip-the-Line-Eintritt zum Taj Mahal"
+  ],
+  "included": [
+   "Abholung und Absetzung überall in Neu-Delhi",
+   "Mineralwasserflasche im Auto",
+   "Privater Reiseführer-Service",
+   "Mittagessen (falls ausgewählt)",
+   "Eintrittsgebühren (falls ausgewählt)",
+   "Alle Mautgebühren und Parkgebühren inklusive"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben"
+  ]
+ },
+ "from-mumbai-same-day-taj-mahal-by-flight": {
+  "title": "Von Mumbai aus: Taj Mahal am selben Tag mit dem Flugzeug",
+  "metaTitle": "Von Mumbai: Taj Mahal an einem Tag per Flugzeug",
+  "metaDescription": "Besuchen Sie das Taj Mahal und weitere Attraktionen Agras an einem actionreichen Tag.",
+  "shortDescription": "Besuchen Sie das Taj Mahal und weitere Attraktionen Agras an einem actionreichen Tag.",
+  "fullDescription": "Entdecken Sie Indiens Kronjuwel auf einer ganztägigen privaten Tour von Mumbai zum Taj Mahal. Wachen Sie früh am Morgen auf und nehmen Sie einen Flug von Mumbai nach Delhi, gefolgt von einem Transfer nach Agra. Machen Sie eine geführte Tour zu den beiden UNESCO-Weltkulturerbestätten, Taj Mahal und Agra Fort, bevor Sie nach Delhi für Ihren Flug nach Mumbai zurückkehren.\n\nDie Tour beginnt mit der Abholung vom Hotel oder gewünschten Ort in Mumbai und dem Transfer zum Flughafen Mumbai für Ihren Flug nach Delhi. Kommen Sie am Flughafen in Delhi an und fahren Sie 3 Stunden über die Express-Autobahn nach Agra in einem privaten klimatisierten Auto. Bei der Ankunft treffen Sie Ihren Reiseführer und besuchen das UNESCO-Weltkulturerbe Taj Mahal. Das weltbekannteste Grabmal zeugt von der zeitlosen Liebesgeschichte des Mogulkaisers des 17. Jahrhunderts, Shah Jahan, und seiner Frau, Königin Mumtaz Mahal.\n\nMachen Sie eine Mittagspause im Hotel mit lokalen und internationalen Geschmacksrichtungen.\n\nNach dem Mittagessen besuchen Sie ein weiteres UNESCO-Weltkulturerbe, das Agra Fort. Die eleganten Gebäude im Inneren spiegeln eine interessante Synthese aus hinduistischen und zentralasiatischen Architekturstilen wider. Das Labyrinth aus Höfen, Moscheen, und privaten Gemächern der Festung widerhallt die Geschichte des Mogulreichs.\n\nFalls die Zeit es erlaubt, können Sie auch das Einkaufen in Agra genießen, bekannt für seine fabelhaften Kunsthandwerke aus Marmor- und Weichstein-Einlegearbeiten. Danach werden Sie zum Flughafen Delhi für Ihren Rückflug nach Mumbai transferiert. Nach der Ankunft in Mumbai werden Sie am Flughafen abgeholt und zu Ihrem Hotel in Mumbai zurückgebracht.",
+  "highlights": [
+   "Besuchen Sie das Taj Mahal und weitere Attraktionen Agras an einem actionreichen Tag"
+  ],
+  "included": [
+   "Eintrittsgebühren zum Denkmal",
+   "Besichtigung im privaten klimatisierten Auto",
+   "Hin- und Rückflugtickets (Mumbai-Delhi)",
+   "Professioneller Live-Reiseführer",
+   "Abholung und Rückbringung zum Hotel"
+  ],
+  "notIncluded": [
+   "Essen und Getränke",
+   "Trinkgeld"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
