@@ -24480,6 +24480,74 @@ export const DE_TOURS: Record<string, TourT> = {
    "Traditionelles indisches Abendessen in einem lokalen Restaurant"
   ]
  },
+ "delhi-old-city-guided-tour-with-rickshaw-ride": {
+  "title": "Delhi: geführte Altstadttour mit Rikscha-Fahrt und Abholung",
+  "metaTitle": "Delhi: Altstadt geführt, Rikscha",
+  "metaDescription": "Genießen Sie eine geführte Wandertour durch die historischen Gassen von Alt-Delhi",
+  "shortDescription": "Genießen Sie eine geführte Wandertour durch die historischen Gassen von Alt-Delhi",
+  "fullDescription": "Delhi: geführte Altstadttour mit Rikscha-Fahrt und Abholung. Genießen Sie eine geführte Wandertour durch die historischen Gassen von Alt-Delhi.\n\n**Hotelabholung**\nBeginnen Sie Ihre kulturelle Reise mit einer bequemen Abholung von Ihrem Hotel oder dem Flughafen in Delhi, Noida, Gurugram, Ghaziabad, oder Faridabad.\n\n**Jama Masjid**\nBesuchen Sie die Jama Masjid, eine der größten Moscheen Indiens. Bewundern Sie ihre prächtige Architektur und ihren friedlichen Innenhof, während Ihr Reiseführer ihre historische Bedeutung erläutert.\n\n**Rikscha-Fahrt und Chandni Chowk**\nGenießen Sie eine traditionelle Rikscha-Fahrt durch die belebten Gassen von Chandni Chowk, einen der ältesten und lebendigsten Märkte Delhis.\n\n**Wandertour und Straßenerkundung**\nSpazieren Sie durch die engen Straßen von Chandni Chowk, erkunden Sie lokale Basare, und erhalten Sie einen Geschmack von Delhis Kultur durch Essen und Markterlebnisse.\n\n**Khari-Baoli-Gewürzmarkt**\nBesuchen Sie Khari Baoli, Asiens größten Gewürzmarkt. Nehmen Sie die Aromen und Farben verschiedener Gewürze, Kräuter, und Trockenfrüchte in sich auf, während Sie mehr über ihre Verwendung und Geschichte erfahren.\n\n**Gurudwara Bangla Sahib**\nErleben Sie die Ruhe des Gurudwara Bangla Sahib, eines bedeutenden Sikh-Tempels, bekannt für seine spirituelle Atmosphäre und Gemeinschaftsküche.\n\n**Rotes Fort (Außenansicht)**\nHalten Sie für eine Außenansicht des Roten Forts, ein UNESCO-Weltkulturerbe und ein ikonisches Beispiel mogulischer Architektur.\n\n**Rajghat**\nBeenden Sie Ihre Tour mit einem Besuch von Rajghat, dem friedlichen Denkmal von Mahatma Gandhi, wo Sie über sein Leben und Vermächtnis nachdenken können.\n\n**Rückfahrt**\nRückkehr bequem zu Ihrem Hotel oder bevorzugten Ort in Delhi.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel (Delhi, Noida, Gurgaon, usw.)\nProfessioneller englischsprachiger lokaler Reiseführer\nRikscha-Fahrt durch Chandni Chowk\nWasser in Flaschen\nWandertour durch die Märkte von Alt-Delhi und den Gewürzbasar\nAlle anfallenden Steuern und Servicegebühren\n\n**Nicht inbegriffen**\nEintrittsgebühren\nSpeisen und Getränke\nTrinkgelder",
+  "highlights": [
+   "Genießen Sie eine geführte Wandertour durch die historischen Gassen von Alt-Delhi"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel (Delhi, Noida, Gurgaon, usw.)",
+   "Professioneller englischsprachiger lokaler Reiseführer",
+   "Rikscha-Fahrt durch Chandni Chowk",
+   "Wasser in Flaschen",
+   "Wandertour durch die Märkte von Alt-Delhi und den Gewürzbasar",
+   "Alle anfallenden Steuern und Servicegebühren"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren",
+   "Speisen und Getränke",
+   "Trinkgelder"
+  ]
+ },
+ "delhi-private-chandni-chowk-dilli-haat-spice-tour": {
+  "title": "Delhi: private Tour durch Chandni Chowk, Dilli Haat, und den Gewürzmarkt",
+  "metaTitle": "Delhi: Chandni Chowk privat, Dilli Haat, Gewürze",
+  "metaDescription": "Durchqueren Sie die legendären Gassen von Chandni Chowk, Delhis ältesten und lebendigsten Markt",
+  "shortDescription": "Durchqueren Sie die legendären Gassen von Chandni Chowk, Delhis ältesten und lebendigsten Markt",
+  "fullDescription": "Delhi: private Tour durch Chandni Chowk, Dilli Haat, und den Gewürzmarkt. Durchqueren Sie die legendären Gassen von Chandni Chowk, Delhis ältesten und lebendigsten Markt.\n\nBetreten Sie ein lebendiges Museum aus Farben, Aromen, und Handwerkskunst bei dieser halbtägigen privaten Spaziergangs- und Einkaufstour durch Alt- und New Delhi. Beginnen Sie mit einer Abholung von Ihrem Hotel in Delhi, und tauchen Sie direkt in das lebendige Chaos von Chandni Chowk ein, einem historischen Markt, der auf die Mogulzeit zurückgeht. Navigieren Sie durch enge Gassen zu Fuß und per Rikscha, während Ihr Reiseführer reichhaltige Geschichten über königliche Umzüge, Gewürzrouten, und alte Traditionen teilt, die noch heute lebendig sind.\n\nAls Nächstes besuchen Sie Khari Baoli, den größten Großhandels-Gewürzmarkt Asiens. Atmen Sie die exotischen Düfte von Safran, Kardamom, Zimt, und Chili ein. Erfahren Sie, wie diese Gewürze Indiens Geschichte und Küche geprägt haben, und bringen Sie einige der frischesten Mischungen der Welt als Souvenirs mit nach Hause.\n\nDanach wechseln Sie den Rhythmus und fahren zum Dilli Haat, einem kuratierten, staatlich betriebenen Basar, wo ländliche Kunsthandwerker aus ganz Indien handgefertigte Textilien, Schmuck, Wohndekoration, und mehr präsentieren. Sie haben Zeit, mit den Verkäufern zu interagieren, bei der Herstellung von Kunsthandwerk zuzusehen, und optional lokale Street Food aus verschiedenen Regionen Indiens zu genießen.\n\nDiese Tour ist nicht nur ein Einkaufserlebnis, sie ist eine sinnliche und kulturelle Reise ins Herz Delhis.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt von Hotels in Delhi NCR\nPrivates klimatisiertes Auto\nLizenzierter Reiseführer\nTraditionelle Rikscha-Fahrt in Chandni Chowk\nWasser in Flaschen während der Tour\nEintrittskarten für Dilli Haat\nParken, Mautgebühren, und Treibstoffkosten\n\n**Nicht inbegriffen**\nMahlzeiten und Snacks (käuflich erhältlich)\nEinkäufe\nTrinkgelder für Reiseführer und Fahrer",
+  "highlights": [
+   "Durchqueren Sie die legendären Gassen von Chandni Chowk, Delhis ältesten und lebendigsten Markt"
+  ],
+  "included": [
+   "Abholung und Rückfahrt von Hotels in Delhi NCR",
+   "Privates klimatisiertes Auto",
+   "Lizenzierter Reiseführer",
+   "Traditionelle Rikscha-Fahrt in Chandni Chowk",
+   "Wasser in Flaschen während der Tour",
+   "Eintrittskarten für Dilli Haat",
+   "Parken, Mautgebühren, und Treibstoffkosten"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Snacks (käuflich erhältlich)",
+   "Einkäufe",
+   "Trinkgelder für Reiseführer und Fahrer"
+  ]
+ },
+ "delhi-customizable-old-and-new-delhi-half-or-full": {
+  "title": "Delhi: individuell anpassbare Tour durch Alt- und New Delhi, halber oder ganzer Tag",
+  "metaTitle": "Delhi: Alt- und New Delhi, individuell",
+  "metaDescription": "Gleiten Sie durch die farbenfrohen Gassen von Chandni Chowk in einer offenen Rikscha.",
+  "shortDescription": "Gleiten Sie durch die farbenfrohen Gassen von Chandni Chowk in einer offenen Rikscha.",
+  "fullDescription": "Delhi: individuell anpassbare Tour durch Alt- und New Delhi, halber oder ganzer Tag. Gleiten Sie durch die farbenfrohen Gassen von Chandni Chowk in einer offenen Rikscha.\n\n**Stadtrundfahrt Alt- und New Delhi (Ganztägig – 8 Stunden)**\nBeginnen Sie mit einer freundlichen Abholung, und machen Sie es sich in einem privaten, klimatisierten Auto bequem. Ihr Reiseführer bringt Sie zunächst durch die gewürzduftenden Märkte von Chandni Chowk, bevor Sie am weitläufigen Innenhof der Jama Masjid für eine geführte Besichtigung halten. Sie fahren an den hoch aufragenden roten Mauern des Roten Forts vorbei und erhaschen einen Blick auf die Gewürzstände von Khari Baoli, bevor Sie in die ruhigen Hallen des Gurudwara Bangla Sahib eintreten. Beim Übergang nach New Delhi erkunden Sie die emporragende Spitze des Qutub Minar und besuchen die friedlichen Gärten von Humayuns Grabmal. Fahren Sie an India Gate und dem Parlamentsgebäude vorbei, betreten Sie dann den Laxmi-Narayan-Tempel, bevor Sie am Lotustempel innehalten. Schließlich umrunden Sie die prächtige Fassade des Rashtrapati Bhavan, und steigen hinab in den verborgenen Stufenbrunnen von Agrasen ki Baoli. Am Abend kehren Sie mit reichhaltigen Geschichten und bleibenden Erinnerungen zu Ihrem Hotel zurück.\n\n**Halbtagestour Alt-Delhi (4 Stunden)**\nIhr Tag beginnt mit einer Abholung direkt vor Ihrer Tür, dann geht es direkt ins Herz von Alt-Delhi. Fahren Sie durch die belebten Gassen von Chandni Chowk, besuchen Sie den weitläufigen Innenhof der Jama Masjid, und fahren Sie an den Festungsmauern des Roten Forts vorbei. Schlendern Sie durch die duftenden Gassen von Khari Baoli, und finden Sie dann Ruhe in den heiligen Korridoren des Gurudwara Bangla Sahib. Unterwegs teilt Ihr Reiseführer jahrhundertealte Geschichten von Händlern und Kaisern, die Ihnen einen lebendigen Eindruck von Delhis gelebter Geschichte vermitteln, bevor Sie zu Ihrem Ausgangspunkt zurückgebracht werden.\n\n**Halbtagestour New Delhi (4 Stunden)**\nNach der Abholung beginnen Sie bei den antiken Ruinen des Qutub Minar, und bewundern sein hoch aufragendes Minarett. Fahren Sie am Gedenkbogen von India Gate und dem prächtigen Parlamentsgebäude vorbei, und stellen Sie sich die Echos der dort geführten Debatten vor. Betreten Sie die königlichen Gärten von Humayuns Grabmal, und erkunden Sie dann die reich verzierten Hallen des Laxmi-Narayan-Tempels. Halten Sie an den skulptierten Blütenblättern des Lotustempels inne, für einen Moment der Besinnung, bevor Sie das majestätische Rashtrapati Bhavan umrunden. Schließlich entdecken Sie die Steinstufen von Agrasen ki Baoli, ein verborgenes Juwel, das von Delhis vielschichtiger Vergangenheit erzählt, bevor Sie zu Ihrem Rückfahrpunkt zurückkehren.\n\n**Was ist inbegriffen**\nBesichtigungen in einem privaten klimatisierten Auto mit Chauffeur\nPrivater Live-Reiseführer gemäß Reiseroute\nKostenlose Wasserflaschen und Regenschirme\nAlle Parkgebühren, Mautgebühren, Treibstoff, und Steuern\nEintrittskarten für die Sehenswürdigkeiten (falls die Option \"Tour mit Eintrittsgebühren\" gewählt wird)\n\n**Nicht inbegriffen**\nTrinkgelder und Gratifikationen\nMahlzeiten",
+  "highlights": [
+   "Gleiten Sie durch die farbenfrohen Gassen von Chandni Chowk in einer offenen Rikscha"
+  ],
+  "included": [
+   "Besichtigungen in einem privaten klimatisierten Auto mit Chauffeur",
+   "Privater Live-Reiseführer gemäß Reiseroute",
+   "Kostenlose Wasserflaschen und Regenschirme",
+   "Alle Parkgebühren, Mautgebühren, Treibstoff, und Steuern",
+   "Eintrittskarten für die Sehenswürdigkeiten (falls die Option \"Tour mit Eintrittsgebühren\" gewählt wird)"
+  ],
+  "notIncluded": [
+   "Trinkgelder und Gratifikationen",
+   "Mahlzeiten"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
