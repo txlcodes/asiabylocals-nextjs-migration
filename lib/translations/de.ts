@@ -4616,6 +4616,74 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittsgebühren zu den Denkmälern"
   ]
  },
+ "from-delhi-sunrise-private-taj-mahal-tour-with": {
+  "title": "Von Delhi aus: private Taj Mahal Tour bei Sonnenaufgang mit Bootsfahrt",
+  "metaTitle": "Delhi-Agra: Taj Mahal bei Sonnenaufgang, Boot",
+  "metaDescription": "Erleben Sie das Taj Mahal beim Sonnenaufgang mit weniger Menschenmassen.",
+  "shortDescription": "Erleben Sie das Taj Mahal beim Sonnenaufgang mit weniger Menschenmassen.",
+  "fullDescription": "Erleben Sie die Magie des Taj Mahal beim Sonnenaufgang auf dieser privaten Tagestour von Delhi aus. Reisen Sie komfortabel in einem privaten klimatisierten Auto nach Agra, und kommen Sie früh an, um zu erleben, wie das Denkmal in sanftem goldenem Licht erstrahlt, perfekt für unvergessliche Fotos. Ihr erfahrener Guide erzählt die romantische Geschichte von Shah Jahan und Mumtaz Mahal, während Sie dieses UNESCO-Weltkulturerbe erkunden.\n\nBereichern Sie Ihr Erlebnis mit einer ruhigen Bootsfahrt auf dem Yamuna-Fluss, die einen einzigartigen Rückblick auf das Taj Mahal abseits der Menschenmassen bietet. Danach genießen Sie ein köstliches Frühstück in einem erstklassigen 5-Sterne-Hotel wie dem Courtyard by Marriott Agra oder ähnlich.\n\nSetzen Sie Ihre Reise mit einem Besuch des beeindruckenden Agra Forts fort, einer historischen Mogul-Residenz, bekannt für ihre grandiosen Paläste, Höfe, und atemberaubenden Ausblicke auf das Taj Mahal. Sie können auch lokale Kunst und Handwerk erkunden, einschließlich Marmor-Einlegearbeiten, bevor Sie nach Delhi zurückkehren.\n\nDiese private Tour ist auf Komfort, Flexibilität, und ein erstklassiges Erlebnis ausgelegt, perfekt für Reisende, die eine unvergessliche und problemlose Reise suchen.\n\n**Reiseroute**\n\n**2:30 Uhr: Abholung von Delhi (Hotel/Flughafen)**\nPrivates klimatisiertes Auto über die Yamuna Expressway.\n\n**5:45 Uhr: Ankunft in Agra und Treffen mit dem Guide**\n\n**6:00 Uhr: Sonnenaufgangsbesuch am Taj Mahal (2 Stunden)**\n\n**8:15 Uhr: Bootsfahrt auf dem Yamuna-Fluss (30 bis 45 Minuten)**\n\n**9:15 Uhr: Frühstück im 5-Sterne-Hotel (1 Stunde)**\n\n**10:30 Uhr: Besuch des Agra Forts (1 bis 1,5 Stunden)**\n\n**12:00 Uhr: lokale Kunst- und Handwerkserfahrung (optional)**\n\n**13:00 Uhr: Rückfahrt nach Delhi**\n\n**17:30 bis 18:00 Uhr: Absetzung am Hotel/Flughafen**\n\n**FAQ**\n\nWann beginnt die Tour?\nGegen 2:30-3:00 Uhr für den Sonnenaufgang.\n\nWas macht diese Tour besonders?\nSie beinhaltet eine Bootsfahrt und ein 5-Sterne-Frühstück für ein erstklassiges Erlebnis.\n\nIst das Frühstück enthalten?\nJa, in einem 5-Sterne-Hotel.\n\nIst die Bootsfahrt garantiert?\nAbhängig von Fluss- und Wetterbedingungen.\n\nIst dies eine private Tour?\nJa, 100 % privat.\n\nKönnen Tickets enthalten sein?\nJa, auf Anfrage.\n\n**Wichtiger Hinweis**\n\nDie Einschlüsse hängen von der bei der Buchung gewählten Option ab.\nDie Rundum-Option beinhaltet Eintrittskarten zu den Denkmälern und Mahlzeiten.\nAndere Optionen können Frühstück und/oder Eintrittskarten zu den Denkmälern ausschließen.\nBitte überprüfen Sie Ihre gewählte Option sorgfältig.",
+  "highlights": [
+   "Erleben Sie das Taj Mahal beim Sonnenaufgang mit weniger Menschenmassen"
+  ],
+  "included": [
+   "Abholung und Rückbringung",
+   "Privates klimatisiertes Auto für die gesamte Touraktivität",
+   "Professioneller Reiseführer",
+   "Eintrittskarten zu den Denkmälern (falls ausgewählt)",
+   "Mittagessen im 5-Sterne-Hotel (falls ausgewählt)",
+   "Mineralwasserflasche",
+   "Schuhüberzieher",
+   "Alle Mautgebühren, Kraftstoff, Steuern, und Parken"
+  ],
+  "notIncluded": [
+   "Trinkgeld",
+   "Jegliche persönlichen Ausgaben"
+  ]
+ },
+ "taj-mahal-agra-tour-from-goa": {
+  "title": "Taj Mahal und Agra Tour von Goa aus",
+  "metaTitle": "Goa-Agra: Taj Mahal Tour",
+  "metaDescription": "Tauchen Sie ein in die Schönheit des Taj Mahal; seine Schönheit wird Sie sicher bewegen.",
+  "shortDescription": "Tauchen Sie ein in die Schönheit des Taj Mahal; seine Schönheit wird Sie sicher bewegen.",
+  "fullDescription": "**Tag 1: Ankunft in Delhi von Goa aus**\nBei Ihrer Ankunft in Delhi von Goa aus am Flughafen wird Sie unser Firmenvertreter am Flughafen begrüßen. Nach einem herzlichen Empfang begleitet Sie unser Vertreter zu Ihrem vorgebuchten Hotel in Delhi. Genießen Sie eine Übernachtung im Hotel in Delhi.\n\n**Tag 2: Tagesausflug zum Taj Mahal von Delhi aus**\nStehen Sie früh am Morgen auf, nehmen Sie Ihr Lunchpaket-Frühstück, und checken Sie aus dem Hotel aus; Sie werden direkt nach Agra über die superschnelle Expressstraße gefahren. Dies dauert mehr als 3 Stunden. Bei der Ankunft in Agra stellt Ihnen unser Firmenvertreter Ihren privaten Guide vor. Danach geht es weiter zum Besuch des Sinnbilds der Liebe, dem Taj Mahal. Das Taj Mahal wurde vom Mogulkaiser Shah Jahan für seine geliebte Frau Mumtaz erbaut. Danach geht es weiter zum Besuch des Agra Forts und von Itmad-Ud-Daula. Nach der Besichtigung genießen Sie eine Shopping-Tour am Agra Bazaar. Anschließend werden Sie nach Delhi gefahren; unser Fahrer setzt Sie am Flughafen ab, um Ihren Flug nach Goa zu erreichen.",
+  "highlights": [
+   "Tauchen Sie ein in die Schönheit des Taj Mahal; seine Schönheit wird Sie sicher bewegen"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug für die gesamte Tour",
+   "Alle Mautgebühren, Parken, Steuern zwischen Bundesstaaten, und Kraftstoffkosten",
+   "Abholung und Absetzung am Flughafen/Bahnhof in Delhi",
+   "Besichtigung gemäß Reiseplan",
+   "1 Nacht Unterbringung im 3-Sterne-Hotel, im Einzel-/Doppelzimmer mit Teilung",
+   "Tägliches Frühstück im Hotel",
+   "Staatlich zugelassener englischsprachiger Reiseführer"
+  ],
+  "notIncluded": [
+   "Eintrittskarten zu den Denkmälern",
+   "Andere persönliche Ausgaben",
+   "Eventuelles Trinkgeld",
+   "Flugtickets"
+  ]
+ },
+ "agra-taj-mahal-skip-the-line-sunrise-tour": {
+  "title": "Agra: Taj Mahal Sonnenaufgangstour mit Skip-the-Line-Eintritt",
+  "metaTitle": "Agra: Taj Mahal bei Sonnenaufgang, Skip-the-Line",
+  "metaDescription": "Vermeiden Sie die großen Menschenmassen am Schalter mit vorab gebuchten Tickets.",
+  "shortDescription": "Vermeiden Sie die großen Menschenmassen am Schalter mit vorab gebuchten Tickets.",
+  "fullDescription": "Buchen Sie Ihre Taj Mahal Tickets im Voraus und gehen Sie bei der Ankunft direkt hinein. Vergessen Sie das lästige Warten in der Schlange und nutzen Sie Ihre Zeit in Agra optimal mit einem Express-Eintrittsticket für dieses faszinierende Denkmal.\n\nKommen Sie direkt am Taj Mahal an und erhalten Sie Zugang mit Tickets, die auf Ihr Telefon geliefert werden. Entdecken Sie dieses historische UNESCO-Weltkulturerbe, das aus dem 17. Jahrhundert stammt, und bewundern Sie seine kunstvolle Architektur.\n\nTauchen Sie in die lokale Geschichte ein, während Sie durch diesen weltberühmten Komplex schlendern.\nSkip-the-Line-Eintritt zum Taj Mahal, ohne in der Schlange zu warten oder anzustehen.\n\nHinweis: Sobald Sie die Tour gebucht haben, müssen Sie uns mit den Namen kontaktieren; Ihr Guide hat Ihre Tickets bereit, bevor er Sie trifft.",
+  "highlights": [
+   "Vermeiden Sie die großen Menschenmassen am Schalter mit vorab gebuchten Tickets"
+  ],
+  "included": [
+   "Eintrittsticket zum Taj Mahal und Mausoleum (falls ausgewählt)",
+   "Mineralwasser",
+   "Lokaler Guide, der Sie durch den Express-Eingang führt (kein Anstehen)",
+   "Schuhüberzieher"
+  ],
+  "notIncluded": [
+   "Trinkgeld"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
