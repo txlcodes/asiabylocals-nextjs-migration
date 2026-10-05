@@ -20883,6 +20883,74 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "new-delhi-3-days-ranthambore-tiger-safari-tour": {
+  "title": "New Delhi: 3-tägige Ranthambore-Tiger-Safari-Tour mit Hotel",
+  "metaTitle": "New Delhi: Ranthambore-Tiger-Safari, 3 Tage",
+  "metaDescription": "Genießen Sie aufregende Vormittags- und Nachmittagssafaris im Ranthambore-Nationalpark.",
+  "shortDescription": "Genießen Sie aufregende Vormittags- und Nachmittagssafaris im Ranthambore-Nationalpark.",
+  "fullDescription": "New Delhi: 3-tägige Ranthambore-Tiger-Safari-Tour mit Hotel. Genießen Sie aufregende Vormittags- und Nachmittagssafaris im Ranthambore-Nationalpark.\n\nTag 1: Delhi – Ranthambore\nAbholung durch den Fahrer vom Flughafen/Hotel in New Delhi. Fahrt zum Ranthambore-Nationalpark und Tigerreservat. Check-in im Hotel. Der Park beherbergt verschiedene Arten wie Leoparden, Streifenhyänen, Tiger, Sambar-Hirsche, Nilgauantilopen, und Axishirsche. Rückkehr zum Hotel zur Übernachtung.\n\nTag 2: Ranthambore-Tiger-Safari-Tour\nGenießen Sie eine ganztägige Dschungel-Safari im Ranthambore-Nationalpark. Die aufregenden morgendlichen und abendlichen Jeep-Safaris im Park sind die beste und unterhaltsamste Art, Tiger und andere Tierwelt im Park zu entdecken. Rückkehr zum Resort zur Übernachtung.\n\nTag 3: Von Ranthambore nach Delhi\nMachen Sie sich bereit für eine weitere morgendliche Safari, und kehren Sie zum Resort zum Frühstück zurück. Nach dem Frühstück Transfer zum Flughafen/Hotel in New Delhi.\n\n**Was ist enthalten**\nAlle Steuern, Mautgebühren, Parken, Treibstoff, und Fahrerkosten\nBesichtigung im klimatisierten Fahrzeug mit Fahrer\nWasser in Flaschen im Auto\nAbholung und Rückfahrt zum Hotel/Flughafen\n4- oder 5-Sterne-Hotel in Ranthambore mit Frühstück, Mittag-, und Abendessen\n2 Tiger-Safaris morgens und abends (Jeep oder Canter)\n\n**Nicht enthalten**\nJegliche Trinkgelder für Reiseführer und Fahrer\nJegliche beim Mittagessen servierten Getränke\nAlles, was nicht in den Einschlüssen erwähnt wird",
+  "highlights": [
+   "Genießen Sie aufregende Vormittags- und Nachmittagssafaris im Ranthambore-Nationalpark"
+  ],
+  "included": [
+   "Alle Steuern, Mautgebühren, Parken, Treibstoff, und Fahrerkosten",
+   "Besichtigung im klimatisierten Fahrzeug mit Fahrer",
+   "Wasser in Flaschen im Auto",
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "4- oder 5-Sterne-Hotel in Ranthambore mit Frühstück, Mittag-, und Abendessen",
+   "2 Tiger-Safaris morgens und abends (Jeep oder Canter)"
+  ],
+  "notIncluded": [
+   "Jegliche Trinkgelder für Reiseführer und Fahrer",
+   "Jegliche beim Mittagessen servierten Getränke",
+   "Alles, was nicht in den Einschlüssen erwähnt wird"
+  ]
+ },
+ "old-delhi-haveli-with-live-classical-dance-music": {
+  "title": "Haveli in Alt-Delhi mit klassischem Tanz, Musik, und Küche live",
+  "metaTitle": "Alt-Delhi: Haveli, klassischer Tanz, und Küche",
+  "metaDescription": "Genießen Sie eine fesselnde klassische Tanzaufführung live.",
+  "shortDescription": "Genießen Sie eine fesselnde klassische Tanzaufführung live.",
+  "fullDescription": "Haveli in Alt-Delhi mit klassischem Tanz, Musik, und Küche live. Genießen Sie eine fesselnde klassische Tanzaufführung live.\n\nTreffen Sie unseren Vertreter in Ihrem Hotel. Da wir in die Altstadt müssen, nutzen wir eine Kombination aus „Tuk-Tuk\" und U-Bahn, um den Veranstaltungsort zu erreichen. Wir beginnen bald, durch die Gassen zu laufen, und erreichen die Stufen unseres prächtigen alten Hauses, bekannt als „Haveli\", und werden in die vergangene Ära der kaiserlichen „Mogul\"-Zeit zurückversetzt. Staunen Sie über die perfekt erhaltenen alten Artefakte, und spüren Sie ein kleines Museumsgefühl im Inneren. Nehmen Sie Platz, und machen Sie sich bereit, fesselnde klassische indische Musik zu erleben, live vor Ihren Augen gespielt. Sie werden das Duett zwischen 2 Musikern sehen: Einer spielt die „Tabla\", ein Paar Handtrommeln, das das wichtigste Percussion-Instrument der klassischen Musik ist. Der andere Musiker spielt die „Sitar\", ein gezupftes Saiteninstrument, das im 18. Jahrhundert erfunden wurde.\nZeit, eine atemberaubende „Kathak\"-Tanzaufführung zu sehen: Die Tänzerin erzählt viele Volksgeschichten, während sie Handbewegungen und aufwändige Fußarbeit zeigt; ihre anmutigen Körperbewegungen, Geschicklichkeit, und fesselnden Gesichtsausdrücke können das Publikum hypnotisieren.\nMittagessen mit Spezialitäten aus Alt-Delhi: Zeit, Ihren Geschmacksknospen zu gefallen, und die Aromen von Alt-Delhi zu genießen. Essen Sie, während Sie das antike Ambiente des Haveli genießen, und seien Sie unser Gast. Wir haben ein weiteres altes „Haveli\", und Sie sind herzlich eingeladen, auch dort einen Besuch abzustatten, machen Sie eine Zeitreise wie in einer Zeitkapsel, und fühlen Sie die alte Welt um sich herum, wo sich nichts verändert hat, und die Menschen weiterhin ihre Traditionen, ihre Küche, ihre Kleidung, und ihre Ethnie bewahren.\nSie sind herzlich eingeladen, jede Frage zu stellen, die Ihnen zur Kultur der Menschen um Sie herum oder zur Kunst/Architektur der alten Häuser um Sie herum in den Sinn kommt, und wir werden mit großer Begeisterung antworten.\nSchließlich gehen wir zurück zum Ort, an dem wir uns getroffen haben, und unser Vertreter gibt Ihnen weitere Anweisungen, wie Sie ein Uber, die U-Bahn, oder ein Tuk-Tuk zurück zu Ihrem Hotel oder für die Weiterreise nehmen können.\nHINWEIS: Von der Abholung bis zum Ende beträgt die gesamte Tourdauer 3 Stunden.\n\n**Was ist enthalten**\nKlassische Tanzaufführungen live\nKlassische Musikaufführungen live\nMittagessen mit lokaler Spezialität\nEin örtlicher Geschichtenerzähler\nHaveli-Besuche\n\n**Nicht enthalten**\nJegliche Getränke\nEintritt zur Jama Masjid (das Hineingehen ist NICHT verpflichtend)\nJegliche Abholung und Rückfahrt zum Hotel (sofern nicht mit der entsprechenden Option gebucht)",
+  "highlights": [
+   "Genießen Sie eine fesselnde klassische Tanzaufführung live"
+  ],
+  "included": [
+   "Klassische Tanzaufführungen live",
+   "Klassische Musikaufführungen live",
+   "Mittagessen mit lokaler Spezialität",
+   "Ein örtlicher Geschichtenerzähler",
+   "Haveli-Besuche"
+  ],
+  "notIncluded": [
+   "Jegliche Getränke",
+   "Eintritt zur Jama Masjid (das Hineingehen ist NICHT verpflichtend)",
+   "Jegliche Abholung und Rückfahrt zum Hotel (sofern nicht mit der entsprechenden Option gebucht)"
+  ]
+ },
+ "from-delhi-golden-triangle-tour-delhi-agra-jaipur": {
+  "title": "Ab Delhi: Golden-Triangle-Tour: Delhi, Agra, und Jaipur",
+  "metaTitle": "Delhi: Golden Triangle, Delhi, Agra, und Jaipur",
+  "metaDescription": "Besuchen Sie das Taj Mahal und das Agra-Fort mit einem privaten Expertenguide.",
+  "shortDescription": "Besuchen Sie das Taj Mahal und das Agra-Fort mit einem privaten Expertenguide.",
+  "fullDescription": "Ab Delhi: Golden-Triangle-Tour: Delhi, Agra, und Jaipur. Besuchen Sie das Taj Mahal und das Agra-Fort mit einem privaten Expertenguide.\n\nErleben Sie Indiens berühmtes Golden Triangle auf einer privaten mehrtägigen Tour ab Delhi. Reisen Sie bequem mit einem professionellen Guide, und erkunden Sie die kulturellen, historischen, und architektonischen Höhepunkte von Delhi, Agra, und Jaipur.\n\nWählen Sie einen flexiblen Reiseplan von 3, 4, 5, oder 6 Tagen, der auf Ihren Zeitplan und Reisestil abgestimmt ist. In Delhi entdecken Sie historische Denkmäler und lebhafte Straßen. In Agra bestaunen Sie das weltberühmte Taj Mahal und das Agra-Fort. In Jaipur erkunden Sie königliche Sehenswürdigkeiten wie das Amber-Fort, den City Palace, und den Hawa Mahal.\n\nGenießen Sie privaten Transport, geführte Besichtigungen, und komfortable 3-Sterne-Unterkunft für eine entspannte und gut organisierte Reise. Der Reiseplan kann angepasst werden, mit optionalen Upgrades wie Hotels höherer Kategorie, Eintrittskarten, oder All-inclusive-Paketen.\n\nDiese private Golden-Triangle-Tour ist ideal für Erstbesucher, Paare, Familien, und kleine Gruppen, die eine reibungslose, flexible, und authentische Reiseerfahrung in Indien suchen.\n\n**Was ist enthalten**\nPrivates klimatisiertes Fahrzeug mit Fahrer für die gesamte Tour\nProfessioneller Reiseführer\n3-Sterne-Hotelunterkunft mit Frühstück\nKostenlose Wasserflaschen während der Tour\nAbholung und Rückfahrt zum Hotel ab Delhi\nAlle Besichtigungen gemäß dem gewählten Reiseplan\nTreibstoffkosten, Parkgebühren, Mautgebühren, und Fahrerkosten",
+  "highlights": [
+   "Besuchen Sie das Taj Mahal und das Agra-Fort mit einem privaten Expertenguide"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug mit Fahrer für die gesamte Tour",
+   "Professioneller Reiseführer",
+   "3-Sterne-Hotelunterkunft mit Frühstück",
+   "Kostenlose Wasserflaschen während der Tour",
+   "Abholung und Rückfahrt zum Hotel ab Delhi",
+   "Alle Besichtigungen gemäß dem gewählten Reiseplan",
+   "Treibstoffkosten, Parkgebühren, Mautgebühren, und Fahrerkosten"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren zu Denkmälern",
+   "Trinkgeld und Gratifikationen"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
