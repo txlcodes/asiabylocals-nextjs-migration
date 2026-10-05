@@ -5442,6 +5442,67 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le chauffeur et le guide"
   ]
  },
+ "taj-mahal-sunrise-agra-fort-private-day-trip": {
+  "title": "Excursion privée d'une journée au lever du soleil au Taj Mahal et au fort d'Agra",
+  "metaTitle": "Agra : Taj Mahal au lever du soleil, excursion privée",
+  "metaDescription": "Admirez le Taj Mahal au lever du soleil avec un guide privé.",
+  "shortDescription": "Admirez le Taj Mahal au lever du soleil avec un guide privé.",
+  "fullDescription": "Commencez votre journée inoubliable tôt avec une prise en charge confortable en véhicule climatisé, et voyagez vers Agra pour un lever de soleil à couper le souffle au Taj Mahal. Avec moins de foule et une lumière matinale magique, cette expérience privée vous permet de vous imprégner de la beauté de l'un des monuments les plus emblématiques du monde.\n\nRencontrez votre guide local agréé, qui fait vivre l'histoire, les récits, et l'architecture du Taj Mahal. Profitez d'un temps dédié pour les photos, l'exploration, et les questions. Ensuite, continuez vers le fort d'Agra, un site du patrimoine mondial de l'UNESCO, où vous vous promènerez à travers de grandes cours, des chambres royales, et découvrirez l'histoire moghole.\n\nChoisissez parmi des options de réservation adaptées, allant des visites avec guide uniquement aux forfaits tout compris avec transport, billets d'entrée, petit-déjeuner buffet, et prise en charge depuis Agra, le NCR de Delhi, ou Jaipur. Que vous préfériez des moments parfaits pour les photos au lever du soleil ou un service complet depuis votre ville, cette visite offre confort, flexibilité, et narration experte tout au long de votre journée.",
+  "highlights": [
+   "Admirez le Taj Mahal au lever du soleil avec un guide privé"
+  ],
+  "included": [
+   "Transport en voiture privée climatisée",
+   "Prise en charge et retour à l'hôtel selon l'option sélectionnée",
+   "Guide touristique privé",
+   "Billets d'entrée coupe-file (si inclus dans votre réservation, si option sélectionnée)",
+   "Petit-déjeuner buffet (si inclus dans votre réservation)",
+   "Eau potable en bouteille"
+  ],
+  "notIncluded": [
+   "Pourboires pour le chauffeur et le guide"
+  ]
+ },
+ "from-agra-fatehpur-sikri-guided-tour": {
+  "title": "Depuis Agra : visite guidée de Fatehpur Sikri",
+  "metaTitle": "Agra-Fatehpur Sikri : visite guidée",
+  "metaDescription": "Découvrez le site du patrimoine mondial de l'UNESCO de Fatehpur Sikri.",
+  "shortDescription": "Découvrez le site du patrimoine mondial de l'UNESCO de Fatehpur Sikri.",
+  "fullDescription": "Visitez Fatehpur Sikri, autrefois la fière capitale de l'Empire moghol, établie par l'empereur Akbar dans les années 1570. Ce site du patrimoine mondial de l'UNESCO, connu comme la « cité de la Victoire », présente un magnifique mélange d'éléments architecturaux islamiques et hindous.\n\nConstruite principalement en grès rouge, la ville présente un ensemble impressionnant de monuments, palais, mosquées, et temples. Perchée sur une crête rocheuse et entourée de murs solides, Fatehpur Sikri reflète la vision d'Akbar d'une unité culturelle et religieuse.\n\nBien qu'elle ait brièvement prospéré comme centre politique, la ville fut mystérieusement abandonnée au début du 17e siècle. Aujourd'hui, elle reste un témoignage magnifiquement préservé de l'héritage architectural d'Akbar, avec des communautés locales vivant juste au-delà de ses murs anciens.",
+  "highlights": [
+   "Découvrez le site du patrimoine mondial de l'UNESCO de Fatehpur Sikri"
+  ],
+  "included": [
+   "Véhicule privé climatisé",
+   "Guide professionnel anglophone",
+   "Billets d'entrée (si option sélectionnée)",
+   "Eau minérale en bouteille",
+   "Toutes les taxes, péages, frais de stationnement, et frais applicables"
+  ],
+  "notIncluded": [
+   "Gratifications",
+   "Pourboires"
+  ]
+ },
+ "from-agra-fatehpur-sikri-private-tour": {
+  "title": "Depuis Agra : visite privée de Fatehpur Sikri",
+  "metaTitle": "Agra-Fatehpur Sikri : visite privée",
+  "metaDescription": "Bénéficiez d'une entrée coupe-file.",
+  "shortDescription": "Bénéficiez d'une entrée coupe-file.",
+  "fullDescription": "**Complexe de Fatehpur Sikri :**\n\nBuland Darwaza (porte de la Victoire) : la plus grande porte de l'Inde et l'une des principales entrées du complexe.\n\nJama Masjid : une belle mosquée et l'une des merveilles architecturales de l'époque moghole.\n\nDiwan-i-Khas : la salle des audiences privées où Akbar rencontrait ses conseillers les plus proches.\n\nPanch Mahal : un palais de cinq étages offrant des vues spectaculaires sur les environs.\n\nTombeau de Salim Chishti : un site sacré et le tombeau d'un éminent saint soufi.\n\nPalais de Jodhabai : un exemple fascinant de l'architecture moghole, considéré comme la résidence de l'épouse d'Akbar, Jodha Bai.\n\n**Attention personnalisée :**\n\nComme il s'agit d'une visite privée, le guide pourra adapter l'expérience à vos intérêts, en vous assurant des informations approfondies sur l'histoire, l'architecture, et l'importance du site.\n\nVous aurez la flexibilité d'explorer à votre propre rythme, sans la précipitation d'une visite en grand groupe.\n\n**Transport :**\n\nPrise en charge et retour depuis votre hôtel à Agra dans un véhicule privé climatisé.\n\nVoyage confortable aller-retour vers Fatehpur Sikri, avec votre guide vous accompagnant tout au long du voyage.\n\n**Guide expert :**\n\nUn guide anglophone avec une connaissance approfondie de l'histoire de l'Empire moghol et de Fatehpur Sikri. Il pourra répondre à toutes vos questions et garantir une expérience mémorable.",
+  "highlights": [
+   "Bénéficiez d'une entrée coupe-file"
+  ],
+  "included": [
+   "Voiture climatisée",
+   "Guide touristique professionnel",
+   "Toutes les taxes et le stationnement",
+   "Billet d'entrée coupe-file au Taj Mahal et au fort d'Agra (si option choisie)"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",

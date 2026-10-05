@@ -5442,6 +5442,67 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld für Fahrer und Guide"
   ]
  },
+ "taj-mahal-sunrise-agra-fort-private-day-trip": {
+  "title": "Privater Tagesausflug zum Taj Mahal Sonnenaufgang und Agra Fort",
+  "metaTitle": "Agra: Taj Mahal Sonnenaufgang, privater Ausflug",
+  "metaDescription": "Erleben Sie das Taj Mahal beim Sonnenaufgang mit privatem Guide.",
+  "shortDescription": "Erleben Sie das Taj Mahal beim Sonnenaufgang mit privatem Guide.",
+  "fullDescription": "Beginnen Sie Ihren unvergesslichen Tag früh mit einer komfortablen Abholung in einem klimatisierten Fahrzeug, und reisen Sie nach Agra für einen atemberaubenden Sonnenaufgang am Taj Mahal. Mit weniger Menschenmassen und magischem Morgenlicht lässt dieses private Erlebnis Sie die Schönheit eines der ikonischsten Denkmäler der Welt aufsaugen.\n\nTreffen Sie Ihren lizenzierten lokalen Guide, der die Geschichte, Erzählungen, und Architektur des Taj Mahal lebendig macht. Genießen Sie reservierte Zeit für Fotos, Erkundung, und Fragen. Danach geht es weiter zum Agra Fort, einem UNESCO-Weltkulturerbe, wo Sie durch grandiose Höfe und königliche Kammern schlendern und mehr über die Mogul-Geschichte erfahren.\n\nWählen Sie aus maßgeschneiderten Buchungsoptionen, von reinen Guide-Besuchen bis zu Rundum-Paketen mit Transport, Eintrittskarten, Buffet-Frühstück, und Abholung von Agra, dem Großraum Delhi, oder Jaipur. Ob Sie fotogene Sonnenaufgangsmomente oder vollen Service von Ihrer Stadt aus bevorzugen, diese Tour bietet Komfort, Flexibilität, und fachkundige Erzählung während Ihres gesamten Tages.",
+  "highlights": [
+   "Erleben Sie das Taj Mahal beim Sonnenaufgang mit privatem Guide"
+  ],
+  "included": [
+   "Transport im privaten klimatisierten Auto",
+   "Abholung und Rückbringung zum Hotel gemäß der gewählten Option",
+   "Privater Reiseführer",
+   "Skip-the-Line-Eintrittskarten (falls in Ihrer Buchung enthalten, falls ausgewählt)",
+   "Buffet-Frühstück (falls in Ihrer Buchung enthalten)",
+   "Trinkwasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Trinkgeld für Fahrer und Guide"
+  ]
+ },
+ "from-agra-fatehpur-sikri-guided-tour": {
+  "title": "Von Agra aus: geführte Tour nach Fatehpur Sikri",
+  "metaTitle": "Agra-Fatehpur Sikri: geführte Tour",
+  "metaDescription": "Entdecken Sie das UNESCO-Weltkulturerbe Fatehpur Sikri.",
+  "shortDescription": "Entdecken Sie das UNESCO-Weltkulturerbe Fatehpur Sikri.",
+  "fullDescription": "Besuchen Sie Fatehpur Sikri, einst die stolze Hauptstadt des Mogulreichs, gegründet von Kaiser Akbar in den 1570er Jahren. Dieses UNESCO-Weltkulturerbe, bekannt als die \"Stadt des Sieges\", zeigt eine prächtige Mischung aus islamischen und hinduistischen architektonischen Elementen.\n\nHauptsächlich aus rotem Sandstein erbaut, verfügt die Stadt über eine beeindruckende Vielzahl von Denkmälern, Palästen, Moscheen, und Tempeln. Auf einem felsigen Grat thronend und von stabilen Mauern umgeben, spiegelt Fatehpur Sikri Akbars Vision kultureller und religiöser Einheit wider.\n\nObwohl sie kurz als politisches Zentrum florierte, wurde die Stadt zu Beginn des 17. Jahrhunderts auf mysteriöse Weise verlassen. Heute bleibt sie ein wunderschön erhaltenes Zeugnis von Akbars architektonischem Erbe, mit lokalen Gemeinden, die gleich jenseits ihrer alten Mauern leben.",
+  "highlights": [
+   "Entdecken Sie das UNESCO-Weltkulturerbe Fatehpur Sikri"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug",
+   "Professioneller englischsprachiger Guide",
+   "Eintrittskarten (falls ausgewählt)",
+   "Mineralwasser in Flaschen",
+   "Alle Steuern, Mautgebühren, Parkgebühren, und anfallenden Kosten"
+  ],
+  "notIncluded": [
+   "Zuwendungen",
+   "Trinkgeld"
+  ]
+ },
+ "from-agra-fatehpur-sikri-private-tour": {
+  "title": "Von Agra aus: private Tour nach Fatehpur Sikri",
+  "metaTitle": "Agra-Fatehpur Sikri: private Tour",
+  "metaDescription": "Erhalten Sie Skip-the-Line-Eintritt.",
+  "shortDescription": "Erhalten Sie Skip-the-Line-Eintritt.",
+  "fullDescription": "**Fatehpur-Sikri-Komplex:**\n\nBuland Darwaza (Tor des Sieges): das größte Tor Indiens und einer der Haupteingänge zum Komplex.\n\nJama Masjid: eine schöne Moschee und eines der architektonischen Wunder der Mogulzeit.\n\nDiwan-i-Khas: die Halle der privaten Audienzen, wo Akbar sich mit seinen engsten Beratern traf.\n\nPanch Mahal: ein fünfstöckiger Palast mit spektakulären Ausblicken auf die Umgebung.\n\nMausoleum von Salim Chishti: eine heilige Stätte und das Mausoleum eines bedeutenden Sufi-Heiligen.\n\nPalast der Jodhabai: ein faszinierendes Beispiel der Mogul-Architektur, von dem man annimmt, dass es die Residenz von Akbars Frau Jodha Bai war.\n\n**Persönliche Betreuung:**\n\nDa es sich um eine private Tour handelt, kann der Guide das Erlebnis auf Ihre Interessen zuschneiden und Ihnen tiefgehende Einblicke in die Geschichte, Architektur, und Bedeutung der Stätte geben.\n\nSie haben die Flexibilität, in Ihrem eigenen Tempo zu erkunden, ohne die Eile einer großen Gruppentour.\n\n**Transport:**\n\nAbholung und Rückbringung von Ihrem Hotel in Agra in einem privaten klimatisierten Fahrzeug.\n\nKomfortable Fahrt hin und zurück nach Fatehpur Sikri, mit Ihrem Guide während der gesamten Reise.\n\n**Erfahrener Guide:**\n\nEin englischsprachiger Guide mit umfassendem Wissen über die Geschichte des Mogulreichs und Fatehpur Sikri. Er kann alle Ihre Fragen beantworten und ein unvergessliches Erlebnis garantieren.",
+  "highlights": [
+   "Erhalten Sie Skip-the-Line-Eintritt"
+  ],
+  "included": [
+   "Klimatisiertes Auto",
+   "Professioneller Reiseführer",
+   "Alle Steuern und Parken",
+   "Skip-the-Line-Eintrittsticket zum Taj Mahal und Agra Fort (falls ausgewählt)"
+  ],
+  "notIncluded": [
+   "Essen und Getränke"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
