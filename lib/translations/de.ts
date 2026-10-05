@@ -22871,6 +22871,81 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld und Gratifikation für Guide und Fahrer"
   ]
  },
+ "delhi-wedding-gift-shopping-tour-with-private": {
+  "title": "Delhi: Hochzeits- und Geschenke-Shopping-Tour mit privatem Transfer",
+  "metaTitle": "Delhi: Hochzeits- und Geschenke-Shopping",
+  "metaDescription": "Erkunden Sie Delhis lebendige Basare mit einem kenntnisreichen örtlichen Guide.",
+  "shortDescription": "Erkunden Sie Delhis lebendige Basare mit einem kenntnisreichen örtlichen Guide.",
+  "fullDescription": "Delhi: Hochzeits- und Geschenke-Shopping-Tour mit privatem Transfer. Erkunden Sie Delhis lebendige Basare mit einem kenntnisreichen örtlichen Guide.\n\n**Einführung**\n\nEntdecken Sie die lebendige Shopping-Kultur Delhis auf einer privaten geführten Tour, konzipiert für Reisende, die authentische Märkte, Hochzeits-Shopping, Geschenke, und einzigartige Souvenirs suchen. Erkunden Sie farbenfrohe Basare, versteckte Geschäfte, und lebhafte Straßenmärkte, während Sie mehr über örtliches Handwerk und Traditionen erfahren.\n\nIhr Erlebnis beginnt mit einer bequemen Abholung von Ihrem Hotel, Flughafen, oder bevorzugten Ort in Delhi, Gurugram, Noida, Ghaziabad, oder Faridabad in einem komfortablen klimatisierten Auto. Treffen Sie Ihren kenntnisreichen örtlichen Guide, der zunächst Ihre Interessen, Shopping-Präferenzen, und Ihr Budget versteht, um ein personalisiertes Shopping-Erlebnis zu gestalten.\n\n**Märkte und Shopping-Erlebnis**\n\nWährend dieser Tour können Sie berühmte Märkte wie Chandni Chowk erkunden, den historischen Basar, bekannt für traditionelle Kleidung, Schmuck, Stoffe, und lebhaftes Straßenleben. Genießen Sie die Aufregung der engen Gassen von Alt-Delhi, wo Sie auch eine traditionelle Rikscha-Fahrt erleben können.\n\nSie können auch Khari Baoli besuchen, Asiens größten Gewürzmarkt, wo Händler seit Jahrhunderten Gewürze, Kräuter, Trockenfrüchte, und Tees verkaufen. Die farbenfrohe Atmosphäre und die reichen Aromen machen ihn zu einem der faszinierendsten Märkte der Stadt.\n\nJe nach Ihren Interessen kann Ihr Guide Sie auch zu Märkten wie Delhi Haat oder anderen örtlichen Basaren bringen, wo Kunsthandwerker handgefertigtes Kunsthandwerk, Teppiche, Pashmina-Schals, Schmuck, Textilien, und einzigartige Souvenirs verkaufen.\n\n**Örtliches Essen und Verhandeln**\n\nUnterwegs können Sie auch authentisches Street Food aus Alt-Delhi probieren, wie Chaat, Samosas, Parathas, und traditionelle Süßigkeiten. Ihr Guide hilft Ihnen beim Verhandeln, und gibt Ihnen hilfreiche Shopping-Tipps, um sicherzustellen, dass Sie das beste Preis-Leistungs-Verhältnis beim Einkaufen erhalten.\n\n**Ende der Tour**\n\nNach einem angenehmen Shopping-Erlebnis entspannen Sie sich, während Ihr Fahrer Sie zurück zu Ihrem Hotel, Flughafen, oder bevorzugten Ort in Delhi, Noida, Gurugram, Ghaziabad, Faridabad, oder zum Flughafen bringt.\n\n**Was ist enthalten**\nAbholung und Rückfahrt zum Hotel/Flughafen\nPrivates klimatisiertes Auto mit Fahrer\nPrivater Live-Reiseführer\nRikscha-Fahrt durch die Gassen von Chandni Chowk\nHygienische örtliche Street-Food-Verkostung mit traditionellem Masala Chai\nMineralwasserflaschen\nUnterstützung beim Verhandeln und Shopping-Tipps\nUnterstützung bei GST-Rechnungen der Geschäfte (falls erforderlich)\nAlle Parkgebühren, Mautgebühren, und Steuern\nRegenschirm (falls erforderlich)\n\n**Nicht enthalten**\nEintrittskarten für Denkmäler\nGetränke\nMittag- oder Abendessen\nGratifikationen (optional)",
+  "highlights": [
+   "Erkunden Sie Delhis lebendige Basare mit einem kenntnisreichen örtlichen Guide"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "Privates klimatisiertes Auto mit Fahrer",
+   "Privater Live-Reiseführer",
+   "Rikscha-Fahrt durch die Gassen von Chandni Chowk",
+   "Hygienische örtliche Street-Food-Verkostung mit traditionellem Masala Chai",
+   "Mineralwasserflaschen",
+   "Unterstützung beim Verhandeln und Shopping-Tipps",
+   "Unterstützung bei GST-Rechnungen der Geschäfte (falls erforderlich)",
+   "Alle Parkgebühren, Mautgebühren, und Steuern",
+   "Regenschirm (falls erforderlich)"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für Denkmäler",
+   "Getränke",
+   "Mittag- oder Abendessen",
+   "Gratifikationen (optional)"
+  ]
+ },
+ "from-delhi-private-5-day-golden-triangle-tour": {
+  "title": "Ab Delhi: private 5-tägige Golden-Triangle-Tour, Liebesdreieck",
+  "metaTitle": "Delhi: Golden Triangle privat, 5 Tage",
+  "metaDescription": "Staunen Sie über die Schönheit des Taj Mahal bei Sonnenaufgang.",
+  "shortDescription": "Staunen Sie über die Schönheit des Taj Mahal bei Sonnenaufgang.",
+  "fullDescription": "Ab Delhi: private 5-tägige Golden-Triangle-Tour, Liebesdreieck. Staunen Sie über die Schönheit des Taj Mahal bei Sonnenaufgang.\n\nEntdecken Sie Indiens kulturelles Herz auf einem 5-tägigen Golden-Triangle-Abenteuer. Von den belebten Straßen Delhis bis zur zeitlosen Schönheit des Taj Mahal in Agra, und den königlichen Palästen Jaipurs.\n\n**Was ist enthalten**\nPrivate Tour\n4 Nächte Unterkunft (falls die Tour mit der Option inklusive Hotels gebucht wird)\nTägliches Frühstück im Hotel (falls die Tour mit der Option inklusive Hotels gebucht wird)\nTransport in einem privaten klimatisierten Fahrzeug\nAbholung und Rückfahrt zum Hotel/Flughafen\nAlle Besichtigungen mit privaten örtlichen Guides\nBatteriebus-Fahrt zwischen dem Parkplatz des Taj Mahal und dem Denkmal\nFlaschen mit Mineralwasser für Autofahrten\nAlle Steuern und Servicegebühren, einschließlich aller anfallenden Hotelsteuern",
+  "highlights": [
+   "Staunen Sie über die Schönheit des Taj Mahal bei Sonnenaufgang"
+  ],
+  "included": [
+   "Private Tour",
+   "4 Nächte Unterkunft (falls die Tour mit der Option inklusive Hotels gebucht wird)",
+   "Tägliches Frühstück im Hotel (falls die Tour mit der Option inklusive Hotels gebucht wird)",
+   "Transport in einem privaten klimatisierten Fahrzeug",
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "Alle Besichtigungen mit privaten örtlichen Guides",
+   "Batteriebus-Fahrt zwischen dem Parkplatz des Taj Mahal und dem Denkmal",
+   "Flaschen mit Mineralwasser für Autofahrten",
+   "Alle Steuern und Servicegebühren, einschließlich aller anfallenden Hotelsteuern"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für Denkmäler",
+   "Gratifikationen (optional)"
+  ]
+ },
+ "street-art-walk-with-chai-snack": {
+  "title": "Street-Art-Spaziergang mit Chai und Snack",
+  "metaTitle": "Delhi: Street-Art-Spaziergang mit Chai",
+  "metaDescription": "Wir besuchen Indiens erstes öffentliches Street-Art-Viertel.",
+  "shortDescription": "Wir besuchen Indiens erstes öffentliches Street-Art-Viertel.",
+  "fullDescription": "Street-Art-Spaziergang mit Chai und Snack. Wir besuchen Indiens erstes öffentliches Street-Art-Viertel.\n\nEntdecken Sie eine verborgene Seite Delhis mit unserem Street-Art-Spaziergang-Erlebnis, perfekt für Kunst- und Geschichtsliebhaber gleichermaßen. Erkunden Sie Indiens wegweisendes Street-Art-Viertel, geschmückt mit fesselnden Wandgemälden renommierter Künstler. Genießen Sie eine Tasse authentischen indischen Chai, während Sie in die Geschichten hinter den Kunstwerken und ihren Schöpfern eintauchen. Entkommen Sie dem Trubel der Stadt, erleben Sie das örtliche Leben aus erster Hand, und halten Sie unvergessliche Momente in malerischer Umgebung fest. Gewinnen Sie praktische Einblicke in die Navigation durch Delhi, lernen Sie wichtige Hindi-Sätze, und gehen Sie mit einer tieferen Wertschätzung für diese dynamische Stadt. Begleiten Sie uns auf einer transformativen Reise durch New Delhis kulturelle und künstlerische Landschaften.\n\nWenn Sie Farbe, Kreativität, Geschichte, und das Unerwartete lieben, und die andere Seite Delhis erkunden möchten, dann ist dieses Erlebnis genau das Richtige für Sie.\n\n**Highlights**\n\nWir besuchen Indiens erstes öffentliches Street-Art-Viertel, und sehen Straßenkunst, die von Künstlern aus Indien und der ganzen Welt geschaffen wurde.\n\nWir sehen Kunstwerke von Künstlern, und erfahren mehr über die Hintergrundgeschichte der Wandgemälde, und wie die Künstler ihre Inspiration fanden.\n\nWährend Sie diese heiße Tasse hausgemachten indischen Chai und Essen genießen.\n\nSie erleben eine andere Seite Delhis, abseits des Trubels.\n\nErfahren Sie mehr über das örtliche Leben der Menschen in Delhi.\n\nSo viele Gelegenheiten, großartige Fotos und Videos zu machen.\n\nIch teile Tipps und Empfehlungen, um in Indien sicher zu reisen und zu verhandeln.\n\nIch bringe Ihnen etwas Hindi bei.\n\nBegleiten Sie diesen Spaziergang also mit Ihrem Freund in New Delhi.\n\n**Was ist enthalten**\nChai\nSnack/Kekse\nGuide-Gebühr\n\n**Nicht enthalten**\nPersönliche Ausgaben wie Einkäufe, U-Bahn-Ticket, Uber, Kleinigkeiten, usw.\nTrinkgeld für den Guide\nDienstleistungen, die vom Agenten/der Agentur nicht erwähnt oder versprochen wurden\nIhre Reise- und Krankenversicherung\nNotfallkosten",
+  "highlights": [
+   "Wir besuchen Indiens erstes öffentliches Street-Art-Viertel"
+  ],
+  "included": [
+   "Chai",
+   "Snack/Kekse",
+   "Guide-Gebühr"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben wie Einkäufe, U-Bahn-Ticket, Uber, Kleinigkeiten, usw.",
+   "Trinkgeld für den Guide",
+   "Dienstleistungen, die vom Agenten/der Agentur nicht erwähnt oder versprochen wurden",
+   "Ihre Reise- und Krankenversicherung",
+   "Notfallkosten"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
