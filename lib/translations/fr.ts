@@ -1777,6 +1777,70 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "from-agra-to-bundi-drop-via-fatehpur-sikri-and": {
+  "title": "Depuis Agra vers Bundi via Fatehpur Sikri et Chand Baori",
+  "metaTitle": "Agra-Bundi : Fatehpur Sikri et Chand Baori",
+  "metaDescription": "Explorez Fatehpur Sikri, la grande capitale moghole d'Akbar.",
+  "shortDescription": "Explorez Fatehpur Sikri, la grande capitale moghole d'Akbar.",
+  "fullDescription": "**Jour 1 : Agra, Fatehpur Sikri, Chand Baori, Bundi**\n\nPrise en charge à Agra à votre lieu souhaité et commencez votre voyage.\n\nVisitez d'abord Fatehpur Sikri, l'ancienne capitale moghole construite par l'empereur Akbar. Explorez ses grands palais, mosquées, et cours, reflétant un mélange de styles architecturaux hindous et islamiques. Promenez-vous à travers Buland Darwaza, Panch Mahal, et Jama Masjid, découvrant la vie de la cour moghole.\n\nContinuez votre voyage vers Chand Baori, un puits à degrés ancien dans le village d'Abhaneri, construit au 9e siècle par le roi Chanda. Admirez ses escaliers symétriques et ses motifs géométriques, en faisant l'un des trésors cachés les plus impressionnants de l'Inde. Découvrez l'importance historique des puits à degrés, conçus pour conserver l'eau dans les régions arides.\n\nAprès avoir exploré ces sites incroyables, roulez vers Bundi et concluez votre voyage par un dépôt confortable à votre lieu souhaité, marquant la fin de cette excursion enrichissante.",
+  "highlights": [
+   "Explorez Fatehpur Sikri, la grande capitale moghole d'Akbar"
+  ],
+  "included": [
+   "Tous les transferts et visites en véhicule privé",
+   "Péage, stationnement, indemnité du chauffeur, et carburant",
+   "Guide professionnel (si option sélectionnée)",
+   "Billets d'entrée inclus (si option sélectionnée)"
+  ],
+  "notIncluded": [
+   "Tout type de dépense personnelle n'est pas inclus",
+   "Déjeuner/dîner/boissons"
+  ]
+ },
+ "from-delhi-taj-mahal-fast-train-tour-with-guide": {
+  "title": "Depuis Delhi : visite du Taj Mahal en train rapide avec guide et entrée",
+  "metaTitle": "Delhi-Taj Mahal : train rapide avec guide",
+  "metaDescription": "Taj Mahal, explorez l'emblématique mausolée en marbre blanc avec un guide professionnel.",
+  "shortDescription": "Taj Mahal, explorez l'emblématique mausolée en marbre blanc avec un guide professionnel.",
+  "fullDescription": "**7h00 – prise en charge à l'hôtel à Delhi**\nPrise en charge à votre hôtel et transfert vers la gare de Hazrat Nizamuddin en véhicule privé climatisé. Assistance fournie pour monter à bord du Gatimaan Express.\n\n**8h10 – départ pour Agra**\nVoyagez confortablement dans un wagon entièrement climatisé (petit-déjeuner inclus à bord).\n\n**9h50 – arrivée à la gare d'Agra Cantt**\nRencontrez votre guide et chauffeur privés à l'extérieur de la gare. Commencez votre visite d'Agra.\n\n**10h15 – visite du Taj Mahal**\nExplorez le Taj Mahal, l'une des Sept Merveilles du Monde, construit par l'empereur Shah Jahan à la mémoire de Mumtaz Mahal. Votre guide partagera des histoires captivantes et des faits historiques.\n\n**12h30 – visite du fort d'Agra**\nVisitez le fort d'Agra, le majestueux fort en grès rouge construit par l'empereur Akbar. Découvrez ses beaux palais, mosquées, et salles d'audience.\n\n**14h00 – déjeuner dans un restaurant local**\nProfitez d'un délicieux déjeuner buffet dans un hôtel 5 étoiles ou un restaurant local (inclus ou optionnel).\n\n**15h00 – visite d'Itimad-ud-Daulah (Baby Taj) ou Mehtab Bagh (optionnel)**\nItimad-ud-Daulah : un tombeau de l'ère moghole connu comme le « Baby Taj ». Ou, visitez Mehtab Bagh pour une vue sur le Taj Mahal depuis la rive de la rivière (idéal pour la photographie).\n\n**16h00 – temps de shopping (optionnel)**\nExplorez les marchés locaux réputés pour l'incrustation en marbre, l'artisanat, et les articles en cuir.\n\n**17h30 – retour à la gare d'Agra Cantt**\nMontez à bord du Gatimaan Express de retour vers Delhi. Collations servies dans le train.\n\n**19h30 – arrivée à Delhi et dépôt à l'hôtel**\nPrise en charge à la gare et dépôt à votre hôtel ou lieu préféré à Delhi.",
+  "highlights": [
+   "Taj Mahal, explorez l'emblématique mausolée en marbre blanc avec un guide professionnel"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel/aéroport",
+   "Voiture privée climatisée avec chauffeur",
+   "Tarif de train aller-retour (train superrapide avec repas si option sélectionnée)",
+   "Frais d'entrée aux monuments dans tous les lieux (si option sélectionnée)",
+   "Guide en direct dans tous les lieux",
+   "Déjeuner buffet dans un hôtel 5 étoiles (si option sélectionnée)",
+   "Eau minérale en bouteille",
+   "Indemnités du chauffeur",
+   "Tous les péages, le stationnement, et les taxes"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires (optionnel)"
+  ]
+ },
+ "jaipur-night-city-tour-in-open-air-jeep": {
+  "title": "Jaipur : visite nocturne de la ville en jeep à ciel ouvert",
+  "metaTitle": "Jaipur : visite nocturne, jeep à ciel ouvert",
+  "metaDescription": "Profitez de l'ambiance paisible de Jaipur en explorant la ville après la tombée de la nuit.",
+  "shortDescription": "Profitez de l'ambiance paisible de Jaipur en explorant la ville après la tombée de la nuit.",
+  "fullDescription": "Découvrez la ville de Jaipur quand elle scintille. Profitez des vues nocturnes et de l'ambiance du fort et du palais en jeep à ciel ouvert. Il n'y a pas de meilleur moment pour explorer la ville qu'après le coucher du soleil.\n\nJaipur est une ville paisible et, à l'approche de la nuit sereine, vous pouvez sentir des vibrations agréables vous envelopper. Les ciels étoilés d'une beauté infinie donnent aux voyages un ressenti qui ne peut être mis en mots. Le parfum de la ville s'imprègne sans effort en vous comme un trésor pour toujours tandis que vous voyez les plus impressionnants des palais et des forts pendant que la ville dort.\n\nRessentez les vibrations des habitants simples, ancrés, et humbles de la ville. Visitez le fort Amber, Jal Mahal, le fort Nahargarh, Hawa Mahal, Albert Hall, Vidhan Sabha, Statue Circle, et Amar Jawan Jyoti.",
+  "highlights": [
+   "Profitez de l'ambiance paisible de Jaipur en explorant la ville après la tombée de la nuit"
+  ],
+  "included": [
+   "Visite en jeep à ciel ouvert",
+   "Vue nocturne des forts et palais",
+   "Chauffeur expérimenté"
+  ],
+  "notIncluded": [
+   "Billets",
+   "Nourriture et boissons"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
