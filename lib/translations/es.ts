@@ -27652,6 +27652,54 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "akshardham-water-light-show-with-old-new-delhi": {
+  "title": "Espectáculo de agua y luz de Akshardham con tour de Old y New Delhi",
+  "metaTitle": "Espectáculo de Akshardham con tour Old/New Delhi",
+  "metaDescription": "Realice un tour por Akshardham bajo la guía de su guía turístico profesional, con Old y New Delhi.",
+  "shortDescription": "Realice un tour por Akshardham bajo la guía de su guía turístico profesional",
+  "fullDescription": "Espectáculo de agua y luz de Akshardham con tour de Old y New Delhi. Realice un tour por Akshardham bajo la guía de su guía turístico profesional.\n\nComience su viaje espiritual por Delhi con una recogida programada en el lugar de su preferencia. Su primera parada es el magnífico Templo Akshardham, donde experimentará tanto su belleza arquitectónica como sus cautivadoras exhibiciones.\n\nAl llegar a Akshardham, explore el gran templo, maravillándose con sus intrincadas tallas, impresionante arquitectura y tranquilo entorno.\n\nDescubra el rico patrimonio de la India y la vida de Swaminarayan, fundador de la fe Swaminarayan, en la Exhibición Sahajanand Darshan. Explore exhibiciones multimedia que destacan las contribuciones de la India al mundo en el Salón de los Valores. Disfrute de una película inspiradora sobre la vida de Swaminarayan.\n\nLuego, prepárese para maravillarse con el cautivador espectáculo multimedia de luz y agua, que combina luces, música y agua para mostrar la antigua historia y cultura india. Después del tour, su conductor lo dejará en su hotel.\n\n### Qué incluye\n\n- Tour privado de Akshardham y tours de Old y New Delhi (opción seleccionada)\n- Guía turístico que habla\n- Entrada a Akshardham (si seleccionó la opción)\n- Cena (si selecciona la opción todo incluido)\n- Recogida y traslado al hotel\n- Agua embotellada\n\n### No incluye\n\n- Cualquier gasto personal\n- Propinas y gratificaciones",
+  "highlights": [
+   "Realice un tour por Akshardham bajo la guía de su guía turístico profesional"
+  ],
+  "included": [
+   "Tour privado de Akshardham y tours de Old y New Delhi (opción seleccionada)\nGuía turístico que habla\nEntrada a Akshardham (si seleccionó la opción)\nCena (si selecciona la opción todo incluido)\nRecogida y traslado al hotel\nAgua embotellada"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal\nPropinas y gratificaciones"
+  ]
+ },
+ "luxury-train-tour-from-delhi-to-agra": {
+  "title": "Tour en tren de lujo de Delhi a Agra",
+  "metaTitle": "Tour en tren de lujo de Delhi a Agra",
+  "metaDescription": "Traslado de ida y vuelta en tren con aire acondicionado entre Delhi y Agra, a bordo del Gatimaan Express, el tren más rápido de la India.",
+  "shortDescription": "Traslado de ida y vuelta en tren con aire acondicionado",
+  "fullDescription": "Tour en tren de lujo de Delhi a Agra. Traslado de ida y vuelta en tren con aire acondicionado.\n\nExperimente la magia del Taj Mahal en nuestro tour de un día en el Gatimaan Express. Viaje cómodamente de Delhi a Agra a bordo del tren más rápido de la India. Maravíllese con la belleza del Taj Mahal con un guía conocedor, y explore la historia del Fuerte de Agra. Disfrute de un delicioso almuerzo y descubra los mercados locales. Complete su día con una vista del atardecer sobre el Taj desde Mehtab Bagh. Este tour ofrece una forma cómoda y memorable de visitar uno de los monumentos más icónicos del mundo.\n6:00: recogida en su hotel/residencia en Delhi. Un inicio temprano asegura que llegue a la estación de tren a tiempo y aproveche al máximo su día en Agra.\n7:00: llegada a la estación de tren de Delhi. Embarque en el Gatimaan Express, el tren más rápido de la India, con destino a Agra. El tren ofrece un viaje cómodo.\n10:00: llegada a la estación de tren de Agra Cantt. Un representante lo recibirá en la estación y le presentará a su guía local del día.\n10:30: comience su recorrido con una visita al icónico Taj Mahal, una de las Siete Maravillas del Mundo. Su guía compartirá la historia y el significado de este majestuoso monumento, construido por el emperador Shah Jahan en memoria de su amada esposa Mumtaz Mahal.\n13:00: disfrute de un delicioso almuerzo en un restaurante local, donde podrá saborear auténtica cocina mogol.\n14:30: visite el Fuerte de Agra, sitio Patrimonio de la Humanidad de la UNESCO. Este fuerte de arenisca roja sirvió como residencia principal de los emperadores mogoles hasta 1638. Explore su impresionante arquitectura y conozca su historia con su guía.\n16:00: explore los bulliciosos mercados de Agra, conocidos por su artesanía, artículos de cuero y dulces tradicionales. Aproveche esta oportunidad para comprar souvenirs y regalos para llevar a casa.\n17:00: traslado a la estación de tren de Agra Cantt para embarcar en el Gatimaan Express de regreso a Delhi.\n20:00: llegada a Delhi y traslado a su hotel/residencia, marcando el final de su memorable tour del Taj Mahal en un día.\nEste itinerario revisado está diseñado para adaptarse a los horarios del tren Gatimaan Express, asegurando que aproveche al máximo su visita a Agra mientras experimenta la comodidad y conveniencia del tren más rápido de la India.\n\n### Qué incluye\n\n- Comidas: almuerzo (solo con la opción de tour todo incluido)\n- Transporte: vehículo con aire acondicionado para todos los traslados y visitas\n- Guía profesional: guía turístico local experimentado y conocedor\n- Tarifas de entrada: incluidas para todos los monumentos y atracciones (solo con la opción de tour todo incluido) (si se selecciona la opción)\n- Impuestos y cargos: todos los impuestos y cargos por servicio aplicables incluidos\n- Asistencia: soporte 24/7 durante todo el tour\n- Botella de agua\n\n### No incluye\n\n- Alcohol\n- Gratificaciones",
+  "highlights": [
+   "Traslado de ida y vuelta en tren con aire acondicionado"
+  ],
+  "included": [
+   "Comidas: almuerzo (solo con la opción de tour todo incluido)\nTransporte: vehículo con aire acondicionado para todos los traslados y visitas\nGuía profesional: guía turístico local experimentado y conocedor\nTarifas de entrada: incluidas para todos los monumentos y atracciones (solo con la opción de tour todo incluido) (si se selecciona la opción)\nImpuestos y cargos: todos los impuestos y cargos por servicio aplicables incluidos\nAsistencia: soporte 24/7 durante todo el tour\nBotella de agua"
+  ],
+  "notIncluded": [
+   "Alcohol\nGratificaciones"
+  ]
+ },
+ "delhi-private-delhi-eveningnight-tour-by-car-4": {
+  "title": "Delhi: tour privado nocturno (de noche) por Delhi en coche - 4 horas",
+  "metaTitle": "Delhi: tour privado nocturno en coche - 4 horas",
+  "metaDescription": "Entrar en los templos requiere un código de vestimenta, brazos y hombros cubiertos, tour nocturno de 4 horas.",
+  "shortDescription": "Entrar en los templos requiere un código de vestimenta, se deben cubrir los brazos y los hombros.",
+  "fullDescription": "Delhi: tour privado nocturno (de noche) por Delhi en coche - 4 horas. Entrar en los templos requiere un código de vestimenta, se deben cubrir los brazos y los hombros.\n\nEl conductor se reunirá con usted en su hotel en Delhi/Gurugram/Noida o en el aeropuerto a las 18:00 (0600 PM) (recogida flexible en el aeropuerto) y comenzará su tour de avistamiento de los monumentos de Delhi con un guía privado. El atractivo de la capital de la India, Delhi, adquiere una dimensión completamente nueva por la noche. Un viaje nocturno de 4 horas ofrece una vista relajante de las amplias avenidas de Delhi, que se vuelven aún más encantadoras y acogedoras cuando el cielo estrellado despejado brilla sobre los monumentos.\n\nUn agradable paseo para explorar India Gate, el Palacio Presidencial (paso en coche), el Parlamento (paso en coche), el Gurdwara Bangla Sahib, el Templo Shri Laxmi Narayan (Birla Mandir), el Templo ISKCON, en Delhi, antes de un recorrido por Delhi de noche. Connaught Place, uno de los mercados comerciales más antiguos del Delhi de Lutyens, es una visita obligada.\n\nLos paseantes nocturnos inundan India Gate por la noche. El destino final será el Gurdwara Bangla Sahib, un santuario sij históricamente significativo. Después de ver todos los sitios, el conductor lo llevará de regreso a su hotel o aeropuerto. Termine su noche en Delhi con maravillosos recuerdos. El conductor lo dejará en el aeropuerto o en el hotel en Delhi.\n\nNOTA:\n1) En invierno, puede haber algunos sitios que cierren antes o que no se puedan ver debido a la niebla.\n\n2) La Casa Presidencial (paso en coche): no se permite fotografía ni parada debido al protocolo de seguridad presidencial.\n\n3) En invierno, los templos cierran a las 19:30. Y en verano: a las 20:30.\n\n### Qué incluye\n\n- Todos los peajes, impuestos, estacionamiento, combustible, dietas del conductor\n- Vehículo privado con aire acondicionado y conductor\n- Servicio de recogida y traslado al hotel o aeropuerto\n- Guía turístico de habla inglesa en Delhi\n- Botella de agua mineral empaquetada en el coche\n\n### No incluye\n\n- Cualquier tarifa de entrada a monumentos\n- Cualquier comida y bebida no incluida en este precio\n- Cualquier propina o gratificación\n- Cualquier gasto personal\n- Souvenirs o fotos (disponibles para comprar)",
+  "highlights": [
+   "Entrar en los templos requiere un código de vestimenta, se deben cubrir los brazos y los hombros"
+  ],
+  "included": [
+   "Todos los peajes, impuestos, estacionamiento, combustible, dietas del conductor\nVehículo privado con aire acondicionado y conductor\nServicio de recogida y traslado al hotel o aeropuerto\nGuía turístico de habla inglesa en Delhi\nBotella de agua mineral empaquetada en el coche"
+  ],
+  "notIncluded": [
+   "Cualquier tarifa de entrada a monumentos\nCualquier comida y bebida no incluida en este precio\nCualquier propina o gratificación\nCualquier gasto personal\nSouvenirs o fotos (disponibles para comprar)"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
