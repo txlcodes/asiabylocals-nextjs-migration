@@ -22510,6 +22510,73 @@ export const FR_TOURS: Record<string, TourT> = {
    "Boissons alcoolisées"
   ]
  },
+ "from-delhi-private-golden-triangle-tour-with": {
+  "title": "Depuis Delhi : circuit privé du Triangle d'or avec Amritsar, 7J/6N",
+  "metaTitle": "Delhi : Triangle d'or privé avec Amritsar, 7J/6N",
+  "metaDescription": "Explorez le Triangle d'or emblématique de l'Inde : Delhi, Agra, et Jaipur, avec Amritsar.",
+  "shortDescription": "Explorez le Triangle d'or emblématique de l'Inde : Delhi, Agra, et Jaipur, avec Amritsar.",
+  "fullDescription": "Depuis Delhi : circuit privé du Triangle d'or avec Amritsar, 7J/6N. Explorez le Triangle d'or emblématique de l'Inde : Delhi, Agra, et Jaipur, avec Amritsar.\n\n**Jour 1 : arrivée à Delhi, visites**\nÀ votre arrivée à New Delhi, rencontrez votre chauffeur privé, et transfert vers votre hôtel. Après l'enregistrement, commencez à explorer les monuments emblématiques de la capitale. Visitez la Jama Masjid, l'une des plus grandes mosquées de l'Inde, suivie d'une balade en rickshaw à travers les ruelles vibrantes de Chandni Chowk. Arrêtez-vous au Fort Rouge (arrêt photo), puis passez devant India Gate et les bâtiments présidentiels. Explorez Qutub Minar avant de retourner à votre hôtel. Nuit à Delhi.\n\n**Jour 2 : Delhi à Agra (environ 3 à 4 heures)**\nAprès le petit-déjeuner, route vers Agra, la ville du Taj. À l'arrivée, enregistrement à votre hôtel, et détente. Plus tard, visitez l'impressionnant fort d'Agra, un chef-d'œuvre en grès rouge présentant la grandeur moghole. En soirée, profitez des vues sur le coucher de soleil sur le Taj Mahal depuis Mehtab Bagh, à travers la rivière Yamuna. Nuit à Agra.\n\n**Jour 3 : Agra à Jaipur via Fatehpur Sikri (environ 5 heures)**\nLevez-vous tôt pour une visite au lever du soleil du magnifique Taj Mahal, symbole de l'amour éternel. Retour à l'hôtel pour le petit-déjeuner, et le départ. En chemin vers Jaipur, arrêtez-vous à Fatehpur Sikri, l'ancienne capitale moghole connue pour son architecture époustouflante. Poursuivez votre route vers Jaipur, la « ville rose », et enregistrement à votre hôtel. Soirée libre. Nuit à Jaipur.\n\n**Jour 4 : visites de Jaipur**\nAprès le petit-déjeuner, explorez le patrimoine royal de Jaipur. Visitez le majestueux fort Amber, où vous pourrez profiter d'une balade à dos d'éléphant ou en jeep jusqu'aux remparts. Arrêtez-vous pour des photos au Hawa Mahal. Continuez vers le City Palace de Jaipur, et la merveille astronomique du Jantar Mantar. Passez la soirée à explorer les bazars locaux. Nuit à Jaipur.\n\n**Jour 5 : Jaipur à Delhi (environ 5 heures)**\nAprès le petit-déjeuner, route de retour vers New Delhi. À l'arrivée, enregistrement à votre hôtel, et détente. Vous pourrez profiter d'un shopping optionnel, ou explorer les marchés et cafés à proximité. Nuit à Delhi.\n\n**Jour 6 : Delhi à Amritsar (en voiture)**\nAprès un petit-déjeuner matinal, transfert vers Amritsar. À l'arrivée, enregistrement à votre hôtel. Plus tard, visitez le sacré Temple d'or, centre spirituel du sikhisme, et vivez l'atmosphère paisible. L'après-midi, assistez à la patriotique cérémonie de la frontière de Wagah. Nuit à Amritsar.\n\n**Jour 7 : Amritsar à Delhi, départ**\nCommencez votre journée par une visite matinale optionnelle du Temple d'or pour une expérience sereine. Après le petit-déjeuner, visitez Jallianwala Bagh, un site d'une grande importance historique. Plus tard, transfert vers Delhi. À votre arrivée à Delhi, poursuivez vers votre destination suivante, avec des souvenirs inoubliables de la riche culture et du patrimoine de l'Inde.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel ou à l'aéroport\nVoiture privée climatisée pour toute l'activité du circuit, avec chauffeur\nGuide touristique professionnel dans chaque ville\nHébergement à l'hôtel pour 6 nuits (si l'option est sélectionnée)\nPetit-déjeuner à l'hôtel\nBouteille d'eau minérale\nTous les péages et frais de stationnement\n\n**Non inclus**\nToute dépense personnelle",
+  "highlights": [
+   "Explorez le Triangle d'or emblématique de l'Inde : Delhi, Agra, et Jaipur, avec Amritsar"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée pour toute l'activité du circuit, avec chauffeur",
+   "Guide touristique professionnel dans chaque ville",
+   "Hébergement à l'hôtel pour 6 nuits (si l'option est sélectionnée)",
+   "Petit-déjeuner à l'hôtel",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "delhi-old-new-delhi-half-full-day-customizable": {
+  "title": "Delhi : visite personnalisable du Vieux et du New Delhi, demi-journée ou journée complète",
+  "metaTitle": "Delhi : Vieux et New Delhi personnalisable",
+  "metaDescription": "Ressentez l'atmosphère calme des jardins magnifiquement paysagés.",
+  "shortDescription": "Ressentez l'atmosphère calme des jardins magnifiquement paysagés.",
+  "fullDescription": "Delhi : visite personnalisable du Vieux et du New Delhi, demi-journée ou journée complète. Ressentez l'atmosphère calme des jardins magnifiquement paysagés.\n\nCommencez votre voyage au temple du Lotus à Delhi. Rendez-vous au temple, situé dans la partie sud de la ville. En entrant dans les jardins magnifiquement paysagés, ressentez l'atmosphère calme qui pose le cadre d'une visite paisible.\n\nAdmirez la structure en forme de lotus primée, un chef-d'œuvre emblématique de l'architecture moderne. Ses 27 « feuilles » de marbre en forme de pétales forment la silhouette d'un lotus en fleur, symbolisant la pureté et la paix.\n\nEntrez dans le hall central, un vaste espace ouvert accueillant des personnes de toutes confessions. Asseyez-vous tranquillement, priez, ou méditez dans l'ambiance sereine conçue pour favoriser la paix intérieure et la réflexion.\n\nPrenez le temps de comprendre les enseignements de la foi bahá'íe : l'unité, l'harmonie, et l'égalité, ainsi que le but du temple du Lotus en tant que maison d'adoration universelle.\n\nPromenez-vous dans les jardins environnants, ou trouvez un endroit tranquille pour vous reposer, réfléchir, et profiter du calme spirituel qui persiste dans l'air.\n\nSi vous le souhaitez, visitez la boutique de cadeaux pour découvrir des souvenirs, des livres, et des objets liés à la foi bahá'íe et au temple. Terminez votre visite en retournant à votre hôtel. Gardez avec vous le doux souvenir de paix, de spiritualité, et de la beauté de ce sanctuaire unique.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel ou à l'aéroport (option 2 ou 3)\nTransport privé climatisé (option 2 ou 3)\nGuide touristique professionnel en direct\nBalade en rickshaw dans le Vieux Delhi\nEau en bouteille et parapluies offerts\nFrais de stationnement et toutes les taxes\n\n**Non inclus**\nRepas\nBillets d'entrée aux monuments",
+  "highlights": [
+   "Ressentez l'atmosphère calme des jardins magnifiquement paysagés"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport (option 2 ou 3)",
+   "Transport privé climatisé (option 2 ou 3)",
+   "Guide touristique professionnel en direct",
+   "Balade en rickshaw dans le Vieux Delhi",
+   "Eau en bouteille et parapluies offerts",
+   "Frais de stationnement et toutes les taxes"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Billets d'entrée aux monuments"
+  ]
+ },
+ "5-day-trip-to-khajuraho-orchha-gwalior-jhansi": {
+  "title": "Circuit de 5 jours à Khajuraho, Orchha, Gwalior, et Jhansi depuis Delhi",
+  "metaTitle": "Khajuraho-Orchha-Gwalior-Jhansi en 5 jours",
+  "metaDescription": "Explorez les merveilles architecturales des temples de Khajuraho classés par l'UNESCO.",
+  "shortDescription": "Explorez les merveilles architecturales des temples de Khajuraho classés par l'UNESCO.",
+  "fullDescription": "Circuit de 5 jours à Khajuraho, Orchha, Gwalior, et Jhansi depuis Delhi. Explorez les merveilles architecturales des temples de Khajuraho classés par l'UNESCO.\n\n**Ce qui est inclus**\nTous les transferts et visites en véhicule privé\nPéages, stationnement, indemnité de chauffeur, et carburant\nGuide professionnel (si l'option est sélectionnée)\nHébergement 3 étoiles inclus (si l'option est sélectionnée)\nPetit-déjeuner inclus (si l'option est sélectionnée)\nBillets d'entrée inclus (si l'option est sélectionnée)\nBillets de train de Delhi à Gwalior inclus\n\n**Non inclus**\nTout type de dépense personnelle n'est pas inclus\nDéjeuner/dîner/boissons",
+  "highlights": [
+   "Explorez les merveilles architecturales des temples de Khajuraho classés par l'UNESCO"
+  ],
+  "included": [
+   "Tous les transferts et visites en véhicule privé",
+   "Péages, stationnement, indemnité de chauffeur, et carburant",
+   "Guide professionnel (si l'option est sélectionnée)",
+   "Hébergement 3 étoiles inclus (si l'option est sélectionnée)",
+   "Petit-déjeuner inclus (si l'option est sélectionnée)",
+   "Billets d'entrée inclus (si l'option est sélectionnée)",
+   "Billets de train de Delhi à Gwalior inclus"
+  ],
+  "notIncluded": [
+   "Tout type de dépense personnelle n'est pas inclus",
+   "Déjeuner/dîner/boissons"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
