@@ -1035,6 +1035,73 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "holi-celebration-day-trip-to-mathura-vrindavan": {
+  "title": "Holi-Feier Tagesausflug nach Mathura und Vrindavan mit Guide",
+  "metaTitle": "Holi in Mathura und Vrindavan, Ausflug mit Guide",
+  "metaDescription": "Tauchen Sie ein in die lebendigen Farben und Traditionen von Holi in Mathura.",
+  "shortDescription": "Tauchen Sie ein in die lebendigen Farben und Traditionen von Holi in Mathura.",
+  "fullDescription": "Beginnen Sie Ihren Tag mit einer frühen morgendlichen Abholung von Delhi in einem privaten, klimatisierten Fahrzeug. Reisen Sie nach Agra über die Taj Expressway und kommen Sie rechtzeitig an, um die Agra-Welterbestätte zu erleben. Genießen Sie das beste Licht, weniger Menschenmassen, und ein magisches Erlebnis.\n\nNach Ihrem Besuch genießen Sie ein köstliches Frühstück in einem 5-Sterne-Hotel oder einem lokalen Restaurant. Dann geht es weiter zum Agra Fort für eine geführte Tour, bei der Sie seine beeindruckende Architektur und reiche Geschichte erkunden.\n\nAls Nächstes reisen Sie nach Mathura/Vrindavan, dem Herzen der Holi-Feierlichkeiten. Tauchen Sie ein in die lebendigen Feierlichkeiten und nehmen Sie an traditionellen Holi-Feiern in berühmten Tempeln wie dem Banke Bihari Tempel oder Krishna Janmabhoomi teil. Erleben Sie Farbwürfe, Musik, religiöse Gesänge, und lokale kulturelle Praktiken.\n\nVerbringen Sie etwa 3-4 Stunden eingetaucht in das Festival, je nachdem, wie viel Sie feiern möchten und wie voll es ist. Nach den Feierlichkeiten entspannen Sie sich auf der Rückfahrt nach Delhi, wo Sie an Ihrer Unterkunft abgesetzt werden.",
+  "highlights": [
+   "Tauchen Sie ein in die lebendigen Farben und Traditionen von Holi in Mathura"
+  ],
+  "included": [
+   "Abholung und Rückfahrt von Delhi",
+   "Privates klimatisiertes Fahrzeug",
+   "Lokaler englischsprachiger Guide",
+   "Frühstück im lokalen Restaurant",
+   "Besuch des Agra Fort und Itmad-Ud-Daulah",
+   "Teilnahme an den Holi-Feierlichkeiten in Mathura/Vrindavan/Barsana"
+  ],
+  "notIncluded": [
+   "Mittagessen",
+   "Abendessen",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "agra-taj-mahal-express-entry-guided-tour-beat-the": {
+  "title": "Agra: geführte Taj Mahal Tour mit Express-Eintritt, der Menge entgehen",
+  "metaTitle": "Agra: Taj Mahal, Express-Eintritt, der Menge entgehen",
+  "metaDescription": "Erkunden Sie den ikonischen Taj Mahal, eines der Sieben Weltwunder.",
+  "shortDescription": "Erkunden Sie den ikonischen Taj Mahal, eines der Sieben Weltwunder.",
+  "fullDescription": "**1. Abholung**\nIhr Tag beginnt mit einer bequemen Abholung von Ihrem Hotel oder bevorzugten Ort in Agra. Reisen Sie in einem privaten klimatisierten Fahrzeug, während Ihr professioneller Guide faszinierende Einblicke in das reiche Mogul-Erbe der Stadt teilt.\n\n**2. Ankunft am Taj Mahal**\nKommen Sie früh an, um der Menge zu entgehen, und genießen Sie den Express-Eintritt zum Taj Mahal. Erleben Sie den magischen Sonnenaufgang, der goldene Töne über dieses ikonische weiße Marmordenkmal wirft. Ihr erfahrener Guide führt Sie durch seine romantische Geschichte, architektonische Brillanz, und versteckte Details.\n\n**3. Geführte Erkundung und Fotografie**\nNehmen Sie sich Zeit, die Gärten, Spiegelteiche, und die kunstvolle Marmor-Einlegearbeit zu erkunden. Machen Sie atemberaubende Fotos von den besten Aussichtspunkten, während Ihr Guide Ihnen hilft, weniger bekannte Geschichten und perfekte Fotostellen zu entdecken.\n\n**4. Lokales Handwerkserlebnis (optional)**\nBereichern Sie Ihre Tour mit einem Besuch lokaler Handwerkerwerkstätten, wo Sie traditionelle Marmor-Einlegearbeit und Kunsthandwerk sehen können, die Agras reiches künstlerisches Erbe widerspiegeln.\n\n**5. Bequeme Abgabe**\nBeenden Sie Ihre Tour mit einem reibungslosen Transfer zurück zu Ihrem Hotel oder gewünschten Ort in Agra, mit unvergesslichen Erinnerungen an eines der schönsten Denkmäler der Welt.",
+  "highlights": [
+   "Erkunden Sie den ikonischen Taj Mahal, eines der Sieben Weltwunder"
+  ],
+  "included": [
+   "Hotel-/Flughafenabholung und Rückfahrt",
+   "Privates klimatisiertes Auto für den Transfer mit Fahrer",
+   "Von der Regierung zugelassener erfahrener Reiseführer",
+   "Eintrittstickets für Denkmäler (falls Option ausgewählt)",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parken"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "lucknow-private-city-tour-with-lunch-and-hotel": {
+  "title": "Lucknow: private Stadttour mit Mittagessen und Hoteltransfers",
+  "metaTitle": "Lucknow: private Tour mit Mittagessen und Transfers",
+  "metaDescription": "Erkunden Sie Bara Imambara und das berühmte Bhul-Bhulaiya-Labyrinth.",
+  "shortDescription": "Erkunden Sie Bara Imambara und das berühmte Bhul-Bhulaiya-Labyrinth.",
+  "fullDescription": "Tauchen Sie ein in die anmutige Eleganz von Lucknow, der berühmten \"Stadt der Nawabs\". Auf diesem privaten Ganztagserlebnis reisen Sie durch eine prächtige Mischung aus königlicher Awadhi-Architektur, lebendigen lokalen Bazaren, und legendärem kulinarischem Erbe. Geführt von einem persönlichen lokalen Gastgeber, genießen Sie eine entspannte, nahtlose Erkundung der ikonischen Sehenswürdigkeiten der Stadt in Ihrem eigenen komfortablen Tempo.\n\n**Highlights**\n\n100% privates Erlebnis: engagiertes klimatisiertes Fahrzeug und persönlicher Guide.\nIkonische Sehenswürdigkeiten: Erkunden Sie Bara Imambara, das unglaubliche Bhul-Bhulaiya-Labyrinth, und Chota Imambara.\n\nFotostopps: Fangen Sie das majestätische große Tor, Rumi Darwaza, ein.\n\nAuthentisches Awadhi-Mittagessen: Genießen Sie reiche regionale Aromen mit vegetarischen und nicht-vegetarischen Optionen.\n\nKulturelle Bazare: Durchstöbern Sie zarte Chikankari-Stickereien und traditionelles Kunsthandwerk.\n\n**Detaillierter Reiseplan**\n\nHotelabholung: Treffen Sie Ihren privaten Fahrer und erfahrenen Guide direkt an Ihrem Hotel in Lucknow oder am gewünschten Ort.\n\nBara Imambara und Bhul Bhulaiya: Entdecken Sie eines der großartigsten Denkmäler Indiens. Erkunden Sie seine immense zentrale Halle und navigieren Sie durch das faszinierende Labyrinth von Bhul Bhulaiya.\n\nRumi Darwaza: Halten Sie am ikonischen architektonischen Tor Lucknows für atemberaubende Fotos und historische Einblicke.\n\nChota Imambara: Besuchen Sie den exquisiten \"Palast der Lichter\" und staunen Sie über seine feine Kalligraphie, vergoldeten Kuppeln, und antiken Kronleuchter.\n\nAwadhi-Mittagspause: Entspannen Sie sich bei einem authentischen Mittagessen in einem erstklassigen lokalen Restaurant mit reichen regionalen Spezialitäten.\n\nLokale Bazare und Einkaufen: Schlendern Sie durch lebendige traditionelle Märkte, bekannt für handgestickte Chikankari-Textilien und Kunsthandwerk.\n\nDie britische Residenz: Tauchen Sie ein in die Geschichte in diesem friedlichen, baumbestandenen Komplex historischer Ruinen und Gärten, und erfahren Sie mehr über die Belagerung von Lucknow im Jahr 1857.\n\nGomti-/Lohia-Park: Erleben Sie die moderne Seite von Lucknows mit einem malerischen Stopp am großen Parkkomplex von Gomti Nagar und der Flussuferaussicht.\n\nHazratganj-Fahrt: Genießen Sie eine malerische Fahrt oder einen gemütlichen Spaziergang durch Hazratganj, Lucknows berühmtes Stadtzentrum.\n\nHotelabgabe: Beenden Sie Ihren unvergesslichen Tag mit einem reibungslosen privaten Transfer zurück zu Ihrem Hotel oder Flughafen.\n\n**Gut zu wissen**\n\nAnpassbares Tempo: Da dies eine 100% private Tour ist, können die Reihenfolge und die Zeit an jedem Stopp nach Ihren Wünschen angepasst werden.\n\nFlexible Pakete: Optionen mit oder ohne Eintrittstickets sind beim Checkout verfügbar.\n\nDiätoptionen: Vegetarische und nicht-vegetarische Mittagessensoptionen sind enthalten, um Ihren Vorlieben zu entsprechen.\n\nInklusionen: Flexible Paketoptionen beim Checkout verfügbar, mit oder ohne Eintrittstickets für Denkmäler.",
+  "highlights": [
+   "Erkunden Sie Bara Imambara und das berühmte Bhul-Bhulaiya-Labyrinth"
+  ],
+  "included": [
+   "Hotel-/Flughafenabholung und Rückfahrt",
+   "Privates klimatisiertes Auto für Besichtigungen mit Fahrer",
+   "Professioneller Reiseführer",
+   "Eintrittstickets für Denkmäler (falls Option ausgewählt)",
+   "Mittagessen in einem 5-Sterne-Hotel (falls Option ausgewählt)",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parken"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
