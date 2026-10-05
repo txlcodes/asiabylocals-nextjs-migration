@@ -25612,6 +25612,70 @@ export const FR_TOURS: Record<string, TourT> = {
    "Tout ce qui n'est pas mentionné dans les inclusions"
   ]
  },
+ "museum-raj-ghat-memorial-footsteps-of-gandhi": {
+  "title": "Musée, Raj Ghat, et mémorial : visite guidée sur les traces de Gandhi",
+  "metaTitle": "Delhi : sur les traces de Gandhi, visite guidée",
+  "metaDescription": "Découvrez la vie et l'héritage du Mahatma Gandhi lors d'une visite guidée",
+  "shortDescription": "Découvrez la vie et l'héritage du Mahatma Gandhi lors d'une visite guidée",
+  "fullDescription": "Musée, Raj Ghat, et mémorial : visite guidée sur les traces de Gandhi. Découvrez la vie et l'héritage du Mahatma Gandhi lors d'une visite guidée.\n\nFaites face à l'histoire, et découvrez l'incroyable vie de Gandhi et son parcours vers l'indépendance de l'Inde lors d'une visite exclusive. Après la prise en charge à votre hôtel, votre guide vous emmènera à la première destination, Gandhi Smriti, le lieu même où il passa ses 144 derniers jours avant d'être assassiné. Visitez la galerie de photos et de marionnettes qui retrace sa vie et son parcours vers le martyre.\n\nDe là, votre guide vous emmènera à Raj Ghat, le lieu où Gandhi fut incinéré et qui constitue aujourd'hui un mémorial en son honneur, puis enfin au Musée national Gandhi, qui possède une collection exhaustive de livres, journaux, et autres objets utilisés par Gandhi. Visitez la galerie de photos et de Charkha pour mieux comprendre sa vie.\n\nÀ la fin du voyage, retour à votre hôtel, ou choisissez de passer le reste de la journée par vous-même.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel\nGuide touristique privé en direct\nTransport\n\n**Non inclus**\nNourriture et boissons\nGratifications",
+  "highlights": [
+   "Découvrez la vie et l'héritage du Mahatma Gandhi lors d'une visite guidée"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Guide touristique privé en direct",
+   "Transport"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Gratifications"
+  ]
+ },
+ "from-delhi-rishikesh-and-haridwar-private-day-tour": {
+  "title": "Depuis Delhi : visite privée d'une journée à Rishikesh et Haridwar",
+  "metaTitle": "Delhi : Rishikesh-Haridwar, journée privée",
+  "metaDescription": "Plongez dans les anciennes traditions de l'hindouisme",
+  "shortDescription": "Plongez dans les anciennes traditions de l'hindouisme",
+  "fullDescription": "Depuis Delhi : visite privée d'une journée à Rishikesh et Haridwar. Plongez dans les anciennes traditions de l'hindouisme.\n\nCommencez votre journée tôt et de bonne heure, tandis que votre chauffeur arrive pour entamer le voyage vers Haridwar, situé à environ 4 heures et 214 km de Delhi, dans l'État septentrional de l'Uttarakhand, en Inde. Connue comme « la porte de Dieu », Haridwar est l'un des sites hindous les plus vénérés, attirant des pèlerins du monde entier vers ses terrains sacrés le long des rives du fleuve Gange.\n\nCette ville marque le point où le fleuve émerge des montagnes, se jetant dans les plaines du nord de l'Inde, incarnant un mélange de mysticisme divin et de dévotion.\n\nVotre exploration à Haridwar vous mène au célèbre Har-ki-Pauri, réputé pour les empreintes divines du Seigneur Vishnu gravées sur un mur de pierre. Ce lieu, abritant le sacré Brahmakund, est essentiel pour les fidèles cherchant la purification dans ses eaux sacrées. La cérémonie Ganga Aarti au crépuscule transforme Har-ki-Pauri en un spectacle de luminescence spirituelle, le fleuve reflétant les lumières scintillantes des diyas, créant une ambiance sereine.\n\nLe voyage se poursuit vers le temple de Mansa Devi, perché en hauteur, et offrant des vues panoramiques sur Haridwar. Dédié à la déesse exauçant les vœux Mansa Devi, ce temple complète le triangle sacré Siddhapeeth, avec le temple Chandi Devi et le temple Maya Devi, en faisant une visite incontournable pour des bénédictions et des éclairages spirituels.\n\nEn vous aventurant plus loin vers Rishikesh, une petite ville de l'Uttarakhand, connue comme la capitale mondiale du yoga et la porte d'entrée vers l'Himalaya. Rishikesh est devenue célèbre grâce à la visite des Beatles à l'ashram de Maharishi Mahesh Yogi, et reste un point de départ essentiel pour le Char Dham Yatra. Parmi ses attractions, Triveni Ghat se distingue comme un lieu de baignade important, orné de représentations de divinités hindoues, et offrant un espace paisible pour des bains rituels dans le Gange.\n\nLakshman Jhula, un pont suspendu historique nommé d'après le frère du Seigneur Rama, sert de point de repère à Rishikesh, flanqué de temples, et marquant un voyage spirituel à travers le fleuve. À proximité, Swarg Ashram offre un centre pour les chercheurs spirituels, avec ses nombreux ashrams, restaurants, et boutiques, en faisant une partie essentielle de votre visite.\n\nEn concluant votre voyage spirituel, le trajet de retour vers Delhi vous ramène vers 22h00, avec les expériences sereines, les bénédictions divines, et les souvenirs des paysages sacrés de Haridwar et Rishikesh.\n\n**Ce qui est inclus**\nVoiture privée climatisée\nPrise en charge et retour à l'hôtel\nGuide touristique\nTous les péages de transport\nBouteille d'eau\n\n**Non inclus**\nPourboires\nNourriture et boissons",
+  "highlights": [
+   "Plongez dans les anciennes traditions de l'hindouisme"
+  ],
+  "included": [
+   "Voiture privée climatisée",
+   "Prise en charge et retour à l'hôtel",
+   "Guide touristique",
+   "Tous les péages de transport",
+   "Bouteille d'eau"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Nourriture et boissons"
+  ]
+ },
+ "delhi-8-hour-old-new-delhi-highlights-tour-small": {
+  "title": "Delhi : visite des incontournables du Vieux et du New Delhi sur 8 heures, petit groupe",
+  "metaTitle": "Delhi : incontournables 8 heures, petit groupe",
+  "metaDescription": "Ressentez l'effervescence du marché aux épices de Delhi lors d'une balade en rickshaw",
+  "shortDescription": "Ressentez l'effervescence du marché aux épices de Delhi lors d'une balade en rickshaw",
+  "fullDescription": "Delhi : visite des incontournables du Vieux et du New Delhi sur 8 heures, petit groupe. Ressentez l'effervescence du marché aux épices de Delhi lors d'une balade en rickshaw.\n\nCommencez votre journée par une prise en charge à votre hôtel à Paharganj, Karol Bagh, Connaught Place, Mahipalpur, Aerocity, ou près de l'aéroport. Commencez votre voyage par un trajet passant devant le Rashtrapati Bhavan (résidence présidentielle) et le Parlement, et obtenez une introduction à l'architecture coloniale et aux bâtiments gouvernementaux de New Delhi.\n\nArrêtez-vous à India Gate, l'emblématique mémorial de guerre, et passez 30 minutes à visiter et prendre des photos. Ensuite, dirigez-vous vers le Vieux Delhi et profitez d'une balade guidée à travers Chandni Chowk. Explorez Dariba Kalan, connu pour les bijoux en argent, Kinari Bazaar, célèbre pour les accessoires et décorations de mariage, et Gali Parathe Wali, une ruelle historique réputée pour ses pains indiens farcis traditionnels.\n\nProfitez d'une balade en cyclo-rickshaw jusqu'à Khari Baoli, le plus grand marché de gros d'épices d'Asie. Découvrez les arômes et le commerce vibrant d'épices, d'herbes, et de fruits secs. Après environ 1 heure 30, retour en rickshaw vers le parking du Fort Rouge.\n\nArrêtez-vous au marché Janpath pour le déjeuner et le shopping. Passez 1 heure 30 à explorer l'artisanat, les souvenirs, les vêtements, et les marchés locaux. Des restaurants locaux, cafés, et un McDonald's sont également disponibles. Puis visitez le Gurudwara Bangla Sahib, le temple sikh le plus important de Delhi, pour découvrir les traditions sikhes et profiter de son environnement paisible.\n\nContinuez vers la tombe de Humayun, site du patrimoine mondial de l'UNESCO et source d'inspiration architecturale pour le Taj Mahal. Explorez le vaste complexe, comprenant la tombe de Humayun et la tombe d'Isa Khan. Passez environ 1 heure à 1 heure 30 à visiter et prendre des photos.\n\nFaites un bref arrêt au quartier artistique du jardin Lodhi, pour admirer les célèbres fresques de street art et prendre des photos. Enfin, retour à votre hôtel pour le dépôt.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel\nToutes les visites avec un guide local professionnel\nTransport en véhicule climatisé\nBalade en cyclo-rickshaw au marché aux épices de Khari Baoli\nEau en bouteille fournie\nTous les frais de stationnement et de carburant inclus\nAssistance WhatsApp 24h/24 et 7j/7\n\n**Non inclus**\nGratifications (optionnelles)\nBillets d'entrée\nRepas",
+  "highlights": [
+   "Ressentez l'effervescence du marché aux épices de Delhi lors d'une balade en rickshaw"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Toutes les visites avec un guide local professionnel",
+   "Transport en véhicule climatisé",
+   "Balade en cyclo-rickshaw au marché aux épices de Khari Baoli",
+   "Eau en bouteille fournie",
+   "Tous les frais de stationnement et de carburant inclus",
+   "Assistance WhatsApp 24h/24 et 7j/7"
+  ],
+  "notIncluded": [
+   "Gratifications (optionnelles)",
+   "Billets d'entrée",
+   "Repas"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
