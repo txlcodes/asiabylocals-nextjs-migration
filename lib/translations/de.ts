@@ -24929,6 +24929,83 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche persönliche Ausgaben"
   ]
  },
+ "delhi-private-lotus-temple-guided-tour": {
+  "title": "Delhi: private geführte Tour zum Lotustempel",
+  "metaTitle": "Delhi: Lotustempel, private Tour",
+  "metaDescription": "Weltberühmt: ikonische lotusförmige Architektur aus weißem Marmor",
+  "shortDescription": "Weltberühmt: ikonische lotusförmige Architektur aus weißem Marmor",
+  "fullDescription": "Delhi: private geführte Tour zum Lotustempel. Weltberühmt: ikonische lotusförmige Architektur aus weißem Marmor.\n\nErleben Sie die Ruhe des ikonischen Lotustempels bei einer komfortablen geführten Tour mit einem privaten klimatisierten Auto, einschließlich Abholung und Rückfahrt zum Hotel (falls diese Option gewählt wird). Diese sorgfältig zusammengestellte Tour umfasst auch kostenlose Vorbeifahrten an den Sehenswürdigkeiten von New Delhi, wie dem Präsidentenpalast (Rashtrapati Bhavan), dem Parlamentsgebäude, und India Gate. Um das Erlebnis abzurunden, genießen Sie einen Besuch in einem traditionellen Kunsthandwerkshaus, das Indiens reiches kulturelles Erbe und Handwerkskunst präsentiert.\n\nDer Lotustempel, auch bekannt als Bahai-Kultstätte, ist eine der ikonischsten Sehenswürdigkeiten Delhis, berühmt für seine auffällige lotusförmige Architektur und seine Botschaft universeller Einheit, Frieden, und spiritueller Besinnung. Offen für Menschen aller Religionen, Hintergründe, und Glaubensrichtungen, lädt er Besucher ein, in Stille zu sitzen, zu meditieren, und in einem ruhigen, konfessionslosen Raum nachzudenken.\n\nEntworfen vom iranischen Architekten Fariborz Sahba, wurde der Tempel 1986 fertiggestellt und weist 27 weiße Marmorblätter auf, die in Form einer Lotusblüte angeordnet sind und Reinheit und göttliche Schönheit symbolisieren. Umgeben von üppigen Gärten und neun Teichen, bietet er einen ruhigen Rückzugsort vom Trubel des Stadtlebens.\n\nIm Inneren bietet der zentrale Gebetssaal Platz für über 2.000 Menschen, bleibt aber ruhig und minimalistisch, ohne Rituale, Predigten, oder religiöse Ikonen, nur friedliche Stille, in der man meditieren oder still beten kann.\n\n**Was ist inbegriffen**\nPrivate Tour\nAbholung und Rückfahrt vom Hotel/Flughafen\nKlimatisiertes Fahrzeug\nProfessioneller Live-Reiseführer (Sprachführer falls gewählt)\nEintrittskarten für Sehenswürdigkeiten (falls diese Option gewählt wird)\nKostenlose Wasserflaschen und Regenschirme\nAlle Steuern, Gebühren, und Bearbeitungsgebühren, Parken\n\n**Nicht inbegriffen**\nMahlzeiten und Getränke\nTrinkgelder und Gratifikationen für Reiseführer und Fahrer\nJegliche persönliche Ausgaben",
+  "highlights": [
+   "Weltberühmt: ikonische lotusförmige Architektur aus weißem Marmor"
+  ],
+  "included": [
+   "Private Tour",
+   "Abholung und Rückfahrt vom Hotel/Flughafen",
+   "Klimatisiertes Fahrzeug",
+   "Professioneller Live-Reiseführer (Sprachführer falls gewählt)",
+   "Eintrittskarten für Sehenswürdigkeiten (falls diese Option gewählt wird)",
+   "Kostenlose Wasserflaschen und Regenschirme",
+   "Alle Steuern, Gebühren, und Bearbeitungsgebühren, Parken"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke",
+   "Trinkgelder und Gratifikationen für Reiseführer und Fahrer",
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "from-delhi-4-days-guided-tour-to-agra-ranthambore": {
+  "title": "Ab Delhi: 4-tägige geführte Tour nach Agra, Ranthambore, und Jaipur",
+  "metaTitle": "Delhi: 4 Tage, Agra-Ranthambore-Jaipur",
+  "metaDescription": "Erkunden Sie die lebendigen Straßen Delhis und besuchen Sie ikonische Stätten wie India Gate",
+  "shortDescription": "Erkunden Sie die lebendigen Straßen Delhis und besuchen Sie ikonische Stätten wie India Gate",
+  "fullDescription": "Ab Delhi: 4-tägige geführte Tour nach Agra, Ranthambore, und Jaipur. Erkunden Sie die lebendigen Straßen Delhis und besuchen Sie ikonische Stätten wie India Gate.\n\nErkunden Sie das Beste von Delhi, Agra, Ranthambore, und Jaipur bei einer 4-tägigen Tour. Sehen Sie das ikonische India Gate, das Taj Mahal, und das Amber Fort. Unternehmen Sie eine Wildlife-Safari im Ranthambore-Nationalpark, und vieles mehr.\n\n**Tag 1 – Delhi nach Agra**\nBeginnen Sie Ihre Tour mit einer Abholung von Ihrer Unterkunft in Delhi. Nehmen Sie an einer geführten Tour durch die lebendigen Straßen Delhis teil. Ihre Reiseroute umfasst ikonische Stätten wie den hoch aufragenden Qutub Minar, den ruhigen Lotustempel, das majestätische Humayun-Grabmal, und das ikonische India Gate.\n\nWährend Sie durch die Stadt fahren, erhaschen Sie Blicke auf das Parlamentsgebäude und das Rashtrapati Bhavan. Genießen Sie den historischen Charme von Alt-Delhi mit einem Besuch der großen Jama Masjid und des belebten Chandni Chowk, wo Sie bei einer Rikscha-Fahrt in die lokale Atmosphäre eintauchen können.\n\nNach einer reichhaltigen Tour durch die Stadt Delhi geht es weiter nach Agra, wo Sie in Ihrem Hotel übernachten.\n\n**Tag 2 – Agra nach Ranthambore**\nWachen Sie früh auf, um die ätherische Schönheit des Sonnenaufgangs über dem faszinierenden Taj Mahal zu erleben. Nehmen Sie an einer geführten Erkundung dieses architektonischen Meisterwerks für etwa zwei Stunden teil, mit einem eingehenden Blick auf seine Geschichte und Bedeutung, bevor Sie zum Frühstück in Ihr Hotel zurückkehren.\n\nAls Nächstes verabschieden Sie sich von Agra und besuchen das historische Agra Fort, staunen Sie über seine Pracht und sein kunstvolles Design. Danach geht es weiter nach Ranthambore, wo Sie in Ihrem Hotel einchecken.\n\n**Tag 3 – Ranthambore nach Jaipur**\nBeginnen Sie Ihren Tag mit einer aufregenden Dschungel-Safari im Ranthambore-Nationalpark, bei der Sie in einem geteilten Jeep oder Bus mit einem erfahrenen Naturforscher mitfahren. Verbringen Sie Stunden damit, die vielfältigen Landschaften des Dschungels zu erkunden, voller Vorfreude auf die majestätischen Bengal-Tiger und andere Tierwelt.\n\nNach der Safari genießen Sie ein herzhaftes Frühstück in Ihrem Hotel, bevor Ihre Reise nach Jaipur beginnt. Bei Ankunft in Jaipur richten Sie sich in Ihrer Unterkunft ein.\n\n**Tag 4 – Jaipur nach Delhi**\nBeginnen Sie Ihren Tag mit einer geführten Tour durch Jaipur, beginnend mit einem Besuch des kunstvollen Panna Meena Ka Kund, und des majestätischen Amber Forts. Genießen Sie die ruhige Schönheit des Jal Mahal mitten im Man-Sagar-See, gefolgt von einem Besuch des ikonischen Hawa Mahal und des faszinierenden City-Palace-Museums.\n\nNach der Erkundung des reichen Erbes der Stadt begeben Sie sich auf eine etwa vierstündige Fahrt zurück nach Delhi, oder wählen eine Rückfahrt zum Flughafen Jaipur für Ihre Weiterreise.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel\nGeführte Touren in Delhi, Agra, und Jaipur\nFrühstück in den Hotels\nEine Dschungel-Safari im Ranthambore-Nationalpark im geteilten Jeep oder Canter-Bus\nUnterkunft für 3 Nächte im Hotel mit Frühstück (falls diese Option gewählt wird)\nAbendessen in Ranthambore (falls diese Option gewählt wird)\nAlle anfallenden Steuern\n\n**Nicht inbegriffen**\nNicht näher bezeichnete Mahlzeiten und Getränke\nEintrittsgebühren für alle Sehenswürdigkeiten\nGalaabende, falls zutreffend, sind nicht in den Hotelkosten enthalten\nPersönliche Ausgaben\nTrinkgelder und Gratifikationen",
+  "highlights": [
+   "Erkunden Sie die lebendigen Straßen Delhis und besuchen Sie ikonische Stätten wie India Gate"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Geführte Touren in Delhi, Agra, und Jaipur",
+   "Frühstück in den Hotels",
+   "Eine Dschungel-Safari im Ranthambore-Nationalpark im geteilten Jeep oder Canter-Bus",
+   "Unterkunft für 3 Nächte im Hotel mit Frühstück (falls diese Option gewählt wird)",
+   "Abendessen in Ranthambore (falls diese Option gewählt wird)",
+   "Alle anfallenden Steuern"
+  ],
+  "notIncluded": [
+   "Nicht näher bezeichnete Mahlzeiten und Getränke",
+   "Eintrittsgebühren für alle Sehenswürdigkeiten",
+   "Galaabende, falls zutreffend, sind nicht in den Hotelkosten enthalten",
+   "Persönliche Ausgaben",
+   "Trinkgelder und Gratifikationen"
+  ]
+ },
+ "6-day-golden-triangle-tour-with-varanasi-from": {
+  "title": "6-tägige Golden-Triangle-Tour mit Varanasi ab Delhi",
+  "metaTitle": "Delhi: Golden Triangle 6 Tage, Varanasi",
+  "metaDescription": "Geführte Tour durch den Komplex von Qutub Minar und Chandni Chowk in Delhi",
+  "shortDescription": "Geführte Tour durch den Komplex von Qutub Minar und Chandni Chowk in Delhi",
+  "fullDescription": "6-tägige Golden-Triangle-Tour mit Varanasi ab Delhi. Geführte Tour durch den Komplex von Qutub Minar und Chandni Chowk in Delhi.\n\n**Tag 1 – Ankunft in Delhi und Besichtigung**\nAbholung am Flughafen/Bahnhof Delhi, und Transfer zum Hotel; Check-in mit traditionellem Empfang. Nach dem Frischmachen und Umziehen geht es weiter mit einer Tagestour durch Delhi. Heute besuchen wir Alt-Delhi mit der Jama Masjid, Chandni Chowk, und New Delhi. Wir besuchen India Gate, das Parlamentsgebäude, Raj Ghat, Akshardham, den Lotustempel, den Qutub Minar, und Humayuns Grabmal. Übernachtung im Hotel in Delhi.\n\n**Tag 2 – Delhi-Jaipur (halbtägige Besichtigung)**\nWir beginnen unsere Straßenreise nach Jaipur. Bei Ankunft Transfer zum Hotel, und wir beginnen unsere halbtägige Besichtigung. Wir besuchen den City Palace, das Jantar Mantar, und den Hawa Mahal. Übernachtung im Hotel in Jaipur.\n\n**Tag 3 – Jaipur-Fatehpur Sikri - Agra**\nHeute Morgen genießen wir einen Tagesausflug zum Amber Fort und Jal Mahal. Nach dem Frühstück beginnen Sie Ihre Straßenreise nach Agra. Unterwegs besuchen wir die verlassene Stadt Fatehpur Sikri. Diese mogulische Stadt, gegründet von Akbar, wurde zum Weltkulturerbe erklärt. Nach der Erkundung von Fatehpur Sikri und seinen Sehenswürdigkeiten geht es weiter nach Agra. Bei Ankunft Transfer zum Hotel. Übernachtung im Hotel in Agra.\n\n**Tag 4 – Besichtigung von Agra - Varanasi (mit dem Zug)**\nBei Sonnenaufgang genießen wir den Besuch des Taj Mahal und erleben seine zeitlose Schönheit (Hinweis: Das Taj Mahal ist freitags geschlossen). Am Nachmittag besuchen wir das Agra Fort, das Grabmal von Itmad-ud-Daulah, und Mehtab Bagh. Abendlicher Transfer zum Bahnhof, um den Zug nach Varanasi zu nehmen. Nachtfahrt mit dem Zug nach Varanasi.\n\n**Tag 5 – Ankunft in Varanasi und Stadtrundfahrt Varanasi**\nAbholung am Bahnhof Varanasi, und Transfer zum Hotel; Check-in mit traditionellem Empfang. Frischen Sie sich auf, und beginnen Sie die Stadtrundfahrt durch Varanasi: Besuch des Neuen Vishwanath-Tempels (B.H.U), des Sankat-Mochan-Tempels, des Tulsi-Manas-Mandir, des Durga-Mandir, des Tridev-Tempels, usw. Am Abend Ganga Aarti und Bootsfahrt auf dem Ganges am Dasaswamedh Ghat, danach Rückkehr zum Besuch des Golden Temple, des Haupttempels Kashi Vishwanath, des Annapurna-Tempels, und des Vishalakshi-Tempels. Übernachtung im Hotel.\n\n**Tag 6 – Varanasi - Delhi (mit dem Zug) - Abreise**\nHeute, früh am Morgen, genießen wir eine Bootsfahrt auf dem Ganges. Nach dem Frühstück Transfer zum Bahnhof für Ihren Zug nach Delhi. Bei Ankunft Treffen und Unterstützung bis zum internationalen Flughafen der Stadt für Ihren Rückflug mit schönen Erinnerungen.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zu Hotels und Flughäfen\nFrühstück im Hotel\nUnterkunft für 5 Nächte in einem 3-, 4-, oder 5-Sterne-Hotel (falls diese Option gewählt wird)\nProfessioneller Reiseführer in jeder Stadt\nAlle Besichtigungen in einem privaten klimatisierten Auto\nTägliche Wasserflasche\nBatterie-Rikscha-Fahrt am Taj Mahal\nAbholung und Rückfahrt zum Hotel/Flughafen\nZugticket Agra - Varanasi | Varanasi - Delhi\n\n**Nicht inbegriffen**\nTrinkgelder und Gratifikationen\nJegliche Aktivitäten\nEintrittsgebühren für Sehenswürdigkeiten\nSpeisen und Getränke",
+  "highlights": [
+   "Geführte Tour durch den Komplex von Qutub Minar und Chandni Chowk in Delhi"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zu Hotels und Flughäfen",
+   "Frühstück im Hotel",
+   "Unterkunft für 5 Nächte in einem 3-, 4-, oder 5-Sterne-Hotel (falls diese Option gewählt wird)",
+   "Professioneller Reiseführer in jeder Stadt",
+   "Alle Besichtigungen in einem privaten klimatisierten Auto",
+   "Tägliche Wasserflasche",
+   "Batterie-Rikscha-Fahrt am Taj Mahal",
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "Zugticket Agra - Varanasi | Varanasi - Delhi"
+  ],
+  "notIncluded": [
+   "Trinkgelder und Gratifikationen",
+   "Jegliche Aktivitäten",
+   "Eintrittsgebühren für Sehenswürdigkeiten",
+   "Speisen und Getränke"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
