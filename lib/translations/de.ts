@@ -22074,6 +22074,84 @@ export const DE_TOURS: Record<string, TourT> = {
    "Gratifikationen und Trinkgelder"
   ]
  },
+ "lotus-temple-akshardham-spiritual-tour": {
+  "title": "New Delhi: Lichtshow im Akshardham-Tempel mit individuellen Erweiterungen",
+  "metaTitle": "New Delhi: Lichtshow im Akshardham",
+  "metaDescription": "Haben Sie die Chance, die Sahaj-Anand-Wassershow am Abend zu sehen.",
+  "shortDescription": "Haben Sie die Chance, die Sahaj-Anand-Wassershow am Abend zu sehen.",
+  "fullDescription": "New Delhi: Lichtshow im Akshardham-Tempel mit individuellen Erweiterungen. Haben Sie die Chance, die Sahaj-Anand-Wassershow am Abend zu sehen.\n\nEntdecken Sie eine perfekte Mischung aus spirituellem Frieden, kultureller Tiefe, und personalisiertem Reisen mit dieser unvergesslichen Tour zum Akshardham-Tempel in Delhi. Dieses Erlebnis bietet weit mehr als einen Tempelbesuch: Es gibt Ihnen die Freiheit, Ihre Reise mit sinnvollen Erweiterungen zu personalisieren, die zu Ihren Interessen und Ihrem Reisestil passen.\n\nIhr Tag beginnt mit einer bequemen Hotelabholung in einem privaten klimatisierten Auto. Bei der Ankunft am großartigen Swaminarayan-Akshardham-Tempel werden Sie von der unglaublichen Architektur fasziniert sein, mit detaillierten Schnitzereien, die Indiens antike Kunstfertigkeit und Hingabe widerspiegeln. Das friedliche Tempelgelände umfasst wunderschöne Gärten, heilige Ausstellungen, und kulturelle Darstellungen, die tiefe Einblicke in das indische Erbe, Werte, und Spiritualität bieten.\n\nAm Abend genießen Sie die faszinierende Sahaj-Anand-Licht- und Wassershow, eine unvergessliche Darbietung mit Fontänen, Musik, Feuer, und Erzählkunst, die antike Weisheit zum Leben erweckt. Diese magische Show ist eines der einzigartigsten und bezauberndsten Erlebnisse Delhis.\n\nDieses Erlebnis ist ideal für Alleinreisende, Paare, Familien, und kleine Gruppen, die über die Standard-Besichtigung hinausgehen möchten. Jedes Detail wird von einem professionellen Team verwaltet, um ein reibungsloses, privates, und bereicherndes Erlebnis zu gewährleisten. Ein kenntnisreicher örtlicher Guide (falls gewählt) fügt Ihrer Reise historischen Kontext und kulturelle Einblicke hinzu, und hilft Ihnen, sich tiefer mit der Stadt zu verbinden.\n\nOb Sie ein spiritueller Entdecker, ein Feinschmecker, oder ein Kulturenthusiast sind, diese Akshardham-Tour bietet eine schöne Balance aus Reflexion, Abenteuer, und Authentizität. Lassen Sie die göttliche Schönheit von Akshardham und den lebendigen Geist Delhis in diesem flexiblen und immersiven Reiseerlebnis zusammenkommen.\n\n**Was ist enthalten**\nAbholung und Rückfahrt von Ihrem Hotel in Delhi (privates klimatisiertes Auto)\nEintrittskarte zum Akshardham-Tempel und zur Lichtshow (falls Option gewählt wird)\nWahl von einer oder mehreren Zusatzerfahrungen (bei der Buchung ausgewählt)\nÖrtlicher Expertenguide\nWasser in Flaschen im Fahrzeug\nUnterstützung bei der personalisierten Reiseplanung\nAbendessen (falls Option gewählt wird)\nMineralwasser in Flaschen\nAkshardham-Informationsbroschüre\n\n**Nicht enthalten**\nTrinkgelder/Gratifikationen (optional)\nPersönliche Ausgaben (Einkaufsartikel, Souvenirs)\nFotografie im Inneren des Tempels (nach Tempelregeln nicht erlaubt)\nEintrittskarten für Denkmäler",
+  "highlights": [
+   "Haben Sie die Chance, die Sahaj-Anand-Wassershow am Abend zu sehen"
+  ],
+  "included": [
+   "Abholung und Rückfahrt von Ihrem Hotel in Delhi (privates klimatisiertes Auto)",
+   "Eintrittskarte zum Akshardham-Tempel und zur Lichtshow (falls Option gewählt wird)",
+   "Wahl von einer oder mehreren Zusatzerfahrungen (bei der Buchung ausgewählt)",
+   "Örtlicher Expertenguide",
+   "Wasser in Flaschen im Fahrzeug",
+   "Unterstützung bei der personalisierten Reiseplanung",
+   "Abendessen (falls Option gewählt wird)",
+   "Mineralwasser in Flaschen",
+   "Akshardham-Informationsbroschüre"
+  ],
+  "notIncluded": [
+   "Trinkgelder/Gratifikationen (optional)",
+   "Persönliche Ausgaben (Einkaufsartikel, Souvenirs)",
+   "Fotografie im Inneren des Tempels (nach Tempelregeln nicht erlaubt)",
+   "Eintrittskarten für Denkmäler"
+  ]
+ },
+ "full-day-old-delhi-and-new-delhi-tour": {
+  "title": "Ganztagestour durch Alt-Delhi und New Delhi",
+  "metaTitle": "Delhi: Ganztagestour, Alt- und New Delhi",
+  "metaDescription": "Besuch von Raj Ghat, dem Denkmal für Mahatma Gandhi.",
+  "shortDescription": "Besuch von Raj Ghat, dem Denkmal für Mahatma Gandhi.",
+  "fullDescription": "Ganztagestour durch Alt-Delhi und New Delhi. Besuch von Raj Ghat, dem Denkmal für Mahatma Gandhi.\n\nTourdauer: ganzer Tag\nAbholung und Rückfahrt: mit einem Vertreter von Taj Explorer\n\n**Morgen: Erkundung von Alt-Delhi**\nAbholung vom Hotel/Flughafen (8:00 - 8:30 Uhr)\nBeginnen Sie den Tag mit einer bequemen Abholung durch den Vertreter von Taj Explorer.\nJama Masjid (9:00 - 9:30 Uhr)\nBesuchen Sie Indiens größte Moschee, erbaut vom Mogulkaiser Shah Jahan im 17. Jahrhundert.\nChandni Chowk und Rikscha-Fahrt (9:30 - 10:30 Uhr)\nErleben Sie die belebten Straßen von Alt-Delhi mit einer Rikscha-Fahrt durch den berühmten Gewürzmarkt und die Basare.\nRed Fort (Vorbeifahrt) (10:30 - 11:00 Uhr)\nSehen Sie die prächtige Festung aus rotem Sandstein, eine UNESCO-Weltkulturerbestätte, von außen.\nRaj Ghat (11:15 - 11:45 Uhr)\nZollen Sie dem Denkmal für Mahatma Gandhi Tribut, umgeben von ruhigen Gärten.\n\n**Mittag: Übergang nach New Delhi**\nIndia Gate (12:15 - 12:30 Uhr)\nHalt an diesem Kriegsdenkmal, das indischen Soldaten gewidmet ist, die im Ersten Weltkrieg kämpften.\nRashtrapati Bhavan und Parlamentsgebäude (Vorbeifahrt) (12:30 - 12:45 Uhr)\nBetrachten Sie die prächtige offizielle Residenz des indischen Präsidenten und die Parlamentsgebäude.\nMittagspause (13:00 - 14:00 Uhr)\nGenießen Sie eine Mahlzeit in einem örtlichen Restaurant mit authentischer nordindischer oder Mughlai-Küche.\n\n**Nachmittag: Erkundung von New Delhi**\nHumayuns Grabmal (14:15 - 15:00 Uhr)\nBesuchen Sie dieses beeindruckende Mogul-Mausoleum, eine UNESCO-Weltkulturerbestätte.\nLotustempel (15:15 - 15:45 Uhr)\nBewundern Sie die moderne Architektur dieses Bahá'í-Andachtshauses, bekannt für seine ruhige Atmosphäre.\nQutub Minar (16:15 - 17:00 Uhr)\nErkunden Sie das höchste Backsteinminarett der Welt, erbaut im 12. Jahrhundert.\n\n**Abend: Abschluss der Tour**\nEinkaufs- oder Freizeitstopp (optional) (17:15 - 18:00 Uhr)\nBesuchen Sie einen örtlichen Kunsthandwerksmarkt oder eine Boutique für Souvenirs.\nAbsetzung am Hotel/Flughafen (18:30 - 19:00 Uhr)\nBeenden Sie den Tag mit einer bequemen Absetzung an Ihrem bevorzugten Ort.\n\n**Was ist enthalten**\nAbholung und Rückfahrt\nPrivates klimatisiertes Auto für die gesamte Touraktivität\nLive-Reiseführer\nMineralwasserflasche\nAlle Mautgebühren und Parkgebühren\nEintrittskarten für Denkmäler (mit der Tour-Option)\nMittagessen (mit der Tour-Option)\n\n**Nicht enthalten**\nJegliche persönliche Ausgaben\nPersönliche Ausgaben: jegliche persönlichen Ausgaben wie Trinkgelder, Souvenirs, zusätzliche Mahlzeiten oder Getränke, und Einkäufe\nOptionale Aktivitäten\nGratifikationen: Trinkgelder für den Guide, Fahrer, oder das Hotelpersonal",
+  "highlights": [
+   "Besuch von Raj Ghat, dem Denkmal für Mahatma Gandhi"
+  ],
+  "included": [
+   "Abholung und Rückfahrt",
+   "Privates klimatisiertes Auto für die gesamte Touraktivität",
+   "Live-Reiseführer",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parkgebühren",
+   "Eintrittskarten für Denkmäler (mit der Tour-Option)",
+   "Mittagessen (mit der Tour-Option)"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben",
+   "Persönliche Ausgaben: jegliche persönlichen Ausgaben wie Trinkgelder, Souvenirs, zusätzliche Mahlzeiten oder Getränke, und Einkäufe",
+   "Optionale Aktivitäten",
+   "Gratifikationen: Trinkgelder für den Guide, Fahrer, oder das Hotelpersonal"
+  ]
+ },
+ "from-delhi-2-days-amritsar-tour-by-train": {
+  "title": "Ab Delhi: 2-tägige Amritsar-Tour mit dem Zug",
+  "metaTitle": "Delhi: Amritsar mit dem Zug, 2 Tage",
+  "metaDescription": "Private Tour: Genießen Sie die Flexibilität und das personalisierte Erlebnis einer privaten Tour.",
+  "shortDescription": "Private Tour: Genießen Sie die Flexibilität und das personalisierte Erlebnis einer privaten Tour.",
+  "fullDescription": "Ab Delhi: 2-tägige Amritsar-Tour mit dem Zug. Private Tour: Genießen Sie die Flexibilität und das personalisierte Erlebnis einer privaten Tour.\n\n**Tag 1:**\n7:20 Uhr: Abfahrt von Delhi mit dem Shatabdi-Express-Zug nach Amritsar.\n13:30 Uhr: Ankunft in Amritsar, und Transfer zu Ihrem Hotel.\nWagah-Grenze: Weiterfahrt zur Wagah-Grenze, um das zeremonielle Einholen der Flaggen zwischen Indien und Pakistan zu erleben.\nAbendessen: Genießen Sie ein traditionelles Punjabi-Abendessen in einem örtlichen Restaurant.\nOptional: Nächtlicher Blick auf den Goldenen Tempel (zusätzliche Kosten).\nÜbernachtung in einem Hotel in Amritsar.\n\n**Tag 2:**\nFrühstück im Hotel.\nBesuchen Sie den Goldenen Tempel, das spirituelle und kulturelle Zentrum der Sikh-Gemeinschaft.\nErkunden Sie den wunderschönen Tempelkomplex, und erleben Sie die abendliche Gebetszeremonie.\nJallianwala Bagh: Besuchen Sie Jallianwala Bagh, den Gedenkgarten, der an das Massaker von 1919 erinnert.\nZollen Sie den Opfern Tribut, und erfahren Sie mehr über die historische Bedeutung.\nErkundung des örtlichen Marktes: Verbringen Sie etwas Zeit mit der Erkundung der lebendigen örtlichen Märkte von Amritsar.\nKaufen Sie traditionelles Punjabi-Kunsthandwerk, Textilien, und Souvenirs.\n16:50 Uhr: Abfahrt von Amritsar mit dem Shatabdi-Express-Zug nach Delhi.\n22:50 Uhr: Ankunft in Delhi. Transfer zu Ihrem Hotel/Wohnsitz.\n\n**Was ist enthalten**\nAbholung und Rückfahrt zum Hotel\nHin- und Rückfahrt-Zugticket zwischen Delhi und Amritsar (Economy Class)\nLive-Reiseführer\n1 Nacht Aufenthalt im Hotel mit Frühstück\nKlimatisierter Transport\nWasserflasche\nEintrittsgebühren zu Denkmälern\n\n**Nicht enthalten**\nJegliches Mittag- und Abendessen\nSonstiges Essen und Getränke\nAbholung und Rückfahrt außerhalb von Delhi\nNachtbesichtigung von Amritsar\nTrinkgelder",
+  "highlights": [
+   "Private Tour: Genießen Sie die Flexibilität und das personalisierte Erlebnis einer privaten Tour"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Hin- und Rückfahrt-Zugticket zwischen Delhi und Amritsar (Economy Class)",
+   "Live-Reiseführer",
+   "1 Nacht Aufenthalt im Hotel mit Frühstück",
+   "Klimatisierter Transport",
+   "Wasserflasche",
+   "Eintrittsgebühren zu Denkmälern"
+  ],
+  "notIncluded": [
+   "Jegliches Mittag- und Abendessen",
+   "Sonstiges Essen und Getränke",
+   "Abholung und Rückfahrt außerhalb von Delhi",
+   "Nachtbesichtigung von Amritsar",
+   "Trinkgelder"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
