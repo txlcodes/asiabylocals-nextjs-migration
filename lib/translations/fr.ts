@@ -2926,6 +2926,73 @@ export const FR_TOURS: Record<string, TourT> = {
    "Articles non répertoriés dans les inclusions"
   ]
  },
+ "a-day-tour-of-gwalior-from-agra-with-local": {
+  "title": "Visite d'une journée de Gwalior depuis Agra avec service de guide local",
+  "metaTitle": "Agra-Gwalior : visite d'une journée, guide local",
+  "metaDescription": "Cette visite offre un mélange parfait d'histoire, de culture, et de luxe en une seule journée.",
+  "shortDescription": "Cette visite offre un mélange parfait d'histoire, de culture, et de luxe en une seule journée.",
+  "fullDescription": "L'invité sera pris en charge à Agra à son lieu souhaité et se dirigera vers Gwalior.\n\nDécouvrez la riche histoire de Gwalior lors d'une excursion d'une journée depuis Agra avec un guide local ! Découvrez le majestueux fort de Gwalior, une merveille de l'architecture indienne, et apprenez-en plus sur ses anciens dirigeants. Admirez les sculptures complexes au palais de Man Singh et aux temples Sas-Bahu.\n\nAprès un délicieux déjeuner local, dirigez-vous vers le somptueux palais Jai Vilas, une merveille de style européen. Soyez émerveillé par la grandeur de son Durbar Hall, avec un lustre massif et un unique train de service en argent.\n\nCette visite inoubliable réunit histoire, architecture, et saveurs locales en une seule journée !\n\nAprès avoir terminé cette excursion d'une journée, l'invité sera déposé à son lieu souhaité à Agra, comme l'hôtel, l'aéroport, ou la gare, marquant la fin de cette visite.",
+  "highlights": [
+   "Cette visite offre un mélange parfait d'histoire, de culture, et de luxe en une seule journée"
+  ],
+  "included": [
+   "Véhicule climatisé",
+   "Transport privé",
+   "Péage, stationnement, carburant, et indemnité du chauffeur inclus",
+   "Service de guide local inclus"
+  ],
+  "notIncluded": [
+   "Aucun type de nourriture/boisson n'est inclus",
+   "Aucun type de dépense personnelle n'est inclus",
+   "Aucun type de frais d'entrée n'est inclus"
+  ]
+ },
+ "delhi-taj-mahal-sunrise-tour-with-professional": {
+  "title": "Delhi : visite du Taj Mahal au lever du soleil avec photographe professionnel",
+  "metaTitle": "Delhi-Taj Mahal : lever du soleil, photographe",
+  "metaDescription": "Entrée sans file d'attente au Taj Mahal avec billets.",
+  "shortDescription": "Entrée sans file d'attente au Taj Mahal avec billets.",
+  "fullDescription": "Découvrez la beauté intemporelle du Taj Mahal sans le tracas des longues files lors de cette visite sans file d'attente du Taj Mahal depuis Delhi ou Agra. Que vous partiez de la capitale de l'Inde ou que vous soyez déjà à Agra, cette excursion guidée d'une journée garantit une visite fluide et inoubliable.\n\nCommencez par une prise en charge confortable à l'hôtel, suivie d'un trajet pittoresque de Delhi à Agra ou d'un court transfert local. Évitez les foules avec des billets prioritaires pour le Taj Mahal et plongez au cœur du monument le plus emblématique de l'Inde.\n\nExplorez le Taj Mahal avec un photographe professionnel, capturant des photos impressionnantes sous les meilleurs angles. Découvrez Shah Jahan et Mumtaz Mahal à travers des histoires partagées par votre guide expert du Taj Mahal.\n\nAprès votre visite, détendez-vous ou améliorez votre expérience avec des visites du fort d'Agra ou de Mehtab Bagh pour une vue du coucher de soleil. Qu'il s'agisse d'une visite photographique du Taj Mahal ou d'une excursion complète d'une journée de Delhi à Agra, revenez avec des souvenirs pour toute la vie et des photos professionnelles. Votre forfait photographe comprend 10 photos.",
+  "highlights": [
+   "Entrée sans file d'attente au Taj Mahal avec billets"
+  ],
+  "included": [
+   "Billets sans file d'attente (si option tout compris sélectionnée)",
+   "Photographe professionnel, seulement 10 photos incluses (si option tout compris sélectionnée)",
+   "Guide touristique expert",
+   "Prise en charge et retour à l'hôtel en voiture privée climatisée",
+   "Bouteille d'eau",
+   "Couvre-chaussures"
+  ],
+  "notIncluded": [
+   "Pourboire"
+  ]
+ },
+ "agra-three-world-heritages-sites-tour-from-goa": {
+  "title": "Visite des trois sites du patrimoine mondial d'Agra depuis Goa avec vols",
+  "metaTitle": "Goa-Agra : trois sites du patrimoine mondial",
+  "metaDescription": "Visite des trois sites du patrimoine mondial d'Agra depuis Goa avec vols.",
+  "shortDescription": "Visite des trois sites du patrimoine mondial d'Agra depuis Goa avec vols.",
+  "fullDescription": "**Jour 1**\n05h00 Prise en charge à n'importe quel hôtel à Goa et transfert vers l'aéroport pour monter à bord du vol vers Delhi.\n09h00 Départ du vol de Goa.\n15h30 Arrivée à l'aéroport de Delhi et trajet vers Agra en voiture privée climatisée.\n20h00 Arrivée à Agra et transfert vers l'hôtel.\n\n**Jour 2**\n06h00 Visite matinale, le premier site du patrimoine mondial, le palais du Taj (Mahal) au lever du soleil avec le guide touristique, et admirez la beauté du mausolée.\n08h00 Petit-déjeuner à l'hôtel.\n09h00 Après le petit-déjeuner, visite du deuxième site du patrimoine mondial, le fort d'Agra, avec le guide touristique.\n10h00 Admirez le beau travail d'artisanat d'incrustation en marbre et rencontrez les descendants des artisans.\n11h00 Trajet vers Fatehpur Sikri (45 km) et visite du troisième site du patrimoine mondial avec le guide touristique.\n13h00 Déjeuner au restaurant à vos frais.\n14h00 Trajet vers Agra.\n15h00 Visite des marchés locaux et de l'artisanat de la ville.\n19h00 Dîner au restaurant à vos frais.\n20h00 Après le dîner, transfert vers l'hôtel.\n\n**Jour 3**\n10h00 Après le petit-déjeuner et le départ, trajet vers Delhi en voiture et, après l'arrivée, transfert vers l'aéroport pour monter à bord du vol vers Goa.\n16h30 Départ du vol depuis l'aéroport de Delhi.\n19h30 Arrivée à l'aéroport de Goa et transfert vers l'hôtel.",
+  "highlights": [
+   "Visite des trois sites du patrimoine mondial d'Agra depuis Goa avec vols"
+  ],
+  "included": [
+   "Prise en charge et retour à Goa",
+   "Billets d'avion aller-retour (si option sélectionnée)",
+   "Visites en voiture privée climatisée",
+   "Hébergement dans un hôtel 4 étoiles en chambre double avec petit-déjeuner (si option sélectionnée). Trois invités partageront une chambre double avec un lit supplémentaire",
+   "Frais d'entrée aux monuments (si option sélectionnée)",
+   "Guide touristique",
+   "Soin et attention personnalisés"
+  ],
+  "notIncluded": [
+   "Déjeuner et dîner",
+   "Frais de caméra",
+   "Dépenses personnelles",
+   "Gratifications"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
