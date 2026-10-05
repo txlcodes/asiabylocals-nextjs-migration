@@ -22733,6 +22733,73 @@ export const ES_TOURS: Record<string, TourT> = {
    "Restricciones dietéticas y alergias: por favor infórmenos con anticipación. Coordinaremos con los vendedores siempre que sea posible para proporcionar alternativas adecuadas"
   ]
  },
+ "from-delhi-3-day-golden-triangle-tourdelhi-agra": {
+  "title": "Desde Delhi: tour del Triángulo Dorado de 3 días (Delhi, Agra, y Jaipur)",
+  "metaTitle": "Delhi: Triángulo Dorado 3 días, Delhi-Agra-Jaipur",
+  "metaDescription": "Explore Delhi, Agra, y Jaipur en un cómodo viaje de 3 días por el Triángulo Dorado.",
+  "shortDescription": "Explore Delhi, Agra, y Jaipur en un cómodo viaje de 3 días por el Triángulo Dorado.",
+  "fullDescription": "Desde Delhi: tour del Triángulo Dorado de 3 días (Delhi, Agra, y Jaipur). Explore Delhi, Agra, y Jaipur en un cómodo viaje de 3 días por el Triángulo Dorado.\n\n**Día 1: visitas a Delhi, traslado a Agra**\nSu viaje comienza con una recogida matutina en su hotel o aeropuerto en Delhi. Conozca a su guía profesional, y comience a explorar los monumentos más icónicos de la capital. Visite el impresionante Qutub Minar, una torre catalogada por la UNESCO, conocida por su intrincada arquitectura indo-islámica. Continúe hacia el gran monumento de guerra India Gate, seguido de un recorrido frente a la residencia presidencial Rashtrapati Bhavan y el Parlamento.\n\nMás tarde, parta en auto privado hacia Agra, una histórica ciudad mogol situada a unas 3 a 4 horas por la autopista. A su llegada, regístrese en su hotel. Por la tarde, puede elegir explorar los mercados locales famosos por sus artesanías en mármol y artículos de cuero. Noche en Agra.\n\n**Día 2: visitas a Agra, traslado a Jaipur**\nComience el día con una visita temprana al magnífico Taj Mahal, una de las Siete Maravillas del Mundo, y un sitio del Patrimonio Mundial de la UNESCO. Su guía compartirá la romántica historia detrás de este monumento de mármol blanco construido por el emperador Shah Jahan.\n\nA continuación, visite el impresionante fuerte de Agra, una fortaleza de arenisca roja que una vez sirvió como residencia real de los emperadores mogoles. Después de las visitas, comience su trayecto hacia Jaipur, famosamente conocida como la ciudad rosa.\n\nEn el camino, deténgase en la abandonada capital mogol de Fatehpur Sikri, reconocida por sus grandes puertas, palacios, y patios. Continúe su viaje hacia Jaipur, y regístrese en su hotel para pasar la noche.\n\n**Día 3: visitas a Jaipur, regreso a Delhi**\nDespués del desayuno, comience su exploración de Jaipur. Primero, visite el majestuoso fuerte Amber en la cima de la colina, un impresionante palacio-fortaleza conocido por su arquitectura artística y vistas panorámicas.\n\nContinúe hacia el icónico Hawa Mahal, también conocido como el Palacio de los Vientos, famoso por su fachada de panal. Más tarde visite el histórico City Palace, un complejo real con patios, museos, y hermosos palacios. También puede detenerse en el observatorio astronómico Jantar Mantar, un sitio de la UNESCO que muestra fascinantes instrumentos antiguos.\n\nDespués de completar el recorrido turístico, traslado de regreso a Delhi. A su llegada, será dejado en su hotel, aeropuerto, o lugar preferido, marcando el final de su inolvidable viaje de 3 días por el Triángulo Dorado.\n\n**Qué incluye**\nRecogida y regreso al hotel o aeropuerto\nAuto privado con aire acondicionado para toda la actividad del tour, con conductor\nGuía turístico profesional en cada ciudad\nAlojamiento en hotel por 2 noches (si se selecciona esta opción)\nDesayuno en el hotel\nBotella de agua mineral\nTodos los peajes y el estacionamiento\n\n**No incluye**\nAlmuerzo y cena\nEntradas a monumentos\nCualquier gasto personal",
+  "highlights": [
+   "Explore Delhi, Agra, y Jaipur en un cómodo viaje de 3 días por el Triángulo Dorado"
+  ],
+  "included": [
+   "Recogida y regreso al hotel o aeropuerto",
+   "Auto privado con aire acondicionado para toda la actividad del tour, con conductor",
+   "Guía turístico profesional en cada ciudad",
+   "Alojamiento en hotel por 2 noches (si se selecciona esta opción)",
+   "Desayuno en el hotel",
+   "Botella de agua mineral",
+   "Todos los peajes y el estacionamiento"
+  ],
+  "notIncluded": [
+   "Almuerzo y cena",
+   "Entradas a monumentos",
+   "Cualquier gasto personal"
+  ]
+ },
+ "delhi-night-view-tour-4-hour-evening-experience": {
+  "title": "Tour nocturno de Delhi: experiencia vespertina de 4 horas",
+  "metaTitle": "Delhi: tour nocturno de 4 horas",
+  "metaDescription": "Sienta la brisa de la tarde mientras explora los monumentos iluminados de Delhi.",
+  "shortDescription": "Sienta la brisa de la tarde mientras explora los monumentos iluminados de Delhi.",
+  "fullDescription": "Tour nocturno de Delhi: experiencia vespertina de 4 horas. Sienta la brisa de la tarde mientras explora los monumentos iluminados de Delhi.\n\nComience su tarde con una conveniente recogida en su hotel, el aeropuerto, o cualquier lugar preferido en Delhi, Noida, o Gurugram. Se le unirá su guía local experto, quien lo acompañará durante todo el tour, compartiendo fascinantes historias y conocimientos sobre los monumentos y la historia de Delhi.\n\nCuando se ponga el sol, diríjase a India Gate, un tributo resplandeciente a los soldados de la India. Deténgase a reflexionar, y capture hermosas fotos de las suaves luces del monumento brillando en el aire nocturno.\n\nA continuación, recorra en auto los grandiosos bulevares del Delhi de Lutyens, pasando por la Casa del Presidente y el Parlamento, ambos majestuosos y elegantes bajo el resplandor ámbar de las farolas.\n\nContinúe hacia el templo Shri Laxmi Narayan (Birla Mandir). Admire sus muros de mármol brillando bajo la luz de la luna, y empápese del ambiente tranquilo y sagrado creado por las oraciones vespertinas y el incienso.\n\nLuego, diríjase a Connaught Place, el corazón de Delhi. Las columnatas blancas, los cafés bulliciosos, y las calles animadas ofrecen un vistazo a la vida urbana moderna. Deténgase aquí para un corto paseo, o una rápida taza de café, mientras la ciudad bulle a su alrededor.\n\nFinalmente, visite el Gurdwara Bangla Sahib, un magnífico templo sij que brilla como oro en la noche. Experimente un momento de pura serenidad mientras escucha las suaves oraciones, y ve el reflejo de su cúpula dorada en las tranquilas aguas del estanque sagrado.\n\nAl concluir el tour, su conductor y guía lo escoltarán de regreso a su hotel o al punto de entrega elegido, dejándole recuerdos de una ciudad que brilla aún más después del anochecer.\n\n**Qué incluye**\nTour privado\nTransporte en auto privado con aire acondicionado\nTodas las visitas con un guía local privado aprobado por el gobierno\nRecogida y regreso al hotel o aeropuerto\nBotellas de agua mineral durante el trayecto\nTodos los impuestos, tarifas, y cargos de gestión\nAtención personalizada\n\n**No incluye**\nComidas y bebidas\nGastos personales\nGratificaciones",
+  "highlights": [
+   "Sienta la brisa de la tarde mientras explora los monumentos iluminados de Delhi"
+  ],
+  "included": [
+   "Tour privado",
+   "Transporte en auto privado con aire acondicionado",
+   "Todas las visitas con un guía local privado aprobado por el gobierno",
+   "Recogida y regreso al hotel o aeropuerto",
+   "Botellas de agua mineral durante el trayecto",
+   "Todos los impuestos, tarifas, y cargos de gestión",
+   "Atención personalizada"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas",
+   "Gastos personales",
+   "Gratificaciones"
+  ]
+ },
+ "delhi-vegan-cooking-class-with-local-chef": {
+  "title": "Delhi: clase de cocina vegana con chef local",
+  "metaTitle": "Delhi: clase de cocina vegana",
+  "metaDescription": "Descubra los secretos de la cocina vegana india con un chef local.",
+  "shortDescription": "Descubra los secretos de la cocina vegana india con un chef local.",
+  "fullDescription": "Delhi: clase de cocina vegana con chef local. Descubra los secretos de la cocina vegana india con un chef local.\n\nComience su experiencia culinaria en una cálida cocina hogareña, dirigida por un chef local apasionado por la comida auténtica y sostenible. Aprenda a elegir especias y crear sabores, sustituir los lácteos por alternativas vegetales, y equilibrar las masalas al estilo indio.\n\nSiga técnicas paso a paso para platos indios veganos tradicionales. Pique, revuelva, atempere, y cocine a fuego lento, y finalmente disfrute de todo lo que ha cocinado.\n\nExplore las especias de manera vegana. Aprenda cómo se tuestan, qué sabores producen, cómo cambian un plato, y sus beneficios ayurvédicos.\n\nPruebe un menú vegano que varía según la temporada y los ingredientes. Los platos pueden incluir aloo baingan (curry de papa y berenjena), chole masala (garbanzos estilo punjabi), dal tadka amarillo (lentejas ricas en proteínas), pulao de verduras (arroz especiado fragante), roti o paratha vegano hecho a mano, y kheer de coco (postre indio a base de plantas).\n\n**Qué incluye**\nClase de cocina vegana\nOrientación de un chef local\nIngredientes para cocinar\nDegustación de los platos preparados",
+  "highlights": [
+   "Descubra los secretos de la cocina vegana india con un chef local"
+  ],
+  "included": [
+   "Clase de cocina vegana",
+   "Orientación de un chef local",
+   "Ingredientes para cocinar",
+   "Degustación de los platos preparados"
+  ],
+  "notIncluded": [
+   "Transporte al lugar"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
