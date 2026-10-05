@@ -27078,6 +27078,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder (optional)\nMittag- und Abendessen\nJegliche persönlichen Ausgaben"
   ]
  },
+ "delhi-qutub-minar-heritage-night-tour-with-guide": {
+  "title": "Delhi: Qutub-Minar-Kulturerbe-Nachttour mit Führer",
+  "metaTitle": "Delhi: Qutub-Minar-Kulturerbe-Nachttour",
+  "metaDescription": "Tauchen Sie ein in die Geschichte Delhis bei einer geführten Qutub-Minar-Tour mit nächtlicher Licht- und Tonshow.",
+  "shortDescription": "Tauchen Sie ein in die Geschichte Delhis bei einer geführten Qutub-Minar-Tour",
+  "fullDescription": "Delhi: Qutub-Minar-Kulturerbe-Nachttour mit Führer. Tauchen Sie ein in die Geschichte Delhis bei einer geführten Qutub-Minar-Tour.\n\nErleben Sie Delhi wie nie zuvor mit den Qutub Minar Heritage Nights, einem bezaubernden Abend, der Jahrhunderte Geschichte unter dem Sternenhimmel zum Leben erweckt. Beginnen Sie mit einer geführten Tour durch die UNESCO-Welterbestätte, wo ein fachkundiger Geschichtenerzähler die reiche Vielfalt von Delhis Vergangenheit enthüllt.\n\nWährend Sie durch die antiken Ruinen des Qutub-Komplexes wandeln, erfahren Sie mehr über seine indo-islamische Architektur, faszinierende Legenden und die mächtigen Dynastien, die einst von dieser historischen Stätte aus herrschten.\n\nWenn die Nacht hereinbricht, nehmen Sie Platz für die spektakuläre Licht- und Tonshow, ein visuelles und akustisches Meisterwerk, das den Qutub Minar in beeindruckenden Farben erleuchtet und dabei die Geschichte seiner Entstehung und Bedeutung erzählt. Vor dem Hintergrund dramatischer Beleuchtung, Musik und historischer Erzählung in mehreren Sprachen scheint das Denkmal zum Leben zu erwachen und bietet eine tiefe, emotionale Verbindung zu Indiens mittelalterlichem Erbe.\n\nOb Geschichtsliebhaber, kultureller Entdecker oder Reisender auf der Suche nach etwas wirklich Unvergesslichem, dieses Erlebnis verspricht sowohl lehrreich als auch atemberaubend zu sein. Besuchen Sie nicht nur Delhi, spüren Sie seine Seele, wandeln Sie durch sein Erbe und erleben Sie, wie sich seine Geschichte vor Ihren Augen entfaltet bei den Qutub Minar Heritage Nights.\n\n### Inklusive\n\n- Eintrittskarte für Qutub Minar (falls Option gewählt)\n- Reservierter Platz für die Show\n- Trinkwasser während der Tour\n- Privates klimatisiertes Auto\n\n### Nicht inklusive\n\n- Mahlzeiten und Getränke",
+  "highlights": [
+   "Tauchen Sie ein in die Geschichte Delhis bei einer geführten Qutub-Minar-Tour"
+  ],
+  "included": [
+   "Eintrittskarte für Qutub Minar (falls Option gewählt)\nReservierter Platz für die Show\nTrinkwasser während der Tour\nPrivates klimatisiertes Auto"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke"
+  ]
+ },
+ "delhi-half-full-day-tour": {
+  "title": "Delhi: privater geführter Old- und New-Delhi-Ausflug, Halb- oder Ganztag",
+  "metaTitle": "Delhi: privater geführter Old/New-Delhi-Ausflug",
+  "metaDescription": "Genießen Sie die lebendigen Farben der Geschäfte und Waren auf dem Chandni-Chowk-Markt bei diesem privaten Ausflug.",
+  "shortDescription": "Genießen Sie die lebendigen Farben der Geschäfte und Waren auf dem Chandni-Chowk-Markt",
+  "fullDescription": "Delhi: privater geführter Old- und New-Delhi-Ausflug, Halb- oder Ganztag. Genießen Sie die lebendigen Farben der Geschäfte und Waren auf dem Chandni-Chowk-Markt.\n\nBegeben Sie sich auf eine luxuriöse private Tour, die die Highlights von Old und New Delhi zu einem bereichernden Halbtages- oder Ganztageserlebnis verbindet. Tauchen Sie tief in Indiens Geschichte und Kultur ein und besuchen Sie ikonische Wahrzeichen mit Hilfe Ihres privaten Reiseführers. Wählen Sie eine Halbtages- oder Ganztagestour, mit der Option, Eintrittsgebühren einzuschließen. Wählen Sie eine beliebige Abholzeit zwischen 7:00 und 16:00 Uhr.\n\nBeginnen Sie Ihren Tag mit einer bequemen Abholung von Ihrer Unterkunft. Reisen Sie komfortabel in einem klimatisierten Fahrzeug, während Sie je nach gewählter Tour-Option sowohl Old als auch New Delhi erkunden.\n\nOld-Delhi-Reiseplan:\n\nJama Masjid: Besuchen Sie Indiens größte Moschee und erfahren Sie ihre Geschichte von Ihrem Reiseführer.\n\nChandni Chowk: Tauchen Sie ein in die lebendigen Farben und Düfte dieses belebten Marktes. Genießen Sie eine Rikscha-Fahrt durch seine engen Gassen und erkunden Sie Asiens größten Gewürzmarkt.\n\nRotes Fort: Bewundern Sie das Äußere dieser historischen Festung und erfahren Sie mehr über ihre Bedeutung.\n\nGurudwara Bangla Sahib: Erhalten Sie Informationen über den Sikhismus und besuchen Sie die zweitgrößte Gemeinschaftsküche der Welt, die täglich etwa 50.000 Mahlzeiten serviert.\n\nNew-Delhi-Reiseplan:\n\nLotustempel: Erleben Sie die Ruhe dieses Bahá'í-Gotteshauses.\n\nHumayuns Grabmal: Besuchen Sie dieses Mausoleum aus dem 16. Jahrhundert, eine UNESCO-Welterbestätte.\n\nIndia Gate: Besuchen Sie dieses Kriegsdenkmal auf Ihrer Fahrt durch die Stadt.\n\nParlamentsgebäude und Rashtrapati Bhavan: Fahren Sie an diesen wichtigen Regierungsgebäuden vorbei.\n\nQutub Minar: Besuchen Sie dieses gewaltige Minarett und erfahren Sie mehr über seine historische Bedeutung.\n\nVersteckte Schätze: Entdecken Sie das weniger bekannte Lodhi-Gardens-Grabmal und die Agrasen Ki Baoli.\n\nAm Ende Ihrer Tour setzt Sie Ihr Fahrer an Ihrem gewünschten Ort ab, sei es ein Flughafen oder ein Hotel in Delhi, Gurgaon, Noida, Ghaziabad oder Faridabad.\n\n### Inklusive\n\n- Abholung und Rückfahrt vom Hotel\n- Klimatisierter Transport während der Aktivität\n- Professioneller Live-Reiseführer\n- Eintrittskarten für Denkmäler (falls Option gewählt)\n- Rikscha-Fahrt in Old Delhi (falls Option gewählt)\n- Wasser in Flaschen\n- Regenschirme\n- Parkgebühren und Steuern\n\n### Nicht inklusive\n\n- Essen und Getränke\n- Trinkgelder",
+  "highlights": [
+   "Genießen Sie die lebendigen Farben der Geschäfte und Waren auf dem Chandni-Chowk-Markt"
+  ],
+  "included": [
+   "Abholung und Rückfahrt vom Hotel\nKlimatisierter Transport während der Aktivität\nProfessioneller Live-Reiseführer\nEintrittskarten für Denkmäler (falls Option gewählt)\nRikscha-Fahrt in Old Delhi (falls Option gewählt)\nWasser in Flaschen\nRegenschirme\nParkgebühren und Steuern"
+  ],
+  "notIncluded": [
+   "Essen und Getränke\nTrinkgelder"
+  ]
+ },
+ "new-delhi-a-cultural-walk-in-majnu-ka-tila": {
+  "title": "New Delhi: ein kultureller Spaziergang in Majnu ka Tila",
+  "metaTitle": "New Delhi: ein kultureller Spaziergang in Majnu ka Tila",
+  "metaDescription": "Erleben Sie Majnu Ka Tila wie ein Einheimischer, nicht wie ein Tourist, bei einem immersiven kulturellen Spaziergang im tibetischen Viertel.",
+  "shortDescription": "Erleben Sie Majnu Ka Tila wie ein Einheimischer, nicht wie ein Tourist",
+  "fullDescription": "New Delhi: ein kultureller Spaziergang in Majnu ka Tila. Erleben Sie Majnu Ka Tila wie ein Einheimischer, nicht wie ein Tourist.\n\nTauchen Sie ein in das Herz von Delhis tibetischer Gemeinschaft mit einem immersiven Spaziergang durch Majnu Ka Tila, ein Viertel reich an Kultur, Geschichte und spirituellem Charme. Diese Tour führt Sie durch friedliche Klöster, bunte Gebetsfahnen-Gassen, traditionelle Geschäfte und verborgene Ecken, die die Widerstandsfähigkeit und Identität der im Exil lebenden Tibeter widerspiegeln.\n\nEntdecken Sie Geschichten über Migration, Spiritualität und Alltagsleben, während Sie die einzigartige Architektur der Siedlung, symbolische Kunstwerke, rituelle Räume und lebendige Märkte erkunden. Setzen Sie sich mit den kulturellen Ausdrucksformen der Gemeinschaft auseinander, von Gebetsmühlen und Thangka-Kunst bis zur ruhigen Atmosphäre, die „Klein-Tibet\" ausmacht.\n\nKonzipiert für Reisende, die Tiefe und Authentizität suchen, bietet dieses Erlebnis einen bedeutungsvollen Einblick in eine lebendige Kultur, die fernab ihrer Heimat bewahrt wird. Sie werden mit einem tieferen Verständnis für das tibetische Erbe, seine Werte und die Traditionen, die in Majnu Ka Tila weiterhin gedeihen, nach Hause gehen.\n\n### Inklusive\n\n- 1. Lokaler Reiseführer\n- 2. Kultureller Spaziergang\n- 3. Eintritt in das Kloster\n- 4. Geschichtenerzählung und Geschichtssitzung\n- 4. Fotografie-Unterstützung\n\n### Nicht inklusive\n\n- 1. Essen und Getränke (vor Ort bezahlt)\n- 2. Transport zum/vom Ort\n- 3. Einkaufskosten",
+  "highlights": [
+   "Erleben Sie Majnu Ka Tila wie ein Einheimischer, nicht wie ein Tourist"
+  ],
+  "included": [
+   "1. Lokaler Reiseführer\n2. Kultureller Spaziergang\n3. Eintritt in das Kloster\n4. Geschichtenerzählung und Geschichtssitzung\n4. Fotografie-Unterstützung"
+  ],
+  "notIncluded": [
+   "1. Essen und Getränke (vor Ort bezahlt)\n2. Transport zum/vom Ort\n3. Einkaufskosten"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
