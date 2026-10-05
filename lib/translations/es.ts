@@ -4901,6 +4901,69 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "taj-mahal-agra-fort-fatehpur-sikri-tour-by": {
+  "title": "Tour al Taj Mahal, fuerte de Agra, y Fatehpur Sikri en tren Gatimaan",
+  "metaTitle": "Agra-Fatehpur Sikri en tren Gatimaan",
+  "metaDescription": "Evite las filas para una visita sin complicaciones al Taj Mahal.",
+  "shortDescription": "Evite las filas para una visita sin complicaciones al Taj Mahal.",
+  "fullDescription": "Comience su día con una cómoda recogida en el hotel en Delhi. Su conductor lo llevará a la estación de tren y lo ayudará a encontrar su vagón y asiento para el tren exprés hacia Agra. A su llegada, conozca a su guía local y comience su tour.\n\nVisite el impresionante Taj Mahal, uno de los monumentos más icónicos del mundo. Explore su belleza de mármol blanco y conozca su historia. Continúe hacia el fuerte de Agra, un sitio del Patrimonio Mundial de la UNESCO con una arquitectura impresionante y vistas del Taj Mahal.\n\nDisfrute de un delicioso almuerzo mogol en un restaurante local. Por la tarde, visite el elegante Itmad-ud-Daulah (Baby Taj), conocido por su intrincado trabajo en mármol.\n\nLuego conduzca hacia Fatehpur Sikri, una impresionante ciudad de arenisca roja construida por el emperador Akbar en el siglo XVI. Camine por sus palacios bien conservados, patios, y salones reales. Explore puntos destacados como el Buland Darwaza, una de las puertas más grandes del mundo, la grandiosa Jama Masjid, y el hermoso Panch Mahal. Visite la tumba de Salim Chishti, un tranquilo santuario de mármol conocido por su importancia espiritual.\n\nDespués, regrese a la estación de Agra y aborde su tren de regreso a Delhi. A su llegada, su conductor lo dejará en su hotel, concluyendo un día memorable.",
+  "highlights": [
+   "Evite las filas para una visita sin complicaciones al Taj Mahal"
+  ],
+  "included": [
+   "Tarifa de tren con aire acondicionado de ida y vuelta",
+   "Recorrido en coche privado",
+   "Guía turístico",
+   "Boletos de entrada a los monumentos (si se selecciona esa opción)",
+   "Almuerzo (si se selecciona esa opción)",
+   "Botellas de agua mineral",
+   "Todos los impuestos"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "from-delhi-private-8-day-rajasthan-tour-with": {
+  "title": "Desde Delhi: tour privado de 8 días por Rajasthan con hoteles",
+  "metaTitle": "Rajasthan en 8 días: fuertes y palacios",
+  "metaDescription": "Explore los fuertes y palacios de los Maharajás.",
+  "shortDescription": "Explore los fuertes y palacios de los Maharajás.",
+  "fullDescription": "Experimente lo mejor de la cultura y la vida salvaje de la India en este viaje de ida y vuelta de 8 días. Este tour se centra en las partes más emocionantes del país, incluyendo el hermoso y majestuoso Taj Mahal, la impresionante historia de Delhi, la arquitectura de Rajasthan, y la hermosa vida salvaje india. Si es amante de la historia, de la aventura, de la naturaleza, o simplemente está de viaje familiar, este tour lleno de aventuras será un recuerdo inolvidable.\n\n**Día 1: Delhi, Agra**\n\nA las 9:00, o a la hora indicada, será recogido en el aeropuerto/hotel/estación de tren de Delhi o en el lugar indicado en Delhi/Noida/Gurgaon. Comience su recorrido guiado de medio día por el \"Viejo y Nuevo Delhi\" con el Fuerte Rojo (parada para fotos), la Jama Masjid, Rajghat, India Gate, Rashtrapati Bhavan, el Parlamento, y Qutub Minar. Después de este increíble recorrido, será llevado a Agra. Noche en Agra.\n\n**Día 2: Agra, Ranthambore**\n\nA las 5:45, conozca a su guía y visite el mausoleo más hermoso del mundo al amanecer. Después de la visita, regrese al hotel y desayune. Después del desayuno, explore el fuerte de Agra. Después del tour, será llevado a Ranthambore. Noche en Ranthambore.\n\nTenga en cuenta: algunas zonas del Parque Nacional de Ranthambore están cerradas durante la temporada de monzones (del 1 de julio al 30 de septiembre) cada año.\n\n**Día 3: safaris en Ranthambore**\n\nRanthambore no es solo un parque nacional, es un hogar ideal para los tigres y un ejemplo excepcional de reserva de tigres en la India. Realice un safari matutino (de 6 a 9) de 3 a 4 horas esta mañana. Regrese al hotel para desayunar, tómese tiempo para relajarse, y almuerce. Luego tendrá un safari por la tarde. A las 14:30, noche en Ranthambore.\n\n**Día 4: Ranthambore, Udaipur**\n\nDespués del desayuno, será llevado a Udaipur (6 a 7 horas). Llegada a Udaipur, luego registro en el hotel. Relájese y descanse en el hotel después del largo viaje. Noche en Udaipur.\n\n**Día 5: tour por Udaipur**\n\nDespués del desayuno, proceda a explorar la ciudad de Udaipur. Visite el City Palace, un grandioso complejo palaciego. El templo Jagdish está dedicado al Señor Vishnu y ha estado en culto continuo desde 1651, y el Saheliyon Ki Bari es un hermoso jardín con fuentes, quioscos, un estanque de lotos, y elefantes de mármol. Noche en Udaipur.\n\n**Día 6: Udaipur, Jaipur**\n\nDespués del desayuno, traslado a Jaipur. Llegada a Jaipur, y descanso en el hotel después del largo viaje. Noche en Jaipur.\n\n**Día 7: tour por Jaipur**\n\nHoy, después del desayuno, conozca a su guía y proceda a explorar la increíble ciudad rosa de Jaipur. Sus visitas incluyen el grandioso fuerte en la colina Amer, el City Palace del Maharajá, el increíble observatorio Jantar Mantar. Siguiente parada para sus fotos memorables en el Jal Mahal (palacio de agua) y el Hawa Mahal (palacio de los vientos). Noche en Jaipur.\n\n**Día 8: Jaipur, Nueva Delhi**\n\nHoy, después del desayuno, será llevado de regreso a Delhi (aproximadamente 5 horas, 270 km) y dejado en su hotel/aeropuerto de Delhi/estación de tren, o en el lugar deseado en Delhi/Noida/Gurgaon. Elija sus vuelos en consecuencia. ¡Su tour concluye! Los recuerdos de estas breves y dulces vacaciones permanecerán para siempre en su corazón.",
+  "highlights": [
+   "Explore los fuertes y palacios de los Maharajás"
+  ],
+  "included": [
+   "Recogida y traslado al hotel",
+   "Conductor experimentado y autorizado",
+   "Guías turísticos locales profesionales",
+   "Botellas de agua potable empaquetadas",
+   "Transporte en coche privado con aire acondicionado",
+   "7 noches de alojamiento en hoteles de 3, 4, o 5 estrellas (según la opción seleccionada)",
+   "2 safaris en jeep/cantor compartidos en Ranthambore"
+  ],
+  "notIncluded": [
+   "Almuerzos/cenas",
+   "Tarifas de entrada a los monumentos",
+   "Cualquier cosa no especificada en las inclusiones anteriores"
+  ]
+ },
+ "agra-taj-mahal-tour-with-english-licensed-guide": {
+  "title": "Agra: tour al Taj Mahal con guía autorizado de habla inglesa",
+  "metaTitle": "Agra: Taj Mahal con guía de habla inglesa",
+  "metaDescription": "El Taj Mahal en un tour guiado privado.",
+  "shortDescription": "El Taj Mahal en un tour guiado privado.",
+  "fullDescription": "Visita bien organizada al Taj Mahal acompañada de un guía profesional autorizado por el gobierno, que lo recibirá en el monumento y lo asistirá con los trámites de entrada. Una vez dentro, su guía comparte información detallada sobre la historia, la arquitectura, y la historia de amor detrás del Taj Mahal, guiándolo a través de su mausoleo principal, jardines, y puntos de vista clave. La visita se desarrolla a un ritmo cómodo, permitiendo tiempo para fotos, preguntas, y exploración personal, haciendo la experiencia tanto informativa como memorable.",
+  "highlights": [
+   "El Taj Mahal en un tour guiado privado"
+  ],
+  "included": [
+   "Guía de habla inglesa para el Taj Mahal",
+   "Boletos para el Taj Mahal con mausoleo"
+  ],
+  "notIncluded": [
+   "Sin recogida ni entrega"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
