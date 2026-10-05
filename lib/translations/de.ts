@@ -23708,6 +23708,76 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche andere Dienstleistung, die nicht in den Einschlüssen erwähnt wird"
   ]
  },
+ "delhi-lotus-and-akshardham-temples-lodhi-garden": {
+  "title": "Delhi: Lotus- und Akshardham-Tempel, Lodhi Garden und mehr",
+  "metaTitle": "Delhi: Lotus-Tempel, Akshardham, Lodhi Garden",
+  "metaDescription": "Entdecken Sie den Bahai-Lotustempel, eine Kultstätte in Delhi.",
+  "shortDescription": "Entdecken Sie den Bahai-Lotustempel, eine Kultstätte in Delhi.",
+  "fullDescription": "Delhi: Lotus- und Akshardham-Tempel, Lodhi Garden und mehr. Entdecken Sie den Bahai-Lotustempel, eine Kultstätte in Delhi.\n\nErkunden Sie den Lotus- und den Akshardham-Tempel, den Lodhi Garden und Humayuns Grabmal bei einer privaten Tour ab Delhi. Erfahren Sie die Geschichte dieser ikonischen Stätten und genießen Sie freie Zeit zum Mittagessen oder für eine Rikscha-Fahrt.\n\nNach der Abholung von Ihrem Hotel in Delhi geht es zum berühmten Lotustempel. Diese Bahai-Kultstätte zeichnet sich durch ihre besondere Ähnlichkeit mit einer Blume aus. Erfahren Sie, warum genau diese Architektur gewählt wurde.\n\nBesuchen Sie anschließend die idyllischen Lodi Gardens. Dies ist die grüne Lunge von Delhi, und der betörende Duft der Blumen begleitet Sie, während Sie die verschiedenen Mausoleen im Park entdecken.\n\nHumayuns Grab liegt in unmittelbarer Nähe der Gärten. Bei der Besichtigung dieses majestätischen, als Weltkulturerbe gelisteten Monuments erfahren Sie faszinierende Fakten über den Mogulkaiser aus dem 16. Jahrhundert, dessen Namen das Grab trägt.\n\nSie haben etwa eine Stunde freie Zeit zum Mittagessen oder für eine Rikscha-Fahrt. Nach dem Essen geht es zum hinduistischen Akshardham-Tempel. Obwohl es sich um einen modernen Bau handelt (eingeweiht 2005), zählt er heute zu den wichtigsten Attraktionen von Delhi, mit seinen kolossalen Elefantenskulpturen, Brunnenshows und geschnitzten Säulen.\n\nBeginnen Sie Ihre Rückfahrt zu Ihrem Hotel in Delhi.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel\nTransport im klimatisierten Fahrzeug\nLive-Reiseführer\n\n**Nicht inbegriffen**\nMittagessen\nTrinkgelder\nEintrittsgebühren für alle Stätten",
+  "highlights": [
+   "Entdecken Sie den Bahai-Lotustempel, eine Kultstätte in Delhi"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Transport im klimatisierten Fahrzeug",
+   "Live-Reiseführer"
+  ],
+  "notIncluded": [
+   "Mittagessen",
+   "Trinkgelder",
+   "Eintrittsgebühren für alle Stätten"
+  ]
+ },
+ "5-day-private-golden-triangle-tour-delhi-agra-and": {
+  "title": "Private 5-tägige Golden-Triangle-Tour: Delhi, Agra und Jaipur",
+  "metaTitle": "Delhi-Agra-Jaipur: Privates Golden Triangle, 5 Tage",
+  "metaDescription": "Erkunden Sie Indiens ikonisches Golden Triangle, Delhi, Agra und Jaipur, in 5 Tagen.",
+  "shortDescription": "Erkunden Sie Indiens ikonisches Golden Triangle, Delhi, Agra und Jaipur, in 5 Tagen.",
+  "fullDescription": "Private 5-tägige Golden-Triangle-Tour: Delhi, Agra und Jaipur. Erkunden Sie Indiens ikonisches Golden Triangle, Delhi, Agra und Jaipur, in 5 Tagen.\n\nErkunden Sie Indiens ikonisches Golden Triangle bei einer privaten 5-tägigen Tour durch Delhi, Agra und Jaipur. Genießen Sie maßgeschneiderte Besichtigungen, komfortable Transfers und unvergessliche kulturelle Erlebnisse.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel oder Flughafen\nPrivater klimatisierter Wagen für die gesamte Tour, mit Fahrer\nProfessioneller Reiseführer in jeder Stadt\nHotelunterkunft für 4 Nächte (falls diese Option gewählt wird)\nFrühstück im Hotel\nFlasche Mineralwasser\nAlle Maut- und Parkgebühren\n\n**Nicht inbegriffen**\nEintrittskarten für Sehenswürdigkeiten\nMittag- und Abendessen\nJegliche persönliche Ausgaben",
+  "highlights": [
+   "Erkunden Sie Indiens ikonisches Golden Triangle, Delhi, Agra und Jaipur, in 5 Tagen"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel oder Flughafen",
+   "Privater klimatisierter Wagen für die gesamte Tour, mit Fahrer",
+   "Professioneller Reiseführer in jeder Stadt",
+   "Hotelunterkunft für 4 Nächte (falls diese Option gewählt wird)",
+   "Frühstück im Hotel",
+   "Flasche Mineralwasser",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für Sehenswürdigkeiten",
+   "Mittag- und Abendessen",
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "7-day-golden-triangle-jodhpur-udaipur-tour-from": {
+  "title": "7-tägige Golden-Triangle-Tour mit Jodhpur und Udaipur ab Delhi",
+  "metaTitle": "Delhi: Golden Triangle 7 Tage, Jodhpur-Udaipur",
+  "metaDescription": "Erkunden Sie den City Palace und das Amber Fort von Jaipur (der rosa Stadt).",
+  "shortDescription": "Erkunden Sie den City Palace und das Amber Fort von Jaipur (der rosa Stadt).",
+  "fullDescription": "7-tägige Golden-Triangle-Tour mit Jodhpur und Udaipur ab Delhi. Erkunden Sie den City Palace und das Amber Fort von Jaipur (der rosa Stadt).\n\n**Tag 1: Delhi - Agra**\nAbholung vom Flughafen, Hotel oder Bahnhof in Delhi, Noida oder Gurgaon. Beginnen Sie Ihre Reise heute mit einem Besuch der Jama Masjid in Alt-Delhi. Danach unternehmen Sie eine Rikscha-Fahrt durch den belebten lokalen Markt von Chandni Chowk, um einen einzigartigen Einblick in das lokale Leben zu erhalten. Bevor es zum Qutub Minar in Neu-Delhi geht, fahren Sie am Roten Fort vorbei. Weiter geht es zum Rajghat. Danach fahren Sie weiter vorbei an der Präsidentenresidenz, dem Parlament, dem India Gate und den Regierungsgebäuden des Sekretariats, mit Fotostopps unterwegs. Fahrt mit dem Auto nach Agra. Übernachtung in Agra.\n\n**Tag 2: Agra - Jaipur**\nUnser Fahrer und Reiseführer holen Sie um 5:45 Uhr von Ihrem Hotel ab. Bewundern Sie das Taj Mahal bei Sonnenaufgang während einer geführten Besichtigung. Rückkehr zum Hotel zum Frühstück. Verlassen Sie Ihr Hotel und besuchen Sie nach dem Frühstück das Agra Fort (ein UNESCO-Weltkulturerbe). Anschließend geht es weiter nach Jaipur. Besuchen Sie unterwegs Fatehpur Sikri, die zweite Hauptstadt Akbars, des dritten Mogulkaisers. Nach Ankunft in Jaipur checken Sie in Ihrem Hotel ein. Übernachtung in Jaipur.\n\n**Tag 3: Besichtigungen in Jaipur**\nHeute genießen Sie eine ganztägige private Besichtigung von Jaipur und dem Amber Fort. Der morgendliche Ausflug beginnt mit einer Fahrt zum Eingang des auf einem Hügel gelegenen Amber Forts. Besuchen Sie später am Tag das Jantar Mantar, ein steinernes Observatorium, das Astronomen und Mathematiker aus aller Welt anzieht. Die City Palace Residenz der Maharadschas ist eine siebenstöckige königliche Residenz. Die atemberaubende Architektur des Hawa Mahal (Palast der Winde) und des Jal Mahal (Wasserpalast) hat sie weltberühmt gemacht (Fotostopp). Übernachtung in Jaipur.\n\n**Tag 4: Jaipur - Jodhpur**\nVerlassen Sie Ihre Unterkunft nach dem Frühstück und fahren Sie nach Jodhpur, bekannt als die „blaue Stadt\". Bei Ankunft in Jodhpur checken Sie im Hotel ein. Sehen Sie den Moti Mahal und den Phool Mahal innerhalb des Mehrangarh-Forts und -Museums. Besuchen Sie anschließend Jaswant Thada, ein beeindruckendes Marmor-Kenotaph. Besichtigen Sie danach den Umaid Bhawan Palast. Ruhen Sie sich in Jodhpur aus.\n\n**Tag 5: Jodhpur - Udaipur**\nVerlassen Sie Ihre Unterkunft nach dem Frühstück und fahren Sie mit dem Auto nach Udaipur. Besuchen Sie unterwegs den Jain-Tempel von Ranakpur. Nach Ankunft in Udaipur checken Sie in Ihrer Unterkunft ein. Besuchen Sie anschließend den Fatehsagar-See. Übernachtung in Udaipur.\n\n**Tag 6: Lokale Besichtigungen in Udaipur**\nIhre begleitete Besichtigung von Udaipur beginnt nach dem Frühstück. Udaipur ist bekannt als „die Stadt der Seen\" und „das Venedig des Ostens\". Sehen Sie den Saheliyon ki Bari (Garten der Gefährtinnen), den Pichola-See, den Jagdish-Tempel und den City Palace. Übernachtung in Udaipur.\n\n**Tag 7: Udaipur, Abgabe in Delhi**\nSie werden heute zum Flughafen von Udaipur gebracht, vorbereitet auf Ihre nächste Reise nach Delhi oder einen anderen Ort Ihrer Wahl. Mit schönen Erinnerungen an Rajasthan endet Ihre Tour.\n\n**Was ist inbegriffen**\nTägliches Frühstück im Hotel\n6 Nächte Unterkunft im Doppelzimmer in einem 3/4-Sterne-Hotel (gewählte Hoteloption)\nAlle Besichtigungen in einem privaten klimatisierten Fahrzeug\nErfahrene Reiseführer für die Städte\nTäglich eine Flasche Wasser\nRikscha-Fahrt in Delhi\nKlimatisierter Transport für die gesamte Tour\nAbholung und Rückfahrt nach Bedarf\n\n**Nicht inbegriffen**\nEintrittsgebühren für Sehenswürdigkeiten\nMittag-/Abendessen\nTrinkgelder\nPersönliche Ausgaben",
+  "highlights": [
+   "Erkunden Sie den City Palace und das Amber Fort von Jaipur (der rosa Stadt)"
+  ],
+  "included": [
+   "Tägliches Frühstück im Hotel",
+   "6 Nächte Unterkunft im Doppelzimmer in einem 3/4-Sterne-Hotel (gewählte Hoteloption)",
+   "Alle Besichtigungen in einem privaten klimatisierten Fahrzeug",
+   "Erfahrene Reiseführer für die Städte",
+   "Täglich eine Flasche Wasser",
+   "Rikscha-Fahrt in Delhi",
+   "Klimatisierter Transport für die gesamte Tour",
+   "Abholung und Rückfahrt nach Bedarf"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Sehenswürdigkeiten",
+   "Mittag-/Abendessen",
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
