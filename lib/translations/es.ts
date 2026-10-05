@@ -4186,6 +4186,75 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "4-days-golden-triangle-luxury-india-tour-from": {
+  "title": "Tour de lujo de 4 días por el triángulo dorado desde Delhi",
+  "metaTitle": "Triángulo dorado de lujo en 4 días desde Delhi",
+  "metaDescription": "Experimente la vibrante y colorida cultura y patrimonio de Delhi, Agra y Jaipur.",
+  "shortDescription": "Experimente la vibrante y colorida cultura y patrimonio de Delhi, Agra y Jaipur.",
+  "fullDescription": "Este tour de lujo de 4 días por el triángulo dorado de la India le permite explorar los grandiosos monumentos y todas las maravillas arquitectónicas en Delhi, Agra, Jaipur, con Fatehpur Sikri y Abhaneri.\n\nEl tour comienza en Delhi y termina en Delhi.\n\n**Itinerario:**\n\n**Día 1: recogida y recorrido por Delhi**\nA su llegada, un representante lo recogerá por la mañana a las 9:00 en el lugar deseado en Delhi para proceder con el recorrido turístico de Delhi en coche con aire acondicionado.\n\nVisite India Gate, la Tumba de Humayun, Qutab Minar, el Templo del Loto, y el Viejo Delhi.\n\nLuego, entrega en el hotel en Delhi. Disfrute de una noche en el hotel en Delhi.\n\n**Día 2: traslado de Delhi a Agra**\nCheck-out del hotel en Delhi y traslado en coche a Agra. El trayecto tomará alrededor de 4 a 5 horas para 250 km. A su llegada a Agra, entrega en el hotel.\n\nLuego visite el fuerte de Agra, el Baby Taj, y Mehtab Bagh.\n\nDisfrute de una noche en el hotel en Agra.\n\n**Día 3: recorrido por Agra y traslado a Jaipur vía Fatehpur Sikri y Abhaneri**\nTemprano en la mañana a las 5:30, visite la vista del amanecer en el Taj Mahal.\n\nEl Taj Mahal: sitio del Patrimonio Mundial de la UNESCO y una de las 7 maravillas del mundo.\n\nLuego visite el fuerte de Agra y el Baby Taj.\n\nLuego traslado a Jaipur con visita en el camino a Fatehpur Sikri y el pozo escalonado de Abhaneri. El trayecto tomará alrededor de 4 a 5 horas para 250 km.\n\nA su llegada a Jaipur, entrega en el hotel. Disfrute de una noche en el hotel en Jaipur.\n\n**Día 4: recorrido por Jaipur y traslado a Delhi, fin del tour en Delhi**\nDespués del desayuno, recogida por su conductor y recorrido por Jaipur.\n\nVisite el fuerte Amber, el Jal Mahal, el Hawa Mahal, el City Palace, y el Jantar Mantar.\n\nTraslado a Delhi: después de explorar Jaipur, viajará a Delhi. El trayecto tomará alrededor de 4 a 5 horas para 250 km.\n\nLlegada a Delhi: a su llegada, entrega en su hotel en Delhi. Este tour histórico permanecerá en su memoria por todos los años venideros.\n\nTenga en cuenta: el Taj Mahal está cerrado todos los viernes.\n\nDelhi (opciones de hotel de 4 estrellas): Park Inn By Radisson New Delhi / Zone Connect Saket / The Manor Hotel / The Lutyens Bunglow / Hotel Regent Grand / Tree of Life Bed & Breakfast o hoteles similares.\n\nDelhi (opciones de hotel de 5 estrellas): Radisson Blu Plaza Delhi Airport / Metropolitan Delhi / Le Meridien Delhi / Holiday Inn New Delhi Airport / The Lalit New Delhi o similar.\n\nAgra (opciones de hotel de 4 estrellas): Howard Plaza The Fern Agra / Hotel Clarks Shiraz / Holiday Inn Agra / Mansingh Palace / Royal Sarovar Portico / The Coral Tree Homestay / The Coral Court Homestay o hoteles similares.\n\nAgra (opciones de hotel de 5 estrellas): Radisson Hotel Agra / Crystal Sarovar Portico Agra / Courtyard By Marriott Agra / Double Tree by Hilton Agra o similar.\n\nJaipur (opciones de hotel de 4 estrellas): Shahpura House / Alsisar Haveli / Welcome Heritage Traditional Haveli / Marigold Inn Hometstay o hoteles similares.\n\nJaipur (opciones de hotel de 5 estrellas): Radisson Hotel Jaipur / ITC Rajputana / Jaipur Marriott Hotel / Diggi Palace Jaipur / Hilton Jaipur / Holiday Inn Jaipur o similar.",
+  "highlights": [
+   "Experimente la vibrante y colorida cultura y patrimonio de Delhi, Agra y Jaipur"
+  ],
+  "included": [
+   "Recogida y entrega en hotel/estación de tren/estación de autobús en vehículo con aire acondicionado",
+   "Vehículo con aire acondicionado y transporte privado",
+   "Combustible (gasolina/diésel), cargos de estacionamiento, peajes, y viajes interestatales",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a los monumentos / tarifas de cámara",
+   "Hotel / alojamiento",
+   "Comidas y gastos personales",
+   "Otras actividades",
+   "Propinas para el conductor"
+  ]
+ },
+ "full-day-agra-trip-from-jaipur-by-car-with": {
+  "title": "Excursión de un día completo a Agra desde Jaipur en coche con guía",
+  "metaTitle": "Jaipur-Agra: excursión de un día con guía",
+  "metaDescription": "Recorrido turístico de un día completo en Agra con su guía certificado.",
+  "shortDescription": "Recorrido turístico de un día completo en Agra con su guía certificado.",
+  "fullDescription": "**5:30: Jaipur – Agra (245 km, 4 a 5 horas, según su horario preferido)**\nNuestro conductor lo recogerá en el lugar preferido o el hotel en Jaipur en un coche con aire acondicionado para dirigirse hacia Agra.\n\n**6:30: visita de Jaipur a Abhaneri (220 km, 4 a 5 horas)**\nVisita a Abhaneri en el camino.\n\n**9:30: visita a Fatehpur Sikri en el camino hacia Agra desde Jaipur**\nSu fabuloso tour de un día en Agra comienza con el sitio del Patrimonio Mundial de la UNESCO, Fatehpur Sikri, construido por el emperador Akbar en el siglo XVI, (la ciudad de la Victoria) fue la capital del Imperio mogol durante unos 10 años. Luego fue abandonada por razones que siguen siendo un misterio sin resolver. Incluye una de las mezquitas más grandes de la India, la Jama Masjid. Está llena de palacios y patios bien conservados, y es uno de los lugares más históricos de Agra, que no debe perderse.\n\n**10:30: salida hacia Agra (37 km, 1 hora)**\nAlrededor de las 11:30, visitará el Taj Mahal, uno de los monumentos más magníficos construidos por el emperador mogol Shah Jahan (1632-1654 d. C.) y el lugar más popular del paquete de tour Jaipur-Agra. Este sitio del Patrimonio Mundial de la UNESCO fue construido en memoria de la amada esposa de Shah Jahan, Mumtaj Mahal.\n\n**14:30: visita al fuerte de Agra**\nDespués de un delicioso almuerzo, conducirá hacia el fuerte de Agra. Este tercer sitio del Patrimonio Mundial de la UNESCO fue construido con arenisca roja. Este maravilloso monumento incluye varios edificios como el Moti Mahal y el Musamman Burj, donde se cree que Shah Jahan estuvo encarcelado y murió.\n\n**16:30: regreso en coche a Jaipur**\nDespués de explorar Agra, será trasladado de regreso al coche con aire acondicionado y partirá hacia Jaipur.\n\n**22:30: llegada a Jaipur**\nA su llegada a Jaipur, será dejado en el lugar preferido o el hotel. Atesore los recuerdos de esta excursión de un día Jaipur-Agra para todos los años venideros.",
+  "highlights": [
+   "Recorrido turístico de un día completo en Agra con su guía certificado"
+  ],
+  "included": [
+   "Servicio de recogida y traslado desde el hotel, el aeropuerto, o la estación de tren",
+   "Un vehículo privado con aire acondicionado y chófer para los recorridos",
+   "Combustible, cargos de estacionamiento, peajes, e impuestos interestatales",
+   "Agua embotellada para los huéspedes",
+   "Todos los impuestos gubernamentales, incluido el impuesto sobre bienes y servicios (GST)"
+  ],
+  "notIncluded": [
+   "Propinas para el conductor y el guía, no incluidas en el paquete, pero recomendadas",
+   "Gastos de comidas, no cubiertos por el paquete",
+   "Gastos personales, como compras o actividades adicionales no incluidas en el itinerario",
+   "Tarifas de entrada en cualquier lugar, no incluidas en el paquete y que pueden requerir pago por separado"
+  ]
+ },
+ "agra-old-city-street-food-tour-in-car-tuk": {
+  "title": "Agra: recorrido por la ciudad vieja y comida de calle en coche, tuk-tuk o bicicleta",
+  "metaTitle": "Agra: ciudad vieja y comida de calle",
+  "metaDescription": "Sumérjase en el patrimonio y los sabores de Agra en coche, tuk-tuk, y bicicleta.",
+  "shortDescription": "Sumérjase en el patrimonio y los sabores de Agra en coche, tuk-tuk, y bicicleta.",
+  "fullDescription": "Emprenda un viaje cautivador a través del rico tapiz de la ciudad vieja de Agra, bajo la guía de nuestro experimentado experto local. Su tour comienza con una recogida conveniente desde su ubicación en Agra a la hora que prefiera. La elección es suya: disfrute de las vistas de la ciudad desde la comodidad del coche, empápese del ambiente local en un tuk-tuk tradicional, o experimente la brisa en un emocionante paseo en bicicleta.\n\nEn su primera parada, el punto de fotos \"I Love Agra\", donde fondos creativos celebran su conexión con esta ciudad histórica. Disfrute de una deliciosa variedad de bocadillos locales que personifican la cultura culinaria de Agra, y capture recuerdos vívidos en el punto de fotos \"I Love Agra\".\n\nDespués, dirígase a Shaheed Nagar, un paraíso para los amantes de la carne. Disfrute de deliciosos sabores que celebran el diverso patrimonio culinario de Agra. Continúe hacia Sadar Bazaar, un bullicioso paraíso de comida de calle donde su guía revelará tesoros escondidos y dulces locales que satisfarán su gusto por lo dulce.\n\nRefresque sus sentidos con una taza de autentico chai masala indio, rico en tradición y sabor, en Bijli Ghar. Continúe su viaje hacia la majestuosa Jama Masjid, donde entrará y disfrutará de la paz y grandeza de este lugar histórico de culto.\n\nAl acercarse al imponente fuerte de Agra, quedará asombrado por su magnífico exterior antes de dirigirse hacia el impresionante Taj Mahal. Sin entrar a estos sitios icónicos, se le brindará una vista que permanecerá como un recuerdo de toda la vida.\n\nSu tour termina con el transporte de su elección, ya sea un trayecto cómodo con nuestro guía hasta su hotel o una exploración relajada de las calles de la ciudad. Este tour cuidadosamente elaborado combina el patrimonio de Agra con sus sabores únicos, asegurando que regrese con una experiencia inolvidable y un sabor de su alma.",
+  "highlights": [
+   "Sumérjase en el patrimonio y los sabores de Agra en coche, tuk-tuk, y bicicleta"
+  ],
+  "included": [
+   "Recogida y traslado",
+   "Coche con aire acondicionado (si se selecciona esa opción)",
+   "Tuk-tuk privado (si se selecciona esa opción)",
+   "Motocicleta personal (si se selecciona esa opción)",
+   "Comida de calle (si se selecciona esa opción)",
+   "Guía turístico",
+   "Botella de agua mineral"
+  ],
+  "notIncluded": [
+   "Bebidas",
+   "Propinas y gratificaciones"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
