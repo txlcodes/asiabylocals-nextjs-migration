@@ -23546,6 +23546,86 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier propina para el guía"
   ]
  },
+ "3-day-jim-corbett-national-park-tour": {
+  "title": "Tour de 3 días al Parque Nacional Jim Corbett",
+  "metaTitle": "Jim Corbett: Parque Nacional, 3 días",
+  "metaDescription": "Ofrecemos atención al cliente las 24 horas, los 7 días de la semana.",
+  "shortDescription": "Ofrecemos atención al cliente las 24 horas, los 7 días de la semana.",
+  "fullDescription": "Tour de 3 días al Parque Nacional Jim Corbett. Ofrecemos atención al cliente las 24 horas, los 7 días de la semana.\n\n**Día 1: Delhi a Jim Corbett, safari nocturno en la jungla**\nComience su aventura temprano por la mañana, saliendo de Delhi hacia el Parque Nacional Jim Corbett, un viaje sereno y pintoresco de aproximadamente 6 horas.\nA su llegada, regístrese en su resort de vida silvestre, y relájese en medio del entorno natural. Refrésquese después del viaje, y absorba el ambiente tranquilo.\n\nA última hora de la tarde, prepárese para su primer safari en la jungla en el vasto Parque Nacional Jim Corbett. Acompañado por un naturalista profesional, explore densos bosques, praderas, y lechos de ríos, buscando vida silvestre majestuosa como tigres, elefantes, ciervos, y una variedad de especies de aves.\nRegreso al resort por la noche, y disfrute del resto de la noche a su gusto.\nNoche en el resort.\n\n**Día 2: safari matutino en la jungla, cascada, y visita al templo**\nComience su día temprano con un sustancioso desayuno, antes de embarcarse en un safari matutino en la jungla. Este safari ofrece una gran oportunidad para avistar vida silvestre, mientras el bosque despierta con los sonidos y movimientos de sus habitantes. Con suerte, puede presenciar un tigre merodeando en la naturaleza, o manadas de elefantes en su hábitat natural.\nDespués del safari, regreso al resort para un breve descanso.\nMás tarde, salga a explorar las cercanas Cataratas de Corbett, una hermosa cascada rodeada de exuberante vegetación, perfecta para fotografía y una experiencia serena.\nContinúe su exploración con una visita al templo Garjiya Devi, encaramado en una roca en el río Kosi. Este icónico templo es un sitio espiritual importante, que ofrece vistas impresionantes de los alrededores.\nPase la tarde a su gusto, disfrutando del ambiente pacífico de su resort.\nNoche en el resort.\n\n**Día 3: regreso a Delhi**\nDisfrute de un desayuno relajado en el resort antes del check-out.\nComience su viaje de regreso a Delhi, llevando consigo recuerdos de emocionantes safaris y paisajes serenos.\nEl tour concluye a su llegada a Delhi.\n\nNota: pautas importantes de safari (aplicables a todos los proveedores)\nLas autoridades forestales designan un guía de habla inglesa.\nLos avistamientos de tigres dependen de movimientos naturales, y no pueden garantizarse. Para aumentar sus posibilidades, reservamos la mejor zona disponible.\nEl safari será en un jeep privado o canter.\nLos huéspedes deben llegar al punto de embarque 20 minutos antes de la salida.\nLos parques nacionales tienen el derecho de cancelar el safari debido a mal clima o cualquier desastre natural.\n\n**Qué incluye**\nAlojamiento por 2 noches en un cómodo resort cerca del Parque Nacional Jim Corbett (solo con la opción de tour)\nComidas: desayuno diario en el hotel (solo con la opción de tour)\n2 safaris en la jungla en jeep abierto con un guía indio profesional capacitado\nEl cargo del safari doble estará incluido (solo con la opción de tour)\nTodos los impuestos aplicables y tarifas del parque\nTransporte de ida y vuelta de Delhi al Parque Nacional Jim Corbett\nRecogida y regreso al hotel/aeropuerto\nTransporte en vehículo privado con aire acondicionado\nTodos los impuestos, tarifas, y cargos de gestión\nAgua embotellada\n\n**No incluye**\nCualquier gasto personal, o cualquier comida que no sea el desayuno solo con alojamiento\nPropinas y gratificaciones para conductores, guías, y personal del resort\nCualquier actividad o excursión adicional no especificada en el itinerario",
+  "highlights": [
+   "Ofrecemos atención al cliente las 24 horas, los 7 días de la semana"
+  ],
+  "included": [
+   "Alojamiento por 2 noches en un cómodo resort cerca del Parque Nacional Jim Corbett (solo con la opción de tour)",
+   "Comidas: desayuno diario en el hotel (solo con la opción de tour)",
+   "2 safaris en la jungla en jeep abierto con un guía indio profesional capacitado",
+   "El cargo del safari doble estará incluido (solo con la opción de tour)",
+   "Todos los impuestos aplicables y tarifas del parque",
+   "Transporte de ida y vuelta de Delhi al Parque Nacional Jim Corbett",
+   "Recogida y regreso al hotel/aeropuerto",
+   "Transporte en vehículo privado con aire acondicionado",
+   "Todos los impuestos, tarifas, y cargos de gestión",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal, o cualquier comida que no sea el desayuno solo con alojamiento",
+   "Propinas y gratificaciones para conductores, guías, y personal del resort",
+   "Cualquier actividad o excursión adicional no especificada en el itinerario"
+  ]
+ },
+ "from-delhi-luxury-9-day-golden-triangle-tour-of": {
+  "title": "Desde Delhi: tour de lujo del Triángulo Dorado de la India, 9 días",
+  "metaTitle": "Delhi: Triángulo Dorado de lujo, 9 días",
+  "metaDescription": "Explore Delhi, Jaipur, Agra, Ranthambore, y Varanasi en un tour privado.",
+  "shortDescription": "Explore Delhi, Jaipur, Agra, Ranthambore, y Varanasi en un tour privado.",
+  "fullDescription": "Desde Delhi: tour de lujo del Triángulo Dorado de la India, 9 días. Explore Delhi, Jaipur, Agra, Ranthambore, y Varanasi en un tour privado.\n\nExplore la cultura, patrimonio, y vida silvestre de la India en este tour privado de lujo de 9 días desde Delhi, que cubre Delhi, Jaipur, Ranthambore, Agra, y Varanasi con el Taj Mahal y la Ganga Aarti.\n\n**Qué incluye**\nVehículo privado con aire acondicionado con chófer profesional\nRecogida y regreso desde el aeropuerto de Delhi, hotel, o lugar preferido\nAlojamiento de 8 noches (si se selecciona esta opción)\nDesayuno diario en hoteles (si se selecciona esta opción)\nGuías turísticos locales privados profesionales en cada ciudad\nPaseo en rickshaw en la Vieja Delhi\nExperiencia de entradas al safari de vida silvestre matutino en Ranthambore\nBoleto de tren de Agra a Varanasi\nBoleto de avión de Varanasi a Delhi (si se selecciona esta opción)\nPaseo en bote al amanecer en Varanasi\nExperiencia de la Ganga Aarti vespertina con entradas de asiento en Varanasi\nTodos los peajes, estacionamiento, combustible, y asignaciones del conductor\n\n**No incluye**\nEntradas a monumentos\nPropinas y gastos personales (opcionales)\nAlmuerzo y cena\nTarifas de cámara en monumentos (si corresponde)\nActividades opcionales no mencionadas en el itinerario\nCualquier cosa no mencionada en las inclusiones",
+  "highlights": [
+   "Explore Delhi, Jaipur, Agra, Ranthambore, y Varanasi en un tour privado"
+  ],
+  "included": [
+   "Vehículo privado con aire acondicionado con chófer profesional",
+   "Recogida y regreso desde el aeropuerto de Delhi, hotel, o lugar preferido",
+   "Alojamiento de 8 noches (si se selecciona esta opción)",
+   "Desayuno diario en hoteles (si se selecciona esta opción)",
+   "Guías turísticos locales privados profesionales en cada ciudad",
+   "Paseo en rickshaw en la Vieja Delhi",
+   "Experiencia de entradas al safari de vida silvestre matutino en Ranthambore",
+   "Boleto de tren de Agra a Varanasi",
+   "Boleto de avión de Varanasi a Delhi (si se selecciona esta opción)",
+   "Paseo en bote al amanecer en Varanasi",
+   "Experiencia de la Ganga Aarti vespertina con entradas de asiento en Varanasi",
+   "Todos los peajes, estacionamiento, combustible, y asignaciones del conductor"
+  ],
+  "notIncluded": [
+   "Entradas a monumentos",
+   "Propinas y gastos personales (opcionales)",
+   "Almuerzo y cena",
+   "Tarifas de cámara en monumentos (si corresponde)",
+   "Actividades opcionales no mencionadas en el itinerario",
+   "Cualquier cosa no mencionada en las inclusiones"
+  ]
+ },
+ "delhi-old-delhi-red-fort-raj-ghat-guided-day": {
+  "title": "Delhi: tour guiado de un día por la Vieja Delhi, el Fuerte Rojo, y Raj Ghat",
+  "metaTitle": "Delhi: Vieja Delhi, Fuerte Rojo, Raj Ghat",
+  "metaDescription": "Camine por los grandes salones del pasado real del Fuerte Rojo.",
+  "shortDescription": "Camine por los grandes salones del pasado real del Fuerte Rojo.",
+  "fullDescription": "Delhi: tour guiado de un día por la Vieja Delhi, el Fuerte Rojo, y Raj Ghat. Camine por los grandes salones del pasado real del Fuerte Rojo.\n\nSu día comienza con una cómoda recogida en su hotel a la hora que elija. Con su guía a su lado, se dirigirá directamente al corazón de la Vieja Delhi para explorar su historia viva.\n\nPrimero, entre en el poderoso Fuerte Rojo, que fue residencia de los emperadores mogoles durante casi dos siglos. Sus muros de arenisca roja y grandes salones aún resuenan con historias del pasado real de la India. Desde allí, continúe hacia la Jama Masjid, una de las mezquitas más grandes de la India, donde los vastos patios y los elevados minaretes crean una atmósfera impresionante.\n\nPaseando por los estrechos callejones de la Vieja Delhi, descubrirá casas patrimoniales, bulliciosos bazares, y escenas cotidianas de la vida local. Su guía compartirá fascinantes relatos de la cultura y tradiciones de la ciudad mientras camina.\n\nHaga una pausa en el Gurudwara Sis Ganj Sahib, un histórico templo sij, donde podrá presenciar el espíritu del servicio comunitario en la bulliciosa cocina. Luego suba a un ciclo-rickshaw para un animado paseo hacia Khari Baoli, el mercado de especias más grande de Asia. Aquí, el aire está lleno del aroma de innumerables especias, y su guía explicará su papel en la cocina india y el Ayurveda.\n\nAntes de regresar, visitará Raj Ghat, el sereno monumento dedicado a Mahatma Gandhi. Situado entre pacíficos jardines, es un lugar de reflexión y recuerdo, que ofrece un tranquilo contraste con las vibrantes calles que acaba de explorar.\n\nFinalmente, su conductor lo dejará de regreso en su hotel, concluyendo su viaje a través de la historia, espiritualidad, y vida cotidiana de la Vieja Delhi.\n\n**Qué incluye**\nServicios de guía turístico disponibles en inglés, español, alemán, italiano, y francés\nRecogida y regreso al hotel y aeropuerto incluidos\nVisitas según el itinerario\nTarifas de entrada a la Jama Masjid y al Fuerte Rojo incluidas cuando se elige esta opción\nPaseos en rickshaw en la Vieja Delhi incluidos cuando se elige esta opción\n\n**No incluye**\nPropinas (recomendadas)\nCualquier comida",
+  "highlights": [
+   "Camine por los grandes salones del pasado real del Fuerte Rojo"
+  ],
+  "included": [
+   "Servicios de guía turístico disponibles en inglés, español, alemán, italiano, y francés",
+   "Recogida y regreso al hotel y aeropuerto incluidos",
+   "Visitas según el itinerario",
+   "Tarifas de entrada a la Jama Masjid y al Fuerte Rojo incluidas cuando se elige esta opción",
+   "Paseos en rickshaw en la Vieja Delhi incluidos cuando se elige esta opción"
+  ],
+  "notIncluded": [
+   "Propinas (recomendadas)",
+   "Cualquier comida"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",

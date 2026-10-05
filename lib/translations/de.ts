@@ -23546,6 +23546,86 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliches Trinkgeld für den Guide"
   ]
  },
+ "3-day-jim-corbett-national-park-tour": {
+  "title": "3-tägige Tour zum Jim-Corbett-Nationalpark",
+  "metaTitle": "Jim Corbett: Nationalpark, 3 Tage",
+  "metaDescription": "Wir bieten rund um die Uhr Kundensupport, 24 Stunden am Tag, 7 Tage die Woche.",
+  "shortDescription": "Wir bieten rund um die Uhr Kundensupport, 24 Stunden am Tag, 7 Tage die Woche.",
+  "fullDescription": "3-tägige Tour zum Jim-Corbett-Nationalpark. Wir bieten rund um die Uhr Kundensupport, 24 Stunden am Tag, 7 Tage die Woche.\n\n**Tag 1: Delhi nach Jim Corbett, abendliche Dschungel-Safari**\nBeginnen Sie Ihr Abenteuer früh am Morgen, mit der Abreise von Delhi zum Jim-Corbett-Nationalpark, einer ruhigen und malerischen Reise von etwa 6 Stunden.\nBei der Ankunft Check-in in Ihrem Wildtier-Resort, und Entspannung inmitten der natürlichen Umgebung. Erfrischen Sie sich nach der Reise, und genießen Sie die ruhige Atmosphäre.\n\nAm späten Nachmittag machen Sie sich bereit für Ihre erste Dschungel-Safari im weitläufigen Jim-Corbett-Nationalpark. Begleitet von einem professionellen Naturforscher, erkunden Sie dichte Wälder, Graslandschaften, und Flussbette, auf der Suche nach majestätischer Tierwelt wie Tigern, Elefanten, Hirschen, und einer Vielzahl von Vogelarten.\nRückkehr zum Resort am Abend, und genießen Sie den Rest der Nacht nach Belieben.\nÜbernachtung im Resort.\n\n**Tag 2: morgendliche Dschungel-Safari, Wasserfall, und Tempelbesuch**\nBeginnen Sie Ihren Tag früh mit einem herzhaften Frühstück, bevor Sie sich auf eine morgendliche Dschungel-Safari begeben. Diese Safari bietet eine großartige Gelegenheit, Tierwelt zu entdecken, während der Wald mit den Geräuschen und Bewegungen seiner Bewohner erwacht. Mit etwas Glück können Sie einen Tiger beobachten, der durch die Wildnis streift, oder Elefantenherden in ihrem natürlichen Lebensraum.\nNach der Safari Rückkehr zum Resort für eine kurze Ruhepause.\nSpäter brechen Sie auf, um die nahegelegenen Corbett-Wasserfälle zu erkunden, einen wunderschönen Wasserfall, umgeben von üppigem Grün, perfekt für Fotografie und ein ruhiges Erlebnis.\nSetzen Sie Ihre Erkundung mit einem Besuch des Garjiya-Devi-Tempels fort, der auf einem Felsen im Fluss Kosi thront. Dieser ikonische Tempel ist eine bedeutende spirituelle Stätte, die atemberaubende Ausblicke auf die Umgebung bietet.\nVerbringen Sie den Abend nach Belieben, und genießen Sie die friedliche Umgebung Ihres Resorts.\nÜbernachtung im Resort.\n\n**Tag 3: Rückkehr nach Delhi**\nGenießen Sie ein entspanntes Frühstück im Resort vor dem Check-out.\nBeginnen Sie Ihre Rückreise nach Delhi, mit Erinnerungen an aufregende Safaris und ruhige Landschaften.\nDie Tour endet bei der Ankunft in Delhi.\n\nHinweis: Wichtige Safari-Richtlinien (gültig für alle Anbieter)\nDie Forstbehörden stellen einen englischsprachigen Guide.\nTigersichtungen hängen von natürlichen Bewegungen ab, und können nicht garantiert werden. Um Ihre Chancen zu erhöhen, buchen wir die beste verfügbare Zone.\nDie Safari erfolgt in einem privaten Jeep oder Canter.\nGäste müssen den Einstiegspunkt 20 Minuten vor der Abfahrt erreichen.\nNationalparks haben das Recht, die Safari aufgrund von schlechtem Wetter oder einer Naturkatastrophe abzusagen.\n\n**Was ist enthalten**\nUnterkunft für 2 Nächte in einem komfortablen Resort in der Nähe des Jim-Corbett-Nationalparks (nur mit Tour-Option)\nMahlzeiten: tägliches Frühstück im Hotel (nur mit Tour-Option)\n2 Dschungel-Safaris in einem offenen Jeep mit einem geschulten professionellen indischen Guide\nDie Gebühr für die Zwillingssafari wird einbezogen (nur mit Tour-Option)\nAlle anfallenden Steuern und Parkgebühren\nHin- und Rückfahrt von Delhi zum Jim-Corbett-Nationalpark\nAbholung und Rückfahrt zum Hotel/Flughafen\nTransport in privatem klimatisiertem Fahrzeug\nAlle Steuern, Gebühren, und Bearbeitungskosten\nWasser in Flaschen\n\n**Nicht enthalten**\nJegliche persönliche Ausgaben, oder jegliche Mahlzeit außer dem Frühstück nur bei Unterkunft\nTrinkgelder und Gratifikationen für Fahrer, Guides, und Resort-Personal\nJegliche zusätzliche Aktivität oder Ausflug, die nicht im Reiseplan angegeben ist",
+  "highlights": [
+   "Wir bieten rund um die Uhr Kundensupport, 24 Stunden am Tag, 7 Tage die Woche"
+  ],
+  "included": [
+   "Unterkunft für 2 Nächte in einem komfortablen Resort in der Nähe des Jim-Corbett-Nationalparks (nur mit Tour-Option)",
+   "Mahlzeiten: tägliches Frühstück im Hotel (nur mit Tour-Option)",
+   "2 Dschungel-Safaris in einem offenen Jeep mit einem geschulten professionellen indischen Guide",
+   "Die Gebühr für die Zwillingssafari wird einbezogen (nur mit Tour-Option)",
+   "Alle anfallenden Steuern und Parkgebühren",
+   "Hin- und Rückfahrt von Delhi zum Jim-Corbett-Nationalpark",
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "Transport in privatem klimatisiertem Fahrzeug",
+   "Alle Steuern, Gebühren, und Bearbeitungskosten",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben, oder jegliche Mahlzeit außer dem Frühstück nur bei Unterkunft",
+   "Trinkgelder und Gratifikationen für Fahrer, Guides, und Resort-Personal",
+   "Jegliche zusätzliche Aktivität oder Ausflug, die nicht im Reiseplan angegeben ist"
+  ]
+ },
+ "from-delhi-luxury-9-day-golden-triangle-tour-of": {
+  "title": "Ab Delhi: luxuriöse 9-tägige Golden-Triangle-Tour durch Indien",
+  "metaTitle": "Delhi: luxuriöses Golden Triangle, 9 Tage",
+  "metaDescription": "Erkunden Sie Delhi, Jaipur, Agra, Ranthambore, und Varanasi auf einer privaten Tour.",
+  "shortDescription": "Erkunden Sie Delhi, Jaipur, Agra, Ranthambore, und Varanasi auf einer privaten Tour.",
+  "fullDescription": "Ab Delhi: luxuriöse 9-tägige Golden-Triangle-Tour durch Indien. Erkunden Sie Delhi, Jaipur, Agra, Ranthambore, und Varanasi auf einer privaten Tour.\n\nErkunden Sie Indiens Kultur, Erbe, und Tierwelt auf dieser luxuriösen 9-tägigen privaten Tour ab Delhi, die Delhi, Jaipur, Ranthambore, Agra, und Varanasi mit dem Taj Mahal und der Ganga Aarti abdeckt.\n\n**Was ist enthalten**\nPrivates klimatisiertes Fahrzeug mit professionellem Chauffeur\nAbholung und Rückfahrt vom Flughafen Delhi, Hotel, oder bevorzugtem Ort\n8 Nächte Unterkunft (falls Option gewählt wird)\nTägliches Frühstück in Hotels (falls Option gewählt wird)\nProfessionelle private örtliche Reiseführer in jeder Stadt\nRikscha-Fahrt in Alt-Delhi\nMorgendliches Tierwelt-Safari-Ticket-Erlebnis in Ranthambore\nZugticket von Agra nach Varanasi\nFlugticket von Varanasi nach Delhi (falls Option gewählt wird)\nBootsfahrt bei Sonnenaufgang in Varanasi\nAbendliches Ganga-Aarti-Erlebnis mit Sitzplatztickets in Varanasi\nAlle Mautgebühren, Parken, Treibstoff, und Fahrerzulagen\n\n**Nicht enthalten**\nEintrittskarten für Denkmäler\nTrinkgelder und persönliche Ausgaben (optional)\nMittag- und Abendessen\nKameragebühren an Denkmälern (falls zutreffend)\nOptionale Aktivitäten, die nicht im Reiseplan erwähnt werden\nAlles, was nicht unter den Einschlüssen erwähnt wird",
+  "highlights": [
+   "Erkunden Sie Delhi, Jaipur, Agra, Ranthambore, und Varanasi auf einer privaten Tour"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug mit professionellem Chauffeur",
+   "Abholung und Rückfahrt vom Flughafen Delhi, Hotel, oder bevorzugtem Ort",
+   "8 Nächte Unterkunft (falls Option gewählt wird)",
+   "Tägliches Frühstück in Hotels (falls Option gewählt wird)",
+   "Professionelle private örtliche Reiseführer in jeder Stadt",
+   "Rikscha-Fahrt in Alt-Delhi",
+   "Morgendliches Tierwelt-Safari-Ticket-Erlebnis in Ranthambore",
+   "Zugticket von Agra nach Varanasi",
+   "Flugticket von Varanasi nach Delhi (falls Option gewählt wird)",
+   "Bootsfahrt bei Sonnenaufgang in Varanasi",
+   "Abendliches Ganga-Aarti-Erlebnis mit Sitzplatztickets in Varanasi",
+   "Alle Mautgebühren, Parken, Treibstoff, und Fahrerzulagen"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für Denkmäler",
+   "Trinkgelder und persönliche Ausgaben (optional)",
+   "Mittag- und Abendessen",
+   "Kameragebühren an Denkmälern (falls zutreffend)",
+   "Optionale Aktivitäten, die nicht im Reiseplan erwähnt werden",
+   "Alles, was nicht unter den Einschlüssen erwähnt wird"
+  ]
+ },
+ "delhi-old-delhi-red-fort-raj-ghat-guided-day": {
+  "title": "Delhi: geführte Tagestour durch Alt-Delhi, das Red Fort, und Raj Ghat",
+  "metaTitle": "Delhi: Alt-Delhi, Red Fort, Raj Ghat",
+  "metaDescription": "Durchwandern Sie die großen Säle der königlichen Vergangenheit des Red Fort.",
+  "shortDescription": "Durchwandern Sie die großen Säle der königlichen Vergangenheit des Red Fort.",
+  "fullDescription": "Delhi: geführte Tagestour durch Alt-Delhi, das Red Fort, und Raj Ghat. Durchwandern Sie die großen Säle der königlichen Vergangenheit des Red Fort.\n\nIhr Tag beginnt mit einer bequemen Abholung von Ihrem Hotel zur von Ihnen gewählten Zeit. Mit Ihrem Guide an Ihrer Seite begeben Sie sich direkt ins Herz von Alt-Delhi, um dessen lebendige Geschichte zu erkunden.\n\nZunächst betreten Sie das mächtige Red Fort, einst fast zwei Jahrhunderte lang die Residenz der Mogulkaiser. Seine Mauern aus rotem Sandstein und großartigen Säle hallen noch immer von Geschichten aus Indiens königlicher Vergangenheit wider. Von dort geht es weiter zur Jama Masjid, einer der größten Moscheen Indiens, wo die weitläufigen Innenhöfe und hoch aufragenden Minarette eine atemberaubende Atmosphäre schaffen.\n\nBeim Durchstreifen der engen Gassen von Alt-Delhi entdecken Sie historische Häuser, belebte Basare, und alltägliche Szenen des örtlichen Lebens. Ihr Guide teilt faszinierende Geschichten über die Kultur und Traditionen der Stadt, während Sie gehen.\n\nHalten Sie am Gurudwara Sis Ganj Sahib, einem historischen Sikh-Tempel, wo Sie den Geist des Gemeinschaftsdienstes in der belebten Küche beobachten können. Steigen Sie dann in eine Fahrradrikscha für eine lebendige Fahrt zu Khari Baoli, Asiens größtem Gewürzmarkt. Hier ist die Luft erfüllt vom Aroma unzähliger Gewürze, und Ihr Guide erklärt deren Rolle in der indischen Küche und im Ayurveda.\n\nVor der Rückkehr besuchen Sie Raj Ghat, das ruhige Denkmal, das Mahatma Gandhi gewidmet ist. Eingebettet in friedliche Gärten, ist es ein Ort der Reflexion und des Gedenkens, der einen ruhigen Kontrast zu den lebhaften Straßen bietet, die Sie gerade erkundet haben.\n\nSchließlich setzt Sie Ihr Fahrer an Ihrem Hotel ab, und beendet Ihre Reise durch Alt-Delhis Geschichte, Spiritualität, und Alltagsleben.\n\n**Was ist enthalten**\nReiseführer-Service verfügbar auf Englisch, Spanisch, Deutsch, Italienisch, und Französisch\nAbholung und Rückfahrt zum Hotel und Flughafen inklusive\nBesichtigung gemäß Reiseplan\nEintrittsgebühren für die Jama Masjid und das Red Fort inklusive, wenn die Option gewählt wird\nRikscha-Fahrten in Alt-Delhi inklusive, wenn die Option gewählt wird\n\n**Nicht enthalten**\nTrinkgelder (empfohlen)\nJegliche Mahlzeiten",
+  "highlights": [
+   "Durchwandern Sie die großen Säle der königlichen Vergangenheit des Red Fort"
+  ],
+  "included": [
+   "Reiseführer-Service verfügbar auf Englisch, Spanisch, Deutsch, Italienisch, und Französisch",
+   "Abholung und Rückfahrt zum Hotel und Flughafen inklusive",
+   "Besichtigung gemäß Reiseplan",
+   "Eintrittsgebühren für die Jama Masjid und das Red Fort inklusive, wenn die Option gewählt wird",
+   "Rikscha-Fahrten in Alt-Delhi inklusive, wenn die Option gewählt wird"
+  ],
+  "notIncluded": [
+   "Trinkgelder (empfohlen)",
+   "Jegliche Mahlzeiten"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
