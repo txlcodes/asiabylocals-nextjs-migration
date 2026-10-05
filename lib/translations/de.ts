@@ -21793,6 +21793,75 @@ export const DE_TOURS: Record<string, TourT> = {
    "Transport zum Ort"
   ]
  },
+ "delhi-old-delhi-private-shopping-tour-with-local": {
+  "title": "Delhi: private Shopping-Tour durch Alt-Delhi mit örtlichem Guide",
+  "metaTitle": "Delhi: privates Shopping in Alt-Delhi",
+  "metaDescription": "Erkunden Sie die lebhaften Märkte von Alt-Delhi mit einem örtlichen Guide.",
+  "shortDescription": "Erkunden Sie die lebhaften Märkte von Alt-Delhi mit einem örtlichen Guide.",
+  "fullDescription": "Delhi: private Shopping-Tour durch Alt-Delhi mit örtlichem Guide. Erkunden Sie die lebhaften Märkte von Alt-Delhi mit einem örtlichen Guide.\n\nErkunden Sie die farbenfrohen Einkaufsgassen von Alt-Delhi mit einem örtlichen Guide. Besuchen Sie die berühmten Basare Chandni Chowk, Kinari Bazaar, Dariba Kalan, und Khari Baoli, mit Zeit zum Einkaufen von indischer Kleidung, Schmuck, Hochzeitszubehör, Gewürzen, Trockenfrüchten, Souvenirs, Stoffen, und traditionellen Produkten.\n\nIhr örtlicher Guide hilft Ihnen, sich durch die belebten Gassen zurechtzufinden, die Spezialität jedes Marktes zu verstehen, und authentische örtliche Einkaufsorte zu entdecken. Genießen Sie die Bequemlichkeit örtlicher Transfers und Fahrradrikscha-Fahrten innerhalb von Alt-Delhi, und erhalten Sie Unterstützung beim Einkaufen und Verhandeln.\n\n**Was ist enthalten**\nPrivater örtlicher Shopping-Guide\nÖrtlicher Transfer / Fahrradrikscha-Transfer innerhalb von Alt-Delhi\nAbholung und Rückfahrt zum Hotel\nUnterstützung beim Einkaufen und Verhandeln\nBesuch traditioneller Märkte in Alt-Delhi\nTrinkwasser in Flaschen",
+  "highlights": [
+   "Erkunden Sie die lebhaften Märkte von Alt-Delhi mit einem örtlichen Guide"
+  ],
+  "included": [
+   "Privater örtlicher Shopping-Guide",
+   "Örtlicher Transfer / Fahrradrikscha-Transfer innerhalb von Alt-Delhi",
+   "Abholung und Rückfahrt zum Hotel",
+   "Unterstützung beim Einkaufen und Verhandeln",
+   "Besuch traditioneller Märkte in Alt-Delhi",
+   "Trinkwasser in Flaschen"
+  ],
+  "notIncluded": []
+ },
+ "from-delhi-hisar-rakhigarhi-private-day-trip-with": {
+  "title": "Ab Delhi: private Tagestour nach Hisar und Rakhigarhi mit Guide",
+  "metaTitle": "Delhi: private Tagestour nach Hisar und Rakhigarhi",
+  "metaDescription": "Entdecken Sie die antike archäologische Stätte von Agroha auf einer geführten Tagestour.",
+  "shortDescription": "Entdecken Sie die antike archäologische Stätte von Agroha auf einer geführten Tagestour.",
+  "fullDescription": "Ab Delhi: private Tagestour nach Hisar und Rakhigarhi mit Guide. Entdecken Sie die antike archäologische Stätte von Agroha auf einer geführten Tagestour.\n\nBeginnen Sie mit einer frühmorgendlichen Abholung von Ihrem Hotel in Delhi. Reisen Sie etwa 180 km nach Hisar, was je nach Verkehr etwa 4 bis 5 Stunden dauert. Die Route durchquert die fruchtbaren Ebenen Haryanas, mit Ausblicken auf landwirtschaftliche Felder, Dörfer, und kleine Städte. Bei Bedarf kann unterwegs ein kurzer Erfrischungsstopp eingelegt werden.\n\nBeginnen Sie Ihre Erkundung in Agroha Dham, bevor Sie die nahegelegenen archäologischen Überreste des antiken Agroha besuchen. Gehen Sie durch das ausgegrabene Gebiet, und entdecken Sie Spuren historischer Siedlungen, einschließlich struktureller Überreste, aus Backstein gebauter Gebäude, religiöser Strukturen, und eines buddhistischen Stupa. Ihr Guide erklärt die archäologische Bedeutung der Stätte, und ihre Rolle in der historischen Entwicklung der Region.\n\nWeiter geht es zum Palast und den Tahakhanas von Firoz Shah, einem Komplex aus dem 14. Jahrhundert, der mit Sultan Firoz Shah Tughlaq in Verbindung steht. Erkunden Sie seine Innenhöfe, Strukturen, unterirdischen Kammern, und erhaltenen architektonischen Merkmale, während Sie mehr über die Rolle der Stätte während der Delhi-Sultanat-Periode erfahren.\n\nFahren Sie etwa 50 km weiter nach Rakhigarhi, was je nach Straßenzustand etwa 1 bis 1,5 Stunden dauert. Genießen Sie die sich verändernde ländliche Landschaft Haryanas auf dem Weg zu diesem wichtigen archäologischen Reiseziel.\n\nErkunden Sie die archäologische Landschaft von Rakhigarhi, verbunden mit der Indus-Tal-Zivilisation. Entdecken Sie die Überreste einer antiken städtischen Siedlung, und erfahren Sie mehr über Beweise organisierter Besiedlung, Entwässerungssysteme, Backsteinbau, Keramik, und andere archäologische Funde. Der Besuch bietet Einblick in die Raffinesse des frühen städtischen Lebens auf dem indischen Subkontinent.\n\nMachen Sie eine Mittagspause in einem örtlichen Restaurant, und genießen Sie einfache regionale Küche. Das Mittagessen geht auf eigene Kosten, sofern nicht ausdrücklich in Ihrer Buchung enthalten.\n\nNach Abschluss der Besichtigung beginnen Sie die etwa 180 km lange Rückreise nach Delhi. Entspannen Sie sich während der Fahrt durch die Landschaft Haryanas, mit einer kurzen Pause bei Bedarf. Ankunft in Delhi am Abend, und Absetzung an Ihrem Hotel oder bevorzugten Ort.\n\n**Was ist enthalten**\nPrivates klimatisiertes Fahrzeug für Transfers und Besichtigungen\nAbholung und Rückfahrt zum Hotel in Delhi\nProfessioneller privater englischsprachiger Guide\nEintrittsgebühren für Denkmäler und archäologische Stätten, die im Reiseplan genannt werden\nTrinkwasser in Flaschen im Fahrzeug\nParkgebühren, Mautgebühren, und Fahrerkosten\nAnfallende Steuern\n\n**Nicht enthalten**\nMahlzeiten und Getränke, sofern nicht ausdrücklich erwähnt\nOptionale Trinkgelder und optionale Aktivitäten\nKamera- oder Videogebühren an Denkmälern oder archäologischen Stätten, soweit zutreffend\nPersönliche Ausgaben, Einkäufe, Snacks, und Getränke\nZusätzliche Besichtigungen oder Dienstleistungen, die nicht im Reiseplan aufgeführt sind\nAlles, was nicht ausdrücklich unter den Einschlüssen erwähnt wird",
+  "highlights": [
+   "Entdecken Sie die antike archäologische Stätte von Agroha auf einer geführten Tagestour"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug für Transfers und Besichtigungen",
+   "Abholung und Rückfahrt zum Hotel in Delhi",
+   "Professioneller privater englischsprachiger Guide",
+   "Eintrittsgebühren für Denkmäler und archäologische Stätten, die im Reiseplan genannt werden",
+   "Trinkwasser in Flaschen im Fahrzeug",
+   "Parkgebühren, Mautgebühren, und Fahrerkosten",
+   "Anfallende Steuern"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke, sofern nicht ausdrücklich erwähnt",
+   "Optionale Trinkgelder und optionale Aktivitäten",
+   "Kamera- oder Videogebühren an Denkmälern oder archäologischen Stätten, soweit zutreffend",
+   "Persönliche Ausgaben, Einkäufe, Snacks, und Getränke",
+   "Zusätzliche Besichtigungen oder Dienstleistungen, die nicht im Reiseplan aufgeführt sind",
+   "Alles, was nicht ausdrücklich unter den Einschlüssen erwähnt wird"
+  ]
+ },
+ "delhi-private-half-day-tour": {
+  "title": "Delhi: private Halbtagestour",
+  "metaTitle": "Delhi: private Halbtagestour",
+  "metaDescription": "Sehen Sie beliebte historische, religiöse, und politische Sehenswürdigkeiten in Delhi.",
+  "shortDescription": "Sehen Sie beliebte historische, religiöse, und politische Sehenswürdigkeiten in Delhi.",
+  "fullDescription": "Delhi: private Halbtagestour. Sehen Sie beliebte historische, religiöse, und politische Sehenswürdigkeiten in Delhi.\n\nErleben Sie das Beste von Delhi auf einer außergewöhnlichen privaten Halbtages-Besichtigungstour mit Hoteltransfers und klimatisiertem Transport. Begeben Sie sich auf eine personalisierte Reise, und sehen Sie Höhepunkte wie Qutub Minar, India Gate, Humayuns Grabmal, und das Rashtrapati Bhavan.\n\nAbholung an einem Ort Ihrer Wahl in Delhi zur vereinbarten Zeit, und Erkundung von Indiens Hauptstadt im Komfort eines privaten klimatisierten Autos und eines professionellen Chauffeurs. Bewundern Sie Delhis Denkmäler mit Ihrem Reiseführer.\n\nBesuchen Sie Qutub Minar, ein Minarett und „Siegesturm\", der Teil des Qutb-Komplexes ist, der sich auf dem Gelände von Delhis ältester befestigter Stadt, Lal Kot, befindet, gegründet von den Tomar-Rajputen. Es ist eine UNESCO-Weltkulturerbestätte im Gebiet Mehrauli im Süden von Delhi, Indien.\n\nFahren Sie herum für Fotos am Rashtrapati Bhavan, das vor der Unabhängigkeit das Haus des Vizekönigs war. Die Pracht des Rashtrapati Bhavan ist vielschichtig; sein weitläufiges Anwesen und seine Architektur sind atemberaubend. Nur wenige offizielle Residenzen von Staatsoberhäuptern weltweit können mit dem Rashtrapati Bhavan hinsichtlich Größe, Weitläufigkeit, und Pracht mithalten.\n\nFahren Sie herum für Fotos am Parlamentsgebäude, entworfen von den britischen Architekten Edwin Lutyens und Herbert Baker. Das Parlament beherbergt die Lok Sabha, die Rajya Sabha, und einen Bibliothekssaal, wo ein Land von 1,3 Milliarden Menschen regiert wird. Die Regierung der größten Demokratie der Welt sitzt im Parlamentsgebäude.\n\nBesuchen Sie Humayuns Grabmal, eine Weltkulturerbestätte.\nDas Grabmal wurde 1562 n. Chr. von Humayuns Ehefrau Hamida Banu Begum in Auftrag gegeben, und vom persischen Architekten Mirak Mirza Ghiyath entworfen. Es war das erste Gartengrab auf dem indischen Subkontinent, und befindet sich in Nizamuddin East, nahe der Zitadelle Dina-panah, die Humayun 1533 gründete.\n\nNach Ihrer Tour werden Sie zurück zum Hotel gefahren. Ihre Tour endet mit süßen Erinnerungen an Delhi.\n\nVerpassen Sie dieses unvergessliche Delhi-Erlebnis nicht. Buchen Sie jetzt, und lassen Sie uns eine unvergessliche Reise zusammenstellen, die Ihnen wertvolle Erinnerungen an diese prächtige Stadt hinterlässt.\n\n**Was ist enthalten**\nAbholung und Rückfahrt zum Hotel/Flughafen\nKlimatisierter Transport während der Aktivität\nProfessioneller privater Reiseführer\nWasser in Flaschen\nEintrittsgebühren zu Denkmälern gemäß Reiseplan\nAlle Parkgebühren an Denkmälern, Mautgebühren und Steuern, Zulagen, Treibstoff, und zwischenstaatliche Steuern\n\n**Nicht enthalten**\nEssen und Getränke\nJegliche andere Gebühren, die nicht in den Einschlüssen erwähnt werden\nTrinkgelder für Guide und Fahrer (empfohlen)",
+  "highlights": [
+   "Sehen Sie beliebte historische, religiöse, und politische Sehenswürdigkeiten in Delhi"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "Klimatisierter Transport während der Aktivität",
+   "Professioneller privater Reiseführer",
+   "Wasser in Flaschen",
+   "Eintrittsgebühren zu Denkmälern gemäß Reiseplan",
+   "Alle Parkgebühren an Denkmälern, Mautgebühren und Steuern, Zulagen, Treibstoff, und zwischenstaatliche Steuern"
+  ],
+  "notIncluded": [
+   "Essen und Getränke",
+   "Jegliche andere Gebühren, die nicht in den Einschlüssen erwähnt werden",
+   "Trinkgelder für Guide und Fahrer (empfohlen)"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
