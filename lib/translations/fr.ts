@@ -1982,6 +1982,72 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "from-delhi-golden-triangle-with-ranthambore-5-day": {
+  "title": "Depuis Delhi : Triangle Doré avec Ranthambore, visite de 5 jours",
+  "metaTitle": "Delhi : Triangle Doré et Ranthambore, 5 jours",
+  "metaDescription": "Explorez les rues animées de Delhi et découvrez India Gate et Qutub Minar.",
+  "shortDescription": "Explorez les rues animées de Delhi et découvrez India Gate et Qutub Minar.",
+  "fullDescription": "Découvrez le Triangle Doré de l'Inde combiné à un safari dans le parc national de Ranthambore lors de cette visite de 5 jours. Explorez les rues animées de Delhi, découvrez India Gate et Qutub Minar, puis voyagez vers Agra et Jaipur avant de terminer par un safari dans la jungle à Ranthambore, avec 4 nuits d'hébergement en hôtel 3 ou 4 étoiles.",
+  "highlights": [
+   "Explorez les rues animées de Delhi et découvrez India Gate et Qutub Minar"
+  ],
+  "included": [
+   "4 nuits d'hébergement en hôtel 3 ou 4 étoiles (option)",
+   "Guide touristique professionnel",
+   "Petit-déjeuner quotidien à l'hôtel",
+   "Prise en charge et retour",
+   "Transport en véhicule climatisé",
+   "Safari dans la jungle centrale de Ranthambore (base partagée)",
+   "Eau en bouteille",
+   "Tous les péages et taxes"
+  ],
+  "notIncluded": [
+   "Repas (déjeuner, dîner)",
+   "Pourboires",
+   "Dépenses personnelles",
+   "Billets d'entrée aux monuments",
+   "Toute activité supplémentaire"
+  ]
+ },
+ "from-lucknow-1-day-tour-with-private-car-driver": {
+  "title": "Depuis Lucknow : visite d'une journée avec voiture privée et chauffeur",
+  "metaTitle": "Lucknow : visite d'une journée, voiture privée",
+  "metaDescription": "Explorez la ville de Lucknow, connue pour ses sites historiques et sa culture vibrante.",
+  "shortDescription": "Explorez la ville de Lucknow, connue pour ses sites historiques et sa culture vibrante.",
+  "fullDescription": "Découvrez la beauté de la ville historique de Lucknow, également connue comme la ville des Nawabs, lors d'une visite privée avec une voiture conduite par un chauffeur. Visitez les principaux points forts de la ville, y compris les marchés colorés réputés pour l'artisanat, les textiles, et la broderie chikankari.\n\nCommencez votre journée par une prise en charge à votre hôtel ou à l'aéroport de Lucknow. Partez pour une visite des sites historiques de Bada Imambara et Chota Imambara. Profitez d'une visite de Bhool Bhulaiya, réputé pour son design complexe.\n\nEnsuite, visitez Rumi Darwaza, présentant l'architecture awadhi construite par le Nawab Asaf-ud-Daula en 1784. Explorez le zoo de Lucknow, abritant certaines espèces rares d'oiseaux et d'animaux sauvages.\n\nProfitez des délices de la street food de Lucknow, un paradis pour les amateurs de viande. Essayez le Galouti Kabab, le Biryani, le Sheermal, et le célèbre Tunde Kabab. Après le déjeuner, dirigez-vous vers le parc commémoratif Ambedkar, dédié au Dr Bheem Rao Ambedkar, le rédacteur de la constitution indienne.\n\nPassez du temps à faire du shopping au marché Ameenabad, à Hazratganj, et dans d'autres marchés célèbres de Lucknow. Après la visite, soyez déposé à votre hôtel ou à l'aéroport de Lucknow.",
+  "highlights": [
+   "Explorez la ville de Lucknow, connue pour ses sites historiques et sa culture vibrante"
+  ],
+  "included": [
+   "Chauffeur",
+   "Prise en charge et retour à l'hôtel",
+   "Transport aller-retour en véhicule climatisé"
+  ],
+  "notIncluded": [
+   "Tout hébergement alimentaire, boissons",
+   "Billets pour les monuments",
+   "Dépenses personnelles",
+   "Guide touristique"
+  ]
+ },
+ "from-delhijaipuragra-premium-one-way-transfer-cab": {
+  "title": "Depuis Delhi/Jaipur/Agra : service de taxi premium pour transfert aller simple",
+  "metaTitle": "Delhi/Jaipur/Agra : transfert aller simple premium",
+  "metaDescription": "Profitez d'un voyage de transfert aller simple confortable entre Delhi, Jaipur, et Agra.",
+  "shortDescription": "Profitez d'un voyage de transfert aller simple confortable entre Delhi, Jaipur, et Agra.",
+  "fullDescription": "Voyagez sans stress avec un transfert aller simple confortable n'importe où entre Delhi, Agra, et Jaipur. Que vous vous dirigiez vers l'aéroport ou votre hôtel, votre chauffeur vous prendra en charge à l'heure et s'assurera que vous soyez pris en charge à chaque étape du chemin.\n\nAsseyez-vous, détendez-vous, et profitez des vues depuis un véhicule propre et bien équipé avec des équipements modernes. Vous recevrez également une bouteille d'eau offerte pour vous rafraîchir pendant le trajet.\n\nQue vous voyagiez pour affaires ou simplement pour explorer, ce service élimine le tracas du voyage, pas besoin de négocier avec les chauffeurs de taxi ou de s'inquiéter de trouver un transport fiable. Juste un trajet fluide et facile pour que vous puissiez vous concentrer sur ce qui compte vraiment.",
+  "highlights": [
+   "Profitez d'un voyage de transfert aller simple confortable entre Delhi, Jaipur, et Agra"
+  ],
+  "included": [
+   "Transfert privé aller simple",
+   "Bouteille d'eau",
+   "Tous les péages et taxes"
+  ],
+  "notIncluded": [
+   "Pourboires et gratifications"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
