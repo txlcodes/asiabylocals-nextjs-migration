@@ -23217,6 +23217,61 @@ export const FR_TOURS: Record<string, TourT> = {
    "Repas : déjeuner et dîner"
   ]
  },
+ "delhi-garden-of-five-senses-guided-tour-with": {
+  "title": "Delhi : visite guidée du Jardin des cinq sens avec prise en charge",
+  "metaTitle": "Delhi : Jardin des cinq sens, visite guidée",
+  "metaDescription": "Plongez dans une évasion riche en sensations avec art et architecture.",
+  "shortDescription": "Plongez dans une évasion riche en sensations avec art et architecture.",
+  "fullDescription": "Delhi : visite guidée du Jardin des cinq sens avec prise en charge. Plongez dans une évasion riche en sensations avec art et architecture.\n\nCommencez votre voyage par une prise en charge pratique à votre hôtel à Delhi. Rendez-vous au Jardin des cinq sens, une oasis de 20 acres conçue pour engager tous vos sens.\n\nPromenez-vous à travers des zones thématiques comme le Khas Bagh d'inspiration moghole, les bosquets de bambous, les jardins d'herbes, et l'étang de lys à Neel Bagh. Découvrez un parc d'énergie solaire, et profitez du paysage riche du jardin et de ses installations artistiques.\n\nAdmirez les allées en spirale, les fontaines en cascade, et des sculptures telles que l'« arbre fontaine » et des oiseaux en acier inoxydable. Écoutez les carillons mélodieux des arbres à clochettes, et rencontrez des éléphants de pierre théâtraux.\n\nVivez un jardin conçu avec soin pour évoquer la vue, l'odorat, le toucher, le son, et même le goût. Profitez de plantes aromatiques, de textures interactives, et d'espaces de restauration offrant un avant-goût des saveurs locales.\n\n**Ce qui est inclus**\nPrise en charge\nGuide en direct\nBillets d'entrée",
+  "highlights": [
+   "Plongez dans une évasion riche en sensations avec art et architecture"
+  ],
+  "included": [
+   "Prise en charge",
+   "Guide en direct",
+   "Billets d'entrée"
+  ],
+  "notIncluded": []
+ },
+ "from-delhi-one-day-delhi-sightseeing": {
+  "title": "Depuis Delhi : visite touristique de Delhi en une journée",
+  "metaTitle": "Delhi : visite touristique en une journée",
+  "metaDescription": "Explorez le Fort Rouge et la Jama Masjid.",
+  "shortDescription": "Explorez le Fort Rouge et la Jama Masjid.",
+  "fullDescription": "Depuis Delhi : visite touristique de Delhi en une journée. Explorez le Fort Rouge et la Jama Masjid.\n\n**Matin**\n\n8h00 : prise en charge depuis Jaipur/Delhi. Rencontrez votre chauffeur/guide, et commencez votre visite touristique.\n\n9h30 : Fort Rouge. Visitez l'historique Fort Rouge, un site du patrimoine mondial de l'UNESCO, et explorez son architecture majestueuse et ses jardins.\n\n11h00 : Jama Masjid. Explorez la Jama Masjid, l'une des plus grandes mosquées de l'Inde, connue pour sa grande cour et son magnifique design moghol.\n\n11h45 : Raj Ghat. Arrêtez-vous à Raj Ghat, le mémorial du Mahatma Gandhi, pour rendre hommage.\n\n**Midi**\n\n12h30 : pause déjeuner. Savourez le déjeuner dans un restaurant local proposant des plats indiens ou multi-cuisines.\n\n13h30 : India Gate et Rashtrapati Bhavan (passage en voiture). Voyez India Gate, un mémorial de guerre, et passez devant le Rashtrapati Bhavan, la résidence du président.\n\n**Après-midi**\n\n14h30 : Qutub Minar. Visitez Qutub Minar, un site du patrimoine mondial de l'UNESCO, et admirez ses sculptures complexes et son importance historique.\n\n15h30 : tombe de Humayun. Explorez la tombe de Humayun, un magnifique mausolée moghol qui a inspiré le design du Taj Mahal.\n\n16h30 : temple du Lotus (optionnel). Visitez le temple du Lotus, connu pour son architecture unique en forme de fleur, et son ambiance paisible.\n\n17h30 : visite du marché local (optionnel). Faites une promenade à Connaught Place ou Chandni Chowk pour du shopping et des collations locales.\n\n**Soir**\n\n18h30 : retour. Retour à Jaipur/votre hôtel à Delhi, concluant l'excursion d'une journée.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel (Jaipur/Delhi)\nVéhicule privé climatisé pour la visite\nGuide touristique local\nFrais d'entrée aux monuments\nDéjeuner\nTous les frais de stationnement, péages, et carburant",
+  "highlights": [
+   "Explorez le Fort Rouge et la Jama Masjid"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel (Jaipur/Delhi)",
+   "Véhicule privé climatisé pour la visite",
+   "Guide touristique local",
+   "Frais d'entrée aux monuments",
+   "Déjeuner",
+   "Tous les frais de stationnement, péages, et carburant"
+  ],
+  "notIncluded": []
+ },
+ "delhi-udaipur-guided-tour": {
+  "title": "Depuis Delhi : circuit du Triangle d'or de 6 jours avec Udaipur, 4 villes",
+  "metaTitle": "Delhi : Triangle d'or 6 jours avec Udaipur, 4 villes",
+  "metaDescription": "Émerveillez-vous devant le Taj Mahal au lever du soleil, et explorez le fort d'Agra.",
+  "shortDescription": "Émerveillez-vous devant le Taj Mahal au lever du soleil, et explorez le fort d'Agra.",
+  "fullDescription": "Depuis Delhi : circuit du Triangle d'or de 6 jours avec Udaipur, 4 villes. Émerveillez-vous devant le Taj Mahal au lever du soleil, et explorez le fort d'Agra.\n\nExplorez le Triangle d'or de l'Inde lors d'un circuit de 6 jours depuis Delhi. Visitez le Taj Mahal, le fort d'Agra, le fort Amber, le City Palace, et plus encore. Profitez d'hébergements en hôtel et d'un transfert privé.\n\n**Ce qui est inclus**\nGuide privé\nTransport privé et chauffeur\nEntrées (si l'option est sélectionnée)\nHébergement de 5 nuits avec petit-déjeuner (si l'option est sélectionnée)\n\n**Non inclus**\nDéjeuners et dîners\nPourboires",
+  "highlights": [
+   "Émerveillez-vous devant le Taj Mahal au lever du soleil, et explorez le fort d'Agra"
+  ],
+  "included": [
+   "Guide privé",
+   "Transport privé et chauffeur",
+   "Entrées (si l'option est sélectionnée)",
+   "Hébergement de 5 nuits avec petit-déjeuner (si l'option est sélectionnée)"
+  ],
+  "notIncluded": [
+   "Déjeuners et dîners",
+   "Pourboires"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

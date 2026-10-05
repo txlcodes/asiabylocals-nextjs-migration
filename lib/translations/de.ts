@@ -23217,6 +23217,61 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeit: Mittag- und Abendessen"
   ]
  },
+ "delhi-garden-of-five-senses-guided-tour-with": {
+  "title": "Delhi: geführte Tour durch den Garten der fünf Sinne mit Abholung",
+  "metaTitle": "Delhi: Garten der fünf Sinne, geführte Tour",
+  "metaDescription": "Tauchen Sie ein in eine sinnenreiche Flucht mit Kunst und Architektur.",
+  "shortDescription": "Tauchen Sie ein in eine sinnenreiche Flucht mit Kunst und Architektur.",
+  "fullDescription": "Delhi: geführte Tour durch den Garten der fünf Sinne mit Abholung. Tauchen Sie ein in eine sinnenreiche Flucht mit Kunst und Architektur.\n\nBeginnen Sie Ihre Reise mit einer bequemen Abholung von Ihrem Hotel in Delhi. Begeben Sie sich zum Garten der fünf Sinne, einer 20 Acres großen Oase, konzipiert, um alle Ihre Sinne anzusprechen.\n\nSchlendern Sie durch thematische Bereiche wie den von Moguln inspirierten Khas Bagh, Bambushaine, Kräutergärten, und den Seerosenteich bei Neel Bagh. Entdecken Sie einen Solarenergiepark, und genießen Sie die reiche Landschaft des Gartens und seine künstlerischen Installationen.\n\nBewundern Sie spiralförmige Wege, kaskadierende Brunnen, und Skulpturen wie den „Brunnenbaum\" und Vögel aus Edelstahl. Lauschen Sie den melodischen Klängen der Glockenbäume, und begegnen Sie theatralischen Steinelefanten.\n\nErleben Sie einen Garten, der sorgfältig gestaltet wurde, um Sehen, Riechen, Fühlen, Hören, und sogar Schmecken anzuregen. Genießen Sie aromatische Pflanzen, interaktive Texturen, und Food-Courts mit einem Geschmack örtlicher Aromen.\n\n**Was ist enthalten**\nAbholung\nLive-Guide\nEintrittskarten",
+  "highlights": [
+   "Tauchen Sie ein in eine sinnenreiche Flucht mit Kunst und Architektur"
+  ],
+  "included": [
+   "Abholung",
+   "Live-Guide",
+   "Eintrittskarten"
+  ],
+  "notIncluded": []
+ },
+ "from-delhi-one-day-delhi-sightseeing": {
+  "title": "Ab Delhi: Delhi-Besichtigung an einem Tag",
+  "metaTitle": "Delhi: Besichtigung an einem Tag",
+  "metaDescription": "Erkunden Sie das Red Fort und die Jama Masjid.",
+  "shortDescription": "Erkunden Sie das Red Fort und die Jama Masjid.",
+  "fullDescription": "Ab Delhi: Delhi-Besichtigung an einem Tag. Erkunden Sie das Red Fort und die Jama Masjid.\n\n**Morgen**\n\n8:00 Uhr: Abholung von Jaipur/Delhi. Treffen Sie Ihren Fahrer/Guide, und beginnen Sie Ihre Besichtigungstour.\n\n9:30 Uhr: Red Fort. Besuchen Sie das historische Red Fort, eine UNESCO-Weltkulturerbestätte, und erkunden Sie seine majestätische Architektur und Gärten.\n\n11:00 Uhr: Jama Masjid. Erkunden Sie die Jama Masjid, eine der größten Moscheen Indiens, bekannt für ihren großartigen Innenhof und ihr beeindruckendes Mogul-Design.\n\n11:45 Uhr: Raj Ghat. Halt an Raj Ghat, dem Denkmal für Mahatma Gandhi, um Tribut zu zollen.\n\n**Mittag**\n\n12:30 Uhr: Mittagspause. Genießen Sie das Mittagessen in einem örtlichen Restaurant mit indischen oder internationalen Gerichten.\n\n13:30 Uhr: India Gate und Rashtrapati Bhavan (Vorbeifahrt). Sehen Sie India Gate, ein Kriegsdenkmal, und fahren Sie am Rashtrapati Bhavan vorbei, dem Haus des Präsidenten.\n\n**Nachmittag**\n\n14:30 Uhr: Qutub Minar. Besuchen Sie Qutub Minar, eine UNESCO-Weltkulturerbestätte, und bewundern Sie seine kunstvollen Schnitzereien und historische Bedeutung.\n\n15:30 Uhr: Humayuns Grabmal. Erkunden Sie Humayuns Grabmal, ein wunderschönes Mogul-Mausoleum, das das Design des Taj Mahal inspirierte.\n\n16:30 Uhr: Lotustempel (optional). Besuchen Sie den Lotustempel, bekannt für seine einzigartige blütenförmige Architektur, und friedliche Atmosphäre.\n\n17:30 Uhr: Besuch des örtlichen Marktes (optional). Machen Sie einen Spaziergang am Connaught Place oder in Chandni Chowk zum Einkaufen und für örtliche Snacks.\n\n**Abend**\n\n18:30 Uhr: Absetzung. Rückkehr nach Jaipur/zu Ihrem Hotel in Delhi, und Abschluss des Tagesausflugs.\n\n**Was ist enthalten**\nAbholung und Rückfahrt zum Hotel (Jaipur/Delhi)\nPrivates klimatisiertes Fahrzeug für die Tour\nÖrtlicher Reiseführer\nEintrittsgebühren zu Denkmälern\nMittagessen\nAlle Parkgebühren, Mautgebühren, und Treibstoffkosten",
+  "highlights": [
+   "Erkunden Sie das Red Fort und die Jama Masjid"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel (Jaipur/Delhi)",
+   "Privates klimatisiertes Fahrzeug für die Tour",
+   "Örtlicher Reiseführer",
+   "Eintrittsgebühren zu Denkmälern",
+   "Mittagessen",
+   "Alle Parkgebühren, Mautgebühren, und Treibstoffkosten"
+  ],
+  "notIncluded": []
+ },
+ "delhi-udaipur-guided-tour": {
+  "title": "Ab Delhi: 6-tägige Golden-Triangle-Tour mit Udaipur, 4 Städte",
+  "metaTitle": "Delhi: Golden Triangle 6 Tage mit Udaipur, 4 Städte",
+  "metaDescription": "Staunen Sie über das Taj Mahal bei Sonnenaufgang, und erkunden Sie das Agra-Fort.",
+  "shortDescription": "Staunen Sie über das Taj Mahal bei Sonnenaufgang, und erkunden Sie das Agra-Fort.",
+  "fullDescription": "Ab Delhi: 6-tägige Golden-Triangle-Tour mit Udaipur, 4 Städte. Staunen Sie über das Taj Mahal bei Sonnenaufgang, und erkunden Sie das Agra-Fort.\n\nErkunden Sie das Golden Triangle Indiens auf einer 6-tägigen Tour ab Delhi. Besuchen Sie das Taj Mahal, das Agra-Fort, das Amber-Fort, den City Palace, und mehr. Genießen Sie Hotelunterkünfte und privaten Transfer.\n\n**Was ist enthalten**\nPrivater Guide\nPrivater Transport und Fahrer\nEintritte (falls Option gewählt wird)\n5 Nächte Unterkunft mit Frühstück (falls Option gewählt wird)\n\n**Nicht enthalten**\nMittag- und Abendessen\nTrinkgelder",
+  "highlights": [
+   "Staunen Sie über das Taj Mahal bei Sonnenaufgang, und erkunden Sie das Agra-Fort"
+  ],
+  "included": [
+   "Privater Guide",
+   "Privater Transport und Fahrer",
+   "Eintritte (falls Option gewählt wird)",
+   "5 Nächte Unterkunft mit Frühstück (falls Option gewählt wird)"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen",
+   "Trinkgelder"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

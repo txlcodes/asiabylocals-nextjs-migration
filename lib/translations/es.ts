@@ -23217,6 +23217,61 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comida: almuerzo y cena"
   ]
  },
+ "delhi-garden-of-five-senses-guided-tour-with": {
+  "title": "Delhi: tour guiado por el Jardín de los Cinco Sentidos con recogida",
+  "metaTitle": "Delhi: Jardín de los Cinco Sentidos, tour guiado",
+  "metaDescription": "Sumérjase en una escapada rica en sensaciones con arte y arquitectura.",
+  "shortDescription": "Sumérjase en una escapada rica en sensaciones con arte y arquitectura.",
+  "fullDescription": "Delhi: tour guiado por el Jardín de los Cinco Sentidos con recogida. Sumérjase en una escapada rica en sensaciones con arte y arquitectura.\n\nComience su viaje con una conveniente recogida en su hotel en Delhi. Diríjase al Jardín de los Cinco Sentidos, un oasis de 20 acres diseñado para involucrar todos sus sentidos.\n\nPasee por áreas temáticas como el Khas Bagh de inspiración mogol, arboledas de bambú, jardines de hierbas, y el estanque de lirios en Neel Bagh. Descubra un parque de energía solar, y disfrute del rico paisaje del jardín y sus instalaciones artísticas.\n\nAdmire los caminos en espiral, las fuentes en cascada, y esculturas como el \"Árbol Fuente\" y pájaros de acero inoxidable. Escuche los melodiosos repiques de los árboles de campanas, y encuentre elefantes de piedra teatrales.\n\nExperimente un jardín cuidadosamente diseñado para evocar la vista, el olfato, el tacto, el sonido, e incluso el gusto. Disfrute de plantas aromáticas, texturas interactivas, y patios de comidas que ofrecen un sabor de los sabores locales.\n\n**Qué incluye**\nRecogida\nGuía en vivo\nEntradas",
+  "highlights": [
+   "Sumérjase en una escapada rica en sensaciones con arte y arquitectura"
+  ],
+  "included": [
+   "Recogida",
+   "Guía en vivo",
+   "Entradas"
+  ],
+  "notIncluded": []
+ },
+ "from-delhi-one-day-delhi-sightseeing": {
+  "title": "Desde Delhi: recorrido turístico de Delhi en un día",
+  "metaTitle": "Delhi: recorrido turístico en un día",
+  "metaDescription": "Explore el Fuerte Rojo y la Jama Masjid.",
+  "shortDescription": "Explore el Fuerte Rojo y la Jama Masjid.",
+  "fullDescription": "Desde Delhi: recorrido turístico de Delhi en un día. Explore el Fuerte Rojo y la Jama Masjid.\n\n**Mañana**\n\n8:00: recogida desde Jaipur/Delhi. Conozca a su conductor/guía, y comience su recorrido turístico.\n\n9:30: Fuerte Rojo. Visite el histórico Fuerte Rojo, un sitio del Patrimonio Mundial de la UNESCO, y explore su majestuosa arquitectura y jardines.\n\n11:00: Jama Masjid. Explore la Jama Masjid, una de las mezquitas más grandes de la India, conocida por su gran patio y su impresionante diseño mogol.\n\n11:45: Raj Ghat. Deténgase en Raj Ghat, el monumento a Mahatma Gandhi, para rendir homenaje.\n\n**Mediodía**\n\n12:30: pausa para el almuerzo. Disfrute del almuerzo en un restaurante local que sirve platos indios o multicocina.\n\n13:30: India Gate y Rashtrapati Bhavan (recorrido en auto). Vea India Gate, un monumento de guerra, y pase frente al Rashtrapati Bhavan, la Casa del Presidente.\n\n**Tarde**\n\n14:30: Qutub Minar. Visite Qutub Minar, un sitio del Patrimonio Mundial de la UNESCO, y admire sus intrincados grabados e importancia histórica.\n\n15:30: tumba de Humayun. Explore la tumba de Humayun, un hermoso mausoleo mogol que inspiró el diseño del Taj Mahal.\n\n16:30: Templo del Loto (opcional). Visite el Templo del Loto, conocido por su arquitectura única en forma de flor, y su ambiente pacífico.\n\n17:30: visita al mercado local (opcional). Dé un paseo por Connaught Place o Chandni Chowk para compras y bocadillos locales.\n\n**Noche**\n\n18:30: entrega. Regreso a Jaipur/su hotel en Delhi, concluyendo la excursión de un día.\n\n**Qué incluye**\nRecogida y regreso al hotel (Jaipur/Delhi)\nVehículo privado con aire acondicionado para el recorrido\nGuía turístico local\nTarifas de entrada a monumentos\nAlmuerzo\nTodos los cargos de estacionamiento, peajes, y combustible",
+  "highlights": [
+   "Explore el Fuerte Rojo y la Jama Masjid"
+  ],
+  "included": [
+   "Recogida y regreso al hotel (Jaipur/Delhi)",
+   "Vehículo privado con aire acondicionado para el recorrido",
+   "Guía turístico local",
+   "Tarifas de entrada a monumentos",
+   "Almuerzo",
+   "Todos los cargos de estacionamiento, peajes, y combustible"
+  ],
+  "notIncluded": []
+ },
+ "delhi-udaipur-guided-tour": {
+  "title": "Desde Delhi: tour del Triángulo Dorado de 6 días con Udaipur, 4 ciudades",
+  "metaTitle": "Delhi: Triángulo Dorado 6 días con Udaipur, 4 ciudades",
+  "metaDescription": "Maravíllese con el Taj Mahal al amanecer, y explore el fuerte de Agra.",
+  "shortDescription": "Maravíllese con el Taj Mahal al amanecer, y explore el fuerte de Agra.",
+  "fullDescription": "Desde Delhi: tour del Triángulo Dorado de 6 días con Udaipur, 4 ciudades. Maravíllese con el Taj Mahal al amanecer, y explore el fuerte de Agra.\n\nExplore el Triángulo Dorado de la India en un tour de 6 días desde Delhi. Visite el Taj Mahal, el fuerte de Agra, el fuerte Amber, el City Palace, y más. Disfrute de alojamiento en hotel y traslado privado.\n\n**Qué incluye**\nGuía privado\nTransporte privado y conductor\nEntradas (si se selecciona esta opción)\nAlojamiento de 5 noches con desayuno (si se selecciona esta opción)\n\n**No incluye**\nAlmuerzos y cenas\nPropinas",
+  "highlights": [
+   "Maravíllese con el Taj Mahal al amanecer, y explore el fuerte de Agra"
+  ],
+  "included": [
+   "Guía privado",
+   "Transporte privado y conductor",
+   "Entradas (si se selecciona esta opción)",
+   "Alojamiento de 5 noches con desayuno (si se selecciona esta opción)"
+  ],
+  "notIncluded": [
+   "Almuerzos y cenas",
+   "Propinas"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
