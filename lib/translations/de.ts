@@ -19873,6 +19873,57 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Toya-See und das Jigokudani-Tal in Noboribetsu",
   "metaDescription": "Ganztägige Tour in Sapporo. Enthalten: Führung und Hin- und Rücktransport. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "private-susukino-tanukikoji-and-city-lights-walk-in-sapporo": {
+  "title": "Privater Spaziergang durch Susukino, Tanukikoji und die Stadtlichter in Sapporo",
+  "fullDescription": "Dies ist ein 2-stündiges Erlebnis in Sapporo. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHokkaido ist Japans nördliche Insel, ein anderes Klima und ein anderer Maßstab: Sapporo ist seine Stadt, mit dem Biermuseum, der Ramen-Gasse und dem Februar-Schneefestival; Otaru, 40 Minuten entfernt, hat den Kanal und die Glas- und Spieluhrgeschäfte; Noboribetsu sind die Thermalquellen des Höllentals; der Toya-See und der Shikotsu-See sind Caldera-Seen; und Biei und Furano im Zentrum sind die Blumenfelder und der Lavendel im Juli. Der Winter bringt zwei Meter Schnee nach Sapporo und den Pulverschnee, der Niseko berühmt machte. Die Entfernungen sind lang und Züge selten, daher sind Tagestouren von Sapporo meist mit dem Bus und dauern acht bis zehn Stunden.\n\nIm Preis enthalten sind Private nächtliche Wandertour, Guide, Besuch des Odori-Parks, Besuch des Bereichs des Sapporo-Fernsehturms und Spaziergang durch die Einkaufsstraße Tanukikoji. Nicht enthalten sind Speisen und Getränke und Bar-Tour, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2 Stunden",
+   "Private nächtliche Wandertour",
+   "Einheimischer Guide",
+   "Besuch des Odori-Parks",
+   "Besuch des Bereichs des Sapporo-Fernsehturms",
+   "Spaziergang durch die Einkaufsstraße Tanukikoji"
+  ],
+  "included": [
+   "Private nächtliche Wandertour",
+   "Einheimischer Guide",
+   "Besuch des Odori-Parks",
+   "Besuch des Bereichs des Sapporo-Fernsehturms",
+   "Spaziergang durch die Einkaufsstraße Tanukikoji",
+   "Besuch des Susukino-Nachtlebenviertels",
+   "Optionaler Besuch des Soseigawa-Parks oder Nijo-Marktes"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke",
+   "Bar-Tour"
+  ],
+  "shortDescription": "2-stündige Tour in Sapporo, inklusive Private nächtliche Wandertour, Guide und Besuch des Odori-Parks. Durchgeführt von Native Japan, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Privater Spaziergang durch Susukino, Tanukikoji und die Stadtlichter in Sapporo",
+  "metaDescription": "2-stündige Tour in Sapporo. Enthalten: Private nächtliche Wandertour und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "nijo-market-guided-tour-with-seafood-meal-in-sapporo": {
+  "title": "Geführte Tour durch den Nijo-Markt mit Meeresfrüchte-Mahlzeit in Sapporo",
+  "fullDescription": "Dies ist ein 1,5-stündiges Erlebnis ab Sapporo, rund um Nijo-Markt. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nKyoto war über tausend Jahre lang bis 1868 Japans Hauptstadt und hat 17 UNESCO-gelistete Stätten unter rund 2.000 Tempeln und Schreinen. Die großen drei sind Kinkaku-ji, der Goldene Pavillon, mit Goldblatt bedeckt und am besten im Morgenlicht; Kiyomizu-dera, die Holzbühne auf den östlichen Hügeln mit den Higashiyama-Gassen von Sannenzaka und Ninenzaka darunter; und die Tore von Fushimi Inari. Die Burg Nijo hat die Nachtigallenböden, die gegen Eindringlinge quietschen, und Ryoan-ji den Steingarten. Tempel öffnen gegen 8:00 oder 9:00 Uhr und schließen um 17:00 Uhr, und der Stadtbus ist langsam; ein Tag mit einem Fahrer oder Guide, der die Stopps gegen die Menschenmassen ordnet, macht den Unterschied zwischen vier Sehenswürdigkeiten und sieben.\n\nIm Preis enthalten sind 1,5-stündige geführte Tour durch den Nijo-Markt, Insider-Marktführer und Essens- und Getränkekosten bis zu 3.000 JPY. Nicht enthalten sind Privater Transport und Essens- und Getränkekosten über den inkludierten Betrag hinaus, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nセブン-イレブン 札幌南２条西１丁目店. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Nijo-Markt",
+   "Dauer: 1,5 Stunden",
+   "1,5-stündige geführte Tour durch den Nijo-Markt",
+   "Englischsprachiger Insider-Marktführer",
+   "Essens- und Getränkekosten bis zu 3.000 JPY"
+  ],
+  "included": [
+   "1,5-stündige geführte Tour durch den Nijo-Markt",
+   "Englischsprachiger Insider-Marktführer",
+   "Essens- und Getränkekosten bis zu 3.000 JPY"
+  ],
+  "notIncluded": [
+   "Privater Transport",
+   "Essens- und Getränkekosten über den inkludierten Betrag hinaus"
+  ],
+  "shortDescription": "Tour in Sapporo, mit Nijo-Markt und Finish at. Durchgeführt von DeepExperience, Inc., direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Geführte Tour durch den Nijo-Markt mit Meeresfrüchte-Mahlzeit in Sapporo",
+  "metaDescription": "Tour in Sapporo. Enthalten: 1,5-stündige geführte Tour durch den Nijo-Markt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "hokkaido-shrine-guided-tour-and-local-sweets-in-sapporo": {
   "title": "Geführte Tour durch den Hokkaido-Schrein und lokale Süßigkeiten in Sapporo",
   "fullDescription": "Dies ist ein 1-stündiges Erlebnis ab Sapporo, rund um Hokkaido Jingu. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHokkaido ist Japans nördliche Insel, ein anderes Klima und ein anderer Maßstab: Sapporo ist seine Stadt, mit dem Biermuseum, der Ramen-Gasse und dem Februar-Schneefestival; Otaru, 40 Minuten entfernt, hat den Kanal und die Glas- und Spieluhrgeschäfte; Noboribetsu sind die Thermalquellen des Höllentals; der Toya-See und der Shikotsu-See sind Caldera-Seen; und Biei und Furano im Zentrum sind die Blumenfelder und der Lavendel im Juli. Der Winter bringt zwei Meter Schnee nach Sapporo und den Pulverschnee, der Niseko berühmt machte. Die Entfernungen sind lang und Züge selten, daher sind Tagestouren von Sapporo meist mit dem Bus und dauern acht bis zehn Stunden.\n\nIm Preis enthalten sind Geführte Tour durch den Hokkaido-Schrein, Omikuji-Erlebnis und Verkostung von Mochi-Süßigkeiten. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\n円山公園パークセンター. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -19985,6 +20036,54 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Jozankei Natsu-touro: Tagestour zu 8 malerischen Orten in Sapporo",
   "metaDescription": "Ganztägige Tour in Sapporo. Enthalten: Busfahrpreis. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "toya-lake-and-noboribetsu-hell-valley-tour": {
+  "title": "Tour zum Toya-See und zum Höllental von Noboribetsu",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis ab Sapporo, rund um Bus/Reisebus, Panorama-Aussichtspunkt am Toya-See und Lake-Hill-Farm. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHokkaido ist Japans nördliche Insel, ein anderes Klima und ein anderer Maßstab: Sapporo ist seine Stadt, mit dem Biermuseum, der Ramen-Gasse und dem Februar-Schneefestival; Otaru, 40 Minuten entfernt, hat den Kanal und die Glas- und Spieluhrgeschäfte; Noboribetsu sind die Thermalquellen des Höllentals; der Toya-See und der Shikotsu-See sind Caldera-Seen; und Biei und Furano im Zentrum sind die Blumenfelder und der Lavendel im Juli. Der Winter bringt zwei Meter Schnee nach Sapporo und den Pulverschnee, der Niseko berühmt machte. Die Entfernungen sind lang und Züge selten, daher sind Tagestouren von Sapporo meist mit dem Bus und dauern acht bis zehn Stunden.\n\nIm Preis enthalten sind Transportkosten und Reiseführer-Servicegebühr. Nicht enthalten sind Eintrittsgebühr für die Showa-Shinzan-Bärenfarm, Mahlzeiten und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Panorama-Aussichtspunkt am Toya-See",
+   "Lake-Hill-Farm",
+   "Showa-Shinzan-Bärenfarm",
+   "Dauer: 10 Stunden",
+   "Transportkosten"
+  ],
+  "included": [
+   "Transportkosten",
+   "Reiseführer-Servicegebühr"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühr für die Showa-Shinzan-Bärenfarm",
+   "Mahlzeiten",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Ganztägige Tour in Sapporo, mit Panorama-Aussichtspunkt am Toya-See, Lake-Hill-Farm und Showa-Shinzan-Bärenfarm. Durchgeführt von イ一エストラベル株式会社, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Tour zum Toya-See und zum Höllental von Noboribetsu",
+  "metaDescription": "Ganztägige Tour in Sapporo. Enthalten: Transportkosten. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "noboribetsu-lake-toya-and-niseko-day-trip": {
+  "title": "Tagesausflug nach Noboribetsu, Toya-See und Niseko",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis ab Sapporo, rund um Bus/Reisebus, Jigokudani (Höllental) und Die acht Ansichten des Toya-Sees, Toyako-Onsen. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHokkaido ist Japans nördliche Insel, ein anderes Klima und ein anderer Maßstab: Sapporo ist seine Stadt, mit dem Biermuseum, der Ramen-Gasse und dem Februar-Schneefestival; Otaru, 40 Minuten entfernt, hat den Kanal und die Glas- und Spieluhrgeschäfte; Noboribetsu sind die Thermalquellen des Höllentals; der Toya-See und der Shikotsu-See sind Caldera-Seen; und Biei und Furano im Zentrum sind die Blumenfelder und der Lavendel im Juli. Der Winter bringt zwei Meter Schnee nach Sapporo und den Pulverschnee, der Niseko berühmt machte. Die Entfernungen sind lang und Züge selten, daher sind Tagestouren von Sapporo meist mit dem Bus und dauern acht bis zehn Stunden.\n\nIm Preis enthalten sind Hin- und Rücktransport und Englisch- und koreanischsprachiges Personal. Nicht enthalten sind Mahlzeiten, Weitere persönliche Ausgaben und Reiseversicherung, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Jigokudani (Höllental)",
+   "Die acht Ansichten des Toya-Sees, Toyako-Onsen",
+   "Silo-Aussichtsplattform im Nationalpark Shikotsu Toya",
+   "Dauer: 10 Stunden",
+   "Hin- und Rücktransport"
+  ],
+  "included": [
+   "Hin- und Rücktransport",
+   "Englisch- und koreanischsprachiges Personal"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Weitere persönliche Ausgaben",
+   "Reiseversicherung"
+  ],
+  "shortDescription": "Ganztägige Tour in Sapporo, mit Jigokudani (Höllental), Die acht Ansichten des Toya-Sees, Toyako-Onsen und Niseko Takahashi Dairy Farm MILK KOBO. Durchgeführt von TOURSTORY Japan, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Tagesausflug nach Noboribetsu, Toya-See und Niseko",
+  "metaDescription": "Ganztägige Tour in Sapporo. Enthalten: Hin- und Rücktransport. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "sapporo-private-customizable-walking-tour": {
   "title": "Private, individuell anpassbare Wandertour durch Sapporo",
   "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Sapporo. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHokkaido ist Japans nördliche Insel, ein anderes Klima und ein anderer Maßstab: Sapporo ist seine Stadt, mit dem Biermuseum, der Ramen-Gasse und dem Februar-Schneefestival; Otaru, 40 Minuten entfernt, hat den Kanal und die Glas- und Spieluhrgeschäfte; Noboribetsu sind die Thermalquellen des Höllentals; der Toya-See und der Shikotsu-See sind Caldera-Seen; und Biei und Furano im Zentrum sind die Blumenfelder und der Lavendel im Juli. Der Winter bringt zwei Meter Schnee nach Sapporo und den Pulverschnee, der Niseko berühmt machte. Die Entfernungen sind lang und Züge selten, daher sind Tagestouren von Sapporo meist mit dem Bus und dauern acht bis zehn Stunden.\n\nIm Preis enthalten sind Guide, Individuelle Reiseroute, Alle Gebühren und Steuern und Rundgang zu Fuß. Nicht enthalten sind Privater Transport, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -20007,6 +20106,76 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Sapporo, inklusive Guide, Individuelle Reiseroute und Alle Gebühren und Steuern. Durchgeführt von DeepExperience, Inc., direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Private, individuell anpassbare Wandertour durch Sapporo",
   "metaDescription": "Tour in Sapporo. Enthalten: Guide und Individuelle Reiseroute. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "sushi-making-class-in-sapporo": {
+  "title": "Sushi-Kochkurs in Sapporo",
+  "fullDescription": "Dies ist ein 1,5-stündiges Erlebnis in Sapporo. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHokkaido ist Japans nördliche Insel, ein anderes Klima und ein anderer Maßstab: Sapporo ist seine Stadt, mit dem Biermuseum, der Ramen-Gasse und dem Februar-Schneefestival; Otaru, 40 Minuten entfernt, hat den Kanal und die Glas- und Spieluhrgeschäfte; Noboribetsu sind die Thermalquellen des Höllentals; der Toya-See und der Shikotsu-See sind Caldera-Seen; und Biei und Furano im Zentrum sind die Blumenfelder und der Lavendel im Juli. Der Winter bringt zwei Meter Schnee nach Sapporo und den Pulverschnee, der Niseko berühmt machte. Die Entfernungen sind lang und Züge selten, daher sind Tagestouren von Sapporo meist mit dem Bus und dauern acht bis zehn Stunden.\n\nIm Preis enthalten sind Sushi-Herstellungserlebnis, Anleitung durch einen Sushi-Koch, Nutzung der Sushi-Herstellungsausrüstung, Zutaten für Sushi und Verkostung von selbst gemachtem Sushi. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1,5 Stunden",
+   "Sushi-Herstellungserlebnis",
+   "Anleitung durch einen Sushi-Koch",
+   "Nutzung der Sushi-Herstellungsausrüstung",
+   "Zutaten für Sushi",
+   "Verkostung von selbst gemachtem Sushi"
+  ],
+  "included": [
+   "Sushi-Herstellungserlebnis",
+   "Anleitung durch einen Sushi-Koch",
+   "Nutzung der Sushi-Herstellungsausrüstung",
+   "Zutaten für Sushi",
+   "Verkostung von selbst gemachtem Sushi",
+   "Erklärungen auf Englisch verfügbar"
+  ],
+  "notIncluded": [],
+  "shortDescription": "1,5-stündige Tour in Sapporo, inklusive Sushi-Herstellungserlebnis, Anleitung durch einen Sushi-Koch und Nutzung der Sushi-Herstellungsausrüstung. Durchgeführt von 和do Studio Sapporo, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Sushi-Kochkurs in Sapporo",
+  "metaDescription": "1,5-stündige Tour in Sapporo. Enthalten: Sushi-Herstellungserlebnis. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "jr-tower-family-and-accessible-observation-ticket-in-sapporo": {
+  "title": "Familien- und barrierefreies Aussichtsticket für den JR Tower in Sapporo",
+  "fullDescription": "Dies ist ein Erlebnis in Sapporo. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHokkaido ist Japans nördliche Insel, ein anderes Klima und ein anderer Maßstab: Sapporo ist seine Stadt, mit dem Biermuseum, der Ramen-Gasse und dem Februar-Schneefestival; Otaru, 40 Minuten entfernt, hat den Kanal und die Glas- und Spieluhrgeschäfte; Noboribetsu sind die Thermalquellen des Höllentals; der Toya-See und der Shikotsu-See sind Caldera-Seen; und Biei und Furano im Zentrum sind die Blumenfelder und der Lavendel im Juli. Der Winter bringt zwei Meter Schnee nach Sapporo und den Pulverschnee, der Niseko berühmt machte. Die Entfernungen sind lang und Züge selten, daher sind Tagestouren von Sapporo meist mit dem Bus und dauern acht bis zehn Stunden.\n\nIm Preis enthalten sind Eintrittskarte für die JR-Tower-Aussichtsplattform, Direkter QR-Code-Gutschein für den Austausch eines physischen Tickets und Zugang zu familienfreundlichen und rollstuhlgerechten Aussichtsbereichen. Nicht enthalten sind Essen und Transport zum Bahnhof Sapporo, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Eintrittskarte für die JR-Tower-Aussichtsplattform",
+   "Direkter QR-Code-Gutschein für den Austausch eines physischen Tickets",
+   "Zugang zu familienfreundlichen und rollstuhlgerechten Aussichtsbereichen"
+  ],
+  "included": [
+   "Eintrittskarte für die JR-Tower-Aussichtsplattform",
+   "Direkter QR-Code-Gutschein für den Austausch eines physischen Tickets",
+   "Zugang zu familienfreundlichen und rollstuhlgerechten Aussichtsbereichen"
+  ],
+  "notIncluded": [
+   "Essen, Getränke und persönliche Einkäufe",
+   "Transport zum Bahnhof Sapporo"
+  ],
+  "shortDescription": "Eintrittskarte in Sapporo, inklusive Eintrittskarte für die JR-Tower-Aussichtsplattform, Direkter QR-Code-Gutschein für den Austausch eines physischen Tickets und Zugang zu familienfreundlichen und rollstuhlgerechten Aussichtsbereichen. Durchgeführt von I'm Jiajia, your local travel partner in Japan. 🌸, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Familien- und barrierefreies Aussichtsticket für den JR Tower in Sapporo",
+  "metaDescription": "Eintrittskarte in Sapporo. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "shirakawa-go-and-hida-takayama-full-day-trip": {
+  "title": "Ganztägiger Ausflug nach Shirakawa-go und Hida-Takayama",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis ab Nagoya, rund um Bus/Reisebus, Takayama und Shirakawa-go. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nTakayama, in den Hida-Bergen nördlich von Nagoya, hat seine Kaufmannsstraßen aus der Edo-Zeit, Morgenmärkte und Sake-Brauereien bewahrt, und Shirakawa-go, eine Stunde weiter, ist das UNESCO-Dorf der Gassho-Zukuri-Bauernhäuser mit steilen Strohdächern, die für den Schnee gebaut wurden. Tagestouren von Nagoya, Kanazawa oder Takayama selbst führen zum Dorf; der Aussichtspunkt darüber ist der Blick, und der Winter, wenn die Dächer zwei Meter Schnee tragen und das Dorf an einigen Januar- und Februar-Abenden beleuchtet wird, ist der Grund, warum viele hingehen. Hida-Rindfleisch ist die regionale Speise.\n\nIm Preis enthalten sind Abholung und Rückfahrt am Treffpunkt, Mehrsprachiger Reiseführer, Fahrer, Parkgebühr und Transport im klimatisierten Bus. Nicht enthalten sind Speisen und Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nCore Meieki, 5-10 Tsubakicho, Nakamura-Bezirk, Nagoya, Aichi 453-0015, Japan. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Takayama",
+   "Shirakawa-go",
+   "Dauer: 10 Stunden",
+   "Abholung und Rückfahrt am Treffpunkt",
+   "Mehrsprachiger Reiseführer"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Treffpunkt",
+   "Mehrsprachiger Reiseführer",
+   "Fahrer",
+   "Parkgebühr",
+   "Transport im klimatisierten Bus"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke"
+  ],
+  "shortDescription": "Ganztägige Tour in Nagoya, mit Takayama und Shirakawa-go. Durchgeführt von Tour Easy, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Ganztägiger Ausflug nach Shirakawa-go und Hida-Takayama",
+  "metaDescription": "Ganztägige Tour in Nagoya. Enthalten: Abholung und Rückfahrt am Treffpunkt. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "sushi-and-chopstick-making-workshop-in-sapporo": {
   "title": "Sushi- und Essstäbchen-Herstellungsworkshop in Sapporo",
@@ -20099,6 +20268,29 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Handgemachte Udon herstellen und Miso-Verkostung in Nagoya",
   "metaDescription": "2,5-stündige Tour in Nagoya. Enthalten: Kochwerkzeuge und Zutaten. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "shirakawa-go-takayama-and-gujo-cultural-day-tour": {
+  "title": "Kulturelle Tagestour nach Shirakawa-go, Takayama und Gujo",
+  "fullDescription": "Dies ist ein 11-stündiges Erlebnis ab Nagoya, rund um Bus/Reisebus, Gujo und Takayama. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nTakayama, in den Hida-Bergen nördlich von Nagoya, hat seine Kaufmannsstraßen aus der Edo-Zeit, Morgenmärkte und Sake-Brauereien bewahrt, und Shirakawa-go, eine Stunde weiter, ist das UNESCO-Dorf der Gassho-Zukuri-Bauernhäuser mit steilen Strohdächern, die für den Schnee gebaut wurden. Tagestouren von Nagoya, Kanazawa oder Takayama selbst führen zum Dorf; der Aussichtspunkt darüber ist der Blick, und der Winter, wenn die Dächer zwei Meter Schnee tragen und das Dorf an einigen Januar- und Februar-Abenden beleuchtet wird, ist der Grund, warum viele hingehen. Hida-Rindfleisch ist die regionale Speise.\n\nIm Preis enthalten sind Hin- und Rücktransport und Englisch- und japanischsprachiges Personal. Nicht enthalten sind Mahlzeiten und Sonstige persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nNagoya Station Taiko-dori Exit Station Square. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Gujo",
+   "Takayama",
+   "Shirakawa-go",
+   "Dauer: 11 Stunden",
+   "Hin- und Rücktransport"
+  ],
+  "included": [
+   "Hin- und Rücktransport",
+   "Englisch- und japanischsprachiges Personal"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Sonstige persönliche Ausgaben"
+  ],
+  "shortDescription": "Ganztägige Tour in Nagoya, mit Gujo, Takayama und Shirakawa-go. Durchgeführt von WONDER STYLES CO.,LTD., direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Kulturelle Tagestour nach Shirakawa-go, Takayama und Gujo",
+  "metaDescription": "Ganztägige Tour in Nagoya. Enthalten: Hin- und Rücktransport. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "custom-fragrance-workshop-in-nagoya": {
   "title": "Workshop für individuelle Düfte in Nagoya",
   "fullDescription": "Dies ist ein 30-minütiges Erlebnis in Nagoya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nNagoya ist Japans viertgrößte Stadt und das Tor zum Ghibli Park in Nagakute, 2022 eröffnet mit zeitgebundenen Tickets, die Wochen im Voraus ausverkauft sind, zu Nagashima Spa Land und seinen Achterbahnen, und zu Inuyama, dessen Burg einer der zwölf Original-Burgtürme ist. Die goldenen Delfine der Burg Nagoya und das Toyota-Gedächtnismuseum sind die eigenen Sehenswürdigkeiten der Stadt, und gegrillter Hitsumabushi-Aal und Miso-Katsu sind ihr Essen. Der Große Ise-Schrein, Shintos heiligste Stätte, alle zwanzig Jahre neu erbaut, ist 90 Minuten südlich.\n\nIm Preis enthalten sind Exklusive Duftkreation durch einen Berater und Umsatzsteuer. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -20115,6 +20307,47 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "0,5-stündige Tour in Nagoya, inklusive Exklusive Duftkreation durch einen Berater und Umsatzsteuer. Durchgeführt von Fragrance Project Co., Ltd., direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Workshop für individuelle Düfte in Nagoya",
   "metaDescription": "0,5-stündige Tour in Nagoya. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "nagoya-sakae-world-idol-republic-kawaii-experience-by-local-operator": {
+  "title": "Nagoya Sakae: Kawaii-Erlebnis World Idol Republic",
+  "fullDescription": "Dies ist ein 2,5-stündiges Erlebnis in Nagoya. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nNagoya ist Japans viertgrößte Stadt und das Tor zum Ghibli Park in Nagakute, 2022 eröffnet mit zeitgebundenen Tickets, die Wochen im Voraus ausverkauft sind, zu Nagashima Spa Land und seinen Achterbahnen, und zu Inuyama, dessen Burg einer der zwölf Original-Burgtürme ist. Die goldenen Delfine der Burg Nagoya und das Toyota-Gedächtnismuseum sind die eigenen Sehenswürdigkeiten der Stadt, und gegrillter Hitsumabushi-Aal und Miso-Katsu sind ihr Essen. Der Große Ise-Schrein, Shintos heiligste Stätte, alle zwanzig Jahre neu erbaut, ist 90 Minuten südlich.\n\nIm Preis enthalten sind Variiert je nach Option und Variiert je nach Option. Nicht enthalten sind Transport, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 2,5 Stunden",
+   "Variiert je nach Option (1-2 Stunden)",
+   "Variiert je nach Option (Ticket/Kostüm/Unterricht usw.)"
+  ],
+  "included": [
+   "Variiert je nach Option (1-2 Stunden)",
+   "Variiert je nach Option (Ticket/Kostüm/Unterricht usw.)"
+  ],
+  "notIncluded": [
+   "Transport, Dolmetscher, zusätzliche Getränke und Einkaufen"
+  ],
+  "shortDescription": "2,5-stündige Tour in Nagoya, inklusive Variiert je nach Option und Variiert je nach Option. Durchgeführt von 株式会社NDP, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Nagoya Sakae: Kawaii-Erlebnis World Idol Republic",
+  "metaDescription": "2,5-stündige Tour in Nagoya. Enthalten: Variiert je nach Option. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "nightlife-tour-with-local-guide-and-dinner-in-nagoya": {
+  "title": "Nachtleben-Tour mit lokalem Guide und Abendessen in Nagoya",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis ab Nagoya, rund um Lokales Restaurant. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nNagoya ist Japans viertgrößte Stadt und das Tor zum Ghibli Park in Nagakute, 2022 eröffnet mit zeitgebundenen Tickets, die Wochen im Voraus ausverkauft sind, zu Nagashima Spa Land und seinen Achterbahnen, und zu Inuyama, dessen Burg einer der zwölf Original-Burgtürme ist. Die goldenen Delfine der Burg Nagoya und das Toyota-Gedächtnismuseum sind die eigenen Sehenswürdigkeiten der Stadt, und gegrillter Hitsumabushi-Aal und Miso-Katsu sind ihr Essen. Der Große Ise-Schrein, Shintos heiligste Stätte, alle zwanzig Jahre neu erbaut, ist 90 Minuten südlich.\n\nIm Preis enthalten sind Geführte Tour durch Nagoyas Nachtleben, Besuch einer Izakaya, Verkostung von Nagoyas lokalen Spezialitäten und All-you-can-drink-Option. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\n東京第一ホテル錦. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Lokales Restaurant",
+   "Dauer: 3 Stunden",
+   "Geführte Tour durch Nagoyas Nachtleben",
+   "Besuch einer Izakaya",
+   "Verkostung von Nagoyas lokalen Spezialitäten",
+   "All-you-can-drink-Option"
+  ],
+  "included": [
+   "Geführte Tour durch Nagoyas Nachtleben",
+   "Besuch einer Izakaya",
+   "Verkostung von Nagoyas lokalen Spezialitäten",
+   "All-you-can-drink-Option"
+  ],
+  "notIncluded": [],
+  "shortDescription": "3-stündige Tour in Nagoya, mit Lokales Restaurant. Durchgeführt von 名古屋観光合同会社, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Nachtleben-Tour mit lokalem Guide und Abendessen in Nagoya",
+  "metaDescription": "3-stündige Tour in Nagoya. Enthalten: Geführte Tour durch Nagoyas Nachtleben. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "hiroshima-and-miyajima-in-1-day-private-tour-licensed-guide-by-local-operator": {
   "title": "Hiroshima und Miyajima an 1 Tag: private Tour mit lizenziertem Guide",
@@ -20142,6 +20375,55 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Ganztägige Tour in Hiroshima, inklusive Private Tour, Lizenzierter einheimischer Guide und Abholung zu Fuß von Ihrer Unterkunft. Durchgeführt von Japan Guide Agency, JGA Inc., direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Hiroshima und Miyajima an 1 Tag: private Tour mit lizenziertem Guide",
   "metaDescription": "Ganztägige Tour in Hiroshima. Enthalten: Private Tour. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "day-trip-to-hiroshima-and-miyajima-with-itsukushima-shrine-by-local-operator": {
+  "title": "Tagesausflug nach Hiroshima und Miyajima mit dem Itsukushima-Schrein",
+  "fullDescription": "Dies ist ein 3,5-stündiges Erlebnis ab Hiroshima, rund um Bus/Reisebus, Fähre und Itsukushima-Schrein. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHiroshimas Friedenspark liegt auf dem Boden unter dem Punkt, an dem die Bombe am 6. August 1945 um 8:15 Uhr explodierte. Die Atombombenkuppel, das Skelett der Industrieförderungshalle, wurde so belassen, wie sie stand; das Friedensmuseum öffnete 2019 nach einem Umbau wieder und dauert etwa zwei Stunden und ist nicht für kleine Kinder geeignet. Das Kinderfriedensdenkmal ist mit Papierkranichen behängt, die aus der ganzen Welt gesendet werden. Hiroshimas eigenes Essen ist Okonomiyaki mit Nudeln geschichtet, gegessen an den Theken in Okonomimura. Miyajima ist 40 Minuten entfernt und die meisten Besucher kombinieren beide an einem Tag.\n\nIm Preis enthalten sind Zweisprachiger Guide in Spanisch und Englisch, Transport vom Treffpunkt, Eintritt zum Itsukushima-Schrein und Fährticket. Nicht enthalten sind Mittagessen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Fähre",
+   "Itsukushima-Schrein",
+   "Miyajima",
+   "Dauer: 3,5 Stunden",
+   "Zweisprachiger Guide in Spanisch und Englisch"
+  ],
+  "included": [
+   "Zweisprachiger Guide in Spanisch und Englisch",
+   "Transport vom Treffpunkt",
+   "Eintritt zum Itsukushima-Schrein",
+   "Fährticket"
+  ],
+  "notIncluded": [
+   "Mittagessen"
+  ],
+  "shortDescription": "Tour in Hiroshima, mit Itsukushima-Schrein und Miyajima. Durchgeführt von AMIGO TOURS JAPAN GK, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Tagesausflug nach Hiroshima und Miyajima mit dem Itsukushima-Schrein",
+  "metaDescription": "Tour in Hiroshima. Enthalten: Zweisprachiger Guide in Spanisch und Englisch. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "heritage-walk-and-old-town-walking-tour-in-hiroshima": {
+  "title": "Erbe-Spaziergang und Altstadt-Wandertour in Hiroshima",
+  "fullDescription": "Dies ist ein 3-stündiges Erlebnis in Hiroshima, rund um Bahnhof Hiroshima, Zug und Einkaufsstraße Hondori. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHiroshimas Friedenspark liegt auf dem Boden unter dem Punkt, an dem die Bombe am 6. August 1945 um 8:15 Uhr explodierte. Die Atombombenkuppel, das Skelett der Industrieförderungshalle, wurde so belassen, wie sie stand; das Friedensmuseum öffnete 2019 nach einem Umbau wieder und dauert etwa zwei Stunden und ist nicht für kleine Kinder geeignet. Das Kinderfriedensdenkmal ist mit Papierkranichen behängt, die aus der ganzen Welt gesendet werden. Hiroshimas eigenes Essen ist Okonomiyaki mit Nudeln geschichtet, gegessen an den Theken in Okonomimura. Miyajima ist 40 Minuten entfernt und die meisten Besucher kombinieren beide an einem Tag.\n\nIm Preis enthalten sind Guide, Guide und Fotospots. Nicht enthalten sind Abholung vom Hotel, Persönliche Einkäufe und Zusätzliche Speisen und Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHIROSHIMA STATION. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bahnhof Hiroshima",
+   "Zug",
+   "Einkaufsstraße Hondori",
+   "Shukkei-en-Garten",
+   "Dauer: 3 Stunden",
+   "Einheimischer Guide"
+  ],
+  "included": [
+   "Einheimischer Guide",
+   "Englischsprachiger Guide",
+   "Fotospots"
+  ],
+  "notIncluded": [
+   "Abholung vom Hotel",
+   "Persönliche Einkäufe",
+   "Zusätzliche Speisen und Getränke"
+  ],
+  "shortDescription": "3-stündige Tour in Hiroshima, mit Bahnhof Hiroshima, Einkaufsstraße Hondori und Shukkei-en-Garten. Durchgeführt von Gappy, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Erbe-Spaziergang und Altstadt-Wandertour in Hiroshima",
+  "metaDescription": "3-stündige Tour in Hiroshima. Enthalten: Guide, Guide und Fotospots. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "play-the-koto-near-hiroshima-s-atomic-bomb-dome-by-local-operator": {
   "title": "Koto spielen nahe der Atombombenkuppel von Hiroshima",
@@ -20176,6 +20458,70 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "1,5-stündige Tour in Hiroshima, inklusive Alle Gebühren und Steuern, Mietgebühren für Kalligrafie-Werkzeuge und Ein von Ihnen erstelltes Kalligrafie-Kunstwerk und die individuellen Sticker. Durchgeführt von Nippon Journey, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Hiroshima: Erstellen Sie Ihr eigenes Kanji-Kalligrafie-Kunstwerk",
   "metaDescription": "1,5-stündige Tour in Hiroshima. Enthalten: Alle Gebühren und Steuern. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "discover-hidden-meanings-of-shukkeien-garden-in-hiroshima": {
+  "title": "Entdecken Sie die verborgenen Bedeutungen des Shukkeien-Gartens in Hiroshima",
+  "fullDescription": "Dies ist ein 1,5-stündiges Erlebnis ab Hiroshima, rund um Shukkei-en-Garten. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHiroshimas Friedenspark liegt auf dem Boden unter dem Punkt, an dem die Bombe am 6. August 1945 um 8:15 Uhr explodierte. Die Atombombenkuppel, das Skelett der Industrieförderungshalle, wurde so belassen, wie sie stand; das Friedensmuseum öffnete 2019 nach einem Umbau wieder und dauert etwa zwei Stunden und ist nicht für kleine Kinder geeignet. Das Kinderfriedensdenkmal ist mit Papierkranichen behängt, die aus der ganzen Welt gesendet werden. Hiroshimas eigenes Essen ist Okonomiyaki mit Nudeln geschichtet, gegessen an den Theken in Okonomimura. Miyajima ist 40 Minuten entfernt und die meisten Besucher kombinieren beide an einem Tag.\n\nIm Preis enthalten sind Eintrittsgebühr für den Garten, Matcha-Tee und Süßigkeit in einem Teehaus und Führung. Nicht enthalten sind Transport und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Shukkei-en-Garten",
+   "Dauer: 1,5 Stunden",
+   "Eintrittsgebühr für den Garten",
+   "Matcha-Tee und Süßigkeit in einem Teehaus",
+   "Führung"
+  ],
+  "included": [
+   "Eintrittsgebühr für den Garten",
+   "Matcha-Tee und Süßigkeit in einem Teehaus",
+   "Führung"
+  ],
+  "notIncluded": [
+   "Transport",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Tour in Hiroshima, mit Shukkei-en-Garten. Durchgeführt von DeepExperience, Inc., direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Entdecken Sie die verborgenen Bedeutungen des Shukkeien-Gartens in Hiroshima",
+  "metaDescription": "Tour in Hiroshima. Enthalten: Eintrittsgebühr für den Garten. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "1-5-hour-mitaki-ji-temple-guided-tour-in-hiroshima": {
+  "title": "1,5-stündige geführte Tour durch den Mitaki-ji-Tempel in Hiroshima",
+  "fullDescription": "Dies ist ein 1,5-stündiges Erlebnis in Hiroshima. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHiroshimas Friedenspark liegt auf dem Boden unter dem Punkt, an dem die Bombe am 6. August 1945 um 8:15 Uhr explodierte. Die Atombombenkuppel, das Skelett der Industrieförderungshalle, wurde so belassen, wie sie stand; das Friedensmuseum öffnete 2019 nach einem Umbau wieder und dauert etwa zwei Stunden und ist nicht für kleine Kinder geeignet. Das Kinderfriedensdenkmal ist mit Papierkranichen behängt, die aus der ganzen Welt gesendet werden. Hiroshimas eigenes Essen ist Okonomiyaki mit Nudeln geschichtet, gegessen an den Theken in Okonomimura. Miyajima ist 40 Minuten entfernt und die meisten Besucher kombinieren beide an einem Tag.\n\nIm Preis enthalten sind Guide, Ruhiger Spaziergang auf dem Tempelgelände, Blick auf drei heilige Wasserfälle und Besuch der vermillonroten lackierten Pagode und der Haupthalle. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1,5 Stunden",
+   "Professioneller Guide",
+   "Ruhiger Spaziergang auf dem Tempelgelände",
+   "Blick auf drei heilige Wasserfälle",
+   "Besuch der vermillonroten lackierten Pagode und der Haupthalle"
+  ],
+  "included": [
+   "Professioneller Guide",
+   "Ruhiger Spaziergang auf dem Tempelgelände",
+   "Blick auf drei heilige Wasserfälle",
+   "Besuch der vermillonroten lackierten Pagode und der Haupthalle"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour in Hiroshima, inklusive Guide, Ruhiger Spaziergang auf dem Tempelgelände und Blick auf drei heilige Wasserfälle. Durchgeführt von DeepExperience, Inc., direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "1,5-stündige geführte Tour durch den Mitaki-ji-Tempel in Hiroshima",
+  "metaDescription": "Tour in Hiroshima. Enthalten: Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "itsukushima-shrine-guided-tour-with-a-local-hiroshima": {
+  "title": "Itsukushima-Schrein: geführte Tour mit einem Einheimischen (Hiroshima)",
+  "fullDescription": "Dies ist ein 1,5-stündiges Erlebnis ab Hiroshima, rund um Itsukushima-Schrein, Senjokaku-Pavillon und Gojunoto des Itsukushima-Schreins. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHiroshimas Friedenspark liegt auf dem Boden unter dem Punkt, an dem die Bombe am 6. August 1945 um 8:15 Uhr explodierte. Die Atombombenkuppel, das Skelett der Industrieförderungshalle, wurde so belassen, wie sie stand; das Friedensmuseum öffnete 2019 nach einem Umbau wieder und dauert etwa zwei Stunden und ist nicht für kleine Kinder geeignet. Das Kinderfriedensdenkmal ist mit Papierkranichen behängt, die aus der ganzen Welt gesendet werden. Hiroshimas eigenes Essen ist Okonomiyaki mit Nudeln geschichtet, gegessen an den Theken in Okonomimura. Miyajima ist 40 Minuten entfernt und die meisten Besucher kombinieren beide an einem Tag.\n\nIm Preis enthalten sind Eintritt zum Itsukushima-Schrein und Besuch einer Welterbestätte. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Itsukushima-Schrein",
+   "Senjokaku-Pavillon",
+   "Gojunoto des Itsukushima-Schreins",
+   "Dauer: 1,5 Stunden",
+   "Eintritt zum Itsukushima-Schrein",
+   "Besuch einer Welterbestätte"
+  ],
+  "included": [
+   "Eintritt zum Itsukushima-Schrein",
+   "Besuch einer Welterbestätte"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour in Hiroshima, mit Itsukushima-Schrein, Senjokaku-Pavillon und Gojunoto des Itsukushima-Schreins. Durchgeführt von DeepExperience, Inc., direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Itsukushima-Schrein: geführte Tour mit einem Einheimischen",
+  "metaDescription": "Tour in Hiroshima. Enthalten: Eintritt zum Itsukushima-Schrein. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "private-custom-walking-tour-in-hiroshima": {
   "title": "Private, individuelle Wandertour in Hiroshima",
@@ -20242,6 +20588,32 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Hiroshima: Friedenserlebnis, falten und widmen Sie einen Origami-Kranich",
   "metaDescription": "Tour in Hiroshima. Enthalten: Alle Gebühren und Steuern. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "heritage-walk-and-old-town-walking-tour-itsukushima": {
+  "title": "Erbe-Spaziergang und Altstadt-Wandertour - Itsukushima",
+  "fullDescription": "Dies ist ein 2-stündiges Erlebnis ab Hiroshima, rund um Fähre, Itsukushima-Schrein und Daiganji-Tempel. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nMiyajima, eigentlich Itsukushima, ist die Insel in der Bucht von Hiroshima, deren Schrein auf Stelzen über dem Wasser mit seinem großen Torii-Tor im Meer steht, 1875 wiedererbaut und 2022 restauriert. Das Tor wird bei Niedrigwasser zu Fuß erreicht und schwimmt bei Hochwasser, und die Gezeitentabelle entscheidet, was man sieht; beides lohnt sich. Rehe streifen durchs Dorf, die Seilbahn fährt den Berg Misen hinauf für den Blick über das Binnenmeer, und die lokalen Speisen sind gegrillte Austern und Momiji-Manju-Ahornkuchen. Von Hiroshima aus ist es eine Straßenbahn oder ein Zug nach Miyajimaguchi und eine zehnminütige Fähre, insgesamt etwa 40 Minuten, oder ein direktes Boot vom Friedenspark.\n\nIm Preis enthalten sind Guide, Guide, Fotospots und Eintrittsgebühr für den Itsukushima-Schrein. Nicht enthalten sind Transportgebühren, Persönliche Einkäufe und Zusätzliche Speisen und Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\n日本、〒739-0411 広島県廿日市市宮島口１丁目１１−５. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Fähre",
+   "Itsukushima-Schrein",
+   "Daiganji-Tempel",
+   "Daishoin",
+   "Dauer: 2 Stunden",
+   "Einheimischer Guide"
+  ],
+  "included": [
+   "Einheimischer Guide",
+   "Englischsprachiger Guide",
+   "Fotospots",
+   "Eintrittsgebühr für den Itsukushima-Schrein"
+  ],
+  "notIncluded": [
+   "Transportgebühren",
+   "Persönliche Einkäufe",
+   "Zusätzliche Speisen und Getränke"
+  ],
+  "shortDescription": "2-stündige Tour in Hiroshima, mit Itsukushima-Schrein, Daiganji-Tempel und Daishoin. Durchgeführt von Gappy, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Erbe-Spaziergang und Altstadt-Wandertour - Itsukushima",
+  "metaDescription": "2-stündige Tour in Hiroshima. Enthalten: Guide, Guide und Fotospots. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
  "showa-yokocho-and-teppan-history-walk-in-hiroshima": {
   "title": "Showa-Yokocho- und Teppan-Geschichtsspaziergang in Hiroshima",
   "fullDescription": "Dies ist ein 2,5-stündiges Erlebnis in Hiroshima. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHiroshimas Friedenspark liegt auf dem Boden unter dem Punkt, an dem die Bombe am 6. August 1945 um 8:15 Uhr explodierte. Die Atombombenkuppel, das Skelett der Industrieförderungshalle, wurde so belassen, wie sie stand; das Friedensmuseum öffnete 2019 nach einem Umbau wieder und dauert etwa zwei Stunden und ist nicht für kleine Kinder geeignet. Das Kinderfriedensdenkmal ist mit Papierkranichen behängt, die aus der ganzen Welt gesendet werden. Hiroshimas eigenes Essen ist Okonomiyaki mit Nudeln geschichtet, gegessen an den Theken in Okonomimura. Miyajima ist 40 Minuten entfernt und die meisten Besucher kombinieren beide an einem Tag.\n\nIm Preis enthalten sind Guide. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -20256,6 +20628,27 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Hiroshima, inklusive Guide. Durchgeführt von MARKEVISION株式会社, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Showa-Yokocho- und Teppan-Geschichtsspaziergang in Hiroshima",
   "metaDescription": "Tour in Hiroshima. Enthalten: Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "hiroshima-and-miyajima-6-5-hour-private-tour-spanish-guide-by-local-operator": {
+  "title": "Hiroshima und Miyajima: 6,5-stündige private Tour (spanischer Guide)",
+  "fullDescription": "Dies ist ein 6,5-stündiges Erlebnis in Hiroshima, rund um Zug, Fähre und Miyajima. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHiroshimas Friedenspark liegt auf dem Boden unter dem Punkt, an dem die Bombe am 6. August 1945 um 8:15 Uhr explodierte. Die Atombombenkuppel, das Skelett der Industrieförderungshalle, wurde so belassen, wie sie stand; das Friedensmuseum öffnete 2019 nach einem Umbau wieder und dauert etwa zwei Stunden und ist nicht für kleine Kinder geeignet. Das Kinderfriedensdenkmal ist mit Papierkranichen behängt, die aus der ganzen Welt gesendet werden. Hiroshimas eigenes Essen ist Okonomiyaki mit Nudeln geschichtet, gegessen an den Theken in Okonomimura. Miyajima ist 40 Minuten entfernt und die meisten Besucher kombinieren beide an einem Tag.\n\nIm Preis enthalten sind Privater spanischsprachiger Guide, Eintrittsgebühr und Personalisierte Empfehlungen für Essen und Besichtigungen. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nHIROSHIMA STATION. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Zug",
+   "Fähre",
+   "Miyajima",
+   "Itsukushima-Schrein",
+   "Dauer: 6,5 Stunden",
+   "Privater spanischsprachiger Guide"
+  ],
+  "included": [
+   "Privater spanischsprachiger Guide",
+   "Eintrittsgebühr",
+   "Personalisierte Empfehlungen für Essen und Besichtigungen"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour in Hiroshima, mit Miyajima, Itsukushima-Schrein und Miyajima Omotesando Shopping Street. Durchgeführt von Cornwall Ltd, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hiroshima und Miyajima: 6,5-stündige private Tour",
+  "metaDescription": "Tour in Hiroshima. Enthalten: Privater spanischsprachiger Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "hiroshima-early-morning-peace-memorial-tour-with-guide-by-local-operator": {
   "title": "Hiroshima: früher Morgenbesuch des Friedensmemorials mit Guide",
@@ -20277,6 +20670,146 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Halbtägige Tour in Hiroshima, inklusive Eintrittsgebühr für das Friedensmuseum, Eintrittsgebühr für das JMSDF-Museum und Guide. Durchgeführt von GuideMe Japan, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Hiroshima: früher Morgenbesuch des Friedensmemorials mit Guide",
   "metaDescription": "Halbtägige Tour in Hiroshima. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
+ "hiroshima-and-miyajima-6-5-hour-private-tour-french-guide-by-local-operator": {
+  "title": "Hiroshima und Miyajima: 6,5-stündige private Tour (französischer Guide)",
+  "fullDescription": "Dies ist ein 6,5-stündiges Erlebnis in Hiroshima, rund um Zug, Fähre und Miyajima. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHiroshimas Friedenspark liegt auf dem Boden unter dem Punkt, an dem die Bombe am 6. August 1945 um 8:15 Uhr explodierte. Die Atombombenkuppel, das Skelett der Industrieförderungshalle, wurde so belassen, wie sie stand; das Friedensmuseum öffnete 2019 nach einem Umbau wieder und dauert etwa zwei Stunden und ist nicht für kleine Kinder geeignet. Das Kinderfriedensdenkmal ist mit Papierkranichen behängt, die aus der ganzen Welt gesendet werden. Hiroshimas eigenes Essen ist Okonomiyaki mit Nudeln geschichtet, gegessen an den Theken in Okonomimura. Miyajima ist 40 Minuten entfernt und die meisten Besucher kombinieren beide an einem Tag.\n\nIm Preis enthalten sind Privater französischsprachiger Guide, Eintrittsgebühr und Personalisierte Empfehlungen für Essen und Besichtigungen. Nicht enthalten sind Mahlzeit, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\n広島駅 中央口 みどりの窓口. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Zug",
+   "Fähre",
+   "Miyajima",
+   "Itsukushima-Schrein",
+   "Dauer: 6,5 Stunden",
+   "Privater französischsprachiger Guide"
+  ],
+  "included": [
+   "Privater französischsprachiger Guide",
+   "Eintrittsgebühr",
+   "Personalisierte Empfehlungen für Essen und Besichtigungen"
+  ],
+  "notIncluded": [
+   "Mahlzeit"
+  ],
+  "shortDescription": "Halbtägige Tour in Hiroshima, mit Miyajima, Itsukushima-Schrein und Miyajima Omotesando Shopping Street. Durchgeführt von Cornwall Ltd, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hiroshima und Miyajima: 6,5-stündige private Tour (französischer Guide)",
+  "metaDescription": "Halbtägige Tour in Hiroshima. Enthalten: Privater französischsprachiger Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "japanese-sumi-e-ink-painting-experience-in-hiroshima": {
+  "title": "Japanisches Sumi-e-Tuschmalerei-Erlebnis in Hiroshima",
+  "fullDescription": "Dies ist ein 1,5-stündiges Erlebnis in Hiroshima. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHiroshimas Friedenspark liegt auf dem Boden unter dem Punkt, an dem die Bombe am 6. August 1945 um 8:15 Uhr explodierte. Die Atombombenkuppel, das Skelett der Industrieförderungshalle, wurde so belassen, wie sie stand; das Friedensmuseum öffnete 2019 nach einem Umbau wieder und dauert etwa zwei Stunden und ist nicht für kleine Kinder geeignet. Das Kinderfriedensdenkmal ist mit Papierkranichen behängt, die aus der ganzen Welt gesendet werden. Hiroshimas eigenes Essen ist Okonomiyaki mit Nudeln geschichtet, gegessen an den Theken in Okonomimura. Miyajima ist 40 Minuten entfernt und die meisten Besucher kombinieren beide an einem Tag.\n\nIm Preis enthalten sind Sumi-e-Tuschmalerei-Workshop, Authentische japanische Pinsel und Tinte, Japanisches Papier für das Kunstwerk und Anfängerfreundliche Anleitung. Nicht enthalten sind Transport zum Veranstaltungsort, Speisen und Getränke, Abholung und Rückfahrt zum Hotel und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1,5 Stunden",
+   "Sumi-e-Tuschmalerei-Workshop",
+   "Authentische japanische Pinsel und Tinte",
+   "Japanisches Papier für das Kunstwerk",
+   "Anfängerfreundliche Anleitung"
+  ],
+  "included": [
+   "Sumi-e-Tuschmalerei-Workshop",
+   "Authentische japanische Pinsel und Tinte",
+   "Japanisches Papier für das Kunstwerk",
+   "Anfängerfreundliche Anleitung"
+  ],
+  "notIncluded": [
+   "Transport zum Veranstaltungsort",
+   "Speisen und Getränke",
+   "Abholung und Rückfahrt zum Hotel",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "Tour in Hiroshima, inklusive Sumi-e-Tuschmalerei-Workshop, Authentische japanische Pinsel und Tinte und Japanisches Papier für das Kunstwerk. Durchgeführt von sketch, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Japanisches Sumi-e-Tuschmalerei-Erlebnis in Hiroshima",
+  "metaDescription": "Tour in Hiroshima. Enthalten: Sumi-e-Tuschmalerei-Workshop. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "onigiri-and-miso-soup-and-matcha-cooking-class-in-hiroshima": {
+  "title": "Onigiri-, Misosuppen- und Matcha-Kochkurs in Hiroshima",
+  "fullDescription": "Dies ist ein 1,5-stündiges Erlebnis in Hiroshima. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHiroshimas Friedenspark liegt auf dem Boden unter dem Punkt, an dem die Bombe am 6. August 1945 um 8:15 Uhr explodierte. Die Atombombenkuppel, das Skelett der Industrieförderungshalle, wurde so belassen, wie sie stand; das Friedensmuseum öffnete 2019 nach einem Umbau wieder und dauert etwa zwei Stunden und ist nicht für kleine Kinder geeignet. Das Kinderfriedensdenkmal ist mit Papierkranichen behängt, die aus der ganzen Welt gesendet werden. Hiroshimas eigenes Essen ist Okonomiyaki mit Nudeln geschichtet, gegessen an den Theken in Okonomimura. Miyajima ist 40 Minuten entfernt und die meisten Besucher kombinieren beide an einem Tag.\n\nIm Preis enthalten sind Kochkurs-Erlebnis mit lokalen Müttern, Japanische Süßigkeiten Wagashi und Getränke. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1,5 Stunden",
+   "Kochkurs-Erlebnis mit lokalen Müttern (Onigiri/Reisball, Misosuppe, Matcha)",
+   "Japanische Süßigkeiten Wagashi",
+   "Getränke"
+  ],
+  "included": [
+   "Kochkurs-Erlebnis mit lokalen Müttern (Onigiri/Reisball, Misosuppe, Matcha)",
+   "Japanische Süßigkeiten Wagashi",
+   "Getränke"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour in Hiroshima, inklusive Kochkurs-Erlebnis mit lokalen Müttern, Japanische Süßigkeiten Wagashi und Getränke. Durchgeführt von Onigiri Hiroshima, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Onigiri-, Misosuppen- und Matcha-Kochkurs in Hiroshima",
+  "metaDescription": "Tour in Hiroshima. Enthalten: Kochkurs-Erlebnis mit lokalen Müttern. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "hiroshima-and-miyajima-2-unesco-sites-with-a-local-guide-by-local-operator": {
+  "title": "Hiroshima und Miyajima: 2 UNESCO-Stätten mit einem lokalen Guide",
+  "fullDescription": "Dies ist ein 6-stündiges Erlebnis in Hiroshima, rund um Zug, Fähre und Schwimmendes Torii-Tor von Itsukushima. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nHiroshimas Friedenspark liegt auf dem Boden unter dem Punkt, an dem die Bombe am 6. August 1945 um 8:15 Uhr explodierte. Die Atombombenkuppel, das Skelett der Industrieförderungshalle, wurde so belassen, wie sie stand; das Friedensmuseum öffnete 2019 nach einem Umbau wieder und dauert etwa zwei Stunden und ist nicht für kleine Kinder geeignet. Das Kinderfriedensdenkmal ist mit Papierkranichen behängt, die aus der ganzen Welt gesendet werden. Hiroshimas eigenes Essen ist Okonomiyaki mit Nudeln geschichtet, gegessen an den Theken in Okonomimura. Miyajima ist 40 Minuten entfernt und die meisten Besucher kombinieren beide an einem Tag.\n\nIm Preis enthalten sind Guide und Eintrittsgebühr. Nicht enthalten sind Transportgebühr und Speisen und Getränke, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\n7-Eleven+Heart-in JR Shiroshima Station Local lines. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Zug",
+   "Fähre",
+   "Schwimmendes Torii-Tor von Itsukushima",
+   "Itsukushima-Schrein",
+   "Dauer: 6 Stunden",
+   "Einheimischer Guide"
+  ],
+  "included": [
+   "Einheimischer Guide",
+   "Eintrittsgebühr (Itsukushima-Schrein, Senjokaku-Halle, Hiroshima-Friedensmuseum)"
+  ],
+  "notIncluded": [
+   "Transportgebühr",
+   "Speisen und Getränke"
+  ],
+  "shortDescription": "Halbtägige Tour in Hiroshima, mit Schwimmendes Torii-Tor von Itsukushima, Itsukushima-Schrein und Miyajima Omotesando Shopping Street. Durchgeführt von Evergrove, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Hiroshima und Miyajima: 2 UNESCO-Stätten mit einem lokalen Guide",
+  "metaDescription": "Halbtägige Tour in Hiroshima. Enthalten: Guide und Eintrittsgebühr. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "nara-and-kyoto-ancient-charm-one-day-tour-by-local-operator": {
+  "title": "Nara und Kyoto: Eintagestour mit antikem Charme",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis in Nara, rund um Kiyomizu-dera, Bus/Reisebus und Fushimi Inari Taisha. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nKyoto war über tausend Jahre lang bis 1868 Japans Hauptstadt und hat 17 UNESCO-gelistete Stätten unter rund 2.000 Tempeln und Schreinen. Die großen drei sind Kinkaku-ji, der Goldene Pavillon, mit Goldblatt bedeckt und am besten im Morgenlicht; Kiyomizu-dera, die Holzbühne auf den östlichen Hügeln mit den Higashiyama-Gassen von Sannenzaka und Ninenzaka darunter; und die Tore von Fushimi Inari. Die Burg Nijo hat die Nachtigallenböden, die gegen Eindringlinge quietschen, und Ryoan-ji den Steingarten. Tempel öffnen gegen 8:00 oder 9:00 Uhr und schließen um 17:00 Uhr, und der Stadtbus ist langsam; ein Tag mit einem Fahrer oder Guide, der die Stopps gegen die Menschenmassen ordnet, macht den Unterschied zwischen vier Sehenswürdigkeiten und sieben.\n\nIm Preis enthalten sind Fahrzeugkosten, Passagierversicherung und Fahrer- und Guide-Servicegebühren. Nicht enthalten sind Mahlzeiten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\n日本橋（大阪）. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Kiyomizu-dera",
+   "Bus/Reisebus",
+   "Fushimi Inari Taisha",
+   "Nara-Park",
+   "Dauer: 10 Stunden",
+   "Fahrzeugkosten"
+  ],
+  "included": [
+   "Fahrzeugkosten",
+   "Passagierversicherung",
+   "Fahrer- und Guide-Servicegebühren"
+  ],
+  "notIncluded": [
+   "Mahlzeiten"
+  ],
+  "shortDescription": "Ganztägige Tour in Nara, mit Kiyomizu-dera, Fushimi Inari Taisha und Nara-Park. Durchgeführt von JHT HOLIDAY TRAVEL, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Nara und Kyoto: Eintagestour mit antikem Charme",
+  "metaDescription": "Ganztägige Tour in Nara. Enthalten: Fahrzeugkosten und Passagierversicherung. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "nara-customized-private-tour-in-1-day-with-licensed-guide-by-local-operator": {
+  "title": "Nara: individuelle private Eintagestour mit lizenziertem Guide",
+  "fullDescription": "Dies ist ein 6-stündiges Erlebnis in Nara. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nNara war Japans erste dauerhafte Hauptstadt, von 710 bis 784, und sein Park beherbergt Todai-ji, dessen Großbuddha-Halle eines der größten Holzgebäude der Welt ist und einen 15 Meter hohen Bronze-Buddha enthält, der 752 gegossen wurde, Kasuga Taisha mit seinen dreitausend Laternen, und etwa 1.200 Sika-Hirsche, die als Boten der Götter gelten und geschützt sind. Die Hirsche verneigen sich für die im Park verkauften Shika-Senbei-Kräcker und stoßen jeden, der sie reizt. Nara ist 45 Minuten von Kyoto oder Osaka mit dem Zug entfernt und ist ein halber Tag; Todai-ji vor 10:00 Uhr ist die ruhige Stunde.\n\nIm Preis enthalten sind Private und individuelle 4- oder 6-stündige Tour, Lizenzierter einheimischer Guide, Abholung zu Fuß von Ihrer Unterkunft und Rundgang zu Fuß. Nicht enthalten sind Speisen und Getränke, Etwaige Eintrittsgebühr, Transport zum und vom Treffpunkt und Gebühr für öffentlichen/privaten Transport während der Tour, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nAbholung vom Hotel in Nara. Japan Guide Agency, JGA Inc. bestätigt Abholzeit und genauen Ort, sobald die Buchung eingegangen ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 6 Stunden",
+   "Private und individuelle 4- oder 6-stündige Tour",
+   "Lizenzierter einheimischer Guide",
+   "Abholung zu Fuß von Ihrer Unterkunft (falls in angemessener Entfernung)",
+   "Wandertour (anderer Transport kann gegen Aufpreis organisiert werden)"
+  ],
+  "included": [
+   "Private und individuelle 4- oder 6-stündige Tour",
+   "Lizenzierter einheimischer Guide",
+   "Abholung zu Fuß von Ihrer Unterkunft (falls in angemessener Entfernung)",
+   "Wandertour (anderer Transport kann gegen Aufpreis organisiert werden)"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke",
+   "Etwaige Eintrittsgebühr",
+   "Transport zum und vom Treffpunkt",
+   "Gebühr für öffentlichen/privaten Transport während der Tour"
+  ],
+  "shortDescription": "Halbtägige Tour in Nara, inklusive Private und individuelle 4- oder 6-stündige Tour, Lizenzierter einheimischer Guide und Abholung zu Fuß von Ihrer Unterkunft. Durchgeführt von Japan Guide Agency, JGA Inc., direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Nara: individuelle private Eintagestour mit lizenziertem Guide",
+  "metaDescription": "Halbtägige Tour in Nara. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "deer-park-todai-ji-and-naramachi-walking-tour": {
   "title": "Wandertour durch den Hirschpark, Todai-ji und Naramachi",
@@ -20300,6 +20833,56 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "2,5-stündige Tour in Nara, inklusive Geführter Rundgang zu Fuß, Besuch des Nara-Parks und Besuch von Kasuga Taisha. Durchgeführt von Native Japan, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Wandertour durch den Hirschpark, Todai-ji und Naramachi",
   "metaDescription": "2,5-stündige Tour in Nara. Enthalten: Geführter Rundgang zu Fuß. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "old-town-alleys-temple-culture-and-fresh-mochi-in-nara": {
+  "title": "Altstadtgassen, Tempelkultur und frischer Mochi in Nara",
+  "fullDescription": "Dies ist ein 1,5-stündiges Erlebnis in Nara. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nNara war Japans erste dauerhafte Hauptstadt, von 710 bis 784, und sein Park beherbergt Todai-ji, dessen Großbuddha-Halle eines der größten Holzgebäude der Welt ist und einen 15 Meter hohen Bronze-Buddha enthält, der 752 gegossen wurde, Kasuga Taisha mit seinen dreitausend Laternen, und etwa 1.200 Sika-Hirsche, die als Boten der Götter gelten und geschützt sind. Die Hirsche verneigen sich für die im Park verkauften Shika-Senbei-Kräcker und stoßen jeden, der sie reizt. Nara ist 45 Minuten von Kyoto oder Osaka mit dem Zug entfernt und ist ein halber Tag; Todai-ji vor 10:00 Uhr ist die ruhige Stunde.\n\nIm Preis enthalten sind Guide, Eintrittsgebühr für den Gangoji-Tempel, Geführte Wandertour durch Naramachi und Frische Mochi-Verkostung bei Nakatanidou. Nicht enthalten sind Zusätzliche Speisen und Getränke, Fahrt zum Treffpunkt und Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1,5 Stunden",
+   "Englischsprachiger Guide",
+   "Eintrittsgebühr für den Gangoji-Tempel",
+   "Geführte Wandertour durch Naramachi",
+   "Frische Mochi-Verkostung bei Nakatanidou"
+  ],
+  "included": [
+   "Englischsprachiger Guide",
+   "Eintrittsgebühr für den Gangoji-Tempel",
+   "Geführte Wandertour durch Naramachi",
+   "Frische Mochi-Verkostung bei Nakatanidou"
+  ],
+  "notIncluded": [
+   "Zusätzliche Speisen und Getränke",
+   "Fahrt zum Treffpunkt",
+   "Persönliche Ausgaben"
+  ],
+  "shortDescription": "1,5-stündige Tour in Nara, inklusive Guide, Eintrittsgebühr für den Gangoji-Tempel und Geführte Wandertour durch Naramachi. Durchgeführt von DeepExperience, Inc., direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Altstadtgassen, Tempelkultur und frischer Mochi in Nara",
+  "metaDescription": "1,5-stündige Tour in Nara. Enthalten: Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "kyoto-gion-and-nara-culture-and-heritage-full-day-tour-by-local-operator": {
+  "title": "Kyoto, Gion und Nara: ganztägige Kultur- und Erbe-Tour",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis in Nara, rund um Bus/Reisebus, Kiyomizu-dera und Fushimi Inari Taisha. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nGion ist Kyotos historisches Unterhaltungsviertel, die Straßen mit hölzernen Machiya-Häusern um Hanamikoji, wo die Geiko und Maiko des Gion-Kobu-Bezirks noch arbeiten. Sie sind arbeitende Profis auf dem Weg zu Terminen, keine Straßenkünstler, und Kyoto hat Fotografieren in den privaten Gassen verboten; ein Abendspaziergang mit einem Guide, der das Ochaya-System erklärt, ist die respektvolle Art, es zu sehen. Teezeremonie-Sitzungen in Gion lehren die Grundform der Matcha-Zubereitung in einer Stunde. Kimono-Verleih für einen Tag, mit Anziehen und Frisur, ist ein etabliertes Geschäft im Bezirk und wird begrüßt statt abgelehnt.\n\nIm Preis enthalten sind Transport in einem komfortablen Fahrzeug während des gesamten Tages, Alle Autobahngebühren und Parkkosten und Guide. Nicht enthalten sind Mahlzeiten, Persönliche Ausgaben und Tickets für die Sehenswürdigkeiten, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Kiyomizu-dera",
+   "Fushimi Inari Taisha",
+   "Nara-Park",
+   "Dauer: 10 Stunden",
+   "Transport in einem komfortablen Fahrzeug während des gesamten Tages"
+  ],
+  "included": [
+   "Transport in einem komfortablen Fahrzeug während des gesamten Tages",
+   "Alle Autobahngebühren und Parkkosten",
+   "Guide"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persönliche Ausgaben",
+   "Tickets für die Sehenswürdigkeiten"
+  ],
+  "shortDescription": "Ganztägige Tour in Nara, mit Kiyomizu-dera, Fushimi Inari Taisha und Nara-Park. Durchgeführt von Wandering Japan Adventure, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Kyoto, Gion und Nara: ganztägige Kultur- und Erbe-Tour",
+  "metaDescription": "Ganztägige Tour in Nara. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "pre-dawn-heritage-walk-with-local-guide-in-nara": {
   "title": "Vordämmerungs-Erbe-Spaziergang mit lokalem Guide in Nara",
@@ -20412,6 +20995,28 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Nara, inklusive Geführte Wandertour durch Imai-chō, Guide und Einblick in Japans Handelsgeschichte und lokales Leben. Durchgeführt von DeepExperience, Inc., direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Treten Sie in die Straßen der Edo-Zeit in Imais historischer Stadt in Nara ein",
   "metaDescription": "Tour in Nara. Enthalten: Geführte Wandertour durch Imai-chō und Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "day-tour-to-arashiyama-nara-park-and-fushimi-inari-taisha-by-local-operator": {
+  "title": "Tagestour nach Arashiyama, Nara-Park und Fushimi Inari Taisha",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis in Nara, rund um Bus/Reisebus, Arashiyama und Nara-Park. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nFushimi Inari Taisha ist der Haupttempel von Inari, der Gottheit des Reises und des Geschäfts, und seine über tausend vermillonroten Torii-Tore, jedes von einem Unternehmen oder einer Familie gespendet, verlaufen in Tunneln den 233 Meter hohen Berg Inari hinter der Haupthalle hinauf. Die vollständige Schleife zum Gipfel ist etwa vier Kilometer lang und dauert zwei Stunden; die meisten Besucher kehren am Aussichtspunkt Yotsutsuji auf halbem Weg um. Es ist 24 Stunden geöffnet und kostenlos, was es zur einzigen großen Sehenswürdigkeit Kyotos macht, die man bei Sonnenaufgang oder nach Einbruch der Dunkelheit besuchen kann, wenn die Tore leer und beleuchtet sind. Bis neun Uhr morgens sind die unteren Tunnel eine langsame Schlange. Die Fuchsstatuen tragen Schlüssel zur Reisscheune im Mund.\n\nIm Preis enthalten sind Chinesisch- und englischsprachiger Reiseführer und Reisebus. Nicht enthalten sind Mittagessen, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Arashiyama",
+   "Nara-Park",
+   "Fushimi Inari Taisha",
+   "Dauer: 10 Stunden",
+   "Chinesisch- und englischsprachiger Reiseführer"
+  ],
+  "included": [
+   "Chinesisch- und englischsprachiger Reiseführer",
+   "Reisebus"
+  ],
+  "notIncluded": [
+   "Mittagessen"
+  ],
+  "shortDescription": "Ganztägige Tour in Nara, mit Arashiyama, Nara-Park und Fushimi Inari Taisha. Durchgeführt von 株式会社星辰, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Tagestour nach Arashiyama, Nara-Park und Fushimi Inari Taisha",
+  "metaDescription": "Ganztägige Tour in Nara. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
  },
  "design-your-own-deer-ceramic-figurine-with-shipping-in-nara": {
   "title": "Entwerfen Sie Ihre eigene Keramik-Hirschfigur mit Versand in Nara",
@@ -21105,6 +21710,26 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Reservierung im Top-Restaurant von Kobe für A5-Kobe-Rindfleisch",
   "metaDescription": "2-stündige Tour in Osaka. Enthalten: Vollständiges Menü und Umsatzsteuer. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
+ "chopstick-making-workshop-with-local-instructor-in-osaka": {
+  "title": "Workshop zur Herstellung von Essstäbchen mit lokalem Instruktor in Osaka",
+  "fullDescription": "Dies ist ein 1-stündiges Erlebnis in Osaka. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nOsaka ist Japans Küche: die Stadt, die Takoyaki, Okonomiyaki und Kushikatsu erfunden hat, und Dotonboris Kanal mit Neonschildern ist, wo man sie isst. Die Burg Osaka ist ein Betonnachbau von 1931 der Festung Hideyoshis mit einem Museum im Inneren und einem Burggraben und Park, die eine Stunde wert sind; der Kuromon-Markt ist der Lebensmittelmarkt; Shinsekai ist das Retro-Viertel unter dem Tsutenkaku-Turm; das Umeda Sky Building hat das Freiluft-Observatorium. Osaka ist die Basis für Tagesausflüge nach Nara, Kobe, Himeji und Koyasan, alle unter anderthalb Stunden entfernt. Die Stadt ist lauter und billiger als Kyoto und ihre Bewohner sind dafür bekannt.\n\nIm Preis enthalten sind Workshop zur Herstellung von Essstäbchen und Standardholz und Kursleiter. Nicht enthalten sind Optionale Upgrades vor Ort gegen Aufpreis verfügbar und Abholung und Rückfahrt zum Hotel, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Dauer: 1 Stunde",
+   "Workshop zur Herstellung von Essstäbchen und Standardholz",
+   "Englischsprachiger Instruktor"
+  ],
+  "included": [
+   "Workshop zur Herstellung von Essstäbchen und Standardholz",
+   "Englischsprachiger Instruktor"
+  ],
+  "notIncluded": [
+   "Optionale Upgrades vor Ort gegen Aufpreis verfügbar",
+   "Abholung und Rückfahrt zum Hotel"
+  ],
+  "shortDescription": "1-stündige Tour in Osaka, inklusive Workshop zur Herstellung von Essstäbchen und Standardholz und Kursleiter. Durchgeführt von Sushi Making Japan | Cooking Class in Japan, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Workshop zur Herstellung von Essstäbchen mit lokalem Instruktor in Osaka",
+  "metaDescription": "1-stündige Tour in Osaka. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen"
+ },
  "katsuoji-temple-guided-tour-in-osaka": {
   "title": "Geführte Tour durch den Katsuoji-Tempel in Osaka",
   "fullDescription": "Dies ist ein 4-stündiges Erlebnis in Osaka. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nOsaka ist Japans Küche: die Stadt, die Takoyaki, Okonomiyaki und Kushikatsu erfunden hat, und Dotonboris Kanal mit Neonschildern ist, wo man sie isst. Die Burg Osaka ist ein Betonnachbau von 1931 der Festung Hideyoshis mit einem Museum im Inneren und einem Burggraben und Park, die eine Stunde wert sind; der Kuromon-Markt ist der Lebensmittelmarkt; Shinsekai ist das Retro-Viertel unter dem Tsutenkaku-Turm; das Umeda Sky Building hat das Freiluft-Observatorium. Osaka ist die Basis für Tagesausflüge nach Nara, Kobe, Himeji und Koyasan, alle unter anderthalb Stunden entfernt. Die Stadt ist lauter und billiger als Kyoto und ihre Bewohner sind dafür bekannt.\n\nIm Preis enthalten sind Guide und Eintrittsgebühr für den Katsuoji-Tempel. Nicht enthalten sind Persönliche Ausgaben, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nTreffpunkt und Uhrzeit werden Ihnen per E-Mail mitgeteilt, sobald die Buchung bestätigt ist. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
@@ -21160,6 +21785,31 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "Tour in Osaka, inklusive Erlebnis und Nutzung der erforderlichen Werkzeuge. Durchgeführt von B.B.Advisors Inc. AN OSAKA, direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Herstellung traditioneller japanischer Süßigkeiten und Teezeremonie in Osaka",
   "metaDescription": "Tour in Osaka. Enthalten: Erlebnis und Nutzung der erforderlichen Werkzeuge. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "kyoto-and-nara-small-group-tour-with-temples-and-deer-park": {
+  "title": "Kleingruppentour durch Kyoto und Nara mit Tempeln und Hirschpark",
+  "fullDescription": "Dies ist ein 10-stündiges Erlebnis in Nara, rund um Bus/Reisebus, Kinkaku-ji und Arashiyama. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nKyoto war über tausend Jahre lang bis 1868 Japans Hauptstadt und hat 17 UNESCO-gelistete Stätten unter rund 2.000 Tempeln und Schreinen. Die großen drei sind Kinkaku-ji, der Goldene Pavillon, mit Goldblatt bedeckt und am besten im Morgenlicht; Kiyomizu-dera, die Holzbühne auf den östlichen Hügeln mit den Higashiyama-Gassen von Sannenzaka und Ninenzaka darunter; und die Tore von Fushimi Inari. Die Burg Nijo hat die Nachtigallenböden, die gegen Eindringlinge quietschen, und Ryoan-ji den Steingarten. Tempel öffnen gegen 8:00 oder 9:00 Uhr und schließen um 17:00 Uhr, und der Stadtbus ist langsam; ein Tag mit einem Fahrer oder Guide, der die Stopps gegen die Menschenmassen ordnet, macht den Unterschied zwischen vier Sehenswürdigkeiten und sieben.\n\nIm Preis enthalten sind Sorgfältig ausgewählter Experten-Guide und Alle Transporte. Nicht enthalten sind Mahlzeiten und Getränke, Eintrittsgebühren Kyoto und Nara, Persönliche Reiseversicherung und Trinkgelder, diese Kosten kommen hinzu. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\n604 Banochō, Nakagyo Ward, Kyoto, 604-8172, Japan. Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Bus/Reisebus",
+   "Kinkaku-ji",
+   "Arashiyama",
+   "Fushimi Inari Taisha",
+   "Dauer: 10 Stunden",
+   "Sorgfältig ausgewählter Experten-Guide"
+  ],
+  "included": [
+   "Sorgfältig ausgewählter Experten-Guide",
+   "Alle Transporte"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke",
+   "Eintrittsgebühren Kyoto und Nara (ca. 1.300 JPY pro Person)",
+   "Persönliche Reiseversicherung",
+   "Trinkgelder"
+  ],
+  "shortDescription": "Ganztägige Tour in Nara, mit Kinkaku-ji, Arashiyama und Fushimi Inari Taisha. Durchgeführt von Tourist Japan Tours, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Kleingruppentour durch Kyoto und Nara mit Tempeln und Hirschpark",
+  "metaDescription": "Ganztägige Tour in Nara. Enthalten: Sorgfältig ausgewählter Experten-Guide. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "kyoto-private-tour-iconic-sights-and-hidden-gems-with-a-local-by-local-operator": {
   "title": "Kyoto: private Tour zu ikonischen Sehenswürdigkeiten und versteckten Schätzen mit einem Einheimischen",
@@ -21962,6 +22612,24 @@ export const DE_TOURS: Record<string, TourT> = {
   "shortDescription": "1-stündige Tour in Kyoto, mit Ginkaku-ji-Tempel und Finish at. Durchgeführt von DeepExperience, Inc., direkt gebucht statt über einen Wiederverkäufer.",
   "metaTitle": "Geführte Tour durch den Silbernen Pavillon Ginkakuji in 1 Stunde",
   "metaDescription": "1-stündige Tour in Kyoto. Enthalten: Guide und Eintritt zum Ginkakuji-Tempel. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
+ },
+ "nijo-castle-admission-world-heritage-guided-tour-in-kyoto": {
+  "title": "Eintritt zur Burg Nijo: geführte Welterbe-Tour in Kyoto",
+  "fullDescription": "Dies ist ein 1,5-stündiges Erlebnis ab Kyoto, rund um Burg Nijo. Wir halten Ihren Platz beim Anbieter, bevor wir Ihre Buchung als endgültig behandeln.\n\nKyoto war über tausend Jahre lang bis 1868 Japans Hauptstadt und hat 17 UNESCO-gelistete Stätten unter rund 2.000 Tempeln und Schreinen. Die großen drei sind Kinkaku-ji, der Goldene Pavillon, mit Goldblatt bedeckt und am besten im Morgenlicht; Kiyomizu-dera, die Holzbühne auf den östlichen Hügeln mit den Higashiyama-Gassen von Sannenzaka und Ninenzaka darunter; und die Tore von Fushimi Inari. Die Burg Nijo hat die Nachtigallenböden, die gegen Eindringlinge quietschen, und Ryoan-ji den Steingarten. Tempel öffnen gegen 8:00 oder 9:00 Uhr und schließen um 17:00 Uhr, und der Stadtbus ist langsam; ein Tag mit einem Fahrer oder Guide, der die Stopps gegen die Menschenmassen ordnet, macht den Unterschied zwischen vier Sehenswürdigkeiten und sieben.\n\nIm Preis enthalten sind Eintritt zur Burg Nijo und 1,5-stündige geführte Tour. Alle Leistungen sind auf dieser Seite vollständig aufgeführt; was dort nicht steht, ist nicht im Preis enthalten.\n\nBahnhof Nijojo-mae (Burg Nijo-jo). Wir brauchen mindestens einen Tag Vorlauf und bestätigen den Termin, bevor wir Ihre Buchung als endgültig behandeln. Lässt sich der Termin nicht bestätigen, sagen wir Ihnen Bescheid und erstatten den Betrag, statt Sie warten zu lassen.",
+  "highlights": [
+   "Burg Nijo",
+   "Dauer: 1,5 Stunden",
+   "Eintritt zur Burg Nijo",
+   "1,5-stündige geführte Tour"
+  ],
+  "included": [
+   "Eintritt zur Burg Nijo",
+   "1,5-stündige geführte Tour"
+  ],
+  "notIncluded": [],
+  "shortDescription": "Tour in Kyoto, mit Burg Nijo. Durchgeführt von Japan Guide Stars, direkt gebucht statt über einen Wiederverkäufer.",
+  "metaTitle": "Eintritt zur Burg Nijo: geführte Welterbe-Tour in Kyoto",
+  "metaDescription": "Tour in Kyoto. Enthalten: Eintritt zur Burg Nijo. Direkt beim lokalen Anbieter gebucht, Bestätigung vor der endgültigen Buchung."
  },
  "sacred-pathways-discover-the-philosopher-s-path-of-kyoto-by-local-operator": {
   "title": "Heilige Pfade: Entdecken Sie den Philosophenweg von Kyoto",
