@@ -23272,6 +23272,82 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "delhi-red-fort-light-sound-and-dance-show-guided": {
+  "title": "Delhi: geführte Tour zur Ton-, Licht-, und Tanzshow am Red Fort",
+  "metaTitle": "Delhi: Red Fort, Ton- und Lichtshow",
+  "metaDescription": "Immersives Erzählen: erleben Sie 400 Jahre Geschichte.",
+  "shortDescription": "Immersives Erzählen: erleben Sie 400 Jahre Geschichte.",
+  "fullDescription": "Delhi: geführte Tour zur Ton-, Licht-, und Tanzshow am Red Fort. Immersives Erzählen: erleben Sie 400 Jahre Geschichte.\n\nWährend die Sonne unter Delhis Skyline sinkt, erwacht das Red Fort mit dem Echo seiner geschichtsträchtigen Vergangenheit. Crimson Echoes ist eine immersive Abendshow, die Licht, Ton, und Erzählkunst vereint, um Sie durch Jahrhunderte von Mogul-Pracht, kolonialer Spannung, und Indiens Aufstieg zur Freiheit zu führen. Die ikonischen Mauern aus rotem Sandstein werden zur lebendigen Leinwand, und beleuchten Geschichten von Kaisern, Dichtern, Rebellen, und Träumern. Dieses unvergessliche Erlebnis bietet eine poetische, emotionale, und visuell beeindruckende Reise durch Indiens Seele, perfekt für Geschichtsliebhaber, Reisende, und Einheimische gleichermaßen. Erleben Sie das Fort nicht nur als Denkmal, sondern als Stimme aus der Vergangenheit.\n\n**Was ist enthalten**\nEintrittskarte für das Red Fort\nTon- und Lichtshow am Red Fort\nErzählung der Geschichte Indiens\nAbholung und Rückfahrt zum Hotel\nProfessioneller Guide\nParkgebühren\nMautgebühren\nTreibstoffkosten\nSteuern\nÖrtliche Erfrischungen oder Chai (optional)\nKomfortabler und privater Transport\n\n**Nicht enthalten**\nPersönliche Ausgaben\nUpgrades: Upgrades auf höhere Sitzkategorien oder zusätzliche Dienstleistungen können zusätzliche Kosten verursachen\nGratifikationen: Trinkgelder für Guides oder Fahrer sind nicht enthalten, und liegen in Ihrem Ermessen\nMahlzeiten und Getränke: Essen und Getränke werden während der Show nicht bereitgestellt",
+  "highlights": [
+   "Immersives Erzählen: erleben Sie 400 Jahre Geschichte"
+  ],
+  "included": [
+   "Eintrittskarte für das Red Fort",
+   "Ton- und Lichtshow am Red Fort",
+   "Erzählung der Geschichte Indiens",
+   "Abholung und Rückfahrt zum Hotel",
+   "Professioneller Guide",
+   "Parkgebühren",
+   "Mautgebühren",
+   "Treibstoffkosten",
+   "Steuern",
+   "Örtliche Erfrischungen oder Chai (optional)",
+   "Komfortabler und privater Transport"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Upgrades: Upgrades auf höhere Sitzkategorien oder zusätzliche Dienstleistungen können zusätzliche Kosten verursachen",
+   "Gratifikationen: Trinkgelder für Guides oder Fahrer sind nicht enthalten, und liegen in Ihrem Ermessen",
+   "Mahlzeiten und Getränke: Essen und Getränke werden während der Show nicht bereitgestellt"
+  ]
+ },
+ "from-delhi-3-days-golden-triangle-tour": {
+  "title": "Ab Delhi: 3-tägige Golden-Triangle-Tour",
+  "metaTitle": "Delhi: Golden Triangle 3 Tage",
+  "metaDescription": "Besuchen Sie Alt- und New Delhi und ihre Architektur.",
+  "shortDescription": "Besuchen Sie Alt- und New Delhi und ihre Architektur.",
+  "fullDescription": "Ab Delhi: 3-tägige Golden-Triangle-Tour. Besuchen Sie Alt- und New Delhi und ihre Architektur.\n\n**Tag 1: Erkundung von Delhi, und Fahrt nach Agra**\n\nSie werden morgens von unserem Fahrer am Flughafen/Hotel abgeholt. Fahrt zu einer der größten Moscheen Indiens, der Jama Masjid. Nach der Erkundung der Moschee genießen Sie eine Rikscha-Fahrt durch eine enge Straße im Markt von Chandni Chowk.\nSie fahren am Red Fort vorbei, das 1648 von Shah Jahan erbaut wurde. Dann erreichen Sie das Denkmal für Mahatma Gandhi. Sehen Sie India Gate und die Präsidentengebäude bei der Durchfahrt. Besuchen Sie dann Guru Dwara Bangla Sahib (Sikh-Tempel). Hier können Sie die Küche besuchen, in der täglich zwischen 5 und 10.000 Menschen gespeist werden. Besuchen Sie Humayuns Grabmal. Es ist das erste Gartengrabmal Indiens. Besuchen Sie dann den Lotustempel, der als Bahá'í-Andachtshaus bezeichnet wird. Nach Abschluss dieser Besichtigung Fahrt nach Agra.\nÜbernachtung in Agra.\n\n**Tag 2: Erkundung von Agra, und Fahrt nach Jaipur**\n\nFrüh morgens holt Sie Ihr Guide vom Hotel ab, um das Taj Mahal beim Sonnenaufgang zu besuchen, um die hinreißende Schönheit von Indiens berühmtestem Denkmal zu sehen, und kehren dann zum Hotel zurück.\nNach dem Frühstück besuchen Sie das Agra-Fort, Residenz der königlichen Mogul-Familie. Eines der größten Forts Indiens. Dann geht es weiter nach Jaipur. Unterwegs besuchen Sie das Fatehpur-Sikri-Fort. Übernachtung in Jaipur.\n\n**Tag 3: Erkundung von Jaipur, und Abreise**\n\nDiesen Morgen zeigt Ihnen Ihr Guide die Pink City (Stadt Jaipur). Besuchen Sie das Amber-Fort, bekannt für seine Mischung aus indo-islamischer Architektur, goldplattierter Malerei, Spiegelarbeit, und auch europäischer Architektur. Danach Fotostopp am Jal Mahal. Jal Mahal bedeutet „Wasserpalast\"; dieser Wasserpalast liegt mitten im Man-Sagar-See in Jaipur. Erkunden Sie den Hawa Mahal, Palast der Winde, dessen hohe Gitterwände so gebaut wurden, dass die Frauen des königlichen Haushalts Straßenfeste beobachten konnten, ohne von außen gesehen zu werden. Besuchen Sie dann den City Palace, der der Sitz der Maharadschas von Jaipur war, erbaut 1727 n. Chr. von Sawai Jai Singh. Ein großer Teil des Palastes wurde in ein königliches Museum umgewandelt, wo wir die private Sammlung der Maharadschas von Jaipur sehen werden. Danach erkunden Sie das Jantar Mantar, eine Sammlung von neunzehn architektonischen astronomischen Instrumenten, erbaut vom Rajput-König Sawai Jay Singh, und fertiggestellt im Jahr 1734 n. Chr. Hier entdecken Sie die größte steinerne Sonnenuhr der Welt, eine UNESCO-Weltkulturerbestätte. Erkunden Sie danach das örtliche Kunsthandwerk der Stadt Jaipur, bekannt für ihr Kunsthandwerk.\n\nNach 3 genussvollen Tagen fährt Sie der Fahrer zurück nach Delhi, und setzt Sie an Ihrem Ort ab.\nIhre Tour endet! Tragen Sie die Erinnerungen an diesen süßen Urlaub in Ihrem Herzen!\n\n**Was ist enthalten**\nAbholung und Rückfahrt\nPrivates klimatisiertes SUV- oder Limousinen-Auto mit professionellem Chauffeur\nLive-Reiseführer-Service\nRikscha-Fahrt im Basar von Chandni Chowk\n3-/4-/5-Sterne-Hotel mit täglichem Frühstück (falls Option gewählt wird)\nEintrittsgebühr für Denkmäler (falls Option gewählt wird)\nUnbegrenztes Wasser und Servietten\nAlle anfallenden Steuern\n\n**Nicht enthalten**\nTrinkgelder/Gratifikationen\nAlles, was nicht unter den obigen Einschlüssen aufgeführt ist",
+  "highlights": [
+   "Besuchen Sie Alt- und New Delhi und ihre Architektur"
+  ],
+  "included": [
+   "Abholung und Rückfahrt",
+   "Privates klimatisiertes SUV- oder Limousinen-Auto mit professionellem Chauffeur",
+   "Live-Reiseführer-Service",
+   "Rikscha-Fahrt im Basar von Chandni Chowk",
+   "3-/4-/5-Sterne-Hotel mit täglichem Frühstück (falls Option gewählt wird)",
+   "Eintrittsgebühr für Denkmäler (falls Option gewählt wird)",
+   "Unbegrenztes Wasser und Servietten",
+   "Alle anfallenden Steuern"
+  ],
+  "notIncluded": [
+   "Trinkgelder/Gratifikationen",
+   "Alles, was nicht unter den obigen Einschlüssen aufgeführt ist"
+  ]
+ },
+ "from-delhi-2-days-jim-corbett-tiger-safari-tour": {
+  "title": "Ab Delhi: 2-tägige Jim-Corbett-Tiger-Safari-Tour mit dem Auto",
+  "metaTitle": "Delhi: Jim Corbett 2 Tage, Tiger-Safari",
+  "metaDescription": "Komfortabler Autotransfer ab Delhi, mit Abholung und Rückfahrt von Tür zu Tür.",
+  "shortDescription": "Komfortabler Autotransfer ab Delhi, mit Abholung und Rückfahrt von Tür zu Tür.",
+  "fullDescription": "Ab Delhi: 2-tägige Jim-Corbett-Tiger-Safari-Tour mit dem Auto. Komfortabler Autotransfer ab Delhi, mit Abholung und Rückfahrt von Tür zu Tür.\n\n**Tag 1: Delhi zum Jim-Corbett-Nationalpark, Ankunft und Abend-Safari**\nIhre Reise beginnt früh morgens mit einer bequemen privaten Autoabholung von Ihrem Hotel in Delhi. Lehnen Sie sich zurück, und genießen Sie eine malerische Fahrt zum Jim-Corbett-Nationalpark, Indiens ältestem Nationalpark, eingebettet in die Ausläufer des Himalaya.\n\nBei der Ankunft (etwa 5 bis 6 Stunden) checken Sie in Ihrem vorab gebuchten Wildtier-Resort ein. Entspannen Sie sich, erfrischen Sie sich, und genießen Sie das Mittagessen im Restaurant des Resorts.\n\nAm Nachmittag brechen Sie zu einer aufregenden Jeep-Safari in einer der berühmten Zonen wie Dhikala, Bijrani, oder Jhirna auf (je nach Verfügbarkeit). Begleitet von einem geschulten Naturforscher, erkunden Sie dichte Wälder, Flussgebiete, und Graslandschaften, auf der Suche nach Bengal-Tigern, Elefanten, Hirschen, Wildschweinen, und exotischen Vogelarten.\n\nNach der Safari Rückkehr zum Resort. Verbringen Sie den Abend nach Belieben, genießen Sie Tee im Garten, oder teilen Sie Wildtiergeschichten rund um ein Lagerfeuer (saisonal). Abendessen und Übernachtung im Resort in Corbett.\n\n**Tag 2: Morgen-Safari, und Rückkehr nach Delhi**\nWachen Sie früh auf für eine erfrischende Tasse Tee, bevor Sie zu einer Sonnenaufgangs-Dschungel-Safari aufbrechen. Der frühe Morgen ist die beste Zeit, um Tierwelt zu entdecken, da Tiere in den kühleren Stunden aktiver sind. Halten Sie Ihre Kamera bereit für mögliche Tigersichtungen, zusammen mit Elefanten, Leoparden, Axishirschen, und einer Vielzahl farbenfroher Vögel.\n\nNach der Safari Rückkehr zum Resort zum Frühstück. Check-out, und Beginn Ihrer bequemen Rückfahrt nach Delhi am späten Vormittag.\n\nSie kommen am Abend in Delhi an, wo Sie an Ihrem Hotel oder bevorzugten Ort abgesetzt werden, womit Ihre aufregende 2-tägige Wildtier-Flucht endet.\n\n**Was ist enthalten**\nAbholung und Rückfahrt zum Hotel/Flughafen\nPrivates klimatisiertes Auto für die gesamte Touraktivität mit Fahrer\nVon der Regierung anerkannter Naturforscher-Guide\n1 Nacht Unterkunft im Resort (falls Option gewählt wird)\nFrühstück im Hotel\nJeep-Safari (falls Option gewählt wird)\nMineralwasserflasche\nAlle Mautgebühren und Parkkosten\n\n**Nicht enthalten**\nJegliche persönliche Ausgaben",
+  "highlights": [
+   "Komfortabler Autotransfer ab Delhi, mit Abholung und Rückfahrt von Tür zu Tür"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "Privates klimatisiertes Auto für die gesamte Touraktivität mit Fahrer",
+   "Von der Regierung anerkannter Naturforscher-Guide",
+   "1 Nacht Unterkunft im Resort (falls Option gewählt wird)",
+   "Frühstück im Hotel",
+   "Jeep-Safari (falls Option gewählt wird)",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parkkosten"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

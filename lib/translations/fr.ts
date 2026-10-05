@@ -23272,6 +23272,82 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "delhi-red-fort-light-sound-and-dance-show-guided": {
+  "title": "Delhi : visite guidée du spectacle son, lumière, et danse au Fort Rouge",
+  "metaTitle": "Delhi : Fort Rouge, spectacle son et lumière",
+  "metaDescription": "Narration immersive : vivez 400 ans d'histoire.",
+  "shortDescription": "Narration immersive : vivez 400 ans d'histoire.",
+  "fullDescription": "Delhi : visite guidée du spectacle son, lumière, et danse au Fort Rouge. Narration immersive : vivez 400 ans d'histoire.\n\nAlors que le soleil descend sous l'horizon de Delhi, le Fort Rouge s'éveille avec les échos de son passé légendaire. Crimson Echoes est un spectacle immersif en soirée qui combine lumière, son, et narration pour vous transporter à travers des siècles de grandeur moghole, de tension coloniale, et de l'ascension de l'Inde vers la liberté. Les emblématiques murs en grès rouge deviennent une toile vivante, illuminant les récits d'empereurs, de poètes, de rebelles, et de rêveurs. Cette expérience inoubliable offre un voyage poétique, émotionnel, et visuellement époustouflant à travers l'âme de l'Inde, parfait pour les passionnés d'histoire, les voyageurs, et les habitants. Découvrez le fort non pas seulement comme un monument, mais comme une voix du passé.\n\n**Ce qui est inclus**\nBillet d'entrée au Fort Rouge\nSpectacle son et lumière au Fort Rouge\nNarration de l'histoire de l'Inde\nPrise en charge et retour à l'hôtel\nGuide professionnel\nFrais de stationnement\nFrais de péage\nDépense en carburant\nTaxes\nRafraîchissements locaux ou chai (optionnel)\nTransport confortable et privé\n\n**Non inclus**\nDépenses personnelles\nSurclassements : les surclassements vers des catégories de sièges supérieures, ou des services supplémentaires, peuvent entraîner des frais supplémentaires\nGratifications : les pourboires pour les guides ou chauffeurs ne sont pas inclus, et sont à votre discrétion\nRepas et boissons : la nourriture et les boissons ne sont pas fournies pendant le spectacle",
+  "highlights": [
+   "Narration immersive : vivez 400 ans d'histoire"
+  ],
+  "included": [
+   "Billet d'entrée au Fort Rouge",
+   "Spectacle son et lumière au Fort Rouge",
+   "Narration de l'histoire de l'Inde",
+   "Prise en charge et retour à l'hôtel",
+   "Guide professionnel",
+   "Frais de stationnement",
+   "Frais de péage",
+   "Dépense en carburant",
+   "Taxes",
+   "Rafraîchissements locaux ou chai (optionnel)",
+   "Transport confortable et privé"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Surclassements : les surclassements vers des catégories de sièges supérieures, ou des services supplémentaires, peuvent entraîner des frais supplémentaires",
+   "Gratifications : les pourboires pour les guides ou chauffeurs ne sont pas inclus, et sont à votre discrétion",
+   "Repas et boissons : la nourriture et les boissons ne sont pas fournies pendant le spectacle"
+  ]
+ },
+ "from-delhi-3-days-golden-triangle-tour": {
+  "title": "Depuis Delhi : circuit du Triangle d'or de 3 jours",
+  "metaTitle": "Delhi : Triangle d'or de 3 jours",
+  "metaDescription": "Visitez le Vieux et le New Delhi, et leur architecture.",
+  "shortDescription": "Visitez le Vieux et le New Delhi, et leur architecture.",
+  "fullDescription": "Depuis Delhi : circuit du Triangle d'or de 3 jours. Visitez le Vieux et le New Delhi, et leur architecture.\n\n**Jour 1 : explorez Delhi, et route vers Agra**\n\nVous serez pris en charge le matin par notre chauffeur à l'aéroport ou à l'hôtel. Route vers l'une des plus grandes mosquées de l'Inde, la Jama Masjid. Après avoir exploré la mosquée, profitez d'une balade en rickshaw à travers une ruelle étroite du marché de Chandni Chowk.\nVous passerez devant le Fort Rouge, construit par Shah Jahan en 1648. Puis vous atteindrez le mémorial du Mahatma Gandhi. Voyez India Gate et les bâtiments présidentiels en passant en voiture. Visitez ensuite le Guru Dwara Bangla Sahib (temple sikh). Ici, vous pourrez visiter la cuisine où entre 5 et 10 000 personnes sont nourries chaque jour. Visitez la tombe de Humayun. C'est le premier jardin-tombeau de l'Inde. Visitez ensuite le temple du Lotus, appelé maison d'adoration bahá'íe. Après avoir terminé ces visites, route vers Agra.\nNuit à Agra.\n\n**Jour 2 : explorez Agra, et route vers Jaipur**\n\nTôt le matin, votre guide viendra vous chercher à l'hôtel pour visiter le Taj Mahal au lever du soleil, afin de voir la beauté ravissante du monument le plus renommé de l'Inde, puis retour à l'hôtel.\nAprès le petit-déjeuner, visitez le fort d'Agra, résidence de la famille royale moghole. L'un des plus grands forts de l'Inde. Puis continuez vers Jaipur. En chemin, visitez le fort de Fatehpur Sikri. Nuit à Jaipur.\n\n**Jour 3 : explorez Jaipur, et départ**\n\nCe matin, votre guide vous fera découvrir la ville rose (Jaipur). Visitez le fort Amber, connu pour son mélange d'architecture indo-islamique, de peintures plaquées or, de travail de miroirs, et d'architecture européenne également. Ensuite, arrêt photo au Jal Mahal. Jal Mahal signifie « palais de l'eau » ; ce palais d'eau est situé au milieu du lac Man Sagar à Jaipur. Explorez le Hawa Mahal, Palais des Vents, dont les hauts murs grillagés ont été construits pour que les femmes de la maison royale puissent observer les festivités de la rue sans être vues de l'extérieur. Visitez ensuite le City Palace, qui était le siège des maharajas de Jaipur, construit en 1727 après J.-C. par Sawai Jai Singh. Une grande partie du palais a été transformée en musée royal où nous verrons la collection privée des maharajas de Jaipur. Après cela, explorez le Jantar Mantar, une collection de dix-neuf instruments astronomiques architecturaux construits par le roi rajpoute Sawai Jay Singh, et achevés en 1734 de notre ère. Ici, vous découvrirez le plus grand cadran solaire en pierre du monde, un site du patrimoine mondial de l'UNESCO. Explorez ensuite l'artisanat local de la ville de Jaipur, connue pour son artisanat.\n\nAprès avoir profité de 3 jours, le chauffeur vous ramènera à Delhi, et vous déposera à votre endroit.\nVotre circuit se termine ! Gardez les souvenirs de ces douces vacances dans votre cœur !\n\n**Ce qui est inclus**\nPrise en charge et retour\nVoiture privée climatisée SUV ou berline avec chauffeur professionnel\nService de guide touristique en direct\nBalade en rickshaw au bazar de Chandni Chowk\nHôtel 3, 4, ou 5 étoiles avec petit-déjeuner quotidien (si l'option est sélectionnée)\nFrais d'entrée aux monuments (si l'option est sélectionnée)\nEau et serviettes illimitées\nToutes les taxes applicables\n\n**Non inclus**\nPourboires/gratifications\nTout ce qui n'est pas spécifié dans les inclusions ci-dessus",
+  "highlights": [
+   "Visitez le Vieux et le New Delhi, et leur architecture"
+  ],
+  "included": [
+   "Prise en charge et retour",
+   "Voiture privée climatisée SUV ou berline avec chauffeur professionnel",
+   "Service de guide touristique en direct",
+   "Balade en rickshaw au bazar de Chandni Chowk",
+   "Hôtel 3, 4, ou 5 étoiles avec petit-déjeuner quotidien (si l'option est sélectionnée)",
+   "Frais d'entrée aux monuments (si l'option est sélectionnée)",
+   "Eau et serviettes illimitées",
+   "Toutes les taxes applicables"
+  ],
+  "notIncluded": [
+   "Pourboires/gratifications",
+   "Tout ce qui n'est pas spécifié dans les inclusions ci-dessus"
+  ]
+ },
+ "from-delhi-2-days-jim-corbett-tiger-safari-tour": {
+  "title": "Depuis Delhi : circuit de safari aux tigres de Jim Corbett de 2 jours en voiture",
+  "metaTitle": "Delhi : Jim Corbett 2 jours, safari aux tigres",
+  "metaDescription": "Transfert confortable en voiture depuis Delhi, avec prise en charge et retour porte à porte.",
+  "shortDescription": "Transfert confortable en voiture depuis Delhi, avec prise en charge et retour porte à porte.",
+  "fullDescription": "Depuis Delhi : circuit de safari aux tigres de Jim Corbett de 2 jours en voiture. Transfert confortable en voiture depuis Delhi, avec prise en charge et retour porte à porte.\n\n**Jour 1 : Delhi au parc national de Jim Corbett, arrivée et safari du soir**\nVotre voyage commence tôt le matin avec une prise en charge confortable en voiture privée à votre hôtel à Delhi. Installez-vous confortablement, et profitez d'un trajet pittoresque vers le parc national de Jim Corbett, le plus ancien parc national de l'Inde, niché dans les contreforts de l'Himalaya.\n\nÀ l'arrivée (environ 5 à 6 heures), enregistrement dans votre complexe de faune sauvage préréservé. Détendez-vous, rafraîchissez-vous, et profitez du déjeuner au restaurant du complexe.\n\nL'après-midi, partez pour un passionnant safari en jeep dans l'une des zones célèbres telles que Dhikala, Bijrani, ou Jhirna (selon disponibilité). Accompagné d'un naturaliste formé, explorez des forêts denses, des ceintures fluviales, et des prairies, à la recherche de tigres du Bengale, d'éléphants, de cerfs, de sangliers, et d'espèces d'oiseaux exotiques.\n\nAprès le safari, retour au complexe. Passez la soirée à votre guise : savourez un thé dans le jardin, ou partagez des histoires de faune sauvage autour d'un feu de camp (selon la saison). Dîner, et nuit au complexe à Corbett.\n\n**Jour 2 : safari matinal, et retour à Delhi**\nRéveillez-vous tôt pour une tasse de thé revigorante, avant de partir pour un safari dans la jungle au lever du soleil. Les matins tôt sont le meilleur moment pour observer la faune sauvage, les animaux étant plus actifs pendant les heures plus fraîches. Gardez votre appareil photo prêt pour d'éventuelles observations de tigres, ainsi que d'éléphants, de léopards, de cerfs tachetés, et d'une variété d'oiseaux colorés.\n\nAprès le safari, retour au complexe pour le petit-déjeuner. Départ, et début de votre trajet confortable de retour vers Delhi en fin de matinée.\n\nVous arriverez à Delhi en soirée, où vous serez déposé à votre hôtel ou à l'endroit de votre choix, marquant la fin de votre palpitante évasion dans la faune sauvage de 2 jours.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel ou à l'aéroport\nVoiture privée climatisée pour toute l'activité du circuit, avec chauffeur\nGuide naturaliste agréé par le gouvernement\nHébergement d'une nuit au complexe (si l'option est sélectionnée)\nPetit-déjeuner à l'hôtel\nSafari en jeep (si l'option est sélectionnée)\nBouteille d'eau minérale\nTous les péages et frais de stationnement\n\n**Non inclus**\nToute dépense personnelle",
+  "highlights": [
+   "Transfert confortable en voiture depuis Delhi, avec prise en charge et retour porte à porte"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée pour toute l'activité du circuit, avec chauffeur",
+   "Guide naturaliste agréé par le gouvernement",
+   "Hébergement d'une nuit au complexe (si l'option est sélectionnée)",
+   "Petit-déjeuner à l'hôtel",
+   "Safari en jeep (si l'option est sélectionnée)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
