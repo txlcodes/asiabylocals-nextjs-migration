@@ -27462,6 +27462,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier gasto personal\nTraslado desde y hacia el hotel (podemos ayudar a reservar Uber/taxi)\nCualquier cosa no mencionada en las inclusiones"
   ]
  },
+ "delhi-4-days-delhi-agra-jaipur-multi-days-tour": {
+  "title": "Delhi: tour de 4 días Delhi, Agra, Jaipur con guía",
+  "metaTitle": "Delhi: tour de 4 días Delhi, Agra, Jaipur",
+  "metaDescription": "Explore las bulliciosas calles de Chandni Chowk en rickshaw en este tour de 4 días entre Delhi, Agra y Jaipur.",
+  "shortDescription": "Explore las bulliciosas calles de Chandni Chowk en rickshaw",
+  "fullDescription": "Delhi: tour de 4 días Delhi, Agra, Jaipur con guía. Explore las bulliciosas calles de Chandni Chowk en rickshaw.\n\n**Día 1 – Explorando las maravillas de Delhi**\n\nMañana: llegada a Delhi\n\nLlegada al Aeropuerto Internacional Indira Gandhi de Delhi.\nReúnase con su guía turístico y traslado a su hotel para el check-in y descanso.\nTarde: excursión a Old Delhi\n\nVisite la Mezquita Jama, una de las mezquitas más grandes de la India.\nExplore Chandni Chowk, un bullicioso mercado conocido por su ambiente vibrante.\nDisfrute de un paseo en rickshaw por los estrechos callejones de Old Delhi.\nNoche: Raj Ghat e India Gate\n\nRinda homenaje al memorial de Mahatma Gandhi en Raj Ghat.\nPase frente a India Gate y contemple la grandiosidad del monumento.\nPernoctación: en hotel en Delhi\n\n**Día 2 – Viaje a Agra**\n\nMañana: viaje a Agra\nSalida hacia Agra, una ciudad conocida por el icónico Taj Mahal.\nEn el camino, visite Itmad-ud-Daulah, también conocido como el Baby Taj.\nTarde: Fuerte de Agra\nLlegada a Agra y registro en su hotel; por la tarde visitará el Fuerte de Agra, sitio Patrimonio de la Humanidad de la UNESCO, también conocido por su impresionante arquitectura.\nPernoctación: en hotel en Agra\n\n**Día 3 – Agra a Jaipur vía Fatehpur Sikri**\n\nMañana: amanecer en el Taj Mahal\nTemprano por la mañana, nuestro guía lo llevará a explorar el Taj Mahal a las 6,\ntras el recorrido regresará a su hotel para desayunar.\nDespués del desayuno, salida de su hotel, luego partida hacia Jaipur; en el camino explora la ciudad abandonada o ciudad fantasma conocida como Fatehpur Sikri, una ciudad mogol bien conservada.\nExplore las maravillas arquitectónicas de este sitio histórico.\nTarde: llegada a Jaipur\n\nContinúe su viaje hacia la Ciudad Rosa, Jaipur.\nRegistro en su hotel de Jaipur y descanso.\nNoche: bazar local\n\nVisite un mercado local para comprar artesanías tradicionales, textiles y joyas.\nPernoctación: hotel en Jaipur.\n\n**Día 4 – Descubriendo el patrimonio de Jaipur**\n\nMañana: Fuerte Amber\n\nVisite el majestuoso Fuerte Amber, situado en la cima de una colina.\nDisfrute de un paseo en jeep hasta la entrada del fuerte (según disponibilidad).\nTarde: City Palace y Hawa Mahal\n\nExplore el City Palace, una residencia real que exhibe arquitectura rajastaní y mogol.\nTome fotografías en el Hawa Mahal (Palacio de los Vientos), conocido por su fachada única.\nNoche: Jantar Mantar\n\nVisite el Jantar Mantar, un observatorio con fascinantes instrumentos astronómicos.\nNoche: salida o extensión\n\nDependiendo de su hora de salida, puede partir hacia el aeropuerto o extender su estancia en Jaipur.\n\n### Qué incluye\n\n- Alojamiento en hotel de 3 estrellas\n- Desayuno diario para comenzar bien el día\n- Visitas guiadas por Delhi, Agra y Jaipur con conocimientos expertos\n- Trayecto pintoresco con transporte cómodo\n- Botella de agua potable fresca durante el viaje\n- Todos los impuestos y cargos de estacionamiento\n\n### No incluye\n\n- Gastos personales\n- Gratificaciones",
+  "highlights": [
+   "Explore las bulliciosas calles de Chandni Chowk en rickshaw"
+  ],
+  "included": [
+   "Alojamiento en hotel de 3 estrellas\nDesayuno diario para comenzar bien el día\nVisitas guiadas por Delhi, Agra y Jaipur con conocimientos expertos\nTrayecto pintoresco con transporte cómodo\nBotella de agua potable fresca durante el viaje\nTodos los impuestos y cargos de estacionamiento"
+  ],
+  "notIncluded": [
+   "Gastos personales\nGratificaciones"
+  ]
+ },
+ "old-new-delhi-tour-with-female-guide-car-lunch": {
+  "title": "Tour de Old y New Delhi con guía femenina, coche y almuerzo",
+  "metaTitle": "Tour Old/New Delhi con guía femenina, coche, almuerzo",
+  "metaDescription": "Tour privado por Old y New Delhi con una guía experta, pensado para la comodidad, seguridad y recuerdos inolvidables.",
+  "shortDescription": "Tour privado por Old y New Delhi con una guía experta",
+  "fullDescription": "Tour de Old y New Delhi con guía femenina, coche y almuerzo. Tour privado por Old y New Delhi con una guía experta.\n\nDescubra Delhi con estilo en un tour privado de día completo por Old y New Delhi, diseñado para la comodidad, seguridad y recuerdos inolvidables. Su viaje está guiado por una cálida y profesional guía femenina, ideal para viajeras solas y huéspedes que buscan una experiencia más personal y tranquilizadora. Deslícese por la ciudad en su coche privado con aire acondicionado, deteniéndose en lugares emblemáticos como la Mezquita Jama, Chandni Chowk, India Gate, Qutub Minar y la Tumba de Humayun. Disfrute de un delicioso almuerzo indio en un restaurante seleccionado mientras su guía comparte historias internas, secretos locales y la rica historia detrás de cada sitio. Esta es la forma más relajada, enriquecedora y elegante de experimentar el corazón de Delhi: a su propio ritmo y adaptada a sus intereses.\n\n### Qué incluye\n\n- Coche privado con aire acondicionado para el tour con recogida y traslado\n- Guía turística femenina\n- Entradas a monumentos (si se selecciona la opción)\n- Almuerzo (si se selecciona la opción)\n- Botella de agua\n- Todos los impuestos\n\n### No incluye\n\n- Propinas",
+  "highlights": [
+   "Tour privado por Old y New Delhi con una guía experta"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado para el tour con recogida y traslado\nGuía turística femenina\nEntradas a monumentos (si se selecciona la opción)\nAlmuerzo (si se selecciona la opción)\nBotella de agua\nTodos los impuestos"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "delhi-airport-private-guided-layover-city-tour": {
+  "title": "Aeropuerto de Delhi: tour privado guiado por la ciudad durante la escala con recogida",
+  "metaTitle": "Aeropuerto de Delhi: tour privado durante la escala",
+  "metaDescription": "Aproveche al máximo su escala con un tour privado y personalizable por la ciudad desde el aeropuerto de Delhi.",
+  "shortDescription": "Aproveche al máximo su escala con un tour privado y personalizable por la ciudad",
+  "fullDescription": "Aeropuerto de Delhi: tour privado guiado por la ciudad durante la escala con recogida. Aproveche al máximo su escala con un tour privado y personalizable por la ciudad.\n\nConvierta su escala en Delhi en un recuerdo de por vida. Baje de su vuelo y adéntrese en el corazón de la capital de la India con un tour privado guiado diseñado exclusivamente para viajeros con tiempo limitado. Su conductor se reunirá con usted en el Aeropuerto Internacional Indira Gandhi y lo llevará en un viaje cuidadosamente seleccionado por los monumentos más icónicos de Old y New Delhi.\n\nVisite el majestuoso Qutub Minar, pasee alrededor de la magnífica Tumba de Humayun, admire la grandiosidad de India Gate, y sienta el pulso de la ciudad en Connaught Place. Dependiendo de su horario e interés, explore el Templo del Loto, el Gurudwara Bangla Sahib, o disfrute de un paseo en rickshaw por los vibrantes callejones de Chandni Chowk con su guía local experto.\n\nDisfrute de una rápida degustación de la famosa comida callejera de Delhi o de un relajado almuerzo en un restaurante local. Experimentará la rica cultura, el encanto caótico y la cálida hospitalidad que definen Delhi, todo ello en la comodidad de un vehículo privado con aire acondicionado. Después del tour, será dejado de vuelta en el aeropuerto a tiempo para su próximo vuelo, renovado, inspirado y encantado.\n\n### Qué incluye\n\n- Recogida y traslado desde el Aeropuerto de Delhi (T1/T3)\n- Itinerario personalizable según la duración de su escala\n- Coche privado con aire acondicionado\n- Guía turístico de habla inglesa\n- Agua embotellada\n- Estacionamiento, peajes, combustible e impuestos\n- Entradas (si se elige la opción)\n\n### No incluye\n\n- Comidas o compras de alimentos\n- Propinas para el guía y el conductor",
+  "highlights": [
+   "Aproveche al máximo su escala con un tour privado y personalizable por la ciudad"
+  ],
+  "included": [
+   "Recogida y traslado desde el Aeropuerto de Delhi (T1/T3)\nItinerario personalizable según la duración de su escala\nCoche privado con aire acondicionado\nGuía turístico de habla inglesa\nAgua embotellada\nEstacionamiento, peajes, combustible e impuestos\nEntradas (si se elige la opción)"
+  ],
+  "notIncluded": [
+   "Comidas o compras de alimentos\nPropinas para el guía y el conductor"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
