@@ -19965,6 +19965,68 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires (facultatifs)"
   ]
  },
+ "2-days-jaipur-amber-fort-hawa-mahal-tuk-tuk": {
+  "title": "Jaipur en 2 jours : fort d'Amber, Hawa Mahal, visite en tuk-tuk",
+  "metaTitle": "Jaipur : fort d'Amber, Hawa Mahal, tuk-tuk",
+  "metaDescription": "Découvrez la riche histoire de Jaipur lors d'une visite en tuk-tuk de la ville.",
+  "shortDescription": "Découvrez la riche histoire de Jaipur lors d'une visite en tuk-tuk de la ville.",
+  "fullDescription": "Lancez-vous dans un voyage inoubliable à travers Jaipur, la ville rose de l'Inde, avec une visite en tuk-tuk d'une journée complète. Votre aventure commence à 8h30 et se termine à 17h30, avec une prise en charge pratique à votre hôtel.\n\nVotre premier arrêt est l'emblématique Hawa Mahal, ou le palais des Vents, un chef-d'œuvre architectural de plus de 220 ans, présentant un design en nid d'abeille avec 953 fenêtres finement sculptées. Ensuite, visitez le magnifique City Palace, une résidence royale avec des sections comme le Mubarak Mahal, le Chandra Mahal, le Diwan-i-Khas, et le palais de la Maharani.\n\nContinuez vers le Jantar Mantar, classé à l'UNESCO, un ancien observatoire réputé pour ses impressionnants instruments astronomiques. Faites une pause pour admirer la beauté sereine du Jal Mahal, un palais semblant flotter sur l'eau, parfait pour des photos époustouflantes.\n\nEnsuite, dirigez-vous vers le majestueux fort d'Amber, perché sur une colline, où vous pourrez plonger dans sa riche histoire avec votre guide. Tout près, explorez le trésor caché de Panna Meena Ka Kund, un ancien puits à degrés avec une histoire fascinante.\n\nTerminez votre journée par une balade en tuk-tuk à travers les rues moins connues de Jaipur. Interagissez avec les locaux, savourez la cuisine traditionnelle du Rajasthan, et immergez-vous dans la culture vibrante de la ville. Cette visite touristique d'une journée complète offre une immersion profonde dans le riche patrimoine, la culture, et les traditions de Jaipur.\n\n**Points forts de la visite :**\n\n- Fort d'Amber : commencez votre journée à ce grandiose fort, explorant ses cours, ses designs complexes, et ses vues panoramiques.\n\n- City Palace : découvrez la résidence royale des maharajas de Jaipur, un complexe rempli de musées, cours, et jardins.\n\n- Hawa Mahal : visitez l'emblématique palais des Vents, et émerveillez-vous devant son architecture unique.\n\n- Jantar Mantar : explorez ce site du patrimoine mondial de l'UNESCO, un ancien observatoire qui présente l'héritage astronomique de Jaipur.\n\n- Marchés locaux : traversez les marchés vibrants de Jaipur, offrant artisanat traditionnel, textiles, et bijoux.\n\n- Expérience en tuk-tuk : profitez d'une balade authentique en tuk-tuk, un véhicule traditionnel à trois roues, pour une véritable expérience locale.",
+  "highlights": [
+   "Découvrez la riche histoire de Jaipur lors d'une visite en tuk-tuk de la ville"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel/l'aéroport/la gare/la station de bus",
+   "Chauffeur en tant que guide, chauffeur amical",
+   "Balade en tuk-tuk pour la journée",
+   "Eau en bouteille",
+   "Carburant",
+   "Frais de stationnement",
+   "Péages et taxes inter-États",
+   "Toutes les taxes gouvernementales (TPS)"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "Frais d'entrée au fort d'Amber, City Palace, Hawa Mahal, Jantar Mantar, musée Albert Hall, et plus"
+  ]
+ },
+ "delhi-night-tour-with-india-gate-and-connaught": {
+  "title": "Delhi : visite nocturne avec India Gate et Connaught Place",
+  "metaTitle": "Delhi : visite nocturne, India Gate, Connaught Place",
+  "metaDescription": "Émerveillez-vous devant l'illumination d'India Gate et du Gurudwara Bangla Sahib.",
+  "shortDescription": "Émerveillez-vous devant l'illumination d'India Gate et du Gurudwara Bangla Sahib.",
+  "fullDescription": "Commencez votre visite par une prise en charge pratique à votre hôtel ou à l'aéroport. Dirigez-vous vers India Gate, un mémorial de guerre qui se dresse majestueusement illuminé la nuit. Continuez vers le Gurudwara Bangla Sahib, un temple sikh connu pour son architecture époustouflante et son atmosphère sereine.\n\nPassez devant le Rashtrapati Bhavan, résidence officielle du président de l'Inde, et admirez sa grandeur sous le ciel nocturne. Explorez Connaught Place, un pôle commercial animé avec des bâtiments de l'époque coloniale et une vie nocturne vibrante.\n\nSelon l'option choisie, vous pourrez également visiter le temple ISKCON ou Birla Mandir, offrant tous deux des expériences spirituelles uniques.\n\nTout au long de la visite, profitez de la compagnie d'un guide professionnel qui partagera des informations sur l'histoire et la culture de Delhi. Cette visite nocturne vous permet d'éviter la chaleur et la foule, offrant une expérience plus détendue et agréable.",
+  "highlights": [
+   "Émerveillez-vous devant l'illumination d'India Gate et du Gurudwara Bangla Sahib"
+  ],
+  "included": [
+   "Visites de sites emblématiques illuminés comme India Gate, le Gurudwara Bangla Sahib, Birla Mandir, et le temple ISKCON",
+   "Passage devant Rashtrapati Bhavan",
+   "Exploration de Connaught Place",
+   "La confirmation sera reçue au moment de la réservation",
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Guide professionnel"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons alcoolisées (disponibles à l'achat)",
+   "Gratifications"
+  ]
+ },
+ "delhi-gandhi-smriti-museum-experience": {
+  "title": "Delhi : expérience du musée Gandhi Smriti",
+  "metaTitle": "Delhi : musée Gandhi Smriti",
+  "metaDescription": "Explorez la dernière résidence de Gandhi et le lieu de son assassinat.",
+  "shortDescription": "Explorez la dernière résidence de Gandhi et le lieu de son assassinat.",
+  "fullDescription": "Votre visite de Gandhi Smriti commence par une prise en charge à votre hôtel, l'aéroport, la gare, ou tout endroit à Delhi, Noida, ou Gurugram.\n\n**Gandhi Smriti**\nCommencez votre visite par le Gandhi Smriti, le site poignant où le Mahatma Gandhi passa ses 144 derniers jours et où il fut assassiné. Le musée propose une vaste collection de photographies, sculptures, et objets qui offrent un aperçu profond de la vie de Gandhi, de ses principes, et de son héritage durable. La flamme éternelle et la colonne des martyrs marquent l'endroit exact où il fut assassiné, faisant de ce lieu un site d'une profonde importance historique et émotionnelle.\n\n**Exposition multimédia interactive**\nExplorez l'exposition multimédia interactive de Gandhi Smriti, qui comprend des présentations audiovisuelles, des films, et des exposés racontant l'histoire de la vie de Gandhi et sa contribution au mouvement d'indépendance de l'Inde. Cette section offre une façon dynamique et engageante de découvrir les philosophies et l'impact de Gandhi.\n\n**Jardin mémorial de Gandhi**\nPromenez-vous dans le serein jardin mémorial de Gandhi, un espace tranquille conçu pour la réflexion et la méditation. Le jardin présente des statues et installations inspirées des enseignements de Gandhi, offrant un répit paisible au milieu de la ville animée de Delhi.\n\n**Chambre du Mahatma Gandhi**\nVisitez la chambre préservée où le Mahatma Gandhi vécut pendant son séjour à Gandhi Smriti. La chambre contient ses effets personnels, incluant sa canne, ses lunettes, et son rouet (charkha), offrant un aperçu personnel de sa vie quotidienne et de ses habitudes.\n\n**Espace de réflexion**\nPassez du temps dans l'espace de réflexion, un lieu désigné au sein de Gandhi Smriti pour que les visiteurs s'asseyent tranquillement et contemplent les enseignements de Gandhi sur la non-violence, la vérité, et la paix. Cet espace est conçu pour inspirer l'introspection et une compréhension plus profonde de ses principes.\n\n**Projection documentaire**\nLe documentaire offre un aperçu complet de la vie de Gandhi, de ses luttes, et de son héritage durable. C'est une excellente façon de consolider les informations et expériences recueillies pendant la visite.\n\n**Visite de la librairie Gandhi**\nConcluez votre visite par une visite à la librairie Gandhi sur site. Ici, vous pouvez acheter des livres, souvenirs, et objets commémoratifs liés au Mahatma Gandhi. La librairie propose une large gamme de littérature explorant sa vie, sa philosophie, et son impact sur le monde.\n\nAprès cela, vous serez confortablement reconduit à votre point de dépose, qu'il s'agisse d'un hôtel, d'un aéroport, d'une gare, ou de tout autre lieu désigné à Delhi, Noida, ou Gurugram.",
+  "highlights": [
+   "Explorez la dernière résidence de Gandhi et le lieu de son assassinat"
+  ],
+  "included": [
+   "Guide privé professionnel",
+   "Prise en charge et retour en voiture climatisée (si option sélectionnée)",
+   "Eau en bouteille dans la voiture"
+  ],
+  "notIncluded": []
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
