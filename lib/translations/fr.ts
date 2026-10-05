@@ -23348,6 +23348,71 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "new-delhi-tuk-tuk-tour": {
+  "title": "Visite en tuk-tuk de New Delhi",
+  "metaTitle": "New Delhi : visite en tuk-tuk",
+  "metaDescription": "Ressentez l'énergie de New Delhi en explorant la ville lors d'une visite en tuk-tuk.",
+  "shortDescription": "Ressentez l'énergie de New Delhi en explorant la ville lors d'une visite en tuk-tuk.",
+  "fullDescription": "Visite en tuk-tuk de New Delhi. Ressentez l'énergie de New Delhi en explorant la ville lors d'une visite en tuk-tuk.\n\nDécouvrez le cœur dynamique de New Delhi lors d'une visite vibrante en tuk-tuk qui entrelace la riche histoire, la culture diverse, et la vie de rue colorée de la ville.\n\nCommencez au marché de Janpath, un centre animé d'artisanat, de textiles, et de souvenirs éclectiques, où les sons, couleurs, et l'énergie de Delhi prennent vie. De là, le tuk-tuk serpente à travers le charme colonial du cercle extérieur de Connaught Place, offrant un aperçu de l'architecture de l'époque britannique et de la culture des cafés florissante de la ville.\n\nEnsuite, prenez un tournant spirituel avec un arrêt à l'historique Hanuman Mandir, l'un des temples les plus anciens et les plus vénérés de Delhi, suivi d'une visite sereine au Gurudwara Bangla Sahib, un sanctuaire sikh paisible connu pour son dôme doré, ses eaux réfléchissantes, et son atmosphère accueillante.\n\nContinuez le long de l'axe cérémoniel de la ville, et profitez d'un trajet pittoresque devant l'emblématique India Gate et le majestueux Rashtrapati Bhawan, capturant la grandeur de la capitale de l'Inde depuis votre véhicule en plein air.\n\nVisitez la tombe de Safdarjung, un élégant exemple d'architecture moghole tardive entourée de jardins tranquilles, offrant un moment calme loin de l'agitation de la ville. Au fil du voyage, explorez les vastes étendues verdoyantes du jardin Lodhi, une oasis urbaine magnifiquement entretenue qui abrite des tombes séculaires, et qui est appréciée aussi bien des habitants que des voyageurs.\n\nTerminez votre expérience dans le quartier artistique de Lodhi, où des fresques saisissantes et un art de rue à grande échelle transforment le quartier en une galerie animée en plein air, reflétant la créativité contemporaine indienne et les thèmes sociaux.\n\nTout au long de la visite, un guide formé et compétent vous accompagne, partageant des informations, anecdotes, et histoires qui donnent vie à chaque arrêt. Votre confort est soigneusement pris en compte avec de l'eau en bouteille offerte, du papier mouchoir, et du gel hydroalcoolique fournis dans le tuk-tuk, rendant l'expérience à la fois sûre et agréable.\n\n**Ce qui est inclus**\nBalade en tuk-tuk\nGuide touristique en direct\nEau en bouteille offerte\nPapier mouchoir\nGel hydroalcoolique\n\n**Non inclus**\nRepas\nDépenses personnelles",
+  "highlights": [
+   "Ressentez l'énergie de New Delhi en explorant la ville lors d'une visite en tuk-tuk"
+  ],
+  "included": [
+   "Balade en tuk-tuk",
+   "Guide touristique en direct",
+   "Eau en bouteille offerte",
+   "Papier mouchoir",
+   "Gel hydroalcoolique"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Dépenses personnelles"
+  ]
+ },
+ "old-delhi-guided-street-food-tour-w-private": {
+  "title": "Vieux Delhi : visite guidée de street food avec transport privé",
+  "metaTitle": "Vieux Delhi : visite guidée de street food",
+  "metaDescription": "Savourez des plats légendaires comme le jalebi, le paratha, le chaat, les kebabs, et le biryani.",
+  "shortDescription": "Savourez des plats légendaires comme le jalebi, le paratha, le chaat, les kebabs, et le biryani.",
+  "fullDescription": "Vieux Delhi : visite guidée de street food avec transport privé. Savourez des plats légendaires comme le jalebi, le paratha, le chaat, les kebabs, et le biryani.\n\n**Promenade culinaire et patrimoniale du Vieux Delhi**\nDécouvrez les saveurs et l'histoire des rues les plus anciennes de Delhi\n\nRejoignez-nous pour un voyage guidé à travers les ruelles vibrantes de Chandni Chowk, le cœur animé du Vieux Delhi. Émerveillez-vous devant le majestueux Fort Rouge depuis l'extérieur, et explorez des monuments emblématiques comme la grande Jama Masjid et le serein Gurdwara Bangla Sahib, tout en découvrant des siècles d'histoire.\n\nPromenez-vous à travers Khari Baoli, le plus grand marché aux épices d'Asie, où couleurs, arômes, et saveurs éveillent les sens. Goûtez votre chemin à travers Paranthe Wali Gali, célèbre pour ses délicieux parathas farcis, et savourez de la street food légendaire :\n\nLes favoris du chaat comme le Golgappa, l'Aloo Tikki, et le Dahi Bhalla\n\nDes kebabs grillés à la flamme provenant d'étals séculaires\n\nDes sucreries comme le Jalebi, le Rabri, et le Kulfi servis frais\n\nArrosez le tout d'un lassi frais ou d'un masala chai chaud\n\nEn chemin, votre guide expert partage des histoires culturelles et des secrets culinaires, reliant chaque bouchée au riche patrimoine de ce quartier inoubliable.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel ou à l'aéroport\nTransport climatisé\nGuide touristique\nFrais de stationnement et taxes\nEau ou autre boisson fraîche\nStreet food (si l'option est sélectionnée)\nBalade en rickshaw dans le Vieux Delhi (si l'option est sélectionnée)\n\n**Non inclus**\nPourboires",
+  "highlights": [
+   "Savourez des plats légendaires comme le jalebi, le paratha, le chaat, les kebabs, et le biryani"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Transport climatisé",
+   "Guide touristique",
+   "Frais de stationnement et taxes",
+   "Eau ou autre boisson fraîche",
+   "Street food (si l'option est sélectionnée)",
+   "Balade en rickshaw dans le Vieux Delhi (si l'option est sélectionnée)"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "delhi-spiritual-walk-bangla-sahib-laxminarayan": {
+  "title": "Delhi : promenade spirituelle (Bangla Sahib et temple Laxminarayan)",
+  "metaTitle": "Delhi : promenade spirituelle, Bangla Sahib et Laxminarayan",
+  "metaDescription": "Assistez à la cérémonie sacrée de Sapora au Gurudwara Bangla Sahib.",
+  "shortDescription": "Assistez à la cérémonie sacrée de Sapora au Gurudwara Bangla Sahib.",
+  "fullDescription": "Delhi : promenade spirituelle (Bangla Sahib et temple Laxminarayan). Assistez à la cérémonie sacrée de Sapora au Gurudwara Bangla Sahib.\n\nEntrez au cœur du patrimoine spirituel de Delhi avec cette visite spirituelle paisible et enrichissante pour l'âme. Cette expérience unique vous emmène vers deux des lieux de culte les plus vénérés de la ville, le Gurudwara Bangla Sahib et le temple Laxminarayan (Birla Mandir), offrant un rare aperçu des traditions vivantes de foi, de dévotion, et d'harmonie de la ville.\n\nVotre voyage commence au Gurudwara Bangla Sahib, un sanctuaire sikh serein connu pour son dôme doré, son paisible sarovar (bassin sacré), et l'esprit de service communautaire qui emplit l'air. Assistez ou participez à la cérémonie du Sapora (du soir), où des hymnes sacrés résonnent à travers les salles, et où l'atmosphère s'anime d'une énergie divine.\n\nEnsuite, continuez vers le magnifique temple Laxminarayan, dédié au Seigneur Vishnu (Narayan) et à la déesse Lakshmi. Orné de magnifiques sculptures, le temple offre une ambiance de pureté et de dévotion. Ici, vous participerez à une Aarti personnalisée, un rituel profondément émouvant où lampes, chants, et musique se mélangent pour créer une expérience spirituelle bienheureuse.\n\nTout au long de la visite, votre guide partagera des perspectives sur les diverses pratiques religieuses de Delhi, l'étiquette des temples, et la signification derrière chaque rituel, vous aidant à vous connecter à l'essence profonde de la spiritualité indienne.\n\nQue vous cherchiez la paix, la réflexion, ou une connexion culturelle, cette visite spirituelle offre un voyage qui touche l'âme, et laisse des impressions durables de dévotion et d'harmonie.\n\n**Ce qui est inclus**\nVisite guidée par un guide professionnel anglophone\nEntrée et visite du Gurudwara Bangla Sahib et du temple Laxminarayan\nParticipation aux cérémonies de Sapora et d'Aarti\nEau en bouteille pendant la promenade\nTransport confortable\n\n**Non inclus**\nRepas et dépenses personnelles\nPourboires ou gratifications\nFrais d'appareil photo (le cas échéant à l'intérieur des temples)",
+  "highlights": [
+   "Assistez à la cérémonie sacrée de Sapora au Gurudwara Bangla Sahib"
+  ],
+  "included": [
+   "Visite guidée par un guide professionnel anglophone",
+   "Entrée et visite du Gurudwara Bangla Sahib et du temple Laxminarayan",
+   "Participation aux cérémonies de Sapora et d'Aarti",
+   "Eau en bouteille pendant la promenade",
+   "Transport confortable"
+  ],
+  "notIncluded": [
+   "Repas et dépenses personnelles",
+   "Pourboires ou gratifications",
+   "Frais d'appareil photo (le cas échéant à l'intérieur des temples)"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
