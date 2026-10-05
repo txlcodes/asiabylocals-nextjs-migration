@@ -818,6 +818,81 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas / gratificaciones (opcional)"
   ]
  },
+ "from-delhi-day-trip-to-taj-mahal-agra-fort": {
+  "title": "Desde Delhi: excursión de un día al Taj Mahal, Fuerte de Agra, y SOS Elefantes",
+  "metaTitle": "Delhi-Agra: Taj Mahal, fuerte, santuario de elefantes",
+  "metaDescription": "Sienta la historia de amor del Taj Mahal cobrar vida mientras explora su belleza.",
+  "shortDescription": "Sienta la historia de amor del Taj Mahal cobrar vida mientras explora su belleza.",
+  "fullDescription": "**Opciones de vehículo**\n\nSe proporciona un vehículo adecuado según el tamaño del grupo: sedán con aire acondicionado para 1-2 viajeros, SUV con aire acondicionado para 3-5 viajeros, o furgoneta con aire acondicionado para 6-10 viajeros.\n\nComience su viaje con una cómoda recogida en su hotel en Delhi. Viaje a Agra por la autopista Yamuna en un vehículo con aire acondicionado. A su llegada, conozca a su guía local experto y explore el majestuoso Taj Mahal, una de las Siete Maravillas del Mundo. Conozca la historia de amor detrás del monumento, admire la arquitectura de mármol blanco, y tome hermosas fotos desde los mejores puntos de vista.\n\nA continuación, continúe hacia el Fuerte de Agra, Patrimonio de la UNESCO, una gran fortaleza mogol llena de palacios, patios, e historia fascinante. Después, disfrute de un delicioso almuerzo en un hotel de 5 estrellas que sirve cocina india y continental.\n\nPor la tarde, dirígase al Centro de Conservación y Cuidado de Elefantes, un santuario pacífico dedicado a rescatar y rehabilitar elefantes maltratados. Camine por el centro con un miembro del equipo capacitado, conozca las historias de los elefantes, observe su atención médica y sesiones de terapia, y sea testigo de cómo viven libremente sin cadenas. Es posible que pueda ver su hora de baño, dependiendo del horario del día. Este es un santuario ético. Puede observar a los elefantes desde una distancia cercana, pero no se permite tocarlos, montarlos, o alimentarlos.\n\nDespués de un día enriquecedor, regrese en auto a Delhi y sea dejado en su hotel o lugar preferido.",
+  "highlights": [
+   "Sienta la historia de amor del Taj Mahal cobrar vida mientras explora su belleza"
+  ],
+  "included": [
+   "Tour privado",
+   "Todo el avistamiento con guías locales profesionales privados",
+   "Visita al Centro de Conservación y Cuidado de Elefantes",
+   "Transporte en vehículo privado con aire acondicionado",
+   "Para 1-2 viajeros: sedán con aire acondicionado (4 plazas)",
+   "Para 3-5 viajeros: SUV con aire acondicionado (6 plazas)",
+   "Para 6-10 viajeros: furgoneta con aire acondicionado (10 plazas)",
+   "Viaje en autobús eléctrico desde el estacionamiento del Taj Mahal hasta el monumento",
+   "Recogida y traslado al hotel o aeropuerto",
+   "Botellas de agua mineral durante el viaje",
+   "Traslado al hotel o lugar preferido",
+   "Tarifas de entrada a los monumentos"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "hidden-agra-old-city-street-food-adventure": {
+  "title": "Agra escondida: aventura en la ciudad vieja y comida callejera",
+  "metaTitle": "Agra escondida: ciudad vieja y comida callejera",
+  "metaDescription": "Explore las calles de la ciudad vieja de Agra.",
+  "shortDescription": "Explore las calles de la ciudad vieja de Agra.",
+  "fullDescription": "Explore la ciudad vieja de Agra con un guía local experimentado y una conveniente recogida en su hotel o ubicación. Elija un auto, tuk-tuk, o bicicleta y disfrute de un divertido recorrido por la ciudad. Visite el punto fotográfico \"I Love Agra\", Shaheed Nagar, Sadar Bazaar, Bijli Ghar, y la histórica Jama Masjid. Pruebe bocadillos locales, dulces, y auténtico Masala Chai mientras aprende sobre la comida y la cultura de Agra. Vea los impresionantes exteriores del Fuerte de Agra y el Taj Mahal sin entrar. Descubra calles locales, lugares de comida escondidos, e historias fascinantes antes de terminar su experiencia con un cómodo traslado al hotel.",
+  "highlights": [
+   "Explore las calles de la ciudad vieja de Agra"
+  ],
+  "included": [
+   "Recogida y traslado",
+   "Auto con aire acondicionado (si se selecciona la opción)",
+   "Tuk-tuk privado (si se selecciona la opción)",
+   "Motocicleta personal (si se selecciona la opción)",
+   "Comida callejera (si se selecciona la opción)",
+   "Guía turístico",
+   "Botella de agua mineral"
+  ],
+  "notIncluded": [
+   "Bebidas",
+   "Propinas y gratificaciones"
+  ]
+ },
+ "from-delhi-taj-mahal-day-trip-by-ac-car": {
+  "title": "Desde Delhi: excursión de un día al Taj Mahal en auto con aire acondicionado con almuerzo 5 estrellas",
+  "metaTitle": "Delhi-Taj Mahal: excursión en auto con aire acondicionado",
+  "metaDescription": "Auto privado con aire acondicionado con recogida y traslado al hotel/aeropuerto en la región de Delhi NCR.",
+  "shortDescription": "Auto privado con aire acondicionado con recogida y traslado al hotel/aeropuerto en la región de Delhi NCR.",
+  "fullDescription": "Experimente una excursión privada de un día desde Delhi a Agra en un cómodo auto con aire acondicionado. Disfrute de un trayecto fluido por la autopista y llegue a la histórica ciudad de Agra, hogar de algunos de los monumentos mogoles más icónicos de la India. La recogida y el traslado están incluidos desde su hotel, aeropuerto, o cualquier lugar preferido en la región de Delhi NCR. A su llegada a Agra, su guía lo recibirá y lo asistirá durante todo el recorrido.\n\nComience su viaje con una visita al impresionante Taj Mahal, un Sitio del Patrimonio Mundial de la UNESCO y una de las Siete Maravillas del Mundo. Admire su impresionante arquitectura de mármol blanco y conozca la historia romántica detrás de su creación con su guía profesional.\n\nContinúe hacia el majestuoso Fuerte de Agra, una gran fortaleza de arenisca roja que sirvió como residencia principal de los emperadores mogoles. Explore sus impresionantes palacios, patios, y disfrute de vistas del Taj Mahal al otro lado del río Yamuna.\n\nTome un descanso y disfrute de un delicioso almuerzo en un hotel de 5 estrellas, que ofrece una variedad de cocinas locales e internacionales en un ambiente cómodo.\n\nDespués del almuerzo, visite el elegante Itimad-ud-Daulah, a menudo denominado el \"Baby Taj\", conocido por su intrincado trabajo de incrustación en mármol y su entorno tranquilo.\n\nDurante todo el recorrido, su guía experto compartirá perspectivas fascinantes sobre la historia, arquitectura, y cultura mogol, haciendo que su experiencia sea tanto informativa como memorable. Después de un día completo de exploración, relájese en su cómodo trayecto de regreso a Delhi con hermosos recuerdos de Agra.",
+  "highlights": [
+   "Auto privado con aire acondicionado con recogida y traslado al hotel/aeropuerto en la región de Delhi NCR"
+  ],
+  "included": [
+   "Vehículo privado con aire acondicionado para todos los traslados",
+   "Guía profesional de habla inglesa",
+   "Recogida y traslado al hotel/aeropuerto (Delhi NCR)",
+   "Todo el combustible, estacionamiento, peajes, y gastos del conductor",
+   "Tarifas de entrada a los monumentos (si se selecciona la opción)",
+   "Almuerzo en un hotel de 5 estrellas (si se selecciona la opción)",
+   "Agua embotellada durante el viaje"
+  ],
+  "notIncluded": [
+   "Gastos personales (compras, propinas, etc.)",
+   "Bebidas",
+   "Cualquier actividad adicional no mencionada en el itinerario"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
