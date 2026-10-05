@@ -23626,6 +23626,88 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche Mahlzeiten"
   ]
  },
+ "cook-enjoy-w-local-family-at-beautiful-clean": {
+  "title": "Kochen und genießen mit einer örtlichen Familie in einem schönen und sauberen Zuhause in Delhi",
+  "metaTitle": "Delhi: Kochen mit einer örtlichen Familie",
+  "metaDescription": "Genießen Sie die beste Gastfreundschaft Delhis von einer örtlichen Familie.",
+  "shortDescription": "Genießen Sie die beste Gastfreundschaft Delhis von einer örtlichen Familie.",
+  "fullDescription": "Kochen und genießen mit einer örtlichen Familie in einem schönen und sauberen Zuhause in Delhi. Genießen Sie die beste Gastfreundschaft Delhis von einer örtlichen Familie.\n\nFrage: Warum sollten Sie dieses Erlebnis buchen?\nAntwort: Süßer als Gulab Jamun sind die Gastgeber, schöner als das Taj Mahal ist ihr Zuhause, und wertvoller als der Kohinoor-Diamant sind die Souvenirs, die sie schenken! Wenn Sie diese Tour in Delhi nicht gemacht haben, ist Ihr Indienbesuch unvollständig.\n\nGenießen Sie ein unvergessliches Erlebnis, bei dem Sie nicht nur Gäste, sondern geschätzte Mitglieder des indischen Zuhauses des Guides sind. Hier ein Einblick, was Sie erwartet:\n\nEin herzlicher und traditioneller indischer Empfang erwartet Sie, während der Guide die Türen zu seinem Zuhause öffnet.\n\nTauchen Sie ein in den Reichtum der hinduistischen Kultur und Traditionen, mit einem Besuch eines Hindu-Tempels direkt im Zuhause des Guides.\n\nErkunden Sie den einzigartigen Stil indischer Häuser, während Sie durch die verschiedenen Räume geführt werden.\n\nEntspannen Sie sich auf der Couch, während der Guide Ihnen praktische Hindi-Sätze für einen intensiveren Aufenthalt in Indien beibringt.\n\nKochen und verwöhnen Sie sich mit einer köstlichen vegetarischen Mahlzeit mit dem Guide während des Erlebnisses.\n\nBereiten Sie mit Ihrem Guide ein köstliches indisches Dessert mit Kuh-Ghee zu.\n\nGenießen Sie frisch gebrühten Masala Chai, der Ihrem Erlebnis eine warme Note verleiht, in Ihrer Anwesenheit von Grund auf zubereitet.\n\nGenießen Sie ein unterhaltsames und aufschlussreiches Quiz, eine spielerische Art, mehr über das unglaubliche Geflecht Indiens zu entdecken.\n\nLernen Sie grundlegende Hindi-Sätze und -Wörter, und Sie sind gut vorbereitet, um mit Einheimischen zu kommunizieren.\n\n**Zusätzliche Vorteile:**\n\nStellen Sie gerne alle brennenden Fragen zur indischen Kultur, und der Guide wird sie gerne beantworten.\n\nBleiben Sie erfrischt mit unbegrenztem Wasser in Flaschen.\n\nGenießen Sie schnelles WLAN während Ihrer gesamten Zeit im Zuhause des Guides.\n\nErhalten Sie frische Schürzen und Handtücher beim Kochvorgang.\n\nLaden Sie Ihr Handy an einem praktischen USB-Ladeanschluss auf.\n\nNehmen Sie die Rezepte der köstlichen Leckereien mit nach Hause, die Sie während des Erlebnisses probiert haben.\n\nErhalten Sie ein besonderes Souvenir vom Guide, um den Anlass zu feiern.\n\nSeien Sie versichert, dass Sie in einem sauberen, ordentlichen Zuhause mit makellosen Hygienestandards willkommen geheißen werden.\n\nNehmen Sie an dieser einzigartigen Tour teil, für eine seltene Gelegenheit, Teil einer indischen Familie zu werden, und die Wärme und Gastfreundschaft der indischen Kultur wirklich zu erleben.\n\n**Hinweise:**\n\n1. Der Guide ist zeitlich flexibel, um den Bedürfnissen des Gastes gerecht zu werden. Wenn die unter „Verfügbarkeit\" angegebene Zeit nicht passt, fragen Sie den Guide gerne nach einer alternativen Zeit.\n\n2. Der Guide kann das Erlebnis weiter nach den Wünschen des Gastes anpassen, um sich mehr auf einen Aspekt zu konzentrieren, nämlich Kochen oder Kultur. Das Erlebnis kann auch für einen Geburtstag oder Jahrestag angepasst werden.\n\n3. Das Zuhause des Guides ist nur 5 Minuten (mit dem Auto) von der nächsten U-Bahn-Station entfernt. Der Guide kann die kostenlose Abholung und Rückfahrt von der U-Bahn-Station für den Gast übernehmen.\n\n**Was ist enthalten**\nKostenloses Parken\nBesonderes Souvenir\nMahlzeit, Tee, und Dessert\nHighspeed-5G-WLAN\nFrische Handtücher und Schürzen\nUnbegrenzte Fotos und Videos\nAbholung und Rückfahrt von der U-Bahn\nPlatz für Gepäck und Taschen\nUnbegrenzte verpackte Wasserflaschen\n\n**Nicht enthalten**\nNicht-vegetarisches Essen\nBetrügereien und Betrug\nAlkoholische Getränke\nGratifikationen und Trinkgelder\nAbholung und Rückfahrt zum Hotel\nReise- und Krankenversicherungen",
+  "highlights": [
+   "Genießen Sie die beste Gastfreundschaft Delhis von einer örtlichen Familie"
+  ],
+  "included": [
+   "Kostenloses Parken",
+   "Besonderes Souvenir",
+   "Mahlzeit, Tee, und Dessert",
+   "Highspeed-5G-WLAN",
+   "Frische Handtücher und Schürzen",
+   "Unbegrenzte Fotos und Videos",
+   "Abholung und Rückfahrt von der U-Bahn",
+   "Platz für Gepäck und Taschen",
+   "Unbegrenzte verpackte Wasserflaschen"
+  ],
+  "notIncluded": [
+   "Nicht-vegetarisches Essen",
+   "Betrügereien und Betrug",
+   "Alkoholische Getränke",
+   "Gratifikationen und Trinkgelder",
+   "Abholung und Rückfahrt zum Hotel",
+   "Reise- und Krankenversicherungen"
+  ]
+ },
+ "from-delhi-3days-2nights-golden-triangle-tour": {
+  "title": "Ab Delhi: Golden-Triangle-Tour, 3 Tage und 2 Nächte, mit Optionen",
+  "metaTitle": "Delhi: Golden Triangle, 3 Tage 2 Nächte",
+  "metaDescription": "Erkunden Sie die Highlights von Delhi, Agra, und Jaipur auf einer 3-tägigen Tour.",
+  "shortDescription": "Erkunden Sie die Highlights von Delhi, Agra, und Jaipur auf einer 3-tägigen Tour.",
+  "fullDescription": "Ab Delhi: Golden-Triangle-Tour, 3 Tage und 2 Nächte, mit Optionen. Erkunden Sie die Highlights von Delhi, Agra, und Jaipur auf einer 3-tägigen Tour.\n\nEntdecken Sie die Highlights von Delhi, Agra, und Jaipur auf einer 3-tägigen Golden-Triangle-Tour. Übernachten Sie in Luxusunterkünften in Agra und Jaipur, und genießen Sie Abholung und Rückfahrt zum Hotel in Delhi.\n\n**Was ist enthalten**\n2 Nächte Unterkunft in Hotels (falls die Tour mit Hotel-Option gewählt wird)\nTägliches Hotelfrühstück (falls die Tour mit Hotel-Option gewählt wird)\nPrivates klimatisiertes Fahrzeug für alle Transfers und Besichtigungen\nGeführte Besichtigungen mit kenntnisreichen örtlichen Guides in jeder Stadt\nBatteriebus-Shuttle-Service zum und vom Parkplatz des Taj Mahal\nMautgebühren, und Parkgebühren\nAlle staatlichen Steuern inklusive\nAbholung und Rückfahrt zum Hotel/Flughafen\nFlaschen mit Mineralwasser während aller Autofahrten\nAbholung angeboten vom Flughafen, Bahnhof, Hotel, oder jedem Abholort in Delhi, Noida, oder Gurugram\nEngagierte persönliche Betreuung und Fürsorge während der gesamten Tour\n\n**Nicht enthalten**\nGratifikationen (optional)\nEintrittskarten (etwa 60 US-Dollar pro Person für alle Denkmäler)\nMittag- und Abendessen",
+  "highlights": [
+   "Erkunden Sie die Highlights von Delhi, Agra, und Jaipur auf einer 3-tägigen Tour"
+  ],
+  "included": [
+   "2 Nächte Unterkunft in Hotels (falls die Tour mit Hotel-Option gewählt wird)",
+   "Tägliches Hotelfrühstück (falls die Tour mit Hotel-Option gewählt wird)",
+   "Privates klimatisiertes Fahrzeug für alle Transfers und Besichtigungen",
+   "Geführte Besichtigungen mit kenntnisreichen örtlichen Guides in jeder Stadt",
+   "Batteriebus-Shuttle-Service zum und vom Parkplatz des Taj Mahal",
+   "Mautgebühren, und Parkgebühren",
+   "Alle staatlichen Steuern inklusive",
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "Flaschen mit Mineralwasser während aller Autofahrten",
+   "Abholung angeboten vom Flughafen, Bahnhof, Hotel, oder jedem Abholort in Delhi, Noida, oder Gurugram",
+   "Engagierte persönliche Betreuung und Fürsorge während der gesamten Tour"
+  ],
+  "notIncluded": [
+   "Gratifikationen (optional)",
+   "Eintrittskarten (etwa 60 US-Dollar pro Person für alle Denkmäler)",
+   "Mittag- und Abendessen"
+  ]
+ },
+ "from-delhi-same-day-wildlife-safari-at-sriska-and": {
+  "title": "Ab Delhi: Wildtier-Safari am selben Tag in Sriska und Jhalana",
+  "metaTitle": "Delhi: Safari in Sriska und Jhalana an einem Tag",
+  "metaDescription": "Wir bieten rund um die Uhr Kundensupport, 24 Stunden am Tag, 7 Tage die Woche.",
+  "shortDescription": "Wir bieten rund um die Uhr Kundensupport, 24 Stunden am Tag, 7 Tage die Woche.",
+  "fullDescription": "Ab Delhi: Wildtier-Safari am selben Tag in Sriska und Jhalana. Wir bieten rund um die Uhr Kundensupport, 24 Stunden am Tag, 7 Tage die Woche.\n\nAbholung von Delhi: Beginnen Sie Ihr Abenteuer mit einer frühmorgendlichen Abholung von Ihrem Hotel oder bevorzugten Ort in Delhi durch unseren Vertreter.\nReise zum Sriska-Nationalpark: Fahren Sie etwa 3,5 bis 4 Stunden, und genießen Sie die malerische Landschaft auf dem Weg zum Sriska-Nationalpark, einem Paradies für Tierliebhaber.\nAnkunft in Sriska: Bei der Ankunft treffen Sie Ihren professionellen Guide, und machen Sie sich bereit für eine unvergessliche Wildtier-Safari.\nSriska-Safari-Erlebnis (7:00 - 9:30 Uhr): Begeben Sie sich auf eine aufregende Safari im Park. Entdecken Sie die majestätischen Bengal-Tiger, Leoparden, Axishirsche, und eine große Vielfalt an Vögeln. Erkunden Sie den dichten Wald des Parks, seine ruhigen Seen, und offenen Graslandschaften, die vielfältige Lebensräume für die Tiere bieten.\n\n10:30 Uhr: Abfahrt von Sariska. Sie werden von unserem Vertreter in einem bequemen klimatisierten Fahrzeug abgeholt. Beginnen Sie Ihre Reise in Richtung Jaipur, und genießen Sie malerische Ausblicke auf das ländliche Rajasthan unterwegs.\n\n23:30 Uhr: Besuch des Jal Mahal (Wasserpalast). Ankunft in Jaipur, und Halt am malerischen Jal Mahal, mitten im Man-Sagar-See gelegen. Bewundern Sie die ruhige Schönheit und architektonischen Charme dieses ikonischen Palastes. Nehmen Sie sich Zeit für Fotos, und genießen Sie die ruhige Umgebung am See.\n\n12:50 Uhr: Erkundung des Hawa Mahal (Palast der Winde). Weiter zum Hawa Mahal, Jaipurs bekanntestem Wahrzeichen. Gehen Sie um das Denkmal herum, und schätzen Sie seine kunstvolle Gitterfassade. Erfahren Sie mehr über seine historische Bedeutung und architektonische Brillanz, während Sie die Umgebung erkunden.\n\n13:30 Uhr: Mittagspause. Genießen Sie das Mittagessen in einem empfohlenen örtlichen Restaurant mit traditioneller rajasthanischer Küche oder kontinentalen Optionen. Ruhen Sie sich aus, und laden Sie Ihre Energie für Ihre Nachmittags-Safari auf.\n\n15:00 Uhr: Ankunft im Jhalana-Leopard-Schutzgebiet. Erreichen Sie das Jhalana-Schutzgebiet, und bereiten Sie sich auf eine aufregende Wildtier-Safari vor. Schließen Sie die Eintrittsformalitäten ab, und treffen Sie Ihren erfahrenen Waldguide.\n\n15:30 bis 18:30 Uhr: Jhalana-Leoparden-Safari-Erlebnis. Besteigen Sie einen offenen 4x4-Jeep, und begeben Sie sich in das felsige, von Gestrüpp bedeckte Gelände von Jhalana. Verfolgen Sie schwer fassbare Leoparden, und halten Sie Ausschau nach anderer Tierwelt wie Wüstenfüchsen, Hyänen, und verschiedenen Vögeln. Genießen Sie die friedliche Atmosphäre, während die Sonne über den Aravalli-Hügeln untergeht.\n\n18:30 Uhr: Beginn der Rückreise nach Delhi. Nach der Safari entspannen Sie sich in Ihrem privaten Fahrzeug, während Sie die Rückfahrt nach Delhi beginnen. Lehnen Sie sich zurück, und lassen Sie die Höhepunkte des Tages Revue passieren, von Palästen bis zu Raubtieren.\n\nEtwa 22:30 Uhr: Ankunft in Delhi. Erreichen Sie Ihren gewünschten Absetzort in Delhi am späten Abend, und schließen Sie Ihren actionreichen Tag voller Kulturerbe und Tierwelt ab.\n\n**Was ist enthalten**\nMahlzeiten: Mittagessen (nur mit der All-inclusive-Tour-Option)\nTransport: klimatisiertes Fahrzeug für alle Transfers und Besichtigungen\nProfessioneller Guide: erfahrener und kenntnisreicher örtlicher Reiseführer\nEintrittsgebühren: enthalten für alle Denkmäler und Safari-Tickets (nur mit der All-inclusive-Tour-Option, falls Option gewählt wird)\nSteuern und Gebühren: alle anfallenden Steuern und Servicegebühren enthalten\nUnterstützung: Unterstützung rund um die Uhr während der gesamten Tour\nWasserflasche\nTiger-Safaris in geteiltem Jeep/Canter für die Safari (Fahrzeug je nach Verfügbarkeit)\n\n**Nicht enthalten**\nPersönliche Ausgaben wie Souvenirs oder zusätzliche Aktivitäten\nTrinkgelder und Gratifikationen für Guides und Fahrer\nJegliche andere Dienstleistung, die nicht in den Einschlüssen erwähnt wird",
+  "highlights": [
+   "Wir bieten rund um die Uhr Kundensupport, 24 Stunden am Tag, 7 Tage die Woche"
+  ],
+  "included": [
+   "Mahlzeiten: Mittagessen (nur mit der All-inclusive-Tour-Option)",
+   "Transport: klimatisiertes Fahrzeug für alle Transfers und Besichtigungen",
+   "Professioneller Guide: erfahrener und kenntnisreicher örtlicher Reiseführer",
+   "Eintrittsgebühren: enthalten für alle Denkmäler und Safari-Tickets (nur mit der All-inclusive-Tour-Option, falls Option gewählt wird)",
+   "Steuern und Gebühren: alle anfallenden Steuern und Servicegebühren enthalten",
+   "Unterstützung: Unterstützung rund um die Uhr während der gesamten Tour",
+   "Wasserflasche",
+   "Tiger-Safaris in geteiltem Jeep/Canter für die Safari (Fahrzeug je nach Verfügbarkeit)"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben wie Souvenirs oder zusätzliche Aktivitäten",
+   "Trinkgelder und Gratifikationen für Guides und Fahrer",
+   "Jegliche andere Dienstleistung, die nicht in den Einschlüssen erwähnt wird"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
