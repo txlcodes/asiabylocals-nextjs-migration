@@ -966,6 +966,75 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "agra-taj-mahal-tour-with-sunrise-sunset-day": {
+  "title": "Agra: Taj Mahal Tour mit Optionen für Sonnenaufgang, Sonnenuntergang, und Tag",
+  "metaTitle": "Agra: Taj Mahal, Sonnenaufgang/-untergang oder Tag",
+  "metaDescription": "• Besuchen Sie den Taj Mahal bei Sonnenaufgang, Sonnenuntergang, oder tagsüber.",
+  "shortDescription": "• Besuchen Sie den Taj Mahal bei Sonnenaufgang, Sonnenuntergang, oder tagsüber.",
+  "fullDescription": "Es gibt wenige Erlebnisse auf der Welt, die so zeitlos sind wie das Stehen vor dem Taj Mahal, einem Denkmal, das aus Liebe erbaut, über Generationen bewundert wurde, und am besten im richtigen Moment des Tages erlebt wird. Diese private Taj Mahal Tour in Agra ist darauf ausgelegt, Ihnen vollständige Freiheit zu geben, dieses ikonische Wunder bei Sonnenaufgang, Sonnenuntergang, oder tagsüber zu erkunden, je nach Ihrem Reisestil und Komfort.\n\nIhre Reise beginnt mit einer bequemen Abholung von Ihrem Hotel in Agra oder dem Flughafen Agra, was einen reibungslosen und stressfreien Start gewährleistet. Reisen Sie in einem sauberen, klimatisierten privaten Fahrzeug (in ausgewählten Optionen enthalten), wo Ihr professioneller Fahrer eine sichere und komfortable Fahrt gewährleistet.\n\nBei der Ankunft treffen Sie Ihren lizenzierten privaten Reiseführer, sorgfältig ausgewählt, um das Erlebnis mit tiefem lokalem Wissen und fesselndem Erzählen zu kombinieren. Während Sie sich dem Taj Mahal nähern, erweckt Ihr Guide seine Geschichte zum Leben und teilt die Geschichte von Kaiser Shah Jahan und Mumtaz Mahal, zusammen mit der kunstvollen Handwerkskunst, die dieses Denkmal zu einer der bewundertsten Strukturen der Welt macht.\n\nMit Unterstützung für den Eintritt ohne Warteschlange (in ausgewählten Optionen enthalten) vermeiden Sie lange Wartezeiten und betreten das Denkmal mühelos. Im Inneren nehmen Sie sich Zeit, die sich verändernden Farben des Marmors zu bewundern: sanft und friedlich bei Sonnenaufgang, hell und majestätisch tagsüber, und golden bei Sonnenuntergang.\n\nDieses Erlebnis ist für jeden Reisetyp konzipiert:\n• Paare, die einen romantischen Moment suchen\n• Alleinreisende, die einen sicheren, geführten Besuch wünschen\n• Familien, die ein reibungsloses und organisiertes Erlebnis wünschen\n• Fotografen, die nach perfekten Lichtbedingungen suchen\n\nIhr Guide hilft Ihnen auch, unvergessliche Fotos aus den besten Winkeln zu machen, jene ikonischen Perspektiven, die Ihren Besuch wirklich unvergesslich machen.\n\nFalls die Zeit es erlaubt und Sie Ihr Erlebnis verlängern möchten, können Sie optional nahegelegene Stätten wie das Agra Fort oder Itimad-ud-Daulah (Baby Taj) erkunden, was Ihrer Reise mehr Tiefe verleiht.\n\nNach Abschluss Ihres Besuchs entspannen Sie sich, während Sie bequem zurück zu Ihrem Hotel in Agra oder dem Flughafen Agra gebracht werden, was Ihre Tour mit Leichtigkeit und Komfort beendet.",
+  "highlights": [
+   "• Besuchen Sie den Taj Mahal bei Sonnenaufgang, Sonnenuntergang, oder tagsüber"
+  ],
+  "included": [
+   "Privater Reiseführer",
+   "Abholung und Rückfahrt vom Hotel in Agra oder dem Flughafen Agra",
+   "Privates klimatisiertes Auto mit Fahrer",
+   "Wasser in Flaschen",
+   "Parkgebühren, Kraftstoff, und Mautgebühren"
+  ],
+  "notIncluded": [
+   "Eintrittstickets für Denkmäler (sofern nicht ausgewählt)",
+   "Mahlzeiten und Getränke",
+   "Trinkgelder und persönliche Ausgaben"
+  ]
+ },
+ "delhi-agra-jaipur-transfer-with-fatehpur-sikri": {
+  "title": "Delhi-Agra-Jaipur-Transfer mit Fatehpur Sikri und Stufenbrunnen",
+  "metaTitle": "Delhi-Agra-Jaipur: Transfer mit Fatehpur Sikri",
+  "metaDescription": "Genießen Sie eine nahtlose Reise zwischen Agra und Jaipur über Fatehpur Sikri und den Stufenbrunnen.",
+  "shortDescription": "Genießen Sie eine nahtlose Reise zwischen Agra und Jaipur über Fatehpur Sikri und den Stufenbrunnen.",
+  "fullDescription": "Buchen Sie im Voraus Ihren privaten Transfer für eine schnelle, komfortable, und stressfreie Reise zwischen Delhi, Agra, und Jaipur.\n\nReisen Sie stilvoll in einem sauberen, klimatisierten Auto, gefahren von einem erfahrenen englischsprachigen Fahrer. Abholungen sind von jedem Hotel, Flughafen, oder bevorzugten Ort in Delhi, Agra, oder Jaipur verfügbar, was Ihre Reise durch das Goldene Dreieck mühelos macht.\n\nVermeiden Sie die Mühe, mit lokalen Taxis zu verhandeln oder nach Transportmitteln zu suchen. Buchen Sie einfach im Voraus, lassen Sie sich nieder, und genießen Sie eine reibungslose Fahrt zu Ihrem Ziel.\n\n**Entspannung garantiert**\n\nLehnen Sie sich zurück, genießen Sie kostenloses Wasser in Flaschen, und lassen Sie Ihren Fahrer sich um Navigation und Straßenverhältnisse kümmern. Kommen Sie erfrischt und bereit zum Erkunden an.\n\n**Fahrzeuge für jede Gruppengröße**\n1-3 Passagiere: komfortable Limousine (Toyota Etios / Dzire)\n4-6 Passagiere: geräumiger klimatisierter Innova\nGroße Gruppen (11-26): Tempo Traveller / Minibus verfügbar\n\n24/7 Support ist während Ihrer Reise über WhatsApp verfügbar.\n\nBuchen Sie Ihren stressfreien Transfer noch heute und genießen Sie eine komfortable Reise durch das Goldene Dreieck.",
+  "highlights": [
+   "Genießen Sie eine nahtlose Reise zwischen Agra und Jaipur über Fatehpur Sikri und den Stufenbrunnen"
+  ],
+  "included": [
+   "Hotelabholung und Rückfahrt",
+   "Private geführte Tour",
+   "Haltestellen an Orten (falls Option ausgewählt)",
+   "Privater Fahrer",
+   "Wasser in Flaschen",
+   "Kraftstoff, Mautgebühren, und Steuern",
+   "24/7 Support über WhatsApp"
+  ],
+  "notIncluded": [
+   "Eintrittstickets",
+   "Trinkgelder"
+  ]
+ },
+ "ranthambore-national-park-tiger-safari-by-jeep-or": {
+  "title": "Ranthambore Nationalpark: Tiger-Safari per Jeep oder Canter",
+  "metaTitle": "Ranthambore: Tiger-Safari, Jeep oder Canter",
+  "metaDescription": "Erkunden Sie den Ranthambore Nationalpark in einem geteilten offenen Jeep oder Canter.",
+  "shortDescription": "Erkunden Sie den Ranthambore Nationalpark in einem geteilten offenen Jeep oder Canter.",
+  "fullDescription": "Entdecken Sie die Wildnis des Ranthambore Nationalparks auf einem geteilten Safari-Abenteuer per offenem Jeep oder Canter. Bekannt für seine Population von Bengaltigern, bietet der Park eines der besten Wildtier-Erlebnisse in Indien.\n\nWählen Sie zwischen einem 6-sitzigen offenen Jeep für ein persönlicheres Erlebnis oder einem 20-sitzigen Canter für eine budgetfreundliche Option. Beide Fahrzeuge werden von einem von der Regierung zertifizierten Naturforscherguide und einem erfahrenen Fahrer begleitet, um eine sichere und informative Safari zu gewährleisten.\n\nIhr Erlebnis umfasst offizielle Waldeintrittsgenehmigungen, die es Ihnen ermöglichen, die vom Forstamt zugewiesenen Safari-Zonen zu erkunden. Reisen Sie durch trockene Laubwälder, malerische Seen, und antike Ruinen auf der Suche nach Tigern, Leoparden, Lippenbären, Krokodilen, und einer Vielzahl von Vogelarten.\n\nMorgen- und Nachmittags-Safari-Zeiten sind verfügbar. Bitte beachten Sie, dass Safari-Zonen von den Forstbehörden zugewiesen werden und nicht im Voraus garantiert werden können.\n\nGültige Reisepass- oder Ausweisdaten sind zum Zeitpunkt der Buchung für die Safari-Genehmigungsbearbeitung erforderlich.\n\nOb Sie ein Wildtier-Enthusiast oder ein Erstbesucher sind, diese Safari bietet eine unvergessliche Möglichkeit, die natürliche Schönheit von Ranthambore zu erleben.",
+  "highlights": [
+   "Erkunden Sie den Ranthambore Nationalpark in einem geteilten offenen Jeep oder Canter"
+  ],
+  "included": [
+   "Waldeintrittsgenehmigung",
+   "Geteilte Jeep- / Canter-Safari (wie ausgewählt)",
+   "Von der Regierung autorisierter Guide",
+   "Professioneller Fahrer",
+   "Abholung und Rückfahrt innerhalb von Sawai Madhopur (Stadtgrenzen)",
+   "Alle anwendbaren Steuern"
+  ],
+  "notIncluded": [
+   "Abholung von außerhalb der Stadt (Jaipur usw.)",
+   "Mahlzeiten und Getränke",
+   "Kameragebühr (falls zutreffend)",
+   "Persönliche Ausgaben"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",

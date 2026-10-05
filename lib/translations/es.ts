@@ -966,6 +966,75 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "agra-taj-mahal-tour-with-sunrise-sunset-day": {
+  "title": "Agra: tour del Taj Mahal con opciones de amanecer, atardecer, y día",
+  "metaTitle": "Agra: Taj Mahal, amanecer/atardecer o día",
+  "metaDescription": "• Visite el Taj Mahal al amanecer, al atardecer, o durante el día.",
+  "shortDescription": "• Visite el Taj Mahal al amanecer, al atardecer, o durante el día.",
+  "fullDescription": "Hay pocas experiencias en el mundo tan atemporales como estar frente al Taj Mahal, un monumento construido por amor, admirado a través de generaciones, y mejor experimentado en el momento adecuado del día. Este tour privado del Taj Mahal en Agra está diseñado para darle completa libertad de explorar esta maravilla icónica al amanecer, al atardecer, o durante el día, según su estilo de viaje y comodidad.\n\nSu viaje comienza con una conveniente recogida en su hotel en Agra o en el Aeropuerto de Agra, garantizando un inicio fluido y sin estrés. Viaje en un vehículo privado limpio y con aire acondicionado (incluido en las opciones seleccionadas), donde su conductor profesional garantiza un viaje seguro y cómodo.\n\nA su llegada, conozca a su guía turístico privado con licencia, cuidadosamente seleccionado para combinar la experiencia con un profundo conocimiento local y una narración atractiva. Mientras se acerca al Taj Mahal, su guía dará vida a su historia, compartiendo la historia del emperador Shah Jahan y Mumtaz Mahal, junto con la intrincada artesanía que hace de este monumento una de las estructuras más admiradas del mundo.\n\nCon asistencia de entrada sin colas (incluida en las opciones seleccionadas), evite los largos tiempos de espera y entre al monumento con facilidad. En el interior, tómese su tiempo para admirar los colores cambiantes del mármol: suaves y pacíficos al amanecer, brillantes y majestuosos durante el día, y dorados al atardecer.\n\nEsta experiencia está diseñada para todo tipo de viajero:\n• Parejas que buscan un momento romántico\n• Viajeros solos que buscan una visita segura y guiada\n• Familias que desean una experiencia fluida y organizada\n• Fotógrafos que buscan condiciones de iluminación perfectas\n\nSu guía también lo ayudará a capturar fotos memorables desde los mejores ángulos, esas perspectivas icónicas que hacen que su visita sea verdaderamente inolvidable.\n\nSi el tiempo lo permite y desea extender su experiencia, puede explorar opcionalmente sitios cercanos como el Fuerte de Agra o Itimad-ud-Daulah (Baby Taj), añadiendo más profundidad a su viaje.\n\nDespués de completar su visita, relájese mientras lo lleva cómodamente de regreso a su hotel en Agra o al Aeropuerto de Agra, terminando su tour con facilidad y comodidad.",
+  "highlights": [
+   "• Visite el Taj Mahal al amanecer, al atardecer, o durante el día"
+  ],
+  "included": [
+   "Guía turístico privado",
+   "Recogida y traslado desde el hotel en Agra o el Aeropuerto de Agra",
+   "Auto privado con aire acondicionado con conductor",
+   "Agua embotellada",
+   "Tarifas de estacionamiento, combustible, y peajes"
+  ],
+  "notIncluded": [
+   "Boletos de entrada a los monumentos (a menos que se seleccionen)",
+   "Comidas y bebidas",
+   "Propinas y gastos personales"
+  ]
+ },
+ "delhi-agra-jaipur-transfer-with-fatehpur-sikri": {
+  "title": "Traslado Delhi-Agra-Jaipur con Fatehpur Sikri y pozo escalonado",
+  "metaTitle": "Delhi-Agra-Jaipur: traslado con Fatehpur Sikri",
+  "metaDescription": "Disfrute de un viaje fluido entre Agra y Jaipur vía Fatehpur Sikri y el pozo escalonado.",
+  "shortDescription": "Disfrute de un viaje fluido entre Agra y Jaipur vía Fatehpur Sikri y el pozo escalonado.",
+  "fullDescription": "Reserve con antelación su traslado privado para un viaje rápido, cómodo, y sin estrés entre Delhi, Agra, y Jaipur.\n\nViaje con estilo en un auto limpio y con aire acondicionado conducido por un conductor experimentado de habla inglesa. Las recogidas están disponibles desde cualquier hotel, aeropuerto, o lugar preferido en Delhi, Agra, o Jaipur, haciendo que su viaje por el Triángulo Dorado sea sin esfuerzo.\n\nEvite la molestia de negociar con taxis locales o buscar transporte. Simplemente reserve con antelación, siéntese, y disfrute de un viaje fluido hacia su destino.\n\n**Relajación garantizada**\n\nSiéntese, disfrute de agua embotellada de cortesía, y deje que su conductor se encargue de la navegación y las condiciones de la carretera. Llegue renovado y listo para explorar.\n\n**Vehículos para cada tamaño de grupo**\n1-3 pasajeros: sedán cómodo (Toyota Etios / Dzire)\n4-6 pasajeros: espacioso Innova con aire acondicionado\nGrupos grandes (11-26): Tempo Traveller / minibús disponible\n\nHay soporte 24/7 disponible por WhatsApp durante su viaje.\n\nReserve su traslado sin estrés hoy mismo y disfrute de un viaje cómodo por el Triángulo Dorado.",
+  "highlights": [
+   "Disfrute de un viaje fluido entre Agra y Jaipur vía Fatehpur Sikri y el pozo escalonado"
+  ],
+  "included": [
+   "Recogida y traslado al hotel",
+   "Tour privado guiado",
+   "Paradas en lugares (si se selecciona la opción)",
+   "Conductor privado",
+   "Agua embotellada",
+   "Combustible, peajes, e impuestos",
+   "Soporte 24/7 por WhatsApp"
+  ],
+  "notIncluded": [
+   "Boletos de entrada",
+   "Propinas"
+  ]
+ },
+ "ranthambore-national-park-tiger-safari-by-jeep-or": {
+  "title": "Parque Nacional de Ranthambore: safari de tigres en Jeep o Canter",
+  "metaTitle": "Ranthambore: safari de tigres, Jeep o Canter",
+  "metaDescription": "Explore el Parque Nacional de Ranthambore en un Jeep abierto compartido o Canter.",
+  "shortDescription": "Explore el Parque Nacional de Ranthambore en un Jeep abierto compartido o Canter.",
+  "fullDescription": "Descubra la naturaleza salvaje del Parque Nacional de Ranthambore en una aventura de safari compartida en Jeep abierto o Canter. Conocido por su población de tigres de Bengala, el parque ofrece una de las mejores experiencias de vida salvaje en la India.\n\nElija entre un Jeep abierto de 6 plazas para una experiencia más personalizada o un Canter de 20 plazas para una opción económica. Ambos vehículos van acompañados de un guía naturalista certificado por el gobierno y un conductor experimentado para garantizar un safari seguro e informativo.\n\nSu experiencia incluye permisos oficiales de entrada al bosque, que le permiten explorar las zonas de safari designadas por el departamento forestal. Viaje a través de bosques deciduos secos, lagos pintorescos, y ruinas antiguas en busca de tigres, leopardos, osos perezosos, cocodrilos, y una variedad de especies de aves.\n\nHay horarios de safari matutinos y vespertinos disponibles. Tenga en cuenta que las zonas de safari son asignadas por las autoridades forestales y no pueden garantizarse con antelación.\n\nSe requieren datos de pasaporte o identificación válidos al momento de la reserva para el procesamiento del permiso de safari.\n\nYa sea que sea un entusiasta de la vida salvaje o un visitante por primera vez, este safari ofrece una oportunidad inolvidable de experimentar la belleza natural de Ranthambore.",
+  "highlights": [
+   "Explore el Parque Nacional de Ranthambore en un Jeep abierto compartido o Canter"
+  ],
+  "included": [
+   "Permiso de entrada al bosque",
+   "Safari compartido en Jeep / Canter (según selección)",
+   "Guía autorizado por el gobierno",
+   "Conductor profesional",
+   "Recogida y traslado dentro de Sawai Madhopur (límites de la ciudad)",
+   "Todos los impuestos aplicables"
+  ],
+  "notIncluded": [
+   "Recogida desde fuera de la ciudad (Jaipur, etc.)",
+   "Comidas y bebidas",
+   "Tarifa de cámara (si corresponde)",
+   "Gastos personales"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
