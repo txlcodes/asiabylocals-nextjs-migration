@@ -25547,6 +25547,71 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propina para el guía y el chófer"
   ]
  },
+ "delhi-private-half-day-or-full-day-old-and": {
+  "title": "Delhi: tour privado de medio día o día completo por el Viejo y Nuevo Delhi",
+  "metaTitle": "Delhi: Viejo y Nuevo Delhi, medio o día completo",
+  "metaDescription": "Experimenta las atmósferas contrastantes del Viejo y Nuevo Delhi en un tour privado.",
+  "shortDescription": "Experimenta las atmósferas contrastantes del Viejo y Nuevo Delhi en un tour privado.",
+  "fullDescription": "Delhi: tour privado de medio día o día completo por el Viejo y Nuevo Delhi. Experimenta las atmósferas contrastantes del Viejo y Nuevo Delhi en un tour privado.\n\nSumérgete en el corazón de la bulliciosa capital de la India con un tour privado que captura la esencia tanto del Viejo como del Nuevo Delhi. Tu aventura comienza con una cómoda recogida en el hotel, que garantiza un inicio fluido de tu viaje.\n\nEn el Viejo Delhi, recorre los estrechos callejones de Chandni Chowk en un paseo en rickshaw, maravíllate con la grandeza de la Jama Masjid, y captura el encanto histórico del Fuerte Rojo desde el exterior. Experimenta el vibrante caos de los bazares locales, y sumérgete en el encanto del viejo mundo.\n\nAl pasar al Nuevo Delhi, explora el genio arquitectónico del Templo del Loto y la tumba de Humayun. Admira la elegancia colonial del Rashtrapati Bhavan, pasa frente al icónico India Gate, y conoce el camino de la nación hacia la independencia en Raj Ghat, el monumento a Gandhi.\n\nCon la flexibilidad de elegir un tour de día completo o medio día, tu guía privado adaptará la experiencia a tus intereses, asegurando que aproveches al máximo esta fascinante ciudad.\n\n**Qué incluye**\nRecogida y regreso al hotel/aeropuerto\nTransporte con aire acondicionado durante la actividad\nGuía turístico en vivo\nEntradas a los monumentos (si se selecciona esta opción)\nPaseo en rickshaw en el Viejo Delhi (si se selecciona esta opción)\nBotella de agua y paraguas\nGastos de estacionamiento e impuestos\n\n**No incluye**\nComida y bebidas\nPropinas",
+  "highlights": [
+   "Experimenta las atmósferas contrastantes del Viejo y Nuevo Delhi en un tour privado"
+  ],
+  "included": [
+   "Recogida y regreso al hotel/aeropuerto",
+   "Transporte con aire acondicionado durante la actividad",
+   "Guía turístico en vivo",
+   "Entradas a los monumentos (si se selecciona esta opción)",
+   "Paseo en rickshaw en el Viejo Delhi (si se selecciona esta opción)",
+   "Botella de agua y paraguas",
+   "Gastos de estacionamiento e impuestos"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Propinas"
+  ]
+ },
+ "from-delhi-3-days-nainital-tour-with-accommodation": {
+  "title": "Desde Delhi: tour de 3 días a Nainital con alojamiento",
+  "metaTitle": "Delhi-Nainital: 3 días, alojamiento",
+  "metaDescription": "Disfruta de un paseo en teleférico hasta el Snow View Point para vistas panorámicas del Himalaya",
+  "shortDescription": "Disfruta de un paseo en teleférico hasta el Snow View Point para vistas panorámicas del Himalaya",
+  "fullDescription": "Desde Delhi: tour de 3 días a Nainital con alojamiento. Disfruta de un paseo en teleférico hasta el Snow View Point para vistas panorámicas del Himalaya.\n\n**Qué incluye**\nTaxi privado con aire acondicionado y chófer\nAlojamiento de hotel decente\nTaxi local para las visitas turísticas\nRecogida y regreso al hotel/aeropuerto/estación de tren en Delhi\n\n**No incluye**\nPropinas\nGratificaciones\nCualquier gasto personal",
+  "highlights": [
+   "Disfruta de un paseo en teleférico hasta el Snow View Point para vistas panorámicas del Himalaya"
+  ],
+  "included": [
+   "Taxi privado con aire acondicionado y chófer",
+   "Alojamiento de hotel decente",
+   "Taxi local para las visitas turísticas",
+   "Recogida y regreso al hotel/aeropuerto/estación de tren en Delhi"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Gratificaciones",
+   "Cualquier gasto personal"
+  ]
+ },
+ "delhi-cooking-class-learn-authentic-recipes-in-a": {
+  "title": "Clase de cocina en Delhi: aprende recetas auténticas en un hogar local",
+  "metaTitle": "Delhi: clase de cocina, hogar local",
+  "metaDescription": "Sumérgete en el vibrante mundo de la cocina india con una familia local.",
+  "shortDescription": "Sumérgete en el vibrante mundo de la cocina india con una familia local.",
+  "fullDescription": "Clase de cocina en Delhi: aprende recetas auténticas en un hogar local. Sumérgete en el vibrante mundo de la cocina india con una familia local.\n\nAcompaña a tu anfitrión en un hogar local para una cálida e inmersiva experiencia de cocina india que va más allá de las recetas. Esta clase práctica está diseñada para presentar a los huéspedes la verdadera cocina casera india, las especias cotidianas, y las historias, tradiciones, y cultura gastronómica que dan forma a las comidas indias.\n\nLa experiencia se centra en aprender de 3 a 4 platos en detalle. Los huéspedes pueden elegir un curry favorito, preparado paso a paso con orientación sobre la selección de especias, el equilibrio de sabores, y el logro de la textura y el sabor adecuados. Ya sea un curry suave o intenso, tu anfitrión explica el proceso con claridad para que los huéspedes entiendan cómo se elaboran las salsas indias, y cómo pequeños cambios afectan el sabor.\n\nEl siguiente punto destacado de la clase es el auténtico biryani indio. Los huéspedes aprenden cómo se prepara tradicionalmente este querido plato, desde apilar arroz y especias hasta comprender el tiempo y el aroma. Se presta especial atención a freír las cebollas hasta la perfección dorada, un elemento clave que aporta profundidad y dulzura al biryani. Estas técnicas ayudan a los huéspedes a recrear este plato clásico en casa con confianza.\n\nEl menú también incluye un plato vegetariano sencillo pero sabroso, que combina perfectamente con arroz o panes indios. Aunque pueda parecer complejo, tu anfitrión demuestra métodos sencillos y atajos prácticos utilizados en los hogares indios, haciendo el plato accesible incluso para principiantes. Se comparten útiles consejos y pequeños trucos de cocina durante toda la sesión.\n\nLa experiencia comienza por la tarde con una cálida bienvenida en el hogar de tu anfitrión. A los huéspedes se les ofrece té indio especiado junto con ligeros tentempiés. Los interesados también pueden participar en la preparación de populares pakoras mientras aprenden cómo se disfrutan los tentempiés de la hora del té en los hogares indios. Este momento relajado permite a los huéspedes hacer preguntas y hablar libremente sobre la comida india, la vida cotidiana, y las tradiciones locales.\n\nDurante la sesión de cocina, los huéspedes participan activamente en cortar, cocinar, y ensamblar los platos, aprendiendo haciendo en lugar de solo observando. El ambiente es amigable y sin prisas, lo que facilita seguir el proceso y disfrutarlo.\n\nDespués de cocinar, los huéspedes se sientan juntos para disfrutar de una cena india recién preparada con los platos elaborados durante la clase. Para terminar la experiencia con un toque dulce, se sirve un postre indio casero.\n\nEsta clase de cocina en un hogar local es ideal para viajeros que desean aprender recetas indias auténticas, comprender las especias indias, y disfrutar de una genuina experiencia cultural en Delhi a través de la comida, la conversación, y momentos compartidos.\n\n**Qué incluye**\nTé vespertino con 2 a 3 tipos de tentempiés caseros\nCena: 3 platos principales, pan, y postre\n2 a 3 guarniciones\nAgua embotellada\n\n**No incluye**\nRecogida y regreso al hotel\nGratificaciones\nCualquier cosa no mencionada en lo que incluye",
+  "highlights": [
+   "Sumérgete en el vibrante mundo de la cocina india con una familia local"
+  ],
+  "included": [
+   "Té vespertino con 2 a 3 tipos de tentempiés caseros",
+   "Cena: 3 platos principales, pan, y postre",
+   "2 a 3 guarniciones",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Gratificaciones",
+   "Cualquier cosa no mencionada en lo que incluye"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",

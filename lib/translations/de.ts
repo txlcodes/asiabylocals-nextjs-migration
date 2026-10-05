@@ -25547,6 +25547,71 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld für Reiseführer und Fahrer"
   ]
  },
+ "delhi-private-half-day-or-full-day-old-and": {
+  "title": "Delhi: private Halbtages- oder Ganztagestour durch Alt- und New Delhi",
+  "metaTitle": "Delhi: Alt- und New Delhi, halb oder ganz",
+  "metaDescription": "Erleben Sie die kontrastierenden Atmosphären von Alt- und New Delhi bei einer privaten Tour.",
+  "shortDescription": "Erleben Sie die kontrastierenden Atmosphären von Alt- und New Delhi bei einer privaten Tour.",
+  "fullDescription": "Delhi: private Halbtages- oder Ganztagestour durch Alt- und New Delhi. Erleben Sie die kontrastierenden Atmosphären von Alt- und New Delhi bei einer privaten Tour.\n\nTauchen Sie ein in das Herz von Indiens geschäftiger Hauptstadt mit einer privaten Tour, die das Wesen von Alt- und New Delhi einfängt. Ihr Abenteuer beginnt mit einer bequemen Hotelabholung, die für einen nahtlosen Start Ihrer Reise sorgt.\n\nIn Alt-Delhi schlendern Sie durch die engen Gassen von Chandni Chowk bei einer Rikscha-Fahrt, staunen über die Pracht der Jama Masjid, und halten den historischen Charme des Roten Forts von außen fest. Erleben Sie das lebendige Chaos lokaler Basare, und tauchen Sie ein in den Charme der alten Welt.\n\nBeim Übergang nach New Delhi erkunden Sie die architektonische Brillanz des Lotustempels und Humayuns Grabmal. Bewundern Sie die koloniale Eleganz von Rashtrapati Bhavan, fahren Sie am ikonischen India Gate vorbei, und erfahren Sie mehr über den Weg der Nation zur Unabhängigkeit bei Raj Ghat, Gandhis Denkmal.\n\nMit der Flexibilität, zwischen einer Ganztages- oder Halbtagestour zu wählen, passt Ihr privater Reiseführer das Erlebnis an Ihre Interessen an, damit Sie das Beste aus dieser faszinierenden Stadt herausholen.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel/Flughafen\nKlimatisierter Transport während der Aktivität\nLive-Reiseführer\nEintrittskarten für Sehenswürdigkeiten (falls diese Option gewählt wird)\nRikscha-Fahrt in Alt-Delhi (falls diese Option gewählt wird)\nWasserflasche und Regenschirme\nParkgebühren und Steuern\n\n**Nicht inbegriffen**\nSpeisen und Getränke\nTrinkgelder",
+  "highlights": [
+   "Erleben Sie die kontrastierenden Atmosphären von Alt- und New Delhi bei einer privaten Tour"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "Klimatisierter Transport während der Aktivität",
+   "Live-Reiseführer",
+   "Eintrittskarten für Sehenswürdigkeiten (falls diese Option gewählt wird)",
+   "Rikscha-Fahrt in Alt-Delhi (falls diese Option gewählt wird)",
+   "Wasserflasche und Regenschirme",
+   "Parkgebühren und Steuern"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke",
+   "Trinkgelder"
+  ]
+ },
+ "from-delhi-3-days-nainital-tour-with-accommodation": {
+  "title": "Ab Delhi: 3-tägige Nainital-Tour mit Unterkunft",
+  "metaTitle": "Delhi-Nainital: 3 Tage, Unterkunft",
+  "metaDescription": "Genießen Sie eine Seilbahnfahrt zum Snow View Point für Panoramablicke auf den Himalaya",
+  "shortDescription": "Genießen Sie eine Seilbahnfahrt zum Snow View Point für Panoramablicke auf den Himalaya",
+  "fullDescription": "Ab Delhi: 3-tägige Nainital-Tour mit Unterkunft. Genießen Sie eine Seilbahnfahrt zum Snow View Point für Panoramablicke auf den Himalaya.\n\n**Was ist inbegriffen**\nPrivates klimatisiertes Taxi mit Chauffeur\nAngemessene Hotelunterkunft\nLokales Taxi für Besichtigungen\nAbholung und Rückfahrt zum Hotel/Flughafen/Bahnhof in Delhi\n\n**Nicht inbegriffen**\nTrinkgelder\nGratifikationen\nJegliche persönliche Ausgaben",
+  "highlights": [
+   "Genießen Sie eine Seilbahnfahrt zum Snow View Point für Panoramablicke auf den Himalaya"
+  ],
+  "included": [
+   "Privates klimatisiertes Taxi mit Chauffeur",
+   "Angemessene Hotelunterkunft",
+   "Lokales Taxi für Besichtigungen",
+   "Abholung und Rückfahrt zum Hotel/Flughafen/Bahnhof in Delhi"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Gratifikationen",
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "delhi-cooking-class-learn-authentic-recipes-in-a": {
+  "title": "Kochkurs in Delhi: lernen Sie authentische Rezepte in einem lokalen Zuhause",
+  "metaTitle": "Delhi: Kochkurs, lokales Zuhause",
+  "metaDescription": "Tauchen Sie ein in die lebendige Welt der indischen Küche mit einer lokalen Familie.",
+  "shortDescription": "Tauchen Sie ein in die lebendige Welt der indischen Küche mit einer lokalen Familie.",
+  "fullDescription": "Kochkurs in Delhi: lernen Sie authentische Rezepte in einem lokalen Zuhause. Tauchen Sie ein in die lebendige Welt der indischen Küche mit einer lokalen Familie.\n\nBegleiten Sie Ihren Gastgeber in einem lokalen Zuhause für ein warmes und immersives indisches Kocherlebnis, das weit über Rezepte hinausgeht. Dieser praktische Kurs ist darauf ausgelegt, Gästen die echte indische Hausmannskost, alltägliche Gewürze, und die Geschichten, Traditionen, und Esskultur vorzustellen, die indische Mahlzeiten prägen.\n\nDas Erlebnis konzentriert sich auf das detaillierte Erlernen von 3 bis 4 Gerichten. Gäste können ein Lieblingscurry auswählen, das Schritt für Schritt zubereitet wird, mit Anleitung zur Auswahl der Gewürze, zum Ausbalancieren der Aromen, und zum Erreichen der richtigen Textur und des richtigen Geschmacks. Ob mildes oder kräftiges Curry, Ihr Gastgeber erklärt den Prozess klar, damit die Gäste verstehen, wie indische Soßen aufgebaut werden, und wie kleine Veränderungen den Geschmack beeinflussen.\n\nDer nächste Höhepunkt des Kurses ist authentisches indisches Biryani. Die Gäste lernen, wie dieses beliebte Gericht traditionell zubereitet wird, vom Schichten von Reis und Gewürzen bis zum Verständnis von Timing und Aroma. Besondere Aufmerksamkeit wird dem Anbraten von Zwiebeln bis zur goldenen Perfektion gewidmet, einem Schlüsselelement, das Tiefe und Süße ins Biryani bringt. Diese Techniken helfen den Gästen, dieses klassische Gericht zu Hause selbstbewusst nachzubilden.\n\nDas Menü umfasst außerdem ein einfaches, aber geschmackvolles vegetarisches Gericht, das perfekt zu Reis oder indischem Brot passt. Auch wenn es komplex aussehen mag, demonstriert Ihr Gastgeber einfache Methoden und praktische Abkürzungen, die in indischen Haushalten verwendet werden, wodurch das Gericht auch für Anfänger zugänglich wird. Während der gesamten Sitzung werden hilfreiche Tipps und kleine Kochtricks geteilt.\n\nDas Erlebnis beginnt am Nachmittag mit einem herzlichen Empfang im Zuhause Ihres Gastgebers. Den Gästen wird gewürzter indischer Tee zusammen mit leichten Snacks angeboten. Interessierte können auch an der Zubereitung beliebter Pakoras teilnehmen, während sie erfahren, wie Teezeit-Snacks in indischen Haushalten genossen werden. Diese entspannte Zeit ermöglicht es den Gästen, Fragen zu stellen und frei über indisches Essen, Alltagsleben, und lokale Traditionen zu sprechen.\n\nWährend der Kochsitzung beteiligen sich die Gäste aktiv am Schneiden, Kochen, und Zusammenstellen der Gerichte, und lernen durch Handeln statt nur durch Zuschauen. Die Atmosphäre ist freundlich und entspannt, sodass es leicht fällt, mitzumachen und den Prozess zu genießen.\n\nNach dem Kochen setzen sich die Gäste gemeinsam hin, um ein frisch zubereitetes indisches Abendessen mit den im Kurs zubereiteten Gerichten zu genießen. Um das Erlebnis auf einer süßen Note zu beenden, wird ein hausgemachtes indisches Dessert serviert.\n\nDieser Kochkurs in einem lokalen Zuhause ist ideal für Reisende, die authentische indische Rezepte erlernen, indische Gewürze verstehen, und durch Essen, Gespräche, und gemeinsame Momente ein echtes kulturelles Erlebnis in Delhi genießen möchten.\n\n**Was ist inbegriffen**\nAbendtee mit 2 bis 3 Arten hausgemachter Snacks\nAbendessen: 3 Hauptgerichte, Brot, und Dessert\n2 bis 3 Beilagen\nWasser in Flaschen\n\n**Nicht inbegriffen**\nAbholung und Rückfahrt zum Hotel\nGratifikationen\nAlles, was nicht in den Einschlüssen erwähnt wird",
+  "highlights": [
+   "Tauchen Sie ein in die lebendige Welt der indischen Küche mit einer lokalen Familie"
+  ],
+  "included": [
+   "Abendtee mit 2 bis 3 Arten hausgemachter Snacks",
+   "Abendessen: 3 Hauptgerichte, Brot, und Dessert",
+   "2 bis 3 Beilagen",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Abholung und Rückfahrt zum Hotel",
+   "Gratifikationen",
+   "Alles, was nicht in den Einschlüssen erwähnt wird"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
