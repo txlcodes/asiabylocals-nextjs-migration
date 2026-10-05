@@ -2628,6 +2628,83 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gratificaciones y propinas"
   ]
  },
+ "delhi-red-fort-skip-the-line-private-guided-tour": {
+  "title": "Delhi: tour privado guiado del Fuerte Rojo sin colas con recogida",
+  "metaTitle": "Delhi: Fuerte Rojo, sin colas, recogida",
+  "metaDescription": "Evite la fila y entre directamente al Fuerte Rojo usando un boleto de acceso prioritario.",
+  "shortDescription": "Evite la fila y entre directamente al Fuerte Rojo usando un boleto de acceso prioritario.",
+  "fullDescription": "**1. Recogida en el hotel en Delhi**\nSu conductor privado lo recoge en su hotel o lugar elegido en Delhi y lo lleva cómodamente al Fuerte Rojo, evitando el transporte público abarrotado.\n\n**2. Entrada sin colas en el Fuerte Rojo**\nLlegue al Fuerte Rojo catalogado por la UNESCO y evite las largas filas con entrada rápida organizada con antelación. Conozca a su guía privado profesional en la entrada.\n\n**3. Exploración guiada del Fuerte Rojo**\nCamine por la majestuosa Puerta Lahori, Chatta Chowk, Diwan-i-Am, Diwan-i-Khas, pabellones reales, y jardines mientras su guía comparte historias fascinantes sobre los emperadores mogoles, arquitectura, e historia.\n\n**4. Tiempo personalizado y paradas fotográficas**\nDisfrute de tiempo flexible para hacer preguntas, admirar los detalles, y capturar fotos de los impresionantes muros, salones, y patios del fuerte a su propio ritmo.\n\n**5. Traslado de regreso**\nDespués del tour, su conductor lo lleva de regreso a su hotel o a un lugar preferido en Delhi, terminando una experiencia privada fluida e informativa.",
+  "highlights": [
+   "Evite la fila y entre directamente al Fuerte Rojo usando un boleto de acceso prioritario"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto",
+   "Auto privado con aire acondicionado para el avistamiento con conductor",
+   "Guía turístico experto aprobado por el gobierno",
+   "Boletos de entrada a los monumentos (si se selecciona la opción)",
+   "Botella de agua mineral",
+   "Todos los peajes y estacionamiento"
+  ],
+  "notIncluded": [
+   "Cualquier comida",
+   "Cualquier gasto personal"
+  ]
+ },
+ "delhi-2-day-private-delhi-agra-with-taj-mahal": {
+  "title": "Delhi: tour privado de 2 días por Delhi y Agra con el Taj Mahal en auto",
+  "metaTitle": "Delhi-Agra: 2 días, Taj Mahal, auto privado",
+  "metaDescription": "Explore la Vieja y la Nueva Delhi, con Jama Masjid, Chandni Chowk, e India Gate.",
+  "shortDescription": "Explore la Vieja y la Nueva Delhi, con Jama Masjid, Chandni Chowk, e India Gate.",
+  "fullDescription": "Descubra Delhi y Agra en este tour privado de 2 días en auto, incluyendo el Taj Mahal. Explore la Vieja y la Nueva Delhi, con Jama Masjid, Chandni Chowk, e India Gate, disfrute de un paseo en rickshaw en la Vieja Delhi, y luego viaje a Agra para visitar el Taj Mahal, con 1 noche de alojamiento y un guía turístico privado durante todo el viaje.",
+  "highlights": [
+   "Explore la Vieja y la Nueva Delhi, con Jama Masjid, Chandni Chowk, e India Gate"
+  ],
+  "included": [
+   "Recogida y traslado al hotel o aeropuerto en Delhi, Noida, Gurugram, Ghaziabad, o Faridabad",
+   "Tour privado",
+   "1 noche de alojamiento (si se selecciona la opción)",
+   "Boletos de entrada a los monumentos (si se selecciona la opción)",
+   "Transporte en vehículo privado con aire acondicionado con conductor",
+   "Guía turístico privado",
+   "Paseo en rickshaw en la Vieja Delhi",
+   "Desayuno diario en los hoteles (si se incluye el alojamiento)",
+   "Transporte en autobús eléctrico hacia y desde el área de estacionamiento del Taj Mahal",
+   "Agua mineral embotellada de cortesía durante los traslados",
+   "Todos los impuestos y recargos de combustible aplicables"
+  ],
+  "notIncluded": [
+   "Bebidas",
+   "Almuerzo y cena",
+   "Propinas (opcional)"
+  ]
+ },
+ "day-trip-fatehpur-sikri-tour-with-agra-fort-from": {
+  "title": "Excursión de un día a Fatehpur Sikri con el Fuerte de Agra desde la ciudad de Agra",
+  "metaTitle": "Agra: Fatehpur Sikri y Fuerte de Agra, excursión",
+  "metaDescription": "Visite dos Sitios del Patrimonio Mundial de la UNESCO en un día.",
+  "shortDescription": "Visite dos Sitios del Patrimonio Mundial de la UNESCO en un día.",
+  "fullDescription": "Este tour especial está diseñado para viajeros que realmente desean experimentar el patrimonio mogol de la India, ya que tanto Fatehpur Sikri como el Fuerte de Agra son Sitios del Patrimonio Mundial de la UNESCO. Durante este tour de día completo, explorará ambos monumentos históricos en un día, comenzando desde la ciudad de Agra.\n\n**Fatehpur Sikri**\nFatehpur Sikri es un magnífico complejo de palacio mogol construido por el emperador Akbar en el siglo XVI. Dentro del monumento, visitará estructuras famosas como la Jami Masjid, Buland Darwaza, la Tumba de Sheikh Salim Chishti, Khass Mahal, Panch Mahal, Diwan-i-Khas, Diwan-i-Am, Anup Talao, Khwabgah, Mina Bazaar, y Chaupar.\n\nEl emperador Akbar (1556-1605), nieto de Babur, trasladó su capital de Agra a Sikri de 1572 a 1585 para honrar al famoso santo sufí Sheikh Salim Chishti, quien lo bendijo con un hijo, más tarde llamado Salim (emperador Jahangir). Akbar tenía un gran respeto por el santo, y la ciudad se convirtió en un importante centro de la cultura y arquitectura mogol.\n\n**Fuerte de Agra**\nEl Fuerte de Agra es una impresionante fortaleza de arenisca roja y mármol blanco, que muestra la mejor arquitectura mogol. El fuerte tiene un diseño semicircular y está rodeado por murallas dobles masivas que se extienden aproximadamente 2,5 km de perímetro y se elevan casi 70 pies de altura.\n\nEl fuerte tiene cuatro puertas: la Puerta de Delhi, la Puerta de Amar Singh, Hathi Pol, y la Puerta de Ghazni. Entre ellas, la Puerta de Delhi era la gran entrada ceremonial utilizada por el emperador Akbar.\n\nDentro del fuerte, explorará impresionantes palacios y salones, incluyendo el Palacio de Akbar, el Palacio de Jahangir, el Palacio de Shah Jahan, Diwan-i-Am, Diwan-i-Khas, Sheesh Mahal, Moti Masjid, y la Puerta de Amar Singh.\n\nSu guía turístico profesional compartirá información histórica detallada y también lo ayudará a capturar hermosas fotos desde los mejores puntos fotográficos dentro de los monumentos, perfecto para redes sociales y recuerdos para toda la vida.\n\nEste tour también incluye entrada sin colas, lo que le permite entrar al Fuerte de Agra sin esperar en largas filas.",
+  "highlights": [
+   "Visite dos Sitios del Patrimonio Mundial de la UNESCO en un día"
+  ],
+  "included": [
+   "Auto SUV / sedán",
+   "Conductor de habla inglesa",
+   "Recogida y traslado a un lugar",
+   "Todos los peajes",
+   "Todo el estacionamiento en los monumentos",
+   "Guía turístico de habla inglesa en Agra y Fatehpur Sikri",
+   "Botella de agua mineral en el auto",
+   "Arte y artesanía local"
+  ],
+  "notIncluded": [
+   "Entrada a los monumentos",
+   "Desayuno",
+   "Almuerzo",
+   "Propinas y gratificaciones",
+   "Gastos personales"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
