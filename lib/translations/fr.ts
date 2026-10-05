@@ -1102,6 +1102,81 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "private-golden-triangle-4-day-tour-package-delhi": {
+  "title": "Forfait de visite privée du Triangle Doré de 4 jours : Delhi-Agra-Jaipur",
+  "metaTitle": "Triangle Doré privé 4 jours : Delhi-Agra-Jaipur",
+  "metaDescription": "4 jours, 3 villes, Delhi, Agra, Jaipur en un itinéraire emblématique.",
+  "shortDescription": "4 jours, 3 villes, Delhi, Agra, Jaipur en un itinéraire emblématique.",
+  "fullDescription": "Découvrez le Triangle Doré de l'Inde lors de ce forfait privé de 4 jours couvrant Delhi, Agra, et Jaipur. Avec un véhicule privé climatisé et chauffeur, des guides professionnels agréés par le gouvernement, et 3 nuits dans des hôtels 5 étoiles, ce voyage soigneusement organisé vous fait découvrir les monuments emblématiques, le patrimoine royal, et les trésors culturels de ces trois villes.\n\nExplorez les points forts de Delhi, admirez le Taj Mahal et le fort d'Agra, et découvrez les merveilles de Jaipur, la ville rose, lors de visites guidées personnalisées dans chaque ville.",
+  "highlights": [
+   "4 jours, 3 villes, Delhi, Agra, Jaipur en un itinéraire emblématique"
+  ],
+  "included": [
+   "Voiture privée climatisée avec chauffeur",
+   "3 nuits de séjour dans un hôtel 5 étoiles",
+   "Petit-déjeuner quotidien à l'hôtel",
+   "Guides professionnels agréés par le gouvernement",
+   "Prise en charge et retour à l'hôtel",
+   "Toutes les taxes, péages, et stationnement",
+   "Eau en bouteille, et visites de ville organisées à Delhi, Agra, et Jaipur"
+  ],
+  "notIncluded": [
+   "Frais d'entrée aux monuments",
+   "Déjeuner et dîner",
+   "Dépenses personnelles",
+   "Assurance voyage"
+  ]
+ },
+ "meghalaya-7-day-private-tour-with-accommodation": {
+  "title": "Meghalaya : visite privée de 7 jours avec hébergement",
+  "metaTitle": "Meghalaya : visite privée 7 jours avec hébergement",
+  "metaDescription": "Plongez dans les paysages luxuriants et les collines brumeuses du Meghalaya.",
+  "shortDescription": "Plongez dans les paysages luxuriants et les collines brumeuses du Meghalaya.",
+  "fullDescription": "Explorez l'état enchanteur du Meghalaya, niché dans le nord-est de l'Inde. Connu comme « la demeure des nuages », le Meghalaya est célèbre pour ses collines brumeuses, sa verdure luxuriante, ses cascades, ses rivières cristallines, et ses ponts de racines vivantes uniques. Commencez votre aventure à Shillong, la ville capitale, souvent appelée l'« Écosse de l'Est ».\n\nDécouvrez la charmante ville capitale, connue pour son architecture coloniale, ses marchés animés, et sa beauté naturelle sereine. Visitez le lac Umiam pour le canotage et des vues pittoresques, le pic de Shillong pour des panoramas, et les chutes d'Éléphant. Explorez le lac Ward, le parc Lady Hydari, et le musée Don Bosco pour des aperçus culturels.\n\nEnsuite, dirigez-vous vers Cherrapunji (Sohra), célèbre pour ses précipitations et ses paysages à couper le souffle. Visitez les chutes de Nohkalikai, la plus haute chute d'eau de l'Inde, et les chutes des Sept Sœurs. Explorez les grottes de Mawsmai et d'Arwah, et émerveillez-vous devant les ponts de racines vivantes, fabriqués par les tribus Khasi à partir de racines d'arbres vivantes.\n\nContinuez vers Mawsynram, connue pour enregistrer les précipitations annuelles les plus élevées au monde. Vivez une atmosphère magique parmi les nuages brumeux, les grottes, et les cascades. Puis, visitez Dawki et Shnongpdeng, situées à la frontière Inde-Bangladesh. Profitez du canotage, du kayak, du camping, et de la photographie sur les eaux cristallines de la rivière Dawki (rivière Umngot).\n\nVoyagez vers Mawlynnong, récompensé comme le « village le plus propre d'Asie ». Découvrez le tourisme durable et la propreté communautaire. Marchez sur le Sky Walk, un point de vue en bambou, et visitez le pont de racines vivantes près du village de Riwai. Plongez dans la culture locale Khasi et le mode de vie écologique.\n\nExplorez Jowai, une belle région remplie de lacs, de cascades, et de culture tribale. Visitez les chutes de Krang Suri, les chutes de Tyrshi, le lac Thadlaskein, et les anciennes structures en pierre des monolithes de Nartiang. Enfin, partez en randonnée vers Nongriat, un paradis pour les randonneurs, célèbre pour son pont de racines vivantes à deux étages, accessible en descendant plus de 3 000 marches depuis le village de Tyrna.\n\nDécouvrez la riche culture tribale et les festivals du Meghalaya, foyer des tribus Khasi, Jaintia, et Garo. Savourez la cuisine locale, notamment le Jadoh (riz rouge au porc), le Tungrymbai (curry de soja fermenté), le Dohneiiong (porc aux graines de sésame noir), le Pumaloi (riz vapeur), et la bière de riz locale (Kyat). Faites du shopping pour de l'artisanat en bambou et en rotin, des châles tissés à la main, des bijoux tribaux, des épices biologiques, et du miel sur les marchés locaux comme Police Bazaar (Shillong) et le marché Lewduh.",
+  "highlights": [
+   "Plongez dans les paysages luxuriants et les collines brumeuses du Meghalaya"
+  ],
+  "included": [
+   "Frais d'entrée",
+   "Visite de Shillong",
+   "Visite de Cherrapunji",
+   "Visite de Mawsynram",
+   "Visite de Dawki et Shnongpdeng",
+   "Visite de Mawlynnong",
+   "Visite de Jowai",
+   "Visite de Nongriat",
+   "Randonnée",
+   "Spéléologie",
+   "Camping",
+   "Sports nautiques"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Transport vers le Meghalaya"
+  ]
+ },
+ "sunrise-taj-mahal-agra-private-city-tour-all": {
+  "title": "Taj Mahal au lever du soleil et visite privée de la ville d'Agra (tout compris)",
+  "metaTitle": "Agra : Taj Mahal au lever du soleil, tout compris",
+  "metaDescription": "Assistez au lever de soleil à couper le souffle sur le Taj Mahal.",
+  "shortDescription": "Assistez au lever de soleil à couper le souffle sur le Taj Mahal.",
+  "fullDescription": "**1. Prise en charge tôt le matin depuis Delhi**\nVotre chauffeur vous prendra en charge à votre hôtel ou à l'aéroport à Delhi vers 2h30-3h00. Profitez d'un trajet confortable de 3 à 4 heures vers Agra via l'autoroute Yamuna.\n\n**2. Assistez au lever du soleil au Taj Mahal**\nArrivez à Agra et rencontrez votre guide local. Visitez le magnifique Taj Mahal au lever du soleil et assistez à son éclat de marbre dans la lumière matinale. Découvrez l'histoire romantique derrière ce site du patrimoine mondial de l'UNESCO. Passez amplement de temps à explorer et à prendre des photos avant l'arrivée des foules.\n\n**3. Petit-déjeuner dans un hôtel 5 étoiles**\nProfitez d'un délicieux petit-déjeuner buffet dans un hôtel 5 étoiles à Agra (inclus dans la visite).\n\n**4. Explorez le fort d'Agra**\nVisitez l'impressionnant fort d'Agra, un site du patrimoine mondial de l'UNESCO. Découvrez ses palais, cours, et tours qui abritaient autrefois les empereurs moghols.\n\n**5. Visitez le Baby Taj (Itimad-ud-Daulah)**\nExplorez le « Baby Taj », un beau mausolée en marbre qui a inspiré le design du Taj Mahal. Souvent considéré comme une version préliminaire du Taj Mahal.\n\n**6. Déjeuner dans un restaurant local (inclus)**\nSavourez une authentique cuisine indienne dans un restaurant local bien noté.\n\n**7. Shopping optionnel ou visite de marché local**\nExplorez l'artisanat local d'Agra, le travail d'incrustation en marbre, et les souvenirs si vous le souhaitez.\n\n**8. Retour vers Delhi**\nAprès la visite, détendez-vous dans votre voiture privée en retournant à Delhi. Arrivez à votre hôtel ou aéroport en soirée.",
+  "highlights": [
+   "Assistez au lever de soleil à couper le souffle sur le Taj Mahal"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel/aéroport",
+   "Voiture privée climatisée pour toute l'activité du tour avec chauffeur",
+   "Guide touristique en direct agréé par le gouvernement",
+   "Billets d'entrée aux monuments (si option sélectionnée)",
+   "Déjeuner dans un hôtel 5 étoiles (si option sélectionnée)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et le stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
