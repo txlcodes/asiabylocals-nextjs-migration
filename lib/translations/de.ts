@@ -96,6 +96,73 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alles, was nicht ausdrücklich unter den Einschlüssen aufgeführt ist"
   ]
  },
+ "delhi-half-day-on-taste-smell-and-see-old": {
+  "title": "Delhi: Halbtag mit Geschmack, Geruch, und Nahsicht auf Alt-Delhi",
+  "metaTitle": "Delhi: Geschmack und Geruch von Alt-Delhi",
+  "metaDescription": "Fahren Sie mit einem Tuk-Tuk durch Chandni Chowk.",
+  "shortDescription": "Fahren Sie mit einem Tuk-Tuk durch Chandni Chowk.",
+  "fullDescription": "Treffen Sie Ihren Guide und fahren Sie Richtung Alt-Delhi, über die historische Ringstraße nach Shahjahanabad, der ummauerten Mogul-Stadt aus dem 17. Jahrhundert. Kommen Sie an Shah Jahans großer Moschee an, bekannt für ihren weiten Innenhof, drei massive Kuppeln, und vier Minarette. Wenn Sie möchten, steigen Sie das südliche Minarett hinauf für weitläufige Ausblicke über die Dächer von Alt-Delhi.\n\nSteigen Sie in ein Tuk-Tuk und tauchen Sie ein in das prächtige Chaos von Chandni Chowk, vorbei am Silbermarkt, dem Papierbasar, und Ausblicken auf das Rote Fort am Ende der Straße. Gehen Sie durch Asiens größten Großhandelsgewürzmarkt, wo Säcke voller Gewürze, lebhafte Farben, und kraftvolle Düfte die Gassen erfüllen. Ihr Guide erklärt die Gewürze und wie sie in der indischen Küche verwendet werden.\n\nErkunden Sie den glitzernden Hochzeitsmarkt, voll mit Lametta, Dekorationen, Pailletten, und festlichen Details, und machen Sie dann eine Pause für einen starken Chai mit lokalen Händlern. Kehren Sie zu Ihrem Hotel zurück oder erkunden Sie Delhi weiter unabhängig.",
+  "highlights": [
+   "Fahren Sie mit einem Tuk-Tuk durch Chandni Chowk"
+  ],
+  "included": [
+   "Tuk-Tuk-Tour",
+   "Guide",
+   "Tuk-Tuk-Transport",
+   "Abholung am Treffpunkt",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persönliches Einkaufen",
+   "Eintritt zum Roten Fort, optional",
+   "Trinkgelder"
+  ]
+ },
+ "delhi-a-day-between-gates-gardens-and-tombs": {
+  "title": "Delhi: ein Tag zwischen Toren, Gärten, und Grabmälern",
+  "metaTitle": "Delhi: Tore, Gärten, und Grabmäler",
+  "metaDescription": "Erkunden Sie Alt- und Neu-Delhi mit dem Tuk-Tuk.",
+  "shortDescription": "Erkunden Sie Alt- und Neu-Delhi mit dem Tuk-Tuk.",
+  "fullDescription": "Treffen Sie Ihren Guide am festgelegten Treffpunkt und steigen Sie in ein Tuk-Tuk, um Ihre ganztägige Delhi-Tour zu beginnen. Beginnen Sie mit einem Besuch des India Gate, eines der bekanntesten Wahrzeichen Neu-Delhis und ein kraftvolles Symbol der Stadt.\n\nAls Nächstes fahren Sie durch das Herz des indischen Regierungsviertels und erfassen das Ausmaß der zivilen Architektur der Hauptstadt. Weiter geht es zum Lotus-Tempel, einem auffälligen lotusförmigen Tempel, bekannt für seine ruhige Umgebung und sein unverwechselbares Design.\n\nTreten Sie ein in den Lodhi-Garten, einen der grünsten historischen Orte Delhis, wo Gartenwege auf historische Grabmäler treffen. Entdecken Sie dann das imposante Rote Fort aus der Mogul-Zeit, das die Geschichte von Alt-Delhi verankert.\n\nErleben Sie eine der wichtigsten Moscheen Indiens und die Atmosphäre der Altstadt darum herum bei Jama Masjid. Beenden Sie Ihre Tour schließlich mit einem Besuch des Humayun-Grabmals, einem Wahrzeichen der Mogul-Architektur und einer der bewundertsten historischen Stätten Delhis.",
+  "highlights": [
+   "Erkunden Sie Alt- und Neu-Delhi mit dem Tuk-Tuk"
+  ],
+  "included": [
+   "Tuk-Tuk-Tour",
+   "Guide",
+   "Tuk-Tuk-Transport",
+   "Abholung am Treffpunkt",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Nicht angegebene Eintrittskarten",
+   "Nicht angegebenes Essen",
+   "Nicht angegebene persönliche Ausgaben"
+  ]
+ },
+ "from-delhi-taj-mahal-day-trip-by-vande-bharat": {
+  "title": "Ab Delhi: Taj-Mahal-Tagesausflug mit dem Vande-Bharat-Express-Zug",
+  "metaTitle": "Delhi-Agra mit dem Vande-Bharat-Express",
+  "metaDescription": "Reisen Sie zwischen Delhi und Agra mit dem Vande-Bharat-Express-Zug.",
+  "shortDescription": "Reisen Sie zwischen Delhi und Agra mit dem Vande-Bharat-Express-Zug.",
+  "fullDescription": "Reisen Sie von Neu-Delhi nach Agra auf einer aufregenden Tagesreise an Bord des Vande-Bharat-Express und entdecken Sie die zeitlose Schönheit des Taj Mahal. Genießen Sie eine komfortable Zugfahrt und erkunden Sie Agras berühmteste Sehenswürdigkeiten mit einem privaten Guide und bequemem Transport.\n\nIhr Tag beginnt mit einer Abholung von Ihrem Hotel in Neu-Delhi und Transfer zum Bahnhof. Steigen Sie in den Vande-Bharat-Express für eine komfortable Fahrt nach Agra. Bei der Ankunft treffen Sie Ihren privaten Fahrer und Guide und beginnen, das prächtige Mogul-Erbe der Stadt zu erkunden.\n\nBesuchen Sie den weltberühmten Taj Mahal und erfahren Sie mehr über seine faszinierende Geschichte und Architektur. Weiter geht es zum Fort Agra, einer UNESCO-Welterbestätte, und genießen Sie freie Zeit zum Mittagessen. Je nach verfügbarer Zeit können Sie auch lokale Kunsthandwerksgeschäfte besuchen oder andere Attraktionen in Agra erkunden.\n\nAm Abend kehren Sie zum Bahnhof Agra zurück und steigen in den Vande-Bharat-Express zurück nach Neu-Delhi. Bei der Ankunft bringt Ihr Fahrer Sie zurück zu Ihrem Hotel und vollendet damit einen unvergesslichen Taj-Mahal-Tagesausflug.",
+  "highlights": [
+   "Reisen Sie zwischen Delhi und Agra mit dem Vande-Bharat-Express-Zug"
+  ],
+  "included": [
+   "Hin- und Rück-Zugtickets",
+   "Vande-Bharat-Sonderzug",
+   "Private Transfers in Agra",
+   "Eintrittsgebühren",
+   "Erfahrener lokaler Guide",
+   "Alle Steuern und Parken"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",

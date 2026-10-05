@@ -96,6 +96,73 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier cosa no específicamente listada en las inclusiones"
   ]
  },
+ "delhi-half-day-on-taste-smell-and-see-old": {
+  "title": "Delhi: medio día de sabores, aromas y una vista cercana del viejo Delhi",
+  "metaTitle": "Delhi: sabores y aromas del viejo Delhi",
+  "metaDescription": "Haga un paseo en tuk-tuk por Chandni Chowk.",
+  "shortDescription": "Haga un paseo en tuk-tuk por Chandni Chowk.",
+  "fullDescription": "Conozca a su guía y viaje hacia el viejo Delhi, cruzando la histórica carretera de circunvalación hacia Shahjahanabad, la ciudad amurallada mogol del siglo XVII. Llegue a la gran mezquita de Shah Jahan, conocida por su amplio patio, sus tres enormes cúpulas, y cuatro minaretes. Si lo desea, suba al minarete sur para vistas panorámicas sobre los tejados del viejo Delhi.\n\nSuba a bordo de un tuk-tuk y sumérjase en el magnífico caos de Chandni Chowk, pasando por el mercado de plata, el bazar de papel, y vistas hacia el Fuerte Rojo al final de la calle. Camine por el mercado mayorista de especias más grande de Asia, donde sacos de especias, colores vívidos, y potentes aromas llenan los callejones. Su guía explica las especias y cómo se usan en la cocina india.\n\nExplore el deslumbrante mercado de bodas, lleno de oropel, decoraciones, lentejuelas, y detalles festivos, luego haga una pausa para un chai fuerte con los comerciantes locales. Regrese a su hotel o continúe explorando Delhi de forma independiente.",
+  "highlights": [
+   "Haga un paseo en tuk-tuk por Chandni Chowk"
+  ],
+  "included": [
+   "Tour en tuk-tuk",
+   "Guía",
+   "Transporte en tuk-tuk",
+   "Recogida en el punto de encuentro",
+   "Agua potable"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Compras personales",
+   "Entrada al Fuerte Rojo, opcional",
+   "Propinas"
+  ]
+ },
+ "delhi-a-day-between-gates-gardens-and-tombs": {
+  "title": "Delhi: un día entre puertas, jardines, y tumbas",
+  "metaTitle": "Delhi: puertas, jardines, y tumbas",
+  "metaDescription": "Explore el viejo y el nuevo Delhi en tuk-tuk.",
+  "shortDescription": "Explore el viejo y el nuevo Delhi en tuk-tuk.",
+  "fullDescription": "Conozca a su guía en el punto de encuentro designado y suba a un tuk-tuk para comenzar su tour de día completo por Delhi. Comience visitando India Gate, uno de los monumentos más reconocibles de Nueva Delhi y un poderoso símbolo de la ciudad.\n\nA continuación, pase por el corazón del distrito gubernamental de la India y observe la escala de la arquitectura cívica de la capital. Continúe hacia el Templo del Loto, un llamativo templo en forma de loto conocido por su ambiente tranquilo y diseño distintivo.\n\nEntre en el Jardín de Lodhi, uno de los espacios patrimoniales más verdes de Delhi, donde los senderos del jardín se encuentran con tumbas históricas. Luego, descubra el imponente Fuerte Rojo de la era mogol que ancla la historia del viejo Delhi.\n\nExperimente una de las mezquitas más importantes de la India y el ambiente de la ciudad antigua a su alrededor en Jama Masjid. Finalmente, termine su tour con una visita a la Tumba de Humayun, un hito de la arquitectura mogol y uno de los sitios históricos más admirados de Delhi.",
+  "highlights": [
+   "Explore el viejo y el nuevo Delhi en tuk-tuk"
+  ],
+  "included": [
+   "Tour en tuk-tuk",
+   "Guía",
+   "Transporte en tuk-tuk",
+   "Recogida en el punto de encuentro",
+   "Agua potable"
+  ],
+  "notIncluded": [
+   "Entradas no especificadas",
+   "Comida no especificada",
+   "Gastos personales no especificados"
+  ]
+ },
+ "from-delhi-taj-mahal-day-trip-by-vande-bharat": {
+  "title": "Desde Delhi: excursión de un día al Taj Mahal en tren Vande Bharat Express",
+  "metaTitle": "Delhi-Agra en tren Vande Bharat Express",
+  "metaDescription": "Viaje entre Delhi y Agra en tren Vande Bharat Express.",
+  "shortDescription": "Viaje entre Delhi y Agra en tren Vande Bharat Express.",
+  "fullDescription": "Viaje de Nueva Delhi a Agra en un emocionante viaje de ida y vuelta en el mismo día a bordo del Vande Bharat Express y descubra la belleza intemporal del Taj Mahal. Disfrute de un viaje en tren cómodo y explore los monumentos más famosos de Agra con un guía privado y transporte conveniente.\n\nSu día comienza con una recogida en su hotel en Nueva Delhi y traslado a la estación de tren. Suba a bordo del Vande Bharat Express para un viaje cómodo a Agra. A la llegada, conozca a su conductor y guía privados y comience a explorar el magnífico patrimonio mogol de la ciudad.\n\nVisite el mundialmente famoso Taj Mahal y aprenda sobre su fascinante historia y arquitectura. Continúe hacia el Fuerte de Agra, un Sitio del Patrimonio Mundial de la UNESCO, y disfrute de tiempo libre para el almuerzo. Según el tiempo disponible, también puede visitar tiendas de artesanías locales o explorar otras atracciones en Agra.\n\nPor la tarde, regrese a la estación de tren de Agra y suba a bordo del Vande Bharat Express de vuelta a Nueva Delhi. A la llegada, su conductor lo trasladará de vuelta a su hotel, completando una memorable excursión de un día al Taj Mahal.",
+  "highlights": [
+   "Viaje entre Delhi y Agra en tren Vande Bharat Express"
+  ],
+  "included": [
+   "Boletos de tren de ida y vuelta",
+   "Tren especial Vande Bharat",
+   "Traslados privados en Agra",
+   "Tarifas de entrada",
+   "Guía local experto",
+   "Todos los impuestos y estacionamiento"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
