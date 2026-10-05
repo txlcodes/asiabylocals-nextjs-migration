@@ -20391,6 +20391,80 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier cosa no mencionada en las inclusiones"
   ]
  },
+ "delhi-to-kashmir-8-day-tour-with-shikara-gulmarg": {
+  "title": "De Delhi a Kashmir: tour de 8 días con shikara y Gulmarg",
+  "metaTitle": "Delhi-Kashmir en 8 días: shikara, Gulmarg",
+  "metaDescription": "Descubra la belleza de Kashmir en un tour de 8 días desde Delhi.",
+  "shortDescription": "Descubra la belleza de Kashmir en un tour de 8 días desde Delhi.",
+  "fullDescription": "**Día 1: Delhi, Srinagar**\n\nComience su viaje desde Delhi en coche privado. Disfrute de un trayecto pintoresco por Punjab y Jammu antes de continuar hacia Srinagar. Pase la noche en el camino en Jammu o Katra.\n\n**Día 2: llegada a Srinagar**\n\nDespués del desayuno, continúe su trayecto hacia Srinagar. A su llegada, regístrese en su hotel o casa flotante. Por la tarde, disfrute de un relajante paseo en shikara por el lago Dal. Pase la noche en Srinagar.\n\n**Día 3: recorrido por Srinagar**\n\nDespués del desayuno, visite los Jardines Mogoles, incluyendo Nishat Bagh, Shalimar Bagh, Chashme Shahi, Pari Mahal, el Templo Shankaracharya, y el Santuario Hazratbal. Pase la tarde explorando el mercado local. Pase la noche en Srinagar.\n\n**Día 4: excursión a Gulmarg**\n\nConduzca hacia Gulmarg, una de las estaciones de montaña más hermosas de Kashmir. Disfrute de vistas panorámicas de las montañas y actividades opcionales como el teleférico Gulmarg Gondola, montar a caballo, o actividades en la nieve (estacional). Regreso a Srinagar para pasar la noche.\n\n**Día 5: excursión a Pahalgam**\n\nDespués del desayuno, conduzca hacia Pahalgam pasando por campos de azafrán y huertos de manzanas. Visite el Valle Betaab, el Valle Aru, y Chandanwari (opcional en taxi local). Regreso a Srinagar por la tarde. Pase la noche en Srinagar.\n\n**Día 6: excursión a Sonamarg**\n\nViaje a Sonamarg, conocida como el \"Prado de Oro\". Disfrute de impresionantes paisajes del Himalaya y paseos opcionales en poni hacia el Glaciar Thajiwas. Regreso a Srinagar para pasar la noche.\n\n**Día 7: Srinagar, Jammu**\n\nDespués del desayuno, haga el check-out y conduzca de regreso hacia Jammu. Pase la noche en el camino.\n\n**Día 8: Jammu, Delhi**\n\nDespués del desayuno, continúe su trayecto de regreso a Delhi, terminando su memorable tour por Kashmir.",
+  "highlights": [
+   "Descubra la belleza de Kashmir en un tour de 8 días desde Delhi"
+  ],
+  "included": [
+   "Transporte en coche privado con aire acondicionado",
+   "Noches de alojamiento en hoteles o casas flotantes",
+   "Paseo en shikara por el lago Dal",
+   "Visitas a los Jardines Mogoles",
+   "Excursiones a Gulmarg, Pahalgam, y Sonamarg"
+  ],
+  "notIncluded": [
+   "Comidas no especificadas",
+   "Actividades opcionales como el teleférico Gulmarg Gondola, montar a caballo, o actividades en la nieve",
+   "Taxi local en Pahalgam"
+  ]
+ },
+ "delhi-6-hours-delhi-spiritual-sites-with-famous": {
+  "title": "Delhi: sitios espirituales de Delhi en 6 horas con templos famosos",
+  "metaTitle": "Delhi: sitios espirituales en 6 horas",
+  "metaDescription": "Obtenga la mejor oferta de verano en el tour espiritual de Delhi.",
+  "shortDescription": "Obtenga la mejor oferta de verano en el tour espiritual de Delhi.",
+  "fullDescription": "**Recogida**\nComience su viaje con una cómoda recogida en su hotel, aeropuerto, estación de tren, o cualquier lugar preferido en Delhi, Noida, Gurugram, y Ghaziabad. Conozca a su amigable conductor privado y su experto guía local, un nativo de Delhi que compartirá historias fascinantes, joyas escondidas, y la rica cultura de la ciudad mientras explora el Viejo y el Nuevo Delhi.\n\n**Explore el lado espiritual y cultural de Delhi**\nComience su recorrido con la magnífica Jama Masjid, seguida de una visita al animado mercado de Chandni Chowk. Disfrute de un emocionante paseo en rickshaw por las vivaces calles, y capture fotos inolvidables del encanto del Viejo Delhi. Más tarde, disfrute de un almuerzo en un agradable restaurante local, antes de continuar hacia las famosas atracciones espirituales del Nuevo Delhi, incluyendo el Templo de Loto, el Gurudwara Bangla Sahib, y el Swaminarayan Akshardham. Este tour de 6 horas combina espiritualidad y cultura.\n\n**Entrega en su lugar preferido**\nDespués de un día memorable explorando Delhi, relájese mientras es dejado cómodamente en su hotel, aeropuerto, estación de tren, o cualquier lugar deseado en Delhi, Noida, Gurugram, y Ghaziabad.",
+  "highlights": [
+   "Obtenga la mejor oferta de verano en el tour espiritual de Delhi"
+  ],
+  "included": [
+   "Transporte en coche privado con aire acondicionado y conductor",
+   "Guía turístico privado",
+   "Recogida y traslado al hotel",
+   "Paseo en rickshaw en el Viejo Delhi (si se selecciona esa opción)",
+   "Boleto de entrada a los monumentos (si se selecciona esa opción)",
+   "Almuerzo (si se selecciona esa opción)",
+   "Horario e itinerario flexibles según su ritmo y tiempo",
+   "Agua mineral ilimitada",
+   "Todos los gastos del vehículo, cargos de estacionamiento, e impuestos aplicables"
+  ],
+  "notIncluded": [
+   "Cualquier bebida servida con el almuerzo",
+   "Gastos personales",
+   "Gratificaciones y propinas"
+  ]
+ },
+ "delhi-2-hour-red-fort-guided-evening-light-sound": {
+  "title": "Delhi: espectáculo guiado de luz y sonido de 2 horas en el Fuerte Rojo al anochecer",
+  "metaTitle": "Delhi: Fuerte Rojo, luz y sonido, 2 horas",
+  "metaDescription": "Vea el Fuerte Rojo brillar en un espectáculo de proyección 3D de clase mundial.",
+  "shortDescription": "Vea el Fuerte Rojo brillar en un espectáculo de proyección 3D de clase mundial.",
+  "fullDescription": "Entre en el corazón de la historia india con una inolvidable noche en el icónico espectáculo de luz y sonido del Fuerte Rojo. Mientras el sol se pone sobre Delhi, el magnífico Fuerte Rojo del siglo XVII se transforma en un lienzo deslumbrante de luz, sonido, y narración.\n\nEste espectáculo inmersivo da vida a más de 300 años de las eras real, colonial, y de lucha por la libertad de la India, todo proyectado sobre los imponentes muros de este sitio del Patrimonio Mundial de la UNESCO.\n\nYa sea que sea un visitante primerizo o un amante de la historia local, este espectáculo es una forma única de sentir el alma de la India. Observe desplegarse relatos dramáticos de emperadores y héroes, escuche los ecos de los tambores de guerra y los cantos de libertad, y sea testigo de cómo Delhi evolucionó a través de los siglos, todo bajo las estrellas, en uno de los lugares más icónicos de la India. Este espectáculo en 3D dura 2 horas.",
+  "highlights": [
+   "Vea el Fuerte Rojo brillar en un espectáculo de proyección 3D de clase mundial"
+  ],
+  "included": [
+   "Boleto de entrada al Fuerte Rojo",
+   "Guía turístico",
+   "Espectáculo de luz y sonido en el Fuerte Rojo",
+   "Narración de la historia de la India",
+   "Proyección en los muros del Fuerte Rojo",
+   "Recogida/entrega opcional (si se selecciona esa opción)",
+   "Elección de idioma",
+   "Botellas de agua"
+  ],
+  "notIncluded": [
+   "Gastos personales: cualquier compra o gasto personal no está incluido",
+   "Mejoras: las mejoras a categorías de asientos superiores o servicios adicionales pueden generar cargos extra",
+   "Gratificaciones: las propinas para guías o conductores no están incluidas y quedan a su discreción",
+   "Comidas y bebidas: la comida y las bebidas no se proporcionan durante el espectáculo"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",

@@ -20391,6 +20391,80 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alles, was nicht in den Einschlüssen genannt ist"
   ]
  },
+ "delhi-to-kashmir-8-day-tour-with-shikara-gulmarg": {
+  "title": "Von Delhi nach Kashmir: 8-tägige Tour mit Shikara und Gulmarg",
+  "metaTitle": "Delhi-Kashmir in 8 Tagen: Shikara, Gulmarg",
+  "metaDescription": "Entdecken Sie die Schönheit Kashmirs auf einer 8-tägigen Tour von Delhi aus.",
+  "shortDescription": "Entdecken Sie die Schönheit Kashmirs auf einer 8-tägigen Tour von Delhi aus.",
+  "fullDescription": "**Tag 1: Delhi – Srinagar**\n\nBeginnen Sie Ihre Reise von Delhi aus im privaten Auto. Genießen Sie eine malerische Fahrt durch Punjab und Jammu, bevor Sie weiter nach Srinagar fahren. Übernachten Sie unterwegs in Jammu oder Katra.\n\n**Tag 2: Ankunft in Srinagar**\n\nNach dem Frühstück setzen Sie Ihre Fahrt nach Srinagar fort. Bei der Ankunft checken Sie in Ihrem Hotel oder Hausboot ein. Am Abend genießen Sie eine entspannte Shikara-Fahrt auf dem Dal-See. Übernachtung in Srinagar.\n\n**Tag 3: Besichtigung von Srinagar**\n\nNach dem Frühstück besuchen Sie die Mogul-Gärten, einschließlich Nishat Bagh, Shalimar Bagh, Chashme Shahi, Pari Mahal, den Shankaracharya-Tempel, und den Hazratbal-Schrein. Verbringen Sie den Abend mit der Erkundung des lokalen Marktes. Übernachtung in Srinagar.\n\n**Tag 4: Ausflug nach Gulmarg**\n\nFahren Sie nach Gulmarg, einer der schönsten Bergstationen Kashmirs. Genießen Sie Panoramablicke auf die Berge und optionale Aktivitäten wie die Gulmarg-Gondel-Seilbahn, Reiten, oder Schneeaktivitäten (saisonal). Rückkehr nach Srinagar für eine Übernachtung.\n\n**Tag 5: Ausflug nach Pahalgam**\n\nNach dem Frühstück fahren Sie nach Pahalgam, vorbei an Safranfeldern und Apfelplantagen. Besuchen Sie das Betaab-Tal, das Aru-Tal, und Chandanwari (optional per lokalem Taxi). Rückkehr nach Srinagar am Abend. Übernachtung in Srinagar.\n\n**Tag 6: Ausflug nach Sonamarg**\n\nReisen Sie nach Sonamarg, bekannt als die \"Goldene Wiese\". Genießen Sie atemberaubende Himalaya-Landschaften und optionale Ponyritte zum Thajiwas-Gletscher. Rückkehr nach Srinagar für eine Übernachtung.\n\n**Tag 7: Srinagar – Jammu**\n\nNach dem Frühstück checken Sie aus und fahren zurück nach Jammu. Übernachten Sie unterwegs.\n\n**Tag 8: Jammu – Delhi**\n\nNach dem Frühstück setzen Sie Ihre Rückfahrt nach Delhi fort und beenden damit Ihre unvergessliche Kashmir-Tour.",
+  "highlights": [
+   "Entdecken Sie die Schönheit Kashmirs auf einer 8-tägigen Tour von Delhi aus"
+  ],
+  "included": [
+   "Transport im privaten klimatisierten Auto",
+   "Übernachtungen in Hotels oder Hausbooten",
+   "Shikara-Fahrt auf dem Dal-See",
+   "Besuche der Mogul-Gärten",
+   "Ausflüge nach Gulmarg, Pahalgam, und Sonamarg"
+  ],
+  "notIncluded": [
+   "Nicht angegebene Mahlzeiten",
+   "Optionale Aktivitäten wie die Gulmarg-Gondel-Seilbahn, Reiten, oder Schneeaktivitäten",
+   "Lokales Taxi in Pahalgam"
+  ]
+ },
+ "delhi-6-hours-delhi-spiritual-sites-with-famous": {
+  "title": "Delhi: spirituelle Stätten Delhis in 6 Stunden mit berühmten Tempeln",
+  "metaTitle": "Delhi: spirituelle Stätten in 6 Stunden",
+  "metaDescription": "Holen Sie sich das beste Sommerangebot für die spirituelle Tour durch Delhi.",
+  "shortDescription": "Holen Sie sich das beste Sommerangebot für die spirituelle Tour durch Delhi.",
+  "fullDescription": "**Abholung**\nBeginnen Sie Ihre Reise mit einer bequemen Abholung von Ihrem Hotel, Flughafen, Bahnhof, oder einem bevorzugten Ort in Delhi, Noida, Gurugram, und Ghaziabad. Treffen Sie Ihren freundlichen privaten Fahrer und erfahrenen lokalen Guide, einen gebürtigen Delhi-Bewohner, der faszinierende Geschichten, versteckte Schätze, und die reiche Kultur der Stadt teilt, während Sie Alt- und Neu-Delhi erkunden.\n\n**Erkunden Sie die spirituelle und kulturelle Seite Delhis**\nBeginnen Sie Ihre Besichtigung mit der prächtigen Jama Masjid, gefolgt von einem Besuch des lebendigen Marktes von Chandni Chowk. Genießen Sie eine aufregende Rikscha-Fahrt durch die lebhaften Straßen, und machen Sie unvergessliche Fotos vom Charme Alt-Delhis. Später genießen Sie ein Mittagessen in einem schönen lokalen Restaurant, bevor Sie zu Neu-Delhis berühmten spirituellen Attraktionen weiterziehen, einschließlich des Lotustempels, des Gurudwara Bangla Sahib, und des Swaminarayan Akshardham. Diese 6-stündige Tour kombiniert Spiritualität und Kultur.\n\n**Absetzung an Ihrem bevorzugten Ort**\nNach einem unvergesslichen Tag der Erkundung von Delhi entspannen Sie sich, während Sie komfortabel an Ihrem Hotel, Flughafen, Bahnhof, oder einem gewünschten Ort in Delhi, Noida, Gurugram, und Ghaziabad abgesetzt werden.",
+  "highlights": [
+   "Holen Sie sich das beste Sommerangebot für die spirituelle Tour durch Delhi"
+  ],
+  "included": [
+   "Transport im privaten klimatisierten Auto mit Fahrer",
+   "Privater Reiseführer",
+   "Abholung und Rückbringung zum Hotel",
+   "Rikscha-Fahrt in Alt-Delhi (falls ausgewählt)",
+   "Eintrittsticket zu den Denkmälern (falls ausgewählt)",
+   "Mittagessen (falls ausgewählt)",
+   "Flexibler Zeitplan und Reiseroute nach Ihrem Tempo und Ihrer Zeit",
+   "Unbegrenztes Mineralwasser",
+   "Alle Fahrzeugkosten, Parkgebühren, und anfallenden Steuern"
+  ],
+  "notIncluded": [
+   "Jegliches zum Mittagessen servierte Getränk",
+   "Persönliche Ausgaben",
+   "Zuwendungen und Trinkgeld"
+  ]
+ },
+ "delhi-2-hour-red-fort-guided-evening-light-sound": {
+  "title": "Delhi: 2-stündige geführte Abend-Licht-und-Tonshow am Roten Fort",
+  "metaTitle": "Delhi: Rotes Fort, Licht und Ton, 2 Stunden",
+  "metaDescription": "Erleben Sie das Rote Fort in einer erstklassigen 3D-Projektionsshow leuchten.",
+  "shortDescription": "Erleben Sie das Rote Fort in einer erstklassigen 3D-Projektionsshow leuchten.",
+  "fullDescription": "Tauchen Sie ein in das Herz der indischen Geschichte mit einem unvergesslichen Abend bei der ikonischen Licht- und Tonshow am Roten Fort. Während die Sonne über Delhi untergeht, verwandelt sich das prächtige Rote Fort aus dem 17. Jahrhundert in eine schillernde Leinwand aus Licht, Ton, und Erzählung.\n\nDieses immersive Spektakel bringt über 300 Jahre Indiens königliche, koloniale, und Freiheitskampf-Epochen zum Leben, alle projiziert auf die mächtigen Mauern dieses UNESCO-Weltkulturerbes.\n\nOb Sie Erstbesucher oder lokaler Geschichtsliebhaber sind, diese Show ist eine einzigartige Art, die Seele Indiens zu spüren. Sehen Sie dramatische Geschichten von Kaisern und Helden sich entfalten, hören Sie das Echo von Kriegstrommeln und Freiheitsgesängen, und erleben Sie, wie sich Delhi über Jahrhunderte entwickelte, alles unter den Sternen, an einem der ikonischsten Sehenswürdigkeiten Indiens. Diese 3D-Show dauert 2 Stunden.",
+  "highlights": [
+   "Erleben Sie das Rote Fort in einer erstklassigen 3D-Projektionsshow leuchten"
+  ],
+  "included": [
+   "Eintrittsticket zum Roten Fort",
+   "Reiseführer",
+   "Licht- und Tonshow am Roten Fort",
+   "Erzählung der Geschichte Indiens",
+   "Projektion auf die Mauern des Roten Forts",
+   "Optionale Abholung/Absetzung (falls ausgewählt)",
+   "Sprachauswahl",
+   "Wasserflaschen"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben: jegliche persönlichen Käufe oder Ausgaben sind nicht enthalten",
+   "Upgrades: Upgrades auf höhere Sitzkategorien oder zusätzliche Dienste können Zusatzkosten verursachen",
+   "Zuwendungen: Trinkgeld für Guides oder Fahrer ist nicht enthalten und liegt in Ihrem Ermessen",
+   "Mahlzeiten und Getränke: Essen und Getränke werden während der Show nicht bereitgestellt"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

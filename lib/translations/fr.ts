@@ -20391,6 +20391,80 @@ export const FR_TOURS: Record<string, TourT> = {
    "Tout ce qui n'est pas mentionné dans les inclusions"
   ]
  },
+ "delhi-to-kashmir-8-day-tour-with-shikara-gulmarg": {
+  "title": "De Delhi au Cachemire : circuit de 8 jours avec shikara et Gulmarg",
+  "metaTitle": "Delhi-Cachemire en 8 jours : shikara, Gulmarg",
+  "metaDescription": "Découvrez la beauté du Cachemire lors d'un circuit de 8 jours depuis Delhi.",
+  "shortDescription": "Découvrez la beauté du Cachemire lors d'un circuit de 8 jours depuis Delhi.",
+  "fullDescription": "**Jour 1 : Delhi – Srinagar**\n\nCommencez votre voyage depuis Delhi en voiture privée. Profitez d'un trajet pittoresque à travers le Pendjab et Jammu avant de continuer vers Srinagar. Passez la nuit en chemin à Jammu ou Katra.\n\n**Jour 2 : arrivée à Srinagar**\n\nAprès le petit-déjeuner, continuez votre trajet vers Srinagar. À l'arrivée, enregistrez-vous à votre hôtel ou house-boat. En soirée, profitez d'une relaxante balade en shikara sur le lac Dal. Passez la nuit à Srinagar.\n\n**Jour 3 : visite de Srinagar**\n\nAprès le petit-déjeuner, visitez les jardins moghols, incluant Nishat Bagh, Shalimar Bagh, Chashme Shahi, Pari Mahal, le temple Shankaracharya, et le sanctuaire Hazratbal. Passez la soirée à explorer le marché local. Passez la nuit à Srinagar.\n\n**Jour 4 : excursion à Gulmarg**\n\nRoulez vers Gulmarg, l'une des plus belles stations de montagne du Cachemire. Profitez de vues panoramiques sur les montagnes et d'activités optionnelles comme le téléphérique Gulmarg Gondola, l'équitation, ou des activités de neige (selon la saison). Retour à Srinagar pour une nuit.\n\n**Jour 5 : excursion à Pahalgam**\n\nAprès le petit-déjeuner, roulez vers Pahalgam en passant par des champs de safran et des vergers de pommiers. Visitez la vallée de Betaab, la vallée d'Aru, et Chandanwari (optionnel en taxi local). Retour à Srinagar en soirée. Passez la nuit à Srinagar.\n\n**Jour 6 : excursion à Sonamarg**\n\nVoyagez vers Sonamarg, connue comme la « prairie d'or ». Profitez de paysages himalayens à couper le souffle, et de balades à poney optionnelles vers le glacier Thajiwas. Retour à Srinagar pour une nuit.\n\n**Jour 7 : Srinagar – Jammu**\n\nAprès le petit-déjeuner, faites votre départ et roulez de retour vers Jammu. Passez la nuit en chemin.\n\n**Jour 8 : Jammu – Delhi**\n\nAprès le petit-déjeuner, continuez votre trajet de retour vers Delhi, mettant fin à votre mémorable circuit au Cachemire.",
+  "highlights": [
+   "Découvrez la beauté du Cachemire lors d'un circuit de 8 jours depuis Delhi"
+  ],
+  "included": [
+   "Transport en voiture privée climatisée",
+   "Nuits à l'hôtel ou en house-boat",
+   "Balade en shikara sur le lac Dal",
+   "Visites des jardins moghols",
+   "Excursions à Gulmarg, Pahalgam, et Sonamarg"
+  ],
+  "notIncluded": [
+   "Repas non spécifiés",
+   "Activités optionnelles comme le téléphérique Gulmarg Gondola, l'équitation, ou les activités de neige",
+   "Taxi local à Pahalgam"
+  ]
+ },
+ "delhi-6-hours-delhi-spiritual-sites-with-famous": {
+  "title": "Delhi : sites spirituels de Delhi en 6 heures avec des temples célèbres",
+  "metaTitle": "Delhi : sites spirituels en 6 heures",
+  "metaDescription": "Obtenez la meilleure offre d'été sur la visite spirituelle de Delhi.",
+  "shortDescription": "Obtenez la meilleure offre d'été sur la visite spirituelle de Delhi.",
+  "fullDescription": "**Prise en charge**\nCommencez votre voyage par une prise en charge confortable à votre hôtel, l'aéroport, la gare, ou tout endroit préféré à Delhi, Noida, Gurugram, et Ghaziabad. Rencontrez votre chauffeur privé sympathique et votre guide local expert, un natif de Delhi qui partagera des histoires fascinantes, des trésors cachés, et la riche culture de la ville, tandis que vous explorez le Vieux et le Nouveau Delhi.\n\n**Explorez le côté spirituel et culturel de Delhi**\nCommencez vos visites par la magnifique Jama Masjid, suivie d'une visite du marché animé de Chandni Chowk. Profitez d'une balade palpitante en rickshaw à travers les rues vivantes, et capturez des photos inoubliables du charme du Vieux Delhi. Plus tard, profitez d'un déjeuner dans un agréable restaurant local, avant de continuer vers les célèbres attractions spirituelles du Nouveau Delhi, incluant le temple du Lotus, le Gurudwara Bangla Sahib, et le Swaminarayan Akshardham. Cette visite de 6 heures combine spiritualité et culture.\n\n**Dépose à l'endroit préféré**\nAprès une journée mémorable à explorer Delhi, détendez-vous en étant confortablement déposé à votre hôtel, l'aéroport, la gare, ou tout endroit souhaité à Delhi, Noida, Gurugram, et Ghaziabad.",
+  "highlights": [
+   "Obtenez la meilleure offre d'été sur la visite spirituelle de Delhi"
+  ],
+  "included": [
+   "Transport en voiture privée climatisée avec chauffeur",
+   "Guide touristique privé",
+   "Prise en charge et retour à l'hôtel",
+   "Balade en rickshaw dans le Vieux Delhi (si option sélectionnée)",
+   "Billet d'entrée aux monuments (si option sélectionnée)",
+   "Déjeuner (si option sélectionnée)",
+   "Horaire et itinéraire flexibles selon votre rythme et votre temps",
+   "Eau minérale illimitée",
+   "Tous les frais de véhicule, frais de stationnement, et taxes applicables"
+  ],
+  "notIncluded": [
+   "Toute boisson servie avec le déjeuner",
+   "Dépenses personnelles",
+   "Gratifications et pourboires"
+  ]
+ },
+ "delhi-2-hour-red-fort-guided-evening-light-sound": {
+  "title": "Delhi : spectacle de son et lumière guidé de 2 heures au Fort Rouge en soirée",
+  "metaTitle": "Delhi : Fort Rouge, son et lumière, 2 heures",
+  "metaDescription": "Observez le Fort Rouge illuminé lors d'un spectacle de projection 3D de classe mondiale.",
+  "shortDescription": "Observez le Fort Rouge illuminé lors d'un spectacle de projection 3D de classe mondiale.",
+  "fullDescription": "Plongez au cœur de l'histoire indienne lors d'une soirée inoubliable au célèbre spectacle de son et lumière du Fort Rouge. Alors que le soleil se couche sur Delhi, le magnifique Fort Rouge du 17e siècle se transforme en une toile éblouissante de lumière, de son, et de narration.\n\nCe spectacle immersif fait revivre plus de 300 ans des époques royale, coloniale, et de lutte pour la liberté de l'Inde, tout projeté sur les murs imposants de ce site du patrimoine mondial de l'UNESCO.\n\nQue vous soyez un visiteur de première fois ou un amoureux de l'histoire locale, ce spectacle est une façon unique de ressentir l'âme de l'Inde. Regardez se dérouler des récits dramatiques d'empereurs et de héros, entendez les échos des tambours de guerre et des chants de liberté, et assistez à l'évolution de Delhi à travers les siècles, tout cela sous les étoiles, dans l'un des monuments les plus emblématiques de l'Inde. Ce spectacle en 3D dure 2 heures.",
+  "highlights": [
+   "Observez le Fort Rouge illuminé lors d'un spectacle de projection 3D de classe mondiale"
+  ],
+  "included": [
+   "Billet d'entrée au Fort Rouge",
+   "Guide touristique",
+   "Spectacle de son et lumière au Fort Rouge",
+   "Narration de l'histoire de l'Inde",
+   "Projection sur les murs du Fort Rouge",
+   "Prise en charge/retour optionnels (si option sélectionnée)",
+   "Choix de la langue",
+   "Bouteilles d'eau"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles : tout achat ou dépense personnelle n'est pas inclus",
+   "Mises à niveau : des mises à niveau vers des catégories de siège supérieures ou des services supplémentaires peuvent entraîner des frais additionnels",
+   "Gratifications : les pourboires pour les guides ou chauffeurs ne sont pas inclus et sont à votre discrétion",
+   "Repas et boissons : la nourriture et les boissons ne sont pas fournies pendant le spectacle"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
