@@ -25146,6 +25146,81 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittsgebühren"
   ]
  },
+ "classic-golden-triangle-tour-by-private-car-4-days": {
+  "title": "Klassische Golden-Triangle-Tour im Privatauto: 4 Tage",
+  "metaTitle": "Golden Triangle klassisch, Privatauto, 4 Tage",
+  "metaDescription": "Erkunden Sie Indiens Ikonen: Taj Mahal, Jaipurs Forts, und Delhis Erbe, in nur 4 Tagen!",
+  "shortDescription": "Erkunden Sie Indiens Ikonen: Taj Mahal, Jaipurs Forts, und Delhis Erbe, in nur 4 Tagen!",
+  "fullDescription": "Klassische Golden-Triangle-Tour im Privatauto: 4 Tage. Erkunden Sie Indiens Ikonen: Taj Mahal, Jaipurs Forts, und Delhis Erbe, in nur 4 Tagen!\n\n**Reiseroute**\n\n**Tag 01**\n**Ankunft und Entdeckung von Delhi - Fahrt nach Agra**\n\nDiese Tour beginnt mit Ihrer Abholung an Ihrem gewünschten Ort, also jedem Hotel/Flughafen in und um Delhi. Treffen Sie Ihren Reiseführer, und besuchen Sie Sehenswürdigkeiten: die Jama Masjid, Humayuns Grabmal, den Präsidentenpalast (Außenansicht), das Parlamentsgebäude (Außenansicht), India Gate, und den Sikh-Tempel Bangla Sahib.\nNach Abschluss der Delhi-Tour geht es weiter zur Stadt der Liebe, Agra, über den Yamuna Expressway. Es handelt sich um eine Fahrt von 3 Stunden/200 km. Bei Ankunft in Agra Check-in im Hotel und Entspannung.\nÜbernachtung in Agra.\n\n**Tag 02**\n**Erkundung von Agra und Fahrt nach Jaipur**\n\nTreffen Sie Ihren Reiseführer, und besuchen Sie das Taj Mahal, das prächtige Mausoleum aus weißem Marmor.\nNach der Besichtigung des Taj Mahal Rückkehr zum Hotel zum Frühstück, danach Check-out. Nun werden Sie zum Agra Fort gebracht.\nWeiter geht es nach Fatehpur Sikri, auch bekannt als Geisterstadt oder verlassene Stadt des Mogul-Kaisers Akbar. Später Weiterfahrt nach Jaipur. Bei Ankunft in Jaipur Check-in in Ihrem Hotel und Entspannung.\nÜbernachtung in Jaipur.\n\n**Tag 03**\n**Stadtrundfahrt Jaipur**\n\nNach einem köstlichen Frühstück Abfahrt zur Besichtigungstour durch Jaipur. Zuerst halten Sie am Amber Fort, dann geht es weiter zum Jal Mahal (Wasserpalast), Halt davor, machen Sie einige Fotos, und dann weiter zur rosa Stadt.\nBesuchen Sie dann das Jantar Mantar (Observatorium) im Herzen der Stadt, das die größte Sonnenuhr besitzt, und in der Nähe befindet sich der kunstvolle Hawa Mahal (Palast der Winde).\nEs folgt ein Halt in einem klimatisierten Restaurant mit internationaler Küche zum Mittagessen. Dann weiter zum City Palace und seinem Museum, die eine außergewöhnliche Mischung aus mogulischer und hinduistischer Architektur zeigen, und eine außergewöhnliche Sammlung von Gemälden, Rajasthani-Rüstungen, und Trachten beherbergen. Zuletzt am Abend Besuch des Laxmi-Narayan-Tempels, wo wir an der Aarti-Zeremonie teilnehmen können.\nNach Abschluss der Stadtrundfahrt Rückkehr zum Hotel und Entspannung.\nÜbernachtung in Jaipur.\n\n**Tag 04**\n**Besuch des Galta-Ji-Tempels, dann Rückfahrt nach Delhi**\n\nNach dem Frühstück hält unser Fahrer am Galta-Ji-Tempel, gelegen am Stadtrand von Jaipur, umgeben von den Aravalli-Bergen, und mit zahlreichen Affen. Später bringt Sie unser Fahrer zurück nach Delhi, und setzt Sie an Ihrem gewünschten Ort in Delhi oder Jaipur für Ihre Weiterreise ab.\n\n**Ende der Tour**\n\n**3-Sterne-Hotels:**\n3-Sterne-Hoteloptionen in Agra: Hotel Maple Grand / vergleichbar\n3-Sterne-Hoteloptionen in Jaipur: 7 Apple Jal Mahal / vergleichbar\n\n**4-Sterne-Hotels:**\n4-Sterne-Hoteloptionen in Agra: Royale Sarovar Portico Agra / vergleichbar\n4-Sterne-Hoteloptionen in Jaipur: Fern Residency / vergleichbar\n\n**5-Sterne-Hotels:**\n5-Sterne-Hoteloptionen in Agra: Jaypee Palace oder Courtyard by Marriott oder vergleichbar\n5-Sterne-Hoteloptionen in Jaipur: Holiday Inn City Center / Hilton / vergleichbar\n\n**Was ist inbegriffen**\nAbholung von jedem Flughafen/Hotel in und um Delhi\nPrivates klimatisiertes Auto Delhi - Agra - Jaipur - Delhi\nUnterkunft für 3 Nächte (falls diese Option gewählt wird)\nTägliches Frühstück in den Hotels (falls die Hoteloption gewählt wird)\nGeführte Besichtigungen mit sachkundigen lokalen Reiseführern\nBatteriebus-Transfer zwischen dem Parkplatz des Taj Mahal und dem Denkmal\nWasserflasche während der Tour\nEngagierte persönliche Unterstützung während der gesamten Tour\nAlle Parkgebühren, Kraftstoff, und Mautgebühren\n\n**Nicht inbegriffen**\nMittag- und Abendessen\nEintrittsgebühren (ca. 60 $ insgesamt pro Person für alle Sehenswürdigkeiten)\nEintrittsgebühren für Sehenswürdigkeiten und Kameragebühren\nTrinkgeld für Reiseführer und Fahrer",
+  "highlights": [
+   "Erkunden Sie Indiens Ikonen: Taj Mahal, Jaipurs Forts, und Delhis Erbe, in nur 4 Tagen"
+  ],
+  "included": [
+   "Abholung von jedem Flughafen/Hotel in und um Delhi",
+   "Privates klimatisiertes Auto Delhi - Agra - Jaipur - Delhi",
+   "Unterkunft für 3 Nächte (falls diese Option gewählt wird)",
+   "Tägliches Frühstück in den Hotels (falls die Hoteloption gewählt wird)",
+   "Geführte Besichtigungen mit sachkundigen lokalen Reiseführern",
+   "Batteriebus-Transfer zwischen dem Parkplatz des Taj Mahal und dem Denkmal",
+   "Wasserflasche während der Tour",
+   "Engagierte persönliche Unterstützung während der gesamten Tour",
+   "Alle Parkgebühren, Kraftstoff, und Mautgebühren"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen",
+   "Eintrittsgebühren (ca. 60 $ insgesamt pro Person für alle Sehenswürdigkeiten)",
+   "Eintrittsgebühren für Sehenswürdigkeiten und Kameragebühren",
+   "Trinkgeld für Reiseführer und Fahrer"
+  ]
+ },
+ "old-delhi-khari-bawli-asias-largest-spice-market": {
+  "title": "Alt-Delhi: Khari Bawli, Asiens größter Gewürzmarkt",
+  "metaTitle": "Delhi: Khari Baoli, Gewürzmarkt",
+  "metaDescription": "Tauchen Sie ein in die lebendigen Eindrücke, Klänge, und Aromen der Khari-Baoli-Straße",
+  "shortDescription": "Tauchen Sie ein in die lebendigen Eindrücke, Klänge, und Aromen der Khari-Baoli-Straße",
+  "fullDescription": "Alt-Delhi: Khari Bawli, Asiens größter Gewürzmarkt. Tauchen Sie ein in die lebendigen Eindrücke, Klänge, und Aromen der Khari-Baoli-Straße.\n\nTauchen Sie ein in die lebendigen Eindrücke, Klänge, und Aromen der Khari-Baoli-Straße, Heimat von Asiens größtem Gewürzmarkt. Diese geführte Tour bietet eine einzigartige Gelegenheit, die reiche Geschichte, Kultur, und kulinarischen Traditionen von Alt-Delhi zu erkunden. Mit Hotelabholung und -rückfahrt, einem professionellen Reiseführer, und einem privaten Fahrzeug garantiert dieses Erlebnis eine problemlose und unvergessliche Reise.\n\nBeginnen Sie mit einer bequemen Abholung von Ihrem Hotel in Delhi in einem privaten klimatisierten Fahrzeug. Treffen Sie Ihren Reiseführer, und begeben Sie sich zur Khari-Baoli-Straße. Entdecken Sie die faszinierende Geschichte der Khari-Baoli-Straße und ihre Rolle bei der Gestaltung von Delhis kulinarischen und handelsbezogenen Traditionen, mit Einblicken von einem sachkundigen Reiseführer.\n\nSpazieren Sie durch die belebten Gassen, gefüllt mit farbenfrohen Gewürzen, Trockenfrüchten, Kräutern, und Tees. Erfahren Sie mehr über ihre Verwendung in der indischen Küche und traditionellen Medizin. Erhalten Sie einen Einblick in Alt-Delhis architektonischen Charme und lebendiges Straßenleben.\n\nTauschen Sie sich mit lokalen Ladenbesitzern aus, probieren Sie exotische Tees, und erleben Sie die sinnliche Überflutung aromatischer Gewürze und Aromen. Machen Sie atemberaubende Fotos der lebendigen Marktszenen, farbenfrohen Auslagen, und der ikonischen Architektur von Alt-Delhi.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel in einem privaten klimatisierten Fahrzeug\nDienste eines fließend englischsprachigen Experten-Reiseführers\nWasser in Flaschen und leichte Erfrischungen während der Tour\nUnterstützung bei der Übersetzung der lokalen Sprache beim Kauf von Gewürzen in lokalen Geschäften\n\n**Nicht inbegriffen**\nMahlzeiten\nPersönliche Ausgaben\nTrinkgelder",
+  "highlights": [
+   "Tauchen Sie ein in die lebendigen Eindrücke, Klänge, und Aromen der Khari-Baoli-Straße"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel in einem privaten klimatisierten Fahrzeug",
+   "Dienste eines fließend englischsprachigen Experten-Reiseführers",
+   "Wasser in Flaschen und leichte Erfrischungen während der Tour",
+   "Unterstützung bei der Übersetzung der lokalen Sprache beim Kauf von Gewürzen in lokalen Geschäften"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
+ "from-delhi-private-3-days-golden-triangle-tour-by": {
+  "title": "Ab Delhi: private 3-tägige Golden-Triangle-Tour mit dem Auto",
+  "metaTitle": "Delhi: Golden Triangle privat 3 Tage, Auto",
+  "metaDescription": "Erleben Sie die glorreiche Architektur und Geschichte der Moguln und Rajput-Maharadschas",
+  "shortDescription": "Erleben Sie die glorreiche Architektur und Geschichte der Moguln und Rajput-Maharadschas",
+  "fullDescription": "Ab Delhi: private 3-tägige Golden-Triangle-Tour mit dem Auto. Erleben Sie die glorreiche Architektur und Geschichte der Moguln und Rajput-Maharadschas.\n\nWir beginnen die Tour mit Ihrer Abholung bei Ankunft am Flughafen Delhi. Weiter geht es mit einer halbtägigen Besichtigung von Delhi: India Gate, Rashtrapati Bhavan, das Gandhi-Smriti-Museum, die Jama Masjid, und Chandni Chowk. Mittagessen in einem schönen Restaurant, danach Weiterfahrt nach Agra für eine Übernachtung in Agra.\n\nBeginnen Sie Ihren Tag mit der Erkundung des Taj Mahal und des Agra Forts. Check-out aus dem Hotel, und Fahrt nach Jaipur.\n\nBei Ankunft in Jaipur Besuch des Amber Forts und des Jal Mahal (Wasserpalast). Später Check-in in Ihrem vorab gebuchten Hotel für eine Übernachtung in Jaipur.\n\nNach dem Frühstück Check-out aus dem Hotel in Jaipur, und Weiterfahrt zum Hawa Mahal und City Palace, die ihresgleichen suchen und Sie neugierig machen werden, mehr darüber zu erfahren, wie die Maharadschas von Jaipur ihr prunkvolles Leben führten. Nach Abschluss der Besichtigung von Jaipur Weiterfahrt nach Delhi. Bei Ankunft in Delhi Rückfahrt zum Flughafen/Hotel.\n\n**Tag 1 – Abholung in Delhi, halbtägige Besichtigung von Delhi**\n\nWir stehen Ihnen für die Abholung vom Flughafen/Hotel in Delhi/Gurugram/Noida, überall im NCR, zur Verfügung. Unser von der Regierung zugelassener Reisebegleiter trifft Sie an Ihrem Abholpunkt, und es geht weiter mit der Besichtigung von Delhi: India Gate, der Präsidentenpalast, Gandhi Smriti, Humayuns Grabmal, die Jama Masjid, und Chandni Chowk. Mittagessen in einem schönen Restaurant in Delhi, danach Weiterfahrt nach Agra für eine Übernachtung in Agra.\n\n**Tag 2 – Agra - Jaipur**\nBesichtigung des Taj Mahal bei Sonnenaufgang, danach Check-out aus dem Hotel in Agra für den Besuch des Agra Forts, und anschließend Weiterfahrt nach Jaipur. Bei Ankunft in Jaipur Besuch des Amber Forts und des Jal Mahal. Übernachtung in Ihrem vorab gebuchten Hotel in Jaipur.\n\n**Tag 3 – Jaipur - Delhi**\nNach dem Frühstück Check-out aus dem Hotel für den Besuch des City Palace, des Jantar Mantar, und danach Fahrt nach Delhi für die Rückfahrt in Delhi.\nBei Ankunft in Delhi Rückfahrt zum Flughafen/Hotel in Delhi.\n\nHinweis: Die Zimmer werden geteilt belegt (ein Zimmer mit Doppelbelegung).\n\n**Ende der Tour.**\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt\nKlimatisiertes Auto für die Hin- und Rückreise\nZimmer werden geteilt belegt (Einzelzimmer mit Doppelbelegung)\nEintrittsgebühren für alle Sehenswürdigkeiten (falls diese Option gewählt wird)\nLive-Reisebegleiter für die gesamte Tour\nWasserflaschen im Fahrzeug\nAlle Arten von Steuern\n\n**Nicht inbegriffen**\nTrinkgelder für Fahrer und Reisebegleiter\nAlkoholische Getränke\nKameragebühren an der Jama Masjid\nVideokameragebühren für die gesamte Tour\nJegliche Mahlzeiten\nJegliche persönliche Ausgaben",
+  "highlights": [
+   "Erleben Sie die glorreiche Architektur und Geschichte der Moguln und Rajput-Maharadschas"
+  ],
+  "included": [
+   "Abholung und Rückfahrt",
+   "Klimatisiertes Auto für die Hin- und Rückreise",
+   "Zimmer werden geteilt belegt (Einzelzimmer mit Doppelbelegung)",
+   "Eintrittsgebühren für alle Sehenswürdigkeiten (falls diese Option gewählt wird)",
+   "Live-Reisebegleiter für die gesamte Tour",
+   "Wasserflaschen im Fahrzeug",
+   "Alle Arten von Steuern"
+  ],
+  "notIncluded": [
+   "Trinkgelder für Fahrer und Reisebegleiter",
+   "Alkoholische Getränke",
+   "Kameragebühren an der Jama Masjid",
+   "Videokameragebühren für die gesamte Tour",
+   "Jegliche Mahlzeiten",
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
