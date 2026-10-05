@@ -21019,6 +21019,75 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten wie Mittag- und Abendessen"
   ]
  },
+ "from-delhi-6-day-golden-triangle-tour-with-tour": {
+  "title": "Ab Delhi: 6-tägige Golden-Triangle-Tour mit Ranthambore (ab 295,87 $)",
+  "metaTitle": "Delhi: Golden Triangle 6 Tage mit Ranthambore",
+  "metaDescription": "Weltberühmte Sehenswürdigkeiten des Golden Triangle Indiens mit Ranthambore-Tiger-Safari.",
+  "shortDescription": "Weltberühmte Sehenswürdigkeiten des Golden Triangle Indiens mit Ranthambore-Tiger-Safari.",
+  "fullDescription": "Ab Delhi: 6-tägige Golden-Triangle-Tour mit Ranthambore (ab 295,87 $). Weltberühmte Sehenswürdigkeiten des Golden Triangle Indiens mit Ranthambore-Tiger-Safari.\n\n**Tag 1: Abholung in Delhi, Besichtigung von Alt- und New Delhi, Fahrt nach Agra**\n\nIhre Besichtigungstour durch Alt- und New Delhi beginnt mit einer Abholung am gewählten Ort. Unser Fahrer wird dort sein, um Sie zu begrüßen. Nachdem Sie sich erfrischt haben, treffen Sie Ihren Reiseführer, der Ihnen den Reiseplan erklärt. Anschließend erkunden Sie die alten und neuen Teile von Delhi mit Ihrem Guide. In Alt-Delhi besuchen Sie die Jama Masjid, das Red Fort von außen, und den Markt von Chandni Chowk. Sie genießen ein köstliches Mittagessen in einem örtlichen Restaurant. Danach sehen Sie die Sehenswürdigkeiten von New Delhi, wie das India Gate, das Rashtrapati Bhavan, Humayuns Grabmal, und Qutub Minar. Am Abend fahren Sie nach Agra, und checken in Ihrem Hotel ein. Sie verbringen die 1. Nacht in Ihrem Hotel in der Stadt Agra.\n\n**Tag 2: Besichtigungstour von Agra**\n\nMachen Sie sich bereit für einen erstaunlichen Besuch des Taj Mahal bei Sonnenaufgang. Das Taj Mahal (freitags geschlossen) ist der Inbegriff wahrer Liebe, erbaut vom Mogulkaiser Shah Jahan, um das Grabmal seiner bevorzugten Ehefrau, Mumtaz Mahal, zu beherbergen. Dieses Mausoleum erstrahlt in hellem weißem Marmor, und hat sich einen Platz unter den Neuen 7 Weltwundern verdient. Besuchen Sie auch das Agra-Fort, und dann verbringen Sie die 2. Nacht in Ihrem Hotel in der Stadt Agra.\n\n**Tag 3: Fahrt nach Ranthambore und unterwegs (Fatehpur Sikri)**\n\nFrühstück, und später Fahrt nach Ranthambore. Bei der Ankunft Check-in im Hotel. Nach dem Mittagessen genießen Sie eine aufregende Tiger-Safari.\n\nWildtierschutzgebiet Ranthambore. Es ist ein berühmtes Tierparadies, bekannt für die Sichtung von Tigern. Sie erhalten großartige Gelegenheiten, Tiger aus der Nähe zu beobachten, neben vielen anderen Tieren wie dem indischen Leoparden, der Nilgauantilope, Wildschweinen, Sambar-Hirschen, Streifenhyänen, Lippenbären, usw. Dann verbringen Sie die 3. Nacht in Ihrem Hotel in Ranthambore.\n\n**Tag 4: Besichtigungstour von Ranthambore und Fahrt nach Jaipur**\n\nMorgens genießen Sie erneut die Tiger-Safari im Wildtierschutzgebiet Ranthambore. Später, am Abend, fahren Sie nach Jaipur, und checken in Ihrem Hotel ein. Sie verbringen die 4. Nacht in Ihrem Hotel in der Stadt Jaipur.\n\n**Tag 5: Besichtigungstour von Jaipur**\n\nNach dem Frühstück geht es weiter zu einem Ausflug zum Amber-Fort am Rande von Jaipur. Fotostopp am Jal Mahal, am Palast der Winde, besser bekannt als Hawa Mahal, am City-Palace-Museum, und am Jantar Mantar (Observatorium). Anschließend eine Tour durch die ummauerte Stadt zu Fuß.\n\nStartpunkt: vom City Palace über das Tripolia-Tor (Eingangstor der königlichen Familie), durch das wunderschöne Stadtzentrum von Jaipur mit täglichem, farbenfrohem Leben und der pulsierenden Pink City, alten Basaren von Gewürzen bis zur exquisiten Spezialität Jaipurs, besuchen Sie die Armreif-Straße mit dem Duft von Teegewürzen und Blumenweihrauch. Nach der Besichtigung zurück zum Hotel. Übernachtung in Jaipur. 5. Nacht.\n\n**Tag 6: nach dem Frühstück Jaipur, Rückfahrt nach Delhi um 15:00/16:00 Uhr (3:00/4:00 pm)**\n\nAn diesem Tag bringen wir Sie zu Ihrem Hotel oder zum Flughafen in Delhi, mit wunderbaren Erinnerungen an Ihre Golden-Triangle-Tour von 5 Nächten und 6 Tagen.\n\n**Was ist enthalten**\nPrivater und geteilter Transport in einem klimatisierten Fahrzeug mit Fahrer\nAbholung und Rückfahrt zum Hotel/Flughafen\nAlle Besichtigungen mit privaten örtlichen Guides\nBusfahrt vom Parkplatz zum Taj Mahal und zurück\nZwei Safaris, morgens und nachmittags (je nach Verfügbarkeit, Canter oder Jeep)\nAlle anfallenden Steuern\nFlaschen mit Mineralwasser während der Fahrten\n5 Nächte Unterkunft mit Frühstück (falls Option gewählt wird)",
+  "highlights": [
+   "Weltberühmte Sehenswürdigkeiten des Golden Triangle Indiens mit Ranthambore-Tiger-Safari"
+  ],
+  "included": [
+   "Privater und geteilter Transport in einem klimatisierten Fahrzeug mit Fahrer",
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "Alle Besichtigungen mit privaten örtlichen Guides",
+   "Busfahrt vom Parkplatz zum Taj Mahal und zurück",
+   "Zwei Safaris, morgens und nachmittags (je nach Verfügbarkeit, Canter oder Jeep)",
+   "Alle anfallenden Steuern",
+   "Flaschen mit Mineralwasser während der Fahrten",
+   "5 Nächte Unterkunft mit Frühstück (falls Option gewählt wird)"
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Jegliche Fotografiegebühren",
+   "Persönliche Ausgaben",
+   "Trinkgelder",
+   "Zwei Safaris pro Person (ca. INR 5.000)",
+   "Eintrittsgebühren (ca. 70 USD pro Person)"
+  ]
+ },
+ "delhi-private-old-and-new-delhi-tourfull-or-half": {
+  "title": "Delhi: private Tour durch Alt- und New Delhi, ganzer oder halber Tag",
+  "metaTitle": "Delhi: private Tour durch Alt- und New Delhi",
+  "metaDescription": "Entdecken Sie New und Alt-Delhi, die zwei Hauptteile der Hauptstadt Indiens.",
+  "shortDescription": "Entdecken Sie New und Alt-Delhi, die zwei Hauptteile der Hauptstadt Indiens.",
+  "fullDescription": "Delhi: private Tour durch Alt- und New Delhi, ganzer oder halber Tag. Entdecken Sie New und Alt-Delhi, die zwei Hauptteile der Hauptstadt Indiens.\n\nBegeben Sie sich auf eine ganztägige Tour durch die Hauptstadt Indiens, beginnend mit dem historischen Viertel Alt-Delhi. Ihre Reise beginnt mit einer Abholung vom Hotel, und einem Besuch des prächtigen Red Fort, einem architektonischen Wunder, erbaut vom Mogulkaiser Shah Jahan, der auch das ikonische Taj Mahal errichtete. Von dort durchqueren Sie das lebhafte Einkaufsviertel Chandni Chowk in einer Rikscha, und gelangen schließlich zur Jama Masjid, Indiens größter Moschee aus dem 17. Jahrhundert.\n\nNach einem köstlichen örtlichen Mittagessen geht das Abenteuer weiter in New Delhi. Erster Halt ist Qutub Minar, ein beeindruckendes Backsteinminarett und das höchste seiner Art der Welt. Dann geht es weiter zum Grabmal des Mogulkaisers Humayun.\n\nDie Reise führt Sie zum India Gate, einem bewegenden Denkmal, das an die Opfer indischer Soldaten während des Ersten Weltkriegs erinnert, und dann zum elegant gestalteten Lotustempel, der einer blühenden Lotusblüte ähnelt.\n\nZum Abschluss der Tour fahren Sie am Präsidentenpalast und den Parlamentsgebäuden vorbei, die einen Einblick in das politische Zentrum der Stadt bieten, bevor Sie zurück zu Ihrer Unterkunft gefahren werden.\n\n**Was ist enthalten**\nAbhol- und Rückfahrtservice\nTransport im klimatisierten Auto mit Fahrer\nLive-Reiseführer\nEintrittskarten für Denkmäler (falls Option gebucht wird)\nRikscha-Fahrt in Alt-Delhi\nMineralwasser in Flaschen\nAlle Steuern\n\n**Nicht enthalten**\nPersönliche Ausgaben\nGratifikationen\nTrinkgelder",
+  "highlights": [
+   "Entdecken Sie New und Alt-Delhi, die zwei Hauptteile der Hauptstadt Indiens"
+  ],
+  "included": [
+   "Abhol- und Rückfahrtservice",
+   "Transport im klimatisierten Auto mit Fahrer",
+   "Live-Reiseführer",
+   "Eintrittskarten für Denkmäler (falls Option gebucht wird)",
+   "Rikscha-Fahrt in Alt-Delhi",
+   "Mineralwasser in Flaschen",
+   "Alle Steuern"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben",
+   "Gratifikationen",
+   "Trinkgelder"
+  ]
+ },
+ "delhi-jantar-mantar-ancient-astronomical": {
+  "title": "Delhi: Jantar Mantar - antikes astronomisches Observatorium",
+  "metaTitle": "Delhi: Jantar Mantar, antikes Observatorium",
+  "metaDescription": "Staunen Sie über die einzigartige Mischung aus Wissenschaft und Architektur im Jantar Mantar.",
+  "shortDescription": "Staunen Sie über die einzigartige Mischung aus Wissenschaft und Architektur im Jantar Mantar.",
+  "fullDescription": "Delhi: Jantar Mantar - antikes astronomisches Observatorium. Staunen Sie über die einzigartige Mischung aus Wissenschaft und Architektur im Jantar Mantar.\n\nBeginnen Sie Ihre Reise mit einer bequemen Hotelabholung in Delhi. Reisen Sie in einem privaten klimatisierten Fahrzeug zum Jantar Mantar, einem Observatorium aus dem 18. Jahrhundert, erbaut von Maharaja Jai Singh II.\n\nTreffen Sie Ihren Expertenguide, und erfahren Sie mehr über die historische Bedeutung des Jantar Mantar und die Wissenschaft hinter seinen massiven Instrumenten. Erkunden Sie die beeindruckende Sammlung von 13 geometrischen Strukturen, die zur Zeitmessung, Vorhersage von Finsternissen, und Verfolgung von Himmelskörpern verwendet wurden.\n\nStaunen Sie über die einzigartige Mischung aus Wissenschaft und Architektur im Design des Observatoriums. Verstehen Sie, wie diese Instrumente vor Jahrhunderten genutzt wurden, und ihre Relevanz für das Studium der Astronomie heute.\n\nMachen Sie atemberaubende Fotos der komplizierten Designs und massiven Strukturen vor der Kulisse der Skyline von Delhi. Nach Ihrer Tour genießen Sie eine bequeme Fahrt zurück zu Ihrem Hotel.\n\n**Was ist enthalten**\nDienste eines kenntnisreichen und freundlichen Guides\nAbholung und Rückfahrt zum Hotel in einem privaten klimatisierten Fahrzeug (falls Option gewählt wird)\n\n**Nicht enthalten**\nEintrittskarten für das Jantar Mantar (Ihr Guide hilft Ihnen beim Kauf der Tickets)",
+  "highlights": [
+   "Staunen Sie über die einzigartige Mischung aus Wissenschaft und Architektur im Jantar Mantar"
+  ],
+  "included": [
+   "Dienste eines kenntnisreichen und freundlichen Guides",
+   "Abholung und Rückfahrt zum Hotel in einem privaten klimatisierten Fahrzeug (falls Option gewählt wird)"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für das Jantar Mantar (Ihr Guide hilft Ihnen beim Kauf der Tickets)"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
