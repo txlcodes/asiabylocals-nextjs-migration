@@ -4397,6 +4397,84 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintritt zu den Denkmälern"
   ]
  },
+ "delhi-5-night6-days-delhi-agra-amritsar": {
+  "title": "Delhi: 5 Nächte/6 Tage Delhi, Agra, Amritsar, Dharamshala Tour",
+  "metaTitle": "Delhi-Agra-Amritsar-Dharamshala in 6 Tagen",
+  "metaDescription": "Erleben Sie spirituelle Glückseligkeit im Goldenen Tempel, dem heiligsten Gurdwara des Sikhismus.",
+  "shortDescription": "Erleben Sie spirituelle Glückseligkeit im Goldenen Tempel, dem heiligsten Gurdwara des Sikhismus.",
+  "fullDescription": "Diese Tour über 5 Nächte und 6 Tage bringt Sie von Delhi nach Agra und weiter nach Amritsar und Dharamshala, inklusive einer Zugfahrt 2. Klasse von Agra nach Amritsar. Übernachten Sie in 4-Sterne-Hotels mit inkludiertem Frühstück, und besuchen Sie den Goldenen Tempel, den heiligsten Gurdwara des Sikhismus, für ein unvergessliches spirituelles Erlebnis, zusätzlich zu den ikonischen Denkmälern Agras wie dem Taj Mahal und dem Agra Fort.",
+  "highlights": [
+   "Erleben Sie spirituelle Glückseligkeit im Goldenen Tempel, dem heiligsten Gurdwara des Sikhismus"
+  ],
+  "included": [
+   "Abholung und Rückbringung",
+   "Klimatisiertes Auto mit Fahrer",
+   "Kostenloses WLAN im Auto",
+   "Reiseführer (staatlich zugelassen)",
+   "Eintrittsgebühren zu den Denkmälern",
+   "Mineralwasser",
+   "4-Sterne-Hotel",
+   "Frühstück",
+   "Zugtickets 2. Klasse (Agra nach Amritsar)",
+   "Alle Mautgebühren und Parken"
+  ],
+  "notIncluded": [
+   "Beinhaltet keine Kameragebühren",
+   "Trinkgeld für Guide/Fahrer (empfohlen)",
+   "Jegliche Ausgaben persönlicher Art",
+   "Flugtickets",
+   "Mittagessen"
+  ]
+ },
+ "from-jaipur-agra-day-tour-with-new-delhi-drop": {
+  "title": "Von Jaipur aus: Agra-Tagestour mit Absetzung in New Delhi",
+  "metaTitle": "Jaipur-Agra-Delhi: Tagestour",
+  "metaDescription": "Erkunden Sie das weltbekannte Taj Mahal und das prächtige Agra Fort.",
+  "shortDescription": "Erkunden Sie das weltbekannte Taj Mahal und das prächtige Agra Fort.",
+  "fullDescription": "Begeben Sie sich auf eine bemerkenswerte Reise durch die lebendigen Farben Rajasthans zum ewigen Symbol der Liebe, dem Taj Mahal, mit unserer Jaipur-Agra-Tagestour. Beginnend in der historischen Stadt Jaipur, nimmt Sie dieses eintägige Abenteuer mit auf eine unvergessliche Fahrt durch architektonische Wunder und kulturelle Schätze.\n\n**Jaipur – Agra-Besichtigung – Absetzung in Delhi**\n\nVerlassen Sie Jaipur zu Ihrer bevorzugten Zeit am Morgen.\nBeginnen Sie Ihren Tag mit einer bequemen Abholung von Ihrem bevorzugten Ort in Jaipur zu Ihrer gewählten Zeit. Unser freundlicher, erfahrener Fahrer wird Sie begrüßen, und Sie beginnen Ihre Reise in Richtung der schönen Stadt Agra.\n\n**Ankunft in Agra**\nBei der Ankunft in Agra machen Sie sich bereit, die bezaubernde Schönheit des Taj Mahal zu erleben. Ein kundiger Guide begrüßt Sie am Eingang und teilt die reiche Geschichte und faszinierende Details dieses UNESCO-Weltkulturerbes mit Ihnen. Bewundern Sie seine atemberaubende Architektur und erfahren Sie mehr über die berührende Liebesgeschichte hinter seiner Entstehung.\n\n**Mittagspause**\nNach dem bereichernden Besuch des Taj Mahal genießen Sie ein köstliches Mittagessen in einem lokalen Restaurant und probieren die Aromen der mogulischen Küche.\n\n**Erkundung des Agra Forts**\nNach dem Mittagessen geht es weiter zum prächtigen Agra Fort, einer grandiosen Festung aus rotem Sandstein, die einst Mogulkaiser beherbergte. Entdecken Sie die einzigartige Mischung aus islamischer und hinduistischer Architektur und genießen Sie atemberaubende Ausblicke auf das Taj Mahal von den strategischen Aussichtspunkten der Festung.\n\n**Abendliche Abfahrt nach Delhi**\nAm Ende des Tages beginnen wir unsere Reise nach Delhi für Ihre Absetzung. Entspannen Sie sich im Komfort unseres klimatisierten Fahrzeugs, während Sie über die unvergesslichen Erlebnisse des Tages nachdenken.\n\nHinweis: Der Reiseplan kann sich je nach Verkehrsbedingungen und Zeitmanagement ändern.",
+  "highlights": [
+   "Erkunden Sie das weltbekannte Taj Mahal und das prächtige Agra Fort"
+  ],
+  "included": [
+   "Abholung am Hotel/Flughafen/Bahnhof in Jaipur und Absetzung in Delhi",
+   "Privates klimatisiertes Fahrzeug mit Chauffeur für Besichtigungen",
+   "Eintrittsgebühren zu den Denkmälern und Kameragebühren",
+   "Kraftstoff (Benzin/Diesel), Parkgebühren, Mautgebühren, und Fahrten zwischen Bundesstaaten",
+   "Professioneller Guide (auf Anfrage)",
+   "Wasser in Flaschen",
+   "Alle staatlichen Steuern (GST) inklusive"
+  ],
+  "notIncluded": [
+   "Erinnerungsfotos (zum Kauf erhältlich)",
+   "Mahlzeitenkosten",
+   "Persönliche Ausgaben",
+   "Zusätzliche Aktivitäten",
+   "Trinkgeld für Fahrer und Guide"
+  ]
+ },
+ "2-day-taj-mahal-sunrise-agra-tour-with-elephant": {
+  "title": "2-tägige Tour: Taj Mahal Sonnenaufgang und Agra mit Elefanten-Rettung",
+  "metaTitle": "Agra in 2 Tagen: Taj Mahal und Elefanten",
+  "metaDescription": "Besuchen Sie das ikonische Taj Mahal, Indiens berühmtestes Denkmal.",
+  "shortDescription": "Besuchen Sie das ikonische Taj Mahal, Indiens berühmtestes Denkmal.",
+  "fullDescription": "**Tag 1: Delhi nach Agra, Besichtigung von Agra und Sonnenuntergang**\n\n**6:00 Uhr: Abholung in Delhi**\nIhr privater Fahrer holt Sie von Ihrem Hotel, Flughafen, oder gewünschten Ort in Delhi/NCR ab und fährt über die Yamuna Expressway nach Agra.\n\n**9:00 Uhr: Ankunft in Agra**\nTreffen Sie Ihren professionellen privaten Guide und beginnen Sie, Agras berühmte Mogul-Sehenswürdigkeiten zu erkunden.\n\n**Besuch des Agra Forts**\nErkunden Sie dieses prächtige UNESCO-Weltkulturerbe und erfahren Sie mehr über die Mogulkaiser, die hier lebten.\n\n**Besuch von Itmad-ud-Daulah (Baby Taj)**\nEntdecken Sie dieses elegante Mogul-Mausoleum, bekannt für seine detaillierten Marmor-Einlegearbeiten.\n\n**Mittagspause**\nGenießen Sie freie Zeit zum Mittagessen in einem lokalen Restaurant oder Hotel auf eigene Kosten.\n\n**Elefanten-Rettungszentrum**\nBesuchen Sie ein verantwortungsvolles Elefanten-Schutz- und Rettungszentrum, um mehr über gerettete Elefanten und ihre Rehabilitation zu erfahren. Der Besuch konzentriert sich auf Beobachtung, Bildung, und Tierschutz, ohne Reiten oder direkten Kontakt.\n\n**Sonnenuntergangsblick auf das Taj Mahal**\nGenießen Sie einen schönen Sonnenuntergangsblick auf das Taj Mahal von einem geeigneten Aussichtspunkt, abhängig von Wetter und lokalen Bedingungen.\n\n**Abend: Hotel-Check-in**\nChecken Sie in Ihrem Hotel in Agra ein und entspannen Sie sich über Nacht.\n\n**Tag 2: Taj Mahal Sonnenaufgang, Agra nach Delhi**\n\n**Früher Morgen: Besuch des Taj Mahal beim Sonnenaufgang**\nBeginnen Sie Ihren Tag früh und besuchen Sie das Taj Mahal beim Sonnenaufgang. Bewundern Sie seine wechselnden Farben im sanften Morgenlicht, und erkunden Sie das Denkmal mit Ihrem privaten Guide.\n\n**Frühstück im Hotel**\nKehren Sie zu Ihrem Hotel zum Frühstück zurück und nehmen Sie sich etwas Zeit zum Entspannen.\n\n**Check-out und freie Zeit**\nChecken Sie aus und genießen Sie etwas freie Zeit zum Einkaufen oder Erkunden von Agra, je nach Ihrem Zeitplan.\n\n**Rückfahrt nach Delhi**\nReisen Sie komfortabel in einem privaten klimatisierten Fahrzeug von Agra nach Delhi.\n\n**Absetzung in Delhi/NCR**\nIhr Fahrer setzt Sie an Ihrem Hotel, Flughafen, oder einem anderen gewünschten Ort in Delhi/NCR ab und beendet damit Ihr 2-tägiges Agra-Erlebnis.",
+  "highlights": [
+   "Besuchen Sie das ikonische Taj Mahal, Indiens berühmtestes Denkmal"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel",
+   "Besuch des SOS Elefanten-Schutzzentrums",
+   "Transport im klimatisierten Auto",
+   "Privater Reiseführer",
+   "Eintrittsgebühr zum Taj Mahal und Agra Fort (falls ausgewählt)",
+   "Mahlzeiten (falls ausgewählt)",
+   "Kostenlose Wasserflasche"
+  ],
+  "notIncluded": [
+   "Trinkgeld/Zuwendungen",
+   "SOS Elefanten-Schutzzentrum (es fällt eine nicht enthaltene Spendengebühr an)"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",

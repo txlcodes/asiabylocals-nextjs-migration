@@ -4397,6 +4397,84 @@ export const ES_TOURS: Record<string, TourT> = {
    "Entrada a los monumentos"
   ]
  },
+ "delhi-5-night6-days-delhi-agra-amritsar": {
+  "title": "Delhi: tour de 5 noches/6 días Delhi, Agra, Amritsar, Dharamshala",
+  "metaTitle": "Delhi-Agra-Amritsar-Dharamshala en 6 días",
+  "metaDescription": "Experimente la dicha espiritual en el Templo Dorado, el Gurdwara más sagrado del sijismo.",
+  "shortDescription": "Experimente la dicha espiritual en el Templo Dorado, el Gurdwara más sagrado del sijismo.",
+  "fullDescription": "Este tour de 5 noches y 6 días lo lleva de Delhi a Agra y luego a Amritsar y Dharamshala, incluyendo un trayecto en tren de 2.ª clase de Agra a Amritsar. Alójese en hoteles de 4 estrellas con desayuno incluido, y visite el Templo Dorado, el Gurdwara más sagrado del sijismo, para una experiencia de dicha espiritual inolvidable, además de los monumentos emblemáticos de Agra como el Taj Mahal y el fuerte de Agra.",
+  "highlights": [
+   "Experimente la dicha espiritual en el Templo Dorado, el Gurdwara más sagrado del sijismo"
+  ],
+  "included": [
+   "Recogida y traslado",
+   "Coche con aire acondicionado con conductor",
+   "Wi-Fi gratuito en el coche",
+   "Guía turístico (aprobado por el gobierno)",
+   "Tarifa de entrada a los monumentos",
+   "Agua mineral",
+   "Hotel de 4 estrellas",
+   "Desayuno",
+   "Boletos de tren de 2.ª clase (Agra a Amritsar)",
+   "Todos los peajes y el estacionamiento"
+  ],
+  "notIncluded": [
+   "No incluye tarifas de cámara",
+   "Propinas para el guía/conductor (recomendadas)",
+   "Cualquier gasto de naturaleza personal",
+   "Boletos de avión",
+   "Almuerzo"
+  ]
+ },
+ "from-jaipur-agra-day-tour-with-new-delhi-drop": {
+  "title": "Desde Jaipur: tour de un día a Agra con entrega en Nueva Delhi",
+  "metaTitle": "Jaipur-Agra-Delhi: tour de un día",
+  "metaDescription": "Explore el mundialmente famoso Taj Mahal y el magnífico fuerte de Agra.",
+  "shortDescription": "Explore el mundialmente famoso Taj Mahal y el magnífico fuerte de Agra.",
+  "fullDescription": "Embárquese en un viaje extraordinario a través de los colores vibrantes de Rajasthan hacia el símbolo eterno del amor, el Taj Mahal, con nuestro tour de un día Jaipur-Agra. Comenzando desde la histórica ciudad de Jaipur, esta aventura de un día lo llevará a un viaje inolvidable a través de maravillas arquitectónicas y joyas culturales.\n\n**Jaipur, recorrido por Agra, entrega en Delhi**\n\nSalga de Jaipur a la hora que prefiera por la mañana.\nComience su día con una cómoda recogida en el lugar que prefiera en Jaipur, a la hora elegida. Nuestro amable y experimentado conductor lo saludará, y comenzará su viaje hacia la hermosa ciudad de Agra.\n\n**Llegada a Agra**\nA su llegada a Agra, prepárese para experimentar la fascinante belleza del Taj Mahal. Un guía conocedor lo recibirá en la entrada, compartiendo la rica historia y los detalles fascinantes de este sitio del Patrimonio Mundial de la UNESCO. Admire su impresionante arquitectura y conozca la conmovedora historia de amor detrás de su creación.\n\n**Pausa para el almuerzo**\nDespués de la enriquecedora visita al Taj Mahal, disfrute de un delicioso almuerzo en un restaurante local, probando los sabores de la cocina mogola.\n\n**Exploración del fuerte de Agra**\nDespués del almuerzo, nos dirigimos al magnífico fuerte de Agra, una grandiosa fortaleza de arenisca roja que una vez albergó a los emperadores mogoles. Descubra su mezcla única de arquitectura islámica e hindú, y disfrute de vistas impresionantes del Taj Mahal desde los miradores estratégicos del fuerte.\n\n**Salida vespertina hacia Delhi**\nAl concluir el día, comenzamos nuestro viaje hacia Delhi para su entrega. Relájese en la comodidad de nuestro vehículo con aire acondicionado mientras reflexiona sobre las experiencias inolvidables del día.\n\nNota: el itinerario está sujeto a cambios según las condiciones del tráfico y la gestión del tiempo.",
+  "highlights": [
+   "Explore el mundialmente famoso Taj Mahal y el magnífico fuerte de Agra"
+  ],
+  "included": [
+   "Recogida en hotel/aeropuerto/estación de tren en Jaipur y entrega en Delhi",
+   "Vehículo privado con aire acondicionado y chófer para los recorridos",
+   "Tarifas de entrada a los monumentos y tarifas de cámara",
+   "Combustible (gasolina/diésel), cargos de estacionamiento, peajes, e impuestos interestatales",
+   "Guía profesional (disponible a pedido)",
+   "Agua embotellada",
+   "Todos los impuestos gubernamentales (GST) incluidos"
+  ],
+  "notIncluded": [
+   "Fotos de recuerdo (disponibles para comprar)",
+   "Gastos de comidas",
+   "Gastos personales",
+   "Actividades adicionales",
+   "Propinas para el conductor y el guía"
+  ]
+ },
+ "2-day-taj-mahal-sunrise-agra-tour-with-elephant": {
+  "title": "Tour de 2 días: amanecer en el Taj Mahal y Agra con rescate de elefantes",
+  "metaTitle": "Agra en 2 días: Taj Mahal y elefantes",
+  "metaDescription": "Visite el icónico Taj Mahal, el monumento más famoso de la India.",
+  "shortDescription": "Visite el icónico Taj Mahal, el monumento más famoso de la India.",
+  "fullDescription": "**Día 1: Delhi a Agra, recorrido por Agra y atardecer**\n\n**6:00: recogida en Delhi**\nSu conductor privado lo recogerá en su hotel, aeropuerto, o lugar preferido en Delhi/NCR, y conducirá hacia Agra por la autopista Yamuna.\n\n**9:00: llegada a Agra**\nConozca a su guía privado profesional y comience a explorar los famosos lugares mogoles de Agra.\n\n**Visita al fuerte de Agra**\nExplore este magnífico sitio del Patrimonio Mundial de la UNESCO y conozca a los emperadores mogoles que vivieron aquí.\n\n**Visita a Itmad-ud-Daulah (Baby Taj)**\nDescubra esta elegante tumba mogola, famosa por su detallado trabajo de incrustación en mármol.\n\n**Pausa para el almuerzo**\nDisfrute de tiempo libre para almorzar en un restaurante local o en el hotel, por su cuenta.\n\n**Centro de rescate de elefantes**\nVisite un centro responsable de conservación y rescate de elefantes para conocer a los elefantes rescatados y su rehabilitación. La visita se centra en la observación, la educación, y el bienestar animal, sin montar ni interacción directa.\n\n**Vista del atardecer en el Taj Mahal**\nDisfrute de una hermosa vista del atardecer en el Taj Mahal desde un mirador adecuado, sujeto al clima y las condiciones locales.\n\n**Noche: registro en el hotel**\nRegístrese en su hotel en Agra y relájese durante la noche.\n\n**Día 2: amanecer en el Taj Mahal, Agra a Delhi**\n\n**Temprano en la mañana: visita del amanecer en el Taj Mahal**\nComience su día temprano y visite el Taj Mahal al amanecer. Admire sus colores cambiantes bajo la suave luz matutina, y explore el monumento con su guía privado.\n\n**Desayuno en el hotel**\nRegrese a su hotel para desayunar y tener algo de tiempo para relajarse.\n\n**Check-out y tiempo libre**\nHaga el check-out y disfrute de algo de tiempo libre para ir de compras o explorar Agra, según su horario.\n\n**Regreso en coche a Delhi**\nViaje cómodamente en un vehículo privado con aire acondicionado de Agra a Delhi.\n\n**Entrega en Delhi/NCR**\nSu conductor lo dejará en su hotel, aeropuerto, u otro lugar preferido en Delhi/NCR, concluyendo su experiencia de 2 días en Agra.",
+  "highlights": [
+   "Visite el icónico Taj Mahal, el monumento más famoso de la India"
+  ],
+  "included": [
+   "Recogida y traslado al hotel",
+   "Visita al centro de conservación de elefantes SOS",
+   "Transporte en coche con aire acondicionado",
+   "Guía turístico privado",
+   "Tarifa de entrada al Taj Mahal y al fuerte de Agra (si se selecciona esa opción)",
+   "Comidas (si se selecciona esa opción)",
+   "Botella de agua de cortesía"
+  ],
+  "notIncluded": [
+   "Propinas/gratificaciones",
+   "Centro de conservación de elefantes SOS (se aplican cargos de donación no incluidos)"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",

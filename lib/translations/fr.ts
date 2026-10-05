@@ -4397,6 +4397,84 @@ export const FR_TOURS: Record<string, TourT> = {
    "Entrée aux monuments"
   ]
  },
+ "delhi-5-night6-days-delhi-agra-amritsar": {
+  "title": "Delhi : circuit de 5 nuits/6 jours Delhi, Agra, Amritsar, Dharamshala",
+  "metaTitle": "Delhi-Agra-Amritsar-Dharamshala en 6 jours",
+  "metaDescription": "Vivez la félicité spirituelle au Temple d'or, le Gurdwara le plus sacré du sikhisme.",
+  "shortDescription": "Vivez la félicité spirituelle au Temple d'or, le Gurdwara le plus sacré du sikhisme.",
+  "fullDescription": "Ce circuit de 5 nuits et 6 jours vous emmène de Delhi à Agra, puis à Amritsar et Dharamshala, incluant un trajet en train de 2e classe d'Agra à Amritsar. Séjournez dans des hôtels 4 étoiles avec petit-déjeuner inclus, et visitez le Temple d'or, le Gurdwara le plus sacré du sikhisme, pour une expérience de félicité spirituelle inoubliable, en plus des monuments emblématiques d'Agra comme le Taj Mahal et le fort d'Agra.",
+  "highlights": [
+   "Vivez la félicité spirituelle au Temple d'or, le Gurdwara le plus sacré du sikhisme"
+  ],
+  "included": [
+   "Prise en charge et retour",
+   "Voiture climatisée avec chauffeur",
+   "Wi-Fi gratuit dans la voiture",
+   "Guide touristique (agréé par le gouvernement)",
+   "Frais d'entrée aux monuments",
+   "Eau minérale",
+   "Hôtel 4 étoiles",
+   "Petit-déjeuner",
+   "Billets de train 2e classe (Agra vers Amritsar)",
+   "Tous les péages et le stationnement"
+  ],
+  "notIncluded": [
+   "N'inclut pas les frais de caméra",
+   "Pourboires pour le guide/chauffeur (recommandés)",
+   "Toute dépense de nature personnelle",
+   "Billets d'avion",
+   "Déjeuner"
+  ]
+ },
+ "from-jaipur-agra-day-tour-with-new-delhi-drop": {
+  "title": "Depuis Jaipur : visite d'Agra d'une journée avec dépose à New Delhi",
+  "metaTitle": "Jaipur-Agra-Delhi : visite en 1 jour",
+  "metaDescription": "Explorez le mondialement célèbre Taj Mahal et le magnifique fort d'Agra.",
+  "shortDescription": "Explorez le mondialement célèbre Taj Mahal et le magnifique fort d'Agra.",
+  "fullDescription": "Lancez-vous dans un voyage remarquable à travers les couleurs vibrantes du Rajasthan vers le symbole éternel de l'amour, le Taj Mahal, avec notre visite d'une journée Jaipur-Agra. Partant de la ville historique de Jaipur, cette aventure d'une journée vous emmènera dans un voyage inoubliable à travers des merveilles architecturales et des joyaux culturels.\n\n**Jaipur, visite d'Agra, dépose à Delhi**\n\nQuittez Jaipur à l'heure de votre choix le matin.\nCommencez votre journée par une prise en charge pratique à l'endroit de votre choix à Jaipur, à l'heure choisie. Notre chauffeur sympathique et expérimenté vous accueillera, et vous commencerez votre voyage vers la belle ville d'Agra.\n\n**Arrivée à Agra**\nÀ l'arrivée à Agra, préparez-vous à découvrir la beauté fascinante du Taj Mahal. Un guide compétent vous accueillera à l'entrée, partageant la riche histoire et les détails fascinants de ce site du patrimoine mondial de l'UNESCO. Admirez son architecture époustouflante et découvrez la touchante histoire d'amour derrière sa création.\n\n**Pause déjeuner**\nAprès la visite enrichissante du Taj Mahal, savourez un délicieux déjeuner dans un restaurant local, dégustant les saveurs de la cuisine moghole.\n\n**Exploration du fort d'Agra**\nAprès le déjeuner, nous nous dirigeons vers le magnifique fort d'Agra, une grandiose forteresse en grès rouge qui abritait autrefois les empereurs moghols. Découvrez son mélange unique d'architecture islamique et hindoue, et profitez de vues à couper le souffle sur le Taj Mahal depuis les points de vue stratégiques du fort.\n\n**Départ en soirée vers Delhi**\nÀ la fin de la journée, nous commençons notre voyage vers Delhi pour votre dépose. Détendez-vous dans le confort de notre véhicule climatisé en repensant aux expériences inoubliables de la journée.\n\nNote : l'itinéraire peut être modifié en fonction des conditions de circulation et de la gestion du temps.",
+  "highlights": [
+   "Explorez le mondialement célèbre Taj Mahal et le magnifique fort d'Agra"
+  ],
+  "included": [
+   "Prise en charge à l'hôtel/l'aéroport/la gare à Jaipur et dépose à Delhi",
+   "Véhicule privé climatisé avec chauffeur pour les visites",
+   "Frais d'entrée aux monuments et frais de caméra",
+   "Carburant (essence/diesel), frais de stationnement, péages, et taxes inter-États",
+   "Guide professionnel (sur demande)",
+   "Eau en bouteille",
+   "Toutes les taxes gouvernementales (TPS) incluses"
+  ],
+  "notIncluded": [
+   "Photos souvenirs (disponibles à l'achat)",
+   "Frais de repas",
+   "Dépenses personnelles",
+   "Activités supplémentaires",
+   "Pourboires pour le chauffeur et le guide"
+  ]
+ },
+ "2-day-taj-mahal-sunrise-agra-tour-with-elephant": {
+  "title": "Circuit de 2 jours : lever du soleil au Taj Mahal et Agra avec sauvetage d'éléphants",
+  "metaTitle": "Agra en 2 jours : Taj Mahal et éléphants",
+  "metaDescription": "Visitez l'emblématique Taj Mahal, le monument le plus célèbre de l'Inde.",
+  "shortDescription": "Visitez l'emblématique Taj Mahal, le monument le plus célèbre de l'Inde.",
+  "fullDescription": "**Jour 1 : Delhi à Agra, visite d'Agra et coucher de soleil**\n\n**6h00 : prise en charge à Delhi**\nVotre chauffeur privé vous prendra en charge à votre hôtel, l'aéroport, ou l'endroit souhaité à Delhi/NCR, et roulera vers Agra via l'autoroute Yamuna.\n\n**9h00 : arrivée à Agra**\nRencontrez votre guide privé professionnel et commencez à explorer les célèbres sites moghols d'Agra.\n\n**Visite du fort d'Agra**\nExplorez ce magnifique site du patrimoine mondial de l'UNESCO et découvrez les empereurs moghols qui y ont vécu.\n\n**Visite d'Itmad-ud-Daulah (Baby Taj)**\nDécouvrez cet élégant tombeau moghol, célèbre pour son travail détaillé d'incrustation de marbre.\n\n**Pause déjeuner**\nProfitez de temps libre pour le déjeuner dans un restaurant local ou à l'hôtel, à vos frais.\n\n**Centre de sauvetage des éléphants**\nVisitez un centre responsable de conservation et de sauvetage des éléphants pour en apprendre davantage sur les éléphants sauvés et leur réhabilitation. La visite se concentre sur l'observation, l'éducation, et le bien-être animal, sans monte ni interaction directe.\n\n**Vue du coucher de soleil sur le Taj Mahal**\nProfitez d'une magnifique vue du coucher de soleil sur le Taj Mahal depuis un point de vue approprié, selon la météo et les conditions locales.\n\n**Soirée : enregistrement à l'hôtel**\nEnregistrez-vous à votre hôtel à Agra et détendez-vous pour la nuit.\n\n**Jour 2 : lever du soleil au Taj Mahal, Agra vers Delhi**\n\n**Tôt le matin : visite du lever du soleil au Taj Mahal**\nCommencez votre journée tôt et visitez le Taj Mahal au lever du soleil. Admirez ses couleurs changeantes dans la douce lumière matinale, et explorez le monument avec votre guide privé.\n\n**Petit-déjeuner à l'hôtel**\nRetournez à votre hôtel pour le petit-déjeuner et un peu de temps pour vous détendre.\n\n**Départ et temps libre**\nFaites votre check-out et profitez d'un peu de temps libre pour le shopping ou l'exploration d'Agra, selon votre emploi du temps.\n\n**Retour en voiture vers Delhi**\nVoyagez confortablement en véhicule privé climatisé d'Agra à Delhi.\n\n**Dépose à Delhi/NCR**\nVotre chauffeur vous déposera à votre hôtel, l'aéroport, ou un autre endroit souhaité à Delhi/NCR, concluant votre expérience de 2 jours à Agra.",
+  "highlights": [
+   "Visitez l'emblématique Taj Mahal, le monument le plus célèbre de l'Inde"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Visite du centre de conservation des éléphants SOS",
+   "Transport en voiture climatisée",
+   "Guide touristique privé",
+   "Frais d'entrée au Taj Mahal et au fort d'Agra (si option sélectionnée)",
+   "Repas (si option sélectionnée)",
+   "Bouteille d'eau offerte"
+  ],
+  "notIncluded": [
+   "Pourboires/gratifications",
+   "Centre de conservation des éléphants SOS (des frais de don non inclus s'appliquent)"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
