@@ -22227,6 +22227,80 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tours adicionales (por ejemplo, Sanjay Colony o el tour de arte de Delhi, reservados por separado)"
   ]
  },
+ "from-delhi-3-day-private-golden-triangle-tour": {
+  "title": "Desde Delhi: tour privado del Triángulo Dorado de 3 días con hoteles",
+  "metaTitle": "Delhi: Triángulo Dorado privado 3 días con hoteles",
+  "metaDescription": "Descubra el patrimonio cultural de Delhi.",
+  "shortDescription": "Descubra el patrimonio cultural de Delhi.",
+  "fullDescription": "Desde Delhi: tour privado del Triángulo Dorado de 3 días con hoteles. Descubra el patrimonio cultural de Delhi.\n\nSumérjase en la magia de la India en un inolvidable tour privado del Triángulo Dorado de 3 días, revelando los tesoros más icónicos de la nación. Su aventura exclusiva comienza en Delhi, y luego lo lleva a través de las vibrantes tierras culturales de Delhi, Agra, y Jaipur.\n\n**Día 1: los encantos de Delhi y el abrazo de Agra (210 km)**\nNuestro equipo lo recibe en el aeropuerto de Delhi o en su hotel. Explore los sitios más grandiosos de Delhi: el imponente Qutub Minar, el pacífico Templo del Loto, el histórico Raj Ghat, el bullicioso Chandni Chowk, el majestuoso Rashtrapati Bhavan, y el patriótico India Gate. Disfrute de una comida local, y luego viaje hacia la histórica Agra por la autopista Yamuna para pasar la noche.\n\n**Día 2: el amanecer del Taj Mahal y caminos reales hacia Jaipur (250 km)**\nReciba el amanecer en el impresionante Taj Mahal, siendo testigo de su belleza atemporal. Después del desayuno, adéntrese en la rica historia del fuerte de Agra (Fuerte Rojo). Por la tarde, diríjase hacia Jaipur, deteniéndose en la impresionante antigua capital mogol de Fatehpur Sikri. Continúe hacia Abhaneri para admirar sus antiguos e impresionantes pozos escalonados, antes de llegar a Jaipur, la ciudad rosa, para pasar la noche.\n\n**Día 3: la grandeza de Jaipur y la despedida de Delhi (260 km)**\nDespués del desayuno, sumérjase en las maravillas de Jaipur: el intrigante Jantar Mantar, el icónico Hawa Mahal, el sereno Jal Mahal, el gran City Palace, y el majestuoso fuerte Amer. A medida que se acerca la noche, comience su regreso a Delhi. Lo dejaremos en su hotel o en el aeropuerto, con recuerdos preciados de su increíble viaje por el Triángulo Dorado.\n\n**Qué incluye**\nVehículo privado con aire acondicionado con conductor de habla inglesa\nAlojamiento de 2 noches en hotel (si se selecciona)\nDesayuno diario en el hotel\nVisitas turísticas completas de la ciudad con guía turístico privado\nRecogida y regreso desde el hotel, aeropuerto, o cualquier lugar en Delhi, Gurugram, o Noida\nPaseo en autobús eléctrico en el Taj Mahal\nAtención personalizada\nBotellas de agua mineral\nTodos los impuestos, combustible, tarifas de estacionamiento, y asignaciones del conductor\n\n**No incluye**\nEntradas a monumentos (si no se selecciona esta opción)\nCualquier comida y servicio adicional\nPropinas y gratificaciones",
+  "highlights": [
+   "Descubra el patrimonio cultural de Delhi"
+  ],
+  "included": [
+   "Vehículo privado con aire acondicionado con conductor de habla inglesa",
+   "Alojamiento de 2 noches en hotel (si se selecciona)",
+   "Desayuno diario en el hotel",
+   "Visitas turísticas completas de la ciudad con guía turístico privado",
+   "Recogida y regreso desde el hotel, aeropuerto, o cualquier lugar en Delhi, Gurugram, o Noida",
+   "Paseo en autobús eléctrico en el Taj Mahal",
+   "Atención personalizada",
+   "Botellas de agua mineral",
+   "Todos los impuestos, combustible, tarifas de estacionamiento, y asignaciones del conductor"
+  ],
+  "notIncluded": [
+   "Entradas a monumentos (si no se selecciona esta opción)",
+   "Cualquier comida y servicio adicional",
+   "Propinas y gratificaciones"
+  ]
+ },
+ "delhi-akshardham-temple-evening-magical-water": {
+  "title": "Delhi: mágico espectáculo de agua y luz nocturno en el templo Akshardham",
+  "metaTitle": "Delhi: Akshardham, espectáculo de agua nocturno",
+  "metaDescription": "Vea el espectacular espectáculo de luz y agua de Akshardham.",
+  "shortDescription": "Vea el espectacular espectáculo de luz y agua de Akshardham.",
+  "fullDescription": "Delhi: mágico espectáculo de agua y luz nocturno en el templo Akshardham. Vea el espectacular espectáculo de luz y agua de Akshardham.\n\nDescubra la belleza espiritual del templo Akshardham después del atardecer en este tour privado nocturno en Delhi. Admire la impresionante arquitectura del templo bellamente iluminada por la noche, y experimente el famoso Espectáculo de Luz y Agua Sahaj Anand, que combina luces, efectos de agua, láseres, música, y narración.\n\nViaje cómodamente en un vehículo privado con aire acondicionado, con recogida y regreso al hotel incluidos. Explore el pacífico complejo del templo, aprenda sobre la cultura e espiritualidad india con su guía, y disfrute de una tarde relajante lejos de las multitudes de la ciudad.\n\nEsta experiencia es perfecta para familias, parejas, viajeros solos, y cualquier persona que busque presenciar una de las atracciones nocturnas más mágicas de Delhi.\n\n**Qué incluye**\nVehículo privado con aire acondicionado\nRecogida y regreso al hotel/aeropuerto (si se selecciona esta opción)\nGuía turístico privado profesional\nEntradas para el Espectáculo de Luz y Agua de Akshardham (si se selecciona esta opción)\nCena en un restaurante de 5 estrellas (si se selecciona esta opción)\nAgua embotellada\nTodas las tarifas de estacionamiento e impuestos\n\n**No incluye**\nCualquier bebida servida con la comida\nGastos personales\nGratificaciones",
+  "highlights": [
+   "Vea el espectacular espectáculo de luz y agua de Akshardham"
+  ],
+  "included": [
+   "Vehículo privado con aire acondicionado",
+   "Recogida y regreso al hotel/aeropuerto (si se selecciona esta opción)",
+   "Guía turístico privado profesional",
+   "Entradas para el Espectáculo de Luz y Agua de Akshardham (si se selecciona esta opción)",
+   "Cena en un restaurante de 5 estrellas (si se selecciona esta opción)",
+   "Agua embotellada",
+   "Todas las tarifas de estacionamiento e impuestos"
+  ],
+  "notIncluded": [
+   "Cualquier bebida servida con la comida",
+   "Gastos personales",
+   "Gratificaciones"
+  ]
+ },
+ "new-delhi-indian-family-cooking-class-with-meal": {
+  "title": "Nueva Delhi: clase de cocina en familia india con comida",
+  "metaTitle": "Nueva Delhi: clase de cocina en familia",
+  "metaDescription": "Aprenda a preparar platos indios tradicionales en un hogar familiar.",
+  "shortDescription": "Aprenda a preparar platos indios tradicionales en un hogar familiar.",
+  "fullDescription": "Nueva Delhi: clase de cocina en familia india con comida. Aprenda a preparar platos indios tradicionales en un hogar familiar.\n\nEntre en un cálido hogar familiar indio, y descubra cómo se prepara la deliciosa comida india cotidiana usando ingredientes sencillos, técnicas tradicionales, y especias aromáticas.\n\nAprenda de manera práctica a preparar chapati, dal, sabji de temporada, halwa, y lassi fresco. Su anfitrión le presentará las especias indias comúnmente utilizadas, explicará cómo se combinan, y le mostrará las técnicas de cocina tradicionales utilizadas en un hogar indio.\n\nPrepare los platos juntos, siéntese con la familia para disfrutar de la comida que ha cocinado, y experimente la calidez de un auténtico hogar indio.\n\n**Qué incluye**\nComida preparada durante la clase de cocina\nTodos los ingredientes de cocina\nToda la comida y los platos preparados\nTé, agua, y otras bebidas incluidas\nCálida bienvenida tradicional con tilak\n\n**No incluye**\nGastos personales como compras, boletos de metro, Uber/taxi, bocadillos, y otras pequeñas cosas\nPropinas y gratificaciones\nSeguro de viaje y médico\nGastos de emergencia\nCualquier servicio no mencionado o prometido específicamente por el agente/la agencia",
+  "highlights": [
+   "Aprenda a preparar platos indios tradicionales en un hogar familiar"
+  ],
+  "included": [
+   "Comida preparada durante la clase de cocina",
+   "Todos los ingredientes de cocina",
+   "Toda la comida y los platos preparados",
+   "Té, agua, y otras bebidas incluidas",
+   "Cálida bienvenida tradicional con tilak"
+  ],
+  "notIncluded": [
+   "Gastos personales como compras, boletos de metro, Uber/taxi, bocadillos, y otras pequeñas cosas",
+   "Propinas y gratificaciones",
+   "Seguro de viaje y médico",
+   "Gastos de emergencia",
+   "Cualquier servicio no mencionado o prometido específicamente por el agente/la agencia"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
