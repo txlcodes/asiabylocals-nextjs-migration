@@ -2777,6 +2777,78 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le guide et le chauffeur"
   ]
  },
+ "taj-mahal-agra-fort-tour-by-super-fast-train": {
+  "title": "Taj Mahal et fort d'Agra en train superrapide depuis Delhi",
+  "metaTitle": "Delhi-Agra : train superrapide, Taj Mahal, fort",
+  "metaDescription": "Voyagez à bord du train le plus rapide de l'Inde, le Gatimaan Express (en seulement 100 minutes).",
+  "shortDescription": "Voyagez à bord du train le plus rapide de l'Inde, le Gatimaan Express (en seulement 100 minutes).",
+  "fullDescription": " Le trajet entre Delhi et Agra ne prend que 100 minutes.\n\n**Itinéraire de la visite en Gatimaan Express de Delhi à Agra**\n\n**6h30 – embarquement dans le Gatimaan Express (Delhi-Agra)**\nPrise en charge à votre hôtel et transfert vers la gare de Hazrat Nizamuddin. Montez à bord du Gatimaan Express (le train le plus rapide de l'Inde), profitez de thé et de collations à bord.\n\n**8h10 – arrivée à la gare d'Agra Cantt**\nAccueil chaleureux par le guide local et le chauffeur. Procédez à la visite.\n\n**8h30 – visite du Taj Mahal**\nExplorez le symbole d'amour le plus célèbre du monde, le Taj Mahal, avec votre guide expert. Capturez la beauté du marbre blanc dans la lumière matinale.\n\n**11h00 – visite du fort d'Agra**\nVisitez le fort d'Agra classé par l'UNESCO, la grande résidence moghole des empereurs.\n\n**13h00 – déjeuner buffet dans un hôtel 5 étoiles**\nSavourez un déjeuner buffet somptueux moghol et continental dans un hôtel de luxe à Agra.\n\n**14h00 – visite d'Itmad-ud-Daulah (Baby Taj) / Mehtab Bagh**\nExplorez l'élégant Baby Taj, un tombeau en forme de coffret à bijoux. Alternativement, profitez de vues sur le Taj Mahal depuis Mehtab Bagh à travers la rivière Yamuna.\n\n**16h30 – visite du marché local (optionnel)**\nTemps libre pour explorer l'artisanat, l'incrustation en marbre, et les souvenirs d'Agra.\n\n**17h30 – transfert vers la gare d'Agra Cantt**\nMontez à bord du Gatimaan Express pour le trajet de retour.\n\n**17h50 – départ d'Agra**\nThé et collations du soir servis dans le train.\n\n**19h30 – arrivée à Delhi**\nTransfert de retour vers votre hôtel avec de merveilleux souvenirs d'Agra.",
+  "highlights": [
+   "Voyagez à bord du train le plus rapide de l'Inde, le Gatimaan Express (en seulement 100 minutes)"
+  ],
+  "included": [
+   "Billets de train aller-retour (selon la sélection de prix)",
+   "Service de prise en charge et retour à l'hôtel en voiture (Delhi-Agra)",
+   "Visite en voiture privée climatisée",
+   "Accompagnateur touristique professionnel en direct",
+   "Rafraîchissements servis à bord",
+   "Bouteilles d'eau minérale",
+   "Carburant, stationnement, indemnité",
+   "Toutes les taxes"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Billets d'entrée aux monuments",
+   "Boissons pendant le déjeuner",
+   "Dépenses personnelles"
+  ]
+ },
+ "experience-taj-mahal-tour-by-helicopter-from-delhi": {
+  "title": "Découvrez le Taj Mahal en hélicoptère depuis Delhi",
+  "metaTitle": "Delhi-Taj Mahal : visite en hélicoptère",
+  "metaDescription": "Pass de visite pour tous les monuments.",
+  "shortDescription": "Pass de visite pour tous les monuments.",
+  "fullDescription": "**Transfert de Delhi vers l'aéroport de Palam**\nNotre guide de voyage et assistant vous accompagneront vers l'aéroport de Palam pour voler vers la ville d'Agra.\n\n**De Delhi à Agra (visite du Taj Mahal)**\nUn accueil traditionnel.\n\nÀ l'arrivée dans la ville du Taj Mahal, découvrez la beauté du Taj et profitez de la vue aérienne du Taj Mahal.\n\nLe Taj Mahal est considéré comme la plus grande réalisation architecturale de toute l'architecture indo-islamique. C'est un chef-d'œuvre de style architectural dans sa conception, son traitement, et son exécution, et possède des qualités esthétiques uniques en termes d'équilibre, de symétrie, et de mélange harmonieux de divers éléments.\n\n**13h30 déjeuner (approximatif)**\nDéjeunez dans un hôtel 5 étoiles, ou vous pouvez également profiter du déjeuner dans un restaurant multi-cuisine traditionnel (sur demande).\n\n**14h30 visite du fort d'Agra**\nDécouvrez le fort d'Agra, l'un des meilleurs forts de l'Inde, construit par l'empereur Akbar.\n\nLa construction du fort d'Agra a commencé vers 1565, lorsque les structures initiales furent construites par l'empereur moghol Akbar et reprises par la suite par son petit-fils Shah Jahan, qui ajouta la plupart des créations en marbre au fort.\n\n**Départ vers Delhi 1 heure avant le coucher du soleil**\nAprès avoir terminé la visite, transfert vers l'aéroport de Delhi.",
+  "highlights": [
+   "Pass de visite pour tous les monuments"
+  ],
+  "included": [
+   "Assistant à l'arrivée depuis l'aéroport de Palam en hélicoptère vers Agra",
+   "Hélicoptère personnel, visite de Delhi à Agra (aller-retour)",
+   "Accueil traditionnel indien à l'arrivée",
+   "Transfert de l'hôtel/domicile de Delhi vers l'aéroport de Delhi en voiture climatisée et retour de l'aéroport d'Agra vers l'hôtel/domicile de Delhi",
+   "Coordinateur pour aider l'invité aux arrivées, départs, et pendant toute la visite",
+   "Transport en voiture de luxe (Mercedes Benz, Audi, BMW) pour les visites locales à Agra",
+   "Pass de visite pour tous les monuments",
+   "Déjeuner dans un hôtel 5 étoiles",
+   "Guide touristique parlant anglais, agréé par le ministère du Tourisme du gouvernement indien",
+   "Profitez de la vue aérienne du Taj Mahal",
+   "Profitez du trajet en Tonga",
+   "Tous les frais d'atterrissage et de stationnement à l'héliport ou à l'aéroport"
+  ],
+  "notIncluded": []
+ },
+ "agra-sunrise-taj-mahal-tour-elephant-sanctuary": {
+  "title": "Agra : visite du Taj Mahal au lever du soleil et visite d'une journée au sanctuaire d'éléphants",
+  "metaTitle": "Agra : Taj Mahal lever du soleil, sanctuaire d'éléphants",
+  "metaDescription": "Regardez le Taj Mahal au lever du soleil rayonner dans une douce lumière matinale dorée.",
+  "shortDescription": "Regardez le Taj Mahal au lever du soleil rayonner dans une douce lumière matinale dorée.",
+  "fullDescription": "Commencez votre inoubliable visite du Taj Mahal au lever du soleil à Agra avec une prise en charge privée à votre hôtel ou à l'aéroport d'Agra. Arrivez au Taj Mahal juste au moment où les premiers rayons du soleil touchent son marbre blanc, un moment de pure magie. Moins de foules, un temps plus frais, et une lueur dorée font du lever du soleil le moment le plus beau pour découvrir cette merveille du monde. Votre guide privé donnera vie à l'histoire d'amour du Taj Mahal, partageant des récits de Shah Jahan et Mumtaz qui ajoutent de la profondeur à sa beauté à couper le souffle.\n\nAprès le Taj Mahal, continuez vers le magnifique fort d'Agra, un site du patrimoine mondial de l'UNESCO qui servit autrefois de siège du pouvoir moghol. Promenez-vous dans ses palais et cours tout en découvrant la riche histoire de l'empire.\n\nPlus tard, profitez d'une visite unique et significative au centre de conservation et de soins des éléphants. Rencontrez des éléphants secourus, écoutez leurs histoires inspirantes, et découvrez les efforts de conservation dévoués qui donnent à ces gentils géants une vie sûre et heureuse. Cette expérience spéciale ajoute du cœur et de la compassion à votre voyage.\n\nChoisissez l'option qui vous convient le mieux :\n\nGuide uniquement pour ceux qui ont déjà organisé leur transport.\nGuide et transport pour une voiture privée confortable avec chauffeur et guide personnel.\nVisite tout compris pour une journée sans stress couvrant le transport, le guide, les billets d'entrée sans file d'attente, et un délicieux déjeuner buffet.\n\nQue vous souhaitiez de la flexibilité ou une journée entièrement organisée, cette excursion d'une journée au lever du soleil à Agra promet de l'histoire, de la beauté, et des rencontres significatives que vous n'oublierez jamais.",
+  "highlights": [
+   "Regardez le Taj Mahal au lever du soleil rayonner dans une douce lumière matinale dorée"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport à Agra",
+   "Voiture privée climatisée avec chauffeur (si option de transport sélectionnée)",
+   "Billets d'entrée sans file d'attente aux monuments (tout compris uniquement)",
+   "Déjeuner buffet (tout compris uniquement)",
+   "Guide touristique privé en direct",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Pourboires et dépenses personnelles"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
