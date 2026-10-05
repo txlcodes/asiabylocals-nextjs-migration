@@ -26604,6 +26604,52 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "amritsar-golden-temple-tour-from-delhi-by-train": {
+  "title": "Amritsar und Goldener Tempel Tour ab Delhi mit dem Zug 2T/1N",
+  "metaTitle": "Amritsar und Goldener Tempel Tour ab Delhi mit dem Zug 2T/1N",
+  "metaDescription": "Entdecken Sie den berühmten Goldenen Tempel, die heiligste Stätte der Sikhs, auf einer 2-tägigen Zugtour ab Delhi.",
+  "shortDescription": "Entdecken Sie den berühmten Goldenen Tempel, die heiligste Stätte der Sikhs.",
+  "fullDescription": "Amritsar und Goldener Tempel Tour ab Delhi mit dem Zug 2T/1N. Entdecken Sie den berühmten Goldenen Tempel, die heiligste Stätte der Sikhs.\n\n### Inklusive\n\n- Zugticket Delhi nach Amritsar und zurück\n- Abholung und Rückfahrt zum Bahnhof\n- Klimatisiertes Privatauto für Besichtigungen\n- Deluxe-Hotel\n- Frühstück und Abendessen\n- Führer (Fahrer-Führer)\n- Wasserflasche\n- Alle Steuern inklusive\n\n### Nicht inklusive\n\n- Jegliche Flugkosten\n- Jegliches Mittagessen\n- Zusätzliche Denkmalgebühren\n- Jegliche Versicherung\n- Kameragebühr\n- Jegliche Nebenkosten",
+  "highlights": [
+   "Entdecken Sie den berühmten Goldenen Tempel, die heiligste Stätte der Sikhs"
+  ],
+  "included": [
+   "Zugticket Delhi nach Amritsar und zurück\nAbholung und Rückfahrt zum Bahnhof\nKlimatisiertes Privatauto für Besichtigungen\nDeluxe-Hotel\nFrühstück und Abendessen\nFührer (Fahrer-Führer)\nWasserflasche\nAlle Steuern inklusive"
+  ],
+  "notIncluded": [
+   "Jegliche Flugkosten\nJegliches Mittagessen\nZusätzliche Denkmalgebühren\nJegliche Versicherung\nKameragebühr\nJegliche Nebenkosten"
+  ]
+ },
+ "the-ultimate-mumbai-bucket-list-heritage": {
+  "title": "Die ultimative Mumbai-Bucketlist: Erbe und Highlights",
+  "metaTitle": "Die ultimative Mumbai-Bucketlist: Erbe und Highlights",
+  "metaDescription": "Besuchen Sie das weltberühmte Gateway of India und den majestätischen Taj Mahal Palace auf dieser geführten Tagestour.",
+  "shortDescription": "Besuchen Sie das weltberühmte Gateway of India und den majestätischen Taj Mahal Palace",
+  "fullDescription": "Die ultimative Mumbai-Bucketlist: Erbe und Highlights. Besuchen Sie das weltberühmte Gateway of India und den majestätischen Taj Mahal Palace.\n\nBegeben Sie sich auf eine umfassende Reise durch Mumbais geschichtsträchtigste Viertel, wo jede Wendung eine neue Facette der komplexen Identität der Stadt offenbart. Diese geführte Ganztagestour zeigt die „Maximum City\" in ihrer ganzen Pracht, von kolonialen architektonischen Triumphen bis zu tief verwurzelten spirituellen Traditionen.\n\nIhr Abenteuer beginnt am ikonischen Gateway of India und dem legendären Taj Mahal Palace, bevor es in die künstlerische Seele von Kala Ghoda und die neugotische Pracht des Oval Maidan eintaucht. Während Sie die Stadt in einem Privatfahrzeug durchqueren, erleben Sie den täglichen Rhythmus des Mumbai-Lebens am Crawford Market und der weltberühmten Freiluftwäscherei Dhobi Ghat.\n\nWas macht diese Tour besonders?\n**Architektonische Wunder:** Erkunden Sie den UNESCO-gelisteten Bahnhof Chhatrapati Shivaji Maharaj und die griechisch-revivalistische Asiatic Society.\n**Spirituelle und lokale Schätze:** Besuchen Sie den ruhigen Banganga-Tank, das historische Mani Bhavan (Gandhis Wohnsitz in Mumbai) und die üppigen Hanging Gardens.\n**Landschaftliche Schönheit:** Genießen Sie einen erfrischenden Spaziergang entlang des sichelförmigen Marine Drive mit Blick auf das Arabische Meer.\n**Mühelose Logistik:** Genießen Sie den Komfort mehrerer Abgabeorte, darunter Colaba, Bandra Kurla Complex und Powai.\n\n### Inklusive\n\n- Auto und Führer werden vom Unternehmen gestellt",
+  "highlights": [
+   "Besuchen Sie das weltberühmte Gateway of India und den majestätischen Taj Mahal Palace"
+  ],
+  "included": [
+   "Auto und Führer werden vom Unternehmen gestellt"
+  ],
+  "notIncluded": []
+ },
+ "delhi-2-day-private-golden-triangle-tour-to-agra": {
+  "title": "Delhi: Private 2-tägige Goldenes-Dreieck-Tour nach Agra und Jaipur",
+  "metaTitle": "Delhi: Private 2-Tage-Tour Goldenes Dreieck nach Agra",
+  "metaDescription": "Entdecken Sie Agra und Jaipur auf einer privaten 2-tägigen Goldenes-Dreieck-Tour ab Delhi mit verschiedenen Hoteloptionen.",
+  "shortDescription": "Entdecken Sie Agra und Jaipur auf einer privaten 2-tägigen Goldenes-Dreieck-Tour ab Delhi",
+  "fullDescription": "Delhi: Private 2-tägige Goldenes-Dreieck-Tour nach Agra und Jaipur. Entdecken Sie Agra und Jaipur auf einer privaten 2-tägigen Goldenes-Dreieck-Tour ab Delhi.\n\nEntdecken Sie Agra und Jaipur auf einer privaten 2-tägigen Goldenes-Dreieck-Tour ab Delhi. Sehen Sie das Taj Mahal und die ikonischen Sehenswürdigkeiten von Jaipur, mit Hoteloptionen von 3 bis 5 Sterne oder ohne Hotel.\n\n### Inklusive\n\n- Private 2-tägige Goldenes-Dreieck-Tour\n- Abholung und Rückfahrt von Hotel, Flughafen oder gewünschtem Ort in Delhi\n- Privates klimatisiertes Fahrzeug mit professionellem Fahrer\n- Lizenzierte lokale Führer in Agra und Jaipur\n- Kraftstoff, Mautgebühren, Parkgebühren und Fahrerzulagen\n- Trinkwasser in Flaschen während der gesamten Tour\n- 1 Übernachtung im Hotel in Jaipur, falls diese Option gewählt wird\n- 3-, 4- oder 5-Sterne-Hotel je nach gebuchter Option\n- Frühstück am Tag 2 je nach Hoteloption",
+  "highlights": [
+   "Entdecken Sie Agra und Jaipur auf einer privaten 2-tägigen Goldenes-Dreieck-Tour ab Delhi"
+  ],
+  "included": [
+   "Private 2-tägige Goldenes-Dreieck-Tour\nAbholung und Rückfahrt von Hotel, Flughafen oder gewünschtem Ort in Delhi\nPrivates klimatisiertes Fahrzeug mit professionellem Fahrer\nLizenzierte lokale Führer in Agra und Jaipur\nKraftstoff, Mautgebühren, Parkgebühren und Fahrerzulagen\nTrinkwasser in Flaschen während der gesamten Tour\n1 Übernachtung im Hotel in Jaipur, falls diese Option gewählt wird\n3-, 4- oder 5-Sterne-Hotel je nach gebuchter Option\nFrühstück am Tag 2 je nach Hoteloption"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für Denkmäler\nMittagessen, Abendessen und andere Getränke\nPersönliche Ausgaben\nTrinkgelder für Führer und Fahrer"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

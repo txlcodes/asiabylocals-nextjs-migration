@@ -26604,6 +26604,52 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "amritsar-golden-temple-tour-from-delhi-by-train": {
+  "title": "Amritsar et le Temple d'Or depuis Delhi en train 2J/1N",
+  "metaTitle": "Amritsar et le Temple d'Or depuis Delhi en train 2J/1N",
+  "metaDescription": "Explorez le célèbre Temple d'Or, le lieu le plus sacré pour les sikhs, lors d'un circuit de 2 jours depuis Delhi en train.",
+  "shortDescription": "Explorez le célèbre Temple d'Or, le lieu le plus sacré pour les sikhs.",
+  "fullDescription": "Amritsar et le Temple d'Or depuis Delhi en train 2J/1N. Explorez le célèbre Temple d'Or, le lieu le plus sacré pour les sikhs.\n\n### Ce qui est inclus\n\n- Billet de train Delhi-Amritsar aller-retour\n- Prise en charge et dépôt à la gare\n- Voiture privée climatisée pour les visites\n- Hôtel de luxe\n- Petit-déjeuner et dîner\n- Guide (chauffeur-guide)\n- Bouteille d'eau\n- Toutes taxes incluses\n\n### Non inclus\n\n- Tout billet d'avion\n- Tout déjeuner\n- Frais d'entrée supplémentaires aux monuments\n- Toute assurance\n- Frais de caméra\n- Toute dépense accessoire",
+  "highlights": [
+   "Explorez le célèbre Temple d'Or, le lieu le plus sacré pour les sikhs"
+  ],
+  "included": [
+   "Billet de train Delhi-Amritsar aller-retour\nPrise en charge et dépôt à la gare\nVoiture privée climatisée pour les visites\nHôtel de luxe\nPetit-déjeuner et dîner\nGuide (chauffeur-guide)\nBouteille d'eau\nToutes taxes incluses"
+  ],
+  "notIncluded": [
+   "Tout billet d'avion\nTout déjeuner\nFrais d'entrée supplémentaires aux monuments\nToute assurance\nFrais de caméra\nToute dépense accessoire"
+  ]
+ },
+ "the-ultimate-mumbai-bucket-list-heritage": {
+  "title": "La liste ultime de Mumbai : patrimoine et incontournables",
+  "metaTitle": "La liste ultime de Mumbai : patrimoine et incontournables",
+  "metaDescription": "Visitez la célèbre Porte de l'Inde et le majestueux Taj Mahal Palace lors de ce circuit guidé d'une journée à Mumbai.",
+  "shortDescription": "Visitez la célèbre Porte de l'Inde et le majestueux Taj Mahal Palace",
+  "fullDescription": "La liste ultime de Mumbai : patrimoine et incontournables. Visitez la célèbre Porte de l'Inde et le majestueux Taj Mahal Palace.\n\nPartez pour un voyage approfondi à travers les quartiers les plus chargés d'histoire de Mumbai, où chaque détour révèle une nouvelle facette de l'identité complexe de la ville. Ce circuit guidé d'une journée complète est conçu pour révéler la \"ville tentaculaire\" dans toute sa splendeur, de ses triomphes architecturaux coloniaux à ses traditions spirituelles profondément enracinées.\n\nVotre aventure commence à l'emblématique Porte de l'Inde et au légendaire Taj Mahal Palace, avant de plonger dans l'âme artistique de Kala Ghoda et la grandeur néo-gothique de l'Oval Maidan. En traversant la ville en véhicule privé, vous observerez le rythme quotidien de la vie à Mumbai au marché de Crawford et à la célèbre blanchisserie en plein air, le Dhobi Ghat.\n\nQu'est-ce qui rend ce circuit spécial ?\n**Merveilles architecturales :** explorez la gare Chhatrapati Shivaji Maharaj, classée à l'UNESCO, et l'Asiatic Society de style néo-grec.\n**Trésors spirituels et locaux :** visitez le paisible réservoir de Banganga, la Mani Bhavan historique (résidence de Gandhi à Mumbai) et les luxuriants jardins suspendus.\n**Beauté pittoresque :** profitez d'une promenade revigorante le long du Marine Drive en forme de croissant, avec vue sur la mer d'Arabie.\n**Logistique sans effort :** profitez de la commodité de plusieurs points de dépose, notamment Colaba, Bandra Kurla Complex et Powai.\n\n### Ce qui est inclus\n\n- La voiture et le guide sont fournis par la société",
+  "highlights": [
+   "Visitez la célèbre Porte de l'Inde et le majestueux Taj Mahal Palace"
+  ],
+  "included": [
+   "La voiture et le guide sont fournis par la société"
+  ],
+  "notIncluded": []
+ },
+ "delhi-2-day-private-golden-triangle-tour-to-agra": {
+  "title": "Delhi : circuit privé de 2 jours du Triangle d'Or vers Agra et Jaipur",
+  "metaTitle": "Delhi : circuit privé de 2 jours du Triangle d'Or à Agra",
+  "metaDescription": "Découvrez Agra et Jaipur lors d'un circuit privé de 2 jours du Triangle d'Or au départ de Delhi, avec options d'hôtel.",
+  "shortDescription": "Découvrez Agra et Jaipur lors d'un circuit privé de 2 jours du Triangle d'Or depuis Delhi",
+  "fullDescription": "Delhi : circuit privé de 2 jours du Triangle d'Or vers Agra et Jaipur. Découvrez Agra et Jaipur lors d'un circuit privé de 2 jours du Triangle d'Or depuis Delhi.\n\nDécouvrez Agra et Jaipur lors d'un circuit privé de 2 jours du Triangle d'Or depuis Delhi. Admirez le Taj Mahal et les sites emblématiques de Jaipur, avec des options d'hôtel allant de 3 à 5 étoiles ou sans hébergement.\n\n### Ce qui est inclus\n\n- Circuit privé de 2 jours du Triangle d'Or\n- Prise en charge et dépose depuis l'hôtel, l'aéroport ou le lieu de votre choix à Delhi\n- Véhicule climatisé privé avec chauffeur professionnel\n- Guides locaux agréés à Agra et Jaipur\n- Carburant, péages, stationnement et indemnités du chauffeur\n- Eau en bouteille tout au long du circuit\n- 1 nuit d'hôtel à Jaipur, si cette option est sélectionnée\n- Hôtel 3, 4 ou 5 étoiles selon l'option réservée\n- Petit-déjeuner le jour 2 selon les options d'hôtel",
+  "highlights": [
+   "Découvrez Agra et Jaipur lors d'un circuit privé de 2 jours du Triangle d'Or depuis Delhi"
+  ],
+  "included": [
+   "Circuit privé de 2 jours du Triangle d'Or\nPrise en charge et dépose depuis l'hôtel, l'aéroport ou le lieu de votre choix à Delhi\nVéhicule climatisé privé avec chauffeur professionnel\nGuides locaux agréés à Agra et Jaipur\nCarburant, péages, stationnement et indemnités du chauffeur\nEau en bouteille tout au long du circuit\n1 nuit d'hôtel à Jaipur, si cette option est sélectionnée\nHôtel 3, 4 ou 5 étoiles selon l'option réservée\nPetit-déjeuner le jour 2 selon les options d'hôtel"
+  ],
+  "notIncluded": [
+   "Billets d'entrée aux monuments\nDéjeuner, dîner et autres boissons\nDépenses personnelles\nPourboires pour le guide et le chauffeur"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
