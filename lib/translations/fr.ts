@@ -3219,6 +3219,80 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "agra-private-5-hour-sightseeing-tour-with-hotel": {
+  "title": "Agra : visite privée de 5 heures avec prise en charge à l'hôtel",
+  "metaTitle": "Agra : visite privée de 5 heures, prise en charge",
+  "metaDescription": "Visitez l'emblématique Taj Mahal, chef-d'œuvre de l'architecture moghole.",
+  "shortDescription": "Visitez l'emblématique Taj Mahal, chef-d'œuvre de l'architecture moghole.",
+  "fullDescription": "Explorez les points forts d'Agra lors d'une visite privée de 5 heures avec prise en charge à l'hôtel. Découvrez des monuments moghols emblématiques, des monuments historiques, et des attractions culturelles tout en découvrant la riche histoire et le patrimoine architectural de la ville dans un transport confortable et climatisé.\n\n**Durée : 5 heures**\n**Transport : voiture privée climatisée**\nCommencez votre visite par une prise en charge confortable à votre hôtel ou lieu choisi à Agra.\n\n**1. Taj Mahal (2 heures)**\nVisitez le symbole d'amour mondialement célèbre et admirez son impressionnante architecture moghole et ses beaux jardins. (Disponible avec option lever ou coucher de soleil.)\n\n**2. Fort d'Agra (1 heure 30)**\nExplorez le magnifique fort en grès rouge, un site du patrimoine mondial de l'UNESCO, et découvrez l'Empire moghol.\n\n**3. Itmad-ud-Daulah (Baby Taj), optionnel (1 heure)**\nDécouvrez cet élégant mausolée en marbre, souvent considéré comme l'inspiration du Taj Mahal.\n\n**4. Mehtab Bagh, optionnel (45 minutes)**\nProfitez de vues panoramiques sur le Taj Mahal à travers la rivière Yamuna et découvrez le cadre paisible du jardin.\n\n**Retour à l'hôtel**\nTerminez votre visite par un trajet détendu de retour à votre hôtel.",
+  "highlights": [
+   "Visitez l'emblématique Taj Mahal, chef-d'œuvre de l'architecture moghole"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Voiture privée climatisée",
+   "Guide touristique parlant anglais",
+   "Billet d'entrée (si option sélectionnée)",
+   "Déjeuner (si option sélectionnée)",
+   "Bouteille d'eau",
+   "Toutes les taxes et le stationnement"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "india-luxury-golden-triangle-tour-with-private": {
+  "title": "Inde : visite de luxe du Triangle Doré avec guide privé",
+  "metaTitle": "Inde : Triangle Doré de luxe, guide privé",
+  "metaDescription": "Émerveillez-vous devant le Taj, un site du patrimoine mondial de l'UNESCO et l'une des Sept Merveilles.",
+  "shortDescription": "Émerveillez-vous devant le Taj, un site du patrimoine mondial de l'UNESCO et l'une des Sept Merveilles.",
+  "fullDescription": "Découvrez le Triangle Doré de l'Inde lors de cette visite de luxe de 6 jours avec guide privé. Émerveillez-vous devant le Taj, un site du patrimoine mondial de l'UNESCO et l'une des Sept Merveilles, profitez de 5 nuits d'hébergement en hôtels 3 ou 5 étoiles, et explorez Delhi, Agra, et Jaipur avec des guides locaux privés à chaque site. Les billets d'entrée aux monuments coûtent environ 70 à 80 USD par personne pour les trois villes, et le déjeuner et le dîner coûtent environ 15 à 20 USD par personne chaque jour, non inclus dans le forfait.",
+  "highlights": [
+   "Émerveillez-vous devant le Taj, un site du patrimoine mondial de l'UNESCO et l'une des Sept Merveilles"
+  ],
+  "included": [
+   "Guides privés à chaque site",
+   "Visite privée de 6 jours",
+   "Véhicule privé climatisé avec chauffeur professionnel",
+   "Prise en charge et retour aux hôtels (depuis l'aéroport, les hôtels, ou la gare)",
+   "Toutes les visites avec des guides touristiques locaux",
+   "Trajet en véhicule électrique vers et depuis le parking du Taj Mahal",
+   "5 nuits d'hébergement en hôtels 3 ou 5 étoiles (si option sélectionnée)",
+   "Petit-déjeuner dans les hôtels (si option sélectionnée)",
+   "Bouteilles d'eau minérale",
+   "Toutes les taxes et frais de service",
+   "Toutes les taxes hôtelières applicables",
+   "Supplément carburant"
+  ],
+  "notIncluded": [
+   "Billets d'entrée aux monuments (70 à 80 USD par personne pour les trois villes)",
+   "Tout déjeuner, dîner, et boisson supplémentaire (coût du déjeuner et du dîner environ 15 à 20 USD par personne chaque jour)",
+   "Toute dépense personnelle",
+   "Pourboires et gratifications"
+  ]
+ },
+ "a-day-tour-of-orchha-jhansi-fort-from-khajuraho": {
+  "title": "Visite d'une journée d'Orchha et du fort de Jhansi depuis Khajuraho avec guide",
+  "metaTitle": "Khajuraho : Orchha et fort de Jhansi, guide",
+  "metaDescription": "Profitez d'une visite des cénotaphes au bord de la rivière d'Orchha.",
+  "shortDescription": "Profitez d'une visite des cénotaphes au bord de la rivière d'Orchha.",
+  "fullDescription": "Visitez une série de temples au fort d'Orchha et au fort de Jhansi lors de cette excursion d'une journée depuis Khajuraho. Découvrez une variété d'architecture, de sculptures, et de peintures murales impressionnantes sur ces sites.\n\nSoyez pris en charge à votre lieu choisi à Khajuraho et commencez votre voyage vers le complexe du fort d'Orchha.\n\nVotre premier arrêt sera au Jehangir Mahal, construit par Raja Bir Singh Ju Deo au XVIIe siècle. Admirez ses lignes fortes contrebalancées par de délicats chhatris et des treillis.\n\nEnsuite, visitez le Raja Mahal, construit par Madhukar Shah, le prédécesseur profondément religieux de Bir Singh Ju Deo. Soyez émerveillé par les extérieurs simples, couronnés de chhatris, qui cèdent la place à des intérieurs avec des peintures murales audacieusement colorées présentant une variété de thèmes religieux.\n\nEnsuite, allez au Rai Praveen Mahal, construit pour la poétesse et musicienne Rai Praveen. Entrez dans cette structure, entourée des beaux jardins paysagers d'Anand Mahal. Voyez ses niches habilement sculptées, qui laissent entrer la lumière dans le bâtiment.\n\nVotre prochaine visite sera au temple Ram Raja. Découvrez la légende charmante attachée à ce palais devenu temple en découvrant ses flèches élancées et son architecture palatiale.\n\nSuivez le chemin dallé jusqu'à votre prochain arrêt au temple Laxmi Narayana. Contemplez la synthèse curieuse de cette structure entre les caractéristiques d'un fort et d'un temple. Visitez les intérieurs, qui contiennent certaines des peintures murales les plus impressionnantes du complexe.\n\nEnfin, dirigez-vous vers Phool Bagh, aménagé comme un jardin formel. Émerveillez-vous devant la rangée centrale de fontaines, qui culmine en un pavillon de palais à huit piliers. Descendez dans la structure souterraine en dessous, qui était la retraite estivale fraîche des rois d'Orchha.\nEnsuite, roulez vers Jhansi.\n\nÀ 30 minutes de route d'Orchha, Jhansi est située dans l'état nord-indien de l'Uttar Pradesh. C'était le site de la première guerre d'indépendance de l'Inde en 1857, menée par sa courageuse reine, Rani Laxmi Bai. Visitez le fort de Jhansi et le palais de Rani Laxmi Bai, maintenant transformé en musée. Le musée gouvernemental détient également divers artefacts historiques, et l'ensemble du premier étage est dédié à Rani Laxmi Bai. À la fin de la visite, vous serez reconduit à votre hôtel à Khajuraho.\n\nSoyez déposé à votre lieu choisi à Khajuraho à la fin de cette excursion d'une journée.",
+  "highlights": [
+   "Profitez d'une visite des cénotaphes au bord de la rivière d'Orchha"
+  ],
+  "included": [
+   "Véhicule climatisé",
+   "Transport privé",
+   "Péage, stationnement, carburant, et indemnité du chauffeur inclus",
+   "Service de guide local inclus à Orchha et Jhansi",
+   "Service de prise en charge et retour inclus"
+  ],
+  "notIncluded": [
+   "Aucun type de nourriture/boisson n'est inclus",
+   "Aucun type de dépense personnelle n'est inclus",
+   "Aucun type de frais d'entrée n'est inclus"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
