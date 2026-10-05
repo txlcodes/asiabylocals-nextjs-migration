@@ -24337,6 +24337,70 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "from-delhi-royal-india-in-5-days-india-golden": {
+  "title": "Desde Delhi: India real en 5 días, tour del Triángulo de Oro indio",
+  "metaTitle": "Delhi: Triángulo de Oro, India real, 5 días",
+  "metaDescription": "Explora la belleza de las ciudades históricas de Delhi, Agra, y Jaipur",
+  "shortDescription": "Explora la belleza de las ciudades históricas de Delhi, Agra, y Jaipur",
+  "fullDescription": "Desde Delhi: India real en 5 días, tour del Triángulo de Oro indio. Explora la belleza de las ciudades históricas de Delhi, Agra, y Jaipur.\n\n«Embárcate en una transformadora odisea de cinco días por el Triángulo de Oro, donde la majestuosidad histórica de Delhi, el amor eterno de Agra, y la elegancia real de Jaipur se unen. Presencia el vívido tapiz del patrimonio de la India, saborea sus vibrantes colores, y reúne recuerdos atemporales mientras viajas a través del tiempo y la tradición en esta aventura inolvidable».\n\n**Día 1**\nDisfruta de la recogida en el lugar que desees en Delhi, Noida, o Gurgaon. Realiza un tour de medio día por el centro de Delhi, con tiempo tanto en el Nuevo como en el Viejo Delhi. Admira monumentos como la tumba de Humayun, el Qutub Minar, el Fuerte Rojo, el Templo del Loto, la mezquita del viernes (Jama Masjid), Chandni Chowk, el mercado de especias, Raj Ghat, e India Gate. Pasa frente al Parlamento y al Palacio Presidencial antes de registrarte en tu hotel.\nNoche en Delhi.\n\n**Día 2**\nDespués del desayuno, dirígete a Agra y regístrate en tu hotel antes de realizar un tour guiado por Mehtab Bagh, un complejo charbagh con vistas impresionantes del complejo del Taj Mahal y el Fuerte de Agra, y visita también el Pequeño Taj, un hermoso mausoleo que no debes perderte. Después de ver los lugares de Agra, regresa al hotel y relájate.\nNoche en Agra.\n\n**Día 3**\nLevántate temprano para ver el amanecer sobre el Taj Mahal y disfruta de un tour guiado por este majestuoso palacio antes de que lleguen las multitudes. Más tarde, visita el histórico Fuerte de Agra antes de dirigirte a Jaipur, donde pasarás la noche. En el camino, haz una parada en Fatehpur Sikri, que fue la capital de los mogoles en el siglo 16 en tiempos de Akbar. Al llegar a Jaipur, regístrate en el hotel previamente reservado y relájate.\nNoche en Jaipur.\n\n**Día 4**\nDespués del desayuno en tu hotel, disfruta de un tour guiado por Jaipur. Visita el majestuoso fuerte Amber y maravíllate con la belleza del Jal Mahal. Continúa hacia el Palacio de los Vientos, y haz una parada en el observatorio Jantar Mantar y el City Palace del Maharajá. Estas son las principales atracciones de Jaipur. Después de ver los lugares de Jaipur, regresa al hotel y relájate.\nNoche en Jaipur.\n\n**Día 5**\nDespués del desayuno, haz el checkout del hotel y visita el Templo de los Monos, también conocido como Galta Ji. Después de visitar el templo, emprende el regreso a Delhi o, si lo deseas, te dejarán en el aeropuerto de Jaipur.\nAquí termina el tour.\n\n**Qué incluye**\nCoche privado con aire acondicionado para recogida, regreso, y traslados\nAlojamiento de 4 noches con desayuno en hoteles de 3 o 5 estrellas (si se elige esta opción)\nRecogida y regreso al hotel o aeropuerto\nGuía turístico profesional en Delhi, Agra, y Jaipur\nBotellas de agua mineral\nTarifa de entrada a los monumentos (si se elige esta opción)\n\n**No incluye**\nPropinas para el guía y el chófer\nAlmuerzo y cena\nCualquier cosa no mencionada en las inclusiones anteriores",
+  "highlights": [
+   "Explora la belleza de las ciudades históricas de Delhi, Agra, y Jaipur"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado para recogida, regreso, y traslados",
+   "Alojamiento de 4 noches con desayuno en hoteles de 3 o 5 estrellas (si se elige esta opción)",
+   "Recogida y regreso al hotel o aeropuerto",
+   "Guía turístico profesional en Delhi, Agra, y Jaipur",
+   "Botellas de agua mineral",
+   "Tarifa de entrada a los monumentos (si se elige esta opción)"
+  ],
+  "notIncluded": [
+   "Propinas para el guía y el chófer",
+   "Almuerzo y cena",
+   "Cualquier cosa no mencionada en las inclusiones anteriores"
+  ]
+ },
+ "delhi-yoga-in-lodhi-garden": {
+  "title": "Delhi: yoga en el jardín Lodhi",
+  "metaTitle": "Delhi: yoga, jardín Lodhi",
+  "metaDescription": "Descubre la serena belleza de los jardines Lodhi",
+  "shortDescription": "Descubre la serena belleza de los jardines Lodhi",
+  "fullDescription": "Delhi: yoga en el jardín Lodhi. Descubre la serena belleza de los jardines Lodhi.\n\nMe especializo en turistas internacionales con quienes realizo una sesión de yoga emblemática de 1 hora a 1 hora 30 minutos.\nCada sesión (individual o grupal) se adapta a la flexibilidad del cuerpo, y todas las edades, desde niños pequeños hasta personas mayores, son bienvenidas a participar. Practico la forma de yoga más antigua conocida como Hatha Yoga, y en una sola sesión logro que la persona explore la capacidad de su propio cuerpo, como recientemente en una sesión con una mujer estadounidense que nunca había practicado yoga en su vida, pero que al final de la sesión hizo un pino con la técnica y postura que le enseñé.\n\nLa sesión es una mezcla completa de todas las formas de ejercicios de respiración (pranayama), ejercicios físicos (posturas/asanas), y meditación, para asegurar que la persona quede completamente rejuvenecida y llena de energía al final de la sesión.\n\n**Qué incluye**\nRecogida y regreso al hotel/cualquier lugar en Delhi NCR en coche con aire acondicionado\nBotella de agua mineral\nEsterillas de yoga\n\n**No incluye**\nPropinas (recomendadas)",
+  "highlights": [
+   "Descubre la serena belleza de los jardines Lodhi"
+  ],
+  "included": [
+   "Recogida y regreso al hotel/cualquier lugar en Delhi NCR en coche con aire acondicionado",
+   "Botella de agua mineral",
+   "Esterillas de yoga"
+  ],
+  "notIncluded": [
+   "Propinas (recomendadas)"
+  ]
+ },
+ "old-new-delhi-city-tour-half-full-day-options": {
+  "title": "Tour por el Viejo y Nuevo Delhi: opciones de medio día y día completo disponibles",
+  "metaTitle": "Delhi: Viejo y Nuevo Delhi, medio o día completo",
+  "metaDescription": "Explora la ajetreada y bulliciosa vida del Viejo Delhi",
+  "shortDescription": "Explora la ajetreada y bulliciosa vida del Viejo Delhi",
+  "fullDescription": "Tour por el Viejo y Nuevo Delhi: opciones de medio día y día completo disponibles. Explora la ajetreada y bulliciosa vida del Viejo Delhi.\n\nNuestro tour comenzará con tu recogida en el lugar que desees, y nos dirigiremos a visitar India Gate, construido en memoria de los soldados de la Guerra Mundial y la Guerra anglo-afgana como monumento de guerra. Después pasaremos frente al Rashtrapati Bhavan, una de las segundas residencias presidenciales más grandes del mundo.\n\nVisita uno de los Patrimonios de la Humanidad de la UNESCO, la tumba de Humayun, construida en memoria del emperador mogol Humayun. Es una de las primeras tumbas-jardín construidas por los mogoles en el subcontinente indio.\n\nVisita la gran mezquita Jama Masjid, una de las mezquitas más grandes de la India, construida en 1600. Admira su espectacular arquitectura.\n\nEs hora de explorar la auténtica India a través de los estrechos y bulliciosos callejones de Delhi 6 para llegar a Chandni Chowk, uno de los mercados de especias más grandes de la India desde la época mogol.\n\nContinúa hacia el Templo del Loto, una casa de culto bahá'í conocida por su exquisita estructura arquitectónica en forma de flor de loto.\n\nExplora la histórica e icónica torre más alta, el Qutub Minar, además de otras estructuras importantes.\nTras la visita al Qutub Minar, regreso al lugar que elijas.\n\n**Qué incluye**\nCoche con aire acondicionado\nGuía turístico\nTarifa de entrada a los monumentos (si eliges esta opción)\nAgua mineral\nWifi\n\n**No incluye**\nCualquier gasto personal\nBebidas alcohólicas\nCualquier comida\nGratificaciones y propinas para el guía y el chófer",
+  "highlights": [
+   "Explora la ajetreada y bulliciosa vida del Viejo Delhi"
+  ],
+  "included": [
+   "Coche con aire acondicionado",
+   "Guía turístico",
+   "Tarifa de entrada a los monumentos (si eliges esta opción)",
+   "Agua mineral",
+   "Wifi"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal",
+   "Bebidas alcohólicas",
+   "Cualquier comida",
+   "Gratificaciones y propinas para el guía y el chófer"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
