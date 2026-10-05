@@ -2193,6 +2193,83 @@ export const ES_TOURS: Record<string, TourT> = {
    "Almuerzo"
   ]
  },
+ "2-day-holi-celebrations-in-jaipur-with-jaipur": {
+  "title": "Celebraciones de Holi de 2 días en Jaipur con avistamiento de Jaipur",
+  "metaTitle": "Jaipur: celebraciones de Holi, 2 días",
+  "metaDescription": "Ofrecemos soporte al cliente 24/7.",
+  "shortDescription": "Ofrecemos soporte al cliente 24/7.",
+  "fullDescription": "Experimente las vibrantes celebraciones de Holi en Jaipur en este viaje de 2 días, incluyendo 1 noche de alojamiento en hotel de 4 estrellas, guías locales de habla inglesa, y un avistamiento completo de la Ciudad Rosa. Ofrecemos soporte al cliente 24/7 durante todo su viaje.",
+  "highlights": [
+   "Ofrecemos soporte al cliente 24/7"
+  ],
+  "included": [
+   "Alojamiento: 1 noche en hoteles de 4 estrellas (solo con la opción de tour)",
+   "Comidas: desayuno diario en el hotel (solo con la opción de tour)",
+   "Transporte: vehículo con aire acondicionado para todos los traslados y avistamientos",
+   "Tours guiados: guías locales de habla inglesa para los principales avistamientos",
+   "Tarifas de entrada: tarifas de entrada a monumentos y atracciones (solo con la opción de tour)",
+   "Recogida y traslado desde su hotel o aeropuerto",
+   "Todos los impuestos y cargos de servicio aplicables",
+   "Asistencia durante todo el tour 24/7",
+   "Se proporcionará botella de agua durante el viaje",
+   "WiFi a bordo"
+  ],
+  "notIncluded": [
+   "Gastos personales: cualquier gasto personal como propinas, recuerdos, comidas o bebidas adicionales, y compras",
+   "Actividades opcionales",
+   "Propinas para el guía, conductor, o personal del hotel"
+  ]
+ },
+ "agra-create-your-own-itinerary-private-tour": {
+  "title": "Agra: cree su propio itinerario, tour privado y traslado",
+  "metaTitle": "Agra: itinerario personalizado, tour privado",
+  "metaDescription": "Tour privado completamente personalizable de Agra.",
+  "shortDescription": "Tour privado completamente personalizable de Agra.",
+  "fullDescription": "**Recogida:**\nDesde su hotel en Agra o Delhi (inicio temprano alrededor de las 6:00 a.m. si viene desde Delhi)\n\n**1. Taj Mahal (8:00-10:00 a.m.)**\nIcónico mausoleo de mármol blanco. Es mejor visitarlo temprano para evitar multitudes y calor. El guía explicará la historia, arquitectura mogol, y puntos para fotos. Opcional: visita al amanecer (entrada a las 6:00 a.m.), vistas espectaculares.\n\n**2. Fuerte de Agra (10:30 a.m.-12:00 p.m.)**\nSitio del Patrimonio Mundial de la UNESCO. Fortaleza mogol y residencia real del siglo XVI. Vistas del Taj Mahal desde el interior.\n\n**3. Pausa para el almuerzo (12:00-1:00 p.m.)**\nElija entre restaurantes locales populares: Pinch of Spice, Esphahan (en The Oberoi), Joney's Place (opción económica).\n\n**4. Mehtab Bagh (1:30-2:30 p.m.)**\nJardín mogol junto al río. Vista posterior perfecta del Taj Mahal al otro lado del Yamuna. Excelente lugar para fotografía, ambiente pacífico.\n\n**5. Experiencias locales opcionales (2:30-4:00 p.m.)**\nElija lo que le guste: taller de incrustación en mármol (vea cómo se hace el arte de estilo Taj), sala de exhibición de textiles o alfombras, paseo por el mercado local (Sadar Bazaar).\n\n**6. Traslado de regreso (4:00-7:00 p.m.)**\nRegreso a Delhi, o traslado al hotel/estación de tren de Agra.",
+  "highlights": [
+   "Tour privado completamente personalizable de Agra"
+  ],
+  "included": [
+   "Recogida y traslado",
+   "Auto privado con aire acondicionado para toda la actividad del tour con conductor",
+   "Guía turístico profesional",
+   "Botella de agua mineral",
+   "Todos los impuestos y estacionamiento"
+  ],
+  "notIncluded": [
+   "Boletos de entrada a los monumentos",
+   "Almuerzo",
+   "Gastos personales"
+  ]
+ },
+ "3-day-adventure-discover-agra-ranthambore-sariska": {
+  "title": "Aventura de 3 días: descubra Agra, Ranthambore, y Sariska",
+  "metaTitle": "Agra-Ranthambore-Sariska: aventura, 3 días",
+  "metaDescription": "Ofrecemos soporte al cliente 24/7.",
+  "shortDescription": "Ofrecemos soporte al cliente 24/7.",
+  "fullDescription": "Descubra Agra, Ranthambore, y Sariska en esta aventura de 3 días, incluyendo 2 noches de alojamiento en hoteles de 4 estrellas, guías locales de habla inglesa, y safaris de tigres en Jeep o Canter compartido. Ofrecemos soporte al cliente 24/7 durante todo su viaje.",
+  "highlights": [
+   "Ofrecemos soporte al cliente 24/7"
+  ],
+  "included": [
+   "Alojamiento: 2 noches en hoteles de 4 estrellas (solo con la opción de tour)",
+   "Comidas: desayuno diario en el hotel (solo con la opción de tour)",
+   "Transporte: vehículo con aire acondicionado para todos los traslados y avistamientos",
+   "Tours guiados: guías locales de habla inglesa para los principales avistamientos",
+   "Tarifas de entrada: tarifas de entrada a monumentos y boletos de safari (solo con la opción de tour)",
+   "Safaris de tigres en Jeep/Canter compartido (vehículo según disponibilidad)",
+   "Todos los impuestos y cargos de servicio aplicables",
+   "Asistencia durante todo el tour 24/7",
+   "Se proporcionará botella de agua durante el viaje",
+   "WiFi a bordo"
+  ],
+  "notIncluded": [
+   "Gastos personales: cualquier gasto personal como propinas, recuerdos, comidas o bebidas adicionales, y compras",
+   "Actividades opcionales",
+   "Propinas para el guía, conductor, o personal del hotel",
+   "Comidas: almuerzo y cena"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
