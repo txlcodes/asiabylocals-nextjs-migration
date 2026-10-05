@@ -25221,6 +25221,68 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "4-day-golden-triangle-with-mathura-vrindavan-from": {
+  "title": "Triangle d'or de 4 jours avec Mathura et Vrindavan depuis Delhi",
+  "metaTitle": "Delhi : Triangle d'or 4 jours, Mathura-Vrindavan",
+  "metaDescription": "Explorez les sites historiques de Delhi, notamment le Vieux et le New Delhi",
+  "shortDescription": "Explorez les sites historiques de Delhi, notamment le Vieux et le New Delhi",
+  "fullDescription": "Triangle d'or de 4 jours avec Mathura et Vrindavan depuis Delhi. Explorez les sites historiques de Delhi, notamment le Vieux et le New Delhi.\n\n**Jour 1 – visites de Delhi**\n\nPrise en charge à l'hôtel/l'aéroport à Delhi\n\nVisitez India Gate, le Rashtrapati Bhavan (passage en voiture), le Qutub Minar, et la tombe de Humayun\n\nExplorez le Vieux Delhi : Jama Masjid, balade en rickshaw à Chandni Chowk\n\nNuit à Delhi\n\n**Jour 2 – Delhi - Mathura et Vrindavan - Agra**\n\nTrajet de Delhi à Mathura (environ 3 à 4 heures)\n\nVisitez le temple de Krishna Janmabhoomi et les ghats locaux\n\nContinuez vers Vrindavan : explorez le temple de Banke Bihari, le temple ISKCON, et Prem Mandir\n\nTrajet vers Agra (environ 1 heure 30)\n\nNuit à Agra\n\n**Jour 3 – Agra - Jaipur via Fatehpur Sikri**\n\nVisite matinale du Taj Mahal\n\nExplorez le fort d'Agra\n\nTrajet vers Jaipur (environ 5 heures), avec un arrêt à Fatehpur Sikri, l'ancienne capitale moghole abandonnée\n\nSoirée libre pour les marchés locaux ou un spectacle culturel optionnel\n\nNuit à Jaipur\n\n**Jour 4 – visites de Jaipur - retour à Delhi**\n\nVisitez le fort Amber (balade à dos d'éléphant ou en jeep optionnelle)\n\nExplorez le Hawa Mahal, le City Palace, et le Jantar Mantar\n\nTrajet de retour vers Delhi (environ 5 à 6 heures) pour le dépôt à l'aéroport/l'hôtel\n\nFin du circuit\n\n**Ce qui est inclus**\nGuide touristique professionnel\nVoiture privée climatisée pour toute l'activité\nEau en bouteille minérale\nHébergement en hôtel 3 étoiles\nPetit-déjeuner à l'hôtel\nTous les péages et frais de stationnement\nBillets d'entrée\n\n**Non inclus**\nToute dépense personnelle",
+  "highlights": [
+   "Explorez les sites historiques de Delhi, notamment le Vieux et le New Delhi"
+  ],
+  "included": [
+   "Guide touristique professionnel",
+   "Voiture privée climatisée pour toute l'activité",
+   "Eau en bouteille minérale",
+   "Hébergement en hôtel 3 étoiles",
+   "Petit-déjeuner à l'hôtel",
+   "Tous les péages et frais de stationnement",
+   "Billets d'entrée"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "delhi-sunder-nursery-walking-tour-with-side-quests": {
+  "title": "Delhi : visite à pied de Sunder Nursery avec quêtes annexes",
+  "metaTitle": "Delhi : Sunder Nursery, visite à pied",
+  "metaDescription": "Plongez dans la beauté sereine de Sunder Nursery, un parc soutenu par l'UNESCO",
+  "shortDescription": "Plongez dans la beauté sereine de Sunder Nursery, un parc soutenu par l'UNESCO",
+  "fullDescription": "Delhi : visite à pied de Sunder Nursery avec quêtes annexes. Plongez dans la beauté sereine de Sunder Nursery, un parc soutenu par l'UNESCO.\n\nDécouvrez l'une des plus belles échappées vertes de Delhi : Sunder Nursery, un parc patrimonial soutenu par l'UNESCO, où histoire moghole, jardins botaniques, chants d'oiseaux, et lacs se mêlent pour former une oasis paisible loin de l'agitation de la ville.\n\nFlânez le long des avenues feuillues, devant des tombes mogholes restaurées, de délicats puits à degrés, des étangs remplis de lotus, des zones à papillons, et des arbres séculaires. En chemin, écoutez des histoires d'empereurs, d'amour, d'architecture, d'espèces végétales, de l'évolution de Delhi, et pourquoi cet espace est décrit comme le « Central Park de Delhi ».\n\nQu'il s'agisse d'une paisible promenade matinale, de photographie à l'heure dorée, d'observation des oiseaux, de lecture sous un arbre, ou simplement de s'asseoir au bord de l'eau, cette expérience vous permet de respirer, d'observer, et de ralentir.\n\n**Ce qui est inclus**\nBalade guidée à travers Sunder Nursery\nBouteille d'eau potable\nConseils locaux sur la cuisine, la culture, et l'exploration de Delhi\nMini souvenir à la fin de la visite\n\n**Non inclus**\nPique-nique petit-déjeuner dans le jardin\nBalade au Nizamuddin Dargah après la visite\nExtension artistique et tombes du jardin Lodhi",
+  "highlights": [
+   "Plongez dans la beauté sereine de Sunder Nursery, un parc soutenu par l'UNESCO"
+  ],
+  "included": [
+   "Balade guidée à travers Sunder Nursery",
+   "Bouteille d'eau potable",
+   "Conseils locaux sur la cuisine, la culture, et l'exploration de Delhi",
+   "Mini souvenir à la fin de la visite"
+  ],
+  "notIncluded": [
+   "Pique-nique petit-déjeuner dans le jardin",
+   "Balade au Nizamuddin Dargah après la visite",
+   "Extension artistique et tombes du jardin Lodhi"
+  ]
+ },
+ "delhi-new-and-old-delhi-tour-with-female-guide": {
+  "title": "Delhi : visite du New et du Vieux Delhi avec guide féminine",
+  "metaTitle": "Delhi : New et Vieux Delhi, guide féminine",
+  "metaDescription": "Découvrez l'art et la culture de l'Inde avec une guide féminine",
+  "shortDescription": "Découvrez l'art et la culture de l'Inde avec une guide féminine",
+  "fullDescription": "Delhi : visite du New et du Vieux Delhi avec guide féminine. Découvrez l'art et la culture de l'Inde avec une guide féminine.\n\nRetrouvez votre guide, et partez pour une visite de Delhi. Découvrez l'art et la culture de l'Inde en visitant la Jama Masjid, Chandni Chowk, le marché aux épices, dans le Vieux Delhi, puis explorez la tombe de Humayun, le temple du Lotus, le Qutub Minar, le jardin Lodhi, et le Gurudwara Bangla Sahib (temple sikh).\n\nEn chemin, arrêtez-vous pour admirer India Gate et la résidence présidentielle depuis l'extérieur.\n\nEn chemin, arrêtez-vous pour admirer India Gate et la résidence présidentielle depuis l'extérieur.\n\nEn chemin, arrêtez-vous pour admirer India Gate et la résidence présidentielle depuis l'extérieur.\n\nSi vous avez faim, arrêtez-vous pour goûter de la street food.\n\n**Ce qui est inclus**\nGuide expert\nVisite de sites artistiques et culturels\nVisite du marché aux épices de Chandni Chowk et de la Jama Masjid\nVisite de la tombe de Humayun, du temple du Lotus, du Gurudwara Bangla Sahib, du Qutub Minar, du jardin Lodhi\nVisite d'India Gate\nVue de la résidence présidentielle depuis l'extérieur",
+  "highlights": [
+   "Découvrez l'art et la culture de l'Inde avec une guide féminine"
+  ],
+  "included": [
+   "Guide expert",
+   "Visite de sites artistiques et culturels",
+   "Visite du marché aux épices de Chandni Chowk et de la Jama Masjid",
+   "Visite de la tombe de Humayun, du temple du Lotus, du Gurudwara Bangla Sahib, du Qutub Minar, du jardin Lodhi",
+   "Visite d'India Gate",
+   "Vue de la résidence présidentielle depuis l'extérieur"
+  ],
+  "notIncluded": []
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
