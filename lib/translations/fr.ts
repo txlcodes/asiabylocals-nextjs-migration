@@ -3361,6 +3361,68 @@ export const FR_TOURS: Record<string, TourT> = {
    "Frais de caméra : tout frais supplémentaire de caméra ou de vidéo aux temples ou attractions"
   ]
  },
+ "from-delhi-agra-day-tour-by-vande-bharat-express": {
+  "title": "Depuis Delhi : visite d'une journée à Agra en Vande Bharat Express",
+  "metaTitle": "Delhi-Agra : visite d'une journée, Vande Bharat Express",
+  "metaDescription": "Explorez Agra en une journée en train superrapide.",
+  "shortDescription": "Explorez Agra en une journée en train superrapide.",
+  "fullDescription": "**Départ de l'hôtel**\n4h30 – vous serez pris en charge à votre hôtel à Delhi par notre chauffeur. Vous serez ensuite conduit vers la gare de Hazarat Nizamuddin.\n\n**Départ de la gare (22470)**\n6h00 – votre Vande Bharat Express Nizamuddin-Khajuraho partira à 6h00 vers Agra. Cela prendra moins de 2 heures.\n\n**Arrivée à Agra**\n7h40 – à l'arrivée à la gare d'Agra Cantt, notre chauffeur vous rencontrera et vous accueillera. Plus tard, un guide touristique expert vous rencontrera et vous expliquera le programme de la journée.\n\n**Visite du Taj Mahal**\n8h00 – votre guide narrateur vous emmènera pour la visite du Taj Mahal. Après le contrôle de sécurité, il vous expliquera l'histoire et l'architecture du Taj Mahal. Vous profiterez ainsi de 2 heures et demie pour prendre des photos et écouter les histoires.\n\n**Visite du fort d'Agra**\n10h30 – préparez-vous maintenant pour la visite d'un autre trésor de l'UNESCO, le fort d'Agra. Soyez émerveillé par la visite des magnifiques palais à l'intérieur. Vous passerez 1,5 heure à visiter le fort et à prendre des photos instagrammables.\n\n**Déjeuner**\n12h00 – la visite du fort d'Agra est terminée, préparez-vous à savourer les délices d'Agra dans un restaurant indien.\n\n**Visite de la fabrique de marbre**\n13h30 – après le déjeuner, visitez une fabrique de marbre où vous serez émerveillé par le processus d'incrustation en marbre et découvrirez comment le Taj Mahal a été construit.\n\n**Excursion à Fatehpur Sikri**\n14h30 – préparez-vous maintenant pour une excursion de 4 heures à Fatehpur Sikri, populairement appelée la ville fantôme ou la ville désertée. Il faudra une heure de trajet, et à l'arrivée à Fatehpur Sikri, profitez de la visite guidée des magnifiques palais.\n\n**Retour vers Agra et shopping**\n17h30 – ce sera à nouveau une heure de trajet de retour vers Agra. Vous arriverez vers 18h30. Si vous êtes passionné de shopping, vous pourrez profiter d'une heure de shopping pour l'artisanat d'Agra.\n\n20h00 – nous vous transférerons à la gare d'Agra Cantt.\n\n23h10 – vous arriverez à la gare de Nizamuddin et nous vous transférerons de retour à votre hôtel à Delhi.",
+  "highlights": [
+   "Explorez Agra en une journée en train superrapide"
+  ],
+  "included": [
+   "Véhicule privé climatisé pour les visites et transferts",
+   "Tous les péages, stationnement, taxes, et frais de carburant",
+   "Billets de train Vande Bharat Express (voiture-salon climatisée) aller-retour",
+   "Guide touristique en direct parlant anglais",
+   "Assistance à l'arrivée/départ à la gare d'Agra"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Billets d'entrée aux monuments",
+   "Dépenses personnelles"
+  ]
+ },
+ "agra-fort-express-entry-ticket-tour": {
+  "title": "Visite du fort d'Agra avec billet d'entrée express",
+  "metaTitle": "Agra : fort d'Agra, billet d'entrée express",
+  "metaDescription": "Évitez la file grâce à l'entrée express au fort d'Agra.",
+  "shortDescription": "Évitez la file grâce à l'entrée express au fort d'Agra.",
+  "fullDescription": "Découvrez le magnifique fort d'Agra avec un billet d'entrée express et profitez d'une expérience de visite pratique et économe en temps à Agra. Évitez les longs temps d'attente et entrez dans ce site du patrimoine mondial de l'UNESCO pour explorer son impressionnante architecture moghole, ses grandes cours, ses palais royaux, ses mosquées, ses salles, et ses chambres historiques.\n\nLors de cette visite guidée du fort d'Agra, découvrez l'histoire fascinante de l'Empire moghol et des empereurs qui vivaient dans ces murs magnifiques. Votre guide local compétent partagera des histoires intéressantes sur l'empereur Akbar, Shah Jahan, et le développement du fort d'Agra, tout en soulignant des détails architecturaux importants et de belles opportunités photo.\n\nCette visite express du fort d'Agra est idéale pour les voyageurs qui souhaitent profiter au maximum de leur temps à Agra. Elle peut facilement être combinée avec une visite du Taj Mahal, en faisant un excellent choix pour une expérience de visite d'Agra en une journée. Que vous visitiez Agra pour la première fois ou que vous ayez peu de temps dans la ville, cette visite offre une manière facile et instructive de découvrir l'un des monuments historiques les plus célèbres de l'Inde.",
+  "highlights": [
+   "Évitez la file grâce à l'entrée express au fort d'Agra"
+  ],
+  "included": [
+   "Billet d'entrée express au fort d'Agra (si option sélectionnée)",
+   "Guide local professionnel parlant anglais",
+   "Visite guidée à l'intérieur du fort d'Agra",
+   "Informations historiques et culturelles",
+   "Assistance lors de l'entrée au monument",
+   "Arrêts photo aux meilleurs points de vue",
+   "Prise en charge depuis votre hôtel ou lieu préféré à Agra"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "keoladeo-national-park-tickets-and-guided-tour": {
+  "title": "Billets et visite guidée du parc national de Keoladeo",
+  "metaTitle": "Keoladeo : billets et visite guidée",
+  "metaDescription": "Découvrez le parc national de Keoladeo classé par l'UNESCO à votre propre rythme.",
+  "shortDescription": "Découvrez le parc national de Keoladeo classé par l'UNESCO à votre propre rythme.",
+  "fullDescription": "Admission au parc national de Keoladeo avec des options de visite personnalisables, explorez le parc national sauvage de Keoladeo à Bharatpur à votre façon lors de cette visite personnalisable de la destination mondiale d'observation des oiseaux. Choisissez entre une visite guidée ou des transferts depuis Agra vers les hauts lieux de la faune du parc où vous êtes susceptible de voir des pythons, des cerfs sambars, et des oiseaux migrateurs ; ou simplifiez votre voyage en réservant à l'avance l'admission et en explorant seul. Voyez plus de faune en explorant avec un guide.\nPrise en charge et retour optionnels depuis Agra si option sélectionnée.",
+  "highlights": [
+   "Découvrez le parc national de Keoladeo classé par l'UNESCO à votre propre rythme"
+  ],
+  "included": [
+   "Billets d'admission",
+   "Visite guidée et trajets en rickshaw de 3 heures",
+   "Transferts aller-retour depuis Agra (si option sélectionnée)"
+  ],
+  "notIncluded": [
+   "Aucun repas ni hébergement"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",

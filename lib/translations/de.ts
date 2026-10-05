@@ -3361,6 +3361,68 @@ export const DE_TOURS: Record<string, TourT> = {
    "Kameragebühren: jegliche zusätzliche Kamera- oder Videogebühren an den Tempeln oder Attraktionen"
   ]
  },
+ "from-delhi-agra-day-tour-by-vande-bharat-express": {
+  "title": "Ab Delhi: Agra Tagestour mit dem Vande Bharat Express",
+  "metaTitle": "Delhi-Agra: Tagestour, Vande Bharat Express",
+  "metaDescription": "Erkunden Sie Agra an einem Tag mit dem Superschnellzug.",
+  "shortDescription": "Erkunden Sie Agra an einem Tag mit dem Superschnellzug.",
+  "fullDescription": "**Abfahrt vom Hotel**\n04:30 Uhr – Sie werden von Ihrem Hotel in Delhi von unserem Fahrer abgeholt. Nun werden Sie zum Bahnhof Hazarat Nizamuddin gefahren.\n\n**Abfahrt vom Bahnhof (22470)**\n06:00 Uhr – Ihr Nizamuddin-Khajuraho Vande Bharat Express fährt um 6 Uhr nach Agra ab. Es dauert weniger als 2 Stunden.\n\n**Ankunft in Agra**\n07:40 Uhr – bei der Ankunft am Bahnhof Agra Cantt trifft Sie unser Fahrer und begrüßt Sie. Später trifft Sie der erfahrene Reiseführer und erklärt Ihnen den Tagesplan.\n\n**Besichtigung des Taj Mahal**\n08:00 Uhr – nun nimmt Ihr Geschichtenerzähler-Guide Sie zur Besichtigung des Taj Mahal mit. Nach der Sicherheitskontrolle erklärt er Ihnen die Geschichte und Architektur des Taj Mahal. So genießen Sie 2,5 Stunden mit Fotografieren und dem Zuhören von Geschichten.\n\n**Besuch des Agra Fort**\n10:30 Uhr – nun bereiten Sie sich auf den Besuch eines weiteren UNESCO-Schatzes vor, das Agra Fort. Lassen Sie sich von den prächtigen Palästen im Inneren verzaubern. Sie verbringen 1,5 Stunden mit dem Besuch des Forts und dem Aufnehmen von instagramtauglichen Fotos.\n\n**Mittagessen**\n12:00 Uhr – der Besuch des Agra Fort ist beendet, bereiten Sie sich vor, Agras Köstlichkeiten in einem indischen Restaurant zu genießen.\n\n**Besuch der Marmorfabrik**\n13:30 Uhr – nach dem Mittagessen besuchen Sie eine Marmorfabrik, wo Sie vom Prozess der Marmor-Einlegearbeit verzaubert werden und erfahren, wie der Taj Mahal gebaut wurde.\n\n**Ausflug nach Fatehpur Sikri**\n14:30 Uhr – nun bereiten Sie sich auf einen 4-stündigen Ausflug nach Fatehpur Sikri vor, bekannt als Geisterstadt oder verlassene Stadt. Die Fahrt dauert eine Stunde, und bei der Ankunft in Fatehpur Sikri genießen Sie die geführte Tour durch die prächtigen Paläste.\n\n**Rückfahrt nach Agra und Shopping**\n17:30 Uhr – es wird wieder eine Stunde Fahrt zurück nach Agra sein. Sie erreichen Agra gegen 18:30 Uhr. Als Shopping-Liebhaber können Sie, wenn Sie interessiert sind, eine Stunde Shopping für Agras Kunsthandwerk genießen.\n\n20:00 Uhr – wir transferieren Sie zum Bahnhof Agra Cantt.\n\n23:10 Uhr – Sie erreichen den Bahnhof Nizamuddin und wir transferieren Sie zurück zu Ihrem Hotel in Delhi.",
+  "highlights": [
+   "Erkunden Sie Agra an einem Tag mit dem Superschnellzug"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug für Besichtigungen und Transfers",
+   "Alle Mautgebühren, Parken, Steuern, und Kraftstoffkosten",
+   "Vande Bharat Express Zugtickets (klimatisierter Sitzwagen) hin und zurück",
+   "Live englischsprachiger Reiseführer",
+   "Unterstützung bei Ankunft/Abfahrt am Bahnhof in Agra"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Eintrittstickets für Denkmäler",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "agra-fort-express-entry-ticket-tour": {
+  "title": "Agra Fort Tour mit Express-Eintrittsticket",
+  "metaTitle": "Agra: Agra Fort, Express-Eintrittsticket",
+  "metaDescription": "Überspringen Sie die Warteschlange mit Express-Eintritt zum Agra Fort.",
+  "shortDescription": "Überspringen Sie die Warteschlange mit Express-Eintritt zum Agra Fort.",
+  "fullDescription": "Entdecken Sie das prächtige Agra Fort mit einem Express-Eintrittsticket und genießen Sie ein bequemes, zeitsparendes Besichtigungserlebnis in Agra. Vermeiden Sie lange Wartezeiten und betreten Sie diese UNESCO-Welterbestätte, um ihre beeindruckende Mogul-Architektur, prächtige Höfe, königliche Paläste, Moscheen, Hallen, und historische Kammern zu erkunden.\n\nWährend dieser geführten Agra-Fort-Tour erfahren Sie mehr über die faszinierende Geschichte des Mogulreichs und der Kaiser, die innerhalb dieser prächtigen Mauern lebten. Ihr kompetenter lokaler Guide teilt interessante Geschichten über Kaiser Akbar, Shah Jahan, und die Entwicklung des Agra Fort, während er wichtige architektonische Details und schöne Fotomöglichkeiten aufzeigt.\n\nDiese Agra Fort Express-Eintritt-Tour ist ideal für Reisende, die ihre Zeit in Agra optimal nutzen möchten. Sie kann leicht mit einem Besuch des Taj Mahal kombiniert werden, was sie zu einer großartigen Wahl für ein eintägiges Agra-Besichtigungserlebnis macht. Egal, ob Sie Agra zum ersten Mal besuchen oder begrenzte Zeit in der Stadt haben, diese Tour bietet eine einfache und informative Möglichkeit, eines der berühmtesten historischen Denkmäler Indiens zu erleben.",
+  "highlights": [
+   "Überspringen Sie die Warteschlange mit Express-Eintritt zum Agra Fort"
+  ],
+  "included": [
+   "Agra Fort Express-Eintrittsticket (falls Option ausgewählt)",
+   "Professioneller englischsprachiger lokaler Guide",
+   "Geführte Besichtigung im Inneren des Agra Fort",
+   "Historische und kulturelle Informationen",
+   "Unterstützung beim Eintritt ins Denkmal",
+   "Fotostopps an den besten Aussichtspunkten",
+   "Abholung von Ihrem Hotel oder bevorzugten Ort in Agra"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "keoladeo-national-park-tickets-and-guided-tour": {
+  "title": "Tickets und geführte Tour zum Keoladeo Nationalpark",
+  "metaTitle": "Keoladeo: Tickets und geführte Tour",
+  "metaDescription": "Entdecken Sie den UNESCO-gelisteten Keoladeo Nationalpark in Ihrem eigenen Tempo.",
+  "shortDescription": "Entdecken Sie den UNESCO-gelisteten Keoladeo Nationalpark in Ihrem eigenen Tempo.",
+  "fullDescription": "Eintritt zum Keoladeo Nationalpark mit anpassbaren Touroptionen, erkunden Sie den wilden Keoladeo Nationalpark in Bharatpur auf Ihre Weise bei dieser anpassbaren Tour zum weltweiten Vogelbeobachtungsziel. Wählen Sie zwischen einer geführten Tour oder Transfers von Agra zu den Wildtier-Hotspots des Parks, wo Sie wahrscheinlich Pythons, Sambarhirsche, und Zugvögel sehen werden; oder vereinfachen Sie Ihre Reise, indem Sie den Eintritt im Voraus buchen und selbst erkunden. Sehen Sie mehr Wildtiere, indem Sie mit einem Guide erkunden.\nOptionale Abholung und Rückfahrt von Agra, falls Option ausgewählt.",
+  "highlights": [
+   "Entdecken Sie den UNESCO-gelisteten Keoladeo Nationalpark in Ihrem eigenen Tempo"
+  ],
+  "included": [
+   "Eintrittstickets",
+   "Geführte Tour und Rikscha-Fahrt-Transfers, 3 Stunden",
+   "Transfers hin und zurück von Agra (falls Option ausgewählt)"
+  ],
+  "notIncluded": [
+   "Keine Mahlzeiten und Unterkunft"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
