@@ -24548,6 +24548,87 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten"
   ]
  },
+ "from-delhi-golden-triangle-tour-to-agra-jaipur-5": {
+  "title": "Ab Delhi: Golden-Triangle-Tour nach Agra und Jaipur - 5 Tage",
+  "metaTitle": "Delhi: Golden Triangle, Agra-Jaipur, 5 Tage",
+  "metaDescription": "Erkunden Sie die Schönheit der historischen Städte Delhi, Agra, und Jaipur.",
+  "shortDescription": "Erkunden Sie die Schönheit der historischen Städte Delhi, Agra, und Jaipur.",
+  "fullDescription": "Ab Delhi: Golden-Triangle-Tour nach Agra und Jaipur - 5 Tage. Erkunden Sie die Schönheit der historischen Städte Delhi, Agra, und Jaipur.\n\n**Tag 1**\nProfitieren Sie von der Abholung an Ihrem gewünschten Ort, am Flughafen Delhi, in Noida, oder Gurgaon, checken Sie anschließend in Ihrem Hotel ein und ruhen Sie sich aus. Nehmen Sie an einer halbtägigen Tour durch das Stadtzentrum von Delhi teil, mit Zeit sowohl in New als auch in Alt-Delhi. Bewundern Sie Sehenswürdigkeiten wie den Qutub Minar, den Lotustempel, und India Gate. Fahren Sie nach den Besichtigungen am India Gate, dem Parlamentsgebäude, und dem Präsidentenpalast vorbei, und kehren Sie dann zum Hotel zurück, um sich auszuruhen.\n\n**Tag 2**\nNach dem Frühstück geht es weiter nach Agra; unterwegs besuchen Sie den Akshardham-Tempel (montags geschlossen), und checken in Ihrem Hotel ein. Je nach Zeitplan besuchen Sie am Nachmittag den Baby Taj, und genießen den Blick von hinten auf den Sonnenuntergang über dem Taj-Mahal-Komplex in Mehtab Bagh, bevor Sie zum Hotel zurückkehren, um sich auszuruhen.\n\n**Tag 3**\nStehen Sie früh auf, um den Sonnenaufgang über dem Taj Mahal zu erleben, und genießen Sie eine geführte Tour durch diesen majestätischen Palast, bevor die Besuchermassen eintreffen, dann kehren Sie nach der Zeit im Taj zum Hotel zurück, frühstücken, und ruhen sich aus. Je nach Zeitplan checken Sie anschließend aus Ihrem Hotel aus; später besuchen Sie das historische Agra Fort und die Mogulzeit, bevor es weiter nach Jaipur geht, wo Sie übernachten werden.\n\n**Tag 4**\nNach dem Frühstück in Ihrem Hotel genießen Sie eine geführte Tour durch Jaipur. Besuchen Sie das majestätische Amber Fort, und staunen Sie über die Schönheit des Jal Mahal. Weiter geht es zum Palast der Winde, mit Halt am Jantar-Mantar-Observatorium und dem City Palace des Maharadschas.\n\n**Tag 5**\nReisen Sie zurück nach Delhi, oder lassen Sie sich, falls gewünscht, am Flughafen von Jaipur absetzen.\n\n**Was ist inbegriffen**\nFrühstück x 4\nPrivate Tour\nUnterkunft für vier Nächte (falls die Tour mit der Option inklusive Hotels gebucht wird)\nTransport in einem privaten klimatisierten Auto\nAlle Besichtigungen mit privatem lokalem Reiseführer\nBatteriebus-Fahrt zum und vom Parkplatz des Taj Mahal bis zum Taj-Mahal-Monument\nTägliches Frühstück im Hotel (falls die Tour mit der Option inklusive Hotels gebucht wird)\nAlle Steuern und Servicegebühren\nAbholung und Rückfahrt zum Hotel oder Flughafen\nFlaschen Mineralwasser und Erfrischungsgetränke während der Reisen\nAbholung angeboten vom Flughafen, Bahnhof, Hotel, oder einem beliebigen Abholort in Delhi, Noida, Gurugram\n\n**Nicht inbegriffen**\nTrinkgelder\nEintrittsgebühren für Sehenswürdigkeiten\nMittag- und Abendessen",
+  "highlights": [
+   "Erkunden Sie die Schönheit der historischen Städte Delhi, Agra, und Jaipur"
+  ],
+  "included": [
+   "Frühstück x 4",
+   "Private Tour",
+   "Unterkunft für vier Nächte (falls die Tour mit der Option inklusive Hotels gebucht wird)",
+   "Transport in einem privaten klimatisierten Auto",
+   "Alle Besichtigungen mit privatem lokalem Reiseführer",
+   "Batteriebus-Fahrt zum und vom Parkplatz des Taj Mahal bis zum Taj-Mahal-Monument",
+   "Tägliches Frühstück im Hotel (falls die Tour mit der Option inklusive Hotels gebucht wird)",
+   "Alle Steuern und Servicegebühren",
+   "Abholung und Rückfahrt zum Hotel oder Flughafen",
+   "Flaschen Mineralwasser und Erfrischungsgetränke während der Reisen",
+   "Abholung angeboten vom Flughafen, Bahnhof, Hotel, oder einem beliebigen Abholort in Delhi, Noida, Gurugram"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Eintrittsgebühren für Sehenswürdigkeiten",
+   "Mittag- und Abendessen"
+  ]
+ },
+ "delhi-full-day-history-spirituality-and-culture": {
+  "title": "Delhi: ganztägige Tour zu Geschichte, Spiritualität, und Kultur",
+  "metaTitle": "Delhi: Ganztagestour, Geschichte und Kultur",
+  "metaDescription": "Spüren Sie die lebendige Energie Delhis, während Sie seine ikonischen Sehenswürdigkeiten erkunden",
+  "shortDescription": "Spüren Sie die lebendige Energie Delhis, während Sie seine ikonischen Sehenswürdigkeiten erkunden",
+  "fullDescription": "Delhi: ganztägige Tour zu Geschichte, Spiritualität, und Kultur. Spüren Sie die lebendige Energie Delhis, während Sie seine ikonischen Sehenswürdigkeiten erkunden.\n\nBeginnen Sie Ihre Reise mit einer malerischen Fahrt vorbei an einigen der ikonischsten Sehenswürdigkeiten Delhis, darunter India Gate, Raj Ghat, das Parlamentsgebäude, und das majestätische Rote Fort. Hören Sie zu, während Ihr Reiseführer faszinierende Einblicke in ihre reiche historische Bedeutung gibt.\n\nErkunden Sie die majestätische Jama Masjid, eine der größten und beeindruckendsten Moscheen Indiens. Steigen Sie dann in eine Rikscha und fahren Sie durch die belebten Gassen von Chandni Chowk, und tauchen Sie ein in sein lebendiges Straßenleben und seine jahrhundertealten Geschäfte. Beenden Sie diesen Abschnitt mit einem sinnlichen Spaziergang durch Khari Baoli, Asiens größten Gewürzmarkt, wo die Luft von den reichen Aromen exotischer Gewürze, Trockenfrüchte, und Kräuter erfüllt ist.\n\nBetreten Sie die ruhige Pracht von Humayuns Grabmal, einem UNESCO-Weltkulturerbe und Meisterwerk mogulischer Architektur. Weiter geht es zum hoch aufragenden Qutub Minar, einem alten Symbol von Delhis indo-islamischem Erbe, umgeben von historischen Ruinen. Beenden Sie Ihre Reise am ruhigen Lotustempel, bewundert für sein einzigartiges lotusförmiges Design und seine friedliche, allen Glaubensrichtungen offenstehende Atmosphäre.\n\n**Was ist inbegriffen**\nAbholung\nMalerische Fahrt vorbei an ikonischen Sehenswürdigkeiten\nBesuch der Jama Masjid\nRikscha-Fahrt durch Chandni Chowk\nSpaziergang durch den Gewürzmarkt Khari Baoli\nBesuch von Humayuns Grabmal\nBesuch des Qutub Minar\nBesuch des Lotustempels\nRückfahrt zum Hotel\nKuratierte Playlist passend zur Stimmung Delhis\n\n**Nicht inbegriffen**\nMahlzeiten und Getränke\nFahrten zu nicht in der Reiseroute erwähnten Orten\nJegliche zusätzliche Aktivitäten, die nicht in der Tour erwähnt werden",
+  "highlights": [
+   "Spüren Sie die lebendige Energie Delhis, während Sie seine ikonischen Sehenswürdigkeiten erkunden"
+  ],
+  "included": [
+   "Abholung",
+   "Malerische Fahrt vorbei an ikonischen Sehenswürdigkeiten",
+   "Besuch der Jama Masjid",
+   "Rikscha-Fahrt durch Chandni Chowk",
+   "Spaziergang durch den Gewürzmarkt Khari Baoli",
+   "Besuch von Humayuns Grabmal",
+   "Besuch des Qutub Minar",
+   "Besuch des Lotustempels",
+   "Rückfahrt zum Hotel",
+   "Kuratierte Playlist passend zur Stimmung Delhis"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke",
+   "Fahrten zu nicht in der Reiseroute erwähnten Orten",
+   "Jegliche zusätzliche Aktivitäten, die nicht in der Tour erwähnt werden"
+  ]
+ },
+ "delhi-8-day-golden-triangle-with-udaipur": {
+  "title": "Delhi: 8-tägige Golden-Triangle-Tour mit Udaipur und Ranthambore",
+  "metaTitle": "Delhi: Golden Triangle 8 Tage, Udaipur-Ranthambore",
+  "metaDescription": "Erleben Sie eine großartige Zeit bei dieser Tour mit Safaris, Taj, Tigern, und Seen",
+  "shortDescription": "Erleben Sie eine großartige Zeit bei dieser Tour mit Safaris, Taj, Tigern, und Seen",
+  "fullDescription": "Delhi: 8-tägige Golden-Triangle-Tour mit Udaipur und Ranthambore. Erleben Sie eine großartige Zeit bei dieser Tour mit Safaris, Taj, Tigern, und Seen.\n\nErkunden Sie das Beste von Indiens Tierwelt und Kultur bei dieser 8-tägigen Tour durch die spannendsten Regionen des Landes: Delhi, Agra, Jaipur, Udaipur, und die Ranthambore-Safari, einschließlich des wunderschönen, majestätischen Marmor-Mausoleums.\n\n**Was ist inbegriffen**\nUnterkunft für 7 Nächte in 3-, 4-, oder 5-Sterne-Hotels (je nach gewählter Option)\nTreffen/Unterstützung durch unseren Vertreter/Fahrer\n2 Pirschfahrten bei der Ranthambore-Safari\nMorgen- und Abend-Canter-Safari auf geteilter Basis in Ranthambore\nProfessionelle Reiseführer in jeder Stadt\nTransfers/Besichtigungen in einem klimatisierten Fahrzeug\nAbholung und Rückfahrt zum Hotel, Flughafen, oder Bahnhof\nAbgefülltes Trinkwasser\nAbendessen in Ranthambore\nFrühstück\n\n**Nicht inbegriffen**\nEintrittsgebühren für Sehenswürdigkeiten/Kameragebühren\nAlles, was nicht in den Einschlüssen enthalten ist",
+  "highlights": [
+   "Erleben Sie eine großartige Zeit bei dieser Tour mit Safaris, Taj, Tigern, und Seen"
+  ],
+  "included": [
+   "Unterkunft für 7 Nächte in 3-, 4-, oder 5-Sterne-Hotels (je nach gewählter Option)",
+   "Treffen/Unterstützung durch unseren Vertreter/Fahrer",
+   "2 Pirschfahrten bei der Ranthambore-Safari",
+   "Morgen- und Abend-Canter-Safari auf geteilter Basis in Ranthambore",
+   "Professionelle Reiseführer in jeder Stadt",
+   "Transfers/Besichtigungen in einem klimatisierten Fahrzeug",
+   "Abholung und Rückfahrt zum Hotel, Flughafen, oder Bahnhof",
+   "Abgefülltes Trinkwasser",
+   "Abendessen in Ranthambore",
+   "Frühstück"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Sehenswürdigkeiten/Kameragebühren",
+   "Alles, was nicht in den Einschlüssen enthalten ist"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
