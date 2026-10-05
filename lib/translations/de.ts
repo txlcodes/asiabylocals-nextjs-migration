@@ -19910,6 +19910,61 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "delhi-4-hour-half-day-old-delhi-tour-with": {
+  "title": "Delhi: 4-stündige Halbtagestour durch Alt-Delhi mit weiblichem Guide",
+  "metaTitle": "Delhi: Alt-Delhi-Tour in 4 Stunden",
+  "metaDescription": "Geführter Spaziergang durch das historische Alt-Delhi.",
+  "shortDescription": "Geführter Spaziergang durch das historische Alt-Delhi.",
+  "fullDescription": "**Alt-Delhi Kulturerbe- und Street-Food-Spaziergang**\n\nBetreten Sie das Herz der indischen Hauptstadt und erleben Sie die lebendige Seele von Alt-Delhi, wo Geschichte, Kultur, und Alltag in jeder engen Gasse lebendig werden. Diese geführte Wandertour führt Sie durch jahrhundertealte Denkmäler, geschäftige Basare, und versteckte Ecken, die die meisten Besucher niemals sehen.\n\nBeginnen Sie Ihre Reise an der majestätischen Jama Masjid, einer der größten Moscheen Indiens, und erfahren Sie mehr über die Mogulzeit, die Alt-Delhi geprägt hat. Spazieren Sie durch die lebendigen Straßen von Chandni Chowk, einst der königliche Marktplatz, heute berühmt für seine Gewürze, Schmuck, Stoffe, und Street Food.\n\nErkunden Sie historische Havelis, bunte Märkte, und alte Stufenbrunnen, während Ihr lokaler Guide faszinierende Geschichten über Kaiser, Händler, und Traditionen erzählt, die bis heute weiterleben. Erleben Sie eine traditionelle Rikscha-Fahrt durch überfüllte Gassen, und erleben Sie den Kontrast zwischen Chaos und Charme, der Alt-Delhi ausmacht.\n\nEine optionale Street-Food-Verkostung führt Sie in authentische Aromen wie Chaat, Parathas, und Süßigkeiten ein (vegetarische Optionen verfügbar).\n\nDiese Tour ist perfekt für Reisende, die das echte Delhi jenseits der Denkmäler erkunden und mit seinem lebendigen Erbe in Verbindung treten möchten.\n\n**Highlights:**\n• Jama Masjid (Außen- oder Innenbesuch)\n• Spaziergang durch den Chandni-Chowk-Markt\n• Rikscha-Fahrt durch Alt-Delhi\n• Lokale Kultur und versteckte Gassen\n• Optionale Street-Food-Verkostung\n• Kundiger lokaler Guide\n\nDauer: 3 bis 4 Stunden\nGeeignet für: Kulturliebhaber, Fotografen, Erstbesucher",
+  "highlights": [
+   "Geführter Spaziergang durch das historische Alt-Delhi"
+  ],
+  "included": [
+   "Rikscha-Fahrt (falls gewählt)",
+   "Tickets (falls gewählt)"
+  ],
+  "notIncluded": []
+ },
+ "amritsar-2-days-tour-from-delhi-for-immersive": {
+  "title": "Amritsar: 2-tägige Tour von Delhi für ein eindrucksvolles Erlebnis",
+  "metaTitle": "Delhi-Amritsar in 2 Tagen: Goldener Tempel",
+  "metaDescription": "Erleben Sie Ruhe und Gelassenheit am Goldenen Tempel von Amritsar.",
+  "shortDescription": "Erleben Sie Ruhe und Gelassenheit am Goldenen Tempel von Amritsar.",
+  "fullDescription": "**Tag 1**\n**6:00 Uhr**: Abfahrt von Delhi, Fahrt nach Amritsar, Ankunft um 14:00 Uhr.\n\n**15:00 Uhr**: Schauspiel an der Grenze zwischen Indien und Pakistan.\n\nWir fahren zur Wagah-Grenze, der Grenze zwischen Indien und Pakistan. Wir werden am Abend die Schließung des indisch-pakistanischen Grenztors sehen. Die Beating-Retreat-Zeremonie besteht aus dem Schließen der Tore und dem Senken der Flaggen beider Länder. Wir sehen Soldaten aus Indien und Pakistan zu den Toren marschieren, und nachdem die Tore geöffnet sind, grüßen sie sich gegenseitig. Die Zeremonie endet mit der Rückkehr der Soldaten zur Grenzlinie für einen Handschlag. Der Trompetenstoß beendet dieses spektakuläre Grenzschauspiel.\nÜbernachtung im Hotel in Amritsar.\n\n**Tag 2**\n**8:00 Uhr**: Besuch des Goldenen Tempels.\nDie Tour zum Goldenen Tempel bringt uns zum Sri Harimandir Sahib, der nicht nur ein zentraler religiöser Ort der Sikhs ist, sondern auch ein Symbol menschlicher Brüderlichkeit und Gleichheit. Der Tempel folgt einer einzigartigen Sikh-Architektur. Die Tatsache, dass er auf einem niedrigeren Niveau als die umgebenden Ländereien erbaut wurde, lehrt die Lektion des Egalitarismus und der Demut. Die vier Eingänge dieses heiligen Schreins aus allen vier Richtungen bedeuten, dass Menschen aus allen Lebensbereichen gleichermaßen willkommen sind.\n\nNach der Tour zum Goldenen Tempel besuchen wir auch einen Langar, oder öffentliche Küche, des Gurudwara. Der Langar hier serviert täglich kostenloses warmes Essen an 50.000 bis 100.000 Menschen.\n\n**12:00 Uhr**: Jallianwala Bagh.\nWir besuchen den Ort der barbarischsten Tat der Briten während der Kolonialzeit. Am 13. April 1919 hatten sich 20.000 Menschen, bestehend aus Hindus, Muslimen, und Sikhs, im Jallianwala Bagh versammelt, als Antwort auf Mahatma Gandhis Aufruf zu einem öffentlichen, gewaltfreien Protest gegen das Rowlatt-Gesetz. General Dyer marschierte mit 50 Soldaten zum Veranstaltungsort und feuerte 1.600 Schüsse ab, wobei Tausende friedlicher Demonstranten getötet wurden.\n\n**13:00 Uhr**: Wir beginnen die Rückfahrt nach Delhi.\n\n**21:00 Uhr**: Absetzung am Hotel in Delhi.",
+  "highlights": [
+   "Erleben Sie Ruhe und Gelassenheit am Goldenen Tempel von Amritsar"
+  ],
+  "included": [
+   "Guide",
+   "Klimatisiertes Auto",
+   "Abholung und Rückbringung zum Hotel in Delhi",
+   "1 Nacht im Hotel in Amritsar mit Frühstück bei Doppelbelegung",
+   "Einzelbuchungen erhalten Einzelbelegung",
+   "Eintrittsgebühren"
+  ],
+  "notIncluded": []
+ },
+ "delhi-private-city-tour-with-lotus-and-akshardham": {
+  "title": "Delhi: private Stadttour mit Lotus- und Akshardham-Tempel",
+  "metaTitle": "Delhi: private Tour, Lotus und Akshardham",
+  "metaDescription": "Bestaunen Sie die lotusförmige weiße Marmorstruktur des Lotustempels.",
+  "shortDescription": "Bestaunen Sie die lotusförmige weiße Marmorstruktur des Lotustempels.",
+  "fullDescription": "Beginnen Sie Ihre Tour mit einer Abholung von Ihrem Hotel oder Treffpunkt in einem komfortablen klimatisierten Auto. Genießen Sie eine kurze Einführung durch Ihren Fahrer/Guide zu Delhis Highlights, während Sie sich zum ersten Stopp begeben.\n\nKommen Sie am Lotustempel an, einem Bahá'í-Gotteshaus, und bestaunen Sie die lotusförmige weiße Marmorstruktur. Genießen Sie die ruhige Meditationshalle, und erkunden Sie die gestalteten Gärten.\n\nAls Nächstes geht es zum Akshardham-Tempel, einem grandiosen hinduistischen Tempelkomplex, bekannt für seine atemberaubende Architektur. Besuchen Sie die Haupttempelhalle und die Gärten. Falls die Zeit es erlaubt, genießen Sie eine kurze Wassershow oder Ausstellungen.\n\nWeiter geht es zur Gandhi Smriti, einem Museum, das Mahatma Gandhi gewidmet ist. Sehen Sie den Ort, an dem er seine letzten Tage verbrachte, und gehen Sie durch Ausstellungen über sein Leben und seine Philosophie.\n\nSchließlich fahren Sie am India Gate vorbei und halten kurz für Fotos aus dem Auto an. Sehen Sie das Rashtrapati Bhavan (Präsidentenhaus) und das Parlamentsgebäude auf dem Weg. Danach werden Sie an Ihrem Hotel oder gewünschten Ort abgesetzt.",
+  "highlights": [
+   "Bestaunen Sie die lotusförmige weiße Marmorstruktur des Lotustempels"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto mit Fahrer",
+   "Abholung und Rückbringung innerhalb der Stadtgrenzen von Delhi",
+   "Kraftstoff, Parken, Mautgebühren",
+   "1 Wasserflasche"
+  ],
+  "notIncluded": [
+   "Eintrittskarten",
+   "Mahlzeiten/Snacks",
+   "Trinkgeld (optional)"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

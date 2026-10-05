@@ -19910,6 +19910,61 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "delhi-4-hour-half-day-old-delhi-tour-with": {
+  "title": "Delhi: tour de medio día de 4 horas por el Viejo Delhi con guía femenina",
+  "metaTitle": "Delhi: tour del Viejo Delhi en 4 horas",
+  "metaDescription": "Caminata guiada por el histórico Viejo Delhi.",
+  "shortDescription": "Caminata guiada por el histórico Viejo Delhi.",
+  "fullDescription": "**Tour del patrimonio y comida de calle del Viejo Delhi**\n\nEntre al corazón de la capital de la India, y experimente el alma vibrante del Viejo Delhi, donde la historia, la cultura, y la vida diaria cobran vida en cada callejón estrecho. Este tour guiado a pie lo lleva por monumentos centenarios, bazares bulliciosos, y rincones escondidos que la mayoría de los visitantes nunca ven.\n\nComience su viaje en la majestuosa Jama Masjid, una de las mezquitas más grandes de la India, y conozca la era mogola que dio forma al Viejo Delhi. Camine por las animadas calles de Chandni Chowk, en su momento el mercado real, hoy famoso por sus especias, joyería, telas, y comida de calle.\n\nExplore havelis históricos, mercados coloridos, y antiguos pozos escalonados, mientras su guía local comparte historias fascinantes sobre emperadores, comerciantes, y tradiciones que siguen prosperando hoy en día. Experimente un paseo tradicional en rickshaw por calles concurridas, y observe el contraste entre el caos y el encanto que define al Viejo Delhi.\n\nUna degustación opcional de comida de calle lo introduce a sabores autenticos como chaat, parathas, y dulces (opciones vegetarianas disponibles).\n\nEste tour es perfecto para viajeros que quieren explorar el verdadero Delhi, más allá de los monumentos, y conectar con su patrimonio vivo.\n\n**Puntos destacados:**\n• Jama Masjid (visita exterior o interior)\n• Paseo por el mercado de Chandni Chowk\n• Paseo en rickshaw por el Viejo Delhi\n• Cultura local y callejones escondidos\n• Degustación opcional de comida de calle\n• Guía local conocedor\n\nDuración: 3 a 4 horas\nApto para: amantes de la cultura, fotógrafos, visitantes primerizos",
+  "highlights": [
+   "Caminata guiada por el histórico Viejo Delhi"
+  ],
+  "included": [
+   "Paseo en rickshaw (si se elige)",
+   "Boletos (si se elige)"
+  ],
+  "notIncluded": []
+ },
+ "amritsar-2-days-tour-from-delhi-for-immersive": {
+  "title": "Amritsar: tour de 2 días desde Delhi para una experiencia inmersiva",
+  "metaTitle": "Delhi-Amritsar en 2 días: Templo Dorado",
+  "metaDescription": "Experimente serenidad y tranquilidad en el Templo Dorado de Amritsar.",
+  "shortDescription": "Experimente serenidad y tranquilidad en el Templo Dorado de Amritsar.",
+  "fullDescription": "**Día 1**\n**6:00**: salida de Delhi, trayecto hacia Amritsar para llegar a las 14:00.\n\n**15:00**: espectáculo en la frontera entre la India y Pakistán.\n\nPartimos hacia la frontera de Wagah, el límite entre la India y Pakistán. Veremos el cierre de la puerta fronteriza entre India y Pakistán por la tarde. La ceremonia Beating Retreat consiste en el cierre de las puertas y el arriado de las banderas de ambos países. Veremos a soldados de la India y de Pakistán marchar hacia las puertas, y después de que las puertas se abran, se saludan mutuamente. La ceremonia concluye con los soldados regresando a la línea fronteriza para un apretón de manos. El toque de corneta pone fin a este espectacular drama fronterizo.\nNoche en el hotel en Amritsar.\n\n**Día 2**\n**8:00**: tour por el Templo Dorado.\nEl tour del Templo Dorado nos lleva al Sri Harimandir Sahib, que no solo es un lugar religioso central de los sijs, sino también un símbolo de hermandad e igualdad humana. El templo sigue una arquitectura sij única. El hecho de que esté construido a un nivel más bajo que las tierras circundantes enseña la lección del igualitarismo y la humildad. Las cuatro entradas de este santuario sagrado, desde las cuatro direcciones, significan que las personas de todos los ámbitos de la vida son igualmente bienvenidas.\n\nDespués del tour del Templo Dorado, también visitaremos un langar, o cocina pública, del Gurudwara. El langar aquí sirve comidas calientes gratuitas diariamente a entre 50.000 y 100.000 personas.\n\n**12:00**: Jallianwala Bagh.\nVisitaremos el sitio del acto más barbárico de los británicos durante la época colonial. El 13 de abril de 1919, 20.000 personas, compuestas por hindúes, musulmanes, y sijs, se habían reunido en Jallianwala Bagh en respuesta al llamado de Mahatma Gandhi a una protesta pública no violenta contra la Ley Rowlatt. El general Dyer marchó hacia el lugar con 50 soldados y disparó 1.600 rondas, matando a miles de manifestantes pacíficos.\n\n**13:00**: comenzamos el trayecto de regreso a Delhi.\n\n**21:00**: entrega en el hotel en Delhi.",
+  "highlights": [
+   "Experimente serenidad y tranquilidad en el Templo Dorado de Amritsar"
+  ],
+  "included": [
+   "Guía",
+   "Coche con aire acondicionado",
+   "Recogida y traslado al hotel en Delhi",
+   "1 noche de alojamiento en hotel en Amritsar con desayuno en ocupación doble",
+   "las reservas individuales obtendrán ocupación individual",
+   "Tarifas de entrada"
+  ],
+  "notIncluded": []
+ },
+ "delhi-private-city-tour-with-lotus-and-akshardham": {
+  "title": "Delhi: tour privado por la ciudad con el Templo de Loto y Akshardham",
+  "metaTitle": "Delhi: tour privado, Loto y Akshardham",
+  "metaDescription": "Maravíllese con la estructura de mármol blanco en forma de flor de loto del Templo de Loto.",
+  "shortDescription": "Maravíllese con la estructura de mármol blanco en forma de flor de loto del Templo de Loto.",
+  "fullDescription": "Comience su tour con una recogida en su hotel o punto de encuentro, en un coche cómodo y con aire acondicionado. Disfrute de una breve introducción de su conductor/guía sobre lo más destacado de Delhi mientras se dirige a la primera parada.\n\nLlegue al Templo de Loto, una Casa de Adoración Bahá'í, y maravíllese con la estructura de mármol blanco en forma de flor de loto. Disfrute del sereno salón de meditación, y explore los jardines paisajísticos.\n\nA continuación, dirígese al Templo Akshardham, un grandioso complejo de templo hindú conocido por su impresionante arquitectura. Visite el salón principal del templo y los jardines. Si el tiempo lo permite, disfrute de un breve espectáculo de agua o exposiciones.\n\nContinúe hacia Gandhi Smriti, un museo dedicado a Mahatma Gandhi. Vea el lugar donde pasó sus últimos días, y recorra las exposiciones sobre su vida y filosofía.\n\nFinalmente, pase por India Gate, deteniéndose brevemente para fotos desde el coche. Vea el Rashtrapati Bhavan (Casa del Presidente) y el Parlamento en el camino. Después, será dejado en su hotel o lugar deseado.",
+  "highlights": [
+   "Maravíllese con la estructura de mármol blanco en forma de flor de loto del Templo de Loto"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado y conductor",
+   "Recogida y traslado dentro de los límites de la ciudad de Delhi",
+   "Combustible, estacionamiento, peajes",
+   "1 botella de agua"
+  ],
+  "notIncluded": [
+   "Boletos de entrada",
+   "Comidas/bocadillos",
+   "Propinas (opcional)"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
