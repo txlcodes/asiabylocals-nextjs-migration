@@ -21222,6 +21222,82 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "from-delhi-delhi-to-manali-tour-package": {
+  "title": "Depuis Delhi : forfait circuit de Delhi à Manali",
+  "metaTitle": "Delhi à Manali : forfait circuit",
+  "metaDescription": "Depuis Delhi : forfait circuit de Delhi à Manali.",
+  "shortDescription": "Depuis Delhi : forfait circuit de Delhi à Manali.",
+  "fullDescription": "Depuis Delhi : forfait circuit de Delhi à Manali. Visitez Manali.\n\n**Jour 1 : Delhi - Manali (550 km), trajet de 10 à 11 heures**\nÀ votre arrivée à l'aéroport de Delhi, vous serez accueilli par nous, et votre trajet se poursuivra vers la magnifique station de montagne de l'Himachal Pradesh. Manali est la destination la plus magnifique du nord de l'Inde, toujours pleine de touristes venus de différentes régions de l'Inde. Son atmosphère fraîche offre une détente parfaite pour échapper aux chaleurs estivales du nord de l'Inde. Manali abrite également des sports d'aventure comme le ski, la randonnée, le vélo, le trekking, et l'alpinisme. À l'arrivée, enregistrement à votre hôtel de luxe situé entre les montagnes enneigées, avec une vue à couper le souffle. Nuit à l'hôtel à Manali.\n\n**Jour 2 : Manali**\nLe matin, après avoir profité de votre petit-déjeuner, commencez votre visite locale de Manali en explorant le Vieux et le New Manali. Visitez le monastère bouddhiste, le temple de Hadimba Devi, le temple de Manu, le musée de la culture et de l'art populaire de l'Himachal, etc., où vous pourrez prendre de superbes photos avec des yacks et de grands lapins. Votre soirée est prête pour explorer la célèbre Mall Road de Manali, un paradis pour les amateurs de shopping. Vous y trouverez de nombreux établissements de restauration proposant des cuisines locales et nord-indiennes. Retour à votre hôtel pour la nuit.\n\n**Jour 3 : Manali**\nCette journée est consacrée à la visite de la magnifique vallée glaciaire de Solang, où vous profiterez de sports et activités d'aventure. Ce sera une excursion d'une journée complète depuis Manali. En soirée, explorez par vous-même les marchés locaux de Manali, célèbres pour leurs châles, couvertures, et vestes. Nuit à votre hôtel.\n\n**Jour 4 : Manali - Delhi**\nAprès le départ de l'hôtel, vous serez conduit à Delhi ; à l'arrivée à Delhi, notre chauffeur vous déposera à l'aéroport de Delhi.\n\n**Ce qui est inclus**\nVoiture privée pour tout le voyage\nToutes les taxes\nPrise en charge et retour à l'hôtel\n\n**Non inclus**\nPourboires\nHébergement à l'hôtel",
+  "highlights": [
+   "Visitez Manali"
+  ],
+  "included": [
+   "Voiture privée pour tout le voyage",
+   "Toutes les taxes",
+   "Prise en charge et retour à l'hôtel"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Hébergement à l'hôtel"
+  ]
+ },
+ "delhi-private-old-delhi-food-and-heritage-tour": {
+  "title": "Delhi : visite privée gastronomique et patrimoniale du Vieux Delhi avec guide",
+  "metaTitle": "Delhi : gastronomie et patrimoine du Vieux Delhi",
+  "metaDescription": "Explorez les rues animées et les bazars historiques du Vieux Delhi avec un guide.",
+  "shortDescription": "Explorez les rues animées et les bazars historiques du Vieux Delhi avec un guide.",
+  "fullDescription": "Delhi : visite privée gastronomique et patrimoniale du Vieux Delhi avec guide. Explorez les rues animées et les bazars historiques du Vieux Delhi avec un guide.\n\nRencontrez votre chauffeur privé et votre expert culinaire anglophone à votre hôtel à Delhi. Rendez-vous dans le Vieux Delhi, le centre historique de la capitale, et commencez votre exploration à pied à travers les rues animées de Chandni Chowk.\n\nSuivez votre guide à travers des ruelles animées et des quartiers culinaires traditionnels, tout en dégustant une sélection de spécialités locales. Selon la disponibilité, les dégustations peuvent inclure des samosas, du chaat, des parathas farcis, des kachoris, des kebabs, du biryani, et d'autres spécialités régionales. Découvrez les ingrédients, les méthodes de préparation, et les traditions culinaires qui ont façonné la culture gastronomique du Vieux Delhi.\n\nVisitez la Jama Masjid, l'une des mosquées historiques les plus impressionnantes de l'Inde. Admirez sa vaste cour et son architecture moghole, tandis que votre guide explique sa place dans l'histoire et le paysage culturel de Delhi.\n\nContinuez vers Khari Baoli, réputé comme l'un des plus grands marchés de gros d'épices d'Asie. Découvrez les couleurs vives, les arômes, et l'activité de ce quartier commerçant historique, et observez la variété d'épices et d'ingrédients utilisés dans la cuisine indienne.\n\nSavourez un repas soigné dans un restaurant local réputé, proposant des plats traditionnels du Vieux Delhi. Le repas est disponible en tant que service optionnel, et payable selon l'arrangement sélectionné. Votre guide peut vous faire découvrir les spécialités locales et les traditions culinaires.\n\nAprès l'exploration culinaire, continuez à travers les ruelles historiques pour observer les boutiques traditionnelles, les entreprises familiales, les bâtiments patrimoniaux, et la vie quotidienne dans la vieille ville. Une balade en rickshaw traditionnel peut être organisée comme expérience optionnelle, offrant une manière animée de découvrir les rues étroites.\n\nAprès avoir terminé l'expérience culinaire et culturelle, retrouvez votre chauffeur, et retournez à votre hôtel à Delhi.\n\n**Ce qui est inclus**\nVéhicule privé climatisé pour les transferts et visites\nPrise en charge et retour à l'hôtel à Delhi\nExpert culinaire/guide privé professionnel anglophone\nPlusieurs dégustations culinaires chez des vendeurs locaux sélectionnés\nFrais d'entrée pour les visites mentionnées dans l'itinéraire\nEau potable en bouteille dans le véhicule\nFrais de stationnement, péages, carburant, et frais de chauffeur\nTaxes gouvernementales applicables et TPS\n\n**Non inclus**\nRepas soigné au restaurant, sauf si spécifiquement inclus dans l'arrangement sélectionné\nBalade en rickshaw, sauf si spécifiquement incluse dans l'arrangement sélectionné\nNourriture ou boissons supplémentaires au-delà des dégustations incluses\nBillets d'avion ou de train\nAssurance voyage\nActivités ou expériences optionnelles\nPourboires optionnels\nFrais d'appareil photo ou de caméra aux monuments, le cas échéant\nDépenses personnelles, y compris shopping et boissons supplémentaires\nVisites ou services supplémentaires non listés\nTout ce qui n'est pas spécifiquement mentionné dans les inclusions",
+  "highlights": [
+   "Explorez les rues animées et les bazars historiques du Vieux Delhi avec un guide"
+  ],
+  "included": [
+   "Véhicule privé climatisé pour les transferts et visites",
+   "Prise en charge et retour à l'hôtel à Delhi",
+   "Expert culinaire/guide privé professionnel anglophone",
+   "Plusieurs dégustations culinaires chez des vendeurs locaux sélectionnés",
+   "Frais d'entrée pour les visites mentionnées dans l'itinéraire",
+   "Eau potable en bouteille dans le véhicule",
+   "Frais de stationnement, péages, carburant, et frais de chauffeur",
+   "Taxes gouvernementales applicables et TPS"
+  ],
+  "notIncluded": [
+   "Repas soigné au restaurant, sauf si spécifiquement inclus dans l'arrangement sélectionné",
+   "Balade en rickshaw, sauf si spécifiquement incluse dans l'arrangement sélectionné",
+   "Nourriture ou boissons supplémentaires au-delà des dégustations incluses",
+   "Billets d'avion ou de train",
+   "Assurance voyage",
+   "Activités ou expériences optionnelles",
+   "Pourboires optionnels",
+   "Frais d'appareil photo ou de caméra aux monuments, le cas échéant",
+   "Dépenses personnelles, y compris shopping et boissons supplémentaires",
+   "Visites ou services supplémentaires non listés",
+   "Tout ce qui n'est pas spécifiquement mentionné dans les inclusions"
+  ]
+ },
+ "from-delhi-private-3-days-luxury-golden-triangle": {
+  "title": "Depuis Delhi : circuit privé de luxe du Triangle d'or de 3 jours",
+  "metaTitle": "Delhi : Triangle d'or de luxe, 3 jours",
+  "metaDescription": "Circuit privé couvrant Delhi, Agra, et Jaipur : le circuit de voyage le plus emblématique de l'Inde.",
+  "shortDescription": "Circuit privé couvrant Delhi, Agra, et Jaipur : le circuit de voyage le plus emblématique de l'Inde.",
+  "fullDescription": "Depuis Delhi : circuit privé de luxe du Triangle d'or de 3 jours. Circuit privé couvrant Delhi, Agra, et Jaipur : le circuit de voyage le plus emblématique de l'Inde.\n\n**Jour 1 : arrivée à Delhi, route vers Agra, et visites**\nVotre voyage de luxe commence par une prise en charge privée à votre hôtel ou à l'aéroport de Delhi dans un véhicule premium. Profitez d'un trajet confortable via l'autoroute Yamuna jusqu'à Agra. À l'arrivée, enregistrement à votre hôtel de luxe, et détente.\n\nPlus tard, visitez le magnifique Taj Mahal, symbole intemporel de l'amour construit par l'empereur Shah Jahan. Continuez vers le grand fort d'Agra, un site du patrimoine mondial de l'UNESCO présentant l'architecture moghole. Terminez votre journée par une vue sur le coucher de soleil sur le Taj Mahal depuis Mehtab Bagh. Nuit à Agra.\n\n**Jour 2 : Agra, Fatehpur Sikri, Jaipur**\nCommencez votre journée par une visite optionnelle du lever de soleil au Taj Mahal pour une expérience magique. Après le petit-déjeuner, route vers Jaipur. En chemin, explorez la capitale moghole abandonnée de Fatehpur Sikri, connue pour ses magnifiques structures en grès rouge comme le Buland Darwaza.\n\nPoursuivez votre voyage vers Jaipur, la vibrante ville rose. À l'arrivée, enregistrement à votre hôtel de luxe. Passez la soirée à votre guise, ou explorez les marchés locaux. Nuit à Jaipur.\n\n**Jour 3 : visite de Jaipur, retour à Delhi**\nAprès le petit-déjeuner, commencez votre visite guidée de Jaipur. Visitez le majestueux fort Amber, où vous pourrez profiter d'une balade à dos d'éléphant ou en jeep jusqu'à l'entrée au sommet de la colline.\n\nPoursuivez vers le magnifique Hawa Mahal (Palais des Vents), suivi de la résidence royale du City Palace de Jaipur. Explorez la merveille astronomique du Jantar Mantar de Jaipur, un autre site classé par l'UNESCO.\n\nAprès les visites, route de retour vers Delhi dans votre véhicule privé. À l'arrivée, vous serez déposé à l'endroit de votre choix, marquant la fin de votre luxueuse expérience du Triangle d'or.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel ou à l'aéroport\nVoiture privée climatisée pour toute l'activité du circuit, avec chauffeur\nGuide touristique professionnel dans chaque ville\nHébergement à l'hôtel pour 2 nuits (si l'option est sélectionnée)\nPetit-déjeuner à l'hôtel\nBouteille d'eau minérale\nTous les péages et frais de stationnement",
+  "highlights": [
+   "Circuit privé couvrant Delhi, Agra, et Jaipur : le circuit de voyage le plus emblématique de l'Inde"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée pour toute l'activité du circuit, avec chauffeur",
+   "Guide touristique professionnel dans chaque ville",
+   "Hébergement à l'hôtel pour 2 nuits (si l'option est sélectionnée)",
+   "Petit-déjeuner à l'hôtel",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Billets d'entrée aux monuments",
+   "Déjeuner et dîner",
+   "Toute dépense personnelle"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
