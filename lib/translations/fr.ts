@@ -472,6 +472,71 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "skip-the-line-taj-mahal-entry-ticket-and-guided": {
+  "title": "Sans file d'attente : billet d'entrée au Taj Mahal et visite guidée",
+  "metaTitle": "Taj Mahal sans file d'attente, billet et visite guidée",
+  "metaDescription": "Sans file d'attente : les billets réservés à l'avance évitent les longues files.",
+  "shortDescription": "Sans file d'attente : les billets réservés à l'avance évitent les longues files.",
+  "fullDescription": "Votre voyage commence par un départ sans tracas, adapté à votre convenance. Si vous sélectionnez l'option de transport, vous profiterez d'une prise en charge privée à votre hôtel ou à tout lieu à Agra ; sinon, vous rencontrerez votre guide expert directement au parking de la porte ouest du Taj Mahal. De là, vous vous dirigerez directement vers l'entrée, évitant les files d'attente notoirement longues du bureau des billets grâce à vos permis d'entrée réservés à l'avance. Votre guide gérera toute la logistique et vous guidera à travers le point de contrôle de sécurité, garantissant que votre temps soit consacré à admirer le monument plutôt qu'à attendre en file.\n\nUne fois à l'intérieur du complexe, vous entreprendrez une exploration approfondie du symbole d'amour le plus célèbre du monde. Votre guide partagera l'histoire fascinante de l'Empire moghol, détaillant la brillance architecturale et le travail complexe de pierre dure qui orne le marbre blanc ivoire. Comme point fort spécial, votre guide vous mènera vers des « endroits cachés » et des points de vue uniques, souvent manqués par le touriste moyen, pour vous aider à capturer les photos parfaites pour Instagram sans les foules. Après avoir profité de la beauté des jardins et du mausolée, la visite se termine par une marche de retour vers la porte ouest ou un dépôt confortable à votre lieu préféré à Agra.",
+  "highlights": [
+   "Sans file d'attente : les billets réservés à l'avance évitent les longues files"
+  ],
+  "included": [
+   "1 bouteille d'eau minérale avec chaque billet (si option sélectionnée)",
+   "Couvre-chaussures (si option sélectionnée)",
+   "Guide touristique agréé parlant anglais pour le Taj Mahal",
+   "Prise en charge et retour (si option sélectionnée)",
+   "Billet d'entrée au Taj Mahal avec le mausolée blanc principal (si option sélectionnée)"
+  ],
+  "notIncluded": [
+   "Pourboires pour le guide touristique",
+   "Frais de caméra aux monuments",
+   "Toute boisson",
+   "Tout ce qui n'est pas mentionné ci-dessus"
+  ]
+ },
+ "taj-mahal-express-entry-tour-skip-the-lines-and": {
+  "title": "Visite du Taj Mahal avec entrée express – évitez les files et gagnez du temps",
+  "metaTitle": "Taj Mahal entrée express, sans file d'attente",
+  "metaDescription": "Profitez d'une entrée express prioritaire à l'emblématique Taj Mahal et évitez les longues files pour les billets.",
+  "shortDescription": "Profitez d'une entrée express prioritaire à l'emblématique Taj Mahal et évitez les longues files pour les billets.",
+  "fullDescription": "**1. Prise en charge à votre hôtel / lieu préféré**\nCommencez votre journée par une prise en charge confortable à votre hôtel à Agra, à la gare, ou à un autre lieu pratique. Rencontrez votre guide professionnel et dirigez-vous directement vers le Taj Mahal pour une visite matinale.\n\n**2. Entrée express au Taj Mahal**\nÉvitez les longues files pour les billets grâce à un accès d'entrée express organisé à l'avance et entrez dans le magnifique Taj Mahal sans délai. Profitez d'une visite guidée de ce monument mondialement célèbre alors que votre guide partage des histoires fascinantes sur l'empereur Shah Jahan, Mumtaz Mahal, et la brillance architecturale du mausolée.\n\n**3. Explorez les jardins du Taj Mahal**\nPrenez le temps de vous promener dans les jardins moghols magnifiquement aménagés, admirez les bassins réfléchissants, et capturez des photos inoubliables depuis les meilleurs points de vue avant l'arrivée des grandes foules.\n\n**4. Visitez le musée du Taj Mahal**\nExplorez le musée situé dans le complexe du Taj Mahal, où vous découvrirez des dessins originaux, des artefacts, et des expositions historiques liées à la construction et à l'héritage du monument.\n\n**5. Temps libre pour la photographie et l'exploration**\nPassez du temps supplémentaire à votre propre rythme à admirer le travail complexe d'incrustation en marbre, l'élégante calligraphie, et l'architecture impressionnante qui font du Taj Mahal l'un des monuments les plus célèbres du monde.\n\n**6. Transfert de retour**\nAprès une visite mémorable, détendez-vous pendant votre transfert confortable de retour vers votre hôtel, la gare, ou votre point de dépôt préféré à Agra.\n\n**7. Fin de la visite**\nVotre expérience du Taj Mahal avec entrée express se termine avec de merveilleux souvenirs, des photographies impressionnantes, et une appréciation plus profonde du monument le plus emblématique de l'Inde.",
+  "highlights": [
+   "Profitez d'une entrée express prioritaire à l'emblématique Taj Mahal et évitez les longues files pour les billets"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel/aéroport",
+   "Voiture privée climatisée pour le transfert avec chauffeur",
+   "Guide touristique expert agréé par le gouvernement",
+   "Billets d'entrée au Taj Mahal (si option sélectionnée)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et le stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "agra-taj-mahal-and-mausoleum-skip-the-line-guided": {
+  "title": "Agra : visite guidée du Taj Mahal et du mausolée sans file d'attente",
+  "metaTitle": "Agra : Taj Mahal et mausolée, sans file d'attente",
+  "metaDescription": "Évitez les longues files grâce à une entrée prioritaire à l'emblématique Taj Mahal.",
+  "shortDescription": "Évitez les longues files grâce à une entrée prioritaire à l'emblématique Taj Mahal.",
+  "fullDescription": "**1. Prise en charge à l'hôtel**\nCommencez votre expérience par une prise en charge pratique à votre hôtel, à la gare, ou à tout lieu préféré à Agra. Rencontrez votre chauffeur professionnel et votre guide local expert avant de vous diriger vers le monument le plus emblématique de la ville.\n\n**2. Entrée sans file d'attente au Taj Mahal**\nArrivez au Taj Mahal et évitez les longues files pour les billets grâce à votre entrée sans file organisée à l'avance. Votre guide compétent partagera des histoires fascinantes sur l'empereur Shah Jahan, Mumtaz Mahal, l'architecture moghole à couper le souffle du monument, le travail complexe d'incrustation en marbre, et l'histoire d'amour intemporelle derrière ce site du patrimoine mondial de l'UNESCO.\n\nProfitez d'amplement de temps pour admirer le monument depuis ses meilleurs points de vue, explorer les jardins luxuriants, et capturer des photos mémorables.\n\n**3. Visitez le mausolée principal**\nContinuez à l'intérieur du magnifique mausolée en marbre, où vous verrez les cénotaphes magnifiquement sculptés de Shah Jahan et Mumtaz Mahal. Découvrez l'artisanat exquis, les sculptures délicates, et les techniques d'ingénierie remarquables qui ont préservé ce chef-d'œuvre pendant des siècles.\n\n**4. Promenade guidée autour du complexe**\nPromenez-vous à travers les jardins environnants, les bassins réfléchissants, la mosquée, et la maison d'hôtes tandis que votre guide explique le symbolisme, l'histoire, et les détails architecturaux qui font du Taj Mahal l'une des Sept Merveilles du Monde.\n\n**5. Temps libre pour la photographie**\nProfitez de temps libre pour capturer des photos impressionnantes depuis les endroits les plus pittoresques du monument ou simplement profiter de l'atmosphère paisible à votre propre rythme.\n\n**6. Transfert de retour confortable**\nAprès la fin de votre visite guidée, détendez-vous pendant votre transfert privé de retour vers votre hôtel, la gare, l'aéroport, ou tout lieu préféré à Agra, marquant la fin d'une expérience inoubliable au Taj Mahal.",
+  "highlights": [
+   "Évitez les longues files grâce à une entrée prioritaire à l'emblématique Taj Mahal"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel/aéroport",
+   "Voiture privée climatisée pour la visite avec chauffeur",
+   "Guide touristique expert agréé par le gouvernement",
+   "Billets d'entrée au Taj Mahal (si option sélectionnée)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et le stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
