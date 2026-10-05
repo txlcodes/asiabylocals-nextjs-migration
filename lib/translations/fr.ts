@@ -24044,6 +24044,82 @@ export const FR_TOURS: Record<string, TourT> = {
    "Repas"
   ]
  },
+ "delhi-evening-food-tourdiscover-where-locals-eat": {
+  "title": "Delhi : visite culinaire en soirée : découvrez où mangent les habitants après la tombée de la nuit",
+  "metaTitle": "Delhi : visite culinaire du soir, street food",
+  "metaDescription": "Goûtez 8 à 10 spécialités authentiques de street food de Delhi",
+  "shortDescription": "Goûtez 8 à 10 spécialités authentiques de street food de Delhi",
+  "fullDescription": "Delhi : visite culinaire en soirée : découvrez où mangent les habitants après la tombée de la nuit. Goûtez 8 à 10 spécialités authentiques de street food de Delhi.\n\nDécouvrez un visage totalement différent de Delhi lors de cette immersive visite culinaire en soirée à travers les rues animées du sud de Delhi.\n\nAlors que de nombreux visiteurs explorent les ruelles culinaires historiques du Vieux Delhi, cette expérience vous emmène là où les habitants passent réellement leurs soirées. Flânez dans le marché coloré de Lajpat Nagar, l'un des quartiers les plus animés de Delhi, et découvrez les saveurs authentiques qui définissent la culture moderne de la street food de la ville.\n\nVotre voyage culinaire commence avec le Ram Laddu, l'un des en-cas de rue les plus anciens et les plus appréciés de Delhi. Bien que son nom évoque un dessert, il s'agit en fait de beignets croustillants de lentilles garnis de radis râpé et de chutneys acidulés, un véritable favori local.\n\nEn continuant à explorer le marché animé, vous goûterez une variété de street foods emblématiques de Delhi, notamment des chaats savoureux, les légendaires momos à la delhite, les célèbres Chole Bhature de la ville, de la shawarma juteuse, des rolls fraîchement préparés, et vous terminerez par un dessert indien traditionnel tel que le kulfi, le rasmalai, ou le gulab jamun.\n\nBien plus qu'une simple visite culinaire, cette expérience offre un aperçu de la vie quotidienne dans le sud de Delhi. Découvrez les traditions locales, l'histoire culinaire, la culture de quartier, et les histoires derrière chaque plat, tout en découvrant des trésors culinaires cachés que la plupart des visiteurs ne trouvent jamais par eux-mêmes.\n\nQue vous visitiez Delhi pour la première fois ou que vous y reveniez pour explorer au-delà des attractions habituelles, cette promenade culinaire du soir est la façon idéale de découvrir l'incroyable diversité culinaire de la ville.\n\n**Ce qui est inclus**\nToutes les dégustations culinaires\nToutes les boissons comme le lassi, le thé, ou l'eau\nFrais de guide\n\n**Non inclus**\nPourboires pour le guide\nDépenses personnelles telles que le shopping, les tickets de métro, Uber, les en-cas, etc.\nServices non mentionnés ou non promis par l'agent/l'agence\nVotre assurance voyage et médicale\nFrais d'urgence",
+  "highlights": [
+   "Goûtez 8 à 10 spécialités authentiques de street food de Delhi"
+  ],
+  "included": [
+   "Toutes les dégustations culinaires",
+   "Toutes les boissons comme le lassi, le thé, ou l'eau",
+   "Frais de guide"
+  ],
+  "notIncluded": [
+   "Pourboires pour le guide",
+   "Dépenses personnelles telles que le shopping, les tickets de métro, Uber, les en-cas, etc.",
+   "Services non mentionnés ou non promis par l'agent/l'agence",
+   "Votre assurance voyage et médicale",
+   "Frais d'urgence"
+  ]
+ },
+ "new-delhi-private-day-trip-with-guide-and-driver": {
+  "title": "New Delhi : excursion privée d'une journée avec guide et chauffeur",
+  "metaTitle": "New Delhi : excursion privée, guide et chauffeur",
+  "metaDescription": "Découvrez l'histoire et l'importance architecturale du Qutub Minar et des autres principaux sites du Vieux et du New Delhi.",
+  "shortDescription": "Découvrez l'histoire et l'importance architecturale du Qutub Minar et des autres principaux sites du Vieux et du New Delhi.",
+  "fullDescription": "New Delhi : excursion privée d'une journée avec guide et chauffeur. Découvrez l'histoire et l'importance architecturale du Qutub Minar.\n\n**Itinéraire de l'excursion d'une journée à New Delhi :**\n\n**Matin** – Votre chauffeur et guide privés viendront vous chercher à votre hôtel/aéroport à Delhi dans une voiture confortable et climatisée.\n\n**Qutub Minar** : commencez par ce site du patrimoine mondial de l'UNESCO, l'un des plus hauts minarets en briques du monde. Votre guide partage l'histoire et l'architecture de ce monument du XIIe siècle.\n**Tombe de Humayun** : visitez ensuite cette magnifique tombe de l'époque moghole datant de 1565, l'une des premières tombes-jardins au monde, dont le design a plus tard inspiré le Taj Mahal.\n**Temple du Lotus** : continuez vers le paisible temple du Lotus en forme de fleur, un espace de calme ouvert à toutes les confessions pour la réflexion tranquille.\n\n**Après-midi** – Faites une pause déjeuner dans un restaurant local, votre guide se fera un plaisir de vous recommander un ou deux plats à essayer.\n\n**Chandni Chowk** : promenez-vous dans l'un des marchés les plus anciens et les plus animés de Delhi, rempli de boutiques, d'épices, et d'échoppes de street food.\n**Raj Ghat** : visitez ce mémorial paisible dédié au Mahatma Gandhi, marquant le lieu de sa crémation.\n**India Gate** : terminez votre journée par ce mémorial de guerre emblématique, avec du temps pour flâner dans les jardins environnants.\n\nEn chemin, vous passerez également devant le Parlement et le Rashtrapati Bhavan (résidence présidentielle), avec l'occasion d'admirer l'architecture depuis la voiture.\nRetour à votre hôtel à Delhi en soirée, à la fin d'une journée complète de visites.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel\nGuide touristique privé\nBouteilles d'eau tout au long de la visite\nVéhicule privé climatisé\nTransport en voiture privée climatisée\nToutes les taxes, frais, et frais de gestion\nSupplément carburant\nTPS (taxe sur les produits et services)\nAttention et soin personnalisés\n\n**Non inclus**\nRepas\nBillets d'entrée",
+  "highlights": [
+   "Découvrez l'histoire et l'importance architecturale du Qutub Minar",
+   "Explorez le New et le Vieux Delhi avec un guide officiel et une voiture",
+   "Visite privée et personnalisée"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Guide touristique privé",
+   "Bouteilles d'eau tout au long de la visite",
+   "Véhicule privé climatisé",
+   "Transport en voiture privée climatisée",
+   "Toutes les taxes, frais, et frais de gestion",
+   "Supplément carburant",
+   "TPS (taxe sur les produits et services)",
+   "Attention et soin personnalisés"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Billets d'entrée"
+  ]
+ },
+ "delhi-historical-highlights-full-day-guided-tour": {
+  "title": "Delhi : visite guidée des incontournables historiques sur une journée complète",
+  "metaTitle": "Delhi : incontournables historiques, journée complète",
+  "metaDescription": "Remontez le temps pour explorer le majestueux Fort Rouge, site du patrimoine mondial de l'UNESCO",
+  "shortDescription": "Remontez le temps pour explorer le majestueux Fort Rouge, site du patrimoine mondial de l'UNESCO",
+  "fullDescription": "Delhi : visite guidée des incontournables historiques sur une journée complète. Remontez le temps pour explorer le majestueux Fort Rouge, site du patrimoine mondial de l'UNESCO.\n\nExplorez la riche histoire et la culture vibrante de Delhi avec cette visite des incontournables historiques, soigneusement élaborée. Ce voyage d'une journée complète couvre des sites emblématiques, mettant en valeur les merveilles architecturales de la capitale et ses marchés animés, avec un mélange de splendeur moghole et d'élégance coloniale. Des forts majestueux aux jardins paisibles, chaque site raconte une histoire unique du passé de l'Inde.\n\nCommencez votre visite au majestueux Fort Rouge, site du patrimoine mondial de l'UNESCO et symbole de la riche histoire de l'Inde. Construit par l'empereur Shah Jahan en 1648, le Fort Rouge est un superbe exemple d'architecture moghole, fait de grès rouge qui s'illumine sous le soleil du matin.\n\nEnsuite, dirigez-vous vers la Jama Masjid, l'une des plus grandes mosquées d'Inde, construite par Shah Jahan entre 1650 et 1656. Cette magnifique mosquée peut accueillir plus de 25 000 fidèles et affiche un superbe mélange de grès rouge et de marbre blanc. Sa vaste cour, ses dômes impressionnants, et ses minarets imposants offrent des vues panoramiques sur le Vieux Delhi.\nDepuis la Jama Masjid, promenez-vous dans les ruelles animées de Chandni Chowk, l'un des marchés les plus anciens et les plus animés de Delhi. Aujourd'hui, c'est une explosion sensorielle de vues, de sons, et d'odeurs, avec des boutiques vendant tout, des épices et bijoux aux textiles et à la street food.\n\nPour le déjeuner, plongez dans les délices culinaires de Paranthe Wali Gali, situé au cœur de Chandni Chowk. Cette ruelle étroite est célèbre pour ses délicieux paranthas farcis, un type de pain plat indien. Savourez ces paranthas croustillants et beurrés, farcis d'une variété de garnitures, de la pomme de terre et du paneer à des options plus inhabituelles comme le rabri et la banane.\n\nAprès le déjeuner, visitez la tombe de Humayun, un autre site du patrimoine mondial de l'UNESCO et précurseur du Taj Mahal. Construite en 1570 par l'impératrice Bega Begum pour son époux l'empereur Humayun, cette magnifique tombe est un chef-d'œuvre de l'architecture moghole, avec des éléments de design d'influence persane.\n\nEnsuite, dirigez-vous vers la tombe de Safdarjung, la dernière tombe-jardin monumentale des Moghols, construite en 1754 pour le Nawab Safdarjung. Souvent considérée comme « la dernière lueur dans la lampe de l'architecture moghole », cette tombe est plus petite mais tout aussi impressionnante, avec un charme légèrement mélancolique.\n\nTerminez votre après-midi par une promenade tranquille dans le jardin Lodhi, un parc verdoyant parsemé de tombes et de structures historiques des dynasties Lodhi et Sayyid. Ce jardin de 90 acres, un lieu prisé des habitants, est une oasis de calme au cœur de l'agitation de la ville. Le parc abrite les tombes de dirigeants notables tels que Muhammad Shah et Sikandar Lodi, chacune présentant une belle architecture indo-islamique.\n\nAlors que le soleil se couche, visitez India Gate, un mémorial de guerre emblématique dédié aux 82 000 soldats indiens morts pendant la Première Guerre mondiale et d'autres conflits. Cette arche imposante, rappelant l'Arc de Triomphe de Paris, se dresse au cœur de New Delhi.\n\nTerminez votre journée à Connaught Place, l'un des pôles commerciaux les plus animés et historiques de Delhi. Ce marché circulaire, conçu dans un style colonial grandiose, abrite un mélange de boutiques haut de gamme, de vendeurs de rue, de restaurants, et de cafés.\n\n**Ce qui est inclus**\nEntrée au Fort Rouge\nEntrée à la Jama Masjid\nVisite guidée de Chandni Chowk\nDéjeuner à Paranthe Wali Gali\nEntrée à la tombe de Humayun\nEntrée à la tombe de Safdarjung\nVisite du jardin Lodhi\nVisite d'India Gate\nPrise en charge et retour à l'hôtel\nEau\nGuide\n\n**Non inclus**\nPourboires\nDépenses personnelles",
+  "highlights": [
+   "Remontez le temps pour explorer le majestueux Fort Rouge, site du patrimoine mondial de l'UNESCO"
+  ],
+  "included": [
+   "Entrée au Fort Rouge",
+   "Entrée à la Jama Masjid",
+   "Visite guidée de Chandni Chowk",
+   "Déjeuner à Paranthe Wali Gali",
+   "Entrée à la tombe de Humayun",
+   "Entrée à la tombe de Safdarjung",
+   "Visite du jardin Lodhi",
+   "Visite d'India Gate",
+   "Prise en charge et retour à l'hôtel",
+   "Eau",
+   "Guide"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Dépenses personnelles"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
