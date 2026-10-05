@@ -21575,6 +21575,81 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben"
   ]
  },
+ "delhis-temples-and-spiritual-sites-day-tour": {
+  "title": "Tagestour zu Delhis Tempeln und spirituellen Stätten",
+  "metaTitle": "Delhi: Tempel und spirituelle Stätten",
+  "metaDescription": "Erkunden Sie den Akshardham-Tempel.",
+  "shortDescription": "Erkunden Sie den Akshardham-Tempel.",
+  "fullDescription": "Tagestour zu Delhis Tempeln und spirituellen Stätten. Erkunden Sie den Akshardham-Tempel.\n\n**Morgen**\n\nAkshardham-Tempel:\nBeginnen Sie Ihren Tag früh mit einem Besuch des prächtigen Akshardham-Tempels. Es ist ein atemberaubendes architektonisches Wunder und ein Zentrum spiritueller Aktivitäten. Nehmen Sie sich Zeit, um das kunstvoll geschnitzte Mandir, den Yagnapurush Kund, und die Sahaj-Anand-Wassershow zu erkunden.\n\nLotustempel:\nNach dem Besuch von Akshardham geht es weiter zum Lotustempel, auch bekannt als Bahá'í-Andachtshaus. Dieser lotusförmige Tempel ist ein Symbol für Einheit und Frieden. Verbringen Sie einige ruhige Momente in Meditation oder Reflexion in der friedlichen Umgebung.\n\nMittagspause:\nGenießen Sie ein traditionelles nordindisches Mittagessen in einem örtlichen Restaurant. Delhi ist berühmt für seine vielfältigen kulinarischen Angebote, also probieren Sie unbedingt einige köstliche indische Gerichte.\n\n**Nachmittag**\n\nJama Masjid:\nNach dem Mittagessen geht es zur Jama Masjid, einer der größten Moscheen Indiens. Erkunden Sie die atemberaubende Architektur, und besteigen Sie das Minarett für Panoramablicke auf Alt-Delhi.\n\nRaj Ghat:\nBesuchen Sie Raj Ghat, ein schlichtes Denkmal für Mahatma Gandhi, den Vater der Nation. Es ist ein friedlicher Ort für Reflexion und um seinem Erbe Tribut zu zollen.\n\n**Abend**\n\nGurudwara Bangla Sahib:\nIhr nächster Halt kann der Gurudwara Bangla Sahib sein, ein bedeutender Sikh-Tempel, bekannt für seine schöne Architektur und das kostenlose Langar (Gemeinschaftsküche), das täglich Tausenden von Menschen Mahlzeiten serviert. Nehmen Sie am Langar teil, und lernen Sie die Sikh-Prinzipien von Dienst und Gleichheit kennen.\n\nISKCON-Tempel:\nBeenden Sie Ihren Tag mit einem Besuch des ISKCON-Tempels (Internationale Gesellschaft für Krishna-Bewusstsein). Dieser Tempel ist Lord Krishna gewidmet, und bietet eine friedliche Atmosphäre für Meditation und Hingabe.\n\nTon- und Lichtshow am Red Fort:\nWenn Sie am Abend noch etwas Zeit haben, erwägen Sie den Besuch der Ton- und Lichtshow am Red Fort. Es ist eine fesselnde Art, mehr über Delhis Geschichte zu erfahren. Denken Sie daran, sich beim Besuch religiöser Stätten bescheiden und respektvoll zu kleiden, Schultern und Beine zu bedecken, und vor dem Betreten bestimmter Bereiche die Schuhe auszuziehen. Überprüfen Sie außerdem vor Ihrem Besuch die Öffnungszeiten und spezifische Richtlinien oder Einschränkungen für jede Stätte. Genießen Sie Ihre spirituelle Reise durch Delhi!\n\n**Was ist enthalten**\nAbholung und Rückfahrt\nPrivates klimatisiertes Auto für die gesamte Touraktivität\nLive-Reiseführer\nMineralwasserflasche\nAlle Mautgebühren und Parkkosten\n\n**Nicht enthalten**\nEintrittskarten für Denkmäler\nEssen\nJegliche persönliche Ausgaben",
+  "highlights": [
+   "Erkunden Sie den Akshardham-Tempel"
+  ],
+  "included": [
+   "Abholung und Rückfahrt",
+   "Privates klimatisiertes Auto für die gesamte Touraktivität",
+   "Live-Reiseführer",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parkkosten"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für Denkmäler",
+   "Essen",
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "delhis-safest-ai-cooking-class-much-more-in-a": {
+  "title": "Delhis sicherstes Erlebnis: Kochkurs und vieles mehr in einem örtlichen Zuhause",
+  "metaTitle": "Delhi: Kochkurs in einem örtlichen Zuhause",
+  "metaDescription": "Genießen Sie ein sicheres Erlebnis, auch für alleinreisende Frauen.",
+  "shortDescription": "Genießen Sie ein sicheres Erlebnis, auch für alleinreisende Frauen.",
+  "fullDescription": "Delhis sicherstes Erlebnis: Kochkurs und vieles mehr in einem örtlichen Zuhause. Genießen Sie ein sicheres Erlebnis, auch für alleinreisende Frauen.\n\nGastgeberin ist die Guide Nidhi und ihr Ehemann, ein seit über 28 Jahren glücklich verheiratetes Paar. Diese Tour öffnet die Türen zu einem wunderschönen, sicheren örtlichen Familienhaus in Delhi, wo Ihnen diese Tour mit der Wärme und Großzügigkeit authentischer indischer Gastfreundschaft geboten wird. Vom Moment Ihrer Ankunft an fühlen Sie sich super sicher, bequem wohl, und herzlich willkommen in ihrem Leben, während Sie eine köstliche Mahlzeit beim Frühstück, Mittag- oder Abendessen genießen.\n\nDie Guide versteht, dass die Ernährungsbedürfnisse und Vorlieben jedes Menschen einzigartig sind. Das Ziel ist sicherzustellen, dass Sie sich während Ihres gesamten Erlebnisses einbezogen und umsorgt fühlen. Daher kann die Guide während des Erlebnisses auch eine vegane, laktosefreie, oder glutenfreie Ernährung anbieten.\n\nReisen Sie mit vollem Vertrauen zum Zuhause der Guide, in dem Wissen, dass Sie sich in einer sicheren und unterstützenden Umgebung befinden. Die Guide priorisiert den Komfort und die Sicherheit aller Gäste, besonders alleinreisender Frauen, und bietet ein friedliches und stärkendes Erlebnis.\n\n**Reiseplan**\n\n1. Bei der Ankunft erhalten Sie eine traditionelle indische Begrüßung mit Maala, Kalava, und Teeka.\n\n2. Danach bereiten Sie zusammen mit der Guide Masala Chai (Gewürztee) zu. Sie erfahren, warum Masala Chai ein heiliges Getränk voller Liebe, Gesundheit, Geschmack, und Sünde ist!\n\n3. Hauptmahlzeit: Kochen und genießen Sie frisch zubereitete beliebte indische vegetarische Gerichte und Brote (Roti, Parantha, oder Poori). Die Gerichte werden Ihnen nach der Buchung vorgeschlagen. Sie können zustimmen, oder alternative Gerichte vorschlagen.\n\n4. Nehmen Sie an einem unterhaltsamen Quiz oder Zahlenspiel teil, um mehr über Indien zu erfahren.\n\n5. Dessert: Bereiten Sie leckeres Rava Kesri Halwa oder Nariyal Ladoos mit Kuh-Ghee und Safran zu. Sie erhalten Einblicke in Safran, das teuerste Gewürz der Welt!\n\n**Besondere Merkmale dieses Erlebnisses**\n\nEntdecken Sie das kulinarische Erbe und die kulturellen Werte Indiens, nicht nur beschränkt auf Essen.\n\nLernen Sie einige nützliche Hindi-Wörter und Sätze in einer unterhaltsamen Aktivität.\n\nSitzen, reden, und entspannen Sie, während Sie die Kultur des jeweils anderen kennenlernen.\n\nBesuchen Sie einen heiligen Hindu-Tempel im Zuhause der Guide.\n\nErhalten Sie die Gelegenheit, mit einer indischen Familie statt mit einer Einzelperson zu interagieren.\n\nGenießen Sie unbegrenztes Wasser in Flaschen zum Trinken.\n\nErhalten Sie kostenlosen Zugang zu superschnellem WLAN im Zuhause der Guide.\n\nErhalten Sie Rezepte aller während des Erlebnisses gekochten Gerichte.\n\nBei diesem Erlebnis geht es jedoch nicht nur um Essen. Sie können mehrere Aktivitäten (Bollywood-Tanz, Yoga-Kurs, Geschichtsunterricht, Henna, Besuch eines Kuhstalls, Meditation, Besuch eines örtlichen Marktes, 108 Einblicke, Malerei, oder Sari-Drapieren) während des Erlebnisses im Zuhause der Guide ausüben, deren Details Ihnen von der Guide nach der Buchung mitgeteilt werden.\n\nWenn Sie an diesem Erlebnis teilnehmen, durchbrechen Sie kulturelle Barrieren, und schmieden bedeutungsvolle Verbindungen mit den örtlichen Menschen in Delhi. Sie genießen uneingeschränkte Interaktionen, stellen Fragen, und erfahren mehr über den Alltag, die Bräuche, und die Geschichte der Inder, wodurch unvergessliche Erinnerungen und Freundschaften entstehen.\n\nEntdecken Sie ein wahrhaft einzigartiges Erlebnis, das auf dieser wunderbaren Plattform hell erstrahlt!\n\n**Was ist enthalten**\nDessert\nHauptmahlzeit\nSchürzen und Handtücher\nHighspeed-5G-WLAN\nUnbegrenztes Wasser in Flaschen\nSaubere und hygienische Toilette\nEin besonderes Souvenir aus Indien\nBegrüßungsgetränk (Masala Chai)\nRezepte mehrerer indischer Gerichte, Getränke, und Desserts\nMobiler Ladeanschluss und Kabel mit allen Steckertypen\nIndividuelle Feiern für Geburtstage oder Jubiläen\n\n**Nicht enthalten**\nAlkoholische Getränke\nTrinkgelder und Gratifikationen\nNicht-vegetarische Mahlzeiten\nAbholung und Rückfahrt zum Hotel\nReise- und Krankenversicherungen",
+  "highlights": [
+   "Genießen Sie ein sicheres Erlebnis, auch für alleinreisende Frauen"
+  ],
+  "included": [
+   "Dessert",
+   "Hauptmahlzeit",
+   "Schürzen und Handtücher",
+   "Highspeed-5G-WLAN",
+   "Unbegrenztes Wasser in Flaschen",
+   "Saubere und hygienische Toilette",
+   "Ein besonderes Souvenir aus Indien",
+   "Begrüßungsgetränk (Masala Chai)",
+   "Rezepte mehrerer indischer Gerichte, Getränke, und Desserts",
+   "Mobiler Ladeanschluss und Kabel mit allen Steckertypen",
+   "Individuelle Feiern für Geburtstage oder Jubiläen"
+  ],
+  "notIncluded": [
+   "Alkoholische Getränke",
+   "Trinkgelder und Gratifikationen",
+   "Nicht-vegetarische Mahlzeiten",
+   "Abholung und Rückfahrt zum Hotel",
+   "Reise- und Krankenversicherungen"
+  ]
+ },
+ "delhi-new-and-old-self-itinerary-full-day-or": {
+  "title": "Delhi: eigener Reiseplan nach Wahl, New und Alt-Delhi, ganzer oder halber Tag",
+  "metaTitle": "Delhi: New und Alt-Delhi nach Wahl",
+  "metaDescription": "Ikonische Mogul-Architektur.",
+  "shortDescription": "Ikonische Mogul-Architektur.",
+  "fullDescription": "Delhi: eigener Reiseplan nach Wahl, New und Alt-Delhi, ganzer oder halber Tag. Ikonische Mogul-Architektur.\n\nBegeben Sie sich auf eine private Tour, die nahtlos das Beste von Alt- und New Delhi verbindet, und so einen ganztägigen Einblick in die indische Geschichte und Kultur mit Ihrem kenntnisreichen Guide gewährleistet.\n\nIhr Tag beginnt mit einer bequemen Abholung von Ihrer Unterkunft oder direkt vom Flughafen in einem klimatisierten Fahrzeug. Während der Fahrt gibt Ihnen Ihr Guide Einblicke in die Sehenswürdigkeiten, denen Sie begegnen werden. Ihr erster Halt ist die Jama Masjid, die größte Moschee Indiens, wo Sie ihre Erhabenheit und Bedeutung erkunden, während Ihr Guide ihre Geschichte erzählt.\n\nAls Nächstes tauchen Sie ein in die lebendige Atmosphäre von Chandni Chowk, einem der ältesten Märkte Delhis, voller Farben und Aromen. Entscheiden Sie sich für eine inkludierte Rikscha-Fahrt durch seine engen Straßen, wo Sie Gelegenheit haben, den belebten Gewürzmarkt zu erkunden.\n\nSetzen Sie Ihre Reise zum Gurudwara Bangla Sahib fort, einer Sikh-Gebetsstätte, wo Sie mehr über die Sikh-Religion erfahren, und das unglaubliche Ausmaß seiner Spendenküche erleben, die täglich Tausende von Mahlzeiten serviert.\n\nIhre Erkundung führt Sie dann zum Grabmal des Kaisers Humayun aus dem 16. Jahrhundert, einer UNESCO-Weltkulturerbestätte, gefolgt von einer Vorbeifahrt am India Gate, einem bedeutenden Kriegsdenkmal. Obwohl das Mittagessen nicht enthalten ist, kann Ihr Guide Ihnen nordindische und Mughlai-Restaurants empfehlen, um authentische Küche zu erleben.\n\nNach dem Mittagessen fahren Sie am Parlamentsgebäude und am Präsidentenpalast vorbei für einen Einblick in Delhis moderne Regierungsstrukturen. Dann staunen Sie über die antike Schönheit von Qutub Minar, dem höchsten Backsteinminarett der Welt, bevor Sie den Lotustempel besuchen, ein Symbol für Einheit und Frieden im Bahá'í-Glauben, und den Akshardham-Tempel, der hinduistische architektonische Brillanz zeigt.\n\nBeenden Sie Ihren bereichernden Tag, während Ihr Fahrer Sie zurück zu Ihrem Hotel oder zum Flughafen bringt, und Sie mit bleibenden Erinnerungen an Delhis reiches Gewebe aus Geschichte, Kultur, und Spiritualität zurücklässt.\n\n**Was ist enthalten**\nAlle Transfers in einem klimatisierten Fahrzeug\nÖrtlicher englischsprachiger Guide in Delhi\nRikscha-Fahrt/Tuk-Tuk-Fahrt\n1 Flasche Mineralwasser pro Person und Tag\n\n**Nicht enthalten**\nEintrittsgebühren zu Denkmälern\nVisagebühr (falls zutreffend)\nInternationale/innerstaatliche Flüge zum/vom Beginn/Ende der Reise\nGetränke außer Trinkwasser, und jegliche Kosten persönlicher Natur\nTrinkgelder (immer optional, aber einige Hinweise werden in den Informationen vor der Abreise gegeben, die Sie nach der Buchung erhalten)",
+  "highlights": [
+   "Ikonische Mogul-Architektur"
+  ],
+  "included": [
+   "Alle Transfers in einem klimatisierten Fahrzeug",
+   "Örtlicher englischsprachiger Guide in Delhi",
+   "Rikscha-Fahrt/Tuk-Tuk-Fahrt",
+   "1 Flasche Mineralwasser pro Person und Tag"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren zu Denkmälern",
+   "Visagebühr (falls zutreffend)",
+   "Internationale/innerstaatliche Flüge zum/vom Beginn/Ende der Reise",
+   "Getränke außer Trinkwasser, und jegliche Kosten persönlicher Natur",
+   "Trinkgelder (immer optional, aber einige Hinweise werden in den Informationen vor der Abreise gegeben, die Sie nach der Buchung erhalten)"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

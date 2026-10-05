@@ -21575,6 +21575,81 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "delhis-temples-and-spiritual-sites-day-tour": {
+  "title": "Tour de un día por los templos y sitios espirituales de Delhi",
+  "metaTitle": "Delhi: templos y sitios espirituales",
+  "metaDescription": "Explore el templo Akshardham.",
+  "shortDescription": "Explore el templo Akshardham.",
+  "fullDescription": "Tour de un día por los templos y sitios espirituales de Delhi. Explore el templo Akshardham.\n\n**Mañana**\n\nTemplo Akshardham:\nComience su día temprano visitando el magnífico templo Akshardham. Es una impresionante maravilla arquitectónica, y un centro de actividades espirituales. Tómese su tiempo para explorar el mandir intrincadamente esculpido, el Yagnapurush Kund, y el Espectáculo de Agua Sahaj Anand.\n\nTemplo del Loto:\nDespués de visitar Akshardham, diríjase al Templo del Loto, también conocido como la Casa de Adoración Bahá'í. Este templo en forma de loto es un símbolo de unidad y paz. Pase algunos momentos tranquilos en meditación o reflexión en el sereno entorno.\n\nPausa para el almuerzo:\nDisfrute de un almuerzo tradicional del norte de la India en un restaurante local. Delhi es famosa por su diversa oferta culinaria, así que asegúrese de probar algunos deliciosos platos indios.\n\n**Tarde**\n\nJama Masjid:\nDespués del almuerzo, diríjase a la Jama Masjid, una de las mezquitas más grandes de la India. Explore su impresionante arquitectura, y suba al minarete para disfrutar de vistas panorámicas de la Vieja Delhi.\n\nRaj Ghat:\nVisite Raj Ghat, un sencillo monumento a Mahatma Gandhi, el padre de la nación. Es un lugar tranquilo para la reflexión y para rendir homenaje a su legado.\n\n**Noche**\n\nGurudwara Bangla Sahib:\nSu próxima parada puede ser el Gurudwara Bangla Sahib, un prominente templo sij conocido por su hermosa arquitectura y su langar gratuito (cocina comunitaria) que sirve comidas a miles de personas diariamente. Participe en el langar, y aprenda sobre los principios sijs de servicio e igualdad.\n\nTemplo ISKCON:\nTermine su día con una visita al templo ISKCON (Sociedad Internacional para la Conciencia de Krishna). Este templo está dedicado al Señor Krishna, y ofrece un ambiente sereno para la meditación y la devoción.\n\nEspectáculo de luz y sonido en el Fuerte Rojo:\nSi tiene algo de tiempo extra por la noche, considere asistir al espectáculo de luz y sonido en el Fuerte Rojo. Es una forma cautivadora de aprender sobre la historia de Delhi. Recuerde vestirse de manera modesta y respetuosa al visitar sitios religiosos, cubriendo sus hombros y piernas, y quitándose los zapatos antes de entrar en ciertas áreas. También, verifique los horarios de apertura y cualquier pauta o restricción específica para cada sitio antes de su visita. ¡Disfrute de su viaje espiritual por Delhi!\n\n**Qué incluye**\nRecogida y regreso\nAuto privado con aire acondicionado para toda la actividad del tour\nGuía turístico en vivo\nBotella de agua mineral\nTodos los peajes y el estacionamiento\n\n**No incluye**\nEntradas a monumentos\nComida\nCualquier gasto personal",
+  "highlights": [
+   "Explore el templo Akshardham"
+  ],
+  "included": [
+   "Recogida y regreso",
+   "Auto privado con aire acondicionado para toda la actividad del tour",
+   "Guía turístico en vivo",
+   "Botella de agua mineral",
+   "Todos los peajes y el estacionamiento"
+  ],
+  "notIncluded": [
+   "Entradas a monumentos",
+   "Comida",
+   "Cualquier gasto personal"
+  ]
+ },
+ "delhis-safest-ai-cooking-class-much-more-in-a": {
+  "title": "La experiencia más segura de Delhi: clase de cocina y mucho más en un hogar local",
+  "metaTitle": "Delhi: clase de cocina en un hogar local",
+  "metaDescription": "Disfrute de una experiencia segura, incluso para viajeras solas.",
+  "shortDescription": "Disfrute de una experiencia segura, incluso para viajeras solas.",
+  "fullDescription": "La experiencia más segura de Delhi: clase de cocina y mucho más en un hogar local. Disfrute de una experiencia segura, incluso para viajeras solas.\n\nOrganizada por la guía Nidhi y su esposo, una pareja felizmente casada desde hace más de 28 años, este tour abre las puertas a un hermoso y seguro hogar familiar local en Delhi, donde este tour le será ofrecido con la calidez y generosidad de la auténtica hospitalidad india. Desde el momento en que llegue, se sentirá súper seguro, cómodo, y cálidamente bienvenido a sus vidas, mientras disfruta de una deliciosa comida en el desayuno, almuerzo, o cena.\n\nLa guía entiende que las necesidades y preferencias dietéticas de cada persona son únicas. El objetivo es asegurarse de que se sienta incluido y atendido durante toda su experiencia. Por lo tanto, la guía también puede ofrecer dieta vegana, sin lactosa, o sin gluten durante la experiencia.\n\nViaje con total confianza al hogar de la guía, sabiendo que está en un entorno seguro y de apoyo. La guía prioriza la comodidad y la seguridad de todos los huéspedes, especialmente las viajeras solas, ofreciendo una experiencia pacífica y empoderadora.\n\n**Itinerario**\n\n1. Al llegar, recibirá una bienvenida tradicional india con Maala, Kalava, y Teeka.\n\n2. Después, preparará Masala Chai (té de especias) junto con la guía. Aprenderá por qué el Masala Chai es una bebida sagrada llena de amor, salud, sabor, ¡y pecado!\n\n3. Plato principal: cocine y disfrute de populares platos vegetarianos indios recién preparados, y panes (roti, parantha, o poori). Los platos se le sugerirán después de la reserva. Puede aceptarlos, o sugerir platos alternativos.\n\n4. Participe en un divertido cuestionario o juego de números para conocer más sobre la India.\n\n5. Postre: prepare un sabroso Rava Kesri Halwa o Nariyal Ladoos con ghee de vaca y azafrán. Obtendrá información sobre el azafrán, ¡la especia más cara del mundo!\n\n**Características especiales de esta experiencia**\n\nDescubra el patrimonio culinario y los valores culturales de la India, no solo limitados a la comida.\n\nAprenda algunas palabras y frases útiles en hindi en una actividad divertida.\n\nSiéntese, converse, y relájese mientras conoce la cultura del otro.\n\nVisite un sagrado templo hindú en el hogar de la guía.\n\nTenga la oportunidad de interactuar con una familia india en lugar de con un individuo.\n\nDisfrute de agua embotellada ilimitada para beber.\n\nObtenga acceso gratuito a wifi súper rápido en el hogar de la guía.\n\nReciba las recetas de todos los platos cocinados durante la experiencia.\n\nEsta experiencia no se trata solo de comida. Puede realizar varias actividades (baile de Bollywood, clase de yoga, lección de historia, henna, visita a un establo de vacas, meditación, visita a un mercado local, 108 perspectivas, pintura, o drapeado de sari) durante la experiencia en el hogar de la guía, cuyos detalles serán compartidos por la guía con los huéspedes después de la reserva.\n\nAl participar en esta experiencia, rompe las barreras culturales, y forja conexiones significativas con la gente local de Delhi. Disfrutará de interacciones sin restricciones, hará preguntas, y aprenderá sobre la vida diaria, costumbres, e historia de los indios, creando recuerdos y amistades inolvidables.\n\n¡Descubra una experiencia verdaderamente distintiva que brilla intensamente en esta maravillosa plataforma!\n\n**Qué incluye**\nPostre\nPlato principal\nDelantales y toallas\nWifi 5G de alta velocidad\nAgua embotellada ilimitada\nBaño limpio e higiénico\nUn souvenir especial de la India\nBebida de bienvenida (Masala Chai)\nRecetas de varios platos, bebidas, y postres indios\nPuerto de carga móvil y cable con todo tipo de clavijas\nCelebraciones personalizadas para cumpleaños o aniversarios\n\n**No incluye**\nBebidas alcohólicas\nPropinas y gratificaciones\nComidas no vegetarianas\nRecogida y regreso al hotel\nSeguros de viaje y médicos",
+  "highlights": [
+   "Disfrute de una experiencia segura, incluso para viajeras solas"
+  ],
+  "included": [
+   "Postre",
+   "Plato principal",
+   "Delantales y toallas",
+   "Wifi 5G de alta velocidad",
+   "Agua embotellada ilimitada",
+   "Baño limpio e higiénico",
+   "Un souvenir especial de la India",
+   "Bebida de bienvenida (Masala Chai)",
+   "Recetas de varios platos, bebidas, y postres indios",
+   "Puerto de carga móvil y cable con todo tipo de clavijas",
+   "Celebraciones personalizadas para cumpleaños o aniversarios"
+  ],
+  "notIncluded": [
+   "Bebidas alcohólicas",
+   "Propinas y gratificaciones",
+   "Comidas no vegetarianas",
+   "Recogida y regreso al hotel",
+   "Seguros de viaje y médicos"
+  ]
+ },
+ "delhi-new-and-old-self-itinerary-full-day-or": {
+  "title": "Delhi: itinerario a su elección, Nueva y Vieja Delhi, día completo o medio día",
+  "metaTitle": "Delhi: Nueva y Vieja Delhi a su elección",
+  "metaDescription": "Arquitectura mogol icónica.",
+  "shortDescription": "Arquitectura mogol icónica.",
+  "fullDescription": "Delhi: itinerario a su elección, Nueva y Vieja Delhi, día completo o medio día. Arquitectura mogol icónica.\n\nEmbárquese en un tour privado que combina perfectamente lo mejor de la Vieja y la Nueva Delhi, asegurando una inmersión de día completo en la historia y cultura india con su guía conocedor.\n\nSu día comienza con una cómoda recogida en su alojamiento o directamente desde el aeropuerto en un vehículo con aire acondicionado. Mientras viaja, su guía le dará información sobre los lugares que encontrará. Su primera parada es la Jama Masjid, la mezquita más grande de la India, donde explorará su grandeza e importancia, mientras su guía comparte su historia.\n\nA continuación, sumérjase en el vibrante ambiente de Chandni Chowk, uno de los mercados más antiguos de Delhi, lleno de colores y aromas. Opte por un paseo incluido en rickshaw por sus estrechas calles, donde tendrá la oportunidad de explorar el bullicioso mercado de especias.\n\nContinúe su viaje hacia el Gurudwara Bangla Sahib, una casa de culto sij, donde aprenderá sobre la religión sij, y será testigo de la increíble escala de su cocina de donaciones, que sirve miles de comidas diariamente.\n\nSu exploración lo lleva luego a la tumba del siglo XVI del emperador Humayun, un sitio del Patrimonio Mundial de la UNESCO, seguido de un recorrido frente a India Gate, un destacado monumento de guerra. Aunque el almuerzo no está incluido, su guía puede recomendarle restaurantes del norte de la India y mogoles para experimentar una cocina auténtica.\n\nDespués del almuerzo, pase frente al Parlamento y el Palacio Presidencial para un vistazo a las estructuras de gobierno moderno de Delhi. Luego, admire la belleza antigua de Qutub Minar, el minarete de ladrillo más alto del mundo, antes de visitar el Templo del Loto, símbolo de unidad y paz en la fe bahá'í, y el templo Akshardham, que muestra la brillantez arquitectónica hindú.\n\nConcluya su enriquecedor día mientras su conductor lo lleva de regreso a su hotel o al aeropuerto, dejándole recuerdos duraderos del rico tapiz de historia, cultura, y espiritualidad de Delhi.\n\n**Qué incluye**\nTodos los traslados en vehículo con aire acondicionado\nGuía local de habla inglesa en Delhi\nPaseo en rickshaw/tuk-tuk\n1 botella de agua mineral por persona y por día\n\n**No incluye**\nTarifas de entrada a monumentos\nTarifa de visa (si corresponde)\nVuelos internacionales/internos hacia/desde el inicio/fin del viaje\nBebidas que no sean agua potable, y cualquier costo de naturaleza personal\nPropinas (siempre opcionales, pero se darán algunas pautas en el paquete de información previo a la salida que recibirá después de la reserva)",
+  "highlights": [
+   "Arquitectura mogol icónica"
+  ],
+  "included": [
+   "Todos los traslados en vehículo con aire acondicionado",
+   "Guía local de habla inglesa en Delhi",
+   "Paseo en rickshaw/tuk-tuk",
+   "1 botella de agua mineral por persona y por día"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a monumentos",
+   "Tarifa de visa (si corresponde)",
+   "Vuelos internacionales/internos hacia/desde el inicio/fin del viaje",
+   "Bebidas que no sean agua potable, y cualquier costo de naturaleza personal",
+   "Propinas (siempre opcionales, pero se darán algunas pautas en el paquete de información previo a la salida que recibirá después de la reserva)"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
