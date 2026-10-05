@@ -22152,6 +22152,81 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "lodhi-garden-heritage-walk-private-tour-by-guide": {
+  "title": "Promenade patrimoniale du jardin Lodhi : visite privée avec guide et voiture",
+  "metaTitle": "Delhi : jardin Lodhi, promenade patrimoniale",
+  "metaDescription": "Prise en charge et retour depuis votre emplacement en voiture climatisée.",
+  "shortDescription": "Prise en charge et retour depuis votre emplacement en voiture climatisée.",
+  "fullDescription": "Promenade patrimoniale du jardin Lodhi : visite privée avec guide et voiture. Prise en charge et retour depuis votre emplacement en voiture climatisée.\n\nDans le jardin Lodhi, vous pouvez profiter d'une variété d'activités, telles que :\n\n1. Marche et jogging : les vastes allées sont parfaites pour une promenade tranquille ou un jogging matinal.\n\n2. Pique-nique : apportez une couverture et quelques collations pour profiter d'un pique-nique relaxant au milieu de la nature.\n\n3. Photographie : capturez la magnifique architecture des tombes historiques, et la verdure luxuriante.\n\n4. Observation des oiseaux : le jardin abrite de nombreuses espèces d'oiseaux, ce qui en fait un endroit idéal pour les passionnés d'oiseaux.\n\n5. Détente : trouvez un endroit tranquille pour lire un livre, ou simplement vous détendre dans cet environnement paisible.\n\n6. Exploration de sites historiques : visitez les différentes tombes et structures, en découvrant leur histoire.\n\nC'est un excellent endroit pour profiter de la nature et de l'histoire au cœur de la ville !\n\n**Ce qui est inclus**\nPrise en charge et retour inclus\nGuide professionnel et compétent",
+  "highlights": [
+   "Prise en charge et retour depuis votre emplacement en voiture climatisée"
+  ],
+  "included": [
+   "Prise en charge et retour inclus",
+   "Guide professionnel et compétent"
+  ],
+  "notIncluded": []
+ },
+ "15-days-delhi-rajasthan-agra-and-varanasi-tour": {
+  "title": "Circuit de 15 jours à Delhi, au Rajasthan, à Agra, et à Varanasi",
+  "metaTitle": "Delhi-Rajasthan-Agra-Varanasi en 15 jours",
+  "metaDescription": "Explorez le Fort Rouge, la mosquée Jama, Chandni Chowk, et India Gate à Delhi.",
+  "shortDescription": "Explorez le Fort Rouge, la mosquée Jama, Chandni Chowk, et India Gate à Delhi.",
+  "fullDescription": "Circuit de 15 jours à Delhi, au Rajasthan, à Agra, et à Varanasi. Explorez le Fort Rouge, la mosquée Jama, Chandni Chowk, et India Gate à Delhi.\n\nCommencez le voyage depuis Delhi, capitale de l'Inde, et vivez certains des lieux insolites et passionnants du Rajasthan comme Jodhpur, Ranakpur, Udaipur, Jaipur, Pushkar, et Agra, avec la ville sainte de l'Inde, Varanasi.\n\n**Ce qui est inclus**\nPetit-déjeuner inclus pendant les 15 jours\nTransport privé climatisé\nSafari au village Bishnoi à Jodhpur\nPéages, stationnement, carburant, et indemnité de chauffeur inclus\nVisites touristiques incluses\nPrise en charge et retour\nHébergement 3 étoiles inclus\nBillet de train de Delhi à Jodhpur\nBillet de train d'Agra à Varanasi\nService de guide inclus\n\n**Non inclus**\nDéjeuner/dîner/boissons non inclus\nTout type de frais de monuments non inclus\nTout type de dépense personnelle non inclus\nBillet d'avion de Varanasi à Delhi non inclus",
+  "highlights": [
+   "Explorez le Fort Rouge, la mosquée Jama, Chandni Chowk, et India Gate à Delhi"
+  ],
+  "included": [
+   "Petit-déjeuner inclus pendant les 15 jours",
+   "Transport privé climatisé",
+   "Safari au village Bishnoi à Jodhpur",
+   "Péages, stationnement, carburant, et indemnité de chauffeur inclus",
+   "Visites touristiques incluses",
+   "Prise en charge et retour",
+   "Hébergement 3 étoiles inclus",
+   "Billet de train de Delhi à Jodhpur",
+   "Billet de train d'Agra à Varanasi",
+   "Service de guide inclus"
+  ],
+  "notIncluded": [
+   "Déjeuner/dîner/boissons non inclus",
+   "Tout type de frais de monuments non inclus",
+   "Tout type de dépense personnelle non inclus",
+   "Billet d'avion de Varanasi à Delhi non inclus"
+  ]
+ },
+ "new-delhi-street-breakfast-tour": {
+  "title": "New Delhi : visite du petit-déjeuner de rue",
+  "metaTitle": "New Delhi : petit-déjeuner de rue",
+  "metaDescription": "Goûtez les classiques du petit-déjeuner du nord et du sud de l'Inde en une délicieuse visite.",
+  "shortDescription": "Goûtez les classiques du petit-déjeuner du nord et du sud de l'Inde en une délicieuse visite.",
+  "fullDescription": "New Delhi : visite du petit-déjeuner de rue. Goûtez les classiques du petit-déjeuner du nord et du sud de l'Inde en une délicieuse visite.\n\nCommencez votre journée lors de notre visite du petit-déjeuner de New Delhi, et découvrez la ville alors qu'elle prend vie au-delà des sites touristiques habituels.\nGoûtez les spécialités matinales locales, explorez les rues animées, et découvrez de près les routines quotidiennes.\nMenée par une entreprise de voyage responsable, cette visite soutient directement des initiatives communautaires locales.\n\nCommencez votre journée à Connaught Place, le cœur de Delhi, où vous découvrirez une boutique cachée servant des parathas, un incontournable du petit-déjeuner apprécié des habitants. De là, faites une courte marche jusqu'au temple de Hanuman, dédié au vénéré dieu singe, où vous verrez de nombreux singes, restez donc vigilant. Après un chai rapide, continuez vers un restaurant sud-indien populaire, où vous savourerez des idlis, des vadas, et des dosas croustillants, le tout accompagné d'un lassi rafraîchissant.\n\nDécouvrez en quoi un samosa indien diffère de ceux que vous avez pu goûter ailleurs. Ensuite, montez à bord d'un rickshaw pour explorer Agrasen Ki Baoli, un mystique puits à degrés datant du Xe siècle, avant de vous arrêter à Dhobi Ghat, où les blanchisseurs de Delhi frottent et sèchent manuellement d'innombrables draps blancs pour les hôtels de toute la ville.\n\nAprès cet intermède culturel, place à plus de nourriture. Visitez un étal de rue pour de l'aloo chaat, une collation croustillante à base de pomme de terre célèbre parmi les célébrités, accompagnée de dalia (bouillie de blé) et de poha (un plat léger et savoureux de riz aplati). En saison, dégustez également du jus bhel, une boisson rafraîchissante unique.\n\nPour terminer cette matinée riche en saveurs, offrez-vous des douceurs indiennes emblématiques, notamment rabdi, rasmalai, halwa, rasgulla, et gulab jamun, auprès d'un vendeur qui sert ces délices depuis des décennies.\n\n**Ce qui est inclus**\nVisite guidée à pied et en rickshaw avec un expert local\nPlusieurs dégustations de petit-déjeuner (plats du nord et du sud de l'Inde)\nVisite d'une boutique de parathas cachée à Connaught Place\nArrêt chai près du temple de Hanuman\nIdli, vada, dosa, et lassi dans un restaurant sud-indien populaire\nBalade en rickshaw jusqu'à Agrasen Ki Baoli et Dhobi Ghat\nCollations de rue, dont aloo chaat, dalia, et poha\nBoissons de saison comme le jus bhel (selon disponibilité)\nDégustation de douceurs indiennes traditionnelles auprès d'un vendeur de confiance\nEau en bouteille pour rester hydraté pendant la visite\nToutes les dégustations de nourriture et de boissons sont incluses dans le prix de la visite\nPerspectives sur la culture, l'histoire, et la vie quotidienne de Delhi\n\n**Non inclus**\nPrise en charge et retour à l'hôtel\nPourboires pour le guide (optionnels, mais appréciés)\nAchats personnels dans les étals ou boutiques alimentaires\nNourriture ou boissons supplémentaires non proposées dans le cadre des dégustations de la visite\nEntrée à tout monument payant (bien que tous les sites prévus soient gratuits)\nCircuits supplémentaires (par exemple Sanjay Colony ou la visite artistique de Delhi, réservés séparément)",
+  "highlights": [
+   "Goûtez les classiques du petit-déjeuner du nord et du sud de l'Inde en une délicieuse visite"
+  ],
+  "included": [
+   "Visite guidée à pied et en rickshaw avec un expert local",
+   "Plusieurs dégustations de petit-déjeuner (plats du nord et du sud de l'Inde)",
+   "Visite d'une boutique de parathas cachée à Connaught Place",
+   "Arrêt chai près du temple de Hanuman",
+   "Idli, vada, dosa, et lassi dans un restaurant sud-indien populaire",
+   "Balade en rickshaw jusqu'à Agrasen Ki Baoli et Dhobi Ghat",
+   "Collations de rue, dont aloo chaat, dalia, et poha",
+   "Boissons de saison comme le jus bhel (selon disponibilité)",
+   "Dégustation de douceurs indiennes traditionnelles auprès d'un vendeur de confiance",
+   "Eau en bouteille pour rester hydraté pendant la visite",
+   "Toutes les dégustations de nourriture et de boissons sont incluses dans le prix de la visite",
+   "Perspectives sur la culture, l'histoire, et la vie quotidienne de Delhi"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour à l'hôtel",
+   "Pourboires pour le guide (optionnels, mais appréciés)",
+   "Achats personnels dans les étals ou boutiques alimentaires",
+   "Nourriture ou boissons supplémentaires non proposées dans le cadre des dégustations de la visite",
+   "Entrée à tout monument payant (bien que tous les sites prévus soient gratuits)",
+   "Circuits supplémentaires (par exemple Sanjay Colony ou la visite artistique de Delhi, réservés séparément)"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
