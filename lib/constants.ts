@@ -131,6 +131,24 @@ export const PHUKET_INFO_SLUGS = [
   'phuket-diving-snorkeling-guide'
 ];
 
+// China launched 2026-10 with 1,628 live tours (Beijing + Shanghai) and zero
+// authority pages. These are the first batch, 15 per city.
+export const BEIJING_INFO_SLUGS = [
+  'best-time-to-visit-beijing', 'things-to-do-in-beijing', 'beijing-travel-guide-2026',
+  'great-wall-of-china-which-section', 'mutianyu-vs-badaling', 'forbidden-city-tickets-guide',
+  'beijing-1-day-itinerary', 'beijing-3-day-itinerary', 'china-visa-guide-for-tourists',
+  'beijing-subway-guide', 'temple-of-heaven', 'summer-palace-beijing',
+  'hutong-tours-beijing', 'beijing-food-guide', 'beijing-air-quality-when-to-visit'
+];
+
+export const SHANGHAI_INFO_SLUGS = [
+  'best-time-to-visit-shanghai', 'things-to-do-in-shanghai', 'shanghai-travel-guide-2026',
+  'shanghai-1-day-itinerary', 'shanghai-3-day-itinerary', 'the-bund-shanghai',
+  'shanghai-tower-tickets', 'yu-garden-shanghai', 'zhujiajiao-water-town',
+  'shanghai-french-concession-guide', 'shanghai-food-guide', 'shanghai-disneyland-guide',
+  'suzhou-day-trip-from-shanghai', 'shanghai-metro-guide', 'shanghai-vs-beijing-which-to-visit'
+];
+
 export const BANGKOK_INFO_SLUGS = [
   'things-to-do-in-bangkok', 'bangkok-travel-guide-2026',
   'grand-palace-bangkok', 'wat-pho', 'wat-arun',
