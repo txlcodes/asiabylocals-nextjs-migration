@@ -23981,6 +23981,69 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "delhi-all-inclusive-day-trip-taj-mahal-with": {
+  "title": "Delhi: All-Inclusive Tagesausflug zum Taj Mahal mit Elephant SOS",
+  "metaTitle": "Delhi: Taj Mahal All-Inclusive, Elephant SOS",
+  "metaDescription": "Besuchen Sie das Taj Mahal, das Agra Fort, und die Elefanten-Tierwelt bei einem Tagesausflug ab New Delhi",
+  "shortDescription": "Besuchen Sie das Taj Mahal, das Agra Fort, und die Elefanten-Tierwelt bei einem Tagesausflug ab New Delhi",
+  "fullDescription": "Delhi: All-Inclusive Tagesausflug zum Taj Mahal mit Elephant SOS. Besuchen Sie das Taj Mahal, das Agra Fort, und die Elefanten-Tierwelt bei einem Tagesausflug ab New Delhi.\n\nSie werden von unserem Fahrer am Flughafen/Hotel oder überall in Delhi NCR / Gurgaon begrüßt. Unser Fahrer holt Sie an Ihrem Standort in einem klimatisierten Privatwagen ab, um Ihre 3-stündige Fahrt nach Agra über den Yamuna Expressway zu genießen. Unterwegs gibt es eine Pause, falls Sie eine Toilette oder einen Kaffee wünschen.\n\nSie treffen für die gesamte Reise auf unseren professionellen lizenzierten Reiseführer, der Sie durch einige faszinierende Besichtigungen der Stadt führt. Zuerst Besuch des Taj Mahal.\nUnser Reiseführer hat Ihre Eintrittskarten bereit, damit Sie nicht in der Schlange warten müssen. Genießen Sie Ihre Zeit am Taj Mahal, während unser Reiseführer Ihnen tiefes Wissen über das Taj Mahal vermittelt und geheime Orte für großartige Fotos mit Ihnen teilt.\nWir geben Ihnen ausreichend Zeit, um das Taj Mahal zu besichtigen.\n\nNach dem Besuch des Taj Mahal geht es weiter zum Agra Fort. Eines der schönen Forts der Moguln, das seit Jahrhunderten standhaft bleibt. Es wurde 1565 n. Chr. vom großen Mogul-Kaiser Akbar erbaut. Es bietet einige wirklich beeindruckende optische Täuschungspunkte, die Sie staunen lassen und zum Nachdenken über Architektur und Design anregen. Sehen und spüren Sie auch den Ort, an dem der König von seinem eigenen Sohn unter Hausarrest gestellt wurde, und von wo aus er das Taj Mahal bewunderte. Ein seltener und wunderbarer Blick auf das Taj Mahal.\n\nNach dem Besuch des Agra Forts bringen wir Sie zu einem köstlichen Mittagessen in einem gut empfohlenen Restaurant. Entspannen Sie sich eine Weile und genießen Sie Ihr Essen.\n\nNun werden Sie zum Wildlife SOS Agra gebracht. Es dauert etwa 1 Stunde 30 Minuten, um den SOS-Park zu erreichen.\n\nAlle Touristen sind verpflichtet, eine Mindestspende von 2.500 Rupien pro Person direkt an das Wildlife-SOS-Team zu leisten. Sie können sich dort über die geführten Touren für Gäste informieren, und diese Spende hilft dabei, die Tiere gesund zu halten, da sich in diesem natürlichen Lebensraum auch ein medizinisches Hilfskrankenhaus befindet. Sie haben die Möglichkeit, je nach Wunsch die Elefanten- und Bärenzonen zu besuchen (eine Zone zur Auswahl).\n\nHier erfahren Sie mehr über die Bemühungen zum Schutz von Indiens Tierwelt, Wäldern, und nationalem Erbe. Nach einem ereignisreichen Tag ist es Zeit, nach Delhi aufzubrechen. Es folgt eine Fahrt von 3 Stunden 30 Minuten zurück nach Delhi oder einen beliebigen Ort in Delhi NCR, womit Ihre Tour mit unvergesslichen Erinnerungen endet.\n\nWenn Sie einen frühen Start wählen, etwa um 2:30 oder 3:00 Uhr, handelt es sich um eine Sonnenaufgangstour zum Taj Mahal.\n\n**Was ist inbegriffen**\nPrivates klimatisiertes Auto\nAlle Mautgebühren, Steuern, und Parkgebühren\nLokaler Reiseführer in Agra\nBesuch des Elefantenschutzgebiets\nEintrittskarte für Taj Mahal und Agra Fort (falls diese Option gewählt wird)\n\n**Nicht inbegriffen**\nTrinkgelder",
+  "highlights": [
+   "Besuchen Sie das Taj Mahal, das Agra Fort, und die Elefanten-Tierwelt bei einem Tagesausflug ab New Delhi"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto",
+   "Alle Mautgebühren, Steuern, und Parkgebühren",
+   "Lokaler Reiseführer in Agra",
+   "Besuch des Elefantenschutzgebiets",
+   "Eintrittskarte für Taj Mahal und Agra Fort (falls diese Option gewählt wird)"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "delhi-upgraded-premium-car-customised-city-tour": {
+  "title": "Delhi Upgrade: Premium-Auto, individuelle Stadttour-Erfahrung",
+  "metaTitle": "Delhi: Premium-Auto, individuelle Tour",
+  "metaDescription": "Bringen Sie eine Kopie Ihres Reisepasses oder Personalausweises mit",
+  "shortDescription": "Bringen Sie eine Kopie Ihres Reisepasses oder Personalausweises mit",
+  "fullDescription": "Delhi Upgrade: Premium-Auto, individuelle Stadttour-Erfahrung. Bringen Sie eine Kopie Ihres Reisepasses oder Personalausweises mit.\n\nErkunden Sie Delhi im Luxus und Komfort einer privaten Tour. Wählen Sie aus 3 verschiedenen Optionen, um die Highlights der Stadt zu sehen. Reisen Sie in einem Premium-Fahrzeug wie einem Mercedes oder BMW, und genießen Sie den Komfort von Abholung und Rückfahrt zum Hotel.\n\nEntscheiden Sie sich für die Erkundung von New Delhi, Alt-Delhi, oder beidem. Sehen Sie den Qutub Minar, Humayuns Grabmal, den Lotustempel, India Gate, das Parlamentsgebäude, die Jama Masjid, und das Rote Fort. Unternehmen Sie eine Rikscha-Fahrt durch Chandni Chowk, und besuchen Sie den Gewürzmarkt.\n\n**Option 1: New Delhi im Luxus: Kultur, Sehenswürdigkeiten, und moderne Pracht**\nWerden Sie um 10:00 Uhr mit einem Luxusfahrzeug von Ihrem Hotel in Delhi abgeholt, und besuchen Sie New Delhi. Besuchen Sie den Qutub Minar, Humayuns Grabmal, den Lotustempel, India Gate, und fahren Sie am Parlamentsgebäude vorbei. Besuchen Sie optional den Akshardham-Tempel, bevor Sie zu Ihrem Hotel zurückgebracht werden.\n\n**Option 2: Alt-Delhi-Erlebnis: Straßen, Geschichten, und Gewürzmärkte**\nWerden Sie um 10:00 Uhr mit einem Luxusfahrzeug von Ihrem Hotel in Delhi abgeholt, und besuchen Sie Alt-Delhi. Besuchen Sie die Jama Masjid, unternehmen Sie eine Rikscha-Fahrt, besuchen Sie Chandni Chowk, und sehen Sie den Gewürzmarkt. Fahren Sie am Roten Fort vorbei, und besuchen Sie optional den Akshardham-Tempel, bevor Sie zu Ihrem Hotel zurückgebracht werden.\n\n**Option 3: das komplette Delhi-Erlebnis: alte Welt trifft moderne Ikonen**\nWerden Sie um 9:00 Uhr mit einem Luxusfahrzeug von Ihrem Hotel in Delhi abgeholt, und besuchen Sie Alt- und New Delhi. Besuchen Sie den Qutub Minar, Humayuns Grabmal, den Lotustempel, India Gate, das Parlamentsgebäude, die Jama Masjid, unternehmen Sie eine Rikscha-Fahrt, besuchen Sie Chandni Chowk, und sehen Sie den Gewürzmarkt. Fahren Sie am Roten Fort vorbei, und besuchen Sie optional den Akshardham-Tempel, bevor Sie zu Ihrem Hotel zurückgebracht werden.\n\n**Was ist inbegriffen**\nLuxusfahrzeugtransport (Mercedes/BMW)\nAbholung und Rückfahrt zum Hotel\nFahrer als Reiseführer\nGestalten Sie Ihre Tour individuell\n\n**Nicht inbegriffen**\nEintrittsgebühren\nSpeisen und Getränke",
+  "highlights": [
+   "Bringen Sie eine Kopie Ihres Reisepasses oder Personalausweises mit"
+  ],
+  "included": [
+   "Luxusfahrzeugtransport (Mercedes/BMW)",
+   "Abholung und Rückfahrt zum Hotel",
+   "Fahrer als Reiseführer",
+   "Gestalten Sie Ihre Tour individuell"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren",
+   "Speisen und Getränke"
+  ]
+ },
+ "delhi-national-museum-tour": {
+  "title": "Delhi: Tour durch das Nationalmuseum",
+  "metaTitle": "Delhi: Tour Nationalmuseum",
+  "metaDescription": "Harappa-Zivilisation: Entdecken Sie Artefakte aus dem alten Indus-Tal.",
+  "shortDescription": "Harappa-Zivilisation: Entdecken Sie Artefakte aus dem alten Indus-Tal.",
+  "fullDescription": "Delhi: Tour durch das Nationalmuseum. Harappa-Zivilisation: Entdecken Sie Artefakte aus dem alten Indus-Tal.\n\n**Abholung**\nSie werden von Ihrem Hotel, dem Flughafen, oder einem gewünschten Ort in Delhi, Noida, oder Gurugram abgeholt.\n\n**Erste Galerie: Galerie der Harappa-Zivilisation**\nEntdecken Sie Artefakte der Indus-Tal-Zivilisation, darunter Keramik, Siegel, und Skulpturen. Erfahren Sie mehr über die fortschrittliche Stadtplanung und das Alltagsleben einer der ältesten Zivilisationen der Welt.\n\n**Zweite Galerie: Maurya- und Gupta-Kunst**\nWeiter geht es zu den Abschnitten der Maurya- und Gupta-Kunst, die exquisite Skulpturen und Artefakte aus diesen einflussreichen Perioden der indischen Geschichte zeigen. Entdecken Sie die Entwicklung von Kunst und Architektur während dieser Epochen.\n\n**Dritte Galerie: Abschnitt buddhistische Kunst**\nBesuchen Sie die Galerie der buddhistischen Kunst mit Reliquien, Statuen, und Wandmalereien aus verschiedenen Regionen. Gewinnen Sie Einblicke in die Verbreitung des Buddhismus in Asien und seine kulturelle Wirkung.\n\n**Vierte Galerie: Galerie der Miniaturmalereien**\nBewundern Sie die kunstvollen Miniaturmalereien aus verschiedenen Teilen Indiens. Erfahren Sie mehr über die Themen, Techniken, und den historischen Kontext dieser wunderschönen Kunstwerke.\n\n**Fünfte Galerie: Galerie der dekorativen Künste**\nErkunden Sie eine vielfältige Sammlung von Schmuck, Textilien, und dekorativen Objekten. Verstehen Sie die Handwerkskunst und das künstlerische Erbe Indiens anhand dieser exquisiten Stücke.\n\n**Sechste Galerie: Galerie für Waffen und Rüstungen**\nBetrachten Sie eine beeindruckende Sammlung von Waffen und Rüstungen aus verschiedenen Epochen. Entdecken Sie die Entwicklung der militärischen Technologie und die Handwerkskunst bei der Herstellung dieser Stücke.\n\n**Sonderausstellung oder Wechselgalerie**\nFalls die Zeit es zulässt, besuchen Sie eine Sonderausstellung oder eine Wechselgalerie, die eine einzigartige Sammlung oder ein bestimmtes Thema präsentiert. Dies kann von zeitgenössischer Kunst bis hin zu spezifischen kulturellen Artefakten reichen.\n\n**Abschluss: Museumsshop und Café**\nBeenden Sie Ihre Tour im Museumsshop, wo Sie Souvenirs, Bücher, und Repliken von Artefakten erwerben können.\n\nEntspannen Sie sich im Museumscafé bei einem leichten Snack oder einer Erfrischung, bevor Sie aufbrechen.\n\n**Rückfahrt**: Sie werden zu Ihrem Hotel, dem Flughafen, oder einem gewünschten Ort in Delhi, Noida, oder Gurugram zurückgebracht.\n\nDiese kompakte Reiseroute stellt sicher, dass Sie die Highlights des Nationalmuseums auf strukturierte, aber flexible Weise erleben, und bietet einen umfassenden Überblick über Indiens reiches kulturelles und historisches Erbe.\n\n**Was ist inbegriffen**\nPrivate Tour\nVon den lokalen Behörden zugelassener Reiseführer\nEintrittskarten für das Nationalmuseum\nFlaschen Mineralwasser während der Autofahrt\nAlle Steuern, Gebühren, und Bearbeitungsgebühren\nPersönliche Betreuung und Aufmerksamkeit\nTransport in einem privaten klimatisierten Auto\n\n**Nicht inbegriffen**\nTrinkgelder (optional)\nMahlzeiten",
+  "highlights": [
+   "Harappa-Zivilisation: Entdecken Sie Artefakte aus dem alten Indus-Tal"
+  ],
+  "included": [
+   "Private Tour",
+   "Von den lokalen Behörden zugelassener Reiseführer",
+   "Eintrittskarten für das Nationalmuseum",
+   "Flaschen Mineralwasser während der Autofahrt",
+   "Alle Steuern, Gebühren, und Bearbeitungsgebühren",
+   "Persönliche Betreuung und Aufmerksamkeit",
+   "Transport in einem privaten klimatisierten Auto"
+  ],
+  "notIncluded": [
+   "Trinkgelder (optional)",
+   "Mahlzeiten"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

@@ -23981,6 +23981,69 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "delhi-all-inclusive-day-trip-taj-mahal-with": {
+  "title": "Delhi: excursión de un día todo incluido al Taj Mahal con Elephant SOS",
+  "metaTitle": "Delhi: Taj Mahal todo incluido, Elephant SOS",
+  "metaDescription": "Visita el Taj Mahal, el Fuerte de Agra, y la vida silvestre de elefantes en un tour de un día desde Nueva Delhi",
+  "shortDescription": "Visita el Taj Mahal, el Fuerte de Agra, y la vida silvestre de elefantes en un tour de un día desde Nueva Delhi",
+  "fullDescription": "Delhi: excursión de un día todo incluido al Taj Mahal con Elephant SOS. Visita el Taj Mahal, el Fuerte de Agra, y la vida silvestre de elefantes en un tour de un día desde Nueva Delhi.\n\nSerás recibido por nuestro chófer en el aeropuerto, el hotel, o en cualquier lugar de Delhi NCR / Gurgaon. Nuestro chófer te recogerá en tu ubicación en un coche privado con aire acondicionado para disfrutar de tu trayecto de 3 horas hacia Agra por la autopista Yamuna. Habrá una parada en el camino si deseas ir al baño o tomar un café.\n\nTe encontrarás con nuestro guía profesional con licencia durante todo el viaje, y él te guiará a través de algunas fascinantes visitas de la ciudad. Primera visita: el Taj Mahal.\nNuestro guía tendrá tus entradas listas para que no tengas que esperar en la fila. Disfruta de tu tiempo en el Taj Mahal mientras nuestro guía comparte contigo un conocimiento profundo sobre el monumento, y algunos lugares secretos para tomar grandes fotos.\nTe daremos todo el tiempo necesario para ver el Taj Mahal.\n\nDespués de visitar el Taj Mahal, dirígete al Fuerte de Agra. Uno de los hermosos fuertes de los mogoles que se mantiene en pie durante siglos. Fue construido en 1565 d.C. por el gran emperador mogol Akbar. Ofrece algunos puntos de ilusión óptica realmente excelentes, que te sorprenderán y te harán pensar en la arquitectura y el diseño. También observa y siente el lugar donde el rey estuvo bajo arresto domiciliario por su propio hijo, y desde donde el rey solía admirar el Taj Mahal. Una vista rara y maravillosa del Taj Mahal.\n\nDespués de la visita al Fuerte de Agra, te llevaremos a disfrutar de un delicioso almuerzo en un restaurante muy recomendado. Relájate un momento y disfruta de tu comida.\n\nAhora serás llevado al Wildlife SOS de Agra. Tardarás aproximadamente 1 hora y 30 minutos en llegar al parque SOS.\n\nTodos los turistas deben donar un mínimo de 2.500 rupias por persona directamente al equipo de Wildlife SOS; puedes informarte allí sobre las visitas guiadas que se ofrecen a los visitantes, y esta donación ayuda a mantener sanos a los animales, ya que también existe un hospital de ayuda médica en este hábitat natural. Tendrás la oportunidad de visitar las zonas de elefantes y osos según tu elección (se puede optar por una).\n\nAquí aprenderás sobre los esfuerzos que se realizan para proteger la vida silvestre, los bosques, y el patrimonio nacional de la India. Después de un día lleno de experiencias, es hora de partir hacia Delhi. Habrá un trayecto de 3 horas y 30 minutos de regreso a Delhi o a cualquier lugar de Delhi NCR, que pone fin a tu visita con recuerdos inolvidables.\n\nSi eliges un inicio temprano, como las 2:30 o las 3:00 de la madrugada, será un tour al amanecer hacia el Taj Mahal.\n\n**Qué incluye**\nCoche privado con aire acondicionado\nTodos los peajes, impuestos, y tarifas de estacionamiento\nGuía local en Agra\nVisita al santuario de elefantes\nEntrada al Taj Mahal y al Fuerte de Agra (si se selecciona esta opción)\n\n**No incluye**\nPropinas",
+  "highlights": [
+   "Visita el Taj Mahal, el Fuerte de Agra, y la vida silvestre de elefantes en un tour de un día desde Nueva Delhi"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado",
+   "Todos los peajes, impuestos, y tarifas de estacionamiento",
+   "Guía local en Agra",
+   "Visita al santuario de elefantes",
+   "Entrada al Taj Mahal y al Fuerte de Agra (si se selecciona esta opción)"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "delhi-upgraded-premium-car-customised-city-tour": {
+  "title": "Delhi mejorado: coche premium, experiencia de tour urbano personalizado",
+  "metaTitle": "Delhi: coche premium, tour personalizado",
+  "metaDescription": "Lleva una copia de tu pasaporte o documento de identidad",
+  "shortDescription": "Lleva una copia de tu pasaporte o documento de identidad",
+  "fullDescription": "Delhi mejorado: coche premium, experiencia de tour urbano personalizado. Lleva una copia de tu pasaporte o documento de identidad.\n\nExplora Delhi con el lujo y la comodidad de un tour privado. Elige entre 3 opciones diferentes para ver lo más destacado de la ciudad. Viaja en un vehículo premium como un Mercedes o un BMW, y disfruta de la comodidad de la recogida y el regreso al hotel.\n\nElige explorar Nueva Delhi, el Viejo Delhi, o ambos. Observa el Qutub Minar, la tumba de Humayun, el Templo del Loto, India Gate, el Parlamento, la Jama Masjid, y el Fuerte Rojo. Haz un paseo en rickshaw por Chandni Chowk, y visita el mercado de especias.\n\n**Opción 1: Nueva Delhi de lujo: cultura, monumentos, y grandeza moderna**\nSerás recogido en tu hotel en Delhi a las 10:00 con un vehículo de lujo, y continuarás para visitar Nueva Delhi. Visita el Qutub Minar, la tumba de Humayun, el Templo del Loto, India Gate, y pasa frente al Parlamento. Visita opcionalmente el templo de Akshardham antes de ser llevado de regreso a tu hotel.\n\n**Opción 2: experiencia del Viejo Delhi: calles, historias, y mercados de especias**\nSerás recogido en tu hotel en Delhi a las 10:00 con un vehículo de lujo, y continuarás para visitar el Viejo Delhi. Visita la Jama Masjid, realiza un paseo en rickshaw, visita Chandni Chowk, y observa el mercado de especias. Pasa frente al Fuerte Rojo, y visita opcionalmente el templo de Akshardham antes de ser llevado de regreso a tu hotel.\n\n**Opción 3: la experiencia completa de Delhi: el encanto del viejo mundo se encuentra con los íconos modernos**\nSerás recogido en tu hotel en Delhi a las 9:00 con un vehículo de lujo, y continuarás para visitar el Viejo y el Nuevo Delhi. Visita el Qutub Minar, la tumba de Humayun, el Templo del Loto, India Gate, el Parlamento, la Jama Masjid, realiza un paseo en rickshaw, visita Chandni Chowk, y observa el mercado de especias. Pasa frente al Fuerte Rojo, y visita opcionalmente el templo de Akshardham antes de ser llevado de regreso a tu hotel.\n\n**Qué incluye**\nTransporte en vehículo de lujo (Mercedes/BMW)\nRecogida y regreso al hotel\nChófer como guía\nPersonaliza tu tour\n\n**No incluye**\nTarifas de entrada\nComida y bebidas",
+  "highlights": [
+   "Lleva una copia de tu pasaporte o documento de identidad"
+  ],
+  "included": [
+   "Transporte en vehículo de lujo (Mercedes/BMW)",
+   "Recogida y regreso al hotel",
+   "Chófer como guía",
+   "Personaliza tu tour"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada",
+   "Comida y bebidas"
+  ]
+ },
+ "delhi-national-museum-tour": {
+  "title": "Delhi: tour por el Museo Nacional",
+  "metaTitle": "Delhi: tour Museo Nacional",
+  "metaDescription": "Civilización del valle del Indo: descubre artefactos del antiguo valle del Indo.",
+  "shortDescription": "Civilización del valle del Indo: descubre artefactos del antiguo valle del Indo.",
+  "fullDescription": "Delhi: tour por el Museo Nacional. Civilización del valle del Indo: descubre artefactos del antiguo valle del Indo.\n\n**Recogida**\nSerás recogido en tu hotel, el aeropuerto, o cualquier lugar deseado en Delhi, Noida, o Gurugram.\n\n**Primera galería: galería de la civilización del valle del Indo**\nDescubre artefactos de la civilización del valle del Indo, incluyendo cerámica, sellos, y esculturas. Aprende sobre la avanzada planificación urbana y la vida cotidiana de una de las civilizaciones más antiguas del mundo.\n\n**Segunda galería: arte Maurya y Gupta**\nContinúa hacia las secciones de arte Maurya y Gupta, que muestran exquisitas esculturas y artefactos de estos influyentes períodos de la historia de la India. Descubre la evolución del arte y la arquitectura durante estas épocas.\n\n**Tercera galería: sección de arte budista**\nVisita la galería de arte budista, con reliquias, estatuas, y murales de varias regiones. Obtén información sobre la expansión del budismo por Asia y su impacto cultural.\n\n**Cuarta galería: galería de pinturas en miniatura**\nAdmira las intrincadas pinturas en miniatura de diferentes partes de la India. Conoce los temas, técnicas, y contexto histórico de estas hermosas obras de arte.\n\n**Quinta galería: galería de artes decorativas**\nExplora una diversa colección de joyería, textiles, y objetos decorativos. Comprende la artesanía y el patrimonio artístico de la India a través de estas exquisitas piezas.\n\n**Sexta galería: galería de armas y armaduras**\nObserva una impresionante colección de armas y armaduras de diferentes épocas. Descubre la evolución de la tecnología militar y la artesanía involucrada en la creación de estas piezas.\n\n**Exposición especial o galería temporal**\nSi el tiempo lo permite, visita una exposición especial o una galería temporal que muestre una colección o tema único. Esto puede abarcar desde el arte contemporáneo hasta artefactos culturales específicos.\n\n**Conclusión: tienda del museo y café**\nFinaliza tu tour en la tienda del museo, donde puedes comprar recuerdos, libros, y réplicas de artefactos.\n\nRelájate en el café del museo con un refrigerio ligero antes de partir.\n\n**Regreso**: serás llevado de regreso a tu hotel, el aeropuerto, o cualquier lugar deseado en Delhi, Noida, o Gurugram.\n\nEste itinerario conciso te asegura experimentar lo más destacado del Museo Nacional de manera estructurada pero flexible, proporcionando una visión completa del rico patrimonio cultural e histórico de la India.\n\n**Qué incluye**\nTour privado\nGuía aprobado por el gobierno local\nEntradas al Museo Nacional\nBotellas de agua mineral durante el trayecto en el coche\nTodos los impuestos, tarifas, y cargos de manejo\nAtención y cuidado personal\nTransporte en coche privado con aire acondicionado\n\n**No incluye**\nPropinas (opcionales)\nComidas",
+  "highlights": [
+   "Civilización del valle del Indo: descubre artefactos del antiguo valle del Indo"
+  ],
+  "included": [
+   "Tour privado",
+   "Guía aprobado por el gobierno local",
+   "Entradas al Museo Nacional",
+   "Botellas de agua mineral durante el trayecto en el coche",
+   "Todos los impuestos, tarifas, y cargos de manejo",
+   "Atención y cuidado personal",
+   "Transporte en coche privado con aire acondicionado"
+  ],
+  "notIncluded": [
+   "Propinas (opcionales)",
+   "Comidas"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
