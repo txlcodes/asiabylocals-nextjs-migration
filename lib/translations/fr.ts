@@ -5779,6 +5779,75 @@ export const FR_TOURS: Record<string, TourT> = {
    "Nourriture et boissons alcoolisées"
   ]
  },
+ "from-delhi-private-taj-mahal-agra-trip-by-gatiman": {
+  "title": "Depuis Delhi : voyage privé au Taj Mahal et à Agra en train Gatimaan",
+  "metaTitle": "Delhi-Agra en Gatimaan Express, voyage privé",
+  "metaDescription": "Voyagez à bord du Gatimaan Express de Delhi à Agra, rapide et climatisé.",
+  "shortDescription": "Voyagez à bord du Gatimaan Express de Delhi à Agra, rapide et climatisé.",
+  "fullDescription": "Prenez le train Gatimaan Express entre Delhi et Agra pour maximiser votre temps au Taj Mahal, en évitant la circulation et en réduisant le temps de trajet.\n\nVotre journée commence par une prise en charge facile à l'hôtel à Delhi. De là, votre chauffeur vous emmènera à la gare de Hazrat Nizamuddin, où vous monterez à bord du Gatimaan Express à 8h10. Détendez-vous dans votre siège réservé et profitez d'un léger petit-déjeuner à bord pendant que le train file vers Agra.\n\nUne fois arrivé vers 9h50, rencontrez votre guide local sympathique directement à la gare, et commencez l'exploration des principaux sites de la ville.\n\nPremier arrêt : le Taj Mahal, un superbe symbole de l'amour et l'une des nouvelles sept merveilles du monde. Promenez-vous dans ses beaux jardins, admirez le marbre blanc scintillant, et découvrez l'histoire romantique derrière ce chef-d'œuvre classé à l'UNESCO.\n\nEnsuite, profitez d'un somptueux déjeuner buffet dans un hôtel 5 étoiles, proposant un mélange de plats indiens traditionnels et de saveurs internationales, une pause parfaite pour se ressourcer.\n\nAprès le déjeuner, plongez dans le passé au fort d'Agra, un autre site du patrimoine mondial de l'UNESCO. Promenez-vous à travers de grandes cours et salles de palais qui abritaient autrefois des empereurs, et admirez les vues sur la rivière Yamuna depuis ses anciens murs.\n\nTerminez vos visites au paisible Itimad-ud-Daulah, affectueusement appelé le « Baby Taj » pour son délicat travail d'incrustation en marbre et son cadre serein, souvent manqué par les voyageurs, mais inoubliable une fois vu.\n\nRetournez à la gare d'Agra pour monter à bord du Gatimaan Express à 17h50. Un dîner frais est servi à bord, rendant votre retour à Delhi aussi fluide que le trajet matinal. Votre chauffeur vous rencontrera à la gare et vous ramènera à votre hôtel vers 19h30.\n\nCette excursion d'une journée est parfaite pour ceux qui souhaitent voir les principales attractions d'Agra en une seule journée sans stress, avec des touches de luxe, des explications expertes, et une logistique fluide du début à la fin.",
+  "highlights": [
+   "Voyagez à bord du Gatimaan Express de Delhi à Agra, rapide et climatisé"
+  ],
+  "included": [
+   "Prise en charge et retour pratiques depuis n'importe où à Delhi ou dans le NCR",
+   "Trajet aller-retour sur le train le plus rapide de l'Inde : le Gatimaan Express à grande vitesse",
+   "Explorez Agra confortablement avec une voiture privée climatisée et un chauffeur",
+   "Profitez d'un petit-déjeuner frais à bord en route vers Agra",
+   "Savourez le dîner lors de votre trajet de train de retour vers Delhi",
+   "Découvrez les points forts d'Agra avec un guide touristique local professionnel",
+   "Restez rafraîchi avec de l'eau minérale en bouteille offerte toute la journée",
+   "Billets d'entrée à tous les principaux monuments inclus (si sélectionné au moment du paiement, si option sélectionnée)",
+   "Profitez d'un déjeuner buffet 5 étoiles avec des plats indiens et internationaux (si option choisie)"
+  ],
+  "notIncluded": [
+   "Pourboires et gratifications"
+  ]
+ },
+ "from-delhi-all-inclusive-taj-mahal-mathura": {
+  "title": "Depuis Delhi : visite tout compris du Taj Mahal et de Mathura Vrindavan",
+  "metaTitle": "Delhi-Agra-Mathura : Taj Mahal, tout compris",
+  "metaDescription": "Découvrez les lieux où Krishna a été élevé et a transmis ses enseignements.",
+  "shortDescription": "Découvrez les lieux où Krishna a été élevé et a transmis ses enseignements.",
+  "fullDescription": "Commencez votre journée en étant pris en charge par un chauffeur courtois à l'hôtel ou à l'aéroport de votre choix à Delhi, Gurugram, Noida, et Faridabad. Partez en vacances dans un véhicule confortable avec climatisation, eau minérale, et nourriture portable.\n\nDécouvrez la célèbre Mathura, lieu de naissance de Krishna, et vivez la force transcendante de l'amour au Prem Mandir, populairement appelé le Temple de l'Amour. Explorez le fort d'Agra et le Taj Mahal, une célèbre représentation de l'amour. Visitez le fort d'Agra ou déjeunez après avoir vu le Taj Mahal.\n\nAgra offre bien plus que le simple Taj Mahal, même si la majorité des visiteurs viennent ici pour voir ses charmes inégalés. S'étendant sur presque 2,5 miles le long des rives légendaires de la rivière Yamuna, le magnifique fort d'Agra se trouve à seulement quelques mètres du Taj Mahal. L'Uttar Pradesh, un État du nord de l'Inde, abrite la ville historique et légendaire de Mathura.\n\nL'une des plus anciennes villes de la nation et le lieu de naissance du Seigneur Krishna, elle abrite plusieurs temples et autres lieux de culte. Cette ville, qui compte des lieux saints hindous, est fière d'être mentionnée dans l'épopée du Ramayana. L'histoire de cette ville légendaire a débuté au sixième siècle avant J.-C., et de nombreuses dynasties mythologiques et historiques ont laissé leur empreinte sur la région. Allez à Janam Bhumi, Krishna.\n\nAprès avoir rassemblé des souvenirs précieux, retournez à un endroit prisé des locaux à Delhi.",
+  "highlights": [
+   "Découvrez les lieux où Krishna a été élevé et a transmis ses enseignements"
+  ],
+  "included": [
+   "Prise en charge et retour à Delhi, Noida, Gurugram, Ghaziabad, ou Faridabad",
+   "Guide touristique",
+   "Véhicule climatisé",
+   "Eau en bouteille",
+   "Frais d'entrée aux monuments (si option sélectionnée)",
+   "Déjeuner dans un hôtel 5 étoiles (si option sélectionnée)"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Pourboires et gratifications"
+  ]
+ },
+ "agra-to-bharatpur-same-day-tour-with-fatehpur": {
+  "title": "Visite d'Agra à Bharatpur le jour même avec Fatehpur Sikri",
+  "metaTitle": "Agra-Bharatpur-Fatehpur Sikri : visite en 1 jour",
+  "metaDescription": "Les mois d'hiver (octobre à mars) pour la meilleure expérience d'observation des oiseaux.",
+  "shortDescription": "Les mois d'hiver (octobre à mars) pour la meilleure expérience d'observation des oiseaux.",
+  "fullDescription": "Le sanctuaire d'oiseaux de Bharatpur, également connu comme le parc national de Keoladeo, est un habitat aviaire réputé et un site du patrimoine mondial de l'UNESCO situé à Bharatpur, au Rajasthan, en Inde. C'est une destination populaire pour les ornithologues amateurs et les passionnés de nature. Voici quelques faits intéressants sur le sanctuaire d'oiseaux de Bharatpur :\n\n1. Abrite plus de 370 espèces d'oiseaux, incluant des oiseaux migrateurs et résidents.\n2. Un habitat vital pour des espèces menacées comme la grue de Sibérie, l'aigle impérial, et l'outarde indienne.\n3. Soutient une large gamme de flore et de faune, incluant des zones humides, prairies, et forêts.\n4. Meilleure période pour visiter : d'octobre à mars, lorsque les oiseaux migrateurs arrivent.\n5. Activités populaires : observation des oiseaux, navigation en bateau, et cyclisme.\n\nVoici quelques-uns des oiseaux que vous pouvez observer à Bharatpur :\n\n1. Tantale indien\n2. Anhinga d'Asie\n3. Héron pourpré\n4. Grande aigrette\n5. Cormoran indien\n6. Grue antigone\n7. Pélican à bec tacheté\n8. Pélican frisé\n9. Héron cendré\n10. Pélican rose\n\nN'oubliez pas de planifier votre visite pendant les mois d'hiver (d'octobre à mars) pour la meilleure expérience d'observation des oiseaux.",
+  "highlights": [
+   "Les mois d'hiver (octobre à mars) pour la meilleure expérience d'observation des oiseaux"
+  ],
+  "included": [
+   "Balade en rickshaw",
+   "Safari",
+   "Entrées",
+   "Guide touristique",
+   "Transports",
+   "Voiture privée",
+   "Eau"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Nourriture"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
