@@ -27844,6 +27844,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles\nPourboires et gratifications"
   ]
  },
+ "lotus-temple-spiritual-spiritual-tour": {
+  "title": "Circuit d'une journée des temples et sites spirituels de Delhi",
+  "metaTitle": "Circuit d'une journée des temples et sites spirituels",
+  "metaDescription": "Visitez le Temple Akshardham, l'un des plus grands temples hindous du monde, lors de ce circuit spirituel d'une journée.",
+  "shortDescription": "Visite du Temple Akshardham, l'un des plus grands temples hindous du monde.",
+  "fullDescription": "Circuit d'une journée des temples et sites spirituels de Delhi. Visite du Temple Akshardham, l'un des plus grands temples hindous du monde.\n\nTemple Akshardham : commencez votre journée tôt avec une visite du Temple Akshardham, l'un des plus grands temples hindous du monde. Admirez son architecture époustouflante, ses sculptures complexes et son environnement serein. Explorez les expositions à l'intérieur du complexe pour découvrir l'histoire et les valeurs de l'hindouisme.\n\nTemple du Lotus : poursuivez vers le Temple du Lotus, une maison d'adoration bahá'íe réputée pour son architecture frappante en forme de fleur de lotus. Passez du temps en méditation silencieuse ou en contemplation dans l'ambiance paisible de cet espace sacré, ouvert aux personnes de toutes les confessions.\n\nDéjeuner :\nPause déjeuner : faites une pause déjeuner dans un restaurant voisin ou profitez d'un repas à emporter dans un lieu pittoresque comme le Nehru Park ou les Lodhi Gardens, où vous pourrez vous détendre au milieu de la nature.\n\nGurudwara Bangla Sahib : visitez le Gurudwara Bangla Sahib, l'un des gurudwaras sikhs les plus importants de Delhi. Découvrez la chaleur de l'hospitalité sikhe en participant au langar (cuisine communautaire) où des repas gratuits sont servis aux visiteurs, quelle que soit leur religion ou origine.\n\nJama Masjid : explorez la Jama Masjid, l'une des plus grandes mosquées d'Inde. Émerveillez-vous devant sa grande architecture moghole, notamment ses dômes impressionnants, ses minarets et sa vaste cour. Grimpez à l'un des minarets pour une vue panoramique sur Old Delhi.\n\nTemple ISKCON : terminez votre circuit d'une journée par une visite du Temple ISKCON (Société internationale pour la conscience de Krishna). Assistez à l'aarti du soir (rituel de culte) et plongez-vous dans les chants dévotionnels et l'atmosphère spirituelle.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose\n- Voiture privée climatisée pour toute l'activité du circuit\n- Guide en direct\n- Bouteille d'eau minérale\n- Tous les péages et frais de stationnement\n\n### Non inclus\n\n- Nourriture\n- Toute dépense personnelle\n- Billets d'entrée aux monuments",
+  "highlights": [
+   "Visite du Temple Akshardham, l'un des plus grands temples hindous du monde"
+  ],
+  "included": [
+   "Prise en charge et dépose\nVoiture privée climatisée pour toute l'activité du circuit\nGuide en direct\nBouteille d'eau minérale\nTous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Nourriture\nToute dépense personnelle\nBillets d'entrée aux monuments"
+  ]
+ },
+ "from-delhi-2-days-varanasi-tour-by-fastest-train": {
+  "title": "Depuis Delhi : circuit de 2 jours à Varanasi en train le plus rapide",
+  "metaTitle": "Depuis Delhi : circuit de 2 jours à Varanasi en train",
+  "metaDescription": "Options de train les plus rapides : Vande Bharat Express (8 heures), pour ce circuit de 2 jours à Varanasi.",
+  "shortDescription": "Voyage : options de train les plus rapides, Vande Bharat Express (8 heures)",
+  "fullDescription": "Depuis Delhi : circuit de 2 jours à Varanasi en train le plus rapide. Voyage : options de train les plus rapides, Vande Bharat Express (8 heures).\n\n### Ce qui est inclus\n\n- Prise en charge et dépose\n- Chauffeur et taxi\n- Visites touristiques\n- Billets de train\n- Repas à bord\n- Guide touristique\n- Hébergement (si l'option est choisie)\n- Frais de stationnement partout\n- Suppléments carburant\n\n### Non inclus\n\n- Billets d'entrée\n- Repas\n- Shopping\n- Pourboires et gratifications",
+  "highlights": [
+   "Voyage : options de train les plus rapides, Vande Bharat Express (8 heures)"
+  ],
+  "included": [
+   "Prise en charge et dépose\nChauffeur et taxi\nVisites touristiques\nBillets de train\nRepas à bord\nGuide touristique\nHébergement (si l'option est choisie)\nFrais de stationnement partout\nSuppléments carburant"
+  ],
+  "notIncluded": [
+   "Billets d'entrée\nRepas\nShopping\nPourboires et gratifications"
+  ]
+ },
+ "22-march-enjoy-holi-color-festival-w-local-delhi": {
+  "title": "22 mars : profitez de Holi (Fête des Couleurs) avec une famille locale de Delhi",
+  "metaTitle": "22 mars : Holi (Fête des Couleurs) en famille à Delhi",
+  "metaDescription": "Participez au plus grand festival indien, le Holi, avec une famille locale de Delhi, le 22 mars 2027.",
+  "shortDescription": "Participez au plus grand festival indien",
+  "fullDescription": "22 mars : profitez de Holi (Fête des Couleurs) avec une famille locale de Delhi. Participez au plus grand festival indien.\n\nRemarque : ce circuit n'est réservable que pour le lundi 22 mars 2027.\n\nHoli est célébrée au mois de mars chaque année par tous les Indiens (y compris les communautés non hindoues) à une date différente chaque année selon le calendrier lunaire hindou.\n\nEn 2027, Holi sera célébrée le lundi 22 mars.\n\nCe sera une expérience merveilleuse et immersive pour toute personne intéressée par la culture indienne et la fête de Holi.\n\nParticiper à la fête avec une famille locale peut offrir un aperçu unique et authentique des traditions et coutumes associées à Holi, qui est une fête majeure de l'Inde, pleine de plaisir, de couleurs, de musique, de danse, de mets et de boissons.\n\nEn réservant ce circuit, les invités peuvent participer à la fête de Holi avec le guide et sa famille, chez eux à Delhi.\n\nÀ leur arrivée, les invités recevront un accueil traditionnel.\n\nPuis, des en-cas, des douceurs et des boissons vous seront proposés en rafraîchissement.\n\nL'importance et la signification de la fête de Holi en Inde vous seront expliquées à travers un quiz ludique.\n\nEnsuite, vous (ainsi que le guide et sa famille) marcherez jusqu'au parc de la résidence où se trouve la maison du guide pour profiter de la fête de Holi. Là, vous jouerez avec de la poudre colorée, des ballons d'eau et des pistolets à eau dans le parc. Une coiffe festive de Holi vous sera fournie. En même temps, vous aurez l'occasion de danser sur des chansons de Bollywood.\n\nAprès avoir joué à Holi, vous pourrez changer vos vêtements tachés. Il vous est demandé d'apporter un ensemble de vêtements propres à porter après avoir joué à Holi.\n\nEnsuite, vous pourrez prendre un déjeuner végétarien communautaire avec le guide et sa famille.\n\nCe sera une journée inoubliable de votre vie où vous participerez à une fête indienne majeure.\n\nVers la fin du circuit, les invités recevront un souvenir très spécial de la culture indienne.\n\nPendant le circuit, vous serez libre de prendre autant de photos et de vidéos des festivités que vous le souhaitez.\n\n### Ce qui est inclus\n\n- Boissons\n- En-cas\n- Douceurs\n- Bouteilles d'eau\n- Souvenir spécial\n- Déjeuner végétarien\n- Fête de Holi : couleurs\n- Fête de Holi : pistolets jouets\n- Fête de Holi : feux d'artifice\n- Fête de Holi : coiffe\n- Fête de Holi : ballons d'eau\n- Sacs jetables pour les vieux vêtements\n\n### Non inclus\n\n- Serviettes à main\n- En-cas non végétariens\n- Boissons alcoolisées\n- Prise en charge et dépose à l'hôtel\n- Prise en charge et dépose au métro\n- Assurances voyage et médicales",
+  "highlights": [
+   "Participez au plus grand festival indien"
+  ],
+  "included": [
+   "Boissons\nEn-cas\nDouceurs\nBouteilles d'eau\nSouvenir spécial\nDéjeuner végétarien\nFête de Holi : couleurs\nFête de Holi : pistolets jouets\nFête de Holi : feux d'artifice\nFête de Holi : coiffe\nFête de Holi : ballons d'eau\nSacs jetables pour les vieux vêtements"
+  ],
+  "notIncluded": [
+   "Serviettes à main\nEn-cas non végétariens\nBoissons alcoolisées\nPrise en charge et dépose à l'hôtel\nPrise en charge et dépose au métro\nAssurances voyage et médicales"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
