@@ -5925,6 +5925,76 @@ export const FR_TOURS: Record<string, TourT> = {
    "Tout ce qui n'est pas mentionné dans les inclusions"
   ]
  },
+ "agra-taj-mahal-vip-tickets-with-female-guide-car": {
+  "title": "Agra : billets VIP pour le Taj Mahal avec guide féminine et voiture",
+  "metaTitle": "Agra : Taj Mahal VIP avec guide féminine",
+  "metaDescription": "Visitez le majestueux Taj Mahal, beauté époustouflante du 17e siècle.",
+  "shortDescription": "Visitez le majestueux Taj Mahal, beauté époustouflante du 17e siècle.",
+  "fullDescription": "**Prise en charge**\nLa visite commence par une prise en charge à l'hôtel/aéroport ou à tout endroit demandé dans la ville d'Agra.\n\n**Taj Mahal**\nRencontrez votre guide touristique et procédez à la visite du Taj Mahal avec un billet d'entrée VIP, en découvrant le mausolée en marbre du Taj Mahal à Agra, à votre propre rythme.\n\n**Optionnel**\nVisitez l'historique fort d'Agra, un autre site du patrimoine mondial de l'UNESCO ; ce site abritait autrefois les empereurs moghols avant que Delhi ne devienne la capitale de l'Inde.\n\n**Dépose**\nSoyez transféré à votre hôtel/aéroport ou à tout endroit souhaité à Agra à la fin de la visite.",
+  "highlights": [
+   "Visitez le majestueux Taj Mahal, beauté époustouflante du 17e siècle"
+  ],
+  "included": [
+   "Visites en voiture privée climatisée",
+   "Billet d'entrée coupe-file au Taj Mahal (si option choisie)",
+   "Guide touristique professionnelle en direct",
+   "Prise en charge et retour à l'hôtel",
+   "Eau minérale",
+   "Protège-chaussures",
+   "Toutes les taxes"
+  ],
+  "notIncluded": []
+ },
+ "from-delhi-same-day-taj-mahal-tour": {
+  "title": "Depuis Delhi : visite du Taj Mahal le jour même",
+  "metaTitle": "Delhi-Agra : Taj Mahal en 1 jour",
+  "metaDescription": "Le trajet de Delhi à Agra via l'autoroute express Yamuna.",
+  "shortDescription": "Le trajet de Delhi à Agra via l'autoroute express Yamuna.",
+  "fullDescription": "Partez tôt de Delhi pour éviter la circulation et profiter au maximum de votre journée.\nDistance : environ 200 km (3 à 4 heures de trajet selon la circulation).\nItinéraire : prenez l'autoroute express Yamuna pour un voyage fluide et plus rapide.\n\nArrivez à Agra en fin de matinée ou vers midi.\n\n**Taj Mahal** : passez suffisamment de temps à explorer le Taj Mahal, l'un des monuments les plus emblématiques du monde.\n\n**Pause déjeuner** : déjeunez dans un restaurant local à Agra. Il y a de nombreuses bonnes options disponibles.\n\n**Fort d'Agra** : visitez le fort d'Agra, un site du patrimoine mondial de l'UNESCO et une forteresse historique de la ville d'Agra.\n\n**Baby Taj (tombeau d'Itimad-ud-Daulah)** : visitez le tombeau d'Itimad-ud-Daulah, souvent appelé le Baby Taj en raison de son architecture similaire.\n\n**Retour à Delhi** : partez d'Agra en fin d'après-midi ou début de soirée pour éviter de revenir pendant les heures de pointe. Profitez du trajet de retour vers Delhi.",
+  "highlights": [
+   "Le trajet de Delhi à Agra via l'autoroute express Yamuna"
+  ],
+  "included": [
+   "Prise en charge et retour",
+   "Une voiture confortable et climatisée",
+   "Déjeuner dans un hôtel 5 étoiles",
+   "Guide touristique anglophone à Agra",
+   "Un chauffeur professionnel familier avec l'itinéraire et les conditions locales",
+   "Bouteille d'eau",
+   "Tous les péages et le stationnement"
+  ],
+  "notIncluded": [
+   "Frais d'entrée aux monuments",
+   "Nourriture et boissons",
+   "Assurance et soins médicaux",
+   "Pourboires pour le guide et le chauffeur"
+  ]
+ },
+ "agra-taj-mahal-guided-tour-with-fast-track-entry": {
+  "title": "Agra : visite guidée du Taj Mahal avec entrée rapide",
+  "metaTitle": "Agra : Taj Mahal, entrée rapide, guide",
+  "metaDescription": "Explorez le mondialement célèbre Taj Mahal avec un guide professionnel agréé.",
+  "shortDescription": "Explorez le mondialement célèbre Taj Mahal avec un guide professionnel agréé.",
+  "fullDescription": "Découvrez la beauté intemporelle du Taj Mahal et le magnifique fort d'Agra lors de cette visite privée guidée, conçue pour les voyageurs souhaitant une compréhension plus approfondie du riche héritage moghol de l'Inde. Que vous visitiez Agra pour la première fois ou que vous reveniez admirer sa beauté, cette expérience combine histoire fascinante, architecture époustouflante, et service personnalisé.\n\nRencontrez votre guide professionnel agréé à votre point de rencontre préféré ou à l'entrée du Taj Mahal. Votre voyage commence au mondialement célèbre Taj Mahal, l'une des sept merveilles du monde et site du patrimoine mondial de l'UNESCO. Construit par l'empereur Shah Jahan en mémoire de son épouse bien-aimée Mumtaz Mahal, le monument est réputé pour son architecture en marbre blanc, son travail d'incrustation complexe, et sa symétrie à couper le souffle.\n\nEn vous promenant à travers les jardins et les allées en marbre, votre guide partagera des histoires captivantes sur l'Empire moghol, la construction du monument, et le symbolisme caché dans son design. On vous montrera également les meilleurs endroits pour la photographie afin de capturer des souvenirs inoubliables.\n\nContinuez vers l'impressionnant fort d'Agra, un autre site du patrimoine mondial de l'UNESCO et ancienne résidence royale des empereurs moghols. Explorez ses magnifiques palais, salles d'audience, belles cours, et profitez de vues panoramiques sur le Taj Mahal depuis l'intérieur du fort.\n\nTout au long de la visite, profitez d'une attention personnalisée, d'un rythme flexible, et de la possibilité de poser des questions, rendant cette expérience idéale pour les couples, familles, voyageurs solo, et petits groupes.\n\nQue vous soyez passionné d'histoire, d'architecture, ou de photographie, cette visite privée offre un voyage inoubliable à travers deux des sites les plus emblématiques de l'Inde.",
+  "highlights": [
+   "Explorez le mondialement célèbre Taj Mahal avec un guide professionnel agréé"
+  ],
+  "included": [
+   "Billet d'entrée express au Taj Mahal (si option sélectionnée)",
+   "Guide professionnel agréé",
+   "Visite privée guidée",
+   "Visite guidée du Taj Mahal et du fort d'Agra",
+   "Assistance photographique",
+   "Recommandations locales"
+  ],
+  "notIncluded": [
+   "Billets d'entrée aux monuments",
+   "Transport",
+   "Repas et boissons",
+   "Dépenses personnelles",
+   "Pourboires et gratifications"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
