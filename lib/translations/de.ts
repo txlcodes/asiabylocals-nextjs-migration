@@ -22652,6 +22652,87 @@ export const DE_TOURS: Record<string, TourT> = {
    "Essen und Getränke außer dem enthaltenen Frühstück"
   ]
  },
+ "2-day-jim-corbett-national-park-tour-from-delhi": {
+  "title": "2-tägige Tour zum Jim-Corbett-Nationalpark ab Delhi",
+  "metaTitle": "Jim Corbett: 2 Tage ab Delhi",
+  "metaDescription": "Genießen Sie einen Naturspaziergang, oder besuchen Sie nahegelegene Attraktionen wie das Corbett-Museum.",
+  "shortDescription": "Genießen Sie einen Naturspaziergang, oder besuchen Sie nahegelegene Attraktionen wie das Corbett-Museum.",
+  "fullDescription": "2-tägige Tour zum Jim-Corbett-Nationalpark ab Delhi. Genießen Sie einen Naturspaziergang, oder besuchen Sie nahegelegene Attraktionen wie das Corbett-Museum.\n\n**Was ist enthalten**\nAbholung und Rückfahrt von Ihrem Zielort\nFrühstück und Abendessen\nUnterkunft\nBesichtigungen gemäß Reiseplan\nPrivates Auto für die gesamte Tour\n2 Safaris in Jeep/Canter (je nach Verfügbarkeit)\nGuide\nAlle Steuern inklusive\n\n**Nicht enthalten**\nMittagessen\nEintrittsgebühren zu Denkmälern\nPersönliche Ausgaben\nJegliche Kameragebühr\nJegliche Versicherung",
+  "highlights": [
+   "Genießen Sie einen Naturspaziergang, oder besuchen Sie nahegelegene Attraktionen wie das Corbett-Museum"
+  ],
+  "included": [
+   "Abholung und Rückfahrt von Ihrem Zielort",
+   "Frühstück und Abendessen",
+   "Unterkunft",
+   "Besichtigungen gemäß Reiseplan",
+   "Privates Auto für die gesamte Tour",
+   "2 Safaris in Jeep/Canter (je nach Verfügbarkeit)",
+   "Guide",
+   "Alle Steuern inklusive"
+  ],
+  "notIncluded": [
+   "Mittagessen",
+   "Eintrittsgebühren zu Denkmälern",
+   "Persönliche Ausgaben",
+   "Jegliche Kameragebühr",
+   "Jegliche Versicherung"
+  ]
+ },
+ "delhi-3-day-kasol-tosh-hidden-trail-himalayan": {
+  "title": "Delhi: 3-tägige Himalaya-Flucht nach Kasol und Tosh, versteckter Pfad",
+  "metaTitle": "Delhi: Kasol und Tosh, 3 Tage, versteckter Pfad",
+  "metaDescription": "Wanderung auf einem versteckten Pfad zu einem abgelegenen Tosh-Aussichtspunkt.",
+  "shortDescription": "Wanderung auf einem versteckten Pfad zu einem abgelegenen Tosh-Aussichtspunkt.",
+  "fullDescription": "Delhi: 3-tägige Himalaya-Flucht nach Kasol und Tosh, versteckter Pfad. Wanderung auf einem versteckten Pfad zu einem abgelegenen Tosh-Aussichtspunkt.\n\nEntkommen Sie dem Trubel von Delhi, und erleben Sie den Himalaya auf eine Weise, wie es die meisten Reisenden nie tun.\nDieses exklusive 3-tägige Kleingruppenerlebnis ist für Reisende konzipiert, die Kultur, versteckte Pfade, großartige Cafés, langsames Reisen, und eine echte Verbindung zum Leben in Himachal suchen.\n\nAnstelle von Standard-Kasol-Tosh-Reiseplänen konzentriert sich diese Reise auf einzigartige Momente:\nEin praktischer Besuch in einer örtlichen Himachali-Kunsthandwerkswerkstatt\nEin weniger bekannter Waldpfad nach Tosh\nEin gemütlicher Lagerfeuerabend mit örtlichem Dessert\nEin kuratierter Spaziergang zur Verkostung in israelischen Cafés\nFotografie-Anleitung während der gesamten Reise\n\n**Tag 0: Abreise von Delhi**\nBesteigen Sie am späten Abend Ihr komfortables privates klimatisiertes Fahrzeug.\nEntspannen Sie sich, während die Lichter der Stadt verblassen, und die Reise sich über Nacht durch die Berge schlängelt.\n\n**Tag 1: Kasol, Flussuferspaziergang, und Kunsthandwerker-Erlebnis**\nAnkunft in Kasol am Morgen, bei frischer Bergluft, und dem Klang des Flusses Parvati.\n\nCheck-in in Ihrer Boutique-Unterkunft/Campingplatz am Flussufer.\n\nGenießen Sie das Frühstück mit Bergblick.\n\nMachen Sie einen geführten Spaziergang am Flussufer in Richtung des Dorfes Chalal.\n\nBesuchen Sie eine örtliche Himachali-Kunsthandwerkswerkstatt: lernen Sie das traditionelle Handwerk des Webens, Färbens, oder Holzschnitzens.\n\nVerbringen Sie den Nachmittag auf einer geführten Café-Tour, einschließlich Gerichten im israelischen Stil, Bäckereiverkostung, und Gesprächen mit örtlichen Café-Besitzern.\n\nAbend zur freien Verfügung zur Entspannung am Flussufer, oder zur Erkundung des Basars.\n\nÜbernachtung in Kasol.\n\n**Tag 2: versteckter Pfad-Trek nach Tosh, und Lagerfeuerabend**\nNach dem Frühstück Fahrt nach Barshaini, und Beginn einer weniger bekannten Waldroute, die den überfüllten Touristenpfad vermeidet.\n\nWandern Sie durch Zedern, ruhige Pfade, und malerische Wiesen.\n\nErreichen Sie Tosh, mit vielen Fotopausen, geführt von Ihrem fotoerfahrenen örtlichen Experten.\n\nCheck-in in einer gemütlichen Berg-Unterkunft.\n\nGenießen Sie einen friedlichen Abend in der Natur.\n\nNachts versammeln Sie sich zu einer privaten Lagerfeuer-Sitzung mit hausgemachtem Himachali-Dessert, und örtlichen Geschichten.\n\nÜbernachtung in Tosh.\n\n**Tag 3: Morgenspaziergang, Kaffeepause, und Rückkehr nach Delhi**\nGenießen Sie einen entspannten Morgenspaziergang, bei dem Sie Toshs winzige Pfade und Aussichtspunkte erkunden.\n\nRückkehr nach Kasol, mit einer Kaffeepause vor der Abreise.\n\nBesteigen Sie Ihr Auto am Abend, und erreichen Sie Delhi am nächsten Morgen.\n\n**Was ist enthalten**\nDelhi-Kasol im klimatisierten Halbschlafwagen-Volvo / privaten Auto\nÖrtlicher Transport: Kasol-Barshaini\n1 Nacht in Kasol (Unterkunft/Camp)\n1 Nacht in Tosh (Unterkunft)\nGeführter Besuch einer Kunsthandwerkswerkstatt\nGeführter Spaziergang zur Verkostung in israelischen Cafés\nFotografie-Unterstützung\nGeführter Trek auf versteckten Pfaden nach Tosh\nLagerfeuerabend mit speziellem örtlichem Himachali-Dessert\nErfahrener örtlicher Reiseführer\nKleingruppe (maximal 12 Reisende)\n\n**Nicht enthalten**\nMittag- und Abendessen\nPersönliche Ausgaben\nSnacks und zusätzliche Getränke\nReiseversicherung\nAlles, was nicht in den Einschlüssen erwähnt wird",
+  "highlights": [
+   "Wanderung auf einem versteckten Pfad zu einem abgelegenen Tosh-Aussichtspunkt"
+  ],
+  "included": [
+   "Delhi-Kasol im klimatisierten Halbschlafwagen-Volvo / privaten Auto",
+   "Örtlicher Transport: Kasol-Barshaini",
+   "1 Nacht in Kasol (Unterkunft/Camp)",
+   "1 Nacht in Tosh (Unterkunft)",
+   "Geführter Besuch einer Kunsthandwerkswerkstatt",
+   "Geführter Spaziergang zur Verkostung in israelischen Cafés",
+   "Fotografie-Unterstützung",
+   "Geführter Trek auf versteckten Pfaden nach Tosh",
+   "Lagerfeuerabend mit speziellem örtlichem Himachali-Dessert",
+   "Erfahrener örtlicher Reiseführer",
+   "Kleingruppe (maximal 12 Reisende)"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen",
+   "Persönliche Ausgaben",
+   "Snacks und zusätzliche Getränke",
+   "Reiseversicherung",
+   "Alles, was nicht in den Einschlüssen erwähnt wird"
+  ]
+ },
+ "the-great-indian-food-tour-old-delhi-food-and": {
+  "title": "Die große indische Kulinarik-Tour: kulinarischer und kultureller Spaziergang durch Alt-Delhi",
+  "metaTitle": "Alt-Delhi: große Kulinarik-Tour",
+  "metaDescription": "Probieren Sie sich durch Alt-Delhi mit 11 bis 14 Gerichten.",
+  "shortDescription": "Probieren Sie sich durch Alt-Delhi mit 11 bis 14 Gerichten.",
+  "fullDescription": "Die große indische Kulinarik-Tour: kulinarischer und kultureller Spaziergang durch Alt-Delhi. Probieren Sie sich durch Alt-Delhi mit 11 bis 14 Gerichten.\n\nKommen Sie hungrig, und kommen Sie neugierig.\n\nEntdecken Sie Alt-Delhi durch sein Essen, seine Geschichten, seine Menschen, und seine zeitlosen Straßen. Schlendern Sie durch farbenfrohe Märkte, jahrhundertealte Gebäude, belebte Verkäufer, und unwiderstehliche Aromen, die diesen historischen Teil Delhis zum Leben erwecken.\nWir erkunden Chandni Chowk, Chawri Bazaar, Ballimaran, die Jama Masjid, und Matia Mahal, mit Halt an sorgfältig ausgewählten örtlichen Essensständen, die persönlich ausgewählt und regelmäßig besucht werden. Dies sind Orte, an denen Essen mit Sorgfalt und Tradition zubereitet wird, mit Rezepten und Aromen, die über Generationen von Delhi-Familien geliebt und weitergegeben wurden.\n\nDies ist keine Checkliste berühmter Restaurants. Es ist ein großzügiges, entspanntes kulinarisches Erlebnis, bei dem Zeit bleibt, sich zu setzen, zu essen, zu reden, und jedes Gericht wirklich zu genießen.\n\n**Was wir essen werden**\nAbhängig von der Route und der Tageszeit können Sie erwarten:\nTraditionelle Snacks aus Alt-Delhi\nVegetarische und nicht-vegetarische Street-Food-Spezialitäten\nAuthentische nicht-vegetarische Gerichte aus Alt-Delhi\nButter Chicken im Delhi-Stil\nReichhaltige traditionelle Currys\nÖrtliche Süßigkeiten und Desserts\nAuthentischer indischer Chai\n\nKommen Sie hungrig: dies ist ein richtiger kulinarischer Spaziergang, keine Reihe winziger Kostproben.\n\n**Mehr als nur Essen**\nZwischen den kulinarischen Stopps erkunden wir farbenfrohe Märkte, historische Gassen, und versteckte Ecken, während wir Geschichten über die Menschen, Traditionen, und das Alltagsleben in Alt-Delhi teilen.\nJe nach Route kann das Erlebnis auch eine Fahrt in einer Fahrradrikscha, E-Rikscha, oder einem Tuk-Tuk umfassen.\nUnd natürlich wird es Zeit für Chai geben, denn in Delhi gehören gutes Essen und gute Gespräche zusammen, und Chai ist eine echte Emotion.\n\n**Warum diese Tour?**\nErleben Sie Alt-Delhi durch Essen: Entdecken Sie die lebendige Kultur der Stadt jenseits der üblichen Touristenroute.\nPersönlich kuratierte Essensstopps: Jeder Stopp wird ausgewählt und regelmäßig besucht, mit Aufmerksamkeit für Qualität, Hygiene, Authentizität, und Konsistenz.\nGroßzügige Portionen: Genießen Sie richtige Portionen statt winziger Proben. Nehmen Sie sich Zeit, probieren Sie richtig, und verstehen Sie, warum diese Gerichte seit Generationen geliebt werden.\nKeine Shopping-Fallen: Keine obligatorischen Einkaufsstopps, Verkaufsgespräche, oder versteckte Absichten. Ihre Zeit gehört dem Essen, den Geschichten, und der Erkundung.\nÖrtliche Geschichten und Empfehlungen: Erfahren Sie, was man bestellen sollte, wo Einheimische essen, und wie man Touristenfallen vermeidet.\nGeeignet für alleinreisende Frauen und Familien: Alleinreisende Frauen, Familien, und Kinder sind herzlich willkommen. Wir streben an, das Erlebnis für alle entspannt und angenehm zu gestalten.\n\n**Was Sie mitnehmen werden**\nAm Ende des Erlebnisses nehmen Sie mit:\nAuthentische Aromen aus Alt-Delhi: ikonische Gerichte, örtliche Favoriten, und versteckte kulinarische Schätze.\nGeschichten und Geschichte: entdecken Sie die Straßen, Märkte, Architektur, und Erzählungen, die Alt-Delhi geprägt haben.\nEine örtliche Perspektive: erleben Sie Delhi durch jemanden, der sein Essen, seine Kultur, und sein Alltagsleben kennt.\nNeue Lieblingsspeisen: entdecken Sie Aromen, die Sie vielleicht nicht allein finden würden.\nEine tiefere Verbindung zu Delhi: verstehen Sie die Stadt jenseits der üblichen touristischen Sehenswürdigkeiten.\nGroßartiges Essen, Geschichten, und bleibende Erinnerungen.\n\n**Was ist enthalten**\nEssen und Getränke während des gesamten Erlebnisses\nGroßzügige Portionen an ausgewählten Essensständen\nTraditionelle Snacks und Chai\nWasser in Flaschen\nÖrtlicher Guide und Geschichtenerzähler\nRikscha-/E-Rikscha-/Tuk-Tuk-Fahrt, wo zutreffend\nÖrtliche Essensempfehlungen\n\n**Nicht enthalten**\nEinkäufe oder persönliche Käufe\nAbholung und Rückfahrt zum Hotel\nErnährungseinschränkungen und Allergien: Bitte informieren Sie uns im Voraus. Wir koordinieren uns, wo immer möglich, mit den Anbietern, um geeignete Alternativen bereitzustellen",
+  "highlights": [
+   "Probieren Sie sich durch Alt-Delhi mit 11 bis 14 Gerichten"
+  ],
+  "included": [
+   "Essen und Getränke während des gesamten Erlebnisses",
+   "Großzügige Portionen an ausgewählten Essensständen",
+   "Traditionelle Snacks und Chai",
+   "Wasser in Flaschen",
+   "Örtlicher Guide und Geschichtenerzähler",
+   "Rikscha-/E-Rikscha-/Tuk-Tuk-Fahrt, wo zutreffend",
+   "Örtliche Essensempfehlungen"
+  ],
+  "notIncluded": [
+   "Einkäufe oder persönliche Käufe",
+   "Abholung und Rückfahrt zum Hotel",
+   "Ernährungseinschränkungen und Allergien: Bitte informieren Sie uns im Voraus. Wir koordinieren uns, wo immer möglich, mit den Anbietern, um geeignete Alternativen bereitzustellen"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
