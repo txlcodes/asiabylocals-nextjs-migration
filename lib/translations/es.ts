@@ -4964,6 +4964,74 @@ export const ES_TOURS: Record<string, TourT> = {
    "Sin recogida ni entrega"
   ]
  },
+ "private-taj-mahal-tour-with-fast-track-entry": {
+  "title": "Tour privado al Taj Mahal con boleto de entrada rápida y guía",
+  "metaTitle": "Agra: Taj Mahal, entrada rápida y guía",
+  "metaDescription": "El Taj Mahal está hecho completamente de mármol blanco.",
+  "shortDescription": "El Taj Mahal está hecho completamente de mármol blanco.",
+  "fullDescription": "El Taj Mahal es un magnífico mausoleo de mármol blanco ubicado en Agra, India. Fue construido por el emperador mogol Shah Jahan en memoria de su amada esposa Mumtaz Mahal, quien falleció en 1631. La construcción del monumento comenzó en 1632 y tomó más de 20 años y aproximadamente 20.000 trabajadores para completarse.\n\nEl Taj Mahal se considera una de las estructuras más icónicas y hermosas del mundo, y también está reconocido como sitio del Patrimonio Mundial de la UNESCO. Su belleza reside no solo en su diseño exterior, sino también en los intrincados detalles de su decoración interior y los jardines circundantes.\n\nEl monumento está hecho completamente de mármol blanco, lo que le da una apariencia impresionante y única. El mármol está decorado con intrincados tallados e incrustado con piedras preciosas, convirtiéndolo en una verdadera obra de arte. Los cuatro minaretes que rodean la cúpula central también están hechos de mármol blanco, y están diseñados para inclinarse ligeramente hacia afuera para proteger la tumba en caso de terremotos.",
+  "highlights": [
+   "El Taj Mahal está hecho completamente de mármol blanco"
+  ],
+  "included": [
+   "Boleto para el Taj Mahal con mausoleo",
+   "Guía turístico aprobado por el gobierno",
+   "Tour privado",
+   "Entrada sin filas"
+  ],
+  "notIncluded": [
+   "Almuerzo",
+   "Tarifa de entrada a los monumentos",
+   "Transporte",
+   "Propina"
+  ]
+ },
+ "2-days-delhi-agra-tour-from-mumbai-by-flight": {
+  "title": "Tour de 2 días por Delhi, Agra desde Mumbai en avión",
+  "metaTitle": "Mumbai-Delhi-Agra en 2 días, en avión",
+  "metaDescription": "Viaje en avión de Mumbai a Delhi.",
+  "shortDescription": "Viaje en avión de Mumbai a Delhi.",
+  "fullDescription": "Descubra la belleza de la capital de la India y el icónico Taj Mahal con nuestro paquete especialmente diseñado \"Delhi-Agra desde Mumbai en avión\". Este tour ofrece un cómodo viaje en avión de Mumbai a Delhi, recorrido por Delhi, y una memorable visita al Taj Mahal en Agra.\n\nDisfrute de un viaje sin complicaciones con traslados privados, recorridos guiados, y una estancia cómoda en Agra mientras explora el mundialmente famoso Taj Mahal y el fuerte de Agra.\n\n**Día 1: vuelo Mumbai-Delhi, recorrido por Delhi, traslado a Agra**\nSu tour Delhi-Agra desde Mumbai en avión comienza con su vuelo de Mumbai a Delhi.\n\nA su llegada al aeropuerto de Delhi, nuestro representante le dará la bienvenida y lo asistirá en su recorrido turístico privado.\n\n**Recorrido por Delhi:**\nIndia Gate\nQutub Minar\nTemplo del Loto\nTumba de Humayun\nPase frente a Rashtrapati Bhavan y el Parlamento\nDespués del recorrido por Delhi, continúe su viaje hacia Agra en vehículo privado.\nLlegada a Agra y registro en el hotel.\nNoche en Agra.\n\n**Día 2: visita al Taj Mahal, fuerte de Agra, viaje de regreso**\nComience su mañana con una memorable visita al Taj Mahal, uno de los monumentos más hermosos del mundo y un símbolo del amor.\n\n**Visita al Taj Mahal**\nDisfrute de la impresionante arquitectura, hermosos jardines, y vistas asombrosas de este sitio del Patrimonio Mundial de la UNESCO.\n\n**Visita al fuerte de Agra**\nExplore el magnífico fuerte de Agra, un histórico monumento mogol conocido por su impresionante arquitectura e historia real.\n\nDespués de completar el recorrido por Agra, proceda a su viaje de regreso al aeropuerto de Delhi para su vuelo de regreso a Mumbai. Se alojará en un hotel de 4 o 5 estrellas en Agra.",
+  "highlights": [
+   "Viaje en avión de Mumbai a Delhi"
+  ],
+  "included": [
+   "Alojamiento para las noches en Agra, categoría 4/5 estrellas",
+   "Desayuno diario en el hotel",
+   "Todos los traslados y recorridos en vehículo privado con aire acondicionado",
+   "Guía profesional aprobado por el gobierno para los recorridos",
+   "Todos los impuestos, estacionamiento, y peajes",
+   "Agua embotellada",
+   "Boletos de avión de ida y vuelta"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a los monumentos",
+   "Almuerzo",
+   "Gratificaciones"
+  ]
+ },
+ "from-delhi-agra-day-tour-by-gatimaan-train-with": {
+  "title": "Desde Delhi: tour de un día a Agra en tren Gatimaan con el Taj Mahal",
+  "metaTitle": "Delhi-Agra en tren Gatimaan, 1 día",
+  "metaDescription": "Viaje de Delhi a Agra y de regreso en el tren superrápido de la India, el Gatimaan.",
+  "shortDescription": "Viaje de Delhi a Agra y de regreso en el tren superrápido de la India, el Gatimaan.",
+  "fullDescription": "El viaje comienza en Delhi con una recogida en su hotel/aeropuerto. El conductor lo llevará a la estación de tren y lo ayudará a encontrar su vagón y asiento. La hora de salida del tren desde Delhi es 8:10, y la hora de llegada a Agra es 9:50.\n\nEl viaje total de Delhi a Agra toma solo 90 minutos. Llegue a la estación de tren de Agra, donde un representante/guía estará esperando, y su tour comenzará. Usará un coche privado con aire acondicionado durante su tour en Agra.\n\nA las 10:30, vea el Taj Mahal, una de las siete maravillas del mundo y un sitio del Patrimonio Mundial de la UNESCO. Su guía le explicará todo sobre el monumento y su trabajo de incrustación, caligrafía, y el hermoso tallado en mármol.\n\nDisfrute de un delicioso almuerzo bufé en un hotel de 5 estrellas, luego visite el fuerte de Agra. Maravíllese con la antigua residencia de los mogoles, y vea el Palacio de Jahangir, el Diwan-i-Aam, y el Khas Mahal. Después, vea el Baby Taj y escuche los comentarios de su guía turístico. Después de esto, regrese hacia la estación de tren de Agra.\n\nTraslado a Delhi, luego encuentro con su conductor. Regreso a su hotel o traslado al aeropuerto.",
+  "highlights": [
+   "Viaje de Delhi a Agra y de regreso en el tren superrápido de la India, el Gatimaan"
+  ],
+  "included": [
+   "Recogida y traslado al hotel",
+   "Boletos de tren de ida y vuelta de Delhi a Agra",
+   "Desayuno y cena en el tren",
+   "Guía turístico",
+   "Almuerzo en un hotel de 5 estrellas (si se selecciona esa opción)",
+   "Boletos de entrada (si se selecciona esa opción)"
+  ],
+  "notIncluded": [
+   "Bebidas",
+   "Propinas"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
