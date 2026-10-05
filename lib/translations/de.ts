@@ -25351,6 +25351,67 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten"
   ]
  },
+ "from-delhi-4-day-private-golden-triangle": {
+  "title": "Ab Delhi: 4-tägiges privates Golden-Triangle-Erlebnis",
+  "metaTitle": "Delhi: Golden Triangle privat, 4 Tage",
+  "metaDescription": "Erkunden Sie Indiens berühmte Golden-Triangle-Route mit Delhi, Agra, und Jaipur.",
+  "shortDescription": "Erkunden Sie Indiens berühmte Golden-Triangle-Route mit Delhi, Agra, und Jaipur.",
+  "fullDescription": "Ab Delhi: 4-tägiges privates Golden-Triangle-Erlebnis. Erkunden Sie Indiens berühmte Golden-Triangle-Route mit Delhi, Agra, und Jaipur.\n\n**Tag 1 – Besichtigung von Delhi und Fahrt nach Agra**\nIhr privates Golden-Triangle-Abenteuer beginnt mit einer morgendlichen Abholung von Ihrem Hotel, Flughafen, oder bevorzugten Ort in Delhi. Treffen Sie Ihren professionellen Fahrer und Reiseführer, bevor Sie die faszinierende Mischung aus altem Erbe und moderner Kultur der Hauptstadt erkunden.\n\nBesuchen Sie ikonische Sehenswürdigkeiten, darunter India Gate, Humayuns Grabmal, und den beeindruckenden Qutub Minar. Fahren Sie am Präsidentenpalast und den Parlamentsgebäuden vorbei, während Sie mehr über Indiens reiche Geschichte erfahren.\n\nNach der Besichtigung geht es weiter nach Agra über eine komfortable Fahrt auf dem Expressway. Bei Ankunft Check-in in Ihrem Hotel, und genießen Sie den Abend zur freien Verfügung.\n\nÜbernachtung in Agra.\n\n**Tag 2 – Erkundung von Agra und Transfer nach Jaipur**\nBeginnen Sie Ihren Tag mit einem Besuch des weltberühmten Taj Mahal bei Sonnenaufgang, wo das frühe Morgenlicht unvergessliche Ausblicke auf dieses architektonische Meisterwerk erschafft.\n\nRückkehr zum Hotel zum Frühstück, bevor Sie das prächtige Agra Fort besuchen, eine UNESCO-gelistete Festung, die als Residenz der Mogul-Kaiser diente. Später erkunden Sie das elegante Itimad-ud-Daulah, oft „Baby Taj\" genannt.\n\nAm Nachmittag Abfahrt nach Jaipur. Unterwegs Halt am historischen Fatehpur Sikri, der ehemaligen Mogul-Hauptstadt, bekannt für ihre prächtige Architektur.\n\nAnkunft in Jaipur am Abend, und Check-in in Ihrem Hotel.\n\nÜbernachtung in Jaipur.\n\n**Tag 3 – Jaipur, die rosa Stadt**\nNach dem Frühstück beginnen Sie eine ganztägige Erkundung von Jaipur. Erkunden Sie den wunderschönen Jal Mahal für einen Fotostopp, bevor Sie den königlichen City Palace erkunden. Entdecken Sie astronomische Wunder im Jantar Mantar, und bewundern Sie die kunstvolle Fassade des Hawa Mahal.\n\nVerbringen Sie etwas Zeit damit, durch Jaipurs farbenfrohe Basare zu schlendern, bekannt für Kunsthandwerk, Textilien, Edelsteine, und traditionelle Souvenirs.\n\nÜbernachtung in Jaipur.\n\n**Tag 4 – Abreise von Jaipur nach Delhi**\nGenießen Sie ein entspanntes Frühstück, bevor Sie Jaipur Richtung Delhi verlassen. Reisen Sie komfortabel durch die malerische Landschaft, und kommen Sie am Nachmittag in Delhi an.\n\nIhr Fahrer setzt Sie an Ihrem Hotel, Flughafen, Bahnhof, oder einem bevorzugten Ort in Delhi ab, womit Ihr unvergessliches 4-tägiges privates Golden-Triangle-Erlebnis endet.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel/Flughafen\nPrivates klimatisiertes Auto für die gesamte Tour, mit Fahrer\nVon der Regierung zugelassener Experten-Reiseführer in jeder Stadt\nUnterkunft für 3 Nächte im Hotel (falls diese Option gewählt wird)\nFrühstück im Hotel\nFlasche Mineralwasser\nAlle Maut- und Parkgebühren\n\n**Nicht inbegriffen**\nMittag- und Abendessen\nEintrittskarten für Sehenswürdigkeiten\nJegliche persönliche Ausgaben",
+  "highlights": [
+   "Erkunden Sie Indiens berühmte Golden-Triangle-Route mit Delhi, Agra, und Jaipur"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel/Flughafen",
+   "Privates klimatisiertes Auto für die gesamte Tour, mit Fahrer",
+   "Von der Regierung zugelassener Experten-Reiseführer in jeder Stadt",
+   "Unterkunft für 3 Nächte im Hotel (falls diese Option gewählt wird)",
+   "Frühstück im Hotel",
+   "Flasche Mineralwasser",
+   "Alle Maut- und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen",
+   "Eintrittskarten für Sehenswürdigkeiten",
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
+ "from-delhiagra-confirmed-express-train-ticket": {
+  "title": "Ab Delhi/Agra: bestätigtes Expresszug-Ticket Delhi - Agra",
+  "metaTitle": "Delhi-Agra: bestätigtes Expresszug-Ticket",
+  "metaDescription": "Bestätigte Zugtickets New Delhi-Agra-New Delhi: Ihre problemlose Reise erwartet Sie",
+  "shortDescription": "Bestätigte Zugtickets New Delhi-Agra-New Delhi: Ihre problemlose Reise erwartet Sie",
+  "fullDescription": "Ab Delhi/Agra: bestätigtes Expresszug-Ticket Delhi - Agra. Bestätigte Zugtickets New Delhi-Agra-New Delhi: Ihre problemlose Reise erwartet Sie.\n\nErkunden Sie Indiens meistbesuchtes Taj Mahal mit unseren bestätigten Expresszug-Tickets ab New Delhi. Reisen Sie nahtlos zwischen New Delhi und Agra (Taj Mahal). Vermeiden Sie Warteschlangen am Schalter, erhalten Sie Ihre bestätigten Tickets per E-Mail/WhatsApp für eine stressfreie Reise. Wählen Sie bequeme Zeiten auf den wichtigsten Strecken: Delhi-Agra, Agra-Delhi. Reisen Sie mit Indiens führenden Expresszügen wie dem Gatiman Express, dem Vande Bharat (Delhi-Agra-Delhi), oder dem Shatabdi Express, für eine schnelle, komfortable Tour. Buchen Sie jetzt für ein unvergessliches Abenteuer durch Indiens historisches Herzland!\n\nPassdaten sind von der indischen Regierung für die Zugticketbuchung verpflichtend.\nFalls die Passdaten nicht kurz nach der Buchung mitgeteilt werden, werden die Tickets nicht bestätigt.\n\n**Was ist inbegriffen**\nBestätigte Zugtickets für Expresszüge\nTickets für die Strecken: New Delhi nach Agra, Agra nach New Delhi\nAbholung am Bahnhof Agra zum Hotel oder Taj Mahal",
+  "highlights": [
+   "Bestätigte Zugtickets New Delhi-Agra-New Delhi: Ihre problemlose Reise erwartet Sie"
+  ],
+  "included": [
+   "Bestätigte Zugtickets für Expresszüge",
+   "Tickets für die Strecken: New Delhi nach Agra, Agra nach New Delhi",
+   "Abholung am Bahnhof Agra zum Hotel oder Taj Mahal"
+  ],
+  "notIncluded": []
+ },
+ "old-new-delhi-culture-architecture-city-private": {
+  "title": "Private Stadttour durch Alt- und New Delhi: Kultur und Architektur",
+  "metaTitle": "Delhi: Kultur, Architektur, private Tour",
+  "metaDescription": "Nutzen Sie die Gelegenheit, Alt-Delhi bei einer Tuk-Tuk-Fahrt zu besuchen",
+  "shortDescription": "Nutzen Sie die Gelegenheit, Alt-Delhi bei einer Tuk-Tuk-Fahrt zu besuchen",
+  "fullDescription": "Private Stadttour durch Alt- und New Delhi: Kultur und Architektur. Nutzen Sie die Gelegenheit, Alt-Delhi bei einer Tuk-Tuk-Fahrt zu besuchen.\n\nAbholung überall in New Delhi, Delhi, Noida, Gurugram, Ghaziabad, Faridabad. Wählen Sie eine beliebige Abholzeit zwischen 5:00 und 10:00 Uhr.\n\n**Chandni Chowk:**\nSie erleben Alt-Delhi bei einer Tuk-Tuk-Fahrt. Erkunden Sie die älteste Stadt Delhis, während Ihr Reiseführer die wichtige Rolle erklärt, die sie für die Einheimischen spielt.\n\n**Jama Masjid:**\nNun besuchen Sie die Jama Masjid, Ihren ersten Halt, und Indiens größte Moschee. Sie wurde vom Mogul-Kaiser Shah Jahan zwischen 1644 und 1656 erbaut, zu Kosten von 1 Million Rupien. Ihr Reiseführer kann wirklich schöne Fotos von den besten Plätzen aufnehmen.\n\n**Khari Baoli:**\nNach der Erkundung der farbenfrohen Märkte von Alt-Delhi besuchen Sie den berühmten Gewürzmarkt. Erfahren Sie einige interessante Fakten und Verwendungen von Gewürzen.\n\n**Gurudwara Bangla Sahib:**\nNach Abschluss von Alt-Delhi treffen Sie erneut Ihren Fahrer, und der Reiseführer bringt Sie zum Gurudwara Bangla Sahib. Dies ist die größte Küche Indiens, und sie bereitet täglich Essen für 10.000 Menschen zu.\n\n**India Gate:**\nNun fahren Sie an den Regierungsgebäuden vorbei, wo Sie großartige Fotos machen können. Sie können Fotos von India Gate aufnehmen, während Ihr Reiseführer Ihnen den historischen Hintergrund dieses Gebäudes erklärt.\n\n**Parlamentsgebäude:**\nNach den Fotos von India Gate fahren Sie auch am Parlamentsgebäude vorbei, das 1927 erbaut wurde. Im Jahr 2019 startete die indische Regierung das Central-Vista-Redevelopment-Projekt, ein milliardenschweres Projekt zur Neugestaltung des Central Vista.\n\n**Rashtrapati Bhavan:**\nSie besuchen auch den Präsidentenpalast, bekannt als Rashtrapati Bhavan. Rashtrapati Bhavan kann sich nur auf das Hauptgebäude mit 340 Räumen beziehen. Es dauerte 17 Jahre, es fertigzustellen.\n\n**Swaminarayan Akshardham:**\nEiner der größten hinduistischen Tempel. Er wurde 2005 erbaut, wirkt aber aufgrund seiner Architektur, als wäre er seit über tausend Jahren erbaut.\n\n**Humayuns Grabmal:**\nDies ist das erste Gartengrab Indiens und ein UNESCO-Weltkulturerbe. Es wurde von der Frau Humayuns (dem zweiten Mogul-Kaiser) erbaut, und nach Humayuns Tod fertiggestellt.\n\n**Raj Ghat:**\nDies ist optional, falls Sie es besuchen möchten: Raj Ghat ist ein Denkmal, das Mahatma Gandhi in Delhi, Indien, gewidmet ist.\n\n**Lotustempel:**\nDies wird Ihr letzter Halt in Delhi sein, falls Sie den Qutub Minar auslassen möchten. Der Lotustempel ist eine Bahai-Kultstätte, die im Dezember 1986 eingeweiht wurde. Bekannt für seine blumenähnliche Form, ist er zu einer bedeutenden Attraktion der Stadt geworden.\n\n**Qutub Minar:**\nZu guter Letzt können Sie sich auch für den Qutub Minar entscheiden. Der höchste Backsteinturm Indiens, erbaut 1192, markiert das erste muslimische Reich in Indien. Er ist ebenfalls Teil des UNESCO-Weltkulturerbes.\n\nNach dieser wunderbaren Reise bringt Sie der Fahrer zu jedem gewünschten Ort in Delhi NCR.\n\n**Was ist inbegriffen**\nAbholung vom Hotel oder Flughafen Delhi\nTuk-Tuk-Fahrt in Alt-Delhi\nEintrittskarten für Sehenswürdigkeiten (falls diese Option gewählt wird)\nLive-Reiseführer-Service\nFlasche Mineralwasser\nAlle anfallenden Steuern und Gebühren\n\n**Nicht inbegriffen**\nTrinkgelder und Gratifikationen",
+  "highlights": [
+   "Nutzen Sie die Gelegenheit, Alt-Delhi bei einer Tuk-Tuk-Fahrt zu besuchen"
+  ],
+  "included": [
+   "Abholung vom Hotel oder Flughafen Delhi",
+   "Tuk-Tuk-Fahrt in Alt-Delhi",
+   "Eintrittskarten für Sehenswürdigkeiten (falls diese Option gewählt wird)",
+   "Live-Reiseführer-Service",
+   "Flasche Mineralwasser",
+   "Alle anfallenden Steuern und Gebühren"
+  ],
+  "notIncluded": [
+   "Trinkgelder und Gratifikationen"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
