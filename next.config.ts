@@ -6,6 +6,19 @@ const nextConfig: NextConfig = {
   // Keep all URLs identical — no trailing slashes added
   trailingSlash: false,
 
+  // The Render build started failing with "Ran out of memory (used over
+  // 8GB)" once the China+Malaysia authority-page content files landed -
+  // dozens of large per-city content modules get pulled into every one of
+  // Next's parallel static-generation workers, and that multiplies with
+  // worker count. Capping workers to 1 makes generation serial instead of
+  // parallel, trading build time for a flat, bounded memory footprint. This
+  // is very likely why Malaysia and Singapore's earlier fixes never actually
+  // went live either - not a billing or domain-binding issue, a build OOM
+  // that silently failed every deploy since before this was diagnosed.
+  experimental: {
+    cpus: 1,
+  },
+
   images: {
     // Skip on-demand optimization in dev only — optimizing many remote images live
     // hangs `next dev`. Production keeps optimization (pre-cached at the edge).
