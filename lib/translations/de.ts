@@ -1376,6 +1376,70 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "agra-evening-tour-with-sunset-at-taj-mahal-and": {
+  "title": "Agra Abendtour mit Sonnenuntergang am Taj Mahal und Street Food",
+  "metaTitle": "Agra: Abendtour, Sonnenuntergang, Street Food",
+  "metaDescription": "Tauchen Sie ein in Agras Kultur mit einem privaten Reiseführer.",
+  "shortDescription": "Tauchen Sie ein in Agras Kultur mit einem privaten Reiseführer.",
+  "fullDescription": "**Abholung**\nSie werden von Ihrem Hotel oder gewünschten Ort in Agra abgeholt, wo Ihr Fahrer und Guide Sie treffen und begrüßen.\n\n**Sonnenuntergang-Taj-Mahal-Tour**\nBeginnen Sie Ihren Abend mit einem Besuch des Baby Taj (Itimad-ud-Daulah), einem atemberaubenden Marmormausoleum, das das Design des Taj Mahal inspirierte. Bekannt als das Schmuckkästchen, zeigt es exquisite Einlegearbeit und friedliche Umgebung entlang des Flusses Yamuna, und bietet einen Einblick in die Mogul-Kunstfertigkeit vor der Pracht des Taj selbst.\n\n**Street Food und Stadtansichten**\nDanach erkunden Sie lokale Märkte wie Sadar Bazaar, wo Sie Agras lebendige Kultur erleben, Kunst- und Kunsthandwerkspunkte der Stadt besuchen können. Genießen Sie lokales Street Food an den besten und hygienischen Ständen.\n\n**Abgabe**\nDer Fahrer setzt Sie an Ihrem Ort ab und beendet Ihre Tour mit vielen Erinnerungen.",
+  "highlights": [
+   "Tauchen Sie ein in Agras Kultur mit einem privaten Reiseführer"
+  ],
+  "included": [
+   "Privater Reiseführer",
+   "Privates klimatisiertes Auto mit Abholung und Rückfahrt",
+   "Street Food",
+   "Mehtab Bagh Tickets",
+   "Mineralwasser",
+   "Alle Steuern"
+  ],
+  "notIncluded": []
+ },
+ "from-delhi-jaipur-tour-with-car-guide-tickets": {
+  "title": "Ab Delhi: Jaipur-Tour mit Auto, Guide, Tickets, und Mittagessen",
+  "metaTitle": "Delhi-Jaipur: Auto, Guide, Tickets, Mittagessen",
+  "metaDescription": "Reisen Sie bequem von Delhi nach Jaipur in einem privaten, klimatisierten Fahrzeug.",
+  "shortDescription": "Reisen Sie bequem von Delhi nach Jaipur in einem privaten, klimatisierten Fahrzeug.",
+  "fullDescription": "Erleben Sie die lebendige Geschichte und die atemberaubende Architektur von Jaipur ohne den Stress der Planung auf dieser umfassenden Ganztagestour ab Delhi. Organisiert vom professionellen Team von Magical Taj Tour, beginnt Ihre Reise mit einer nahtlosen morgendlichen Abholung. Ihr privater Fahrer begrüßt Sie in der Hotellobby oder am Ankunftstor des Flughafens mit klarer Beschilderung und gewährleistet einen reibungslosen und beruhigenden Start in Ihren Tag.\n\nMachen Sie sich bequem in einem geräumigen, voll klimatisierten Fahrzeug mit kostenlosem Wasser in Flaschen für die malerische Fahrt nach Jaipur. Die Fahrt dauert etwa 4 Stunden, und Ihr Fahrer priorisiert Ihre Sicherheit und Ihren Komfort und bietet bei Bedarf Rastpausen an.\n\nBei der Ankunft in der \"Pink City\" treffen Sie Ihren erfahrenen lokalen Guide, der Jaipurs königliche Geschichte zum Leben erweckt. Ihr umfassender Besichtigungsplan umfasst:\n\nAmber Fort: Wandern Sie durch die atemberaubenden Sandstein- und Marmorhöfe dieses Hügelpalastes.\n\nPanna Meena ka Kund: Staunen Sie über die unglaubliche geometrische Symmetrie dieses historischen Stufenbrunnens.\n\nJal Mahal: Halten Sie für Fotos des schönen Wasserpalastes, der im Zentrum des Man-Sagar-Sees schwimmt.\n\nHawa Mahal: Bewundern Sie den Palast der Winde und sein kunstvolles Gitterwerk, das für königliche Frauen entworfen wurde.\n\nCity Palace: Erkunden Sie die prächtige königliche Residenz, die Rajput- und Mogul-Architektur verbindet.\n\nJantar Mantar: Entdecken Sie das größte Stein-Observatorium der Welt.\n\nGalta Ji (Affentempel): Besuchen Sie diese faszinierende antike hinduistische Pilgerstätte, eingebettet in einen Gebirgspass.\n\nDa dies ein privates Erlebnis voller unglaublicher Sehenswürdigkeiten ist, liegt das Tempo ganz bei Ihnen. Egal, ob Sie zusätzliche Zeit verbringen möchten, um das perfekte Foto zu machen, oder lieber ein Denkmal auslassen, um sich bei einem authentischen rajasthanischen Mittagessen zu entspannen, Ihr Guide wird den Tag so gestalten, dass Sie sich nie gehetzt fühlen.\n\nNach einem vollen Tag der Erkundung entspannen Sie sich im Komfort Ihres privaten Fahrzeugs für die Rückreise nach Delhi, die mit einer direkten Abgabe an Ihrem Hotel oder bevorzugten Ort endet.",
+  "highlights": [
+   "Reisen Sie bequem von Delhi nach Jaipur in einem privaten, klimatisierten Fahrzeug"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zu Ihrem Hotel, Flughafen, oder Bahnhof überall in Delhi, Agra, oder Jaipur",
+   "Privates klimatisiertes Fahrzeug (Limousine oder SUV) für Hin- und Rückfahrten und die gesamte Jaipur-Besichtigung",
+   "Professioneller privater Reiseführer in Jaipur (fließend in Englisch oder anderen Sprachen)",
+   "Trinkwasser in Flaschen im Fahrzeug und während der gesamten Tour bereitgestellt",
+   "Eintrittstickets für Denkmäler ohne Warteschlange (falls die Option ausgewählt ist)",
+   "Mittagessen in einem lokalen Restaurant mit vegetarischen Optionen (falls die Option ausgewählt ist)",
+   "Alle Transportkosten, einschließlich Autobahnmautgebühren, Landessteuern, Parkgebühren, und Kraftstoffzuschläge"
+  ],
+  "notIncluded": [
+   "Trinkgelder (optional)",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "classic-delhi-agra-tour-3-days-2-nights": {
+  "title": "Klassische Delhi- und Agra-Tour, 3 Tage / 2 Nächte",
+  "metaTitle": "Delhi-Agra klassisch: 3 Tage / 2 Nächte",
+  "metaDescription": "Besuchen Sie den weltberühmten Taj Mahal, eine UNESCO-Welterbestätte.",
+  "shortDescription": "Besuchen Sie den weltberühmten Taj Mahal, eine UNESCO-Welterbestätte.",
+  "fullDescription": "Entdecken Sie die Highlights von Delhi und Agra auf dieser klassischen 3-tägigen Tour mit 2 Übernachtungen. Erkunden Sie die ikonischen Denkmäler von Delhi und reisen Sie dann nach Agra, um den weltberühmten Taj Mahal, eine UNESCO-Welterbestätte, sowie das Agra Fort zu besuchen, auf einem komfortablen Reiseplan mit professionellem Guide und privatem klimatisiertem Fahrzeug.",
+  "highlights": [
+   "Besuchen Sie den weltberühmten Taj Mahal, eine UNESCO-Welterbestätte"
+  ],
+  "included": [
+   "Professioneller Reiseführer",
+   "Privates klimatisiertes Auto für die gesamte Aktivität",
+   "Mineralwasserflasche",
+   "3-Sterne-Hotelunterkunft",
+   "Frühstück im Hotel",
+   "Alle Mautgebühren und Parken",
+   "Eintrittstickets"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
