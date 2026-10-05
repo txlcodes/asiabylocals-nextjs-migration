@@ -3702,6 +3702,73 @@ export const DE_TOURS: Record<string, TourT> = {
    "Gratifikationen: Trinkgelder für Guide und Fahrer"
   ]
  },
+ "delhi-airport-to-taj-mahal-1-day-trip": {
+  "title": "Vom Flughafen Delhi zum Taj Mahal, Tagesausflug",
+  "metaTitle": "Flughafen Delhi-Taj Mahal, Tagesausflug",
+  "metaDescription": "Tauchen Sie ein in den ewigen Charme des Taj Mahal.",
+  "shortDescription": "Tauchen Sie ein in den ewigen Charme des Taj Mahal.",
+  "fullDescription": "Ihre Tagestour beginnt mit einer frühen Abholung von Ihrem Flughafen oder Hotel in Delhi. Fahren Sie nun über die Yamuna Expressway zur Stadt Agra ab. Unser Fahrer trifft Sie mit einem Schild mit Ihrem Namen. Wir geben Ihnen die Fahrer- und Autodetails im Voraus. Nachdem Sie im Auto Platz genommen haben, bereiten Sie sich auf eine komfortable Reise von 3,5 Stunden über die Schnellstraße vor. Die Fahrt von Delhi zum Taj Mahal dauert normalerweise etwa 3-4 Stunden, abhängig von den Verkehrsbedingungen.\n\nSobald Sie Agra erreichen, können Sie den Taj Mahal und seine Umgebung erkunden. Wir treffen Sie und stellen Ihnen unseren erfahrenen Reiseführer vor. Der Reiseführer informiert Sie über den Tagesplan und bringt Sie zum Taj Mahal. Nachdem Sie die Sicherheitszone passiert haben, erhalten Sie den ersten Blick auf den Taj Mahal. Machen Sie nun Instagram-taugliche Fotos. Der Reiseführer gibt Ihnen Kommentare zur Geschichte und Architektur des Taj Mahal. Sie werden von der Pracht des Taj Mahal begeistert sein. Nach dem Besuch des Taj Mahal genießen Sie die Mughal-Köstlichkeiten in einem guten lokalen Restaurant beim Mittagessen. Nach dem Mittagessen bereiten Sie sich auf einen aufregenden Besuch des Agra Fort vor, einer weiteren beliebten historischen Stätte in Agra, in der Nähe des Taj Mahal. Bei dieser geführten Tour werden Sie die historische und architektonische Bedeutung des Forts zu schätzen wissen. Nun geben wir Ihnen etwas Freizeit zum Einkaufen in den berühmten Bazaren Agras. Am Ende der Agra-Tagestour bringt Sie unser Fahrer zurück zum Flughafen Delhi oder dem von Ihnen gebuchten Hotel. Hier endet die Tour.",
+  "highlights": [
+   "Tauchen Sie ein in den ewigen Charme des Taj Mahal"
+  ],
+  "included": [
+   "Besichtigungen in einem privaten klimatisierten Auto",
+   "Von der Regierung zugelassener privater Live-Reiseführer",
+   "Hotelabholung und Rückfahrt",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Gratifikationen/Trinkgelder, falls zutreffend"
+  ]
+ },
+ "from-delhi-taj-mahal-sunrise-and-old-delhi-tour": {
+  "title": "Ab Delhi: Taj Mahal Sonnenaufgang und Alt-Delhi-Tour, im Auto",
+  "metaTitle": "Delhi: Taj Mahal Sonnenaufgang, Alt-Delhi",
+  "metaDescription": "Beobachten Sie den Taj Mahal bei Sonnenaufgang, dann besuchen Sie andere unverzichtbare Sehenswürdigkeiten Agras.",
+  "shortDescription": "Beobachten Sie den Taj Mahal bei Sonnenaufgang, dann besuchen Sie andere unverzichtbare Sehenswürdigkeiten Agras.",
+  "fullDescription": "Um 3:00 Uhr, Abholung von Ihrem Hotel in Delhi / Gurgaon / Noida.\n\nAbholung von Ihrem Hotel in Delhi, Gurgaon, oder Noida um 3 Uhr. Dann begeben Sie sich direkt nach Agra. Die Reise nach Agra dauert drei Stunden. Wir reisen auf dem schnellsten und kürzesten Weg nach Agra (über die Schnellstraße).\n\nSie kommen gegen 6:00 Uhr in Agra an, wo Sie Ihren Reiseführer treffen. Besuchen Sie den Taj Mahal, eine Struktur aus dem 16. Jahrhundert, erbaut von Shah Jahan als Denkmal für seine geliebte Frau Mumtaz Mahal. Der Taj Mahal ist bis zu drei Stunden geöffnet.\n\nBesuchen Sie den Taj Mahal und begeben Sie sich dann zum Agra Fort. Es wurde im Jahr 1565 n. Chr. von Akbar, dem großen Mogulkaiser, erbaut. Dieses Denkmal kann bis zu einer Stunde erkundet werden.\n\nIhr Frühstück findet in einem 5-Sterne-Hotel statt, nachdem das Fort beendet ist. Genießen Sie das köstliche, hygienische Frühstück, während Sie die verschiedenen Küchen der Stadt entdecken.\n\nNachdem Ihre Agra-Tour beendet ist, fahren Sie zurück nach Delhi. Die Rückkehr nach Delhi könnte bis zu 3 Stunden dauern.\n\nKehren Sie nach Delhi zurück, treffen Sie dort noch einmal Ihren neuen Guide, essen Sie Mittagessen, und gehen Sie dann nach Alt-Delhi. Mit einer Rikscha-Fahrt durch die überfüllten und engen Straßen von Alt-Delhi sehen Sie die Jama Masjid und den Chandni-Chowk-Markt. Betrachten Sie das Rote Fort von außen, und Ihr Guide gibt Ihnen eine kurze Erklärung seiner Bedeutung.\n\nNach Abschluss der Alt-Delhi-Besichtigung setzt unser Fahrer Sie an dem von Ihnen gewählten Ort ab. Ihre Reise endet mit diesen schönen Erinnerungen.",
+  "highlights": [
+   "Beobachten Sie den Taj Mahal bei Sonnenaufgang, dann besuchen Sie andere unverzichtbare Sehenswürdigkeiten Agras"
+  ],
+  "included": [
+   "Abholungs- und Rückfahrtassistenz",
+   "Klimatisierter Autoservice hin und zurück",
+   "Eintrittstickets für alle Denkmäler",
+   "Mineralwasserflaschen",
+   "Frühstück in einem 5-Sterne-Hotel",
+   "Buffet-Mittagessen im Restaurant",
+   "Rikscha-Fahrt in Alt-Delhi",
+   "Live-Reiseführerservice",
+   "Alle Steuern"
+  ],
+  "notIncluded": [
+   "Jegliche Getränke, die zum Mittagessen serviert werden",
+   "Jegliche Gratifikationen für Guide und Fahrer"
+  ]
+ },
+ "5-days-delhi-agra-jaipur-tour-with-accommodation": {
+  "title": "5-tägige Delhi-Agra-Jaipur-Tour mit Unterkunft in einem 5-Sterne-Hotel",
+  "metaTitle": "5 Tage: Delhi-Agra-Jaipur, 5-Sterne-Hotel",
+  "metaDescription": "Humayuns Grab ist eine UNESCO-Welterbestätte, erkunden Sie es unbedingt.",
+  "shortDescription": "Humayuns Grab ist eine UNESCO-Welterbestätte, erkunden Sie es unbedingt.",
+  "fullDescription": "**Tag 1: Ankunft in Delhi, Eintauchen in Alt-Delhi und kulinarische Köstlichkeiten**\nAnkunft am Indira Gandhi International Airport (DEL), Delhi.\nPrivater Transfer zu Ihrem luxuriösen 5-Sterne-Hotel.\nEinzigartiges Erlebnis: nachmittägliche geführte Erkundung von Alt-Delhi per Fahrrad-Rikscha, Eintauchen in die geschäftigen Gassen von Chandni Chowk. Erleben Sie den lebendigen Gewürzmarkt, beobachten Sie traditionelles Handwerk, und tauchen Sie in die historische Atmosphäre ein.\nEinzigartiges Erlebnis: abendliche kuratierte Street-Food-Tour in Alt-Delhi mit einem lokalen Experten, Genuss authentischer Aromen und versteckter kulinarischer Schätze. (Optional: nehmen Sie an einer kurzen indischen Kochvorführung teil.)\nÜbernachtung in Ihrem 5-Sterne-Hotel in Delhi.\n\n**Tag 2: Pracht von New Delhi und künstlerische Erkundung**\nMorgendliche Besichtigungstour durch New Delhi: India Gate, Humayuns Grab (ein Vorläufer des Taj Mahal), Qutub Minar, und Lotus-Tempel.\nEinzigartiges Erlebnis: nachmittäglicher Besuch des Kunsthandwerksmuseums, das Indiens vielfältige Kunst und Handwerk zeigt. Interagieren Sie mit Kunsthandwerkern und beobachten Sie traditionelle Techniken.\nEinzigartiges Erlebnis: besuchen Sie am Abend eine fesselnde klassische indische Tanzaufführung (z.B. Kathak oder Bharatnatyam) mit im Voraus gebuchten Tickets.\nÜbernachtung in Ihrem 5-Sterne-Hotel in Delhi.\n\n**Tag 3: Agra, jenseits des Taj Mahal und des Mogul-Erbes**\nMorgendlicher Transfer nach Agra (ca. 3-4 Stunden). Check-in in Ihrem 5-Sterne-Hotel in Agra.\nNachmittäglicher Besuch des prächtigen Taj Mahal (Besichtigung bei Sonnenuntergang für ein magisches Erlebnis empfohlen).\nEinzigartiges Erlebnis: erkunden Sie das Agra Fort, tauchen Sie ein in seine kunstvollen Paläste, Audienzhallen, und den Diwan-i-Am. Danach besuchen Sie Mehtab Bagh für einen atemberaubenden mondbeschienenen Blick auf den Taj Mahal über den Fluss Yamuna (falls Zeit erlaubt und das Wetter günstig ist).\nEinzigartiges Erlebnis: abendliche Interaktion mit lokalen Kunsthandwerkern, die sich auf Pietra Dura (Marmor-Einlegearbeit) spezialisiert haben, ein Handwerk, das eng mit dem Taj Mahal verbunden ist. Beobachten Sie ihre kunstvollen Fähigkeiten und versuchen Sie sich vielleicht an einem einfachen Design.\nÜbernachtung in Ihrem 5-Sterne-Hotel in Agra.\n\n**Tag 4: Fatehpur Sikris gespenstischer Charme und Reise nach Jaipur**\nMorgendlicher Ausflug nach Fatehpur Sikri (ca. 1 Stunde Fahrt), eine UNESCO-Welterbestätte und eine faszinierende verlassene Mogul-Stadt. Erkunden Sie seine beeindruckende Architektur und erfahren Sie mehr über seine Geschichte.\nEinzigartiges Erlebnis: auf dem Weg nach Jaipur, Stopp in Abhaneri, um den Chand-Baori-Stufenbrunnen zu besuchen, ein architektonisches Wunder, und den Harshad-Mata-Tempel.\nSetzen Sie Ihre Reise nach Jaipur fort (ca. 4-5 Stunden). Check-in in Ihrem luxuriösen 5-Sterne-Hotel in Jaipur.\nAbend zur freien Verfügung in Jaipur.\n\n**Tag 5: königliche Pracht Jaipurs und Abreise**\nMorgendliche Erkundung von Jaipur: Besuchen Sie das Amber Fort, Hawa Mahal (Palast der Winde), City Palace, und Jantar Mantar (astronomisches Observatorium).\nEinzigartiges Erlebnis: nehmen Sie an einem Blockdruck-Workshop teil, einem traditionellen Handwerk Jaipurs. Lernen Sie den Prozess und erstellen Sie Ihr eigenes Souvenir.\nNachmittag frei zum Einkaufen von lokalem Kunsthandwerk, Textilien, und Schmuck.\nAbendtransfer zum internationalen Flughafen Jaipur (JAI) für Ihre Weiterreise oder Rückfahrt nach Delhi.",
+  "highlights": [
+   "Humayuns Grab ist eine UNESCO-Welterbestätte, erkunden Sie es unbedingt"
+  ],
+  "included": [
+   "3-Sterne- oder 5-Sterne-Unterkunft für 4 Nächte an jedem Ziel verfügbar, je nach gewählter Option",
+   "Mahlzeiten: tägliches Frühstück im Hotel",
+   "Besichtigungen im klimatisierten Fahrzeug",
+   "Lokaler Reiseführer am Zielort",
+   "Flasche Frischwasser während der Reise",
+   "Alle Steuern und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Denkmäler",
+   "Mittag- und Abendessen",
+   "Gratifikationen"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
