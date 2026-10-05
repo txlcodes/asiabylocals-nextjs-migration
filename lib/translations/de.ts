@@ -1440,6 +1440,76 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche persönliche Ausgaben"
   ]
  },
+ "private-2-days-taj-mahal-tour-from-bangalore-by": {
+  "title": "Private 2-tägige Taj Mahal Tour ab Bangalore mit Flug",
+  "metaTitle": "Bangalore-Taj Mahal: private 2-Tage-Tour mit Flug",
+  "metaDescription": "Hin- und Rückflüge Bangalore - Delhi - Bangalore.",
+  "shortDescription": "Hin- und Rückflüge Bangalore - Delhi - Bangalore.",
+  "fullDescription": "Entdecken Sie den Taj Mahal auf dieser privaten 2-tägigen Tour ab Bangalore, mit Hin- und Rückflügen, privaten Transfers, und einer Übernachtung in Agra. Erkunden Sie den Taj Mahal und Agras ikonische Denkmäler mit einem professionellen lokalen Guide, in völligem Komfort und Bequemlichkeit.",
+  "highlights": [
+   "Hin- und Rückflüge Bangalore - Delhi - Bangalore"
+  ],
+  "included": [
+   "Hin- und Rückflüge (Bangalore ↔ Delhi)",
+   "Privates klimatisiertes Auto/Van für den Transfer und die Besichtigung Delhi-Agra-Delhi",
+   "1 Nacht Hotelunterkunft mit Frühstück",
+   "Professioneller lokaler Reiseführer in Agra",
+   "Eintrittstickets für Denkmäler (optionale Einbeziehung)",
+   "Wasser in Flaschen und Erfrischungen während der Reise",
+   "Mautgebühr und Parken"
+  ],
+  "notIncluded": [
+   "Nicht erwähnte Mahlzeiten",
+   "Persönliche Ausgaben, Trinkgelder, und Kameragebühren",
+   "Reiseversicherung"
+  ]
+ },
+ "hyderabad-to-taj-mahal-day-tour-with-return": {
+  "title": "Von Hyderabad zum Taj Mahal, Tagestour mit Hin- und Rückflug",
+  "metaTitle": "Hyderabad-Taj Mahal: Tagestour mit Flug",
+  "metaDescription": "Fliegen Sie von Hyderabad nach Agra für eine eintägige Taj Mahal Tour.",
+  "shortDescription": "Fliegen Sie von Hyderabad nach Agra für eine eintägige Taj Mahal Tour.",
+  "fullDescription": "**Von Hyderabad nach Agra, eintägige Taj Mahal Tour mit Flug und Auto**\n\nErleben Sie den ikonischen Taj Mahal auf einer komfortablen eintägigen Reise von Hyderabad nach Agra. Ihre Reise beginnt früh, gegen 4:00 Uhr, wenn Sie von Ihrem Ort in Hyderabad abgeholt und zum Flughafen für Ihren Flug nach Delhi transferiert werden.\n\nNach der Ankunft am Flughafen Delhi trifft Sie Ihr privater Fahrer und bringt Sie direkt nach Agra in einem komfortablen, klimatisierten privaten Auto. Die Fahrt von Delhi nach Agra dauert etwa 3-4 Stunden, abhängig vom Verkehr.\n\nSobald Sie Agra erreichen, treffen Sie Ihren professionellen englischsprachigen Reiseführer und beginnen mit der Erkundung der berühmtesten Attraktionen der Stadt. Besuchen Sie den Taj Mahal und erkunden Sie dann das prächtige Agra Fort, eine UNESCO-Welterbestätte.\n\nNach der Besichtigung genießen Sie das Mittagessen und, falls Ihr Zeitplan es erlaubt, besuchen Sie einen lokalen Markt, um Agras berühmtes Kunsthandwerk und Marmorkunstwerke zu entdecken. Später fahren Sie zurück zum Flughafen Delhi für Ihren Rückflug nach Hyderabad.\n\nDieser sorgfältig geplante Tagesausflug ist ideal für Reisende, die den Taj Mahal erleben möchten, ohne eine Nacht fern von Hyderabad zu verbringen.\n\n**Highlights**\nHin- und Rückflug zwischen Hyderabad und Delhi\nPrivates klimatisiertes Auto von Delhi nach Agra und zurück\nGeführter Besuch des Taj Mahal\nErkunden Sie das historische Agra Fort\nProfessioneller englischsprachiger Reiseführer\nZeit für Frühstück/Mittagessen\nOptionales lokales Einkaufen in Agra\nFrühmorgendliche Abfahrt gegen 4:00 Uhr\nRückkehr nach Hyderabad am selben Tag\nKeine Übernachtung erforderlich\n\n**Reiseplan**\n\n**4:00 Uhr – Abholung in Hyderabad**\nIhr Tag beginnt mit einer frühmorgendlichen Abholung von Ihrem Hotel, Zuhause, oder bevorzugten Ort in Hyderabad. Sie werden zum Flughafen für Ihren Flug nach Delhi transferiert.\n\n**Morgen – Flug nach Delhi**\nBesteigen Sie Ihren Flug von Hyderabad nach Delhi. Bei der Ankunft am Flughafen Delhi treffen Sie Ihren privaten Fahrer und beginnen Ihre Reise nach Agra in einem komfortablen, klimatisierten Auto.\n\n**Später Vormittag – Ankunft in Agra**\nErreichen Sie Agra und treffen Sie Ihren professionellen englischsprachigen Reiseführer. Beginnen Sie Ihre Besichtigung mit dem prächtigen Taj Mahal.\n\n**Besuch des Taj Mahal**\nErkunden Sie dieses weltberühmte Denkmal und erfahren Sie mehr über seine faszinierende Geschichte, Mogul-Architektur, und die legendäre Liebesgeschichte hinter seiner Entstehung. Genießen Sie etwas Freizeit für Fotos und die Erkundung der Umgebung.\n\n**Mittagspause**\nMachen Sie eine Pause in einem lokalen Restaurant und genießen Sie das Mittagessen, bevor Sie Ihre Besichtigung fortsetzen.\n\n**Agra Fort**\nBesuchen Sie das beeindruckende Agra Fort, eine UNESCO-Welterbestätte. Entdecken Sie seine prächtigen Paläste, Höfe, und historischen Gebäude, während Ihr Guide interessante Geschichten über die Mogulzeit teilt.\n\n**Optionales lokales Einkaufen**\nFalls die Zeit es erlaubt, halten Sie an einem lokalen Markt, um Agras berühmtes Kunsthandwerk, Marmor-Einlegearbeit, Souvenirs, und traditionelle Produkte zu entdecken.\n\n**Nachmittag/Abend – Rückfahrt nach Delhi**\nNach Abschluss Ihrer Agra-Besichtigung fahren Sie zurück zum Flughafen Delhi in Ihrem privaten klimatisierten Auto.\n\n**Abend/Nacht – Flug nach Hyderabad**\nBesteigen Sie Ihren Rückflug.",
+  "highlights": [
+   "Fliegen Sie von Hyderabad nach Agra für eine eintägige Taj Mahal Tour"
+  ],
+  "included": [
+   "Hin- und Rückflüge, die Hyderabad mühelos mit Agra für ein eintägiges Erlebnis verbinden",
+   "Private Transfers mit exklusivem klimatisiertem Transport für mehr Komfort und Flexibilität",
+   "Eintritt ohne Warteschlange mit im Voraus gebuchten Tickets für den Taj Mahal und das Agra Fort (falls Option ausgewählt)",
+   "Abholung vom Hotel oder einem anderen gewünschten Abholort in Hyderabad angeboten",
+   "Professioneller Reiseführer",
+   "Wasser in Flaschen",
+   "Mittagessen in einem 5-Sterne-Hotel (falls Option ausgewählt)"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "taj-mahal-tour-w-high-speed-train-experience-all": {
+  "title": "Taj Mahal Tour mit Hochgeschwindigkeitszug-Erlebnis, Komplettpaket",
+  "metaTitle": "Taj Mahal: Hochgeschwindigkeitszug, Komplettpaket",
+  "metaDescription": "Erleben Sie Indiens schnellsten Gatimaan Express für eine reibungslose, malerische Fahrt nach Agra.",
+  "shortDescription": "Erleben Sie Indiens schnellsten Gatimaan Express für eine reibungslose, malerische Fahrt nach Agra.",
+  "fullDescription": "**1. Abholung von Delhi**\nTreffen Sie Ihren Fahrer an Ihrem Hotel. Transfer zum Bahnhof Nizamuddin für den Gatimaan Express. Unterstützung beim Einsteigen wird bereitgestellt.\n\n**2. Ankunft in Agra**\nTreffen Sie Ihren professionellen lokalen Guide am Bahnhof. Beginnen Sie Ihr Agra-Besichtigungserlebnis.\n\n**3. Besuch des Taj Mahal**\nErkunden Sie den atemberaubenden Taj Mahal mit einem erfahrenen Guide. Erfahren Sie mehr über die Geschichte, Architektur, und die Mogul-Liebesgeschichte hinter diesem Weltwunder. Genießen Sie ausreichend Zeit für Fotos und zum Spazieren durch den Komplex.\n\n**4. Besuch des Agra Fort**\nEntdecken Sie das UNESCO-gelistete Agra Fort, Heimat der Mogulkaiser. Erkunden Sie seine Paläste, Höfe, und den Blick auf den Taj Mahal vom Fort.\n\n**5. Buffet-Mittagessen**\nGenießen Sie ein köstliches Multi-Küchen-Mittagessen in einem 5-Sterne-Hotel oder lokalen Restaurant.\n\n**6. Lokale Kunst- und Handwerkswerkstatt**\nErkunden Sie Agras berühmte Marmor-Einlegearbeit, Kunsthandwerk, und Stickerei. Besuchen Sie Handwerkerwerkstätten (optional, kein Kaufzwang).\n\n**7. Mehtab Bagh**\nBesuchen Sie den Flussufergarten für einen atemberaubenden Blick auf die Rückseite des Taj Mahal.\n\n**8. Einsteigen in den Gatimaan Express (Rückfahrt)**\nTransfer zum Bahnhof Agra Cantt. Genießen Sie Mahlzeiten an Bord und eine komfortable Rückfahrt.\n\n**9. Ankunft in Delhi und Abgabe**\nIhr Fahrer trifft Sie am Bahnhof. Rückfahrt zu Ihrem Hotel oder bevorzugten Ort.",
+  "highlights": [
+   "Erleben Sie Indiens schnellsten Gatimaan Express für eine reibungslose, malerische Fahrt nach Agra"
+  ],
+  "included": [
+   "Hotel-/Flughafenabholung und Rückfahrt",
+   "Privates klimatisiertes Auto für Besichtigungen mit Fahrer",
+   "Von der Regierung zugelassener Live-Reiseführer",
+   "Zugtickets hin und zurück",
+   "Eintrittstickets für Denkmäler (falls Option ausgewählt)",
+   "Mittagessen in einem 5-Sterne-Hotel (falls Option ausgewählt)",
+   "Mineralwasserflasche",
+   "Alle Mautgebühren und Parken"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
