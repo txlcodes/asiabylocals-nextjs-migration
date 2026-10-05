@@ -2996,6 +2996,15 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
                       </p>
                     )}
 
+                    {/* Compact reassurance right under the button, before the
+                        fuller "Free cancellation" block further down — a guest
+                        deciding whether to click should not have to scroll past
+                        a divider to see this. */}
+                    <div className="flex items-center justify-center gap-1.5 mt-3 text-[12px] text-[#10B981] font-bold">
+                      <CheckCircle2 size={14} className="shrink-0" />
+                      <span>{t('freeCancellation', 'Free cancellation')}</span>
+                    </div>
+
                     <div className="space-y-4 mt-5 pt-5 border-t border-gray-200">
                       <div className="flex items-start gap-3">
                         <CheckCircle2 className="text-[#10B981] shrink-0 mt-1" size={18} />
@@ -4117,6 +4126,10 @@ const TourDetailClient: React.FC<TourDetailClientProps> = ({ tour: initialTour, 
           <span className="text-[12px] text-gray-500 font-semibold">{t('startingFrom', 'Starting from')}</span>
           <span className="text-[20px] font-black text-[#10B981]">
             {displaySymbol}{fxConvert(selectedOption?.price || tour?.pricePerPerson || 0).toLocaleString()}
+          </span>
+          <span className="flex items-center gap-1 text-[10px] text-[#10B981] font-bold mt-0.5">
+            <CheckCircle2 size={10} className="shrink-0" />
+            {t('freeCancellation', 'Free cancellation')}
           </span>
         </div>
         <button
