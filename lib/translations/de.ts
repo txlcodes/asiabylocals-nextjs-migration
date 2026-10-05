@@ -25006,6 +25006,78 @@ export const DE_TOURS: Record<string, TourT> = {
    "Speisen und Getränke"
   ]
  },
+ "from-delhi-3-days-golden-triangle-trip-with": {
+  "title": "Ab Delhi: 3-tägige Golden-Triangle-Reise mit Luxushotels",
+  "metaTitle": "Delhi: Golden Triangle 3 Tage, Luxushotels",
+  "metaDescription": "3 Tage, um das Beste der indischen Golden-Triangle-Tour zu erleben",
+  "shortDescription": "3 Tage, um das Beste der indischen Golden-Triangle-Tour zu erleben",
+  "fullDescription": "Ab Delhi: 3-tägige Golden-Triangle-Reise mit Luxushotels. 3 Tage, um das Beste der indischen Golden-Triangle-Tour zu erleben.\n\nBegeben Sie sich auf eine 3-tägige Golden-Triangle-Tour: Delhi, Agra, und Jaipur - entdecken Sie ikonische Sehenswürdigkeiten und kulturelle Wunder.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel oder Flughafen angeboten\nPrivates klimatisiertes Auto für alle Transfers und Besichtigungen\nEine unendliche Auswahl an Wasserflaschen\nPersönlicher Live-Reiseführer für Jaipur, Agra, und Delhi\nHotelunterkunft für 2 Nächte (falls diese Option gewählt wird)\nHotelfrühstück am Morgen (falls diese Option gewählt wurde)\n\n**Nicht inbegriffen**\nEssen\nEintrittsgebühren\nParkkosten\nTrinkgelder",
+  "highlights": [
+   "3 Tage, um das Beste der indischen Golden-Triangle-Tour zu erleben"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel oder Flughafen angeboten",
+   "Privates klimatisiertes Auto für alle Transfers und Besichtigungen",
+   "Eine unendliche Auswahl an Wasserflaschen",
+   "Persönlicher Live-Reiseführer für Jaipur, Agra, und Delhi",
+   "Hotelunterkunft für 2 Nächte (falls diese Option gewählt wird)",
+   "Hotelfrühstück am Morgen (falls diese Option gewählt wurde)"
+  ],
+  "notIncluded": [
+   "Essen",
+   "Eintrittsgebühren",
+   "Parkkosten",
+   "Trinkgelder"
+  ]
+ },
+ "2-nights-3-days-golden-triangle-tour-delhi-agra": {
+  "title": "Golden-Triangle-Tour mit 2 Nächten und 3 Tagen (Delhi, Agra, Jaipur)",
+  "metaTitle": "Delhi-Agra-Jaipur: 2 Nächte, 3 Tage",
+  "metaDescription": "Erkunden Sie das Rote Fort von Delhi, die Jama Masjid, und India Gate",
+  "shortDescription": "Erkunden Sie das Rote Fort von Delhi, die Jama Masjid, und India Gate",
+  "fullDescription": "Golden-Triangle-Tour mit 2 Nächten und 3 Tagen (Delhi, Agra, Jaipur). Erkunden Sie das Rote Fort von Delhi, die Jama Masjid, und India Gate.\n\n**Tag 1 – Ankunft in Delhi und Besichtigung**\n**Morgen – Ankunft in Delhi**\nAnkunft am Flughafen/Bahnhof Delhi.\nTreffen Sie Ihren Fahrer/Reiseführer, und beginnen Sie Ihre Besichtigungstour durch Delhi.\n**Besichtigung in Delhi**:\nRotes Fort – erkunden Sie das historische Fort und seine schöne Architektur.\nJama Masjid – besuchen Sie eine der größten Moscheen Indiens.\nRaj Ghat – zollen Sie dem Denkmal von Mahatma Gandhi Respekt.\n\n**Nachmittag**:\nMittagessen in einem lokalen Restaurant.\nVorbeifahrt an India Gate, Rashtrapati Bhavan, und dem Parlamentsgebäude für einen Fotostopp.\n\n**Abend**:\nOptionaler Besuch des Lotustempels.\nÜbernachtung in Delhi.\n\n**Tag 2 – Delhi → Agra → Jaipur**\n\n**Früher Morgen**:\nAbfahrt nach Agra (ca. 4 bis 5 Stunden Fahrt).\n**Besichtigung in Agra**:\nTaj Mahal – erleben Sie das ikonische Denkmal der Liebe bei Sonnenaufgang.\nAgra Fort – erkunden Sie die historische Mogul-Festung.\nMehtab Bagh – optionaler Halt für einen malerischen Blick auf das Taj Mahal über den Fluss Yamuna.\n\n**Nachmittag**:\nMittagessen in Agra.\nAbfahrt nach Jaipur (ca. 4 bis 5 Stunden Fahrt).\n\n**Abend**:\nCheck-in im Hotel in Jaipur.\nÜbernachtung in Jaipur.\n\n**Tag 3 – Besichtigung von Jaipur und Abreise**\n\n**Morgen**:\nBesuchen Sie das Amber Fort – genießen Sie eine Elefanten- oder Jeep-Fahrt zum Fort.\nHawa Mahal (Palast der Winde) – bewundern Sie die ikonische Fassade.\nCity Palace – erkunden Sie das Museum und die königlichen Innenhöfe.\n\n**Nachmittag**:\nMittagessen in einem lokalen Restaurant.\nBesuchen Sie das Jantar Mantar, ein astronomisches Observatorium.\nOptionales Einkaufen auf dem Johari Bazaar oder Bapu Bazaar für Kunsthandwerk und Souvenirs.\n\n**Abend**:\nRückfahrt zum Flughafen/Bahnhof Jaipur, oder Rückkehr nach Delhi (falls dies Teil des Pakets ist).\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt zum Hotel in Delhi/Jaipur\nUnterkunft für 2 Nächte mit Frühstück\nPrivates klimatisiertes Fahrzeug für die Tour\nLokaler Reiseführer\nAlle Parkgebühren, Mautgebühren, und Treibstoffkosten\n\n**Nicht inbegriffen**\nEintrittsgebühren für Sehenswürdigkeiten\nMittag-, Abendessen",
+  "highlights": [
+   "Erkunden Sie das Rote Fort von Delhi, die Jama Masjid, und India Gate"
+  ],
+  "included": [
+   "Abholung und Rückfahrt zum Hotel in Delhi/Jaipur",
+   "Unterkunft für 2 Nächte mit Frühstück",
+   "Privates klimatisiertes Fahrzeug für die Tour",
+   "Lokaler Reiseführer",
+   "Alle Parkgebühren, Mautgebühren, und Treibstoffkosten"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Sehenswürdigkeiten",
+   "Mittag-, Abendessen"
+  ]
+ },
+ "2-days-kuno-national-park-from-delhi-by-train": {
+  "title": "2 Tage Kuno-Nationalpark ab Delhi mit dem Zug",
+  "metaTitle": "Delhi-Kuno: 2 Tage, Zug, Safari",
+  "metaDescription": "Malerische Zugreise und herzlicher Empfang in Gwalior",
+  "shortDescription": "Malerische Zugreise und herzlicher Empfang in Gwalior",
+  "fullDescription": "2 Tage Kuno-Nationalpark ab Delhi mit dem Zug. Malerische Zugreise und herzlicher Empfang in Gwalior.\n\nEin perfektes 2-tägiges Kuno-Abenteuer mit malerischer Zugreise, Aufenthalt in einem Resort, Naturwanderung, und einer aufregenden morgendlichen Safari zur Erkundung von Geparden, Leoparden, Hyänen, und reicher Waldtierwelt.\n\n**Was ist inbegriffen**\nZugtickets hin und zurück Delhi-Gwalior-Delhi (klimatisiert)\nExklusives privates Fahrzeug für alle Transfers\n1 Übernachtung im Kuno Wildlife Resort/Lodge\nFrühstück und Abendessen für 2 Tage\n1 morgendliche Dschungel-Safari mit Genehmigungen und Reiseführer\nFahrergebühren, Mautgebühren, Parken, Steuern\n\n**Nicht inbegriffen**\nJegliches Flugticket\nMittag- und Abendessen\nJegliche andere Besichtigung von Sehenswürdigkeiten\nPersönliche Ausgaben, Trinkgelder\nKameragebühren (falls zutreffend)\nAlles, was nicht in den Einschlüssen erwähnt wird\nJegliche Versicherung",
+  "highlights": [
+   "Malerische Zugreise und herzlicher Empfang in Gwalior"
+  ],
+  "included": [
+   "Zugtickets hin und zurück Delhi-Gwalior-Delhi (klimatisiert)",
+   "Exklusives privates Fahrzeug für alle Transfers",
+   "1 Übernachtung im Kuno Wildlife Resort/Lodge",
+   "Frühstück und Abendessen für 2 Tage",
+   "1 morgendliche Dschungel-Safari mit Genehmigungen und Reiseführer",
+   "Fahrergebühren, Mautgebühren, Parken, Steuern"
+  ],
+  "notIncluded": [
+   "Jegliches Flugticket",
+   "Mittag- und Abendessen",
+   "Jegliche andere Besichtigung von Sehenswürdigkeiten",
+   "Persönliche Ausgaben, Trinkgelder",
+   "Kameragebühren (falls zutreffend)",
+   "Alles, was nicht in den Einschlüssen erwähnt wird",
+   "Jegliche Versicherung"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
