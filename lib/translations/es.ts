@@ -4054,6 +4054,75 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "from-new-delhi-delhi-agra-jaipur-3-days-tour": {
+  "title": "Desde Nueva Delhi: tour de 3 días Delhi, Agra, Jaipur",
+  "metaTitle": "Delhi-Agra-Jaipur: triángulo dorado en 3 días",
+  "metaDescription": "Admire el Taj Mahal con tranquilidad antes de que llegue la multitud.",
+  "shortDescription": "Admire el Taj Mahal con tranquilidad antes de que llegue la multitud.",
+  "fullDescription": "**Día 1**: comience en Delhi con una recogida, explore los sitios del Viejo y Nuevo Delhi, y termine el día con un trayecto pintoresco hacia Agra.\n\nEmbárquese en un fascinante recorrido por el Viejo y Nuevo Delhi, comenzando con la hora de recogida elegida en su lugar preferido. Su día se desarrolla con visitas a sitios icónicos como la Jama Masjid, el Fuerte Rojo (desde el exterior), y el bullicioso mercado de Chandni Chowk. Disfrute de un delicioso almuerzo en un restaurante local. Explore las joyas de Nueva Delhi, incluyendo India Gate, Rashtrapati Bhawan, la Tumba de Humayun, y Qutub Minar. Al concluir el día, viaje a Agra, regístrese en su hotel, y pase la noche en esta encantadora ciudad.\n\n**Día 2**: explore los lugares emblemáticos de Agra durante un recorrido turístico, seguido de un trayecto pintoresco hacia Jaipur.\n\nPrepárese para un amanecer impresionante en el Taj Mahal mientras nuestro conductor lo recoge de su hotel a las 6:30. Después de sumergirse en el espectáculo del amanecer, disfrute del desayuno y un breve descanso en el hotel. Después del check-out, explore el fuerte de Agra. Posteriormente, viaje a Jaipur con una visita a Fatehpur Sikri en el camino. Al llegar a Jaipur, instálese en su hotel para pasar la noche.\n\n**Día 3**: sumérjase en una aventura turística en Jaipur y termine el día con un trayecto de regreso a Delhi.\n\nDespués del desayuno y el check-out, nuestro conductor y guía lo recogerán del hotel para comenzar su recorrido turístico por Jaipur. Descubra el fuerte Amber, admire el Jal Mahal, el Hawa Mahal, el City Palace, el Jantar Mantar, y el Panna Meena Ka Kund. Después del almuerzo y las visitas, disfrute de compras de recuerdos en el mercado local antes de regresar a Delhi por la noche. Concluya su viaje de 2 noches y 3 días por el triángulo dorado con una entrega en su hotel o el aeropuerto de Delhi, llevándose consigo recuerdos preciados.",
+  "highlights": [
+   "Admire el Taj Mahal con tranquilidad antes de que llegue la multitud"
+  ],
+  "included": [
+   "Guía turístico",
+   "Todos los gastos de vehículo y viaje",
+   "Todos los impuestos de estacionamiento y peaje",
+   "Todos los traslados/recorridos en vehículo privado con aire acondicionado",
+   "Un paseo en camello/elefante",
+   "Traslado en autobús eléctrico en el Taj Mahal desde el estacionamiento hasta el monumento y de regreso"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a los monumentos",
+   "Cualquier gratificación o propina",
+   "Cualquier gasto de naturaleza personal"
+  ]
+ },
+ "from-delhi-taj-mahal-sunrise-agra-fort-and-baby": {
+  "title": "Desde Delhi: amanecer en el Taj Mahal, fuerte de Agra y Baby Taj en coche",
+  "metaTitle": "Delhi-Agra: Taj Mahal, fuerte, Baby Taj en coche",
+  "metaDescription": "Sumérjase en el icónico Taj Mahal al amanecer, una experiencia inolvidable.",
+  "shortDescription": "Sumérjase en el icónico Taj Mahal al amanecer, una experiencia inolvidable.",
+  "fullDescription": "Embárquese en un viaje que comienza con una lujosa recogida en su hotel o aeropuerto en Delhi, preparando el escenario para un día lleno de impresionante belleza y grandeza histórica en Agra. A su llegada, su guía experto lo espera para acompañarlo al magnífico Taj Mahal. Este sitio del Patrimonio Mundial de la UNESCO es un testimonio del amor eterno del emperador mogol Shah Jahan por su amada esposa, Mumtaz Mahal, con su fachada de mármol blanco brillando con la luz de la mañana.\n\nDespués de sumergirse en la atmósfera etérea del Taj Mahal, disfrute de un suntuoso desayuno en un prestigioso hotel de 5 estrellas, donde delicias locales y sabores internacionales esperan para tentar su paladar.\n\nDespués del desayuno, su viaje continúa hacia el formidable fuerte de Agra, una obra maestra arquitectónica que combina estilos hindúes y de Asia Central. Explore sus extensos terrenos, palacios, y patios intrincadamente diseñados, cada uno resonando con historias de los emperadores mogoles y su estilo de vida suntuoso.\n\nA medida que avanza el día, visite la encantadora tumba de Itmad-Ud-Daulah, conocida afectuosamente como el Baby Taj, una maravilla de delicada artesanía en mármol encargada por Noor Jahan en memoria amorosa de su padre.\n\nSu tour exclusivo culmina con un relajante viaje de regreso a su alojamiento en Delhi, enriquecido con recuerdos de la rica historia de Agra, su esplendor arquitectónico, y el legado perdurable del arte mogol.",
+  "highlights": [
+   "Sumérjase en el icónico Taj Mahal al amanecer, una experiencia inolvidable"
+  ],
+  "included": [
+   "Servicio de recogida y traslado al hotel",
+   "Guía privado para todos los monumentos",
+   "Recorrido en coche privado con aire acondicionado",
+   "Tarifas de entrada a los monumentos (si se selecciona esa opción)",
+   "Desayuno en hotel de 5 estrellas (si se selecciona esa opción)",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Propinas para el guía y el conductor"
+  ]
+ },
+ "from-bangalore-2-days-taj-mahal-agra-tour": {
+  "title": "Desde Bangalore: tour de 2 días al Taj Mahal y Agra",
+  "metaTitle": "Bangalore-Agra: Taj Mahal en 2 días",
+  "metaDescription": "Visita al sitio del Patrimonio Mundial «fuerte de Agra».",
+  "shortDescription": "Visita al sitio del Patrimonio Mundial «fuerte de Agra».",
+  "fullDescription": "Viaje desde Bangalore en un tour de 2 días a Agra, incluyendo la visita al Taj Mahal y al fuerte de Agra, sitio del Patrimonio Mundial. Se alojará en un hotel de lujo de 4 estrellas en habitación doble/twin con desayuno incluido, y disfrutará de un guía turístico de habla inglesa aprobado por el gobierno (otros idiomas disponibles a pedido) durante toda la estancia.",
+  "highlights": [
+   "Visita al sitio del Patrimonio Mundial «fuerte de Agra»"
+  ],
+  "included": [
+   "Vehículo de lujo privado con aire acondicionado para todo el tour",
+   "Todos los peajes, cargos estatales, gastos de combustible y asignación del conductor",
+   "Alojamiento en hotel de lujo de 4 estrellas en habitación doble/twin",
+   "Desayuno en el hotel",
+   "Boletos de avión Bangalore-Delhi-Bangalore (a pedido, con costo adicional)",
+   "Guía turístico de habla inglesa aprobado por el gobierno (otros idiomas)",
+   "Viaje con pernoctación"
+  ],
+  "notIncluded": [
+   "Propinas (conductor/maletero/guía/representante)",
+   "Otras comidas excepto el desayuno",
+   "Gastos de naturaleza personal",
+   "Cargos de otras actividades"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",

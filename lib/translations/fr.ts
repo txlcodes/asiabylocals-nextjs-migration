@@ -4054,6 +4054,75 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "from-new-delhi-delhi-agra-jaipur-3-days-tour": {
+  "title": "Depuis New Delhi : circuit de 3 jours Delhi, Agra, Jaipur",
+  "metaTitle": "Delhi-Agra-Jaipur : triangle d'or en 3 jours",
+  "metaDescription": "Admirez le Taj Mahal en toute tranquillité avant l'arrivée de la foule.",
+  "shortDescription": "Admirez le Taj Mahal en toute tranquillité avant l'arrivée de la foule.",
+  "fullDescription": "**Jour 1** : commencez à Delhi avec une prise en charge, explorez les sites du Vieux et du Nouveau Delhi, et terminez la journée par un trajet pittoresque vers Agra.\n\nLancez-vous dans une visite captivante du Vieux et du Nouveau Delhi, en commençant par l'heure de prise en charge choisie à l'endroit de votre choix. Votre journée se déroule avec des visites de sites emblématiques comme la Jama Masjid, le Fort Rouge (de l'extérieur), et le marché animé de Chandni Chowk. Profitez d'un délicieux déjeuner dans un restaurant local. Explorez les joyaux du Nouveau Delhi, notamment India Gate, Rashtrapati Bhawan, le tombeau d'Humayun, et Qutub Minar. À la fin de la journée, voyagez vers Agra, installez-vous à votre hôtel, et passez la nuit dans cette ville enchanteresse.\n\n**Jour 2** : explorez les sites emblématiques d'Agra lors d'une visite touristique, suivie d'un trajet pittoresque vers Jaipur.\n\nPréparez-vous pour un lever de soleil à couper le souffle au Taj Mahal pendant que notre chauffeur vous récupère à votre hôtel à 6h30. Après vous être immergé dans le spectacle du lever de soleil, savourez le petit-déjeuner et une courte pause à l'hôtel. Après le départ de l'hôtel, explorez le fort d'Agra. Ensuite, voyagez vers Jaipur avec une visite de Fatehpur Sikri en chemin. À l'arrivée à Jaipur, installez-vous à votre hôtel pour une nuit.\n\n**Jour 3** : plongez dans une aventure touristique à Jaipur et terminez la journée par un trajet de retour vers Delhi.\n\nAprès le petit-déjeuner et le départ de l'hôtel, notre chauffeur et guide viendront vous chercher à l'hôtel pour commencer votre visite touristique de Jaipur. Découvrez le fort d'Amber, admirez le Jal Mahal, le Hawa Mahal, le City Palace, le Jantar Mantar, et le Panna Meena Ka Kund. Après le déjeuner et les visites, profitez du shopping de souvenirs sur le marché local avant de retourner à Delhi dans la soirée. Terminez votre voyage du triangle d'or de 2 nuits et 3 jours avec une dépose à votre hôtel ou à l'aéroport de Delhi, emportant avec vous des souvenirs précieux.",
+  "highlights": [
+   "Admirez le Taj Mahal en toute tranquillité avant l'arrivée de la foule"
+  ],
+  "included": [
+   "Guide touristique",
+   "Tous les frais de véhicule et de voyage",
+   "Tous les frais de stationnement et de péage",
+   "Tous les transferts/visites en véhicule privé climatisé",
+   "Une balade à dos de chameau/éléphant",
+   "Navette électrique au Taj Mahal, du parking au monument et retour"
+  ],
+  "notIncluded": [
+   "Frais d'entrée aux monuments",
+   "Toute gratification ou pourboire",
+   "Toute dépense de nature personnelle"
+  ]
+ },
+ "from-delhi-taj-mahal-sunrise-agra-fort-and-baby": {
+  "title": "Depuis Delhi : Taj Mahal au lever du soleil, fort d'Agra et Baby Taj en voiture",
+  "metaTitle": "Delhi-Agra : Taj Mahal, fort, Baby Taj en voiture",
+  "metaDescription": "Plongez-vous dans l'emblématique Taj Mahal au lever du soleil, une expérience inoubliable.",
+  "shortDescription": "Plongez-vous dans l'emblématique Taj Mahal au lever du soleil, une expérience inoubliable.",
+  "fullDescription": "Lancez-vous dans un voyage qui commence par une prise en charge luxueuse à votre hôtel ou à l'aéroport de Delhi, préparant une journée remplie de beauté impressionnante et de grandeur historique à Agra. À l'arrivée, votre guide expert vous attend pour vous escorter vers le magnifique Taj Mahal. Ce site du patrimoine mondial de l'UNESCO témoigne de l'amour éternel de l'empereur moghol Shah Jahan pour sa femme bien-aimée, Mumtaz Mahal, sa façade de marbre blanc rayonnant à la lumière du matin.\n\nAprès vous être immergé dans l'atmosphère éthérée du Taj Mahal, savourez un petit-déjeuner somptueux dans un hôtel prestigieux 5 étoiles, où des spécialités locales et des saveurs internationales vous attendent pour ravir votre palais.\n\nAprès le petit-déjeuner, votre voyage se poursuit vers le redoutable fort d'Agra, un chef-d'œuvre architectural mêlant styles hindou et d'Asie centrale. Explorez ses vastes terrains, palais, et cours finement conçues, chacune résonnant des récits des empereurs moghols et de leur vie somptueuse.\n\nAu fil de la journée, visitez l'enchanteur tombeau d'Itmad-Ud-Daulah, affectueusement connu comme le Baby Taj, une merveille d'artisanat délicat en marbre commandée par Noor Jahan en mémoire affectueuse de son père.\n\nVotre visite exclusive se termine par un retour tranquille vers votre hébergement à Delhi, enrichi de souvenirs de la riche histoire d'Agra, de sa splendeur architecturale, et de l'héritage durable de l'art moghol.",
+  "highlights": [
+   "Plongez-vous dans l'emblématique Taj Mahal au lever du soleil, une expérience inoubliable"
+  ],
+  "included": [
+   "Service de prise en charge et retour à l'hôtel",
+   "Guide privé pour tous les monuments",
+   "Visites en voiture privée climatisée",
+   "Frais d'entrée aux monuments (si option choisie)",
+   "Petit-déjeuner dans un hôtel 5 étoiles (si option choisie)",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Pourboires pour le guide et le chauffeur"
+  ]
+ },
+ "from-bangalore-2-days-taj-mahal-agra-tour": {
+  "title": "Depuis Bangalore : circuit de 2 jours Taj Mahal et Agra",
+  "metaTitle": "Bangalore-Agra : Taj Mahal en 2 jours",
+  "metaDescription": "Visite du site du patrimoine mondial « fort d'Agra ».",
+  "shortDescription": "Visite du site du patrimoine mondial « fort d'Agra ».",
+  "fullDescription": "Partez de Bangalore pour un circuit de 2 jours vers Agra, incluant la visite du Taj Mahal et du fort d'Agra, site du patrimoine mondial. Vous séjournerez dans un hôtel de luxe 4 étoiles en chambre double/twin, avec petit-déjeuner inclus, et profiterez d'un guide touristique anglophone agréé par le gouvernement (autres langues disponibles sur demande) pendant tout le séjour.",
+  "highlights": [
+   "Visite du site du patrimoine mondial « fort d'Agra »"
+  ],
+  "included": [
+   "Véhicule de luxe privé climatisé pour tout le circuit",
+   "Tous les péages, frais d'État, frais de carburant et indemnité de chauffeur",
+   "Hébergement en hôtel de luxe 4 étoiles en chambre double/twin",
+   "Petit-déjeuner à l'hôtel",
+   "Billets d'avion Bangalore-Delhi-Bangalore (sur demande, coût supplémentaire)",
+   "Guide touristique anglophone agréé par le gouvernement (autres langues)",
+   "Séjour d'une nuit"
+  ],
+  "notIncluded": [
+   "Pourboires (chauffeur/porteur/guide/représentant)",
+   "Autres repas sauf le petit-déjeuner",
+   "Dépenses de nature personnelle",
+   "Frais d'autres activités"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
