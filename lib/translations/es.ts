@@ -6339,6 +6339,75 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "from-delhi-sunrise-taj-mahal-visit-elephant": {
+  "title": "Desde Delhi: amanecer en el Taj Mahal y visita de conservación de elefantes",
+  "metaTitle": "Delhi-Agra: Taj Mahal al amanecer y elefantes",
+  "metaDescription": "Visita del amanecer al Taj Mahal: ambiente tranquilo y condiciones ideales para fotos.",
+  "shortDescription": "Visita del amanecer al Taj Mahal: ambiente tranquilo y condiciones ideales para fotos.",
+  "fullDescription": "Este excepcional tour de día completo combina lo mejor que Agra tiene para ofrecer: maravillas culturales, profundidad histórica, y bienestar animal ético. Comience su día temprano con una inolvidable visita al Taj Mahal al amanecer, en la mágica tranquilidad de la mañana y con oportunidades fotográficas perfectas antes de que lleguen las multitudes.\n\nSu guía experimentado lo llevará a través del mundialmente famoso monumento del amor, y explicará la historia detrás de la arquitectura, la construcción, y la trágica historia de amor de Shah Jahan y Mumtaz Mahal.\n\nDespués de un abundante desayuno, continúe hacia el fuerte de Agra, un vasto complejo de arenisca roja y mármol que una vez fue el centro de poder del Imperio mogol. Explore palacios, patios, y pasajes secretos, y disfrute de la vista de regreso al Taj Mahal.\n\nPor la tarde, visitará el Centro de Conservación y Cuidado de Elefantes de Wildlife SOS, un lugar único donde elefantes rescatados de abuso, circos, o trabajo ilegal viven con seguridad y dignidad. Escuchará las conmovedoras historias de animales individuales, verá cómo se les cuida, y aprenderá más sobre la conservación sostenible de especies en la India. Sin montar, sin coerción, solo encuentros respetuosos.",
+  "highlights": [
+   "Visita del amanecer al Taj Mahal: ambiente tranquilo y condiciones ideales para fotos"
+  ],
+  "included": [
+   "Recogida y traslado al hotel",
+   "Entrada al Centro de Conservación de Elefantes SOS (si se selecciona esa opción)",
+   "Transporte en coche con aire acondicionado",
+   "Guía turístico privado",
+   "Tarifa de entrada al Taj Mahal y al fuerte de Agra (si se selecciona esa opción)",
+   "Comidas (si se selecciona esa opción)",
+   "Botella de agua de cortesía"
+  ],
+  "notIncluded": [
+   "Propinas/gratificaciones",
+   "Compras"
+  ]
+ },
+ "from-delhiall-inclusive-taj-mahal-day-tour-by": {
+  "title": "Desde Delhi: tour todo incluido al Taj Mahal en un día con el tren más rápido",
+  "metaTitle": "Delhi-Agra en tren rápido, Taj Mahal todo incluido",
+  "metaDescription": "Desde Delhi: tour todo incluido al Taj Mahal en un día con el tren más rápido.",
+  "shortDescription": "Desde Delhi: tour todo incluido al Taj Mahal en un día con el tren más rápido.",
+  "fullDescription": "Salga de Delhi y viaje a bordo de un tren cómodo y muy rápido hacia Agra en esta excursión de un día. Vea el mundialmente famoso Taj Mahal con un guía, contemple el imponente fuerte de Agra, y explore el Baby Taj.\n\nComience su día con una recogida en su hotel, y un traslado a la estación de tren Hazrat Nizamuddin en Delhi, donde abordará un tren muy rápido hacia Agra. Encuentre sus asientos en el tren con la ayuda de su conductor, y disfrute del desayuno y su viaje.\n\nA su llegada a Agra, conozca a su guía turístico frente a su tren, y dirígese hacia el icónico Taj Mahal. Pase hasta 3 horas explorando este hermoso monumento, luego disfrute de un delicioso almuerzo en un hotel de 5 estrellas (incluido con algunas opciones).\n\nContinúe su tour con una visita al fuerte de Agra, un inmenso edificio de arenisca roja del siglo XVI. Después de explorar el fuerte, haga una última parada en Itimad-Ud-Daulah, también conocido como Baby Taj.\n\nRegrese a la estación de tren de Agra y aborde su tren hacia Delhi. Cene en el tren antes de llegar a Delhi por la noche. Conozca a su conductor en el tren, y regrese a su hotel en Delhi.",
+  "highlights": [
+   "Visite el hermoso monumento del Taj Mahal y déjese fascinar por su antigua belleza"
+  ],
+  "included": [
+   "Recogida y traslado al hotel",
+   "Boletos de tren rápido de ida y vuelta",
+   "Guía turístico",
+   "Transporte en vehículo con aire acondicionado",
+   "Boletos de entrada a los monumentos (si se selecciona esa opción)",
+   "Desayuno y cena a bordo (si se selecciona esa opción)",
+   "Almuerzo (si se selecciona esa opción)",
+   "Agua potable"
+  ],
+  "notIncluded": [
+   "Bebidas",
+   "Propinas"
+  ]
+ },
+ "agra-skip-the-line-sunrise-taj-mahal-with": {
+  "title": "Agra: tour sin filas del amanecer en el Taj Mahal con mausoleo",
+  "metaTitle": "Agra: Taj Mahal al amanecer, sin filas",
+  "metaDescription": "Tour sin filas al Taj Mahal con mausoleo.",
+  "shortDescription": "Tour sin filas al Taj Mahal con mausoleo.",
+  "fullDescription": "Será recogido en el lugar que desee en Agra por un coche privado con aire acondicionado y un guía turístico local, con sus boletos del Taj Mahal reservados con anticipación, para que no tenga que perder tiempo comprando boletos en la ventanilla, y entre rápidamente al Taj Mahal gracias a la entrada sin filas. Simplemente sea testigo de la magnífica vista del amanecer en el Taj Mahal.\nSu guía le contará la historia de amor de Shah Jahan y Mumtaz, y la arquitectura del Taj Mahal, con las mejores tomas de fotos; le encantará crear sus recuerdos con las mejores fotos del Taj Mahal.\nDespués, su conductor lo llevará de regreso a su hotel para desayunar donde se aloja en Agra, y luego podrá explorar la increíble arquitectura del fuerte de Agra y las artes locales de Agra.\nTiene la opción de ser dejado en Agra, Delhi, o Jaipur.",
+  "highlights": [
+   "Tour sin filas al Taj Mahal con mausoleo"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado",
+   "Guía turístico local privado",
+   "Boletos para el Taj Mahal con mausoleo (si selecciona esa opción)",
+   "Botella de agua",
+   "Estacionamiento",
+   "Todos los impuestos"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
