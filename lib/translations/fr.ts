@@ -24629,6 +24629,82 @@ export const FR_TOURS: Record<string, TourT> = {
    "Tout ce qui n'est pas mentionné dans les inclusions"
   ]
  },
+ "2-day-wildlife-safari-and-tour-of-jim-corbett": {
+  "title": "Safari faune sauvage et visite de 2 jours du parc national de Jim Corbett",
+  "metaTitle": "Jim Corbett : safari 2 jours, faune sauvage",
+  "metaDescription": "Nous offrons une assistance client 24h/24 et 7j/7.",
+  "shortDescription": "Nous offrons une assistance client 24h/24 et 7j/7.",
+  "fullDescription": "Safari faune sauvage et visite de 2 jours du parc national de Jim Corbett. Nous offrons une assistance client 24h/24 et 7j/7.\n\n**Ce qui est inclus**\nTransport : voiture privée avec chauffeur pour tout le voyage\nHébergement avec petit-déjeuner : une nuit dans un confortable complexe ou pavillon près du parc national de Jim Corbett, en chambre twin (avec l'option circuit)\nSafari :\nUn safari en jeep en soirée et un le matin dans le parc national de Jim Corbett, avec un naturaliste/guide professionnel\nTous les permis et frais d'entrée requis pour le safari (avec l'option circuit)\nGuide professionnel : services d'un guide expérimenté et anglophone pendant le safari\nEau en bouteille pendant le trajet en voiture\nPrise en charge et retour depuis votre hôtel ou l'aéroport\nToutes les taxes et frais de service applicables\nAssistance tout au long du circuit, 24h/24 et 7j/7\nWi-Fi à bord\nSafaris aux tigres en jeep partagée/canter pour le safari (véhicule selon disponibilité)\n\n**Non inclus**\nDépenses personnelles : toute dépense personnelle telle que pourboires, souvenirs, repas ou boissons supplémentaires, et shopping\nActivités optionnelles\nGratifications : pourboires pour le guide, le chauffeur, ou le personnel de l'hôtel\nRepas : déjeuner et dîner",
+  "highlights": [
+   "Nous offrons une assistance client 24h/24 et 7j/7"
+  ],
+  "included": [
+   "Transport : voiture privée avec chauffeur pour tout le voyage",
+   "Hébergement avec petit-déjeuner : une nuit dans un confortable complexe ou pavillon près du parc national de Jim Corbett, en chambre twin (avec l'option circuit)",
+   "Safari :",
+   "Un safari en jeep en soirée et un le matin dans le parc national de Jim Corbett, avec un naturaliste/guide professionnel",
+   "Tous les permis et frais d'entrée requis pour le safari (avec l'option circuit)",
+   "Guide professionnel : services d'un guide expérimenté et anglophone pendant le safari",
+   "Eau en bouteille pendant le trajet en voiture",
+   "Prise en charge et retour depuis votre hôtel ou l'aéroport",
+   "Toutes les taxes et frais de service applicables",
+   "Assistance tout au long du circuit, 24h/24 et 7j/7",
+   "Wi-Fi à bord",
+   "Safaris aux tigres en jeep partagée/canter pour le safari (véhicule selon disponibilité)"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles : toute dépense personnelle telle que pourboires, souvenirs, repas ou boissons supplémentaires, et shopping",
+   "Activités optionnelles",
+   "Gratifications : pourboires pour le guide, le chauffeur, ou le personnel de l'hôtel",
+   "Repas : déjeuner et dîner"
+  ]
+ },
+ "from-delhi-airport-layover-guided-old-new-delhi": {
+  "title": "Depuis l'aéroport de Delhi : visite guidée du Vieux et du New Delhi pendant une escale",
+  "metaTitle": "Delhi : escale guidée, Vieux et New Delhi",
+  "metaDescription": "Explorez le cœur de l'Inde, Delhi, en 5, 6, ou 8 heures inoubliables.",
+  "shortDescription": "Explorez le cœur de l'Inde, Delhi, en 5, 6, ou 8 heures inoubliables.",
+  "fullDescription": "Depuis l'aéroport de Delhi : visite guidée du Vieux et du New Delhi pendant une escale. Explorez le cœur de l'Inde, Delhi, en 5, 6, ou 8 heures inoubliables.\n\nCommencez votre courte escale par un voyage passionnant à travers le Vieux et le New Delhi. Commencez par visiter la Jama Masjid, la plus grande mosquée d'Inde, construite au 16e siècle. Ensuite, profitez d'une balade traditionnelle en rickshaw à travers les ruelles animées de Chandni Chowk, où vous découvrirez le marché aux épices vibrant, le marché aux fruits secs, et apercevrez les quartiers résidentiels populaires du Vieux Delhi.\n\nEnsuite, dirigez-vous vers le New Delhi pour déjeuner dans un restaurant multi-cuisines. Après cela, visitez le Gurudwara Bangla Sahib, le deuxième plus grand temple sikh de Delhi, connu pour son atmosphère sereine et sa cuisine communautaire.\n\nPoursuivez votre visite en explorant certains des monuments les plus emblématiques de New Delhi, notamment la majestueuse tombe de Humayun, le paisible temple du Lotus, et l'historique Qutub Minar.\n\nAvant de conclure votre voyage et de vous diriger vers votre hôtel ou l'aéroport, faites un bref arrêt à India Gate, à la résidence présidentielle, et au Parlement indien pour un dernier aperçu de la grandeur de la ville.\n\n**Ce qui est inclus**\nPrise en charge et retour depuis l'hôtel/aéroport de Delhi, et vers l'hôtel/aéroport de Delhi\nVoiture privée climatisée avec chauffeur\nServices de guide touristique en direct\nBouteilles d'eau et parapluies\nTous les frais de stationnement et taxes\n\n**Non inclus**\nNourriture et boissons\nBillets pour les monuments\nPourboires et gratifications\nAutres dépenses personnelles",
+  "highlights": [
+   "Explorez le cœur de l'Inde, Delhi, en 5, 6, ou 8 heures inoubliables"
+  ],
+  "included": [
+   "Prise en charge et retour depuis l'hôtel/aéroport de Delhi, et vers l'hôtel/aéroport de Delhi",
+   "Voiture privée climatisée avec chauffeur",
+   "Services de guide touristique en direct",
+   "Bouteilles d'eau et parapluies",
+   "Tous les frais de stationnement et taxes"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Billets pour les monuments",
+   "Pourboires et gratifications",
+   "Autres dépenses personnelles"
+  ]
+ },
+ "delhi-private-half-day-shopping-tour-with-choice": {
+  "title": "Delhi : visite shopping privée d'une demi-journée avec choix de guide",
+  "metaTitle": "Delhi : shopping privé demi-journée",
+  "metaDescription": "Visitez le plus grand marché aux épices d'Asie pour des thés, épices, herbes, et plus encore",
+  "shortDescription": "Visitez le plus grand marché aux épices d'Asie pour des thés, épices, herbes, et plus encore",
+  "fullDescription": "Delhi : visite shopping privée d'une demi-journée avec choix de guide. Visitez le plus grand marché aux épices d'Asie pour des thés, épices, herbes, et plus encore.\n\nVous serez pris en charge à votre hôtel à Delhi par un guide local/expert en shopping et un chauffeur. Après avoir discuté de ce que vous souhaitez acheter, ils vous emmèneront pour une visite shopping de 4 heures vers les meilleurs marchés correspondant à vos intérêts. Vous comprendrez rapidement pourquoi Delhi est un endroit fantastique pour faire du shopping.\n\nChandni Chowk a été construit au 19e siècle par l'empereur moghol Shah Jahan. Il abritait autrefois des familles riches, et aujourd'hui c'est l'un des marchés de gros les plus célèbres d'Inde pour les vêtements, l'électronique, et les montres.\n\nKhari Baoli est une rue bien connue de Delhi et le plus grand marché de gros d'épices d'Asie. Vous y trouverez toutes sortes d'épices, de noix, d'herbes, de thé, et d'autres produits alimentaires.\n\nDilli Haat et le Golden Arcade Cottage Emporium sont d'excellents endroits pour découvrir l'artisanat indien. Vous pouvez y acheter des tapis, des châles en pashmina, des articles en soie, des pièces d'art artisanales, de l'art islamique, et des peintures miniatures, parfaits pour ramener un morceau de la culture indienne chez vous.\n\n**Ce qui est inclus**\nProfitez d'un voyage sans tracas avec prise en charge et retour à l'hôtel\nApprenez-en davantage avec votre propre guide touristique privé (homme ou femme disponible)\nVoyagez confortablement dans une voiture privée climatisée\nGoûtez à la street food (si vous choisissez cette option)\nRestez hydraté avec des bouteilles d'eau minérale\nToutes les taxes et frais de stationnement sont inclus\n\n**Non inclus**\nRepas\nPourboires\nToute autre dépense personnelle",
+  "highlights": [
+   "Visitez le plus grand marché aux épices d'Asie pour des thés, épices, herbes, et plus encore"
+  ],
+  "included": [
+   "Profitez d'un voyage sans tracas avec prise en charge et retour à l'hôtel",
+   "Apprenez-en davantage avec votre propre guide touristique privé (homme ou femme disponible)",
+   "Voyagez confortablement dans une voiture privée climatisée",
+   "Goûtez à la street food (si vous choisissez cette option)",
+   "Restez hydraté avec des bouteilles d'eau minérale",
+   "Toutes les taxes et frais de stationnement sont inclus"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Pourboires",
+   "Toute autre dépense personnelle"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

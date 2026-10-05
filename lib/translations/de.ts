@@ -24629,6 +24629,82 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alles, was nicht in den Einschlüssen enthalten ist"
   ]
  },
+ "2-day-wildlife-safari-and-tour-of-jim-corbett": {
+  "title": "2-tägige Wildlife-Safari und Tour durch den Jim-Corbett-Nationalpark",
+  "metaTitle": "Jim Corbett: Safari 2 Tage, Tierwelt",
+  "metaDescription": "Wir bieten rund um die Uhr Kundensupport, 24/7.",
+  "shortDescription": "Wir bieten rund um die Uhr Kundensupport, 24/7.",
+  "fullDescription": "2-tägige Wildlife-Safari und Tour durch den Jim-Corbett-Nationalpark. Wir bieten rund um die Uhr Kundensupport, 24/7.\n\n**Was ist inbegriffen**\nTransport: privates Auto mit Fahrer für die gesamte Reise\nUnterkunft mit Frühstück: eine Nacht in einem komfortablen Resort oder einer Lodge in der Nähe des Jim-Corbett-Nationalparks im Twin-Zimmer (mit der Tour-Option)\nSafari:\nEine Abend- und eine Morgen-Jeep-Safari im Jim-Corbett-Nationalpark mit einem professionellen Naturforscher/Reiseführer\nAlle erforderlichen Genehmigungen und Eintrittsgebühren für die Safari (mit der Tour-Option)\nProfessioneller Reiseführer: Leistungen eines erfahrenen, englischsprachigen Reiseführers während der Safari\nWasser in Flaschen während der Autofahrt\nAbholung und Rückfahrt von Ihrem Hotel oder Flughafen\nAlle anfallenden Steuern und Servicegebühren\nUnterstützung während der gesamten Tour, rund um die Uhr, 24/7\nWLAN an Bord\nTiger-Safaris in einem geteilten Jeep/Canter für die Safari (Fahrzeug je nach Verfügbarkeit)\n\n**Nicht inbegriffen**\nPersönliche Ausgaben: jegliche persönliche Ausgaben wie Trinkgelder, Souvenirs, zusätzliche Mahlzeiten oder Getränke, und Einkäufe\nOptionale Aktivitäten\nGratifikationen: Trinkgelder für Reiseführer, Fahrer, oder Hotelpersonal\nMahlzeiten: Mittag- und Abendessen",
+  "highlights": [
+   "Wir bieten rund um die Uhr Kundensupport, 24/7"
+  ],
+  "included": [
+   "Transport: privates Auto mit Fahrer für die gesamte Reise",
+   "Unterkunft mit Frühstück: eine Nacht in einem komfortablen Resort oder einer Lodge in der Nähe des Jim-Corbett-Nationalparks im Twin-Zimmer (mit der Tour-Option)",
+   "Safari:",
+   "Eine Abend- und eine Morgen-Jeep-Safari im Jim-Corbett-Nationalpark mit einem professionellen Naturforscher/Reiseführer",
+   "Alle erforderlichen Genehmigungen und Eintrittsgebühren für die Safari (mit der Tour-Option)",
+   "Professioneller Reiseführer: Leistungen eines erfahrenen, englischsprachigen Reiseführers während der Safari",
+   "Wasser in Flaschen während der Autofahrt",
+   "Abholung und Rückfahrt von Ihrem Hotel oder Flughafen",
+   "Alle anfallenden Steuern und Servicegebühren",
+   "Unterstützung während der gesamten Tour, rund um die Uhr, 24/7",
+   "WLAN an Bord",
+   "Tiger-Safaris in einem geteilten Jeep/Canter für die Safari (Fahrzeug je nach Verfügbarkeit)"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben: jegliche persönliche Ausgaben wie Trinkgelder, Souvenirs, zusätzliche Mahlzeiten oder Getränke, und Einkäufe",
+   "Optionale Aktivitäten",
+   "Gratifikationen: Trinkgelder für Reiseführer, Fahrer, oder Hotelpersonal",
+   "Mahlzeiten: Mittag- und Abendessen"
+  ]
+ },
+ "from-delhi-airport-layover-guided-old-new-delhi": {
+  "title": "Ab Flughafen Delhi: geführte Zwischenstopp-Tour durch Alt- und New Delhi",
+  "metaTitle": "Delhi: Zwischenstopp geführt, Alt- und New Delhi",
+  "metaDescription": "Erkunden Sie das Herz Indiens, Delhi, in 5, 6, oder 8 unvergesslichen Stunden.",
+  "shortDescription": "Erkunden Sie das Herz Indiens, Delhi, in 5, 6, oder 8 unvergesslichen Stunden.",
+  "fullDescription": "Ab Flughafen Delhi: geführte Zwischenstopp-Tour durch Alt- und New Delhi. Erkunden Sie das Herz Indiens, Delhi, in 5, 6, oder 8 unvergesslichen Stunden.\n\nBeginnen Sie Ihren kurzen Zwischenstopp mit einer spannenden Reise durch Alt- und New Delhi. Beginnen Sie mit dem Besuch der Jama Masjid, Indiens größter Moschee, erbaut im 16. Jahrhundert. Als Nächstes genießen Sie eine traditionelle Rikscha-Fahrt durch die belebten Gassen von Chandni Chowk, wo Sie den lebendigen Gewürzmarkt, den Trockenfruchtmarkt erkunden, und einen Einblick in die Wohnviertel von Alt-Delhi erhalten.\n\nDann geht es weiter nach New Delhi zum Mittagessen in einem Restaurant mit internationaler Küche. Anschließend besuchen Sie den Gurudwara Bangla Sahib, den zweitgrößten Sikh-Tempel in Delhi, bekannt für seine friedliche Atmosphäre und Gemeinschaftsküche.\n\nSetzen Sie Ihre Tour fort mit der Erkundung einiger der ikonischsten Sehenswürdigkeiten von New Delhi, darunter das majestätische Humayun-Grabmal, der ruhige Lotustempel, und der historische Qutub Minar.\n\nBevor Sie Ihre Reise beenden und zu Ihrem Hotel oder zum Flughafen fahren, machen Sie einen kurzen Halt an India Gate, dem Präsidentenpalast, und dem indischen Parlament für einen letzten Einblick in die Pracht der Stadt.\n\n**Was ist inbegriffen**\nAbholung und Rückfahrt vom Hotel/Flughafen Delhi, und zum Hotel/Flughafen Delhi\nPrivates klimatisiertes Auto mit Chauffeur\nLive-Reiseführer-Service\nWasserflaschen und Regenschirme\nAlle Parkgebühren und Steuern\n\n**Nicht inbegriffen**\nSpeisen und Getränke\nEintrittskarten für Sehenswürdigkeiten\nTrinkgelder und Gratifikationen\nSonstige persönliche Ausgaben",
+  "highlights": [
+   "Erkunden Sie das Herz Indiens, Delhi, in 5, 6, oder 8 unvergesslichen Stunden"
+  ],
+  "included": [
+   "Abholung und Rückfahrt vom Hotel/Flughafen Delhi, und zum Hotel/Flughafen Delhi",
+   "Privates klimatisiertes Auto mit Chauffeur",
+   "Live-Reiseführer-Service",
+   "Wasserflaschen und Regenschirme",
+   "Alle Parkgebühren und Steuern"
+  ],
+  "notIncluded": [
+   "Speisen und Getränke",
+   "Eintrittskarten für Sehenswürdigkeiten",
+   "Trinkgelder und Gratifikationen",
+   "Sonstige persönliche Ausgaben"
+  ]
+ },
+ "delhi-private-half-day-shopping-tour-with-choice": {
+  "title": "Delhi: private Halbtages-Shopping-Tour mit Wahl des Reiseführers",
+  "metaTitle": "Delhi: privates Shopping, halber Tag",
+  "metaDescription": "Besuchen Sie Asiens größten Gewürzmarkt für Tees, Gewürze, Kräuter, und mehr",
+  "shortDescription": "Besuchen Sie Asiens größten Gewürzmarkt für Tees, Gewürze, Kräuter, und mehr",
+  "fullDescription": "Delhi: private Halbtages-Shopping-Tour mit Wahl des Reiseführers. Besuchen Sie Asiens größten Gewürzmarkt für Tees, Gewürze, Kräuter, und mehr.\n\nSie werden von einem lokalen Reiseführer/Shopping-Experten und einem Fahrer von Ihrem Hotel in Delhi abgeholt. Nachdem Sie besprochen haben, was Sie einkaufen möchten, bringen sie Sie auf eine 4-stündige Shopping-Tour zu den besten Märkten, die Ihren Interessen entsprechen. Sie werden schnell verstehen, warum Delhi ein großartiger Ort zum Einkaufen ist.\n\nChandni Chowk wurde im 19. Jahrhundert vom Mogul-Kaiser Shah Jahan erbaut. Es beherbergte einst wohlhabende Familien, und heute ist es einer der berühmtesten Großhandelsmärkte Indiens für Kleidung, Elektronik, und Uhren.\n\nKhari Baoli ist eine bekannte Straße in Delhi und Asiens größter Großhandels-Gewürzmarkt. Hier finden Sie alle Arten von Gewürzen, Nüssen, Kräutern, Tee, und anderen Lebensmitteln.\n\nDilli Haat und das Golden Arcade Cottage Emporium sind großartige Orte, um indisches Kunsthandwerk zu entdecken. Sie können hier Teppiche, Pashmina-Schals, Seidenartikel, handgefertigte Kunstwerke, islamische Kunst, und Miniaturmalereien kaufen, perfekt, um ein Stück indischer Kultur mit nach Hause zu nehmen.\n\n**Was ist inbegriffen**\nGenießen Sie eine problemlose Reise mit Abholung und Rückfahrt zum Hotel\nErfahren Sie mehr mit Ihrem eigenen privaten Reiseführer (männlich oder weiblich verfügbar)\nReisen Sie komfortabel in einem privaten klimatisierten Auto\nProbieren Sie Street Food (falls Sie diese Option wählen)\nBleiben Sie erfrischt mit Mineralwasserflaschen\nAlle Steuern und Parkgebühren sind inbegriffen\n\n**Nicht inbegriffen**\nMahlzeiten\nTrinkgelder\nJegliche sonstige persönliche Ausgaben",
+  "highlights": [
+   "Besuchen Sie Asiens größten Gewürzmarkt für Tees, Gewürze, Kräuter, und mehr"
+  ],
+  "included": [
+   "Genießen Sie eine problemlose Reise mit Abholung und Rückfahrt zum Hotel",
+   "Erfahren Sie mehr mit Ihrem eigenen privaten Reiseführer (männlich oder weiblich verfügbar)",
+   "Reisen Sie komfortabel in einem privaten klimatisierten Auto",
+   "Probieren Sie Street Food (falls Sie diese Option wählen)",
+   "Bleiben Sie erfrischt mit Mineralwasserflaschen",
+   "Alle Steuern und Parkgebühren sind inbegriffen"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Trinkgelder",
+   "Jegliche sonstige persönliche Ausgaben"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
