@@ -20531,6 +20531,81 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche Einkäufe"
   ]
  },
+ "private-7-day-tour-of-delhi-jaipur-agra-and": {
+  "title": "Private 7-tägige Tour durch Delhi, Jaipur, Agra, und Varanasi",
+  "metaTitle": "Delhi-Jaipur-Agra-Varanasi in 7 Tagen",
+  "metaDescription": "Königliches Erlebnis in Jaipur: Festungen, Palaeste, und das Erbe der Pink City.",
+  "shortDescription": "Königliches Erlebnis in Jaipur: Festungen, Palaeste, und das Erbe der Pink City.",
+  "fullDescription": "Während der gesamten Tour steht Ihnen eine lokale Unterstützung 24 Stunden am Tag, 7 Tage die Woche zur Verfügung.\n\n**Tag 1: Ankunft in Delhi, Besichtigung von New Delhi**\nEntfernung: 25 bis 40 km | Dauer: 1,5 bis 2,5 Stunden\n\nBei der Ankunft erkunden Sie New Delhi mit Besuchen von Qutub Minar, India Gate, Rashtrapati Bhavan (Fotostopp), Humayuns Grabmal, und dem Lotustempel.\n\nÜbernachtung: Delhi\n\n**Tag 2: Delhi nach Jaipur**\nEntfernung: 280 km | Dauer: 5 bis 6 Stunden\n\nFahrt nach Jaipur. Bei der Ankunft besuchen Sie den Galta-Ji-Tempel (Affentempel) und den Birla-Tempel. Check-in im Hotel; freier Abend oder optionaler Marktbesuch.\n\nÜbernachtung: Jaipur\n\n**Tag 3: Vollständige Besichtigung von Jaipur**\nDauer: 6 bis 8 Stunden\n\nBesuchen Sie die Amber-Festung, machen Sie einen Fotostopp am Hawa Mahal, und erkunden Sie den City Palace und das Jantar Mantar. Freier Abend zum Einkaufen oder für ein kulturelles kulinarisches Erlebnis.\n\nÜbernachtung: Jaipur\n\n**Tag 4: Jaipur nach Agra**\nEntfernung: 240 km | Dauer: 5 bis 6 Stunden\n\nFahrt nach Agra mit Besuchen auf dem Weg bei Chand Baori (Abhaneri) und Fatehpur Sikri. Optionaler Street-Food-Spaziergang am Abend.\n\nÜbernachtung: Agra\n\n**Tag 5: Besichtigung von Agra**\nDauer: 2 bis 3 Stunden\n\nSonnenaufgangsbesuch des Taj Mahal, gefolgt vom Agra-Fort und Itimad-ud-Daulah (Baby Taj).\n\nÜbernachtung: Agra\nHinweis: Das Taj Mahal bleibt freitags geschlossen.\n\n**Tag 6: Agra nach Varanasi (Vande Bharat Express, 6:00 Uhr)**\nEntfernung und Dauer: 700 km | 7 bis 8 Stunden\n\nMorgentransfer zum Einstieg in den Zug nach Varanasi. Bei der Ankunft besuchen Sie den Kashi-Vishwanath-Tempel, und erleben Sie die Ganga Aarti.\n\nÜbernachtung: Varanasi\nHinweis: Der Vande Bharat Express verkehrt mittwochs nicht.\n\n**Tag 7: Besichtigung von Varanasi und Abreise**\nDauer der Besichtigungen: 2 bis 3 Stunden\n\nMorgendliche Bootsfahrt auf dem Ganges, gefolgt von Besuchen der Banaras Hindu University, des Bharat Mata Mandir, und von Sarnath. Danach Transfer zur Abreise.\n\n**Wichtige Informationen**\nDas Taj Mahal bleibt freitags geschlossen.\nDer Sonnenaufgangsbesuch des Taj Mahal hängt von der Verfügbarkeit und den örtlichen Bedingungen ab.\nDie Zeiten der Tempelbesuche und der Ganga Aarti können je nach religiösen Zeitplänen, Besucheraufkommen, und örtlichen Vorschriften variieren.\nBootsfahrten in Varanasi hängen von Wetter- und Flussbedingungen ab (gegen Aufpreis).\nStreet-Food-Besichtigung in Agra (gegen Aufpreis).\nMehrsprachige Guides hängen von der Verfügbarkeit ab.\nTransport ist nicht enthalten, wenn die Option \"nur Guide\" gewählt wird.\nCheck-in- und Check-out-Zeiten im Hotel richten sich nach der Hotelpolitik.\nDie Reihenfolge der Besichtigung kann sich aufgrund betrieblicher, wetterbedingter, oder verkehrsbedingter Umstände ändern.\nBei verspäteter Ankunft in Delhi wird Ihre Besichtigung von Tag 1 auf Tag 2 verschoben.\n\nHinweis: Dieser Reiseplan ist flexibel und anpassbar. Bitte beachten Sie, dass während Festivals, Wochenenden, und Hauptsaisonzeiten größere Menschenmengen die Besichtigungszeit, Aktivitäten, und Reisedauer beeinflussen können.\n\nBitte beachten Sie: Die Unterkunft wird in gut gepflegten Gästehäusern und ausgewählten 3- oder 4-Sterne-Hotels organisiert. Wenn Sie ein Upgrade auf 5-Sterne-Luxushotels oder Super-Luxushotels wünschen, oder ein bevorzugtes Hotel im Sinn haben, schreiben Sie uns gerne.",
+  "highlights": [
+   "Königliches Erlebnis in Jaipur: Festungen, Palaeste, und das Erbe der Pink City"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug mit erfahrenem Fahrer für die gesamte Tour",
+   "Alle Transfers und Besichtigungen gemäß dem bestätigten Reiseplan",
+   "Örtliche Guides je Stadt in Delhi, Jaipur, Agra, und Varanasi",
+   "Unterkunft in vorab ausgewählten 3-, 4-, oder 5-Sterne-Hotels (falls die Tour mit Hoteloption gewählt wird)",
+   "Eintrittsgebühren zu Denkmälern (falls die Tour mit Eintrittsoption gewählt wird)",
+   "Zugticket von Agra nach Varanasi (falls Option gewählt wird)",
+   "Street-Food-Tour in Agra (gegen Aufpreis)",
+   "Sonnenaufgangs-Bootsfahrt in Varanasi (gegen Aufpreis)",
+   "Zwei kostenlose Wasserflaschen pro Person und Tag im Fahrzeug",
+   "Lokale Unterstützung 24 Stunden am Tag, 7 Tage die Woche",
+   "Alle anfallenden Steuern, Parkgebühren, Mautgebühren, und Fahrerkosten",
+   "Garantierte Durchführung: Die Tour findet auch mit nur einem Reisenden statt"
+  ],
+  "notIncluded": [
+   "Internationale und nationale Flugtickets, Visum, und Reiseversicherung (empfohlen)",
+   "Trinkgelder für Guides und Fahrer, persönliche Ausgaben",
+   "Jede Leistung, die nicht ausdrücklich in den Einschlüssen genannt wird",
+   "Bitte beachten Sie: Die Street-Food-Tour in Agra und die Bootsfahrt in Varanasi sind gegen Aufpreis verfügbar, und können auf Anfrage organisiert werden"
+  ]
+ },
+ "indian-cooking-class-in-the-heart-of-old-delhi": {
+  "title": "Indischer Kochkurs: im Herzen von Alt-Delhi",
+  "metaTitle": "Delhi: indischer Kochkurs",
+  "metaDescription": "Lernen Sie von erfahrenen Ausbilderköchen.",
+  "shortDescription": "Lernen Sie von erfahrenen Ausbilderköchen.",
+  "fullDescription": "Bei Khudrang ist Kochen nicht nur ein Kurs, es ist ein Erlebnis. Geleitet von leidenschaftlichen Köchen im Herzen von Delhi, verbindet unser Kochstudio authentische indische Aromen, praktisches Lernen, kulturelles Erzählen, und persönliche Aufmerksamkeit, die Sie anderswo nicht finden werden.\n\nIm Gegensatz zu generischen Kochkursen ist jede Khudrang-Sitzung in der Tradition verwurzelt, bleibt aber offen für Kreativität, von der Erforschung der Geschichte der Gewürze bis zur Beherrschung der Kunst der Präsentation. Sie folgen nicht nur Rezepten; Sie verstehen die Seele des Gerichts, die Techniken dahinter, und die Geschichten, die es lebendig machen.\n\nUnser Kleingruppenformat gewährleistet jedem Teilnehmer individuelle Aufmerksamkeit, und unsere sorgfältig zusammengestellten Menüs feiern sowohl zeitlose Klassiker als auch regionale Schätze. Ob Sie ein neugieriger Reisender oder ein lokaler Essliebhaber sind, Khudrang bietet Ihnen die Chance zu kochen, zu probieren, und ein Stück Indien mit nach Hause zu nehmen, nicht nur in Ihrem Rezeptbuch, sondern in Ihrem Herzen.\n\nEntdecken Sie die Schätze der nordindischen Küche: entdecken Sie die kräftigen Aromen, reichen Düfte, und zeitlosen Techniken der nordindischen Küche!\n\nBeschreibung: Nehmen Sie an unserem intensiven Kurs zur nordindischen Küche teil, und lernen Sie, klassische Gerichte zuzubereiten, die in ganz Indien und darüber hinaus beliebt sind. Von cremigem Butter Chicken bis zu duftenden Biryanis, weichem Naan, und würzigen Linsen-Dals, bietet dieser Kurs ein praktisches Erlebnis, das die Wärme der nordindischen Küchen direkt auf Ihren Teller bringt.",
+  "highlights": [
+   "Lernen Sie von erfahrenen Ausbilderköchen"
+  ],
+  "included": [
+   "Praktisches Kocherlebnis",
+   "Geleitet von erfahrenen Köchen",
+   "Kulinarisches Storytelling",
+   "Entdecken Sie die Geschichte und Geheimnisse indischer Gewürze"
+  ],
+  "notIncluded": [
+   "Transport zum Veranstaltungsort",
+   "Unterkunft",
+   "Mahlzeiten außerhalb des Kochkurses"
+  ]
+ },
+ "delhi-7-days-golden-triangle-with-pushkar": {
+  "title": "Delhi: 7-tägiges Goldenes Dreieck mit Pushkar und Varanasi-Besichtigung",
+  "metaTitle": "Delhi-Agra-Jaipur-Pushkar-Varanasi in 7 Tagen",
+  "metaDescription": "Erkunden Sie die lebendige Mischung aus Geschichte, Kultur, und farbenfrohen lokalen Bazaren in Delhi.",
+  "shortDescription": "Erkunden Sie die lebendige Mischung aus Geschichte, Kultur, und farbenfrohen lokalen Bazaren in Delhi.",
+  "fullDescription": "**Tag 1: Ankunft in Delhi und Besichtigungen**\nKommen Sie in Delhi an, und treffen Sie Ihren Vertreter für einen herzlichen Empfang. Beginnen Sie Ihre Besichtigung mit India Gate, Rashtrapati Bhavan, und dem Parlament. Erkunden Sie historische Denkmäler wie Humayuns Grabmal und Qutub Minar. Besuchen Sie den lebhaften Markt von Chandni Chowk, und genießen Sie eine Rikscha-Fahrt. Am Abend entspannen Sie in Ihrem Hotel, oder erkunden Sie Connaught Place zum Einkaufen und für lokale Mahlzeiten. Übernachtung in Delhi.\n\n**Tag 2: Delhi – Besichtigung von Jaipur**\nNach dem Frühstück fahren Sie nach Jaipur, die „Pink City\" Indiens. Bei der Ankunft checken Sie in Ihrem Hotel ein, und entspannen Sie sich. Besichtigen Sie den prächtigen City Palace, das Jantar-Mantar-Observatorium, und den berühmten Hawa Mahal. Schlendern Sie durch die farbenfrohen Bazare von Jaipur, um Kunsthandwerk und Schmuck zu kaufen. Genießen Sie Rajasthani-Küche in einem lokalen Restaurant. Übernachtung in Jaipur.\n\n**Tag 3: Tagesausflug Jaipur – Pushkar**\nHeute unternehmen Sie einen Tagesausflug nach Pushkar, eine der ältesten heiligen Städte Indiens. Besuchen Sie den berühmten Brahma-Tempel, und machen Sie einen Spaziergang um den heiligen Pushkar-See. Entdecken Sie die spirituelle Atmosphäre und die farbenfrohen Ghats. Erkunden Sie lokale Märkte voller traditionellem Rajasthani-Kunsthandwerk. Rückkehr nach Jaipur am Abend, und verbringen Sie Ihre Nacht in aller Ruhe. Übernachtung in Jaipur.\n\n**Tag 4: Jaipur – Agra über Fatehpur Sikri**\nNach dem Frühstück fahren Sie nach Agra. Auf dem Weg besuchen Sie die historische Stadt Fatehpur Sikri, einst die Hauptstadt des Mogulkaisers Akbar. Sehen Sie das Buland Darwaza, die Jama Masjid, und den Panch Mahal. Fahren Sie weiter nach Agra, und checken Sie in Ihrem Hotel ein. Am Abend besuchen Sie den lokalen Markt, oder entspannen Sie in Ihrem Hotel. Übernachtung in Agra.\n\n**Tag 5: Besichtigung von Agra – Varanasi per Zug**\nMorgendliche Besichtigung des Taj Mahal, Symbol ewiger Liebe, das im Licht des Sonnenaufgangs prächtig erstrahlt. Danach erkunden Sie das Agra-Fort und das Itmad-ud-Daulah-Grabmal. Nach den Besichtigungen Transfer zum Bahnhof für Ihren Nachtzug nach Varanasi. Genießen Sie die Zugfahrt, und erleben Sie das indische Eisenbahnreisen. Übernachtung an Bord.\n\n**Tag 6: Ankunft in Varanasi und morgendliche Bootsfahrt**\nKommen Sie früh morgens in Varanasi an, und beginnen Sie mit einer friedlichen Sonnenaufgangs-Bootsfahrt auf dem Ganges, während Sie die Ghats beobachten, die von Ritualen und Gebeten erstrahlen. Danach checken Sie ein, und erfrischen Sie sich, bevor Sie den Kashi-Vishwanath-Tempel, den Bharat-Mata-Tempel, und die lebhaften lokalen Märkte besuchen. Am Abend erleben Sie die bezaubernde Ganga Aarti am Dashashwamedh Ghat, ein Höhepunkt der Stadt.\n\n**Tag 7: Varanasi – Delhi per Zug**\nGenießen Sie einen ruhigen Morgen mit Frühstück in Ihrem Hotel. Wenn die Zeit es zulässt, besuchen Sie Sarnath, um sein Museum, seine Stupas, und seine antiken Ruinen zu erkunden. Rückkehr nach Varanasi für freie Zeit oder zum Einkaufen, bevor Sie zum Bahnhof fahren. Besteigen Sie am Nachmittag oder Abend Ihren Zug nach Delhi, und beschließen Sie Ihre unvergessliche Reise mit einer komfortablen Fahrt.",
+  "highlights": [
+   "Erkunden Sie die lebendige Mischung aus Geschichte, Kultur, und farbenfrohen lokalen Bazaren in Delhi"
+  ],
+  "included": [
+   "6 Nächte Unterkunft mit täglichem Frühstück",
+   "Alle Transfers und Besichtigungen in einem privaten klimatisierten Fahrzeug",
+   "Professionelle englischsprachige Guides an allen Orten",
+   "Zugtickets von Agra nach Varanasi und von Varanasi nach Delhi",
+   "Abholung und Rückfahrt zu Ihrem Hotel/Flughafen in Delhi",
+   "Mineralwasserflaschen während der Tour",
+   "Elektro-Rikscha-Fahrt in Delhi und Agra"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren zu Denkmälern",
+   "Persönliche Ausgaben",
+   "Trinkgelder"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

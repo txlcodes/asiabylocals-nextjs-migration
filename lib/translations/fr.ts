@@ -20531,6 +20531,81 @@ export const FR_TOURS: Record<string, TourT> = {
    "Tout achat de shopping"
   ]
  },
+ "private-7-day-tour-of-delhi-jaipur-agra-and": {
+  "title": "Circuit privé de 7 jours à Delhi, Jaipur, Agra, et Varanasi",
+  "metaTitle": "Delhi-Jaipur-Agra-Varanasi en 7 jours",
+  "metaDescription": "Expérience royale à Jaipur : forts, palais, et patrimoine de la ville rose.",
+  "shortDescription": "Expérience royale à Jaipur : forts, palais, et patrimoine de la ville rose.",
+  "fullDescription": "Une assistance locale est disponible 24h/24 et 7j/7 pendant tout le circuit.\n\n**Jour 1 : arrivée à Delhi, visite de New Delhi**\nDistance : 25 à 40 km | Durée : 1,5 à 2,5 heures\n\nÀ l'arrivée, explorez New Delhi avec des visites à Qutub Minar, India Gate, Rashtrapati Bhavan (arrêt photo), le tombeau d'Humayun, et le temple du Lotus.\n\nNuit : Delhi\n\n**Jour 2 : Delhi → Jaipur**\nDistance : 280 km | Durée : 5 à 6 heures\n\nTrajet vers Jaipur. À l'arrivée, visitez le temple Galta Ji (temple des singes) et le temple Birla. Enregistrement à l'hôtel ; soirée libre ou visite optionnelle du marché.\n\nNuit : Jaipur\n\n**Jour 3 : visite complète de Jaipur**\nDurée : 6 à 8 heures\n\nVisitez le fort d'Amber, profitez d'un arrêt photo au Hawa Mahal, et explorez le City Palace et le Jantar Mantar. Soirée libre pour le shopping ou une expérience culinaire culturelle.\n\nNuit : Jaipur\n\n**Jour 4 : Jaipur → Agra**\nDistance : 240 km | Durée : 5 à 6 heures\n\nTrajet vers Agra avec des visites en chemin à Chand Baori (Abhaneri) et Fatehpur Sikri. Balade optionnelle de street food en soirée.\n\nNuit : Agra\n\n**Jour 5 : visite d'Agra**\nDurée : 2 à 3 heures\n\nVisite du lever du soleil au Taj Mahal, suivie du fort d'Agra et d'Itimad-ud-Daulah (Baby Taj).\n\nNuit : Agra\nNote : le Taj Mahal reste fermé les vendredis.\n\n**Jour 6 : Agra → Varanasi (Vande Bharat Express, 6h00)**\nDistance et durée : 700 km | 7 à 8 heures\n\nTransfert matinal pour monter à bord du train vers Varanasi. À l'arrivée, visitez le temple Kashi Vishwanath, et assistez à la Ganga Aarti.\n\nNuit : Varanasi\nNote : le Vande Bharat Express ne circule pas les mercredis.\n\n**Jour 7 : visite de Varanasi et départ**\nDurée des visites : 2 à 3 heures\n\nBalade matinale en bateau sur le Gange, suivie de visites à l'université hindoue de Bénarès, au Bharat Mata Mandir, et à Sarnath. Ensuite, transfert pour le départ.\n\n**Informations importantes**\nLe Taj Mahal reste fermé les vendredis.\nLa visite du lever du soleil au Taj Mahal dépend de la disponibilité et des conditions locales.\nLes horaires des visites de temples et de la Ganga Aarti peuvent varier selon les horaires religieux, les conditions de foule, et les réglementations locales.\nLes balades en bateau à Varanasi dépendent des conditions météorologiques et fluviales (coût supplémentaire).\nExpérience de visite de street food à Agra (coût supplémentaire).\nLes guides parlant différentes langues dépendent de la disponibilité.\nLe transport n'est pas inclus si l'option guide uniquement est sélectionnée.\nLes heures d'enregistrement et de départ de l'hôtel suivent la politique de l'hôtel.\nLa séquence de la visite peut changer en raison de conditions opérationnelles, météorologiques, ou de circulation.\nSi vous arrivez tard à Delhi, votre visite du jour 1 sera reprogrammée au jour 2.\n\nNote : cet itinéraire est flexible et personnalisable. Veuillez noter que pendant les festivals, week-ends, et saisons de pointe, une foule plus importante peut affecter le temps de visite, les activités, et la durée du voyage.\n\nVeuillez noter : l'hébergement sera organisé dans des maisons d'hôtes bien entretenues et des hôtels sélectionnés 3 ou 4 étoiles. Si vous souhaitez une mise à niveau vers des hôtels de luxe 5 étoiles ou super luxe, ou si vous avez un hôtel préféré en tête, n'hésitez pas à nous écrire.",
+  "highlights": [
+   "Expérience royale à Jaipur : forts, palais, et patrimoine de la ville rose"
+  ],
+  "included": [
+   "Véhicule privé climatisé avec chauffeur expérimenté pour tout le circuit",
+   "Tous les transferts et visites selon l'itinéraire confirmé",
+   "Guides locaux par ville à Delhi, Jaipur, Agra, et Varanasi",
+   "Hébergement dans des hôtels présélectionnés 3, 4, ou 5 étoiles (si le circuit avec l'option hôtel est sélectionné)",
+   "Frais d'entrée aux monuments (si le circuit avec l'option frais d'entrée est sélectionné)",
+   "Billet de train d'Agra à Varanasi (si option sélectionnée)",
+   "Visite de street food à Agra (coût supplémentaire)",
+   "Balade en bateau au lever du soleil à Varanasi (coût supplémentaire)",
+   "Deux bouteilles d'eau offertes par personne et par jour dans le véhicule",
+   "Assistance locale 24h/24 et 7j/7",
+   "Toutes les taxes applicables, frais de stationnement, péages, et frais de chauffeur",
+   "Départ garanti : le circuit a lieu même avec un seul voyageur"
+  ],
+  "notIncluded": [
+   "Billets d'avion internationaux et domestiques, visa, et assurance voyage (recommandée)",
+   "Pourboires pour les guides et chauffeurs, dépenses personnelles",
+   "Tout service non explicitement mentionné dans les inclusions",
+   "Veuillez noter : la visite de street food à Agra et la balade en bateau à Varanasi sont disponibles à un coût supplémentaire, et peuvent être organisées sur demande"
+  ]
+ },
+ "indian-cooking-class-in-the-heart-of-old-delhi": {
+  "title": "Cours de cuisine indienne : au cœur du Vieux Delhi",
+  "metaTitle": "Delhi : cours de cuisine indienne",
+  "metaDescription": "Apprenez avec des chefs formateurs expérimentés.",
+  "shortDescription": "Apprenez avec des chefs formateurs expérimentés.",
+  "fullDescription": "Chez Khudrang, cuisiner n'est pas juste un cours, c'est une expérience. Dirigé par des chefs passionnés au cœur de Delhi, notre studio de cuisine mélange saveurs indiennes authentiques, apprentissage pratique, narration culturelle, et attention personnelle que vous ne trouverez pas ailleurs.\n\nContrairement aux cours de cuisine génériques, chaque session Khudrang est enracinée dans la tradition tout en restant ouverte à la créativité, de l'exploration de l'histoire des épices à la maîtrise de l'art du dressage. Vous ne suivez pas simplement des recettes ; vous comprenez l'âme du plat, les techniques derrière lui, et les histoires qui le font vivre.\n\nNotre format en petit groupe garantit à chaque participant une attention individuelle, et nos menus soigneusement composés célèbrent à la fois des classiques intemporels et des trésors régionaux. Que vous soyez un voyageur curieux ou un amateur de cuisine local, Khudrang vous offre la chance de cuisiner, goûter, et ramener un morceau d'Inde chez vous, pas seulement dans votre livre de recettes, mais dans votre cœur.\n\nDécouvrez les trésors de la cuisine du Nord : découvrez les saveurs audacieuses, les arômes riches, et les techniques intemporelles de la cuisine du nord de l'Inde !\n\nDescription : rejoignez notre cours immersif de cuisine du nord de l'Inde, et apprenez à préparer des plats classiques aimés à travers l'Inde et au-delà. Du butter chicken crémeux aux biryanis parfumés, au naan moelleux, et aux dals de lentilles épicées, ce cours offre une expérience pratique qui apporte la chaleur des cuisines du nord de l'Inde directement dans votre assiette.",
+  "highlights": [
+   "Apprenez avec des chefs formateurs expérimentés"
+  ],
+  "included": [
+   "Expérience de cuisine pratique",
+   "Guidé par des chefs expérimentés",
+   "Narration culinaire",
+   "Découvrez l'histoire et les secrets des épices indiennes"
+  ],
+  "notIncluded": [
+   "Transport vers le lieu",
+   "Hébergement",
+   "Repas en dehors du cours de cuisine"
+  ]
+ },
+ "delhi-7-days-golden-triangle-with-pushkar": {
+  "title": "Delhi : triangle d'or de 7 jours avec Pushkar et visite de Varanasi",
+  "metaTitle": "Delhi-Agra-Jaipur-Pushkar-Varanasi en 7 jours",
+  "metaDescription": "Explorez le mélange vibrant d'histoire, de culture, et de bazars locaux colorés de Delhi.",
+  "shortDescription": "Explorez le mélange vibrant d'histoire, de culture, et de bazars locaux colorés de Delhi.",
+  "fullDescription": "**Jour 1 : arrivée à Delhi et visites**\nArrivez à Delhi, et rencontrez votre représentant pour un accueil chaleureux. Commencez vos visites par India Gate, Rashtrapati Bhavan, et le Parlement. Explorez des monuments historiques comme le tombeau d'Humayun et Qutub Minar. Visitez le marché animé de Chandni Chowk, et profitez d'une balade en rickshaw. Le soir, détendez-vous à votre hôtel, ou explorez Connaught Place pour du shopping et des repas locaux. Nuit à Delhi.\n\n**Jour 2 : Delhi – visite de Jaipur**\nAprès le petit-déjeuner, roulez vers Jaipur, la « ville rose » de l'Inde. À l'arrivée, enregistrez-vous à votre hôtel, et détendez-vous. Visitez le magnifique City Palace, l'observatoire Jantar Mantar, et l'emblématique Hawa Mahal. Promenez-vous dans les bazars colorés de Jaipur pour acheter de l'artisanat et des bijoux. Savourez la cuisine du Rajasthan dans un restaurant local. Nuit à Jaipur.\n\n**Jour 3 : excursion d'une journée Jaipur – Pushkar**\nAujourd'hui, lancez-vous dans une excursion d'une journée à Pushkar, une des villes saintes les plus anciennes de l'Inde. Visitez le célèbre temple de Brahma, et faites une promenade autour du lac sacré de Pushkar. Découvrez l'atmosphère spirituelle et les ghats colorés. Explorez les marchés locaux remplis d'artisanat traditionnel du Rajasthan. Retour à Jaipur en soirée, et passez votre nuit en toute tranquillité. Nuit à Jaipur.\n\n**Jour 4 : Jaipur – Agra via Fatehpur Sikri**\nAprès le petit-déjeuner, roulez vers Agra. En chemin, visitez la ville historique de Fatehpur Sikri, autrefois capitale de l'empereur moghol Akbar. Voyez le Buland Darwaza, la Jama Masjid, et le Panch Mahal. Continuez vers Agra, et enregistrez-vous à votre hôtel. Le soir, visitez le marché local, ou détendez-vous à votre hôtel. Nuit à Agra.\n\n**Jour 5 : visite d'Agra – Varanasi en train**\nVisite matinale du Taj Mahal, symbole d'amour éternel, resplendissant magnifiquement à la lumière du lever du soleil. Ensuite, explorez le fort d'Agra et le tombeau d'Itmad-ud-Daulah. Après les visites, transfert vers la gare pour votre train de nuit vers Varanasi. Profitez du trajet en train, et découvrez le voyage en rail indien. Nuit à bord.\n\n**Jour 6 : arrivée à Varanasi et balade matinale en bateau**\nArrivez à Varanasi tôt le matin, et commencez par une paisible balade en bateau au lever du soleil sur le Gange, observant les ghats rayonner de rituels et de prières. Ensuite, enregistrez-vous, et rafraîchissez-vous avant de visiter le temple Kashi Vishwanath, le temple Bharat Mata, et les marchés locaux animés. Le soir, assistez à l'enchanteresse Ganga Aarti au Dashashwamedh Ghat, un point fort de la ville.\n\n**Jour 7 : Varanasi – Delhi en train**\nProfitez d'une matinée tranquille avec le petit-déjeuner à votre hôtel. Si le temps le permet, visitez Sarnath pour explorer son musée, ses stupas, et ses ruines anciennes. Retour à Varanasi pour du temps libre ou du shopping avant de vous diriger vers la gare. Montez à bord de votre train vers Delhi dans l'après-midi ou la soirée, concluant votre voyage mémorable par un trajet confortable.",
+  "highlights": [
+   "Explorez le mélange vibrant d'histoire, de culture, et de bazars locaux colorés de Delhi"
+  ],
+  "included": [
+   "6 nuits d'hébergement avec petit-déjeuner quotidien",
+   "Tous les transferts et visites en véhicule privé climatisé",
+   "Guides professionnels anglophones à tous les sites",
+   "Billets de train d'Agra à Varanasi et de Varanasi à Delhi",
+   "Prise en charge et retour à votre hôtel/l'aéroport à Delhi",
+   "Bouteilles d'eau minérale pendant le circuit",
+   "Balade en rickshaw électrique à Delhi et Agra"
+  ],
+  "notIncluded": [
+   "Frais d'entrée aux monuments",
+   "Dépenses personnelles",
+   "Pourboires et gratifications"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
