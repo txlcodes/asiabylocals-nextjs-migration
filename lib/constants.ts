@@ -131,6 +131,38 @@ export const PHUKET_INFO_SLUGS = [
   'phuket-diving-snorkeling-guide'
 ];
 
+// Malaysia authority pages, batch 1 (2026-10). Re-add a slug here ONLY once
+// its page exists in lib/malaysiaInfoContent.ts — isInfoSlug() gates the
+// route, so a page missing from here 404s however good the content is.
+export const KUALA_LUMPUR_INFO_SLUGS = [
+  'best-time-to-visit-kuala-lumpur', 'things-to-do-in-kuala-lumpur',
+  'kuala-lumpur-travel-guide-2026', 'petronas-towers-tickets-guide',
+  'kl-1-day-itinerary', 'kl-3-day-itinerary', 'batu-caves-guide',
+  'kl-public-transport-guide', 'kl-halal-food-guide',
+  'bukit-bintang-shopping-guide', 'kl-to-penang-travel',
+  'malaysia-visa-guide-for-tourists',
+];
+
+export const PENANG_INFO_SLUGS = [
+  'best-time-to-visit-penang', 'things-to-do-in-penang',
+  'penang-travel-guide-2026', 'georgetown-street-art-guide',
+  'penang-1-day-itinerary', 'penang-food-guide', 'penang-hill-guide',
+  'georgetown-unesco-heritage-guide', 'penang-beaches-guide',
+  'penang-3-day-itinerary', 'clan-jetties-penang', 'kek-lok-si-temple-guide',
+];
+
+export const LANGKAWI_INFO_SLUGS = [
+  'langkawi-cable-car-guide', 'langkawi-duty-free-shopping',
+];
+
+export const MALACCA_INFO_SLUGS = [
+  'malacca-unesco-heritage-guide', 'best-time-to-visit-malacca',
+];
+
+export const KOTA_KINABALU_INFO_SLUGS = [
+  'mount-kinabalu-guide', 'kota-kinabalu-island-hopping',
+];
+
 export const BANGKOK_INFO_SLUGS = [
   'things-to-do-in-bangkok', 'bangkok-travel-guide-2026',
   'grand-palace-bangkok', 'wat-pho', 'wat-arun',

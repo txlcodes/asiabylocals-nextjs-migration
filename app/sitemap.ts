@@ -108,6 +108,61 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.7,
   }));
 
+  // Malaysia info pages, batch 1 (2026-10)
+  const kualaLumpurInfoPages = [
+    'best-time-to-visit-kuala-lumpur', 'things-to-do-in-kuala-lumpur',
+    'kuala-lumpur-travel-guide-2026', 'petronas-towers-tickets-guide',
+    'kl-1-day-itinerary', 'kl-3-day-itinerary', 'batu-caves-guide',
+    'kl-public-transport-guide', 'kl-halal-food-guide',
+    'bukit-bintang-shopping-guide', 'kl-to-penang-travel',
+    'malaysia-visa-guide-for-tourists',
+  ].map(slug => ({
+    url: `${BASE_URL}/malaysia/kuala-lumpur/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
+  const penangInfoPages = [
+    'best-time-to-visit-penang', 'things-to-do-in-penang',
+    'penang-travel-guide-2026', 'georgetown-street-art-guide',
+    'penang-1-day-itinerary', 'penang-food-guide', 'penang-hill-guide',
+    'georgetown-unesco-heritage-guide', 'penang-beaches-guide',
+    'penang-3-day-itinerary', 'clan-jetties-penang', 'kek-lok-si-temple-guide',
+  ].map(slug => ({
+    url: `${BASE_URL}/malaysia/penang/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
+  const langkawiInfoPages = [
+    'langkawi-cable-car-guide', 'langkawi-duty-free-shopping',
+  ].map(slug => ({
+    url: `${BASE_URL}/malaysia/langkawi/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
+  const malaccaInfoPages = [
+    'malacca-unesco-heritage-guide', 'best-time-to-visit-malacca',
+  ].map(slug => ({
+    url: `${BASE_URL}/malaysia/malacca/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
+  const kotaKinabaluInfoPages = [
+    'mount-kinabalu-guide', 'kota-kinabalu-island-hopping',
+  ].map(slug => ({
+    url: `${BASE_URL}/malaysia/kota-kinabalu/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
   // Bangkok info pages
   const bangkokInfoPages = [
     'things-to-do-in-bangkok', 'bangkok-travel-guide-2026',
@@ -752,7 +807,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.75,
   }));
 
-  const all = [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...siemReapInfoPages, ...phnomPenhInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...mountFujiInfoPages, ...colomboInfoPages, ...kandyInfoPages, ...sigiriyaInfoPages, ...mirissaInfoPages, ...bentotaInfoPages, ...nuwaraEliyaInfoPages, ...negomboInfoPages, ...dubaiInfoPages, ...haLongInfoPages, ...hanoiInfoPages, ...sapaInfoPages, ...hoiAnInfoPages, ...ubudInfoPages, ...cangguInfoPages, ...uluwatuInfoPages, ...nusaPenidaInfoPages, ...daNangInfoPages, ...hoChiMinhCityInfoPages,
+  const all = [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...siemReapInfoPages, ...phnomPenhInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...mountFujiInfoPages, ...colomboInfoPages, ...kandyInfoPages, ...sigiriyaInfoPages, ...mirissaInfoPages, ...bentotaInfoPages, ...nuwaraEliyaInfoPages, ...negomboInfoPages, ...dubaiInfoPages, ...haLongInfoPages, ...hanoiInfoPages, ...sapaInfoPages, ...hoiAnInfoPages, ...ubudInfoPages, ...cangguInfoPages, ...uluwatuInfoPages, ...nusaPenidaInfoPages, ...daNangInfoPages, ...hoChiMinhCityInfoPages, ...kualaLumpurInfoPages, ...penangInfoPages, ...langkawiInfoPages, ...malaccaInfoPages, ...kotaKinabaluInfoPages,
     ...abuDhabiInfoPages,
     ...galleInfoPages, ...ellaInfoPages, ...itineraryPages, ...goldenTriangle, ...tourPages];
 

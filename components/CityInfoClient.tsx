@@ -66,8 +66,84 @@ const JAIPUR_SIDEBAR = [
     { name: 'Places to Visit', slug: 'places-to-visit-in-jaipur' },
 ];
 
+const KUALA_LUMPUR_SIDEBAR = [
+    { name: 'KL Travel Guide', slug: 'kuala-lumpur-travel-guide-2026' },
+    { name: 'Things to Do', slug: 'things-to-do-in-kuala-lumpur' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-kuala-lumpur' },
+    { name: 'Petronas Towers Tickets', slug: 'petronas-towers-tickets-guide' },
+    { name: 'Batu Caves Guide', slug: 'batu-caves-guide' },
+    { name: '1-Day Itinerary', slug: 'kl-1-day-itinerary' },
+    { name: '3-Day Itinerary', slug: 'kl-3-day-itinerary' },
+    { name: 'Public Transport', slug: 'kl-public-transport-guide' },
+    { name: 'Halal Food Guide', slug: 'kl-halal-food-guide' },
+    { name: 'Bukit Bintang Shopping', slug: 'bukit-bintang-shopping-guide' },
+    { name: 'KL to Penang', slug: 'kl-to-penang-travel' },
+    { name: 'Malaysia Visa Guide', slug: 'malaysia-visa-guide-for-tourists' },
+];
+
+const PENANG_SIDEBAR = [
+    { name: 'Penang Travel Guide', slug: 'penang-travel-guide-2026' },
+    { name: 'Things to Do', slug: 'things-to-do-in-penang' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-penang' },
+    { name: 'Georgetown Street Art', slug: 'georgetown-street-art-guide' },
+    { name: 'UNESCO Heritage', slug: 'georgetown-unesco-heritage-guide' },
+    { name: '1-Day Itinerary', slug: 'penang-1-day-itinerary' },
+    { name: '3-Day Itinerary', slug: 'penang-3-day-itinerary' },
+    { name: 'Food Guide', slug: 'penang-food-guide' },
+    { name: 'Penang Hill', slug: 'penang-hill-guide' },
+    { name: 'Kek Lok Si Temple', slug: 'kek-lok-si-temple-guide' },
+    { name: 'Clan Jetties', slug: 'clan-jetties-penang' },
+    { name: 'Beaches Guide', slug: 'penang-beaches-guide' },
+];
+
+const LANGKAWI_SIDEBAR = [
+    { name: 'Cable Car Guide', slug: 'langkawi-cable-car-guide' },
+    { name: 'Duty-Free Shopping', slug: 'langkawi-duty-free-shopping' },
+];
+
+const MALACCA_SIDEBAR = [
+    { name: 'UNESCO Heritage Guide', slug: 'malacca-unesco-heritage-guide' },
+    { name: 'Best Time to Visit', slug: 'best-time-to-visit-malacca' },
+];
+
+const KOTA_KINABALU_SIDEBAR = [
+    { name: 'Mount Kinabalu Guide', slug: 'mount-kinabalu-guide' },
+    { name: 'Island Hopping', slug: 'kota-kinabalu-island-hopping' },
+];
+
 // Recommended tour links for internal linking from authority pages to tour pages (SEO: pass link juice)
 const CITY_RECOMMENDED_TOURS: Record<string, { title: string; slug: string; description: string; image?: string; price?: string; rating?: string }[]> = {
+    'kuala-lumpur': [
+        { title: 'Kuala Lumpur: Batu Caves & Petronas Towers Guided Tour', slug: 'kuala-lumpur-batu-caves-petronas-towers-guided', description: "Both headline sights in one guided day", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-1366794/img0/1600.webp', price: 'From $592' },
+        { title: 'Kuala Lumpur: Petronas Twin Towers & KLCC Park Photoshoot', slug: 'kuala-lumpur-petronas-twin-towers-klcc-park', description: "The towers plus the best free photo angle across KLCC Park", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-1428644/img0/1600.webp', price: 'From $114' },
+        { title: 'Kuala Lumpur: Batu Caves Private Tour', slug: 'kuala-lumpur-batu-caves-private-tour', description: "A private, early-morning visit to the 272 steps and Temple Cave", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-761902/img0/1600.webp', price: 'From $57' },
+        { title: 'From Kuala Lumpur: Genting Highlands Day Trip with Cable Car', slug: 'kuala-lumpur-genting-full-day-tour', description: "A cooler hilltop resort town, cable car included", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-1503528/img0/1600.webp', price: 'From $106' },
+        { title: 'Kuala Lumpur: Sambal Streets Food Tour with 15+ Tastings', slug: 'kuala-lumpur-sambal-streets-food-tour-with-15', description: "A guided route through KL's street food you'd otherwise miss", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-203827/img0/1600.webp', price: 'From $90' },
+        { title: 'Kuala Lumpur Full-Day Private City Tour with 22 Attractions', slug: 'kuala-lumpur-full-day-private-city-tour-with-22', description: "A broad first-day overview of the city", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-803183/img0/1600.webp', price: 'From $195' },
+    ],
+    'penang': [
+        { title: 'Georgetown Street Art Tour & Mixed-Culture Local Food Tasting', slug: 'georgetown-street-art-tour-mixed-culture-local', description: "The mural hunt plus George Town's multicultural food", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-723228/img0/1600.webp', price: 'From $136' },
+        { title: 'George Town: Heritage Walking Tour with Street Food Tasting', slug: 'george-town-heritage-walking-tour-with-street', description: "Georgetown's UNESCO heritage zone with food stops built in", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-895884/img0/1600.webp', price: 'From $102' },
+        { title: 'Penang: Penang Hill and Kek Lok Si Temple Entry Ticket', slug: 'penang-penang-hill-and-kek-lok-si-temple-entry', description: "The hill funicular and Malaysia's largest Buddhist temple", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-1283404/img0/1600.webp', price: 'From $136' },
+        { title: 'Good Morning Penang Food Tour with 15+ Tastings', slug: 'good-morning-penang-food-tour-with-15-tastings', description: "Assam laksa, char kway teow and more with a local guide", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-679198/img0/1600.webp', price: 'From $84' },
+        { title: 'Sunrise at Penang Hill, Kek Lok Si Temple, and Market Tour', slug: 'sunrise-at-penang-hill-kek-lok-si-temple-and', description: "Beats the queues with a genuinely early timing", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-1294852/img0/1600.webp', price: 'From $181' },
+        { title: 'Penang: Chew Jetty, Heritage & Street Food Night Tour', slug: 'penang-chew-jetty-heritage-street-food-night-tour', description: "The last inhabited stilt-village jetty plus the old town at night", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-1466451/img0/1600.webp', price: 'From $121' },
+    ],
+    'langkawi': [
+        { title: 'Langkawi: Island Tour with Cable Car & Sky Bridge Tickets', slug: 'langkawi-island-tour-with-cable-car-sky-bridge', description: "The SkyCab ride and SkyBridge bundled with an island tour", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-1358246/img0/1600.webp', price: 'From $1,206' },
+        { title: 'Langkawi: Island Hopping Shared or Private Boat Options', slug: 'langkawi-island-hopping-shared-or-private-boat', description: "Flexible island-hopping with shared or private boat options", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-723708/img0/1600.webp', price: 'From $23' },
+        { title: 'Langkawi: Island Hopping + Pregnant Maiden Lake Tour', slug: 'langkawi-island-hopping-pregnant-maiden-lake-tour', description: "Island hopping paired with the island's famous freshwater lake", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-620115/img0/1600.webp', price: 'From $36' },
+        { title: 'Langkawi: Jet Ski Tour Island Hopping 3 Hour Experience', slug: 'langkawi-jet-ski-tour-island-hopping-3-hour', description: "A faster, more active way to see the islands", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-834261/img0/1600.webp', price: 'From $216' },
+    ],
+    'malacca': [
+        { title: 'Melaka: Rempah Routes Food Tour with 15+ Tastings', slug: 'melaka-rempah-routes-food-tour-with-15-tastings', description: "A food-led route through Malacca's Peranakan and Malay flavours", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-1209075/img0/1600.webp', price: 'From $75' },
+        { title: 'From Kuala Lumpur: Malacca UNESCO Heritage Day Tour', slug: 'from-kuala-lumpur-malacca-unesco-heritage-day-tour', description: "A day trip covering A Famosa, Jonker Street and the Baba Nyonya museum", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-1119805/img0/1600.webp', price: 'From $143' },
+    ],
+    'kota-kinabalu': [
+        { title: 'Sabah: 3 Days 2 Night Mount Kinabalu Climb', slug: 'sabah-3-days-2-night-mount-kinabalu-climb', description: "The full structured climb with the mandatory overnight at Laban Rata", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-1008301/img0/1600.webp', price: 'From $2,273' },
+        { title: 'Kota Kinabalu: Lovely Paradise Island Tour + Seafood Lunch', slug: 'kota-kinabalu-lovely-paradise-island-tour-seafood', description: "A multi-island hopping day across the Tunku Abdul Rahman park", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-1274321/img0/1600.webp', price: 'From $225' },
+        { title: 'Kota Kinabalu: Mari Mari Cultural Village Tour', slug: 'kota-kinabalu-mari-mari-cultural-village-tour', description: "Sabah's indigenous tribal cultures in a recreated village setting", image: 'https://images.asiabylocals.com/asiabylocals/tours/my-800091/img0/1600.webp', price: 'From $173' },
+    ],
     // Siem Reap. Without an entry here the "Top-Rated Tours" block renders
     // empty and the authority pages pass no link equity to the tour pages —
     // which is exactly what happened to Phuket for eleven pages.
@@ -609,6 +685,11 @@ export default function CityInfoClient({ country, city, slug, data = null }: Pro
         'mount-fuji': MOUNT_FUJI_SIDEBAR,
         dubai: DUBAI_SIDEBAR,
         'abu-dhabi': ABU_DHABI_SIDEBAR,
+        'kuala-lumpur': KUALA_LUMPUR_SIDEBAR,
+        penang: PENANG_SIDEBAR,
+        langkawi: LANGKAWI_SIDEBAR,
+        malacca: MALACCA_SIDEBAR,
+        'kota-kinabalu': KOTA_KINABALU_SIDEBAR,
     };
     // No fallback to Agra: a Kandy page showing Taj Mahal links is worse than
     // a page with no sidebar. Cities without a map entry render none.
