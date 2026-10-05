@@ -22301,6 +22301,79 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier servicio no mencionado o prometido específicamente por el agente/la agencia"
   ]
  },
+ "from-delhi-kurukshetra-day-trip-by-car-with-lunch": {
+  "title": "Desde Delhi: excursión de un día a Kurukshetra en auto con almuerzo",
+  "metaTitle": "Delhi: excursión a Kurukshetra con almuerzo",
+  "metaDescription": "Sienta la energía espiritual en Brahma Sarovar, un tanque de agua sagrado.",
+  "shortDescription": "Sienta la energía espiritual en Brahma Sarovar, un tanque de agua sagrado.",
+  "fullDescription": "Desde Delhi: excursión de un día a Kurukshetra en auto con almuerzo. Sienta la energía espiritual en Brahma Sarovar, un tanque de agua sagrado.\n\nComience su viaje con una recogida matutina en su hotel en Delhi. Viaje en un cómodo auto con aire acondicionado hacia Kurukshetra, una ciudad impregnada de historia y espiritualidad.\n\nVisite el sagrado Brahma Sarovar, un tanque de agua que se cree fue creado por el Señor Brahma, donde los peregrinos se bañan sagradamente durante los eclipses solares. Luego, explore Jyotisar, el lugar venerado donde el Señor Krishna entregó el mensaje divino del Bhagavad Gita a Arjuna antes de la batalla de Mahabharata.\n\nAdmire la tumba y el complejo de madrasa de la era mogol dedicados al famoso santo sufí, Sheikh Chilli. Entre en el Centro Panorámico y Científico de Kurukshetra, un museo interactivo que muestra la épica batalla de Mahabharata a través de dioramas, pinturas, y espectáculos de luz y sonido.\n\nDisfrute de una comida tradicional del norte de la India en un restaurante local o en el hotel. Termine sus visitas con una parada en el histórico templo Sthaneshwar Mahadev, dedicado al Señor Shiva, venerado por los Pandavas y el Señor Krishna.\n\nPor la tarde, relájese en su auto privado mientras regresa a Delhi. La entrega en su hotel marca el final de su memorable excursión de un día a Kurukshetra.\n\n**Qué incluye**\nRecogida y regreso al hotel en Delhi\nVehículo privado con aire acondicionado con conductor\nConductor profesional y conocedor\nEntradas a monumentos y sitios\nAlmuerzo en un restaurante local\nAgua embotellada durante el viaje\n\n**No incluye**\nGastos personales\nGratificaciones\nPropinas",
+  "highlights": [
+   "Sienta la energía espiritual en Brahma Sarovar, un tanque de agua sagrado"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Delhi",
+   "Vehículo privado con aire acondicionado con conductor",
+   "Conductor profesional y conocedor",
+   "Entradas a monumentos y sitios",
+   "Almuerzo en un restaurante local",
+   "Agua embotellada durante el viaje"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Gratificaciones",
+   "Propinas"
+  ]
+ },
+ "delhi-golden-private-tour": {
+  "title": "Desde Delhi: tour privado del Triángulo Dorado de 5 días",
+  "metaTitle": "Delhi: Triángulo Dorado privado, 5 días",
+  "metaDescription": "Maravíllese con la belleza del Taj Mahal al amanecer.",
+  "shortDescription": "Maravíllese con la belleza del Taj Mahal al amanecer.",
+  "fullDescription": "Desde Delhi: tour privado del Triángulo Dorado de 5 días. Maravíllese con la belleza del Taj Mahal al amanecer.\n\nExperimente lo mejor del Triángulo Dorado de la India en este tour de 5 días. Descubra algunos de los mejores monumentos de la ciudad, y alójese en alojamiento de lujo mientras recorre 3 de las mejores ciudades del Triángulo Dorado en compañía de un guía turístico privado y un conductor.\n\n**Día 1**\nBenefíciese de la recogida en el lugar deseado en Delhi, Noida, o Gurugram. Haga un tour de día completo por la ciudad de Delhi, con tiempo tanto en la Nueva como en la Vieja Delhi. Admire monumentos como la Jama Masjid, un tour en rickshaw en la Vieja Delhi, Chandni Chowk, el mercado de especias, el Fuerte Rojo (recorrido en auto), Agrasen ki Baoli (pozo escalonado), el templo sij Bangla Sahib, India Gate, el Parlamento (recorrido en auto), el Rashtrapati Bhavan (recorrido en auto), el Museo Nacional, Gandhi Smriti, el Templo del Loto, y Qutub Minar, antes de registrarse en su hotel.\n\nAlojamiento:\nHotel de 3 estrellas: Bloom Hotel Karol Bagh o similar\nHotel de 4 estrellas: Lemon Tree Premier o similar\nHotel de 5 estrellas: Novotel City Centre, Vasant Continental, o The Suryaa, o similar\n\n**Día 2**\nDespués del desayuno, continúe hacia Agra, y regístrese en su hotel antes de hacer un tour guiado por Mehtab Bagh, un complejo charbagh con vistas impresionantes del complejo del Taj Mahal, e Itimad-ud-Daulah, también conocido como Baby Taj.\n\nAlojamiento:\nOpción hotel de 3 estrellas: Howard Plaza The Fern o Golden Tulip, o similar\nOpción hotel de 4 estrellas: Royale Sarovar Portico, o similar\nOpción hotel de 5 estrellas: Jaypee Palace, Courtyard Marriott, o Grand Mercure\n\n**Día 3**\nLevántese temprano para ver el amanecer sobre el Taj Mahal, y disfrute de un tour guiado por este majestuoso palacio antes de que lleguen las multitudes. Más tarde, visite el histórico fuerte de Agra, antes de continuar hacia Jaipur, donde pasará la noche. En el camino, visite Chand Baori, un pozo escalonado también conocido como Abhaneri.\n\nAlojamiento:\nHotel de 3 estrellas: Golden Tulip Essential o similar\nHotel de 4 estrellas: Sarovar Portico o The Fern Residency similar\nHotel de 5 estrellas: Hilton, Holiday Inn Jaipur City Centre, o Intercontinental, o similar\n\n**Día 4**\nDespués del desayuno en su hotel, disfrute de un tour guiado por Jaipur. Visite el Hawa Mahal (Palacio de los Vientos), el majestuoso fuerte Amber, Panna Meena ka Kund, maravíllese con la belleza del Jal Mahal, el Gaitor Ki Chhatriyan, deténgase en el City Palace del Maharajá, y el Observatorio Jantar Mantar.\n\nAlojamiento:\nHotel de 3 estrellas: Golden Tulip Essential o similar\nHotel de 4 estrellas: Sarovar Portico o The Fern Residency similar\nHotel de 5 estrellas: Hilton, Holiday Inn Jaipur City Centre, o Intercontinental, o similar\n\n**Día 5**\nEmprenda el viaje de regreso a Delhi, o, si lo desea, sea dejado en cualquier lugar deseado en Jaipur.\n\n**Qué incluye**\nTour privado\nAlojamiento de 4 noches (si el tour se reserva con la opción que incluye hoteles)\nDesayuno diario en el hotel (si el tour se reserva con la opción que incluye hoteles)\nTransporte en vehículo privado con aire acondicionado\nRecogida y regreso al hotel o aeropuerto\nTodas las visitas con guías locales privados\nPaseo en autobús eléctrico entre el estacionamiento del Taj Mahal y el monumento\nBotellas de agua mineral para los trayectos en auto\nTodos los impuestos y cargos de servicio, incluyendo todos los impuestos hoteleros aplicables\n\n**No incluye**\nEntradas a monumentos\nGratificaciones (opcionales)",
+  "highlights": [
+   "Maravíllese con la belleza del Taj Mahal al amanecer"
+  ],
+  "included": [
+   "Tour privado",
+   "Alojamiento de 4 noches (si el tour se reserva con la opción que incluye hoteles)",
+   "Desayuno diario en el hotel (si el tour se reserva con la opción que incluye hoteles)",
+   "Transporte en vehículo privado con aire acondicionado",
+   "Recogida y regreso al hotel o aeropuerto",
+   "Todas las visitas con guías locales privados",
+   "Paseo en autobús eléctrico entre el estacionamiento del Taj Mahal y el monumento",
+   "Botellas de agua mineral para los trayectos en auto",
+   "Todos los impuestos y cargos de servicio, incluyendo todos los impuestos hoteleros aplicables"
+  ],
+  "notIncluded": [
+   "Entradas a monumentos",
+   "Gratificaciones (opcionales)"
+  ]
+ },
+ "golden-triangle-tour-w-amritsar-shimla": {
+  "title": "Tour del Triángulo Dorado con Amritsar, Shimla, y Dharamshala: 10 días / 9 noches",
+  "metaTitle": "Triángulo Dorado con Amritsar-Shimla-Dharamshala, 10D/9N",
+  "metaDescription": "Visite Agra para presenciar el amanecer en el Taj Mahal, y recorrer el fuerte de Agra.",
+  "shortDescription": "Visite Agra para presenciar el amanecer en el Taj Mahal, y recorrer el fuerte de Agra.",
+  "fullDescription": "Tour del Triángulo Dorado con Amritsar, Shimla, y Dharamshala: 10 días / 9 noches. Visite Agra para presenciar el amanecer en el Taj Mahal, y recorrer el fuerte de Agra.\n\n**Día 1: llegada a Delhi**\nRecibimiento en el aeropuerto o la estación de tren de Delhi.\nTraslado al hotel, y registro.\nTarde libre, o visita opcional a Akshardham o vista nocturna de India Gate.\nNoche en Delhi.\n\n**Día 2: visitas a Delhi, traslado a Agra**\nVisite: la Jama Masjid, Raj Ghat, Qutub Minar, la tumba de Humayun, India Gate, el Parlamento, y la Casa del Presidente (parada fotográfica).\nTraslado a Agra (aproximadamente 3 horas 30 minutos).\nRegistro y relajación en el hotel.\nNoche en Agra.\n\n**Día 3: Agra, Jaipur (vía Fatehpur Sikri)**\nVisita al amanecer al Taj Mahal.\nVisite el fuerte de Agra, e Itimad-ud-Daulah (Baby Taj).\nTraslado a Jaipur, con una visita a Fatehpur Sikri en el camino (sitio de la UNESCO).\nLlegada y registro en el hotel de Jaipur.\nNoche en Jaipur.\n\n**Día 4: visitas en Jaipur**\nVisite: el fuerte Amber (paseo en elefante/jeep), el Jal Mahal, el Hawa Mahal (parada fotográfica), el City Palace, el Jantar Mantar, y el Albert Hall.\nExplore mercados locales (estampado en bloque, piedras preciosas, artesanías).\nNoche en Jaipur.\n\n**Día 5: Jaipur, Delhi, Amritsar (en tren)**\nTraslado de regreso a Delhi, y abordaje del tren nocturno.\nLlegada y registro en el hotel.\nNoche en Amritsar.\n\n**Día 6: visitas en Amritsar**\nVisita matutina al Templo Dorado y a Jallianwala Bagh.\nAlmuerzo en el Guru Ka Langar (opcional).\nCeremonia de la frontera de Wagah por la tarde (ceremonia de retirada India-Pakistán).\nNoche en Amritsar.\n\n**Día 7: Amritsar, Dharamshala (aproximadamente 5 horas)**\nTrayecto pintoresco de Amritsar a Dharamshala.\nRegistro en el hotel, y relajación.\nTiempo libre por la tarde en el mercado de McLeod Ganj.\nNoche en Dharamshala.\n\n**Día 8: visitas en Dharamshala, traslado a Shimla**\nVisite: el templo del Dalai Lama, la cascada de Bhagsu, la iglesia St. John in the Wilderness, y el monasterio tibetano.\nTraslado a Shimla (aproximadamente 6 horas).\nRegistro en el hotel, y descanso.\nNoche en Shimla.\n\n**Día 9: Shimla y excursión a Kufri**\nVisite Kufri: el parque natural del Himalaya, y actividades de aventura.\nRegreso a Shimla: Mall Road, Christ Church, la Ridge, Scandal Point.\nNoche en Shimla.\n\n**Día 10: Shimla, salida a Delhi**\nTraslado a Delhi (o tren desde Kalka).\nEntrega en el aeropuerto/estación de tren para continuar el viaje.\nFin del tour con experiencias memorables.\n\n**Qué incluye**\nRecogida y regreso al hotel o aeropuerto\nAuto privado con aire acondicionado para toda la actividad del tour, con conductor\nGuía turístico profesional en cada ciudad\nAlojamiento en hotel por 9 noches (si se selecciona esta opción)\nDesayuno en el hotel\nBoletos de tren (Jaipur - Amritsar - Delhi) (si se selecciona esta opción)\nBotella de agua mineral\nTodos los peajes y el estacionamiento\n\n**No incluye**\nEntradas a monumentos\nAlmuerzo y cena\nCualquier gasto personal",
+  "highlights": [
+   "Visite Agra para presenciar el amanecer en el Taj Mahal, y recorrer el fuerte de Agra"
+  ],
+  "included": [
+   "Recogida y regreso al hotel o aeropuerto",
+   "Auto privado con aire acondicionado para toda la actividad del tour, con conductor",
+   "Guía turístico profesional en cada ciudad",
+   "Alojamiento en hotel por 9 noches (si se selecciona esta opción)",
+   "Desayuno en el hotel",
+   "Boletos de tren (Jaipur - Amritsar - Delhi) (si se selecciona esta opción)",
+   "Botella de agua mineral",
+   "Todos los peajes y el estacionamiento"
+  ],
+  "notIncluded": [
+   "Entradas a monumentos",
+   "Almuerzo y cena",
+   "Cualquier gasto personal"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
