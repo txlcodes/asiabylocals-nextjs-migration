@@ -27892,6 +27892,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Handtücher\nNicht-vegetarische Snacks\nAlkoholische Getränke\nAbholung und Rückfahrt vom Hotel\nAbholung und Rückfahrt von der U-Bahn\nReise- und Krankenversicherungen"
   ]
  },
+ "best-of-the-chandigarh-guided-full-day-city-tour": {
+  "title": "Das Beste von Chandigarh (geführte Ganztages-Stadtrundfahrt)",
+  "metaTitle": "Das Beste von Chandigarh, Ganztagestour",
+  "metaDescription": "Erkunden Sie den ikonischen Capitol Complex mit dem symbolischen Open-Hand-Monument, bei dieser Ganztagestour.",
+  "shortDescription": "Erkunden Sie den ikonischen Capitol Complex mit dem symbolischen Open-Hand-Monument",
+  "fullDescription": "Das Beste von Chandigarh (geführte Ganztages-Stadtrundfahrt). Erkunden Sie den ikonischen Capitol Complex mit dem symbolischen Open-Hand-Monument.\n\nWenn Sie wenig Zeit haben oder sich Ihr Besuch hauptsächlich auf die Erkundung von Touristenattraktionen in und um die Stadt konzentriert, ist eine Ganztages-Stadtrundfahrt eine ideale Wahl.\n\nWir haben sorgfältig alle faszinierenden Aspekte zusammengetragen und miteinander verwoben, um eine fesselnde Erzählung in unserer Trails-of-Chandigarh-Tour zu schaffen. Dieses außergewöhnliche Kulturerbe-Erlebnis ist angereichert mit faszinierenden Geschichten, die tiefe Einblicke in die Ursprünge, Kultur und Lebensweise der Stadt bieten und einen köstlichen Wissenskranz bilden.\n\nErleben Sie fünf bis sechs der folgenden berühmten Touristenziele nach Ihrer Wahl in der Stadt bei dieser Halbtagestour.\n1. ISKCON-Tempel mit der Geschichte der Hare Krishna.\n2. Sukhna-See: ein künstlich angelegter See mit makellos blauem Wasser, ein perfekter Ort für Naturliebhaber.\n\nErleben Sie fünf bis sechs der folgenden berühmten Touristenziele nach Ihrer Wahl in der Stadt bei dieser Halbtagestour.\n\n1. Internationales Puppenmuseum: zeigt eine große Sammlung von Puppen aus aller Welt in traditioneller Kleidung.\n2. Rosengarten: der größte Garten seiner Art in Asien, zeigt rund 825 Blumensorten und 32.500 Sorten von Bäumen und Heilsträuchern.\n3. Open-Hand-Monument, der Turm der Schatten und der Capitol Complex\n4. Museum des Obersten Gerichtshofs: zeigt die historische Entwicklungsreise des Gerichts, um dorthin zu gelangen, wo es heute steht, mit Briefmarken aus jener Epoche.\n\n„Erleben Sie fünf bis sechs der folgenden berühmten Touristenziele nach Ihrer Wahl in der Stadt bei dieser Halbtagestour.\n\n1. Rock Garden: eine riesige Freiluft-Ausstellungshalle mit Skulpturen aus städtischem und industriellem Abfall, dieser 40 Acres große Garten ist ein buntes Mosaik aus Kunstwerken und Skulpturen.\n\n### Inklusive\n\n- Geschichtenerzähler/Reiseführer, der Englisch und Hindi spricht\n- Transport zu den Orten dieser Tour im klimatisierten Auto\n- Großartige lokale Tipps, Empfehlungen und Gespräche zur Erkundung religiöser Aspekte, Überzeugungen und lokaler Bedeutung\n\n### Nicht inklusive\n\n- 1. Eintrittsgebühr zu historischen Stätten\n- 2. Getränke und Essen",
+  "highlights": [
+   "Erkunden Sie den ikonischen Capitol Complex mit dem symbolischen Open-Hand-Monument"
+  ],
+  "included": [
+   "Geschichtenerzähler/Reiseführer, der Englisch und Hindi spricht\nTransport zu den Orten dieser Tour im klimatisierten Auto\nGroßartige lokale Tipps, Empfehlungen und Gespräche zur Erkundung religiöser Aspekte, Überzeugungen und lokaler Bedeutung"
+  ],
+  "notIncluded": [
+   "1. Eintrittsgebühr zu historischen Stätten\n2. Getränke und Essen"
+  ]
+ },
+ "old-delhi-street-food-tour-with-local-guide": {
+  "title": "Old-Delhi-Street-Food-Tour mit lokalem Reiseführer",
+  "metaTitle": "Old-Delhi-Street-Food-Tour mit lokalem Reiseführer",
+  "metaDescription": "Probieren Sie rund 10 authentische Old-Delhi-Street-Food-Spezialitäten bei dieser 4-stündigen Tour mit lokalem Reiseführer.",
+  "shortDescription": "Probieren Sie rund 10 authentische Old-Delhi-Street-Food-Spezialitäten",
+  "fullDescription": "Old-Delhi-Street-Food-Tour mit lokalem Reiseführer. Probieren Sie rund 10 authentische Old-Delhi-Street-Food-Spezialitäten.\n\nEntdecken Sie die Aromen und die Kultur von Old Delhi bei einer 4-stündigen Street-Food-Tour mit einem lokalen Reiseführer. Spazieren Sie durch die lebendigen Gassen und versteckten Ecken der Altstadt, während Sie rund 10 verschiedene lokale Spezialitäten an sorgfältig ausgewählten Essensständen probieren.\nProbieren Sie beliebte Delhi-Favoriten wie Parathas, Chole Bhature, Chaat, Dahi Bhalla, Jalebi, Lassi und andere traditionelle Köstlichkeiten, je nach Verfügbarkeit. Unterwegs teilt Ihr lokaler Reiseführer Geschichten über das Essen, das lokale Leben sowie die Geschichte und Kultur von Old Delhi mit Ihnen.\nErkunden Sie belebte Märkte und enge Gassen, erleben Sie die Atmosphäre von Old Delhi und entdecken Sie Essensorte, die Besucher sonst vielleicht verpassen würden.\nDiese Tour dreht sich nicht nur ums Essen: Sie ist eine Gelegenheit, Delhi durch sein Essen, seine Menschen, seine Kultur und sein Alltagsleben zu erleben.\n\n### Inklusive\n\n- Lokaler Reiseführer\n- Essensverkostungen und Getränke\n- U-Bahn-Fahrpreis\n- Tuk-Tuk-Fahrpreis\n\n### Nicht inklusive\n\n- Trinkgelder",
+  "highlights": [
+   "Probieren Sie rund 10 authentische Old-Delhi-Street-Food-Spezialitäten"
+  ],
+  "included": [
+   "Lokaler Reiseführer\nEssensverkostungen und Getränke\nU-Bahn-Fahrpreis\nTuk-Tuk-Fahrpreis"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "delhi-qutub-minar-and-humayuns-tomb-private": {
+  "title": "Delhi: privater geführter Ausflug zu Qutub Minar und Humayuns Grabmal",
+  "metaTitle": "Delhi: privater Ausflug Qutub Minar, Humayuns Grabmal",
+  "metaDescription": "Erkunden Sie den prächtigen Qutub Minar, eine UNESCO-Welterbestätte, bei diesem privaten geführten Ausflug.",
+  "shortDescription": "Erkunden Sie den prächtigen Qutub Minar, eine UNESCO-Welterbestätte.",
+  "fullDescription": "Delhi: privater geführter Ausflug zu Qutub Minar und Humayuns Grabmal. Erkunden Sie den prächtigen Qutub Minar, eine UNESCO-Welterbestätte.\n\n1. Hotelabholung und Begrüßung\nIhr privater Reiseführer und Chauffeur treffen Sie an Ihrem Hotel oder bevorzugten Ort in Delhi. Nach einer kurzen Einführung in den Tagesablauf beginnen Sie Ihre komfortable Reise durch die historischen Wahrzeichen der Hauptstadt.\n\n2. Besuch des Qutub Minar\nBeginnen Sie Ihre Tour am prächtigen Qutub Minar, einer UNESCO-Welterbestätte und einem der gefeiertsten Denkmäler Delhis. Erkunden Sie das hoch aufragende Minarett, bewundern Sie die aufwendige indo-islamische Architektur und erfahren Sie mehr über die Geschichte des Sultanats von Delhi. Ihr Reiseführer stellt Ihnen auch die nahegelegenen Attraktionen innerhalb des Komplexes vor, einschließlich der Eisernen Säule und antiker Moscheenruinen.\n\n3. Malerische Fahrt durch Delhi\nGenießen Sie eine entspannte Fahrt durch die Stadt, während Ihr Reiseführer faszinierende Geschichten über Delhis Wandel durch verschiedene Dynastien und Epochen mit Ihnen teilt. Erhaschen Sie unterwegs Einblicke in moderne und historische Viertel.\n\n4. Erkundung von Humayuns Grabmal\nWeiter geht es zu Humayuns Grabmal, dem atemberaubenden Gartenmausoleum aus dem 16. Jahrhundert, das das architektonische Design des Taj Mahal inspirierte. Wandeln Sie durch wunderschön gestaltete Gärten im persischen Stil, elegante Wege und beeindruckende Bauwerke aus rotem Sandstein, während Sie das Erbe des Mogulreichs entdecken.\n\n5. Fotografie und kulturelle Einblicke\nNehmen Sie sich Zeit, um unvergessliche Fotos zu machen und genießen Sie detaillierte Erklärungen Ihres privaten Reiseführers zur Symbolik, Architektur und historischen Bedeutung beider UNESCO-gelisteten Stätten.\n\n6. Rücktransfer\nNach Abschluss Ihres Besichtigungserlebnisses entspannen Sie sich während Ihrer Rückfahrt zu Ihrem Hotel oder gewählten Abgabeort in Delhi, womit Ihr bereichernder halbtägiger Kulturerbe-Ausflug endet.\n\n### Inklusive\n\n- Abholung und Rückfahrt am Hotel/Flughafen\n- Privates klimatisiertes Auto für die Besichtigung mit Fahrer\n- Staatlich zugelassener lokaler Experten-Reiseführer\n- Eintrittskarten für Denkmäler (falls Option gewählt)\n- Mineralwasserflasche\n- Alle Mautgebühren und Parkgebühren\n\n### Nicht inklusive\n\n- Jegliche Mahlzeit\n- Jegliche persönlichen Ausgaben",
+  "highlights": [
+   "Erkunden Sie den prächtigen Qutub Minar, eine UNESCO-Welterbestätte"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel/Flughafen\nPrivates klimatisiertes Auto für die Besichtigung mit Fahrer\nStaatlich zugelassener lokaler Experten-Reiseführer\nEintrittskarten für Denkmäler (falls Option gewählt)\nMineralwasserflasche\nAlle Mautgebühren und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Jegliche Mahlzeit\nJegliche persönlichen Ausgaben"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

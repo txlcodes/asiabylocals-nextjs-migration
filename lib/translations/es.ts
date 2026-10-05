@@ -27892,6 +27892,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Toallas de mano\nAperitivos no vegetarianos\nBebidas alcohólicas\nRecogida y traslado al hotel\nRecogida y traslado en metro\nSeguros de viaje y médicos"
   ]
  },
+ "best-of-the-chandigarh-guided-full-day-city-tour": {
+  "title": "Lo mejor de Chandigarh (tour guiado de día completo por la ciudad)",
+  "metaTitle": "Lo mejor de Chandigarh, tour de día completo",
+  "metaDescription": "Explore el icónico Capitol Complex, con el simbólico Monumento de la Mano Abierta, en este tour de día completo.",
+  "shortDescription": "Explore el icónico Capitol Complex, con el simbólico Monumento de la Mano Abierta",
+  "fullDescription": "Lo mejor de Chandigarh (tour guiado de día completo por la ciudad). Explore el icónico Capitol Complex, con el simbólico Monumento de la Mano Abierta.\n\nSi tiene poco tiempo o su visita se centra principalmente en explorar atracciones turísticas dentro y alrededor de la ciudad, optar por un tour de día completo es una opción ideal.\n\nHemos reunido y entrelazado cuidadosamente todos los aspectos intrigantes para crear una narrativa cautivadora en nuestro tour Trails of Chandigarh. Esta excepcional experiencia patrimonial está enriquecida con historias fascinantes que ofrecen perspectivas profundas sobre los orígenes, la cultura y el modo de vida de la ciudad, formando una deliciosa guirnalda de conocimiento.\n\nExperimente de cinco a seis de los siguientes destinos turísticos famosos según su elección en la ciudad, en este tour de medio día.\n1. Templo ISKCON que muestra la historia de Hare Krishna.\n2. Lago Sukhna: un lago artificial de agua azul prístina, lugar perfecto para los amantes de la naturaleza.\n\nExperimente de cinco a seis de los siguientes destinos turísticos famosos según su elección en la ciudad, en este tour de medio día.\n\n1. Museo Internacional de Muñecas: muestra una gran colección de muñecas de todo el mundo con vestimenta tradicional.\n2. Jardín de Rosas: el jardín más grande de su tipo en Asia, muestra alrededor de 825 variedades de flores y 32.500 variedades de árboles y arbustos medicinales.\n3. Monumento de la Mano Abierta, la Torre de las Sombras y el Capitol Complex\n4. Museo del Tribunal Superior: muestra el recorrido histórico de desarrollo del tribunal para llegar a lo que es hoy, también exhibe sellos de la época.\n\n\"Experimente de cinco a seis de los siguientes destinos turísticos famosos según su elección en la ciudad, en este tour de medio día.\n\n1. Rock Garden: una enorme sala de exposiciones al aire libre que exhibe esculturas hechas con desechos urbanos e industriales, este jardín de 40 acres es un colorido mosaico de obras de arte y esculturas.\n\n### Qué incluye\n\n- Narrador/guía que habla inglés e hindi\n- Transporte a los lugares de este tour en coche con aire acondicionado\n- Excelentes consejos locales, recomendaciones y conversaciones para explorar aspectos religiosos, creencias e importancia local\n\n### No incluye\n\n- 1. Tarifa de entrada a cualquier sitio histórico\n- 2. Bebidas y comida",
+  "highlights": [
+   "Explore el icónico Capitol Complex, con el simbólico Monumento de la Mano Abierta"
+  ],
+  "included": [
+   "Narrador/guía que habla inglés e hindi\nTransporte a los lugares de este tour en coche con aire acondicionado\nExcelentes consejos locales, recomendaciones y conversaciones para explorar aspectos religiosos, creencias e importancia local"
+  ],
+  "notIncluded": [
+   "1. Tarifa de entrada a cualquier sitio histórico\n2. Bebidas y comida"
+  ]
+ },
+ "old-delhi-street-food-tour-with-local-guide": {
+  "title": "Tour de comida callejera de Old Delhi con guía local",
+  "metaTitle": "Tour de comida callejera de Old Delhi con guía local",
+  "metaDescription": "Pruebe alrededor de 10 especialidades auténticas de comida callejera de Old Delhi en este tour de 4 horas con guía local.",
+  "shortDescription": "Pruebe alrededor de 10 especialidades auténticas de comida callejera de Old Delhi",
+  "fullDescription": "Tour de comida callejera de Old Delhi con guía local. Pruebe alrededor de 10 especialidades auténticas de comida callejera de Old Delhi.\n\nDescubra los sabores y la cultura de Old Delhi en un tour de comida callejera de 4 horas con un guía local. Camine por las animadas callejuelas y rincones ocultos de la ciudad vieja mientras prueba alrededor de 10 especialidades locales diferentes en puestos de comida cuidadosamente seleccionados.\nPruebe favoritos populares de Delhi como los parathas, el chole bhature, el chaat, el dahi bhalla, el jalebi, el lassi y otras delicias tradicionales, según disponibilidad. En el camino, su guía local compartirá historias sobre la comida, la vida local y la historia y cultura de Old Delhi.\nExplore mercados bulliciosos y callejones estrechos, experimente el ambiente de Old Delhi y descubra lugares de comida que los visitantes podrían pasar por alto.\nEste tour no se trata solo de comer: es una oportunidad de experimentar Delhi a través de su comida, su gente, su cultura y su vida cotidiana.\n\n### Qué incluye\n\n- Guía local\n- Degustaciones de comida y bebidas\n- Tarifa de metro\n- Tarifa de tuk-tuk\n\n### No incluye\n\n- Propinas y gratificaciones",
+  "highlights": [
+   "Pruebe alrededor de 10 especialidades auténticas de comida callejera de Old Delhi"
+  ],
+  "included": [
+   "Guía local\nDegustaciones de comida y bebidas\nTarifa de metro\nTarifa de tuk-tuk"
+  ],
+  "notIncluded": [
+   "Propinas y gratificaciones"
+  ]
+ },
+ "delhi-qutub-minar-and-humayuns-tomb-private": {
+  "title": "Delhi: tour privado guiado de Qutub Minar y la Tumba de Humayun",
+  "metaTitle": "Delhi: tour privado Qutub Minar y Tumba de Humayun",
+  "metaDescription": "Explore el magnífico Qutub Minar, un sitio Patrimonio de la Humanidad de la UNESCO, en este tour privado guiado.",
+  "shortDescription": "Explore el magnífico Qutub Minar, un sitio Patrimonio de la Humanidad de la UNESCO.",
+  "fullDescription": "Delhi: tour privado guiado de Qutub Minar y la Tumba de Humayun. Explore el magnífico Qutub Minar, un sitio Patrimonio de la Humanidad de la UNESCO.\n\n1. Recogida en el hotel y bienvenida\nSu guía privado y chófer se reunirán con usted en su hotel o lugar preferido en Delhi. Tras una breve introducción al programa del día, comience su cómodo viaje por los monumentos históricos de la capital.\n\n2. Visita a Qutub Minar\nComience su tour en el magnífico Qutub Minar, un sitio Patrimonio de la Humanidad de la UNESCO y uno de los monumentos más celebrados de Delhi. Explore el imponente minarete, admire la intrincada arquitectura indoislámica y conozca la historia del Sultanato de Delhi. Su guía también le presentará las atracciones cercanas dentro del complejo, incluyendo el Pilar de Hierro y las ruinas de la antigua mezquita.\n\n3. Trayecto pintoresco por Delhi\nDisfrute de un relajante trayecto por la ciudad mientras su guía comparte historias fascinantes sobre la transformación de Delhi a través de diferentes dinastías y épocas. Capture vistazos de los barrios modernos e históricos en el camino.\n\n4. Descubra la Tumba de Humayun\nContinúe hacia la Tumba de Humayun, el impresionante mausoleo-jardín del siglo 16 que inspiró el diseño arquitectónico del Taj Mahal. Pasee por hermosos jardines de estilo persa, elegantes senderos e impresionantes estructuras de arenisca roja mientras descubre el legado del Imperio Mogol.\n\n5. Fotografía y perspectivas culturales\nTómese su tiempo para capturar fotografías memorables y disfrute de explicaciones detalladas de su guía privado sobre el simbolismo, la arquitectura y la importancia histórica de ambos sitios declarados por la UNESCO.\n\n6. Traslado de regreso\nDespués de completar su experiencia de avistamiento, relájese durante su trayecto de regreso a su hotel o lugar de entrega elegido en Delhi, concluyendo su enriquecedor tour patrimonial de medio día.\n\n### Qué incluye\n\n- Recogida y traslado al hotel/aeropuerto\n- Coche privado con aire acondicionado para las visitas con conductor\n- Guía local experto aprobado por el gobierno\n- Entradas a monumentos (si se selecciona la opción)\n- Botella de agua mineral\n- Todos los peajes y el estacionamiento\n\n### No incluye\n\n- Cualquier comida\n- Cualquier gasto personal",
+  "highlights": [
+   "Explore el magnífico Qutub Minar, un sitio Patrimonio de la Humanidad de la UNESCO"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto\nCoche privado con aire acondicionado para las visitas con conductor\nGuía local experto aprobado por el gobierno\nEntradas a monumentos (si se selecciona la opción)\nBotella de agua mineral\nTodos los peajes y el estacionamiento"
+  ],
+  "notIncluded": [
+   "Cualquier comida\nCualquier gasto personal"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",

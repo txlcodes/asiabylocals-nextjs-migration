@@ -27892,6 +27892,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Serviettes à main\nEn-cas non végétariens\nBoissons alcoolisées\nPrise en charge et dépose à l'hôtel\nPrise en charge et dépose au métro\nAssurances voyage et médicales"
   ]
  },
+ "best-of-the-chandigarh-guided-full-day-city-tour": {
+  "title": "Le meilleur de Chandigarh (circuit guidé d'une journée complète en ville)",
+  "metaTitle": "Le meilleur de Chandigarh, circuit d'une journée",
+  "metaDescription": "Explorez l'emblématique Capitol Complex, avec le symbolique Monument de la Main Ouverte, lors de ce circuit d'une journée.",
+  "shortDescription": "Explorez l'emblématique Capitol Complex, avec le symbolique Monument de la Main Ouverte",
+  "fullDescription": "Le meilleur de Chandigarh (circuit guidé d'une journée complète en ville). Explorez l'emblématique Capitol Complex, avec le symbolique Monument de la Main Ouverte.\n\nSi vous manquez de temps ou si votre visite se concentre principalement sur l'exploration des attractions touristiques dans et autour de la ville, opter pour un circuit d'une journée complète est un choix idéal.\n\nNous avons soigneusement rassemblé et entrelacé tous les aspects intrigants pour créer un récit captivant dans notre circuit Trails of Chandigarh. Cette expérience patrimoniale exceptionnelle est enrichie d'histoires fascinantes qui offrent des perspectives profondes sur les origines, la culture et le mode de vie de la ville, formant une délicieuse guirlande de connaissances.\n\nDécouvrez cinq à six des destinations touristiques célèbres ci-dessous selon votre choix dans la ville, lors de ce circuit d'une demi-journée.\n1. Temple ISKCON présentant l'histoire des Hare Krishna.\n2. Lac Sukhna : un lac artificiel aux eaux bleues immaculées, lieu parfait pour les amoureux de la nature.\n\nDécouvrez cinq à six des destinations touristiques célèbres ci-dessous selon votre choix dans la ville, lors de ce circuit d'une demi-journée.\n\n1. Musée international des poupées : présentant une large collection de poupées du monde entier en tenue traditionnelle.\n2. Jardin des Roses : le plus grand jardin de son genre en Asie, présentant environ 825 variétés de fleurs et 32 500 variétés d'arbres et d'arbustes médicinaux.\n3. Monument de la Main Ouverte, la Tour des Ombres et le Capitol Complex\n4. Musée de la Haute Cour : présentant le parcours historique de développement entrepris par la Cour pour atteindre ce qu'elle est aujourd'hui, avec également des timbres de l'époque exposés.\n\n« Découvrez cinq à six des destinations touristiques célèbres ci-dessous selon votre choix dans la ville, lors de ce circuit d'une demi-journée.\n\n1. Rock Garden : une vaste salle d'exposition en plein air présentant des sculptures réalisées à partir de déchets urbains et industriels, ce jardin de 40 acres est une mosaïque colorée d'œuvres d'art et de sculptures.\n\n### Ce qui est inclus\n\n- Conteur/guide parlant anglais et hindi\n- Transport vers les lieux du circuit en voiture climatisée\n- Excellents conseils locaux, recommandations et conversations pour explorer les aspects religieux, les croyances et l'importance locale\n\n### Non inclus\n\n- 1. Frais d'entrée à tout site historique\n- 2. Boissons et nourriture",
+  "highlights": [
+   "Explorez l'emblématique Capitol Complex, avec le symbolique Monument de la Main Ouverte"
+  ],
+  "included": [
+   "Conteur/guide parlant anglais et hindi\nTransport vers les lieux du circuit en voiture climatisée\nExcellents conseils locaux, recommandations et conversations pour explorer les aspects religieux, les croyances et l'importance locale"
+  ],
+  "notIncluded": [
+   "1. Frais d'entrée à tout site historique\n2. Boissons et nourriture"
+  ]
+ },
+ "old-delhi-street-food-tour-with-local-guide": {
+  "title": "Circuit street food d'Old Delhi avec guide local",
+  "metaTitle": "Circuit street food d'Old Delhi avec guide local",
+  "metaDescription": "Goûtez environ 10 spécialités authentiques de street food d'Old Delhi lors de ce circuit de 4 heures avec un guide local.",
+  "shortDescription": "Goûtez environ 10 spécialités authentiques de street food d'Old Delhi",
+  "fullDescription": "Circuit street food d'Old Delhi avec guide local. Goûtez environ 10 spécialités authentiques de street food d'Old Delhi.\n\nDécouvrez les saveurs et la culture d'Old Delhi lors d'un circuit street food de 4 heures avec un guide local. Parcourez les ruelles animées et les coins cachés de la vieille ville tout en goûtant environ 10 spécialités locales différentes dans des étals soigneusement sélectionnés.\nDégustez des incontournables de Delhi comme les parathas, le chole bhature, le chaat, le dahi bhalla, les jalebis, le lassi et d'autres douceurs traditionnelles, selon disponibilité. En chemin, votre guide local partagera des histoires sur la nourriture, la vie locale, et l'histoire et la culture d'Old Delhi.\nExplorez des marchés animés et des ruelles étroites, découvrez l'atmosphère d'Old Delhi, et trouvez des lieux culinaires que les visiteurs pourraient autrement manquer.\nCe circuit ne se limite pas à manger : c'est une occasion de découvrir Delhi à travers sa nourriture, ses habitants, sa culture et sa vie quotidienne.\n\n### Ce qui est inclus\n\n- Guide local\n- Dégustations culinaires et boissons\n- Frais de métro\n- Frais de tuk-tuk\n\n### Non inclus\n\n- Pourboires et gratifications",
+  "highlights": [
+   "Goûtez environ 10 spécialités authentiques de street food d'Old Delhi"
+  ],
+  "included": [
+   "Guide local\nDégustations culinaires et boissons\nFrais de métro\nFrais de tuk-tuk"
+  ],
+  "notIncluded": [
+   "Pourboires et gratifications"
+  ]
+ },
+ "delhi-qutub-minar-and-humayuns-tomb-private": {
+  "title": "Delhi : circuit privé guidé de Qutub Minar et du tombeau de Humayun",
+  "metaTitle": "Delhi : circuit privé Qutub Minar et tombeau de Humayun",
+  "metaDescription": "Explorez le magnifique Qutub Minar, site du patrimoine mondial de l'UNESCO, lors de ce circuit privé guidé.",
+  "shortDescription": "Explorez le magnifique Qutub Minar, site du patrimoine mondial de l'UNESCO.",
+  "fullDescription": "Delhi : circuit privé guidé de Qutub Minar et du tombeau de Humayun. Explorez le magnifique Qutub Minar, site du patrimoine mondial de l'UNESCO.\n\n1. Prise en charge à l'hôtel et accueil\nVotre guide privé et chauffeur vous rencontreront à votre hôtel ou au lieu de votre choix à Delhi. Après une brève introduction au programme de la journée, commencez votre voyage confortable à travers les monuments historiques de la capitale.\n\n2. Visite de Qutub Minar\nCommencez votre circuit par le magnifique Qutub Minar, site du patrimoine mondial de l'UNESCO et l'un des monuments les plus célébrés de Delhi. Explorez l'imposant minaret, admirez l'architecture indo-islamique complexe et découvrez l'histoire du Sultanat de Delhi. Votre guide vous présentera également les attractions voisines au sein du complexe, notamment le pilier de fer et les ruines de l'ancienne mosquée.\n\n3. Trajet pittoresque à travers Delhi\nProfitez d'un trajet relaxant à travers la ville pendant que votre guide partage des histoires fascinantes sur la transformation de Delhi à travers différentes dynasties et époques. Capturez des aperçus des quartiers modernes et historiques en chemin.\n\n4. Découverte du tombeau de Humayun\nContinuez vers le tombeau de Humayun, le superbe mausolée-jardin du 16e siècle qui a inspiré la conception architecturale du Taj Mahal. Flânez à travers des jardins de style persan magnifiquement paysagers, des allées élégantes et d'impressionnantes structures en grès rouge tout en découvrant l'héritage de l'Empire moghol.\n\n5. Photographie et perspectives culturelles\nPrenez le temps de capturer des photographies mémorables et profitez des explications détaillées de votre guide privé sur le symbolisme, l'architecture et l'importance historique des deux sites classés à l'UNESCO.\n\n6. Transfert de retour\nAprès avoir terminé votre expérience de découverte, détendez-vous pendant votre trajet retour vers votre hôtel ou le lieu de dépose de votre choix à Delhi, concluant votre enrichissant circuit patrimonial d'une demi-journée.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel/aéroport\n- Voiture climatisée privée pour les visites avec chauffeur\n- Guide local expert agréé par le gouvernement\n- Billets d'entrée aux monuments (si l'option est sélectionnée)\n- Bouteille d'eau minérale\n- Tous les péages et frais de stationnement\n\n### Non inclus\n\n- Tout repas\n- Toute dépense personnelle",
+  "highlights": [
+   "Explorez le magnifique Qutub Minar, site du patrimoine mondial de l'UNESCO"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel/aéroport\nVoiture climatisée privée pour les visites avec chauffeur\nGuide local expert agréé par le gouvernement\nBillets d'entrée aux monuments (si l'option est sélectionnée)\nBouteille d'eau minérale\nTous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Tout repas\nToute dépense personnelle"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
