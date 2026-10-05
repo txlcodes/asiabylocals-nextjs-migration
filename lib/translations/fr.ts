@@ -23472,6 +23472,80 @@ export const FR_TOURS: Record<string, TourT> = {
    "Frais d'entrée aux monuments"
   ]
  },
+ "from-delhi-08-day-golden-triangle-with-varanasi": {
+  "title": "Depuis Delhi : Triangle d'or de 08 jours avec Varanasi en avion",
+  "metaTitle": "Delhi : Triangle d'or 8 jours avec Varanasi",
+  "metaDescription": "Découvrez les sites majeurs tels que le Taj Mahal et le fleuve Gange.",
+  "shortDescription": "Découvrez les sites majeurs tels que le Taj Mahal et le fleuve Gange.",
+  "fullDescription": "Depuis Delhi : Triangle d'or de 08 jours avec Varanasi en avion. Découvrez les sites majeurs tels que le Taj Mahal et le fleuve Gange.\n\n**Jour 1 : arrivée à Delhi**\nBienvenue à Delhi, la capitale vibrante de l'Inde ! À votre arrivée à l'aéroport, vous serez accueilli par notre représentant, qui vous aidera pour le transfert vers votre hôtel. Prenez le temps de vous détendre après votre voyage, ou explorez les environs à votre guise.\n\n**Jour 2 : visites de Delhi**\nAprès un délicieux petit-déjeuner à votre hôtel, lancez-vous dans une visite touristique d'une journée complète de Delhi. Explorez les rues animées de Chandni Chowk lors d'un palpitant trajet en rickshaw. L'après-midi, visitez India Gate, la tombe de Humayun, Qutub Minar, et le temple du Lotus. Profitez d'une nuit confortable à Delhi.\n\n**Jour 3 : Delhi - Agra**\nAprès le petit-déjeuner, direction Agra, la ville du célèbre Taj Mahal. Plus tard, profitez d'une vue envoûtante du coucher de soleil sur le Taj Mahal depuis le jardin Mehtab Bagh. Retour à votre hôtel pour une nuit à Agra.\n\n**Jour 4 : Agra - Fatehpur Sikri - Jaipur**\nLevez-vous tôt pour assister à la beauté à couper le souffle du Taj Mahal au lever du soleil, l'une des sept merveilles du monde. Ensuite, retour à votre hôtel pour le petit-déjeuner, et le départ. Poursuivez votre voyage vers Jaipur, et enregistrement à votre hôtel à l'arrivée. Profitez d'une nuit confortable à Jaipur.\n\n**Jour 5 : visites de Jaipur**\nAprès le petit-déjeuner, lancez-vous dans une visite touristique d'une journée complète de Jaipur, également connue comme la « ville rose ». Explorez l'enchanteur City Palace, qui abrite un musée fascinant présentant des artefacts royaux. Nuit à Jaipur.\n\n**Jour 6 : Jaipur - Varanasi**\nAprès le petit-déjeuner, départ de votre hôtel, et transfert vers l'aéroport pour votre vol vers Varanasi, la capitale spirituelle de l'Inde. À l'arrivée, enregistrement à votre hôtel, et détente pendant un moment. En soirée, assistez à la captivante Ganga Aarti. Faites une balade en bateau le long du fleuve, et vivez l'atmosphère magique de Varanasi au coucher du soleil. Retour à votre hôtel pour une nuit à Varanasi.\n\n**Jour 7 : visites de Varanasi**\nAvant l'aube, lancez-vous dans une inoubliable balade en bateau sur le Gange pour assister au lever de soleil envoûtant, et aux anciens rituels hindous célébrés sur les ghats. Explorez les ruelles étroites de Varanasi, et visitez le célèbre temple Kashi Vishwanath, dédié au Seigneur Shiva. Explorez l'historique Sarnath, où le Seigneur Bouddha a prononcé son premier sermon. Retour à votre hôtel pour une nuit confortable à Varanasi.\n\n**Jour 8 : Varanasi - dépôt à Delhi**\nAprès le petit-déjeuner, départ de votre hôtel, et transfert vers l'aéroport pour votre vol de retour vers Delhi. À l'arrivée, notre représentant vous aidera pour le transfert vers l'aéroport pour la suite de votre voyage, marquant la fin de votre circuit du Triangle d'or avec Varanasi. Repartez avec de précieux souvenirs de la riche histoire, de la culture vibrante, et du patrimoine spirituel de l'Inde.\n\n**Ce qui est inclus**\nPrise en charge et retour aux hôtels et aéroports à Delhi\nPetit-déjeuner à l'hôtel\nHébergement de 7 nuits dans un hôtel 3, 4, ou 5 étoiles (selon votre préférence)\nGuide touristique local professionnel dans chaque ville de destination\nToutes les visites en voiture privée climatisée\nBalade matinale en bateau sur le fleuve sacré Gange à Varanasi\nBouteille d'eau quotidienne\nBalade en rickshaw électrique au Taj Mahal\nPrise en charge et retour à l'hôtel/l'aéroport\nBillet d'avion aller-retour : Jaipur - Varanasi | Varanasi - Delhi\n\n**Non inclus**\nPourboires (optionnels)\nDéjeuners et dîners\nBillets d'entrée de tous les monuments",
+  "highlights": [
+   "Découvrez les sites majeurs tels que le Taj Mahal et le fleuve Gange"
+  ],
+  "included": [
+   "Prise en charge et retour aux hôtels et aéroports à Delhi",
+   "Petit-déjeuner à l'hôtel",
+   "Hébergement de 7 nuits dans un hôtel 3, 4, ou 5 étoiles (selon votre préférence)",
+   "Guide touristique local professionnel dans chaque ville de destination",
+   "Toutes les visites en voiture privée climatisée",
+   "Balade matinale en bateau sur le fleuve sacré Gange à Varanasi",
+   "Bouteille d'eau quotidienne",
+   "Balade en rickshaw électrique au Taj Mahal",
+   "Prise en charge et retour à l'hôtel/l'aéroport",
+   "Billet d'avion aller-retour : Jaipur - Varanasi | Varanasi - Delhi"
+  ],
+  "notIncluded": [
+   "Pourboires (optionnels)",
+   "Déjeuners et dîners",
+   "Billets d'entrée de tous les monuments"
+  ]
+ },
+ "from-delhi-4-day-golden-triangle-ranthambore-experience": {
+  "title": "Depuis Delhi : Triangle d'or de 4 jours et safari aux tigres de Ranthambore (à partir de 187,86 $)",
+  "metaTitle": "Delhi : Triangle d'or 4 jours avec Ranthambore",
+  "metaDescription": "Explorez le majestueux Taj Mahal, construit par l'empereur Shah Jahan en mémoire de son épouse.",
+  "shortDescription": "Explorez le majestueux Taj Mahal, construit par l'empereur Shah Jahan en mémoire de son épouse.",
+  "fullDescription": "Depuis Delhi : Triangle d'or de 4 jours et safari aux tigres de Ranthambore (à partir de 187,86 $). Explorez le majestueux Taj Mahal, construit par l'empereur Shah Jahan en mémoire de son épouse.\n\nVivez le meilleur du patrimoine culturel et de la faune sauvage de l'Inde lors de ce circuit du Triangle d'or de 4 jours depuis Delhi. Explorez Delhi, Agra, et Jaipur, y compris un safari aux tigres au parc national de Ranthambore.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel ou à l'aéroport\nVoiture privée climatisée pour toute l'activité du circuit, avec chauffeur\nGuide touristique local expert agréé par le gouvernement\nHébergement à l'hôtel pour 3 nuits (si l'option est sélectionnée)\nPetit-déjeuner à l'hôtel\nSafari en jeep/cantor (selon disponibilité)\nBouteille d'eau minérale\nTous les péages et frais de stationnement\n\n**Non inclus**\nBillets d'entrée aux monuments\nDéjeuner et dîner\nToute dépense personnelle",
+  "highlights": [
+   "Explorez le majestueux Taj Mahal, construit par l'empereur Shah Jahan en mémoire de son épouse"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel ou à l'aéroport",
+   "Voiture privée climatisée pour toute l'activité du circuit, avec chauffeur",
+   "Guide touristique local expert agréé par le gouvernement",
+   "Hébergement à l'hôtel pour 3 nuits (si l'option est sélectionnée)",
+   "Petit-déjeuner à l'hôtel",
+   "Safari en jeep/cantor (selon disponibilité)",
+   "Bouteille d'eau minérale",
+   "Tous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Billets d'entrée aux monuments",
+   "Déjeuner et dîner",
+   "Toute dépense personnelle"
+  ]
+ },
+ "delhi-new-old-delhi-private-half-or-full-day": {
+  "title": "Delhi : visite privée du New et du Vieux Delhi, demi-journée ou journée complète",
+  "metaTitle": "Delhi : New et Vieux Delhi, visite privée",
+  "metaDescription": "Delhi : visite privée du New et du Vieux Delhi, demi-journée ou journée complète.",
+  "shortDescription": "Delhi : visite privée du New et du Vieux Delhi, demi-journée ou journée complète.",
+  "fullDescription": "Delhi : visite privée du New et du Vieux Delhi, demi-journée ou journée complète. Tombe de Humayun.\n\nLancez-vous dans un voyage inoubliable au cœur de New Delhi avec notre visite exclusive d'une journée. Plongez dans la riche histoire et culture de la ville en visitant des monuments emblématiques tels que la majestueuse tombe de Humayun, l'historique India Gate, et l'impressionnant Parlement. Émerveillez-vous devant la grandeur de la résidence présidentielle, explorez l'ancien puits à degrés d'Agrasen ki Baoli, et trouvez la sérénité au milieu de la superbe architecture du temple du Lotus. Vivez l'essence de Delhi en quelques heures seulement avec notre itinéraire méticuleusement conçu. De plus, profitez de la commodité d'une prise en charge et d'un retour directement depuis votre hébergement, rendant votre exploration sans tracas et véritablement mémorable. Ne manquez pas l'occasion de visiter également le serein Gurudwara Bangla Sahib, ajoutant une dimension spirituelle à votre visite.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'hôtel\nChauffeur privé (si l'option est sélectionnée)\nGuide privé\n1 bouteille d'eau par personne\nFrais d'entrée (si l'option est sélectionnée)\n\n**Non inclus**\nTout repas ou frais de déjeuner\nTout pourboire pour le chauffeur\nTout pourboire pour le guide",
+  "highlights": [
+   "Tombe de Humayun"
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Chauffeur privé (si l'option est sélectionnée)",
+   "Guide privé",
+   "1 bouteille d'eau par personne",
+   "Frais d'entrée (si l'option est sélectionnée)"
+  ],
+  "notIncluded": [
+   "Tout repas ou frais de déjeuner",
+   "Tout pourboire pour le chauffeur",
+   "Tout pourboire pour le guide"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
