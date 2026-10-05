@@ -25078,6 +25078,74 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche Versicherung"
   ]
  },
+ "from-delhi-jaipur-day-tour-with-car-guide-tickets": {
+  "title": "Ab Delhi: Jaipur-Tagestour mit Auto, Reiseführer, Tickets, und Mittagessen",
+  "metaTitle": "Delhi-Jaipur: Tagestour, Auto, Guide, Tickets",
+  "metaDescription": "Erkunden Sie die ikonischen Sehenswürdigkeiten Jaipurs bei einem privaten Tagesausflug ab Delhi",
+  "shortDescription": "Erkunden Sie die ikonischen Sehenswürdigkeiten Jaipurs bei einem privaten Tagesausflug ab Delhi",
+  "fullDescription": "Ab Delhi: Jaipur-Tagestour mit Auto, Reiseführer, Tickets, und Mittagessen. Erkunden Sie die ikonischen Sehenswürdigkeiten Jaipurs bei einem privaten Tagesausflug ab Delhi.\n\nBeginnen Sie Ihren Tag mit einer frühmorgendlichen Abholung von Ihrem Hotel oder bevorzugten Ort in Delhi. Reisen Sie in einem privaten klimatisierten Fahrzeug etwa 4 bis 5 Stunden nach Jaipur.\n\nBei Ankunft beginnen Sie Ihre Besichtigung mit einem Fotostopp am Hawa Mahal (Palast der Winde), einem fünfstöckigen Gebäude aus dem Jahr 1799, bekannt für seine einzigartige Fassade mit zahlreichen kleinen Fenstern.\nErkunden Sie den Panna-Meena-Stufenbrunnen in der Nähe des Amber Forts, eine architektonische Stätte aus dem 16. Jahrhundert, bekannt für ihre symmetrischen Treppen und ihr historisches Wasserspeichersystem. Weiter geht es zum Amber Fort, gelegen auf einem Hügel außerhalb der Stadt. Erkunden Sie seine Innenhöfe, Säle, und bedeutende Abschnitte wie den Sheesh Mahal (Spiegelpalast) und das Ganesh Pol.\n\nHalt am malerischen Jal Mahal, wunderschön gelegen inmitten des Man-Sagar-Sees. Genießen Sie einen entspannten Fotostopp am Seeufer mit atemberaubendem Blick auf den Palast und die umliegenden Hügel, was ihn zu einem der malerischsten und ruhigsten Orte Jaipurs macht.\n\nSpäter besuchen Sie das Jantar Mantar, ein UNESCO-Weltkulturerbe mit astronomischen Instrumenten aus dem 18. Jahrhundert. Erbaut im 18. Jahrhundert von Maharaja Jai Singh II, umfasst es eine Sammlung großer astronomischer Instrumente, die zur Zeitmessung, Verfolgung von Himmelskörpern, und Beobachtung astronomischer Ereignisse mit hoher Genauigkeit konzipiert wurden.\n\n**Kunst- und Handwerkserlebnis in Jaipur (optional)**\n\nEntdecken Sie Jaipurs reiches kulturelles Erbe durch authentische Handwerkswerkstätten und traditionelle Handwerksvorführungen. Genießen Sie ein entspanntes, stressfreies kulturelles Erlebnis, während Sie mit erfahrenen lokalen Handwerkern interagieren und mehr über die zeitlosen Künste Rajasthans erfahren.\n\n**Edelsteinschleifen und -polieren**\n\nBesuchen Sie eine vertrauenswürdige Edelsteinwerkstatt, und beobachten Sie erfahrene Kunsthandwerker beim Schleifen und Polieren von Edelsteinen mit traditionellen Techniken, die Jaipur weltweit für Edelsteine und Schmuck berühmt gemacht haben.\n\n**Teppichweberei-Vorführung**\n\nErleben Sie die traditionelle Kunst des handgefertigten Teppichwebens, und sehen Sie, wie erfahrene Kunsthandwerker mit jahrhundertealten Webtechniken wunderschöne Muster erschaffen.\n\n**Blockdruck-Vorführung**\n\nEntdecken Sie Jaipurs berühmte Blockdruckkunst mit handgeschnitzten Holzblöcken und natürlichen Farbstoffen. Erfahren Sie mehr über den Prozess hinter Rajasthans lebendigen Textildesigns in einer interaktiven kulturellen Umgebung.\n\nEin optionales Buffet-Mittagessen in einem lokalen Restaurant kann je nach bei der Buchung gewählter Option inbegriffen sein. Nach der Tour Rückfahrt nach Delhi mit privatem Fahrzeug. Die Rückfahrt erfolgt zu Ihrem gewählten Ort.\n\n**Warum diese Jaipur-Tagestour ab Delhi bei uns buchen?**\n• Privates klimatisiertes Auto mit Abholung und Rückfahrt zum Hotel\n• Besuchen Sie das Amber Fort, den Hawa Mahal, den Jal Mahal, und das Jantar Mantar\n• Authentische Kunst- und Handwerkserlebnisse aus Jaipur\n• Professioneller, von der Regierung zugelassener lokaler Reiseführer\n• Entspanntes, stressfreies kulturelles Erlebnis\n• Ideal für Paare, Familien, und Alleinreisende\nFlexible Tour-Optionen mit optionalem Buffet-Mittagessen in einem hochwertigen lokalen Restaurant.\n• Sichere, komfortable, und individuelle Tour\n• Erkunden Sie Jaipurs königliches Erbe, unkonventionelle Orte, und lokale Handwerkskultur an einem unvergesslichen Tag\n\n**Was ist inbegriffen**\nPrivates klimatisiertes Auto mit privatem Fahrer für Hin- und Rückfahrt ab Delhi\nVon der Regierung zugelassener professioneller Reiseführer\nBuffet-Mittagessen in einem lokalen Restaurant (falls die All-Inclusive-Option gewählt wird)\nMineralwasserflaschen und leichte Erfrischungen während der Reise\nAlle Parkgebühren, Kraftstoff, Mautgebühren, und Fahrergebühren\nAbholung und Rückfahrt zum Hotel in Delhi NCR (Delhi, Gurugram, Noida, Aerocity, Faridabad, Ghaziabad)\nEintrittsgebühren für Sehenswürdigkeiten (falls die All-Inclusive-Option gewählt wird)\n\n**Nicht inbegriffen**\nPersönliche Ausgaben (Einkaufen, Trinkgelder, usw.)\nGratifikationen und Trinkgelder für Reiseführer und Fahrer (optional), empfohlen\nEintrittsgebühren für Sehenswürdigkeiten (sofern nicht die All-Inclusive-Option gewählt wird)\nMahlzeiten und Getränke (sofern nicht anders angegeben)\nJegliche zusätzliche Aktivitäten oder Leistungen, die nicht in der Reiseroute erwähnt werden\nReiseversicherung",
+  "highlights": [
+   "Erkunden Sie die ikonischen Sehenswürdigkeiten Jaipurs bei einem privaten Tagesausflug ab Delhi"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto mit privatem Fahrer für Hin- und Rückfahrt ab Delhi",
+   "Von der Regierung zugelassener professioneller Reiseführer",
+   "Buffet-Mittagessen in einem lokalen Restaurant (falls die All-Inclusive-Option gewählt wird)",
+   "Mineralwasserflaschen und leichte Erfrischungen während der Reise",
+   "Alle Parkgebühren, Kraftstoff, Mautgebühren, und Fahrergebühren",
+   "Abholung und Rückfahrt zum Hotel in Delhi NCR (Delhi, Gurugram, Noida, Aerocity, Faridabad, Ghaziabad)",
+   "Eintrittsgebühren für Sehenswürdigkeiten (falls die All-Inclusive-Option gewählt wird)"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben (Einkaufen, Trinkgelder, usw.)",
+   "Gratifikationen und Trinkgelder für Reiseführer und Fahrer (optional), empfohlen",
+   "Eintrittsgebühren für Sehenswürdigkeiten (sofern nicht die All-Inclusive-Option gewählt wird)",
+   "Mahlzeiten und Getränke (sofern nicht anders angegeben)",
+   "Jegliche zusätzliche Aktivitäten oder Leistungen, die nicht in der Reiseroute erwähnt werden",
+   "Reiseversicherung"
+  ]
+ },
+ "from-delhi-private-jaipur-day-tour-by-car-with": {
+  "title": "Ab Delhi: private Jaipur-Tagestour mit dem Auto mit Transfers",
+  "metaTitle": "Delhi-Jaipur: privater Tag, Auto",
+  "metaDescription": "Privates klimatisiertes Fahrzeug ab Delhi und zurück",
+  "shortDescription": "Privates klimatisiertes Fahrzeug ab Delhi und zurück",
+  "fullDescription": "Ab Delhi: private Jaipur-Tagestour mit dem Auto mit Transfers. Privates klimatisiertes Fahrzeug ab Delhi und zurück.\n\n**Hotelabholung in Delhi im privaten klimatisierten Auto**\nGenießen Sie eine komfortable frühmorgendliche Fahrt mit einem geschulten Chauffeur.\n\nEin leichtes Frühstückspaket und Kaffee werden unterwegs bereitgestellt (abhängig von der gewählten Option).\n\n**Reiseroute Jaipur**\n\n**1. Amber Fort**\nErkunden Sie das Amber Fort mit dem Auto.\nPrivate geführte Tour durch versteckte Innenhöfe und verspiegelte Säle.\n\n**2. Geheimer Tunnelspaziergang und Ausblicke vom Hügel**\nErkunden Sie den weniger bekannten Fluchttunnel des Amber Forts, der nach Jaigarh führt.\n\nEnden Sie an einem malerischen Aussichtspunkt mit Tee, mit Blick auf die Aravalli-Berge.\n\n**3. Mittagessen in einer 150 Jahre alten Haveli**\nGenießen Sie eine königliche vegetarische Thali in einer restaurierten historischen Haveli in der Altstadt.\n\nBeinhaltet eine kurze Führung durch die Haveli und ihre Vintage-Kunst.\n\n**4. Basare und Begegnung mit Handwerkern in der rosa Stadt**\nSpazieren Sie durch Tripolia und den Johari Bazaar, aber mit einer besonderen Note:\n\nTreffen Sie einen Edelstein-Polierer in 4. Generation.\n\nErleben Sie eine Live-Vorführung des Turban-Bindens.\n\nProbieren Sie gewürzten Lassi in einem 70 Jahre alten Geschäft.\n\n**5. Versteckte Blickwinkel des Hawa Mahal und Chai auf der Dachterrasse**\nVermeiden Sie die Menschenmassen, und gehen Sie zu einem Dachterrassen-Café für einen perfekten Seitenblick auf den Hawa Mahal.\n\nGenießen Sie Kardamom-Chai und eine Fotosession.\n\n**6. Optionaler Zusatz: individuelle Mini-Werkstatt für Blockdruck**\nEine kurze 30-minütige Sitzung, bei der Sie Ihr eigenes handgestempeltes Textilstück zum Mitnehmen gestalten.\n\n**Rückfahrt nach Delhi**\nKomfortable abendliche Rückfahrt, mit lokaler rajasthanischer Musik und leichten Snacks.\n\n**Was ist inbegriffen**\nPrivates klimatisiertes Fahrzeug\nGanztägige Besichtigung von Jaipur\nProfessioneller Reiseführer für die Besichtigungen\nAbhol- und Rückfahrservice\nAlle Mautgebühren und Parkgebühren\nWasserflaschen während der Reisezeit\nZwischenstaatliche Steuern\nEintrittskarte für alle Sehenswürdigkeiten (falls diese Option gewählt wird)\n\n**Nicht inbegriffen**\nTrinkgeld für Fahrer und Reiseführer\nJegliche persönliche Ausgaben\nJegliche Mahlzeiten",
+  "highlights": [
+   "Privates klimatisiertes Fahrzeug ab Delhi und zurück"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug",
+   "Ganztägige Besichtigung von Jaipur",
+   "Professioneller Reiseführer für die Besichtigungen",
+   "Abhol- und Rückfahrservice",
+   "Alle Mautgebühren und Parkgebühren",
+   "Wasserflaschen während der Reisezeit",
+   "Zwischenstaatliche Steuern",
+   "Eintrittskarte für alle Sehenswürdigkeiten (falls diese Option gewählt wird)"
+  ],
+  "notIncluded": [
+   "Trinkgeld für Fahrer und Reiseführer",
+   "Jegliche persönliche Ausgaben",
+   "Jegliche Mahlzeiten"
+  ]
+ },
+ "delhi-16th-century-fort-purana-qila-walking-tour": {
+  "title": "Delhi: Fort aus dem 16. Jahrhundert - Wandertour durch das Purana Qila",
+  "metaTitle": "Delhi: Purana Qila, Wandertour",
+  "metaDescription": "Reisen Sie zurück in die Zeit, während Sie das antike Purana Qila in Delhi erkunden",
+  "shortDescription": "Reisen Sie zurück in die Zeit, während Sie das antike Purana Qila in Delhi erkunden",
+  "fullDescription": "Delhi: Fort aus dem 16. Jahrhundert - Wandertour durch das Purana Qila. Reisen Sie zurück in die Zeit, während Sie das antike Purana Qila in Delhi erkunden.\n\nBeginnen Sie Ihre Tour am Bara Darwaza, dem majestätischen Haupttor aus rotem Sandstein und grauem Quarzit. Dieses Tor aus dem 16. Jahrhundert steht seit der Zeit von Sher Shah Suri, und dient noch heute als Haupteingang. Beachten Sie die gewölbten Balkone, die kuppelförmigen Chhatris, und die schiere Größe: ein Ausdruck von Macht und Kontrolle.\n\nGehen Sie direkt hinein, und begeben Sie sich zur Qila-i-Kuhna-Moschee, ein beeindruckendes Beispiel indo-islamischer Architektur, erbaut 1541 von Sher Shah Suri. Bewundern Sie die fünf gewölbten Eingänge, die kunstvolle Kalligraphie, und den Mihrab (Gebetsnische) aus rotem, weißem, und schwarzem Marmor.\n\nAls Nächstes gehen Sie zum Sher Mandal, einem zweistöckigen achteckigen Turm, der heute teilweise isoliert steht. Man nimmt an, dass er von Sher Shah begonnen und später von Kaiser Humayun als Bibliothek und Observatorium genutzt wurde. Dies ist auch der tragische Ort, an dem Humayun 1556 beim Hinabsteigen der Treppe nach einem Gebet zu Tode stürzte.\n\nGehen Sie zur Ostseite des Forts, um entlang der Wälle zu spazieren. Von hier aus haben Sie einen großartigen Blick auf das Humayun-Tor, das Hintertor, das in Richtung von Humayuns Grabmal weist. Genießen Sie auch den Blick auf den Burggraben (heute trocken), der einst mit Wasser aus dem nahegelegenen Fluss Yamuna gefüllt war, der einst direkt am Fort entlangfloss.\n\nIn der Nähe der Moschee sehen Sie abgesperrte Bereiche, in denen archäologische Ausgrabungen Schichten von Delhis Vergangenheit freigelegt haben, von der Maurya-Zeit (3. Jahrhundert v. Chr.) bis zur Mogulzeit. Einige hier gefundene Scherben und Artefakte werden im Purana-Qila-Museum vor Ort aufbewahrt (ein kleiner, aber lohnenswerter Halt, falls geöffnet).\n\nVerlassen Sie den Denkmalbereich, und gehen Sie zum See direkt außerhalb der Festungsmauern. Tretbootfahren bietet hier einen großartigen Blick auf die massive Struktur des Forts, die sich im Wasser spiegelt, ein ruhiger Abschluss Ihres historischen Spaziergangs.\n\n**Was ist inbegriffen**\nWandertour durch das Purana Qila mit Reiseführer\n\n**Nicht inbegriffen**\nEintrittsgebühren",
+  "highlights": [
+   "Reisen Sie zurück in die Zeit, während Sie das antike Purana Qila in Delhi erkunden"
+  ],
+  "included": [
+   "Wandertour durch das Purana Qila mit Reiseführer"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
