@@ -741,6 +741,83 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche persönliche Ausgaben"
   ]
  },
+ "from-delhi-same-day-group-tour-to-taj-mahal": {
+  "title": "Ab Delhi: eintägige Gruppentour zum Taj Mahal mit Transfers",
+  "metaTitle": "Delhi-Taj Mahal: eintägige Gruppentour",
+  "metaDescription": "Bestaunen Sie den Taj Mahal, eine UNESCO-Welterbestätte.",
+  "shortDescription": "Bestaunen Sie den Taj Mahal, eine UNESCO-Welterbestätte.",
+  "fullDescription": "Beginnen Sie Ihren Tag mit einer bequemen Abholung von ausgewählten Orten in Delhi, einschließlich Paharganj, Karol Bagh, Connaught Place, Mahipalpur, und Aerocity. Treffen Sie Ihren Reisekoordinator und Mitreisende, bevor Sie Ihre Reise nach Agra beginnen.\n\nMachen Sie einen kurzen Stopp an einem sauberen Autobahnrestaurant zum Frühstück (auf eigene Kosten), bevor Sie Ihre Fahrt nach Agra über die Yamuna Expressway in einem komfortablen Fahrzeug fortsetzen.\n\nBei der Ankunft in Agra erkunden Sie den ikonischen Taj Mahal mit einem professionellen lokalen Guide. Erfahren Sie mehr über seine Geschichte, Architektur, und die Liebesgeschichte hinter dieser UNESCO-Welterbestätte. Genießen Sie Freizeit für Fotos.\n\nWeiter geht es zum Agra Fort, einer weiteren UNESCO-Welterbestätte, und entdecken Sie seine Paläste, Höfe, und königlichen Hallen. Dann besuchen Sie den schönen Baby Taj, oft als Schmuckkästchen Agras bezeichnet, bekannt für seine kunstvolle Marmor-Einlegearbeit und friedliche Umgebung.\n\nGenießen Sie Freizeit zum Mittagessen in einem lokalen Multi-Küchen-Restaurant (Mittagessen nicht enthalten), bevor Sie Zeit damit verbringen, lokale Märkte zu erkunden, Souvenirs, und lokale Artikel zu kaufen.\n\nSchließlich beginnen Sie Ihre Rückfahrt nach Delhi und werden an den gleichen Abholorten abgesetzt.",
+  "highlights": [
+   "Bestaunen Sie den Taj Mahal, eine UNESCO-Welterbestätte"
+  ],
+  "included": [
+   "Gruppentour",
+   "Transport mit klimatisiertem Mini-Van",
+   "Alle Besichtigungen mit professionellem Guide",
+   "Batteriebus-Fahrt vom Taj Mahal Parkplatz zum Denkmal und zurück",
+   "Abholung und Rückfahrt von ausgewählten Orten in Delhi",
+   "Flaschen mit Mineralwasser während der Reise",
+   "Alle Steuern, Gebühren, und Bearbeitungsgebühren"
+  ],
+  "notIncluded": [
+   "Frühstück",
+   "Mittagessen",
+   "Eintrittsgebühren für Denkmäler"
+  ]
+ },
+ "from-goa-to-agra-taj-mahal-tour-with-flight": {
+  "title": "Ab Goa: Tour nach Agra und zum Taj Mahal mit Flug und Guide",
+  "metaTitle": "Goa-Agra: Taj Mahal mit Flug und Guide",
+  "metaDescription": "Hin- und Rückflüge mit nahtlosen privaten Transfers.",
+  "shortDescription": "Hin- und Rückflüge mit nahtlosen privaten Transfers.",
+  "fullDescription": "**24/7 Support**\n\n24/7 WhatsApp- und Telefonsupport steht Ihnen vor und während Ihrer Reise zur Verfügung.\n\n**Tag 1 – Goa, Delhi, Agra | Abendankunft**\n\n**Morgen / Nachmittag – Goa nach Delhi**\nBeginnen Sie Ihre Reise mit einer bequemen Abholung von Ihrem Hotel in Goa und einem reibungslosen Transfer zum Flughafen. Besteigen Sie Ihren Flug nach Delhi und genießen Sie eine entspannte, problemlose Reise.\n\n**Abend – Delhi nach Agra**\nBei der Ankunft in Delhi treffen Sie Ihren privaten Chauffeur und fahren weiter nach Agra in einem luxuriösen klimatisierten Fahrzeug. Lehnen Sie sich zurück und entspannen Sie sich, während Sie in völligem Komfort durch die Landschaft reisen.\n\n**Nacht – Agra**\nChecken Sie in Ihrem Premium-Hotel ein und nehmen Sie sich Zeit zum Entspannen. Genießen Sie das Abendessen in einem sorgfältig ausgewählten lokalen Restaurant oder wählen Sie einen optionalen geführten kulinarischen Spaziergang, um Agras authentische Aromen zu entdecken. Übernachtung in Agra.\n\n**Tag 2 – Agra Besichtigung, Delhi, Goa**\n\n**Früh am Morgen – Taj Mahal bei Sonnenaufgang**\nBeginnen Sie Ihren Tag mit einem magischen Sonnenaufgangsbesuch am Taj Mahal, geführt von einem professionellen Experten. Erleben Sie das Denkmal zu seiner schönsten Stunde, erfahren Sie seine legendäre Geschichte, und machen Sie atemberaubende Fotos.\n\n**Morgen – Freizeit und Frühstück**\nKehren Sie zu Ihrem Hotel zurück für ein entspanntes Frühstück und Zeit zum Auffrischen, bevor Sie Ihre Erkundung fortsetzen.\n\n**Später Vormittag – Agra Fort**\nEntdecken Sie das majestätische Agra Fort, eine UNESCO-Welterbestätte, und spazieren Sie durch königliche Paläste, Höfe, und historische Hallen, die einst die Mogulkaiser beherbergten.\n\n**Nachmittag – Kultur und Mittagessen**\nBesuchen Sie den eleganten Baby Taj (Itimad-ud-Daulah), gefolgt von einem köstlichen Mittagessen in einem Premium-Multi-Küchen- oder 5-Sterne-Restaurant. Genießen Sie Freizeit, um Agras berühmte Marmor- und Kunsthandwerkswerkstätten zu erkunden.\n\n**Abend – Rückreise**\nFahren Sie zurück nach Delhi in Ihrem privaten klimatisierten Auto und transferieren Sie zum Flughafen für Ihren Abendflug nach Goa.\n\n**Späte Nacht – Goa**\nKommen Sie in Goa an und genießen Sie einen reibungslosen privaten Transfer zurück zu Ihrem Hotel, womit eine raffinierte und perfekt geplante Luxusflucht endet.",
+  "highlights": [
+   "Hin- und Rückflüge mit nahtlosen privaten Transfers"
+  ],
+  "included": [
+   "Inlandsflüge hin und zurück (Goa ↔ Delhi)",
+   "24/7 WhatsApp- und Telefonsupport vor und während der Tour",
+   "Privates klimatisiertes Auto mit Chauffeur",
+   "Professioneller englischsprachiger Reiseführer",
+   "1 Nacht in einem luxuriösen 5-Sterne-Hotel in Agra",
+   "1 Premium-Mittagessen in einem Multi-Küchen- / 5-Sterne-Restaurant",
+   "VIP-Eintrittstickets ohne Warteschlange für alle Denkmäler",
+   "Sonnenaufgangsbesuch am Taj Mahal",
+   "Mineralwasser in Flaschen während der Besichtigungen",
+   "Alle Parkgebühren, Mautgebühren, Kraftstoff, und Fahrerkosten",
+   "Hotel- und Flughafenabholung und Rückfahrt"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben, Trinkgelder, Getränke, und Einkäufe",
+   "Reiseversicherung, Visagebühren, und Kameragebühren",
+   "Alles, was nicht unter Inklusive aufgeführt ist"
+  ]
+ },
+ "same-day-agra-tour-from-delhi-taj-mahal-fort": {
+  "title": "Agra Tagesausflug von Delhi am selben Tag: Taj Mahal, Fort, und Moschee",
+  "metaTitle": "Delhi-Agra am selben Tag: Taj Mahal, Fort, Moschee",
+  "metaDescription": "( Sonderangebot: kostenloses Geschenk für jeden Gast )",
+  "shortDescription": "( Sonderangebot: kostenloses Geschenk für jeden Gast )",
+  "fullDescription": "( Sonderangebot: kostenloses Geschenk für jeden Gast ) ( Kostenloses Mittagessen für mehr als 2 Personen bei Auswahl der Option AT0002. )\n\nErleben Sie die Highlights Agras auf einer bequemen Tagestour ab Delhi, perfekt für Reisende mit begrenzter Zeit. Beginnen Sie Ihre Reise früh am Morgen mit einem reibungslosen Transfer per klimatisiertem Fahrzeug oder Zug. Besuchen Sie den ikonischen Taj Mahal, eine UNESCO-Welterbestätte und Symbol ewiger Liebe, gefolgt vom historischen Agra Fort, das Mogul-Pracht und königliche Architektur zeigt. Erkunden Sie eine schöne Moschee, die das spirituelle und kulturelle Erbe der Mogulzeit widerspiegelt. Genießen Sie die Dienste eines professionellen englischsprachigen Guides, Unterstützung ohne Warteschlange, und ein köstliches Mittagessen in einem lokalen Restaurant (falls ausgewählt). Mit sofortiger Bestätigung und kostenlosen Stornierungsoptionen gewährleistet diese gut organisierte Tour einen problemlosen, unvergesslichen Tagesausflug von Delhi nach Agra.",
+  "highlights": [
+   "( Sonderangebot: kostenloses Geschenk für jeden Gast )"
+  ],
+  "included": [
+   "Abholung und Rückfahrt von Delhi (Hotel / Flughafen / Bahnhof)",
+   "Klimatisiertes Fahrzeug für die gesamte Tour",
+   "Professioneller lizenzierter Reiseführer",
+   "Geführter Besuch des Taj Mahal",
+   "Geführter Besuch des Agra Fort",
+   "Parkgebühren, Kraftstoff, und Mautgebühren",
+   "Besuch einer historischen Moschee aus der Mogulzeit",
+   "Eintrittstickets für Denkmäler und Mittagessen (falls Option ausgewählt)",
+   "Kostenloses Mittagessen für mehr als 2 Personen (falls Option ausgewählt)"
+  ],
+  "notIncluded": [
+   "Getränke und persönliche Ausgaben",
+   "Trinkgelder (optional)"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
