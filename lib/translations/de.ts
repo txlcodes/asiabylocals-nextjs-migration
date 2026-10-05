@@ -22577,6 +22577,81 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mittag-/Abendessen/Getränke"
   ]
  },
+ "delhi-triangle-full-day-tour": {
+  "title": "Delhi Agra Jaipur: Golden-Triangle-Mehrtagesreise mit Safari (3 Stunden)",
+  "metaTitle": "Delhi-Agra-Jaipur: Golden Triangle mit Safari",
+  "metaDescription": "Entdecken Sie Delhis berühmte Sehenswürdigkeiten: Red Fort, Jama Masjid, India Gate, Qutub Minar.",
+  "shortDescription": "Entdecken Sie Delhis berühmte Sehenswürdigkeiten: Red Fort, Jama Masjid, India Gate, Qutub Minar.",
+  "fullDescription": "Delhi Agra Jaipur: Golden-Triangle-Mehrtagesreise mit Safari (3 Stunden). Entdecken Sie Delhis berühmte Sehenswürdigkeiten: Red Fort, Jama Masjid, India Gate, Qutub Minar.\n\n**Golden-Triangle-Tour Delhi, Agra, und Jaipur mit Safari**\n\nEntdecken Sie Indiens berühmtes Golden Triangle mit einer optionalen Ranthambore-Tiger-Safari. Wählen Sie einen 3-, 4-, 5-, oder 7-tägigen Reiseplan, der Delhis historische Sehenswürdigkeiten, Agras prächtiges Taj Mahal, Jaipurs königliches Erbe, und Ranthambores Tierwelt vereint.\n\n**7-tägige Golden-Triangle-Tour mit Safari**\n\nTag 1: Delhi nach Agra. Erkunden Sie Qutub Minar, India Gate, Humayuns Grabmal, den Lotustempel, die Jama Masjid, Chandni Chowk mit einer traditionellen Rikscha-Fahrt, und den Akshardham-Tempel. Abendliche Fahrt nach Agra. Übernachtung in Agra.\n\nTag 2: Agra. Genießen Sie einen Sonnenaufgangsbesuch des Taj Mahal, gefolgt vom Agra-Fort und Itmad-ud-Daulah. Übernachtung in Agra.\n\nTag 3: Agra nach Fatehpur Sikri nach Abhaneri nach Ranthambore. Besuchen Sie das historische Fatehpur Sikri, und den beeindruckenden Stufenbrunnen von Abhaneri, bevor Sie nach Ranthambore weiterfahren. Übernachtung in Ranthambore.\n\nTag 4: Ranthambore nach Jaipur. Genießen Sie eine morgendliche Tiger-Safari im Ranthambore-Nationalpark, dann Fahrt nach Jaipur. Übernachtung in Jaipur.\n\nTag 5: Pushkar. Besuchen Sie den heiligen Brahma-Tempel, den Pushkar-See, und farbenfrohe örtliche Märkte. Rückkehr nach Jaipur. Übernachtung in Jaipur.\n\nTag 6: Jaipur. Entdecken Sie das Amber-Fort, den City Palace, das Jantar Mantar, den Hawa Mahal, und den Jal Mahal. Genießen Sie das Einkaufen in Jaipurs berühmten Märkten. Übernachtung in Jaipur.\n\nTag 7: Jaipur nach Delhi. Fahrt zurück nach Delhi, für eine Absetzung am Flughafen oder Hotel.\n\n**5-tägige Golden-Triangle-Tour mit Safari**\n\nTag 1: Besichtigung von Delhi, und abendliche Fahrt nach Agra. Übernachtung in Agra.\nTag 2: Sonnenaufgang am Taj Mahal, Agra-Fort, und Itmad-ud-Daulah, dann Fahrt nach Ranthambore. Übernachtung in Ranthambore.\nTag 3: Besuch von Fatehpur Sikri, und des Stufenbrunnens von Abhaneri. Übernachtung in Ranthambore.\nTag 4: morgendliche Tiger-Safari, gefolgt von einer Fahrt nach Jaipur. Übernachtung in Jaipur.\nTag 5: Besichtigung von Jaipur, einschließlich Amber-Fort, City Palace, Jantar Mantar, Hawa Mahal, und Jal Mahal, mit Zeit zum Einkaufen. Abendliche Fahrt nach Delhi.\n\n**4-tägige Golden-Triangle-Tour mit Safari**\n\nTag 1: Besichtigung von Delhi, und Fahrt nach Agra. Übernachtung in Agra.\nTag 2: Sonnenaufgang am Taj Mahal, Agra-Fort, und Itmad-ud-Daulah, dann Fahrt nach Ranthambore. Übernachtung in Ranthambore.\nTag 3: morgendliche Tiger-Safari, dann Fahrt nach Jaipur. Übernachtung in Jaipur.\nTag 4: Besichtigung und Einkaufen in Jaipur, gefolgt von einer abendlichen Fahrt nach Delhi.\n\n**3-tägige Golden-Triangle-Tour**\n\nTag 1: Besichtigung von Delhi, und Fahrt nach Agra. Übernachtung in Agra.\nTag 2: Sonnenaufgang am Taj Mahal, Agra-Fort, und Itmad-ud-Daulah, dann Fahrt nach Jaipur. Übernachtung in Jaipur.\nTag 3: erkunden Sie das Amber-Fort, den City Palace, das Jantar Mantar, den Hawa Mahal, und den Jal Mahal, mit Zeit zum Einkaufen. Abendliche Fahrt nach Delhi.\n\n**Was ist enthalten**\nBesichtigungen in privatem klimatisiertem Auto\nPrivate Tour mit örtlichen Guides\nEintritt zu Denkmälern (falls Option gewählt wird)\nUnterkunft mit Frühstück (falls Option gewählt wird)\nFlaschen mit Mineralwasser\nPersönliche Betreuung und Aufmerksamkeit\nAlle Steuern, Parkgebühren, und Servicegebühren\nAbholung und Rückfahrt zu Hotels oder Flughafen\n\n**Nicht enthalten**\nTrinkgelder/Gratifikationen",
+  "highlights": [
+   "Entdecken Sie Delhis berühmte Sehenswürdigkeiten: Red Fort, Jama Masjid, India Gate, Qutub Minar"
+  ],
+  "included": [
+   "Besichtigungen in privatem klimatisiertem Auto",
+   "Private Tour mit örtlichen Guides",
+   "Eintritt zu Denkmälern (falls Option gewählt wird)",
+   "Unterkunft mit Frühstück (falls Option gewählt wird)",
+   "Flaschen mit Mineralwasser",
+   "Persönliche Betreuung und Aufmerksamkeit",
+   "Alle Steuern, Parkgebühren, und Servicegebühren",
+   "Abholung und Rückfahrt zu Hotels oder Flughafen"
+  ],
+  "notIncluded": [
+   "Trinkgelder/Gratifikationen"
+  ]
+ },
+ "delhi-premium-full-day-old-new-delhi-tour": {
+  "title": "Delhi: Premium-Ganztagestour durch Alt- und New Delhi",
+  "metaTitle": "Delhi: Premium-Ganztagestour, Alt- und New Delhi",
+  "metaDescription": "Private Abholung und Rückfahrt zum Hotel mit Expertenguide und Chauffeur.",
+  "shortDescription": "Private Abholung und Rückfahrt zum Hotel mit Expertenguide und Chauffeur.",
+  "fullDescription": "Delhi: Premium-Ganztagestour durch Alt- und New Delhi. Private Abholung und Rückfahrt zum Hotel mit Expertenguide und Chauffeur.\n\nIhr Chauffeur und persönlicher Guide holen Sie in einem privaten klimatisierten Auto von Ihrem Hotel ab.\nDie Rückfahrt zum Hotel am Ende ist inklusive, zusammen mit Wasser in Flaschen und vollständigem geführtem Service.\n\n**Abgedeckte Orte:**\n\nAlai Minar: ein unvollendeter Turm des Ehrgeizes, erbaut von Alauddin Khilji, der wie ein geheimnisvoller Riese aus dem Delhi des 14. Jahrhunderts dasteht.\n\nGewürzmarkt (Khari Baoli): Asiens größter Gewürzbasar, lebendig mit Aromen, Farben, und jahrhundertealter Handelskultur.\n\nRed Fort (Vorbeifahrt): betrachten Sie die massive, UNESCO-gelistete Festung, während Ihr Guide ihre Geschichte erklärt, ohne das Denkmal zu betreten.\n\nIndia Gate: ein großartiges Kriegsdenkmal, umgeben von üppigen Boulevards, perfekt für Fotos und Erzählungen.\n\nSikh-Tempel (Gurudwara Bangla Sahib): ein ruhiges spirituelles Erlebnis, bekannt für seinen friedlichen See und seine Gemeinschaftsküche.\n\nHumayuns Grabmal: das UNESCO-Meisterwerk aus dem 16. Jahrhundert, das das Design des Taj Mahal inspirierte.\n\nPräsidentenhaus (Rashtrapati Bhavan), Vorbeifahrt: fahren Sie durch den großartigsten Teil von New Delhi, wo das Präsidentengelände und die Parlamentsgebäude in voller Symmetrie stehen.\n\n**Was ist enthalten**\nPrivates klimatisiertes Auto\nPersönlicher Guide\nWasser in Flaschen\nParken und Mautgebühren\nRikscha-Fahrt (falls gewählt)\nEintrittskarten für Denkmäler (falls gewählt)\nUnterstützung beim Spaziergang durch die Altstadt\n\n**Nicht enthalten**\nEssen/Mahlzeiten\nEinkäufe (optional)\nTrinkgelder (optional)",
+  "highlights": [
+   "Private Abholung und Rückfahrt zum Hotel mit Expertenguide und Chauffeur"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto",
+   "Persönlicher Guide",
+   "Wasser in Flaschen",
+   "Parken und Mautgebühren",
+   "Rikscha-Fahrt (falls gewählt)",
+   "Eintrittskarten für Denkmäler (falls gewählt)",
+   "Unterstützung beim Spaziergang durch die Altstadt"
+  ],
+  "notIncluded": [
+   "Essen/Mahlzeiten",
+   "Einkäufe (optional)",
+   "Trinkgelder (optional)"
+  ]
+ },
+ "from-delhi-3-day-mathura-vrindavan-temple-tour": {
+  "title": "Ab Delhi: 3-tägige Mathura- und Vrindavan-Tempeltour",
+  "metaTitle": "Delhi: Mathura und Vrindavan, 3 Tage",
+  "metaDescription": "Besuchen Sie den heiligen Geburtsort von Lord Krishna in Shri Krishna Janmabhoomi.",
+  "shortDescription": "Besuchen Sie den heiligen Geburtsort von Lord Krishna in Shri Krishna Janmabhoomi.",
+  "fullDescription": "Ab Delhi: 3-tägige Mathura- und Vrindavan-Tempeltour. Besuchen Sie den heiligen Geburtsort von Lord Krishna in Shri Krishna Janmabhoomi.\n\n**Was ist enthalten**\nPrivates klimatisiertes Fahrzeug für die gesamte Tour\nProfessioneller privater Fahrer\n3-Sterne-Hotelunterkunft für 2 Nächte\nDoppel-/Einzelzimmer mit geteilter Belegung\nTägliches Frühstück im Hotel\nTraditioneller Empfang durch das Personal am Flughafen Delhi\nAbholung und Rückfahrt gemäß den Angaben in der Buchung\nAlle anfallenden Steuern\n\n**Nicht enthalten**\nLive-Reiseführer\nEintrittsgebühren für Denkmäler/Tempel, falls zutreffend\nPersönliche Ausgaben\nTrinkgelder und Gratifikationen\nOptionale Bootsfahrt\nEssen und Getränke außer dem enthaltenen Frühstück",
+  "highlights": [
+   "Besuchen Sie den heiligen Geburtsort von Lord Krishna in Shri Krishna Janmabhoomi"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug für die gesamte Tour",
+   "Professioneller privater Fahrer",
+   "3-Sterne-Hotelunterkunft für 2 Nächte",
+   "Doppel-/Einzelzimmer mit geteilter Belegung",
+   "Tägliches Frühstück im Hotel",
+   "Traditioneller Empfang durch das Personal am Flughafen Delhi",
+   "Abholung und Rückfahrt gemäß den Angaben in der Buchung",
+   "Alle anfallenden Steuern"
+  ],
+  "notIncluded": [
+   "Live-Reiseführer",
+   "Eintrittsgebühren für Denkmäler/Tempel, falls zutreffend",
+   "Persönliche Ausgaben",
+   "Trinkgelder und Gratifikationen",
+   "Optionale Bootsfahrt",
+   "Essen und Getränke außer dem enthaltenen Frühstück"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
