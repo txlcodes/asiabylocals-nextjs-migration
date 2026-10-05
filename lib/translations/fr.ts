@@ -3423,6 +3423,77 @@ export const FR_TOURS: Record<string, TourT> = {
    "Aucun repas ni hébergement"
   ]
  },
+ "cooking-class-with-taj": {
+  "title": "Cours de cuisine avec vue sur le Taj",
+  "metaTitle": "Cours de cuisine, vue sur le Taj",
+  "metaDescription": "Cours de henné et comment porter un sari.",
+  "shortDescription": "Cours de henné et comment porter un sari.",
+  "fullDescription": "Nous vous accueillons avec un thé masala indien, puis vous amenons dans notre cuisine pour tout vous expliquer sur la nourriture et vous donner un cours sur la cuisine indienne. Repas avec dîner. Avec le même repas, nous aimons vous expliquer la culture indienne et le henné, et vous apprendre à porter un sari, et nous vous offrons quelques cadeaux, comme du thé masala ou des épices. Nous assurons la prise en charge et le retour ; là, vous pouvez boire de la bière si vous le souhaitez, mais toute la nourriture est végétarienne, et avec les plats végétariens, vous choisissez ce que vous aimez dans une cuisine hygiénique.\n\nNous laisserons également les invités cuisiner pour une expérience afin qu'ils puissent mettre la main à la pâte de la cuisine indienne.",
+  "highlights": [
+   "Cours de henné et comment porter un sari"
+  ],
+  "included": [
+   "Nourriture",
+   "Thé",
+   "Tous les légumes utilisés pour le cours de cuisine",
+   "Retour"
+  ],
+  "notIncluded": [
+   "Pas de prise en charge",
+   "Pas de bière",
+   "Aucune boisson"
+  ]
+ },
+ "from-delhi-taj-mahal-agra-fort-mehtab-bagh-same": {
+  "title": "Depuis Delhi : visite du Taj Mahal, du fort d'Agra, et de Mehtab Bagh le même jour",
+  "metaTitle": "Delhi-Agra : Taj Mahal, fort, Mehtab Bagh",
+  "metaDescription": "Explorez l'emblématique Taj Mahal, symbole d'amour éternel.",
+  "shortDescription": "Explorez l'emblématique Taj Mahal, symbole d'amour éternel.",
+  "fullDescription": "Le voyage commence par un départ tôt le matin depuis Delhi, vous donnant amplement de temps pour explorer les monuments emblématiques d'Agra. Pendant votre trajet, profitez des paysages changeants du nord de l'Inde, offrant un aperçu de la beauté diversifiée de la région.\n\nVous pouvez choisir une heure de prise en charge n'importe quand entre 2h00 et 10h00 selon votre convenance.\n\nÀ l'arrivée à Agra, votre première visite est le magnifique Taj Mahal, l'une des Sept Merveilles du Monde. Ce chef-d'œuvre en marbre blanc ivoire, construit par l'empereur Shah Jahan à la mémoire de sa bien-aimée épouse Mumtaz Mahal, est un symbole d'amour éternel et d'excellence architecturale moghole. Votre guide expert partagera des histoires fascinantes et des informations historiques pour enrichir votre expérience.\n\nEnsuite, visitez l'impressionnant fort d'Agra, un site du patrimoine mondial de l'UNESCO. Cette forteresse en grès rouge servit de résidence principale aux empereurs moghols jusqu'en 1638. Explorez ses magnifiques palais, cours, et salles, notamment le palais de Jahangir, Diwan-i-Khas, et Sheesh Mahal.\n\nProfitez d'un déjeuner relaxant dans un restaurant local multi-cuisine, où vous pouvez déguster une variété de délicieux plats indiens et internationaux.\n\nAprès le déjeuner, dirigez-vous vers Mehtab Bagh, un beau complexe de jardins situé à travers la rivière Yamuna. Il offre une vue impressionnante et paisible sur le Taj Mahal, particulièrement parfaite pour une photographie mémorable.\n\nÀ la fin de la visite, vous serez reconduit à Delhi et déposé à votre lieu préféré, concluant un voyage confortable et mémorable.",
+  "highlights": [
+   "Explorez l'emblématique Taj Mahal, symbole d'amour éternel"
+  ],
+  "included": [
+   "Voiture privée climatisée avec chauffeur",
+   "Guide touristique professionnel",
+   "Prise en charge et retour depuis les lieux de la région de Delhi NCR",
+   "Eau en bouteille",
+   "Tout le carburant, péage, et frais de stationnement",
+   "Couvre-chaussures pour l'entrée aux monuments",
+   "Frais d'entrée aux monuments (si option sélectionnée)",
+   "Déjeuner dans un restaurant multi-cuisine (si option sélectionnée)"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires et gratifications pour le chauffeur et le guide (optionnel)",
+   "Boissons"
+  ]
+ },
+ "new-delhi-akshardham-temple-tour-with-water-and": {
+  "title": "New Delhi : visite du temple Akshardham avec spectacle d'eau et de lumière",
+  "metaTitle": "New Delhi : temple Akshardham, spectacle d'eau",
+  "metaDescription": "Ayez la chance de voir le spectacle d'eau Sahaj Anand en soirée.",
+  "shortDescription": "Ayez la chance de voir le spectacle d'eau Sahaj Anand en soirée.",
+  "fullDescription": "Commencez la visite spirituelle par une prise en charge à votre lieu préféré à Delhi. Votre guide vous rencontrera en chemin et vous assistera pendant la visite.\n\n**India Gate** : commencez votre visite à India Gate, un mémorial de guerre et un monument important de Delhi.\n\n**Rajpath** : promenez-vous le long de Rajpath, une avenue cérémonielle menant au Rashtrapati Bhavan et au Parliament House. Vous ne pouvez pas y entrer, mais vous pouvez admirer la grandeur de la résidence officielle du Président depuis l'extérieur.\n\nNous découvrirons ces Darshan :\n\nLe premier est le Sahajanand Darshan : il contient une série d'expositions, chacune offrant une expérience nouvelle, un message nouveau, et une présentation originale. Ces expositions dépeignent des valeurs telles que la non-violence, la persévérance, les prières, la moralité, et l'harmonie familiale en utilisant différentes technologies multimédias.\n\nLe deuxième est le Neelkanth Darshan : Neelkanth Varni lors d'une randonnée épique à travers le sous-continent indien. Des sommets glacés de l'Himalaya nord aux plages chaudes du sud de l'Inde, suivez Neelkanth alors qu'il traverse 12 000 kilomètres à travers la longueur et la largeur de l'Inde. Rappelez-vous la valeur du sacrifice et du service, la sagesse de l'âme éternelle, et le pouvoir de la foi.\n\nEnfin, le Sanskruti Darshan : promenade culturelle en bateau. Montez à bord d'un bateau et naviguez à travers des milliers d'années d'histoire indienne ancienne. Découvrez le mode de vie de l'ère védique. Passez par la plus ancienne université et regardez une chirurgie oculaire se dérouler il y a plus de mille ans. Ce trajet en bateau de 12 minutes présente certaines des contributions importantes de l'Inde au monde.\n\nLe spectacle d'eau Sahaj Anand est une présentation à couper le souffle de 24 minutes de la vie, une histoire tirée de la Kena Upanishad. Lasers multicolores, projections vidéo, flammes sous-marines, jets d'eau, et son surround (spectacle de lumière et d'eau).\n\nLa visite spirituelle de Delhi se terminera, notre chauffeur vous ramènera à votre hôtel à Delhi.\n\nFin de la visite.",
+  "highlights": [
+   "Ayez la chance de voir le spectacle d'eau Sahaj Anand en soirée"
+  ],
+  "included": [
+   "Transport climatisé",
+   "Prise en charge et retour à l'hôtel",
+   "Guide touristique",
+   "Tous les péages, taxes, et frais de stationnement",
+   "Eau minérale",
+   "Billets d'entrée (si option sélectionnée)",
+   "Déjeuner (si option sélectionnée)",
+   "Bouteille d'eau",
+   "Parapluies"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles",
+   "Pourboires"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
