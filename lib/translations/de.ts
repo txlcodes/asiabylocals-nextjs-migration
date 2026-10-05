@@ -5574,6 +5574,69 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld nicht inklusive für Fahrer und Guide"
   ]
  },
+ "from-delhi-taj-mahal-agra-private-car-trip-with": {
+  "title": "Von Delhi aus: private Autofahrt zum Taj Mahal und Agra mit 5-Sterne-Mahlzeit",
+  "metaTitle": "Delhi-Agra: Taj Mahal im Privatauto, 5-Sterne-Mahlzeit",
+  "metaDescription": "Bequeme Abholung und Absetzung von Ihrem Hotel oder dem Flughafen Delhi.",
+  "shortDescription": "Bequeme Abholung und Absetzung von Ihrem Hotel oder dem Flughafen Delhi.",
+  "fullDescription": "Beginnen Sie Ihre Reise mit einer Abholung von Ihrem Hotel oder dem Flughafen in Delhi, Gurgaon, oder Noida. Reisen Sie komfortabel in einem privaten klimatisierten Auto etwa 3 Stunden lang nach Agra.\n\nBei der Ankunft treffen Sie Ihren Guide und besuchen das Taj Mahal. Nehmen Sie sich Zeit, um seine atemberaubende Schönheit zu erkunden und mehr über seine Geschichte zu erfahren.\n\nAls Nächstes besuchen Sie das Agra Fort, eine historische Festung aus rotem Sandstein, erbaut 1565 von Kaiser Akbar, bekannt für seine beeindruckende Architektur und reiche Geschichte.\n\nDanach genießen Sie Frühstück oder Mittagessen in einem 5-Sterne-Hotel (falls in Ihrer gewählten Option enthalten).\n\nDann besuchen Sie das Baby Taj (Itmad-ud-Daulah), ein schönes Marmor-Mausoleum, oft als \"Schmuckkästchen\" bezeichnet.\n\nSchließlich fahren Sie in Ihrem privaten Auto zurück nach Delhi und werden an Ihrem bevorzugten Ort abgesetzt.",
+  "highlights": [
+   "Bequeme Abholung und Absetzung von Ihrem Hotel oder dem Flughafen Delhi"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel",
+   "Transport im klimatisierten Auto",
+   "Wasser in Flaschen (im Auto)",
+   "Mautgebühren",
+   "Privater Fahrer",
+   "Privater Guide",
+   "Skip-the-Line-Eintrittsgebühren zu den Denkmälern (falls ausgewählt)",
+   "Buffet-Mittagessen im 5-Sterne-Hotel (falls ausgewählt)"
+  ],
+  "notIncluded": [
+   "Trinkgeld",
+   "Persönliche Ausgaben"
+  ]
+ },
+ "from-delhi-same-day-express-trip-to-agra-back": {
+  "title": "Von Delhi aus: Express-Tagesausflug nach Agra und Rücktransfer",
+  "metaTitle": "Delhi-Agra express, Hin- und Rückfahrt am selben Tag",
+  "metaDescription": "Die schnellste Art, das Taj Mahal von New Delhi aus zu besuchen.",
+  "shortDescription": "Die schnellste Art, das Taj Mahal von New Delhi aus zu besuchen.",
+  "fullDescription": "Erleben Sie die schnellste Art, das Taj Mahal von New Delhi aus zu besuchen, mit einem privaten klimatisierten Auto und einem englischsprachigen Fahrer. Reisen Sie über die reibungslose Yamuna Expressway, mit allen transportbezogenen Kosten inklusive. Bei der Ankunft in Agra besuchen Sie das Taj Mahal, das Agra Fort, und andere nahegelegene Sehenswürdigkeiten in Ihrem eigenen Tempo.\n\nDer Fahrer wartet an jedem Ort und gibt Ihnen volle Flexibilität zum Erkunden. Sobald Ihre Besichtigung abgeschlossen ist, entspannen Sie sich, während der Fahrer Sie über die Expressway zurück nach New Delhi bringt und Sie sicher und komfortabel an Ihrem gewünschten Ort absetzt.",
+  "highlights": [
+   "Die schnellste Art, das Taj Mahal von New Delhi aus zu besuchen"
+  ],
+  "included": [
+   "Hin- und Rückfahrt von New Delhi nach Agra",
+   "Transport im privaten Auto",
+   "Hochwertige Express-Eintrittstickets (falls ausgewählt)",
+   "Englischsprachiger Fahrer",
+   "Alle Mautgebühren und Steuern inklusive"
+  ],
+  "notIncluded": []
+ },
+ "agra-street-food-walking-tour-spice-market-tuk": {
+  "title": "Agra: Street-Food-Spaziergang, Gewürzmarkt, und Tuk-Tuk-Fahrt",
+  "metaTitle": "Agra: Street Food, Gewürze, Tuk-Tuk",
+  "metaDescription": "Lebendiger Markt für traditionellen Schmuck und Textilien sowie Aromen indischer Gewürze.",
+  "shortDescription": "Lebendiger Markt für traditionellen Schmuck und Textilien sowie Aromen indischer Gewürze.",
+  "fullDescription": "Sie werden von Ihrem Hotel oder einem anderen vereinbarten Ort in Agra per Tuk-Tuk abgeholt. Tauchen Sie ein in ein einzigartiges Erlebnis abseits des typischen Touristenpfads.\n\nBeginnen Sie Ihr Abenteuer am Kinari Bazaar, einem lebendigen Markt voller traditionellem Schmuck, Textilien, und Kunsthandwerk. Besuchen Sie die nahegelegene Jama Masjid, eine der größten Moscheen Indiens, die exquisite Mogul-Architektur zeigt. Ein kurzer Spaziergang führt Sie zum alten Mankameshwar-Tempel, gewidmet dem Herrn Shiva, wo lokaler Glaube und Tradition zusammenkommen.\n\nDann erkunden Sie Rawatpara, Agras renommierten Gewürzmarkt, wo die lebendigen Farben und Aromen indischer Gewürze ein sinnliches Fest schaffen. Machen Sie eine Pause in Seth Gali, um Agras berühmtes Street Food zu probieren, wie Samosa, Dosa/Chole Bhature, Aloo Tikki, Pani Tikki, Süßigkeiten, und Masala-Tee aus einem Tontopf.\n\nNach Ihrer Tour werden Sie an Ihrem ursprünglichen Abfahrtsort abgesetzt.",
+  "highlights": [
+   "Lebendiger Markt für traditionellen Schmuck und Textilien sowie Aromen indischer Gewürze"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel in Agra",
+   "Privater lokaler Reiseführer",
+   "Transfer per Tuk-Tuk",
+   "Street-Food-Snacks und Süßigkeiten (falls ausgewählt)"
+  ],
+  "notIncluded": [
+   "Eintrittskarten zu den Denkmälern",
+   "Jegliche Getränke",
+   "Trinkgeld"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
