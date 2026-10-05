@@ -2705,6 +2705,78 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "taj-mahal-skip-the-line-express-entry-tour-for": {
+  "title": "Tour del Taj Mahal con entrada exprés sin colas para extranjeros",
+  "metaTitle": "Taj Mahal: entrada exprés, extranjeros",
+  "metaDescription": "Evite las largas filas con una conveniente entrada al Taj Mahal reservada con antelación.",
+  "shortDescription": "Evite las largas filas con una conveniente entrada al Taj Mahal reservada con antelación.",
+  "fullDescription": "Haga que su visita al Taj Mahal sea simple, cómoda, y sin estrés reservando sus boletos de entrada con antelación. Evite las largas filas y dedique más tiempo a disfrutar de este increíble monumento en lugar de esperar en el calor.\n\nCon convenientes boletos móviles, no es necesario imprimir nada. Simplemente muestre su boleto y prepárese para explorar el impresionante mármol blanco, los hermosos jardines, y las vistas inolvidables del Taj Mahal.\n\nSu experiencia también incluye un amigable guía local de habla inglesa que dará vida a la historia del monumento y su famosa historia de amor con relatos fascinantes e información útil. Viaje cómodamente en un auto privado con aire acondicionado, disfrute de agua mineral de cortesía, y déjenos encargarnos de los detalles mientras usted disfruta de su tiempo en Agra.\n\nReserve con antelación y haga que su experiencia del Taj Mahal sea fácil, agradable, y memorable de principio a fin.",
+  "highlights": [
+   "Evite las largas filas con una conveniente entrada al Taj Mahal reservada con antelación"
+  ],
+  "included": [
+   "Boletos de entrada de alto valor al Taj Mahal (si se selecciona la opción)",
+   "Entrada exprés sin colas para una visita fluida",
+   "Botella de agua mineral de cortesía",
+   "Cubrezapatos para mayor comodidad",
+   "Asistencia fotográfica en los mejores lugares para fotos memorables"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "sunrise-splendor-agra-day-tour": {
+  "title": "Esplendor del amanecer: tour de un día por Agra",
+  "metaTitle": "Agra: esplendor del amanecer, tour de un día",
+  "metaDescription": "Disfrute de un tour guiado del Fuerte de Agra y conozca su importancia histórica.",
+  "shortDescription": "Disfrute de un tour guiado del Fuerte de Agra y conozca su importancia histórica.",
+  "fullDescription": "Disfrute de la encantadora belleza del Rauza-i Munawwara al amanecer con un tour especial que comienza temprano por la mañana. Comience su día con una recogida antes del amanecer en su hotel en Agra y diríjase al complejo Rauza-i Munawwara. Observe cómo el mármol blanco del Rauza-i Munawwara se transforma con los colores cambiantes del cielo, creando una vista fascinante.\n\nSu guía le dará información sobre la historia y arquitectura de este monumento icónico, compartiendo historias de amor y legado. Después de explorar el Rauza-i Munawwara y capturar las fotos perfectas del amanecer, disfrute de un desayuno en un hotel cercano o un lugar pintoresco con vista al Rauza-i Munawwara.\n\nDespués del desayuno, visite el cercano Fuerte de Agra, otro Sitio del Patrimonio Mundial de la UNESCO, conocido por su impresionante arquitectura e importancia histórica. Explore los palacios, mezquitas, y patios del fuerte, conociendo a los emperadores mogoles que una vez residieron aquí.\n\nSu guía narrará historias de la rica historia del fuerte, incluyendo su papel en el Imperio mogol. Después del tour, puede elegir regresar a su hotel para descansar o continuar explorando los mercados locales y atracciones de Agra por su cuenta.",
+  "highlights": [
+   "Disfrute de un tour guiado del Fuerte de Agra y conozca su importancia histórica"
+  ],
+  "included": [
+   "Transporte de ida y vuelta: vehículo cómodo y con aire acondicionado para el viaje entre Delhi y Agra",
+   "Tour guiado: guía profesional y conocedor para información y contexto histórico en sitios clave",
+   "Tiempo de compras de recuerdos: tiempo asignado para explorar y comprar artesanía local y recuerdos",
+   "Agua embotellada: refrescos durante el tour"
+  ],
+  "notIncluded": [
+   "Gastos personales: costos de artículos como bocadillos, bebidas, y compras personales",
+   "Tarifas de entrada al Rauza-i Munawwara y al Fuerte de Agra",
+   "Gratificaciones: propinas para guías y conductores (opcional pero apreciado)",
+   "Avistamientos adicionales: tarifas de entrada o actividades no mencionadas en el itinerario",
+   "Seguro de viaje: cobertura más allá del seguro básico incluido en el tour",
+   "Tarifas de visa: cualquier requisito o tarifa de visa para viajeros internacionales"
+  ]
+ },
+ "agra-private-taj-mahal-tour-with-elephant-rescue": {
+  "title": "Agra: tour privado del Taj Mahal con Centro de Rescate de Elefantes",
+  "metaTitle": "Agra: Taj Mahal privado, rescate de elefantes",
+  "metaDescription": "Admire el Taj Mahal con un guía privado al amanecer o durante el día.",
+  "shortDescription": "Admire el Taj Mahal con un guía privado al amanecer o durante el día.",
+  "fullDescription": "Descubra los sitios más icónicos de Agra en un tour privado del Taj Mahal seguido de una visita significativa a un Centro de Rescate de Elefantes. Viaje cómodamente en un auto privado con aire acondicionado con su guía local privado y disfrute de una conveniente recogida y traslado dentro de Agra.\n\nComience con la recogida en el Aeropuerto de Agra, la Estación de Agra Cantt, o cualquier hotel ubicado en la ciudad de Agra. Elija una recogida temprana a las 5:00 a.m. si desea experimentar el Taj Mahal alrededor del amanecer, o seleccione una salida más tardía para una visita diurna.\n\nComience su avistamiento en el magnífico Taj Mahal, uno de los monumentos más célebres del mundo. Explore los jardines y el complejo de mármol con su guía privado mientras conoce al emperador Shah Jahan, Mumtaz Mahal, la arquitectura mogol, y la fascinante historia detrás de este Sitio del Patrimonio Mundial de la UNESCO.\n\nA continuación, continúe hacia el Fuerte de Agra, otro Sitio del Patrimonio Mundial de la UNESCO. Camine por sus impresionantes patios, palacios, salones, y puertas fortificadas mientras descubre historias de la era mogol y disfruta de vistas de la histórica Agra.\n\nSu experiencia de comida depende de su hora de salida seleccionada y opción de reserva. Los huéspedes que eligen la salida al amanecer con la opción de comida incluida disfrutarán de un desayuno buffet en el DoubleTree by Hilton Agra después de la visita al Taj Mahal. Los huéspedes que toman una salida diurna con la opción de comida incluida disfrutarán de un almuerzo buffet en el DoubleTree by Hilton Agra durante el tour.\n\nDespués de explorar los monumentos mogoles de Agra, relájese en su auto privado mientras conduce al Centro de Rescate de Elefantes cerca de Agra.\n\nEn el centro de rescate, conozca a los elefantes rescatados, sus historias individuales, rehabilitación, cuidado diario, y bienestar a largo plazo. La visita se centra en la educación, observación, conservación, y cuidado responsable de los elefantes, ofreciendo una perspectiva diferente sobre la protección de elefantes en la India.\n\nDespués de completar su visita al Centro de Rescate de Elefantes, conozca a su conductor y viaje de regreso a Agra. Su tour privado concluye con el traslado al Aeropuerto de Agra, la Estación de Agra Cantt, o su hotel en la ciudad de Agra.\n\nSegún la opción seleccionada, su tour puede incluir boletos de entrada al Taj Mahal y Fuerte de Agra, entrada al Centro de Rescate de Elefantes, y una comida en el DoubleTree by Hilton Agra.\n\nElija entre auto privado + guía, o auto privado + guía + boletos de entrada + comida, lo que le permite seleccionar la experiencia que mejor se adapte a sus planes de viaje.",
+  "highlights": [
+   "Admire el Taj Mahal con un guía privado al amanecer o durante el día"
+  ],
+  "included": [
+   "Recogida y traslado desde el Aeropuerto de Agra, la Estación de Agra Cantt, o cualquier hotel en la ciudad de Agra",
+   "Auto privado con aire acondicionado con conductor profesional",
+   "Guía turístico local privado para el Taj Mahal y el Fuerte de Agra",
+   "Combustible, estacionamiento, peajes, y gastos del conductor",
+   "Boleto de entrada al Taj Mahal (si se selecciona la opción)",
+   "Boleto de entrada al Fuerte de Agra (si se selecciona la opción)",
+   "Boleto de entrada al Centro de Rescate de Elefantes (si se selecciona la opción)",
+   "Desayuno buffet en el DoubleTree by Hilton Agra para la salida al amanecer (si se selecciona la opción de comida incluida)",
+   "Almuerzo buffet en el DoubleTree by Hilton Agra para la salida diurna (si se selecciona la opción de comida incluida)",
+   "Agua embotellada durante el tour"
+  ],
+  "notIncluded": [
+   "Cualquier comida y bebida adicional",
+   "Montar, alimentar, bañar, o tocar elefantes",
+   "Donaciones voluntarias en el Centro de Rescate de Elefantes (pagables en el lugar)",
+   "Propinas para el guía y el conductor"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
