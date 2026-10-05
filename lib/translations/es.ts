@@ -20027,6 +20027,78 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "delhi-all-inclusive-full-or-half-day-tour-with": {
+  "title": "Delhi: tour de día completo o medio día todo incluido con recogida en el hotel",
+  "metaTitle": "Delhi: tour todo incluido con recogida",
+  "metaDescription": "Descubra el histórico Fuerte Rojo, sitio del Patrimonio Mundial de la UNESCO.",
+  "shortDescription": "Descubra el histórico Fuerte Rojo, sitio del Patrimonio Mundial de la UNESCO.",
+  "fullDescription": "Descubra lo más destacado de Delhi en un tour de día completo por la ciudad. Explore la parte histórica de la ciudad, el Viejo Delhi, y la parte moderna, Nueva Delhi. Visite el Fuerte Rojo, la Jama Masjid, Qutub Minar, y más.\n\nComience su tour con una recogida en su hotel, y diríjase hacia el Fuerte Rojo, construido por el emperador mogol Shah Jahan, quien también construyó el Taj Mahal. Después, recorra la bulliciosa zona comercial de Chandni Chowk en rickshaw, llegando a la Jama Masjid, una mezquita del siglo XVII que es la más grande de la India.\n\nDespués de una parada para un auténtico almuerzo local, diríjase a Nueva Delhi, visitando Qutub Minar, el minarete de ladrillo más alto del mundo, antes de detenerse en la Tumba del emperador mogol Humayun. A continuación, vea India Gate, un monumento conmemorativo a los soldados indios que murieron durante la Primera Guerra Mundial, antes de dirigirse al Templo de Loto, elegantemente diseñado en forma de flor de loto.\n\nPara terminar, pase por la Casa Presidencial y los edificios del Parlamento, antes de ser llevado de regreso a su alojamiento.",
+  "highlights": [
+   "Descubra el histórico Fuerte Rojo, sitio del Patrimonio Mundial de la UNESCO"
+  ],
+  "included": [
+   "Recogida y traslado al hotel",
+   "Paseo en rickshaw en Chandni Chowk",
+   "Almuerzo local",
+   "Tarifas de entrada a todos los sitios",
+   "Transporte en vehículo con aire acondicionado"
+  ],
+  "notIncluded": [
+   "Comida o bebidas",
+   "Gastos personales",
+   "Gratificaciones"
+  ]
+ },
+ "delhi-2-day-ranthambore-safari-expedition-with": {
+  "title": "Delhi: expedición de safari de 2 días a Ranthambore con coche y guía",
+  "metaTitle": "Delhi-Ranthambore: safari en 2 días",
+  "metaDescription": "Acérquese al majestuoso tigre de Bengala en su hábitat natural.",
+  "shortDescription": "Acérquese al majestuoso tigre de Bengala en su hábitat natural.",
+  "fullDescription": "Emprenda una expedición de 2 días desde Delhi hacia el Parque Nacional de Ranthambore, con un coche privado con aire acondicionado y conductor, 1 noche de alojamiento en hotel con desayuno, y 1 safari en jeep o cantor para acercarse al majestuoso tigre de Bengala en su hábitat natural.",
+  "highlights": [
+   "Acérquese al majestuoso tigre de Bengala en su hábitat natural"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto",
+   "Coche privado con aire acondicionado para toda la actividad del tour, con conductor",
+   "1 noche de alojamiento en hotel (si se selecciona esa opción)",
+   "Desayuno en el hotel",
+   "1 safari en jeep/cantor (si se selecciona esa opción)",
+   "Botella de agua mineral",
+   "Todos los peajes y el estacionamiento"
+  ],
+  "notIncluded": [
+   "Almuerzo y cena",
+   "Cualquier gasto personal"
+  ]
+ },
+ "delhi-holi-festivities-delhi-sightseeing21st-22nd": {
+  "title": "Delhi: festividades de Holi y recorrido por Delhi (21 y 22 de marzo)",
+  "metaTitle": "Delhi: Holi y recorrido turístico, 21-22 de marzo",
+  "metaDescription": "Ofrecemos soporte al cliente 24/7.",
+  "shortDescription": "Ofrecemos soporte al cliente 24/7.",
+  "fullDescription": "**Temprano en la mañana: recogida e inicio del recorrido por Delhi**\nComience su día con una recogida temprano en la mañana en su hotel o un lugar acordado previamente en Delhi.\nConozca a su guía profesional, y comience su exploración de los lugares históricos y culturales de Delhi.\n\n**Mañana: visita a Qutub Minar**\nDiríjase a Qutub Minar, un sitio del Patrimonio Mundial de la UNESCO reconocido por su impresionante arquitectura y su importancia histórica.\nExplore el antiguo minarete y el sitio arqueológico circundante, mientras su guía le brinda información sobre su historia e importancia.\n\n**Media mañana: India Gate y Rashtrapati Bhavan**\nProceda hacia India Gate, un majestuoso monumento conmemorativo de guerra dedicado a los soldados que murieron en la Primera Guerra Mundial.\nPasee por los jardines del monumento, y disfrute de vistas del Rashtrapati Bhavan (Residencia Presidencial) desde el exterior. Tome fotografías, y conozca la importancia de estos lugares.\n\n**Tarde: almuerzo en un restaurante indio tradicional**\nDisfrute de un delicioso almuerzo en un restaurante local, probando platos y sabores indios tradicionales.\nRelájese, y prepárese para las vibrantes celebraciones de Holi más tarde en el día.\n\n**Primeras horas de la tarde: visita a la Jama Masjid y Chandni Chowk**\nExplore la Jama Masjid, una de las mezquitas más grandes de la India, conocida por su grandeza e importancia histórica.\nHaga un paseo en rickshaw por Chandni Chowk, la bulliciosa zona de mercado del Viejo Delhi. Disfrute del ambiente animado, y compre recuerdos o dulces locales.\n\n**Últimas horas de la tarde: comienzan las festividades de Holi**\nDiríjase a un área designada para la celebración de Holi, donde podrá unirse a las vibrantes festividades.\nExperimente la alegría de jugar con polvos coloridos (gulal), y disfrute de la música y danza festivas.\nParticipe en juegos tradicionales de Holi, baile con los locales, y saboree dulces y bocadillos de Holi.\n\n**Noche: continuación de la celebración de Holi y relajación**\nSumérjase en las celebraciones de Holi en curso, experimentando el espíritu animado y la alegría comunitaria del festival.\nContinúe jugando con colores, y disfrute del ambiente festivo hasta el anochecer.\n\n**Noche: regreso a su hotel**\nDespués de un día lleno de recorridos y festividades de Holi, su guía garantizará una entrega cómoda en su hotel o lugar preferido en Delhi.\nConcluya su aventura del mismo día con una velada relajante en su alojamiento, reflexionando sobre las vibrantes experiencias del día. Este tour se ofrece los días 21 y 22 de marzo, con asistencia 24/7.",
+  "highlights": [
+   "Ofrecemos soporte al cliente 24/7"
+  ],
+  "included": [
+   "Transporte: coche privado con conductor para todo el viaje",
+   "Tarifas de entrada a los monumentos: boletos de entrada a todos los monumentos listados (con la opción del tour)",
+   "Guía profesional: guía local experimentado y conocedor",
+   "Agua embotellada durante el trayecto en coche",
+   "Se proporcionará el almuerzo",
+   "Recogida y traslado desde su hotel o aeropuerto",
+   "Experiencia de celebración de Holi con colores y festividades",
+   "Todos los impuestos y cargos de servicio aplicables",
+   "Asistencia durante todo el tour 24/7",
+   "WiFi a bordo"
+  ],
+  "notIncluded": [
+   "Gastos personales: cualquier gasto personal como propinas, recuerdos, comidas o bebidas adicionales, y compras",
+   "Actividades opcionales",
+   "Gratificaciones: propinas para el guía, el conductor, o el personal del hotel"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
