@@ -26984,6 +26984,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires et gratifications"
   ]
  },
+ "delhi-red-fort-light-and-sound-show-guided-tour": {
+  "title": "Delhi : circuit guidé du spectacle son et lumière du Fort Rouge",
+  "metaTitle": "Delhi : circuit guidé du spectacle son et lumière du Fort Rouge",
+  "metaDescription": "Commencez votre circuit du soir par une visite de l'emblématique Fort Rouge et son spectacle son et lumière.",
+  "shortDescription": "Commencez votre circuit du soir par une visite de l'emblématique Fort Rouge",
+  "fullDescription": "Delhi : circuit guidé du spectacle son et lumière du Fort Rouge. Commencez votre circuit du soir par une visite de l'emblématique Fort Rouge.\n\nVotre guide ou chauffeur viendra vous chercher à votre hôtel à Delhi.\n\nSpectacle son et lumière du Fort Rouge\nDirigez-vous vers l'emblématique Fort Rouge pour un envoûtant spectacle son et lumière. Cette présentation multimédia spectaculaire raconte l'histoire de Delhi et de l'Empire moghol, sur la toile de fond magnifique du Fort Rouge illuminé. Le spectacle dure généralement environ une heure et offre un aperçu fascinant du riche passé de la ville.\n\nRetour à l'hôtel\nAprès le spectacle, retournez à votre hôtel et repensez aux souvenirs inoubliables créés pendant votre circuit.\n\n### Ce qui est inclus\n\n- Véhicule privé climatisé\n- Prise en charge et dépose à l'hôtel\n- Guide touristique expert\n- Billets pour le spectacle (si l'option est sélectionnée)\n- Bouteille d'eau\n- Stationnement et toutes taxes\n\n### Non inclus\n\n- Pourboires",
+  "highlights": [
+   "Commencez votre circuit du soir par une visite de l'emblématique Fort Rouge"
+  ],
+  "included": [
+   "Véhicule privé climatisé\nPrise en charge et dépose à l'hôtel\nGuide touristique expert\nBillets pour le spectacle (si l'option est sélectionnée)\nBouteille d'eau\nStationnement et toutes taxes"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "from-delhi-jaipur-mandawa-jodhpur-and-udaipur-5": {
+  "title": "Depuis Delhi : circuit de 5 jours à Jaipur, Mandawa, Jodhpur et Udaipur",
+  "metaTitle": "Depuis Delhi : circuit de 5 jours Jaipur, Mandawa, Jodhpur",
+  "metaDescription": "Circuit de 5 jours à Jaipur, Mandawa, Jodhpur et Udaipur depuis Delhi, avec assistance 24h/24 et 7j/7.",
+  "shortDescription": "Nous offrons une assistance client 24h/24 et 7j/7.",
+  "fullDescription": "Depuis Delhi : circuit de 5 jours à Jaipur, Mandawa, Jodhpur et Udaipur. Nous offrons une assistance client 24h/24 et 7j/7.\n\n### Ce qui est inclus\n\n- Hébergement : 4 nuits en hôtels 4 étoiles (uniquement avec l'option circuit tout compris)\n- Repas : petit-déjeuner quotidien à l'hôtel (uniquement avec l'option circuit tout compris)\n- Transport : véhicule climatisé pour tous les transferts et visites\n- Guide professionnel : guide touristique local expérimenté et compétent\n- Frais d'entrée : inclus pour tous les monuments et attractions (avec l'option circuit tout compris ou circuit sans hébergement)\n- Taxes et frais : toutes les taxes et frais de service applicables inclus\n- Assistance : support 24h/24 et 7j/7 tout au long du circuit\n- Bouteille d'eau\n\n### Non inclus\n\n- Dépenses personnelles : toute dépense personnelle telle que pourboires, souvenirs, repas ou boissons supplémentaires, et shopping\n- Activités optionnelles\n- Gratifications : pourboires pour le guide, le chauffeur ou le personnel de l'hôtel\n- Repas : déjeuner et dîner",
+  "highlights": [
+   "Nous offrons une assistance client 24h/24 et 7j/7"
+  ],
+  "included": [
+   "Hébergement : 4 nuits en hôtels 4 étoiles (uniquement avec l'option circuit tout compris)\nRepas : petit-déjeuner quotidien à l'hôtel (uniquement avec l'option circuit tout compris)\nTransport : véhicule climatisé pour tous les transferts et visites\nGuide professionnel : guide touristique local expérimenté et compétent\nFrais d'entrée : inclus pour tous les monuments et attractions (avec l'option circuit tout compris ou circuit sans hébergement)\nTaxes et frais : toutes les taxes et frais de service applicables inclus\nAssistance : support 24h/24 et 7j/7 tout au long du circuit\nBouteille d'eau"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles : toute dépense personnelle telle que pourboires, souvenirs, repas ou boissons supplémentaires, et shopping.\nActivités optionnelles\nGratifications : pourboires pour le guide, le chauffeur ou le personnel de l'hôtel.\nRepas : déjeuner et dîner."
+  ]
+ },
+ "from-delhi-6-day-leh-nubra-valley-pangong-lake": {
+  "title": "Depuis Delhi : circuit de 6 jours à Leh, la vallée de Nubra et le lac Pangong",
+  "metaTitle": "Depuis Delhi : circuit de 6 jours Leh, Nubra, lac Pangong",
+  "metaDescription": "Vol panoramique depuis Delhi vers la capitale himalayenne de Leh, suivi d'un circuit de 6 jours à travers le Ladakh.",
+  "shortDescription": "Vol panoramique depuis Delhi vers la capitale himalayenne de Leh.",
+  "fullDescription": "Depuis Delhi : circuit de 6 jours à Leh, la vallée de Nubra et le lac Pangong. Vol panoramique depuis Delhi vers la capitale himalayenne de Leh.\n\nDécouvrez les paysages à couper le souffle de l'Himalaya lors de ce voyage inoubliable de 6 jours depuis Delhi vers les merveilles d'altitude du Ladakh. Ce circuit vous emmène à travers des cols de montagne spectaculaires, d'anciens monastères, des vallées reculées et des lacs alpins cristallins.\n\nCommencez votre aventure par un vol vers Leh, la capitale du Ladakh, où vous vous acclimaterez à l'altitude tout en explorant des sites culturels tels que le Shanti Stupa et le Palais de Leh.\n\nTraversez l'une des routes carrossables les plus hautes du monde au col de Khardung La pour atteindre les paysages magiques de la vallée de Nubra, célèbre pour ses dunes de sable et ses chameaux de Bactriane à deux bosses. Poursuivez votre voyage vers le spectaculaire lac Pangong, connu pour ses nuances de bleu changeantes et son paysage montagneux spectaculaire.\n\nProfitez de trajets panoramiques à travers l'Himalaya, visitez des monastères séculaires comme le monastère de Diskit, et découvrez la culture unique du Ladakh. Cet itinéraire soigneusement planifié offre le parfait mélange d'aventure, de nature et de découverte culturelle.\n\n### Itinéraire\n**Jour 1 – Delhi – Leh (arrivée et acclimatation)**\n\nVol de Delhi à Leh et transfert à votre hôtel. Passez la journée à vous reposer pour vous adapter à l'altitude. En soirée, visitez le Shanti Stupa pour des vues panoramiques sur la ville de Leh.\n\n**Jour 2 – Visites locales de Leh**\n\nExplorez les sites culturels de Leh, notamment le Palais de Leh et le célèbre monastère de Thiksey. Visitez les marchés locaux et découvrez le mode de vie traditionnel du Ladakh.\n\n**Jour 3 – Leh – vallée de Nubra via Khardung La**\n\nTraversez Khardung La, l'une des routes carrossables les plus hautes du monde. Arrivée dans la vallée de Nubra et exploration des dunes de sable de Hunder. Balade en chameau de Bactriane en option.\n\n**Jour 4 – Vallée de Nubra – lac Pangong**\n\nVisitez le monastère de Diskit avant de rouler vers le magnifique lac Pangong. Profitez de vues à couper le souffle sur le lac entouré des montagnes himalayennes.\n\n**Jour 5 – Lac Pangong – Leh**\n\nRéveillez-vous tôt pour voir le lever de soleil sur le lac Pangong. Après le petit-déjeuner, retour à Leh par des routes de montagne pittoresques.\n\n**Jour 6 – Leh – Delhi**\n\nTransfert à l'aéroport pour votre vol retour de Leh à Delhi, concluant votre inoubliable aventure au Ladakh.\n\nQuestions fréquentes\n\n1. Quelles destinations sont couvertes dans ce circuit de 6 jours ?\nCe circuit inclut des visites à Leh, la vallée de Nubra et le célèbre lac Pangong dans la région himalayenne du Ladakh.\n\n2. Le transport est-il inclus pendant le circuit ?\nOui, le transport est assuré dans un véhicule privé confortable pour les visites à travers Leh, la vallée de Nubra et le lac Pangong.\n\n3. Quelles attractions allons-nous visiter pendant le circuit ?\nLes incontournables incluent le col panoramique de Khardung La, les dunes de sable de la vallée de Nubra et les eaux bleues à couper le souffle du lac Pangong.\n\n4. L'hébergement et les repas sont-ils inclus ?\nL'hébergement en hôtel ou en camp à Leh et dans la vallée de Nubra est généralement inclus selon le forfait sélectionné.\n\n5. S'agit-il d'un circuit privé ou en groupe ?\nIl s'agit d'un circuit privé, ce qui signifie que seul votre groupe participera pour une expérience de voyage plus confortable.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel/aéroport\n- Voiture climatisée privée pour toute l'activité du circuit avec chauffeur\n- Guide touristique en direct agréé par le gouvernement\n- Billets d'entrée aux monuments (si l'option est sélectionnée)\n- Petit-déjeuner (si l'option est sélectionnée)\n- Bouteille d'eau minérale\n- Tous les péages et frais de stationnement",
+  "highlights": [
+   "Vol panoramique depuis Delhi vers la capitale himalayenne de Leh"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel/aéroport\nVoiture climatisée privée pour toute l'activité du circuit avec chauffeur\nGuide touristique en direct agréé par le gouvernement\nBillets d'entrée aux monuments (si l'option est sélectionnée)\nPetit-déjeuner (si l'option est sélectionnée)\nBouteille d'eau minérale\nTous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Déjeuner\nBillets d'entrée SOS\nToute dépense personnelle"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

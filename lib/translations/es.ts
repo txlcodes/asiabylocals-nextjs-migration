@@ -26984,6 +26984,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas y gratificaciones"
   ]
  },
+ "delhi-red-fort-light-and-sound-show-guided-tour": {
+  "title": "Delhi: tour guiado del espectáculo de luz y sonido del Fuerte Rojo",
+  "metaTitle": "Delhi: tour guiado del espectáculo de luz y sonido",
+  "metaDescription": "Comience su tour nocturno con una visita al icónico Fuerte Rojo y su espectáculo de luz y sonido.",
+  "shortDescription": "Comience su tour nocturno con una visita al icónico Fuerte Rojo",
+  "fullDescription": "Delhi: tour guiado del espectáculo de luz y sonido del Fuerte Rojo. Comience su tour nocturno con una visita al icónico Fuerte Rojo.\n\nSu guía turístico o conductor lo recogerá en su hotel en Delhi.\n\nEspectáculo de luz y sonido del Fuerte Rojo\nDiríjase al icónico Fuerte Rojo para un cautivador espectáculo de luz y sonido. Esta espectacular presentación multimedia cuenta la historia de Delhi y el Imperio Mogol, con el impresionante telón de fondo del Fuerte Rojo iluminado. El espectáculo suele durar aproximadamente una hora y ofrece una fascinante visión del rico pasado de la ciudad.\n\nRegreso al hotel\nDespués del espectáculo, regrese a su hotel y recuerde los inolvidables momentos creados durante su tour.\n\n### Qué incluye\n\n- Vehículo privado con aire acondicionado\n- Recogida y traslado al hotel\n- Guía turístico experto\n- Entradas para el espectáculo (si se selecciona la opción)\n- Botella de agua\n- Estacionamiento y todos los impuestos\n\n### No incluye\n\n- Propinas",
+  "highlights": [
+   "Comience su tour nocturno con una visita al icónico Fuerte Rojo"
+  ],
+  "included": [
+   "Vehículo privado con aire acondicionado\nRecogida y traslado al hotel\nGuía turístico experto\nEntradas para el espectáculo (si se selecciona la opción)\nBotella de agua\nEstacionamiento y todos los impuestos"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "from-delhi-jaipur-mandawa-jodhpur-and-udaipur-5": {
+  "title": "Desde Delhi: tour de 5 días a Jaipur, Mandawa, Jodhpur y Udaipur",
+  "metaTitle": "Desde Delhi: tour de 5 días Jaipur, Mandawa, Jodhpur",
+  "metaDescription": "Tour de 5 días a Jaipur, Mandawa, Jodhpur y Udaipur desde Delhi, con atención al cliente 24 horas y 7 días.",
+  "shortDescription": "Ofrecemos atención al cliente 24/7.",
+  "fullDescription": "Desde Delhi: tour de 5 días a Jaipur, Mandawa, Jodhpur y Udaipur. Ofrecemos atención al cliente 24/7.\n\n### Qué incluye\n\n- Alojamiento: 4 noches en hoteles de 4 estrellas (solo con la opción de tour todo incluido)\n- Comidas: desayuno diario en el hotel (solo con la opción de tour todo incluido)\n- Transporte: vehículo con aire acondicionado para todos los traslados y visitas\n- Guía profesional: guía turístico local experimentado y conocedor\n- Tarifas de entrada: incluidas para todos los monumentos y atracciones (con la opción de tour todo incluido o tour sin alojamiento)\n- Impuestos y cargos: todos los impuestos y cargos por servicio aplicables incluidos\n- Asistencia: soporte 24/7 durante todo el tour\n- Botella de agua\n\n### No incluye\n\n- Gastos personales: cualquier gasto personal como propinas, souvenirs, comidas o bebidas adicionales y compras\n- Actividades opcionales\n- Gratificaciones: propinas para el guía, el conductor o el personal del hotel\n- Comidas: almuerzo y cena",
+  "highlights": [
+   "Ofrecemos atención al cliente 24/7"
+  ],
+  "included": [
+   "Alojamiento: 4 noches en hoteles de 4 estrellas (solo con la opción de tour todo incluido)\nComidas: desayuno diario en el hotel (solo con la opción de tour todo incluido)\nTransporte: vehículo con aire acondicionado para todos los traslados y visitas\nGuía profesional: guía turístico local experimentado y conocedor\nTarifas de entrada: incluidas para todos los monumentos y atracciones (con la opción de tour todo incluido o tour sin alojamiento)\nImpuestos y cargos: todos los impuestos y cargos por servicio aplicables incluidos\nAsistencia: soporte 24/7 durante todo el tour\nBotella de agua"
+  ],
+  "notIncluded": [
+   "Gastos personales: cualquier gasto personal como propinas, souvenirs, comidas o bebidas adicionales y compras\nActividades opcionales\nGratificaciones: propinas para el guía, el conductor o el personal del hotel\nComidas: almuerzo y cena"
+  ]
+ },
+ "from-delhi-6-day-leh-nubra-valley-pangong-lake": {
+  "title": "Desde Delhi: tour de 6 días a Leh, el Valle de Nubra y el Lago Pangong",
+  "metaTitle": "Desde Delhi: tour de 6 días Leh, Nubra, Lago Pangong",
+  "metaDescription": "Vuelo panorámico desde Delhi hasta la capital del Himalaya, Leh, seguido de un tour de 6 días por Ladakh.",
+  "shortDescription": "Vuelo panorámico desde Delhi hasta la capital del Himalaya, Leh.",
+  "fullDescription": "Desde Delhi: tour de 6 días a Leh, el Valle de Nubra y el Lago Pangong. Vuelo panorámico desde Delhi hasta la capital del Himalaya, Leh.\n\nDescubra los impresionantes paisajes del Himalaya en este inolvidable viaje de 6 días desde Delhi hasta las maravillas de gran altitud de Ladakh. Este tour lo lleva a través de dramáticos pasos de montaña, antiguos monasterios, valles remotos y lagos alpinos cristalinos.\n\nComience su aventura con un vuelo a Leh, la capital de Ladakh, donde se aclimatará a la altitud mientras explora lugares culturales como el Shanti Stupa y el Palacio de Leh.\n\nViaje por una de las carreteras transitables más altas del mundo en Khardung La para llegar a los mágicos paisajes del Valle de Nubra, famoso por sus dunas de arena y sus camellos bactrianos de doble joroba. Continúe su viaje hacia el espectacular Lago Pangong, conocido por sus siempre cambiantes tonos de azul y su dramático paisaje montañoso.\n\nDisfrute de recorridos panorámicos por el Himalaya, visite monasterios centenarios como el Monasterio de Diskit, y experimente la cultura única de Ladakh. Este itinerario cuidadosamente planificado ofrece la combinación perfecta de aventura, naturaleza y descubrimiento cultural.\n\n### Itinerario\n**Día 1 – Delhi – Leh (llegada y aclimatación)**\n\nVuelo de Delhi a Leh y traslado a su hotel. Pase el día descansando para adaptarse a la altitud. Por la noche, visite el Shanti Stupa para disfrutar de vistas panorámicas de la ciudad de Leh.\n\n**Día 2 – Visitas locales en Leh**\n\nExplore los puntos culturales destacados de Leh, incluyendo el Palacio de Leh y el famoso Monasterio de Thiksey. Visite los mercados locales y experimente el estilo de vida tradicional de Ladakh.\n\n**Día 3 – Leh – Valle de Nubra vía Khardung La**\n\nConduzca a través de Khardung La, una de las carreteras transitables más altas del mundo. Llegada al Valle de Nubra y exploración de las dunas de arena de Hunder. Paseo opcional en camellos bactrianos.\n\n**Día 4 – Valle de Nubra – Lago Pangong**\n\nVisite el Monasterio de Diskit antes de conducir hacia el impresionante Lago Pangong. Disfrute de vistas impresionantes del lago rodeado por las montañas del Himalaya.\n\n**Día 5 – Lago Pangong – Leh**\n\nDespiértese temprano para ver el amanecer sobre el Lago Pangong. Después del desayuno, regreso a Leh por pintorescas carreteras de montaña.\n\n**Día 6 – Leh – Delhi**\n\nTraslado al aeropuerto para su vuelo de regreso de Leh a Delhi, concluyendo su inolvidable aventura en Ladakh.\n\nPreguntas frecuentes\n\n1. ¿Qué destinos se incluyen en este tour de 6 días?\nEste tour incluye visitas a Leh, el Valle de Nubra y el famoso Lago Pangong en la región del Himalaya de Ladakh.\n\n2. ¿El transporte está incluido durante el tour?\nSí, el transporte se proporciona en un cómodo vehículo privado para las visitas en Leh, el Valle de Nubra y el Lago Pangong.\n\n3. ¿Qué atracciones visitaremos durante el tour?\nLo más destacado incluye el pintoresco paso de Khardung La, las dunas de arena del Valle de Nubra y las impresionantes aguas azules del Lago Pangong.\n\n4. ¿El alojamiento y las comidas están incluidos?\nEl alojamiento en hotel o campamento en Leh y el Valle de Nubra generalmente está incluido según el paquete seleccionado.\n\n5. ¿Es este un tour privado o grupal?\nEste es un tour privado, lo que significa que solo su grupo participará para una experiencia de viaje más cómoda.\n\n### Qué incluye\n\n- Recogida y traslado al hotel/aeropuerto\n- Coche privado con aire acondicionado para toda la actividad del tour con conductor\n- Guía turístico en vivo aprobado por el gobierno\n- Entradas a monumentos (si se selecciona la opción)\n- Desayuno (si se selecciona la opción)\n- Botella de agua mineral\n- Todos los peajes y el estacionamiento",
+  "highlights": [
+   "Vuelo panorámico desde Delhi hasta la capital del Himalaya, Leh"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto\nCoche privado con aire acondicionado para toda la actividad del tour con conductor\nGuía turístico en vivo aprobado por el gobierno\nEntradas a monumentos (si se selecciona la opción)\nDesayuno (si se selecciona la opción)\nBotella de agua mineral\nTodos los peajes y el estacionamiento"
+  ],
+  "notIncluded": [
+   "Almuerzo\nEntradas SOS\nCualquier gasto personal"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
