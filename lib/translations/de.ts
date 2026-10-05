@@ -6067,6 +6067,80 @@ export const DE_TOURS: Record<string, TourT> = {
    "Flugpreis"
   ]
  },
+ "taj-mahal-transfers-full-day-tour": {
+  "title": "Von Delhi aus: private Taj Mahal und Agra Tagestour mit Transfers (ab 45,92 $)",
+  "metaTitle": "Delhi-Agra: private Tagestour mit Transfers",
+  "metaDescription": "Spüren Sie die Magie des Taj Mahal beim Sonnenaufgang, mit einem lokalen Guide, der seine Liebesgeschichte erzählt.",
+  "shortDescription": "Spüren Sie die Magie des Taj Mahal beim Sonnenaufgang, mit einem lokalen Guide, der seine Liebesgeschichte erzählt.",
+  "fullDescription": "Beginnen Sie Ihre Tour mit der Abholung von Ihrem Hotel/Flughafen in Delhi/Noida/Gurugram, und fahren Sie nach Agra ab. Treffen Sie Ihren privaten Guide bei der Ankunft in Agra, und besuchen Sie das Taj Mahal, ein UNESCO-Weltkulturerbe und lebendiges Denkmal, das still die Liebe des legendären Mogulkaisers Shah Jahan zu seiner geliebten Frau Mumtaz Mahal flüstert.\n\nWeiter geht es zum zweiten UNESCO-Weltkulturerbe, dem Agra Fort. Die imposante Festung aus rotem Sandstein wurde von Kaiser Akbar im Jahr 1565 n. Chr. erbaut und kombiniert hinduistische und zentralasiatische Architekturstile.\n\nMachen Sie dann eine Mittagspause in einem 5-Sterne-Hotel, und genießen Sie eine köstliche Mahlzeit mit lokalen und internationalen Aromen.\n\nNach dem Mittagessen geht es weiter zum wunderbaren Mausoleum von Itmad-Ud-Daulah, auch bekannt als Baby Taj. Diese reine Marmorstruktur wurde von Noor Jahan für ihren Vater erbaut. Diese Tour ist ab 45,92 $ verfügbar. Ihre Tour endet mit einer Rückreise zu Ihrem Hotel/Flughafen oder gewünschten Ort in Delhi/Noida/Gurugram.",
+  "highlights": [
+   "Spüren Sie die Magie des Taj Mahal beim Sonnenaufgang, mit einem lokalen Guide, der seine Liebesgeschichte erzählt"
+  ],
+  "included": [
+   "Transport im privaten klimatisierten Auto",
+   "Abholung und Rückbringung zum Hotel",
+   "Privater Live-Reiseführer",
+   "Eintrittsgebühren zu den Denkmälern (falls ausgewählt)",
+   "Buffet-Mittagessen im 5-Sterne-Hotel (falls ausgewählt)",
+   "Wasser in Flaschen",
+   "Alle Steuern"
+  ],
+  "notIncluded": [
+   "Trinkgeld für Fahrer und Guide"
+  ]
+ },
+ "from-agra-2-days-1-night-ranthambore-tiger-safari": {
+  "title": "Von Agra aus: 2-tägige Tigersafari-Tour mit 1 Übernachtung in Ranthambore",
+  "metaTitle": "Agra-Ranthambore: Tigersafari in 2 Tagen",
+  "metaDescription": "Beginnen Sie eine aufregende 2-tägige Ranthambore-Tour: Reisen Sie von Agra nach Ranthambore mit dem Auto.",
+  "shortDescription": "Beginnen Sie eine aufregende 2-tägige Ranthambore-Tour: Reisen Sie von Agra nach Ranthambore mit dem Auto.",
+  "fullDescription": "**Tag 1: Agra nach Ranthambore, Nachmittags-Tigersafari**\n\nMorgens begeben Sie sich auf eine malerische 4- bis 5-stündige Reise von Agra nach Ranthambore. Bei der Ankunft an Ihrem Ziel checken Sie in Ihrem komfortablen Hotel ein und nehmen sich Zeit zum Entspannen. Genießen Sie ein köstliches Mittagessen im Hotel, das die Möglichkeit zum Auffrischen bietet. Wenn sich der Nachmittag nähert, bereiten Sie sich auf eine aufregende Begegnung mit der Tierwelt vor: eine Nachmittagssafari im berühmten Ranthambore-Nationalpark. Erkunden Sie die vielfältigen Landschaften des Parks und halten Sie Ausschau nach majestätischen Tigern, anmutigen Leoparden, scheuen Lippenbären, und anderer faszinierender Tierwelt. Tauchen Sie ein in die natürliche Schönheit und ungezähmte Wildnis des Parks. Nach der aufregenden Safari kehren Sie zu Ihrem Hotel zurück für ein üppiges Abendessen und eine friedliche Nachtruhe.\n\n**Tag 2: frühmorgendliche Safari, dann Rückkehr nach Agra**\n\nBeginnen Sie Ihren Tag früh vor Sonnenaufgang, wenn Sie zu einer frühmorgendlichen Safari im Ranthambore-Nationalpark aufbrechen. Wachen Sie zur ruhigen Schönheit des Waldes auf, genießen Sie ein herzhaftes Frühstück, und begeben Sie sich auf eine weitere unvergessliche Wildtier-Expedition. Erleben Sie den Charme des Waldes, wenn die ersten Lichtstrahlen die Lebensräume des Parks erhellen und seine Bewohner in ihrer natürlichen Umgebung zeigen. Halten Sie Ihre Kamera bereit, um atemberaubende Momente und Tierbegegnungen einzufangen. Nach der aufregenden Safari kehren Sie zum Hotel zurück für ein köstliches Frühstück. Wenn sich der Nachmittag nähert, verabschieden Sie sich von Ranthambore und beginnen Ihre Rückreise nach Agra. Bei der Ankunft am Abend schließen Sie Ihre unvergessliche Tour mit einer Absetzung an Ihrem Lieblingsort ab.",
+  "highlights": [
+   "Beginnen Sie eine aufregende 2-tägige Ranthambore-Tour: Reisen Sie von Agra nach Ranthambore mit dem Auto"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto für 2 Tage",
+   "Abhol- und Rückbringdienste von überall in Agra",
+   "Erfahrener Wald-Reiseführer für Safaris",
+   "2 Safaris im Ranthambore-Nationalpark per Canter",
+   "Unterbringung im 5-Sterne-Hotel (falls ausgewählt)",
+   "Unterbringung im 3-Sterne-Hotel (falls ausgewählt)",
+   "3 Mahlzeiten im Hotel (falls ausgewählt)",
+   "Kostenlose Wasserflasche",
+   "Alle Arten von Steuern",
+   "Kraftstoffzuschlag"
+  ],
+  "notIncluded": [
+   "Jegliche Art von Getränken",
+   "Gala-Abende, falls zutreffend, sind nicht in den Hotelkosten enthalten",
+   "Jegliche persönlichen Ausgaben",
+   "Trinkgeld und Zuwendungen für Guide und Fahrer"
+  ]
+ },
+ "agra-mahal-private-tour": {
+  "title": "Von Delhi aus: private Taj Mahal und Agra Tagestour mit 5-Sterne-Mittagessen",
+  "metaTitle": "Delhi-Agra: Taj Mahal privat, 5-Sterne-Mittagessen",
+  "metaDescription": "Erleben Sie die Schönheit des Taj Mahal beim Sonnenaufgang.",
+  "shortDescription": "Erleben Sie die Schönheit des Taj Mahal beim Sonnenaufgang.",
+  "fullDescription": "Erleben Sie eine der ikonischsten Reisen Indiens mit einer privaten Ganztagestour von Delhi nach Agra, gestaltet für Komfort, Effizienz, und unvergessliche Sehenswürdigkeiten. Reisend in einem privaten klimatisierten Auto, kombiniert dieser Reiseplan Erbe, Luxus, und Bequemlichkeit, alles an einem nahtlosen Tag.\n\nIhr Tag beginnt früh am Morgen mit einer Abholung von Ihrem Hotel oder Wohnsitz in Delhi. Machen Sie es sich in Ihrem privaten klimatisierten Auto bequem und genießen Sie eine reibungslose Fahrt über die Yamuna Expressway, eine der besten Autobahnen Indiens, die eine schnelle und komfortable Reise nach Agra gewährleistet. Die frühe Abfahrt ermöglicht es Ihnen, Agra gerade rechtzeitig zu erreichen, um den magischen Sonnenaufgang über dem Taj Mahal zu erleben.\n\nWenn die ersten Sonnenstrahlen den weißen Marmor berühren, zeigt das Taj Mahal seine bezauberndste Form: sanfte Gold- und Rosatöne spiegeln sich auf seiner Oberfläche und schaffen eine surreale und friedliche Atmosphäre. Mit weniger Menschenmassen zu dieser Stunde können Sie die Schönheit, Symmetrie, und emotionale Tiefe dieses Weltwunders wirklich schätzen, während Ihr Guide die zeitlose Liebesgeschichte hinter seiner Entstehung erzählt.\n\nNach der Erkundung des Taj Mahal geht es weiter zu einem luxuriösen 5-Sterne-Hotel oder Restaurant in Agra für ein üppiges Frühstück (falls Option gewählt/ausgewählt). Genießen Sie eine breite Auswahl an indischer und internationaler Küche in einem eleganten Ambiente, das die perfekte Pause zum Entspannen und Erfrischen bietet.\n\nAls Nächstes setzen Sie Ihre Reise zum Agra Fort fort, einem UNESCO-Weltkulturerbe und einem Meisterwerk der Mogul-Architektur. Spazieren Sie durch seine grandiosen Höfe, Paläste, und Hallen, während Sie mehr über die mächtigen Kaiser erfahren, die hier einst residierten. Die Festung bietet auch atemberaubende Ausblicke auf das Taj Mahal aus der Ferne, was Ihrem Erlebnis eine weitere Ebene hinzufügt.\n\nIhre Tour führt Sie dann zum schönen Mausoleum von Itimad-ud-Daulah, oft als \"Baby Taj\" bezeichnet. Dieses exquisite Marmor-Mausoleum gilt als Entwurf des Taj Mahal, mit kunstvollen Einlegearbeiten und zarten Schnitzereien. Seine friedlichen Gärten und raffinierte Architektur bieten ein ruhigeres, ebenso faszinierendes Erlebnis.\n\nNach Abschluss Ihrer Besichtigung beginnen Sie Ihre Rückreise nach Delhi über die Yamuna Expressway. Entspannen Sie sich in Ihrem privaten klimatisierten Auto, während Sie über einen Tag voller Geschichte, Schönheit, und Luxus nachdenken. Sie werden am Abend an Ihrem bevorzugten Ort in Delhi, Noida, Gurugram abgesetzt und schließen damit eine perfekt gestaltete Agra-Tagestour ab.\n\nDiese private Autotour bietet eine Mischung aus Komfort, kultureller Reichhaltigkeit, und erstklassigen Erlebnissen, ideal für Reisende, die Agras Highlights erkunden möchten, ohne auf Qualität oder Bequemlichkeit zu verzichten.\nHinweis: Nur für die Agra-Tour (Option mit Abholung von Agra) beträgt die Dauer lediglich 5 Stunden.",
+  "highlights": [
+   "Erleben Sie die Schönheit des Taj Mahal beim Sonnenaufgang"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel/Flughafen",
+   "Live-Reiseführer",
+   "Transport im klimatisierten Fahrzeug",
+   "Eintrittsgebühren zu den Denkmälern (falls ausgewählt)",
+   "Frühstück im 5-Sterne-Hotel (falls ausgewählt)",
+   "Mineralwasserflaschen",
+   "Alle Steuern und Gebühren",
+   "Abholung von überall in Delhi, Noida, Gurugram, Faridabad, Ghaziabad"
+  ],
+  "notIncluded": [
+   "Jegliche Art von Getränken",
+   "Trinkgeld und Zuwendungen"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
