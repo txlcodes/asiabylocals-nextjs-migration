@@ -26650,6 +26650,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Billets d'entrée aux monuments\nDéjeuner, dîner et autres boissons\nDépenses personnelles\nPourboires pour le guide et le chauffeur"
   ]
  },
+ "from-delhi-ranthambore-wildlife-safari-tour-with": {
+  "title": "Depuis Delhi : safari animalier à Ranthambore avec transferts",
+  "metaTitle": "Depuis Delhi : safari animalier à Ranthambore avec transferts",
+  "metaDescription": "Repérez des tigres et la faune lors d'un safari guidé dans le parc national de Ranthambore depuis Delhi.",
+  "shortDescription": "Repérez des tigres et la faune lors d'un safari guidé dans le parc national de Ranthambore.",
+  "fullDescription": "Depuis Delhi : safari animalier à Ranthambore avec transferts. Repérez des tigres et la faune lors d'un safari guidé dans le parc national de Ranthambore.\n\nProfitez d'un voyage fluide et passionnant de Delhi à Ranthambore, l'un des parcs nationaux les plus célèbres d'Inde, connu pour ses tigres royaux du Bengale et ses paysages magnifiques. Votre aventure commence par une prise en charge confortable à votre hôtel à Delhi, suivie d'un trajet relaxant vers Ranthambore.\n\nÀ l'arrivée, préparez-vous pour votre palpitant safari animalier dans le parc national de Ranthambore. Avec un guide naturaliste expérimenté, vous explorerez la jungle à bord d'une Gypsy ou d'un Canter ouverts, à la recherche de tigres, léopards, ours lippus, cerfs, crocodiles et une grande variété d'oiseaux. Les ruines anciennes, les lacs et la forêt dense du parc créent un cadre parfait pour la photographie animalière.\n\nEn traversant les différentes zones du parc, votre guide partagera des anecdotes simples et intéressantes sur les animaux, leur comportement et l'histoire du parc. Chaque instant du safari est palpitant alors que vous cherchez le majestueux tigre dans son habitat naturel.\n\nAprès le safari, profitez d'un peu de temps libre pour vous détendre ou explorer les environs paisibles de Ranthambore avant de commencer votre retour vers Delhi. Le circuit se termine par une dépose confortable à votre hôtel, vous laissant des souvenirs inoubliables de la faune indienne.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel à Delhi\n- Voiture/transfert climatisé privé aller-retour\n- Safari dans le parc national de Ranthambore (Gypsy ou Canter)\n- Guide naturaliste/animalier professionnel\n- Tous les frais de stationnement, carburant et péage\n- Eau en bouteille\n- Frais d'entrée du safari\n\n### Non inclus\n\n- Dépenses personnelles\n- Repas\n- Pourboires",
+  "highlights": [
+   "Repérez des tigres et la faune lors d'un safari guidé dans le parc national de Ranthambore"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel à Delhi\nVoiture/transfert climatisé privé aller-retour\nSafari dans le parc national de Ranthambore (Gypsy ou Canter)\nGuide naturaliste/animalier professionnel\nTous les frais de stationnement, carburant et péage\nEau en bouteille\nFrais d'entrée du safari"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles\nRepas\nPourboires"
+  ]
+ },
+ "old-delhi-street-food-tour": {
+  "title": "Circuit street food à Old Delhi",
+  "metaTitle": "Circuit street food à Old Delhi",
+  "metaDescription": "Circuit street food à Delhi.",
+  "shortDescription": "circuit street food à Delhi",
+  "fullDescription": "Circuit street food à Old Delhi. circuit street food à Delhi.\n\nVous goûterez l'une des meilleures et des plus célèbres street food de Delhi. Plongez dans les ruelles animées, en savourant des incontournables comme les croustillants golgappas (panipuri), le poulet frit, le chaat, le shahid tukda, les kebabs, le matka dosa, le dahi bhalla, le chicken changezi et bien d'autres encore.\n\nVous pouvez goûter la diversité des plats que Delhi a à offrir :\n\nGolgappas croustillants (Panipuri)\nPoulet frit\nChaat épicé\nShahid Tukda\nKebab\nDosa\nDahi Bhalle\nBiryani\nPoulet Tikka au beurre\nShahi Tukda fourré à la mangue\nGlace aux fruits\nChole Kulche\nLassi\nChaat de fruits\nWrap de shawarma au poulet\net bien d'autres encore,\n\nVous pouvez choisir les plats pendant le circuit selon votre convenance.\n\n### Ce qui est inclus\n\n- Guide professionnel\n- Eau en bouteille\n\n### Non inclus\n\n- Coût de la nourriture\n- Tout autre achat, etc.",
+  "highlights": [
+   "circuit street food à Delhi"
+  ],
+  "included": [
+   "Guide professionnel\nEau en bouteille"
+  ],
+  "notIncluded": [
+   "Coût de la nourriture\nTout autre achat, etc."
+  ]
+ },
+ "4-day-panna-tiger-reserve-khajuraho-tour-from": {
+  "title": "Circuit de 4 jours réserve de tigres de Panna et Khajuraho depuis Delhi",
+  "metaTitle": "Circuit de 4 jours réserve de tigres de Panna et Khajuraho",
+  "metaDescription": "Circuit de 4 jours entre la réserve de tigres de Panna et Khajuraho depuis Delhi, assistance 24h/24 et 7j/7.",
+  "shortDescription": "Nous offrons une assistance client 24h/24 et 7j/7",
+  "fullDescription": "Circuit de 4 jours réserve de tigres de Panna et Khajuraho depuis Delhi. Nous offrons une assistance client 24h/24 et 7j/7.\n\nJour 1 : Delhi à Khajuraho\nMatin :\n06h00 : arrivée à la gare de New Delhi.\n06h20 : embarquement dans le Vande Bharat Express pour Khajuraho.\nAprès-midi :\n14h40 : arrivée à la gare de Khajuraho.\n15h00 : transfert à votre hôtel pour l'enregistrement et la détente.\nSoir :\n17h30 : visite du groupe de temples de Khajuraho, classé à l'UNESCO, connu pour ses sculptures complexes et son architecture impressionnante.\n19h30 : profitez du spectacle son et lumière au groupe occidental des temples, racontant l'histoire de Khajuraho.\nNuitée : hôtel à Khajuraho.\n\nJour 2 : Khajuraho - Réserve de tigres de Panna\nMatin :\n06h00 : petit-déjeuner matinal à l'hôtel.\n07h00 : départ pour la réserve de tigres de Panna (45 minutes de trajet).\n08h00 : début de votre safari matinal, exploration de paysages luxuriants et observation de tigres du Bengale, léopards et diverses espèces d'oiseaux.\nAprès-midi :\n15h00 : départ pour un safari l'après-midi pour d'autres rencontres animalières.\nSoir :\n18h30 : retour à votre resort pour vous détendre.\nNuitée : resort près de la réserve de tigres de Panna.\n\nJour 3 : Réserve de tigres de Panna - Khajuraho\nMatin :\n07h00 : petit-déjeuner au resort.\n08h00 : visite des chutes de Pandav et de la rivière Ken pour des vues à couper le souffle et la tranquillité.\nAprès-midi :\n12h00 : retour à Khajuraho et enregistrement à l'hôtel.\n14h30 : visite du groupe oriental des temples de Khajuraho, moins fréquenté.\nSoir :\n16h30 : option de visiter le fort d'Ajaigarh ou les chutes de Raneh pour des vues panoramiques magnifiques.\n20h30 : temps libre pour explorer les marchés locaux de Khajuraho.\nNuitée : hôtel à Khajuraho.\n\nJour 4 : Khajuraho - Delhi\nMatin :\n07h00 : petit-déjeuner à l'hôtel.\n08h00 : temps libre pour explorer Khajuraho ou visiter le musée archéologique.\n10h00 : départ de l'hôtel.\n11h00 : transfert à la gare de Khajuraho.\nAprès-midi :\n14h15 : embarquement dans le Vande Bharat Express pour Delhi.\nSoir :\n21h15 : arrivée à la gare de New Delhi.\n21h30 : transfert vers le lieu de votre choix à Delhi.\n\n### Ce qui est inclus\n\n- Billets de train Vande Bharat Express (Delhi-Khajuraho-Delhi)\n- 2 nuits d'hébergement à Khajuraho (options d'hôtel 3 ou 4 étoiles disponibles) (selon l'option de circuit)\n- 1 nuit d'hébergement dans un resort près de la réserve de tigres de Panna (selon l'option de circuit)\n- Deux safaris en jeep à la réserve de tigres de Panna\n- Transport : voiture privée avec chauffeur pour tout le voyage\n- Frais d'entrée aux monuments et au parc national (selon l'option de circuit)\n- Spectacle son et lumière à Khajuraho (selon l'option de circuit)\n- Services d'un guide professionnel anglophone\n- Eau en bouteille pendant le trajet en voiture\n- Toutes les taxes et frais de service applicables\n- Assistance tout au long du circuit 24h/24 et 7j/7\n- WIFI à bord",
+  "highlights": [
+   "Nous offrons une assistance client 24h/24 et 7j/7"
+  ],
+  "included": [
+   "Billets de train Vande Bharat Express (Delhi-Khajuraho-Delhi).\n2 nuits d'hébergement à Khajuraho (options d'hôtel 3 ou 4 étoiles disponibles).(selon l'option de circuit)\n1 nuit d'hébergement dans un resort près de la réserve de tigres de Panna.(selon l'option de circuit)\nDeux safaris en jeep à la réserve de tigres de Panna.\nTransport : voiture privée avec chauffeur pour tout le voyage.\nFrais d'entrée aux monuments et au parc national.(selon l'option de circuit)\nSpectacle son et lumière à Khajuraho.(selon l'option de circuit)\nServices d'un guide professionnel anglophone.\nEau en bouteille pendant le trajet en voiture.\nToutes les taxes et frais de service applicables.\nAssistance tout au long du circuit 24h/24 et 7j/7\nWIFI à bord."
+  ],
+  "notIncluded": [
+   "Dépenses personnelles : toute dépense personnelle telle que pourboires, souvenirs, repas ou boissons supplémentaires, et shopping.\nActivités optionnelles\nPourboires : pourboires pour le guide, le chauffeur ou le personnel de l'hôtel.\nRepas : déjeuner et dîner."
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
