@@ -25412,6 +25412,73 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas y gratificaciones"
   ]
  },
+ "delhi-heritage-shopping-tour-with-artisan": {
+  "title": "Delhi: tour de compras patrimonial con talleres de artesanos",
+  "metaTitle": "Delhi: compras patrimoniales, artesanos",
+  "metaDescription": "Descubre el mundo del diseño artesanal en un tour privado por Delhi",
+  "shortDescription": "Descubre el mundo del diseño artesanal en un tour privado por Delhi",
+  "fullDescription": "Delhi: tour de compras patrimonial con talleres de artesanos. Descubre el mundo del diseño artesanal en un tour privado por Delhi.\n\nDescubre el mundo del diseño artesanal de lujo de Delhi en una experiencia privada exclusiva que conecta la moda patrimonial con las compras de lujo modernas. A diferencia de los tours típicos basados en mercados, este recorrido cuidadosamente diseñado ofrece acceso a talleres de artesanos solo por invitación, donde maestros artesanos crean los textiles, joyas, y trajes de boda más exclusivos de la India, vistos en desfiles de moda de lujo y bodas de Bollywood.\n\nTu guía profesional te llevará a estudios patrimoniales ocultos, especializados en intrincado bordado a mano (zardozi), tejido de brocado real, pashmina puro, joyería de piedras preciosas naturales, y estampado en bloque a mano.\n\nParticipa en un mini taller, aprende antiguas técnicas de diseño, y crea un recuerdo personalizado. Después del taller, disfruta de oportunidades de compra premium, sin presión de regateo, directamente de los creadores.\n\nIdeal para compradores de bodas de destino, viajeros de lujo, estudiantes de moda, amantes del arte, y compradores de regalos seleccionados.\n\n**Qué incluye**\nCoche privado con aire acondicionado con recogida en el hotel\nGuía cultural experto\nTaller práctico\nVisita a barrios artesanales históricos\nCompras artesanales de lujo\nAcceso tras bambalinas a las salas de producción de los diseñadores\nSesión de fotos gratuita en un entorno de estudio patrimonial\nBebida y tentempié de bienvenida tradicionales\n\n**No incluye**\nComidas\nGastos personales\nPropinas",
+  "highlights": [
+   "Descubre el mundo del diseño artesanal en un tour privado por Delhi"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado con recogida en el hotel",
+   "Guía cultural experto",
+   "Taller práctico",
+   "Visita a barrios artesanales históricos",
+   "Compras artesanales de lujo",
+   "Acceso tras bambalinas a las salas de producción de los diseñadores",
+   "Sesión de fotos gratuita en un entorno de estudio patrimonial",
+   "Bebida y tentempié de bienvenida tradicionales"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "from-delhi-private-2-day-golden-triangle-agra": {
+  "title": "Desde Delhi: tour privado del Triángulo de Oro de 2 días, Agra y Jaipur",
+  "metaTitle": "Delhi: Triángulo de Oro privado 2 días, Agra-Jaipur",
+  "metaDescription": "Disfruta de los servicios de un chófer privado y un vehículo con aire acondicionado",
+  "shortDescription": "Disfruta de los servicios de un chófer privado y un vehículo con aire acondicionado",
+  "fullDescription": "Desde Delhi: tour privado del Triángulo de Oro de 2 días, Agra y Jaipur. Disfruta de los servicios de un chófer privado y un vehículo con aire acondicionado.\n\nSerás recogido en tu hotel, aeropuerto, o cualquier lugar deseado en Delhi, Noida, o Gurgaon. Tras la recogida, continúa hacia Agra en un trayecto de aproximadamente 3 horas por la autopista Yamuna. Al llegar a Agra, visita el Taj Mahal y el Fuerte de Agra.\n\nDisfruta de un tour guiado dentro del Taj Mahal durante aproximadamente dos horas. Es un monumento de mármol marfil construido por el emperador Shah Jahan en 1632. Alberga la tumba del emperador y la de su amada esposa, Mumtaz. El Taj Mahal fue designado Patrimonio de la Humanidad de la UNESCO como la joya del arte musulmán en la India.\n\nDisfruta de un tour guiado por el Fuerte de Agra durante 1 hora; es Patrimonio de la Humanidad de la UNESCO, y puede describirse con mayor precisión como una ciudad amurallada. Es el único fuerte de la India donde vivieron todos los primeros emperadores mogoles.\n\nDespués del Fuerte de Agra, viaje hacia la ciudad de Jaipur para pasar la noche en Jaipur.\n\n**Día 2.** Después del desayuno, disfruta de un tour guiado por la ciudad de Jaipur visitando un pozo escalonado histórico y un sistema de captación de agua de lluvia, conocido por sus pintorescas escaleras simétricas.\nEl Jal Mahal es un palacio situado en el centro del lago Man Sagar, que le da el nombre de «Palacio del Agua». Fue construido por el Maharajá Jai Singh II en el siglo 18. Tanto el lago como el palacio ofrecen una vista encantadora a los turistas.\n\nEl City Palace fue establecido por el Maharajá Sawai Jai Singh II al mismo tiempo que fundó Jaipur. Hasta entonces, era la sede administrativa y ceremonial del Maharajá de Jaipur, así como el lugar de todos los eventos culturales y religiosos.\n\nEl Hawa Mahal es un palacio único de cinco pisos con 953 pequeñas ventanas llamadas Jharokhas, con intrincado enrejado, que le dan el nombre de «Palacio de los Vientos» o «Palacio de la Brisa». Fue construido por el Maharajá Sawai Pratap Singh en 1799. Si deseas detenerte en el Hawa Mahal, puedes decírselo a tu guía, que estará encantado de hacerlo. Después de eso, viajarás de regreso a Delhi, y te dejarán en el aeropuerto, la estación de tren, tu hotel, u otro lugar deseado en Delhi, Noida, o Gurugram, o, si lo deseas, elige que te dejen en el aeropuerto de Jaipur o de Delhi, según tu preferencia.\n\n**Qué incluye**\nRecogida y regreso al hotel o aeropuerto\nHotel en Jaipur con desayuno (si se selecciona esta opción)\nTransporte en vehículo privado con aire acondicionado y chófer\nGuía turístico privado en Agra y Jaipur\nBotellas de agua mineral durante los trayectos\nEntrada (si se selecciona esta opción)\n\n**No incluye**\nPropinas para el chófer",
+  "highlights": [
+   "Disfruta de los servicios de un chófer privado y un vehículo con aire acondicionado"
+  ],
+  "included": [
+   "Recogida y regreso al hotel o aeropuerto",
+   "Hotel en Jaipur con desayuno (si se selecciona esta opción)",
+   "Transporte en vehículo privado con aire acondicionado y chófer",
+   "Guía turístico privado en Agra y Jaipur",
+   "Botellas de agua mineral durante los trayectos",
+   "Entrada (si se selecciona esta opción)"
+  ],
+  "notIncluded": [
+   "Propinas para el chófer"
+  ]
+ },
+ "delhi-old-delhi-city-street-food-tour": {
+  "title": "Delhi: tour de street food por la ciudad del Viejo Delhi",
+  "metaTitle": "Delhi: Viejo Delhi, street food",
+  "metaDescription": "Delhi: tour de street food por la ciudad del Viejo Delhi.",
+  "shortDescription": "Delhi: tour de street food por la ciudad del Viejo Delhi.",
+  "fullDescription": "Delhi: tour de street food por la ciudad del Viejo Delhi.\n\nExperimenta el vibrante encanto del Viejo Delhi en un tour guiado en tuk-tuk combinado con auténticas degustaciones de street food. Viaja por bulliciosos mercados, barrios históricos, y lugares emblemáticos culturales, mientras descubres la rica historia, tradiciones, y famosos sabores locales de la ciudad.\n\n**Itinerario: recogida desde Nueva Delhi (hotel/lugar preferido)**\nComienza tu viaje con una cómoda recogida en tu hotel o lugar elegido en Nueva Delhi.\n\n**1. Jama Masjid**\nComienza tu viaje en la magnífica Jama Masjid, una de las mezquitas más grandes de la India. Admira su impresionante arquitectura mogol, y aprende sobre su importancia histórica mientras disfrutas de las vistas del animado entorno del Viejo Delhi.\n\n**2. Paseo en tuk-tuk por Chandni Chowk**\nContinúa con un emocionante paseo en tuk-tuk por los estrechos callejones de Chandni Chowk. Mientras navegas por las bulliciosas calles, experimenta las vistas, sonidos, y la vida cotidiana de uno de los mercados más antiguos y famosos de Delhi.\n\n**3. Mercado de especias Khari Baoli**\nVisita Khari Baoli, el mercado mayorista de especias más grande de Asia. Camina por coloridos callejones llenos de especias aromáticas, hierbas, frutos secos, y frutas deshidratadas, mientras aprendes sobre su importancia en la cocina y cultura indias.\n\n**4. Street food del Viejo Delhi (si se selecciona esta opción)**\nDescubre el corazón culinario del Viejo Delhi probando una variedad de auténticas comidas callejeras de vendedores locales cuidadosamente seleccionados. Según disponibilidad, podrás probar favoritos populares como chaat, samosas, kachori, paratha, lassi, y dulces indios tradicionales mientras aprendes sobre sus orígenes y preparación.\n\n**5. Gurudwara Sis Ganj Sahib**\nVisita el histórico Gurudwara Sis Ganj Sahib, uno de los templos sijs más importantes de Delhi. Aprende sobre las tradiciones sijs, el servicio comunitario, y el importante papel del templo en la historia de la ciudad mientras experimentas su ambiente pacífico.\n\n**6. Kinari Bazaar**\nPasea por los coloridos callejones de Kinari Bazaar, famoso por sus decoraciones de boda, telas, joyería, y artesanía tradicional. Este animado mercado ofrece un fascinante vistazo al comercio y la cultura local.\n\n**Regreso al hotel**\nRelájate durante el trayecto de regreso a tu hotel.\n\n**Qué incluye**\nRecogida y regreso al hotel\nCoche privado con aire acondicionado\nGuía turístico profesional\nPaseo en rickshaw\nStreet food india (si se selecciona esta opción)\nTé masala y de especias indio\nBotella de agua\nTodos los impuestos y estacionamiento",
+  "highlights": [
+   "Experimenta la emoción de un paseo en rickshaw por los estrechos callejones"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Coche privado con aire acondicionado",
+   "Guía turístico profesional",
+   "Paseo en rickshaw",
+   "Street food india (si se selecciona esta opción)",
+   "Té masala y de especias indio",
+   "Botella de agua",
+   "Todos los impuestos y estacionamiento"
+  ],
+  "notIncluded": []
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
