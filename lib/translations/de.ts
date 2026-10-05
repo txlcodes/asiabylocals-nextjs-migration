@@ -27222,6 +27222,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mittagessen\nGetränke zu den Mahlzeiten\nPersönliche Ausgaben"
   ]
  },
+ "delhi-6-day-golden-triangle-delhi-agra-and-jaipur-tour": {
+  "title": "Delhi: 6-tägige Goldenes-Dreieck-Tour Delhi, Agra und Jaipur (ab 255,69 $)",
+  "metaTitle": "Delhi: 6-tägige Goldenes-Dreieck-Tour (ab 255,69 $)",
+  "metaDescription": "Erkunden Sie drei große Städte, Delhi, Agra und Jaipur, bei dieser 6-tägigen Goldenes-Dreieck-Tour im privaten Fahrzeug.",
+  "shortDescription": "Erkunden Sie drei große Städte: Delhi, Agra und Jaipur",
+  "fullDescription": "Delhi: 6-tägige Goldenes-Dreieck-Tour Delhi, Agra und Jaipur (ab 255,69 $). Erkunden Sie drei große Städte, Delhi, Agra und Jaipur.\n\nEntspannen Sie sich im Komfort eines privaten klimatisierten Fahrzeugs zwischen Delhi, Agra und Jaipur, mit einem Reiseführer in jeder Stadt. Diese 6-tägige Goldenes-Dreieck-Tour gibt Ihnen die Gelegenheit, in die lokale Kultur einzutauchen.\n\n### Inklusive\n\n- Private Tour\n- Abholung und Rückfahrt an Hotels, Flughafen oder Bahnhof\n- Transport im privaten, klimatisierten Fahrzeug\n- Einschließlich aller Kosten für Kraftstoff, Fahrerzulagen, Mautgebühren, Parken, Fahrerverpflegung, Fahrzeugversicherung, Nachthalt\n- 5 Übernachtungen im Hotel mit Frühstück (falls Option gewählt)\n- Alle Besichtigungen mit privaten lokalen Führern\n- Flaschen Mineralwasser während der Reisen\n\n### Nicht inklusive\n\n- Eintrittsgebühren für Denkmäler\n- Kameragebühren an Denkmälern\n- Trinkgelder (optional)\n- Reiseversicherung und Flug- und Zugtickets\n- Medizinische Versorgung\n- Mittag- und Abendessen\n- Trinkgeld für Fahrer und Führer\n- Persönliche Ausgaben wie Telefonanrufe, Tablets, Getränke usw.\n- Alles, was nicht in den Einschlüssen erwähnt ist",
+  "highlights": [
+   "Erkunden Sie drei große Städte: Delhi, Agra und Jaipur"
+  ],
+  "included": [
+   "Private Tour\nAbholung und Rückfahrt an Hotels, Flughafen oder Bahnhof\nTransport im privaten, klimatisierten Fahrzeug\nEinschließlich aller Kosten für Kraftstoff, Fahrerzulagen, Mautgebühren, Parken, Fahrerverpflegung, Fahrzeugversicherung, Nachthalt\n5 Übernachtungen im Hotel mit Frühstück (falls Option gewählt)\nAlle Besichtigungen mit privaten lokalen Führern\nFlaschen Mineralwasser während der Reisen"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren für Denkmäler\nKameragebühren an Denkmälern\nTrinkgelder (optional)\nReiseversicherung und Flug- und Zugtickets\nMedizinische Versorgung\nMittag- und Abendessen\nTrinkgeld für Fahrer und Führer\nPersönliche Ausgaben wie Telefonanrufe, Tablets, Getränke usw.\nAlles, was nicht in den Einschlüssen erwähnt ist"
+  ]
+ },
+ "2-day-ranthambore-sariska-wildlife-safari-from": {
+  "title": "2-tägige Wildtier-Safari in Ranthambore und Sariska ab Delhi",
+  "metaTitle": "2-tägige Wildtier-Safari Ranthambore und Sariska",
+  "metaDescription": "2-tägige Wildtier-Safari in Ranthambore und Sariska ab Delhi, mit Unterstützung rund um die Uhr an 24 Stunden und 7 Tagen.",
+  "shortDescription": "Wir bieten 24/7-Kundensupport.",
+  "fullDescription": "2-tägige Wildtier-Safari in Ranthambore und Sariska ab Delhi. Wir bieten 24/7-Kundensupport.\n\n### Inklusive\n\n- Unterkunft: 1 Übernachtung in 4-Sterne-Hotels (nur mit Tour-Option)\n- Mahlzeiten: tägliches Frühstück im Hotel (nur mit Tour-Option)\n- Transport: klimatisiertes Fahrzeug für alle Transfers und Besichtigungen\n- Geführte Touren: lokale englischsprachige Führer für die wichtigsten Besichtigungen\n- Eintrittsgebühren: Eintrittsgebühren für Denkmäler und Attraktionen (nur mit Tour-Option)\n- Tiger-Safaris in geteiltem Jeep/Canter für die Safari (Fahrzeug je nach Verfügbarkeit)\n- Alle anfallenden Steuern und Servicegebühren\n- Betreuung während der gesamten Tour 24/7\n- Wasserflasche wird während der Reise bereitgestellt\n- WLAN an Bord\n\n### Nicht inklusive\n\n- Persönliche Ausgaben: jegliche persönlichen Ausgaben wie Trinkgelder, Souvenirs, zusätzliche Mahlzeiten oder Getränke und Einkäufe\n- Optionale Aktivitäten\n- Trinkgelder: Trinkgelder für Führer, Fahrer oder Hotelpersonal\n- Mahlzeiten: Mittag- und Abendessen",
+  "highlights": [
+   "Wir bieten 24/7-Kundensupport"
+  ],
+  "included": [
+   "Unterkunft: 1 Übernachtung in 4-Sterne-Hotels (nur mit Tour-Option)\nMahlzeiten: tägliches Frühstück im Hotel (nur mit Tour-Option)\nTransport: klimatisiertes Fahrzeug für alle Transfers und Besichtigungen\nGeführte Touren: lokale englischsprachige Führer für die wichtigsten Besichtigungen\nEintrittsgebühren: Eintrittsgebühren für Denkmäler und Attraktionen (nur mit Tour-Option)\nTiger-Safaris in geteiltem Jeep/Canter für die Safari (Fahrzeug je nach Verfügbarkeit)\nAlle anfallenden Steuern und Servicegebühren\nBetreuung während der gesamten Tour 24/7\nWasserflasche wird während der Reise bereitgestellt\nWLAN an Bord"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben: jegliche persönlichen Ausgaben wie Trinkgelder, Souvenirs, zusätzliche Mahlzeiten oder Getränke und Einkäufe\nOptionale Aktivitäten\nTrinkgelder: Trinkgelder für Führer, Fahrer oder Hotelpersonal\nMahlzeiten: Mittag- und Abendessen"
+  ]
+ },
+ "delhi-gandhi-smriti-museum-raj-ghat-private-tour": {
+  "title": "Delhi: privater Ausflug zu Gandhi Smriti, Museum und Raj Ghat",
+  "metaTitle": "Delhi: privater Ausflug Gandhi Smriti, Museum, Raj Ghat",
+  "metaDescription": "Betreten Sie Gandhi Smriti und verfolgen Sie die letzten 144 Tage von Gandhis Leben bei diesem privaten Ausflug in Delhi.",
+  "shortDescription": "Betreten Sie Gandhi Smriti und verfolgen Sie die letzten 144 Tage von Gandhis Leben",
+  "fullDescription": "Delhi: privater Ausflug zu Gandhi Smriti, Museum und Raj Ghat. Betreten Sie Gandhi Smriti und verfolgen Sie die letzten 144 Tage von Gandhis Leben.\n\nGehen Sie über eine normale Besichtigungstour hinaus und entdecken Sie Mahatma Gandhi durch die Orte, Gegenstände und Geschichten, die das letzte Kapitel seines Lebens prägten und sein Vermächtnis bis heute bewahren.\n\nDieses private geführte Erlebnis ist für Reisende konzipiert, die mehr als nur einen kurzen Besuch eines Denkmals wünschen. Mit einem sachkundigen lokalen Reiseführer und privatem klimatisiertem Transport gewinnen Sie ein tieferes Verständnis für Gandhis Leben, Philosophie, persönlichen Werdegang und Einfluss auf Indien und die Welt.\n\nBetreten Sie im Gandhi Smriti das ehemalige Birla House, in dem Gandhi die letzten 144 Tage seines Lebens verbrachte. Sehen Sie das erhaltene Zimmer, in dem er wohnte, den Gebetsplatz, historische Fotografien, persönliche Gegenstände und den Ort, der mit seinen letzten Momenten verbunden ist. Ihr Reiseführer gibt Kontext zu den Ereignissen, Ideen und Herausforderungen, die diese wichtige Periode seines Lebens prägten.\n\nEntdecken Sie eine weitere Seite seiner Geschichte im National Gandhi Museum, das wichtige Fotografien, Dokumente, persönliche Gegenstände, Bücher, Reliquien und Ausstellungen im Zusammenhang mit Gandhi und Indiens Unabhängigkeitsbewegung beherbergt. Anstatt nur Ausstellungen zu betrachten, erfahren Sie, wie diese Gegenstände mit seinen Prinzipien von Wahrheit, Gewaltlosigkeit, zivilem Widerstand, Einfachheit und sozialer Reform verbunden sind.\n\nNehmen Sie sich am Raj Ghat Zeit zur Besinnung am Denkmal Gandhis, während Ihr Reiseführer die Bedeutung des nationalen Gedenkens und das globale Erbe seiner Ideen erklärt.\n\nDa dies ein privates Erlebnis ist, kann die Tour gesprächsorientierter und persönlicher sein als ein Besuch in einer großen Gruppe. Stellen Sie Fragen, diskutieren Sie die Teile von Gandhis Leben, die Sie am meisten interessieren, und gewinnen Sie historischen Kontext, der bei einem unabhängigen Besuch leicht übersehen werden kann.\n\nAbholung und Rückfahrt vom Hotel, privater Transport und Führung werden organisiert, um das Erlebnis reibungslos und fokussiert zu gestalten.\n\nDies ist nicht einfach eine Tour zu drei Gandhi-Wahrzeichen, sondern eine geführte Reise durch sein Leben, seine letzten Tage, seine Ideen und sein bleibendes Vermächtnis.\n\n### Inklusive\n\n- Privates klimatisiertes Fahrzeug\n- Professioneller privater Fahrer\n- Privater lizenzierter Reiseführer\n- Abholung und Rückfahrt vom Hotel\n- Geführte Besuche von Gandhi Smriti, National Gandhi Museum und Raj Ghat\n- Wasser in Flaschen während der Tour\n- Kraftstoff, Parken, Mautgebühren und Fahrerzulagen\n- Alle anfallenden Transportsteuern\n\n### Nicht inklusive\n\n- Mahlzeiten und Getränke\n- Trinkgelder für Führer und Fahrer\n- Persönliche Ausgaben",
+  "highlights": [
+   "Betreten Sie Gandhi Smriti und verfolgen Sie die letzten 144 Tage von Gandhis Leben"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug\nProfessioneller privater Fahrer\nPrivater lizenzierter Reiseführer\nAbholung und Rückfahrt vom Hotel\nGeführte Besuche von Gandhi Smriti, National Gandhi Museum und Raj Ghat\nWasser in Flaschen während der Tour\nKraftstoff, Parken, Mautgebühren und Fahrerzulagen\nAlle anfallenden Transportsteuern"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getränke\nTrinkgelder für Führer und Fahrer\nPersönliche Ausgaben"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",
