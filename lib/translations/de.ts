@@ -22800,6 +22800,77 @@ export const DE_TOURS: Record<string, TourT> = {
    "Transport zum Veranstaltungsort"
   ]
  },
+ "delhi-exclusive-jaipur-same-day-tour-with-transfer": {
+  "title": "Delhi - exklusive Jaipur-Tagestour mit Transfer",
+  "metaTitle": "Delhi: exklusive Jaipur-Tour an einem Tag",
+  "metaDescription": "Das Amber-Fort war eine Wohnfestung für die königliche Familie.",
+  "shortDescription": "Das Amber-Fort war eine Wohnfestung für die königliche Familie.",
+  "fullDescription": "Delhi - exklusive Jaipur-Tagestour mit Transfer. Das Amber-Fort war eine Wohnfestung für die königliche Familie.\n\nHotelabholung von Delhi in einem privaten klimatisierten Auto.\nGenießen Sie eine bequeme, frühmorgendliche Fahrt mit einem gut ausgebildeten und erfahrenen Chauffeur.\n\nSobald Sie Jaipur erreichen, treffen Sie zunächst Ihren vom Tourismusministerium zugelassenen Expertenguide. Erkunden Sie dann die wunderschönen Sehenswürdigkeiten von Jaipur.\n\n**Reiseplan für Jaipur**\n\n1. Amber-Fort: erkunden Sie das Amber-Fort mit dem Auto. Private geführte Tour durch versteckte Innenhöfe und Spiegelsäle.\n\n2. Geheimtunnel und Ausblicke vom Hügel: erkunden Sie den weniger bekannten Fluchttunnel des Amber-Forts, der mit dem Jaigarh-Fort verbunden ist.\n\n3. Halten Sie am Lake Palace für einen Fotostopp.\n\n4. Dann können Sie im Restaurant, bekannt für verschiedene Küchen, zu Mittag essen.\n\n5. Besuchen Sie danach den berühmten City Palace, den Königspalast, von dem ein Teil in ein Museum umgewandelt wurde. Dort sehen Sie verschiedene Pavillons mit verschiedenen Objekten, die von den Königen der damaligen Zeit verwendet wurden. Sehen Sie eine Live-Vorführung des Turbanwickelns im City Palace.\n\n6. Ihr Guide wird auch am Hawa Mahal halten, einem berühmten Wahrzeichen von Jaipur, wo Sie ein schönes Foto von vorne machen können.\n\n7. Während Sie durch Jaipur fahren, sehen Sie überall farbenfrohe Märkte. Diese Stadt ist als Shopping-Paradies bekannt. Sie ist berühmt für Edelsteine, Schmuck, Textilien, blaue Keramik, usw. Sie können auch eine Werkstatt besuchen, in der Sie das Schneiden und Polieren von Edelsteinen durch die Kunsthandwerker beobachten können.\nDanach ist es Zeit, zurück nach Delhi zu fahren.\n\n**Was ist enthalten**\nAbholung und Rückfahrt am Ort\nKlimatisiertes Auto\nMautgebühren auf der Autobahn\nParken\nExpertenguide während der Besichtigungen",
+  "highlights": [
+   "Das Amber-Fort war eine Wohnfestung für die königliche Familie"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Ort",
+   "Klimatisiertes Auto",
+   "Mautgebühren auf der Autobahn",
+   "Parken",
+   "Expertenguide während der Besichtigungen"
+  ],
+  "notIncluded": [
+   "Mittagessen"
+  ]
+ },
+ "delhi-old-delhi-street-food-tour-tastings": {
+  "title": "Delhi: Street-Food-Tour und Verkostungen in Alt-Delhi",
+  "metaTitle": "Delhi: Street Food in Alt-Delhi",
+  "metaDescription": "Anpassbare kulinarische Wandertour durch Alt-Delhi.",
+  "shortDescription": "Anpassbare kulinarische Wandertour durch Alt-Delhi.",
+  "fullDescription": "Delhi: Street-Food-Tour und Verkostungen in Alt-Delhi. Anpassbare kulinarische Wandertour durch Alt-Delhi.\n\nEntdecken Sie das Herz und die Seele Delhis durch sein legendäres Street Food bei dieser anpassbaren kulinarischen Tour mit Transfer. Perfekt für Essensliebhaber und Kultursuchende, führt Sie diese geführte Wandertour durch belebte Basare, jahrhundertealte Straßen, und versteckte kulinarische Schätze, die Delhis kulinarisches Erbe ausmachen.\n\nBeginnen Sie Ihr Erlebnis mit einer bequemen Abholung und Rückfahrt von Ihrem Hotel, die eine reibungslose Reise gewährleistet. Sobald Sie in Delhi sind, gehen Sie durch historische Viertel in der Nähe von Chandni Chowk, wo Aromen von Gewürzen, Süßigkeiten, und brutzelnden Snacks die Luft erfüllen. Ihr örtlicher Guide passt die Tour an Ihre Vorlieben an, ob Sie vegetarische Optionen, ikonische Mughlai-Gerichte, oder berühmte örtliche Desserts wünschen.\n\nProbieren Sie authentische Favoriten wie Chaat, Parathas, Kebabs, Jalebis, und Lassi, während Sie mehr über die Geschichte, Traditionen, und Geschichten hinter jedem Gericht erfahren. Auf dem Weg erkunden Sie lebendige Märkte, antike Havelis, und Sehenswürdigkeiten, die Alt-Delhis reiche Vergangenheit zeigen.\n\nDiese kulinarische Wandertour durch Alt-Delhi ist ideal für Erstbesucher und wiederkehrende Reisende, die eine tiefere, persönlichere Erfahrung der Essensszene Delhis wünschen. Mit Anpassung, Expertenführung, und nahtlosen Transfers ist dies eine der besten Möglichkeiten, Delhis Street Food sicher und authentisch zu erleben.\n\n**Was ist enthalten**\nProfessioneller kulinarischer Expertenguide\nAbholung und Rückfahrt zum Hotel\nPrivates klimatisiertes Auto\nWasser in Flaschen\nVerkostungen an den besten Essensständen\nMahlzeiten oder Getränke\nEssensverkostung an den besten Orten\n\n**Nicht enthalten**\nMahlzeiten oder Getränke über die geplanten Verkostungen hinaus\nTrinkgelder oder Gratifikationen (optional)\nPersönliches Einkaufen oder zusätzliche Käufe",
+  "highlights": [
+   "Anpassbare kulinarische Wandertour durch Alt-Delhi"
+  ],
+  "included": [
+   "Professioneller kulinarischer Expertenguide",
+   "Abholung und Rückfahrt zum Hotel",
+   "Privates klimatisiertes Auto",
+   "Wasser in Flaschen",
+   "Verkostungen an den besten Essensständen",
+   "Mahlzeiten oder Getränke",
+   "Essensverkostung an den besten Orten"
+  ],
+  "notIncluded": [
+   "Mahlzeiten oder Getränke über die geplanten Verkostungen hinaus",
+   "Trinkgelder oder Gratifikationen (optional)",
+   "Persönliches Einkaufen oder zusätzliche Käufe"
+  ]
+ },
+ "from-new-delhi-2-day-ranthambore-tiger-safari": {
+  "title": "Ab New Delhi: 2-tägige Ranthambore-Tiger-Safari mit Transfers",
+  "metaTitle": "Delhi: Ranthambore-Tiger-Safari, 2 Tage",
+  "metaDescription": "Spüren Sie den Nervenkitzel, Tiger, Leoparden, und Lippenbären in ihrem Lebensraum zu entdecken.",
+  "shortDescription": "Spüren Sie den Nervenkitzel, Tiger, Leoparden, und Lippenbären in ihrem Lebensraum zu entdecken.",
+  "fullDescription": "Ab New Delhi: 2-tägige Ranthambore-Tiger-Safari mit Transfers. Spüren Sie den Nervenkitzel, Tiger, Leoparden, und Lippenbären in ihrem Lebensraum zu entdecken.\n\nBegeben Sie sich auf eine 2-tägige Tour von New Delhi zum Ranthambore-Nationalpark. Genießen Sie eine Safari, und entdecken Sie Tiger, Leoparden, und Lippenbären in ihrem natürlichen Lebensraum. Besuchen Sie das Ranthambore-Fort, und übernachten Sie in einem Hotel.\n\n**Was ist enthalten**\nKlimatisiertes Auto\nAbhol- und Rückfahrtservice\nExperten-Reiseführer für den Wald\n2 Safaris im Ranthambore-Nationalpark mit Canter\n4-Sterne-Hotelunterkunft (falls Option gewählt wird)\n3-Sterne-Hotelunterkunft (falls Option gewählt wird)\n3 Mahlzeiten werden im Hotel bereitgestellt (falls Option gewählt wird)\nWasserflasche als Gratiszugabe\nAlle Arten von Steuern\nTreibstoffzuschlag\n\n**Nicht enthalten**\nJegliche Art von Getränken\nJegliche persönliche Ausgaben\nTrinkgeld und Gratifikation für Guide und Fahrer",
+  "highlights": [
+   "Spüren Sie den Nervenkitzel, Tiger, Leoparden, und Lippenbären in ihrem Lebensraum zu entdecken"
+  ],
+  "included": [
+   "Klimatisiertes Auto",
+   "Abhol- und Rückfahrtservice",
+   "Experten-Reiseführer für den Wald",
+   "2 Safaris im Ranthambore-Nationalpark mit Canter",
+   "4-Sterne-Hotelunterkunft (falls Option gewählt wird)",
+   "3-Sterne-Hotelunterkunft (falls Option gewählt wird)",
+   "3 Mahlzeiten werden im Hotel bereitgestellt (falls Option gewählt wird)",
+   "Wasserflasche als Gratiszugabe",
+   "Alle Arten von Steuern",
+   "Treibstoffzuschlag"
+  ],
+  "notIncluded": [
+   "Jegliche Art von Getränken",
+   "Jegliche persönliche Ausgaben",
+   "Trinkgeld und Gratifikation für Guide und Fahrer"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

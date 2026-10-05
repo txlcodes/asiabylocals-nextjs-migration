@@ -22800,6 +22800,77 @@ export const FR_TOURS: Record<string, TourT> = {
    "Transport vers le lieu"
   ]
  },
+ "delhi-exclusive-jaipur-same-day-tour-with-transfer": {
+  "title": "Delhi - visite exclusive de Jaipur le jour même avec transfert",
+  "metaTitle": "Delhi : visite exclusive de Jaipur en une journée",
+  "metaDescription": "Le fort Amber était un fort résidentiel pour la famille royale.",
+  "shortDescription": "Le fort Amber était un fort résidentiel pour la famille royale.",
+  "fullDescription": "Delhi - visite exclusive de Jaipur le jour même avec transfert. Le fort Amber était un fort résidentiel pour la famille royale.\n\nPrise en charge à l'hôtel depuis Delhi dans une voiture privée climatisée.\nProfitez d'un trajet matinal confortable avec un chauffeur expert bien formé.\n\nUne fois à Jaipur, vous rencontrerez d'abord votre guide touristique expert, agréé par le ministère du Tourisme. Explorez ensuite les magnifiques sites de Jaipur.\n\n**Itinéraire de Jaipur**\n\n1. Fort Amber : explorez le fort Amber en voiture. Visite privée guidée des cours cachées et des salles aux miroirs.\n\n2. Tunnel secret et vues depuis le sommet de la colline : explorez le tunnel d'évasion moins connu du fort Amber, qui relie au fort Jaigarh.\n\n3. Faites un arrêt au Lake Palace pour un arrêt photo.\n\n4. Vous pourrez ensuite déjeuner dans le restaurant réputé pour ses différentes cuisines.\n\n5. Visitez ensuite le célèbre City Palace, le palais des rois, dont une partie a été transformée en musée. Vous y verrez différents pavillons présentant les objets utilisés par les rois de l'époque. Assistez à une démonstration en direct de nouage de turban au City Palace.\n\n6. Votre guide s'arrêtera également au Hawa Mahal, célèbre monument de Jaipur, où vous pourrez prendre une belle photo depuis l'avant.\n\n7. En roulant à travers Jaipur, vous verrez partout des marchés colorés. Cette ville est en effet connue comme un paradis du shopping. Elle est célèbre pour ses pierres précieuses, bijoux, textiles, poterie bleue, etc. Vous pouvez également visiter un atelier où vous pourrez observer la taille et le polissage des pierres précieuses par les artisans.\nAprès tout cela, il sera temps de reprendre la route vers Delhi.\n\n**Ce qui est inclus**\nPrise en charge et retour à l'emplacement\nVoiture climatisée\nPéage sur l'autoroute\nStationnement\nGuide touristique expert pendant les visites",
+  "highlights": [
+   "Le fort Amber était un fort résidentiel pour la famille royale"
+  ],
+  "included": [
+   "Prise en charge et retour à l'emplacement",
+   "Voiture climatisée",
+   "Péage sur l'autoroute",
+   "Stationnement",
+   "Guide touristique expert pendant les visites"
+  ],
+  "notIncluded": [
+   "Déjeuner"
+  ]
+ },
+ "delhi-old-delhi-street-food-tour-tastings": {
+  "title": "Delhi : visite de street food du Vieux Delhi et dégustations",
+  "metaTitle": "Delhi : street food du Vieux Delhi",
+  "metaDescription": "Visite culinaire à pied personnalisable dans le Vieux Delhi.",
+  "shortDescription": "Visite culinaire à pied personnalisable dans le Vieux Delhi.",
+  "fullDescription": "Delhi : visite de street food du Vieux Delhi et dégustations. Visite culinaire à pied personnalisable dans le Vieux Delhi.\n\nDécouvrez le cœur et l'âme de Delhi à travers sa légendaire street food lors de cette visite culinaire personnalisable avec transfert. Parfaite pour les amateurs de cuisine et les passionnés de culture, cette visite guidée à pied vous emmène à travers des bazars animés, des rues séculaires, et des joyaux culinaires cachés qui définissent le patrimoine gastronomique de Delhi.\n\nCommencez votre expérience par une prise en charge et un retour confortables depuis votre hôtel, assurant un voyage sans tracas. Une fois à Delhi, promenez-vous à travers des quartiers historiques près de Chandni Chowk, où les arômes d'épices, de sucreries, et d'en-cas grésillants remplissent l'air. Votre guide local adaptera la visite à vos préférences, que vous souhaitiez des options végétariennes, des plats mogols emblématiques, ou des desserts locaux célèbres.\n\nGoûtez des spécialités authentiques telles que le chaat, les parathas, les kebabs, les jalebis, et le lassi, tout en découvrant l'histoire, les traditions, et les récits derrière chaque plat. En chemin, explorez des marchés vibrants, d'anciennes havelis, et des monuments qui mettent en valeur le riche passé du Vieux Delhi.\n\nCette visite culinaire à pied du Vieux Delhi est idéale pour les primo-visiteurs et les voyageurs réguliers qui souhaitent une expérience plus profonde et personnelle de la scène gastronomique de Delhi. Avec personnalisation, encadrement expert, et transferts fluides, c'est l'une des meilleures façons de découvrir la street food de Delhi en toute sécurité et authenticité.\n\n**Ce qui est inclus**\nGuide expert culinaire professionnel\nPrise en charge et retour à l'hôtel\nVoiture privée climatisée\nEau en bouteille\nDégustations aux meilleurs étals culinaires\nRepas ou boissons\nDégustation culinaire dans les meilleurs endroits\n\n**Non inclus**\nRepas ou boissons au-delà des dégustations prévues\nPourboires ou gratifications (optionnels)\nShopping personnel ou achats supplémentaires",
+  "highlights": [
+   "Visite culinaire à pied personnalisable dans le Vieux Delhi"
+  ],
+  "included": [
+   "Guide expert culinaire professionnel",
+   "Prise en charge et retour à l'hôtel",
+   "Voiture privée climatisée",
+   "Eau en bouteille",
+   "Dégustations aux meilleurs étals culinaires",
+   "Repas ou boissons",
+   "Dégustation culinaire dans les meilleurs endroits"
+  ],
+  "notIncluded": [
+   "Repas ou boissons au-delà des dégustations prévues",
+   "Pourboires ou gratifications (optionnels)",
+   "Shopping personnel ou achats supplémentaires"
+  ]
+ },
+ "from-new-delhi-2-day-ranthambore-tiger-safari": {
+  "title": "Depuis New Delhi : safari aux tigres de Ranthambore de 2 jours avec transferts",
+  "metaTitle": "Delhi : safari aux tigres de Ranthambore, 2 jours",
+  "metaDescription": "Ressentez le frisson d'observer des tigres, des léopards, et des ours lippus dans leur habitat.",
+  "shortDescription": "Ressentez le frisson d'observer des tigres, des léopards, et des ours lippus dans leur habitat.",
+  "fullDescription": "Depuis New Delhi : safari aux tigres de Ranthambore de 2 jours avec transferts. Ressentez le frisson d'observer des tigres, des léopards, et des ours lippus dans leur habitat.\n\nLancez-vous dans un circuit de 2 jours depuis New Delhi vers le parc national de Ranthambore. Profitez d'un safari, et observez des tigres, des léopards, et des ours lippus dans leur habitat naturel. Visitez le fort de Ranthambore, et séjournez dans un hôtel.\n\n**Ce qui est inclus**\nVoiture climatisée\nServices de prise en charge et de retour\nGuide touristique expert de la forêt\n2 safaris au parc national de Ranthambore en canter\nHébergement en hôtel 4 étoiles (si l'option est sélectionnée)\nHébergement en hôtel 3 étoiles (si l'option est sélectionnée)\n3 repas fournis à l'hôtel (si l'option est sélectionnée)\nBouteille d'eau offerte\nTous types de taxes\nSupplément carburant\n\n**Non inclus**\nTout type de boisson\nToute dépense personnelle\nPourboires et gratifications pour le guide et le chauffeur",
+  "highlights": [
+   "Ressentez le frisson d'observer des tigres, des léopards, et des ours lippus dans leur habitat"
+  ],
+  "included": [
+   "Voiture climatisée",
+   "Services de prise en charge et de retour",
+   "Guide touristique expert de la forêt",
+   "2 safaris au parc national de Ranthambore en canter",
+   "Hébergement en hôtel 4 étoiles (si l'option est sélectionnée)",
+   "Hébergement en hôtel 3 étoiles (si l'option est sélectionnée)",
+   "3 repas fournis à l'hôtel (si l'option est sélectionnée)",
+   "Bouteille d'eau offerte",
+   "Tous types de taxes",
+   "Supplément carburant"
+  ],
+  "notIncluded": [
+   "Tout type de boisson",
+   "Toute dépense personnelle",
+   "Pourboires et gratifications pour le guide et le chauffeur"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",
