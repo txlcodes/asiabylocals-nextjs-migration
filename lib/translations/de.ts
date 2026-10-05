@@ -2487,6 +2487,73 @@ export const DE_TOURS: Record<string, TourT> = {
    "Kosten für das Silvester- und Weihnachtsgala-Abendessen"
   ]
  },
+ "new-delhi-same-day-taj-mahal-group-tour-with": {
+  "title": "New Delhi: Taj Mahal Gruppentour am selben Tag mit Luxus-Urbania",
+  "metaTitle": "New Delhi-Taj Mahal: Gruppe, Luxus-Urbania",
+  "metaDescription": "Besuchen Sie den Taj Mahal zur magischsten Zeit für den Sonnenaufgang, seien Sie der Erste im Taj Mahal.",
+  "shortDescription": "Besuchen Sie den Taj Mahal zur magischsten Zeit für den Sonnenaufgang, seien Sie der Erste im Taj Mahal.",
+  "fullDescription": "Begeben Sie sich auf eine unvergessliche eintägige Reise von New Delhi nach Agra in einem privaten, klimatisierten SUV oder luxuriösen Tempo Traveller mit großzügiger Beinfreiheit und Premium-Sitzplätzen. Beginnen Sie mit einer bequemen Hotelabholung in New Delhi und genießen Sie eine reibungslose Fahrt entlang der Yamuna Expressway.\n\nBei der Ankunft in Agra treffen Sie Ihren professionellen lokalen Guide und erhalten Ihre im Voraus gekauften Eintrittstickets für einen problemlosen Zugang. Beginnen Sie Ihre Tour am Taj Mahal, einem der Sieben Weltwunder und einer UNESCO-Welterbestätte. Erfahren Sie mehr über seine faszinierende Geschichte und die zeitlose Liebesgeschichte hinter seiner Entstehung, während Sie ausreichend Zeit für Fotos genießen.\n\nAls Nächstes besuchen Sie das historische Agra Fort, eine weitere UNESCO-Welterbestätte, und erkunden Sie seine beeindruckenden Paläste und Höfe aus rotem Sandstein, während Ihr Guide Geschichten über die Mogulkaiser teilt.\n\nNach der Besichtigung entspannen Sie sich und genießen Sie ein köstliches 5-Sterne-Buffet-Mittagessen mit einer Vielzahl indischer und internationaler Gerichte. Am Ende der Tour kehren Sie bequem nach New Delhi zurück mit Abgabe an Ihrem Hotel.",
+  "highlights": [
+   "Besuchen Sie den Taj Mahal zur magischsten Zeit für den Sonnenaufgang, seien Sie der Erste im Taj Mahal"
+  ],
+  "included": [
+   "Abholung und Rückfahrt von Ihrem Hotel/Flughafen in New Delhi und zurück zu Ihrem Hotel/Flughafen in New Delhi",
+   "Privates SUV-Auto nur für Sie mit englischsprachigem Fahrer, genießen Sie die Fahrt mit Komfort und Sicherheit",
+   "Fahrt über die Schnellstraße, einschließlich aller Mautgebühren und Steuern",
+   "Lokaler Guide in Agra, der die Geschichte der Stadt teilt und Sie zum Taj Mahal, Agra Fort, Baby Taj, und Mehtab Garh mit Eintritt ohne Warteschlange bringt",
+   "Mittagessen in einem 5-Sterne-Hotel (Hilton oder Marriott), falls die Komplettpaket-Option ausgewählt ist"
+  ],
+  "notIncluded": []
+ },
+ "from-agra-varanasi-2-day-tour-with-train-tickets": {
+  "title": "Ab Agra: Varanasi 2-tägige Tour mit Zugtickets",
+  "metaTitle": "Agra-Varanasi: 2-tägige Tour mit Zug",
+  "metaDescription": "Entdecken Sie die Stadt Varanasi auf einer 2-tägigen Tour ab Agra mit Zugtickets.",
+  "shortDescription": "Entdecken Sie die Stadt Varanasi auf einer 2-tägigen Tour ab Agra mit Zugtickets.",
+  "fullDescription": "Verbringen Sie zwei Tage mit der Erkundung der Sehenswürdigkeiten von Varanasi, ohne sich Sorgen machen zu müssen, sich in seinen gewundenen Gassen zu verlieren, auf dieser privaten Tour durch die Stadt. Erfahren Sie mehr über hinduistische Traditionen durch Besuche von Tempeln und Ghats am Ganges, beobachten Sie Seidenweber bei der Arbeit, und machen Sie einen Ausflug nach Sarnath, einer der wichtigsten buddhistischen Pilgerstätten der Welt.\n\n**Tag 1:**\nFrüh am Morgen treffen Sie Ihren Fahrer an Ihrem Ort in Agra und begeben sich zum Bahnhof Agra Cantt. Besteigen Sie Ihren superschnellen Vande-Bharat-Zug in der Executive-Klasse und lehnen Sie sich zurück, um die schöne Aussicht mit Frühstück zu genießen. Bei der Ankunft zeigt Ihnen Ihr Fahrer ein Schild, damit Sie ihn leicht finden können, und begibt sich zu Ihrem Hotel.\n\nNach dem Check-in ruhen Sie sich etwas aus und treffen Ihren Fahrer und Reiseführer in der Hotellobby. Begeben Sie sich nach Sarnath, wo Lord Buddha seine erste Predigt hielt. Dies ist in der buddhistischen Welt als Dharma-Chakra Pravartana bekannt. Besuchen Sie den Haupttempel und sehen Sie die Freskenarbeit, gefolgt von ausgegrabenen Ruinen und dem Museum (freitags geschlossen).\n\nGenießen Sie die abendliche Aarti-Zeremonie am Ghat, die nach Sonnenuntergang beginnt. Gehen Sie am Ghat entlang, singen Sie Mantras, und bieten Sie Blumenopfer in den heiligen Fluss Ganges. Rückkehr zu Ihrem Hotel für die Nacht.\n\n**Tag 2:**\nFrüh am Morgen werden Sie von Ihrem Hotel abgeholt und besuchen Subah-e-Banaras am Assi Ghat. Spazieren Sie durch die Straßen und genießen Sie den Sonnenaufgang sowie eine Bootsfahrt. Danach kehren Sie zu Ihrem Hotel zum Frühstück zurück.\n\nAm Nachmittag checken Sie aus Ihrem Hotel aus und erkunden die Stadt. Nach Abschluss der morgendlichen Tour bringt Ihr Guide Sie zum Verbrennungsplatz, einer sehr alten und heiligen Stätte, da Parvatis Ohrring hier in den Pool gefallen sein soll. Die Tradition der hinduistischen Verbrennungen hier ist relativ neu und reicht vielleicht bis ins 18. Jahrhundert zurück.\n\nNach der Erkundung der Stadt Varanasi fahren Sie zum Bahnhof Varanasi. Besteigen Sie Ihren superschnellen Vande-Bharat-Zug um 15:00 Uhr von Varanasi nach Agra oder von Varanasi nach Delhi. Lehnen Sie sich zurück und genießen Sie Ihre indische Zugfahrt mit Abendessen. Bei der Ankunft trifft Sie Ihr Fahrer am Bahnhof und bringt Sie zu Ihrem Ort.",
+  "highlights": [
+   "Entdecken Sie die Stadt Varanasi auf einer 2-tägigen Tour ab Agra mit Zugtickets"
+  ],
+  "included": [
+   "Private Tour durch Varanasi",
+   "Besuch von Sarnath, einer bedeutenden buddhistischen Pilgerstätte",
+   "Abendliche Aarti-Zeremonie an den Ghats des Ganges",
+   "Seidenweberei-Demonstration",
+   "Bootsfahrt auf dem Ganges bei Sonnenaufgang",
+   "Besuch der Verbrennungsplätze",
+   "Zugreise in der Executive-Klasse im Vande-Bharat-Zug, einschließlich Mahlzeiten",
+   "Hotelabholung und Rückfahrt",
+   "4-Sterne-Unterkunft mit Frühstück"
+  ],
+  "notIncluded": [
+   "Jegliche persönliche Ausgaben",
+   "Mittag- und Abendessen"
+  ]
+ },
+ "from-mumbaisame-day-agra-taj-mahal-tour": {
+  "title": "Ab Mumbai: Agra-Taj-Mahal-Tour am selben Tag",
+  "metaTitle": "Mumbai-Agra: Taj Mahal, selber Tag",
+  "metaDescription": "Flugtickets von Mumbai nach Delhi und von Delhi nach Mumbai.",
+  "shortDescription": "Flugtickets von Mumbai nach Delhi und von Delhi nach Mumbai.",
+  "fullDescription": "Eine eintägige Agra-Taj-Tour ab Mumbai ist eine beliebte Wahl für Reisende, die den ikonischen Taj Mahal sehen möchten. Hier ist ein vorgeschlagener Reiseplan, um Ihren Tag optimal zu nutzen:\n\n**Morgen**\nFrüher Start: Abfahrt von Mumbai früh am Morgen, idealerweise gegen 5:00 Uhr.\nReise nach Delhi: Wir stellen einen Flug nach Delhi bereit, der etwa 2:30 Stunden dauert.\nAnkunft in Delhi. Nach der Ankunft in Delhi holt Sie mein Fahrer mit einem Namensschild ab und fährt auf der Straße nach Agra.\nFrühstück: Nehmen Sie bei der Ankunft ein schnelles Frühstück in einem lokalen Café oder Hotel ein.\n\n**Später Vormittag**\nBesuchen Sie den Taj Mahal: Begeben Sie sich direkt zum Taj Mahal. Planen Sie etwa 2-3 Stunden ein, um dieses prächtige Denkmal zu erkunden und Fotos zu machen.\n\n**Nachmittag**\nMittagessen: Genießen Sie das Mittagessen in einem nahegelegenen Restaurant mit Blick auf den Taj Mahal oder lokaler Küche.\n\n**Nach dem Mittagessen**\nAgra Fort: Besuchen Sie das Agra Fort, eine UNESCO-Welterbestätte. Verbringen Sie etwa 1-2 Stunden mit der Erkundung seiner beeindruckenden Architektur und Geschichte.\n\n**Abend**\nOptionale Stätten: Falls die Zeit es erlaubt, können Sie das Grab von Itimad-ud-Daulah (Baby Taj) oder Mehtab Bagh für Sonnenuntergangsblicke auf den Taj Mahal besuchen.\n\n**Einkaufen:** Agra bietet eine Vielzahl von Einkaufserlebnissen, von traditionellem Kunsthandwerk bis zu modernen Souvenirs. Hier sind einige großartige Optionen zum Einkaufen in Agra:\n\n1. Panchkuian-Markt: ein geschäftiger Markt, wo Sie lokales Kunsthandwerk, Lederwaren, und Textilien finden können. Es ist ein großartiger Ort, um traditionelle Agra-Souvenirs zu kaufen.\n\n2. Sadar Bazaar: berühmt für seine Lederprodukte, einschließlich Schuhe, Taschen, und Jacken. Sie können hier auch Kunsthandwerk und Schmuck finden.\n\n3. Taj-Mahal-Geschenkeläden: in der Nähe des Taj Mahal gelegen, verkaufen diese Läden eine Reihe von Souvenirs, von Mini-Taj-Nachbildungen bis zu traditionellen Mogul-Kunstwerken.\n\nRückreise: Beginnen Sie Ihre Rückreise nach Mumbai am Abend und streben einen späten Flug oder Zug an.",
+  "highlights": [
+   "Flugtickets von Mumbai nach Delhi und von Delhi nach Mumbai"
+  ],
+  "included": [
+   "Alle Arten von Denkmalgebühren (falls Option ausgewählt)",
+   "Flugtickets Mumbai-Agra (falls Option ausgewählt)",
+   "Flugtickets Agra-Mumbai (falls Option ausgewählt)",
+   "Klimatisiertes Auto für Besichtigungen (falls Option ausgewählt)",
+   "Englischsprachiger Guide (falls Option ausgewählt)",
+   "Mittagessen (falls Option ausgewählt)",
+   "Wasserflasche"
+  ],
+  "notIncluded": [
+   "Trinkgelder für Fahrer und Guides",
+   "Gratifikationen",
+   "GST"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
