@@ -21516,6 +21516,65 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle"
   ]
  },
+ "delhi-to-jaipur-tour-1-day-from-delhi": {
+  "title": "Circuit Delhi à Jaipur - 1 jour - depuis Delhi",
+  "metaTitle": "Delhi à Jaipur en 1 jour",
+  "metaDescription": "Explorez la ville de Jaipur en une journée depuis Delhi.",
+  "shortDescription": "Explorez la ville de Jaipur en une journée depuis Delhi.",
+  "fullDescription": "Circuit Delhi à Jaipur - 1 jour - depuis Delhi. Explorez la ville de Jaipur en une journée depuis Delhi.\n\nVivez les merveilles de Jaipur avec notre forfait de visite de la ville de Jaipur en 1 jour :\n\n05h00 : commencez votre excursion dès que notre chauffeur vient vous chercher chez vous à Delhi.\n\n10h00 : vous arriverez à Jaipur, et commencerez à explorer la ville rose. La ville rose est célèbre pour son riche héritage et sa culture animée.\n\n12h00 : prenez un peu de temps libre pour un délicieux déjeuner dans les restaurants voisins, pour reprendre des forces jusqu'à la fin de votre expérience.\n\n13h00 : visitez le célèbre Jal Mahal, un château hypnotisant flottant sur le lac Man Sagar, suivi d'un arrêt au complexe Hawa Mahal, également connu comme la résidence royale des vents.\n\n13h30 : plongez dans la grandeur du City Palace. Il présente une combinaison de styles architecturaux rajasthanis et moghols.\n\n14h30 : explorez les merveilles du Jantar Mantar, un ancien observatoire aux charmants instruments mathématiques.\n\n15h30 : il est maintenant temps de dire au revoir à Jaipur, et de reprendre la route vers Delhi. Vous repartirez avec un ensemble de souvenirs de la journée, remplis d'histoire, de culture, et d'excellence.\n\nCe programme méticuleusement organisé vous garantit de profiter pleinement de votre road trip. Vous retournerez à Delhi avec des rencontres extraordinaires et des impressions durables.\n\n**Ce qui est inclus**\nVoiture privée climatisée\nFrais d'entrée\nPrise en charge et retour",
+  "highlights": [
+   "Explorez la ville de Jaipur en une journée depuis Delhi"
+  ],
+  "included": [
+   "Voiture privée climatisée",
+   "Frais d'entrée",
+   "Prise en charge et retour"
+  ],
+  "notIncluded": [
+   "Toute nourriture",
+   "Dépenses personnelles",
+   "Tout pourboire"
+  ]
+ },
+ "delhi-monkey-safari-guided-walking-tour": {
+  "title": "Delhi : visite guidée à pied du safari aux singes",
+  "metaTitle": "Delhi : safari aux singes, visite guidée",
+  "metaDescription": "Prenez des photos mémorables de l'interface urbaine-faune unique de la ville.",
+  "shortDescription": "Prenez des photos mémorables de l'interface urbaine-faune unique de la ville.",
+  "fullDescription": "Delhi : visite guidée à pied du safari aux singes. Prenez des photos mémorables de l'interface urbaine-faune unique de la ville.\n\nDelhi, la capitale vibrante de l'Inde, abrite une expérience de faune sauvage unique et fascinante : le safari aux singes. Cette aventure passionnante vous emmène au cœur des espaces verts de la ville, où des singes espiègles errent en liberté, offrant un aperçu de leur habitat naturel et de leurs comportements sociaux.\n\nLe safari aux singes commence généralement tôt le matin, lorsque les singes sont les plus actifs. Guidés par des naturalistes experts, les participants se lancent dans un voyage palpitant à travers les forêts luxuriantes et les prairies des réserves naturelles de Delhi. Le safari offre une occasion rare d'observer de près ces créatures agiles, tandis qu'elles cherchent de la nourriture, jouent, et interagissent entre elles.\n\nObservez le comportement intelligent et social des singes, y compris leurs systèmes de communication complexes et leurs habitudes intrigantes.\nRepérez diverses espèces de singes, comme le macaque rhésus et le langur.\nExplorez les joyaux verts cachés de Delhi, grouillant de flore et de faune.\nDécouvrez les efforts de conservation, et l'importance de coexister avec la faune urbaine.\n\n**Ce qui est inclus**\nCe safari comprend : bouteille d'eau, transport, guide local de la faune sauvage\n\n**Non inclus**\nTout ce qui n'est pas mentionné ci-dessus, ainsi que vos dépenses personnelles",
+  "highlights": [
+   "Prenez des photos mémorables de l'interface urbaine-faune unique de la ville"
+  ],
+  "included": [
+   "Ce safari comprend : bouteille d'eau, transport, guide local de la faune sauvage"
+  ],
+  "notIncluded": [
+   "Tout ce qui n'est pas mentionné ci-dessus, ainsi que vos dépenses personnelles"
+  ]
+ },
+ "taj-mahal-tour-by-gatimaan-superfast-express-train": {
+  "title": "Visite du Taj Mahal par le train express Gatimaan Superfast",
+  "metaTitle": "Taj Mahal en train Gatimaan Express",
+  "metaDescription": "Évitez le trafic, et voyagez agréablement avec des billets de train réservés à l'avance.",
+  "shortDescription": "Évitez le trafic, et voyagez agréablement avec des billets de train réservés à l'avance.",
+  "fullDescription": "Visite du Taj Mahal par le train express Gatimaan Superfast. Évitez le trafic, et voyagez agréablement avec des billets de train réservés à l'avance.\n\nLa visite commence généralement par un départ matinal de Delhi à bord du train Gatimaan Express, l'un des trains les plus rapides de l'Inde. Les horaires de départ peuvent varier, mais ils se situent généralement entre 6h00 et 7h00, afin d'assurer un temps maximal sur place.\n\nLe Gatimaan Express offre un trajet confortable et pratique de Delhi à Agra, la ville où se trouve le Taj Mahal. Les passagers peuvent profiter de commodités telles que la restauration à bord, des sièges confortables, et des vues pittoresques en chemin.\n\nÀ votre arrivée à Agra, généralement en milieu de matinée, vous serez accueilli par votre guide touristique, qui vous accompagnera tout au long de la journée. Depuis la gare, vous vous dirigerez directement vers le Taj Mahal, à seulement un court trajet en voiture.\n\nVisite du Taj Mahal : le point fort de la visite est, bien sûr, la visite du Taj Mahal. Votre guide fournira des commentaires éclairants sur l'histoire, l'architecture, et l'importance de ce magnifique mausolée de marbre construit par l'empereur Shah Jahan en mémoire de son épouse bien-aimée, Mumtaz Mahal. Vous aurez amplement le temps d'explorer les terrains, d'admirer l'artisanat complexe du marbre, et de capturer de superbes photographies.\n\nVisitez d'autres attractions à Agra, comme le fort d'Agra, Itmad-ud-Daulah (Baby Taj), ou Mehtab Bagh (jardin du Clair de Lune) pour des vues panoramiques sur le Taj Mahal à travers la rivière Yamuna.\n\nDéjeuner : un délicieux déjeuner dans un restaurant local est généralement inclus dans le forfait de la visite, vous permettant de savourer une authentique cuisine moghole.\n\nAprès une journée bien remplie de visites, vous serez transféré de retour à la gare d'Agra Cantt pour reprendre le Gatimaan Express vers Delhi. Le trajet de retour offre une autre occasion de vous détendre, et de réfléchir à votre expérience mémorable.\n\nLe train arrive généralement de retour à Delhi en soirée, bouclant la boucle complète de la visite du Taj Mahal en une journée. Depuis la gare, vous serez transféré à votre hôtel ou à tout autre endroit préféré à Delhi.\n\n**Ce qui est inclus**\nService de prise en charge et de retour à Delhi\nBillets de train express aller-retour\nVoiture climatisée pour les visites à Agra\nService de guide touristique multilingue\nFrais d'entrée aux monuments (si l'option est sélectionnée)\nDéjeuner 5 étoiles (si l'option est sélectionnée)\nEau minérale\nTous les péages et taxes sont inclus\n\n**Non inclus**\nDépenses personnelles",
+  "highlights": [
+   "Évitez le trafic, et voyagez agréablement avec des billets de train réservés à l'avance"
+  ],
+  "included": [
+   "Service de prise en charge et de retour à Delhi",
+   "Billets de train express aller-retour",
+   "Voiture climatisée pour les visites à Agra",
+   "Service de guide touristique multilingue",
+   "Frais d'entrée aux monuments (si l'option est sélectionnée)",
+   "Déjeuner 5 étoiles (si l'option est sélectionnée)",
+   "Eau minérale",
+   "Tous les péages et taxes sont inclus"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur : sites emblématiques, City Palace, Hawa Mahal et Jantar Mantar",
   "metaTitle": "Jaipur : City Palace, Hawa Mahal et Jantar Mantar",

@@ -21516,6 +21516,65 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche persönliche Ausgaben"
   ]
  },
+ "delhi-to-jaipur-tour-1-day-from-delhi": {
+  "title": "Tour von Delhi nach Jaipur - 1 Tag - ab Delhi",
+  "metaTitle": "Delhi nach Jaipur in 1 Tag",
+  "metaDescription": "Erkunden Sie die Stadt Jaipur an einem Tag von Delhi aus.",
+  "shortDescription": "Erkunden Sie die Stadt Jaipur an einem Tag von Delhi aus.",
+  "fullDescription": "Tour von Delhi nach Jaipur - 1 Tag - ab Delhi. Erkunden Sie die Stadt Jaipur an einem Tag von Delhi aus.\n\nErleben Sie die Wunder von Jaipur mit unserem Jaipur-Stadt-Tourpaket für 1 Tag:\n\n05:00 Uhr: Beginnen Sie Ihren Ausflug, sobald unser Fahrer Sie von Ihrem Ort in Delhi abholt.\n\n10:00 Uhr: Sie kommen in Jaipur an, und beginnen mit der Erkundung der Pink City. Die Pink City ist berühmt für ihr reiches Erbe und ihre lebendige Kultur.\n\n12:00 Uhr: Nehmen Sie sich etwas Zeit für ein köstliches Mittagessen in nahegelegenen Restaurants, um sich bis zum Ende Ihres Erlebnisses zu stärken.\n\n13:00 Uhr: Besuchen Sie den berühmten Jal Mahal, ein hypnotisierendes Schloss, das auf dem Man-Sagar-See treibt, gefolgt von einem Halt am Komplex Hawa Mahal, auch bekannt als die königliche Residenz der Winde.\n\n13:30 Uhr: Tauchen Sie ein in die Erhabenheit des City Palace. Er zeigt eine Kombination aus rajasthanischen und Mogul-Baustilen.\n\n14:30 Uhr: Erkunden Sie die Wunder des Jantar Mantar, einem alten Observatorium mit charmanten mathematischen Instrumenten.\n\n15:30 Uhr: Jetzt ist es Zeit, sich von Jaipur zu verabschieden, und sich auf den Rückweg nach Delhi zu machen. Sie werden mit einem Schatz an Erinnerungen an den Tag zurückkehren, gefüllt mit Geschichte, Kultur, und Exzellenz.\n\nDieser sorgfältig geplante Zeitplan stellt sicher, dass Sie Ihren Roadtrip voll ausschöpfen. Sie kehren mit außergewöhnlichen Begegnungen und bleibenden Eindrücken nach Delhi zurück.\n\n**Was ist enthalten**\nPrivates klimatisiertes Auto\nEintrittsgebühren\nAbholung und Rückfahrt",
+  "highlights": [
+   "Erkunden Sie die Stadt Jaipur an einem Tag von Delhi aus"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto",
+   "Eintrittsgebühren",
+   "Abholung und Rückfahrt"
+  ],
+  "notIncluded": [
+   "Jegliches Essen",
+   "Persönliche Ausgaben",
+   "Jegliches Trinkgeld"
+  ]
+ },
+ "delhi-monkey-safari-guided-walking-tour": {
+  "title": "Delhi: geführte Wandertour zur Affen-Safari",
+  "metaTitle": "Delhi: Affen-Safari, geführte Tour",
+  "metaDescription": "Machen Sie unvergessliche Aufnahmen von der einzigartigen urbanen Tierwelt-Schnittstelle der Stadt.",
+  "shortDescription": "Machen Sie unvergessliche Aufnahmen von der einzigartigen urbanen Tierwelt-Schnittstelle der Stadt.",
+  "fullDescription": "Delhi: geführte Wandertour zur Affen-Safari. Machen Sie unvergessliche Aufnahmen von der einzigartigen urbanen Tierwelt-Schnittstelle der Stadt.\n\nDelhi, Indiens lebendige Hauptstadt, beherbergt ein einzigartiges und faszinierendes Wildtiererlebnis: die Affen-Safari. Dieses aufregende Abenteuer führt Sie ins Herz der grünen Oasen der Stadt, wo verspielte Affen frei umherstreifen, und einen Einblick in ihren natürlichen Lebensraum und ihr Sozialverhalten bieten.\n\nDie Affen-Safari beginnt normalerweise früh am Morgen, wenn die Affen am aktivsten sind. Geführt von erfahrenen Naturforschern, begeben sich die Teilnehmer auf eine spannende Reise durch die üppigen Wälder und Grasländer von Delhis Wildtierreservaten. Die Safari bietet eine seltene Gelegenheit, diese wendigen Kreaturen aus der Nähe zu beobachten, während sie nach Nahrung suchen, spielen, und miteinander interagieren.\n\nBeobachten Sie das intelligente und soziale Verhalten der Affen, einschließlich ihrer komplexen Kommunikationssysteme und faszinierenden Gewohnheiten.\nEntdecken Sie verschiedene Affenarten wie den Rhesusaffen und den Hanuman-Languren.\nErkunden Sie Delhis verborgene grüne Schätze, voller Flora und Fauna.\nErfahren Sie mehr über Naturschutzbemühungen und die Bedeutung des Zusammenlebens mit urbaner Tierwelt.\n\n**Was ist enthalten**\nDiese Safari umfasst: Wasserflasche, Transport, örtlicher Tierwelt-Guide\n\n**Nicht enthalten**\nAlles außer dem oben Genannten und Ihre persönlichen Ausgaben",
+  "highlights": [
+   "Machen Sie unvergessliche Aufnahmen von der einzigartigen urbanen Tierwelt-Schnittstelle der Stadt"
+  ],
+  "included": [
+   "Diese Safari umfasst: Wasserflasche, Transport, örtlicher Tierwelt-Guide"
+  ],
+  "notIncluded": [
+   "Alles außer dem oben Genannten und Ihre persönlichen Ausgaben"
+  ]
+ },
+ "taj-mahal-tour-by-gatimaan-superfast-express-train": {
+  "title": "Taj-Mahal-Tour mit dem Gatimaan-Superfast-Express-Zug",
+  "metaTitle": "Taj Mahal mit dem Gatimaan Express",
+  "metaDescription": "Vermeiden Sie den Verkehr, und reisen Sie angenehm mit vorab gebuchten Zugtickets.",
+  "shortDescription": "Vermeiden Sie den Verkehr, und reisen Sie angenehm mit vorab gebuchten Zugtickets.",
+  "fullDescription": "Taj-Mahal-Tour mit dem Gatimaan-Superfast-Express-Zug. Vermeiden Sie den Verkehr, und reisen Sie angenehm mit vorab gebuchten Zugtickets.\n\nDie Tour beginnt normalerweise mit einer frühen Abfahrt von Delhi mit dem Gatimaan Express, einem der schnellsten Züge Indiens. Die Abfahrtszeiten können variieren, liegen aber meist zwischen 6:00 und 7:00 Uhr, um maximale Zeit am Zielort zu gewährleisten.\n\nDer Gatimaan Express bietet eine komfortable und bequeme Reise von Delhi nach Agra, der Stadt, in der sich das Taj Mahal befindet. Passagiere können Annehmlichkeiten wie Bordverpflegung, bequeme Sitze, und malerische Ausblicke unterwegs genießen.\n\nBei der Ankunft in Agra, meist am späten Vormittag, werden Sie von Ihrem Reiseführer begrüßt, der Sie den ganzen Tag über begleitet. Vom Bahnhof geht es direkt zum Taj Mahal, das nur eine kurze Autofahrt entfernt ist.\n\nBesuch des Taj Mahal: Der Höhepunkt der Tour ist natürlich der Besuch des Taj Mahal. Ihr Guide gibt aufschlussreiche Kommentare zur Geschichte, Architektur, und Bedeutung dieses prächtigen Marmor-Mausoleums, erbaut von Kaiser Shah Jahan zum Gedenken an seine geliebte Ehefrau Mumtaz Mahal. Sie haben ausreichend Zeit, das Gelände zu erkunden, die kunstvolle Marmorhandwerkskunst zu bewundern, und atemberaubende Fotos zu machen.\n\nBesuchen Sie weitere Sehenswürdigkeiten in Agra, wie das Agra-Fort, Itmad-ud-Daulah (Baby Taj), oder Mehtab Bagh (Mondscheingarten) für Panoramablicke auf das Taj Mahal über den Fluss Yamuna.\n\nMittagessen: Ein köstliches Mittagessen in einem örtlichen Restaurant ist normalerweise im Tourpaket enthalten, sodass Sie authentische Mughlai-Küche genießen können.\n\nNach einem erfüllenden Tag voller Besichtigungen werden Sie zurück zum Bahnhof Agra Cantt gebracht, um den Gatimaan Express zurück nach Delhi zu nehmen. Die Rückreise bietet eine weitere Gelegenheit, sich zu entspannen, und über Ihr unvergessliches Erlebnis nachzudenken.\n\nDer Zug kommt normalerweise am Abend zurück in Delhi an, und schließt damit den vollen Kreis der eintägigen Taj-Mahal-Tour. Vom Bahnhof werden Sie zurück zu Ihrem Hotel oder einem bevorzugten Ort in Delhi gebracht.\n\n**Was ist enthalten**\nAbholung und Rückfahrtservice in Delhi\nHin- und Rückfahrt-Expresszugtickets\nKlimatisiertes Auto für Besichtigungen in Agra\nMehrsprachiger Reiseführer-Service\nEintrittsgebühr für Denkmäler (falls Option gewählt wird)\n5-Sterne-Mittagessen (falls Option gewählt wird)\nMineralwasser\nAlle Mautgebühren und Steuern sind enthalten\n\n**Nicht enthalten**\nPersönliche Ausgaben",
+  "highlights": [
+   "Vermeiden Sie den Verkehr, und reisen Sie angenehm mit vorab gebuchten Zugtickets"
+  ],
+  "included": [
+   "Abholung und Rückfahrtservice in Delhi",
+   "Hin- und Rückfahrt-Expresszugtickets",
+   "Klimatisiertes Auto für Besichtigungen in Agra",
+   "Mehrsprachiger Reiseführer-Service",
+   "Eintrittsgebühr für Denkmäler (falls Option gewählt wird)",
+   "5-Sterne-Mittagessen (falls Option gewählt wird)",
+   "Mineralwasser",
+   "Alle Mautgebühren und Steuern sind enthalten"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: ikonische Wahrzeichen, City Palace, Hawa Mahal und Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal und Jantar Mantar im Privatwagen",

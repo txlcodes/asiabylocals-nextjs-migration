@@ -21516,6 +21516,65 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier gasto personal"
   ]
  },
+ "delhi-to-jaipur-tour-1-day-from-delhi": {
+  "title": "Tour de Delhi a Jaipur - 1 día - desde Delhi",
+  "metaTitle": "Delhi a Jaipur en 1 día",
+  "metaDescription": "Explore la ciudad de Jaipur en un día desde Delhi.",
+  "shortDescription": "Explore la ciudad de Jaipur en un día desde Delhi.",
+  "fullDescription": "Tour de Delhi a Jaipur - 1 día - desde Delhi. Explore la ciudad de Jaipur en un día desde Delhi.\n\nExperimente las maravillas de Jaipur con nuestro paquete de tour por la ciudad de Jaipur de 1 día:\n\n05:00: comience su excursión en cuanto nuestro conductor lo recoja en su lugar en Delhi.\n\n10:00: llegará a Jaipur, y comenzará a explorar la ciudad rosa. La ciudad rosa es famosa por su rico legado y su animada cultura.\n\n12:00: tómese un tiempo libre para un delicioso almuerzo en los restaurantes cercanos, para recargar energías hasta el final de su experiencia.\n\n13:00: visite el famoso Jal Mahal, un hipnotizante castillo flotando en el lago Man Sagar, seguido de una parada en el complejo Hawa Mahal, también conocido como la residencia real de los vientos.\n\n13:30: sumérjase en la grandeza del City Palace. Muestra una combinación de estilos arquitectónicos rajastaníes y mogoles.\n\n14:30: explore las maravillas del Jantar Mantar, un antiguo observatorio con encantadores instrumentos matemáticos.\n\n15:30: ahora es momento de despedirse de Jaipur, y emprender el camino de regreso a Delhi. Se llevará un conjunto de recuerdos del día, lleno de historia, cultura, y excelencia.\n\nEste itinerario meticulosamente organizado asegura que aproveche al máximo su viaje por carretera. Regresará a Delhi con encuentros extraordinarios e impresiones duraderas.\n\n**Qué incluye**\nAuto privado con aire acondicionado\nTarifas de entrada\nRecogida y regreso",
+  "highlights": [
+   "Explore la ciudad de Jaipur en un día desde Delhi"
+  ],
+  "included": [
+   "Auto privado con aire acondicionado",
+   "Tarifas de entrada",
+   "Recogida y regreso"
+  ],
+  "notIncluded": [
+   "Cualquier comida",
+   "Gastos personales",
+   "Cualquier propina"
+  ]
+ },
+ "delhi-monkey-safari-guided-walking-tour": {
+  "title": "Delhi: tour a pie guiado del safari de monos",
+  "metaTitle": "Delhi: safari de monos, tour guiado",
+  "metaDescription": "Tome fotos memorables de la singular interfaz urbana-silvestre de la ciudad.",
+  "shortDescription": "Tome fotos memorables de la singular interfaz urbana-silvestre de la ciudad.",
+  "fullDescription": "Delhi: tour a pie guiado del safari de monos. Tome fotos memorables de la singular interfaz urbana-silvestre de la ciudad.\n\nDelhi, la vibrante capital de la India, alberga una experiencia de vida silvestre única y fascinante: el safari de monos. Esta emocionante aventura lo lleva al corazón de los espacios verdes de la ciudad, donde traviesos monos deambulan libremente, ofreciendo un vistazo a su hábitat natural y comportamientos sociales.\n\nEl safari de monos generalmente comienza temprano por la mañana, cuando los monos están más activos. Guiados por naturalistas expertos, los participantes emprenden un emocionante viaje a través de los exuberantes bosques y praderas de las reservas de vida silvestre de Delhi. El safari ofrece una rara oportunidad de observar de cerca a estas ágiles criaturas, mientras buscan alimento, juegan, e interactúan entre sí.\n\nSea testigo del comportamiento inteligente y social de los monos, incluyendo sus complejos sistemas de comunicación y hábitos intrigantes.\nObserve varias especies de monos, como el macaco rhesus y el langur.\nExplore las joyas verdes ocultas de Delhi, repletas de flora y fauna.\nAprenda sobre los esfuerzos de conservación, y la importancia de coexistir con la vida silvestre urbana.\n\n**Qué incluye**\nEste safari incluye: botella de agua, transporte, guía local de vida silvestre\n\n**No incluye**\nCualquier cosa aparte de lo mencionado anteriormente, y sus gastos personales",
+  "highlights": [
+   "Tome fotos memorables de la singular interfaz urbana-silvestre de la ciudad"
+  ],
+  "included": [
+   "Este safari incluye: botella de agua, transporte, guía local de vida silvestre"
+  ],
+  "notIncluded": [
+   "Cualquier cosa aparte de lo mencionado anteriormente, y sus gastos personales"
+  ]
+ },
+ "taj-mahal-tour-by-gatimaan-superfast-express-train": {
+  "title": "Tour del Taj Mahal en el tren exprés Gatimaan Superfast",
+  "metaTitle": "Taj Mahal en el tren Gatimaan Express",
+  "metaDescription": "Evite el tráfico, y viaje agradablemente con boletos de tren reservados por adelantado.",
+  "shortDescription": "Evite el tráfico, y viaje agradablemente con boletos de tren reservados por adelantado.",
+  "fullDescription": "Tour del Taj Mahal en el tren exprés Gatimaan Superfast. Evite el tráfico, y viaje agradablemente con boletos de tren reservados por adelantado.\n\nEl tour generalmente comienza con una salida temprano por la mañana desde Delhi en el tren Gatimaan Express, uno de los trenes más rápidos de la India. Los horarios de salida pueden variar, pero suelen ser entre las 6:00 y las 7:00, para asegurar el máximo tiempo en el destino.\n\nEl Gatimaan Express ofrece un viaje cómodo y conveniente de Delhi a Agra, la ciudad donde se encuentra el Taj Mahal. Los pasajeros pueden disfrutar de comodidades como catering a bordo, asientos cómodos, y vistas pintorescas en el camino.\n\nAl llegar a Agra, generalmente a media mañana, será recibido por su guía turístico, quien lo acompañará durante todo el día. Desde la estación de tren, se dirigirá directamente al Taj Mahal, que está a solo un corto trayecto en auto.\n\nVisita al Taj Mahal: el punto culminante del tour es, por supuesto, la visita al Taj Mahal. Su guía ofrecerá comentarios perspicaces sobre la historia, arquitectura, e importancia de este magnífico mausoleo de mármol construido por el emperador Shah Jahan en memoria de su amada esposa, Mumtaz Mahal. Tendrá tiempo suficiente para explorar los terrenos, admirar la intrincada artesanía en mármol, y capturar impresionantes fotografías.\n\nVisite otras atracciones en Agra, como el fuerte de Agra, Itmad-ud-Daulah (Baby Taj), o Mehtab Bagh (Jardín de la Luz de la Luna) para vistas panorámicas del Taj Mahal a través del río Yamuna.\n\nAlmuerzo: un delicioso almuerzo en un restaurante local generalmente está incluido en el paquete del tour, permitiéndole saborear auténtica cocina mogol.\n\nDespués de un día satisfactorio de visitas, será trasladado de regreso a la estación de tren de Agra Cantt para tomar el Gatimaan Express de regreso a Delhi. El viaje de regreso ofrece otra oportunidad para relajarse, y reflexionar sobre su memorable experiencia.\n\nEl tren generalmente llega de regreso a Delhi por la tarde, completando el círculo completo del tour del Taj Mahal en el mismo día. Desde la estación de tren, será trasladado de regreso a su hotel o cualquier lugar preferido dentro de Delhi.\n\n**Qué incluye**\nServicio de recogida y regreso en Delhi\nBoletos de tren exprés de ida y vuelta\nAuto con aire acondicionado para visitas en Agra\nServicio de guía turístico multilingüe\nTarifa de monumento (si se selecciona esta opción)\nAlmuerzo 5 estrellas (si se selecciona esta opción)\nAgua mineral\nTodos los peajes e impuestos están incluidos\n\n**No incluye**\nGastos personales",
+  "highlights": [
+   "Evite el tráfico, y viaje agradablemente con boletos de tren reservados por adelantado"
+  ],
+  "included": [
+   "Servicio de recogida y regreso en Delhi",
+   "Boletos de tren exprés de ida y vuelta",
+   "Auto con aire acondicionado para visitas en Agra",
+   "Servicio de guía turístico multilingüe",
+   "Tarifa de monumento (si se selecciona esta opción)",
+   "Almuerzo 5 estrellas (si se selecciona esta opción)",
+   "Agua mineral",
+   "Todos los peajes e impuestos están incluidos"
+  ],
+  "notIncluded": [
+   "Gastos personales"
+  ]
+ },
  "hawa-mahal-landmarks-guided-tour": {
   "title": "Jaipur: monumentos icónicos, City Palace, Hawa Mahal y Jantar Mantar",
   "metaTitle": "Jaipur: City Palace, Hawa Mahal y Jantar Mantar en coche privado",
