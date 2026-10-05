@@ -5637,6 +5637,81 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld"
   ]
  },
+ "sunrise-taj-mahal-and-agra-fort-half-day-tour": {
+  "title": "Halbtagestour zum Taj Mahal Sonnenaufgang und Agra Fort mit Transfer",
+  "metaTitle": "Agra: Taj Mahal Sonnenaufgang, Fort, Halbtag",
+  "metaDescription": "Erkunden Sie die Stadt des Taj ohne jegliche Transportprobleme in einem privaten Auto.",
+  "shortDescription": "Erkunden Sie die Stadt des Taj ohne jegliche Transportprobleme in einem privaten Auto.",
+  "fullDescription": "**Früher Morgen: Abholung**\nZeit: normalerweise gegen 5:00 Uhr, abhängig von der Sonnenaufgangszeit und Ihrem Standort.\nTransfer: privates Auto oder Fahrzeug mit englischsprachigem Fahrer.\n\n**Sonnenaufgang am Taj Mahal**\nAnkunft: gegen 6:00 Uhr, damit Sie den Sonnenaufgang erleben und die Menschenmassen vermeiden können.\nErlebnis: Erkunden Sie das Taj Mahal mit einer geführten Tour, erfahren Sie mehr über seine Geschichte und architektonische Bedeutung.\nDauer: etwa 1,5 bis 2 Stunden.\n\n**Agra Fort**\nTransfer: Nach dem Besuch des Taj Mahal geht es weiter zum Agra Fort.\nBesuch: Besichtigen Sie das Agra Fort, ein weiteres UNESCO-Weltkulturerbe, und tauchen Sie in seine reiche Geschichte ein.\nDauer: etwa 1,5 Stunden.\n\n**Rücktransfer**\nZeit: normalerweise gegen 10:00 bis 11:00 Uhr, kann aber je nach Ihren Vorlieben und dem Tempo der Tour variieren.\nTransfer: Rückkehr zu Ihrem Hotel oder einem anderen festgelegten Absetzpunkt.",
+  "highlights": [
+   "Erkunden Sie die Stadt des Taj ohne jegliche Transportprobleme in einem privaten Auto"
+  ],
+  "included": [
+   "Eintritt zum Taj Mahal (falls ausgewählt)",
+   "Mausoleum (falls ausgewählt)",
+   "Eintritt zum Agra Fort (falls ausgewählt)",
+   "Abholung und Rückbringung von Delhi/Agra (je nach gewählter Option)",
+   "Privates klimatisiertes Auto",
+   "Erfahrener Reiseführer",
+   "Vorführung der Marmor-Einlegearbeit",
+   "Unser Guide macht wunderschöne Fotos für Sie",
+   "Skip-the-Line-Tickets",
+   "Alle Mautgebühren, Parkgebühren, und Steuern"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben"
+  ]
+ },
+ "taj-mahal-lunch-private-tour": {
+  "title": "Von Delhi aus: private Taj Mahal und Agra Tour mit 5-Sterne-Mittagessen",
+  "metaTitle": "Delhi-Agra: Taj Mahal privat, 5-Sterne-Mittagessen",
+  "metaDescription": "Von Delhi aus: private Taj Mahal und Agra Tour mit 5-Sterne-Mittagessen.",
+  "shortDescription": "Von Delhi aus: private Taj Mahal und Agra Tour mit 5-Sterne-Mittagessen.",
+  "fullDescription": "Beginnen Sie Ihre unvergessliche Reise mit einer privaten Abholung von Ihrem Hotel in Delhi, Gurgaon, oder Noida, oder direkt vom Flughafen. Reisen Sie komfortabel in einem modernen klimatisierten Fahrzeug und genießen Sie eine entspannte 3-stündige Fahrt durch die malerischen Landschaften von Uttar Pradesh.\n\nBei der Ankunft in Agra treffen Sie Ihren erfahrenen lokalen Guide und tauchen Sie ein in die zeitlose Schönheit des Taj Mahal. Verbringen Sie 2 bis 3 Stunden damit, seinen makellosen weißen Marmor, kunstvolle Einlegearbeiten, und romantische Geschichte zu bewundern, während Ihr Guide faszinierende Geschichten erzählt, die dieses Wunder lebendig machen.\n\nAls Nächstes erkunden Sie das majestätische Agra Fort, ein UNESCO-Weltkulturerbe, erbaut vom legendären Mogulkaiser Akbar. Spazieren Sie durch seine grandiosen Hallen, königlichen Höfe, und beeindruckende Architektur, und fühlen Sie sich in die goldene Ära der Mogul-Dynastie versetzt.\n\nGenießen Sie ein üppiges Mittagessen in einem 5-Sterne-Hotel, mit einer Auswahl exquisiter Gerichte in elegantem Ambiente. Falls die Zeit es erlaubt, schließen Sie Ihr Agra-Erlebnis mit einem Besuch des charmanten Baby Taj (Itimad-ud-Daulah) ab, oft als Schmuckkästchen aus Marmor beschrieben.\n\nSchließlich entspannen Sie sich auf Ihrer Rückfahrt nach Delhi, wo Ihr Fahrer Sie an Ihrem Hotel oder dem Flughafen absetzt, und beenden damit einen Tag voller Geschichte, Kultur, und unvergesslicher Erinnerungen.",
+  "highlights": [
+   "Von Delhi aus: private Taj Mahal und Agra Tour mit 5-Sterne-Mittagessen"
+  ],
+  "included": [
+   "Private Abholung und Rückbringung von Ihrem Hotel in Delhi, Gurgaon, Noida, oder vom Flughafen Delhi",
+   "Komfortables privates klimatisiertes Fahrzeug für die gesamte Reise",
+   "Professioneller lokaler Reiseführer in Agra",
+   "Eintrittskarte zum Taj Mahal (falls ausgewählt)",
+   "Eintrittskarte zum Agra Fort (falls ausgewählt)",
+   "Besuch des Baby Taj (Itimad-ud-Daulah)",
+   "Buffet-Mittagessen im 5-Sterne-Hotel in Agra (falls ausgewählt)",
+   "Mineralwasser in Flaschen während der Tour",
+   "Alle Parkgebühren, Mautgebühren, und Kraftstoffkosten",
+   "Alle anfallenden Steuern"
+  ],
+  "notIncluded": [
+   "Getränke",
+   "Trinkgeld"
+  ]
+ },
+ "taj-mahal-fort-private-tour": {
+  "title": "Von Delhi aus: private Tour zum Taj Mahal, Agra Fort, und Baby Taj (8,1 Stunden)",
+  "metaTitle": "Delhi-Agra: Taj Mahal, Fort, Baby Taj, 8,1 Stunden",
+  "metaDescription": "Besuchen Sie das ikonische Taj Mahal, das Agra Fort, und das Baby Taj an einem unvergesslichen Tag.",
+  "shortDescription": "Besuchen Sie das ikonische Taj Mahal, das Agra Fort, und das Baby Taj an einem unvergesslichen Tag.",
+  "fullDescription": "Erleben Sie eines der ikonischsten Reiseziele Indiens auf dieser privaten Ganztagestour von Delhi nach Agra. Reisen Sie in einem komfortablen privaten klimatisierten Fahrzeug mit Hotel- oder Flughafenabholung und entdecken Sie die zeitlose Schönheit des Taj Mahal, das grandiose Agra Fort, und das elegante Baby Taj (Itimad-ud-Daulah). Genießen Sie die Einblicke eines professionellen lokalen Guides und entspannen Sie sich bei einem köstlichen Buffet-Mittagessen in einem erstklassigen 5-Sterne-Hotel.\n\n**Reiseroute der Tour:**\n\n**6:00 Uhr: Abholung von Delhi**\nTreffen Sie Ihren Fahrer an Ihrem Hotel, Flughafen, oder bevorzugten Ort. Entspannen Sie sich in einem privaten klimatisierten Fahrzeug, während Sie über die Yamuna Expressway nach Agra reisen.\n\n**9:30 Uhr: Besuch des Taj Mahal**\nTreffen Sie Ihren professionellen Guide und erkunden Sie das atemberaubende Taj Mahal. Erfahren Sie mehr über seine Geschichte, Architektur, und die Liebesgeschichte hinter diesem weltberühmten Denkmal, während Sie ausreichend Zeit für Fotografie haben.\n\n**11:45 Uhr: Erkundung des Agra Forts**\nWeiter geht es zum prächtigen Agra Fort, der ehemaligen Residenz der Mogulkaiser. Entdecken Sie königliche Hallen, schöne Höfe, und malerische Ausblicke auf das Taj Mahal.\n\n**13:30 Uhr: 5-Sterne-Buffet-Mittagessen**\nGenießen Sie ein köstliches Buffet-Mittagessen in einem erstklassigen 5-Sterne-Hotel mit einer Auswahl an indischer und internationaler Küche.\n\n**15:00 Uhr: Besuch des Baby Taj**\nErkunden Sie das schöne Itimad-ud-Daulah, oft Baby Taj genannt, bekannt für seine kunstvolle Marmorhandwerkskunst und friedliche Atmosphäre.\n\n**16:00 Uhr: optionales lokales Handwerkserlebnis**\nFalls die Zeit es erlaubt, besuchen Sie eine lokale Marmor-Einlegewerkstatt, um erfahrenen Handwerkern bei der Arbeit zuzusehen. Es besteht keine Kaufverpflichtung.\n\n**19:30 Uhr: Rückkehr nach Delhi**\nEntspannen Sie sich auf Ihrer Rückreise. Ihr Fahrer setzt Sie an Ihrem Hotel, Flughafen, oder bevorzugten Ort ab.",
+  "highlights": [
+   "Besuchen Sie das ikonische Taj Mahal, das Agra Fort, und das Baby Taj an einem unvergesslichen Tag"
+  ],
+  "included": [
+   "Abholung und Rückbringung zum Hotel, Flughafen, oder zur Unterkunft",
+   "Privates klimatisiertes Fahrzeug",
+   "Professioneller Chauffeur",
+   "Lizenzierter lokaler Guide",
+   "5-Sterne-Buffet-Mittagessen",
+   "Mineralwasser in Flaschen",
+   "Alle Parkgebühren, Mautgebühren, Kraftstoff, und Steuern"
+  ],
+  "notIncluded": [
+   "Eintrittskarten zu den Denkmälern (sofern nicht in der gewählten Option enthalten)",
+   "Persönliche Ausgaben",
+   "Trinkgeld und Zuwendungen (optional)"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",
