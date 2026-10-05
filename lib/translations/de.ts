@@ -255,6 +255,88 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alles, was nicht ausdrücklich unter den Einschlüssen genannt ist"
   ]
  },
+ "from-delhi-agra-bharatpur-and-bird-sanctuary-2": {
+  "title": "Ab Delhi: 2-tägige Tour nach Agra, Bharatpur, und zum Vogelschutzgebiet",
+  "metaTitle": "Delhi-Agra-Bharatpur: 2 Tage, Vogelschutzgebiet",
+  "metaDescription": "Entdecken Sie den Taj Mahal, das Fort Agra, und Fatehpur Sikri bei einer geführten Tour.",
+  "shortDescription": "Entdecken Sie den Taj Mahal, das Fort Agra, und Fatehpur Sikri bei einer geführten Tour.",
+  "fullDescription": "Entdecken Sie den Taj Mahal, das Fort Agra, und Fatehpur Sikri bei dieser geführten Tour.",
+  "highlights": [
+   "Entdecken Sie den Taj Mahal, das Fort Agra, und Fatehpur Sikri bei einer geführten Tour"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto/Van für Abholung, Transfers, Besichtigungen, und Rückfahrt",
+   "1 Nacht Unterkunft in der ausgewählten Hotelkategorie",
+   "Tägliches Frühstück im Hotel",
+   "Englischsprachiger lokaler Guide während der Besichtigungen",
+   "Eintrittsgebühren zu den Denkmälern, falls in der gewählten Option enthalten",
+   "Trinkwasser in Flaschen im Fahrzeug",
+   "Staatliche Steuern"
+  ],
+  "notIncluded": [
+   "Flug- oder Zugtickets",
+   "Kameragebühren an Denkmälern",
+   "Mahlzeiten außer den in den Einschlüssen genannten",
+   "Persönliche Ausgaben wie Wäsche, Trinkgelder, und Getränke",
+   "Optionale Aktivitäten",
+   "Alles, was nicht ausdrücklich unter den Einschlüssen genannt ist"
+  ]
+ },
+ "agra-express-evening-tour": {
+  "title": "Goldenes Dreieck 3 Tage/2 Nächte: Express-Tour mit Hotel",
+  "metaTitle": "Goldenes Dreieck Express 3 Tage mit Hotel",
+  "metaDescription": "Erleben Sie die Magie Indiens bei einer 3-tägigen Tour durch das Goldene Dreieck ab Delhi.",
+  "shortDescription": "Erleben Sie die Magie Indiens bei einer 3-tägigen Tour durch das Goldene Dreieck ab Delhi.",
+  "fullDescription": "Entdecken Sie das ikonische Goldene Dreieck Indiens bei einer privaten 3-tägigen, 2-nächtigen Reise durch Delhi, Agra, und Jaipur. Diese Express-Tour ist für Reisende konzipiert, die Indiens berühmte Denkmäler, lebendige Kultur, königliches Erbe, und lokale Traditionen in einer komfortablen und zeiteffizienten Reiseroute entdecken möchten.\n\n**Tag 1: Delhi – Agra**\n\nIhre Tour beginnt mit einer Abholung von Ihrem Hotel, Flughafen, oder bevorzugten Ort in Delhi, Gurugram, Noida, Ghaziabad, oder den umliegenden Gebieten. Treffen Sie Ihren privaten Fahrer und beginnen Sie Ihre Besichtigungstour durch Delhi.\n\nBesuchen Sie einige der Highlights der Stadt, wie das India Gate, das Präsidentenhaus und Regierungsgebäude, Qutub Minar, den Lotus-Tempel, das Humayun-Grabmal, und die historischen Gebiete von Alt-Delhi. Je nach Abfahrtszeit können Sie auch Jama Masjid erkunden und eine optionale Rikscha-Fahrt durch die lebendigen Straßen von Chandni Chowk genießen.\n\nNach der Besichtigung fahren Sie in einem privaten klimatisierten Fahrzeug nach Agra. Checken Sie in Ihrem Hotel ein und entspannen Sie sich.\n\n**Tag 2: Agra – Jaipur**\n\nBeginnen Sie Ihren Morgen mit einem Besuch des prächtigen Taj Mahal. Ihr lokaler Guide wird die Geschichte, Architektur, und Geschichten hinter diesem weltberühmten Denkmal teilen. Nehmen Sie sich Zeit, die Gärten zu erkunden und Fotomöglichkeiten zu genießen.\n\nNach dem Taj Mahal besuchen Sie das Fort Agra, eine beeindruckende UNESCO-Welterbestätte mit großen Innenhöfen, Palästen, Sälen, und historischen Blicken auf den Taj Mahal.\n\nSetzen Sie Ihre Reise nach Jaipur fort, der farbenfrohen Hauptstadt Rajasthans. Auf dem Weg können Sie Fatehpur Sikri besuchen, die historische Mogul-Stadt, bekannt für ihre beeindruckende Architektur aus rotem Sandstein.\n\nKommen Sie in Jaipur an, checken Sie in Ihrem Hotel ein, und genießen Sie den Abend nach Belieben.\n\n**Tag 3: Jaipur – Delhi**\n\nNach dem Frühstück erkunden Sie Jaipur mit Ihrem privaten Guide. Besuchen Sie das spektakuläre Amber Fort, in den Hügeln außerhalb der Stadt gelegen, und bewundern Sie seine Innenhöfe, Paläste, Tore, und architektonischen Details.\n\nWeiter geht es zum City Palace, einem historischen königlichen Komplex im Herzen Jaipurs. Sehen Sie den schönen Hawa Mahal (Palast der Winde) von außen und besuchen Sie Jantar Mantar, ein beeindruckendes astronomisches Observatorium.\n\nNach der Besichtigung beginnt Ihre Rückreise nach Delhi. Sie können an Ihrem Hotel, Flughafen, oder einem anderen bevorzugten Ort in Delhi oder der Umgebung abgesetzt werden.",
+  "highlights": [
+   "Erleben Sie die Magie Indiens bei einer 3-tägigen Tour durch das Goldene Dreieck ab Delhi"
+  ],
+  "included": [
+   "Privater Guide und Fahrer",
+   "Besuch des Roten Forts",
+   "Besuch von Jama Masjid",
+   "Besuch des India Gate",
+   "Besuch des Qutub Minar",
+   "Besuch des Präsidentenpalastes",
+   "Besuch des Taj Mahal",
+   "Besuch des Forts Agra",
+   "Besuch lokaler Märkte in Agra",
+   "Besuch des Amber Forts",
+   "Besuch des City Palace",
+   "Besuch von Jantar Mantar"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "from-delhi-2-day-agra-mathura-and-vrindavan-tour": {
+  "title": "Ab Delhi: 2-tägige Tour nach Agra, Mathura, und Vrindavan",
+  "metaTitle": "Delhi-Agra-Mathura-Vrindavan: 2 Tage",
+  "metaDescription": "Entdecken Sie den ikonischen Taj Mahal und das Fort Agra bei einer 2-tägigen Tour ab Delhi.",
+  "shortDescription": "Entdecken Sie den ikonischen Taj Mahal und das Fort Agra bei einer 2-tägigen Tour ab Delhi.",
+  "fullDescription": "Entdecken Sie den ikonischen Taj Mahal und das Fort Agra bei dieser 2-tägigen Tour ab Delhi.",
+  "highlights": [
+   "Entdecken Sie den ikonischen Taj Mahal und das Fort Agra bei einer 2-tägigen Tour ab Delhi"
+  ],
+  "included": [
+   "Unterstützung bei Ankunft und Abreise",
+   "1 Nacht Unterkunft in der ausgewählten Hotelkategorie",
+   "Tägliches Frühstück im Hotel",
+   "Privates klimatisiertes Fahrzeug für Transfers und Besichtigungen",
+   "Englischsprachiger lokaler Guide während der Besichtigungen",
+   "Eintrittsgebühren zu den Denkmälern gemäß Reiseroute",
+   "Trinkwasser in Flaschen während der Reise",
+   "Alle anwendbaren staatlichen Steuern"
+  ],
+  "notIncluded": [
+   "Nationale oder internationale Flugtickets",
+   "Kameragebühren an Denkmälern",
+   "Mahlzeiten, die nicht in den Einschlüssen genannt sind",
+   "Persönliche Ausgaben wie Wäsche, Trinkgelder, und Getränke",
+   "Optionale Touren und Aktivitäten",
+   "Alles, was nicht unter den Einschlüssen genannt ist"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Rotes Fort, Baby Taj und Sonnenuntergang im Mehtab Bagh: die Freitags-Tour",
   "metaTitle": "Agra am Freitag: Rotes Fort, Baby Taj, Mehtab Bagh",

@@ -255,6 +255,88 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier cosa no específicamente mencionada en las inclusiones"
   ]
  },
+ "from-delhi-agra-bharatpur-and-bird-sanctuary-2": {
+  "title": "Desde Delhi: tour de 2 días a Agra, Bharatpur, y al santuario de aves",
+  "metaTitle": "Delhi-Agra-Bharatpur: 2 días, santuario de aves",
+  "metaDescription": "Descubra el Taj Mahal, el Fuerte de Agra, y Fatehpur Sikri en un tour guiado.",
+  "shortDescription": "Descubra el Taj Mahal, el Fuerte de Agra, y Fatehpur Sikri en un tour guiado.",
+  "fullDescription": "Descubra el Taj Mahal, el Fuerte de Agra, y Fatehpur Sikri en este tour guiado.",
+  "highlights": [
+   "Descubra el Taj Mahal, el Fuerte de Agra, y Fatehpur Sikri en un tour guiado"
+  ],
+  "included": [
+   "Coche/furgoneta privada con aire acondicionado para recogida, traslados, recorridos, y regreso",
+   "1 noche de alojamiento en la categoría de hotel seleccionada",
+   "Desayuno diario en el hotel",
+   "Guía local de habla inglesa durante los recorridos",
+   "Tarifas de entrada a los monumentos, si la opción seleccionada las incluye",
+   "Agua potable embotellada en el vehículo",
+   "Impuestos gubernamentales"
+  ],
+  "notIncluded": [
+   "Boletos de avión o tren",
+   "Tarifas de cámara en monumentos",
+   "Comidas distintas a las mencionadas en las inclusiones",
+   "Gastos personales como lavandería, propinas, y bebidas",
+   "Actividades opcionales",
+   "Cualquier cosa no específicamente mencionada en las inclusiones"
+  ]
+ },
+ "agra-express-evening-tour": {
+  "title": "Triángulo Dorado 3 días/2 noches: tour exprés con hotel",
+  "metaTitle": "Triángulo Dorado exprés 3 días con hotel",
+  "metaDescription": "Sienta la magia de la India en un tour del Triángulo Dorado de 3 días desde Delhi.",
+  "shortDescription": "Sienta la magia de la India en un tour del Triángulo Dorado de 3 días desde Delhi.",
+  "fullDescription": "Experimente el icónico Triángulo Dorado de la India en un viaje privado de 3 días y 2 noches que cubre Delhi, Agra, y Jaipur. Este tour exprés está diseñado para viajeros que quieren descubrir los famosos monumentos de la India, su vibrante cultura, patrimonio real, y tradiciones locales en un itinerario cómodo y eficiente en tiempo.\n\n**Día 1: Delhi – Agra**\n\nSu tour comienza con una recogida en su hotel, aeropuerto, o lugar preferido en Delhi, Gurugram, Noida, Ghaziabad, o áreas cercanas. Conozca a su conductor privado y comience su recorrido turístico de Delhi.\n\nVisite algunos de los puntos destacados de la ciudad, como India Gate, la Casa del Presidente y edificios gubernamentales, Qutub Minar, el Templo del Loto, la Tumba de Humayun, y las áreas históricas del viejo Delhi. Según su hora de salida, también puede explorar Jama Masjid y disfrutar de un paseo opcional en rickshaw por las calles animadas de Chandni Chowk.\n\nDespués del recorrido turístico, viaje a Agra en un vehículo privado con aire acondicionado. Regístrese en su hotel y relájese.\n\n**Día 2: Agra – Jaipur**\n\nComience su mañana con una visita al magnífico Taj Mahal. Su guía local compartirá la historia, arquitectura, e historias detrás de este monumento mundialmente famoso. Tómese tiempo para explorar los jardines y disfrutar de oportunidades para fotos.\n\nDespués del Taj Mahal, visite el Fuerte de Agra, un impresionante Sitio del Patrimonio Mundial de la UNESCO con grandes patios, palacios, salones, y vistas históricas hacia el Taj Mahal.\n\nContinúe su viaje hacia Jaipur, la colorida capital de Rajastán. En el camino, puede visitar Fatehpur Sikri, la histórica ciudad mogol conocida por su impresionante arquitectura de arenisca roja.\n\nLlegue a Jaipur, regístrese en su hotel, y disfrute de la tarde a su propio ritmo.\n\n**Día 3: Jaipur – Delhi**\n\nDespués del desayuno, explore Jaipur con su guía privado. Visite el espectacular Fuerte Amber, ubicado en las colinas fuera de la ciudad, y admire sus patios, palacios, puertas, y detalles arquitectónicos.\n\nContinúe hacia el City Palace, un complejo real histórico en el corazón de Jaipur. Vea el hermoso Hawa Mahal (Palacio de los Vientos) desde el exterior y visite Jantar Mantar, un impresionante observatorio astronómico.\n\nDespués del recorrido turístico, comience su viaje de regreso a Delhi. Puede ser dejado en su hotel, aeropuerto, u otro lugar preferido en Delhi o los alrededores.",
+  "highlights": [
+   "Sienta la magia de la India en un tour del Triángulo Dorado de 3 días desde Delhi"
+  ],
+  "included": [
+   "Guía y conductor privados",
+   "Visita al Fuerte Rojo",
+   "Visita a Jama Masjid",
+   "Visita a India Gate",
+   "Visita a Qutub Minar",
+   "Visita al Palacio Presidencial",
+   "Visita al Taj Mahal",
+   "Visita al Fuerte de Agra",
+   "Visita a mercados locales en Agra",
+   "Visita al Fuerte Amber",
+   "Visita al City Palace",
+   "Visita a Jantar Mantar"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "from-delhi-2-day-agra-mathura-and-vrindavan-tour": {
+  "title": "Desde Delhi: tour de 2 días a Agra, Mathura, y Vrindavan",
+  "metaTitle": "Delhi-Agra-Mathura-Vrindavan: 2 días",
+  "metaDescription": "Descubra el icónico Taj Mahal y el Fuerte de Agra en un tour de 2 días desde Delhi.",
+  "shortDescription": "Descubra el icónico Taj Mahal y el Fuerte de Agra en un tour de 2 días desde Delhi.",
+  "fullDescription": "Descubra el icónico Taj Mahal y el Fuerte de Agra en este tour de 2 días desde Delhi.",
+  "highlights": [
+   "Descubra el icónico Taj Mahal y el Fuerte de Agra en un tour de 2 días desde Delhi"
+  ],
+  "included": [
+   "Asistencia en la llegada y salida",
+   "1 noche de alojamiento en la categoría de hotel seleccionada",
+   "Desayuno diario en el hotel",
+   "Vehículo privado con aire acondicionado para traslados y recorridos",
+   "Guía local de habla inglesa durante los recorridos",
+   "Tarifas de entrada a los monumentos según el itinerario",
+   "Agua potable embotellada durante el viaje",
+   "Todos los impuestos gubernamentales aplicables"
+  ],
+  "notIncluded": [
+   "Boletos de avión nacionales o internacionales",
+   "Tarifas de cámara en monumentos",
+   "Comidas no mencionadas en las inclusiones",
+   "Gastos personales como lavandería, propinas, y bebidas",
+   "Tours y actividades opcionales",
+   "Cualquier cosa no mencionada en las inclusiones"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fuerte de Agra, Baby Taj y atardecer en Mehtab Bagh: la visita especial de los viernes",
   "metaTitle": "Agra en viernes: Fuerte de Agra, Baby Taj y atardecer",
