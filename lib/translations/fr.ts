@@ -3494,6 +3494,79 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "from-delhi-sunrise-taj-mahal-agra-fort-day-trip": {
+  "title": "Depuis Delhi : excursion d'une journée au Taj Mahal au lever du soleil et au fort d'Agra en voiture climatisée",
+  "metaTitle": "Delhi-Agra : Taj Mahal au lever du soleil, fort",
+  "metaDescription": "Assistez à l'emblématique Taj Mahal au lever du soleil avec moins de foules.",
+  "shortDescription": "Assistez à l'emblématique Taj Mahal au lever du soleil avec moins de foules.",
+  "fullDescription": "Commencez votre voyage depuis Delhi avec une prise en charge tôt le matin (vers 2h30-3h00), recommandée pour une visite au lever du soleil du Taj Mahal. Alternativement, vous pouvez choisir une heure de prise en charge plus tardive entre 3h00 et 10h00 pour une visite régulière du Taj Mahal et du fort d'Agra. Voyagez confortablement dans une voiture climatisée via l'autoroute et profitez d'un trajet fluide vers Agra.\n\nÀ l'arrivée, rencontrez votre guide professionnel et dirigez-vous vers le Taj Mahal. Regardez les premiers rayons de soleil illuminer le marbre blanc, créant une atmosphère magique. La visite tôt le matin offre moins de foules et des températures plus fraîches, la rendant parfaite pour une expérience paisible et une photographie impressionnante.\n\nAprès la visite au lever du soleil, dirigez-vous vers un hôtel 5 étoiles pour le petit-déjeuner (si option sélectionnée).\n\nContinuez votre visite avec une visite du fort d'Agra, un site du patrimoine mondial de l'UNESCO et ancienne résidence des empereurs moghols. Explorez ses impressionnants palais, cours, et salles, notamment Diwan-i-Am et Diwan-i-Khas, tout en découvrant sa riche histoire auprès de votre guide. Profitez d'une vue lointaine sur le Taj Mahal depuis le fort.\n\nAprès avoir terminé la visite, détendez-vous pendant votre trajet de retour vers Delhi. Vous serez déposé à votre lieu préféré à Delhi, Gurugram, Noida, ou à l'aéroport.",
+  "highlights": [
+   "Assistez à l'emblématique Taj Mahal au lever du soleil avec moins de foules"
+  ],
+  "included": [
+   "Prise en charge et retour depuis votre lieu préféré",
+   "Véhicule climatisé pour tous les transferts et visites",
+   "Guide touristique professionnel en direct",
+   "Billets d'entrée au Taj Mahal (si option sélectionnée)",
+   "Billets d'entrée au fort d'Agra (si option sélectionnée)",
+   "Petit-déjeuner dans un hôtel 5 étoiles (si option sélectionnée)",
+   "Tous les péages, le stationnement, et les frais de carburant",
+   "Bouteille d'eau offerte",
+   "Parapluie (si nécessaire)"
+  ],
+  "notIncluded": [
+   "Pourboires et gratifications (optionnel)",
+   "Dépenses personnelles",
+   "Boissons"
+  ]
+ },
+ "delhi-airport-to-taj-mahal-tour-instant-booking": {
+  "title": "Visite de l'aéroport de Delhi au Taj Mahal, réservation instantanée",
+  "metaTitle": "Delhi-Taj Mahal : réservation instantanée",
+  "metaDescription": "Prise en charge et retour gratuits depuis l'aéroport de Delhi.",
+  "shortDescription": "Prise en charge et retour gratuits depuis l'aéroport de Delhi.",
+  "fullDescription": "**Jour 1 : Delhi, Agra, Delhi**\nÀ l'atterrissage à l'aéroport de Delhi, notre chauffeur vous présentera la pancarte avec votre nom et titre, et vous recevrez un accueil chaleureux. Après être monté dans la voiture privée, votre trajet commence directement vers la ville d'Agra. La distance entre les deux villes est de 220 km, ce qui prend 3 heures et demie pour arriver à Agra.\n\nÀ l'arrivée à Agra, vous rencontrerez votre guide touristique et votre visite commence par la visite du Taj Mahal. Jusqu'à présent, le Taj Mahal est l'un des meilleurs exemples d'art et d'architecture, et il montre également une obsession de l'empereur pour sa reine. Notre guide touristique explique les faits et mythes sur ce monument de classe mondiale.\n\nEnsuite, vous vous dirigerez vers la visite intéressante du fort d'Agra, qui est le fort le mieux décoré de l'Empire moghol. Maintenant, vous pouvez découvrir les délices de la ville d'Agra et ses saveurs secrètes en profitant de votre déjeuner, et explorer également les célèbres bazars mondialement connus de cette ville. À la fin de la journée, vous retournerez à l'aéroport de Delhi pour prendre votre vol de retour.",
+  "highlights": [
+   "Prise en charge et retour gratuits depuis l'aéroport de Delhi"
+  ],
+  "included": [
+   "Véhicule de luxe privé climatisé pour toute la visite (jusqu'à 2 personnes en berline, puis Innova Crysta)",
+   "Tous les péages, frais d'état, frais de carburant, et indemnité du chauffeur",
+   "Guide touristique parlant anglais agréé par le gouvernement (autres langues disponibles)",
+   "Accueil traditionnel par un représentant à l'aéroport de Delhi",
+   "Aller-retour",
+   "Visites selon l'itinéraire"
+  ],
+  "notIncluded": [
+   "Pourboires (chauffeur/porteur/guide touristique/représentant)",
+   "Billets d'entrée aux monuments",
+   "Autres repas sauf le petit-déjeuner",
+   "Dépenses de nature personnelle",
+   "Autres frais d'activité"
+  ]
+ },
+ "agra-option-sunrise-tour": {
+  "title": "Visite privée du Taj Mahal et d'Agra en journée depuis Delhi : option lever du soleil",
+  "metaTitle": "Delhi-Agra : visite privée, lever du soleil",
+  "metaDescription": "Profitez d'une visite fluide et sans tracas avec des horaires de départ flexibles depuis Delhi.",
+  "shortDescription": "Profitez d'une visite fluide et sans tracas avec des horaires de départ flexibles depuis Delhi.",
+  "fullDescription": "Découvrez une visite privée d'une journée du Taj Mahal et d'Agra depuis Delhi avec la liberté de choisir entre une option de lever de soleil matinal et des départs flexibles le matin ou pendant la journée.\n\nVotre chauffeur professionnel vous prendra en charge à tout hôtel, résidence, ou aéroport à Delhi, Noida, Greater Noida, Gurugram, Ghaziabad, ou Faridabad. La prise en charge est également disponible depuis l'aéroport Delhi IGI, l'aéroport Hindon, et l'aéroport international de Noida à Jewar.\n\nChoisissez le départ à 2h30 pour atteindre le Taj Mahal autour du lever du soleil, selon la lumière saisonnière, la météo, le trafic, et les procédures d'entrée au monument. Alternativement, sélectionnez n'importe quelle heure de prise en charge plus tardive entre 3h00 et 10h00 pour une visite matinale ou diurne.\n\nVoyagez vers Agra dans une voiture privée climatisée via l'autoroute Yamuna. Le trajet prend généralement environ 3,5 heures, selon le trafic et votre lieu de prise en charge. Après votre arrivée à Agra, rencontrez votre guide privé près du premier arrêt de visite.\n\nCommencez au Taj Mahal, où votre guide partagera l'histoire de l'empereur Shah Jahan et Mumtaz Mahal. Explorez les jardins paysagers, le bassin réfléchissant, l'architecture en marbre blanc, le travail d'incrustation complexe, et les principaux points de vue photographiques à un rythme confortable.\n\nAprès le Taj Mahal, faites une pause repas. Les invités choisissant le départ à 2h30 peuvent choisir le petit-déjeuner, tandis que ceux commençant plus tard peuvent choisir le déjeuner ou le dîner selon l'horaire de la visite. Les repas ne sont pas inclus sauf réservation séparée.\n\nContinuez vers le fort d'Agra, un site du patrimoine mondial de l'UNESCO connu pour ses portes fortifiées, ses cours royales, ses salles d'audience, et ses anciennes zones de palais. Votre guide expliquera son importance pendant la période moghole et vous montrera des points de vue accessibles vers le Taj Mahal.\n\nVotre dernier monument est le tombeau d'Itmad-ud-Daula (Baby Taj), un élégant tombeau au bord de la rivière admiré pour son incrustation détaillée en marbre, ses écrans sculptés, ses jardins symétriques, et son design moghol précoce.\n\nAprès avoir terminé la visite, détendez-vous pendant le trajet de retour privé vers la région de Delhi NCR. Le dépôt est disponible à l'hôtel, la résidence, ou l'aéroport pris en charge que vous avez choisi. L'heure d'arrivée finale dépendra de votre heure de prise en charge sélectionnée, du trafic, des conditions d'entrée au monument, de la pause repas, et du rythme de la visite.",
+  "highlights": [
+   "Profitez d'une visite fluide et sans tracas avec des horaires de départ flexibles depuis Delhi"
+  ],
+  "included": [
+   "Véhicule privé climatisé pour tous les transferts et visites",
+   "Services d'un guide touristique privé en direct tout au long de l'itinéraire",
+   "Billets d'entrée aux monuments organisés à l'avance (inclus uniquement si l'option « billets inclus » est sélectionnée)",
+   "Eau potable en bouteille et parapluies offerts",
+   "Tous les frais de stationnement, péages, coûts de carburant, et taxes applicables inclus"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle",
+   "Pourboires et gratifications pour le guide et le chauffeur",
+   "Repas (disponibles en supplément optionnel)"
+  ]
+ },
  "agra-fort-sunset-tour": {
   "title": "Fort d'Agra, Baby Taj et coucher de soleil à Mehtab Bagh : la visite spéciale vendredi",
   "metaTitle": "Agra le vendredi : fort, Baby Taj et coucher de soleil",
