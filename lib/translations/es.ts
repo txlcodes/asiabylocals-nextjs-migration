@@ -35834,6 +35834,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tarifas de entrada a monumentos.\nPropinas y gratificaciones.\nCualquier comida."
   ]
  },
+ "jaipur-half-day-guided-tour-with-amber-fort-and": {
+  "title": "Jaipur: tour guiado de medio dia con fuerte de Amber y paseo en bote",
+  "metaTitle": "Jaipur: medio dia, fuerte de Amber, bote",
+  "metaDescription": "Paradas fotograficas en Hawa Mahal y Jal Mahal para vistas iconicas de Jaipur, con fuerte de Amber y paseo en bote en Amer.",
+  "shortDescription": "Paradas fotograficas en Hawa Mahal y Jal Mahal para vistas iconicas de Jaipur",
+  "fullDescription": "Jaipur: tour guiado de medio dia con fuerte de Amber y paseo en bote. Paradas fotograficas en Hawa Mahal y Jal Mahal para vistas iconicas de Jaipur.\n\nExperimente el encanto de Jaipur en un tour privado de medio dia que combina monumentos iconicos con cultura local y experiencias unicas. Comience en el famoso Hawa Mahal, luego continue hacia el Jal Mahal para vistas pacificas del lago. Visite el historico pozo escalonado Panna Meena, conocido por su llamativa simetria, antes de explorar el majestuoso fuerte de Amber con sus grandes patios y vistas desde la colina.\n\nDisfrute de un relajante paseo en bote cerca de Amer, con entornos pintorescos y un descanso refrescante del turismo. Despues, explore los vibrantes mercados de Jaipur y termine su dia con una experiencia practica de impresion con bloques donde podra aprender tecnicas tradicionales de artesanos locales.\n\nPor la tarde, disfrute de un recorrido por la ciudad vieja iluminada de Jaipur, donde los monumentos brillantes y las calles animadas crean una atmosfera magica.\n\nHawa Mahal (parada fotografica)\nComience su tour en el iconico Palacio de los Vientos, uno de los monumentos mas fotografiados de Jaipur, conocido por su fachada unica y sus intrincadas ventanas.\n\nJal Mahal (vista del lago)\nDetengase en el hermoso Jal Mahal situado en medio del lago Man Sagar, perfecto para vistas pintorescas y fotos.\n\nFuerte de Amber\nExplore el magnifico fuerte de Amber, famoso por su arquitectura Rajput, trabajo de espejos, grandes patios y vistas panoramicas de las colinas Aravalli.\n\nPozo escalonado Panna Meena\nVisite este pozo escalonado historico conocido por su diseño geometrico y su ambiente pacifico, ideal para la fotografia.\n\nExperiencia de paseo en bote en Amer\nDisfrute de un relajante paseo en bote cerca de Amer, rodeado de paisajes pintorescos, ofreciendo una experiencia tranquila y unica.\n\nExperiencia practica de impresion con bloques\nDescubra el patrimonio textil de Jaipur con una sesion practica de impresion con bloques. Aprenda de artesanos locales y cree su propia pieza impresa.\n\nRecorrido nocturno por la ciudad rosa\nDisfrute de un recorrido por la ciudad vieja iluminada de Jaipur mientras los monumentos se iluminan y las calles cobran vida por la tarde.\n\nVisita al mercado local (opcional)\nExplore los bulliciosos mercados de Jaipur llenos de artesania, textiles, joyeria y recuerdos mientras experimenta el vibrante ambiente de la ciudad.\n\n### Que incluye\n\n- Recogida y traslado dentro de Jaipur\n- Vehiculo privado con aire acondicionado con conductor de habla inglesa\n- Agua embotellada\n- Gastos de combustible, estacionamiento e impuestos\n- Tour de medio dia por Jaipur con opcion de amanecer o atardecer\n- Incluye entradas a monumentos y servicio de guia si se selecciona\n\n### No incluye\n\n- Propinas y gratificaciones\n- Comidas",
+  "highlights": [
+   "Paradas fotograficas en Hawa Mahal y Jal Mahal para vistas iconicas de Jaipur"
+  ],
+  "included": [
+   "Recogida y traslado dentro de Jaipur.\nVehiculo privado con aire acondicionado con conductor de habla inglesa.\nAgua embotellada\nGastos de combustible, estacionamiento e impuestos.\nTour de medio dia por Jaipur con opcion de amanecer o atardecer\nIncluye entradas a monumentos y servicio de guia si se selecciona"
+  ],
+  "notIncluded": [
+   "Propinas y gratificaciones\nComidas"
+  ]
+ },
+ "jaipur-private-half-day-instagram-city-tour-with": {
+  "title": "Jaipur: tour privado de Instagram de la ciudad, medio dia con guia",
+  "metaTitle": "Jaipur: tour de Instagram, medio dia",
+  "metaDescription": "Capture la esencia del rico patrimonio y belleza de Jaipur en un tour fotografico de 6 horas: Hawa Mahal, fuerte de Amber y mas.",
+  "shortDescription": "Capture la esencia del rico patrimonio y belleza de Jaipur en un tour fotografico",
+  "fullDescription": "Jaipur: tour privado de Instagram de la ciudad, medio dia con guia. Capture la esencia del rico patrimonio y belleza de Jaipur en un tour fotografico.\n\nDescubra los lugares mas dignos de Instagram en Jaipur en un tour fotografico de 6 horas con su propio guia personal. Sumerjase en la vibrante cultura de la ciudad y capture impresionantes imagenes de sus monumentos iconicos, perfectas para compartir en sus redes sociales. Desde joyas arquitectonicas hasta lugares culturales destacados, este tour de medio dia le brindara infinitas oportunidades para crear contenido inolvidable.\n\nItinerario del tour:\n\nHawa Mahal\nEl Hawa Mahal, o \"Palacio de los Vientos\", es un palacio de cinco pisos en Jaipur conocido por su unica fachada de panal con 953 ventanas. Disenado para que las damas reales observaran discretamente la vida en la calle, es un lugar popular para impresionante fotografia arquitectonica y cultural.\n\nColorido mercado de flores\nExplore el vibrante mercado de flores de Jaipur y sumerjase en la rica vida y cultura local de la ciudad. Observe a los vendedores de flores en accion mientras arreglan y venden habilmente flores frescas en un ambiente animado y fragante. ¡No olvide capturar algunas fotos coloridas de la vida cotidiana de Jaipur en el camino!\n\nPozo escalonado Panna Meena\nEl pozo escalonado Panna Meena es una impresionante maravilla arquitectonica del siglo XVI en Jaipur, conocida por su diseño simetrico y de varios niveles. Los intrincados escalones y patrones geometricos lo convierten en un lugar ideal para fotografia cautivadora.\n\nTemplo Shri Jagat Shiromani Ji\nExperimente la belleza y espiritualidad del templo Shri Jagat Shiromani Ji, un templo historico dedicado al senor Vishnu y Meera Bai. Con sus intrincadas talladuras y ambiente sereno, este templo no solo es un lugar turistico popular, sino tambien perfecto para capturar impresionantes fotografias.\n\nFuerte de Amer\nEl fuerte de Amer es una ubicacion impresionante para la fotografia, que ofrece innumerables lugares perfectos para fotos en sus grandes salones, patios y miradores pintorescos. La intrincada arquitectura del fuerte y su rica historia lo convierten en uno de los monumentos mas fotogenicos de Jaipur.\n\nPalacio del Agua\nDescubra el impresionante Palacio del Agua, tambien conocido como Jal Mahal, ubicado en el centro del lago Man Sagar. Esta obra maestra arquitectonica esta rodeada de agua y enmarcada por las majestuosas colinas Aravalli, convirtiendola en un lugar imprescindible para los entusiastas de la fotografia, especialmente durante la hora dorada.\n\nRoyal Gaitor\nDescubra la belleza atemporal del Royal Gaitor, un sitio de cremacion real famoso por sus exquisitamente talladas cenotafios. Su ambiente pacifico e historico ofrece un escenario perfecto para capturar la elegancia de la arquitectura y el rico patrimonio cultural.\n\nTaller de arte de impresion con bloques y textiles\nConcluya su tour con una visita a un taller tradicional de arte de impresion con bloques en la ciudad rosa. Experimente el intrincado arte de la impresion con bloques y explore vibrantes textiles y alfombras, ofreciendo un vistazo a la rica artesania de Jaipur.\n\n### Que incluye\n\n- Recogida y traslado al hotel\n- Guia profesional (opcional)\n- Combustible, estacionamiento y todos los demas impuestos\n- Visita al taller de arte de impresion con bloques\n- Agua embotellada\n\n### No incluye\n\n- Propinas\n- Comidas",
+  "highlights": [
+   "Capture la esencia del rico patrimonio y belleza de Jaipur en un tour fotografico"
+  ],
+  "included": [
+   "Recogida y traslado al hotel\nGuia profesional (opcional)\nCombustible, estacionamiento y todos los demas impuestos\nVisita al taller de arte de impresion con bloques\nAgua embotellada"
+  ],
+  "notIncluded": [
+   "Propinas\nComidas"
+  ]
+ },
+ "jaipur-block-printing-workshop-with-factory-tour": {
+  "title": "Jaipur: taller de impresion con bloques con visita a la fabrica",
+  "metaTitle": "Jaipur: taller de impresion con bloques, fabrica",
+  "metaDescription": "Descubra el arte de la impresion con bloques en un taller practico en Jaipur, duracion 2-3 horas, con 2,5 metros de tela de algodon incluidos.",
+  "shortDescription": "Descubra el arte de la impresion con bloques en un taller practico en Jaipur",
+  "fullDescription": "Jaipur: taller de impresion con bloques con visita a la fabrica. Descubra el arte de la impresion con bloques en un taller practico en Jaipur.\n\nUnase a una clase de impresion con bloques para principiantes (duracion 2-3 horas) en Sanganer, Jaipur, y aprenda a imprimir sobre tela. Descubra la belleza de los textiles hechos a mano con una experiencia de aprendizaje creativa e inmersiva disenada para todos los grupos de edad. Ya sea que sea principiante, estudiante, disenador o amante de la artesania, este taller le ayuda a explorar las tecnicas tradicionales de impresion con bloques de madera de forma divertida e interactiva.\n\nAprenda a usar bloques de madera tradicionales, tecnicas basicas y avanzadas de impresion con bloques, como mezclar tintes naturales y seguros para telas, principios de diseño de patrones, impresion sobre tela y consejos para crear impresiones limpias y profesionales.\n\n### Que incluye\n\n- Todos los materiales incluidos, tela de algodon de 2,5 metros, colores\n- Taller practico de impresion con bloques\n- Instruccion por artesanos experimentados\n- Actividad apta para familias",
+  "highlights": [
+   "Descubra el arte de la impresion con bloques en un taller practico en Jaipur"
+  ],
+  "included": [
+   "Todos los materiales incluidos, tela de algodon de 2,5 metros, colores\nTaller practico de impresion con bloques\nInstruccion por artesanos experimentados\nActividad apta para familias"
+  ],
+  "notIncluded": [
+   "Ninguno"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",

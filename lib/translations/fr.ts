@@ -35834,6 +35834,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Frais d'entrée aux monuments.\nPourboires et gratifications.\nTout repas."
   ]
  },
+ "jaipur-half-day-guided-tour-with-amber-fort-and": {
+  "title": "Jaipur : visite guidée d'une demi-journée avec fort d'Amber et balade en bateau",
+  "metaTitle": "Jaipur : demi-journée, fort d'Amber, bateau",
+  "metaDescription": "Arrêts photo au Hawa Mahal et au Jal Mahal pour des vues emblématiques de Jaipur, avec fort d'Amber et balade en bateau à Amer.",
+  "shortDescription": "Arrêts photo au Hawa Mahal et au Jal Mahal pour des vues emblématiques de Jaipur",
+  "fullDescription": "Jaipur : visite guidée d'une demi-journée avec fort d'Amber et balade en bateau. Arrêts photo au Hawa Mahal et au Jal Mahal pour des vues emblématiques de Jaipur.\n\nDécouvrez le charme de Jaipur lors d'une visite privée d'une demi-journée qui mêle monuments emblématiques, culture locale et expériences uniques. Commencez par le célèbre Hawa Mahal, puis continuez vers le Jal Mahal pour des vues paisibles sur le lac. Visitez l'historique puits à degrés Panna Meena, connu pour sa symétrie saisissante, avant d'explorer le majestueux fort d'Amber avec ses grandes cours et ses vues depuis la colline.\n\nProfitez d'une balade en bateau relaxante près d'Amer, offrant un environnement pittoresque et une pause rafraîchissante par rapport aux visites. Ensuite, explorez les marchés vibrants de Jaipur et terminez votre journée avec une expérience pratique d'impression au bloc où vous pourrez apprendre les techniques traditionnelles auprès d'artisans locaux.\n\nLe soir, profitez d'un trajet à travers la vieille ville illuminée de Jaipur, où les monuments éclairés et les rues animées créent une atmosphère magique.\n\nHawa Mahal (arrêt photo)\nCommencez votre visite à l'emblématique palais des vents, l'un des monuments les plus photographiés de Jaipur, connu pour sa façade unique et ses fenêtres complexes.\n\nJal Mahal (vue sur le lac)\nArrêtez-vous au magnifique Jal Mahal situé au milieu du lac Man Sagar, parfait pour des vues pittoresques et des photos.\n\nFort d'Amber\nExplorez le magnifique fort d'Amber, célèbre pour son architecture Rajput, son travail de miroir, ses grandes cours et ses vues panoramiques sur les collines Aravalli.\n\nPuits à degrés Panna Meena\nVisitez ce puits à degrés historique connu pour son design géométrique et son environnement paisible, idéal pour la photographie.\n\nBalade en bateau à Amer\nProfitez d'une balade en bateau relaxante près d'Amer, entourée de paysages pittoresques, offrant une expérience calme et unique.\n\nExpérience pratique d'impression au bloc\nDécouvrez le patrimoine textile de Jaipur lors d'une session pratique d'impression au bloc. Apprenez auprès d'artisans locaux et créez votre propre pièce imprimée.\n\nTrajet nocturne dans la ville rose\nProfitez d'un trajet à travers la vieille ville illuminée de Jaipur alors que les monuments s'éclairent et que les rues s'animent le soir.\n\nVisite du marché local (optionnel)\nExplorez les marchés animés de Jaipur remplis d'artisanat, de textiles, de bijoux et de souvenirs tout en découvrant l'atmosphère vibrante de la ville.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose dans Jaipur\n- Véhicule climatisé privé avec chauffeur parlant anglais\n- Eau en bouteille\n- Frais de carburant, stationnement et taxes\n- Visite de Jaipur d'une demi-journée avec option lever ou coucher de soleil\n- Billets d'entrée aux monuments et service de guide inclus si sélectionné\n\n### Non inclus\n\n- Pourboires et gratifications\n- Repas",
+  "highlights": [
+   "Arrêts photo au Hawa Mahal et au Jal Mahal pour des vues emblématiques de Jaipur"
+  ],
+  "included": [
+   "Prise en charge et dépose dans Jaipur.\nVéhicule climatisé privé avec chauffeur parlant anglais.\nEau en bouteille\nFrais de carburant, stationnement et taxes.\nVisite de Jaipur d'une demi-journée avec option lever ou coucher de soleil\nBillets d'entrée aux monuments et service de guide inclus si sélectionné"
+  ],
+  "notIncluded": [
+   "Pourboires et gratifications\nRepas"
+  ]
+ },
+ "jaipur-private-half-day-instagram-city-tour-with": {
+  "title": "Jaipur : visite privée Instagram de la ville d'une demi-journée avec guide",
+  "metaTitle": "Jaipur : visite Instagram demi-journée",
+  "metaDescription": "Capturez l'essence du riche patrimoine et de la beauté de Jaipur lors d'une visite photo de 6 heures : Hawa Mahal, fort d'Amber et plus.",
+  "shortDescription": "Capturez l'essence du riche patrimoine et de la beauté de Jaipur lors d'une visite photo",
+  "fullDescription": "Jaipur : visite privée Instagram de la ville d'une demi-journée avec guide. Capturez l'essence du riche patrimoine et de la beauté de Jaipur lors d'une visite photo.\n\nDécouvrez les endroits les plus dignes d'Instagram à Jaipur lors d'une visite photographique de 6 heures avec votre propre guide personnel. Plongez-vous dans la culture vibrante de la ville et capturez des images époustouflantes de ses monuments emblématiques, parfaites pour partager sur vos réseaux sociaux. Des joyaux architecturaux aux hauts lieux culturels, cette visite d'une demi-journée vous offrira d'innombrables occasions de créer du contenu inoubliable.\n\nItinéraire de la visite :\n\nHawa Mahal\nLe Hawa Mahal, ou « palais des vents », est un palais de cinq étages à Jaipur connu pour sa façade unique en nid d'abeille avec 953 fenêtres. Conçu pour permettre aux dames royales d'observer discrètement la vie de la rue, c'est un lieu populaire pour la photographie architecturale et culturelle époustouflante.\n\nMarché aux fleurs coloré\nExplorez le marché aux fleurs vibrant de Jaipur et plongez-vous dans la vie et la culture locale riche de la ville. Observez les vendeurs de fleurs en action alors qu'ils arrangent et vendent habilement des fleurs fraîches dans une atmosphère animée et parfumée. N'oubliez pas de capturer des photos colorées de la vie quotidienne de Jaipur en chemin !\n\nPuits à degrés Panna Meena\nLe puits à degrés Panna Meena est une merveille architecturale époustouflante du XVIe siècle à Jaipur, connue pour son design symétrique à plusieurs niveaux. Les marches complexes et les motifs géométriques en font un endroit idéal pour une photographie captivante.\n\nTemple Shri Jagat Shiromani Ji\nDécouvrez la beauté et la spiritualité du temple Shri Jagat Shiromani Ji, un temple historique dédié au seigneur Vishnu et à Meera Bai. Avec ses sculptures complexes et son atmosphère sereine, ce temple est non seulement un lieu touristique populaire mais aussi parfait pour capturer des photographies époustouflantes.\n\nFort d'Amber\nLe fort d'Amber est un lieu époustouflant pour la photographie, offrant d'innombrables endroits parfaits à travers ses grandes salles, cours et points de vue pittoresques. L'architecture complexe du fort et sa riche histoire en font l'un des monuments les plus photogéniques de Jaipur.\n\nPalais de l'eau\nDécouvrez le superbe palais de l'eau, aussi connu comme le Jal Mahal, situé au centre du lac Man Sagar. Ce chef-d'œuvre architectural est entouré d'eau et encadré par les majestueuses collines Aravalli, en faisant un lieu incontournable pour les passionnés de photographie, en particulier pendant l'heure dorée.\n\nRoyal Gaitor\nDécouvrez la beauté intemporelle du Royal Gaitor, un site de crémation royal célèbre pour ses cénotaphes exquisément sculptés. Son ambiance paisible et historique offre un cadre parfait pour capturer l'élégance de l'architecture et le riche patrimoine culturel.\n\nAtelier d'art d'impression au bloc et textile\nConcluez votre visite par une visite d'un atelier traditionnel d'art d'impression au bloc dans la ville rose. Découvrez l'art complexe de l'impression au bloc et explorez des textiles et tapis vibrants, offrant un aperçu du riche artisanat de Jaipur.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel\n- Guide professionnel (optionnel)\n- Carburant, stationnement et toutes autres taxes\n- Visite de l'atelier d'art d'impression au bloc\n- Eau en bouteille\n\n### Non inclus\n\n- Pourboires\n- Repas",
+  "highlights": [
+   "Capturez l'essence du riche patrimoine et de la beauté de Jaipur lors d'une visite photo"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel\nGuide professionnel (optionnel)\nCarburant, stationnement et toutes autres taxes\nVisite de l'atelier d'art d'impression au bloc\nEau en bouteille"
+  ],
+  "notIncluded": [
+   "Pourboires\nRepas"
+  ]
+ },
+ "jaipur-block-printing-workshop-with-factory-tour": {
+  "title": "Jaipur : atelier d'impression au bloc avec visite de l'usine",
+  "metaTitle": "Jaipur : atelier d'impression au bloc, usine",
+  "metaDescription": "Découvrez l'art de l'impression au bloc dans un atelier pratique à Jaipur, de durée 2-3 heures, avec tissu en coton de 2,5 mètres inclus.",
+  "shortDescription": "Découvrez l'art de l'impression au bloc dans un atelier pratique à Jaipur",
+  "fullDescription": "Jaipur : atelier d'impression au bloc avec visite de l'usine. Découvrez l'art de l'impression au bloc dans un atelier pratique à Jaipur.\n\nRejoignez un cours d'impression au bloc pour débutants (durée 2-3 heures) à Sanganer, Jaipur, et apprenez à imprimer sur tissu. Découvrez la beauté des textiles faits à la main avec une expérience d'apprentissage créative et immersive conçue pour tous les âges. Que vous soyez débutant, étudiant, designer ou amateur d'artisanat, cet atelier vous aide à explorer les techniques traditionnelles d'impression au bloc en bois de manière amusante et interactive.\n\nApprenez à utiliser des blocs en bois traditionnels, les techniques de base et avancées d'impression au bloc, comment mélanger des teintures naturelles et adaptées aux tissus, les principes de conception de motifs, l'impression sur tissu et des conseils pour créer des impressions nettes et professionnelles.\n\n### Ce qui est inclus\n\n- Tous les matériaux inclus, tissu en coton de 2,5 mètres, couleurs\n- Atelier pratique d'impression au bloc\n- Instruction par des artisans expérimentés\n- Activité adaptée aux familles",
+  "highlights": [
+   "Découvrez l'art de l'impression au bloc dans un atelier pratique à Jaipur"
+  ],
+  "included": [
+   "Tous les matériaux inclus, tissu en coton de 2,5 mètres, couleurs\nAtelier pratique d'impression au bloc\nInstruction par des artisans expérimentés\nActivité adaptée aux familles"
+  ],
+  "notIncluded": [
+   "Aucun"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
