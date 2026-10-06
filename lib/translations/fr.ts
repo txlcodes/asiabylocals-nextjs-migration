@@ -36458,6 +36458,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles : toute dépense personnelle comme pourboires, souvenirs, repas ou boissons supplémentaires et shopping.\nActivités optionnelles\nPourboires : pour le guide, le chauffeur ou le personnel de l'hôtel.\nRepas : déjeuner et dîner."
   ]
  },
+ "private-jaipur-village-jeep-tour": {
+  "title": "Jaipur : visite privée de village en jeep",
+  "metaTitle": "Jaipur : visite de village en jeep",
+  "metaDescription": "Visitez l'école du village lors d'un safari en jeep de 4 heures dans le mode de vie authentique des villages autour de Jaipur et Amer.",
+  "shortDescription": "Visite de l'école du village",
+  "fullDescription": "Jaipur : visite privée de village en jeep. Visite de l'école du village.\n\nPartez pour un safari en jeep de 4 heures au cœur du mode de vie propice des villages et créez des souvenirs inoubliables. Découvrez un authentique safari villageois à Jaipur en roulant dans une jeep ouverte, vous donnant un véritable goût de la vie de fermier. Ce voyage culturel présente tout ce que cette région a à offrir, de ses habitants accueillants et coutumes uniques à sa faune diversifiée. Les invités ont la rare opportunité de visiter des maisons locales et d'interagir avec les résidents, obtenant un aperçu de leur mode de vie et se connectant à leurs racines. Le safari en jeep de Jaipur est véritablement une expérience culturelle complète qui immerge les visiteurs au cœur de l'Inde rurale.\n\nDécouvrez la vie rurale authentique du Rajasthan lors de notre visite privée de village en safari jeep. Jetez un œil sur la façon dont les communautés locales de Jaipur et d'Amer ont vécu pendant des générations de la même manière traditionnelle que leurs ancêtres. Notre visite vous emmène dans plusieurs villages pittoresques autour d'Amer, où vous pourrez observer la vie quotidienne des fermiers et de leurs familles.\n\nProfitez de vues à couper le souffle sur la campagne et les collines depuis divers points de vue et interagissez avec les enfants de l'école.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel\n- Boissons gazeuses (illimitées)\n- Guide parlant anglais\n- Jeep Thar ouverte et chauffeur\n- Cadeaux pour les enfants de l'école\n- Application de henné\n\n### Non inclus\n\n- Déjeuner",
+  "highlights": [
+   "Visite de l'école du village"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel\nBoissons gazeuses (illimitées)\nGuide parlant anglais\nJeep Thar ouverte et chauffeur\nCadeaux pour les enfants de l'école\nApplication de henné"
+  ],
+  "notIncluded": [
+   "Déjeuner"
+  ]
+ },
+ "highlights-of-jaipur-full-day-private-tour-by-car": {
+  "title": "Points forts de Jaipur : visite privée d'une journée complète en voiture avec guide",
+  "metaTitle": "Jaipur : points forts, journée complète",
+  "metaDescription": "Explorez Jaipur en voiture climatisée privée, à votre propre rythme : fort d'Amber, Jal Mahal, City Palace, Jantar Mantar, Hawa Mahal.",
+  "shortDescription": "Explorez Jaipur en voiture climatisée privée, à votre propre rythme.",
+  "fullDescription": "Points forts de Jaipur : visite privée d'une journée complète en voiture avec guide. Explorez Jaipur en voiture climatisée privée, à votre propre rythme.\n\n1. Prise en charge confortable et introduction à la ville\nVotre chauffeur privé et guide local expert vous prennent en charge à votre hôtel, à l'aéroport ou à la gare à Jaipur. Alors que vous vous installez dans votre voiture climatisée, votre guide partage une brève introduction au passé royal de Jaipur et à sa culture vibrante d'aujourd'hui.\n\n2. Fort d'Amber - majesté au sommet d'une colline\nVoyagez juste à l'extérieur de la ville vers le magnifique fort d'Amber, s'élevant au-dessus du lac Maota. Marchez à travers de grandes cours, des salles travaillées de miroirs et des chambres royales tout en découvrant des histoires de bravoure Rajput et de vie de palais.\n\n3. Jal Mahal - palais sur l'eau\nFaites une pause au pittoresque Jal Mahal, flottant paisiblement dans le lac Man Sagar. Capturez des photos dignes de cartes postales et écoutez des histoires fascinantes sur ce palais de l'eau unique et son architecture astucieuse.\n\n4. Complexe du City Palace\nRetournez au cœur de Jaipur pour explorer le City Palace, toujours habité par la famille royale. Découvrez des musées, des costumes royaux, des armes et des cours élégantes qui révèlent des siècles d'héritage royal.\n\n5. Saveurs locales (optionnel)\nProfitez de temps libre pour le déjeuner dans un restaurant local soigneusement choisi. Votre guide peut recommander une cuisine rajasthanie authentique ou des options internationales selon vos goûts.\n\n6. Jantar Mantar - astronomie ancienne\nVisitez le Jantar Mantar classé UNESCO, où des instruments en pierre massifs étaient utilisés pour étudier les étoiles. Votre guide explique comment ces outils séculaires fournissent encore des lectures astronomiques précises.\n\n7. Hawa Mahal - le palais des vents\nAdmirez l'emblématique Hawa Mahal, célèbre pour sa façade en nid d'abeille et ses centaines de fenêtres. Découvrez comment les dames royales observaient autrefois la vie de la ville depuis ses écrans complexes.\n\n8. Promenade dans les bazars (optionnel)\nPromenez-vous dans les bazars colorés de Jaipur, connus pour les textiles, pierres précieuses, artisanat et souvenirs. C'est une excellente occasion d'interagir avec des artisans locaux et de faire du shopping à votre propre rythme.\n\n9. Dépose détendue\nAprès une journée complète d'exploration, votre chauffeur vous dépose à votre hôtel ou à l'endroit de votre choix à Jaipur, terminant votre visite privée avec des souvenirs inoubliables de la ville rose.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel/aéroport\n- Voiture climatisée privée pour toute l'activité du circuit avec chauffeur\n- Guide touristique expert agréé par le gouvernement\n- Billets d'entrée aux monuments (si l'option est choisie)\n- Déjeuner au restaurant (si l'option est choisie)\n- Bouteille d'eau minérale\n- Tous les péages et le stationnement\n\n### Non inclus\n\n- Toute dépense personnelle",
+  "highlights": [
+   "Explorez Jaipur en voiture climatisée privée, à votre propre rythme."
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel/aéroport\nVoiture climatisée privée pour toute l'activité du circuit avec chauffeur\nGuide touristique expert agréé par le gouvernement\nBillets d'entrée aux monuments (si l'option est choisie)\nDéjeuner au restaurant (si l'option est choisie)\nBouteille d'eau minérale\nTous les péages et le stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "temples-of-jaipur-half-day-tour": {
+  "title": "Visite d'une demi-journée des temples de Jaipur",
+  "metaTitle": "Jaipur : visite des temples, demi-journée",
+  "metaDescription": "Explorez la ville rose avec un guide local : temple Galtaji (temple des singes), Jagat Shiromani, Birla Mandir et Hawa Mahal.",
+  "shortDescription": "Explorez la ville rose avec un guide local",
+  "fullDescription": "Visite d'une demi-journée des temples de Jaipur. Explorez la ville rose avec un guide local.\n\nVous serez pris en charge à votre hôtel à Jaipur dès le matin, prêt à commencer l'exploration des temples les plus importants de la capitale rajasthanie. Prêt à vous perdre dans les divers sanctuaires sacrés de l'Inde, le lieu de naissance de quatre des principales religions du monde ?\n\nVotre premier arrêt sera Galtaji, un ancien site de pèlerinage hindou construit dans les collines Aravalli à un peu plus de 6 miles du centre-ville de Jaipur. Le complexe comprend plusieurs temples et bassins d'eau, remplis de sources sacrées venant des montagnes, dans lesquels les pèlerins se baignent et effectuent des rituels de purification. Le temple du Soleil est particulièrement spécial : il est aussi appelé temple des singes car ces primates amicaux en ont fait leur maison. Monter jusqu'aux sanctuaires au sommet de la colline vous offrira les vues les plus spectaculaires sur Jaipur, n'oubliez pas votre appareil photo !\n\nAprès avoir exploré Galtaji, vous retrouverez le bus pour vous rendre à votre prochain arrêt : Jagat Shiromani. Pas loin de l'emblématique fort d'Amber, la construction de ce temple hindou a été ordonnée par la reine Kanakwati à la fin du XVIe siècle en mémoire de son fils Jagat Singh. Depuis ce sanctuaire finement sculpté, vous vous rendrez à Kale Hanuman Ji et Govind Dev Ji.\n\nPoursuivant votre itinéraire autour des temples de la capitale rajasthanie, vous visiterez le Birla Mandir. Situé sur un terrain élevé sur la colline Moti Dungari, ce magnifique sanctuaire hindou est entouré de jardins luxuriants. Alors que l'architecture en marbre blanc éclatant vous captive, apprenez-en davantage sur le symbolisme des trois dômes du temple, représentant les trois façons d'approcher la religion.\n\nVous visiterez le Hawa Mahal, le bâtiment en grès rose magnifiquement élaboré aussi connu comme le palais des vents de Jaipur.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose d'hôtel à hôtel\n- Visite des temples\n- Guide\n- Transport privé pour la visite locale\n- Chauffeur professionnel\n- Stationnement et taxes\n- Bouteille d'eau\n\n### Non inclus\n\n- Nourriture et boissons\n- Pourboires",
+  "highlights": [
+   "Explorez la ville rose avec un guide local"
+  ],
+  "included": [
+   "Prise en charge et dépose d'hôtel à hôtel\nVisite des temples\nGuide\nTransport privé pour la visite locale\nChauffeur professionnel\nStationnement et taxes\nBouteille d'eau"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons\nPourboires"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
