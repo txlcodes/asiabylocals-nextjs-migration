@@ -74231,12 +74231,12 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai: Grossmoschee von Abu Dhabi, Palast, und Kulturdorf",
   "metaDescription": "Une ganztaegigeer Ausflug ab Abu Dhabi, der Abu Dhabi Heritage Village, The Corniche, Abu Dhabi, Qasr Al Watan und Etihad Towers besucht. Angeboten von OceanAir T...",
   "shortDescription": "Une ganztaegigeer Ausflug ab Abu Dhabi, der Abu Dhabi Heritage Village, The Corniche, Abu Dhabi, Qasr Al Watan und Etihad Towers besucht. Angeboten von OceanAir Travels.",
-  "fullDescription": "Ein ganztaegigeer Ausflug ab Abu Dhabi, der Abu Dhabi Heritage Village, The Corniche, Abu Dhabi, Qasr Al Watan und Etihad Towers umfasst. Der laengste Halt ist Qasr Al Watan, mit etwa 1 Stunde. Es gibt insgesamt 6 Stopps.\n\nDie Reihenfolge ist Abu Dhabi Heritage Village (30 min), dann The Corniche, Abu Dhabi (10 min), dann Qasr Al Watan (1h), dann Etihad Towers (5 min), dann Emirates Palace (5 min).\n\nDer Preis beinhaltet abholung und Rueckfahrt zum Hotel in Dubai, klimatisiertes Fahrzeug, fahrer und eintritt zur Sheikh-Zayed-Grossmoschee. Nicht enthalten sind guide und mittagessen, dafuer sollten Sie zusaetzlich budgetieren.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Abu Dhabi, der Abu Dhabi Heritage Village, The Corniche, Abu Dhabi, Qasr Al Watan und Etihad Towers umfasst. Der laengste Halt ist Qasr Al Watan, mit etwa 1 Stunde. Es gibt insgesamt 6 Stopps.\n\nDie Reihenfolge ist Abu Dhabi Heritage Village (30 min), dann The Corniche, Abu Dhabi (10 min), dann Qasr Al Watan (1h), dann Etihad Towers (5 min), dann Emirates Palace (5 min).\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt in Dubai, klimatisiertes Fahrzeug, fahrer und eintritt zur Sheikh-Zayed-Grossmoschee. Nicht enthalten sind guide und mittagessen, dafuer sollten Sie zusaetzlich budgetieren.",
   "highlights": [
    "Une ganztaegigeer Ausflug ab Abu Dhabi, der Abu Dhabi Heritage Village, The Corniche, Abu Dhabi, Qasr Al Watan und Etihad Towers besucht. Angeboten von OceanAir Travels."
   ],
   "included": [
-   "Abholung und Rueckfahrt zum Hotel in Dubai",
+   "Hotelabholung und Rueckfahrt in Dubai",
    "Klimatisiertes Fahrzeug",
    "Fahrer",
    "Eintritt zur Sheikh-Zayed-Grossmoschee"
@@ -76248,12 +76248,12 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ab Dubai: gefuehrte ganztaegige Sightseeing-Tour durch Abu Dhabi",
   "metaDescription": "Une ganztaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi und Emirates Palace besucht. Angeboten von Pa...",
   "shortDescription": "Une ganztaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi und Emirates Palace besucht. Angeboten von Pacific Adventures L.L.C.",
-  "fullDescription": "Ein ganztaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi und Emirates Palace umfasst. Es gibt insgesamt 7 Stopps.\n\nDie Reihenfolge ist Sheikh Zayed Mosque, dann Abu Dhabi Heritage Village, dann The Corniche, Abu Dhabi, dann Emirates Palace, dann Qasr Al Watan.\n\nDer Preis beinhaltet abholung und Rueckfahrt zum Hotel von Dubai, transport in einem klimatisierten Fahrzeug, live professioneller Reiseleiter und eintrittskarte fuer die Sheikh-Zayed-Großmoschee. Nicht enthalten sind persoenliche Ausgaben, mittagessen und Getraenke und gefuehrte Tour im Qasr Al Watan, dafuer sollten Sie zusaetzlich budgetieren.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi und Emirates Palace umfasst. Es gibt insgesamt 7 Stopps.\n\nDie Reihenfolge ist Sheikh Zayed Mosque, dann Abu Dhabi Heritage Village, dann The Corniche, Abu Dhabi, dann Emirates Palace, dann Qasr Al Watan.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt von Dubai, transport in einem klimatisierten Fahrzeug, live professioneller Reiseleiter und eintrittskarte fuer die Sheikh-Zayed-Großmoschee. Nicht enthalten sind persoenliche Ausgaben, mittagessen und Getraenke und gefuehrte Tour im Qasr Al Watan, dafuer sollten Sie zusaetzlich budgetieren.",
   "highlights": [
    "Une ganztaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi und Emirates Palace besucht. Angeboten von Pacific Adventures L.L.C."
   ],
   "included": [
-   "Abholung und Rueckfahrt zum Hotel von Dubai",
+   "Hotelabholung und Rueckfahrt von Dubai",
    "Transport in einem klimatisierten Fahrzeug",
    "Live professioneller Reiseleiter",
    "Eintrittskarte fuer die Sheikh-Zayed-Großmoschee"
@@ -77120,6 +77120,27 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "abu-dhabiheritageculture-with-natural-historical-m": {
+  "title": "Abu Dhabi: Kulturerbe mit naturhistorischem Museum",
+  "metaTitle": "Abu Dhabi: Kulturerbe mit naturhistorischem Museum",
+  "metaDescription": "Une halbtaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque, Emirates Heritage Village, Corniche Beach und Abu Dhabi Dates Market besucht. Angeboten von Marib...",
+  "shortDescription": "Une halbtaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque, Emirates Heritage Village, Corniche Beach und Abu Dhabi Dates Market besucht. Angeboten von Marib tour.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque, Emirates Heritage Village, Corniche Beach und Abu Dhabi Dates Market umfasst. Der laengste Halt ist Sheikh Zayed Mosque, mit etwa 2 Stunden. Es gibt insgesamt 5 Stopps.\n\nDie Reihenfolge ist Sheikh Zayed Mosque (2h), dann Emirates Heritage Village, dann Corniche Beach, dann Abu Dhabi Dates Market, dann Louvre Abu Dhabi (1h).\n\nDer Preis beinhaltet gemeinsamer Hin- und Ruecktransport, hotelabholung und Rueckfahrt von Dubai, fotostopp am Louvre-Museum und klimatisiertes Fahrzeug. Nicht enthalten sind essen und Getraenke, eintrittskarte fuer die Ferrari World und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une halbtaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque, Emirates Heritage Village, Corniche Beach und Abu Dhabi Dates Market besucht. Angeboten von Marib tour."
+  ],
+  "included": [
+   "Gemeinsamer Hin- und Ruecktransport",
+   "Hotelabholung und Rueckfahrt von Dubai",
+   "Fotostopp am Louvre-Museum",
+   "Klimatisiertes Fahrzeug"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke",
+   "Eintrittskarte fuer die Ferrari World",
+   "Persoenliche Ausgaben"
+  ]
+ },
  "abu-dhabi-private-4-hour-layover-city-tour": {
   "title": "Abu Dhabi: private 4-stuendige Stadtrundfahrt waehrend eines Zwischenstopps",
   "metaTitle": "Abu Dhabi: private 4-stuendige Stadtrundfahrt waehrend eines Z...",
@@ -77543,12 +77564,12 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ab Dubai: ganztaegige Abu-Dhabi-Tour mit Besuch der Grossmoschee",
   "metaDescription": "Une ganztaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque, UAE Presidential Palace, Abu Dhabi und Louvre Abu Dhabi besucht. Angeboten von OceanAir Travels.",
   "shortDescription": "Une ganztaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque, UAE Presidential Palace, Abu Dhabi und Louvre Abu Dhabi besucht. Angeboten von OceanAir Travels.",
-  "fullDescription": "Ein ganztaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque, UAE Presidential Palace, Abu Dhabi und Louvre Abu Dhabi umfasst. Der laengste Halt ist Sheikh Zayed Mosque, mit etwa 2 Stunden. Es gibt insgesamt 5 Stopps.\n\nDie Reihenfolge ist Sheikh Zayed Mosque (2h), dann UAE Presidential Palace (1h), dann Abu Dhabi (1h), dann Louvre Abu Dhabi (30 min), dann Ferrari World Abu Dhabi (30 min).\n\nDer Preis beinhaltet abholung und Rueckfahrt zum Hotel von Dubai, transport in einem klimatisierten Fahrzeug, professioneller Reiseleiter und besuch der Sheikh-Zayed-Grossmoschee. Nicht enthalten sind mittagessen und Getraenke, persoenliche Ausgaben und nicht erwaehnte optionale Attraktionstickets, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 1052 $ statt 1052 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque, UAE Presidential Palace, Abu Dhabi und Louvre Abu Dhabi umfasst. Der laengste Halt ist Sheikh Zayed Mosque, mit etwa 2 Stunden. Es gibt insgesamt 5 Stopps.\n\nDie Reihenfolge ist Sheikh Zayed Mosque (2h), dann UAE Presidential Palace (1h), dann Abu Dhabi (1h), dann Louvre Abu Dhabi (30 min), dann Ferrari World Abu Dhabi (30 min).\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt von Dubai, transport in einem klimatisierten Fahrzeug, professioneller Reiseleiter und besuch der Sheikh-Zayed-Grossmoschee. Nicht enthalten sind mittagessen und Getraenke, persoenliche Ausgaben und nicht erwaehnte optionale Attraktionstickets, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 1052 $ statt 1052 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "Une ganztaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque, UAE Presidential Palace, Abu Dhabi und Louvre Abu Dhabi besucht. Angeboten von OceanAir Travels."
   ],
   "included": [
-   "Abholung und Rueckfahrt zum Hotel von Dubai",
+   "Hotelabholung und Rueckfahrt von Dubai",
    "Transport in einem klimatisierten Fahrzeug",
    "Professioneller Reiseleiter",
    "Besuch der Sheikh-Zayed-Grossmoschee"
@@ -77604,12 +77625,12 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Abu Dhabi: private ganztaegige Stadtrundfahrt mit Heritage-Mit...",
   "metaDescription": "ganztaegigees Erlebnis in Abu Dhabi. Entdecken Sie Abu Dhabi auf einer gefuehrten Tour mit Hotelabholung und -rueckfahrt. Angeboten von Whats Up Trip - F.Z.E.",
   "shortDescription": "ganztaegigees Erlebnis in Abu Dhabi. Entdecken Sie Abu Dhabi auf einer gefuehrten Tour mit Hotelabholung und -rueckfahrt. Angeboten von Whats Up Trip - F.Z.E.",
-  "fullDescription": "Ein ganztaegigees Erlebnis in Abu Dhabi. Entdecken Sie Abu Dhabi auf einer gefuehrten Tour mit Hotelabholung und -rueckfahrt.\n\nWhats Up Trip - F.Z.E fuehrt es durch, und 11 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet abholung und Rueckfahrt zum Hotel von Dubai, privater klimatisierter Transport, professioneller Fahrer-Guide und besuch der Sheikh-Zayed-Grossmoschee. Nicht enthalten sind eintrittsgebuehren und trinkgelder, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 461 $ statt 461 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Abu Dhabi. Entdecken Sie Abu Dhabi auf einer gefuehrten Tour mit Hotelabholung und -rueckfahrt.\n\nWhats Up Trip - F.Z.E fuehrt es durch, und 11 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt von Dubai, privater klimatisierter Transport, professioneller Fahrer-Guide und besuch der Sheikh-Zayed-Grossmoschee. Nicht enthalten sind eintrittsgebuehren und trinkgelder, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 461 $ statt 461 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "Entdecken Sie Abu Dhabi auf einer gefuehrten Tour mit Hotelabholung und -rueckfahrt"
   ],
   "included": [
-   "Abholung und Rueckfahrt zum Hotel von Dubai",
+   "Hotelabholung und Rueckfahrt von Dubai",
    "Privater klimatisierter Transport",
    "Professioneller Fahrer-Guide",
    "Besuch der Sheikh-Zayed-Grossmoschee"
@@ -77624,12 +77645,12 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ab Dubai: ganztaegige Ras-Al-Khaimah-Tour mit Hotelabholung",
   "metaDescription": "ganztaegigees Erlebnis in Dubai. Erkunden Sie Ras Al Khaimah auf einer ganztaegigen Tour ab Dubai mit Hotelabholung. Angeboten von Whats Up Trip - F.Z.E.",
   "shortDescription": "ganztaegigees Erlebnis in Dubai. Erkunden Sie Ras Al Khaimah auf einer ganztaegigen Tour ab Dubai mit Hotelabholung. Angeboten von Whats Up Trip - F.Z.E.",
-  "fullDescription": "Ein ganztaegigees Erlebnis in Dubai. Erkunden Sie Ras Al Khaimah auf einer ganztaegigen Tour ab Dubai mit Hotelabholung.\n\nWhats Up Trip - F.Z.E fuehrt es durch, und 7 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet abholung und Rueckfahrt zum Hotel von Dubai, privater Transport, professioneller Fahrer-Guide und wasser in Flaschen. Nicht enthalten sind mahlzeiten, eintrittsgebuehren und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 507 $ statt 507 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Dubai. Erkunden Sie Ras Al Khaimah auf einer ganztaegigen Tour ab Dubai mit Hotelabholung.\n\nWhats Up Trip - F.Z.E fuehrt es durch, und 7 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt von Dubai, privater Transport, professioneller Fahrer-Guide und wasser in Flaschen. Nicht enthalten sind mahlzeiten, eintrittsgebuehren und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 507 $ statt 507 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "Erkunden Sie Ras Al Khaimah auf einer ganztaegigen Tour ab Dubai mit Hotelabholung"
   ],
   "included": [
-   "Abholung und Rueckfahrt zum Hotel von Dubai",
+   "Hotelabholung und Rueckfahrt von Dubai",
    "Privater Transport",
    "Professioneller Fahrer-Guide",
    "Wasser in Flaschen"
@@ -80606,6 +80627,201 @@ export const DE_TOURS: Record<string, TourT> = {
    "Einkaufsausgaben"
   ]
  },
+ "dubai-sky-views-edge-walk-tickets-with-private-gmc": {
+  "title": "Dubai: Sky-Views-Edge-Walk-Tickets mit privatem GMC-Transfer",
+  "metaTitle": "Dubai: Sky-Views-Edge-Walk-Tickets mit privatem GMC-Transfer",
+  "metaDescription": "2,5-stuendigees Erlebnis in Dubai. Geniessen Sie Panoramablicke auf Dubai vom Sky Views Observatory. Angeboten von HARBOR TOURISM LLC.",
+  "shortDescription": "2,5-stuendigees Erlebnis in Dubai. Geniessen Sie Panoramablicke auf Dubai vom Sky Views Observatory. Angeboten von HARBOR TOURISM LLC.",
+  "fullDescription": "Ein 2,5-stuendigees Erlebnis in Dubai. Geniessen Sie Panoramablicke auf Dubai vom Sky Views Observatory.\n\nHARBOR TOURISM LLC fuehrt es durch, und 3 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet private Abholung und Rueckfahrt in einem GMC-SUV, eintritt zum Sky Views Observatory und professioneller Chauffeurdienst. Nicht enthalten sind essen und Getraenke, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 708 $ statt 708 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Geniessen Sie Panoramablicke auf Dubai vom Sky Views Observatory"
+  ],
+  "included": [
+   "Private Abholung und Rueckfahrt in einem GMC-SUV",
+   "Eintritt zum Sky Views Observatory",
+   "Professioneller Chauffeurdienst"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke"
+  ]
+ },
+ "dubai-desert-safari-with-camel-ride-quad-bike-bbq": {
+  "title": "Dubai: Wuestensafari mit Kamelritt, Quad, und BBQ-Abendessen",
+  "metaTitle": "Dubai: Wuestensafari mit Kamelritt, Quad, und BBQ-Abendessen",
+  "metaDescription": "Une ganztaegigeer Ausflug ab Dubai, der Lahbab Desert und Al Aweer besucht. Angeboten von Ramada Group Line.",
+  "shortDescription": "Une ganztaegigeer Ausflug ab Dubai, der Lahbab Desert und Al Aweer besucht. Angeboten von Ramada Group Line.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Dubai, der Lahbab Desert und Al Aweer umfasst. Der laengste Halt ist Al Aweer, mit etwa 4 Stunden. Es gibt insgesamt 2 Stopps.\n\nDie Reihenfolge ist Lahbab Desert (45 min), dann Al Aweer (4h).\n\nDer Preis beinhaltet abholung und Rueckfahrt zuhause in klimatisierten 4x4-Fahrzeugen, duenenfahrt, kamelritt und sandboarding. Nicht enthalten sind alkoholische Getraenke und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une ganztaegigeer Ausflug ab Dubai, der Lahbab Desert und Al Aweer besucht. Angeboten von Ramada Group Line."
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zuhause in klimatisierten 4x4-Fahrzeugen",
+   "Duenenfahrt",
+   "Kamelritt",
+   "Sandboarding"
+  ],
+  "notIncluded": [
+   "Alkoholische Getraenke",
+   "Persoenliche Ausgaben"
+  ]
+ },
+ "dubai-al-seef-creek-and-souks-guided-tour-with": {
+  "title": "Dubai: Al-Seef-, Creek- und Souk-Tour mit Abra-Fahrt",
+  "metaTitle": "Dubai: Al-Seef-, Creek- und Souk-Tour mit Abra-Fahrt",
+  "metaDescription": "3-stuendigees Erlebnis in Dubai. Erkunden Sie die engen Gassen des Al-Seef-Gebiets mit einem Guide. Angeboten von OceanAir Travels.",
+  "shortDescription": "3-stuendigees Erlebnis in Dubai. Erkunden Sie die engen Gassen des Al-Seef-Gebiets mit einem Guide. Angeboten von OceanAir Travels.",
+  "fullDescription": "Ein 3-stuendigees Erlebnis in Dubai. Erkunden Sie die engen Gassen des Al-Seef-Gebiets mit einem Guide.\n\nOceanAir Travels fuehrt es durch, und 11 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet gefuehrte Tour durch das Al-Seef-Gebiet, besuch des historischen Viertels, arabische Kaffeeverkostung und besuch lokaler Kunstgalerien. Nicht enthalten sind transport, ausser die Hotelabholungs-Option ist gewaehlt, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Erkunden Sie die engen Gassen des Al-Seef-Gebiets mit einem Guide"
+  ],
+  "included": [
+   "Gefuehrte Tour durch das Al-Seef-Gebiet",
+   "Besuch des historischen Viertels",
+   "Arabische Kaffeeverkostung",
+   "Besuch lokaler Kunstgalerien"
+  ],
+  "notIncluded": [
+   "Transport, ausser die Hotelabholungs-Option ist gewaehlt"
+  ]
+ },
+ "dubai-abu-dhabi-ferrari-world-louvre-private-suv-t": {
+  "title": "Dubai: private SUV-Tour zu Ferrari World Abu Dhabi und Louvre",
+  "metaTitle": "Dubai: private SUV-Tour zu Ferrari World Abu Dhabi und Louvre",
+  "metaDescription": "ganztaegigees Erlebnis in Abu Dhabi. Besuchen Sie die Ferrari World und den Louvre Abu Dhabi auf einem privaten Tagesausflug ab Dubai. Angeboten von HARBOR TOURIS...",
+  "shortDescription": "ganztaegigees Erlebnis in Abu Dhabi. Besuchen Sie die Ferrari World und den Louvre Abu Dhabi auf einem privaten Tagesausflug ab Dubai. Angeboten von HARBOR TOURISM LLC.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Abu Dhabi. Besuchen Sie die Ferrari World und den Louvre Abu Dhabi auf einem privaten Tagesausflug ab Dubai.\n\nHARBOR TOURISM LLC fuehrt es durch, und 10 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet allgemeine Eintrittskarte fuer die Ferrari World Abu Dhabi, eintrittskarte fuer den Louvre Abu Dhabi, hotelabholung und -rueckfahrt in Dubai und privater Ruecktransfer nach Dubai. Nicht enthalten sind mahlzeiten und zusaetzliche Getraenke, persoenliche Ausgaben und ferrari-World-Premium-Upgrades oder separat berechnete Erlebnisse, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 1124 $ statt 823 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Besuchen Sie die Ferrari World und den Louvre Abu Dhabi auf einem privaten Tagesausflug ab Dubai"
+  ],
+  "included": [
+   "Allgemeine Eintrittskarte fuer die Ferrari World Abu Dhabi",
+   "Eintrittskarte fuer den Louvre Abu Dhabi",
+   "Hotelabholung und -rueckfahrt in Dubai",
+   "Privater Ruecktransfer nach Dubai"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und zusaetzliche Getraenke",
+   "Persoenliche Ausgaben",
+   "Ferrari-World-Premium-Upgrades oder separat berechnete Erlebnisse"
+  ]
+ },
+ "from-dubai-private-abu-dhabi-city-tour-with-photo": {
+  "title": "Ab Dubai: private Abu-Dhabi-Stadttour mit Fotostopps",
+  "metaTitle": "Ab Dubai: private Abu-Dhabi-Stadttour mit Fotostopps",
+  "metaDescription": "ganztaegigees Erlebnis in Abu Dhabi. Entdecken Sie Abu Dhabi auf einer privaten ganztaegigen Tour ab Dubai. Angeboten von Wind Travel Turkey.",
+  "shortDescription": "ganztaegigees Erlebnis in Abu Dhabi. Entdecken Sie Abu Dhabi auf einer privaten ganztaegigen Tour ab Dubai. Angeboten von Wind Travel Turkey.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Abu Dhabi. Entdecken Sie Abu Dhabi auf einer privaten ganztaegigen Tour ab Dubai.\n\nWind Travel Turkey fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet private ganztaegige Abu-Dhabi-Stadtrundfahrt, privates klimatisiertes Fahrzeug, privater Fahrer und professioneller Reiseleiter. Nicht enthalten sind eintrittskarten fuer jegliche Attraktionen, eintritt zur Ferrari World Abu Dhabi und eintritt zu Qasr Al Hosn, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 914 $ statt 914 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Entdecken Sie Abu Dhabi auf einer privaten ganztaegigen Tour ab Dubai"
+  ],
+  "included": [
+   "Private ganztaegige Abu-Dhabi-Stadtrundfahrt",
+   "Privates klimatisiertes Fahrzeug",
+   "Privater Fahrer",
+   "Professioneller Reiseleiter"
+  ],
+  "notIncluded": [
+   "Eintrittskarten fuer jegliche Attraktionen",
+   "Eintritt zur Ferrari World Abu Dhabi",
+   "Eintritt zu Qasr Al Hosn"
+  ]
+ },
+ "dubai-burj-khalifa-sky-high-visit-with-private-gmc": {
+  "title": "Dubai: Burj-Khalifa-Sky-High-Besuch mit privatem GMC-Transfer",
+  "metaTitle": "Dubai: Burj-Khalifa-Sky-High-Besuch mit privatem GMC-Transfer",
+  "metaDescription": "2-stuendigees Erlebnis in Dubai. Geniessen Sie einen bequemen Besuch des Burj Khalifa mit einem privaten Transfer. Angeboten von HARBOR TOURISM LLC.",
+  "shortDescription": "2-stuendigees Erlebnis in Dubai. Geniessen Sie einen bequemen Besuch des Burj Khalifa mit einem privaten Transfer. Angeboten von HARBOR TOURISM LLC.",
+  "fullDescription": "Ein 2-stuendigees Erlebnis in Dubai. Geniessen Sie einen bequemen Besuch des Burj Khalifa mit einem privaten Transfer.\n\nHARBOR TOURISM LLC fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet eintrittskarten fuer den Burj Khalifa, privater GMC-SUV-Transfer mit uniformiertem Fahrer, abholung und Rueckfahrt von Ihrem gewaehlten Ort in Dubai und zugang zu den Ebenen 124 und 125 mit 360°-Panoramablick auf Dubai. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 597 $ statt 471 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Geniessen Sie einen bequemen Besuch des Burj Khalifa mit einem privaten Transfer"
+  ],
+  "included": [
+   "Eintrittskarten fuer den Burj Khalifa",
+   "Privater GMC-SUV-Transfer mit uniformiertem Fahrer",
+   "Abholung und Rueckfahrt von Ihrem gewaehlten Ort in Dubai",
+   "Zugang zu den Ebenen 124 und 125 mit 360°-Panoramablick auf Dubai"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "abu-dhabi-yas-waterworld-adventure-ticket-with-gmc": {
+  "title": "Abu Dhabi: Yas-Waterworld-Abenteuerticket mit GMC-Transfer",
+  "metaTitle": "Abu Dhabi: Yas-Waterworld-Abenteuerticket mit GMC-Transfer",
+  "metaDescription": "Une ganztaegigeer Ausflug ab Abu Dhabi, der Yas Waterworld besucht. Angeboten von HARBOR TOURISM LLC.",
+  "shortDescription": "Une ganztaegigeer Ausflug ab Abu Dhabi, der Yas Waterworld besucht. Angeboten von HARBOR TOURISM LLC.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Abu Dhabi, der Yas Waterworld umfasst. Der laengste Halt ist Yas Waterworld, mit etwa 8 Stunden.\n\nDer Preis beinhaltet eintritt zu Yas Waterworld Abu Dhabi, standardtransport vom gewaehlten Abholort und zugang zu allen Wasserattraktionen und thematischen Umgebungen. Nicht enthalten sind mahlzeiten, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 1317 $ statt 1085 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Une ganztaegigeer Ausflug ab Abu Dhabi, der Yas Waterworld besucht. Angeboten von HARBOR TOURISM LLC."
+  ],
+  "included": [
+   "Eintritt zu Yas Waterworld Abu Dhabi",
+   "Standardtransport vom gewaehlten Abholort",
+   "Zugang zu allen Wasserattraktionen und thematischen Umgebungen"
+  ],
+  "notIncluded": [
+   "Mahlzeiten"
+  ]
+ },
+ "from-dubai-abu-dhabi-city-tour-sheikh-zayed-grand": {
+  "title": "Ab Dubai: Abu-Dhabi-Stadttour und Sheikh-Zayed-Grossmoschee",
+  "metaTitle": "Ab Dubai: Abu-Dhabi-Stadttour und Sheikh-Zayed-Grossmoschee",
+  "metaDescription": "ganztaegigees Erlebnis in Abu Dhabi. Besuchen Sie die prachtvolle Sheikh-Zayed-Grossmoschee in Abu Dhabi. Angeboten von OceanAir Travels.",
+  "shortDescription": "ganztaegigees Erlebnis in Abu Dhabi. Besuchen Sie die prachtvolle Sheikh-Zayed-Grossmoschee in Abu Dhabi. Angeboten von OceanAir Travels.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Abu Dhabi. Besuchen Sie die prachtvolle Sheikh-Zayed-Grossmoschee in Abu Dhabi.\n\nOceanAir Travels fuehrt es durch, und 10 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt von ausgewaehlten Dubai-Gebieten, geteilter klimatisierter Transport, professioneller Reiseleiter und fotostopp an der Aussenseite der Ferrari World Abu Dhabi. Nicht enthalten sind eintrittskarte fuer die Ferrari World, eintrittskarten fuer Attraktionen, die nicht ausdruecklich als enthalten aufgefuehrt sind und mittagessen, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Besuchen Sie die prachtvolle Sheikh-Zayed-Grossmoschee in Abu Dhabi"
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt von ausgewaehlten Dubai-Gebieten",
+   "Geteilter klimatisierter Transport",
+   "Professioneller Reiseleiter",
+   "Fotostopp an der Aussenseite der Ferrari World Abu Dhabi"
+  ],
+  "notIncluded": [
+   "Eintrittskarte fuer die Ferrari World",
+   "Eintrittskarten fuer Attraktionen, die nicht ausdruecklich als enthalten aufgefuehrt sind",
+   "Mittagessen"
+  ]
+ },
+ "natural-coastal-tour-of-khorfakkan-with-driver-cum": {
+  "title": "Natur- und Kuestentour von Khorfakkan mit Fahrer-Guide",
+  "metaTitle": "Natur- und Kuestentour von Khorfakkan mit Fahrer-Guide",
+  "metaDescription": "Une ganztaegigeer Ausflug ab Dubai, der Shees Park, Mountain Top View Point, Al Rafisah Dam und Khorfakkan Amphitheatre besucht. Angeboten von Desert Rose Tourism...",
+  "shortDescription": "Une ganztaegigeer Ausflug ab Dubai, der Shees Park, Mountain Top View Point, Al Rafisah Dam und Khorfakkan Amphitheatre besucht. Angeboten von Desert Rose Tourism LLC L.L.C Dubai Branch.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Dubai, der Shees Park, Mountain Top View Point, Al Rafisah Dam und Khorfakkan Amphitheatre umfasst. Es gibt insgesamt 9 Stopps.\n\nDie Reihenfolge ist Shees Park (40 min), dann Mountain Top View Point (50 min), dann Al Rafisah Dam (30 min), dann Khorfakkan Amphitheatre (30 min), dann Hisn Khorfakkan | حصن خورفكان (30 min).\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt von Dubai oder Sharjah, transport in einem komfortablen klimatisierten Fahrzeug, professioneller Fahrer-Guide und kostenloses Trinkwasser. Nicht enthalten sind alles, was nicht in den Einschluessen erwaehnt ist, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 530 $ statt 530 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Une ganztaegigeer Ausflug ab Dubai, der Shees Park, Mountain Top View Point, Al Rafisah Dam und Khorfakkan Amphitheatre besucht. Angeboten von Desert Rose Tourism LLC L.L.C Dubai Branch."
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt von Dubai oder Sharjah",
+   "Transport in einem komfortablen klimatisierten Fahrzeug",
+   "Professioneller Fahrer-Guide",
+   "Kostenloses Trinkwasser"
+  ],
+  "notIncluded": [
+   "Alles, was nicht in den Einschluessen erwaehnt ist"
+  ]
+ },
+ "dubai-ain-dubai-tickets-with-private-gmc-yukon-xl": {
+  "title": "Dubai: Ain-Dubai-Tickets mit privatem GMC-Yukon-XL-Transfer",
+  "metaTitle": "Dubai: Ain-Dubai-Tickets mit privatem GMC-Yukon-XL-Transfer",
+  "metaDescription": "halbtaegigees Erlebnis in Dubai. Geniessen Sie einen privaten Transfer zum Ain Dubai in einem Luxus-GMC-Yukon-XL. Angeboten von HARBOR TOURISM LLC.",
+  "shortDescription": "halbtaegigees Erlebnis in Dubai. Geniessen Sie einen privaten Transfer zum Ain Dubai in einem Luxus-GMC-Yukon-XL. Angeboten von HARBOR TOURISM LLC.",
+  "fullDescription": "Ein halbtaegigees Erlebnis in Dubai. Geniessen Sie einen privaten Transfer zum Ain Dubai in einem Luxus-GMC-Yukon-XL.\n\nHARBOR TOURISM LLC fuehrt es durch, und 8 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet eintrittskarte fuer Ain Dubai, abholung und Rueckfahrt von Tuer zu Tuer, luxus-GMC-Yukon-XL und professioneller und uniformierter Chauffeur. Nicht enthalten sind mahlzeiten, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 493 $ statt 493 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Geniessen Sie einen privaten Transfer zum Ain Dubai in einem Luxus-GMC-Yukon-XL"
+  ],
+  "included": [
+   "Eintrittskarte fuer Ain Dubai",
+   "Abholung und Rueckfahrt von Tuer zu Tuer",
+   "Luxus-GMC-Yukon-XL",
+   "Professioneller und uniformierter Chauffeur"
+  ],
+  "notIncluded": [
+   "Mahlzeiten"
+  ]
+ },
  "from-ras-al-khaimah-private-dubai-highlights-suv-c": {
   "title": "Ab Ras Al Khaimah: private Dubai-Highlights-Stadtrundfahrt im SUV",
   "metaTitle": "Ab Ras Al Khaimah: private Dubai-Highlights-Stadtrundfahrt im SUV",
@@ -80623,6 +80839,188 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Mahlzeiten"
+  ]
+ },
+ "abu-dhabi-seaworld-entry-ticket-with-private-suv-t": {
+  "title": "Abu Dhabi: SeaWorld-Eintrittskarte mit privatem SUV-Transfer",
+  "metaTitle": "Abu Dhabi: SeaWorld-Eintrittskarte mit privatem SUV-Transfer",
+  "metaDescription": "ganztaegigees Erlebnis in Abu Dhabi. Erkunden Sie SeaWorld Yas Island, Abu Dhabi mit einem bequemen Transfer. Angeboten von HARBOR TOURISM LLC.",
+  "shortDescription": "ganztaegigees Erlebnis in Abu Dhabi. Erkunden Sie SeaWorld Yas Island, Abu Dhabi mit einem bequemen Transfer. Angeboten von HARBOR TOURISM LLC.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Abu Dhabi. Erkunden Sie SeaWorld Yas Island, Abu Dhabi mit einem bequemen Transfer.\n\nHARBOR TOURISM LLC fuehrt es durch, und 9 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet private Abholung und Rueckfahrt in einem Luxus-GMC-Yukon, zugang zu SeaWorld-Yas-Island-Abu-Dhabi-Tickets, kraftstoff und Salik-Maut enthalten, wasserflaschen und erkundung von acht einzigartig thematisierten Bereichen. Nicht enthalten sind essen und Getraenke, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 1242 $ statt 974 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Erkunden Sie SeaWorld Yas Island, Abu Dhabi mit einem bequemen Transfer"
+  ],
+  "included": [
+   "Private Abholung und Rueckfahrt in einem Luxus-GMC-Yukon",
+   "Zugang zu SeaWorld-Yas-Island-Abu-Dhabi-Tickets",
+   "Kraftstoff und Salik-Maut enthalten",
+   "Wasserflaschen",
+   "Erkundung von acht einzigartig thematisierten Bereichen"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke"
+  ]
+ },
+ "dubai-aquarium-underwater-zoo-tickets-with-suv-tra": {
+  "title": "Dubai: Aquarium- und Underwater-Zoo-Tickets mit SUV-Transfer",
+  "metaTitle": "Dubai: Aquarium- und Underwater-Zoo-Tickets mit SUV-Transfer",
+  "metaDescription": "halbtaegigees Erlebnis in Dubai. Erkunden Sie das Dubai Aquarium und Underwater Zoo mit einer Eintrittskarte. Angeboten von HARBOR TOURISM LLC.",
+  "shortDescription": "halbtaegigees Erlebnis in Dubai. Erkunden Sie das Dubai Aquarium und Underwater Zoo mit einer Eintrittskarte. Angeboten von HARBOR TOURISM LLC.",
+  "fullDescription": "Ein halbtaegigees Erlebnis in Dubai. Erkunden Sie das Dubai Aquarium und Underwater Zoo mit einer Eintrittskarte.\n\nHARBOR TOURISM LLC fuehrt es durch, und 9 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet eintrittskarte fuer das Dubai Aquarium und Underwater Zoo, privater Transfer in einem Luxus-GMC-Yukon, abholung und Rueckfahrt vom Hotel oder Wohnsitz in Dubai und zugang zum Underwater Zoo. Nicht enthalten sind essen und Getraenke, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 797 $ statt 621 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Erkunden Sie das Dubai Aquarium und Underwater Zoo mit einer Eintrittskarte"
+  ],
+  "included": [
+   "Eintrittskarte fuer das Dubai Aquarium und Underwater Zoo",
+   "Privater Transfer in einem Luxus-GMC-Yukon",
+   "Abholung und Rueckfahrt vom Hotel oder Wohnsitz in Dubai",
+   "Zugang zum Underwater Zoo"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke"
+  ]
+ },
+ "dubai-half-day-city-tour-of-old-new-dubai": {
+  "title": "Dubai: halbtaegige Stadttour durch Alt- und Neu-Dubai mit Abra-Fahrt",
+  "metaTitle": "Dubai: halbtaegige Stadttour durch Alt- und Neu-Dubai mit Abra...",
+  "metaDescription": "Une halbtaegigeer Ausflug ab Dubai, der Dubai Gold Souk, Dubai Spice Souk, Al Fahidi Historical Neighbourhood und Abra Dubai besucht. Angeboten von Yalla Walk tou...",
+  "shortDescription": "Une halbtaegigeer Ausflug ab Dubai, der Dubai Gold Souk, Dubai Spice Souk, Al Fahidi Historical Neighbourhood und Abra Dubai besucht. Angeboten von Yalla Walk tourism.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Dubai, der Dubai Gold Souk, Dubai Spice Souk, Al Fahidi Historical Neighbourhood und Abra Dubai umfasst. Es gibt insgesamt 9 Stopps.\n\nDie Reihenfolge ist Dubai Gold Souk (30 min), dann Dubai Spice Souk (30 min), dann Al Fahidi Historical Neighbourhood (15 min), dann Abra Dubai (20 min), dann Museum of the Future (15 min).\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt von Dubai, lizenzierter englischsprachiger Reiseleiter, traditionelle Holzabra-Bootsfahrt ueber den Dubai Creek und besuche des Gewuerzsouks und Goldsouks. Nicht enthalten sind eintrittskarten fuer Attraktionen (z.B. Burj-Khalifa-Aussichtsplattformen und Museum-of-the-Future-Ausstellungen), essen, Mahlzeiten, und Softdrinks und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une halbtaegigeer Ausflug ab Dubai, der Dubai Gold Souk, Dubai Spice Souk, Al Fahidi Historical Neighbourhood und Abra Dubai besucht. Angeboten von Yalla Walk tourism."
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt von Dubai",
+   "Lizenzierter englischsprachiger Reiseleiter",
+   "Traditionelle Holzabra-Bootsfahrt ueber den Dubai Creek",
+   "Besuche des Gewuerzsouks und Goldsouks"
+  ],
+  "notIncluded": [
+   "Eintrittskarten fuer Attraktionen (z.B. Burj-Khalifa-Aussichtsplattformen und Museum-of-the-Future-Ausstellungen)",
+   "Essen, Mahlzeiten, und Softdrinks",
+   "Persoenliche Ausgaben"
+  ]
+ },
+ "abu-dhabi-ferrari-world-private-suv-tour-with-entr": {
+  "title": "Abu Dhabi: private SUV-Tour zur Ferrari World mit Eintrittskarten",
+  "metaTitle": "Abu Dhabi: private SUV-Tour zur Ferrari World mit Eintrittskarten",
+  "metaDescription": "ganztaegigees Erlebnis in Abu Dhabi. Geniessen Sie Ferrari-World-Abu-Dhabi-Tickets mit einem Chauffeur in einem privaten GMC Yukon. Angeboten von HARBOR TOURISM LLC.",
+  "shortDescription": "ganztaegigees Erlebnis in Abu Dhabi. Geniessen Sie Ferrari-World-Abu-Dhabi-Tickets mit einem Chauffeur in einem privaten GMC Yukon. Angeboten von HARBOR TOURISM LLC.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Abu Dhabi. Geniessen Sie Ferrari-World-Abu-Dhabi-Tickets mit einem Chauffeur in einem privaten GMC Yukon.\n\nHARBOR TOURISM LLC fuehrt es durch, und 9 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet abholung und Rueckfahrt vom Hotel oder Wohnsitz, transfer von Dubai nach Abu Dhabi in einem privaten GMC Yukon, eintrittskarte fuer die Ferrari World Abu Dhabi und kraftstoff und Salik-Maut enthalten. Nicht enthalten sind essen und Getraenke und unterkunft, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Geniessen Sie Ferrari-World-Abu-Dhabi-Tickets mit einem Chauffeur in einem privaten GMC Yukon"
+  ],
+  "included": [
+   "Abholung und Rueckfahrt vom Hotel oder Wohnsitz",
+   "Transfer von Dubai nach Abu Dhabi in einem privaten GMC Yukon",
+   "Eintrittskarte fuer die Ferrari World Abu Dhabi",
+   "Kraftstoff und Salik-Maut enthalten"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke",
+   "Unterkunft"
+  ]
+ },
+ "dubai-dune-buggy-adventure-self-drive-desert-off-r": {
+  "title": "Dubai: Dune-Buggy-Abenteuer, selbstgefahrenes Wueste-Offroad-Safari",
+  "metaTitle": "Dubai: Dune-Buggy-Abenteuer, selbstgefahrenes Wueste-Offroad-S...",
+  "metaDescription": "Une 3-stuendigeer Ausflug ab Dubai, der Lahbab, Lahbab, Lahbab und Lahbab besucht. Angeboten von Vantra Travels.",
+  "shortDescription": "Une 3-stuendigeer Ausflug ab Dubai, der Lahbab, Lahbab, Lahbab und Lahbab besucht. Angeboten von Vantra Travels.",
+  "fullDescription": "Ein 3-stuendigeer Ausflug ab Dubai, der Lahbab, Lahbab, Lahbab und Lahbab umfasst. Es gibt insgesamt 4 Stopps.\n\nDie Reihenfolge ist Lahbab, dann Lahbab, dann Lahbab, dann Lahbab.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt von Dubai, selbstgefahrene Dune-Buggy-Vermietung fuer die gesamte Sitzungsdauer, vollstaendiger Sicherheitshelm und Schutzausruestung bereitgestellt und professioneller Lehrer, der die gesamte Wuestenroute begleitet. Nicht enthalten sind mahlzeiten und Getraenke, persoenliche Ausgaben und eintrittsgebuehren fuer optionale Attraktionen, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une 3-stuendigeer Ausflug ab Dubai, der Lahbab, Lahbab, Lahbab und Lahbab besucht. Angeboten von Vantra Travels."
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt von Dubai",
+   "Selbstgefahrene Dune-Buggy-Vermietung fuer die gesamte Sitzungsdauer",
+   "Vollstaendiger Sicherheitshelm und Schutzausruestung bereitgestellt",
+   "Professioneller Lehrer, der die gesamte Wuestenroute begleitet"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke",
+   "Persoenliche Ausgaben",
+   "Eintrittsgebuehren fuer optionale Attraktionen"
+  ]
+ },
+ "abu-dhabi-bounce-marina-mall-entry-ticket": {
+  "title": "Abu Dhabi: BOUNCE-Marina-Mall-Eintrittskarte",
+  "metaTitle": "Abu Dhabi: BOUNCE-Marina-Mall-Eintrittskarte",
+  "metaDescription": "2-stuendigees Erlebnis in Abu Dhabi. Geniessen Sie Zugang zu einem der besten Indoor-Abenteuerparks Abu Dhabis. Angeboten von BOUNCE Marina Mall Abu Dhabi.",
+  "shortDescription": "2-stuendigees Erlebnis in Abu Dhabi. Geniessen Sie Zugang zu einem der besten Indoor-Abenteuerparks Abu Dhabis. Angeboten von BOUNCE Marina Mall Abu Dhabi.",
+  "fullDescription": "Ein 2-stuendigees Erlebnis in Abu Dhabi. Geniessen Sie Zugang zu einem der besten Indoor-Abenteuerparks Abu Dhabis.\n\nBOUNCE Marina Mall Abu Dhabi fuehrt es durch, und 4 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet eintritt zu BOUNCE Marina Mall Abu Dhabi, 2-Stunden-Pass, zugang zu allen Attraktionen, die in Ihrem gewaehlten Ticket enthalten sind und sicherheitseinweisung vor dem Spiel. Nicht enthalten sind essen und Getraenke und grip-Socken (oder Kauf vor Ort), dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Geniessen Sie Zugang zu einem der besten Indoor-Abenteuerparks Abu Dhabis"
+  ],
+  "included": [
+   "Eintritt zu BOUNCE Marina Mall Abu Dhabi",
+   "2-Stunden-Pass",
+   "Zugang zu allen Attraktionen, die in Ihrem gewaehlten Ticket enthalten sind",
+   "Sicherheitseinweisung vor dem Spiel"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke",
+   "Grip-Socken (oder Kauf vor Ort)"
+  ]
+ },
+ "dubai-full-day-city-tour-with-luxury-car-showroom": {
+  "title": "Dubai: ganztaegige Stadttour mit Besuch eines Luxusauto-Showrooms",
+  "metaTitle": "Dubai: ganztaegige Stadttour mit Besuch eines Luxusauto-Showrooms",
+  "metaDescription": "ganztaegigees Erlebnis in Dubai. Erkunden Sie Dubais historisches Al-Fahidi-Viertel und seine restaurierten Windturmhaeuser. Angeboten von Whats Up Trip - F.Z.E.",
+  "shortDescription": "ganztaegigees Erlebnis in Dubai. Erkunden Sie Dubais historisches Al-Fahidi-Viertel und seine restaurierten Windturmhaeuser. Angeboten von Whats Up Trip - F.Z.E.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Dubai. Erkunden Sie Dubais historisches Al-Fahidi-Viertel und seine restaurierten Windturmhaeuser.\n\nWhats Up Trip - F.Z.E fuehrt es durch, und 10 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet abholung und Rueckfahrt vom Hotel, privates klimatisiertes Fahrzeug, professioneller Fahrer-Guide und zwischenstopp-Tour (falls erforderlich). Nicht enthalten sind eintrittsgebuehren, mahlzeiten und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 461 $ statt 461 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Erkunden Sie Dubais historisches Al-Fahidi-Viertel und seine restaurierten Windturmhaeuser"
+  ],
+  "included": [
+   "Abholung und Rueckfahrt vom Hotel",
+   "Privates klimatisiertes Fahrzeug",
+   "Professioneller Fahrer-Guide",
+   "Zwischenstopp-Tour (falls erforderlich)"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren",
+   "Mahlzeiten",
+   "Persoenliche Ausgaben"
+  ]
+ },
+ "dubai-desert-bike-tour": {
+  "title": "Dubai: VIP-Wuestensafari, Quad, Kamelritt und BBQ-Abendessen",
+  "metaTitle": "Dubai: VIP-Wuestensafari, Quad, Kamelritt und BBQ-Abendessen",
+  "metaDescription": "ganztaegigees Erlebnis in Dubai. Feiern Sie mit Freunden oder Familie bei einem BBQ-Abendessen im Herzen der Wueste Dubais. Angeboten von Ramada Group Line.",
+  "shortDescription": "ganztaegigees Erlebnis in Dubai. Feiern Sie mit Freunden oder Familie bei einem BBQ-Abendessen im Herzen der Wueste Dubais. Angeboten von Ramada Group Line.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Dubai. Feiern Sie mit Freunden oder Familie bei einem BBQ-Abendessen im Herzen der Wueste Dubais.\n\nRamada Group Line fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet abholung und Rueckfahrt zuhause oder im Hotel in 4x4-Fahrzeugen, dune Bashing, kamelritt und sandboarding. Nicht enthalten sind alkoholische Getraenke, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Feiern Sie mit Freunden oder Familie bei einem BBQ-Abendessen im Herzen der Wueste Dubais"
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zuhause oder im Hotel in 4x4-Fahrzeugen",
+   "Dune Bashing",
+   "Kamelritt",
+   "Sandboarding"
+  ],
+  "notIncluded": [
+   "Alkoholische Getraenke"
+  ]
+ },
+ "from-dubaisharjah-abu-dhabi-city-tour-with-transfe": {
+  "title": "Ab Dubai/Sharjah: Abu-Dhabi-Stadttour mit Transfers",
+  "metaTitle": "Ab Dubai/Sharjah: Abu-Dhabi-Stadttour mit Transfers",
+  "metaDescription": "Une ganztaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque und Emirates Palace besucht. Angeboten von Arabian Holidays Tours & Travels.",
+  "shortDescription": "Une ganztaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque und Emirates Palace besucht. Angeboten von Arabian Holidays Tours & Travels.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque und Emirates Palace umfasst. Der laengste Halt ist Sheikh Zayed Mosque, mit etwa 1 Stunde. Es gibt insgesamt 2 Stopps.\n\nDie Reihenfolge ist Sheikh Zayed Mosque (1h), dann Emirates Palace (30 min).\n\nDer Preis beinhaltet transport von Dubai oder Sharjah, besuch der Sheikh-Zayed-Grossmoschee, fahrt entlang der Abu-Dhabi-Corniche und fotostopp am Emirates Palace. Nicht enthalten sind mahlzeiten, persoenliche Ausgaben und eintritt zur Ferrari World, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 338 $ statt 338 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Une ganztaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque und Emirates Palace besucht. Angeboten von Arabian Holidays Tours & Travels."
+  ],
+  "included": [
+   "Transport von Dubai oder Sharjah",
+   "Besuch der Sheikh-Zayed-Grossmoschee",
+   "Fahrt entlang der Abu-Dhabi-Corniche",
+   "Fotostopp am Emirates Palace"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persoenliche Ausgaben",
+   "Eintritt zur Ferrari World"
   ]
  },
  "dubai-private-car-and-driver-for-10-hours-city": {
