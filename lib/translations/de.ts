@@ -36074,6 +36074,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder"
   ]
  },
+ "rajasthan-exclusive-03-days-udaipur-and-jodhpur": {
+  "title": "Rajasthan: exklusive 3-tägige gefuehrte Tour durch Udaipur und Jodhpur",
+  "metaTitle": "Rajasthan: exklusive Tour, Udaipur, Jodhpur",
+  "metaDescription": "Besuchen Sie den prachtvollen City Palace mit Blick auf den Pichola-See, dann Jodhpur mit dem Mehrangarh Fort auf einer 3-taegigen Tour.",
+  "shortDescription": "Besuchen Sie den prachtvollen City Palace mit Blick auf den Pichola-See.",
+  "fullDescription": "Rajasthan: exklusive 3-tägige gefuehrte Tour durch Udaipur und Jodhpur. Besuchen Sie den prachtvollen City Palace mit Blick auf den Pichola-See.\n\nTag 1: Ankunft in Udaipur - Stadtbesichtigung\nAnkunft in Udaipur, Check-in im Hotel.\nBesuchen Sie den prachtvollen City Palace mit Blick auf den Pichola-See.\nErkunden Sie den Jagdish-Tempel und Saheliyon ki Bari (Garten der Jungfrauen).\nGeniessen Sie eine Bootsfahrt auf dem Pichola-See fuer Ausblicke auf Jag Mandir und den Lake Palace.\nAbend zur freien Verfuegung oder zum Erkunden lokaler Bazare fuer Kunsthandwerk und Miniaturmalereien. Uebernachtung in Udaipur.\n\nTag 2: Udaipur - Jodhpur (etwa 250 km / 5 Stunden Fahrt)\nNach dem Fruehstueck Weiterfahrt nach Jodhpur.\nAuf dem Weg Stopp an den Jain-Tempeln von Ranakpur (optional), bekannt fuer atemberaubende Marmorschnitzereien.\nAnkunft in Jodhpur und Check-in im Hotel.\nBesuchen Sie das Umaid Bhawan Palace Museum und erkunden Sie lokale Maerkte in der Naehe des Uhrturms.\nAbend zur freien Verfuegung in den Gassen der blauen Stadt.\nUebernachtung in Jodhpur.\n\nTag 3: Jodhpur-Besichtigung - Abreise\nNach dem Fruehstueck Besuch des grossen Mehrangarh Forts, einer der beeindruckendsten Festungen Rajasthans.\nErkunden Sie Jaswant Thada, ein Marmor-Kenotaph mit malerischen Ausblicken.\nBesuchen Sie die Mandore-Gaerten oder geniessen Sie einen kurzen Ausflug zu einem Bishnoi-Dorf (optional, wenn die Zeit es erlaubt).\nAbgabe am Flughafen oder Bahnhof von Jodhpur/Udaipur fuer die Weiterreise.\n\n### Im Preis enthalten\n\n- Hotelunterkunft im Einzel-/Doppel-/Dreibettzimmer (wenn Option gewaehlt)\n- Taegliches koestliches Fruehstueck im Hotel (wenn Option gewaehlt)\n- Abholung und Rueckfahrt zum Hotel/Flughafen/Bahnhof\n- Transport im privaten klimatisierten Fahrzeug (wenn Option gewaehlt)\n- Professioneller, staatlich zugelassener Guide (wenn Option gewaehlt)\n- Bootsfahrt auf dem Pichola-See in Udaipur (wenn Option gewaehlt)\n- 2 Mineralwasserflaschen pro Person und Tag\n- Alle geltenden Steuern wie Kraftstoff, Parken und Mautgebuehren usw.\n\n### Nicht enthalten\n\n- Jegliche persoenlichen Ausgaben\n- Eintrittsgebuehren fuer Denkmaeler\n- Jegliche internationalen und nationalen Fluege\n- Weihnachts- und Silvester-Galadinner",
+  "highlights": [
+   "Besuchen Sie den prachtvollen City Palace mit Blick auf den Pichola-See."
+  ],
+  "included": [
+   "Hotelunterkunft im Einzel-/Doppel-/Dreibettzimmer (wenn Option gewaehlt).\nTaegliches koestliches Fruehstueck im Hotel (wenn Option gewaehlt).\nAbholung und Rueckfahrt zum Hotel/Flughafen/Bahnhof.\nTransport im privaten klimatisierten Fahrzeug (wenn Option gewaehlt).\nProfessioneller, staatlich zugelassener Guide (wenn Option gewaehlt).\nBootsfahrt auf dem Pichola-See in Udaipur (wenn Option gewaehlt).\n2 Mineralwasserflaschen pro Person und Tag.\nAlle geltenden Steuern wie Kraftstoff, Parken und Mautgebuehren usw."
+  ],
+  "notIncluded": [
+   "Jegliche persoenlichen Ausgaben.\nEintrittsgebuehren fuer Denkmaeler.\nJegliche internationalen und nationalen Fluege.\nWeihnachts- und Silvester-Galadinner."
+  ]
+ },
+ "jaipur-private-guided-spiritual-tour-in-jaipur": {
+  "title": "Jaipur: private gefuehrte spirituelle Tour in Jaipur",
+  "metaTitle": "Jaipur: private spirituelle Tour",
+  "metaDescription": "Ueberspringen Sie die Warteschlangen fuer Tickets bei einer privaten spirituellen Tour durch Jaipur: Jagat Shiromani, Birla Tempel und mehr.",
+  "shortDescription": "Ueberspringen Sie die Warteschlangen fuer Tickets",
+  "fullDescription": "Jaipur: private gefuehrte spirituelle Tour in Jaipur. Ueberspringen Sie die Warteschlangen fuer Tickets.\n\nJaipur-Tour / Jaipur-Halbtagestour / Jaipur-Ganztagestour / beste Jaipur-Tour / Top-Jaipur-Tour / Jaipur-Nummer-1-Tour / meistverkaufte Jaipur-Tour\n\n1. Jagat Shiromani Ji Tempel\nJagat Shiromani Tempel: Erkunden Sie den Jagat Shiromani Tempel, der dem Gott Krishna gewidmet ist, und fangen Sie die architektonischen Elemente des Tempels und die ruhige Atmosphaere der Umgebung ein.\n\n2. Panna Meena ka Kund\nPanna Meena ka Kund ist der Lagerort aus dem XVI. Jahrhundert.\n\n3. Jal Mahal\nPalast: Auf dem Weg zum naechsten Ziel machen Sie einen Fotostopp am Jal Mahal, einem malerischen Palast in der Mitte des Man Sagar Sees.\n\n4. Hawa Mahal\nPalast der Winde Hawa Mahal: Beginnen Sie Ihren Tag mit einem Besuch des Hawa Mahal, eines ikonischen fuenfstoeckigen Palastes mit einer einzigartigen Fassade mit 953 kleinen Fenstern, genannt Jharokhas. Er wurde entworfen, damit koenigliche Frauen die Strassenfeste beobachten konnten, waehrend sie ihre Privatsphaere bewahrten.\n\n5. Birla Mandir Tempel\nBirla-Tempel (Lakshmi-Narayan-Tempel): Besuchen Sie zuerst den strahlenden Birla-Tempel, ein Meisterwerk weisser Marmorarchitektur, gewidmet dem Gott Vishnu und der Goettin Lakshmi. Fuehlen Sie die goettliche Energie, waehrend Sie durch die kunstvoll geschnitzten Hallen des Tempels schlendern, verziert mit mythologischen Skulpturen und heiligen Schriften.\n\n6. Galtaji-Tempel\nGalta Ji (Tempel): Schliesslich besuchen Sie Galta Ji, den Tempel, spirituelle Orte.\n\n7. Govind-Devji-Tempel\nGovind Dev Ji Tempel: Als Naechstes geht es zum verehrten Govind Dev Ji Tempel, der dem Gott Krishna gewidmet ist. Dieser Tempel hat eine immense Bedeutung fuer die Einheimischen und Gläubigen, die hierher stroemen, um Segen und Trost zu suchen. Erleben Sie die seelenberuehrende \"Aarti\"-Zeremonie, bei der Lampen entzuendet und Andachtshymnen gesungen werden, was eine fesselnde Atmosphaere schafft.\n\n8. Moti-Dungari-Tempel\nMoti Dungri Tempel, der die spirituelle Essenz und architektonische Schoenheit dieser heiligen Orte einfaengt. Dieser Tempel ist dem Gott Ganesh gewidmet.\n\n9. Rueckkehr zum Ausgangspunkt: Nach einem erfuellenden Tag spiritueller Erkundung kehren Sie zu Ihrem Ausgangspunkt zurueck, wo Ihre private gefuehrte spirituelle Tour durch die Denkmaeler Delhis endet. Bitte beachten Sie, dass dies ein vorgeschlagener Ablauf ist, und Sie koennen ihn an Ihre spirituellen Interessen und verfuegbare Zeit anpassen. Die Anstellung eines privaten Guides verbessert Ihr Erlebnis, da er Einblicke in die religioese Bedeutung und das kulturelle Erbe jedes Denkmals geben kann. Geniessen Sie Ihre private gefuehrte spirituelle Tour und entdecken Sie die spirituelle Essenz der Denkmaeler Jaipurs!\n\n### Im Preis enthalten\n\n- 1. Wir bieten Transport fuer Abholung und Rueckfahrt ueberall in Jaipur\n- 2. Persoenlicher Live-Reiseleiter gemaess dem Reiseplan\n- 3. Von der Abholung bis zur Rueckfahrt geniessen Sie alle Besichtigungen in einem privaten klimatisierten Auto\n- 4. Kostenlose Wasserflasche und Regenschirm bereitgestellt\n- 5. Inklusive Parkgebuehren, Maut, Kraftstoff und Steuern\n- 6. Eintrittsgebuehren und Abholung fuer Denkmaeler sind enthalten, wenn die Option gewaehlt wird\n\n### Nicht enthalten\n\n- 1. Trinkgelder und Mahlzeiten sind nicht enthalten",
+  "highlights": [
+   "Ueberspringen Sie die Warteschlangen fuer Tickets"
+  ],
+  "included": [
+   "1. Wir bieten Transport fuer Abholung und Rueckfahrt ueberall in Jaipur.\n2. Persoenlicher Live-Reiseleiter gemaess dem Reiseplan.\n3. Von der Abholung bis zur Rueckfahrt geniessen Sie alle Besichtigungen in einem privaten klimatisierten Auto\n4. Kostenlose Wasserflasche und Regenschirm bereitgestellt\n5. Inklusive Parkgebuehren, Maut, Kraftstoff und Steuern\n6. Eintrittsgebuehren und Abholung fuer Denkmaeler sind enthalten, wenn die Option gewaehlt wird"
+  ],
+  "notIncluded": [
+   "1. Trinkgelder und Mahlzeiten sind nicht enthalten"
+  ]
+ },
+ "jaipur-jhalana-leopard-safari-with-bird-watching": {
+  "title": "Jaipur: Jhalana-Leoparden-Safari mit Vogelbeobachtung",
+  "metaTitle": "Jaipur: Leoparden-Safari Jhalana, Voegel",
+  "metaDescription": "Erleben Sie den Nervenkitzel, Leoparden in ihrem natuerlichen Lebensraum im Stadtzentrum zu entdecken, mit ueber 200 Vogelarten in Jhalana.",
+  "shortDescription": "Erleben Sie den Nervenkitzel, Leoparden in ihrem natuerlichen Lebensraum im Stadtzentrum zu entdecken",
+  "fullDescription": "Jaipur: Jhalana-Leoparden-Safari mit Vogelbeobachtung. Erleben Sie den Nervenkitzel, Leoparden in ihrem natuerlichen Lebensraum im Stadtzentrum zu entdecken.\n\nEntdecken Sie die Wunder des Jhalana-Leoparden-Safariparks, ein verborgenes Juwel in Jaipur. Dieses spannende Erlebnis bietet Ihnen die Chance, Leoparden in ihrem natuerlichen Lebensraum zu erleben, ein seltener und aufregender Anblick. Jhalana ist beruehmt fuer seine hohe Leopardendichte, was ihn zu einem der besten Orte in Indien macht, um diese majestaetischen Kreaturen zu entdecken.\n\nAber das Abenteuer endet nicht dort. Der Park ist auch ein Paradies fuer Vogelliebhaber und beherbergt ueber 200 Vogelarten, darunter Eulen, Pfauen, indische Pittas, Weissaugenbussarde, Schwarzschulter-Weihen und eurasische Wiedehopfe. Waehrend Sie die ruhige Wildnis erkunden, gefuehrt von einem erfahrenen Naturalisten, entdecken Sie die komplexe Harmonie zwischen der Tierwelt und ihrer Umgebung.\n\nVon den schwer fassbaren Leoparden bis zur lebendigen Vogelwelt verspricht jeder Moment eine Mischung aus Aufregung und Ruhe. Ob Sie ein Tierwelt-Enthusiast, Fotograf oder einfach ein Naturliebhaber sind, dieses Erlebnis ist eine perfekte Moeglichkeit, sich mit der Natur zu verbinden und dem Trubel der Stadt zu entfliehen.\n\n### Im Preis enthalten\n\n- Gefuehrte Dschungelsafari-Tour im privaten Jeep\n- Leoparden-Beobachtung\n- Erfahrener Naturalisten-Guide\n- Tierwelt- und Vogelbeobachtung\n- Tierwelt-Fotografie\n\n### Nicht enthalten\n\n- Mahlzeiten\n- Transport zum Park",
+  "highlights": [
+   "Erleben Sie den Nervenkitzel, Leoparden in ihrem natuerlichen Lebensraum im Stadtzentrum zu entdecken"
+  ],
+  "included": [
+   "Gefuehrte Dschungelsafari-Tour im privaten Jeep\nLeoparden-Beobachtung\nErfahrener Naturalisten-Guide\nTierwelt- und Vogelbeobachtung\nTierwelt-Fotografie"
+  ],
+  "notIncluded": [
+   "Mahlzeiten\nTransport zum Park"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",

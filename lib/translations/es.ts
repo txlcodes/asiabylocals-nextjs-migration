@@ -36074,6 +36074,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "rajasthan-exclusive-03-days-udaipur-and-jodhpur": {
+  "title": "Rajasthan: tour guiado exclusivo de 3 dias por Udaipur y Jodhpur",
+  "metaTitle": "Rajasthan: tour exclusivo, Udaipur, Jodhpur",
+  "metaDescription": "Visite el magnifico City Palace con vista al lago Pichola, luego Jodhpur con el fuerte de Mehrangarh en un tour de 3 dias.",
+  "shortDescription": "Visite el magnifico City Palace con vista al lago Pichola.",
+  "fullDescription": "Rajasthan: tour guiado exclusivo de 3 dias por Udaipur y Jodhpur. Visite el magnifico City Palace con vista al lago Pichola.\n\nDia 1: llegada a Udaipur - recorrido por la ciudad\nLlegue a Udaipur, registrese en su hotel.\nVisite el magnifico City Palace con vista al lago Pichola.\nExplore el templo Jagdish y Saheliyon ki Bari (Jardin de las Doncellas).\nDisfrute de un paseo en barco por el lago Pichola para ver el Jag Mandir y el Lake Palace.\nTarde libre para relajarse o explorar los bazares locales en busca de artesania y pinturas en miniatura. Pernoctacion en Udaipur.\n\nDia 2: Udaipur - Jodhpur (aproximadamente 250 km / 5 horas de viaje)\nDespues del desayuno, parta hacia Jodhpur.\nEn el camino, detengase en los templos jainistas de Ranakpur (opcional), conocidos por sus impresionantes talladuras de marmol.\nLlegue a Jodhpur y registrese en su hotel.\nVisite el Museo del Palacio Umaid Bhawan y explore mercados locales cerca de la Torre del Reloj.\nTarde libre en las calles de la Ciudad Azul.\nPernoctacion en Jodhpur.\n\nDia 3: recorrido por Jodhpur - salida\nDespues del desayuno, visite el gran fuerte de Mehrangarh, uno de los fuertes mas impresionantes de Rajasthan.\nExplore Jaswant Thada, un cenotafio de marmol con vistas pintorescas.\nVisite los Jardines de Mandore o disfrute de una breve excursion a un pueblo Bishnoi (opcional, si el tiempo lo permite).\nTraslado al aeropuerto o estacion de trenes de Jodhpur/Udaipur para continuar su viaje.\n\n### Que incluye\n\n- Alojamiento en hotel en habitacion individual/doble/triple (si se elige la opcion)\n- Delicioso desayuno diario en el hotel (si se elige la opcion)\n- Recogida y traslado al hotel/aeropuerto/estacion de trenes\n- Transporte en vehiculo privado con aire acondicionado (si se elige la opcion)\n- Guia profesional aprobado por el gobierno (si se elige la opcion)\n- Paseo en barco por el lago Pichola en Udaipur (si se elige la opcion)\n- 2 botellas de agua mineral por persona y por dia\n- Todos los impuestos aplicables como combustible, estacionamiento y peajes, etc.\n\n### No incluye\n\n- Cualquier gasto personal\n- Tarifas de entrada a monumentos\n- Cualquier vuelo internacional y nacional\n- Cena de gala de Navidad y Fin de Anio",
+  "highlights": [
+   "Visite el magnifico City Palace con vista al lago Pichola."
+  ],
+  "included": [
+   "Alojamiento en hotel en habitacion individual/doble/triple (si se elige la opcion).\nDelicioso desayuno diario en el hotel (si se elige la opcion).\nRecogida y traslado al hotel/aeropuerto/estacion de trenes.\nTransporte en vehiculo privado con aire acondicionado (si se elige la opcion).\nGuia profesional aprobado por el gobierno (si se elige la opcion).\nPaseo en barco por el lago Pichola en Udaipur (si se elige la opcion).\n2 botellas de agua mineral por persona y por dia.\nTodos los impuestos aplicables como combustible, estacionamiento y peajes, etc."
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal.\nTarifas de entrada a monumentos.\nCualquier vuelo internacional y nacional.\nCena de gala de Navidad y Fin de Anio."
+  ]
+ },
+ "jaipur-private-guided-spiritual-tour-in-jaipur": {
+  "title": "Jaipur: tour espiritual privado guiado en Jaipur",
+  "metaTitle": "Jaipur: tour espiritual privado",
+  "metaDescription": "Evite las filas para las entradas en un tour espiritual privado de Jaipur: templo Jagat Shiromani, templo Birla y mas.",
+  "shortDescription": "Evite las filas para las entradas",
+  "fullDescription": "Jaipur: tour espiritual privado guiado en Jaipur. Evite las filas para las entradas.\n\nTour de Jaipur / tour de medio dia en Jaipur / tour de dia completo en Jaipur / mejor tour de Jaipur / tour mas destacado de Jaipur / tour numero 1 de Jaipur / tour mas vendido de Jaipur\n\n1. Templo Jagat Shiromani Ji\nTemplo Jagat Shiromani: explore el templo Jagat Shiromani, dedicado al senor Krishna, y capture los elementos arquitectonicos del templo y el ambiente sereno de los alrededores.\n\n2. Panna Meena ka Kund\nPanna Meena ka Kund es el lugar de almacenamiento del siglo XVI.\n\n3. Jal Mahal\nPalacio: en camino al siguiente destino, haga una parada fotografica en el Jal Mahal, un pintoresco palacio ubicado en medio del lago Man Sagar.\n\n4. Hawa Mahal\nPalacio de los Vientos Hawa Mahal: comience su dia visitando el Hawa Mahal, un iconico palacio de cinco pisos con una fachada unica con 953 ventanas pequenias llamadas jharokhas. Fue disenado para que las damas reales observaran las festividades de la calle manteniendo su privacidad.\n\n5. Templo Birla Mandir\nTemplo Birla (templo Lakshmi Narayan): visite primero el resplandeciente templo Birla, una obra maestra de arquitectura de marmol blanco dedicada al senor Vishnu y a la diosa Lakshmi. Sienta la energia divina mientras paseea por los salones intrincadamente tallados del templo, adornados con esculturas mitologicas y escrituras sagradas.\n\n6. Templo Galtaji\nGalta Ji (templo): finalmente, visite Galta Ji, el templo, lugares espirituales.\n\n7. Templo Govind Devji\nTemplo Govind Dev Ji: a continuacion, proceda al venerado templo Govind Dev Ji, dedicado al senor Krishna. Este templo tiene una inmensa importancia para los locales y devotos que se congregan aqui para buscar bendiciones y consuelo. Experimente la conmovedora ceremonia de 'aarti', donde se encienden lamparas y se cantan himnos devocionales, creando un ambiente cautivador.\n\n8. Templo Moti Dungari\nTemplo Moti Dungri, capturando la esencia espiritual y la belleza arquitectonica de estos lugares sagrados. Este templo esta dedicado al senor Ganesh.\n\n9. Regreso al punto de partida: despues de un dia gratificante de exploracion espiritual, regrese a su punto de partida donde concluye su tour espiritual privado guiado de los monumentos de Delhi. Tenga en cuenta que este es un itinerario sugerido, y puede personalizarlo segun sus intereses espirituales y el tiempo disponible. Contratar un guia privado mejorara su experiencia, ya que puede brindar informacion sobre la importancia religiosa y el patrimonio cultural de cada monumento. ¡Disfrute de su tour espiritual privado guiado y descubra la esencia espiritual de los monumentos de Jaipur!\n\n### Que incluye\n\n- 1. Proporcionamos transporte para recogida y traslado en cualquier lugar dentro de Jaipur\n- 2. Guia turistico en vivo personalizado segun el itinerario\n- 3. Desde la recogida hasta el traslado, disfrute de todos los recorridos en un coche privado con aire acondicionado\n- 4. Botella de agua y sombrilla gratuitas proporcionadas\n- 5. Incluye gastos de estacionamiento, peajes, combustible e impuestos\n- 6. Las tarifas de entrada y recogida para monumentos estan incluidas si se selecciona la opcion\n\n### No incluye\n\n- 1. Las propinas y comidas no estan incluidas",
+  "highlights": [
+   "Evite las filas para las entradas"
+  ],
+  "included": [
+   "1. Proporcionamos transporte para recogida y traslado en cualquier lugar dentro de Jaipur.\n2. Guia turistico en vivo personalizado segun el itinerario.\n3. Desde la recogida hasta el traslado, disfrute de todos los recorridos en un coche privado con aire acondicionado\n4. Botella de agua y sombrilla gratuitas proporcionadas\n5. Incluye gastos de estacionamiento, peajes, combustible e impuestos\n6. Las tarifas de entrada y recogida para monumentos estan incluidas si se selecciona la opcion"
+  ],
+  "notIncluded": [
+   "1. Las propinas y comidas no estan incluidas"
+  ]
+ },
+ "jaipur-jhalana-leopard-safari-with-bird-watching": {
+  "title": "Jaipur: safari de leopardos en Jhalana con observacion de aves",
+  "metaTitle": "Jaipur: safari de leopardos Jhalana, aves",
+  "metaDescription": "Sienta la emocion de ver leopardos en su habitat natural dentro del centro de la ciudad, con mas de 200 especies de aves en Jhalana.",
+  "shortDescription": "Sienta la emocion de ver leopardos en su habitat natural dentro del centro de la ciudad",
+  "fullDescription": "Jaipur: safari de leopardos en Jhalana con observacion de aves. Sienta la emocion de ver leopardos en su habitat natural dentro del centro de la ciudad.\n\nDescubra las maravillas del Parque Safari de Leopardos de Jhalana, una joya oculta situada en Jaipur. Esta emocionante experiencia le ofrece la oportunidad de ver leopardos en su habitat natural, un espectaculo raro y emocionante. Jhalana es reconocido por su alta densidad de leopardos, lo que lo convierte en uno de los mejores lugares de India para ver estas majestuosas criaturas.\n\nPero la aventura no termina ahi. El parque tambien es un refugio para los entusiastas de las aves, con mas de 200 especies de aves, incluidos lechuzas, pavos reales, pittas indias, busardos de ojo blanco, milanos de alas negras y abubillas euroasiaticas. Mientras explora la serena naturaleza salvaje, guiado por un naturalista experto, descubrira la intrincada armonia entre la vida salvaje y su entorno.\n\nDesde los escurridizos leopardos hasta la vibrante vida aviar, cada momento promete una mezcla de emocion y tranquilidad. Ya sea que sea un entusiasta de la vida salvaje, un fotografo, o simplemente un amante de la naturaleza, esta experiencia es una forma perfecta de conectarse con la naturaleza y escapar del bullicio de la ciudad.\n\n### Que incluye\n\n- Tour de safari guiado por la jungla en jeep privado\n- Observacion de leopardos\n- Guia naturalista experto\n- Observacion de vida salvaje y aves\n- Fotografia de vida salvaje\n\n### No incluye\n\n- Comidas\n- Transporte al parque",
+  "highlights": [
+   "Sienta la emocion de ver leopardos en su habitat natural dentro del centro de la ciudad"
+  ],
+  "included": [
+   "Tour de safari guiado por la jungla en jeep privado\nObservacion de leopardos\nGuia naturalista experto\nObservacion de vida salvaje y aves\nFotografia de vida salvaje"
+  ],
+  "notIncluded": [
+   "Comidas\nTransporte al parque"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
