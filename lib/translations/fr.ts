@@ -37610,6 +37610,54 @@ export const FR_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "ranthambore-tiger-safari-day-trip-from-jaipur-all": {
+  "title": "Excursion d'une journee au safari des tigres de Ranthambore depuis Jaipur, tout compris",
+  "metaTitle": "Ranthambore depuis Jaipur, safari tigres, tout compris",
+  "metaDescription": "Profitez d'une aventure de safari de 3 heures et explorez de pres les merveilles de la nature, lors d'une excursion tout compris depuis Jaipur.",
+  "shortDescription": "Profitez d'une aventure de safari de 3 heures et explorez de pres les merveilles de la nature",
+  "fullDescription": "Excursion d'une journee au safari des tigres de Ranthambore depuis Jaipur, tout compris. Profitez d'une aventure de safari de 3 heures et explorez de pres les merveilles de la nature.\n\nVivez une excursion privee inoubliable au parc national de Ranthambore depuis Jaipur en voiture privee climatisee, cette visite est parfaite pour les amoureux de la faune. Cet ancien terrain de chasse royal abrite le majestueux Fort Royal et plusieurs temples anciens. Vous aurez la chance d'observer des tigres du Bengale, des crocodiles muggers, des leopards indiens, des ours lippus, et des centaines d'especes d'oiseaux dans leur habitat naturel.\n\nCommencez votre visite avec une prise en charge pratique a votre hotel ou a l'aeroport a Jaipur. Profitez d'un trajet relaxant de 2h30 a 3 heures jusqu'a Sawai Madhopur, en arrivant a 13h00. Nous vous amenerons d'abord visiter le Fort de Ranthambore.\nFort de Ranthambore : situe dans le parc national de Ranthambore, pres de la ville de Sawai Madhopur, le parc etant l'ancien terrain de chasse des Maharajas de Jaipur jusqu'a l'independance de l'Inde. C'est une forteresse imposante, point focal des developpements historiques du Rajasthan. Votre safari de l'apres-midi commencera vers 14h00 et vous explorerez la zone forestiere accompagne d'un guide naturaliste experimente agree par le gouvernement, dans une jeep ouverte a 6 places ou un canter plus grand. Guettez la flore et la faune indiennes diverses en observant leur habitat naturel.\nNous vous amenerons pour un safari dans la jungle du parc national pour voir des tigres et autres animaux sauvages dans un bus Jeep/Canter ouvert, pour un trajet de 3 heures. La jungle abrite les animaux suivants : tigres, leopards, hyenes rayees, cerfs sambar, chital, nilgauts, langurs communs ou Hanuman, macaques, chacals, chats sauvages, caracals, ours lippus, antilopes noires, lievres a queue rousse, sangliers sauvages indiens, chinkaras, civettes palmistes communes ou chat toddy, chauves-souris jaunes communes, chats du desert, faux vampires indiens, renards volants indiens, gerbilles indiennes, rats-taupes indiens, porcs-epics indiens, herissons a longues oreilles, ratels, et petites mangoustes indiennes.\n\nApres le safari dans la jungle a 18h00, nous vous ramenerons a Jaipur.\nVous avez 2 options pour profiter du safari du matin et du soir selon votre horaire\n\nLa visite se termine en de doux souvenirs !\n\n### Inclus\n\n- Prise en charge et depose a l'hotel ou a l'aeroport\n- Transport en vehicule climatise\n- Transfert aller-retour depuis Jaipur vers le parc national de Ranthambore\n- Les frais d'entree au parc national, les couts du safari Jeep/Canter, et un guide naturaliste au parc national\n- Frais de carburant, peages routiers, et taxes\n- Eau en bouteille\n\n### Non inclus\n\n- Tout repas et boisson\n- Toute depense personnelle\n- Pourboires (optionnel)",
+  "highlights": [
+   "Profitez d'une aventure de safari de 3 heures et explorez de pres les merveilles de la nature"
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel ou a l'aeroport\nTransport en vehicule climatise\nTransfert aller-retour depuis Jaipur vers le parc national de Ranthambore\nLes frais d'entree au parc national, les couts du safari Jeep/Canter, et un guide naturaliste au parc national\nFrais de carburant, peages routiers, et taxes\nEau en bouteille"
+  ],
+  "notIncluded": [
+   "Tout repas et boisson\nToute depense personnelle\nPourboires (optionnel)"
+  ]
+ },
+ "from-jaipur-ranthambore-tiger-safari-one-day-trip": {
+  "title": "Depuis Jaipur : excursion d'une journee au safari des tigres de Ranthambore",
+  "metaTitle": "Ranthambore depuis Jaipur, excursion d'une journee",
+  "metaDescription": "Prise en charge et depose privees pratiques depuis Jaipur, pour une excursion d'une journee au safari des tigres de Ranthambore.",
+  "shortDescription": "Prise en charge et depose privees pratiques depuis Jaipur.",
+  "fullDescription": "Depuis Jaipur : excursion d'une journee au safari des tigres de Ranthambore. Prise en charge et depose privees pratiques depuis Jaipur.\n\n1. Prise en charge a Jaipur\nCommencez votre aventure faunique avec une prise en charge matinale a votre hotel, aeroport, gare ferroviaire, ou lieu prefere a Jaipur. Voyagez confortablement en voiture privee climatisee vers Sawai Madhopur et le parc national de Ranthambore.\n\n2. Arrivee a Ranthambore\nArrivez a Ranthambore et terminez les formalites d'entree necessaires au safari. Montez dans votre Gypsy ou Canter ouvert assigne avec un chauffeur forme et un guide naturaliste. Les horaires de safari varient selon la saison et sont controles par le Departement des Forets.\n\n3. Safari dans la jungle : exploration de la faune\nPartez a travers les forets pittoresques de Ranthambore, les prairies, les lacs, et les paysages rocheux. Guettez les tigres royaux du Bengale, les cerfs tachetes, les sambars, les nilgauts, les langurs, les crocodiles, les oiseaux, et autre faune native. L'observation des tigres est naturellement imprevisible et ne peut etre garantie.\n\n4. Fin du safari\nApres environ 3 a 4 heures d'exploration de la reserve, sortez du parc et rencontrez votre chauffeur prive. Faites une courte pause pour des rafraichissements ou le dejeuner a vos frais avant de commencer le trajet de retour.\n\n5. Retour a Jaipur\nDetendez-vous pendant le trajet de retour vers Jaipur. A l'arrivee, vous serez depose a votre hotel, aeroport, gare ferroviaire, ou un autre lieu de votre choix, concluant votre excursion faunique d'une journee a Ranthambore.\n\n### Inclus\n\n- Prise en charge et depose a l'hotel/aeroport\n- Voiture privee climatisee pour toute l'activite de la visite avec chauffeur\n- Guide touristique expert en nature agree par le gouvernement\n- Safari Jeep/Cantor (selon disponibilite) (si l'option est selectionnee)\n- Bouteille d'eau minerale\n- Tous les peages et stationnement",
+  "highlights": [
+   "Prise en charge et depose privees pratiques depuis Jaipur."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel/aeroport\nVoiture privee climatisee pour toute l'activite de la visite avec chauffeur\nGuide touristique expert en nature agree par le gouvernement\nSafari Jeep/Cantor (selon disponibilite) (si l'option est selectionnee)\nBouteille d'eau minerale\nTous les peages et stationnement"
+  ],
+  "notIncluded": [
+   "Dejeuner\nToute depense personnelle"
+  ]
+ },
+ "from-jaipur-pushkar-and-ajmer-private-day-trip": {
+  "title": "Depuis Jaipur : excursion privee d'une journee a Pushkar et Ajmer",
+  "metaTitle": "Pushkar et Ajmer depuis Jaipur, excursion privee",
+  "metaDescription": "Decouvrez l'energie spirituelle de Pushkar et Ajmer lors d'une excursion d'une journee depuis Jaipur, avec le Temple de Brahma et le Dargah Sharif.",
+  "shortDescription": "Decouvrez l'energie spirituelle de Pushkar et Ajmer lors d'une excursion d'une journee depuis Jaipur",
+  "fullDescription": "Depuis Jaipur : excursion privee d'une journee a Pushkar et Ajmer. Decouvrez l'energie spirituelle de Pushkar et Ajmer lors d'une excursion d'une journee depuis Jaipur.\n\nPartez pour un voyage enchanteur depuis Jaipur vers la ville sacree de Pushkar, une oasis tranquille sur fond pittoresque du lac Ana Sagar et des collines accidentees de l'Aravalli. Imprégnez-vous de la riche tapisserie culturelle de cette charmante ville hindoue.\n\nDecouvrez le cœur du desert de Pushkar avec des safaris a dos de chameau palpitants, des safaris en jeep aventureux, et des safaris a cheval elegants. Engagez-vous avec la communaute locale vibrante, paree de costumes traditionnels, et explorez leurs maisons pittoresques, chacune racontant une histoire de coutumes et de traditions anciennes.\n\nA l'arrivee, un guide averti vous conduira a travers une exploration fascinante de Pushkar, vous presentant ses joyaux spirituels, notamment l'emblematique Temple de Brahma. Emerveillez-vous devant l'architecture exquise et plongez dans l'importance profonde de ce site hindou venere.\n\nContinuez votre expedition vers Ajmer, une ville imprégnee d'histoire et une destination de pelerinage importante pour les musulmans. Suivez votre guide local a travers les rues animees, decouvrant les merveilles cachees de la ville, et terminez votre visite par un arret poignant au sanctuaire de Khwaja Muin-ud-din Chishti. Cet espace sacre resonne de l'energie spirituelle des pelerins et reflete le melange harmonieux de l'Inde entre diverses cultures.\n\nAu fil de la journee, profitez du trajet de retour vers Jaipur, en vous laissant imprégner des paysages tranquilles qui vous entourent. Reflechissez sur les experiences enrichissantes de la journee, non seulement comme une aventure touristique mais comme une connexion profonde avec le riche patrimoine spirituel dont le Rajasthan est fier.\n\n### Inclus\n\n- Prise en charge et depose a l'hotel depuis Jaipur\n- Vehicule prive climatise\n- Visite guidee a Pushkar uniquement\n- Bouteilles d'eau\n- Frais de carburant\n- Peage et stationnement\n\n### Non inclus\n\n- Nourriture et boissons\n- Frais d'entree aux monuments\n- Depenses personnelles\n- Pourboires",
+  "highlights": [
+   "Decouvrez l'energie spirituelle de Pushkar et Ajmer lors d'une excursion d'une journee depuis Jaipur"
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel depuis Jaipur\nVehicule prive climatise\nVisite guidee a Pushkar uniquement\nBouteilles d'eau\nFrais de carburant\nPeage et stationnement"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons\nFrais d'entree aux monuments\nDepenses personnelles\nPourboires"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
