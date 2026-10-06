@@ -34826,6 +34826,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittskarte fuer Nahargarh Fort\nEssen und Getraenke\nPersoenliche Ausgaben\nTrinkgelder"
   ]
  },
+ "jaipur-amber-fort-stepwell-jal-mahal-with-pickup": {
+  "title": "Jaipur: Amber Fort, Stufenbrunnen und Jal Mahal mit Abholung",
+  "metaTitle": "Jaipur: Amber Fort, Stufenbrunnen, Jal Mahal",
+  "metaDescription": "Erkunden Sie das Amber Fort, Jaipurs majestaetischen Huegelpalast, den Stufenbrunnen Panna Meena ka Kund und den Jal Mahal.",
+  "shortDescription": "Erkunden Sie das Amber Fort, Jaipurs majestaetischen Huegelpalast",
+  "fullDescription": "Jaipur: Amber Fort, Stufenbrunnen und Jal Mahal mit Abholung. Erkunden Sie das Amber Fort, Jaipurs majestaetischen Huegelpalast.\n\nAbholung an Ihrem Hotel (Stadt Jaipur)\nBeginnen Sie Ihren Tag mit einer bequemen Abholung an Ihrem Hotel in Jaipur\nReisen Sie in einem privaten klimatisierten Fahrzeug mit einem professionellen Fahrer\n\nStopp 1: Amber Fort (Amer Fort)\nErkunden Sie das majestaetische Amber Fort, eine UNESCO-Weltkulturerbestaette\nBewundern Sie die Mischung aus Rajput-Architektur, malerischen Huegelblicken und dem Spiegelpalast\nGefuehrte Wandertour mit historischen Einblicken inklusive\n\nStopp 2: Panna Meena ka Kund (Stufenbrunnen)\nBesuchen Sie das versteckte Juwel Panna Meena ka Kund, bekannt fuer sein einzigartiges Stufenbrunnen-Design\nPerfekter Ort fuer Fotografie und kulturelle Erzaehlungen\nErfahren Sie mehr ueber seine Rolle im antiken Wassersystem Jaipurs\n\nStopp 3: Jal Mahal (Wasserpalast)\nHalten Sie am Jal Mahal, einem schoenen Palast, der auf dem Man Sagar See schwimmt\nMachen Sie unvergessliche Fotos und geniessen Sie malerische Ausblicke vom Seeufer\nErfahren Sie mehr ueber die mysterioese Architektur und Geschichte des Palastes\n\nAbgabe an Ihrem Hotel\nKehren Sie mit unvergesslichen Erinnerungen an die koeniglichen Sehenswuerdigkeiten der Stadt zu Ihrem Hotel in Jaipur zurueck\n\n### Im Preis enthalten\n\n- Abholung und Rueckfahrt zum Hotel in Jaipur (privates klimatisiertes Auto)\n- Privates klimatisiertes Fahrzeug fuer die gesamte Tour\n- Lizenzierter Reiseleiter an allen Standorten\n- Besuch des Amber Forts, Panna Meena ka Kund und Jal Mahal\n- Flaschenwasser fuer jeden Gast\n- Alle Parkgebuehren, Kraftstoff und Mautgebuehren\n- Eintrittskarten (wenn Option gewaehlt)\n\n### Nicht enthalten\n\n- Mahlzeiten und Getraenke\n- Trinkgelder fuer Guide und Fahrer",
+  "highlights": [
+   "Erkunden Sie das Amber Fort, Jaipurs majestaetischen Huegelpalast"
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel in Jaipur (privates klimatisiertes Auto)\nPrivates klimatisiertes Fahrzeug fuer die gesamte Tour\nLizenzierter Reiseleiter an allen Standorten\nBesuch des Amber Forts, Panna Meena ka Kund und Jal Mahal\nFlaschenwasser fuer jeden Gast\nAlle Parkgebuehren, Kraftstoff und Mautgebuehren\nEintrittskarten (wenn Option gewaehlt)"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke\nTrinkgelder fuer Guide und Fahrer"
+  ]
+ },
+ "from-sariska-sariska-national-park-gypsy-jungle": {
+  "title": "Ab Sariska: Dschungel-Safari mit Gypsy-Jeep im Sariska Nationalpark",
+  "metaTitle": "Sariska: Dschungel-Safari mit Gypsy-Jeep",
+  "metaDescription": "Kommen Sie der Tierwelt des Sariska Tigerreservats mit einer Gypsy- oder Canter-Safari nahe, mit Bengaltigern, Leoparden und mehr.",
+  "shortDescription": "Kommen Sie der Tierwelt des Sariska Tigerreservats mit einer Gypsy- oder Canter-Safari nahe.",
+  "fullDescription": "Ab Sariska: Dschungel-Safari mit Gypsy-Jeep im Sariska Nationalpark. Kommen Sie der Tierwelt des Sariska Tigerreservats mit einer Gypsy- oder Canter-Safari nahe.\n\nErkunden Sie das Sariska Tigerreservat in Rajasthan auf einer spannenden Jeep-Safari. Entdecken Sie Bengaltiger, Leoparden, Sambar-Hirsche, Wildschweine und ueber 200 Vogelarten. Waehlen Sie zwischen einer Gypsy- oder Canter-Safari, passend zu Ihrer Gruppengroesse und Ihrem Budget.\n\nTreffen Sie Ihren Guide am Eingang des Reservats und steigen Sie in Ihren offenen Jeep. Starten Sie ein spannendes Abenteuer durch das Reservat, das in den Aravalli-Huegeln liegt und vielfaeltige Landschaften bietet, darunter trockene Laubwaelder, Graslandschaften und felsiges Gelaende.\n\nHalten Sie Ihre Augen offen fuer Bengaltiger, Leoparden, Sambar-Hirsche, Wildschweine und Languren. Das Reservat ist auch Heimat von ueber 200 Vogelarten, also vergessen Sie Ihr Fernglas nicht.\n\nFahren Sie an historischen Staetten wie dem Kankwari Fort vorbei, einer antiken Festung mit Panoramablick auf den Wald, und dem Pandupol-Tempel, einer religioesen Staette von mythologischer Bedeutung, die der Ueberlieferung nach mit den Pandavas aus dem Mahabharata verbunden ist.\n\n### Im Preis enthalten\n\n- Bezahlte Eintrittskarte fuer das Sariska Tigerreservat\n- Erfahrener Guide\n- Eintritt fuer das Safari-Fahrzeug\n- Alle Steuern\n\n### Nicht enthalten\n\n- Abholung und Rueckfahrt zum Hotel\n- Mahlzeiten und Getraenke\n- Persoenliche Ausgaben\n- Trinkgelder",
+  "highlights": [
+   "Kommen Sie der Tierwelt des Sariska Tigerreservats mit einer Gypsy- oder Canter-Safari nahe."
+  ],
+  "included": [
+   "Bezahlte Eintrittskarte fuer das Sariska Tigerreservat\nErfahrener Guide\nEintritt fuer das Safari-Fahrzeug\nAlle Steuern"
+  ],
+  "notIncluded": [
+   "Abholung und Rueckfahrt zum Hotel\nMahlzeiten und Getraenke\nPersoenliche Ausgaben\nTrinkgelder"
+  ]
+ },
+ "jaipur-asias-elephant-village-experience-with": {
+  "title": "Jaipur: Erlebnis im asiatischen Elefantendorf mit Transfer",
+  "metaTitle": "Jaipur: Erlebnis im Elefantendorf",
+  "metaDescription": "Geniessen Sie eine stressfreie Fahrt mit einem professionellen englischsprachigen Fahrer zum Elefanten-Schutzgebiet in Jaipur.",
+  "shortDescription": "Geniessen Sie eine stressfreie Fahrt mit einem professionellen englischsprachigen Fahrer",
+  "fullDescription": "Jaipur: Erlebnis im asiatischen Elefantendorf mit Transfer. Geniessen Sie eine stressfreie Fahrt mit einem professionellen englischsprachigen Fahrer.\n\nTauchen Sie ein in einen Tag voller Mitgefuehl und Staunen mit unserem Programm \"Jaipur Gentle Giants\". Dieses Erlebnis bietet eine seltene Gelegenheit, mit Elefanten in einer respektvollen, schutzgebietsartigen Umgebung am malerischen Stadtrand der Pink City zu interagieren. Vollstaendig auf ethische Interaktion ausgerichtet, ermoeglicht Ihnen dieser Besuch, eine Bindung mit diesen majestaetischen Tieren aufzubauen, ohne Satteln oder Reiten.\n\nIhr Erlebnis umfasst:\nNahtloser Transport: Geniessen Sie einen stressfreien Start in den Tag mit einer privaten Abholung an Ihrem Hotel in Jaipur in einem modernen, klimatisierten Fahrzeug. Ihr professioneller, englischsprachiger Fahrer sorgt fuer eine reibungslose Reise und teilt lokale Einblicke auf dem Weg.\n\nEin herzlicher Empfang: Bei der Ankunft auf dem friedlichen laendlichen Gelaende des Schutzgebiets werden Sie den ansaessigen Elefanten und ihren engagierten Betreuern vorgestellt.\n\nInteraktive Fuetterung: Werden Sie aktiv, indem Sie naehrstoffreiche Snacks fuer die Elefanten zubereiten und anbieten. Diese ruhige Interaktion von Angesicht zu Angesicht ist der perfekte Weg, eine bedeutungsvolle Verbindung aufzubauen.\n\nGefuehrtes Lernen: Entdecken Sie die einzigartigen Persoenlichkeiten, sozialen Gewohnheiten und Rettungsgeschichten jedes Elefanten. Ihr Guide erklaert das Engagement des Schutzgebiets fuer hochwertiges Wohlergehen und Naturschutz.\n\nFotografie und Besinnung: Machen Sie unverstellte Nahaufnahmen dieser unglaublichen Kreaturen vor dem Hintergrund der natuerlichen Schoenheit Rajasthans.\n\nEntspannter Abschluss: Nach Ihrer Begegnung kuehlen Sie sich mit einem kostenlosen gekuehlten Getraenk ab, bevor Ihr privates Auto Sie zurueck zu Ihrer Unterkunft bringt.\n\n### Im Preis enthalten\n\n- Abholung und Rueckfahrt zum Hotel, Flughafen oder Bahnhof\n- Fahrer\n- Flaschenwasser\n- Kraftstoff\n- Parkgebuehren\n- Maut und zwischenstaatliche Steuern\n- Alle staatlichen Steuern\n\n### Nicht enthalten\n\n- Mahlzeiten\n- Trinkgelder (empfohlen)",
+  "highlights": [
+   "Geniessen Sie eine stressfreie Fahrt mit einem professionellen englischsprachigen Fahrer"
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel, Flughafen oder Bahnhof\nFahrer\nFlaschenwasser\nKraftstoff\nParkgebuehren\nMaut und zwischenstaatliche Steuern\nAlle staatlichen Steuern"
+  ],
+  "notIncluded": [
+   "Mahlzeiten\nTrinkgelder (empfohlen)"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",

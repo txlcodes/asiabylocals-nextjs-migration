@@ -34826,6 +34826,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Entrada al fuerte de Nahargarh\nComida y bebidas\nGastos personales\nPropinas y gratificaciones"
   ]
  },
+ "jaipur-amber-fort-stepwell-jal-mahal-with-pickup": {
+  "title": "Jaipur: fuerte de Amber, pozo escalonado y Jal Mahal con recogida",
+  "metaTitle": "Jaipur: fuerte de Amber, pozo escalonado, Jal Mahal",
+  "metaDescription": "Explore el fuerte de Amber, el majestuoso palacio en la colina de Jaipur, el pozo Panna Meena ka Kund y el Jal Mahal.",
+  "shortDescription": "Explore el fuerte de Amber, el majestuoso palacio en la colina de Jaipur",
+  "fullDescription": "Jaipur: fuerte de Amber, pozo escalonado y Jal Mahal con recogida. Explore el fuerte de Amber, el majestuoso palacio en la colina de Jaipur.\n\nRecogida en su hotel (ciudad de Jaipur)\nComience su dia con una comoda recogida en su hotel en Jaipur\nViaje en un vehiculo privado con aire acondicionado con un conductor profesional\n\nParada 1: fuerte de Amber (Amer Fort)\nExplore el majestuoso fuerte de Amber, un sitio del Patrimonio Mundial de la UNESCO\nAdmire su mezcla de arquitectura Rajput, vistas panoramicas desde la colina y el palacio de los espejos\nTour guiado a pie incluido con informacion historica\n\nParada 2: Panna Meena ka Kund (pozo escalonado)\nVisite la joya oculta de Panna Meena ka Kund, conocido por su diseno unico de pozo escalonado\nLugar perfecto para la fotografia y relatos culturales\nAprenda sobre su papel en el antiguo sistema de agua de Jaipur\n\nParada 3: Jal Mahal (palacio del agua)\nHaga una parada en el Jal Mahal, un hermoso palacio flotando en el lago Man Sagar\nTome fotos memorables y disfrute de vistas panoramicas desde la orilla del lago\nAprenda sobre la misteriosa arquitectura e historia del palacio\n\nTraslado a su hotel\nRegrese a su hotel en Jaipur con recuerdos inolvidables de los monumentos reales de la ciudad\n\n### Que incluye\n\n- Recogida y traslado al hotel en Jaipur (coche privado con aire acondicionado)\n- Vehiculo privado con aire acondicionado durante todo el recorrido\n- Guia con licencia en todos los sitios\n- Visita al fuerte de Amber, Panna Meena ka Kund y Jal Mahal\n- Agua embotellada para cada huesped\n- Todos los gastos de estacionamiento, combustible y peaje\n- Entradas (si se elige la opcion)\n\n### No incluye\n\n- Comidas y bebidas\n- Propinas para el guia y el conductor",
+  "highlights": [
+   "Explore el fuerte de Amber, el majestuoso palacio en la colina de Jaipur"
+  ],
+  "included": [
+   "Recogida y traslado al hotel en Jaipur (coche privado con aire acondicionado)\nVehiculo privado con aire acondicionado durante todo el recorrido\nGuia con licencia en todos los sitios\nVisita al fuerte de Amber, Panna Meena ka Kund y Jal Mahal\nAgua embotellada para cada huesped\nTodos los gastos de estacionamiento, combustible y peaje\nEntradas (si se elige la opcion)"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas\nPropinas para el guia y el conductor"
+  ]
+ },
+ "from-sariska-sariska-national-park-gypsy-jungle": {
+  "title": "Desde Sariska: safari en jeep gypsy por la jungla del parque nacional de Sariska",
+  "metaTitle": "Sariska: safari en jeep gypsy por la jungla",
+  "metaDescription": "Acerquese a la vida salvaje de la reserva de tigres de Sariska en un safari en jeep Gypsy o Canter, con tigres de Bengala, leopardos y mas.",
+  "shortDescription": "Acerquese a la vida salvaje de la reserva de tigres de Sariska en un safari en jeep Gypsy o Canter.",
+  "fullDescription": "Desde Sariska: safari en jeep gypsy por la jungla del parque nacional de Sariska. Acerquese a la vida salvaje de la reserva de tigres de Sariska en un safari en jeep Gypsy o Canter.\n\nExplore la reserva de tigres de Sariska en Rajasthan en un emocionante safari en jeep. Observe tigres de Bengala, leopardos, ciervos sambar, jabalies y mas de 200 especies de aves. Elija entre un safari Gypsy o Canter segun el tamano de su grupo y su presupuesto.\n\nReunase con su guia en la entrada de la reserva y suba a su jeep descapotable. Parta en una emocionante aventura por la reserva, situada en las colinas Aravalli y con paisajes diversos, incluidos bosques secos deciduos, praderas y terreno rocoso.\n\nMantenga los ojos abiertos para ver tigres de Bengala, leopardos, ciervos sambar, jabalies y langures. La reserva tambien es hogar de mas de 200 especies de aves, asi que no olvide sus binoculares.\n\nPase por sitios historicos como el fuerte de Kankwari, una antigua fortaleza con vistas panoramicas del bosque, y el templo de Pandupol, un sitio religioso de importancia mitologica, asociado segun la tradicion con los Pandavas del Mahabharata.\n\n### Que incluye\n\n- Entrada pagada a la reserva de tigres de Sariska\n- Guia experto\n- Entrada del vehiculo de safari\n- Todos los impuestos\n\n### No incluye\n\n- Recogida y traslado al hotel\n- Comidas y bebidas\n- Gastos personales\n- Propinas",
+  "highlights": [
+   "Acerquese a la vida salvaje de la reserva de tigres de Sariska en un safari en jeep Gypsy o Canter."
+  ],
+  "included": [
+   "Entrada pagada a la reserva de tigres de Sariska\nGuia experto\nEntrada del vehiculo de safari\nTodos los impuestos"
+  ],
+  "notIncluded": [
+   "Recogida y traslado al hotel\nComidas y bebidas\nGastos personales\nPropinas"
+  ]
+ },
+ "jaipur-asias-elephant-village-experience-with": {
+  "title": "Jaipur: experiencia en el pueblo de elefantes de Asia con traslado",
+  "metaTitle": "Jaipur: experiencia en el pueblo de elefantes",
+  "metaDescription": "Disfrute de un viaje sin estres con un conductor profesional de habla inglesa hacia el santuario de elefantes de Jaipur.",
+  "shortDescription": "Disfrute de un viaje sin estres con un conductor profesional de habla inglesa",
+  "fullDescription": "Jaipur: experiencia en el pueblo de elefantes de Asia con traslado. Disfrute de un viaje sin estres con un conductor profesional de habla inglesa.\n\nSumerjase en un dia de compasion y asombro con nuestro programa \"Jaipur Gentle Giants\". Esta experiencia ofrece una oportunidad poco comun de interactuar con elefantes en un entorno respetuoso al estilo santuario, situado en las pintorescas afueras de la ciudad rosa. Enfocada totalmente en la interaccion etica, esta visita le permite crear un vinculo con estos animales majestuosos sin sillas de montar ni paseos.\n\nSu experiencia incluye:\nTransporte sin complicaciones: disfrute de un comienzo de dia sin estres con una recogida privada en su hotel de Jaipur en un vehiculo moderno con aire acondicionado. Su conductor profesional de habla inglesa garantizara un viaje fluido y compartira conocimientos locales en el camino.\n\nUna calida bienvenida: al llegar a los tranquilos terrenos rurales del santuario, sera presentado a los elefantes residentes y a sus cuidadores dedicados.\n\nAlimentacion interactiva: participe preparando y ofreciendo refrigerios nutritivos a los elefantes. Esta tranquila interaccion cara a cara es la forma perfecta de crear una conexion significativa.\n\nAprendizaje guiado: descubra las personalidades unicas, los habitos sociales y las historias de rescate de cada elefante. Su guia explicara el compromiso del santuario con el bienestar y la conservacion de alto nivel.\n\nFotografia y reflexion: capture fotos espontaneas y de cerca de estas increibles criaturas con el telon de fondo de la belleza natural de Rajasthan.\n\nConclusion relajada: despues de su encuentro, refresquese con una bebida fria de cortesia antes de que su coche privado lo lleve de vuelta a su alojamiento.\n\n### Que incluye\n\n- Recogida y traslado al hotel, aeropuerto o estacion de trenes\n- Conductor\n- Agua embotellada\n- Combustible\n- Gastos de estacionamiento\n- Peaje e impuestos interestatales\n- Todos los impuestos gubernamentales\n\n### No incluye\n\n- Comidas\n- Propinas (recomendadas)",
+  "highlights": [
+   "Disfrute de un viaje sin estres con un conductor profesional de habla inglesa"
+  ],
+  "included": [
+   "Recogida y traslado al hotel, aeropuerto o estacion de trenes\nConductor\nAgua embotellada\nCombustible\nGastos de estacionamiento\nPeaje e impuestos interestatales\nTodos los impuestos gubernamentales"
+  ],
+  "notIncluded": [
+   "Comidas\nPropinas (recomendadas)"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
