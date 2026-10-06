@@ -36314,6 +36314,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Entradas\nComidas\nPropinas"
   ]
  },
+ "jaipur-city-palace-hawa-mahal-jantar-mantar": {
+  "title": "Jaipur: tour privado al City Palace, Hawa Mahal y Jantar Mantar",
+  "metaTitle": "Jaipur: City Palace, Hawa Mahal, Jantar Mantar",
+  "metaDescription": "Explore el City Palace, una mezcla majestuosa de arquitectura mogola y Rajput, luego el Hawa Mahal y el Jantar Mantar.",
+  "shortDescription": "Explore el City Palace, una mezcla majestuosa de arquitectura mogola y Rajput",
+  "fullDescription": "Jaipur: tour privado al City Palace, Hawa Mahal y Jantar Mantar. Explore el City Palace, una mezcla majestuosa de arquitectura mogola y Rajput.\n\nCity Palace:\nUna mezcla majestuosa de arquitectura mogola y Rajput, el City Palace es la residencia de la familia real de Jaipur. En el interior, los visitantes pueden explorar varios patios, museos y galerias que muestran artefactos reales, trajes, armas y la impresionante Puerta de los Pavos Reales.\n\nHawa Mahal (Palacio de los Vientos):\nConocido por sus intrincadas ventanas de celosia, este palacio de cinco pisos se construyo en 1799 para que las damas reales observaran las festividades de la calle sin ser vistas. La estructura de panal ofrece vistas fantasticas y es un excelente lugar para la fotografia.\n\nJantar Mantar:\nUn sitio del Patrimonio de la Humanidad de la UNESCO, el Jantar Mantar es un observatorio astronomico construido por el maharaja Sawai Jai Singh II en el siglo XVIII. Alberga varios instrumentos gigantes utilizados para medir el tiempo, rastrear cuerpos celestiales y predecir eclipses. El Samrat Yantra, un enorme reloj de sol, es uno de los puntos destacados principales.\n\n### Que incluye\n\n- Recogida y traslado\n- Transporte en vehiculo privado con aire acondicionado\n- Guia profesional\n- Todos los peajes y estacionamiento\n- Botella de agua mineral\n\n### No incluye\n\n- Entradas a monumentos\n- Comida\n- Cualquier gasto personal",
+  "highlights": [
+   "Explore el City Palace, una mezcla majestuosa de arquitectura mogola y Rajput"
+  ],
+  "included": [
+   "Recogida y traslado\nTransporte en vehiculo privado con aire acondicionado\nGuia profesional\nTodos los peajes y estacionamiento\nBotella de agua mineral"
+  ],
+  "notIncluded": [
+   "Entradas a monumentos\nComida\nCualquier gasto personal"
+  ]
+ },
+ "amer-fort-jal-mahal-stepwell-private-jaipur-half": {
+  "title": "Fuerte de Amer, Jal Mahal y pozo escalonado: tour privado de medio dia en Jaipur",
+  "metaTitle": "Jaipur: medio dia, Amer, Jal Mahal",
+  "metaDescription": "Principales atracciones: el Palacio de Amer, el Jal Mahal, el pozo escalonado Panna Meena, en un tour privado de medio dia.",
+  "shortDescription": "Principales atracciones: el Palacio de Amer, el Jal Mahal, el pozo escalonado Panna Meena",
+  "fullDescription": "Fuerte de Amer, Jal Mahal y pozo escalonado: tour privado de medio dia en Jaipur. Principales atracciones: el Palacio de Amer, el Jal Mahal, el pozo escalonado Panna Meena.\n\nDescubra el legado real de Jaipur en un tour privado de medio dia, viajando en su eleccion de un comodo coche con aire acondicionado o un tuk-tuk tradicional. Con una comoda recogida y traslado al hotel, explore los monumentos mas iconicos de la ciudad en solo medio dia, guiado por un experto local.\n\nComience su viaje en el majestuoso Palacio de Amer (fuerte de Amber), una fortaleza catalogada por la UNESCO que se posa en lo alto de las colinas Aravalli. Paseese por sus grandes patios, intrincado trabajo de espejos y salones reales mientras escucha fascinantes historias del pasado real de Rajasthan.\n\nA continuacion, visite el historico Panna Meena ka Kund, un pozo escalonado bellamente preservado conocido por sus llamativas escaleras simetricas y ambiente pacifico, perfecto para fotos y un vistazo a la arquitectura tradicional de Jaipur.\n\nContinue hacia el Jal Mahal, o \"Palacio del Agua\", una estructura encantadora que flota en medio del lago Man Sagar. Haga una pausa aqui para admirar el reflejo del palacio y la belleza pintoresca de las colinas circundantes.\n\nDespues de una exploracion memorable, relajese mientras su guia lo deja de regreso en su hotel, concluyendo un vistazo perfecto del encanto real y la historia de Jaipur.\n\n### Que incluye\n\n- Recogida y traslado al hotel o aeropuerto en Jaipur\n- Guia aprobado por el gobierno (si se elige la opcion)\n- Tour privado en coche o tuk-tuk (opcion)\n- Tarifas de entrada a monumentos (si se elige la opcion)\n\n### No incluye\n\n- Comidas y bebidas\n- Gastos personales\n- Propinas",
+  "highlights": [
+   "Principales atracciones: el Palacio de Amer, el Jal Mahal, el pozo escalonado Panna Meena"
+  ],
+  "included": [
+   "Recogida y traslado al hotel o aeropuerto en Jaipur\nGuia aprobado por el gobierno (si se elige la opcion)\nTour privado en coche o tuk-tuk (opcion)\nTarifas de entrada a monumentos (si se elige la opcion)"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas\nGastos personales\nPropinas"
+  ]
+ },
+ "pink-city-jaipur-private-shopping-tour": {
+  "title": "Ciudad rosa de Jaipur: tour de compras privado",
+  "metaTitle": "Jaipur: tour de compras privado",
+  "metaDescription": "Explore los mercados vibrantes y coloridos de Jaipur: Amer Road, Johari Bazaar, Tripolia Bazaar y mas, con recogida a las 10:30h.",
+  "shortDescription": "Explore los mercados vibrantes y coloridos de Jaipur",
+  "fullDescription": "Ciudad rosa de Jaipur: tour de compras privado. Explore los mercados vibrantes y coloridos de Jaipur.\n\nSera recogido en su hotel de Jaipur a las 10:30h (la hora puede cambiarse si se solicita). El representante del tour le ayudara a escoltarlo a los coloridos bazares de la ciudad.\n\nJaipur es un paraiso para los compradores. Jaipur representa el rico y vibrante estilo de vida y tradicion de Rajasthan. Esta ciudad tiene diferentes bazares donde puede encontrar las cosas que busca y explorar diferentes bazares o boutiques dentro y fuera del fuerte. Aqui encontrara todo, como textiles con impresion de bloques, telas coloridas, productos de cuero, joyeria de plata, piedras semipreciosas, joyeria etnica, marionetas rajastanis, recuerdos y articulos de regalo, alfombras, chales, cajas de madera talladas, pinturas, antigüedades, muebles, ceramica azul, artesania, lamparas, textiles de seda, talladuras de madera de sandalo y la famosa Dupatta de Rajasthan para ninias. Elija entre explorar tiendas de alta gama o negociar bienes en un mercado tradicional.\n\nAlgunas de las cosas mas asombrosas que deberia comprar en Jaipur son:\n• Plata y piedras preciosas\n• Productos de cuero\n• Artesania y recuerdos\n• Ceramica azul\n• Alfombras, chales, tapices, textiles con impresion de bloques\n• Textiles con impresion de bloques\n• Talladuras de madera de sandalo\n• Pinturas\n\nLos mejores lugares de compras en Jaipur que no debe perderse:\n\nAmer Road: Amer Road es un famoso monumento en Jaipur. Este mercado es conocido por su maravillosa ceramica y otros articulos de barro hechos por los locales. Ademas de los articulos de ceramica, este mercado en Jaipur tambien vende una variedad de articulos de bronce que complementan perfectamente a los de madera. Quedara asombrado por la increible seleccion de estilos de joyeria tanto clasicos como contemporaneos disponibles alli. En Jaipur, hay muchos mercados donde puede comprar joyeria con garantia, piedras semipreciosas y piedras preciosas. Hay tantas fabricas y grandes tiendas donde puede encontrar todo.\n\nJohari Bazaar: quedara asombrado por la increible seleccion de estilos de joyeria tanto clasicos como contemporaneos disponibles alli. En Jaipur, hay muchos mercados donde puede comprar joyeria con garantia, piedras semipreciosas y piedras preciosas. Johari Bazaar es uno de estos mercados.\n\nTripolia Bazaar es muy conocido por su exquisita coleccion de joyeria de laca y hermosas pulseras, bien conocidas en todo el mundo. Los Tripolia Bazaars son un gran lugar para encontrar las populares telas teñidas Bandini con bordados lujosos.\n\nChandpol Bazaar: ninguna otra ubicacion es tan conocida por las compras tradicionales como Chandpol Bazaar, donde puede comprar una variedad de artesania, talladuras de marmol y otros articulos tejidos a mano. Puede ver las obras de arte originales creadas por talentosos artesanos en Chandpol Bazaar.\n\nKishanpol Bazaar: es ampliamente reconocido por sus productos textiles asequibles. Muchos artistas talentosos residen en Kishanpol Bazaar, bien conocido por sus talladuras de madera y otras cosas.\n\nFinalmente, traslado de regreso a la ubicacion en Jaipur, y aqui termina el tour.\n\n### Que incluye\n\n- Recogida y traslado al hotel/estacion de trenes/estacion de autobuses en vehiculo con aire acondicionado\n- Vehiculo con aire acondicionado y transporte privado\n- Combustible (gasolina/diesel/gas), gastos de estacionamiento, peajes e interestatales\n- Experto de la ciudad de habla inglesa\n\n### No incluye\n\n- Tarifas de entrada a monumentos/tarifas de camara\n- Hotel/alojamiento\n- Comidas y gastos personales\n- Otras actividades\n- Propinas para el conductor",
+  "highlights": [
+   "Explore los mercados vibrantes y coloridos de Jaipur"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/estacion de trenes/estacion de autobuses en vehiculo con aire acondicionado\nVehiculo con aire acondicionado y transporte privado\nCombustible (gasolina/diesel/gas), gastos de estacionamiento, peajes e interestatales\nExperto de la ciudad de habla inglesa"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a monumentos/tarifas de camara\nHotel/alojamiento\nComidas y gastos personales\nOtras actividades\nPropinas para el conductor"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
