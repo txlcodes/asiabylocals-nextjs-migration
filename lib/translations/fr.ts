@@ -34490,6 +34490,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Nourriture et boissons\nGratifications\nDépenses personnelles"
   ]
  },
+ "jaipur-leopards-safari-tour-at-jhalana-l-spot": {
+  "title": "Jaipur : safari aux léopards à Jhalana, repérez des animaux sauvages",
+  "metaTitle": "Jaipur : safari aux léopards à Jhalana",
+  "metaDescription": "Découvrez le parc des léopards de Jhalana lors d'un safari palpitant en jeep ouverte, à la recherche de léopards et autres animaux.",
+  "shortDescription": "Découvrez le parc des léopards de Jhalana lors d'un safari palpitant en jeep ouverte",
+  "fullDescription": "Jaipur : safari aux léopards à Jhalana, repérez des animaux sauvages. Découvrez le parc des léopards de Jhalana lors d'un safari palpitant en jeep ouverte.\n\nPartez pour un safari dans la jungle à travers le parc des léopards de Jhalana à Jaipur. Repérez des léopards, des cerfs, des renards, des nilgaut, des hyènes et de nombreux oiseaux colorés.\n\nPartez pour un safari dans la jungle à travers le parc des léopards de Jhalana à bord d'une jeep 4x4 ouverte. Un naturaliste formé vous accompagnera lors d'un circuit privé pour vous aider à repérer toute la faune possible et la nature que vous verrez pendant votre aventure.\n\nAlternant collines vallonnées, forêts luxuriantes et magnifique flore et faune, le parc des léopards de Jhalana est reconnu comme l'un des meilleurs endroits du pays pour observer des léopards à l'état sauvage.\n\nPréparez-vous à voir des cerfs, des renards, des nilgaut, des hyènes et de nombreux oiseaux colorés. Le parc des léopards est le rêve de tout passionné de faune sauvage, photographe et voyageur passionné.\n\n### Ce qui est inclus\n\n- Safari dans la jungle de 2,5 h\n- Prise en charge et dépose à l'hôtel en voiture privée\n- Circuit en jeep 4x4 ouverte\n- Guide naturaliste formé\n\n### Non inclus\n\n- Pourboires pour le guide et le chauffeur\n- Toute dépense personnelle\n- Repas",
+  "highlights": [
+   "Découvrez le parc des léopards de Jhalana lors d'un safari palpitant en jeep ouverte"
+  ],
+  "included": [
+   "Safari dans la jungle de 2,5 h\nPrise en charge et dépose à l'hôtel en voiture privée\nCircuit en jeep 4x4 ouverte\nGuide naturaliste formé"
+  ],
+  "notIncluded": [
+   "Pourboires pour le guide et le chauffeur\nToute dépense personnelle\nRepas"
+  ]
+ },
+ "jaipur-full-day-city-tour-with-monkey-temple-by": {
+  "title": "Circuit d'une journée complète à Jaipur avec le Temple des Singes en voiture climatisée",
+  "metaTitle": "Jaipur : circuit d'une journée, Temple des Singes",
+  "metaDescription": "Ressentez notre hospitalité lors de ce circuit de découverte privé et luxueux d'une journée complète à Jaipur.",
+  "shortDescription": "Ressentez notre hospitalité lors de ce circuit de découverte privé et luxueux d'une journée complète à Jaipur",
+  "fullDescription": "Circuit d'une journée complète à Jaipur avec le Temple des Singes en voiture climatisée. Ressentez notre hospitalité lors de ce circuit de découverte privé et luxueux d'une journée complète à Jaipur.\n\nPalais Ambre : le Fort Ambre est un fort situé à Amer, au Rajasthan, en Inde. Amer est une ville d'une superficie de 4 kilomètres carrés, située à 11 kilomètres de Jaipur, la capitale du Rajasthan. Situé en hauteur sur une colline, c'est la principale attraction touristique de Jaipur. Le Fort Ambre est connu pour ses éléments de style artistique.\n\nJal Mahal : le Jal Mahal est un palais au milieu du lac Man Sagar, dans la ville de Jaipur, capitale de l'état du Rajasthan, en Inde. Le palais a été construit à l'origine en 1699 ; le bâtiment et le lac qui l'entoure ont ensuite été rénovés et agrandis au 18e siècle par le Maharaja Jai Singh II d'Amber.\n\nLe City Palace : le City Palace de Jaipur est une résidence royale et ancien siège administratif des souverains de l'État de Jaipur, au Rajasthan. La construction a commencé peu après la fondation de la ville de Jaipur sous le règne du Maharaja Sawai Jai Singh II, qui a déplacé sa cour d'Amber à Jaipur.\n\nJantar Mantar : le Jantar Mantar de Jaipur est une collection de 19 instruments astronomiques construits par le roi rajpoute Sawai Jai Singh II, fondateur de Jaipur, au Rajasthan. Le monument a été achevé en 1734. Il présente le plus grand cadran solaire en pierre du monde et est un site du patrimoine mondial. Il se trouve près du City Palace et du Hawa Mahal.\n\nHawa Mahal : le Hawa Mahal est un palais dans la ville de Jaipur, en Inde. Construit en grès rouge et rose, il se trouve à la limite du City Palace de Jaipur, et s'étend jusqu'au Zenana, ou quartiers des femmes.\n\nGatla Ji (Temple des Singes) : Galtaji est un ancien lieu de pèlerinage hindou situé à environ 10 km de Jaipur, dans l'état indien du Rajasthan. Le site se compose d'une série de temples construits dans une étroite crevasse de la ceinture de collines qui entoure Jaipur.\n\n### Ce qui est inclus\n\n- Voiture privée climatisée\n- Carburant, stationnements et toutes taxes\n- Prise en charge et dépose à l'hôtel\n- Guide touristique privé certifié en direct\n- Bouteille d'eau\n- Frais de chauffeur et de guide\n\n### Non inclus\n\n- Pourboires pour le chauffeur et le guide\n- Frais d'entrée aux monuments\n- Repas",
+  "highlights": [
+   "Ressentez notre hospitalité lors de ce circuit de découverte privé et luxueux d'une journée complète à Jaipur"
+  ],
+  "included": [
+   "Voiture privée climatisée\nCarburant, stationnements et toutes taxes\nPrise en charge et dépose à l'hôtel\nGuide touristique privé certifié en direct\nBouteille d'eau\nFrais de chauffeur et de guide"
+  ],
+  "notIncluded": [
+   "Pourboires pour le chauffeur et le guide\nFrais d'entrée aux monuments\nRepas"
+  ]
+ },
+ "jaipur-evening-light-and-sound-show-at-amber-fort": {
+  "title": "Jaipur : spectacle son et lumière en soirée au Fort Ambre",
+  "metaTitle": "Jaipur : spectacle son et lumière au Fort Ambre",
+  "metaDescription": "Explorez la riche culture patrimoniale du Rajasthan et de Jaipur à travers un spectacle de lumière et de son au Fort Ambre.",
+  "shortDescription": "Explorez la riche culture patrimoniale du Rajasthan et de Jaipur à travers la lumière et le son.",
+  "fullDescription": "Jaipur : spectacle son et lumière en soirée au Fort Ambre. Explorez la riche culture patrimoniale du Rajasthan et de Jaipur à travers la lumière et le son.\n\nItinéraire du circuit.\n\nPrise en charge à l'hôtel : notre chauffeur viendra vous chercher à l'hôtel, à l'aéroport, à la gare routière ou ferroviaire de votre choix.\n\nAdmirez le Fort Ambre de Jaipur baigné de lumières et découvrez son histoire lors d'un spectaculaire spectacle son et lumière, sans avoir à organiser transport et billets à la dernière minute. À la tombée de la nuit, profitez d'un transfert privé climatisé vers la forteresse-palais du 16e siècle, perchée sur une colline surplombant le lac Maota à l'extérieur de la ville. Prenez place, admirez le complexe et sa toile de fond montagneuse, et profitez d'un festival de lumières, de musique folklorique et de récits qui retracent son histoire et celle du Rajasthan au sens large, ses maharajas, son folklore et ses légendes.\n\nAprès le spectacle son et lumière, votre chauffeur vous emmènera au marché local pour quelques achats (si le temps le permet) puis dans un bon restaurant pour le dîner. Une fois terminé, vous serez redéposé à votre hôtel pour une soirée relaxante.\n\n### Ce qui est inclus\n\n- Service de prise en charge et dépose depuis l'hôtel, l'aéroport ou la gare\n- Véhicule privé climatisé avec chauffeur pour les visites\n- Carburant, frais de stationnement, péages et taxes interétatiques\n- Chauffeur professionnel pour assister le circuit\n- Eau en bouteille pour les invités\n- Toutes les taxes gouvernementales, y compris la taxe sur les produits et services (GST)\n\n### Non inclus\n\n- Pourboires pour le chauffeur et le guide, non inclus dans le forfait mais recommandés\n- Photos souvenirs, pouvant être disponibles à l'achat séparément\n- Frais de repas, non couverts par le forfait",
+  "highlights": [
+   "Explorez la riche culture patrimoniale du Rajasthan et de Jaipur à travers la lumière et le son"
+  ],
+  "included": [
+   "Service de prise en charge et dépose depuis l'hôtel, l'aéroport ou la gare\nVéhicule privé climatisé avec chauffeur pour les visites\nCarburant, frais de stationnement, péages et taxes interétatiques\nChauffeur professionnel pour assister le circuit\nEau en bouteille pour les invités\nToutes les taxes gouvernementales, y compris la taxe sur les produits et services (GST)"
+  ],
+  "notIncluded": [
+   "Pourboires pour le chauffeur et le guide, non inclus dans le forfait mais recommandés\nPhotos souvenirs, pouvant être disponibles à l'achat séparément\nFrais de repas, non couverts par le forfait"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",

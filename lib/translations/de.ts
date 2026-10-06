@@ -34490,6 +34490,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Essen und Getränke\nTrinkgelder\nPersönliche Ausgaben"
   ]
  },
+ "jaipur-leopards-safari-tour-at-jhalana-l-spot": {
+  "title": "Jaipur: Leoparden-Safari-Tour in Jhalana, Wildtiere entdecken",
+  "metaTitle": "Jaipur: Leoparden-Safari-Tour in Jhalana",
+  "metaDescription": "Entdecken Sie den Jhalana-Leopardenpark bei einer spannenden Safari im offenen Jeep, auf der Suche nach Leoparden und anderen Wildtieren.",
+  "shortDescription": "Entdecken Sie den Jhalana-Leopardenpark bei einer spannenden Safari im offenen Jeep",
+  "fullDescription": "Jaipur: Leoparden-Safari-Tour in Jhalana, Wildtiere entdecken. Entdecken Sie den Jhalana-Leopardenpark bei einer spannenden Safari im offenen Jeep.\n\nBegeben Sie sich auf eine Dschungel-Safari durch Jaipurs Jhalana-Leopardenpark. Entdecken Sie Leoparden, Hirsche, Füchse, Nilgauantilopen, Hyänen und viele buntgefiederte Vögel.\n\nBegeben Sie sich auf eine Dschungel-Safari durch den Jhalana-Leopardenpark in einem offenen Allrad-Jeep. Ein ausgebildeter Naturforscher begleitet Sie auf einer privaten Tour, um Ihnen zu helfen, so viele Wildtiere und Natur wie möglich während Ihres Abenteuers zu entdecken.\n\nZwischen sanften Hügeln, üppigen Wäldern und wunderschöner Flora und Fauna wechselnd, ist der Jhalana-Leopardenpark als einer der besten Orte des Landes bekannt, um Leoparden in freier Wildbahn zu beobachten.\n\nSeien Sie bereit, Hirsche, Füchse, Nilgauantilopen, Hyänen und viele buntgefiederte Vögel zu sehen. Der Leopardenpark ist der Traum jedes Wildtierbegeisterten, Fotografen und abenteuerlustigen Reisenden.\n\n### Inklusive\n\n- 2,5-h-Dschungel-Safari\n- Abholung und Rückfahrt vom Hotel im privaten Auto\n- Tour im offenen Allrad-Jeep\n- Ausgebildeter Naturforscher-Reiseführer\n\n### Nicht inklusive\n\n- Trinkgelder für Führer und Fahrer\n- Jegliche persönlichen Ausgaben\n- Mahlzeiten",
+  "highlights": [
+   "Entdecken Sie den Jhalana-Leopardenpark bei einer spannenden Safari im offenen Jeep"
+  ],
+  "included": [
+   "2,5-h-Dschungel-Safari\nAbholung und Rückfahrt vom Hotel im privaten Auto\nTour im offenen Allrad-Jeep\nAusgebildeter Naturforscher-Reiseführer"
+  ],
+  "notIncluded": [
+   "Trinkgelder für Führer und Fahrer\nJegliche persönlichen Ausgaben\nMahlzeiten"
+  ]
+ },
+ "jaipur-full-day-city-tour-with-monkey-temple-by": {
+  "title": "Jaipur-Ganztages-Stadtrundfahrt mit Affentempel im klimatisierten Auto",
+  "metaTitle": "Jaipur: Ganztagestour, Affentempel",
+  "metaDescription": "Spüren Sie unsere Gastfreundschaft bei dieser privaten, luxuriösen Ganztages-Besichtigungstour durch Jaipur.",
+  "shortDescription": "Spüren Sie unsere Gastfreundschaft bei dieser privaten, luxuriösen Ganztages-Besichtigungstour durch Jaipur",
+  "fullDescription": "Jaipur-Ganztages-Stadtrundfahrt mit Affentempel im klimatisierten Auto. Spüren Sie unsere Gastfreundschaft bei dieser privaten, luxuriösen Ganztages-Besichtigungstour durch Jaipur.\n\nAmber-Palast: Das Amber-Fort ist eine Festung in Amer, Rajasthan, Indien. Amer ist eine Stadt mit einer Fläche von 4 Quadratkilometern, 11 Kilometer von Jaipur, der Hauptstadt von Rajasthan, entfernt. Hoch auf einem Hügel gelegen, ist es die wichtigste Touristenattraktion Jaipurs. Das Amer-Fort ist bekannt für seine künstlerischen Stilelemente.\n\nJal Mahal: Der Jal Mahal ist ein Palast mitten im Man-Sagar-See in der Stadt Jaipur, der Hauptstadt des Bundesstaats Rajasthan, Indien. Der Palast wurde ursprünglich 1699 erbaut; das Gebäude und der See darum wurden später im 18. Jahrhundert von Maharadscha Jai Singh II. von Amber renoviert und erweitert.\n\nDer City Palace: Der City Palace von Jaipur ist eine königliche Residenz und ehemaliger Verwaltungssitz der Herrscher des Staates Jaipur in Jaipur, Rajasthan. Der Bau begann kurz nach der Gründung der Stadt Jaipur unter der Herrschaft von Maharadscha Sawai Jai Singh II., der seinen Hof von Amber nach Jaipur verlegte.\n\nJantar Mantar: Das Jantar Mantar von Jaipur ist eine Sammlung von 19 astronomischen Instrumenten, erbaut vom Rajput-König Sawai Jai Singh II., dem Gründer von Jaipur, Rajasthan. Das Denkmal wurde 1734 fertiggestellt. Es verfügt über die größte steinerne Sonnenuhr der Welt und ist eine Welterbestätte. Es liegt in der Nähe des City Palace und des Hawa Mahal.\n\nHawa Mahal: Der Hawa Mahal ist ein Palast in der Stadt Jaipur, Indien. Aus rotem und rosafarbenem Sandstein erbaut, liegt er am Rande des City Palace von Jaipur und erstreckt sich bis zur Zenana, den Frauengemächern.\n\nGatla Ji (Affentempel): Galtaji ist ein antiker hinduistischer Pilgerort etwa 10 km von Jaipur entfernt, im indischen Bundesstaat Rajasthan. Die Stätte besteht aus einer Reihe von Tempeln, die in eine enge Felsspalte des Hügelrings um Jaipur gebaut wurden.\n\n### Inklusive\n\n- Privates klimatisiertes Auto\n- Kraftstoff, Parkgebühren und alle Steuern\n- Abholung und Rückfahrt vom Hotel\n- Privater zertifizierter Live-Reiseführer\n- Wasserflasche\n- Fahrer- und Reiseführergebühren\n\n### Nicht inklusive\n\n- Trinkgelder für Fahrer und Reiseführer\n- Eintrittsgebühren für Denkmäler\n- Mahlzeiten",
+  "highlights": [
+   "Spüren Sie unsere Gastfreundschaft bei dieser privaten, luxuriösen Ganztages-Besichtigungstour durch Jaipur"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto\nKraftstoff, Parkgebühren und alle Steuern\nAbholung und Rückfahrt vom Hotel\nPrivater zertifizierter Live-Reiseführer\nWasserflasche\nFahrer- und Reiseführergebühren"
+  ],
+  "notIncluded": [
+   "Trinkgelder für Fahrer und Reiseführer\nEintrittsgebühren für Denkmäler\nMahlzeiten"
+  ]
+ },
+ "jaipur-evening-light-and-sound-show-at-amber-fort": {
+  "title": "Jaipur: abendliche Licht- und Tonshow am Amber-Fort",
+  "metaTitle": "Jaipur: Licht- und Tonshow am Amber-Fort",
+  "metaDescription": "Erkunden Sie die reiche Kulturerbe von Rajasthan und Jaipur mit Licht und Ton, bei dieser abendlichen Show am Amber-Fort.",
+  "shortDescription": "Erkunden Sie die reiche Kulturerbe von Rajasthan und Jaipur mit Licht und Ton.",
+  "fullDescription": "Jaipur: abendliche Licht- und Tonshow am Amber-Fort. Erkunden Sie die reiche Kulturerbe von Rajasthan und Jaipur mit Licht und Ton.\n\nReiseplan der Tour.\n\nAbholung vom Hotel: Unser Fahrer kommt, um Sie an Ihrem bevorzugten Hotel/Flughafen/Bus- oder Bahnhof abzuholen.\n\nSehen Sie Jaipurs Amber-Fort in Licht gebadet und erfahren Sie seine Geschichte bei einer spektakulären Licht- und Tonshow, ohne Transport und Tickets in letzter Minute organisieren zu müssen. Bei Einbruch der Dämmerung genießen Sie einen privaten klimatisierten Transfer zur Hügelfestung aus dem 16. Jahrhundert mit Blick auf den Maota-See außerhalb der Stadt. Nehmen Sie Platz, bewundern Sie den Komplex und seine Bergkulisse, und genießen Sie ein Fest aus Licht, Volksmusik und Erzählungen, die seine eigene und die umfassendere Geschichte Rajasthans, seine Maharadschas, Folklore und Legenden nachzeichnen.\n\nNach der Licht- und Tonshow bringt Ihr Fahrer Sie zum lokalen Markt für etwas Shopping (falls die Zeit es erlaubt) und dann zu einem schönen Restaurant zum Abendessen. Nach dem Essen werden Sie zurück zu Ihrem Hotel gebracht, für einen entspannten Abend.\n\n### Inklusive\n\n- Abhol- und Rückfahrservice vom Hotel, Flughafen oder Bahnhof\n- Privates klimatisiertes Fahrzeug mit Chauffeur für Besichtigungen\n- Kraftstoff, Parkgebühren, Mautgebühren und Zwischenstaatensteuern\n- Professioneller Fahrer zur Unterstützung der Tour\n- Wasser in Flaschen für die Gäste\n- Alle staatlichen Steuern, einschließlich der Waren- und Dienstleistungssteuer (GST)\n\n### Nicht inklusive\n\n- Trinkgelder für Fahrer und Reiseführer, nicht im Paket enthalten, aber empfohlen\n- Souvenirfotos, die separat käuflich erhältlich sein können\n- Verpflegungskosten, die nicht im Paket enthalten sind",
+  "highlights": [
+   "Erkunden Sie die reiche Kulturerbe von Rajasthan und Jaipur mit Licht und Ton"
+  ],
+  "included": [
+   "Abhol- und Rückfahrservice vom Hotel, Flughafen oder Bahnhof\nPrivates klimatisiertes Fahrzeug mit Chauffeur für Besichtigungen\nKraftstoff, Parkgebühren, Mautgebühren und Zwischenstaatensteuern\nProfessioneller Fahrer zur Unterstützung der Tour\nWasser in Flaschen für die Gäste\nAlle staatlichen Steuern, einschließlich der Waren- und Dienstleistungssteuer (GST)"
+  ],
+  "notIncluded": [
+   "Trinkgelder für Fahrer und Reiseführer, nicht im Paket enthalten, aber empfohlen\nSouvenirfotos, die separat käuflich erhältlich sein können\nVerpflegungskosten, die nicht im Paket enthalten sind"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
