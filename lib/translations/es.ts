@@ -35930,6 +35930,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comida y bebidas\nPropinas"
   ]
  },
+ "9-days-rajasthan-tour-jaipur-jodhpur-jaisalmer": {
+  "title": "Tour de 9 dias por Rajasthan: Jaipur, Jodhpur, Jaisalmer y Udaipur (desde 478,05 $)",
+  "metaTitle": "Tour de 9 dias por Rajasthan",
+  "metaDescription": "Crucero en barco en el pintoresco lago Pichola de Udaipur, explorando Jodhpur, Jaisalmer, Bikaner y el legado real de India.",
+  "shortDescription": "Crucero en barco en el pintoresco lago Pichola de Udaipur.",
+  "fullDescription": "Tour de 9 dias por Rajasthan: Jaipur, Jodhpur, Jaisalmer y Udaipur (desde 478,05 $). Crucero en barco en el pintoresco lago Pichola de Udaipur.\n\nEmbarquese en un tour de 9 dias por Rajasthan, explorando Udaipur, Jodhpur, Jaisalmer y Bikaner. Descubra majestuosos fuertes, lagos serenos y desiertos dorados, experimentando el rico patrimonio de las ciudades reales de India.\n\n### Que incluye\n\n- Todos los traslados y visitas en vehiculo privado.\n- Peaje, estacionamiento, asignacion del conductor y combustible.\n- Guia profesional (si se elige la opcion).\n- Alojamiento de 3 estrellas incluido (si se elige la opcion).\n- Desayuno incluido (si se elige la opcion).\n- Entradas incluidas (si se elige la opcion).\n\n### No incluye\n\n- No se incluye ningun tipo de gasto personal.\n- Almuerzo/cena/bebidas.",
+  "highlights": [
+   "Crucero en barco en el pintoresco lago Pichola de Udaipur."
+  ],
+  "included": [
+   "Todos los traslados y visitas en vehiculo privado.\nPeaje, estacionamiento, asignacion del conductor y combustible.\nGuia profesional (si se elige la opcion).\nAlojamiento de 3 estrellas incluido (si se elige la opcion).\nDesayuno incluido (si se elige la opcion).\nEntradas incluidas (si se elige la opcion)."
+  ],
+  "notIncluded": [
+   "No se incluye ningun tipo de gasto personal.\nAlmuerzo/cena/bebidas."
+  ]
+ },
+ "full-day-jaipur-tour-by-car": {
+  "title": "Tour de dia completo a Jaipur en coche",
+  "metaTitle": "Jaipur: tour de dia completo en coche",
+  "metaDescription": "Cree recuerdos inolvidables en Jaipur: fuerte de Amber, City Palace, Jantar Mantar, Hawa Mahal y mercados locales desde Delhi.",
+  "shortDescription": "Cree recuerdos inolvidables en Jaipur",
+  "fullDescription": "Tour de dia completo a Jaipur en coche. Cree recuerdos inolvidables en Jaipur.\n\nUn tour de dia completo a Jaipur desde Delhi es una excelente manera de explorar la rica historia y cultura de la ciudad rosa. Jaipur, la capital del estado indio de Rajasthan, es conocida por sus magnificos palacios, fuertes historicos, mercados vibrantes y arquitectura unica. Aqui hay un itinerario de muestra para una excursion de un dia a Jaipur desde Delhi en coche:\nManana: salida desde Delhi\n1. Salida: comience su viaje temprano en la manana desde Delhi. Jaipur esta aproximadamente a 5-6 horas de Delhi en coche, por lo que se recomienda una salida temprana para aprovechar al maximo su dia.\n2. Desayuno: puede desayunar en un dhaba (restaurante de carretera) en el camino o detenerse en un restaurante para un desayuno tradicional del norte de India.\nAvanzada la manana: fuerte de Amer (fuerte de Amber)\n3. Fuerte de Amer: llegue al fuerte de Amer, una de las atracciones mas famosas de Jaipur. Explore la impresionante arquitectura y luego proceda a un almuerzo buffet en Jaipur.\n4. Almuerzo: dirijase a un restaurante local o un restaurante tradicional rajastani para saborear los sabores de Rajasthan. Algunas opciones populares incluyen Chokhi Dhani, Laxmi Mishthan Bhandar y Suvarna Mahal.\nTarde: City Palace y Jantar Mantar\n5. City Palace: visite el historico City Palace, una residencia real con museos, patios y hermosa arquitectura. No olvide ver los artefactos y vestimentas reales en exhibicion.\n6. Jantar Mantar: explore el Jantar Mantar, un observatorio astronomico y sitio del Patrimonio de la Humanidad de la UNESCO. El complejo cuenta con una coleccion de impresionantes instrumentos astronomicos a gran escala.\nTarde: Hawa Mahal y mercados locales\n7. Hawa Mahal: haga una breve parada en el Hawa Mahal (Palacio de los Vientos), conocido por su unico diseño de panal y su impresionante fachada.\n8. Compras: explore mercados locales como Johari Bazaar y Bapu Bazaar para comprar artesania tradicional rajastani, textiles, joyeria y mas. Asegurese de probar la famosa joyeria y textiles rajastanis.\nCena: Jaipur\n9. Cena: termine su dia con una deliciosa cena en un restaurante local, probando especialidades rajastanis como Dal Baati Churma y Gatte Ki Sabzi.\nNoche tardia: regreso a Delhi\n10. Regreso a Delhi: despues de la cena, comience su viaje de regreso a Delhi. Asegurese de tener un vehiculo comodo para el viaje de regreso, ya que puede ser bastante largo.\n\n### Que incluye\n\n- Inclusiones:\n- Coche sedan con aire acondicionado para el viaje de ida y vuelta\n- Guia turistico en vivo en Jaipur\n- Tarifas de entrada a monumentos (si se elige la opcion)\n- Botella de agua",
+  "highlights": [
+   "Cree recuerdos inolvidables en Jaipur"
+  ],
+  "included": [
+   "Inclusiones:\nCoche sedan con aire acondicionado para el viaje de ida y vuelta\nGuia turistico en vivo en Jaipur\nTarifas de entrada a monumentos (si se elige la opcion)\nBotella de agua"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal\nCualquier bebida alcoholica\nPropinas y gratificaciones para el guia y el conductor"
+  ]
+ },
+ "jaipur-royal-turban-saree-photoshoot-experience": {
+  "title": "Jaipur: experiencia de sesion fotografica con turbante real y sari",
+  "metaTitle": "Jaipur: sesion fotografica turbante y sari",
+  "metaDescription": "Vistase como la realeza rajastani con atuendo tradicional para una sesion fotografica profesional frente al Hawa Mahal.",
+  "shortDescription": "Vistase como la realeza rajastani con atuendo tradicional.",
+  "fullDescription": "Jaipur: experiencia de sesion fotografica con turbante real y sari. Vistase como la realeza rajastani con atuendo tradicional.\n\n* Vistase como la realeza rajastani con un turbante tradicional (Safa) para hombres o un sari bellamente drapeado para mujeres, creando una experiencia cultural autentica.\n\n* Disfrute de una sesion fotografica profesional frente al iconico Hawa Mahal, uno de los monumentos mas fotografiados de Jaipur y el telon de fondo perfecto para recuerdos inolvidables.\n\n* Sea guiado por un fotografo experimentado que le ayudara con poses naturales y capturara fotografias de alta calidad durante toda la sesion.\n\n* Relajese con recogida y traslado privado al hotel en Jaipur en un comodo vehiculo con aire acondicionado, garantizando una experiencia sin complicaciones de principio a fin.\n\n* Reciba fotografias digitales de alta resolucion editadas profesionalmente despues de la experiencia, convirtiendola en un recuerdo perfecto para viajeros solos, parejas, familias, recien casados y amigos.\n\n### Que incluye\n\n- Recogida y traslado al hotel (ciudad de Jaipur)\n- Vehiculo privado con aire acondicionado\n- Fotografo profesional\n- Turbante rajastani tradicional (Safa) para hombres\n- Sari tradicional con asistencia de drapeado para mujeres\n- Sesion fotografica guiada\n- Fotografias digitales editadas profesionalmente\n- Agua potable embotellada\n- Todos los impuestos aplicables y gastos de estacionamiento\n\n### No incluye\n\n- Comida y bebidas\n- Servicios de maquillaje y peinado\n- Compras personales y recuerdos\n- Fotografias adicionales sin editar o impresas\n- El turbante tradicional (Safa) y el sari se proporcionan en alquiler para uso durante la sesion fotografica unicamente y no se incluyen para que los huespedes se los queden",
+  "highlights": [
+   "Vistase como la realeza rajastani con atuendo tradicional."
+  ],
+  "included": [
+   "Recogida y traslado al hotel (ciudad de Jaipur)\nVehiculo privado con aire acondicionado\nFotografo profesional\nTurbante rajastani tradicional (Safa) para hombres\nSari tradicional con asistencia de drapeado para mujeres\nSesion fotografica guiada\nFotografias digitales editadas profesionalmente\nAgua potable embotellada\nTodos los impuestos aplicables y gastos de estacionamiento"
+  ],
+  "notIncluded": [
+   "Comida y bebidas\nServicios de maquillaje y peinado\nCompras personales y recuerdos\nFotografias adicionales sin editar o impresas\nEl turbante tradicional (Safa) y el sari se proporcionan en alquiler para uso durante la sesion fotografica unicamente y no se incluyen para que los huespedes se los queden."
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
