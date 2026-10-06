@@ -34202,6 +34202,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder für den Reiseführer, nicht im Paket enthalten, aber empfohlen"
   ]
  },
+ "jaipur-amber-fort-hawa-mahal-city-palace-tour-by": {
+  "title": "Jaipur: Tour zum Amber-Fort, Hawa Mahal und City Palace mit dem Auto",
+  "metaTitle": "Jaipur: Amber-Fort, Hawa Mahal und City Palace",
+  "metaDescription": "Privates klimatisiertes Auto: bequeme Abholung und Rückfahrt am Hotel in Jaipur, für diese Tour zu den ikonischen Wahrzeichen.",
+  "shortDescription": "Privates klimatisiertes Auto: bequeme Abholung und Rückfahrt am Hotel in Jaipur.",
+  "fullDescription": "Jaipur: Tour zum Amber-Fort, Hawa Mahal und City Palace mit dem Auto. Privates klimatisiertes Auto: bequeme Abholung und Rückfahrt am Hotel in Jaipur.\n\n1. Hotelabholung: Beginn der Reise\nAbholung von Ihrem Hotel in Jaipur (oder Flughafen/Bahnhof) im privaten klimatisierten Fahrzeug\nTreffen Sie Ihren lokalen englischsprachigen Reiseführer (falls enthalten)\nFahrt zum majestätischen Amber-Fort\n\n2. Amber-Fort (Amer-Fort): Erkundung der Hügelfestung\nHinauffahrt mit dem Auto oder optional per Elefant/Jeep\nErkunden Sie den Sheesh Mahal (Spiegelpalast), den Diwan-i-Aam, das Ganesh Pol und atemberaubende Innenhöfe\nErfahren Sie mehr über die Rajput-Architektur und die strategische Geschichte des Forts\n\n3. Jal Mahal (Wasserpalast): Fotostopp\nKurzer Stopp auf dem Weg für atemberaubende Fotos des Palastes, der mitten im Man-Sagar-See schwimmt\nKein Zutritt möglich, aber ausgezeichnete Fotogelegenheit\n\n4. Hawa Mahal (Palast der Winde): ikonisches Wahrzeichen\nBewundern Sie die fünfstöckige, rosa Sandsteinfassade von der Straße aus\nErfahren Sie mehr über seine einzigartige Architektur und Nutzung durch königliche Frauen\nOptionaler Innenbesuch (je nach Einschluss der Eintrittskarte)\n\n5. City Palace: königliche Residenz und Museum\nBesuchen Sie den Palastkomplex, der noch immer die Heimat der königlichen Familie von Jaipur ist\nErkunden Sie den Mubarak Mahal, den Chandra Mahal (teilweise geöffnet), Innenhöfe, Galerien und königliche Artefakte\nOptional: Besuch der königlichen Waffenkammer und des Textilmuseums\n\n6. Besuch eines lokalen Basars (optional)\nBei ausreichender Zeit erkunden Sie Jaipurs bunte lokale Märkte: den Johari Bazaar (Schmuck), den Bapu Bazaar (Textilien/Leder) usw.\nIhr Reiseführer kann bei Qualitätseinkäufen beraten (ohne aufdringliche Verkaufstaktiken)\n\n7. Mittagspause\nHalt bei einem empfohlenen lokalen Restaurant für ein traditionelles rajasthanisches oder internationales Mittagessen\n\n8. Rückkehr zum Hotel\nNach einem Tag voller Geschichte und beeindruckender Architektur werden Sie an Ihrem Hotel oder bevorzugten Ort in Jaipur abgesetzt\n\n### Inklusive\n\n- Abholung und Rückfahrt am Hotel/Flughafen\n- Privates klimatisiertes Auto für die Besichtigung mit Fahrer\n- Staatlich zugelassener professioneller Reiseführer\n- Eintrittskarten für Denkmäler (falls Option gewählt)\n- Mittagessen im Restaurant (falls Option gewählt)\n- Mineralwasserflasche\n- Alle Mautgebühren und Parkgebühren\n\n### Nicht inklusive\n\n- Jegliche persönlichen Ausgaben",
+  "highlights": [
+   "Privates klimatisiertes Auto: bequeme Abholung und Rückfahrt am Hotel in Jaipur"
+  ],
+  "included": [
+   "Abholung und Rückfahrt am Hotel/Flughafen\nPrivates klimatisiertes Auto für die Besichtigung mit Fahrer\nStaatlich zugelassener professioneller Reiseführer\nEintrittskarten für Denkmäler (falls Option gewählt)\nMittagessen im Restaurant (falls Option gewählt)\nMineralwasserflasche\nAlle Mautgebühren und Parkgebühren"
+  ],
+  "notIncluded": [
+   "Jegliche persönlichen Ausgaben"
+  ]
+ },
+ "jaipur-jhalana-leopard-safari-tour": {
+  "title": "Jaipur: Jhalana-Leoparden-Safari-Tour",
+  "metaTitle": "Jaipur: Jhalana-Leoparden-Safari-Tour",
+  "metaDescription": "Ein klimatisiertes Auto holt Sie ab und bringt Sie zurück, für diese 4x4-Safari auf der Suche nach Leoparden im Jhalana-Park.",
+  "shortDescription": "Ein klimatisiertes Auto holt Sie ab und bringt Sie zurück.",
+  "fullDescription": "Jaipur: Jhalana-Leoparden-Safari-Tour. Ein klimatisiertes Auto holt Sie ab und bringt Sie zurück.\n\nWildtier-Enthusiasten werden eine 4x4-Safari in den Jhalana-Safaripark lieben, um nach Leoparden, Panthern, Axishirschen und vielem mehr zu suchen. Diese Tour ist nicht privat, es sei denn, Sie wählen beim Checkout 6 Sitzplätze; es ist eine bequeme Art, den Park zu besuchen, da Sie in einem komfortablen klimatisierten Fahrzeug dorthin gelangen und Rücktransfers von Ihrem Hotel erhalten. Fahren Sie abseits der Straße in robusten, für das Gelände konzipierten Fahrzeugen.\n\n### Reiseplan\nDies ist ein typischer Reiseplan für diese Tour.\n\nVorbeifahrt: Jaipur, Jaipur, Distrikt Jaipur, Rajasthan\n\nAbholung überall in Jaipur\n\nStopp bei: Jhalana-Leoparden-Safari, Jaipur, Indien\n\nDer Jhalana-Safaripark ist der beste Ort, um Leoparden und viele andere Wildtiere zu beobachten. Es ist ein fantastischer Ort fernab der Stadt. Genießen Sie einen Tag fernab der Hektik.\nDies ist der Dschungel, der natürliche Lebensraum, in dem Sie per 4x4-Jeep Leoparden und andere Arten finden werden. Mit dieser Aktivität können Sie den echten Dschungel erkunden und die besten Fotos machen. Das Geld wird nicht erstattet, wenn Sie keine Leoparden sehen, da der Dschungel kein Zoo ist.\n\nDauer: 3 bis 5 Stunden\n\n### Inklusive\n\n- Fahrer/Reiseführer\n- Abholung und Rückfahrt vom Hotel\n- Jeep-Safari und Geländefahrt\n- Privater Transport im klimatisierten Kleinbus zum und vom Park\n- Wasser in Flaschen\n- Eintritt/Zulassung - Jhalana-Leoparden-Safari",
+  "highlights": [
+   "Ein klimatisiertes Auto holt Sie ab und bringt Sie zurück"
+  ],
+  "included": [
+   "Fahrer/Reiseführer\nAbholung und Rückfahrt vom Hotel\nJeep-Safari und Geländefahrt\nPrivater Transport im klimatisierten Kleinbus zum und vom Park\nWasser in Flaschen\nEintritt/Zulassung - Jhalana-Leoparden-Safari"
+  ],
+  "notIncluded": [
+   "Essen und Getränke"
+  ]
+ },
+ "jaipur-abhaneri-stepwell-village-life-experience": {
+  "title": "Jaipur: Abhaneri-Stufenbrunnen und Dorfleben-Erlebnis",
+  "metaTitle": "Jaipur: Abhaneri-Stufenbrunnen und Dorfleben",
+  "metaDescription": "Erkunden Sie den historischen Chand-Baori-Stufenbrunnen und den Harshat-Mata-Tempel in Abhaneri, bei diesem Ausflug ab Jaipur.",
+  "shortDescription": "Erkunden Sie den historischen Chand-Baori-Stufenbrunnen und den Harshat-Mata-Tempel in Abhaneri",
+  "fullDescription": "Jaipur: Abhaneri-Stufenbrunnen und Dorfleben-Erlebnis. Erkunden Sie den historischen Chand-Baori-Stufenbrunnen und den Harshat-Mata-Tempel in Abhaneri.\n\nEntdecken Sie den Charme des ländlichen Rajasthan bei diesem Tagesausflug von Jaipur nach Abhaneri. Erkunden Sie den atemberaubenden Chand-Baori-Stufenbrunnen, einen der größten und schönsten Stufenbrunnen der Welt, und besuchen Sie den historischen Harshat-Mata-Tempel. Genießen Sie einen geführten Dorfspaziergang, um das traditionelle rajasthanische Leben zu erleben, mit Einheimischen zu interagieren und die Einfachheit und Kultur des Landlebens zu erleben. Mit privatem Transport, einem sachkundigen Reiseführer und Abholung und Rückfahrt vom Hotel bietet diese Tour eine perfekte Mischung aus Geschichte, Architektur und authentischem Dorfleben.\n\nHotelabholung in Jaipur\nBeginnen Sie Ihre Reise mit einer bequemen Abholung von Ihrem Hotel in einem privaten Auto mit englischsprachigem Fahrer.\n\nAnkunft im Dorf Abhaneri\nErreichen Sie Abhaneri, ein kleines Dorf, bekannt für sein antikes Erbe und ländlichen Charme.\n\nChand-Baori-Stufenbrunnen\nErkunden Sie den prächtigen Chand Baori, einen der tiefsten und größten Stufenbrunnen der Welt. Bewundern Sie seine kunstvollen symmetrischen Stufen und erfahren Sie mehr über seine historische und architektonische Bedeutung.\n\nHarshat-Mata-Tempel\nBesuchen Sie den nahegelegenen Harshat-Mata-Tempel, gewidmet der Göttin der Freude und des Glücks, mit wunderschön geschnitzten Säulen und Steinarbeiten.\n\nDorfspaziergang-Erlebnis\nUnternehmen Sie einen geführten Spaziergang durch das Dorf, um das authentische ländliche rajasthanische Leben zu erleben. Interagieren Sie mit Einheimischen, sehen Sie traditionelle Häuser und fangen Sie Dorfszenen ein, die die Kultur und den Charme des ländlichen Indiens widerspiegeln.\n\nMittagspause (optional)\nGenießen Sie ein traditionelles rajasthanisches Mittagessen in einem lokalen Restaurant oder kehren Sie je nach Vorliebe zum Essen nach Jaipur zurück.\n\nRückkehr nach Jaipur: erweiterte Tour\nBei der Rückkehr nach Jaipur besuchen Sie den ruhigen Sisodia-Rani-Garten, schlendern zwischen Jaipurs lebendigen gelben historischen Gebäuden und beenden Ihren Tag am Affentempel, wo Sie Panoramablicke auf die Pink City genießen können.\n\nOptionales Blockdruck-Erlebnis\nFür Interessierte können Sie Ihr Erlebnis mit einem praktischen Blockdruck-Workshop erweitern, bei dem Sie diese jahrhundertealte rajasthanische Textilkunst erlernen und Ihren eigenen bedruckten Stoff zum Mitnehmen herstellen können.\n\nHotelabgabe\nBeenden Sie die Tour mit einer bequemen Rückfahrt zu Ihrem Hotel, mit Erinnerungen an Abhaneris Erbe, Dorfleben und Jaipurs kulturelle Schönheit.\n\n### Inklusive\n\n- Abholung und Rückfahrt vom Hotel in Jaipur\n- Privates Auto mit englischsprachigem Fahrer\n- Reiseführer in Abhaneri\n- Eintrittsgebühren für den Chand-Baori-Stufenbrunnen, den Sisodia-Rani-Garten und andere enthaltene Attraktionen\n- Geführtes Dorfspaziergang-Erlebnis\n- Optionaler Blockdruck-Workshop\n- Wasser in Flaschen während der Tour\n\n### Nicht inklusive\n\n- Trinkgelder\n- Persönliche Ausgaben\n- Essen und Getränke",
+  "highlights": [
+   "Erkunden Sie den historischen Chand-Baori-Stufenbrunnen und den Harshat-Mata-Tempel in Abhaneri"
+  ],
+  "included": [
+   "Abholung und Rückfahrt vom Hotel in Jaipur\nPrivates Auto mit englischsprachigem Fahrer\nReiseführer in Abhaneri\nEintrittsgebühren für den Chand-Baori-Stufenbrunnen, den Sisodia-Rani-Garten und andere enthaltene Attraktionen\nGeführtes Dorfspaziergang-Erlebnis\nOptionaler Blockdruck-Workshop\nWasser in Flaschen während der Tour"
+  ],
+  "notIncluded": [
+   "Trinkgelder\nPersönliche Ausgaben\nEssen und Getränke"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",

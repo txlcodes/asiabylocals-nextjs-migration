@@ -34202,6 +34202,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le guide, non inclus dans le forfait mais recommandés"
   ]
  },
+ "jaipur-amber-fort-hawa-mahal-city-palace-tour-by": {
+  "title": "Jaipur : circuit du Fort Ambre, Hawa Mahal et City Palace en voiture",
+  "metaTitle": "Jaipur : Fort Ambre, Hawa Mahal et City Palace",
+  "metaDescription": "Voiture climatisée privée : prise en charge et dépose confortables à l'hôtel à Jaipur, pour ce circuit des monuments emblématiques.",
+  "shortDescription": "Voiture climatisée privée : prise en charge et dépose confortables à l'hôtel à Jaipur.",
+  "fullDescription": "Jaipur : circuit du Fort Ambre, Hawa Mahal et City Palace en voiture. Voiture climatisée privée : prise en charge et dépose confortables à l'hôtel à Jaipur.\n\n1. Prise en charge à l'hôtel : début du voyage\nPrise en charge à votre hôtel de Jaipur (ou à l'aéroport/la gare) en véhicule privé climatisé\nRencontrez votre guide local anglophone (si inclus)\nTrajet vers le majestueux Fort Ambre\n\n2. Fort Ambre (Amer Fort) : exploration de la forteresse au sommet de la colline\nMontée en voiture ou en option à dos d'éléphant/en jeep\nExplorez le Sheesh Mahal (Palais des Miroirs), le Diwan-i-Aam, la Ganesh Pol et de superbes cours intérieures\nDécouvrez l'architecture rajpoute et l'histoire stratégique du fort\n\n3. Jal Mahal (Palais de l'Eau) : arrêt photo\nCourt arrêt en chemin pour de superbes photos du palais flottant au milieu du lac Man Sagar\nPas d'entrée possible, mais excellente occasion photo\n\n4. Hawa Mahal (Palais des Vents) : monument emblématique\nAdmirez depuis la rue la façade en grès rose à cinq étages\nDécouvrez son architecture unique et son utilisation par les femmes royales\nVisite intérieure optionnelle (selon inclusion du billet d'entrée)\n\n5. City Palace : résidence royale et musée\nVisitez le complexe du palais, toujours habité par la famille royale de Jaipur\nExplorez le Mubarak Mahal, le Chandra Mahal (partiellement ouvert), les cours, les galeries et les objets royaux\nOptionnel : visitez l'arsenal royal et le musée du textile\n\n6. Visite d'un bazar local (optionnel)\nSi le temps le permet, explorez les marchés locaux colorés de Jaipur : le Johari Bazaar (bijoux), le Bapu Bazaar (textiles/cuir), etc.\nLe guide peut vous conseiller sur le shopping de qualité (sans ventes insistantes)\n\n7. Pause déjeuner\nArrêt dans un restaurant local recommandé pour un déjeuner rajasthani traditionnel ou multi-cuisines\n\n8. Retour à l'hôtel\nAprès une journée riche en histoire et en architecture époustouflante, vous serez déposé à votre hôtel ou au lieu de votre choix à Jaipur\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel/aéroport\n- Voiture climatisée privée pour les visites avec chauffeur\n- Guide touristique professionnel agréé par le gouvernement\n- Billets d'entrée aux monuments (si l'option est sélectionnée)\n- Déjeuner au restaurant (si l'option est sélectionnée)\n- Bouteille d'eau minérale\n- Tous les péages et frais de stationnement\n\n### Non inclus\n\n- Toute dépense personnelle",
+  "highlights": [
+   "Voiture climatisée privée : prise en charge et dépose confortables à l'hôtel à Jaipur"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel/aéroport\nVoiture climatisée privée pour les visites avec chauffeur\nGuide touristique professionnel agréé par le gouvernement\nBillets d'entrée aux monuments (si l'option est sélectionnée)\nDéjeuner au restaurant (si l'option est sélectionnée)\nBouteille d'eau minérale\nTous les péages et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle"
+  ]
+ },
+ "jaipur-jhalana-leopard-safari-tour": {
+  "title": "Jaipur : circuit safari aux léopards de Jhalana",
+  "metaTitle": "Jaipur : circuit safari aux léopards de Jhalana",
+  "metaDescription": "Une voiture climatisée viendra vous chercher et vous déposer, pour ce safari 4x4 à la recherche de léopards au parc de Jhalana.",
+  "shortDescription": "Une voiture climatisée viendra vous chercher et vous déposer.",
+  "fullDescription": "Jaipur : circuit safari aux léopards de Jhalana. Une voiture climatisée viendra vous chercher et vous déposer.\n\nLes passionnés de faune sauvage adoreront un safari en 4x4 dans le parc safari de Jhalana à la recherche de léopards, de panthères, de cerfs tachetés et bien plus encore. Ce circuit ne sera pas privé à moins de sélectionner 6 places sur la page de paiement ; c'est un moyen pratique de visiter le parc, car vous y arriverez dans un véhicule climatisé confortable et bénéficierez de transferts de retour depuis votre hôtel. Partez hors piste dans des véhicules robustes conçus pour ce terrain.\n\n### Itinéraire\nVoici un itinéraire type pour ce circuit.\n\nPassage par : Jaipur, Jaipur, district de Jaipur, Rajasthan\n\nPrise en charge n'importe où à Jaipur\n\nArrêt à : safari aux léopards de Jhalana, Jaipur, Inde\n\nLe parc safari de Jhalana est le meilleur endroit pour observer des léopards et bien d'autres animaux sauvages. C'est un endroit fantastique loin de la ville. Profitez d'une journée loin de l'agitation.\nC'est la jungle, l'habitat naturel où vous trouverez les léopards et d'autres espèces en jeep 4x4. Grâce à cette activité, vous pourrez explorer la véritable jungle et prendre les meilleures photos. L'argent ne sera pas remboursé si vous ne voyez pas les léopards, car la jungle n'est pas comme un zoo.\n\nDurée : 3 à 5 heures\n\n### Ce qui est inclus\n\n- Chauffeur/guide\n- Prise en charge et dépose à l'hôtel\n- Safari en jeep et conduite hors piste\n- Transport privé en minibus climatisé vers et depuis le parc\n- Eau en bouteille\n- Entrée/admission au safari aux léopards de Jhalana",
+  "highlights": [
+   "Une voiture climatisée viendra vous chercher et vous déposer"
+  ],
+  "included": [
+   "Chauffeur/guide\nPrise en charge et dépose à l'hôtel\nSafari en jeep et conduite hors piste\nTransport privé en minibus climatisé vers et depuis le parc\nEau en bouteille\nEntrée/admission au safari aux léopards de Jhalana"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons"
+  ]
+ },
+ "jaipur-abhaneri-stepwell-village-life-experience": {
+  "title": "Jaipur : baoli d'Abhaneri et expérience de la vie villageoise",
+  "metaTitle": "Jaipur : baoli d'Abhaneri et vie villageoise",
+  "metaDescription": "Explorez la baoli historique de Chand Baori et le temple Harshat Mata à Abhaneri, lors de cette excursion au départ de Jaipur.",
+  "shortDescription": "Explorez la baoli historique de Chand Baori et le temple Harshat Mata à Abhaneri",
+  "fullDescription": "Jaipur : baoli d'Abhaneri et expérience de la vie villageoise. Explorez la baoli historique de Chand Baori et le temple Harshat Mata à Abhaneri.\n\nDécouvrez le charme du Rajasthan rural lors de cette excursion d'une journée de Jaipur à Abhaneri. Explorez la magnifique baoli de Chand Baori, l'une des plus grandes et des plus belles baolis du monde, et visitez l'historique temple Harshat Mata. Profitez d'une promenade villageoise guidée pour découvrir la vie rajasthanie traditionnelle, échanger avec les habitants et découvrir la simplicité et la culture de la campagne. Avec transport privé, un guide compétent, et prise en charge et dépose à l'hôtel, ce circuit offre un parfait mélange d'histoire, d'architecture et de vie villageoise authentique.\n\nPrise en charge à l'hôtel à Jaipur\nCommencez votre voyage avec une prise en charge confortable à votre hôtel dans une voiture privée avec un chauffeur anglophone.\n\nArrivée au village d'Abhaneri\nAtteignez Abhaneri, un petit village connu pour son patrimoine ancien et son charme rural.\n\nBaoli de Chand Baori\nExplorez la magnifique Chand Baori, l'une des baolis les plus profondes et les plus grandes du monde. Admirez ses marches symétriques complexes et découvrez son importance historique et architecturale.\n\nTemple Harshat Mata\nVisitez le temple Harshat Mata situé à proximité, dédié à la déesse de la joie et du bonheur, avec ses piliers et sa pierre magnifiquement sculptés.\n\nExpérience de promenade villageoise\nFaites une promenade guidée à travers le village pour découvrir l'authentique vie rurale rajasthanie. Échangez avec les habitants, observez des maisons traditionnelles, et capturez des scènes villageoises reflétant la culture et le charme de l'Inde rurale.\n\nPause déjeuner (optionnelle)\nProfitez d'un déjeuner rajasthani traditionnel dans un restaurant local ou retournez à Jaipur pour dîner, selon votre préférence.\n\nRetour à Jaipur : circuit prolongé\nÀ votre retour à Jaipur, visitez le paisible jardin Sisodia Rani, flânez parmi les vibrants bâtiments patrimoniaux jaunes de Jaipur, et terminez votre journée au Temple des Singes, où vous pourrez profiter de vues panoramiques sur la Ville Rose.\n\nExpérience optionnelle d'impression au bloc\nPour les intéressés, prolongez votre expérience avec un atelier pratique d'impression au bloc, où vous pourrez apprendre cet art textile rajasthani séculaire et créer votre propre tissu imprimé à ramener chez vous.\n\nDépose à l'hôtel\nTerminez le circuit avec un retour confortable à votre hôtel, en emportant avec vous des souvenirs du patrimoine d'Abhaneri, de la vie villageoise et de la beauté culturelle de Jaipur.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel à Jaipur\n- Voiture privée avec un chauffeur anglophone\n- Guide touristique à Abhaneri\n- Frais d'entrée à la baoli de Chand Baori, au jardin Sisodia Rani et à d'autres attractions incluses\n- Expérience de promenade villageoise guidée\n- Atelier d'impression au bloc optionnel\n- Eau en bouteille pendant le circuit\n\n### Non inclus\n\n- Pourboires et gratifications\n- Dépenses personnelles\n- Nourriture et boissons",
+  "highlights": [
+   "Explorez la baoli historique de Chand Baori et le temple Harshat Mata à Abhaneri"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel à Jaipur\nVoiture privée avec un chauffeur anglophone\nGuide touristique à Abhaneri\nFrais d'entrée à la baoli de Chand Baori, au jardin Sisodia Rani et à d'autres attractions incluses\nExpérience de promenade villageoise guidée\nAtelier d'impression au bloc optionnel\nEau en bouteille pendant le circuit"
+  ],
+  "notIncluded": [
+   "Pourboires et gratifications\nDépenses personnelles\nNourriture et boissons"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",

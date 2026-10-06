@@ -34202,6 +34202,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas para el guía, no incluidas en el paquete pero recomendadas"
   ]
  },
+ "jaipur-amber-fort-hawa-mahal-city-palace-tour-by": {
+  "title": "Jaipur: tour del Fuerte Amber, Hawa Mahal y City Palace en coche",
+  "metaTitle": "Jaipur: Fuerte Amber, Hawa Mahal y City Palace",
+  "metaDescription": "Coche privado con aire acondicionado: recogida y traslado cómodos al hotel en Jaipur, para este tour de los monumentos icónicos.",
+  "shortDescription": "Coche privado con aire acondicionado: recogida y traslado cómodos al hotel en Jaipur.",
+  "fullDescription": "Jaipur: tour del Fuerte Amber, Hawa Mahal y City Palace en coche. Coche privado con aire acondicionado: recogida y traslado cómodos al hotel en Jaipur.\n\n1. Recogida en el hotel: inicio del viaje\nRecogida en su hotel de Jaipur (o aeropuerto/estación de tren) en vehículo privado con aire acondicionado\nConozca a su guía local de habla inglesa (si está incluido)\nViaje hacia el majestuoso Fuerte Amber\n\n2. Fuerte Amber (Amer Fort): explore la fortaleza en la colina\nSuba en coche o, opcionalmente, en elefante/jeep\nExplore el Sheesh Mahal (Palacio de los Espejos), el Diwan-i-Aam, el Ganesh Pol y los impresionantes patios\nConozca la arquitectura rajput y la historia estratégica del fuerte\n\n3. Jal Mahal (Palacio del Agua): parada fotográfica\nBreve parada en el camino para fotos impresionantes del palacio flotando en medio del Lago Man Sagar\nNo se puede entrar, pero es una excelente oportunidad fotográfica\n\n4. Hawa Mahal (Palacio de los Vientos): monumento icónico\nAdmire desde la calle la fachada de arenisca rosa de cinco pisos\nConozca su arquitectura única y su uso por las mujeres reales\nVisita interior opcional (según inclusión de la entrada)\n\n5. City Palace: residencia real y museo\nVisite el complejo del palacio, todavía hogar de la familia real de Jaipur\nExplore el Mubarak Mahal, el Chandra Mahal (parcialmente abierto), patios, galerías y objetos reales\nOpcional: visite el arsenal real y el museo textil\n\n6. Visita a un bazar local (opcional)\nSi el tiempo lo permite, explore los coloridos mercados locales de Jaipur: el Johari Bazaar (joyas), el Bapu Bazaar (textiles/cuero), etc.\nEl guía puede ayudar con recomendaciones de compras de calidad (sin ventas insistentes)\n\n7. Pausa para almorzar\nParada en un restaurante local recomendado para un almuerzo tradicional rajastaní o multicocina\n\n8. Regreso al hotel\nDespués de un día lleno de historia y arquitectura impresionante, será dejado en su hotel o lugar preferido en Jaipur\n\n### Qué incluye\n\n- Recogida y traslado al hotel/aeropuerto\n- Coche privado con aire acondicionado para las visitas con conductor\n- Guía turístico profesional aprobado por el gobierno\n- Entradas a monumentos (si se selecciona la opción)\n- Almuerzo en restaurante (si se selecciona la opción)\n- Botella de agua mineral\n- Todos los peajes y el estacionamiento\n\n### No incluye\n\n- Cualquier gasto personal",
+  "highlights": [
+   "Coche privado con aire acondicionado: recogida y traslado cómodos al hotel en Jaipur"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto\nCoche privado con aire acondicionado para las visitas con conductor\nGuía turístico profesional aprobado por el gobierno\nEntradas a monumentos (si se selecciona la opción)\nAlmuerzo en restaurante (si se selecciona la opción)\nBotella de agua mineral\nTodos los peajes y el estacionamiento"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
+  ]
+ },
+ "jaipur-jhalana-leopard-safari-tour": {
+  "title": "Jaipur: tour de safari de leopardos en Jhalana",
+  "metaTitle": "Jaipur: tour de safari de leopardos en Jhalana",
+  "metaDescription": "Un coche con aire acondicionado vendrá a recogerlo y dejarlo, para este safari 4x4 en busca de leopardos en el parque de Jhalana.",
+  "shortDescription": "Un coche con aire acondicionado vendrá a recogerlo y dejarlo.",
+  "fullDescription": "Jaipur: tour de safari de leopardos en Jhalana. Un coche con aire acondicionado vendrá a recogerlo y dejarlo.\n\nA los entusiastas de la vida silvestre les encantará realizar un safari 4x4 por el Parque Safari de Jhalana para buscar leopardos, panteras, ciervos moteados y mucho más. Este tour no será privado a menos que seleccione 6 asientos en la página de pago; es una forma conveniente de visitar el parque, ya que llegará en un cómodo vehículo con aire acondicionado y tendrá traslados de regreso desde su hotel. Salga fuera de la carretera en vehículos robustos diseñados para el terreno.\n\n### Itinerario\nEste es un itinerario típico para este tour.\n\nPaso por: Jaipur, Jaipur, distrito de Jaipur, Rajastán\n\nRecogida en cualquier lugar de Jaipur\n\nParada en: Safari de Leopardos de Jhalana, Jaipur, India\n\nEl Parque Safari de Jhalana es el mejor lugar para observar leopardos y muchos otros animales salvajes. Es un lugar fantástico, lejos de la ciudad. Disfrute de un día lejos del bullicio.\nEsta es la selva, el hábitat natural donde encontrará leopardos y otras especies en jeep 4x4. Con esta actividad podrá explorar la verdadera selva y tomar las mejores fotos. El dinero no será reembolsado si no ve los leopardos, porque la selva no es como un zoológico.\n\nDuración: de 3 a 5 horas\n\n### Qué incluye\n\n- Conductor/guía\n- Recogida y traslado al hotel\n- Safari en jeep y conducción todoterreno\n- Transporte privado en minivan con aire acondicionado hacia y desde el parque\n- Agua embotellada\n- Entrada/admisión al Safari de Leopardos de Jhalana",
+  "highlights": [
+   "Un coche con aire acondicionado vendrá a recogerlo y dejarlo"
+  ],
+  "included": [
+   "Conductor/guía\nRecogida y traslado al hotel\nSafari en jeep y conducción todoterreno\nTransporte privado en minivan con aire acondicionado hacia y desde el parque\nAgua embotellada\nEntrada/admisión al Safari de Leopardos de Jhalana"
+  ],
+  "notIncluded": [
+   "Comida y bebidas"
+  ]
+ },
+ "jaipur-abhaneri-stepwell-village-life-experience": {
+  "title": "Jaipur: pozo escalonado de Abhaneri y experiencia de vida en la aldea",
+  "metaTitle": "Jaipur: pozo escalonado de Abhaneri y vida en la aldea",
+  "metaDescription": "Explore el histórico pozo escalonado de Chand Baori y el Templo Harshat Mata en Abhaneri, en esta excursión desde Jaipur.",
+  "shortDescription": "Explore el histórico pozo escalonado de Chand Baori y el Templo Harshat Mata en Abhaneri",
+  "fullDescription": "Jaipur: pozo escalonado de Abhaneri y experiencia de vida en la aldea. Explore el histórico pozo escalonado de Chand Baori y el Templo Harshat Mata en Abhaneri.\n\nDescubra el encanto del Rajastán rural en esta excursión de un día desde Jaipur a Abhaneri. Explore el impresionante pozo escalonado de Chand Baori, uno de los más grandes y hermosos del mundo, y visite el histórico Templo Harshat Mata. Disfrute de un paseo guiado por la aldea para experimentar la vida tradicional rajastaní, interactuar con los locales y presenciar la simplicidad y cultura del campo. Con transporte privado, un guía conocedor, y recogida y traslado al hotel, este tour ofrece una combinación perfecta de historia, arquitectura y vida auténtica de aldea.\n\nRecogida en el hotel en Jaipur\nComience su viaje con una cómoda recogida en su hotel en un coche privado con conductor de habla inglesa.\n\nLlegada a la aldea de Abhaneri\nLlegue a Abhaneri, una pequeña aldea conocida por su antiguo patrimonio y encanto rural.\n\nPozo escalonado de Chand Baori\nExplore el magnífico Chand Baori, uno de los pozos escalonados más profundos y grandes del mundo. Admire sus intrincados escalones simétricos y conozca su importancia histórica y arquitectónica.\n\nTemplo Harshat Mata\nVisite el cercano Templo Harshat Mata, dedicado a la diosa de la alegría y la felicidad, con columnas y trabajos en piedra bellamente tallados.\n\nExperiencia de paseo por la aldea\nRealice un paseo guiado por la aldea para experimentar la auténtica vida rural rajastaní. Interactúe con los locales, vea casas tradicionales y capture escenas de la aldea que reflejan la cultura y el encanto de la India rural.\n\nPausa para almorzar (opcional)\nDisfrute de un almuerzo tradicional rajastaní en un restaurante local o regrese a Jaipur para comer, según su preferencia.\n\nRegreso a Jaipur: tour extendido\nAl regresar a Jaipur, visite el sereno Jardín Sisodia Rani, pasee entre los vibrantes edificios patrimoniales amarillos de Jaipur, y termine su día en el Templo de los Monos, donde podrá disfrutar de vistas panorámicas de la Ciudad Rosa.\n\nExperiencia opcional de estampado en bloque\nPara los interesados, extienda su experiencia con un taller práctico de estampado en bloque, donde podrá aprender este arte textil rajastaní centenario y crear su propia tela estampada para llevar a casa.\n\nTraslado al hotel\nConcluya el tour con un cómodo regreso a su hotel, llevándose recuerdos del patrimonio de Abhaneri, la vida de aldea y la belleza cultural de Jaipur.\n\n### Qué incluye\n\n- Recogida y traslado al hotel en Jaipur\n- Coche privado con conductor de habla inglesa\n- Guía turístico en Abhaneri\n- Tarifas de entrada al pozo escalonado de Chand Baori, el Jardín Sisodia Rani y otras atracciones incluidas\n- Experiencia de paseo guiado por la aldea\n- Taller opcional de estampado en bloque\n- Agua embotellada durante el tour\n\n### No incluye\n\n- Propinas y gratificaciones\n- Gastos personales\n- Comida y bebidas",
+  "highlights": [
+   "Explore el histórico pozo escalonado de Chand Baori y el Templo Harshat Mata en Abhaneri"
+  ],
+  "included": [
+   "Recogida y traslado al hotel en Jaipur\nCoche privado con conductor de habla inglesa\nGuía turístico en Abhaneri\nTarifas de entrada al pozo escalonado de Chand Baori, el Jardín Sisodia Rani y otras atracciones incluidas\nExperiencia de paseo guiado por la aldea\nTaller opcional de estampado en bloque\nAgua embotellada durante el tour"
+  ],
+  "notIncluded": [
+   "Propinas y gratificaciones\nGastos personales\nComida y bebidas"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
