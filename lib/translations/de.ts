@@ -35018,6 +35018,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persoenliche Ausgaben: jegliche persoenlichen Ausgaben wie Trinkgelder, Souvenirs, zusaetzliche Mahlzeiten oder Getraenke und Einkaufen.\nOptionale Aktivitaeten\nTrinkgelder: fuer Guide, Fahrer oder Hotelpersonal.\nMahlzeiten: Mittag- und Abendessen."
   ]
  },
+ "jaipur-full-day-city-tour-by-car-with-english": {
+  "title": "Jaipur: Ganztages-Stadttour mit Auto und englischsprachigem Fahrer",
+  "metaTitle": "Jaipur: Ganztagestour mit Auto",
+  "metaDescription": "Erkunden Sie Jaipurs reiche Geschichte und lebendige Kultur: Hawa Mahal, Amber Fort, Jal Mahal, City Palace und Jantar Mantar.",
+  "shortDescription": "Erkunden Sie Jaipurs reiche Geschichte und lebendige Kultur.",
+  "fullDescription": "Jaipur: Ganztages-Stadttour mit Auto und englischsprachigem Fahrer. Erkunden Sie Jaipurs reiche Geschichte und lebendige Kultur.\n\n-Startzeit 8 Uhr, 8:30 Uhr, 9 Uhr, 9:30 Uhr, 10 Uhr\n\nBegeben Sie sich auf eine faszinierende Erkundung von Jaipurs bezauberndem Glanz, gefuehrt von Ihrem privaten Auto und Fahrer, was ein persoenliches und luxurioeses Erlebnis von Anfang bis Ende gewaehrleistet. Ihre Reise beginnt am ikonischen Hawa Mahal Palast, wo das filigrane Gitterwerk ein Gefuehl von Staunen und Verwunderung hervorruft und den Ton fuer das kommende Abenteuer setzt.\n\nWaehrend Sie durch die lebendige Stadtlandschaft reisen, navigiert Ihr Fahrer muehelos durch Jaipurs geschaeftige Strassen und ermoeglicht es Ihnen, vollstaendig in die opulente Geschichte und kunstvolle Architektur der Region einzutauchen. Ihr naechster Stopp ist der Stufenbrunnen, ein antikes Wunder, das eine einzigartige Anordnung von Stufen zeigt, die zu einem ruhigen Brunnen hinabfuehren. Hier geniessen Sie die ruhige Atmosphaere dieses architektonischen Meisterwerks und bewundern die faszinierende Geometrie, die kunstvoll in sein Design eingewoben ist.\n\nAuf Ihrer weiteren Expedition begegnen Sie der atemberaubenden Groesse des Amber Forts, einer majestaetischen Struktur, geschmueckt mit prachtvollen Farbtoenen aus rotem Sandstein und Marmor. Die Festung steht als Zeugnis des reichen kulturellen Erbes von Rajasthan und fasziniert Besucher mit ihrer imposanten Schoenheit und reichen Geschichte.\n\nAls Naechstes auf Ihrem Programm steht die mystische Anziehungskraft des Jal Mahal, ein bezaubernder Palast inmitten ruhiger Gewaesser. Waehrend Sie seine malerische Umgebung betrachten, werden Sie in eine Welt zeitloser Eleganz und Ruhe versetzt, eingefangen von der ruhigen Schoenheit der Landschaft.\n\nKeine Reise durch Jaipur waere vollstaendig ohne sich der beruehmten Shopping-Szene der Stadt hinzugeben. Von exquisiten Edelsteinen bis hin zu kunstvollen Armreifen und Silberschmuck bietet Jaipur eine Schatzkammer einzigartiger Funde, die darauf warten, entdeckt zu werden. Nach einem angenehmen Einkaufsausflug geniessen Sie die Aromen der lokalen Kueche bei einem herrlichen Mittagessen in einem sorgfaeltig ausgewaehlten Restaurant, fachkundig begleitet von Ihrem kulinarischen Experten.\n\nBei der Fortsetzung Ihrer Erkundung besuchen Sie den koeniglichen City Palace, einen majestaetischen Komplex, der sowohl als Museum als auch als koenigliche Residenz dient. Hier haben Sie die Gelegenheit, die opulente Architektur zu bewundern und in die reiche Geschichte einzutauchen, die jeden Winkel des Palastes durchdringt.\n\nZum Abschluss Ihrer Expedition besuchen Sie das Jantar Mantar, eine aussergewoehnliche Sammlung architektonischer und astronomischer Instrumente, die als Zeugnis des Einfallsreichtums antiker Astronomen stehen. Staunen Sie ueber die Praezision und Komplexitaet dieser Strukturen, waehrend Sie die tiefgreifende Bedeutung hinter ihrer Entstehung entdecken.\n\nTauchen Sie ein in die Groesse Jaipurs, gefuehrt von erfahrenen Experten, die eine wirklich unvergessliche Reise gewaehrleisten. Waehrend Sie die architektonischen Schaetze der Stadt entdecken und in ihre faszinierende Geschichte eintauchen, schaffen Sie wertvolle Erinnerungen, die ein Leben lang halten und Ihnen eine tiefe Wertschaetzung fuer die zeitlose Schoenheit der Pink City hinterlassen.\n\n### Im Preis enthalten\n\n- Transport im privaten, klimatisierten Auto\n- Klimatisierte Limousine/SUV\n- Abholung und Rueckfahrt zum Hotel oder Flughafen\n- Flaschen mit Mineralwasser\n- Alle Steuern und Gebuehren\n- Kraftstoffzuschlag\n- GST\n\n### Nicht enthalten\n\n- Eintrittsgebuehren fuer Denkmaeler\n- Trinkgelder\n- Mahlzeiten",
+  "highlights": [
+   "Erkunden Sie Jaipurs reiche Geschichte und lebendige Kultur."
+  ],
+  "included": [
+   "Transport im privaten, klimatisierten Auto\nKlimatisierte Limousine/SUV\nAbholung und Rueckfahrt zum Hotel oder Flughafen\nFlaschen mit Mineralwasser\nAlle Steuern und Gebuehren\nKraftstoffzuschlag\nGST"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer Denkmaeler\nTrinkgelder\nMahlzeiten"
+  ]
+ },
+ "jaipur-open-gypsy-heritage-night-safari": {
+  "title": "Jaipur: offene Gypsy-Erbe-Nachtsafari",
+  "metaTitle": "Jaipur: offene Gypsy-Nachtsafari",
+  "metaDescription": "Entdecken Sie die Magie Jaipurs nach Einbruch der Dunkelheit auf einer offenen Gypsy-Fahrt, mit Blick auf den Hawa Mahal und lokalen Snacks.",
+  "shortDescription": "Entdecken Sie die Magie Jaipurs nach Einbruch der Dunkelheit auf einer offenen Gypsy-Fahrt",
+  "fullDescription": "Jaipur: offene Gypsy-Erbe-Nachtsafari. Entdecken Sie die Magie Jaipurs nach Einbruch der Dunkelheit auf einer offenen Gypsy-Fahrt.\n\nErleben Sie die Magie Jaipurs nach Einbruch der Dunkelheit auf einer gefuehrten Tour. Waehrend Sie durch die lebendigen Strassen in einem offenen Gypsy fahren, erwacht die Stadt mit den Klaengen geschaeftiger Maerkte, lebhafter Musik und dem Summen von Gespraechen.\n\nFahren Sie an Jaipurs ikonischsten Sehenswuerdigkeiten vorbei, beginnend mit dem majestaetischen Hawa Mahal, gefolgt vom ruhigen Jal Mahal, dem imposanten Nahargarh Fort, Sargasooli und dem grossen Albert Hall Museum.\n\nVom Dach des Padao Restaurants geniessen Sie unvergleichliche Panoramablicke auf die Stadt.\n\nUm das Erlebnis abzurunden, geniessen Sie lokale Aromen mit Leckereien wie Aloo Kachori und cremigem Matka Kulfi.\n\nEin Highlight ist die Licht- und Tonshow am Amer Fort, wo Sie in die Geschichte dieses prachtvollen Bauwerks eintauchen koennen (Tickets werden separat berechnet).\n\n### Im Preis enthalten\n\n- Offene Gypsy-Fahrt durch Jaipur\n- Durchfahrt an ikonischen Sehenswuerdigkeiten wie Hawa Mahal, Jal Mahal, Nahargarh Fort, Sargasooli und Albert Hall Museum\n- Eintritt zum Nahargarh Fort\n- Panoramablicke vom Dach des Padao Restaurants\n- Lokale Leckereien wie Aloo Kachori und Matka Kulfi\n- Gesamte Fahrtzeit von 4 Stunden",
+  "highlights": [
+   "Entdecken Sie die Magie Jaipurs nach Einbruch der Dunkelheit auf einer offenen Gypsy-Fahrt"
+  ],
+  "included": [
+   "Offene Gypsy-Fahrt durch Jaipur\nDurchfahrt an ikonischen Sehenswuerdigkeiten wie Hawa Mahal, Jal Mahal, Nahargarh Fort, Sargasooli und Albert Hall Museum\nEintritt zum Nahargarh Fort\nPanoramablicke vom Dach des Padao Restaurants\nLokale Leckereien wie Aloo Kachori und Matka Kulfi\nGesamte Fahrtzeit von 4 Stunden"
+  ],
+  "notIncluded": [
+   "Tickets fuer die Licht- und Tonshow.\nAbendessen nicht enthalten (lokaler Stopp moeglich)\nWartezeitgebuehr: 1000 INR/Stunde\nPersoenliche Ausgaben\nExtras ausgeschlossen (alles, was nicht erwaehnt wird)"
+  ]
+ },
+ "hidden-gems-of-jaipur-with-a-local-half-day": {
+  "title": "Versteckte Juwelen Jaipurs mit einem Einheimischen (Halbtagestour im klimatisierten Auto)",
+  "metaTitle": "Versteckte Juwelen Jaipurs mit Einheimischem",
+  "metaDescription": "Erkunden Sie den heiligen Galtaji (Affentempel), Sisodia Rani Ka Bagh, Birla Mandir und Albert Hall an einem halben Tag mit lokalem Guide.",
+  "shortDescription": "Erkunden Sie den heiligen Galtaji (Affentempel).",
+  "fullDescription": "Versteckte Juwelen Jaipurs mit einem Einheimischen (Halbtagestour im klimatisierten Auto). Erkunden Sie den heiligen Galtaji (Affentempel).\n\nJaipur ist beruehmt fuer seine prachtvollen Festungen und Palaeste, aber die Stadt verbirgt auch viele schoene und kulturell reiche Orte jenseits des ueblichen Touristenpfads. Diese Halbtages-Besichtigungstour vereint einige der bedeutungsvollsten versteckten Juwelen Jaipurs und bietet Einblick in die Geschichte, religioesen Ueberzeugungen, Architektur und das lokale Leben der Stadt.\n\nReisen Sie komfortabel im klimatisierten Auto mit einem sachkundigen lokalen Guide, der an jedem Stopp spannende Geschichten und kulturellen Kontext teilt. Dieses Erlebnis ist ideal fuer Reisende, die die tiefere Seite der Pink City jenseits der Highlights erkunden moechten.\n\nOrte auf dieser Tour:\n\nGaltaji (Affentempel) – Eine heilige Pilgerstaette, umgeben von Huegeln und natuerlichen Wasserbecken.\n\nSisodia Rani Ka Bagh – Ein schoener mehrstoeckiger Gartenkomplex mit Brunnen, Wasserlaeufen und bemalten Pavillons.\n\nBirla Mandir und Moti Dungri Ganesh Tempel – Wichtige religioese Sehenswuerdigkeiten, die Jaipurs spirituelle Seite widerspiegeln.\n\nAlbert Hall Museum – Jaipurs aeltestes Museum, das Kunst, Artefakte und indo-sarazenische Architektur zeigt.\n\nRam Niwas Garten – Ein historischer Garten im Herzen von Jaipur.\n\n### Im Preis enthalten\n\n- Hoch ausgebildeter und freundlicher Geschichtenerzaehler/Guide, der Englisch und Hindi spricht\n- Transport fuer die Tour im klimatisierten Auto\n- Lokale Einblicke, Tipps und kulturelle Erklaerungen\n\n### Nicht enthalten\n\n- Eintrittsgebuehren fuer Denkmaeler oder Attraktionen\n- Essen und Getraenke, sofern nicht erwaehnt",
+  "highlights": [
+   "Erkunden Sie den heiligen Galtaji (Affentempel)."
+  ],
+  "included": [
+   "Hoch ausgebildeter und freundlicher Geschichtenerzaehler/Guide, der Englisch und Hindi spricht\nTransport fuer die Tour im klimatisierten Auto\nLokale Einblicke, Tipps und kulturelle Erklaerungen"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer Denkmaeler oder Attraktionen\nEssen und Getraenke, sofern nicht erwaehnt"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",

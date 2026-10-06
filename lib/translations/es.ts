@@ -35018,6 +35018,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales: cualquier gasto personal como propinas, recuerdos, comidas o bebidas adicionales y compras.\nActividades opcionales\nPropinas: para el guia, el conductor o el personal del hotel.\nComidas: almuerzo y cena."
   ]
  },
+ "jaipur-full-day-city-tour-by-car-with-english": {
+  "title": "Jaipur: tour de la ciudad de dia completo en coche con conductor de habla inglesa",
+  "metaTitle": "Jaipur: tour de dia completo en coche",
+  "metaDescription": "Explore la rica historia y la cultura vibrante de Jaipur: Hawa Mahal, fuerte de Amber, Jal Mahal, City Palace y Jantar Mantar.",
+  "shortDescription": "Explore la rica historia y la cultura vibrante de Jaipur.",
+  "fullDescription": "Jaipur: tour de la ciudad de dia completo en coche con conductor de habla inglesa. Explore la rica historia y la cultura vibrante de Jaipur.\n\n-Hora de inicio 8h, 8:30h, 9h, 9:30h, 10h\n\nEmbarquese en una fascinante exploracion del encantador esplendor de Jaipur, guiado por su coche y conductor privados, garantizando una experiencia personalizada y lujosa de principio a fin. Su viaje comienza en el iconico Palacio Hawa Mahal, donde el delicado diseño de celosia evoca una sensacion de asombro, marcando el tono para la aventura por venir.\n\nMientras atraviesa el vibrante paisaje urbano, su conductor navegara sin problemas por las bulliciosas calles de Jaipur, permitiendole sumergirse completamente en la opulenta historia y la intrincada arquitectura de la region. Su siguiente parada es el pozo escalonado, una antigua maravilla que presenta una disposicion unica de escalones que descienden a un sereno pozo. Aqui, disfrutara del ambiente tranquilo de esta obra maestra arquitectonica y admirara la fascinante geometria entrelazada en su diseño.\n\nContinuando su expedicion, encontrara la impresionante grandeza del fuerte de Amber, una estructura majestuosa adornada con tonos resplandecientes de arenisca roja y marmol. La fortaleza es un testimonio del rico patrimonio cultural de Rajasthan, cautivando a los visitantes con su imponente belleza y rica historia.\n\nA continuacion en su itinerario esta el atractivo mistico del Jal Mahal, un palacio encantador situado entre aguas serenas. Mientras contempla su entorno pintoresco, sera transportado a un mundo de elegancia atemporal y tranquilidad, capturado por la serena belleza del paisaje.\n\nNingun viaje por Jaipur estaria completo sin disfrutar de la reconocida escena de compras de la ciudad. Desde exquisitas gemas hasta pulseras ornamentadas y joyeria de plata, Jaipur ofrece un tesoro de hallazgos unicos esperando ser descubiertos. Despues de una agradable excursion de compras, saboree los sabores de la cocina local durante un suntuoso almuerzo en un restaurante cuidadosamente seleccionado, guiado expertamente por su experto culinario.\n\nContinuando su exploracion, visitara el regio City Palace, un complejo majestuoso que sirve tanto de museo como de residencia real. Aqui, tendra la oportunidad de admirar la opulenta arquitectura y sumergirse en la rica historia que impregna cada rincon del palacio.\n\nConcluyendo su expedicion esta una visita al Jantar Mantar, una extraordinaria coleccion de instrumentos arquitectonicos y astronomicos que son testimonio del ingenio de los antiguos astronomos. Maravillese con la precision y complejidad de estas estructuras mientras descubre el profundo significado detras de su creacion.\n\nSumerjase en la grandeza de Jaipur, guiado por expertos experimentados que garantizaran un viaje verdaderamente inolvidable. Mientras descubre las joyas arquitectonicas de la ciudad y profundiza en su cautivadora historia, creara recuerdos preciados que duraran toda la vida, dejandole una profunda apreciacion por la belleza atemporal de la ciudad rosa.\n\n### Que incluye\n\n- Transporte en coche privado con aire acondicionado\n- Sedan/SUV con aire acondicionado\n- Recogida y traslado al hotel o aeropuerto\n- Botellas de agua mineral\n- Todos los impuestos y tarifas\n- Recargo de combustible\n- GST\n\n### No incluye\n\n- Tarifas de entrada a monumentos\n- Propinas\n- Comidas",
+  "highlights": [
+   "Explore la rica historia y la cultura vibrante de Jaipur."
+  ],
+  "included": [
+   "Transporte en coche privado con aire acondicionado\nSedan/SUV con aire acondicionado\nRecogida y traslado al hotel o aeropuerto\nBotellas de agua mineral\nTodos los impuestos y tarifas\nRecargo de combustible\nGST"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a monumentos\nPropinas\nComidas"
+  ]
+ },
+ "jaipur-open-gypsy-heritage-night-safari": {
+  "title": "Jaipur: safari nocturno del patrimonio en jeep gypsy abierto",
+  "metaTitle": "Jaipur: safari nocturno en jeep gypsy abierto",
+  "metaDescription": "Descubra la magia de Jaipur despues del anochecer en un paseo en jeep gypsy abierto, con vistas del Hawa Mahal y bocadillos locales.",
+  "shortDescription": "Descubra la magia de Jaipur despues del anochecer en un paseo en jeep gypsy abierto",
+  "fullDescription": "Jaipur: safari nocturno del patrimonio en jeep gypsy abierto. Descubra la magia de Jaipur despues del anochecer en un paseo en jeep gypsy abierto.\n\nExperimente la magia de Jaipur despues del anochecer en un tour guiado. Mientras viaja por las vibrantes calles en un jeep gypsy abierto, la ciudad cobra vida con los sonidos de mercados bulliciosos, musica animada y el murmullo de conversaciones.\n\nPase por los monumentos mas iconicos de Jaipur, comenzando con el majestuoso Hawa Mahal, seguido del sereno Jal Mahal, el imponente fuerte de Nahargarh, Sargasooli y el gran Museo Albert Hall.\n\nDesde la terraza del restaurante Padao, disfrute de vistas panoramicas incomparables de la ciudad.\n\nPara completar la experiencia, disfrute de sabores locales con delicias como aloo kachori y el cremoso Matka kulfi.\n\nUno de los puntos destacados es el espectaculo de luz y sonido en el fuerte de Amer, donde podra sumergirse en la historia de esta gran estructura (las entradas se cobran por separado).\n\n### Que incluye\n\n- Paseo en jeep gypsy abierto por Jaipur\n- Recorrido panoramico por monumentos iconicos como Hawa Mahal, Jal Mahal, fuerte de Nahargarh, Sargasooli y Museo Albert Hall\n- Entrada al fuerte de Nahargarh\n- Vistas panoramicas desde la terraza del restaurante Padao\n- Delicias locales como aloo kachori y Matka kulfi\n- Tiempo total de recorrido de 4 horas",
+  "highlights": [
+   "Descubra la magia de Jaipur despues del anochecer en un paseo en jeep gypsy abierto"
+  ],
+  "included": [
+   "Paseo en jeep gypsy abierto por Jaipur\nRecorrido panoramico por monumentos iconicos como Hawa Mahal, Jal Mahal, fuerte de Nahargarh, Sargasooli y Museo Albert Hall\nEntrada al fuerte de Nahargarh\nVistas panoramicas desde la terraza del restaurante Padao\nDelicias locales como aloo kachori y Matka kulfi\nTiempo total de recorrido de 4 horas"
+  ],
+  "notIncluded": [
+   "Entradas para el espectaculo de luz y sonido.\nCena no incluida (parada local posible)\nCargo por tiempo de espera: 1000 INR/hora\nGastos personales\nExtras excluidos (cualquier cosa no mencionada)"
+  ]
+ },
+ "hidden-gems-of-jaipur-with-a-local-half-day": {
+  "title": "Joyas ocultas de Jaipur con un local (tour de medio dia en coche con aire acondicionado)",
+  "metaTitle": "Joyas ocultas de Jaipur con un local",
+  "metaDescription": "Explore el sagrado Galtaji (templo de los monos), Sisodia Rani Ka Bagh, Birla Mandir y Albert Hall en medio dia con guia local.",
+  "shortDescription": "Explore el sagrado Galtaji (templo de los monos).",
+  "fullDescription": "Joyas ocultas de Jaipur con un local (tour de medio dia en coche con aire acondicionado). Explore el sagrado Galtaji (templo de los monos).\n\nJaipur es famoso por sus grandes fuertes y palacios, pero la ciudad tambien esconde muchos lugares hermosos y culturalmente ricos mas alla del camino turistico habitual. Este tour turistico de medio dia reune algunas de las joyas ocultas mas significativas de Jaipur, ofreciendo una perspectiva de la historia, las creencias religiosas, la arquitectura y el estilo de vida local de la ciudad.\n\nViaje comodamente en coche con aire acondicionado con un guia local conocedor que comparte historias atractivas y contexto cultural en cada parada. Esta experiencia es ideal para viajeros que desean explorar el lado mas profundo de la ciudad rosa mas alla de los puntos destacados.\n\nLugares incluidos en este tour:\n\nGaltaji (templo de los monos) – Un sitio de peregrinacion sagrado rodeado de colinas y tanques de agua naturales.\n\nSisodia Rani Ka Bagh – Un hermoso complejo de jardines de varios niveles con fuentes, cursos de agua y pabellones pintados.\n\nBirla Mandir y templo Moti Dungri Ganesh – Importantes monumentos religiosos que reflejan el lado espiritual de Jaipur.\n\nMuseo Albert Hall – El museo mas antiguo de Jaipur, que exhibe arte, artefactos y arquitectura indosarracena.\n\nJardin Ram Niwas – Un jardin historico ubicado en el corazon de Jaipur.\n\n### Que incluye\n\n- Narrador/guia altamente capacitado y amigable que habla ingles e hindi\n- Transporte para el tour en coche con aire acondicionado\n- Perspectivas locales, consejos y explicaciones culturales\n\n### No incluye\n\n- Entradas a cualquier monumento o atraccion\n- Comida y bebidas a menos que se mencione",
+  "highlights": [
+   "Explore el sagrado Galtaji (templo de los monos)."
+  ],
+  "included": [
+   "Narrador/guia altamente capacitado y amigable que habla ingles e hindi\nTransporte para el tour en coche con aire acondicionado\nPerspectivas locales, consejos y explicaciones culturales"
+  ],
+  "notIncluded": [
+   "Entradas a cualquier monumento o atraccion\nComida y bebidas a menos que se mencione"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
