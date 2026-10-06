@@ -34970,6 +34970,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Billets d'entrée aux monuments.\nTout repas.\nPourboire pour le chauffeur ou le guide."
   ]
  },
+ "jaipur-patrika-gate-professional-photoshoot-with": {
+  "title": "Jaipur : séance photo professionnelle au Patrika Gate avec un local",
+  "metaTitle": "Jaipur : séance photo pro au Patrika Gate",
+  "metaDescription": "Capturez les couleurs vibrantes et les dessins complexes du Patrika Gate avec l'aide d'un photographe local expert à Jaipur.",
+  "shortDescription": "Capturez les couleurs vibrantes et les dessins complexes du Patrika Gate",
+  "fullDescription": "Jaipur : séance photo professionnelle au Patrika Gate avec un local. Capturez les couleurs vibrantes et les dessins complexes du Patrika Gate.\n\nDécouvrez la beauté époustouflante du Patrika Gate à Jaipur, symbole de la riche culture et histoire du Rajasthan, avec l'aide d'un expert local. Capturez la photo parfaite sans distractions grâce à l'aide d'un photographe local.\n\nRencontrez votre photographe local, Manthan, un facilitateur touristique né et élevé à Jaipur, dévoué à rendre votre visite de ce monument emblématique inoubliable. Le Patrika Gate est renommé pour ses dessins complexes et ses couleurs vibrantes, en faisant un lieu de prédilection pour les photographes et les passionnés d'Instagram.\n\nCependant, en raison de son immense popularité, il est souvent bondé, rendant difficile la capture de la photo parfaite sans distractions. C'est là que votre photographe local intervient. Équipé d'un appareil photo DSLR professionnel et d'une compréhension approfondie des détails artistiques de la porte, il vous garantit des photos époustouflantes, claires et uniques.\n\nPlus que de simplement prendre des photos, il gère aussi la foule en arrière-plan, demandant poliment aux gens de s'écarter pour ces photos commerciales parfaites, vous offrant une expérience vraiment personnalisée. Capturez des images de haute qualité avec l'aide d'un photographe local qualifié. Évitez les foules et obtenez des arrière-plans clairs et magnifiques dans toutes vos photos.\n\nProfitez de services de photographie professionnelle à des tarifs raisonnables. Réservez cette expérience unique et ramenez chez vous non seulement des souvenirs mais des moments parfaits de votre visite au Patrika Gate.\n\n### Ce qui est inclus\n\n- Séance photo professionnelle autour du Patrika Gate par un photographe local (durée 30 minutes)\n- Photos numériques illimitées (copie numérique uniquement)",
+  "highlights": [
+   "Capturez les couleurs vibrantes et les dessins complexes du Patrika Gate"
+  ],
+  "included": [
+   "Séance photo professionnelle autour du Patrika Gate par un photographe local (durée 30 minutes)\nPhotos numériques illimitées (copie numérique uniquement)"
+  ],
+  "notIncluded": [
+   "Transport vers et depuis le Patrika Gate\nRepas et boissons"
+  ]
+ },
+ "jaipur-tuk-tuk-culture-temple-sightseeing-day-tour": {
+  "title": "Jaipur : visite culturelle et temples en tuk-tuk, journée complète",
+  "metaTitle": "Jaipur : visite culturelle et temples en tuk-tuk",
+  "metaDescription": "Explorez les monuments emblématiques de Jaipur en tuk-tuk privé : Hawa Mahal, fort d'Amber, Jal Mahal, temple des singes et plus.",
+  "shortDescription": "Explorez les monuments emblématiques de Jaipur en tuk-tuk privé.",
+  "fullDescription": "Jaipur : visite culturelle et temples en tuk-tuk, journée complète. Explorez les monuments emblématiques de Jaipur en tuk-tuk privé.\n\nDécouvrez le patrimoine, la culture, l'architecture et le charme spirituel de Jaipur lors d'une visite captivante en tuk-tuk à travers la ville rose. Commencez votre voyage avec une prise en charge pratique depuis Hawa Mahal, Bani Park ou Jaipur Junction, puis partez découvrir certains des monuments les plus fascinants de Jaipur et des joyaux culturels cachés.\n\nCommencez par un arrêt photo au Hawa Mahal emblématique, l'un des monuments architecturaux les plus reconnaissables de Jaipur. Continuez vers le magnifique fort d'Amber, où vous pourrez explorer ses grandes cours, son architecture historique et son héritage royal tout en profitant de belles vues sur les collines environnantes.\n\nEnsuite, visitez Panna Meena ka Kund, un puits à degrés historique magnifiquement conçu, connu pour sa disposition géométrique saisissante. Continuez votre voyage vers le Jal Mahal, où le palais semble flotter paisiblement au milieu du lac Man Sagar. Prenez le temps de profiter des vues, de capturer des photos mémorables et de découvrir l'atmosphère de cette partie pittoresque de Jaipur.\n\nContinuez vers Gaitor Ki Chhatriyan, un complexe paisible de cénotaphes royaux magnifiquement sculptés qui reflète les traditions artistiques et architecturales de Jaipur. De là, dirigez-vous vers le temple Galta Ji, aussi appelé temple des singes, niché dans les collines Aravalli. Découvrez l'atmosphère spirituelle du temple, ses bassins d'eau historiques et son environnement distinctif.\n\nConcluez l'expérience de visite au temple Govind Dev Ji, l'un des temples les plus vénérés de Jaipur, où vous pourrez découvrir les traditions spirituelles vivantes de la ville et son atmosphère paisible.\n\nPendant toute la visite, voyagez confortablement en tuk-tuk privé et découvrez Jaipur dans une perspective plus locale et en plein air. Le voyage se concentre sur la visite, la culture, l'histoire, l'architecture et des moments mémorables plutôt que sur les arrêts repas.\n\nComme rafraîchissement offert, une tasse de thé et de l'eau en bouteille sont fournis par nous pendant la visite. Aucune autre nourriture ou rafraîchissement n'est inclus.\n\n### Ce qui est inclus\n\n- Trajet en tuk-tuk privé pendant toute la visite\n- Tasse de thé et eau en bouteille offertes\n- Prise en charge et dépose à l'hôtel, à la gare ou au métro\n- Visite des principaux monuments et sites culturels de Jaipur\n- Chauffeur professionnel pour un voyage confortable et instructif\n- Frais de stationnement et toutes les taxes gouvernementales applicables (TPS)\n\n### Non inclus\n\n- Billets d'entrée aux monuments et attractions\n- Dépenses personnelles\n- Toute nourriture, boisson ou rafraîchissement autre que le thé et l'eau en bouteille offerts\n- Pourboires pour le chauffeur\n- Hébergement à l'hôtel\n- Assurance voyage",
+  "highlights": [
+   "Explorez les monuments emblématiques de Jaipur en tuk-tuk privé."
+  ],
+  "included": [
+   "Trajet en tuk-tuk privé pendant toute la visite\nTasse de thé et eau en bouteille offertes\nPrise en charge et dépose à l'hôtel, à la gare ou au métro\nVisite des principaux monuments et sites culturels de Jaipur\nChauffeur professionnel pour un voyage confortable et instructif\nFrais de stationnement et toutes les taxes gouvernementales applicables (TPS)"
+  ],
+  "notIncluded": [
+   "Billets d'entrée aux monuments et attractions\nDépenses personnelles\nToute nourriture, boisson ou rafraîchissement autre que le thé et l'eau en bouteille offerts\nPourboires pour le chauffeur\nHébergement à l'hôtel\nAssurance voyage"
+  ]
+ },
+ "7-day-rajasthan-tour-jaipur-jodhpur-udaipur": {
+  "title": "Circuit de 7 jours au Rajasthan : Jaipur, Jodhpur, Udaipur et Bikaner",
+  "metaTitle": "Circuit de 7 jours au Rajasthan",
+  "metaDescription": "Découvrez le meilleur du Rajasthan en 7 jours à travers Jaipur, Jodhpur, Udaipur, Bikaner et Pushkar, avec assistance 24h/24 et 7j/7.",
+  "shortDescription": "Nous offrons une assistance clientèle 24h/24 et 7j/7.",
+  "fullDescription": "Circuit de 7 jours au Rajasthan : Jaipur, Jodhpur, Udaipur et Bikaner. Nous offrons une assistance clientèle 24h/24 et 7j/7.\n\nLe meilleur du Rajasthan lors de ce voyage de 7 jours à travers Jaipur, Jodhpur, Udaipur, Bikaner et Pushkar, en explorant des forts historiques, des palais, des temples et une culture vibrante.\n\n### Ce qui est inclus\n\n- Hébergement : 6 nuits dans des hôtels 4 étoiles.\n- Repas : petit-déjeuner à l'hôtel tous les jours.\n- Transport : véhicule climatisé pour tous les transferts et visites.\n- Visites guidées : guides locaux parlant anglais pour les principales visites.\n- Frais d'entrée : billets d'entrée pour les monuments et attractions.\n- Toutes les taxes et frais de service applicables.\n- Assistance pendant tout le circuit, 24h/24 et 7j/7.\n- Bouteille d'eau fournie pendant le voyage.",
+  "highlights": [
+   "Nous offrons une assistance clientèle 24h/24 et 7j/7."
+  ],
+  "included": [
+   "Hébergement : 6 nuits dans des hôtels 4 étoiles.\nRepas : petit-déjeuner à l'hôtel tous les jours.\nTransport : véhicule climatisé pour tous les transferts et visites.\nVisites guidées : guides locaux parlant anglais pour les principales visites.\nFrais d'entrée : billets d'entrée pour les monuments et attractions.\nToutes les taxes et frais de service applicables.\nAssistance pendant tout le circuit, 24h/24 et 7j/7.\nBouteille d'eau fournie pendant le voyage."
+  ],
+  "notIncluded": [
+   "Dépenses personnelles : toute dépense personnelle comme pourboires, souvenirs, repas ou boissons supplémentaires, et shopping.\nActivités optionnelles\nPourboires : pour le guide, le chauffeur ou le personnel de l'hôtel.\nRepas : déjeuner et dîner."
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
