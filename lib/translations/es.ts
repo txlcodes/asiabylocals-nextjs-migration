@@ -35642,6 +35642,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "jaipur-private-shopping-tour-with-female-expert": {
+  "title": "Jaipur: tour de compras privado con guia turistica experta femenina",
+  "metaTitle": "Jaipur: tour de compras con guia femenina",
+  "metaDescription": "Explore los vibrantes mercados de Jaipur, conocidos por su rica artesania y patrimonio: Johari Bazaar, Bapu Bazaar y mas.",
+  "shortDescription": "Explore los vibrantes mercados de Jaipur, conocidos por su rica artesania y patrimonio",
+  "fullDescription": "Jaipur: tour de compras privado con guia turistica experta femenina. Explore los vibrantes mercados de Jaipur, conocidos por su rica artesania y patrimonio.\n\n1. Recogida matutina e introduccion\nSu dia comienza con una comoda recogida en su hotel en Jaipur. Conozca a su amable guia experta femenina, que le informara sobre el rico patrimonio artesanal de la ciudad, los mercados locales y consejos para comprar de forma inteligente.\n\n2. Visita a Johari Bazaar (mercado de joyeria)\nComience su viaje de compras en Johari Bazaar, famoso por sus exquisitas piedras preciosas y la joyeria tradicional Kundan y Meenakari. Aprenda a identificar piedras autenticas y la artesania mientras explora impresionantes colecciones.\n\n3. Explore Bapu Bazaar (textiles y artesania)\nContinue hacia Bapu Bazaar, un colorido centro de telas estampadas con bloques, mojris (calzado tradicional) y artesania. Su guia le ayuda a encontrar productos de calidad y a negociar precios justos.\n\n4. Mercados locales ocultos y talleres de artesanos\nDescubra callejones menos conocidos y talleres de artesanos locales donde podra observar a habiles artesanos en accion, creando ceramica azul, impresiones con bloques a mano y pulseras de laca. Este acceso privilegiado le brinda una conexion cultural mas profunda.\n\n5. Visita a Tripolia Bazaar (pulseras de laca y objetos de laton)\nDirijase a Tripolia Bazaar, conocido por sus vibrantes pulseras de laca, objetos de laton y articulos tradicionales de decoracion para el hogar. Su guia compartira las historias detras de estas artesanias.\n\n6. Compras en tiendas aprobadas por el gobierno\nVisite tiendas confiables, aprobadas por el gobierno, para garantizar calidad y autenticidad, ideal para alfombras, articulos de seda y artefactos de marmol.\n\n7. Traslado vespertino\nDespues de una satisfactoria experiencia de compras, regrese comodamente a su hotel en Jaipur con recuerdos unicos y conocimientos culturales memorables.\n\n### Que incluye\n\n- Recogida y traslado al hotel/aeropuerto\n- Coche privado con aire acondicionado/tuk-tuk para recorridos con conductor\n- Guia turistica experta femenina aprobada por el gobierno\n- Botella de agua mineral\n- Todos los peajes y estacionamiento\n\n### No incluye\n\n- Cualquier gasto personal",
+  "highlights": [
+   "Explore los vibrantes mercados de Jaipur, conocidos por su rica artesania y patrimonio"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto\nCoche privado con aire acondicionado/tuk-tuk para recorridos con conductor\nGuia turistica experta femenina aprobada por el gobierno\nBotella de agua mineral\nTodos los peajes y estacionamiento"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal"
+  ]
+ },
+ "jaipur-spice-market-and-street-food-walking-tour": {
+  "title": "Jaipur: tour a pie por el mercado de especias y comida callejera",
+  "metaTitle": "Jaipur: mercado de especias, comida callejera",
+  "metaDescription": "Sumerjase en la cacofonia de sonidos, olores y colores del mercado, y pruebe la mejor comida callejera vegetariana de la ciudad vieja.",
+  "shortDescription": "Sumerjase en la cacofonia de sonidos, olores y colores del mercado",
+  "fullDescription": "Jaipur: tour a pie por el mercado de especias y comida callejera. Sumerjase en la cacofonia de sonidos, olores y colores del mercado.\n\nComience su tour en el templo Shri Chandpol Hanuman Ji, ubicado en la ciudad rosa de Jaipur. Dé un paseo para explorar el mercado de especias mas antiguo y grande de Jaipur, donde vera a los locales moler especias.\n\nPase por famosos sitios historicos, una cacofonia de innumerables sonidos, olores penetrantes, rostros sonrientes, caos organizado, colores exoticos, fragancias relajantes y aroma gastronomico, todo esto llegando como una gran introduccion a la increible India.\n\nDespues del paseo por el mercado de especias, experimente un corto trayecto en tuk-tuk hasta la Puerta Tripolia. Pruebe la comida vegetariana mas deliciosa de la ciudad vieja de Jaipur con su narrador. Se detendra en 5 a 6 tiendas de comida autenticas antes de terminar su tour en el Cine Raj Mandir.\n\nEste tour es para grandes fotografos, cineastas, escritores de viajes, blogueros, chefs y amantes de la comida. Despues del paseo, detengase en el puesto de comida callejera mas famoso para chai y aperitivos, y el tour termina en la calle Chaura Rasta cerca de la Puerta Tripolia.\n\n### Que incluye\n\n- Tour guiado a pie por el mercado de especias de Jaipur\n- Degustacion de comida en 5 a 6 puestos autenticos\n- Corto paseo en tuk-tuk\n- Botella de agua\n\n### No incluye\n\n- Recogida y traslado al hotel\n- Gastos personales",
+  "highlights": [
+   "Sumerjase en la cacofonia de sonidos, olores y colores del mercado"
+  ],
+  "included": [
+   "Tour guiado a pie por el mercado de especias de Jaipur\nDegustacion de comida en 5 a 6 puestos autenticos\nCorto paseo en tuk-tuk\nBotella de agua"
+  ],
+  "notIncluded": [
+   "Recogida y traslado al hotel\nGastos personales"
+  ]
+ },
+ "from-delhi-jaipur-full-day-tour-with-amber-fort": {
+  "title": "Desde Delhi: tour de dia completo a Jaipur con fuerte de Amber y almuerzo",
+  "metaTitle": "Desde Delhi: tour a Jaipur, fuerte de Amber",
+  "metaDescription": "Descubra la grandeza del fuerte de Amber, un sitio del Patrimonio de la Humanidad de la UNESCO, ademas del City Palace y Jantar Mantar desde Delhi.",
+  "shortDescription": "Descubra la grandeza del fuerte de Amber, un sitio del Patrimonio de la Humanidad de la UNESCO",
+  "fullDescription": "Desde Delhi: tour de dia completo a Jaipur con fuerte de Amber y almuerzo. Descubra la grandeza del fuerte de Amber, un sitio del Patrimonio de la Humanidad de la UNESCO.\n\nExperimente la belleza y la cultura de Jaipur en un tour de dia completo desde Delhi. Visite monumentos iconicos como el fuerte de Amber, el Hawa Mahal, el City Palace y el Jantar Mantar, todos con un guia conocedor. Disfrute de un viaje fluido con transporte comodo, aprovechando al maximo su excursion de un dia a la ciudad rosa.\n\nComience su comodo viaje hacia Jaipur, que toma aproximadamente 5-6 horas por carretera. Llegue a Jaipur y reunase con su guia local, que lo llevara a un tour guiado por las famosas atracciones de la ciudad.\n\nComience con el impresionante fuerte de Amber, un sitio del Patrimonio de la Humanidad de la UNESCO. Explore la grandeza de este fuerte del siglo XVI, sus patios y palacios, y disfrute de una parada fotografica en el majestuoso lago Maota. Pase por el hermoso Jal Mahal, ubicado en medio del lago Man Sagar. Este pintoresco palacio ofrece un gran lugar para fotos.\n\nDetengase en el iconico Hawa Mahal, un impresionante palacio con intrincada celosia disenada para que las damas reales observaran la vida en la calle sin ser vistas. Disfrute de un delicioso almuerzo en un restaurante local, probando la cocina tradicional rajastani.\n\nDirijase al City Palace, una mezcla de arquitectura mogola y Rajput, y explore sus museos y patios. Visite el Jantar Mantar, un observatorio astronomico con impresionantes instrumentos para medir el tiempo y los cuerpos celestiales, y un sitio del Patrimonio de la Humanidad de la UNESCO.\n\nSi el tiempo lo permite, detengase en el Museo Albert Hall para explorar su fascinante coleccion de arte, textiles y artefactos historicos. Dé un breve paseo por los vibrantes mercados locales de Jaipur, como Johari Bazaar o Bapu Bazaar, conocidos por su artesania, joyeria y textiles.\n\nComience su viaje de regreso a Delhi, con una parada de descanso si es necesario. Lo dejaran en su hotel u otra ubicacion preferida en Delhi, concluyendo su tour de Jaipur en el mismo dia.\n\n### Que incluye\n\n- Tour guiado por las famosas atracciones de Jaipur\n- Transporte comodo de ida y vuelta desde Delhi\n- Guia turistico de habla inglesa\n- Todos los peajes y estacionamiento",
+  "highlights": [
+   "Descubra la grandeza del fuerte de Amber, un sitio del Patrimonio de la Humanidad de la UNESCO"
+  ],
+  "included": [
+   "Tour guiado por las famosas atracciones de Jaipur\nTransporte comodo de ida y vuelta desde Delhi\nGuia turistico de habla inglesa\nTodos los peajes y estacionamiento"
+  ],
+  "notIncluded": [
+   "Ninguno"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
