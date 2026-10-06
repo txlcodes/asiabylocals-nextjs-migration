@@ -34250,6 +34250,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas y gratificaciones\nGastos personales\nComida y bebidas"
   ]
  },
+ "from-jaipur-one-day-trip-from-jaipur-to-pushkar": {
+  "title": "Desde Jaipur: excursión de un día de Jaipur a Pushkar",
+  "metaTitle": "Desde Jaipur: excursión de un día a Pushkar",
+  "metaDescription": "Explore el animado bazar de Pushkar, conocido por sus joyas y ropa, en esta excursión de un día desde Jaipur.",
+  "shortDescription": "Explore el animado bazar de Pushkar, conocido por sus joyas y ropa.",
+  "fullDescription": "Desde Jaipur: excursión de un día de Jaipur a Pushkar. Explore el animado bazar de Pushkar, conocido por sus joyas y ropa.\n\nSale de su hotel en Jaipur por la mañana en un lujoso vehículo con aire acondicionado. Nuestro conductor lo transportará a esta ciudad, la más antigua de la India, cubriendo una distancia de 150 millas. Hay muchos templos en esta ciudad; la mayoría son algo recientes, pero algunos, como el templo del Señor Brahma, son muy antiguos. Durante las invasiones islámicas, varios templos antiguos fueron destruidos; el Lago Pushkar tiene alrededor de 52 ghats. Entre los templos destacados de la ciudad se encuentran el Templo de Brahma, el Templo de Savitri y el Templo Rangnath Venugopal. Esta ciudad es conocida por su feria del castillo de noviembre, que tiene lugar cada año.\nLas mismas actividades, como los safaris en camello, también están disponibles para usted. De esta manera, puede pasar todo el día en esta excursión exclusiva, y cuando sea el momento de regresar a Jaipur, le tomará casi dos horas en el mismo taxi.\n\n### Qué incluye\n\n- Tour completo en vehículo con aire acondicionado\n- Conductor que habla inglés\n- Viajes de ida y vuelta\n- Recogida y traslado en la estación de tren, hotel o aeropuerto\n- Botella de agua por persona\n\n### No incluye\n\n- Propinas",
+  "highlights": [
+   "Explore el animado bazar de Pushkar, conocido por sus joyas y ropa"
+  ],
+  "included": [
+   "Tour completo en vehículo con aire acondicionado\nConductor que habla inglés\nViajes de ida y vuelta\nRecogida y traslado en la estación de tren, hotel o aeropuerto\nBotella de agua por persona"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "jaipur-elephant-experience-bond-connect-and-learn": {
+  "title": "Experiencia con elefantes en Jaipur: vínculo, conexión y aprendizaje",
+  "metaTitle": "Jaipur: experiencia con elefantes, vínculo y aprendizaje",
+  "metaDescription": "Sumérjase acercándose a estos gigantes gentiles, en esta experiencia inmersiva con elefantes en Jaipur.",
+  "shortDescription": "Sumérjase acercándose a estos gigantes gentiles.",
+  "fullDescription": "Experiencia con elefantes en Jaipur: vínculo, conexión y aprendizaje. Sumérjase acercándose a estos gigantes gentiles.\n\nComience su aventura en EleJungle con una cómoda recogida en su hotel o lugar elegido. A su llegada, disfrute de una cálida bienvenida y una charla informativa sobre nuestros elefantes. Luego, sumérjase en su mundo alimentándolos, dándoles una refrescante ducha y uniéndose a ellos en un paseo guiado, todo mientras se cumplen las pautas de seguridad esenciales. Culmine su día con un delicioso almuerzo cerca de los elefantes. Experimente la alegría de conectar con estos majestuosos animales en un entorno seguro y enriquecedor.\n\nACTIVIDADES CON ELEFANTES:\n\n1. Comience su aventura en EleJungle conociendo a nuestros gentiles elefantes asiáticos en una sesión amigable e informativa. Aprenda datos fascinantes sobre sus vidas y comportamientos mientras interactúa de cerca y genera confianza con estas majestuosas criaturas. Esta experiencia atractiva fomenta una conexión y comprensión más profundas entre los visitantes y los elefantes. Únase a nosotros para un encuentro inolvidable que celebra la armonía entre humanos y naturaleza.\n\n2. Alimentar a los elefantes: únase a nosotros para alimentar a nuestros elefantes con plátanos, caña de azúcar y pasto de sorgo. En la cultura india, los elefantes son venerados como símbolos de sabiduría y asociados con la deidad Ganesha. Alimentarlos se considera un acto de buen karma. ¡Venga y comparta esta experiencia significativa con nosotros!\n\n3. Pedicura: mime a nuestros elefantes con una sesión relajante con una pedicura calmante. Esta actividad no solo mantiene sus pies sanos y fuertes, sino que también les ayuda a relajarse. Observe a nuestros gentiles gigantes disfrutar del cuidado y la atención, un gesto que fortalece su bienestar y profundiza el vínculo entre humanos y elefantes. ¡Únase a nosotros para darles el amor y el cuidado que merecen!\n\n4. Ducha de elefantes con manguera: refrésquese con nuestros elefantes mientras disfrutan de una ducha refrescante con una manguera. Participe en la diversión mientras estas majestuosas criaturas chapotean juguetonamente, disfrutando del agua fresca en un día cálido. Esta experiencia interactiva le permite conectar con los elefantes mientras les ayuda a mantenerse limpios y felices. ¡Es un momento alegre tanto para los elefantes como para los visitantes!\n\n5. Visita al refugio: explore nuestro refugio de elefantes y vea de primera mano cómo viven nuestros elefantes en un entorno de cuidado. También tendrá la oportunidad única de conocer a las familias de nuestros mahouts (entrenadores de elefantes) y aprender sobre su dedicación y trabajo diario. Esta visita ofrece una mirada significativa al vínculo entre los elefantes y quienes los cuidan.\n\nEntre actividades, almorzaremos cerca de los elefantes, y al final lo dejaremos en su hotel.\n\n### Qué incluye\n\n- Transporte privado\n- Recogida y traslado al hotel\n- Tarifas de estacionamiento\n- Actividad de charla informativa y bienvenida\n- Alimentación del elefante\n- Paseo con el elefante\n- Ducha del elefante\n- Costes de todas las actividades mencionadas\n- Entradas a Elejungle\n- Experiencia privada\n- Transporte en coche privado\n- Todos los impuestos, tarifas y cargos de gestión",
+  "highlights": [
+   "Sumérjase acercándose a estos gigantes gentiles"
+  ],
+  "included": [
+   "Transporte privado\nRecogida y traslado al hotel\nTarifas de estacionamiento\nActividad de charla informativa y bienvenida\nAlimentación del elefante\nPaseo con el elefante\nDucha del elefante\nCostes de todas las actividades mencionadas\nEntradas a Elejungle\nExperiencia privada\nTransporte en coche privado\nTodos los impuestos, tarifas y cargos de gestión"
+  ],
+  "notIncluded": [
+   "Ninguno"
+  ]
+ },
+ "4-days-golden-triangle-tour-with-guide-transport": {
+  "title": "Tour de 4 días del Triángulo Dorado con guía y transporte",
+  "metaTitle": "Tour de 4 días del Triángulo Dorado, guía, transporte",
+  "metaDescription": "Asistencia durante todo el tour las 24 horas y los 7 días, en este tour de 4 días del Triángulo Dorado con guía y transporte.",
+  "shortDescription": "Asistencia durante todo el tour 24/7",
+  "fullDescription": "Tour de 4 días del Triángulo Dorado con guía y transporte. Asistencia durante todo el tour 24/7.\n\n### Qué incluye\n\n- Alojamiento: 3 noches en hoteles de 4 estrellas (solo con la opción de tour todo incluido)\n- Comidas: desayuno diario en el hotel (solo con la opción de tour todo incluido)\n- Transporte: vehículo con aire acondicionado para todos los traslados y visitas\n- Guía profesional: guía turístico local experimentado y conocedor\n- Tarifas de entrada: incluidas para todos los monumentos y atracciones (con la opción de tour todo incluido o tour sin alojamiento)\n- Impuestos y cargos: todos los impuestos y cargos por servicio aplicables incluidos\n- Asistencia: soporte 24/7 durante todo el tour\n- Botella de agua\n\n### No incluye\n\n- Gastos personales: cualquier gasto personal como propinas, souvenirs, comidas o bebidas adicionales y compras\n- Actividades opcionales\n- Gratificaciones: propinas para el guía, el conductor o el personal del hotel\n- Comidas: almuerzo y cena",
+  "highlights": [
+   "Asistencia durante todo el tour 24/7"
+  ],
+  "included": [
+   "Alojamiento: 3 noches en hoteles de 4 estrellas (solo con la opción de tour todo incluido)\nComidas: desayuno diario en el hotel (solo con la opción de tour todo incluido)\nTransporte: vehículo con aire acondicionado para todos los traslados y visitas\nGuía profesional: guía turístico local experimentado y conocedor\nTarifas de entrada: incluidas para todos los monumentos y atracciones (con la opción de tour todo incluido o tour sin alojamiento)\nImpuestos y cargos: todos los impuestos y cargos por servicio aplicables incluidos\nAsistencia: soporte 24/7 durante todo el tour\nBotella de agua"
+  ],
+  "notIncluded": [
+   "Gastos personales: cualquier gasto personal como propinas, souvenirs, comidas o bebidas adicionales y compras\nActividades opcionales\nGratificaciones: propinas para el guía, el conductor o el personal del hotel\nComidas: almuerzo y cena"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
