@@ -36842,6 +36842,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittsgebuehren fuer Amber Fort, City Palace, Hawa Mahal, Jantar Mantar und Albert Hall Museum usw.\nTrinkgelder fuer Guide und Fahrer"
   ]
  },
+ "from-delhi-golden-triangle-multiday-tour-with": {
+  "title": "Ab Delhi: Mehrtaegige Goldenes-Dreieck-Tour mit Varanasi",
+  "metaTitle": "Goldenes Dreieck mehrtaegig mit Varanasi",
+  "metaDescription": "Bestaunen Sie die malerischen Ausblicke bei der Fahrt durch Alt-Delhi und Neu-Delhi, dann Jaipur, Agra und Varanasi.",
+  "shortDescription": "Bestaunen Sie die malerischen Ausblicke bei der Fahrt durch Alt-Delhi und Neu-Delhi",
+  "fullDescription": "Ab Delhi: Mehrtaegige Goldenes-Dreieck-Tour mit Varanasi. Bestaunen Sie die malerischen Ausblicke bei der Fahrt durch Alt-Delhi und Neu-Delhi.\n\nBeginnen Sie Ihre Reise in Neu-Delhi und erkunden Sie ikonische Sehenswuerdigkeiten wie das India Gate, Humayuns Grabmal, das Qutub Minar, den Lotustempel, das Praesidentenviertel und die historischen Strassen von Alt-Delhi. Besuchen Sie die Jama Masjid, das Raj Ghat und Chandni Chowk, wo Sie eine traditionelle Rikscha-Fahrt durch die belebten Maerkte geniessen.\n\nFahren Sie weiter nach Jaipur, die Rosa Stadt, um das Amber Fort, den Hawa Mahal, den City Palace, das Jantar Mantar und bunte lokale Bazare zu entdecken. Reisen Sie weiter nach Agra ueber das UNESCO-gelistete Fatehpur Sikri, bevor Sie das grossartige Taj Mahal, das Agra Fort und das Itmad-ud-Daulah (Baby Taj) besichtigen. Am naechsten Morgen steigen Sie in den komfortablen Vande Bharat Express nach Varanasi.\n\nErleben Sie die spirituelle Atmosphaere von Varanasi mit einem Besuch der heiligen Ghats, alter Tempel, und der faszinierenden Ganga Aarti-Zeremonie. Erkunden Sie das nahe gelegene Sarnath, wo Buddha seine erste Predigt hielt. Beenden Sie Ihre Tour mit dem Vande Bharat Express von Varanasi nach Neu-Delhi, gefolgt von einem Transfer zum Flughafen Delhi oder Ihrem Hotel.\n\n### Im Preis enthalten\n\n- Abholung und Rueckfahrt von Hotels oder Flughafen\n- Private Besichtigungen im klimatisierten Fahrzeug\n- Privater professioneller Guide\n- Eintrittskarten fuer Denkmaeler (wenn Option gewaehlt)\n- Hotelunterkunft (wenn Option gewaehlt)\n- Wasser in Flaschen waehrend der Besichtigungen\n- Schneller Support waehrend der Reise\n- Alle Steuern, Parken und Servicegebuehren\n\n### Nicht enthalten\n\n- Persoenliche Ausgaben\n- Trinkgelder",
+  "highlights": [
+   "Bestaunen Sie die malerischen Ausblicke bei der Fahrt durch Alt-Delhi und Neu-Delhi"
+  ],
+  "included": [
+   "Abholung und Rueckfahrt von Hotels oder Flughafen\nPrivate Besichtigungen im klimatisierten Fahrzeug\nPrivater professioneller Guide\nEintrittskarten fuer Denkmaeler (wenn Option gewaehlt)\nHotelunterkunft (wenn Option gewaehlt)\nWasser in Flaschen waehrend der Besichtigungen\nSchneller Support waehrend der Reise\nAlle Steuern, Parken und Servicegebuehren"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben\nTrinkgelder"
+  ]
+ },
+ "amber-fort-visits-with-private-guide-jaipur": {
+  "title": "Amber-Fort-Besuche mit privatem Guide und Jaipur-Transfers",
+  "metaTitle": "Amber Fort, privater Guide und Transfers",
+  "metaDescription": "Erkunden Sie das Amer-(Amber-)Fort, eine UNESCO-Weltkulturerbestaette, mit vorab gebuchtem Ticket und optionalem Guide.",
+  "shortDescription": "Erkunden Sie das Amer-(Amber-)Fort, eine UNESCO-Weltkulturerbestaette",
+  "fullDescription": "Amber-Fort-Besuche mit privatem Guide und Jaipur-Transfers. Erkunden Sie das Amer-(Amber-)Fort, eine UNESCO-Weltkulturerbestaette.\n\nBuchen Sie Ihr Ticket im Voraus, um einen problemlosen Besuch des Amer-(Amber-)Forts zu geniessen. Erkunden Sie das Fort in Ihrem eigenen Tempo oder waehlen Sie die Option mit einer 2- bis 3-stuendigen gefuehrten Tour, um mehr ueber diese UNESCO-Weltkulturerbestaette von einem erfahrenen Guide zu erfahren.\n\nBewundern Sie die beeindruckende Architektur dieser historischen Staette, deren Geschichte bis ins Jahr 967 n. Chr. zurueckreicht und die hinduistische und Rajput-Baustile vereint. Wandeln Sie entlang der imposanten Festungsmauern und durch die Tore. Schlendern Sie ueber die gepflasterten Wege und geniessen Sie die Ausblicke auf den Maota-See.\n\n### Im Preis enthalten\n\n- Vorab gebuchte Eintrittskarten Amber Fort (Jaipur)\n- Hin- und Ruecktransfers\n- Englisch/Hindi sprechender Guide (im E-Ticket enthalten)\n\n### Nicht enthalten\n\n- Essen und Getraenke",
+  "highlights": [
+   "Erkunden Sie das Amer-(Amber-)Fort, eine UNESCO-Weltkulturerbestaette"
+  ],
+  "included": [
+   "Vorab gebuchte Eintrittskarten Amber Fort (Jaipur)\nHin- und Ruecktransfers\nEnglisch/Hindi sprechender Guide (im E-Ticket enthalten)"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke"
+  ]
+ },
+ "privates-drivers-india": {
+  "title": "Private Fahrer Indien",
+  "metaTitle": "Private Fahrer Indien, 10-Tage-Tour",
+  "metaDescription": "Besuchen Sie unser unglaubliches Land mit unserem erfahrenen Guide: Delhi, Agra, Jaipur, Pushkar, Bundi, Udaipur, Jodhpur, Jaisalmer, Bikaner und Mandawa.",
+  "shortDescription": "Besuchen Sie unser unglaubliches Land mit unserem erfahrenen Guide.",
+  "fullDescription": "Private Fahrer Indien. Besuchen Sie unser unglaubliches Land mit unserem erfahrenen Guide.\n\nBegeben Sie sich auf eine 10-taegige Tour durch das Goldene Dreieck Indiens, mit den Staedten Delhi, Agra und Jaipur, sowie den Orten Pushkar, Bundi, Udaipur, Jodhpur, Jaisalmer, Bikaner und Mandawa. Entdecken Sie die verborgenen Geheimnisse Indiens, die es so faszinierend und unglaublich machen.\n\nWaehrend sich die Reise fortsetzt, besuchen Sie die historischen Touristenattraktionen von Delhi, Agra und Jaipur, und entdecken Sie weiterhin die verborgenen Geheimnisse Indiens, die es so faszinierend und unglaublich machen. Der Glanz der historischen Festungen und Palaeste, die Pracht der geschichtlichen Orte, und das Summen der schoenen und turbulenten Bazare werden Sie waehrend der gesamten Tour begeistern.\n\nDie beruehmteste Touristenroute bildet fast ein gleichseitiges Dreieck mit den zehn schoenen Staedten Indiens, naemlich Delhi, Agra, Jaipur, Pushkar, Bundi, Udaipur, Jodhpur, Jaisalmer, Bikaner und Mandawa. Reisen Sie durch die Epochen der britischen, moghulischen und Rajputen-Kultur.\nRajasthan, bekannt als das \"Land der Koenige\" und Indiens groesster Wuestenstaat, ist ein faszinierendes Reiseziel in Nordindien, das Reisende aus aller Welt begeistert. Der Bundesstaat bietet eine harmonische Mischung aus lebendigen Staedten, gastfreundlichen Einheimischen, exquisiter Kueche, majestaetischen Palaesten und grossartigen Festungen. Rajasthan bietet ein perfektes Reiseerlebnis, das zeitlosen Charme nahtlos mit zeitgenoessischem Flair verbindet. Dieser bezaubernde Bundesstaat laedt Sie mit einer Symphonie lebendiger Kulturen, einer Leinwand voller Geschichten von Tapferkeit, und Landschaften, die Ihr Herz erobern werden, ein.\n\n### Im Preis enthalten\n\n- Transport im klimatisierten Reisebus\n- Professioneller Fahrer\n- Wasserflasche\n- WLAN im Auto\n- Unterkunft des Fahrers\n- Verpflegung des Fahrers\n\n### Nicht enthalten\n\n- Trinkgelder fuer Guide und Fahrer\n- Persoenliche Ausgaben\n- Eintrittsgebuehren fuer alle Staetten\n- Mittagessen in einem lokalen Restaurant\n- Abendessen\n- Unterkunft des Kunden",
+  "highlights": [
+   "Besuchen Sie unser unglaubliches Land mit unserem erfahrenen Guide."
+  ],
+  "included": [
+   "Transport im klimatisierten Reisebus\nProfessioneller Fahrer\nWasserflasche\nWLAN im Auto\nUnterkunft des Fahrers\nVerpflegung des Fahrers"
+  ],
+  "notIncluded": [
+   "Trinkgelder fuer Guide und Fahrer\nPersoenliche Ausgaben\nEintrittsgebuehren fuer alle Staetten\nMittagessen in einem lokalen Restaurant\nAbendessen\nUnterkunft des Kunden"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",

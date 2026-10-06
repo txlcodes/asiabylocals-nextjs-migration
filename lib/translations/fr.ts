@@ -36842,6 +36842,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Frais d'entrée au fort d'Amber, au City Palace, au Hawa Mahal, au Jantar Mantar et au musée Albert Hall, etc.\nPourboires pour le guide et le chauffeur"
   ]
  },
+ "from-delhi-golden-triangle-multiday-tour-with": {
+  "title": "Depuis Delhi : circuit multi-jours du Triangle d'Or avec Varanasi",
+  "metaTitle": "Triangle d'Or multi-jours avec Varanasi",
+  "metaDescription": "Emerveillez-vous devant les paysages en traversant le Vieux Delhi et le New Delhi, puis Jaipur, Agra et Varanasi.",
+  "shortDescription": "Emerveillez-vous devant les paysages en traversant le Vieux Delhi et le New Delhi",
+  "fullDescription": "Depuis Delhi : circuit multi-jours du Triangle d'Or avec Varanasi. Emerveillez-vous devant les paysages en traversant le Vieux Delhi et le New Delhi.\n\nCommencez votre voyage a New Delhi, en explorant des sites emblematiques tels que la Porte de l'Inde, le Tombeau de Humayun, le Qutub Minar, le Temple du Lotus, le quartier presidentiel, et les rues historiques du Vieux Delhi. Visitez la Jama Masjid, le Raj Ghat, et Chandni Chowk, ou vous profiterez d'une balade traditionnelle en pousse-pousse a travers ses marches animes.\n\nContinuez vers Jaipur, la Ville Rose, pour decouvrir le Fort Amber, le Hawa Mahal, le City Palace, le Jantar Mantar, et les bazars locaux colores. Poursuivez vers Agra via Fatehpur Sikri, classe au patrimoine de l'UNESCO, avant de visiter le magnifique Taj Mahal, le Fort d'Agra, et l'Itmad-ud-Daulah (le Petit Taj). Le lendemain matin, embarquez dans le confortable Vande Bharat Express pour Varanasi.\n\nVivez l'atmosphere spirituelle de Varanasi en visitant ses ghats sacres, ses temples anciens, et en assistant a la fascinante ceremonie de la Ganga Aarti. Explorez la ville voisine de Sarnath, ou le Bouddha a prononce son premier sermon. Terminez votre circuit en embarquant dans le Vande Bharat Express de Varanasi a New Delhi, suivi d'un transfert vers l'aeroport de Delhi ou votre hotel.\n\n### Inclus\n\n- Prise en charge et depose depuis les hotels ou l'aeroport\n- Visites privees en vehicule climatise\n- Guide professionnel prive\n- Billets d'entree aux monuments (si l'option est selectionnee)\n- Hebergement a l'hotel (si l'option est selectionnee)\n- Eau en bouteille pendant les visites\n- Assistance rapide pendant le voyage\n- Toutes taxes, stationnement et frais de service\n\n### Non inclus\n\n- Depenses personnelles\n- Pourboires",
+  "highlights": [
+   "Emerveillez-vous devant les paysages en traversant le Vieux Delhi et le New Delhi"
+  ],
+  "included": [
+   "Prise en charge et depose depuis les hotels ou l'aeroport\nVisites privees en vehicule climatise\nGuide professionnel prive\nBillets d'entree aux monuments (si l'option est selectionnee)\nHebergement a l'hotel (si l'option est selectionnee)\nEau en bouteille pendant les visites\nAssistance rapide pendant le voyage\nToutes taxes, stationnement et frais de service"
+  ],
+  "notIncluded": [
+   "Depenses personnelles\nPourboires"
+  ]
+ },
+ "amber-fort-visits-with-private-guide-jaipur": {
+  "title": "Visites du fort Amber avec guide prive et transferts a Jaipur",
+  "metaTitle": "Fort Amber, guide prive et transferts",
+  "metaDescription": "Explorez le Fort Amer (Amber), site du patrimoine mondial de l'UNESCO, avec billet pre-reserve et guide optionnel.",
+  "shortDescription": "Explorez le Fort Amer (Amber), site du patrimoine mondial de l'UNESCO",
+  "fullDescription": "Visites du fort Amber avec guide prive et transferts a Jaipur. Explorez le Fort Amer (Amber), site du patrimoine mondial de l'UNESCO.\n\nReservez votre billet a l'avance pour profiter d'une visite sans tracas du Fort Amer (Amber). Explorez le fort a votre rythme ou choisissez l'option incluant une visite guidee de 2 a 3 heures pour en apprendre davantage sur ce site du patrimoine mondial de l'UNESCO avec un guide expert.\n\nAdmirez l'architecture impressionnante de ce site historique dont l'histoire remonte a l'an 967 apres J.-C., melangeant les styles de construction hindou et rajput. Marchez le long de ses imposants remparts et a travers ses portes. Promenez-vous sur ses chemins paves et profitez des vues sur le lac Maota.\n\n### Inclus\n\n- Billets d'entree pre-reserves pour le Fort Amber (Jaipur)\n- Transferts aller-retour\n- Guide parlant anglais/hindi (inclus avec les billets electroniques)\n\n### Non inclus\n\n- Nourriture et boissons",
+  "highlights": [
+   "Explorez le Fort Amer (Amber), site du patrimoine mondial de l'UNESCO"
+  ],
+  "included": [
+   "Billets d'entree pre-reserves pour le Fort Amber (Jaipur)\nTransferts aller-retour\nGuide parlant anglais/hindi (inclus avec les billets electroniques)"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons"
+  ]
+ },
+ "privates-drivers-india": {
+  "title": "Chauffeurs prives Inde",
+  "metaTitle": "Chauffeurs prives Inde, circuit 10 jours",
+  "metaDescription": "Visitez notre incroyable pays avec notre guide experimente : Delhi, Agra, Jaipur, Pushkar, Bundi, Udaipur, Jodhpur, Jaisalmer, Bikaner et Mandawa.",
+  "shortDescription": "Visitez notre incroyable pays avec notre guide experimente.",
+  "fullDescription": "Chauffeurs prives Inde. Visitez notre incroyable pays avec notre guide experimente.\n\nPartez pour un circuit de 10 jours a travers le Triangle d'Or de l'Inde, en visitant les villes de Delhi, Agra et Jaipur, ainsi que les villes de Pushkar, Bundi, Udaipur, Jodhpur, Jaisalmer, Bikaner et Mandawa. Decouvrez les secrets caches de l'Inde qui la rendent si fascinante et incroyable.\n\nAu fil du voyage, visitez les attractions touristiques historiques de Delhi, Agra et Jaipur, et continuez a decouvrir les secrets caches de l'Inde qui la rendent si fascinante et incroyable. L'eclat des forts et palais patrimoniaux, la splendeur des lieux historiques, et l'animation des bazars magnifiques et effrenes vous tiendront en haleine tout au long du circuit.\n\nLe circuit touristique le plus celebre forme presque un triangle equilateral avec les dix belles villes de l'Inde, a savoir Delhi, Agra, Jaipur, Pushkar, Bundi, Udaipur, Jodhpur, Jaisalmer, Bikaner et Mandawa. Traversez les epoques de la culture britannique, moghole et rajpoute.\nLe Rajasthan, connu comme la « Terre des Rois » et le plus grand etat desertique de l'Inde, est une destination captivante du nord de l'Inde qui fascine les voyageurs du monde entier. L'etat presente un melange harmonieux de villes animees, d'habitants accueillants, d'une cuisine exquise, de palais majestueux et de forts grandioses. Le Rajasthan offre une experience de voyage parfaite, fusionnant sans effort un charme intemporel avec une touche contemporaine. Cet etat enchanteur vous invite avec une symphonie de cultures vibrantes, une toile peinte de recits de bravoure, et des paysages qui vous voleront le cœur.\n\n### Inclus\n\n- Transport en autocar climatise\n- Chauffeur professionnel\n- Bouteille d'eau\n- Wifi dans la voiture\n- Hebergement du chauffeur\n- Repas du chauffeur\n\n### Non inclus\n\n- Pourboires pour le guide et le chauffeur\n- Depenses personnelles\n- Frais d'entree sur tous les sites\n- Dejeuner dans un restaurant local\n- Diner\n- Hebergement du client",
+  "highlights": [
+   "Visitez notre incroyable pays avec notre guide experimente."
+  ],
+  "included": [
+   "Transport en autocar climatise\nChauffeur professionnel\nBouteille d'eau\nWifi dans la voiture\nHebergement du chauffeur\nRepas du chauffeur"
+  ],
+  "notIncluded": [
+   "Pourboires pour le guide et le chauffeur\nDepenses personnelles\nFrais d'entree sur tous les sites\nDejeuner dans un restaurant local\nDiner\nHebergement du client"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
