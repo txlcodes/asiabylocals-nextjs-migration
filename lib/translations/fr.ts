@@ -35210,6 +35210,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Services de guide à Fatehpur Sikri\nEntrée des monuments\nNourriture ou boissons\nPourboires"
   ]
  },
+ "from-jaipur-ranthambore-tiger-national-park-tour": {
+  "title": "Depuis Jaipur : circuit au parc national du tigre de Ranthambore (2 jours)",
+  "metaTitle": "Depuis Jaipur : circuit au parc de Ranthambore",
+  "metaDescription": "Explorez Ranthambore lors d'un safari palpitant en jeep ou canter, avec hébergement en hôtel et deux jours d'aventure depuis Jaipur.",
+  "shortDescription": "Explorez Ranthambore lors d'un safari palpitant en jeep ou canter",
+  "fullDescription": "Depuis Jaipur : circuit au parc national du tigre de Ranthambore (2 jours). Explorez Ranthambore lors d'un safari palpitant en jeep ou canter.\n\nJour 1 : Jaipur vers Ranthambore\n\nMatin :\nDépart : partez tôt de Jaipur (environ 4-5 heures de route, 180 km). Vous pouvez opter pour un taxi privé ou rejoindre une visite de groupe.\nArrivée à Ranthambore : enregistrement à votre complexe ou hôtel près du parc. Rafraîchissez-vous et détendez-vous.\n\nAprès-midi :\nDéjeuner à l'hôtel/complexe : savourez la cuisine locale et préparez-vous pour votre première expérience de faune sauvage.\n\nSoir :\nSafari de l'après-midi : partez pour votre premier safari dans la jungle au parc national de Ranthambore. Ce safari dure environ 3-4 heures. Gardez l'œil ouvert pour les tigres, léopards, ours lippus et une variété de cerfs et d'oiseaux.\nRetournez à votre hôtel et passez la soirée tranquillement, en profitant de l'ambiance sereine de Ranthambore.\nNuitée : à votre hôtel ou complexe.\n\nJour 2 : Ranthambore vers Jaipur\n\nTôt le matin :\nSafari du matin : commencez votre journée tôt avec un autre safari. Les safaris matinaux sont particulièrement gratifiants car la faune est plus active. C'est votre meilleure chance d'apercevoir un tigre.\nRetournez à votre hôtel pour le petit-déjeuner.\n\nMilieu de matinée :\nVisite du fort de Ranthambore (optionnel) : explorez le fort historique de Ranthambore, un site du patrimoine mondial de l'UNESCO offrant des vues panoramiques sur le parc.\n\nAprès-midi :\nDéjeuner et départ : savourez le déjeuner avant de quitter votre hôtel.\n\nSoir :\nRetour en voiture vers Jaipur : retournez à Jaipur en fin de soirée.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose\n- Voiture climatisée privée pour toute l'activité de la visite\n- Guide touristique professionnel\n- Hébergement en hôtel 3 étoiles\n- Petit-déjeuner à l'hôtel\n- 1 safari en jeep/canter à Ranthambore (selon disponibilité)\n- Bouteilles d'eau minérale pendant la visite\n- Toutes taxes et frais de stationnement\n\n### Non inclus\n\n- Billets d'entrée\n- Déjeuner et dîner\n- Toute dépense personnelle",
+  "highlights": [
+   "Explorez Ranthambore lors d'un safari palpitant en jeep ou canter"
+  ],
+  "included": [
+   "Prise en charge et dépose\nVoiture climatisée privée pour toute l'activité de la visite\nGuide touristique professionnel\nHébergement en hôtel 3 étoiles\nPetit-déjeuner à l'hôtel\n1 safari en jeep/canter à Ranthambore (selon disponibilité)\nBouteilles d'eau minérale pendant la visite\nToutes taxes et frais de stationnement"
+  ],
+  "notIncluded": [
+   "Billets d'entrée\nDéjeuner et dîner\nToute dépense personnelle"
+  ]
+ },
+ "exploring-landmarks-in-jaipur-night-open-jeep": {
+  "title": "Explorer les monuments de Jaipur, safari nocturne en jeep ouverte",
+  "metaTitle": "Jaipur : safari nocturne en jeep, monuments",
+  "metaDescription": "Découvrez la magie de Jaipur de nuit lors d'un excitant safari urbain en jeep ouverte : fort d'Amer, Jal Mahal, Hawa Mahal et plus.",
+  "shortDescription": "Découvrez la magie de Jaipur de nuit lors d'un excitant safari urbain en jeep ouverte",
+  "fullDescription": "Explorer les monuments de Jaipur, safari nocturne en jeep ouverte. Découvrez la magie de Jaipur de nuit lors d'un excitant safari urbain en jeep ouverte.\n\nDécouvrez la magie de la ville rose après la tombée de la nuit lors d'un excitant safari nocturne en jeep ouverte à travers Jaipur. Alors que les lumières de la ville s'animent, roulez devant les monuments les plus emblématiques de Jaipur, magnifiquement illuminés sous le ciel nocturne. Cette visite détendue mais palpitante offre un mélange parfait d'héritage royal, de charme moderne et de moments photo inoubliables, tout en profitant de la brise fraîche du soir.\n\nAdmirez le majestueux fort d'Amer illuminé de lumières dorées, mettant en valeur la grandeur de l'architecture Rajput. Assistez à la beauté magique du Jal Mahal flottant paisiblement sur le lac Man Sagar, son reflet scintillant dans l'eau. Passez devant l'emblématique Hawa Mahal, où le palais des vents éblouit avec ses fenêtres complexes illuminées de nuit.\n\nPoursuivez votre voyage vers le musée Albert Hall, resplendissant élégamment sous les lumières du soir, et admirez le côté moderne de Jaipur au World Trade Park avec son horizon scintillant. Arrêtez-vous à la colorée Patrika Gate, une véritable favorite des photographes, rayonnant d'œuvres d'art vibrantes et de lumières éclatantes. Vous admirerez également des monuments uniques comme le Lotus Hall, illustrant le mélange de tradition et de design contemporain de Jaipur.\n\nTerminez la visite avec des vues panoramiques sur les lumières de la ville de Jaipur, en regardant la ville rose rayonner d'un mélange époustouflant de patrimoine et de beauté moderne. Des boissons gazeuses et de l'eau en bouteille sont incluses pour vous garder rafraîchi pendant tout le trajet, faisant de cette visite nocturne une façon confortable et mémorable de découvrir Jaipur.\n\n### Ce qui est inclus\n\n- Safari en jeep ouverte à Jaipur\n- Bouteille d'eau\n- Boisson gazeuse",
+  "highlights": [
+   "Découvrez la magie de Jaipur de nuit lors d'un excitant safari urbain en jeep ouverte"
+  ],
+  "included": [
+   "Safari en jeep ouverte à Jaipur\nBouteille d'eau\nBoisson gazeuse"
+  ],
+  "notIncluded": [
+   "Repas\nPrise en charge et dépose à l'hôtel\nBillets d'entrée aux attractions\nDépenses personnelles"
+  ]
+ },
+ "jaipur-half-day-tour-by-tuk-tuk-with-local": {
+  "title": "Jaipur : visite d'une demi-journée en tuk-tuk avec un chaiwala local",
+  "metaTitle": "Jaipur : demi-journée en tuk-tuk, chaiwala local",
+  "metaDescription": "Savourez un authentique masala chai avec un chaiwala local pour une véritable expérience de Jaipur, avec Hawa Mahal, fort d'Amer et plus.",
+  "shortDescription": "Savourez un authentique masala chai avec un chaiwala local pour une véritable expérience de Jaipur.",
+  "fullDescription": "Jaipur : visite d'une demi-journée en tuk-tuk avec un chaiwala local. Savourez un authentique masala chai avec un chaiwala local pour une véritable expérience de Jaipur.\n\nDécouvrez le charme vibrant de Jaipur lors de cette captivante visite en tuk-tuk d'une demi-journée, conçue pour vous immerger dans la riche histoire, les monuments emblématiques et la culture locale de la ville. Commencez par le superbe Hawa Mahal, le « palais des vents », où ses fenêtres en treillis complexes et sa façade en grès rose offrent un aperçu du mode de vie royal du passé de Jaipur. Ensuite, plongez dans la grandeur du fort d'Amer, un site du patrimoine mondial de l'UNESCO, où vous explorerez des cours opulentes, le somptueux Sheesh Mahal et des vues panoramiques sur le lac Maota.\n\nUn arrêt rapide au paisible Jal Mahal, le « palais de l'eau », vous permet d'admirer sa beauté architecturale reflétée dans les eaux calmes du lac Man Sagar. À mi-parcours de la visite, faites une pause pour savourer un déjeuner rajasthani traditionnel dans un restaurant local et parcourez les marchés animés de Jaipur à la recherche d'artisanat unique, de textiles vibrants et de souvenirs.\n\nPoursuivez votre voyage vers le Jantar Mantar, l'observatoire astronomique classé UNESCO de la ville, où vous vous émerveillerez devant des instruments anciens utilisés pour étudier les phénomènes célestes. Puis, entrez dans le majestueux City Palace, une résidence royale mêlant architecture moghole et rajpoute, avec des musées et des cours qui racontent les histoires de l'héritage royal de Jaipur.\n\nEnfin, concluez votre aventure par une visite chez un chaiwala local, où vous savourerez une tasse fraîchement infusée d'authentique masala chai et vous connecterez avec l'essence de la culture de rue vibrante de Jaipur. Cette visite en tuk-tuk offre un mélange parfait d'histoire, de culture et d'expériences authentiques, en faisant une façon inoubliable de découvrir la ville rose.\n\n### Ce qui est inclus\n\n- Visite privée en tuk-tuk\n- Prise en charge et dépose à l'hôtel\n- Bouteille d'eau",
+  "highlights": [
+   "Savourez un authentique masala chai avec un chaiwala local pour une véritable expérience de Jaipur."
+  ],
+  "included": [
+   "Visite privée en tuk-tuk\nPrise en charge et dépose à l'hôtel\nBouteille d'eau"
+  ],
+  "notIncluded": [
+   "Frais d'entrée\nNourriture et boissons\nPourboires"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
