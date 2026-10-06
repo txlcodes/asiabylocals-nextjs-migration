@@ -36746,6 +36746,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles\nDéjeuner/dîner/boissons"
   ]
  },
+ "from-delhiagrajaipur-private-shopping-street-food": {
+  "title": "Depuis Delhi/Agra/Jaipur : visite privée de shopping et de street food",
+  "metaTitle": "Shopping et street food, Delhi/Agra/Jaipur",
+  "metaDescription": "Profitez d'une visite shopping guidée dans la ville de votre choix, avec dégustation de street food authentique.",
+  "shortDescription": "Profitez d'une visite shopping guidée dans la ville de votre choix.",
+  "fullDescription": "Depuis Delhi/Agra/Jaipur : visite privée de shopping et de street food. Profitez d'une visite shopping guidée dans la ville de votre choix.\n\nPrise en charge\nPrise en charge à votre hôtel à Delhi/Agra ou Jaipur par un guide touristique local/expert en shopping et un chauffeur, discutez de vos intérêts,\n\nShopping\nPuis vous emmènent en visite shopping vers les boutiques et marchés de la ville qui correspondent le mieux à vos besoins. Vous verrez rapidement à quel point c'est une excellente destination shopping.\n\nStreet food\nAprès le shopping, vous dégusterez une authentique street food provenant des endroits les plus réputés et authentiques de la ville.\n\nDépose\nAprès la visite, vous serez déposé à l'endroit de votre choix dans la ville de votre choix.\n\n### Ce qui est inclus\n\n- Guide touristique privé\n- Voiture climatisée privée\n- Street food\n- Prise en charge et dépose\n- Eau minérale\n- Toutes taxes\n\n### Non inclus\n\n- Dépenses personnelles\n- Pourboires",
+  "highlights": [
+   "Profitez d'une visite shopping guidée dans la ville de votre choix."
+  ],
+  "included": [
+   "Guide touristique privé\nVoiture climatisée privée\nStreet food\nPrise en charge et dépose\nEau minérale\nToutes taxes"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles\nPourboires"
+  ]
+ },
+ "jaipur-no-shopping-full-day-guided-tour-with": {
+  "title": "Jaipur : sans shopping, visite guidée d'une journée complète avec promenade patrimoniale",
+  "metaTitle": "Jaipur : journée complète sans shopping",
+  "metaDescription": "Concentrez-vous uniquement sur des expériences authentiques sans détours shopping : Albert Hall, Amer, Jantar Mantar, Hawa Mahal.",
+  "shortDescription": "Concentrez-vous uniquement sur des expériences authentiques sans détours shopping",
+  "fullDescription": "Jaipur : sans shopping, visite guidée d'une journée complète avec promenade patrimoniale. Concentrez-vous uniquement sur des expériences authentiques sans détours shopping.\n\nRejoignez-nous pour une inoubliable visite touristique guidée d'une journée complète de Jaipur. Nous sommes une équipe de professionnels du voyage connus pour nos visites expérientielles. Il s'agit d'une visite en petit groupe à départ fixe quotidien (visite privée optionnelle), conçue pour les voyageurs qui souhaitent explorer le meilleur de Jaipur sans détours shopping.\n\nLa visite commence à 9h15 depuis notre bureau Le Tour De India, centralement situé à Panch Batti, MI Road. À votre arrivée, notre guide et chauffeur aimables vous accueilleront chaleureusement et fourniront un briefing détaillé sur les activités de la journée. À 9h30, nous partirons pour notre voyage d'exploration des points forts de Jaipur.\n\nNotre premier arrêt est le magnifique musée Albert Hall, un bel exemple d'architecture indo-sarrasine. Ici, notre guide vous fera découvrir les expositions uniques du musée et partagera des histoires fascinantes sur l'histoire et l'art de Jaipur.\n\nEnsuite, nous roulons vers la ville historique d'Amer (Amber). Connue pour son passé glorieux, nous vous emmenons pour une captivante promenade patrimoniale à travers les ruelles intérieures d'Amer, où vous découvrirez le charme de cette ville ancienne. Découvrez des joyaux cachés comme des temples emblématiques, des havelis traditionnels et des structures moins explorées pendant que notre guide compétent partage des histoires intrigantes de l'ère Rajput.\n\nAprès Amer, nous retournons vers la vieille ville de Jaipur et savourons un délicieux repas dans un bon restaurant. Nous visitons ensuite l'impressionnant Jantar Mantar, un observatoire astronomique et site du patrimoine mondial de l'UNESCO. Les invités sont souvent surpris par la précision de l'heure indiquée par ces cadrans solaires. De là, nous continuons pour visiter les monuments emblématiques de Jaipur, notamment le Hawa Mahal (palais des vents), le City Palace,\n\nAlors que nous terminons ces monuments, notre guide nous emmènera pour une fascinante visite à pied à travers les ruelles intérieures de la vieille ville de Jaipur. Promenez-vous dans de charmantes rues étroites bordées de bâtiments roses, admirez les façades complexes des havelis historiques, et découvrez des temples cachés et des places animées qui capturent magnifiquement le charme intemporel du patrimoine de Jaipur. Pour conclure cette expérience enrichissante, nous ferons une pause pour un régal spécial : thé et beignets de pommes de terre croustillants servis sur une terrasse pittoresque. Détendez-vous, partagez des histoires et savourez le moment en réfléchissant à une journée bien remplie avant d'être déposé à vos endroits désignés en chemin.\n\n### Ce qui est inclus\n\n- Guide expérimenté - un guide compétent pour partager des histoires et des informations\n- Voiture confortable - un véhicule bien équipé et climatisé pour un voyage fluide\n- Chauffeur professionnel - chauffeur courtois et qualifié pour une expérience sans tracas\n- Prise en charge depuis des points fixes - rencontre et prise en charge pratiques depuis des endroits désignés\n- Bouteilles d'eau minérale - restez rafraîchi pendant toute la visite\n- Visites de promenade patrimoniale - visites à pied spécialement conçues de la ville d'Amer et de la ville rose de Jaipur\n\n### Non inclus\n\n- Billets d'entrée - les frais pour les monuments et attractions ne sont pas inclus\n- Repas - le déjeuner ou tout autre repas ne fait pas partie du forfait\n- Transferts - le transport vers le point de départ et de retour à l'hôtel depuis le point final n'est pas inclus",
+  "highlights": [
+   "Concentrez-vous uniquement sur des expériences authentiques sans détours shopping"
+  ],
+  "included": [
+   "Guide expérimenté - un guide compétent pour partager des histoires et des informations\nVoiture confortable - un véhicule bien équipé et climatisé pour un voyage fluide\nChauffeur professionnel - chauffeur courtois et qualifié pour une expérience sans tracas\nPrise en charge depuis des points fixes - rencontre et prise en charge pratiques depuis des endroits désignés\nBouteilles d'eau minérale - restez rafraîchi pendant toute la visite\nVisites de promenade patrimoniale - visites à pied spécialement conçues de la ville d'Amer et de la ville rose de Jaipur"
+  ],
+  "notIncluded": [
+   "Billets d'entrée - les frais pour les monuments et attractions ne sont pas inclus\nRepas - le déjeuner ou tout autre repas ne fait pas partie du forfait\nTransferts - le transport vers le point de départ et de retour à l'hôtel depuis le point final n'est pas inclus"
+  ]
+ },
+ "from-delhi-same-day-private-jaipur-tour-with": {
+  "title": "Depuis Delhi : visite privée de Jaipur le même jour avec transferts",
+  "metaTitle": "Depuis Delhi : Jaipur en une journée",
+  "metaDescription": "Prise en charge et dépose confortables à Delhi dans une voiture climatisée privée : fort d'Amber, Jal Mahal, City Palace, Jantar Mantar, Hawa Mahal.",
+  "shortDescription": "Prise en charge et dépose confortables à Delhi dans une voiture climatisée privée.",
+  "fullDescription": "Depuis Delhi : visite privée de Jaipur le même jour avec transferts. Prise en charge et dépose confortables à Delhi dans une voiture climatisée privée.\n\nVotre journée commence par une prise en charge à votre hébergement à New Delhi dans une voiture moderne et climatisée. Faites une sieste pendant le trajet de 3-4 heures ou admirez le paysage et la vie locale sur la route. Arrivez à Jaipur et rencontrez votre guide qui vous donnera un briefing sur l'itinéraire de la journée.\n\nVotre premier arrêt sera au puissant et immaculé fort d'Amber où vous pourrez observer des vues panoramiques sur Jaipur. Ensuite, rendez-vous au Jal Mahal, situé au milieu d'un magnifique lac. Prenez des photos mémorables de ce site unique puis dirigez-vous pour savourer un délicieux déjeuner exotique dans un restaurant traditionnel.\n\nContinuez vers l'incroyable musée du City Palace, un superbe amalgame d'architecture rajasthanie et moghole, où le maharaja de Jaipur vit encore. Promenez-vous dans les jardins parfaitement entretenus, les grandes cours, et observez de près la lignée royale de Jaipur.\n\nEnsuite, visitez le Jantar Mantar, classé au patrimoine mondial de l'UNESCO, abritant le plus grand cadran solaire en pierre du monde. Le dernier arrêt de la visite est l'emblématique Hawa Mahal, ou palais des vents, fait de magnifique grès rose. Admirez les 300 fenêtres du bâtiment, construites pour que les dames royales puissent observer la vie quotidienne sans être vues elles-mêmes.\n\nAprès votre visite d'une journée complète de Jaipur, votre chauffeur vous ramènera à Delhi.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose depuis Delhi\n- Voiture climatisée\n- Guide pour tous les monuments\n- Déjeuner (si l'option est choisie)\n- Entrée aux monuments (si l'option est choisie)\n- Eau minérale\n- Toutes taxes\n\n### Non inclus\n\n- Pourboires",
+  "highlights": [
+   "Prise en charge et dépose confortables à Delhi dans une voiture climatisée privée."
+  ],
+  "included": [
+   "Prise en charge et dépose depuis Delhi\nVoiture climatisée\nGuide pour tous les monuments\nDéjeuner (si l'option est choisie)\nEntrée aux monuments (si l'option est choisie)\nEau minérale\nToutes taxes"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
