@@ -34394,6 +34394,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Prise en charge et dépose à l'aéroport\nToute autre dépense personnelle\nBoissons pendant le déjeuner"
   ]
  },
+ "jaipur-hawa-mahal-private-photoshoot": {
+  "title": "Jaipur : séance photo privée au Hawa Mahal",
+  "metaTitle": "Jaipur : séance photo privée au Hawa Mahal",
+  "metaDescription": "Capturez de superbes photos devant l'emblématique Hawa Mahal à Jaipur, lors de cette séance photo privée avec un photographe local.",
+  "shortDescription": "Capturez de superbes photos devant l'emblématique Hawa Mahal à Jaipur",
+  "fullDescription": "Jaipur : séance photo privée au Hawa Mahal. Capturez de superbes photos devant l'emblématique Hawa Mahal à Jaipur.\n\nCapturez l'essence de Jaipur avec une séance photo professionnelle devant l'emblématique Hawa Mahal, le Palais des Vents. Connu dans le monde entier pour son architecture unique en nid d'abeille et sa façade rose vibrante, le Hawa Mahal est l'un des endroits les plus photogéniques d'Inde.\nDans cette expérience privée, un photographe local vous aidera à créer de superbes souvenirs encadrés par le monument le plus reconnaissable de Jaipur.\n\nRencontrez votre photographe près du Hawa Mahal et marchez jusqu'aux meilleurs points de vue autour du monument. Capturez différents styles de photos : portraits, photos spontanées en marchant, cadrages architecturaux et photos sur un café en terrasse avec la superbe façade complète derrière vous.\n\nVotre photographe vous aidera avec des poses simples, des expressions naturelles et le timing parfait pour capturer la lumière dorée de Jaipur. Toutes les photos brutes seront livrées numériquement, et des retouches peuvent être fournies sur demande.\n\nQue vous soyez un voyageur solo, un couple, une famille ou un influenceur voyage, cette session transforme votre visite en une histoire magnifiquement documentée.\n\n### Ce qui est inclus\n\n- Photographe professionnel local\n- Frais d'entrée au café\n- Photos RAW haute résolution non retouchées, illimitées\n- Aide pour les poses\n- Transfert instantané des photos sur mobile\n\n### Non inclus\n\n- Achats personnels",
+  "highlights": [
+   "Capturez de superbes photos devant l'emblématique Hawa Mahal à Jaipur"
+  ],
+  "included": [
+   "Photographe professionnel local\nFrais d'entrée au café\nPhotos RAW haute résolution non retouchées, illimitées\nAide pour les poses\nTransfert instantané des photos sur mobile"
+  ],
+  "notIncluded": [
+   "Achats personnels"
+  ]
+ },
+ "jaipur-full-day-tour-with-amer-fort-and-nahargarh": {
+  "title": "Jaipur : circuit d'une journée complète avec le Fort Amer et le coucher de soleil à Nahargarh",
+  "metaTitle": "Jaipur : circuit d'une journée, Fort Amer, Nahargarh",
+  "metaDescription": "Commencez votre journée avec les fleurs vibrantes et les parfums frais du marché aux fleurs de Jaipur, lors de ce circuit d'une journée.",
+  "shortDescription": "Commencez votre journée avec les fleurs vibrantes et les parfums frais du marché aux fleurs de Jaipur.",
+  "fullDescription": "Jaipur : circuit d'une journée complète avec le Fort Amer et le coucher de soleil à Nahargarh. Commencez votre journée avec les fleurs vibrantes et les parfums frais du marché aux fleurs de Jaipur.\n\nDécouvrez la riche culture et le patrimoine de Jaipur lors de ce circuit d'une journée complète dans la Ville Rose, incluant ses sites de l'UNESCO et ses monuments emblématiques. Commencez par une balade vibrante à travers le marché aux fleurs avant de visiter le superbe Hawa Mahal.\n\nExplorez le majestueux City Palace et la merveille astronomique du Jantar Mantar. Admirez le paisible Jal Mahal, rendez hommage aux cénotaphes royaux de Gaitor, et découvrez la baoli historique de Panna Meena. Émerveillez-vous devant la grandeur du Fort Ambre, et terminez votre voyage avec des vues à couper le souffle sur le coucher de soleil depuis le Fort Nahargarh. Un parfait mélange d'histoire, de culture et de beauté pittoresque vous attend.\n\nVisite du marché aux fleurs\nLe matin, à l'heure de votre choix, notre chauffeur viendra vous chercher à votre hôtel. Commencez votre journée par une visite de l'animé marché aux fleurs, où vous pourrez flâner parmi des étalages vibrants de fleurs colorées et profiter des parfums délicats des fleurs fraîches. Découvrez l'atmosphère animée alors que les vendeurs locaux présentent des arrangements floraux traditionnels utilisés dans les rituels culturels et religieux du Rajasthan.\n\nHawa Mahal\nEnsuite, visitez le Hawa Mahal, également connu sous le nom de Palais des Vents. Admirez ses fenêtres finement conçues et découvrez son histoire en tant que structure royale construite pour les dames de la cour afin d'observer la vie de la rue depuis derrière son treillage.\n\nJantar Mantar\nAprès le Hawa Mahal, visitez le Jantar Mantar, un observatoire astronomique présentant des instruments anciens utilisés pour les observations célestes. Les grands instruments et leur conception précise sont une merveille d'ingénierie.\n\nCity Palace\nExplorez le City Palace, un magnifique mélange d'architecture rajpoute et moghole. Le palais abrite divers musées, cours intérieures, et l'impressionnante Porte des Paons.\n\nPause déjeuner\nArrêtez-vous pour déjeuner dans un restaurant local et savourez des plats rajasthanis traditionnels, illustrant les riches traditions culinaires de la région.\n\nRoyal Gaitor\nEnsuite, visitez le Royal Gaitor, un site paisible avec des cénotaphes royaux honorant les Maharajas de Jaipur. Admirez l'exquise architecture en marbre, les sculptures complexes et l'environnement paisible, reflétant le riche patrimoine royal du Rajasthan.\n\nJal Mahal\nEnsuite, visitez le Jal Mahal, un superbe palais situé sur le lac Man Sagar. Connu pour son architecture unique et son environnement paisible, il offre des vues à couper le souffle et une atmosphère sereine.\n\nFort Ambre\nExplorez le majestueux Fort Amer, l'un des monuments emblématiques de Jaipur. Découvrez sa grandiose architecture, ses motifs complexes, ses magnifiques cours et ses vues à couper le souffle sur les collines environnantes et le lac Maota.\n\nBaoli de Panna Meena\nPanna Meena Ka Kund, une baoli cachée connue pour son design géométrique. L'atmosphère paisible et l'architecture unique en font un endroit parfait pour les photos.\n\nAssistez au coucher de soleil à couper le souffle au Fort Nahargarh\nTerminez votre journée par une visite du Fort Nahargarh, où vous pourrez profiter de vues panoramiques sur Jaipur. L'architecture du fort, associée au paysage époustouflant, offre un endroit parfait pour se détendre et assister à un coucher de soleil à couper le souffle.\n\n### Ce qui est inclus\n\n- Transport privé avec un chauffeur anglophone et sympathique\n- Prise en charge et dépose à l'hôtel/l'aéroport\n- Frais de carburant, frais de stationnement et toutes autres taxes\n- Guide touristique local professionnel et sympathique (si l'option est sélectionnée)\n\n### Non inclus\n\n- Repas et boissons\n- Frais d'entrée aux monuments\n- Dépenses personnelles",
+  "highlights": [
+   "Commencez votre journée avec les fleurs vibrantes et les parfums frais du marché aux fleurs de Jaipur"
+  ],
+  "included": [
+   "Transport privé avec un chauffeur anglophone et sympathique\nPrise en charge et dépose à l'hôtel/l'aéroport\nFrais de carburant, frais de stationnement et toutes autres taxes\nGuide touristique local professionnel et sympathique (si l'option est sélectionnée)"
+  ],
+  "notIncluded": [
+   "Repas et boissons\nFrais d'entrée aux monuments\nDépenses personnelles"
+  ]
+ },
+ "from-jaipur-3-day-jaipur-and-ranthambore-tour": {
+  "title": "Depuis Jaipur : circuit de 3 jours à Jaipur et Ranthambore avec safari",
+  "metaTitle": "Depuis Jaipur : circuit 3 jours Jaipur et Ranthambore",
+  "metaDescription": "Découvrez la Ville Rose de Jaipur et ses sites du patrimoine mondial de l'UNESCO, lors de ce circuit de 3 jours avec safari.",
+  "shortDescription": "Découvrez la Ville Rose de Jaipur et ses sites du patrimoine mondial de l'UNESCO",
+  "fullDescription": "Depuis Jaipur : circuit de 3 jours à Jaipur et Ranthambore avec safari. Découvrez la Ville Rose de Jaipur et ses sites du patrimoine mondial de l'UNESCO.\n\nExplorez le meilleur de Jaipur et de Ranthambore lors d'un circuit de 3 jours depuis Jaipur. Découvrez la Ville Rose et ses sites du patrimoine mondial de l'UNESCO, et partez en safari au parc national de Ranthambore.\n\n**Jour 1 – Arrivée et visites à Jaipur**\nArrivée à Jaipur et enregistrement à votre hôtel. Explorez les incontournables de la ville, notamment le City Palace, le Jantar Mantar et le Hawa Mahal.\n\n**Jour 2 – Trajet vers Sawai Madhopur et safari**\nAprès le petit-déjeuner, trajet vers Sawai Madhopur. Partez en safari au parc national de Ranthambore. Gardez un œil sur les tigres, les léopards et autres animaux sauvages.\n\n**Jour 3 – Trajet vers Jaipur**\nAprès le petit-déjeuner, retour en voiture vers Jaipur. Dépose à l'aéroport de Jaipur pour la suite de votre voyage.\n\n### Ce qui est inclus\n\n- Péages\n- Taxe d'état\n- Stationnement\n- Hébergement avec petit-déjeuner\n- Guide anglophone\n- Berline climatisée\n\n### Non inclus\n\n- Billets d'entrée",
+  "highlights": [
+   "Découvrez la Ville Rose de Jaipur et ses sites du patrimoine mondial de l'UNESCO"
+  ],
+  "included": [
+   "Péages\nTaxe d'état\nStationnement\nHébergement avec petit-déjeuner\nGuide anglophone\nBerline climatisée"
+  ],
+  "notIncluded": [
+   "Billets d'entrée"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
