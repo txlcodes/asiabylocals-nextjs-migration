@@ -36266,6 +36266,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comida y bebidas\nPropinas para el conductor\nTarifas de entrada a monumentos\nPaseo en camello\nSafari en jeep\nPaseo en tuk-tuk al dargah de Ajmer."
   ]
  },
+ "jaipur-cooking-class-and-cultural-evening-with": {
+  "title": "Jaipur: clase de cocina y velada cultural con locales",
+  "metaTitle": "Jaipur: clase de cocina, velada cultural",
+  "metaDescription": "Saboree los sabores de India mientras aprende a cocinar autenticos platos del norte de India con una familia local en Jaipur.",
+  "shortDescription": "Saboree los sabores de India mientras aprende a cocinar autenticos platos del norte de India.",
+  "fullDescription": "Jaipur: clase de cocina y velada cultural con locales. Saboree los sabores de India mientras aprende a cocinar autenticos platos del norte de India.\n\nEntre en el hogar de una familia local en Jaipur para una inolvidable clase practica de cocina vegetariana india y velada cultural. Desde el momento de su llegada, sera tratado no como un turista, sino como un invitado de honor.\n\nComience con una calida bebida de bienvenida e introduccion al mundo aromatico de las especias y hierbas indias. Sus anfitriones explicaran su importancia culinaria y sorprendentes beneficios medicinales ayurvedicos, transmitidos a traves de generaciones.\n\nLuego, arremangue sus mangas y sumerjase en la cocina. Guiado por la familia, aprendera a preparar platos tradicionales del norte de India como chapatis suaves y esponjosos, sabrosos currys de verduras, pulao fragante o arroz frito, y un postre dulce de temporada.\n\nUna vez que su comida este lista, sientese con sus anfitriones y disfrute de una cena india casera en un ambiente calido e informal. Despues de la cena, relajese con una encantadora sesion de narracion mitologica, donde escuchara antiguas historias y tradiciones folcloricas unicas de Rajasthan.\n\nPara hacer su velada aun mas especial, recibira recuerdos tradicionales seleccionados a mano y una copia digital de todas las recetas que aprendio, para que pueda recrear la magia en casa.\n\n### Que incluye\n\n- Bebida de bienvenida tradicional\n- Sesion de cocina paso a paso con una familia local\n- Todos los ingredientes de cocina\n- Introduccion guiada a especias e ingredientes\n- Cena completa con postre indio\n- Experiencia de narracion\n- Recetas electronicas de todos los platos cocinados\n- Regalo de despedida y recuerdo\n- Botella de agua\n- Todas las actividades de mantenimiento\n- Atencion y cuidado personalizados\n\n### No incluye\n\n- Herramientas de cocina o atuendo personal",
+  "highlights": [
+   "Saboree los sabores de India mientras aprende a cocinar autenticos platos del norte de India."
+  ],
+  "included": [
+   "Bebida de bienvenida tradicional\nSesion de cocina paso a paso con una familia local\nTodos los ingredientes de cocina\nIntroduccion guiada a especias e ingredientes\nCena completa con postre indio\nExperiencia de narracion\nRecetas electronicas de todos los platos cocinados\nRegalo de despedida y recuerdo\nBotella de agua\nTodas las actividades de mantenimiento\nAtencion y cuidado personalizados"
+  ],
+  "notIncluded": [
+   "Herramientas de cocina o atuendo personal"
+  ]
+ },
+ "jaipur-open-jeep-safari-for-pink-city-night-views": {
+  "title": "Jaipur: safari en jeep abierto para vistas nocturnas de la ciudad rosa",
+  "metaTitle": "Jaipur: jeep abierto, vistas nocturnas",
+  "metaDescription": "Admire el Jal Mahal, un palacio del agua que es un monumento famoso de Jaipur, en un tour nocturno en jeep abierto.",
+  "shortDescription": "Admire el Jal Mahal, un palacio del agua que es un monumento famoso de Jaipur",
+  "fullDescription": "Jaipur: safari en jeep abierto para vistas nocturnas de la ciudad rosa. Admire el Jal Mahal, un palacio del agua que es un monumento famoso de Jaipur.\n\nExperimente la magia de Jaipur despues del anochecer en este encantador tour nocturno. Explore monumentos iconicos como el Amber Palace, el Jal Mahal, el Hawa Mahal y el Museo Albert Hall, todos bellamente iluminados. Paseese por mercados bulliciosos y disfrute del vibrante ambiente nocturno.\n\nSu aventura comienza con una comoda recogida en su hotel en un jeep sin techo. Viaje a la historica ciudad de Amer para ver el impresionante Amber Palace, resplandeciente bajo las suaves luces de la tarde.\n\nA continuacion, detengase en el sereno Jal Mahal, el Palacio del Agua, flotando pacificamente en medio del lago Man Sagar. Luego, maravillese con la intrincada fachada del Hawa Mahal, la joya arquitectonica mas fotografiada de Jaipur.\n\nRecorra los animados mercados de la ciudad vieja, llenos de color y encanto. Concluya su tour en el espléndido Museo Albert Hall, bellamente iluminado con luces coloridas que lo convierten en un lugar perfecto para fotos. Termine su noche con un relajante traslado de regreso a su hotel.\n\n### Que incluye\n\n- Servicio de recogida y traslado (hotel, aeropuerto, estacion de trenes)\n- Coche SUV\n- Guia profesional\n- Botella de agua mineral individual\n- Todos los impuestos\n- Gastos de estacionamiento\n- Cargos de gasolina/diesel",
+  "highlights": [
+   "Admire el Jal Mahal, un palacio del agua que es un monumento famoso de Jaipur"
+  ],
+  "included": [
+   "Servicio de recogida y traslado (hotel, aeropuerto, estacion de trenes)\nCoche SUV\nGuia profesional\nBotella de agua mineral individual\nTodos los impuestos\nGastos de estacionamiento\nCargos de gasolina/diesel"
+  ],
+  "notIncluded": [
+   "Ninguno"
+  ]
+ },
+ "jaipur-full-day-private-sightseeing-tour-by-car": {
+  "title": "Jaipur: tour turistico privado de dia completo en coche con guia",
+  "metaTitle": "Jaipur: dia completo en coche con guia",
+  "metaDescription": "Descubra el esplendor visual tipico de Jaipur en un tour turistico de dia completo: fuerte de Amber, City Palace, Jantar Mantar.",
+  "shortDescription": "Descubra el esplendor visual tipico de Jaipur en un tour turistico de dia completo",
+  "fullDescription": "Jaipur: tour turistico privado de dia completo en coche con guia. Descubra el esplendor visual tipico de Jaipur en un tour turistico de dia completo.\n\nUnase a un tour turistico de dia completo por Jaipur para aprender sobre la rica historia y cultura de la ciudad:\n\n1. Amber Palace: el fuerte de Amber es un magnifico ejemplo de fusion de arquitectura hindu y musulmana; maravillese con su magnificencia. Este fuerte, construido de arenisca roja y marmol blanco, se encuentra sobre colinas accidentadas al oeste de Jaipur y ofrece una perspectiva de la interesante historia de la region. Duracion: 2 horas.\n\n2. Panna Meena ka Kund: descubra el pozo escalonado historico famoso por sus escaleras simetricas y su eficaz sistema de captacion de agua de lluvia. Ubicado cerca del fuerte de Amber, esta maravilla del siglo XVI se encuentra frente al telon de fondo de una renombrada fortaleza. Duracion: 30 minutos.\n\n3. Jal Mahal: experimente la calma del Jal Mahal, un hermoso palacio de agua situado dentro del magnifico lago Man Sagar. Esta impresionante estructura de arenisca roja, que data del siglo XVIII, es una maravilla arquitectonica que muestra la magnificencia de la cultura Rajput. Duracion: 30 minutos.\n\n4. Hawa Mahal: contemple el famoso Palacio de los Vientos, tambien conocido como Hawa Mahal, concebido por Sawai Pratap Singh. Disenado para ofrecer una vista de la vida cotidiana de la ciudad, este palacio tiene arcos escalonados y elaboradas pantallas de celosia. Duracion: una hora.\n\n5. City Palace: explore el City Palace del maharaja, testimonio del legado imperial de Jaipur. Construido por el maharaja Jai Singh, esta maravilla arquitectonica alberga a la antigua familia real y destaca el rico patrimonio de la ciudad. Duracion: una hora.\n\n6. Jantar Mantar: profundice en el genio cientifico del Jantar Mantar, una coleccion de diecinueve instrumentos astronomicos establecidos por el monarca Rajput Sawai Jai Singh. Como sitio del Patrimonio de la Humanidad de la UNESCO, cuenta con el reloj de sol de piedra mas grande del mundo y ofrece una rara perspectiva de las antiguas tecnicas astronomicas. Duracion: una hora.\n\n7. Tumbas reales de Gaitor: sumerjase en la historia en las tumbas reales de Gaitor, un complejo del siglo XVIII adornado con elaboradas talladuras y santuarios dedicados. Este lugar sirve como sitio de peregrinacion para los creyentes del hinduismo, mostrando el valor espiritual entremezclado con la magnificencia arquitectonica de Jaipur. Duracion: una hora.\n\nEmbarquese en este viaje a traves del pasado legendario y la magnificencia arquitectonica de Jaipur, guiado por este cautivador itinerario.\n\n### Que incluye\n\n- Recogida y traslado al hotel\n- Transporte en sedan/SUV con aire acondicionado\n- Guia profesional autorizado\n- Gastos de estacionamiento\n- Combustible\n- Agua embotellada\n\n### No incluye\n\n- Entradas\n- Comidas\n- Propinas",
+  "highlights": [
+   "Descubra el esplendor visual tipico de Jaipur en un tour turistico de dia completo"
+  ],
+  "included": [
+   "Recogida y traslado al hotel\nTransporte en sedan/SUV con aire acondicionado\nGuia profesional autorizado\nGastos de estacionamiento\nCombustible\nAgua embotellada"
+  ],
+  "notIncluded": [
+   "Entradas\nComidas\nPropinas"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
