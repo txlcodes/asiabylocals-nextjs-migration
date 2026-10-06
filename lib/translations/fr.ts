@@ -35978,6 +35978,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Nourriture et boissons\nServices de maquillage et de coiffure\nShopping personnel et souvenirs\nPhotographies supplémentaires non retouchées ou imprimées\nLe turban traditionnel (Safa) et le saree sont fournis en location pour une utilisation pendant la séance photo uniquement et ne sont pas inclus pour que les invités les gardent."
   ]
  },
+ "new-delhi-private-jaipur-day-tour-with-local-guide": {
+  "title": "New Delhi : visite privée d'une journée à Jaipur avec guide local",
+  "metaTitle": "New Delhi : journée à Jaipur, guide local",
+  "metaDescription": "Explorez le site du patrimoine mondial de l'UNESCO du fort d'Amber avec un guide local expert, depuis New Delhi en une journée.",
+  "shortDescription": "Explorez le site du patrimoine mondial de l'UNESCO du fort d'Amber avec un guide local expert.",
+  "fullDescription": "New Delhi : visite privée d'une journée à Jaipur avec guide local. Explorez le site du patrimoine mondial de l'UNESCO du fort d'Amber avec un guide local expert.\n\nDécouvrez le riche patrimoine du Rajasthan lors d'une excursion privée d'une journée à Jaipur depuis New Delhi avec des transferts aller-retour confortables, un guide local professionnel et un véhicule climatisé privé. Découvrez la célèbre ville rose, abritant des forts majestueux, des palais royaux, des sites du patrimoine mondial de l'UNESCO et une culture vibrante, tout cela en une seule journée inoubliable.\n\n06h00 - Prise en charge à Delhi\nCommencez votre voyage avec une prise en charge à votre hôtel, à l'aéroport ou à l'endroit de votre choix à New Delhi, Gurugram ou Noida. Profitez d'un trajet confortable vers Jaipur via une autoroute moderne tout en découvrant la campagne pittoresque.\n\n11h00 - Arrivée à Jaipur\nRencontrez votre guide local expert et recevez une introduction à l'histoire royale de Jaipur, à l'héritage Rajput et à l'architecture magnifique avant de commencer votre visite touristique.\n\n11h30 - Visite du fort d'Amber\nExplorez le magnifique fort d'Amber, un site du patrimoine mondial de l'UNESCO surplombant le lac Maota. Découvrez ses grandes cours, ses palais royaux, le Sheesh Mahal (palais des miroirs) et son architecture Rajput impressionnante tout en découvrant la dynastie Kachwaha.\n\n13h30 - Pause déjeuner\nSavourez le déjeuner dans un restaurant local (à vos frais), où vous pourrez goûter des spécialités rajasthanies authentiques ou choisir parmi une variété de plats indiens et internationaux.\n\n14h30 - City Palace et Jantar Mantar\nVisitez l'élégant City Palace, avec ses cours royales, musées et collections historiques. Continuez vers le Jantar Mantar, un observatoire astronomique classé UNESCO présentant de remarquables instruments en pierre utilisés pour étudier le temps et les mouvements célestes.\n\n16h00 - Hawa Mahal\nArrêtez-vous à l'emblématique Hawa Mahal (palais des vents), le monument le plus photographié de Jaipur. Admirez sa superbe façade en grès rose avec plus de 900 fenêtres finement conçues et découvrez son histoire royale fascinante.\n\n17h00 - Temple Birla\nVisitez le paisible temple Birla (temple Lakshmi Narayan), admiré pour son architecture en marbre blanc, ses sculptures complexes, ses beaux jardins et son atmosphère sereine.\n\n18h00 - Retour en voiture vers Delhi\nAprès avoir exploré les principales attractions de Jaipur, détendez-vous pendant votre trajet de retour confortable vers Delhi dans votre véhicule privé.\n\n23h00 - Dépose à Delhi\nArrivez de retour à New Delhi, Gurugram ou Noida, où vous serez déposé à votre hôtel, à l'aéroport, à la gare ou à l'endroit de votre choix.\n\nRéservez cette visite privée d'une journée à Jaipur depuis Delhi pour découvrir le mélange parfait d'histoire, de culture, d'architecture et d'héritage royal. Cette visite de Jaipur en une journée est idéale pour les visiteurs de première visite, les couples, les familles, les photographes et les passionnés d'histoire recherchant une expérience de voyage sans tracas et personnalisée.\n\n### Ce qui est inclus\n\n- Guide local\n- Prise en charge et dépose à l'hôtel\n- Garantie d'éviter les longues files d'attente\n- Transport en véhicule privé\n- Supplément carburant\n- Eau en bouteille\n\n### Non inclus\n\n- Boissons alcoolisées (disponibles à l'achat)\n- Billet d'entrée\n- Déjeuner\n- Pourboires (facultatif)",
+  "highlights": [
+   "Explorez le site du patrimoine mondial de l'UNESCO du fort d'Amber avec un guide local expert."
+  ],
+  "included": [
+   "Guide local\nPrise en charge et dépose à l'hôtel\nGarantie d'éviter les longues files d'attente\nTransport en véhicule privé\nSupplément carburant\nEau en bouteille"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisées (disponibles à l'achat)\nBillet d'entrée\nDéjeuner.\nPourboires (facultatif)"
+  ]
+ },
+ "royal-jaipur-a-full-day-guided-tour-of-heritage": {
+  "title": "Jaipur royal : une visite guidée d'une journée complète du patrimoine et de la culture",
+  "metaTitle": "Jaipur royal : journée patrimoine et culture",
+  "metaDescription": "Explorez la ville de Jaipur avec un guide privé qui vous emmènera à travers la ville rose : fort d'Amber, City Palace, Jantar Mantar, Hawa Mahal.",
+  "shortDescription": "Explorez la ville de Jaipur avec un guide privé qui vous emmènera à travers la ville rose",
+  "fullDescription": "Jaipur royal : une visite guidée d'une journée complète du patrimoine et de la culture. Explorez la ville de Jaipur avec un guide privé qui vous emmènera à travers la ville rose.\n\nJaipur en une journée : l'expérience de la ville rose\n\nDécouvrez l'héritage royal et la culture vibrante de Jaipur lors de cette visite immersive d'une journée complète. Commencez votre voyage au majestueux fort d'Amber, un superbe mélange d'architecture Rajput et moghole, perché au sommet d'une colline avec des vues panoramiques. Visitez ensuite le paisible Jal Mahal (palais de l'eau), flottant magnifiquement au milieu du lac Man Sagar.\n\nContinuez vers l'emblématique Hawa Mahal (palais des vents), connu pour sa façade complexe conçue pour permettre aux dames royales d'observer discrètement les festivals de rue.\n\nExplorez l'opulent City Palace, toujours habité par la famille royale de Jaipur, présentant une collection remarquable d'artefacts, de costumes et d'armes. Émerveillez-vous devant la brillance architecturale du Jantar Mantar, un ancien observatoire astronomique avec des instruments massifs qui sont des sites du patrimoine mondial de l'UNESCO.\n\nProfitez d'une promenade tranquille dans les bazars animés de la ville rose, où vous pourrez acheter de l'artisanat traditionnel, des bijoux, des textiles et des souvenirs. Savourez des saveurs rajasthanies authentiques dans un restaurant local pour le déjeuner.\n\nAvec un transport confortable et un guide expert, cette visite offre un mélange parfait d'histoire, de culture et de shopping, en rendant votre expérience de Jaipur vraiment inoubliable.\n\nJaipur est un paradis pour les photographes, offrant des vues époustouflantes et une architecture symétrique pour des photos dignes d'Instagram. Explorez ces lieux enchanteurs et capturez la culture unique que le Rajasthan a à offrir. Avec tant de beaux endroits à visiter à Jaipur, vous ne manquerez jamais d'occasions photo parfaites !\n\n### Ce qui est inclus\n\n- Guide privé\n- Visite du fort d'Amber\n- Visite du City Palace\n- Visite du Jantar Mantar\n- Visite du Hawa Mahal\n- Temps pour le shopping dans un marché local\n\n### Non inclus\n\n- Billets d'entrée\n- Nourriture",
+  "highlights": [
+   "Explorez la ville de Jaipur avec un guide privé qui vous emmènera à travers la ville rose"
+  ],
+  "included": [
+   "Guide privé\nVisite du fort d'Amber\nVisite du City Palace\nVisite du Jantar Mantar\nVisite du Hawa Mahal\nTemps pour le shopping dans un marché local"
+  ],
+  "notIncluded": [
+   "Billets d'entrée\nNourriture"
+  ]
+ },
+ "jaipur-2-day-private-tour-with-a-professional": {
+  "title": "Jaipur : visite privée de 2 jours avec un guide touristique professionnel",
+  "metaTitle": "Jaipur : visite privée de 2 jours",
+  "metaDescription": "Découvrez le Hawa Mahal, connu comme le « palais des vents », au cœur de la ville rose, puis le fort d'Amber et le Jal Mahal.",
+  "shortDescription": "Découvrez le Hawa Mahal, connu comme le « palais des vents », au cœur de la ville rose",
+  "fullDescription": "Jaipur : visite privée de 2 jours avec un guide touristique professionnel. Découvrez le Hawa Mahal, connu comme le « palais des vents », au cœur de la ville rose.\n\nExplorez la ville de Jaipur lors d'une visite de 2 jours. Visitez le Hawa Mahal, le Jantar Mantar, le City Palace et le musée Albert Hall. Découvrez le temple Galta Ji, le fort d'Amber et le Jal Mahal.\n\nLe jour 1, soyez pris en charge à votre hôtel ou à l'endroit souhaité dans la ville de Jaipur. Visitez le Hawa Mahal, connu comme le « palais des vents » situé au cœur de la ville rose. C'est l'un des bâtiments les plus photographiés en Inde.\n\nContinuez vers le Jantar Mantar pour sa collection d'instruments astronomiques architecturaux ; le City Palace pour ses célèbres portes colorées, sa collection d'antiquités, etc. ; les marchés locaux ; le shopping ; et la photographie au musée Albert Hall.\n\nSavourez le déjeuner dans un restaurant local, puis profitez d'une promenade patrimoniale dans la ville fortifiée, et continuez pour visiter le temple Galta Ji pour ses magnifiques temples et bassins d'eau sacrés.\n\nRetournez à votre hôtel, ou soyez déposé à l'endroit souhaité.\n\nLe jour 2, soyez pris en charge à votre hôtel. Visitez le plus ancien marché aux fleurs de la ville rose, puis continuez à visiter le Panna Meena Kund, un ancien puits à degrés construit à Amer situé en chemin vers le fort d'Amber. Explorez toutes les cours du fort et palais d'Amber, situé au sommet des collines Aravalli.\n\nArrêtez-vous au Jal Mahal (palais de l'île) pour la photographie, situé au milieu du lac Mansagar. Vous pourrez y observer des oiseaux régionaux et migrateurs.\n\nAprès le déjeuner, profitez de temps libre pour le shopping ou envisagez de suivre un cours d'impression au bloc avec un expert textile.\n\nVous serez déposé à votre hôtel.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel\n- Guide local\n- Transport en véhicule climatisé\n\n### Non inclus\n\n- Frais d'entrée à tous les sites\n- Pourboires\n- Dépenses personnelles",
+  "highlights": [
+   "Découvrez le Hawa Mahal, connu comme le « palais des vents », au cœur de la ville rose"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel\nGuide local\nTransport en véhicule climatisé"
+  ],
+  "notIncluded": [
+   "Frais d'entrée à tous les sites\nPourboires\nDépenses personnelles"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
