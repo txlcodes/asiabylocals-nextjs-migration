@@ -36026,6 +36026,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tarifas de entrada a todos los sitios\nPropinas\nGastos personales"
   ]
  },
+ "jaipur-henna-tattoo-workshop-with-welcome-drink": {
+  "title": "JAIPUR: taller de tatuaje de henna con bebida de bienvenida",
+  "metaTitle": "Jaipur: taller de tatuaje de henna",
+  "metaDescription": "Aprenda sobre la historia y las tradiciones de los tatuajes de henna en la cultura india, con bebida de bienvenida y galletas.",
+  "shortDescription": "Aprenda sobre la historia y las tradiciones de los tatuajes de henna en la cultura india",
+  "fullDescription": "JAIPUR: taller de tatuaje de henna con bebida de bienvenida. Aprenda sobre la historia y las tradiciones de los tatuajes de henna en la cultura india.\n\nExplore el significado cultural y las tradiciones del henna nupcial. Aprenda sobre la cultura india y las tradiciones de boda mientras crea su propio tatuaje de henna.\n\nComience su experiencia con una bebida de bienvenida: te, cafe, refresco o limonada. Recorra la cultura india y aprenda sobre las tradiciones de boda y otras costumbres donde se dibujan tatuajes de henna.\n\nDurante esta clase, aprenda sobre la breve historia y tradiciones del henna, los diferentes tipos de henna, la quimica y seguridad del henna, la mixologia del henna y como aplicar el henna usando conos de henna frescos. Obtenga orientacion profesional personalizada y aprenda sobre tecnicas de aplicacion, elementos de diseño y composicion.\n\nDespues de su clase, obtenga un tatuaje de henna en su palma o mano. Secelo con un secador y disfrute de algunas galletas.\n\n### Que incluye\n\n- Bebida de bienvenida (te, cafe, refresco o limonada)\n- Galletas\n- Orientacion profesional para la aplicacion de henna\n- Conos de henna frescos para la aplicacion\n- Instrucciones de cuidado posterior al henna\n\n### No incluye\n\n- Transporte hacia y desde el lugar",
+  "highlights": [
+   "Aprenda sobre la historia y las tradiciones de los tatuajes de henna en la cultura india"
+  ],
+  "included": [
+   "Bebida de bienvenida (te, cafe, refresco o limonada)\nGalletas\nOrientacion profesional para la aplicacion de henna\nConos de henna frescos para la aplicacion\nInstrucciones de cuidado posterior al henna"
+  ],
+  "notIncluded": [
+   "Transporte hacia y desde el lugar"
+  ]
+ },
+ "pink-city-of-rajasthan-jaipur-exclusive-tour-02": {
+  "title": "Ciudad rosa de Rajasthan, tour exclusivo de Jaipur (2 dias)",
+  "metaTitle": "Jaipur: tour exclusivo de 2 dias",
+  "metaDescription": "Visite el fuerte de Amber, ubicado en la cima de una colina con vista al lago Maota, con City Palace, Jantar Mantar y Hawa Mahal.",
+  "shortDescription": "Visite el fuerte de Amber, ubicado en la cima de una colina con vista al lago Maota",
+  "fullDescription": "Ciudad rosa de Rajasthan, tour exclusivo de Jaipur (2 dias). Visite el fuerte de Amber, ubicado en la cima de una colina con vista al lago Maota.\n\nDia 1: llegada al Aeropuerto Internacional de Delhi/recogida en el hotel de Delhi, hacia Jaipur\n\"Padharo Mhare Desh\"\nLlegada al Aeropuerto Internacional de Delhi T3/recogida en el hotel de Delhi, nuestro representante/conductor se reunira con usted en el punto de recogida sugerido y le ayudara a dirigirse hacia Jaipur. La capital del estado de Rajasthan, Jaipur, es conocida como la \"ciudad rosa\" por sus distintivos edificios de color rosa. A su llegada a Jaipur, registrese en el hotel, despues de refrescarse, proceda a un recorrido turistico de medio dia por la ciudad de Jaipur. Jantar Mantar: explore este observatorio astronomico, otro sitio del Patrimonio de la Humanidad de la UNESCO, conocido por sus instrumentos a gran escala utilizados para estudiar cuerpos celestiales. Hawa Mahal (Palacio de los Vientos), el Hawa Mahal es un simbolo iconico de Jaipur, caracterizado por su unica fachada rosa y estructura en forma de panal con numerosas ventanas pequenias (jharokhas). Pernoctacion en Jaipur.\n\nDia 2: Jaipur al Aeropuerto de Delhi/salida del hotel\nPor la manana, disfrute de su delicioso desayuno en el hotel, despues del desayuno proceda a la visita del fuerte de Amber, ubicado en la cima de una colina con vista al lago Maota, el fuerte de Amber es una magnifica fortaleza construida de arenisca roja y marmol. City Palace: visite el City Palace, que alberga un museo y ofrece informacion sobre la historia real de Jaipur. El City Palace es un extenso complejo que sirvio como sede del maharaja de Jaipur. Los puntos destacados incluyen el Mubarak Mahal, el Diwan-i-Khas, el Diwan-i-Aam y el Chandra Mahal.\nDespues del recorrido turistico, proceda hacia Delhi, a su llegada a Delhi, nuestro conductor lo dejara en el Aeropuerto de Delhi para su vuelo de continuacion de viaje.\n\n### Que incluye\n\n- 1 noche de alojamiento en hotel de 3 estrellas\n- 1 delicioso desayuno en el hotel\n- Recogida y traslado al hotel/aeropuerto/estacion de trenes\n- Transporte en vehiculo privado con aire acondicionado\n- Guia profesional aprobado por el gobierno\n- 2 botellas de agua mineral por persona y por dia\n- Todos los impuestos aplicables como combustible, estacionamiento y peajes, etc.\n\n### No incluye\n\n- Propinas\n- Tarifas de camara\n- Cualquier gasto personal\n- Tarifa de entrada a monumentos, tarifas de camara\n- Costo de la cena de gala de Fin de Anio y Navidad",
+  "highlights": [
+   "Visite el fuerte de Amber, ubicado en la cima de una colina con vista al lago Maota"
+  ],
+  "included": [
+   "1 noche de alojamiento en hotel de 3 estrellas.\n1 delicioso desayuno en el hotel.\nRecogida y traslado al hotel/aeropuerto/estacion de trenes\nTransporte en vehiculo privado con aire acondicionado.\nGuia profesional aprobado por el gobierno.\n2 botellas de agua mineral por persona y por dia.\nTodos los impuestos aplicables como combustible, estacionamiento y peajes, etc."
+  ],
+  "notIncluded": [
+   "Propinas\nTarifas de camara.\nCualquier gasto personal.\nTarifa de entrada a monumentos, tarifas de camara.\nCosto de la cena de gala de Fin de Anio y Navidad."
+  ]
+ },
+ "from-delhi-jaipur-guided-city-tour-with-hotel": {
+  "title": "Desde Delhi: tour guiado de la ciudad de Jaipur con recogida en el hotel",
+  "metaTitle": "Desde Delhi: tour guiado de Jaipur",
+  "metaDescription": "Explore Jaipur (la ciudad rosa) en un dia desde Delhi en coche con chofer: fuerte de Amer, City Palace, Hawa Mahal y mas.",
+  "shortDescription": "Explore Jaipur (la ciudad rosa) en un dia desde Delhi en coche con chofer",
+  "fullDescription": "Desde Delhi: tour guiado de la ciudad de Jaipur con recogida en el hotel. Explore Jaipur (la ciudad rosa) en un dia desde Delhi en coche con chofer.\n\nEmbarquese en un cautivador tour guiado por la ciudad de Jaipur desde Delhi. Partiendo temprano en la manana, sumerjase en la historia real de Jaipur con visitas al fuerte de Amer, el City Palace y el Hawa Mahal. Experimente las maravillas arquitectonicas del Jantar Mantar y el sereno Jal Mahal. Disfrute de un delicioso almuerzo local antes de ir de compras tranquilamente en vibrantes mercados. El dia concluye con un pintoresco recorrido de regreso a Delhi, asegurando que se sumerja en el encanto de Jaipur, todo en un solo dia. Sumerjase en la riqueza cultural de la ciudad rosa, llevandose recuerdos de sus majestuosos fuertes, palacios y vibrantes tradiciones.\n\nItinerario de la excursion de un dia:\n\n5:00h: salida de Delhi\n10:00h: llegada a Jaipur\n10:30h: exploracion del fuerte de Amer\n12:30h: visita al City Palace\n13:30h: almuerzo en un restaurante local\n14:30h: descubrimiento del Hawa Mahal\n15:30h: exploracion del Jantar Mantar\n17:00h: visita al Jal Mahal\n18:00h: tiempo libre para compras\n19:00h: salida hacia Delhi\n23:00h: llegada a Delhi\n\n### Que incluye\n\n- Recogida y traslado al hotel/aeropuerto desde Delhi, Gurugram, Noida o Ghaziabad\n- Guia turistico en vivo durante los recorridos\n- Recorridos privados en coche con aire acondicionado con chofer\n- Entradas pagadas a monumentos (si reservo esa opcion)\n- Delicioso almuerzo en un restaurante multicocina (si reservo esa opcion)\n- Botella de agua\n- Gastos de combustible e impuestos aplicables\n\n### No incluye\n\n- Propinas",
+  "highlights": [
+   "Explore Jaipur (la ciudad rosa) en un dia desde Delhi en coche con chofer"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto desde Delhi, Gurugram, Noida o Ghaziabad.\nGuia turistico en vivo durante los recorridos.\nRecorridos privados en coche con aire acondicionado con chofer.\nEntradas pagadas a monumentos. (si reservo esa opcion)\nDelicioso almuerzo en un restaurante multicocina. (si reservo esa opcion)\nBotella de agua\nGastos de combustible e impuestos aplicables"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
