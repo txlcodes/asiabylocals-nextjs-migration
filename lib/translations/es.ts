@@ -35594,6 +35594,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Ninguno"
   ]
  },
+ "2-days-overnight-jaipur-tour-from-delhi-private": {
+  "title": "Tour privado de 2 dias con pernoctacion en Jaipur desde Delhi",
+  "metaTitle": "Tour de 2 dias a Jaipur desde Delhi",
+  "metaDescription": "Descubra el legado real de Jaipur en un tour privado con pernoctacion desde Delhi, con alojamiento de 3 estrellas y guia en vivo.",
+  "shortDescription": "Descubra el legado real de Jaipur en un tour privado con pernoctacion desde Delhi",
+  "fullDescription": "Tour privado de 2 dias con pernoctacion en Jaipur desde Delhi. Descubra el legado real de Jaipur en un tour privado con pernoctacion desde Delhi.\n\n### Que incluye\n\n- Vehiculo privado con aire acondicionado para todo el tour\n- Conductor privado profesional\n- Transporte de ida y vuelta entre Delhi y Jaipur\n- Alojamiento en hotel de 3 estrellas por 1 noche\n- Habitacion doble/individual compartida segun se seleccione\n- Desayuno en el hotel\n- Guia turistico en vivo para los recorridos\n- Recogida y traslado segun lo especificado en la reserva\n- Todos los impuestos aplicables\n\n### No incluye\n\n- Entradas a monumentos\n- Propinas y gratificaciones\n- Gastos personales\n- Comida y bebidas distintas del desayuno incluido",
+  "highlights": [
+   "Descubra el legado real de Jaipur en un tour privado con pernoctacion desde Delhi"
+  ],
+  "included": [
+   "Vehiculo privado con aire acondicionado para todo el tour\nConductor privado profesional\nTransporte de ida y vuelta entre Delhi y Jaipur\nAlojamiento en hotel de 3 estrellas por 1 noche\nHabitacion doble/individual compartida segun se seleccione\nDesayuno en el hotel\nGuia turistico en vivo para los recorridos\nRecogida y traslado segun lo especificado en la reserva\nTodos los impuestos aplicables"
+  ],
+  "notIncluded": [
+   "Entradas a monumentos\nPropinas y gratificaciones\nGastos personales\nComida y bebidas distintas del desayuno incluido"
+  ]
+ },
+ "jaipur-night-wonders-a-guided-night-walking-tour": {
+  "title": "Maravillas nocturnas de Jaipur: un tour guiado nocturno a pie",
+  "metaTitle": "Jaipur: maravillas nocturnas, tour a pie",
+  "metaDescription": "Descubra el encanto iluminado de Jaipur en un tour guiado nocturno a pie de 2 horas, con degustaciones locales y comida callejera.",
+  "shortDescription": "Descubra el encanto iluminado de Jaipur: tour nocturno",
+  "fullDescription": "Maravillas nocturnas de Jaipur: un tour guiado nocturno a pie. Descubra el encanto iluminado de Jaipur: tour nocturno.\n\nExperimente la vibrante y bulliciosa vida nocturna de Jaipur en un tour guiado a pie de 2 horas. Guiado por un guia local conocedor, este tour lo llevara por las calles de la ciudad mientras cobra vida despues del anochecer. Visitara algunos de los monumentos y lugares mas iconicos de la ciudad, bellamente iluminados de noche, descubriendo los secretos e historias de la vida nocturna de la ciudad. Desde bulliciosos mercados hasta calles iluminadas, vera un lado de Jaipur que la mayoria de los turistas nunca experimentan.\n\nEn el camino, podra probar deliciosas especialidades locales y de la calle y disfrutar de bebidas refrescantes mientras contempla las vistas y sonidos de la ciudad. Este tour es perfecto para cualquiera que busque experimentar la energia y la emocion de Jaipur despues del anochecer, y para aquellos que quieren aprender sobre la ciudad y su cultura desde una perspectiva local. Unase a nosotros en este inolvidable tour nocturno y descubra por que Jaipur es verdaderamente paz por la noche.\n\n### Que incluye\n\n- Porciones de degustacion\n- Necesidades dieteticas especiales\n- Agua embotellada\n- Tiempo adecuado en cada lugar y oportunidad fotografica\n- Medidas de flexibilidad y seguridad\n\n### No incluye\n\n- Recogida y traslado al hotel\n- Bebidas alcoholicas\n- Propinas para los guias",
+  "highlights": [
+   "Descubra el encanto iluminado de Jaipur: tour nocturno"
+  ],
+  "included": [
+   "Porciones de degustacion\nNecesidades dieteticas especiales\nAgua embotellada\nTiempo adecuado en cada lugar y oportunidad fotografica\nMedidas de flexibilidad y seguridad"
+  ],
+  "notIncluded": [
+   "Recogida y traslado al hotel\nBebidas alcoholicas\nPropinas para los guias"
+  ]
+ },
+ "jaipur-evening-guided-tour-with-monkey-temple": {
+  "title": "Jaipur: tour guiado vespertino con el templo de los monos",
+  "metaTitle": "Jaipur: tour vespertino, templo de los monos",
+  "metaDescription": "Explore los principales monumentos de Jaipur en las horas mas frescas de la tarde: Royal Gaitor, Jal Mahal, taller de impresion con bloques y mas.",
+  "shortDescription": "Explore los principales monumentos de Jaipur en las horas mas frescas de la tarde",
+  "fullDescription": "Jaipur: tour guiado vespertino con el templo de los monos. Explore los principales monumentos de Jaipur en las horas mas frescas de la tarde.\n\nComience su viaje a ultima hora de la tarde con una visita al Royal Gaitor, un pacifico sitio de cremacion real conocido por sus cenotafios de marmol bellamente tallados frente a las colinas Aravalli. Continue hacia el pintoresco Jal Mahal, un impresionante palacio que flota en medio del lago Man Sagar, ofreciendo oportunidades fotograficas perfectas.\n\nA continuacion, disfrute de un taller practico de impresion con bloques, donde aprendera sobre las famosas tradiciones textiles de Jaipur. Bajo la guia de habiles artesanos locales, descubra las tecnicas de este antiguo oficio y cree su propio diseño unico.\n\nMas tarde, viaje al templo de los monos (Galta Ji), un complejo sagrado en la cima de una colina dedicado al senor Hanuman. Rodeado de manantiales naturales y monos sueltos, el templo ofrece un ambiente pacifico y una impresionante vista del atardecer sobre Jaipur.\n\nAl caer la noche, vea la ciudad cobrar vida con luces mientras pasa por monumentos iconicos como el Hawa Mahal, las vibrantes calles de la ciudad rosa y animados mercados locales. El tour concluye con un comodo traslado a su hotel.\n\n### Que incluye\n\n- Recogida y traslado al hotel\n- Guia turistico\n- Coche privado\n- Botella de agua\n- Todos los impuestos y estacionamiento\n\n### No incluye\n\n- Propinas",
+  "highlights": [
+   "Explore los principales monumentos de Jaipur en las horas mas frescas de la tarde"
+  ],
+  "included": [
+   "Recogida y traslado al hotel\nGuia turistico\nCoche privado\nBotella de agua\nTodos los impuestos y estacionamiento"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
