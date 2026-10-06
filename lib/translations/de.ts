@@ -36170,6 +36170,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder fuer Fahrer und Guide.\nEintrittsgebuehren fuer Denkmaeler\nMahlzeiten"
   ]
  },
+ "from-ranthambore-official-tiger-safari-in-canter": {
+  "title": "Ab Ranthambore: offizielle Tiger-Safari im Canter mit Guide",
+  "metaTitle": "Ranthambore: Tiger-Safari im Canter",
+  "metaDescription": "Entdecken Sie die vielfaeltige Flora und Fauna des Ranthambore Nationalparks auf einer gefuehrten Safari im offenen Canter.",
+  "shortDescription": "Entdecken Sie die vielfaeltige Flora und Fauna des Ranthambore Nationalparks",
+  "fullDescription": "Ab Ranthambore: offizielle Tiger-Safari im Canter mit Guide. Entdecken Sie die vielfaeltige Flora und Fauna des Ranthambore Nationalparks.\n\nBegeben Sie sich auf eine Tiersafari im Ranthambore Nationalpark, einem der besten Wildschutzgebiete Indiens. Erkunden Sie die vielfaeltige Flora und Fauna des Parks auf einer gefuehrten Safari im offenen Canter.\n\nTreffen Sie Ihren Guide und steigen Sie in das offene 20-sitzige Fahrzeug. Begeben Sie sich auf eine Safari durch die vielfaeltigen Landschaften des Parks. Halten Sie Ausschau nach Bengaltigern, Leoparden, Lippenbaeren, Wildschweinen, Hirscharten, Krokodilen und ueber 300 Vogelarten.\n\nHoeren Sie, wie Ihr Guide Einblicke in die Biodiversitaet des Parks teilt. Der Park ist in 10 Zonen unterteilt, jede mit einzigartigen Landschaften. Tigersichtungen sind haeufig in den Zonen 1 bis 5.\n\n### Im Preis enthalten\n\n- Eintrittsgebuehren fuer den Ranthambore Nationalpark\n- Eine geteilte Canter-Safari\n- Dienste eines professionellen Guides\n- Alle Steuern\n\n### Nicht enthalten\n\n- Trinkgelder und Essen",
+  "highlights": [
+   "Entdecken Sie die vielfaeltige Flora und Fauna des Ranthambore Nationalparks"
+  ],
+  "included": [
+   "Eintrittsgebuehren fuer den Ranthambore Nationalpark\nEine geteilte Canter-Safari\nDienste eines professionellen Guides\nAlle Steuern"
+  ],
+  "notIncluded": [
+   "Trinkgelder und Essen"
+  ]
+ },
+ "all-inclusive-jodhpur-full-or-half-day": {
+  "title": "All-Inclusive-Besichtigungstour Jodhpur, Ganztag oder Halbtag",
+  "metaTitle": "Jodhpur: All-Inclusive-Tour",
+  "metaDescription": "Erkunden Sie Jodhpurs wichtigste Sehenswuerdigkeiten mit einem sachkundigen lokalen Guide: Mehrangarh Fort, Jaswant Thada, Umaid Bhawan.",
+  "shortDescription": "Erkunden Sie Jodhpurs wichtigste Sehenswuerdigkeiten mit einem sachkundigen lokalen Guide",
+  "fullDescription": "All-Inclusive-Besichtigungstour Jodhpur, Ganztag oder Halbtag. Erkunden Sie Jodhpurs wichtigste Sehenswuerdigkeiten mit einem sachkundigen lokalen Guide.\n\nEntdecken Sie das koenigliche Erbe und die lebendige Kultur Jodhpurs, der beruehmten blauen Stadt Rajasthans. Diese Ganztages-Besichtigungstour umfasst grosse Festungen, elegante Palaeste, historische Denkmaeler und lebhafte lokale Maerkte und bietet eine perfekte Mischung aus Geschichte, Architektur und Alltagsleben.\n\nHalbtages-Jodhpur-Tour (4 Stunden) (wenn Option gewaehlt)\nBeginnen Sie mit der Abholung an Ihrem Hotel in Jodhpur.\n\n1. Mehrangarh Fort\nBesuchen Sie eine der groessten Festungen Indiens mit Panoramablicken auf die blauen Haeuser und koeniglichen Palaesten, Museen und Hoefen.\n\n2. Jaswant Thada\nErkunden Sie dieses schoene weisse Marmor-Kenotaph, erbaut zum Gedenken an Maharaja Jaswant Singh II.\n\n3. Umaid Bhawan Palace\nBesuchen Sie den grossen Palast (Museumsbereich), bekannt fuer seine koenigliche Geschichte und Indo-Deco-Architektur.\n\n4. Markt am Uhrturm\nErleben Sie das lokale Leben auf dem geschaeftigen Markt am Uhrturm, perfekt fuer Shopping und kulturellen Austausch.\n\nRueckfahrt zum Hotel\nGeniessen Sie eine komfortable Fahrt zurueck zu Ihrem Hotel.\n\n----------------------\nGanztages-Jodhpur-Tour (8 Stunden) (wenn Option gewaehlt)\nBeginnen Sie mit der Abholung an Ihrem Hotel in Jodhpur.\n\n1. Mehrangarh Fort\nBeginnen Sie die Tour mit einem gefuehrten Besuch einer der groessten und prachtvollsten Festungen Indiens. Erkunden Sie ihre Palaeste, Hoefe und das Museum, waehrend Sie mehr ueber die rajputische Geschichte und Legenden erfahren, und geniessen Sie Panoramablicke auf die blaue Stadt.\n\n2. Jaswant Thada\nBesuchen Sie das schoene weisse Marmor-Kenotaph, erbaut zum Gedenken an Maharaja Jaswant Singh II. Bewundern Sie die kunstvollen Schnitzereien, friedlichen Gaerten und ruhige Atmosphaere bei einer gefuehrten Tour.\n\n3. Umaid Bhawan Palace\nTreten Sie ein in koenigliche Eleganz im Umaid Bhawan Palace, einer der groessten privaten Residenzen der Welt. Erkunden Sie das Palastmuseum und erfahren Sie mehr ueber die koenigliche Familie, den architektonischen Stil und das Erbe Jodhpurs.\n\n4. Uhrturm (Ghanta Ghar)\nHalten Sie am ikonischen Uhrturm Jodhpurs fuer Fotos und einen gefuehrten Spaziergang durch das historische Altstadtgebiet.\n\n5. Sardar-Markt, Jodhpur\nBesuchen Sie den geschaeftigen Sardar-Markt, bekannt fuer Gewuerze, Textilien, Kunsthandwerk und lokale Produkte. Erleben Sie das lebendige Alltagsleben Jodhpurs und geniessen Sie Zeit fuer Fotos und Erkundung.\n\n6. Mandore-Gaerten (optional)\nBesuchen Sie die Mandore-Gaerten, die ehemalige Hauptstadt von Marwar. Geniessen Sie einen gefuehrten Spaziergang durch historische Kenotaphe, Tempel und angelegte Gaerten, der Einblick in die fruehe koenigliche Geschichte der Region bietet.\n\nRueckfahrt nach Jodhpur\nBeenden Sie Ihre Tour mit einer komfortablen Fahrt zurueck zu Ihrem Hotel.\n\n### Im Preis enthalten\n\n- Abholung und Rueckfahrt zum Hotel\n- Privates klimatisiertes Auto\n- Professioneller Reiseleiter\n- Eintrittskarten fuer Denkmaeler (wenn Option gewaehlt)\n- Mittagessen (wenn Option gewaehlt)\n- Wasserflasche\n- Alle Steuern und Parkgebuehren\n\n### Nicht enthalten\n\n- Trinkgelder",
+  "highlights": [
+   "Erkunden Sie Jodhpurs wichtigste Sehenswuerdigkeiten mit einem sachkundigen lokalen Guide"
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel\nPrivates klimatisiertes Auto\nProfessioneller Reiseleiter\nEintrittskarten fuer Denkmaeler (wenn Option gewaehlt)\nMittagessen (wenn Option gewaehlt)\nWasserflasche\nAlle Steuern und Parkgebuehren"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "all-inclusive-same-day-jaipur-city-tour-by-train": {
+  "title": "All-Inclusive-Stadttour durch Jaipur mit dem Zug ab Delhi, am selben Tag",
+  "metaTitle": "Jaipur per Zug ab Delhi, All-Inclusive",
+  "metaDescription": "Geniessen Sie eine im Preis enthaltene Hin- und Rueckfahrt mit dem Zug von Delhi nach Jaipur: Amber Fort, City Palace, Jantar Mantar, Hawa Mahal.",
+  "shortDescription": "Geniessen Sie eine im Preis enthaltene Hin- und Rueckfahrt mit dem Zug von Delhi nach Jaipur",
+  "fullDescription": "All-Inclusive-Stadttour durch Jaipur mit dem Zug ab Delhi, am selben Tag. Geniessen Sie eine im Preis enthaltene Hin- und Rueckfahrt mit dem Zug von Delhi nach Jaipur.\n\n1. Abfahrt von Delhi\nSteigen Sie in den Zug von Delhi nach Jaipur und geniessen Sie leichte Erfrischungen auf der Reise.\n\n2. Ankunft in Jaipur und Treffen mit Ihrem Guide\nBeginnen Sie die Stadttour direkt bei der Ankunft am Bahnhof Jaipur.\n\n3. Amber Fort und optionale Elefanten- oder Jeep-Fahrt\nErkunden Sie das prachtvolle Amber Fort und seine Architektur.\nOptional: nehmen Sie eine Elefanten- oder Jeep-Fahrt zum Eingang der Festung.\n\n4. City Palace und Jantar Mantar\nBesuchen Sie den koeniglichen City Palace, einschliesslich Museen und Hoefen.\nErkunden Sie das Jantar Mantar, ein UNESCO-Weltkulturerbe-Observatorium.\n\n5. Mittagessen in einem lokalen Restaurant\nGeniessen Sie eine traditionelle rajasthanische Mahlzeit, die im Tourpaket enthalten ist.\n\n6. Hawa Mahal (Palast der Winde)\nHalten Sie fuer Fotos und einen kurzen Besuch der ikonischen Sehenswuerdigkeit aus rosa Sandstein.\n\n7. Besuch des lokalen Marktes/Fotostopps\nErkunden Sie Jaipurs lebendige Maerkte wie den Johari Bazaar oder Bapu Bazaar.\nGelegenheit, Kunsthandwerk, Textilien und Souvenirs zu kaufen.\n\n8. Rueckfahrt nach Delhi mit dem Zug\nSteigen Sie in Ihren Zug zurueck nach Delhi und schliessen Sie die Tour bei der Ankunft ab.\n\n### Im Preis enthalten\n\n- Abholung und Rueckfahrt zum Hotel/Flughafen\n- Privates klimatisiertes Auto fuer Besichtigungen mit Fahrer\n- Staatlich zugelassener Live-Reiseleiter\n- Hin- und Rueckfahrkarten fuer den Zug (wenn Option gewaehlt)\n- Eintrittskarten fuer Denkmaeler (wenn Option gewaehlt)\n- Mittagessen im Restaurant (wenn Option gewaehlt)\n- Mineralwasserflasche\n- Alle Mautgebuehren und Parkgebuehren\n\n### Nicht enthalten\n\n- Jegliche persoenlichen Ausgaben",
+  "highlights": [
+   "Geniessen Sie eine im Preis enthaltene Hin- und Rueckfahrt mit dem Zug von Delhi nach Jaipur"
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel/Flughafen\nPrivates klimatisiertes Auto fuer Besichtigungen mit Fahrer\nStaatlich zugelassener Live-Reiseleiter\nHin- und Rueckfahrkarten fuer den Zug (wenn Option gewaehlt)\nEintrittskarten fuer Denkmaeler (wenn Option gewaehlt)\nMittagessen im Restaurant (wenn Option gewaehlt)\nMineralwasserflasche\nAlle Mautgebuehren und Parkgebuehren"
+  ],
+  "notIncluded": [
+   "Jegliche persoenlichen Ausgaben"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
