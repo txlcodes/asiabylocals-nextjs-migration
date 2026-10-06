@@ -35738,6 +35738,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Alquiler de equipo de camara\nComida y bebidas"
   ]
  },
+ "jaipur-wedding-outfit-shopping-tour-with-local-guy": {
+  "title": "Jaipur: tour de compras de atuendos de boda con un guia local",
+  "metaTitle": "Jaipur: compras de atuendos de boda",
+  "metaDescription": "Explore los mercados iconicos de Jaipur con expertos locales: lehengas, saris, sherwanis y joyeria tradicional.",
+  "shortDescription": "Explore los mercados iconicos de Jaipur con expertos locales.",
+  "fullDescription": "Jaipur: tour de compras de atuendos de boda con un guia local. Explore los mercados iconicos de Jaipur con expertos locales.\n\nExperimente la vibrante cultura de Jaipur en este tour de compras de atuendos de boda. Guiado por expertos locales, explore los mejores mercados y tiendas de la ciudad para conseguir atuendos nupciales exquisitos, incluidos lehengas tradicionales, saris y sherwanis. Descubra disenios intrincados, colores vibrantes y telas lujosas, perfectos para sus celebraciones de boda. Disfrute de asistencia de compras personalizada para encontrar el atuendo de boda perfecto, mientras aprende sobre el rico patrimonio textil de Jaipur.\n\n***BADI CHAUPAR***\nComience su tour en Badi Chaupar, uno de los mercados mas antiguos e iconicos de Jaipur. Explore una diversa seleccion de saris de boda, lehengas y trajes en el vibrante mercado.\n\n***CHOTI CHAUPAR***\nA continuacion, dirijase a Choti Chaupar, otro mercado popular de Jaipur. Explore una variedad de atuendos de boda para hombres, incluidos sherwanis, kurta pijamas y vestidos punjabi.\n\n***PAUSA PARA ALMORZAR***\nTome un descanso para almorzar en un restaurante local y disfrute de los famosos platos de Jaipur.\n\n***TRIPOLIA BAZAR***\nEl Tripolia Bazar es reconocido por sus exquisitas pulseras y joyeria de laca, lo que lo convierte en uno de los mejores lugares de Jaipur para comprar estos articulos. Tambien es un gran lugar para textiles, ofreciendo las populares telas teñidas Bandini y hermosas piezas bordadas.\n\n***CHANDPOL BAZAR***\nEl Chandpole Bazar en Jaipur es un mercado animado conocido por su artesania tradicional, textiles coloridos, joyeria rajastani y ceramica. Ofrece un vistazo al rico patrimonio cultural de Jaipur, perfecto para comprar recuerdos.\n\n***KISHANPOL BAZAR***\nVisite el Kishanpol Bazar, conocido por su atuendo tradicional rajastani. Explore una amplia gama de atuendos de boda y accesorios, mostrando textiles vibrantes y disenios intrincados.\n\n***RAMGHAJ BAZAR***\nEl Ramghaj Bazar es un centro vibrante que ofrece una exquisita coleccion de ropa tradicional rajastani, incluidos lehengas, saris, kurtas y pijamas. Sumerjase en el rico patrimonio cultural de Rajasthan mientras explora el animado ambiente del mercado, su intrincada arquitectura y su impresionante variedad de prendas coloridas.\n\n### Que incluye\n\n- Viaje con comodidad y estilo con nuestros vehiculos con aire acondicionado.\n- Explore el mercado de la ciudad con la guia de un experto local.\n- Agua embotellada",
+  "highlights": [
+   "Explore los mercados iconicos de Jaipur con expertos locales."
+  ],
+  "included": [
+   "Viaje con comodidad y estilo con nuestros vehiculos con aire acondicionado.\nExplore el mercado de la ciudad con la guia de un experto local.\nAgua embotellada"
+  ],
+  "notIncluded": [
+   "Comida y bebidas\nGastos personales\nPropinas"
+  ]
+ },
+ "jaipur-pushkar-day-trip-with-optional-camel-safari": {
+  "title": "Jaipur: excursion de un dia a Pushkar con safari en camello opcional",
+  "metaTitle": "Jaipur: excursion a Pushkar, safari en camello",
+  "metaDescription": "Descubra el ambiente sereno del lago Pushkar y sus ghats, el templo de Brahma, el bazar y un safari en camello opcional.",
+  "shortDescription": "Descubra el ambiente sereno del lago Pushkar y sus ghats",
+  "fullDescription": "Jaipur: excursion de un dia a Pushkar con safari en camello opcional. Descubra el ambiente sereno del lago Pushkar y sus ghats.\n\nDescubra lo mejor de Pushkar en un tour de dia completo desde Jaipur. Visite el templo de Brahma, paseese por el lago Pushkar y explore el bazar de Pushkar. Disfrute de un safari en camello y observe el atardecer sobre las dunas.\n\nJaipur a Pushkar\nParta desde Jaipur y disfrute de vistas pintorescas en el camino. Llegue a Pushkar y comience su visita con un desayuno ligero en un cafe local.\n\nVisita al templo de Brahma\nVisite el templo de Brahma, uno de los pocos templos dedicados al senor Brahma en el mundo.\n\nPaseos serenos alrededor del lago Pushkar y sus ghats\nPaseese por el lago Pushkar y sus ghats, como Varaha Ghat y Gau Ghat. Experimente el ambiente sereno y observe a los locales realizando rituales.\n\nBazar de Pushkar\nCamine por el bazar de Pushkar, conocido por su colorida artesania, joyeria, textiles y recuerdos.\n\nSafari en camello en Pushkar: una aventura desertica inolvidable\nDirijase a su punto de partida del safari en camello cerca de las afueras de Pushkar. Comience su safari en camello y explore los rusticos paisajes desertico alrededor de Pushkar. Interactue con los aldeanos locales y aprenda sobre su cultura.\nNota: actividades como el safari en camello u otras actividades opcionales seran a su propio costo.\n\nObserve el impresionante atardecer sobre las dunas de arena\nObserve el atardecer sobre las dunas. Esta es una experiencia magica mientras los tonos dorados iluminan el desierto y las colinas circundantes. Tome fotos o simplemente disfrute de la tranquilidad del momento.\n\n↪ Regreso a Jaipur\nDespues de explorar la ciudad sagrada de Pushkar, regrese a Jaipur. A su llegada, lo dejaran en su hotel.\n\n### Que incluye\n\n- Transporte privado con un conductor de habla inglesa\n- Recogida y traslado al hotel\n- Agua embotellada de cortesia",
+  "highlights": [
+   "Descubra el ambiente sereno del lago Pushkar y sus ghats"
+  ],
+  "included": [
+   "Transporte privado con un conductor de habla inglesa\nRecogida y traslado al hotel\nAgua embotellada de cortesia"
+  ],
+  "notIncluded": [
+   "Comida y bebidas.\nPropinas y gratificaciones.\nGastos personales.\nSafari en camello y otras actividades."
+  ]
+ },
+ "from-udaipur-to-jaipur-pushkar-chittorgarh-day": {
+  "title": "De Udaipur a Jaipur: tour de un dia a Pushkar y Chittorgarh",
+  "metaTitle": "De Udaipur a Jaipur: Pushkar y Chittorgarh",
+  "metaDescription": "Visite el fuerte de Chittorgarh, el fuerte mas grande catalogado por la UNESCO de India, luego Pushkar y su lago sagrado hacia Jaipur.",
+  "shortDescription": "Visite el fuerte de Chittorgarh, el fuerte mas grande catalogado por la UNESCO de India",
+  "fullDescription": "De Udaipur a Jaipur: tour de un dia a Pushkar y Chittorgarh. Visite el fuerte de Chittorgarh, el fuerte mas grande catalogado por la UNESCO de India.\n\nComience su viaje con una comoda recogida en su ubicacion en Udaipur. Conduzca hacia Chittorgarh, hogar del fuerte mas grande y mas historico de India.\n\nFuerte de Chittorgarh\nExplore el majestuoso fuerte de Chittorgarh, un sitio del Patrimonio de la Humanidad de la UNESCO que sirvio como capital de Mewar. Extendiendose sobre 280 hectareas, este fuerte se encuentra en la cima de una colina de 180 metros de altura, ofreciendo vistas panoramicas de la region. Descubra sus antiguos palacios, grandes puertas, templos y dos iconicas torres, Vijay Stambh y Kirti Stambh, cada una narrando historias de valentia y sacrificio Rajput.\n\nPushkar\nContinue hacia Pushkar, una sagrada ciudad hindu en el borde del desierto de Thar, famosa por su importancia espiritual y ambiente vibrante. Visite el venerado templo de Brahma, uno de los pocos templos dedicados al senor Brahma, donde se cree que realizo un Yagya (ritual de fuego). Paseese por los ghats del sagrado lago Pushkar, donde los peregrinos se reunen para banios y rituales sagrados. Experimente el ambiente sereno de la ciudad y admire sus templos centenarios, mercados coloridos y aura espiritual.\n\nJaipur\nDespues de una enriquecedora exploracion de Chittorgarh y Pushkar, emprenda un pintoresco viaje a Jaipur. A su llegada, concluya su viaje con un comodo traslado a su ubicacion preferida en la ciudad rosa, dejandole recuerdos inolvidables del patrimonio y la espiritualidad de Rajasthan.\n\n### Que incluye\n\n- Todos los traslados y visitas en vehiculo privado\n- Peaje, estacionamiento, asignacion del conductor y combustible\n- Guia profesional (si se elige la opcion)\n- Entradas incluidas (si se elige la opcion)\n\n### No incluye\n\n- No se incluye ningun tipo de gasto personal\n- Almuerzo/cena/bebidas",
+  "highlights": [
+   "Visite el fuerte de Chittorgarh, el fuerte mas grande catalogado por la UNESCO de India"
+  ],
+  "included": [
+   "Todos los traslados y visitas en vehiculo privado\nPeaje, estacionamiento, asignacion del conductor y combustible\nGuia profesional (si se elige la opcion)\nEntradas incluidas (si se elige la opcion)"
+  ],
+  "notIncluded": [
+   "No se incluye ningun tipo de gasto personal\nAlmuerzo/cena/bebidas"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",

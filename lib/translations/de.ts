@@ -35738,6 +35738,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Kameraausruestung-Verleih\nEssen und Getraenke"
   ]
  },
+ "jaipur-wedding-outfit-shopping-tour-with-local-guy": {
+  "title": "Jaipur: Hochzeitsoutfit-Shoppingtour mit lokalem Guide",
+  "metaTitle": "Jaipur: Shopping Hochzeitsoutfit",
+  "metaDescription": "Erkunden Sie Jaipurs ikonische Maerkte mit lokalen Experten: Lehengas, Saris, Sherwanis und traditioneller Schmuck.",
+  "shortDescription": "Erkunden Sie Jaipurs ikonische Maerkte mit lokalen Experten.",
+  "fullDescription": "Jaipur: Hochzeitsoutfit-Shoppingtour mit lokalem Guide. Erkunden Sie Jaipurs ikonische Maerkte mit lokalen Experten.\n\nErleben Sie die lebendige Kultur Jaipurs auf dieser Hochzeitsoutfit-Shoppingtour. Gefuehrt von lokalen Experten, erkunden Sie die besten Maerkte und Geschaefte der Stadt fuer exquisite Brautkleidung, einschliesslich traditioneller Lehengas, Saris und Sherwanis. Entdecken Sie kunstvolle Designs, lebendige Farben und luxurioese Stoffe, perfekt fuer Ihre Hochzeitsfeierlichkeiten. Geniessen Sie persoenliche Shopping-Unterstuetzung, um das perfekte Hochzeitsoutfit zu finden, waehrend Sie Jaipurs reiches Textilerbe kennenlernen.\n\n***BADI CHAUPAR***\nBeginnen Sie Ihre Tour am Badi Chaupar, einem der aeltesten und ikonischsten Maerkte Jaipurs. Erkunden Sie eine vielfaeltige Auswahl an Hochzeits-Saris, Lehengas und Anzuegen auf dem lebendigen Markt.\n\n***CHOTI CHAUPAR***\nAls Naechstes geht es zum Choti Chaupar, einem weiteren beliebten Markt in Jaipur. Erkunden Sie eine Vielzahl von Herren-Hochzeitskleidung, einschliesslich Sherwanis, Kurta-Pyjamas und Punjabi-Kleidern.\n\n***MITTAGSPAUSE***\nMachen Sie eine Mittagspause in einem lokalen Restaurant und geniessen Sie Jaipurs beruehmte Gerichte.\n\n***TRIPOLIA BAZAR***\nDer Tripolia Bazar ist beruehmt fuer seine exquisiten Armreifen und Lack-Schmuck, was ihn zu einem der besten Orte in Jaipur macht, um diese Artikel zu kaufen. Er ist auch ein grossartiger Ort fuer Textilien und bietet beliebte Bandini-Krawattenfarb-Stoffe und wunderschoen bestickte Stuecke.\n\n***CHANDPOL BAZAR***\nDer Chandpole Bazar in Jaipur ist ein lebhafter Markt, bekannt fuer traditionelles Kunsthandwerk, farbenfrohe Textilien, rajasthanischen Schmuck und Keramik. Er bietet einen Einblick in Jaipurs reiches kulturelles Erbe, perfekt fuer den Souvenirkauf.\n\n***KISHANPOL BAZAR***\nBesuchen Sie den Kishanpol Bazar, bekannt fuer seine traditionelle rajasthanische Kleidung. Erkunden Sie eine breite Palette an Hochzeitsoutfits und Accessoires mit lebendigen Textilien und kunstvollen Designs.\n\n***RAMGHAJ BAZAR***\nDer Ramghaj Bazar ist ein lebendiges Zentrum mit einer exquisiten Sammlung traditioneller rajasthanischer Kleidung, einschliesslich Lehengas, Saris, Kurtas und Pyjamas. Tauchen Sie ein in das reiche kulturelle Erbe Rajasthans, waehrend Sie die lebhafte Atmosphaere des Marktes, seine kunstvolle Architektur und seine atemberaubende Vielfalt an farbenfrohen Kleidungsstuecken erkunden.\n\n### Im Preis enthalten\n\n- Reisen Sie komfortabel und stilvoll mit unseren klimatisierten Fahrzeugen.\n- Erkunden Sie den Stadtmarkt mit der Anleitung eines lokalen Experten.\n- Flaschenwasser",
+  "highlights": [
+   "Erkunden Sie Jaipurs ikonische Maerkte mit lokalen Experten."
+  ],
+  "included": [
+   "Reisen Sie komfortabel und stilvoll mit unseren klimatisierten Fahrzeugen.\nErkunden Sie den Stadtmarkt mit der Anleitung eines lokalen Experten.\nFlaschenwasser"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke\nPersoenliche Ausgaben\nTrinkgelder"
+  ]
+ },
+ "jaipur-pushkar-day-trip-with-optional-camel-safari": {
+  "title": "Jaipur: Tagesausflug nach Pushkar mit optionaler Kamelsafari",
+  "metaTitle": "Jaipur: Ausflug nach Pushkar, Kamelsafari",
+  "metaDescription": "Entdecken Sie die ruhige Umgebung des Pushkar-Sees und seiner Ghats, den Brahma-Tempel, den Bazar und eine optionale Kamelsafari.",
+  "shortDescription": "Entdecken Sie die ruhige Umgebung des Pushkar-Sees und seiner Ghats",
+  "fullDescription": "Jaipur: Tagesausflug nach Pushkar mit optionaler Kamelsafari. Entdecken Sie die ruhige Umgebung des Pushkar-Sees und seiner Ghats.\n\nEntdecken Sie die Highlights von Pushkar auf einer Ganztagestour ab Jaipur. Besuchen Sie den Brahma-Tempel, schlendern Sie durch den Pushkar-See und erkunden Sie den Pushkar-Bazar. Geniessen Sie eine Kamelsafari und beobachten Sie den Sonnenuntergang ueber den Duenen.\n\nJaipur nach Pushkar\nFahren Sie von Jaipur ab und geniessen Sie malerische Ausblicke auf dem Weg. Kommen Sie in Pushkar an und beginnen Sie Ihren Besuch mit einem leichten Fruehstueck in einem lokalen Café.\n\nBesuch des Brahma-Tempels\nBesuchen Sie den Brahma-Tempel, einen der sehr wenigen Tempel, die dem Gott Brahma gewidmet sind, weltweit.\n\nRuhige Spaziergaenge um den Pushkar-See und die Ghats\nSchlendern Sie durch den Pushkar-See und seine Ghats, wie Varaha Ghat und Gau Ghat. Erleben Sie die ruhige Umgebung und beobachten Sie Einheimische bei Ritualen.\n\nPushkar-Bazar\nGehen Sie durch den Pushkar-Bazar, bekannt fuer sein farbenfrohes Kunsthandwerk, Schmuck, Textilien und Souvenirs.\n\nPushkar-Kamelsafari: ein unvergessliches Wuestenabenteuer\nBegeben Sie sich zu Ihrem Kamelsafari-Startpunkt am Stadtrand von Pushkar. Beginnen Sie Ihre Kamelsafari und erkunden Sie die rustikalen Wuestenlandschaften um Pushkar. Interagieren Sie mit lokalen Dorfbewohnern und lernen Sie ihre Kultur kennen.\nHinweis: Aktivitaeten wie die Kamelsafari oder andere optionale Aktivitaeten gehen auf Ihre eigenen Kosten.\n\nErleben Sie den atemberaubenden Sonnenuntergang ueber den Sanddünen\nErleben Sie den Sonnenuntergang ueber den Duenen. Dies ist ein magisches Erlebnis, waehrend die goldenen Toene die Wueste und die umgebenden Huegel erleuchten. Machen Sie Fotos oder geniessen Sie einfach die Ruhe des Moments.\n\n↪ Rueckkehr nach Jaipur\nNach der Erkundung der heiligen Stadt Pushkar kehren Sie nach Jaipur zurueck. Bei der Ankunft werden Sie an Ihrem Hotel abgesetzt.\n\n### Im Preis enthalten\n\n- Privater Transport mit einem englischsprachigen Fahrer\n- Abholung und Rueckfahrt zum Hotel\n- Kostenloses Flaschenwasser",
+  "highlights": [
+   "Entdecken Sie die ruhige Umgebung des Pushkar-Sees und seiner Ghats"
+  ],
+  "included": [
+   "Privater Transport mit einem englischsprachigen Fahrer\nAbholung und Rueckfahrt zum Hotel\nKostenloses Flaschenwasser"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke.\nTrinkgelder und Gratifikationen.\nPersoenliche Ausgaben.\nKamelsafari und andere Aktivitaeten."
+  ]
+ },
+ "from-udaipur-to-jaipur-pushkar-chittorgarh-day": {
+  "title": "Von Udaipur nach Jaipur: Tagestour nach Pushkar und Chittorgarh",
+  "metaTitle": "Von Udaipur nach Jaipur: Pushkar und Chittorgarh",
+  "metaDescription": "Besuchen Sie das Chittorgarh Fort, Indiens groesste UNESCO-gelistete Festung, dann Pushkar und seinen heiligen See auf dem Weg nach Jaipur.",
+  "shortDescription": "Besuchen Sie das Chittorgarh Fort, Indiens groesste UNESCO-gelistete Festung",
+  "fullDescription": "Von Udaipur nach Jaipur: Tagestour nach Pushkar und Chittorgarh. Besuchen Sie das Chittorgarh Fort, Indiens groesste UNESCO-gelistete Festung.\n\nBeginnen Sie Ihre Reise mit einer bequemen Abholung an Ihrem Standort in Udaipur. Fahren Sie nach Chittorgarh, der Heimat von Indiens groesster und historischster Festung.\n\nChittorgarh Fort\nErkunden Sie das majestaetische Chittorgarh Fort, eine UNESCO-Weltkulturerbestaette, die als Hauptstadt von Mewar diente. Auf einer Flaeche von 280 Hektar erstreckt sich diese Festung auf einem 180 Meter hohen Huegel und bietet Panoramablicke auf die Region. Entdecken Sie ihre antiken Palaeste, grossen Tore, Tempel und zwei ikonische Tuerme, Vijay Stambh und Kirti Stambh, die jeweils Geschichten von Rajput-Tapferkeit und Opferbereitschaft erzaehlen.\n\nPushkar\nWeiter geht es nach Pushkar, einer heiligen Hindu-Stadt am Rande der Thar-Wueste, beruehmt fuer ihre spirituelle Bedeutung und lebendige Atmosphaere. Besuchen Sie den verehrten Brahma-Tempel, einen der wenigen Tempel, die dem Gott Brahma gewidmet sind, wo er angeblich ein Yagya (Feuerritual) durchfuehrte. Spazieren Sie entlang der Ghats des heiligen Pushkar-Sees, wo Pilger sich fuer heilige Baeder und Rituale versammeln. Erleben Sie die ruhige Atmosphaere der Stadt und bewundern Sie ihre jahrhundertealten Tempel, farbenfrohen Maerkte und spirituelle Aura.\n\nJaipur\nNach einer bereichernden Erkundung von Chittorgarh und Pushkar begeben Sie sich auf eine malerische Fahrt nach Jaipur. Bei der Ankunft schliessen Sie Ihre Reise mit einer bequemen Abgabe an Ihrem bevorzugten Ort in der Pink City ab und nehmen unvergessliche Erinnerungen an Rajasthans Erbe und Spiritualitaet mit.\n\n### Im Preis enthalten\n\n- Alle Transfers und Besichtigungen im privaten Fahrzeug\n- Mautgebuehren, Parkgebuehren, Fahrerzuschuss und Kraftstoff\n- Professioneller Guide (wenn Option gewaehlt)\n- Eintrittskarten enthalten (wenn Option gewaehlt)\n\n### Nicht enthalten\n\n- Keine Art von persoenlichen Ausgaben ist enthalten\n- Mittagessen/Abendessen/Getraenke",
+  "highlights": [
+   "Besuchen Sie das Chittorgarh Fort, Indiens groesste UNESCO-gelistete Festung"
+  ],
+  "included": [
+   "Alle Transfers und Besichtigungen im privaten Fahrzeug\nMautgebuehren, Parkgebuehren, Fahrerzuschuss und Kraftstoff\nProfessioneller Guide (wenn Option gewaehlt)\nEintrittskarten enthalten (wenn Option gewaehlt)"
+  ],
+  "notIncluded": [
+   "Keine Art von persoenlichen Ausgaben ist enthalten\nMittagessen/Abendessen/Getraenke"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
