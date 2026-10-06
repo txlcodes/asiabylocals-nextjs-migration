@@ -36506,6 +36506,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Essen und Getraenke\nTrinkgelder"
   ]
  },
+ "jaipurs-artisans-trail-a-walking-tour-with-local": {
+  "title": "Jaipurs Handwerkerpfad: eine Wandertour mit lokalen Handwerkern",
+  "metaTitle": "Jaipur: Handwerkerpfad zu Fuss",
+  "metaDescription": "Staunen Sie ueber die kunstvolle Architektur des ikonischen Hawa Mahal, dann entdecken Sie Blockdruck, Keramik und Edelsteinschliff.",
+  "shortDescription": "Staunen Sie ueber die kunstvolle Architektur des ikonischen Hawa Mahal",
+  "fullDescription": "Jaipurs Handwerkerpfad: eine Wandertour mit lokalen Handwerkern. Staunen Sie ueber die kunstvolle Architektur des ikonischen Hawa Mahal.\n\nBeginnen Sie am ikonischen Hawa Mahal, wo das Gespuer der Stadt fuer kunstvolles Design in seiner auffaelligen Architektur zum Leben erweckt wird. Betreten Sie die Welt des Blockdrucks und der Textilien, wo traditionelle Techniken kuehne Muster und Farben zum Leben erwecken.\n\nWeiter geht es zu einer Toepferwerkstatt, wo Sie beobachten koennen, wie die rote Erde Jaipurs unter den Haenden erfahrener Handwerker zu eleganten Tonkreationen wird. Als Naechstes erleben Sie die uralte Kunst des Edelsteinschliffs, bei der unpolierte Steine sorgfaeltig in schillernde Juwelen verwandelt werden, die einst von Jaipurs Koenigshaus geschaetzt wurden.\n\nErkunden Sie Schmuckherstellungs-Werkstaetten, wo Handwerker kunstvolle Designs schaffen, die den kulturellen Reichtum der Stadt widerspiegeln. Schliesslich tauchen Sie ein in die zarte Tradition der Miniaturmalerei, wo Kuenstler Geschichten durch winzige, detaillierte Pinselstriche zum Leben erwecken.\n\n### Im Preis enthalten\n\n- Englisch-/Hindi-sprechender Live-Reiseleiter\n- Blockdruck- und Textilien-Workshop\n- Toepferwerkstatt\n- Edelsteinschliff-Vorfuehrung\n- Schmuckherstellungs-Workshop\n- Miniaturmalerei-Sitzung\n\n### Nicht enthalten\n\n- Mahlzeiten\n- Transport zum und vom Treffpunkt",
+  "highlights": [
+   "Staunen Sie ueber die kunstvolle Architektur des ikonischen Hawa Mahal"
+  ],
+  "included": [
+   "Englisch-/Hindi-sprechender Live-Reiseleiter\nBlockdruck- und Textilien-Workshop\nToepferwerkstatt\nEdelsteinschliff-Vorfuehrung\nSchmuckherstellungs-Workshop\nMiniaturmalerei-Sitzung"
+  ],
+  "notIncluded": [
+   "Mahlzeiten\nTransport zum und vom Treffpunkt"
+  ]
+ },
+ "jaipur-4-hours-nahargarh-and-jaigarh-forts-tuk": {
+  "title": "Jaipur: 4-stuendige Tuk-Tuk-Tour zu den Festungen Nahargarh und Jaigarh",
+  "metaTitle": "Jaipur: Nahargarh und Jaigarh im Tuk-Tuk",
+  "metaDescription": "Entdecken Sie die Festungen Nahargarh und Jaigarh bei einer 4-stuendigen Tuk-Tuk-Tour, mit Panoramablicken auf Jaipur.",
+  "shortDescription": "Entdecken Sie die Festungen Nahargarh und Jaigarh bei einer Tuk-Tuk-Tour",
+  "fullDescription": "Jaipur: 4-stuendige Tuk-Tuk-Tour zu den Festungen Nahargarh und Jaigarh. Entdecken Sie die Festungen Nahargarh und Jaigarh bei einer Tuk-Tuk-Tour.\n\nBegeben Sie sich auf ein aufregendes 4-stuendiges Abenteuer durch Jaipurs majestaetische Festungen bei einer Tuk-Tuk-Tour. Erkunden Sie das historische Nahargarh Fort und das Jaigarh Fort und geniessen Sie atemberaubende Ausblicke auf die Stadt.\n\nTourablauf\n\nStopp 1: Nahargarh Fort (9:00-10:00 Uhr)\n\nBeginnen Sie die Tour mit einem Besuch des Nahargarh Forts, einer atemberaubenden Festung aus dem XVIII. Jahrhundert, die auf einem Huegel mit Blick auf Jaipur thront. Erfahren Sie mehr ueber seine reiche Geschichte, Architektur und Bedeutung.\n\nStopp 2: Jaigarh Fort (10:30-12:00 Uhr)\n\nAls Naechstes geht es zum Jaigarh Fort, einer majestaetischen Festung aus dem XVI. Jahrhundert auf einem Huegel. Erkunden Sie ihre beeindruckende Architektur, Gaerten und die weltgroesste Kanone auf Raedern.\n\nStopp 3: malerische Ausblicke und Fotomoeglichkeiten (12:00-13:00 Uhr)\n\nMachen Sie eine Pause und geniessen Sie die Panoramablicke auf Jaipur von einem malerischen Aussichtspunkt. Machen Sie denkwuerdige Fotos mit den atemberaubenden Festungen und der Stadtlandschaft als Hintergrund.\n\nAbschluss der Tour (13:00 Uhr)\n\nDie Tour endet mit einer Abgabe an Ihrem Hotel oder einem festgelegten Ort in Jaipur.\n\nTour-Highlights\n\n- Erkunden Sie das Nahargarh Fort und das Jaigarh Fort bei einer Tuk-Tuk-Tour\n- Geniessen Sie atemberaubende Ausblicke auf Jaipur von malerischen Aussichtspunkten\n- Bequemer und muehefreier Transport im Tuk-Tuk\n\nTour-Details\n\n- Dauer: 4 Stunden\n- Abfahrtszeit: 9:00 Uhr\n- Treffpunkt: Hotelabholung oder festgelegter Ort in Jaipur\n- Transport: Tuk-Tuk\n\n### Im Preis enthalten\n\n- Abholung und Rueckfahrt zum Hotel\n- Tuk-Tuk-Transport\n- Englischsprachiger Guide\n- Flaschenwasser\n\n### Nicht enthalten\n\n- Eintrittsgebuehren fuer die Festungen\n- Mahlzeiten und Getraenke\n- Persoenliche Ausgaben",
+  "highlights": [
+   "Entdecken Sie die Festungen Nahargarh und Jaigarh bei einer Tuk-Tuk-Tour"
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel\nTuk-Tuk-Transport\nEnglischsprachiger Guide\nFlaschenwasser"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer die Festungen\nMahlzeiten und Getraenke\nPersoenliche Ausgaben"
+  ]
+ },
+ "jaipur-chokhi-dhani-village-cultural-experience": {
+  "title": "Jaipur: kulturelles Erlebnis im Dorf Chokhi Dhani",
+  "metaTitle": "Jaipur: kulturelles Erlebnis Chokhi Dhani",
+  "metaDescription": "Erhalten Sie einen herzlichen Empfang mit traditionellem Tilak und Aarti im Dorf Chokhi Dhani, mit Folkloreauffuehrungen und rajasthanischem Abendessen.",
+  "shortDescription": "Erhalten Sie einen herzlichen Empfang mit traditionellem Tilak und Aarti",
+  "fullDescription": "Jaipur: kulturelles Erlebnis im Dorf Chokhi Dhani. Erhalten Sie einen herzlichen Empfang mit traditionellem Tilak und Aarti.\n\nBei der Ankunft im Dorf Chokhi Dhani in Jaipur werden Sie von den lebendigen Sehenswuerdigkeiten und Klaengen der traditionellen rajasthanischen Kultur begruesst. Ihre Reise beginnt mit einem herzlichen Empfang, komplett mit Tilak und Aarti, der den Ton fuer ein intensives kulturelles Erlebnis setzt. Waehrend Sie das Dorf erkunden, erleben Sie eine Vielzahl von Folkloreauffuehrungen, einschliesslich energiegeladener Taenze wie Ghoomar und Kalbeliya, und faszinierende Puppenshows, die Geschichten aus Rajasthans reichem Erbe erzaehlen.\n\nSchlendern Sie durch das Dorf und entdecken Sie Handwerker bei der Arbeit, die Toepferwaren herstellen, weben und kunstvolle Henna-Designs kreieren. Sie koennen sich sogar selbst an diesen traditionellen Kuensten versuchen. Das Dorf bietet auch Kamel- und Ochsenkarrenfahrten, die Ihnen einen Vorgeschmack auf das laendliche Leben geben.\n\nWaehrend der Abend fortschreitet, werden Sie mit einem ueppigen rajasthanischen Festmahl verwoehnt, das in traditioneller Umgebung serviert wird. Geniessen Sie die Aromen lokaler Spezialitaeten wie Dal Baati Churma, Gatte Ki Sabzi und mehr, alle mit authentischen Rezepten zubereitet.\n\nDas Erlebnis endet mit einem Besuch des Dorfbazars, wo Sie handgefertigte Souvenirs und Erinnerungsstuecke kaufen koennen. Waehrend Ihres gesamten Besuchs werden Ihnen die herzliche Gastfreundschaft und die lebendige Atmosphaere von Chokhi Dhani unvergessliche Erinnerungen an den kulturellen Reichtum Rajasthans hinterlassen.\n\n### Im Preis enthalten\n\n- Abholung und Rueckfahrt zum Hotel\n- Klimatisiertes Fahrzeug",
+  "highlights": [
+   "Erhalten Sie einen herzlichen Empfang mit traditionellem Tilak und Aarti"
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel\nKlimatisiertes Fahrzeug"
+  ],
+  "notIncluded": [
+   "Eintritt zu Chokhi Dhani und Buffet-Abendessen (vor Ort erhaeltlich)"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",

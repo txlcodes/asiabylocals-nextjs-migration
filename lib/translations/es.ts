@@ -36506,6 +36506,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comida y bebidas\nPropinas"
   ]
  },
+ "jaipurs-artisans-trail-a-walking-tour-with-local": {
+  "title": "El sendero de artesanos de Jaipur: un tour a pie con artesanos locales",
+  "metaTitle": "Jaipur: sendero de artesanos a pie",
+  "metaDescription": "Maravillese con la intrincada arquitectura del iconico Hawa Mahal, luego descubra la impresion con bloques, la ceramica y el tallado de gemas.",
+  "shortDescription": "Maravillese con la intrincada arquitectura del iconico Hawa Mahal",
+  "fullDescription": "El sendero de artesanos de Jaipur: un tour a pie con artesanos locales. Maravillese con la intrincada arquitectura del iconico Hawa Mahal.\n\nComience en el iconico Hawa Mahal, donde el talento de la ciudad para el diseño intrincado cobra vida en su llamativa arquitectura. Entre en el mundo de la impresion con bloques y los textiles, donde las tecnicas tradicionales dan vida a patrones y colores audaces.\n\nContinue hacia un taller de ceramica, observando como la tierra roja de Jaipur toma forma en elegantes creaciones de arcilla bajo las manos de habiles artesanos. A continuacion, sea testigo del antiguo arte del tallado de gemas, donde piedras sin pulir se transforman cuidadosamente en deslumbrantes joyas antes apreciadas por la realeza de Jaipur.\n\nExplore talleres de fabricacion de joyeria, donde los artesanos crean disenios ornamentados que reflejan la riqueza cultural de la ciudad. Finalmente, sumerjase en la delicada tradicion de la pintura en miniatura, donde los artistas dan vida a historias a traves de diminutas pinceladas detalladas.\n\n### Que incluye\n\n- Guia turistico en vivo de habla inglesa/hindi\n- Taller de impresion con bloques y textiles\n- Taller de ceramica\n- Demostracion de tallado de gemas\n- Taller de fabricacion de joyeria\n- Sesion de pintura en miniatura\n\n### No incluye\n\n- Comidas\n- Transporte hacia y desde el punto de encuentro",
+  "highlights": [
+   "Maravillese con la intrincada arquitectura del iconico Hawa Mahal"
+  ],
+  "included": [
+   "Guia turistico en vivo de habla inglesa/hindi\nTaller de impresion con bloques y textiles\nTaller de ceramica\nDemostracion de tallado de gemas\nTaller de fabricacion de joyeria\nSesion de pintura en miniatura"
+  ],
+  "notIncluded": [
+   "Comidas\nTransporte hacia y desde el punto de encuentro"
+  ]
+ },
+ "jaipur-4-hours-nahargarh-and-jaigarh-forts-tuk": {
+  "title": "Jaipur: tour de 4 horas en tuk-tuk a los fuertes de Nahargarh y Jaigarh",
+  "metaTitle": "Jaipur: Nahargarh y Jaigarh en tuk-tuk",
+  "metaDescription": "Descubra los fuertes de Nahargarh y Jaigarh en un tour en tuk-tuk de 4 horas, con vistas panoramicas de Jaipur.",
+  "shortDescription": "Descubra los fuertes de Nahargarh y Jaigarh en un tour en tuk-tuk",
+  "fullDescription": "Jaipur: tour de 4 horas en tuk-tuk a los fuertes de Nahargarh y Jaigarh. Descubra los fuertes de Nahargarh y Jaigarh en un tour en tuk-tuk.\n\nEmbarquese en una emocionante aventura de 4 horas por los majestuosos fuertes de Jaipur en un tour en tuk-tuk. Explore el historico fuerte de Nahargarh y el fuerte de Jaigarh, y disfrute de vistas impresionantes de la ciudad.\n\nItinerario del tour\n\nParada 1: fuerte de Nahargarh (9:00h-10:00h)\n\nComience el tour con una visita al fuerte de Nahargarh, un impresionante fuerte del siglo XVIII posado sobre una colina con vista a Jaipur. Aprenda sobre su rica historia, arquitectura e importancia.\n\nParada 2: fuerte de Jaigarh (10:30h-12:00h)\n\nA continuacion, dirijase al fuerte de Jaigarh, un majestuoso fuerte del siglo XVI situado en la cima de una colina. Explore su impresionante arquitectura, jardines y el canon sobre ruedas mas grande del mundo.\n\nParada 3: vistas pintorescas y fotos (12:00h-13:00h)\n\nTome un descanso y disfrute de las vistas panoramicas de Jaipur desde un mirador pintoresco. Capture fotos memorables con los impresionantes fuertes y el paisaje urbano de fondo.\n\nConclusion del tour (13:00h)\n\nEl tour concluye con un traslado a su hotel o a una ubicacion designada en Jaipur.\n\nPuntos destacados del tour\n\n- Explore el fuerte de Nahargarh y el fuerte de Jaigarh en un tour en tuk-tuk\n- Disfrute de vistas impresionantes de Jaipur desde miradores pintorescos\n- Transporte comodo y sin complicaciones en tuk-tuk\n\nDetalles del tour\n\n- Duracion: 4 horas\n- Hora de salida: 9:00h\n- Punto de encuentro: recogida en el hotel o ubicacion designada en Jaipur\n- Transporte: tuk-tuk\n\n### Que incluye\n\n- Recogida y traslado al hotel\n- Transporte en tuk-tuk\n- Guia de habla inglesa\n- Agua embotellada\n\n### No incluye\n\n- Tarifas de entrada a los fuertes\n- Comidas y bebidas\n- Gastos personales",
+  "highlights": [
+   "Descubra los fuertes de Nahargarh y Jaigarh en un tour en tuk-tuk"
+  ],
+  "included": [
+   "Recogida y traslado al hotel\nTransporte en tuk-tuk\nGuia de habla inglesa\nAgua embotellada"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a los fuertes\nComidas y bebidas\nGastos personales"
+  ]
+ },
+ "jaipur-chokhi-dhani-village-cultural-experience": {
+  "title": "Jaipur: experiencia cultural en el pueblo de Chokhi Dhani",
+  "metaTitle": "Jaipur: experiencia cultural Chokhi Dhani",
+  "metaDescription": "Reciba una calida bienvenida con tilak y aarti tradicionales en el pueblo de Chokhi Dhani, con espectaculos folcloricos y cena rajastani.",
+  "shortDescription": "Reciba una calida bienvenida con tilak y aarti tradicionales",
+  "fullDescription": "Jaipur: experiencia cultural en el pueblo de Chokhi Dhani. Reciba una calida bienvenida con tilak y aarti tradicionales.\n\nAl llegar al pueblo de Chokhi Dhani en Jaipur, sera recibido por las vibrantes vistas y sonidos de la cultura rajastani tradicional. Su viaje comienza con una calida bienvenida, completa con tilak y aarti, estableciendo el tono para una experiencia cultural inmersiva. Mientras explora el pueblo, encontrara una variedad de espectaculos folcloricos, incluidas energicas danzas como el Ghoomar y el Kalbeliya, y fascinantes espectaculos de marionetas que cuentan historias del rico patrimonio de Rajasthan.\n\nPaseese por el pueblo y descubra a artesanos trabajando, creando ceramica, tejiendo y creando intrincados disenios de henna. Incluso puede intentar estas artes tradicionales usted mismo. El pueblo tambien ofrece paseos en camello y carretas de bueyes, dandole un sabor de la vida rural.\n\nA medida que avanza la tarde, sera agasajado con un suntuoso festin rajastani servido en un entorno tradicional. Saboree los sabores de delicias locales como dal baati churma, gatte ki sabzi y mas, todas preparadas con recetas autenticas.\n\nLa experiencia concluye con una visita al bazar del pueblo, donde podra comprar recuerdos artesanales y objetos conmemorativos. Durante toda su visita, la calida hospitalidad y el vibrante ambiente de Chokhi Dhani le dejaran recuerdos inolvidables de la riqueza cultural de Rajasthan.\n\n### Que incluye\n\n- Recogida y traslado al hotel\n- Vehiculo con aire acondicionado",
+  "highlights": [
+   "Reciba una calida bienvenida con tilak y aarti tradicionales"
+  ],
+  "included": [
+   "Recogida y traslado al hotel\nVehiculo con aire acondicionado"
+  ],
+  "notIncluded": [
+   "Entrada a Chokhi Dhani y cena buffet (disponible para comprar en el lugar)"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
