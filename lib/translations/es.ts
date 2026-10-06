@@ -36794,6 +36794,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas"
   ]
  },
+ "delhijaipur-same-day-taj-mahal-agra-tour-with": {
+  "title": "Delhi/Jaipur: tour al Taj Mahal y Agra en el mismo dia con fotografo",
+  "metaTitle": "Taj Mahal y Agra en un dia, fotografo",
+  "metaDescription": "Viva la grandeza del Taj Mahal y el Fuerte de Agra, con un fotografo profesional, desde Jaipur o Delhi.",
+  "shortDescription": "Viva la grandeza del Taj Mahal y el Fuerte de Agra",
+  "fullDescription": "Delhi/Jaipur: tour al Taj Mahal y Agra en el mismo dia con fotografo. Viva la grandeza del Taj Mahal y el Fuerte de Agra.\n\nRecogida\nEl conductor le recoge en el lugar que desee en Jaipur y conduce en un coche con aire acondicionado hasta Agra.\n\nTaj Mahal\nLlegada a Agra, encuentro con su guia y fotografo en el Taj Mahal. Disfrute de la hermosa vista del Taj Mahal y tome fotos asombrosas dentro y alrededor del edificio con su fotografo profesional. Admire el espectacular mausoleo de marmol desde fuera, antes de echar un vistazo al Mumtaz Mahal.\n\nAlmuerzo\nDespues de visitar el maravilloso Taj Mahal, tambien podra disfrutar de auténtica cocina mogol en uno de los mejores restaurantes de Agra.\n\nFuerte de Agra\nDespues del almuerzo, continue hacia el cercano Fuerte Rojo para ver los hermosos pabellones de una ciudad fortificada. Fue construido en el ano 1565 d.C. y es otra obra majestuosa del emperador mogol Akbar.\n\nRegreso\nAhora su tour termina con muchos recuerdos, y sera llevado al lugar que desee en Jaipur.\n\n### Incluye\n\n- Recogida y regreso\n- Visitas y traslados en coche privado con aire acondicionado\n- Fotografo en el Taj Mahal (si se elige la opcion, solo 10 fotos incluidas)\n- Guia turistico privado en vivo\n- Entrada a todos los monumentos (si se elige la opcion)\n- Almuerzo mogol (si se elige la opcion)\n- Agua mineral\n- Todos los impuestos\n\n### No incluye\n\n- Propinas",
+  "highlights": [
+   "Viva la grandeza del Taj Mahal y el Fuerte de Agra"
+  ],
+  "included": [
+   "Recogida y regreso\nVisitas y traslados en coche privado con aire acondicionado\nFotografo en el Taj Mahal (si se elige la opcion, solo 10 fotos incluidas)\nGuia turistico privado en vivo\nEntrada a todos los monumentos (si se elige la opcion)\nAlmuerzo mogol (si se elige la opcion)\nAgua mineral\nTodos los impuestos"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "jaipur-tajmahal-sunrise-tour-with-fatehpur-sikri": {
+  "title": "Jaipur: tour del amanecer en el Taj Mahal con Fatehpur Sikri y Abhaneri",
+  "metaTitle": "Taj Mahal al amanecer, Fatehpur Sikri",
+  "metaDescription": "El Taj Mahal al amanecer desde Jaipur, con el pozo escalonado de Abhaneri y Fatehpur Sikri en el camino.",
+  "shortDescription": "El Taj Mahal al amanecer desde Jaipur, con Fatehpur Sikri y el pozo escalonado de Abhaneri en el camino.",
+  "fullDescription": "**Una salida a la 1 de la madrugada, y tres sitios en una sola carretera**\n\nDe Jaipur a Agra hay 240 km. Para estar en el Taj cuando abren las puertas, se sale en mitad de la noche, y la carretera hacia el este pasa por **Abhaneri** y **Fatehpur Sikri**, lo que significa que el viaje en si se convierte en la experiencia y no en tiempo muerto.\n\n**Chand Baori, Abhaneri**\n\n**3.500 escalones** en perfectas alas dobles que descienden trece pisos hasta un cuadrado de agua verde, excavado en el siglo 9 por el rey Chanda para que un pueblo pudiera llegar al agua durante un verano desertico.\n\nLa base esta cinco o seis grados mas fresca que la superficie, lo cual era tan proposito como el agua misma. La geometria se fotografia como una ilusion optica, y probablemente la haya visto en peliculas.\n\nNo se puede bajar hasta el agua; estan abiertas la galeria superior y el **templo Harshat Mata** de al lado.\n\n**Amanecer en el Taj**\n\nLas puertas abren media hora antes que el sol. El marmol se ve gris, luego rosa, luego un blanco frio, mientras la luz llega desde la orilla lejana del rio Yamuna. En invierno hay niebla sobre el rio detras de la cupula, y la multitud es una quinta parte de lo que sera hacia las diez de la manana.\n\nShah Jahan lo comenzo en 1632, el ano despues de que Mumtaz Mahal muriera dando a luz a su decimocuarto hijo. Veintidos anos, veinte mil trabajadores, y marmol traido desde **Makrana**, que esta en Rajasthan, a tres horas de donde comenzo este tour.\n\nSu guia le hablara de la **caligrafia**, tallada en tamanos crecientes para que se lea de forma uniforme desde el suelo, la **pietra dura** con hasta sesenta piedras por flor, los cuatro **minaretes**, inclinados hacia fuera para que un terremoto los alejara de la tumba al caer, y la unica asimetria en todo el edificio.\n\n**Fatehpur Sikri**\n\nLa capital de Akbar desde 1571, abandonada catorce anos despues cuando fallo el agua, y por eso se conserva por completo: el **Buland Darwaza** de 54 metros, el **Panch Mahal**, el **Diwan-i-Khas** con su unica columna tallada, y el dargah de marmol de Salim Chishti.\n\n**Tres opciones**\n\nSolo guia; coche y conductor; o coche, conductor y guia.\n\n**El Taj esta cerrado los viernes.**",
+  "highlights": [
+   "Viva la belleza eterna del Taj Mahal al amanecer."
+  ],
+  "included": [
+   "Traslados y visitas en coche privado con aire acondicionado.\nRecogida y regreso al aeropuerto y hotel.\nBotellas de agua gratis.\nGuia profesional.\nCostos de combustible, aparcamiento, peajes y todos los impuestos."
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a los monumentos.\nComidas.\nPropinas (opcional)."
+  ]
+ },
+ "jaipur-pink-city-heritage-tour-book-by-car": {
+  "title": "Tour del patrimonio de la Ciudad Rosa de Jaipur: reserve con coche",
+  "metaTitle": "Jaipur: tour del patrimonio con coche",
+  "metaDescription": "Descubra la rica historia y cultura de Jaipur en un tour guiado del patrimonio: Fuerte Amber, Jaigarh, Nahargarh, Palacio de la Ciudad y mas.",
+  "shortDescription": "Descubra la rica historia y cultura de Jaipur en un tour guiado del patrimonio",
+  "fullDescription": "Tour del patrimonio de la Ciudad Rosa de Jaipur: reserve con coche. Descubra la rica historia y cultura de Jaipur en un tour guiado del patrimonio.\n\n- Fuerte Amber: Comience su dia con una visita al magnifico Fuerte Amber, un sitio Patrimonio de la Humanidad de la UNESCO. Explore los impresionantes patios, palacios y el famoso Sheesh Mahal (Palacio de los Espejos). Disfrute de un paseo opcional en elefante o tome un jeep para llegar a la fortaleza.\n\n- Fuerte Jaigarh: A solo un corto trayecto del Fuerte Amber, visite el Fuerte Jaigarh, conocido por sus vistas panoramicas de la ciudad y el canon sobre ruedas mas grande del mundo, el Jaivana.\n\n- Fuerte Nahargarh: Dirijase al Fuerte Nahargarh, que se asienta sobre las colinas Aravalli. Disfrute de vistas impresionantes de Jaipur y explore la historia de la fortaleza. Es un lugar excelente para la fotografia.\n\n- Jal Mahal (Palacio del Agua): En el camino de regreso desde Amber, detengase en el Jal Mahal, un hermoso palacio en medio del lago Man Sagar. Tome fotos y disfrute de la belleza pintoresca.\n\n- Gatore Ki Chhatriyan: Los impresionantes cenotafios reales de Jaipur con arquitectura elaborada y una rica historia.\n\n- Palacio de la Ciudad: Despues del almuerzo, explore el Palacio de la Ciudad, una mezcla de arquitectura rajasthani y mogol. Visite los museos del interior para ver artefactos reales, vestimentas y armas.\n\n- Jantar Mantar: Visite el Jantar Mantar, un observatorio astronomico y sitio Patrimonio de la Humanidad de la UNESCO. Admire el reloj de sol de piedra mas grande del mundo y otros instrumentos fascinantes.\n\n- Hawa Mahal (Palacio de los Vientos): Termine su dia con una visita al Hawa Mahal. Capture la impresionante fachada de esta estructura iconica y conozca mas sobre su historia.\n\n- Exploracion del mercado local: Dirijase al Johari Bazaar o Bapu Bazaar para ir de compras por la tarde. Estos mercados son famosos por joyeria tradicional, textiles y artesanias.\n\n- Museo Albert Hall: Comience su dia con una visita al Museo Albert Hall, el museo mas antiguo de Rajasthan. Admire la arquitectura indosarracena y explore una rica coleccion de artefactos.\n\n- Templo Galtaji (Templo de los Monos): Visite el complejo del templo Galtaji, conocido por sus manantiales naturales, templos y gran poblacion de monos. El templo ofrece hermosas vistas de la ciudad.\n\n### Incluye\n\n- Recogida y regreso al hotel/aeropuerto/estacion\n- Transporte hacia y desde todas las atracciones\n- Experiencia de compras en los mercados locales de Jaipur\n- Espectaculo cultural con danza tradicional rajasthani\n- Tour multilingue disponible en ingles, hindi y otros idiomas regionales\n- Tour guiado con guias locales experimentados\n\n### No incluye\n\n- Tarifas de entrada al Fuerte Amber, Palacio de la Ciudad, Hawa Mahal, Jantar Mantar y Museo Albert Hall, etc.\n- Propinas para el guia y el conductor",
+  "highlights": [
+   "Descubra la rica historia y cultura de Jaipur en un tour guiado del patrimonio"
+  ],
+  "included": [
+   "Recogida y regreso al hotel/aeropuerto/estacion\nTransporte hacia y desde todas las atracciones\nExperiencia de compras en los mercados locales de Jaipur\nEspectaculo cultural con danza tradicional rajasthani\nTour multilingue disponible en ingles, hindi y otros idiomas regionales\nTour guiado con guias locales experimentados"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada al Fuerte Amber, Palacio de la Ciudad, Hawa Mahal, Jantar Mantar y Museo Albert Hall, etc.\nPropinas para el guia y el conductor"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
