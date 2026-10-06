@@ -74387,7 +74387,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai: parasailing con vistas a Palm y JBR",
   "metaDescription": "Une excursion de 1 hora(s) desde Dubai que visita Dubai Harbour, Skydive Dubai, Jumeirah Beach Residence y Ain Dubai. Ofrecido por Sealife Watersports Equipment R...",
   "shortDescription": "Une excursion de 1 hora(s) desde Dubai que visita Dubai Harbour, Skydive Dubai, Jumeirah Beach Residence y Ain Dubai. Ofrecido por Sealife Watersports Equipment Rental LLC.",
-  "fullDescription": "Una excursion de 1 hora(s) desde Dubai, que recorre Dubai Harbour, Skydive Dubai, Jumeirah Beach Residence y Ain Dubai. Hay 6 paradas en total.\n\nEl orden de la ruta es Dubai Harbour (10 min), luego Skydive Dubai (10 min), luego Jumeirah Beach Residence (10 min), luego Ain Dubai (10 min), luego 34Q6+38 Dubai (12 min).\n\nEl precio incluye instruccion y equipo de seguridad, toallas, agua potable y musica a bordo. No incluye paquete de fotos (opcional en el check-in), recogida y regreso al hotel (costo adicional) y casillero, por lo que debe presupuestar eso por separado. Dos viajeros pagan 290 $ juntos en lugar de 229 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de 1 hora(s) desde Dubai, que recorre Dubai Harbour, Skydive Dubai, Jumeirah Beach Residence y Ain Dubai. Hay 6 paradas en total.\n\nEl orden de la ruta es Dubai Harbour (10 min), luego Skydive Dubai (10 min), luego Jumeirah Beach Residence (10 min), luego Ain Dubai (10 min), luego 34Q6+38 Dubai (12 min).\n\nEl precio incluye instruccion y equipo de seguridad, toallas, agua potable y musica a bordo. No incluye paquete de fotos (opcional al registrarse), recogida y regreso al hotel (costo adicional) y casillero, por lo que debe presupuestar eso por separado. Dos viajeros pagan 290 $ juntos en lugar de 229 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Une excursion de 1 hora(s) desde Dubai que visita Dubai Harbour, Skydive Dubai, Jumeirah Beach Residence y Ain Dubai. Ofrecido por Sealife Watersports Equipment Rental LLC."
   ],
@@ -74398,7 +74398,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Musica a bordo"
   ],
   "notIncluded": [
-   "Paquete de fotos (opcional en el check-in)",
+   "Paquete de fotos (opcional al registrarse)",
    "Recogida y regreso al hotel (costo adicional)",
    "Casillero"
   ]
@@ -76008,7 +76008,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Abu Dhabi: curso Padi Advanced Open Water",
   "metaDescription": "Experiencia de 2 dia(s) en Abu Dhabi. Programa de dos dias: adquiera habilidades avanzadas de buceo y una certificacion. Ofrecido por Reef Oasis Diving Center.",
   "shortDescription": "Experiencia de 2 dia(s) en Abu Dhabi. Programa de dos dias: adquiera habilidades avanzadas de buceo y una certificacion. Ofrecido por Reef Oasis Diving Center.",
-  "fullDescription": "Una experiencia de 2 dia(s) en Abu Dhabi. Programa de dos dias: adquiera habilidades avanzadas de buceo y una certificacion.\n\nReef Oasis Diving Center la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye equipo de buceo, instructor de buceo, 2 inmersiones de aventura obligatorias (profunda, navegacion), 3 inmersiones de aventura a su elección y vestuario, ducha, bano. No incluye ropa de bano, toalla y material de aprendizaje en linea Padi, por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una experiencia de 2 dia(s) en Abu Dhabi. Programa de dos dias: adquiera habilidades avanzadas de buceo y una certificacion.\n\nReef Oasis Diving Center la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye equipo de buceo, instructor de buceo, 2 inmersiones de aventura obligatorias (profunda, navegacion), 3 inmersiones de aventura a su elección y vestuario, ducha, bano. No incluye ropa de bano, toalla y material de elearning Padi, por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Programa de dos dias: adquiera habilidades avanzadas de buceo y una certificacion"
   ],
@@ -76022,7 +76022,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Ropa de bano",
    "Toalla",
-   "Material de aprendizaje en linea Padi"
+   "Material de elearning Padi"
   ]
  },
  "dubai-desert-safari-with-vip-bbq-dinner-optional-q": {
@@ -79816,6 +79816,398 @@ export const ES_TOURS: Record<string, TourT> = {
    ""
   ]
  },
+ "morning-desert-adventure-sandboarding-camel-ride": {
+  "title": "Aventura matutina en el desierto, sandboarding y paseo en camello",
+  "metaTitle": "Aventura matutina en el desierto, sandboarding y paseo en camello",
+  "metaDescription": "Une excursion de medio dia desde Abu Dhabi que visita Jeep / SUV, Jeep / SUV y Abu Dhabi. Ofrecido por OceanAir Travels.",
+  "shortDescription": "Une excursion de medio dia desde Abu Dhabi que visita Jeep / SUV, Jeep / SUV y Abu Dhabi. Ofrecido por OceanAir Travels.",
+  "fullDescription": "Una excursion de medio dia desde Abu Dhabi, que recorre Jeep / SUV, Jeep / SUV y Abu Dhabi. La parada mas larga es Jeep / SUV, con una duracion de unos 1 hora. Hay 3 paradas en total.\n\nEl orden de la ruta es Jeep / SUV (1h), luego Jeep / SUV (30 min), luego Abu Dhabi (45 min).\n\nEl precio incluye recogida y regreso al hotel (Abu Dhabi), vehiculo 4x4 con aire acondicionado, conductor profesional que habla ingles y experiencia de dune bashing. No incluye gastos personales y souvenirs, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de medio dia desde Abu Dhabi que visita Jeep / SUV, Jeep / SUV y Abu Dhabi. Ofrecido por OceanAir Travels."
+  ],
+  "included": [
+   "Recogida y regreso al hotel (Abu Dhabi)",
+   "Vehiculo 4x4 con aire acondicionado",
+   "Conductor profesional que habla ingles",
+   "Experiencia de dune bashing"
+  ],
+  "notIncluded": [
+   "Gastos personales y souvenirs"
+  ]
+ },
+ "dubai-private-half-day-sightseeing-tour": {
+  "title": "Dubai: tour turistico privado de medio dia",
+  "metaTitle": "Dubai: tour turistico privado de medio dia",
+  "metaDescription": "Experiencia de medio dia en Dubai. Relajese comodamente mientras explora Dubai en un vehiculo privado con aire acondicionado. Ofrecido por Yalla Walk tourism.",
+  "shortDescription": "Experiencia de medio dia en Dubai. Relajese comodamente mientras explora Dubai en un vehiculo privado con aire acondicionado. Ofrecido por Yalla Walk tourism.",
+  "fullDescription": "Una experiencia de medio dia en Dubai. Relajese comodamente mientras explora Dubai en un vehiculo privado con aire acondicionado.\n\nYalla Walk tourism la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye 4x4 con aire acondicionado, guia profesional que habla ingles, recogida y regreso al hotel y paradas fotograficas en las principales atracciones. No incluye comida y gastos personales, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Relajese comodamente mientras explora Dubai en un vehiculo privado con aire acondicionado"
+  ],
+  "included": [
+   "4x4 con aire acondicionado",
+   "Guia profesional que habla ingles",
+   "Recogida y regreso al hotel",
+   "Paradas fotograficas en las principales atracciones"
+  ],
+  "notIncluded": [
+   "Comida",
+   "Gastos personales"
+  ]
+ },
+ "abu-dhabi-full-day-city-tour": {
+  "title": "Abu Dhabi: tour por la ciudad de un dia completo",
+  "metaTitle": "Abu Dhabi: tour por la ciudad de un dia completo",
+  "metaDescription": "Experiencia de un dia completo en Abu Dhabi. Visite la Gran Mezquita Sheikh Zayed. Ofrecido por ARABIAN EXPLORE TOURS AND TRAVELS LLC.",
+  "shortDescription": "Experiencia de un dia completo en Abu Dhabi. Visite la Gran Mezquita Sheikh Zayed. Ofrecido por ARABIAN EXPLORE TOURS AND TRAVELS LLC.",
+  "fullDescription": "Una experiencia de un dia completo en Abu Dhabi. Visite la Gran Mezquita Sheikh Zayed.\n\nARABIAN EXPLORE TOURS AND TRAVELS LLC la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel, gran Mezquita Sheikh Zayed, capital Tower (paso en coche) y centro de exposiciones Adnec (paso en coche). No incluye , por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Visite la Gran Mezquita Sheikh Zayed"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Gran Mezquita Sheikh Zayed",
+   "Capital Tower (paso en coche)",
+   "Centro de exposiciones Adnec (paso en coche)"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "fujairah-try-diving-experience-with-underwater-pho": {
+  "title": "Fujairah: experiencia de buceo de prueba con fotos submarinas",
+  "metaTitle": "Fujairah: experiencia de buceo de prueba con fotos submarinas",
+  "metaDescription": "Experiencia de 2 hora(s) en Dubai. Experiencia de buceo apta para principiantes, sin certificacion requerida. Ofrecido por Reef Oasis Diving Center.",
+  "shortDescription": "Experiencia de 2 hora(s) en Dubai. Experiencia de buceo apta para principiantes, sin certificacion requerida. Ofrecido por Reef Oasis Diving Center.",
+  "fullDescription": "Una experiencia de 2 hora(s) en Dubai. Experiencia de buceo apta para principiantes, sin certificacion requerida.\n\nReef Oasis Diving Center la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye 30 minutos de buceo submarino, equipo de buceo, fotos submarinas y instructor de buceo. No incluye pantalon corto de bano y toalla, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de buceo apta para principiantes, sin certificacion requerida"
+  ],
+  "included": [
+   "30 minutos de buceo submarino",
+   "Equipo de buceo",
+   "Fotos submarinas",
+   "Instructor de buceo"
+  ],
+  "notIncluded": [
+   "Pantalon corto de bano y toalla"
+  ]
+ },
+ "dubai-heritage-camel-desert-safari-with-traditiona": {
+  "title": "Dubai: safari patrimonial en camello por el desierto con cena tradicional",
+  "metaTitle": "Dubai: safari patrimonial en camello por el desierto con cena ...",
+  "metaDescription": "Experiencia de un dia completo en Dubai. Viva el paisaje del desierto como un beduino, desde el lomo de un camello. Ofrecido por Platinum Heritage Luxury Tours & ...",
+  "shortDescription": "Experiencia de un dia completo en Dubai. Viva el paisaje del desierto como un beduino, desde el lomo de un camello. Ofrecido por Platinum Heritage Luxury Tours & Safaris.",
+  "fullDescription": "Una experiencia de un dia completo en Dubai. Viva el paisaje del desierto como un beduino, desde el lomo de un camello.\n\nPlatinum Heritage Luxury Tours & Safaris la organiza, y 10 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel en vehiculo con aire acondicionado, instalaciones sanitarias en las puertas y campamentos, tocado de recuerdo y botellas de agua de acero inoxidable rellenables y caravana de camellos de 45 minutos. No incluye fotos y propinas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Viva el paisaje del desierto como un beduino, desde el lomo de un camello"
+  ],
+  "included": [
+   "Recogida y regreso al hotel en vehiculo con aire acondicionado",
+   "Instalaciones sanitarias en las puertas y campamentos",
+   "Tocado de recuerdo y botellas de agua de acero inoxidable rellenables",
+   "Caravana de camellos de 45 minutos"
+  ],
+  "notIncluded": [
+   "Fotos",
+   "Propinas"
+  ]
+ },
+ "abu-dhabi-padi-basic-scuba-diver-course": {
+  "title": "Abu Dhabi: curso de buceo basico Padi",
+  "metaTitle": "Abu Dhabi: curso de buceo basico Padi",
+  "metaDescription": "Experiencia de medio dia en Abu Dhabi. Primer paso hacia la certificacion de buceo, ¡no se necesita experiencia!. Ofrecido por Reef Oasis Diving Center.",
+  "shortDescription": "Experiencia de medio dia en Abu Dhabi. Primer paso hacia la certificacion de buceo, ¡no se necesita experiencia!. Ofrecido por Reef Oasis Diving Center.",
+  "fullDescription": "Una experiencia de medio dia en Abu Dhabi. Primer paso hacia la certificacion de buceo, ¡no se necesita experiencia!\n\nReef Oasis Diving Center la organiza, y 4 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye equipo de buceo, instructor de buceo, 3 sesiones en aguas confinadas y 2 inmersiones en aguas abiertas. No incluye ropa de bano, toalla y material de elearning Padi, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Primer paso hacia la certificacion de buceo, ¡no se necesita experiencia!"
+  ],
+  "included": [
+   "Equipo de buceo",
+   "Instructor de buceo",
+   "3 sesiones en aguas confinadas",
+   "2 inmersiones en aguas abiertas"
+  ],
+  "notIncluded": [
+   "Ropa de bano",
+   "Toalla",
+   "Material de elearning Padi"
+  ]
+ },
+ "abu-dhabi-30min-exclusive-helicopter-tour": {
+  "title": "Abu Dhabi: tour exclusivo en helicoptero de 30 minutos",
+  "metaTitle": "Abu Dhabi: tour exclusivo en helicoptero de 30 minutos",
+  "metaDescription": "Experiencia de 0,5 hora(s) en Abu Dhabi. Sienta una sensacion de libertad al volar en helicoptero sobre la ciudad. Ofrecido por Falcon Aviation Services.",
+  "shortDescription": "Experiencia de 0,5 hora(s) en Abu Dhabi. Sienta una sensacion de libertad al volar en helicoptero sobre la ciudad. Ofrecido por Falcon Aviation Services.",
+  "fullDescription": "Una experiencia de 0,5 hora(s) en Abu Dhabi. Sienta una sensacion de libertad al volar en helicoptero sobre la ciudad.\n\nFalcon Aviation Services la organiza, y 2 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye paseo privado en helicoptero de 30 minutos y auriculares para escuchar al piloto. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 2303 $ juntos en lugar de 2303 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Sienta una sensacion de libertad al volar en helicoptero sobre la ciudad"
+  ],
+  "included": [
+   "Paseo privado en helicoptero de 30 minutos",
+   "Auriculares para escuchar al piloto"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-private-self-drive-seakart-jet-ski-boat-tour": {
+  "title": "Dubai: tour privado en bote jet ski SeaKart autoconducido",
+  "metaTitle": "Dubai: tour privado en bote jet ski SeaKart autoconducido",
+  "metaDescription": "Une excursion de 0,5 hora(s) desde Dubai que visita Golf cart, Dubai Harbour, Dubai Harbour y Dubai. Ofrecido por Adventure Zone Dubai.",
+  "shortDescription": "Une excursion de 0,5 hora(s) desde Dubai que visita Golf cart, Dubai Harbour, Dubai Harbour y Dubai. Ofrecido por Adventure Zone Dubai.",
+  "fullDescription": "Una excursion de 0,5 hora(s) desde Dubai, que recorre Golf cart, Dubai Harbour, Dubai Harbour y Dubai. Hay 7 paradas en total.\n\nEl orden de la ruta es Golf cart (10 min), luego Dubai Harbour (15 min), luego Dubai Harbour, luego Dubai (15 min), luego Dubai (10 min).\n\nEl precio incluye bote jet ski SeaKart autoconducido, instructor-guia certificado (en su propio barco), chaleco salvavidas y charla de seguridad y agua embotellada. No incluye recogida y regreso en su hotel o residencia y tarifas de estacionamiento, por lo que debe presupuestar eso por separado. Dos viajeros pagan 254 $ juntos en lugar de 254 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Une excursion de 0,5 hora(s) desde Dubai que visita Golf cart, Dubai Harbour, Dubai Harbour y Dubai. Ofrecido por Adventure Zone Dubai."
+  ],
+  "included": [
+   "Bote jet ski SeaKart autoconducido",
+   "Instructor-guia certificado (en su propio barco)",
+   "Chaleco salvavidas y charla de seguridad",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Recogida y regreso en su hotel o residencia",
+   "Tarifas de estacionamiento"
+  ]
+ },
+ "dubai-clear-kayaking-experience-with-burj-khalifa-": {
+  "title": "Dubai: experiencia de kayak transparente con vista al Burj Khalifa",
+  "metaTitle": "Dubai: experiencia de kayak transparente con vista al Burj Kha...",
+  "metaDescription": "Une excursion de 1 hora(s) desde Dubai que visita On foot. Ofrecido por Crystal Clear Watersports LLC.",
+  "shortDescription": "Une excursion de 1 hora(s) desde Dubai que visita On foot. Ofrecido por Crystal Clear Watersports LLC.",
+  "fullDescription": "Una excursion de 1 hora(s) desde Dubai, que recorre On foot.\n\nCrystal Clear Watersports LLC la organiza, y 3 elementos estan cubiertos por el precio. La cancelacion es gratuita. Disfrute de un dia perfecto de playa en Dubai con una memorable experiencia de kayak transparente.\n\nEl precio incluye vestidores, acceso a la playa y altavoces Bluetooth. No incluye comida y bebidas y mantas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de 1 hora(s) desde Dubai que visita On foot. Ofrecido por Crystal Clear Watersports LLC."
+  ],
+  "included": [
+   "Vestidores",
+   "Acceso a la playa",
+   "Altavoces Bluetooth"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Mantas"
+  ]
+ },
+ "abu-dhabi-padi-discover-scuba-diving-program": {
+  "title": "Abu Dhabi: programa PADI Discover Scuba Diving",
+  "metaTitle": "Abu Dhabi: programa PADI Discover Scuba Diving",
+  "metaDescription": "Experiencia de 2 hora(s) en Abu Dhabi. . Ofrecido por Reef Oasis Diving Center.",
+  "shortDescription": "Experiencia de 2 hora(s) en Abu Dhabi. . Ofrecido por Reef Oasis Diving Center.",
+  "fullDescription": "Una experiencia de 2 hora(s) en Abu Dhabi. Experience what it’s like to go scuba diving, even if you are not certified.\n\nReef Oasis Diving Center la organiza, y 4 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye introduccion al buceo, instructor, equipo de buceo y fotos submarinas. No incluye ropa de bano, toallas y certificado Padi Discovery Scuba, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de 2 hora(s) en Abu Dhabi. . Ofrecido por Reef Oasis Diving Center."
+  ],
+  "included": [
+   "Introduccion al buceo",
+   "Instructor",
+   "Equipo de buceo",
+   "Fotos submarinas"
+  ],
+  "notIncluded": [
+   "Ropa de bano",
+   "Toallas",
+   "Certificado Padi Discovery Scuba"
+  ]
+ },
+ "from-dubai-try-scuba-diving-snorkeling-with-transf": {
+  "title": "Desde Dubai: buceo de prueba, snorkel con traslado",
+  "metaTitle": "Desde Dubai: buceo de prueba, snorkel con traslado",
+  "metaDescription": "Une excursion de un dia completo desde Dubai que visita Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah y Al Bidya Mosque. Ofrecido por Reef Oasis Divi...",
+  "shortDescription": "Une excursion de un dia completo desde Dubai que visita Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah y Al Bidya Mosque. Ofrecido por Reef Oasis Diving Center.",
+  "fullDescription": "Una excursion de un dia completo desde Dubai, que recorre Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah y Al Bidya Mosque. Hay 6 paradas en total.\n\nEl orden de la ruta es Snoopy Island, luego Sharm Rocks, luego Reef Oasis Dive Club, Fujairah (40 min), luego Al Bidya Mosque (10 min), luego Khorfakkan Amphitheatre (15 min).\n\nEl precio incluye recogida y regreso al hotel en Dubai/Fujairah, equipo de buceo, equipo de buceo con tubo y fotos submarinas. No incluye toallas, protector solar y ropa de bano, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de un dia completo desde Dubai que visita Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah y Al Bidya Mosque. Ofrecido por Reef Oasis Diving Center."
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Dubai/Fujairah",
+   "Equipo de buceo",
+   "Equipo de buceo con tubo",
+   "Fotos submarinas"
+  ],
+  "notIncluded": [
+   "Toallas",
+   "Protector solar",
+   "Ropa de bano"
+  ]
+ },
+ "from-dubai-abu-dhabi-day-tour-with-warner-bros": {
+  "title": "Desde Dubai: excursion de un dia a Abu Dhabi con entrada para Warner Bros World",
+  "metaTitle": "Desde Dubai: excursion de un dia a Abu Dhabi con entrada para ...",
+  "metaDescription": "Une excursion de un dia completo desde Abu Dhabi que visita Sheikh Zayed Mosque, Al Bateen, Abu Dhabi, Emirates Palace y Etihad Towers. Ofrecido por Travtur Touri...",
+  "shortDescription": "Une excursion de un dia completo desde Abu Dhabi que visita Sheikh Zayed Mosque, Al Bateen, Abu Dhabi, Emirates Palace y Etihad Towers. Ofrecido por Travtur Tourism L.L.C.",
+  "fullDescription": "Una excursion de un dia completo desde Abu Dhabi, que recorre Sheikh Zayed Mosque, Al Bateen, Abu Dhabi, Emirates Palace y Etihad Towers. La parada mas larga es Warner Bros. World Abu Dhabi, con una duracion de unos 4 horas. Hay 7 paradas en total.\n\nEl orden de la ruta es Sheikh Zayed Mosque (1h), luego Al Bateen, Abu Dhabi, luego Emirates Palace (15 min), luego Etihad Towers (10 min), luego Saadiyat Island.\n\nEl precio incluye agua y refrescos, guia turistico profesional licenciado, transporte en vehiculo con aire acondicionado y codigo de vestimenta para damas para visitar la mezquita. No incluye almuerzo y propinas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de un dia completo desde Abu Dhabi que visita Sheikh Zayed Mosque, Al Bateen, Abu Dhabi, Emirates Palace y Etihad Towers. Ofrecido por Travtur Tourism L.L.C."
+  ],
+  "included": [
+   "Agua y refrescos",
+   "Guia turistico profesional licenciado",
+   "Transporte en vehiculo con aire acondicionado",
+   "Codigo de vestimenta para damas para visitar la mezquita"
+  ],
+  "notIncluded": [
+   "Almuerzo",
+   "Propinas"
+  ]
+ },
+ "dubai-burj-al-arab-parasailing-ice-cream-pics-and": {
+  "title": "Dubai: parasail en el Burj Al Arab, helado, fotos y videos",
+  "metaTitle": "Dubai: parasail en el Burj Al Arab, helado, fotos y videos",
+  "metaDescription": "Une excursion de 1 hora(s) desde Dubai que visita Nemo WaterSports Jet Ski Dubai, Parasailing & Flyboard, Umm Suqeim y Burj Al Arab. Ofrecido por Nemo WaterSports...",
+  "shortDescription": "Une excursion de 1 hora(s) desde Dubai que visita Nemo WaterSports Jet Ski Dubai, Parasailing & Flyboard, Umm Suqeim y Burj Al Arab. Ofrecido por Nemo WaterSports Dubai Jet Ski Flyboard.",
+  "fullDescription": "Una excursion de 1 hora(s) desde Dubai, que recorre Nemo WaterSports Jet Ski Dubai, Parasailing & Flyboard, Umm Suqeim y Burj Al Arab. Hay 3 paradas en total.\n\nEl orden de la ruta es Nemo WaterSports Jet Ski Dubai, Parasailing & Flyboard, luego Umm Suqeim, luego Burj Al Arab (12 min).\n\nEl precio incluye paseo en parasail, tripulacion, agua potable y uso de casillero. No incluye paquete de fotos (opcional al registrarse), por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de 1 hora(s) desde Dubai que visita Nemo WaterSports Jet Ski Dubai, Parasailing & Flyboard, Umm Suqeim y Burj Al Arab. Ofrecido por Nemo WaterSports Dubai Jet Ski Flyboard."
+  ],
+  "included": [
+   "Paseo en parasail",
+   "Tripulacion",
+   "Agua potable",
+   "Uso de casillero"
+  ],
+  "notIncluded": [
+   "Paquete de fotos (opcional al registrarse)"
+  ]
+ },
+ "abu-dhabi-mosque-warner-bros-tour-from-abu-dhabi": {
+  "title": "Abu Dhabi: tour por la mezquita y Warner Bros desde Abu Dhabi",
+  "metaTitle": "Abu Dhabi: tour por la mezquita y Warner Bros desde Abu Dhabi",
+  "metaDescription": "Experiencia de medio dia en Abu Dhabi. Descubra lo mejor de Abu Dhabi. Ofrecido por DMC Arabia Tourism LLC.",
+  "shortDescription": "Experiencia de medio dia en Abu Dhabi. Descubra lo mejor de Abu Dhabi. Ofrecido por DMC Arabia Tourism LLC.",
+  "fullDescription": "Una experiencia de medio dia en Abu Dhabi. Descubra lo mejor de Abu Dhabi.\n\nDMC Arabia Tourism LLC la organiza, y 6 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye audioguia multilingue y guia de habla inglesa licenciado y entrada para Warner Bros. No incluye , por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Descubra lo mejor de Abu Dhabi"
+  ],
+  "included": [
+   "Audioguia multilingue y guia de habla inglesa licenciado",
+   "Entrada para Warner Bros."
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "abu-dhabi-private-yacht-formula-1-luxury-experienc": {
+  "title": "Abu Dhabi: yate privado, Formula 1 y experiencia de lujo",
+  "metaTitle": "Abu Dhabi: yate privado, Formula 1 y experiencia de lujo",
+  "metaDescription": "Une excursion de un dia completo desde Abu Dhabi que visita Jeep / SUV y Abu Dhabi. Ofrecido por Al ANMAR- United Arab Emirates.",
+  "shortDescription": "Une excursion de un dia completo desde Abu Dhabi que visita Jeep / SUV y Abu Dhabi. Ofrecido por Al ANMAR- United Arab Emirates.",
+  "fullDescription": "Una excursion de un dia completo desde Abu Dhabi, que recorre Jeep / SUV y Abu Dhabi. La parada mas larga es Jeep / SUV, con una duracion de unos 6 horas. Hay 2 paradas en total.\n\nEl orden de la ruta es Jeep / SUV (6h), luego Abu Dhabi (6h).\n\nEl precio incluye vea Abu Dhabi desde el agua a bordo de un yate privado, pase directamente de la vida en yate al territorio de la Formula 1, viva la calma y la grandeza de la Gran Mezquita Sheikh Zayed y entre en Qasr Al Watan y descubra otra cara de Abu Dhabi. No incluye la comida y las bebidas no estan incluidas. Se pueden pedir por separado comidas premium, cafe con oro, y otras especialidades, segun el lugar, por lo que debe presupuestar eso por separado. Dos viajeros pagan 4901 $ juntos en lugar de 4901 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Une excursion de un dia completo desde Abu Dhabi que visita Jeep / SUV y Abu Dhabi. Ofrecido por Al ANMAR- United Arab Emirates."
+  ],
+  "included": [
+   "Vea Abu Dhabi desde el agua a bordo de un yate privado",
+   "Pase directamente de la vida en yate al territorio de la Formula 1",
+   "Viva la calma y la grandeza de la Gran Mezquita Sheikh Zayed",
+   "Entre en Qasr Al Watan y descubra otra cara de Abu Dhabi"
+  ],
+  "notIncluded": [
+   "La comida y las bebidas no estan incluidas. Se pueden pedir por separado comidas premium, cafe con oro, y otras especialidades, segun el lugar."
+  ]
+ },
+ "dubai-private-hot-air-balloon-tour-over-the-dubai": {
+  "title": "Dubai: tour privado en globo aerostatico sobre el desierto de Dubai",
+  "metaTitle": "Dubai: tour privado en globo aerostatico sobre el desierto de ...",
+  "metaDescription": "Une excursion de medio dia desde Dubai que visita Jeep / SUV y Sindbad Gulf Balloons WH. Ofrecido por Sindbad Gulf Balloons CO LLC.",
+  "shortDescription": "Une excursion de medio dia desde Dubai que visita Jeep / SUV y Sindbad Gulf Balloons WH. Ofrecido por Sindbad Gulf Balloons CO LLC.",
+  "fullDescription": "Una excursion de medio dia desde Dubai, que recorre Jeep / SUV y Sindbad Gulf Balloons WH. Hay 2 paradas en total.\n\nEl orden de la ruta es Jeep / SUV (45 min), luego Sindbad Gulf Balloons WH.\n\nEl precio incluye recogida y regreso privados desde Dubai o Sharjah, paseo privado en globo aerostatico de 40 a 70 minutos, bebidas de bienvenida a la llegada y wi-Fi a bordo. No incluye montaje especial de desayuno privado en un campamento beduino, paseo en camello y fotos de cetreria, por lo que debe presupuestar eso por separado. Dos viajeros pagan 5324 $ juntos en lugar de 5324 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Une excursion de medio dia desde Dubai que visita Jeep / SUV y Sindbad Gulf Balloons WH. Ofrecido por Sindbad Gulf Balloons CO LLC."
+  ],
+  "included": [
+   "Recogida y regreso privados desde Dubai o Sharjah",
+   "Paseo privado en globo aerostatico de 40 a 70 minutos",
+   "Bebidas de bienvenida a la llegada",
+   "Wi-Fi a bordo"
+  ],
+  "notIncluded": [
+   "Montaje especial de desayuno privado en un campamento beduino",
+   "Paseo en camello",
+   "Fotos de cetreria"
+  ]
+ },
+ "dubai-red-dunes-desert-safari-premium-camp-bbq-5": {
+  "title": "Dubai: safari por las Dunas Rojas, campamento premium, BBQ y 5 espectaculos",
+  "metaTitle": "Dubai: safari por las Dunas Rojas, campamento premium, BBQ y 5...",
+  "metaDescription": "Une excursion de un dia completo desde Dubai que visita Lahbab Desert. Ofrecido por Dream Journey.",
+  "shortDescription": "Une excursion de un dia completo desde Dubai que visita Lahbab Desert. Ofrecido por Dream Journey.",
+  "fullDescription": "Una excursion de un dia completo desde Dubai, que recorre Lahbab Desert.\n\nEl precio incluye recogida y regreso al hotel, safari en SUV Land Cruiser 4x4, breve paseo en camello y foto con un halcon. No incluye bebidas alcoholicas, impresiones de fotos y souvenirs, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de un dia completo desde Dubai que visita Lahbab Desert. Ofrecido por Dream Journey."
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Safari en SUV Land Cruiser 4x4",
+   "Breve paseo en camello",
+   "Foto con un halcon"
+  ],
+  "notIncluded": [
+   "Bebidas alcoholicas",
+   "Impresiones de fotos",
+   "Souvenirs"
+  ]
+ },
+ "dubai-old-town-street-food-creek-souks-emirati-hou": {
+  "title": "Dubai: ciudad antigua, comida callejera, creek, zocos, y casa emirati",
+  "metaTitle": "Dubai: ciudad antigua, comida callejera, creek, zocos, y casa ...",
+  "metaDescription": "Une excursion de 3 hora(s) desde Dubai que visita Al Fahidi Fort, Al Seef, Bur Dubai Souk Market y Bur Dubai Abra Dock. Ofrecido por OceanAir Travels.",
+  "shortDescription": "Une excursion de 3 hora(s) desde Dubai que visita Al Fahidi Fort, Al Seef, Bur Dubai Souk Market y Bur Dubai Abra Dock. Ofrecido por OceanAir Travels.",
+  "fullDescription": "Una excursion de 3 hora(s) desde Dubai, que recorre Al Fahidi Fort, Al Seef, Bur Dubai Souk Market y Bur Dubai Abra Dock. Hay 8 paradas en total.\n\nEl orden de la ruta es Al Fahidi Fort (15 min), luego Al Seef (15 min), luego Bur Dubai Souk Market (30 min), luego Bur Dubai Abra Dock (15 min), luego Dubai Creek (15 min).\n\nEl precio incluye guia, entradas a museos y sitios patrimoniales, parada fotografica en la Mezquita Al Seef y paseo en abra (paseo tradicional en barco por el Dubai Creek). No incluye propinas (opcional), por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de 3 hora(s) desde Dubai que visita Al Fahidi Fort, Al Seef, Bur Dubai Souk Market y Bur Dubai Abra Dock. Ofrecido por OceanAir Travels."
+  ],
+  "included": [
+   "Guia",
+   "Entradas a museos y sitios patrimoniales",
+   "Parada fotografica en la Mezquita Al Seef",
+   "Paseo en abra (paseo tradicional en barco por el Dubai Creek)"
+  ],
+  "notIncluded": [
+   "Propinas (opcional)"
+  ]
+ },
+ "dubai-half-day-camel-trekking-with-al-marmoom-brea": {
+  "title": "Dubai: trekking en camello de medio dia con desayuno en Al Marmoom",
+  "metaTitle": "Dubai: trekking en camello de medio dia con desayuno en Al Mar...",
+  "metaDescription": "Experiencia de medio dia en Dubai. Visite un pueblo beduino tradicional y pruebe un autentico desayuno beduino. Ofrecido por OceanAir Travels.",
+  "shortDescription": "Experiencia de medio dia en Dubai. Visite un pueblo beduino tradicional y pruebe un autentico desayuno beduino. Ofrecido por OceanAir Travels.",
+  "fullDescription": "Una experiencia de medio dia en Dubai. Visite un pueblo beduino tradicional y pruebe un autentico desayuno beduino.\n\nOceanAir Travels la organiza, y 7 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel, desayuno beduino, paseo en caravana de camellos (45 minutos) y avistamiento de animales. No incluye propinas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Visite un pueblo beduino tradicional y pruebe un autentico desayuno beduino"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Desayuno beduino",
+   "Paseo en caravana de camellos (45 minutos)",
+   "Avistamiento de animales"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "dubai-guided-sightseeing-tour-and-img-theme-park-t": {
+  "title": "Dubai: tour turistico guiado y entrada para el parque tematico IMG",
+  "metaTitle": "Dubai: tour turistico guiado y entrada para el parque tematico...",
+  "metaDescription": "Une excursion de medio dia desde Dubai que visita Burj Khalifa, Souk Madinat Jumeirah, Burj Al Arab y Dubai Marina Walk. Ofrecido por Travtur Tourism L.L.C.",
+  "shortDescription": "Une excursion de medio dia desde Dubai que visita Burj Khalifa, Souk Madinat Jumeirah, Burj Al Arab y Dubai Marina Walk. Ofrecido por Travtur Tourism L.L.C.",
+  "fullDescription": "Una excursion de medio dia desde Dubai, que recorre Burj Khalifa, Souk Madinat Jumeirah, Burj Al Arab y Dubai Marina Walk. Hay 7 paradas en total.\n\nEl orden de la ruta es Burj Khalifa (15 min), luego Souk Madinat Jumeirah (20 min), luego Burj Al Arab (10 min), luego Dubai Marina Walk (15 min), luego The Palm Jumeirah (15 min).\n\nEl precio incluye recogida desde hoteles de Dubai, transporte con aire acondicionado, guia profesional que habla ingles y tour turistico guiado por la ciudad de Dubai. No incluye traslado al hotel despues de la visita a IMG, comida y bebidas y gastos personales, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de medio dia desde Dubai que visita Burj Khalifa, Souk Madinat Jumeirah, Burj Al Arab y Dubai Marina Walk. Ofrecido por Travtur Tourism L.L.C."
+  ],
+  "included": [
+   "Recogida desde hoteles de Dubai",
+   "Transporte con aire acondicionado",
+   "Guia profesional que habla ingles",
+   "Tour turistico guiado por la ciudad de Dubai"
+  ],
+  "notIncluded": [
+   "Traslado al hotel despues de la visita a IMG",
+   "Comida y bebidas",
+   "Gastos personales"
+  ]
+ },
  "from-ras-al-khaimah-private-dubai-highlights-suv-c": {
   "title": "Desde Ras Al Khaimah: tour privado por lo mejor de Dubai en SUV",
   "metaTitle": "Desde Ras Al Khaimah: tour privado por lo mejor de Dubai en SUV",
@@ -79853,6 +80245,27 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Guia turistico",
    "Comidas"
+  ]
+ },
+ "from-abu-dhabi-scuba-dive-and-snorkeling-with-tran": {
+  "title": "Desde Abu Dhabi: buceo y snorkel con traslado",
+  "metaTitle": "Desde Abu Dhabi: buceo y snorkel con traslado",
+  "metaDescription": "Une excursion de un dia completo desde Abu Dhabi que visita Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah y Khorfakkan Amphitheatre. Ofrecido por Ree...",
+  "shortDescription": "Une excursion de un dia completo desde Abu Dhabi que visita Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah y Khorfakkan Amphitheatre. Ofrecido por Reef Oasis Diving Center.",
+  "fullDescription": "Una excursion de un dia completo desde Abu Dhabi, que recorre Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah y Khorfakkan Amphitheatre. La parada mas larga es Reef Oasis Dive Club, Fujairah, con una duracion de unos 1 hora. Hay 5 paradas en total.\n\nEl orden de la ruta es Snoopy Island, luego Sharm Rocks, luego Reef Oasis Dive Club, Fujairah (1h), luego Khorfakkan Amphitheatre (15 min), luego Khorfakkan Waterfalls (15 min).\n\nEl precio incluye recogida y regreso en Abu Dhabi, equipo de buceo, equipo de buceo con tubo y fotos submarinas. No incluye toallas, protector solar y ropa de bano, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de un dia completo desde Abu Dhabi que visita Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah y Khorfakkan Amphitheatre. Ofrecido por Reef Oasis Diving Center."
+  ],
+  "included": [
+   "Recogida y regreso en Abu Dhabi",
+   "Equipo de buceo",
+   "Equipo de buceo con tubo",
+   "Fotos submarinas"
+  ],
+  "notIncluded": [
+   "Toallas",
+   "Protector solar",
+   "Ropa de bano"
   ]
  },
  "dubai-40ft-boat-rental-cruise-by-the-sea": {
