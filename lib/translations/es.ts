@@ -36218,6 +36218,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier gasto personal"
   ]
  },
+ "rajasthan-03-days-unique-udaipur-chittorgarh": {
+  "title": "Rajasthan: tour guiado unico de 3 dias por Udaipur y Chittorgarh",
+  "metaTitle": "Rajasthan: 3 dias, Udaipur, Chittorgarh",
+  "metaDescription": "Disfrute de un paseo en barco por el lago Pichola, viendo el Lake Palace y la isla Jag Mandir, luego el fuerte de Chittorgarh.",
+  "shortDescription": "Disfrute de un paseo en barco por el lago Pichola, viendo el Lake Palace y la isla Jag Mandir",
+  "fullDescription": "Rajasthan: tour guiado unico de 3 dias por Udaipur y Chittorgarh. Disfrute de un paseo en barco por el lago Pichola, viendo el Lake Palace y la isla Jag Mandir.\n\nDia 1: llegada a Udaipur - recorrido local\nLlegue a Udaipur, registrese en el hotel.\nVisite el majestuoso City Palace, uno de los complejos de palacios mas grandes de Rajasthan.\nExplore el ornamentado templo Jagdish y el pacifico Saheliyon ki Bari (Jardin de las Doncellas).\nDisfrute de un paseo en barco por el lago Pichola, viendo el Lake Palace y la isla Jag Mandir.\nTarde libre para compras en los coloridos bazares de Udaipur.\nPernoctacion en Udaipur.\n\nDia 2: excursion a Chittorgarh (120 km / 3 h, trayecto de ida)\nDespues del desayuno, conduzca hacia Chittorgarh.\nExplore el gran fuerte de Chittorgarh (sitio del Patrimonio de la Humanidad de la UNESCO), el fuerte mas grande de India. Vijay Stambh (Torre de la Victoria), Kirti Stambh (Torre de la Fama).\nPalacio Rana Kumbha, Palacio de la Rani Padmini, Templo Meera.\nRegreso a Udaipur por la tarde. Pernoctacion en Udaipur.\n\nDia 3: recorrido por Udaipur - salida\nDespues del desayuno, visite el lago Fateh Sagar, Moti Magri (Monumento a Maharana Pratap) y el Bharatiya Lok Kala Mandal (museo de arte folclorico).\nSi el tiempo lo permite, explore el Palacio del Monzon (Sajjangarh) para vistas panoramicas de la ciudad y el lago.\nTraslado al Aeropuerto o Estacion de Trenes de Udaipur para continuar su viaje.\n\n### Que incluye\n\n- 2 noches de alojamiento en hotel en ocupacion individual/doble/triple (si se elige la opcion)\n- 2 deliciosos desayunos en el hotel (si se elige la opcion)\n- Recogida y traslado al hotel/aeropuerto/estacion de trenes\n- Transporte en vehiculo privado con aire acondicionado (si se elige la opcion)\n- Guia profesional aprobado por el gobierno (si se elige la opcion)\n- Paseo en barco por el lago Pichola en Udaipur (si se elige la opcion)\n- 2 botellas de agua mineral por persona y por dia\n- Todos los impuestos aplicables como combustible, estacionamiento y peajes, etc.\n\n### No incluye\n\n- Propinas\n- Tarifas de camara\n- Cualquier gasto personal\n- Tarifa de entrada a monumentos, tarifas de camara\n- Costo de la cena de gala de Fin de Anio y Navidad",
+  "highlights": [
+   "Disfrute de un paseo en barco por el lago Pichola, viendo el Lake Palace y la isla Jag Mandir"
+  ],
+  "included": [
+   "2 noches de alojamiento en hotel en ocupacion individual/doble/triple (si se elige la opcion).\n2 deliciosos desayunos en el hotel (si se elige la opcion).\nRecogida y traslado al hotel/aeropuerto/estacion de trenes\nTransporte en vehiculo privado con aire acondicionado (si se elige la opcion).\nGuia profesional aprobado por el gobierno (si se elige la opcion).\nPaseo en barco por el lago Pichola en Udaipur (si se elige la opcion).\n2 botellas de agua mineral por persona y por dia.\nTodos los impuestos aplicables como combustible, estacionamiento y peajes, etc."
+  ],
+  "notIncluded": [
+   "Propinas\nTarifas de camara.\nCualquier gasto personal.\nTarifa de entrada a monumentos, tarifas de camara.\nCosto de la cena de gala de Fin de Anio y Navidad."
+  ]
+ },
+ "udaipur-overnight-tour-from-jaipur": {
+  "title": "Tour nocturno a Udaipur desde Jaipur",
+  "metaTitle": "Udaipur: pernoctacion desde Jaipur",
+  "metaDescription": "Explore el majestuoso City Palace en Udaipur, con pernoctacion, visita al lago Pichola y al templo Jagdish desde Jaipur.",
+  "shortDescription": "Explore el majestuoso City Palace en Udaipur",
+  "fullDescription": "Tour nocturno a Udaipur desde Jaipur. Explore el majestuoso City Palace en Udaipur.\n\n## Dia 1 - Jaipur a Udaipur (400 km, aproximadamente 7 h)\n\nComenzaremos nuestro viaje con una recogida en el Aeropuerto de Jaipur por nuestro conductor. Desde alli, comenzaremos nuestro trayecto hacia Udaipur, un viaje pintoresco que tomara aproximadamente 7-8 horas. Haremos una parada para almorzar en un restaurante de carretera, donde podra probar algo de cocina local.\n\nDespues del almuerzo, continuaremos nuestro trayecto hacia Udaipur, llegando finalmente por la tarde. Nos registraremos en su hotel, y tendra el resto de la tarde libre para explorar la ciudad o relajarse en el hotel.\n\n## Dia 2 - recorrido por Udaipur y trayecto hacia Jaipur\n\nComenzaremos el dia con el desayuno en el hotel, seguido de nuestro recorrido turistico por Udaipur. Nuestra primera parada sera el majestuoso City Palace, un complejo de palacios que sirvio como residencia de la familia real. Desde alli, visitaremos el hermoso templo Jagdish, un templo hindu dedicado al senor Vishnu.\n\nDespues de visitar el templo, haremos una pausa para almorzar en un restaurante local. Por la tarde, visitaremos el lago Pichola, un pintoresco lago que ofrece vistas impresionantes de las colinas y palacios circundantes. Tambien tendra la opcion de disfrutar de un paseo en barco por el lago Pichola.\n\nDespues de nuestro recorrido turistico, comenzaremos nuestro trayecto de regreso a Jaipur, dejandolo finalmente en el Aeropuerto de Jaipur para continuar su viaje.\n\n### Que incluye\n\n- Asistencia de recogida y traslado\n- Todos los recorridos y traslados en vehiculo privado con aire acondicionado\n- Servicio de guia turistico en vivo\n- 1 noche de estancia en hotel deluxe con desayuno\n- Botellas de agua mineral\n- Todos los peajes e impuestos\n- Estacionamiento\n\n### No incluye\n\n- Propinas/gratificaciones para el guia y el conductor\n- Entradas a todos los monumentos\n- Cualquier tipo de comidas y bebidas\n- Gastos personales",
+  "highlights": [
+   "Explore el majestuoso City Palace en Udaipur"
+  ],
+  "included": [
+   "Asistencia de recogida y traslado.\nTodos los recorridos y traslados en vehiculo privado con aire acondicionado\nServicio de guia turistico en vivo.\n1 noche de estancia en hotel deluxe con desayuno\nBotellas de agua mineral\nTodos los peajes e impuestos\nEstacionamiento"
+  ],
+  "notIncluded": [
+   "Propinas/gratificaciones para el guia y el conductor.\nEntradas a todos los monumentos.\nCualquier tipo de comidas y bebidas.\nGastos personales."
+  ]
+ },
+ "from-jaipur-private-ajmer-pushkar-tour-by-cab": {
+  "title": "Desde Jaipur: tour privado a Ajmer y Pushkar en coche",
+  "metaTitle": "Desde Jaipur: Ajmer y Pushkar en coche",
+  "metaDescription": "Viaje comodamente en un coche privado con aire acondicionado con un conductor dedicado desde Jaipur, en un tour espiritual a Pushkar y Ajmer.",
+  "shortDescription": "Viaje comodamente en un coche privado con aire acondicionado con un conductor dedicado desde Jaipur.",
+  "fullDescription": "Desde Jaipur: tour privado a Ajmer y Pushkar en coche. Viaje comodamente en un coche privado con aire acondicionado con un conductor dedicado desde Jaipur.\n\nPushkar y Ajmer: un viaje espiritual guiado en el mismo dia\nEmbarquese en un cautivador tour guiado en el mismo dia desde su estancia en Jaipur hacia la serena ciudad de Pushkar, un tranquilo oasis acunado por el lago Ana Sagar y las colinas Aravalli. En solo tres horas, sumerjase en la rica cultura de esta encantadora ciudad hindu.\nComience su dia presenciando un impresionante amanecer en Pushkar, proyectando tonos dorados sobre su paisaje espiritual. Luego, si lo desea, descubra el corazon desertico de Pushkar con emocionantes safaris en camello, jeep o caballo. Conectese con los vibrantes locales, vestidos con atuendos tradicionales, y explore sus pintorescas casas, cada una una ventana a antiguas costumbres.\nA su llegada, un guia conocedor lo llevara a traves de las joyas espirituales de Pushkar, incluido el iconico templo de Brahma. Maravillese con su exquisita arquitectura y profundice en el profundo significado de este venerado sitio hindu.\n\nPushkar y Ajmer: un nucleo historico y espiritual\nContinue su expedicion hacia Ajmer, una ciudad llena de historia y un importante destino de peregrinacion. Siga a su guia local por sus bulliciosas calles, descubriendo maravillas ocultas, y culmine su visita con una conmovedora parada en el Santuario de Khwaja Muin-ud-din Chishti. Este espacio sagrado resuena con energia espiritual, reflejando la armoniosa mezcla de diversas culturas y fe profundamente arraigada de India.\nPara el almuerzo, disfrute de una deliciosa comida en un cafe al atardecer en Pushkar, con hermosas vistas mientras cena.\n\nRegreso y reflexion\nMientras el dia se desarrolla, disfrute del viaje de regreso a Jaipur, empapandose de los paisajes tranquilos. El tour terminara en Jaipur, dejandolo en su ubicacion preferida. Reflexione sobre las enriquecedoras experiencias del dia, no solo como turismo, sino como una profunda conexion con el diverso patrimonio espiritual de Rajasthan. Este tour inmersivo ofrece mas que un vistazo al pasado; es una oportunidad para forjar un vinculo profundo y significativo con las raices espirituales de India. Deje que cada momento revele una historia de riqueza cultural y tradiciones sagradas, asegurando que su viaje sea una experiencia verdaderamente transformadora.\n\n### Que incluye\n\n- Vehiculo privado con aire acondicionado con conductor de habla inglesa\n- Agua embotellada (ilimitada)\n- Wifi en el coche\n- Papel de pañuelos\n- Recogida y traslado desde su hotel o cualquier ubicacion deseada en Jaipur\n- Gastos de combustible, estacionamiento, peaje y todos los demas impuestos\n\n### No incluye\n\n- Comida y bebidas\n- Propinas para el conductor\n- Tarifas de entrada a monumentos\n- Paseo en camello\n- Safari en jeep\n- Paseo en tuk-tuk al dargah de Ajmer",
+  "highlights": [
+   "Viaje comodamente en un coche privado con aire acondicionado con un conductor dedicado desde Jaipur."
+  ],
+  "included": [
+   "Vehiculo privado con aire acondicionado con conductor de habla inglesa.\nAgua embotellada (ilimitada)\nWifi en el coche.\nPapel de pañuelos\nRecogida y traslado desde su hotel o cualquier ubicacion deseada en Jaipur.\nGastos de combustible, estacionamiento, peaje y todos los demas impuestos."
+  ],
+  "notIncluded": [
+   "Comida y bebidas\nPropinas para el conductor\nTarifas de entrada a monumentos\nPaseo en camello\nSafari en jeep\nPaseo en tuk-tuk al dargah de Ajmer."
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
