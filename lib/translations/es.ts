@@ -35786,6 +35786,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "No se incluye ningun tipo de gasto personal\nAlmuerzo/cena/bebidas"
   ]
  },
+ "3-day-private-tour-of-delhi-agra-and-jaipur": {
+  "title": "Tour privado de 3 dias por Delhi, Agra y Jaipur",
+  "metaTitle": "Tour de 3 dias, Delhi, Agra, Jaipur",
+  "metaDescription": "Descubra el triangulo dorado con asistencia 24/7: tumba de Humayun, Taj Mahal, fuerte de Amber y la ciudad rosa de Jaipur.",
+  "shortDescription": "Asistencia durante todo el tour, 24h/24 y 7j/7",
+  "fullDescription": "Tour privado de 3 dias por Delhi, Agra y Jaipur. Asistencia durante todo el tour, 24h/24 y 7j/7.\n\nDia 1: llegada a Delhi - explore la capital\nSu aventura comienza con una recogida en su hotel de Delhi o en el aeropuerto. Si llega temprano, emprenda un tour turistico por el viejo y nuevo Delhi, visitando lugares emblematicos como la tumba de Humayun, el Qutub Minar y el Templo del Loto. Por la tarde, parta hacia Agra, a 3 horas de distancia, por la autopista expresa, y registrese en su hotel para pasar la noche.\n\nDia 2: Agra - explore la ciudad del amor\nComience su dia con un tour guiado por Agra, empezando con el impresionante Mausoleo Blanco al amanecer, el mejor momento para visitar esta maravilla arquitectonica. Aprenda sobre su historia e importancia antes de dirigirse al fuerte de Agra, un sitio del Patrimonio de la Humanidad de la UNESCO. Parta hacia Jaipur, a 4 horas de distancia, con una parada en Fatehpur Sikri, una fascinante ciudad antigua. Registrese en su hotel de Jaipur para pasar la noche.\n\nDia 3: Jaipur - descubra la ciudad rosa\nDespues del desayuno, explore Jaipur, la vibrante capital de Rajasthan. Visite el magnifico fuerte de Amber, disfrute de un paseo en jeep y explore el City Palace, el Jantar Mantar, el Hawa Mahal y el Jal Mahal. Por la tarde, parta hacia Delhi, donde su conductor lo dejara en el aeropuerto, concluyendo su inolvidable tour del triangulo dorado.\n\n¡Termine su viaje con recuerdos preciados y el deseo de regresar para mas aventuras en India!\n\n### Que incluye\n\n- Alojamiento: 2 noches en hoteles de 4 estrellas (solo con la opcion de tour todo incluido)\n- Comidas: desayuno diario en el hotel (solo con la opcion de tour todo incluido)\n- Transporte: vehiculo con aire acondicionado para todos los traslados y recorridos\n- Guia profesional: guia turistico local experimentado y conocedor\n- Tarifas de entrada: incluidas para todos los monumentos y atracciones (con la opcion de tour todo incluido o tour sin alojamiento)\n- Impuestos y cargos: todos los impuestos y cargos por servicio aplicables incluidos\n- Asistencia: soporte 24/7 durante todo el tour\n- Botella de agua\n\n### No incluye\n\n- Gastos personales: cualquier gasto personal como propinas, recuerdos, comidas o bebidas adicionales y compras\n- Actividades opcionales\n- Propinas: para el guia, el conductor o el personal del hotel",
+  "highlights": [
+   "Asistencia durante todo el tour, 24h/24 y 7j/7"
+  ],
+  "included": [
+   "Alojamiento: 2 noches en hoteles de 4 estrellas (solo con la opcion de tour todo incluido)\nComidas: desayuno diario en el hotel (solo con la opcion de tour todo incluido)\nTransporte: vehiculo con aire acondicionado para todos los traslados y recorridos\nGuia profesional: guia turistico local experimentado y conocedor\nTarifas de entrada: incluidas para todos los monumentos y atracciones (con la opcion de tour todo incluido o tour sin alojamiento)\nImpuestos y cargos: todos los impuestos y cargos por servicio aplicables incluidos\nAsistencia: soporte 24/7 durante todo el tour\nBotella de agua"
+  ],
+  "notIncluded": [
+   "Gastos personales: cualquier gasto personal como propinas, recuerdos, comidas o bebidas adicionales y compras.\nActividades opcionales\nPropinas: para el guia, el conductor o el personal del hotel."
+  ]
+ },
+ "from-delhi-jaipur-cultural-historical-private": {
+  "title": "Desde Delhi: tour privado cultural e historico de la ciudad de Jaipur",
+  "metaTitle": "Desde Delhi: Jaipur cultural e historico",
+  "metaDescription": "Experimente la impresionante arquitectura de Jaipur en un tour desde Nueva Delhi: fuerte de Amber, City Palace, Hawa Mahal y mas.",
+  "shortDescription": "Experimente la impresionante arquitectura de Jaipur en un tour desde Nueva Delhi.",
+  "fullDescription": "Desde Delhi: tour privado cultural e historico de la ciudad de Jaipur. Experimente la impresionante arquitectura de Jaipur en un tour desde Nueva Delhi.\n\nParta de Nueva Delhi antes del amanecer y relajese en su coche privado con aire acondicionado durante el viaje a Jaipur.\nA su llegada, reunase con su guia local y comience a explorar el magnifico fuerte de Amber, una fortaleza en la cima de una colina que exhibe una impresionante arquitectura Rajput e hindu. Continue hacia el historico Panna Meena ka Kund, un hermoso pozo escalonado conocido por sus escaleras simetricas y diseño unico.\n\nA continuacion, detengase para fotos en el pintoresco Jal Mahal, situado en medio del lago Man Sagar. Disfrute de una pausa para un almuerzo tradicional en un restaurante local antes de visitar el gran City Palace, un complejo real que combina arquitectura mogola, europea y Rajput.\n\nContinue hacia el Jantar Mantar, catalogado por la UNESCO, para descubrir fascinantes instrumentos astronomicos. Visite el iconico Hawa Mahal, famoso por su fachada de arenisca rosa y sus cientos de ventanas enrejadas. Explore los pacificos cenotafios reales de Gaitor Ki Chhatriyan y termine su recorrido con coloridas paradas fotograficas en la vibrante Patrika Gate. Despues de un dia memorable, regrese comodamente a Delhi con traslado a su ubicacion preferida.\n\n### Que incluye\n\n- Recogida y traslado al hotel\n- Guia profesional\n- Entradas a monumentos (si se elige la opcion)\n- Recorridos en coche privado con aire acondicionado\n- Agua embotellada\n\n### No incluye\n\n- Almuerzo\n- Propinas",
+  "highlights": [
+   "Experimente la impresionante arquitectura de Jaipur en un tour desde Nueva Delhi."
+  ],
+  "included": [
+   "Recogida y traslado al hotel\nGuia profesional\nEntradas a monumentos (si se elige la opcion)\nRecorridos en coche privado con aire acondicionado\nAgua embotellada"
+  ],
+  "notIncluded": [
+   "Almuerzo\nPropinas"
+  ]
+ },
+ "jaipur-half-day-city-tour-by-e-rickshaw-with": {
+  "title": "Jaipur: tour de medio dia por la ciudad en e-rickshaw con conductora",
+  "metaTitle": "Jaipur: medio dia en e-rickshaw",
+  "metaDescription": "Descubra el rico patrimonio de Jaipur en un tour guiado en e-rickshaw: mercado de flores, Hawa Mahal, City Palace y talleres de artesanas.",
+  "shortDescription": "Descubra el rico patrimonio de Jaipur en un tour guiado en e-rickshaw",
+  "fullDescription": "Jaipur: tour de medio dia por la ciudad en e-rickshaw con conductora. Descubra el rico patrimonio de Jaipur en un tour guiado en e-rickshaw.\n\nComience su dia con una visita al impresionante mercado de flores, donde sera recibido por una variedad de flores vibrantes y encantadores aromas. A continuacion, visite el Hawa Mahal, el Jantar Mantar y el real City Palace. Despues de explorar la ciudad amurallada, visite fabricas y almacenes locales donde podra ver el habil trabajo de mujeres artesanas. Finalmente, su viaje concluye con una visita al Museo Albert Hall.\n\nEl mercado de flores de Jaipur es un espectaculo digno de ver. Con el amanecer, el mercado se transforma en un caleidoscopio de colores mientras los vendedores muestran sus hermosas flores. Desde cada rincon, una explosion de tonos saluda a los visitantes con una diversa coleccion de flores adornando cada puesto.\n\nEl Hawa Mahal es un monumento iconico en Jaipur, testimonio del rico patrimonio arquitectonico de la ciudad. Esta impresionante estructura se alza alta y orgullosa, mostrando disenios intrincados y una artesania que han resistido el paso del tiempo.\n\nUbicado en el corazon de Jaipur, el Jantar Mantar es un antiguo observatorio astronomico que cuenta con el reloj de sol de piedra mas grande del mundo. Esta notable estructura ha permanecido durante siglos y sigue fascinando a los visitantes con su intrincado diseño e impresionante tamanio.\n\nEl City Palace es un complejo unico que incluye varios patios, edificios, pabellones, jardines y templos. Entre las muchas estructuras dentro del complejo se encuentran algunas de sus atracciones mas populares: Chandra Mahal, Mubarak Mahal, el templo Shri Govind Dev y el Museo del City Palace.\n\nEl Jal Mahal, tambien conocido como el Palacio del Agua, es una atraccion imprescindible en Jaipur. Rodeado de impresionantes maravillas arquitectonicas, este palacio destaca por su unica ubicacion en medio del lago Man Sagar.\n\nSumerjase en el mundo de las mujeres artesanas y observe su impecable artesania mientras recorre fabricas y almacenes llenos de alfombras, telas bordadas y otros tesoros hechos a mano. Experimente de primera mano la belleza y la habilidad detras de estas creaciones mientras aprende sobre las apasionadas mujeres que ponen su corazon y alma en cada pieza.\n\nSu tour termina en el Museo Albert Hall. El museo cuenta con una diversa coleccion de artefactos, desde pinturas y joyeria hasta alfombras, talladuras de marfil, esculturas de piedra, trabajos en metal y piezas de cristal. Entre los tesoros se encuentran monedas antiguas de varios periodos como las eras Gupta, Kushan, Sultanato de Delhi, Mogol y britanica. Los visitantes pueden maravillarse con la impresionante variedad de objetos en exhibicion en este museo.\n\n### Que incluye\n\n- Recogida y traslado al hotel\n- Tour privado en e-rickshaw conducido por mujeres\n- Guia turistico profesional\n- Te, cafe o lassi con samosa de cortesia\n\n### No incluye\n\n- Tarifas de entrada a monumentos\n- Propinas y gratificaciones\n- Cualquier comida",
+  "highlights": [
+   "Descubra el rico patrimonio de Jaipur en un tour guiado en e-rickshaw"
+  ],
+  "included": [
+   "Recogida y traslado al hotel\nTour privado en e-rickshaw conducido por mujeres.\nGuia turistico profesional.\nTe, cafe o lassi con samosa de cortesia."
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a monumentos.\nPropinas y gratificaciones.\nCualquier comida."
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
