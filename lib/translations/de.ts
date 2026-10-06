@@ -34586,6 +34586,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche persönlichen Ausgaben oder zusätzliche Mahlzeiten\nTrinkgelder\nReiseversicherung"
   ]
  },
+ "11-day-rajasthan-tour-jaipur-udaipur-more": {
+  "title": "11-tägige Rajasthan-Tour: Jaipur, Udaipur und mehr",
+  "metaTitle": "11-tägige Rajasthan-Tour: Jaipur, Udaipur",
+  "metaDescription": "Erkunden Sie die majestätischen Festungen und Paläste von Jaipur, Jodhpur und Udaipur, bei dieser 11-tägigen Rajasthan-Tour.",
+  "shortDescription": "Erkunden Sie die majestätischen Festungen und Paläste von Jaipur, Jodhpur und Udaipur.",
+  "fullDescription": "11-tägige Rajasthan-Tour: Jaipur, Udaipur und mehr. Erkunden Sie die majestätischen Festungen und Paläste von Jaipur, Jodhpur und Udaipur.\n\nGenießen Sie eine 11-tägige Tour durch Rajasthan, die Udaipur, Jodhpur, Jaisalmer und Bikaner abdeckt. Erkunden Sie atemberaubende Landschaften, reiches Erbe, und unterstützen Sie ländliche Handwerker bei dieser kulturell immersiven Reise.\n\n### Inklusive\n\n- Alle Transfers und Besichtigungen im Privatfahrzeug\n- Mautgebühren, Parken, Fahrerzulage und Kraftstoff\n- Professioneller Reiseführer (falls Option gewählt)\n- 3-Sterne-Unterkunft inbegriffen (falls Option gewählt)\n- Frühstück inbegriffen (falls Option gewählt)\n- Eintrittskarten inbegriffen (falls Option gewählt)\n\n### Nicht inklusive\n\n- Keinerlei persönliche Ausgaben sind inbegriffen\n- Mittag-/Abendessen/Getränke",
+  "highlights": [
+   "Erkunden Sie die majestätischen Festungen und Paläste von Jaipur, Jodhpur und Udaipur"
+  ],
+  "included": [
+   "Alle Transfers und Besichtigungen im Privatfahrzeug\nMautgebühren, Parken, Fahrerzulage und Kraftstoff\nProfessioneller Reiseführer (falls Option gewählt)\n3-Sterne-Unterkunft inbegriffen (falls Option gewählt)\nFrühstück inbegriffen (falls Option gewählt)\nEintrittskarten inbegriffen (falls Option gewählt)"
+  ],
+  "notIncluded": [
+   "Keinerlei persönliche Ausgaben sind inbegriffen\nMittag-/Abendessen/Getränke"
+  ]
+ },
+ "udaipur-2-days-private-tour-with-kumbhalgarh-fort": {
+  "title": "Udaipur: private 2-tägige Tour mit Kumbhalgarh-Fort und Ranakpur",
+  "metaTitle": "Udaipur: private 2-Tage-Tour, Kumbhalgarh, Ranakpur",
+  "metaDescription": "Unternehmen Sie eine private zweitägige Tour durch die Stadt Udaipur und die umliegenden Paläste, mit dem Kumbhalgarh-Fort.",
+  "shortDescription": "Unternehmen Sie eine private zweitägige Tour durch die Stadt Udaipur und die umliegenden Paläste.",
+  "fullDescription": "Udaipur: private 2-tägige Tour mit Kumbhalgarh-Fort und Ranakpur. Unternehmen Sie eine private zweitägige Tour durch die Stadt Udaipur und die umliegenden Paläste.\n\nIhr Fahrer holt Sie morgens am Flughafen Udaipur, am Bahnhof Udaipur Junction, am Busbahnhof oder an Ihrem günstig gelegenen Hotel in Udaipur ab. Der größte Palastkomplex in Rajasthan ist der City Palace von Udaipur. Dieser Palast wurde 1559 von Maharana Udai Singh begonnen und im 18. Jahrhundert von seinen Nachfolgern fertiggestellt. Sie besuchen den Shree-Jagdish-Tempel, einen bekannten Tempel, der dem Herrn Vishnu gewidmet ist, nach dieser Palasttour. Maharana Jagat Singhji errichtete diesen dreistöckigen, 79 Fuß hohen Tempel im Jahr 1651 zu Kosten von 1,5 Millionen Rupien. Die königliche Familie von Udaipur besitzt und betreibt ihn.\n\nIhr nächster Halt ist Dudh Talai, am Ufer des Pichola-Sees in der Nähe des Stadtpalastes gelegen. Hier können Sie die wunderschönen Ausblicke auf den Pichola-See, den Jag Mandir und die Altstadt von Udaipur genießen. Sie können wählen, ob Sie um den See herumgehen möchten, um verschiedene Vogelarten zu sehen, sich im üppig grünen Garten entspannen, oder die musikalischen Brunnen im Park genießen. Sie können auch bei Saheliyon Ki Bari, Moti Magari und dem Sukhadiya Circle anhalten. Nach Abschluss der Tour werden Sie an Ihrem gewählten Hotel für eine Übernachtung abgesetzt.\n\nTag 2: Udaipur – Kumbhalgarh-Fort – Ranakpur-Tempel\n\nNach dem Frühstück brechen Sie zu einer Tagestour zum Ranakpur-Jain-Tempel und zum Kumbhalgarh-Fort auf. Abhängig vom Verkehr dauert die Fahrt zum Kumbhalgarh-Fort, einer UNESCO-Welterbestätte, etwa zwei Stunden. Hier können Sie die faszinierenden Ausblicke genießen, während Sie mehr über die Geschichte des Forts erfahren. Oft als „die große Mauer Indiens\" bezeichnet, verfügt es über die zweitlängste Mauer der Welt. Besuchen Sie danach den Jain-Tempel in Ranakpur. Es wird angenommen, dass der Tempel im 15. Jahrhundert unter der Aufsicht des Jainisten Seth Dharna Shah erbaut wurde. Mit Unterstützung des Mewar-Königs Rana Kumbha, der forderte, dass der Tempel seinen Namen trage, baute er den Tempel. Das Idol von Adinath befindet sich in der Hauptkammer, die durch vier Eingänge zugänglich ist. Der Tempel verfügt auch über fünf Säulen, von denen jede ein Idol eines anderen Tirthankara trägt. Ein Idol von Adinath wird von der größten Säule in der Mitte getragen. Sie kehren nach dem Besuch des Tempels nach Udaipur zurück, wo Sie am Ziel Ihrer Wahl abgesetzt werden.\n\n### Inklusive\n\n- Abholung und Rückfahrt in Udaipur an Ihrem Hotel, am Flughafen oder am Bahnhof\n- Hotel (falls Option gewählt)\n- Private Tour\n- Besichtigung im klimatisierten Fahrzeug\n- Privater englischsprachiger Reiseführer\n- Alle Steuern inbegriffen\n\n### Nicht inklusive\n\n- Eintrittsgebühren\n- Essen\n- Trinkgeld\n- Bootsfahrt auf dem Pichola-See\n- Kameragebühr am City Palace, die 250 indische Rupien beträgt",
+  "highlights": [
+   "Unternehmen Sie eine private zweitägige Tour durch die Stadt Udaipur und die umliegenden Paläste"
+  ],
+  "included": [
+   "Abholung und Rückfahrt in Udaipur an Ihrem Hotel, am Flughafen oder am Bahnhof\nHotel (falls Option gewählt)\nPrivate Tour\nBesichtigung im klimatisierten Fahrzeug\nPrivater englischsprachiger Reiseführer\nAlle Steuern inbegriffen"
+  ],
+  "notIncluded": [
+   "Eintrittsgebühren\nEssen\nTrinkgeld\nBootsfahrt auf dem Pichola-See\nKameragebühr am City Palace, die 250 indische Rupien beträgt"
+  ]
+ },
+ "from-jaipur-taj-mahal-and-agra-fort-tour-with": {
+  "title": "Ab Jaipur: Taj-Mahal- und Agra-Fort-Tour mit 5-Sterne-Mittagessen",
+  "metaTitle": "Ab Jaipur: Taj Mahal und Agra-Fort, Mittagessen 5*",
+  "metaDescription": "Privater Experten-Reiseführer (5 Stunden), für diese Taj-Mahal- und Agra-Fort-Tour ab Jaipur mit 5-Sterne-Mittagessen.",
+  "shortDescription": "Privater Experten-Reiseführer (5 Stunden)",
+  "fullDescription": "Ab Jaipur: Taj-Mahal- und Agra-Fort-Tour mit 5-Sterne-Mittagessen. Privater Experten-Reiseführer (5 Stunden).\n\nEintages-Agra-Tour ab Jaipur\n\nBeginnen Sie Ihre Reise mit einer bequemen Abholung von Jaipur, direkt zur majestätischen Stadt Agra. Erster Halt: das atemberaubende Taj Mahal, ein zeitloses Symbol der Liebe und Mogul-Pracht.\n\nSchlendern Sie durch seine makellosen Gärten, bewundern Sie die kunstvollen Marmordetails, und spüren Sie die Romantik, die durch seine Mauern widerhallt.\n\nAls Nächstes erkunden Sie das historische Agra-Fort, eine beeindruckende Mischung aus Architektur und Geschichte mit Panoramablicken auf das Taj.\n\nBeenden Sie Ihren Tag mit einer malerischen Rückfahrt nach Jaipur, mit unvergesslichen Erinnerungen an eines der ikonischsten Erlebnisse Indiens.\n\n### Inklusive\n\n- Transport im privaten klimatisierten Auto\n- Abholung und Rückfahrt am Hotel\n- Wasserflaschen\n- Professioneller Reiseführer während der Besichtigung\n- Mautgebühren, Parken und zwischenstaatliche Steuern\n- Eintrittskarten für Denkmäler (falls Option gewählt)\n- 5-Sterne-Mittagessen (falls Option gewählt)\n\n### Nicht inklusive\n\n- Trinkgeld",
+  "highlights": [
+   "Privater Experten-Reiseführer (5 Stunden)"
+  ],
+  "included": [
+   "Transport im privaten klimatisierten Auto\nAbholung und Rückfahrt am Hotel\nWasserflaschen\nProfessioneller Reiseführer während der Besichtigung\nMautgebühren, Parken und zwischenstaatliche Steuern\nEintrittskarten für Denkmäler (falls Option gewählt)\n5-Sterne-Mittagessen (falls Option gewählt)"
+  ],
+  "notIncluded": [
+   "Trinkgeld"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
