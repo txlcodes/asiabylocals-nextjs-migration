@@ -34058,6 +34058,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Toute dépense personnelle\nToute nourriture et boisson\nPourboires pour le chauffeur et le guide\nDons et frais pour SOS"
   ]
  },
+ "from-delhi-2-day-jaipur-tour-with-palaces-forts": {
+  "title": "Depuis Delhi : circuit de 2 jours à Jaipur avec palais, forts et culture",
+  "metaTitle": "Depuis Delhi : circuit de 2 jours à Jaipur",
+  "metaDescription": "Détendez-vous lors d'un trajet privé et pittoresque de 4 heures de Delhi à Jaipur, pour ce circuit de 2 jours.",
+  "shortDescription": "Détendez-vous lors d'un trajet privé et pittoresque de 4 heures de Delhi à Jaipur.",
+  "fullDescription": "Depuis Delhi : circuit de 2 jours à Jaipur avec palais, forts et culture. Détendez-vous lors d'un trajet privé et pittoresque de 4 heures de Delhi à Jaipur.\n\nJour 1 : prise en charge à Delhi, trajet vers Jaipur et circuit de la ville de Jaipur\nVotre chauffeur vous prendra en charge à 8h00 à votre hôtel, à l'aéroport ou à l'endroit désigné à Delhi/NCR/Gurgaon. Détendez-vous et profitez d'un trajet pittoresque de 4 heures vers Jaipur dans une voiture privée climatisée. À votre arrivée à Jaipur, enregistrement à votre hôtel. Après le déjeuner, commencez votre circuit de découverte de Jaipur, en visitant des attractions emblématiques comme le City Palace, le Jantar Mantar, le Hawa Mahal et la Patrika Gate. Passez la soirée à votre convenance avant de passer la nuit à Jaipur.\n\nJour 2 : circuit de la ville de Jaipur et retour à Delhi\nAprès le petit-déjeuner et le départ de votre hôtel à 8h00, poursuivez votre circuit de découverte de Jaipur. Explorez le majestueux Fort Ambre, puis visitez le Jal Mahal et le Gatore Ki Chhatriyan. Après le déjeuner, retour en voiture vers Delhi, avec arrivée vers 19h00. Vous serez déposé à votre hôtel ou à l'aéroport à Delhi.\n\n### Ce qui est inclus\n\n- Service de prise en charge et dépose à l'aéroport/l'hôtel\n- Véhicule privé climatisé avec chauffeur\n- Service de guide touristique en direct sur tous les sites dans la langue de votre choix\n- 1 nuit d'hôtel avec petit-déjeuner et taxes (selon l'option de circuit réservée)\n- Bouteilles d'eau minérale\n- Indemnités du chauffeur\n- Tous les péages, stationnements et taxes\n\n### Non inclus\n\n- Billets d'entrée aux monuments\n- Repas et boissons\n- Dépenses personnelles\n- Pourboires",
+  "highlights": [
+   "Détendez-vous lors d'un trajet privé et pittoresque de 4 heures de Delhi à Jaipur"
+  ],
+  "included": [
+   "Service de prise en charge et dépose à l'aéroport/l'hôtel\nVéhicule privé climatisé avec chauffeur\nService de guide touristique en direct sur tous les sites dans la langue de votre choix\n1 nuit d'hôtel avec petit-déjeuner et taxes (selon l'option de circuit réservée)\nBouteilles d'eau minérale\nIndemnités du chauffeur\nTous les péages, stationnements et taxes"
+  ],
+  "notIncluded": [
+   "Billets d'entrée aux monuments\nRepas et boissons\nDépenses personnelles\nPourboires"
+  ]
+ },
+ "from-jodhpur-mehrangarh-udaipur-2-day-tour-with": {
+  "title": "Depuis Jodhpur : circuit de 2 jours Mehrangarh et Udaipur avec déjeuner",
+  "metaTitle": "Depuis Jodhpur : circuit 2 jours Mehrangarh, Udaipur",
+  "metaDescription": "Circuit de 2 jours entre Mehrangarh et Udaipur depuis Jodhpur, avec déjeuner et assistance 24h/24 et 7j/7.",
+  "shortDescription": "Nous offrons une assistance client 24h/24 et 7j/7.",
+  "fullDescription": "Depuis Jodhpur : circuit de 2 jours Mehrangarh et Udaipur avec déjeuner. Nous offrons une assistance client 24h/24 et 7j/7.\n\n### Ce qui est inclus\n\n- Hébergement : 1 nuit en hôtels 4 étoiles (uniquement avec l'option circuit tout compris)\n- Repas : déjeuner quotidien à l'hôtel (uniquement avec l'option circuit tout compris)\n- Transport : véhicule climatisé pour tous les transferts et visites\n- Guide professionnel : guide touristique local expérimenté et compétent\n- Frais d'entrée : inclus pour tous les monuments et attractions (avec l'option circuit tout compris ou circuit sans hébergement)\n- Taxes et frais : toutes les taxes et frais de service applicables inclus\n- Assistance : support 24h/24 et 7j/7 tout au long du circuit\n- Bouteille d'eau\n\n### Non inclus\n\n- Dépenses personnelles : toute dépense personnelle telle que pourboires, souvenirs, repas ou boissons supplémentaires, et shopping\n- Activités optionnelles\n- Gratifications : pourboires pour le guide, le chauffeur ou le personnel de l'hôtel",
+  "highlights": [
+   "Nous offrons une assistance client 24h/24 et 7j/7"
+  ],
+  "included": [
+   "Hébergement : 1 nuit en hôtels 4 étoiles (uniquement avec l'option circuit tout compris)\nRepas : déjeuner quotidien à l'hôtel (uniquement avec l'option circuit tout compris)\nTransport : véhicule climatisé pour tous les transferts et visites\nGuide professionnel : guide touristique local expérimenté et compétent\nFrais d'entrée : inclus pour tous les monuments et attractions (avec l'option circuit tout compris ou circuit sans hébergement)\nTaxes et frais : toutes les taxes et frais de service applicables inclus\nAssistance : support 24h/24 et 7j/7 tout au long du circuit\nBouteille d'eau"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles : toute dépense personnelle telle que pourboires, souvenirs, repas ou boissons supplémentaires, et shopping\nActivités optionnelles\nGratifications : pourboires pour le guide, le chauffeur ou le personnel de l'hôtel"
+  ]
+ },
+ "ranthambore-national-park-jeep-or-canter-safari": {
+  "title": "Parc national de Ranthambore : safari en jeep ou en canter",
+  "metaTitle": "Parc national de Ranthambore : safari jeep ou canter",
+  "metaDescription": "Ressentez le frisson d'apercevoir des tigres sauvages dans leur habitat naturel au parc national de Ranthambore.",
+  "shortDescription": "Ressentez le frisson d'apercevoir des tigres sauvages dans leur habitat naturel",
+  "fullDescription": "Parc national de Ranthambore : safari en jeep ou en canter. Ressentez le frisson d'apercevoir des tigres sauvages dans leur habitat naturel.\n\nExplorez le parc national de Ranthambore, l'une des réserves animalières les plus célèbres de l'Inde. Nichée entre les chaînes de collines de l'Aravalli et du Vindhya, ce parc était autrefois le terrain de chasse royal des Maharajas de Jaipur. Aujourd'hui, il est réputé pour être l'un des meilleurs endroits au monde pour voir des tigres sauvages dans leur habitat naturel.\n\nNommé d'après l'ancien Fort de Ranthambore, qui surplombe majestueusement la réserve, le parc mêle une riche histoire culturelle à un écosystème sauvage florissant. Le paysage est une mosaïque de forêts décidues sèches, de prairies herbeuses ouvertes, de gorges profondes, de crêtes rocheuses et de lacs sereins : un décor parfait pour l'observation de la faune et la photographie.\n\nChoisissez entre un safari en jeep (6 places) ou un safari en canter (20 places) pour explorer le parc. Les safaris sont organisés deux fois par jour, le matin et l'après-midi, et sont réservés à l'avance auprès du Département des Forêts du Rajasthan. Le parc est divisé en 10 zones de safari, chacune offrant un terrain unique et des chances de rencontres animalières.\n\n### Ce qui est inclus\n\n- Safari en jeep\n- Safari en canter\n- Options de safari du matin et de l'après-midi\n- Accès aux 10 zones de safari\n- Guide\n- Carte d'embarquement\n- Prise en charge et dépose\n\n### Non inclus\n\n- Repas\n- Hébergement",
+  "highlights": [
+   "Ressentez le frisson d'apercevoir des tigres sauvages dans leur habitat naturel"
+  ],
+  "included": [
+   "Safari en jeep\nSafari en canter\nOptions de safari du matin et de l'après-midi\nAccès aux 10 zones de safari\nGuide\nCarte d'embarquement\nPrise en charge et dépose"
+  ],
+  "notIncluded": [
+   "Repas\nHébergement"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",

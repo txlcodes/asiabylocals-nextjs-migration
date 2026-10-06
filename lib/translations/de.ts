@@ -34058,6 +34058,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche persönlichen Ausgaben\nJegliches Essen und Trinken\nTrinkgelder für Fahrer und Reiseführer\nSpenden und Gebühren an SOS"
   ]
  },
+ "from-delhi-2-day-jaipur-tour-with-palaces-forts": {
+  "title": "Ab Delhi: 2-tägige Jaipur-Tour mit Palästen, Festungen und Kultur",
+  "metaTitle": "Ab Delhi: 2-tägige Jaipur-Tour",
+  "metaDescription": "Entspannen Sie sich bei einer privaten, malerischen 4-stündigen Fahrt von Delhi nach Jaipur, bei dieser 2-tägigen Tour.",
+  "shortDescription": "Entspannen Sie sich bei einer privaten, malerischen 4-stündigen Fahrt von Delhi nach Jaipur.",
+  "fullDescription": "Ab Delhi: 2-tägige Jaipur-Tour mit Palästen, Festungen und Kultur. Entspannen Sie sich bei einer privaten, malerischen 4-stündigen Fahrt von Delhi nach Jaipur.\n\nTag 1: Abholung in Delhi, Fahrt nach Jaipur und Stadtrundfahrt durch Jaipur\nIhr Fahrer holt Sie um 8:00 Uhr an Ihrem Hotel, Flughafen oder einem bestimmten Ort in Delhi/NCR/Gurgaon ab. Entspannen Sie sich und genießen Sie eine 4-stündige malerische Fahrt nach Jaipur in einem privaten, klimatisierten Auto. Bei Ankunft in Jaipur checken Sie in Ihrem Hotel ein. Nach dem Mittagessen beginnen Sie Ihre Besichtigungstour durch Jaipur und besuchen ikonische Attraktionen wie den City Palace, das Jantar Mantar, den Hawa Mahal und das Patrika Gate. Verbringen Sie den Abend nach Belieben, bevor Sie in Jaipur übernachten.\n\nTag 2: Stadtrundfahrt durch Jaipur und Rückkehr nach Delhi\nNach dem Frühstück und dem Check-out aus Ihrem Hotel um 8:00 Uhr setzen Sie Ihre Besichtigungstour durch Jaipur fort. Erkunden Sie das majestätische Amber-Fort, besuchen Sie dann den Jal Mahal und die Gatore Ki Chhatriyan. Nach dem Mittagessen fahren Sie zurück nach Delhi und kommen gegen 19:00 Uhr an. Sie werden an Ihrem Hotel oder am Flughafen in Delhi abgesetzt.\n\n### Inklusive\n\n- Abhol- und Rückfahrservice am Flughafen/Hotel\n- Privates klimatisiertes Fahrzeug mit Fahrer\n- Live-Reiseführerservice an allen Orten in Ihrer bevorzugten Sprache\n- 1 Übernachtung im Hotel mit Frühstück und Steuern (je nach gebuchter Tour-Option)\n- Mineralwasserflaschen\n- Fahrerzulagen\n- Alle Mautgebühren, Parkgebühren und Steuern\n\n### Nicht inklusive\n\n- Eintrittskarten für Denkmäler\n- Mahlzeiten und Getränke\n- Persönliche Ausgaben\n- Trinkgelder",
+  "highlights": [
+   "Entspannen Sie sich bei einer privaten, malerischen 4-stündigen Fahrt von Delhi nach Jaipur"
+  ],
+  "included": [
+   "Abhol- und Rückfahrservice am Flughafen/Hotel\nPrivates klimatisiertes Fahrzeug mit Fahrer\nLive-Reiseführerservice an allen Orten in Ihrer bevorzugten Sprache\n1 Übernachtung im Hotel mit Frühstück und Steuern (je nach gebuchter Tour-Option)\nMineralwasserflaschen\nFahrerzulagen\nAlle Mautgebühren, Parkgebühren und Steuern"
+  ],
+  "notIncluded": [
+   "Eintrittskarten für Denkmäler\nMahlzeiten und Getränke\nPersönliche Ausgaben\nTrinkgelder"
+  ]
+ },
+ "from-jodhpur-mehrangarh-udaipur-2-day-tour-with": {
+  "title": "Ab Jodhpur: 2-tägige Tour zu Mehrangarh und Udaipur mit Mittagessen",
+  "metaTitle": "Ab Jodhpur: 2-tägige Tour Mehrangarh, Udaipur",
+  "metaDescription": "2-tägige Tour zwischen Mehrangarh und Udaipur ab Jodhpur, mit Mittagessen und Unterstützung rund um die Uhr an 24 Stunden und 7 Tagen.",
+  "shortDescription": "Wir bieten 24/7-Kundensupport.",
+  "fullDescription": "Ab Jodhpur: 2-tägige Tour zu Mehrangarh und Udaipur mit Mittagessen. Wir bieten 24/7-Kundensupport.\n\n### Inklusive\n\n- Unterkunft: 1 Übernachtung in 4-Sterne-Hotels (nur mit der Rundum-Sorglos-Tour-Option)\n- Mahlzeiten: tägliches Mittagessen im Hotel (nur mit der Rundum-Sorglos-Tour-Option)\n- Transport: klimatisiertes Fahrzeug für alle Transfers und Besichtigungen\n- Professioneller Reiseführer: erfahrener und sachkundiger lokaler Reiseführer\n- Eintrittsgebühren: enthalten für alle Denkmäler und Attraktionen (mit der Rundum-Sorglos-Tour- oder Tour-ohne-Unterkunft-Option)\n- Steuern und Gebühren: alle anfallenden Steuern und Servicegebühren enthalten\n- Betreuung: 24/7-Unterstützung während der gesamten Tour\n- Wasserflasche\n\n### Nicht inklusive\n\n- Persönliche Ausgaben: jegliche persönlichen Ausgaben wie Trinkgelder, Souvenirs, zusätzliche Mahlzeiten oder Getränke und Einkäufe\n- Optionale Aktivitäten\n- Trinkgelder: Trinkgelder für Führer, Fahrer oder Hotelpersonal",
+  "highlights": [
+   "Wir bieten 24/7-Kundensupport"
+  ],
+  "included": [
+   "Unterkunft: 1 Übernachtung in 4-Sterne-Hotels (nur mit der Rundum-Sorglos-Tour-Option)\nMahlzeiten: tägliches Mittagessen im Hotel (nur mit der Rundum-Sorglos-Tour-Option)\nTransport: klimatisiertes Fahrzeug für alle Transfers und Besichtigungen\nProfessioneller Reiseführer: erfahrener und sachkundiger lokaler Reiseführer\nEintrittsgebühren: enthalten für alle Denkmäler und Attraktionen (mit der Rundum-Sorglos-Tour- oder Tour-ohne-Unterkunft-Option)\nSteuern und Gebühren: alle anfallenden Steuern und Servicegebühren enthalten\nBetreuung: 24/7-Unterstützung während der gesamten Tour\nWasserflasche"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben: jegliche persönlichen Ausgaben wie Trinkgelder, Souvenirs, zusätzliche Mahlzeiten oder Getränke und Einkäufe\nOptionale Aktivitäten\nTrinkgelder: Trinkgelder für Führer, Fahrer oder Hotelpersonal"
+  ]
+ },
+ "ranthambore-national-park-jeep-or-canter-safari": {
+  "title": "Ranthambore-Nationalpark: Jeep- oder Canter-Safari",
+  "metaTitle": "Ranthambore-Nationalpark: Jeep- oder Canter-Safari",
+  "metaDescription": "Spüren Sie den Nervenkitzel, wilde Tiger in ihrem natürlichen Lebensraum im Ranthambore-Nationalpark zu entdecken.",
+  "shortDescription": "Spüren Sie den Nervenkitzel, wilde Tiger in ihrem natürlichen Lebensraum zu entdecken",
+  "fullDescription": "Ranthambore-Nationalpark: Jeep- oder Canter-Safari. Spüren Sie den Nervenkitzel, wilde Tiger in ihrem natürlichen Lebensraum zu entdecken.\n\nErkunden Sie den Ranthambore-Nationalpark, eines der gefeiertsten Wildtierreservate Indiens. Eingebettet zwischen den Hügelketten der Aravalli und Vindhya, war dieser Park einst das königliche Jagdgebiet der Maharajas von Jaipur. Heute ist er bekannt als einer der besten Orte der Welt, um wilde Tiger in ihrem natürlichen Lebensraum zu sehen.\n\nBenannt nach dem antiken Ranthambore-Fort, das majestätisch über das Reservat blickt, verbindet der Park reiche Kulturgeschichte mit einem blühenden Wildnis-Ökosystem. Die Landschaft ist ein Mosaik aus trockenen Laubwäldern, offenen grasbewachsenen Wiesen, tiefen Schluchten, felsigen Graten und ruhigen Seen: eine perfekte Kulisse für Tierbeobachtungen und Fotografie.\n\nWählen Sie zwischen einer Jeep-Safari (6 Sitzplätze) oder einer Canter-Safari (20 Sitzplätze), um den Park zu erkunden. Safaris finden zweimal täglich statt, morgens und nachmittags, und werden im Voraus über die Forstbehörde von Rajasthan gebucht. Der Park ist in 10 Safari-Zonen unterteilt, jede mit einzigartigem Gelände und Chancen auf Tierbegegnungen.\n\n### Inklusive\n\n- Jeep-Safari\n- Canter-Safari\n- Safari-Optionen am Morgen und Nachmittag\n- Zugang zu 10 Safari-Zonen\n- Reiseführer\n- Bordkarte\n- Abholung und Rückfahrt\n\n### Nicht inklusive\n\n- Mahlzeiten\n- Unterkunft",
+  "highlights": [
+   "Spüren Sie den Nervenkitzel, wilde Tiger in ihrem natürlichen Lebensraum zu entdecken"
+  ],
+  "included": [
+   "Jeep-Safari\nCanter-Safari\nSafari-Optionen am Morgen und Nachmittag\nZugang zu 10 Safari-Zonen\nReiseführer\nBordkarte\nAbholung und Rückfahrt"
+  ],
+  "notIncluded": [
+   "Mahlzeiten\nUnterkunft"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
