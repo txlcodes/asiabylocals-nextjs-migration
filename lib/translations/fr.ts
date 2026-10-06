@@ -34010,6 +34010,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Repas de la ferme à la table disponible en supplément\nPrise en charge et dépose à l'hôtel\nLeçon complète de polo"
   ]
  },
+ "jaipur-bagru-block-printing-workshop-with-local": {
+  "title": "Jaipur : atelier d'impression au bloc de Bagru avec des artisans locaux",
+  "metaTitle": "Jaipur : atelier d'impression au bloc de Bagru",
+  "metaDescription": "Découvrez l'art de l'impression au bloc de Bagru auprès d'artisans locaux lors de cet atelier à Jaipur.",
+  "shortDescription": "Découvrez l'art de l'impression au bloc de Bagru auprès d'artisans locaux",
+  "fullDescription": "Jaipur : atelier d'impression au bloc de Bagru avec des artisans locaux. Découvrez l'art de l'impression au bloc de Bagru auprès d'artisans locaux.\n\nDécouvrez l'art traditionnel de l'impression au bloc de Bagru lors d'un atelier d'une demi-journée ou d'une journée complète à Bagru. Visitez des maisons locales et découvrez le processus de création des couleurs naturelles, de sculpture des motifs sur des blocs de bois et d'impression des blocs sur le tissu.\n\nRencontrez votre guide et partez pour une excursion d'une journée à Bagru, une petite ville à 30 kilomètres de Jaipur. Découvrez l'art unique de l'impression au bloc de Bagru, devenu l'une des zones industrielles d'impression textile du Rajasthan avec plus de 100 petites et grandes usines.\n\nVisitez plus de 5 à 7 maisons locales, chacune ayant son propre savoir-faire dans une compétence ou une autre, comme la fabrication de couleurs naturelles, la sculpture de motifs sur les blocs de bois, l'impression des blocs sur le tissu, et l'ébullition du tissu après le processus d'impression.\n\nComprenez le processus de création des couleurs et le processus manuel d'impression au bloc. Observez les artisans sculpter des motifs détaillés dans des blocs de bois. Fabriquez vous-même un souvenir pour vos proches.\n\n### Ce qui est inclus\n\n- Détails sur l'industrie d'un point de vue local\n- Comprendre le processus de création des couleurs\n- Comprendre le processus manuel d'impression au bloc\n- Observer les artisans sculpter des motifs détaillés dans des blocs de bois\n- Visiter des maisons locales et découvrir leur rôle dans le processus\n- Fabriquer vous-même un souvenir\n- Visite de la ville de Bagru\n- Orientation et démonstration du travail artistique local\n- Opportunité de « le faire soi-même » sous la supervision de professionnels\n- Prise en charge et dépose à votre hôtel à Jaipur (15 kilomètres du centre)\n\n### Non inclus\n\n- Pourboires\n- Repas\n- Boissons, y compris l'eau ou les boissons gazeuses\n- Tout ce qui n'est pas mentionné dans les inclusions",
+  "highlights": [
+   "Découvrez l'art de l'impression au bloc de Bagru auprès d'artisans locaux"
+  ],
+  "included": [
+   "Détails sur l'industrie d'un point de vue local\nComprendre le processus de création des couleurs\nComprendre le processus manuel d'impression au bloc\nObserver les artisans sculpter des motifs détaillés dans des blocs de bois\nVisiter des maisons locales et découvrir leur rôle dans le processus\nFabriquer vous-même un souvenir\nVisite de la ville de Bagru\nOrientation et démonstration du travail artistique local\nOpportunité de « le faire soi-même » sous la supervision de professionnels\nPrise en charge et dépose à votre hôtel à Jaipur (15 kilomètres du centre)"
+  ],
+  "notIncluded": [
+   "Pourboires\nRepas\nBoissons, y compris l'eau ou les boissons gazeuses\nTout ce qui n'est pas mentionné dans les inclusions"
+  ]
+ },
+ "premium-one-way-suv-transfers-delhi-agra-jaipur": {
+  "title": "Transferts premium en SUV aller simple : Delhi ⇄ Agra ⇄ Jaipur",
+  "metaTitle": "Transferts premium en SUV : Delhi ⇄ Agra ⇄ Jaipur",
+  "metaDescription": "Voyagez en privé dans un SUV confortable réservé exclusivement pour vous, entre Delhi, Agra et Jaipur.",
+  "shortDescription": "Voyagez en privé dans un SUV confortable réservé exclusivement pour vous",
+  "fullDescription": "Transferts premium en SUV aller simple : Delhi ⇄ Agra ⇄ Jaipur. Voyagez en privé dans un SUV confortable réservé exclusivement pour vous.\n\nVoyager entre Delhi, Agra et Jaipur n'a jamais été aussi facile ni aussi confortable. Notre service exclusif de transfert privé exclusivement en SUV offre une expérience de voyage premium à travers le Triangle d'Or de l'Inde. Avec une flotte de SUV spacieux et climatisés, vous profiterez d'un généreux espace pour les jambes et d'un ample espace pour les bagages, ce qui est idéal pour les familles, les groupes ou les voyageurs solo qui privilégient le confort.\n\nChaque trajet est géré par un chauffeur professionnel anglophone connaissant bien tous les itinéraires, garantissant un voyage sûr, fluide et ponctuel. Nous offrons une transparence totale sur les prix : votre tarif inclut toutes les taxes, péages et frais de stationnement, afin que vous ne soyez confronté à aucun frais caché. Que vous partiez tôt le matin ou arriviez tard le soir, notre planification flexible vous permet de choisir l'heure et le lieu de prise en charge qui correspondent le mieux à vos plans de voyage.\n\nNotre service porte-à-porte garantit une prise en charge et une dépose pratiques aux endroits de votre choix, éliminant le besoin d'organiser un transport supplémentaire. En choisissant notre transfert privé en SUV entre Delhi, Agra et Jaipur, vous optez pour un moyen fiable, luxueux et sans tracas d'explorer certaines des villes les plus emblématiques de l'Inde.\n\nLe véhicule utilisé dépend du nombre de personnes transportées (1 à 5 personnes : SUV climatisé, Toyota Rumion, Kia Carens ou Toyota Innova Crysta ; 10 à 26 personnes : Maharaja Urbania, Tempo Traveller ou minibus).\n\nQue votre voyage soit aussi mémorable que votre destination : avec nos transferts exclusivement en SUV, vous pouvez vous concentrer sur la découverte de la culture, de l'histoire et de la beauté de l'Inde du Nord, pendant que nous nous occupons de la route.\n\n### Ce qui est inclus\n\n- Transfert privé aller simple en voiture entre les villes\n- Prise en charge et dépose à l'hôtel au lieu de votre choix\n- Voiture privée avec chauffeur professionnel anglophone\n- Prise en charge et dépose à l'aéroport (si demandé)\n- Eau en bouteille offerte pendant le trajet\n- Chauffeur fiable et courtois tout au long de votre voyage",
+  "highlights": [
+   "Voyagez en privé dans un SUV confortable réservé exclusivement pour vous"
+  ],
+  "included": [
+   "Transfert privé aller simple en voiture entre les villes\nPrise en charge et dépose à l'hôtel au lieu de votre choix\nVoiture privée avec chauffeur professionnel anglophone\nPrise en charge et dépose à l'aéroport (si demandé)\nEau en bouteille offerte pendant le trajet\nChauffeur fiable et courtois tout au long de votre voyage"
+  ],
+  "notIncluded": [
+   "Aucun"
+  ]
+ },
+ "agra-to-delhi-private-fatehpur-sikri-sos-elephant": {
+  "title": "D'Agra à Delhi : circuit privé de Fatehpur Sikri et SOS Elephant",
+  "metaTitle": "D'Agra à Delhi : Fatehpur Sikri et SOS Elephant",
+  "metaDescription": "Découvrez la magnifique ville moghole construite par l'empereur Akbar, lors de ce circuit privé d'Agra à Delhi.",
+  "shortDescription": "Découvrez la magnifique ville moghole construite par l'empereur Akbar.",
+  "fullDescription": "D'Agra à Delhi : circuit privé de Fatehpur Sikri et SOS Elephant. Découvrez la magnifique ville moghole construite par l'empereur Akbar.\n\nCommencez votre voyage depuis Agra avec un circuit privé et confortable combinant histoire moghole, culture et conservation des éléphants avant de poursuivre vers Delhi.\n\nVotre premier arrêt est Fatehpur Sikri, la magnifique ville moghole construite par l'empereur Akbar au 16e siècle. Explorez son architecture impressionnante, ses grandes cours, ses palais et ses monuments religieux. Découvrez des incontournables comme le Buland Darwaza, la Jama Masjid, le Panch Mahal et le tombeau de Salim Chishti, tout en découvrant l'histoire fascinante de cette ancienne capitale moghole.\n\nEnsuite, visitez le Centre de Conservation et de Soins des Éléphants SOS, une initiative unique dédiée au sauvetage et à la réhabilitation des éléphants. Découvrez la vie des éléphants secourus, leurs soins, et l'importance d'un tourisme animalier et d'une conservation responsables.\n\nAprès vos visites, détendez-vous dans votre véhicule privé climatisé en voyageant vers Delhi. Profitez d'une dépose pratique à votre hôtel, à l'aéroport ou au lieu de votre choix à Delhi, mettant fin confortablement à votre mémorable expérience d'Agra à Delhi.\n\nCe circuit privé est idéal pour les voyageurs souhaitant combiner histoire, culture, conservation de la faune et transport pratique en un voyage inoubliable.\n\n### Ce qui est inclus\n\n- Aide pour la prise en charge et la dépose\n- Service de transport climatisé\n- Entrées aux monuments (si l'option est sélectionnée)\n- Déjeuner (si l'option est sélectionnée)\n- Service de guide touristique en direct\n- Bouteilles d'eau\n- Taxes applicables\n- Billets pour SOS Elephant (si l'option est sélectionnée)\n\n### Non inclus\n\n- Toute dépense personnelle\n- Toute nourriture et boisson\n- Pourboires pour le chauffeur et le guide\n- Dons et frais pour SOS",
+  "highlights": [
+   "Découvrez la magnifique ville moghole construite par l'empereur Akbar"
+  ],
+  "included": [
+   "Aide pour la prise en charge et la dépose\nService de transport climatisé\nEntrées aux monuments (si l'option est sélectionnée)\nDéjeuner (si l'option est sélectionnée)\nService de guide touristique en direct\nBouteilles d'eau\nTaxes applicables\nBillets pour SOS Elephant (si l'option est sélectionnée)"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle\nToute nourriture et boisson\nPourboires pour le chauffeur et le guide\nDons et frais pour SOS"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
