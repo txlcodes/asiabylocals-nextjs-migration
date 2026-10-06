@@ -37514,6 +37514,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas\nGastos personales"
   ]
  },
+ "temple-tour-of-jaipur-with-ropeway-ride": {
+  "title": "Tour de templos de Jaipur con paseo en teleferico",
+  "metaTitle": "Jaipur, tour de templos, teleferico",
+  "metaDescription": "Descubra las ofrendas matutinas en un templo Ganesh del siglo XVIII, luego el Birla, el Jain, el Sikh, y el Templo de los Monos.",
+  "shortDescription": "Descubra las ofrendas matutinas en un templo Ganesh del siglo XVIII",
+  "fullDescription": "Tour de templos de Jaipur con paseo en teleferico. Descubra las ofrendas matutinas en un templo Ganesh del siglo XVIII.\n\nEmbarquese en un tour de dia completo por los templos de Jaipur con un guia local. Visite el templo Ganesh del siglo XVIII, el templo Birla, el templo Jain, el templo Sikh, el Templo de los Monos, y el templo Hanuman.\n\nReunase con su conductor y guia local en el vestibulo de su hotel por la mañana y dirijase a un templo Ganesh del siglo XVIII. El idolo del Senor Ganesha, razon principal de la fascinacion, es el centro de atraccion para los visitantes. Experimente las ofrendas matutinas de los lugarenos antes de que vayan a trabajar.\n\nVisite el templo Birla, hecho de marmol blanco y construido sobre una plataforma elevada. Su estilo arquitectonico se considera moderno.\n\nContinue hacia uno de los templos jain mas hermosos y aprenda sobre la filosofia del jainismo.\n\nAhora dirijase al famoso Templo de los Monos, Galta Ji, por su complejo de templos patrimoniales. Observe los rituales y costumbres en los estanques de agua sagrada, y disfrute de tiempo libre para fotografia.\n\nContinue hacia el siguiente templo, situado en la cima de una colina. Tome un teleferico para llegar al templo (aproximadamente 10 minutos). Disfrute de la hermosa vista desde la cima del bosque y el complejo de templos. Despues de disfrutar de las impresionantes vistas, baje en teleferico y visite uno de los templos Hanuman mas antiguos.\n\nExperimente el templo Sikh (Gurudwara), admirando las ceremonias religiosas y la cocina comunitaria. Puede probar la cocina comunitaria con otros voluntarios, que ofrece comidas a cientos de personas de cada religion, casta, y nacionalidad cada dia.\n\nSera dejado en su hotel o en el lugar deseado.\n\n### Incluye\n\n- Recogida y regreso al hotel\n- Visita al templo Ganesh\n- Visita al templo Birla\n- Visita al templo Jain\n- Experiencia en el templo Sikh (Gurudwara)\n- Visita al Templo de los Monos (Galta Ji)\n- Tour guiado en el templo en la colina\n- Visita al templo Hanuman\n\n### No incluye\n\n- Billete de teleferico\n- Comidas\n- Gastos personales",
+  "highlights": [
+   "Descubra las ofrendas matutinas en un templo Ganesh del siglo XVIII"
+  ],
+  "included": [
+   "Recogida y regreso al hotel\nVisita al templo Ganesh\nVisita al templo Birla\nVisita al templo Jain\nExperiencia en el templo Sikh (Gurudwara)\nVisita al Templo de los Monos (Galta Ji)\nTour guiado en el templo en la colina\nVisita al templo Hanuman"
+  ],
+  "notIncluded": [
+   "Billete de teleferico\nComidas\nGastos personales"
+  ]
+ },
+ "new-delhi-one-way-transfer-from-airport-to-hotel": {
+  "title": "Nueva Delhi: traslado de ida del aeropuerto al hotel",
+  "metaTitle": "Nueva Delhi, traslado aeropuerto-hotel",
+  "metaDescription": "Viaje con seguridad con un servicio que prioriza la fiabilidad, desde el Aeropuerto de Nueva Delhi hasta su hotel, en coche con aire acondicionado.",
+  "shortDescription": "Viaje con seguridad con un servicio que prioriza la seguridad y la fiabilidad",
+  "fullDescription": "Nueva Delhi: traslado de ida del aeropuerto al hotel. Viaje con seguridad con un servicio que prioriza la seguridad y la fiabilidad.\n\nLlegada al Aeropuerto de Nueva Delhi:\nA su llegada al aeropuerto, pase por aduanas y recoja su equipaje.\n\nEncuentro y bienvenida:\nSu conductor designado lo estara esperando en el area de llegadas, sosteniendo un cartel con su nombre o la informacion proporcionada durante la reserva.\n\nAsistencia con el equipaje:\nEl conductor lo ayudara con su equipaje y se asegurara de que este bien cargado en el vehiculo.\n\nTraslado en vehiculo:\nSera escoltado a su vehiculo privado con aire acondicionado, de tamano apropiado segun el numero de pasajeros y equipaje especificados por correo electronico o WhatsApp.\n\nViaje al hotel:\nEl conductor tomara la mejor ruta hacia su hotel, considerando las condiciones del trafico y utilizando el camino mas eficiente disponible.\n\nLlegada al hotel:\nAl llegar a su hotel en Delhi, el conductor lo dejara directamente en la entrada del hotel, asegurando una llegada segura y conveniente.\n\nFin del servicio:\nEl servicio de traslado concluye al dejarlo en su hotel.\n\n-----------------------------\nTipos de coche:\n1 a 3 personas: sedan con aire acondicionado de 5 plazas\n4 a 5 personas: SUV con aire acondicionado de 7 plazas\n6 a 10+ personas: furgoneta/minibus con aire acondicionado de 12 plazas\n\n----------------------------\nExcursiones de un dia desde Delhi: (si se elige la opcion)\n- Excursion privada de un dia a Delhi con recogida y regreso en Delhi, incluyendo un tour guiado.\n- Excursion privada de un dia al Taj Mahal y Agra con recogida y regreso en Delhi, incluyendo un tour guiado.\n- Excursion privada de un dia a Jaipur desde Delhi con recogida y regreso en Delhi, incluyendo un tour guiado.\n\n### Incluye\n\n- Traslado del aeropuerto al hotel\n- Traslado del hotel al aeropuerto\n- Coche privado con aire acondicionado\n- Conductor experimentado\n- Todos los impuestos, combustible, peajes, y aparcamiento\n- Sin cargos ocultos\n- Traslado sin complicaciones\n- Soporte en ingles 24h/24 y 7j/7 por WhatsApp\n- Excursion de un dia desde Delhi (si se elige la opcion)\n- Traslado del aeropuerto a la ciudad (si se elige la opcion)\n\n### No incluye\n\n- ",
+  "highlights": [
+   "Viaje con seguridad con un servicio que prioriza la seguridad y la fiabilidad"
+  ],
+  "included": [
+   "Traslado del aeropuerto al hotel\nTraslado del hotel al aeropuerto\nCoche privado con aire acondicionado\nConductor experimentado\nTodos los impuestos, combustible, peajes, y aparcamiento\nSin cargos ocultos\nTraslado sin complicaciones\nSoporte en ingles 24h/24 y 7j/7 por WhatsApp\nExcursion de un dia desde Delhi (si se elige la opcion)\nTraslado del aeropuerto a la ciudad (si se elige la opcion)"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "jaipur-night-tuk-tuk-tour-with-hotel-pickup-drop": {
+  "title": "Jaipur: tour nocturno en tuk-tuk con recogida y regreso al hotel",
+  "metaTitle": "Jaipur, tuk-tuk nocturno, recogida",
+  "metaDescription": "Recorra Jaipur en un tuk-tuk con asientos de cuero: Hawa Mahal, Jal Mahal, Museo Albert Hall, y comida callejera.",
+  "shortDescription": "Recorra Jaipur en un tuk-tuk con asientos de cuero",
+  "fullDescription": "Jaipur: tour nocturno en tuk-tuk con recogida y regreso al hotel. Recorra Jaipur en un tuk-tuk con asientos de cuero.\n\nComience su aventura nocturna con una conveniente recogida en su hotel o alojamiento alquilado. Suba al tuk-tuk y acomodese en los asientos de cuero cosidos a mano mientras parte a explorar los monumentos mas famosos de Jaipur, incluyendo el Hawa Mahal (Palacio de los Vientos), el Jal Mahal (Palacio Flotante), y el Museo Albert Hall.\n\nDetengase en la Patrika Gate, Toran Dwar, y el Templo Krishna, y admire la Embajada India y los edificios gubernamentales. Vea el Statue Circle y haga paradas secretas en la ciudad vieja.\n\nEn el camino, aprenda sobre la historia de la famosa Ciudad Rosa de Rajasthan de su conductor. Enriquezca su viaje con visitas a puestos de comida callejera, lassi, y quizas incluso el chocolate caliente mejor valorado de Jaipur.\n\nDespues de una taza de chai, regrese a su hotel o Airbnb.\n\n### Incluye\n\n- Recogida y regreso al hotel o alojamiento alquilado\n- Visita a lugares famosos de Jaipur\n- Oportunidades fotograficas\n- Historia de la Ciudad Rosa de Rajasthan\n- Visita opcional a puestos de comida callejera\n- Chai\n- Conductor local que ha vivido toda su vida en Jaipur (¡incluso hizo los asientos de cuero en los que viajara!)\n\n### No incluye\n\n- Comidas, aunque puede anadir la opcion de comida callejera para samosa, kochiris, dulces, lassi, ¡y mas!\n- Propinas y gratificaciones",
+  "highlights": [
+   "Recorra Jaipur en un tuk-tuk con asientos de cuero"
+  ],
+  "included": [
+   "Recogida y regreso al hotel o alojamiento alquilado\nVisita a lugares famosos de Jaipur\nOportunidades fotograficas\nHistoria de la Ciudad Rosa de Rajasthan\nVisita opcional a puestos de comida callejera\nChai\nConductor local que ha vivido toda su vida en Jaipur (¡incluso hizo los asientos de cuero en los que viajara!)"
+  ],
+  "notIncluded": [
+   "Comidas, aunque puede anadir la opcion de comida callejera para samosa, kochiris, dulces, lassi, ¡y mas!\nPropinas y gratificaciones"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",

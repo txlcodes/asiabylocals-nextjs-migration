@@ -37514,6 +37514,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires\nDepenses personnelles"
   ]
  },
+ "temple-tour-of-jaipur-with-ropeway-ride": {
+  "title": "Visite des temples de Jaipur avec trajet en teleferique",
+  "metaTitle": "Jaipur, visite des temples, teleferique",
+  "metaDescription": "Decouvrez les offrandes matinales a un temple Ganesh du XVIIIe siecle, puis le Birla, le Jain, le Sikh, et le Temple des Singes.",
+  "shortDescription": "Decouvrez les offrandes matinales a un temple Ganesh du XVIIIe siecle",
+  "fullDescription": "Visite des temples de Jaipur avec trajet en teleferique. Decouvrez les offrandes matinales a un temple Ganesh du XVIIIe siecle.\n\nPartez pour une visite d'une journee complete des temples de Jaipur avec un guide local. Visitez le temple Ganesh du XVIIIe siecle, le temple Birla, le temple Jain, le temple Sikh, le Temple des Singes, et le temple Hanuman.\n\nRencontrez votre chauffeur et guide local dans le hall de votre hotel le matin et rendez-vous a un temple Ganesh du XVIIIe siecle. L'idole du Seigneur Ganesha, raison principale de la fascination, est le centre d'attraction pour les visiteurs. Decouvrez les offrandes matinales des habitants avant qu'ils ne partent travailler.\n\nVisitez le temple Birla, fait de marbre blanc et construit sur une plateforme surelevee. Son style architectural est considere comme moderne.\n\nContinuez vers l'un des plus beaux temples Jain et apprenez-en davantage sur la philosophie du jainisme.\n\nRendez-vous maintenant au celebre Temple des Singes, Galta Ji, pour son complexe de temples patrimoniaux. Observez les rituels et coutumes sur les bassins d'eau sacree, et profitez de temps libre pour la photographie.\n\nContinuez vers le temple suivant, situe au sommet d'une colline. Prenez un teleferique pour atteindre le temple (environ 10 minutes). Profitez de la belle vue depuis le sommet de la foret et du complexe de temples. Apres avoir profite des vues a couper le souffle, prenez le teleferique pour descendre et visitez l'un des plus anciens temples Hanuman.\n\nDecouvrez le temple Sikh (Gurudwara), en admirant les ceremonies religieuses et la cuisine communautaire. Vous pouvez essayer la cuisine communautaire avec d'autres volontaires, qui offre des repas a des centaines de personnes de chaque religion, caste, et nationalite chaque jour.\n\nVous serez depose a votre hotel ou a l'endroit souhaite.\n\n### Inclus\n\n- Prise en charge et depose a l'hotel\n- Visite du temple Ganesh\n- Visite du temple Birla\n- Visite du temple Jain\n- Experience au temple Sikh (Gurudwara)\n- Visite du Temple des Singes (Galta Ji)\n- Visite guidee au temple au sommet de la colline\n- Visite du temple Hanuman\n\n### Non inclus\n\n- Billet de teleferique\n- Repas\n- Depenses personnelles",
+  "highlights": [
+   "Decouvrez les offrandes matinales a un temple Ganesh du XVIIIe siecle"
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel\nVisite du temple Ganesh\nVisite du temple Birla\nVisite du temple Jain\nExperience au temple Sikh (Gurudwara)\nVisite du Temple des Singes (Galta Ji)\nVisite guidee au temple au sommet de la colline\nVisite du temple Hanuman"
+  ],
+  "notIncluded": [
+   "Billet de teleferique\nRepas\nDepenses personnelles"
+  ]
+ },
+ "new-delhi-one-way-transfer-from-airport-to-hotel": {
+  "title": "New Delhi : transfert aller simple de l'aeroport a l'hotel",
+  "metaTitle": "New Delhi, transfert aeroport-hotel",
+  "metaDescription": "Voyagez en toute securite avec un service privilegiant la fiabilite, de l'aeroport de New Delhi a votre hotel, en voiture climatisee.",
+  "shortDescription": "Voyagez en toute securite avec un service qui privilegie la securite et la fiabilite",
+  "fullDescription": "New Delhi : transfert aller simple de l'aeroport a l'hotel. Voyagez en toute securite avec un service qui privilegie la securite et la fiabilite.\n\nArrivee a l'aeroport de New Delhi :\nA votre arrivee a l'aeroport, passez la douane et recuperez vos bagages.\n\nRencontre et accueil :\nVotre chauffeur designe vous attendra dans la zone d'arrivee, tenant une pancarte avec votre nom ou les informations fournies lors de la reservation.\n\nAssistance avec les bagages :\nLe chauffeur vous aidera avec vos bagages et s'assurera qu'ils sont bien charges dans le vehicule.\n\nTransfert en vehicule :\nVous serez escorte vers votre vehicule prive climatise, de taille appropriee selon le nombre de passagers et de bagages precises par e-mail ou WhatsApp.\n\nTrajet vers l'hotel :\nLe chauffeur suivra le meilleur itineraire vers votre hotel, en tenant compte des conditions de circulation et en utilisant le chemin le plus efficace disponible.\n\nDepose a l'hotel :\nA l'arrivee a votre hotel a Delhi, le chauffeur vous deposera directement a l'entree de l'hotel, assurant une arrivee sure et pratique.\n\nFin du service :\nLe service de transfert se termine lorsque vous etes depose a votre hotel.\n\n-----------------------------\nTypes de voiture :\n1 a 3 personnes : berline climatisee 5 places\n4 a 5 personnes : SUV climatise 7 places\n6 a 10+ personnes : van/minibus climatise 12 places\n\n----------------------------\nExcursions d'une journee depuis Delhi : (si l'option est selectionnee)\n- Excursion privee d'une journee a Delhi avec prise en charge et depose a Delhi, incluant une visite guidee.\n- Excursion privee d'une journee au Taj Mahal et a Agra avec prise en charge et depose a Delhi, incluant une visite guidee.\n- Excursion privee d'une journee a Jaipur depuis Delhi avec prise en charge et depose a Delhi, incluant une visite guidee.\n\n### Inclus\n\n- Transfert de l'aeroport a l'hotel\n- Transfert de l'hotel a l'aeroport\n- Voiture privee climatisee\n- Chauffeur experimente\n- Toutes taxes, carburant, peages, et stationnement\n- Aucun frais cache\n- Transfert sans tracas\n- Support en anglais 24h/24 et 7j/7 sur WhatsApp\n- Excursion d'une journee depuis Delhi (si l'option est selectionnee)\n- Transfert de l'aeroport a la ville (si l'option est selectionnee)\n\n### Non inclus\n\n- ",
+  "highlights": [
+   "Voyagez en toute securite avec un service qui privilegie la securite et la fiabilite"
+  ],
+  "included": [
+   "Transfert de l'aeroport a l'hotel\nTransfert de l'hotel a l'aeroport\nVoiture privee climatisee\nChauffeur experimente\nToutes taxes, carburant, peages, et stationnement\nAucun frais cache\nTransfert sans tracas\nSupport en anglais 24h/24 et 7j/7 sur WhatsApp\nExcursion d'une journee depuis Delhi (si l'option est selectionnee)\nTransfert de l'aeroport a la ville (si l'option est selectionnee)"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "jaipur-night-tuk-tuk-tour-with-hotel-pickup-drop": {
+  "title": "Jaipur : visite nocturne en tuk-tuk avec prise en charge et depose a l'hotel",
+  "metaTitle": "Jaipur, tuk-tuk nocturne, prise en charge",
+  "metaDescription": "Parcourez Jaipur dans un tuk-tuk aux sieges en cuir : Hawa Mahal, Jal Mahal, Musee Albert Hall, et street food.",
+  "shortDescription": "Parcourez Jaipur dans un tuk-tuk aux sieges en cuir",
+  "fullDescription": "Jaipur : visite nocturne en tuk-tuk avec prise en charge et depose a l'hotel. Parcourez Jaipur dans un tuk-tuk aux sieges en cuir.\n\nCommencez votre aventure du soir avec une prise en charge pratique a votre hotel ou logement loue. Montez dans le tuk-tuk et installez-vous dans les sieges en cuir cousus a la main alors que vous partez explorer les monuments les plus celebres de Jaipur, notamment le Hawa Mahal (Palais des Vents), le Jal Mahal (Palais Flottant), et le Musee Albert Hall.\n\nArretez-vous a la Patrika Gate, Toran Dwar, et au temple Krishna, et admirez l'Ambassade Indienne et les batiments gouvernementaux. Voyez le Statue Circle et faites des arrets secrets dans la vieille ville.\n\nEn chemin, apprenez l'histoire de la celebre Ville Rose du Rajasthan auprès de votre chauffeur. Enrichissez votre voyage avec des visites de stands de street food, de lassi, et peut-etre meme du chocolat chaud le mieux note de Jaipur.\n\nApres une tasse de chai, retournez a votre hotel ou Airbnb.\n\n### Inclus\n\n- Prise en charge et depose a l'hotel ou au logement loue\n- Visite des sites celebres de Jaipur\n- Opportunites de photos\n- Histoire de la Ville Rose du Rajasthan\n- Visite optionnelle de stands de street food\n- Chai\n- Chauffeur local qui a vecu toute sa vie a Jaipur (il a meme fabrique les sieges en cuir sur lesquels vous roulerez !)\n\n### Non inclus\n\n- Repas, bien que vous puissiez ajouter l'option street food pour samosa, kochiris, sucreries, lassi, et plus !\n- Pourboires et gratifications",
+  "highlights": [
+   "Parcourez Jaipur dans un tuk-tuk aux sieges en cuir"
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel ou au logement loue\nVisite des sites celebres de Jaipur\nOpportunites de photos\nHistoire de la Ville Rose du Rajasthan\nVisite optionnelle de stands de street food\nChai\nChauffeur local qui a vecu toute sa vie a Jaipur (il a meme fabrique les sieges en cuir sur lesquels vous roulerez !)"
+  ],
+  "notIncluded": [
+   "Repas, bien que vous puissiez ajouter l'option street food pour samosa, kochiris, sucreries, lassi, et plus !\nPourboires et gratifications"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
