@@ -76046,6 +76046,404 @@ export const ES_TOURS: Record<string, TourT> = {
    "Bebidas durante el trayecto"
   ]
  },
+ "dubai-jet-ski-adventure-w-burj-khalifa-burj-al": {
+  "title": "Dubai: aventura en moto acuatica con vistas al Burj Khalifa y al Burj Al Arab",
+  "metaTitle": "Dubai: aventura en moto acuatica con vistas al Burj Khalifa y ...",
+  "metaDescription": "Une excursion de 0,75 hora(s) desde Dubai que visita Burj Al Arab y Burj Khalifa. Ofrecido por OceanAir Travels.",
+  "shortDescription": "Une excursion de 0,75 hora(s) desde Dubai que visita Burj Al Arab y Burj Khalifa. Ofrecido por OceanAir Travels.",
+  "fullDescription": "Una excursion de 0,75 hora(s) desde Dubai, que recorre Burj Al Arab y Burj Khalifa. Hay 2 paradas en total.\n\nEl orden de la ruta es Burj Al Arab (5 min), luego Burj Khalifa (5 min).\n\nEl precio incluye paseo en moto acuatica de 45 minutos (Yamaha VX-C 2024 WaveRunner), chalecos salvavidas, agua embotellada y charla de seguridad. No incluye recogida y regreso al hotel y gastos personales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 140 $ juntos en lugar de 83 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Une excursion de 0,75 hora(s) desde Dubai que visita Burj Al Arab y Burj Khalifa. Ofrecido por OceanAir Travels."
+  ],
+  "included": [
+   "Paseo en moto acuatica de 45 minutos (Yamaha VX-C 2024 WaveRunner)",
+   "Chalecos salvavidas",
+   "Agua embotellada",
+   "Charla de seguridad"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Gastos personales"
+  ]
+ },
+ "dubai-private-city-tour-with-burj-khalifa-levels-1": {
+  "title": "Dubai: tour privado por la ciudad con los niveles 124/125 del Burj Khalifa",
+  "metaTitle": "Dubai: tour privado por la ciudad con los niveles 124/125 del ...",
+  "metaDescription": "Une excursion de medio dia desde Dubai que visita Dubai Eye, View point, Zabeel Palace y Bur Dubai Abra Dock. Ofrecido por Al-Toor Tours.",
+  "shortDescription": "Une excursion de medio dia desde Dubai que visita Dubai Eye, View point, Zabeel Palace y Bur Dubai Abra Dock. Ofrecido por Al-Toor Tours.",
+  "fullDescription": "Una excursion de medio dia desde Dubai, que recorre Dubai Eye, View point, Zabeel Palace y Bur Dubai Abra Dock. La parada mas larga es Dubai Gold Souk, con una duracion de unos 1 hora. Hay 6 paradas en total.\n\nEl orden de la ruta es Dubai Eye (20 min), luego View point (30 min), luego Zabeel Palace (15 min), luego Bur Dubai Abra Dock (15 min), luego Dubai Gold Souk (1h).\n\nEl precio incluye recogida y regreso comodos al hotel, tour guiado por la ciudad y entrada al Burj Khalifa, niveles 124-125. No incluye comida y bebidas y propinas (opcional), por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de medio dia desde Dubai que visita Dubai Eye, View point, Zabeel Palace y Bur Dubai Abra Dock. Ofrecido por Al-Toor Tours."
+  ],
+  "included": [
+   "Recogida y regreso comodos al hotel",
+   "Tour guiado por la ciudad",
+   "Entrada al Burj Khalifa, niveles 124-125"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Propinas (opcional)"
+  ]
+ },
+ "private-abu-dhabi-city-tour-with-sheikh-zayed-gran": {
+  "title": "Tour privado por la ciudad de Abu Dhabi con la Gran Mezquita Sheikh Zayed",
+  "metaTitle": "Tour privado por la ciudad de Abu Dhabi con la Gran Mezquita S...",
+  "metaDescription": "Une excursion de un dia completo desde Abu Dhabi que visita Sheikh Zayed Grand Mosque, Al Bateen Residences, Etihad Towers y Emirates Palace. Ofrecido por OceanAi...",
+  "shortDescription": "Une excursion de un dia completo desde Abu Dhabi que visita Sheikh Zayed Grand Mosque, Al Bateen Residences, Etihad Towers y Emirates Palace. Ofrecido por OceanAir Travels.",
+  "fullDescription": "Una excursion de un dia completo desde Abu Dhabi, que recorre Sheikh Zayed Grand Mosque, Al Bateen Residences, Etihad Towers y Emirates Palace. Hay 8 paradas en total.\n\nEl orden de la ruta es Sheikh Zayed Grand Mosque, luego Al Bateen Residences, luego Etihad Towers, luego Emirates Palace, luego Corniche Street.\n\nEl precio incluye coche privado con guia turistico licenciado, botellas de agua, entrada a la mezquita y parada fotografica en todas las principales atracciones. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 691 $ juntos en lugar de 691 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Une excursion de un dia completo desde Abu Dhabi que visita Sheikh Zayed Grand Mosque, Al Bateen Residences, Etihad Towers y Emirates Palace. Ofrecido por OceanAir Travels."
+  ],
+  "included": [
+   "Coche privado con guia turistico licenciado",
+   "Botellas de agua",
+   "Entrada a la mezquita",
+   "Parada fotografica en todas las principales atracciones"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-by-night-private-city-lights-tour-with-fount": {
+  "title": "Dubai de noche: tour privado de luces de la ciudad con espectaculo de fuentes",
+  "metaTitle": "Dubai de noche: tour privado de luces de la ciudad con especta...",
+  "metaDescription": "Une excursion de medio dia desde Dubai que visita Ain Dubai, JBR Beach, Dubai Marina y The Palm Jumeirah. Ofrecido por Yalla Habebeee tourism.",
+  "shortDescription": "Une excursion de medio dia desde Dubai que visita Ain Dubai, JBR Beach, Dubai Marina y The Palm Jumeirah. Ofrecido por Yalla Habebeee tourism.",
+  "fullDescription": "Una excursion de medio dia desde Dubai, que recorre Ain Dubai, JBR Beach, Dubai Marina y The Palm Jumeirah. Hay 14 paradas en total.\n\nEl orden de la ruta es Ain Dubai, luego JBR Beach, luego Dubai Marina, luego The Palm Jumeirah, luego Atlantis, The Palm.\n\nEl precio incluye recogida y regreso al hotel, vehiculo con aire acondicionado, botellas de agua y parada fotografica en las principales atracciones. No incluye propinas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de medio dia desde Dubai que visita Ain Dubai, JBR Beach, Dubai Marina y The Palm Jumeirah. Ofrecido por Yalla Habebeee tourism."
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Vehiculo con aire acondicionado",
+   "Botellas de agua",
+   "Parada fotografica en las principales atracciones"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "dubai-sunrise-jetski-tour-with-guide-and-photos": {
+  "title": "Dubai: tour en moto acuatica al amanecer con guia y fotos",
+  "metaTitle": "Dubai: tour en moto acuatica al amanecer con guia y fotos",
+  "metaDescription": "Une excursion de 2 hora(s) desde Dubai que visita Jumeirah Beach Residence, Atlantis, Dubai y Burj Al Arab. Ofrecido por Popeye Jetski Rental.",
+  "shortDescription": "Une excursion de 2 hora(s) desde Dubai que visita Jumeirah Beach Residence, Atlantis, Dubai y Burj Al Arab. Ofrecido por Popeye Jetski Rental.",
+  "fullDescription": "Una excursion de 2 hora(s) desde Dubai, que recorre Jumeirah Beach Residence, Atlantis, Dubai y Burj Al Arab. La parada mas larga es Atlantis, Dubai, con una duracion de unos 1 hora. Hay 3 paradas en total.\n\nEl orden de la ruta es Jumeirah Beach Residence (30 min), luego Atlantis, Dubai (1h), luego Burj Al Arab.\n\nEl precio incluye chaleco salvavidas, moto acuatica, guia y fotos gratuitas en el movil. No incluye comida y bebidas y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 732 $ juntos en lugar de 732 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Une excursion de 2 hora(s) desde Dubai que visita Jumeirah Beach Residence, Atlantis, Dubai y Burj Al Arab. Ofrecido por Popeye Jetski Rental."
+  ],
+  "included": [
+   "Chaleco salvavidas",
+   "Moto acuatica",
+   "Guia",
+   "Fotos gratuitas en el movil"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Propinas"
+  ]
+ },
+ "dubai-vip-city-tour-with-a-personal-guide-in": {
+  "title": "Dubai: tour VIP por la ciudad con un guia personal en un coche de lujo",
+  "metaTitle": "Dubai: tour VIP por la ciudad con un guia personal en un coche...",
+  "metaDescription": "Une excursion de medio dia desde Dubai que visita Al Bastakiya, Al Fahidi, Dubai Creek y Dubai Gold Souk. Ofrecido por Trip Habibi Travel and Tourism LLC.",
+  "shortDescription": "Une excursion de medio dia desde Dubai que visita Al Bastakiya, Al Fahidi, Dubai Creek y Dubai Gold Souk. Ofrecido por Trip Habibi Travel and Tourism LLC.",
+  "fullDescription": "Una excursion de medio dia desde Dubai, que recorre Al Bastakiya, Al Fahidi, Dubai Creek y Dubai Gold Souk. Hay 12 paradas en total.\n\nEl orden de la ruta es Al Bastakiya, luego Al Fahidi, luego Dubai Creek, luego Dubai Gold Souk, luego Dubai Spice Souk.\n\nEl precio incluye transporte privado con recogida y regreso, guia privado, itinerario flexible para la mejor experiencia y exploracion del casco antiguo a pie. No incluye entrada a las atracciones (disponible con costo adicional) y almuerzo (disponible con costo adicional), por lo que debe presupuestar eso por separado. Dos viajeros pagan 337 $ juntos en lugar de 337 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Une excursion de medio dia desde Dubai que visita Al Bastakiya, Al Fahidi, Dubai Creek y Dubai Gold Souk. Ofrecido por Trip Habibi Travel and Tourism LLC."
+  ],
+  "included": [
+   "Transporte privado con recogida y regreso",
+   "Guia privado",
+   "Itinerario flexible para la mejor experiencia",
+   "Exploracion del casco antiguo a pie"
+  ],
+  "notIncluded": [
+   "Entrada a las atracciones (disponible con costo adicional)",
+   "Almuerzo (disponible con costo adicional)"
+  ]
+ },
+ "dubai-private-guided-city-tour-and-dubai-frame-ent": {
+  "title": "Dubai: tour privado guiado por la ciudad y entrada al Dubai Frame",
+  "metaTitle": "Dubai: tour privado guiado por la ciudad y entrada al Dubai Frame",
+  "metaDescription": "Une excursion de medio dia desde Dubai que visita Dubai Marina, Burj Al Arab, Atlantis, Dubai y The Palm Jumeirah. Ofrecido por Arabian Vista Tourism LLC.",
+  "shortDescription": "Une excursion de medio dia desde Dubai que visita Dubai Marina, Burj Al Arab, Atlantis, Dubai y The Palm Jumeirah. Ofrecido por Arabian Vista Tourism LLC.",
+  "fullDescription": "Una excursion de medio dia desde Dubai, que recorre Dubai Marina, Burj Al Arab, Atlantis, Dubai y The Palm Jumeirah. Hay 11 paradas en total.\n\nEl orden de la ruta es Dubai Marina (20 min), luego Burj Al Arab (10 min), luego Atlantis, Dubai (15 min), luego The Palm Jumeirah (20 min), luego Jumeirah Beach (20 min).\n\nEl precio incluye recogida y regreso al hotel, vehiculo con aire acondicionado, guia que habla ingles y entrada para el Dubai Frame. No incluye comida y gastos personales, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de medio dia desde Dubai que visita Dubai Marina, Burj Al Arab, Atlantis, Dubai y The Palm Jumeirah. Ofrecido por Arabian Vista Tourism LLC."
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Vehiculo con aire acondicionado",
+   "Guia que habla ingles",
+   "Entrada para el Dubai Frame"
+  ],
+  "notIncluded": [
+   "Comida",
+   "Gastos personales"
+  ]
+ },
+ "dubai-jet-car-tour-of-burj-al-arab-with": {
+  "title": "Dubai: tour en jet car por el Burj Al Arab con fotos y videos",
+  "metaTitle": "Dubai: tour en jet car por el Burj Al Arab con fotos y videos",
+  "metaDescription": "Une excursion de 0,5 hora(s) desde Dubai que visita Burj Al Arab. Ofrecido por Yoush Watersports Dubai.",
+  "shortDescription": "Une excursion de 0,5 hora(s) desde Dubai que visita Burj Al Arab. Ofrecido por Yoush Watersports Dubai.",
+  "fullDescription": "Una excursion de 0,5 hora(s) desde Dubai, que recorre Burj Al Arab.\n\nYoush Watersports Dubai la organiza, y 9 elementos estan cubiertos por el precio. La cancelacion es gratuita. Quedese fascinado con las impresionantes vistas del Burj Al Arab y el horizonte de la ciudad.\n\nEl precio incluye paseo en jet car de 2 plazas, instructor, agua potable y fotos y videos tomados por el instructor. No incluye recogida y regreso al hotel y toallas y ropa de bano, por lo que debe presupuestar eso por separado. Dos viajeros pagan 277 $ juntos en lugar de 277 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Une excursion de 0,5 hora(s) desde Dubai que visita Burj Al Arab. Ofrecido por Yoush Watersports Dubai."
+  ],
+  "included": [
+   "Paseo en jet car de 2 plazas",
+   "Instructor",
+   "Agua potable",
+   "Fotos y videos tomados por el instructor"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Toallas y ropa de bano"
+  ]
+ },
+ "dubai-sheikh-zayed-mosque-ferrari-world-entry-w-tr": {
+  "title": "Dubai: Mezquita Sheikh Zayed y entrada a Ferrari World con traslado",
+  "metaTitle": "Dubai: Mezquita Sheikh Zayed y entrada a Ferrari World con tra...",
+  "metaDescription": "Une excursion de un dia completo desde Abu Dhabi que visita Sheikh Zayed Mosque y Ferrari World Abu Dhabi. Ofrecido por 360 Adventures Tourism LLC.",
+  "shortDescription": "Une excursion de un dia completo desde Abu Dhabi que visita Sheikh Zayed Mosque y Ferrari World Abu Dhabi. Ofrecido por 360 Adventures Tourism LLC.",
+  "fullDescription": "Una excursion de un dia completo desde Abu Dhabi, que recorre Sheikh Zayed Mosque y Ferrari World Abu Dhabi. La parada mas larga es Ferrari World Abu Dhabi, con una duracion de unos 4 horas. Hay 2 paradas en total.\n\nEl orden de la ruta es Sheikh Zayed Mosque, luego Ferrari World Abu Dhabi (4h).\n\nEl precio incluye recogida y regreso al hotel, transporte en vehiculo con aire acondicionado, acceso a la Mezquita Sheikh Zayed, entrada para Ferrari World, Warner Bros, o SeaWorld (segun la opcion elegida) y agua embotellada. No incluye comida y bebidas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de un dia completo desde Abu Dhabi que visita Sheikh Zayed Mosque y Ferrari World Abu Dhabi. Ofrecido por 360 Adventures Tourism LLC."
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Transporte en vehiculo con aire acondicionado",
+   "Acceso a la Mezquita Sheikh Zayed",
+   "Entrada para Ferrari World, Warner Bros, o SeaWorld (segun la opcion elegida)",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Comida y bebidas"
+  ]
+ },
+ "img-worlds-of-adventure-entry-ticket-with-hotel-tr": {
+  "title": "Entrada para IMG Worlds of Adventure con traslados al hotel",
+  "metaTitle": "Entrada para IMG Worlds of Adventure con traslados al hotel",
+  "metaDescription": "Experiencia de un dia completo en Dubai. Cree recuerdos inolvidables y disfrute de diversion ilimitada en IMG Worlds of Adventure. Ofrecido por Explorer Shack Tou...",
+  "shortDescription": "Experiencia de un dia completo en Dubai. Cree recuerdos inolvidables y disfrute de diversion ilimitada en IMG Worlds of Adventure. Ofrecido por Explorer Shack Tourism.",
+  "fullDescription": "Una experiencia de un dia completo en Dubai. Cree recuerdos inolvidables y disfrute de diversion ilimitada en IMG Worlds of Adventure.\n\nExplorer Shack Tourism la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye entrada para IMG Worlds of Adventure, acceso ilimitado a todas las emocionantes atracciones, recogida y regreso al hotel (si se elige la opcion) y aparcamiento gratuito. No incluye acceso a la Kids Zone (debe comprarse por separado en el parque), experiencia de Iron Man y juegos de arcade y articulos en venta (disponibles para comprar), por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Cree recuerdos inolvidables y disfrute de diversion ilimitada en IMG Worlds of Adventure"
+  ],
+  "included": [
+   "Entrada para IMG Worlds of Adventure",
+   "Acceso ilimitado a todas las emocionantes atracciones",
+   "Recogida y regreso al hotel (si se elige la opcion)",
+   "Aparcamiento gratuito"
+  ],
+  "notIncluded": [
+   "Acceso a la Kids Zone (debe comprarse por separado en el parque)",
+   "Experiencia de Iron Man y juegos de arcade",
+   "Articulos en venta (disponibles para comprar)"
+  ]
+ },
+ "from-dubai-abu-dhabi-guided-full-day-sightseeing-t": {
+  "title": "Desde Dubai: tour turistico guiado de dia completo por Abu Dhabi",
+  "metaTitle": "Desde Dubai: tour turistico guiado de dia completo por Abu Dhabi",
+  "metaDescription": "Une excursion de un dia completo desde Abu Dhabi que visita Sheikh Zayed Mosque, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi y Emirates Palace. Ofrecido p...",
+  "shortDescription": "Une excursion de un dia completo desde Abu Dhabi que visita Sheikh Zayed Mosque, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi y Emirates Palace. Ofrecido por Pacific Adventures L.L.C.",
+  "fullDescription": "Una excursion de un dia completo desde Abu Dhabi, que recorre Sheikh Zayed Mosque, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi y Emirates Palace. Hay 7 paradas en total.\n\nEl orden de la ruta es Sheikh Zayed Mosque, luego Abu Dhabi Heritage Village, luego The Corniche, Abu Dhabi, luego Emirates Palace, luego Qasr Al Watan.\n\nEl precio incluye recogida y regreso al hotel desde Dubai, transporte en vehiculo con aire acondicionado, guia turistico profesional en vivo y entrada a la Gran Mezquita Sheikh Zayed. No incluye gastos personales, almuerzo y bebidas y tour guiado dentro del Qasr Al Watan, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de un dia completo desde Abu Dhabi que visita Sheikh Zayed Mosque, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi y Emirates Palace. Ofrecido por Pacific Adventures L.L.C."
+  ],
+  "included": [
+   "Recogida y regreso al hotel desde Dubai",
+   "Transporte en vehiculo con aire acondicionado",
+   "Guia turistico profesional en vivo",
+   "Entrada a la Gran Mezquita Sheikh Zayed"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Almuerzo y bebidas",
+   "Tour guiado dentro del Qasr Al Watan"
+  ]
+ },
+ "dubai-45-minute-jet-ski-ride": {
+  "title": "Dubai: paseo en moto acuatica de 45 minutos",
+  "metaTitle": "Dubai: paseo en moto acuatica de 45 minutos",
+  "metaDescription": "Experiencia de 0,75 hora(s) en Dubai. Admire el Burj Al Arab junto a un guia profesional. Ofrecido por A One Watersports Jet Ski Dubai.",
+  "shortDescription": "Experiencia de 0,75 hora(s) en Dubai. Admire el Burj Al Arab junto a un guia profesional. Ofrecido por A One Watersports Jet Ski Dubai.",
+  "fullDescription": "Una experiencia de 0,75 hora(s) en Dubai. Admire el Burj Al Arab junto a un guia profesional.\n\nA One Watersports Jet Ski Dubai la organiza, y 7 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye moto acuatica, charla de seguridad, entrenador certificado y fotos y videos del tour. No incluye recogida y regreso al hotel y comida y bebidas adicionales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 129 $ juntos en lugar de 129 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Admire el Burj Al Arab junto a un guia profesional"
+  ],
+  "included": [
+   "Moto acuatica",
+   "Charla de seguridad",
+   "Entrenador certificado",
+   "Fotos y videos del tour"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Comida y bebidas adicionales"
+  ]
+ },
+ "dubai-burj-khalifa-jet-ski-ride-with-free-photos": {
+  "title": "Dubai: paseo en moto acuatica en el Burj Khalifa con fotos y videos gratuitos",
+  "metaTitle": "Dubai: paseo en moto acuatica en el Burj Khalifa con fotos y v...",
+  "metaDescription": "Experiencia de 0,5 hora(s) en Dubai. Sienta la emocion de pilotar una moto acuatica con el Burj Khalifa de fondo. Ofrecido por Searide Watersports Equipment Renta...",
+  "shortDescription": "Experiencia de 0,5 hora(s) en Dubai. Sienta la emocion de pilotar una moto acuatica con el Burj Khalifa de fondo. Ofrecido por Searide Watersports Equipment Rental LLC.",
+  "fullDescription": "Una experiencia de 0,5 hora(s) en Dubai. Sienta la emocion de pilotar una moto acuatica con el Burj Khalifa de fondo.\n\nSearide Watersports Equipment Rental LLC la organiza, y 6 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye charla de seguridad e instruccion proporcionada, moto acuatica nueva, chaleco salvavidas, casilleros, vestuario, y ducha disponibles y conexion Wi-Fi gratuita. No incluye recogida y regreso al hotel, por lo que debe presupuestar eso por separado. Dos viajeros pagan 110 $ juntos en lugar de 62 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Sienta la emocion de pilotar una moto acuatica con el Burj Khalifa de fondo"
+  ],
+  "included": [
+   "Charla de seguridad e instruccion proporcionada",
+   "Moto acuatica nueva",
+   "Chaleco salvavidas",
+   "Casilleros, vestuario, y ducha disponibles",
+   "Conexion Wi-Fi gratuita"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel"
+  ]
+ },
+ "dubai-jet-ski-to-burj-al-arab": {
+  "title": "Dubai: moto acuatica al Burj Al Arab",
+  "metaTitle": "Dubai: moto acuatica al Burj Al Arab",
+  "metaDescription": "Une excursion de 0,516667 hora(s) desde Dubai que visita Burj Al Arab. Ofrecido por Friend Aqua waterSports.",
+  "shortDescription": "Une excursion de 0,516667 hora(s) desde Dubai que visita Burj Al Arab. Ofrecido por Friend Aqua waterSports.",
+  "fullDescription": "Una excursion de 0,516667 hora(s) desde Dubai, que recorre Burj Al Arab.\n\nEl precio incluye moto acuatica (Yamaha FX, GP 1800 cc, Vxc), charla de seguridad, guia certificado, fotos y videos de cortesia del tour y botella de agua. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 93 $ juntos en lugar de 93 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Une excursion de 0,516667 hora(s) desde Dubai que visita Burj Al Arab. Ofrecido por Friend Aqua waterSports."
+  ],
+  "included": [
+   "Moto acuatica (Yamaha FX, GP 1800 cc, Vxc)",
+   "Charla de seguridad",
+   "Guia certificado",
+   "Fotos y videos de cortesia del tour",
+   "Botella de agua"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-night-kayaking-experience-with-burj-khalifa-": {
+  "title": "Dubai: experiencia de kayak nocturno con vistas al Burj Khalifa",
+  "metaTitle": "Dubai: experiencia de kayak nocturno con vistas al Burj Khalifa",
+  "metaDescription": "Une excursion de 1 hora(s) desde Dubai que visita Jumeirah Fishing Harbor 1 y Dubai. Ofrecido por Crystal Clear Watersports LLC.",
+  "shortDescription": "Une excursion de 1 hora(s) desde Dubai que visita Jumeirah Fishing Harbor 1 y Dubai. Ofrecido por Crystal Clear Watersports LLC.",
+  "fullDescription": "Una excursion de 1 hora(s) desde Dubai, que recorre Jumeirah Fishing Harbor 1 y Dubai. La parada mas larga es Dubai, con una duracion de unos 1 hora. Hay 2 paradas en total.\n\nEl orden de la ruta es Jumeirah Fishing Harbor 1 (5 min), luego Dubai (1h).\n\nEl precio incluye chalecos salvavidas, cascos y uso de kayak. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 212 $ juntos en lugar de 212 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Une excursion de 1 hora(s) desde Dubai que visita Jumeirah Fishing Harbor 1 y Dubai. Ofrecido por Crystal Clear Watersports LLC."
+  ],
+  "included": [
+   "Chalecos salvavidas",
+   "Cascos",
+   "Uso de kayak"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-jet-ski-tour-of-burj-al-arab-atlantis": {
+  "title": "Dubai: tour en moto acuatica por el Burj Al Arab y Atlantis The Palm",
+  "metaTitle": "Dubai: tour en moto acuatica por el Burj Al Arab y Atlantis Th...",
+  "metaDescription": "Une excursion de 1 hora(s) desde Dubai que visita Burj Al Arab, Jumeirah Beach Hotel, Atlantis The Royal y Atlantis, Dubai. Ofrecido por Friend Aqua waterSports.",
+  "shortDescription": "Une excursion de 1 hora(s) desde Dubai que visita Burj Al Arab, Jumeirah Beach Hotel, Atlantis The Royal y Atlantis, Dubai. Ofrecido por Friend Aqua waterSports.",
+  "fullDescription": "Una excursion de 1 hora(s) desde Dubai, que recorre Burj Al Arab, Jumeirah Beach Hotel, Atlantis The Royal y Atlantis, Dubai. Hay 4 paradas en total.\n\nEl orden de la ruta es Burj Al Arab (5 min), luego Jumeirah Beach Hotel (5 min), luego Atlantis The Royal (5 min), luego Atlantis, Dubai (7 min).\n\nEl precio incluye alquiler de moto acuatica, agua potable, chaleco salvavidas y uso de casillero. No incluye comida y bebidas y recogida y regreso al hotel, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de 1 hora(s) desde Dubai que visita Burj Al Arab, Jumeirah Beach Hotel, Atlantis The Royal y Atlantis, Dubai. Ofrecido por Friend Aqua waterSports."
+  ],
+  "included": [
+   "Alquiler de moto acuatica",
+   "Agua potable",
+   "Chaleco salvavidas",
+   "Uso de casillero"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Recogida y regreso al hotel"
+  ]
+ },
+ "dubai-hot-air-balloon-with-buffet-breakfast-and-ca": {
+  "title": "Dubai: globo aerostatico con desayuno buffet y paseo en camello",
+  "metaTitle": "Dubai: globo aerostatico con desayuno buffet y paseo en camello",
+  "metaDescription": "Une excursion de medio dia desde Dubai que visita Dubai. Ofrecido por Sindbad Gulf Balloons CO LLC.",
+  "shortDescription": "Une excursion de medio dia desde Dubai que visita Dubai. Ofrecido por Sindbad Gulf Balloons CO LLC.",
+  "fullDescription": "Una excursion de medio dia desde Dubai, que recorre Dubai. La parada mas larga es Dubai, con una duracion de unos 5 horas.\n\nEl precio incluye traslados de regreso al hotel compartidos, refrigerios matutinos: te, cafe, Kava, y datiles en Al Majles, viva una aventurera experiencia en globo aerostatico de hasta 60 minutos, desayuno buffet exotico en el campamento, experiencia de tiro con arco, paseo en camello y certificado de vuelo firmado por el piloto. No incluye fotos y videos y cualquier propina, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de medio dia desde Dubai que visita Dubai. Ofrecido por Sindbad Gulf Balloons CO LLC."
+  ],
+  "included": [
+   "Traslados de regreso al hotel compartidos",
+   "Refrigerios matutinos: te, cafe, Kava, y datiles en Al Majles",
+   "Viva una aventurera experiencia en globo aerostatico de hasta 60 minutos",
+   "Desayuno buffet exotico en el campamento",
+   "Experiencia de tiro con arco",
+   "Paseo en camello",
+   "Certificado de vuelo firmado por el piloto"
+  ],
+  "notIncluded": [
+   "Fotos y videos",
+   "Cualquier propina"
+  ]
+ },
+ "dubai-36-foot-private-yacht-tour": {
+  "title": "Dubai: tour en yate privado de 36 pies",
+  "metaTitle": "Dubai: tour en yate privado de 36 pies",
+  "metaDescription": "Une excursion de 2 hora(s) desde Dubai que visita Dubai Marina, Jumeirah Beach Residence, Bluewaters Island y Ain Dubai. Ofrecido por Xtreme Yachts.",
+  "shortDescription": "Une excursion de 2 hora(s) desde Dubai que visita Dubai Marina, Jumeirah Beach Residence, Bluewaters Island y Ain Dubai. Ofrecido por Xtreme Yachts.",
+  "fullDescription": "Una excursion de 2 hora(s) desde Dubai, que recorre Dubai Marina, Jumeirah Beach Residence, Bluewaters Island y Ain Dubai. Hay 7 paradas en total.\n\nEl orden de la ruta es Dubai Marina, luego Jumeirah Beach Residence, luego Bluewaters Island, luego Ain Dubai, luego The Palm Jumeirah.\n\nEl precio incluye refrescos, agua y toallas frescas. No incluye comida, traslados y actividades de deportes acuaticos, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de 2 hora(s) desde Dubai que visita Dubai Marina, Jumeirah Beach Residence, Bluewaters Island y Ain Dubai. Ofrecido por Xtreme Yachts."
+  ],
+  "included": [
+   "Refrescos",
+   "Agua",
+   "Toallas frescas"
+  ],
+  "notIncluded": [
+   "Comida",
+   "Traslados",
+   "Actividades de deportes acuaticos"
+  ]
+ },
+ "from-dubai-2-dives-for-certified-divers-with-trans": {
+  "title": "Desde Dubai: 2 inmersiones para buceadores certificados con traslado",
+  "metaTitle": "Desde Dubai: 2 inmersiones para buceadores certificados con tr...",
+  "metaDescription": "Une excursion de un dia completo desde Dubai que visita Fujairah, Fujairah, Reef Oasis Dive Club, Fujairah y Al Bidya Mosque. Ofrecido por Reef Oasis Diving Center.",
+  "shortDescription": "Une excursion de un dia completo desde Dubai que visita Fujairah, Fujairah, Reef Oasis Dive Club, Fujairah y Al Bidya Mosque. Ofrecido por Reef Oasis Diving Center.",
+  "fullDescription": "Una excursion de un dia completo desde Dubai, que recorre Fujairah, Fujairah, Reef Oasis Dive Club, Fujairah y Al Bidya Mosque. La parada mas larga es Fujairah, con una duracion de unos 1 hora. Hay 6 paradas en total.\n\nEl orden de la ruta es Fujairah (1h), luego Fujairah (30 min), luego Reef Oasis Dive Club, Fujairah (40 min), luego Al Bidya Mosque (10 min), luego Khorfakkan Amphitheatre (15 min).\n\nEl precio incluye recogida y regreso al hotel en Dubai/Fujairah, equipo de buceo, dos inmersiones guiadas en diferentes sitios de buceo y instructor/divemaster certificado. No incluye toallas, protector solar y ropa de bano, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de un dia completo desde Dubai que visita Fujairah, Fujairah, Reef Oasis Dive Club, Fujairah y Al Bidya Mosque. Ofrecido por Reef Oasis Diving Center."
+  ],
+  "included": [
+   "Recogida y regreso al hotel en Dubai/Fujairah",
+   "Equipo de buceo",
+   "Dos inmersiones guiadas en diferentes sitios de buceo",
+   "Instructor/divemaster certificado"
+  ],
+  "notIncluded": [
+   "Toallas",
+   "Protector solar",
+   "Ropa de bano"
+  ]
+ },
+ "dubai-private-fly-fish-boat-ride": {
+  "title": "Dubai: paseo privado en barco fly fish",
+  "metaTitle": "Dubai: paseo privado en barco fly fish",
+  "metaDescription": "Experiencia de 0,5 hora(s) en Dubai. Disfrute de este divertido paseo con sus amigos y familia. Ofrecido por Sealife Watersports Equipment Rental LLC.",
+  "shortDescription": "Experiencia de 0,5 hora(s) en Dubai. Disfrute de este divertido paseo con sus amigos y familia. Ofrecido por Sealife Watersports Equipment Rental LLC.",
+  "fullDescription": "Una experiencia de 0,5 hora(s) en Dubai. Disfrute de este divertido paseo con sus amigos y familia.\n\nSealife Watersports Equipment Rental LLC la organiza, y 2 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye instruccion y equipo de seguridad y alrededor de 20 minutos de paseo en barco. No incluye recogida y regreso al hotel (costo adicional), por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Disfrute de este divertido paseo con sus amigos y familia"
+  ],
+  "included": [
+   "Instruccion y equipo de seguridad",
+   "Alrededor de 20 minutos de paseo en barco"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel (costo adicional)"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",
