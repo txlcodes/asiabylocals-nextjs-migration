@@ -37418,6 +37418,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persoenliche Ausgaben\nEssen und Getraenke\nOptionale Aktivitaeten, die nicht im ausgewaehlten Paket enthalten sind"
   ]
  },
+ "delhi-agra-jaipur-3-day-golden-triangle": {
+  "title": "Delhi, Agra und Jaipur: 3-taegiges Goldenes-Dreieck-Erlebnis",
+  "metaTitle": "Delhi, Agra, Jaipur, Goldenes Dreieck 3 Tage",
+  "metaDescription": "Taj Mahal in Agra: ikonische UNESCO-Weltkulturerbestaette, auf einer 3-taegigen Tour durch das Goldene Dreieck.",
+  "shortDescription": "Taj Mahal, Agra: ikonische UNESCO-Weltkulturerbestaette",
+  "fullDescription": "Delhi, Agra und Jaipur: 3-taegiges Goldenes-Dreieck-Erlebnis. Taj Mahal, Agra: ikonische UNESCO-Weltkulturerbestaette.\n\n\n\n### Im Preis enthalten\n\n- Professioneller Reiseleiter\n- Privates klimatisiertes Auto fuer die gesamte Aktivitaet\n- Mineralwasser in Flaschen\n- 3-Sterne-Hotelunterkunft\n- Fruehstueck im Hotel\n- Alle Mautgebuehren und Parken\n- Eintrittskarten\n- Mittagessen\n\n### Nicht enthalten\n\n- Jegliche persoenliche Ausgaben",
+  "highlights": [
+   "Taj Mahal, Agra: ikonische UNESCO-Weltkulturerbestaette"
+  ],
+  "included": [
+   "Professioneller Reiseleiter\nPrivates klimatisiertes Auto fuer die gesamte Aktivitaet\nMineralwasser in Flaschen\n3-Sterne-Hotelunterkunft\nFruehstueck im Hotel\nAlle Mautgebuehren und Parken\nEintrittskarten\nMittagessen"
+  ],
+  "notIncluded": [
+   "Jegliche persoenliche Ausgaben"
+  ]
+ },
+ "tour-of-artistic-work-in-jaipur-with-a-local": {
+  "title": "Tour durch kuenstlerische Arbeit in Jaipur mit einem Einheimischen: Treffen mit Einheimischen",
+  "metaTitle": "Jaipur, kuenstlerische Arbeit, lokales Treffen",
+  "metaDescription": "Beobachten Sie die traditionellen Kunstformen Gotta Patti und Bandhej, und entdecken Sie das alltaegliche Handwerk und die lebendigen Farben Jaipurs.",
+  "shortDescription": "Beobachten Sie die traditionellen Kunstformen Gotta Patti und Bandhej.",
+  "fullDescription": "Tour durch kuenstlerische Arbeit in Jaipur mit einem Einheimischen: Treffen mit Einheimischen. Beobachten Sie die traditionellen Kunstformen Gotta Patti und Bandhej.\n\nErleben Sie die alltaegliche Kunstfertigkeit und die lebendigen Farben, die in jeder Ecke Jaipurs zu finden sind. Erfahren Sie mehr ueber traditionelle lokale Industrien wie Turbanherstellung, Schmuckhandwerk, und Steinarbeiten, und erleben Sie die Kreativitaet, Fertigkeit, und Aesthetik, die diese Handwerke zu einem wesentlichen Teil der indischen Kultur machen.\n\nBeobachten Sie aus naechster Naehe die ikonischen Kunstformen Gotta Patti und Bandhej, waehrend lokale Kunsthandwerker geschickt kunstvolle Muster erschaffen, jedes Stueck einzigartig in Design und Technik. Fuehren Sie bedeutungsvolle Gespraeche mit Einheimischen bei einer Tasse Tee und gewinnen Sie Einblicke in ihren kuenstlerischen Prozess, waehrend Sie lernen, wie diese traditionellen Industrien im Alltag funktionieren.\n\nBetreten Sie diese unkonventionelle und kreative Welt der zeitgenoessischen rajasthanischen Kunst und erleben Sie Jaipurs kuenstlerischen Geist durch authentische lokale Interaktionen.\n\n### Im Preis enthalten\n\n- Hochqualifizierter und freundlicher Geschichtenerzaehler/Guide, der Englisch und Hindi sprechen kann\n- Grossartige lokale Tipps und Empfehlungen, um Geld zu sparen und das Beste der Stadt zu erkunden\n- Zugang zu versteckten Gassen und weniger bekannten Orten\n- Fesselnde Gespraeche und interessante lokale Geschichten\n\n### Nicht enthalten\n\n- Abholung und Rueckfahrt zum Hotel\n- Wasserflasche",
+  "highlights": [
+   "Beobachten Sie die traditionellen Kunstformen Gotta Patti und Bandhej."
+  ],
+  "included": [
+   "Hochqualifizierter und freundlicher Geschichtenerzaehler/Guide, der Englisch und Hindi sprechen kann\nGrossartige lokale Tipps und Empfehlungen, um Geld zu sparen und das Beste der Stadt zu erkunden\nZugang zu versteckten Gassen und weniger bekannten Orten\nFesselnde Gespraeche und interessante lokale Geschichten"
+  ],
+  "notIncluded": [
+   "Abholung und Rueckfahrt zum Hotel\nWasserflasche"
+  ]
+ },
+ "from-jaipur-private-same-day-ajmer-pushkar-day": {
+  "title": "Ab Jaipur: privater Tagesausflug nach Ajmer und Pushkar am selben Tag",
+  "metaTitle": "Ajmer und Pushkar ab Jaipur, privater Tagesausflug",
+  "metaDescription": "Besuchen Sie das Dargah Sharif, den Schrein des Sufi-Heiligen Khwaja Moinuddin Chishti, auf einem privaten Tagesausflug nach Ajmer und Pushkar ab Jaipur.",
+  "shortDescription": "Besuchen Sie das Dargah Sharif, den Schrein des Sufi-Heiligen Khwaja Moinuddin Chishti",
+  "fullDescription": "Ab Jaipur: privater Tagesausflug nach Ajmer und Pushkar am selben Tag. Besuchen Sie das Dargah Sharif, den Schrein des Sufi-Heiligen Khwaja Moinuddin Chishti.\n\nBegeben Sie sich auf einen privaten Tagesausflug ab Jaipur zu den Zwillings-Spiritualstaedten Ajmer und Pushkar. Diese Tour bietet eine komfortable, vollstaendig gefuehrte Erfahrung dieser kulturell reichen Ziele und gibt Einblicke in ihr religioeses Erbe und ihre malerische Schoenheit.\n\nBeginnen Sie Ihren Besuch am verehrten Dargah Sharif, dem Schrein des Sufi-Heiligen Khwaja Moinuddin Chishti. Bekannt als bedeutende Pilgerstaette fuer Menschen aller Glaubensrichtungen, zeigt dieser heilige Schrein atemberaubende Marmorarchitektur, kunstvoll geschnitzte Boegen, und schoene Kuppeln.\n\nDas Dargah strahlt eine ruhige Atmosphaere aus, und Sie erfahren mehr ueber seine Bedeutung als Zentrum der Sufi-Hingabe und Gastfreundschaft. Erkunden Sie die antike Moschee von Adhai Din Ka Jhonpra, die als eine der aeltesten Indiens gilt. Urspruenglich als Sanskrit-College erbaut, wurde sie im XII. Jahrhundert von Sultan Qutub-ud-Din Aibak in eine Moschee umgewandelt.\n\nDie Struktur ist bekannt fuer ihre einzigartige Mischung aus indo-islamischer Architektur, kunstvoller Kalligrafie, und schoenen Steinschnitzereien. Entspannen Sie sich am malerischen Ana-Sagar-See, einem kuenstlichen See, erbaut im XII. Jahrhundert von Koenig Anaji Chauhan. Der See ist umgeben von ueppigen Gaerten und Marmorpavillons, die von spaeteren Mogulkaisern hinzugefuegt wurden.\n\nGeniessen Sie die malerischen Ausblicke, machen Sie einen gemuetlichen Spaziergang entlang des Sees, und machen Sie schoene Fotos mit dieser friedlichen Kulisse. Beenden Sie Ihre Ajmer-Tour mit einem Besuch des Akbar-Palastes, einer historischen Festung und eines Museums, das einst als Residenz des Mogulkaisers diente.\n\nErkunden Sie seine Sammlung antiker Artefakte, Skulpturen, und Waffen, die die lebendige Geschichte der Region widerspiegeln. Der Palast ist ein architektonisches Wunder mit Mauern, die fuer die Verteidigung entworfen wurden, und bietet Einblicke in das moghulische Leben und die Kunst. Reisen Sie nach Pushkar, wo Sie den einzigen Brahma-Tempel Indiens besuchen werden.\n\nDiesem Herrn Brahma gewidmet, ist dieser heilige Tempel eine seltene und einzigartige Pilgerstaette. Bewundern Sie seine schoene Architektur und die spirituelle Atmosphaere, die Glaeubige aus aller Welt anzieht. Vervollstaendigen Sie Ihre Reise mit einem Besuch des Pushkar-Sees, eines heiligen Sees, umgeben von ueber 50 Badeghats.\n\nDer See gilt als heiliges Wasser, und viele Glaeubige kommen, um religioese Zeremonien durchzufuehren. Erleben Sie die Rituale, machen Sie einen gemuetlichen Spaziergang um die Ghats, und tauchen Sie ein in die spirituelle Atmosphaere dieses friedlichen Sees.\n\n### Im Preis enthalten\n\n- Privater Transport\n- Live-Reiseleiter\n- Privates klimatisiertes Fahrzeug mit englischsprachigem Fahrer\n- Wasserflasche (unbegrenzt)\n- Taschentuecher\n- Abholung und Rueckfahrt von Ihrem Hotel oder jedem gewuenschten Ort in Jaipur\n- Kraftstoffkosten, Parken, Maut, und alle anderen Steuern\n\n### Nicht enthalten\n\n- Mahlzeiten und Getraenke\n- Persoenliche Ausgaben\n- Essen und Getraenke\n- Trinkgelder fuer den Fahrer\n- Eintrittsgebuehren fuer Denkmaeler\n- Kamelritt\n- Jeep-Safari",
+  "highlights": [
+   "Besuchen Sie das Dargah Sharif, den Schrein des Sufi-Heiligen Khwaja Moinuddin Chishti"
+  ],
+  "included": [
+   "Privater Transport\nLive-Reiseleiter\nPrivates klimatisiertes Fahrzeug mit englischsprachigem Fahrer\nWasserflasche (unbegrenzt)\nTaschentuecher\nAbholung und Rueckfahrt von Ihrem Hotel oder jedem gewuenschten Ort in Jaipur\nKraftstoffkosten, Parken, Maut, und alle anderen Steuern"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke\nPersoenliche Ausgaben\nEssen und Getraenke\nTrinkgelder fuer den Fahrer\nEintrittsgebuehren fuer Denkmaeler\nKamelritt\nJeep-Safari"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
