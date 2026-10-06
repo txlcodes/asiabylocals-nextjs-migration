@@ -37466,6 +37466,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten und Getraenke\nPersoenliche Ausgaben\nEssen und Getraenke\nTrinkgelder fuer den Fahrer\nEintrittsgebuehren fuer Denkmaeler\nKamelritt\nJeep-Safari"
   ]
  },
+ "jaipur-3-night-holi-festival-tour-with": {
+  "title": "Jaipur: 3-naechtige Holi-Festival-Tour mit Unterkunft",
+  "metaTitle": "Jaipur, Holi-Festival, 3 Naechte",
+  "metaDescription": "Begeben Sie sich auf ein 3-taegiges Abenteuer nach Jaipur und sein weltberuehmtes Holi-Festival, mit 3-Sterne-Unterkunft und Guide enthalten.",
+  "shortDescription": "Begeben Sie sich auf ein 3-taegiges Abenteuer nach Jaipur und sein weltberuehmtes Holi-Festival",
+  "fullDescription": "Jaipur: 3-naechtige Holi-Festival-Tour mit Unterkunft. Begeben Sie sich auf ein 3-taegiges Abenteuer nach Jaipur und sein weltberuehmtes Holi-Festival.\n\n\n\n### Im Preis enthalten\n\n- Stadtrundfahrt durch Jaipur\n- Traditionelles Holi-Fest mit einigen Einheimischen und Touristen\n- Farben (GULAL) zum Holi-Spielen\n- Guide gemaess Reiseplan\n- 3-Sterne-Unterkunft mit Fruehstueck im Hotel\n- Transport gemaess Reiseplan\n- Taegliche Wasserflasche\n- Steuern und Maut\n- Fahrerkosten\n- Unterstuetzung bei Ankunft und Abreise\n\n### Nicht enthalten\n\n- Mittag- und Abendessen\n- Eintrittsgebuehren",
+  "highlights": [
+   "Begeben Sie sich auf ein 3-taegiges Abenteuer nach Jaipur und sein weltberuehmtes Holi-Festival"
+  ],
+  "included": [
+   "Stadtrundfahrt durch Jaipur\nTraditionelles Holi-Fest mit einigen Einheimischen und Touristen\nFarben (GULAL) zum Holi-Spielen\nGuide gemaess Reiseplan\n3-Sterne-Unterkunft mit Fruehstueck im Hotel\nTransport gemaess Reiseplan\nTaegliche Wasserflasche\nSteuern und Maut\nFahrerkosten\nUnterstuetzung bei Ankunft und Abreise"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen\nEintrittsgebuehren"
+  ]
+ },
+ "evening-jaipur-city-tour-and-dinner-at-chokhi": {
+  "title": "Abendliche Stadtrundfahrt durch Jaipur und Abendessen bei Chokhi Dhani",
+  "metaTitle": "Jaipur am Abend, Abendessen Chokhi Dhani",
+  "metaDescription": "Entdecken Sie Jaipurs Genuesse mit einer abendlichen Stadttour und einem traditionellen rajasthanischen Abendessen bei Chokhi Dhani.",
+  "shortDescription": "Bekannt fuer seine immersiven rajasthanischen Erlebnisse und traditionelle Kueche.",
+  "fullDescription": "Abendliche Stadtrundfahrt durch Jaipur und Abendessen bei Chokhi Dhani. Bekannt fuer seine immersiven rajasthanischen Erlebnisse und traditionelle Kueche.\n\nEine abendliche Stadtrundfahrt durch Jaipur, gefolgt von einem Abendessen bei Chokhi Dhani, ist eine fantastische Art, die kulturellen und kulinarischen Genuesse der Rosa Stadt zu erleben. Jaipur, die Hauptstadt Rajasthans, ist bekannt fuer ihre reiche Geschichte, atemberaubende Architektur, und lebendige Kultur. Chokhi Dhani ist eine beliebte Touristenattraktion und ein Restaurant, das einen Einblick in das traditionelle rajasthanische Leben und die Kueche bietet.\n\nBeginnen Sie Ihre abendliche Stadtrundfahrt durch Jaipur:\n\nAlbert Hall Museum: wenn die Zeit es erlaubt und Sie sich fuer Kunst und Geschichte interessieren, koennen Sie am Albert Hall Museum vorbeischauen, das eine beeindruckende Sammlung von Artefakten und Kunstwerken zeigt.\n\nGeniessen Sie ein traditionelles rajasthanisches Abendessen bei Chokhi Dhani:\n\nNach Ihrer Stadtrundfahrt geht es weiter nach Chokhi Dhani, am Stadtrand von Jaipur gelegen. Es ist bekannt fuer seinen authentischen rajasthanischen Dorfaufbau und kulturelle Unterhaltung.\n\nChokhi Dhani bietet eine Vielzahl von Erlebnissen, darunter Kamelritte, Puppenshows, traditionelle Tanzauffuehrungen, und mehr. Sie koennen in die reiche rajasthanische Kultur eintauchen.\n\nGeniessen Sie ein uppiges rajasthanisches Buffet-Abendessen mit einer breiten Palette lokaler Gerichte wie Dal Baati Churma, Gatte ki Sabzi, und verschiedenen Arten von Brot, Currys, und Desserts.\n\nGeniessen Sie die lebendige und lebhafte Atmosphaere, und nehmen Sie vielleicht sogar an traditionellen Volkstaenzen oder anderen Aktivitaeten teil.\n\nRueckkehr zu Ihrer Unterkunft:\n\nNach einem angenehmen Abend bei Chokhi Dhani koennen Sie zu Ihrem Hotel oder Ihrer Unterkunft in Jaipur zurueckkehren.\nDiese Erfahrung gibt Ihnen einen Vorgeschmack auf Rajasthans Kultur, Kueche, und Gastfreundschaft und macht sie zu einem unvergesslichen Teil Ihres Besuchs in Jaipur.\n\n### Im Preis enthalten\n\n- Abholung und Rueckfahrt zum Hotel\n- Eintritt/Zugang - Kalagram Chokhi Dhani\n- Traditionelles vegetarisches Abendessen in Chokhi Dhani Jaipur\n- Klimatisiertes Fahrzeug\n\n### Nicht enthalten\n\n- Getraenke\n- Eintritt zum Albert Hall Museum\n- Souvenirfotos (zum Kauf erhaeltlich)\n- Trinkgelder",
+  "highlights": [
+   "Bekannt fuer seine immersiven rajasthanischen Erlebnisse und traditionelle Kueche."
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel\nEintritt/Zugang - Kalagram Chokhi Dhani\nTraditionelles vegetarisches Abendessen in Chokhi Dhani Jaipur\nKlimatisiertes Fahrzeug"
+  ],
+  "notIncluded": [
+   "Getraenke\nEintritt zum Albert Hall Museum\nSouvenirfotos (zum Kauf erhaeltlich)\nTrinkgelder"
+  ]
+ },
+ "delhi-all-included-3-day-golden-triangle-tour": {
+  "title": "Delhi: All-inclusive 3-Tages-Tour im Goldenen Dreieck mit Hotel",
+  "metaTitle": "Delhi, Goldenes Dreieck 3 Tage, All-inclusive",
+  "metaDescription": "Geniessen Sie eine gefuehrte Tour durch alle Staedte auf einer All-inclusive-3-Tages-Tour im Goldenen Dreieck ab Delhi, mit Hotel enthalten.",
+  "shortDescription": "Geniessen Sie eine gefuehrte Tour durch alle Staedte",
+  "fullDescription": "Delhi: All-inclusive 3-Tages-Tour im Goldenen Dreieck mit Hotel. Geniessen Sie eine gefuehrte Tour durch alle Staedte.\n\nTag 1: Abholung in Delhi, Besichtigung von Alt- und Neu-Delhi, und Fahrt nach Agra, Uebernachtung in Agra\n\nBeginnen Sie Ihre private 3-Tages-Tour im Goldenen Dreieck mit einer Abholung vom Hotel oder Flughafen in Delhi. Entdecken Sie die wichtigsten Sehenswuerdigkeiten der Hauptstadt, einschliesslich der majestaetischen Jama Masjid, des India Gate, des Qutub Minar, und des Parlamentsgebaeudes. Geniessen Sie eine Panoramafahrt am Roten Fort und am Praesidentenpalast vorbei, bevor Sie sich ueber die schnelle Yamuna Expressway (ca. 3-4 Stunden) auf den Weg nach Agra machen. Checken Sie in Ihrem Hotel ein und entspannen Sie sich fuer den Abend. Uebernachtung in Agra.\n\nTag 2: Sonnenaufgang am Taj Mahal mit Agra Fort, Fahrt nach Jaipur, und Uebernachtung in Jaipur\n\nWachen Sie frueh auf, um den Sonnenaufgang ueber dem Taj Mahal zu erleben, eines der sieben Weltwunder und eine UNESCO-Weltkulturerbestaette. Nach dem Fruehstueck besuchen Sie das historische Agra Fort, ein Wunder aus rotem Sandstein, das einst als koenigliche Residenz diente. Spaeter reisen Sie nach Jaipur und halten auf dem Weg an der Geisterstadt Fatehpur Sikri, bekannt fuer ihre atemberaubende moghulische Architektur. Ankunft in Jaipur am Abend und Check-in in Ihrem Hotel. Uebernachtung in Jaipur.\n\nTag 3: Besichtigung Jaipurs und Rueckkehr nach Delhi\n\nErkunden Sie die koenigliche Stadt Jaipur mit Besuchen des Amber Forts auf dem Huegel, wo Sie mit dem Jeep fuer Panoramablicke hinauffahren koennen. Weiter geht es zum schoenen Jal Mahal (Wasserpalast), dem ikonischen Hawa Mahal (Palast der Winde), und dem City Palace, Heimat des koeniglichen Erbes Jaipurs. Beenden Sie Ihre Tour mit einem Besuch des Jantar Mantar, eines UNESCO-gelisteten Observatoriums. Am Nachmittag kehren Sie in einem privaten Auto (ca. 5-6 Stunden) nach Delhi zurueck, mit Absetzung an Ihrem Hotel oder Flughafen.\n\n### Im Preis enthalten\n\n- Privates Auto mit Fahrer\n- 2 Naechte Unterkunft (3-Sterne-Hotel)\n- Privater Reiseleiter in allen Staedten\n- Eintrittskarten fuer Denkmaeler\n- Fruehstueck im Hotel\n- Mineralwasser\n- Alle Steuern\n\n### Nicht enthalten\n\n- Trinkgelder\n- Persoenliche Ausgaben",
+  "highlights": [
+   "Geniessen Sie eine gefuehrte Tour durch alle Staedte"
+  ],
+  "included": [
+   "Privates Auto mit Fahrer\n2 Naechte Unterkunft (3-Sterne-Hotel)\nPrivater Reiseleiter in allen Staedten\nEintrittskarten fuer Denkmaeler\nFruehstueck im Hotel\nMineralwasser\nAlle Steuern"
+  ],
+  "notIncluded": [
+   "Trinkgelder\nPersoenliche Ausgaben"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",

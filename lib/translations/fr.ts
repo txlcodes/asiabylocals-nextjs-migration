@@ -37466,6 +37466,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Repas et boissons\nDepenses personnelles\nNourriture et boissons\nPourboires pour le chauffeur\nFrais d'entree aux monuments\nPromenade a dos de chameau\nSafari en jeep"
   ]
  },
+ "jaipur-3-night-holi-festival-tour-with": {
+  "title": "Jaipur : circuit de 3 nuits pour le Festival de Holi avec hebergement",
+  "metaTitle": "Jaipur, Festival de Holi, 3 nuits",
+  "metaDescription": "Partez pour une aventure de 3 jours a Jaipur et son celebre Festival de Holi, avec hebergement 3 etoiles et guide inclus.",
+  "shortDescription": "Partez pour une aventure de 3 jours a Jaipur et son celebre Festival de Holi",
+  "fullDescription": "Jaipur : circuit de 3 nuits pour le Festival de Holi avec hebergement. Partez pour une aventure de 3 jours a Jaipur et son celebre Festival de Holi.\n\n\n\n### Inclus\n\n- Visite de la ville de Jaipur\n- Celebration traditionnelle de Holi avec des habitants et des touristes\n- Couleurs (GULAL) pour jouer a Holi\n- Guide selon l'itineraire\n- Hebergement 3 etoiles avec petit-dejeuner a l'hotel\n- Transport selon l'itineraire\n- Bouteille d'eau chaque jour\n- Taxes et peages\n- Frais de chauffeur\n- Assistance a l'arrivee et au depart\n\n### Non inclus\n\n- Dejeuner et diner\n- Frais d'entree",
+  "highlights": [
+   "Partez pour une aventure de 3 jours a Jaipur et son celebre Festival de Holi"
+  ],
+  "included": [
+   "Visite de la ville de Jaipur\nCelebration traditionnelle de Holi avec des habitants et des touristes\nCouleurs (GULAL) pour jouer a Holi\nGuide selon l'itineraire\nHebergement 3 etoiles avec petit-dejeuner a l'hotel\nTransport selon l'itineraire\nBouteille d'eau chaque jour\nTaxes et peages\nFrais de chauffeur\nAssistance a l'arrivee et au depart"
+  ],
+  "notIncluded": [
+   "Dejeuner et diner\nFrais d'entree"
+  ]
+ },
+ "evening-jaipur-city-tour-and-dinner-at-chokhi": {
+  "title": "Visite de la ville de Jaipur en soiree et diner a Chokhi Dhani",
+  "metaTitle": "Jaipur en soiree, diner Chokhi Dhani",
+  "metaDescription": "Decouvrez les plaisirs culturels et culinaires de la Ville Rose avec une visite en soiree de Jaipur et un diner traditionnel rajasthani a Chokhi Dhani.",
+  "shortDescription": "Connue pour ses experiences immersives a theme rajasthani, sa cuisine traditionnelle.",
+  "fullDescription": "Visite de la ville de Jaipur en soiree et diner a Chokhi Dhani. Connue pour ses experiences immersives a theme rajasthani, sa cuisine traditionnelle.\n\nUne visite de la ville de Jaipur en soiree suivie d'un diner a Chokhi Dhani est une facon fantastique de decouvrir les plaisirs culturels et culinaires de la Ville Rose. Jaipur, la capitale du Rajasthan, est connue pour sa riche histoire, son architecture saisissante, et sa culture vibrante. Chokhi Dhani est une attraction touristique et un restaurant populaires offrant un apercu de la vie et de la cuisine rajasthanies traditionnelles.\n\nCommencez votre visite de la ville en soiree a Jaipur :\n\nMusee Albert Hall : si le temps le permet et que vous vous interessez a l'art et a l'histoire, vous pouvez vous arreter au Musee Albert Hall, qui presente une impressionnante collection d'artefacts et d'œuvres d'art.\n\nProfitez d'un diner rajasthani traditionnel a Chokhi Dhani :\n\nApres votre visite de la ville, rendez-vous a Chokhi Dhani, situe a la peripherie de Jaipur. C'est connu pour sa configuration authentique de village rajasthani et son divertissement culturel.\n\nChokhi Dhani offre une variete d'experiences, notamment des promenades a dos de chameau, des spectacles de marionnettes, des danses traditionnelles, et plus encore. Vous pouvez vous immerger dans la riche culture rajasthanie.\n\nDegustez un somptueux buffet rajasthani comprenant un large eventail de plats locaux, tels que dal baati churma, gatte ki sabzi, et divers types de pain, currys, et desserts.\n\nProfitez de l'atmosphere vibrante et animee, et peut-etre meme participez a des danses folkloriques traditionnelles ou autres activites.\n\nRetour a votre hebergement :\n\nApres une soiree agreable a Chokhi Dhani, vous pouvez retourner a votre hotel ou hebergement a Jaipur.\nCette experience vous donnera un avant-gout de la culture, de la cuisine, et de l'hospitalite du Rajasthan, en faisant une partie memorable de votre visite a Jaipur.\n\n### Inclus\n\n- Prise en charge et depose a l'hotel\n- Entree/admission - Kalagram Chokhi Dhani\n- Diner vegetarien traditionnel a Chokhi Dhani Jaipur\n- Vehicule climatise\n\n### Non inclus\n\n- Boissons\n- Entrees du Musee Albert Hall\n- Photos souvenirs (disponibles a l'achat)\n- Pourboires",
+  "highlights": [
+   "Connue pour ses experiences immersives a theme rajasthani, sa cuisine traditionnelle."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel\nEntree/admission - Kalagram Chokhi Dhani\nDiner vegetarien traditionnel a Chokhi Dhani Jaipur\nVehicule climatise"
+  ],
+  "notIncluded": [
+   "Boissons\nEntrees du Musee Albert Hall\nPhotos souvenirs (disponibles a l'achat)\nPourboires"
+  ]
+ },
+ "delhi-all-included-3-day-golden-triangle-tour": {
+  "title": "Delhi : circuit tout compris de 3 jours dans le Triangle d'Or avec hotel",
+  "metaTitle": "Delhi, Triangle d'Or 3 jours, tout compris",
+  "metaDescription": "Profitez d'une visite guidee de toutes les villes lors d'un circuit tout compris de 3 jours dans le Triangle d'Or depuis Delhi, avec hotel inclus.",
+  "shortDescription": "Profitez d'une visite guidee de toutes les villes",
+  "fullDescription": "Delhi : circuit tout compris de 3 jours dans le Triangle d'Or avec hotel. Profitez d'une visite guidee de toutes les villes.\n\nJour 1 : prise en charge a Delhi, visite de l'ancien et du nouveau Delhi, et trajet vers Agra, nuit a Agra\n\nCommencez votre circuit prive de 3 jours dans le Triangle d'Or avec une prise en charge a l'hotel ou a l'aeroport a Delhi. Decouvrez les principales attractions de la capitale, notamment la majestueuse Jama Masjid, India Gate, le Qutub Minar, et le Parlement. Profitez d'un trajet panoramique passant par le Fort Rouge et la Maison du President avant de vous diriger vers Agra via la rapide Yamuna Expressway (environ 3 a 4 heures). Enregistrez-vous a votre hotel et detendez-vous pour la soiree. Nuit a Agra.\n\nJour 2 : lever du soleil sur le Taj Mahal avec le Fort d'Agra, trajet vers Jaipur, et nuit a Jaipur\n\nReveillez-vous tot pour voir le lever du soleil sur le Taj Mahal, l'une des sept merveilles du monde et site du patrimoine mondial de l'UNESCO. Apres le petit-dejeuner, visitez l'historique Fort d'Agra, une merveille en gres rouge qui servait autrefois de residence royale. Ensuite, voyagez vers Jaipur, en vous arretant en chemin a la ville fantome de Fatehpur Sikri, connue pour son architecture moghole saisissante. Arrivez a Jaipur en soiree et enregistrez-vous a votre hotel. Nuit a Jaipur.\n\nJour 3 : visite de Jaipur et retour a Delhi\n\nExplorez la ville royale de Jaipur avec des visites du Fort Amber au sommet d'une colline, ou vous pouvez monter en jeep pour des vues panoramiques. Continuez vers le magnifique Jal Mahal (Palais de l'Eau), l'emblematique Hawa Mahal (Palais des Vents), et le City Palace, foyer du patrimoine royal de Jaipur. Terminez votre visite par le Jantar Mantar, un observatoire classe par l'UNESCO. Dans l'apres-midi, retournez a Delhi en voiture privee (environ 5 a 6 heures) avec depose a votre hotel ou a l'aeroport.\n\n### Inclus\n\n- Voiture privee avec chauffeur\n- Hebergement de 2 nuits (hotel 3 etoiles)\n- Guide touristique prive dans toutes les villes\n- Billets pour les monuments\n- Petit-dejeuner a l'hotel\n- Eau minerale\n- Toutes les taxes\n\n### Non inclus\n\n- Pourboires\n- Depenses personnelles",
+  "highlights": [
+   "Profitez d'une visite guidee de toutes les villes"
+  ],
+  "included": [
+   "Voiture privee avec chauffeur\nHebergement de 2 nuits (hotel 3 etoiles)\nGuide touristique prive dans toutes les villes\nBillets pour les monuments\nPetit-dejeuner a l'hotel\nEau minerale\nToutes les taxes"
+  ],
+  "notIncluded": [
+   "Pourboires\nDepenses personnelles"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
