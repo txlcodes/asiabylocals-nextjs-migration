@@ -35546,6 +35546,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas para el guia turistico y el conductor.\nCualquier cosa no mencionada en las inclusiones anteriores."
   ]
  },
+ "jaipur-full-day-tuk-tuk-tour-of-palaces-bazaars": {
+  "title": "Jaipur: tour de dia completo en tuk-tuk por palacios, bazares y templos",
+  "metaTitle": "Jaipur: dia completo en tuk-tuk",
+  "metaDescription": "Experimente Jaipur como un local, recorriendo la ciudad en un tuk-tuk solo para usted: fuerte de Amber, Jal Mahal, Hawa Mahal y mas.",
+  "shortDescription": "Experimente Jaipur como un local, recorriendo la ciudad en un tuk-tuk solo para usted.",
+  "fullDescription": "Jaipur: tour de dia completo en tuk-tuk por palacios, bazares y templos. Experimente Jaipur como un local, recorriendo la ciudad en un tuk-tuk solo para usted.\n\nComience su aventura con una recogida en su hotel en Jaipur, y luego suba a un tuk-tuk para explorar la ciudad como un verdadero local. Antes de comenzar el dia, disfrute de un chai masala caliente en el camino, tal como lo hacen los jaipuris cada manana. Nuestra primera parada ofrece una vista panoramica del imponente fuerte de Amber, que se eleva majestuosamente sobre las colinas. Desde alli, nos aventuraremos en una pintoresca calle llena de vida, casi como un pequenio pueblo, para visitar el hermoso pozo escalonado Panna Meena Ka Kund, seguido del templo Shiromani, dedicado al dios Krishna, donde prevalece un ambiente de devocion y paz.\n\nSubiendo antiguos escalones de piedra rodeados de vegetacion, caminaremos hasta la entrada principal del fuerte de Amber, una joya de la arquitectura Rajput. Despues de explorar los alrededores, regresaremos al tuk-tuk y nos dirigiremos hacia el Jal Mahal, el Palacio del Agua, donde haremos una parada fotografica frente a este palacio, que parece flotar en el lago Man Sagar.\n\nA continuacion, disfrutaremos de un merecido almuerzo en un restaurante local antes de continuar hacia los tranquilos y poco visitados cenotafios reales de Gaitor, un lugar pacifico impregnado de historia donde descansan los antiguos maharajas.\n\nUna vez en el corazon de la ciudad rosa, admiraremos la iconica fachada del Hawa Mahal, o Palacio de los Vientos, seguido de una visita al fascinante observatorio astronomico Jantar Mantar, un sitio del Patrimonio Mundial.\n\nPara terminar el dia con un toque de la cultura local, nos dirigiremos a MI Road para disfrutar de un refrescante lassi en el famoso Lassi Walla, un lugar imprescindible en Jaipur. Finalmente, disfrutaremos de un comodo viaje de regreso a su hotel despues de un dia lleno de historia, cultura, sabores y vistas inolvidables.\n\n### Que incluye\n\n- Recogida y traslado al hotel en Jaipur\n- Transporte en tuk-tuk privado con un conductor local\n- Agua embotellada durante todo el tour\n- Un chai tradicional en un puesto local\n- Un lassi tipico de Jaipur\n- Paradas en los principales monumentos y bazares segun el itinerario\n- Tiempo libre para fotos y compras ligeras en los mercados\n- Asistencia personalizada durante todo el tour\n\n### No incluye\n\n- Entradas a monumentos\n- Guia turistico oficial en monumentos (puede contratarse por separado si se desea)\n- Comidas y bebidas adicionales distintas del chai y el lassi incluidos\n- Propinas para el conductor o guia (opcional)\n- Compras personales en bazares o mercados\n- Actividades adicionales",
+  "highlights": [
+   "Experimente Jaipur como un local, recorriendo la ciudad en un tuk-tuk solo para usted."
+  ],
+  "included": [
+   "Recogida y traslado al hotel en Jaipur.\nTransporte en tuk-tuk privado con un conductor local\nAgua embotellada durante todo el tour\nUn chai tradicional en un puesto local\nUn lassi tipico de Jaipur\nParadas en los principales monumentos y bazares segun el itinerario\nTiempo libre para fotos y compras ligeras en los mercados\nAsistencia personalizada durante todo el tour"
+  ],
+  "notIncluded": [
+   "Entradas a monumentos\nGuia turistico oficial en monumentos (puede contratarse por separado si se desea)\nComidas y bebidas adicionales distintas del chai y el lassi incluidos\nPropinas para el conductor o guia (opcional)\nCompras personales en bazares o mercados\nActividades adicionales"
+  ]
+ },
+ "jaipur-night-heritage-walking-tour-with-food": {
+  "title": "Jaipur: tour nocturno del patrimonio a pie con degustacion de comida",
+  "metaTitle": "Jaipur: tour nocturno a pie, degustacion",
+  "metaDescription": "Paseo guiado por la historica ciudad amurallada de Jaipur, catalogada por la UNESCO, con mercados ocultos y degustacion de comida callejera.",
+  "shortDescription": "Paseo guiado por la historica ciudad amurallada de Jaipur, catalogada por la UNESCO",
+  "fullDescription": "Jaipur: tour nocturno del patrimonio a pie con degustacion de comida. Paseo guiado por la historica ciudad amurallada de Jaipur, catalogada por la UNESCO.\n\nAlejese de los caminos turisticos habituales y sumerjase en la historia viva de Jaipur. Este tour guiado a pie lo lleva a traves de la ciudad amurallada (sitio del Patrimonio de la Humanidad de la UNESCO), donde cada puerta y estrecho callejon cuenta una historia de legado real e ingenio arquitectonico.\n\nGuiado por un narrador local, usted:\n\nDescubrira la arquitectura: maravillese con el diseño geometricamente preciso de la ciudad y las iconicas fachadas rosas de la ciudad vieja.\n\nConocera a los artesanos: visite Maniharon ka Rasta para ver el delicado arte de la fabricacion de pulseras de laca y observar a los golpeadores de metal y talladores de piedra en accion.\n\nExplorara mercados ocultos: paseese por los mercados de especias y puestos de flores de Badi Chaupar, respirando el alma aromatica de Rajasthan.\n\nElegira su sabor: opte por la mejora de degustacion de comida para convertir su paseo en un viaje culinario. Pruebe delicias autenticas como Pyaaz Kachori, samosas picantes y dulces tradicionales en tiendas que han servido a los locales durante generaciones. Acompanielo todo con una taza humeante de chai masala servido en una olla de barro tradicional.\n\nYa sea que sea un amante de la historia, un entusiasta de la fotografia o un amante de la comida, este tour ofrece una mirada cruda y autentica a la vida en la ciudad rosa.\n\n### Que incluye\n\n- Guia local profesional\n- Tour a pie de 2,5 a 3 horas\n- Agua embotellada\n- Comida y chai (si se elige la opcion \"degustacion de comida\")",
+  "highlights": [
+   "Paseo guiado por la historica ciudad amurallada de Jaipur, catalogada por la UNESCO"
+  ],
+  "included": [
+   "Guia local profesional\nTour a pie de 2,5 a 3 horas\nAgua embotellada\nComida y chai (si se elige la opcion \"degustacion de comida\")"
+  ],
+  "notIncluded": [
+   "Recogida y traslado al hotel\nPropinas (opcional)\nGastos personales\nTarifas de entrada a monumentos"
+  ]
+ },
+ "jaipur-traditional-indian-yoga-experience": {
+  "title": "Jaipur: experiencia de yoga indio tradicional",
+  "metaTitle": "Jaipur: experiencia de yoga indio",
+  "metaDescription": "Recogida y traslado matutino desde el hotel en coche privado para una sesion de yoga tradicional, meditacion y desayuno.",
+  "shortDescription": "Recogida y traslado matutino desde el hotel en coche privado",
+  "fullDescription": "Jaipur: experiencia de yoga indio tradicional. Recogida y traslado matutino desde el hotel en coche privado.\n\nNos reuniremos en el centro de yoga, a su llegada, su instructor de yoga le presentara la historia y las practicas del yoga, remontando sus origenes a la antigua India, con menciones en el Rig Veda y desarrollo alrededor de los siglos 5 y 6 antes de nuestra era.\n\nLa sesion comienza con un calentamiento y ejercicios de estiramiento, preparandolo para el pranayama y una breve leccion de meditacion disenada para ayudarlo a conectarse con su yo interior. Disfrute de una practica de yoga vigorizante que refresca sus sentidos y lo deja renovado.\n\nDespues de la sesion, tendra la opcion de disfrutar del desayuno y usar las instalaciones del ashram para ducharse y cambiarse, facilitando la transicion a los planes de su dia. El traslado puede organizarse a un punto turistico local o de regreso a su hotel, segun su preferencia.\n\n### Que incluye\n\n- Recogida y traslado\n- Agua embotellada/te/cafe\n- Desayuno",
+  "highlights": [
+   "Recogida y traslado matutino desde el hotel en coche privado"
+  ],
+  "included": [
+   "Recogida y traslado\nAgua embotellada/te/cafe\nDesayuno"
+  ],
+  "notIncluded": [
+   "Ninguno"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",

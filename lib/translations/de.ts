@@ -35546,6 +35546,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder fuer Reiseleiter und Fahrer.\nAlles, was nicht in den obigen Einschluessen erwaehnt ist."
   ]
  },
+ "jaipur-full-day-tuk-tuk-tour-of-palaces-bazaars": {
+  "title": "Jaipur: Ganztagestour mit Tuk-Tuk zu Palaesten, Bazaren und Tempeln",
+  "metaTitle": "Jaipur: Ganztagestour mit Tuk-Tuk",
+  "metaDescription": "Erleben Sie Jaipur wie ein Einheimischer und erkunden Sie die Stadt im Tuk-Tuk nur fuer Sie: Amber Fort, Jal Mahal, Hawa Mahal und mehr.",
+  "shortDescription": "Erleben Sie Jaipur wie ein Einheimischer und erkunden Sie die Stadt im Tuk-Tuk nur fuer Sie.",
+  "fullDescription": "Jaipur: Ganztagestour mit Tuk-Tuk zu Palaesten, Bazaren und Tempeln. Erleben Sie Jaipur wie ein Einheimischer und erkunden Sie die Stadt im Tuk-Tuk nur fuer Sie.\n\nBeginnen Sie Ihr Abenteuer mit einer Abholung an Ihrem Hotel in Jaipur und steigen Sie dann in ein Tuk-Tuk, um die Stadt wie ein echter Einheimischer zu erkunden. Bevor der Tag beginnt, geniessen Sie einen heissen Masala Chai auf dem Weg, genau wie es die Jaipuris jeden Morgen tun. Unser erster Stopp bietet einen Panoramablick auf das imposante Amber Fort, das majestaetisch ueber den Huegeln aufsteigt. Von dort aus wagen wir uns in eine malerische, lebendige Strasse, fast wie ein kleines Dorf, um den schoenen Stufenbrunnen Panna Meena Ka Kund zu besuchen, gefolgt vom Shiromani-Tempel, der dem Gott Krishna gewidmet ist, wo eine Atmosphaere der Hingabe und des Friedens vorherrscht.\n\nBeim Aufsteigen antiker Steinstufen, umgeben von Gruen, gehen wir zum Haupteingang des Amber Forts, einem Juwel der Rajput-Architektur. Nach der Erkundung der Umgebung kehren wir zum Tuk-Tuk zurueck und fahren zum Jal Mahal, dem Wasserpalast, wo wir einen Fotostopp vor diesem Palast machen, der scheinbar auf dem Man Sagar See schwimmt.\n\nAls Naechstes geniessen wir ein wohlverdientes Mittagessen in einem lokalen Restaurant, bevor wir weiter zu den ruhigen und wenig besuchten koeniglichen Kenotaphen von Gaitor fahren, einem friedlichen, geschichtsreichen Ort, wo die ehemaligen Maharajas ruhen.\n\nIm Herzen der Pink City angekommen, bewundern wir die ikonische Fassade des Hawa Mahal, des Palasts der Winde, gefolgt von einem Besuch des faszinierenden astronomischen Observatoriums Jantar Mantar, einer Weltkulturerbestaette.\n\nUm den Tag mit einem Geschmack der lokalen Kultur zu beenden, fahren wir zur MI Road, um einen erfrischenden Lassi beim beruehmten Lassi Walla zu geniessen, einem Muss in Jaipur. Schliesslich geniessen wir eine komfortable Rueckfahrt zu Ihrem Hotel nach einem Tag voller Geschichte, Kultur, Aromen und unvergesslicher Ausblicke.\n\n### Im Preis enthalten\n\n- Abholung und Rueckfahrt zum Hotel in Jaipur\n- Transport im privaten Tuk-Tuk mit einem lokalen Fahrer\n- Flaschenwasser waehrend der gesamten Tour\n- Ein traditioneller Chai an einem lokalen Stand\n- Ein typischer Jaipur-Lassi\n- Stopps an den wichtigsten Denkmaelern und Bazaren gemaess dem Reiseplan\n- Freizeit fuer Fotos und leichtes Einkaufen auf den Maerkten\n- Persoenliche Unterstuetzung waehrend der gesamten Tour\n\n### Nicht enthalten\n\n- Eintritt zu Denkmaelern\n- Offizieller Reiseleiter an Denkmaelern (kann auf Wunsch separat gebucht werden)\n- Zusaetzliche Mahlzeiten und Getraenke ausser dem enthaltenen Chai und Lassi\n- Trinkgelder fuer den Fahrer oder Guide (optional)\n- Persoenliche Einkaeufe auf Bazaren oder Maerkten\n- Zusaetzliche Aktivitaeten",
+  "highlights": [
+   "Erleben Sie Jaipur wie ein Einheimischer und erkunden Sie die Stadt im Tuk-Tuk nur fuer Sie."
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel in Jaipur.\nTransport im privaten Tuk-Tuk mit einem lokalen Fahrer\nFlaschenwasser waehrend der gesamten Tour\nEin traditioneller Chai an einem lokalen Stand\nEin typischer Jaipur-Lassi\nStopps an den wichtigsten Denkmaelern und Bazaren gemaess dem Reiseplan\nFreizeit fuer Fotos und leichtes Einkaufen auf den Maerkten\nPersoenliche Unterstuetzung waehrend der gesamten Tour"
+  ],
+  "notIncluded": [
+   "Eintritt zu Denkmaelern\nOffizieller Reiseleiter an Denkmaelern (kann auf Wunsch separat gebucht werden)\nZusaetzliche Mahlzeiten und Getraenke ausser dem enthaltenen Chai und Lassi\nTrinkgelder fuer den Fahrer oder Guide (optional)\nPersoenliche Einkaeufe auf Bazaren oder Maerkten\nZusaetzliche Aktivitaeten"
+  ]
+ },
+ "jaipur-night-heritage-walking-tour-with-food": {
+  "title": "Jaipur: nächtliche Erbe-Wandertour mit Essensverkostung",
+  "metaTitle": "Jaipur: nächtliche Wandertour, Verkostung",
+  "metaDescription": "Gefuehrter Spaziergang durch die historische, von der UNESCO gelistete ummauerte Stadt Jaipur, mit versteckten Maerkten und Street-Food-Verkostung.",
+  "shortDescription": "Gefuehrter Spaziergang durch die historische, von der UNESCO gelistete ummauerte Stadt Jaipur",
+  "fullDescription": "Jaipur: nächtliche Erbe-Wandertour mit Essensverkostung. Gefuehrter Spaziergang durch die historische, von der UNESCO gelistete ummauerte Stadt Jaipur.\n\nEntfernen Sie sich von den typischen Touristenpfaden und tauchen Sie ein in die lebendige Geschichte Jaipurs. Diese gefuehrte Wandertour fuehrt Sie durch die ummauerte Stadt (UNESCO-Weltkulturerbestaette), wo jedes Tor und jede enge Gasse eine Geschichte von koeniglichem Erbe und architektonischem Genie erzaehlt.\n\nGefuehrt von einem lokalen Geschichtenerzaehler werden Sie:\n\nArchitektur entdecken: Staunen Sie ueber das geometrisch praezise Layout der Stadt und die ikonischen rosa Fassaden der Altstadt.\n\nDie Handwerker treffen: Besuchen Sie die Maniharon ka Rasta, um die feine Kunst der Lack-Armreifen-Herstellung zu sehen und Metallschlaeger und Steinschnitzer bei der Arbeit zu beobachten.\n\nVersteckte Maerkte erkunden: Schlendern Sie durch die Gewuerzmaerkte und Blumenstaende von Badi Chaupar und atmen Sie die aromatische Seele Rajasthans ein.\n\nIhren Geschmack waehlen: Entscheiden Sie sich fuer das Essensverkostungs-Upgrade, um Ihren Spaziergang in eine kulinarische Reise zu verwandeln. Probieren Sie authentische Delikatessen wie Pyaaz Kachori, scharfe Samosas und traditionelle Suessigkeiten in Geschaeften, die seit Generationen Einheimische bedienen. Spuelen Sie alles mit einer dampfenden Tasse Masala Chai herunter, serviert in einem traditionellen Tontopf.\n\nOb Sie ein Geschichtsliebhaber, ein Fotografie-Enthusiast oder ein Feinschmecker sind, diese Tour bietet einen ungeschoenten und authentischen Einblick in das Leben der Pink City.\n\n### Im Preis enthalten\n\n- Professioneller lokaler Guide\n- 2,5- bis 3-stuendige Wandertour\n- Flaschenwasser\n- Essen und Chai (wenn die Option \"Essensverkostung\" gewaehlt wird)",
+  "highlights": [
+   "Gefuehrter Spaziergang durch die historische, von der UNESCO gelistete ummauerte Stadt Jaipur"
+  ],
+  "included": [
+   "Professioneller lokaler Guide\n2,5- bis 3-stuendige Wandertour\nFlaschenwasser\nEssen und Chai (wenn die Option \"Essensverkostung\" gewaehlt wird)"
+  ],
+  "notIncluded": [
+   "Abholung und Rueckfahrt zum Hotel\nTrinkgelder (optional)\nPersoenliche Ausgaben\nEintrittsgebuehren fuer Denkmaeler"
+  ]
+ },
+ "jaipur-traditional-indian-yoga-experience": {
+  "title": "Jaipur: traditionelles indisches Yoga-Erlebnis",
+  "metaTitle": "Jaipur: traditionelles indisches Yoga",
+  "metaDescription": "Morgendliche Abholung und Rueckfahrt vom Hotel im privaten Auto fuer eine traditionelle Yogasitzung, Meditation und Fruehstueck.",
+  "shortDescription": "Morgendliche Abholung und Rueckfahrt vom Hotel im privaten Auto",
+  "fullDescription": "Jaipur: traditionelles indisches Yoga-Erlebnis. Morgendliche Abholung und Rueckfahrt vom Hotel im privaten Auto.\n\nWir treffen uns im Yogazentrum, bei Ihrer Ankunft wird Ihnen Ihr Yogalehrer die Geschichte und Praktiken des Yoga vorstellen, deren Urspruenge bis ins antike Indien zurueckreichen, mit Erwaehnungen im Rigveda und Entwicklung um das 5. und 6. Jahrhundert vor unserer Zeitrechnung.\n\nDie Sitzung beginnt mit Aufwaermen und Dehnuebungen, die Sie auf Pranayama und eine kurze Meditationslektion vorbereiten, die Ihnen helfen soll, sich mit Ihrem inneren Selbst zu verbinden. Geniessen Sie eine erfrischende Yoga-Praxis, die Ihre Sinne belebt und Sie erfrischt zurueck laesst.\n\nNach der Sitzung haben Sie die Option, das Fruehstueck zu geniessen und die Einrichtungen des Ashrams zum Duschen und Umziehen zu nutzen, was den Uebergang in Ihre Tagesplaene erleichtert. Die Rueckfahrt kann an einem lokalen Besichtigungsort oder zurueck zu Ihrem Hotel vereinbart werden, je nach Ihrer Praeferenz.\n\n### Im Preis enthalten\n\n- Abholung und Rueckfahrt\n- Flaschenwasser/Tee/Kaffee\n- Fruehstueck",
+  "highlights": [
+   "Morgendliche Abholung und Rueckfahrt vom Hotel im privaten Auto"
+  ],
+  "included": [
+   "Abholung und Rueckfahrt\nFlaschenwasser/Tee/Kaffee\nFruehstueck"
+  ],
+  "notIncluded": [
+   "Keine"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
