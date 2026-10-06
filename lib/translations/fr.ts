@@ -35690,6 +35690,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Aucun"
   ]
  },
+ "evening-fort-tour-amer-nahargarh-at-sunset": {
+  "title": "Visite nocturne des forts : Amer et Nahargarh au coucher du soleil",
+  "metaTitle": "Visite des forts Amer et Nahargarh au coucher du soleil",
+  "metaDescription": "La prise en charge à 15h30 garantit un début détendu et une entrée sûre au fort d'Amer, suivi du coucher de soleil au fort de Nahargarh.",
+  "shortDescription": "La prise en charge à 15h30 garantit un début détendu et une entrée sûre au fort d'Amer",
+  "fullDescription": "Visite nocturne des forts : Amer et Nahargarh au coucher du soleil. La prise en charge à 15h30 garantit un début détendu et une entrée sûre au fort d'Amer.\n\nVotre chauffeur vous rencontrera à votre hôtel ou à tout endroit central de Jaipur vers 15h30. Ce départ précoce nous donne une marge de sécurité pour atteindre le fort d'Amer avant l'heure de fermeture, tout en profitant de l'air plus frais du soir. Asseyez-vous confortablement et détendez-vous en traversant les rues animées de Jaipur vers le majestueux fort.\n\nAlors que le soleil commence à s'adoucir, le fort d'Amer resplendit sous une lumière dorée. Vous marcherez dans ses grandes cours, admirerez les salles de travail des miroirs et sentirez les histoires des rois Rajput reprendre vie. Le soir est le meilleur moment ici : moins de monde, plus de calme et une atmosphère bien plus magique que les chaudes après-midi.\n\nEnsuite, nous roulons sur la route sinueuse jusqu'au fort de Nahargarh. Depuis ses remparts, Jaipur s'étend en dessous comme une tapisserie lumineuse alors que le soleil se couche et que les lumières de la ville commencent à scintiller. Nous nous arrêtons ici pour un thé ou un café, vous donnant le temps de vous imprégner de la vue, de prendre des photos et de simplement profiter du moment.\n\nAprès le coucher du soleil, nous retournons vers la ville. Vous serez déposé à votre hôtel ou à l'endroit choisi, emportant avec vous le souvenir des forts de Jaipur dans leur heure la plus magique.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel\n- Transport tout au long du voyage en voiture climatisée avec chauffeur\n- Un guide touristique privé en direct et linguistique\n- Frais d'entrée à tous les monuments inclus (si l'option est choisie)\n- Tout le stationnement, les péages, les indemnités du chauffeur, le carburant et les taxes",
+  "highlights": [
+   "La prise en charge à 15h30 garantit un début détendu et une entrée sûre au fort d'Amer"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel.\nTransport tout au long du voyage en voiture climatisée avec chauffeur.\nUn guide touristique privé en direct et linguistique.\nFrais d'entrée à tous les monuments inclus. (si l'option est choisie)\nTout le stationnement, les péages, les indemnités du chauffeur, le carburant et les taxes."
+  ],
+  "notIncluded": [
+   "Pourboires (recommandés)\nRepas et boissons supplémentaires."
+  ]
+ },
+ "jaipur-half-day-tour-amber-fort-panna-meena-jal": {
+  "title": "Jaipur : visite d'une demi-journée (fort d'Amber, Panna Meena, Jal Mahal)",
+  "metaTitle": "Jaipur : demi-journée, fort d'Amber, Jal Mahal",
+  "metaDescription": "Voiture privée et propre de votre choix avec chauffeur, pas les taxis anciens typiques : Hawa Mahal, Panna Meena Kund, fort d'Amber, Jal Mahal.",
+  "shortDescription": "Voiture privée et propre de votre choix avec chauffeur, pas les taxis anciens typiques",
+  "fullDescription": "Jaipur : visite d'une demi-journée (fort d'Amber, Panna Meena, Jal Mahal). Voiture privée et propre de votre choix avec chauffeur, pas les taxis anciens typiques.\n\nItinéraire du voyage d'une demi-journée 1 à Jaipur :\n\nMatin - Commencez frais alors que votre chauffeur privé et le guide touristique viendront vous chercher à l'endroit spécifié à Jaipur dans une voiture propre et confortable de votre choix :\n\n1) Visite du Hawa Mahal - le palais des vents\nCommencez par visiter l'arrêt photo le plus célèbre de Jaipur. Observez le Hawa Mahal, pas seulement depuis la rue, mais avec les histoires cachées derrière ses fenêtres.\n\n2) Visite du Panna Meena Kund - le puits à degrés de Jaipur\nAprès votre visite du Hawa Mahal, le guide vous emmènera au Panna Meena Kund, le puits à degrés avec des escaliers symétriques et un charme serein.\n\n3) Visite du fort d'Amber :\nMarchez à travers le majestueux fort d'Amber ou fort d'Amer à Jaipur, en vous sentant royal alors que votre guide partage des histoires de Jaipur et d'Amer et de son âge d'or.\n\n4) Jal Mahal - le palais de l'eau de Jaipur :\nAprès la visite du fort d'Amber, arrêtez-vous au Jal Mahal, le palais flottant, et profitez de la sérénité des vues du lac sans être bousculé.\n\nAprès-midi - Pause pour un déjeuner soigné dans un restaurant célèbre, sûr et authentique avec une délicieuse nourriture.\n\n5) Visite à pied du marché de Jaipur (optionnel) :\nPromenez-vous optionnellement dans les marchés vibrants de Jaipur dans la vieille ville, un festin sensoriel de couleurs et une expérience de la vie locale :)\n\n6) Démonstration d'activité d'impression au bloc (optionnel) :\nEn plus des bijoux, Jaipur est aussi célèbre pour ses impressions vibrantes et son impression au bloc traditionnelle. Si vous souhaitez voir ou même essayer cet artisanat vous-même, informez-en votre guide et il vous emmènera profiter de cette expérience.\n\nSi vous avez du temps et souhaitez ajouter plus de monuments à l'itinéraire de la visite, l'équipe est très flexible, informez-en simplement le guide et il vous montrera plus d'endroits, comme le City Palace, le Jantar Mantar ou Gaitor.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel\n- Guide touristique privé\n- Bouteilles d'eau pendant toute la visite\n- Véhicule climatisé privé\n- Transport en voiture climatisée privée\n- Toutes taxes, frais et frais de gestion\n- Supplément carburant\n- TPS (taxe sur les produits et services)\n- Soin et attention personnalisés\n\n### Non inclus\n\n- Repas\n- Pourboires (facultatif)",
+  "highlights": [
+   "Voiture privée et propre de votre choix avec chauffeur, pas les taxis anciens typiques"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel\nGuide touristique privé\nBouteilles d'eau pendant toute la visite\nVéhicule climatisé privé\nTransport en voiture climatisée privée\nToutes taxes, frais et frais de gestion\nSupplément carburant\nTPS (taxe sur les produits et services)\nSoin et attention personnalisés"
+  ],
+  "notIncluded": [
+   "Repas\nPourboires (facultatif)"
+  ]
+ },
+ "jaipur-photowalk-trail-guided-photography-tour": {
+  "title": "Circuit photowalk de Jaipur : visite photographique guidée avec un local",
+  "metaTitle": "Jaipur : circuit photowalk guidé",
+  "metaDescription": "Capturez les rues vibrantes et les ruelles historiques de Jaipur avec votre appareil photo lors d'une visite guidée avec un expert local.",
+  "shortDescription": "Capturez les rues vibrantes et les ruelles historiques de Jaipur avec votre appareil photo",
+  "fullDescription": "Circuit photowalk de Jaipur : visite photographique guidée avec un local. Capturez les rues vibrantes et les ruelles historiques de Jaipur avec votre appareil photo.\n\nDécouvrez Jaipur à travers votre objectif lors de cette promenade photographique guidée avec un expert local. Promenez-vous dans les rues vibrantes de la ville, les ruelles historiques et les marchés animés tout en capturant son charme unique.\n\nDes façades complexes du Hawa Mahal et des bazars colorés aux ruelles cachées remplies de vie quotidienne, chaque arrêt offre un cadre parfait. Votre guide partagera des connaissances privilégiées sur les meilleurs angles, l'éclairage et les histoires locales, vous aidant à découvrir Jaipur non seulement comme un voyageur mais comme un conteur.\n\nQue vous soyez amateur, photographe professionnel, ou simplement quelqu'un qui aime capturer des souvenirs, ce photowalk vous donne la chance de voir Jaipur sous un tout nouveau jour. À la fin du circuit, vous partirez avec des images époustouflantes et des aperçus authentiques de la culture, du patrimoine et des habitants de la ville rose, un véritable plaisir pour les photographes.\n\n### Ce qui est inclus\n\n- Promenade photographique guidée\n- Guide expert local\n- Connaissances privilégiées sur les angles photographiques et l'éclairage\n\n### Non inclus\n\n- Location d'équipement photographique\n- Nourriture et boissons",
+  "highlights": [
+   "Capturez les rues vibrantes et les ruelles historiques de Jaipur avec votre appareil photo"
+  ],
+  "included": [
+   "Promenade photographique guidée\nGuide expert local\nConnaissances privilégiées sur les angles photographiques et l'éclairage"
+  ],
+  "notIncluded": [
+   "Location d'équipement photographique\nNourriture et boissons"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",

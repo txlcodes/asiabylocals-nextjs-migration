@@ -35690,6 +35690,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Ninguno"
   ]
  },
+ "evening-fort-tour-amer-nahargarh-at-sunset": {
+  "title": "Tour nocturno de fuertes: Amer y Nahargarh al atardecer",
+  "metaTitle": "Tour de los fuertes Amer y Nahargarh al atardecer",
+  "metaDescription": "La recogida a las 15:30h garantiza un inicio relajado y una entrada segura al fuerte de Amer, seguido del atardecer en el fuerte de Nahargarh.",
+  "shortDescription": "La recogida a las 15:30h garantiza un inicio relajado y una entrada segura al fuerte de Amer",
+  "fullDescription": "Tour nocturno de fuertes: Amer y Nahargarh al atardecer. La recogida a las 15:30h garantiza un inicio relajado y una entrada segura al fuerte de Amer.\n\nSu conductor se reunira con usted en su hotel o en cualquier ubicacion central de Jaipur hacia las 15:30h. Este inicio temprano nos da un margen seguro para llegar al fuerte de Amer antes de la hora de cierre, mientras disfrutamos del aire mas fresco de la tarde. Sientese y relajese mientras conducimos por las animadas calles de Jaipur hacia el majestuoso fuerte.\n\nA medida que el sol comienza a suavizarse, el fuerte de Amer brilla con luz dorada. Caminara por sus grandes patios, admirara las salas de trabajo de espejos y sentira que las historias de los reyes Rajput cobran vida. La tarde es el mejor momento aqui: menos concurrido, mas pacifico y mucho mas atmosferico que las calurosas tardes.\n\nA continuacion, conducimos por el camino sinuoso hasta el fuerte de Nahargarh. Desde sus murallas, Jaipur se extiende abajo como un tapiz brillante mientras el sol se pone y las luces de la ciudad comienzan a titilar. Hacemos una pausa aqui para te o cafe, dandole tiempo para disfrutar de la vista, tomar fotos y simplemente disfrutar del momento.\n\nDespues del atardecer, regresamos a la ciudad. Lo dejaran en su hotel o ubicacion elegida, llevando consigo el recuerdo de los fuertes de Jaipur en su hora mas magica.\n\n### Que incluye\n\n- Recogida y traslado al hotel\n- Transporte durante todo el viaje en un coche con aire acondicionado con conductor\n- Un guia turistico privado en vivo y linguistico\n- Tarifa de entrada a todos los monumentos incluida (si se elige la opcion)\n- Todo el estacionamiento, peajes, asignaciones del conductor, combustible e impuestos",
+  "highlights": [
+   "La recogida a las 15:30h garantiza un inicio relajado y una entrada segura al fuerte de Amer"
+  ],
+  "included": [
+   "Recogida y traslado al hotel.\nTransporte durante todo el viaje en un coche con aire acondicionado con conductor.\nUn guia turistico privado en vivo y linguistico.\nTarifa de entrada a todos los monumentos incluida. (si se elige la opcion)\nTodo el estacionamiento, peajes, asignaciones del conductor, combustible e impuestos."
+  ],
+  "notIncluded": [
+   "Propinas (recomendadas)\nComidas y bebidas adicionales."
+  ]
+ },
+ "jaipur-half-day-tour-amber-fort-panna-meena-jal": {
+  "title": "Jaipur: tour de medio dia (fuerte de Amber, Panna Meena, Jal Mahal)",
+  "metaTitle": "Jaipur: medio dia, fuerte de Amber, Jal Mahal",
+  "metaDescription": "Coche privado y limpio de su eleccion con chofer, no los taxis viejos tipicos: Hawa Mahal, Panna Meena Kund, fuerte de Amber, Jal Mahal.",
+  "shortDescription": "Coche privado y limpio de su eleccion con chofer, no los taxis viejos tipicos",
+  "fullDescription": "Jaipur: tour de medio dia (fuerte de Amber, Panna Meena, Jal Mahal). Coche privado y limpio de su eleccion con chofer, no los taxis viejos tipicos.\n\nItinerario del viaje de medio dia 1 en Jaipur:\n\nManana - Comience fresco mientras su chofer privado y guia turistico lo recogen en su ubicacion especificada en Jaipur en un coche limpio y comodo de su eleccion:\n\n1) Tour del Hawa Mahal - el Palacio de los Vientos\nComience visitando la parada fotografica mas famosa de Jaipur. Observe el Hawa Mahal, no solo desde la calle, sino con las historias ocultas detras de sus ventanas.\n\n2) Tour del Panna Meena Kund - el pozo escalonado, Jaipur\nDespues de su visita al Hawa Mahal, el guia lo llevara al Panna Meena Kund, el pozo escalonado con escaleras simetricas y encanto sereno.\n\n3) Tour del fuerte de Amber:\nCamine por el majestuoso fuerte de Amber o fuerte de Amer en Jaipur, sintiendose como la realeza mientras su guia comparte historias de Jaipur y Amer y su epoca dorada.\n\n4) Jal Mahal - el Palacio del Agua de Jaipur:\nDespues de la visita al fuerte de Amber, detengase en el Jal Mahal, el palacio flotante, y disfrute de la serenidad de las vistas del lago sin ser apresurado.\n\nTarde - Pausa para un almuerzo seleccionado en un restaurante famoso, seguro y autentico con comida deliciosa.\n\n5) Tour a pie por el mercado de Jaipur (OPCIONAL):\nPaseese opcionalmente por los vibrantes mercados de Jaipur en la ciudad vieja, un festin sensorial de colores y experiencia de vida local :)\n\n6) Demostracion de impresion con bloques (OPCIONAL):\nAdemas de la joyeria, Jaipur tambien es famoso por sus vibrantes estampados e impresion tradicional con bloques. Si desea ver o incluso probar este oficio usted mismo, informe a su guia y el lo llevara a disfrutar de esta experiencia.\n\nSi tiene tiempo y desea anadir mas monumentos al itinerario del tour, el equipo es muy flexible, solo informe al guia y el le mostrara mas lugares, como el City Palace, el Jantar Mantar o Gaitor.\n\n### Que incluye\n\n- Recogida y traslado al hotel\n- Guia turistico privado\n- Botellas de agua durante todo el tour\n- Vehiculo privado con aire acondicionado\n- Transporte en coche privado con aire acondicionado\n- Todos los impuestos, tarifas y cargos de gestion\n- Recargo de combustible\n- GST (impuesto sobre bienes y servicios)\n- Atencion y cuidado personalizados\n\n### No incluye\n\n- Comidas\n- Propinas (opcional)",
+  "highlights": [
+   "Coche privado y limpio de su eleccion con chofer, no los taxis viejos tipicos"
+  ],
+  "included": [
+   "Recogida y traslado al hotel\nGuia turistico privado\nBotellas de agua durante todo el tour\nVehiculo privado con aire acondicionado\nTransporte en coche privado con aire acondicionado\nTodos los impuestos, tarifas y cargos de gestion\nRecargo de combustible\nGST (impuesto sobre bienes y servicios)\nAtencion y cuidado personalizados"
+  ],
+  "notIncluded": [
+   "Comidas\nPropinas (opcional)"
+  ]
+ },
+ "jaipur-photowalk-trail-guided-photography-tour": {
+  "title": "Ruta de fotografia de Jaipur: tour fotografico guiado con un local",
+  "metaTitle": "Jaipur: ruta de fotografia guiada",
+  "metaDescription": "Capture las vibrantes calles y callejones historicos de Jaipur con su camara, en un tour guiado con un experto local.",
+  "shortDescription": "Capture las vibrantes calles y callejones historicos de Jaipur con su camara",
+  "fullDescription": "Ruta de fotografia de Jaipur: tour fotografico guiado con un local. Capture las vibrantes calles y callejones historicos de Jaipur con su camara.\n\nDescubra Jaipur a traves de su lente en este paseo fotografico guiado con un experto local. Paseese por las vibrantes calles de la ciudad, callejones historicos y bulliciosos mercados mientras captura su encanto unico.\n\nDesde las intrincadas fachadas del Hawa Mahal y coloridos bazares hasta callejones ocultos llenos de vida cotidiana, cada parada ofrece un encuadre perfecto. Su guia compartira conocimiento privilegiado sobre los mejores angulos, iluminacion e historias locales, ayudandolo a experimentar Jaipur no solo como un viajero, sino como un narrador.\n\nYa sea que sea un amateur, un fotografo profesional, o simplemente alguien que ama capturar recuerdos, este paseo fotografico le da la oportunidad de ver Jaipur bajo una luz completamente nueva. Al final de la ruta, se ira con impresionantes imagenes y vistazos autenticos de la cultura, el patrimonio y la gente de la ciudad rosa, un verdadero deleite para fotografos.\n\n### Que incluye\n\n- Paseo fotografico guiado\n- Guia experto local\n- Conocimiento privilegiado sobre angulos fotograficos e iluminacion\n\n### No incluye\n\n- Alquiler de equipo de camara\n- Comida y bebidas",
+  "highlights": [
+   "Capture las vibrantes calles y callejones historicos de Jaipur con su camara"
+  ],
+  "included": [
+   "Paseo fotografico guiado\nGuia experto local\nConocimiento privilegiado sobre angulos fotograficos e iluminacion"
+  ],
+  "notIncluded": [
+   "Alquiler de equipo de camara\nComida y bebidas"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
