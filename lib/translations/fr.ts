@@ -37898,6 +37898,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Frais d'entree aux monuments\nTout repas/dejeuner\nGratifications (optionnel)"
   ]
  },
+ "jaipur-private-guided-half-day-full-day-tour-in": {
+  "title": "Jaipur : visite privee guidee d'une demi-journee ou journee complete a Jaipur",
+  "metaTitle": "Jaipur, visite privee, demi-journee ou journee complete",
+  "metaDescription": "Evitez les files d'attente pour les billets lors de cette visite de Jaipur : Fort Amber, Hawa Mahal, Jal Mahal, et Panna Meena ka Kund.",
+  "shortDescription": "Evitez les files d'attente pour les billets",
+  "fullDescription": "Jaipur : visite privee guidee d'une demi-journee ou journee complete a Jaipur. Evitez les files d'attente pour les billets.\n\nVisite de Jaipur / Visite d'une demi-journee de Jaipur / Visite d'une journee complete de Jaipur / Meilleure visite de Jaipur / Visite la plus populaire de Jaipur / Visite numero 1 de Jaipur / Visite la plus vendue de Jaipur\n\nItineraire\nCeci est un itineraire typique pour ce produit\n\nSi vous avez un temps limite et souhaitez explorer les points forts de Jaipur en une demi-journee, voici un itineraire condense :\nItineraire de la visite : visite privee guidee d'une demi-journee de Jaipur\nPanna Meena ka Kund, pres du Fort Amber, Jaipur, Inde\n\n1. Panna Meena ka Kund construit au XVIe siecle pour collecter la belle architecture a capturer en photo.\n\n2. Temple Jagat Shiromani : explorez le Temple Jagat Shiromani, dedie au Seigneur Krishna, et capturez les elements architecturaux du temple et l'ambiance paisible des environs.\n\n3. Fort Amber (Fort Amer) : commencez votre journee tot avec une visite du magnifique Fort Amber. Capturez la grandeur de l'architecture du fort, ses details complexes, et les vues saisissantes sur le lac Maota depuis les remparts du fort.\n\n4. Jal Mahal : en chemin vers la prochaine destination, faites un arret photo au Jal Mahal, un palais pittoresque situe au milieu du lac Man Sagar.\n\n5. Hawa Mahal (Palais des Vents) : commencez votre journee en visitant le Hawa Mahal, un palais emblematique de cinq etages avec une facade unique presentant 953 petites fenetres appelees jharokhas. Il a ete concu pour que les femmes royales puissent observer les festivites de la rue tout en preservant leur intimite.\n\n6. (Optionnel) Dejeuner dans un restaurant local : profitez d'un dejeuner rajasthani traditionnel dans un restaurant local, en savourant les saveurs de la region.\n(Optionnel) Shopping dans les bazars de Jaipur : apres la visite historique, passez du temps a faire du shopping dans les bazars colores de Jaipur. La ville est celebre pour son artisanat, ses bijoux, ses textiles, et ses vetements traditionnels.\n\n7. Veuillez noter que ceci est un itineraire suggere, et vous pouvez le personnaliser selon vos interets et preferences. Un guide prive vous accompagnera toute la journee, fournissant des apercus sur l'histoire et l'importance de chaque site. Assurez-vous de porter des vetements et chaussures confortables car vous marcherez beaucoup. Profitez de votre visite privee guidee de Jaipur et imprégnez-vous de la culture vibrante et du patrimoine de cette belle ville !\n\nApres la visite d'une demi-journee et d'une journee complete de Jaipur, le chauffeur vous deposera a l'endroit ou vous avez ete pris en charge.\n\n### Inclus\n\n- Nous fournissons le transport pour la prise en charge et la depose n'importe ou a Jaipur/si l'option de prise en charge est selectionnee\n- Guide touristique personnalise en direct selon l'itineraire\n- De la prise en charge a la depose, profitez de toutes les visites en voiture privee climatisee\n- Bouteille d'eau et parapluie gratuits fournis\n- Comprend les frais de stationnement, peages, carburant, et taxes\n- Entree/admission - Palais Amber\n- Les frais d'entree et la prise en charge pour les monuments sont inclus si l'option est selectionnee\n\n### Non inclus\n\n- Les repas sont inclus lorsque vous selectionnez l'option dejeuner inclus\n- Les pourboires ne sont pas inclus\n- Les frais d'entree aux monuments sont inclus si l'option est selectionnee",
+  "highlights": [
+   "Evitez les files d'attente pour les billets"
+  ],
+  "included": [
+   "Nous fournissons le transport pour la prise en charge et la depose n'importe ou a Jaipur/si l'option de prise en charge est selectionnee\nGuide touristique personnalise en direct selon l'itineraire\nDe la prise en charge a la depose, profitez de toutes les visites en voiture privee climatisee\nBouteille d'eau et parapluie gratuits fournis\nComprend les frais de stationnement, peages, carburant, et taxes\nEntree/admission - Palais Amber\nLes frais d'entree et la prise en charge pour les monuments sont inclus si l'option est selectionnee"
+  ],
+  "notIncluded": [
+   "Les repas sont inclus lorsque vous selectionnez l'option dejeuner inclus\nLes pourboires ne sont pas inclus\nLes frais d'entree aux monuments sont inclus si l'option est selectionnee"
+  ]
+ },
+ "7-day-india-golden-triangle-tour-with-goa-by": {
+  "title": "Circuit de 7 jours dans le Triangle d'Or de l'Inde avec Goa en avion",
+  "metaTitle": "Triangle d'Or 7 jours, avec Goa",
+  "metaDescription": "Decouvrez le lever de soleil a couper le souffle sur l'emblematique Taj Mahal, lors d'un circuit de 7 jours dans le Triangle d'Or avec Goa en avion.",
+  "shortDescription": "Decouvrez le lever de soleil a couper le souffle sur l'emblematique Taj Mahal.",
+  "fullDescription": "Circuit de 7 jours dans le Triangle d'Or de l'Inde avec Goa en avion. Decouvrez le lever de soleil a couper le souffle sur l'emblematique Taj Mahal.\n\n\n\n### Inclus\n\n- Prise en charge et depose a l'hotel (Delhi et Goa)\n- Vehicule prive climatise pour le circuit du Triangle d'Or\n- Chauffeur professionnel parlant anglais\n- Vol interieur aller simple de Jaipur a Goa\n- Transferts aeroport a Jaipur et Goa\n- Hebergement de 6 nuits (si l'option est selectionnee)\n- Petit-dejeuner quotidien (si l'option hebergement est selectionnee)\n- Visites guidees a Delhi, Agra, et Jaipur (si l'option est selectionnee)\n- Frais de carburant, peages, frais de stationnement, et indemnite de chauffeur\n- Eau potable en bouteille pendant les trajets routiers\n- Toutes les taxes applicables\n\n### Non inclus\n\n- Frais d'entree aux monuments\n- Dejeuner et diner\n- Depenses personnelles\n- Assurance voyage",
+  "highlights": [
+   "Decouvrez le lever de soleil a couper le souffle sur l'emblematique Taj Mahal."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel (Delhi et Goa)\nVehicule prive climatise pour le circuit du Triangle d'Or\nChauffeur professionnel parlant anglais\nVol interieur aller simple de Jaipur a Goa\nTransferts aeroport a Jaipur et Goa\nHebergement de 6 nuits (si l'option est selectionnee)\nPetit-dejeuner quotidien (si l'option hebergement est selectionnee)\nVisites guidees a Delhi, Agra, et Jaipur (si l'option est selectionnee)\nFrais de carburant, peages, frais de stationnement, et indemnite de chauffeur\nEau potable en bouteille pendant les trajets routiers\nToutes les taxes applicables"
+  ],
+  "notIncluded": [
+   "Frais d'entree aux monuments\nDejeuner et diner\nDepenses personnelles\nAssurance voyage"
+  ]
+ },
+ "jaipur-jantar-mantar-hawa-mahal-guided-walking": {
+  "title": "Jaipur : visite guidee a pied du Jantar Mantar et du Hawa Mahal",
+  "metaTitle": "Jaipur, Jantar Mantar, Hawa Mahal, visite a pied",
+  "metaDescription": "Emerveillez-vous devant le plus grand cadran solaire du monde, precis a deux secondes pres, lors d'une visite guidee a pied du Jantar Mantar et du Hawa Mahal.",
+  "shortDescription": "Emerveillez-vous devant le plus grand cadran solaire du monde, precis a deux secondes pres",
+  "fullDescription": "Jaipur : visite guidee a pied du Jantar Mantar et du Hawa Mahal. Emerveillez-vous devant le plus grand cadran solaire du monde, precis a deux secondes pres.\n\nEntrez dans un monde de merveilles astronomiques au Jantar Mantar de Jaipur, site du patrimoine mondial de l'UNESCO construit par le Maharaja Sawai Jai Singh II au XVIIIe siecle. Cette visite a pied devoile les secrets de l'un des plus grands et mieux preserves observatoires du monde.\n\nExplorez 19 instruments massifs concus pour mesurer le temps, predire les eclipses, et suivre les mouvements celestes. Emerveillez-vous devant le plus grand cadran solaire du monde, precis a deux secondes pres.\n\nDecouvrez l'heritage scientifique de Jaipur et la vision du Maharaja Jai Singh II pour faire avancer l'astronomie. Capturez la beaute geometrique des instruments sur fond du paysage urbain vibrant de Jaipur.\n\n### Inclus\n\n- Visite guidee a pied du Jantar Mantar de Jaipur\n- Visite guidee a pied du Hawa Mahal de Jaipur (si l'option est choisie)\n\n### Non inclus\n\n- Transferts\n- Repas",
+  "highlights": [
+   "Emerveillez-vous devant le plus grand cadran solaire du monde, precis a deux secondes pres"
+  ],
+  "included": [
+   "Visite guidee a pied du Jantar Mantar de Jaipur\nVisite guidee a pied du Hawa Mahal de Jaipur (si l'option est choisie)"
+  ],
+  "notIncluded": [
+   "Transferts\nRepas"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",

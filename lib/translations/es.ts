@@ -37898,6 +37898,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tarifas de entrada a los monumentos\nCualquier comida/almuerzo\nGratificaciones (opcional)"
   ]
  },
+ "jaipur-private-guided-half-day-full-day-tour-in": {
+  "title": "Jaipur: tour privado guiado de medio dia o dia completo en Jaipur",
+  "metaTitle": "Jaipur, tour privado, medio dia o dia completo",
+  "metaDescription": "Evite las colas para las entradas en este tour por Jaipur: Fuerte Amber, Hawa Mahal, Jal Mahal, y Panna Meena ka Kund.",
+  "shortDescription": "Evite las colas para las entradas",
+  "fullDescription": "Jaipur: tour privado guiado de medio dia o dia completo en Jaipur. Evite las colas para las entradas.\n\nTour de Jaipur / Tour de medio dia de Jaipur / Tour de dia completo de Jaipur / Mejor tour de Jaipur / Tour mas popular de Jaipur / Tour numero 1 de Jaipur / Tour mas vendido de Jaipur\n\nItinerario\nEste es un itinerario tipico para este producto\n\nSi tiene tiempo limitado y quiere explorar lo mejor de Jaipur en un tour de medio dia, aqui hay un itinerario condensado:\nItinerario del tour: tour privado guiado de medio dia por Jaipur\nPanna Meena ka Kund, cerca del Fuerte Amber, Jaipur, India\n\n1. Panna Meena ka Kund, construido en el siglo XVI para recoger la hermosa arquitectura y capturarla en fotos.\n\n2. Templo Jagat Shiromani: explore el Templo Jagat Shiromani, dedicado al Senor Krishna, y capture los elementos arquitectonicos del templo y el ambiente sereno de los alrededores.\n\n3. Fuerte Amber (Fuerte Amer): comience su dia temprano con una visita al magnifico Fuerte Amber. Capture la grandeza de la arquitectura del fuerte, sus intrincados detalles, y las impresionantes vistas del lago Maota desde las murallas del fuerte.\n\n4. Jal Mahal: en el camino hacia el siguiente destino, haga una parada fotografica en el Jal Mahal, un pintoresco palacio situado en medio del lago Man Sagar.\n\n5. Hawa Mahal (Palacio de los Vientos): comience su dia visitando el Hawa Mahal, un emblematico palacio de cinco pisos con una fachada unica que presenta 953 pequenas ventanas llamadas jharokhas. Fue disenado para que las mujeres reales pudieran observar las festividades callejeras mientras mantenian su privacidad.\n\n6. (Opcional) Almuerzo en un restaurante local: disfrute de un almuerzo rajasthani tradicional en un restaurante local, saboreando los sabores de la region.\n(Opcional) Compras en los bazares de Jaipur: despues del tour historico, pase algo de tiempo comprando en los coloridos bazares de Jaipur. La ciudad es famosa por su artesania, joyeria, textiles, y ropa tradicional.\n\n7. Tenga en cuenta que este es un itinerario sugerido, y puede personalizarlo segun sus intereses y preferencias. Un guia privado le acompanara durante todo el dia, brindando detalles sobre la historia e importancia de cada sitio. Asegurese de usar ropa y calzado comodo, ya que caminara bastante. ¡Disfrute de su tour privado guiado por Jaipur y sumerjase en la vibrante cultura y patrimonio de esta hermosa ciudad!\n\nDespues del tour de medio dia y dia completo de Jaipur, el conductor le dejara donde lo recogio.\n\n### Incluye\n\n- Proporcionamos transporte para la recogida y regreso en cualquier lugar dentro de Jaipur/si se elige la opcion de recogida\n- Guia turistico personalizado en vivo segun el itinerario\n- Desde la recogida hasta el regreso, disfrute de todas las visitas en coche privado con aire acondicionado\n- Botella de agua y paraguas gratuitos proporcionados\n- Incluye tarifas de aparcamiento, peajes, combustible, e impuestos\n- Entrada/admision - Palacio Amber\n- Las tarifas de entrada y recogida para los monumentos estan incluidas si se elige la opcion\n\n### No incluye\n\n- Las comidas estan incluidas cuando selecciona la opcion de almuerzo incluido\n- Las propinas no estan incluidas\n- Las tarifas de entrada a los monumentos estan incluidas si se elige la opcion",
+  "highlights": [
+   "Evite las colas para las entradas"
+  ],
+  "included": [
+   "Proporcionamos transporte para la recogida y regreso en cualquier lugar dentro de Jaipur/si se elige la opcion de recogida\nGuia turistico personalizado en vivo segun el itinerario\nDesde la recogida hasta el regreso, disfrute de todas las visitas en coche privado con aire acondicionado\nBotella de agua y paraguas gratuitos proporcionados\nIncluye tarifas de aparcamiento, peajes, combustible, e impuestos\nEntrada/admision - Palacio Amber\nLas tarifas de entrada y recogida para los monumentos estan incluidas si se elige la opcion"
+  ],
+  "notIncluded": [
+   "Las comidas estan incluidas cuando selecciona la opcion de almuerzo incluido\nLas propinas no estan incluidas\nLas tarifas de entrada a los monumentos estan incluidas si se elige la opcion"
+  ]
+ },
+ "7-day-india-golden-triangle-tour-with-goa-by": {
+  "title": "Tour de 7 dias por el Triangulo de Oro de India con Goa en avion",
+  "metaTitle": "Triangulo de Oro 7 dias, con Goa",
+  "metaDescription": "Experimente el impresionante amanecer en el emblematico Taj Mahal, en un tour de 7 dias por el Triangulo de Oro con Goa en avion.",
+  "shortDescription": "Experimente el impresionante amanecer en el emblematico Taj Mahal.",
+  "fullDescription": "Tour de 7 dias por el Triangulo de Oro de India con Goa en avion. Experimente el impresionante amanecer en el emblematico Taj Mahal.\n\n\n\n### Incluye\n\n- Recogida y regreso al hotel (Delhi y Goa)\n- Vehiculo privado con aire acondicionado para el tour del Triangulo de Oro\n- Conductor profesional que habla ingles\n- Vuelo nacional de ida de Jaipur a Goa\n- Traslados de aeropuerto en Jaipur y Goa\n- Alojamiento de 6 noches (si se elige la opcion)\n- Desayuno diario (si se elige la opcion de alojamiento)\n- Visitas guiadas en Delhi, Agra, y Jaipur (si se elige la opcion)\n- Gastos de combustible, peajes, tarifas de aparcamiento, y dieta del conductor\n- Agua potable embotellada durante los trayectos por carretera\n- Todos los impuestos aplicables\n\n### No incluye\n\n- Tarifas de entrada a los monumentos\n- Almuerzo y cena\n- Gastos personales\n- Seguro de viaje",
+  "highlights": [
+   "Experimente el impresionante amanecer en el emblematico Taj Mahal."
+  ],
+  "included": [
+   "Recogida y regreso al hotel (Delhi y Goa)\nVehiculo privado con aire acondicionado para el tour del Triangulo de Oro\nConductor profesional que habla ingles\nVuelo nacional de ida de Jaipur a Goa\nTraslados de aeropuerto en Jaipur y Goa\nAlojamiento de 6 noches (si se elige la opcion)\nDesayuno diario (si se elige la opcion de alojamiento)\nVisitas guiadas en Delhi, Agra, y Jaipur (si se elige la opcion)\nGastos de combustible, peajes, tarifas de aparcamiento, y dieta del conductor\nAgua potable embotellada durante los trayectos por carretera\nTodos los impuestos aplicables"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a los monumentos\nAlmuerzo y cena\nGastos personales\nSeguro de viaje"
+  ]
+ },
+ "jaipur-jantar-mantar-hawa-mahal-guided-walking": {
+  "title": "Jaipur: tour guiado a pie por el Jantar Mantar y el Hawa Mahal",
+  "metaTitle": "Jaipur, Jantar Mantar, Hawa Mahal, tour a pie",
+  "metaDescription": "Maravillese con el reloj de sol mas grande del mundo, preciso a dos segundos, en un tour guiado a pie por el Jantar Mantar y el Hawa Mahal.",
+  "shortDescription": "Maravillese con el reloj de sol mas grande del mundo, preciso a dos segundos",
+  "fullDescription": "Jaipur: tour guiado a pie por el Jantar Mantar y el Hawa Mahal. Maravillese con el reloj de sol mas grande del mundo, preciso a dos segundos.\n\nEntre en un mundo de maravillas astronomicas en el Jantar Mantar de Jaipur, sitio Patrimonio de la Humanidad de la UNESCO construido por el Maharaja Sawai Jai Singh II en el siglo XVIII. Este tour a pie desvela los secretos de uno de los observatorios mas grandes y mejor conservados del mundo.\n\nExplore 19 instrumentos masivos disenados para medir el tiempo, predecir eclipses, y rastrear movimientos celestes. Maravillese con el reloj de sol mas grande del mundo, preciso a dos segundos.\n\nConozca el legado cientifico de Jaipur y la vision del Maharaja Jai Singh II para avanzar en la astronomia. Capture la belleza geometrica de los instrumentos contra el telon de fondo del vibrante paisaje urbano de Jaipur.\n\n### Incluye\n\n- Tour guiado a pie por el Jantar Mantar de Jaipur\n- Tour guiado a pie por el Hawa Mahal de Jaipur (si se elige la opcion)\n\n### No incluye\n\n- Traslados\n- Comidas",
+  "highlights": [
+   "Maravillese con el reloj de sol mas grande del mundo, preciso a dos segundos"
+  ],
+  "included": [
+   "Tour guiado a pie por el Jantar Mantar de Jaipur\nTour guiado a pie por el Hawa Mahal de Jaipur (si se elige la opcion)"
+  ],
+  "notIncluded": [
+   "Traslados\nComidas"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
