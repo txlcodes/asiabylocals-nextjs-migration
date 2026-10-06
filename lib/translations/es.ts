@@ -37274,6 +37274,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Las propinas no estan incluidas y pueden ser recomendadas\nGastos de comidas, que no estan cubiertos por el paquete\nGastos personales, como compras o actividades adicionales no incluidas en el itinerario\nTarifas de entrada a los monumentos"
   ]
  },
+ "8-day-rajasthan-tour-jaipur-jodhpur-jaisalmer": {
+  "title": "Tour de 8 dias por Rajasthan: Jaipur, Jodhpur, Jaisalmer y Bikaner",
+  "metaTitle": "Rajasthan 8 dias, Jaipur, Jodhpur, Jaisalmer",
+  "metaDescription": "Explore el Fuerte Amer, el City Palace y el Hawa Mahal de Jaipur en un tour de 8 dias por Rajasthan.",
+  "shortDescription": "Explore el Fuerte Amer, el City Palace y el Hawa Mahal de Jaipur.",
+  "fullDescription": "Tour de 8 dias por Rajasthan: Jaipur, Jodhpur, Jaisalmer y Bikaner. Explore el Fuerte Amer, el City Palace y el Hawa Mahal de Jaipur.\n\nExperimente la vibrante cultura de Rajasthan en Jaipur, Jodhpur, Jaisalmer, y Bikaner. Explore fuertes, paisajes desertikos, y ciudades historicas mientras apoya a artesanos rurales y preserva el rico patrimonio de India.\n\n### Incluye\n\n- Todos los traslados y visitas en vehiculo privado\n- Peajes, aparcamiento, dieta del conductor, y combustible\n- Guia profesional (si se elige la opcion)\n- Alojamiento de 3 estrellas incluido (si se elige la opcion)\n- Desayuno incluido (si se elige la opcion)\n- Entradas incluidas (si se elige la opcion)\n\n### No incluye\n\n- Ningun tipo de gasto personal esta incluido\n- Almuerzo/cena/bebidas",
+  "highlights": [
+   "Explore el Fuerte Amer, el City Palace y el Hawa Mahal de Jaipur."
+  ],
+  "included": [
+   "Todos los traslados y visitas en vehiculo privado\nPeajes, aparcamiento, dieta del conductor, y combustible\nGuia profesional (si se elige la opcion)\nAlojamiento de 3 estrellas incluido (si se elige la opcion)\nDesayuno incluido (si se elige la opcion)\nEntradas incluidas (si se elige la opcion)"
+  ],
+  "notIncluded": [
+   "Ningun tipo de gasto personal esta incluido\nAlmuerzo/cena/bebidas"
+  ]
+ },
+ "sariska-jhalana-escape-from-delhi-one-day-two": {
+  "title": "Escapada a Sariska y Jhalana desde Delhi: un dia, dos safaris",
+  "metaTitle": "Sariska, Jhalana, dos safaris en un dia",
+  "metaDescription": "Viaje desde Delhi a dos safaris en un dia: tigres en Sariska por la mañana, leopardos en Jhalana por la tarde, con visitas a Jaipur entre ambos.",
+  "shortDescription": "Ofrecemos atencion al cliente 24*7.",
+  "fullDescription": "Escapada a Sariska y Jhalana desde Delhi: un dia, dos safaris. Ofrecemos atencion al cliente 24*7.\n\n2h00 - Recogida en Delhi\nComience su aventura temprano con una recogida puntual en su hotel o residencia en Delhi por parte de nuestro representante. Relajese en un comodo vehiculo privado mientras conduce hacia el Parque Nacional de Sariska.\n6h30 - Experimente el safari matutino en Sariska\nLlegue a Sariska y dirijase directamente al safari matutino por la jungla. Sea testigo del amanecer sobre las colinas Aravalli mientras se aventura en el bosque, con la esperanza de avistar tigres, leopardos, ciervos, y diversas especies de aves en su habitat natural.\n10h30 - Viaje a Jaipur para la visita de la ciudad\nDespues de su safari, continue hacia Jaipur. El trayecto dura unas 2,5 horas, ofreciendo vistas pintorescas de los agrestes paisajes de Rajasthan.\n13h00 - Explore el Jal Mahal y el Hawa Mahal\nVisite el hermoso Jal Mahal, un palacio situado en medio del lago Man Sagar. Continue hacia el Hawa Mahal, el Palacio de los Vientos, y admire su fachada unica con 953 ventanas disenadas para las mujeres reales.\n14h00 - Disfrute del almuerzo en un restaurante local\nSaboree un almuerzo rajasthani tradicional con platos como dal baati churma, gatte ki sabzi, y rotis frescos.\nSalida hacia el Safari de Leopardos de Jhalana (15h00)\nDirijase al Parque de Safari de Leopardos de Jhalana. A su llegada, registrese para su experiencia de safari vespertino. Reciba una charla informativa de su guia naturalista y suba a un gypsy para una emocionante aventura.\nSafari de leopardos de Jhalana por la tarde (16h00 - 18h30)\nExperimente el lado salvaje de Jaipur mientras explora los senderos boscosos de Jhalana. Este atento a leopardos, ciervos moteados, nilgos, zorros del desierto, y mas de 200 especies de aves. El safari ofrece la oportunidad de ver vida salvaje en su habitat natural, con orientacion experta que enriquece su experiencia.\nViaje de regreso a Delhi (18h35)\nDespues de su safari, comience su viaje de regreso a Delhi. Relajese y reflexione sobre las aventuras de su dia durante el trayecto.\nLlegada a Delhi (23h00)\nLlegue a su hotel o al lugar de destino elegido en Delhi. El tour concluye con recuerdos inolvidables del patrimonio y la naturaleza salvaje de Jaipur.\n\n### Incluye\n\n- Comidas: desayuno diario en el hotel (solo con la opcion de tour todo incluido)\n- Transporte: vehiculo con aire acondicionado para todos los traslados y visitas\n- Guia profesional: guia turistico local experimentado y conocedor\n- Tarifas de entrada: incluidas para todos los monumentos y entradas de safari (solo con la opcion de tour todo incluido)\n- Impuestos y cargos: todos los impuestos y cargos por servicio aplicables incluidos\n- Asistencia: soporte 24/7 durante todo el tour\n- Botella de agua\n- Safaris de tigres en Jeep/Canter compartido (vehiculo segun disponibilidad)\n\n### No incluye\n\n- Cualquier gasto personal como propinas, souvenirs, comidas o bebidas adicionales, y compras\n- Actividades opcionales",
+  "highlights": [
+   "Ofrecemos atencion al cliente 24*7."
+  ],
+  "included": [
+   "Comidas: desayuno diario en el hotel (solo con la opcion de tour todo incluido)\nTransporte: vehiculo con aire acondicionado para todos los traslados y visitas\nGuia profesional: guia turistico local experimentado y conocedor\nTarifas de entrada: incluidas para todos los monumentos y entradas de safari (solo con la opcion de tour todo incluido)\nImpuestos y cargos: todos los impuestos y cargos por servicio aplicables incluidos\nAsistencia: soporte 24/7 durante todo el tour\nBotella de agua\nSafaris de tigres en Jeep/Canter compartido (vehiculo segun disponibilidad)"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal como propinas, souvenirs, comidas o bebidas adicionales, y compras\nActividades opcionales"
+  ]
+ },
+ "jaipur-half-day-tour-amer-fort-jal-mahal-hawa": {
+  "title": "Jaipur: tour de medio dia al Fuerte Amer, Jal Mahal, y Hawa Mahal",
+  "metaTitle": "Jaipur, medio dia, Fuerte Amer, Jal Mahal",
+  "metaDescription": "Explore el estilo de vida real rajput en el Fuerte Amber, y maravillese con la belleza de Jaipur, en un tour flexible de medio dia.",
+  "shortDescription": "Explore el estilo de vida real rajput en el Fuerte Amber, maravillese con la belleza de Jaipur.",
+  "fullDescription": "Jaipur: tour de medio dia al Fuerte Amer, Jal Mahal, y Hawa Mahal. Explore el estilo de vida real rajput en el Fuerte Amber, maravillese con la belleza de Jaipur.\n\nEste tour se puede personalizar segun sus intereses y puede pasar tanto tiempo como desee en cada ubicacion. En la duracion de 6 a 8 horas, puede visitar entre 5 y 6 sitios en Jaipur.\nDisfrute de total flexibilidad, ya sea que quiera visitar las principales atracciones turisticas, comer excelente comida callejera, o ir de compras en los coloridos bazares. No dude en pedir recomendaciones al reservar, o pedirle sugerencias a su amigable conductor sobre como maximizar su dia. Un guia privado que habla ingles puede acompanarlo para explicar el patrimonio y la historia, o darle consejos sobre las joyas ocultas de la ciudad. Viaje a su propio ritmo, y escape del calor y el caos en su coche con aire acondicionado. Detengase para el almuerzo en un restaurante multicocina o pruebe la auténtica cocina rajasthani local.\n\nExplore los lugares distintivos de Jaipur como el Fuerte Amber, el Panna Mina Kund (pozo escalonado), el Jal Mahal (Palacio del Agua), el Hawa Mahal (Palacio de los Vientos), etc.\n\n### Incluye\n\n- Servicio de recogida y regreso desde el hotel, aeropuerto, o estacion de tren\n- Un vehiculo privado con aire acondicionado y chofer para las visitas\n- Combustible, tarifas de aparcamiento, peajes, e impuestos interestatales\n- Un guia profesional para asistir durante el tour\n- Agua embotellada para los huespedes\n- Todos los impuestos gubernamentales, incluyendo el Impuesto sobre Bienes y Servicios (GST)\n\n### No incluye\n\n- Propinas para el conductor y el guia, que no estan incluidas en el paquete y pueden ser recomendadas\n- Fotos de recuerdo, que pueden estar disponibles para comprar por separado\n- Gastos personales, como compras o actividades adicionales no incluidas en el itinerario\n- Tarifas de entrada en cualquier lugar, que no estan incluidas en el paquete y pueden necesitar pagarse por separado\n- Otras actividades no incluidas en el itinerario del tour\n- Tarifas de avion/tren/autobus hacia y desde el lugar del tour",
+  "highlights": [
+   "Explore el estilo de vida real rajput en el Fuerte Amber, maravillese con la belleza de Jaipur."
+  ],
+  "included": [
+   "Servicio de recogida y regreso desde el hotel, aeropuerto, o estacion de tren\nUn vehiculo privado con aire acondicionado y chofer para las visitas\nCombustible, tarifas de aparcamiento, peajes, e impuestos interestatales\nUn guia profesional para asistir durante el tour\nAgua embotellada para los huespedes\nTodos los impuestos gubernamentales, incluyendo el Impuesto sobre Bienes y Servicios (GST)"
+  ],
+  "notIncluded": [
+   "Propinas para el conductor y el guia, que no estan incluidas en el paquete y pueden ser recomendadas\nFotos de recuerdo, que pueden estar disponibles para comprar por separado\nGastos personales, como compras o actividades adicionales no incluidas en el itinerario\nTarifas de entrada en cualquier lugar, que no estan incluidas en el paquete y pueden necesitar pagarse por separado\nOtras actividades no incluidas en el itinerario del tour\nTarifas de avion/tren/autobus hacia y desde el lugar del tour"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",

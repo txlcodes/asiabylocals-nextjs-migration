@@ -37274,6 +37274,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Les pourboires ne sont pas inclus et peuvent etre recommandes\nLes frais de repas, qui ne sont pas couverts par le forfait\nDepenses personnelles, telles que le shopping ou des activites supplementaires non incluses dans l'itineraire\nFrais d'entree aux monuments"
   ]
  },
+ "8-day-rajasthan-tour-jaipur-jodhpur-jaisalmer": {
+  "title": "Circuit de 8 jours au Rajasthan : Jaipur, Jodhpur, Jaisalmer et Bikaner",
+  "metaTitle": "Rajasthan 8 jours, Jaipur, Jodhpur, Jaisalmer",
+  "metaDescription": "Explorez le Fort Amer, le City Palace et le Hawa Mahal de Jaipur lors d'un circuit de 8 jours a travers le Rajasthan.",
+  "shortDescription": "Explorez le Fort Amer, le City Palace et le Hawa Mahal de Jaipur.",
+  "fullDescription": "Circuit de 8 jours au Rajasthan : Jaipur, Jodhpur, Jaisalmer et Bikaner. Explorez le Fort Amer, le City Palace et le Hawa Mahal de Jaipur.\n\nDecouvrez la culture vibrante du Rajasthan a Jaipur, Jodhpur, Jaisalmer, et Bikaner. Explorez des forts, des paysages desertiques, et des villes historiques tout en soutenant les artisans ruraux et en preservant le riche patrimoine de l'Inde.\n\n### Inclus\n\n- Tous les transferts et visites en vehicule prive\n- Peage, stationnement, indemnite de chauffeur, et carburant\n- Guide professionnel (si l'option est selectionnee)\n- Hebergement 3 etoiles inclus (si l'option est selectionnee)\n- Petit-dejeuner inclus (si l'option est selectionnee)\n- Billets d'entree inclus (si l'option est selectionnee)\n\n### Non inclus\n\n- Tout type de depenses personnelles n'est pas inclus\n- Dejeuner/diner/boissons",
+  "highlights": [
+   "Explorez le Fort Amer, le City Palace et le Hawa Mahal de Jaipur."
+  ],
+  "included": [
+   "Tous les transferts et visites en vehicule prive\nPeage, stationnement, indemnite de chauffeur, et carburant\nGuide professionnel (si l'option est selectionnee)\nHebergement 3 etoiles inclus (si l'option est selectionnee)\nPetit-dejeuner inclus (si l'option est selectionnee)\nBillets d'entree inclus (si l'option est selectionnee)"
+  ],
+  "notIncluded": [
+   "Tout type de depenses personnelles n'est pas inclus\nDejeuner/diner/boissons"
+  ]
+ },
+ "sariska-jhalana-escape-from-delhi-one-day-two": {
+  "title": "Evasion Sariska et Jhalana depuis Delhi : une journee, deux safaris",
+  "metaTitle": "Sariska, Jhalana, deux safaris en un jour",
+  "metaDescription": "Partez de Delhi pour deux safaris en un jour : tigres a Sariska le matin, leopards a Jhalana le soir, avec visites de Jaipur entre les deux.",
+  "shortDescription": "Nous offrons un support client 24h/24 et 7j/7.",
+  "fullDescription": "Evasion Sariska et Jhalana depuis Delhi : une journee, deux safaris. Nous offrons un support client 24h/24 et 7j/7.\n\n2h00 - Prise en charge a Delhi\nCommencez votre aventure tot avec une prise en charge rapide a votre hotel ou residence a Delhi par notre representant. Installez-vous confortablement dans un vehicule prive confortable alors que vous roulez vers le parc national de Sariska.\n6h30 - Vivez le safari matinal a Sariska\nArrivez a Sariska et dirigez-vous directement vers le safari matinal dans la jungle. Admirez le lever du soleil sur les collines Aravalli en vous aventurant dans la foret, dans l'espoir d'apercevoir des tigres, des leopards, des cerfs, et diverses especes d'oiseaux dans leur habitat naturel.\n10h30 - Trajet vers Jaipur pour la visite de la ville\nApres votre safari, continuez vers Jaipur. Le trajet dure environ 2,5 heures, offrant des vues pittoresques sur les paysages accidentes du Rajasthan.\n13h00 - Explorez le Jal Mahal et le Hawa Mahal\nVisitez le magnifique Jal Mahal, un palais situe au milieu du lac Man Sagar. Continuez vers le Hawa Mahal, le Palais des Vents, et admirez sa facade unique avec 953 fenetres concues pour les femmes royales.\n14h00 - Profitez du dejeuner dans un restaurant local\nSavourez un dejeuner rajasthani traditionnel avec des plats comme le dal baati churma, le gatte ki sabzi, et des rotis frais.\nDepart pour le Safari aux Leopards de Jhalana (15h00)\nRendez-vous au parc de safari aux leopards de Jhalana. A l'arrivee, enregistrez-vous pour votre experience de safari du soir. Recevez un briefing de votre guide naturaliste et montez dans une gypsy pour une aventure palpitante.\nSafari aux leopards de Jhalana en soiree (16h00 - 18h30)\nDecouvrez le cote sauvage de Jaipur en explorant les sentiers boises de Jhalana. Guettez des leopards, des cerfs tachetes, des nilgauts, des renards du desert, et plus de 200 especes d'oiseaux. Le safari offre une chance de voir la faune dans son habitat naturel, avec des conseils d'experts enrichissant votre experience.\nRetour en voiture vers Delhi (18h35)\nApres votre safari, commencez votre trajet de retour vers Delhi. Detendez-vous et repensez aux aventures de votre journee pendant le trajet.\nArrivee a Delhi (23h00)\nRejoignez votre hotel ou le lieu de depose choisi a Delhi. La visite se conclut avec des souvenirs inoubliables du patrimoine et de la nature sauvage de Jaipur.\n\n### Inclus\n\n- Repas : petit-dejeuner quotidien a l'hotel (uniquement avec l'option tout compris)\n- Transport : vehicule climatise pour tous les transferts et visites\n- Guide professionnel : guide touristique local experimente et bien informe\n- Frais d'entree : inclus pour tous les monuments et billets de safari (uniquement avec l'option tout compris)\n- Taxes et frais : toutes taxes et frais de service applicables inclus\n- Assistance : support 24h/24 et 7j/7 tout au long de la visite\n- Bouteille d'eau\n- Safaris aux tigres en jeep/Canter partage (vehicule selon disponibilite)\n\n### Non inclus\n\n- Toute depense personnelle telle que pourboires, souvenirs, repas ou boissons supplementaires, et shopping\n- Activites optionnelles",
+  "highlights": [
+   "Nous offrons un support client 24h/24 et 7j/7."
+  ],
+  "included": [
+   "Repas : petit-dejeuner quotidien a l'hotel (uniquement avec l'option tout compris)\nTransport : vehicule climatise pour tous les transferts et visites\nGuide professionnel : guide touristique local experimente et bien informe\nFrais d'entree : inclus pour tous les monuments et billets de safari (uniquement avec l'option tout compris)\nTaxes et frais : toutes taxes et frais de service applicables inclus\nAssistance : support 24h/24 et 7j/7 tout au long de la visite\nBouteille d'eau\nSafaris aux tigres en jeep/Canter partage (vehicule selon disponibilite)"
+  ],
+  "notIncluded": [
+   "Toute depense personnelle telle que pourboires, souvenirs, repas ou boissons supplementaires, et shopping\nActivites optionnelles"
+  ]
+ },
+ "jaipur-half-day-tour-amer-fort-jal-mahal-hawa": {
+  "title": "Jaipur : visite d'une demi-journee du Fort Amer, Jal Mahal, et Hawa Mahal",
+  "metaTitle": "Jaipur, demi-journee, Fort Amer, Jal Mahal",
+  "metaDescription": "Explorez le mode de vie royal des Rajput au Fort Amber, et emerveillez-vous devant la beaute de Jaipur, lors d'une visite flexible d'une demi-journee.",
+  "shortDescription": "Explorez le mode de vie royal des Rajput au Fort Amber, emerveillez-vous devant la beaute de Jaipur.",
+  "fullDescription": "Jaipur : visite d'une demi-journee du Fort Amer, Jal Mahal, et Hawa Mahal. Explorez le mode de vie royal des Rajput au Fort Amber, emerveillez-vous devant la beaute de Jaipur.\n\nCette visite peut etre personnalisee selon vos interets et vous pouvez passer autant de temps que vous le souhaitez a chaque emplacement. Dans la duree de 6 a 8 heures, vous pouvez visiter entre 5 et 6 sites a Jaipur.\nProfitez d'une flexibilite totale, que vous souhaitiez visiter les principales attractions touristiques, manger une excellente street food, ou faire du shopping dans les bazars colores. N'hesitez pas a demander des recommandations lors de la reservation, ou a demander des suggestions a votre chauffeur amical sur la facon de maximiser votre journee. Un guide prive parlant anglais peut vous accompagner pour expliquer le patrimoine et l'histoire, ou vous donner des conseils sur les joyaux caches de la ville. Voyagez a votre propre rythme, et echappez a la chaleur et au chaos dans votre voiture climatisee. Arretez-vous pour le dejeuner dans un restaurant multi-cuisines ou essayez l'authentique cuisine rajasthanie locale.\n\nExplorez les monuments distinctifs de Jaipur tels que le Fort Amber, le Panna Mina Kund (puits a degres), le Jal Mahal (Palais de l'Eau), le Hawa Mahal (Palais des Vents), etc.\n\n### Inclus\n\n- Service de prise en charge et depose depuis l'hotel, l'aeroport, ou la gare\n- Un vehicule prive climatise avec chauffeur pour les visites\n- Carburant, frais de stationnement, peages, et taxes interetatiques\n- Un guide professionnel pour vous assister pendant la visite\n- Eau en bouteille pour les invites\n- Toutes les taxes gouvernementales, y compris la taxe sur les produits et services (GST)\n\n### Non inclus\n\n- Pourboires pour le chauffeur et le guide, qui ne sont pas inclus dans le forfait et peuvent etre recommandes\n- Photos souvenirs, qui peuvent etre disponibles a l'achat separement\n- Depenses personnelles, telles que le shopping ou des activites supplementaires non incluses dans l'itineraire\n- Frais d'entree a tout endroit, qui ne sont pas inclus dans le forfait et peuvent devoir etre payes separement\n- Autres activites non incluses dans l'itineraire de la visite\n- Tarifs d'avion/train/bus vers et depuis le lieu de la visite",
+  "highlights": [
+   "Explorez le mode de vie royal des Rajput au Fort Amber, emerveillez-vous devant la beaute de Jaipur."
+  ],
+  "included": [
+   "Service de prise en charge et depose depuis l'hotel, l'aeroport, ou la gare\nUn vehicule prive climatise avec chauffeur pour les visites\nCarburant, frais de stationnement, peages, et taxes interetatiques\nUn guide professionnel pour vous assister pendant la visite\nEau en bouteille pour les invites\nToutes les taxes gouvernementales, y compris la taxe sur les produits et services (GST)"
+  ],
+  "notIncluded": [
+   "Pourboires pour le chauffeur et le guide, qui ne sont pas inclus dans le forfait et peuvent etre recommandes\nPhotos souvenirs, qui peuvent etre disponibles a l'achat separement\nDepenses personnelles, telles que le shopping ou des activites supplementaires non incluses dans l'itineraire\nFrais d'entree a tout endroit, qui ne sont pas inclus dans le forfait et peuvent devoir etre payes separement\nAutres activites non incluses dans l'itineraire de la visite\nTarifs d'avion/train/bus vers et depuis le lieu de la visite"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
