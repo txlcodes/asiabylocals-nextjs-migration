@@ -75015,7 +75015,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai: tour privado en yate para hasta 12 invitados",
   "metaDescription": "Experiencia de 1 hora(s) en Dubai. Disfrute de un espacio privado y aislado para relajarse y disfrutar. Ofrecido por Serene Yachts Rental.",
   "shortDescription": "Experiencia de 1 hora(s) en Dubai. Disfrute de un espacio privado y aislado para relajarse y disfrutar. Ofrecido por Serene Yachts Rental.",
-  "fullDescription": "Una experiencia de 1 hora(s) en Dubai. Disfrute de un espacio privado y aislado para relajarse y disfrutar.\n\nSerene Yachts Rental la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye alquiler de yate de lujo, vistas de los monumentos emblematicos de Dubai, privacidad y relajacion lejos de la ciudad y varias rutas de crucero. No incluye comida y bebidas premium (pero los huespedes pueden traer su propia comida y bebida a bordo), transporte de ida y vuelta al yate y tarifa de aparcamiento y de coche de club, por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una experiencia de 1 hora(s) en Dubai. Disfrute de un espacio privado y aislado para relajarse y disfrutar.\n\nSerene Yachts Rental la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye alquiler de yate de lujo, vistas de los monumentos emblematicos de Dubai, privacidad y relajacion lejos de la ciudad y diversas rutas de crucero. No incluye comida y bebidas premium (pero los huespedes pueden traer su propia comida y bebida a bordo), transporte de ida y vuelta al yate y tarifa de estacionamiento y vehiculo de club, por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Disfrute de un espacio privado y aislado para relajarse y disfrutar"
   ],
@@ -75023,12 +75023,12 @@ export const ES_TOURS: Record<string, TourT> = {
    "Alquiler de yate de lujo",
    "Vistas de los monumentos emblematicos de Dubai",
    "Privacidad y relajacion lejos de la ciudad",
-   "Varias rutas de crucero"
+   "Diversas rutas de crucero"
   ],
   "notIncluded": [
    "Comida y bebidas premium (pero los huespedes pueden traer su propia comida y bebida a bordo)",
    "Transporte de ida y vuelta al yate",
-   "Tarifa de aparcamiento y de coche de club"
+   "Tarifa de estacionamiento y vehiculo de club"
   ]
  },
  "45ft-luxury-yacht-trip-up-to-15-guests-in": {
@@ -75728,12 +75728,12 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai: experiencia privada en yate con barbacoa o comida ligera",
   "metaDescription": "Une excursion de 1 hora(s) desde Dubai que visita Dubai Marina, Ain Dubai, Bluewaters Island y Jumeirah Beach Residence. Ofrecido por Supernova Yacht.",
   "shortDescription": "Une excursion de 1 hora(s) desde Dubai que visita Dubai Marina, Ain Dubai, Bluewaters Island y Jumeirah Beach Residence. Ofrecido por Supernova Yacht.",
-  "fullDescription": "Una excursion de 1 hora(s) desde Dubai, que recorre Dubai Marina, Ain Dubai, Bluewaters Island y Jumeirah Beach Residence. Hay 5 paradas en total.\n\nEl orden de la ruta es Dubai Marina (45 min), luego Ain Dubai (15 min), luego Bluewaters Island, luego Jumeirah Beach Residence (15 min), luego Atlantis, Dubai (30 min).\n\nEl precio incluye capitan y tripulacion profesionales, comida de barbacoa vegetariana/no vegetariana (si se elige la opcion), refrescos y musica a bordo. No incluye recogida y regreso al hotel y bebidas alcoholicas (disponibles para comprar a bordo), por lo que debe presupuestar eso por separado. Dos viajeros pagan 461 $ juntos en lugar de 461 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de 1 hora(s) desde Dubai, que recorre Dubai Marina, Ain Dubai, Bluewaters Island y Jumeirah Beach Residence. Hay 5 paradas en total.\n\nEl orden de la ruta es Dubai Marina (45 min), luego Ain Dubai (15 min), luego Bluewaters Island, luego Jumeirah Beach Residence (15 min), luego Atlantis, Dubai (30 min).\n\nEl precio incluye capitan profesional y tripulacion, comida de barbacoa vegetariana/no vegetariana (si se elige la opcion), refrescos y musica a bordo. No incluye recogida y regreso al hotel y bebidas alcoholicas (disponibles para comprar a bordo), por lo que debe presupuestar eso por separado. Dos viajeros pagan 461 $ juntos en lugar de 461 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Une excursion de 1 hora(s) desde Dubai que visita Dubai Marina, Ain Dubai, Bluewaters Island y Jumeirah Beach Residence. Ofrecido por Supernova Yacht."
   ],
   "included": [
-   "Capitan y tripulacion profesionales",
+   "Capitan profesional y tripulacion",
    "Comida de barbacoa vegetariana/no vegetariana (si se elige la opcion)",
    "Refrescos",
    "Musica a bordo"
@@ -77539,6 +77539,147 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier entrada adicional a atracciones"
   ]
  },
+ "from-dubai-abu-dhabi-full-day-tour-with-grand": {
+  "title": "Desde Dubai: tour de un dia completo por Abu Dhabi con visita a la Gran Mezquita",
+  "metaTitle": "Desde Dubai: tour de un dia completo por Abu Dhabi con visita ...",
+  "metaDescription": "Une excursion de un dia completo desde Abu Dhabi que visita Sheikh Zayed Mosque, UAE Presidential Palace, Abu Dhabi y Louvre Abu Dhabi. Ofrecido por OceanAir Trav...",
+  "shortDescription": "Une excursion de un dia completo desde Abu Dhabi que visita Sheikh Zayed Mosque, UAE Presidential Palace, Abu Dhabi y Louvre Abu Dhabi. Ofrecido por OceanAir Travels.",
+  "fullDescription": "Una excursion de un dia completo desde Abu Dhabi, que recorre Sheikh Zayed Mosque, UAE Presidential Palace, Abu Dhabi y Louvre Abu Dhabi. La parada mas larga es Sheikh Zayed Mosque, con una duracion de unos 2 horas. Hay 5 paradas en total.\n\nEl orden de la ruta es Sheikh Zayed Mosque (2h), luego UAE Presidential Palace (1h), luego Abu Dhabi (1h), luego Louvre Abu Dhabi (30 min), luego Ferrari World Abu Dhabi (30 min).\n\nEl precio incluye recogida y regreso al hotel desde Dubai, transporte en un vehiculo con aire acondicionado, guia turistico profesional y visita a la Gran Mezquita Sheikh Zayed. No incluye almuerzo y bebidas, gastos personales y entradas opcionales a atracciones no mencionadas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 1052 $ juntos en lugar de 1052 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Une excursion de un dia completo desde Abu Dhabi que visita Sheikh Zayed Mosque, UAE Presidential Palace, Abu Dhabi y Louvre Abu Dhabi. Ofrecido por OceanAir Travels."
+  ],
+  "included": [
+   "Recogida y regreso al hotel desde Dubai",
+   "Transporte en un vehiculo con aire acondicionado",
+   "Guia turistico profesional",
+   "Visita a la Gran Mezquita Sheikh Zayed"
+  ],
+  "notIncluded": [
+   "Almuerzo y bebidas",
+   "Gastos personales",
+   "Entradas opcionales a atracciones no mencionadas"
+  ]
+ },
+ "dubai-evening-luxury-yacht-tour-with-hotel-pickup": {
+  "title": "Dubai: tour en yate de lujo por la tarde con recogida en el hotel",
+  "metaTitle": "Dubai: tour en yate de lujo por la tarde con recogida en el hotel",
+  "metaDescription": "Experiencia de 1 hora(s) en Dubai. Navegue por el emblematico horizonte de Dubai en un tour en yate de lujo. Ofrecido por Whats Up Trip - F.Z.E.",
+  "shortDescription": "Experiencia de 1 hora(s) en Dubai. Navegue por el emblematico horizonte de Dubai en un tour en yate de lujo. Ofrecido por Whats Up Trip - F.Z.E.",
+  "fullDescription": "Una experiencia de 1 hora(s) en Dubai. Navegue por el emblematico horizonte de Dubai en un tour en yate de lujo.\n\nWhats Up Trip - F.Z.E la organiza, y 8 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida en el hotel desde Dubai, tour en yate de lujo por la tarde, 1 hora, 2 horas, o 3 horas (si se elige la opcion) y capitan profesional y tripulacion. No incluye regreso al hotel y propinas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Navegue por el emblematico horizonte de Dubai en un tour en yate de lujo"
+  ],
+  "included": [
+   "Recogida en el hotel desde Dubai",
+   "Tour en yate de lujo por la tarde",
+   "1 hora, 2 horas, o 3 horas (si se elige la opcion)",
+   "Capitan profesional y tripulacion"
+  ],
+  "notIncluded": [
+   "Regreso al hotel",
+   "Propinas"
+  ]
+ },
+ "abu-dhabi-guided-speedboat-sightseeing-tour": {
+  "title": "Abu Dhabi: tour turistico guiado en lancha rapida",
+  "metaTitle": "Abu Dhabi: tour turistico guiado en lancha rapida",
+  "metaDescription": "Une excursion de 0,75 hora(s) desde Abu Dhabi que visita Emirates Palace, Etihad Towers, Abu Dhabi Heritage Village y Lulu Islands. Ofrecido por The Yellow Boats ...",
+  "shortDescription": "Une excursion de 0,75 hora(s) desde Abu Dhabi que visita Emirates Palace, Etihad Towers, Abu Dhabi Heritage Village y Lulu Islands. Ofrecido por The Yellow Boats LLC.",
+  "fullDescription": "Una excursion de 0,75 hora(s) desde Abu Dhabi, que recorre Emirates Palace, Etihad Towers, Abu Dhabi Heritage Village y Lulu Islands. Hay 5 paradas en total.\n\nEl orden de la ruta es Emirates Palace, luego Etihad Towers, luego Abu Dhabi Heritage Village, luego Lulu Islands, luego Qasr Al Watan.\n\nEl precio incluye tour turistico en lancha rapida, chaleco salvavidas ligero, agua embotellada y guia. No incluye recogida y regreso al hotel y comida y bebidas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de 0,75 hora(s) desde Abu Dhabi que visita Emirates Palace, Etihad Towers, Abu Dhabi Heritage Village y Lulu Islands. Ofrecido por The Yellow Boats LLC."
+  ],
+  "included": [
+   "Tour turistico en lancha rapida",
+   "Chaleco salvavidas ligero",
+   "Agua embotellada",
+   "Guia"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Comida y bebidas"
+  ]
+ },
+ "abu-dhabi-private-full-day-city-tour-with-heritage": {
+  "title": "Abu Dhabi: tour privado por la ciudad de un dia completo con almuerzo patrimonial",
+  "metaTitle": "Abu Dhabi: tour privado por la ciudad de un dia completo con a...",
+  "metaDescription": "Experiencia de un dia completo en Abu Dhabi. Descubra Abu Dhabi en un tour guiado con recogida y regreso al hotel. Ofrecido por Whats Up Trip - F.Z.E.",
+  "shortDescription": "Experiencia de un dia completo en Abu Dhabi. Descubra Abu Dhabi en un tour guiado con recogida y regreso al hotel. Ofrecido por Whats Up Trip - F.Z.E.",
+  "fullDescription": "Una experiencia de un dia completo en Abu Dhabi. Descubra Abu Dhabi en un tour guiado con recogida y regreso al hotel.\n\nWhats Up Trip - F.Z.E la organiza, y 11 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel desde Dubai, transporte privado con aire acondicionado, conductor-guia profesional y visita a la Gran Mezquita Sheikh Zayed. No incluye tarifas de entrada y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 461 $ juntos en lugar de 461 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Descubra Abu Dhabi en un tour guiado con recogida y regreso al hotel"
+  ],
+  "included": [
+   "Recogida y regreso al hotel desde Dubai",
+   "Transporte privado con aire acondicionado",
+   "Conductor-guia profesional",
+   "Visita a la Gran Mezquita Sheikh Zayed"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada",
+   "Propinas"
+  ]
+ },
+ "from-dubai-ras-al-khaimah-full-day-tour-with": {
+  "title": "Desde Dubai: tour de un dia completo por Ras Al Khaimah con recogida en el hotel",
+  "metaTitle": "Desde Dubai: tour de un dia completo por Ras Al Khaimah con re...",
+  "metaDescription": "Experiencia de un dia completo en Dubai. Explore Ras Al Khaimah en un tour de un dia completo desde Dubai con recogida en el hotel. Ofrecido por Whats Up Trip - F...",
+  "shortDescription": "Experiencia de un dia completo en Dubai. Explore Ras Al Khaimah en un tour de un dia completo desde Dubai con recogida en el hotel. Ofrecido por Whats Up Trip - F.Z.E.",
+  "fullDescription": "Una experiencia de un dia completo en Dubai. Explore Ras Al Khaimah en un tour de un dia completo desde Dubai con recogida en el hotel.\n\nWhats Up Trip - F.Z.E la organiza, y 7 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel desde Dubai, transporte privado, conductor-guia profesional y agua embotellada. No incluye comidas, tarifas de entrada y gastos personales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 507 $ juntos en lugar de 507 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Explore Ras Al Khaimah en un tour de un dia completo desde Dubai con recogida en el hotel"
+  ],
+  "included": [
+   "Recogida y regreso al hotel desde Dubai",
+   "Transporte privado",
+   "Conductor-guia profesional",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Tarifas de entrada",
+   "Gastos personales"
+  ]
+ },
+ "dubai-marina-guided-sightseeing-tour-by-speedboat": {
+  "title": "Dubai Marina: tour turistico guiado en lancha rapida",
+  "metaTitle": "Dubai Marina: tour turistico guiado en lancha rapida",
+  "metaDescription": "Une excursion de 0,5 hora(s) desde Dubai que visita Dubai Marina, Ain Dubai, Jumeirah Beach Residence y The Palm Jumeirah. Ofrecido por The Yellow Boats LLC.",
+  "shortDescription": "Une excursion de 0,5 hora(s) desde Dubai que visita Dubai Marina, Ain Dubai, Jumeirah Beach Residence y The Palm Jumeirah. Ofrecido por The Yellow Boats LLC.",
+  "fullDescription": "Una excursion de 0,5 hora(s) desde Dubai, que recorre Dubai Marina, Ain Dubai, Jumeirah Beach Residence y The Palm Jumeirah. Hay 9 paradas en total.\n\nEl orden de la ruta es Dubai Marina, luego Ain Dubai, luego Jumeirah Beach Residence, luego The Palm Jumeirah, luego Atlantis, Dubai.\n\nEl precio incluye tour en lancha rapida, guia personal, chaleco salvavidas ligero y agua embotellada. No incluye recogida y regreso al hotel y comida o bebidas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de 0,5 hora(s) desde Dubai que visita Dubai Marina, Ain Dubai, Jumeirah Beach Residence y The Palm Jumeirah. Ofrecido por The Yellow Boats LLC."
+  ],
+  "included": [
+   "Tour en lancha rapida",
+   "Guia personal",
+   "Chaleco salvavidas ligero",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Comida o bebidas"
+  ]
+ },
+ "dubai-photoshoot-experience": {
+  "title": "Dubai: experiencia de sesion de fotos",
+  "metaTitle": "Dubai: experiencia de sesion de fotos",
+  "metaDescription": "Une excursion de 1 hora(s) desde Dubai que visita The Dubai Mall Heart, Dubai, Dubai Mall Promenade - Fountain Show y BURJ KHALIFA FOUNTAIN SHOW. Ofrecido por Fre...",
+  "shortDescription": "Une excursion de 1 hora(s) desde Dubai que visita The Dubai Mall Heart, Dubai, Dubai Mall Promenade - Fountain Show y BURJ KHALIFA FOUNTAIN SHOW. Ofrecido por Free Spirit Cordoba.",
+  "fullDescription": "Una excursion de 1 hora(s) desde Dubai, que recorre The Dubai Mall Heart, Dubai, Dubai Mall Promenade - Fountain Show y BURJ KHALIFA FOUNTAIN SHOW. Hay 5 paradas en total.\n\nEl orden de la ruta es The Dubai Mall Heart (12 min), luego Dubai (12 min), luego Dubai Mall Promenade - Fountain Show (12 min), luego BURJ KHALIFA FOUNTAIN SHOW (12 min), luego Dubai Fountain Lake Ride (12 min).\n\nEl precio incluye sesion de fotos profesional, visita a 5 lugares emblematicos y 20 fotos editadas profesionalmente. No incluye transporte al punto de encuentro y comida y bebidas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de 1 hora(s) desde Dubai que visita The Dubai Mall Heart, Dubai, Dubai Mall Promenade - Fountain Show y BURJ KHALIFA FOUNTAIN SHOW. Ofrecido por Free Spirit Cordoba."
+  ],
+  "included": [
+   "Sesion de fotos profesional",
+   "Visita a 5 lugares emblematicos",
+   "20 fotos editadas profesionalmente"
+  ],
+  "notIncluded": [
+   "Transporte al punto de encuentro",
+   "Comida y bebidas"
+  ]
+ },
  "dubai-1-hour-horse-riding-experience-at-m11-equest": {
   "title": "Dubai: experiencia de equitacion de 1 hora en el club ecuestre M11",
   "metaTitle": "Dubai: experiencia de equitacion de 1 hora en el club ecuestre...",
@@ -77559,6 +77700,192 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Botas de montar o chaparreras",
    "Pension, arriendo, u otros servicios de establo"
+  ]
+ },
+ "dubai-illusion-city-museum-entry-ticket": {
+  "title": "Dubai: entrada para el museo Illusion City",
+  "metaTitle": "Dubai: entrada para el museo Illusion City",
+  "metaDescription": "Experiencia de 1 hora(s) en Dubai. Sumergase en un mundo de ilusiones opticas en Illusion City Dubai. Ofrecido por Illusion City Dubai.",
+  "shortDescription": "Experiencia de 1 hora(s) en Dubai. Sumergase en un mundo de ilusiones opticas en Illusion City Dubai. Ofrecido por Illusion City Dubai.",
+  "fullDescription": "Una experiencia de 1 hora(s) en Dubai. Sumergase en un mundo de ilusiones opticas en Illusion City Dubai.\n\nIllusion City Dubai la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye entrada a mas de 30 salas de ilusiones y zonas de selfies, uso gratuito de todos los puntos de fotos y accesorios, anfitrion amable en el lugar para ayudarle a montar cada ilusion y wi-Fi gratis en toda la galeria. No incluye comida y bebidas, transporte de ida y vuelta al lugar y tarifas de estacionamiento, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Sumergase en un mundo de ilusiones opticas en Illusion City Dubai"
+  ],
+  "included": [
+   "Entrada a mas de 30 salas de ilusiones y zonas de selfies",
+   "Uso gratuito de todos los puntos de fotos y accesorios",
+   "Anfitrion amable en el lugar para ayudarle a montar cada ilusion",
+   "Wi-Fi gratis en toda la galeria"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "Transporte de ida y vuelta al lugar",
+   "Tarifas de estacionamiento"
+  ]
+ },
+ "dubai-desert-safari-camel-ride-sandboarding-dune-b": {
+  "title": "Dubai: safari por el desierto, paseo en camello, sandboarding, buggy de dunas",
+  "metaTitle": "Dubai: safari por el desierto, paseo en camello, sandboarding,...",
+  "metaDescription": "Une excursion de medio dia desde Dubai que visita Red Dunes Desert Safari, Dubai, Lahbab Desert, Lahbab Desert y Red Dunes Desert Safari, Dubai. Ofrecido por Excu...",
+  "shortDescription": "Une excursion de medio dia desde Dubai que visita Red Dunes Desert Safari, Dubai, Lahbab Desert, Lahbab Desert y Red Dunes Desert Safari, Dubai. Ofrecido por Excursion Point Tourism.",
+  "fullDescription": "Una excursion de medio dia desde Dubai, que recorre Red Dunes Desert Safari, Dubai, Lahbab Desert, Lahbab Desert y Red Dunes Desert Safari, Dubai. Hay 4 paradas en total.\n\nEl orden de la ruta es Red Dunes Desert Safari, Dubai (40 min), luego Lahbab Desert (15 min), luego Lahbab Desert (30 min), luego Red Dunes Desert Safari, Dubai (10 min).\n\nEl precio incluye recogida y regreso al hotel, dune bashing en jeep de 1 hora en las dunas rojas, experiencia de sandboarding de 15 minutos y paseo autoconducido en buggy de dunas de 30 minutos (si se elige la opcion). No incluye bebidas alcoholicas (disponibles para comprar), fotos de recuerdo (disponibles para comprar) y propinas (opcional), por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de medio dia desde Dubai que visita Red Dunes Desert Safari, Dubai, Lahbab Desert, Lahbab Desert y Red Dunes Desert Safari, Dubai. Ofrecido por Excursion Point Tourism."
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Dune bashing en jeep de 1 hora en las dunas rojas",
+   "Experiencia de sandboarding de 15 minutos",
+   "Paseo autoconducido en buggy de dunas de 30 minutos (si se elige la opcion)"
+  ],
+  "notIncluded": [
+   "Bebidas alcoholicas (disponibles para comprar)",
+   "Fotos de recuerdo (disponibles para comprar)",
+   "Propinas (opcional)"
+  ]
+ },
+ "dubai-desert-camel-ride-with-live-shows-bbq-buffet": {
+  "title": "Dubai: paseo en camello por el desierto con espectaculos en vivo y buffet de barbacoa",
+  "metaTitle": "Dubai: paseo en camello por el desierto con espectaculos en vi...",
+  "metaDescription": "Une excursion de un dia completo desde Dubai que visita Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai y Red Dunes...",
+  "shortDescription": "Une excursion de un dia completo desde Dubai que visita Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai y Red Dunes Desert Safari, Dubai. Ofrecido por Excursion Point Tourism.",
+  "fullDescription": "Una excursion de un dia completo desde Dubai, que recorre Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai y Red Dunes Desert Safari, Dubai. La parada mas larga es Red Dunes Desert Safari, Dubai, con una duracion de unos 1 hora. Hay 4 paradas en total.\n\nEl orden de la ruta es Red Dunes Desert Safari, Dubai (15 min), luego Red Dunes Desert Safari, Dubai (1h), luego Red Dunes Desert Safari, Dubai (15 min), luego Red Dunes Desert Safari, Dubai.\n\nEl precio incluye recogida y regreso en lugares centricos de Dubai, paseo en camello (alrededor de 1 hora), parada fotografica al atardecer (segun la hora y conveniencia), te, cafe y datiles en un campamento de estilo beduino y pipa de shisha. No incluye actividades de cuatrimoto y buggy de dunas en el desierto, sandboarding y cualquier servicio o actividad no mencionado como incluido, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de un dia completo desde Dubai que visita Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai y Red Dunes Desert Safari, Dubai. Ofrecido por Excursion Point Tourism."
+  ],
+  "included": [
+   "Recogida y regreso en lugares centricos de Dubai",
+   "Paseo en camello (alrededor de 1 hora)",
+   "Parada fotografica al atardecer (segun la hora y conveniencia)",
+   "Te, cafe y datiles en un campamento de estilo beduino",
+   "Pipa de shisha"
+  ],
+  "notIncluded": [
+   "Actividades de cuatrimoto y buggy de dunas en el desierto",
+   "Sandboarding",
+   "Cualquier servicio o actividad no mencionado como incluido"
+  ]
+ },
+ "abu-dhabi-private-romantic-dune-dinner-with-pickup": {
+  "title": "Abu Dhabi: cena romantica privada en las dunas con recogida",
+  "metaTitle": "Abu Dhabi: cena romantica privada en las dunas con recogida",
+  "metaDescription": "Une excursion de un dia completo desde Abu Dhabi que visita Jeep / SUV, AlKhazna-DesertBowl, AlKhazna-DesertBowl y Imperial Borj. Ofrecido por Desert Rose Tourism...",
+  "shortDescription": "Une excursion de un dia completo desde Abu Dhabi que visita Jeep / SUV, AlKhazna-DesertBowl, AlKhazna-DesertBowl y Imperial Borj. Ofrecido por Desert Rose Tourism LLC L.L.C Dubai Branch.",
+  "fullDescription": "Una excursion de un dia completo desde Abu Dhabi, que recorre Jeep / SUV, AlKhazna-DesertBowl, AlKhazna-DesertBowl y Imperial Borj. La parada mas larga es Jeep / SUV, con una duracion de unos 1 hora. Hay 6 paradas en total.\n\nEl orden de la ruta es Jeep / SUV (1h), luego AlKhazna-DesertBowl (40 min), luego AlKhazna-DesertBowl (20 min), luego Imperial Borj (30 min), luego Jeep / SUV (30 min).\n\nEl precio incluye traslado privado en vehiculo 4x4, conductor profesional, experiencia de recorrido por las dunas y montaje romantico privado. No incluye cualquier articulo o servicio no mencionado en las inclusiones, por lo que debe presupuestar eso por separado. Dos viajeros pagan 1519 $ juntos en lugar de 1519 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Une excursion de un dia completo desde Abu Dhabi que visita Jeep / SUV, AlKhazna-DesertBowl, AlKhazna-DesertBowl y Imperial Borj. Ofrecido por Desert Rose Tourism LLC L.L.C Dubai Branch."
+  ],
+  "included": [
+   "Traslado privado en vehiculo 4x4",
+   "Conductor profesional",
+   "Experiencia de recorrido por las dunas",
+   "Montaje romantico privado"
+  ],
+  "notIncluded": [
+   "Cualquier articulo o servicio no mencionado en las inclusiones"
+  ]
+ },
+ "private-yacht-tour-dubai-boat-cruise-with-optional": {
+  "title": "Tour privado en yate: crucero en barco por Dubai con BBQ opcional",
+  "metaTitle": "Tour privado en yate: crucero en barco por Dubai con BBQ opcional",
+  "metaDescription": "Une excursion de 1 hora(s) desde Dubai que visita Jumeirah Beach Residence, Ain Dubai, Burj Al Arab y Atlantis, Dubai. Ofrecido por Supernova Yacht.",
+  "shortDescription": "Une excursion de 1 hora(s) desde Dubai que visita Jumeirah Beach Residence, Ain Dubai, Burj Al Arab y Atlantis, Dubai. Ofrecido por Supernova Yacht.",
+  "fullDescription": "Una excursion de 1 hora(s) desde Dubai, que recorre Jumeirah Beach Residence, Ain Dubai, Burj Al Arab y Atlantis, Dubai. La parada mas larga es Burj Al Arab, con una duracion de unos 1 hora. Hay 4 paradas en total.\n\nEl orden de la ruta es Jumeirah Beach Residence (15 min), luego Ain Dubai (15 min), luego Burj Al Arab (1h), luego Atlantis, Dubai (30 min).\n\nEl precio incluye yate privado de lujo, vistas de los monumentos emblematicos de Dubai, privacidad y relajacion lejos de la ciudad y diversas rutas de crucero. No incluye transporte de ida y vuelta al yate, tarifa de estacionamiento y vehiculo de club y bebidas energeticas y mezcladores, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de 1 hora(s) desde Dubai que visita Jumeirah Beach Residence, Ain Dubai, Burj Al Arab y Atlantis, Dubai. Ofrecido por Supernova Yacht."
+  ],
+  "included": [
+   "Yate privado de lujo",
+   "Vistas de los monumentos emblematicos de Dubai",
+   "Privacidad y relajacion lejos de la ciudad",
+   "Diversas rutas de crucero"
+  ],
+  "notIncluded": [
+   "Transporte de ida y vuelta al yate",
+   "Tarifa de estacionamiento y vehiculo de club",
+   "Bebidas energeticas y mezcladores"
+  ]
+ },
+ "dubai-self-drive-water-experience-with-photos-musi": {
+  "title": "Dubai: experiencia acuatica autoconducida con fotos y musica",
+  "metaTitle": "Dubai: experiencia acuatica autoconducida con fotos y musica",
+  "metaDescription": "Experiencia de 1 hora(s) en Dubai. Experiencia acuatica autoconducida con musica y vistas al horizonte. Ofrecido por Friends of Georgia.",
+  "shortDescription": "Experiencia de 1 hora(s) en Dubai. Experiencia acuatica autoconducida con musica y vistas al horizonte. Ofrecido por Friends of Georgia.",
+  "fullDescription": "Una experiencia de 1 hora(s) en Dubai. Experiencia acuatica autoconducida con musica y vistas al horizonte.\n\nFriends of Georgia la organiza, y 8 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye anfitrion local profesional, experiencia acuatica autoconducida, charla de seguridad e introduccion y chalecos salvavidas (equipo de seguridad obligatorio). No incluye gastos personales, recogida en el hotel (fuera de las zonas seleccionadas) y comida y bebidas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 674 $ juntos en lugar de 423 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia acuatica autoconducida con musica y vistas al horizonte"
+  ],
+  "included": [
+   "Anfitrion local profesional",
+   "Experiencia acuatica autoconducida",
+   "Charla de seguridad e introduccion",
+   "Chalecos salvavidas (equipo de seguridad obligatorio)"
+  ],
+  "notIncluded": [
+   "Gastos personales",
+   "Recogida en el hotel (fuera de las zonas seleccionadas)",
+   "Comida y bebidas"
+  ]
+ },
+ "abu-dhabi-guided-street-food-tastings-tour": {
+  "title": "Abu Dhabi: tour guiado de degustacion de comida callejera",
+  "metaTitle": "Abu Dhabi: tour guiado de degustacion de comida callejera",
+  "metaDescription": "Experiencia de 2 hora(s) en Abu Dhabi. Saboree los sabores de Abu Dhabi en un tour guiado de comida callejera. Ofrecido por Tours By Emirati.",
+  "shortDescription": "Experiencia de 2 hora(s) en Abu Dhabi. Saboree los sabores de Abu Dhabi en un tour guiado de comida callejera. Ofrecido por Tours By Emirati.",
+  "fullDescription": "Una experiencia de 2 hora(s) en Abu Dhabi. Saboree los sabores de Abu Dhabi en un tour guiado de comida callejera.\n\nTours By Emirati la organiza, y 9 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye degustacion de comida callejera en siete paradas, visita a la zona de Qasr Al Hosn, visita a la Cultural Foundation y visita al distrito de Khalidiya. No incluye transporte al punto de partida (disponible si se solicita), gastos personales y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 361 $ juntos en lugar de 361 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Saboree los sabores de Abu Dhabi en un tour guiado de comida callejera"
+  ],
+  "included": [
+   "Degustacion de comida callejera en siete paradas",
+   "Visita a la zona de Qasr Al Hosn",
+   "Visita a la Cultural Foundation",
+   "Visita al distrito de Khalidiya"
+  ],
+  "notIncluded": [
+   "Transporte al punto de partida (disponible si se solicita)",
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "abu-dhabi-downtown-walking-tour-with-local-emirati": {
+  "title": "Abu Dhabi: tour a pie por el centro con un emirati local",
+  "metaTitle": "Abu Dhabi: tour a pie por el centro con un emirati local",
+  "metaDescription": "Experiencia de 3 hora(s) en Abu Dhabi. . Ofrecido por Tours By Emirati.",
+  "shortDescription": "Experiencia de 3 hora(s) en Abu Dhabi. . Ofrecido por Tours By Emirati.",
+  "fullDescription": "Una experiencia de 3 hora(s) en Abu Dhabi. Walk Abu Dhabi’s historic heart with a certified Emirati guide.\n\nTours By Emirati la organiza, y 7 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye guia local emirati certificado, experiencia de tour privado a pie, narracion cultural y datos historicos y recomendaciones locales de cafes y tiendas. No incluye recogida y regreso al hotel (disponible si se solicita), comida y bebidas (disponibles como complemento) y compras personales, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Experiencia de 3 hora(s) en Abu Dhabi. . Ofrecido por Tours By Emirati."
+  ],
+  "included": [
+   "Guia local emirati certificado",
+   "Experiencia de tour privado a pie",
+   "Narracion cultural y datos historicos",
+   "Recomendaciones locales de cafes y tiendas"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel (disponible si se solicita)",
+   "Comida y bebidas (disponibles como complemento)",
+   "Compras personales"
+  ]
+ },
+ "dubai-al-hadheerah-desert-dinner-live-show": {
+  "title": "Dubai: cena en el desierto y espectaculo en vivo en Al Hadheerah",
+  "metaTitle": "Dubai: cena en el desierto y espectaculo en vivo en Al Hadheerah",
+  "metaDescription": "Experiencia de medio dia en Dubai. Sumergase en una magica noche en el desierto en Al Hadheerah. Ofrecido por Bab Al Shams Desert Resort.",
+  "shortDescription": "Experiencia de medio dia en Dubai. Sumergase en una magica noche en el desierto en Al Hadheerah. Ofrecido por Bab Al Shams Desert Resort.",
+  "fullDescription": "Una experiencia de medio dia en Dubai. Sumergase en una magica noche en el desierto en Al Hadheerah.\n\nBab Al Shams Desert Resort la organiza, y 6 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel (si se elige la opcion), entrada a Al Hadheerah, lujosa cena buffet con refrescos y programa completo de entretenimiento. No incluye , por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Sumergase en una magica noche en el desierto en Al Hadheerah"
+  ],
+  "included": [
+   "Recogida y regreso al hotel (si se elige la opcion)",
+   "Entrada a Al Hadheerah",
+   "Lujosa cena buffet con refrescos",
+   "Programa completo de entretenimiento"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "from-ras-al-khaimah-private-dubai-highlights-suv-c": {
