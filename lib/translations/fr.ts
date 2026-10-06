@@ -36362,6 +36362,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Frais d'entrée aux monuments/frais de caméra\nHôtel/hébergement\nRepas et dépenses personnelles\nAutres activités\nPourboires pour le chauffeur"
   ]
  },
+ "fatehpur-bird-sanctuary-chand-baori-jaipur-drop": {
+  "title": "Fatehpur, sanctuaire d'oiseaux, Chand Baori, dépose à Jaipur depuis Agra",
+  "metaTitle": "Fatehpur, sanctuaire d'oiseaux, Chand Baori",
+  "metaDescription": "Explorez l'architecture dynastique de Fatehpur Sikri, le sanctuaire d'oiseaux de Bharatpur et le puits à degrés Chand Baori depuis Agra.",
+  "shortDescription": "Explorez l'architecture dynastique de Fatehpur Sikri.",
+  "fullDescription": "Fatehpur, sanctuaire d'oiseaux, Chand Baori, dépose à Jaipur depuis Agra. Explorez l'architecture dynastique de Fatehpur Sikri.\n\nLes invités seront pris en charge à Agra à l'endroit de leur choix et se dirigeront d'abord vers Fatehpur Sikri.\n\nL'architecture dynastique de Fatehpur Sikri a été modelée sur les formes et styles timourides. La ville a été construite massivement et de préférence en grès rouge. L'architecture de la ville reflète à la fois les formes d'architecture domestique hindoue et musulmane populaires en Inde à l'époque. La remarquable préservation de ces espaces d'origine permet aux archéologues modernes de reconstituer des scènes de la vie à la cour moghole et de mieux comprendre la hiérarchie des résidents royaux et nobles de la ville. On y accède par des portes le long du mur de fortification de 8 km de long. Ensuite, direction le sanctuaire d'oiseaux de Bharatpur.\n\nRoulez vers Bharatpur, célèbre pour le parc national de Keoladeo Ghana, un site du patrimoine mondial de l'UNESCO abritant une étonnante variété de flore et de faune. Arrivez à Bharatpur et visitez le parc national de Keoladeo Ghana en faisant une balade en pousse-pousse à travers le sanctuaire. Une abondance d'oiseaux s'y trouve, comme la cigogne à bec ouvert et peinte, l'aigrette, l'anhinga, l'ibis blanc, la spatule, le héron cendré, la grue Sarus, le cormoran, les oies migratrices, le canard, le pélican rose et la rare grue de Sibérie. Ensuite, direction Chand Baori.\n\nLe Chand Baori est un puits à degrés construit il y a plus de mille ans dans le village d'Abhaneri au Rajasthan. C'est l'un des plus grands puits à degrés du monde et aussi l'un des plus beaux. Situé dans la partie orientale de la province du Rajasthan, il a été construit par le roi Chanda quelque part au IXe siècle. Le Chand Baori n'est pas un monument facile à trouver, c'est donc l'un des secrets cachés de l'Inde ! Les puits à degrés, aussi appelés Baori, sont uniques à cette nation. Les puits ont des marches construites sur les côtés qui descendent jusqu'à l'eau.\n\nAprès avoir terminé cette excursion d'une journée, les invités seront déposés à l'endroit de leur choix à Jaipur.\n\n### Ce qui est inclus\n\n- Véhicule climatisé\n- Transport privé\n- Péage, stationnement, carburant et indemnité du chauffeur inclus\n- Service de guide local inclus à Fatehpur Sikri et Chand Baori\n\n### Non inclus\n\n- La balade en pousse-pousse et le service de guide ne sont pas inclus au sanctuaire d'oiseaux de Bharatpur\n- Aucun type de nourriture/boisson n'est inclus\n- Aucun type de dépense personnelle n'est inclus\n- Aucun type de frais d'entrée n'est inclus",
+  "highlights": [
+   "Explorez l'architecture dynastique de Fatehpur Sikri."
+  ],
+  "included": [
+   "Véhicule climatisé.\nTransport privé.\nPéage, stationnement, carburant et indemnité du chauffeur inclus.\nService de guide local inclus à Fatehpur Sikri et Chand Baori."
+  ],
+  "notIncluded": [
+   "La balade en pousse-pousse et le service de guide ne sont pas inclus au sanctuaire d'oiseaux de Bharatpur.\nAucun type de nourriture/boisson n'est inclus.\nAucun type de dépense personnelle n'est inclus.\nAucun type de frais d'entrée n'est inclus."
+  ]
+ },
+ "agra-tofrom-jaipur-with-guided-fatehpur-sikri": {
+  "title": "Agra vers/depuis Jaipur avec visite guidée de Fatehpur Sikri et Abhaneri",
+  "metaTitle": "Agra-Jaipur, Fatehpur Sikri, Abhaneri",
+  "metaDescription": "Voyagez en privé d'Agra ou de Jaipur vers l'autre ville, avec visite optionnelle de Fatehpur Sikri et du puits à degrés d'Abhaneri.",
+  "shortDescription": "Voyagez en privé d'Agra ou de Jaipur vers l'autre ville",
+  "fullDescription": "Agra vers/depuis Jaipur avec visite guidée de Fatehpur Sikri et Abhaneri. Voyagez en privé d'Agra ou de Jaipur vers l'autre ville.\n\nCette visite est idéale pour ceux qui recherchent un transfert aller simple entre Agra et Jaipur. Nous assurons la prise en charge depuis un hôtel, un complexe ou un aéroport dans l'une des villes et la dépose dans l'autre ville. Les horaires sont flexibles, vous pouvez donc choisir ce qui vous convient. Un véhicule et un chauffeur privés garantissent votre sécurité et votre confort. Vous pouvez optionnellement visiter Fatehpur Sikri et le puits à degrés d'Abhaneri sans frais supplémentaires.\n\nCes deux monuments sont les joyaux cachés de l'Inde et ne peuvent être visités que sur le chemin d'Agra à Jaipur ou vice versa. Un guide exclusif à Fatehpur Sikri vous assurera d'explorer le site en profondeur avec une mine d'informations, et vous pourrez également prendre des photos pour un souvenir inoubliable.\n\n### Ce qui est inclus\n\n- Transfert pratique aller simple d'Agra à Jaipur\n- Visite optionnelle de Fatehpur Sikri et du puits à degrés d'Abhaneri\n- Guide anglophone uniquement à Fatehpur Sikri\n- Voiture climatisée privée et chauffeur professionnel pour un voyage confortable\n- Processus confortable et fluide de bout en bout\n- Prise en charge et dépose d'Agra à Jaipur à n'importe quel endroit\n- Bouteilles d'eau et collations\n\n### Non inclus\n\n- Frais d'entrée aux monuments\n- Frais de caméra\n- Tout repas comme le déjeuner ou le dîner\n- Tout shopping ou pourboire",
+  "highlights": [
+   "Voyagez en privé d'Agra ou de Jaipur vers l'autre ville"
+  ],
+  "included": [
+   "Transfert pratique aller simple d'Agra à Jaipur\nVisite optionnelle de Fatehpur Sikri et du puits à degrés d'Abhaneri\nGuide anglophone uniquement à Fatehpur Sikri\nVoiture climatisée privée et chauffeur professionnel pour un voyage confortable\nProcessus confortable et fluide de bout en bout\nPrise en charge et dépose d'Agra à Jaipur à n'importe quel endroit\nBouteilles d'eau et collations"
+  ],
+  "notIncluded": [
+   "Frais d'entrée aux monuments\nFrais de caméra\nTout repas comme le déjeuner ou le dîner\nTout shopping ou pourboire"
+  ]
+ },
+ "from-jaipur-private-ranthambore-tiger-safari-day": {
+  "title": "Depuis Jaipur : excursion privée d'une journée au safari tigre de Ranthambore",
+  "metaTitle": "Depuis Jaipur : safari tigre Ranthambore",
+  "metaDescription": "Découvrez la faune diversifiée du parc national de Ranthambore lors d'un safari, avec jeep à 6 places ou canter à 20 places.",
+  "shortDescription": "Découvrez la faune diversifiée du parc national de Ranthambore lors d'un safari",
+  "fullDescription": "Depuis Jaipur : excursion privée d'une journée au safari tigre de Ranthambore. Découvrez la faune diversifiée du parc national de Ranthambore lors d'un safari.\n\nSoyez pris en charge à votre hôtel de Jaipur ou à l'aéroport, où vous serez accueilli par votre guide. Détendez-vous pendant un trajet pittoresque de 3 à 4 heures de Jaipur au parc national de Ranthambore. Admirez les vues sur les collines Aravalli, les charmants villages et la verdure luxuriante en chemin.\n\nÀ votre arrivée à Sawai Madhopur, aventurez-vous au cœur du parc national de Ranthambore pour un safari palpitant de l'après-midi ou du matin (selon votre sélection). Guidé par un guide naturaliste, explorez le terrain varié du parc à bord d'une jeep ouverte à 6 places ou d'un canter à 20 places.\n\nEn traversant les pistes forestières, gardez vos sens en alerte pour les images et sons de la nature sauvage. Rencontrez une variété d'animaux, notamment de majestueux tigres du Bengale se reposant à l'ombre, des crocodiles se chauffant au soleil et des léopards se déplaçant dans les sous-bois, et espiègles.\n\nObservez une variété d'oiseaux colorés voletant entre les arbres, ajoutant à la tapisserie vibrante de vie du parc. Pendant tout le safari, votre guide partagera des informations fascinantes sur l'écologie du parc, le comportement animal et les efforts de conservation. Vous serez déposé de retour à Jaipur à la fin de votre visite.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel\n- Transfert aller-retour de Jaipur au parc national de Ranthambore\n- Véhicule climatisé privé\n- Les frais d'entrée au parc national (si l'option est choisie)\n- Les frais de safari\n- Guide naturaliste au parc national\n- Frais de carburant, péages routiers et taxes\n- Bouteille d'eau offerte\n\n### Non inclus\n\n- Tout repas ou boisson\n- Toute dépense personnelle\n- Pourboires pour le chauffeur",
+  "highlights": [
+   "Découvrez la faune diversifiée du parc national de Ranthambore lors d'un safari"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel\nTransfert aller-retour de Jaipur au parc national de Ranthambore\nVéhicule climatisé privé\nLes frais d'entrée au parc national (si l'option est choisie)\nLes frais de safari\nGuide naturaliste au parc national\nFrais de carburant, péages routiers et taxes\nBouteille d'eau offerte"
+  ],
+  "notIncluded": [
+   "Tout repas ou boisson\nToute dépense personnelle\nPourboires pour le chauffeur"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
