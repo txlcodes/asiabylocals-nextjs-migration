@@ -76444,6 +76444,436 @@ export const FR_TOURS: Record<string, TourT> = {
    "Prise en charge et depose a l'hotel (cout supplementaire)"
   ]
  },
+ "abu-dhabi-shared-helicopter-tour": {
+  "title": "Tour en helicoptere partage a Abu Dhabi",
+  "metaTitle": "Tour en helicoptere partage a Abu Dhabi",
+  "metaDescription": "Experience de 0,5 heure(s) a Abu Dhabi. Ressentez une sensation de liberte en volant en helicoptere au-dessus de la ville. Propose par Falcon Aviation Services.",
+  "shortDescription": "Experience de 0,5 heure(s) a Abu Dhabi. Ressentez une sensation de liberte en volant en helicoptere au-dessus de la ville. Propose par Falcon Aviation Services.",
+  "fullDescription": "Une experience de 0,5 heure(s) a Abu Dhabi. Ressentez une sensation de liberte en volant en helicoptere au-dessus de la ville.\n\nFalcon Aviation Services s'en charge, et 2 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend vol en helicoptere de 30 minutes et casques pour entendre le pilote. Il ne comprend pas prise en charge et depose a l'hotel et nourriture et boissons, prevoyez donc un budget separe.",
+  "highlights": [
+   "Ressentez une sensation de liberte en volant en helicoptere au-dessus de la ville"
+  ],
+  "included": [
+   "Vol en helicoptere de 30 minutes",
+   "Casques pour entendre le pilote"
+  ],
+  "notIncluded": [
+   "Prise en charge et depose a l'hotel",
+   "Nourriture et boissons"
+  ]
+ },
+ "dubai-private-flying-dress-photography-and-dune-dr": {
+  "title": "Seance photo privee en robe volante et dune drive a Dubai",
+  "metaTitle": "Seance photo privee en robe volante et dune drive a Dubai",
+  "metaDescription": "Experience d'une demi-journee a Dubai. Profitez d'une seance photo en robe volante avec un photographe professionnel. Propose par ToursGuys.com.",
+  "shortDescription": "Experience d'une demi-journee a Dubai. Profitez d'une seance photo en robe volante avec un photographe professionnel. Propose par ToursGuys.com.",
+  "fullDescription": "Une experience d'une demi-journee a Dubai. Profitez d'une seance photo en robe volante avec un photographe professionnel.\n\nToursGuys.com s'en charge, et 6 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend prise en charge et depose depuis votre hotel ou l'endroit selectionne, photographe prive, 20 photos professionnelles retouchees et 25 corrigees en couleur et seance photo d'1 heure. Il ne comprend pas , prevoyez donc un budget separe. Deux voyageurs paient 926 $ ensemble plutot que 926 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Profitez d'une seance photo en robe volante avec un photographe professionnel"
+  ],
+  "included": [
+   "Prise en charge et depose depuis votre hotel ou l'endroit selectionne",
+   "Photographe prive",
+   "20 photos professionnelles retouchees et 25 corrigees en couleur",
+   "Seance photo d'1 heure"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-15-or-30-minutes-flyboarding-experience": {
+  "title": "Experience de flyboard de 15 ou 30 minutes a Dubai",
+  "metaTitle": "Experience de flyboard de 15 ou 30 minutes a Dubai",
+  "metaDescription": "Experience de 0,25 heure(s) a Dubai. Ressentez une poussee d'adrenaline en survolant les vagues sur un flyboard. Propose par WaterAdventure Dubai.",
+  "shortDescription": "Experience de 0,25 heure(s) a Dubai. Ressentez une poussee d'adrenaline en survolant les vagues sur un flyboard. Propose par WaterAdventure Dubai.",
+  "fullDescription": "Une experience de 0,25 heure(s) a Dubai. Ressentez une poussee d'adrenaline en survolant les vagues sur un flyboard.\n\nWaterAdventure Dubai s'en charge, et 3 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend instructeur, flyboard et equipement de securite. Il ne comprend pas prise en charge et depose a l'hotel, serviettes et maillot de bain, prevoyez donc un budget separe.",
+  "highlights": [
+   "Ressentez une poussee d'adrenaline en survolant les vagues sur un flyboard"
+  ],
+  "included": [
+   "Instructeur",
+   "Flyboard",
+   "Equipement de securite"
+  ],
+  "notIncluded": [
+   "Prise en charge et depose a l'hotel",
+   "Serviettes",
+   "Maillot de bain"
+  ]
+ },
+ "old-dubai-guided-tour-with-photographer-souks-stre": {
+  "title": "Visite guidee du Vieux Dubai avec photographe, souks et rues",
+  "metaTitle": "Visite guidee du Vieux Dubai avec photographe, souks et rues",
+  "metaDescription": "Experience de 3 heure(s) a Dubai. Sentez l'arome alléchant des differentes epices au marche du Spice Souk. Propose par ToursGuys.com.",
+  "shortDescription": "Experience de 3 heure(s) a Dubai. Sentez l'arome alléchant des differentes epices au marche du Spice Souk. Propose par ToursGuys.com.",
+  "fullDescription": "Une experience de 3 heure(s) a Dubai. Sentez l'arome alléchant des differentes epices au marche du Spice Souk.\n\nToursGuys.com s'en charge, et 12 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend guide, entree a la maison patrimoniale Al Khayma, visite du Gold Souk et visite du Spice Souk. Il ne comprend pas pourboires (non obligatoires), prevoyez donc un budget separe.",
+  "highlights": [
+   "Sentez l'arome alléchant des differentes epices au marche du Spice Souk"
+  ],
+  "included": [
+   "Guide",
+   "Entree a la maison patrimoniale Al Khayma",
+   "Visite du Gold Souk",
+   "Visite du Spice Souk"
+  ],
+  "notIncluded": [
+   "Pourboires (non obligatoires)"
+  ]
+ },
+ "dubai-sunrise-balloon-flight-with-camel-ride-break": {
+  "title": "Vol en montgolfiere au lever du soleil a Dubai avec balade a dos de chameau et petit-dejeuner",
+  "metaTitle": "Vol en montgolfiere au lever du soleil a Dubai avec balade a d...",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV, Sindbad Gulf Balloons WH, Dubai Desert Conservation Reserve, Margham gate et VHJ2+3P M...",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV, Sindbad Gulf Balloons WH, Dubai Desert Conservation Reserve, Margham gate et VHJ2+3P Margham. Propose par Sindbad Gulf Balloons CO LLC.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Jeep / SUV, Sindbad Gulf Balloons WH, Dubai Desert Conservation Reserve, Margham gate et VHJ2+3P Margham. Le plus long arret est Dubai Desert Conservation Reserve, Margham gate, d'environ 1 heure. Il y a 4 arrets au total.\n\nL'ordre de visite est Jeep / SUV (50 min), puis Sindbad Gulf Balloons WH (50 min), puis Dubai Desert Conservation Reserve, Margham gate (1h), puis VHJ2+3P Margham.\n\nLe prix comprend prise en charge et depose a l'hotel, boisson de bienvenue (the, cafe, ou eau), vol en montgolfiere au lever du soleil de 40 a 70 minutes, wi-Fi a bord, petit-dejeuner dans un camp bedouin apres l'atterrissage et courte balade a dos de chameau. Il ne comprend pas video complete du vol (200 AED), prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV, Sindbad Gulf Balloons WH, Dubai Desert Conservation Reserve, Margham gate et VHJ2+3P Margham. Propose par Sindbad Gulf Balloons CO LLC."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel",
+   "Boisson de bienvenue (the, cafe, ou eau)",
+   "Vol en montgolfiere au lever du soleil de 40 a 70 minutes",
+   "Wi-Fi a bord",
+   "Petit-dejeuner dans un camp bedouin apres l'atterrissage",
+   "Courte balade a dos de chameau"
+  ],
+  "notIncluded": [
+   "Video complete du vol (200 AED)"
+  ]
+ },
+ "dubai-marina-luxury-yacht-party-with-bbq-open-bar": {
+  "title": "Fete sur yacht de luxe a Dubai Marina avec BBQ et bar a volonte",
+  "metaTitle": "Fete sur yacht de luxe a Dubai Marina avec BBQ et bar a volonte",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Dubai Marina, Ain Dubai, Jumeirah Beach Residence et Atlantis, Dubai. Propose par Xclusive Yachts.",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Dubai Marina, Ain Dubai, Jumeirah Beach Residence et Atlantis, Dubai. Propose par Xclusive Yachts.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Dubai Marina, Ain Dubai, Jumeirah Beach Residence et Atlantis, Dubai. Il y a 4 arrets au total.\n\nL'ordre de visite est Dubai Marina, puis Ain Dubai, puis Jumeirah Beach Residence, puis Atlantis, Dubai.\n\nLe prix comprend fete en bateau de 4 heures, boissons illimitees, mini-burgers et brochettes barbecue a bord et DJ en direct. Il ne comprend pas prise en charge et depose a l'hotel, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Dubai passant par Dubai Marina, Ain Dubai, Jumeirah Beach Residence et Atlantis, Dubai. Propose par Xclusive Yachts."
+  ],
+  "included": [
+   "Fete en bateau de 4 heures",
+   "Boissons illimitees",
+   "Mini-burgers et brochettes barbecue a bord",
+   "DJ en direct"
+  ],
+  "notIncluded": [
+   "Prise en charge et depose a l'hotel"
+  ]
+ },
+ "dubai-desert-sunrise-hot-air-balloon-ride-with-tra": {
+  "title": "Vol en montgolfiere au lever du soleil dans le desert de Dubai avec transfert",
+  "metaTitle": "Vol en montgolfiere au lever du soleil dans le desert de Dubai...",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV et VHC2+P4. Propose par Dubai Ballooning.",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV et VHC2+P4. Propose par Dubai Ballooning.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Jeep / SUV et VHC2+P4. Le plus long arret est VHC2+P4, d'environ 1 heure. Il y a 2 arrets au total.\n\nL'ordre de visite est Jeep / SUV (45 min), puis VHC2+P4 (1h).\n\nLe prix comprend prise en charge et depose a l'hotel dans Dubai, pilote professionnel experimente avec briefing de securite complet, vol en montgolfiere au lever du soleil au-dessus du desert de Dubai (60 a 90 minutes) et legers rafraichissements apres l'atterrissage. Il ne comprend pas video complete du vol par e-mail (disponible a l'achat sur place), toute depense personnelle supplementaire et pourboires (optionnel), prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV et VHC2+P4. Propose par Dubai Ballooning."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel dans Dubai",
+   "Pilote professionnel experimente avec briefing de securite complet",
+   "Vol en montgolfiere au lever du soleil au-dessus du desert de Dubai (60 a 90 minutes)",
+   "Legers rafraichissements apres l'atterrissage"
+  ],
+  "notIncluded": [
+   "Video complete du vol par e-mail (disponible a l'achat sur place)",
+   "Toute depense personnelle supplementaire",
+   "Pourboires (optionnel)"
+  ]
+ },
+ "dubais-best-fishing-charter-no-fish-no-pay": {
+  "title": "Le meilleur charter de peche a Dubai : pas de poisson, pas de paiement",
+  "metaTitle": "Le meilleur charter de peche a Dubai : pas de poisson, pas de ...",
+  "metaDescription": "Experience d'une demi-journee a Dubai. Ressentez l'ivresse de la chasse en essayant de capturer la plus grosse et meilleure prise. Propose par Splash Tours UAE.",
+  "shortDescription": "Experience d'une demi-journee a Dubai. Ressentez l'ivresse de la chasse en essayant de capturer la plus grosse et meilleure prise. Propose par Splash Tours UAE.",
+  "fullDescription": "Une experience d'une demi-journee a Dubai. Ressentez l'ivresse de la chasse en essayant de capturer la plus grosse et meilleure prise.\n\nSplash Tours UAE s'en charge, et 5 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend sortie de peche, equipement de peche et appats, assistance sur le pont et eau potable. Il ne comprend pas prise en charge et depose a l'hotel et nourriture, prevoyez donc un budget separe. Deux voyageurs paient 1151 $ ensemble plutot que 1151 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Ressentez l'ivresse de la chasse en essayant de capturer la plus grosse et meilleure prise"
+  ],
+  "included": [
+   "Sortie de peche",
+   "Equipement de peche et appats",
+   "Assistance sur le pont",
+   "Eau potable"
+  ],
+  "notIncluded": [
+   "Prise en charge et depose a l'hotel",
+   "Nourriture"
+  ]
+ },
+ "dubai-evening-camel-trekking-dinner-at-al-marmoom-": {
+  "title": "Trekking a dos de chameau en soiree et diner a Al Marmoom, Dubai",
+  "metaTitle": "Trekking a dos de chameau en soiree et diner a Al Marmoom, Dubai",
+  "metaDescription": "Experience d'une demi-journee a Dubai. Admirez la beaute du desert lors de votre visite de la reserve Al Marmoom. Propose par OceanAir Travels.",
+  "shortDescription": "Experience d'une demi-journee a Dubai. Admirez la beaute du desert lors de votre visite de la reserve Al Marmoom. Propose par OceanAir Travels.",
+  "fullDescription": "Une experience d'une demi-journee a Dubai. Admirez la beaute du desert lors de votre visite de la reserve Al Marmoom.\n\nOceanAir Travels s'en charge, et 9 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend prise en charge et depose a l'hotel, accueil traditionnel dans un village bedouin, balade en caravane de chameaux (45 minutes) et seance de preparation de cafe arabe. Il ne comprend pas pourboires, prevoyez donc un budget separe.",
+  "highlights": [
+   "Admirez la beaute du desert lors de votre visite de la reserve Al Marmoom"
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel",
+   "Accueil traditionnel dans un village bedouin",
+   "Balade en caravane de chameaux (45 minutes)",
+   "Seance de preparation de cafe arabe"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "dubai-palm-jumeirah-luxury-private-yacht-tour": {
+  "title": "Tour prive de luxe en yacht a Palm Jumeirah, Dubai",
+  "metaTitle": "Tour prive de luxe en yacht a Palm Jumeirah, Dubai",
+  "metaDescription": "Experience de 1 heure(s) a Dubai. Creez votre propre aventure en mer lors d'une croisiere depuis Dubai. Propose par Sea Escape DXB.",
+  "shortDescription": "Experience de 1 heure(s) a Dubai. Creez votre propre aventure en mer lors d'une croisiere depuis Dubai. Propose par Sea Escape DXB.",
+  "fullDescription": "Une experience de 1 heure(s) a Dubai. Creez votre propre aventure en mer lors d'une croisiere depuis Dubai.\n\nSea Escape DXB s'en charge, et 6 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend sortie en bateau, eau et boissons gazeuses, glaciere avec glace et wi-Fi. Il ne comprend pas prise en charge/depose a l'hotel et pourboires, prevoyez donc un budget separe. Deux voyageurs paient 388 $ ensemble plutot que 388 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Creez votre propre aventure en mer lors d'une croisiere depuis Dubai"
+  ],
+  "included": [
+   "Sortie en bateau",
+   "Eau et boissons gazeuses",
+   "Glaciere avec glace",
+   "Wi-Fi"
+  ],
+  "notIncluded": [
+   "Prise en charge/depose a l'hotel",
+   "Pourboires"
+  ]
+ },
+ "dubai-30-minute-scenic-helicopter-tour": {
+  "title": "Tour panoramique de 30 minutes en helicoptere a Dubai",
+  "metaTitle": "Tour panoramique de 30 minutes en helicoptere a Dubai",
+  "metaDescription": "Une excursion de 0,5 heure(s) au depart de Dubai passant par Burj Al Arab, The Palm Jumeirah, Atlantis, Dubai et The World Dubai. Propose par HeliDubai Helicopter...",
+  "shortDescription": "Une excursion de 0,5 heure(s) au depart de Dubai passant par Burj Al Arab, The Palm Jumeirah, Atlantis, Dubai et The World Dubai. Propose par HeliDubai Helicopter Tours.",
+  "fullDescription": "Une excursion de 0,5 heure(s) au depart de Dubai, passant par Burj Al Arab, The Palm Jumeirah, Atlantis, Dubai et The World Dubai. Il y a 9 arrets au total.\n\nL'ordre de visite est Burj Al Arab, puis The Palm Jumeirah, puis Atlantis, Dubai, puis The World Dubai, puis Burj Khalifa.\n\nLe prix comprend tour en helicoptere de 30 minutes, commentaires et visite guidee par les pilotes et tours aeriens touristiques pittoresques au-dessus de Dubai. Il ne comprend pas nourriture et boissons, transfert retour (uniquement si l'option est selectionnee a la caisse) et photos et videos (disponibles a l'achat), prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion de 0,5 heure(s) au depart de Dubai passant par Burj Al Arab, The Palm Jumeirah, Atlantis, Dubai et The World Dubai. Propose par HeliDubai Helicopter Tours."
+  ],
+  "included": [
+   "Tour en helicoptere de 30 minutes",
+   "Commentaires et visite guidee par les pilotes",
+   "Tours aeriens touristiques pittoresques au-dessus de Dubai"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Transfert retour (uniquement si l'option est selectionnee a la caisse)",
+   "Photos et videos (disponibles a l'achat)"
+  ]
+ },
+ "abu-dhabi-desert-safari-quad-biking-camel-ride-san": {
+  "title": "Safari desertique a Abu Dhabi : quad, balade a dos de chameau, sandboard",
+  "metaTitle": "Safari desertique a Abu Dhabi : quad, balade a dos de chameau,...",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Abu Dhabi passant par Jeep / SUV, Al Khatim Desert, Al Khatim Desert et Al Khatim Desert. Propose par OceanAir Travels.",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Abu Dhabi passant par Jeep / SUV, Al Khatim Desert, Al Khatim Desert et Al Khatim Desert. Propose par OceanAir Travels.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Abu Dhabi, passant par Jeep / SUV, Al Khatim Desert, Al Khatim Desert et Al Khatim Desert. Il y a 4 arrets au total.\n\nL'ordre de visite est Jeep / SUV (45 min), puis Al Khatim Desert, puis Al Khatim Desert, puis Al Khatim Desert.\n\nLe prix comprend prise en charge et depose a l'hotel, transport en vehicule 4x4 climatise, eau minerale fraiche dans le vehicule pendant le trajet et chauffeur professionnel licencie parlant anglais. Il ne comprend pas , prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Abu Dhabi passant par Jeep / SUV, Al Khatim Desert, Al Khatim Desert et Al Khatim Desert. Propose par OceanAir Travels."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel",
+   "Transport en vehicule 4x4 climatise",
+   "Eau minerale fraiche dans le vehicule pendant le trajet",
+   "Chauffeur professionnel licencie parlant anglais"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-desert-safari-with-bbq-dinner": {
+  "title": "Safari desertique a Dubai avec diner barbecue",
+  "metaTitle": "Safari desertique a Dubai avec diner barbecue",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Dubai et Emirate of Dubai. Propose par Funtours Dubai.",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Dubai et Emirate of Dubai. Propose par Funtours Dubai.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Dubai et Emirate of Dubai. Le plus long arret est Emirate of Dubai, d'environ 6 heures. Il y a 2 arrets au total.\n\nL'ordre de visite est Dubai, puis Emirate of Dubai (6h).\n\nLe prix comprend prise en charge et depose a l'hotel (ville de Dubai uniquement), dune bashing en Land Cruiser 4x4, arret photo au coucher du soleil et balade a dos de chameau (court circuit). Il ne comprend pas boissons alcoolisees (disponibles a l'achat au camp), longues balades a dos de chameau ou safari desertique en quad (disponibles avec supplement) et pourboires, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Dubai passant par Dubai et Emirate of Dubai. Propose par Funtours Dubai."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel (ville de Dubai uniquement)",
+   "Dune bashing en Land Cruiser 4x4",
+   "Arret photo au coucher du soleil",
+   "Balade a dos de chameau (court circuit)"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisees (disponibles a l'achat au camp)",
+   "Longues balades a dos de chameau ou safari desertique en quad (disponibles avec supplement)",
+   "Pourboires"
+  ]
+ },
+ "old-dubai-historic-guided-tour-creek-street-food-s": {
+  "title": "Visite guidee historique du Vieux Dubai : creek, street food, souks",
+  "metaTitle": "Visite guidee historique du Vieux Dubai : creek, street food, ...",
+  "metaDescription": "Une excursion de 3 heure(s) au depart de Dubai passant par Al Khayma Heritage Restaurant, Dubai, Al Seef, Al Fahidi Fort et Bur Dubai Souk Market. Propose par Oce...",
+  "shortDescription": "Une excursion de 3 heure(s) au depart de Dubai passant par Al Khayma Heritage Restaurant, Dubai, Al Seef, Al Fahidi Fort et Bur Dubai Souk Market. Propose par OceanAir Travels.",
+  "fullDescription": "Une excursion de 3 heure(s) au depart de Dubai, passant par Al Khayma Heritage Restaurant, Dubai, Al Seef, Al Fahidi Fort et Bur Dubai Souk Market. Il y a 8 arrets au total.\n\nL'ordre de visite est Al Khayma Heritage Restaurant, Dubai (30 min), puis Al Seef (30 min), puis Al Fahidi Fort (15 min), puis Bur Dubai Souk Market (15 min), puis Bur Dubai Abra Dock (15 min).\n\nLe prix comprend guide, entree aux sites patrimoniaux et musees, visite du Gold Souk et visite du Spice Souk. Il ne comprend pas pourboires (optionnel), prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion de 3 heure(s) au depart de Dubai passant par Al Khayma Heritage Restaurant, Dubai, Al Seef, Al Fahidi Fort et Bur Dubai Souk Market. Propose par OceanAir Travels."
+  ],
+  "included": [
+   "Guide",
+   "Entree aux sites patrimoniaux et musees",
+   "Visite du Gold Souk",
+   "Visite du Spice Souk"
+  ],
+  "notIncluded": [
+   "Pourboires (optionnel)"
+  ]
+ },
+ "dubai-platinum-conservation-drive-and-breakfast-at": {
+  "title": "Trajet de conservation Platinum et petit-dejeuner a Dubai",
+  "metaTitle": "Trajet de conservation Platinum et petit-dejeuner a Dubai",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV et Dubai Desert Conservation Reserve. Propose par Platinum Heritage Luxury Tours & Safa...",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV et Dubai Desert Conservation Reserve. Propose par Platinum Heritage Luxury Tours & Safaris.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Jeep / SUV et Dubai Desert Conservation Reserve. Le plus long arret est Dubai Desert Conservation Reserve, d'environ 1 heure. Il y a 2 arrets au total.\n\nL'ordre de visite est Jeep / SUV (1h), puis Dubai Desert Conservation Reserve (1h).\n\nLe prix comprend prise en charge et depose depuis les hotels de Dubai, trajet de conservation en Land Rover Defender, visite d'un lac desertique serein et isole et petit-dejeuner au Al Maha Desert Resort. Il ne comprend pas photos et pourboire, prevoyez donc un budget separe. Deux voyageurs paient 1105 $ ensemble plutot que 1105 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV et Dubai Desert Conservation Reserve. Propose par Platinum Heritage Luxury Tours & Safaris."
+  ],
+  "included": [
+   "Prise en charge et depose depuis les hotels de Dubai",
+   "Trajet de conservation en Land Rover Defender",
+   "Visite d'un lac desertique serein et isole",
+   "Petit-dejeuner au Al Maha Desert Resort"
+  ],
+  "notIncluded": [
+   "Photos",
+   "Pourboire"
+  ]
+ },
+ "dubai-al-ain-garden-city-with-conservation-zoo": {
+  "title": "Al Ain, la ville-jardin, depuis Dubai, avec zoo de conservation",
+  "metaTitle": "Al Ain, la ville-jardin, depuis Dubai, avec zoo de conservation",
+  "metaDescription": "Une excursion d'une journee complete au depart de Dubai passant par Al Ain National Museum, Al Ain Camel Market, Jebel Hafeet et Al Ain Zoo. Propose par Funtours ...",
+  "shortDescription": "Une excursion d'une journee complete au depart de Dubai passant par Al Ain National Museum, Al Ain Camel Market, Jebel Hafeet et Al Ain Zoo. Propose par Funtours Dubai.",
+  "fullDescription": "Une excursion d'une journee complete au depart de Dubai, passant par Al Ain National Museum, Al Ain Camel Market, Jebel Hafeet et Al Ain Zoo. Il y a 4 arrets au total.\n\nL'ordre de visite est Al Ain National Museum (30 min), puis Al Ain Camel Market (30 min), puis Jebel Hafeet (30 min), puis Al Ain Zoo (40 min).\n\nLe prix comprend excursion d'une journee a Al Ain Garden City, visite de Jebel Hafeet et d'autres sites, prise en charge et depose et eau potable fraiche. Il ne comprend pas rafraichissements, depenses personnelles et dejeuner, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une journee complete au depart de Dubai passant par Al Ain National Museum, Al Ain Camel Market, Jebel Hafeet et Al Ain Zoo. Propose par Funtours Dubai."
+  ],
+  "included": [
+   "Excursion d'une journee a Al Ain Garden City",
+   "Visite de Jebel Hafeet et d'autres sites",
+   "Prise en charge et depose",
+   "Eau potable fraiche"
+  ],
+  "notIncluded": [
+   "Rafraichissements",
+   "Depenses personnelles",
+   "Dejeuner"
+  ]
+ },
+ "dubai-sightseeing-helicopter-ride-from-the-palm": {
+  "title": "Tour panoramique en helicoptere depuis Palm Jumeirah, Dubai",
+  "metaTitle": "Tour panoramique en helicoptere depuis Palm Jumeirah, Dubai",
+  "metaDescription": "Experience de 0,2 heure(s) a Dubai. Survolez la ville de Dubai comme une rock star dans un helicoptere luxueux. Propose par Falcon Aviation Services.",
+  "shortDescription": "Experience de 0,2 heure(s) a Dubai. Survolez la ville de Dubai comme une rock star dans un helicoptere luxueux. Propose par Falcon Aviation Services.",
+  "fullDescription": "Une experience de 0,2 heure(s) a Dubai. Survolez la ville de Dubai comme une rock star dans un helicoptere luxueux.\n\nFalcon Aviation Services s'en charge, et 2 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend vol de 12, 15, 17, 25, 45, ou 60 minutes (selon les options selectionnees) et casques pour bien entendre le guide. Il ne comprend pas prise en charge et depose a l'hotel et nourriture et boissons, prevoyez donc un budget separe.",
+  "highlights": [
+   "Survolez la ville de Dubai comme une rock star dans un helicoptere luxueux"
+  ],
+  "included": [
+   "Vol de 12, 15, 17, 25, 45, ou 60 minutes (selon les options selectionnees)",
+   "Casques pour bien entendre le guide"
+  ],
+  "notIncluded": [
+   "Prise en charge et depose a l'hotel",
+   "Nourriture et boissons"
+  ]
+ },
+ "dubai-heritage-safari-in-vintage-land-rover-with-d": {
+  "title": "Safari patrimonial a Dubai en Land Rover vintage avec diner",
+  "metaTitle": "Safari patrimonial a Dubai en Land Rover vintage avec diner",
+  "metaDescription": "Une excursion d'une journee complete au depart de Dubai passant par Jeep / SUV, Dubai Desert Conservation Reserve, Dubai Desert Conservation Reserve et Dubai Dese...",
+  "shortDescription": "Une excursion d'une journee complete au depart de Dubai passant par Jeep / SUV, Dubai Desert Conservation Reserve, Dubai Desert Conservation Reserve et Dubai Desert Conservation Reserve. Propose par Platinum Heritage Luxury Tours & Safaris.",
+  "fullDescription": "Une excursion d'une journee complete au depart de Dubai, passant par Jeep / SUV, Dubai Desert Conservation Reserve, Dubai Desert Conservation Reserve et Dubai Desert Conservation Reserve. Le plus long arret est Jeep / SUV, d'environ 1 heure. Il y a 4 arrets au total.\n\nL'ordre de visite est Jeep / SUV (1h), puis Dubai Desert Conservation Reserve (1h), puis Dubai Desert Conservation Reserve (30 min), puis Dubai Desert Conservation Reserve.\n\nLe prix comprend prise en charge et depose a l'hotel en vehicule climatise, trajet nature a l'interieur de la Reserve de Conservation du Desert de Dubai, sans dune bashing, demonstration de fauconnerie et diner traditionnel de 4 plats. Il ne comprend pas photos et videos et pourboires, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une journee complete au depart de Dubai passant par Jeep / SUV, Dubai Desert Conservation Reserve, Dubai Desert Conservation Reserve et Dubai Desert Conservation Reserve. Propose par Platinum Heritage Luxury Tours & Safaris."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel en vehicule climatise",
+   "Trajet nature a l'interieur de la Reserve de Conservation du Desert de Dubai, sans dune bashing",
+   "Demonstration de fauconnerie",
+   "Diner traditionnel de 4 plats"
+  ],
+  "notIncluded": [
+   "Photos et videos",
+   "Pourboires"
+  ]
+ },
+ "dubai-premium-red-dune-safari-with-sandboarding-bb": {
+  "title": "Safari premium des Dunes Rouges a Dubai avec sandboard et BBQ",
+  "metaTitle": "Safari premium des Dunes Rouges a Dubai avec sandboard et BBQ",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV, Lahbab Desert, Jeep / SUV et Lahbab Desert. Propose par BEST VALUE TOURISM LLC.",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV, Lahbab Desert, Jeep / SUV et Lahbab Desert. Propose par BEST VALUE TOURISM LLC.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Jeep / SUV, Lahbab Desert, Jeep / SUV et Lahbab Desert. Le plus long arret est Lahbab Desert, d'environ 1 heure. Il y a 5 arrets au total.\n\nL'ordre de visite est Jeep / SUV (40 min), puis Lahbab Desert (40 min), puis Jeep / SUV (15 min), puis Lahbab Desert (1h), puis Lahbab Desert (30 min).\n\nLe prix comprend prise en charge et depose depuis l'hotel, dune bashing, courte balade a dos de chameau avec occasion de photo et peinture au henne. Il ne comprend pas alcool, buggy des dunes et quads (inclus si l'option est selectionnee), prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV, Lahbab Desert, Jeep / SUV et Lahbab Desert. Propose par BEST VALUE TOURISM LLC."
+  ],
+  "included": [
+   "Prise en charge et depose depuis l'hotel",
+   "Dune bashing",
+   "Courte balade a dos de chameau avec occasion de photo",
+   "Peinture au henne"
+  ],
+  "notIncluded": [
+   "Alcool",
+   "Buggy des dunes",
+   "Quads (inclus si l'option est selectionnee)"
+  ]
+ },
+ "from-abu-dhabi-grand-mosque-royal-palace-and-etiha": {
+  "title": "Depuis Abu Dhabi : Grande Mosquee, Palais Royal et Tours Etihad",
+  "metaTitle": "Depuis Abu Dhabi : Grande Mosquee, Palais Royal et Tours Etihad",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Abu Dhabi passant par Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Qasr Al Watan et Louvre Abu Dhabi. Propose par O...",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Abu Dhabi passant par Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Qasr Al Watan et Louvre Abu Dhabi. Propose par OceanAir Travels.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Abu Dhabi, passant par Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Qasr Al Watan et Louvre Abu Dhabi. Il y a 5 arrets au total.\n\nL'ordre de visite est Sheikh Zayed Mosque, puis The Corniche, Abu Dhabi (10 min), puis Qasr Al Watan, puis Louvre Abu Dhabi (15 min), puis Etihad Towers (30 min).\n\nLe prix comprend prise en charge et depose, transport en vehicule moderne climatise, guide touristique licencie et visite de la Grande Mosquee Sheikh Zayed. Il ne comprend pas tout service ou depense supplementaire (hors ce qui precede), prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Abu Dhabi passant par Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Qasr Al Watan et Louvre Abu Dhabi. Propose par OceanAir Travels."
+  ],
+  "included": [
+   "Prise en charge et depose",
+   "Transport en vehicule moderne climatise",
+   "Guide touristique licencie",
+   "Visite de la Grande Mosquee Sheikh Zayed"
+  ],
+  "notIncluded": [
+   "Tout service ou depense supplementaire (hors ce qui precede)"
+  ]
+ },
+ "dubai-private-car-and-driver-for-10-hours-city": {
+  "title": "Dubai : voiture privee avec chauffeur pour 10 heures de visite de la ville",
+  "metaTitle": "Dubai : voiture privee avec chauffeur pour 10 heures de visite...",
+  "metaDescription": "Experience d'une demi-journee a Dubai. . Propose par Yalla Walk tourism.",
+  "shortDescription": "Experience d'une demi-journee a Dubai. . Propose par Yalla Walk tourism.",
+  "fullDescription": "Une experience d'une demi-journee a Dubai. See the top attractions of Dubai, such as the Burj Al Arab and Palm Jumeirah.\n\nYalla Walk tourism s'en charge, et 5 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend voiture et chauffeur qualifie, carburant, salik (peages) et eau. Il ne comprend pas guide touristique et repas, prevoyez donc un budget separe. Deux voyageurs paient 429 $ ensemble plutot que 429 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Experience d'une demi-journee a Dubai. . Propose par Yalla Walk tourism."
+  ],
+  "included": [
+   "Voiture et chauffeur qualifie",
+   "Carburant",
+   "Salik (peages)",
+   "Eau"
+  ],
+  "notIncluded": [
+   "Guide touristique",
+   "Repas"
+  ]
+ },
+ "dubai-40ft-boat-rental-cruise-by-the-sea": {
+  "title": "Dubai : location de bateau de 40 pieds pour une croisiere en mer",
+  "metaTitle": "Dubai : location de bateau de 40 pieds pour une croisiere en mer",
+  "metaDescription": "Une excursion de 1 heure(s) au depart de Dubai passant par Jumeirah Beach Residence, Dubai Eye et Burj Al Arab. Propose par Supernova Yacht.",
+  "shortDescription": "Une excursion de 1 heure(s) au depart de Dubai passant par Jumeirah Beach Residence, Dubai Eye et Burj Al Arab. Propose par Supernova Yacht.",
+  "fullDescription": "Une excursion de 1 heure(s) au depart de Dubai, passant par Jumeirah Beach Residence, Dubai Eye et Burj Al Arab. Il y a 3 arrets au total.\n\nL'ordre de visite est Jumeirah Beach Residence, puis Dubai Eye, puis Burj Al Arab.\n\nLe prix comprend les lieux de la visite dependront de la duree selectionnee. Les options doivent etre discutees avec le capitaine au moment de l'embarquement. Il ne comprend pas , prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion de 1 heure(s) au depart de Dubai passant par Jumeirah Beach Residence, Dubai Eye et Burj Al Arab. Propose par Supernova Yacht."
+  ],
+  "included": [
+   "Les lieux de la visite dependront de la duree selectionnee. Les options doivent etre discutees avec le capitaine au moment de l'embarquement"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
