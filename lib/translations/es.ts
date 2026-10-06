@@ -34106,6 +34106,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comidas\nAlojamiento"
   ]
  },
+ "jaipur-rajasthani-cooking-class-with-family-star": {
+  "title": "Jaipur: clase de cocina rajastaní en familia y observación de estrellas",
+  "metaTitle": "Jaipur: cocina rajastaní en familia y estrellas",
+  "metaDescription": "Aprenda a cocinar platos tradicionales rajastaníes con una familia local y contemple las estrellas del desierto en Jaipur.",
+  "shortDescription": "Aprenda a cocinar platos tradicionales rajastaníes con una familia local.",
+  "fullDescription": "Jaipur: clase de cocina rajastaní en familia y observación de estrellas. Aprenda a cocinar platos tradicionales rajastaníes con una familia local.\n\nUna experiencia cultural única\nSumérjase en un inolvidable viaje cultural en Jaipur. Pase una tarde con una cálida y acogedora familia rajput, donde aprenderá a cocinar auténticos platos rajastaníes y terminará la noche con una tranquila sesión de observación de estrellas bajo el hermoso cielo del desierto.\n\nCálida bienvenida\nLlegue por la tarde al hogar tradicional rajastaní de la familia y sea recibido con una refrescante bebida de bienvenida. Experimente la verdadera hospitalidad rajastaní mientras se acomoda en su vibrante y acogedor hogar.\n\nCocinar con la familia\nParticipe en una sesión práctica de cocina, donde aprenderá recetas transmitidas de generación en generación. Descubra los secretos de las especias, sabores y técnicas culinarias rajastaníes. Prepare platos como chapatis, chutneys y curris clásicos usando ingredientes frescos de origen local.\n\nCompartir historias y tradiciones\nMientras cocina, converse con la familia y explore las tradiciones de vivir en una familia extendida. Con una taza de chai caliente, escuche historias sobre la cultura local, el patrimonio y la vida diaria en Jaipur.\n\nCena juntos\nDisfrute de los frutos de su trabajo cenando con la familia. Disfrute de la comida que ayudó a preparar, servida con amor en un ambiente cálido y familiar. La experiencia de cenar juntos le permite conectar más profundamente con la cultura y las tradiciones de Rajastán.\n\nExperiencia de observación de estrellas\nDespués de la cena, salga al patio o a la terraza para experimentar la magia del cielo nocturno. Un miembro de la familia o un guía local le ayudará a identificar constelaciones y compartirá folclore relacionado con las estrellas. Este momento tranquilo bajo el cielo estrellado ofrece el final perfecto para su velada.\n\nUn dulce final\nConcluya su experiencia con un postre tradicional como el Lapsi o el Kheer. Lleve a casa recetas valiosas, recuerdos preciados y la calidez de la hospitalidad rajastaní.\n\n### Qué incluye\n\n- Cálida bienvenida tradicional con bebida refrescante a la llegada\n- Visita a una residencia familiar rajput local en Jaipur\n- Experiencia de cocina práctica guiada por miembros de la familia\n- Servicios de un guía profesional de habla inglesa durante toda la experiencia (incluido si se selecciona la opción de guía)\n- Todos los ingredientes, utensilios y equipos necesarios para la sesión de cocina\n- Preparación de auténticos platos rajastaníes con ingredientes frescos de origen local\n- Sesión de interacción cultural y narración de historias con la familia anfitriona\n- Cena casera compartida con la familia\n- Experiencia de observación de estrellas con introducción básica a las constelaciones y el folclore local\n- Postre tradicional\n- Agua potable embotellada durante la experiencia\n- Todos los impuestos aplicables\n\n### No incluye\n\n- Servicios de recogida y traslado al hotel (disponibles con un coste adicional)\n- Gastos personales, incluyendo propinas, compras y comida o bebidas adicionales",
+  "highlights": [
+   "Aprenda a cocinar platos tradicionales rajastaníes con una familia local"
+  ],
+  "included": [
+   "Cálida bienvenida tradicional con bebida refrescante a la llegada\nVisita a una residencia familiar rajput local en Jaipur\nExperiencia de cocina práctica guiada por miembros de la familia\nServicios de un guía profesional de habla inglesa durante toda la experiencia (incluido si se selecciona la opción de guía)\nTodos los ingredientes, utensilios y equipos necesarios para la sesión de cocina\nPreparación de auténticos platos rajastaníes con ingredientes frescos de origen local\nSesión de interacción cultural y narración de historias con la familia anfitriona\nCena casera compartida con la familia\nExperiencia de observación de estrellas con introducción básica a las constelaciones y el folclore local\nPostre tradicional\nAgua potable embotellada durante la experiencia\nTodos los impuestos aplicables"
+  ],
+  "notIncluded": [
+   "Servicios de recogida y traslado al hotel (disponibles con un coste adicional)\nGastos personales, incluyendo propinas, compras y comida o bebidas adicionales"
+  ]
+ },
+ "jaipur-private-city-tour-by-royal-enfield": {
+  "title": "Jaipur: tour privado por la ciudad en motocicleta Royal Enfield",
+  "metaTitle": "Jaipur: tour privado en motocicleta Royal Enfield",
+  "metaDescription": "Descubra Jaipur en un tour privado en motocicleta Royal Enfield, ideal para viajeros solos que desean explorar la Ciudad Rosa.",
+  "shortDescription": "Descubra Jaipur en un tour privado en motocicleta Royal Enfield",
+  "fullDescription": "Jaipur: tour privado por la ciudad en motocicleta Royal Enfield. Descubra Jaipur en un tour privado en motocicleta Royal Enfield.\n\nExperimente Jaipur como nunca antes en una icónica motocicleta Royal Enfield Classic. Diseñado específicamente para viajeros solos, este tour privado de avistamiento de día completo combina la emocionante libertad de un paseo en moto con la rica historia y vibrante cultura de la Ciudad Rosa de Rajastán.\n\nGuiado por un piloto local experimentado, navegue sin esfuerzo por bulliciosos bazares locales, estrechos callejones históricos y pintorescas carreteras de montaña sinuosas a las que los coches tradicionales a menudo tienen dificultades para acceder. Desde la intrincada fachada del Hawa Mahal hasta el magnífico Fuerte Amber en la cima de la colina y el sereno Jal Mahal, recorra todas las atracciones principales sin preocuparse por el tráfico de la ciudad ni la navegación.\n\nDisfrute de atención personalizada, paradas fotográficas flexibles y profundos conocimientos locales durante todo su viaje, haciendo que su visita a Jaipur sea verdaderamente única e inolvidable.\n\n### Qué incluye\n\n- Motocicleta Royal Enfield Classic\n- Piloto local experimentado como guía\n- Visita al Hawa Mahal\n- Visita al Fuerte Amber\n- Visita al Jal Mahal\n- Visita al Jantar Mantar\n- Visita al City Palace\n- Paradas fotográficas flexibles\n- Conocimientos locales\n- Tarifas de estacionamiento y combustible\n\n### No incluye\n\n- Tarifa de entrada a monumentos",
+  "highlights": [
+   "Descubra Jaipur en un tour privado en motocicleta Royal Enfield"
+  ],
+  "included": [
+   "Motocicleta Royal Enfield Classic\nPiloto local experimentado como guía\nVisita al Hawa Mahal\nVisita al Fuerte Amber\nVisita al Jal Mahal\nVisita al Jantar Mantar\nVisita al City Palace\nParadas fotográficas flexibles\nConocimientos locales\nTarifas de estacionamiento y combustible"
+  ],
+  "notIncluded": [
+   "Tarifa de entrada a monumentos"
+  ]
+ },
+ "jaipur-guided-art-and-craft-walking-tour-with": {
+  "title": "Jaipur: tour a pie guiado de arte y artesanía con talleres",
+  "metaTitle": "Jaipur: tour a pie de arte y artesanía con talleres",
+  "metaDescription": "Explore el corazón creativo de Jaipur en un tour a pie guiado de arte y artesanía, con talleres prácticos.",
+  "shortDescription": "Explore el corazón creativo de Jaipur en un tour a pie guiado de arte y artesanía",
+  "fullDescription": "Jaipur: tour a pie guiado de arte y artesanía con talleres. Explore el corazón creativo de Jaipur en un tour a pie guiado de arte y artesanía.\n\nComience su viaje al corazón creativo de Jaipur con un paseo por animadas callejuelas y estudios ocultos donde los artesanos han estado creando obras maestras mucho antes de que existieran las máquinas modernas y los tutoriales de bricolaje. Conozca a artesanos galardonados que transforman materias primas en hermosos objetos usando técnicas tradicionales transmitidas de generación en generación.\n\nDurante el paseo, no solo observe el oficio, sino también pruebe usted mismo algunas de las actividades, interactúe con los artesanos y escuche historias que hacen que el patrimonio de Jaipur se sienta vivo. Esta experiencia es creativa, interactiva y profundamente conectada con la cultura viva del arte y la artesanía de Jaipur.\n\nVisite talleres y estudios de artesanos donde todavía se practican oficios tradicionales usando técnicas artesanales. Vea cómo las materias primas se transforman en productos terminados y comprenda el esfuerzo, la habilidad y el tiempo requeridos en cada oficio.\n\nAprenda sobre antigüedades y objetos antiguos y cómo Jaipur se convirtió en un centro importante para el arte y las antigüedades. Esta experiencia ofrece una comprensión más profunda del patrimonio artesanal vivo de Jaipur y de los artesanos que mantienen vivas estas tradiciones.\n\n### Qué incluye\n\n- Talleres de artesanía prácticos\n- Estampado en bloque\n- Elaboración de esculturas\n- Elaboración de brazaletes\n- Pintura en miniatura\n- Conocer a maestros artesanos\n- Visita a estudios en funcionamiento y espacios creativos\n- Aprender técnicas artesanales tradicionales\n- Paseo guiado por un arquitecto con perspectivas de diseño y cultura\n\n### No incluye\n\n- Gastos personales",
+  "highlights": [
+   "Explore el corazón creativo de Jaipur en un tour a pie guiado de arte y artesanía"
+  ],
+  "included": [
+   "Talleres de artesanía prácticos\nEstampado en bloque\nElaboración de esculturas\nElaboración de brazaletes\nPintura en miniatura\nConocer a maestros artesanos\nVisita a estudios en funcionamiento y espacios creativos\nAprender técnicas artesanales tradicionales\nPaseo guiado por un arquitecto con perspectivas de diseño y cultura"
+  ],
+  "notIncluded": [
+   "Gastos personales"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
