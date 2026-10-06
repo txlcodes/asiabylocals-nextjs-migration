@@ -34154,6 +34154,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles"
   ]
  },
+ "rajasthan-ranthambore-national-park-private-jeep": {
+  "title": "Rajasthan : safari privé en jeep au parc national de Ranthambore",
+  "metaTitle": "Rajasthan : safari privé en jeep à Ranthambore",
+  "metaDescription": "Explorez le parc national de Ranthambore lors d'un safari en jeep privé et guidé, pour une aventure palpitante au Rajasthan.",
+  "shortDescription": "Explorez le parc national de Ranthambore lors d'un safari en jeep privé et guidé, palpitant.",
+  "fullDescription": "Rajasthan : safari privé en jeep au parc national de Ranthambore. Explorez le parc national de Ranthambore lors d'un safari en jeep privé et guidé, palpitant.\n\nEmbarquez pour un palpitant safari guidé en jeep au parc national de Ranthambore. Rencontrez les emblématiques tigres du Bengale et une faune diversifiée dans leur habitat naturel. Des guides expérimentés naviguent sur le terrain accidenté, garantissant des observations rapprochées de la faune et partageant leurs connaissances sur ce sanctuaire riche en biodiversité. Traversez des forêts luxuriantes, des lacs sereins et des monuments historiques, capturant l'essence de la beauté de la nature. Ce safari promet une aventure inoubliable, mêlant le frisson de l'exploration au charme captivant de la nature sauvage.\n\nÀ propos du parc national de Ranthambore\nLe parc national de Ranthambore au Rajasthan, en Inde, s'étend sur 392 kilomètres carrés de terrain diversifié, des forêts denses aux ruines anciennes. Célèbre pour ses tigres du Bengale, le parc offre des safaris animaliers palpitants. Sa riche biodiversité, incluant une flore et une faune variées, en fait une destination captivante pour les amoureux de la nature et les passionnés de faune sauvage.\n\nMeilleure période pour visiter le parc national de Ranthambore\nLa meilleure période pour visiter le parc national de Ranthambore se situe pendant les mois d'hiver, d'octobre à mars. Le climat est agréable, et les observations de la faune, y compris les emblématiques tigres du Bengale, sont plus probables. Évitez le parc pendant la saison de la mousson (de juillet à septembre), lorsqu'il est fermé et que la végétation dense nuit à la visibilité.\n\nComment se rendre au parc national de Ranthambore ?\nLe parc national de Ranthambore est accessible par avion, train et route. L'aéroport le plus proche est l'aéroport international de Jaipur (180 km). Sawai Madhopur est la gare la plus proche (11 km), bien reliée aux grandes villes. L'accès routier se fait via Jaipur, relié par un réseau d'autoroutes bien entretenu.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel (jusqu'à 5 km du point d'entrée)\n- Visite en jeep ouverte privée avec chauffeur\n- Guide agréé par le département des forêts\n- Entrée payante\n- Toutes les taxes applicables\n\n### Non inclus\n\n- Pourboires\n- Nourriture et hébergement",
+  "highlights": [
+   "Explorez le parc national de Ranthambore lors d'un safari en jeep privé et guidé, palpitant"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel (jusqu'à 5 km du point d'entrée)\nVisite en jeep ouverte privée avec chauffeur\nGuide agréé par le département des forêts\nEntrée payante\nToutes les taxes applicables"
+  ],
+  "notIncluded": [
+   "Pourboires\nNourriture et hébergement"
+  ]
+ },
+ "jaipur-guided-evening-walking-tour-with-a-local": {
+  "title": "Jaipur : circuit pédestre guidé en soirée avec un local",
+  "metaTitle": "Jaipur : circuit pédestre guidé en soirée",
+  "metaDescription": "Découvrez Jaipur sous un nouveau jour après le coucher du soleil, lors de ce circuit pédestre guidé en soirée avec un local.",
+  "shortDescription": "Découvrez Jaipur sous un nouveau jour après le coucher du soleil.",
+  "fullDescription": "Jaipur : circuit pédestre guidé en soirée avec un local. Découvrez Jaipur sous un nouveau jour après le coucher du soleil.\n\nDécouvrez l'ambiance nocturne unique de Jaipur lors d'un circuit pédestre guidé en soirée avec un guide local. Explorez des lieux hors des sentiers battus et des favoris locaux tout en découvrant la culture, l'architecture et les monuments modernes de la ville.\n\nCommencez le circuit à l'Amar Jawan Jyoti, où vous pourrez admirer la flamme commémorative et les vues sur les bâtiments de l'Assemblée législative du Rajasthan. Poursuivez vers Ambedkar Circle, connu pour sa fontaine faite de matériaux recyclés, et arrêtez-vous pour une tasse de chai dans un lieu local populaire.\n\nEn marchant à travers la ville, passez devant des monuments tels que le Rambagh Golf Club, la Haute Cour du Rajasthan, le Pant Krishi Bhawan, le secrétariat de Jaipur et le planétarium Birla. À Statue Circle, admirez l'éclairage décoratif et les fontaines multicolores avant de terminer le circuit au cinéma Raj Mandir, l'emblématique cinéma en forme de meringue de Jaipur.\n\n### Ce qui est inclus\n\n- Guide touristique bilingue\n- 1 boisson chaude\n\n### Non inclus\n\n- Prise en charge et dépose à l'hôtel\n- Eau en bouteille",
+  "highlights": [
+   "Découvrez Jaipur sous un nouveau jour après le coucher du soleil"
+  ],
+  "included": [
+   "Guide touristique bilingue\n1 boisson chaude"
+  ],
+  "notIncluded": [
+   "Prise en charge et dépose à l'hôtel\nEau en bouteille"
+  ]
+ },
+ "culture-walking-and-food-tour-with-guide-in-jaipur": {
+  "title": "Circuit culturel à pied et gastronomique avec guide à Jaipur",
+  "metaTitle": "Circuit culturel à pied et gastronomique à Jaipur",
+  "metaDescription": "Explorez à pied la vieille Ville Rose de Jaipur avec un guide compétent, lors de ce circuit culturel et gastronomique.",
+  "shortDescription": "Explorez à pied la vieille Ville Rose de Jaipur avec un guide compétent.",
+  "fullDescription": "Circuit culturel à pied et gastronomique avec guide à Jaipur. Explorez à pied la vieille Ville Rose de Jaipur avec un guide compétent.\n\nPlongez au cœur de la vieille ville de Jaipur et découvrez son patrimoine vivant lors d'une balade culturelle guidée et d'une dégustation culinaire. Flânez à travers des bazars colorés, des ruelles cachées et des temples historiques pendant que votre guide local partage des histoires sur les riches traditions de la Ville Rose, son passé royal et sa vie de rue vibrante.\n\nEn chemin, savourez d'authentiques spécialités de street food rajasthanies auprès des vendeurs locaux : des kachoris croustillants, des samosas épicés, un lassi crémeux et des douceurs traditionnelles comme le ghewar et le jalebi. Chaque bouchée vous relie à l'histoire et à la culture de Jaipur.\n\nCette expérience immersive ne se limite pas à la visite touristique : il s'agit de ressentir le rythme de la vie quotidienne à Jaipur, de rencontrer les habitants et de découvrir des saveurs transmises de génération en génération.\n\n### Ce qui est inclus\n\n- Service de prise en charge et dépose\n- Un guide professionnel pour accompagner le circuit\n- Dégustation de street food à Jaipur\n- Eau en bouteille pour les invités\n- Toutes les taxes gouvernementales, y compris la taxe sur les produits et services (GST)\n\n### Non inclus\n\n- Pourboires pour le guide, non inclus dans le forfait mais recommandés",
+  "highlights": [
+   "Explorez à pied la vieille Ville Rose de Jaipur avec un guide compétent"
+  ],
+  "included": [
+   "Service de prise en charge et dépose\nUn guide professionnel pour accompagner le circuit\nDégustation de street food à Jaipur\nEau en bouteille pour les invités\nToutes les taxes gouvernementales, y compris la taxe sur les produits et services (GST)"
+  ],
+  "notIncluded": [
+   "Pourboires pour le guide, non inclus dans le forfait mais recommandés"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
