@@ -37322,6 +37322,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas para el conductor y el guia, que no estan incluidas en el paquete y pueden ser recomendadas\nFotos de recuerdo, que pueden estar disponibles para comprar por separado\nGastos personales, como compras o actividades adicionales no incluidas en el itinerario\nTarifas de entrada en cualquier lugar, que no estan incluidas en el paquete y pueden necesitar pagarse por separado\nOtras actividades no incluidas en el itinerario del tour\nTarifas de avion/tren/autobus hacia y desde el lugar del tour"
   ]
  },
+ "jaipur-full-day-tour-by-ac-car-or-tuk": {
+  "title": "Jaipur: tour de dia completo en coche con aire acondicionado o tuk-tuk con recogida",
+  "metaTitle": "Jaipur, dia completo, coche o tuk-tuk",
+  "metaDescription": "Disfrute de un tour privado de dia completo por Jaipur con un guia local conocedor, en coche con aire acondicionado o en tuk-tuk.",
+  "shortDescription": "Disfrute de un tour privado de dia completo por Jaipur con un guia local conocedor",
+  "fullDescription": "Jaipur: tour de dia completo en coche con aire acondicionado o tuk-tuk con recogida. Disfrute de un tour privado de dia completo por Jaipur con un guia local conocedor.\n\nExperimente lo mejor de Jaipur con nuestro tour turistico en tuk-tuk y coche, dirigido por un conductor conocedor que habla ingles y que ha pasado la mayor parte de su vida en esta vibrante ciudad. Como propietario y conductor, conoce todas las joyas ocultas y atracciones populares que hacen a Jaipur tan especial. Con nosotros, puede explorar cada rincon de la ciudad comoda y eficientemente mientras disfruta de comentarios perspicaces de su conductor de tuk-tuk y coche que habla ingles con fluidez. ¡No se pierda ver todo lo que Jaipur tiene para ofrecer con nuestro servicio de tuk-tuk y coche mejor valorado!\n- Sumerjase en la rica cultura y patrimonio de Jaipur.\n- Experimente Jaipur como un verdadero local con un tour en autorickshaw al aire libre.\n- Explore la ciudad rosa en coche privado con aire acondicionado y guia\n- Explore algunas de las atracciones mas populares de la ciudad.\n- Se incluyen traslados de ida y vuelta de cortesia desde su hotel para su comodidad\n\nPuntos destacados del tour:\n\nFuerte Amber: admire la majestuosa fortaleza en lo alto de una colina y su impresionante mezcla de arquitectura hindu y mogol.\n\nJal Mahal (Palacio del Agua): capture fotos perfectas de este hermoso palacio flotando en el lago Man Sagar.\n\nHawa Mahal (Palacio de los Vientos): maravillese con el intrincado trabajo de celosia y la fachada de arenisca rosa.\n\nCity Palace: explore patios reales, museos, y la residencia de la familia real de Jaipur.\n\nJantar Mantar: descubra el observatorio astronomico Patrimonio de la Humanidad de la UNESCO construido por el Maharaja Jai Singh II.\n\nMercados locales: paseese por coloridos bazares en busca de artesanias, textiles, y joyeria.\n\nDisfrute de atencion personalizada de su guia mientras aprende sobre la rica historia de Jaipur, las tradiciones reales, y la belleza arquitectonica. El tour se puede personalizar segun sus intereses, ya sea que desee mas tiempo para ir de compras, fotografia, o exploracion cultural.\n\n### Incluye\n\n- Tour privado con guia profesional que habla ingles (si el tour es en coche)\n- Transporte en coche con aire acondicionado o tuk-tuk (segun la opcion elegida)\n- Recogida y regreso al hotel en Jaipur\n- Agua embotellada\n- Tarifas de aparcamiento, combustible, y peajes\n\n### No incluye\n\n- Gastos personales de compras\n- Comida y bebidas (salvo que se especifique)\n- Propinas o gratificaciones para el guia o el conductor\n- Tarifas de entrada a los monumentos (si se visitan durante el tour)\n- Recogida/regreso al hotel fuera de los limites de la ciudad de Jaipur",
+  "highlights": [
+   "Disfrute de un tour privado de dia completo por Jaipur con un guia local conocedor"
+  ],
+  "included": [
+   "Tour privado con guia profesional que habla ingles (si el tour es en coche)\nTransporte en coche con aire acondicionado o tuk-tuk (segun la opcion elegida)\nRecogida y regreso al hotel en Jaipur\nAgua embotellada\nTarifas de aparcamiento, combustible, y peajes"
+  ],
+  "notIncluded": [
+   "Gastos personales de compras\nComida y bebidas (salvo que se especifique)\nPropinas o gratificaciones para el guia o el conductor\nTarifas de entrada a los monumentos (si se visitan durante el tour)\nRecogida/regreso al hotel fuera de los limites de la ciudad de Jaipur"
+  ]
+ },
+ "from-sariska-official-tiger-safari-in-open-jeep": {
+  "title": "Desde Sariska: safari oficial de tigres en jeep abierto con guia",
+  "metaTitle": "Sariska, safari de tigres, jeep abierto",
+  "metaDescription": "Descubra la Reserva de Tigres de Sariska, un santuario de vida salvaje en Rajasthan, en un safari oficial guiado en jeep abierto.",
+  "shortDescription": "Descubra la Reserva de Tigres de Sariska, un santuario de vida salvaje en Rajasthan",
+  "fullDescription": "Desde Sariska: safari oficial de tigres en jeep abierto con guia. Descubra la Reserva de Tigres de Sariska, un santuario de vida salvaje en Rajasthan.\n\nEmbarquese en un safari oficial guiado de tigres en la Reserva de Tigres de Sariska, un destacado santuario de vida salvaje situado en Rajasthan. Avistara tigres de Bengala y otra vida salvaje, y aprendera sobre la flora, fauna, e historia de la reserva de su guia.\n\nReunase con su guia y suba a un jeep o canter de safari oficial. Emprenda un viaje a traves del parque, hogar de tigres de Bengala, leopardos, hienas, chacales, sambars, jabalies salvajes, y numerosas especies de aves.\n\nEscuche mientras su guia comparte conocimientos sobre la flora, fauna, e historia de la reserva. Este atento a los tigres de Bengala y otra vida salvaje mientras explora el variado terreno del parque, que incluye bosques densos, praderas, y ruinas antiguas.\n\n### Incluye\n\n- Entrada de pago a la reserva de tigres\n- Guia experto\n- Entrada del vehiculo de safari\n- Observacion de la vida salvaje y los paisajes\n- Todos los impuestos\n\n### No incluye\n\n- Comidas y bebidas\n- Recogida y regreso al hotel\n- Gastos personales",
+  "highlights": [
+   "Descubra la Reserva de Tigres de Sariska, un santuario de vida salvaje en Rajasthan"
+  ],
+  "included": [
+   "Entrada de pago a la reserva de tigres\nGuia experto\nEntrada del vehiculo de safari\nObservacion de la vida salvaje y los paisajes\nTodos los impuestos"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas\nRecogida y regreso al hotel\nGastos personales"
+  ]
+ },
+ "jaipur-full-day-motorbike-tour-for-solo-female": {
+  "title": "Jaipur: tour en motocicleta de dia completo para viajeras en solitario",
+  "metaTitle": "Jaipur, tour en motocicleta, viajeras solitarias",
+  "metaDescription": "Descubra el alma de Jaipur a traves de los ojos de un artista local, en una motocicleta electrica ecologica, en un tour exclusivo para viajeras solitarias.",
+  "shortDescription": "Descubra el alma de Jaipur a traves de los ojos de un artista local",
+  "fullDescription": "Jaipur: tour en motocicleta de dia completo para viajeras en solitario. Descubra el alma de Jaipur a traves de los ojos de un artista local.\n\nTodo lo que se hace con el corazon es arte; por eso soy un artista. Jaipur, la Ciudad Rosa, es mi ciudad natal, y nadie puede mostrarle lo mejor de ella mejor que un artista local en su motocicleta electrica ecologica. Digame \"hola\", y yo la recogere.\n\nDescubra Jaipur como nunca antes en este paseo inmersivo, seguro, e intimo de dia completo, disenado exclusivamente para viajeras en solitario. Viaje de pasajera en una motocicleta electrica ecologica con un artista y narrador local de confianza como anfitrion.\n\nItinerario (comienza a las 9h00)\n\n- Recogida en su hotel en Jaipur\n\n- Fuerte Amer\n\nExplore el fuerte mas emblematico de Jaipur, conocido por sus grandiosos patios, el palacio de los espejos, y las vistas desde la colina.\n\n- Pozo escalonado de Panna Meena\n\nUn hermoso pozo escalonado del siglo XVI, perfecto para fotos e historias locales.\n\n- Jal Mahal (parada fotografica)\n\nHaga una pausa junto al sereno Palacio del Agua para fotos junto al lago y la brisa.\n\n- Pausa para el almuerzo\n\nEn un restaurante o cafe local limpio y comodo de su elección.\n\n- City Palace\n\nCamine por los patios reales, museos, y arquitectura rajasthani tradicional.\n\n- Jantar Mantar\n\nUn sitio Patrimonio de la Humanidad de la UNESCO que exhibe antiguos instrumentos astronomicos.\n\n- Hawa Mahal (paso en vehiculo + parada fotografica)\n\nObserve el emblematico Palacio de los Vientos desde el exterior, ideal para fotos.\n\n- Patrika Gate: sesion de fotos\n\nCapture fotos vibrantes en el lugar mas instagrameable de Jaipur.\n\n- Cafe de despedida en el Jawahar Kala Kendra\n\nRelajese en el centro cultural de Jaipur con conversaciones, historias, y una calida despedida.\n\n- Regreso a su hotel en Jaipur\n\n### Incluye\n\n- Paseo con un artista y narrador local de confianza en una motocicleta electrica\n- Experiencia de paseo ecologica y silenciosa\n- Conversacion personalizada, narracion, y reflexiones de vida\n- Fotografia movil espontanea en lugares emblematicos y secretos\n- Pausa de chai en un puesto de te callejero tipico\n- Degustacion de bocadillos callejeros\n- Casco desinfectado para el pasajero\n\n### No incluye\n\n- Tarifas de entrada (si se ingresa a algun sitio)\n- Comidas completas o bebidas mas alla de las degustaciones\n- Cobertura de seguro (paseo bajo su propia responsabilidad)",
+  "highlights": [
+   "Descubra el alma de Jaipur a traves de los ojos de un artista local"
+  ],
+  "included": [
+   "Paseo con un artista y narrador local de confianza en una motocicleta electrica\nExperiencia de paseo ecologica y silenciosa\nConversacion personalizada, narracion, y reflexiones de vida\nFotografia movil espontanea en lugares emblematicos y secretos\nPausa de chai en un puesto de te callejero tipico\nDegustacion de bocadillos callejeros\nCasco desinfectado para el pasajero"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada (si se ingresa a algun sitio)\nComidas completas o bebidas mas alla de las degustaciones\nCobertura de seguro (paseo bajo su propia responsabilidad)"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
