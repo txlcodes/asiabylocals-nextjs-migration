@@ -76030,12 +76030,12 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai: safari por el desierto con cena de barbacoa VIP, cuatri...",
   "metaDescription": "Une excursion de medio dia desde Dubai que visita Jeep / SUV, Red Dunes, Red Dunes y Jeep / SUV. Ofrecido por Funtours Dubai.",
   "shortDescription": "Une excursion de medio dia desde Dubai que visita Jeep / SUV, Red Dunes, Red Dunes y Jeep / SUV. Ofrecido por Funtours Dubai.",
-  "fullDescription": "Una excursion de medio dia desde Dubai, que recorre Jeep / SUV, Red Dunes, Red Dunes y Jeep / SUV. Hay 6 paradas en total.\n\nEl orden de la ruta es Jeep / SUV (45 min), luego Red Dunes (30 min), luego Red Dunes (45 min), luego Jeep / SUV (10 min), luego Al Aweer (20 min).\n\nEl precio incluye recogida y regreso a su hotel o al lugar seleccionado dentro de Dubai, guia, transporte en un vehiculo con aire acondicionado y agua ilimitada durante los traslados. No incluye bebidas alcoholicas, disenos de henna mas grandes de lo habitual y bebidas durante el trayecto, por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una excursion de medio dia desde Dubai, que recorre Jeep / SUV, Red Dunes, Red Dunes y Jeep / SUV. Hay 6 paradas en total.\n\nEl orden de la ruta es Jeep / SUV (45 min), luego Red Dunes (30 min), luego Red Dunes (45 min), luego Jeep / SUV (10 min), luego Al Aweer (20 min).\n\nEl precio incluye recogida y regreso en su hotel o lugar seleccionado dentro de Dubai, guia, transporte en un vehiculo con aire acondicionado y agua ilimitada durante los traslados. No incluye bebidas alcoholicas, disenos de henna mas grandes de lo habitual y bebidas durante el trayecto, por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Une excursion de medio dia desde Dubai que visita Jeep / SUV, Red Dunes, Red Dunes y Jeep / SUV. Ofrecido por Funtours Dubai."
   ],
   "included": [
-   "Recogida y regreso a su hotel o al lugar seleccionado dentro de Dubai",
+   "Recogida y regreso en su hotel o lugar seleccionado dentro de Dubai",
    "Guia",
    "Transporte en un vehiculo con aire acondicionado",
    "Agua ilimitada durante los traslados"
@@ -79417,7 +79417,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Paseo en flyboard"
   ],
   "notIncluded": [
-   "Recogida y regreso al hotel.",
+   "Recogida y regreso al hotel",
    "Comida"
   ]
  },
@@ -79788,7 +79788,7 @@ export const ES_TOURS: Record<string, TourT> = {
    "Disfrute de un tour privado con guia privado y auto para el lujo definitivo"
   ],
   "included": [
-   "Recogida y regreso al hotel.",
+   "Recogida y regreso al hotel",
    "Guia en vivo",
    "Vehiculo con aire acondicionado",
    "Entrada al Dubai Frame"
@@ -80208,6 +80208,405 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales"
   ]
  },
+ "dubai-canal-cruise-with-dinner-la-perle-show-silve": {
+  "title": "Dubai: crucero por el canal con cena y pase Silver para el espectaculo La Perle",
+  "metaTitle": "Dubai: crucero por el canal con cena y pase Silver para el esp...",
+  "metaDescription": "Une excursion de 3 hora(s) desde Dubai que visita La Perle by Dragone. Ofrecido por Amazon Tours UAE.",
+  "shortDescription": "Une excursion de 3 hora(s) desde Dubai que visita La Perle by Dragone. Ofrecido por Amazon Tours UAE.",
+  "fullDescription": "Una excursion de 3 hora(s) desde Dubai, que recorre La Perle by Dragone.\n\nEl precio incluye crucero, comentario grabado, comida buffet internacional y pase Silver para La Perle. No incluye bebidas de la casa (disponibles para comprar) y fotos de recuerdo (disponibles para comprar), por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de 3 hora(s) desde Dubai que visita La Perle by Dragone. Ofrecido por Amazon Tours UAE."
+  ],
+  "included": [
+   "Crucero",
+   "Comentario grabado",
+   "Comida buffet internacional",
+   "Pase Silver para La Perle"
+  ],
+  "notIncluded": [
+   "Bebidas de la casa (disponibles para comprar)",
+   "Fotos de recuerdo (disponibles para comprar)"
+  ]
+ },
+ "dubai-cabriolet-tour-in-a-convertible-mustang-or-c": {
+  "title": "Dubai: tour en cabriolet en un Mustang o Camaro convertible",
+  "metaTitle": "Dubai: tour en cabriolet en un Mustang o Camaro convertible",
+  "metaDescription": "Experiencia de 3 hora(s) en Dubai. Explore Dubai desde la comodidad de un descapotable con un guia turistico. Ofrecido por Cabrio Life Tours.",
+  "shortDescription": "Experiencia de 3 hora(s) en Dubai. Explore Dubai desde la comodidad de un descapotable con un guia turistico. Ofrecido por Cabrio Life Tours.",
+  "fullDescription": "Una experiencia de 3 hora(s) en Dubai. Explore Dubai desde la comodidad de un descapotable con un guia turistico.\n\nCabrio Life Tours la organiza, y 4 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel (zona principal de Dubai), mustang o Camaro convertible, guia turistico y conductor certificados y agua embotellada. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 580 $ juntos en lugar de 580 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Explore Dubai desde la comodidad de un descapotable con un guia turistico"
+  ],
+  "included": [
+   "Recogida y regreso al hotel (zona principal de Dubai)",
+   "Mustang o Camaro convertible",
+   "Guia turistico y conductor certificados",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "desert-safari-private-4wd-car": {
+  "title": "Safari por el desierto, auto 4x4 privado",
+  "metaTitle": "Safari por el desierto, auto 4x4 privado",
+  "metaDescription": "Une excursion de medio dia desde Dubai que visita Jeep / SUV. Ofrecido por Arab Expedition Tourism LLC.",
+  "shortDescription": "Une excursion de medio dia desde Dubai que visita Jeep / SUV. Ofrecido por Arab Expedition Tourism LLC.",
+  "fullDescription": "Una excursion de medio dia desde Dubai, que recorre Jeep / SUV.\n\nArab Expedition Tourism LLC la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita. Viaje con estilo y comodidad a bordo de un vehiculo 4x4.\n\nEl precio incluye recogida y regreso en su hotel o lugar seleccionado dentro de Dubai, guia, transporte en un 4x4 privado con aire acondicionado y agua ilimitada durante los traslados. No incluye bebidas alcoholicas (disponibles en el lugar), disenos de henna mas grandes de lo habitual y cuatrimoto (disponible para alquilar en el lugar), por lo que debe presupuestar eso por separado. Dos viajeros pagan 423 $ juntos en lugar de 423 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Une excursion de medio dia desde Dubai que visita Jeep / SUV. Ofrecido por Arab Expedition Tourism LLC."
+  ],
+  "included": [
+   "Recogida y regreso en su hotel o lugar seleccionado dentro de Dubai",
+   "Guia",
+   "Transporte en un 4x4 privado con aire acondicionado",
+   "Agua ilimitada durante los traslados"
+  ],
+  "notIncluded": [
+   "Bebidas alcoholicas (disponibles en el lugar)",
+   "Disenos de henna mas grandes de lo habitual",
+   "Cuatrimoto (disponible para alquilar en el lugar)"
+  ]
+ },
+ "dubai-jet-ski-burj-al-arab-burj-khalifa-photos": {
+  "title": "Moto de agua en Dubai: Burj Al Arab, Burj Khalifa, fotos y videos",
+  "metaTitle": "Moto de agua en Dubai: Burj Al Arab, Burj Khalifa, fotos y videos",
+  "metaDescription": "Une excursion de 0,5 hora(s) desde Dubai que visita Burj Khalifa y Burj Al Arab. Ofrecido por OceanAir Travels.",
+  "shortDescription": "Une excursion de 0,5 hora(s) desde Dubai que visita Burj Khalifa y Burj Al Arab. Ofrecido por OceanAir Travels.",
+  "fullDescription": "Una excursion de 0,5 hora(s) desde Dubai, que recorre Burj Khalifa y Burj Al Arab. Hay 2 paradas en total.\n\nEl orden de la ruta es Burj Khalifa (30 min), luego Burj Al Arab (30 min).\n\nEl precio incluye moto de agua (1900 cc), chalecos salvavidas de seguridad, parada fotografica en el Burj Khalifa y parada fotografica en el Burj Al Arab (solo con la opcion de 60 minutos). No incluye recogida y regreso al hotel y toallas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 84 $ juntos en lugar de 84 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Une excursion de 0,5 hora(s) desde Dubai que visita Burj Khalifa y Burj Al Arab. Ofrecido por OceanAir Travels."
+  ],
+  "included": [
+   "Moto de agua (1900 cc)",
+   "Chalecos salvavidas de seguridad",
+   "Parada fotografica en el Burj Khalifa",
+   "Parada fotografica en el Burj Al Arab (solo con la opcion de 60 minutos)"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Toallas"
+  ]
+ },
+ "dubai-luxury-safari-with-michelin-curated-4-course": {
+  "title": "Dubai: safari de lujo con cena de 4 platos seleccionada por chef Michelin",
+  "metaTitle": "Dubai: safari de lujo con cena de 4 platos seleccionada por ch...",
+  "metaDescription": "Une excursion de un dia completo desde Dubai que visita Jeep / SUV, Dubai Desert Conservation Reserve, Dubai Desert Conservation Reserve y Dubai Desert Conservati...",
+  "shortDescription": "Une excursion de un dia completo desde Dubai que visita Jeep / SUV, Dubai Desert Conservation Reserve, Dubai Desert Conservation Reserve y Dubai Desert Conservation Reserve. Ofrecido por Platinum Heritage Luxury Tours & Safaris.",
+  "fullDescription": "Una excursion de un dia completo desde Dubai, que recorre Jeep / SUV, Dubai Desert Conservation Reserve, Dubai Desert Conservation Reserve y Dubai Desert Conservation Reserve. La parada mas larga es Dubai Desert Conservation Reserve, con una duracion de unos 1 hora. Hay 4 paradas en total.\n\nEl orden de la ruta es Jeep / SUV (1h), luego Dubai Desert Conservation Reserve (1h), luego Dubai Desert Conservation Reserve (30 min), luego Dubai Desert Conservation Reserve.\n\nEl precio incluye recogida y regreso desde hoteles de Dubai, trayecto de naturaleza dentro de la Reserva de Conservacion del Desierto de Dubai (sin dune bashing), demostracion de cetreria y canapes con jugo espumoso. No incluye fotos y video y propinas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de un dia completo desde Dubai que visita Jeep / SUV, Dubai Desert Conservation Reserve, Dubai Desert Conservation Reserve y Dubai Desert Conservation Reserve. Ofrecido por Platinum Heritage Luxury Tours & Safaris."
+  ],
+  "included": [
+   "Recogida y regreso desde hoteles de Dubai",
+   "Trayecto de naturaleza dentro de la Reserva de Conservacion del Desierto de Dubai (sin dune bashing)",
+   "Demostracion de cetreria",
+   "Canapes con jugo espumoso"
+  ],
+  "notIncluded": [
+   "Fotos y video",
+   "Propinas"
+  ]
+ },
+ "dubai-private-night-safari-astronomy-with-3-course": {
+  "title": "Dubai: safari nocturno privado y astronomia con cena de 3 platos",
+  "metaTitle": "Dubai: safari nocturno privado y astronomia con cena de 3 platos",
+  "metaDescription": "Une excursion de medio dia desde Dubai que visita Jeep / SUV, Dubai Desert Conservation Reserve y Dubai Desert Conservation Reserve. Ofrecido por Platinum Heritag...",
+  "shortDescription": "Une excursion de medio dia desde Dubai que visita Jeep / SUV, Dubai Desert Conservation Reserve y Dubai Desert Conservation Reserve. Ofrecido por Platinum Heritage Luxury Tours & Safaris.",
+  "fullDescription": "Una excursion de medio dia desde Dubai, que recorre Jeep / SUV, Dubai Desert Conservation Reserve y Dubai Desert Conservation Reserve. La parada mas larga es Dubai Desert Conservation Reserve, con una duracion de unos 1 hora. Hay 3 paradas en total.\n\nEl orden de la ruta es Jeep / SUV (1h), luego Dubai Desert Conservation Reserve (1h), luego Dubai Desert Conservation Reserve.\n\nEl precio incluye transporte de ida y vuelta desde Dubai en un vehiculo privado con aire acondicionado, trayecto nocturno por la Reserva de Conservacion del Desierto de Dubai en un Land Rover vintage, caminata por la naturaleza dentro de los terrenos reales en busca de fauna nocturna, cena de 3 platos en un autentico campamento beduino y sesion de observacion de estrellas con charla astronomica por un guia profesional. No incluye propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 1377 $ juntos en lugar de 1377 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Une excursion de medio dia desde Dubai que visita Jeep / SUV, Dubai Desert Conservation Reserve y Dubai Desert Conservation Reserve. Ofrecido por Platinum Heritage Luxury Tours & Safaris."
+  ],
+  "included": [
+   "Transporte de ida y vuelta desde Dubai en un vehiculo privado con aire acondicionado",
+   "Trayecto nocturno por la Reserva de Conservacion del Desierto de Dubai en un Land Rover vintage",
+   "Caminata por la naturaleza dentro de los terrenos reales en busca de fauna nocturna",
+   "Cena de 3 platos en un autentico campamento beduino",
+   "Sesion de observacion de estrellas con charla astronomica por un guia profesional"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "dubai-luxury-desert-safari-5-star-dinner-shows": {
+  "title": "Dubai: safari de lujo por el desierto, cena 5 estrellas y espectaculos",
+  "metaTitle": "Dubai: safari de lujo por el desierto, cena 5 estrellas y espe...",
+  "metaDescription": "Une excursion de medio dia desde Dubai que visita Al Sahra Desert Fortress by Tour Dubai. Ofrecido por Tour Dubai.",
+  "shortDescription": "Une excursion de medio dia desde Dubai que visita Al Sahra Desert Fortress by Tour Dubai. Ofrecido por Tour Dubai.",
+  "fullDescription": "Una excursion de medio dia desde Dubai, que recorre Al Sahra Desert Fortress by Tour Dubai.\n\nEl precio incluye dune bashing en 4x4 con un conductor experimentado del desierto (si se elige la opcion), bienvenida arabe tradicional con cafe y datiles, buffet internacional de 5 estrellas con BBQ y cocina arabe y espectaculos y musica arabe en vivo, incluyendo danza del vientre y Tanoura. No incluye bebidas alcoholicas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de medio dia desde Dubai que visita Al Sahra Desert Fortress by Tour Dubai. Ofrecido por Tour Dubai."
+  ],
+  "included": [
+   "Dune bashing en 4x4 con un conductor experimentado del desierto (si se elige la opcion)",
+   "Bienvenida arabe tradicional con cafe y datiles",
+   "Buffet internacional de 5 estrellas con BBQ y cocina arabe",
+   "Espectaculos y musica arabe en vivo, incluyendo danza del vientre y Tanoura"
+  ],
+  "notIncluded": [
+   "Bebidas alcoholicas"
+  ]
+ },
+ "dubai-desert-safari-premium-bbq-dinner-camel-ride-": {
+  "title": "Safari por el desierto en Dubai: cena premium de barbacoa, paseo en camello y espectaculos",
+  "metaTitle": "Safari por el desierto en Dubai: cena premium de barbacoa, pas...",
+  "metaDescription": "Une excursion de un dia completo desde Dubai que visita Jeep / SUV, Dubai, Lahbab Desert y Lahbab Desert. Ofrecido por Dream Journey.",
+  "shortDescription": "Une excursion de un dia completo desde Dubai que visita Jeep / SUV, Dubai, Lahbab Desert y Lahbab Desert. Ofrecido por Dream Journey.",
+  "fullDescription": "Una excursion de un dia completo desde Dubai, que recorre Jeep / SUV, Dubai, Lahbab Desert y Lahbab Desert. La parada mas larga es Lahbab Desert, con una duracion de unos 2 horas. Hay 8 paradas en total.\n\nEl orden de la ruta es Jeep / SUV (50 min), luego Dubai, luego Lahbab Desert (30 min), luego Lahbab Desert (45 min), luego Lahbab Desert (30 min).\n\nEl precio incluye recogida y regreso en vehiculo 4x4 (compartido o privado), guia de safari licenciado, dune bashing de 45 minutos en el desierto de Lahbab y experiencia de sandboarding. No incluye propinas, bebidas alcoholicas (disponibles para comprar en el lugar) y shisha en la mesa (disponible con costo adicional), por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de un dia completo desde Dubai que visita Jeep / SUV, Dubai, Lahbab Desert y Lahbab Desert. Ofrecido por Dream Journey."
+  ],
+  "included": [
+   "Recogida y regreso en vehiculo 4x4 (compartido o privado)",
+   "Guia de safari licenciado",
+   "Dune bashing de 45 minutos en el desierto de Lahbab",
+   "Experiencia de sandboarding"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "Bebidas alcoholicas (disponibles para comprar en el lugar)",
+   "Shisha en la mesa (disponible con costo adicional)"
+  ]
+ },
+ "dubai-jet-ski-tour-to-atlantis-hotel-and-burj": {
+  "title": "Dubai: tour en moto de agua al hotel Atlantis y el Burj Al Arab",
+  "metaTitle": "Dubai: tour en moto de agua al hotel Atlantis y el Burj Al Arab",
+  "metaDescription": "Une excursion de 0,25 hora(s) desde Dubai que visita Burj Al Arab, Atlantis, Dubai y Downtown Dubai. Ofrecido por Popeye Jetski Rental.",
+  "shortDescription": "Une excursion de 0,25 hora(s) desde Dubai que visita Burj Al Arab, Atlantis, Dubai y Downtown Dubai. Ofrecido por Popeye Jetski Rental.",
+  "fullDescription": "Una excursion de 0,25 hora(s) desde Dubai, que recorre Burj Al Arab, Atlantis, Dubai y Downtown Dubai. Hay 3 paradas en total.\n\nEl orden de la ruta es Burj Al Arab (13 min), luego Atlantis, Dubai (30 min), luego Downtown Dubai (30 min).\n\nEl precio incluye tour en moto de agua Yamaha 1800cc 2023 (HO y SVHO), instructor certificado de moto de agua, charla de seguridad y equipo y acceso a un pontón flotante o terraza en la azotea. No incluye recogida y regreso al hotel, toalla, camiseta de proteccion, funda impermeable, y protector solar (disponibles para comprar) y comida y bebidas (disponibles para comprar), por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de 0,25 hora(s) desde Dubai que visita Burj Al Arab, Atlantis, Dubai y Downtown Dubai. Ofrecido por Popeye Jetski Rental."
+  ],
+  "included": [
+   "Tour en moto de agua Yamaha 1800cc 2023 (HO y SVHO)",
+   "Instructor certificado de moto de agua",
+   "Charla de seguridad y equipo",
+   "Acceso a un pontón flotante o terraza en la azotea"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Toalla, camiseta de proteccion, funda impermeable, y protector solar (disponibles para comprar)",
+   "Comida y bebidas (disponibles para comprar)"
+  ]
+ },
+ "city-sightseeing-hop-on-hop-off-bus-aquaventure-aq": {
+  "title": "Autobus turistico hop-on hop-off, Aquaventure y acuario",
+  "metaTitle": "Autobus turistico hop-on hop-off, Aquaventure y acuario",
+  "metaDescription": "Une excursion de 1,5 hora(s) desde Dubai que visita Burj Khalifa. Ofrecido por City Sightseeing Worldwide.",
+  "shortDescription": "Une excursion de 1,5 hora(s) desde Dubai que visita Burj Khalifa. Ofrecido por City Sightseeing Worldwide.",
+  "fullDescription": "Una excursion de 1,5 hora(s) desde Dubai, que recorre Burj Khalifa.\n\nCity Sightseeing Worldwide la organiza, y 8 elementos estan cubiertos por el precio. La cancelacion es gratuita. Disfrute de un tour en autobus hop-on hop-off de 2 dias con vistas panoramicas de Dubai.\n\nEl precio incluye tour en autobus hop-on hop-off de 2 dias, paradas cerca de todos los sitios principales, tour al atardecer y nocturno y entrada al Lost World Aquarium. No incluye recogida y regreso al hotel, entrada a otras atracciones y propinas (opcional), por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de 1,5 hora(s) desde Dubai que visita Burj Khalifa. Ofrecido por City Sightseeing Worldwide."
+  ],
+  "included": [
+   "Tour en autobus hop-on hop-off de 2 dias",
+   "Paradas cerca de todos los sitios principales",
+   "Tour al atardecer y nocturno",
+   "Entrada al Lost World Aquarium"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Entrada a otras atracciones",
+   "Propinas (opcional)"
+  ]
+ },
+ "abu-dhabi-overnight-desert-safari": {
+  "title": "Abu Dhabi: safari nocturno por el desierto",
+  "metaTitle": "Abu Dhabi: safari nocturno por el desierto",
+  "metaDescription": "Experiencia de un dia completo en Abu Dhabi. Viva un campamento arabe tradicional en el desierto. Ofrecido por Capital Gate Tourism.",
+  "shortDescription": "Experiencia de un dia completo en Abu Dhabi. Viva un campamento arabe tradicional en el desierto. Ofrecido por Capital Gate Tourism.",
+  "fullDescription": "Una experiencia de un dia completo en Abu Dhabi. Viva un campamento arabe tradicional en el desierto.\n\nCapital Gate Tourism la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel, conductor (ingles/arabe), dune bashing extremo y paseo en camello y experiencia de granja. No incluye bebidas alcoholicas y cuatrimotos, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Viva un campamento arabe tradicional en el desierto"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Conductor (ingles/arabe)",
+   "Dune bashing extremo",
+   "Paseo en camello y experiencia de granja"
+  ],
+  "notIncluded": [
+   "Bebidas alcoholicas",
+   "Cuatrimotos"
+  ]
+ },
+ "from-dubai-discovery-scuba-diving-snorkeling-in-fu": {
+  "title": "Desde Dubai: buceo de iniciacion y snorkel en Fujairah",
+  "metaTitle": "Desde Dubai: buceo de iniciacion y snorkel en Fujairah",
+  "metaDescription": "Experiencia de un dia completo en Dubai. Disfrute de su primera inmersion de buceo en el golfo de Oman. Ofrecido por nemo diving center.",
+  "shortDescription": "Experiencia de un dia completo en Dubai. Disfrute de su primera inmersion de buceo en el golfo de Oman. Ofrecido por nemo diving center.",
+  "fullDescription": "Una experiencia de un dia completo en Dubai. Disfrute de su primera inmersion de buceo en el golfo de Oman.\n\nnemo diving center la organiza, y 7 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye instructor certificado, todo el equipo de buceo, sesion teorica a bordo y refrescos ilimitados. No incluye alcohol, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Disfrute de su primera inmersion de buceo en el golfo de Oman"
+  ],
+  "included": [
+   "Instructor certificado",
+   "Todo el equipo de buceo",
+   "Sesion teorica a bordo",
+   "Refrescos ilimitados"
+  ],
+  "notIncluded": [
+   "Alcohol"
+  ]
+ },
+ "abu-dhabi-night-magic-journey-with-mosque-moonligh": {
+  "title": "Abu Dhabi: viaje magico nocturno con mezquita y luz de luna",
+  "metaTitle": "Abu Dhabi: viaje magico nocturno con mezquita y luz de luna",
+  "metaDescription": "Une excursion de 3 hora(s) desde Abu Dhabi que visita Sheikh Zayed Grand Mosque. Ofrecido por Desert Rose Tourism LLC L.L.C Dubai Branch.",
+  "shortDescription": "Une excursion de 3 hora(s) desde Abu Dhabi que visita Sheikh Zayed Grand Mosque. Ofrecido por Desert Rose Tourism LLC L.L.C Dubai Branch.",
+  "fullDescription": "Una excursion de 3 hora(s) desde Abu Dhabi, que recorre Sheikh Zayed Grand Mosque. La parada mas larga es Sheikh Zayed Grand Mosque, con una duracion de unos 1 hora.\n\nEl precio incluye transporte privado en un vehiculo confortable con aire acondicionado, conductor-guia profesional, recogida desde el aeropuerto internacional de Abu Dhabi o la terminal de cruceros de Abu Dhabi, visita a la Corniche de Abu Dhabi, Emirates Palace, Qasr Al Watan, y la ciudad de Abu Dhabi (parada fotografica) y entrada a la Gran Mezquita Sheikh Zayed. No incluye comida y bebidas ademas del agua embotellada, gastos personales y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 266 $ juntos en lugar de 266 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Une excursion de 3 hora(s) desde Abu Dhabi que visita Sheikh Zayed Grand Mosque. Ofrecido por Desert Rose Tourism LLC L.L.C Dubai Branch."
+  ],
+  "included": [
+   "Transporte privado en un vehiculo confortable con aire acondicionado",
+   "Conductor-guia profesional",
+   "Recogida desde el aeropuerto internacional de Abu Dhabi o la terminal de cruceros de Abu Dhabi",
+   "Visita a la Corniche de Abu Dhabi, Emirates Palace, Qasr Al Watan, y la ciudad de Abu Dhabi (parada fotografica)",
+   "Entrada a la Gran Mezquita Sheikh Zayed"
+  ],
+  "notIncluded": [
+   "Comida y bebidas ademas del agua embotellada",
+   "Gastos personales",
+   "Propinas"
+  ]
+ },
+ "skip-the-line-dubai-frame-zabeel-park-private-guid": {
+  "title": "Sin colas: tour privado guiado por el Dubai Frame y Zabeel Park",
+  "metaTitle": "Sin colas: tour privado guiado por el Dubai Frame y Zabeel Park",
+  "metaDescription": "Experiencia de 2 hora(s) en Dubai. Explore el Dubai Frame y Zabeel Park con un guia privado licenciado de 5 estrellas. Ofrecido por Rosotravel - United States Tou...",
+  "shortDescription": "Experiencia de 2 hora(s) en Dubai. Explore el Dubai Frame y Zabeel Park con un guia privado licenciado de 5 estrellas. Ofrecido por Rosotravel - United States Tours & Experiences.",
+  "fullDescription": "Una experiencia de 2 hora(s) en Dubai. Explore el Dubai Frame y Zabeel Park con un guia privado licenciado de 5 estrellas.\n\nRosotravel - United States Tours & Experiences la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye tour privado por el Dubai Frame y Zabeel Park, guia privado licenciado de 5 estrellas que domina el idioma de su eleccion, entradas sin cola para el Dubai Frame, comentario experto sobre la historia, presente, y vision futura de Dubai y acceso a la Old Dubai Gallery, Sky Bridge, pasarela de vidrio, y la exposicion Future Dubai. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 423 $ juntos en lugar de 388 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Explore el Dubai Frame y Zabeel Park con un guia privado licenciado de 5 estrellas"
+  ],
+  "included": [
+   "Tour privado por el Dubai Frame y Zabeel Park",
+   "Guia privado licenciado de 5 estrellas que domina el idioma de su eleccion",
+   "Entradas sin cola para el Dubai Frame",
+   "Comentario experto sobre la historia, presente, y vision futura de Dubai",
+   "Acceso a la Old Dubai Gallery, Sky Bridge, pasarela de vidrio, y la exposicion Future Dubai"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-sheikh-zayed-grand-mosque-morning-tour": {
+  "title": "Dubai: tour matutino a la Gran Mezquita Sheikh Zayed",
+  "metaTitle": "Dubai: tour matutino a la Gran Mezquita Sheikh Zayed",
+  "metaDescription": "Une excursion de medio dia desde Abu Dhabi que visita Sheikh Zayed Mosque. Ofrecido por OceanAir Travels.",
+  "shortDescription": "Une excursion de medio dia desde Abu Dhabi que visita Sheikh Zayed Mosque. Ofrecido por OceanAir Travels.",
+  "fullDescription": "Una excursion de medio dia desde Abu Dhabi, que recorre Sheikh Zayed Mosque.\n\nOceanAir Travels la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita. Aprenda sobre la cultura islamica y la arquitectura de mezquitas con su guia.\n\nEl precio incluye recogida y regreso al hotel (Dubai), transporte con aire acondicionado, guia turistico licenciado y agua embotellada. No incluye comida y gastos personales, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de medio dia desde Abu Dhabi que visita Sheikh Zayed Mosque. Ofrecido por OceanAir Travels."
+  ],
+  "included": [
+   "Recogida y regreso al hotel (Dubai)",
+   "Transporte con aire acondicionado",
+   "Guia turistico licenciado",
+   "Agua embotellada"
+  ],
+  "notIncluded": [
+   "Comida y gastos personales"
+  ]
+ },
+ "dubai-4-hour-private-deep-seatrolling-fishing-trip": {
+  "title": "Dubai: excursion privada de pesca en alta mar/trolling de 4 horas",
+  "metaTitle": "Dubai: excursion privada de pesca en alta mar/trolling de 4 horas",
+  "metaDescription": "Une excursion de medio dia desde Dubai que visita Anantara World Islands Dubai Resort. Ofrecido por Sea Escape DXB.",
+  "shortDescription": "Une excursion de medio dia desde Dubai que visita Anantara World Islands Dubai Resort. Ofrecido por Sea Escape DXB.",
+  "fullDescription": "Una excursion de medio dia desde Dubai, que recorre Anantara World Islands Dubai Resort. La parada mas larga es Anantara World Islands Dubai Resort, con una duracion de unos 3 horas.\n\nEl precio incluye jugo, agua, nevera, toallas frescas y equipo de pesca y cebo. No incluye transporte, por lo que debe presupuestar eso por separado. Dos viajeros pagan 855 $ juntos en lugar de 855 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Une excursion de medio dia desde Dubai que visita Anantara World Islands Dubai Resort. Ofrecido por Sea Escape DXB."
+  ],
+  "included": [
+   "Jugo, agua",
+   "Nevera",
+   "Toallas frescas",
+   "Equipo de pesca y cebo"
+  ],
+  "notIncluded": [
+   "Transporte"
+  ]
+ },
+ "dubai-dinosaurs-odyssey-vr-fossil-museum-with-gmc-": {
+  "title": "Dubai: Dinosaurs Odyssey VR y museo de fosiles con GMC Yukon",
+  "metaTitle": "Dubai: Dinosaurs Odyssey VR y museo de fosiles con GMC Yukon",
+  "metaDescription": "Experiencia de 3 hora(s) en Dubai. Viaje al mundo prehistorico en Dinosaurs: The Immersive Odyssey. Ofrecido por HARBOR TOURISM LLC.",
+  "shortDescription": "Experiencia de 3 hora(s) en Dubai. Viaje al mundo prehistorico en Dinosaurs: The Immersive Odyssey. Ofrecido por HARBOR TOURISM LLC.",
+  "fullDescription": "Una experiencia de 3 hora(s) en Dubai. Viaje al mundo prehistorico en Dinosaurs: The Immersive Odyssey.\n\nHARBOR TOURISM LLC la organiza, y 10 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye entrada a Dinosaurs: The Immersive Odyssey, acceso a la zona de almacenamiento de fosiles del museo, experiencia de RV inmersiva y encuentros con dinosaurios animatronicos a tamano real. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 558 $ juntos en lugar de 550 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Viaje al mundo prehistorico en Dinosaurs: The Immersive Odyssey"
+  ],
+  "included": [
+   "Entrada a Dinosaurs: The Immersive Odyssey",
+   "Acceso a la zona de almacenamiento de fosiles del museo",
+   "Experiencia de RV inmersiva",
+   "Encuentros con dinosaurios animatronicos a tamano real"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-loco-bear-experience-with-private-gmc-yukon-": {
+  "title": "Dubai: experiencia Loco Bear con traslado privado en GMC Yukon",
+  "metaTitle": "Dubai: experiencia Loco Bear con traslado privado en GMC Yukon",
+  "metaDescription": "Experiencia de medio dia en Dubai. Disfrute de una visita divertida a Loco Bear Dubai con traslado privado en GMC Yukon. Ofrecido por HARBOR TOURISM LLC.",
+  "shortDescription": "Experiencia de medio dia en Dubai. Disfrute de una visita divertida a Loco Bear Dubai con traslado privado en GMC Yukon. Ofrecido por HARBOR TOURISM LLC.",
+  "fullDescription": "Una experiencia de medio dia en Dubai. Disfrute de una visita divertida a Loco Bear Dubai con traslado privado en GMC Yukon.\n\nHARBOR TOURISM LLC la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye traslado privado en SUV GMC Yukon, chofer profesional, vehiculo con aire acondicionado y recogida y regreso del hotel/residencia. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 610 $ juntos en lugar de 610 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Disfrute de una visita divertida a Loco Bear Dubai con traslado privado en GMC Yukon"
+  ],
+  "included": [
+   "Traslado privado en SUV GMC Yukon",
+   "Chofer profesional",
+   "Vehiculo con aire acondicionado",
+   "Recogida y regreso del hotel/residencia"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-burj-khalifa-kidzania-tour-by-gmc-yukon-tran": {
+  "title": "Dubai: tour por el Burj Khalifa y KidZania con traslado en GMC Yukon",
+  "metaTitle": "Dubai: tour por el Burj Khalifa y KidZania con traslado en GMC...",
+  "metaDescription": "Experiencia de medio dia en Dubai. Disfrute de una experiencia apta para familias en Dubai con un traslado privado. Ofrecido por HARBOR TOURISM LLC.",
+  "shortDescription": "Experiencia de medio dia en Dubai. Disfrute de una experiencia apta para familias en Dubai con un traslado privado. Ofrecido por HARBOR TOURISM LLC.",
+  "fullDescription": "Una experiencia de medio dia en Dubai. Disfrute de una experiencia apta para familias en Dubai con un traslado privado.\n\nHARBOR TOURISM LLC la organiza, y 7 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye entrada para el Burj Khalifa, entrada para KidZania Dubai, SUV GMC Yukon privado y chofer profesional. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 940 $ juntos en lugar de 691 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Disfrute de una experiencia apta para familias en Dubai con un traslado privado"
+  ],
+  "included": [
+   "Entrada para el Burj Khalifa",
+   "Entrada para KidZania Dubai",
+   "SUV GMC Yukon privado",
+   "Chofer profesional"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "from-dubai-sharjah-ajman-private-tour-with-guide": {
+  "title": "Desde Dubai: tour privado por Sharjah y Ajman con guia",
+  "metaTitle": "Desde Dubai: tour privado por Sharjah y Ajman con guia",
+  "metaDescription": "Une excursion de un dia completo desde Dubai que visita Emirate of Sharjah. Ofrecido por ARABIAN DESTINATION TOURISM L.L.C.",
+  "shortDescription": "Une excursion de un dia completo desde Dubai que visita Emirate of Sharjah. Ofrecido por ARABIAN DESTINATION TOURISM L.L.C.",
+  "fullDescription": "Una excursion de un dia completo desde Dubai, que recorre Emirate of Sharjah. La parada mas larga es Emirate of Sharjah, con una duracion de unos 8 horas.\n\nEl precio incluye tour privado de 8 horas por las ciudades de Sharjah y Ajman, recogida y regreso desde hoteles de Dubai o lugares seleccionados, vehiculo privado con aire acondicionado y guia turistico profesional multilingue. No incluye tarifas de entrada a museos cuando corresponda, comida y bebidas ademas del agua embotellada y gastos de compras, por lo que debe presupuestar eso por separado. Dos viajeros pagan 738 $ juntos en lugar de 691 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Une excursion de un dia completo desde Dubai que visita Emirate of Sharjah. Ofrecido por ARABIAN DESTINATION TOURISM L.L.C."
+  ],
+  "included": [
+   "Tour privado de 8 horas por las ciudades de Sharjah y Ajman",
+   "Recogida y regreso desde hoteles de Dubai o lugares seleccionados",
+   "Vehiculo privado con aire acondicionado",
+   "Guia turistico profesional multilingue"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a museos cuando corresponda",
+   "Comida y bebidas ademas del agua embotellada",
+   "Gastos de compras"
+  ]
+ },
  "from-ras-al-khaimah-private-dubai-highlights-suv-c": {
   "title": "Desde Ras Al Khaimah: tour privado por lo mejor de Dubai en SUV",
   "metaTitle": "Desde Ras Al Khaimah: tour privado por lo mejor de Dubai en SUV",
@@ -80323,6 +80722,25 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Recogida y regreso al hotel",
    "Comida o bebidas"
+  ]
+ },
+ "dubai-kidzania-ticket-with-private-gmc-yukon-trans": {
+  "title": "Dubai: entrada para KidZania con traslado privado en GMC Yukon",
+  "metaTitle": "Dubai: entrada para KidZania con traslado privado en GMC Yukon",
+  "metaDescription": "Experiencia de medio dia en Dubai. . Ofrecido por HARBOR TOURISM LLC.",
+  "shortDescription": "Experiencia de medio dia en Dubai. . Ofrecido por HARBOR TOURISM LLC.",
+  "fullDescription": "Una experiencia de medio dia en Dubai. Enjoy a fun-filled day at KidZania Dubai with an entry ticket.\n\nHARBOR TOURISM LLC la organiza, y 6 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye entrada para KidZania Dubai, traslado privado en SUV GMC Yukon, chofer profesional y vehiculo con aire acondicionado. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 446 $ juntos en lugar de 419 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Experiencia de medio dia en Dubai. . Ofrecido por HARBOR TOURISM LLC."
+  ],
+  "included": [
+   "Entrada para KidZania Dubai",
+   "Traslado privado en SUV GMC Yukon",
+   "Chofer profesional",
+   "Vehiculo con aire acondicionado"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "city-palace-heritage-full-day-tour": {
