@@ -34442,6 +34442,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Billets d'entrée"
   ]
  },
+ "3-day-golden-triangle-getaway-from-mumbai-by": {
+  "title": "Escapade de 3 jours au Triangle d'Or depuis Mumbai en avion",
+  "metaTitle": "Escapade de 3 jours au Triangle d'Or depuis Mumbai",
+  "metaDescription": "Escapade de 3 jours au Triangle d'Or depuis Mumbai en avion, avec assistance 24h/24 et 7j/7.",
+  "shortDescription": "Nous offrons une assistance client 24h/24 et 7j/7.",
+  "fullDescription": "Escapade de 3 jours au Triangle d'Or depuis Mumbai en avion. Nous offrons une assistance client 24h/24 et 7j/7.\n\n### Ce qui est inclus\n\n- Hébergement : 2 nuits en hôtels 4 étoiles (uniquement avec l'option circuit)\n- Repas : petit-déjeuner quotidien à l'hôtel (uniquement avec l'option circuit)\n- Transport : véhicule climatisé pour tous les transferts et visites\n- Circuits guidés : guides locaux anglophones pour les principales visites\n- Frais d'entrée : frais d'entrée pour les monuments et attractions (uniquement avec l'option circuit)\n- Billets d'avion aller-retour (uniquement avec l'option circuit)\n- Toutes les taxes et frais de service applicables\n- Assistance tout au long du circuit 24h/24 et 7j/7\n- Bouteille d'eau fournie pendant le trajet\n- WIFI à bord\n\n### Non inclus\n\n- Dépenses personnelles : toute dépense personnelle telle que pourboires, souvenirs, repas ou boissons supplémentaires, et shopping\n- Activités optionnelles\n- Gratifications : pourboires pour le guide, le chauffeur ou le personnel de l'hôtel\n- Prise en charge et dépose depuis l'aéroport de Mumbai (nous pouvons aider si nécessaire)\n- Repas : déjeuner et dîner",
+  "highlights": [
+   "Nous offrons une assistance client 24h/24 et 7j/7"
+  ],
+  "included": [
+   "Hébergement : 2 nuits en hôtels 4 étoiles (uniquement avec l'option circuit)\nRepas : petit-déjeuner quotidien à l'hôtel (uniquement avec l'option circuit)\nTransport : véhicule climatisé pour tous les transferts et visites\nCircuits guidés : guides locaux anglophones pour les principales visites\nFrais d'entrée : frais d'entrée pour les monuments et attractions (uniquement avec l'option circuit)\nBillets d'avion aller-retour (uniquement avec l'option circuit)\nToutes les taxes et frais de service applicables\nAssistance tout au long du circuit 24h/24 et 7j/7\nBouteille d'eau fournie pendant le trajet\nWIFI à bord"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles : toute dépense personnelle telle que pourboires, souvenirs, repas ou boissons supplémentaires, et shopping\nActivités optionnelles\nGratifications : pourboires pour le guide, le chauffeur ou le personnel de l'hôtel\nPrise en charge et dépose depuis l'aéroport de Mumbai (nous pouvons aider si nécessaire)\nRepas : déjeuner et dîner"
+  ]
+ },
+ "jaipur-luxury-tuk-tuk-food-photo-tour-with-pickup": {
+  "title": "Jaipur : circuit gastronomique et photo en tuk-tuk de luxe avec prise en charge",
+  "metaTitle": "Jaipur : circuit gastronomique et photo en tuk-tuk",
+  "metaDescription": "Savourez les saveurs de Jaipur avec une journée entière de gastronomie condensée en 4 heures, à bord d'un tuk-tuk de luxe.",
+  "shortDescription": "Savourez les saveurs de Jaipur avec une journée entière de gastronomie condensée en 4 heures",
+  "fullDescription": "Jaipur : circuit gastronomique et photo en tuk-tuk de luxe avec prise en charge. Savourez les saveurs de Jaipur avec une journée entière de gastronomie condensée en 4 heures.\n\nCe voyage culinaire de 4 heures condense toute une journée de repas d'un habitant de Jaipur en un seul circuit inoubliable.\n\nCommencez par le petit-déjeuner et terminez par le dîner et le dessert, tout en voyageant avec style dans un tuk-tuk de luxe aux sièges rembourrés et à la musique locale diffusée sur un haut-parleur pendant que vous parcourez les sites. Un véritable régal pour tous vos sens : un festin pour vos papilles, vos yeux et votre âme !\n\nItinéraire (une journée d'un habitant dans une assiette)\n\nLieu de prise en charge : votre hôtel à Jaipur\n\nPetit-déjeuner :\nArrêt lassi sucré : commencez votre journée avec un lassi crémeux, servi bien frais dans une tasse en argile.\nDégustation de pyaaz kachori : goûtez à la pâtisserie emblématique du petit-déjeuner de Jaipur, farcie d'oignons épicés.\n\nCollations matinales :\nGol gappa (pani puri) : des boules d'eau croustillantes remplies de chutney acidulé et d'eau épicée.\nAloo tikki chaat : des galettes de pomme de terre dorées garnies de yaourt, de chutneys et d'épices.\n\nArrêt photo : Hawa Mahal, bref arrêt pour photos et selfies ! (environ 15 minutes)\nPrenez en photo le monument le plus emblématique de la ville, resplendissant de grès rose.\n\nCollation de l'après-midi : mirchi vada avec thé masala, des beignets de piment épicés accompagnés d'un chai chaud et épicé.\n\nDîner : masala dosa, un classique indien savouré à travers Jaipur, un dosa croustillant farci de pommes de terre épicées, servi avec des chutneys et du sambar.\n\nDessert : mawa kachori, terminez en douceur avec cette riche pâtisserie fourrée de fruits secs et de mawa (un pudding au lait), trempée dans un sirop de sucre.\n\nFinale photo : musée Albert Hall, terminez par des photos au superbe musée indo-sarrasin de Jaipur, magnifiquement éclairé en soirée (si vous choisissez un horaire plus tardif).\n\nRetour à : votre hôtel à Jaipur\n\nEnfin, nous vous déposerons à votre hôtel, afin que vous puissiez sombrer dans un délicieux coma alimentaire !\n\n*Circuit disponible le matin ou en fin d'après-midi.\n**Certains arrêts culinaires peuvent changer selon la disponibilité.\n***Peut s'adapter aux restrictions alimentaires.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel\n- Guide touristique en direct\n- Dégustation de 8 plats authentiques (prix de la nourriture et des boissons inclus)\n- Arrêt photo au Hawa Mahal et au musée Albert Hall\n\n### Non inclus\n\n- Dépenses personnelles\n- Gratifications\n- Portions supplémentaires\n- Nourriture non mentionnée dans la description\n- Eau/boissons supplémentaires\n- Boissons alcoolisées",
+  "highlights": [
+   "Savourez les saveurs de Jaipur avec une journée entière de gastronomie condensée en 4 heures"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel\nGuide touristique en direct\nDégustation de 8 plats authentiques (prix de la nourriture et des boissons inclus)\nArrêt photo au Hawa Mahal et au musée Albert Hall"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles\nGratifications\nPortions supplémentaires\nNourriture non mentionnée dans la description\nEau/boissons supplémentaires\nBoissons alcoolisées"
+  ]
+ },
+ "from-jaipur-day-trip-to-chand-baori-and-bhangarh": {
+  "title": "Depuis Jaipur : excursion d'une journée à Chand Baori et au Fort de Bhangarh",
+  "metaTitle": "Depuis Jaipur : excursion à Chand Baori et Bhangarh",
+  "metaDescription": "Découvrez les trésors de Chand Baori avec un guide, pour des perspectives exclusives, lors de cette excursion d'une journée.",
+  "shortDescription": "Découvrez les trésors de Chand Baori avec un guide, pour des perspectives exclusives.",
+  "fullDescription": "Depuis Jaipur : excursion d'une journée à Chand Baori et au Fort de Bhangarh. Découvrez les trésors de Chand Baori avec un guide, pour des perspectives exclusives.\n\nPartez pour un voyage intriguant vers Chand Baori, une ancienne baoli datant d'un millénaire, nichée à Abhaneri. Découvrez son architecture remarquable lors d'un circuit guidé, en naviguant à travers son labyrinthe complexe de 3 500 marches réparties sur 13 niveaux, plongeant à 100 pieds dans la terre, ce qui en fait l'une des structures les plus profondes et les plus grandioses de l'Inde. Ensuite, explorez l'inquiétant Fort de Bhangarh, célèbre pour ses légendes troublantes et son attrait mystérieux, faisant de cette excursion depuis Jaipur un parfait mélange d'histoire et de mystère.\n\nPrise en charge à votre hôtel à Jaipur et route vers Abhaneri.\nCommencez votre voyage avec un accueil chaleureux de votre chauffeur à Jaipur, en entamant un trajet pittoresque de 3 heures vers le charmant village de Chand Baori. Niché dans le paysage rural, cette superbe merveille architecturale vous invite à découvrir ses secrets.\n\nVisite de la baoli d'Abhaneri\nÀ votre arrivée, découvrez l'impressionnante baoli de Chand Baori avec son design géométrique précis et son ingénierie impressionnante. Plongez dans sa riche histoire en descendant les marches étroites, en vous imprégnant de l'atmosphère paisible et en comprenant la profonde importance culturelle de cette merveille ancienne.\n\nExploration du Fort de Bhangarh\nEnsuite, visitez les ruines hantées du Fort de Bhangarh, célèbre pour ses récits paranormaux et sa réputation hantée. Prenez votre temps pour explorer les vestiges bien préservés de cette forteresse du 17e siècle, mais gardez à l'esprit que l'exploration nocturne de la forteresse est strictement interdite en raison d'activités surnaturelles signalées.\n\nAventurez-vous à travers les ruines inquiétantes du Fort de Bhangarh, en découvrant le mystère derrière son abandon il y a des siècles. Flânez à travers les vestiges du palais du roi, détendez-vous près de l'étang paisible du palais, et découvrez les anciens temples, havelis et portails majestueux du fort, tout en vous émerveillant devant son design complexe et son histoire fascinante.\n\nAprès un circuit passionnant, retournez à Jaipur, en réfléchissant aux histoires captivantes et aux merveilles architecturales de la journée.\n\n### Ce qui est inclus\n\n- Transferts privés aller-retour depuis Jaipur\n- Billets d'entrée à la baoli de Chand Baori avec guide\n- Billets d'entrée au Fort de Bhangarh\n- Eau en bouteille\n\n### Non inclus\n\n- Nourriture et boissons\n- Gratifications\n- Dépenses personnelles",
+  "highlights": [
+   "Découvrez les trésors de Chand Baori avec un guide, pour des perspectives exclusives"
+  ],
+  "included": [
+   "Transferts privés aller-retour depuis Jaipur\nBillets d'entrée à la baoli de Chand Baori avec guide\nBillets d'entrée au Fort de Bhangarh\nEau en bouteille"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons\nGratifications\nDépenses personnelles"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",

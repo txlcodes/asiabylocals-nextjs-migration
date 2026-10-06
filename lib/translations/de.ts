@@ -34442,6 +34442,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittskarten"
   ]
  },
+ "3-day-golden-triangle-getaway-from-mumbai-by": {
+  "title": "3-tägiger Goldenes-Dreieck-Ausflug ab Mumbai per Flug",
+  "metaTitle": "3-tägiger Goldenes-Dreieck-Ausflug ab Mumbai",
+  "metaDescription": "3-tägiger Goldenes-Dreieck-Ausflug ab Mumbai per Flug, mit Unterstützung rund um die Uhr an 24 Stunden und 7 Tagen.",
+  "shortDescription": "Wir bieten 24/7-Kundensupport.",
+  "fullDescription": "3-tägiger Goldenes-Dreieck-Ausflug ab Mumbai per Flug. Wir bieten 24/7-Kundensupport.\n\n### Inklusive\n\n- Unterkunft: 2 Übernachtungen in 4-Sterne-Hotels (nur mit Tour-Option)\n- Mahlzeiten: tägliches Frühstück im Hotel (nur mit Tour-Option)\n- Transport: klimatisiertes Fahrzeug für alle Transfers und Besichtigungen\n- Geführte Touren: lokale englischsprachige Führer für die wichtigsten Besichtigungen\n- Eintrittsgebühren: Eintrittsgebühren für Denkmäler und Attraktionen (nur mit Tour-Option)\n- Hin- und Rückflugtickets (nur mit Tour-Option)\n- Alle anfallenden Steuern und Servicegebühren\n- Betreuung während der gesamten Tour 24/7\n- Wasserflasche wird während der Reise bereitgestellt\n- WLAN an Bord\n\n### Nicht inklusive\n\n- Persönliche Ausgaben: jegliche persönlichen Ausgaben wie Trinkgelder, Souvenirs, zusätzliche Mahlzeiten oder Getränke und Einkäufe\n- Optionale Aktivitäten\n- Trinkgelder: Trinkgelder für Führer, Fahrer oder Hotelpersonal\n- Abholung und Rückfahrt vom Flughafen Mumbai (wir können bei Bedarf helfen)\n- Mahlzeiten: Mittag- und Abendessen",
+  "highlights": [
+   "Wir bieten 24/7-Kundensupport"
+  ],
+  "included": [
+   "Unterkunft: 2 Übernachtungen in 4-Sterne-Hotels (nur mit Tour-Option)\nMahlzeiten: tägliches Frühstück im Hotel (nur mit Tour-Option)\nTransport: klimatisiertes Fahrzeug für alle Transfers und Besichtigungen\nGeführte Touren: lokale englischsprachige Führer für die wichtigsten Besichtigungen\nEintrittsgebühren: Eintrittsgebühren für Denkmäler und Attraktionen (nur mit Tour-Option)\nHin- und Rückflugtickets (nur mit Tour-Option)\nAlle anfallenden Steuern und Servicegebühren\nBetreuung während der gesamten Tour 24/7\nWasserflasche wird während der Reise bereitgestellt\nWLAN an Bord"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben: jegliche persönlichen Ausgaben wie Trinkgelder, Souvenirs, zusätzliche Mahlzeiten oder Getränke und Einkäufe\nOptionale Aktivitäten\nTrinkgelder: Trinkgelder für Führer, Fahrer oder Hotelpersonal\nAbholung und Rückfahrt vom Flughafen Mumbai (wir können bei Bedarf helfen)\nMahlzeiten: Mittag- und Abendessen"
+  ]
+ },
+ "jaipur-luxury-tuk-tuk-food-photo-tour-with-pickup": {
+  "title": "Jaipur: Luxus-Tuk-Tuk-Food- und Fototour mit Abholung",
+  "metaTitle": "Jaipur: Luxus-Tuk-Tuk-Food- und Fototour",
+  "metaDescription": "Genießen Sie die Aromen von Jaipur mit einem ganzen Esstag in nur 4 Stunden, an Bord eines Luxus-Tuk-Tuks.",
+  "shortDescription": "Genießen Sie die Aromen von Jaipur mit einem ganzen Esstag in nur 4 Stunden",
+  "fullDescription": "Jaipur: Luxus-Tuk-Tuk-Food- und Fototour mit Abholung. Genießen Sie die Aromen von Jaipur mit einem ganzen Esstag in nur 4 Stunden.\n\nDiese 4-stündige kulinarische Reise verdichtet den ganzen Esstag eines Jaipur-Einheimischen in eine unvergessliche Tour.\n\nBeginnen Sie mit dem Frühstück und enden Sie mit Abendessen und Dessert, während Sie stilvoll in einem Luxus-Tuk-Tuk mit gepolsterten Sitzen und lokaler Musik vom Lautsprecher fahren und die Sehenswürdigkeiten besichtigen. Ein wahrer Genuss für alle Sinne: ein Festmahl für Ihren Geschmack, Ihre Augen und Ihre Seele!\n\nReiseplan (ein Tag eines Einheimischen auf einem Teller)\n\nAbholort: Ihr Hotel in Jaipur\n\nFrühstück:\nSüßer-Lassi-Stopp: Beginnen Sie Ihren Tag mit cremigem Lassi, gekühlt in einem Tonbecher serviert.\nPyaaz-Kachori-Verkostung: Probieren Sie Jaipurs typisches Frühstücksgebäck gefüllt mit gewürzten Zwiebeln.\n\nMorgensnacks:\nGol Gappa (Pani Puri): knusprige Wasserbällchen gefüllt mit würzigem Chutney und gewürztem Wasser.\nAloo Tikki Chaat: goldene Kartoffelpuffer belegt mit Joghurt, Chutneys und Gewürzen.\n\nFotostopp: Hawa Mahal, kurzer Stopp für Fotos und Selfies! (ca. 15 Minuten)\nFotografieren Sie das ikonischste Wahrzeichen der Stadt, das in rosa Sandstein erstrahlt.\n\nNachmittagssnack: Mirchi Vada mit Masala-Tee, feurige Chili-Frikadellen gepaart mit heißem, gewürztem Chai.\n\nAbendessen: Masala Dosa, ein indischer Klassiker, der in ganz Jaipur genossen wird: knusprige Dosa gefüllt mit gewürzten Kartoffeln, serviert mit Chutneys und Sambar.\n\nDessert: Mawa Kachori, beenden Sie süß mit diesem reichhaltigen Gebäck gefüllt mit Trockenfrüchten und Mawa (ein Milchpudding), getränkt in Zuckersirup.\n\nFoto-Finale: Albert Hall Museum, beenden Sie mit Fotos an Jaipurs atemberaubendem indo-sarazenischem Museum, wunderschön beleuchtet am Abend (falls Sie eine spätere Zeit wählen).\n\nRückkehr zu: Ihrem Hotel in Jaipur\n\nZum Schluss setzen wir Sie an Ihrem Hotel ab, damit Sie in ein süßes Essenskoma fallen können!\n\n*Morgen- oder Spätnachmittagstour verfügbar.\n**Einige Essensstopps können je nach Verfügbarkeit wechseln.\n***Kann auf Ernährungseinschränkungen eingehen.\n\n### Inklusive\n\n- Abholung und Rückfahrt vom Hotel\n- Live-Reiseführer\n- Verkostung von 8 authentischen Gerichten (Preis für Essen und Getränke enthalten)\n- Fotostopp am Hawa Mahal und Albert Hall Museum\n\n### Nicht inklusive\n\n- Persönliche Ausgaben\n- Trinkgelder\n- Zusätzliche Portionen\n- Essen, das nicht in der Beschreibung erwähnt ist\n- Wasser/zusätzliche Getränke\n- Alkoholische Getränke",
+  "highlights": [
+   "Genießen Sie die Aromen von Jaipur mit einem ganzen Esstag in nur 4 Stunden"
+  ],
+  "included": [
+   "Abholung und Rückfahrt vom Hotel\nLive-Reiseführer\nVerkostung von 8 authentischen Gerichten (Preis für Essen und Getränke enthalten)\nFotostopp am Hawa Mahal und Albert Hall Museum"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben\nTrinkgelder\nZusätzliche Portionen\nEssen, das nicht in der Beschreibung erwähnt ist\nWasser/zusätzliche Getränke\nAlkoholische Getränke"
+  ]
+ },
+ "from-jaipur-day-trip-to-chand-baori-and-bhangarh": {
+  "title": "Ab Jaipur: Tagesausflug zu Chand Baori und Bhangarh-Fort",
+  "metaTitle": "Ab Jaipur: Tagesausflug zu Chand Baori, Bhangarh",
+  "metaDescription": "Entdecken Sie die Schätze von Chand Baori mit einem Reiseführer, für exklusive Einblicke, bei diesem Tagesausflug.",
+  "shortDescription": "Entdecken Sie die Schätze von Chand Baori mit einem Reiseführer, für exklusive Einblicke.",
+  "fullDescription": "Ab Jaipur: Tagesausflug zu Chand Baori und Bhangarh-Fort. Entdecken Sie die Schätze von Chand Baori mit einem Reiseführer, für exklusive Einblicke.\n\nBegeben Sie sich auf eine faszinierende Reise zu Chand Baori, einem antiken Stufenbrunnen, der auf ein Jahrtausend zurückgeht und in Abhaneri liegt. Erleben Sie seine bemerkenswerte Architektur bei einer geführten Tour, während Sie durch sein kompliziertes Labyrinth aus 3.500 Stufen navigieren, die sich über 13 Stockwerke erstrecken und 100 Fuß tief in die Erde reichen, was es zu einer der tiefsten und großartigsten Strukturen Indiens macht. Anschließend erkunden Sie das unheimliche Bhangarh-Fort, berühmt für seine gruseligen Legenden und seinen mysteriösen Reiz, was diesen Tagesausflug ab Jaipur zu einer perfekten Mischung aus Geschichte und Intrige macht.\n\nAbholung von Ihrem Hotel in Jaipur und Fahrt nach Abhaneri.\nBeginnen Sie Ihre Reise mit einer freundlichen Begrüßung durch Ihren Fahrer in Jaipur und einer malerischen 3-stündigen Fahrt zum beschaulichen Dorf Chand Baori. Versteckt in der ländlichen Landschaft, lädt dieses atemberaubende architektonische Wunder Sie ein, seine Geheimnisse zu entdecken.\n\nBesuch des Abhaneri-Stufenbrunnens\nBei Ihrer Ankunft bestaunen Sie den beeindruckenden Chand-Baori-Stufenbrunnen mit seinem präzisen geometrischen Design und beeindruckender Ingenieurskunst. Tauchen Sie ein in seine reiche Geschichte, während Sie die engen Stufen hinabsteigen, die friedliche Atmosphäre aufnehmen und die tiefe kulturelle Bedeutung dieses antiken Wunders verstehen.\n\nErkundung des Bhangarh-Forts\nAls Nächstes besuchen Sie die verwunschenen Ruinen des Bhangarh-Forts, berühmt für seine paranormalen Geschichten und seinen gruseligen Ruf. Nehmen Sie sich Zeit, um die gut erhaltenen Überreste dieser Festung aus dem 17. Jahrhundert zu erkunden, aber bedenken Sie, dass die nächtliche Erkundung der Festung aufgrund gemeldeter übernatürlicher Aktivitäten strengstens verboten ist.\n\nWagen Sie sich durch die unheimlichen Ruinen des Bhangarh-Forts und enträtseln Sie das Mysterium hinter seiner Verlassenheit vor Jahrhunderten. Schlendern Sie durch die Überreste des Königspalastes, entspannen Sie sich am ruhigen Palastteich und entdecken Sie die antiken Tempel, Havelis und majestätischen Tore des Forts, während Sie über sein kompliziertes Design und seine faszinierende Geschichte staunen.\n\nNach einer aufregenden Tour kehren Sie zurück nach Jaipur und lassen die fesselnden Geschichten und architektonischen Wunder des Tages Revue passieren.\n\n### Inklusive\n\n- Private Hin- und Rücktransfers ab Jaipur\n- Eintrittskarten für den Chand-Baori-Stufenbrunnen mit Reiseführer\n- Eintrittskarten für das Bhangarh-Fort\n- Wasser in Flaschen\n\n### Nicht inklusive\n\n- Essen und Getränke\n- Trinkgelder\n- Persönliche Ausgaben",
+  "highlights": [
+   "Entdecken Sie die Schätze von Chand Baori mit einem Reiseführer, für exklusive Einblicke"
+  ],
+  "included": [
+   "Private Hin- und Rücktransfers ab Jaipur\nEintrittskarten für den Chand-Baori-Stufenbrunnen mit Reiseführer\nEintrittskarten für das Bhangarh-Fort\nWasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Essen und Getränke\nTrinkgelder\nPersönliche Ausgaben"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
