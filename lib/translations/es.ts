@@ -37130,6 +37130,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Bebidas alcoholicas (disponibles para comprar)\nFotos de recuerdo (disponibles para comprar)\nPropinas (opcional)\nAgua embotellada y bebidas durante el almuerzo"
   ]
  },
+ "jaipur-sightseeing-tour-with-visit-to-galtaji": {
+  "title": "Jaipur: tour turistico con visita al Templo de los Monos de Galtaji",
+  "metaTitle": "Jaipur, tour turistico, Galtaji",
+  "metaDescription": "Experimente nuestra hospitalidad en un tour privado de dia completo por Jaipur: Fuerte Amber, Jal Mahal, City Palace, Hawa Mahal y Galtaji.",
+  "shortDescription": "Experimente nuestra calida hospitalidad con un tour turistico privado de dia completo por Jaipur",
+  "fullDescription": "Jaipur: tour turistico con visita al Templo de los Monos de Galtaji. Experimente nuestra calida hospitalidad con un tour turistico privado de dia completo por Jaipur.\n\nFuerte Amber:\nSituado en una colina en Amer, Rajasthan, el Fuerte Amber se alza como una magnifica fortaleza, a 11 kilometros de Jaipur. La ciudad de Amer, que cubre 4 kilometros cuadrados, es conocida por su estilo arquitectonico distintivo. Una importante atraccion turistica, el fuerte cuenta con elementos artisticos que muestran la rica historia de la region.\n\nJal Mahal:\nSituado en medio de las tranquilas aguas del lago Man Sagar en Jaipur, el Jal Mahal es una maravilla arquitectonica que data de 1699. Construido originalmente, sufrio extensas renovaciones y ampliaciones en el siglo XVIII bajo el patrocinio del Maharaja Jai Singh II de Amber. El palacio es un elemento cautivador del paisaje de Jaipur.\n\nCity Palace:\nResidencia real y antiguo centro administrativo, el City Palace de Jaipur, Rajasthan, es un testimonio de la opulencia de los gobernantes del Estado de Jaipur. La construccion comenzo durante el reinado del Maharaja Sawai Jai Singh II, el fundador de Jaipur, quien traslado la corte desde Amber. El palacio se alza como una maravilla arquitectonica de gran importancia historica.\n\nJantar Mantar:\nEl Jantar Mantar de Jaipur, encargado por el rey rajput Sawai Jai Singh II en 1734, comprende 19 instrumentos astronomicos. Situado cerca del City Palace y del Hawa Mahal, tiene el honor de albergar el reloj de sol de piedra mas grande del mundo. Este sitio esta reconocido como sitio Patrimonio de la Humanidad de la UNESCO, mostrando la innovacion cientifica.\n\nHawa Mahal:\nConstruido con vibrante arenisca roja y rosa, el Hawa Mahal adorna la ciudad de Jaipur, India. Posicionado en la periferia del City Palace, se extiende hacia el Zenana, las camaras de las mujeres. Este palacio se alza como un ejemplo llamativo de finura arquitectonica, representando una parte integral del patrimonio cultural de Jaipur.\n\nGaltaji (Templo de los Monos):\nGaltaji, situado a unos 10 km de Jaipur, sirve como un antiguo sitio de peregrinacion hindu en el estado de Rajasthan. Anidado en las colinas que rodean Jaipur, el sitio comprende una serie de templos construidos en una estrecha grieta. Conocido como el Templo de los Monos, Galtaji tiene importancia religiosa y ofrece una experiencia espiritual unica.\n\n### Incluye\n\n- Coche privado con aire acondicionado y conductor profesional que habla ingles\n- Incluye combustible, tarifas de aparcamiento, y todos los impuestos\n- Recogida y regreso al hotel\n- Guia turistico privado certificado en vivo\n- Botella de agua de cortesia\n\n### No incluye\n\n- Tarifas de entrada a los monumentos\n- Comidas durante el tour\n- Propinas para el conductor y el guia",
+  "highlights": [
+   "Experimente nuestra calida hospitalidad con un tour turistico privado de dia completo por Jaipur"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado y conductor profesional que habla ingles\nIncluye combustible, tarifas de aparcamiento, y todos los impuestos\nRecogida y regreso al hotel\nGuia turistico privado certificado en vivo\nBotella de agua de cortesia"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a los monumentos\nComidas durante el tour\nPropinas para el conductor y el guia"
+  ]
+ },
+ "private-full-day-jaipur-guided-tour-with-monkey": {
+  "title": "Tour privado guiado de dia completo por Jaipur con el Templo de los Monos",
+  "metaTitle": "Jaipur, tour privado de dia completo",
+  "metaDescription": "Disfrute de un coche privado con aire acondicionado y conductor: Hawa Mahal, Fuerte Amber, Jal Mahal, City Palace, Jantar Mantar y el Templo de los Monos.",
+  "shortDescription": "Disfrute de la comodidad de un coche privado con aire acondicionado y conductor.",
+  "fullDescription": "Tour privado guiado de dia completo por Jaipur con el Templo de los Monos. Disfrute de la comodidad de un coche privado con aire acondicionado y conductor.\n\nExperimente las maravillas de Jaipur con un guia privado y un conductor como companeros.\n*** Hawa Mahal ***\nAdmire el impresionante Palacio Hawa Mahal y aprenda sobre su intrincado diseno de celosia de su conocedor guia. Sumerjase en la rica historia y arquitectura de esta region mientras explora junto a su guia profesional.\n\n*** Pozo escalonado de Panna Meena ***\nDisfrute de un dia comodo y sin estres conduciendo suavemente entre paradas. Uno de los sitios imprescindibles es el Pozo Escalonado de Panna Meena, una antigua maravilla arquitectonica con una disposicion distintiva de escalones que conducen a un pozo. Disfrute de la atmosfera serena y maravillese con el diseno geometrico de esta joya historica.\n\n*** Fuerte Amber y Jal Mahal ***\nExperimente la impresionante belleza del Fuerte Amber, hecho de arenisca roja y marmol, asi como el unico Jal Mahal, que esta parcialmente sumergido en el agua.\n\n*** Royal Gaitor Tumbas ***\nAdentrese en el pasado con una visita al Royal Gaitor Tumbas, una maravilla arquitectonica en Jaipur. Este gran sitio tiene gran importancia historica, ya que alberga los cenotafios de los Maharajas y sus familias.\n\nDisfrute de los deliciosos sabores de la cocina local mientras su guia lo lleva a un restaurante para el almuerzo.\n\n*** City Palace ***\nDespues, visite el City Palace, que sirve como residencia del Maharaja de Jaipur y jefe del clan Kachwaha Rajput. Si bien parte de el se ha convertido en museo, gran parte sigue siendo una residencia real.\n\n*** Jantar Mantar ***\nConcluya su tour con una visita al Jantar Mantar (observatorio), donde podra maravillarse con los intrincados instrumentos arquitectonicos y astronomicos. Este sitio historico seguramente le dejara asombrado por los avances tecnologicos de su epoca.\n\n*** Templo de los Monos ***\nOriginalmente conocido como Galtaji, pero comunmente llamado el Templo del Dios Sol o Templo de los Monos, este complejo de templos del siglo XVIII tiene muchos nombres. La principal atraccion es un sistema de estanques de agua de varios niveles llamados kunds, que conduce hasta el templo central, con techos redondeados tradicionales y pabellones tipicos del estilo arquitectonico de Rajasthan.\n\nDese un tranquilo paseo por las calles estrechas y experimente los bulliciosos mercados de Jaipur. Con su atmosfera vibrante, se sumergira en la cultura local y tendra la oportunidad de explorar productos unicos de vendedores locales.\n\n### Incluye\n\n- Transporte en coche privado con aire acondicionado\n- Guia local privado (opcion disponible)\n- Botellas de agua mineral en el coche\n- Todos los impuestos, tarifas, y cargos de manejo\n- Recargo de combustible y tarifa de aparcamiento\n\n### No incluye\n\n- Tarifas de entrada a los monumentos\n- Almuerzo o cena\n- Propinas (opcional)",
+  "highlights": [
+   "Disfrute de la comodidad de un coche privado con aire acondicionado y conductor."
+  ],
+  "included": [
+   "Transporte en coche privado con aire acondicionado\nGuia local privado (opcion disponible)\nBotellas de agua mineral en el coche\nTodos los impuestos, tarifas, y cargos de manejo\nRecargo de combustible y tarifa de aparcamiento"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a los monumentos\nAlmuerzo o cena\nPropinas (opcional)"
+  ]
+ },
+ "jaipur-flower-market-temple-walking-tour-with-chai": {
+  "title": "Jaipur: tour a pie por el mercado de flores y templos con chai",
+  "metaTitle": "Jaipur, mercado de flores, templos, chai",
+  "metaDescription": "Capture fotos para Instagram en el Hawa Mahal, la Puerta Azul y edificios patrimoniales, y descubra el mercado de flores y un templo hindu activo.",
+  "shortDescription": "Capture fotos para Instagram en el Hawa Mahal, la Puerta Azul y edificios patrimoniales",
+  "fullDescription": "Jaipur: tour a pie por el mercado de flores y templos con chai. Capture fotos para Instagram en el Hawa Mahal, la Puerta Azul y edificios patrimoniales.\n\nComience su dia antes de que la Ciudad Rosa despierte. Reunase con su guia local en el emblematico Hawa Mahal (Palacio de los Vientos) para una parada fotografica sin multitudes, y escuche la historia oculta detras de sus 953 ventanas.\n\nCamine por calles patrimoniales vacias hacia la Puerta Azul y el Ayuntamiento. Alimente a las palomas, capture impresionantes fotos de edificios patrimoniales sin trafico, y descubra secretos de Jaipur que solo los locales conocen.\n\nLuego, sumerjase en el vibrante mercado mayorista de flores y verduras. Camine entre montanas de caléndulas frescas, rosas, y lotos traidos por agricultores de pueblos cercanos. Aprenda como se usan las flores en templos, bodas, y festivales, y tome fotos coloridas que no podra obtener mas tarde en el dia.\n\nLo mas destacado: entre en un templo hindu activo durante las oraciones matutinas. Experimente a los fieles cantando, los tambores sonando, y las flores siendo ofrecidas, un momento verdaderamente espiritual que la mayoria de los turistas se pierden.\n\nTermine su paseo como un local, con una humeante taza de masala chai de nuestro puesto de te favorito.\n\nEste es el tour perfecto para comenzar en Jaipur: pacifico, fotogenico, seguro, y lleno de vida local.\n\n### Incluye\n\n- Guia local que habla ingles\n- Experiencia en grupo pequeno\n- Masala chai (te) en un puesto de te local\n\n### No incluye\n\n- Recogida y regreso al hotel (disponible como complemento)\n- Propinas",
+  "highlights": [
+   "Capture fotos para Instagram en el Hawa Mahal, la Puerta Azul y edificios patrimoniales"
+  ],
+  "included": [
+   "Guia local que habla ingles\nExperiencia en grupo pequeno\nMasala chai (te) en un puesto de te local"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel (disponible como complemento)\nPropinas"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",

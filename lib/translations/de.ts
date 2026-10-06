@@ -37130,6 +37130,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Alkoholische Getraenke (zum Kauf erhaeltlich)\nSouvenirfotos (zum Kauf erhaeltlich)\nTrinkgelder (optional)\nWasser in Flaschen und Getraenke waehrend des Mittagessens"
   ]
  },
+ "jaipur-sightseeing-tour-with-visit-to-galtaji": {
+  "title": "Jaipur: Besichtigungstour mit Besuch des Affentempels Galtaji",
+  "metaTitle": "Jaipur, Besichtigung, Galtaji",
+  "metaDescription": "Erleben Sie unsere Gastfreundschaft bei einer privaten Tagestour durch Jaipur: Amber Fort, Jal Mahal, City Palace, Hawa Mahal und Galtaji.",
+  "shortDescription": "Erleben Sie unsere herzliche Gastfreundschaft mit einer privaten ganztaegigen Jaipur-Stadtbesichtigung",
+  "fullDescription": "Jaipur: Besichtigungstour mit Besuch des Affentempels Galtaji. Erleben Sie unsere herzliche Gastfreundschaft mit einer privaten ganztaegigen Jaipur-Stadtbesichtigung.\n\nAmber Fort:\nAuf einem Huegel in Amer, Rajasthan, gelegen, steht das Amber Fort als grossartige Festung, 11 Kilometer von Jaipur entfernt. Die Stadt Amer, die 4 Quadratkilometer umfasst, ist bekannt fuer ihren markanten Architekturstil. Als bedeutende Touristenattraktion bietet die Festung kuenstlerische Elemente, die die reiche Geschichte der Region zeigen.\n\nJal Mahal:\nInmitten der ruhigen Gewaesser des Man-Sagar-Sees in Jaipur gelegen, ist der Jal Mahal ein architektonisches Wunder aus dem Jahr 1699. Urspruenglich erbaut, wurde er im XVIII. Jahrhundert unter der Patronage des Maharaja Jai Singh II. von Amber umfassend renoviert und erweitert. Der Palast ist ein faszinierendes Merkmal der Landschaft Jaipurs.\n\nCity Palace:\nAls koenigliche Residenz und ehemaliges Verwaltungszentrum ist der City Palace in Jaipur, Rajasthan, ein Zeugnis des Prunks der Herrscher des Staates Jaipur. Der Bau begann unter der Herrschaft von Maharaja Sawai Jai Singh II., dem Gruender Jaipurs, der den Hof von Amber verlegte. Der Palast steht als architektonisches Wunder mit historischer Bedeutung.\n\nJantar Mantar:\nDas Jantar Mantar in Jaipur, in Auftrag gegeben von dem Rajput-Koenig Sawai Jai Singh II. im Jahr 1734, umfasst 19 astronomische Instrumente. In der Naehe des City Palace und des Hawa Mahal gelegen, beherbergt es die groesste steinerne Sonnenuhr der Welt. Diese Staette ist als UNESCO-Weltkulturerbestaette anerkannt und zeigt wissenschaftliche Innovation.\n\nHawa Mahal:\nAus lebendigem rotem und rosa Sandstein erbaut, schmueckt der Hawa Mahal die Stadt Jaipur, Indien. Am Rand des City Palace positioniert, erstreckt er sich in das Zenana, die Frauengemaecher. Dieser Palast steht als beeindruckendes Beispiel architektonischer Finesse und repraesentiert einen wesentlichen Teil des kulturellen Erbes Jaipurs.\n\nGaltaji (Affentempel):\nGaltaji, etwa 10 km von Jaipur entfernt, dient als alte hinduistische Pilgerstaette im Bundesstaat Rajasthan. Eingebettet in die Huegel rund um Jaipur, umfasst die Staette eine Reihe von Tempeln, die in eine enge Felsspalte gebaut wurden. Bekannt als Affentempel, hat Galtaji religioese Bedeutung und bietet ein einzigartiges spirituelles Erlebnis.\n\n### Im Preis enthalten\n\n- Privates klimatisiertes Auto mit professionellem englischsprachigem Fahrer\n- Beinhaltet Kraftstoff, Parkgebuehren, und alle Steuern\n- Abholung und Rueckfahrt zum Hotel\n- Privater zertifizierter Live-Reiseleiter\n- Kostenlose Flasche Wasser\n\n### Nicht enthalten\n\n- Eintrittsgebuehren fuer Denkmaeler\n- Mahlzeiten waehrend der Tour\n- Trinkgelder fuer Fahrer und Guide",
+  "highlights": [
+   "Erleben Sie unsere herzliche Gastfreundschaft mit einer privaten ganztaegigen Jaipur-Stadtbesichtigung"
+  ],
+  "included": [
+   "Privates klimatisiertes Auto mit professionellem englischsprachigem Fahrer\nBeinhaltet Kraftstoff, Parkgebuehren, und alle Steuern\nAbholung und Rueckfahrt zum Hotel\nPrivater zertifizierter Live-Reiseleiter\nKostenlose Flasche Wasser"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer Denkmaeler\nMahlzeiten waehrend der Tour\nTrinkgelder fuer Fahrer und Guide"
+  ]
+ },
+ "private-full-day-jaipur-guided-tour-with-monkey": {
+  "title": "Private gefuehrte Ganztagestour durch Jaipur mit dem Affentempel",
+  "metaTitle": "Jaipur, private Ganztagestour",
+  "metaDescription": "Geniessen Sie ein privates klimatisiertes Auto mit Fahrer: Hawa Mahal, Amber Fort, Jal Mahal, City Palace, Jantar Mantar und der Affentempel.",
+  "shortDescription": "Geniessen Sie den Komfort eines privaten klimatisierten Autos mit Fahrer.",
+  "fullDescription": "Private gefuehrte Ganztagestour durch Jaipur mit dem Affentempel. Geniessen Sie den Komfort eines privaten klimatisierten Autos mit Fahrer.\n\nErleben Sie die Wunder Jaipurs mit einem privaten Guide und Fahrer als Begleiter.\n*** Hawa Mahal ***\nBewundern Sie den atemberaubenden Hawa-Mahal-Palast und erfahren Sie von Ihrem sachkundigen Guide mehr ueber sein kunstvolles Gitterdesign. Tauchen Sie ein in die reiche Geschichte und Architektur dieser Region, waehrend Sie mit Ihrem professionellen Guide erkunden.\n\n*** Panna-Meena-Stufenbrunnen ***\nGeniessen Sie einen komfortablen und stressfreien Tag, indem Sie reibungslos zwischen den Stopps fahren. Eine der Sehenswuerdigkeiten, die Sie nicht verpassen sollten, ist der Panna-Meena-Stufenbrunnen, ein antikes architektonisches Wunder mit einer markanten Anordnung von Stufen, die zu einem Brunnen fuehren. Geniessen Sie die ruhige Atmosphaere und bewundern Sie das geometrische Design dieses historischen Juwels.\n\n*** Amber Fort und Jal Mahal ***\nErleben Sie die atemberaubende Schoenheit des Amber Forts, erbaut aus rotem Sandstein und Marmor, sowie den einzigartigen Jal Mahal, der teilweise im Wasser versunken ist.\n\n*** Royal Gaitor Tumbas ***\nTauchen Sie ein in die Vergangenheit mit einem Besuch der Royal Gaitor Tumbas, einem architektonischen Wunder in Jaipur. Diese grossartige Staette hat grosse historische Bedeutung, da sie die Kenotaphe der Maharajas und ihrer Familien beherbergt.\n\nGeniessen Sie die koestlichen Aromen der lokalen Kueche, waehrend Ihr Guide Sie zu einem Restaurant zum Mittagessen fuehrt.\n\n*** City Palace ***\nDanach besuchen Sie den City Palace, der als Residenz des Maharaja von Jaipur und Oberhaupt des Kachwaha-Rajput-Clans dient. Waehrend ein Teil davon zu einem Museum umgewandelt wurde, bleibt ein Grossteil weiterhin eine koenigliche Residenz.\n\n*** Jantar Mantar ***\nBeenden Sie Ihre Tour mit einem Besuch des Jantar Mantar (Observatorium), wo Sie die kunstvollen architektonischen und astronomischen Instrumente bestaunen koennen. Diese historische Staette wird Sie sicherlich mit Erstaunen ueber die technologischen Fortschritte ihrer Zeit zuruecklassen.\n\n*** Affentempel ***\nUrspruenglich als Galtaji bekannt, aber allgemein als Tempel des Sonnengottes oder Affentempel bezeichnet, hat dieser Tempelkomplex aus dem XVIII. Jahrhundert viele Namen. Die Hauptattraktion ist ein mehrstoeckiges Wasserbeckensystem namens Kunds, das zum zentralen Tempel fuehrt, mit traditionellen abgerundeten Daechern und Pavillons, typisch fuer den Architekturstil Rajasthans.\n\nMachen Sie einen gemuetlichen Spaziergang durch die engen Strassen und erleben Sie die belebten Maerkte Jaipurs. Mit seiner lebendigen Atmosphaere werden Sie in die lokale Kultur eintauchen und die Gelegenheit haben, einzigartige Waren von lokalen Haendlern zu durchsuchen.\n\n### Im Preis enthalten\n\n- Transport im privaten klimatisierten Auto\n- Privater lokaler Guide (Option verfuegbar)\n- Flaschen Mineralwasser im Auto\n- Alle Steuern, Gebuehren, und Bearbeitungskosten\n- Kraftstoffzuschlag und Parkgebuehr\n\n### Nicht enthalten\n\n- Eintrittsgebuehren fuer Denkmaeler\n- Mittag- oder Abendessen\n- Trinkgelder (optional)",
+  "highlights": [
+   "Geniessen Sie den Komfort eines privaten klimatisierten Autos mit Fahrer."
+  ],
+  "included": [
+   "Transport im privaten klimatisierten Auto\nPrivater lokaler Guide (Option verfuegbar)\nFlaschen Mineralwasser im Auto\nAlle Steuern, Gebuehren, und Bearbeitungskosten\nKraftstoffzuschlag und Parkgebuehr"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer Denkmaeler\nMittag- oder Abendessen\nTrinkgelder (optional)"
+  ]
+ },
+ "jaipur-flower-market-temple-walking-tour-with-chai": {
+  "title": "Jaipur: Wandertour zum Blumenmarkt und zu Tempeln mit Chai",
+  "metaTitle": "Jaipur, Blumenmarkt, Tempel, Chai",
+  "metaDescription": "Machen Sie Instagram-Fotos am Hawa Mahal, dem Blauen Tor und historischen Gebaeuden, und entdecken Sie den Blumenmarkt und einen aktiven Hindu-Tempel.",
+  "shortDescription": "Machen Sie Instagram-Fotos am Hawa Mahal, dem Blauen Tor und historischen Gebaeuden",
+  "fullDescription": "Jaipur: Wandertour zum Blumenmarkt und zu Tempeln mit Chai. Machen Sie Instagram-Fotos am Hawa Mahal, dem Blauen Tor und historischen Gebaeuden.\n\nBeginnen Sie Ihren Tag, bevor die Rosa Stadt erwacht. Treffen Sie Ihren lokalen Guide am ikonischen Hawa Mahal (Palast der Winde) fuer einen Fotostopp ohne Menschenmassen, und hoeren Sie die verborgene Geschichte hinter seinen 953 Fenstern.\n\nGehen Sie durch leere historische Strassen zum Blauen Tor und Rathaus. Fuettern Sie Tauben, machen Sie atemberaubende Fotos von historischen Gebaeuden ohne Verkehr, und entdecken Sie Geheimnisse Jaipurs, die nur Einheimische kennen.\n\nDann tauchen Sie ein in den lebendigen Grosshandels-Blumen- und Gemuesemarkt. Gehen Sie zwischen Bergen von frischen Ringelblumen, Rosen, und Lotusblueten, die von Bauern aus den umliegenden Doerfern gebracht werden. Erfahren Sie, wie Blumen in Tempeln, Hochzeiten, und Festen verwendet werden, und machen Sie bunte Fotos, die Sie spaeter am Tag nicht mehr bekommen.\n\nDer Hoehepunkt: Treten Sie waehrend der Morgengebete in einen aktiven Hindu-Tempel ein. Erleben Sie singende Glaeubige, trommelnde Rhythmen, und dargebotene Blumen, ein wahrhaft spiritueller Moment, den die meisten Touristen verpassen.\n\nBeenden Sie Ihren Spaziergang wie ein Einheimischer, mit einer dampfenden Tasse Masala-Chai von unserem Lieblings-Teestand.\n\nDies ist die perfekte erste Tour in Jaipur: friedlich, fotogen, sicher, und voller lokalem Leben.\n\n### Im Preis enthalten\n\n- Englischsprachiger lokaler Guide\n- Kleingruppenerfahrung\n- Masala-Chai (Tee) an einem lokalen Teestand\n\n### Nicht enthalten\n\n- Abholung und Rueckfahrt zum Hotel (als Zusatzoption verfuegbar)\n- Trinkgelder",
+  "highlights": [
+   "Machen Sie Instagram-Fotos am Hawa Mahal, dem Blauen Tor und historischen Gebaeuden"
+  ],
+  "included": [
+   "Englischsprachiger lokaler Guide\nKleingruppenerfahrung\nMasala-Chai (Tee) an einem lokalen Teestand"
+  ],
+  "notIncluded": [
+   "Abholung und Rueckfahrt zum Hotel (als Zusatzoption verfuegbar)\nTrinkgelder"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
