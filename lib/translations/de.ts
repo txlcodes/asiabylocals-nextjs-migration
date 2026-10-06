@@ -74255,7 +74255,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai: Grossmoschee von Abu Dhabi, Palast, und Kulturdorf",
   "metaDescription": "Une ganztaegigeer Ausflug ab Abu Dhabi, der Abu Dhabi Heritage Village, The Corniche, Abu Dhabi, Qasr Al Watan und Etihad Towers besucht. Angeboten von OceanAir T...",
   "shortDescription": "Une ganztaegigeer Ausflug ab Abu Dhabi, der Abu Dhabi Heritage Village, The Corniche, Abu Dhabi, Qasr Al Watan und Etihad Towers besucht. Angeboten von OceanAir Travels.",
-  "fullDescription": "Ein ganztaegigeer Ausflug ab Abu Dhabi, der Abu Dhabi Heritage Village, The Corniche, Abu Dhabi, Qasr Al Watan und Etihad Towers umfasst. Der laengste Halt ist Qasr Al Watan, mit etwa 1 hour. Es gibt insgesamt 6 Stopps.\n\nDie Reihenfolge ist Abu Dhabi Heritage Village (30 min), dann The Corniche, Abu Dhabi (10 min), dann Qasr Al Watan (1h), dann Etihad Towers (5 min), dann Emirates Palace (5 min).\n\nDer Preis beinhaltet abholung und Rueckfahrt zum Hotel in Dubai, klimatisiertes Fahrzeug, fahrer, eintritt zur Sheikh-Zayed-Großmoschee, eintritt zum Heritage Village, eintritt zum Qasr-Al-Watan-Palast und mineralwasser. Nicht enthalten sind guide und mittagessen, dafuer sollten Sie zusaetzlich budgetieren.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Abu Dhabi, der Abu Dhabi Heritage Village, The Corniche, Abu Dhabi, Qasr Al Watan und Etihad Towers umfasst. Der laengste Halt ist Qasr Al Watan, mit etwa 1 Stunde. Es gibt insgesamt 6 Stopps.\n\nDie Reihenfolge ist Abu Dhabi Heritage Village (30 min), dann The Corniche, Abu Dhabi (10 min), dann Qasr Al Watan (1h), dann Etihad Towers (5 min), dann Emirates Palace (5 min).\n\nDer Preis beinhaltet abholung und Rueckfahrt zum Hotel in Dubai, klimatisiertes Fahrzeug, fahrer, eintritt zur Sheikh-Zayed-Großmoschee, eintritt zum Heritage Village, eintritt zum Qasr-Al-Watan-Palast und mineralwasser. Nicht enthalten sind guide und mittagessen, dafuer sollten Sie zusaetzlich budgetieren.",
   "highlights": [
    "Une ganztaegigeer Ausflug ab Abu Dhabi, der Abu Dhabi Heritage Village, The Corniche, Abu Dhabi, Qasr Al Watan und Etihad Towers besucht. Angeboten von OceanAir Travels."
   ],
@@ -74499,6 +74499,489 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Trinkgelder (nicht verpflichtend)"
+  ]
+ },
+ "dubai-red-dunes-tour-on-quad-or-side-by": {
+  "title": "Dubai: rote Duenen Tour auf Quad oder Side-by-Side-ATV",
+  "metaTitle": "Dubai: rote Duenen Tour auf Quad oder Side-by-Side-ATV",
+  "metaDescription": "Une halbtaegigeer Ausflug ab Dubai, der Jeep / SUV, Dubai, Lahbab Desert und Lahbab Desert besucht. Angeboten von Dream Journey.",
+  "shortDescription": "Une halbtaegigeer Ausflug ab Dubai, der Jeep / SUV, Dubai, Lahbab Desert und Lahbab Desert besucht. Angeboten von Dream Journey.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Dubai, der Jeep / SUV, Dubai, Lahbab Desert und Lahbab Desert umfasst. Der laengste Halt ist Lahbab Desert, mit etwa 1 Stunde. Es gibt insgesamt 6 Stopps.\n\nDie Reihenfolge ist Jeep / SUV (50 min), dann Dubai, dann Lahbab Desert (30 min), dann Lahbab Desert (1h), dann Lahbab Desert (15 min).\n\nDer Preis beinhaltet abholung vom Hotel im 4x4 mit erfahrenem Safari-Guide, 1-stuendiges selbstgefahrenes Quad oder Side-by-Side-ATV, gefuehrtes Wuestenerlebnis auf den roten Duenenpfaden, sicherheitseinweisung, Helm, und Schutzausruestung, kurzer Kamelritt (ca. 2 bis 3 Minuten), sandboarding-Session, wasser in Flaschen und sonnenuntergangsblicke (nur bei Nachmittagstouren). Nicht enthalten sind trinkgelder, mahlzeiten und schadensversicherung fuer Quad/ATV oder persoenliche Reiseversicherung, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une halbtaegigeer Ausflug ab Dubai, der Jeep / SUV, Dubai, Lahbab Desert und Lahbab Desert besucht. Angeboten von Dream Journey."
+  ],
+  "included": [
+   "Abholung vom Hotel im 4x4 mit erfahrenem Safari-Guide",
+   "1-stuendiges selbstgefahrenes Quad oder Side-by-Side-ATV",
+   "Gefuehrtes Wuestenerlebnis auf den roten Duenenpfaden",
+   "Sicherheitseinweisung, Helm, und Schutzausruestung",
+   "Kurzer Kamelritt (ca. 2 bis 3 Minuten)",
+   "Sandboarding-Session",
+   "Wasser in Flaschen",
+   "Sonnenuntergangsblicke (nur bei Nachmittagstouren)"
+  ],
+  "notIncluded": [
+   "Trinkgelder",
+   "Mahlzeiten",
+   "Schadensversicherung fuer Quad/ATV oder persoenliche Reiseversicherung"
+  ]
+ },
+ "dubai-premium-safari-camel-ride-al-khayma-camp-3": {
+  "title": "Dubai: Premium-Safari, Kamelritt, und Al-Khayma-Camp mit 3 Buffets",
+  "metaTitle": "Dubai: Premium-Safari, Kamelritt, und Al-Khayma-Camp mit 3 Buf...",
+  "metaDescription": "Une ganztaegigeer Ausflug ab Dubai, der Jeep / SUV, Red Dunes Desert Safari, Dubai, Al Khayma Desert Camp und Al Khayma Desert Camp besucht. Angeboten von OceanAi...",
+  "shortDescription": "Une ganztaegigeer Ausflug ab Dubai, der Jeep / SUV, Red Dunes Desert Safari, Dubai, Al Khayma Desert Camp und Al Khayma Desert Camp besucht. Angeboten von OceanAir Travels.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Dubai, der Jeep / SUV, Red Dunes Desert Safari, Dubai, Al Khayma Desert Camp und Al Khayma Desert Camp umfasst. Es gibt insgesamt 4 Stopps.\n\nDie Reihenfolge ist Jeep / SUV (45 min), dann Red Dunes Desert Safari, Dubai, dann Al Khayma Desert Camp, dann Al Khayma Desert Camp.\n\nDer Preis beinhaltet abholung und Rueckfahrt zum Hotel, klimatisiertes 4x4-Fahrzeug, lizenzierter Wuestensafari-Guide, dune Bashing (30-45 Minuten), sandboarding, kurzer Kamelritt (wiederholbar), kamelfuetterung, falkenerlebnis, besuch des Al-Khayma-Wuestencamps, gaymat (Suessigkeiten), Gahwa (Kaffee), und Datteln, henna-Tattoo und shisha rauchen. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une ganztaegigeer Ausflug ab Dubai, der Jeep / SUV, Red Dunes Desert Safari, Dubai, Al Khayma Desert Camp und Al Khayma Desert Camp besucht. Angeboten von OceanAir Travels."
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel",
+   "Klimatisiertes 4x4-Fahrzeug",
+   "Lizenzierter Wuestensafari-Guide",
+   "Dune Bashing (30-45 Minuten)",
+   "Sandboarding",
+   "Kurzer Kamelritt (wiederholbar)",
+   "Kamelfuetterung",
+   "Falkenerlebnis",
+   "Besuch des Al-Khayma-Wuestencamps",
+   "Gaymat (Suessigkeiten), Gahwa (Kaffee), und Datteln",
+   "Henna-Tattoo",
+   "Shisha rauchen"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-jetski-tour-to-dubai-eye-jbr-palm-burj": {
+  "title": "Dubai: Jetski-Tour zu Dubai Eye, JBR, Palm, und Burj Al Arab",
+  "metaTitle": "Dubai: Jetski-Tour zu Dubai Eye, JBR, Palm, und Burj Al Arab",
+  "metaDescription": "Une 0,5-stuendigeer Ausflug ab Dubai, der Shark Jetski Yacht Club, JBR Beach Dubai, Atlantis, Dubai und Burj Al Arab besucht. Angeboten von Shark Jetski Rental.",
+  "shortDescription": "Une 0,5-stuendigeer Ausflug ab Dubai, der Shark Jetski Yacht Club, JBR Beach Dubai, Atlantis, Dubai und Burj Al Arab besucht. Angeboten von Shark Jetski Rental.",
+  "fullDescription": "Ein 0,5-stuendigeer Ausflug ab Dubai, der Shark Jetski Yacht Club, JBR Beach Dubai, Atlantis, Dubai und Burj Al Arab umfasst. Der laengste Halt ist Atlantis, Dubai, mit etwa 1 Stunde. Es gibt insgesamt 4 Stopps.\n\nDie Reihenfolge ist Shark Jetski Yacht Club (5 min), dann JBR Beach Dubai (30 min), dann Atlantis, Dubai (1h), dann Burj Al Arab.\n\nDer Preis beinhaltet schwimmweste, jetski, guide, kostenlose Handyfotos und trinkwasser. Nicht enthalten sind handtuecher, duscheinrichtungen (in der Marina nicht erlaubt, um die gehobene und saubere Umgebung zu erhalten) und umkleideraeume (in der Marina nicht erlaubt, um die gehobene und saubere Umgebung zu erhalten), dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une 0,5-stuendigeer Ausflug ab Dubai, der Shark Jetski Yacht Club, JBR Beach Dubai, Atlantis, Dubai und Burj Al Arab besucht. Angeboten von Shark Jetski Rental."
+  ],
+  "included": [
+   "Schwimmweste",
+   "Jetski",
+   "Guide",
+   "Kostenlose Handyfotos",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Handtuecher",
+   "Duscheinrichtungen (in der Marina nicht erlaubt, um die gehobene und saubere Umgebung zu erhalten)",
+   "Umkleideraeume (in der Marina nicht erlaubt, um die gehobene und saubere Umgebung zu erhalten)"
+  ]
+ },
+ "dubai-safari-quad-bike-camel-ride-and-buffet": {
+  "title": "Dubai: Safari, Quad, Kamelritt, und Buffet-Abendessen",
+  "metaTitle": "Dubai: Safari, Quad, Kamelritt, und Buffet-Abendessen",
+  "metaDescription": "Une ganztaegigeer Ausflug ab Dubai, der Lahbab DesertJeep / SUV, Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai und Lahbab Desert besucht. Angebot...",
+  "shortDescription": "Une ganztaegigeer Ausflug ab Dubai, der Lahbab DesertJeep / SUV, Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai und Lahbab Desert besucht. Angeboten von Ammar Tours.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Dubai, der Lahbab DesertJeep / SUV, Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai und Lahbab Desert umfasst. Der laengste Halt ist Lahbab Desert, mit etwa 2 Stunden. Es gibt insgesamt 5 Stopps.\n\nDie Reihenfolge ist Lahbab DesertJeep / SUV (45 min), dann Red Dunes Desert Safari, Dubai (45 min), dann Red Dunes Desert Safari, Dubai (45 min), dann Lahbab Desert (2h), dann Jeep / SUV (45 min).\n\nDer Preis beinhaltet abholung und Rueckfahrt an Ihrem gewaehlten Ort, transport im klimatisierten 4x4-Jeep, dune Bashing in den roten Duenen, sandboarding, kurzer Kamelritt, quad fahren (wenn Option gewaehlt), fotostopp, dessert, wasser, softdrinks, kaffee oder Tee und bBQ-Buffet-Abendessen. Nicht enthalten sind alkoholische Getraenke, persoenliche Ausgaben und trinkgelder (optional), dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une ganztaegigeer Ausflug ab Dubai, der Lahbab DesertJeep / SUV, Red Dunes Desert Safari, Dubai, Red Dunes Desert Safari, Dubai und Lahbab Desert besucht. Angeboten von Ammar Tours."
+  ],
+  "included": [
+   "Abholung und Rueckfahrt an Ihrem gewaehlten Ort",
+   "Transport im klimatisierten 4x4-Jeep",
+   "Dune Bashing in den roten Duenen",
+   "Sandboarding",
+   "Kurzer Kamelritt",
+   "Quad fahren (wenn Option gewaehlt)",
+   "Fotostopp",
+   "Dessert",
+   "Wasser",
+   "Softdrinks",
+   "Kaffee oder Tee",
+   "BBQ-Buffet-Abendessen"
+  ],
+  "notIncluded": [
+   "Alkoholische Getraenke",
+   "Persoenliche Ausgaben",
+   "Trinkgelder (optional)"
+  ]
+ },
+ "1-hour-horseback-dubai-desert-park-ride": {
+  "title": "1-stuendiger Ausritt im Wuestenpark von Dubai",
+  "metaTitle": "1-stuendiger Ausritt im Wuestenpark von Dubai",
+  "metaDescription": "1-stuendigees Erlebnis in Dubai. Reiten Sie durch die Duenen des Nationalparks Mushrif in Dubai. Angeboten von Dadabhai Travel LLC.",
+  "shortDescription": "1-stuendigees Erlebnis in Dubai. Reiten Sie durch die Duenen des Nationalparks Mushrif in Dubai. Angeboten von Dadabhai Travel LLC.",
+  "fullDescription": "Ein 1-stuendigees Erlebnis in Dubai. Reiten Sie durch die Duenen des Nationalparks Mushrif in Dubai.\n\nDadabhai Travel LLC fuehrt es durch, und 4 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet 1-stuendiger Ausritt, sicherheitseinweisung, pferdepflege nach dem Ritt und helm. Nicht enthalten sind trinkgelder (optional) und transfers, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Reiten Sie durch die Duenen des Nationalparks Mushrif in Dubai"
+  ],
+  "included": [
+   "1-stuendiger Ausritt",
+   "Sicherheitseinweisung",
+   "Pferdepflege nach dem Ritt",
+   "Helm"
+  ],
+  "notIncluded": [
+   "Trinkgelder (optional)",
+   "Transfers"
+  ]
+ },
+ "abu-dhabi-desert-safari-with-bbq-belly-tannura": {
+  "title": "Abu Dhabi: Wuestensafari mit BBQ, Bauchtanz, und Tannura-Tanz",
+  "metaTitle": "Abu Dhabi: Wuestensafari mit BBQ, Bauchtanz, und Tannura-Tanz",
+  "metaDescription": "Une halbtaegigeer Ausflug ab Abu Dhabi, der Al Khatim Desert, View point, Emirates Tours & Safari Desert Camp und Emirates Tours & Safari Desert Camp besucht. Ang...",
+  "shortDescription": "Une halbtaegigeer Ausflug ab Abu Dhabi, der Al Khatim Desert, View point, Emirates Tours & Safari Desert Camp und Emirates Tours & Safari Desert Camp besucht. Angeboten von Emirates Tours & Safari.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Abu Dhabi, der Al Khatim Desert, View point, Emirates Tours & Safari Desert Camp und Emirates Tours & Safari Desert Camp umfasst. Es gibt insgesamt 10 Stopps.\n\nDie Reihenfolge ist Al Khatim Desert (45 min), dann View point (5 min), dann Emirates Tours & Safari Desert Camp (15 min), dann Emirates Tours & Safari Desert Camp (5 min), dann Emirates Tours & Safari Desert Camp (10 min).\n\nDer Preis beinhaltet abholung und Rueckfahrt zum Hotel, wuestencamp in gemeinsamer Nutzung, dune Bashing und Wuestenfahrt, vorbeifahrt an einer Kamelfarm, fotomoeglichkeit in der Wueste und den Duenen, kurzer Kamelritt, sandboarding, traditionelle Kleidung, bBQ-Buffet-Abendessen, shisha-Erlebnis, henna-Malerei und fotografieren mit einem Falken (je nach Verfuegbarkeit). Nicht enthalten sind alkoholische Getraenke, quadfahren, souvenirfotos und bauchtanz ist waehrend des Ramadan nicht verfuegbar, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une halbtaegigeer Ausflug ab Abu Dhabi, der Al Khatim Desert, View point, Emirates Tours & Safari Desert Camp und Emirates Tours & Safari Desert Camp besucht. Angeboten von Emirates Tours & Safari."
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel",
+   "Wuestencamp in gemeinsamer Nutzung",
+   "Dune Bashing und Wuestenfahrt",
+   "Vorbeifahrt an einer Kamelfarm",
+   "Fotomoeglichkeit in der Wueste und den Duenen",
+   "Kurzer Kamelritt",
+   "Sandboarding",
+   "Traditionelle Kleidung",
+   "BBQ-Buffet-Abendessen",
+   "Shisha-Erlebnis",
+   "Henna-Malerei",
+   "Fotografieren mit einem Falken (je nach Verfuegbarkeit)"
+  ],
+  "notIncluded": [
+   "Alkoholische Getraenke",
+   "Quadfahren",
+   "Souvenirfotos",
+   "Bauchtanz ist waehrend des Ramadan nicht verfuegbar"
+  ]
+ },
+ "abu-dhabi-inside-heritage-village-walking-tour": {
+  "title": "Abu Dhabi: Wandertour im Heritage Village",
+  "metaTitle": "Abu Dhabi: Wandertour im Heritage Village",
+  "metaDescription": "Une 0,5-stuendigeer Ausflug ab Abu Dhabi, der Abu Dhabi Heritage VillageOn foot besucht. Angeboten von 360 Adventures Tourism LLC.",
+  "shortDescription": "Une 0,5-stuendigeer Ausflug ab Abu Dhabi, der Abu Dhabi Heritage VillageOn foot besucht. Angeboten von 360 Adventures Tourism LLC.",
+  "fullDescription": "Ein 0,5-stuendigeer Ausflug ab Abu Dhabi, der Abu Dhabi Heritage VillageOn foot umfasst.\n\n360 Adventures Tourism LLC fuehrt es durch, und 4 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich. Gefuehrt von lokalen Experten fuer authentische kulturelle Einblicke.\n\nDer Preis beinhaltet eintritt zum Heritage Village und dem Museum vor Ort, live-Vorfuehrungen traditionellen Handwerks, einblicke in das Beduinenleben und die emiratische Geschichte und fotomoeglichkeiten mit malerischem Blick auf die Stadt. Nicht enthalten sind transport, mahlzeiten und sonstige persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une 0,5-stuendigeer Ausflug ab Abu Dhabi, der Abu Dhabi Heritage VillageOn foot besucht. Angeboten von 360 Adventures Tourism LLC."
+  ],
+  "included": [
+   "Eintritt zum Heritage Village und dem Museum vor Ort",
+   "Live-Vorfuehrungen traditionellen Handwerks",
+   "Einblicke in das Beduinenleben und die emiratische Geschichte",
+   "Fotomoeglichkeiten mit malerischem Blick auf die Stadt"
+  ],
+  "notIncluded": [
+   "Transport",
+   "Mahlzeiten",
+   "Sonstige persoenliche Ausgaben"
+  ]
+ },
+ "abu-dhabi-high-speed-jet-ski-adventure-by-sea": {
+  "title": "Abu Dhabi: Hochgeschwindigkeits-Jetski-Abenteuer von Sea Hero",
+  "metaTitle": "Abu Dhabi: Hochgeschwindigkeits-Jetski-Abenteuer von Sea Hero",
+  "metaDescription": "1-stuendigees Erlebnis in Abu Dhabi. Erleben Sie den Nervenkitzel, mit einem Jetski ueber die Wellen in Abu Dhabi zu fahren. Angeboten von Sea Hero Watersports.",
+  "shortDescription": "1-stuendigees Erlebnis in Abu Dhabi. Erleben Sie den Nervenkitzel, mit einem Jetski ueber die Wellen in Abu Dhabi zu fahren. Angeboten von Sea Hero Watersports.",
+  "fullDescription": "Ein 1-stuendigees Erlebnis in Abu Dhabi. Erleben Sie den Nervenkitzel, mit einem Jetski ueber die Wellen in Abu Dhabi zu fahren.\n\nSea Hero Watersports fuehrt es durch, und 3 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet jetski-Verleih, schwimmweste und zertifizierter Guide. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Erleben Sie den Nervenkitzel, mit einem Jetski ueber die Wellen in Abu Dhabi zu fahren"
+  ],
+  "included": [
+   "Jetski-Verleih",
+   "Schwimmweste",
+   "Zertifizierter Guide"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-afternoon-city-tour-with-dinner-on-dhow-crui": {
+  "title": "Dubai Nachmittags-Stadtrundfahrt mit Abendessen auf einer Dhau-Kreuzfahrt",
+  "metaTitle": "Dubai Nachmittags-Stadtrundfahrt mit Abendessen auf einer Dhau...",
+  "metaDescription": "Une ganztaegigeer Ausflug ab Dubai, der Dubai Gold Souk, Dubai Spice Souk, Dubai Mall und Burj Khalifa besucht. Angeboten von Atlas.",
+  "shortDescription": "Une ganztaegigeer Ausflug ab Dubai, der Dubai Gold Souk, Dubai Spice Souk, Dubai Mall und Burj Khalifa besucht. Angeboten von Atlas.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Dubai, der Dubai Gold Souk, Dubai Spice Souk, Dubai Mall und Burj Khalifa umfasst. Der laengste Halt ist Dubai Marina, mit etwa 2 Stunden. Es gibt insgesamt 6 Stopps.\n\nDie Reihenfolge ist Dubai Gold Souk (1h), dann Dubai Spice Souk (30 min), dann Dubai Mall, dann Burj Khalifa (30 min), dann Dubai Eye (1h).\n\nDer Preis beinhaltet abholung und Rueckfahrt, reiseleiter, privates Fahrzeug, offenes Buffet-Abendessen und eintrittskarte fuer die Kreuzfahrt. Nicht enthalten sind eintrittskarte fuer Burj Khalifa, Museum der Zukunft, und Dubai Frame, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une ganztaegigeer Ausflug ab Dubai, der Dubai Gold Souk, Dubai Spice Souk, Dubai Mall und Burj Khalifa besucht. Angeboten von Atlas."
+  ],
+  "included": [
+   "Abholung und Rueckfahrt",
+   "Reiseleiter",
+   "Privates Fahrzeug",
+   "Offenes Buffet-Abendessen",
+   "Eintrittskarte fuer die Kreuzfahrt"
+  ],
+  "notIncluded": [
+   "Eintrittskarte fuer Burj Khalifa, Museum der Zukunft, und Dubai Frame"
+  ]
+ },
+ "dubai-abu-dhabi-2-day-tour-with-desert-safari": {
+  "title": "Dubai und Abu Dhabi: 2-Tages-Tour mit Wuestensafari",
+  "metaTitle": "Dubai und Abu Dhabi: 2-Tages-Tour mit Wuestensafari",
+  "metaDescription": "Une 2-taegigeer Ausflug ab Abu Dhabi, der Visit Sheikh Zayed Grand Mosque, Lunch stop, Visit Heritage village (Optional) und Photo stop of Qasr Al Watan besucht. ...",
+  "shortDescription": "Une 2-taegigeer Ausflug ab Abu Dhabi, der Visit Sheikh Zayed Grand Mosque, Lunch stop, Visit Heritage village (Optional) und Photo stop of Qasr Al Watan besucht. Angeboten von 360 Adventures Tourism LLC.",
+  "fullDescription": "Ein 2-taegigeer Ausflug ab Abu Dhabi, der Visit Sheikh Zayed Grand Mosque, Lunch stop, Visit Heritage village (Optional) und Photo stop of Qasr Al Watan umfasst. Es gibt insgesamt 20 Stopps.\n\nDie Reihenfolge ist Visit Sheikh Zayed Grand Mosque, dann Lunch stop, dann Visit Heritage village (Optional), dann Photo stop of Qasr Al Watan, dann Pass by Abu Dhabi Corniche, Emirates Palace & Etihad Towers.\n\nDer Preis beinhaltet abholung und Rueckfahrt vom Hotel fuer die Stadtrundfahrten an beiden Tagen enthalten, transport im klimatisierten Fahrzeug, eintritt zur Sheikh-Zayed-Moschee, zum Heritage Village, Dattelmarkt, Abra-Fahrt, und Gold Souk, 60-minuetige Quad- oder Dune-Buggy-Fahrt in der offenen Wueste mit Transfer vom Treffpunkt, lizenzierter Guide, professioneller Fahrer und trinkwasser in Flaschen. Nicht enthalten sind unterkunft, mahlzeiten und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une 2-taegigeer Ausflug ab Abu Dhabi, der Visit Sheikh Zayed Grand Mosque, Lunch stop, Visit Heritage village (Optional) und Photo stop of Qasr Al Watan besucht. Angeboten von 360 Adventures Tourism LLC."
+  ],
+  "included": [
+   "Abholung und Rueckfahrt vom Hotel fuer die Stadtrundfahrten an beiden Tagen enthalten",
+   "Transport im klimatisierten Fahrzeug",
+   "Eintritt zur Sheikh-Zayed-Moschee, zum Heritage Village, Dattelmarkt, Abra-Fahrt, und Gold Souk",
+   "60-minuetige Quad- oder Dune-Buggy-Fahrt in der offenen Wueste mit Transfer vom Treffpunkt",
+   "Lizenzierter Guide",
+   "Professioneller Fahrer",
+   "Trinkwasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Unterkunft",
+   "Mahlzeiten",
+   "Persoenliche Ausgaben"
+  ]
+ },
+ "dubai-2h-private-yacht-cruise-soft-drinks-optional": {
+  "title": "Dubai: 2-stuendige private Yacht-Kreuzfahrt mit Softdrinks und optionalem BBQ",
+  "metaTitle": "Dubai: 2-stuendige private Yacht-Kreuzfahrt mit Softdrinks und...",
+  "metaDescription": "Une 2-stuendigeer Ausflug ab Dubai, der On foot, Dubai Harbour, Jumeirah Beach Residence und Bluewaters Island besucht. Angeboten von Kings and Queens Luxury Yachts.",
+  "shortDescription": "Une 2-stuendigeer Ausflug ab Dubai, der On foot, Dubai Harbour, Jumeirah Beach Residence und Bluewaters Island besucht. Angeboten von Kings and Queens Luxury Yachts.",
+  "fullDescription": "Ein 2-stuendigeer Ausflug ab Dubai, der On foot, Dubai Harbour, Jumeirah Beach Residence und Bluewaters Island umfasst. Es gibt insgesamt 9 Stopps.\n\nDie Reihenfolge ist On foot (5 min), dann Dubai Harbour, dann Jumeirah Beach Residence, dann Bluewaters Island, dann Ain Dubai.\n\nDer Preis beinhaltet softdrinks, offenes Deck mit bequemen Sitzgelegenheiten, fotomoeglichkeiten, klimatisierte Innenraeume, hin- und Ruecktransport auf einer luxurioesen 50-Fuss-Yacht, unbegrenztes Wasser in Flaschen, toilette und Dusche an Bord, dusche an der Badeplattform, kapitaen und Besatzung, eis, Kuehlschrank, und Kuehlbox, schwimmwesten und jBL-Bluetooth-Party-Box-Lautsprecher. Nicht enthalten sind abholung und Rueckfahrt zum Hotel (auf Anfrage verfuegbar), vIP-Transfers im Mercedes-Maybach koennen arrangiert werden; bitte informieren Sie uns via WhatsApp, gegen Aufpreis verfuegbar (optional): Live-BBQ-Grill mit einer Auswahl an Fleisch, Salat, und Knoblauchbrot, alkoholische Getraenke (Gaeste koennen eigene mitbringen oder auf Anfrage), mahlzeiten (optionales Catering wie BBQ kann im Voraus arrangiert werden), die Buggy-Fahrt am Dubai Harbour ist nicht enthalten und gaeste koennen etwa 5 Minuten mit unserem Gastgeber zur Yacht laufen, oder den Buggy zur Yacht fuer 10 AED pro Person nehmen (2,10 £ / 2,70 $ / 2,30 €), dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une 2-stuendigeer Ausflug ab Dubai, der On foot, Dubai Harbour, Jumeirah Beach Residence und Bluewaters Island besucht. Angeboten von Kings and Queens Luxury Yachts."
+  ],
+  "included": [
+   "Softdrinks",
+   "Offenes Deck mit bequemen Sitzgelegenheiten",
+   "Fotomoeglichkeiten",
+   "Klimatisierte Innenraeume",
+   "Hin- und Ruecktransport auf einer luxurioesen 50-Fuss-Yacht",
+   "Unbegrenztes Wasser in Flaschen",
+   "Toilette und Dusche an Bord",
+   "Dusche an der Badeplattform",
+   "Kapitaen und Besatzung",
+   "Eis, Kuehlschrank, und Kuehlbox",
+   "Schwimmwesten",
+   "JBL-Bluetooth-Party-Box-Lautsprecher"
+  ],
+  "notIncluded": [
+   "Abholung und Rueckfahrt zum Hotel (auf Anfrage verfuegbar)",
+   "VIP-Transfers im Mercedes-Maybach koennen arrangiert werden; bitte informieren Sie uns via WhatsApp",
+   "Gegen Aufpreis verfuegbar (optional): Live-BBQ-Grill mit einer Auswahl an Fleisch, Salat, und Knoblauchbrot",
+   "Alkoholische Getraenke (Gaeste koennen eigene mitbringen oder auf Anfrage)",
+   "Mahlzeiten (optionales Catering wie BBQ kann im Voraus arrangiert werden)",
+   "Die Buggy-Fahrt am Dubai Harbour ist nicht enthalten",
+   "Gaeste koennen etwa 5 Minuten mit unserem Gastgeber zur Yacht laufen, oder den Buggy zur Yacht fuer 10 AED pro Person nehmen (2,10 £ / 2,70 $ / 2,30 €)"
+  ]
+ },
+ "dubai-premium-safari-camel-ride-lisaili-fort-camp-": {
+  "title": "Dubai: Premium-Safari, Kamelritt, Lisaili-Fort-Camp, Buffet",
+  "metaTitle": "Dubai: Premium-Safari, Kamelritt, Lisaili-Fort-Camp, Buffet",
+  "metaDescription": "Une halbtaegigeer Ausflug ab Dubai, der Jeep / SUV besucht. Angeboten von Arabian Adventures.",
+  "shortDescription": "Une halbtaegigeer Ausflug ab Dubai, der Jeep / SUV besucht. Angeboten von Arabian Adventures.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Dubai, der Jeep / SUV umfasst. Der laengste Halt ist Jeep / SUV, mit etwa 1 Stunde.\n\nArabian Adventures fuehrt es durch, und 10 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich. Spannendes 4x4-Dune-Bashing und Erlebnis des Dubai-Forts Lisaili mit Sonnenuntergangsblick.\n\nDer Preis beinhaltet abholung und Rueckfahrt zum Hotel, dune Bashing im 4x4-Fahrzeug, kamelritt, sonnenuntergangsfotografie, bBQ-Buffet-Abendessen mit vegetarischen Optionen, unbegrenztes Wasser und 2 Softdrinks, live-Unterhaltungsshows (Tanoura-Tanz, Bauchtanz, Feuershow), henna-Malerei, bogenschiessen und fotos von einem professionellen Fotografen (zum Kauf erhaeltlich). Nicht enthalten sind quad- oder Dune-Buggy-Fahrten (gegen Aufpreis verfuegbar), shisha und Souvenirs (zum Kauf erhaeltlich), alkoholische Getraenke und bauchtanzshows werden waehrend des Ramadan nicht aufgefuehrt, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une halbtaegigeer Ausflug ab Dubai, der Jeep / SUV besucht. Angeboten von Arabian Adventures."
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel",
+   "Dune Bashing im 4x4-Fahrzeug",
+   "Kamelritt",
+   "Sonnenuntergangsfotografie",
+   "BBQ-Buffet-Abendessen mit vegetarischen Optionen",
+   "Unbegrenztes Wasser und 2 Softdrinks",
+   "Live-Unterhaltungsshows (Tanoura-Tanz, Bauchtanz, Feuershow)",
+   "Henna-Malerei",
+   "Bogenschiessen",
+   "Fotos von einem professionellen Fotografen (zum Kauf erhaeltlich)"
+  ],
+  "notIncluded": [
+   "Quad- oder Dune-Buggy-Fahrten (gegen Aufpreis verfuegbar)",
+   "Shisha und Souvenirs (zum Kauf erhaeltlich)",
+   "Alkoholische Getraenke",
+   "Bauchtanzshows werden waehrend des Ramadan nicht aufgefuehrt"
+  ]
+ },
+ "dubai-burj-khalifa-dubai-mall-and-fountains-photos": {
+  "title": "Dubai: Fotoshooting am Burj Khalifa, Dubai Mall, und den Brunnen",
+  "metaTitle": "Dubai: Fotoshooting am Burj Khalifa, Dubai Mall, und den Brunnen",
+  "metaDescription": "Une 1-stuendigeer Ausflug ab Dubai, der Burj Khalifa, Dubai Mall und Downtown Dubai besucht. Angeboten von Picster.",
+  "shortDescription": "Une 1-stuendigeer Ausflug ab Dubai, der Burj Khalifa, Dubai Mall und Downtown Dubai besucht. Angeboten von Picster.",
+  "fullDescription": "Ein 1-stuendigeer Ausflug ab Dubai, der Burj Khalifa, Dubai Mall und Downtown Dubai umfasst. Es gibt insgesamt 3 Stopps.\n\nDie Reihenfolge ist Burj Khalifa, dann Dubai Mall, dann Downtown Dubai.\n\nDer Preis beinhaltet professionelles Fotoshooting an einigen der ikonischsten Orte Dubais, hochaufgeloeste, professionell bearbeitete Fotos, anleitung zu Posen und Ausdruck und lokaler Experten-Guide. Nicht enthalten sind transport zu und von den Fotoshooting-Orten, essen und Getraenke und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 371 $ statt 371 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Une 1-stuendigeer Ausflug ab Dubai, der Burj Khalifa, Dubai Mall und Downtown Dubai besucht. Angeboten von Picster."
+  ],
+  "included": [
+   "Professionelles Fotoshooting an einigen der ikonischsten Orte Dubais",
+   "Hochaufgeloeste, professionell bearbeitete Fotos",
+   "Anleitung zu Posen und Ausdruck",
+   "Lokaler Experten-Guide"
+  ],
+  "notIncluded": [
+   "Transport zu und von den Fotoshooting-Orten",
+   "Essen und Getraenke",
+   "Persoenliche Ausgaben"
+  ]
+ },
+ "dubai-balloon-ride-and-wonder-bus-tour-sky-sea": {
+  "title": "Dubai: Ballonfahrt und Wonder-Bus-Tour, Himmel, Meer, und Land",
+  "metaTitle": "Dubai: Ballonfahrt und Wonder-Bus-Tour, Himmel, Meer, und Land",
+  "metaDescription": "halbtaegigees Erlebnis in Dubai. Geniessen Sie eine Heissluftballonfahrt in Dubai und erleben Sie den wunderbaren Sonnenaufgang. Angeboten von Wonder Bus Tours LLC.",
+  "shortDescription": "halbtaegigees Erlebnis in Dubai. Geniessen Sie eine Heissluftballonfahrt in Dubai und erleben Sie den wunderbaren Sonnenaufgang. Angeboten von Wonder Bus Tours LLC.",
+  "fullDescription": "Ein halbtaegigees Erlebnis in Dubai. Geniessen Sie eine Heissluftballonfahrt in Dubai und erleben Sie den wunderbaren Sonnenaufgang.\n\nWonder Bus Tours LLC fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet abholung vor der Daemmerung und Rueckfahrt ueberall in Dubai, entdecken Sie Dubais Sehenswuerdigkeiten aus der Luft, zu Land, und zu Wasser, atemberaubende Sonnenaufgangsblicke, panoramisches Flugerlebnis, sehen Sie den Gold Souk und den Spice Souk von Dubai, professioneller Ballonpilot, erinnerungs-Flugzertifikat, einzigartiges Land- und Wassererlebnis, platschen im Dubai Creek bei dem amphibischen Wonder-Bus-Abenteuer, nahtloser Wassereinstieg, historische und kulturelle Einblicke und unvergleichliche Ausblicke auf den Dubai Creek. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Geniessen Sie eine Heissluftballonfahrt in Dubai und erleben Sie den wunderbaren Sonnenaufgang"
+  ],
+  "included": [
+   "Abholung vor der Daemmerung und Rueckfahrt ueberall in Dubai",
+   "Entdecken Sie Dubais Sehenswuerdigkeiten aus der Luft, zu Land, und zu Wasser",
+   "Atemberaubende Sonnenaufgangsblicke",
+   "Panoramisches Flugerlebnis",
+   "Sehen Sie den Gold Souk und den Spice Souk von Dubai",
+   "Professioneller Ballonpilot",
+   "Erinnerungs-Flugzertifikat",
+   "Einzigartiges Land- und Wassererlebnis",
+   "Platschen im Dubai Creek bei dem amphibischen Wonder-Bus-Abenteuer",
+   "Nahtloser Wassereinstieg",
+   "Historische und kulturelle Einblicke",
+   "Unvergleichliche Ausblicke auf den Dubai Creek"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-wonder-bus-amphibious-tour-and-aquaventure-w": {
+  "title": "Dubai: amphibische Wonder-Bus-Tour und Aquaventure-Wasserpark",
+  "metaTitle": "Dubai: amphibische Wonder-Bus-Tour und Aquaventure-Wasserpark",
+  "metaDescription": "1-stuendigees Erlebnis in Dubai. Geniessen Sie eine aufregende Fahrt mit dem beruehmten Wonder Bus, einem amphibischen Fahrzeug. Angeboten von Wonder Bus Tours LLC.",
+  "shortDescription": "1-stuendigees Erlebnis in Dubai. Geniessen Sie eine aufregende Fahrt mit dem beruehmten Wonder Bus, einem amphibischen Fahrzeug. Angeboten von Wonder Bus Tours LLC.",
+  "fullDescription": "Ein 1-stuendigees Erlebnis in Dubai. Geniessen Sie eine aufregende Fahrt mit dem beruehmten Wonder Bus, einem amphibischen Fahrzeug.\n\nWonder Bus Tours LLC fuehrt es durch, und 8 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet amphibisches Wonder-Bus-Abenteuer, professioneller Guide, entdecken Sie Dubais Sehenswuerdigkeiten zu Land und zu Wasser, eintrittskarte fuer den Atlantis Aquaventure Water Park, nach der Wonder-Bus-Tour erhalten Sie vom Guide die Eintrittskarte fuer den Aquaventure Water Park, den Sie jederzeit zwischen 10:00 und 22:00 Uhr selbststaendig im Atlantis Hotel besuchen koennen, atemberaubende Ausblicke auf den Dubai Creek und die Skyline der Stadt, zugang zu rekordverdaechtigen Wasserattraktionen und zugang zum privaten Atlantis-Strand. Nicht enthalten sind abholung und Rueckfahrt zum Hotel, essen und Getraenke im Atlantis Aquaventure und schliessfachmiete im Wasserpark, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Geniessen Sie eine aufregende Fahrt mit dem beruehmten Wonder Bus, einem amphibischen Fahrzeug"
+  ],
+  "included": [
+   "Amphibisches Wonder-Bus-Abenteuer",
+   "Professioneller Guide",
+   "Entdecken Sie Dubais Sehenswuerdigkeiten zu Land und zu Wasser",
+   "Eintrittskarte fuer den Atlantis Aquaventure Water Park",
+   "Nach der Wonder-Bus-Tour erhalten Sie vom Guide die Eintrittskarte fuer den Aquaventure Water Park, den Sie jederzeit zwischen 10:00 und 22:00 Uhr selbststaendig im Atlantis Hotel besuchen koennen",
+   "Atemberaubende Ausblicke auf den Dubai Creek und die Skyline der Stadt",
+   "Zugang zu rekordverdaechtigen Wasserattraktionen",
+   "Zugang zum privaten Atlantis-Strand"
+  ],
+  "notIncluded": [
+   "Abholung und Rueckfahrt zum Hotel",
+   "Essen und Getraenke im Atlantis Aquaventure",
+   "Schliessfachmiete im Wasserpark"
+  ]
+ },
+ "dubai-electric-self-drive-boat-ride-in-the-palm": {
+  "title": "Dubai: elektrische selbstgefahrene Bootsfahrt in Palm Jumeirah",
+  "metaTitle": "Dubai: elektrische selbstgefahrene Bootsfahrt in Palm Jumeirah",
+  "metaDescription": "0,5-stuendigees Erlebnis in Dubai. Elektrisches selbstgefahrenes Boot im Souluna Beach Club Palm Jumeirah, fuer bis zu 3 Personen. Angeboten von Sealife Waterspor...",
+  "shortDescription": "0,5-stuendigees Erlebnis in Dubai. Elektrisches selbstgefahrenes Boot im Souluna Beach Club Palm Jumeirah, fuer bis zu 3 Personen. Angeboten von Sealife Watersports Equipment Rental LLC.",
+  "fullDescription": "Ein 0,5-stuendigees Erlebnis in Dubai. Elektrisches selbstgefahrenes Boot im Souluna Beach Club Palm Jumeirah, fuer bis zu 3 Personen.\n\nSealife Watersports Equipment Rental LLC fuehrt es durch, und 2 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet trinkwasser und lehrer. Nicht enthalten sind abholung und Rueckfahrt zum Hotel, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 301 $ statt 301 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Elektrisches selbstgefahrenes Boot im Souluna Beach Club Palm Jumeirah, fuer bis zu 3 Personen"
+  ],
+  "included": [
+   "Trinkwasser",
+   "Lehrer"
+  ],
+  "notIncluded": [
+   "Abholung und Rueckfahrt zum Hotel"
+  ]
+ },
+ "abu-dhabi-stand-up-paddle-boarding-guided-tour": {
+  "title": "Abu Dhabi: gefuehrte Stand-Up-Paddleboarding-Tour",
+  "metaTitle": "Abu Dhabi: gefuehrte Stand-Up-Paddleboarding-Tour",
+  "metaDescription": "2-stuendigees Erlebnis in Abu Dhabi. Entdecken Sie die Schoenheit des ikonischen Central Park auf Reem Island aus einer neuen Perspektive. Angeboten von Husaak Ad...",
+  "shortDescription": "2-stuendigees Erlebnis in Abu Dhabi. Entdecken Sie die Schoenheit des ikonischen Central Park auf Reem Island aus einer neuen Perspektive. Angeboten von Husaak Adventures.",
+  "fullDescription": "Ein 2-stuendigees Erlebnis in Abu Dhabi. Entdecken Sie die Schoenheit des ikonischen Central Park auf Reem Island aus einer neuen Perspektive.\n\nHusaak Adventures fuehrt es durch, und 7 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet komplettes SUP-Set (Schwimmweste, SUP-Board, Paddel), erfahrener Guide, schwimmwesten, wasserdichte Packsaecke, wasserauffuellstation (eigene Wasserflasche mitbringen), ganze Fruechte und sicherheitseinweisung. Nicht enthalten sind transport zum Aktivitaetsort, persoenliche Ausgaben, handtuecher, wasserflasche und trinkgelder, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Entdecken Sie die Schoenheit des ikonischen Central Park auf Reem Island aus einer neuen Perspektive"
+  ],
+  "included": [
+   "Komplettes SUP-Set (Schwimmweste, SUP-Board, Paddel)",
+   "Erfahrener Guide",
+   "Schwimmwesten",
+   "Wasserdichte Packsaecke",
+   "Wasserauffuellstation (eigene Wasserflasche mitbringen)",
+   "Ganze Fruechte",
+   "Sicherheitseinweisung"
+  ],
+  "notIncluded": [
+   "Transport zum Aktivitaetsort",
+   "Persoenliche Ausgaben",
+   "Handtuecher",
+   "Wasserflasche",
+   "Trinkgelder"
+  ]
+ },
+ "abu-dhabi-guided-walking-tour-at-sheikh-zayed-gran": {
+  "title": "Abu Dhabi: gefuehrte Wandertour durch die Sheikh-Zayed-Großmoschee",
+  "metaTitle": "Abu Dhabi: gefuehrte Wandertour durch die Sheikh-Zayed-Großmos...",
+  "metaDescription": "Une 2-stuendigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque besucht. Angeboten von OceanAir Travels.",
+  "shortDescription": "Une 2-stuendigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque besucht. Angeboten von OceanAir Travels.",
+  "fullDescription": "Ein 2-stuendigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque umfasst.\n\nDer Preis beinhaltet lizenzierter Reiseleiter, eintritt zur Sheikh-Zayed-Moschee, mineralwasser und fotomoeglichkeiten und Unterstuetzung durch den Guide. Nicht enthalten sind zusaetzliche Bedeckungskleidung fuer Maenner und Frauen und trinkgelder (optional), dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une 2-stuendigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque besucht. Angeboten von OceanAir Travels."
+  ],
+  "included": [
+   "Lizenzierter Reiseleiter",
+   "Eintritt zur Sheikh-Zayed-Moschee",
+   "Mineralwasser",
+   "Fotomoeglichkeiten und Unterstuetzung durch den Guide"
+  ],
+  "notIncluded": [
+   "Zusaetzliche Bedeckungskleidung fuer Maenner und Frauen",
+   "Trinkgelder (optional)"
+  ]
+ },
+ "dubai-desert-safari-quad-bike-premium-camp-experie": {
+  "title": "Dubai: Wuestensafari, Quad, und Premium-Camp-Erlebnis",
+  "metaTitle": "Dubai: Wuestensafari, Quad, und Premium-Camp-Erlebnis",
+  "metaDescription": "halbtaegigees Erlebnis in Dubai. Spannendes rotes Dune Bashing, Sandboarding, und Kamelritte in Dubais Wueste. Angeboten von Noble Life.",
+  "shortDescription": "halbtaegigees Erlebnis in Dubai. Spannendes rotes Dune Bashing, Sandboarding, und Kamelritte in Dubais Wueste. Angeboten von Noble Life.",
+  "fullDescription": "Ein halbtaegigees Erlebnis in Dubai. Spannendes rotes Dune Bashing, Sandboarding, und Kamelritte in Dubais Wueste.\n\nNoble Life fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet abholung und Rueckfahrt zu Ihrem Hotel/Ort im Land Cruiser/Nissan Patrol, zertifizierter englischsprachiger Guide, unbegrenztes Wasser waehrend der Fahrten, quad-Fahrt und Buggy-Abenteuer (optional), spannendes 45-minuetiges Dune-Bashing-Abenteuer, aufregendes Sandboarding, falken- und Fotoerlebnis, henna-Tattoos, tee/Kaffee, traditionelle Luqaimat-Suessigkeiten, und unbegrenzte Softdrinks, fuetterung von Babykamelen und Kamelritt fuer Erwachsene im Noble Camp, kinderspielplatz fuer Spass und Unterhaltung und internationales BBQ-Buffet-Abendessen mit veganen und nicht-veganen Optionen. Nicht enthalten sind trinkgelder fuer Guide/Fahrer (optional) und jegliche persoenlichen Ausgaben oder zusaetzlichen Aktivitaeten, die nicht genannt wurden, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Spannendes rotes Dune Bashing, Sandboarding, und Kamelritte in Dubais Wueste"
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zu Ihrem Hotel/Ort im Land Cruiser/Nissan Patrol",
+   "Zertifizierter englischsprachiger Guide",
+   "Unbegrenztes Wasser waehrend der Fahrten",
+   "Quad-Fahrt und Buggy-Abenteuer (optional)",
+   "Spannendes 45-minuetiges Dune-Bashing-Abenteuer",
+   "Aufregendes Sandboarding",
+   "Falken- und Fotoerlebnis",
+   "Henna-Tattoos",
+   "Tee/Kaffee, traditionelle Luqaimat-Suessigkeiten, und unbegrenzte Softdrinks",
+   "Fuetterung von Babykamelen und Kamelritt fuer Erwachsene im Noble Camp",
+   "Kinderspielplatz fuer Spass und Unterhaltung",
+   "Internationales BBQ-Buffet-Abendessen mit veganen und nicht-veganen Optionen"
+  ],
+  "notIncluded": [
+   "Trinkgelder fuer Guide/Fahrer (optional)",
+   "Jegliche persoenlichen Ausgaben oder zusaetzlichen Aktivitaeten, die nicht genannt wurden."
+  ]
+ },
+ "from-dubai-fujairah-city-tour": {
+  "title": "Ab Dubai: Stadtrundfahrt durch Fujairah",
+  "metaTitle": "Ab Dubai: Stadtrundfahrt durch Fujairah",
+  "metaDescription": "Une ganztaegigeer Ausflug ab Dubai, der Friday Market Dubai, Al Rafisah Dam, Al Rabi Tower St und Fujairah besucht. Angeboten von 360 Adventures Tourism LLC.",
+  "shortDescription": "Une ganztaegigeer Ausflug ab Dubai, der Friday Market Dubai, Al Rafisah Dam, Al Rabi Tower St und Fujairah besucht. Angeboten von 360 Adventures Tourism LLC.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Dubai, der Friday Market Dubai, Al Rafisah Dam, Al Rabi Tower St und Fujairah umfasst. Es gibt insgesamt 6 Stopps.\n\nDie Reihenfolge ist Friday Market Dubai (30 min), dann Al Rafisah Dam (30 min), dann Al Rabi Tower St (45 min), dann Fujairah (45 min), dann Sheikh Zayed Grand Mosque - Fujairah (45 min).\n\nDer Preis beinhaltet transport in einem kleinen klimatisierten Fahrzeug, professioneller Fahrer, lizenzierter Guide, eintritt zur Sheikh-Zayed-Großmoschee in Fujairah, eintritt zum Fujairah Fort und wasser in Flaschen. Nicht enthalten sind mahlzeiten und persoenliche Ausgaben, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 548 $ statt 548 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Une ganztaegigeer Ausflug ab Dubai, der Friday Market Dubai, Al Rafisah Dam, Al Rabi Tower St und Fujairah besucht. Angeboten von 360 Adventures Tourism LLC."
+  ],
+  "included": [
+   "Transport in einem kleinen klimatisierten Fahrzeug",
+   "Professioneller Fahrer",
+   "Lizenzierter Guide",
+   "Eintritt zur Sheikh-Zayed-Großmoschee in Fujairah",
+   "Eintritt zum Fujairah Fort",
+   "Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Mahlzeiten",
+   "Persoenliche Ausgaben"
   ]
  },
  "city-palace-heritage-full-day-tour": {
