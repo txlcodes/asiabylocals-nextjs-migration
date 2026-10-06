@@ -37370,6 +37370,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Eintrittsgebuehren (falls eine Staette besucht wird)\nVollstaendige Mahlzeiten oder Getraenke ueber die Verkostungen hinaus\nVersicherungsschutz (Fahrt auf eigene Verantwortung)"
   ]
  },
+ "jaipur-cultural-tour-with-artisan-craft": {
+  "title": "Jaipur: Kulturtour mit handwerklichen Erlebnissen",
+  "metaTitle": "Jaipur, Kulturtour, Handwerk",
+  "metaDescription": "Entdecken Sie Rajasthans traditionelles Handwerk und Kunstformen mit lokalen Kunsthandwerkern: Topferei, Armreifen, Blockdruck, und Henna.",
+  "shortDescription": "Entdecken Sie Rajasthans traditionelles Handwerk und Kunstformen mit lokalen Kunsthandwerkern",
+  "fullDescription": "Jaipur: Kulturtour mit handwerklichen Erlebnissen. Entdecken Sie Rajasthans traditionelles Handwerk und Kunstformen mit lokalen Kunsthandwerkern.\n\nEntdecken Sie Rajasthans traditionelles Handwerk auf einer Halbtagestour durch Jaipur und die umliegenden Gebiete. Besuchen Sie ein Dorf, um Tonwarentoepferei zu lernen, beobachten Sie die Herstellung von Armreifen und Blockdruck, treffen Sie Kunsthandwerker, geniessen Sie ein Henna-Tattoo, ein traditionelles Mittagessen, und sehen Sie Vorfuehrungen von Edelsteinschnitzerei und Teppichweben.\n\nErkunden Sie die Kunst der Tontoepferei\nBeginnen Sie Ihren Tag mit einer Abholung vom Hotel in Jaipur und fahren Sie zu einem nahegelegenen Dorf, das fuer sein traditionelles Handwerk bekannt ist. Bei Ankunft tauchen Sie ein in die Kunst der Tontoepferei. Lernen Sie, Ton zu formen, einzigartige Stuecke zu gestalten, und geniessen Sie eine unterhaltsame, therapeutische Erfahrung. Nehmen Sie an praktischen Toepferaktivitaeten teil, angeleitet von erfahrenen Kunsthandwerkern, um Ihre eigene Kreation zu formen.\n\nErkunden Sie die Kunst der Armreifherstellung\nBesuchen Sie eine lokale Armreif-Werkstatt, wo Sie den kunstvollen Prozess der Herstellung farbenfroher Armreifen kennenlernen. Versuchen Sie sich am Entwerfen Ihres eigenen Armreifs, einer beliebten Tradition in Rajasthan.\n\nErleben Sie praktischen Blockdruck\nAls Naechstes entdecken Sie die zeitlose Kunst des Hand-Blockdrucks. Beobachten Sie, wie Kunsthandwerker kunstvolle Muster in Stoff schnitzen, und lernen Sie, wie man sein eigenes blockgedrucktes Stueck in einer 15-minuetigen Demo-Klasse mit den Kunsthandwerkern herstellt.\n\nHENNA-KUNST-ERLEBNIS: kunstvolle Muster von erfahrenen Kuenstlern\nErleben Sie die Kunst des Henna mit einem erfahrenen Kuenstler, der Ihre Haende mit schoenen und kunstvollen Mustern verzieren wird. Geniessen Sie den beruhigenden Prozess und nehmen Sie ein schoenes Henna-Tattoo mit nach Hause.\n\nTraditionelles Mittagessen im Dorf\nGeniessen Sie ein koestliches traditionelles rajasthanisches Mittagessen in einem lokalen Lokal oder Dorfhaus und erleben Sie authentische Aromen der Region.\n\nEdelsteinherstellung und -verarbeitung\nBesuchen Sie eine Edelsteinfabrik, um die kunstvolle Kunst der Edelsteinschnitzerei und Schmuckherstellung kennenzulernen. Beobachten Sie, wie Kunsthandwerker schoene Schmuckstuecke aus lokal bezogenen Edelsteinen herstellen.\n\nEntdecken Sie das traditionelle Handwerk von Teppichen\nSchliesslich erkunden Sie die antike Kunst der Teppichherstellung in Rajasthan und lernen die Techniken des Webens kunstvoller Muster und Designs per Hand.\n\n### Im Preis enthalten\n\n- Privates Tuk-Tuk-Fahrzeug mit englischsprachigem Fahrer\n- Abholung und Rueckfahrt zum Hotel\n- Wasser in Flaschen\n- Traditionelles Mittagessen\n\n### Nicht enthalten\n\n- Persoenliche Ausgaben\n- Trinkgelder",
+  "highlights": [
+   "Entdecken Sie Rajasthans traditionelles Handwerk und Kunstformen mit lokalen Kunsthandwerkern"
+  ],
+  "included": [
+   "Privates Tuk-Tuk-Fahrzeug mit englischsprachigem Fahrer\nAbholung und Rueckfahrt zum Hotel\nWasser in Flaschen\nTraditionelles Mittagessen"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben\nTrinkgelder"
+  ]
+ },
+ "jaipur-private-jaipur-shopping-tour-with-pickup": {
+  "title": "Jaipur: private Shopping-Tour durch Jaipur mit Abholung und Guide",
+  "metaTitle": "Jaipur, privates Shopping, Guide",
+  "metaDescription": "Erkunden Sie die farbenfrohen Bazare Jaipurs mit Ihrem eigenen privaten Shopping-Guide: Johari Bazaar, Bapu Bazaar, Tripolia und Chandpole Bazaars.",
+  "shortDescription": "Erkunden Sie die farbenfrohen Bazare Jaipurs mit Ihrem eigenen privaten Shopping-Guide",
+  "fullDescription": "Jaipur: private Shopping-Tour durch Jaipur mit Abholung und Guide. Erkunden Sie die farbenfrohen Bazare Jaipurs mit Ihrem eigenen privaten Shopping-Guide.\n\nEntdecken Sie das lebendige Herz Jaipurs, bekannt als die Rosa Stadt, durch ihre lebhaften Maerkte und jahrhundertealten Shopping-Traditionen. Diese private gefuehrte Shopping-Tour bietet eine authentische Reise in Jaipurs handwerkliche Kultur, wo jede Gasse Schaetze bereithaelt, die darauf warten, entdeckt zu werden.\n\nIhr persoenlicher Guide fuehrt Sie durch Jaipurs ikonischste Bazare: Johari Bazaar, bekannt fuer seine atemberaubenden Edelsteine und Silberschmuck; Bapu Bazaar, ein Textilparadies voller blockgedruckter Stoffe und farbenfroher Mojris; und die Tripolia- und Chandpole-Bazare, wo Kunsthandwerker Messingwaren, Armreifen, und Marmor-Meisterwerke herstellen.\n\nAuf dem Weg entdecken Sie versteckte Laeden, die nur Einheimische kennen, lernen die Kunst des Verhandelns, und hoeren faszinierende Geschichten hinter Jaipurs Handwerkstraditionen. Mit Abholung und Rueckfahrt vom Flughafen Jaipur oder Ihrem Hotel geniessen Sie ein nahtloses, problemloses Erlebnis.\n\nAm Ende des Tages kehren Sie nicht nur mit Einkaufstaschen voller einzigartiger Souvenirs zurueck, sondern auch mit unvergesslichen Erinnerungen an Jaipurs Farben, Kultur, und Handwerkskunst.\n\n### Im Preis enthalten\n\n- Professioneller lokaler Shopping-Guide\n- Private gefuehrte Tour durch Jaipurs Hauptbazare\n- Privater klimatisierter Transport\n- Abholung und Rueckfahrt vom Flughafen Jaipur oder Hotel\n- Wasser in Flaschen",
+  "highlights": [
+   "Erkunden Sie die farbenfrohen Bazare Jaipurs mit Ihrem eigenen privaten Shopping-Guide"
+  ],
+  "included": [
+   "Professioneller lokaler Shopping-Guide\nPrivate gefuehrte Tour durch Jaipurs Hauptbazare\nPrivater klimatisierter Transport\nAbholung und Rueckfahrt vom Flughafen Jaipur oder Hotel\nWasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Mahlzeiten und Getraenke\nPersoenliche Einkaufsausgaben\nTrinkgelder fuer Guide/Fahrer"
+  ]
+ },
+ "elephant-village-experience-feed-bathe-connect": {
+  "title": "Erlebnis im Elefantendorf: fuettern, baden, verbinden, und individuell gestalten",
+  "metaTitle": "Elefantendorf, fuettern, baden",
+  "metaDescription": "Treffen und interagieren Sie mit freundlichen Elefanten im Elefantendorf Jaipur, bei einem individuell anpassbaren Erlebnis.",
+  "shortDescription": "Treffen und interagieren Sie mit freundlichen Elefanten",
+  "fullDescription": "Erlebnis im Elefantendorf: fuettern, baden, verbinden, und individuell gestalten. Treffen und interagieren Sie mit freundlichen Elefanten.\n\nVerbringen Sie unvergessliche Momente mit sanften Elefanten im Elefantendorf, Jaipur. Dieses individuell anpassbare Erlebnis ermoeglicht es Ihnen, aus einer Vielzahl interaktiver und lehrreicher Aktivitaeten zu waehlen, waehrend Sie mehr ueber die Pflege, das Verhalten, und das taegliche Leben der Elefanten erfahren.\n\nTreffen Sie die Elefanten, fuettern Sie sie mit ihren Lieblingsleckereien, geniessen Sie Bade- und Duscherlebnisse, erfahren Sie mehr ueber ihre Wellness-Routinen, und machen Sie unvergessliche Fotos in natuerlicher Umgebung.\n\nOb Sie allein, als Paar, mit Freunden, oder der Familie reisen, die Aktivitaeten koennen an Ihre Vorlieben, verfuegbare Zeit, und Ihr Budget angepasst werden.\n\n### Im Preis enthalten\n\n- Nahtlose Transfers: kostenloser Abholung- und Rueckfahrtservice vom Hotel oder Flughafen\n- Erlebnis der Interaktion mit Elefanten\n- Guide- und Aktivitaetsunterstuetzung\n- Zugang zu ausgewaehlten Aktivitaeten\n- Fotomoeglichkeiten\n- Trinkwasser\n\n### Nicht enthalten\n\n- Persoenliche Ausgaben\n- Essen und Getraenke\n- Optionale Aktivitaeten, die nicht im ausgewaehlten Paket enthalten sind",
+  "highlights": [
+   "Treffen und interagieren Sie mit freundlichen Elefanten"
+  ],
+  "included": [
+   "Nahtlose Transfers: kostenloser Abholung- und Rueckfahrtservice vom Hotel oder Flughafen\nErlebnis der Interaktion mit Elefanten\nGuide- und Aktivitaetsunterstuetzung\nZugang zu ausgewaehlten Aktivitaeten\nFotomoeglichkeiten\nTrinkwasser"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben\nEssen und Getraenke\nOptionale Aktivitaeten, die nicht im ausgewaehlten Paket enthalten sind"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",

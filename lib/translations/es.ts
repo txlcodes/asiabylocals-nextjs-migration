@@ -37370,6 +37370,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Tarifas de entrada (si se ingresa a algun sitio)\nComidas completas o bebidas mas alla de las degustaciones\nCobertura de seguro (paseo bajo su propia responsabilidad)"
   ]
  },
+ "jaipur-cultural-tour-with-artisan-craft": {
+  "title": "Jaipur: tour cultural con experiencias de artesania local",
+  "metaTitle": "Jaipur, tour cultural, artesania",
+  "metaDescription": "Descubra las artesanias y formas de arte tradicionales de Rajasthan con artesanos locales: alfareria, pulseras, estampado a bloque, y henna.",
+  "shortDescription": "Descubra las artesanias y formas de arte tradicionales de Rajasthan con artesanos locales",
+  "fullDescription": "Jaipur: tour cultural con experiencias de artesania local. Descubra las artesanias y formas de arte tradicionales de Rajasthan con artesanos locales.\n\nDescubra la artesania tradicional de Rajasthan en un tour de medio dia por Jaipur y los alrededores. Visite un pueblo para aprender alfareria de arcilla, observe la fabricacion de pulseras y el estampado a bloque, conozca a artesanos, disfrute de un tatuaje de henna, un almuerzo tradicional, y vea demostraciones de talla de piedras preciosas y tejido de alfombras.\n\nExplore el arte de la alfareria de arcilla\nComience su dia con una recogida en el hotel en Jaipur y dirijase a un pueblo cercano famoso por su artesania tradicional. A su llegada, sumerjase en el arte de la alfareria de arcilla. Aprenda a moldear arcilla, crear piezas unicas, y disfrute de una experiencia divertida y terapeutica. Participe en actividades practicas de alfareria, guiadas por artesanos habilidosos, para dar forma a su propia creacion.\n\nExplore el arte de la fabricacion de pulseras\nVisite un taller local de fabricacion de pulseras, donde aprendera sobre el intrincado proceso de crear coloridas pulseras. Pruebe a disenar su propia pulsera, una tradicion popular en Rajasthan.\n\nExperimente el estampado a bloque practico\nA continuacion, descubra el arte atemporal del estampado a bloque a mano. Observe a los artesanos tallar intrincados disenos sobre tela y aprenda a crear su propia pieza estampada a bloque en una clase de demostracion de 15 minutos con los artesanos.\n\nEXPERIENCIA DE ARTE DE HENNA: disenos intrincados por artistas habilidosos\nExperimente el arte del henna con un artista habilidoso que decorara sus manos con hermosos y intrincados disenos. Disfrute del proceso relajante y lleve a casa un hermoso tatuaje de henna.\n\nAlmuerzo tradicional en el pueblo\nDisfrute de un delicioso almuerzo rajasthani tradicional en un restaurante local o casa de pueblo, experimentando los sabores autenticos de la region.\n\nFabricacion y talla de piedras preciosas\nVisite una fabrica de piedras preciosas para conocer el intrincado arte de la talla de piedras preciosas y la fabricacion de joyas. Observe a los artesanos crear hermosas piezas de joyeria utilizando piedras preciosas de origen local.\n\nDescubra la artesania tradicional de alfombras\nFinalmente, explore el antiguo arte de la fabricacion de alfombras en Rajasthan, aprendiendo las tecnicas de tejer intrincados patrones y disenos a mano.\n\n### Incluye\n\n- Vehiculo tuk-tuk privado con conductor que habla ingles\n- Recogida y regreso al hotel\n- Agua embotellada\n- Almuerzo tradicional\n\n### No incluye\n\n- Gastos personales\n- Propinas",
+  "highlights": [
+   "Descubra las artesanias y formas de arte tradicionales de Rajasthan con artesanos locales"
+  ],
+  "included": [
+   "Vehiculo tuk-tuk privado con conductor que habla ingles\nRecogida y regreso al hotel\nAgua embotellada\nAlmuerzo tradicional"
+  ],
+  "notIncluded": [
+   "Gastos personales\nPropinas"
+  ]
+ },
+ "jaipur-private-jaipur-shopping-tour-with-pickup": {
+  "title": "Jaipur: tour privado de compras por Jaipur con recogida y guia",
+  "metaTitle": "Jaipur, compras privadas, guia",
+  "metaDescription": "Explore los coloridos bazares de Jaipur con su propio guia privado de compras: Johari Bazaar, Bapu Bazaar, Tripolia y Chandpole Bazaars.",
+  "shortDescription": "Explore los coloridos bazares de Jaipur con su propio guia privado de compras",
+  "fullDescription": "Jaipur: tour privado de compras por Jaipur con recogida y guia. Explore los coloridos bazares de Jaipur con su propio guia privado de compras.\n\nDescubra el vibrante corazon de Jaipur, famosamente conocida como la Ciudad Rosa, a traves de sus animados mercados y tradiciones de compras centenarias. Este tour de compras guiado privado ofrece un viaje autentico a la cultura artesanal de Jaipur, donde cada callejon guarda tesoros esperando ser descubiertos.\n\nSu guia personal lo llevara a traves de los bazares mas emblematicos de Jaipur: el Johari Bazaar, reconocido por sus deslumbrantes piedras preciosas y joyeria de plata; el Bapu Bazaar, un paraiso textil repleto de telas estampadas a bloque y coloridas mojris; y los bazares de Tripolia y Chandpole, donde los artesanos elaboran articulos de laton, pulseras, y obras maestras en marmol.\n\nEn el camino, descubrira tiendas escondidas que solo los locales conocen, aprendera el arte de negociar, y escuchara historias fascinantes detras de las tradiciones artesanales de Jaipur. Con recogida y regreso desde el Aeropuerto de Jaipur o su hotel, disfrutara de una experiencia fluida y sin complicaciones.\n\nAl final del dia, regresara no solo con bolsas de compras llenas de souvenirs unicos, sino tambien con recuerdos inolvidables de los colores, la cultura, y la artesania de Jaipur.\n\n### Incluye\n\n- Guia profesional de compras local\n- Tour guiado privado por los principales bazares de Jaipur\n- Transporte privado con aire acondicionado\n- Recogida y regreso desde el Aeropuerto de Jaipur o el hotel\n- Agua embotellada",
+  "highlights": [
+   "Explore los coloridos bazares de Jaipur con su propio guia privado de compras"
+  ],
+  "included": [
+   "Guia profesional de compras local\nTour guiado privado por los principales bazares de Jaipur\nTransporte privado con aire acondicionado\nRecogida y regreso desde el Aeropuerto de Jaipur o el hotel\nAgua embotellada"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas\nGastos personales de compras\nPropinas para el guia/conductor"
+  ]
+ },
+ "elephant-village-experience-feed-bathe-connect": {
+  "title": "Experiencia en el Pueblo de los Elefantes: alimentar, banar, conectar, y personalizar",
+  "metaTitle": "Pueblo de los Elefantes, alimentar, banar",
+  "metaDescription": "Conozca e interactue con elefantes amigables en el Pueblo de los Elefantes de Jaipur, en una experiencia personalizable.",
+  "shortDescription": "Conozca e interactue con elefantes amigables",
+  "fullDescription": "Experiencia en el Pueblo de los Elefantes: alimentar, banar, conectar, y personalizar. Conozca e interactue con elefantes amigables.\n\nPase momentos inolvidables con elefantes dociles en el Pueblo de los Elefantes, Jaipur. Esta experiencia personalizable le permite elegir entre una variedad de actividades interactivas y educativas mientras aprende sobre el cuidado, el comportamiento, y la vida diaria de los elefantes.\n\nConozca a los elefantes, alimentelos con sus golosinas favoritas, disfrute de experiencias de bano y ducha, aprenda sobre sus rutinas de bienestar, y capture fotografias memorables en un entorno natural.\n\nYa sea que viaje solo, en pareja, con amigos, o en familia, las actividades se pueden adaptar a sus preferencias, tiempo disponible, y presupuesto.\n\n### Incluye\n\n- Traslados sin complicaciones: servicio de recogida y regreso de cortesia al hotel o aeropuerto\n- Experiencia de interaccion con elefantes\n- Asistencia del guia y para las actividades\n- Acceso a las actividades seleccionadas\n- Oportunidades fotograficas\n- Agua potable\n\n### No incluye\n\n- Gastos personales\n- Comida y bebidas\n- Actividades opcionales no incluidas en el paquete seleccionado",
+  "highlights": [
+   "Conozca e interactue con elefantes amigables"
+  ],
+  "included": [
+   "Traslados sin complicaciones: servicio de recogida y regreso de cortesia al hotel o aeropuerto\nExperiencia de interaccion con elefantes\nAsistencia del guia y para las actividades\nAcceso a las actividades seleccionadas\nOportunidades fotograficas\nAgua potable"
+  ],
+  "notIncluded": [
+   "Gastos personales\nComida y bebidas\nActividades opcionales no incluidas en el paquete seleccionado"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
