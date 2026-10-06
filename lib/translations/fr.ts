@@ -35162,6 +35162,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Billets d'entrée (votre guide touristique vous aidera à éviter la file pour acheter les billets)\nPetit-déjeuner et déjeuner (votre guide touristique se fera un plaisir de recommander un bon restaurant)\nPourboires pour le chauffeur, le guide touristique et le maître de la classe d'impression au bloc\nFrais de caméra vidéo et photo sur les sites"
   ]
  },
+ "day-tour-chand-baori-bharatpur-fatehpur-sikri": {
+  "title": "Excursion d'une journée à Chand Baori, Bharatpur et Fatehpur Sikri depuis Jaipur",
+  "metaTitle": "Excursion Chand Baori, Bharatpur, Fatehpur Sikri",
+  "metaDescription": "Observez les oiseaux à Keoladeo, un sanctuaire classé UNESCO, puis explorez Fatehpur Sikri et le puits à degrés de Chand Baori.",
+  "shortDescription": "Observez les oiseaux à Keoladeo, un sanctuaire classé UNESCO.",
+  "fullDescription": "Excursion d'une journée à Chand Baori, Bharatpur et Fatehpur Sikri depuis Jaipur. Observez les oiseaux à Keoladeo, un sanctuaire classé UNESCO.\n\nJour 1 : Jaipur – Bharatpur – Fatehpur Sikri – Chand Baori.\n\nLa visite commence par une prise en charge matinale à l'endroit de votre choix à Jaipur. Vous partirez ensuite pour un trajet pittoresque vers Bharatpur, abritant le célèbre parc national de Keoladeo Ghana. Arriver le matin vous permet d'observer les meilleures opportunités d'observation des oiseaux et de photographie alors que le sanctuaire s'anime avec ses diverses espèces d'oiseaux.\n\nAu sanctuaire d'oiseaux de Bharatpur, un site du patrimoine mondial de l'UNESCO, vous explorerez les vastes zones humides lors d'une balade en pousse-pousse. Le parc abrite une remarquable variété d'espèces aviaires, notamment des cigognes peintes, des aigrettes, des ibis, des spatules, des hérons, des cormorans et les majestueuses grues Sarus. Si vous visitez pendant les mois d'hiver, vous pourrez également apercevoir des oiseaux migrateurs tels que des pélicans et la rare grue de Sibérie. Alors que votre conducteur de pousse-pousse, bien informé sur la biodiversité du sanctuaire, vous guide à travers les sentiers, vous aurez de nombreuses occasions de prendre de superbes photographies de ces oiseaux exotiques dans leur habitat naturel.\n\nAprès une expérience mémorable à Bharatpur, vous poursuivrez vers Fatehpur Sikri, l'ancienne capitale de l'Empire moghol construite par l'empereur Akbar au XVIe siècle. La ville, construite principalement en grès rouge, présente un mélange unique de styles architecturaux hindou et islamique. En marchant à travers ses grandes cours et palais, vous découvrirez l'artisanat complexe qui définissait autrefois la cour royale moghole. Les attractions clés incluent le Buland Darwaza, la Jama Masjid, le Panch Mahal et le tombeau magnifiquement orné de Salim Chishti. Les ruines bien préservées offrent un aperçu fascinant du passé, racontant les histoires de la grandeur et de la fusion culturelle de l'ère moghole.\n\nPoursuivant le voyage, vous vous dirigerez vers Chand Baori, un puits à degrés à couper le souffle dans le petit village d'Abhaneri. Construit il y a plus de mille ans par le roi Chanda, cette merveille architecturale est l'un des puits à degrés les plus profonds et les plus grands d'Inde. Son design géométrique fascinant, avec plus de 3 500 marches disposées symétriquement menant à l'eau, crée un spectacle visuel époustouflant. Bien que les puits à degrés aient été traditionnellement construits pour stocker l'eau, Chand Baori servait également de lieu de rassemblement pour les habitants. Son importance historique et son artisanat complexe en font l'un des trésors cachés du Rajasthan.\n\nAprès une journée enrichissante d'exploration du sanctuaire d'oiseaux de Bharatpur, de Fatehpur Sikri et de Chand Baori, vous retournerez à Jaipur. À votre arrivée, vous serez déposé à l'endroit de votre choix, marquant la fin de ce voyage inoubliable à travers l'histoire, la nature et la brillance architecturale.\n\n### Ce qui est inclus\n\n- Tous les transferts et visites en véhicule privé\n- Péage, stationnement, indemnité du chauffeur et carburant\n- Guide professionnel (si l'option est choisie)\n- Billets d'entrée inclus (si l'option est choisie)\n- Balade en pousse-pousse incluse (si l'option est choisie)\n\n### Non inclus\n\n- Aucune dépense personnelle n'est incluse\n- Déjeuner/dîner/boissons",
+  "highlights": [
+   "Observez les oiseaux à Keoladeo, un sanctuaire classé UNESCO."
+  ],
+  "included": [
+   "Tous les transferts et visites en véhicule privé.\nPéage, stationnement, indemnité du chauffeur et carburant.\nGuide professionnel (si l'option est choisie).\nBillets d'entrée inclus (si l'option est choisie).\nBalade en pousse-pousse incluse. (si l'option est choisie)."
+  ],
+  "notIncluded": [
+   "Aucune dépense personnelle n'est incluse.\nDéjeuner/dîner/boissons."
+  ]
+ },
+ "jaipur-block-printing-workshop-and-hands-on": {
+  "title": "Jaipur : atelier d'impression au bloc et expérience pratique",
+  "metaTitle": "Jaipur : atelier d'impression au bloc",
+  "metaDescription": "Découvrez la technique d'impression au bloc avec un artisan local et créez votre propre tissu imprimé à rapporter chez vous.",
+  "shortDescription": "Découvrez la technique d'impression au bloc avec un artisan local",
+  "fullDescription": "Jaipur : atelier d'impression au bloc et expérience pratique. Découvrez la technique d'impression au bloc avec un artisan local.\n\nDécouvrez l'art de l'impression au bloc à Jaipur lors d'une visite guidée d'un atelier local. Apprenez le processus de l'impression au bloc auprès d'artisans locaux et essayez-vous à la technique pour créer votre propre tissu imprimé à rapporter chez vous.\n\nRencontrez votre guide et rendez-vous à l'atelier, l'un des plus anciens de Jaipur. Observez les artisans locaux sculpter des blocs à la main, et voyez les imprimeurs à l'œuvre utilisant divers blocs et couleurs. Découvrez le processus de lavage qui suit l'impression.\n\nAprès la démonstration, essayez-vous à l'impression au bloc sur un morceau de tissu. Choisissez un article dans la liste ci-dessous à imprimer :\n1. Écharpe courte (1 mètre 20 cm)\n2. Écharpe longue (1 mètre 80 cm)\n3. Tablier (taille unique)\n4. Sac fourre-tout (35 cm x 42 cm)\n5. Deux serviettes (45 cm x 45 cm)\n6. Quatre sets de table (35 cm x 50 cm)\n7. Chemin de table (35 cm x 182 cm)\n\nAprès avoir choisi votre produit à imprimer, sélectionnez le motif et les couleurs et créez votre propre design. Observez comment les couleurs changent lors du lavage du tissu, et ramenez votre échantillon imprimé comme souvenir de votre créativité. C'est l'un des ateliers d'impression au bloc authentiques de Jaipur.\n\n### Ce qui est inclus\n\n- Expérience d'impression au bloc\n- Visite guidée de l'atelier d'impression au bloc\n- Possibilité d'essayer l'impression au bloc sur un article disponible : une écharpe courte ou longue, des sets de table, des serviettes, un sac fourre-tout, un chemin de table ou un tablier\n- Tous les matériaux nécessaires pour l'impression au bloc\n- Votre propre échantillon imprimé au bloc à rapporter chez vous\n- Bouteille d'eau\n- Prise en charge et dépose à l'hôtel (si l'option est choisie)\n\n### Non inclus\n\n- Repas\n- Dépenses personnelles\n- Pourboires",
+  "highlights": [
+   "Découvrez la technique d'impression au bloc avec un artisan local"
+  ],
+  "included": [
+   "Expérience d'impression au bloc\nVisite guidée de l'atelier d'impression au bloc\nPossibilité d'essayer l'impression au bloc sur un article disponible : une écharpe courte ou longue, des sets de table, des serviettes, un sac fourre-tout, un chemin de table ou un tablier\nTous les matériaux nécessaires pour l'impression au bloc\nVotre propre échantillon imprimé au bloc à rapporter chez vous\nBouteille d'eau\nPrise en charge et dépose à l'hôtel (si l'option est choisie)"
+  ],
+  "notIncluded": [
+   "Repas\nDépenses personnelles\nPourboires"
+  ]
+ },
+ "private-transfer-agra-to-ranthambore-with": {
+  "title": "Transfert privé d'Agra à Ranthambore avec Fatehpur Sikri",
+  "metaTitle": "Transfert privé Agra à Ranthambore",
+  "metaDescription": "Profitez d'un transfert privé d'Agra à Ranthambore avec une visite de Fatehpur Sikri en route, en voiture climatisée privée.",
+  "shortDescription": "Profitez d'un transfert privé",
+  "fullDescription": "Transfert privé d'Agra à Ranthambore avec Fatehpur Sikri. Profitez d'un transfert privé.\n\nNotre chauffeur vous rencontrera à votre hôtel à Agra à l'heure demandée. Après avoir rencontré le chauffeur, vous voyagerez en voiture climatisée privée vers Fatehpur Sikri, à environ une heure de route. Après avoir visité Fatehpur Sikri, vous continuerez vers Ranthambore. En chemin, vous ferez un arrêt dans un motel d'autoroute pour utiliser les toilettes. Tout au long du trajet, votre chauffeur partagera l'histoire et le contexte de la région locale que vous traversez.\nÀ votre arrivée à Ranthambore, votre chauffeur vous déposera à votre hôtel.\n\n### Ce qui est inclus\n\n- Voiture climatisée privée\n- Chauffeur parlant anglais\n- Tous les frais de carburant, péage et stationnement\n- Visite de Fatehpur Sikri\n- Prise en charge à votre hôtel à Agra et dépose à votre hôtel à Ranthambore\n- Eau en bouteille\n\n### Non inclus\n\n- Services de guide à Fatehpur Sikri\n- Entrée des monuments\n- Nourriture ou boissons\n- Pourboires",
+  "highlights": [
+   "Profitez d'un transfert privé"
+  ],
+  "included": [
+   "Voiture climatisée privée\nChauffeur parlant anglais\nTous les frais de carburant, péage et stationnement\nVisite de Fatehpur Sikri\nPrise en charge à votre hôtel à Agra et dépose à votre hôtel à Ranthambore\nEau en bouteille"
+  ],
+  "notIncluded": [
+   "Services de guide à Fatehpur Sikri\nEntrée des monuments\nNourriture ou boissons\nPourboires"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
