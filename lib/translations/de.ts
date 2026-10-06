@@ -35498,6 +35498,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche persoenlichen Ausgaben"
   ]
  },
+ "jaipur-discover-guided-tour": {
+  "title": "Jaipur entdecken",
+  "metaTitle": "Jaipur entdecken, gefuehrte Tour",
+  "metaDescription": "Personalisierter Reiseplan: Gestalten Sie Ihre Jaipur-Tour nach Ihren Wuenschen mit einem lokalen Fahrer im Tuk-Tuk.",
+  "shortDescription": "Personalisierter Reiseplan: Gestalten Sie Ihre Jaipur-Tour nach Ihren Wuenschen",
+  "fullDescription": "Jaipur entdecken. Personalisierter Reiseplan: Gestalten Sie Ihre Jaipur-Tour nach Ihren Wuenschen.\n\nTourueberblick:\nErleben Sie die lebendige und historische Stadt Jaipur mit einer privaten, anpassbaren Tagestour, die auf Ihre Interessen zugeschnitten ist, mit einem lokalen Fahrer. Ob Sie ikonische Sehenswuerdigkeiten erkunden oder versteckte Juwelen entdecken moechten, ich gewaehrleiste ein aussergewoehnliches Erlebnis mit meinem Ruf fuer Zuverlaessigkeit, Freundlichkeit und aussergewoehnlichen Service.\n\nTour-Highlights:\n\n- Personalisierter Reiseplan: Gestalten Sie Ihre Tour mit Zielen und Erlebnissen, die Sie interessieren, von Jaipurs majestaetischen Festungen bis zu seinen geschaeftigen Bazaren. Ihr Wunsch ist mein Befehl.\n- Authentischer Transport: Reisen Sie in einem sauberen Tuk-Tuk mit allen Annehmlichkeiten fuer eine komfortable und aufregende Reise. Entspannen Sie sich und geniessen Sie Jaipurs malerische Schoenheit, waehrend ich das Fahren uebernehme.\n- Lokale Einblicke: Profitieren Sie von meinem umfassenden Wissen ueber Jaipurs Geschichte, da ich hier geboren und aufgewachsen bin, ueber Kultur und Traditionen. Ich teile faszinierende Geschichten und Einblicke, die jedes Ziel zum Leben erwecken.\n- Flexibler Zeitplan: Erkunden Sie in Ihrem eigenen Tempo. Verbringen Sie zusaetzliche Zeit an einem Ort oder machen Sie spontane Stopps, wie Sie moechten.\n- Versteckte Juwelen: Entdecken Sie abgelegene Orte und lokale Favoriten, die nicht in Reisefuehrern zu finden sind. Erleben Sie die authentische Seite Jaipurs mit Ihrem lokalen Guide.\n- Herzliche Gastfreundschaft: Geniessen Sie die beruehmte Gastfreundschaft Jaipurs mit einem Fahrer, der nicht nur ein Guide, sondern ein Freund ist. Mein freundliches Auftreten, Puenktlichkeit und Engagement gewaehrleisten eine angenehme Reise.\n\nBeliebte Ziele:\n\n- Amber Fort: Erkunden Sie die Groesse dieser majestaetischen Festung mit ihrer kunstvollen Architektur und atemberaubenden Ausblicken.\n- City Palace: Entdecken Sie die koenigliche Residenz mit ihren schoenen Hoefen, Museen und Gaerten.\n- Hawa Mahal: Staunen Sie ueber den ikonischen Palast der Winde mit seiner einzigartigen Fassade und historischen Bedeutung.\n- Jantar Mantar: Besuchen Sie die UNESCO-Weltkulturerbestaette, bekannt fuer ihre beeindruckende Sammlung astronomischer Instrumente.\n- Lokale Bazare: Schlendern Sie durch geschaeftige Maerkte wie Johari Bazaar und Bapu Bazaar, perfekt zum Einkaufen und um in die lokale Kultur einzutauchen.\n- Jal Mahal: Bewundern Sie den Wasserpalast, ein atemberaubendes architektonisches Wunder inmitten des Man Sagar Sees.\n\nWarum diese Tour waehlen?\n\n- Massgeschneidertes Erlebnis: Erstellen Sie einen Reiseplan, der Ihre Interessen und Ihren Reisestil widerspiegelt.\n- Zuverlaessiger Service: Verlassen Sie sich auf Puenktlichkeit, Sicherheit und Professionalitaet waehrend Ihrer gesamten Reise.\n- Lokale Expertise: Erhalten Sie tiefere Einblicke in Jaipurs Kultur und Geschichte von einem sachkundigen lokalen Fahrer.\n- Komfort und Bequemlichkeit: Geniessen Sie ein muehefreies Erlebnis mit komfortablem Transport und flexibler Zeitplanung.\n- Unvergessliche Erinnerungen: Schaffen Sie bleibende Erinnerungen mit einer Tour, die ueber das Gewoehnliche hinausgeht.\n\nBuchen Sie Ihr Jaipur-Abenteuer noch heute!\nBereit, die Wunder Jaipurs mit einem freundlichen und zuverlaessigen lokalen Fahrer zu erkunden? Buchen Sie jetzt Ihre private, anpassbare Tagestour und bereiten Sie sich auf ein Abenteuer Ihres Lebens vor. Ich freue mich darauf, Sie willkommen zu heissen und die Magie Jaipurs mit Ihnen zu teilen!\n\n### Im Preis enthalten\n\n- Fahrer\n- Benzin\n- Tuk-Tuk\n- Abholung und Rueckfahrt\n\n### Nicht enthalten\n\n- Essen\n- Eintrittskarten",
+  "highlights": [
+   "Personalisierter Reiseplan: Gestalten Sie Ihre Jaipur-Tour nach Ihren Wuenschen"
+  ],
+  "included": [
+   "Fahrer\nBenzin\nTuk-Tuk\nAbholung und Rueckfahrt"
+  ],
+  "notIncluded": [
+   "Essen\nEintrittskarten"
+  ]
+ },
+ "jaipur-full-day-city-tour-with-female-guide-for": {
+  "title": "Jaipur: Ganztages-Stadttour mit weiblicher Guide (nur fuer Maedchen)",
+  "metaTitle": "Jaipur: Ganztagestour, weibliche Guide",
+  "metaDescription": "Entdecken Sie Jaipurs faszinierende architektonische Wunder auf einer bezaubernden Reise mit einer staatlich zugelassenen weiblichen Guide.",
+  "shortDescription": "Entdecken Sie Jaipurs faszinierende architektonische Wunder auf einer bezaubernden Reise",
+  "fullDescription": "Jaipur: Ganztages-Stadttour mit weiblicher Guide (nur fuer Maedchen). Entdecken Sie Jaipurs faszinierende architektonische Wunder auf einer bezaubernden Reise.\n\n### Im Preis enthalten\n\n- Klimatisiertes Fahrzeug\n- Kraftstoffzuschlag\n- Staatlich zugelassene weibliche Guide\n- 1 Flasche Wasser pro Person waehrend der Reise\n\n### Nicht enthalten\n\n- Unterkunft in Jaipur\n- Eintritt zu Denkmaelern\n- Trinkgelder\n- Alles, was nicht ausdruecklich in der Spalte \"Enthalten\" erwaehnt ist",
+  "highlights": [
+   "Entdecken Sie Jaipurs faszinierende architektonische Wunder auf einer bezaubernden Reise"
+  ],
+  "included": [
+   "Klimatisiertes Fahrzeug\nKraftstoffzuschlag\nStaatlich zugelassene weibliche Guide\n1 Flasche Wasser pro Person waehrend der Reise"
+  ],
+  "notIncluded": [
+   "Unterkunft in Jaipur\nEintritt zu Denkmaelern\nTrinkgelder\nAlles, was nicht ausdruecklich in der Spalte \"Enthalten\" erwaehnt ist."
+  ]
+ },
+ "from-delhi-same-day-tour-of-jaipur-by-private": {
+  "title": "Ab Delhi: Tagesausflug nach Jaipur im privaten klimatisierten Auto",
+  "metaTitle": "Ab Delhi: Jaipur-Tagesausflug",
+  "metaDescription": "Erkunden Sie die UNESCO-Weltkulturerbestadt Jaipur an einem Tag: Amber Fort, Jal Mahal, Hawa Mahal, City Palace und Jantar Mantar.",
+  "shortDescription": "Erkunden Sie die UNESCO-Weltkulturerbestadt Jaipur an einem Tag.",
+  "fullDescription": "Ab Delhi: Tagesausflug nach Jaipur im privaten klimatisierten Auto. Erkunden Sie die UNESCO-Weltkulturerbestadt Jaipur an einem Tag.\n\nUnser Fahrer holt Sie an Ihrem gewuenschten Ort in Delhi/Gurugram/Noida oder am Flughafen ab und faehrt im privaten klimatisierten Limousinen-/SUV-Auto nach Jaipur. Es ist eine Fahrt von 04-05 Stunden/240 km. Lehnen Sie sich zurueck und geniessen Sie die schoene Landschaft.\n\nStopp auf halbem Weg.\nEs gibt einen Stopp auf halbem Weg von 15-20 Minuten zum Ausruhen oder Auffrischen, bevor die Fahrt nach Jaipur fortgesetzt wird.\n\nAnkunft und Erkundung des Amber Forts\nBei Ihrer Ankunft in Jaipur treffen Sie Ihren professionellen Reiseleiter, der Sie durch Jaipur fuehrt. Weiter geht es zum Amber Fort. Es ist auf einem Huegel erbaut und von den Aravalli-Bergen umgeben, beruehmt fuer seine kunstvollen Hindu-Stilelemente. Es wurde von Raja Man Singh im XVI. Jahrhundert erbaut.\n\nMittagessen im Restaurant\nNach Abschluss der Besichtigung des Amber Forts werden Sie zu einem der besten klimatisierten Restaurants der Stadt gebracht, wo Sie die Aromen Jaipurs geniessen koennen.\n\nBesuch von Jal Mahal und Hawa Mahal.\nNach der Mittagspause setzen Sie Ihren Ausflug fort, wir fahren weiter in Richtung Stadt Jaipur und machen auf dem Weg einen Halt am Jal Mahal (Wasserpalast) und Hawa Mahal (Palast der Winde) fuer Fotos.\nDer Jal Mahal ist im Zentrum des Man Sagar Sees in der Stadt Jaipur erbaut. Der Palast und der ihn umgebende See wurden im XVIII. Jahrhundert von Maharaja Jai Singh II. umgebaut und erweitert. Er wurde als Sommerresidenz fuer die koenigliche Familie erbaut.\nDer Hawa Mahal wurde 1799 von Maharaja Sawai Pratap Singh fuer die Damen des Rajput-Harems erbaut. Er hat etwa 953 kleine und grosse Fenster, von wo aus sie die koenigliche Prozession auf den Strassen beobachten konnten, ohne von Maennern gesehen zu werden.\n\nCity Palace.\nDer City Palace ist einer der prachtvollsten Palaeste, die man in Jaipur sehen kann. Der City Palace wurde im XVIII. Jahrhundert von Sawai Jai Singh erbaut. Er plante und baute die Aussenmauern, und spaetere Ergaenzungen wurden von aufeinanderfolgenden Herrschern bis ins XX. Jahrhundert vorgenommen. Er ist einer der Palaeste Indiens, der noch von der koeniglichen Familie genutzt wird.\n\nJantar Mantar\nBesuchen Sie das Jantar Mantar, auch als Observatorium bekannt. Dies ist ein weiteres Meisterwerk mit der groessten im XVIII. Jahrhundert errichteten Sonnenuhr. Hier sehen Sie die traditionelle indische Art der Zeitmessung, den Rueckzug der Astronomen usw.\n\nSie koennen die beruehmten Bazare von Jaipur wie die M.I Road besuchen und nach Kunsthandwerk suchen, da diese Stadt sehr beruehmt fuer ihre Textilien, Schmuck, Teppiche usw. ist.\n\nRueckfahrt nach Delhi\nNachdem Sie die Sehenswuerdigkeiten Jaipurs gesehen haben, faehrt unser Fahrer im privaten klimatisierten Limousinen-/SUV-Auto zurueck nach Delhi.\n\nAnkunft in Delhi, Rueckfahrt zum Hotel/Flughafen\nNach der Ankunft in Delhi bringt unser Fahrer Sie zurueck zum Hotel oder Flughafen in Delhi fuer Ihre Weiterreise.\n\n### Im Preis enthalten\n\n- Abhol- und Rueckfahrservice\n- Privates klimatisiertes Limousinen-/SUV-Auto Delhi - Jaipur - Delhi\n- Eintrittskarten fuer Denkmaeler (wenn Option gewaehlt)\n- Mineralwasserflaschen\n- Buffet-Mittagessen (wenn Option gewaehlt)\n- Professioneller Reiseleiterdienst in Ihrer Sprache\n- Alle geltenden Steuern\n\n### Nicht enthalten\n\n- Trinkgelder fuer Reiseleiter und Fahrer\n- Alles, was nicht in den obigen Einschluessen erwaehnt ist",
+  "highlights": [
+   "Erkunden Sie die UNESCO-Weltkulturerbestadt Jaipur an einem Tag."
+  ],
+  "included": [
+   "Abhol- und Rueckfahrservice.\nPrivates klimatisiertes Limousinen-/SUV-Auto Delhi - Jaipur - Delhi.\nEintrittskarten fuer Denkmaeler (wenn Option gewaehlt)\nMineralwasserflaschen.\nBuffet-Mittagessen (wenn Option gewaehlt)\nProfessioneller Reiseleiterdienst in Ihrer Sprache.\nAlle geltenden Steuern."
+  ],
+  "notIncluded": [
+   "Trinkgelder fuer Reiseleiter und Fahrer.\nAlles, was nicht in den obigen Einschluessen erwaehnt ist."
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
