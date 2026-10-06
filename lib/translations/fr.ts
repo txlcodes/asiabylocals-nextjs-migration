@@ -34874,6 +34874,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Repas\nPourboires (recommandés)"
   ]
  },
+ "from-jaipur-ranthambore-tour-with-cab": {
+  "title": "Depuis Jaipur : visite de Ranthambore en voiture",
+  "metaTitle": "Depuis Jaipur : visite de Ranthambore en voiture",
+  "metaDescription": "Explorez la faune captivante du parc national de Ranthambore lors d'une excursion d'une journée en voiture depuis Jaipur avec safari.",
+  "shortDescription": "Explorez la faune captivante du parc national de Ranthambore.",
+  "fullDescription": "Depuis Jaipur : visite de Ranthambore en voiture. Explorez la faune captivante du parc national de Ranthambore.\n\nPartez pour une excursion d'une journée extraordinaire au parc national de Ranthambore depuis Jaipur, spécialement conçue pour les passionnés de nature souhaitant une expérience immersive au cœur de la richesse naturelle. Cet ancien terrain de chasse royal est aujourd'hui un sanctuaire, abritant le majestueux fort royal et des temples anciens au milieu de forêts denses et d'un terrain accidenté. Ici, dans une nature intacte, vous aurez la rare opportunité de rencontrer certaines des espèces animales les plus emblématiques de l'Inde, notamment le mystérieux tigre du Bengale, les crocodiles marins, les léopards indiens, les ours lippus et une variété d'espèces d'oiseaux prospérant dans leur habitat naturel.\n\nItinéraire de la visite :\n1. Prise en charge à Jaipur :\nVotre aventure commence par une prise en charge pratique à votre hôtel de Jaipur ou à l'aéroport, où vous serez accueilli par notre guide amical et compétent, qui vous accompagnera toute la journée en vous apportant des informations sur l'histoire riche de la région, sa faune et les efforts de conservation.\n2. Trajet pittoresque vers Ranthambore :\nDétendez-vous et profitez d'un trajet pittoresque de 3 à 4 heures de Jaipur à Sawai Madhopur, la porte d'entrée du parc national de Ranthambore. En chemin, vous découvrirez des vues à couper le souffle sur les collines Aravalli, de charmants villages et une verdure luxuriante, offrant un aperçu du charme intemporel du Rajasthan rural.\n3. Safari de l'après-midi :\nÀ votre arrivée à Sawai Madhopur, vous serez transporté au cœur du parc national de Ranthambore pour un safari de l'après-midi palpitant. Guidé par un naturaliste expérimenté agréé par le gouvernement, votre aventure safari commence vers 14h, lorsque la faune est la plus active. Vous aurez le choix d'explorer le terrain varié du parc à bord d'une jeep ouverte à 6 places ou d'un canter plus spacieux, selon votre confort et vos préférences.\nEn traversant les pistes forestières, gardez vos sens en alerte pour les images et sons de la nature sauvage, car vous pourriez rencontrer une variété d'animaux, notamment de majestueux tigres du Bengale se reposant à l'ombre, des crocodiles se chauffant au soleil près de l'eau, de gracieux léopards se déplaçant dans les sous-bois et d'espiègles ours lippus cherchant de la nourriture. Les ornithologues seront ravis d'apercevoir des espèces d'oiseaux colorées voletant entre les arbres, ajoutant à la tapisserie vibrante de vie du parc.\nPendant tout le safari, votre guide expert partagera des informations fascinantes sur l'écologie du parc, le comportement animal et les efforts de conservation, enrichissant votre expérience et approfondissant votre appréciation de cet écosystème précieux.\n4. Retour à Jaipur :\nAprès une expérience de safari inoubliable, dites au revoir au parc national de Ranthambore et commencez votre trajet de retour vers Jaipur. En traversant la campagne pittoresque, vous aurez l'occasion de réfléchir aux aventures et observations de la journée, avec une pause dîner optionnelle disponible sur le chemin du retour.\n5. Saisissez l'instant :\nSaisissez cette occasion en or de savourer une expérience inoubliable dans l'un des parcs nationaux les plus réputés de l'Inde, où chaque instant est empreint d'émerveillement, d'excitation et de la beauté intemporelle de la nature.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel\n- Véhicule climatisé privé\n- Les frais d'entrée au parc national\n- Les frais de safari en jeep/canter\n- Guide naturaliste au parc national\n- Frais de carburant, péages routiers et taxes\n- Eau en bouteille\n\n### Non inclus\n\n- Tout repas et boisson\n- Toute dépense personnelle\n- Pourboires (facultatif)",
+  "highlights": [
+   "Explorez la faune captivante du parc national de Ranthambore."
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel\nVéhicule climatisé privé\nLes frais d'entrée au parc national\nLes frais de safari en jeep/canter\nGuide naturaliste au parc national\nFrais de carburant, péages routiers et taxes\nEau en bouteille"
+  ],
+  "notIncluded": [
+   "Tout repas et boisson\nToute dépense personnelle\nPourboires (facultatif)"
+  ]
+ },
+ "jaipur-city-night-tour-with-patrika-gate-masala": {
+  "title": "Jaipur : visite nocturne de la ville avec Patrika Gate et thé au Masala Chowk",
+  "metaTitle": "Jaipur : visite nocturne, Patrika Gate, Masala Chowk",
+  "metaDescription": "Découvrez le charme de Jaipur après le coucher du soleil lors d'une visite nocturne guidée, avec thé traditionnel au Masala Chowk.",
+  "shortDescription": "Découvrez le charme de Jaipur après le coucher du soleil lors d'une visite nocturne guidée",
+  "fullDescription": "Jaipur : visite nocturne de la ville avec Patrika Gate et thé au Masala Chowk. Découvrez le charme de Jaipur après le coucher du soleil lors d'une visite nocturne guidée.\n\nDécouvrez le charme de Jaipur après le coucher du soleil lors de cette visite nocturne immersive. Visitez des monuments emblématiques comme Patrika Gate, Hawa Mahal, Albert Hall, le temple Birla et Toran Gate, magnifiquement illuminés de nuit. Terminez votre parcours au Masala Chowk, où vous savourerez une tasse de thé traditionnel rafraîchissante, en vous imprégnant de l'atmosphère locale animée.\n\nDécouvrez la magie de Jaipur de nuit lors d'une visite guidée en tuk-tuk/voiture. Explorez les monuments les plus emblématiques de la ville, notamment Patrika Gate, Hawa Mahal, Albert Hall, le temple Birla et Toran Gate, tous magnifiquement illuminés après le coucher du soleil. Plongez dans la culture vibrante de Jaipur et rafraîchissez-vous au Masala Chowk, où vous pourrez savourer une tasse de thé traditionnel rafraîchissante. Laissez notre guide expert vous emmener pour un trajet inoubliable à travers la fascinante ville rose !\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel en tuk-tuk\n- Visite des monuments emblématiques de Jaipur de nuit\n- Rafraîchissement au Masala Chowk avec un thé traditionnel\n- Eau en bouteille\n- Suppléments de carburant\n\n### Non inclus\n\n- Dépenses personnelles\n- Repas\n- Pourboires",
+  "highlights": [
+   "Découvrez le charme de Jaipur après le coucher du soleil lors d'une visite nocturne guidée"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel en tuk-tuk\nVisite des monuments emblématiques de Jaipur de nuit\nRafraîchissement au Masala Chowk avec un thé traditionnel\nEau en bouteille\nSuppléments de carburant"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles\nRepas\nPourboires"
+  ]
+ },
+ "from-jaipur-ajmer-pushkar-private-tour-by-cab": {
+  "title": "Depuis Jaipur : visite privée d'Ajmer et Pushkar en voiture avec guide",
+  "metaTitle": "Depuis Jaipur : visite privée d'Ajmer et Pushkar",
+  "metaDescription": "Explorez les sites sacrés d'Ajmer comme le dargah Ajmer-e-Sharif, puis découvrez Pushkar et son lac sacré depuis Jaipur.",
+  "shortDescription": "Explorez les sites sacrés d'Ajmer comme le dargah Ajmer-e-Sharif.",
+  "fullDescription": "Depuis Jaipur : visite privée d'Ajmer et Pushkar en voiture avec guide. Explorez les sites sacrés d'Ajmer comme le dargah Ajmer-e-Sharif.\n\nPrise en charge :\nVivez une arrivée sans accroc à Jaipur, où nos agents courtois vous accueillent chaleureusement à l'endroit désigné. De là, partez pour un trajet confortable vers Ajmer en voiture privée, assurant une transition fluide vers votre prochaine destination.\n\nAjmer :\nÀ votre arrivée à Ajmer, plongez dans l'atmosphère spirituelle en commençant votre visite de la ville. Visitez le célèbre dargah d'Ajmer-e-Sharif, un lieu de pèlerinage révéré pour les musulmans, suivi d'une visite de l'historique Adhai-Din-Ka Jhonpara et du paisible lac Ana Sagar.\n\nPushkar :\nEnsuite, aventurez-vous à Pushkar, une ville imprégnée de signification religieuse, parée de temples rustiques et de ghats sacrés. Promenez-vous le long des ghats du lac sacré de Pushkar, en vous imprégnant de l'atmosphère sereine. Parmi la myriade de temples, le temple du seigneur Brahma se distingue comme un joyau rare, dédié au culte du seigneur Brahma lui-même.\n\nDépose :\nAprès une journée d'exploration enrichissante, détendez-vous pendant que nous vous ramenons à Jaipur, achevant votre voyage enrichissant avec des souvenirs inoubliables.\n\n### Ce qui est inclus\n\n- Transferts en ville en voiture climatisée\n- Chauffeur\n- Eau en bouteille (illimitée)\n- Wifi\n- Papier mouchoir\n- Prise en charge et dépose",
+  "highlights": [
+   "Explorez les sites sacrés d'Ajmer comme le dargah Ajmer-e-Sharif."
+  ],
+  "included": [
+   "Transferts en ville en voiture climatisée\nChauffeur\nEau en bouteille (illimitée)\nWifi\nPapier mouchoir\nPrise en charge et dépose"
+  ],
+  "notIncluded": [
+   "Repas\nHébergement\nPourboires\nFrais d'entrée aux monuments"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
