@@ -34634,6 +34634,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gratificación (propina)"
   ]
  },
+ "jaipur-local-workshop-tour-handblock-printing": {
+  "title": "Jaipur: tour de taller local (estampado en bloque a mano)",
+  "metaTitle": "Jaipur: tour de taller de estampado en bloque",
+  "metaDescription": "Descubra la rica tradición y maestría del estampado en bloque a mano de Jaipur, en este tour de taller local.",
+  "shortDescription": "Descubra la rica tradición y maestría del estampado en bloque a mano de Jaipur",
+  "fullDescription": "Jaipur: tour de taller local (estampado en bloque a mano). Descubra la rica tradición y maestría del estampado en bloque a mano de Jaipur.\n\nAprenda y ponga en práctica rápidamente el mundialmente famoso taller de estampado en bloque a mano de Jaipur en pocas horas.\nSumérjase en los colores naturales que provienen de las flores y verduras y extraiga lo máximo del conocimiento compartido por artesanos experimentados en el estampado en bloque.\n¿Por qué asistir a este taller?\n\nTradición artística: Sanganer y Bagru son reconocidos por su rica tradición de estampado en bloque a mano. Los talleres allí a menudo muestran técnicas intrincadas, exhibiendo la maestría y habilidad de los artesanos locales. Estos estampados a menudo se realizan con tintes naturales y métodos tradicionales transmitidos de generación en generación.\n\nPatrimonio cultural: las técnicas de estampado en bloque a mano en estas áreas son parte del patrimonio cultural de Rajastán, India. Representan la artesanía local, reflejando la historia, las tradiciones y el modo de vida de la región.\n\nSostenibilidad y métodos naturales: el énfasis en los estampados naturales significa un compromiso con la sostenibilidad y las prácticas ecológicas. Los artesanos a menudo usan materiales orgánicos y tintes naturales en sus estampados, lo que es cada vez más valorado en un mundo que se dirige hacia un consumo más consciente del medio ambiente.\n\nLa actividad se realiza todos los días dos veces en la ciudad vieja de Jaipur. La recogida y el traslado están disponibles solo si se solicita.\n\n### Qué incluye\n\n- Recogida y traslado al hotel\n- Tour completo del taller y actividades de estampado en bloque\n- Instructor de idiomas para traducción\n- Bebidas\n- Impuestos y estacionamiento\n\n### No incluye\n\n- Gratificaciones",
+  "highlights": [
+   "Descubra la rica tradición y maestría del estampado en bloque a mano de Jaipur"
+  ],
+  "included": [
+   "Recogida y traslado al hotel\nTour completo del taller y actividades de estampado en bloque\nInstructor de idiomas para traducción\nBebidas\nImpuestos y estacionamiento"
+  ],
+  "notIncluded": [
+   "Gratificaciones"
+  ]
+ },
+ "jaipur-same-day-bhangarh-fort-chand-baori": {
+  "title": "Jaipur: tour de un día al Fuerte de Bhangarh y al pozo escalonado de Chand Baori",
+  "metaTitle": "Jaipur: tour de un día, Bhangarh, Chand Baori",
+  "metaDescription": "Descubra la ciudad embrujada de Bhangarh y el pueblo de Abhaneri en esta excursión de un día desde Jaipur.",
+  "shortDescription": "Descubra la ciudad embrujada de Bhangarh y el pueblo de Abhaneri en una excursión de un día",
+  "fullDescription": "Jaipur: tour de un día al Fuerte de Bhangarh y al pozo escalonado de Chand Baori. Descubra la ciudad embrujada de Bhangarh y el pueblo de Abhaneri en esta excursión de un día.\n\nSerá recogido en su hotel en Jaipur. Disfrute de un trayecto de 2 horas hasta el Fuerte de Bhangarh en coche privado. En el camino, aprenda sobre la historia y las tradiciones de la región local con su guía.\n\nExplore el Fuerte de Bhangarh, situado en las laderas de la cordillera Aravalli. Sus atmosféricas ruinas fueron inexplicablemente abandonadas hace siglos. Pasee por los restos del palacio del rey, relájese junto al sereno estanque del palacio, y descubra los antiguos templos, havelis, majestuosas puertas y impresionantes vistas del fuerte.\n\nDisfrute de un trayecto de 50 minutos hasta Chand Baori, un pozo escalonado de 1.000 años de antigüedad ubicado en el pueblo de Abhaneri. Disfrute del tour guiado por el pozo escalonado más profundo de la India y admire su intrincado diseño y brillantez arquitectónica.\n\nDespués de visitar el pozo escalonado, disfrute de un almuerzo en el hotel palacio, con la opción disponible de visitar el pueblo de arte y artesanía antes de regresar a Jaipur (aproximadamente 2 horas). Será dejado en su hotel o en cualquier lugar deseado dentro de la ciudad de Jaipur.\n\n### Qué incluye\n\n- Recogida y traslado al hotel\n- Traslados privados de ida y vuelta desde Jaipur\n- Guía conocedor para todo el tour\n- Entradas al pozo escalonado de Chand Baori (si se selecciona la opción)\n- Entradas al Fuerte de Bhangarh (si se selecciona la opción)\n\n### No incluye\n\n- Almuerzo\n- Gratificaciones\n- Gastos personales",
+  "highlights": [
+   "Descubra la ciudad embrujada de Bhangarh y el pueblo de Abhaneri en una excursión de un día"
+  ],
+  "included": [
+   "Recogida y traslado al hotel\nTraslados privados de ida y vuelta desde Jaipur\nGuía conocedor para todo el tour\nEntradas al pozo escalonado de Chand Baori (si se selecciona la opción)\nEntradas al Fuerte de Bhangarh (si se selecciona la opción)"
+  ],
+  "notIncluded": [
+   "Almuerzo\nGratificaciones\nGastos personales"
+  ]
+ },
+ "from-jaipur-jhalanaaamagarh-gypsy-leopard-jungle": {
+  "title": "Desde Jaipur: safari gypsy en jeep de leopardos en la selva de Jhalana/Aamagarh",
+  "metaTitle": "Desde Jaipur: safari de leopardos en Jhalana/Aamagarh",
+  "metaDescription": "Safari de leopardos en Jhalana con guía experimentado que ya ha visto al leopardo, desde Jaipur.",
+  "shortDescription": "Safari de leopardos en Jhalana con guía experimentado que ya ha visto al leopardo",
+  "fullDescription": "Desde Jaipur: safari gypsy en jeep de leopardos en la selva de Jhalana/Aamagarh. Safari de leopardos en Jhalana con guía experimentado que ya ha visto al leopardo.\n\nEl Safari de Leopardos de Jhalana, en Jaipur, ofrece una emocionante experiencia de vida silvestre en el corazón de Rajastán. Explore el accidentado paisaje de Aravalli en un emocionante safari en jeep y busque leopardos, hienas, chacales, nilgós, jabalíes, pavos reales y otra vida silvestre en su hábitat natural.\nExperimente el lado salvaje de Jaipur con un emocionante Safari de Leopardos de Jhalana. Ubicado en las hermosas colinas de Aravalli, el Safari de Leopardos de Jhalana es uno de los destinos populares de Rajastán para observar leopardos en su hábitat natural.\n\nDisfrute de un safari guiado en jeep a través de los bosques secos, colinas rocosas y paisajes escénicos de la reserva mientras busca a los esquivos leopardos. En el camino, también podría encontrar hienas, chacales, nilgós, jabalíes, pavos reales y una variedad de aves.\n\nEl safari ofrece excelentes oportunidades para los amantes de la vida silvestre, fotógrafos y entusiastas de la naturaleza. Cada safari es una aventura única, ya que los avistamientos de vida silvestre dependen de las condiciones naturales y los movimientos de los animales.\n\n### Qué incluye\n\n- Reserva de leopardos de Jhalana/Aamagarh\n- Safari en jeep gypsy\n- Con guía experto a elección y naturalista\n- Permiso de entrada a la selva y permiso de guía incluidos\n\n### No incluye\n\n- Gastos personales\n- Propinas",
+  "highlights": [
+   "Safari de leopardos en Jhalana con guía experimentado que ya ha visto al leopardo"
+  ],
+  "included": [
+   "Reserva de leopardos de Jhalana/Aamagarh\nSafari en jeep gypsy\nCon guía experto a elección y naturalista\nPermiso de entrada a la selva y permiso de guía incluidos"
+  ],
+  "notIncluded": [
+   "Gastos personales\nPropinas"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",

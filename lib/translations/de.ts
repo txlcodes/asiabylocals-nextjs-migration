@@ -34634,6 +34634,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgeld"
   ]
  },
+ "jaipur-local-workshop-tour-handblock-printing": {
+  "title": "Jaipur: lokaler Werkstatt-Ausflug (Handblockdruck)",
+  "metaTitle": "Jaipur: Handblockdruck-Werkstatt-Ausflug",
+  "metaDescription": "Entdecken Sie die reiche Tradition und Meisterschaft des Handblockdrucks von Jaipur, bei diesem lokalen Werkstatt-Ausflug.",
+  "shortDescription": "Entdecken Sie die reiche Tradition und Meisterschaft des Handblockdrucks von Jaipur",
+  "fullDescription": "Jaipur: lokaler Werkstatt-Ausflug (Handblockdruck). Entdecken Sie die reiche Tradition und Meisterschaft des Handblockdrucks von Jaipur.\n\nLernen Sie den weltberühmten Handblockdruck-Workshop von Jaipur in wenigen Stunden und wenden Sie ihn schnell an.\nTauchen Sie ein in die natürlichen Farben, die aus Blumen und Gemüse stammen, und schöpfen Sie das Beste aus dem Wissen, das von erfahrenen Handblockdruck-Kunsthandwerkern geteilt wird.\nWarum an diesem Workshop teilnehmen?\n\nKünstlerische Tradition: Sanganer und Bagru sind bekannt für ihre reiche Tradition des Handblockdrucks. Die Workshops dort zeigen oft kunstvolle Techniken und präsentieren die Meisterschaft und Fertigkeit lokaler Kunsthandwerker. Diese Drucke werden oft mit natürlichen Farbstoffen und traditionellen, über Generationen weitergegebenen Methoden hergestellt.\n\nKulturelles Erbe: Die Handblockdruck-Techniken in diesen Gebieten sind Teil des kulturellen Erbes von Rajasthan, Indien. Sie repräsentieren das lokale Handwerk und spiegeln die Geschichte, Traditionen und Lebensweise der Region wider.\n\nNachhaltigkeit und natürliche Methoden: Die Betonung natürlicher Drucke zeigt ein Engagement für Nachhaltigkeit und umweltfreundliche Praktiken. Kunsthandwerker verwenden oft organische Materialien und natürliche Farbstoffe bei ihrem Druck, was in einer Welt, die sich zu umweltbewussterem Konsum bewegt, zunehmend geschätzt wird.\n\nDie Aktivität findet täglich zweimal in der Altstadt von Jaipur statt. Abholung und Rückfahrt sind nur auf Anfrage verfügbar.\n\n### Inklusive\n\n- Abholung und Rückfahrt vom Hotel\n- Vollständiger Werkstatt-Ausflug und Handblockdruck-Aktivitäten\n- Sprachlehrer zum Übersetzen\n- Getränke\n- Steuern und Parken\n\n### Nicht inklusive\n\n- Trinkgelder",
+  "highlights": [
+   "Entdecken Sie die reiche Tradition und Meisterschaft des Handblockdrucks von Jaipur"
+  ],
+  "included": [
+   "Abholung und Rückfahrt vom Hotel\nVollständiger Werkstatt-Ausflug und Handblockdruck-Aktivitäten\nSprachlehrer zum Übersetzen\nGetränke\nSteuern und Parken"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "jaipur-same-day-bhangarh-fort-chand-baori": {
+  "title": "Jaipur: Eintages-Tour zum Bhangarh-Fort und zum Chand-Baori-Stufenbrunnen",
+  "metaTitle": "Jaipur: Eintagestour, Bhangarh, Chand Baori",
+  "metaDescription": "Entdecken Sie die verwunschene Stadt Bhangarh und das Dorf Abhaneri bei diesem Tagesausflug ab Jaipur.",
+  "shortDescription": "Entdecken Sie die verwunschene Stadt Bhangarh und das Dorf Abhaneri bei einem Tagesausflug",
+  "fullDescription": "Jaipur: Eintages-Tour zum Bhangarh-Fort und zum Chand-Baori-Stufenbrunnen. Entdecken Sie die verwunschene Stadt Bhangarh und das Dorf Abhaneri bei diesem Tagesausflug.\n\nSie werden von Ihrem Hotel in Jaipur abgeholt. Genießen Sie eine 2-stündige Fahrt zum Bhangarh-Fort im privaten Auto. Unterwegs erfahren Sie mehr über die Geschichte und Traditionen der lokalen Region von Ihrem Reiseführer.\n\nErkunden Sie das Bhangarh-Fort, eingebettet in die Ausläufer des Aravalli-Gebirges. Seine stimmungsvollen Ruinen wurden vor Jahrhunderten unerklärlicherweise verlassen. Schlendern Sie durch die Überreste des Königspalastes, entspannen Sie sich am ruhigen Palastteich und entdecken Sie die antiken Tempel, Havelis, majestätischen Tore und atemberaubenden Ausblicke des Forts.\n\nGenießen Sie eine 50-minütige Fahrt nach Chand Baori, einem 1.000 Jahre alten Stufenbrunnen im Dorf Abhaneri. Genießen Sie die geführte Tour durch den tiefsten Stufenbrunnen Indiens und bewundern Sie sein kompliziertes Design und seine architektonische Brillanz.\n\nNach dem Besuch des Stufenbrunnens genießen Sie ein Mittagessen im Palasthotel, mit der Option, das Kunst- und Handwerksdorf zu besuchen, bevor Sie nach Jaipur zurückkehren (ca. 2 Stunden). Sie werden an Ihrem Hotel oder einem gewünschten Ort in der Stadt Jaipur abgesetzt.\n\n### Inklusive\n\n- Abholung und Rückfahrt vom Hotel\n- Private Hin- und Rücktransfers ab Jaipur\n- Sachkundiger Reiseführer für die gesamte Tour\n- Eintrittskarten für den Chand-Baori-Stufenbrunnen (falls Option gewählt)\n- Eintrittskarten für das Bhangarh-Fort (falls Option gewählt)\n\n### Nicht inklusive\n\n- Mittagessen\n- Trinkgelder\n- Persönliche Ausgaben",
+  "highlights": [
+   "Entdecken Sie die verwunschene Stadt Bhangarh und das Dorf Abhaneri bei einem Tagesausflug"
+  ],
+  "included": [
+   "Abholung und Rückfahrt vom Hotel\nPrivate Hin- und Rücktransfers ab Jaipur\nSachkundiger Reiseführer für die gesamte Tour\nEintrittskarten für den Chand-Baori-Stufenbrunnen (falls Option gewählt)\nEintrittskarten für das Bhangarh-Fort (falls Option gewählt)"
+  ],
+  "notIncluded": [
+   "Mittagessen\nTrinkgelder\nPersönliche Ausgaben"
+  ]
+ },
+ "from-jaipur-jhalanaaamagarh-gypsy-leopard-jungle": {
+  "title": "Ab Jaipur: Gypsy-Leoparden-Dschungel-Safari in Jhalana/Aamagarh",
+  "metaTitle": "Ab Jaipur: Leoparden-Safari in Jhalana/Aamagarh",
+  "metaDescription": "Jhalana-Leoparden-Safari mit erfahrenem Reiseführer, der den Leoparden bereits gesehen hat, ab Jaipur.",
+  "shortDescription": "Jhalana-Leoparden-Safari mit erfahrenem Reiseführer, der den Leoparden bereits gesehen hat",
+  "fullDescription": "Ab Jaipur: Gypsy-Leoparden-Dschungel-Safari in Jhalana/Aamagarh. Jhalana-Leoparden-Safari mit erfahrenem Reiseführer, der den Leoparden bereits gesehen hat.\n\nDie Jhalana-Leoparden-Safari in Jaipur bietet ein aufregendes Wildtiererlebnis im Herzen von Rajasthan. Erkunden Sie die zerklüftete Aravalli-Landschaft bei einer spannenden Jeep-Safari und suchen Sie nach Leoparden, Hyänen, Schakalen, Nilgauantilopen, Wildschweinen, Pfauen und anderen Wildtieren in ihrem natürlichen Lebensraum.\nErleben Sie die wilde Seite Jaipurs mit einer aufregenden Jhalana-Leoparden-Safari. Gelegen in den wunderschönen Aravalli-Hügeln, ist die Jhalana-Leoparden-Safari eines der beliebten Ziele Rajasthans, um Leoparden in ihrem natürlichen Lebensraum zu entdecken.\n\nGenießen Sie eine geführte Jeep-Safari durch die trockenen Wälder, felsigen Hügel und malerischen Landschaften des Reservats, während Sie nach den scheuen Leoparden suchen. Unterwegs könnten Sie auch Hyänen, Schakale, Nilgauantilopen, Wildschweine, Pfauen und eine Vielzahl von Vögeln begegnen.\n\nDie Safari bietet ausgezeichnete Möglichkeiten für Wildtierliebhaber, Fotografen und Naturbegeisterte. Jede Safari ist ein einzigartiges Abenteuer, da Tierbeobachtungen von natürlichen Bedingungen und Tierbewegungen abhängen.\n\n### Inklusive\n\n- Leopardenreservat Jhalana/Aamagarh\n- Jeep-Gypsy-Safari\n- Mit Experten-Wahl-Reiseführer und Naturforscher\n- Dschungel-Eintrittsgenehmigung und Reiseführer-Genehmigung inbegriffen\n\n### Nicht inklusive\n\n- Persönliche Ausgaben\n- Trinkgelder",
+  "highlights": [
+   "Jhalana-Leoparden-Safari mit erfahrenem Reiseführer, der den Leoparden bereits gesehen hat"
+  ],
+  "included": [
+   "Leopardenreservat Jhalana/Aamagarh\nJeep-Gypsy-Safari\nMit Experten-Wahl-Reiseführer und Naturforscher\nDschungel-Eintrittsgenehmigung und Reiseführer-Genehmigung inbegriffen"
+  ],
+  "notIncluded": [
+   "Persönliche Ausgaben\nTrinkgelder"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",

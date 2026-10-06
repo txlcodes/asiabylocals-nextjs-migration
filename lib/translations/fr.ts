@@ -34634,6 +34634,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Gratification (pourboire)"
   ]
  },
+ "jaipur-local-workshop-tour-handblock-printing": {
+  "title": "Jaipur : circuit d'atelier local (impression au bloc à la main)",
+  "metaTitle": "Jaipur : circuit d'atelier d'impression au bloc",
+  "metaDescription": "Découvrez la riche tradition et la maîtrise de l'impression au bloc à la main de Jaipur, lors de ce circuit d'atelier local.",
+  "shortDescription": "Découvrez la riche tradition et la maîtrise de l'impression au bloc à la main de Jaipur",
+  "fullDescription": "Jaipur : circuit d'atelier local (impression au bloc à la main). Découvrez la riche tradition et la maîtrise de l'impression au bloc à la main de Jaipur.\n\nApprenez et mettez rapidement en pratique le célèbre atelier d'impression au bloc à la main de Jaipur en quelques heures.\nPlongez-vous dans les couleurs naturelles issues des fleurs et des légumes et tirez le meilleur des connaissances partagées par des artisans expérimentés de l'impression au bloc.\nPourquoi assister à cet atelier ?\n\nTradition artistique : Sanganer et Bagru sont réputés pour leur riche tradition d'impression au bloc à la main. Les ateliers y présentent souvent des techniques complexes, mettant en valeur la maîtrise et le savoir-faire des artisans locaux. Ces impressions sont souvent réalisées avec des teintures naturelles et des méthodes traditionnelles transmises de génération en génération.\n\nPatrimoine culturel : les techniques d'impression au bloc à la main dans ces régions font partie du patrimoine culturel du Rajasthan, en Inde. Elles représentent l'artisanat local, reflétant l'histoire, les traditions et le mode de vie de la région.\n\nDurabilité et méthodes naturelles : l'accent mis sur les impressions naturelles témoigne d'un engagement envers la durabilité et les pratiques écologiques. Les artisans utilisent souvent des matériaux organiques et des teintures naturelles pour leurs impressions, ce qui est de plus en plus valorisé dans un monde tendant vers une consommation plus respectueuse de l'environnement.\n\nL'activité se déroule tous les jours deux fois dans la vieille ville de Jaipur. La prise en charge et la dépose sont disponibles uniquement sur demande.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel\n- Circuit complet de l'atelier et activités d'impression au bloc\n- Instructeur linguistique pour la traduction\n- Boissons\n- Taxes et stationnement\n\n### Non inclus\n\n- Gratifications",
+  "highlights": [
+   "Découvrez la riche tradition et la maîtrise de l'impression au bloc à la main de Jaipur"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel\nCircuit complet de l'atelier et activités d'impression au bloc\nInstructeur linguistique pour la traduction\nBoissons\nTaxes et stationnement"
+  ],
+  "notIncluded": [
+   "Gratifications"
+  ]
+ },
+ "jaipur-same-day-bhangarh-fort-chand-baori": {
+  "title": "Jaipur : circuit d'une journée au Fort de Bhangarh et à la baoli de Chand Baori",
+  "metaTitle": "Jaipur : circuit d'une journée, Bhangarh, Chand Baori",
+  "metaDescription": "Découvrez la ville hantée de Bhangarh et le village d'Abhaneri lors de cette excursion d'une journée depuis Jaipur.",
+  "shortDescription": "Découvrez la ville hantée de Bhangarh et le village d'Abhaneri lors d'une excursion d'une journée",
+  "fullDescription": "Jaipur : circuit d'une journée au Fort de Bhangarh et à la baoli de Chand Baori. Découvrez la ville hantée de Bhangarh et le village d'Abhaneri lors de cette excursion d'une journée.\n\nVous serez pris en charge à votre hôtel à Jaipur. Profitez d'un trajet de 2 heures vers le Fort de Bhangarh en voiture privée. En chemin, découvrez l'histoire et les traditions de la région locale auprès de votre guide.\n\nExplorez le Fort de Bhangarh, niché au pied de la chaîne de l'Aravalli. Ses ruines mystérieuses ont été inexplicablement abandonnées il y a des siècles. Flânez à travers les vestiges du palais du roi, détendez-vous près de l'étang paisible du palais, et découvrez les anciens temples, havelis, portails majestueux et vues magnifiques du fort.\n\nProfitez d'un trajet de 50 minutes vers Chand Baori, une baoli vieille de 1 000 ans nichée dans le village d'Abhaneri. Profitez du circuit guidé de la baoli la plus profonde d'Inde et admirez son design complexe et son génie architectural.\n\nAprès la visite de la baoli, profitez d'un déjeuner à l'hôtel du palais, avec une option disponible pour visiter le village d'art et d'artisanat avant de retourner à Jaipur (environ 2 heures). Vous serez déposé à votre hôtel ou à tout autre lieu souhaité dans la ville de Jaipur.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel\n- Transferts privés aller-retour depuis Jaipur\n- Guide compétent pour tout le circuit\n- Billets d'entrée à la baoli de Chand Baori (si l'option est sélectionnée)\n- Billets d'entrée au Fort de Bhangarh (si l'option est sélectionnée)\n\n### Non inclus\n\n- Déjeuner\n- Gratifications\n- Dépenses personnelles",
+  "highlights": [
+   "Découvrez la ville hantée de Bhangarh et le village d'Abhaneri lors d'une excursion d'une journée"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel\nTransferts privés aller-retour depuis Jaipur\nGuide compétent pour tout le circuit\nBillets d'entrée à la baoli de Chand Baori (si l'option est sélectionnée)\nBillets d'entrée au Fort de Bhangarh (si l'option est sélectionnée)"
+  ],
+  "notIncluded": [
+   "Déjeuner\nGratifications\nDépenses personnelles"
+  ]
+ },
+ "from-jaipur-jhalanaaamagarh-gypsy-leopard-jungle": {
+  "title": "Depuis Jaipur : safari en jeep gypsy à la recherche des léopards à Jhalana/Aamagarh",
+  "metaTitle": "Depuis Jaipur : safari léopards à Jhalana/Aamagarh",
+  "metaDescription": "Safari aux léopards de Jhalana avec un guide expérimenté ayant déjà observé le léopard, depuis Jaipur.",
+  "shortDescription": "Safari aux léopards de Jhalana avec un guide expérimenté ayant déjà observé le léopard",
+  "fullDescription": "Depuis Jaipur : safari en jeep gypsy à la recherche des léopards à Jhalana/Aamagarh. Safari aux léopards de Jhalana avec un guide expérimenté ayant déjà observé le léopard.\n\nLe safari aux léopards de Jhalana, à Jaipur, offre une expérience animalière passionnante au cœur du Rajasthan. Explorez le paysage accidenté de l'Aravalli lors d'un palpitant safari en jeep et recherchez des léopards, des hyènes, des chacals, des nilgaut, des sangliers, des paons et d'autres animaux sauvages dans leur habitat naturel.\nDécouvrez le côté sauvage de Jaipur avec un passionnant safari aux léopards de Jhalana. Situé dans les magnifiques collines de l'Aravalli, le safari aux léopards de Jhalana est l'une des destinations populaires du Rajasthan pour observer des léopards dans leur habitat naturel.\n\nProfitez d'un safari guidé en jeep à travers les forêts sèches, les collines rocheuses et les paysages pittoresques de la réserve tout en recherchant les léopards insaisissables. En chemin, vous pourriez également rencontrer des hyènes, des chacals, des nilgaut, des sangliers, des paons et une variété d'oiseaux.\n\nLe safari offre d'excellentes opportunités pour les amoureux de la faune, les photographes et les passionnés de nature. Chaque safari est une aventure unique, car les observations de la faune dépendent des conditions naturelles et des mouvements des animaux.\n\n### Ce qui est inclus\n\n- Réserve aux léopards de Jhalana/Aamagarh\n- Safari en jeep gypsy\n- Avec guide expert et naturaliste au choix\n- Permis d'entrée dans la jungle et permis de guide inclus\n\n### Non inclus\n\n- Dépenses personnelles\n- Pourboires",
+  "highlights": [
+   "Safari aux léopards de Jhalana avec un guide expérimenté ayant déjà observé le léopard"
+  ],
+  "included": [
+   "Réserve aux léopards de Jhalana/Aamagarh\nSafari en jeep gypsy\nAvec guide expert et naturaliste au choix\nPermis d'entrée dans la jungle et permis de guide inclus"
+  ],
+  "notIncluded": [
+   "Dépenses personnelles\nPourboires"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
