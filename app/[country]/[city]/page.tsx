@@ -212,6 +212,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     'hanoi', 'ho-chi-minh-city', 'hoi-an', 'da-nang', 'ha-long', 'sapa',
     'ubud', 'canggu', 'uluwatu', 'nusa-penida',
     'siem-reap', 'phnom-penh',
+    // Malaysia, Singapore, China: GSC crawled these before they had live tours
+    // (while the launch /explore redirect bug and later Render build-OOM
+    // were still blocking the page), so its cached verdict is stale noindex.
+    // Floor them here too so a transient fetch hiccup can't repeat that.
+    'kuala-lumpur', 'penang', 'langkawi', 'malacca', 'kota-kinabalu',
+    'kuching', 'cameron-highlands', 'ipoh', 'johor-bahru', 'genting-highlands',
+    'singapore', 'beijing', 'shanghai',
   ]);
   const noIndex = ALWAYS_INDEX_CITIES.has(city.toLowerCase())
     ? false
