@@ -79417,8 +79417,403 @@ export const FR_TOURS: Record<string, TourT> = {
    "Balade en flyboard"
   ],
   "notIncluded": [
-   "Prise en charge et depose a l'hotel",
+   "Prise en charge et depose a l'hotel.",
    "Nourriture"
+  ]
+ },
+ "dubai-private-desert-buggy-tour-camel-ride-sandboa": {
+  "title": "Dubai : visite privee en buggy des dunes, balade a dos de chameau et sandboard",
+  "metaTitle": "Dubai : visite privee en buggy des dunes, balade a dos de cham...",
+  "metaDescription": "Une excursion de 1 heure(s) au depart de Dubai passant par On foot, View point, View point et Visitor center. Propose par Kings and Queens Luxury Yachts.",
+  "shortDescription": "Une excursion de 1 heure(s) au depart de Dubai passant par On foot, View point, View point et Visitor center. Propose par Kings and Queens Luxury Yachts.",
+  "fullDescription": "Une excursion de 1 heure(s) au depart de Dubai, passant par On foot, View point, View point et Visitor center. Le plus long arret est View point, d'environ 1 heure. Il y a 4 arrets au total.\n\nL'ordre de visite est On foot (5 min), puis View point (1h), puis View point, puis Visitor center (15 min).\n\nLe prix comprend tour de buggy d'1 heure en Polaris 4x4 Rzr 1000cc 2023, sandboard, balade a dos de chameau et utilisation des espaces lounge interieurs et exterieurs. Il ne comprend pas transfert prive, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion de 1 heure(s) au depart de Dubai passant par On foot, View point, View point et Visitor center. Propose par Kings and Queens Luxury Yachts."
+  ],
+  "included": [
+   "Tour de buggy d'1 heure en Polaris 4x4 Rzr 1000cc 2023",
+   "Sandboard",
+   "Balade a dos de chameau",
+   "Utilisation des espaces lounge interieurs et exterieurs"
+  ],
+  "notIncluded": [
+   "Transfert prive"
+  ]
+ },
+ "from-dubai-abu-dhabi-day-tour-with-ferrari-world": {
+  "title": "Depuis Dubai : excursion d'une journee a Abu Dhabi avec billet pour Ferrari World",
+  "metaTitle": "Depuis Dubai : excursion d'une journee a Abu Dhabi avec billet...",
+  "metaDescription": "Une excursion d'une journee complete au depart de Abu Dhabi passant par Sheikh Zayed Mosque, Al Bateen, Abu Dhabi, Emirates Palace et Etihad Towers. Propose par T...",
+  "shortDescription": "Une excursion d'une journee complete au depart de Abu Dhabi passant par Sheikh Zayed Mosque, Al Bateen, Abu Dhabi, Emirates Palace et Etihad Towers. Propose par Travtur Tourism L.L.C.",
+  "fullDescription": "Une excursion d'une journee complete au depart de Abu Dhabi, passant par Sheikh Zayed Mosque, Al Bateen, Abu Dhabi, Emirates Palace et Etihad Towers. Le plus long arret est Ferrari World Abu Dhabi, d'environ 4 heures. Il y a 7 arrets au total.\n\nL'ordre de visite est Sheikh Zayed Mosque (45 min), puis Al Bateen, Abu Dhabi (20 min), puis Emirates Palace (15 min), puis Etihad Towers (10 min), puis The Corniche, Abu Dhabi (20 min).\n\nLe prix comprend prise en charge et depose a votre hotel, entree a Ferrari World, trajet sur les montagnes russes Formula Rossa et visite de la Mosquee Sheikh Zayed. Il ne comprend pas dejeuner et pourboires (optionnel), prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une journee complete au depart de Abu Dhabi passant par Sheikh Zayed Mosque, Al Bateen, Abu Dhabi, Emirates Palace et Etihad Towers. Propose par Travtur Tourism L.L.C."
+  ],
+  "included": [
+   "Prise en charge et depose a votre hotel",
+   "Entree a Ferrari World",
+   "Trajet sur les montagnes russes Formula Rossa",
+   "Visite de la Mosquee Sheikh Zayed"
+  ],
+  "notIncluded": [
+   "Dejeuner",
+   "Pourboires (optionnel)"
+  ]
+ },
+ "dubai-4-hour-tour-with-burj-khalifa-tickets": {
+  "title": "Dubai : visite de 4 heures avec billets pour le Burj Khalifa",
+  "metaTitle": "Dubai : visite de 4 heures avec billets pour le Burj Khalifa",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Atlantis, Dubai, Al Nafoorah - Jumeirah Zabeel Saray, Dubai Marina et Souk Madinat Jumeirah. Propo...",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Atlantis, Dubai, Al Nafoorah - Jumeirah Zabeel Saray, Dubai Marina et Souk Madinat Jumeirah. Propose par Travtur Tourism L.L.C.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Atlantis, Dubai, Al Nafoorah - Jumeirah Zabeel Saray, Dubai Marina et Souk Madinat Jumeirah. Le plus long arret est Burj Khalifa Level 124-125, d'environ 1 heure. Il y a 9 arrets au total.\n\nL'ordre de visite est Atlantis, Dubai (10 min), puis Al Nafoorah - Jumeirah Zabeel Saray (15 min), puis Dubai Marina (10 min), puis Souk Madinat Jumeirah (20 min), puis Burj Al Arab (10 min).\n\nLe prix comprend prise en charge depuis votre hotel, billet d'entree pour le Burj Khalifa, guide touristique professionnel et eau et boissons gazeuses. Il ne comprend pas transfert de retour a votre hotel et pourboires (optionnel), prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Dubai passant par Atlantis, Dubai, Al Nafoorah - Jumeirah Zabeel Saray, Dubai Marina et Souk Madinat Jumeirah. Propose par Travtur Tourism L.L.C."
+  ],
+  "included": [
+   "Prise en charge depuis votre hotel",
+   "Billet d'entree pour le Burj Khalifa",
+   "Guide touristique professionnel",
+   "Eau et boissons gazeuses"
+  ],
+  "notIncluded": [
+   "Transfert de retour a votre hotel",
+   "Pourboires (optionnel)"
+  ]
+ },
+ "dubai-jet-car-to-burj-al-arab-or-atlantis": {
+  "title": "Dubai : jet car jusqu'au Burj Al Arab ou Atlantis",
+  "metaTitle": "Dubai : jet car jusqu'au Burj Al Arab ou Atlantis",
+  "metaDescription": "Une excursion de 0,333333 heure(s) au depart de Dubai passant par Burj Al Arab et Umm Suqeim. Propose par Friend Aqua waterSports.",
+  "shortDescription": "Une excursion de 0,333333 heure(s) au depart de Dubai passant par Burj Al Arab et Umm Suqeim. Propose par Friend Aqua waterSports.",
+  "fullDescription": "Une excursion de 0,333333 heure(s) au depart de Dubai, passant par Burj Al Arab et Umm Suqeim. Il y a 2 arrets au total.\n\nL'ordre de visite est Burj Al Arab, puis Umm Suqeim.\n\nLe prix comprend guide, gilet de sauvetage, eau en bouteille illimitee et wi-Fi. Il ne comprend pas photographe professionnel avec photos et videos editees, disponible uniquement sur place, serviette, maillots de bain et parking (3 AED/heure), prevoyez donc un budget separe. Deux voyageurs paient 208 $ ensemble plutot que 208 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Une excursion de 0,333333 heure(s) au depart de Dubai passant par Burj Al Arab et Umm Suqeim. Propose par Friend Aqua waterSports."
+  ],
+  "included": [
+   "Guide",
+   "Gilet de sauvetage",
+   "Eau en bouteille illimitee",
+   "Wi-Fi"
+  ],
+  "notIncluded": [
+   "Photographe professionnel avec photos et videos editees, disponible uniquement sur place",
+   "Serviette",
+   "Maillots de bain",
+   "Parking (3 AED/heure)"
+  ]
+ },
+ "dubai-3000cc-v6-dune-buggy-sandboarding-private-to": {
+  "title": "Dubai : buggy des dunes V6 3000cc et sandboard, visite privee",
+  "metaTitle": "Dubai : buggy des dunes V6 3000cc et sandboard, visite privee",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Lahbab Desert Safari. Propose par ARABIAN EXPEDITION Dubai.",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Lahbab Desert Safari. Propose par ARABIAN EXPEDITION Dubai.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Lahbab Desert Safari.\n\nLe prix comprend transferts prives en vehicules de luxe depuis n'importe ou a Dubai, y compris hotels, residences, et autres lieux, guide dedie avec d'excellentes competences en communication, balade d'une heure en buggy des dunes, visite guidee (3000cc, moteur V6, transmission automatique). Assure jusqu'a 5 millions d'AED, sandboard et safari desertique offerts, acces au salon des invites avec cafe arabe de bienvenue, dattes, boissons gazeuses et eau et acces au Wi-Fi gratuit. Il ne comprend pas , prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Dubai passant par Lahbab Desert Safari. Propose par ARABIAN EXPEDITION Dubai."
+  ],
+  "included": [
+   "Transferts prives en vehicules de luxe depuis n'importe ou a Dubai, y compris hotels, residences, et autres lieux.",
+   "Guide dedie avec d'excellentes competences en communication",
+   "Balade d'une heure en buggy des dunes, visite guidee (3000cc, moteur V6, transmission automatique). Assure jusqu'a 5 millions d'AED",
+   "Sandboard et safari desertique offerts",
+   "Acces au salon des invites avec cafe arabe de bienvenue, dattes, boissons gazeuses et eau",
+   "Acces au Wi-Fi gratuit"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "jet-car-squad-goals-4-seats-1-epic-ride": {
+  "title": "Jet Car : objectif escouade, 4 places, 1 trajet epique a Dubai",
+  "metaTitle": "Jet Car : objectif escouade, 4 places, 1 trajet epique a Dubai",
+  "metaDescription": "Experience de 0,333333 heure(s) a Dubai. Choisissez la plus grande entreprise de Jetcar au monde, servant la plupart des hotels 5 et 7 etoiles des Emirats. Propos...",
+  "shortDescription": "Experience de 0,333333 heure(s) a Dubai. Choisissez la plus grande entreprise de Jetcar au monde, servant la plupart des hotels 5 et 7 etoiles des Emirats. Propose par Day & Night Watersport.",
+  "fullDescription": "Une experience de 0,333333 heure(s) a Dubai. Choisissez la plus grande entreprise de Jetcar au monde, servant la plupart des hotels 5 et 7 etoiles des Emirats.\n\nDay & Night Watersport s'en charge, et 5 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend jetcar, instructeur professionnel, eau potable et gilet de sauvetage. Il ne comprend pas prise en charge et depose a l'hotel, prevoyez donc un budget separe.",
+  "highlights": [
+   "Choisissez la plus grande entreprise de Jetcar au monde, servant la plupart des hotels 5 et 7 etoiles des Emirats"
+  ],
+  "included": [
+   "Jetcar",
+   "Instructeur professionnel",
+   "Eau potable",
+   "Gilet de sauvetage"
+  ],
+  "notIncluded": [
+   "Prise en charge et depose a l'hotel"
+  ]
+ },
+ "dubai-dubai-marina-jetcar-ride": {
+  "title": "Dubai : balade en jetcar a Dubai Marina",
+  "metaTitle": "Dubai : balade en jetcar a Dubai Marina",
+  "metaDescription": "Experience de 0,333333 heure(s) a Dubai. La plus grande entreprise de Jetcar au monde, travaillant avec la plupart des hotels 5 et 7 etoiles des Emirats. Propose ...",
+  "shortDescription": "Experience de 0,333333 heure(s) a Dubai. La plus grande entreprise de Jetcar au monde, travaillant avec la plupart des hotels 5 et 7 etoiles des Emirats. Propose par Day & Night Watersport.",
+  "fullDescription": "Une experience de 0,333333 heure(s) a Dubai. La plus grande entreprise de Jetcar au monde, travaillant avec la plupart des hotels 5 et 7 etoiles des Emirats.\n\nDay & Night Watersport s'en charge, et 8 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend wi-Fi au point de rendez-vous, briefing de securite, eau en bouteille et gilets de sauvetage. Il ne comprend pas prise en charge et depose a l'hotel et serviette de douche, prevoyez donc un budget separe. Deux voyageurs paient 231 $ ensemble plutot que 231 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "La plus grande entreprise de Jetcar au monde, travaillant avec la plupart des hotels 5 et 7 etoiles des Emirats"
+  ],
+  "included": [
+   "Wi-Fi au point de rendez-vous",
+   "Briefing de securite",
+   "Eau en bouteille",
+   "Gilets de sauvetage"
+  ],
+  "notIncluded": [
+   "Prise en charge et depose a l'hotel",
+   "Serviette de douche"
+  ]
+ },
+ "from-dubai-abu-dhabi-small-group-day-tour-with": {
+  "title": "Depuis Dubai : excursion en petit groupe d'une journee a Abu Dhabi avec dejeuner",
+  "metaTitle": "Depuis Dubai : excursion en petit groupe d'une journee a Abu D...",
+  "metaDescription": "Une excursion d'une journee complete au depart de Abu Dhabi passant par Sheikh Zayed Mosque, Emirates Palace, Etihad Towers et Abu Dhabi Heritage Village. Propose...",
+  "shortDescription": "Une excursion d'une journee complete au depart de Abu Dhabi passant par Sheikh Zayed Mosque, Emirates Palace, Etihad Towers et Abu Dhabi Heritage Village. Propose par Travtur Tourism L.L.C.",
+  "fullDescription": "Une excursion d'une journee complete au depart de Abu Dhabi, passant par Sheikh Zayed Mosque, Emirates Palace, Etihad Towers et Abu Dhabi Heritage Village. Le plus long arret est Sheikh Zayed Mosque, d'environ 1 heure. Il y a 6 arrets au total.\n\nL'ordre de visite est Sheikh Zayed Mosque (1h), puis Emirates Palace (20 min), puis Etihad Towers (10 min), puis Abu Dhabi Heritage Village (30 min), puis Abu Dhabi fish market (1h).\n\nLe prix comprend dejeuner inclus, eau pendant la visite, une boisson gazeuse par personne et petit groupe garanti, pas de bus, uniquement des vehicules de 6 places. Il ne comprend pas pourboires (optionnel), prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une journee complete au depart de Abu Dhabi passant par Sheikh Zayed Mosque, Emirates Palace, Etihad Towers et Abu Dhabi Heritage Village. Propose par Travtur Tourism L.L.C."
+  ],
+  "included": [
+   "Dejeuner inclus",
+   "Eau pendant la visite",
+   "Une boisson gazeuse par personne",
+   "Petit groupe garanti, pas de bus, uniquement des vehicules de 6 places"
+  ],
+  "notIncluded": [
+   "Pourboires (optionnel)"
+  ]
+ },
+ "dubai-nighttime-guided-city-tour-by-van-dxb-founta": {
+  "title": "Dubai : visite nocturne guidee de la ville en van et spectacle de la fontaine DXB",
+  "metaTitle": "Dubai : visite nocturne guidee de la ville en van et spectacle...",
+  "metaDescription": "Experience d'une demi-journee a Dubai. Decouvrez l'essence de cette metropole eblouissante la nuit lors d'une visite guidee. Propose par Venezia Tourism - Dubai.",
+  "shortDescription": "Experience d'une demi-journee a Dubai. Decouvrez l'essence de cette metropole eblouissante la nuit lors d'une visite guidee. Propose par Venezia Tourism - Dubai.",
+  "fullDescription": "Une experience d'une demi-journee a Dubai. Decouvrez l'essence de cette metropole eblouissante la nuit lors d'une visite guidee.\n\nVenezia Tourism - Dubai s'en charge, et 5 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend prise en charge a l'hotel, depose a l'hotel (selon l'option choisie), guide et visite nocturne de la ville en van. Il ne comprend pas nourriture et boissons, prevoyez donc un budget separe. Deux voyageurs paient 415 $ ensemble plutot que 415 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Decouvrez l'essence de cette metropole eblouissante la nuit lors d'une visite guidee"
+  ],
+  "included": [
+   "Prise en charge a l'hotel",
+   "Depose a l'hotel (selon l'option choisie)",
+   "Guide",
+   "Visite nocturne de la ville en van"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons"
+  ]
+ },
+ "dubai-vip-private-city-tour-with-burj-khalifa-entr": {
+  "title": "Dubai : visite privee VIP de la ville avec billets d'entree pour le Burj Khalifa",
+  "metaTitle": "Dubai : visite privee VIP de la ville avec billets d'entree po...",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Bur Dubai Abra Dock, River boat, Dubai Gold Souk et Dubai Spice Souk. Propose par Travel2Time.",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Bur Dubai Abra Dock, River boat, Dubai Gold Souk et Dubai Spice Souk. Propose par Travel2Time.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Bur Dubai Abra Dock, River boat, Dubai Gold Souk et Dubai Spice Souk. Le plus long arret est Burj Khalifa Level 124-125, d'environ 1 heure. Il y a 12 arrets au total.\n\nL'ordre de visite est Bur Dubai Abra Dock (10 min), puis River boat (5 min), puis Dubai Gold Souk (15 min), puis Dubai Spice Souk (15 min), puis Sheikh Zayed Road (15 min).\n\nLe prix comprend prise en charge et depose a l'hotel, VIP, transport en voiture privee confortable et guide touristique professionnel. Il ne comprend pas , prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Dubai passant par Bur Dubai Abra Dock, River boat, Dubai Gold Souk et Dubai Spice Souk. Propose par Travel2Time."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel",
+   "VIP",
+   "Transport en voiture privee confortable",
+   "Guide touristique professionnel"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-private-day-night-customize-city-tour": {
+  "title": "Dubai : visite personnalisee privee de la ville, jour et nuit",
+  "metaTitle": "Dubai : visite personnalisee privee de la ville, jour et nuit",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Dubai Gold Souk, Dubai Spice Souk, Water taxi et Al Seef. Propose par Yalla Walk tourism.",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Dubai Gold Souk, Dubai Spice Souk, Water taxi et Al Seef. Propose par Yalla Walk tourism.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Dubai Gold Souk, Dubai Spice Souk, Water taxi et Al Seef. Il y a 12 arrets au total.\n\nL'ordre de visite est Dubai Gold Souk, puis Dubai Spice Souk, puis Water taxi, puis Al Seef, puis Al Bastakiya.\n\nLe prix comprend prise en charge et depose depuis l'hotel, visite du Vieux Dubai, fort Fahidi et bastakia. Il ne comprend pas depenses personnelles, prevoyez donc un budget separe. Deux voyageurs paient 480 $ ensemble plutot que 461 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Dubai passant par Dubai Gold Souk, Dubai Spice Souk, Water taxi et Al Seef. Propose par Yalla Walk tourism."
+  ],
+  "included": [
+   "Prise en charge et depose depuis l'hotel.",
+   "Visite du Vieux Dubai",
+   "Fort Fahidi",
+   "Bastakia"
+  ],
+  "notIncluded": [
+   "Depenses personnelles"
+  ]
+ },
+ "from-dubai-jabel-jais-high-mountain-tour-with-tran": {
+  "title": "Depuis Dubai : visite de la haute montagne Jabel Jais avec transferts",
+  "metaTitle": "Depuis Dubai : visite de la haute montagne Jabel Jais avec tra...",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV et Jabal Jais. Propose par Dunes To Downtown Tourism LLC Dubai.",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV et Jabal Jais. Propose par Dunes To Downtown Tourism LLC Dubai.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Jeep / SUV et Jabal Jais. Il y a 2 arrets au total.\n\nL'ordre de visite est Jeep / SUV, puis Jabal Jais.\n\nLe prix comprend prise en charge et depose a l'hotel en vehicule 4x4, guides, visite touristique des hautes montagnes et equipement de securite. Il ne comprend pas tyrolienne et jais Sledder, prevoyez donc un budget separe. Deux voyageurs paient 461 $ ensemble plutot que 461 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV et Jabal Jais. Propose par Dunes To Downtown Tourism LLC Dubai."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel en vehicule 4x4",
+   "Guides",
+   "Visite touristique des hautes montagnes",
+   "Equipement de securite"
+  ],
+  "notIncluded": [
+   "Tyrolienne",
+   "Jais Sledder"
+  ]
+ },
+ "dubai-old-city-walking-tour-with-abra-ride": {
+  "title": "Dubai : visite a pied de la vieille ville avec trajet en abra",
+  "metaTitle": "Dubai : visite a pied de la vieille ville avec trajet en abra",
+  "metaDescription": "Une excursion de 3 heure(s) au depart de Dubai passant par On foot, Al Seef, On foot et Al Bastakiya. Propose par khaleej tours.",
+  "shortDescription": "Une excursion de 3 heure(s) au depart de Dubai passant par On foot, Al Seef, On foot et Al Bastakiya. Propose par khaleej tours.",
+  "fullDescription": "Une excursion de 3 heure(s) au depart de Dubai, passant par On foot, Al Seef, On foot et Al Bastakiya. Il y a 13 arrets au total.\n\nL'ordre de visite est On foot (5 min), puis Al Seef (20 min), puis On foot (3 min), puis Al Bastakiya (15 min), puis On foot (4 min).\n\nLe prix comprend guide local autorise et licencie, prise en charge depuis la station de metro Sharaf DG a pied avec guide, prise en charge et depose a l'hotel (si l'option est selectionnee) et entree du quartier historique Al Fahidi. Il ne comprend pas pourboires, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion de 3 heure(s) au depart de Dubai passant par On foot, Al Seef, On foot et Al Bastakiya. Propose par khaleej tours."
+  ],
+  "included": [
+   "Guide local autorise et licencie",
+   "Prise en charge depuis la station de metro Sharaf DG a pied avec guide",
+   "Prise en charge et depose a l'hotel (si l'option est selectionnee)",
+   "Entree du quartier historique Al Fahidi."
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "dubai-hot-air-balloon-with-camel-atv-horse-ride": {
+  "title": "Dubai : montgolfiere avec options de chameau, quad, et balade a cheval",
+  "metaTitle": "Dubai : montgolfiere avec options de chameau, quad, et balade ...",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV, VHC2+P4 Margham, Jeep / SUV et Campsite. Propose par Dubai Ballooning.",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV, VHC2+P4 Margham, Jeep / SUV et Campsite. Propose par Dubai Ballooning.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Jeep / SUV, VHC2+P4 Margham, Jeep / SUV et Campsite. Le plus long arret est VHC2+P4 Margham, d'environ 1 heure. Il y a 4 arrets au total.\n\nL'ordre de visite est Jeep / SUV (45 min), puis VHC2+P4 Margham (1h), puis Jeep / SUV (20 min), puis Campsite.\n\nLe prix comprend prise en charge et depose, legers rafraichissements, pilote licencie et vol en montgolfiere de 60 a 90 minutes. Il ne comprend pas , prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV, VHC2+P4 Margham, Jeep / SUV et Campsite. Propose par Dubai Ballooning."
+  ],
+  "included": [
+   "Prise en charge et depose",
+   "Legers rafraichissements",
+   "Pilote licencie",
+   "Vol en montgolfiere de 60 a 90 minutes"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "padi-open-water-diver-course": {
+  "title": "Cours de plongee Padi Open Water",
+  "metaTitle": "Cours de plongee Padi Open Water",
+  "metaDescription": "Experience de 2 jour(s) a Dubai. Premiere etape vers la certification de plongee, aucune experience requise !. Propose par Reef Oasis Diving Center.",
+  "shortDescription": "Experience de 2 jour(s) a Dubai. Premiere etape vers la certification de plongee, aucune experience requise !. Propose par Reef Oasis Diving Center.",
+  "fullDescription": "Une experience de 2 jour(s) a Dubai. Premiere etape vers la certification de plongee, aucune experience requise !\n\nReef Oasis Diving Center s'en charge, et 5 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend equipement complet de plongee sous-marine, instructeur Padi, vestiaire, douche, 5 sessions en eau confinee et 4 plongees en eau libre. Il ne comprend pas materiel d'elearning Padi et serviette, tenue de bain, prevoyez donc un budget separe.",
+  "highlights": [
+   "Premiere etape vers la certification de plongee, aucune experience requise !"
+  ],
+  "included": [
+   "Equipement complet de plongee sous-marine",
+   "Instructeur Padi",
+   "Vestiaire, douche",
+   "5 sessions en eau confinee",
+   "4 plongees en eau libre"
+  ],
+  "notIncluded": [
+   "Materiel d'elearning Padi",
+   "Serviette, tenue de bain"
+  ]
+ },
+ "dubai-abu-dhabi-mosque-and-ferrari-world-tour-with": {
+  "title": "Dubai : visite de la mosquee d'Abu Dhabi et de Ferrari World avec billets",
+  "metaTitle": "Dubai : visite de la mosquee d'Abu Dhabi et de Ferrari World a...",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Abu Dhabi passant par Sheikh Zayed Mosque, Yas Mall et Ferrari World Abu Dhabi. Propose par DMC Arabia Tourism LLC.",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Abu Dhabi passant par Sheikh Zayed Mosque, Yas Mall et Ferrari World Abu Dhabi. Propose par DMC Arabia Tourism LLC.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Abu Dhabi, passant par Sheikh Zayed Mosque, Yas Mall et Ferrari World Abu Dhabi. Le plus long arret est Ferrari World Abu Dhabi, d'environ 4 heures. Il y a 3 arrets au total.\n\nL'ordre de visite est Sheikh Zayed Mosque (2h), puis Yas Mall (1h), puis Ferrari World Abu Dhabi (4h).\n\nLe prix comprend audioguide multilingue et guide anglophone licencie, billet d'entree pour Ferrari World Park, visite de la Grande Mosquee Sheikh Zayed et prise en charge et depose depuis votre hotel a Dubai en vehicule climatise. Il ne comprend pas depenses personnelles, dejeuner et pourboires, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Abu Dhabi passant par Sheikh Zayed Mosque, Yas Mall et Ferrari World Abu Dhabi. Propose par DMC Arabia Tourism LLC."
+  ],
+  "included": [
+   "Audioguide multilingue et guide anglophone licencie",
+   "Billet d'entree pour Ferrari World Park",
+   "Visite de la Grande Mosquee Sheikh Zayed",
+   "Prise en charge et depose depuis votre hotel a Dubai en vehicule climatise"
+  ],
+  "notIncluded": [
+   "Depenses personnelles",
+   "Dejeuner",
+   "Pourboires"
+  ]
+ },
+ "abu-dhabi-75-minute-yas-island-sightseeing-speedbo": {
+  "title": "Abu Dhabi : visite touristique en hors-bord de 75 minutes a Yas Island",
+  "metaTitle": "Abu Dhabi : visite touristique en hors-bord de 75 minutes a Ya...",
+  "metaDescription": "Une excursion de 1,25 heure(s) au depart de Abu Dhabi passant par Yas Beach, Yas Links Abu Dhabi, Ferrari World Abu Dhabi et Yas Waterworld. Propose par The Yello...",
+  "shortDescription": "Une excursion de 1,25 heure(s) au depart de Abu Dhabi passant par Yas Beach, Yas Links Abu Dhabi, Ferrari World Abu Dhabi et Yas Waterworld. Propose par The Yellow Boats LLC.",
+  "fullDescription": "Une excursion de 1,25 heure(s) au depart de Abu Dhabi, passant par Yas Beach, Yas Links Abu Dhabi, Ferrari World Abu Dhabi et Yas Waterworld. Il y a 9 arrets au total.\n\nL'ordre de visite est Yas Beach, puis Yas Links Abu Dhabi, puis Ferrari World Abu Dhabi, puis Yas Waterworld, puis Mangrove parking Yas west.\n\nLe prix comprend inclusions :, visite en hors-bord de 75 minutes, guide personnel et guidage en direct. Il ne comprend pas exclusions :, prise en charge et depose a l'hotel et nourriture ou boissons, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion de 1,25 heure(s) au depart de Abu Dhabi passant par Yas Beach, Yas Links Abu Dhabi, Ferrari World Abu Dhabi et Yas Waterworld. Propose par The Yellow Boats LLC."
+  ],
+  "included": [
+   "Inclusions :",
+   "Visite en hors-bord de 75 minutes",
+   "Guide personnel",
+   "Guidage en direct"
+  ],
+  "notIncluded": [
+   "Exclusions :",
+   "Prise en charge et depose a l'hotel",
+   "Nourriture ou boissons"
+  ]
+ },
+ "dubai-premium-old-town-street-food-souks-boat-ride": {
+  "title": "Dubai : visite premium de la vieille ville, street food, souks, et balade en bateau",
+  "metaTitle": "Dubai : visite premium de la vieille ville, street food, souks...",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Al Seef, Al Fahidi, Al Souq Al Kabeer et Dubai Creek. Propose par MAGIC LAMP TOURISM L.L.C.",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Al Seef, Al Fahidi, Al Souq Al Kabeer et Dubai Creek. Propose par MAGIC LAMP TOURISM L.L.C.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Al Seef, Al Fahidi, Al Souq Al Kabeer et Dubai Creek. Il y a 7 arrets au total.\n\nL'ordre de visite est Al Seef (20 min), puis Al Fahidi (40 min), puis Al Souq Al Kabeer (25 min), puis Dubai Creek (10 min), puis Water taxi (10 min).\n\nLe prix comprend balade privee en bateau traditionnel (abra), guide local, street food et jus frais. Il ne comprend pas prise en charge et depose a l'hotel, prevoyez donc un budget separe. Deux voyageurs paient 691 $ ensemble plutot que 691 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Dubai passant par Al Seef, Al Fahidi, Al Souq Al Kabeer et Dubai Creek. Propose par MAGIC LAMP TOURISM L.L.C."
+  ],
+  "included": [
+   "Balade privee en bateau traditionnel (abra)",
+   "Guide local",
+   "Street food",
+   "Jus frais"
+  ],
+  "notIncluded": [
+   "Prise en charge et depose a l'hotel"
+  ]
+ },
+ "dubai-private-old-dubai-frame-entry-tastings-trans": {
+  "title": "Dubai : Vieux Dubai prive, entree au Frame, degustations et transferts",
+  "metaTitle": "Dubai : Vieux Dubai prive, entree au Frame, degustations et tr...",
+  "metaDescription": "Experience d'une demi-journee a Dubai. Profitez d'une visite privee avec guide prive et voiture pour un luxe ultime. Propose par MAGIC LAMP TOURISM L.L.C.",
+  "shortDescription": "Experience d'une demi-journee a Dubai. Profitez d'une visite privee avec guide prive et voiture pour un luxe ultime. Propose par MAGIC LAMP TOURISM L.L.C.",
+  "fullDescription": "Une experience d'une demi-journee a Dubai. Profitez d'une visite privee avec guide prive et voiture pour un luxe ultime.\n\nMAGIC LAMP TOURISM L.L.C s'en charge, et 10 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend prise en charge et depose a l'hotel, guide en direct, vehicule climatise et entree au Dubai Frame. Il ne comprend pas , prevoyez donc un budget separe. Deux voyageurs paient 830 $ ensemble plutot que 830 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Profitez d'une visite privee avec guide prive et voiture pour un luxe ultime"
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel.",
+   "Guide en direct",
+   "Vehicule climatise",
+   "Entree au Dubai Frame"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-e-scooter-guided-tour-of-marina-jbr-bluewate": {
+  "title": "Dubai : visite guidee en trottinette electrique de Marina, JBR, et Bluewaters",
+  "metaTitle": "Dubai : visite guidee en trottinette electrique de Marina, JBR...",
+  "metaDescription": "Une excursion de 2 heure(s) au depart de Dubai passant par Dubai Marina, Bluewaters Island, Ain Dubai et Address Beach Resort. Propose par 1001 Experiences.",
+  "shortDescription": "Une excursion de 2 heure(s) au depart de Dubai passant par Dubai Marina, Bluewaters Island, Ain Dubai et Address Beach Resort. Propose par 1001 Experiences.",
+  "fullDescription": "Une excursion de 2 heure(s) au depart de Dubai, passant par Dubai Marina, Bluewaters Island, Ain Dubai et Address Beach Resort. Il y a 8 arrets au total.\n\nL'ordre de visite est Dubai Marina (10 min), puis Bluewaters Island (20 min), puis Ain Dubai (10 min), puis Address Beach Resort (10 min), puis Jumeirah Beach Residence (20 min).\n\nLe prix comprend trottinette electrique, guide touristique licencie premium, visite de Bluewaters Island et visite de JBR. Il ne comprend pas , prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion de 2 heure(s) au depart de Dubai passant par Dubai Marina, Bluewaters Island, Ain Dubai et Address Beach Resort. Propose par 1001 Experiences."
+  ],
+  "included": [
+   "Trottinette electrique",
+   "Guide touristique licencie premium",
+   "Visite de Bluewaters Island",
+   "Visite de JBR"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "from-ras-al-khaimah-private-dubai-highlights-suv-c": {
@@ -79495,6 +79890,26 @@ export const FR_TOURS: Record<string, TourT> = {
    "Guide",
    "Nourriture et autres boissons",
    "Pourboires"
+  ]
+ },
+ "abu-dhabi-60-minute-corniche-speed-boat-sightseein": {
+  "title": "Abu Dhabi : visite touristique en hors-bord de 60 minutes a la Corniche",
+  "metaTitle": "Abu Dhabi : visite touristique en hors-bord de 60 minutes a la...",
+  "metaDescription": "Une excursion de 1 heure(s) au depart de Abu Dhabi passant par Etihad Towers, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi et Lulu Islands. Propose par The...",
+  "shortDescription": "Une excursion de 1 heure(s) au depart de Abu Dhabi passant par Etihad Towers, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi et Lulu Islands. Propose par The Yellow Boats LLC.",
+  "fullDescription": "Une excursion de 1 heure(s) au depart de Abu Dhabi, passant par Etihad Towers, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi et Lulu Islands. Le plus long arret est The Corniche, Abu Dhabi, d'environ 1 heure. Il y a 6 arrets au total.\n\nL'ordre de visite est Etihad Towers, puis Abu Dhabi Heritage Village, puis The Corniche, Abu Dhabi (1h), puis Lulu Islands, puis Qasr Al Watan.\n\nLe prix comprend visite en hors-bord, guide en direct, gilet de sauvetage leger et eau en bouteille. Il ne comprend pas prise en charge et depose a l'hotel et nourriture ou boissons, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion de 1 heure(s) au depart de Abu Dhabi passant par Etihad Towers, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi et Lulu Islands. Propose par The Yellow Boats LLC."
+  ],
+  "included": [
+   "Visite en hors-bord",
+   "Guide en direct",
+   "Gilet de sauvetage leger",
+   "Eau en bouteille"
+  ],
+  "notIncluded": [
+   "Prise en charge et depose a l'hotel",
+   "Nourriture ou boissons"
   ]
  },
  "city-palace-heritage-full-day-tour": {
