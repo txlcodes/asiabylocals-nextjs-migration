@@ -36602,6 +36602,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Hotelunterkunft\nMahlzeiten"
   ]
  },
+ "from-jaipur-same-day-taj-mahal-sunrise-tour-by": {
+  "title": "Ab Jaipur: Taj-Mahal-Sonnenaufgangstour mit Auto, am selben Tag",
+  "metaTitle": "Ab Jaipur: Taj Mahal bei Sonnenaufgang",
+  "metaDescription": "Nach dem Fruehstueck, Abreise vom Hotel, um das Taj Mahal bei Sonnenaufgang zu entdecken, dann das Agra Fort, ab Jaipur.",
+  "shortDescription": "Nach dem Fruehstueck, Abreise vom Hotel.",
+  "fullDescription": "Ab Jaipur: Taj-Mahal-Sonnenaufgangstour mit Auto, am selben Tag. Nach dem Fruehstueck, Abreise vom Hotel.\n\nFruehmorgens - Abholung in Jaipur\nIhr Fahrer holt Sie an Ihrem gewuenschten Ort in Jaipur in einem privaten klimatisierten Auto ab. Beginnen Sie Ihre komfortable Fahrt in Richtung Agra.\n\nFahren Sie fruehmorgens von Jaipur ab fuer ein unvergessliches Sonnenaufgangserlebnis am Taj Mahal, Indiens beruehmtem Symbol der Liebe und einer UNESCO-Weltkulturerbestaette. Diese private Ganztagestour umfasst auch das Agra Fort mit einem sachkundigen Guide, ein Buffet-Fruehstueck und optionale Shopping-Stopps. Geniessen Sie flexible Hotel- oder Flughafenabholung und komfortablen privaten Transport fuer eine nahtlose kulturelle Reise.\n\nOptional - Mittagspause\nGeniessen Sie das Mittagessen in einem lokalen Restaurant oder einem 5-Sterne-Hotel (wenn in Ihrem Paket enthalten).\n\nNachmittag - Besuch des Agra Forts (optional)\nWeiter geht es zum Agra Fort, einer weiteren UNESCO-Weltkulturerbestaette, bekannt fuer ihre beeindruckende moghulische Architektur und koenigliche Geschichte.\n\nSpaeter Nachmittag - Fahrt nach Jaipur\nNach der Besichtigung,\nAbend - Abgabe in Jaipur\nAnkunft und Abgabe an Ihrem Hotel, Flughafen oder bevorzugten Ort.\n\n### Im Preis enthalten\n\n- Abhol- und Rueckfahrservice\n- Alle Eintrittskarten fuer Denkmaeler (wenn Option gewaehlt)\n- Professioneller Reiseleiterdienst in Ihrer Sprache\n- Privates klimatisiertes Auto mit Fahrer\n- Flaschenwasser\n- Alle Mautgebuehren, Parken und zwischenstaatliche Steuern\n\n### Nicht enthalten\n\n- Trinkgelder",
+  "highlights": [
+   "Nach dem Fruehstueck, Abreise vom Hotel."
+  ],
+  "included": [
+   "Abhol- und Rueckfahrservice\nAlle Eintrittskarten fuer Denkmaeler (wenn Option gewaehlt)\nProfessioneller Reiseleiterdienst in Ihrer Sprache.\nPrivates klimatisiertes Auto mit Fahrer\nFlaschenwasser\nAlle Mautgebuehren, Parken und zwischenstaatliche Steuern"
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "12-day-private-car-and-driver-golden-triangle": {
+  "title": "Private 12-tägige Tour mit Auto und Fahrer, Goldenes Dreieck mit Rajasthan",
+  "metaTitle": "12-tägige Tour, Goldenes Dreieck, Rajasthan",
+  "metaDescription": "Entdecken Sie die Highlights des Erbes Rajasthans auf einer privaten 12-taegigen Tour mit Auto und Fahrer.",
+  "shortDescription": "Entdecken Sie die Highlights des Erbes Rajasthans",
+  "fullDescription": "Private 12-tägige Tour mit Auto und Fahrer, Goldenes Dreieck mit Rajasthan. Entdecken Sie die Highlights des Erbes Rajasthans.\n\n### Im Preis enthalten\n\n- Private Tour\n- Transport in privatem klimatisiertem Fahrzeug\n- Hoteluntegunft-Option verfuegbar\n- Alle Besichtigungen mit privaten lokalen Guides\n- Einschliesslich aller Kraftstoffkosten, Fahrerzuschuesse, Mautgebuehren, Parken, Fahreressen, Fahrzeugversicherung, Nachthalt\n- Abholung und Rueckfahrt zu Hotels, Flughafen oder Bahnhof\n- Mineralwasserflaschen waehrend der Reisen\n\n### Nicht enthalten\n\n- Alle Hotels selbst zu buchen\n- Eintrittsgebuehren fuer Denkmaeler\n- Kameragebuehren an Denkmaelern\n- Trinkgelder (optional)\n- Reiseversicherung und Flug- und Zugtickets\n- Medizinische Versorgung\n- Mittag- und Abendessen\n- Persoenliche Ausgaben wie Telefonanrufe, Tischgetraenke und aehnliche Kosten\n- Alles, was nicht in den Einschluessen erwaehnt ist",
+  "highlights": [
+   "Entdecken Sie die Highlights des Erbes Rajasthans"
+  ],
+  "included": [
+   "Private Tour\nTransport in privatem klimatisiertem Fahrzeug\nHoteluntegunft-Option verfuegbar\nAlle Besichtigungen mit privaten lokalen Guides\nEinschliesslich aller Kraftstoffkosten, Fahrerzuschuesse, Mautgebuehren, Parken, Fahreressen, Fahrzeugversicherung, Nachthalt\nAbholung und Rueckfahrt zu Hotels, Flughafen oder Bahnhof\nMineralwasserflaschen waehrend der Reisen"
+  ],
+  "notIncluded": [
+   "Alle Hotels selbst zu buchen\nEintrittsgebuehren fuer Denkmaeler\nKameragebuehren an Denkmaelern\nTrinkgelder (optional)\nReiseversicherung und Flug- und Zugtickets\nMedizinische Versorgung\nMittag- und Abendessen\nPersoenliche Ausgaben wie Telefonanrufe, Tischgetraenke und aehnliche Kosten\nAlles, was nicht in den Einschluessen erwaehnt ist"
+  ]
+ },
+ "from-delhi-3-day-udaipur-city-sightseeing-tour-by": {
+  "title": "Ab Delhi: 3-tägige Udaipur-Stadtbesichtigungstour mit Auto",
+  "metaTitle": "Ab Delhi: 3 Tage in Udaipur",
+  "metaDescription": "Erleben Sie einen faszinierenden Sonnenuntergang am Pichola-See, dem City Palace und dem Lake Palace auf einer 3-taegigen Tour ab Delhi.",
+  "shortDescription": "Erleben Sie einen faszinierenden Sonnenuntergang am Pichola-See, dem City Palace und dem Lake Palace",
+  "fullDescription": "Ab Delhi: 3-tägige Udaipur-Stadtbesichtigungstour mit Auto. Erleben Sie einen faszinierenden Sonnenuntergang am Pichola-See, dem City Palace und dem Lake Palace.\n\nTag 01 = Abholung in Delhi und Flug nach Udaipur\nAbholung an Ihrem Hotel und Transfer zum Flughafen Delhi. Flug nach Udaipur (etwa 1,2 Stunden). Bei Ankunft Transfer zu Ihrem Hotel und Check-in. Besuchen Sie den Karni-Mata-Tempel, Luv Kush Vatika und den Jagdish-Tempel, geniessen Sie dann einen schoenen Sonnenuntergang am Pichola-See, bevor Sie zum Hotel zurueckkehren. Uebernachtung im Hotel in Udaipur.\n\nTag 02 = Udaipur-Besichtigung\nWerden Sie zum grossen City Palace von Udaipur gefahren, einem der architektonischen Wunder Rajasthans. Schlendern Sie durch seine dekorierten Gaenge, Hoefe und Museen, die das reiche Erbe und die koenigliche Vergangenheit Udaipurs zeigen. Geniessen Sie auch eine malerische Fahrt zu den Rayta-Huegeln, wo Sie Panoramablicke auf die Landschaft und die Aravalli-Berge bewundern koennen. Kehren Sie nach Udaipur zurueck fuer einen Besuch des ruhigen Fateh-Sagar-Sees. Machen Sie einen entspannten Spaziergang oder eine Bootsfahrt, um einen atemberaubenden Sonnenuntergang zu geniessen, bevor Sie zum Hotel gefahren werden.\n\nTag 03 = Rueckflug nach Delhi = Abreise\nAn Ihrem letzten Tag dieser 3-taegigen Reise nach Rajasthan ab Delhi checken Sie morgens aus dem Hotel aus und werden zum Flughafen transferiert, um Ihren Flug nach Delhi zu besteigen. Gute Reise!\n\n### Im Preis enthalten\n\n- 1) Alle Mautgebuehren, Steuern, Parken, Kraftstoff und Fahrerzuschuss\n- 2) Besichtigungen im klimatisierten Fahrzeug\n- 3) Englischsprachiger Reiseleiter\n- 4) Wasserflasche im Auto\n- 5) Abholung und Rueckfahrt zum Flughafen/Hotel\n- 6) 4/5-Sterne-Hotel in Udaipur mit Fruehstueck (2 Naechte) (wenn Sie die Option waehlen)\n- 7) Eintrittsgebuehren fuer Denkmaeler (wenn Sie die Option waehlen)\n\n### Nicht enthalten\n\n- Jegliche Getraenke (kaeuflich erhaeltlich)\n- Mittag- und Abendessen\n- Flugpreis\n- Trinkgelder fuer Guide und Fahrer (optional)",
+  "highlights": [
+   "Erleben Sie einen faszinierenden Sonnenuntergang am Pichola-See, dem City Palace und dem Lake Palace"
+  ],
+  "included": [
+   "1) Alle Mautgebuehren, Steuern, Parken, Kraftstoff und Fahrerzuschuss\n2) Besichtigungen im klimatisierten Fahrzeug\n3) Englischsprachiger Reiseleiter\n4) Wasserflasche im Auto\n5) Abholung und Rueckfahrt zum Flughafen/Hotel\n6) 4/5-Sterne-Hotel in Udaipur mit Fruehstueck (2 Naechte) (wenn Sie die Option waehlen)\n7) Eintrittsgebuehren fuer Denkmaeler (wenn Sie die Option waehlen)"
+  ],
+  "notIncluded": [
+   "Jegliche Getraenke (kaeuflich erhaeltlich)\nMittag- und Abendessen\nFlugpreis\nTrinkgelder fuer Guide und Fahrer (optional)"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",

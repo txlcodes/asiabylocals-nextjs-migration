@@ -36602,6 +36602,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Alojamiento en hotel\nComidas"
   ]
  },
+ "from-jaipur-same-day-taj-mahal-sunrise-tour-by": {
+  "title": "Desde Jaipur: tour al Taj Mahal al amanecer en coche, el mismo dia",
+  "metaTitle": "Desde Jaipur: Taj Mahal al amanecer",
+  "metaDescription": "Despues del desayuno, salida del hotel para descubrir el Taj Mahal al amanecer, luego el fuerte de Agra, desde Jaipur.",
+  "shortDescription": "Despues del desayuno, salida del hotel.",
+  "fullDescription": "Desde Jaipur: tour al Taj Mahal al amanecer en coche, el mismo dia. Despues del desayuno, salida del hotel.\n\nTemprano en la manana - recogida en Jaipur\nSu conductor lo recogera en la ubicacion que desee en Jaipur en un coche privado con aire acondicionado. Comience su comodo trayecto hacia Agra.\n\nParta de Jaipur temprano en la manana para una experiencia inolvidable al amanecer en el Taj Mahal, famoso simbolo del amor en India y sitio del Patrimonio de la Humanidad de la UNESCO. Este tour privado de dia completo tambien cubre el fuerte de Agra con un guia conocedor, desayuno buffet y paradas opcionales de compras. Disfrute de una recogida flexible en el hotel o aeropuerto y un comodo transporte privado para un viaje cultural fluido.\n\nOpcional - pausa para el almuerzo\nDisfrute del almuerzo en un restaurante local o un hotel de 5 estrellas (si esta incluido en su paquete).\n\nTarde - visita al fuerte de Agra (opcional)\nContinue hacia el fuerte de Agra, otro sitio del Patrimonio de la Humanidad de la UNESCO conocido por su impresionante arquitectura mogola e historia real.\n\nAvanzada la tarde - viaje hacia Jaipur\nDespues del recorrido turistico,\nNoche - traslado en Jaipur\nLlegue y sea dejado en su hotel, aeropuerto o ubicacion preferida.\n\n### Que incluye\n\n- Servicio de recogida y traslado\n- Todas las entradas a monumentos (si se elige la opcion)\n- Servicio de guia turistico profesional en su idioma\n- Coche privado con aire acondicionado con chofer\n- Agua embotellada\n- Todos los peajes, estacionamiento e impuestos interestatales\n\n### No incluye\n\n- Propinas",
+  "highlights": [
+   "Despues del desayuno, salida del hotel."
+  ],
+  "included": [
+   "Servicio de recogida y traslado\nTodas las entradas a monumentos (si se elige la opcion)\nServicio de guia turistico profesional en su idioma.\nCoche privado con aire acondicionado con chofer\nAgua embotellada\nTodos los peajes, estacionamiento e impuestos interestatales"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "12-day-private-car-and-driver-golden-triangle": {
+  "title": "Tour privado de 12 dias en coche con conductor, triangulo dorado con Rajasthan",
+  "metaTitle": "Tour de 12 dias, triangulo dorado, Rajasthan",
+  "metaDescription": "Descubra lo mejor del patrimonio de Rajasthan en un tour privado de 12 dias en coche con conductor.",
+  "shortDescription": "Descubra lo mejor del patrimonio de Rajasthan",
+  "fullDescription": "Tour privado de 12 dias en coche con conductor, triangulo dorado con Rajasthan. Descubra lo mejor del patrimonio de Rajasthan.\n\n### Que incluye\n\n- Tour privado\n- Transporte en vehiculo privado con aire acondicionado\n- Opcion de alojamiento en hotel disponible\n- Todos los recorridos con guias locales privados\n- Incluye todos los costos de combustible, asignaciones del conductor, peajes, estacionamiento, comida del conductor, seguro del vehiculo, parada nocturna\n- Recogida y traslado a hoteles, aeropuerto o estacion de trenes\n- Botellas de agua mineral durante los viajes\n\n### No incluye\n\n- Todos los hoteles a reservar usted mismo\n- Tarifa de entrada a monumentos\n- Tarifas de camara en monumentos\n- Propinas (opcional)\n- Seguro de viaje y boletos de avion y tren\n- Atencion medica\n- Almuerzo y cena\n- Gastos personales como llamadas telefonicas, bebidas de mesa y costos similares\n- Cualquier cosa no mencionada en las inclusiones",
+  "highlights": [
+   "Descubra lo mejor del patrimonio de Rajasthan"
+  ],
+  "included": [
+   "Tour privado\nTransporte en vehiculo privado con aire acondicionado\nOpcion de alojamiento en hotel disponible\nTodos los recorridos con guias locales privados\nIncluye todos los costos de combustible, asignaciones del conductor, peajes, estacionamiento, comida del conductor, seguro del vehiculo, parada nocturna\nRecogida y traslado a hoteles, aeropuerto o estacion de trenes\nBotellas de agua mineral durante los viajes"
+  ],
+  "notIncluded": [
+   "Todos los hoteles a reservar usted mismo\nTarifa de entrada a monumentos\nTarifas de camara en monumentos\nPropinas (opcional)\nSeguro de viaje y boletos de avion y tren\nAtencion medica\nAlmuerzo y cena\nGastos personales como llamadas telefonicas, bebidas de mesa y costos similares\nCualquier cosa no mencionada en las inclusiones"
+  ]
+ },
+ "from-delhi-3-day-udaipur-city-sightseeing-tour-by": {
+  "title": "Desde Delhi: tour turistico de 3 dias por la ciudad de Udaipur en coche",
+  "metaTitle": "Desde Delhi: 3 dias en Udaipur",
+  "metaDescription": "Sea testigo de un fascinante atardecer en el lago Pichola, el City Palace y el Lake Palace en un tour de 3 dias a Udaipur desde Delhi.",
+  "shortDescription": "Sea testigo de un fascinante atardecer en el lago Pichola, el City Palace y el Lake Palace",
+  "fullDescription": "Desde Delhi: tour turistico de 3 dias por la ciudad de Udaipur en coche. Sea testigo de un fascinante atardecer en el lago Pichola, el City Palace y el Lake Palace.\n\nDia 01 = recogida en Delhi y vuelo a Udaipur\nRecogida en su hotel y traslado al Aeropuerto de Delhi. Vuelo a Udaipur (aproximadamente 1,2 horas). A su llegada, traslado a su hotel y registro. Visite el templo Karni Mata, Luv Kush Vatika y el templo Jagdish, luego disfrute de un hermoso atardecer en el lago Pichola antes de regresar al hotel. Pernoctacion en el hotel de Udaipur.\n\nDia 02 = recorrido por Udaipur\nSera llevado al gran City Palace de Udaipur, una de las maravillas arquitectonicas de Rajasthan. Paseese por sus pasillos decorados, patios y museos que muestran el rico patrimonio y el pasado real de Udaipur. Tambien disfrute de un pintoresco recorrido hacia las colinas de Rayta, donde podra admirar vistas panoramicas del campo y las montaniias Aravalli. Regrese a Udaipur para una visita al sereno lago Fateh Sagar. Disfrute de un paseo relajante o un paseo en barco para ver una impresionante vista del atardecer antes de ser llevado al hotel.\n\nDia 03 = vuelo de regreso a Delhi = salida\nEn su ultimo dia de este viaje de 3 dias a Rajasthan desde Delhi, haga el checkout del hotel por la manana y sea trasladado al aeropuerto para abordar su vuelo a Delhi. ¡Buen viaje!\n\n### Que incluye\n\n- 1) Todos los peajes, impuestos, estacionamiento, combustible y asignacion del conductor\n- 2) Recorridos en vehiculo con aire acondicionado\n- 3) Guia turistico de habla inglesa\n- 4) Botella de agua en el coche\n- 5) Recogida y traslado al aeropuerto/hotel\n- 6) Hotel de 4/5 estrellas en Udaipur con desayuno (2 noches) (si elige la opcion)\n- 7) Tarifas de entrada a monumentos (si elige la opcion)\n\n### No incluye\n\n- Cualquier tipo de bebidas (disponibles para comprar)\n- Almuerzo y cena\n- Tarifa de vuelo\n- Propinas para el guia y el conductor (opcional)",
+  "highlights": [
+   "Sea testigo de un fascinante atardecer en el lago Pichola, el City Palace y el Lake Palace"
+  ],
+  "included": [
+   "1) Todos los peajes, impuestos, estacionamiento, combustible y asignacion del conductor\n2) Recorridos en vehiculo con aire acondicionado\n3) Guia turistico de habla inglesa\n4) Botella de agua en el coche\n5) Recogida y traslado al aeropuerto/hotel\n6) Hotel de 4/5 estrellas en Udaipur con desayuno (2 noches) (si elige la opcion)\n7) Tarifas de entrada a monumentos (si elige la opcion)"
+  ],
+  "notIncluded": [
+   "Cualquier tipo de bebidas (disponibles para comprar)\nAlmuerzo y cena\nTarifa de vuelo\nPropinas para el guia y el conductor (opcional)"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",

@@ -36602,6 +36602,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Hébergement à l'hôtel\nRepas"
   ]
  },
+ "from-jaipur-same-day-taj-mahal-sunrise-tour-by": {
+  "title": "Depuis Jaipur : visite du Taj Mahal au lever du soleil en voiture, le même jour",
+  "metaTitle": "Depuis Jaipur : Taj Mahal au lever du soleil",
+  "metaDescription": "Après le petit-déjeuner, départ de l'hôtel pour découvrir le Taj Mahal au lever du soleil, puis le fort d'Agra, depuis Jaipur.",
+  "shortDescription": "Après le petit-déjeuner, départ de l'hôtel.",
+  "fullDescription": "Depuis Jaipur : visite du Taj Mahal au lever du soleil en voiture, le même jour. Après le petit-déjeuner, départ de l'hôtel.\n\nTôt le matin - prise en charge à Jaipur\nVotre chauffeur vous prendra en charge à l'endroit de votre choix à Jaipur dans une voiture climatisée privée. Commencez votre trajet confortable vers Agra.\n\nPartez de Jaipur tôt le matin pour une expérience inoubliable au lever du soleil au Taj Mahal, symbole célèbre de l'amour en Inde et site du patrimoine mondial de l'UNESCO. Cette visite privée d'une journée complète couvre également le fort d'Agra avec un guide compétent, un petit-déjeuner buffet et des arrêts shopping optionnels. Profitez d'une prise en charge flexible à l'hôtel ou à l'aéroport et d'un transport privé confortable pour un voyage culturel fluide.\n\nOptionnel - pause déjeuner\nSavourez le déjeuner dans un restaurant local ou un hôtel 5 étoiles (si inclus dans votre forfait).\n\nAprès-midi - visite du fort d'Agra (optionnel)\nContinuez vers le fort d'Agra, un autre site du patrimoine mondial de l'UNESCO connu pour son impressionnante architecture moghole et son histoire royale.\n\nFin d'après-midi - trajet vers Jaipur\nAprès la visite touristique,\nSoir - dépose à Jaipur\nArrivez et soyez déposé à votre hôtel, à l'aéroport ou à l'endroit de votre choix.\n\n### Ce qui est inclus\n\n- Service de prise en charge et de dépose\n- Tous les billets de monument (si l'option est choisie)\n- Service de guide touristique professionnel dans votre langue\n- Voiture climatisée privée avec chauffeur\n- Eau en bouteille\n- Tous les péages, le stationnement et les taxes interétatiques\n\n### Non inclus\n\n- Pourboires",
+  "highlights": [
+   "Après le petit-déjeuner, départ de l'hôtel."
+  ],
+  "included": [
+   "Service de prise en charge et de dépose\nTous les billets de monument (si l'option est choisie)\nService de guide touristique professionnel dans votre langue.\nVoiture climatisée privée avec chauffeur\nEau en bouteille\nTous les péages, le stationnement et les taxes interétatiques"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "12-day-private-car-and-driver-golden-triangle": {
+  "title": "Circuit privé de 12 jours en voiture avec chauffeur, triangle d'or avec le Rajasthan",
+  "metaTitle": "Circuit de 12 jours, triangle d'or, Rajasthan",
+  "metaDescription": "Découvrez les points forts du patrimoine du Rajasthan lors d'un circuit privé de 12 jours en voiture avec chauffeur.",
+  "shortDescription": "Découvrez les points forts du patrimoine du Rajasthan",
+  "fullDescription": "Circuit privé de 12 jours en voiture avec chauffeur, triangle d'or avec le Rajasthan. Découvrez les points forts du patrimoine du Rajasthan.\n\n### Ce qui est inclus\n\n- Visite privée\n- Transport en véhicule climatisé privé\n- Option d'hébergement à l'hôtel disponible\n- Toutes les visites avec des guides locaux privés\n- Y compris tous les frais de carburant, indemnités du chauffeur, péage, stationnement, repas du chauffeur, assurance du véhicule, halte nocturne\n- Prise en charge et dépose aux hôtels, à l'aéroport ou à la gare\n- Bouteilles d'eau minérale pendant les trajets\n\n### Non inclus\n\n- Tous les hôtels à réserver vous-même\n- Frais d'entrée aux monuments\n- Frais de caméra aux monuments\n- Pourboires (facultatif)\n- Assurance voyage et billets d'avion et de train\n- Soins médicaux\n- Déjeuner et dîner\n- Dépenses personnelles comme les appels téléphoniques, les boissons de table et frais similaires\n- Tout ce qui n'est pas mentionné dans les inclusions",
+  "highlights": [
+   "Découvrez les points forts du patrimoine du Rajasthan"
+  ],
+  "included": [
+   "Visite privée\nTransport en véhicule climatisé privé\nOption d'hébergement à l'hôtel disponible\nToutes les visites avec des guides locaux privés\nY compris tous les frais de carburant, indemnités du chauffeur, péage, stationnement, repas du chauffeur, assurance du véhicule, halte nocturne\nPrise en charge et dépose aux hôtels, à l'aéroport ou à la gare\nBouteilles d'eau minérale pendant les trajets"
+  ],
+  "notIncluded": [
+   "Tous les hôtels à réserver vous-même\nFrais d'entrée aux monuments\nFrais de caméra aux monuments\nPourboires (facultatif)\nAssurance voyage et billets d'avion et de train\nSoins médicaux\nDéjeuner et dîner\nDépenses personnelles comme les appels téléphoniques, les boissons de table et frais similaires\nTout ce qui n'est pas mentionné dans les inclusions"
+  ]
+ },
+ "from-delhi-3-day-udaipur-city-sightseeing-tour-by": {
+  "title": "Depuis Delhi : visite touristique de 3 jours de la ville d'Udaipur en voiture",
+  "metaTitle": "Depuis Delhi : 3 jours à Udaipur",
+  "metaDescription": "Admirez un coucher de soleil fascinant sur le lac Pichola, le City Palace et le Lake Palace lors d'un circuit de 3 jours à Udaipur depuis Delhi.",
+  "shortDescription": "Admirez un coucher de soleil fascinant sur le lac Pichola, le City Palace et le Lake Palace",
+  "fullDescription": "Depuis Delhi : visite touristique de 3 jours de la ville d'Udaipur en voiture. Admirez un coucher de soleil fascinant sur le lac Pichola, le City Palace et le Lake Palace.\n\nJour 01 = prise en charge à Delhi et vol vers Udaipur\nPrise en charge à votre hôtel et transfert à l'aéroport de Delhi. Vol vers Udaipur (environ 1,2 heure). À l'arrivée, transfert à votre hôtel et enregistrement. Visitez le temple Karni Mata, le Luv Kush Vatika et le temple Jagdish, puis profitez d'un magnifique coucher de soleil sur le lac Pichola avant de retourner à l'hôtel. Nuitée à l'hôtel à Udaipur.\n\nJour 02 = visite d'Udaipur\nSoyez conduit au grand City Palace d'Udaipur, l'une des merveilles architecturales du Rajasthan. Promenez-vous dans ses couloirs décorés, ses cours et ses musées qui présentent le riche patrimoine et le passé royal d'Udaipur. Profitez également d'un trajet pittoresque vers les collines de Rayta, où vous pourrez admirer des vues panoramiques sur la campagne et les montagnes Aravalli. Retournez à Udaipur pour une visite du paisible lac Fateh Sagar. Profitez d'une promenade relaxante ou d'une balade en bateau pour admirer un magnifique coucher de soleil avant d'être conduit à l'hôtel.\n\nJour 03 = vol de retour vers Delhi = départ\nLors de votre dernier jour de ce voyage de 3 jours au Rajasthan depuis Delhi, quittez l'hôtel le matin et soyez transféré à l'aéroport pour embarquer sur votre vol vers Delhi. Bon voyage !\n\n### Ce qui est inclus\n\n- 1) Tous les péages, taxes, stationnement, carburant et indemnité du chauffeur\n- 2) Visites en véhicule climatisé\n- 3) Guide touristique parlant anglais\n- 4) Bouteille d'eau dans la voiture\n- 5) Prise en charge et dépose à l'aéroport/hôtel\n- 6) Hôtel 4/5 étoiles à Udaipur avec petit-déjeuner (2 nuits) (si vous choisissez l'option)\n- 7) Frais d'entrée aux monuments (si vous choisissez l'option)\n\n### Non inclus\n\n- Tout type de boissons (disponibles à l'achat)\n- Déjeuner et dîner\n- Tarif du vol\n- Pourboires pour le guide et le chauffeur (facultatif)",
+  "highlights": [
+   "Admirez un coucher de soleil fascinant sur le lac Pichola, le City Palace et le Lake Palace"
+  ],
+  "included": [
+   "1) Tous les péages, taxes, stationnement, carburant et indemnité du chauffeur\n2) Visites en véhicule climatisé\n3) Guide touristique parlant anglais\n4) Bouteille d'eau dans la voiture\n5) Prise en charge et dépose à l'aéroport/hôtel\n6) Hôtel 4/5 étoiles à Udaipur avec petit-déjeuner (2 nuits) (si vous choisissez l'option)\n7) Frais d'entrée aux monuments (si vous choisissez l'option)"
+  ],
+  "notIncluded": [
+   "Tout type de boissons (disponibles à l'achat)\nDéjeuner et dîner\nTarif du vol\nPourboires pour le guide et le chauffeur (facultatif)"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
