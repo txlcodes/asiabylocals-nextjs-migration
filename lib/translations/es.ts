@@ -34778,6 +34778,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas (opcional)\nComidas"
   ]
  },
+ "delhi-private-3-days-jaipur-ranthambore-tiger": {
+  "title": "Delhi: tour privado de 3 dias a Jaipur y safari de tigres en Ranthambore",
+  "metaTitle": "Delhi: tour privado 3 dias Jaipur y Ranthambore",
+  "metaDescription": "Explore la ciudad rosa (Jaipur), el fuerte de Amber, el City Palace, el Jal Mahal, el Hawa Mahal y disfrute de un safari de tigres en Ranthambore.",
+  "shortDescription": "Explore la ciudad rosa (Jaipur), el fuerte de Amber, el City Palace, el Jal Mahal, el Hawa Mahal",
+  "fullDescription": "Delhi: tour privado de 3 dias a Jaipur y safari de tigres en Ranthambore. Explore la ciudad rosa (Jaipur), el fuerte de Amber, el City Palace, el Jal Mahal, el Hawa Mahal.\n\nLos safaris de vida salvaje en India tienen una identidad unica cuando se trata de tigres. Asi que si esta en India y quiere explorar la ciudad de Jaipur y Ranthambore, no se pierda la oportunidad de unirse a los paseos de safari de aventura desde Delhi. Puede elegir una opcion para incluir alojamiento y desayuno.\n\nDia 1: Nueva Delhi - Jaipur\nSera recogido en el aeropuerto de Delhi, en su hotel en Delhi o Gurgaon, o en cualquier lugar deseado en Delhi, y luego conducira hacia Jaipur. Disfrutara de un recorrido por Jaipur con su increible arquitectura, como el fuerte de Amber, el Jal Mahal, el City Palace y el Hawa Mahal. Una vez terminado el recorrido en Jaipur, conducira hacia Ranthambore y se alojara en el hotel de Ranthambore.\n\nNoche en Ranthambore.\n\nDia 2: Safaris en Ranthambore\nSafari matutino y por la tarde en el Parque Nacional de Ranthambore para observar la vida salvaje.\n\nNoche en Ranthambore.\n\nDia 3: Ranthambore - Nueva Delhi\nDespues del desayuno, sera llevado al aeropuerto de Delhi, a su hotel en Delhi o Gurgaon, o a otro lugar deseado en Nueva Delhi.\n\n### Que incluye\n\n- Coche privado con aire acondicionado\n- Guia turistico en vivo en Jaipur\n- Se ofreceran 2 salidas de safari segun el itinerario\n- 2 noches de alojamiento en un hotel de lujo en habitacion individual, doble/twin (solo si se selecciona la opcion con hotel)\n- Desayunos en el hotel de Ranthambore incluidos para cada viajero (solo si se selecciona la opcion con hotel)\n- Almuerzos y cenas en el hotel de Ranthambore incluidos para cada viajero (solo si se selecciona la opcion con hotel)\n- Todos los traslados y visitas en vehiculo con aire acondicionado\n- Coche, conductor y costo de combustible\n- Peaje, estacionamiento y asignacion del conductor\n- Botellas de agua ilimitadas\n- Impuesto de servicio gubernamental incluido\n\n### No incluye\n\n- Tarifas de entrada a monumentos\n- Gastos personales",
+  "highlights": [
+   "Explore la ciudad rosa (Jaipur), el fuerte de Amber, el City Palace, el Jal Mahal, el Hawa Mahal"
+  ],
+  "included": [
+   "Coche privado con aire acondicionado\nGuia turistico en vivo en Jaipur\nSe ofreceran 2 salidas de safari segun el itinerario\n2 noches de alojamiento en un hotel de lujo en habitacion individual, doble/twin (solo si se selecciona la opcion con hotel)\nDesayunos en el hotel de Ranthambore incluidos para cada viajero (solo si se selecciona la opcion con hotel)\nAlmuerzos y cenas en el hotel de Ranthambore incluidos para cada viajero (solo si se selecciona la opcion con hotel)\nTodos los traslados y visitas en vehiculo con aire acondicionado\nCoche, conductor y costo de combustible\nPeaje, estacionamiento y asignacion del conductor\nBotellas de agua ilimitadas\nImpuesto de servicio gubernamental incluido"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada a monumentos\nGastos personales"
+  ]
+ },
+ "udaipur-private-city-tour-with-vintage-cars": {
+  "title": "Udaipur: tour privado de la ciudad con coches antiguos y havelis",
+  "metaTitle": "Udaipur: tour privado con coches antiguos y havelis",
+  "metaDescription": "Descubra el legado real de Udaipur en un tour privado guiado: City Palace, templo Jagdish, museo de coches antiguos y mucho mas.",
+  "shortDescription": "Descubra el legado real de Udaipur en un tour privado guiado",
+  "fullDescription": "Udaipur: tour privado de la ciudad con coches antiguos y havelis. Descubra el legado real de Udaipur en un tour privado guiado.\n\nReunase con su chofer privado y guia de habla inglesa en su hotel de Udaipur y comience su exploracion en el City Palace. Paseese por sus grandes patios, balcones ornamentados, camaras reales y galerias de museo. Descubra armas historicas, pinturas en miniatura, objetos reales y detalles arquitectonicos que reflejan las influencias artisticas de los gobernantes Mewar.\n\nContinue hacia el templo Jagdish, un templo hindu historico dedicado al senor Vishnu. Admire su impresionante exterior, pilares finamente esculpidos, detalles escultoricos y atmosfera espiritual mientras aprende sobre su importancia cultural.\n\nHaga una pausa en un restaurante local para el almuerzo y disfrute de la cocina tradicional rajastani si lo desea. El almuerzo no esta incluido y se paga directamente.\n\nVisite el Museo de Coches Antiguos, donde se exhibe una coleccion de automoviles clasicos antiguamente asociados con la familia real de Udaipur. Admire elegantes Rolls-Royce, Cadillac y otros vehiculos historicos mientras escucha historias sobre su uso por los Maharanas y su papel en la vida real.\n\nContinue hacia Saheliyon Ki Bari, un jardin elegante tradicionalmente asociado con las mujeres reales de Udaipur. Camine entre cespedes ajardinados, estanques de lotos, fuentes, elementos de marmol y senderos sombreados mientras aprecia su entorno tranquilo.\n\nExplore Bagore Ki Haveli, una mansion historica con vista al lago Pichola. Visite sus salas restauradas y colecciones que incluyen trajes tradicionales, marionetas, objetos domesticos y otros artefactos que ofrecen una idea del estilo de vida aristocratico y las tradiciones culturales de Rajasthan.\n\nConcluya la exploracion del patrimonio en Mewar Haveli, donde frescos, talladuras e interiores decorativos intrincados muestran la artesania artistica tradicional y escenas inspiradas en la mitologia y la vida real.\n\nRegrese a su hotel de Udaipur en vehiculo privado despues de completar el recorrido.\n\n### Que incluye\n\n- Vehiculo privado con aire acondicionado para traslados y recorridos\n- Recogida y traslado al hotel en Udaipur\n- Guia profesional privado de habla inglesa\n- Entradas para los lugares mencionados en el itinerario\n- Agua embotellada en el vehiculo\n- Tarifas de estacionamiento, peajes, combustible y asignaciones del conductor\n- Impuestos gubernamentales aplicables y GST\n\n### No incluye\n\n- Almuerzo y bebidas no mencionados especificamente\n- Boletos de avion o tren\n- Seguro de viaje\n- Actividades o servicios opcionales no incluidos especificamente\n- Propinas opcionales\n- Tarifas de camara o video en monumentos, cuando corresponda\n- Gastos personales, incluidas compras y adquisiciones adicionales\n- Recorridos o servicios adicionales no listados\n- Cualquier cosa no mencionada especificamente en las inclusiones",
+  "highlights": [
+   "Descubra el legado real de Udaipur en un tour privado guiado"
+  ],
+  "included": [
+   "Vehiculo privado con aire acondicionado para traslados y recorridos\nRecogida y traslado al hotel en Udaipur\nGuia profesional privado de habla inglesa\nEntradas para los lugares mencionados en el itinerario\nAgua embotellada en el vehiculo\nTarifas de estacionamiento, peajes, combustible y asignaciones del conductor\nImpuestos gubernamentales aplicables y GST"
+  ],
+  "notIncluded": [
+   "Almuerzo y bebidas no mencionados especificamente\nBoletos de avion o tren\nSeguro de viaje\nActividades o servicios opcionales no incluidos especificamente\nPropinas opcionales\nTarifas de camara o video en monumentos, cuando corresponda\nGastos personales, incluidas compras y adquisiciones adicionales\nRecorridos o servicios adicionales no listados\nCualquier cosa no mencionada especificamente en las inclusiones"
+  ]
+ },
+ "jaipur-nahargarh-fort-sunset-pink-city-night-tour": {
+  "title": "Jaipur: atardecer en el fuerte de Nahargarh y tour nocturno de la ciudad rosa",
+  "metaTitle": "Jaipur: atardecer en Nahargarh y tour nocturno",
+  "metaDescription": "Admire el atardecer desde el fuerte de Nahargarh y descubra la ciudad rosa iluminada en un tour privado nocturno.",
+  "shortDescription": "Admire el atardecer desde el fuerte de Nahargarh",
+  "fullDescription": "Jaipur: atardecer en el fuerte de Nahargarh y tour nocturno de la ciudad rosa. Admire el atardecer desde el fuerte de Nahargarh.\n\nExperimente Jaipur en su maxima belleza mientras la ciudad cambia de un atardecer dorado a una noche brillante. Este tour privado vespertino combina vistas panoramicas desde el fuerte de Nahargarh con un recorrido relajado por las calles iluminadas de Jaipur.\n\nComience con una comoda recogida en el hotel en un vehiculo privado con aire acondicionado y viaje hacia las colinas Aravalli. Visite el fuerte de Nahargarh y encuentre un mirador panoramico con vista a la ciudad rosa. Observe la puesta de sol sobre Jaipur mientras la ciudad comienza gradualmente a iluminarse debajo de usted.\n\nTomese tiempo para disfrutar de las vistas y tomar fotografias antes de regresar hacia la ciudad. Despues del atardecer, explore Jaipur de noche con paradas en algunos de sus monumentos y calles iluminadas mas reconocibles, incluida la zona del Hawa Mahal, el Jal Mahal y la historica ciudad rosa.\n\nSu guia local compartira historias sobre la historia real de Jaipur, su arquitectura, fuertes y cultura nocturna mientras experimenta la ciudad lejos del calor y las multitudes del dia.\n\nEste tour es ideal para viajeros que desean experimentar las famosas vistas del atardecer de Jaipur y ver la ciudad rosa iluminada despues del anochecer sin dedicar un dia completo a hacer turismo.\n\n### Que incluye\n\n- Recogida y traslado al hotel en Jaipur\n- Vehiculo privado con aire acondicionado\n- Guia local profesional\n- Tarifas de estacionamiento, combustible e impuestos aplicables\n- Agua embotellada\n\n### No incluye\n\n- Entrada al fuerte de Nahargarh\n- Comida y bebidas\n- Gastos personales\n- Propinas y gratificaciones",
+  "highlights": [
+   "Admire el atardecer desde el fuerte de Nahargarh"
+  ],
+  "included": [
+   "Recogida y traslado al hotel en Jaipur\nVehiculo privado con aire acondicionado\nGuia local profesional\nTarifas de estacionamiento, combustible e impuestos aplicables\nAgua embotellada"
+  ],
+  "notIncluded": [
+   "Entrada al fuerte de Nahargarh\nComida y bebidas\nGastos personales\nPropinas y gratificaciones"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
