@@ -36554,6 +36554,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Entrée à Chokhi Dhani et dîner buffet (disponible à l'achat sur place)"
   ]
  },
+ "city-palace-inclusive-guided-tour": {
+  "title": "Visite de Jaipur (ville rose) en voiture depuis Delhi, tout compris (14 heures)",
+  "metaTitle": "Jaipur en voiture depuis Delhi, tout compris",
+  "metaDescription": "Explorez les salles imposantes d'Amber pour découvrir la beauté impériale de Jaipur, avec le Hawa Mahal, le City Palace et le Jal Mahal.",
+  "shortDescription": "Explorez les salles imposantes d'Amber pour découvrir la beauté impériale de Jaipur.",
+  "fullDescription": "Visite de Jaipur (ville rose) en voiture depuis Delhi, tout compris (14 heures). Explorez les salles imposantes d'Amber pour découvrir la beauté impériale de Jaipur.\n\nÉtape par étape, les merveilles architecturales et les trésors culturels se révèlent alors que vous voyagez à travers l'attrait intemporel de Jaipur. Alors que vous profitez d'une journée pleine de vues et de saveurs captivantes, notre chauffeur vous emmènera avec confort et style.\n\nAlors que notre chauffeur compétent vous emmène depuis Delhi et vous escorte vers la ville captivante de Jaipur, préparez-vous à être fasciné. Le spectaculaire fort d'Amber, où la majesté royale et l'histoire fascinante se rencontrent, est votre premier arrêt. Profitez de la splendeur de cette forteresse historique en vous promenant dans ses salles royales et en admirant ses vues panoramiques spectaculaires.\n\nLe « palais des vents », aussi connu comme le célèbre Hawa Mahal, est notre prochain arrêt. Ici, un treillis exquis et des décorations élaborées dépeignent la majesté du bâtiment. Alors que vous vous tenez devant cette merveille architecturale, un véritable hommage au riche héritage de la ville, ressentez la douce brise caresser votre visage.\n\nVisitez le magnifique City Palace pour continuer votre exploration, où la grâce royale et la brillance créative sont exposées pour tous. Explorez ses cours élaborées, admirez l'architecture à couper le souffle et émerveillez-vous devant la collection inestimable d'œuvres d'art et de reliques qui rappellent l'histoire royale de Jaipur.\n\nNous nous arrêterons au paisible Jal Mahal, aussi connu comme le « palais de l'eau », situé dans les eaux scintillantes du lac Man Sagar en poursuivant notre voyage. Alors que vous admirez la beauté qui vous entoure, laissez la sérénité de cette demeure éthérée enchanter vos sens. Pendant ce voyage palpitant, nous nous arrêterons pour savourer un délicieux déjeuner, vous donnant l'occasion de vous détendre et de recharger vos sens.\n\nProfitez des saveurs de la cuisine rajasthanie traditionnelle, méticuleusement préparée pour exciter votre palais et offrir une pause bienvenue tout au long de notre voyage. Notre chauffeur s'assurera que vous arriviez en toute sécurité et confortablement à votre point de départ avec des souvenirs indélébiles dans votre cœur et une forte appréciation pour la beauté de Jaipur. Vous vous sentirez satisfait et inspiré à explorer encore plus les richesses fascinantes de l'Inde.\n\nProfitez de cette visite luxueuse de Jaipur, où l'histoire, l'architecture et la cuisine de la ville se rejoignent pour créer une expérience incroyable. Alors que vous embrassez la magnificence royale et l'histoire culturelle que Jaipur offre si gracieusement à ses invités, laissez-nous vous guider à travers les beautés intemporelles de la ville.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose n'importe où à Delhi, Noida, Gurugram, Ghaziabad, Faridabad\n- Toutes les visites en voiture climatisée privée, de la prise en charge à la dépose\n- Guide touristique privé en direct selon l'itinéraire\n- Bouteilles d'eau et parapluies offerts\n- Tous les frais de stationnement, péages, carburant et taxes\n- Billets pour les monuments (si l'option est choisie)\n- Déjeuner (si l'option est choisie)\n\n### Non inclus\n\n- Pourboires et gratifications",
+  "highlights": [
+   "Explorez les salles imposantes d'Amber pour découvrir la beauté impériale de Jaipur."
+  ],
+  "included": [
+   "Prise en charge et dépose n'importe où à Delhi, Noida, Gurugram, Ghaziabad, Faridabad\nToutes les visites en voiture climatisée privée, de la prise en charge à la dépose\nGuide touristique privé en direct selon l'itinéraire\nBouteilles d'eau et parapluies offerts\nTous les frais de stationnement, péages, carburant et taxes\nBillets pour les monuments (si l'option est choisie)\nDéjeuner (si l'option est choisie)"
+  ],
+  "notIncluded": [
+   "Pourboires et gratifications"
+  ]
+ },
+ "agradelhi-to-taj-mahal-sunrise-tour-with-tickets": {
+  "title": "Agra/Delhi : visite du Taj Mahal au lever du soleil avec billets et déjeuner",
+  "metaTitle": "Taj Mahal au lever du soleil, Agra/Delhi",
+  "metaDescription": "Découvrez le Taj Mahal au lever du soleil avec un guide racontant son histoire d'amour, suivi du fort d'Agra et du Baby Taj.",
+  "shortDescription": "Découvrez le Taj Mahal au lever du soleil avec un guide racontant son histoire d'amour",
+  "fullDescription": "Agra/Delhi : visite du Taj Mahal au lever du soleil avec billets et déjeuner. Découvrez le Taj Mahal au lever du soleil avec un guide racontant son histoire d'amour.\n\nVotre journée commence par une prise en charge à votre hôtel ou à l'aéroport à Delhi, Noida ou Gurugram. Détendez-vous en roulant vers Agra dans une voiture confortable et climatisée.\n\nÀ votre arrivée à Agra, rencontrez votre guide privé et commencez par le superbe Taj Mahal, un site du patrimoine mondial de l'UNESCO. Ce monument emblématique a été construit par l'empereur Shah Jahan à la mémoire de sa bien-aimée épouse Mumtaz Mahal.\n\nEnsuite, explorez l'impressionnant fort d'Agra, un autre site classé UNESCO. Construit par l'empereur Akbar en 1565, ce fort en grès rouge mêle design hindou et d'Asie centrale.\n\nAprès la visite, savourez un délicieux déjeuner dans un hôtel 5 étoiles, proposant des plats locaux et internationaux.\n\nPlus tard, visitez le magnifique tombeau d'Itmad-Ud-Daulah, aussi appelé le « Baby Taj ». Entièrement fait de marbre blanc, il a été construit par Noor Jahan pour son père.\n\nVotre visite se termine par un trajet confortable de retour à votre hôtel ou à l'aéroport à Delhi, Noida ou Gurugram.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel\n- Guide privé\n- Visites en voiture climatisée privée\n- Frais d'entrée aux monuments (si l'option est choisie)\n- Déjeuner 5 étoiles (si l'option est choisie)\n- Eau en bouteille\n\n### Non inclus\n\n- Pourboires",
+  "highlights": [
+   "Découvrez le Taj Mahal au lever du soleil avec un guide racontant son histoire d'amour"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel\nGuide privé\nVisites en voiture climatisée privée\nFrais d'entrée aux monuments (si l'option est choisie)\nDéjeuner 5 étoiles (si l'option est choisie)\nEau en bouteille"
+  ],
+  "notIncluded": [
+   "Pourboires"
+  ]
+ },
+ "explore-the-open-art-gallery-town-of-mandawa-on": {
+  "title": "Explorez la ville-galerie d'art ouverte de Mandawa lors d'une excursion d'une journée",
+  "metaTitle": "Mandawa, galerie d'art ouverte, excursion",
+  "metaDescription": "Découvrez la magnifique ville de Mandawa lors d'une excursion d'une journée depuis Jaipur, avec ses havelis ornés de fresques exquises.",
+  "shortDescription": "Découvrez la magnifique ville de Mandawa lors d'une excursion d'une journée depuis Jaipur",
+  "fullDescription": "Explorez la ville-galerie d'art ouverte de Mandawa lors d'une excursion d'une journée. Découvrez la magnifique ville de Mandawa lors d'une excursion d'une journée depuis Jaipur.\n\nExplorez les plus beaux havelis peints de la ville de Mandawa dans la région de Shekhawati au Rajasthan lors d'une visite en une journée depuis Jaipur en voiture privée. Rencontrez votre guide à Mandawa et visitez à pied les célèbres havelis de Mandawa.\n\nMandawa est qualifiée de « galerie d'art à ciel ouvert ». Mandawa a été une étape majeure pour les riches marchands qui traversaient la route de la soie au XVIIIe siècle. Mandawa est une ville captivante connue pour ses fresques exquises et ses havelis ornés. Imprégnée d'histoire et de culture, elle offre aux visiteurs un aperçu unique de l'héritage artistique de la région.\n\nRencontrez votre guide local à Mandawa à votre arrivée. Il vous emmènera dans un ancien haveli patrimonial pour des boissons, puis continuera pour visiter à pied les célèbres havelis de Mandawa. Après la visite de Mandawa, retournez à votre hôtel à Jaipur.\n\n### Ce qui est inclus\n\n- Transport en voiture partagée depuis Jaipur\n- Guide local à Mandawa\n- Visite des célèbres havelis de Mandawa\n- Boissons dans un ancien haveli patrimonial\n\n### Non inclus\n\n- Hébergement à l'hôtel\n- Repas",
+  "highlights": [
+   "Découvrez la magnifique ville de Mandawa lors d'une excursion d'une journée depuis Jaipur"
+  ],
+  "included": [
+   "Transport en voiture partagée depuis Jaipur\nGuide local à Mandawa\nVisite des célèbres havelis de Mandawa\nBoissons dans un ancien haveli patrimonial"
+  ],
+  "notIncluded": [
+   "Hébergement à l'hôtel\nRepas"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
