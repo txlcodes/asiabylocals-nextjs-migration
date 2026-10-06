@@ -35114,6 +35114,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten und Getraenke\nPersoenliche Ausgaben\nTrinkgelder"
   ]
  },
+ "jaipur-open-night-jeep-safari-with-pickup-and": {
+  "title": "Jaipur: nächtliche Safari im offenen Jeep mit Abholung und Rueckfahrt",
+  "metaTitle": "Jaipur: nächtliche Safari im offenen Jeep",
+  "metaDescription": "Geniessen Sie die Nachtansicht von Jaipur mit muehelosem Transfer im offenen Jeep: Amber Palace, Jal Mahal, Hawa Mahal.",
+  "shortDescription": "Geniessen Sie die Nachtansicht der Stadt Jaipur mit muehelosem Transfer im offenen Jeep",
+  "fullDescription": "Jaipur: nächtliche Safari im offenen Jeep mit Abholung und Rueckfahrt. Geniessen Sie die Nachtansicht der Stadt Jaipur mit muehelosem Transfer im offenen Jeep.\n\nErleben Sie die Magie Jaipurs nach Einbruch der Dunkelheit auf dieser bezaubernden Nachttour. Erkunden Sie ikonische Sehenswuerdigkeiten wie den Amber Palace, Jal Mahal, Hawa Mahal und das Albert Hall Museum, alle wunderschoen beleuchtet. Schlendern Sie durch geschaeftige Maerkte und geniessen Sie die lebendige Abendatmosphaere.\n\nIhr Abenteuer beginnt mit einer bequemen Abholung an Ihrem Hotel in einem offenen Jeep. Fahren Sie in die historische Stadt Amer, um den atemberaubenden Amber Palace zu bewundern, der unter dem sanften Licht des Abends erstrahlt.\n\nAls Naechstes halten Sie am ruhigen Jal Mahal, dem Wasserpalast, der friedlich inmitten des Man Sagar Sees schwimmt. Dann staunen Sie ueber die kunstvolle Fassade des Hawa Mahal, Jaipurs meistfotografiertes architektonisches Juwel.\n\nFahren Sie durch die lebendigen Maerkte der Altstadt, voller Farben und Charme. Beenden Sie Ihre Tour am prachtvollen Albert Hall Museum, wunderschoen beleuchtet mit farbenfrohen Lichtern, die es zu einem perfekten Fotospot machen. Beenden Sie Ihren Abend mit einer entspannten Rueckfahrt zu Ihrem Hotel.\n\n### Im Preis enthalten\n\n- Abhol- und Rueckfahrservice (Hotel, Flughafen, Bahnhof)\n- Offener Jeep\n- Professioneller Guide\n- Separate Mineralwasserflasche\n- Alle Steuern\n- Parkgebuehren\n- Benzin-/Dieselkosten",
+  "highlights": [
+   "Geniessen Sie die Nachtansicht der Stadt Jaipur mit muehelosem Transfer im offenen Jeep"
+  ],
+  "included": [
+   "Abhol- und Rueckfahrservice (Hotel, Flughafen, Bahnhof)\nOffener Jeep\nProfessioneller Guide\nSeparate Mineralwasserflasche\nAlle Steuern\nParkgebuehren\nBenzin-/Dieselkosten"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben und Trinkgelder\nMittagessen oder Snacks"
+  ]
+ },
+ "agra-to-transfer-jaipur-en-route-visit-fatehpur": {
+  "title": "Transfer von Agra nach Jaipur mit Besichtigung von Fatehpur und Abhaneri",
+  "metaTitle": "Transfer Agra-Jaipur mit Fatehpur und Abhaneri",
+  "metaDescription": "Malerischer Transfer von Agra nach Jaipur mit Zwischenstopps an Fatehpur Sikri und dem Stufenbrunnen von Chand Baori (Abhaneri).",
+  "shortDescription": "Malerischer Transfer von Agra nach Jaipur.",
+  "fullDescription": "Transfer von Agra nach Jaipur mit Besichtigung von Fatehpur und Abhaneri. Malerischer Transfer von Agra nach Jaipur.\n\nEin praktischer Ablauf:\nAbfahrt von Agra am Morgen.\nStopp 1: Fatehpur Sikri\nEntfernung von Agra: ~40 km (etwa 1 Stunde).\nBesichtigungszeit: 1,5-2 Std.\nHighlights: Buland Darwaza, Jama Masjid, Diwan-i-Khas, Panch Mahal.\n\nFahrt nach Chand Baori (Abhaneri)\nEntfernung von Fatehpur Sikri: ~145 km (etwa 2,5-3 Std).\nBesichtigungszeit: 45-60 Minuten.\nHighlights: einer der tiefsten und fotogensten Stufenbrunnen Indiens, zusammen mit dem nahegelegenen Harshat Mata Tempel.\n\nWeiterfahrt nach Jaipur\nEntfernung von Chand Baori: ~95 km (etwa 1,5-2 Std).\n\nBei Ihrer Ankunft in Jaipur bringt Sie unser Fahrer zu Ihrem gewuenschten Ort in Jaipur.\n\n### Im Preis enthalten\n\n- Privates klimatisiertes Fahrzeug fuer den Transfer Agra-Jaipur\n- Abholung vom Hotel, Flughafen oder Bahnhof in Agra\n- Besichtigung auf dem Weg in Fatehpur Sikri und dem Stufenbrunnen Chand Baori (Abhaneri)\n- Eintrittsgebuehren fuer Denkmaeler (wenn Option gewaehlt)\n- Reiseleiter\n- Kraftstoffkosten, Mautgebuehren, Parkgebuehren und Landessteuern\n- Abgabe am Hotel, Flughafen oder Bahnhof in Jaipur\n- Alle geltenden staatlichen Steuern\n\n### Nicht enthalten\n\n- Trinkgelder\n- Mahlzeiten",
+  "highlights": [
+   "Malerischer Transfer von Agra nach Jaipur."
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug fuer den Transfer Agra-Jaipur.\nAbholung vom Hotel, Flughafen oder Bahnhof in Agra.\nBesichtigung auf dem Weg in Fatehpur Sikri und dem Stufenbrunnen Chand Baori (Abhaneri)\nEintrittsgebuehren fuer Denkmaeler (wenn Option gewaehlt)\nReiseleiter.\nKraftstoffkosten, Mautgebuehren, Parkgebuehren und Landessteuern.\nAbgabe am Hotel, Flughafen oder Bahnhof in Jaipur.\nAlle geltenden staatlichen Steuern."
+  ],
+  "notIncluded": [
+   "Trinkgelder.\nMahlzeiten"
+  ]
+ },
+ "from-delhi-to-jaipur-private-one-day-trip-by": {
+  "title": "Von Delhi nach Jaipur: private Tagestour mit Auto",
+  "metaTitle": "Von Delhi nach Jaipur: Tagestour",
+  "metaDescription": "Entdecken Sie 2 UNESCO-Weltkulturerbestaetten, das Amber Fort und das Jantar Mantar, auf einer privaten Tagestour ab Delhi.",
+  "shortDescription": "Entdecken Sie 2 UNESCO-Weltkulturerbestaetten: das Amber Fort und das Jantar Mantar",
+  "fullDescription": "Von Delhi nach Jaipur: private Tagestour mit Auto. Entdecken Sie 2 UNESCO-Weltkulturerbestaetten: das Amber Fort und das Jantar Mantar.\n\nEntdecken Sie die lebendige Kultur und das reiche Erbe Jaipurs auf einer privaten Tagestour ab Delhi.\nEs sind etwa 4 bis 5 Stunden Fahrt von Delhi nach Jaipur, und die Sehenswuerdigkeiten in Jaipur oeffnen um 8 Uhr.\nDie beste empfohlene Startzeit ab Delhi variiert je nach Saison. Wir melden uns gleich nach Ihrer Buchungsbestaetigung bei Ihnen und beraten Sie zur besten Startzeit ab Delhi (abhaengig von Ihrem Reisemonat).\n\nSobald wir in Jaipur ankommen, bringen wir Sie zum Amber Fort - der goldenen Festung, einem echten Wunder, das im XI. Jahrhundert errichtet wurde. Dieses architektonische Meisterwerk zeigt eine charmante Mischung aus gelbem und rosa Sandstein. Begeben Sie sich auf eine geheim gefuehrte Besichtigung, waehrend wir durch das Sonnentor eintreten und extravagante Hoefe, erstaunlich verzierte Gaenge und das atemberaubende Spiegelbuero entdecken.\n\nEine kurze Fahrt zum Panna Meena Stufenbrunnen; ein unerwarteter Schatz und vielleicht der attraktivste Ort Jaipurs.\n\nDann tauchen wir in die antike Geschichte bei Jagat Siromani Ji ein, einem bedeutenden Juwel, das irgendwo zwischen 1599 und 1608 erbaut wurde. Machen Sie sich bereit, von den unvorhersehbaren Steinarbeiten hypnotisiert zu werden.\n\nHalt am Jal Mahal (Wasserpalast) - liegt in der Mitte eines Sees. Obwohl es derzeit nicht fuer die Oeffentlichkeit zugaenglich ist, bietet diese alte koenigliche Residenz, einst fuer die Entenjagd genutzt, einen unberuehrten Hintergrund fuer das Einfangen postkartenschoener Fotos.\n\nDann fahren wir ins Stadtzentrum, um das City Palace Museum zu besuchen - eine harmonische Kombination aus rajasthanischem und moghulischem Design. Dieses bemerkenswerte Bauwerk zeigt erstaunliche komplexe Strukturen, Hoefe und prachtvolle Eingaenge.\n\nDann geht es weiter zum Hawa Mahal - Jaipurs angesehenstem Bauwerk. Erbaut im Jahr 1799 ermoeglichte dieses technische Wunderwerk den koeniglichen Damen, Strassenparaden heimlich zu beobachten. Mit seiner grossen fuenfstoeckigen Fassade, geschmueckt mit 593 fein vergitterten Fenstern und Galerien.\n\nMachen Sie sich bereit, vom Jantar Mantar-Observatorium ueberwaeltigt zu werden, einer beeindruckenden Sammlung fantastischer Instrumente, die im XVIII. Jahrhundert gebaut wurden. Diese bemerkenswerten Konstruktionen, die groessten ihrer Art in Indien, waren dafuer gedacht, kosmische Positionen nur mit dem blossen Auge zu beobachten. Das Design und die instrumentellen Entwicklungen dieser nachgewiesenen Staette zu sehen, ist wahrlich eine faszinierende Erfahrung.\n\nTauchen Sie ein in die lebendige Atmosphaere des alten Jaipur, waehrend wir eine Tuk-Tuk-Fahrt unternehmen und durch die geschaeftigen lokalen Maerkte und Seitenstrassen schlendern. Versuchen Sie, den beliebten und himmlischen Lassi bei Lassiwala zu geniessen, ein wunderbarer Genuss fuer Ihren Geschmack.\n\nTauchen Sie ein in die faszinierende Welt der Jaipur-Handblockdruck-Kunst. Begleitet von erfahrenen Lehrern haben Sie die Chance, Ihre eigene besondere handblockgedruckte Serviette zu entwerfen und individuell zu gestalten. Entdecken Sie die Geheimnisse dieser faszinierenden Kunstform, die ueber Generationen weitergegeben wurde.\n\nDanach fahren wir zurueck nach Delhi (zu Ihrem Hotel/Flughafen/Bahnhof).\n\n(Sie koennen diesen Ablauf auch an Ihre Praeferenzen anpassen)\n\n### Im Preis enthalten\n\n- Hin- und Rueckfahrt von Delhi nach Delhi\n- Ein privates klimatisiertes Auto und ein englischsprachiger Fahrer\n- Ein englischsprachiger privater Reiseleiterdienst waehrend der Stadtbesichtigung in Jaipur\n- Parken, Benzin, Mautstrassen und Landessteuer\n- Flaschenwasser, Kekse, Snacks und Saft im Auto\n- Kostenlos: Kinder bis 17 Jahre, ausser fuer Eintrittskarten\n- Blockdruckkunst-Lernen\n- Geltende Staatssteuer\n\n### Nicht enthalten\n\n- Eintrittskarten (Ihr Reiseleiter hilft Ihnen, die Warteschlange beim Ticketkauf zu umgehen)\n- Fruehstueck und Mittagessen (Ihr Reiseleiter empfiehlt Ihnen gerne ein gutes Restaurant)\n- Trinkgelder fuer den Fahrer, den Reiseleiter und den Meister des Blockdruckkurses\n- Video- und Fotokamerakosten an den Sehenswuerdigkeiten",
+  "highlights": [
+   "Entdecken Sie 2 UNESCO-Weltkulturerbestaetten: das Amber Fort und das Jantar Mantar"
+  ],
+  "included": [
+   "Hin- und Rueckfahrt von Delhi nach Delhi\nEin privates klimatisiertes Auto und ein englischsprachiger Fahrer\nEin englischsprachiger privater Reiseleiterdienst waehrend der Stadtbesichtigung in Jaipur\nParken, Benzin, Mautstrassen und Landessteuer\nFlaschenwasser, Kekse, Snacks und Saft im Auto\nKostenlos: Kinder bis 17 Jahre, ausser fuer Eintrittskarten\nBlockdruckkunst-Lernen\nGeltende Staatssteuer"
+  ],
+  "notIncluded": [
+   "Eintrittskarten (Ihr Reiseleiter hilft Ihnen, die Warteschlange beim Ticketkauf zu umgehen)\nFruehstueck und Mittagessen (Ihr Reiseleiter empfiehlt Ihnen gerne ein gutes Restaurant)\nTrinkgelder fuer den Fahrer, den Reiseleiter und den Meister des Blockdruckkurses\nVideo- und Fotokamerakosten an den Sehenswuerdigkeiten"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
