@@ -34682,6 +34682,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Dépenses personnelles\nPourboires"
   ]
  },
+ "ranthambore-national-park-shared-canter": {
+  "title": "Parc national de Ranthambore : canter partagé",
+  "metaTitle": "Parc national de Ranthambore : canter partagé",
+  "metaDescription": "Découvrez la faune diversifiée de la réserve de tigres de Ranthambore lors d'un safari, avec les experts de Ranthambore Wildlife.",
+  "shortDescription": "Découvrez la faune diversifiée de la réserve de tigres de Ranthambore lors d'un safari.",
+  "fullDescription": "Parc national de Ranthambore : canter partagé. Découvrez la faune diversifiée de la réserve de tigres de Ranthambore lors d'un safari.\n\nVivez un authentique safari aux tigres avec « Ranthambore Wildlife », des experts des tigres, auxquels font confiance plus de 500K amoureux de la faune.\nAprès votre arrivée à Sawai Madhopur, profitez d'une prise en charge à votre hôtel ou à la gare et d'un court trajet (10-15 minutes) vers le parc national de Ranthambore. Explorez la jungle lors d'un safari matinal (6h00 à 9h00) ou de l'après-midi (14h30 à 17h30) dans une jeep gypsy ouverte à 6 places avec un guide naturaliste professionnel.\nSoyez à l'affût du majestueux tigre du Bengale, ainsi que des léopards, ours lippus, crocodiles et de nombreux autres animaux sauvages dans leur habitat naturel.\n\n### Ce qui est inclus\n\n- Safari guidé au parc national de Ranthambore\n- Frais d'entrée au parc national\n- Safari partagé en canter\n- Guide naturaliste professionnel anglophone (experts des tigres)\n- Chauffeur de safari bien formé\n- Prise en charge et dépose à l'hôtel à Ranthambore\n- Carte d'embarquement/permis de safari\n\n### Non inclus\n\n- Toute dépense personnelle\n- Tout repas et boisson\n- Pourboires",
+  "highlights": [
+   "Découvrez la faune diversifiée de la réserve de tigres de Ranthambore lors d'un safari"
+  ],
+  "included": [
+   "Safari guidé au parc national de Ranthambore\nFrais d'entrée au parc national\nSafari partagé en canter\nGuide naturaliste professionnel anglophone (experts des tigres)\nChauffeur de safari bien formé\nPrise en charge et dépose à l'hôtel à Ranthambore\nCarte d'embarquement/permis de safari"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle\nTout repas et boisson\nPourboires"
+  ]
+ },
+ "private-guided-jaipur-city-tour": {
+  "title": "Circuit privé guidé en ville de Jaipur",
+  "metaTitle": "Circuit privé guidé en ville de Jaipur",
+  "metaDescription": "Découvrez le riche patrimoine de la Ville Rose avec un guide agréé par le gouvernement, lors de ce circuit privé.",
+  "shortDescription": "Découvrez le riche patrimoine de la Ville Rose avec un guide agréé par le gouvernement",
+  "fullDescription": "Circuit privé guidé en ville de Jaipur. Découvrez le riche patrimoine de la Ville Rose avec un guide agréé par le gouvernement.\n\nCommencez par une prise en charge depuis n'importe quel hôtel, résidence ou aéroport de Jaipur entre 8h00 et 11h00. Voyagez dans une voiture privée climatisée avec votre chauffeur professionnel, tandis que votre guide privé vous rejoindra avant le premier arrêt de visite. Visitez le Fort de Jaigarh, l'historique forteresse au sommet d'une colline construite par le Maharaja Sawai Jai Singh II en 1726, et découvrez ses cours intérieures, murs défensifs, le célèbre canon Jaivana, et des vues panoramiques sur Amer et les collines de l'Aravalli. Le Fort de Jaigarh est inclus dans l'itinéraire standard, le Fort Ambre étant disponible en alternative sur demande.\n\nArrêtez-vous au Hawa Mahal pour des photos de sa façade emblématique en grès rose et de ses 953 fenêtres. Profitez d'un repas optionnel dans un restaurant local multi-cuisines ou un hôtel 5 étoiles haut de gamme, puis explorez le musée du City Palace, incluant ses cours royales, galeries, costumes, armes, peintures et objets. La visite standard couvre le musée, tandis que le Chandra Mahal, la Chambre Bleue et d'autres zones privées nécessitent un billet premium séparé. Poursuivez vers le Jal Mahal pour une vue sur le Palais de l'Eau depuis le bord du lac.\n\nTerminez au Jantar Mantar, classé à l'UNESCO, où votre guide vous expliquera ses instruments astronomiques historiques et son gigantesque cadran solaire en pierre. Après les visites, détendez-vous dans votre voiture privée climatisée en retournant vers n'importe quel hôtel, résidence ou aéroport à Jaipur, y compris l'aéroport international de Jaipur.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose privées depuis n'importe quel hôtel, résidence ou aéroport à Jaipur\n- Véhicule privé climatisé pour tous les transferts et visites\n- Services d'un guide touristique privé en direct tout au long de l'itinéraire\n- Billets d'entrée aux monuments pré-arrangés (inclus uniquement si l'option Billets Inclus est sélectionnée)\n- Eau potable en bouteille et parapluies offerts\n- Tous les frais de stationnement, péages, frais de carburant et taxes applicables inclus\n\n### Non inclus\n\n- Toute dépense personnelle\n- Pourboires et gratifications pour le guide et le chauffeur\n- Repas (disponibles en option supplémentaire)",
+  "highlights": [
+   "Découvrez le riche patrimoine de la Ville Rose avec un guide agréé par le gouvernement"
+  ],
+  "included": [
+   "Prise en charge et dépose privées depuis n'importe quel hôtel, résidence ou aéroport à Jaipur\nVéhicule privé climatisé pour tous les transferts et visites\nServices d'un guide touristique privé en direct tout au long de l'itinéraire\nBillets d'entrée aux monuments pré-arrangés (inclus uniquement si l'option Billets Inclus est sélectionnée)\nEau potable en bouteille et parapluies offerts\nTous les frais de stationnement, péages, frais de carburant et taxes applicables inclus"
+  ],
+  "notIncluded": [
+   "Toute dépense personnelle\nPourboires et gratifications pour le guide et le chauffeur\nRepas (disponibles en option supplémentaire)"
+  ]
+ },
+ "jaipur-discover-the-hidden-leopards-of-jhalana": {
+  "title": "Jaipur : découvrez les léopards cachés de Jhalana",
+  "metaTitle": "Jaipur : découvrez les léopards cachés de Jhalana",
+  "metaDescription": "Ressentez le frisson d'apercevoir des léopards dans leur habitat naturel, lors de ce safari au parc de Jhalana près de Jaipur.",
+  "shortDescription": "Ressentez le frisson d'apercevoir des léopards dans leur habitat naturel",
+  "fullDescription": "Jaipur : découvrez les léopards cachés de Jhalana. Ressentez le frisson d'apercevoir des léopards dans leur habitat naturel.\n\nPartez pour une palpitante aventure animalière au parc safari aux léopards de Jhalana, situé juste à l'extérieur de Jaipur. Connu comme le foyer du léopard insaisissable, ce parc offre une opportunité unique d'observer ces créatures majestueuses dans leur habitat naturel.\n\nCommencez votre aventure par une prise en charge pratique à l'hôtel et un court trajet vers le parc. Montez dans une jeep safari à ciel ouvert et partez pour un trajet palpitant à travers le terrain accidenté.\n\nPendant votre exploration, soyez à l'affût des léopards, des hyènes rayées, des chacals et de diverses espèces d'oiseaux qui habitent ce parc. Découvrez des faits fascinants sur l'écosystème du parc, le comportement de la faune et les efforts de conservation auprès de votre guide.\n\nQue vous soyez un passionné de nature ou un amateur d'aventure, ce safari promet un aperçu intime de la riche biodiversité du Rajasthan. Parfait pour les amoureux de la faune, les familles et les photographes, ce circuit est une chance de se connecter à la nature et de vivre le frisson de la vie sauvage.\n\n### Ce qui est inclus\n\n- Prise en charge et dépose à l'hôtel\n- Safari en jeep à ciel ouvert (partagé, maximum 6 personnes par jeep)\n\n### Non inclus\n\n- Repas\n- Dépenses personnelles",
+  "highlights": [
+   "Ressentez le frisson d'apercevoir des léopards dans leur habitat naturel"
+  ],
+  "included": [
+   "Prise en charge et dépose à l'hôtel\nSafari en jeep à ciel ouvert (partagé, maximum 6 personnes par jeep)"
+  ],
+  "notIncluded": [
+   "Repas\nDépenses personnelles"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",

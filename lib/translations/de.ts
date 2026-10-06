@@ -34682,6 +34682,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben\nTrinkgelder"
   ]
  },
+ "ranthambore-national-park-shared-canter": {
+  "title": "Ranthambore-Nationalpark: geteilter Canter",
+  "metaTitle": "Ranthambore-Nationalpark: geteilter Canter",
+  "metaDescription": "Entdecken Sie die vielfältige Tierwelt des Ranthambore-Tigerreservats bei einer Safari, mit den Experten von Ranthambore Wildlife.",
+  "shortDescription": "Entdecken Sie die vielfältige Tierwelt des Ranthambore-Tigerreservats bei einer Safari.",
+  "fullDescription": "Ranthambore-Nationalpark: geteilter Canter. Entdecken Sie die vielfältige Tierwelt des Ranthambore-Tigerreservats bei einer Safari.\n\nErleben Sie eine authentische Tiger-Safari mit „Ranthambore Wildlife\", Tiger-Experten, denen mehr als 500K Wildtierliebhaber vertrauen.\nNach Ihrer Ankunft in Sawai Madhopur genießen Sie eine Abholung von Ihrem Hotel oder Bahnhof und eine kurze Fahrt (10-15 Minuten) zum Ranthambore-Nationalpark. Erkunden Sie den Dschungel bei einer Morgen- (6:00 bis 9:00 Uhr) oder Nachmittagssafari (14:30 bis 17:30 Uhr) in einem offenen 6-sitzigen Gypsy mit einem professionellen Naturführer.\nHalten Sie Ausschau nach dem majestätischen Bengaltiger sowie Leoparden, Lippenbären, Krokodilen und vielen anderen Wildtieren in ihrem natürlichen Lebensraum.\n\n### Inklusive\n\n- Geführte Safari-Tour im Ranthambore-Nationalpark\n- Eintrittsgebühr für den Nationalpark\n- Geteilte Safari im Canter\n- Professioneller englischsprachiger Naturführer (Tiger-Experten)\n- Gut ausgebildeter Safari-Fahrer\n- Abholung und Rückfahrt vom Hotel in Ranthambore\n- Bordkarte/Safari-Genehmigung\n\n### Nicht inklusive\n\n- Jegliche persönlichen Ausgaben\n- Jegliche Mahlzeiten und Getränke\n- Trinkgelder",
+  "highlights": [
+   "Entdecken Sie die vielfältige Tierwelt des Ranthambore-Tigerreservats bei einer Safari"
+  ],
+  "included": [
+   "Geführte Safari-Tour im Ranthambore-Nationalpark\nEintrittsgebühr für den Nationalpark\nGeteilte Safari im Canter\nProfessioneller englischsprachiger Naturführer (Tiger-Experten)\nGut ausgebildeter Safari-Fahrer\nAbholung und Rückfahrt vom Hotel in Ranthambore\nBordkarte/Safari-Genehmigung"
+  ],
+  "notIncluded": [
+   "Jegliche persönlichen Ausgaben\nJegliche Mahlzeiten und Getränke\nTrinkgelder"
+  ]
+ },
+ "private-guided-jaipur-city-tour": {
+  "title": "Private geführte Stadtrundfahrt durch Jaipur",
+  "metaTitle": "Private geführte Stadtrundfahrt durch Jaipur",
+  "metaDescription": "Entdecken Sie das reiche Erbe der Pink City mit einem staatlich zugelassenen Reiseführer, bei dieser privaten Tour.",
+  "shortDescription": "Entdecken Sie das reiche Erbe der Pink City mit einem staatlich zugelassenen Reiseführer",
+  "fullDescription": "Private geführte Stadtrundfahrt durch Jaipur. Entdecken Sie das reiche Erbe der Pink City mit einem staatlich zugelassenen Reiseführer.\n\nBeginnen Sie mit einer Abholung von jedem Hotel, Wohnsitz oder Flughafen in Jaipur zwischen 8:00 und 11:00 Uhr. Reisen Sie in einem privaten, klimatisierten Auto mit Ihrem professionellen Fahrer, während Ihr privater Reiseführer sich Ihnen vor dem ersten Besichtigungsstopp anschließt. Besuchen Sie das Jaigarh-Fort, die historische Hügelfestung, erbaut von Maharadscha Sawai Jai Singh II. im Jahr 1726, und sehen Sie seine Innenhöfe, Verteidigungsmauern, die berühmte Jaivana-Kanone und Panoramablicke auf Amer und die Aravalli-Hügel. Das Jaigarh-Fort ist im Standard-Reiseplan enthalten, wobei das Amber-Fort auf Anfrage als Alternative verfügbar ist.\n\nHalten Sie am Hawa Mahal für Fotos seiner ikonischen rosa Sandsteinfassade und 953 Fenster an. Genießen Sie eine optionale Mahlzeit in einem lokalen Restaurant mit internationaler Küche oder einem erstklassigen 5-Sterne-Hotel, erkunden Sie dann das City-Palace-Museum, einschließlich seiner königlichen Innenhöfe, Galerien, Kostüme, Waffen, Gemälde und Artefakte. Der Standardbesuch umfasst das Museum, während der Chandra Mahal, der Blaue Raum und andere private Bereiche ein separates Premium-Ticket erfordern. Weiter geht es zum Jal Mahal für einen Blick auf den Wasserpalast vom Seeufer aus.\n\nBeenden Sie die Tour am UNESCO-gelisteten Jantar Mantar, wo Ihr Reiseführer seine historischen astronomischen Instrumente und die riesige steinerne Sonnenuhr erklärt. Nach der Besichtigung entspannen Sie sich in Ihrem privaten, klimatisierten Auto auf dem Rückweg zu jedem Hotel, Wohnsitz oder Flughafen in Jaipur, einschließlich des Internationalen Flughafens Jaipur.\n\n### Inklusive\n\n- Private Abholung und Rückfahrt von jedem Hotel, Wohnsitz oder Flughafen in Jaipur\n- Privates klimatisiertes Fahrzeug für alle Transfers und Besichtigungen\n- Leistungen eines privaten Live-Reiseführers während des gesamten Reiseplans\n- Vorab organisierte Eintrittskarten für Denkmäler (nur enthalten, wenn die Option „Tickets inklusive\" gewählt wird)\n- Kostenloses Trinkwasser in Flaschen und Regenschirme\n- Alle Parkgebühren, Mautgebühren, Kraftstoffkosten und anfallenden Steuern inbegriffen\n\n### Nicht inklusive\n\n- Jegliche persönlichen Ausgaben\n- Trinkgelder für Führer und Fahrer\n- Mahlzeiten (als optionale Zusatzoption verfügbar)",
+  "highlights": [
+   "Entdecken Sie das reiche Erbe der Pink City mit einem staatlich zugelassenen Reiseführer"
+  ],
+  "included": [
+   "Private Abholung und Rückfahrt von jedem Hotel, Wohnsitz oder Flughafen in Jaipur\nPrivates klimatisiertes Fahrzeug für alle Transfers und Besichtigungen\nLeistungen eines privaten Live-Reiseführers während des gesamten Reiseplans\nVorab organisierte Eintrittskarten für Denkmäler (nur enthalten, wenn die Option „Tickets inklusive\" gewählt wird)\nKostenloses Trinkwasser in Flaschen und Regenschirme\nAlle Parkgebühren, Mautgebühren, Kraftstoffkosten und anfallenden Steuern inbegriffen"
+  ],
+  "notIncluded": [
+   "Jegliche persönlichen Ausgaben\nTrinkgelder für Führer und Fahrer\nMahlzeiten (als optionale Zusatzoption verfügbar)"
+  ]
+ },
+ "jaipur-discover-the-hidden-leopards-of-jhalana": {
+  "title": "Jaipur: entdecken Sie die versteckten Leoparden von Jhalana",
+  "metaTitle": "Jaipur: die versteckten Leoparden von Jhalana",
+  "metaDescription": "Spüren Sie den Nervenkitzel, Leoparden in ihrem natürlichen Lebensraum zu entdecken, bei dieser Safari im Jhalana-Park nahe Jaipur.",
+  "shortDescription": "Spüren Sie den Nervenkitzel, Leoparden in ihrem natürlichen Lebensraum zu entdecken",
+  "fullDescription": "Jaipur: entdecken Sie die versteckten Leoparden von Jhalana. Spüren Sie den Nervenkitzel, Leoparden in ihrem natürlichen Lebensraum zu entdecken.\n\nBegeben Sie sich auf ein spannendes Wildtier-Abenteuer im Jhalana-Leoparden-Safaripark, direkt außerhalb von Jaipur. Bekannt als Heimat des scheuen Leoparden, bietet dieser Park eine einzigartige Gelegenheit, diese majestätischen Geschöpfe in ihrem natürlichen Lebensraum zu beobachten.\n\nBeginnen Sie Ihr Abenteuer mit einer bequemen Hotelabholung und einer kurzen Fahrt zum Park. Steigen Sie in eine Freiluft-Jeep-Safari und brechen Sie zu einer spannenden Fahrt durch das zerklüftete Gelände auf.\n\nWährend Sie erkunden, halten Sie Ausschau nach Leoparden, gestreiften Hyänen, Schakalen und verschiedenen Vogelarten, die diesen Park ihr Zuhause nennen. Erfahren Sie faszinierende Fakten über das Ökosystem des Parks, das Verhalten der Tierwelt und Naturschutzbemühungen von Ihrem Reiseführer.\n\nOb Sie ein Naturliebhaber oder ein Abenteuersucher sind, diese Safari verspricht einen intimen Einblick in die reiche Biodiversität Rajasthans. Perfekt für Wildtierliebhaber, Familien und Fotografen, ist diese Tour eine Chance, sich mit der Natur zu verbinden und den Nervenkitzel der Wildnis zu erleben.\n\n### Inklusive\n\n- Abholung und Rückfahrt vom Hotel\n- Freiluft-Jeep-Safari (geteilt, maximal 6 Personen pro Jeep)\n\n### Nicht inklusive\n\n- Mahlzeiten\n- Persönliche Ausgaben",
+  "highlights": [
+   "Spüren Sie den Nervenkitzel, Leoparden in ihrem natürlichen Lebensraum zu entdecken"
+  ],
+  "included": [
+   "Abholung und Rückfahrt vom Hotel\nFreiluft-Jeep-Safari (geteilt, maximal 6 Personen pro Jeep)"
+  ],
+  "notIncluded": [
+   "Mahlzeiten\nPersönliche Ausgaben"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
