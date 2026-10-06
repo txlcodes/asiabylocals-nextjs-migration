@@ -34922,6 +34922,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Mahlzeiten\nUnterkunft\nTrinkgelder\nEintrittsgebuehren fuer Denkmaeler"
   ]
  },
+ "diwali-celebration-with-local-family-at-jaipur": {
+  "title": "Diwali-Feier mit einer lokalen Familie in Jaipur mit Abendessen",
+  "metaTitle": "Diwali-Feier mit lokaler Familie in Jaipur",
+  "metaDescription": "Erleben Sie die Magie von Diwali wie ein Einheimischer, mit Dekoration, Gebeten, Snacks und Abendessen mit einer lokalen Familie in Jaipur.",
+  "shortDescription": "Erleben Sie die Magie von Diwali wie ein Einheimischer, mit Dekoration, Gebeten und Snacks.",
+  "fullDescription": "Diwali-Feier mit einer lokalen Familie in Jaipur mit Abendessen. Erleben Sie die Magie von Diwali wie ein Einheimischer, mit Dekoration, Gebeten und Snacks.\n\nWaehrend Diwali dekorieren die Menschen ihre Haeuser mit Oellampen, Kerzen und farbenfrohen Rangoli-Mustern, um den Sieg des Lichts und des Wissens zu symbolisieren. Familien kommen zusammen, um Geschenke auszutauschen, festliche Mahlzeiten zu teilen und den Gottheiten, insbesondere der Goettin Lakshmi, dem Symbol von Reichtum und Wohlstand, Gebete darzubringen.\n\nSie werden an Ihrem Hotel abgeholt und zum Ort der Diwali-Feier gebracht, wo Sie von der Gastgeberfamilie traditionell willkommen geheissen werden und sich an einer koestlichen Auswahl traditioneller Snacks und Suessigkeiten erfreuen, die die authentischen Aromen Rajasthans widerspiegeln, bei einer warmen und einladenden Abendtee-Session.\n\nDanach tauchen Sie in die spirituelle Atmosphaere ein, waehrend Sie einen nahegelegenen Tempel besuchen, wo Sie an den Abendgebeten teilnehmen und die spirituelle Energie dieses verheissungsvollen Tages aufsaugen koennen.\n\nGeniessen Sie ein geschmackvolles Festmahl mit einem sorgfaeltig zusammengestellten Drei-Gaenge-Abendessen, das eine Vielzahl authentischer rajasthanischer Gerichte umfasst, die Ihren Geschmack verfeinern und Ihre kulinarische Neugier befriedigen.\n\nAnschliessend haben Sie die Gelegenheit, der Gastgeberfamilie bei den Dekorationen zu helfen und einen lokalen Tempel zu besuchen, um die Gebetsrituale zu erleben. Nach der Rueckkehr nehmen Sie am Entzuenden der traditionellen Lampen und Kerzen teil. Sie haben auch die Moeglichkeit, zu lernen, wie man einen indischen Snack zubereitet, und geniessen einen koestlichen Nachmittagstee mit einer Vielzahl spezieller Snacks und Suessigkeiten. Im Laufe des Abends koennen Sie sich an einigen Feuerwerken erfreuen.\n\nDanach geniessen Sie das Abendessen mit der Gastgeberfamilie, und nach dem Essen koennen Sie frei abreisen.\n\nUnser Fahrer bringt Sie zum Hotel zurueck.\n\n### Im Preis enthalten\n\n- Abholung und Rueckfahrt zum Hotel in einem Privatauto\n- Abendtee mit einer Auswahl traditioneller Snacks und Suessigkeiten\n- Ein Besuch an einem nahegelegenen Tempel am Abend\n- Abendessen mit einer lokalen Familie\n- Erlebnis, das Haus zu Diwali zu dekorieren\n- Leichtes Feuerwerk\n\n### Nicht enthalten\n\n- Trinkgelder",
+  "highlights": [
+   "Erleben Sie die Magie von Diwali wie ein Einheimischer, mit Dekoration, Gebeten und Snacks."
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel in einem Privatauto.\nAbendtee mit einer Auswahl traditioneller Snacks und Suessigkeiten.\nEin Besuch an einem nahegelegenen Tempel am Abend.\nAbendessen mit einer lokalen Familie\nErlebnis, das Haus zu Diwali zu dekorieren.\nLeichtes Feuerwerk."
+  ],
+  "notIncluded": [
+   "Trinkgelder"
+  ]
+ },
+ "delhi-multi-golden-triangle-tour-with-hotels": {
+  "title": "Delhi: Multi-Goldenes-Dreieck-Tour mit Hotels, Guide und Auto",
+  "metaTitle": "Delhi: Multi-Goldenes-Dreieck-Tour mit Hotels",
+  "metaDescription": "Privater klimatisierter Transport mit Tuer-zu-Tuer-Service von Delhi, Agra und Jaipur, erfahrene lokale Guides und Unterkunft inklusive.",
+  "shortDescription": "Privater klimatisierter Transport mit Tuer-zu-Tuer-Service von Delhi, Agra und Jaipur",
+  "fullDescription": "Delhi: Multi-Goldenes-Dreieck-Tour mit Hotels, Guide und Auto. Privater klimatisierter Transport mit Tuer-zu-Tuer-Service von Delhi, Agra und Jaipur.\n\n### Im Preis enthalten\n\n- Privates klimatisiertes Fahrzeug fuer einen komfortablen und exklusiven Transport waehrend der ganzen Reise\n- Rundum-Preisgestaltung inklusive Maut, Steuern, Parkgebuehren und Fahrerkosten ohne versteckte Kosten\n- Erfahrene lokale Guides in jeder Stadt fuer aufschlussreiche und spannende Touren\n- Eintrittsgebuehren fuer Denkmaeler fuer alle wichtigen Attraktionen enthalten (wenn gewaehlt)\n- Unterkunft mit kostenlosem Fruehstueck in sorgfaeltig ausgewaehlten Hotels (wenn gewaehlt)\n\n### Nicht enthalten\n\n- Mittag- und Abendessen\n- Trinkgelder",
+  "highlights": [
+   "Privater klimatisierter Transport mit Tuer-zu-Tuer-Service von Delhi, Agra und Jaipur"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug fuer einen komfortablen und exklusiven Transport waehrend der ganzen Reise\nRundum-Preisgestaltung inklusive Maut, Steuern, Parkgebuehren und Fahrerkosten ohne versteckte Kosten\nErfahrene lokale Guides in jeder Stadt fuer aufschlussreiche und spannende Touren\nEintrittsgebuehren fuer Denkmaeler fuer alle wichtigen Attraktionen enthalten (wenn gewaehlt)\nUnterkunft mit kostenlosem Fruehstueck in sorgfaeltig ausgewaehlten Hotels (wenn gewaehlt)"
+  ],
+  "notIncluded": [
+   "Mittag- und Abendessen\nTrinkgelder"
+  ]
+ },
+ "jaipur-private-full-day-pink-city-tour-with": {
+  "title": "Jaipur: private Ganztagestour der Pink City mit Affentempel",
+  "metaTitle": "Jaipur: Ganztagestour mit Affentempel",
+  "metaDescription": "Erkunden Sie Jaipur in einem privaten klimatisierten Auto mit englischsprachigem Fahrer: Amber Fort, City Palace, Hawa Mahal, Affentempel.",
+  "shortDescription": "Erkunden Sie Jaipur in einem privaten klimatisierten Auto mit einem englischsprachigen Fahrer.",
+  "fullDescription": "Jaipur: private Ganztagestour der Pink City mit Affentempel. Erkunden Sie Jaipur in einem privaten klimatisierten Auto mit einem englischsprachigen Fahrer.\n\nJaipur, die Hauptstadt von Rajasthan, ist eine Stadt voller Geschichte, Kultur und atemberaubender architektonischer Wunder. Eine Ganztages-Besichtigungstour mit dem Auto und einem Guide bietet ein intensives Erlebnis ihres lebendigen Erbes. Hier ist ein vorgeschlagener Ablauf fuer einen Tag der Erkundung:\n\n***AMBER FORT***\nErkunden Sie die prachtvolle Huegelfestung, bekannt fuer ihre kunstvollen Hindu-Elemente, atemberaubenden Hoefe und den wunderschoenen Sheesh Mahal (Spiegelpalast). Sie koennen auch eine Elefantenfahrt (je nach Verfuegbarkeit) oder einen Jeep nutzen, um zur Festung hinaufzufahren.\n\n***PANNA MEENA STUFENBRUNNEN***\nPanna Meena ka Kund ist ein Stufenbrunnen direkt ausserhalb des Amber Forts in Jaipur. Stufenbrunnen sind markante Bauwerke in Indien, die zum Sammeln und Speichern von Wasser dienen und sowohl Funktionalitaet als auch architektonische Schoenheit zeigen.\n\n***JAL MAHAL***\nDieser Palast scheint inmitten des Man Sagar Sees zu schweben. Das Innere ist nicht fuer die Oeffentlichkeit zugaenglich, aber es ist ein fantastischer Ort fuer Fotos.\n\n***ROYAL GAITOR***\nUnterhalb des Nahargarh Forts in Jaipur liegt der Royal Gaitor, auch bekannt als Gaitor Ki Chhatriyan. Dieser friedliche Ort beherbergt prachtvolle und kunstvoll gestaltete Steindenkmaeler, die als koenigliches Krematorium dienten.\n\n***AFFENTEMPEL***\nDer Affentempel ist ein wahrer Schatz des Bundesstaates, verehrt von Gläubigen und Touristen gleichermassen. Dem Gott Hanuman und dem Sonnengott gewidmet, hat dieser prachtvolle Tempel eine grosse kulturelle Bedeutung fuer alle, die ihn besuchen.\n\n***CITY PALACE***\nIm Herzen von Jaipur gelegen, ist der City Palace eine schoene Mischung aus moghulischer und rajasthanischer Architektur. Erkunden Sie die Museen und Hoefe und erfahren Sie mehr ueber die koenigliche Geschichte Jaipurs.\n\n***JANTAR MANTAR***\nEin astronomisches Observatorium mit der weltgroessten steinernen Sonnenuhr. Es ist eine UNESCO-Weltkulturerbestaette und bietet Einblick in die wissenschaftlichen Fortschritte des XVIII. Jahrhunderts.\n\n***HAWA MAHAL***\nBeruehmt fuer sein kunstvolles Gitterwerk und seine Wabenstruktur, wurde dieser Palast gebaut, damit koenigliche Damen das Strassenleben beobachten konnten, ohne gesehen zu werden.\n\nWenn Sie moechten, koennen wir die Tour mit einem Besuch der lebendigen Maerkte der Pink City abschliessen, wo Sie geschaeftige Bazare voller farbenfroher Textilien, traditionellem Handwerk, Schmuck und Souvenirs erkunden koennen.\n\n### Im Preis enthalten\n\n- Abholung und Rueckfahrt zum/vom Flughafen, Bahnhof oder Hotel\n- Privater Reiseleiter (Option verfuegbar)\n- Transport im privaten klimatisierten Fahrzeug (die Art des Fahrzeugs haengt von der Anzahl der Erwachsenen ab)\n- Alle Steuern, Parkgebuehren, Kraftstoffkosten und Bearbeitungsgebuehren\n- Flaschenwasser\n\n### Nicht enthalten\n\n- Eintrittskarten fuer Denkmaeler\n- Alle Mahlzeiten\n- Trinkgeld fuer Fahrer oder Guide",
+  "highlights": [
+   "Erkunden Sie Jaipur in einem privaten klimatisierten Auto mit einem englischsprachigen Fahrer."
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zum/vom Flughafen, Bahnhof oder Hotel.\nPrivater Reiseleiter (Option verfuegbar)\nTransport im privaten klimatisierten Fahrzeug (die Art des Fahrzeugs haengt von der Anzahl der Erwachsenen ab)\nAlle Steuern, Parkgebuehren, Kraftstoffkosten und Bearbeitungsgebuehren.\nFlaschenwasser."
+  ],
+  "notIncluded": [
+   "Eintrittskarten fuer Denkmaeler.\nAlle Mahlzeiten.\nTrinkgeld fuer Fahrer oder Guide."
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",

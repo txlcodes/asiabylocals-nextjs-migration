@@ -34922,6 +34922,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Comidas\nAlojamiento\nPropinas\nEntradas a monumentos"
   ]
  },
+ "diwali-celebration-with-local-family-at-jaipur": {
+  "title": "Celebracion de Diwali con una familia local en Jaipur con cena",
+  "metaTitle": "Celebracion de Diwali con familia local en Jaipur",
+  "metaDescription": "Experimente la magia de Diwali como un local, con decoracion, oraciones, aperitivos y cena con una familia local en Jaipur.",
+  "shortDescription": "Experimente la magia de Diwali como un local, con decoracion, oraciones y aperitivos.",
+  "fullDescription": "Celebracion de Diwali con una familia local en Jaipur con cena. Experimente la magia de Diwali como un local, con decoracion, oraciones y aperitivos.\n\nDurante Diwali, las personas decoran sus hogares con lamparas de aceite, velas y coloridos disenios de rangoli para simbolizar la victoria de la luz y el conocimiento. Las familias se reunen para intercambiar regalos, compartir comidas festivas y ofrecer oraciones a las deidades, particularmente a la diosa Lakshmi, simbolo de riqueza y prosperidad.\n\nSera recogido en su hotel y llevado al lugar de la celebracion de Diwali, donde recibira una bienvenida tradicional por parte del anfitrion y disfrutara de un delicioso surtido de aperitivos y dulces tradicionales, que reflejan los sabores autenticos de Rajasthan, durante una calida y acogedora sesion de te vespertino.\n\nDespues de eso, sumerjase en el ambiente espiritual durante una visita a un templo cercano, donde podra participar en las oraciones de la tarde y empaparse de la energia espiritual de este dia propicio.\n\nDisfrute de un festin sabroso que incluye una cena de tres platos cuidadosamente seleccionada, compuesta por una variedad de platos rajastanis autenticos que deleitaran su paladar y satisfaran su curiosidad culinaria.\n\nLuego tendra la oportunidad de ayudar al anfitrion con las decoraciones y visitar un templo local para presenciar los rituales de oracion. Al regresar, participara en el encendido de las lamparas y velas tradicionales. Tambien tendra la oportunidad de aprender a preparar un aperitivo indio y disfrutar de un delicioso te con una variedad de aperitivos y dulces especiales. A medida que avanza la noche, podra disfrutar de algunos fuegos artificiales.\n\nDespues de eso, disfrutara de la cena con la familia anfitriona, y despues de la cena es libre de partir.\n\nNuestro conductor lo dejara en el hotel.\n\n### Que incluye\n\n- Recogida y traslado al hotel en un coche privado\n- Te vespertino con un surtido de aperitivos y dulces tradicionales\n- Una visita a un templo cercano por la tarde\n- Cena con una familia local\n- Experiencia de decorar la casa para Diwali\n- Fuegos artificiales ligeros\n\n### No incluye\n\n- Propinas",
+  "highlights": [
+   "Experimente la magia de Diwali como un local, con decoracion, oraciones y aperitivos."
+  ],
+  "included": [
+   "Recogida y traslado al hotel en un coche privado.\nTe vespertino con un surtido de aperitivos y dulces tradicionales.\nUna visita a un templo cercano por la tarde.\nCena con una familia local\nExperiencia de decorar la casa para Diwali.\nFuegos artificiales ligeros."
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "delhi-multi-golden-triangle-tour-with-hotels": {
+  "title": "Delhi: tour multi del triangulo dorado con hoteles, guia y coche",
+  "metaTitle": "Delhi: tour multi del triangulo dorado con hoteles",
+  "metaDescription": "Transporte privado con aire acondicionado y servicio puerta a puerta desde Delhi, Agra y Jaipur, guias locales expertos y alojamiento incluido.",
+  "shortDescription": "Transporte privado con aire acondicionado y servicio puerta a puerta desde Delhi, Agra y Jaipur",
+  "fullDescription": "Delhi: tour multi del triangulo dorado con hoteles, guia y coche. Transporte privado con aire acondicionado y servicio puerta a puerta desde Delhi, Agra y Jaipur.\n\n### Que incluye\n\n- Vehiculo privado con aire acondicionado para un transporte comodo y exclusivo durante todo el viaje\n- Precios todo incluido que cubren peajes, impuestos, estacionamiento y gastos del conductor sin cargos ocultos\n- Guias locales expertos en cada ciudad para recorridos informativos y atractivos\n- Entradas a monumentos incluidas para todas las principales atracciones (si se selecciona)\n- Alojamiento con desayuno de cortesia en hoteles cuidadosamente seleccionados (si se selecciona)\n\n### No incluye\n\n- Almuerzo y cena\n- Propinas",
+  "highlights": [
+   "Transporte privado con aire acondicionado y servicio puerta a puerta desde Delhi, Agra y Jaipur"
+  ],
+  "included": [
+   "Vehiculo privado con aire acondicionado para un transporte comodo y exclusivo durante todo el viaje\nPrecios todo incluido que cubren peajes, impuestos, estacionamiento y gastos del conductor sin cargos ocultos\nGuias locales expertos en cada ciudad para recorridos informativos y atractivos\nEntradas a monumentos incluidas para todas las principales atracciones (si se selecciona)\nAlojamiento con desayuno de cortesia en hoteles cuidadosamente seleccionados (si se selecciona)"
+  ],
+  "notIncluded": [
+   "Almuerzo y cena\nPropinas"
+  ]
+ },
+ "jaipur-private-full-day-pink-city-tour-with": {
+  "title": "Jaipur: tour privado de dia completo por la ciudad rosa con templo de los monos",
+  "metaTitle": "Jaipur: tour de dia completo con templo de los monos",
+  "metaDescription": "Explore Jaipur en un coche privado con aire acondicionado y conductor de habla inglesa: fuerte de Amber, City Palace, Hawa Mahal, templo de los monos.",
+  "shortDescription": "Explore Jaipur en un coche privado con aire acondicionado con un conductor de habla inglesa.",
+  "fullDescription": "Jaipur: tour privado de dia completo por la ciudad rosa con templo de los monos. Explore Jaipur en un coche privado con aire acondicionado con un conductor de habla inglesa.\n\nJaipur, la capital de Rajasthan, es una ciudad llena de historia, cultura y asombrosas maravillas arquitectonicas. Un tour turistico de un dia completo en coche con un guia ofrece una experiencia inmersiva en su vibrante patrimonio. Aqui hay un itinerario sugerido para un dia de exploracion:\n\n***FUERTE DE AMBER***\nExplore la magnifica fortaleza en la cima de la colina, conocida por sus elementos artisticos de estilo hindu, sus impresionantes patios y el hermoso Sheesh Mahal (Palacio de los Espejos). Tambien puede disfrutar de un paseo en elefante (sujeto a disponibilidad) o tomar un jeep para subir al fuerte.\n\n***POZO ESCALONADO PANNA MEENA***\nPanna Meena ka Kund es un pozo escalonado situado justo fuera del fuerte de Amber en Jaipur. Los pozos escalonados son estructuras distintivas en India, disenadas para recolectar y almacenar agua, mostrando tanto funcionalidad como belleza arquitectonica.\n\n***JAL MAHAL***\nEste palacio parece flotar en medio del lago Man Sagar. Aunque el interior no esta abierto al publico, es un lugar fantastico para la fotografia.\n\n***ROYAL GAITOR***\nUbicado debajo del fuerte de Nahargarh en Jaipur se encuentra el Royal Gaitor, tambien conocido como Gaitor Ki Chhatriyan. Este lugar tranquilo alberga magnificos y elaborados monumentos de piedra que sirvieron como crematorio real.\n\n***TEMPLO DE LOS MONOS***\nEl templo de los monos es un verdadero tesoro del estado, venerado tanto por devotos como por turistas. Dedicado al senor Hanuman y al dios Sol, este magnifico templo tiene gran significado cultural para todos los que lo visitan.\n\n***CITY PALACE***\nUbicado en el corazon de Jaipur, el City Palace es una hermosa mezcla de arquitectura mogol y rajastani. Explore los museos y patios, y aprenda sobre la historia real de Jaipur.\n\n***JANTAR MANTAR***\nUn observatorio astronomico con el reloj de sol de piedra mas grande del mundo. Es un sitio del Patrimonio de la Humanidad de la UNESCO y ofrece una perspectiva de los avances cientificos del siglo XVIII.\n\n***HAWA MAHAL***\nFamoso por su intrincada celosia y estructura de panal, este palacio fue construido para que las damas reales observaran las festividades de la calle sin ser vistas.\n\nSi lo desea, podemos concluir el tour con una visita a los vibrantes mercados de la ciudad rosa, donde podra explorar bulliciosos bazares llenos de textiles coloridos, artesania tradicional, joyeria y recuerdos.\n\n### Que incluye\n\n- Recogida y traslado en el aeropuerto, estacion de trenes o hotel\n- Guia privado (opcion disponible)\n- Transporte en vehiculo privado con aire acondicionado (el tipo de vehiculo depende del numero de adultos)\n- Todos los impuestos, estacionamiento, cargo de combustible y cargos de gestion\n- Agua embotellada\n\n### No incluye\n\n- Entradas a monumentos\n- Comidas\n- Propina para el conductor o guia",
+  "highlights": [
+   "Explore Jaipur en un coche privado con aire acondicionado con un conductor de habla inglesa."
+  ],
+  "included": [
+   "Recogida y traslado en el aeropuerto, estacion de trenes o hotel.\nGuia privado (opcion disponible)\nTransporte en vehiculo privado con aire acondicionado (el tipo de vehiculo depende del numero de adultos)\nTodos los impuestos, estacionamiento, cargo de combustible y cargos de gestion.\nAgua embotellada."
+  ],
+  "notIncluded": [
+   "Entradas a monumentos.\nComidas.\nPropina para el conductor o guia."
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
