@@ -35258,6 +35258,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Frais d'entrée\nNourriture et boissons\nPourboires"
   ]
  },
+ "2-days-in-jaipur-ranthambore-history-meets": {
+  "title": "2 jours à Jaipur et Ranthambore : l'histoire rencontre la faune",
+  "metaTitle": "2 jours à Jaipur et Ranthambore",
+  "metaDescription": "Découvrez les monuments emblématiques de Jaipur et le frisson du safari tigre de Ranthambore lors d'un circuit de 2 jours avec assistance 24h/24.",
+  "shortDescription": "Nous offrons une assistance clientèle 24h/24 et 7j/7.",
+  "fullDescription": "2 jours à Jaipur et Ranthambore : l'histoire rencontre la faune. Nous offrons une assistance clientèle 24h/24 et 7j/7.\n\nDécouvrez les monuments emblématiques de Jaipur et le frisson du safari tigre de Ranthambore lors de ce circuit de 2 jours, mêlant histoire royale et aventure animalière pour un voyage inoubliable.\n\n### Ce qui est inclus\n\n- Hébergement : 1 nuit dans des hôtels 4 étoiles. (Avec option circuit uniquement)\n- Repas : petit-déjeuner à l'hôtel tous les jours. (Avec option circuit uniquement)\n- Transport : véhicule climatisé pour tous les transferts et visites.\n- Visites guidées : guides locaux parlant anglais pour les principales visites.\n- Frais d'entrée : billets d'entrée pour les monuments et attractions. (Avec option circuit uniquement) (si l'option est choisie)\n- Safari matinal à Ranthambore avec guide et frais d'entrée au parc. (Avec option circuit uniquement) (si l'option est choisie)\n- Toutes les taxes et frais de service applicables.\n- Assistance pendant tout le circuit, 24h/24 et 7j/7.\n- Bouteille d'eau fournie pendant le voyage.\n- Wifi à bord.",
+  "highlights": [
+   "Nous offrons une assistance clientèle 24h/24 et 7j/7."
+  ],
+  "included": [
+   "Hébergement : 1 nuit dans des hôtels 4 étoiles. (Avec option circuit uniquement)\nRepas : petit-déjeuner à l'hôtel tous les jours. (Avec option circuit uniquement)\nTransport : véhicule climatisé pour tous les transferts et visites.\nVisites guidées : guides locaux parlant anglais pour les principales visites.\nFrais d'entrée : billets d'entrée pour les monuments et attractions. (Avec option circuit uniquement) (si l'option est choisie)\nSafari matinal à Ranthambore avec guide et frais d'entrée au parc. (Avec option circuit uniquement) (si l'option est choisie)\nToutes les taxes et frais de service applicables.\nAssistance pendant tout le circuit, 24h/24 et 7j/7.\nBouteille d'eau fournie pendant le voyage.\nWifi à bord."
+  ],
+  "notIncluded": [
+   "Dépenses personnelles : toute dépense personnelle comme pourboires, souvenirs, repas ou boissons supplémentaires, et shopping.\nActivités optionnelles\nPourboires : pour le guide, le chauffeur ou le personnel de l'hôtel.\nRepas : déjeuner et dîner."
+  ]
+ },
+ "5-day-golden-triangle-tour-jim-corbett-safari": {
+  "title": "Circuit de 5 jours au triangle d'or et aventure safari à Jim Corbett",
+  "metaTitle": "Circuit de 5 jours, triangle d'or, Jim Corbett",
+  "metaDescription": "Découvrez le triangle d'or historique et un safari inoubliable au parc national de Jim Corbett lors d'un circuit de 5 jours.",
+  "shortDescription": "Nous offrons une assistance clientèle 24h/24 et 7j/7.",
+  "fullDescription": "Circuit de 5 jours au triangle d'or et aventure safari à Jim Corbett. Nous offrons une assistance clientèle 24h/24 et 7j/7.\n\nJour 1 : arrivée à New Delhi\nMatin : arrivée à New Delhi, où vous serez chaleureusement accueilli par votre représentant Taj Explorer à l'aéroport. Transfert vers votre hôtel pour l'enregistrement et le rafraîchissement.\nAprès-midi : commencez à explorer les attractions emblématiques de New Delhi, notamment India Gate, Qutub Minar et le tombeau de Humayun.\nSoir : option de visiter le temple du Lotus ou de profiter d'un spectacle culturel.\nNuitée : séjour à New Delhi.\n\nJour 2 : New Delhi à Agra\nMatin : après le petit-déjeuner, partez pour Agra via l'autoroute Yamuna (environ 3-4 heures). À l'arrivée, enregistrement à votre hôtel.\nAprès-midi : visitez le magnifique Taj Mahal, symbole éternel de l'amour, suivi d'une visite du fort d'Agra classé UNESCO.\nSoir : rendez-vous à Mehtab Bagh pour admirer le coucher de soleil sur le Taj Mahal depuis l'autre côté de la rivière Yamuna.\nNuitée : séjour à Agra.\n\nJour 3 : Agra à Jaipur\nMatin : départ et trajet vers Jaipur (environ 4-5 heures), avec un arrêt à Fatehpur Sikri pour explorer la fascinante ville moghole abandonnée, notamment le Buland Darwaza et la Jama Masjid.\nAprès-midi : arrivée à Jaipur et enregistrement à votre hôtel. Commencez la visite avec le City Palace et le remarquable observatoire Jantar Mantar.\nSoir : visitez le Hawa Mahal (palais des vents) et parcourez les marchés locaux vibrants.\nNuitée : séjour à Jaipur.\n\nJour 4 : Jaipur au parc national de Jim Corbett\nMatin : après un petit-déjeuner matinal, partez pour le parc national de Jim Corbett (environ 6-7 heures).\nAprès-midi : enregistrement à votre complexe en pleine jungle à Jim Corbett et détendez-vous dans un cadre naturel.\nSoir : profitez de la tranquillité du complexe en vous préparant pour une aventure safari palpitante le lendemain.\nNuitée : séjour au parc national de Jim Corbett.\n\nJour 5 : safari à Jim Corbett et retour à Delhi\nTôt le matin : partez pour un safari en jeep palpitant au parc national de Jim Corbett pour observer des tigres et d'autres animaux dans leur habitat naturel.\nFin de matinée : retournez au complexe pour le petit-déjeuner, puis quittez l'hôtel et roulez vers New Delhi (environ 5-6 heures).\nSoir : arrivée à New Delhi. Selon votre programme, profitez de shopping ou de visites de dernière minute.\nDépose : votre représentant Taj Explorer vous conduira à l'aéroport ou à l'hôtel pour la suite de votre voyage.\n\nCet itinéraire combine les merveilles historiques et culturelles du triangle d'or avec une expérience safari inoubliable au parc national de Jim Corbett.\n\n### Ce qui est inclus\n\n- Hébergement : 4 nuits dans des hôtels 4 étoiles. (Avec option circuit uniquement)\n- Repas : petit-déjeuner à l'hôtel tous les jours. (Avec option circuit uniquement)\n- Transport : véhicule climatisé pour tous les transferts et visites\n- Visites guidées : guides locaux parlant anglais pour les principales visites\n- Frais d'entrée : billets d'entrée pour les monuments et ticket de safari. (Avec option circuit uniquement)\n- Toutes les taxes et frais de service applicables\n- Assistance pendant tout le circuit, 24h/24 et 7j/7\n- Bouteille d'eau fournie pendant le voyage\n- Wifi à bord\n\n### Non inclus\n\n- Dépenses personnelles : toute dépense personnelle comme pourboires, souvenirs, repas ou boissons supplémentaires et shopping\n- Activités optionnelles\n- Pourboires : pour le guide, le chauffeur ou le personnel de l'hôtel",
+  "highlights": [
+   "Nous offrons une assistance clientèle 24h/24 et 7j/7."
+  ],
+  "included": [
+   "Hébergement : 4 nuits dans des hôtels 4 étoiles. (Avec option circuit uniquement)\nRepas : petit-déjeuner à l'hôtel tous les jours. (Avec option circuit uniquement)\nTransport : véhicule climatisé pour tous les transferts et visites.\nVisites guidées : guides locaux parlant anglais pour les principales visites.\nFrais d'entrée : billets d'entrée pour les monuments et ticket de safari. (Avec option circuit uniquement)\nToutes les taxes et frais de service applicables.\nAssistance pendant tout le circuit, 24h/24 et 7j/7.\nBouteille d'eau fournie pendant le voyage.\nWifi à bord."
+  ],
+  "notIncluded": [
+   "Dépenses personnelles : toute dépense personnelle comme pourboires, souvenirs, repas ou boissons supplémentaires et shopping.\nActivités optionnelles\nPourboires : pour le guide, le chauffeur ou le personnel de l'hôtel."
+  ]
+ },
+ "jaipur-private-night-tour-street-food-pickupdrop": {
+  "title": "Jaipur : visite nocturne privée + street food et prise en charge/dépose",
+  "metaTitle": "Jaipur : visite nocturne et street food",
+  "metaDescription": "Profitez des plus beaux sites de Jaipur magnifiquement illuminés la nuit, avec une dégustation de street food : samosa, kachori, jalebi, chai.",
+  "shortDescription": "Profitez des plus beaux sites de Jaipur magnifiquement illuminés la nuit",
+  "fullDescription": "Jaipur : visite nocturne privée + street food et prise en charge/dépose. Profitez des plus beaux sites de Jaipur magnifiquement illuminés la nuit.\n\nDécouvrez le charme magique de Jaipur la nuit avec cette visite guidée en soirée. Après la prise en charge à l'hôtel, voyagez confortablement en véhicule climatisé pour voir les monuments célèbres de Jaipur illuminés après le coucher du soleil.\nCommencez par des arrêts photo pittoresques aux principaux monuments de la ville, notamment le Hawa Mahal (palais des vents) et le superbe point de vue du Jal Mahal (palais de l'eau). Continuez à travers les rues animées et les marchés de Jaipur, où la ville rose s'anime de lumières, de shopping et de culture locale.\nL'expérience se termine par une délicieuse visite de dégustation de street food, où votre guide vous présentera les collations et douceurs locales les plus aimées de Jaipur. Goûtez des saveurs authentiques dans les rues alimentaires populaires et chez des vendeurs de confiance tout en découvrant la culture culinaire de la ville.\nAprès une soirée mémorable de visites et de gastronomie, détendez-vous avec une dépose confortable à votre hôtel.\n\n### Ce qui est inclus\n\n- Guide local parlant anglais\n- Dégustation de street food (samosa, kachori, jalebi, chai)\n- Prise en charge et dépose à l'hôtel à Jaipur\n- Véhicule climatisé\n- Taxes locales/péage/stationnement\n\n### Non inclus\n\n- Billets d'entrée aux monuments (le cas échéant)\n- Nourriture et boissons supplémentaires non mentionnées\n- Dépenses personnelles",
+  "highlights": [
+   "Profitez des plus beaux sites de Jaipur magnifiquement illuminés la nuit"
+  ],
+  "included": [
+   "Guide local parlant anglais\nDégustation de street food (samosa, kachori, jalebi, chai)\nPrise en charge et dépose à l'hôtel à Jaipur\nVéhicule climatisé\nTaxes locales/péage/stationnement"
+  ],
+  "notIncluded": [
+   "Billets d'entrée aux monuments (le cas échéant)\nNourriture et boissons supplémentaires non mentionnées\nDépenses personnelles"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
