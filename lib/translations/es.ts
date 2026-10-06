@@ -35402,6 +35402,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier comida\nCualquier gasto personal"
   ]
  },
+ "from-jaipur-abhaneri-stepwell-private-tour": {
+  "title": "Desde Jaipur: tour privado al pozo escalonado de Abhaneri",
+  "metaTitle": "Desde Jaipur: pozo escalonado de Abhaneri",
+  "metaDescription": "Descubra el pozo escalonado Chand Baori en Abhaneri, uno de los mas profundos y grandes de India, en un tour privado desde Jaipur.",
+  "shortDescription": "Este tour es muy especial para quienes quieren ver cosas antiguas en Rajasthan",
+  "fullDescription": "Desde Jaipur: tour privado al pozo escalonado de Abhaneri. Este tour es muy especial para quienes quieren ver cosas antiguas en Rajasthan.\n\nAbhaneri es conocida por su \"Baori\" o pozo escalonado, inventado por los nativos para recolectar agua de lluvia. El Baori se usaba como un lugar fresco de retiro y como fuente/reservorio de agua durante las epocas aridas del anio. Chand Baori sigue siendo uno de los pozos escalonados mas profundos y grandes de India. El Baori consta de tres tramos de escaleras que descienden a la tierra con un palacio subterraneo en un lado. Los tramos de escaleras y el palacio estan todos dispuestos en un patron cuadrado, con el pozo en el fondo. El tramo de escalones tiene trece pisos de profundidad. El palacio en el fondo del Baori era un lugar donde se alojaba la familia real durante los calurosos dias de verano. Hay un gran patio alrededor del Baori desde donde se pueden obtener excelentes vistas del Baori. Alrededor del patio hay zonas cubiertas que albergan artefactos/idolos de arenisca intrincadamente tallados que datan del siglo X.\n\n### Que incluye\n\n- Recogida en cualquier lugar de Jaipur: hotel/aeropuerto/estacion de trenes\n- Tour guiado a Abhaneri\n- Botella de agua\n- Todo tipo de impuestos\n- Combustible y gasolina con estacionamiento y peaje",
+  "highlights": [
+   "Este tour es muy especial para quienes quieren ver cosas antiguas en Rajasthan"
+  ],
+  "included": [
+   "Recogida en cualquier lugar de Jaipur: hotel/aeropuerto/estacion de trenes\nTour guiado a Abhaneri\nBotella de agua\nTodo tipo de impuestos\nCombustible y gasolina con estacionamiento y peaje"
+  ],
+  "notIncluded": [
+   "Tarifas de entrada\nPropinas y foto de recuerdo\nAlojamiento en hotel"
+  ]
+ },
+ "jaipur-amber-fort-guided-tour-and-entry-ticket": {
+  "title": "Jaipur: tour guiado y entrada al fuerte de Amber",
+  "metaTitle": "Jaipur: tour guiado al fuerte de Amber",
+  "metaDescription": "Retroceda en el tiempo mientras explora el fuerte de Amber, un sitio del Patrimonio de la Humanidad de la UNESCO, con entrada y espectaculo opcional.",
+  "shortDescription": "Retroceda en el tiempo mientras explora el fuerte de Amber, un sitio del Patrimonio de la Humanidad de la UNESCO",
+  "fullDescription": "Jaipur: tour guiado y entrada al fuerte de Amber. Retroceda en el tiempo mientras explora el fuerte de Amber, un sitio del Patrimonio de la Humanidad de la UNESCO.\n\nDescubra el fuerte de Amber, uno de los fuertes mas magnificos de Rajasthan y un sitio del Patrimonio de la Humanidad de la UNESCO. Maravillese con su impresionante arquitectura, con intrincadas talladuras, frescos y grandes patios.\n\nEl fuerte combina los estilos arquitectonicos Rajput y mogol, construido por el maharaja Man Singh I a finales del siglo XVI y posteriormente ampliado por gobernantes sucesivos. Es conocido por su impresionante arquitectura, con intrincadas talladuras, frescos y grandes patios.\n\nEl complejo del fuerte incluye varias secciones impresionantes, como el Diwan-i-Aam (Sala de Audiencia Publica), el Diwan-i-Khas (Sala de Audiencia Privada) y el Sheesh Mahal (Palacio de los Espejos), donde los espejos reflejan la luz para crear un efecto magico.\n\nEl Jaleb Chowk, el patio de entrada principal, esta flanqueado por impresionantes puertas. El fuerte tambien es famoso por sus elaborados mecanismos de defensa, incluidos grandes bastiones, puertas y un sistema complejo de canales de agua.\n\nEl fuerte de Amber ofrece vistas impresionantes de las colinas circundantes y del lago Maota en su base.\n\nTour del espectaculo de luz y sonido del fuerte de Amber por la noche (si se elige la opcion)\nExperimente el magico espectaculo de luz y sonido del fuerte de Amber por la noche. Observe como el fuerte historico cobra vida con impresionantes iluminaciones, narracion cautivadora y presentaciones culturales que muestran el legado real de Rajasthan.\n\n### Que incluye\n\n- Recogida o traslado\n- Tour guiado\n- Entrada sin complicaciones\n- Entrada (si se elige la opcion)\n- Espectaculo de luz y sonido por la noche (si se elige la opcion)",
+  "highlights": [
+   "Retroceda en el tiempo mientras explora el fuerte de Amber, un sitio del Patrimonio de la Humanidad de la UNESCO"
+  ],
+  "included": [
+   "Recogida o traslado\nTour guiado\nEntrada sin complicaciones\nEntrada (si se elige la opcion)\nEspectaculo de luz y sonido por la noche (si se elige la opcion)"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
+ "from-delhi-10-day-golden-triangle-and-varanasi": {
+  "title": "Desde Delhi: tour de 10 dias por el triangulo dorado y Varanasi",
+  "metaTitle": "Desde Delhi: tour de 10 dias, Varanasi",
+  "metaDescription": "Descubra lo mejor de India en un tour de 10 dias por Delhi, Jaipur, Agra y Varanasi, con recorridos turisticos y paseo en bote por el Ganges.",
+  "shortDescription": "Descubra lo mejor de India en un tour de 10 dias por Delhi, Jaipur, Agra y Varanasi",
+  "fullDescription": "Desde Delhi: tour de 10 dias por el triangulo dorado y Varanasi. Descubra lo mejor de India en un tour de 10 dias por Delhi, Jaipur, Agra y Varanasi.\n\nDia 1: llegada a Delhi\n\nLlegue al Aeropuerto Internacional de Delhi y reunase con su representante de viaje y conductor privado. Traslado a su hotel. Dependiendo de su hora de llegada, visite el Gurdwara Bangla Sahib, India Gate y Rashtrapati Bhavan (vista desde el coche), o disfrute de la tarde a su gusto. Pernoctacion en el hotel en Delhi.\n\nDia 2: recorrido por Delhi\n\nDespues del desayuno, disfrute de un recorrido turistico de dia completo por el viejo y nuevo Delhi, incluidos Chandni Chowk, Jama Masjid, el Fuerte Rojo (vista exterior), Raj Ghat, Qutub Minar, la tumba de Humayun, el Templo del Loto, India Gate y el Parliament House (vista desde el coche). Pernoctacion en el hotel en Delhi.\n\nDia 3: de Delhi a Jaipur\n\nDespues del desayuno, conduzca hacia Jaipur en su coche privado con aire acondicionado. A su llegada, registrese en su hotel. Por la tarde, visite el templo Birla y explore los vibrantes mercados locales. Pernoctacion en el hotel en Jaipur.\n\nDia 4: recorrido por Jaipur\n\nDespues del desayuno, disfrute de un recorrido turistico de dia completo por Jaipur, incluidos el fuerte de Amber, Panna Meena Ka Kund, el Jal Mahal, el City Palace, el Jantar Mantar, el Hawa Mahal, el templo de los monos (Galta Ji) y el bazar de la ciudad rosa. Pernoctacion en el hotel en Jaipur.\n\nDia 5: de Jaipur a Agra\n\nDespues del desayuno, conduzca hacia Agra via el pozo escalonado de Abhaneri (Chand Baori) y Fatehpur Sikri. A su llegada, registrese en su hotel. Visite el fuerte de Agra, Itmad-ud-Daulah (el pequenio Taj) y Mehtab Bagh para ver una hermosa vista del atardecer sobre el Taj Mahal. Pernoctacion en el hotel en Agra.\n\nDia 6: de Agra a Varanasi\n\nTemprano en la manana, visite el Taj Mahal al amanecer. Despues del desayuno, haga el checkout y conduzca hacia Varanasi en coche privado. A su llegada, registrese en su hotel. Pernoctacion en el hotel en Varanasi.\n\nDia 7: recorrido por Varanasi\n\nTemprano en la manana, disfrute de un paseo en bote al amanecer por el rio Ganges. Visite el templo Kashi Vishwanath, el templo Annapurna, el templo Sankat Mochan, la Universidad Hindu de Banaras (BHU), Sarnath, y por la tarde sea testigo del magnifico Ganga Aarti en el ghat Dashashwamedh. Pernoctacion en el hotel en Varanasi.\n\nDia 8: de Varanasi a Delhi via Prayagraj\n\nDespues del desayuno, haga el checkout y conduzca hacia Delhi via Prayagraj. En el camino, visite el Triveni Sangam (parada fotografica) y continue su viaje hacia Delhi. Pernoctacion en el hotel en Delhi.\n\nDia 9: tiempo libre/compras en Delhi\n\nDespues del desayuno, disfrute del dia a su gusto. Puede visitar Connaught Place, Dilli Haat, el mercado Janpath, o disfrutar de compras de ultimo momento y experiencias locales. Pernoctacion en el hotel en Delhi.\n\nDia 10: salida de Delhi\n\nDespues del desayuno, haga el checkout del hotel. Segun su horario de vuelo previamente reservado, su conductor privado lo llevara al Aeropuerto Internacional de Delhi para continuar su viaje.\n\n### Que incluye\n\n- Coche privado con conductor\n- Alojamiento en hotel\n- Recorridos turisticos\n- Paseo en bote al amanecer por el rio Ganges\n- Ganga Aarti en el ghat Dashashwamedh\n\n### No incluye\n\n- Comidas\n- Entradas a monumentos\n- Gastos personales",
+  "highlights": [
+   "Descubra lo mejor de India en un tour de 10 dias por Delhi, Jaipur, Agra y Varanasi"
+  ],
+  "included": [
+   "Coche privado con conductor\nAlojamiento en hotel\nRecorridos turisticos\nPaseo en bote al amanecer por el rio Ganges\nGanga Aarti en el ghat Dashashwamedh"
+  ],
+  "notIncluded": [
+   "Comidas\nEntradas a monumentos\nGastos personales"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
