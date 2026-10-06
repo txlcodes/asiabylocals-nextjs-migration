@@ -37754,6 +37754,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas para el conductor y el guia\nGastos de comidas, que no estan cubiertos por el paquete\nBebidas/licor durante la cena\nTarifas de entrada en cualquier lugar, que no estan incluidas en el paquete y pueden necesitar pagarse por separado"
   ]
  },
+ "jaipur-personalized-full-day-city-tour-by-car": {
+  "title": "Jaipur: tour personalizado de la ciudad en coche de dia completo con opciones",
+  "metaTitle": "Jaipur, tour personalizado dia completo",
+  "metaDescription": "Servicio personalizado con coche privado con aire acondicionado y conductor: Hawa Mahal, Fuerte Amber, Jal Mahal, City Palace, y el Templo de los Monos.",
+  "shortDescription": "Servicio personalizado con un coche privado con aire acondicionado y un conductor.",
+  "fullDescription": "Jaipur: tour personalizado de la ciudad en coche de dia completo con opciones. Servicio personalizado con un coche privado con aire acondicionado y un conductor.\n\nExperimente el majestuoso encanto de Jaipur, la Ciudad Rosa, con un tour privado de dia completo que lo lleva a sus lugares mas emblematicos. Disfrute de un viaje flexible e inmersivo a traves de la rica historia y la vibrante cultura de Jaipur con servicio personalizado y comodidad.\n\nComience su dia con una conveniente recogida en su hotel, aeropuerto, o cualquier lugar preferido en Jaipur. Su coche privado y conductor con guia conocedor estaran listos para garantizar un inicio fluido de su aventura.\n\nComience con una visita al impresionante Hawa Mahal (Palacio de los Vientos), reconocido por su intrincada fachada con 953 pequenas ventanas. A continuacion, dirijase al grandioso Fuerte Amber, situado en una colina con vistas a la ciudad. Explore sus magnificos patios, intrincado trabajo de espejos, y hermosos jardines.\n\nContinue hacia el Jal Mahal, un pintoresco palacio situado en medio del lago Man Sagar, y luego dirijase al Panna Meena Ka Kund, un antiguo pozo escalonado conocido por su diseno geometrico y elegancia arquitectonica.\n\nDisfrute de un delicioso almuerzo (opcional) en un reconocido restaurante multicocina. Saboree una variedad de platos de diferentes tradiciones culinarias, adaptados a todas las preferencias de gusto.\n\nDespues del almuerzo, visite el Jantar Mantar, un observatorio astronomico construido en el siglo XVIII. Continue hacia el City Palace, un complejo extenso que alberga museos, patios, y la actual residencia real.\n\nExplore el sereno Templo Birla, tambien conocido como Templo Lakshmi Narayan, y admire su estructura de marmol blanco y hermosas talladuras. A continuacion, visite Gaitor Ki Chhatriyan, los cenotafios reales de los antiguos Maharajas de Jaipur. Las tumbas intrincadamente talladas y el entorno pacifico ofrecen una vista del pasado real de Jaipur.\n\nConcluya su tour con una visita al Templo de los Monos, tambien conocido como Galta Ji. Este sitio sagrado presenta una serie de templos y manantiales naturales, situados entre vegetacion exuberante.\n\nSu tour concluye con un regreso a su hotel, aeropuerto, estacion de tren, o cualquier lugar preferido en Jaipur. Relajese y reflexione sobre las experiencias del dia mientras regresa.\n\n### Incluye\n\n- Recogida y regreso al hotel, aeropuerto, y estacion de tren\n- Transporte en coche privado con aire acondicionado\n- Guia turistico privado en vivo\n- Entradas a los monumentos (si se elige la opcion)\n- Comidas (si se elige la opcion)\n- Botellas de agua mineral\n- Todos los impuestos, combustible, y aparcamiento\n\n### No incluye\n\n- Bebidas\n- Gratificaciones/propinas (opcional)",
+  "highlights": [
+   "Servicio personalizado con un coche privado con aire acondicionado y un conductor."
+  ],
+  "included": [
+   "Recogida y regreso al hotel, aeropuerto, y estacion de tren\nTransporte en coche privado con aire acondicionado\nGuia turistico privado en vivo\nEntradas a los monumentos (si se elige la opcion)\nComidas (si se elige la opcion)\nBotellas de agua mineral\nTodos los impuestos, combustible, y aparcamiento"
+  ],
+  "notIncluded": [
+   "Bebidas\nGratificaciones/propinas (opcional)"
+  ]
+ },
+ "jaipur-cooking-class-at-the-host-familys-house": {
+  "title": "Jaipur: clase de cocina en casa de la familia anfitriona durante 3 horas",
+  "metaTitle": "Jaipur, clase de cocina, familia anfitriona",
+  "metaDescription": "Descubra las especias y metodos de coccion con una familia anfitriona local en Mansarovar, Jaipur, en una clase de cocina de 3 horas.",
+  "shortDescription": "Los participantes pueden aprender sobre las especias y los metodos de coccion",
+  "fullDescription": "Jaipur: clase de cocina en casa de la familia anfitriona durante 3 horas. Los participantes pueden aprender sobre las especias y los metodos de coccion.\n\n¡Cocina! ¿Que se cocina en India?\nVenga y descubralo con nuestra familia anfitriona local que le ensenara la forma autentica de cocinar la comida tipica india y rajasthani.\nSumergase en la actividad y tome notas mientras participa en vivo.\nLos puntos clave principales de esta actividad son:\nTecnicas de coccion: los participantes pueden aprender sobre las especias, los metodos de coccion, y el arte de equilibrar sabores en la cocina india.\nExploracion de ingredientes: comprender y usar una diversa gama de especias e ingredientes unicos de la cocina india.\nPreparacion de comidas: experiencia practica en la preparacion de platos tradicionales desde cero bajo la guia de cocineros experimentados.\nLa actividad tendra lugar en Mansarovar, Jaipur, en la casa de la familia anfitriona local.\nLa recogida y el regreso no estan disponibles a menos que se solicite (con cargo)\n\n### Incluye\n\n- Clase de cocina en casa de la familia anfitriona\n- Bebidas (sin alcohol)\n- Comida\n- Un regalo especial de la familia anfitriona\n- Impuestos y GST\n\n### No incluye\n\n- Propinas\n- Recogida y regreso al hotel",
+  "highlights": [
+   "Los participantes pueden aprender sobre las especias y los metodos de coccion"
+  ],
+  "included": [
+   "Clase de cocina en casa de la familia anfitriona\nBebidas (sin alcohol)\nComida\nUn regalo especial de la familia anfitriona\nImpuestos y GST"
+  ],
+  "notIncluded": [
+   "Propinas\nRecogida y regreso al hotel"
+  ]
+ },
+ "jaipur-block-carving-block-printing-workshop": {
+  "title": "Jaipur: taller de talla de bloques y estampado a bloque",
+  "metaTitle": "Jaipur, talla de bloques, estampado",
+  "metaDescription": "Descubra los origenes y la evolucion del estampado a bloque, y fabrique su propio bloque de madera en este taller en Jaipur.",
+  "shortDescription": "Descubra los origenes y la evolucion del estampado a bloque",
+  "fullDescription": "Jaipur: taller de talla de bloques y estampado a bloque. Descubra los origenes y la evolucion del estampado a bloque.\n\nComience con una introduccion a los origenes y la evolucion del estampado a bloque. Aprenda sobre herramientas esenciales, como pequenos martillos y cinceles, y como los artesanos tallan patrones intrincados en bloques de madera.\n\nSeleccione un diseno de una plantilla curada. Con orientacion experta, talle su propio bloque de madera para llevar a casa como recuerdo personal. Descubra los tres tipos principales de bloques utilizados en la impresion: Rekh, Datta, y Gudh.\n\nPruebe sus habilidades en tela lisa, experimentando con bloques artesanales, metodos de superposicion, y vibrantes paletas de colores. Cree dos articulos (una bolsa tote y una funda de cojin) utilizando la coleccion de bloques curada de Studio Berõ.\n\nMarchese con su bloque de madera tallado a mano, dos piezas textiles bellamente impresas, y una apreciacion mas profunda de esta atemporal artesania.\n\n### Incluye\n\n- Vision de los origenes y la evolucion del estampado a bloque\n- Aprendizaje de herramientas esenciales para la talla de bloques\n- Orientacion para tallar su propio bloque de madera\n- Comprension de los tres tipos principales de bloques utilizados en la impresion\n- Practica de tecnicas de impresion en tela lisa\n- Creacion de dos articulos estampados (bolsa tote y funda de cojin)",
+  "highlights": [
+   "Descubra los origenes y la evolucion del estampado a bloque"
+  ],
+  "included": [
+   "Vision de los origenes y la evolucion del estampado a bloque\nAprendizaje de herramientas esenciales para la talla de bloques\nOrientacion para tallar su propio bloque de madera\nComprension de los tres tipos principales de bloques utilizados en la impresion\nPractica de tecnicas de impresion en tela lisa\nCreacion de dos articulos estampados (bolsa tote y funda de cojin)"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",

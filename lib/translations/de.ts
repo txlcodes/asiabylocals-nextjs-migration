@@ -37754,6 +37754,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder fuer Fahrer und Guide\nVerpflegungskosten, die nicht vom Paket abgedeckt sind\nGetraenke/Alkohol beim Abendessen\nEintrittsgebuehren an jedem Ort, die nicht im Paket enthalten sind und separat bezahlt werden muessen"
   ]
  },
+ "jaipur-personalized-full-day-city-tour-by-car": {
+  "title": "Jaipur: personalisierte Ganztages-Stadttour im Auto mit Optionen",
+  "metaTitle": "Jaipur, personalisierte Ganztagestour",
+  "metaDescription": "Personalisierter Service mit privatem klimatisiertem Auto und Fahrer: Hawa Mahal, Amber Fort, Jal Mahal, City Palace, und der Affentempel.",
+  "shortDescription": "Personalisierter Service mit einem privaten klimatisierten Auto und Fahrer.",
+  "fullDescription": "Jaipur: personalisierte Ganztages-Stadttour im Auto mit Optionen. Personalisierter Service mit einem privaten klimatisierten Auto und Fahrer.\n\nErleben Sie den majestaetischen Charme Jaipurs, der Rosa Stadt, mit einer privaten Ganztagestour, die Sie zu ihren ikonischsten Sehenswuerdigkeiten fuehrt. Geniessen Sie eine flexible und immersive Reise durch Jaipurs reiche Geschichte und lebendige Kultur mit personalisiertem Service und Komfort.\n\nBeginnen Sie Ihren Tag mit einer bequemen Abholung von Ihrem Hotel, Flughafen, oder jedem bevorzugten Ort in Jaipur. Ihr privates Auto und Fahrer mit sachkundigem Guide sind bereit, um einen reibungslosen Start in Ihr Abenteuer zu gewaehrleisten.\n\nBeginnen Sie mit einem Besuch des atemberaubenden Hawa Mahal (Palast der Winde), bekannt fuer seine kunstvolle Fassade mit 953 kleinen Fenstern. Als Naechstes geht es weiter zum grossartigen Amber Fort, auf einem Huegel mit Blick auf die Stadt gelegen. Erkunden Sie seine grossartigen Hoefe, kunstvolle Spiegelarbeit, und schoenen Gaerten.\n\nWeiter geht es zum Jal Mahal, einem malerischen Palast mitten im Man-Sagar-See, dann geht es zum Panna Meena Ka Kund, einem antiken Stufenbrunnen, bekannt fuer sein geometrisches Design und architektonische Eleganz.\n\nGeniessen Sie ein koestliches Mittagessen (optional) in einem renommierten Restaurant mit verschiedenen Kuechen. Geniessen Sie eine Reihe von Gerichten aus verschiedenen kulinarischen Traditionen, die alle Geschmacksvorlieben bedienen.\n\nNach dem Mittagessen besuchen Sie das Jantar Mantar, ein astronomisches Observatorium, erbaut im XVIII. Jahrhundert. Weiter geht es zum City Palace, einem weitlaeufigen Komplex mit Museen, Hoefen, und der aktuellen koeniglichen Residenz.\n\nErkunden Sie den ruhigen Birla-Tempel, auch bekannt als Lakshmi-Narayan-Tempel, und bewundern Sie seine weisse Marmorstruktur und schoenen Schnitzereien. Als Naechstes besuchen Sie Gaitor Ki Chhatriyan, die koeniglichen Kenotaphe der ehemaligen Maharajas Jaipurs. Die kunstvoll geschnitzten Grabmaeler und die friedliche Umgebung bieten einen Einblick in Jaipurs koenigliche Vergangenheit.\n\nBeenden Sie Ihre Tour mit einem Besuch des Affentempels, auch bekannt als Galta Ji. Diese heilige Staette verfuegt ueber eine Reihe von Tempeln und natuerlichen Quellen, eingebettet in ueppiges Gruen.\n\nIhre Tour endet mit einer Rueckfahrt zu Ihrem Hotel, Flughafen, Bahnhof, oder jedem bevorzugten Ort in Jaipur. Entspannen Sie sich und denken Sie ueber die Erfahrungen des Tages nach, waehrend Sie zurueckkehren.\n\n### Im Preis enthalten\n\n- Abholung und Rueckfahrt zum Hotel, Flughafen, und Bahnhof\n- Transport im privaten klimatisierten Auto\n- Privater Live-Reiseleiter\n- Eintrittskarten fuer Denkmaeler (wenn Option gewaehlt)\n- Mahlzeiten (wenn Option gewaehlt)\n- Mineralwasserflaschen\n- Alle Steuern, Kraftstoff, und Parken\n\n### Nicht enthalten\n\n- Getraenke\n- Gratifikationen/Trinkgelder (optional)",
+  "highlights": [
+   "Personalisierter Service mit einem privaten klimatisierten Auto und Fahrer."
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel, Flughafen, und Bahnhof\nTransport im privaten klimatisierten Auto\nPrivater Live-Reiseleiter\nEintrittskarten fuer Denkmaeler (wenn Option gewaehlt)\nMahlzeiten (wenn Option gewaehlt)\nMineralwasserflaschen\nAlle Steuern, Kraftstoff, und Parken"
+  ],
+  "notIncluded": [
+   "Getraenke\nGratifikationen/Trinkgelder (optional)"
+  ]
+ },
+ "jaipur-cooking-class-at-the-host-familys-house": {
+  "title": "Jaipur: Kochkurs im Haus der Gastgeberfamilie fuer 3 Stunden",
+  "metaTitle": "Jaipur, Kochkurs, Gastgeberfamilie",
+  "metaDescription": "Entdecken Sie Gewuerze und Kochmethoden bei einer lokalen Gastgeberfamilie in Mansarovar, Jaipur, in einem 3-stuendigen Kochkurs.",
+  "shortDescription": "Die Teilnehmer koennen die Gewuerze und Kochmethoden kennenlernen",
+  "fullDescription": "Jaipur: Kochkurs im Haus der Gastgeberfamilie fuer 3 Stunden. Die Teilnehmer koennen die Gewuerze und Kochmethoden kennenlernen.\n\nKochen! Was wird in Indien gekocht?\nKommen Sie und finden Sie es mit unserer lokalen Gastgeberfamilie heraus, die Ihnen die authentische Art des Kochens von typischem indischem und rajasthanischem Essen beibringen wird.\nGeniessen Sie die Aktivitaet und machen Sie sich Notizen, waehrend Sie live mitmachen.\nDie wichtigsten Kernpunkte dieser Aktivitaet sind:\nKochtechniken: Die Teilnehmer koennen die Gewuerze, Kochmethoden, und die Kunst des Ausgleichs von Aromen in der indischen Kueche kennenlernen.\nZutatenerkundung: Verstehen und Verwenden einer vielfaeltigen Palette von Gewuerzen und Zutaten, die fuer die indische Kueche einzigartig sind.\nEssenszubereitung: praktische Erfahrung bei der Zubereitung traditioneller Gerichte von Grund auf unter Anleitung erfahrener Koeche.\nDie Aktivitaet findet in Mansarovar, Jaipur, im Haus der lokalen Gastgeberfamilie statt.\nAbholung und Rueckfahrt sind nicht verfuegbar, ausser auf Anfrage (kostenpflichtig)\n\n### Im Preis enthalten\n\n- Kochkurs bei der Gastgeberfamilie\n- Getraenke (alkoholfrei)\n- Essen\n- Ein besonderes Geschenk von der Gastgeberfamilie\n- Steuern und GST\n\n### Nicht enthalten\n\n- Trinkgelder\n- Abholung und Rueckfahrt zum Hotel",
+  "highlights": [
+   "Die Teilnehmer koennen die Gewuerze und Kochmethoden kennenlernen"
+  ],
+  "included": [
+   "Kochkurs bei der Gastgeberfamilie\nGetraenke (alkoholfrei)\nEssen\nEin besonderes Geschenk von der Gastgeberfamilie\nSteuern und GST"
+  ],
+  "notIncluded": [
+   "Trinkgelder\nAbholung und Rueckfahrt zum Hotel"
+  ]
+ },
+ "jaipur-block-carving-block-printing-workshop": {
+  "title": "Jaipur: Blockschnitzerei und Blockdruck-Werkstatt",
+  "metaTitle": "Jaipur, Blockschnitzerei, Blockdruck",
+  "metaDescription": "Entdecken Sie die Urspruenge und Entwicklung des Blockdrucks, und fertigen Sie Ihren eigenen Holzblock in dieser Werkstatt in Jaipur.",
+  "shortDescription": "Entdecken Sie die Urspruenge und Entwicklung des Blockdrucks",
+  "fullDescription": "Jaipur: Blockschnitzerei und Blockdruck-Werkstatt. Entdecken Sie die Urspruenge und Entwicklung des Blockdrucks.\n\nBeginnen Sie mit einer Einfuehrung in die Urspruenge und Entwicklung des Blockdrucks. Erfahren Sie mehr ueber wesentliche Werkzeuge, wie kleine Haemmer und Meissel, und wie Kunsthandwerker kunstvolle Muster in Holzbloecke schnitzen.\n\nWaehlen Sie ein Design aus einer kuratierten Vorlage. Mit fachkundiger Anleitung schnitzen Sie Ihren eigenen Holzblock, den Sie als persoenliches Andenken mit nach Hause nehmen. Entdecken Sie die drei Haupttypen von Bloecken, die beim Drucken verwendet werden: Rekh, Datta, und Gudh.\n\nTesten Sie Ihre Faehigkeiten auf einfachem Stoff, experimentieren Sie mit handgefertigten Bloecken, Schichtmethoden, und lebendigen Farbpaletten. Erstellen Sie zwei Gegenstaende (eine Stofftasche und einen Kissenbezug) mit der kuratierten Blocksammlung von Studio Berõ.\n\nGehen Sie mit Ihrem handgeschnitzten Holzblock, zwei wunderschoen bedruckten Textilstuecken, und einer tieferen Wertschaetzung fuer dieses zeitlose Handwerk.\n\n### Im Preis enthalten\n\n- Einblick in die Urspruenge und Entwicklung des Blockdrucks\n- Erlernen wesentlicher Werkzeuge fuer die Blockschnitzerei\n- Anleitung zum Schnitzen Ihres eigenen Holzblocks\n- Verstaendnis der drei Haupttypen von im Druck verwendeten Bloecken\n- Uebung von Drucktechniken auf einfachem Stoff\n- Erstellung von zwei bedruckten Gegenstaenden (Stofftasche und Kissenbezug)",
+  "highlights": [
+   "Entdecken Sie die Urspruenge und Entwicklung des Blockdrucks"
+  ],
+  "included": [
+   "Einblick in die Urspruenge und Entwicklung des Blockdrucks\nErlernen wesentlicher Werkzeuge fuer die Blockschnitzerei\nAnleitung zum Schnitzen Ihres eigenen Holzblocks\nVerstaendnis der drei Haupttypen von im Druck verwendeten Bloecken\nUebung von Drucktechniken auf einfachem Stoff\nErstellung von zwei bedruckten Gegenstaenden (Stofftasche und Kissenbezug)"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",

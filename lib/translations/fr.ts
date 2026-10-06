@@ -37754,6 +37754,54 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires pour le chauffeur et le guide\nLes frais de repas, qui ne sont pas couverts par le forfait\nBoissons/alcool au moment du diner\nFrais d'entree a tout endroit, qui ne sont pas inclus dans le forfait et peuvent devoir etre payes separement"
   ]
  },
+ "jaipur-personalized-full-day-city-tour-by-car": {
+  "title": "Jaipur : visite personnalisee de la ville en voiture d'une journee complete avec options",
+  "metaTitle": "Jaipur, visite personnalisee journee complete",
+  "metaDescription": "Service personnalise avec voiture privee climatisee et chauffeur : Hawa Mahal, Fort Amber, Jal Mahal, City Palace, et le Temple des Singes.",
+  "shortDescription": "Service personnalise avec une voiture privee climatisee et un chauffeur.",
+  "fullDescription": "Jaipur : visite personnalisee de la ville en voiture d'une journee complete avec options. Service personnalise avec une voiture privee climatisee et un chauffeur.\n\nDecouvrez le charme majestueux de Jaipur, la Ville Rose, lors d'une visite privee d'une journee complete qui vous emmene vers ses monuments les plus emblematiques. Profitez d'un voyage flexible et immersif a travers la riche histoire et la culture vibrante de Jaipur avec un service personnalise et confortable.\n\nCommencez votre journee avec une prise en charge pratique a votre hotel, aeroport, ou tout endroit prefere a Jaipur. Votre voiture privee et chauffeur avec guide averti seront prets pour assurer un debut fluide a votre aventure.\n\nCommencez par une visite du saisissant Hawa Mahal (Palais des Vents), renomme pour sa facade complexe avec 953 petites fenetres. Ensuite, rendez-vous au grandiose Fort Amber, situe sur une colline surplombant la ville. Explorez ses magnifiques cours, son travail de miroirs complexe, et ses beaux jardins.\n\nContinuez vers le Jal Mahal, un palais pittoresque situe au milieu du lac Man Sagar, puis rendez-vous au Panna Meena Ka Kund, un ancien puits a degres connu pour son design geometrique et son elegance architecturale.\n\nProfitez d'un delicieux dejeuner (optionnel) dans un restaurant multi-cuisines bien reputee. Savourez une gamme de plats de differentes traditions culinaires, adaptes a toutes les preferences gustatives.\n\nApres le dejeuner, visitez le Jantar Mantar, un observatoire astronomique construit au XVIIIe siecle. Continuez vers le City Palace, un complexe etendu abritant des musees, des cours, et la residence royale actuelle.\n\nExplorez le paisible Temple Birla, egalement connu comme le Temple Lakshmi Narayan, et admirez sa structure en marbre blanc et ses belles sculptures. Ensuite, visitez Gaitor Ki Chhatriyan, les cenotaphes royaux des anciens Maharajas de Jaipur. Les tombeaux finement sculptes et l'environnement paisible offrent un apercu du passe royal de Jaipur.\n\nTerminez votre visite par une visite du Temple des Singes, egalement connu comme Galta Ji. Ce site sacre presente une serie de temples et de sources naturelles, niches dans une verdure luxuriante.\n\nVotre visite se termine avec un retour a votre hotel, aeroport, gare ferroviaire, ou tout endroit prefere a Jaipur. Detendez-vous et reflechissez sur les experiences de la journee en retournant.\n\n### Inclus\n\n- Prise en charge et depose a l'hotel, l'aeroport, et la gare ferroviaire\n- Transport en voiture privee climatisee\n- Guide touristique prive en direct\n- Billets d'entree aux monuments (si l'option est selectionnee)\n- Repas (si l'option est selectionnee)\n- Bouteilles d'eau minerale\n- Toutes taxes, carburant, et stationnement\n\n### Non inclus\n\n- Boissons\n- Gratifications/pourboires (optionnel)",
+  "highlights": [
+   "Service personnalise avec une voiture privee climatisee et un chauffeur."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel, l'aeroport, et la gare ferroviaire\nTransport en voiture privee climatisee\nGuide touristique prive en direct\nBillets d'entree aux monuments (si l'option est selectionnee)\nRepas (si l'option est selectionnee)\nBouteilles d'eau minerale\nToutes taxes, carburant, et stationnement"
+  ],
+  "notIncluded": [
+   "Boissons\nGratifications/pourboires (optionnel)"
+  ]
+ },
+ "jaipur-cooking-class-at-the-host-familys-house": {
+  "title": "Jaipur : cours de cuisine chez la famille hote pendant 3 heures",
+  "metaTitle": "Jaipur, cours de cuisine, famille hote",
+  "metaDescription": "Decouvrez les epices et methodes de cuisson avec une famille hote locale a Mansarovar, Jaipur, lors d'un cours de cuisine de 3 heures.",
+  "shortDescription": "Les participants peuvent apprendre les epices et les methodes de cuisson",
+  "fullDescription": "Jaipur : cours de cuisine chez la famille hote pendant 3 heures. Les participants peuvent apprendre les epices et les methodes de cuisson.\n\nCuisine ! Qu'est-ce qui mijote en Inde ?\nVenez decouvrir avec notre famille hote locale qui vous enseignera la maniere authentique de cuisiner la nourriture indienne et rajasthanie typique.\nPlongez dans l'activite et prenez des notes en participant en direct.\nLes principaux points cles de cette activite sont :\nTechniques de cuisson : les participants peuvent apprendre les epices, les methodes de cuisson, et l'art d'equilibrer les saveurs dans la cuisine indienne.\nExploration des ingredients : comprendre et utiliser une gamme diverse d'epices et d'ingredients uniques a la cuisine indienne.\nPreparation des repas : experience pratique dans la preparation de plats traditionnels a partir de zero sous la direction de cuisiniers ou chefs experimentes.\nL'activite se deroulera a Mansarovar, Jaipur, chez la famille hote locale.\nLa prise en charge et le depose ne sont pas disponibles sauf demande (payant)\n\n### Inclus\n\n- Cours de cuisine chez la famille hote\n- Boissons (sans alcool)\n- Nourriture\n- Un cadeau special de la famille hote\n- Taxes et GST\n\n### Non inclus\n\n- Pourboires\n- Prise en charge et depose a l'hotel",
+  "highlights": [
+   "Les participants peuvent apprendre les epices et les methodes de cuisson"
+  ],
+  "included": [
+   "Cours de cuisine chez la famille hote\nBoissons (sans alcool)\nNourriture\nUn cadeau special de la famille hote\nTaxes et GST"
+  ],
+  "notIncluded": [
+   "Pourboires\nPrise en charge et depose a l'hotel"
+  ]
+ },
+ "jaipur-block-carving-block-printing-workshop": {
+  "title": "Jaipur : atelier de sculpture de blocs et d'impression au bloc",
+  "metaTitle": "Jaipur, sculpture de blocs, impression",
+  "metaDescription": "Decouvrez les origines et l'evolution de l'impression au bloc, et fabriquez votre propre bloc en bois lors de cet atelier a Jaipur.",
+  "shortDescription": "Decouvrez les origines et l'evolution de l'impression au bloc",
+  "fullDescription": "Jaipur : atelier de sculpture de blocs et d'impression au bloc. Decouvrez les origines et l'evolution de l'impression au bloc.\n\nCommencez par une introduction aux origines et a l'evolution de l'impression au bloc. Apprenez-en davantage sur les outils essentiels, comme les petits marteaux et ciseaux, et comment les artisans sculptent des motifs complexes dans des blocs de bois.\n\nChoisissez un design parmi un modele soigneusement selectionne. Avec des conseils d'experts, sculptez votre propre bloc en bois a emporter comme souvenir personnel. Decouvrez les trois principaux types de blocs utilises dans l'impression : Rekh, Datta, et Gudh.\n\nTestez vos competences sur du tissu uni, en experimentant avec des blocs artisanaux, des methodes de superposition, et des palettes de couleurs vibrantes. Creez deux objets (un sac fourre-tout et une housse de coussin) en utilisant la collection de blocs selectionnee de Studio Berõ.\n\nPartez avec votre bloc en bois sculpte a la main, deux pieces textiles magnifiquement imprimees, et une appreciation plus profonde de cet artisanat intemporel.\n\n### Inclus\n\n- Apercu des origines et de l'evolution de l'impression au bloc\n- Apprentissage des outils essentiels pour la sculpture de blocs\n- Conseils pour sculpter votre propre bloc en bois\n- Comprehension des trois principaux types de blocs utilises dans l'impression\n- Pratique des techniques d'impression sur tissu uni\n- Creation de deux objets imprimes (sac fourre-tout et housse de coussin)",
+  "highlights": [
+   "Decouvrez les origines et l'evolution de l'impression au bloc"
+  ],
+  "included": [
+   "Apercu des origines et de l'evolution de l'impression au bloc\nApprentissage des outils essentiels pour la sculpture de blocs\nConseils pour sculpter votre propre bloc en bois\nComprehension des trois principaux types de blocs utilises dans l'impression\nPratique des techniques d'impression sur tissu uni\nCreation de deux objets imprimes (sac fourre-tout et housse de coussin)"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer : balade patrimoniale avec guide professionnel",
   "metaTitle": "Jaisalmer à pied : fort doré, havelis et lac Gadisar",
