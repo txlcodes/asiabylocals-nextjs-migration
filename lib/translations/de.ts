@@ -36890,6 +36890,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Trinkgelder fuer Guide und Fahrer\nPersoenliche Ausgaben\nEintrittsgebuehren fuer alle Staetten\nMittagessen in einem lokalen Restaurant\nAbendessen\nUnterkunft des Kunden"
   ]
  },
+ "jaipur-elephant-village-sanctuary-attraction": {
+  "title": "Jaipur: Elefantendorf (Schutzgebiet) Attraktion",
+  "metaTitle": "Elefantendorf, Schutzgebiet",
+  "metaDescription": "Beobachten Sie majestaetische Riesen in ihrem natuerlichen, ueppigen Habitat im Elefantendorf von Jaipur.",
+  "shortDescription": "Beobachten Sie majestaetische Riesen in ihrem natuerlichen, ueppigen Habitat",
+  "fullDescription": "Jaipur: Elefantendorf (Schutzgebiet) Attraktion. Beobachten Sie majestaetische Riesen in ihrem natuerlichen, ueppigen Habitat.\n\nTreten Sie ein in eine Welt, in der Mitgefuehl auf Naturschutz trifft. Unser Schutzgebiet bietet einen seltenen, intimen Einblick in das Leben asiatischer Elefanten, die in einer ueppigen, umweltfreundlichen Umgebung gedeihen. Hier ist das Wohlergehen unserer Bewohner unser hoechstes Anliegen, betreut von einem engagierten Expertenteam, das emotionale Gesundheit und physische Vitalitaet an oberste Stelle setzt.\n\nWas Sie erwartet:\nNatuerliche Beobachtungen: Beobachten Sie, wie diese majestaetischen Kreaturen ihr natuerliches Verhalten in einem ruhigen, geschuetzten Habitat zeigen.\n\nHerzliche Fuersorge: Erfahren Sie mehr ueber unsere spezialisierten \"Verwoehn\"-Routinen und die tiefe Vertrauensbindung zwischen unseren Pflegern und den Elefanten.\n\nBildungseffekt: Vertiefen Sie Ihr Verstaendnis der Elefantenbiologie und der dringenden Notwendigkeit globaler Naturschutzbemuehungen.\n\nPraktischer Einblick: Nehmen Sie an Programmen teil, die Besucher zu lebenslangen Fuersprechern fuer Tierwohl machen sollen.\n\nWir laden Sie ein, sich unserer Reise des achtsamen Tourismus anzuschliessen. Mit dieser Erfahrung sind Sie nicht nur Besucher, sondern Partner fuer eine hellere, sicherere Zukunft dieser unglaublichen Tiere. Erleben Sie die Magie der Mensch-Tier-Bindung und gehen Sie inspiriert, etwas zu bewirken.\n\n### Im Preis enthalten\n\n- Privates klimatisiertes Fahrzeug mit professionellem Fahrer\n- Englischsprachiges Personal\n- Abholung und Rueckfahrt von Ihrem Hotel/Flughafen in Jaipur\n- Besuch des Elefantendorfs (Hathi Gaon)\n- Alle Parkgebuehren, Maut und Kraftstoffkosten\n- Wasser in Flaschen\n\n### Nicht enthalten\n\n- Mittagessen und persoenliche Ausgaben\n- Trinkgelder fuer Personal und Fahrer (optional)",
+  "highlights": [
+   "Beobachten Sie majestaetische Riesen in ihrem natuerlichen, ueppigen Habitat"
+  ],
+  "included": [
+   "Privates klimatisiertes Fahrzeug mit professionellem Fahrer\nEnglischsprachiges Personal\nAbholung und Rueckfahrt von Ihrem Hotel/Flughafen in Jaipur\nBesuch des Elefantendorfs (Hathi Gaon)\nAlle Parkgebuehren, Maut und Kraftstoffkosten\nWasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Mittagessen und persoenliche Ausgaben\nTrinkgelder fuer Personal und Fahrer (optional)"
+  ]
+ },
+ "temples-of-jaipur-private-half-day-tour": {
+  "title": "Tempel von Jaipur: private Halbtagestour",
+  "metaTitle": "Tempel von Jaipur, Halbtagestour",
+  "metaDescription": "Bestaunen Sie die kunstvollen Schnitzereien des hinduistischen Jahat-Shiromani-Tempels, und besuchen Sie Galtaji, Birla Mandir, Akshardham und Lakshminarayan.",
+  "shortDescription": "Bestaunen Sie die kunstvollen Schnitzereien des hinduistischen Jahat-Shiromani-Tempels",
+  "fullDescription": "Tempel von Jaipur: private Halbtagestour. Bestaunen Sie die kunstvollen Schnitzereien des hinduistischen Jahat-Shiromani-Tempels.\n\nErkunden Sie die wichtigsten Tempel Jaipurs auf einer gefuehrten Tour. Besuchen Sie den Affentempel Galtaji, den Jahat-Shiromani-Tempel, den Birla Mandir, und die Akshardham- und Lakshminarayan-Tempel.\n\nBeginnen Sie Ihren Tag mit einer Abholung von Ihrem Hotel in Jaipur. Ihr erster Stopp ist Galtaji, eine alte hinduistische Pilgerstaette, die in die Aravalli-Huegel gebaut wurde, etwas mehr als 6 Meilen vom Stadtzentrum Jaipurs entfernt. Der Komplex umfasst mehrere Tempel und Wasserbecken, gespeist von heiligen Quellen aus den Bergen, in denen Pilger baden und Reinigungsrituale durchfuehren. Der Hanuman-Tempel ist besonders besonders: Er wird auch Affentempel genannt, da diese freundlichen Primaten ihn zu ihrem Zuhause gemacht haben.\n\nSteigen Sie zu den Schreinen auf dem Huegelgipfel hinauf, um die spektakulaersten Ausblicke auf Jaipur zu geniessen. Nach der Erkundung von Galtaji geht es weiter zu Ihrem naechsten Stopp: Jahat Shiromani. Nicht weit vom beruehmten Amber Fort entfernt, wurde der Bau dieses hinduistischen Tempels von Koenigin Kanakwati Ende des sechzehnten Jahrhunderts im Gedenken an ihren Sohn Jagat Singh angeordnet.\n\nVon diesem kunstvoll geschnitzten Schrein aus geht es weiter zu Kale Hanuman Ji und Govind Dev Ji. Auf Ihrer weiteren Route um die Tempel der rajasthanischen Hauptstadt besuchen Sie den Birla Mandir. Auf erhoehtem Gelaende am Moti-Dungari-Huegel gelegen, ist dieses wunderschoene hinduistische Heiligtum von ueppigen Gaerten umgeben.\n\nWaehrend Sie die glaenzende weisse Marmorarchitektur fasziniert, erfahren Sie alles ueber die Symbolik der drei Kuppeln des Tempels, die die drei Wege der religioesen Annaeherung darstellen. Beenden Sie Ihre Tour mit einem Besuch der Akshardham- und Lakshminarayan-Tempel, und als abschliessenden Hoehepunkt dieser faszinierenden Route besuchen Sie den Hawa Mahal, das herrlich kunstvolle Gebaeude aus rosa Sandstein, auch bekannt als Jaipurs Palast der Winde.\n\n### Im Preis enthalten\n\n- Abholung und Rueckfahrt zum Hotel\n- Transport im klimatisierten Reisebus\n- Live-Reiseleiter\n- Wasser in Flaschen\n\n### Nicht enthalten\n\n- Mahlzeiten\n- Persoenliche Ausgaben\n- Trinkgelder\n- Eintrittsgebuehren fuer alle Tempel",
+  "highlights": [
+   "Bestaunen Sie die kunstvollen Schnitzereien des hinduistischen Jahat-Shiromani-Tempels"
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel\nTransport im klimatisierten Reisebus\nLive-Reiseleiter\nWasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Mahlzeiten\nPersoenliche Ausgaben\nTrinkgelder\nEintrittsgebuehren fuer alle Tempel"
+  ]
+ },
+ "jaipur-city-palace-museum-direct-official-ticket": {
+  "title": "Jaipur: City-Palace-Museum - direktes offizielles Ticket",
+  "metaTitle": "City Palace Jaipur, direktes offizielles Ticket",
+  "metaDescription": "Ticket direkt vom City Palace Jaipur ausgestellt, um die sieben miteinander verbundenen Hoefe und das MSMS II Museum zu erkunden.",
+  "shortDescription": "Ticket direkt vom City Palace ausgestellt",
+  "fullDescription": "Jaipur: City-Palace-Museum - direktes offizielles Ticket. Ticket direkt vom City Palace ausgestellt.\n\nErkunden Sie den City Palace von Jaipur, einst Verwaltungssitz der Herrscher des ehemaligen Staates Jaipur. Bewundern Sie die sieben miteinander verbundenen Hoefe, und besuchen Sie das MSMS II Museum, das 4 dieser Hoefe einnimmt.\n\nAls eines der fuehrenden Palastmuseen Indiens beherbergt der City Palace von Jaipur historische Gebaeude und Artefakte von nationaler Bedeutung, die ueber Jahrhunderte von den Kachwaha-Herrschern von Amber und Jaipur gesammelt und beauftragt wurden.\n\nBeginnen Sie Ihre Tour am Pritam Niwas Chowk, der aus vier prachtvoll verzierten Toren oder Deories besteht, die 4 Gottheiten darstellen. Weiter geht es zu Sarvato Bhadra oder Diwan-e-Khas, wo zahlreiche religioese und kulturelle Feierlichkeiten stattfanden.\n\nVerpassen Sie nicht die Gangajalis, zwei gigantische Silberurnen, beim Betreten dieses Hofes. Als naechstes besuchen Sie Sabha Niwas oder Diwan-e-Aam, einen Saal, in dem der Maharaja seine Untertanen anhoerte und auslaendische Wuerdentraeger empfing.\n\nBegeben Sie sich zum Mubarak Mahal, 1902 als Gaestehaus fuer auslaendische Wuerdentraeger erbaut. Heute beherbergt er die Textilsammlung. Weiter geht es zu Sileh-Khana, einer Galerie, die eine umfassende und beispiellose Sammlung von Waffen und Ruestungen beherbergt.\n\nBesuchen Sie die Gemaelde- und Fotografie-Galerie, eine Galerie fuer Gemaelde, Karten und historische Fotografien. Schliesslich sehen Sie den Rath-Khana, eine besondere Ausstellung einiger der wichtigsten koeniglichen Transportmittel ueber drei Jahrhunderte.\n\nFuer Zeremonien bestimmt, sind einige der Objekte in dieser Galerie noch immer Teil der jaehrlichen Festlichkeiten der Stadt.\n\n### Im Preis enthalten\n\n- Zugang zu den Hoefen und Galerien des City Palace\n- Plattform-Buchungsgebuehren",
+  "highlights": [
+   "Ticket direkt vom City Palace ausgestellt"
+  ],
+  "included": [
+   "Zugang zu den Hoefen und Galerien des City Palace\nPlattform-Buchungsgebuehren"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
