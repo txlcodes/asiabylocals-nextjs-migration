@@ -74078,13 +74078,13 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Abu Dhabi : billet d'entree pour Yas Waterworld",
   "metaDescription": "Experience d'une journee complete a Abu Dhabi. Profitez et Plus de 45 manieges, toboggans, et attractions parmi lesquels choisir. Propose par MIRAL EXPERIENCES L....",
   "shortDescription": "Experience d'une journee complete a Abu Dhabi. Profitez et Plus de 45 manieges, toboggans, et attractions parmi lesquels choisir. Propose par MIRAL EXPERIENCES L.L.C.",
-  "fullDescription": "Une experience d'une journee complete a Abu Dhabi. Profitez et Plus de 45 manieges, toboggans, et attractions parmi lesquels choisir.\n\nMIRAL EXPERIENCES L.L.C s'en charge, et 3 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend billet d'entree generale (si l'option est selectionnee), acces a tous les manieges et attractions et service de navette au sein de Yas Island. Il ne comprend pas quick pass (si l'option est selectionnee), nourriture et boissons et transport aller-retour vers le parc aquatique, prevoyez donc un budget separe.",
+  "fullDescription": "Une experience d'une journee complete a Abu Dhabi. Profitez et Plus de 45 manieges, toboggans, et attractions parmi lesquels choisir.\n\nMIRAL EXPERIENCES L.L.C s'en charge, et 3 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend billet d'entree generale (si l'option est selectionnee), acces a tous les manèges et attractions et service de navette au sein de Yas Island. Il ne comprend pas quick pass (si l'option est selectionnee), nourriture et boissons et transport aller-retour vers le parc aquatique, prevoyez donc un budget separe.",
   "highlights": [
    "Profitez et Plus de 45 manieges, toboggans, et attractions parmi lesquels choisir"
   ],
   "included": [
    "Billet d'entree generale (si l'option est selectionnee)",
-   "Acces a tous les manieges et attractions",
+   "Acces a tous les manèges et attractions",
    "Service de navette au sein de Yas Island"
   ],
   "notIncluded": [
@@ -76249,7 +76249,7 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Depuis Dubai : visite guidee touristique d'Abu Dhabi d'une jou...",
   "metaDescription": "Une excursion d'une journee complete au depart de Abu Dhabi passant par Sheikh Zayed Mosque, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi et Emirates Palac...",
   "shortDescription": "Une excursion d'une journee complete au depart de Abu Dhabi passant par Sheikh Zayed Mosque, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi et Emirates Palace. Propose par Pacific Adventures L.L.C.",
-  "fullDescription": "Une excursion d'une journee complete au depart de Abu Dhabi, passant par Sheikh Zayed Mosque, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi et Emirates Palace. Il y a 7 arrets au total.\n\nL'ordre de visite est Sheikh Zayed Mosque, puis Abu Dhabi Heritage Village, puis The Corniche, Abu Dhabi, puis Emirates Palace, puis Qasr Al Watan.\n\nLe prix comprend prise en charge et depose a l'hotel depuis Dubai, transport en vehicule climatise, guide touristique professionnel en direct et billet d'entree pour la Grande Mosquee Sheikh Zayed. Il ne comprend pas depenses personnelles, dejeuner et boissons et visite guidee a l'interieur du Qasr Al Watan, prevoyez donc un budget separe.",
+  "fullDescription": "Une excursion d'une journee complete au depart de Abu Dhabi, passant par Sheikh Zayed Mosque, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi et Emirates Palace. Il y a 7 arrets au total.\n\nL'ordre de visite est Sheikh Zayed Mosque, puis Abu Dhabi Heritage Village, puis The Corniche, Abu Dhabi, puis Emirates Palace, puis Qasr Al Watan.\n\nLe prix comprend prise en charge et depose a l'hotel depuis Dubai, transport en vehicule climatise, guide touristique professionnel en direct et billet d'entree pour la Grande Mosquee Sheikh Zayed. Il ne comprend pas depenses personnelles, dejeuner et boissons et visite guidee a l'interieur de Qasr Al Watan, prevoyez donc un budget separe.",
   "highlights": [
    "Une excursion d'une journee complete au depart de Abu Dhabi passant par Sheikh Zayed Mosque, Abu Dhabi Heritage Village, The Corniche, Abu Dhabi et Emirates Palace. Propose par Pacific Adventures L.L.C."
   ],
@@ -76262,7 +76262,7 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Depenses personnelles",
    "Dejeuner et boissons",
-   "Visite guidee a l'interieur du Qasr Al Watan"
+   "Visite guidee a l'interieur de Qasr Al Watan"
   ]
  },
  "dubai-45-minute-jet-ski-ride": {
@@ -77175,6 +77175,368 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Boissons alcoolisees"
+  ]
+ },
+ "dubai-private-full-day-city-tour-with-guide-driver": {
+  "title": "Dubai : visite privee de la ville d'une journee complete avec guide et chauffeur",
+  "metaTitle": "Dubai : visite privee de la ville d'une journee complete avec ...",
+  "metaDescription": "Experience d'une journee complete a Dubai. Decouvrez le Dubai ancien et moderne lors d'une visite privee d'une journee complete. Propose par Yalla Walk tourism.",
+  "shortDescription": "Experience d'une journee complete a Dubai. Decouvrez le Dubai ancien et moderne lors d'une visite privee d'une journee complete. Propose par Yalla Walk tourism.",
+  "fullDescription": "Une experience d'une journee complete a Dubai. Decouvrez le Dubai ancien et moderne lors d'une visite privee d'une journee complete.\n\nYalla Walk tourism s'en charge, et 12 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend visite privee d'une journee complete pour jusqu'a 6 personnes, vehicule prive climatise, chauffeur prive et guide touristique professionnel. Il ne comprend pas billets d'entree aux attractions, entree au Dubai Frame et entree au Burj Khalifa, prevoyez donc un budget separe. Deux voyageurs paient 683 $ ensemble plutot que 683 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Decouvrez le Dubai ancien et moderne lors d'une visite privee d'une journee complete"
+  ],
+  "included": [
+   "Visite privee d'une journee complete pour jusqu'a 6 personnes",
+   "Vehicule prive climatise",
+   "Chauffeur prive",
+   "Guide touristique professionnel"
+  ],
+  "notIncluded": [
+   "Billets d'entree aux attractions",
+   "Entree au Dubai Frame",
+   "Entree au Burj Khalifa"
+  ]
+ },
+ "from-dubai-al-ain-private-guided-tour": {
+  "title": "Depuis Dubai : visite privee guidee d'Al Ain",
+  "metaTitle": "Depuis Dubai : visite privee guidee d'Al Ain",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Abu Dhabi passant par Jebel Hafeet Mountain, Green Mubazzarah, Al Ain National Museum et Al Ain Camel Market. Propos...",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Abu Dhabi passant par Jebel Hafeet Mountain, Green Mubazzarah, Al Ain National Museum et Al Ain Camel Market. Propose par TravelExpert.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Abu Dhabi, passant par Jebel Hafeet Mountain, Green Mubazzarah, Al Ain National Museum et Al Ain Camel Market. Le plus long arret est Jebel Hafeet Mountain, d'environ 1 heure. Il y a 4 arrets au total.\n\nL'ordre de visite est Jebel Hafeet Mountain (1h), puis Green Mubazzarah (1h), puis Al Ain National Museum (1h), puis Al Ain Camel Market (1h).\n\nLe prix comprend visite touristique privee d'Al Ain, guide professionnel anglophone, transport prive confortable et itineraire flexible selon vos interets. Il ne comprend pas repas, frais d'entree aux attractions et non inclus*, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Abu Dhabi passant par Jebel Hafeet Mountain, Green Mubazzarah, Al Ain National Museum et Al Ain Camel Market. Propose par TravelExpert."
+  ],
+  "included": [
+   "Visite touristique privee d'Al Ain",
+   "Guide professionnel anglophone",
+   "Transport prive confortable",
+   "Itineraire flexible selon vos interets"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Frais d'entree aux attractions",
+   "Non inclus*"
+  ]
+ },
+ "dubai-the-view-at-palm-tickets-with-gmc-yukon": {
+  "title": "Dubai : billets pour The View at Palm avec transfert GMC Yukon",
+  "metaTitle": "Dubai : billets pour The View at Palm avec transfert GMC Yukon",
+  "metaDescription": "Experience de 3 heure(s) a Dubai. Profitez d'un transfert prive pratique vers le The View at The Palm a Dubai. Propose par HARBOR TOURISM LLC.",
+  "shortDescription": "Experience de 3 heure(s) a Dubai. Profitez d'un transfert prive pratique vers le The View at The Palm a Dubai. Propose par HARBOR TOURISM LLC.",
+  "fullDescription": "Une experience de 3 heure(s) a Dubai. Profitez d'un transfert prive pratique vers le The View at The Palm a Dubai.\n\nHARBOR TOURISM LLC s'en charge, et 7 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend admission au The View at The Palm, prise en charge et retour prives a l'hotel ou a la residence a Dubai, transport prive en GMC YUKON XL et chauffeur professionnel en uniforme. Il ne comprend pas nourriture et boissons, prevoyez donc un budget separe. Deux voyageurs paient 446 $ ensemble plutot que 420 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Profitez d'un transfert prive pratique vers le The View at The Palm a Dubai"
+  ],
+  "included": [
+   "Admission au The View at The Palm",
+   "Prise en charge et retour prives a l'hotel ou a la residence a Dubai",
+   "Transport prive en GMC YUKON XL",
+   "Chauffeur professionnel en uniforme"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons"
+  ]
+ },
+ "dubai-vip-desert-safari-quadbiking-camel-ride-bbq-": {
+  "title": "Dubai : safari desertique VIP, quad, balade a dos de chameau, BBQ et spectacles",
+  "metaTitle": "Dubai : safari desertique VIP, quad, balade a dos de chameau, ...",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Lahbab Desert, Lahbab Desert et Al Aweer. Propose par Ramada Group Line.",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Lahbab Desert, Lahbab Desert et Al Aweer. Propose par Ramada Group Line.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Lahbab Desert, Lahbab Desert et Al Aweer. Le plus long arret est Al Aweer, d'environ 3 heures. Il y a 3 arrets au total.\n\nL'ordre de visite est Lahbab Desert (1h), puis Lahbab Desert (30 min), puis Al Aweer (3h).\n\nLe prix comprend quad dans le desert de Lehbab (30 min), guide en personne, sandboard et courte balade a dos de chameau pour photos et videos. Il ne comprend pas depenses personnelles, boissons alcoolisees et choix de saveur de chicha ou service a table, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Dubai passant par Lahbab Desert, Lahbab Desert et Al Aweer. Propose par Ramada Group Line."
+  ],
+  "included": [
+   "Quad dans le desert de Lehbab (30 min)",
+   "Guide en personne",
+   "Sandboard",
+   "Courte balade a dos de chameau pour photos et videos"
+  ],
+  "notIncluded": [
+   "Depenses personnelles",
+   "Boissons alcoolisees",
+   "Choix de saveur de chicha ou service a table"
+  ]
+ },
+ "dubai-img-worlds-adventure-tickets-with-gmc-yukon-": {
+  "title": "Dubai : billets pour IMG Worlds of Adventure avec transfert GMC Yukon",
+  "metaTitle": "Dubai : billets pour IMG Worlds of Adventure avec transfert GM...",
+  "metaDescription": "Experience d'une demi-journee a Dubai. Profitez d'une journee a IMG Worlds of Adventure avec un billet et un transfert prive. Propose par HARBOR TOURISM LLC.",
+  "shortDescription": "Experience d'une demi-journee a Dubai. Profitez d'une journee a IMG Worlds of Adventure avec un billet et un transfert prive. Propose par HARBOR TOURISM LLC.",
+  "fullDescription": "Une experience d'une demi-journee a Dubai. Profitez d'une journee a IMG Worlds of Adventure avec un billet et un transfert prive.\n\nHARBOR TOURISM LLC s'en charge, et 8 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend billets d'entree pour IMG Worlds of Adventure, acces a tous les manèges et attractions, prise en charge et retour prives a l'hotel ou a la residence a Dubai et transport prive en GMC YUKON XL. Il ne comprend pas nourriture et boissons, prevoyez donc un budget separe. Deux voyageurs paient 527 $ ensemble plutot que 527 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Profitez d'une journee a IMG Worlds of Adventure avec un billet et un transfert prive"
+  ],
+  "included": [
+   "Billets d'entree pour IMG Worlds of Adventure",
+   "Acces a tous les manèges et attractions",
+   "Prise en charge et retour prives a l'hotel ou a la residence a Dubai",
+   "Transport prive en GMC YUKON XL"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons"
+  ]
+ },
+ "abu-dhabi-qasr-al-watan-entry-ticket-private-suv": {
+  "title": "Abu Dhabi : billet d'entree pour Qasr Al Watan et transfert prive en SUV",
+  "metaTitle": "Abu Dhabi : billet d'entree pour Qasr Al Watan et transfert pr...",
+  "metaDescription": "Experience d'une journee complete a Abu Dhabi. Decouvrez la grandeur et le patrimoine culturel d'Abu Dhabi a Qasr Al Watan. Propose par HARBOR TOURISM LLC.",
+  "shortDescription": "Experience d'une journee complete a Abu Dhabi. Decouvrez la grandeur et le patrimoine culturel d'Abu Dhabi a Qasr Al Watan. Propose par HARBOR TOURISM LLC.",
+  "fullDescription": "Une experience d'une journee complete a Abu Dhabi. Decouvrez la grandeur et le patrimoine culturel d'Abu Dhabi a Qasr Al Watan.\n\nHARBOR TOURISM LLC s'en charge, et 3 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend transport prive dans un GMC premium, billet d'entree pour Qasr Al Watan et chauffeur professionnel. Il ne comprend pas repas, prevoyez donc un budget separe. Deux voyageurs paient 990 $ ensemble plutot que 938 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Decouvrez la grandeur et le patrimoine culturel d'Abu Dhabi a Qasr Al Watan"
+  ],
+  "included": [
+   "Transport prive dans un GMC premium",
+   "Billet d'entree pour Qasr Al Watan",
+   "Chauffeur professionnel"
+  ],
+  "notIncluded": [
+   "Repas"
+  ]
+ },
+ "the-epic-day-tour-for-2-emirates-dubai-abu": {
+  "title": "La visite epique de 2 emirats (Dubai et Abu Dhabi)",
+  "metaTitle": "La visite epique de 2 emirats (Dubai et Abu Dhabi)",
+  "metaDescription": "Une excursion d'une journee complete au depart de Abu Dhabi passant par Dubai Gold Souk, Al Seef, Dubai Frame et Museum of the Future. Propose par Desert Rose Tou...",
+  "shortDescription": "Une excursion d'une journee complete au depart de Abu Dhabi passant par Dubai Gold Souk, Al Seef, Dubai Frame et Museum of the Future. Propose par Desert Rose Tourism LLC L.L.C Dubai Branch.",
+  "fullDescription": "Une excursion d'une journee complete au depart de Abu Dhabi, passant par Dubai Gold Souk, Al Seef, Dubai Frame et Museum of the Future. Le plus long arret est BAPS Hindu Mandir Abu Dhabi, d'environ 1 heure. Il y a 15 arrets au total.\n\nL'ordre de visite est Dubai Gold Souk (20 min), puis Al Seef (15 min), puis Dubai Frame (15 min), puis Museum of the Future (15 min), puis Sheikh Zayed Road (10 min).\n\nLe prix comprend prise en charge et depose a l'hotel depuis Dubai et Sharjah par (chauffeur-guide), visite touristique d'une journee complete a Dubai et Abu Dhabi, vehicule confortable et climatise et chauffeur-guide professionnel. Il ne comprend pas repas, billets d'entree aux attractions et depenses personnelles, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une journee complete au depart de Abu Dhabi passant par Dubai Gold Souk, Al Seef, Dubai Frame et Museum of the Future. Propose par Desert Rose Tourism LLC L.L.C Dubai Branch."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel depuis Dubai et Sharjah par (chauffeur-guide)",
+   "Visite touristique d'une journee complete a Dubai et Abu Dhabi",
+   "Vehicule confortable et climatise",
+   "Chauffeur-guide professionnel"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Billets d'entree aux attractions",
+   "Depenses personnelles"
+  ]
+ },
+ "abu-dhabi-warnerbros-world-entry-ticket-private-su": {
+  "title": "Abu Dhabi : billet d'entree pour Warner Bros. World et visite privee en SUV",
+  "metaTitle": "Abu Dhabi : billet d'entree pour Warner Bros. World et visite ...",
+  "metaDescription": "Experience d'une journee complete a Abu Dhabi. Profitez d'un transfert prive vers Warner Bros. World Abu Dhabi en GMC Yukon. Propose par HARBOR TOURISM LLC.",
+  "shortDescription": "Experience d'une journee complete a Abu Dhabi. Profitez d'un transfert prive vers Warner Bros. World Abu Dhabi en GMC Yukon. Propose par HARBOR TOURISM LLC.",
+  "fullDescription": "Une experience d'une journee complete a Abu Dhabi. Profitez d'un transfert prive vers Warner Bros. World Abu Dhabi en GMC Yukon.\n\nHARBOR TOURISM LLC s'en charge, et 9 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend billets d'entree pour Warner Bros. World Abu Dhabi. Il ne comprend pas , prevoyez donc un budget separe. Deux voyageurs paient 1198 $ ensemble plutot que 952 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Profitez d'un transfert prive vers Warner Bros. World Abu Dhabi en GMC Yukon"
+  ],
+  "included": [
+   "Billets d'entree pour Warner Bros. World Abu Dhabi"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-desert-safari-dune-adventure-bbq-dinner-quad": {
+  "title": "Safari desertique a Dubai : aventure dans les dunes, diner barbecue, quad",
+  "metaTitle": "Safari desertique a Dubai : aventure dans les dunes, diner bar...",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Lahbab Desert, Al Aweer et Jeep / SUV. Propose par Funtours Dubai.",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Lahbab Desert, Al Aweer et Jeep / SUV. Propose par Funtours Dubai.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Lahbab Desert, Al Aweer et Jeep / SUV. Le plus long arret est Al Aweer, d'environ 3 heures. Il y a 3 arrets au total.\n\nL'ordre de visite est Lahbab Desert (45 min), puis Al Aweer (3h), puis Jeep / SUV (45 min).\n\nLe prix comprend prise en charge et depose a l'hotel en vehicule 4x4 confortable, transport climatise pendant toute l'experience, guide professionnel de safari desertique et 30 a 45 minutes de dune bashing palpitant. Il ne comprend pas boissons alcoolisees, motifs de henne surdimensionnes ou premium, disponibles avec supplement et chicha privee, disponible en option, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Dubai passant par Lahbab Desert, Al Aweer et Jeep / SUV. Propose par Funtours Dubai."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel en vehicule 4x4 confortable",
+   "Transport climatise pendant toute l'experience",
+   "Guide professionnel de safari desertique",
+   "30 a 45 minutes de dune bashing palpitant"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisees",
+   "Motifs de henne surdimensionnes ou premium, disponibles avec supplement",
+   "Chicha privee, disponible en option"
+  ]
+ },
+ "from-dubai-abu-dhabi-city-tour-with-optional-lunch": {
+  "title": "Depuis Dubai : visite de la ville d'Abu Dhabi avec dejeuner optionnel",
+  "metaTitle": "Depuis Dubai : visite de la ville d'Abu Dhabi avec dejeuner op...",
+  "metaDescription": "Une excursion d'une journee complete au depart de Abu Dhabi passant par Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Abu Dhabi Heritage Village et Emirates Palac...",
+  "shortDescription": "Une excursion d'une journee complete au depart de Abu Dhabi passant par Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Abu Dhabi Heritage Village et Emirates Palace. Propose par ARABIAN EXPLORE TOURS AND TRAVELS LLC.",
+  "fullDescription": "Une excursion d'une journee complete au depart de Abu Dhabi, passant par Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Abu Dhabi Heritage Village et Emirates Palace. Le plus long arret est Sheikh Zayed Mosque, d'environ 2 heures. Il y a 9 arrets au total.\n\nL'ordre de visite est Sheikh Zayed Mosque (2h), puis The Corniche, Abu Dhabi (10 min), puis Abu Dhabi Heritage Village (45 min), puis Emirates Palace (30 min), puis Qasr Al Watan (1h).\n\nLe prix comprend prise en charge et depose a votre emplacement a Dubai, guide professionnel licencie, vehicule climatise et visite de la Grande Mosquee Sheikh Zayed. Il ne comprend pas visite guidee a l'interieur de Qasr Al Watan, repas et boissons sauf si l'option dejeuner est selectionnee et tenue traditionnelle masculine (disponible sur demande si necessaire), prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une journee complete au depart de Abu Dhabi passant par Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Abu Dhabi Heritage Village et Emirates Palace. Propose par ARABIAN EXPLORE TOURS AND TRAVELS LLC."
+  ],
+  "included": [
+   "Prise en charge et depose a votre emplacement a Dubai",
+   "Guide professionnel licencie",
+   "Vehicule climatise",
+   "Visite de la Grande Mosquee Sheikh Zayed"
+  ],
+  "notIncluded": [
+   "Visite guidee a l'interieur de Qasr Al Watan",
+   "Repas et boissons sauf si l'option dejeuner est selectionnee",
+   "Tenue traditionnelle masculine (disponible sur demande si necessaire)"
+  ]
+ },
+ "from-dubai-lahbab-desert-dinner-combo-tour-with-gu": {
+  "title": "Depuis Dubai : visite combinee diner dans le desert de Lahbab avec guide",
+  "metaTitle": "Depuis Dubai : visite combinee diner dans le desert de Lahbab ...",
+  "metaDescription": "Une excursion de 3 heure(s) au depart de Abu Dhabi passant par Jeep / SUV et Lahbab Desert. Propose par TravelExpert.",
+  "shortDescription": "Une excursion de 3 heure(s) au depart de Abu Dhabi passant par Jeep / SUV et Lahbab Desert. Propose par TravelExpert.",
+  "fullDescription": "Une excursion de 3 heure(s) au depart de Abu Dhabi, passant par Jeep / SUV et Lahbab Desert. Le plus long arret est Lahbab Desert, d'environ 5 heures. Il y a 2 arrets au total.\n\nL'ordre de visite est Jeep / SUV, puis Lahbab Desert (5h).\n\nLe prix comprend prise en charge et depose a l'hotel, transport en vehicule climatise, guide de safari et dune bashing. Il ne comprend pas boissons alcoolisees, motifs de henne plus grands que la moyenne (voir les extras optionnels) et chicha privee (voir les extras optionnels), prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion de 3 heure(s) au depart de Abu Dhabi passant par Jeep / SUV et Lahbab Desert. Propose par TravelExpert."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel",
+   "Transport en vehicule climatise",
+   "Guide de safari",
+   "Dune bashing"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisees",
+   "Motifs de henne plus grands que la moyenne (voir les extras optionnels)",
+   "Chicha privee (voir les extras optionnels)"
+  ]
+ },
+ "dubai-traditional-city-tour-with-burj-khalifa": {
+  "title": "Visite traditionnelle de la ville de Dubai avec le Burj Khalifa",
+  "metaTitle": "Visite traditionnelle de la ville de Dubai avec le Burj Khalifa",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Jumeirah Beach, Jumeirah Mosque, Marjan Islamic Art Gallery- Dubai et Bur Dubai Abra Dock. Propose...",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Jumeirah Beach, Jumeirah Mosque, Marjan Islamic Art Gallery- Dubai et Bur Dubai Abra Dock. Propose par DMC Arabia Tourism LLC.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Jumeirah Beach, Jumeirah Mosque, Marjan Islamic Art Gallery- Dubai et Bur Dubai Abra Dock. Il y a 7 arrets au total.\n\nL'ordre de visite est Jumeirah Beach, puis Jumeirah Mosque, puis Marjan Islamic Art Gallery- Dubai, puis Bur Dubai Abra Dock, puis Dubai Spice Souk.\n\nLe prix comprend billet d'entree pour le Burj Khalifa si l'option est selectionnee, frais pour traverser le Dubai Creek en abra, guide touristique en direct et prise en charge a l'hotel ou a la station de metro. Il ne comprend pas nourriture et boissons, depenses personnelles et la prise en charge et la depose a l'aeroport ne sont pas incluses, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Dubai passant par Jumeirah Beach, Jumeirah Mosque, Marjan Islamic Art Gallery- Dubai et Bur Dubai Abra Dock. Propose par DMC Arabia Tourism LLC."
+  ],
+  "included": [
+   "Billet d'entree pour le Burj Khalifa si l'option est selectionnee",
+   "Frais pour traverser le Dubai Creek en abra",
+   "Guide touristique en direct",
+   "Prise en charge a l'hotel ou a la station de metro"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Depenses personnelles",
+   "La prise en charge et la depose a l'aeroport ne sont pas incluses"
+  ]
+ },
+ "premium-dubai-morning-desert-safari-dune-bashing-c": {
+  "title": "Safari matinal premium a Dubai : dune bashing, balade a dos de chameau",
+  "metaTitle": "Safari matinal premium a Dubai : dune bashing, balade a dos de...",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV, Lahbab, Lahbab et Lahbab. Propose par Vantra Travels.",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV, Lahbab, Lahbab et Lahbab. Propose par Vantra Travels.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Jeep / SUV, Lahbab, Lahbab et Lahbab. Il y a 4 arrets au total.\n\nL'ordre de visite est Jeep / SUV (45 min), puis Lahbab (30 min), puis Lahbab (10 min), puis Lahbab (30 min).\n\nLe prix comprend prise en charge et depose a l'hotel a Dubai et Sharjah, chauffeur 4x4 professionnel pour la session de dune bashing (30 minutes), sandboard sur les dunes rouges et balade a dos de chameau sur le site desertique. Il ne comprend pas visite du camp et activites du camp (non incluses dans cette experience), diner barbecue ou tout repas (activite matinale uniquement) et quad (disponible en supplement payant, a demander lors de la reservation), prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV, Lahbab, Lahbab et Lahbab. Propose par Vantra Travels."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel a Dubai et Sharjah",
+   "Chauffeur 4x4 professionnel pour la session de dune bashing (30 minutes)",
+   "Sandboard sur les dunes rouges",
+   "Balade a dos de chameau sur le site desertique"
+  ],
+  "notIncluded": [
+   "Visite du camp et activites du camp (non incluses dans cette experience)",
+   "Diner barbecue ou tout repas (activite matinale uniquement)",
+   "Quad (disponible en supplement payant, a demander lors de la reservation)"
+  ]
+ },
+ "private-dubai-marina-yacht-tour-with-optional-bbq": {
+  "title": "Visite privee en yacht a Dubai Marina avec BBQ optionnel",
+  "metaTitle": "Visite privee en yacht a Dubai Marina avec BBQ optionnel",
+  "metaDescription": "Une excursion de 1 heure(s) au depart de Dubai passant par Atlantis, Dubai, The World Dubai et Burj Al Arab. Propose par Supernova Yacht.",
+  "shortDescription": "Une excursion de 1 heure(s) au depart de Dubai passant par Atlantis, Dubai, The World Dubai et Burj Al Arab. Propose par Supernova Yacht.",
+  "fullDescription": "Une excursion de 1 heure(s) au depart de Dubai, passant par Atlantis, Dubai, The World Dubai et Burj Al Arab. Il y a 3 arrets au total.\n\nL'ordre de visite est Atlantis, Dubai, puis The World Dubai, puis Burj Al Arab.\n\nLe prix comprend mini yacht entierement equipe, croisiere en yacht de luxe, croisiere privee et detente loin de la ville et capitaine professionnel et equipage experimente. Il ne comprend pas prise en charge et depose a l'hotel, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion de 1 heure(s) au depart de Dubai passant par Atlantis, Dubai, The World Dubai et Burj Al Arab. Propose par Supernova Yacht."
+  ],
+  "included": [
+   "Mini yacht entierement equipe",
+   "Croisiere en yacht de luxe",
+   "Croisiere privee et detente loin de la ville",
+   "Capitaine professionnel et equipage experimente"
+  ],
+  "notIncluded": [
+   "Prise en charge et depose a l'hotel"
+  ]
+ },
+ "dubai-perfume-making-workshop-traditional-souk-tou": {
+  "title": "Atelier de creation de parfum et visite des souks traditionnels a Dubai",
+  "metaTitle": "Atelier de creation de parfum et visite des souks traditionnel...",
+  "metaDescription": "Experience de 2 heure(s) a Dubai. Decouvrez les aromes d'oud, de rose, d'ambre, de musc et de safran dans les souks de Dubai. Propose par Whats Up Trip - F.Z.E.",
+  "shortDescription": "Experience de 2 heure(s) a Dubai. Decouvrez les aromes d'oud, de rose, d'ambre, de musc et de safran dans les souks de Dubai. Propose par Whats Up Trip - F.Z.E.",
+  "fullDescription": "Une experience de 2 heure(s) a Dubai. Decouvrez les aromes d'oud, de rose, d'ambre, de musc et de safran dans les souks de Dubai.\n\nWhats Up Trip - F.Z.E s'en charge, et 5 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend promenade guidee dans les souks historiques de Dubai, atelier interactif dans une boutique de parfum traditionnelle, seance de melange de parfums et flacon souvenir pour votre parfum personnalise. Il ne comprend pas prise en charge ou depose a l'hotel et achat de parfum a vos frais, prevoyez donc un budget separe. Deux voyageurs paient 167 $ ensemble plutot que 138 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Decouvrez les aromes d'oud, de rose, d'ambre, de musc et de safran dans les souks de Dubai"
+  ],
+  "included": [
+   "Promenade guidee dans les souks historiques de Dubai",
+   "Atelier interactif dans une boutique de parfum traditionnelle",
+   "Seance de melange de parfums",
+   "Flacon souvenir pour votre parfum personnalise"
+  ],
+  "notIncluded": [
+   "Prise en charge ou depose a l'hotel",
+   "Achat de parfum a vos frais"
+  ]
+ },
+ "premium-dubai-evening-desert-safari-bbq-dinner-liv": {
+  "title": "Safari desertique premium en soiree a Dubai : diner barbecue et spectacles",
+  "metaTitle": "Safari desertique premium en soiree a Dubai : diner barbecue e...",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV, Lahbab, Lahbab Desert et Al Aweer. Propose par Funtours Dubai.",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV, Lahbab, Lahbab Desert et Al Aweer. Propose par Funtours Dubai.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Dubai, passant par Jeep / SUV, Lahbab, Lahbab Desert et Al Aweer. Il y a 5 arrets au total.\n\nL'ordre de visite est Jeep / SUV (45 min), puis Lahbab (35 min), puis Lahbab Desert (20 min), puis Al Aweer, puis Al Aweer (30 min).\n\nLe prix comprend prise en charge et depose a l'hotel dans toutes les zones de Dubai et Sharjah, chauffeur professionnel hors-piste pour le dune bashing (30 a 40 minutes), dattes de bienvenue traditionnelles arabes, cafe arabe et rafraichissements, balade a dos de chameau au camp desertique et sandboard sur la dune du camp. Il ne comprend pas quad (disponible en supplement payant), buggy des dunes (disponible en supplement payant) et pourboires (optionnel), prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Dubai passant par Jeep / SUV, Lahbab, Lahbab Desert et Al Aweer. Propose par Funtours Dubai."
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel dans toutes les zones de Dubai et Sharjah",
+   "Chauffeur professionnel hors-piste pour le dune bashing (30 a 40 minutes)",
+   "Dattes de bienvenue traditionnelles arabes, cafe arabe et rafraichissements",
+   "Balade a dos de chameau au camp desertique",
+   "Sandboard sur la dune du camp"
+  ],
+  "notIncluded": [
+   "Quad (disponible en supplement payant)",
+   "Buggy des dunes (disponible en supplement payant)",
+   "Pourboires (optionnel)"
+  ]
+ },
+ "dubai-city-tour-with-burj-khalifa-dubai-mall-boat": {
+  "title": "Visite de la ville de Dubai avec Burj Khalifa, Dubai Mall et balade en bateau",
+  "metaTitle": "Visite de la ville de Dubai avec Burj Khalifa, Dubai Mall et b...",
+  "metaDescription": "Experience d'une journee complete a Dubai. Emerveillez-vous devant le Burj Khalifa, la plus haute structure artificielle du monde. Propose par ARABIAN EXPLORE TOU...",
+  "shortDescription": "Experience d'une journee complete a Dubai. Emerveillez-vous devant le Burj Khalifa, la plus haute structure artificielle du monde. Propose par ARABIAN EXPLORE TOURS AND TRAVELS LLC.",
+  "fullDescription": "Une experience d'une journee complete a Dubai. Emerveillez-vous devant le Burj Khalifa, la plus haute structure artificielle du monde.\n\nARABIAN EXPLORE TOURS AND TRAVELS LLC s'en charge, et 12 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend marina Walk, palm Jumeirah (entree), qasr Al Jumeirah (passage en voiture) et burj Al Arab (point photo). Il ne comprend pas billet d'entree pour le Burj Khalifa, prevoyez donc un budget separe.",
+  "highlights": [
+   "Emerveillez-vous devant le Burj Khalifa, la plus haute structure artificielle du monde"
+  ],
+  "included": [
+   "Marina Walk",
+   "Palm Jumeirah (entree)",
+   "Qasr Al Jumeirah (passage en voiture)",
+   "Burj Al Arab (point photo)"
+  ],
+  "notIncluded": [
+   "Billet d'entree pour le Burj Khalifa"
+  ]
+ },
+ "abu-dhabi-layover-night-tour-with-airport-pickup-d": {
+  "title": "Abu Dhabi : visite nocturne pendant une escale avec prise en charge a l'aeroport",
+  "metaTitle": "Abu Dhabi : visite nocturne pendant une escale avec prise en c...",
+  "metaDescription": "Experience d'une demi-journee a Abu Dhabi. Profitez au maximum de votre escale avec une visite nocturne privee d'Abu Dhabi. Propose par ARABIAN EXPLORE TOURS AND ...",
+  "shortDescription": "Experience d'une demi-journee a Abu Dhabi. Profitez au maximum de votre escale avec une visite nocturne privee d'Abu Dhabi. Propose par ARABIAN EXPLORE TOURS AND TRAVELS LLC.",
+  "fullDescription": "Une experience d'une demi-journee a Abu Dhabi. Profitez au maximum de votre escale avec une visite nocturne privee d'Abu Dhabi.\n\nARABIAN EXPLORE TOURS AND TRAVELS LLC s'en charge, et 12 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend vehicule prive climatise, prise en charge et depose a l'aeroport, chauffeur-guide professionnel anglophone et visite nocturne guidee de la Grande Mosquee Sheikh Zayed. Il ne comprend pas repas et boissons, depenses personnelles et tout billet supplementaire pour les attractions, prevoyez donc un budget separe. Deux voyageurs paient 288 $ ensemble plutot que 288 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Profitez au maximum de votre escale avec une visite nocturne privee d'Abu Dhabi"
+  ],
+  "included": [
+   "Vehicule prive climatise",
+   "Prise en charge et depose a l'aeroport",
+   "Chauffeur-guide professionnel anglophone",
+   "Visite nocturne guidee de la Grande Mosquee Sheikh Zayed"
+  ],
+  "notIncluded": [
+   "Repas et boissons",
+   "Depenses personnelles",
+   "Tout billet supplementaire pour les attractions"
   ]
  },
  "dubai-1-hour-horse-riding-experience-at-m11-equest": {
