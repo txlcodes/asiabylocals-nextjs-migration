@@ -34298,6 +34298,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Gastos personales: cualquier gasto personal como propinas, souvenirs, comidas o bebidas adicionales y compras\nActividades opcionales\nGratificaciones: propinas para el guía, el conductor o el personal del hotel\nComidas: almuerzo y cena"
   ]
  },
+ "jaipur-2-days-guided-tour-with-car-local-art": {
+  "title": "Jaipur: tour guiado de 2 días con coche y actividades artísticas locales",
+  "metaTitle": "Jaipur: tour guiado de 2 días con coche y arte local",
+  "metaDescription": "Explore Jaipur, la Ciudad Rosa de la India, en un relajado tour de 2 días con guía privado y conductor.",
+  "shortDescription": "Explore Jaipur, la Ciudad Rosa de la India",
+  "fullDescription": "Jaipur: tour guiado de 2 días con coche y actividades artísticas locales. Explore Jaipur, la Ciudad Rosa de la India.\n\nTour relajado de Jaipur en 2 días con un guía privado y conductor. Visite sitios patrimoniales como el Fuerte Amber, el City Palace y el Hawa Mahal, y disfrute de experiencias culturales auténticas y vibrantes mercados locales.\n\n### Qué incluye\n\n- Recogida y traslado al hotel\n- Guía turístico privado\n- Botellas de agua durante todo el tour\n- Vehículo privado con aire acondicionado\n- Transporte en coche privado con aire acondicionado\n- Todos los impuestos, tarifas y cargos de gestión\n- Recargo de combustible\n- GST (impuesto sobre bienes y servicios)\n- Atención y cuidado personalizados\n\n### No incluye\n\n- Entradas (¡sin esperar en filas! Los guías organizan las entradas con antelación. Simplemente pague el coste exacto de la entrada en efectivo al guía al final de las visitas)\n- Comidas\n- Propinas (opcionales)",
+  "highlights": [
+   "Explore Jaipur, la Ciudad Rosa de la India"
+  ],
+  "included": [
+   "Recogida y traslado al hotel\nGuía turístico privado\nBotellas de agua durante todo el tour\nVehículo privado con aire acondicionado\nTransporte en coche privado con aire acondicionado\nTodos los impuestos, tarifas y cargos de gestión\nRecargo de combustible\nGST (impuesto sobre bienes y servicios)\nAtención y cuidado personalizados"
+  ],
+  "notIncluded": [
+   "Entradas (¡sin esperar en filas! Los guías organizan las entradas con antelación. Simplemente pague el coste exacto de la entrada en efectivo al guía al final de las visitas)\nComidas\nPropinas (opcionales)"
+  ]
+ },
+ "jaipur-guided-tour-in-french": {
+  "title": "Jaipur: tour guiado en francés",
+  "metaTitle": "Jaipur: tour guiado en francés",
+  "metaDescription": "Tour privado en francés en Jaipur, con un guía certificado que estudió francés y vivió en Francia.",
+  "shortDescription": "Tour privado en francés",
+  "fullDescription": "Jaipur: tour guiado en francés. Tour privado en francés.\n\nSu profundo conocimiento de la rica cultura, los monumentos icónicos y la exquisita cocina de Jaipur hace que cada visita sea un viaje inolvidable. Guía certificado por el gobierno, Ashok también estudió francés en la Universidad de Rajastán y pasó tiempo en Francia para sumergirse en el idioma, la cultura y las tradiciones culinarias del país. Aunque Jaipur es su base, también guía a turistas en Delhi, la bulliciosa capital de la India, y en Agra, hogar del increíble Taj Mahal.\n\n### Qué incluye\n\n- Un guía de habla francesa: tour de 6 horas\n- Fuerte Amber, Observatorio, Palacio de los Vientos, City Palace, mercados en Old Jaipur\n- Un taxi durante 6 horas\n\n### No incluye\n\n- Entradas\n- Comidas\n- Propinas",
+  "highlights": [
+   "Tour privado en francés"
+  ],
+  "included": [
+   "Un guía de habla francesa: tour de 6 horas\nFuerte Amber, Observatorio, Palacio de los Vientos, City Palace, mercados en Old Jaipur\nUn taxi durante 6 horas"
+  ],
+  "notIncluded": [
+   "Entradas\nComidas\nPropinas"
+  ]
+ },
+ "jaipur-private-meenakari-on-silver-workshop": {
+  "title": "Jaipur: taller privado de meenakari sobre plata",
+  "metaTitle": "Jaipur: taller privado de meenakari sobre plata",
+  "metaDescription": "Elabore un colgante de plata personalizado para llevar a casa, en este taller privado de meenakari en Jaipur.",
+  "shortDescription": "Elabore un colgante de plata personalizado para llevar a casa",
+  "fullDescription": "Jaipur: taller privado de meenakari sobre plata. Elabore un colgante de plata personalizado para llevar a casa.\n\nLos participantes aprenderán bajo la tutela del mentor Jaswant Kumar Meenakar, un artista cuya familia ha practicado esta forma de arte durante más de 450 años. El artista es apasionado por preservar y difundir este arte artesanal, que es el legado de su familia. Jaswant Ji es receptor del National Merit Award.\n\nAl brindar atención especial y personalizada a cada uno, se asegura de que nadie se pierda ninguna información ni aprendizaje. El taller se realiza solo en su hogar/estudio, por lo que los participantes también tienen la oportunidad de ver las exhibiciones personales del maestro.\n\nEl meenakari normalmente se realiza creando un diseño en latón, cobre, plata y oro con la ayuda de herramientas simples. El diseño grabado en el metal se rellena con esmaltes de colores para obtener un resultado final vibrante.\n\nLa pieza de arte creada al final del taller puede llevarse de recuerdo.\n\nLa duración del taller es de 3 a 3,5 horas. Todos los materiales en bruto y herramientas necesarias para elaborar el colgante de plata meenakari se proporcionan en el taller. Compartimos el punto de encuentro una vez que reserve la experiencia. Nuestro miembro del equipo también está presente para ayudarle.\n\n### Qué incluye\n\n- Materiales en bruto y herramientas\n- Guía bilingüe especializado\n- Souvenir artesanal para llevar a casa\n- Té/café\n- Fotos y videos de la experiencia\n\n### No incluye\n\n- Alojamiento\n- Visitas turísticas de la zona\n- Transporte privado",
+  "highlights": [
+   "Elabore un colgante de plata personalizado para llevar a casa"
+  ],
+  "included": [
+   "Materiales en bruto y herramientas\nGuía bilingüe especializado\nSouvenir artesanal para llevar a casa\nTé/café\nFotos y videos de la experiencia"
+  ],
+  "notIncluded": [
+   "Alojamiento\nVisitas turísticas de la zona\nTransporte privado"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",

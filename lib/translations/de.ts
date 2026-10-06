@@ -34298,6 +34298,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persönliche Ausgaben: jegliche persönlichen Ausgaben wie Trinkgelder, Souvenirs, zusätzliche Mahlzeiten oder Getränke und Einkäufe\nOptionale Aktivitäten\nTrinkgelder: Trinkgelder für Führer, Fahrer oder Hotelpersonal\nMahlzeiten: Mittag- und Abendessen"
   ]
  },
+ "jaipur-2-days-guided-tour-with-car-local-art": {
+  "title": "Jaipur: geführte 2-tägige Tour mit Auto und lokalen Kunstaktivitäten",
+  "metaTitle": "Jaipur: geführte 2-Tage-Tour mit Auto und lokaler Kunst",
+  "metaDescription": "Erkunden Sie Jaipur, die Pink City Indiens, bei einer entspannten 2-tägigen Tour mit privatem Reiseführer und Fahrer.",
+  "shortDescription": "Erkunden Sie Jaipur, die Pink City Indiens",
+  "fullDescription": "Jaipur: geführte 2-tägige Tour mit Auto und lokalen Kunstaktivitäten. Erkunden Sie Jaipur, die Pink City Indiens.\n\nEntspannte Jaipur-Tour in 2 Tagen mit einem privaten Reiseführer und Fahrer. Besuchen Sie historische Stätten wie das Amber-Fort, den City Palace und den Hawa Mahal, und genießen Sie authentische kulturelle Erlebnisse und lebendige lokale Märkte.\n\n### Inklusive\n\n- Abholung und Rückfahrt vom Hotel\n- Privater Reiseführer\n- Wasserflaschen während der gesamten Tour\n- Privates klimatisiertes Fahrzeug\n- Transport im privaten, klimatisierten Auto\n- Alle Steuern, Gebühren und Bearbeitungsgebühren\n- Kraftstoffzuschlag\n- GST (Waren- und Dienstleistungssteuer)\n- Persönliche Betreuung und Aufmerksamkeit\n\n### Nicht inklusive\n\n- Eintrittskarten (kein Warten in Schlangen! Reiseführer organisieren Eintrittskarten im Voraus. Zahlen Sie einfach den genauen Ticketpreis in bar am Ende der Besichtigung an den Reiseführer)\n- Mahlzeiten\n- Trinkgelder (optional)",
+  "highlights": [
+   "Erkunden Sie Jaipur, die Pink City Indiens"
+  ],
+  "included": [
+   "Abholung und Rückfahrt vom Hotel\nPrivater Reiseführer\nWasserflaschen während der gesamten Tour\nPrivates klimatisiertes Fahrzeug\nTransport im privaten, klimatisierten Auto\nAlle Steuern, Gebühren und Bearbeitungsgebühren\nKraftstoffzuschlag\nGST (Waren- und Dienstleistungssteuer)\nPersönliche Betreuung und Aufmerksamkeit"
+  ],
+  "notIncluded": [
+   "Eintrittskarten (kein Warten in Schlangen! Reiseführer organisieren Eintrittskarten im Voraus. Zahlen Sie einfach den genauen Ticketpreis in bar am Ende der Besichtigung an den Reiseführer)\nMahlzeiten\nTrinkgelder (optional)"
+  ]
+ },
+ "jaipur-guided-tour-in-french": {
+  "title": "Jaipur: geführte Tour auf Französisch",
+  "metaTitle": "Jaipur: geführte Tour auf Französisch",
+  "metaDescription": "Private Tour auf Französisch in Jaipur, mit einem zertifizierten Reiseführer, der Französisch studierte und in Frankreich lebte.",
+  "shortDescription": "Private Tour auf Französisch",
+  "fullDescription": "Jaipur: geführte Tour auf Französisch. Private Tour auf Französisch.\n\nSein fundiertes Wissen über Jaipurs reiche Kultur, ikonische Denkmäler und exquisite Küche macht jeden Besuch zu einer unvergesslichen Reise. Als staatlich zertifizierter Reiseführer studierte Ashok auch Französisch an der Universität von Rajasthan und verbrachte Zeit in Frankreich, um in die Sprache, Kultur und kulinarischen Traditionen des Landes einzutauchen. Obwohl Jaipur seine Heimatbasis ist, führt er auch Touristen in Delhi, Indiens geschäftiger Hauptstadt, und in Agra, der Heimat des unglaublichen Taj Mahal.\n\n### Inklusive\n\n- Ein französischsprachiger Reiseführer: 6-stündige Tour\n- Amber-Fort, Observatorium, Palast der Winde, City Palace, Märkte in Old Jaipur\n- Ein Taxi für 6 Stunden\n\n### Nicht inklusive\n\n- Eintrittskarten\n- Mahlzeiten\n- Trinkgelder",
+  "highlights": [
+   "Private Tour auf Französisch"
+  ],
+  "included": [
+   "Ein französischsprachiger Reiseführer: 6-stündige Tour\nAmber-Fort, Observatorium, Palast der Winde, City Palace, Märkte in Old Jaipur\nEin Taxi für 6 Stunden"
+  ],
+  "notIncluded": [
+   "Eintrittskarten\nMahlzeiten\nTrinkgelder"
+  ]
+ },
+ "jaipur-private-meenakari-on-silver-workshop": {
+  "title": "Jaipur: privater Meenakari-auf-Silber-Workshop",
+  "metaTitle": "Jaipur: privater Meenakari-auf-Silber-Workshop",
+  "metaDescription": "Fertigen Sie einen personalisierten Silberanhänger zum Mitnehmen an, bei diesem privaten Meenakari-Workshop in Jaipur.",
+  "shortDescription": "Fertigen Sie einen personalisierten Silberanhänger zum Mitnehmen an",
+  "fullDescription": "Jaipur: privater Meenakari-auf-Silber-Workshop. Fertigen Sie einen personalisierten Silberanhänger zum Mitnehmen an.\n\nDie Teilnehmer lernen unter der Anleitung von Mentor Jaswant Kumar Meenakar, einem Künstler, dessen Familie diese Kunstform seit mehr als 450 Jahren praktiziert. Der Künstler setzt sich leidenschaftlich für die Bewahrung und Verbreitung dieser handgefertigten Kunst ein, die sein Familienerbe ist. Jaswant Ji ist Empfänger des National Merit Award.\n\nWährend er jedem besondere und persönliche Aufmerksamkeit schenkt, stellt er sicher, dass niemand Informationen oder Lerninhalte verpasst. Der Workshop findet ausschließlich in seinem Zuhause/Atelier statt, sodass die Teilnehmer auch die persönlichen Ausstellungsstücke des Meisters sehen können.\n\nMeenakari wird normalerweise durchgeführt, indem ein Design auf Messing, Kupfer, Silber und Gold mit einfachen Werkzeugen erstellt wird. Das eingravierte Design auf dem Metall wird mit farbigen Emaillen gefüllt, um ein lebendiges Endergebnis zu erzielen.\n\nDas am Ende des Workshops geschaffene Kunstwerk kann als Souvenir mitgenommen werden.\n\nDer Workshop dauert 3 bis 3,5 Stunden. Alle Rohmaterialien und Werkzeuge, die zur Herstellung des Meenakari-Silberanhängers benötigt werden, werden im Workshop bereitgestellt. Wir teilen den Treffpunkt mit, sobald Sie das Erlebnis gebucht haben. Unser Teammitglied steht Ihnen ebenfalls zur Unterstützung zur Verfügung.\n\n### Inklusive\n\n- Rohmaterialien und Werkzeuge\n- Spezialisierter zweisprachiger Reiseführer\n- Handgefertigtes Souvenir zum Mitnehmen\n- Tee/Kaffee\n- Fotos und Videos des Erlebnisses\n\n### Nicht inklusive\n\n- Unterkunft\n- Besichtigung der Umgebung\n- Privater Transport",
+  "highlights": [
+   "Fertigen Sie einen personalisierten Silberanhänger zum Mitnehmen an"
+  ],
+  "included": [
+   "Rohmaterialien und Werkzeuge\nSpezialisierter zweisprachiger Reiseführer\nHandgefertigtes Souvenir zum Mitnehmen\nTee/Kaffee\nFotos und Videos des Erlebnisses"
+  ],
+  "notIncluded": [
+   "Unterkunft\nBesichtigung der Umgebung\nPrivater Transport"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
