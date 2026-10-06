@@ -33962,6 +33962,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier servicio no mencionado en el itinerario"
   ]
  },
+ "9-day-rajasthan-tour-4-cities-with-hotels-private": {
+  "title": "Tour de 9 días por Rajasthan: 4 ciudades con hoteles y coche privado",
+  "metaTitle": "Tour de 9 días por Rajasthan: 4 ciudades",
+  "metaDescription": "Explore los lagos y palacios reales de Udaipur en este tour privado de 9 días por Rajasthan.",
+  "shortDescription": "Explore los lagos y palacios reales de Udaipur",
+  "fullDescription": "Tour de 9 días por Rajasthan: 4 ciudades con hoteles y coche privado. Explore los lagos y palacios reales de Udaipur.\n\n### Qué incluye\n\n- Tour privado de 9 días por Rajasthan\n- 8 noches de alojamiento si se selecciona la opción de hotel\n- 2 noches en Udaipur\n- 2 noches en Jaipur\n- 2 noches en Jodhpur\n- 2 noches en Jaisalmer\n- Vehículo privado con aire acondicionado\n- Recogida en Udaipur\n- Traslado final en Jodhpur\n- Todo el transporte interurbano\n- Transporte para las visitas locales\n- Conductor profesional\n\n### No incluye\n\n- Entradas a monumentos, salvo que se seleccionen o incluyan específicamente\n- Almuerzo y cena\n- Gastos personales\n- Cargos de cámara/video\n- Propinas\n- Seguro de viaje\n- Actividades opcionales\n- Cualquier cosa no mencionada específicamente en \"Incluye\"",
+  "highlights": [
+   "Explore los lagos y palacios reales de Udaipur"
+  ],
+  "included": [
+   "Tour privado de 9 días por Rajasthan\n8 noches de alojamiento si se selecciona la opción de hotel\n2 noches en Udaipur\n2 noches en Jaipur\n2 noches en Jodhpur\n2 noches en Jaisalmer\nVehículo privado con aire acondicionado\nRecogida en Udaipur\nTraslado final en Jodhpur\nTodo el transporte interurbano\nTransporte para las visitas locales\nConductor profesional"
+  ],
+  "notIncluded": [
+   "Entradas a monumentos, salvo que se seleccionen o incluyan específicamente\nAlmuerzo y cena\nGastos personales\nCargos de cámara/video\nPropinas\nSeguro de viaje\nActividades opcionales\nCualquier cosa no mencionada específicamente en \"Incluye\""
+  ]
+ },
+ "jaipur-hidden-colors-street-photography-private": {
+  "title": "Jaipur: tour privado de colores ocultos y fotografía callejera",
+  "metaTitle": "Jaipur: tour privado de fotografía callejera",
+  "metaDescription": "Capture una simetría perfecta en Patrika Gate con la suave luz de la mañana, en este tour fotográfico privado por Jaipur.",
+  "shortDescription": "Capture una simetría perfecta en Patrika Gate con la suave luz de la mañana",
+  "fullDescription": "Jaipur: tour privado de colores ocultos y fotografía callejera. Capture una simetría perfecta en Patrika Gate con la suave luz de la mañana.\n\nAléjese del turismo estándar abarrotado y únase a un viaje visual especializado por la Ciudad Rosa. Diseñado específicamente para viajeros que desean capturar la verdadera esencia real de Jaipur y su vibrante vida callejera, este tour privado convierte la ciudad en su lienzo personal.\n\nComenzamos el día temprano en Patrika Gate, capturando su perfecta simetría geométrica y sus colores pastel con la suave luz de la mañana. A continuación, visitamos el bullicioso mercado de flores de Jaipur (Phool Mandi) para capturar la vibrante vida local y las coloridas flores. Luego nos detenemos frente al histórico Museo Albert Hall, donde podrá capturar una icónica foto de acción de miles de palomas alzando el vuelo.\n\nMás tarde, nos dirigimos al fascinante Panna Meena Ka Kund (pozo escalonado) para fotografiar sus asombrosos patrones arquitectónicos. Continuamos nuestro viaje por las históricas callejuelas del Johari Bazaar, perfectas para la fotografía callejera y de retrato cruda. Finalmente, concluimos el tour capturando la icónica fachada en forma de panal del Hawa Mahal desde un exclusivo mirador elevado de un café al otro lado de la calle: alejado del tráfico y perfecto para esa clásica toma desde arriba.\n\n### Qué incluye\n\n- Recogida y traslado al hotel/aeropuerto/estación de tren, guía privado, vehículo privado con aire acondicionado para el tour de día completo por Jaipur, combustible, tarifas de estacionamiento, peajes y todos los impuestos gubernamentales, agua embotellada\n\n### No incluye\n\n- Comida y bebidas, alojamiento en hotel, propinas y souvenirs",
+  "highlights": [
+   "Capture una simetría perfecta en Patrika Gate con la suave luz de la mañana"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto/estación de tren, guía privado, vehículo privado con aire acondicionado para el tour de día completo por Jaipur, combustible, tarifas de estacionamiento, peajes y todos los impuestos gubernamentales, agua embotellada"
+  ],
+  "notIncluded": [
+   "Comida y bebidas, alojamiento en hotel, propinas y souvenirs"
+  ]
+ },
+ "jaipur-marwari-horse-riding-and-polo-experience": {
+  "title": "Jaipur: experiencia de equitación Marwari y polo con Hi-Tea",
+  "metaTitle": "Jaipur: equitación Marwari y polo con Hi-Tea",
+  "metaDescription": "Monte un caballo Marwari en una arena tranquila, en esta experiencia ecuestre familiar cerca de Jaipur.",
+  "shortDescription": "Monte un caballo Marwari en una arena tranquila",
+  "fullDescription": "Jaipur: experiencia de equitación Marwari y polo con Hi-Tea. Monte un caballo Marwari en una arena tranquila.\n\nPase tiempo en un centro ecuestre familiar en Jaipur y descubra la elegancia del caballo Marwari a través de una experiencia de equitación diseñada para visitantes. Con personal experimentado, apoyo de un instructor y la hospitalidad personal de un miembro de la familia, esta actividad ofrece una introducción cálida a la equitación y el polo en un ambiente campestre relajado.\n\nComience en el terreno de la arena, donde se familiarizará con la silla y disfrutará de un paseo informal adaptado a su nivel de experiencia. Ambas opciones incluyen tiempo con los caballos en un entorno controlado antes de pasar al stick and ball, una introducción al polo a caballo que le permite probar la sensación básica del deporte de forma accesible. La experiencia está respaldada por instructores y personal en todo momento.\n\nSi elige la opción safari, continúe más allá de la arena para un breve paseo cerca de la zona de la presa y a través de los campos de cultivo circundantes antes de regresar a Dera Ashwa. Esto añade un elemento panorámico al aire libre a la experiencia, manteniendo al mismo tiempo la ruta manejable para los huéspedes que buscan una aventura ecuestre más corta. Después de las actividades de equitación, relájese con un hi-tea en el establo. La experiencia termina de vuelta en Dera Ashwa.\n\n### Qué incluye\n\n- Caballo Marwari\n- Instructor\n- Personal del establo\n- Vehículo de respaldo\n- Sesión de stick and ball\n- Hi-tea\n\n### No incluye\n\n- Comida de la granja a la mesa disponible como complemento\n- Recogida y traslado al hotel\n- Lección completa de polo",
+  "highlights": [
+   "Monte un caballo Marwari en una arena tranquila"
+  ],
+  "included": [
+   "Caballo Marwari\nInstructor\nPersonal del establo\nVehículo de respaldo\nSesión de stick and ball\nHi-tea"
+  ],
+  "notIncluded": [
+   "Comida de la granja a la mesa disponible como complemento\nRecogida y traslado al hotel\nLección completa de polo"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
