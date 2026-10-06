@@ -36410,6 +36410,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier comida o bebida\nCualquier gasto personal\nPropinas para el conductor"
   ]
  },
+ "4-days-luxury-tour-by-car-guide-delhi-agra": {
+  "title": "Tour de lujo de 4 dias en coche con guia (Delhi → Agra → Jaipur)",
+  "metaTitle": "Tour de lujo de 4 dias, triangulo dorado",
+  "metaDescription": "Explore el iconico triangulo dorado de India, cubriendo Delhi, Agra y Jaipur en 4 dias, con conductor y guia privados.",
+  "shortDescription": "Explore el iconico triangulo dorado de India, cubriendo Delhi, Agra y Jaipur en 4 dias",
+  "fullDescription": "Tour de lujo de 4 dias en coche con guia (Delhi → Agra → Jaipur). Explore el iconico triangulo dorado de India, cubriendo Delhi, Agra y Jaipur en 4 dias.\n\nDia 1: recorrido por Delhi y viaje a Agra\nSu viaje comienza con una comoda recogida en su hotel o aeropuerto en Nueva Delhi. Reunase con su conductor privado y guia experto antes de partir a explorar los monumentos iconicos de la capital.\n\nComience con el viejo Delhi, donde visitara el majestuoso Fuerte Rojo (parada fotografica) y disfrutara del vibrante ambiente de Chandni Chowk con un paseo en rickshaw por sus bulliciosos callejones. Continue hacia la gran Jama Masjid.\n\nEn Nueva Delhi, admire la elegante India Gate, pase por la residencia presidencial Rashtrapati Bhavan y visite el imponente Qutub Minar.\n\nMas tarde por la tarde, conduzca hacia Agra por la autopista (aproximadamente 3-4 horas). A su llegada, registrese en su hotel y relajese durante la noche.\n\nDia 2: recorrido por Agra y viaje a Jaipur (via Fatehpur Sikri)\nComience su dia temprano con una impresionante visita al amanecer al iconico Taj Mahal, un simbolo de amor eterno. Observe el monumento de marmol brillando con la suave luz matutina.\n\nRegrese a su hotel para el desayuno, luego explore el historico fuerte de Agra, una magnifica fortaleza de arenisca roja que una vez sirvio como residencia mogola.\n\nMas tarde, conduzca hacia Jaipur. En el camino, detengase en la abandonada ciudad mogola de Fatehpur Sikri, conocida por su impresionante arquitectura e historia fascinante.\n\nContinue su viaje hacia Jaipur. A su llegada, registrese en su hotel y disfrute de una tarde pacifica.\n\nDia 3: recorrido por Jaipur\nDespues del desayuno, comience su recorrido por la ciudad de Jaipur con una visita al magnifico fuerte de Amber, conocido por sus hermosos patios y vistas desde la colina.\n\nDetengase para fotos en el iconico Hawa Mahal, famoso por su intrincada fachada de arenisca rosa. Continue hacia el gran City Palace de Jaipur, seguido del fascinante observatorio astronomico Jantar Mantar.\n\nTambien puede explorar mercados locales de artesania, textiles y joyeria antes de regresar a su hotel para pasar la noche en Jaipur.\n\nDia 4: de Jaipur a Delhi - salida\nDespues del desayuno, comience su viaje de regreso a Nueva Delhi (aproximadamente 5-6 horas).\n\nA su llegada, lo dejaran en su hotel, aeropuerto o ubicacion preferida, marcando el final de su memorable viaje de 4 dias por el triangulo dorado.\n\n### Que incluye\n\n- Recogida y traslado al hotel/aeropuerto\n- Coche privado con aire acondicionado para toda la actividad del tour con conductor\n- Guia turistico profesional en cada ciudad\n- 3 noches de alojamiento en hotel (si se elige la opcion)\n- Desayuno en el hotel\n- Botella de agua mineral\n- Todos los peajes y estacionamiento\n\n### No incluye\n\n- Entradas a monumentos\n- Almuerzo y cena\n- Cualquier gasto personal",
+  "highlights": [
+   "Explore el iconico triangulo dorado de India, cubriendo Delhi, Agra y Jaipur en 4 dias"
+  ],
+  "included": [
+   "Recogida y traslado al hotel/aeropuerto\nCoche privado con aire acondicionado para toda la actividad del tour con conductor\nGuia turistico profesional en cada ciudad\n3 noches de alojamiento en hotel (si se elige la opcion)\nDesayuno en el hotel\nBotella de agua mineral\nTodos los peajes y estacionamiento"
+  ],
+  "notIncluded": [
+   "Entradas a monumentos\nAlmuerzo y cena\nCualquier gasto personal"
+  ]
+ },
+ "visit-mandawa-on-the-way-to-bikaner-from-jaipur": {
+  "title": "Visite Mandawa en el camino a Bikaner desde Jaipur",
+  "metaTitle": "Mandawa en el camino a Bikaner",
+  "metaDescription": "Descubra el Murmuria Haveli con retratos de antiguos lideres, en el camino a Bikaner desde Jaipur via Mandawa.",
+  "shortDescription": "Murmuria Haveli con retratos de antiguos lideres.",
+  "fullDescription": "Visite Mandawa en el camino a Bikaner desde Jaipur. Murmuria Haveli con retratos de antiguos lideres.\n\nDia 1: tour a Mandawa desde Jaipur\n\nComience con una recogida en su hotel/lugar de estancia en Jaipur y dirijase hacia Mandawa, conocida como la \"galeria de arte abierta del mundo\". Despues de aproximadamente dos horas, llegara a Mandawa. Visite primero el Murmuria Haveli, reconocido por sus pinturas de antiguos lideres, incluido un retrato de Jawaharlal Nehru a caballo. El haveli muestra la arquitectura tradicional rajastani y sigue siendo un favorito entre los turistas. A continuacion, explore el Pozo Harlalka, ubicado a solo unos pasos del haveli. Este pozo sin fondo se accede a traves de una rampa para camellos y ofrece un ambiente pacifico.\n\nContinue su tour con el Hanuman Goenka Haveli, conocido por su impresionante arte, incluidas representaciones del senor Indra y el senor Shiva sobre Nandi. Finalmente, dirijase al Binsidhar Newatia Haveli, famoso por su majestuosa arquitectura y encanto vintage. Despues de completar el tour, traslado a Bikaner y traslado a su hotel o ubicacion preferida.\n\n### Que incluye\n\n- Todos los traslados y visitas en vehiculo privado\n- Peaje, estacionamiento, asignacion del conductor y combustible\n- Guia profesional (si se elige la opcion)\n- Entradas incluidas (si se elige la opcion)\n\n### No incluye\n\n- No se incluye ningun tipo de gasto personal\n- Almuerzo/cena/bebidas",
+  "highlights": [
+   "Murmuria Haveli con retratos de antiguos lideres."
+  ],
+  "included": [
+   "Todos los traslados y visitas en vehiculo privado.\nPeaje, estacionamiento, asignacion del conductor y combustible.\nGuia profesional (si se elige la opcion).\nEntradas incluidas (si se elige la opcion)."
+  ],
+  "notIncluded": [
+   "No se incluye ningun tipo de gasto personal.\nAlmuerzo/cena/bebidas."
+  ]
+ },
+ "2-day-jaipur-sariska-heritage-and-wildlife-tour": {
+  "title": "Tour de 2 dias: patrimonio y vida salvaje de Jaipur y Sariska desde Delhi",
+  "metaTitle": "Tour de 2 dias, Jaipur y Sariska",
+  "metaDescription": "Descubra el patrimonio y la vida salvaje de Jaipur y Sariska desde Delhi, con soporte 24/7 y safari de tigres compartido.",
+  "shortDescription": "Ofrecemos soporte al cliente 24h/24 y 7j/7.",
+  "fullDescription": "Tour de 2 dias: patrimonio y vida salvaje de Jaipur y Sariska desde Delhi. Ofrecemos soporte al cliente 24h/24 y 7j/7.\n\n### Que incluye\n\n- Safaris de tigres en un jeep/canter compartido para el safari (vehiculo segun disponibilidad)\n- Alojamiento: 1 noche en hoteles de 4 estrellas (solo con la opcion de tour todo incluido)\n- Comidas: desayuno diario en el hotel (solo con la opcion de tour todo incluido)\n- Transporte: vehiculo con aire acondicionado para todos los traslados y recorridos\n- Guia profesional: guia turistico local experimentado y conocedor\n- Tarifas de entrada: incluidas para todos los monumentos y el boleto de safari (con la opcion de tour todo incluido o tour sin alojamiento)\n- Impuestos y cargos: todos los impuestos y cargos por servicio aplicables incluidos\n- Asistencia: soporte 24/7 durante todo el tour\n- Botella de agua\n\n### No incluye\n\n- Gastos personales: cualquier gasto personal como propinas, recuerdos, comidas o bebidas adicionales y compras\n- Actividades opcionales\n- Propinas: para el guia, el conductor o el personal del hotel\n- Comidas: almuerzo y cena",
+  "highlights": [
+   "Ofrecemos soporte al cliente 24h/24 y 7j/7."
+  ],
+  "included": [
+   "Safaris de tigres en un jeep/canter compartido para el safari (vehiculo segun disponibilidad)\nAlojamiento: 1 noche en hoteles de 4 estrellas (solo con la opcion de tour todo incluido)\nComidas: desayuno diario en el hotel (solo con la opcion de tour todo incluido)\nTransporte: vehiculo con aire acondicionado para todos los traslados y recorridos\nGuia profesional: guia turistico local experimentado y conocedor\nTarifas de entrada: incluidas para todos los monumentos y el boleto de safari (con la opcion de tour todo incluido o tour sin alojamiento)\nImpuestos y cargos: todos los impuestos y cargos por servicio aplicables incluidos\nAsistencia: soporte 24/7 durante todo el tour\nBotella de agua"
+  ],
+  "notIncluded": [
+   "Gastos personales: cualquier gasto personal como propinas, recuerdos, comidas o bebidas adicionales y compras.\nActividades opcionales\nPropinas: para el guia, el conductor o el personal del hotel.\nComidas: almuerzo y cena."
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
