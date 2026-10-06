@@ -36650,6 +36650,54 @@ export const DE_TOURS: Record<string, TourT> = {
    "Jegliche Getraenke (kaeuflich erhaeltlich)\nMittag- und Abendessen\nFlugpreis\nTrinkgelder fuer Guide und Fahrer (optional)"
   ]
  },
+ "overnight-taj-mahal-tour-sunrise-at-the-iconic": {
+  "title": "Uebernachtungstour zum Taj Mahal: Sonnenaufgang am ikonischen Wunder",
+  "metaTitle": "Taj Mahal, Sonnenaufgang, Uebernachtungstour",
+  "metaDescription": "Besuch des Taj Mahal bei Sonnenaufgang, mit dem Agra Fort, Mehtab Bagh und Fatehpur Sikri, ab Jaipur oder Delhi.",
+  "shortDescription": "Besuch des Taj Mahal bei Sonnenaufgang",
+  "fullDescription": "Uebernachtungstour zum Taj Mahal: Sonnenaufgang am ikonischen Wunder. Besuch des Taj Mahal bei Sonnenaufgang.\n\nTag 1: Abfahrt und Ankunft in Agra\n\n8:00 Uhr - Abholung\nBeginnen Sie Ihre Reise ab Jaipur oder Delhi in einem privaten Fahrzeug. Geniessen Sie die malerische Fahrt nach Agra.\n\n12:30 Uhr - Ankunft und Mittagessen\nCheck-in in Ihrem Hotel in Agra und Mittagessen. Entspannen Sie sich eine Weile vor der Besichtigung.\n\n14:00 Uhr - Agra Fort\nBesuchen Sie das Agra Fort, eine UNESCO-Weltkulturerbestaette, und erkunden Sie seine atemberaubenden Palaeste, Hallen und Moscheen.\n\n16:00 Uhr - Mehtab Bagh (optionaler Sonnenuntergang)\nBesuchen Sie Mehtab Bagh, einen Garten mit ruhigem Blick auf das Taj Mahal ueber den Yamuna-Fluss, perfekt fuer die Sonnenuntergangsfotografie.\n\n19:00 Uhr - Abendessen und Uebernachtung\nGeniessen Sie das Abendessen im Hotel und entspannen Sie sich fuer die Nacht.\n\nTag 2: Taj Mahal und Rueckkehr\n\n5:30 Uhr - Sonnenaufgang am Taj Mahal\nErleben Sie den atemberaubenden Sonnenaufgang am Taj Mahal, einem der Sieben Weltwunder. Erkunden Sie die Gaerten, das Denkmal, und machen Sie denkwuerdige Fotos.\n\n8:00 Uhr - Fruehstueck und Check-out\nKehren Sie zu Ihrem Hotel fuer das Fruehstueck zurueck und checken Sie aus.\n\n9:30 Uhr - Fatehpur Sikri (optionaler Stopp)\nAuf dem Rueckweg besuchen Sie Fatehpur Sikri, die verlassene Mogulstadt und UNESCO-Weltkulturerbestaette (wenn Sie von Jaipur/Delhi aus starten).\n\n13:30 Uhr - Rueckreise\nFahrt zurueck nach Jaipur oder Delhi, Abschluss der Tour.\n\n### Im Preis enthalten\n\n- Abholung und Rueckfahrt zum Hotel (Jaipur/Delhi)\n- 1 Nacht Hotelaufenthalt in Agra mit Fruehstueck\n- Fruehstueck im Hotel\n- Privates klimatisiertes Fahrzeug fuer die Tour\n- Lokaler Reiseleiter\n- Alle Parkgebuehren, Mautgebuehren und Kraftstoffkosten\n\n### Nicht enthalten\n\n- Eintrittsgebuehren fuer Denkmaeler (Taj Mahal, Agra Fort, Fatehpur Sikri)\n- Mittagessen, Abendessen",
+  "highlights": [
+   "Besuch des Taj Mahal bei Sonnenaufgang"
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel (Jaipur/Delhi)\n1 Nacht Hotelaufenthalt in Agra mit Fruehstueck\nFruehstueck im Hotel\nPrivates klimatisiertes Fahrzeug fuer die Tour\nLokaler Reiseleiter\nAlle Parkgebuehren, Mautgebuehren und Kraftstoffkosten"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer Denkmaeler (Taj Mahal, Agra Fort, Fatehpur Sikri)\nMittagessen, Abendessen"
+  ]
+ },
+ "from-delhi-jaipur-round-trip-by-car-or-superfast": {
+  "title": "Ab Delhi: Hin- und Rueckfahrt nach Jaipur mit Auto oder Schnellzug",
+  "metaTitle": "Ab Delhi: Hin- und Rueckfahrt nach Jaipur",
+  "metaDescription": "Erkunden Sie das atemberaubende Amber Fort und seinen Sheesh Mahal (Spiegelpalast), den City Palace und das Jantar Mantar, an einem Tag ab Delhi.",
+  "shortDescription": "Erkunden Sie das atemberaubende Amber Fort und seinen Sheesh Mahal (Spiegelpalast)",
+  "fullDescription": "Ab Delhi: Hin- und Rueckfahrt nach Jaipur mit Auto oder Schnellzug. Erkunden Sie das atemberaubende Amber Fort und seinen Sheesh Mahal (Spiegelpalast).\n\nMaximieren Sie Ihre Zeit in Jaipur mit einem Tagesausflug ab Delhi. Erkunden Sie das Amber Fort, den City Palace und mehr, und sehen Sie die ikonische Fassade des Palasts der Winde.\n\nFahren Sie fruehzeitig von Delhi ab, um Ihre Zeit in Jaipur zu maximieren. Die Fahrt dauert etwa 5-6 Stunden (je nach Verkehr) und umfasst etwa 270 km.\nOder,\nDie Ajmer-Shatabdi-Hin-und-Rueckfahrt von Delhi nach Jaipur bietet eine bequeme und malerische Reise, um Jaipurs majestaetische Sehenswuerdigkeiten an einem Tag zu erkunden. Mit dem schnellen Shatabdi Express erleben Sie den kulturellen Reichtum und die architektonische Schoenheit der Pink City.\n\nGehen Sie direkt zu Ihrem ersten Stopp, dem Amber Fort. Erkunden Sie die prachtvolle Festung mit ihrer atemberaubenden Architektur, dem Sheesh Mahal (Spiegelpalast) und Panoramablicken auf den Maota-See.\n\nMachen Sie einen kurzen Stopp fuer ein Foto am atemberaubenden Jal-Mahal-Palast in der Mitte des Man Sagar Sees. Fangen Sie die ikonische Fassade des Palasts der Winde ein, eine Sehenswuerdigkeit Jaipurs.\n\nBesuchen Sie die koenigliche Residenz der Maharajas von Jaipur, den City Palace. Der Palast besitzt eine beeindruckende Sammlung von Artefakten und schoene Hoefe.\n\nErkunden Sie die UNESCO-Weltkulturerbestaette Jantar Mantar, ein astronomisches Observatorium aus dem XVIII. Jahrhundert. Besuchen Sie den friedlichen und historischen Affentempel, etwas ausserhalb Jaipurs gelegen, bekannt fuer seine natuerlichen Quellen und die Fuelle an Affen.\n\nNach Abschluss Ihrer Besichtigung verlassen Sie Jaipur, um nach Delhi zurueckzukehren. Je nach Verkehr sollten Sie Delhi am spaeten Abend erreichen.\n\n### Im Preis enthalten\n\n- Hin- und Rueckfahrt von Delhi nach Jaipur\n- Abholung und Rueckfahrt zum Hotel\n- Privater Guide\n\n### Nicht enthalten\n\n- Eintrittsgebuehren fuer Denkmaeler\n- Persoenliche Ausgaben\n- Mittagessen",
+  "highlights": [
+   "Erkunden Sie das atemberaubende Amber Fort und seinen Sheesh Mahal (Spiegelpalast)"
+  ],
+  "included": [
+   "Hin- und Rueckfahrt von Delhi nach Jaipur\nAbholung und Rueckfahrt zum Hotel\nPrivater Guide"
+  ],
+  "notIncluded": [
+   "Eintrittsgebuehren fuer Denkmaeler\nPersoenliche Ausgaben\nMittagessen"
+  ]
+ },
+ "jaipur-tour-in-one-day-with-flower-market-temple": {
+  "title": "Jaipur-Tour an einem Tag mit Blumenmarkt und Tempel",
+  "metaTitle": "Jaipur an einem Tag, Blumenmarkt",
+  "metaDescription": "Erkunden Sie Jaipur an einem einzigen Tag: Blumenmarkt, Hawa Mahal, Amber Fort, City Palace, Jantar Mantar und Affentempel.",
+  "shortDescription": "Erkunden Sie Jaipur an einem einzigen Tag",
+  "fullDescription": "Jaipur-Tour an einem Tag mit Blumenmarkt und Tempel. Erkunden Sie Jaipur an einem einzigen Tag.\n\nFruehmorgens (5:30-8:00 Uhr)\n\nBeginnen Sie Ihren Tag mit einem Besuch des lebendigen Blumenmarkts von Jaipur (Phool Mandi). Erleben Sie die lebhafte Atmosphaere, waehrend Haendler frische Ringelblumen, Rosen und andere Blumen fuer Tempel und Zeremonien verkaufen. Dies ist auch ein perfekter Zeitpunkt fuer Fotografie und um die lokale Kultur in ihrer besten Form zu erleben.\n\nMorgens-Besichtigung (8:30-12:30 Uhr)\n\nGehen Sie zum ikonischen Hawa Mahal (Palast der Winde) fuer einen schnellen Fotostopp.\nDann besuchen Sie das majestaetische Amber Fort, wo Sie koenigliche Hoefe, den Sheesh Mahal, erkunden und Panoramablicke geniessen koennen.\n\nAuf dem Rueckweg halten Sie am Jal Mahal fuer malerische Fotos am See.\n\nMittagspause (12:30-13:30 Uhr)\n\nGeniessen Sie ein traditionelles rajasthanisches Mittagessen in einem lokalen Restaurant (optional, auf eigene Kosten).\n\nNachmittagstour (13:30-16:30 Uhr)\n\nBesuchen Sie die koenigliche Residenz, den City Palace Jaipur, gefolgt vom astronomischen Wunder Jantar Mantar (eine UNESCO-Weltkulturerbestaette).\n\nAbendbesuch (17:00-18:30 Uhr)\n\nBeenden Sie Ihren Tag am beruehmten Galtaji-Tempel, auch bekannt als Affentempel. Eingebettet in die Huegel, ist diese spirituelle Staette bekannt fuer ihre natuerlichen Wasserbecken und verspielten Affen.\n\nTourende (19:00 Uhr)\n\nAbgabe an Ihrem Hotel oder bevorzugten Ort in Jaipur.\n\n### Im Preis enthalten\n\n- Abholung und Rueckfahrt zum Hotel in Jaipur\n- Privates klimatisiertes Fahrzeug mit Fahrer\n- Besuch des Blumenmarkts von Jaipur (Phool Mandi)\n- Besichtigung der wichtigsten Attraktionen (Amber Fort, Hawa Mahal, City Palace, Jantar Mantar, Jal Mahal, Affentempel)\n- Flaschenwasser waehrend der Tour\n- Professioneller, staatlich zugelassener Guide\n- Parkgebuehren, Kraftstoff und Mautgebuehren\n\n### Nicht enthalten\n\n- Eintrittskarten fuer Denkmaeler und Kameragebuehren\n- Mittagessen\n- Trinkgelder und Gratifikationen\n- Jegliche Aktivitaet, die nicht im Reiseplan erwaehnt ist\n- Reiseversicherung",
+  "highlights": [
+   "Erkunden Sie Jaipur an einem einzigen Tag"
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel in Jaipur\nPrivates klimatisiertes Fahrzeug mit Fahrer\nBesuch des Blumenmarkts von Jaipur (Phool Mandi)\nBesichtigung der wichtigsten Attraktionen (Amber Fort, Hawa Mahal, City Palace, Jantar Mantar, Jal Mahal, Affentempel)\nFlaschenwasser waehrend der Tour\nProfessioneller, staatlich zugelassener Guide\nParkgebuehren, Kraftstoff und Mautgebuehren"
+  ],
+  "notIncluded": [
+   "Eintrittskarten fuer Denkmaeler und Kameragebuehren\nMittagessen\nTrinkgelder und Gratifikationen\nJegliche Aktivitaet, die nicht im Reiseplan erwaehnt ist\nReiseversicherung"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: Heritage-Rundgang mit professionellem Guide",
   "metaTitle": "Jaisalmer zu Fuß: Goldenes Fort, Havelis und Gadisar-See",
