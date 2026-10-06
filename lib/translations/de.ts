@@ -75339,7 +75339,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ab Abu Dhabi: 2 Tauchgaenge fuer zertifizierte Taucher mit Tra...",
   "metaDescription": "Une ganztaegigeer Ausflug ab Abu Dhabi, der Snoopy Island, Snoopy Island, Sharm Rocks und Reef Oasis Dive Club, Fujairah besucht. Angeboten von Reef Oasis Diving ...",
   "shortDescription": "Une ganztaegigeer Ausflug ab Abu Dhabi, der Snoopy Island, Snoopy Island, Sharm Rocks und Reef Oasis Dive Club, Fujairah besucht. Angeboten von Reef Oasis Diving Center.",
-  "fullDescription": "Ein ganztaegigeer Ausflug ab Abu Dhabi, der Snoopy Island, Snoopy Island, Sharm Rocks und Reef Oasis Dive Club, Fujairah umfasst. Der laengste Halt ist Snoopy Island, mit etwa 1 Stunde. Es gibt insgesamt 6 Stopps.\n\nDie Reihenfolge ist Snoopy Island (1h), dann Snoopy Island (30 min), dann Sharm Rocks, dann Reef Oasis Dive Club, Fujairah (1h), dann Khorfakkan Amphitheatre (15 min).\n\nDer Preis beinhaltet abholung und Rueckfahrt in Abu Dhabi, unbegrenztes Wasser und Saefte, scuba-Tauchausruestung, zwei gefuehrte Tauchgaenge an verschiedenen Tauchplaetzen und zertifizierter Lehrer/Divemaster. Nicht enthalten sind handtuecher, sonnencreme und badekleidung, dafuer sollten Sie zusaetzlich budgetieren.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Abu Dhabi, der Snoopy Island, Snoopy Island, Sharm Rocks und Reef Oasis Dive Club, Fujairah umfasst. Der laengste Halt ist Snoopy Island, mit etwa 1 Stunde. Es gibt insgesamt 6 Stopps.\n\nDie Reihenfolge ist Snoopy Island (1h), dann Snoopy Island (30 min), dann Sharm Rocks, dann Reef Oasis Dive Club, Fujairah (1h), dann Khorfakkan Amphitheatre (15 min).\n\nDer Preis beinhaltet abholung und Rueckfahrt in Abu Dhabi, unbegrenztes Wasser und Saefte, scuba-Tauchausruestung, zwei gefuehrte Tauchgaenge an verschiedenen Tauchplaetzen und zertifizierter Lehrer/Divemaster. Nicht enthalten sind handtuecher, sonnenschutz und badekleidung, dafuer sollten Sie zusaetzlich budgetieren.",
   "highlights": [
    "Une ganztaegigeer Ausflug ab Abu Dhabi, der Snoopy Island, Snoopy Island, Sharm Rocks und Reef Oasis Dive Club, Fujairah besucht. Angeboten von Reef Oasis Diving Center."
   ],
@@ -75352,7 +75352,7 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Handtuecher",
-   "Sonnencreme",
+   "Sonnenschutz",
    "Badekleidung"
   ]
  },
@@ -76187,7 +76187,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai: Jet-Car-Tour zum Burj Al Arab mit Fotos und Videos",
   "metaDescription": "Une 0,5-stuendigeer Ausflug ab Dubai, der Burj Al Arab besucht. Angeboten von Yoush Watersports Dubai.",
   "shortDescription": "Une 0,5-stuendigeer Ausflug ab Dubai, der Burj Al Arab besucht. Angeboten von Yoush Watersports Dubai.",
-  "fullDescription": "Ein 0,5-stuendigeer Ausflug ab Dubai, der Burj Al Arab umfasst.\n\nYoush Watersports Dubai fuehrt es durch, und 9 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich. Lassen Sie sich von den atemberaubenden Ausblicken auf den Burj Al Arab und die Skyline der Stadt verzaubern.\n\nDer Preis beinhaltet 2-sitzige Jet-Car-Fahrt, lehrer, trinkwasser und fotos und Videos vom Lehrer aufgenommen. Nicht enthalten sind abholung und Rueckfahrt zum Hotel und handtuecher und Schwimmkleidung, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 277 $ statt 277 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "fullDescription": "Ein 0,5-stuendigeer Ausflug ab Dubai, der Burj Al Arab umfasst.\n\nYoush Watersports Dubai fuehrt es durch, und 9 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich. Lassen Sie sich von den atemberaubenden Ausblicken auf den Burj Al Arab und die Skyline der Stadt verzaubern.\n\nDer Preis beinhaltet 2-sitzige Jet-Car-Fahrt, lehrer, trinkwasser und vom Lehrer aufgenommene Fotos und Videos. Nicht enthalten sind abholung und Rueckfahrt zum Hotel und handtuecher und Schwimmkleidung, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 277 $ statt 277 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
   "highlights": [
    "Une 0,5-stuendigeer Ausflug ab Dubai, der Burj Al Arab besucht. Angeboten von Yoush Watersports Dubai."
   ],
@@ -76195,7 +76195,7 @@ export const DE_TOURS: Record<string, TourT> = {
    "2-sitzige Jet-Car-Fahrt",
    "Lehrer",
    "Trinkwasser",
-   "Fotos und Videos vom Lehrer aufgenommen"
+   "Vom Lehrer aufgenommene Fotos und Videos"
   ],
   "notIncluded": [
    "Abholung und Rueckfahrt zum Hotel",
@@ -76410,7 +76410,7 @@ export const DE_TOURS: Record<string, TourT> = {
   "metaTitle": "Ab Dubai: 2 Tauchgaenge fuer zertifizierte Taucher mit Transfer",
   "metaDescription": "Une ganztaegigeer Ausflug ab Dubai, der Fujairah, Fujairah, Reef Oasis Dive Club, Fujairah und Al Bidya Mosque besucht. Angeboten von Reef Oasis Diving Center.",
   "shortDescription": "Une ganztaegigeer Ausflug ab Dubai, der Fujairah, Fujairah, Reef Oasis Dive Club, Fujairah und Al Bidya Mosque besucht. Angeboten von Reef Oasis Diving Center.",
-  "fullDescription": "Ein ganztaegigeer Ausflug ab Dubai, der Fujairah, Fujairah, Reef Oasis Dive Club, Fujairah und Al Bidya Mosque umfasst. Der laengste Halt ist Fujairah, mit etwa 1 Stunde. Es gibt insgesamt 6 Stopps.\n\nDie Reihenfolge ist Fujairah (1h), dann Fujairah (30 min), dann Reef Oasis Dive Club, Fujairah (40 min), dann Al Bidya Mosque (10 min), dann Khorfakkan Amphitheatre (15 min).\n\nDer Preis beinhaltet abholung und Rueckfahrt zum Hotel in Dubai/Fujairah, scuba-Tauchausruestung, zwei gefuehrte Tauchgaenge an verschiedenen Tauchplaetzen und zertifizierter Lehrer/Divemaster. Nicht enthalten sind handtuecher, sonnencreme und badekleidung, dafuer sollten Sie zusaetzlich budgetieren.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Dubai, der Fujairah, Fujairah, Reef Oasis Dive Club, Fujairah und Al Bidya Mosque umfasst. Der laengste Halt ist Fujairah, mit etwa 1 Stunde. Es gibt insgesamt 6 Stopps.\n\nDie Reihenfolge ist Fujairah (1h), dann Fujairah (30 min), dann Reef Oasis Dive Club, Fujairah (40 min), dann Al Bidya Mosque (10 min), dann Khorfakkan Amphitheatre (15 min).\n\nDer Preis beinhaltet abholung und Rueckfahrt zum Hotel in Dubai/Fujairah, scuba-Tauchausruestung, zwei gefuehrte Tauchgaenge an verschiedenen Tauchplaetzen und zertifizierter Lehrer/Divemaster. Nicht enthalten sind handtuecher, sonnenschutz und badekleidung, dafuer sollten Sie zusaetzlich budgetieren.",
   "highlights": [
    "Une ganztaegigeer Ausflug ab Dubai, der Fujairah, Fujairah, Reef Oasis Dive Club, Fujairah und Al Bidya Mosque besucht. Angeboten von Reef Oasis Diving Center."
   ],
@@ -76422,7 +76422,7 @@ export const DE_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Handtuecher",
-   "Sonnencreme",
+   "Sonnenschutz",
    "Badekleidung"
   ]
  },
@@ -79021,6 +79021,403 @@ export const DE_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Transport zum Treffpunkt oder Abholung und Rueckfahrt",
    "Trinkgelder fuer den Guide, sehr geschaetzt"
+  ]
+ },
+ "luxury-proposal-on-a-yacht-in-dubai": {
+  "title": "Luxurioeser Heiratsantrag auf einer Yacht in Dubai",
+  "metaTitle": "Luxurioeser Heiratsantrag auf einer Yacht in Dubai",
+  "metaDescription": "Une 2-stuendigeer Ausflug ab Dubai, der Dubai Marina, Jumeirah Beach Residence, Dubai Eye und The Palm Jumeirah besucht. Angeboten von Amwaj Al Bahar Boats And Ya...",
+  "shortDescription": "Une 2-stuendigeer Ausflug ab Dubai, der Dubai Marina, Jumeirah Beach Residence, Dubai Eye und The Palm Jumeirah besucht. Angeboten von Amwaj Al Bahar Boats And Yachts chartering llc.",
+  "fullDescription": "Ein 2-stuendigeer Ausflug ab Dubai, der Dubai Marina, Jumeirah Beach Residence, Dubai Eye und The Palm Jumeirah umfasst. Der laengste Halt ist Dubai Marina, mit etwa 2 Stunden. Es gibt insgesamt 6 Stopps.\n\nDie Reihenfolge ist Dubai Marina (2h), dann Jumeirah Beach Residence (30 min), dann Dubai Eye (1h), dann The Palm Jumeirah (30 min), dann Atlantis, Dubai (30 min).\n\nDer Preis beinhaltet private Luxusyacht-Vermietung, kreuzfahrt durch Dubai Marina, JBR, Dubai Eye, und Palm Jumeirah, romantisches Antrags-Setup mit eleganten Dekorationen, frischer Blumenstrauss fuer den Antrag, candlelight-Dinner fuer zwei, professionelle Crew und Kapitaen und softdrinks und Wasser in Flaschen. Nicht enthalten sind transport zur und von der Marina und alkoholische Getraenke, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 2209 $ statt 2209 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Une 2-stuendigeer Ausflug ab Dubai, der Dubai Marina, Jumeirah Beach Residence, Dubai Eye und The Palm Jumeirah besucht. Angeboten von Amwaj Al Bahar Boats And Yachts chartering llc."
+  ],
+  "included": [
+   "Private Luxusyacht-Vermietung",
+   "Kreuzfahrt durch Dubai Marina, JBR, Dubai Eye, und Palm Jumeirah",
+   "Romantisches Antrags-Setup mit eleganten Dekorationen",
+   "Frischer Blumenstrauss fuer den Antrag",
+   "Candlelight-Dinner fuer zwei",
+   "Professionelle Crew und Kapitaen",
+   "Softdrinks und Wasser in Flaschen"
+  ],
+  "notIncluded": [
+   "Transport zur und von der Marina",
+   "Alkoholische Getraenke"
+  ]
+ },
+ "dubai-atlantis-aquaventure-tickets-with-hotel-tran": {
+  "title": "Dubai: Atlantis-Aquaventure-Tickets mit Hoteltransfers",
+  "metaTitle": "Dubai: Atlantis-Aquaventure-Tickets mit Hoteltransfers",
+  "metaDescription": "Une ganztaegigeer Ausflug ab Dubai, der Aquaventure Waterpark besucht. Angeboten von 360 Adventures Tourism LLC.",
+  "shortDescription": "Une ganztaegigeer Ausflug ab Dubai, der Aquaventure Waterpark besucht. Angeboten von 360 Adventures Tourism LLC.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Dubai, der Aquaventure Waterpark umfasst. Der laengste Halt ist Aquaventure Waterpark, mit etwa 8 Stunden.\n\nDer Preis beinhaltet eintrittskarte fuer Atlantis Aquaventure, hotelabholung und Rueckfahrt (geteilt oder privat, je nach Option), fahrer und wasser in Flaschen im Auto. Nicht enthalten sind essen und zusaetzliche Getraenke und eintritt zu anderen, oben nicht genannten Bereichen, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 627 $ statt 461 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Une ganztaegigeer Ausflug ab Dubai, der Aquaventure Waterpark besucht. Angeboten von 360 Adventures Tourism LLC."
+  ],
+  "included": [
+   "Eintrittskarte fuer Atlantis Aquaventure",
+   "Hotelabholung und Rueckfahrt (geteilt oder privat, je nach Option)",
+   "Fahrer",
+   "Wasser in Flaschen im Auto"
+  ],
+  "notIncluded": [
+   "Essen und zusaetzliche Getraenke",
+   "Eintritt zu anderen, oben nicht genannten Bereichen"
+  ]
+ },
+ "dubai-wakesurfing-wakeboarding-snacks-drinks-inclu": {
+  "title": "Dubai Wakesurfing & Wakeboarding: Snacks & Getraenke inklusive!",
+  "metaTitle": "Dubai Wakesurfing & Wakeboarding: Snacks & Getraenke inklusive!",
+  "metaDescription": "0,5-stuendigees Erlebnis in Dubai. Sonnenaufgangs-Session Wakesurfing & Wakeboarding. Angeboten von CrazyWake.",
+  "shortDescription": "0,5-stuendigees Erlebnis in Dubai. Sonnenaufgangs-Session Wakesurfing & Wakeboarding. Angeboten von CrazyWake.",
+  "fullDescription": "Ein 0,5-stuendigees Erlebnis in Dubai. Sonnenaufgangs-Session Wakesurfing & Wakeboarding.\n\nCrazyWake fuehrt es durch, und 6 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet kostenlose und kostenpflichtige Fotografie, lehrer, erfrischungen und kekse. Nicht enthalten sind professioneller Trainer, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Sonnenaufgangs-Session Wakesurfing & Wakeboarding"
+  ],
+  "included": [
+   "Kostenlose und kostenpflichtige Fotografie",
+   "Lehrer",
+   "Erfrischungen",
+   "Kekse"
+  ],
+  "notIncluded": [
+   "Professioneller Trainer"
+  ]
+ },
+ "dubai-dhow-dinner-cruise-on-creek-or-marina-with": {
+  "title": "Dubai: Dhow-Dinner-Kreuzfahrt am Creek oder in der Marina mit Live-Shows",
+  "metaTitle": "Dubai: Dhow-Dinner-Kreuzfahrt am Creek oder in der Marina mit ...",
+  "metaDescription": "Une 1,5-stuendigeer Ausflug ab Dubai, der Dubai Creek und Dubai Creek besucht. Angeboten von Buggy Explorers.",
+  "shortDescription": "Une 1,5-stuendigeer Ausflug ab Dubai, der Dubai Creek und Dubai Creek besucht. Angeboten von Buggy Explorers.",
+  "fullDescription": "Ein 1,5-stuendigeer Ausflug ab Dubai, der Dubai Creek und Dubai Creek umfasst. Der laengste Halt ist Dubai Creek, mit etwa 2 Stunden. Es gibt insgesamt 2 Stopps.\n\nDie Reihenfolge ist Dubai Creek (2h), dann Dubai Creek.\n\nDer Preis beinhaltet hotelabholung und Rueckfahrt (wenn Option gewaehlt), creek- oder Marina-Kreuzfahrt (je nach Option), buffet-Abendessen mit vegetarischen Optionen und tee und Kaffee. Nicht enthalten sind alkoholische Getraenke, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une 1,5-stuendigeer Ausflug ab Dubai, der Dubai Creek und Dubai Creek besucht. Angeboten von Buggy Explorers."
+  ],
+  "included": [
+   "Hotelabholung und Rueckfahrt (wenn Option gewaehlt)",
+   "Creek- oder Marina-Kreuzfahrt (je nach Option)",
+   "Buffet-Abendessen mit vegetarischen Optionen",
+   "Tee und Kaffee"
+  ],
+  "notIncluded": [
+   "Alkoholische Getraenke"
+  ]
+ },
+ "dubai-flying-dress-photo-marilyn-package": {
+  "title": "Dubai: Flying-Dress-Foto, \"Marilyn-Paket\"",
+  "metaTitle": "Dubai: Flying-Dress-Foto, \"Marilyn-Paket\"",
+  "metaDescription": "3-stuendigees Erlebnis in Dubai. Fangen Sie Ihre Essenz in der Wueste Dubais ein. Angeboten von Flying Dress Photo.",
+  "shortDescription": "3-stuendigees Erlebnis in Dubai. Fangen Sie Ihre Essenz in der Wueste Dubais ein. Angeboten von Flying Dress Photo.",
+  "fullDescription": "Ein 3-stuendigees Erlebnis in Dubai. Fangen Sie Ihre Essenz in der Wueste Dubais ein.\n\nFlying Dress Photo fuehrt es durch, und 12 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet professioneller Fotograf mit Faehigkeiten in Flying-Dress-Fotografie, 1-stuendiges Fotoshooting, 1 Kleid aus einer grossen Auswahl und hin- und Ruecktransport. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Fangen Sie Ihre Essenz in der Wueste Dubais ein"
+  ],
+  "included": [
+   "Professioneller Fotograf mit Faehigkeiten in Flying-Dress-Fotografie",
+   "1-stuendiges Fotoshooting",
+   "1 Kleid aus einer grossen Auswahl",
+   "Hin- und Ruecktransport"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-scenic-dhow-cruise-with-buffet-dinner-and-li": {
+  "title": "Dubai: malerische Dhow-Kreuzfahrt mit Buffet-Abendessen und Live-Shows",
+  "metaTitle": "Dubai: malerische Dhow-Kreuzfahrt mit Buffet-Abendessen und Li...",
+  "metaDescription": "1,5-stuendigees Erlebnis in Dubai. Geniessen Sie ein Buffet-Abendessen auf einem traditionellen Dhow-Boot waehrend der Fahrt entlang des Creeks. Angeboten von Bug...",
+  "shortDescription": "1,5-stuendigees Erlebnis in Dubai. Geniessen Sie ein Buffet-Abendessen auf einem traditionellen Dhow-Boot waehrend der Fahrt entlang des Creeks. Angeboten von Buggy Explorers.",
+  "fullDescription": "Ein 1,5-stuendigees Erlebnis in Dubai. Geniessen Sie ein Buffet-Abendessen auf einem traditionellen Dhow-Boot waehrend der Fahrt entlang des Creeks.\n\nBuggy Explorers fuehrt es durch, und 3 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet dhow-Kreuzfahrt, buffet-Abendessen und live-Unterhaltung. Nicht enthalten sind alkoholische Getraenke und trinkgelder, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Geniessen Sie ein Buffet-Abendessen auf einem traditionellen Dhow-Boot waehrend der Fahrt entlang des Creeks"
+  ],
+  "included": [
+   "Dhow-Kreuzfahrt",
+   "Buffet-Abendessen",
+   "Live-Unterhaltung"
+  ],
+  "notIncluded": [
+   "Alkoholische Getraenke",
+   "Trinkgelder"
+  ]
+ },
+ "abu-dhabi-city-tour-with-qasr-al-watan": {
+  "title": "Abu-Dhabi-Stadtrundfahrt mit Qasr Al Watan",
+  "metaTitle": "Abu-Dhabi-Stadtrundfahrt mit Qasr Al Watan",
+  "metaDescription": "Une ganztaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Emirates Palace und Qasr Al Watan besucht. Angeboten von Ammar Tours.",
+  "shortDescription": "Une ganztaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Emirates Palace und Qasr Al Watan besucht. Angeboten von Ammar Tours.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Emirates Palace und Qasr Al Watan umfasst. Es gibt insgesamt 4 Stopps.\n\nDie Reihenfolge ist Sheikh Zayed Mosque, dann The Corniche, Abu Dhabi, dann Emirates Palace, dann Qasr Al Watan.\n\nDer Preis beinhaltet abholung und Rueckfahrt zum Hotel, transport im klimatisierten Fahrzeug und 1,5-stuendiger Besuch der Sheikh-Zayed-Grossmoschee. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une ganztaegigeer Ausflug ab Abu Dhabi, der Sheikh Zayed Mosque, The Corniche, Abu Dhabi, Emirates Palace und Qasr Al Watan besucht. Angeboten von Ammar Tours."
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel",
+   "Transport im klimatisierten Fahrzeug",
+   "1,5-stuendiger Besuch der Sheikh-Zayed-Grossmoschee"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "from-abu-dhabi-snorkeling-with-turtles-in-fujairah": {
+  "title": "Ab Abu Dhabi: Schnorcheln mit Schildkroeten in Fujairah",
+  "metaTitle": "Ab Abu Dhabi: Schnorcheln mit Schildkroeten in Fujairah",
+  "metaDescription": "Une ganztaegigeer Ausflug ab Abu Dhabi, der Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah und Khorfakkan Amphitheatre besucht. Angeboten von Reef Oas...",
+  "shortDescription": "Une ganztaegigeer Ausflug ab Abu Dhabi, der Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah und Khorfakkan Amphitheatre besucht. Angeboten von Reef Oasis Diving Center.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Abu Dhabi, der Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah und Khorfakkan Amphitheatre umfasst. Der laengste Halt ist Reef Oasis Dive Club, Fujairah, mit etwa 1 Stunde. Es gibt insgesamt 5 Stopps.\n\nDie Reihenfolge ist Snoopy Island, dann Sharm Rocks, dann Reef Oasis Dive Club, Fujairah (1h), dann Khorfakkan Amphitheatre (15 min), dann Khorfakkan Waterfalls (15 min).\n\nDer Preis beinhaltet abholung und Rueckfahrt von einem zentral gelegenen Treffpunkt, zugang zu Schliessfaechern und Umkleideraum im Tauchzentrum, gesamte Schnorchelausruestung und schwimmweste. Nicht enthalten sind handtuecher, sonnenschutz und badekleidung, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une ganztaegigeer Ausflug ab Abu Dhabi, der Snoopy Island, Sharm Rocks, Reef Oasis Dive Club, Fujairah und Khorfakkan Amphitheatre besucht. Angeboten von Reef Oasis Diving Center."
+  ],
+  "included": [
+   "Abholung und Rueckfahrt von einem zentral gelegenen Treffpunkt",
+   "Zugang zu Schliessfaechern und Umkleideraum im Tauchzentrum",
+   "Gesamte Schnorchelausruestung",
+   "Schwimmweste"
+  ],
+  "notIncluded": [
+   "Handtuecher",
+   "Sonnenschutz",
+   "Badekleidung"
+  ]
+ },
+ "dubai-dune-buggy-safari-and-camel-ride-with-transp": {
+  "title": "Dubai: Dune-Buggy-Safari und Kamelritt mit Transport",
+  "metaTitle": "Dubai: Dune-Buggy-Safari und Kamelritt mit Transport",
+  "metaDescription": "halbtaegigees Erlebnis in Dubai. Fahren Sie Ihren eigenen 1000cc-Sport-Wuestenbuggy. Angeboten von Kings and Queens Luxury Yachts.",
+  "shortDescription": "halbtaegigees Erlebnis in Dubai. Fahren Sie Ihren eigenen 1000cc-Sport-Wuestenbuggy. Angeboten von Kings and Queens Luxury Yachts.",
+  "fullDescription": "Ein halbtaegigees Erlebnis in Dubai. Fahren Sie Ihren eigenen 1000cc-Sport-Wuestenbuggy.\n\nKings and Queens Luxury Yachts fuehrt es durch, und 11 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet 1-stuendige private Buggyfahrt in einem 1000cc RZR Sportbuggy, private Abholung und Rueckfahrt, sandboarding und kamelritt. Nicht enthalten sind ein Foto mit dem Falken und essen (kaeuflich erwerbbar), dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 461 $ statt 461 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Fahren Sie Ihren eigenen 1000cc-Sport-Wuestenbuggy"
+  ],
+  "included": [
+   "1-stuendige private Buggyfahrt in einem 1000cc RZR Sportbuggy",
+   "Private Abholung und Rueckfahrt",
+   "Sandboarding",
+   "Kamelritt"
+  ],
+  "notIncluded": [
+   "Ein Foto mit dem Falken",
+   "Essen (kaeuflich erwerbbar)"
+  ]
+ },
+ "dubai-30-minute-flyboard-with-instructor-and-free-": {
+  "title": "Dubai: 30-minuetiges Flyboard mit Lehrer und kostenlosem Eis",
+  "metaTitle": "Dubai: 30-minuetiges Flyboard mit Lehrer und kostenlosem Eis",
+  "metaDescription": "Une 0,5-stuendigeer Ausflug ab Dubai, der Nemo WaterSports Jet Ski Dubai, Parasailing & Flyboard, Umm Suqeim und Umm Suqeim 2 besucht. Angeboten von Nemo WaterSpo...",
+  "shortDescription": "Une 0,5-stuendigeer Ausflug ab Dubai, der Nemo WaterSports Jet Ski Dubai, Parasailing & Flyboard, Umm Suqeim und Umm Suqeim 2 besucht. Angeboten von Nemo WaterSports Dubai Jet Ski Flyboard.",
+  "fullDescription": "Ein 0,5-stuendigeer Ausflug ab Dubai, der Nemo WaterSports Jet Ski Dubai, Parasailing & Flyboard, Umm Suqeim und Umm Suqeim 2 umfasst. Es gibt insgesamt 3 Stopps.\n\nDie Reihenfolge ist Nemo WaterSports Jet Ski Dubai, Parasailing & Flyboard, dann Umm Suqeim, dann Umm Suqeim 2 (30 min).\n\nDer Preis beinhaltet flyboard-Fahrt, schwimmweste, weicher Helm (optional) und vom Lehrer aufgenommene Fotos und Videos. Nicht enthalten sind abholung und Rueckfahrt zum Hotel, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une 0,5-stuendigeer Ausflug ab Dubai, der Nemo WaterSports Jet Ski Dubai, Parasailing & Flyboard, Umm Suqeim und Umm Suqeim 2 besucht. Angeboten von Nemo WaterSports Dubai Jet Ski Flyboard."
+  ],
+  "included": [
+   "Flyboard-Fahrt",
+   "Schwimmweste",
+   "Weicher Helm (optional)",
+   "Vom Lehrer aufgenommene Fotos und Videos"
+  ],
+  "notIncluded": [
+   "Abholung und Rueckfahrt zum Hotel"
+  ]
+ },
+ "dubai-jet-ski-to-atlantis-with-videos-photos-and": {
+  "title": "Dubai: Jetski zum Atlantis mit Videos, Fotos und Eis",
+  "metaTitle": "Dubai: Jetski zum Atlantis mit Videos, Fotos und Eis",
+  "metaDescription": "Une 1-stuendigeer Ausflug ab Dubai, der Nemo WaterSports Jet Ski Dubai, Parasailing & Flyboard, Umm Suqeim, Burj Al Arab und Atlantis The Royal besucht. Angeboten...",
+  "shortDescription": "Une 1-stuendigeer Ausflug ab Dubai, der Nemo WaterSports Jet Ski Dubai, Parasailing & Flyboard, Umm Suqeim, Burj Al Arab und Atlantis The Royal besucht. Angeboten von Nemo WaterSports Dubai Jet Ski Flyboard.",
+  "fullDescription": "Ein 1-stuendigeer Ausflug ab Dubai, der Nemo WaterSports Jet Ski Dubai, Parasailing & Flyboard, Umm Suqeim, Burj Al Arab und Atlantis The Royal umfasst. Es gibt insgesamt 6 Stopps.\n\nDie Reihenfolge ist Nemo WaterSports Jet Ski Dubai, Parasailing & Flyboard (5 min), dann Umm Suqeim (5 min), dann Burj Al Arab (10 min), dann Atlantis The Royal (10 min), dann Atlantis, Dubai (10 min).\n\nDer Preis beinhaltet jetski-Fahrt, lehrer, trinkwasser und vom Lehrer aufgenommene Fotos und Videos. Nicht enthalten sind abholung und Rueckfahrt zum Hotel, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une 1-stuendigeer Ausflug ab Dubai, der Nemo WaterSports Jet Ski Dubai, Parasailing & Flyboard, Umm Suqeim, Burj Al Arab und Atlantis The Royal besucht. Angeboten von Nemo WaterSports Dubai Jet Ski Flyboard."
+  ],
+  "included": [
+   "Jetski-Fahrt",
+   "Lehrer",
+   "Trinkwasser",
+   "Vom Lehrer aufgenommene Fotos und Videos"
+  ],
+  "notIncluded": [
+   "Abholung und Rueckfahrt zum Hotel"
+  ]
+ },
+ "dubai-speedboat-scuba-diving-on-uaes-largest-divin": {
+  "title": "Dubai: Speedboot-Geraetetauchen auf dem groessten Tauchboot der VAE",
+  "metaTitle": "Dubai: Speedboot-Geraetetauchen auf dem groessten Tauchboot de...",
+  "metaDescription": "Une halbtaegigeer Ausflug ab Dubai, der Bermuda Diving Center, Al Mina und Dubai Islands besucht. Angeboten von Bermuda Diving Center LLC.",
+  "shortDescription": "Une halbtaegigeer Ausflug ab Dubai, der Bermuda Diving Center, Al Mina und Dubai Islands besucht. Angeboten von Bermuda Diving Center LLC.",
+  "fullDescription": "Ein halbtaegigeer Ausflug ab Dubai, der Bermuda Diving Center, Al Mina und Dubai Islands umfasst. Der laengste Halt ist Bermuda Diving Center, mit etwa 1 Stunde. Es gibt insgesamt 3 Stopps.\n\nDie Reihenfolge ist Bermuda Diving Center (1h), dann Al Mina (30 min), dann Dubai Islands (1h).\n\nDer Preis beinhaltet kostenlose Hotelabholung und Rueckfahrt (Dubai), unbegrenzte Unterwasserfotos und -videos, 1-stuendige Tauchtrainingssitzung und 30-minuetige Schnellbootfahrt zum Tauchplatz. Nicht enthalten sind , dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une halbtaegigeer Ausflug ab Dubai, der Bermuda Diving Center, Al Mina und Dubai Islands besucht. Angeboten von Bermuda Diving Center LLC."
+  ],
+  "included": [
+   "Kostenlose Hotelabholung und Rueckfahrt (Dubai)",
+   "Unbegrenzte Unterwasserfotos und -videos",
+   "1-stuendige Tauchtrainingssitzung",
+   "30-minuetige Schnellbootfahrt zum Tauchplatz"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-sunset-or-dinner-cruise-with-live-music-open": {
+  "title": "Dubai: Sonnenuntergangs- oder Dinner-Kreuzfahrt mit Live-Musik und offener Bar",
+  "metaTitle": "Dubai: Sonnenuntergangs- oder Dinner-Kreuzfahrt mit Live-Musik...",
+  "metaDescription": "Une 1,5-stuendigeer Ausflug ab Dubai, der Dubai Marina, Ain Dubai, Jumeirah Beach Residence und Dubai Harbour besucht. Angeboten von Xclusive Yachts.",
+  "shortDescription": "Une 1,5-stuendigeer Ausflug ab Dubai, der Dubai Marina, Ain Dubai, Jumeirah Beach Residence und Dubai Harbour besucht. Angeboten von Xclusive Yachts.",
+  "fullDescription": "Ein 1,5-stuendigeer Ausflug ab Dubai, der Dubai Marina, Ain Dubai, Jumeirah Beach Residence und Dubai Harbour umfasst. Es gibt insgesamt 4 Stopps.\n\nDie Reihenfolge ist Dubai Marina, dann Ain Dubai, dann Jumeirah Beach Residence, dann Dubai Harbour.\n\nDer Preis beinhaltet 90-minuetige Kreuzfahrt, internationales Buffet-Abendessen, unbegrenztes Bier, Wein, und Spirituosen, unbegrenzte Softdrinks, Saefte, Wasser, Tee, und Kaffee, live-Musik und pasta-Station. Nicht enthalten sind abholung und Rueckfahrt zum Hotel, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une 1,5-stuendigeer Ausflug ab Dubai, der Dubai Marina, Ain Dubai, Jumeirah Beach Residence und Dubai Harbour besucht. Angeboten von Xclusive Yachts."
+  ],
+  "included": [
+   "90-minuetige Kreuzfahrt",
+   "Internationales Buffet-Abendessen",
+   "Unbegrenztes Bier, Wein, und Spirituosen",
+   "Unbegrenzte Softdrinks, Saefte, Wasser, Tee, und Kaffee",
+   "Live-Musik",
+   "Pasta-Station"
+  ],
+  "notIncluded": [
+   "Abholung und Rueckfahrt zum Hotel"
+  ]
+ },
+ "dubai-marina-15-hour-atlantis-sightseeing-speedboa": {
+  "title": "Dubai Marina: 1,5-stuendige Atlantis-Sightseeing-Schnellboottour",
+  "metaTitle": "Dubai Marina: 1,5-stuendige Atlantis-Sightseeing-Schnellboottour",
+  "metaDescription": "1,5-stuendigees Erlebnis in Dubai. Geniessen Sie eine spannende Schnellbootfahrt ab der Dubai Marina. Angeboten von Splash Tours UAE.",
+  "shortDescription": "1,5-stuendigees Erlebnis in Dubai. Geniessen Sie eine spannende Schnellbootfahrt ab der Dubai Marina. Angeboten von Splash Tours UAE.",
+  "fullDescription": "Ein 1,5-stuendigees Erlebnis in Dubai. Geniessen Sie eine spannende Schnellbootfahrt ab der Dubai Marina.\n\nSplash Tours UAE fuehrt es durch, und 3 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet schnellboot-Tour, guide und flasche Wasser. Nicht enthalten sind hoteltransfers, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Geniessen Sie eine spannende Schnellbootfahrt ab der Dubai Marina"
+  ],
+  "included": [
+   "Schnellboot-Tour",
+   "Guide",
+   "Flasche Wasser"
+  ],
+  "notIncluded": [
+   "Hoteltransfers"
+  ]
+ },
+ "dubai-top-5-attractions-tour-with-entry-tickets": {
+  "title": "Dubai: Top-5-Attraktionen-Tour mit Eintrittskarten",
+  "metaTitle": "Dubai: Top-5-Attraktionen-Tour mit Eintrittskarten",
+  "metaDescription": "Une ganztaegigeer Ausflug ab Dubai, der Burj Khalifa, Dubai Aquarium & Underwater Zoo, Dubai Frame und Miracle Garden besucht. Angeboten von Travtur Tourism L.L.C.",
+  "shortDescription": "Une ganztaegigeer Ausflug ab Dubai, der Burj Khalifa, Dubai Aquarium & Underwater Zoo, Dubai Frame und Miracle Garden besucht. Angeboten von Travtur Tourism L.L.C.",
+  "fullDescription": "Ein ganztaegigeer Ausflug ab Dubai, der Burj Khalifa, Dubai Aquarium & Underwater Zoo, Dubai Frame und Miracle Garden umfasst. Der laengste Halt ist Burj Khalifa, mit etwa 1 Stunde. Es gibt insgesamt 5 Stopps.\n\nDie Reihenfolge ist Burj Khalifa (1h), dann Dubai Aquarium & Underwater Zoo (1h), dann Dubai Frame (1h), dann Miracle Garden (1h), dann Global Village.\n\nDer Preis beinhaltet abholung von Dubai-Hotels, transport in einem klimatisierten Fahrzeug, professioneller englischsprachiger Guide und burj Khalifa At the Top Eintritt (Ebenen 124 und 125). Nicht enthalten sind persoenliche Ausgaben, trinkgelder (optional) und der Burj Khalifa SKY Zugang kann am Schalter auf (Ebenen 148, 152, und 154) aufgewertet werden, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une ganztaegigeer Ausflug ab Dubai, der Burj Khalifa, Dubai Aquarium & Underwater Zoo, Dubai Frame und Miracle Garden besucht. Angeboten von Travtur Tourism L.L.C."
+  ],
+  "included": [
+   "Abholung von Dubai-Hotels",
+   "Transport in einem klimatisierten Fahrzeug",
+   "Professioneller englischsprachiger Guide",
+   "Burj Khalifa At the Top Eintritt (Ebenen 124 und 125)"
+  ],
+  "notIncluded": [
+   "Persoenliche Ausgaben",
+   "Trinkgelder (optional)",
+   "Der Burj Khalifa SKY Zugang kann am Schalter auf (Ebenen 148, 152, und 154) aufgewertet werden"
+  ]
+ },
+ "dubai-sightseeing-on-a-donut-ride": {
+  "title": "Dubai: Sightseeing auf einer Donut-Fahrt",
+  "metaTitle": "Dubai: Sightseeing auf einer Donut-Fahrt",
+  "metaDescription": "Une 0,5-stuendigeer Ausflug ab Dubai, der Burj Al Arab besucht. Angeboten von Yoush Watersports Dubai.",
+  "shortDescription": "Une 0,5-stuendigeer Ausflug ab Dubai, der Burj Al Arab besucht. Angeboten von Yoush Watersports Dubai.",
+  "fullDescription": "Ein 0,5-stuendigeer Ausflug ab Dubai, der Burj Al Arab umfasst.\n\nDer Preis beinhaltet lebensrettende Ausruestung, schliessfach fuer Wertsachen, dusche und Umkleideraum und trinkwasser. Nicht enthalten sind badetuecher und transfers, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une 0,5-stuendigeer Ausflug ab Dubai, der Burj Al Arab besucht. Angeboten von Yoush Watersports Dubai."
+  ],
+  "included": [
+   "Lebensrettende Ausruestung",
+   "Schliessfach fuer Wertsachen",
+   "Dusche und Umkleideraum",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Badetuecher",
+   "Transfers"
+  ]
+ },
+ "dubai-family-friendly-citytour-with-sightseeing-hi": {
+  "title": "Dubai: familienfreundliche Stadttour mit Sightseeing-Highlights",
+  "metaTitle": "Dubai: familienfreundliche Stadttour mit Sightseeing-Highlights",
+  "metaDescription": "halbtaegigees Erlebnis in Dubai. Kostenlose Eintrittskarte fuer den Dubai Frame. Angeboten von Laetitia Tourism LLC.",
+  "shortDescription": "halbtaegigees Erlebnis in Dubai. Kostenlose Eintrittskarte fuer den Dubai Frame. Angeboten von Laetitia Tourism LLC.",
+  "fullDescription": "Ein halbtaegigees Erlebnis in Dubai. Kostenlose Eintrittskarte fuer den Dubai Frame.\n\nLaetitia Tourism LLC fuehrt es durch, und 6 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet abholung und Rueckfahrt zum Hotel, eintrittskarten fuer den Dubai Frame, private Stadttour mit den Highlights der Dubai-Sehenswuerdigkeiten und private Wassertaxifahrt entlang des Dubai Creek. Nicht enthalten sind essen und eintrittskarten fuer andere Attraktionen als den Dubai Frame, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Kostenlose Eintrittskarte fuer den Dubai Frame"
+  ],
+  "included": [
+   "Abholung und Rueckfahrt zum Hotel",
+   "Eintrittskarten fuer den Dubai Frame",
+   "Private Stadttour mit den Highlights der Dubai-Sehenswuerdigkeiten",
+   "Private Wassertaxifahrt entlang des Dubai Creek"
+  ],
+  "notIncluded": [
+   "Essen",
+   "Eintrittskarten fuer andere Attraktionen als den Dubai Frame"
+  ]
+ },
+ "dubai-city-tour-and-desert-experience-with-fun-act": {
+  "title": "Dubai: Stadtrundfahrt und Wuestenerlebnis mit spassigen Aktivitaeten",
+  "metaTitle": "Dubai: Stadtrundfahrt und Wuestenerlebnis mit spassigen Aktivi...",
+  "metaDescription": "ganztaegigees Erlebnis in Dubai. Unbedingt zu tun und beliebtester Besuchskombination in Dubai. Angeboten von Odyssey DMC.",
+  "shortDescription": "ganztaegigees Erlebnis in Dubai. Unbedingt zu tun und beliebtester Besuchskombination in Dubai. Angeboten von Odyssey DMC.",
+  "fullDescription": "Ein ganztaegigees Erlebnis in Dubai. Unbedingt zu tun und beliebtester Besuchskombination in Dubai.\n\nOdyssey DMC fuehrt es durch, und 8 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet hotelabholung/-rueckfahrt im klimatisierten Reisebus mit Guide, eintrittskarte fuer das Dubai-Museum und Abra-Fahrt ueber den Creek (traditionelles Wassertaxi), fotostopp vor dem Burj Al Arab und der Jumeirah-Moschee, vorbeifahrt an Atlantis the Palm, Museum of Future, Dubai Frame, und Burj Khalifa (ohne Fotostopp), luxurioese klimatisierte 4x4-Jeeps fuer das Wuestenerlebnis mit professionellem, gut ausgebildetem Fahrer und dune-Bashing-Erlebnis, Sandboarding, Kamelritt, und Henna-Tattoo-Design. Nicht enthalten sind alkoholische Getraenke (kaeuflich erwerbbar) im Camp, quads sind im Camp gegen Aufpreis verfuegbar und trinkgelder, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Unbedingt zu tun und beliebtester Besuchskombination in Dubai"
+  ],
+  "included": [
+   "Hotelabholung/-rueckfahrt im klimatisierten Reisebus mit Guide",
+   "Eintrittskarte fuer das Dubai-Museum und Abra-Fahrt ueber den Creek (traditionelles Wassertaxi)",
+   "Fotostopp vor dem Burj Al Arab und der Jumeirah-Moschee",
+   "Vorbeifahrt an Atlantis the Palm, Museum of Future, Dubai Frame, und Burj Khalifa (ohne Fotostopp)",
+   "Luxurioese klimatisierte 4x4-Jeeps fuer das Wuestenerlebnis mit professionellem, gut ausgebildetem Fahrer",
+   "Dune-Bashing-Erlebnis, Sandboarding, Kamelritt, und Henna-Tattoo-Design"
+  ],
+  "notIncluded": [
+   "Alkoholische Getraenke (kaeuflich erwerbbar) im Camp",
+   "Quads sind im Camp gegen Aufpreis verfuegbar",
+   "Trinkgelder"
+  ]
+ },
+ "abu-dhabi-sheikh-zayed-grand-mosque-tour-with-phot": {
+  "title": "Abu Dhabi: Sheikh-Zayed-Grossmoschee-Tour mit Fotograf",
+  "metaTitle": "Abu Dhabi: Sheikh-Zayed-Grossmoschee-Tour mit Fotograf",
+  "metaDescription": "1,5-stuendigees Erlebnis in Abu Dhabi. Profitieren Sie von den Faehigkeiten eines professionellen Fotografen. Angeboten von Picster.",
+  "shortDescription": "1,5-stuendigees Erlebnis in Abu Dhabi. Profitieren Sie von den Faehigkeiten eines professionellen Fotografen. Angeboten von Picster.",
+  "fullDescription": "Ein 1,5-stuendigees Erlebnis in Abu Dhabi. Profitieren Sie von den Faehigkeiten eines professionellen Fotografen.\n\nPicster fuehrt es durch, und 6 Dinge sind im Preis enthalten. Kostenlose Stornierung ist moeglich.\n\nDer Preis beinhaltet professionelles Fotoshooting waehrend der Tour, englischsprachiger Fotograf, eintrittskarte fuer die Sheikh-Zayed-Moschee und unbegrenzte bearbeitete Fotos via Google Drive. Nicht enthalten sind abholung und Rueckfahrt zum Hotel, dafuer sollten Sie zusaetzlich budgetieren. Zwei Reisende zahlen zusammen 277 $ statt 277 $ pro Person, da der Preis pro Gruppe und nicht pro Kopf berechnet wird.",
+  "highlights": [
+   "Profitieren Sie von den Faehigkeiten eines professionellen Fotografen"
+  ],
+  "included": [
+   "Professionelles Fotoshooting waehrend der Tour",
+   "Englischsprachiger Fotograf",
+   "Eintrittskarte fuer die Sheikh-Zayed-Moschee",
+   "Unbegrenzte bearbeitete Fotos via Google Drive"
+  ],
+  "notIncluded": [
+   "Abholung und Rueckfahrt zum Hotel"
+  ]
+ },
+ "dubai-jet-ski-flyboard-in-dubai-free-ice-cream": {
+  "title": "Dubai: Jetski und Flyboard in Dubai, kostenloses Eis",
+  "metaTitle": "Dubai: Jetski und Flyboard in Dubai, kostenloses Eis",
+  "metaDescription": "Une 1-stuendigeer Ausflug ab Dubai, der Burj Al Arab besucht. Angeboten von Yoush Watersports Dubai.",
+  "shortDescription": "Une 1-stuendigeer Ausflug ab Dubai, der Burj Al Arab besucht. Angeboten von Yoush Watersports Dubai.",
+  "fullDescription": "Ein 1-stuendigeer Ausflug ab Dubai, der Burj Al Arab umfasst.\n\nDer Preis beinhaltet jetski-Vermietung, schwimmweste, briefing und flyboard-Fahrt. Nicht enthalten sind abholung und Rueckfahrt zum Hotel und essen, dafuer sollten Sie zusaetzlich budgetieren.",
+  "highlights": [
+   "Une 1-stuendigeer Ausflug ab Dubai, der Burj Al Arab besucht. Angeboten von Yoush Watersports Dubai."
+  ],
+  "included": [
+   "Jetski-Vermietung",
+   "Schwimmweste",
+   "Briefing",
+   "Flyboard-Fahrt"
+  ],
+  "notIncluded": [
+   "Abholung und Rueckfahrt zum Hotel",
+   "Essen"
   ]
  },
  "from-ras-al-khaimah-private-dubai-highlights-suv-c": {
