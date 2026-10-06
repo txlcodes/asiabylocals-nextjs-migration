@@ -35066,6 +35066,54 @@ export const ES_TOURS: Record<string, TourT> = {
    "Entradas a cualquier monumento o atraccion\nComida y bebidas a menos que se mencione"
   ]
  },
+ "jaipur-full-day-private-tour-discover-by-tuk-tuk": {
+  "title": "Jaipur: tour privado de dia completo: descubra en tuk-tuk",
+  "metaTitle": "Jaipur: tour de dia completo en tuk-tuk",
+  "metaDescription": "Explore el City Palace, un complejo real con varias secciones, el Hawa Mahal, el Jantar Mantar y el fuerte de Amber en tuk-tuk.",
+  "shortDescription": "Explore el City Palace, un complejo real que alberga varias secciones",
+  "fullDescription": "Jaipur: tour privado de dia completo: descubra en tuk-tuk. Explore el City Palace, un complejo real que alberga varias secciones.\n\nEmbarquese en un viaje inolvidable a traves de los monumentos iconicos de Jaipur, conocida como la ciudad rosa de India, en un paseo en tuk-tuk. Su aventura comienza a las 8:30h-17:30h, partiendo desde su hotel hacia el renombrado \"Hawa Mahal - el Palacio de los Vientos\". Esta impresionante maravilla arquitectonica, de mas de 220 anios, cuenta con una estructura de panal con 953 ventanas intrincadamente disenadas.\n\nA continuacion, explore el magnifico City Palace, un complejo real que alberga varias secciones como el Mubarak Mahal, Chowk, Chandra Mahal, Diwan-I-Khas, Palacio Maharani y mas. Continue su recorrido en el sitio del Patrimonio de la Humanidad de la UNESCO, Jantar Mantar, una de las atracciones mas reconocidas de India.\n\nTomese un momento para admirar la serena belleza del Jal Mahal, el palacio flotante en el agua, y capture impresionantes fotografias de este pintoresco lugar. Desde alli, continue hacia el majestuoso fuerte de Amber, situado en lo alto de una colina y reconocido como una de las atracciones turisticas mas destacadas de Jaipur. Siga a su guia a traves de la fascinante historia del fuerte y descubra los secretos del antiguo pozo escalonado, Panna Meena Ka Kund, ubicado cerca.\n\nConcluya su dia con un memorable paseo en tuk-tuk por las calles menos conocidas de Jaipur, donde podra interactuar con los locales, saborear la cocina tradicional y experimentar la vibrante cultura de la ciudad. Este tour turistico de dia completo promete una experiencia inmersiva del rico patrimonio, cultura y tradiciones de Jaipur.\n\nPuntos destacados:\n\n- Fuerte de Amer: comience su dia con una visita al majestuoso fuerte de Amer, donde podra explorar sus grandes patios, intrincada arquitectura y vistas impresionantes de las colinas circundantes.\n\n- City Palace: descubra la residencia real de los Maharajas de Jaipur en el City Palace, un magnifico complejo con museos, patios y jardines.\n\n- Hawa Mahal: pase por el iconico Hawa Mahal, conocido como el Palacio de los Vientos, y maravillese con su impresionante fachada y diseño unico.\n\n- Jantar Mantar: visite este sitio del Patrimonio de la Humanidad de la UNESCO, un antiguo observatorio que muestra la rica historia de Jaipur en astronomia.\n\n- Mercados locales: recorra los animados mercados de Jaipur, donde podra comprar artesania tradicional, textiles y joyeria.\n\n- Experiencia en tuk-tuk: disfrute de la emocion de viajar en un tuk-tuk, un vehiculo tradicional de tres ruedas que ofrece una experiencia local autentica.\n\nInclusiones:\n\nTuk-tuk privado con un conductor experimentado.\n- Recogida y traslado desde su hotel en Jaipur.\n- Recorrido guiado por las principales atracciones.\n- Agua embotellada y aperitivos.\n\nExclusiones:\n\n- Entradas a las atracciones.\n- Comidas y gastos personales.\n\n### Que incluye\n\n- Recogida y traslado en el hotel, aeropuerto, estacion de trenes o de autobuses\n- Conductor como guia, conductor amigable\n- Paseo en tuk-tuk durante el dia\n- Agua embotellada\n- Combustible\n- Gastos de estacionamiento\n- Peaje e impuestos interestatales\n- Todos los impuestos gubernamentales (GST)\n\n### No incluye\n\n- Comidas y bebidas\n- Entradas para el fuerte de Amber, City Palace, Hawa Mahal, Jantar Mantar, Museo Albert Hall y mas\n- Propinas para el conductor",
+  "highlights": [
+   "Explore el City Palace, un complejo real que alberga varias secciones"
+  ],
+  "included": [
+   "Recogida y traslado en el hotel, aeropuerto, estacion de trenes o de autobuses\nConductor como guia, conductor amigable.\nPaseo en tuk-tuk durante el dia\nAgua embotellada\nCombustible\nGastos de estacionamiento\nPeaje e impuestos interestatales\nTodos los impuestos gubernamentales (GST)"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas\nEntradas para el fuerte de Amber, City Palace, Hawa Mahal, Jantar Mantar, Museo Albert Hall y mas.\nPropinas para el conductor"
+  ]
+ },
+ "jaipur-night-open-jeep-safari-with-pickup-and": {
+  "title": "Jaipur: safari nocturno en jeep abierto con recogida y traslado",
+  "metaTitle": "Jaipur: safari nocturno en jeep abierto",
+  "metaDescription": "Disfrute de un jeep privado sin techo para vistas nocturnas de 360 grados sin obstrucciones del Hawa Mahal, el Jal Mahal y mas.",
+  "shortDescription": "Disfrute de un jeep privado sin techo para vistas nocturnas de 360 grados sin obstrucciones.",
+  "fullDescription": "Jaipur: safari nocturno en jeep abierto con recogida y traslado. Disfrute de un jeep privado sin techo para vistas nocturnas de 360 grados sin obstrucciones.\n\nExperimente Jaipur como la realeza mientras el sol se pone y la \"ciudad rosa\" se transforma en un paisaje dorado y brillante. Este safari privado en jeep abierto esta disenado para quienes desean ver las maravillas arquitectonicas de la ciudad sin el calor diurno ni la obstruccion de un coche cerrado.\n\nSu aventura comienza con una comoda recogida, donde subira a un jeep robusto pero comodo sin techo. Sienta la fresca brisa nocturna mientras su experto guia \"explorador\" navega por la historica ciudad amurallada.\n\nPuntos destacados del tour:\n\nHawa Mahal: observe el \"Palacio de los Vientos\" brillando con miles de luces, resaltando sus intrincadas ventanas en forma de panal.\n\nJal Mahal: detengase en la orilla del lago Man Sagar para ver el Palacio del Agua aparentemente flotando sobre un espejo plateado brillante.\n\nColina del fuerte de Nahargarh: suba por las colinas Aravalli para el final definitivo, una vista panoramica impresionante de todo el horizonte de Jaipur brillando abajo (si elige esta opcion)\n\nMuseo Albert Hall: maravillese con la arquitectura indosarracena banada en colores vibrantes y cambiantes.\n\nDurante todo el viaje, su guia compartira historias \"de los conocedores\" sobre los reyes y leyendas que construyeron estos monumentos. Ya sea que sea un entusiasta de la fotografia o busque una velada romantica, este safari ofrece los mejores asientos de la casa.\n\n### Que incluye\n\n- Safari privado en jeep abierto\n- Conductor profesional/guia explorador\n- Recogida y traslado al hotel (dentro de los limites de la ciudad)\n- Agua embotellada\n- Todo el combustible, estacionamiento e impuestos de peaje",
+  "highlights": [
+   "Disfrute de un jeep privado sin techo para vistas nocturnas de 360 grados sin obstrucciones."
+  ],
+  "included": [
+   "Safari privado en jeep abierto\nConductor profesional/guia explorador\nRecogida y traslado al hotel (dentro de los limites de la ciudad)\nAgua embotellada\nTodo el combustible, estacionamiento e impuestos de peaje"
+  ],
+  "notIncluded": [
+   "Comida y bebidas\nEntradas a monumentos (si elige entrar a sitios abiertos)\nPropinas"
+  ]
+ },
+ "jaipur-ajmer-pushkar-day-trip-with-lunch-and": {
+  "title": "Jaipur: excursion de un dia a Ajmer y Pushkar con almuerzo y paseo en camello",
+  "metaTitle": "Jaipur: excursion a Ajmer y Pushkar",
+  "metaDescription": "Visite el dargah de Ajmer Sharif, el venerado santuario sufi de Khwaja Moinuddin Chishti, luego Pushkar con almuerzo y paseo en camello.",
+  "shortDescription": "Dargah de Ajmer Sharif: visite el venerado santuario sufi de Khwaja Moinuddin Chishti",
+  "fullDescription": "Jaipur: excursion de un dia a Ajmer y Pushkar con almuerzo y paseo en camello. Dargah de Ajmer Sharif: visite el venerado santuario sufi de Khwaja Moinuddin Chishti.\n\nExplore Ajmer y Pushkar en un tour de dia completo desde Jaipur, visitando sitios historicos y espirituales clave. Comience a las 8:00h con un trayecto de 2 horas hacia Ajmer, disfrutando de vistas pintorescas de Aravalli en el camino.\n\nAl llegar a Ajmer hacia las 10:00h, comience en el dargah de Ajmer Sharif, el famoso santuario sufi dedicado a Khwaja Moinuddin Chishti. Pase una hora absorbiendo su ambiente espiritual y arquitectura mogol. Cerca esta Adhai Din Ka Jhonpra, una mezquita historica construida en dos dias y medio, que muestra artesania indoislamica. Pase 30 minutos aqui para apreciar sus pilares y cupulas talladas.\n\nA continuacion, haga un trayecto de media hora hacia Pushkar, llegando hacia las 13:00h. Haga una pausa para almorzar en restaurantes locales que ofrecen auténticos platos vegetarianos rajastanis, luego visite el templo de Brahma, uno de los pocos en el mundo dedicado al senor Brahma. Despues de 30 minutos aqui, paseese hasta el lago Pushkar, un sitio sagrado con 52 ghats donde los peregrinos realizan rituales. Pase 45 minutos disfrutando del ambiente sereno del lago y sus hermosos alrededores.\n\nDespues, disfrute de un paseo en camello por las dunas del desierto alrededor de Pushkar, que ofrece vistas panoramicas del arido paisaje y un vistazo a la vida rural rajastani. Este suave paseo es una forma memorable de experimentar el encanto del desierto y la cultura local.\n\nFinalmente, explore el bazar de Pushkar, conocido por su artesania, joyeria y recuerdos, perfecto para capturar un pedazo de la artesania rajastani. Pase 30 minutos comprando antes de comenzar su viaje de regreso a Jaipur hacia las 16:30h, llegando por la noche.\n\n### Que incluye\n\n- Recogida y traslado en vehiculo privado con aire acondicionado\n- Viaje de 3 horas de Jaipur a Pushkar\n- 1 parada para comer (a su propio costo)\n- Gastos de combustible\n- Peaje y estacionamiento\n- Visita al dargah de Ajmer Sharif\n- Visita al templo de Brahma\n- Exploracion del lago Pushkar y sus ghats\n\n### No incluye\n\n- Comidas y bebidas\n- Gastos personales\n- Propinas",
+  "highlights": [
+   "Dargah de Ajmer Sharif: visite el venerado santuario sufi de Khwaja Moinuddin Chishti"
+  ],
+  "included": [
+   "Recogida y traslado en vehiculo privado con aire acondicionado\nViaje de 3 horas de Jaipur a Pushkar\n1 parada para comer (a su propio costo)\nGastos de combustible\nPeaje y estacionamiento\nVisita al dargah de Ajmer Sharif\nVisita al templo de Brahma\nExploracion del lago Pushkar y sus ghats"
+  ],
+  "notIncluded": [
+   "Comidas y bebidas\nGastos personales\nPropinas"
+  ]
+ },
  "jaisalmer-fort-heritage-walking-tour": {
   "title": "Jaisalmer: paseo patrimonial con guía profesional",
   "metaTitle": "Jaisalmer a pie: Fuerte Dorado, havelis y lago Gadisar",
