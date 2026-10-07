@@ -86491,6 +86491,375 @@ export const FR_TOURS: Record<string, TourT> = {
    "Retour a l'hotel"
   ]
  },
+ "dubai-new-years-eve-megayacht-cruise-with-dinner-and-fireworks": {
+  "title": "Dubai : croisiere megayacht du Nouvel An avec diner et feu d'artifice",
+  "metaTitle": "Dubai : megayacht reveillon, feu d'artifice",
+  "metaDescription": "Le reveillon du 31 decembre sur un megayacht a Dubai, avec diner buffet illimite, boissons premium et feux d'artifice vus de l'eau.",
+  "shortDescription": "Le reveillon du Nouvel An a Dubai est la nuit la plus demandee de l'annee, et les feux d'artifice, au-dessus du Burj Khalifa, au-dessus d'Atlantis, le long de la Palm, partent de plusieurs points a la fois. Depuis la terre, vous en voyez un. Depuis l'eau...",
+  "fullDescription": "Le reveillon du Nouvel An a Dubai est la nuit la plus demandee de l'annee, et les feux d'artifice, au-dessus du Burj Khalifa, au-dessus d'Atlantis, le long de la Palm, partent de plusieurs points a la fois. Depuis la terre, vous en voyez un. Depuis l'eau, vous voyez tout le littoral s'illuminer ensemble.\n\nC'est une soiree de cinq heures sur le Rose Royale, un megayacht plutot qu'un dhow converti : un veritable salon avec des tables, un pont d'observation superieur, et assez d'espace pour que personne ne passe minuit dans un couloir.\n\nInclus : un buffet illimite au standard hotelier, des boissons non alcoolisees, des spiritueux premium et du prosecco tout au long de la soiree, et un divertissement en direct. Les billets VIP ajoutent l'embarquement prioritaire et l'enregistrement en salon.\n\nDeux choses a clarifier. C'est une navigation du 31 decembre et rien d'autre : elle ne fonctionne pas a d'autres dates. Et elle se vend plus tot que presque tout a Dubai ; en novembre, les bons niveaux sont deja partis.\n\nSi vous etes a Dubai pour le Nouvel An et n'avez pas encore regle votre soiree, ceci la regle en une seule reservation.",
+  "highlights": [
+   "Le 31 decembre uniquement : les feux d'artifice du Burj Khalifa, d'Atlantis et de la Palm depuis l'eau",
+   "Cinq heures sur un megayacht avec un veritable salon et un pont superieur",
+   "Buffet illimite au standard hotelier, spiritueux premium et prosecco",
+   "Le niveau VIP ajoute l'embarquement prioritaire et l'enregistrement en salon",
+   "Attention : se vend d'ici novembre, c'est un produit a reserver tot"
+  ],
+  "included": [
+   "Enregistrement en salon VIP et embarquement prioritaire pour les detenteurs de billets VIP",
+   "Buffet illimite au standard hotel 5 etoiles",
+   "Boissons non alcoolisees, boissons alcoolisees premium, prosecco",
+   "Stands de cuisine en direct",
+   "Divertissement et artistes en direct",
+   "Musique DJ en direct et danse"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel",
+   "Pourboires",
+   "Coffres-forts",
+   "Service de vestiaire",
+   "Wi-Fi"
+  ]
+ },
+ "abu-dhabi-private-helicopter-tour-over-the-corniche": {
+  "title": "Abu Dhabi : tour prive en helicoptere au-dessus de la Corniche",
+  "metaTitle": "Abu Dhabi : helicoptere prive, Corniche",
+  "metaDescription": "Vol prive de dix-sept minutes au-dessus d'Abu Dhabi, avec commentaire en direct, Corniche, Emirates Palace et Grande Mosquee.",
+  "shortDescription": "Un vol prive de dix-sept minutes au-dessus d'Abu Dhabi, assez long pour voir toute la forme de la ville et assez court pour que personne ne s'agite.",
+  "fullDescription": "Un vol prive de dix-sept minutes au-dessus d'Abu Dhabi, assez long pour voir toute la forme de la ville et assez court pour que personne ne s'agite.\n\nLe trajet couvre la Corniche qui longe le front de mer, l'Emirates Palace, le Marina Mall et la Grande Mosquee Cheikh Zayed, qui vue du ciel se lit comme l'enorme complexe qu'elle est plutot que la facade que vous photographiez depuis le sol. Le commentaire en direct passe par le casque pour que vous sachiez ce que vous regardez tandis que vous etes au-dessus.\n\nPrive signifie que l'appareil est a vous : pas d'etrangers, pas de siege attribue, et l'equipage peut orienter le vol pour les photos plutot que de suivre un circuit fixe.\n\nNotes pratiques. Les regles de poids et d'equilibre signifient que le poids des passagers est pris a l'enregistrement, et l'equipage attribue les sieges en conséquence ; une fenetre n'est pas garantie sur un vol partage mais sur un vol prive il y en a une pour tout le monde. Les vols dependent de la meteo, la brume et le vent de l'ete deplacent les creneaux, et c'est une reservation a faire avec une journee de marge de chaque cote plutot que pour votre derniere apres-midi.",
+  "highlights": [
+   "Dix-sept minutes, en prive : l'appareil est a vous",
+   "La Corniche, l'Emirates Palace, le Marina Mall et la Grande Mosquee vus du ciel",
+   "Commentaire en direct au casque",
+   "Siege fenetre pour tout le monde, contrairement a un vol partage",
+   "Attention : depend de la meteo, prevoyez une journee de marge de chaque cote"
+  ],
+  "included": [
+   "Vol en helicoptere exclusif de 17 minutes",
+   "Casques pour entendre clairement le pilote"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel",
+   "Nourriture et boissons"
+  ]
+ },
+ "louvre-abu-dhabi-general-admission-ticket": {
+  "title": "Louvre Abu Dhabi : billet d'entree generale",
+  "metaTitle": "Louvre Abu Dhabi : entree generale",
+  "metaDescription": "Le dome de Jean Nouvel et sa pluie de lumiere, une collection classee chronologiquement entre civilisations, guide audio smartphone inclus.",
+  "shortDescription": "Le dome de Jean Nouvel est la raison pour laquelle la plupart des gens viennent et il merite cette reputation. Pres de huit mille etoiles metalliques en huit couches, flottant au-dessus des galeries sur des supports presque invisibles, laissant tomber un motif changeant...",
+  "fullDescription": "Le dome de Jean Nouvel est la raison pour laquelle la plupart des gens viennent et il merite cette reputation. Pres de huit mille etoiles metalliques en huit couches, flottant au-dessus des galeries sur des supports presque invisibles, laissant tomber un motif changeant que les architectes ont appele la pluie de lumiere sur les places en dessous. Cela change d'heure en heure et c'est gratuit de se tenir dessous une fois a l'interieur.\n\nLa collection en dessous est organisee chronologiquement a travers les civilisations plutot que divisee par nation, donc des objets fabriques au meme siecle dans differentes parties du monde sont ensemble. C'est un argument delibere sur l'histoire humaine partagee et c'est la chose la plus interessante du musee apres le batiment.\n\nVotre billet couvre les galeries permanentes, les expositions temporaires, les places exterieures sous le dome, le cafe et la boutique, plus l'application smartphone qui fonctionne comme guide audio.\n\nAttention : ferme le lundi. Prevoyez autour de cela : c'est l'erreur la plus courante chez les visiteurs de l'ile de Saadiyat.\n\nPrevoyez deux a trois heures. Allez-y par une journee lumineuse si vous pouvez choisir, et passez une partie de votre temps a l'exterieur sur les places plutot que tout dans les galeries ; le dome est l'exposition.",
+  "highlights": [
+   "Le dome de Jean Nouvel : des milliers d'etoiles et la pluie de lumiere changeante",
+   "Galeries accrochees chronologiquement a travers les civilisations, pas par pays",
+   "Collection permanente, expositions temporaires, places, cafe et boutique",
+   "Application de guide audio smartphone incluse",
+   "Attention : ferme le lundi, l'erreur la plus courante ici"
+  ],
+  "included": [
+   "Billet d'entree au Louvre Abu Dhabi",
+   "Acces aux galeries du musee, aux expositions temporaires et aux places sous le dome",
+   "Application smartphone"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Visite guidee et atelier",
+   "Kayak et catamaran electrique",
+   "Experience VR"
+  ]
+ },
+ "louvre-abu-dhabi-express-guided-tour": {
+  "title": "Louvre Abu Dhabi : visite guidee express",
+  "metaTitle": "Louvre Abu Dhabi : visite express",
+  "metaDescription": "Quarante-cinq minutes avec un mediateur du musee, les points forts d'une collection classee chronologiquement entre civilisations.",
+  "shortDescription": "Quarante-cinq minutes avec un mediateur du musee, parcourant les points forts d'une collection organisee d'une facon que presque aucun autre musee n'utilise, et cet agencement est exactement ce a quoi un guide sert.",
+  "fullDescription": "Quarante-cinq minutes avec un mediateur du musee, parcourant les points forts d'une collection organisee d'une facon que presque aucun autre musee n'utilise, et cet agencement est exactement ce a quoi un guide sert.\n\nLe Louvre Abu Dhabi accroche ses galeries chronologiquement entre civilisations plutot que de les diviser par pays. Un bronze chinois, un grec et un mesopotamien du meme siecle partagent une salle, et le point souleve n'atterrit que si quelqu'un le souligne. C'est ce que fait cette visite, dans le temps que la plupart des visiteurs passeraient a trouver l'entree.\n\nVous entendez le guide via un casque, donc cela fonctionne meme dans une galerie bondee.\n\nAttention : votre billet d'entree au musee n'est pas inclus dans cette visite et doit etre reserve en meme temps. Dites-le-nous et nous organiserons les deux ensemble : vous presenter avec seulement la visite ne vous fera pas franchir la porte.\n\nA prevoir aussi : le musee est ferme le lundi, et la pluie de lumiere du dome, le motif que ses pres de huit mille etoiles projettent dans les galeries, est au mieux au milieu d'une journee lumineuse plutot qu'en fin d'apres-midi.",
+  "highlights": [
+   "Quarante-cinq minutes avec un mediateur du musee, casques inclus",
+   "L'accrochage chronologique entre civilisations, explique plutot que deduit",
+   "Assez long pour comprendre la collection, assez court pour continuer apres",
+   "Attention : l'entree au musee n'est PAS incluse et doit etre reservee avec",
+   "Attention : ferme le lundi ; la lumiere du dome est meilleure en milieu de journee"
+  ],
+  "included": [
+   "Une visite de 45 minutes pour explorer les points forts de la collection du musee",
+   "Casques pour entendre clairement le guide",
+   "Les billets d'entree au Louvre Abu Dhabi ne sont pas inclus et doivent etre reserves avec cette visite"
+  ],
+  "notIncluded": [
+   "Billet d'entree (adultes 18 ans et plus) a acheter separement"
+  ]
+ },
+ "dubai-fountain-abra-lake-ride-at-the-burj-khalifa": {
+  "title": "Dubai : balade en abra sur le lac de la fontaine, au Burj Khalifa",
+  "metaTitle": "Dubai : abra sur Burj Lake",
+  "metaDescription": "Trente minutes sur Burj Lake en abra traditionnel, au pied du Burj Khalifa, pendant que la fontaine fonctionne, jets jusqu'a 140 metres.",
+  "shortDescription": "Trente minutes sur Burj Lake dans un abra traditionnel en bois, au pied du Burj Khalifa, pendant que la fontaine fonctionne.",
+  "fullDescription": "Trente minutes sur Burj Lake dans un abra traditionnel en bois, au pied du Burj Khalifa, pendant que la fontaine fonctionne.\n\nTout le monde regarde la fontaine de Dubai depuis la promenade, trois rangs derriere une rambarde. Depuis un bateau sur le lac, vous etes a l'interieur de son arc : les jets atteignent environ 140 metres et les embruns portent, ce qui fait partie de l'attrait, et le Burj Khalifa se dresse directement au-dessus de vous avec le Souk Al Bahar et le centre commercial illumines le long du rivage.\n\nL'abra est le meme type de bateau en bois utilise sur la crique de Dubai, ce qui cree un contraste etrange et plutot reussi avec le decor.\n\nLa fontaine se produit toutes les demi-heures en soiree et chaque spectacle dure quelques minutes, donc une balade de trente minutes en attrapera un et generalement une partie d'un autre.\n\nDeux remarques pratiques. Les creneaux du soir sont ceux que tout le monde veut et ils se remplissent, surtout le week-end : reservez a l'avance plutot que de vous presenter. Et vous aurez des embruns selon le vent et la position du bateau, ce que les gens apprecient ou doivent eviter en s'asseyant a l'arriere.",
+  "highlights": [
+   "A l'interieur de l'arc de la fontaine de Dubai plutot que derriere la rambarde",
+   "Directement sous le Burj Khalifa avec le centre commercial illumine le long du rivage",
+   "Un abra traditionnel en bois, le meme type utilise sur la crique de Dubai",
+   "Trente minutes, attrapant un spectacle complet et generalement une partie d'un autre",
+   "Attention : les creneaux du soir se remplissent le week-end ; attendez-vous a des embruns"
+  ],
+  "included": [
+   "Balade en bateau de 30 minutes en taxi aquatique traditionnel"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons"
+  ]
+ },
+ "dubai-sunset-yacht-cruise-with-snacks-and-drinks": {
+  "title": "Dubai : croisiere en yacht au coucher du soleil avec collations et boissons",
+  "metaTitle": "Dubai : yacht coucher de soleil, collations",
+  "metaDescription": "Une heure sur un yacht au coucher du soleil depuis la Dubai Marina, avec eau fraiche, boissons non alcoolisees et collations illimitees.",
+  "shortDescription": "L'heure du coucher du soleil, sur un yacht, pour environ le prix d'un bon dejeuner, et sur ce littoral, le coucher de soleil est tout l'argument.",
+  "fullDescription": "L'heure du coucher du soleil, sur un yacht, pour environ le prix d'un bon dejeuner, et sur ce littoral, le coucher de soleil est tout l'argument.\n\nDubai fait face a l'ouest vers le Golfe, donc le soleil se couche sur une eau ouverte avec la skyline derriere vous plutot que devant. Depuis le pont, les tours changent de couleur pendant environ vingt minutes puis les lumieres s'allument toutes d'un coup, ce qui est le moment que tout le monde photographie et que peu reussissent bien.\n\nIl y a un pont inferieur climatise pour quand le vent se leve, un pont superieur ouvert pour la vue, de l'eau fraiche illimitee, des boissons non alcoolisees et des collations, et un equipage qui prendra des photos plutot que de vous laisser faire.\n\nUne heure, depuis la Dubai Marina.\n\nDeux remarques honnetes. Les heures de coucher de soleil changent beaucoup au fil de l'annee : vers 17h30 en decembre et apres 19h00 en juin, donc verifiez a quelle heure part reellement votre reservation plutot que de supposer un creneau du soir. Et c'est une croisiere partagee : agreable et sociale, pas privee. Si vous voulez le bateau pour vous seuls, demandez-nous et nous etablirons un prix pour un affretement prive a la place.",
+  "highlights": [
+   "L'heure du coucher de soleil avec le soleil sur une eau ouverte et la skyline derriere",
+   "Pont inferieur climatise et pont superieur ouvert",
+   "Eau fraiche illimitee, boissons non alcoolisees et collations",
+   "Equipage qui prend vos photos plutot que de vous laisser faire",
+   "Attention : le coucher de soleil passe de 17h30 en hiver a apres 19h00 en ete, verifiez votre creneau"
+  ],
+  "included": [
+   "Capitaine et equipage professionnels",
+   "Occasions de photos",
+   "Boissons non alcoolisees",
+   "Eau en bouteille fraiche illimitee",
+   "Equipement de securite comme des gilets de sauvetage",
+   "Pont inferieur climatise",
+   "Pont superieur en plein air",
+   "Repas leger vegetarien/non vegetarien (option apres-midi : 15h00 et 19h30)",
+   "Repas barbecue vegetarien/non vegetarien (option coucher de soleil : 17h00)",
+   "Diner barbecue vegetarien/non vegetarien (option diner : 20h00)",
+   "Toilettes"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel",
+   "Boissons alcoolisees (disponibles a l'achat a bord)",
+   "Votre propre nourriture et boissons (uniquement si vous optez pour une option privee)"
+  ]
+ },
+ "dubai-marina-yacht-tour-with-breakfast-or-barbecue": {
+  "title": "Dubai Marina : tour en yacht avec petit-dejeuner ou barbecue",
+  "metaTitle": "Dubai Marina : yacht, petit-dej ou BBQ",
+  "metaDescription": "Une heure en yacht depuis Dubai Marina, la facon la moins chere d'acceder a ce littoral en bateau, petit-dejeuner ou barbecue en option.",
+  "shortDescription": "Une heure en yacht depuis Dubai Marina, la facon la moins chere d'acceder a ce littoral en bateau et assez de temps pour en voir toute la longueur.",
+  "fullDescription": "Une heure en yacht depuis Dubai Marina, la facon la moins chere d'acceder a ce littoral en bateau et assez de temps pour en voir toute la longueur.\n\nVous passez devant les tours de la Marina, Bluewaters et Ain Dubai, le croissant exterieur de la Palm et le Burj Al Arab, avec toute la skyline empilee derriere. Il y a un salon inferieur climatise avec wifi gratuit et un pont ouvert au-dessus, donc l'heure fonctionne en ete comme en hiver, ce qui est plus qu'on ne peut dire des hors-bords ouverts.\n\nUn petit-dejeuner leger ou un barbecue peut etre ajoute, et c'est ici qu'il faut lire l'option attentivement : l'heure de base inclut la croisiere et un guide virtuel, et la nourriture est un extra choisi plutot qu'incluse.\n\nCapitaine, equipage et gilets de sauvetage sont inclus.\n\nDeux remarques pratiques. La prise en charge a l'hotel n'est pas incluse : le quai de la marina est facile a atteindre en taxi ou en metro. Et les navigations au coucher du soleil sont celles qui se vendent les premieres, alors si c'est ce que vous voulez, reservez plus a l'avance que vous ne le pensez necessaire. Les departs matinaux sont plus calmes, plus frais et bien meilleurs pour les photos des tours.",
+  "highlights": [
+   "Une heure depuis Dubai Marina devant Ain Dubai, la Palm et le Burj Al Arab",
+   "Salon inferieur climatise avec wifi, plus pont ouvert au-dessus",
+   "Petit-dejeuner ou barbecue disponible en extra choisi",
+   "Capitaine, equipage et gilets de sauvetage inclus",
+   "Attention : pas de prise en charge a l'hotel ; les navigations au coucher du soleil se vendent les premieres"
+  ],
+  "included": [
+   "Croisiere en yacht",
+   "Guide touristique virtuel",
+   "Capitaine",
+   "Gilet de sauvetage",
+   "Petit-dejeuner leger (si option selectionnee)",
+   "Salon entierement climatise avec acces wifi gratuit",
+   "Nourriture barbecue (si option de 2 ou 3 heures selectionnee)"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel",
+   "Baignade",
+   "Restrictions alimentaires",
+   "Boissons alcoolisees du bar",
+   "Nourriture (sur l'option 1 heure)"
+  ]
+ },
+ "dubai-aquarium-and-underwater-zoo-ticket": {
+  "title": "Dubai : billet pour l'Aquarium et le Zoo sous-marin",
+  "metaTitle": "Dubai : Aquarium et Zoo sous-marin",
+  "metaDescription": "Le bassin de dix millions de litres du Dubai Mall, tunnel pietonnier, Penguin Cove et nurserie, plusieurs niveaux de billets disponibles.",
+  "shortDescription": "Le bassin de dix millions de litres que vous avez deja longe si vous etes alle au Dubai Mall : ce billet vous emmene a l'interieur plutot que de regarder par le panneau d'observation depuis les boutiques.",
+  "fullDescription": "Le bassin de dix millions de litres que vous avez deja longe si vous etes alle au Dubai Mall : ce billet vous emmene a l'interieur plutot que de regarder par le panneau d'observation depuis les boutiques.\n\nLe tunnel pietonnier passe sous l'eau avec des raies et des requins-tigres de sable au-dessus, et le Zoo sous-marin au niveau superieur est organise par habitat plutot que par espece : une foret tropicale inondee avec des piranhas et des silures geants, un rivage rocheux, et Penguin Cove, ou les manchots royaux et manchots papous vivent derriere une vitre a une temperature qui est un vrai soulagement en aout.\n\nIl y a aussi une nurserie ou les jeunes animaux sont eleves, qui est incluse et que la plupart des visiteurs manquent sans le remarquer.\n\nPrevoyez une heure, un peu plus avec des enfants.\n\nAttention : lisez bien l'option que vous choisissez. Plusieurs niveaux existent : entree simple, pass VIP, tours en bateau a fond de verre au-dessus du bassin principal, snorkeling en cage avec les requins, et rencontres avec les manchots, et ils different substantiellement en prix et en contenu. Dites-nous quelle experience vous voulez vraiment et nous confirmerons le bon niveau avant que vous ne payiez, plutot que de vous laisser le decouvrir au tourniquet.",
+  "highlights": [
+   "A l'interieur du bassin de dix millions de litres, pas en train de regarder depuis le centre commercial",
+   "Tunnel pietonnier avec des raies et des requins-tigres de sable au-dessus",
+   "Zoo sous-marin par habitat, plus Penguin Cove et la nurserie",
+   "Environ une heure, confortablement en interieur",
+   "Attention : plusieurs niveaux de billets existent, nous confirmons le bon avant que vous ne payiez"
+  ],
+  "included": [
+   "Toutes les options : billet d'entree Aquarium et Zoo sous-marin avec Penguin Cove et nurserie",
+   "Verifiez chaque option pour les inclusions supplementaires"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Photos"
+  ]
+ },
+ "abu-dhabi-guided-kayak-tour-around-the-louvre": {
+  "title": "Abu Dhabi : tour guide en kayak autour du Louvre",
+  "metaTitle": "Abu Dhabi : kayak autour du Louvre",
+  "metaDescription": "Une heure en kayak autour du Louvre Abu Dhabi, la perspective pour laquelle le batiment a ete concu, avec guide et gilets inclus.",
+  "shortDescription": "Une heure sur l'eau a faire le tour du Louvre Abu Dhabi, la perspective pour laquelle le batiment a ete concu et que presque personne ne voit.",
+  "fullDescription": "Une heure sur l'eau a faire le tour du Louvre Abu Dhabi, la perspective pour laquelle le batiment a ete concu et que presque personne ne voit.\n\nLe dome de Jean Nouvel se trouve deliberement au-dessus de l'eau, et ses installations exterieures descendent jusqu'a la mer. Depuis un kayak, vous passez dessous et autour a hauteur des yeux, assez pres pour voir comment le treillis est assemble, tandis que les visiteurs du musee sont a l'interieur a vous regarder.\n\nL'eau ici est calme et abritee, donc aucune experience n'est necessaire. Un guide dirige tout au long et fixe le rythme.\n\nGilets de sauvetage, sacs etanches et un briefing de securite sont inclus, et il y a une station de recharge en eau plutot que de l'eau en bouteille : apportez donc une bouteille que vous pouvez remplir.\n\nAttention : deux choses a prevoir. Le Louvre Abu Dhabi est ferme le lundi ; la balade en kayak n'est pas affectee mais si vous voulez les deux, evitez un lundi. Et entre juin et septembre, prenez le creneau le plus tot ou le plus tard disponible : une heure sur une eau ouverte sous le soleil de midi d'Abu Dhabi est plus difficile que ca ne semble, et il n'y a pas d'ombre la-bas.\n\nMeilleur a chaque extremite de la journee, quand la lumiere traverse le dome en angle plutot que directement de haut.",
+  "highlights": [
+   "Une heure a faire le tour du dome du Louvre depuis l'eau",
+   "Au-dela des installations exterieures a hauteur des yeux, assez pres pour voir le treillis",
+   "Eau calme et abritee, aucune experience requise",
+   "Guide, gilet de sauvetage, sacs etanches et briefing de securite inclus",
+   "Attention : musee ferme le lundi ; prenez un creneau tot ou tard en ete"
+  ],
+  "included": [
+   "Gilets de sauvetage",
+   "Sacs etanches",
+   "Briefing de securite",
+   "Station de recharge en eau (apportez votre propre bouteille)"
+  ],
+  "notIncluded": [
+   "Bouteille d'eau",
+   "Billets d'entree au musee",
+   "Prise en charge et retour a l'hotel",
+   "Nourriture et boissons",
+   "Pourboires"
+  ]
+ },
+ "the-green-planet-dubai-indoor-rainforest-ticket": {
+  "title": "The Green Planet Dubai : billet pour la foret tropicale interieure",
+  "metaTitle": "The Green Planet Dubai : foret interieure",
+  "metaDescription": "Un bio-dome a City Walk, une veritable foret tropicale avec plus de trois mille plantes et animaux, et le plus grand arbre interieur vivant au monde.",
+  "shortDescription": "Un bio-dome en verre scelle a City Walk abritant une veritable foret tropicale : plus de trois mille plantes et animaux disposes autour du plus grand arbre interieur artificiel vivant au monde.",
+  "fullDescription": "Un bio-dome en verre scelle a City Walk abritant une veritable foret tropicale : plus de trois mille plantes et animaux disposes autour du plus grand arbre interieur artificiel vivant au monde.\n\nVous entrez par la canopee et descendez a travers quatre niveaux, ce qui est le bon ordre : la canopee a les paresseux, les oiseaux et les chauves-souris en vol libre, les niveaux intermediaires ont les reptiles et les insectes, et le sol de la foret inondee en bas a les poissons et les caimans. Les animaux sont largement en liberte dans le dome, donc ce que vous voyez depend de l'endroit ou ils se trouvent.\n\nCela prend environ une heure et un quart, et c'est l'une des rares attractions de Dubai qui est vraiment meilleure pour les jeunes enfants que pour les adultes, bien que l'arbre lui-meme justifie le billet a lui seul.\n\nDeux remarques pratiques. Le dome est maintenu a l'humidite de la foret tropicale, ce qui est un choc en venant de la climatisation et embue les objectifs d'appareil photo pendant les premieres minutes ; laissez-leur du temps plutot que de les essuyer. Et les sessions de nourrissage et les discussions sur les animaux ont lieu a des heures fixes tout au long de la journee : demandez a l'accueil a votre arrivee et planifiez autour, car c'est la meilleure partie.",
+  "highlights": [
+   "Un bio-dome scelle avec plus de 3 000 plantes et animaux",
+   "Le plus grand arbre interieur artificiel vivant au monde",
+   "Quatre niveaux parcourus de haut en bas, de la canopee au sol de la foret inondee",
+   "Paresseux, oiseaux et chauves-souris en vol libre, reptiles et caimans",
+   "Attention : l'humidite de la foret tropicale embue les objectifs, laissez-les s'adapter"
+  ],
+  "included": [
+   "Frais d'entree pour Green Planet"
+  ],
+  "notIncluded": [
+   "Repas et boissons"
+  ]
+ },
+ "aya-universe-dubai-entry-ticket": {
+  "title": "Dubai : billet d'entree pour AYA Universe",
+  "metaTitle": "Dubai : AYA Universe",
+  "metaDescription": "Douze zones immersives a WAFI City, construites autour de la lumiere, du son et de la projection, parking inclus.",
+  "shortDescription": "Douze zones immersives a WAFI City construites autour de la lumiere, du son et de la projection : un environnement numerique a parcourir plutot qu'un musee, et l'une des rares choses a Dubai destinees a etre regardees plutot que chevauchees.",
+  "fullDescription": "Douze zones immersives a WAFI City construites autour de la lumiere, du son et de la projection : un environnement numerique a parcourir plutot qu'un musee, et l'une des rares choses a Dubai destinees a etre regardees plutot que chevauchees.\n\nLes zones passent d'une aurore a une foret bioluminescente, une surface lunaire et une salle de miroirs infinie, la plupart interactives d'une maniere ou d'une autre : des surfaces qui repondent au toucher, des sols qui bougent sous vous, un son qui vous suit entre les salles. Cela fonctionne pour les adultes et pour les enfants, ce qui est une liste vraiment courte d'attractions a Dubai.\n\nC'est entierement en interieur et climatise.\n\nPrevoyez environ quatre-vingt-dix minutes. Les photographes devraient prevoir plus longtemps, et devraient savoir qu'un telephone gere mieux ces salles que la plupart des appareils photo : les niveaux de lumiere sont bas et changent deliberement.\n\nLe House of Hype Discover Pass est une option supplementaire couvrant une attraction separee dans le meme complexe ; prenez-la ou non, mais decidez a la reservation plutot qu'a la porte.\n\nLe parking est inclus, ce qui dans cette partie de Dubai vaut quelque chose.",
+  "highlights": [
+   "Douze zones interactives de lumiere et de son, de l'aurore a la surface lunaire",
+   "Des salles qui repondent au toucher et au mouvement",
+   "Entierement en interieur et climatise",
+   "Fonctionne aussi bien pour les adultes que pour les enfants, ce qui est rare ici",
+   "Parking inclus ; House of Hype est une option supplementaire choisie a la reservation"
+  ],
+  "included": [
+   "Billet d'entree AYA Universe",
+   "House of Hype Discover Pass (si option selectionnee)",
+   "Parking"
+  ],
+  "notIncluded": []
+ },
+ "dubai-speedboat-tour-marina-palm-atlantis-and-burj-al-arab": {
+  "title": "Dubai : tour en hors-bord, Marina, Palm, Atlantis et Burj Al Arab",
+  "metaTitle": "Dubai : hors-bord, Marina a Burj Al Arab",
+  "metaDescription": "Plus rapide et moins cher qu'un yacht : hors-bord depuis la Marina, le long de la Palm jusqu'a Atlantis et au large du Burj Al Arab.",
+  "shortDescription": "Plus rapide et nettement moins cher qu'un yacht, et pour de la pure observation, sans doute meilleur : un hors-bord est bas sur l'eau, se deplace rapidement entre les monuments, et s'arrete ou sont les photos.",
+  "fullDescription": "Plus rapide et nettement moins cher qu'un yacht, et pour de la pure observation, sans doute meilleur : un hors-bord est bas sur l'eau, se deplace rapidement entre les monuments, et s'arrete ou sont les photos.\n\nLe parcours quitte la Dubai Marina, passe devant Ain Dubai sur Bluewaters, le long du croissant de la Palm avec Atlantis au bout, et s'arrete au large du Burj Al Arab, qui depuis l'eau est le seul angle qui montre pourquoi il a ete construit sur sa propre ile.\n\nUn guide indique ce que vous voyez passer et le pilote maintient la position aux arrets assez longtemps pour que tout le monde obtienne la photo, plutot que de tourner une fois et repartir.\n\nEau en bouteille et de vrais gilets de sauvetage sont inclus.\n\nDeux remarques honnetes. Vous aurez des embruns, donc les telephones ont besoin d'une pochette etanche ou d'une prise ferme, et ce n'est pas le voyage pour quiconque veut rester sec. Et c'est un bateau partage : sociable, rapide, et pas celui a choisir si vous esperiez du calme.\n\nPour quiconque hesite entre ceci et une croisiere en yacht : le hors-bord est la meilleure heure d'observation, le yacht est la meilleure apres-midi.",
+  "highlights": [
+   "De la Marina a Ain Dubai, le croissant de la Palm, Atlantis et le Burj Al Arab",
+   "Arrets photo maintenus assez longtemps pour tout le monde, pas un simple passage",
+   "Un guide qui raconte ce que vous voyez passer",
+   "Gilets de sauvetage et eau en bouteille inclus",
+   "Attention : vous aurez des embruns, apportez une pochette etanche pour votre telephone"
+  ],
+  "included": [
+   "Croisiere panoramique en hors-bord",
+   "Guide",
+   "Eau en bouteille",
+   "Gilets de sauvetage professionnels"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel"
+  ]
+ },
+ "teamlab-phenomena-abu-dhabi-entry-ticket": {
+  "title": "Abu Dhabi : billet d'entree pour teamLab Phenomena",
+  "metaTitle": "Abu Dhabi : teamLab Phenomena",
+  "metaDescription": "Le musee immersif de teamLab sur Saadiyat, installations environnementales qui reagissent a l'air, l'eau et aux visiteurs, casiers et parking gratuits.",
+  "shortDescription": "teamLab est le collectif tokyoite qui cree de l'art dans lequel on marche plutot que qu'on regarde, et Phenomena est leur musee d'Abu Dhabi sur l'ile de Saadiyat : un espace concu sur mesure dans le quartier culturel a cote du Louvre.",
+  "fullDescription": "teamLab est le collectif tokyoite qui cree de l'art dans lequel on marche plutot que qu'on regarde, et Phenomena est leur musee d'Abu Dhabi sur l'ile de Saadiyat : un espace concu sur mesure dans le quartier culturel a cote du Louvre.\n\nLes oeuvres ici sont environnementales plutot que projetees : des installations qui reagissent aux courants d'air, a l'eau, a la temperature et a la presence des gens qui se deplacent a travers elles, donc deux visites ne produisent jamais la meme chose et rien n'est en boucle. Certaines salles se traversent a gue, dans d'autres on est entoure, et la frontiere entre une oeuvre et la suivante est deliberement floue.\n\nChoses pratiques qui ameliorent la visite. Portez quelque chose dans lequel vous pouvez bouger et des chaussures faciles a retirer, car plusieurs salles se visitent pieds nus. Certains sols sont mouilles et certains espaces sont sombres avec un terrain irregulier : des chaussures plates, pas de talons. Et les sols miroirs sont une caracteristique de ce type d'oeuvre, donc les jupes et les robes valent la peine d'etre reflechies a l'avance.\n\nLe rangement gratuit en casier et le parking sont inclus avec le billet.\n\nPrevoyez au moins deux heures. Les gens prevoient souvent une heure et restent trois.",
+  "highlights": [
+   "Des installations qui reagissent a l'air, l'eau, la temperature et a vous",
+   "Concu sur mesure sur l'ile de Saadiyat, a cote du Louvre",
+   "Rien en boucle : deux visites ne se ressemblent jamais",
+   "Casiers et parking gratuits avec votre billet",
+   "Attention : salles pieds nus, sols mouilles et sombres, et surfaces miroirs, habillez-vous en consequence"
+  ],
+  "included": [
+   "Billet d'entree",
+   "Rangement gratuit en casier",
+   "Parking gratuit"
+  ],
+  "notIncluded": [
+   "Transport vers/depuis l'attraction"
+  ]
+ },
+ "abu-dhabi-reem-central-park-guided-kayak-tour": {
+  "title": "Abu Dhabi : tour guide en kayak a Reem Central Park",
+  "metaTitle": "Abu Dhabi : kayak a Reem Central Park",
+  "metaDescription": "Deux heures de kayak sur les voies navigables de Reem Central Park, au centre d'Abu Dhabi mais presque entierement calme une fois sur l'eau.",
+  "shortDescription": "Deux heures a pagayer sur les voies navigables de Reem Central Park, au centre d'Abu Dhabi et pourtant presque entierement calme une fois sur l'eau.",
+  "fullDescription": "Deux heures a pagayer sur les voies navigables de Reem Central Park, au centre d'Abu Dhabi et pourtant presque entierement calme une fois sur l'eau.\n\nLe parcours sinue entre des rives plantees et sous des ponts, avec les tours de la ville visibles au-dessus de la verdure et presque aucun trafic de bateaux a partager. C'est de l'eau plate tout au long, donc aucune experience n'est requise et le guide fixe un rythme adapte a qui se presente.\n\nC'est une tres bonne option pour quiconque a deja fait la mosquee, le palais et les centres commerciaux et veut quelque chose qui ne soit ni l'un ni l'autre, et pour les familles, puisque l'eau est calme et les kayaks stables.\n\nGuide, kayak, gilet de sauvetage et sacs etanches sont inclus, ainsi que des fruits frais et une station de recharge en eau.\n\nAttention : apportez votre propre bouteille d'eau, il y a une station de recharge plutot que de l'eau en bouteille, ce qui est delibere et signifie que vous devez arriver avec quelque chose a remplir. Portez quelque chose qui peut etre mouille, utilisez une creme solaire que vous n'avez pas peur de nager avec, et entre juin et septembre reservez le creneau le plus tot de la journee ; deux heures de pagayage dans la chaleur de l'apres-midi d'Abu Dhabi est une proposition totalement differente.",
+  "highlights": [
+   "Deux heures sur une eau plate et abritee au centre de la ville",
+   "Des voies navigables sinueuses entre des rives plantees, avec la skyline au-dessus",
+   "Aucune experience necessaire ; kayaks stables et rythme guide",
+   "Kayak, gilet de sauvetage, sacs etanches et fruits frais inclus",
+   "Attention : apportez une bouteille rechargeable, il y a une station de recharge, pas d'eau en bouteille"
+  ],
+  "included": [
+   "Guide touristique",
+   "Equipement de kayak",
+   "Gilets de sauvetage",
+   "Sacs etanches",
+   "Station de recharge en eau (apportez votre propre bouteille)",
+   "Fruits entiers",
+   "Briefing de securite"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel",
+   "Serviettes",
+   "Bouteille d'eau",
+   "Pourboires"
+  ]
+ },
+ "abu-dhabi-electric-catamaran-ride-at-the-louvre": {
+  "title": "Abu Dhabi : balade en catamaran electrique au Louvre",
+  "metaTitle": "Abu Dhabi : catamaran electrique, Louvre",
+  "metaDescription": "Un petit catamaran electrique que vous conduisez vous-meme, sous le dome du Louvre Abu Dhabi, dans un silence quasi total.",
+  "shortDescription": "Un petit catamaran electrique que vous conduisez vous-meme, sur l'eau directement sous le dome du Louvre Abu Dhabi, et comme le moteur est electrique, tout se passe dans un silence quasi total.",
+  "fullDescription": "Un petit catamaran electrique que vous conduisez vous-meme, sur l'eau directement sous le dome du Louvre Abu Dhabi, et comme le moteur est electrique, tout se passe dans un silence quasi total.\n\nCe silence est le point. Le dome du Louvre se trouve deliberement au-dessus de l'eau et le son qu'il produit vu d'en bas fait partie du design ; un moteur hors-bord gacherait cela, et celui-ci ne le fait pas. Vous recevez un bref briefing de conduite, un pare-soleil et une verriere aeree, puis le bateau est a vous.\n\nAucun permis ni experience n'est necessaire. Les commandes sont simples et la zone est abritee.\n\nC'est une courte experience plutot qu'une longue croisiere, donc traitez-la comme quelque chose a associer a une visite de musee plutot qu'une apres-midi en elle-meme : l'ordre naturel est le catamaran d'abord, puis les galeries.\n\nAttention : le Louvre Abu Dhabi est ferme le lundi. L'eau n'est pas affectee, mais si vous prevoyez les deux le meme jour, evitez un lundi. Et il y a des limites d'age et de poids par bateau, donc indiquez-nous votre groupe a la reservation.",
+  "highlights": [
+   "Conduisez-le vous-meme : un bref briefing et aucun permis necessaire",
+   "Electrique et quasi silencieux, directement sous le dome du Louvre",
+   "Pare-soleil et verriere aeree a bord",
+   "S'associe naturellement a une visite de musee, mieux fait avant",
+   "Attention : musee ferme le lundi ; limites d'age et de poids par bateau"
+  ],
+  "included": [
+   "Location de catamaran electrique",
+   "Equipement de securite",
+   "Pare-soleil et verriere aeree",
+   "Breve introduction a la conduite"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Guide personnel",
+   "Achats de souvenirs",
+   "Entree au Louvre Abu Dhabi"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
