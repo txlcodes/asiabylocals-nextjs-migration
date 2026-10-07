@@ -77264,14 +77264,14 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai : billets pour The View at Palm avec transfert GMC Yukon",
   "metaDescription": "Experience de 3 heure(s) a Dubai. Profitez d'un transfert prive pratique vers le The View at The Palm a Dubai. Propose par HARBOR TOURISM LLC.",
   "shortDescription": "Experience de 3 heure(s) a Dubai. Profitez d'un transfert prive pratique vers le The View at The Palm a Dubai. Propose par HARBOR TOURISM LLC.",
-  "fullDescription": "Une experience de 3 heure(s) a Dubai. Profitez d'un transfert prive pratique vers le The View at The Palm a Dubai.\n\nHARBOR TOURISM LLC s'en charge, et 7 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend admission au The View at The Palm, prise en charge et retour prives a l'hotel ou a la residence a Dubai, transport prive en GMC YUKON XL et chauffeur professionnel en uniforme. Il ne comprend pas nourriture et boissons, prevoyez donc un budget separe. Deux voyageurs paient 446 $ ensemble plutot que 420 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "fullDescription": "Une experience de 3 heure(s) a Dubai. Profitez d'un transfert prive pratique vers le The View at The Palm a Dubai.\n\nHARBOR TOURISM LLC s'en charge, et 7 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend admission au The View at The Palm, prise en charge et retour prives a l'hotel ou a la residence a Dubai, transport prive en GMC Yukon XL et chauffeur professionnel en uniforme. Il ne comprend pas nourriture et boissons, prevoyez donc un budget separe. Deux voyageurs paient 446 $ ensemble plutot que 420 $ chacun, car le prix est fixe par groupe et non par personne.",
   "highlights": [
    "Profitez d'un transfert prive pratique vers le The View at The Palm a Dubai"
   ],
   "included": [
    "Admission au The View at The Palm",
    "Prise en charge et retour prives a l'hotel ou a la residence a Dubai",
-   "Transport prive en GMC YUKON XL",
+   "Transport prive en GMC Yukon XL",
    "Chauffeur professionnel en uniforme"
   ],
   "notIncluded": [
@@ -77304,7 +77304,7 @@ export const FR_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai : billets pour IMG Worlds of Adventure avec transfert GM...",
   "metaDescription": "Experience d'une demi-journee a Dubai. Profitez d'une journee a IMG Worlds of Adventure avec un billet et un transfert prive. Propose par HARBOR TOURISM LLC.",
   "shortDescription": "Experience d'une demi-journee a Dubai. Profitez d'une journee a IMG Worlds of Adventure avec un billet et un transfert prive. Propose par HARBOR TOURISM LLC.",
-  "fullDescription": "Une experience d'une demi-journee a Dubai. Profitez d'une journee a IMG Worlds of Adventure avec un billet et un transfert prive.\n\nHARBOR TOURISM LLC s'en charge, et 8 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend billets d'entree pour IMG Worlds of Adventure, acces a tous les manèges et attractions, prise en charge et retour prives a l'hotel ou a la residence a Dubai et transport prive en GMC YUKON XL. Il ne comprend pas nourriture et boissons, prevoyez donc un budget separe. Deux voyageurs paient 527 $ ensemble plutot que 527 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "fullDescription": "Une experience d'une demi-journee a Dubai. Profitez d'une journee a IMG Worlds of Adventure avec un billet et un transfert prive.\n\nHARBOR TOURISM LLC s'en charge, et 8 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend billets d'entree pour IMG Worlds of Adventure, acces a tous les manèges et attractions, prise en charge et retour prives a l'hotel ou a la residence a Dubai et transport prive en GMC Yukon XL. Il ne comprend pas nourriture et boissons, prevoyez donc un budget separe. Deux voyageurs paient 527 $ ensemble plutot que 527 $ chacun, car le prix est fixe par groupe et non par personne.",
   "highlights": [
    "Profitez d'une journee a IMG Worlds of Adventure avec un billet et un transfert prive"
   ],
@@ -77312,7 +77312,7 @@ export const FR_TOURS: Record<string, TourT> = {
    "Billets d'entree pour IMG Worlds of Adventure",
    "Acces a tous les manèges et attractions",
    "Prise en charge et retour prives a l'hotel ou a la residence a Dubai",
-   "Transport prive en GMC YUKON XL"
+   "Transport prive en GMC Yukon XL"
   ],
   "notIncluded": [
    "Nourriture et boissons"
@@ -83692,6 +83692,378 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Nourriture et boissons"
+  ]
+ },
+ "abu-dhabi-city-tour-pvt-with-russian-french-englis": {
+  "title": "Visite privee de la ville d'Abu Dhabi avec guide russe, francais, et anglais",
+  "metaTitle": "Visite privee de la ville d'Abu Dhabi avec guide russe, franca...",
+  "metaDescription": "Une excursion d'une journee complete au depart de Abu Dhabi passant par Abu Dhabi. Propose par ARABIAN DESTINATION TOURISM L.L.C.",
+  "shortDescription": "Une excursion d'une journee complete au depart de Abu Dhabi passant par Abu Dhabi. Propose par ARABIAN DESTINATION TOURISM L.L.C.",
+  "fullDescription": "Une excursion d'une journee complete au depart de Abu Dhabi, passant par Abu Dhabi. Le plus long arret est Abu Dhabi, d'environ 10 heures.\n\nLe prix comprend visite guidee de la ville d'Abu Dhabi, visite de la Grande Mosquee Sheikh Zayed, opportunites de photos aux monuments emblematiques et point photo a Qasr Al Watan. Il ne comprend pas repas et depenses personnelles, prevoyez donc un budget separe. Deux voyageurs paient 1013 $ ensemble plutot que 806 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Une excursion d'une journee complete au depart de Abu Dhabi passant par Abu Dhabi. Propose par ARABIAN DESTINATION TOURISM L.L.C."
+  ],
+  "included": [
+   "Visite guidee de la ville d'Abu Dhabi",
+   "Visite de la Grande Mosquee Sheikh Zayed",
+   "Opportunites de photos aux monuments emblematiques",
+   "point photo a Qasr Al Watan"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Depenses personnelles"
+  ]
+ },
+ "abu-dhabi-al-forsan-horse-ride-experience": {
+  "title": "Abu Dhabi : experience d'equitation a Al Forsan",
+  "metaTitle": "Abu Dhabi : experience d'equitation a Al Forsan",
+  "metaDescription": "Experience de 0,5 heure(s) a Abu Dhabi. . Propose par Al Forsan.",
+  "shortDescription": "Experience de 0,5 heure(s) a Abu Dhabi. . Propose par Al Forsan.",
+  "fullDescription": "Une experience de 0,5 heure(s) a Abu Dhabi. Enjoy a calm ride in Al Forsan’s equestrian setting.\n\nAl Forsan s'en charge, et 2 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend balade a cheval et briefing de securite. Il ne comprend pas nourriture et boissons et prise en charge et depose a l'hotel, prevoyez donc un budget separe.",
+  "highlights": [
+   "Experience de 0,5 heure(s) a Abu Dhabi. . Propose par Al Forsan."
+  ],
+  "included": [
+   "Balade a cheval",
+   "Briefing de securite"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Prise en charge et depose a l'hotel"
+  ]
+ },
+ "virtual-swiss-alps-tour-interactive-video-experien": {
+  "title": "Visite virtuelle des Alpes suisses : experience video interactive",
+  "metaTitle": "Visite virtuelle des Alpes suisses : experience video interactive",
+  "metaDescription": "Experience de 1 heure(s) a Dubai. Explorez les Alpes suisses depuis chez vous avec une visite virtuelle interactive. Propose par Pacha Atelier Angency.",
+  "shortDescription": "Experience de 1 heure(s) a Dubai. Explorez les Alpes suisses depuis chez vous avec une visite virtuelle interactive. Propose par Pacha Atelier Angency.",
+  "fullDescription": "Une experience de 1 heure(s) a Dubai. Explorez les Alpes suisses depuis chez vous avec une visite virtuelle interactive.\n\nPacha Atelier Angency s'en charge, et 6 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend visite virtuelle des Alpes suisses, visuels haute definition, images filmees par drone et video de vues interactives a 360 degres. Il ne comprend pas presence physique dans les Alpes suisses, prevoyez donc un budget separe.",
+  "highlights": [
+   "Explorez les Alpes suisses depuis chez vous avec une visite virtuelle interactive"
+  ],
+  "included": [
+   "Visite virtuelle des Alpes suisses",
+   "Visuels haute definition",
+   "Images filmees par drone",
+   "Video de vues interactives a 360 degres"
+  ],
+  "notIncluded": [
+   "Presence physique dans les Alpes suisses"
+  ]
+ },
+ "dubai-private-evening-sightseeing-tour-with-hotel-": {
+  "title": "Dubai : visite touristique privee en soiree avec prise en charge a l'hotel",
+  "metaTitle": "Dubai : visite touristique privee en soiree avec prise en char...",
+  "metaDescription": "Experience d'une demi-journee a Dubai. Decouvrez les monuments emblematiques de Dubai lors d'une visite touristique privee en soiree. Propose par ARABIAN DESTINAT...",
+  "shortDescription": "Experience d'une demi-journee a Dubai. Decouvrez les monuments emblematiques de Dubai lors d'une visite touristique privee en soiree. Propose par ARABIAN DESTINATION TOURISM L.L.C.",
+  "fullDescription": "Une experience d'une demi-journee a Dubai. Decouvrez les monuments emblematiques de Dubai lors d'une visite touristique privee en soiree.\n\nARABIAN DESTINATION TOURISM L.L.C s'en charge, et 5 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend prise en charge et depose a l'hotel, voiture privee climatisee, chauffeur-guide professionnel et bouteille d'eau. Il ne comprend pas repas et frais d'entree, prevoyez donc un budget separe. Deux voyageurs paient 250 $ ensemble plutot que 250 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Decouvrez les monuments emblematiques de Dubai lors d'une visite touristique privee en soiree"
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel",
+   "Voiture privee climatisee",
+   "Chauffeur-guide professionnel",
+   "Bouteille d'eau"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Frais d'entree"
+  ]
+ },
+ "dubai-private-city-tour-with-hotel-transfer-abra-r": {
+  "title": "Dubai : visite privee de la ville avec transfert a l'hotel et trajet en abra",
+  "metaTitle": "Dubai : visite privee de la ville avec transfert a l'hotel et ...",
+  "metaDescription": "Experience d'une demi-journee a Dubai. Decouvrez les monuments emblematiques de Dubai lors d'une visite privee d'une demi-journee. Propose par ARABIAN DESTINATION...",
+  "shortDescription": "Experience d'une demi-journee a Dubai. Decouvrez les monuments emblematiques de Dubai lors d'une visite privee d'une demi-journee. Propose par ARABIAN DESTINATION TOURISM L.L.C.",
+  "fullDescription": "Une experience d'une demi-journee a Dubai. Decouvrez les monuments emblematiques de Dubai lors d'une visite privee d'une demi-journee.\n\nARABIAN DESTINATION TOURISM L.L.C s'en charge, et 6 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend vehicule prive, chauffeur prive, prise en charge et depose a l'hotel a Dubai et balade en bateau abra sur le Dubai Creek. Il ne comprend pas billets d'entree aux attractions, billet d'entree pour le Burj Khalifa et billet d'entree pour le Dubai Frame, prevoyez donc un budget separe. Deux voyageurs paient 683 $ ensemble plutot que 683 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Decouvrez les monuments emblematiques de Dubai lors d'une visite privee d'une demi-journee"
+  ],
+  "included": [
+   "Vehicule prive",
+   "Chauffeur prive",
+   "Prise en charge et depose a l'hotel a Dubai",
+   "Balade en bateau abra sur le Dubai Creek"
+  ],
+  "notIncluded": [
+   "Billets d'entree aux attractions",
+   "Billet d'entree pour le Burj Khalifa",
+   "Billet d'entree pour le Dubai Frame"
+  ]
+ },
+ "morning-4x4-dune-bashing-desert-safari-with-camel-": {
+  "title": "Safari desertique matinal en 4x4 avec balade a dos de chameau",
+  "metaTitle": "Safari desertique matinal en 4x4 avec balade a dos de chameau",
+  "metaDescription": "Une excursion d'une demi-journee au depart de Abu Dhabi passant par Al Khatim Desert. Propose par OceanAir Travels.",
+  "shortDescription": "Une excursion d'une demi-journee au depart de Abu Dhabi passant par Al Khatim Desert. Propose par OceanAir Travels.",
+  "fullDescription": "Une excursion d'une demi-journee au depart de Abu Dhabi, passant par Al Khatim Desert.\n\nLe prix comprend prise en charge et depose depuis votre emplacement, dune bashing en Land Cruiser, balade a dos de chameau et sandboard. Il ne comprend pas quad/buggy des dunes, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une demi-journee au depart de Abu Dhabi passant par Al Khatim Desert. Propose par OceanAir Travels."
+  ],
+  "included": [
+   "Prise en charge et depose depuis votre emplacement",
+   "Dune bashing en Land Cruiser",
+   "Balade a dos de chameau",
+   "Sandboard"
+  ],
+  "notIncluded": [
+   "Quad/buggy des dunes"
+  ]
+ },
+ "dubai-city-tour-with-souks-abra-ride-photo-stops": {
+  "title": "Dubai : visite de la ville avec souks, trajet en abra, et arrets photo",
+  "metaTitle": "Dubai : visite de la ville avec souks, trajet en abra, et arre...",
+  "metaDescription": "Experience d'une demi-journee a Dubai. Explorez les rues historiques et les maisons traditionnelles de Bastakiya. Propose par OceanAir Travels.",
+  "shortDescription": "Experience d'une demi-journee a Dubai. Explorez les rues historiques et les maisons traditionnelles de Bastakiya. Propose par OceanAir Travels.",
+  "fullDescription": "Une experience d'une demi-journee a Dubai. Explorez les rues historiques et les maisons traditionnelles de Bastakiya.\n\nOceanAir Travels s'en charge, et 12 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend prise en charge et depose depuis certaines zones de Dubai, transport partage climatise, guide touristique licencie et arret photo exterieur au palais Zabeel. Il ne comprend pas billet d'entree pour le Dubai Frame, entree au Burj Al Arab et billets pour les attractions d'Atlantis The Palm, prevoyez donc un budget separe.",
+  "highlights": [
+   "Explorez les rues historiques et les maisons traditionnelles de Bastakiya"
+  ],
+  "included": [
+   "Prise en charge et depose depuis certaines zones de Dubai",
+   "Transport partage climatise",
+   "Guide touristique licencie",
+   "Arret photo exterieur au palais Zabeel"
+  ],
+  "notIncluded": [
+   "Billet d'entree pour le Dubai Frame",
+   "Entree au Burj Al Arab",
+   "Billets pour les attractions d'Atlantis The Palm"
+  ]
+ },
+ "dubai-house-of-hype-experience-with-gmc-yukon-tran": {
+  "title": "Dubai : experience House of Hype avec transfert GMC Yukon",
+  "metaTitle": "Dubai : experience House of Hype avec transfert GMC Yukon",
+  "metaDescription": "Experience d'une demi-journee a Dubai. Profitez d'un transfert prive vers House of Hype en SUV GMC de luxe. Propose par HARBOR TOURISM LLC.",
+  "shortDescription": "Experience d'une demi-journee a Dubai. Profitez d'un transfert prive vers House of Hype en SUV GMC de luxe. Propose par HARBOR TOURISM LLC.",
+  "fullDescription": "Une experience d'une demi-journee a Dubai. Profitez d'un transfert prive vers House of Hype en SUV GMC de luxe.\n\nHARBOR TOURISM LLC s'en charge, et 8 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend billet d'entree pour House of Hype, prise en charge et depose porte a porte, SUV GMC de luxe prive et chauffeur professionnel en uniforme. Il ne comprend pas , prevoyez donc un budget separe. Deux voyageurs paient 461 $ ensemble plutot que 461 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Profitez d'un transfert prive vers House of Hype en SUV GMC de luxe"
+  ],
+  "included": [
+   "Billet d'entree pour House of Hype",
+   "Prise en charge et depose porte a porte",
+   "SUV GMC de luxe prive",
+   "Chauffeur professionnel en uniforme"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-couples-photoshoot": {
+  "title": "Dubai : seance photo pour couples",
+  "metaTitle": "Dubai : seance photo pour couples",
+  "metaDescription": "Une excursion de 2 heure(s) au depart de Dubai passant par The Dubai Mall Heart. Propose par Free Spirit Cordoba.",
+  "shortDescription": "Une excursion de 2 heure(s) au depart de Dubai passant par The Dubai Mall Heart. Propose par Free Spirit Cordoba.",
+  "fullDescription": "Une excursion de 2 heure(s) au depart de Dubai, passant par The Dubai Mall Heart.\n\nLe prix comprend seance photo professionnelle pour couple et accompagnement pour les poses. Il ne comprend pas transport vers le lieu et depenses personnelles, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion de 2 heure(s) au depart de Dubai passant par The Dubai Mall Heart. Propose par Free Spirit Cordoba."
+  ],
+  "included": [
+   "Seance photo professionnelle pour couple",
+   "Accompagnement pour les poses"
+  ],
+  "notIncluded": [
+   "Transport vers le lieu",
+   "Depenses personnelles"
+  ]
+ },
+ "from-dubai-ras-al-khaimah-private-suv-sightseeing-": {
+  "title": "Depuis Dubai : visite touristique privee en SUV a Ras Al Khaimah",
+  "metaTitle": "Depuis Dubai : visite touristique privee en SUV a Ras Al Khaimah",
+  "metaDescription": "Une excursion d'une journee complete au depart de Dubai passant par Ras al-Khaimah et Finish at:. Propose par HARBOR TOURISM LLC.",
+  "shortDescription": "Une excursion d'une journee complete au depart de Dubai passant par Ras al-Khaimah et Finish at:. Propose par HARBOR TOURISM LLC.",
+  "fullDescription": "Une excursion d'une journee complete au depart de Dubai, passant par Ras al-Khaimah et Finish at:. Il y a 2 arrets au total.\n\nL'ordre de visite est Ras al-Khaimah (45 min), puis Finish at:.\n\nLe prix comprend prise en charge et depose privees depuis le lieu selectionne a Dubai, chauffeur professionnel, visite touristique de Ras Al Khaimah et visite d'Al Hamra Village. Il ne comprend pas repas, prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion d'une journee complete au depart de Dubai passant par Ras al-Khaimah et Finish at:. Propose par HARBOR TOURISM LLC."
+  ],
+  "included": [
+   "Prise en charge et depose privees depuis le lieu selectionne a Dubai",
+   "Chauffeur professionnel",
+   "Visite touristique de Ras Al Khaimah",
+   "Visite d'Al Hamra Village"
+  ],
+  "notIncluded": [
+   "Repas"
+  ]
+ },
+ "abu-dhabi-louvre-museum-ticket-private-suv-transfe": {
+  "title": "Abu Dhabi : billet pour le musee du Louvre et transfert prive en SUV",
+  "metaTitle": "Abu Dhabi : billet pour le musee du Louvre et transfert prive ...",
+  "metaDescription": "Experience d'une demi-journee a Abu Dhabi. Explorez le Louvre Abu Dhabi a votre rythme avec un billet d'entree. Propose par HARBOR TOURISM LLC.",
+  "shortDescription": "Experience d'une demi-journee a Abu Dhabi. Explorez le Louvre Abu Dhabi a votre rythme avec un billet d'entree. Propose par HARBOR TOURISM LLC.",
+  "fullDescription": "Une experience d'une demi-journee a Abu Dhabi. Explorez le Louvre Abu Dhabi a votre rythme avec un billet d'entree.\n\nHARBOR TOURISM LLC s'en charge, et 4 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend prise en charge et depose privees en GMC premium, billet d'entree pour le Louvre Abu Dhabi, chauffeur professionnel et vehicule climatise. Il ne comprend pas nourriture et boissons, prevoyez donc un budget separe. Deux voyageurs paient 977 $ ensemble plutot que 930 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Explorez le Louvre Abu Dhabi a votre rythme avec un billet d'entree"
+  ],
+  "included": [
+   "Prise en charge et depose privees en GMC premium",
+   "Billet d'entree pour le Louvre Abu Dhabi",
+   "Chauffeur professionnel",
+   "Vehicule climatise"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons"
+  ]
+ },
+ "dubai-atlantis-aquaventure-waterpark-entry-suv-tra": {
+  "title": "Dubai : entree au parc aquatique Atlantis Aquaventure et transfert en SUV",
+  "metaTitle": "Dubai : entree au parc aquatique Atlantis Aquaventure et trans...",
+  "metaDescription": "Experience d'une demi-journee a Dubai. Profitez d'une journee amusante au parc aquatique Atlantis Aquaventure a Dubai. Propose par HARBOR TOURISM LLC.",
+  "shortDescription": "Experience d'une demi-journee a Dubai. Profitez d'une journee amusante au parc aquatique Atlantis Aquaventure a Dubai. Propose par HARBOR TOURISM LLC.",
+  "fullDescription": "Une experience d'une demi-journee a Dubai. Profitez d'une journee amusante au parc aquatique Atlantis Aquaventure a Dubai.\n\nHARBOR TOURISM LLC s'en charge, et 8 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend billet coupe-file pour Atlantis Aquaventure Waterpark, acces illimite a Aquaventure Beach, acces a tous les toboggans, manèges, attractions, piscines, et plage privee, prise en charge et retour prives a l'hotel ou a la residence a Dubai, transport prive en GMC Yukon XL, chauffeur professionnel en uniforme, carburant et peage Salik et bouteilles d'eau. Il ne comprend pas nourriture et boissons, prevoyez donc un budget separe. Deux voyageurs paient 1131 $ ensemble plutot que 778 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Profitez d'une journee amusante au parc aquatique Atlantis Aquaventure a Dubai"
+  ],
+  "included": [
+   "Billet coupe-file pour Atlantis Aquaventure Waterpark",
+   "Acces illimite a Aquaventure Beach",
+   "Acces a tous les toboggans, manèges, attractions, piscines, et plage privee",
+   "Prise en charge et retour prives a l'hotel ou a la residence a Dubai",
+   "Transport prive en GMC Yukon XL",
+   "Chauffeur professionnel en uniforme",
+   "Carburant et peage Salik",
+   "Bouteilles d'eau"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons"
+  ]
+ },
+ "abu-dhabi-yas-waterworld-entry-ticket-with-transfe": {
+  "title": "Abu Dhabi : billet d'entree pour Yas Waterworld avec transfert en SUV",
+  "metaTitle": "Abu Dhabi : billet d'entree pour Yas Waterworld avec transfert...",
+  "metaDescription": "Une excursion d'une journee complete au depart de Abu Dhabi passant par Yas Waterworld. Propose par HARBOR TOURISM LLC.",
+  "shortDescription": "Une excursion d'une journee complete au depart de Abu Dhabi passant par Yas Waterworld. Propose par HARBOR TOURISM LLC.",
+  "fullDescription": "Une excursion d'une journee complete au depart de Abu Dhabi, passant par Yas Waterworld. Le plus long arret est Yas Waterworld, d'environ 10 heures.\n\nLe prix comprend prise en charge et retour a l'hotel ou a la residence, transfert de Dubai a Abu Dhabi en GMC Yukon prive, entree a Yas Waterworld Abu Dhabi et acces illimite toute la journee a tous les manèges de Yas Waterworld. Il ne comprend pas nourriture et boissons, prevoyez donc un budget separe. Deux voyageurs paient 1098 $ ensemble plutot que 903 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Une excursion d'une journee complete au depart de Abu Dhabi passant par Yas Waterworld. Propose par HARBOR TOURISM LLC."
+  ],
+  "included": [
+   "Prise en charge et retour a l'hotel ou a la residence",
+   "Transfert de Dubai a Abu Dhabi en GMC Yukon prive.",
+   "Entree a Yas Waterworld Abu Dhabi",
+   "Acces illimite toute la journee a tous les manèges de Yas Waterworld"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons"
+  ]
+ },
+ "from-dubai-abu-dhabi-private-city-tour-with-5": {
+  "title": "Depuis Dubai : visite privee de la ville d'Abu Dhabi avec dejeuner 5 etoiles",
+  "metaTitle": "Depuis Dubai : visite privee de la ville d'Abu Dhabi avec deje...",
+  "metaDescription": "Experience d'une journee complete a Abu Dhabi. Explorez les monuments d'Abu Dhabi lors d'une excursion privee guidee depuis Dubai/Abu Dhabi. Propose par Whats Up ...",
+  "shortDescription": "Experience d'une journee complete a Abu Dhabi. Explorez les monuments d'Abu Dhabi lors d'une excursion privee guidee depuis Dubai/Abu Dhabi. Propose par Whats Up Trip - F.Z.E.",
+  "fullDescription": "Une experience d'une journee complete a Abu Dhabi. Explorez les monuments d'Abu Dhabi lors d'une excursion privee guidee depuis Dubai/Abu Dhabi.\n\nWhats Up Trip - F.Z.E s'en charge, et 8 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend prise en charge et depose a l'hotel, vehicule prive climatise, chauffeur-guide professionnel et dejeuner 5 etoiles (si l'option est selectionnee). Il ne comprend pas depenses personnelles et pourboires, prevoyez donc un budget separe.",
+  "highlights": [
+   "Explorez les monuments d'Abu Dhabi lors d'une excursion privee guidee depuis Dubai/Abu Dhabi"
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel",
+   "Vehicule prive climatise",
+   "Chauffeur-guide professionnel",
+   "Dejeuner 5 etoiles (si l'option est selectionnee)"
+  ],
+  "notIncluded": [
+   "Depenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "dubai-floating-sky-dining-with-hotel-transfers": {
+  "title": "Dubai : diner flottant dans le ciel avec transferts a l'hotel",
+  "metaTitle": "Dubai : diner flottant dans le ciel avec transferts a l'hotel",
+  "metaDescription": "Experience d'une demi-journee a Dubai. Savourez une experience de repas flottant unique au 77e etage a Dubai. Propose par BFT GROUP.",
+  "shortDescription": "Experience d'une demi-journee a Dubai. Savourez une experience de repas flottant unique au 77e etage a Dubai. Propose par BFT GROUP.",
+  "fullDescription": "Une experience d'une demi-journee a Dubai. Savourez une experience de repas flottant unique au 77e etage a Dubai.\n\nBFT GROUP s'en charge, et 6 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend 4 heures d'acces au sky pool, experience de repas flottant au 77e etage, installation de repas flottant reservee pour deux personnes et panier flottant fixe avec nourriture et boissons pour deux. Il ne comprend pas nourriture et boissons supplementaires commandees en plus du panier flottant inclus, depenses personnelles et pourboires, prevoyez donc un budget separe. Deux voyageurs paient 1352 $ ensemble plutot que 1183 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Savourez une experience de repas flottant unique au 77e etage a Dubai"
+  ],
+  "included": [
+   "4 heures d'acces au sky pool",
+   "Experience de repas flottant au 77e etage",
+   "Installation de repas flottant reservee pour deux personnes",
+   "Panier flottant fixe avec nourriture et boissons pour deux"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons supplementaires commandees en plus du panier flottant inclus",
+   "Depenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "abu-dhabi-island-adventure-with-snacks-water-sport": {
+  "title": "Abu Dhabi : aventure sur une ile avec collations et sports nautiques",
+  "metaTitle": "Abu Dhabi : aventure sur une ile avec collations et sports nau...",
+  "metaDescription": "Une excursion de 3 heure(s) au depart de Abu Dhabi passant par Speedboat et Island. Propose par Sea Bird Island Cruises.",
+  "shortDescription": "Une excursion de 3 heure(s) au depart de Abu Dhabi passant par Speedboat et Island. Propose par Sea Bird Island Cruises.",
+  "fullDescription": "Une excursion de 3 heure(s) au depart de Abu Dhabi, passant par Speedboat et Island. Le plus long arret est Island, d'environ 2 heures. Il y a 2 arrets au total.\n\nL'ordre de visite est Speedboat (20 min), puis Island (2h).\n\nLe prix comprend bateau prive avec capitaine et equipage professionnels, eau en bouteille, boissons gazeuses et glace. Il ne comprend pas repas et boissons alcoolisees, prevoyez donc un budget separe. Deux voyageurs paient 415 $ ensemble plutot que 231 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Une excursion de 3 heure(s) au depart de Abu Dhabi passant par Speedboat et Island. Propose par Sea Bird Island Cruises."
+  ],
+  "included": [
+   "Bateau prive avec capitaine et equipage professionnels",
+   "Eau en bouteille",
+   "Boissons gazeuses",
+   "Glace"
+  ],
+  "notIncluded": [
+   "Repas",
+   "Boissons alcoolisees"
+  ]
+ },
+ "dubai-full-day-city-tour-with-souks-and-boat": {
+  "title": "Dubai : visite de la ville d'une journee complete avec souks et balade en bateau",
+  "metaTitle": "Dubai : visite de la ville d'une journee complete avec souks e...",
+  "metaDescription": "Une excursion d'une journee complete au depart de Dubai passant par Al Farooq Omar Bin Al Khattab Mosque, Burj Al Arab, Souk Madinat Jumeirah et The Palm Jumeirah...",
+  "shortDescription": "Une excursion d'une journee complete au depart de Dubai passant par Al Farooq Omar Bin Al Khattab Mosque, Burj Al Arab, Souk Madinat Jumeirah et The Palm Jumeirah. Propose par Asif Travels and Tours.",
+  "fullDescription": "Une excursion d'une journee complete au depart de Dubai, passant par Al Farooq Omar Bin Al Khattab Mosque, Burj Al Arab, Souk Madinat Jumeirah et The Palm Jumeirah. Le plus long arret est Mall of the Emirates, d'environ 1 heure. Il y a 13 arrets au total.\n\nL'ordre de visite est Al Farooq Omar Bin Al Khattab Mosque (30 min), puis Burj Al Arab (10 min), puis Souk Madinat Jumeirah (30 min), puis The Palm Jumeirah (30 min), puis Mall of the Emirates (1h).\n\nLe prix comprend guide touristique professionnel dans la langue de votre choix, transport en vehicule confortable et climatise, visite de la magnifique Mosquee Al Farooq (Mosquee Bleue) et arret photo au Souk Madinat Jumeirah avec vue sur le Burj Al Arab. Il ne comprend pas depenses personnelles et pourboires optionnels pour le guide et le chauffeur, prevoyez donc un budget separe. Deux voyageurs paient 1104 $ ensemble plutot que 1082 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Une excursion d'une journee complete au depart de Dubai passant par Al Farooq Omar Bin Al Khattab Mosque, Burj Al Arab, Souk Madinat Jumeirah et The Palm Jumeirah. Propose par Asif Travels and Tours."
+  ],
+  "included": [
+   "Guide touristique professionnel dans la langue de votre choix",
+   "Transport en vehicule confortable et climatise",
+   "Visite de la magnifique Mosquee Al Farooq (Mosquee Bleue)",
+   "Arret photo au Souk Madinat Jumeirah avec vue sur le Burj Al Arab"
+  ],
+  "notIncluded": [
+   "Depenses personnelles",
+   "Pourboires optionnels pour le guide et le chauffeur"
+  ]
+ },
+ "abu-dhabi-falcon-hospital-tour-with-hotel-pickup-d": {
+  "title": "Abu Dhabi : visite de l'hopital des faucons avec prise en charge a l'hotel",
+  "metaTitle": "Abu Dhabi : visite de l'hopital des faucons avec prise en char...",
+  "metaDescription": "Une excursion de 3 heure(s) au depart de Abu Dhabi passant par Abu Dhabi Falcon Hospital. Propose par ARABIAN EXPLORE TOURS AND TRAVELS LLC.",
+  "shortDescription": "Une excursion de 3 heure(s) au depart de Abu Dhabi passant par Abu Dhabi Falcon Hospital. Propose par ARABIAN EXPLORE TOURS AND TRAVELS LLC.",
+  "fullDescription": "Une excursion de 3 heure(s) au depart de Abu Dhabi, passant par Abu Dhabi Falcon Hospital. Le plus long arret est Abu Dhabi Falcon Hospital, d'environ 2 heures.\n\nARABIAN EXPLORE TOURS AND TRAVELS LLC s'en charge, et 2 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend visite guidee de 2 heures et prise en charge et depose. Il ne comprend pas , prevoyez donc un budget separe.",
+  "highlights": [
+   "Une excursion de 3 heure(s) au depart de Abu Dhabi passant par Abu Dhabi Falcon Hospital. Propose par ARABIAN EXPLORE TOURS AND TRAVELS LLC."
+  ],
+  "included": [
+   "Visite guidee de 2 heures",
+   "Prise en charge et depose"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "abu-dhabi-private-layover-city-tour-with-pickup-dr": {
+  "title": "Abu Dhabi : visite privee de la ville pendant une escale avec prise en charge et depose",
+  "metaTitle": "Abu Dhabi : visite privee de la ville pendant une escale avec ...",
+  "metaDescription": "Experience d'une demi-journee a Abu Dhabi. Profitez au maximum de votre escale avec une visite privee des points forts d'Abu Dhabi. Propose par ARABIAN EXPLORE TO...",
+  "shortDescription": "Experience d'une demi-journee a Abu Dhabi. Profitez au maximum de votre escale avec une visite privee des points forts d'Abu Dhabi. Propose par ARABIAN EXPLORE TOURS AND TRAVELS LLC.",
+  "fullDescription": "Une experience d'une demi-journee a Abu Dhabi. Profitez au maximum de votre escale avec une visite privee des points forts d'Abu Dhabi.\n\nARABIAN EXPLORE TOURS AND TRAVELS LLC s'en charge, et 12 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend transport prive, chauffeur/guide professionnel, prise en charge et depose a l'aeroport ou a l'hotel et arrets touristiques comme mentionnes. Il ne comprend pas , prevoyez donc un budget separe. Deux voyageurs paient 346 $ ensemble plutot que 346 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Profitez au maximum de votre escale avec une visite privee des points forts d'Abu Dhabi"
+  ],
+  "included": [
+   "Transport prive",
+   "Chauffeur/guide professionnel",
+   "Prise en charge et depose a l'aeroport ou a l'hotel",
+   "Arrets touristiques comme mentionnes"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "city-palace-heritage-full-day-tour": {
