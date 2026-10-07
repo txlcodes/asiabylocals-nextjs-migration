@@ -86072,6 +86072,425 @@ export const FR_TOURS: Record<string, TourT> = {
    "Nourriture et boissons"
   ]
  },
+ "dubai-miracle-garden-entry-ticket-with-hotel-transfer": {
+  "title": "Dubai : billet d'entree au Miracle Garden avec transfert hotel",
+  "metaTitle": "Dubai : Miracle Garden avec transfert",
+  "metaDescription": "Cinquante millions de fleurs, un A380 entierement fleuri et un village des Schtroumpfs en plein desert, avec transfert hotel inclus.",
+  "shortDescription": "Environ cinquante millions de fleurs disposees en arches, en coeurs, un A380 d'Emirates grandeur reelle entierement couvert de fleurs, et un village des Schtroumpfs, au milieu d'un desert, ce qui est a la fois la blague et l'interet.",
+  "fullDescription": "Environ cinquante millions de fleurs disposees en arches, en coeurs, un A380 d'Emirates grandeur reelle entierement couvert de fleurs, et un village des Schtroumpfs, au milieu d'un desert, ce qui est a la fois la blague et l'interet.\n\nC'est vraiment enorme et vraiment photogenique, et cela convainc les gens qui pensaient qu'un jardin de fleurs semblait ennuyeux. Le A380 seul contient plusieurs centaines de milliers de plantes.\n\nLe transfert a l'hotel est inclus, ce qui compte car le jardin se trouve a Al Barsha South sans station de metro et avec un long trajet en taxi dans les deux sens.\n\nAttention : la chose la plus importante a savoir sur cette attraction, c'est qu'elle ferme l'ete. Le Dubai Miracle Garden fonctionne grosso modo de novembre a mai et ferme entierement pendant les mois les plus chauds, car les fleurs ne peuvent pas y survivre. Les dates changent chaque annee. Ne reservez pas un voyage en juillet autour de cela, et si votre voyage tombe pres des bords de la saison, indiquez-nous votre date et nous confirmerons que le jardin est ouvert avant que vous ne payiez.\n\nAllez-y tot le matin ou dans les deux dernieres heures. La lumiere de midi est dure et c'est a ce moment-la que les cars arrivent.",
+  "highlights": [
+   "Environ cinquante millions de fleurs, dont un A380 grandeur reelle entierement fleuri",
+   "Transfert a l'hotel inclus : il n'y a pas de station de metro ici",
+   "Vraiment photogenique, et meilleur que ce que la description suggere",
+   "Attention : FERME l'ete, grosso modo de juin a octobre, les dates changent chaque annee",
+   "Meilleur dans les deux premieres ou dernieres heures de la journee"
+  ],
+  "included": [
+   "Prise en charge a l'hotel (transfert partage ou prive)",
+   "Billet d'entree au Miracle Garden (remis le jour de l'activite)",
+   "Billet d'entree au Global Village (si l'option est selectionnee)",
+   "Retour a l'hotel (transfert partage ou prive)"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Autres depenses personnelles"
+  ]
+ },
+ "dubai-parasailing-off-the-burj-al-arab-solo-or-tandem": {
+  "title": "Dubai : parachute ascensionnel devant le Burj Al Arab, en solo ou en tandem",
+  "metaTitle": "Dubai : parachute ascensionnel, Burj Al Arab",
+  "metaDescription": "Parachute ascensionnel au-dessus du Golfe a cote du Burj Al Arab, en solo ou en tandem, avec photos et videos incluses.",
+  "shortDescription": "En l'air sur un parachute ascensionnel au-dessus du Golfe avec le Burj Al Arab a cote de vous, l'angle sur ce batiment que personne n'obtient depuis la terre.",
+  "fullDescription": "En l'air sur un parachute ascensionnel au-dessus du Golfe avec le Burj Al Arab a cote de vous, l'angle sur ce batiment que personne n'obtient depuis la terre.\n\nLe vol lui-meme est calme plutot qu'effrayant. Vous etes treuille progressivement depuis le pont du bateau et redescendu dessus, donc il n'y a pas d'elan de depart et pas d'atterrissage dans l'eau sauf si vous demandez une trempette, ce que l'equipage fera sur demande et que la plupart des gens finissent par vouloir.\n\nSolo ou tandem, et le tandem est le choix normal pour quiconque est nerveux ou pour un couple qui prefererait le faire ensemble. Il n'y a aucune competence necessaire ; vous vous asseyez dans un harnais et regardez.\n\nLes photos et videos sont prises par l'equipage et incluses, ce qui compte car il n'y a aucune facon de les prendre soi-meme la-haut.\n\nDe l'eau potable, des casiers et une cabine avec douche ouverte sont fournis.\n\nAttention : entierement dependant de la meteo, un vent qui semble normal sur la plage peut empecher de voler, et l'equipage vous deplacera plutot que de vous envoyer dans de mauvaises conditions. Et les lunettes de soleil tombent a l'eau chaque semaine ; utilisez une attache ou laissez-les a terre.",
+  "highlights": [
+   "Le Burj Al Arab vu du ciel, un angle que la terre ne donne jamais",
+   "Treuille depuis le pont et redescendu dessus : pas d'elan, pas d'atterrissage mouille",
+   "Solo ou tandem ; aucune competence requise",
+   "Photos et videos prises par l'equipage, incluses",
+   "Attention : depend de la meteo, et les lunettes de soleil ont besoin d'une attache"
+  ],
+  "included": [
+   "Vol en parachute ascensionnel",
+   "Equipage",
+   "Eau potable",
+   "Utilisation d'un casier",
+   "Cabine avec douche ouverte",
+   "Wifi et borne de recharge",
+   "Reduction de 20 % sur la nourriture et les boissons au Lumiere Cafe de la marina"
+  ],
+  "notIncluded": [
+   "Forfait photo (optionnel a l'enregistrement)"
+  ]
+ },
+ "dubai-self-drive-polaris-buggy-desert-adventure": {
+  "title": "Dubai : aventure dans le desert en buggy Polaris en conduite autonome",
+  "metaTitle": "Dubai : buggy Polaris en conduite autonome",
+  "metaDescription": "Trente minutes ou une heure au volant d'un buggy Polaris sur les dunes, avec instructeur et tour a dos de chameau ensuite.",
+  "shortDescription": "Trente minutes ou une heure au volant d'un buggy Polaris sur les dunes, avec un instructeur en tete et un tour a dos de chameau ensuite.",
+  "fullDescription": "Trente minutes ou une heure au volant d'un buggy Polaris sur les dunes, avec un instructeur en tete et un tour a dos de chameau ensuite.\n\nLa conduite autonome fait la distinction. Sur un safari classique, vous etes passager dans le 4x4 d'un chauffeur ; ici, l'accelerateur est a vous, et les dunes se ressentent totalement differemment quand c'est vous qui decidez d'en gravir une.\n\nL'option d'une heure vaut le coup si le budget le permet : trente minutes passent tres vite une fois que vous avez arrete d'etre nerveux, ce qui prend environ dix d'entre elles.\n\nCasque et briefing sont inclus, la prise en charge a l'hotel est optionnelle, et le tour a dos de chameau peut etre repete.\n\nLe camp bedouin avec diner barbecue est une option ajoutee a la reservation, pas une partie du prix de base. Si vous voulez la soiree complete : diner, spectacles, chicha, selectionnez cette option plutot que de la supposer.\n\nAttention : c'est poussiereux et physique. Portez des lunettes de soleil que vous n'avez pas peur d'egratigner et des vetements que vous n'avez pas peur d'abimer, et evitez cela en cas de problemes de dos ou de cou.",
+  "highlights": [
+   "Trente minutes ou une heure a conduire vous-meme un buggy Polaris",
+   "Instructeur en tete, casque et briefing inclus",
+   "Tour a dos de chameau ensuite, repetable",
+   "L'heure vaut le coup : trente minutes passent vite une fois la nervosite passee",
+   "Attention : le diner au camp est une option ajoutee, pas inclus dans le prix de base"
+  ],
+  "included": [
+   "Prise en charge et retour a l'hotel (si option selectionnee)",
+   "Instructeur",
+   "1 heure ou 30 minutes de buggy Polaris",
+   "Casque",
+   "Tour a dos de chameau (repetable)",
+   "Photo avec un faucon",
+   "Conduite sur dunes (selon l'option choisie)",
+   "Eau potable illimitee",
+   "Boisson de bienvenue au cafe arabe (selon l'option choisie)",
+   "Diner barbecue (selon l'option choisie)",
+   "Danse de tanoura, spectacle de feu et danse du ventre (selon l'option choisie)",
+   "Tatouage au henne et partage de chicha (selon l'option choisie)"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisees (disponibles a l'achat)",
+   "Photos souvenirs (disponibles a l'achat)"
+  ]
+ },
+ "yas-waterworld-abu-dhabi-entry-ticket": {
+  "title": "Abu Dhabi : billet d'entree pour Yas Waterworld",
+  "metaTitle": "Abu Dhabi : Yas Waterworld",
+  "metaDescription": "Parc aquatique a theme emirati, record du monde Guinness du plus grand nombre de toboggans, plus de soixante-dix attractions.",
+  "shortDescription": "A theme emirati, en exterieur, et titulaire du record du monde Guinness du plus grand nombre de toboggans aquatiques dans un seul parc : plus de soixante-dix manèges et attractions sur Yas Island.",
+  "fullDescription": "A theme emirati, en exterieur, et titulaire du record du monde Guinness du plus grand nombre de toboggans aquatiques dans un seul parc : plus de soixante-dix manèges et attractions sur Yas Island.\n\nLa thematisation est ce qui le distingue des autres grands parcs aquatiques de la region. Il est construit autour de l'histoire d'un village de pecheurs de perles plutot que d'un decor tropical generique, et l'element de peche perliere traverse vraiment le parc plutot que d'etre une simple decoration.\n\nVotre billet est une entree generale, couvrant tous les manèges et attractions de la journee, plus la navette qui fait le tour de Yas Island.\n\nAttention : le fait le plus important, c'est que ce parc est en exterieur. Entre juin et septembre, le milieu de la journee a Yas Waterworld est vraiment eprouvant, et les residents ne le font pas : ils vont dans les parcs interieurs a la place. Si vous visitez en ete, arrivez a l'ouverture, profitez de la matinee, et partez avant midi. En hiver, c'est le meilleur des quatre et celui a privilegier.\n\nSi vous faites aussi Ferrari World, SeaWorld ou Warner Bros. World, le pass multi-parcs coute moins cher que des billets separes et reste valable sur plusieurs jours.",
+  "highlights": [
+   "Plus de soixante-dix toboggans : le record Guinness du plus grand nombre dans un seul parc",
+   "Theme autour d'un village de pecheurs de perles emirati, veritablement et pas en simple decoration",
+   "Entree generale pour la journee plus la navette de Yas Island",
+   "Attention : entierement en exterieur, arrivez a l'ouverture entre juin et septembre",
+   "Moins cher dans le cadre d'un pass multi-parcs de Yas Island"
+  ],
+  "included": [
+   "Billet d'entree generale (si l'option est selectionnee)",
+   "Acces a tous les manèges et attractions",
+   "Service de navette au sein de Yas Island"
+  ],
+  "notIncluded": [
+   "Quick pass (si l'option est selectionnee)",
+   "Nourriture et boissons",
+   "Transport aller-retour vers le parc aquatique"
+  ]
+ },
+ "abu-dhabi-day-trip-from-dubai-with-grand-mosque-and-a-theme-park": {
+  "title": "Abu Dhabi : excursion d'une journee depuis Dubai avec la Grande Mosquee et un parc a theme",
+  "metaTitle": "Abu Dhabi : Grande Mosquee et parc a theme",
+  "metaDescription": "Dix heures depuis Dubai associant la Grande Mosquee Cheikh Zayed a Ferrari World, Warner Bros. World ou le Louvre Abu Dhabi, entree incluse.",
+  "shortDescription": "Dix heures, d'hotel a hotel, associant la Grande Mosquee Cheikh Zayed a une attraction de votre choix : Ferrari World, Warner Bros. World ou le Louvre Abu Dhabi, choisie a la reservation, entree incluse.",
+  "fullDescription": "Dix heures, d'hotel a hotel, associant la Grande Mosquee Cheikh Zayed a une attraction de votre choix : Ferrari World, Warner Bros. World ou le Louvre Abu Dhabi, choisie a la reservation, entree incluse.\n\nCette structure resout le probleme familial habituel : la moitie du groupe veut la mosquee et l'autre veut des montagnes russes, et ceci fait les deux sans un second voyage.\n\nLa mosquee vient en premier, entree gratuite, avec une abaya fournie pour les femmes a la porte et un guide agree pour expliquer ce que vous regardez. Puis le trajet jusqu'a Yas ou Saadiyat et le reste de la journee a l'attraction choisie.\n\nAttention : deux fermetures a prevoir, et elles determinent quelle option choisir. La mosquee n'admet pas de visiteurs le vendredi matin. Le Louvre Abu Dhabi est ferme le lundi. Ferrari World et Warner Bros. World ouvrent tous les jours et sont tous deux entierement en interieur, ce qui en fait le choix sense en ete de toute facon.\n\nDix heures, c'est une longue journee avec trois heures de voiture. Cela vaut le coup si l'alternative est deux excursions separees ; moins interessant pour un groupe qui prefererait une matinee tranquille.",
+  "highlights": [
+   "La Grande Mosquee Cheikh Zayed avec un guide et une abaya fournie",
+   "Ferrari World, Warner Bros. World ou le Louvre, entree incluse",
+   "Choisi a la reservation, donc un groupe mixte obtient les deux moities",
+   "Prise en charge a l'hotel a Dubai ; dix heures porte a porte",
+   "Attention : le Louvre ferme le lundi, la mosquee ferme le vendredi matin"
+  ],
+  "included": [
+   "Prise en charge et retour depuis les hotels dans les limites de la ville de Dubai",
+   "Entree a Ferrari World Abu Dhabi, Warner Bros., ou au Louvre Abu Dhabi (selon l'option choisie)",
+   "Guide touristique agree parlant anglais",
+   "Visite de l'emblematique Grande Mosquee Cheikh Zayed"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel a Abu Dhabi",
+   "Nourriture et boissons",
+   "Depenses personnelles",
+   "Pourboires"
+  ]
+ },
+ "discover-scuba-diving-in-dubai-first-dive": {
+  "title": "Dubai : decouverte de la plongee sous-marine, votre premiere plongee",
+  "metaTitle": "Dubai : premiere plongee decouverte",
+  "metaDescription": "La session pour quiconque n'a jamais respire sous l'eau : aucune certification requise, instructeur present tout au long.",
+  "shortDescription": "La session pour quiconque n'a jamais respire sous l'eau. Aucune certification, aucun cours, aucune experience prealable : un instructeur vous explique la theorie a terre, ajuste l'equipement, puis plonge avec vous.",
+  "fullDescription": "La session pour quiconque n'a jamais respire sous l'eau. Aucune certification, aucun cours, aucune experience prealable : un instructeur vous explique la theorie a terre, ajuste l'equipement, puis plonge avec vous.\n\nEnviron trois heures en tout, dont la plus grande partie est de la preparation. La plongee elle-meme est peu profonde et supervisee tout au long, avec l'instructeur a portee de bras en permanence.\n\nCe que ce n'est pas, c'est un cours. Vous ne partirez pas avec une qualification ; ce que vous repartez avec, c'est savoir si vous en voulez une, ce qui pour la plupart des gens est la vraie question.\n\nTout l'equipement est fourni et l'instruction est incluse.\n\nDeux remarques pratiques. Vous ne devez pas prendre l'avion dans les dix-huit a vingt-quatre heures suivant la plongee, donc cela ne peut pas etre votre activite du dernier jour : placez-la en debut de voyage. Et il y a un questionnaire medical : l'asthme, les problemes cardiaques, une chirurgie recente et certains medicaments necessitent l'accord d'un medecin avant de pouvoir plonger, et decouvrir cela au centre de plongee gache la matinee. Si quelque chose de cette liste vous concerne, reglez-le avant de voyager.",
+  "highlights": [
+   "Aucune certification ni experience necessaire : un instructeur est avec vous en permanence",
+   "Environ trois heures, la plus grande partie etant preparation et theorie",
+   "Tout l'equipement et l'instruction inclus",
+   "La facon honnete de savoir si vous voulez vraiment apprendre",
+   "Attention : ne reservez pas cela dans les 24 heures avant un vol ; verifiez les questions medicales d'abord"
+  ],
+  "included": [
+   "Equipement de plongee",
+   "Instruction"
+  ],
+  "notIncluded": [
+   "Transport"
+  ]
+ },
+ "dubai-flyboard-session-with-instructor-off-the-burj-al-arab": {
+  "title": "Dubai : session de flyboard avec instructeur devant le Burj Al Arab",
+  "metaTitle": "Dubai : flyboard devant le Burj Al Arab",
+  "metaDescription": "Trente minutes de flyboard avec un instructeur, au large d'Umm Suqeim avec le Burj Al Arab en arriere-plan.",
+  "shortDescription": "Un flyboard est une planche attachee a vos pieds alimentee par un jet d'eau, qui vous souleve de la mer et vous y maintient. Trente minutes avec un instructeur, au large d'Umm Suqeim avec le Burj Al Arab derriere vous.",
+  "fullDescription": "Un flyboard est une planche attachee a vos pieds alimentee par un jet d'eau, qui vous souleve de la mer et vous y maintient. Trente minutes avec un instructeur, au large d'Umm Suqeim avec le Burj Al Arab derriere vous.\n\nPersonne ne vole immediatement. Les dix premieres minutes sont passees a trouver son equilibre tandis que l'instructeur controle l'accelerateur depuis le bateau, et la plupart des gens tiennent debout de maniere stable a mi-parcours et plongent comme un dauphin a la fin. Cette progression fait tout l'interet.\n\nAucune experience n'est necessaire et vous n'avez pas besoin d'etre un bon nageur : un gilet de sauvetage est porte tout au long et l'instructeur est dans l'eau avec vous.\n\nLes photos et videos sont prises par l'instructeur et envoyees ensuite, ce qui compte ici plus que sur la plupart des activites : c'est vraiment difficile a photographier soi-meme et cela semble bien plus spectaculaire que ce qu'on ressent.\n\nDes casiers et une cabine avec douche ouverte sont fournis. Les lentilles de contact valent mieux etre echangees contre des lunettes laissees a terre, ou perdues.",
+  "highlights": [
+   "Trente minutes avec un instructeur qui controle l'accelerateur depuis le bateau",
+   "La plupart des gens tiennent debout a mi-parcours et plongent a la fin",
+   "Aucune experience ni bonne nage necessaire : gilet de sauvetage tout au long",
+   "Photos et videos prises par l'instructeur, incluses",
+   "Casiers et cabine avec douche ouverte"
+  ],
+  "included": [
+   "Session de flyboard",
+   "Gilet de sauvetage",
+   "Casque souple (optionnel)",
+   "Photos et videos prises par l'instructeur",
+   "Casiers",
+   "Cabine avec douche ouverte",
+   "Wifi et borne de recharge",
+   "Reduction de 20 % sur la nourriture et les boissons au Lumiere Cafe de la marina"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel"
+  ]
+ },
+ "dubai-desert-park-horseback-riding-hour": {
+  "title": "Dubai : heure d'equitation au parc du desert",
+  "metaTitle": "Dubai : equitation au parc du desert",
+  "metaDescription": "Une heure a cheval dans un parc desertique hors de la ville, avec briefing de securite, casque et soins au cheval ensuite.",
+  "shortDescription": "Une heure a cheval dans un parc desertique hors de la ville, une proposition bien plus calme que tout le reste de la liste d'activites de Dubai.",
+  "fullDescription": "Une heure a cheval dans un parc desertique hors de la ville, une proposition bien plus calme que tout le reste de la liste d'activites de Dubai.\n\nLe parcours traverse des broussailles ouvertes et des pistes de sable plutot que des dunes, donc cela fonctionne pour les cavaliers qui ne sont pas confiants : il y a un briefing de securite, un casque, et le rythme est fixe par le groupe. Les debutants complets sont frequents et sont guides plutot que laisses a eux-memes.\n\nEnsuite, il y a une courte session sur les soins au cheval, qui semble une formalite et c'est la partie dont les enfants se souviennent.\n\nMeilleur pendant les mois plus frais et de preference tot. Entre juin et septembre, c'est une activite au lever du soleil ou rien : une heure en plein air a midi aux Emirats est desagreable pour vous comme pour l'animal, et les ecuries responsables ne la proposent pas.\n\nPortez des pantalons longs et des chaussures fermees. Monter en short est une erreur que personne ne fait deux fois.",
+  "highlights": [
+   "Une heure d'equitation dans un parc desertique, pas sur des dunes",
+   "Briefing de securite et casque ; les debutants complets sont la norme ici",
+   "Une session apres la monte sur les soins au cheval",
+   "Meilleur au lever du soleil, et une activite d'hiver entre juin et septembre",
+   "Attention : pantalons longs et chaussures fermees, monter en short est une erreur"
+  ],
+  "included": [
+   "1 heure d'equitation",
+   "Briefing de securite",
+   "Soins au cheval apres la monte",
+   "Casque"
+  ],
+  "notIncluded": [
+   "Pourboires (optionnels)",
+   "Transferts"
+  ]
+ },
+ "fujairah-east-coast-day-tour-from-dubai-with-khor-fakkan": {
+  "title": "Fujairah : tour de la cote est depuis Dubai avec Khor Fakkan",
+  "metaTitle": "Fujairah : cote est et Khor Fakkan",
+  "metaDescription": "A travers le pays jusqu'a l'autre cote, par les montagnes Hajar, avec le musee de Fujairah et la plage de Khor Fakkan.",
+  "shortDescription": "A travers le pays jusqu'a l'autre cote, l'excursion d'une journee qui surprend le plus les visiteurs.",
+  "fullDescription": "A travers le pays jusqu'a l'autre cote, l'excursion d'une journee qui surprend le plus les visiteurs.\n\nLa route quitte les plaines de Dubai, traverse Al-Madam et les montagnes Hajar, et ressort sur le golfe d'Oman : eau verte, pas de tours, et des montagnes qui tombent directement sur le littoral. Elle passe par Dibba, Kalba et les enclaves de la cote est de Sharjah en chemin.\n\nLes arrets comprennent le musee de Fujairah, avec des decouvertes de l'age du bronze provenant de colonies le long de cette cote, le musee du patrimoine, et la plage de Khor Fakkan, qui s'incurve sous les collines et est la photo que tout le monde rapporte.\n\nHuit heures porte a porte et une bonne partie de ce temps est de la conduite : c'est l'echange honnete, et ce que vous obtenez en retour, c'est la moitie des Emirats qu'aucun itineraire de Dubai n'inclut.\n\nApportez un maillot de bain. L'eau de ce cote est calme et claire d'une maniere que la cote de Dubai n'est pas, et l'arret a la plage est gaspille sans cela.\n\nPrise en charge a l'hotel a Dubai et vehicule climatise tout au long.",
+  "highlights": [
+   "A travers les montagnes Hajar jusqu'au golfe d'Oman",
+   "Les decouvertes de l'age du bronze du musee de Fujairah sur ce littoral",
+   "La plage de Khor Fakkan qui s'incurve sous les collines",
+   "Arret photo dans le desert d'Al-Madam en chemin",
+   "Huit heures avec prise en charge a l'hotel : apportez un maillot de bain pour l'arret plage"
+  ],
+  "included": [
+   "Prise en charge et retour a l'hotel a Dubai",
+   "Transport en vehicule climatise",
+   "Arret photo dans le desert d'Al-Madam",
+   "Arret photo a la plage de Khor Fakkan",
+   "Entree au musee de Fujairah",
+   "Entree au fort de Fujairah",
+   "Village du patrimoine de Fujairah",
+   "Visite de la Grande Mosquee Cheikh Zayed de Fujairah",
+   "Visite de la mosquee Al Bidya",
+   "Corniche de Fujairah",
+   "Monument de la Resistance",
+   "Plage Umbrella"
+  ],
+  "notIncluded": [
+   "Dejeuner",
+   "Pourboires"
+  ]
+ },
+ "dubai-one-hour-jet-ski-tour-to-atlantis-and-the-palm": {
+  "title": "Dubai : tour en jet ski d'une heure vers Atlantis et la Palm",
+  "metaTitle": "Dubai : jet ski 1 heure, Atlantis et Palm",
+  "metaDescription": "Une heure sur votre propre jet ski depuis Umm Suqeim le long de la Palm jusqu'a Atlantis, avec guide, photos et videos incluses.",
+  "shortDescription": "Une heure sur votre propre machine, soit le double des trente minutes habituelles, et la difference entre voir les monuments et vraiment rouler.",
+  "fullDescription": "Une heure sur votre propre machine, soit le double des trente minutes habituelles, et la difference entre voir les monuments et vraiment rouler.\n\nLe parcours part du port d'Umm Suqeim a cote du Burj Al Arab, suit le croissant de la Palm jusqu'a Atlantis, et redescend le littoral. Un guide roule a vos cotes en donnant la ligne et le rythme.\n\nAucun permis ni experience necessaire. Il y a un briefing a terre, les commandes sont simples, et si vous n'en avez jamais fait, le guide ralentit tout le groupe plutot que de vous laisser derriere.\n\nLes photos et videos sont prises par l'instructeur depuis l'eau et vous sont envoyees ensuite : incluses, et la raison pour laquelle la plupart des gens obtiennent la photo d'eux-memes avec le Burj Al Arab en arriere-plan plutot qu'une photo de telephone au loin.\n\nCasiers, eau potable et une cabine sont fournis.\n\nVous serez trempe, alors apportez quelque chose dont vous n'avez pas peur de mouiller et une tenue de rechange si vous avez des projets ensuite. Une heure est la bonne duree ; trente minutes couvrent les monuments mais les gens regrettent regulierement de ne pas avoir reserve plus long.",
+  "highlights": [
+   "Une heure complete, pas les trente minutes habituelles",
+   "Depuis le Burj Al Arab le long de la Palm jusqu'a Atlantis",
+   "Photos et videos prises depuis l'eau par le guide, incluses",
+   "Aucun permis ni experience necessaire : briefing a terre d'abord",
+   "Casiers, cabine et eau fournis"
+  ],
+  "included": [
+   "Tour en jet ski",
+   "Instructeur",
+   "Eau potable",
+   "Photos et videos prises par l'instructeur",
+   "Utilisation d'un casier",
+   "Cabine avec douche ouverte",
+   "Wifi et borne de recharge",
+   "Reduction de 20 % sur la nourriture et les boissons au Lumiere Cafe de la marina"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel"
+  ]
+ },
+ "al-marmoom-heritage-desert-safari-with-vintage-g-class-and-oasis-dinner": {
+  "title": "Al Marmoom : safari desert patrimonial en G-Class vintage avec diner a l'oasis",
+  "metaTitle": "Al Marmoom : safari patrimonial, G-Class, oasis",
+  "metaDescription": "Le safari dans le desert pour ceux qui ne veulent pas de safari classique : village bedouin, G-Class vintage, chameaux et diner a l'oasis.",
+  "shortDescription": "Le safari dans le desert pour les gens qui ne veulent pas d'un safari dans le desert.",
+  "fullDescription": "Le safari dans le desert pour les gens qui ne veulent pas d'un safari dans le desert.\n\nAl Marmoom est une reserve de conservation plutot qu'un champ de dunes commercial, et ce voyage est construit autour de ce a quoi servait le desert plutot que de ce sur quoi on peut rouler. Il n'y a pas de conduite sur dunes.\n\nA la place : un accueil traditionnel dans un village bedouin, un trajet en G-Class vintage a travers la reserve, une caravane de chameaux plutot qu'un tour de deux minutes dans un enclos, un faucon sur le gant, et un diner a l'oasis Al Marmoom sous les lumieres.\n\nSix heures, prise en charge a l'hotel incluse, dans un vehicule climatise.\n\nLa difference en pratique, c'est le rythme et la foule. Le safari classique est bruyant et anime et se termine avec trois cents personnes dans un seul camp ; celui-ci est calme, et les animaux et les guides sont l'interet plutot que l'adrenaline.\n\nIl convient a quiconque n'est pas pret pour la conduite sur dunes : grossesse, problemes de dos ou de cou, mal des transports, et a quiconque a deja fait le safari classique et veut l'autre version du meme desert.",
+  "highlights": [
+   "Une reserve de conservation, pas un champ de dunes commercial : pas de conduite sur dunes",
+   "Trajet en G-Class vintage et caravane de chameaux plutot qu'un enclos",
+   "Accueil au village bedouin et faucon sur le gant",
+   "Diner a l'oasis Al Marmoom sous les lumieres",
+   "Le safari pour quiconque ne peut pas ou ne veut pas faire de conduite sur dunes"
+  ],
+  "included": [
+   "Prise en charge et retour a l'hotel",
+   "Transport en vehicule climatise",
+   "Accueil traditionnel dans un village bedouin",
+   "Trajet en G-Class vintage (30 a 40 minutes)",
+   "Caravane de chameaux (10 a 12 minutes, repetee deux fois)",
+   "Diner bedouin authentique a 5 services (menu fixe)",
+   "Divertissement de style bedouin",
+   "Spectacle de faucon arabe",
+   "Peinture au henne",
+   "Observation des etoiles au telescope",
+   "Eau et boissons non alcoolisees illimitees",
+   "Stand en direct pour cafe arabe, the et luqaimat (douceurs emiraties)"
+  ],
+  "notIncluded": [
+   "Pourboires (non obligatoires)"
+  ]
+ },
+ "dubai-private-highlights-tour-with-street-food-and-a-premium-car": {
+  "title": "Dubai : tour prive des monuments avec street food et voiture haut de gamme",
+  "metaTitle": "Dubai : tour prive, street food, voiture premium",
+  "metaDescription": "Voiture de classe affaires, guide agree pour la journee, street food en chemin : Dubai Frame, Burj Khalifa, Blue Mosque et plus.",
+  "shortDescription": "Les monuments de Dubai sont repartis sur soixante-dix kilometres de littoral et la difference entre une bonne journee et une journee frustrante tient presque entierement au vehicule et a qui conduit.",
+  "fullDescription": "Les monuments de Dubai sont repartis sur soixante-dix kilometres de littoral et la difference entre une bonne journee et une journee frustrante tient presque entierement au vehicule et a qui conduit.\n\nC'est la version privee : une voiture de classe affaires, un guide agree qui est a vous pour la journee, et une prise en charge a l'hotel, donc l'itineraire s'adapte a ce que vous voulez vraiment plutot qu'un programme fixe de car.\n\nIl couvre le Dubai Frame, le Burj Khalifa, la Blue Mosque, Bluewaters Island et la vieille ville, avec de la street food en chemin plutot qu'un arret restaurant programme. Le billet d'entree au Frame est inclus si vous selectionnez cette option.\n\nCe que le prive achete ici, c'est du temps. Sur un tour partage, le groupe attend son membre le plus lent a chaque arret ; sur celui-ci, si les souks sont interessants, vous restez plus longtemps, et si le centre commercial ne l'est pas, vous partez.\n\nCela convient aux familles, a quiconque voyage avec des limites de mobilite, et aux premieres visites ou vous prefereriez comprendre la ville plutot que de la cocher sur une liste. Pour un voyageur solo avec un budget limite, un tour partage couvre un terrain similaire pour beaucoup moins.",
+  "highlights": [
+   "Voiture privee et guide pour la journee, pas un car partage",
+   "Dubai Frame, Burj Khalifa, Blue Mosque, Bluewaters et la vieille ville",
+   "Street food en chemin plutot qu'un restaurant programme",
+   "L'itineraire s'adapte a ce que vous voulez vraiment voir",
+   "Prise en charge et retour a l'hotel en vehicule de classe affaires climatise"
+  ],
+  "included": [
+   "Tour prive guide de Dubai",
+   "Vehicule climatise de classe affaires",
+   "Guide professionnel",
+   "Prise en charge et retour a l'hotel",
+   "Billet d'entree pour le Dubai Frame (si option selectionnee)",
+   "Entree a la Blue Mosque",
+   "Arret photo au Museum Of The Future et acces au rez-de-chaussee",
+   "Visite du Souk Madinat",
+   "Arret photo a Bluewaters Island",
+   "Visite de Palm Jumeirah",
+   "Arret photo au Burj Khalifa (si option selectionnee)",
+   "Visite du quartier historique Al Fahidi"
+  ],
+  "notIncluded": [
+   "Visite guidee a l'interieur du Frame",
+   "Pourboires (optionnels)"
+  ]
+ },
+ "dubai-can-am-1000cc-buggy-desert-adventure": {
+  "title": "Dubai : aventure dans le desert en buggy Can-Am 1000cc",
+  "metaTitle": "Dubai : buggy Can-Am 1000cc, desert",
+  "metaDescription": "Un Can-Am 1000cc que vous conduisez vous-meme sur les dunes rouges, avec arceau de securite et briefing avant de partir.",
+  "shortDescription": "Un Can-Am 1000cc, que vous conduisez vous-meme, a travers les dunes rouges, un sport bien different d'etre passager dans le 4x4 de quelqu'un.",
+  "fullDescription": "Un Can-Am 1000cc, que vous conduisez vous-meme, a travers les dunes rouges, un sport bien different d'etre passager dans le 4x4 de quelqu'un.\n\nLe Can-Am est l'extremite serieuse des buggys de desert : arceau de securite, pneus larges, et assez de puissance pour gravir les faces de dunes avec votre propre accelerateur plutot que d'etre treuille par-dessus. Il y a un briefing et un equipement de securite d'abord, et un instructeur qui evalue combien de machine on peut vous confier avant de vous laisser y aller.\n\nC'est la version pour laquelle les gens reviennent quand le safari desert classique leur a semble fade.\n\nLa soiree au camp apres, diner barbecue, danse du ventre et spectacles de tanoura, chicha, tour a dos de chameau, est optionnelle et depend du niveau choisi, pas automatique. Lisez bien quelle option vous achetez : le niveau d'entree, c'est le buggy et le desert, et le camp s'ajoute par-dessus.\n\nAttention : c'est physique. Vous serez en train d'agripper, de diriger et de vous stabiliser pendant toute la session, et c'est un travail poussiereux. Pas celui a reserver avec des problemes de dos, et pas celui a reserver en esperant une balade tranquille au coucher du soleil.",
+  "highlights": [
+   "Un Can-Am 1000cc que vous conduisez vous-meme, pas un siege passager",
+   "Arceau de securite, equipement complet et briefing avant de partir",
+   "Assez de puissance pour gravir les faces de dunes avec votre propre accelerateur",
+   "Diner et spectacles au camp disponibles comme niveau superieur",
+   "Attention : vraiment physique et poussiereux, pas une balade tranquille au coucher du soleil"
+  ],
+  "included": [
+   "Prise en charge et retour au centre de Dubai",
+   "Trajet en buggy Can-Am 1000cc",
+   "Diner barbecue (si option camp selectionnee)",
+   "Spectacle de danse du ventre (si option camp selectionnee)",
+   "Spectacle de tanoura (si option camp selectionnee)",
+   "Chicha (si option camp selectionnee)",
+   "Tour a dos de chameau (si option camp selectionnee)",
+   "Tatouage au henne (si option camp selectionnee)",
+   "Cafe arabe et boissons non alcoolisees (si option camp selectionnee)"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisees (disponibles a l'achat)",
+   "Photos souvenirs (disponibles a l'achat)",
+   "Pourboires (optionnels)"
+  ]
+ },
+ "dubai-sunseeker-superyacht-omakase-dinner-cruise": {
+  "title": "Dubai : croisiere-diner omakase sur superyacht Sunseeker",
+  "metaTitle": "Dubai : croisiere omakase, Sunseeker",
+  "metaDescription": "Trois heures sur un Sunseeker avec menu omakase, champagne a volonte et DJ en direct, au large de la Marina et de la Palm.",
+  "shortDescription": "Trois heures sur un Sunseeker avec un menu omakase de sushi, du champagne a volonte et un DJ en direct, une proposition specifique plutot que generale.",
+  "fullDescription": "Trois heures sur un Sunseeker avec un menu omakase de sushi, du champagne a volonte et un DJ en direct, une proposition specifique plutot que generale.\n\nOmakase signifie que le chef choisit : vous etes servi une sequence plutot que de commander sur une liste, et c'est prepare a bord plutot qu'apporte froid. Autour de cela : des bouchees gastronomiques, des spiritueux et cocktails haut de gamme, et un DJ au fil de la soiree.\n\nLe parcours suit le littoral de la Dubai Marina devant Ain Dubai, la Palm et le Burj Al Arab, avec la skyline qui s'illumine derriere.\n\nC'est le haut de gamme du marche des croisieres de Dubai et cela se lit ainsi. Si ce que vous voulez c'est la vue et une heure sur l'eau, il y a des croisieres a un cinquieme du prix qui le font bien. Ce que cela achete, c'est le bateau, la nourriture et le fait qu'il n'y a pas deux cents personnes a bord.\n\nCela vaut le coup de reserver la navigation au coucher du soleil : la lumiere sur ce littoral entre la derniere heure de soleil et la nuit complete est la raison pour laquelle ces bateaux existent.",
+  "highlights": [
+   "Trois heures sur un Sunseeker, pas un bateau de fete converti",
+   "Sushi omakase prepare a bord, pas apporte froid",
+   "Champagne a volonte, spiritueux haut de gamme et DJ en direct",
+   "Marina, Ain Dubai, la Palm et le Burj Al Arab illumines",
+   "Peu de monde a bord : c'est l'extremite calme du marche"
+  ],
+  "included": [
+   "Menu omakase de sushi",
+   "Cuisine japonaise",
+   "Champagne a volonte",
+   "Bouchees gastronomiques",
+   "Spiritueux et cocktails premium haut de gamme",
+   "Vue sur la skyline de Dubai et les monuments emblematiques",
+   "Musique en direct",
+   "Tour de 3 heures",
+   "Menu diner fixe",
+   "Baignade dans la piscine (tour de jour uniquement)",
+   "Serviettes et chaussons",
+   "Soiree nocturne (sushi en direct uniquement)"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel",
+   "Depenses personnelles",
+   "Options supplementaires"
+  ]
+ },
+ "dubai-helicopter-flight-and-desert-safari-combined-day": {
+  "title": "Dubai : journee combinee vol en helicoptere et safari dans le desert",
+  "metaTitle": "Dubai : helicoptere et safari desert combines",
+  "metaDescription": "Les deux choses les plus demandees a Dubai en une journee : douze minutes de vol puis safari sur dunes rouges, transferts geres.",
+  "shortDescription": "Les deux choses que les gens veulent le plus de Dubai, en une journee, avec le transport gere entre les deux.",
+  "fullDescription": "Les deux choses que les gens veulent le plus de Dubai, en une journee, avec le transport gere entre les deux.\n\nL'helicoptere vient en premier : douze minutes au-dessus du Burj Al Arab, de la Palm Jumeirah et du Burj Khalifa, la seule maniere de voir la Palm comme la forme dessinee a l'origine plutot qu'un reseau routier.\n\nPuis le desert. Un 4x4 vous prend en charge, les pneus se degonflent a la ligne des dunes, et il y a de la conduite sur dunes a travers les dunes rouges, du sandboard, de la conduite en quad et un tour a dos de chameau que vous pouvez repeter. Rafraichissements au camp.\n\nSix heures en tout, ce qui fait une journee complete mais pas eprouvante.\n\nCela coute plus que chaque moitie achetee separement, et ce que vous payez, c'est que quelqu'un d'autre regle la logistique : le terminal d'helicoptere et le desert sont aux extremites opposees de la ville, et faire les deux le meme jour independamment signifie deux longs transferts et beaucoup d'attente.\n\nAttention : les vols en helicoptere dependent de la meteo. Si le vol est annule, la moitie desert a quand meme lieu, et l'operateur gere la difference : utile a savoir avant de reserver cela comme une journee unique.",
+  "highlights": [
+   "Douze minutes au-dessus du Burj Al Arab, de la Palm et du Burj Khalifa",
+   "Conduite sur dunes rouges, sandboard, quad et tours a dos de chameau",
+   "Les deux moities en une journee avec les transferts geres",
+   "Six heures porte a porte avec prise en charge a l'hotel",
+   "Attention : le vol depend de la meteo, la moitie desert a lieu quand meme"
+  ],
+  "included": [
+   "Transport en vehicule 4x4 climatise",
+   "Billet de vol en helicoptere de 12 minutes",
+   "Experience de conduite sur dunes",
+   "Tour a dos de chameau (repetable selon besoin)",
+   "Sandboard",
+   "Experience avec faucon",
+   "Eau minerale fraiche et boissons non alcoolisees",
+   "Guide de safari agree",
+   "Rafraichissements sous tente climatisee (the/cafe arabe avec dattes)",
+   "Conduite en quad (si option selectionnee)"
+  ],
+  "notIncluded": [
+   "Pourboires (non obligatoires)",
+   "Retour a l'hotel"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
