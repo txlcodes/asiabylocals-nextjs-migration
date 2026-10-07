@@ -78429,6 +78429,22 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas (no obligatorias)"
   ]
  },
+ "abu-dhabi-catamaran-corniche-cruise-3hours": {
+  "title": "Abu Dhabi: crucero en catamaran por la Corniche, 3 horas",
+  "metaTitle": "Abu Dhabi: crucero en catamaran por la Corniche, 3 horas",
+  "metaDescription": "Experiencia de 3 hora(s) en Abu Dhabi. Turismo espectacular. Ofrecido por SEA SAFARI CRUISES ABU DHABI.",
+  "shortDescription": "Experiencia de 3 hora(s) en Abu Dhabi. Turismo espectacular. Ofrecido por SEA SAFARI CRUISES ABU DHABI.",
+  "fullDescription": "Una experiencia de 3 hora(s) en Abu Dhabi. Turismo espectacular.\n\nSEA SAFARI CRUISES ABU DHABI la organiza, y 1 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye refrescos y bocadillos. No incluye , por lo que debe presupuestar eso por separado. Dos viajeros pagan 1658 $ juntos en lugar de 1658 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Turismo espectacular"
+  ],
+  "included": [
+   "Refrescos y bocadillos"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "dubai-evening-desert-safari-with-camel-ride-starga": {
   "title": "Dubai: safari por el desierto por la tarde con paseo en camello y observacion de estrellas",
   "metaTitle": "Dubai: safari por el desierto por la tarde con paseo en camell...",
@@ -79755,6 +79771,22 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Material de elearning Padi",
    "Toalla, ropa de bano"
+  ]
+ },
+ "abu-dhabi-catamaran-cruise-2hr-trip": {
+  "title": "Abu Dhabi: crucero en catamaran, excursion de 2 horas",
+  "metaTitle": "Abu Dhabi: crucero en catamaran, excursion de 2 horas",
+  "metaDescription": "Experiencia de 2 hora(s) en Abu Dhabi. Turismo espectacular. Ofrecido por SEA SAFARI CRUISES ABU DHABI.",
+  "shortDescription": "Experiencia de 2 hora(s) en Abu Dhabi. Turismo espectacular. Ofrecido por SEA SAFARI CRUISES ABU DHABI.",
+  "fullDescription": "Una experiencia de 2 hora(s) en Abu Dhabi. Turismo espectacular.\n\nSEA SAFARI CRUISES ABU DHABI la organiza, y 1 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye refrescos y bocadillos. No incluye , por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Turismo espectacular"
+  ],
+  "included": [
+   "Refrescos y bocadillos"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "dubai-abu-dhabi-mosque-and-ferrari-world-tour-with": {
@@ -83302,6 +83334,23 @@ export const ES_TOURS: Record<string, TourT> = {
    "Propinas (opcional)"
   ]
  },
+ "dubai-speedboat-pulled-donut-ride-trip-in-jbr": {
+  "title": "Dubai: paseo en boya donut remolcada por lancha rapida en JBR",
+  "metaTitle": "Dubai: paseo en boya donut remolcada por lancha rapida en JBR",
+  "metaDescription": "Experiencia de 0,5 hora(s) en Dubai. Actividad acuatica de aventura con boya donut y potente lancha rapida. Ofrecido por Sealife Watersports Equipment Rental LLC.",
+  "shortDescription": "Experiencia de 0,5 hora(s) en Dubai. Actividad acuatica de aventura con boya donut y potente lancha rapida. Ofrecido por Sealife Watersports Equipment Rental LLC.",
+  "fullDescription": "Una experiencia de 0,5 hora(s) en Dubai. Actividad acuatica de aventura con boya donut y potente lancha rapida.\n\nSealife Watersports Equipment Rental LLC la organiza, y 1 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye alrededor de 20 minutos de paseo en lancha rapida. No incluye fotografia y videografia GoPro, por lo que debe presupuestar eso por separado. Dos viajeros pagan 208 $ juntos en lugar de 208 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Actividad acuatica de aventura con boya donut y potente lancha rapida"
+  ],
+  "included": [
+   "Alrededor de 20 minutos de paseo en lancha rapida"
+  ],
+  "notIncluded": [
+   "Fotografia",
+   "Videografia GoPro"
+  ]
+ },
  "abu-dhabi-scenic-helicopter-tour": {
   "title": "Abu Dhabi: tour panoramico en helicoptero",
   "metaTitle": "Abu Dhabi: tour panoramico en helicoptero",
@@ -84708,6 +84757,22 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Comidas",
    "Gastos personales"
+  ]
+ },
+ "abu-dhabi-hudairiyat-island-horse-riding-experienc": {
+  "title": "Abu Dhabi: experiencia de equitacion en Hudairiyat Island",
+  "metaTitle": "Abu Dhabi: experiencia de equitacion en Hudairiyat Island",
+  "metaDescription": "Experiencia de 0,5 hora(s) en Abu Dhabi. Sienta la emocion de montar a caballo por la playa de Hudairiyat Island. Ofrecido por MUHAB EQUESTRIAN EDUCATION HORSE RI...",
+  "shortDescription": "Experiencia de 0,5 hora(s) en Abu Dhabi. Sienta la emocion de montar a caballo por la playa de Hudairiyat Island. Ofrecido por MUHAB EQUESTRIAN EDUCATION HORSE RIDING.",
+  "fullDescription": "Una experiencia de 0,5 hora(s) en Abu Dhabi. Sienta la emocion de montar a caballo por la playa de Hudairiyat Island.\n\nMUHAB EQUESTRIAN EDUCATION HORSE RIDING la organiza, y 1 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye paseo a caballo. No incluye , por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Sienta la emocion de montar a caballo por la playa de Hudairiyat Island"
+  ],
+  "included": [
+   "Paseo a caballo"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "desert-safari-dubai-with-camel-ride-sandboarding-d": {

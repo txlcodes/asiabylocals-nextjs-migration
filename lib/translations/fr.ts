@@ -78429,6 +78429,22 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires (non obligatoires)"
   ]
  },
+ "abu-dhabi-catamaran-corniche-cruise-3hours": {
+  "title": "Abu Dhabi : croisiere en catamaran a la Corniche, 3 heures",
+  "metaTitle": "Abu Dhabi : croisiere en catamaran a la Corniche, 3 heures",
+  "metaDescription": "Experience de 3 heure(s) a Abu Dhabi. Tourisme spectaculaire. Propose par SEA SAFARI CRUISES ABU DHABI.",
+  "shortDescription": "Experience de 3 heure(s) a Abu Dhabi. Tourisme spectaculaire. Propose par SEA SAFARI CRUISES ABU DHABI.",
+  "fullDescription": "Une experience de 3 heure(s) a Abu Dhabi. Tourisme spectaculaire.\n\nSEA SAFARI CRUISES ABU DHABI s'en charge, et 1 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend rafraichissements et collations. Il ne comprend pas , prevoyez donc un budget separe. Deux voyageurs paient 1658 $ ensemble plutot que 1658 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Tourisme spectaculaire"
+  ],
+  "included": [
+   "Rafraichissements et collations"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "dubai-evening-desert-safari-with-camel-ride-starga": {
   "title": "Dubai : safari desertique en soiree avec balade a dos de chameau et observation des etoiles",
   "metaTitle": "Dubai : safari desertique en soiree avec balade a dos de chame...",
@@ -79755,6 +79771,22 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Materiel d'elearning Padi",
    "Serviette, tenue de bain"
+  ]
+ },
+ "abu-dhabi-catamaran-cruise-2hr-trip": {
+  "title": "Abu Dhabi : croisiere en catamaran, excursion de 2 heures",
+  "metaTitle": "Abu Dhabi : croisiere en catamaran, excursion de 2 heures",
+  "metaDescription": "Experience de 2 heure(s) a Abu Dhabi. Tourisme spectaculaire. Propose par SEA SAFARI CRUISES ABU DHABI.",
+  "shortDescription": "Experience de 2 heure(s) a Abu Dhabi. Tourisme spectaculaire. Propose par SEA SAFARI CRUISES ABU DHABI.",
+  "fullDescription": "Une experience de 2 heure(s) a Abu Dhabi. Tourisme spectaculaire.\n\nSEA SAFARI CRUISES ABU DHABI s'en charge, et 1 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend rafraichissements et collations. Il ne comprend pas , prevoyez donc un budget separe.",
+  "highlights": [
+   "Tourisme spectaculaire"
+  ],
+  "included": [
+   "Rafraichissements et collations"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "dubai-abu-dhabi-mosque-and-ferrari-world-tour-with": {
@@ -83302,6 +83334,23 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires (optionnel)"
   ]
  },
+ "dubai-speedboat-pulled-donut-ride-trip-in-jbr": {
+  "title": "Dubai : balade en bouee donut tiree par hors-bord a JBR",
+  "metaTitle": "Dubai : balade en bouee donut tiree par hors-bord a JBR",
+  "metaDescription": "Experience de 0,5 heure(s) a Dubai. Activite nautique aventureuse avec bouee donut et hors-bord puissant. Propose par Sealife Watersports Equipment Rental LLC.",
+  "shortDescription": "Experience de 0,5 heure(s) a Dubai. Activite nautique aventureuse avec bouee donut et hors-bord puissant. Propose par Sealife Watersports Equipment Rental LLC.",
+  "fullDescription": "Une experience de 0,5 heure(s) a Dubai. Activite nautique aventureuse avec bouee donut et hors-bord puissant.\n\nSealife Watersports Equipment Rental LLC s'en charge, et 1 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend environ 20 minutes de balade en hors-bord. Il ne comprend pas photographie et videographie GoPro, prevoyez donc un budget separe. Deux voyageurs paient 208 $ ensemble plutot que 208 $ chacun, car le prix est fixe par groupe et non par personne.",
+  "highlights": [
+   "Activite nautique aventureuse avec bouee donut et hors-bord puissant"
+  ],
+  "included": [
+   "Environ 20 minutes de balade en hors-bord"
+  ],
+  "notIncluded": [
+   "Photographie",
+   "Videographie GoPro"
+  ]
+ },
  "abu-dhabi-scenic-helicopter-tour": {
   "title": "Abu Dhabi : tour panoramique en helicoptere",
   "metaTitle": "Abu Dhabi : tour panoramique en helicoptere",
@@ -84708,6 +84757,22 @@ export const FR_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Repas",
    "Depenses personnelles"
+  ]
+ },
+ "abu-dhabi-hudairiyat-island-horse-riding-experienc": {
+  "title": "Abu Dhabi : experience d'equitation a Hudairiyat Island",
+  "metaTitle": "Abu Dhabi : experience d'equitation a Hudairiyat Island",
+  "metaDescription": "Experience de 0,5 heure(s) a Abu Dhabi. Ressentez le frisson de monter a cheval sur la plage de Hudairiyat Island. Propose par MUHAB EQUESTRIAN EDUCATION HORSE RI...",
+  "shortDescription": "Experience de 0,5 heure(s) a Abu Dhabi. Ressentez le frisson de monter a cheval sur la plage de Hudairiyat Island. Propose par MUHAB EQUESTRIAN EDUCATION HORSE RIDING.",
+  "fullDescription": "Une experience de 0,5 heure(s) a Abu Dhabi. Ressentez le frisson de monter a cheval sur la plage de Hudairiyat Island.\n\nMUHAB EQUESTRIAN EDUCATION HORSE RIDING s'en charge, et 1 elements sont inclus dans le prix. L'annulation est gratuite.\n\nLe prix comprend balade a cheval. Il ne comprend pas , prevoyez donc un budget separe.",
+  "highlights": [
+   "Ressentez le frisson de monter a cheval sur la plage de Hudairiyat Island"
+  ],
+  "included": [
+   "Balade a cheval"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "desert-safari-dubai-with-camel-ride-sandboarding-d": {
