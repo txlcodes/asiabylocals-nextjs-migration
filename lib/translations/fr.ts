@@ -85700,6 +85700,378 @@ export const FR_TOURS: Record<string, TourT> = {
    "Pourboires"
   ]
  },
+ "private-beach-dinner-on-the-palm-jumeirah": {
+  "title": "Diner prive sur la plage a Palm Jumeirah",
+  "metaTitle": "Diner prive sur la plage, Palm Jumeirah",
+  "metaDescription": "Une table dressee sur le sable dans un resort de Palm Jumeirah, avec la skyline de Dubai en face et le repas servi sur place.",
+  "shortDescription": "Une table dressee sur le sable dans un resort balneaire de Palm Jumeirah, avec la skyline de Dubai de l'autre cote de l'eau et le repas servi a votre place.",
+  "fullDescription": "Une table dressee sur le sable dans un resort balneaire de Palm Jumeirah, avec la skyline de Dubai de l'autre cote de l'eau et le repas servi a votre place.\n\nC'est une mise en scene plutot qu'un restaurant : la table, l'eclairage et le decor sont installes avant votre arrivee, et la cuisine du resort sert les plats sur la plage tout au long de la soiree.\n\nLa vue est la raison du lieu. La courbe interieure de la Palm fait face a la Marina et aux tours de JBR, donc a mesure que la lumiere baisse, toute la skyline s'illumine devant vous plutot que derriere.\n\nLe timing du coucher de soleil est ce qu'il faut bien calculer, et il se deplace beaucoup au fil de l'annee : vers cinq heures et demie en decembre, apres sept heures en juin. Demandez-nous de verifier le coucher de soleil reel pour votre date et de fixer la reservation en fonction plutot que de prendre un creneau par defaut.\n\nEntre juin et septembre, c'est vraiment inconfortable jusqu'a bien apres la nuit tombee ; une reservation hivernale est une experience totalement differente.\n\nIl faut le dire clairement : c'est au prix d'une occasion, pas d'un diner. Si ce que vous voulez c'est de la bonne cuisine au bord de la mer, le restaurant du resort coute une fraction du prix. Ce que vous payez ici, c'est la table sur le sable.",
+  "highlights": [
+   "Une table privee dressee sur le sable dans un resort de Palm Jumeirah",
+   "La skyline de la Marina et JBR qui s'illumine de l'autre cote de l'eau",
+   "Les plats servis sur la plage tout au long de la soiree",
+   "Nous calons la reservation sur le coucher de soleil reel de votre date",
+   "Attention : au prix d'une occasion plutot que d'un diner, c'est le compromis"
+  ],
+  "included": [
+   "Bulles a l'arrivee",
+   "Menu degustation de 5 services (voir la description complete pour les details)",
+   "Places assises privees sur la plage",
+   "Vue imprenable sur la skyline de Dubai"
+  ],
+  "notIncluded": [
+   "Toute boisson ou nourriture supplementaire"
+  ]
+ },
+ "dubai-convertible-mustang-city-tour-with-a-guide": {
+  "title": "Dubai : tour de la ville en Mustang decapotable avec un guide",
+  "metaTitle": "Dubai : tour en Mustang decapotable",
+  "metaDescription": "Une Mustang ou Camaro decapotable, toit baisse, avec un guide, le long de Sheikh Zayed Road, Downtown, la cote de Jumeirah et la Palm.",
+  "shortDescription": "Les monuments de Dubai ont ete concus pour etre vus en roulant, et il y a une difference entre les voir depuis la vitre d'un car et depuis une voiture decouverte.",
+  "fullDescription": "Les monuments de Dubai ont ete concus pour etre vus en roulant, et il y a une difference entre les voir depuis la vitre d'un car et depuis une voiture decouverte.\n\nC'est une Mustang ou une Camaro decapotable, toit baisse, avec un guide a vos cotes, sur un itineraire a travers les parties de la ville qui sont les plus belles a vitesse : Sheikh Zayed Road sous les tours, Downtown devant le Burj Khalifa, la cote de Jumeirah, la Palm et Bluewaters.\n\nLa voiture fait vraiment partie de l'experience. Des arrets photo sont integres et le guide prendra les photos, qui sur une decapotable sont bien meilleures que celles prises depuis un bus.\n\nMeilleur pendant les mois plus frais et dans les deux dernieres heures de lumiere du jour : une decapotable par une apres-midi d'aout a Dubai n'est pas l'experience que l'on imagine, et aucune climatisation n'aide avec le toit baisse.\n\nConvient aux couples, aux petits groupes et a quiconque a deja fait un tour de ville classique et veut les memes monuments dans un autre registre.\n\nPas le choix pour une famille de cinq : ce sont des voitures a deux portes avec un espace arriere limite.",
+  "highlights": [
+   "Une Mustang ou Camaro decouverte, toit baisse, avec un guide a vos cotes",
+   "Sheikh Zayed Road, Downtown, la cote de Jumeirah, la Palm et Bluewaters",
+   "Des arrets photo integres, avec le guide qui prend les photos",
+   "Meilleur dans les deux dernieres heures de lumiere, et meilleur en hiver",
+   "Attention : voitures a deux portes, pas l'option pour une grande famille"
+  ],
+  "included": [
+   "Prise en charge et retour a l'hotel (zone principale de Dubai)",
+   "Mustang ou Camaro decapotable",
+   "Guide et chauffeur certifies",
+   "Eau en bouteille"
+  ],
+  "notIncluded": []
+ },
+ "dubai-private-deep-sea-fishing-trip-with-your-catch-grilled": {
+  "title": "Dubai : sortie de peche en haute mer privee avec votre prise grillee",
+  "metaTitle": "Dubai : peche privee, prise grillee",
+  "metaDescription": "Un bateau prive dans le Golfe au large de Dubai, avec cannes, equipage et le bateau entier pour votre groupe, votre prise grillee a bord.",
+  "shortDescription": "Un bateau prive dans le Golfe, au large de la cote de Dubai, avec cannes, equipage et le navire entier reserve a votre groupe.",
+  "fullDescription": "Un bateau prive dans le Golfe, au large de la cote de Dubai, avec cannes, equipage et le navire entier reserve a votre groupe.\n\nLe Golfe ici abrite kingfish, carangue, barracuda, mero et hamour selon la saison, et l'equipage sait ou ils se trouvent : c'est toute la valeur de partir avec quelqu'un du coin plutot que de louer un bateau et deviner. Le materiel et l'appat sont fournis et les debutants sont la norme ; l'equipage amorce, lance et ramene pour quiconque preferait regarder.\n\nCe qui fait cette sortie, c'est ce qui arrive a ce que vous attrapez : c'est nettoye et grille a bord, donc vous le mangez dans l'heure qui suit la peche.\n\nPrive signifie que le bateau est a vous. Pas d'etrangers, pas de depart fixe, et l'equipage travaille a votre rythme plutot qu'a un horaire.\n\nDeux remarques pratiques. La peche est vraiment imprevisible : certaines matinees sont extraordinaires et d'autres calmes, et aucun operateur honnete ne promettra autre chose. Et prenez quelque chose contre le mal de mer si vous y etes sensible ; le Golfe est calme mais un bateau qui tient position dans la houle se comporte differemment d'un bateau en mouvement.\n\nLe matin tot est le creneau productif. Reservez celui-la plutot qu'une apres-midi.",
+  "highlights": [
+   "Un bateau prive avec equipage, materiel et appat reserve a votre groupe",
+   "Kingfish, carangue, barracuda et hamour selon la saison",
+   "Votre prise nettoyee et grillee a bord, mangee dans l'heure",
+   "Debutants bienvenus : l'equipage amorce, lance et ramene pour vous",
+   "Attention : les matinees sont le creneau productif ; la peche n'est jamais garantie"
+  ],
+  "included": [
+   "Barbecue de la prise",
+   "Encadrement par des pecheurs professionnels",
+   "Permis de peche",
+   "Equipement de peche",
+   "Eau et glace"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel"
+  ]
+ },
+ "natural-history-museum-abu-dhabi-entry-ticket": {
+  "title": "Abu Dhabi : billet d'entree au Musee d'Histoire Naturelle",
+  "metaTitle": "Abu Dhabi : Musee d'Histoire Naturelle",
+  "metaDescription": "Le musee d'histoire naturelle de Saadiyat : temps profond, geologie, evolution et science en direct, avec zones interactives pour enfants.",
+  "shortDescription": "Le musee d'histoire naturelle de l'ile de Saadiyat, consacre a l'histoire de la Terre elle-meme plutot qu'a celle des Emirats : temps profond, geologie, evolution et la science en train de se faire.",
+  "fullDescription": "Le musee d'histoire naturelle de l'ile de Saadiyat, consacre a l'histoire de la Terre elle-meme plutot qu'a celle des Emirats : temps profond, geologie, evolution et la science en train de se faire.\n\nLa collection va de la matiere meteoritique plus ancienne que la planete aux specimens fossiles, jusqu'aux galeries interactives sur la facon dont la science est reellement faite. Il y a des expositions de recherche a cote des presentations, ce qui est inhabituel : on peut voir le travail et pas seulement ses conclusions.\n\nLes zones pour enfants sont vraiment concues pour les enfants plutot que d'etre un coin avec un ecran, et c'est l'une des meilleures attractions familiales d'Abu Dhabi pour cette raison.\n\nPrevoyez deux heures, plus avec des enfants qui s'investissent.\n\nIl se trouve dans le quartier culturel de Saadiyat a cote du Louvre Abu Dhabi et du Zayed National Museum, donc une seule journee sur l'ile peut raisonnablement couvrir deux des trois. Essayer les trois en une journee est possible et represente beaucoup de musee.\n\nEntierement en interieur et climatise, ce qui en fait un bon choix pour le milieu d'une journee d'ete quand les options exterieures sont inutilisables.",
+  "highlights": [
+   "Temps profond, geologie et evolution : la Terre plutot que les Emirats",
+   "Matiere meteoritique plus ancienne que la planete, et specimens fossiles",
+   "Expositions de recherche en direct a cote des presentations",
+   "Zones interactives pour enfants vraiment concues, pas un coin avec un ecran",
+   "Dans le quartier culturel de Saadiyat, a cote du Louvre et du Zayed National Museum"
+  ],
+  "included": [
+   "Acces a des collections uniques",
+   "Experiences immersives",
+   "Zones interactives pour enfants",
+   "Expositions de recherche scientifique"
+  ],
+  "notIncluded": [
+   "Visite guidee"
+  ]
+ },
+ "zayed-national-museum-abu-dhabi-entry-ticket": {
+  "title": "Abu Dhabi : billet d'entree au Zayed National Museum",
+  "metaTitle": "Abu Dhabi : Zayed National Museum",
+  "metaDescription": "Le musee national des Emirats, sur Saadiyat, de l'archeologie la plus ancienne a la federation, dans un batiment de Norman Foster.",
+  "shortDescription": "Le musee national des Emirats Arabes Unis, sur l'ile de Saadiyat, racontant l'histoire du pays depuis son archeologie la plus ancienne jusqu'a la federation et aujourd'hui.",
+  "fullDescription": "Le musee national des Emirats Arabes Unis, sur l'ile de Saadiyat, racontant l'histoire du pays depuis son archeologie la plus ancienne jusqu'a la federation et aujourd'hui.\n\nLe batiment est de Norman Foster, et les cinq tours d'acier qui s'en elevent sont en forme d'ailes de faucon : une reference a la fauconnerie du cheikh Zayed et aux cheminees thermiques qui evacuent l'air chaud des galeries en dessous. Cela vaut le coup de faire le tour de l'exterieur avant d'entrer.\n\nA l'interieur, la collection se deroule chronologiquement : decouvertes neolithiques de la peninsule, commerce de l'age du bronze avec la Mesopotamie et l'Indus, l'economie perliere qui a construit ces villes cotieres, puis le vingtieme siecle et la fondation de l'union.\n\nPour quiconque a passe trois jours a regarder des tours et des centres commerciaux, c'est le batiment qui explique ce qui existait avant eux, et il fait voir le Heritage Village et les vieux forts ailleurs dans la ville tres differemment par la suite.\n\nVotre billet couvre les galeries, les expositions et le jardin Al Masar. Des parcours accessibles, des ascenseurs et des sieges sont presents partout.\n\nPrevoyez deux heures. Il se trouve a distance de marche du Louvre, et les deux ensemble font une journee complete a Saadiyat.",
+  "highlights": [
+   "Le musee national des Emirats, dans un batiment de Norman Foster en forme d'ailes de faucon",
+   "L'histoire du pays, des decouvertes neolithiques a la fondation de l'union",
+   "L'economie perliere qui a construit ces villes cotieres, expliquee correctement",
+   "Galeries, expositions et jardin Al Masar inclus",
+   "A distance de marche du Louvre : les deux font une journee complete a Saadiyat"
+  ],
+  "included": [
+   "Acces au Zayed National Museum",
+   "Expositions sur l'histoire et la culture des Emirats",
+   "Jardin Al Masar",
+   "Parcours accessibles, ascenseurs et sieges dans tout le musee"
+  ],
+  "notIncluded": [
+   "Visite guidee"
+  ]
+ },
+ "dubai-quad-bike-or-dune-buggy-session-with-optional-transfer": {
+  "title": "Dubai : session quad ou buggy des dunes avec transfert optionnel",
+  "metaTitle": "Dubai : session quad ou buggy des dunes",
+  "metaDescription": "La version depouillee : instructeur agree, briefing, casque, et un quad ou un buggy sur les dunes hors de Dubai, sans camp ni spectacles.",
+  "shortDescription": "La version depouillee : un instructeur agree, un briefing de securite, un casque, et au choix un quad ou un buggy sur les dunes hors de Dubai. Pas de camp, pas de diner, pas de spectacles sauf si vous les ajoutez.",
+  "fullDescription": "La version depouillee : un instructeur agree, un briefing de securite, un casque, et au choix un quad ou un buggy sur les dunes hors de Dubai. Pas de camp, pas de diner, pas de spectacles sauf si vous les ajoutez.\n\nC'est la facon la moins chere de vraiment conduire sur le sable ici, et cela convient a deux groupes : les personnes a court de temps qui veulent le desert en quelques heures plutot qu'une soiree, et les personnes qui ont deja fait le safari complet et ont trouve la partie camp la moins interessante.\n\nLe sandboard est inclus si vous selectionnez cette option.\n\nLe transfert a l'hotel est optionnel et facture separement. Si vous ne conduisez pas vous-meme jusque-la, prenez-le ; les points de rendez-vous sont bien en dehors de la ville et un taxi retour coute plus que le transfert.\n\nQuad contre buggy : un quad se conduit comme une moto et est plus physique et plus expose. Un buggy a un arceau de securite, un siege et un volant, et c'est le choix le plus facile avec un passager ou en cas de nervosite sur l'equilibre.\n\nAttention : chaussures fermees, lunettes de soleil et vetements que vous n'avez pas peur d'abimer. C'est un travail poussiereux.",
+  "highlights": [
+   "Instructeur, briefing, casque et un engin : pas de camp, pas de remplissage",
+   "La facon la moins chere de vraiment conduire sur les dunes",
+   "Sandboard disponible comme option selectionnee",
+   "Transfert a l'hotel optionnel ; utile a prendre, les points de rendez-vous sont loin de la ville",
+   "Attention : poussiereux et physique ; chaussures fermees requises"
+  ],
+  "included": [
+   "Experience de quad ou buggy des dunes (selon l'option choisie)",
+   "Instructeur agree",
+   "Briefing de securite",
+   "Equipement de securite (casque)",
+   "Sandboard (si option selectionnee)",
+   "Eau en bouteille",
+   "Transport depuis le point de rendez-vous (si option selectionnee)",
+   "Activites au camp du desert et diner barbecue (si option selectionnee)"
+  ],
+  "notIncluded": [
+   "Assurance"
+  ]
+ },
+ "fort-lisaili-desert-safari-with-camp-dinner-and-shows": {
+  "title": "Safari desert au fort Lisaili avec diner au camp et spectacles",
+  "metaTitle": "Lisaili : safari desert, diner, spectacles",
+  "metaDescription": "Safari sur dunes rouges a Lisaili avec la soiree complete au camp, au choix en passager, en quad ou en buggy pour traverser le sable.",
+  "shortDescription": "Un safari sur dunes rouges a Lisaili avec la soiree complete au camp, et un choix sur la facon de traverser le sable : comme passager, en quad, ou en buggy.",
+  "fullDescription": "Un safari sur dunes rouges a Lisaili avec la soiree complete au camp, et un choix sur la facon de traverser le sable : comme passager, en quad, ou en buggy.\n\nCe choix se fait a l'etape des options et change a la fois le prix et la journee. Passager, c'est le safari classique. Un quad est expose et physique. Un buggy a un arceau de securite et un volant et c'est l'option d'auto-conduite la plus facile.\n\nLa soiree au camp est complete : tour a dos de chameau, tir a l'arc, henne, diner buffet barbecue et spectacles en direct.\n\nSix heures, avec les transferts inclus selon l'option choisie, a verifier, car les niveaux moins chers supposent que vous vous rendiez vous-meme au point de rendez-vous.\n\nC'est l'une des meilleures soirees completes du desert de Dubai en termes de rapport qualite-prix, et Lisaili est suffisamment loin pour que les camps soient moins bondes que ceux plus proches de la ville.\n\nAttention : lisez votre niveau avant de payer. Le diner, les spectacles et le transfert dependent tous de l'option ici, et le prix affiche est celui du niveau d'entree plutot que de l'experience complete. Dites-nous ce que vous voulez inclus et nous confirmerons exactement quelle option le couvre.",
+  "highlights": [
+   "Dunes rouges a Lisaili, plus loin et moins bondees que les camps plus proches",
+   "Traversez le sable comme passager, en quad, ou en buggy : votre choix",
+   "Tour a dos de chameau, tir a l'arc, henne, buffet barbecue et spectacles en direct au camp",
+   "Six heures en tout",
+   "Attention : diner, spectacles et transferts dependent tous de l'option, nous confirmons la votre d'abord"
+  ],
+  "included": [
+   "Transferts inclus (selon les options choisies)",
+   "Tour a dos de chameau",
+   "Tir a l'arc",
+   "Peinture au henne",
+   "Diner buffet barbecue",
+   "Camp de style fort du desert",
+   "2 boissons non alcoolisees + eau illimitee",
+   "Spectacle de feu en direct",
+   "Tours en buggy et en quad (selon l'option choisie)",
+   "Safari dans le desert (selon l'option choisie)"
+  ],
+  "notIncluded": [
+   "Les spectacles de danse du ventre ne sont pas assures pendant le Ramadan"
+  ]
+ },
+ "dubai-marina-sightseeing-yacht-hour-with-live-commentary": {
+  "title": "Dubai Marina : heure de croisiere panoramique en yacht avec commentaire en direct",
+  "metaTitle": "Dubai Marina : yacht panoramique, 1 heure",
+  "metaDescription": "Une heure depuis la Dubai Marina avec un guide en direct, passant par Ain Dubai, JBR, les tours de la Marina et la cote.",
+  "shortDescription": "Une heure au depart de la Dubai Marina avec un guide qui commente ce que vous voyez passer, ce qui fait la difference entre une promenade en bateau et vraiment comprendre le littoral.",
+  "fullDescription": "Une heure au depart de la Dubai Marina avec un guide qui commente ce que vous voyez passer, ce qui fait la difference entre une promenade en bateau et vraiment comprendre le littoral.\n\nLe parcours comprend Ain Dubai sur Bluewaters, le front de mer de JBR, les tours de la Marina et la cote au-dela. Commentaire en direct en anglais tout au long.\n\nIl y a un pont inferieur climatise ainsi que de l'espace sur le pont superieur a l'air libre, donc l'heure fonctionne en ete comme en hiver, ce qui est plus qu'on ne peut dire des hors-bords ouverts.\n\nDe l'eau en bouteille fraiche et des boissons tropicales sont incluses.\n\nC'est le point d'entree du marche des bateaux de Dubai et c'est tarife en consequence. Ce qu'il n'a pas, c'est un arret baignade ou un repas ; ceux-ci sont sur les croisieres plus longues. Ce qu'il a, c'est toute la skyline en soixante minutes pour environ le prix de deux cafes a l'hotel.\n\nPrenez la derniere navigation avant le coucher du soleil si possible. Dubai fait face a l'ouest vers le Golfe, donc le soleil se couche sur une eau ouverte avec les tours qui s'illuminent derriere vous, et cette heure est la plus belle de ce littoral.",
+  "highlights": [
+   "Une heure avec commentaire en direct en anglais : pas juste une promenade en bateau",
+   "Ain Dubai, Bluewaters, JBR et les tours de la Marina",
+   "Pont inferieur climatise ainsi qu'un pont superieur a l'air libre",
+   "Eau fraiche et boissons tropicales incluses",
+   "La facon la moins chere d'acceder a l'eau ici : reservez la navigation avant le coucher du soleil"
+  ],
+  "included": [
+   "Tour de 60 minutes de la Dubai Marina",
+   "Commentaire en direct par un guide anglophone",
+   "Eau en bouteille fraiche et boissons tropicales offertes",
+   "Acces a un pont inferieur climatise",
+   "Acces a un pont superieur a l'air libre",
+   "Toilettes a bord",
+   "Occasions de photos"
+  ],
+  "notIncluded": []
+ },
+ "dubai-red-dunes-self-drive-quad-or-buggy-with-camel-ride": {
+  "title": "Dubai : dunes rouges en conduite autonome, quad ou buggy, avec tour a dos de chameau",
+  "metaTitle": "Dubai : dunes rouges, quad/buggy, chameau",
+  "metaDescription": "Conduite autonome sur les dunes rouges en quad ou buggy, avec sandboard, tour a dos de chameau et arret photo avec faucon.",
+  "shortDescription": "Conduite autonome sur les dunes rouges en quad ou en buggy, au choix a l'etape des options, avec un instructeur en tete et les extras habituels du desert.",
+  "fullDescription": "Conduite autonome sur les dunes rouges en quad ou en buggy, au choix a l'etape des options, avec un instructeur en tete et les extras habituels du desert.\n\nLe choix compte plus que les gens ne l'imaginent. Un quad se conduit comme une moto, vous etes expose, et c'est le plus physique des deux. Un buggy a un arceau de securite, un siege et un volant, et c'est l'option la plus facile pour quiconque est nerveux ou roule avec un passager.\n\nAutour de la conduite : sandboard, un court tour a dos de chameau que vous pouvez repeter, un faucon pour les photos, et un arret photo sur une crete.\n\nC'est l'extremite plus courte et moins chere du marche du desert : pas de diner au camp, pas de spectacles le soir, juste la conduite et les dunes. Cela convient a ceux qui veulent le desert sans sacrifier toute une soiree, et a quiconque a trouve que la partie camp du safari standard de six heures etait la plus ennuyeuse.\n\nCasque, briefing de securite et instructeur experimente sont inclus.\n\nAttention : poussiereux et physique. Lunettes de soleil, chaussures fermees, et vetements que vous n'avez pas peur d'abimer.",
+  "highlights": [
+   "Choisissez un quad ou un buggy des dunes : des sensations vraiment differentes",
+   "Instructeur en tete, casque et briefing de securite inclus",
+   "Sandboard, un tour a dos de chameau repetable et un arret photo avec faucon",
+   "La version courte : pas de diner au camp, pas de spectacles le soir",
+   "Attention : poussiereux et physique ; chaussures fermees et vetements a sacrifier"
+  ],
+  "included": [
+   "Safari dans le desert \"quad ou buggy en conduite autonome\"",
+   "Instructeur experimente",
+   "Sandboard",
+   "Court tour a dos de chameau (repetable)",
+   "Arret photo",
+   "Photos avec des faucons",
+   "Rafraichissements (boissons non alcoolisees, the ou cafe arabe avec dattes)",
+   "Formation et briefing de securite",
+   "Casque"
+  ],
+  "notIncluded": [
+   "Prise en charge et retour a l'hotel",
+   "Conduite sur dunes en vehicule 4x4"
+  ]
+ },
+ "atlantis-lost-world-aquarium-day-pass-dubai": {
+  "title": "Dubai : pass journee Atlantis Lost World Aquarium",
+  "metaTitle": "Dubai : Atlantis Lost World Aquarium",
+  "metaDescription": "L'aquarium d'Atlantis The Palm, construit autour de l'Ambassador Lagoon, avec spectacles de sirenes en direct toute la journee.",
+  "shortDescription": "L'aquarium a l'interieur d'Atlantis The Palm, construit autour de l'Ambassador Lagoon : un unique bassin enorme abritant des dizaines de milliers d'animaux marins, visible a travers des baies vitrees de plusieurs metres.",
+  "fullDescription": "L'aquarium a l'interieur d'Atlantis The Palm, construit autour de l'Ambassador Lagoon : un unique bassin enorme abritant des dizaines de milliers d'animaux marins, visible a travers des baies vitrees de plusieurs metres.\n\nIl est thematise comme une cite perdue plutot que presente comme un zoo, avec les bassins installes dans des ruines et des passages, et il y a des spectacles de sirenes en direct tout au long de la journee, qui semblent absurdes et sont extremement populaires auprès des enfants.\n\nVotre pass couvre l'entree generale et l'Ambassador Lagoon. Une visite guidee des coulisses et un trident souvenir interactif sont des options separees choisies a la reservation.\n\nPrevoyez une heure a quatre-vingt-dix minutes.\n\nA savoir : c'est un billet different d'Atlantis Aquaventure, le parc aquatique voisin. Le pass journee d'Aquaventure inclut le Lost Chambers Aquarium ; celui-ci est uniquement l'aquarium, et c'est le bon choix si vous voulez la vie marine sans une journee de toboggans, ou si vous logez pres de la et voulez quelque chose pour une apres-midi chaude.\n\nEntierement en interieur et climatise.",
+  "highlights": [
+   "L'Ambassador Lagoon, un seul bassin avec des baies vitrees de plusieurs metres",
+   "Thematise comme une cite perdue, avec des bassins installes dans des ruines et des passages",
+   "Spectacles de sirenes en direct tout au long de la journee",
+   "Visite des coulisses et trident souvenir en options choisies",
+   "Attention : c'est uniquement l'aquarium, le parc aquatique voisin est un billet separe"
+  ],
+  "included": [
+   "Billet d'entree generale au Lost World Aquarium",
+   "Acces a l'Ambassador Lagoon",
+   "Trident souvenir interactif (si option selectionnee)",
+   "Visite guidee exclusive de 45 minutes de l'hopital des poissons, de la salle de preparation alimentaire et de la nurserie de requins (si option selectionnee)"
+  ],
+  "notIncluded": [
+   "Visite guidee",
+   "Experiences optionnelles de snorkeling et de plongee",
+   "Souvenirs et/ou boutique"
+  ]
+ },
+ "al-marmoom-oasis-arabian-horse-riding-experience": {
+  "title": "Al Marmoom : experience d'equitation sur cheval arabe dans l'oasis",
+  "metaTitle": "Al Marmoom : equitation cheval arabe",
+  "metaDescription": "Trente minutes a cheval arabe aux ecuries Al Salah Studs dans la reserve d'Al Marmoom, avec les eleveurs eux-memes.",
+  "shortDescription": "Trente minutes a cheval arabe aux ecuries Al Salah Studs, dans la reserve de conservation d'Al Marmoom, avec les gens qui les elevent.",
+  "fullDescription": "Trente minutes a cheval arabe aux ecuries Al Salah Studs, dans la reserve de conservation d'Al Marmoom, avec les gens qui les elevent.\n\nL'arabe est la plus ancienne race de cheval reconnue et les ecuries ici travaillent sur des lignees documentees depuis des generations. Ce qui rend cela digne d'interet n'est pas la monte, qui est courte, mais le temps avant et apres, quand quelqu'un qui connait ces animaux raconte d'ou vient chacun d'eux.\n\nUne breve seance d'instruction vient d'abord avec un cavalier professionnel, un casque est fourni, et les debutants complets sont la norme. Le sol est plat et l'allure est au pas.\n\nEnsuite, il y a du cafe arabe, du the et des dattes.\n\nLa prise en charge a l'hotel est optionnelle et vaut le coup ; Al Marmoom est au-dela de la ville et difficile a atteindre autrement.\n\nAllez-y tot. Entre juin et septembre, cela se fait au lever du soleil ou pas du tout, et meme en hiver, la lumiere de la premiere heure est ce qui fait les photographies.",
+  "highlights": [
+   "Trente minutes a cheval arabe dans un haras en activite",
+   "Lignees documentees expliquees par ceux qui les elevent",
+   "Instruction et casque fournis ; les debutants sont la norme",
+   "Cafe arabe, the et dattes ensuite",
+   "Creneau au lever du soleil en ete ; la premiere heure de lumiere est la meilleure"
+  ],
+  "included": [
+   "Prise en charge et retour a l'hotel (si option selectionnee)",
+   "Casque",
+   "Breves instructions par un cavalier professionnel",
+   "Promenade a cheval de 30 minutes",
+   "The/cafe arabe et dattes",
+   "Eau et boissons non alcoolisees illimitees"
+  ],
+  "notIncluded": [
+   "Promenade a poney pour les enfants"
+  ]
+ },
+ "house-of-hype-dubai-mall-entry-ticket": {
+  "title": "Dubai Mall : billet d'entree House of Hype",
+  "metaTitle": "Dubai Mall : House of Hype",
+  "metaDescription": "Vingt-cinq salles interactives dans le Dubai Mall : portes cachees, artistes en direct, decors a photographier et surprises.",
+  "shortDescription": "Vingt-cinq salles interactives a l'interieur du Dubai Mall : portes cachees, artistes en direct, decors concus pour la photo, et une serie de surprises qui fonctionne mieux quand on en sait le moins possible a l'avance.",
+  "fullDescription": "Vingt-cinq salles interactives a l'interieur du Dubai Mall : portes cachees, artistes en direct, decors concus pour la photo, et une serie de surprises qui fonctionne mieux quand on en sait le moins possible a l'avance.\n\nCela se situe entre une piece de theatre immersive et un studio photo tres elabore, et c'est honnete sur ce point. Les salles sont concues pour qu'on s'y tienne et qu'on y soit photographie, et des artistes apparaissent dans plusieurs d'entre elles plutot que tout soit statique.\n\nPrevoyez quatre-vingt-dix minutes a deux heures. Les gens qui prevoient une heure restent plus longtemps.\n\nC'est entierement en interieur et climatise, a l'interieur du Dubai Mall, ce qui en fait l'une des choses plus utiles pour une apres-midi d'ete ou le jour ou la chaleur gagne.\n\nDeux remarques pratiques. C'est une attraction pensee pour le telephone et la faible luminosite est la norme dans plusieurs salles, donc un telephone gere mieux cela qu'un appareil photo. Et cela fonctionne mieux en groupe : c'est concu autour de reactions partagees, et les visiteurs solo en tirent nettement moins que les duos ou les groupes.",
+  "highlights": [
+   "Vingt-cinq salles interactives avec portes cachees et artistes en direct",
+   "Concu pour la photo : un telephone gere mieux la faible lumiere qu'un appareil photo",
+   "A l'interieur du Dubai Mall, entierement climatise",
+   "Quatre-vingt-dix minutes a deux heures ; les gens restent regulierement plus longtemps",
+   "Fonctionne bien mieux en groupe que seul"
+  ],
+  "included": [
+   "Billet d'entree"
+  ],
+  "notIncluded": [
+   "Nourriture",
+   "Transferts"
+  ]
+ },
+ "dubai-modern-landmarks-afternoon-tour-with-palm-monorail": {
+  "title": "Dubai : tour des monuments modernes l'apres-midi avec le monorail de la Palm",
+  "metaTitle": "Dubai : monuments modernes, monorail Palm",
+  "metaDescription": "Quatre heures et demie dans le nouveau Dubai : Souq Madinat, la Palm, Atlantis, la Marina, Bluewaters et le Burj Khalifa.",
+  "shortDescription": "Quatre heures et demie a travers la nouvelle moitie de Dubai, celle que la plupart des tours expedient et que celui-ci prend le temps de faire correctement.",
+  "fullDescription": "Quatre heures et demie a travers la nouvelle moitie de Dubai, celle que la plupart des tours expedient et que celui-ci prend le temps de faire correctement.\n\nLe parcours couvre Souq Madinat Jumeirah, un souk moderne construit autour de canaux avec le Burj Al Arab encadre au bout, puis la Palm, Atlantis, la Dubai Marina, Bluewaters Island avec Ain Dubai, le Museum of the Future avec sa facade calligraphiee, et un arret photo au Burj Khalifa.\n\nLes billets pour le monorail de la Palm sont inclus, ce qui est le detail qui vaut la peine : il parcourt toute la longueur du tronc de la Palm jusqu'a Atlantis et c'est le seul transport public sur l'ile, donc vous le traversez au niveau des yeux plutot que de l'apercevoir depuis une route.\n\nUn guide agree parlant anglais vous accompagne tout au long.\n\nL'apres-midi est le bon creneau. Les batiments sur ce parcours sont tous en verre et en acier et ils sont bien meilleurs dans les dernieres heures de lumiere qu'a midi, et la Marina au crepuscule est la plus belle chose du Dubai moderne.\n\nLa prise en charge a l'hotel dans les limites de la ville de Dubai est incluse.",
+  "highlights": [
+   "Souq Madinat, la Palm, Atlantis, la Marina, Bluewaters et le Museum of the Future",
+   "Billets du monorail de la Palm inclus : le seul transport public de l'ile",
+   "Arret photo au Burj Khalifa",
+   "Guide agree parlant anglais pendant tout le tour",
+   "Un creneau d'apres-midi, quand le verre et la Marina sont les plus beaux"
+  ],
+  "included": [
+   "Prise en charge et retour depuis les hotels situes dans les limites de la ville de Dubai",
+   "Billets pour le monorail de la Palm",
+   "Guide anglophone agree"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons",
+   "Depenses personnelles",
+   "Pourboires",
+   "L'experience At The Top Burj Khalifa",
+   "Les transferts de retour a l'hotel ne sont pas inclus pour les clients qui choisissent de profiter de leur temps libre au Dubai Mall ou de l'experience At The Top Khalifa"
+  ]
+ },
+ "abu-dhabi-morning-desert-drive-with-camel-ride-and-sandboarding": {
+  "title": "Abu Dhabi : conduite matinale dans le desert avec tour a dos de chameau et sandboard",
+  "metaTitle": "Abu Dhabi : safari matinal, chameau, sandboard",
+  "metaDescription": "Le safari du matin a Abu Dhabi : dunes intactes, lumiere rasante, conduite en 4x4, sandboard et tour a dos de chameau.",
+  "shortDescription": "La version matinale, celle que les photographes et les familles devraient prendre et que presque personne ne reserve.",
+  "fullDescription": "La version matinale, celle que les photographes et les familles devraient prendre et que presque personne ne reserve.\n\nAu petit matin, les dunes d'Abu Dhabi sont striees, intactes et vides : le vent les reconstruit pendant la nuit et les convois du soir ne sont pas encore passes. La lumiere est basse et rasante, ce qui fait la difference entre une bonne photo de desert et une photo plate.\n\nQuatre heures : prise en charge a l'hotel, conduite sur dunes en 4x4 avec pneus degonfles, sandboard, un court tour a dos de chameau, et the arabe, cafe, dattes et eau dans le vehicule.\n\nCela n'inclut pas le diner au camp ni les spectacles du soir : c'est le travail du safari du soir. Ce que vous obtenez a la place, c'est un air plus frais, pas de foule, et le desert qui fait ce qu'il fait quand personne ne regarde.\n\nEntre juin et septembre, le safari matinal n'est pas seulement plus agreable, c'est la seule option sensee ; une apres-midi a Abu Dhabi en plein air est vraiment dangereuse.\n\nAttention : la conduite sur dunes reste volontairement rude. Toute personne enceinte, ayant des problemes de dos ou de cou, ou sujette au mal des transports doit le signaler a la reservation et le chauffeur adoptera une ligne douce.",
+  "highlights": [
+   "Dunes striees et intactes au petit matin, avant les convois du soir",
+   "Lumiere basse et rasante : la difference entre une bonne photo de desert et une photo plate",
+   "Conduite sur dunes, sandboard et tour a dos de chameau",
+   "The arabe, cafe, dattes et eau dans le vehicule",
+   "La seule option sensee entre juin et septembre"
+  ],
+  "included": [
+   "Prise en charge et retour a l'hotel",
+   "Conduite sur dunes / excursion dans le desert en 4x4",
+   "Court tour a dos de chameau",
+   "Session de sandboard",
+   "Rafraichissements legers comme the arabe, cafe, dattes et eau en bouteille"
+  ],
+  "notIncluded": [
+   "Nourriture et boissons, sauf mention contraire"
+  ]
+ },
+ "dubai-global-village-entry-ticket-with-hotel-transfers": {
+  "title": "Dubai : billet d'entree au Global Village avec transferts a l'hotel",
+  "metaTitle": "Dubai : Global Village avec transferts",
+  "metaDescription": "Pres de 90 pavillons nationaux, nourriture, artisanat, attractions de fete foraine et spectacles, avec transferts hotel inclus.",
+  "shortDescription": "Environ quatre-vingt-dix pays repartis en pavillons sur un seul site, chacun vendant sa propre nourriture, son artisanat et ses textiles, avec des attractions de fete foraine, des spectacles de cascadeurs et un programme de scene toute la soiree.",
+  "fullDescription": "Environ quatre-vingt-dix pays repartis en pavillons sur un seul site, chacun vendant sa propre nourriture, son artisanat et ses textiles, avec des attractions de fete foraine, des spectacles de cascadeurs et un programme de scene toute la soiree.\n\nC'est en partie une expo culturelle, en partie un marche nocturne, en partie une fete foraine, et c'est l'endroit ou les habitants de Dubai se rendent vraiment un soir de week-end, ce qui en fait un public tres different de celui des centres commerciaux et des beach clubs.\n\nLa nourriture est la raison de venir avec de l'appetit. Chaque pavillon cuisine la sienne, et l'eventail, du pain afghan aux grillades philippines en passant par les douceurs turques, n'est pas quelque chose que l'on trouve ailleurs dans la ville a ces prix.\n\nLe transfert a l'hotel est inclus, ce qui vaut la peine : Global Village se trouve sur Sheikh Mohammed Bin Zayed Road, le stationnement est chaotique le week-end, et les taxis a la fermeture sont une bataille.\n\nAttention : c'est saisonnier et ferme l'ete. La saison dure environ d'octobre a avril et le site ferme entierement pendant les mois les plus chauds. Les dates changent chaque annee. Si votre voyage se situe entre mai et septembre, ce n'est pas disponible ; indiquez-nous vos dates et nous confirmerons avant le paiement.\n\nAllez-y un soir de semaine si possible. Les week-ends sont extremement animes.",
+  "highlights": [
+   "Environ 90 pavillons nationaux, chacun avec sa propre nourriture et son artisanat",
+   "Attractions de fete foraine, spectacles de cascadeurs et programme de scene nocturne",
+   "L'endroit ou les habitants de Dubai passent vraiment un soir de week-end",
+   "Transferts a l'hotel inclus : le stationnement et les taxis sont une bataille autrement",
+   "Attention : SAISONNIER, environ d'octobre a avril ; ferme l'ete"
+  ],
+  "included": [
+   "Billet d'entree au Global Village (partage avec vous le jour de l'activite)",
+   "Prise en charge a l'hotel (si option selectionnee)",
+   "Retour a l'hotel (si option selectionnee)",
+   "Tour en yacht l'apres-midi (si option selectionnee)",
+   "Transfert aller simple ou aller-retour (selon l'option choisie)",
+   "Tenue arabe (si option selectionnee)",
+   "Visite a pied (si option selectionnee)"
+  ],
+  "notIncluded": [
+   "Pourboires",
+   "Guide",
+   "Nourriture et boissons"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
