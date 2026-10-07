@@ -84876,6 +84876,415 @@ export const ES_TOURS: Record<string, TourT> = {
    "Cualquier gasto personal"
   ]
  },
+ "abu-dhabi-heritage-village-guided-walking-tour": {
+  "title": "Abu Dhabi: tour guiado a pie por el Heritage Village",
+  "metaTitle": "Abu Dhabi: tour a pie por el Heritage Village",
+  "metaDescription": "Poblado costero reconstruido de antes del petroleo, con zoco activo, artesanos trabajando y la mejor vista del horizonte de Abu Dhabi.",
+  "shortDescription": "Un poblado de oasis reconstruido en el rompeolas, con un zoco activo, metalurgicos, alfareros y tejedores, y la vista mas clara y directa del horizonte de Abu Dhabi al otro lado del agua.",
+  "fullDescription": "Un poblado de oasis reconstruido en el rompeolas, con un zoco activo, metalurgicos, alfareros y tejedores, y la vista mas clara y directa del horizonte de Abu Dhabi al otro lado del agua.\n\nEste poblado es el contrapeso de todo lo demas en la ciudad. Abu Dhabi es vidrio y marmol; aqui hay refugios de hojas de palma barasti, un canal de riego falaj, un campamento y una mezquita, dispuestos como habria sido un asentamiento costero antes del petroleo.\n\nLos artesanos estan trabajando, no actuando. El metalurgico fabrica piezas de verdad, el torno del alfarero gira, y el tejido se hace en un telar y no en una vitrina.\n\nUn guia marca la diferencia aqui. Sin uno, parece una reconstruccion agradable; con uno, se convierte en una explicacion de como vivia realmente la gente en esta costa: de donde venia el agua, como funcionaba la pesca de perlas, y por que los edificios tienen esa forma.\n\nLa entrada al poblado es gratuita, asi que lo que se paga es el guia.\n\nVaya a ultima hora de la tarde: la luz sobre el horizonte al otro lado del agua es mejor entonces, y los artesanos siguen trabajando.",
+  "highlights": [
+   "Un asentamiento costero reconstruido de antes del petroleo, en el rompeolas",
+   "Metalurgicos, alfareros y tejedores trabajando de verdad, no una vitrina",
+   "La vista mas clara y directa del horizonte de Abu Dhabi al otro lado del agua",
+   "Un guia que explica el falaj, la pesca de perlas y los edificios",
+   "Mejor a ultima hora de la tarde, por la luz y los artesanos trabajando"
+  ],
+  "included": [
+   "Entrada al Heritage Village y al museo del lugar",
+   "Demostraciones en vivo de artesania tradicional",
+   "Datos sobre la vida beduina y la historia emirati",
+   "Oportunidades para fotos con vistas panoramicas de la ciudad"
+  ],
+  "notIncluded": [
+   "Transporte",
+   "Comidas",
+   "Otros gastos personales"
+  ]
+ },
+ "old-dubai-heritage-walk-with-the-souks-and-an-abra-crossing": {
+  "title": "Dubai Antiguo: paseo patrimonial con los zocos y un cruce en abra",
+  "metaTitle": "Dubai Antiguo: zocos y cruce en abra",
+  "metaDescription": "La forma mas economica de conocer el Dubai antiguo con guia, y para muchos visitantes las dos mejores horas que pasan aqui.",
+  "shortDescription": "La forma mas economica y guiada de conocer el Dubai antiguo, y para muchos visitantes las dos mejores horas que pasan aqui.",
+  "fullDescription": "La forma mas economica y guiada de conocer el Dubai antiguo, y para muchos visitantes las dos mejores horas que pasan aqui.\n\nEs un paseo a pie. Los callejones de Al Fahidi, con casas de coral y yeso bajo torres de viento barjeel que realmente funcionan: los callejones estan varios grados mas frescos que la calle de fuera, y eso es la arquitectura haciendo su trabajo, no una curiosidad.\n\nLuego el abra que cruza el Creek de Dubai, un barco de madera que hace esta ruta desde hace decadas y cuesta un dirham para los locales. No es un barco turistico; es un ferry que los turistas tambien usan.\n\nEn la otra orilla, el zoco del oro con toneladas de mercancia en escaparates abiertos, y el zoco de las especias, donde un guia se gana sus honorarios: saber que azafran es autentico importa, y lo que se vende barato a granel normalmente no lo es.\n\nSe espera negociar en ambos. La mitad del precio pedido es una oferta inicial normal y nadie se ofende.\n\nVaya por la manana. Por la tarde, en los meses mas calurosos, los callejones cubiertos estan calurosos y hay mucha gente. Use zapatos comodos: son dos a tres horas a pie.",
+  "highlights": [
+   "Los callejones con torres de viento de Al Fahidi, realmente mas frescos que la calle",
+   "El abra tradicional que cruza el Creek de Dubai",
+   "Zocos de oro y especias con un guia que distingue el azafran autentico",
+   "Se espera negociar: la mitad del precio pedido es normal",
+   "Las mejores horas guiadas de Dubai por su precio; vaya por la manana"
+  ],
+  "included": [
+   "Recogida y regreso a pie desde el punto de encuentro",
+   "Guia",
+   "Zoco del oro y zoco de las especias, uno de los principales lugares de compras turisticas de Dubai",
+   "Zoco textil en el distrito de Fahidi, con textiles y electronica",
+   "Paseo tradicional en barco abra incluido para cruzar el Creek entre Bur Dubai y Deira",
+   "Compras de recuerdos, especias, frutos secos, dulces arabes, datiles, azafran de Iran y calzado tradicional",
+   "Compra de oro y diamantes en el zoco del oro con un guia experimentado que negocia con las tiendas",
+   "Aperitivos y agua embotellada"
+  ],
+  "notIncluded": [
+   "Cualquier gasto personal."
+  ]
+ },
+ "abu-dhabi-emirati-dining-experience": {
+  "title": "Abu Dhabi: experiencia gastronomica emirati tradicional",
+  "metaTitle": "Abu Dhabi: cena emirati tradicional",
+  "metaDescription": "Una comida emirati tradicional servida al estilo autentico, con machboos, harees, thareed y gahwa, explicada por un experto.",
+  "shortDescription": "La cocina emirati es la mas dificil de encontrar en los Emiratos. Los restaurantes son libaneses, indios, iranies, filipinos y de todo tipo, y lo que los emiratis realmente comen en casa esta en gran parte ausente de las calles, lo que convierte una comida emirati autentica en algo verdaderamente escaso para un visitante.",
+  "fullDescription": "La cocina emirati es la mas dificil de encontrar en los Emiratos. Los restaurantes son libaneses, indios, iranies, filipinos y de todo tipo, y lo que los emiratis realmente comen en casa esta en gran parte ausente de las calles, lo que convierte una comida emirati autentica en algo verdaderamente escaso para un visitante.\n\nEsta es esa comida, servida al estilo tradicional: platos compartidos en una mesa baja, comidos juntos.\n\nEspere machboos, el arroz especiado con carne o pescado que es el plato nacional, harees, thareed, y datiles con gahwa, el cafe de cardamomo servido desde una dallah en tazas pequenas, que tiene toda una etiqueta propia que alguien explicara.\n\nLa explicacion es la mitad de la experiencia. La comida aqui lleva la historia de una economia de pesca de perlas y beduina, y los platos cobran mas sentido cuando se sabe con que y por que cocinaba la gente.\n\nLe conviene a cualquiera que haya pasado una semana comiendo comida internacional de hotel y quiera una comida que pertenezca al pais en el que esta.\n\nIndiquenos cualquier requisito alimentario al reservar: este es un menu tradicional fijo en lugar de una cocina a la carta, y las sustituciones deben organizarse con antelacion.",
+  "highlights": [
+   "La cocina realmente dificil de encontrar en los Emiratos",
+   "Machboos, harees y thareed servidos al estilo tradicional y compartido",
+   "Datiles y gahwa con la etiqueta explicada",
+   "La historia de una economia de pesca de perlas y beduina, contada a traves de la comida",
+   "Aviso: un menu tradicional fijo, indique sus necesidades alimentarias al reservar"
+  ],
+  "included": [
+   "Bebida de bienvenida",
+   "Comida emirati tradicional (opciones vegetarianas disponibles)",
+   "Oportunidades para fotos"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Propinas (no obligatorias)"
+  ]
+ },
+ "al-marmoom-oasis-desert-afternoon-high-tea": {
+  "title": "Al Marmoom: te de la tarde en el oasis del desierto",
+  "metaTitle": "Al Marmoom: te de la tarde en el desierto",
+  "metaDescription": "Te de la tarde en una reserva protegida del desierto de Dubai, sin dune bashing, con fauna y vistas al atardecer.",
+  "shortDescription": "Te de la tarde en una reserva natural, una idea mas rara y mejor de lo que suena.",
+  "fullDescription": "Te de la tarde en una reserva natural, una idea mas rara y mejor de lo que suena.\n\nAl Marmoom es un desierto protegido en lugar de un campo de dunas comercial, y es el extremo tranquilo del mercado del desierto de Dubai: sin dune bashing, sin motores, sin un campamento lleno de autobuses. Se pone una mesa en el oasis y se sirve te mientras la luz se va.\n\nEsa es toda la propuesta. Le conviene a quienes quieren el desierto sin adrenalina: cualquiera que no pueda conducir por dunas por motivos medicos, cualquiera que viaje con familiares mayores, y cualquiera que ya haya hecho el safari estandar y prefiera sentarse en el desierto en lugar de ser conducido por el.\n\nEl oasis tiene aves y, a la hora adecuada, gacelas y orix en la reserva.\n\nNotas practicas. Entre junio y septiembre, el horario de la tarde es realmente caluroso incluso sentado quieto; para eso estan los meses de invierno. Y es corto, una tarde en lugar de una noche, por lo que combina bien con otra actividad el mismo dia en lugar de llenar uno entero.\n\nLa recogida en el hotel esta disponible como opcion.",
+  "highlights": [
+   "Te de la tarde en un oasis dentro de una reserva protegida del desierto",
+   "Sin dune bashing ni motores: el extremo tranquilo del mercado del desierto",
+   "Fauna, y gacelas y orix en la reserva a la hora adecuada",
+   "La opcion de desierto para quienes no pueden conducir por dunas",
+   "Una tarde de invierno en lugar de una de verano"
+  ],
+  "included": [
+   "Te de la tarde en el oasis de Al Marmoom",
+   "Set de te emirati o internacional tradicional (opciones vegetarianas disponibles)",
+   "Asientos de estilo beduino con vistas al desierto",
+   "Oportunidades para fotos al atardecer",
+   "Encuentro con halcones",
+   "Breve paseo en camello",
+   "Pintura de henna",
+   "Oportunidad de foto con caballos arabes",
+   "Observacion de estrellas con telescopios (si se queda hasta la noche)"
+  ],
+  "notIncluded": [
+   "Bebidas alcoholicas",
+   "Gastos no mencionados",
+   "Propinas (no obligatorias, pero apreciadas)"
+  ]
+ },
+ "dubai-full-day-guided-tour-mosque-souks-and-burj-khalifa": {
+  "title": "Dubai: tour guiado de dia completo, mezquita, zocos y Burj Khalifa",
+  "metaTitle": "Dubai dia completo: mezquita, zocos, Burj Khalifa",
+  "metaDescription": "Un dia completo por Dubai con un guia con licencia: la mezquita de Jumeirah, el Dubai antiguo y el Burj Khalifa por la tarde.",
+  "shortDescription": "Un dia completo que cubre Dubai de punta a punta con un guia con licencia, la forma eficiente de ver la ciudad si solo tiene un dia y no quiere resolver la geografia usted mismo.",
+  "fullDescription": "Un dia completo que cubre Dubai de punta a punta con un guia con licencia, la forma eficiente de ver la ciudad si solo tiene un dia y no quiere resolver la geografia usted mismo.\n\nLa mezquita de Jumeirah es lo primero: una de las pocas mezquitas de Dubai que recibe a visitantes no musulmanes con una explicacion guiada en lugar de solo permitir la entrada, y el lugar para hacer las preguntas que no haria en otro sitio.\n\nLuego el Dubai antiguo: los callejones de Al Fahidi, el abra que cruza el Creek, y los zocos de oro y especias con tiempo para comprar sin ninguna obligacion.\n\nLa tarde se vuelve moderna: el Burj Khalifa, Downtown, y la costa pasando el Burj Al Arab y la Palm.\n\nHacer esto con un guia en lugar de solo vale la pena aqui especificamente porque las dos mitades de la ciudad estan a cuarenta minutos una de la otra, y es en las conexiones donde un dia por cuenta propia se desmorona.\n\nAviso: compruebe si el Burj Khalifa es una entrada o una parada para fotos segun la opcion elegida, la mayoria de los tours de dia completo incluyen solo el exterior, y las entradas con horario del edificio se reservan por separado. Diganos si quiere subir y organizaremos el horario correctamente.",
+  "highlights": [
+   "La mezquita de Jumeirah con explicacion guiada en el interior, no solo entrada permitida",
+   "Al Fahidi, el abra que cruza el Creek, y los zocos de oro y especias",
+   "Downtown, el Burj Al Arab y la Palm por la tarde",
+   "Un guia con licencia, lo que hace que un dia en la ciudad funcione",
+   "Aviso: confirme si el Burj Khalifa es entrada o parada para fotos segun su opcion"
+  ],
+  "included": [
+   "Guia con licencia de habla inglesa",
+   "Recogida y regreso desde hoteles dentro de los limites de la ciudad de Dubai",
+   "Entradas para el monorriel de la Palm y los barcos abra",
+   "Agua mineral a bordo"
+  ],
+  "notIncluded": [
+   "Comida y bebidas",
+   "La experiencia At The Top Burj Khalifa",
+   "Los traslados de regreso al hotel no estan incluidos para los huespedes que elijan disfrutar de tiempo libre en el Dubai Mall o visitar la experiencia At the Top Burj Khalifa"
+  ]
+ },
+ "abu-dhabi-desert-safari-with-bbq-and-tanoura-shows": {
+  "title": "Abu Dhabi: safari por el desierto con BBQ y espectaculos de tanoura",
+  "metaTitle": "Abu Dhabi: safari desierto, BBQ y tanoura",
+  "metaDescription": "La noche completa en el desierto de Abu Dhabi: dune bashing, atardecer, un campamento con cena y espectaculos.",
+  "shortDescription": "La noche completa en el desierto de Abu Dhabi: dune bashing, atardecer, un campamento con cena, y los espectaculos que la acompanan.",
+  "fullDescription": "La noche completa en el desierto de Abu Dhabi: dune bashing, atardecer, un campamento con cena, y los espectaculos que la acompanan.\n\nLas dunas de Abu Dhabi son mas altas y considerablemente mas vacias que las de fuera de Dubai. Un safari vespertino en Dubai en temporada puede poner varios cientos de vehiculos en un solo campo de dunas; el equivalente en Abu Dhabi es una fraccion de eso, y es la mejor razon para hacer el safari desde este lado.\n\nLa tarde: recogida en 4x4, bajar la presion de los neumaticos en la linea de dunas, dune bashing, sandboard, un paseo en camello, y el atardecer sobre la arena.\n\nLa noche: una cena barbacoa en el campamento, danza del vientre y espectaculos de tanoura, shisha, y un cielo lo bastante oscuro para ver algo en el.\n\nAviso: el dune bashing es deliberadamente brusco. Cualquier persona embarazada, con problemas de espalda o cuello, o propensa al mareo debe decirlo al reservar, el conductor tomara una linea mas suave y nadie esta obligado a hacer la version dura.\n\nY entre noviembre y febrero el desierto se enfria de verdad en cuanto se pone el sol. Los campamentos son abiertos por los lados. Una chaqueta marca la diferencia entre disfrutar las ultimas dos horas y aguantarlas.",
+  "highlights": [
+   "Dunas mas altas y vacias que en el lado de Dubai",
+   "Dune bashing, sandboard, paseo en camello y atardecer sobre la arena",
+   "Cena barbacoa con danza del vientre y espectaculos de tanoura en el campamento",
+   "Un cielo realmente lo bastante oscuro para ver algo",
+   "Aviso: traiga una chaqueta de noviembre a febrero, los campamentos son abiertos por los lados"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Campamento en el desierto de uso compartido",
+   "Dune bashing y conduccion por el desierto",
+   "Paso por la granja de camellos",
+   "Oportunidad de foto en el desierto y las dunas",
+   "Breve paseo en camello",
+   "Sandboard",
+   "Vestimenta tradicional",
+   "Cena buffet barbacoa",
+   "Experiencia de shisha",
+   "Pintura de henna",
+   "Fotografia con halcon (segun disponibilidad)"
+  ],
+  "notIncluded": [
+   "Bebidas alcoholicas",
+   "Quad",
+   "Fotos de recuerdo",
+   "La danza del vientre no esta disponible durante el Ramadan"
+  ]
+ },
+ "al-ain-full-day-tour-from-abu-dhabi-with-entry-tickets": {
+  "title": "Al Ain: excursion de dia completo desde Abu Dhabi con entradas",
+  "metaTitle": "Al Ain dia completo desde Abu Dhabi",
+  "metaDescription": "El oasis declarado Patrimonio UNESCO, Al Jahili Fort y Jebel Hafeet a 1.200 metros, con entradas incluidas desde Abu Dhabi.",
+  "shortDescription": "Al Ain es la segunda ciudad de Abu Dhabi, a noventa minutos tierra adentro en la frontera con Oman, y es donde realmente esta la historia del emirato.",
+  "fullDescription": "Al Ain es la segunda ciudad de Abu Dhabi, a noventa minutos tierra adentro en la frontera con Oman, y es donde realmente esta la historia del emirato.\n\nEl oasis esta declarado Patrimonio de la UNESCO y sigue en funcionamiento: unas ciento cincuenta mil palmeras datileras se alimentan del falaj, canales subterraneos que riegan esta tierra desde hace tres mil anos. Camina por senderos sombreados con agua moviendose bajo sus pies, lo que tras una semana de aire acondicionado es una sensacion realmente distinta.\n\nEl fuerte de Al Jahili, Qasr Al Muwaiji, donde nacio el jeque Zayed, y el Museo de Al Ain cubren el resto. Las entradas estan incluidas en lugar de cobrarse en cada puerta.\n\nLuego Jebel Hafeet: 1.200 metros, once kilometros de curvas, y una vista sobre el desierto hasta las montanas de Oman que es la mejor del pais.\n\nEsta es la excursion que los locales recomiendan y los visitantes nunca hacen, porque Al Ain no esta en el marketing y no se fotografia como un horizonte. Es la que explica todo lo demas.\n\nDia completo con transporte, un guia y las entradas. Vaya en los meses mas frescos si puede: el oasis tiene sombra pero el fuerte y el jebel no.",
+  "highlights": [
+   "Un oasis UNESCO de 150.000 palmeras datileras alimentadas por un falaj de tres mil anos",
+   "Al Jahili Fort y Qasr Al Muwaiji, donde nacio el jeque Zayed",
+   "Jebel Hafeet a 1.200 metros: la mejor vista del pais",
+   "Entradas incluidas en lugar de pagadas en cada puerta",
+   "La excursion que los locales recomiendan y los visitantes nunca hacen"
+  ],
+  "included": [
+   "Recogida y regreso al hotel desde Abu Dhabi",
+   "Transporte climatizado de ida y vuelta",
+   "Guia turistico",
+   "Entrada al fuerte Al Jahili",
+   "Almuerzo buffet"
+  ],
+  "notIncluded": [
+   "Propinas",
+   "El mercado de camellos esta actualmente en renovacion y no se podra visitar durante un breve periodo"
+  ]
+ },
+ "abu-dhabi-shared-helicopter-tour-over-the-corniche": {
+  "title": "Abu Dhabi: vuelo en helicoptero compartido sobre la Corniche",
+  "metaTitle": "Abu Dhabi: helicoptero compartido, la Corniche",
+  "metaDescription": "Vuelo en helicoptero compartido sobre la Corniche, el Emirates Palace y la Gran Mezquita, con comentario por auriculares.",
+  "shortDescription": "La forma asequible de subir a un helicoptero en Abu Dhabi: comparte la aeronave en lugar de fletarla, lo que reduce el precio de forma sustancial para el mismo vuelo.",
+  "fullDescription": "La forma asequible de subir a un helicoptero en Abu Dhabi: comparte la aeronave en lugar de fletarla, lo que reduce el precio de forma sustancial para el mismo vuelo.\n\nLa ruta cubre la Corniche a lo largo del paseo maritimo, el Emirates Palace, el Marina Mall y la Gran Mezquita Sheikh Zayed, que desde arriba se lee como el enorme complejo que es, en lugar de la fachada que se fotografia desde el suelo. El comentario llega por los auriculares.\n\nCompartido significa salida fija y asientos asignados. Las normas de peso y equilibrio deciden donde se sienta cada uno, por lo que no se garantiza ventanilla, si eso le importa, el vuelo privado es la opcion y podemos darle el precio.\n\nLos vuelos dependen del clima. La bruma y el viento de verano desplazan los horarios, y el operador prefiere reprogramar antes que volar en malas condiciones, asi que deje un dia de margen en cada lado en lugar de reservar esto para su ultima tarde.\n\nPara la mayoria de las personas, el vuelo compartido es la opcion correcta: la vista desde la aeronave es identica y la diferencia es solo quien mas esta sentado en ella.",
+  "highlights": [
+   "Aeronave compartida: el mismo vuelo a un precio sustancialmente menor",
+   "Corniche, Emirates Palace, Marina Mall y la Gran Mezquita desde el aire",
+   "Comentario en vivo por auriculares",
+   "Aviso: los asientos se asignan por peso y equilibrio, ventanilla no garantizada",
+   "Aviso: depende del clima, deje un dia de margen en cada lado"
+  ],
+  "included": [
+   "Vuelo en helicoptero de 30 minutos",
+   "Auriculares para escuchar al piloto"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Comida y bebidas"
+  ]
+ },
+ "dubai-helicopter-flight-with-old-town-walking-tour-and-abra": {
+  "title": "Dubai: vuelo en helicoptero con tour a pie por el casco antiguo y abra",
+  "metaTitle": "Dubai: helicoptero, casco antiguo y abra",
+  "metaDescription": "Doce minutos de vuelo sobre el Burj Al Arab y la Palm, luego un recorrido a pie por el Dubai antiguo con cruce en abra.",
+  "shortDescription": "Los dos Dubais en un dia, vistos desde los dos angulos que les sientan bien: la ciudad nueva desde el aire, la antigua a pie.",
+  "fullDescription": "Los dos Dubais en un dia, vistos desde los dos angulos que les sientan bien: la ciudad nueva desde el aire, la antigua a pie.\n\nEl helicoptero va primero. Doce minutos sobre el Burj Al Arab, la Palm Jumeirah y el Burj Khalifa, la unica forma de ver la Palm con la forma con la que fue disenada en lugar de como una red de carreteras.\n\nLuego lo contrario. Los callejones con torres de viento de Al Fahidi, construidos por comerciantes de perlas con coral y yeso, recorridos a nivel del suelo con un guia. El abra que cruza el Creek de Dubai: el barco de madera que hace esta ruta desde hace decadas. Los zocos de oro y especias en la otra orilla.\n\nEl contraste es el argumento. Desde quinientos pies, Dubai es un diagrama; desde un callejon de Al Fahidi es una ciudad que estaba aqui mucho antes que todo eso.\n\nNotas practicas. El helicoptero depende del clima y la bruma de verano desplaza los horarios; si el vuelo se cancela, la mitad a pie se realiza igualmente. Y la parte a pie dura unas tres horas, asi que use zapatos pensados para eso y no para las fotos.",
+  "highlights": [
+   "Doce minutos sobre el Burj Al Arab, la Palm y el Burj Khalifa",
+   "Los callejones con torres de viento de Al Fahidi recorridos a nivel del suelo con un guia",
+   "El abra tradicional que cruza el Creek de Dubai",
+   "Zocos de oro y especias en la otra orilla",
+   "Aviso: el vuelo depende del clima, la mitad a pie se realiza igualmente"
+  ],
+  "included": [
+   "Recogida en el hotel",
+   "Guia turistico con licencia",
+   "Entrada para vuelo en helicoptero de 12 minutos",
+   "Al Fahidi",
+   "Entrada a Al Khayma Heritage House",
+   "Visita al zoco del oro",
+   "Visita al zoco de las especias",
+   "Paseo en taxi acuatico abra",
+   "Te o cafe arabe",
+   "Datiles",
+   "Comida callejera local",
+   "Agua mineral"
+  ],
+  "notIncluded": [
+   "Almuerzo (por cuenta propia)",
+   "Propinas (no obligatorias)"
+  ]
+ },
+ "dubai-four-hour-deep-sea-fishing-trolling-and-casting": {
+  "title": "Dubai: pesca en alta mar de cuatro horas, trolling y lanzado",
+  "metaTitle": "Dubai: pesca en alta mar, 4 horas",
+  "metaDescription": "Cuatro horas en el Golfo con trolling y lanzado: king fish, carite, barracuda, hamour y mero incluidos.",
+  "shortDescription": "Cuatro horas en el Golfo con ambos metodos a bordo: trolling con lineas detras del barco en movimiento, y lanzado una vez que el capitan encuentra una estructura que merece la pena.",
+  "fullDescription": "Cuatro horas en el Golfo con ambos metodos a bordo: trolling con lineas detras del barco en movimiento, y lanzado una vez que el capitan encuentra una estructura que merece la pena.\n\nEsa combinacion importa. El trolling cubre agua y encuentra los pelagicos rapidos: king fish, carite, barracuda. El lanzado y la pesca de fondo sobre arrecife y pecio sacan hamour y mero. Una salida que solo hace una de las dos pesca solo la mitad del mar.\n\nCanas, aparejos y cebo se proporcionan y la tripulacion se encarga de las partes tecnicas, asi que no se supone experiencia previa. Los principiantes capturan peces aqui con regularidad.\n\nCuatro horas es la duracion correcta: suficiente para cambiar de punto si el primero esta tranquilo, lo bastante corta para que una manana lenta no se convierta en un dia perdido.\n\nDos notas honestas. Nadie puede prometer pescado, y cualquier operador que lo haga esta vendiendo otra cosa. Y el horario temprano es realmente mas productivo que la tarde: reservelo si puede.\n\nLleve algo para el mareo si es propenso a el. Un barco que mantiene posicion sobre un punto se mueve distinto de uno en marcha, y es entonces cuando la gente lo nota.",
+  "highlights": [
+   "Trolling y lanzado, la mayoria de las salidas solo hacen uno",
+   "King fish, carite y barracuda al trolling; hamour y mero sobre estructura",
+   "Canas, aparejos, cebo y una tripulacion que se encarga de la tecnica",
+   "Cuatro horas: suficiente para cambiar de punto, lo bastante corta para no perder un dia",
+   "Aviso: reserve el horario temprano, y lleve algo para el mareo"
+  ],
+  "included": [
+   "Localizador de peces",
+   "Todo el equipo de pesca y cebo",
+   "Capitan y tripulacion",
+   "Agua y refrescos",
+   "Nevera y hielo",
+   "Sistema de musica Bluetooth"
+  ],
+  "notIncluded": []
+ },
+ "al-ain-day-trip-from-dubai-oasis-camel-market-and-jebel-hafeet": {
+  "title": "Al Ain: excursion de un dia desde Dubai, oasis, mercado de camellos y Jebel Hafeet",
+  "metaTitle": "Al Ain desde Dubai: oasis y Jebel Hafeet",
+  "metaDescription": "Oasis UNESCO, mercado de camellos autentico y Jebel Hafeet a 1.200 metros, en excursion de un dia desde Dubai.",
+  "shortDescription": "Al Ain esta a noventa minutos tierra adentro desde Dubai, en la frontera con Oman, y es la unica ciudad emirati que nunca fue reconstruida.",
+  "fullDescription": "Al Ain esta a noventa minutos tierra adentro desde Dubai, en la frontera con Oman, y es la unica ciudad emirati que nunca fue reconstruida, lo que la convierte en la excursion de un dia mas interesante desde Dubai y una que casi nadie hace.\n\nEl oasis esta declarado Patrimonio de la UNESCO y sigue en funcionamiento. Unas ciento cincuenta mil palmeras datileras se riegan con el falaj, el sistema de canales subterraneos que funciona aqui desde hace tres mil anos, y camina por los senderos sombreados entre ellas mientras el agua se mueve bajo sus pies.\n\nEl mercado de camellos es la otra razon para venir. Es un mercado de ganado autentico donde los animales se comercian entre personas que los crian, ruidoso, animado y completamente sin preparar, no algo organizado para visitantes.\n\nLuego el Museo de Al Ain y el fuerte donde nacio el jeque Zayed, y la subida a Jebel Hafeet: once kilometros de curvas hasta 1.200 metros, mencionada a menudo como una de las mejores carreteras de conduccion del mundo, con todo el desierto extendido en la cima.\n\nLa carretera hasta Jebel Hafeet al atardecer es la parte que la gente recuerda. Pida el horario que lo capte.",
+  "highlights": [
+   "Un oasis UNESCO todavia regado por canales falaj de tres mil anos",
+   "Un mercado de camellos activo donde los animales realmente se comercian",
+   "El Museo de Al Ain y el fuerte donde nacio el jeque Zayed",
+   "Jebel Hafeet: once kilometros de curvas hasta 1.200 metros",
+   "La ciudad emirati que nunca fue reconstruida, y a la que casi ningun visitante llega"
+  ],
+  "included": [
+   "Guia turistico profesional con licencia",
+   "Vehiculo limpio y climatizado",
+   "Recogida y regreso al hotel",
+   "Visita al oasis de Al Ain",
+   "Visita al museo del palacio de Al Ain",
+   "Visita al mercado de camellos",
+   "Visita a Jebel Hafeet",
+   "Visita al fuerte Al Jahili",
+   "Agua ilimitada"
+  ],
+  "notIncluded": [
+   "Otros gastos",
+   "Propinas"
+  ]
+ },
+ "four-day-uae-cultural-journey-dubai-abu-dhabi-and-al-ain": {
+  "title": "Viaje cultural de cuatro dias por los EAU: Dubai, Abu Dhabi y Al Ain",
+  "metaTitle": "4 dias cultura: Dubai, Abu Dhabi, Al Ain",
+  "metaDescription": "Cuatro dias entre Dubai, Abu Dhabi y Al Ain, con transporte, guia y entradas, para entender los Emiratos de verdad.",
+  "shortDescription": "Cuatro dias que cubren las tres ciudades que, juntas, explican los Emiratos: la que todos visitan, la que alberga las instituciones, y la que casi nadie alcanza.",
+  "fullDescription": "Cuatro dias que cubren las tres ciudades que, juntas, explican los Emiratos: la que todos visitan, la que alberga las instituciones, y la que casi nadie alcanza.\n\nDubai le da las torres y la antigua ciudad del Creek debajo de ellas. Abu Dhabi le da la Gran Mezquita Sheikh Zayed, Qasr Al Watan y el Louvre. Y Al Ain, a noventa minutos tierra adentro en la frontera con Oman, le da lo que estaba aqui antes de ambas: un oasis declarado Patrimonio de la UNESCO regado por canales falaj que funcionan desde hace tres mil anos, un mercado de camellos que es un mercado real en lugar de una puesta en escena, y el fuerte donde nacio el jeque Zayed.\n\nAl Ain es la razon para hacer esto en lugar de montar excursiones de un dia por separado. Es el corazon cultural del pais y realmente es dificil llegar sin vehiculo y sin alguien que conozca los lugares.\n\nCuatro dias con transporte, un guia y entradas organizadas de principio a fin.\n\nAviso: dos fechas que comprobar antes de reservar: la Gran Mezquita no admite visitantes los viernes por la manana y el Louvre Abu Dhabi cierra los lunes. Diganos su fecha de inicio y construiremos el orden del recorrido en torno a ambas en lugar de perder un lugar.",
+  "highlights": [
+   "Dubai, Abu Dhabi y Al Ain en cuatro dias con transporte y un guia",
+   "El oasis UNESCO de Al Ain, regado por canales falaj durante tres mil anos",
+   "El mercado de camellos: un mercado real, no una puesta en escena",
+   "La Gran Mezquita, Qasr Al Watan y el Louvre en Abu Dhabi",
+   "Aviso: construimos el orden del recorrido en torno a los cierres de viernes y lunes"
+  ],
+  "included": [
+   "3 noches de alojamiento (1 noche en hotel 4 estrellas, 1 noche en hotel 5 estrellas, 1 noche en campamento tradicional del desierto)",
+   "5 comidas: 3 desayunos, 1 almuerzo, 1 cena con refrescos incluidos",
+   "Guia cultural oficial emirati de habla inglesa durante todo el viaje",
+   "Transporte en minibus de 20 plazas con agua ilimitada",
+   "Experiencias especiales: paseo en camello, espectaculo de halcones, pintura de henna, observacion de estrellas",
+   "Experiencia de safari por el desierto y todas las tarifas de entrada mencionadas en el itinerario",
+   "Traslado de ida y vuelta desde su hotel en Dubai",
+   "Kit de bienvenida de OceanAir y asistencia en el terreno 24/7",
+   "Opciones de comida vegetariana disponibles (a peticion)"
+  ],
+  "notIncluded": [
+   "Vuelos internacionales",
+   "Gastos de visado",
+   "Seguro medico y de viaje (obligatorio)",
+   "Gastos personales",
+   "Bebidas alcoholicas",
+   "Comidas no mencionadas en el itinerario",
+   "Propinas para guias y conductores",
+   "Actividades opcionales no incluidas en el programa"
+  ]
+ },
+ "dubai-dhow-cruise-dinner-with-sea-lounge-seating": {
+  "title": "Dubai: cena crucero en dhow con asientos en sea lounge",
+  "metaTitle": "Dubai: cena crucero en dhow",
+  "metaDescription": "Cena buffet a bordo de un dhow tradicional de madera, crucero con el horizonte iluminado, asientos en lounge opcionales.",
+  "shortDescription": "Un dhow tradicional de madera, equipado para la cena, navegando con el horizonte iluminado alrededor, y a este precio la noche sentada mas asequible en el agua de Dubai.",
+  "fullDescription": "Un dhow tradicional de madera, equipado para la cena, navegando con el horizonte iluminado alrededor, y a este precio la noche sentada mas asequible en el agua de Dubai.\n\nEl dhow es lo esencial. Son los barcos que trabajaron esta costa durante generaciones, y comer en uno con las torres de fondo es un mejor contraste que otro catamaran acristalado.\n\nLa cena es un buffet internacional, con una cubierta lounge y asientos al aire libre arriba.\n\nTenga claro que nivel es este. Es el punto de entrada al mercado de cruceros-cena de Dubai y ofrece lo que eso implica: una noche completa, un buffet decente y una buena vista, en un barco compartido con otros grupos. Los menus servidos y los chartes privados cuestan varias veces mas y son una experiencia diferente. Ninguno es mejor; son productos distintos a precios distintos.\n\nDos notas practicas. No hay recogida en el hotel en la mayoria de los niveles, revise la opcion elegida. Y los asientos en sea lounge o cubierta superior suelen ser una mejora que se elige y no la opcion por defecto, asi que si estar al aire libre le importa, seleccionelo al reservar en lugar de esperarlo.",
+  "highlights": [
+   "Un dhow tradicional de madera en lugar de un catamaran de cristal",
+   "Cena buffet internacional con el horizonte iluminado a su alrededor",
+   "Cubierta lounge y asientos al aire libre arriba",
+   "La noche sentada mas asequible en el agua de Dubai",
+   "Aviso: los asientos en cubierta superior suelen ser una mejora, eligela al reservar"
+  ],
+  "included": [
+   "Jugo de bienvenida",
+   "Qahwa arabe y datiles",
+   "Agua embotellada",
+   "Refrescos",
+   "Cena buffet continental 4 estrellas",
+   "Musica a bordo",
+   "Espectaculos en vivo",
+   "Ruta del crucero:",
+   "Salida desde el puerto de Dubai (Marina)",
+   "Paso por el interior de la marina",
+   "Marina yacht club",
+   "PIER 7"
+  ],
+  "notIncluded": [
+   "Bebidas alcoholicas",
+   "Propinas",
+   "Transporte desde el hotel"
+  ]
+ },
+ "museum-of-illusions-dubai-entry-ticket": {
+  "title": "Dubai: entrada al Museum of Illusions",
+  "metaTitle": "Dubai: entrada Museum of Illusions",
+  "metaDescription": "Unas ochenta exhibiciones opticas: sala inclinada, tunel del vortice, sala infinita, hologramas y pared de puzzles.",
+  "shortDescription": "Unas ochenta exhibiciones basadas en trucos opticos y perceptivos: salas que se inclinan, un tunel del vortice que convence de que el suelo se mueve cuando no lo hace, una sala infinita, hologramas y una pared de puzzles al final.",
+  "fullDescription": "Unas ochenta exhibiciones basadas en trucos opticos y perceptivos: salas que se inclinan, un tunel del vortice que convence de que el suelo se mueve cuando no lo hace, una sala infinita, hologramas y una pared de puzzles al final.\n\nEs un museo para vivir, no para mirar. Casi todo esta disenado para pararse dentro, subirse o fotografiarse desde una marca especifica en el suelo, y el personal tomara la foto desde el angulo correcto si se lo pide.\n\nReserve entre una hora y noventa minutos. Funciona para todas las edades de una manera que pocas atracciones de Dubai logran: las exhibiciones perceptivas gustan igual a adultos y ninos, y la sala de puzzles al final entretiene a los adolescentes que ya no se impresionan con nada mas.\n\nTotalmente interior y con aire acondicionado, en Al Seef junto al Creek, lo que lo convierte en una buena combinacion con una manana en el Dubai antiguo: primero los zocos y el abra, luego esto cuando el calor llega a su punto maximo.\n\nUna nota: el tunel del vortice afecta realmente el equilibrio y hay un pasamanos por una buena razon. Si tiene vertigo o problemas de oido interno, hay una forma de evitarlo en lugar de atravesarlo: pregunte en la puerta.",
+  "highlights": [
+   "Unas ochenta exhibiciones opticas y perceptivas interactivas",
+   "Una sala inclinada, un tunel del vortice, una sala infinita y una pared de puzzles",
+   "Funciona igual de bien para adultos, ninos y adolescentes",
+   "Interior y con aire acondicionado, en Al Seef junto al Creek",
+   "Aviso: el tunel del vortice realmente afecta el equilibrio, pregunte por la forma de evitarlo"
+  ],
+  "included": [
+   "Entrada al museo"
+  ],
+  "notIncluded": []
+ },
+ "dubai-desert-safari-with-camel-ride-and-optional-hatta-extension": {
+  "title": "Dubai: safari por el desierto con paseo en camello y extension opcional a Hatta",
+  "metaTitle": "Dubai: safari desierto con extension a Hatta",
+  "metaDescription": "Safari clasico de dunas rojas con extension opcional a Hatta, en las montanas Hajar con embalse turquesa.",
+  "shortDescription": "Un safari vespertino clasico de dunas rojas con una opcion inusual adicional: una extension a Hatta, que lleva el dia a un lugar al que casi ningun safari llega.",
+  "fullDescription": "Un safari vespertino clasico de dunas rojas con una opcion inusual adicional: una extension a Hatta, que lleva el dia a un lugar al que casi ningun safari llega.\n\nEl safari en si es el conocido y bueno: recogida en 4x4, bajar la presion de los neumaticos en la linea de dunas, media hora de dune bashing, sandboard, un paseo en camello y el atardecer sobre la arena roja, luego un campamento con cena barbacoa y espectaculos.\n\nHatta es la diferencia. Es un enclave de Dubai en las montanas Hajar, a unos noventa minutos tierra adentro, con un embalse turquesa donde se puede hacer kayak, un pueblo patrimonial restaurado y carreteras de montana que no se parecen a nada en el resto del emirato. La mayoria de los visitantes ni siquiera sabe que existe.\n\nSi toma la extension, esto se convierte en un dia completo en lugar de una tarde, y es la mejor forma de ver que los Emiratos tienen geografia mas alla de la arena y las torres.\n\nAviso: decida la opcion de Hatta al reservar. Cambia el vehiculo, el horario y la recogida, y no se puede anadir el mismo dia.\n\nEl dune bashing es deliberadamente brusco, indique cualquier embarazo o problema de espalda o cuello al reservar, y el conductor tomara una linea mas suave.",
+  "highlights": [
+   "Safari de dunas rojas con dune bashing, sandboard, paseo en camello y cena en campamento",
+   "Extension opcional a Hatta en las montanas Hajar: embalse turquesa y pueblo patrimonial",
+   "Hatta es Dubai con geografia, y casi ningun visitante lo ve",
+   "Aviso: la extension debe elegirse al reservar, cambia el vehiculo y el horario",
+   "Dune bashing mas suave a peticion: diganoslo al reservar"
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Transporte climatizado",
+   "Conductor de safari",
+   "Guia turistico",
+   "Actividades de safari por el desierto (segun la opcion elegida)",
+   "Cena barbacoa con opciones vegetarianas (segun la opcion elegida)",
+   "Entretenimiento en vivo (segun la opcion elegida)",
+   "Trayecto panoramico a las montanas de Hatta con paradas para fotos (segun la opcion elegida)",
+   "Llegada a la presa de Hatta para la experiencia de kayak (segun la opcion elegida)"
+  ],
+  "notIncluded": [
+   "Gastos personales"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venecia de Oriente: día guiado de patrimonio en Udaipur",
   "metaTitle": "Udaipur en un día: City Palace, lago Pichola y Saheliyon ki Bari",
