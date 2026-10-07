@@ -74367,11 +74367,11 @@ export const ES_TOURS: Record<string, TourT> = {
  "abu-dhabi-scenic-private-helicopter-tour": {
   "title": "Abu Dhabi: tour panoramico privado en helicoptero",
   "metaTitle": "Abu Dhabi: tour panoramico privado en helicoptero",
-  "metaDescription": "Experiencia de 0,283333 hora(s) en Abu Dhabi. Sienta la emocion unica de volar en helicoptero sobrevolando Abu Dhabi. Ofrecido por Falcon Aviation Services.",
-  "shortDescription": "Experiencia de 0,283333 hora(s) en Abu Dhabi. Sienta la emocion unica de volar en helicoptero sobrevolando Abu Dhabi. Ofrecido por Falcon Aviation Services.",
-  "fullDescription": "Una experiencia de 0,283333 hora(s) en Abu Dhabi. Sienta la emocion unica de volar en helicoptero sobrevolando Abu Dhabi.\n\nFalcon Aviation Services la organiza, y 2 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye vuelo exclusivo en helicoptero de 17 minutos y auriculares para escuchar claramente al piloto. No incluye recogida y regreso al hotel y comida y bebidas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 1622 $ juntos en lugar de 1622 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "metaDescription": "Experiencia de 0,283333 hora(s) en Abu Dhabi. Sienta la emocion unica de viajar en helicoptero mientras vuela sobre Abu Dhabi. Ofrecido por Falcon Aviation Services.",
+  "shortDescription": "Experiencia de 0,283333 hora(s) en Abu Dhabi. Sienta la emocion unica de viajar en helicoptero mientras vuela sobre Abu Dhabi. Ofrecido por Falcon Aviation Services.",
+  "fullDescription": "Una experiencia de 0,283333 hora(s) en Abu Dhabi. Sienta la emocion unica de viajar en helicoptero mientras vuela sobre Abu Dhabi.\n\nFalcon Aviation Services la organiza, y 2 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye vuelo exclusivo en helicoptero de 17 minutos y auriculares para escuchar claramente al piloto. No incluye recogida y regreso al hotel y comida y bebidas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 1622 $ juntos en lugar de 1622 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
-   "Sienta la emocion unica de volar en helicoptero sobrevolando Abu Dhabi"
+   "Sienta la emocion unica de viajar en helicoptero mientras vuela sobre Abu Dhabi"
   ],
   "included": [
    "Vuelo exclusivo en helicoptero de 17 minutos",
@@ -75499,13 +75499,13 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Tour a pie por el Dubai historico con guia de habla francesa",
   "metaDescription": "Experiencia de 2 hora(s) en Dubai. Conozca la rica historia y el pasado de la ciudad. Ofrecido por Alturis Tours and Events.",
   "shortDescription": "Experiencia de 2 hora(s) en Dubai. Conozca la rica historia y el pasado de la ciudad. Ofrecido por Alturis Tours and Events.",
-  "fullDescription": "Una experiencia de 2 hora(s) en Dubai. Conozca la rica historia y el pasado de la ciudad.\n\nAlturis Tours and Events la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye tour con guia turistico senior licenciado, tour a pie por la ciudad vieja, paseo en abra y degustacion de te local y donas. No incluye recogida y propinas, por lo que debe presupuestar eso por separado.",
+  "fullDescription": "Una experiencia de 2 hora(s) en Dubai. Conozca la rica historia y el pasado de la ciudad.\n\nAlturis Tours and Events la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye tour con guia turistico senior licenciado, tour a pie por la ciudad antigua, paseo en abra y degustacion de te local y donas. No incluye recogida y propinas, por lo que debe presupuestar eso por separado.",
   "highlights": [
    "Conozca la rica historia y el pasado de la ciudad"
   ],
   "included": [
    "Tour con guia turistico senior licenciado",
-   "Tour a pie por la ciudad vieja",
+   "Tour a pie por la ciudad antigua",
    "Paseo en abra",
    "Degustacion de te local y donas"
   ],
@@ -75928,7 +75928,7 @@ export const ES_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai: tour turistico privado de medio dia del Viejo al Nuevo ...",
   "metaDescription": "Une excursion de medio dia desde Dubai que visita Dubai Marina, The Palm Jumeirah, Atlantis, Dubai y Burj Al Arab. Ofrecido por Yalla Walk tourism.",
   "shortDescription": "Une excursion de medio dia desde Dubai que visita Dubai Marina, The Palm Jumeirah, Atlantis, Dubai y Burj Al Arab. Ofrecido por Yalla Walk tourism.",
-  "fullDescription": "Una excursion de medio dia desde Dubai, que recorre Dubai Marina, The Palm Jumeirah, Atlantis, Dubai y Burj Al Arab. Hay 14 paradas en total.\n\nEl orden de la ruta es Dubai Marina, luego The Palm Jumeirah, luego Atlantis, Dubai, luego Burj Al Arab, luego Museum of the Future.\n\nEl precio incluye tour privado, recogida y regreso al hotel, guia licenciado y transporte con aire acondicionado. No incluye comida y entrada a las atracciones, por lo que debe presupuestar eso por separado. Dos viajeros pagan 442 $ juntos en lugar de 392 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "fullDescription": "Una excursion de medio dia desde Dubai, que recorre Dubai Marina, The Palm Jumeirah, Atlantis, Dubai y Burj Al Arab. Hay 14 paradas en total.\n\nEl orden de la ruta es Dubai Marina, luego The Palm Jumeirah, luego Atlantis, Dubai, luego Burj Al Arab, luego Museum of the Future.\n\nEl precio incluye tour privado, recogida y regreso al hotel, guia licenciado y transporte con aire acondicionado. No incluye comida y entrada a atracciones, por lo que debe presupuestar eso por separado. Dos viajeros pagan 442 $ juntos en lugar de 392 $ cada uno, porque el precio se fija por grupo y no por persona.",
   "highlights": [
    "Une excursion de medio dia desde Dubai que visita Dubai Marina, The Palm Jumeirah, Atlantis, Dubai y Burj Al Arab. Ofrecido por Yalla Walk tourism."
   ],
@@ -75940,7 +75940,7 @@ export const ES_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Comida",
-   "Entrada a las atracciones"
+   "Entrada a atracciones"
   ]
  },
  "old-dubai-heritage-walking-tour-3-hour-cultural-ex": {
@@ -83025,6 +83025,103 @@ export const ES_TOURS: Record<string, TourT> = {
    "El mercado de camellos esta actualmente en renovacion, no estara disponible para visitar por un corto periodo"
   ]
  },
+ "dubai-self-drive-boat-experience-for-1-or-2": {
+  "title": "Dubai: experiencia en barco autoconducido para 1 o 2 personas",
+  "metaTitle": "Dubai: experiencia en barco autoconducido para 1 o 2 personas",
+  "metaDescription": "Une excursion de 0,5 hora(s) desde Dubai que visita Jumeirah Beach Residence, Ain Dubai, The Palm Jumeirah y Madinat Jumeirah. Ofrecido por Sealife Watersports Eq...",
+  "shortDescription": "Une excursion de 0,5 hora(s) desde Dubai que visita Jumeirah Beach Residence, Ain Dubai, The Palm Jumeirah y Madinat Jumeirah. Ofrecido por Sealife Watersports Equipment Rental LLC.",
+  "fullDescription": "Una excursion de 0,5 hora(s) desde Dubai, que recorre Jumeirah Beach Residence, Ain Dubai, The Palm Jumeirah y Madinat Jumeirah. La parada mas larga es The Palm Jumeirah, con una duracion de unos 1 hora. Hay 8 paradas en total.\n\nEl orden de la ruta es Jumeirah Beach Residence (30 min), luego Ain Dubai (30 min), luego The Palm Jumeirah (1h), luego Madinat Jumeirah (1h), luego Burj Al Arab (1h).\n\nEl precio incluye sistema de musica, chaleco de seguridad y agua. No incluye , por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de 0,5 hora(s) desde Dubai que visita Jumeirah Beach Residence, Ain Dubai, The Palm Jumeirah y Madinat Jumeirah. Ofrecido por Sealife Watersports Equipment Rental LLC."
+  ],
+  "included": [
+   "Sistema de musica",
+   "Chaleco de seguridad",
+   "Agua"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-old-town-tour-with-wonder-bus-souks-creek": {
+  "title": "Dubai: tour por la ciudad antigua con Wonder Bus, zocos, creek, y guia",
+  "metaTitle": "Dubai: tour por la ciudad antigua con Wonder Bus, zocos, creek...",
+  "metaDescription": "Une excursion de 1 hora(s) desde Dubai que visita Al Shindagha, Al Bastakiya, Al Fahidi Fort y Old Textile Market. Ofrecido por Wonder Bus Tours LLC.",
+  "shortDescription": "Une excursion de 1 hora(s) desde Dubai que visita Al Shindagha, Al Bastakiya, Al Fahidi Fort y Old Textile Market. Ofrecido por Wonder Bus Tours LLC.",
+  "fullDescription": "Una excursion de 1 hora(s) desde Dubai, que recorre Al Shindagha, Al Bastakiya, Al Fahidi Fort y Old Textile Market. Hay 8 paradas en total.\n\nEl orden de la ruta es Al Shindagha (5 min), luego Al Bastakiya (10 min), luego Al Fahidi Fort (5 min), luego Old Textile Market (5 min), luego Heritage Village, Dubai (5 min).\n\nEl precio incluye punto de partida en City Centre Al Shindagha frente a la estacion de metro Al Ghubaiba, guia turistico profesional en vivo, ingles y arabe, paso por los sitios turisticos del Viejo Dubai como se indica abajo y vista al museo de Dubai y al Fuerte Al Fahidi. No incluye , por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de 1 hora(s) desde Dubai que visita Al Shindagha, Al Bastakiya, Al Fahidi Fort y Old Textile Market. Ofrecido por Wonder Bus Tours LLC."
+  ],
+  "included": [
+   "Punto de partida en City Centre Al Shindagha frente a la estacion de metro Al Ghubaiba",
+   "Guia turistico profesional en vivo, ingles y arabe",
+   "Paso por los sitios turisticos del Viejo Dubai como se indica abajo",
+   "Vista al museo de Dubai y al Fuerte Al Fahidi"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-old-town-guided-walking-tour-with-souks-and": {
+  "title": "Dubai: tour guiado a pie por la ciudad antigua con zocos y paseo en abra",
+  "metaTitle": "Dubai: tour guiado a pie por la ciudad antigua con zocos y pas...",
+  "metaDescription": "Une excursion de 2 hora(s) desde Dubai que visita Al Bastakiya, Baba's Cave, Al Seef y Al Fahidi. Ofrecido por Amazing Tours.",
+  "shortDescription": "Une excursion de 2 hora(s) desde Dubai que visita Al Bastakiya, Baba's Cave, Al Seef y Al Fahidi. Ofrecido por Amazing Tours.",
+  "fullDescription": "Una excursion de 2 hora(s) desde Dubai, que recorre Al Bastakiya, Baba's Cave, Al Seef y Al Fahidi. La parada mas larga es Al Bastakiya, con una duracion de unos 1 hora. Hay 10 paradas en total.\n\nEl orden de la ruta es Al Bastakiya (1h), luego Baba's Cave (20 min), luego Al Seef (5 min), luego Al Fahidi (5 min), luego Grand Mosque, Dubai (5 min).\n\nEl precio incluye tour con guia turistico senior licenciado, tour a pie por la ciudad antigua, paseo en abra y degustacion de te local y dulces. No incluye recogida (se puede organizar) y propinas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de 2 hora(s) desde Dubai que visita Al Bastakiya, Baba's Cave, Al Seef y Al Fahidi. Ofrecido por Amazing Tours."
+  ],
+  "included": [
+   "Tour con guia turistico senior licenciado",
+   "Tour a pie por la ciudad antigua",
+   "Paseo en abra",
+   "Degustacion de te local y dulces"
+  ],
+  "notIncluded": [
+   "Recogida (se puede organizar)",
+   "Propinas"
+  ]
+ },
+ "abu-dhabi-45-minutes-yas-island-sightseeing-speedb": {
+  "title": "Abu Dhabi: tour turistico en lancha rapida de 45 minutos en Yas Island",
+  "metaTitle": "Abu Dhabi: tour turistico en lancha rapida de 45 minutos en Ya...",
+  "metaDescription": "Une excursion de 0,75 hora(s) desde Abu Dhabi que visita Yas Marina Abu Dhabi, Yas Beach, Yas Links Abu Dhabi y Yas Waterworld. Ofrecido por The Yellow Boats LLC.",
+  "shortDescription": "Une excursion de 0,75 hora(s) desde Abu Dhabi que visita Yas Marina Abu Dhabi, Yas Beach, Yas Links Abu Dhabi y Yas Waterworld. Ofrecido por The Yellow Boats LLC.",
+  "fullDescription": "Una excursion de 0,75 hora(s) desde Abu Dhabi, que recorre Yas Marina Abu Dhabi, Yas Beach, Yas Links Abu Dhabi y Yas Waterworld. Hay 6 paradas en total.\n\nEl orden de la ruta es Yas Marina Abu Dhabi, luego Yas Beach, luego Yas Links Abu Dhabi, luego Yas Waterworld, luego Ferrari World Abu Dhabi.\n\nEl precio incluye inclusiones:, tour en lancha rapida de 45 minutos, guia personal y orientacion en vivo. No incluye exclusiones:, recogida y regreso al hotel y comida o bebidas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de 0,75 hora(s) desde Abu Dhabi que visita Yas Marina Abu Dhabi, Yas Beach, Yas Links Abu Dhabi y Yas Waterworld. Ofrecido por The Yellow Boats LLC."
+  ],
+  "included": [
+   "Inclusiones:",
+   "Tour en lancha rapida de 45 minutos",
+   "Guia personal",
+   "Orientacion en vivo"
+  ],
+  "notIncluded": [
+   "Exclusiones:",
+   "Recogida y regreso al hotel",
+   "Comida o bebidas"
+  ]
+ },
+ "dubaiprivate-frame-entry-mosque-souks-tastings-tra": {
+  "title": "Dubai: entrada privada al Frame, mezquita, zocos, degustaciones y traslado",
+  "metaTitle": "Dubai: entrada privada al Frame, mezquita, zocos, degustacione...",
+  "metaDescription": "Experiencia de medio dia en Dubai. Viva vistas impresionantes del viejo y nuevo Dubai desde esta maravilla arquitectonica. Ofrecido por MAGIC LAMP TOURISM L.L.C.",
+  "shortDescription": "Experiencia de medio dia en Dubai. Viva vistas impresionantes del viejo y nuevo Dubai desde esta maravilla arquitectonica. Ofrecido por MAGIC LAMP TOURISM L.L.C.",
+  "fullDescription": "Una experiencia de medio dia en Dubai. Viva vistas impresionantes del viejo y nuevo Dubai desde esta maravilla arquitectonica.\n\nMAGIC LAMP TOURISM L.L.C la organiza, y 8 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso, guia en vivo, entrada al Dubai Frame y entrada a la Mezquita Azul. No incluye propinas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Viva vistas impresionantes del viejo y nuevo Dubai desde esta maravilla arquitectonica"
+  ],
+  "included": [
+   "Recogida y regreso",
+   "Guia en vivo",
+   "Entrada al Dubai Frame",
+   "Entrada a la Mezquita Azul"
+  ],
+  "notIncluded": [
+   "Propinas"
+  ]
+ },
  "abu-dhabi-60-minute-corniche-speed-boat-sightseein": {
   "title": "Abu Dhabi: tour turistico en lancha rapida de 60 minutos por la Corniche",
   "metaTitle": "Abu Dhabi: tour turistico en lancha rapida de 60 minutos por l...",
@@ -83043,6 +83140,226 @@ export const ES_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Recogida y regreso al hotel",
    "Comida o bebidas"
+  ]
+ },
+ "dubai-city-tour-with-burj-khalifa-and-underwater-z": {
+  "title": "Dubai: tour por la ciudad con entrada para el Burj Khalifa y el Underwater Zoo",
+  "metaTitle": "Dubai: tour por la ciudad con entrada para el Burj Khalifa y e...",
+  "metaDescription": "Experiencia de un dia completo en Dubai. Viva un viaje fascinante y emocionante por el Dubai antiguo y moderno. Ofrecido por Arabian Vista Tourism LLC.",
+  "shortDescription": "Experiencia de un dia completo en Dubai. Viva un viaje fascinante y emocionante por el Dubai antiguo y moderno. Ofrecido por Arabian Vista Tourism LLC.",
+  "fullDescription": "Una experiencia de un dia completo en Dubai. Viva un viaje fascinante y emocionante por el Dubai antiguo y moderno.\n\nArabian Vista Tourism LLC la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye vehiculo 4x4 con aire acondicionado con guia profesional que habla ingles, recogida y regreso al hotel, dubai Marina (parada fotografica) y burj Khalifa (entrada incluida). No incluye almuerzo y cena y gasto personal, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Viva un viaje fascinante y emocionante por el Dubai antiguo y moderno"
+  ],
+  "included": [
+   "Vehiculo 4x4 con aire acondicionado con guia profesional que habla ingles",
+   "Recogida y regreso al hotel",
+   "Dubai Marina (parada fotografica)",
+   "Burj Khalifa (entrada incluida)"
+  ],
+  "notIncluded": [
+   "Almuerzo y cena",
+   "Gasto personal"
+  ]
+ },
+ "dubai-city-tour-with-luxury-sunset-yacht-at-dubai": {
+  "title": "Tour por la ciudad de Dubai con yate de lujo al atardecer en Dubai Marina",
+  "metaTitle": "Tour por la ciudad de Dubai con yate de lujo al atardecer en D...",
+  "metaDescription": "Experiencia de un dia completo en Dubai. Explore el Viejo Dubai en este recorrido turistico guiado con un guia profesional. Ofrecido por 360 Adventures Tourism LLC.",
+  "shortDescription": "Experiencia de un dia completo en Dubai. Explore el Viejo Dubai en este recorrido turistico guiado con un guia profesional. Ofrecido por 360 Adventures Tourism LLC.",
+  "fullDescription": "Una experiencia de un dia completo en Dubai. Explore el Viejo Dubai en este recorrido turistico guiado con un guia profesional.\n\n360 Adventures Tourism LLC la organiza, y 8 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso al hotel: 8:00-9:30 (solo tour por la ciudad de Dubai), transporte en vehiculo con aire acondicionado, guia turistico y tour a pie por Al Seef. No incluye comidas, alcohol en el yate al atardecer, a la venta y traslado de regreso al yate al atardecer, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Explore el Viejo Dubai en este recorrido turistico guiado con un guia profesional"
+  ],
+  "included": [
+   "Recogida y regreso al hotel: 8:00-9:30 (solo tour por la ciudad de Dubai)",
+   "Transporte en vehiculo con aire acondicionado",
+   "Guia turistico",
+   "Tour a pie por Al Seef"
+  ],
+  "notIncluded": [
+   "Comidas",
+   "Alcohol en el yate al atardecer, a la venta",
+   "Traslado de regreso al yate al atardecer"
+  ]
+ },
+ "dubai-city-sightseeing-hop-on-hop-off-bus-tour": {
+  "title": "Dubai: tour turistico en autobus hop-on hop-off",
+  "metaTitle": "Dubai: tour turistico en autobus hop-on hop-off",
+  "metaDescription": "Une excursion de 1,5 hora(s) desde Dubai que visita Burj Khalifa. Ofrecido por City Sightseeing Worldwide.",
+  "shortDescription": "Une excursion de 1,5 hora(s) desde Dubai que visita Burj Khalifa. Ofrecido por City Sightseeing Worldwide.",
+  "fullDescription": "Una excursion de 1,5 hora(s) desde Dubai, que recorre Burj Khalifa.\n\nCity Sightseeing Worldwide la organiza, y 5 elementos estan cubiertos por el precio. La cancelacion es gratuita. Disfrute de vistas panoramicas de 360 grados de todo lo que Dubai tiene para ofrecer.\n\nEl precio incluye entrada de 24 o 48 horas (segun la opcion), paradas cerca de todos los sitios principales, audioguia en 11 idiomas y auriculares y agua de cortesia a bordo de los autobuses (excepto durante el Ramadan). No incluye recogida y regreso al hotel, entrada a atracciones y propinas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de 1,5 hora(s) desde Dubai que visita Burj Khalifa. Ofrecido por City Sightseeing Worldwide."
+  ],
+  "included": [
+   "Entrada de 24 o 48 horas (segun la opcion)",
+   "Paradas cerca de todos los sitios principales",
+   "Audioguia en 11 idiomas y auriculares",
+   "Agua de cortesia a bordo de los autobuses (excepto durante el Ramadan)"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Entrada a atracciones",
+   "Propinas"
+  ]
+ },
+ "dubai-city-tour-desert-safari-bbq-dinner": {
+  "title": "TOUR POR LA CIUDAD DE DUBAI Y SAFARI POR EL DESIERTO CON CENA DE BARBACOA",
+  "metaTitle": "TOUR POR LA CIUDAD DE DUBAI Y SAFARI POR EL DESIERTO CON CENA ...",
+  "metaDescription": "Une excursion de medio dia desde Dubai que visita Jeep / SUV, Bur Dubai Abra Dock, Dubai Spice Souk y Dubai Gold Souk. Ofrecido por Musk Tours LLC.",
+  "shortDescription": "Une excursion de medio dia desde Dubai que visita Jeep / SUV, Bur Dubai Abra Dock, Dubai Spice Souk y Dubai Gold Souk. Ofrecido por Musk Tours LLC.",
+  "fullDescription": "Una excursion de medio dia desde Dubai, que recorre Jeep / SUV, Bur Dubai Abra Dock, Dubai Spice Souk y Dubai Gold Souk. Hay 17 paradas en total.\n\nEl orden de la ruta es Jeep / SUV (20 min), luego Bur Dubai Abra Dock (10 min), luego Dubai Spice Souk (15 min), luego Dubai Gold Souk (15 min), luego Local restaurant (20 min).\n\nEl precio incluye recogida y regreso al hotel en la ciudad de Dubai, tour por la ciudad en un confortable SUV/furgoneta, guia/conductor que habla ingles, shawarma, refresco, y agua y tour de 5 horas por los 15 principales monumentos de Dubai. No incluye entradas a atracciones y propinas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de medio dia desde Dubai que visita Jeep / SUV, Bur Dubai Abra Dock, Dubai Spice Souk y Dubai Gold Souk. Ofrecido por Musk Tours LLC."
+  ],
+  "included": [
+   "Recogida y regreso al hotel en la ciudad de Dubai",
+   "Tour por la ciudad en un confortable SUV/furgoneta",
+   "Guia/conductor que habla ingles",
+   "Shawarma, refresco, y agua",
+   "Tour de 5 horas por los 15 principales monumentos de Dubai"
+  ],
+  "notIncluded": [
+   "Entradas a atracciones",
+   "Propinas"
+  ]
+ },
+ "dubai-electric-hydrofoil-or-efoil-surfboard-experi": {
+  "title": "Dubai: experiencia de hidrofoil electrico o tabla eFoil",
+  "metaTitle": "Dubai: experiencia de hidrofoil electrico o tabla eFoil",
+  "metaDescription": "Experiencia de 0,75 hora(s) en Dubai. Descubra la unica forma de literalmente volar sobre el mar. Ofrecido por Crystal Clear Watersports LLC.",
+  "shortDescription": "Experiencia de 0,75 hora(s) en Dubai. Descubra la unica forma de literalmente volar sobre el mar. Ofrecido por Crystal Clear Watersports LLC.",
+  "fullDescription": "Una experiencia de 0,75 hora(s) en Dubai. Descubra la unica forma de literalmente volar sobre el mar.\n\nCrystal Clear Watersports LLC la organiza, y 6 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye acceso a la marina, acceso a la playa, tabla hidrofoil o eFoil y instructor. No incluye recogida y regreso al hotel, por lo que debe presupuestar eso por separado. Dos viajeros pagan 415 $ juntos en lugar de 415 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Descubra la unica forma de literalmente volar sobre el mar"
+  ],
+  "included": [
+   "Acceso a la marina",
+   "Acceso a la playa",
+   "Tabla hidrofoil o eFoil",
+   "Instructor"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel"
+  ]
+ },
+ "dubai-jet-ski-tour-of-burj-al-arab-with": {
+  "title": "Dubai: tour en moto de agua al Burj Al Arab con fotos y videos gratis",
+  "metaTitle": "Dubai: tour en moto de agua al Burj Al Arab con fotos y videos...",
+  "metaDescription": "Une excursion de 0,5 hora(s) desde Dubai que visita Burj Al Arab y Jumeirah Beach Hotel. Ofrecido por Day & Night Watersport.",
+  "shortDescription": "Une excursion de 0,5 hora(s) desde Dubai que visita Burj Al Arab y Jumeirah Beach Hotel. Ofrecido por Day & Night Watersport.",
+  "fullDescription": "Una excursion de 0,5 hora(s) desde Dubai, que recorre Burj Al Arab y Jumeirah Beach Hotel. Hay 2 paradas en total.\n\nEl orden de la ruta es Burj Al Arab, luego Jumeirah Beach Hotel.\n\nEl precio incluye paseo en jetski, instructor, helado y agua potable. No incluye comida y gastos personales, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de 0,5 hora(s) desde Dubai que visita Burj Al Arab y Jumeirah Beach Hotel. Ofrecido por Day & Night Watersport."
+  ],
+  "included": [
+   "Paseo en jetski",
+   "Instructor",
+   "Helado",
+   "Agua potable"
+  ],
+  "notIncluded": [
+   "Comida",
+   "Gastos personales"
+  ]
+ },
+ "dubai-stand-up-paddle-boarding-with-burj-khalifa-v": {
+  "title": "Dubai: paddle surf con vista al Burj Khalifa",
+  "metaTitle": "Dubai: paddle surf con vista al Burj Khalifa",
+  "metaDescription": "Une excursion de 1 hora(s) desde Dubai que visita Jumeirah Fishing Harbor 1, Jumeirah y Jumeirah. Ofrecido por Crystal Clear Watersports LLC.",
+  "shortDescription": "Une excursion de 1 hora(s) desde Dubai que visita Jumeirah Fishing Harbor 1, Jumeirah y Jumeirah. Ofrecido por Crystal Clear Watersports LLC.",
+  "fullDescription": "Una excursion de 1 hora(s) desde Dubai, que recorre Jumeirah Fishing Harbor 1, Jumeirah y Jumeirah. La parada mas larga es Jumeirah, con una duracion de unos 1 hora. Hay 3 paradas en total.\n\nEl orden de la ruta es Jumeirah Fishing Harbor 1 (2 min), luego Jumeirah (10 min), luego Jumeirah (1h).\n\nEl precio incluye entrada a la playa y chalecos salvavidas para la seguridad. No incluye , por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Une excursion de 1 hora(s) desde Dubai que visita Jumeirah Fishing Harbor 1, Jumeirah y Jumeirah. Ofrecido por Crystal Clear Watersports LLC."
+  ],
+  "included": [
+   "Entrada a la playa",
+   "Chalecos salvavidas para la seguridad"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-to-abu-dhabi-private-tour-grand-mosque-royal": {
+  "title": "De Dubai a Abu Dhabi, tour privado: Gran Mezquita y Palacio Real",
+  "metaTitle": "De Dubai a Abu Dhabi, tour privado: Gran Mezquita y Palacio Real",
+  "metaDescription": "Une excursion de un dia completo desde Abu Dhabi que visita Abu Dhabi, Sheikh Zayed Mosque, The Corniche, Abu Dhabi y Emirates Palace. Ofrecido por OceanAir Travels.",
+  "shortDescription": "Une excursion de un dia completo desde Abu Dhabi que visita Abu Dhabi, Sheikh Zayed Mosque, The Corniche, Abu Dhabi y Emirates Palace. Ofrecido por OceanAir Travels.",
+  "fullDescription": "Una excursion de un dia completo desde Abu Dhabi, que recorre Abu Dhabi, Sheikh Zayed Mosque, The Corniche, Abu Dhabi y Emirates Palace. Hay 7 paradas en total.\n\nEl orden de la ruta es Abu Dhabi, luego Sheikh Zayed Mosque, luego The Corniche, Abu Dhabi, luego Emirates Palace, luego Louvre Abu Dhabi (15 min).\n\nEl precio incluye recogida y regreso al hotel, guia turistico profesional en vivo, entrada para la Mezquita Sheikh Zayed y visita a la plataforma de observacion de la Torre Etihad. No incluye entrada al interior del Emirates Palace (solo paso), almuerzo (a su cargo) y propinas (opcional), por lo que debe presupuestar eso por separado. Dos viajeros pagan 839 $ juntos en lugar de 839 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Une excursion de un dia completo desde Abu Dhabi que visita Abu Dhabi, Sheikh Zayed Mosque, The Corniche, Abu Dhabi y Emirates Palace. Ofrecido por OceanAir Travels."
+  ],
+  "included": [
+   "Recogida y regreso al hotel",
+   "Guia turistico profesional en vivo",
+   "Entrada para la Mezquita Sheikh Zayed",
+   "Visita a la plataforma de observacion de la Torre Etihad"
+  ],
+  "notIncluded": [
+   "Entrada al interior del Emirates Palace (solo paso)",
+   "Almuerzo (a su cargo)",
+   "Propinas (opcional)"
+  ]
+ },
+ "abu-dhabi-scenic-helicopter-tour": {
+  "title": "Abu Dhabi: tour panoramico en helicoptero",
+  "metaTitle": "Abu Dhabi: tour panoramico en helicoptero",
+  "metaDescription": "Experiencia de 0,283333 hora(s) en Abu Dhabi. Sienta la emocion unica de viajar en helicoptero mientras vuela sobre Abu Dhabi. Ofrecido por Falcon Aviation Services.",
+  "shortDescription": "Experiencia de 0,283333 hora(s) en Abu Dhabi. Sienta la emocion unica de viajar en helicoptero mientras vuela sobre Abu Dhabi. Ofrecido por Falcon Aviation Services.",
+  "fullDescription": "Una experiencia de 0,283333 hora(s) en Abu Dhabi. Sienta la emocion unica de viajar en helicoptero mientras vuela sobre Abu Dhabi.\n\nFalcon Aviation Services la organiza, y 2 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye vuelo en helicoptero de 17 minutos y auriculares para escuchar claramente al piloto. No incluye recogida y regreso al hotel y propinas, por lo que debe presupuestar eso por separado.",
+  "highlights": [
+   "Sienta la emocion unica de viajar en helicoptero mientras vuela sobre Abu Dhabi"
+  ],
+  "included": [
+   "Vuelo en helicoptero de 17 minutos",
+   "Auriculares para escuchar claramente al piloto"
+  ],
+  "notIncluded": [
+   "Recogida y regreso al hotel",
+   "Propinas"
+  ]
+ },
+ "dubai-guided-city-walking-tour-to-spice-and-gold": {
+  "title": "Dubai: tour guiado a pie por la ciudad al Zoco de Especias y de Oro",
+  "metaTitle": "Dubai: tour guiado a pie por la ciudad al Zoco de Especias y d...",
+  "metaDescription": "Une excursion de medio dia desde Dubai que visita Al Bastakiya, Coffee Museum, Dubai, Old Textile Market y Dubai Gold Souk. Ofrecido por CyanOasisTours.",
+  "shortDescription": "Une excursion de medio dia desde Dubai que visita Al Bastakiya, Coffee Museum, Dubai, Old Textile Market y Dubai Gold Souk. Ofrecido por CyanOasisTours.",
+  "fullDescription": "Una excursion de medio dia desde Dubai, que recorre Al Bastakiya, Coffee Museum, Dubai, Old Textile Market y Dubai Gold Souk. La parada mas larga es Dubai Gold Souk, con una duracion de unos 1 hora. Hay 5 paradas en total.\n\nEl orden de la ruta es Al Bastakiya (20 min), luego Coffee Museum, Dubai (15 min), luego Old Textile Market (15 min), luego Dubai Gold Souk (1h), luego Dubai Spice Souk (30 min).\n\nEl precio incluye agua embotellada, guia turistico local licenciado, entrada al museo del cafe y paseo en abra. No incluye comida y propinas, por lo que debe presupuestar eso por separado. Dos viajeros pagan 254 $ juntos en lugar de 208 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Une excursion de medio dia desde Dubai que visita Al Bastakiya, Coffee Museum, Dubai, Old Textile Market y Dubai Gold Souk. Ofrecido por CyanOasisTours."
+  ],
+  "included": [
+   "Agua embotellada",
+   "Guia turistico local licenciado",
+   "Entrada al museo del cafe",
+   "Paseo en abra"
+  ],
+  "notIncluded": [
+   "Comida",
+   "Propinas"
+  ]
+ },
+ "dubai-burj-khalifa-proposal-anniversary-vow-renewa": {
+  "title": "Dubai: propuesta, aniversario, y renovacion de votos en el Burj Khalifa",
+  "metaTitle": "Dubai: propuesta, aniversario, y renovacion de votos en el Bur...",
+  "metaDescription": "Experiencia de medio dia en Dubai. Parezca que lo planeo durante meses. Ofrecido por Al ANMAR- United Arab Emirates.",
+  "shortDescription": "Experiencia de medio dia en Dubai. Parezca que lo planeo durante meses. Ofrecido por Al ANMAR- United Arab Emirates.",
+  "fullDescription": "Una experiencia de medio dia en Dubai. Parezca que lo planeo durante meses.\n\nAl ANMAR- United Arab Emirates la organiza, y 12 elementos estan cubiertos por el precio. La cancelacion es gratuita.\n\nEl precio incluye recogida y regreso en Porsche desde su hotel en Dubai, su especialista de lujo dedicado permanece discretamente con usted, coordinacion personal, para que nunca tenga que gestionar los detalles usted mismo, privacidad cuidadosamente organizada cuando mas importa y una llamada personal antes del evento para dar forma a la experiencia. No incluye comida y bebidas adicionales, cena romantica opcional junto a la fuente y arreglos personalizados adicionales, por lo que debe presupuestar eso por separado. Dos viajeros pagan 6676 $ juntos en lugar de 6676 $ cada uno, porque el precio se fija por grupo y no por persona.",
+  "highlights": [
+   "Parezca que lo planeo durante meses"
+  ],
+  "included": [
+   "Recogida y regreso en Porsche desde su hotel en Dubai",
+   "Su especialista de lujo dedicado permanece discretamente con usted",
+   "Coordinacion personal, para que nunca tenga que gestionar los detalles usted mismo",
+   "Privacidad cuidadosamente organizada cuando mas importa",
+   "Una llamada personal antes del evento para dar forma a la experiencia"
+  ],
+  "notIncluded": [
+   "Comida y bebidas adicionales",
+   "Cena romantica opcional junto a la fuente",
+   "Arreglos personalizados adicionales"
   ]
  },
  "dubai-kidzania-ticket-with-private-gmc-yukon-trans": {
