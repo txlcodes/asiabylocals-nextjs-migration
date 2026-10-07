@@ -85284,6 +85284,421 @@ export const DE_TOURS: Record<string, TourT> = {
    "Persoenliche Ausgaben"
   ]
  },
+ "dubai-landmarks-tour-with-the-museum-of-the-future-and-dubai-frame": {
+  "title": "Dubai: Sehenswuerdigkeitentour mit dem Museum of the Future und dem Dubai Frame",
+  "metaTitle": "Dubai: Museum of the Future und Dubai Frame",
+  "metaDescription": "Drei Gebaeude, die Dubais Vergangenheit, Gegenwart und Zukunft erzaehlen: der 150 Meter hohe Dubai Frame, das Museum of the Future und der Burj Al Arab.",
+  "shortDescription": "Drei Gebaeude, die zusammen Dubais gesamte Geschichte ueber sich selbst abdecken: die Vergangenheit, die Gegenwart und was als Naechstes geplant ist, in einer gefuehrten Tour.",
+  "fullDescription": "Drei Gebaeude, die zusammen Dubais gesamte Geschichte ueber sich selbst abdecken: die Vergangenheit, die Gegenwart und was als Naechstes geplant ist, in einer gefuehrten Tour.\n\nDer Dubai Frame ist ein 150 Meter hohes goldenes Rechteck, so positioniert, dass das alte Dubai in einer Haelfte des Blicks liegt und die Skyline in der anderen, mit einem Glasboden auf dem oberen Deck.\n\nDas Museum of the Future ist der Torus an der Sheikh Zayed Road, dessen ganze Fassade arabische Kalligrafie ist: Verse von Sheikh Mohammed, durch den Stahl geschnitten, sodass das Gebaeude keine herkoemmlichen Fenster hat. Es lohnt einen Stopp, selbst von aussen, was die meisten Touren auch tun.\n\nDer Burj Al Arab ist der Fotostopp, vom Strand bei Umm Suqeim aus, wo das ganze Segel auf seiner Insel sichtbar ist.\n\nEin Guide begleitet Sie und Hotelabholung ist enthalten.\n\nAchtung: pruefen Sie, was enthalten ist und was nur ein Fotostopp ist. Bei den meisten Versionen dieser Route beinhaltet der Frame den Eintritt, waehrend das Museum of the Future nur von aussen besichtigt wird, seine eigenen Tickets sind zeitgebunden, Tage vorher ausverkauft und werden separat gebucht. Sagen Sie uns, wenn Sie hinein moechten, und wir organisieren das richtig, statt Sie draussen zu lassen.",
+  "highlights": [
+   "Der Dubai Frame mit seinem Glasboden und beiden Skylines in einem Blick",
+   "Die Kalligrafie-Fassade des Museum of the Future: ein Gebaeude ohne Fenster",
+   "Der Fotostopp am Burj Al Arab vom Strand bei Umm Suqeim",
+   "Guide und Hotelabholung inklusive",
+   "Achtung: das Museum of the Future ist normalerweise nur von aussen, fragen Sie, wenn Sie hinein moechten"
+  ],
+  "included": [
+   "Hotelabholung",
+   "Professioneller einheimischer Reiseleiter",
+   "Tour im klimatisierten Privatfahrzeug",
+   "Versiegelte Wasserflasche",
+   "Fotosession",
+   "Absetzen am Dubai Mall"
+  ],
+  "notIncluded": [
+   "Eintrittskarten"
+  ]
+ },
+ "dubai-abra-boat-tour-past-atlantis-and-ain-dubai": {
+  "title": "Dubai: Abra-Bootstour vorbei an Atlantis und Ain Dubai",
+  "metaTitle": "Dubai: Abra vorbei an Atlantis und Ain Dubai",
+  "metaDescription": "Eine traditionelle Abra an der modernen Kueste von Dubai, vorbei an der Palm, Atlantis, Bluewaters und Ain Dubai.",
+  "shortDescription": "Eine Abra ist das Holzboot, das seit Jahrzehnten den Dubai Creek ueberquert, und hier faehrt eines statt dessen an der modernen Kuestenlinie entlang, vorbei an der Palm, Atlantis, Bluewaters und Ain Dubai.",
+  "fullDescription": "Eine Abra ist das Holzboot, das seit Jahrzehnten den Dubai Creek ueberquert, und hier faehrt eines statt dessen an der modernen Kuestenlinie entlang, vorbei an der Palm, Atlantis, Bluewaters und Ain Dubai.\n\nDer Kontrast ist die ganze Idee. Diese Boote wurden fuer eine arbeitende Creek in einer Perlenfischerstadt gebaut, und hier tuckert eines davon an einem Resort in Schlossform und dem groessten Aussichtsrad der Welt vorbei. Es ist die billigste Art, auf diesen Wasserabschnitt zu kommen, und seltsamerweise eine der denkwuerdigsten.\n\nOffene Seiten, niedrig ueber dem Wasser, und langsam genug, um wirklich hinzusehen, statt im Vorbeifahren zu fotografieren.\n\nErwarten Sie keine Yacht. Es gibt keine Bar, keinen Schatten ausser einem Dach, und kein Schwimmen, es ist eine Bootsfahrt, zu dem Preis einer Bootsfahrt.\n\nAm besten in der letzten Stunde Tageslicht oder nach Einbruch der Dunkelheit, wenn Ain Dubai und die Atlantis-Fassade beleuchtet sind und die eigenen Lichter der Abra eingeschaltet sind. Mitten an einem Sommertag ist es heiss und ungeschuetzt und dieselbe Fahrt ist deutlich weniger angenehm.\n\nSchwimmwesten werden gestellt und keine Erfahrung ist erforderlich.",
+  "highlights": [
+   "Eine traditionelle Holz-Abra an der modernen Kuestenlinie: der Kontrast ist der Punkt",
+   "Vorbei an der Palm, Atlantis, Bluewaters und Ain Dubai",
+   "Offene Seiten und niedrig ueber dem Wasser, langsam genug, um wirklich hinzusehen",
+   "Die billigste Art, auf diesen Wasserabschnitt zu kommen",
+   "Am besten nach Einbruch der Dunkelheit, wenn Ain Dubai und Atlantis beleuchtet sind"
+  ],
+  "included": [
+   "120-minuetige Sightseeing-Kreuzfahrt",
+   "Erfahrener Kapitaen und Crew zur Unterstuetzung",
+   "Sightseeing und Fotografie",
+   "Sicherheitsausruestung an Bord",
+   "Bluetooth-Musiksystem",
+   "Waschraum und Duschmoeglichkeiten",
+   "Kostenloses Wasser in Flaschen und Eis",
+   "Eigenes Essen und Getraenke sind erlaubt"
+  ],
+  "notIncluded": [
+   "Abholung und Rueckbringung zum Hotel",
+   "Essen und Getraenke"
+  ]
+ },
+ "palm-jumeirah-beach-day-pass-with-skyline-views": {
+  "title": "Palm Jumeirah: Strand-Tagespass mit Skyline-Blick",
+  "metaTitle": "Palm Jumeirah: Tagespass mit Skyline-Blick",
+  "metaDescription": "Tagespass in einem Resort auf der Palm, mit Strand, Pool und Blick auf die Skyline von Marina und JBR jenseits des Wassers.",
+  "shortDescription": "Ein Tagespass fuer ein Strandresort auf der Palm, die einfachste Art, einen Dubai-Tag auf gutem Sand zu verbringen, ohne ein Hotelzimmer zu buchen.",
+  "fullDescription": "Ein Tagespass fuer ein Strandresort auf der Palm, die einfachste Art, einen Dubai-Tag auf gutem Sand zu verbringen, ohne ein Hotelzimmer zu buchen.\n\nDie innere Kurve der Palm blickt zum Festland zurueck, daher ist der Blick vom Sand die Marina und die JBR-Tuerme jenseits des Wassers statt offenes Meer. Es ist der bessere der beiden Blicke und der Grund, warum diese Resorts dort liegen, wo sie liegen.\n\nEin Pass gibt Ihnen Zugang zu Strand, Pool und Liegen. Essen und Trinken werden ueblicherweise separat berechnet oder auf einen Mindestverzehr angerechnet, pruefen Sie, was fuer die gebuchte Option gilt.\n\nDas ist die richtige Wahl fuer einen Ruhetag zwischen Wueste und Stadt, oder fuer jeden in Dubai in den kuehleren Monaten, der keinen fuenften Tag voller Attraktionen moechte.\n\nPraktische Hinweise. Die oeffentlichen Straende entlang Jumeirah sind kostenlos und durchaus gut; was ein Resort-Pass kauft, ist eine Liege, ein Handtuch, ein Pool und eine Bar statt besseren Sand. Zwischen Juni und September ist der Strand mittags unbenutzbar und der Pool das eigentliche Produkt.\n\nEs gibt keine Hotelabholung, ein Taxi zur Palm ist unkompliziert.",
+  "highlights": [
+   "Strand, Pool und Liegen in einem Resort auf Palm Jumeirah",
+   "Die Skyline von Marina und JBR jenseits des Wassers, kein offenes Meer",
+   "Der Ruhetag zwischen Wueste und Stadt",
+   "Essen und Trinken ueblicherweise separat oder auf Mindestverzehr angerechnet, pruefen Sie Ihre Option",
+   "Achtung: im Sommer ist der Pool das eigentliche Produkt, der Strand ist mittags unbenutzbar"
+  ],
+  "included": [
+   "Pool- und Strandzugang auf der Palm",
+   "20 % Rabatt auf Essen und Getraenke"
+  ],
+  "notIncluded": [
+   "Transport"
+  ]
+ },
+ "musandam-dibba-dhow-cruise-day-trip-from-dubai": {
+  "title": "Musandam Dibba: Tagesausflug mit Dhow-Kreuzfahrt ab Dubai",
+  "metaTitle": "Musandam Dibba: Dhow-Kreuzfahrt ab Dubai",
+  "metaDescription": "Ein Tag im Oman auf einem traditionellen Dhow, durch fjordartige Buchten, mit Schwimmen, Schnorcheln und haeufigen Delfinen.",
+  "shortDescription": "Ein Tagesausflug ueber die Grenze in den Oman, auf einem traditionellen Dhow, durch eine Kuestenlinie, die nichts mit den VAE zu tun hat.",
+  "fullDescription": "Ein Tagesausflug ueber die Grenze in den Oman, auf einem traditionellen Dhow, durch eine Kuestenlinie, die nichts mit den VAE zu tun hat.\n\nMusandam ist die omanische Halbinsel am oberen Ende des Golfs, und es sind Berge, die direkt ins tiefe Wasser abfallen, steiles, gefaltetes Gestein, das in fjordartige Buchten abfaellt, weshalb man es das Norwegen Arabiens nennt und weshalb die Fahrt sich lohnt.\n\nDas Dhow faehrt langsam durch die Buchten mit Stopps zum Schwimmen und Schnorcheln, und Delfine sind haeufig statt versprochen. Mittagessen wird an Bord serviert.\n\nEtwa zwei Stunden von Dubai in jede Richtung, mit Abholung von Dubai, Sharjah oder Ras Al Khaimah erhaeltlich.\n\nAchtung: Dies ueberschreitet die Grenze zum Oman. Bringen Sie Ihren Original-Reisepass mit, keine Kopie, kein Foto. Die Visabestimmungen variieren erheblich je nach Nationalitaet, und manche Reisepaesse benoetigen eine vorab organisierte Genehmigung, teilen Sie uns Ihre Nationalitaet bei der Buchung mit und wir bestaetigen vor der Zahlung, was Sie brauchen, denn an der Grenze in Dibba abgewiesen zu werden kostet den ganzen Tag.\n\nBringen Sie Badebekleidung, ein Handtuch und Sonnenschutz mit. Das Schnorcheln hier ist wirklich gut und das Wasser ist klarer als alles auf der Dubai-Seite.",
+  "highlights": [
+   "Ins omanische Musandam: Berge, die direkt in fjordartige Buchten abfallen",
+   "Ein traditionelles Dhow mit Schwimm- und Schnorchelstopps, und Mittagessen an Bord",
+   "Delfine sind haeufig statt versprochen",
+   "Abholung von Dubai, Sharjah oder Ras Al Khaimah",
+   "Achtung: ueberschreitet eine Grenze, bringen Sie Ihren Original-Reisepass mit; wir pruefen die Visabestimmungen vorab"
+  ],
+  "included": [
+   "Inklusive",
+   "Begruessung und Betreuung am Abholort in den VAE",
+   "Geteiltes Dhow fuer die Kreuzfahrt",
+   "Eigener Gastbetreuer auf dem Dhow",
+   "Buffet-Mittagessen mit arabischem Brot, Hummus, Gemuesesalat, Nudeln, Biryani-Reis, weissem Reis, gebratenem Huehnchen, Huehnchen-Curry, gebratenem Fisch, Gemuese-Curry, Linsen-Curry, Pickles",
+   "Softdrinks",
+   "Mineralwasser",
+   "Frisches Obst",
+   "Verschiedene abgepackte Snacks",
+   "Schwimmwesten",
+   "Aufgezeichnete Instrumentalmusik auf dem Dhow (Gaeste koennen eigene Musik von USB/CD abspielen)",
+   "Schnorchelausruestung"
+  ],
+  "notIncluded": []
+ },
+ "dubai-red-dunes-on-a-quad-or-side-by-side-atv": {
+  "title": "Dubai: Rote Duenen auf dem Quad oder Side-by-Side-ATV",
+  "metaTitle": "Dubai: Rote Duenen auf Quad oder ATV",
+  "metaDescription": "Selbstfahrt auf den roten Duenen von Al Lahbab, wahlweise Quad oder Side-by-Side-ATV, mit Instructor und Sicherheitsbriefing.",
+  "shortDescription": "Selbstfahrt auf den roten Duenen mit einer echten Wahl des Fahrzeugs, und beide sind wirklich unterschiedliche Fahrten.",
+  "fullDescription": "Selbstfahrt auf den roten Duenen mit einer echten Wahl des Fahrzeugs, und beide sind wirklich unterschiedliche Fahrten.\n\nEin Quad wird wie ein Motorrad geritten und gelenkt. Man ist exponiert, lehnt sich in jede Kurve, und es ist das koerperlichere und involviertere der beiden.\n\nEin Side-by-Side-ATV ist eine Kabine: zwei Sitze, ein Lenkrad, Gurte und ein Ueberrollbuegel. Es ist die Option fuer jeden, der mit einem Beifahrer faehrt, jeden, der nervoes wegen des Gleichgewichts ist, und jeden, der lieber mit der Person neben ihm sprechen koennte.\n\nBeide fahren mit einem vorausfahrenden Instructor und zuerst einem Sicherheitsbriefing.\n\nDie roten Duenen bei Al Lahbab sind die klassische Dubai-Wueste: tiefe Farbe, steile Flanken, und fest genug, um unter Kraft erklommen zu werden.\n\nDas ist das fahrorientierte Ende des Wuestenmarktes: kein Camp-Dinner, keine Shows, keine Buffet-Schlange. Wenn Sie auch den Abend wollen, sagen Sie es uns, und wir berechnen eine Version, die ihn beinhaltet.\n\nAchtung: staubig, koerperlich anstrengend und heiss. Geschlossene Schuhe, Sonnenbrille, und Kleidung, die ruiniert werden darf. Nicht geeignet bei Ruecken- oder Nackenproblemen.",
+  "highlights": [
+   "Waehlen Sie ein Quad oder ein Side-by-Side-ATV, wirklich unterschiedliche Fahrten",
+   "Side-by-Side hat Gurte, einen Ueberrollbuegel und Platz fuer einen Beifahrer",
+   "Die roten Duenen bei Al Lahbab, steil und fest genug zum Erklimmen unter Kraft",
+   "Ein Instructor faehrt voraus, zuerst mit Sicherheitsbriefing",
+   "Kein Camp und keine Shows, das ist die Fahrversion"
+  ],
+  "included": [
+   "Hotelabholung im 4x4 mit erfahrenem Safari-Guide",
+   "1 Stunde Selbstfahrt mit Quad oder Side-by-Side-ATV",
+   "Gefuehrtes Erlebnis auf der Roten-Duenen-Strecke",
+   "Sicherheitsbriefing, Helm und Schutzausruestung",
+   "Kurzer Kamelritt (ca. 2 bis 3 Minuten)",
+   "Sandboarding-Session",
+   "Wasser in Flaschen",
+   "Sonnenuntergangsblick (nur bei Nachmittagstouren)"
+  ],
+  "notIncluded": [
+   "Trinkgeld",
+   "Mahlzeiten",
+   "Quad/ATV-Schadenversicherung oder persoenliche Reiseversicherung"
+  ]
+ },
+ "dubai-guided-jet-ski-ride-with-onboard-sound-system": {
+  "title": "Dubai: gefuehrte Jetski-Fahrt mit Soundsystem an Bord",
+  "metaTitle": "Dubai: gefuehrter Jetski mit Soundsystem",
+  "metaDescription": "Ihr eigener Jetski, ein Guide an Ihrer Seite, und ein fest montiertes Soundsystem, entlang der Kueste von Dubai.",
+  "shortDescription": "Ihr eigener Jetski, ein Guide, der neben Ihnen faehrt, und ein Soundsystem auf der Maschine, eine Kleinigkeit, die die Stunde erheblich veraendert.",
+  "fullDescription": "Ihr eigener Jetski, ein Guide, der neben Ihnen faehrt, und ein Soundsystem auf der Maschine, eine Kleinigkeit, die die Stunde erheblich veraendert.\n\nDie Route folgt der Dubai-Kueste vorbei an den Landmarken, wobei der Guide Linie und Tempo vorgibt, damit niemand sich verirrt oder in gesperrtem Gebiet landet.\n\nKein Fuehrerschein und keine Erfahrung sind noetig. Es gibt zuerst ein Briefing an Land, und der Guide passt die Geschwindigkeit an den langsamsten Fahrer an, nicht an den schnellsten.\n\nDas Soundsystem macht den Unterschied zu jeder anderen Jetski-Tour an dieser Kueste. Es ist an der Maschine montiert statt ein mitgebrachter Lautsprecher zu sein, was bedeutet, dass die Fahrt einen Soundtrack hat statt Motorenlaerm.\n\nSie werden nass, bringen Sie also etwas mit, das nass werden darf, und zum Wechseln, falls Sie danach noch Plaene haben.\n\nPraktischer Hinweis: der Jetski-Betrieb hier laeuft von festen Marina-Punkten aus, und es gibt in der Regel keine Hotelabholung. Mit dem Taxi hinzukommen ist unkompliziert, und fuenfzehn Minuten frueher anzukommen macht das Briefing entspannt.",
+  "highlights": [
+   "Ihr eigener Jetski mit einem Guide, der neben Ihnen faehrt",
+   "Ein an der Maschine montiertes Soundsystem, kein mitgebrachter Lautsprecher",
+   "Kein Fuehrerschein oder Erfahrung noetig; zuerst ein Briefing an Land",
+   "Der Guide passt das Tempo an den langsamsten Fahrer an, nicht den schnellsten",
+   "Sie werden nass, bringen Sie Wechselkleidung mit"
+  ],
+  "included": [
+   "Schwimmweste",
+   "Jetski",
+   "Guide",
+   "Kostenlose Handyfotos",
+   "Trinkwasser"
+  ],
+  "notIncluded": [
+   "Essen und Getraenke",
+   "Trinkgeld"
+  ]
+ },
+ "dubai-dinner-cruise-with-a-chef-designed-menu-and-live-music": {
+  "title": "Dubai: Dinner-Kreuzfahrt mit Menue vom Chefkoch und Live-Musik",
+  "metaTitle": "Dubai: Dinner-Kreuzfahrt, Chefkoch-Menue",
+  "metaDescription": "Dinner-Kreuzfahrt mit einem vom Chefkoch entworfenen Menue am Tisch, Live-Musik, entlang der beleuchteten Marina und Palm.",
+  "shortDescription": "Eine Dinner-Kreuzfahrt, bei der das Essen der Grund ist statt eine Nebensache, was an dieser Kueste nicht die Norm ist.",
+  "fullDescription": "Eine Dinner-Kreuzfahrt, bei der das Essen der Grund ist statt eine Nebensache, was an dieser Kueste nicht die Norm ist.\n\nDie meisten Dubai-Dinner-Kreuzfahrten servieren ein Buffet, das existiert, um das Ticket zu rechtfertigen. Diese hier bietet ein von einem Chefkoch entworfenes Menue, am Tisch serviert, mit Live-Musik den ganzen Abend, auf einem Boot, das die Kuestenlinie von Marina und Palm befaehrt, waehrend die Skyline aufleuchtet.\n\nDer Unterschied zeigt sich im Tempo. Eine Buffet-Kreuzfahrt ist eine Schlange und ein Gedraenge; ein Tischservice dauert die Laenge der Fahrt, und die Gaenge kommen, waehrend sich der Blick aendert.\n\nEtwa zwei Stunden, ab der Marina.\n\nPraktische Dinge. Bestaetigen Sie jede Ernaehrungsanforderung bei der Buchung statt am Abend selbst, ein festes Menue kann nicht wie ein Buffet am Tisch improvisiert werden. Smart Casual wird erwartet. Und keine Hotelabholung: Sie machen sich selbst auf den Weg zum Liegeplatz.\n\nDie Sonnenuntergangsfahrten sind als erste ausgebucht und sind die, die sich lohnen, die Kuestenlinie ist hier in der Dunkelheit mehr wert als zu jeder anderen Stunde.",
+  "highlights": [
+   "Ein vom Chefkoch entworfenes Menue am Tisch, keine Buffet-Schlange",
+   "Live-Musik den ganzen Abend",
+   "Die Kuestenlinie von Marina und Palm, waehrend die Skyline aufleuchtet",
+   "Etwa zwei Stunden, mit Gaengen im Takt der Fahrt",
+   "Achtung: bestaetigen Sie Ernaehrungsbeduerfnisse bei der Buchung, ein festes Menue laesst sich nicht improvisieren"
+  ],
+  "included": [
+   "Zweistuendige Luxusyacht-Kreuzfahrt durch die Dubai Marina, vorbei an ikonischen Sehenswuerdigkeiten",
+   "Mehrgaengiges Dinner mit einem von einem Sterne-Chefkoch zusammengestellten Menue",
+   "Live-Saenger und ansprechende Bordunterhaltung",
+   "Unbegrenzte Softdrinks",
+   "Wasser in Flaschen, Kaffee und Tee",
+   "Volle Bar an Bord verfuegbar (alkoholische Getraenke an Bord zu bezahlen)",
+   "Kostenloses WLAN an Bord",
+   "Toiletten",
+   "Eintrittsgebuehren inklusive"
+  ],
+  "notIncluded": [
+   "Abholung und Rueckbringung zum Hotel (Transfer gegen Aufpreis verfuegbar)",
+   "Alkoholische Getraenke (an der Bordbar erhaeltlich)",
+   "Dekorationen oder individuelle Gestaltung fuer besondere Anlaesse (auf Anfrage gegen Aufpreis verfuegbar)",
+   "Persoenliche Ausgaben und alle nicht ausdruecklich genannten Leistungen"
+  ]
+ },
+ "dubai-private-yacht-cruise-with-optional-gourmet-catering": {
+  "title": "Dubai: private Yachtkreuzfahrt mit optionalem Gourmet-Catering",
+  "metaTitle": "Dubai: private Yacht, Catering optional",
+  "metaDescription": "Private Charterfahrt entlang der Kueste von Dubai, mit einem Gourmet-Essen als Option statt als Selbstverstaendlichkeit.",
+  "shortDescription": "Eine private Charterfahrt entlang der Kueste von Dubai mit dem Catering als Wahl statt als Selbstverstaendlichkeit, die ehrliche Art, ein Boot zu verkaufen.",
+  "fullDescription": "Eine private Charterfahrt entlang der Kueste von Dubai mit dem Catering als Wahl statt als Selbstverstaendlichkeit, die ehrliche Art, ein Boot zu verkaufen.\n\nDie Kreuzfahrt selbst umfasst die Marina, Bluewaters und Ain Dubai, die Sichel der Palm, Atlantis und den Burj Al Arab, wobei der Kapitaen die Position haelt, wo immer die Fotos es wert sind.\n\nDas Gourmet-Essen ist ein Zusatz, der bei der Buchung gewaehlt wird. Waehlen Sie es, und das Essen wird an Bord zubereitet und serviert; lassen Sie es weg, und Sie duerfen gern Ihr eigenes mitbringen, was auf einer privaten Charterfahrt normalerweise erlaubt ist und deutlich weniger kostet.\n\nDiese Flexibilitaet ist der Punkt. Die meisten Dinner-Kreuzfahrten buendeln ein festes Menue in einen Festpreis, ob man es will oder nicht.\n\nDas Boot hat Schatten, einen Salon und Deckflaeche, und die Crew macht die Fotos, statt Sie allein zu lassen.\n\nZwei Hinweise. Es gibt keine Hotelabholung, machen Sie sich selbst auf den Weg zum Liegeplatz. Und entscheiden Sie sich fuer das Catering bei der Buchung statt am Tag selbst, die Galley arbeitet nach einer vorbereiteten Bestellung, nicht nach Wuenschen an der Gangway.",
+  "highlights": [
+   "Private Charterfahrt mit dem Catering als Wahl, nicht als gebuendelte Selbstverstaendlichkeit",
+   "Marina, Ain Dubai, die Palm, Atlantis und der Burj Al Arab",
+   "Bringen Sie Ihr eigenes Essen und Getraenke mit, wenn Sie die Gourmet-Option auslassen",
+   "Schatten, Salon und Deckflaeche, mit einer Crew, die die Fotos macht",
+   "Achtung: entscheiden Sie das Catering bei der Buchung, die Galley arbeitet nach vorbereiteter Bestellung"
+  ],
+  "included": [
+   "Private Yacht-Kreuzfahrt",
+   "Blick auf Burj Al Arab, Palm Jumeirah, Atlantis Hotel, Ain Dubai, Dubai Marina",
+   "Elektrischer BBQ-Grill zum Live-Kochen",
+   "Unterstuetzung durch Kapitaen und Crew",
+   "Klimatisiertes Boot",
+   "WLAN und USB-Ladeanschluesse",
+   "Duschen und Toiletten",
+   "Handtuecher",
+   "Unbegrenztes Wasser, Softdrinks und Eiswuerfel",
+   "JBL-Partybox-Bluetooth-Musiksystem",
+   "Einweg-Becher, -Teller, -Loeffel und -Gabeln",
+   "Kuehlschrank, Mikrowelle, Kuehlbox"
+  ],
+  "notIncluded": [
+   "Transport zum Treffpunkt",
+   "Abholung und Rueckbringung zum Hotel"
+  ]
+ },
+ "dubai-night-kayaking-with-illuminated-kayaks-and-skyline-views": {
+  "title": "Dubai: Nacht-Kajaktour mit beleuchteten Kajaks und Skyline-Blick",
+  "metaTitle": "Dubai: Nacht-Kajak, beleuchtete Kajaks",
+  "metaDescription": "Kajakfahren nach Einbruch der Dunkelheit auf transparenten, von unten beleuchteten Kajaks, mit der Skyline von Dubai ueber Ihnen.",
+  "shortDescription": "Kajakfahren nach Einbruch der Dunkelheit, auf beleuchtetem Wasser, mit der Skyline von Dubai ueber Ihnen, und im Sommer ist es die einzig vernuenftige Zeit fuer eine Paddeltour.",
+  "fullDescription": "Kajakfahren nach Einbruch der Dunkelheit, auf beleuchtetem Wasser, mit der Skyline von Dubai ueber Ihnen, und im Sommer ist es die einzig vernuenftige Zeit fuer eine Paddeltour.\n\nDie Kajaks sind durchsichtig und von unten beleuchtet, sodass das Wasser unter Ihnen leuchtet und Sie Fische unter dem Rumpf schwimmen sehen koennen. Das klingt nach einem Gimmick und ist wirklich das, worueber die Leute danach sprechen.\n\nDas Wasser ist ruhig und geschuetzt, und die Route wird durchgehend gefuehrt, sodass keine Erfahrung noetig ist. Schwimmwesten werden getragen und zuerst gibt es ein Briefing.\n\nDies nachts zu tun, loest das Problem, das Wasseraktivitaeten hier vier Monate im Jahr tagsueber schwierig macht: zwischen Juni und September ist die Sonne der limitierende Faktor, und nach Einbruch der Dunkelheit faellt die Temperatur auf etwas Angenehmes, waehrend das Wasser warm bleibt.\n\nBringen Sie Wechselkleidung mit und etwas, um ein Handy trocken zu halten, die Kajaks sind stabil, aber es ist immer noch ein Boot, in dem man niedrig sitzt.\n\nFuer jeden, der schon Wueste und Tuerme gemacht hat und einen Abend will, der keines von beiden ist, ist dies das besondere Erlebnis auf der Dubai-Wasserliste.",
+  "highlights": [
+   "Durchsichtige, von unten beleuchtete Kajaks, man sieht Fische unter dem Rumpf",
+   "Die Skyline ueber Ihnen nach Einbruch der Dunkelheit",
+   "Ruhiges, geschuetztes Wasser, durchgehend gefuehrt, keine Erfahrung noetig",
+   "Die Antwort auf den Sommer, wenn tagsueber Wasseraktivitaeten nicht funktionieren",
+   "Bringen Sie Wechselkleidung und einen wasserdichten Beutel fuer Ihr Handy mit"
+  ],
+  "included": [
+   "Schwimmwesten",
+   "Helme",
+   "Nutzung des Kajaks"
+  ],
+  "notIncluded": []
+ },
+ "dubai-private-yacht-hire-for-up-to-twelve-guests": {
+  "title": "Dubai: private Yachtmiete fuer bis zu zwoelf Gaeste",
+  "metaTitle": "Dubai: private Yacht, bis zu 12 Gaeste",
+  "metaDescription": "Eine private Yacht fuer bis zu zwoelf Personen, oft guenstiger pro Kopf als eine geteilte Dinner-Kreuzfahrt, mit Crew und freier Route.",
+  "shortDescription": "Eine private Yacht fuer bis zu zwoelf Personen, die Groesse, bei der Chartern aufhoert, ein Luxus zu sein, und zur guenstigeren Option wird.",
+  "fullDescription": "Eine private Yacht fuer bis zu zwoelf Personen, die Groesse, bei der Chartern aufhoert, ein Luxus zu sein, und zur guenstigeren Option wird.\n\nAuf zwoelf aufgeteilt, kostet ein privates Boot mit Kapitaen, Crew und Deckflaeche oft weniger pro Kopf als zwoelf Tickets auf einer geteilten Dinner-Kreuzfahrt, und statt eines nummerierten Tisches bekommen Sie das ganze Schiff, die Route, die Sie wollen, und die Stopps, die Sie wuenschen.\n\nDie Kuestenlinie ist die uebliche und sie ist es wirklich wert: die Dubai Marina, Ain Dubai auf Bluewaters, die Sichel der Palm, Atlantis und der Burj Al Arab auf seiner Insel.\n\nEs gibt Deckflaeche, Schatten, einen Salon und ein Badezimmer an Bord. Eigenes Essen und Trinken mitzubringen ist normalerweise erlaubt, was fuer eine Gruppe einen grossen Unterschied macht.\n\nDas ist die Buchung fuer einen Geburtstag, eine Familiengruppe oder eine Gruppe Freunde, die sonst auf zwei Tische auf einem geteilten Boot verteilt waeren.\n\nZwei praktische Hinweise. Hotelabholung ist nicht inklusive, jeder macht sich selbst auf den Weg zum Liegeplatz. Und Sonnenuntergangsfahrten sind als erste ausgebucht, besonders an Wochenenden, buchen Sie diese also weit im Voraus.",
+  "highlights": [
+   "Bis zu zwoelf Gaeste auf einer privaten Yacht mit Kapitaen und Crew",
+   "Bei voller Kapazitaet meist guenstiger pro Kopf als eine geteilte Dinner-Kreuzfahrt",
+   "Marina, Ain Dubai, die Palm, Atlantis und der Burj Al Arab",
+   "Deckflaeche, Schatten, Salon und Badezimmer; bringen Sie eigenes Essen und Getraenke mit",
+   "Die Buchung fuer einen Geburtstag oder eine Familiengruppe statt fuer ein Paar"
+  ],
+  "included": [
+   "Luxusyacht-Charter",
+   "Blick auf Dubais ikonische Sehenswuerdigkeiten",
+   "Privatsphaere und Entspannung weg von der Stadt",
+   "Verschiedene Kreuzfahrtrouten",
+   "Begruessung",
+   "Kostenloses WLAN",
+   "Kostenlose Softdrinks",
+   "Kostenlose frische Handtuecher",
+   "Schwimmhilfen",
+   "Schwimmwesten",
+   "Musiksystem",
+   "BBQ-Grill (Service-Gebuehr der Crew faellt an)"
+  ],
+  "notIncluded": [
+   "Essen und Premium-Getraenke (Gaeste duerfen aber eigenes Essen und Getraenke an Bord bringen)",
+   "Transport zur und von der Yacht",
+   "Parkplatz und Clubwagen-Gebuehr",
+   "Energy-Drinks und Mixer",
+   "Die einstuendige Fahrt gilt nur fuer den Marina-Kanal und das JBR-Gebiet",
+   "Schwimmen ist ab eine Stunde vor Sonnenuntergang nicht mehr erlaubt",
+   "Jetskis und Jetcars muessen fuer mindestens 2 Stunden gebucht werden und nur tagsueber",
+   "Fuer Jetskis und Jetcars ist eine Vorlaufzeit von 2 Stunden erforderlich",
+   "Schuhe oder Flipflops sind an Bord nicht erlaubt"
+  ]
+ },
+ "fossil-rock-dune-buggy-expedition-from-dubai": {
+  "title": "Dubai: Dünenbuggy-Expedition zum Fossil Rock",
+  "metaTitle": "Dubai: Duenenbuggy zum Fossil Rock",
+  "metaDescription": "Selbstfahr-Buggy-Expedition zum Fossil Rock, einem Kalksteinfelsen voller Meeresfossilien, mit festeren und steileren Duenen.",
+  "shortDescription": "Fossil Rock ist ein Jebel hinter Al Madam, etwa eine Stunde von Dubai entfernt, und der Sand dort hat eine andere Farbe und Konsistenz als die roten Duenen der Standard-Safaris.",
+  "fullDescription": "Fossil Rock ist ein Jebel hinter Al Madam, etwa eine Stunde von Dubai entfernt, und der Sand dort hat eine andere Farbe und Konsistenz als die roten Duenen der Standard-Safaris.\n\nDer Felsen ist genau das, wonach er klingt: ein Kalksteinvorsprung voller Meeresfossilien, abgelagert, als diese ganze Region unter einem flachen Meer lag. Sie koennen Muscheln und Korallenfragmente von einem Boden aufsammeln, der heute der trockenste Ort ist, an dem die meisten Besucher je gestanden haben, was ein besserer Grund ist, in einer Wueste zu sein, als ein Buffet.\n\nDie Buggys sind die Art, hinueberzukommen. Sie fahren selbst, mit einem vorausfahrenden Guide und zuerst einem Briefing, ueber Duenen, die fester und steiler sind als die touristischen Abschnitte naeher an der Stadt.\n\nDas passt zu Leuten, die schon eine Standard-Safari gemacht haben und mehr Fahren und weniger Shows wollten, hier gibt es keinen Camp-Abend, keine Tanoura, keine Buffet-Schlange. Es ist eine Fahrt und eine Landschaft.\n\nAchtung: koerperlich anstrengend und sehr staubig. Geschlossene Schuhe, Sonnenbrille, und Kleidung, die ruiniert werden darf. Nicht geeignet bei Ruecken- oder Nackenproblemen.\n\nAm besten in den kuehleren Monaten und am besten frueh, es ist exponiertes Gelaende ohne jeden Schatten auf der Strecke.",
+  "highlights": [
+   "Fossil Rock, ein Kalksteinjebel voller Meeresfossilien aus einem alten Meer",
+   "Festere, steilere Duenen als die touristischen Abschnitte nahe der Stadt",
+   "Sie fahren den Buggy selbst, mit einem vorausfahrenden Guide und zuerst einem Briefing",
+   "Kein Camp, keine Shows, eine Fahrt und eine Landschaft",
+   "Achtung: staubig und koerperlich anstrengend; geschlossene Schuhe und kein Schatten auf der Strecke"
+  ],
+  "included": [
+   "Abholung und Rueckbringung zum Hotel (optional)",
+   "1-stuendiges Selbstfahr-Duenenbuggy-Erlebnis",
+   "Fotostopp bei Fossil Rock und Camel Rock",
+   "Umkleide und Duschmoeglichkeiten",
+   "Erfrischungen und Snacks",
+   "Sicherheitsausruestung",
+   "Sandboarding",
+   "Kamelritt"
+  ],
+  "notIncluded": []
+ },
+ "dubai-azimut-42-private-yacht-cruise-for-small-groups": {
+  "title": "Dubai: private Azimut-42-Yachtkreuzfahrt fuer kleine Gruppen",
+  "metaTitle": "Dubai: private Azimut 42, kleine Gruppen",
+  "metaDescription": "Eine privat gecharterte 42-Fuss-Azimut fuer kleine Gruppen von sechs bis acht Personen, mit Salon, Kabine und ueberdecktem Deck.",
+  "shortDescription": "Eine 42-Fuss-Azimut, privat gechartert, die Groesse, die fuer eine kleine Gruppe wirklich passt, gross genug fuer einen Salon, ein Deck und Schatten, klein genug, um nicht an zwanzig Fremde verkauft zu werden.",
+  "fullDescription": "Eine 42-Fuss-Azimut, privat gechartert, die Groesse, die fuer eine kleine Gruppe wirklich passt, gross genug fuer einen Salon, ein Deck und Schatten, klein genug, um nicht an zwanzig Fremde verkauft zu werden.\n\nDie Route ist die uebliche Dubai-Kuestenlinie: aus der Marina, entlang der Palm vorbei an Atlantis, um den Burj Al Arab, und zurueck mit den Tuermen im Hintergrund. Was privat kauft, ist das Tempo und die Stopps.\n\nEs gibt eine Kabine, ein Badezimmer und ueberdeckte Deckflaeche, sodass dies in Monaten funktioniert, in denen ein offenes Boot nicht funktioniert.\n\nEigenes Essen und Trinken mitzubringen ist bei einer privaten Charterfahrt normalerweise erlaubt, was einen echten Unterschied bei den Kosten eines langen Nachmittags im Vergleich zum Kauf an Bord macht.\n\nFuer eine Gruppe von sechs bis acht kostet das oft weniger pro Kopf als eine gehobene geteilte Kreuzfahrt mit Essen, und alles daran ist besser. Fuer zwei Personen ist es eher ein Luxus als die vernuenftige Option, die geteilten einstuendigen Kreuzfahrten decken dasselbe Wasser fuer einen Bruchteil des Preises ab.\n\nSonnenuntergangsabfahrten sind als erste ausgebucht, reservieren Sie diese weiter im Voraus, als Sie denken, dass Sie muessen.",
+  "highlights": [
+   "Eine privat gecharterte 42-Fuss-Azimut, Salon, Kabine, Badezimmer und Schatten",
+   "Die Palm, Atlantis und der Burj Al Arab im eigenen Tempo",
+   "Bringen Sie eigenes Essen und Getraenke mit, was die meisten Charterfahrten erlauben",
+   "Oft guenstiger pro Kopf als eine gehobene geteilte Kreuzfahrt bei sechs oder mehr Personen",
+   "Sonnenuntergangszeiten sind als erste ausgebucht"
+  ],
+  "included": [
+   "INKLUSIVE*",
+   "Professioneller lizenzierter Kapitaen und Crew",
+   "Mineralwasser",
+   "Einwegbesteck",
+   "Eiswuerfel und Kuehlbox",
+   "Hochwertiges Soundsystem",
+   "Sonnenbaden auf dem Vordeck",
+   "Sicherheitsausruestung",
+   "Schwimmen auf Anfrage",
+   "Treibstoff"
+  ],
+  "notIncluded": [
+   "Essen"
+  ]
+ },
+ "dubai-private-cruise-with-a-swim-stop-and-sunbathing": {
+  "title": "Dubai: private Kreuzfahrt mit Schwimmstopp und Sonnenbaden",
+  "metaTitle": "Dubai: private Kreuzfahrt mit Schwimmstopp",
+  "metaDescription": "Ein privates Boot, aufgebaut um einen Schwimmstopp, mit Blick auf Marina, die Palm und den Burj Al Arab.",
+  "shortDescription": "Ein privates Boot, das um das Anhalten statt das Vorbeifahren aufgebaut ist, die Besichtigung ist dabei, aber der Punkt ist das Schwimmen.",
+  "fullDescription": "Ein privates Boot, das um das Anhalten statt das Vorbeifahren aufgebaut ist, die Besichtigung ist dabei, aber der Punkt ist das Schwimmen.\n\nDie Route umfasst die Marina, die Palm und den Burj Al Arab, und dann findet der Kapitaen geschuetztes Wasser und laesst die Leiter herunter. Vom Boot im Golf zu schwimmen ist das, was die meisten Dubai-Besucher nie tun, und das Wasser ist die meiste Zeit des Jahres warm genug dafuer.\n\nDeckflaeche zum Sonnenbaden, Schatten, wenn Sie ihn wollen, und das Boot ganz fuer Ihre Gruppe.\n\nBringen Sie Handtuecher, Sonnenschutz und Badebekleidung mit, diese Fahrt ist ohne sie verschwendet, und Leute kommen regelmaessig fuer eine Besichtigungskreuzfahrt angezogen an und verbringen sie dann zusehend.\n\nZwei ehrliche Hinweise. Die Seebedingungen entscheiden, wo der Schwimmstopp ist, und gelegentlich, ob es einen gibt, der Kapitaen sagt es Ihnen am Tag selbst. Und es gibt keine Hotelabholung, Sie machen sich selbst auf den Weg zum Marina-Liegeplatz, was mit dem Taxi unkompliziert ist.\n\nDer Vormittags-Slot ist am besten zum Schwimmen, der Slot kurz vor Sonnenuntergang ist am besten fuer Fotos. Es sind wirklich unterschiedliche Fahrten, waehlen Sie also bewusst.",
+  "highlights": [
+   "Ein privates Boot mit einem richtigen Schwimmstopp, nicht nur einem fluechtigen Blick",
+   "Die Marina, die Palm und der Burj Al Arab auf dem Weg",
+   "Deckflaeche zum Sonnenbaden und Schatten, wenn Sie ihn wollen",
+   "Vormittags zum Schwimmen, kurz vor Sonnenuntergang fuer Fotos, waehlen Sie bewusst",
+   "Achtung: bringen Sie Badebekleidung und Handtuecher mit; keine Hotelabholung"
+  ],
+  "included": [
+   "Bootsfahrt",
+   "Saft",
+   "Wasser",
+   "Schwimmwesten",
+   "Soundsystem"
+  ],
+  "notIncluded": [
+   "Abholung und Rueckbringung zum Hotel",
+   "Handtuecher"
+  ]
+ },
+ "dubai-vip-desert-safari-with-private-seating-and-live-shows": {
+  "title": "Dubai: VIP-Wuestensafari mit privaten Sitzplaetzen und Live-Shows",
+  "metaTitle": "Dubai: VIP-Wuestensafari, private Sitzplaetze",
+  "metaDescription": "Dasselbe Dune Bashing und derselbe Sonnenuntergang wie bei einer Standard-Safari, aber mit privaten Sitzplaetzen, Tischservice und Shows aus der Naehe.",
+  "shortDescription": "Der Wuestenabend, den die meisten Leute buchen, bringt mehrere hundert Besucher in ein einziges Camp um eine einzige Buffet-Schlange. Dies ist die Version, die das nicht tut.",
+  "fullDescription": "Der Wuestenabend, den die meisten Leute buchen, bringt mehrere hundert Besucher in ein einziges Camp um eine einzige Buffet-Schlange. Dies ist die Version, die das nicht tut.\n\nDer Nachmittag ist vertraut: Abholung mit 4x4, Reifen ablassen an der roten Duenenlinie, eine halbe Stunde Dune Bashing, Sandboarding, ein Kamelritt und der Sonnenuntergang. Was sich aendert, ist das Camp.\n\nVIP bedeutet hier einen privaten Sitzbereich abseits der Haupt-Ebene, Tischservice statt einer Schlange, und genug Platz, sodass die Shows etwas sind, das man beobachtet, statt etwas, das hinter einer Menschenmenge passiert. Die Tanoura-, Feuer- und Bauchtanz-Vorfuehrungen sind dieselben, der Unterschied ist der Blickwinkel.\n\nDas Dinner wird serviert statt abgeholt.\n\nEs lohnt sich, klar zu sein, was das ist und was nicht. Es ist dieselbe Wueste und dieselbe Fahrt wie bei einer Standard-Safari. Wenn Dune Bashing und die Duenen das sind, wofuer Sie gekommen sind, liefert der Standard-Abendausflug das fuer ein Drittel des Preises. Dies ist den Unterschied wert fuer einen besonderen Anlass, mit einer Gruppe, oder fuer jeden, der die Menschenmenge in einem Standard-Camp als Grund fand, warum es ihm nicht gefiel.\n\nAchtung: Dune Bashing ist weiterhin ruppig, geben Sie jede Schwangerschaft oder Ruecken- oder Nackenprobleme bei der Buchung an.",
+  "highlights": [
+   "Private Sitzplaetze abseits der Haupt-Camp-Ebene",
+   "Tischservice statt einer Buffet-Schlange",
+   "Dieselben Tanoura-, Feuer- und Bauchtanz-Shows, mit einem richtigen Blickwinkel",
+   "Rotes Dune Bashing, Sandboarding, Kamelritt und davor Sonnenuntergang",
+   "Den Unterschied wert fuer einen besonderen Anlass; die Standard-Safari hat dieselben Duenen"
+  ],
+  "included": [
+   "Abholung und Rueckbringung zum Hotel",
+   "Zertifizierter Guide",
+   "Unbegrenztes Wasser waehrend der Transfers",
+   "45-minuetiges Dune-Bashing-Abenteuer",
+   "Sandboarding",
+   "Henna-Tattoo-Malerei",
+   "Tee/Kaffee, traditionelle Suessigkeit Luqaimat, und unbegrenzte Softdrinks",
+   "Babykamel-Fuetterung und Kamelritt im Noble Camp",
+   "Falken- und Fotografie-Erlebnis",
+   "Internationales BBQ-Buffet-Dinner (vegetarische Optionen verfuegbar)",
+   "Live-Feuershow",
+   "Saidi-Traditionstanz, Arabian Noble Night Teil 1 und 2, und traditionelle Dabka-Tanzshows"
+  ],
+  "notIncluded": [
+   "Quad und Duenenbuggy (vor Ort gegen Aufpreis verfuegbar)"
+  ]
+ },
+ "private-yacht-charter-around-the-palm-jumeirah": {
+  "title": "Private Yachtcharter rund um Palm Jumeirah",
+  "metaTitle": "Private Yacht rund um Palm Jumeirah",
+  "metaDescription": "Das ganze Boot fuer Ihre Gruppe, rund um die Palm, mit Schwimmstopp auf Anfrage und vollkommen freiem Tempo.",
+  "shortDescription": "Das ganze Boot, fuer Ihre Gruppe, rund um die Palm, was den Tag im Vergleich zu einer geteilten Kreuzfahrt vollstaendig veraendert.",
+  "fullDescription": "Das ganze Boot, fuer Ihre Gruppe, rund um die Palm, was den Tag im Vergleich zu einer geteilten Kreuzfahrt vollstaendig veraendert.\n\nDie Route faehrt aus der Marina, entlang der Sichel der Palm vorbei an Atlantis, hinaus zum Burj Al Arab auf seiner Insel, und zurueck die Kueste entlang mit den Marina-Tuermen im Hintergrund. Nichts Ungewoehnliches an der Route; jede Kreuzfahrt macht das. Anders ist, dass der Kapitaen fuer Sie arbeitet: halten Sie an, wo Sie wollen, bleiben Sie, solange Sie wollen, schwimmen Sie, wenn Sie wollen.\n\nDieser letzte Punkt ist der, der zaehlt. Geteilte Kreuzfahrten halten selten zum Schwimmen an, weil es Zeit kostet und nicht jeder es moechte. Bei einer privaten Charterfahrt geht die Leiter runter, wenn Sie fragen.\n\nDas Boot hat Deckflaeche, Schatten und eine Kabine. Bringen Sie Ihre eigene Musik und eigenes Essen und Getraenke mit, wenn Sie moechten, die meisten privaten Charterfahrten erlauben das, und es kostet einen Bruchteil des Kaufs an Bord.\n\nAuf sechs oder acht Personen aufgeteilt ist dies oft guenstiger pro Kopf als eine gehobene geteilte Kreuzfahrt, und es ist ein vollkommen anderer Nachmittag. Fuer zwei Personen ist es ein besonderer Anlass statt einer Standardwahl.",
+  "highlights": [
+   "Das ganze Boot fuer Ihre Gruppe, keine Fremden, kein fester Zeitplan",
+   "Die Sichel der Palm, Atlantis und der Burj Al Arab vom Wasser aus",
+   "Ein Schwimmstopp, wann immer Sie fragen, was geteilte Kreuzfahrten selten erlauben",
+   "Deckflaeche, Schatten und eine Kabine",
+   "Oft guenstiger pro Kopf als eine gehobene geteilte Kreuzfahrt bei sechs oder mehr Personen"
+  ],
+  "included": [
+   "Bootsfahrt",
+   "Wasser und Softdrinks",
+   "Kuehlbox mit Eis",
+   "WLAN",
+   "Soundsystem",
+   "Badezimmer an Bord"
+  ],
+  "notIncluded": [
+   "Abholung und Rueckbringung zum Hotel",
+   "Trinkgeld"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "Das Venedig des Ostens: geführter Heritage-Tag in Udaipur",
   "metaTitle": "Udaipur an einem Tag: City Palace, Pichola-See und Saheliyon ki Bari",
