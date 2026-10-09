@@ -87241,6 +87241,457 @@ export const FR_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "abu-dhabi-half-day-city-tour-with-grand-mosque-and-heritage-village": {
+  "title": "Abu Dhabi : visite de la ville d'une demi-journee avec la Grande Mosquee et le Heritage Village",
+  "metaTitle": "Abu Dhabi : demi-journee, mosquee + village",
+  "metaDescription": "Cinq heures pour l'essentiel d'Abu Dhabi : Grande Mosquee Cheikh Zayed, Heritage Village, marche aux dattes et trajet le long de la Corniche.",
+  "shortDescription": "Cinq heures suffisent pour l'essentiel d'Abu Dhabi si la conduite est prise en charge, et c'est la version compacte pour quiconque loge deja dans la ville ou n'a qu'une matinee a y consacrer.",
+  "fullDescription": "Cinq heures suffisent pour l'essentiel d'Abu Dhabi si la conduite est prise en charge, et c'est la version compacte pour quiconque loge deja dans la ville ou n'a qu'une matinee a y consacrer.\n\nLa Grande Mosquee Cheikh Zayed en occupe la plus grande part, et c'est merite. Entree gratuite, une abaya fournie aux femmes a la porte, et le temps passe vaut autant pour le tapis de la salle principale et les incrustations de marbre de la cour que pour les coupoles que tout le monde photographie.\n\nLe Heritage Village sur la digue fait contrepoids : une installation d'oasis reconstituee avec un souq en activite, des metallurgistes et des potiers, et la meilleure vue degagee sur la skyline de la Corniche de l'autre cote de l'eau. Le marche aux dattes a proximite est un arret veritablement local plutot que mis en scene.\n\nLe reste est un trajet le long de la Corniche avec passages devant Emirates Palace et Saadiyat Island, ou se trouvent les musees.\n\n⚠️ Le code vestimentaire a la mosquee s'applique a tous, hommes compris : epaules et genoux couverts, rien de moulant ni de transparent. Et la mosquee n'admet pas de visiteurs le vendredi matin, si votre date tombe un vendredi, dites-le nous et nous modifierons l'ordre du programme. Le dejeuner n'est pas inclus.",
+  "highlights": [
+   "Grande Mosquee Cheikh Zayed avec frais d'entree et abaya inclus",
+   "Heritage Village avec un souq en activite et la skyline de la Corniche de l'autre cote de l'eau",
+   "Le marche aux dattes, un arret local plutot que mis en scene",
+   "Trajet le long de la Corniche avec Emirates Palace et Saadiyat Island",
+   "Cinq heures avec prise en charge et retour a l'hotel a Abu Dhabi"
+  ],
+  "included": [
+   "Chauffeur professionnel",
+   "Prise en charge et retour a l'hotel",
+   "Frais d'entree",
+   "Visite de la Grande Mosquee Cheikh Zayed",
+   "Heritage Village",
+   "Emirates Palace (passage uniquement)",
+   "Passage par la Corniche",
+   "Saadiyat Island (passage uniquement)",
+   "Yas Island (passage uniquement)",
+   "Visite du marche aux dattes",
+   "Eau minerale"
+  ],
+  "notIncluded": [
+   "Dejeuner"
+  ]
+ },
+ "dubai-dune-buggy-desert-experience-with-camp-dinner-and-shows": {
+  "title": "Dubai : experience de buggy des dunes avec diner et spectacles au camp",
+  "metaTitle": "Dubai : buggy des dunes, camp et spectacles",
+  "metaDescription": "Conduisez vous-meme un buggy sur les dunes rouges, puis camp avec BBQ, danse du ventre, tanoura, chicha et balade a dos de chameau.",
+  "shortDescription": "La plupart des safaris desertiques vous placent a l'arriere du 4x4 de quelqu'un d'autre. Celui-ci vous place au volant d'un buggy, et c'est toute la difference : vous conduisez vous-meme les dunes plutot que d'y etre conduit, sur une machine faite pour...",
+  "fullDescription": "La plupart des safaris desertiques vous placent a l'arriere du 4x4 de quelqu'un d'autre. Celui-ci vous place au volant d'un buggy, et c'est toute la difference : vous conduisez vous-meme les dunes plutot que d'y etre conduit, sur une machine faite exactement pour ce sable.\n\nLa prise en charge se fait depuis le centre de Dubai. A la ligne des dunes, vous recevez le briefing et l'equipement, puis le buggy : un vehicule a cage de securite et pneus larges qui grimpe les dunes rouges sous votre propre accelerateur. C'est la version la plus physique d'une journee dans le desert de Dubai, et celle vers laquelle reviennent ceux qui ont trouve le safari standard trop calme.\n\nEnsuite, la soiree s'installe au camp : surf sur sable, buffet barbecue, spectacles de danse du ventre et de tanoura, chicha, henne et balade a dos de chameau, le desert devenant froid et sombre autour.\n\n⚠️ Lisez l'option attentivement. Ce produit est vendu en paliers et le diner, les spectacles, la balade a dos de chameau, la chicha et le henne dependent chacun du palier choisi : le palier d'entree couvre le buggy et le camp, les extras s'ajoutent au-dessus. Dites-nous ce que vous voulez inclus et nous confirmerons le palier exact avant que vous ne payiez, pour qu'il n'y ait pas de surprise au camp.",
+  "highlights": [
+   "Vous conduisez vous-meme le buggy, une machine a cage de securite faite pour les dunes rouges",
+   "Briefing complet et equipement de securite avant le depart",
+   "Camp desertique avec buffet barbecue, danse du ventre et spectacles de tanoura",
+   "Surf sur sable, chicha, henne et balade a dos de chameau selon le palier",
+   "⚠️ les inclusions varient selon le palier, nous confirmons exactement ce que couvre le votre avant paiement"
+  ],
+  "included": [
+   "Prise en charge et depose dans le centre de Dubai",
+   "Trajet en buggy des dunes",
+   "Diner barbecue (selon l'option)",
+   "Spectacle de danse du ventre (selon l'option)",
+   "Spectacle de tanoura (selon l'option)",
+   "Chicha (selon l'option)",
+   "Balade a dos de chameau (selon l'option)",
+   "Tatouage au henne (selon l'option)",
+   "Cafe arabe et boissons gazeuses (selon l'option)"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisees (disponibles a l'achat)",
+   "Photos souvenir (disponibles a l'achat)",
+   "Pourboires (optionnel)"
+  ]
+ },
+ "dubai-overnight-desert-safari-with-private-tent-and-stargazing": {
+  "title": "Dubai : safari desertique de nuit avec tente privee et observation des etoiles",
+  "metaTitle": "Dubai : safari de nuit, tente privee",
+  "metaDescription": "Dix-sept heures porte a porte : safari classique, nuit en tente privee climatisee, et lever du soleil sur les dunes d'Al Lahbab.",
+  "shortDescription": "Tout le monde quitte le desert a dix heures. Ce voyage est celui ou vous ne partez pas, et les deux heures qui suivent le depart des cars sont ce pour quoi vous payez reellement : le camp se vide, les generateurs s'arretent, et le ciel au-dessus des dunes d'Al Lahbab...",
+  "fullDescription": "Tout le monde quitte le desert a dix heures. Ce voyage est celui ou vous ne partez pas, et les deux heures qui suivent le depart des cars sont ce pour quoi vous payez reellement : le camp se vide, les generateurs s'arretent, et le ciel au-dessus des dunes d'Al Lahbab devient quelque chose que vous ne pouvez voir nulle part pres de la ville.\n\nL'apres-midi est un bon safari classique : prise en charge en 4x4, dune bashing a travers les dunes rouges, sandboard, une balade a dos de chameau repetable, gahwa et gaymat de bienvenue au camp, henne, et un barbecue avec les spectacles du soir.\n\nPuis les visiteurs de la journee partent et vous restez. Vous dormez dans une tente privee climatisee, une vraie tente avec un lit plutot qu'un matelas sur le sable, et le matin vous offre le desert au lever du soleil, que presque personne ne voit, avant le petit-dejeuner et le trajet de retour. Dix-sept heures porte a porte.\n\nDeux remarques honnetes. L'alcool n'est pas inclus et n'est pas disponible au camp. Et les activites de quad et de buggy des dunes sont des extras optionnels plutot qu'inclus dans le prix, a ajouter a l'etape des options si vous les voulez.",
+  "highlights": [
+   "Restez apres le depart des groupes de jour, le camp devient calme vers dix heures",
+   "Tente privee climatisee avec un vrai lit, pas un matelas sur le sable",
+   "Lever du soleil sur les dunes d'Al Lahbab, et petit-dejeuner avant le trajet de retour",
+   "Dune bashing, sandboard, balades a dos de chameau repetables, henne et gahwa",
+   "Dix-sept heures porte a porte avec prise en charge a l'hotel en 4x4"
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel en 4x4 climatise",
+   "Guide de safari",
+   "Experience dans les dunes (30-45 minutes)",
+   "Sandboard",
+   "Courte balade a dos de chameau (repetable)",
+   "Gahwa (cafe) de bienvenue au camp",
+   "Gaymat (sucreries) au camp",
+   "Peinture au henne (pour les femmes uniquement)",
+   "Pipe a chicha (saveur hubble bubble)",
+   "Spectacle de cheval arabe",
+   "Danse Yola traditionnelle",
+   "Spectacle de fauconnerie"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisees",
+   "Activites de quad/buggy des dunes (optionnel)"
+  ]
+ },
+ "dubai-helicopter-tour-over-the-palm-and-burj-al-arab": {
+  "title": "Dubai : tour en helicoptere au-dessus de la Palm Jumeirah et du Burj Al Arab",
+  "metaTitle": "Dubai : helicoptere, Palm et Burj Al Arab",
+  "metaDescription": "Douze minutes de vol au-dessus de la Palm Jumeirah, du Burj Al Arab, d'Atlantis et de la Dubai Marina, commentaires en direct inclus.",
+  "shortDescription": "Il n'y a pas d'autre maniere de voir la Palm. Depuis le sol, c'est un reseau routier ; depuis un deck d'observation, c'est une forme au loin. Depuis un helicoptere a quelques centaines de metres, c'est la chose telle qu'elle a ete dessinee, et les douze minutes que cela prend...",
+  "fullDescription": "Il n'y a pas d'autre maniere de voir la Palm. Depuis le sol, c'est un reseau routier ; depuis un deck d'observation, c'est une forme au loin. Depuis un helicoptere a quelques centaines de metres, c'est la chose telle qu'elle a ete dessinee, et les douze minutes que cela prend pour la survoler sont la raison pour laquelle les gens reservent cela.\n\nL'itineraire passe au-dessus de Dubai Marina et de Bluewaters, le long des palmes de la Palm et autour d'Atlantis, devant le Burj Al Arab sur sa propre ile, et retour le long de la cote avec le Burj Khalifa dominant toute la ville. Les commentaires en direct arrivent par le casque, donc vous savez ce que vous regardez pendant que vous etes encore au-dessus.\n\nDes vols de differentes durees sont disponibles et les plus longs s'etendent vers l'interieur, vers Downtown et les World Islands, plutot que de simplement repeter le meme trajet.\n\nDeux remarques pratiques. Les regles de poids et d'equilibre font que le poids des passagers est releve a l'enregistrement et les sieges sont attribues par l'equipage : les sieges cote fenetre ne sont pas garantis et ne peuvent pas etre reserves a l'avance. Et les vols dependent de la meteo : la brume d'ete et, parfois, le vent, retardent ou deplacent un creneau. Des rafraichissements sont fournis au terminal avant l'embarquement.",
+  "highlights": [
+   "La Palm Jumeirah telle que dessinee, pas un reseau routier",
+   "Burj Al Arab, Atlantis, Dubai Marina et le Burj Khalifa depuis les airs",
+   "Commentaires en direct par casque pendant le vol",
+   "Plusieurs durees de vol, les plus longues atteignant Downtown",
+   "⚠️ les sieges sont attribues par l'equipage, les places cote fenetre ne peuvent pas etre reservees a l'avance"
+  ],
+  "included": [
+   "Tour en helicoptere de la duree de votre choix",
+   "Commentaires en direct",
+   "Rafraichissements"
+  ],
+  "notIncluded": [
+   "Nourriture"
+  ]
+ },
+ "dubai-marina-mega-yacht-dinner-cruise-with-international-buffet": {
+  "title": "Dubai Marina : croisiere-diner en mega yacht avec buffet international",
+  "metaTitle": "Dubai Marina : mega yacht, buffet",
+  "metaDescription": "Deux heures en mega yacht depuis Dubai Marina avec buffet international, DJ, et passage devant Ain Dubai, la Palm et Atlantis.",
+  "shortDescription": "Une croisiere-diner sur un veritable mega yacht plutot qu'un dhow reconverti, ce qui change ce que ressent reellement la soiree : il y a un salon principal avec de vraies tables, un deck d'observation au-dessus, et assez d'espace pour que le bateau ne ressemble jamais...",
+  "fullDescription": "Une croisiere-diner sur un veritable mega yacht plutot qu'un dhow reconverti, ce qui change ce que ressent reellement la soiree : il y a un salon principal avec de vraies tables, un deck d'observation au-dessus, et assez d'espace pour que le bateau ne ressemble jamais a une salle de reception flottante.\n\nL'itineraire part de Dubai Marina et suit la cote devant Bluewaters, Ain Dubai, la Palm Jumeirah et Atlantis, avec les tours de la Marina illuminees derriere vous au retour. Deux heures, la bonne duree pour ce littoral.\n\nLe diner est un buffet international servi dans le salon avec des stations en direct, ouvert a tous les billets, plus boissons gazeuses, jus et eau. Il y a un DJ et un divertissement en direct toute la soiree.\n\n⚠️ Verifiez quel billet vous choisissez. L'option standard donne acces au deck d'observation superieur mais **ne** comprend **pas** de table ni de siege reserve : si vous voulez vous asseoir pour manger, choisissez l'option avec sieges. La prise en charge a l'hotel n'est pas incluse et il n'y a pas de Wi-Fi a bord ; le parking a la marina est payant.\n\nLes navigations au coucher du soleil se vendent les premieres, reservez-les donc plus a l'avance.",
+  "highlights": [
+   "Un veritable mega yacht, salon principal, deck d'observation superieur, de la place pour bouger",
+   "Deux heures devant Ain Dubai, la Palm Jumeirah, Atlantis et la Marina",
+   "Buffet international avec stations en direct, ouvert a tous les billets",
+   "Boissons gazeuses, jus et eau ; DJ et divertissement en direct",
+   "⚠️ les billets standards donnent uniquement acces au deck, choisissez l'option avec sieges pour une table"
+  ],
+  "included": [
+   "Capitaine et equipage professionnels",
+   "Equipement de securite",
+   "Divertissement en direct, DJ maison",
+   "Acces au deck d'observation superieur (option standard, sans table ni siege)",
+   "Plats de buffet international dans le salon principal ou aux stations en direct (ouvert a tous)",
+   "Boissons gazeuses, jus, eau",
+   "Barmen et personnel de service du buffet",
+   "Acces a une table reservee sur le sky-deck separe (option VIP)",
+   "Canapes servis directement a table (option VIP)",
+   "Buffet en libre-service dans le salon principal (option VIP)",
+   "Salon d'enregistrement prioritaire (option VIP)",
+   "Boissons gazeuses de bienvenue (option VIP)"
+  ],
+  "notIncluded": [
+   "Prise en charge et depose a l'hotel",
+   "Wi-Fi",
+   "Parking payant"
+  ]
+ },
+ "abu-dhabi-desert-safari-with-camel-farm-and-bedouin-camp-dinner": {
+  "title": "Abu Dhabi : safari desertique avec ferme de chameaux et diner au camp bedouin",
+  "metaTitle": "Abu Dhabi : safari, ferme de chameaux",
+  "metaDescription": "Six heures de safari a Abu Dhabi : dune bashing, ferme de chameaux en activite, coucher de soleil, et camp avec diner barbecue et spectacles.",
+  "shortDescription": "Le desert d'Abu Dhabi est un paysage different de celui de Dubai et le safari le refletete. Les dunes y sont plus hautes et plus vides, les camps plus eloignes de la ville, et vous partagerez le sable avec bien moins de vehicules que du cote de Dubai.",
+  "fullDescription": "Le desert d'Abu Dhabi est un paysage different de celui de Dubai et le safari le reflete. Les dunes y sont plus hautes et plus vides, les camps plus eloignes de la ville, et vous partagerez le sable avec bien moins de vehicules que du cote de Dubai.\n\nL'apres-midi commence par la prise en charge en 4x4 et le dune bashing une fois les pneus degonfles. Le sandboard suit, et il y a un arret a une ferme de chameaux en activite, pas un decor photo mais une vraie ferme, chose plus rare a voir que la balade a dos de chameau proposee par la plupart des itineraires.\n\nLe coucher de soleil se prend depuis les dunes avant le camp, et la soiree au camp est la version familiere et vraiment bonne : diner barbecue, spectacles de tanoura et de feu, chicha, henne, et un ciel suffisamment sombre pour que les etoiles apparaissent vraiment.\n\nLe quad est un supplement optionnel plutot qu'inclus dans le prix de base, a selectionner a l'etape des options si vous le voulez. Six heures porte a porte, vehicule climatise tout au long, avec de l'eau fraiche dans la voiture, ce qui entre juin et septembre n'est pas une courtoisie mais une necessite.",
+  "highlights": [
+   "Dunes plus hautes et plus vides que du cote de Dubai, avec bien moins de vehicules",
+   "Visite d'une ferme de chameaux en activite, pas un arret photo au bord de la route",
+   "Dune bashing, sandboard, et coucher de soleil depuis les dunes",
+   "Camp bedouin avec diner barbecue, spectacles de feu et de tanoura",
+   "Six heures, 4x4 climatise, chauffeur licencie, eau fraiche tout au long"
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel",
+   "Transport en vehicule 4x4 climatise",
+   "Eau minerale fraiche dans le vehicule pendant le trajet",
+   "Chauffeur professionnel licencie anglophone",
+   "Dune bashing",
+   "Activite de sandboard",
+   "Trajet en quad (si l'option est selectionnee)",
+   "Boissons de bienvenue",
+   "Peinture au henne",
+   "Courte balade a dos de chameau",
+   "Arret photo au coucher du soleil",
+   "Chicha"
+  ],
+  "notIncluded": []
+ },
+ "dubai-frame-tickets-with-old-town-creek-and-blue-mosque-tour": {
+  "title": "Dubai : billets pour le Dubai Frame avec visite de la vieille ville, du creek et de la Mosquee Bleue",
+  "metaTitle": "Dubai : Dubai Frame, vieille ville",
+  "metaDescription": "Billet pour le Dubai Frame de 150 metres, Mosquee Bleue de Jumeirah, souks de l'or et des epices, et balade en abra sur le creek.",
+  "shortDescription": "Une journee qui met les deux Dubais cote a cote, la seule facon pour que l'un comme l'autre prenne vraiment sens.",
+  "fullDescription": "Une journee qui met les deux Dubais cote a cote, la seule facon pour que l'un comme l'autre prenne vraiment sens.\n\nLe Dubai Frame est la version litterale de cette idee : un rectangle dore de 150 metres positionne pour que la vieille ville occupe une moitie de la vue et la nouvelle skyline l'autre, avec un sol de verre sur le deck superieur que les gens abordent plus lentement qu'ils ne s'y attendent. Votre billet est inclus.\n\nDe la, la journee remonte dans le temps : la Mosquee de Jumeirah, la bleue, l'une des rares mosquees de Dubai a accueillir les visiteurs non musulmans avec une explication guidee plutot que simplement a permettre l'entree, puis les ruelles de Bastakiya, les souks de l'or et des epices, et un bateau sur le creek.\n\nLes arrets photo en chemin incluent le Museum of the Future, dont la facade en calligraphie arabe est une structure a part entiere, ainsi que Palm Jumeirah et le Burj Al Arab.\n\n⚠️ A savoir : une visite guidee a l'interieur du Frame lui-meme n'est pas incluse, vous montez avec votre billet et votre guide attend en bas. Tout le reste de l'itineraire est guide.",
+  "highlights": [
+   "Billet d'entree pour le Dubai Frame inclus, sol de verre et les deux skylines",
+   "Mosquee Bleue de Jumeirah avec une explication guidee a l'interieur",
+   "Souks de l'or et des epices plus les ruelles patrimoniales de Bastakiya",
+   "Arrets photo au Museum of the Future, Palm Jumeirah et Burj Al Arab",
+   "Prise en charge a l'hotel et vehicule climatise"
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel",
+   "Transport en vehicule climatise",
+   "Guide",
+   "Visite guidee de la Mosquee Bleue",
+   "Arret photo au Burj Al Arab",
+   "Arret photo au Museum of the Future et acces au rez-de-chaussee",
+   "Visite du Gold Souk et du Spice Souk",
+   "Visite du restaurant patrimonial Al Khayma",
+   "The et cafe arabe",
+   "Trajet en taxi aquatique abra",
+   "Eau minerale illimitee",
+   "Billet d'entree pour le Dubai Frame (si l'option est selectionnee)"
+  ],
+  "notIncluded": [
+   "Visite guidee a l'interieur du Frame",
+   "Pourboires (optionnel)"
+  ]
+ },
+ "louvre-abu-dhabi-and-grand-mosque-day-trip-from-dubai": {
+  "title": "Excursion depuis Dubai : Louvre Abu Dhabi et Grande Mosquee",
+  "metaTitle": "Louvre Abu Dhabi et Grande Mosquee",
+  "metaDescription": "Deux heures completes au Louvre Abu Dhabi et deux heures a la Grande Mosquee Cheikh Zayed, avec billets inclus, depuis Dubai.",
+  "shortDescription": "Le duo qui justifie le trajet depuis Dubai : le batiment le plus photographie du pays et son musee le plus serieux, avec deux heures completes a chacun plutot que les arrets de vingt minutes d'une visite de ville generale.",
+  "fullDescription": "Le duo qui justifie le trajet depuis Dubai : le batiment le plus photographie du pays et son musee le plus serieux, avec deux heures completes a chacun plutot que les arrets de vingt minutes d'une visite de ville generale.\n\nLe Louvre Abu Dhabi merite d'etre parcouru lentement. Le dome de Jean Nouvel est un treillis de pres de huit mille etoiles qui projette un motif de lumiere changeant sur les galeries en dessous, l'effet que l'on appelle la pluie de lumiere, et la collection est exposee chronologiquement a travers les cultures plutot que separee par pays, de sorte qu'un bronze chinois se trouve a cote d'un bronze grec du meme siecle. Votre billet est inclus.\n\nLa Grande Mosquee Cheikh Zayed ne necessite aucun argument. Entree gratuite, une abaya fournie a la porte, et deux heures est la juste duree pour la salle, la cour et les bassins reflechissants.\n\n⚠️ Prevoyez autour de deux choses. Le Louvre est ferme le lundi. Et la mosquee est fermee aux visiteurs le vendredi matin, avec un code vestimentaire applique a tous : epaules et genoux couverts, rien de transparent. Dites-nous votre date et nous confirmerons que les deux fonctionnent avant que vous ne payiez.\n\nUne visite guidee a l'interieur du Louvre n'est pas incluse ; vous avancez a votre rythme avec l'audioguide disponible au comptoir.",
+  "highlights": [
+   "Entree au Louvre Abu Dhabi incluse, avec deux heures pour en profiter",
+   "Grande Mosquee Cheikh Zayed avec deux heures et une abaya fournie",
+   "Arret photo a la Corniche en chemin",
+   "Prise en charge a l'hotel a Dubai et vehicule climatise",
+   "Eau fraiche tout au long de la journee"
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel a Dubai",
+   "Transport en vehicule climatise",
+   "Guide",
+   "Entree au musee du Louvre Abu Dhabi (visite de 2 heures)",
+   "Frais d'entree a la Mosquee Sheikh Zayed (visite de 2 heures)",
+   "Arret photo a la Corniche d'Abu Dhabi",
+   "Eau minerale fraiche",
+   "Billet d'entree au musee Zayed (si l'option est selectionnee)"
+  ],
+  "notIncluded": [
+   "Vetements de couverture supplementaire",
+   "Visite guidee du Louvre",
+   "Pourboires"
+  ]
+ },
+ "abu-dhabi-grand-mosque-qasr-al-watan-and-etihad-towers-tour": {
+  "title": "Abu Dhabi : visite de la Grande Mosquee, de Qasr Al Watan et des Etihad Towers",
+  "metaTitle": "Abu Dhabi : mosquee, palais, tours",
+  "metaDescription": "Six heures a Abu Dhabi : Grande Mosquee Cheikh Zayed, palais Qasr Al Watan, et deck d'observation des Etihad Towers a 300 metres.",
+  "shortDescription": "Trois batiments qui expliquent ensemble comment Abu Dhabi se voit elle-meme, en six heures avec un guide et une voiture climatisee, au depart d'un hotel d'Abu Dhabi plutot que de Dubai.",
+  "fullDescription": "Trois batiments qui expliquent ensemble comment Abu Dhabi se voit elle-meme, en six heures avec un guide et une voiture climatisee, au depart d'un hotel d'Abu Dhabi plutot que de Dubai.\n\nLa Grande Mosquee Cheikh Zayed vient en premier et merite le plus de temps. Une capacite de quarante mille personnes, le plus grand tapis noue a la main du monde dans la salle principale, et une cour dont l'incrustation de marbre floral, la plupart des visiteurs la traversent sans regarder vers le bas. L'entree est gratuite ; une abaya est fournie aux femmes et rendue ensuite.\n\nQasr Al Watan est le palais presidentiel en activite et est ouvert aux visiteurs : le Grand Hall, la bibliotheque, et une collection de cadeaux d'etat. C'est un veritable palais plutot qu'un musee dans un palais, et l'echelle se lit differemment une fois a l'interieur.\n\nLes Etihad Towers vous donnent le deck d'observation a 300 metres, la facon la plus claire de comprendre la Corniche et les iles au-dela.\n\n⚠️ Deux fermetures a prevoir : la mosquee n'admet pas de visiteurs le vendredi matin, et Qasr Al Watan ferme a court terme pour des fonctions d'etat. Dites-nous votre date et nous confirmerons les deux avant que vous ne payiez.",
+  "highlights": [
+   "Grande Mosquee Cheikh Zayed, avec abaya fournie a la porte",
+   "Qasr Al Watan, le palais presidentiel en activite, de l'interieur et non seulement de l'exterieur",
+   "Deck d'observation des Etihad Towers a 300 metres",
+   "Arret photo au Louvre Abu Dhabi et a la Corniche",
+   "Six heures, guide licencie, vehicule climatise, prise en charge a Abu Dhabi"
+  ],
+  "included": [
+   "Prise en charge et depose",
+   "Transport en vehicule moderne climatise",
+   "Chauffeur professionnel",
+   "Visite de la Grande Mosquee Cheikh Zayed",
+   "Visite du palais Qasr Al Watan",
+   "Visite du deck d'observation des Etihad Towers",
+   "Arret photo au musee du Louvre",
+   "Abaya pour les femmes pendant la visite de la mosquee (a rendre apres utilisation)",
+   "Eau minerale fraiche"
+  ],
+  "notIncluded": [
+   "Tout service ou depense supplementaire (hors ce qui precede)"
+  ]
+ },
+ "old-dubai-walking-tour-with-souks-street-food-and-abra-ride": {
+  "title": "Visite a pied du Vieux Dubai avec souks, street food, et trajet en abra",
+  "metaTitle": "Vieux Dubai : souks et abra",
+  "metaDescription": "Visite a pied de 3 heures : quartier Al Fahidi, maison patrimoniale emiratie, trajet en abra sur le creek, souks de l'or et des epices.",
+  "shortDescription": "C'est la moitie de Dubai qui existait avant les tours, assez petite pour se parcourir a pied. Al Fahidi est un reseau de ruelles de maisons a tours a vent en corail et en gypse, construites par des marchands de perles, et qui reste frais au niveau de la rue d'une facon que la nouvelle ville ne connait pas...",
+  "fullDescription": "C'est la moitie de Dubai qui existait avant les tours, assez petite pour se parcourir a pied. Al Fahidi est un reseau de ruelles de maisons a tours a vent en corail et en gypse, construites par des marchands de perles, et qui reste frais au niveau de la rue d'une facon que la nouvelle ville ne connait pas.\n\nLa promenade passe par une maison patrimoniale emiratie, le souk des textiles, puis la traversee qui fait toute la visite : un abra a travers le Dubai Creek. Ce sont des bateaux en bois qui parcourent le meme trajet depuis des decennies et qui coutent un dirham pour les locaux, l'important n'est pas l'economie mais le fait d'etre sur le meme banc que des gens qui vont travailler.\n\nDe l'autre cote se trouvent les souks de l'or et des epices. Le souk de l'or detient des tonnes de stock dans des vitrines ouvertes et le souk des epices est ou le guide merite ses honoraires, car savoir quel safran est authentique compte. La street food se mange en chemin plutot qu'assis.\n\nRemarques pratiques : c'est une visite a pied d'environ trois heures, portez donc des chaussures de marche, et c'est bien plus agreable entre octobre et avril. Du temps shopping est integre et il n'y a aucune obligation d'acheter quoi que ce soit.",
+  "highlights": [
+   "Les ruelles a tours a vent d'Al Fahidi avec un guide local",
+   "Traversee traditionnelle en abra sur le Dubai Creek",
+   "Souks de l'or et des epices avec du temps pour faire les boutiques, sans pression",
+   "Maison patrimoniale emiratie et street food en chemin",
+   "Prise en charge a l'hotel disponible en option"
+  ],
+  "included": [
+   "Guide local expert",
+   "Prise en charge et depose a l'hotel (si l'option est selectionnee)",
+   "Entree aux sites patrimoniaux et musees",
+   "Entree a la maison patrimoniale Al Khayma",
+   "Visite du souk des textiles",
+   "Trajet traditionnel en abra sur le Dubai Creek",
+   "Visite du Gold Souk avec temps shopping",
+   "Visite du Spice Souk avec temps shopping",
+   "Cafe ou the arabe",
+   "Dattes emiraties premium",
+   "Degustation de chocolat au lait de chameau",
+   "Eau en bouteille offerte"
+  ],
+  "notIncluded": [
+   "Pourboires (optionnel)"
+  ]
+ },
+ "dubai-marina-luxury-yacht-cruise-with-onboard-barbecue": {
+  "title": "Dubai Marina : croisiere en yacht de luxe avec barbecue a bord",
+  "metaTitle": "Dubai Marina : yacht de luxe, barbecue",
+  "metaDescription": "Une heure en yacht depuis Dubai Marina, le long de la Palm, d'Atlantis et du Burj Al Arab, barbecue en direct sur certaines options.",
+  "shortDescription": "La skyline de Dubai a ete concue pour etre regardee depuis l'eau, et une heure en yacht fait plus pour elle que n'importe quel deck d'observation. Vous partez de Dubai Marina, passez devant la Palm, et revenez le long de la cote avec Atlantis, le Burj...",
+  "fullDescription": "La skyline de Dubai a ete concue pour etre regardee depuis l'eau, et une heure en yacht fait plus pour elle que n'importe quel deck d'observation. Vous partez de Dubai Marina, passez devant la Palm, et revenez le long de la cote avec Atlantis, le Burj Al Arab et les tours de la Marina empiles derriere vous.\n\nLe bateau est un yacht normalement loue en prive mais exploite ici en croisiere partagee, donc il y a de l'espace sur le pont plutot que des rangees de sieges, des boissons gazeuses et de l'eau tout au long, et un equipage qui prendra les photos que vous demanderiez sinon a un etranger.\n\n⚠️ Lisez attentivement l'option que vous choisissez, car la nourriture n'est pas sur toutes. Le barbecue en direct ne fonctionne que sur les options Burj de deux et trois heures, la croisiere d'une heure et le trajet Atlantis et Palm de deux heures ne l'incluent pas. Il n'y a non plus pas d'arret baignade sur cet itineraire.\n\nL'alcool est disponible au bar a bord et facture separement. La prise en charge a l'hotel n'est pas incluse ; vous vous rendez vous-meme au quai de la marina, ce qui est simple en taxi ou en metro. Les departs au coucher du soleil partent les premiers, reservez-les donc plus a l'avance.",
+  "highlights": [
+   "Depart de Dubai Marina avec la Palm, Atlantis et le Burj Al Arab depuis l'eau",
+   "Espace ouvert sur le pont plutot que des sieges fixes",
+   "Boissons gazeuses, eau et jus tout au long ; bar a bord",
+   "Barbecue en direct sur les options Burj de 2 heures et 3 heures",
+   "Capitaine professionnel, equipage et un hote a bord"
+  ],
+  "included": [
+   "Croisiere en yacht de luxe",
+   "Petit-dejeuner ou BBQ (uniquement sur les options Burj de 2h et 3h)",
+   "Hote et guide experimente",
+   "Boissons gazeuses, eau, et jus",
+   "Bar a bord (supplement)",
+   "Musique douce et relaxante",
+   "Personnel de service",
+   "Capitaine et equipage professionnels",
+   "Gilets de sauvetage (adultes et enfants)"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisees (a acheter au bar)",
+   "Prise en charge et depose a l'hotel",
+   "Arrets baignade",
+   "Nourriture BBQ (non disponible sur les tours Atlantis Palm de 2h et d'1 heure)"
+  ]
+ },
+ "abu-dhabi-full-day-tour-from-dubai-with-grand-mosque-and-corniche": {
+  "title": "Abu Dhabi : visite d'une journee complete depuis Dubai avec la Grande Mosquee et la Corniche",
+  "metaTitle": "Abu Dhabi : journee complete depuis Dubai",
+  "metaDescription": "Journee complete depuis Dubai : Grande Mosquee Cheikh Zayed, Corniche, Emirates Palace, dome du Louvre, et Etihad Towers.",
+  "shortDescription": "Abu Dhabi se trouve a environ quatre-vingt-dix minutes de Dubai le long de la cote, et une journee suffit vraiment pour voir ce que les gens viennent chercher, a condition que quelqu'un d'autre conduise et que la mosquee soit bien programmee.",
+  "fullDescription": "Abu Dhabi se trouve a environ quatre-vingt-dix minutes de Dubai le long de la cote, et une journee suffit vraiment pour voir ce que les gens viennent chercher, a condition que quelqu'un d'autre conduise et que la mosquee soit bien programmee.\n\nLa Grande Mosquee Cheikh Zayed est la piece maitresse et la raison de partir tot. Elle accueille quarante mille personnes, le sol de la salle principale est un seul tapis continu, et l'incrustation de marbre de la cour merite autant de temps que l'interieur. L'entree est gratuite ; ce pour quoi vous payez ici, c'est le transport, le guide qui peut vous expliquer ce que vous regardez, et l'abaya fournie aux femmes a la porte.\n\n⚠️ La mosquee est fermee aux visiteurs le vendredi matin et le code vestimentaire s'applique a tous : epaules et genoux couverts, aucun tissu moulant ou transparent. Si votre journee tombe un vendredi, nous deplacerons la mosquee a l'apres-midi.\n\nLe reste de la journee se passe le long de la Corniche avec des arrets photo a Emirates Palace, le dome du Louvre depuis l'exterieur, et le point de vue des Etihad Towers. De l'eau est disponible dans le vehicule tout au long, ce qui en ete a Abu Dhabi n'est pas un petit detail : entre juin et septembre, la marche du parking a une porte est un evenement en soi.",
+  "highlights": [
+   "Grande Mosquee Cheikh Zayed avec un guide, abaya fournie a la porte",
+   "Trajet le long de la Corniche avec arrets a Emirates Palace et aux Etihad Towers",
+   "Arret photo au Louvre Abu Dhabi sous le dome",
+   "Prise en charge a l'hotel a Dubai, vehicule climatise, eau illimitee",
+   "Environ quatre-vingt-dix minutes dans chaque sens, donc la journee n'est pas precipitee"
+  ],
+  "included": [
+   "Prise en charge et depose depuis Dubai",
+   "Guide local professionnel en direct",
+   "Billet d'entree pour la Mosquee Sheikh Zayed",
+   "Arret photo au musee du Louvre",
+   "Arret photo a Emirates Palace",
+   "Point de vue de la Corniche",
+   "Abaya pour les femmes pour la visite de la mosquee (a rendre)",
+   "Eau illimitee",
+   "Visite du deck d'observation de l'Etihad Tower (si l'option Premium est selectionnee)",
+   "Billet d'entree au palais presidentiel Qasr Al Watan (si l'option Premium est selectionnee)"
+  ],
+  "notIncluded": [
+   "Pourboires (optionnel)"
+  ]
+ },
+ "dubai-premium-desert-safari-al-khayma-camp-with-three-buffets": {
+  "title": "Dubai : safari desertique premium au camp Al Khayma avec trois buffets",
+  "metaTitle": "Dubai : safari premium, 3 buffets",
+  "metaDescription": "Safari desertique premium a Al Khayma, le plus grand camp du desert, avec trois buffets (emirati, marocain, arabe) et spectacle de faucon.",
+  "shortDescription": "Al Khayma est le plus grand des camps desertiques et ceci en est le billet premium, qui en pratique signifie trois buffets separes plutot qu'une seule file, un espace assis a l'ecart de la foule principale, et assez de temps pour profiter vraiment du camp...",
+  "fullDescription": "Al Khayma est le plus grand des camps desertiques et ceci en est le billet premium, qui en pratique signifie trois buffets separes plutot qu'une seule file, un espace assis a l'ecart de la foule principale, et assez de temps pour profiter vraiment du camp plutot que manger et partir.\n\nL'apres-midi commence comme tout bon safari : prise en charge a l'hotel en 4x4, pneus degonfles a la ligne des dunes, et une demi-heure a travers le sable rouge. Le sandboard et une balade a dos de chameau suivent, et il y a un faucon au camp, l'oiseau se pose sur votre gant, ce qui fait une meilleure photo que ce que la plupart des gens attendent.\n\nLes trois buffets sont emirati, marocain et arabe, chacun avec sa propre station en direct, et ils durent assez longtemps pour que vous ne soyez pas presse. Autour, le camp propose henne, chicha, nourrissage des chameaux, et les spectacles de tanoura et de feu du soir.\n\nDeux choses a prevoir. Le dune bashing n'est pas doux, signalez donc tout probleme de dos, de cou ou de mal des transports au moment de la reservation. Et le desert devient vraiment froid apres la tombee de la nuit entre novembre et fevrier, le camp est ouvert sur les cotes et une veste rend les deux dernieres heures bien plus agreables.",
+  "highlights": [
+   "Trois buffets separes, emirati, marocain et arabe, avec stations en direct",
+   "Al Khayma, le plus grand des camps desertiques, avec des sieges a l'ecart de la foule",
+   "Manipulation de faucon, nourrissage des chameaux, henne et chicha inclus",
+   "Une demi-heure de dune bashing sur dunes rouges plus sandboard",
+   "4x4 climatise avec prise en charge a l'hotel et guide de desert licencie"
+  ],
+  "included": [
+   "Prise en charge et depose a l'hotel",
+   "Vehicule 4x4 climatise",
+   "Guide de safari desertique licencie",
+   "Dune bashing (30-45 minutes)",
+   "Sandboard",
+   "Courte balade a dos de chameau (repetable)",
+   "Nourrissage des chameaux",
+   "Experience avec faucon",
+   "Gaymat (sucreries), Gahwa (cafe), et dattes",
+   "Tatouage au henne",
+   "Chicha",
+   "Eau et boissons gazeuses illimitees"
+  ],
+  "notIncluded": []
+ },
+ "dubai-full-day-desert-safari-with-buffet-dinner-and-quad-biking": {
+  "title": "Dubai : safari desertique d'une journee complete avec diner buffet et quad",
+  "metaTitle": "Dubai : safari journee complete, quad",
+  "metaDescription": "Sept heures de safari a Dubai : dune bashing, sandboard, quad optionnel, et buffet complet au camp avec spectacles.",
+  "shortDescription": "Sept heures au lieu des quatre habituelles, et le temps supplementaire va ou cela compte : vous atteignez les dunes avant le convoi des camions du soir, et vous etes encore au camp quand le ciel devient vraiment sombre.",
+  "fullDescription": "Sept heures au lieu des quatre habituelles, et le temps supplementaire va ou cela compte : vous atteignez les dunes avant le convoi des camions du soir, et vous etes encore au camp quand le ciel devient vraiment sombre.\n\nLe trajet se fait en 4x4 avec les pneus degonfles pour le sable. Le dune bashing sur les dunes rouges vient en premier, puis un arret photo sur une crete, le sandboard, et une courte balade a dos de chameau. Le quad est disponible en supplement et c'est la raison pour laquelle beaucoup choisissent la version plus longue : les pistes sont plus calmes plus tot dans la journee.\n\nAu camp, le buffet est un veritable assortiment plutot qu'une simple ligne de barbecue : grillades, mezze arabes, salades, pain d'une station en direct et dessert, mange sur des coussins autour de tables basses. Les spectacles se succedent toute la soiree.\n\nA savoir avant de reserver : c'est une visite partagee, donc le vehicule rassemble plusieurs groupes et la fenetre de prise en charge est large, prevoyez cela plutot que de planifier quelque chose de serre avant. L'alcool n'est pas inclus et n'est pas disponible au camp. Et si vous voulez les dunes sans les secousses, dites-le et le chauffeur restera doux ; personne n'est oblige de faire le trajet agressif.",
+  "highlights": [
+   "Sept heures, atteignant les dunes avant la foule du soir",
+   "Dune bashing sur dunes rouges, sandboard et courte balade a dos de chameau",
+   "Quad optionnel sur des pistes plus calmes en debut de journee",
+   "Buffet complet avec stations de pain et de grillades en direct, pas une seule ligne",
+   "4x4 climatise avec prise en charge et depose a l'hotel"
+  ],
+  "included": [
+   "Prise en charge et depose a l'emplacement choisi",
+   "Transport en jeep 4x4 climatisee",
+   "Dune bashing sur dunes rouges",
+   "Sandboard",
+   "Courte balade a dos de chameau",
+   "Quad (si l'option est selectionnee)",
+   "Arret photo",
+   "Dessert",
+   "Eau",
+   "Boissons gazeuses",
+   "Cafe ou the",
+   "Diner buffet barbecue"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisees",
+   "Depenses personnelles",
+   "Pourboires (optionnel)"
+  ]
+ },
+ "dubai-red-dune-evening-safari-with-camel-ride-and-bbq-camp": {
+  "title": "Dubai : safari en soiree dans les dunes rouges avec balade a dos de chameau et diner au camp",
+  "metaTitle": "Dubai : safari du soir, dunes rouges",
+  "metaDescription": "Safari du soir classique a Dubai : dune bashing sur les dunes rouges d'Al Lahbab, coucher de soleil, chameau, sandboard et diner barbecue au camp.",
+  "shortDescription": "Le safari du soir est celui que presque tout le monde fait lors d'un premier voyage a Dubai, et il le merite. Un 4x4 vous prend a l'hotel l'apres-midi, degonfle ses pneus au bord des dunes rouges d'Al Lahbab, et passe une demi-heure a les traverser...",
+  "fullDescription": "Le safari du soir est celui que presque tout le monde fait lors d'un premier voyage a Dubai, et il le merite. Un 4x4 vous prend a l'hotel l'apres-midi, degonfle ses pneus au bord des dunes rouges d'Al Lahbab, et passe une demi-heure a les traverser, la partie que l'on redoute puis que l'on demande a refaire.\n\nApres les dunes, le rythme change completement. Vous vous arretez pour le coucher de soleil, qui sur le sable rouge arrive vite et merite d'avoir un appareil photo pret, puis continuez vers le camp : une courte balade a dos de chameau, du sandboard sur une dune, cafe arabe et dattes, henne, et un barbecue sous les lumieres avec un spectacle de tanoura et de danse du ventre.\n\nDeux choses pratiques. Le dune bashing est vraiment cahoteux, si quelqu'un dans votre groupe est enceinte, a un probleme de dos ou de cou, ou a le mal des transports, dites-le a la reservation et le chauffeur prendra un trajet plus doux. Et apportez une couche supplementaire : le desert perd sa chaleur dès que le soleil se couche, et ceux qui sont venus en short le regrettent dès neuf heures.\n\nLa prise en charge se fait depuis n'importe ou dans le centre de Dubai et le vehicule est climatise tout au long. Le quad est un supplement plutot qu'inclus dans la visite de base, a choisir a l'etape des options si vous le voulez.",
+  "highlights": [
+   "Une demi-heure de dune bashing a travers les dunes rouges d'Al Lahbab",
+   "Arret coucher de soleil avant le camp, avec la lumiere qui fait ces photos",
+   "Balade a dos de chameau, sandboard, henne et cafe arabe au camp",
+   "Diner barbecue avec spectacles de tanoura et de danse du ventre",
+   "Prise en charge et depose a l'hotel en 4x4 climatise"
+  ],
+  "included": [
+   "Prise en charge et depose depuis votre hotel ou l'emplacement choisi",
+   "Transport partage en 4x4 climatise",
+   "Chauffeur licencie anglophone",
+   "Eau et boissons gazeuses illimitees",
+   "Dune bashing pendant 30-45 minutes",
+   "Trajet en quad (si l'option est selectionnee)",
+   "Sandboard",
+   "Courte balade a dos de chameau (repetable)",
+   "The/cafe avec dattes et boissons gazeuses illimitees",
+   "Nourrissage des chameaux (si le tour de 7 heures est selectionne)",
+   "Visite du camp desertique Al Khayma (si le tour de 7 heures est selectionne)",
+   "Gahwa (cafe) et Gaymat (sucreries) de bienvenue au camp (si le tour de 7 heures est selectionne)"
+  ],
+  "notIncluded": [
+   "Boissons alcoolisees",
+   "Depenses personnelles",
+   "Pourboires (optionnel)"
+  ]
+ },
  "city-palace-heritage-full-day-tour": {
   "title": "La Venise de l'Orient : journée guidée patrimoniale à Udaipur",
   "metaTitle": "Udaipur en une journée : City Palace, lac Pichola et Saheliyon ki Bari",
